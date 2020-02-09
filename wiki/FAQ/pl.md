@@ -16,7 +16,7 @@ Na dolnym ekranie mamy wspomniane wcześniej kółka, na górnym zaś przedstawi
 
 ### Jak w to się gra?
 
-*Pełny artykuł: [osu!standard](/wiki/Game_Modes/osu!)*
+**Pełny artykuł: [osu!standard](/wiki/Game_Modes/osu!)**
 
 Z racji że większość użytkowników komputera nie ma żadnego tabletu do dyspozycji, komputerowa wersja osu! została stworzona do gry myszką, jak również innymi kontrolerami o których można pomyśleć. Różne style gry są opisane [w tym artykule](/wiki/Play_Styles). Są piosenki które są praktycznie niemożliwe do przejścia dla grających na myszce, ale wszystkie rankingowe mapy (tzw. ***ranked*** i ***approved***) zostały dogłębnie sprawdzone i są do przejścia na myszce.
 
@@ -92,7 +92,7 @@ To jest interfejs osu!.
 
 ### Czym jest „Taiko”?
 
-*Pełny artykuł: [Taiko](/wiki/Game_Modes/osu!taiko)*
+**Pełny artykuł: [Taiko](/wiki/Game_Modes/osu!taiko)**
 
 ![](/wiki/shared/Interface_taiko.jpg)
 
@@ -134,9 +134,9 @@ Tak jak w podstawowym trybie, rozgrywka skupia się na trzech elementach.
 
 Domyślnymi klawiszami dla trybu Taiko są:
 
-`Czerwone kółka: [Myszka] Lewy przycisk, [Klawiatura] [X] lub [C], [TaTaCon] Centralna powierzchnia bębna.`
-`Niebieskie kółka: [Myszka] Lewy przycisk, [Klawiatura] [Z] lub [V], [TaTaCon] Zewnętrzna powierchnia bębna.`
-`W trakcie gry umiejscowienie kursora nie jest ważne.`
+- Czerwone kółka: [Myszka] Lewy przycisk, [Klawiatura] [X] lub [C], [TaTaCon] Centralna powierzchnia bębna.
+- Niebieskie kółka: [Myszka] Lewy przycisk, [Klawiatura] [Z] lub [V], [TaTaCon] Zewnętrzna powierchnia bębna.
+- W trakcie gry umiejscowienie kursora nie jest ważne.
 
 Jeśli chcesz, możesz konfigurować przyciski w miarę potrzeb za pomocą zakładki Sterowanie w menu Options.
 
@@ -204,7 +204,7 @@ There two different binding-styles, *Symmetrical* and *Left to Right*.
 
 ## Zdobywanie punktów
 
-*Dokładne wytłumaczenie zdobywania punktów może zostać znalezione na poszczególnych stronach odpowiedniego trybu gry.*
+**Dokładne wytłumaczenie zdobywania punktów może zostać znalezione na poszczególnych stronach odpowiedniego trybu gry.**
 
 ### Oceny
 
@@ -233,7 +233,7 @@ There two different binding-styles, *Symmetrical* and *Left to Right*.
 
 ### Gdzie mogę znaleźć i ściągnąć beatmapy?
 
-*Pełny artykuł: [Beatmapy](/wiki/Beatmaps)*
+**Pełny artykuł: [Beatmapy](/wiki/Beatmaps)**
 
 Możesz znaleźć je pod nazwą "[Beatmaps](https://osu.ppy.sh/beatmapsets)".
 

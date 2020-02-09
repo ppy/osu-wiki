@@ -16,7 +16,7 @@ A köröket az alsó képernyőn láthatod, míg a történetet a felsőn. Minde
 
 ### Hogyan kell játszani?
 
-*Teljes magyarázat: [osu! Standard](/wiki/Game_Modes/osu!)*
+**Teljes magyarázat: [osu! Standard](/wiki/Game_Modes/osu!)**
 
 A legtöbb PC felhasználónak valószínűleg nincs érintőképernyője, így a játék egy sima egérrel játszható, valamint szinte bármely más input eszközzel is, ami csak eszedbe jut. A különböző játékstílusokról leírást a [Play Styles](/wiki/Play_Styles) oldalon találsz. Vannak számok, amik az egér határait (és a Te határaidat) feszegetik, de minden (rankolt és jóváhagyott) beatmap tesztelve lett és (nagy részük) lejátszható mindössze egy egérrel.
 
@@ -98,7 +98,7 @@ Ez az osu! felülete.
 
 ### Mi az a "Taiko"?
 
-*Teljes magyarázat: [Taiko](/wiki/Game_Modes/osu!taiko)*
+**Teljes magyarázat: [Taiko](/wiki/Game_Modes/osu!taiko)**
 
 ![](/wiki/shared/Interface_taiko.jpg)
 
@@ -140,9 +140,9 @@ A [Taiko no Tatsujin](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin) egy taiko-
 
 A Taiko mód alapértelmezett gombjai a következők:
 
-`Piros: [Egér] Bal kattintás, [Billentyűzet] [X] vagy [C], [TaTaCon] A dob lapos felülete.`
-`Kék: [Egér] Jobb kattintás, [Billentyűzet] [Z] vagy [V], [TaTaCon] A dob külső felülete.`
-`Az osu! egérmutató pozíciója nem számít.`
+- Piros: [Egér] Bal kattintás, [Billentyűzet] [X] vagy [C], [TaTaCon] A dob lapos felülete.
+- Kék: [Egér] Jobb kattintás, [Billentyűzet] [Z] vagy [V], [TaTaCon] A dob külső felülete.
+- Az osu! egérmutató pozíciója nem számít.
 
 A Beállítások menü Input részén testre szabhatod a használatos billentyűket.
 
@@ -150,7 +150,7 @@ A Beállítások menü Input részén testre szabhatod a használatos billentyű
 
 ![](/wiki/shared/Interface_ctb.jpg)
 
-*Teljes magyarázat: [Catch the Beat](/wiki/Game_Modes/osu!catch)*
+**Teljes magyarázat: [Catch the Beat](/wiki/Game_Modes/osu!catch)**
 
 - A Taiko mód után a Catch the Beat volt a második különleges játékmód, ami bekerült.
 - Körökre kattintás helyett a fogót kell mozgatnod a képernyő alján, miközben gyümölcsök potyognak.
@@ -166,7 +166,7 @@ Ha a [Relax](/wiki/Game_Modifiers) mod aktiválva van, a fogót az egérrel mozg
 
 ![](/wiki/shared/Interface_mania.jpg)
 
-*Teljes magyarázat: [osu!mania](/wiki/Game_Modes/osu!mania)*
+**Teljes magyarázat: [osu!mania](/wiki/Game_Modes/osu!mania)**
 
 - A Taiko és CtB (Catch the Beat) módok után az osu!mania volt a harmadik különleges játékmód, ami bekerült.
 - Ezt a módot szinte az összes főbb ritmusjáték használja, ami jó kéz/láb koordinációt igényel. A nehézség az érkező note-ok számától, a BPM-től (ütem/perc) és a note-ok sebességétől függ. A "futószalag" minden részéhez külön gomb tartozik, és a játékosnak azt a gombot kell a megfelelő időben lenyomnia. Bár ezt a módot eredetileg a Beatmania imitálásra fejlesztették ki, a gombok számának változtatásával hasonlíthat a Guitar Hero-ra (5) vagy a Dance Dance Revolution-re (4). Jelenleg 4, 5, 6, 7 illetve 8 gomb beállítása lehetséges.
@@ -239,7 +239,7 @@ Két különböző beállítás létezik, *Szimmetrikus* és *Balról-Jobbra*. (
 
 ### Hol találhatom meg és szerezhetem be a beatmapeket?
 
-*Részletesen a beatmapekről angol nyelven: [Beatmaps](/wiki/Beatmaps)*
+**Részletesen a beatmapekről angol nyelven: [Beatmaps](/wiki/Beatmaps)**
 
 A főoldalról, a "[Beatmaps](https://osu.ppy.sh/beatmapsets)" menüpont alatt találod őket.
 

@@ -320,7 +320,7 @@ osu!mania是继太鼓和接水果模式后，第三个加入的特别模式
 
 Pokebis 已经收集了一些适合初学者玩的谱面。您可以在这里[下载](https://osu.ppy.sh/community/forums/topics/5456)。
 
-同时，您可以[按照难度来对谱面列表进行重新排序](https://osu.ppy.sh/beatmapsets?q=&m=-1)。最容易的谱面就在列表的最上面。
+同时，您可以[按照难度来对谱面列表进行重新排序](https://osu.ppy.sh/beatmapsets)。最容易的谱面就在列表的最上面。
 
 您也可以看[这一帖](https://osu.ppy.sh/community/forums/topics/13976)，Alace为中文玩家整理了一些简单的谱面并作了难点分析。挑选适合自己的谱面开始您的osu!旅程吧！
 

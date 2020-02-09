@@ -16,7 +16,7 @@ Makikita mo yung mga circles sa ibaba ng screen (Left), at sa taas ng screen ay 
 
 ### Paano maglaro?
 
-*Buong explenation (English): [osu! Standard](/wiki/Game_Modes/osu!)*
+**Buong explenation (English): [osu! Standard](/wiki/Game_Modes/osu!)**
 
 Habang ang iba ay walang touchscreen sa kanila, ang laro na ito ay pwede parin malaro ng normal na mouse, at ang iba pang input devices na pwede mong maisip. Iba ibang klase ng play style ay matagpuhan sa [Play Styles](/wiki/Play_Styles) na pahina. May mga kanta na tinutulak ang limitation ng normal na mouse (at tsaka ikaw), pero lahat ng (ranked at approved) na beatmaps ay na tested at (ilan lang ang) mapapasado gamit ng mouse lang.
 
