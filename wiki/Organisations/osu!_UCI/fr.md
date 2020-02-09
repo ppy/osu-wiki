@@ -25,13 +25,15 @@ Voir le [osu! Index des tournois UCI](/wiki/Tournaments/osu!_UCI) pour obtenir d
 
 ### Actuel
 
-- ![][flag_US] Alex "[Riku sur osu](https://osu.ppy.sh/users/3071659)" Liu (*Président*)
+- ![][flag_US] Alex "[Riku on osu](https://osu.ppy.sh/users/3071659)" Liu (*Président*)
 - ![][flag_US] Adrien "[R34pling](https://osu.ppy.sh/users/7662172)" Huynh Huu
-- ![][flag_US] Jason "[jlin_02](https://osu.ppy.sh/users/13192092)" Lin
+- ![][flag_US] Jason "[[Blue]](https://osu.ppy.sh/users/13192092)" Lin
 - ![][flag_US] Jonathan "[ilalalayou](https://osu.ppy.sh/users/3144766)" Cheng
 - ![][flag_US] Julissa "[phamitsu](https://osu.ppy.sh/users/13045418)" Becerra
+- ![][flag_US] Khiem "[PingusKhan](https://osu.ppy.sh/users/9648050)" Dinh
+- ![][flag_US] Loc "[Sukida](https://osu.ppy.sh/users/4097867)" Trinh
 - ![][flag_US] Megan "[migin](https://osu.ppy.sh/users/11118735)" Ikemoto
-- ![][flag_US] Nicholas "[_Breeze](https://osu.ppy.sh/users/9726582)" Budding
+- ![][flag_US] Nicholas "[[Nick]](https://osu.ppy.sh/users/9726582)" Budding
 
 ### Alumni
 
