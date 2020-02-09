@@ -7,6 +7,8 @@ tumblr_url: http://osunews.tumblr.com/post/152637359823/recognising-the-best-of-
 
 The osu! community is comprised of hundreds of thousands of people. Among this huge number are a selection of incredible individuals who go far beyond the rest in their contributions to the community, and make the game better for everyone as a result. To celebrate November, we're announcing a new round of Community Contributor Badges and a new entrant into the osu! Hall of Fame.
 
+![](/wiki/shared/news/2016-11-02-recognising-the-best-of-the-best/header.jpg)
+
 ## Community Contributors
 
 Community contributors are a select pick of long-term members of the community that have given huge portions of their time and effort towards making things more awesome for people. While not every effort they make is visible to all people, recipients of the badge are undoubtedly a positive influence on the community and exemplify everything that we could ever want from the osu! community as a whole.
