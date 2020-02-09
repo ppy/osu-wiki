@@ -1,7 +1,7 @@
 ---
 tags:
+  - otst
   - otst!
-  - otst! 2020
 ---
 
 # osu! TV Size Tournament 2020
@@ -65,7 +65,7 @@ The osu! TV Size Tournament 2020 is run by various community members.
 
 ### General rules
 
-1. There will be 7 mappools in total - Qualifiers, Round of 32, Round of 16, Quarterfinals, Semifinals, Finals, and Grand Finals.
+1. There will be 7 mappools in total: Qualifiers, Round of 32, Round of 16, Quarterfinals, Semifinals, Finals, and Grand Finals.
 2. Double elimination bracket is started directly after qualifiers.
 3. Maps will be no longer than 2 minutes drain time.
 4. The winner of `!roll` will ban second and pick first.
@@ -87,11 +87,11 @@ The osu! TV Size Tournament 2020 is run by various community members.
 2. Each member of the team must be in the Discord server to verify their participation.
 3. If a player changes their name, they (or a team captain) needs to inform the manager as soon as possible to avoid misunderstandings in a match.
 4. If a player exhibits suspicious behavior, including but not limited to suspected multi-accounting or cheating, their participation in the tournament might be prohibited, subject to tournament host discretion.
-5. Accounts that were recently unbanned or suspended within 12 months prior to signups will not be allowed to participate in otst!
+5. Accounts that were recently unbanned or suspended within 12 months prior to signups will not be allowed to participate in otst!.
 
 ### Scheduling
 
-1. **All times in the scheduled are in UTC**
+1. **All times in the scheduled are in UTC.**
 2. Scheduling will be based on team timezones to avoid as many no-shows as possible.
 3. If any team wants to reschedule a match, please have the requesting and the opposing team agree on the new time and have either team captain submit proof of agreement in `#reschedule` text channel on otst!'s Discord server by **Thursday 23:59 UTC**.
 4. All matches must be 4v4s
@@ -114,19 +114,19 @@ The osu! TV Size Tournament 2020 is run by various community members.
 9. Team captains must `!roll` again at the start of the tiebreaker; highest roll will decide which TB map to play first.
    - Players are allowed, however not required, to use mods in the tiebreaker bracket.
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TR]: /wiki/shared/flag/TR.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VN]: /wiki/shared/flag/VN.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
