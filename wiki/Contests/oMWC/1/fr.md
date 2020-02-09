@@ -1,4 +1,5 @@
 ---
+no_native_review: true
 tags:
   - o!MWC
   - oMWC
@@ -6,15 +7,15 @@ tags:
 
 # osu! Mapping World Cup #1
 
-![oMWC Banner](img/logo.png)
+![oMWC banner](img/logo.png)
 
 Le **osu! Mapping World Cup #1** (***oMWC #1***) est un concours national de mappers osu! organisé par ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108), ![][flag_FR] [Imakuri](https://osu.ppy.sh/users/6100837) et ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983).
 
 ## Calendrier du concours
 
 | Événement | Horodatage |
-| -- : | :-- |
-| Candidatures des ambassadeurs d'équipe | 2018-12-11/2018-12-27|
+| --: | :-- |
+| Candidatures des ambassadeurs d'équipe | 2018-12-11/2018-12-27 |
 | Ramassage de l'équipe | 2018-12-27/2019-01-11 |
 | Phase de cartographie | 2019-01-12/2019-02-09 |
 | Phase de jugement | 2019-02-09/2019-03-09 |
@@ -22,13 +23,11 @@ Le **osu! Mapping World Cup #1** (***oMWC #1***) est un concours national de map
 
 ## Prix
 
-Dans chaque osu ! Mapping World Cup, les personnes qui conquièrent une place sur le podium sont éligibles pour recevoir des prix uniques créés spécifiquement pour la Coupe du Monde osu ! Mapping World Cup. Il est possible que ces articles changent à chaque édition de l'osu ! Mapping World Cup.
-
 | Placement | Prix(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 6 mois de  osu!supporter pour chaque membre de l'équipe, badge de profil |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 4 mois  de osu!supporter pour chaque membre de l'équipe |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 2 mois de osu!supporter pour chaque membre de l'équipe |
+| ![Gold crown](/wiki/shared/GCrown.png "1st place") | 6 mois de  osu!supporter pour chaque membre de l'équipe, badge de profil |
+| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | 4 mois  de osu!supporter pour chaque membre de l'équipe |
+| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | 2 mois de osu!supporter pour chaque membre de l'équipe |
 
 ## Organisation
 
@@ -85,15 +84,13 @@ L'osu ! Mapping World Cup est géré par différents membres de la communauté e
 | ![][flag_UA] | **Ukraine** | **[Sulfur](https://osu.ppy.sh/users/5297447)**, [Aka](https://osu.ppy.sh/users/1307553), [den0saur](https://osu.ppy.sh/users/5385151), [InternalLight](https://osu.ppy.sh/users/6221637) |
 | ![][flag_VN] | **Vietnam** | **[LMT](https://osu.ppy.sh/users/7262798)**, [Asaiga](https://osu.ppy.sh/users/2959560), [Kirylln](https://osu.ppy.sh/users/7228554), [Liyuchi](https://osu.ppy.sh/users/3275495), [Shortthu](https://osu.ppy.sh/users/7985423), [Stormiverse](https://osu.ppy.sh/users/8705545) |
 
-------------------------------------------------------------------------
+---
 
-![oMWC \#1 Podium](img/podium.png)
-
-------------------------------------------------------------------------
+![oMWC #1 podium](img/podium.jpg)
 
 ## Ruleset
 
-### Contest Rules
+### Contest rules
 
 1. **Le [osu! Ranking Criteria](/wiki/Ranking_Criteria/osu!) et [General Ranking Criteria](/wiki/Ranking_Criteria) sont en vigueur pour ce concours** - Le prix gagnant du concours comprend le classement des entrées des équipes gagnantes, qui seront les 3 chansons soumises par l'équipe de mappeurs, nous ne pouvons pas faire cela si vous ne respectez pas les critères de classement. Toute difficulté requise pour remplir les exigences des Critères de Classement sera fournie par l'équipe organisatrice.
 2. **4-7 membres par équipe requis** - Le concept principal du concours est de montrer les possibilités de cartographie de chaque pays. Cela signifie que la collaboration sera un concept nécessaire entre les membres de l'équipe.
@@ -109,41 +106,39 @@ L'osu ! Mapping World Cup est géré par différents membres de la communauté e
 
 1. **Comment ce concours fonctionne-t-il ?**
 
-    Vous aurez pour tâche de travailler sur 3 chansons différentes, chacune provenant de 3 genres musicaux différents. Vous et votre équipe devez travailler sur les trois chansons comme une difficulté de collaboration. Chacun de vous devra cartographier au moins 10% du temps total de drainage des 3 chansons combinées. Lorsque votre équipe aura terminé la cartographie, votre ambassadeur d'équipe enverra l'entrée en tant que PM à Imakuri ou Pachiru (osu!forum ou Discord). Vos entrées seront alors jugées, et les résultats seront annoncés sur un livestream Twitch après que la phase de jugement soit terminée.
+   Vous aurez pour tâche de travailler sur 3 chansons différentes, chacune provenant de 3 genres musicaux différents. Vous et votre équipe devez travailler sur les trois chansons comme une difficulté de collaboration. Chacun de vous devra cartographier au moins 10% du temps total de drainage des 3 chansons combinées. Lorsque votre équipe aura terminé la cartographie, votre ambassadeur d'équipe enverra l'entrée en tant que PM à Imakuri ou Pachiru (osu!forum ou Discord). Vos entrées seront alors jugées, et les résultats seront annoncés sur un livestream Twitch après que la phase de jugement soit terminée.
 
 2. **Quelles seront les chansons?**
 
-    Les chansons seront révélées le 12 janvier sur le Discord Server.
+   Les chansons seront révélées le 12 janvier sur le Discord Server.
 
 3. **“Au moins 2 cartographes devront collaborer PAR CHANSON et chaque cartographe devra cartographier au moins 10% du TEMPS TOTAL DE VIDANGE pour les 3 chansons combinées" - Cela signifie-t-il que je dois cartographier les 3 chansons ?**
 
-    Non, en tant que participant, vous avez la liberté de choisir la chanson à laquelle vous souhaitez le plus participer/la carte. Vous devez cartographier au moins les 10% du temps de drainage TOTAL des 3 chansons, ce qui signifie que vous devez cartographier 10% du temps de drainage total des 3 chansons combinées. Par exemple, si les 3 chansons combinées totalisent 10 minutes de temps de drainage (et non de durée), vous devrez cartographier au moins 60 secondes de temps de drainage réparties sur 1 chanson ou sur les 3 chansons si vous le souhaitez. Aussi 2 mappeurs sont requis PAR CHANSON au strict minimum, ceci afin de s'assurer que la partie collaboration du concours est toujours retenue.
+   Non, en tant que participant, vous avez la liberté de choisir la chanson à laquelle vous souhaitez le plus participer/la carte. Vous devez cartographier au moins les 10% du temps de drainage TOTAL des 3 chansons, ce qui signifie que vous devez cartographier 10% du temps de drainage total des 3 chansons combinées. Par exemple, si les 3 chansons combinées totalisent 10 minutes de temps de drainage (et non de durée), vous devrez cartographier au moins 60 secondes de temps de drainage réparties sur 1 chanson ou sur les 3 chansons si vous le souhaitez. Aussi 2 mappeurs sont requis PAR CHANSON au strict minimum, ceci afin de s'assurer que la partie collaboration du concours est toujours retenue.
 
 4. **Qu'est-ce qu'un "ambassadeur d'équipe"?**
 
-    Les ambassadeurs d'équipe sont des " capitaines de pays " qui seront choisis par l'équipe du personnel parmi les soumissions d'ambassadeurs d'équipe. Ils seront choisis en fonction de leur expérience en cartographie et de leur implication dans la communauté de la cartographie. Ils représenteront leur pays aux côtés de leur équipe. Pour confirmer leur choix, l'ambassadeur de l'équipe doit envoyer un PM à Imakuri ou à Pachiru (osu!forum ou Discord). Si l'un des membres de l'équipe ne peut pas participer au concours, les Ambassadeurs ont jusqu'au 11 janvier pour changer leurs choix si nécessaire.
+   Les ambassadeurs d'équipe sont des " capitaines de pays " qui seront choisis par l'équipe du personnel parmi les soumissions d'ambassadeurs d'équipe. Ils seront choisis en fonction de leur expérience en cartographie et de leur implication dans la communauté de la cartographie. Ils représenteront leur pays aux côtés de leur équipe. Pour confirmer leur choix, l'ambassadeur de l'équipe doit envoyer un PM à Imakuri ou à Pachiru (osu!forum ou Discord). Si l'un des membres de l'équipe ne peut pas participer au concours, les Ambassadeurs ont jusqu'au 11 janvier pour changer leurs choix si nécessaire.
 
 5. **Et si mon pays n'a pas d'ambassadeur de l'équipe ?**
 
-    Les demandes d'ambassadeurs prendront fin le 27 décembre. Si personne n'a postulé pour être ambassadeur de votre pays d'ici là, vous ne pourrez pas participer au concours. Assurez-vous d'en informer les cartographes de votre pays à l'avance !
-    Le pays avec lequel vous serez autorisé à participer sera basé sur le drapeau de votre profil.
-    Cependant, pour certains pays comme la Belgique - Luxembourg - Pays-Bas, aussi connu sous le nom de Benelux, et l'Australie - Nouvelle-Zélande, une fusion est possible pour remédier au manque de mappeurs. Les pays qui fusionnent doivent parler la même langue (en plus de l'anglais si ce n'est pas la langue officielle de leur pays), ou doivent être voisins.
+   Les demandes d'ambassadeurs prendront fin le 27 décembre. Si personne n'a postulé pour être ambassadeur de votre pays d'ici là, vous ne pourrez pas participer au concours. Assurez-vous d'en informer les cartographes de votre pays à l'avance ! Le pays avec lequel vous serez autorisé à participer sera basé sur le drapeau de votre profil. Cependant, pour certains pays comme la Belgique - Luxembourg - Pays-Bas, aussi connu sous le nom de Benelux, et l'Australie - Nouvelle-Zélande, une fusion est possible pour remédier au manque de mappeurs. Les pays qui fusionnent doivent parler la même langue (en plus de l'anglais si ce n'est pas la langue officielle de leur pays), ou doivent être voisins.
 
 6. **Puis-je avoir ma propre équipe pour mon pays même s'il en a déjà une ?**
 
-    Non. Chaque pays n'aura qu'un seul ambassadeur d'équipe pour le représenter.
+   Non. Chaque pays n'aura qu'un seul ambassadeur d'équipe pour le représenter.
 
 7. **Est-ce que je dois rejoindre le serveur Discord pour participer ?**
 
-    Seul l'ambassadeur de l'équipe est nécessaire pour rejoindre le serveur Discord. Les membres de l'équipe sont cependant libres de se joindre ou non. Bien que ne pas se joindre à l'équipe vous fera manquer des annonces importantes et un canal texte privé sur le pays qui sera SEULEMENT disponible sur le serveur Discord.
+   Seul l'ambassadeur de l'équipe est nécessaire pour rejoindre le serveur Discord. Les membres de l'équipe sont cependant libres de se joindre ou non. Bien que ne pas se joindre à l'équipe vous fera manquer des annonces importantes et un canal texte privé sur le pays qui sera SEULEMENT disponible sur le serveur Discord.
 
 8. **Puis-je rejoindre le serveur Discord même si je ne veux pas participer au concours ?**
 
-    Oui. Il y a un lien public en haut du message du forum. En vous inscrivant, vous serez dans le canal #arrivée, où vous devrez poster votre lien de profil osu ! et ensuite un membre du staff/modérateur vous acceptera.
+   Oui. Il y a un lien public en haut du message du forum. En vous inscrivant, vous serez dans le canal #arrivée, où vous devrez poster votre lien de profil osu ! et ensuite un membre du staff/modérateur vous acceptera.
 
 9. **Je suis restreint, je peux quand même participer ?**
 
-    Non. Pour la légitimité de ce concours, nous ne pouvons pas accepter d'utilisateurs restreints.
+   Non. Pour la légitimité de ce concours, nous ne pouvons pas accepter d'utilisateurs restreints.
 
 10. **Je suis de Singapour mais j'ai le drapeau russe, puis-je faire partie de l'équipe de Singapour ?**
 
@@ -151,7 +146,6 @@ L'osu ! Mapping World Cup est géré par différents membres de la communauté e
 
 [flag_AT]: /wiki/shared/flag/AT.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
 [flag_CH]: /wiki/shared/flag/CH.gif
