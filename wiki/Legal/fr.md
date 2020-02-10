@@ -1,4 +1,4 @@
-# Legal
+# Informations légales
 
 Page d'index pour tous les articles juridiques. Leurs liens se trouvent également dans le pied de page du site d'osu!
 
