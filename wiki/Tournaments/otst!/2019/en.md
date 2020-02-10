@@ -1,23 +1,22 @@
 ---
 tags:
-- osu! TV Size Tournament 2019
-- otst! 2019
-- otst!2019
+  - otst
+  - otst!
 ---
 
 # osu! TV Size Tournament 2019
 
-![otst! 2019 Logo](img/logo.png)
+![otst! 2019 logo](img/logo.png)
 
 The **osu! TV Size Tournament 2019** (***otst! 2019***) was a double-elimination four-on-four osu! tournament hosted by ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) and ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214). It featured a variety of TV-sized (usually 90 seconds in length) maps in its mappools. It was the third installment of the osu! TV Size Tournament.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-01-26/2019-02-10 |
-| Live Drawings | 2019-02-23 (14:00 UTC) |
-| Group Stage | 2019-03-02/2019-03-11 |
+| Registration phase | 2019-01-26/2019-02-10 |
+| Live drawings | 2019-02-23 (14:00 UTC) |
+| Group Stage | 2019-03-02/2019-03-10 |
 | Round of 16 | 2019-03-16/2019-03-17 |
 | Quarterfinals | 2019-03-23/2019-03-24 |
 | Semifinals | 2019-03-30/2019-03-31 |
@@ -28,9 +27,9 @@ The **osu! TV Size Tournament 2019** (***otst! 2019***) was a double-elimination
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge |
+| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge |
 
-![otst! 2019 Winner Badge](img/badge.png)
+![otst! 2019 winner badge](img/badge.png)
 
 ## Organisation
 
@@ -39,13 +38,13 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) |
-| Map Selector | ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_DE] [Ikikaera](https://osu.ppy.sh/users/3922920), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214) |
+| Map selector | ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_DE] [Ikikaera](https://osu.ppy.sh/users/3922920), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214) |
 | Streamer | ![][flag_PL] [Borsuk664](https://osu.ppy.sh/users/3075673), ![][flag_MA] [clorox\_1g](https://osu.ppy.sh/users/9702728) |
 | Commentator | ![][flag_US] [Badge When](/users/9378089), ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_DE] [-Haruki](https://osu.ppy.sh/users/3673149), ![][flag_MY] [Jeffrey](https://osu.ppy.sh/users/4777134), ![][flag_CH] [TheLamaHD](https://osu.ppy.sh/users/5297955), ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946), ![][flag_VN] [Yaezaki](https://osu.ppy.sh/users/11254509) |
 | Statistician | ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568) |
 | Designer | ![][flag_DE] [Donger Deluxe](https://osu.ppy.sh/users/4838846) |
 | Referee | ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_DE] [Green\_Planet](https://osu.ppy.sh/users/9375311), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_MY] [Jeffrey](https://osu.ppy.sh/users/4777134), ![][flag_DE] [Mikel](/users/2122303), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_PL] [P a t r i c k](https://osu.ppy.sh/users/6814521), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911) |
-| Wiki Editor | ![][flag_ID] [Naruk](https://osu.ppy.sh/users/7100002) |
+| Wiki editor | ![][flag_ID] [Naruk](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -54,7 +53,7 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 - [Livestream](https://twitch.tv/osu_otst)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1COneF_D_UM6ApTJx2Bw5P7WVXLQca0WH2Sun5aeaQgs/edit?usp=sharing)**
 
------------------------
+---
 
 ## Participants
 
@@ -95,7 +94,7 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 
 ## Groups
 
-| Group | Top Seed | High Seed | Mid Seed | Low Seed |
+| Group | Top seed | High seed | Mid seed | Low seed |
 | :-: | :-- | :-- | :-- | :-- |
 | **A** | =yahe | Roselia | our angel kodama | all waifu hero |
 | **B** | Rubber Conquest | BRATVA I KOLCO | budget aussies | ok\_hand osu |
@@ -106,7 +105,7 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 | **G** | osu | bruh | AGO DIMENSIONS | Lux Aeterna |
 | **H** | Floating up | Gruuuu | canvas garden | Farmers |
 
------------------------
+---
 
 ## Podium
 
@@ -114,11 +113,11 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Floating up |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Rubber Conquest |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | #arsecrackers |
+| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Floating up |
+| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | Rubber Conquest |
+| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | #arsecrackers |
 
------------------------
+---
 
 ## Mappools
 
@@ -266,54 +265,70 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
   - **[EGOIST - The Everlasting Guilty Crown (TV Size) (Pata-Mon) \[Pata-Mon's Another\]](https://osu.ppy.sh/beatmapsets/622109#osu/1584207)**
   - **[Camellia - Towards The Horizon (Nerova Riuz GX) \[A Tale from the Wayfarer\]](https://osu.ppy.sh/beatmapsets/578445#osu/1224754)**
 
-------------------------------------------------------------------------
+---
 
-## Match Results
+## Match results
 
 ### Grand Finals
 
-| Saturday, 2019-04-13 |  |  |  |  |
+Saturday, 13 April 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Rubber Conquest** | **7** | 2 | #arsecrackers | [#1](https://osu.ppy.sh/community/matches/50969219) |
 
-| Sunday, 2019-04-14 |  |  |  |  |
+Sunday, 14 April 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Floating up** | **7** | 4 | Rubber Conquest | [#1](https://osu.ppy.sh/community/matches/51001074) |
 
 ### Finals
 
-| Friday, 2019-04-05 |  |  |  |  |
+Friday, 5 April 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **#arsecrackers** | **7** | 0 | osu | [#1](https://osu.ppy.sh/community/matches/50772401) |
 
-| Saturday, 2019-04-06 |  |  |  |  |
+Saturday, 6 April 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | la profanacion | 0 | **7** | **=yahe** | [#1](https://osu.ppy.sh/community/matches/50785429) |
 | Rubber Conquest | 6 | **7** | **Floating up** | [#1](https://osu.ppy.sh/community/matches/50797248) |
 
-| Sunday, 2019-04-07 |  |  |  |  |
+Sunday, 7 April 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **#arsecrackers** | **7** | 1 | =yahe | [#1](https://osu.ppy.sh/community/matches/50825991) |
 
 ### Semifinals
 
-| Saturday, 2019-03-30 |  |  |  |  |
+Saturday, 30 March 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Hotel for Lolis | 0 | **6** | **HDcarryEmertxE** | -win by default- |
+| Hotel for Lolis | 0 | **6** | **HDcarryEmertxE** | *win by default* |
 | **=yahe** | **6** | 2 | BRATVA I KOLCO | [#1](https://osu.ppy.sh/community/matches/50634229) |
 | la profanacion | 0 | **6** | **Floating up** | [#1](https://osu.ppy.sh/community/matches/50640225) |
 | **Rubber Conquest** | **6** | 1 | #arsecrackers | [#1](https://osu.ppy.sh/community/matches/50639980) |
 | **osu** | **6** | 0 | canvas garden | [#1](https://osu.ppy.sh/community/matches/50643782) |
 | **Riven small PP** | **6** | 0 | derust | [#1](https://osu.ppy.sh/community/matches/50646961) |
 
-| Sunday, 2019-03-31 |  |  |  |  |
+Sunday, 31 March 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Riven small PP | 5 | **6** | **=yahe** | [#1](https://osu.ppy.sh/community/matches/50656022) |
 | **osu** | **6** | 4 | HDcarryEmertxE | [#1](https://osu.ppy.sh/community/matches/50669409) |
 
 ### Quarterfinals
 
-| Saturday, 2019-03-23 |  |  |  |  |
+Saturday, 23 March 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | =yahe | 2 | **6** | **Rubber Conquest** | [#1](https://osu.ppy.sh/community/matches/50460029) |
 | osu | 3 | **6** | **Floating up** | [#1](https://osu.ppy.sh/community/matches/50470080) |
@@ -321,22 +336,28 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 | Riven small PP | 5 | **6** | **#arsecrackers** | [#1](https://osu.ppy.sh/community/matches/50479946) |
 | **la profanacion** | **6** | 4 | Hotel for Lolis | [#1](https://osu.ppy.sh/community/matches/50482893) |
 
-| Sunday, 2019-03-24 |  |  |  |  |
+Sunday, 24 March 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **canvas garden** | **6** | 0 | bruh | -win by default- |
-| **BRATVA I KOLCO** | **6** | 0 | Roselia | -win by default- |
-| **derust** | **6** | 0 | Raise My PeePee | -win by default- |
+| **canvas garden** | **6** | 0 | bruh | *win by default* |
+| **BRATVA I KOLCO** | **6** | 0 | Roselia | *win by default* |
+| **derust** | **6** | 0 | Raise My PeePee | *win by default* |
 
 ### Round of 16
 
-| Saturday, 2019-03-16 |  |  |  |  |
+Saturday, 16 March 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **=yahe** | **5** | 1 | canvas garden | [#1](https://osu.ppy.sh/community/matches/50300937) |
 | **Rubber Conquest** | **5** | 1 | bruh | [#1](https://osu.ppy.sh/community/matches/50304223) |
 | **Riven small PP** | **5** | 1 | HDcarryEmertxE | [#1](https://osu.ppy.sh/community/matches/50308416) |
 | **osu** | **5** | 0 | BRATVA I KOLCO | [#1](https://osu.ppy.sh/community/matches/50313531) |
 
-| Sunday, 2019-03-17 |  |  |  |  |
+Sunday, 17 March 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **#arsecrackers** | **5** | 3 | Valhalla | [#1](https://osu.ppy.sh/community/matches/50333220) |
 | **Floating up** | **5** | 0 | Roselia | [#1](https://osu.ppy.sh/community/matches/50339271) |
@@ -345,7 +366,9 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 
 ### Group Stage
 
-| Group | Saturday, 2019-03-02 |  |  |  |  |
+Saturday, 2 March 2019:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | A | **=yahe** | **4** | 0 | all waifu hero | [#1](https://osu.ppy.sh/community/matches/49966533) |
 | B | **BRATVIA I KOLCO** | **4** | 3 | budget aussies | [#1](https://osu.ppy.sh/community/matches/49960437) |
@@ -354,30 +377,36 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 | B | **Rubber Conquest** | **4** | 0 | BRATVA I KOLCO | [#1](https://osu.ppy.sh/community/matches/49975294) |
 | B | **Rubber Conquest** | **4** | 0 | ok\_hand osu | [#1](https://osu.ppy.sh/community/matches/49977263) |
 
-| Group | Sunday, 2019-03-03 |  |  |  |  |
+Sunday, 3 March 2019:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | C | **Riven small PP** | **4** | 0 | RNG Game | [#1](https://osu.ppy.sh/community/matches/49977155) |
 | A | **Roselia** | **4** | 1 | our angel kodama | [#1](https://osu.ppy.sh/community/matches/49980847) |
 | D | Gay Squad | 1 | **4** | **tibi saised** | [#1](https://osu.ppy.sh/community/matches/49984774) |
 | A | **=yahe** | **4** | 2 | Roselia | [#1](https://osu.ppy.sh/community/matches/49985847) |
 | A | **Roselia** | **4** | 1 | all waifu hero | [#1](https://osu.ppy.sh/community/matches/49986794) |
-| C | Fine Lady Squad | 0 | **4** | **Raise My PeePee** | -win by default- |
+| C | Fine Lady Squad | 0 | **4** | **Raise My PeePee** | *win by default* |
 | B | **Rubber Conquest** | **4** | 1 | budget aussies | [#1](https://osu.ppy.sh/community/matches/49988835) |
 | D | **#arsecrackers** | **4** | 0 | tibi saised | [#1](https://osu.ppy.sh/community/matches/49988707) |
-| B | **budget aussies** | **4** | 0 | ok\_hand osu | -win by default- |
+| B | **budget aussies** | **4** | 0 | ok\_hand osu | *win by default* |
 | C | **Riven small PP** | **4** | 3 | Fine Lady Squad | [#1](https://osu.ppy.sh/community/matches/49999804) |
 | D | **#arsecrackers** | **4** | 0 | la profanacion | [#1](https://osu.ppy.sh/community/matches/50001127) |
 | C | **Fine Lady Squad** | **4** | 1 | RNG Game | [#1](https://osu.ppy.sh/community/matches/50002529) |
 | D | **#arsecrackers** | **4** | 0 | Gay Squad | [#1](https://osu.ppy.sh/community/matches/50002657) |
 
-| Group | Monday, 2019-03-04 |  |  |  |  |
+Monday, 4 March 2019:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | C | **Riven small PP** | **4** | 1 | Raise My PeePee | [#1](https://osu.ppy.sh/community/matches/50009003) |
 | D | **la profanacion** | **4** | 0 | Gay Squad | [#1](https://osu.ppy.sh/community/matches/50012995) |
 | D | **la profanacion** | **4** | 1 | tibi saised | [#1](https://osu.ppy.sh/community/matches/50014006) |
 | C | **Raise My PeePee** | **4** | 0 | RNG Game | [#1](https://osu.ppy.sh/community/matches/50014778) |
 
-| Group | Saturday, 2019-03-09 |  |  |  |  |
+Saturday, 9 March 2019:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | E | derust | 1 | **4** | **Restricted Mode** | [#1](https://osu.ppy.sh/community/matches/50128761) |
 | F | Viva Franc0 | 0 | **4** | **HDcarryEmertxE** | [#1](https://osu.ppy.sh/community/matches/50139948) |
@@ -385,34 +414,36 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 | E | **Valhalla** | **4** | 0 | Restricted Mode | [#1](https://osu.ppy.sh/community/matches/50142861) |
 | F | **HDcarryEmertxE** | **4** | 0 | we are bad | [#1](https://osu.ppy.sh/community/matches/50144544), [#2](https://osu.ppy.sh/community/matches/50145538) |
 | F | **Viva Franc0** | **4** | 2 | we are bad | [#1](https://osu.ppy.sh/community/matches/50152135) |
-| F | Viva Franc0 | 0 | 4 | **Hotel for Lolis** | -win by default- |
+| F | Viva Franc0 | 0 | 4 | **Hotel for Lolis** | *win by default* |
 | E | **derust** | **4** | 0 | KureanFarmsPP | [#1](https://osu.ppy.sh/community/matches/50153819) |
 | G | **osu** | **4** | 0 | AGO DIMENSIONS | [#1](https://osu.ppy.sh/community/matches/50155420) |
 | E | **Restricted Mode** | **4** | 1 | KureanFarmsPP | [#1](https://osu.ppy.sh/community/matches/50155843) |
 
-| Group | Sunday, 2019-03-10 |  |  |  |  |
+Sunday, 10 March 2019:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | F | **Hotel for Lolis** | **4** | 0 | we are bad | [#1](https://osu.ppy.sh/community/matches/50159916) |
-| H | **Gruuuu** | **4** | 0 | Farmers | -win by default- |
+| H | **Gruuuu** | **4** | 0 | Farmers | *win by default* |
 | F | HDcarryEmertxE | 2 | **4** | **Hotel for Lolis** | [#1](https://osu.ppy.sh/community/matches/50160870) |
-| E | Valhalla | 0 | **4** | **derust** | -win by default- |
+| E | Valhalla | 0 | **4** | **derust** | *win by default* |
 | E | **Valhalla** | **4** | 0 | KureanFarmsPP | [#1](https://osu.ppy.sh/community/matches/50168843) |
 | H | **Floating up** | **4** | 1 | canvas garden | [#1](https://osu.ppy.sh/community/matches/50169895) |
 | G | **AGO DIMENSIONS** | **4** | 2 | Lux Aeterna | [#1](https://osu.ppy.sh/community/matches/50170268) |
 | A | **=yahe** | **4** | 0 | our angel kodama | [#1](https://osu.ppy.sh/community/matches/50171664) |
 | H | **Floating up** | **4** | 1 | Gruuuu | [#1](https://osu.ppy.sh/community/matches/50171281) |
 | H | Gruuuu | 3 | **4** | **canvas garden** | [#1](https://osu.ppy.sh/community/matches/50172937) |
-| H | **Floating Up** | **4** | 0 | Farmers | -win by default- |
-| H | **canvas garden** | **4** | 0 | Farmers | -win by default- |
+| H | **Floating Up** | **4** | 0 | Farmers | *win by default* |
+| H | **canvas garden** | **4** | 0 | Farmers | *win by default* |
 | G | **bruh** | **4** | 0 | Lux Aeterna | [#1](https://osu.ppy.sh/community/matches/50180722) |
 | G | **osu** | **4** | 0 | Lux Aeterna | [#1](https://osu.ppy.sh/community/matches/50182185) |
 | G | **osu** | **4** | 0 | bruh | [#1](https://osu.ppy.sh/community/matches/50183431) |
 
-------------------------------------------------------------------------
+---
 
 ## Ruleset
 
-### General Rules
+### General rules
 
 1. There will be six mappools in total: Group stage, Round of 32, Round of 16, Quarterfinals, Semifinals, and Finals.
 2. Mappool sizes will progressively get bigger each round after Ro16. Starting with a 4/2/2/2/2/3 format. This format will be explained as follows:
@@ -429,7 +460,7 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 7. Tiebreakers will be a BO3 instead of a single match.
    - `!roll`, higher roll picks first during a tiebreaker.
 
-### Match Format
+### Match format
 
 1. In Group Stage, teams need to win 4 beatmaps to win a match. (Best-of-7)
 2. In the Round of 32 and the Round of 16, teams need to win 5 beatmaps to win a match. (Best-of-9)
@@ -456,7 +487,7 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 4. If you are certain that your team cannot make it to a match even after a reschedule, please tell a host and we will give you a loss for that match.
    - Failure to do so will result in a penalty and teams may be exempt from future iterations or tournaments hosted by ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214) or ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013).
 
-### Match Proceedings
+### Match proceedings
 
 *Referees have final decision in all matches so please respect their choices, but do not forget that they are human too and any disrespect **will result in penalties.***
 
@@ -476,60 +507,57 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 7. If a player ends the map failed, their score will not be counted. However, if the player is alive at the end of the map, then their score will be counted regardless of whether they failed during the map or not.
 8. You are allowed, however not required, to use mods in the tiebreaker maps.
 
-### Pick/Ban Timers
+### Pick/ban timers
 
 1. **These timers are subject to referee's leniency if there are connection issues or any other problems that may arise.**
 2. Timers are put in place to prevent players from swapping out and playing the picked map just before rejoining.
-  - Picks and bans are limited to **1 minute** per pick/ban.
-  - Swapping players are now limited to **1 minute and 30 seconds** after the map has been selected.
-  - Excessive match stalling or time-wasting by players are subject to punishments, decided upon by the referee.
+   - Picks and bans are limited to **1 minute** per pick/ban.
+   - Swapping players are now limited to **1 minute and 30 seconds** after the map has been selected.
+   - Excessive match stalling or time-wasting by players are subject to punishments, decided upon by the referee.
 
-### Disconnection Handling
+### Disconnection handling
 
 1. The team that lost the player may opt to replay the map if they desire. However, this will only be tolerated once.
 2. If the team that lost the player ends up winning regardless then the point still counts for them. There will be no replays.
 3. If the team that *did not* disconnect has a point advantage that the other team could not have made up even with their player present (e.g. 2 mil+, depends on the mod type) then the map is not replayed.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_BG]: /wiki/shared/flag/BG.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_CO]: /wiki/shared/flag/CO.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_GE]: /wiki/shared/flag/GE.gif
-[flag_GR]: /wiki/shared/flag/GR.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_HU]: /wiki/shared/flag/HU.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IL]: /wiki/shared/flag/IL.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_KZ]: /wiki/shared/flag/KZ.gif
-[flag_MA]: /wiki/shared/flag/MA.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RO]: /wiki/shared/flag/RO.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TR]: /wiki/shared/flag/TR.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VN]: /wiki/shared/flag/VN.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
+[flag_BG]: /wiki/shared/flag/BG.gif "Bulgaria"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_GR]: /wiki/shared/flag/GR.gif "Greece"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_HU]: /wiki/shared/flag/HU.gif "Hungary"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IL]: /wiki/shared/flag/IL.gif "Israel"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_KZ]: /wiki/shared/flag/KZ.gif "Kazakhstan"
+[flag_MA]: /wiki/shared/flag/MA.gif "Morocco"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_RO]: /wiki/shared/flag/RO.gif "Romania"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
