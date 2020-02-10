@@ -10,7 +10,7 @@ You've had your say, and now the votes are in! Check out which beatmaps were the
 
 Just to remind you, the top-voted map for each mode will become the Community Favorite of 2019 and earn their mapper (or set host) a shiny badge detailing how much everybody loves their work, plus 6 months of osu!supporter to tie it all off. The top ten finalists of each mode will also receive 3 months of osu!supporter to commemorate their near victory.
 
-Lots of maps to churn through, so let's get straight into the results without delay:
+There's lots of maps to churn through, so let's get straight into the results:
 
 ### osu!
 
@@ -100,7 +100,7 @@ Finalists:
 
 ---
 
-Thank you to everybody who took the time out of their day to vote! It's never easy to pick out only ten especially when the average osu! player experiences hundreds of maps throughout each year.
+Thank you to everybody who took the time out of their day to vote! It's never easy to pick out only ten, especially when the average osu! player experiences hundreds of maps throughout each year.
 
 **[Full voting results can be viewed in spreadsheet form here.](https://docs.google.com/spreadsheets/d/1P3FlkOtyaMpWzabr2K4j8Iw9Xq4W6hrizr3aEH3uGPY/edit?usp=sharing)**
 
