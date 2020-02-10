@@ -48,7 +48,7 @@ Les régions listées ci-dessous sont supportées par le osu! wiki. Le nom du fi
 | `zh.md` | Chinois (Simplifié) | 简体中文 |
 | `zh-tw.md` | Chinois Traditionel (Taïwanais) | 繁體中文（台灣） |
 
-*Note : osu! wiki propose aux lecteurs les articles dans la langue de leur choix, mais si un article n'est pas traduit la version anglaise est alors utilisée.*
+*Note : l'osu! wiki propose aux lecteurs les articles dans la langue de leur choix, mais si un article n'est pas traduit la version anglaise est alors utilisée.*
 
 Si votre langue n'est pas dans celles ci-dessus, vous pouvez toujours ajouter `?locale={langcode}` à l'URL (où `{langcode}` est le code de votre langue composé de deux lettres en minuscules, par exemple `https://osu.ppy.sh/help/wiki/Welcome?locale=zh` vous donnera la version Chinoise de l'article Welcome suivant la langue choisie) ou aider à traduire [osu-web via Crowdin](https://crowdin.com/project/osu-web). Si vous avez besoin d'aide pour traduire le site web ou que vous voulez discuter de vos décisions de traduction, vous pouvez en parler sur le [serveur Discord osu!dev](https://discord.gg/ppy) (salon `#osu-web`).
 
@@ -129,9 +129,9 @@ Les noms de dossier ne doivent pas utiliser de caractères qui doivent être enc
 
 Le nom d'un fichier contenant un article peut être trouvé dans la colonne `Nom de fichier` de la [section Régions](#régions). Le fichier de l'article traduit doit être dans le même dossier que l'article anglais.
 
-### Articles index
+### Index des articles
 
-Tous les dossiers doivent contenir un article. S'il semble impossible de créer un article pour un dossier qui contient d'autres articles, créez un article index à la place. Les index liste les articles qui sont dans son propre dossier, chaque lien peut contenir une description. 
+Tous les dossiers doivent contenir un article. S'il semble impossible de créer un article pour un dossier qui contient d'autres articles, créez un index à la place. Les index liste les articles qui sont dans son propre dossier, chaque lien peut contenir une description. 
 
 ### Article de désambiguïsation
 
@@ -139,7 +139,7 @@ Les articles de [désambiguïsation](/wiki/Disambiguation) doivent être placés
 
 ## Markdown
 
-Tous les articles osu! wiki doivent adhérer aux règles suivantes.
+Tous les articles de l'osu! wiki doivent adhérer aux règles suivantes.
 
 ### GitHub Flavored Markdown
 
@@ -170,7 +170,7 @@ Les fichiers Markdown doivent être vérifiés quand ils utilisent le saut de li
 Utilisez le caractère d'échapement Markdown quand vous en avez vraiment besoin. Par exemple : 
 
 ```markdown
-Le titre de Champion osu!taiko est attribué à [\_yu68](https://osu.ppy.sh/users/6170507). \_yu68 est actuellement le joueur numéro 1 en classement pp osu!taiko du Japon !
+Le titre de Champion d'osu!taiko est attribué à [\_yu68](https://osu.ppy.sh/users/6170507). \_yu68 est actuellement le joueur numéro 1 avec le plus de pp en osu!taiko du Japon !
 ```
 
 Le caractère d'échappement en Markdown est l'anti-slash (`\`). Pour échapper le caractère d'échappement pour que cela compte comme un anti-slash, utilisez `\\`.
@@ -207,7 +207,7 @@ De plus les notes de début peuvent être utilisées pour suggérer au lecteur d
 
 ```
 
-#### Pour voir
+#### Voir 
 
 Les notes du début pour voir sont similaires aux "voir aussi", mais elles sont généralement plus descriptives. Elles doivent commencer avec le mot `Pour` suivit par la description, une virgule (`,`), `voir`, puis un deux-points (`:`). Par exemple :
 
@@ -233,7 +233,7 @@ Une note peut être placée là où semble approprié de la mettre dans une sect
 
 "Note" est utilisé pour des détails triviaux, factuels ou des rappels. "Annonce" est utilisé pour quelque chose qu'il est important que le lecteur sache. "Attention" est utilisé pour avertir le lecteur que cela peut avoir des conséquences involontaires. "Avertissement" est utilisé pour avertir le lecteur que des actions peuvent être effectués contre lui.
 
-#### Annonce pour
+#### Annonce
 
 Les annonces qui ont pour cible certains lecteurs, incluant le mot `pour` après "Note", "Annonce", "Attention", "Avertissement" puis suivi d'une brève description des lecteurs visés. Par exemple :  
 
@@ -260,7 +260,7 @@ Utilisez le gras quand vous avez besoin de noter quelque chose d'important. Quan
 
 <!-- Ephemeral ruled not to italise "osu!". in:#osu-wiki from:ephemeralis#0001 during:2018-02-11 anymore -->
 
-Utilisez l'italique seulement quand vous voulez parler d'un nom de jeux vidéo ou le nom d'un projet. osu!, le jeu, ne doit pas être mis en italique. Préférez utiliser une astérisque simple (`*`) au lieu d'un underscore simple (`_`).
+Utilisez l'italique seulement quand vous voulez parler d'un nom de jeux vidéo ou le nom d'un projet. osu! et le jeu ne doit pas être mis en italique. Utilisez dans ce cas une astérisque simple (`*`) au lieu d'un underscore simple (`_`).
 
 ### Rubrique
 
@@ -380,7 +380,7 @@ Le boutton `osu!direct` est visible dans le menu principal sur le côté gauche,
 
 #### Noms de dossier et de répertoire
 
-Quand vous copiez le nom d'un dossier ou d'un répertoire, copiez la casse des lettres, mais préférez les chemins en minuscule quand cela est possible. N'utilisez pas de chemin absolu commençant à la lettre de lecteur (ou au répertoire root). C'est premièrement fait pour éviter d'avoir à marquer le nom. Par exemple :
+Quand vous copiez le nom d'un dossier ou d'un répertoire, copiez la casse des lettres, mais préférez les chemins en minuscule quand cela est possible. N'utilisez pas de chemin absolu commençant à la lettre de lecteur (ou au répertoire root). C'est fait pour éviter d'avoir à marquer le nom. Par exemple :
 
 ```markdown
 osu! est installer dans le dossier `AppData/Local` par défaut, sauf si vous avez indiquer un autre dossier durant l'installation.
@@ -410,12 +410,12 @@ Quand vous écrivez une extension de fichier, préfixez l'extension avec un poin
 Le format de fichier JPG (ou JPEG) a l'extension `.jpg` (ou `.jpeg`).
 ```
 
-#### Canaux de chat 
+#### Canaux de tchat 
 
-Quand vous copiez le nom d'un canal de chat, commencez le par la touche dièse (`#`), suivi par le nom du canal en lettres minuscules. Par exemple : 
+Quand vous copiez le nom d'un canal de tchat, commencez le par la touche dièse (`#`), suivi par le nom du canal en lettres minuscules. Par exemple : 
 
 ```markdown
-`#lobby` est l'endroit ou vous pouvez avertir que vous avez créer une salle multijoueurs.
+`#lobby` est l'endroit ou vous pouvez avertir que vous avez créer une salle multijoueur.
 ```
 
 ### Blocs de code 
@@ -500,10 +500,10 @@ Préférez le protocole `https`. Les liens externes doivent mener directement à
 
 <!-- TPGPL suggests to put external site names in title text. in:osu-wiki during:2018-06-24 from:TPGPL#9098 hover -->
 
-Il n'y a pas de différence visuelle entre un lien externe et un lien du site d'osu!. Vous devez donc inclure le nom du site web dans la légende.Par exemple : 
+Il n'y a pas de différence visuelle entre un lien externe et un lien du site d'osu!. Vous devez donc inclure le nom du site web dans la légende. Par exemple : 
 
 ```markdown
-*Pour plus d'informations sur la théorie de la musique, regardez : [théorie de la musiques](https://fr.wikipedia.org/wiki/Théorie_de_la_musique "Wikipedia")*
+*Pour plus d'informations sur la théorie de la musique, regardez : [théorie de la musique](https://fr.wikipedia.org/wiki/Théorie_de_la_musique "Wikipedia")*
 ```
 
 ### Images
@@ -580,7 +580,7 @@ Essayez de limiter le texte dans les images, car ce sera difficile de les édite
 
 ##### Images annotées traduites
 
-Quand vous traduisez une image annotée, l'image traduite doit être dans le même dossier que l'image originale (la version anglaise). Le nom de fichier de l'image traduite doit commencer avec le nom de l'image originale, suivit par un tiret, suivit par le nom de la localité (en majuscules). Par exemple : When translating annotated images, the localised image version must be placed in the same directory as the original version (i.e. the English version). The filename of a localised image version must start with the original version's name, followed by a hyphen, followed by the locale name (in caps). For example:
+Quand vous traduisez une image annotée, l'image traduite doit être dans le même dossier que l'image originale (la version anglaise). Le nom de fichier de l'image traduite doit commencer avec le nom de l'image originale, suivit par un tiret, suivit par le nom de la localité (en majuscules). Par exemple : Lors de la traduction d'images annotées, la version localisée de l'image doit être placée dans le même répertoire que la version originale (c'est-à-dire la version anglaise). Le nom de fichier d'une version localisée de l'image doit commencer par le nom de la version originale, suivi d'un trait d'union, puis du nom de la localité (en majuscules). Par exemple :
 
 - `hardrock_mod_vs_easy_mod.jpg` (image anglaise)
 - `hardrock_mod_vs_easy_mod-DE.jpg` (image allemande)
@@ -594,7 +594,7 @@ Toutes les captures d'écran d'une partie doivent être fait dans un environneme
 
 *Annonce : Si vous ne voulez pas changer vos réglages pour le wiki d'osu! vous pouvez installer osu! une nouvelle fois dans un autre dossier.*
 
-Vous devez utiliser ces réglages avant de prendre une capture d'écran du client d'osu!  pour les articles en français (les réglages qui ne sont pas écrit dans la liste ci-dessous sont supposés être à leur réglage par défaut):
+Vous devez utiliser ces réglages avant de prendre une capture d'écran du client d'osu! pour les articles en français (les réglages qui ne sont pas écrit dans la liste ci-dessous sont supposés être à leur réglage par défaut):
 
 -   Sélection de la langue : `Français`
 -   Métadonnées des maps dans leur langue d'origine dès que possible : `Activé`
@@ -680,7 +680,7 @@ Utilisez un champ thématique (aussi connu sous le nom de ligne horizontale) ave
 - séparer plusieures images qui se suivent
 - changer de sujet dans une section
 
-Quand vous utilisez un champ thématique, soyez sûr qu'il y a une ligne vide au dessus du markup. Autrement, il doit être parsé comme un libellé de niveau 2. Avoir une ligne vide en dessous du markup est préféré mais pas obligatoire. Les champs thématiques doivent avoir seulement trois tiret,comme montré ci-dessous :
+Quand vous utilisez un champ thématique, soyez sûr qu'il y a une ligne vide au dessus du markup. Autrement, il doit être parsé comme un libellé de niveau 2. Avoir une ligne vide en dessous du markup est préféré mais pas obligatoire. Les champs thématiques doivent avoir seulement trois tiret, comme montré ci-dessous :
 
 ```markdown
 ---
@@ -733,7 +733,7 @@ A éviter : peppy à créer osu!.
 A faire : osu! à été créer par peppy.
 ```
 
-Pour les phrases finissant par `osu!` suivit d'un point d'exclamation (`!`)(exemple :  `osu!!`) elles doivent être restructurées pour éviter que cela finisse comme ça.
+Pour les phrases finissant par `osu!` suivit d'un point d'exclamation (`!`)(exemple :  `osu!!`) elles doivent être restructurées pour éviter cela.
 
 ### Majuscules
 
@@ -766,7 +766,7 @@ Les modificateurs du jeu doivent avoir le mot `mod` après le nom du mod pour r�
 - `Target Practice` ou `TP`
 - `Spun Out` ou `SO`
 - `1K`, `2K`, `3K`, `4K`, `5K`, `6K`, `7K`, `8K`, et `9K`
-  - Si vous faites références aux mods If referring to the key mods collectively, use `xK`.
+  - Si vous vous référez aux principaux modules collectivement, utilisez `xK`
 - `Co-op` ou `CO`
 - `Random` ou `RD`
 - `Auto` ou `AT`
@@ -775,7 +775,7 @@ Les modificateurs du jeu doivent avoir le mot `mod` après le nom du mod pour r�
 
 ---
 
-Les articles sur les tournois sont exempts de cette règle et peuvent être écrit avec la notation Camel (omettez l'espace, mais conservez la casse des lettre comme indiqué ci-dessus). Pour les mappools sans mods ou avec mode libre, le modificateur de jeux doit être écrit comme ci-dessous(en respectant la casse des lettres et les espaces) :  
+Les articles sur les tournois sont exempts de cette règle et peuvent être écrit avec la notation Camel (omettez l'espace, mais conservez la casse des lettre comme indiqué ci-dessus). Pour les mappools sans mods ou avec mode libre, le modificateur de jeux doit être écrit comme ci-dessous (en respectant la casse des lettres et les espaces) :  
 
 - `No Mods`, `No Mod`, `NoMods`, `NoMod`, or `NM`
 - `Free Mods`, `Free Mod`, `FreeMods`, `FreeMod`, or `FM`
@@ -864,8 +864,8 @@ Ces mots sont écrits comme ci-dessous (les espaces doivent être respectés) :
 - Utilisez `mapped` au lieu de `beatmapped`.
 <!-- https://github.com/ppy/osu-wiki/pull/561#discussion_r132090032 -->
 - Utilisez `BN` ou `Beatmap Nominators` Quand vous faites référence au *Beatmap Nominators*.
-- Utilisez `sign in` au lieu de `log in`, à part si le nom du boutton ou du lien utilise `log in`.
-- Utilisez `sign out` au lieu de `log out`, à part si le nom du boutton ou du lien utilise `log out`.
+- Utilisez `sign in` au lieu de `log in`, sauf si le nom du bouton ou du lien utilise `log in`.
+- Utilisez `sign out` au lieu de `log out`, sauf si le nom du bouton ou du lien utilise `log out`.
 - Utilisez `register` au lieu de `sign up`.
 
 ### Abréviations, acronymes et sigles
@@ -907,7 +907,7 @@ L'osu! wiki utilise le format [ISO-8601](https://en.wikipedia.org/wiki/ISO_8601)
 - `2015 Mars, 02` (`AAAA MM, JJ`) doit être `2015-03-02`
 - `2009.09.09` (`AAAA.MM.JJ` ou `AAAA.JJ.MM` et similaire) doit être `2009-09-09`
 
-Si votre langue utilise un suffixe de jour, mois  et année(c-à-d le Chinois, le Japonais ou le Coréen), vous ne devez pas utiliser le format écrit; à la place utilisez le format ISO-8601 comme ci dessus. Par exemple : 
+Si votre langue utilise un suffixe de jour, mois  et année (c-à-d le Chinois, le Japonais ou le Coréen), vous ne devez pas utiliser le format écrit; à la place utilisez le format ISO-8601 comme ci dessus. Par exemple : 
 
 - `2016年02月29日` doit être `2016-02-29`
 - `2014년08월18일` doit être `2014-08-18`
