@@ -42,7 +42,7 @@ Finalists:
 
 Finalists:
 
-- **[dj TAKA - quaver](https://osu.ppy.sh/beatmapsets/873811)** by **[Sotarks](https://osu.ppy.sh/users/4452992)** with **80** votes.
+- **[dj TAKA - quaver](https://osu.ppy.sh/beatmapsets/873811)** hosted by **[Sotarks](https://osu.ppy.sh/users/4452992)**, osu!taiko difficulties by [**eiri-**](https://osu.ppy.sh/users/3388410) with **80** votes.
 - **[Frums - Pictured as Perfect](https://osu.ppy.sh/beatmapsets/966235)** by **[\_yu68](https://osu.ppy.sh/users/6170507)** with **62** votes.
 - **[Camellia - Quaoar](https://osu.ppy.sh/beatmapsets/931741)** by **[Nepuri](https://osu.ppy.sh/users/6637817)** with **56** votes.
 - **[RIOT - Overkill](https://osu.ppy.sh/beatmapsets/929698)** by **[Fallmorph](https://osu.ppy.sh/users/5720389)** with **54** votes.
