@@ -16,9 +16,7 @@ There's lots of maps to churn through, so let's get straight into the results:
 
 [![](/wiki/shared/news/2020-02-10-community-choice-2019-results/ghost-rule.jpg)](https://osu.ppy.sh/beatmapsets/413117)
 
-**1421** voters woke up to **[Awaken](https://osu.ppy.sh/users/1380253)**'s set for **[DECO\*27 - Ghost Rule](https://osu.ppy.sh/beatmapsets/413117)**.
-
-This should come as little surprise to anyone, since the set had been sitting at both the top of the favorites list and the most played beatmaps ranking for a solid quarter of a year.
+**1421** voters woke up to **[Awaken](https://osu.ppy.sh/users/1380253)**'s set for **[DECO\*27 - Ghost Rule](https://osu.ppy.sh/beatmapsets/413117)**. This should come as little surprise to anyone, since the set had been sitting at both the top of the favorites list and the most played beatmaps ranking for a solid quarter of a year.
 
 Well done to Awaken and his collaborators-in-arms!
 
