@@ -90,6 +90,32 @@ The Beginner's Taiko Tournament 5 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (72 MB)](https://mega.nz/#!D34yhKZD!TWF4xkDiIYn2R5O-d00O07jdr15JAbVQ0gYrSxzjy98)**
+
+- NoMod
+  - [Meramipop - Super nuko ni naritai (RRRRR) \[5R's Futsuu\]](https://osu.ppy.sh/beatmapsets/536000#taiko/1186360)
+  - [61 Degrees - Kagami (eeezzzeee) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/304783#taiko/683297)
+  - [MIOYAMAZAKI - Noise (TV Size) (lit120) \[Nao's Muzukashii\]](https://osu.ppy.sh/beatmapsets/836791#taiko/1754164)
+  - [xi - Bad Elixir (Capu) \[guro's Futsuu\]](https://osu.ppy.sh/beatmapsets/1030135#taiko/2153992)
+  - [K/DA - POP/STARS (feat. Madison Beer, (G)I-DLE, Jaira Burns) (Foxeru) \[Silver\]](https://osu.ppy.sh/beatmapsets/891755#taiko/1864270)
+- Hidden
+  - [Afterglow - Lost One no Goukoku (Game Size Ver.) (SuperJSpectrixV) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/878322#taiko/1836953)
+  - [Dreamcatcher - Chase Me (Jaye) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/680790#taiko/1439394)
+- HardRock
+  - [BLACKPINK - WHISTLE (UniqueBlock11) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/642149#taiko/1375083)
+  - [t+pazolite - Night of Knights (tpz Overheat Remix) (eiri-) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1031381#taiko/2156725)
+- DoubleTime
+  - [Miki Sayaka (CV: Kitamura Eri), Sakura Kyoko (CV: Nonaka Ai) - and I'm Home (Volta) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/940898#taiko/1964994)
+  - [lapix - Nexta (TKS) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/726669#taiko/1554389)
+- FreeMod
+  - [MitiS - Pain (Original Mix) (game rock) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/680259#taiko/1438411)
+  - [SOUND HOLIC Feat. Nana Takahashi - XINOBIKILL (HiroK) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/744214#taiko/1569195)
+  - [ak+q - Axium Crisis (Rhytoly) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1054961#taiko/2204398)
+- Tiebreaker
+  - **[Wakeshima Kanon - World's End, Girl's Rondo(Asterisk DnB Remix) (Franklin\_DeJavu) \[Taiko Muzukashii\]](https://osu.ppy.sh/beatmapsets/579773#taiko/1311218)**
+
 ### Round of 32
 
 **[Download the mappack here! (61 MB)](https://mega.nz/#!DiRkkAJT!NPi86PCiZjwK8VU9B_KUvAdPRPqBmR5d-KKofjHULhQ)**
