@@ -79,6 +79,18 @@ The osu! Cup Master 3: osu!catch edition Tournament is run by various osu! commu
 
 ---
 
+## Groups
+
+| Group | Top Seed | High Seed | Low Seed | Unseeded |
+| :-: | :-- | :-- | :-- | :-- |
+| **A** | Obama's bizarre adventures | 	Futa Lovers | 	QT DOKU | 	Iaffi |
+| **B** | wwwww | Araganes | Retired player's comeback | My blood trail soplica |
+| **C** | Acelga | Smukur es colombiano | Los Choripondios | IZAYOI XXX is the captain |
+| **D** | idk lol | 	KRNS | Bjirr Squad | 115 |
+
+
+---
+
 ## Mappools
 
 ### Group Stage
