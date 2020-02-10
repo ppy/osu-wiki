@@ -300,7 +300,6 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu!Philippines Holiday Friendlies 2018](oPHF/2018) | 2018-11-03 | 2018-12-16 | ![][flag_KR] [Stereo](https://osu.ppy.sh/users/1499137) (osu!), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742) (osu!taiko), ![][flag_PH] [- Kielzu -](https://osu.ppy.sh/users/6221114) (osu!catch), ![][flag_PH] [arge-](https://osu.ppy.sh/users/9919550) (osu!mania 4K), ![][flag_PH] [Nikana](https://osu.ppy.sh/users/4345491) (osu!mania 7K) | ![][flag_PH] [TyrantsEye2014](https://osu.ppy.sh/users/4530738) (osu!), ![][flag_PH] [Rimazii](https://osu.ppy.sh/users/3831514) (osu!taiko), ![][flag_PH] [KaganimeRin](https://osu.ppy.sh/users/1626093) (osu!catch), ![][flag_PH] [Baltz](https://osu.ppy.sh/users/6083463) (osu!mania 4K), ![][flag_PH] [fer789](https://osu.ppy.sh/users/8901267) (osu!mania 7K) | ![][flag_PH] [ededed028](https://osu.ppy.sh/users/3932796) (osu!), ![][flag_PH] [zonelouise](https://osu.ppy.sh/users/1492995) (osu!), ![][flag_PH] [yuki\_momoiro722](https://osu.ppy.sh/users/7186791) (osu!taiko), ![][flag_PH] [Crowley](https://osu.ppy.sh/users/6341006) (osu!catch), ![][flag_PH] [Shiyui-](https://osu.ppy.sh/users/9374607) (osu!mania 4K), ![][flag_PH] [Cielo Day](https://osu.ppy.sh/users/2722489) (osu!mania 7K) |
 
-<!-- TODO: When another Highlander Con tournament happens, organize this into a Highlander Con series (similar to Zotcade) -->
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) Most Amazing LAN Ever
 
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
@@ -317,13 +316,14 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 
 | 名称 | 日期 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
 | :-- | :-- | :-- | :-- | :-- |
-| [iDOL@NSTER](osu!_UCI/iDOL@NSTER) | 2019-05-19 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760) (osu!mania) | ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231) (osu!), ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
+| [The iDOL@NSTER: Irvine Spring Stage](osu!_UCI/iDOL@NSTER) | 2019-05-19 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760) (osu!mania) | ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231) (osu!), ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
+| [Night Fall LAN](osu!_UCI/NFL) | 2020-01-18 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) (osu!), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576) (osu!mania) | ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013) (osu!), ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ![][flag_CA] [Dark lord bob](https://osu.ppy.sh/users/4588299) (osu!mania) |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania Asian's Champions
 
 | 名称 | 开始时间 | 结束时间 | ![冠军][GCrown] | ![亚军][SCrown] | ![季军][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| osu!mania Asian's Champions 2019 | 2019-09-28 | 2019-11-10 | <!-- TODO: find this flag --> ![][flag___] [\[ R o a d \]](https://osu.ppy.sh/users/6535926) | ![][flag_TW] [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) | ![][flag_MY] [xxxxxx2800](https://osu.ppy.sh/users/4084853) |
+| osu!mania Asian's Champions 2019 | 2019-09-28 | 2019-11-10 | ![][flag___] [\[ R o a d \]](https://osu.ppy.sh/users/6535926) | ![][flag_TW] [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) | ![][flag_MY] [xxxxxx2800](https://osu.ppy.sh/users/4084853) |
 
 ## 参见
 
