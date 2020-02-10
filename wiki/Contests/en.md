@@ -3,9 +3,9 @@
 [o!t]: /wiki/shared/mode/taiko.png
 [o!c]: /wiki/shared/mode/catch.png
 [o!m]: /wiki/shared/mode/mania.png
-[GCrown]: /wiki/shared/GCrown.png "First Place"
-[SCrown]: /wiki/shared/SCrown.png "Second Place"
-[BCrown]: /wiki/shared/BCrown.png "Third Place"
+[GCrown]: /wiki/shared/crown-gold.png "First Place"
+[SCrown]: /wiki/shared/crown-silver.png "Second Place"
+[BCrown]: /wiki/shared/crown-bronze.png "Third Place"
 
 # Contests
 

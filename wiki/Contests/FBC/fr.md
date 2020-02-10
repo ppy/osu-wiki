@@ -26,30 +26,30 @@ La musique sélectionnée pour ce concours était [ANTI - Koi](https://www.youtu
 
 | Place | Joueurs |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_FR] [Secretpipe](https://osu.ppy.sh/users/2208964) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [Kin](https://osu.ppy.sh/users/480689) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [rezoons](https://osu.ppy.sh/users/1893035) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [Secretpipe](https://osu.ppy.sh/users/2208964) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Kin](https://osu.ppy.sh/users/480689) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [rezoons](https://osu.ppy.sh/users/1893035) |
 
 ### Vainqueurs du mode osu!taiko
 
 | Place | Joueurs |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [Aldwych](https://osu.ppy.sh/users/1416484) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [Gezoda](https://osu.ppy.sh/users/481582) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Aldwych](https://osu.ppy.sh/users/1416484) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Gezoda](https://osu.ppy.sh/users/481582) |
 
 ### Vainqueurs du mode osu!mania
 
 | Place | Joueurs |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_CA] [Julie](https://osu.ppy.sh/users/2420987) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [Todestrieb](https://osu.ppy.sh/users/4056690) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CA] [Julie](https://osu.ppy.sh/users/2420987) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Todestrieb](https://osu.ppy.sh/users/4056690) |
 
 ### Vainqueurs du mode osu!catch
 
 | Place | Joueurs |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_FR] [rezoons](https://osu.ppy.sh/users/1893035) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [rezoons](https://osu.ppy.sh/users/1893035) |
 
 ### Organisation
 
@@ -75,9 +75,9 @@ La musique sélectionnée pour le mode osu!standard et osu!catch était [Phantom
 
 | Place | Joueurs |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_CA] [sheela](https://osu.ppy.sh/users/1138027) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [Secretpipe](https://osu.ppy.sh/users/2208964) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CA] [sheela](https://osu.ppy.sh/users/1138027) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Secretpipe](https://osu.ppy.sh/users/2208964) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) |
 
 ### Organisation
 
@@ -103,9 +103,9 @@ La musique sélectionnée pour cette édition du tournoi était [ak+q - Excelsia
 
 | Place | Joueurs |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_FR] [Sotarks](https://osu.ppy.sh/users/4452992) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [BOUYAAA](https://osu.ppy.sh/users/405449) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_CH] [Irreversible](https://osu.ppy.sh/users/1287964) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [Sotarks](https://osu.ppy.sh/users/4452992) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [BOUYAAA](https://osu.ppy.sh/users/405449) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CH] [Irreversible](https://osu.ppy.sh/users/1287964) |
 
 ### Organisation
 
@@ -130,9 +130,9 @@ La musique sélectionnée pour cette édition du tournoi est [Thaehan - Sunrise]
 
 | Place | Joueurs |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_CA] [celerih](https://osu.ppy.sh/users/4696296) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_CA] [J1_](https://osu.ppy.sh/users/5918561), ![][flag_FR] [PoNo](https://osu.ppy.sh/users/4610047)  |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CA] [celerih](https://osu.ppy.sh/users/4696296) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CA] [J1_](https://osu.ppy.sh/users/5918561), ![][flag_FR] [PoNo](https://osu.ppy.sh/users/4610047)  |
 
 ### Organisation
 

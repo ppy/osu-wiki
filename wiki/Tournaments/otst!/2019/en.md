@@ -27,7 +27,7 @@ The **osu! TV Size Tournament 2019** (***otst! 2019***) was a double-elimination
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
 ![otst! 2019 winner badge](img/badge.png)
 
@@ -113,9 +113,9 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Floating up |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | Rubber Conquest |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | #arsecrackers |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Floating up |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Rubber Conquest |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | #arsecrackers |
 
 ---
 

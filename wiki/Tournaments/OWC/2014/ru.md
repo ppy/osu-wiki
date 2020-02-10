@@ -12,9 +12,9 @@ outdated: true
 
 | Placing                                                    | Country                                     |
 |------------------------------------------------------------|---------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | ![][flag_JP] **Япония**   |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_PL] **Польша**   |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_DE] **Германия** |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | ![][flag_JP] **Япония**   |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PL] **Польша**   |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_DE] **Германия** |
 
 ## Расписание турнира
 
@@ -33,9 +33,9 @@ outdated: true
 
 | Placing                                                    | Prizes                                                                              |
 |------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | Саппорт на полгода, профильная иконка, титул "osu! Champion", приз от администрации |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Саппорт на три месяца                                                               |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Саппорт на один месяц                                                               |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | Саппорт на полгода, профильная иконка, титул "osu! Champion", приз от администрации |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Саппорт на три месяца                                                               |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Саппорт на один месяц                                                               |
 
 ## Организация турнира
 

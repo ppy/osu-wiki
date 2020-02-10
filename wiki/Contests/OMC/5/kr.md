@@ -62,9 +62,9 @@ tags:
 
 | 순위 | 상품 |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 30,000원, 프로필 뱃지(프로&루키 둘 다) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 20,000원 |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 10,000원 |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 30,000원, 프로필 뱃지(프로&루키 둘 다) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 20,000원 |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 10,000원 |
 
 ## 주최
 

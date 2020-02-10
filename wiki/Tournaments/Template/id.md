@@ -48,9 +48,9 @@ Dalam setiap turnamen, peserta yang memenangkan turnamen berhak naik ke podium d
 
 | Posisi | Hadiah |
 | :-: | :-- |
-| ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") |  |
-| ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") |  |
-| ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") |  |
+| ![Mahkota Emas](/wiki/shared/crown-gold.png "Juara satu") |  |
+| ![Mahkota Perak](/wiki/shared/crown-silver.png "Juara dua") |  |
+| ![Mahkota Perunggu](/wiki/shared/crown-bronze.png "Juara tiga") |  |
 
 ## Staf Turnamen
 

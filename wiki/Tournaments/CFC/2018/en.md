@@ -25,7 +25,7 @@ The **Catch French Cup 2018** (***CFC 2018***) was a one-on-one French osu!catch
 
 | Place | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | 8 months of osu!supporter tag, unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 8 months of osu!supporter tag, unique profile badge |
 
 ![CFC 2018 winner badge](img/badge.png)
 
@@ -66,9 +66,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239) |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) |
 
 ---
 

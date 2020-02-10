@@ -28,9 +28,9 @@ outdated: true
 
 | Placing                                                    | Prize(s)                                                    |
 |------------------------------------------------------------|-------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | supporter tag 6ヶ月、プロフィールバッジ、ユーザータイトル"Taiko Champion"、osu!商品 |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | supporter tag 3ヶ月、プロフィールバッジ                                 |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | supporter tag 1ヶ月、プロフィールバッジ                                 |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | supporter tag 6ヶ月、プロフィールバッジ、ユーザータイトル"Taiko Champion"、osu!商品 |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | supporter tag 3ヶ月、プロフィールバッジ                                 |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | supporter tag 1ヶ月、プロフィールバッジ                                 |
 
 ## 構成
 

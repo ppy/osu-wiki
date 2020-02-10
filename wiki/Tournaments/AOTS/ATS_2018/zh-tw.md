@@ -31,9 +31,9 @@ tags:
 
 | 名次 | 獎品 |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "冠軍") | 特製徽章 及 個人版面橫額 |
-| ![Silver Crown](/wiki/shared/SCrown.png "亞軍") | 個人版面橫額 |
-| ![Bronze Crown](/wiki/shared/BCrown.png "季軍") | 個人版面橫額 |
+| ![Gold Crown](/wiki/shared/crown-gold.png "冠軍") | 特製徽章 及 個人版面橫額 |
+| ![Silver Crown](/wiki/shared/crown-silver.png "亞軍") | 個人版面橫額 |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "季軍") | 個人版面橫額 |
 
 ## 工作人員
 

@@ -59,9 +59,9 @@ You can download the .osz file for the provided songs at [here](https://drive.go
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | 30,000 KRW, profile badge for each division (Pro and Rookie) winner |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | 20,000 KRW for each 2nd place contestant |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | 10,000 KRW for each 3rd place contestant |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 30,000 KRW, profile badge for each division (Pro and Rookie) winner |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 20,000 KRW for each 2nd place contestant |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 10,000 KRW for each 3rd place contestant |
 
 ## Organisation
 
