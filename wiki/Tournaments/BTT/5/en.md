@@ -154,6 +154,38 @@ The Beginner's Taiko Tournament 5 is run by various community members.
 
 ## Match results
 
+### Round of 32
+
+Friday, 7 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **squidstain** ![][flag_MY] | **4** | 3 | ![][flag_BY] DrDazzle | [#1](https://osu.ppy.sh/community/matches/58260960) |
+| Vasyadogs ![][flag_RU] | 0 | **4** | ![][flag_SG] **moosepi** | [#1](https://osu.ppy.sh/community/matches/58266217) |
+
+Saturday, 8 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **helios44** ![][flag_SG] | **4** | 3 | ![][flag_CN] zd101nb | [#1](https://osu.ppy.sh/community/matches/58285453) |
+| **Olii** ![][flag_GB] | **4** | 1 | ![][flag_NZ] Blujae | [#1](https://osu.ppy.sh/community/matches/58290286) |
+| Kirross ![][flag_DE] | 2 | **4** | ![][flag_DE] **Enohx** | [#1](https://osu.ppy.sh/community/matches/58291512) |
+| **awdse22** ![][flag_SG] | **4** | 2 | ![][flag_DE] Katsumi | [#1](https://osu.ppy.sh/community/matches/58292406) |
+| Kozzo ![][flag_IT] | 3 | **4** | ![][flag_NL] **Boaz** | [#1](https://osu.ppy.sh/community/matches/58293268) |
+| Megafan ![][flag_AR] | 0 | **4** | ![][flag_RU] **Dartandr** | [#1](https://osu.ppy.sh/community/matches/58295154) |
+| Santeri ![][flag_FI] | 2 | **4** | ![][flag_AR] **Vaf** | [#1](https://osu.ppy.sh/community/matches/58296811) |
+| **Malox** ![][flag_DE] | **4** | 0 | ![][flag_CA] SuperSquirrel51 | [#1](https://osu.ppy.sh/community/matches/58298366) |
+
+Sunday, 9 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Loliezi1337** ![][flag_US] | **4** | 0 | ![][flag_AU] Arbusion | [#1](https://osu.ppy.sh/community/matches/58310043) |
+| **DrugManager** ![][flag_DE] | **4** | 1 | ![][flag_FI] Samoyed | [#1](https://osu.ppy.sh/community/matches/58320930) |
+| **ByTiger** ![][flag_DE] | **4** | 1 | ![][flag_FI] Pickxarro | [#1](https://osu.ppy.sh/community/matches/58325652) |
+| -Storm7- ![][flag_HK] | 3 | **4** | ![][flag_FR] **TLQ\_Yoshii** | [#1](https://osu.ppy.sh/community/matches/58325726) |
+| **BadAimBoi** ![][flag_PL] | **4** | 1 | ![][flag_US] Yeong Yuseong | [#1](https://osu.ppy.sh/community/matches/58328827) |
+
 ### Group Stage
 
 Friday, 31 January 2020:
