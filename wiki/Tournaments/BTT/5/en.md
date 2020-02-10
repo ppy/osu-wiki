@@ -40,14 +40,14 @@ The Beginner's Taiko Tournament 5 is run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_FR] [Ladybug](https://osu.ppy.sh/users/4833654), ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098) |
-| Map selector | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015), ![][flag_FR] [Kaho-Hinata](https://osu.ppy.sh/users/8903888), ![][flag_FR] [Ladybug](https://osu.ppy.sh/users/4833654), ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098) |
-| Referee | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_DE] [GinIkari](https://osu.ppy.sh/users/6083491), ![][flag_NL] [Krekker](https://osu.ppy.sh/users/8265940), ![][flag_FR] [Ladybug](https://osu.ppy.sh/users/4833654), ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098), ![][flag_RU] [Nozdormu](https://osu.ppy.sh/users/7169208), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_DE] [Rymus](https://osu.ppy.sh/users/6449966), ![][flag_FR] [Satsukel](https://osu.ppy.sh/users/9066390), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715), ![][flag_US] [travis_ba](https://osu.ppy.sh/users/10822220), ![][flag_FR] [ZeddaStake](https://osu.ppy.sh/users/8801844) |
+| Map selector | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015), ![][flag_FR] [Ladybug](https://osu.ppy.sh/users/4833654), ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098), ![][flag_FR] [ZeddaStake](https://osu.ppy.sh/users/8801844) |
+| Referee | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_DE] [GinIkari](https://osu.ppy.sh/users/6083491), ![][flag_NL] [Krekker](https://osu.ppy.sh/users/8265940), ![][flag_FR] [Ladybug](https://osu.ppy.sh/users/4833654), ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098), ![][flag_RU] [Nozdormu](https://osu.ppy.sh/users/7169208), ![][flag_CH] [OverKurumi](https://osu.ppy.sh/users/9987378), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_DE] [Rymus](https://osu.ppy.sh/users/6449966), ![][flag_FR] [Satsukel](https://osu.ppy.sh/users/9066390), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715), ![][flag_US] [travis_ba](https://osu.ppy.sh/users/10822220), ![][flag_FR] [ZeddaStake](https://osu.ppy.sh/users/8801844) |
 | Streamer | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_NL] [Krekker](https://osu.ppy.sh/users/8265940), ![][flag_NL] [oliebol](https://osu.ppy.sh/users/2756335), ![][flag_US] [Rukairi](https://osu.ppy.sh/users/6642597) |
-| Commentator | ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ![][flag_NZ] [Blujae](https://osu.ppy.sh/users/10613885), ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/9536977), ![][flag_US] [DiggyDogg](https://osu.ppy.sh/users/5014664), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_PL] [Finite](https://osu.ppy.sh/users/5385806), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_DE] [GinIkari](https://osu.ppy.sh/users/6083491), ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_US] [kb131313](https://osu.ppy.sh/users/11229259), ![][flag_FR] [Ladygril](https://osu.ppy.sh/users/11989065), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_US] [Rukairi](https://osu.ppy.sh/users/6642597) |
-| Designer | ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_FR] [Ladygril](https://osu.ppy.sh/users/11989065) |
-| Statistician | ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098) |
+| Commentator | ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ![][flag_NZ] [Blujae](https://osu.ppy.sh/users/10613885), ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/9536977), ![][flag_US] [DiggyDogg](https://osu.ppy.sh/users/5014664), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_DE] [Enohx](https://osu.ppy.sh/users/6375060), ![][flag_PL] [Finite](https://osu.ppy.sh/users/5385806), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_DE] [GinIkari](https://osu.ppy.sh/users/6083491), ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_US] [kb131313](https://osu.ppy.sh/users/11229259), ![][flag_FR] [Ladygril](https://osu.ppy.sh/users/11989065), ![][flag_DE] [Malox](https://osu.ppy.sh/users/4516252), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_US] [Rukairi](https://osu.ppy.sh/users/6642597), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
+| Designer | ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286) |
+| Statistician | ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992) |
 | Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
-| Developer | ![][flag_FR] [Kaho-Hinata](https://osu.ppy.sh/users/8903888), ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098), ![][flag_FR] [ZeddaStake](https://osu.ppy.sh/users/8801844) |
+| Developer | ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098), ![][flag_FR] [ZeddaStake](https://osu.ppy.sh/users/8801844) |
 
 ## Links
 
@@ -89,6 +89,32 @@ The Beginner's Taiko Tournament 5 is run by various community members.
 | **PP** | ![][flag_DE] [Enohx](https://osu.ppy.sh/users/6375060) | ![][flag_BY] [DrDazzle](https://osu.ppy.sh/users/6216290) | ![][flag_FR] [Aidown](https://osu.ppy.sh/users/1522146) | ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507) |
 
 ## Mappools
+
+### Round of 16
+
+**[Download the mappack here! (72 MB)](https://mega.nz/#!D34yhKZD!TWF4xkDiIYn2R5O-d00O07jdr15JAbVQ0gYrSxzjy98)**
+
+- NoMod
+  - [Meramipop - Super nuko ni naritai (RRRRR) \[5R's Futsuu\]](https://osu.ppy.sh/beatmapsets/536000#taiko/1186360)
+  - [61 Degrees - Kagami (eeezzzeee) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/304783#taiko/683297)
+  - [MIOYAMAZAKI - Noise (TV Size) (lit120) \[Nao's Muzukashii\]](https://osu.ppy.sh/beatmapsets/836791#taiko/1754164)
+  - [xi - Bad Elixir (Capu) \[guro's Futsuu\]](https://osu.ppy.sh/beatmapsets/1030135#taiko/2153992)
+  - [K/DA - POP/STARS (feat. Madison Beer, (G)I-DLE, Jaira Burns) (Foxeru) \[Silver\]](https://osu.ppy.sh/beatmapsets/891755#taiko/1864270)
+- Hidden
+  - [Afterglow - Lost One no Goukoku (Game Size Ver.) (SuperJSpectrixV) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/878322#taiko/1836953)
+  - [Dreamcatcher - Chase Me (Jaye) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/680790#taiko/1439394)
+- HardRock
+  - [BLACKPINK - WHISTLE (UniqueBlock11) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/642149#taiko/1375083)
+  - [t+pazolite - Night of Knights (tpz Overheat Remix) (eiri-) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1031381#taiko/2156725)
+- DoubleTime
+  - [Miki Sayaka (CV: Kitamura Eri), Sakura Kyoko (CV: Nonaka Ai) - and I'm Home (Volta) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/940898#taiko/1964994)
+  - [lapix - Nexta (TKS) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/726669#taiko/1554389)
+- FreeMod
+  - [MitiS - Pain (Original Mix) (game rock) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/680259#taiko/1438411)
+  - [SOUND HOLIC Feat. Nana Takahashi - XINOBIKILL (HiroK) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/744214#taiko/1569195)
+  - [ak+q - Axium Crisis (Rhytoly) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1054961#taiko/2204398)
+- Tiebreaker
+  - **[Wakeshima Kanon - World's End, Girl's Rondo(Asterisk DnB Remix) (Franklin\_DeJavu) \[Taiko Muzukashii\]](https://osu.ppy.sh/beatmapsets/579773#taiko/1311218)**
 
 ### Round of 32
 
@@ -153,6 +179,38 @@ The Beginner's Taiko Tournament 5 is run by various community members.
   - [Nekomata Master feat. Hayashi Momoko - TWINKLING other side edition (bank78952) \[Kantan\]](https://osu.ppy.sh/beatmapsets/776049#taiko/1684690)
 
 ## Match results
+
+### Round of 32
+
+Friday, 7 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **squidstain** ![][flag_MY] | **4** | 3 | ![][flag_BY] DrDazzle | [#1](https://osu.ppy.sh/community/matches/58260960) |
+| Vasyadogs ![][flag_RU] | 0 | **4** | ![][flag_SG] **moosepi** | [#1](https://osu.ppy.sh/community/matches/58266217) |
+
+Saturday, 8 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **helios44** ![][flag_SG] | **4** | 3 | ![][flag_CN] zd101nb | [#1](https://osu.ppy.sh/community/matches/58285453) |
+| **Olii** ![][flag_GB] | **4** | 1 | ![][flag_NZ] Blujae | [#1](https://osu.ppy.sh/community/matches/58290286) |
+| Kirross ![][flag_DE] | 2 | **4** | ![][flag_DE] **Enohx** | [#1](https://osu.ppy.sh/community/matches/58291512) |
+| **awdse22** ![][flag_SG] | **4** | 2 | ![][flag_DE] Katsumi | [#1](https://osu.ppy.sh/community/matches/58292406) |
+| Kozzo ![][flag_IT] | 3 | **4** | ![][flag_NL] **Boaz** | [#1](https://osu.ppy.sh/community/matches/58293268) |
+| Megafan ![][flag_AR] | 0 | **4** | ![][flag_RU] **Dartandr** | [#1](https://osu.ppy.sh/community/matches/58295154) |
+| Santeri ![][flag_FI] | 2 | **4** | ![][flag_AR] **Vaf** | [#1](https://osu.ppy.sh/community/matches/58296811) |
+| **Malox** ![][flag_DE] | **4** | 0 | ![][flag_CA] SuperSquirrel51 | [#1](https://osu.ppy.sh/community/matches/58298366) |
+
+Sunday, 9 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Loliezi1337** ![][flag_US] | **4** | 0 | ![][flag_AU] Arbusion | [#1](https://osu.ppy.sh/community/matches/58310043) |
+| **DrugManager** ![][flag_DE] | **4** | 1 | ![][flag_FI] Samoyed | [#1](https://osu.ppy.sh/community/matches/58320930) |
+| **ByTiger** ![][flag_DE] | **4** | 1 | ![][flag_FI] Pickxarro | [#1](https://osu.ppy.sh/community/matches/58325652) |
+| -Storm7- ![][flag_HK] | 3 | **4** | ![][flag_FR] **TLQ\_Yoshii** | [#1](https://osu.ppy.sh/community/matches/58325726) |
+| **BadAimBoi** ![][flag_PL] | **4** | 1 | ![][flag_US] Yeong Yuseong | [#1](https://osu.ppy.sh/community/matches/58328827) |
 
 ### Group Stage
 
@@ -333,6 +391,7 @@ A player's registration will not count if they are in the top 10,000 of the osu!
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_BY]: /wiki/shared/flag/BY.gif "Belarus"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
