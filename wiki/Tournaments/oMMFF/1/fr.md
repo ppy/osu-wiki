@@ -727,11 +727,11 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 **[Télécharge le mappack ici! (49 MB)](https://mega.nz/#!o9MChIxJ!BtKgqPuqV0xZChiPzoOYNJz8DAs8XXVYeFLBmJc5lHo)**
 
 - FreeMod
-  - [Ian Davecore - Katyusha (Laibus) \[Bounce\]](https://osu.ppy.sh/beatmapsets/849009/#mania/1775369)
+  - [Ian Davecore - Katyusha (Laibus) \[Bounce\]](https://osu.ppy.sh/beatmapsets/849009#mania/1775369)
   - [Celldweller - Senorita Bonita (Duboyy) \[Hard \[SV play\]\]](https://osu.ppy.sh/beatmapsets/541579#mania/1148320)
   - [Reol - MONSTER (puxtu) \[puxtu's MX\]](https://osu.ppy.sh/beatmapsets/415350#mania/1021002)
   - [Hommarju - Get back here (Fresh Chicken) \[ADVANCED\]](https://osu.ppy.sh/beatmapsets/488369#mania/1041168)
-  - [LiSA - Empty MERMAiD -MUSIC CLIP Short Ver.- (SpectorDG) \[SpectorDG's 4K ULTRA\]](https://osu.ppy.sh/beatmapsets/351846/#mania/775411)
+  - [LiSA - Empty MERMAiD -MUSIC CLIP Short Ver.- (SpectorDG) \[SpectorDG's 4K ULTRA\]](https://osu.ppy.sh/beatmapsets/351846#mania/775411)
   - [M2U feat. Guriri - Magnolia (juankristal) \[Stage 3: Enlightenment\]](https://osu.ppy.sh/beatmapsets/706898#mania/1494548)
   - [AAAA Chazuke - Hop Step Adventure\* (Musty) \[MX\*\]](https://osu.ppy.sh/beatmapsets/487632#mania/1039605)
   - [knot - cold planet (Kamikaze) \[for stepmania\]](https://osu.ppy.sh/beatmapsets/793200#mania/1697652)

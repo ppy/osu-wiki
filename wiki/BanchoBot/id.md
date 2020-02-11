@@ -22,4 +22,4 @@ Untuk menggunakan perintah BanchoBot, anda harus menggunakan awalan `!` setiap s
 | `WHERE` | `<user_name>` | Menampilkan lokasi pengguna saat ini. | `!where Kyubey` | "Kyubey is in Russia" |
 | `FAQ` | `[lang:]<entry>/list` | Menampilkan pesan entri. Gunakan `list` sebagai entri untuk menampilkan semua entri yang tersedia. | `!faq ping` | "Pong!" |
 | `REPORT` | `<user_name> <reason>` | Mengirimkan laporan ke moderator chat. Ganti spasi dalam nama pengguna dengan garis bawah `_` | `!report S_o_h spamming in #japanese` | "Chat moderators have been alerted. Thanks for your help." |
-| `REQUEST` | Tidak ada | Menerima beatmap dari pemain yang meminta bantuan modding secara acak. | `!request` | "[HoneyWorks - Tokyo Summer Session feat. CHiCO](https://osu.ppy.sh/beatmapsets/426252/#osu) by MrSergio" |
+| `REQUEST` | Tidak ada | Menerima beatmap dari pemain yang meminta bantuan modding secara acak. | `!request` | "[HoneyWorks - Tokyo Summer Session feat. CHiCO](https://osu.ppy.sh/beatmapsets/426252#osu) by MrSergio" |
