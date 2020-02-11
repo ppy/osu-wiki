@@ -22,7 +22,7 @@
 
 <!-- shared image -->
 [osu!mania icon link]: /wiki/shared/mode/mania.png "icône d'osu!mania"
-[osu!mania playfield image]:  /wiki/shared/Mania_playfield.jpg "le terrain de jeu d'osu!mania"
+[osu!mania playfield image]: /wiki/shared/Mania_playfield.jpg "le terrain de jeu d'osu!mania"
 [osu!mania notes image]: /wiki/shared/Mania_notes.jpg "les notes d'osu!mania"
 [osu!mania holdnotes image]: /wiki/shared/Mania_holdnotes.jpg "les longues notes d'osu!mania"
 [osu!mania Interface image]: /wiki/shared/Interface_mania.jpg "l'Interface d'osu!mania"

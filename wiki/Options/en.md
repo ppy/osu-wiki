@@ -19,7 +19,7 @@ This section is about your account, language settings, and what updates you want
 
 ### Sign-in
 
-If you are not signed in to the game client, it will automatically open the options menu, prompting you to sign in. You can ignore this by pressing `Esc`, clicking on the back button, or navigating to the song selection screen. By not signing in, the game client will mark you as a "Guest" and you will not be able to fetch online scores, submit scores, or play [Multi](wiki/Multi).
+If you are not signed in to the game client, it will automatically open the options menu, prompting you to sign in. You can ignore this by pressing `Esc`, clicking on the back button, or navigating to the song selection screen. By not signing in, the game client will mark you as a "Guest" and you will not be able to fetch online scores, submit scores, or play [Multi](/wiki/Multi).
 
 If you are a guest, these options will be shown:
 

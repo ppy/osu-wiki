@@ -9,7 +9,7 @@ Many great mappers have sharpened their skills at first by imitating others they
 Below are links to the some of the well known mapping techniques widely used by mappers.
 If need be, you could also get a gist of mapping techniques at [Mapping Techniques/Basics](./Basics/).
 
-If you want to know how to make good sliders, see [Making Good Sliders](./Making-Good-Sliders).
+If you want to know how to make good sliders, see [Making Good Sliders](Making_Good_Sliders).
 
 ## List of Mapping Techniques
 
@@ -97,14 +97,14 @@ If you want to know how to make good sliders, see [Making Good Sliders](./Making
 
 #### Additional Effects
 
-- [Post-Spinner Note](./Spinner/#post-spinner-note)
-- [Pre-Spinner Note](./Spinner/#pre-spinner-note)
+- [Post-Spinner Note](Spinners#post-spinner-note)
+- [Pre-Spinner Note](Spinners#pre-spinner-note)
 
 #### Spinner Variation
 
-- [Double Spinners](./Spinner/#double-spinners)
-- [End Spinner](./Spinner/#end-spinner)
-- [Short Spinners](./Spinner/#short-spinners)
+- [Double Spinners](Spinners#double-spinners)
+- [End Spinner](Spinners#end-spinner)
+- [Short Spinners](Spinners#short-spinners)
 
 ### Sliders
 

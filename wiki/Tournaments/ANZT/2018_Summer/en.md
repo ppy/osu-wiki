@@ -40,7 +40,7 @@ The **Aus/NZ osu!standard Tournament 5 - Summer** (***ANZT 5S***) was a double e
 
 ## Links
 
-- [Discussion thread](/community/forums/topics/679243)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/679243)
 - [Livestream](https://www.twitch.tv/osuanzt)
 - [Challonge page](https://anzttournaments.challonge.com/o1fs6s1q)
 

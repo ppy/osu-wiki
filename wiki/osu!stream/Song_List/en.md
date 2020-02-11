@@ -1,5 +1,5 @@
 <!-- wikilink -->
-[osu!stream wikilink]: .,/ "osu!stream"
+[osu!stream wikilink]: /wiki/osu!stream "osu!stream"
 
 <!-- img -->
 <!-- get me links -->

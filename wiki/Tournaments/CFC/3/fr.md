@@ -219,7 +219,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
   - [Warak - Cosmic Invaders (Spectator) \[Extra\]](https://osu.ppy.sh/beatmapsets/619183/#fruits/1305127)
 - Hidden
   - [Yeah Yeah Yeahs - 'EVERMORE SIDE A (Emiru) \[Heads Will Roll (A-Trak remix)\]](https://osu.ppy.sh/beatmapsets/845175/#fruits/1767920)
-  - [Colorful Sounds Port - ETERNAL DRAIN (rock time) \[Extra\]](//beatmapsets/706978/#fruits/1494735)
+  - [Colorful Sounds Port - ETERNAL DRAIN (rock time) \[Extra\]](https://osu.ppy.sh/beatmapsets/706978/#fruits/1494735)
   - [onoken - Unisonote (Kyuare) \[Rain AR8\]](https://osu.ppy.sh/beatmapsets/448498/#fruits/962563)
 - HardRock
   - [Johannes Brahms - Inpromptus No. 18 (AngelHoney) \[Challenging\]](https://osu.ppy.sh/beatmapsets/13991/#fruits/51439)

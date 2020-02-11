@@ -20,7 +20,7 @@ Concursos oficiales de beatmapping organizados por el personal de osu!
 Notas:
 
 - Los ganadores de este concurso recibirán el título del foro "Elite Mapper"
-- Los beatmaps ganadores del MBC \#1 a \#12 (a excepción del MBC \#6) se han/serán incluidos con el [instalador de osu!](Https://osu.ppy.sh/p/download) (junto con el [osu! tutorial](https://osu.ppy.sh/beatmapsets/3756)).
+- Los beatmaps ganadores del MBC \#1 a \#12 (a excepción del MBC \#6) se han/serán incluidos con el [instalador de osu!](https://osu.ppy.sh/p/download) (junto con el [osu! tutorial](https://osu.ppy.sh/beatmapsets/3756)).
 - Los conjuntos de mapas ganadores desde el MBC \#13 han sido/serán presentados por el equipo de medios de osu!
 
 | Concurso No. | Beatmap                                                                                                | Modo                 | Mapper                                          | Resultados                                         | Puntuación

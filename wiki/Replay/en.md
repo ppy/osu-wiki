@@ -128,7 +128,7 @@ To export a replay, press `F2` in the results screen.
 Exported replay will have an `.osr` file extension with a clean filename format as shown below:-
 
 ```
-Format : {LocalPlayerName} - {Artist} - {Title} [{Difficulty}]({YYYY-MM-DD}) {GameMode}
+Format : {LocalPlayerName} - {Artist} - {Title} [{Difficulty}] ({YYYY-MM-DD}) {GameMode}
 Example: dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS] (2013-08-12) OsuMania
 ```
 

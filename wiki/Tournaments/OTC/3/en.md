@@ -136,25 +136,25 @@ The osu! Technical Championship #3 was run by various osu! community members.
 **[Download the mappack here! (130 MB)](http://www.mediafire.com/file/dkkspnkg80a8b4u/OTC+%233+Finals+Mappool.zip)**
 
 - NoMod
-  - [Lite Show Magic - TRICKL4SH 220 (Regou) \[TERROR\]](/beatmapsets/616696#osu/1300513)
-  - [trapman featuring CreeperWorks - minefield surfing (ktgster) \[Adaption\]](/beatmapsets/788448#osu/1654883)
-  - [Culprate & Skorpion - Jester (NeilPerry) \[Transcending Dimensions\]](/beatmapsets/848259#osu/1773876)
-  - [Shawn Wasabi + YDG feat. YUNG GEMMY - Burnt Rice (Aiobahn & Jh-Anu Remix) (handsome) \[Master\]](/beatmapsets/519256#osu/1103732)
-  - [FUJIN CLUB - Tabi to Ferry (dsco) \[Seaside\]](/beatmapsets/704541#osu/1490377)
+  - [Lite Show Magic - TRICKL4SH 220 (Regou) \[TERROR\]](https://osu.ppy.sh/beatmapsets/616696#osu/1300513)
+  - [trapman featuring CreeperWorks - minefield surfing (ktgster) \[Adaption\]](https://osu.ppy.sh/beatmapsets/788448#osu/1654883)
+  - [Culprate & Skorpion - Jester (NeilPerry) \[Transcending Dimensions\]](https://osu.ppy.sh/beatmapsets/848259#osu/1773876)
+  - [Shawn Wasabi + YDG feat. YUNG GEMMY - Burnt Rice (Aiobahn & Jh-Anu Remix) (handsome) \[Master\]](https://osu.ppy.sh/beatmapsets/519256#osu/1103732)
+  - [FUJIN CLUB - Tabi to Ferry (dsco) \[Seaside\]](https://osu.ppy.sh/beatmapsets/704541#osu/1490377)
 - Hidden
-  - [Camellia feat. Nanahira - Bassdrop Freaks (2018 "Redrop" ver.) (Mir) \[Beisu Doroppu\]](/beatmapsets/806859#osu/1693575)
-  - [Nekomata Master+ - Proof of the existence (IceKalt) \[New World\]](/beatmapsets/807310#osu/1694395)
-  - [Aoki Chihiro - Kodou (Hollow Wings) \[HW's Another\]](/beatmapsets/687511#osu/1579923)
+  - [Camellia feat. Nanahira - Bassdrop Freaks (2018 "Redrop" ver.) (Mir) \[Beisu Doroppu\]](https://osu.ppy.sh/beatmapsets/806859#osu/1693575)
+  - [Nekomata Master+ - Proof of the existence (IceKalt) \[New World\]](https://osu.ppy.sh/beatmapsets/807310#osu/1694395)
+  - [Aoki Chihiro - Kodou (Hollow Wings) \[HW's Another\]](https://osu.ppy.sh/beatmapsets/687511#osu/1579923)
 - HardRock
-  - [lapix feat. Renko - Concept Of Reality (Ameth Rianno) \[Ameth's Extra\]](/beatmapsets/559140#osu/1208032)
-  - [DJ Noriken - Turn It Up feat. Kanae Asaba (Akali) \[Friendship is Magic Collab ft Cassu\]](/beatmapsets/611867#osu/1291481)
-  - [sakuzyo - Senkyou Ranbu (ktgster) \[EX\]](/beatmapsets/460516#osu/986233)
+  - [lapix feat. Renko - Concept Of Reality (Ameth Rianno) \[Ameth's Extra\]](https://osu.ppy.sh/beatmapsets/559140#osu/1208032)
+  - [DJ Noriken - Turn It Up feat. Kanae Asaba (Akali) \[Friendship is Magic Collab ft Cassu\]](https://osu.ppy.sh/beatmapsets/611867#osu/1291481)
+  - [sakuzyo - Senkyou Ranbu (ktgster) \[EX\]](https://osu.ppy.sh/beatmapsets/460516#osu/986233)
 - DoubleTime
-  - [Koronba - Iwashi ga Tsuchi kara Haete Kurunda (Damnjelly) \[Sardine\]](/beatmapsets/602367#osu/1580728)
-  - [rerulili - Noushou Sakuretsu Girl (dksslqj) \[dksslqj Style\]](/beatmapsets/63434#osu/208935)
+  - [Koronba - Iwashi ga Tsuchi kara Haete Kurunda (Damnjelly) \[Sardine\]](https://osu.ppy.sh/beatmapsets/602367#osu/1580728)
+  - [rerulili - Noushou Sakuretsu Girl (dksslqj) \[dksslqj Style\]](https://osu.ppy.sh/beatmapsets/63434#osu/208935)
   - [Skrillex - Imma Try It Out (feat. Alvin Risk) (Foreverends) \[Endstep\]](https://bloodcat.com/osu/s/76662)
 - Tiebreaker
-  - **[Culprate & Au5 - Impulse (handsome) \[Master\]](/beatmapsets/705788#osu/1492654)**
+  - **[Culprate & Au5 - Impulse (handsome) \[Master\]](https://osu.ppy.sh/beatmapsets/705788#osu/1492654)**
 
 ### Semifinals
 

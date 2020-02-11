@@ -28,7 +28,7 @@ Mouse play tends to struggle with:
 
 ### Tablet Play
 
-If you are going to use a tablet, you should try and pick an area on the tablet that you can comfortably play with. If you are going to buy a tablet to play osu! with, you should check out the [Tablet purchase](/wiki/Guides/Tablet_purchase/ "Tablet purchase by Daru") guide. Additionally, buy some spare nibs, as you never know when you will need another one since they tend to wear out quickly, especially in highly active play. While you can use the tablet itself to tap the circles, most players prefer using a keyboard which we'll cover a bit later on. Tablet play tends to excel at:
+If you are going to use a tablet, you should try and pick an area on the tablet that you can comfortably play with. If you are going to buy a tablet to play osu! with, you should check out the [Tablet purchase](/wiki/Guides/Tablet_purchase "Tablet purchase by Daru") guide. Additionally, buy some spare nibs, as you never know when you will need another one since they tend to wear out quickly, especially in highly active play. While you can use the tablet itself to tap the circles, most players prefer using a keyboard which we'll cover a bit later on. Tablet play tends to excel at:
 
 -   No cursor drift.
 -   Precise movement and speed.

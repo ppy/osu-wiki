@@ -25,7 +25,7 @@ needs_cleanup: true
 
 <!-- shared image -->
 [osu!mania icon link]: /wiki/shared/mode/mania.png "osu!mania icon"
-[osu!mania playfield image]:  /wiki/shared/Mania_playfield.jpg "osu!mania playfield"
+[osu!mania playfield image]: /wiki/shared/Mania_playfield.jpg "osu!mania playfield"
 [osu!mania notes image]: /wiki/shared/Mania_notes.jpg "osu!mania notes"
 [osu!mania holdnotes image]: /wiki/shared/Mania_holdnotes.jpg "osu!mania hold notes"
 [osu!mania Interface image]: /wiki/shared/Interface_mania.jpg "osu!mania Interface"
