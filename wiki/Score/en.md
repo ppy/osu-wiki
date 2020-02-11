@@ -100,7 +100,7 @@ Image | Name | Effect
 ## Scoring
 
 <!-- Uncomment the below and delete this comment if ScoreV2 is official. -->
-<!-- **[Click here to visit the deprecated ScoreV1 system](./ScoreV1 "ScoreV1")** -->
+<!-- **[Click here to visit the deprecated ScoreV1 system](ScoreV1 "ScoreV1")** -->
 
 ### ScoreV2
 
