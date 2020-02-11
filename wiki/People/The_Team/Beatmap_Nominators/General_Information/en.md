@@ -32,7 +32,7 @@ Steps on Disqualifying a Beatmapset:
 - If the disqualification is linked to a report, also link the respective beatmap discussion post(s).
 - Press the "**Disqualify**" button below the text field (the one that replaces the "Problem" button).
 
-As an extension of this ability, you can also [veto a beatmap](/wiki/People/Beatmap_Nominators/Beatmap_Veto/), preventing a beatmap from being renominated until you give permission or the veto is dismissed by veto mediation. However, placing a veto also requires that you discuss the issue with the mapper properly and try to reach a consensus. Discussing the issue with the original Nominator would be beneficial and might grant you a new perspective on the matter, but you're not obligated to do so.
+As an extension of this ability, you can also [veto a beatmap](/wiki/People/Beatmap_Nominators/Beatmap_Veto), preventing a beatmap from being renominated until you give permission or the veto is dismissed by veto mediation. However, placing a veto also requires that you discuss the issue with the mapper properly and try to reach a consensus. Discussing the issue with the original Nominator would be beneficial and might grant you a new perspective on the matter, but you're not obligated to do so.
 
 ## Additional Beatmap Nominator functions
 

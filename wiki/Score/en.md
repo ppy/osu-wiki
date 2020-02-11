@@ -3,9 +3,9 @@ needs_cleanup: true
 ---
 
 <!-- wiki -->
-[osu! wikilink]: /wiki/Game_Modes/osu!/ "osu!"
+[osu! wikilink]: /wiki/Game_Modes/osu! "osu!"
 <!-- [osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko/ "osu!taiko" -->
-[osu!catch wikilink]: /wiki/Game_Modes/osu!catch/ "osu!catch"
+[osu!catch wikilink]: /wiki/Game_Modes/osu!catch "osu!catch"
 <!-- [osu!mania wikilink]: /wiki/Game_Modes/osu!mania/ "osu!mania" -->
 
 [CS wikilink]: /wiki/Beatmap_Editor/Song_Setup "more info can be found on Song Setup under Circle Size"
@@ -119,7 +119,7 @@ ScoreV2 attempts to standardise all the game modes' scoring system to 1,000,000 
 Each of the hit objects are now part of the 1 million score and scaled accordingly rather than their own scoring values and bonus formulae.
 
 ScoreV2 can be tested in [Multi](/wiki/Multi "Multi") mode as one of the Match Setup's Win Condition.
-As of [22 February 2017 (2017-02-22)](https://osu.ppy.sh/p/changelog?v=b20170222.3 "Release Notes for b20170222.3 (Stable)"), the ScoreV2 system can be tested in _Solo_ mode using the **UNRANKED** [ScoreV2](/wiki/Game_Modifiers/) game modifier.
+As of [22 February 2017 (2017-02-22)](https://osu.ppy.sh/p/changelog?v=b20170222.3 "Release Notes for b20170222.3 (Stable)"), the ScoreV2 system can be tested in _Solo_ mode using the **UNRANKED** [ScoreV2](/wiki/Game_Modifiers) game modifier.
 
 ### Score
 

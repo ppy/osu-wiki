@@ -1,9 +1,9 @@
 <!--Wiki links used-->
 [osu!academy wikilink]: /wiki/osu!academy "osu!academy"
-[Abandoned Wasteland wikilink]: /wiki/Glossary/#abandoned-wasteland "more info can be found on Glossary under Abandoned Wasteland"
-[Release b335]: /wiki/History_of_osu!/Release_b335/ "Release b335 (Multi patch) in History of osu!"
+[Abandoned Wasteland wikilink]: /wiki/Glossary#abandoned-wasteland "more info can be found on Glossary under Abandoned Wasteland"
+[Release b335]: /wiki/History_of_osu!/Release_b335 "Release b335 (Multi patch) in History of osu!"
 [Chat Console wikilink]: /wiki/Chat_Console "Основное окно чата"
-[Chat_Console#Extended Chat Console wikilink]: /wiki/Chat_Console/#расширенное-окно-чата "больше информации может быть найдено тут"
+[Chat_Console#Extended Chat Console wikilink]: /wiki/Chat_Console#расширенное-окно-чата "больше информации может быть найдено тут"
 [Beatmaps2 wikilink]: /wiki/Beatmaps "more info can be found on Beatmaps under How to get beatmaps from osu!"
 [osu!supporter wikilink]: /wiki/osu!supporter "osu!supporter"
 [BanchoBot wikilink]: /wiki/BanchoBot "BanchoBot"

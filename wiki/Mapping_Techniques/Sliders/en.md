@@ -117,7 +117,7 @@ Nominator(s): MetalMario201
 Rainbow sliders are large, arc-shaped sliders which generally take up half of the screen.
 These are best used in places with long, climactic, hold notes (sort of like spinners).
 
-[EBA](/wiki/Glossary/#eba) was just full of these.
+[EBA](/wiki/Glossary#eba) was just full of these.
 
 ### Slider Art
 

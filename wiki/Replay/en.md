@@ -12,10 +12,10 @@ outdated: true
 [Relax wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Relax"
 [Auto Pilot wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Auto Pilot"
 [Perfect wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Perfect"
-[osr wikilink]: /wiki/osu!_File_Formats/Osr_(file_format)/ ".osr file format"
-[Chat Console wikilink]: /wiki/Chat_Console/ "Chat Console"
-[Extended Chat Console wikilink]: /wiki/Chat_Console/#extended-chat-console "more info can be found on Chat Console under Extended Chat Console"
-[Options#Keyboard wikilink]: /wiki/Options/#keyboard "more info can be found on Options under Keyboard section"
+[osr wikilink]: /wiki/osu!_File_Formats/Osr_(file_format) ".osr file format"
+[Chat Console wikilink]: /wiki/Chat_Console "Chat Console"
+[Extended Chat Console wikilink]: /wiki/Chat_Console#extended-chat-console "more info can be found on Chat Console under Extended Chat Console"
+[Options#Keyboard wikilink]: /wiki/Options#keyboard "more info can be found on Options under Keyboard section"
 
 <!-- image -->
 [Replay Auto]: img/Replay_Auto.jpg "Replay with Auto, offline and online account play respectively"

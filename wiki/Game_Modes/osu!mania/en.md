@@ -4,17 +4,17 @@ needs_cleanup: true
 
 <!-- wiki -->
 [osu! wikilink]: /wiki/Game_Modes/osu! "osu!"
-[osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko/ "osu!taiko"
-[Play_Styles#osu!mania wikilink]: /wiki/Play_Styles/#osu-mania "more info can be found on Play Styles under osu!mania"
+[osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko "osu!taiko"
+[Play_Styles#osu!mania wikilink]: /wiki/Play_Styles#osu-mania "more info can be found on Play Styles under osu!mania"
 [Co-Op wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Co-Op"
 [xK wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under xK"
-[Score#osu!maniaSV wikilink]: /wiki/Score/#osu-mania "more info can be found on Score under osu!mania Scoring Values"
-[Options#Keyboard wikilink]: /wiki/Options/#keyboard "more info can be found on Options under Keyboard"
-[Skinning#osu!mania wikilink]: /wiki/Skinning/osu!mania/ "osu!mania Skinning"
+[Score#osu!maniaSV wikilink]: /wiki/Score#osu-mania "more info can be found on Score under osu!mania Scoring Values"
+[Options#Keyboard wikilink]: /wiki/Options#keyboard "more info can be found on Options under Keyboard"
+[Skinning#osu!mania wikilink]: /wiki/Skinning/osu!mania "osu!mania Skinning"
 [Hidden wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Hidden"
 [Fade In wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Fade In"
 [Flashlight wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Flashlight"
-[Mascots#Maria wikilink]: /wiki/Mascots/#maria "more info can be found on Mascots under Maria"
+[Mascots#Maria wikilink]: /wiki/Mascots#maria "more info can be found on Mascots under Maria"
 [Auto wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Auto"
 
 <!-- osu!mania specific -->

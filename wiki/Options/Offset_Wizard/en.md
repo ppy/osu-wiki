@@ -37,4 +37,4 @@ Upon exiting, the value listed from this screen will be used as your universal o
 
 ## How to use the Offset Wizard
 
-For instructions on how to use the offset wizard, see [How to use the Offset Wizard](/wiki/List_of_Guides/How_to_use_the_Offset_Wizard/).
+For instructions on how to use the offset wizard, see [How to use the Offset Wizard](/wiki/List_of_Guides/How_to_use_the_Offset_Wizard).

@@ -50,7 +50,7 @@ Jika, selama bagian apa pun, anda bingung dan/atau memerlukan bantuan lebih lanj
 
 3\. Tidak jadi masalah besar, kecuali, jika anda akan menyunting file yang sudah disunting yang mungkin anda akan tertinggal dengan semakin banyaknya commit yang dibuat.
 
-4\. Untuk mengatasi ini, lihat [bagian Branch saya belum diperbaharui! dalam artikel Masalah Umum.](/wiki/owcg/Common_Issues/#my-branch-is-out-of-date!).
+4\. Untuk mengatasi ini, lihat [bagian Branch saya belum diperbaharui! dalam artikel Masalah Umum.](/wiki/owcg/Common_Issues#my-branch-is-out-of-date!).
 
 5\. Ketika anda selesai dengan langkah 4, lanjutkan ke [Menyunting dari daring ataupun luring](#editing-online-or-locally).
 

@@ -37,4 +37,4 @@ Quand vous quittez, la valeur listée de cet écran sera utilisée comme votre d
 
 ## Comment utiliser l'assistant de décalage
 
-Pour plus d'instructions sur comment utiliser l'assistant de décalage, voir [comment utiliser l'assistant de décalage](/wiki/List_of_Guides/How_to_use_the_Offset_Wizard/).
+Pour plus d'instructions sur comment utiliser l'assistant de décalage, voir [comment utiliser l'assistant de décalage](/wiki/List_of_Guides/How_to_use_the_Offset_Wizard).

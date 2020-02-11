@@ -4,16 +4,16 @@ outdated: true
 <!-- TODO: /Summary should be updated at the same time as this -->
 
 <!-- wiki -->
-[osu! wikilink]: /wiki/Game_Modes/osu!/ "osu!"
-[osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko/ "osu!taiko"
-[osu!catch wikilink]: /wiki/Game_Modes/osu!catch/ "osu!catch"
-[osu!mania wikilink]: /wiki/Game_Modes/osu!mania/ "osu!mania"
-[lifebar wikilink]: /wiki/Glossary/#life-bar "Life bar definition in Glossary"
-[CS wikilink]: /wiki/Beatmap_Editor/Song_Setup/#circle-size "Circle Size (CS) in Song Setup"
-[AR wikilink]: /wiki/Beatmap_Editor/Song_Setup/#approach-rate "Approach Rate (AR) in Song Setup"
-[OD wikilink]: /wiki/Beatmap_Editor/Song_Setup/#overall-difficulty "Overall Difficulty (OD) in Song Setup"
-[HP wikilink]: /wiki/Beatmap_Editor/Song_Setup/#hp-drain-rate "HP Drain Rate (HP) in Song Setup"
-[SV wikilink]: /wiki/Glossary/#slider-velocity "Slider velocity definition in Glossary"
+[osu! wikilink]: /wiki/Game_Modes/osu! "osu!"
+[osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko "osu!taiko"
+[osu!catch wikilink]: /wiki/Game_Modes/osu!catch "osu!catch"
+[osu!mania wikilink]: /wiki/Game_Modes/osu!mania "osu!mania"
+[lifebar wikilink]: /wiki/Glossary#life-bar "Life bar definition in Glossary"
+[CS wikilink]: /wiki/Beatmap_Editor/Song_Setup#circle-size "Circle Size (CS) in Song Setup"
+[AR wikilink]: /wiki/Beatmap_Editor/Song_Setup#approach-rate "Approach Rate (AR) in Song Setup"
+[OD wikilink]: /wiki/Beatmap_Editor/Song_Setup#overall-difficulty "Overall Difficulty (OD) in Song Setup"
+[HP wikilink]: /wiki/Beatmap_Editor/Song_Setup#hp-drain-rate "HP Drain Rate (HP) in Song Setup"
+[SV wikilink]: /wiki/Glossary#slider-velocity "Slider velocity definition in Glossary"
 
 <!-- image -->
 [GM]: ./img/GM_Main.jpg "Mods screen of all four modes (Left-to-Right from Top-to-Bottom: osu!standard, osu!taiko, osu!catch, and osu!mania)"
@@ -107,7 +107,7 @@ The Easy mod also grants the player two additional "lives"; if the [life bar][li
 
 When watching a replay where an extra "life" is used, the health refill animation will be ignored and the replay will continue as if playing with [No Fail](#no-fail) mod on.
 
-In [Multi](/wiki/multi "Multi") mode, the effect of "lives" will not work in [Tag Coop / Tag Team Vs](/wiki/multi/#tag-coop-tag-team-vs "Tag Coop / Tag Team Vs") team mode.
+In [Multi](/wiki/multi "Multi") mode, the effect of "lives" will not work in [Tag Coop / Tag Team Vs](/wiki/multi#tag-coop-tag-team-vs "Tag Coop / Tag Team Vs") team mode.
 
 ---
 
@@ -191,7 +191,7 @@ These mods introduce new elements to make the game harder and rewards the player
 
 > Everything just got a bit harder...
 
-Hard Rock (named after the hardest difficulty of the DS game [Elite Beat Agents](/wiki/Glossary/#eba)) raises [circle size][CS wikilink] by 30% and the rest of the difficulty settings by 40%.
+Hard Rock (named after the hardest difficulty of the DS game [Elite Beat Agents](/wiki/Glossary#eba)) raises [circle size][CS wikilink] by 30% and the rest of the difficulty settings by 40%.
 
 ---
 
@@ -231,7 +231,7 @@ Using this mod on osu!mania will result in an unranked play.
 
 > Miss a note and fail.
 
-Sudden Death mod causes the player to fail the map if the [combo](/wiki/Glossary/#combo) is ever broken, resulting in an extra large miss figure (osu!standard mode only) and a full HP drain.
+Sudden Death mod causes the player to fail the map if the [combo](/wiki/Glossary#combo) is ever broken, resulting in an extra large miss figure (osu!standard mode only) and a full HP drain.
 
 Combo can be broken by missing a note, not clicking on a starting slider circle (osu!standard only), not collecting a slider tick, or failing to complete a spinner. However, combo will not be broken by missing a slider end (result in getting 100 score value instead for that slider completion; osu!standard only) or not holding/collecting on the empty slider path.
 
@@ -643,7 +643,7 @@ It does not affect the notes' timeline and is not shuffled every time Random mod
 
 [Introduced in the 22 February 2017 (2017-02-22) build \[b20170222.3 (Stable)\]](https://osu.ppy.sh/p/changelog?v=b20170222.3 "Release Notes for b20170222.3 (Stable)"), ScoreV2 mod uses the prototype ScoreV2 system instead of the current scoring system used by the mode. ScoreV2 system attempts to scale _all_ hit object scoring values to a hard limit of 1,000,000 (1 million) score limit at 1.00 score modifier excluding bonus spinner value of spinners in osu!standard mode, dendens in osu!taiko mode, and collected bananas (spinner equivalent) in osu!catch mode.
 
-Full information regarding ScoreV2 can be found at [the Score page under ScoreV2](/wiki/Score/#scorev2).
+Full information regarding ScoreV2 can be found at [the Score page under ScoreV2](/wiki/Score#scorev2).
 
 ## Experimental
 

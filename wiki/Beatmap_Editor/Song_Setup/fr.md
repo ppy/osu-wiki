@@ -84,7 +84,7 @@ Le taux de drainage HP, communément abrégé en HP, détermine le taux de récu
 
 Dans osu!standard et osu!catch, cela affecte également le [Passive HP](/wiki/Passive_HP) (la vitesse constante à laquelle HP diminue, sauf pendant les[Breaks](/wiki/Breaks).
 
-*Remarque : Plus de HP est récupéré avec [Geki and Katu](/wiki/Score/#osu) les scores de coups, qui peuvent être donnés à partir du dernier objet touché dans un combo.*
+*Remarque : Plus de HP est récupéré avec [Geki and Katu](/wiki/Score#osu) les scores de coups, qui peuvent être donnés à partir du dernier objet touché dans un combo.*
 
 ### Taille du cercle
 
@@ -239,7 +239,7 @@ Vous pouvez cependant inclure les éléments de skin à l'intérieur du dossier 
 
 Dans osu!standard, les objets frappés s'empilent automatiquement s'ils sont tous les deux placés au même endroit tout en étant proches dans le temps. Ceci pour aider les joueurs à voir les objets touchés qui se chevauchent.
 
-En déplaçant le curseur vers la droite, la "proximité" des objets touchés sera espacée dans le temps avant que l'empilage n'ait lieu. [Rules](/wiki/rc_osu!/#gameplay) dictent que si `Stack Leniency` est réglé pour que l'empilement ne se produise plus, le créateur doit manuellement décaler les objets touchés. Il est préférable de laisser cette option telle quelle, avec sa valeur par défaut `7`.
+En déplaçant le curseur vers la droite, la "proximité" des objets touchés sera espacée dans le temps avant que l'empilage n'ait lieu. [Rules](/wiki/rc_osu!#gameplay) dictent que si `Stack Leniency` est réglé pour que l'empilement ne se produise plus, le créateur doit manuellement décaler les objets touchés. Il est préférable de laisser cette option telle quelle, avec sa valeur par défaut `7`.
 
 *Avis : Les cercles de frappe empilés dans osu!standard se déplaceront vers le point où l'empilement se produit.*
 
