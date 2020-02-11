@@ -84,6 +84,19 @@ Most official mapping contests offer the **Elite Mapper** title as a first-place
 - ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661)
 - ![][flag_CL] [ZiRoX](https://osu.ppy.sh/users/200768)
 
+### Elite Nominators
+
+Since 2020, [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators)' and [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) members' activity in supporting the ranking system has been rewarded with the **Elite Nominator** title. This title is given at the beginning of each year for contributions made during the last, and is removed upon the user leaving the team.
+
+- ![][flag_MY] [\_Kobii](https://osu.ppy.sh/users/6209713)
+- ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437)
+- ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970)
+- ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)
+- ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
+- ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)
+- ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452)
+- ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045)
+
 ### Aspire mapping contest winners
 
 The Aspire mapping contests feature a special variation of the Elite Mapper title called **Elite Mapper: Aspirant** as a prize.
@@ -172,11 +185,13 @@ These players earned their titles through either a crazy gameplay achievement or
 | :-- | :-- |
 | ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | osu!painter <!-- achievements and some other graphics --> |
 | ![][flag_US] [Daru](https://osu.ppy.sh/users/32480) | osu!painter <!-- maria and yuzu and a bunch of artwork for old site --> |
+| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch Paragon |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Resident Skinner |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Pro Tester |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | iPhone Dev |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | osu!taiko Paragon |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter |
+| ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) | osu!mania Paragon |
 | ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | Pro Tester |
 
 ### Other
@@ -195,6 +210,7 @@ These players earned their titles through either a crazy gameplay achievement or
 
 | User | Title |
 | :-- | :-- |
+| ![][flag_MY] [\_Kobii](https://osu.ppy.sh/users/6209713) | Elite Nominator |
 | ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions |
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | Elite Mapper |
 | ![][flag_KR] [[224]Hyperw7](https://osu.ppy.sh/users/4158549) | osu!catch Champion |
@@ -209,7 +225,9 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_KR] [Berea](https://osu.ppy.sh/users/3657951) | osu!catch Champion |
 | ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) | osu!mixer |
 | ![][flag_KR] [blueBloody](https://osu.ppy.sh/users/8046839) | osu!mania champion |
+| ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437) | Elite Nominator |
 | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | Elite Mapper II: Aspirant |
+| ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970) | Elite Nominator |
 | ![][flag_AT] [creosu](https://osu.ppy.sh/users/13958834) | Featured Artist |
 | ![][flag_US] [Crowie](https://osu.ppy.sh/users/6894067) | osu!artist |
 | ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589) | osu! Hall of Famer |
@@ -221,6 +239,7 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_US] [Dictate](https://osu.ppy.sh/users/5983379) | Featured Artist |
 | ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207) | osu! Champion |
 | ![][flag_AU] [Drum Decimator](https://osu.ppy.sh/users/4841352) | Drum Decimator |
+| ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Elite Nominator |
 | ![][flag_JP] [ekumea1123](https://osu.ppy.sh/users/9119501) | osu!taiko Champion |
 | ![][flag_KR] [Estonians](https://osu.ppy.sh/users/7014697) | osu!mania Champion |
 | ![][flag_PL] [Exile-](https://osu.ppy.sh/users/2559349) | Elite Storyboarder |
@@ -234,6 +253,8 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_JP] [isobe](https://osu.ppy.sh/users/8047347) | osu!taiko Champion |
 | ![][flag_KR] [Jakads](https://osu.ppy.sh/users/259972) | osu!mania Champion |
 | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | osu! Hall of Famer |
+| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch Paragon |
+| ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Elite Nominator |
 | ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) | osu!artist |
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | Elite Mapper |
 | ![][flag_KR] [Kalkai](https://osu.ppy.sh/users/10790649) | osu!mania champion |
@@ -251,6 +272,7 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Pro Tester |
 | ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993) | Elite Mapper |
 | ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438) | Elite Mapper: Aspirant |
+| ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | Elite Nominator |
 | ![][flag_KR] [Motion](https://osu.ppy.sh/users/3885626) | osu!catch Champion |
 | ![][flag_JP] [nakanojojo](https://osu.ppy.sh/users/10631848) | Featured Artist |
 | ![][flag_CN] [Necho](https://osu.ppy.sh/users/4086593) | Elite Mapper |
@@ -271,6 +293,7 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Elite Mapper |
 | ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | osu! Hall of Famer |
 | ![][flag_NL] [Shirotora](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game |
+| ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) | osu!mania Paragon |
 | ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057) | Elite Mapper |
 | ![][flag_TW] [SnowNiNo_](https://osu.ppy.sh/users/2506267) | Elite Mapper: Aspirant |
 | ![][flag_ES] [sotuiofficial](https://osu.ppy.sh/users/14779258) | Featured Artist |
@@ -285,12 +308,14 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_RU] [tieff](https://osu.ppy.sh/users/89619) | Featured Artist |
 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | osu! Champion |
 | ![][flag_KR] [Transcendence](https://osu.ppy.sh/users/903155) | osu!mania Champion |
+| ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Elite Nominator |
 | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) | osu!taiko Champion |
 | ![][flag_JP] [v2fax](https://osu.ppy.sh/users/7739269) | osu!taiko Champion |
 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) | osu! Champion |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | Featured Artist |
 | ![][flag_KR] [W h i t e](https://osu.ppy.sh/users/685229) | Elite Mapper |
 | ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) | osu!mania Champion |
+| ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) | Elite Nominator |
 | ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist |
 | ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661) | Elite Mapper |
 | ![][flag_KR] [Yeoul](https://osu.ppy.sh/users/4698728) | osu!mania champion |
@@ -307,6 +332,7 @@ These players earned their titles through either a crazy gameplay achievement or
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_HM]: /wiki/shared/flag/HM.gif "Heard Island and McDonald Islands"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italy"
@@ -322,5 +348,6 @@ These players earned their titles through either a crazy gameplay achievement or
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_SH]: /wiki/shared/flag/SH.gif "Saint Helena"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
