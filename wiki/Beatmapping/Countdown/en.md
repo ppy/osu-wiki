@@ -6,7 +6,8 @@ tags:
 # Countdown
 
 *For tournament timers, see: [Tournament Management Commands](/wiki/osu!tourney/Tournament_Management_Commands)*
-*For regulations around countdowns, see: [Ranking Criteria](/wiki/Ranking_Criteria)*
+
+*For regulations around countdowns, see: [Ranking criteria](/wiki/Ranking_Criteria)*
 
 Countdowns give players a countdown before starting a [beatmap](/wiki/Beatmaps). This is useful for songs that go directly into the heat of things. Most maps do not need this option enabled. The option can be disabled in the [song setup](/wiki/Beatmap_Editor/Song_Setup) menu, under the "Design" tab. Countdowns are not allowed in osu!taiko.
 
