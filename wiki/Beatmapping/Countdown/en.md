@@ -1,6 +1,6 @@
 ---
 tags:
-    - Timer
+  - timer
 ---
 
 # Countdown
