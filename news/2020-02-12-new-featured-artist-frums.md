@@ -43,7 +43,7 @@ Treat your ears to what **Frums** has in stock:
 *[Check out this osu!taiko set](https://osu.ppy.sh/beatmapsets/967870#taiko/2025380) hosted by [Nifty](https://osu.ppy.sh/users/4956097)!*
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/68/previews/1894.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/68/previews/1885.mp3" type="audio/mpeg">
 </audio>
 
 ### Credits
