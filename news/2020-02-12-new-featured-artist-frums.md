@@ -58,6 +58,8 @@ Treat your ears to what **Frums** has in stock:
 
 As per usual, these tracks and a whole lot more can be found on **[Frums' Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/68)**, ready for you to load into the editor and (with these songs in particular) create what could become the most controversial map of the year.
 
+Congratulations to Mismagius who correctly guessed our Twitter hint with a 'wild first minute guess'. Monstrata gets an honorable mention for his guess of Louis-Jacques-Mandé Daguerre, being only 150 years and several creative domains apart, which is still closer to the mark than the usual 'Dragonforce' guesses.
+
 Anywho, this train has no brakes so as per usual, a new Featured Artist will be crashing your way next week! Take a peek at the [@osugame Twitter](https://twitter.com/osugame) in a few days to see your fate a bit earlier than the rest of the crowd.
 
 —pishifat
