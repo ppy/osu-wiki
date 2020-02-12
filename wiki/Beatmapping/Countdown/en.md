@@ -5,7 +5,7 @@ tags:
 
 # Countdown
 
-*For tournament timers, see: [Tournament Management Commands](/wiki/osu!tourney/Tournament_Management_Commands)*
+*For tournament timers, see: [Tournament management commands](/wiki/osu!tourney/Tournament_Management_Commands)*
 
 *For regulations around countdowns, see: [Ranking criteria](/wiki/Ranking_Criteria)*
 
