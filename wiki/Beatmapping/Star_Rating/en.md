@@ -1,11 +1,12 @@
 ---
 tags:
-    - SR
+  - SR
+  - Stars
 ---
 
-# Star Rating
+# Star rating
 <!--TODO: Include SR calculations-->
-Star rating, or commonly abbreviated as *SR*, describes a beatmap's difficulty. This number can be seen on the song selection screen or on a beatmap's info page. On the website, beatmaps are automatically given a difficulty icon based on star rating. See the overview:
+**Star rating**, or commonly abbreviated as ***SR***, describes a beatmap's difficulty. This number can be seen on the song selection screen or on a beatmap's info page. On the website, beatmaps are automatically given a difficulty icon based on star rating. See the overview:
 
 - ![](/wiki/shared/diff/easy-s.png) Easy: 0.0★–1.99★
 - ![](/wiki/shared/diff/normal-s.png) Normal: 2.0★–2.69★
