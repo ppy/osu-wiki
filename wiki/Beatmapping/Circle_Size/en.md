@@ -5,7 +5,7 @@ tags:
 
 # Circle size
 
-Circle Size, commonly abbreviated as *CS*, is a difficulty setting which determines the size of [hit objects](/wiki/Hit_Objects) on [beatmaps](/wiki/Beatmaps). The values range from 2 to 7; higher circle size values will make hit objects smaller. Using the highest value will make hit objects as big as the cursor. Most beatmaps use a value between 3 and 5, while values between 5 and 6 are sometimes used and values of 6 and above are almost never used. High circle size values are likely to be seen when using the [Hard Rock](/wiki/HR) mod as it increases circle size. Conversely, the [Easy](/wiki/HR) mod will lower circle size.
+Circle size, commonly abbreviated as *CS*, is a difficulty setting which determines the size of [hit objects](/wiki/Hit_Objects) on [beatmaps](/wiki/Beatmaps). The value for circle size ranges from 2 to 7; where a higher value will make hit objects smaller. Using the highest value will make hit objects as small as the cursor. Most beatmaps use a value between 3 and 5, while values between 5 and 6 are sometimes used. Values between 6 and 7 are almost never used. Circle size values higher than 7 or lower than 2 can be seen when the [Hard Rock](/wiki/HR) or [Easy](/wiki/EZ) mods are used respectively.
 
 It is possible to set circle size values outside normal bounds by manually editing the [.osu file](/wiki/osu!_File_Formats/Osu_(file_format)). For ranked beatmaps this is to be avoided since it is considered unrankable by the [ranking criteria](/wiki/Ranking_Criteria).
 
