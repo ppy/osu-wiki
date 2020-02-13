@@ -15,8 +15,8 @@ The **Speed of Light Mania Tournament** (***SOLMT***) was a head-to-head (1 vs. 
 | --: | :-- |
 | Registration phase | 2019-10-14/2019-11-06 |
 | Qualifiers | 2019-11-23/2019-11-24 |
-| Group Stage First Week | 2019-11-30/2019-12-01 |
-| Group Stage Second Week | 2019-12-07/2019-12-08 |
+| Group Stage (First Week) | 2019-11-30/2019-12-01 |
+| Group Stage (Second Week) | 2019-12-07/2019-12-08 |
 | Round of 32 | 2019-12-14/2019-12-15 |
 | Round of 16 | 2019-12-21/2019-12-22 |
 | Quarterfinals | 2020-01-04/2020-01-05 |
@@ -53,7 +53,7 @@ The Speed of Light Mania Tournament was run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/973387)
 - [Livestream](https://www.twitch.tv/osuworldtournament)
 - [SOLMT Discord server](https://discord.gg/Zmha38K)
-- **[Statistics Sheet](https://docs.google.com/spreadsheets/d/1IlUz5hDqyxMaQgpdhz70Y_EiTUJFKL7w_ehvmGgtY6k/edit#gid=152741005)**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1IlUz5hDqyxMaQgpdhz70Y_EiTUJFKL7w_ehvmGgtY6k/edit#gid=152741005)**
 - [Challonge brackets](https://challonge.com/solmt)
 
 ---
@@ -546,7 +546,7 @@ Sunday, 08 December 2019:
 | CrayZigg ![][flag_LV] | 0 | **4** | ![][flag_PE] **DaZeRo5** | [#1](https://osu.ppy.sh/community/matches/56834774) |
 | **Kyut** ![][flag_BR] | **4** | 0 | ![][flag_US] Jellyblob | [#1](https://osu.ppy.sh/community/matches/56834530) |
 
-## Rules
+## Ruleset
 
 - The Speed of Light tournament is a tournament where registered players compete to see who ends up at the top.
 - We will use Score v2 for this tournament.
