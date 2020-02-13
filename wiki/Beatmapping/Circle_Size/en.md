@@ -19,7 +19,7 @@ In osu!standard, only the size of hit circles and sliders are adjusted through C
 
 ## osu!catch
 
-In osu!catch circle size determines the size of both the catcher and the fruit.
+In osu!catch, circle size determines the size of both the catcher and the fruit.
 
 ## osu!mania
 
