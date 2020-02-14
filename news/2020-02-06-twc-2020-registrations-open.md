@@ -6,7 +6,7 @@ date: 2020-02-06 09:00:00 +0000
 
 Red, blue, red, blue... Ooh, blue and red! Let's shake it up a little. The osu!taiko World Cup returns for its tenth installment, and the world's best prepare to cross keys once again! If you think you can join them, the Registration Phase is now open, so sign up today!
 
-![](/wiki/shared/news/banners/TWC20202x.jpg)
+![](/wiki/shared/news/banners/TWC2020.jpg)
 
 For more details, please refer to the **[osu!taiko World Cup 2020 wiki article](/wiki/Tournaments/TWC/2020/)**.
 You can discuss this event and follow the most important changes in the **[official discussion thread](https://osu.ppy.sh/community/forums/topics/1018778)**.
