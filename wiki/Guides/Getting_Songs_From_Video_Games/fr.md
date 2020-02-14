@@ -6,22 +6,19 @@ Ce tutoriel est destiné aux mappeurs qui veulent une chanson de jeux vidéo, pr
 
 Ce tutoriel nécessitera plusieurs choses. Ils seront énumérés au cas où vous ne les auriez pas, de sorte que si vous ne les avez pas, vous pourrez les télécharger ou chercher des informations complémentaires à leur sujet :
 
--   **foobar2000.** Ce tutoriel utilise la v1.1.15 qui est la dernière version stable au moment de l'écriture de ce tutoriel.
-    Téléchargement [ici](http://www.foobar2000.org/download).
--   **vgmstream decoder plugin.** Ce tutoriel utilisera le plugin foobar2000 (version utilisée : r1002) mais si vous savez comment utiliser la version autonome, vous pouvez l'utiliser.
-    Téléchargement [ici](http://www.foobar2000.org/components/view/foo_input_vgmstream).
-    Version Standalone [ivi](http://hcs64.com/vgmstream.html).
--   **LAME Encoder.** Ceci est nécessaire pour convertir la chanson au format MP3 afin que vous puissiez la charger dans [osu!](/wiki/Glossary) et commencez à mapper !
-    Téléchargement [ici](http://www.rarewares.org) (Sélectionnez LAME Bundles dans le menu MP3).
--   **Une sauvegarde extraite de votre jeu.** Ceci est nécessaire pour obtenir la chanson désirée. Cependant, vous devriez obtenir la sauvegarde par vous-même.
-    Ce tutoriel utilisera *Paper Mario : La porte des mille ans* comme notre jeu.
+-   **foobar2000.** Ce tutoriel utilise la v1.1.15 qui est la dernière version stable au moment de l'écriture de ce tutoriel. Téléchargement [ici](http://www.foobar2000.org/download).
+-   **vgmstream decoder plugin.** Ce tutoriel utilisera le plugin foobar2000 (version utilisée : r1002) mais si vous savez comment utiliser la version autonome, vous pouvez l'utiliser. Téléchargement [ici](http://www.foobar2000.org/components/view/foo_input_vgmstream). Version Standalone [ivi](http://hcs64.com/vgmstream.html).
+-   **LAME Encoder.** Ceci est nécessaire pour convertir la chanson au format MP3 afin que vous puissiez la charger dans [osu!](/wiki/Glossary) et commencez à mapper ! Téléchargement [ici](http://www.rarewares.org) (Sélectionnez LAME Bundles dans le menu MP3).
+-   **Une sauvegarde extraite de votre jeu.** Ceci est nécessaire pour obtenir la chanson désirée. Cependant, vous devriez obtenir la sauvegarde par vous-même. Ce tutoriel utilisera *Paper Mario : La porte des mille ans* comme notre jeu.
 
 ## Démarrage
 
 ![A l'intérieur de notre dossier musique. Regardez que nous sommes sur le dossier son/stream.](GameMusicTutorial-Screen1.jpg "A l'intérieur de notre dossier musique. Regardez que nous sommes sur le dossier son/stream.")
 
 Téléchargez et installez d'abord les applications requises sur votre ordinateur (si vous ne l'avez pas encore fait). Une fois qu'elles sont installées, ouvrez foobar2000 et ouvrez l'Explorateur Windows dans le dossier musique de votre sauvegarde extraite.
+
 *Note : Le nom du dossier peut varier selon le jeu. Les noms habituels du dossier musique sont **stream, sound, bgm, music**.*
+
 *Note 2 : Certains jeux utilisent une extension différente ou pas d'extension du tout en raison de limitations du moteur/plaintes des programmeurs/quel que soit le motif. En général, une recherche sur Google peut vous donner des informations sur ces jeux spécifiques.*
 
 ## Chargement de notre chanson
@@ -35,9 +32,7 @@ Une fois que vous avez la chanson que vous convertissez, cliquez avec le bouton 
 Cette liste vous donnera la bonne configuration pour les convertir pour osu!
 
 -   **Format de sortie:** Format : MP3 (LAME), V2. *(Le débit se réglera sur 190kbps)*
--   **Destination:** Dossier de sortie : dossier du fichier source.
-    Type de sortie : pistes dans des fichiers individuels.
-    Modèle de nom de fichier : %title%.
+-   **Destination:** Dossier de sortie : dossier du fichier source. Type de sortie : pistes dans des fichiers individuels. Modèle de nom de fichier : %title%.
 - Traitement : Limiteur de -6dB en dur. *(Facultatif)*
 - **Autre:** Quand c'est terminé : ne faites rien.
 
