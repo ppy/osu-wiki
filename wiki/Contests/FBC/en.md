@@ -129,9 +129,9 @@ The song picked for this tournament edition was [Thaehan - Sunrise](https://www.
 
 | Place | Mappers |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_CA] [celerih](https://osu.ppy.sh/users/4696296) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_CA] [J1_](https://osu.ppy.sh/users/5918561), ![][flag_FR] [PoNo](https://osu.ppy.sh/users/4610047) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CA] [celerih](https://osu.ppy.sh/users/4696296) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CA] [J1_](https://osu.ppy.sh/users/5918561), ![][flag_FR] [PoNo](https://osu.ppy.sh/users/4610047) |
 
 ### Organisation
 
