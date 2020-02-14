@@ -27,9 +27,9 @@ The **Taiko LMS: Shift Cup** is a 3 on 3, 1v1 knock-out style osu!taiko tourname
 
 | Placing | Prize(s) |
 | --- | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Special profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Userpage banner |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Userpage banner |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Special profile badge |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Userpage banner |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Userpage banner |
 
 ## Organisation
 
@@ -95,9 +95,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team(s) |
 | --- | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | V E R Y S T R O N G T E A M |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | あ |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Ｆａｓｔ　＆　Ｃｈｉｌｌ 早く |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | V E R Y S T R O N G T E A M |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | あ |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Ｆａｓｔ　＆　Ｃｈｉｌｌ 早く |
 
 -----------------------
 

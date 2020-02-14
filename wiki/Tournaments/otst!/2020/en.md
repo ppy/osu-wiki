@@ -28,8 +28,8 @@ The **osu! TV Size Tournament 2020** (***otst! 2020***) is an international four
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter tag for each team member |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag for each team member |
 
 ## Organisation
 

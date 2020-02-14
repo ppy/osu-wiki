@@ -27,9 +27,9 @@ The **osu!taiko World Cup 2020** (***TWC 2020***) is an upcoming country-based o
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | $150 per team member, unique profile badge, *osu!taiko Champion* user title for one year |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | $80 per team member, unique profile badge |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | $40 per team member, unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | $150 per team member, unique profile badge, *osu!taiko Champion* user title for one year |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, unique profile badge |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, unique profile badge |
 
 ## Organisation
 

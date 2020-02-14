@@ -31,9 +31,9 @@ tags:
 
 | 순위 | 상 |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 유저페이지 배너 |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 유저페이지 배너 |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 유저페이지 배너 |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 유저페이지 배너 |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 유저페이지 배너 |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 유저페이지 배너 |
 
 ## 주최
 

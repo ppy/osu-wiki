@@ -30,9 +30,9 @@ outdated: true
 
 | Place                                                      | 奖励                             |
 |------------------------------------------------------------|--------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 六个月的Supporter，个人资料标签以及osu!相关礼品 |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 三个月的Supporter                  |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 一个月的Supporter                  |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 六个月的Supporter，个人资料标签以及osu!相关礼品 |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 三个月的Supporter                  |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 一个月的Supporter                  |
 
 ## 主办方
 

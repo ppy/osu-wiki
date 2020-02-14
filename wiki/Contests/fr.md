@@ -256,6 +256,6 @@ La Newspaper Cup est un concours annuel de cartographie qui vise à attirer des 
 [o!t]: /wiki/shared/mode/taiko.png
 [o!c]: /wiki/shared/mode/catch.png
 [o!m]: /wiki/shared/mode/mania.png
-[GCrown]: /wiki/shared/GCrown.png "Première place"
-[SCrown]: /wiki/shared/SCrown.png "Deuxième place"
-[BCrown]: /wiki/shared/BCrown.png "Troisième place"
+[GCrown]: /wiki/shared/crown-gold.png "Première place"
+[SCrown]: /wiki/shared/crown-silver.png "Deuxième place"
+[BCrown]: /wiki/shared/crown-bronze.png "Troisième place"

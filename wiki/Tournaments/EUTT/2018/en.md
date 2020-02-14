@@ -30,9 +30,9 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 15€, unique profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 10€ |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 5€ |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 15€, unique profile badge |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 10€ |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 5€ |
 
 ![EUTT 2018 Winner Badge](img/badge.png)
 
@@ -78,9 +78,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_ES] [AlvaroYL](https://osu.ppy.sh/users/6333166) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ES] [AlvaroYL](https://osu.ppy.sh/users/6333166) |
 
 -----------------------
 

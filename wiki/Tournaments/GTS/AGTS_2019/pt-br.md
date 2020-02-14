@@ -27,9 +27,9 @@ O **Advanced Global Taiko Showdown 2019** (***AGTS 2019***) foi um torneio 2 vs 
 
 | Colocação | Prêmio(s) |
 | :-: | :-- |
-| ![Coroa de ouro](/wiki/shared/GCrown.png "1º colocado") | Badge único do perfil, banner exclusivo do time |
-| ![Coroa de prata](/wiki/shared/SCrown.png "2º colocado") | Banner exclusivo do time |
-| ![Coroa de bronze](/wiki/shared/BCrown.png "3º colocado") | Banner exclusivo do time |
+| ![Coroa de ouro](/wiki/shared/crown-gold.png "1º colocado") | Badge único do perfil, banner exclusivo do time |
+| ![Coroa de prata](/wiki/shared/crown-silver.png "2º colocado") | Banner exclusivo do time |
+| ![Coroa de bronze](/wiki/shared/crown-bronze.png "3º colocado") | Banner exclusivo do time |
 
 ![Badge dos Vencedores do AGTS 2019](img/badge.png)
 
@@ -114,9 +114,9 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 
 | Colocação | País |
 | :-: | :-- |
-| ![Coroa de ouro](/wiki/shared/GCrown.png "1º colocado") | ![][flag_JP] Japão |
-| ![Coroa de prata](/wiki/shared/SCrown.png "2º colocado") | ![][flag_CA] Canadá |
-| ![Coroa de bronze](/wiki/shared/BCrown.png "3º colocado") | ![][flag_RU] Rússia A |
+| ![Coroa de ouro](/wiki/shared/crown-gold.png "1º colocado") | ![][flag_JP] Japão |
+| ![Coroa de prata](/wiki/shared/crown-silver.png "2º colocado") | ![][flag_CA] Canadá |
+| ![Coroa de bronze](/wiki/shared/crown-bronze.png "3º colocado") | ![][flag_RU] Rússia A |
 
 ---
 

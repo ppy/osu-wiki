@@ -28,9 +28,9 @@ tags:
 
 | 排名 | 奖品 |
 | :-: | :-- |
-| ![](/wiki/shared/GCrown.png) | 8个月 osu!支持者, 个人主页徽章 |
-| ![](/wiki/shared/SCrown.png) | 4个月 osu!支持者 |
-| ![](/wiki/shared/BCrown.png) | 2个月 osu!支持者 |
+| ![](/wiki/shared/crown-gold.png) | 8个月 osu!支持者, 个人主页徽章 |
+| ![](/wiki/shared/crown-silver.png) | 4个月 osu!支持者 |
+| ![](/wiki/shared/crown-bronze.png) | 2个月 osu!支持者 |
 
 本次比赛奖品由 **[Arkaaalin](https://osu.ppy.sh/users/7477382)** 赞助。
 

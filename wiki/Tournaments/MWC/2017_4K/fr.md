@@ -27,9 +27,9 @@ Dans chaque coupe du monde, les joueurs qui réussissent à obtenir une place su
 
 | Place | Récompenses |
 | --- | :--- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1re place") | 150 $ par membre de l'équipe, pins et objets osu! exclusifs, un badge sur le profil, et le titre « osu!mania Champion » pendant un an |
-| ![Silver Crown](/wiki/shared/SCrown.png "2e place") | 80 $ par membre de l'équipe, pins et objets osu! exclusifs, un badge sur le profil |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3e place") | 40 $ par membre de l'équipe, pins et objets osu! exclusifs, un badge sur le profil |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1re place") | 150 $ par membre de l'équipe, pins et objets osu! exclusifs, un badge sur le profil, et le titre « osu!mania Champion » pendant un an |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2e place") | 80 $ par membre de l'équipe, pins et objets osu! exclusifs, un badge sur le profil |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3e place") | 40 $ par membre de l'équipe, pins et objets osu! exclusifs, un badge sur le profil |
 
 ## Organisation
 
