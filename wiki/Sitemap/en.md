@@ -388,6 +388,7 @@ tags:
         -   [2017](/wiki/Tournaments/TWC/2017)
         -   [2018](/wiki/Tournaments/TWC/2018)
         -   [2019](/wiki/Tournaments/TWC/2019)
+        -   [2020](/wiki/Tournaments/TWC/2020)
 -   [Twitter](/wiki/Twitter)
 -   [Visual Settings](/wiki/Visual_Settings)
 -   [Welcome](/wiki/Welcome)
