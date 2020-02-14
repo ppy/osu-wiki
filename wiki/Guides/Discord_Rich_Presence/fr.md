@@ -1,4 +1,4 @@
-# Discord RPC
+# Discord Rich Presence
 
 Depuis le 31 octobre 2017,  Discord Rich Presence est stable !
 
