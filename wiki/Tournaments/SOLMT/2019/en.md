@@ -1,6 +1,6 @@
 ---
 tags:
-- SOLMT
+  - SOLMT
 ---
 
 # Speed of Light Mania Tournament
