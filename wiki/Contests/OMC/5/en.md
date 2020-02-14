@@ -1,16 +1,16 @@
 ---
 tags:
+  - OMC
   - OMC5
-  - 'OMC #5'
 ---
 
 # osu! Fan Cafe Mapping Contest #5
 
-![OMC5 Logo](img/Banner.jpg)
+![OMC5 logo](img/Banner.jpg)
 
 The **osu! Fan Cafe Mapping Contest #5** (***OMC5***) is a mapping contest hosted in Korea and only Koreans are permitted to participate. It is the fifth installment of the OMC.
 
-## Contest Schedule
+## Contest schedule
 
 | Event | Timestamp (UTC+9) |
 | --: | :-- |
@@ -46,7 +46,7 @@ You can download the .osz file for the provided songs at [here](https://drive.go
   - You bribed one of the judges.
   - Your behaviour caused an issue (even if it wasn't related to this contest).
 
-### Division System
+### Division system
 
 - There are two divisions, a 'Pro' division and a 'Rookie' division.
 - Contestants with a ranked mapset or a ranked GD of Insane or higher difficulty will be classified as a 'Pro' division contestant.
@@ -59,9 +59,9 @@ You can download the .osz file for the provided songs at [here](https://drive.go
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 30,000 KRW, profile badge for each division (Pro and Rookie) winner |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 20,000 KRW for each 2nd place contestant |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 10,000 KRW for each 3rd place contestant |
+| ![Gold crown](/wiki/shared/GCrown.png "1st place") | 30,000 KRW, profile badge for each division (Pro and Rookie) winner |
+| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | 20,000 KRW for each 2nd place contestant |
+| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | 10,000 KRW for each 3rd place contestant |
 
 ## Organisation
 

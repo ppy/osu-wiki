@@ -1,7 +1,8 @@
 ---
+outdated: true
 tags:
+  - OMC
   - OMC5
-  - 'OMC #5'
 ---
 
 # osu! Fan Cafe Mapping Contest #5
