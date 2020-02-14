@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Substitutions d'échantillons sur mesure
 
 À l'heure actuelle, il est possible de mettre en œuvre des ensembles d'échantillons par carte de rythme et par peau.
