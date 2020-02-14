@@ -24,9 +24,9 @@ The **The Ultimate Beginners Taiko World Cup** (***TUBTWC***) is a country-based
 
 ## Prizes
 
-| Placing | Prize(s) |
+| Placing | Prize |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
 ## Organisation
 
@@ -67,7 +67,7 @@ The The Ultimate Beginners Taiko World Cup is run by various community members.
 
 1. The Ultimate Beginners Taiko World Cup is a **2v2** team tournament with teams of **maximum 5 players**.
 2. The teams will first play in a **qualifiers**, followed by a **group stage** and then play in a **double-elimination bracket**.
-3. The Score System used will be **Score V2**.
+3. The score system used will be **Score V2**.
 4. Any player who meets the requirements stated in the rank restrictions part is allowed to play. Since this tournament will aim to get badged, some players might be declined by osu! staff.
 5. Any members of staff apart from **Managers, Mappool Selectors, and Referees** are allowed to play.
 6. Players and staff members must have read this ruleset entirely (and we will assume that all players did so throughout the tournament).
@@ -156,15 +156,15 @@ The The Ultimate Beginners Taiko World Cup is run by various community members.
 17. If the beatmap ends in a draw, the game will be nullified and the map will be replayed.
 18. In case of a tie in points (example: 4-4 in BO9), the tiebreaker is selected.
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_EC]: /wiki/shared/flag/EC.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
