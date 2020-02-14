@@ -1,8 +1,7 @@
----
-outdated: true
----
+# People
 
-# Personnes
+Page d'index pour les articles sur des personnes ou des groupes.
 
-- [L'Équipe](The_Team)
-- [Les contributeurs importants de la communauté](Community_Contributors)
+- [Contributeurs communautaires](Community_Contributors)
+- [L'équipe](The_Team)
+- [Utilisateurs avec des titres uniques](Users_with_unique_titles)
