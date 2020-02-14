@@ -30,9 +30,9 @@ Le **Game_Osu Tourney 3** (***GO 3***) était un tournoi international 1v1 sur o
 
 | Classement | Récompenses |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | 1000€, badge sur le profil |
-| ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | 500€ |
-| ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | 250€ |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | 1000€, badge sur le profil |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | 500€ |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | 250€ |
 | *4ème place* | 150€ |
 | *5ème place* | 100€ |
 
@@ -149,9 +149,9 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 | Classement | Joueur |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) |
-| ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
-| ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) |
 | *4ème place* | ![][flag_FR] [Musty](https://osu.ppy.sh/users/251683) |
 | *5ème place* | ![][flag_HK] [DenierNezzar](https://osu.ppy.sh/users/126144) |
 

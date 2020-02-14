@@ -60,9 +60,9 @@ Vous pouvez télécharger le fichier .osz pour les chansons fournies [ici](https
 
 | Placement | Prix(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | 30 000 KRW, badge de profil pour chaque gagnant de division (Pro et Rookie) |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | 20 000 KRW pour chaque concurrent de 2e place |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | 10 000 KRW pour chaque concurrent de 3e place |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 30 000 KRW, badge de profil pour chaque gagnant de division (Pro et Rookie) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 20 000 KRW pour chaque concurrent de 2e place |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 10 000 KRW pour chaque concurrent de 3e place |
 
 ## Organisation
 

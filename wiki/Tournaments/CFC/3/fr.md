@@ -27,9 +27,9 @@ La **Catch French Cup 3** (***CFC 3***) était un tournoi osu!catch français en
 
 | Classement | Récompenses |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | 10 mois de supporter, badge sur le profil. |
-| ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | 6 mois de supporter |
-| ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | 4 mois de supporter |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | 10 mois de supporter, badge sur le profil. |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | 6 mois de supporter |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | 4 mois de supporter |
 | *4ème place* | 2 mois de supporter |
 
 ![Badge du gagnant de la CFC3](img/badge.jpg)
@@ -89,9 +89,9 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 | Classement | Joueur |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) |
 
 ---
 

@@ -26,9 +26,9 @@ The **Catch the Beat Indonesia Cup 2018** (***CIC 2018***) is an Indonesian one-
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 50% of the prize pool, profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 30% of the prize pool |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 20% of the prize pool |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 50% of the prize pool, profile badge |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the prize pool |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool |
 
 ## Organisation
 
