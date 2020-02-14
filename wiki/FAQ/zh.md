@@ -142,7 +142,7 @@ outdated: true
 ##### ![](/wiki/shared/mode/osu.png) osu!
 
 | Grade | Condition |
-| :-: | --- |
+| :-: | :-- |
 | SS | 100% 准确度 |
 | S | 300 超过 90%，50 低于 1% 并且没有失误 |
 | A | 300 超过 80% 并且没有失误 **或** 300 超过 90% |

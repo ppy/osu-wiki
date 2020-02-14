@@ -73,7 +73,7 @@ La barre en haut à gauche est celle de la vie, qui diminuera à un rythme soute
 Les contrôles par défaut d'osu! sont:
 
 | Souris | Clavier | Tablette/Écran Tactile |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | Clic gauche(M1) / Clic droit(M2) | `Z`(K1) / `X`(K2) | Touché de l'écran(M1) |
 
 Les hit objects sur osu! acceptent n'importe quelle entrée de l'appareil, tant que chaque hit object est tapé à temps.
@@ -113,7 +113,7 @@ Pour les joueurs ayant une expérience de *Taiko no Tatsujin*:
 - Le *Kiai Time* déclenche le *"Go-Go Time"*
   - Les gimmicks du gameplay comme les hit balloons ou les forked paths ne sont pas implémentés (seules les bases le sont)
 - Différences du background
-  - Les beatmaps spécifiques à osu!taiko ont leur propre  background, laissant la partie supérieure vide
+  - Les beatmaps spécifiques à osu!taiko ont leur propre background, laissant la partie supérieure vide
   - Les beatmaps avec une vidéo ou un background statique prendront la partie inférieure de l'écran
   - S'il y a un élément de storyboard, il prendra tout l'espace disponible sauf les zones de gameplay
 
@@ -152,7 +152,7 @@ Il n'augmente pas le compteur de combo, et ne redonne pas de vie non plus. Chaqu
 Les contrôles par défaut pour osu!taiko sont:
 
 | Type | Souris | Clavier | TaTaCon |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | Rouge | Click gauche (L) | `X`(G) / `C`(D) | Surface plate du tambour |
 | Bleu | Click droit (L) | `Z`(G) / `V`(D) | Bords du tambour |
 
@@ -279,10 +279,10 @@ Configuration des touches *Symmétrique* (à la *DJMAX*)
 - Pour la main *gauche* — (K1)`A`, (K2)`S`, (K3)`D`, (K4)`F`
 - Pour la main *droite* — (K6)`J`, (K7)`K`, (K8)`L`, (K9)`;`.
 - Bouton du *Centre* — (K5)`Spacebar`. \[nombre de touches impair seulement\]
-- Le bouton  *Spécial* — `leftShift` et `leftCtrl`.
+- Le bouton *Spécial* — `leftShift` et `leftCtrl`.
 
 | Touche | L | C | R |
-| :-: | --- | :-: | --: |
+| :-: | :-- | :-: | --: |
 | 4K | K3, K4 | - | K6, K7 |
 | 5K | K3, K4 | K5 | K6, K7 |
 | 6K | K2, K3, K4 | - | K6, K7, K8 |
@@ -295,7 +295,7 @@ Configuration des touches *De Gauche à Droite* (à la *Beatmania IIDX*)
 - Le bouton *Spécial* — `leftShift` et `leftCtrl`.
 
 | Touche | Lien |
-| :-: | --- |
+| :-: | :-- |
 | 4K | K1, K2, -, K4, K5 |
 | 5K | K1, K2, K3, K4, K5 |
 | 6K | K1, K2, K3, K4, K5, K6 |
@@ -315,7 +315,7 @@ Configuration des touches *De Gauche à Droite* (à la *Beatmania IIDX*)
 #### ![][osu! icon] osu!
 
 | Grade | Condition |
-| :-: | --- |
+| :-: | :-- |
 | SS | 100% de précision |
 | S | Au moins 90% de 300, moins de 1% de 50 et pas de manqués |
 | A | Au moins 80% de 300s et aucun manqué **OU** au dessus de 90% 300 |
@@ -326,7 +326,7 @@ Configuration des touches *De Gauche à Droite* (à la *Beatmania IIDX*)
 #### ![][osu!taiko icon] osu!taiko
 
 | Grade | Condition |
-| :-: | --- |
+| :-: | :-- |
 | SS | 100% de précision. |
 | S | Au moins 95% de précision (90+% GREATs, ou moins de 1 GOOD pour toutes les 10 notes). |
 | A | Au moins 90% de précision (80+% GREATs, ou moins de 1 GOOD pour toutes les 5 notes). |
@@ -335,7 +335,7 @@ Configuration des touches *De Gauche à Droite* (à la *Beatmania IIDX*)
 #### ![][osu!catch icon] osu!catch
 
 | Grade | Condition |
-| :-: | --- |
+| :-: | :-- |
 | SS | 100.00% de précision |
 | S | 98.01% à 99.99% de précision (un rang 'S' est possible, même avec des manqués, commme dans osu!mania). |
 | A | 94.01% à 98.00% de précision |
@@ -346,7 +346,7 @@ Configuration des touches *De Gauche à Droite* (à la *Beatmania IIDX*)
 #### ![][osu!mania icon] osu!mania
 
 | Grade | Condition |
-| :-: | --- |
+| :-: | :-- |
 | SS | 100% de précision (seulement des MAX et/ou 300). |
 | S | Au moins 95% de précision (un rang 'S' est possible, même avec des manqués, commme dans osu!catch). |
 | A | Au moins 90% de précision. |
@@ -441,7 +441,7 @@ Comme ce n'est pas un écran de replay standard, utilisez `Esc` pour retourner �
 
 **Liste complète: [Shortcut key reference](/wiki/Shortcut_key_reference)**
 
-Appuyer sur la touche `Insert` (pour la configuration par défaut) cachera, mettra en pause (si en partie) et rendra osu! muet dans la barre latérale de *Windows*. Trouvez le *osu!logo* dans la barre  latérale *Windows*, et cliquez dessus pour retourner dans osu!, dans l'état dans lequel vous l'avez laissé. Elle est appelée la **Boss key**, et peut être modifiée dans `Configurer les touches` (dans `Options`, sous la section *Clavier*), localisée à la fin de la section *Universal*.
+Appuyer sur la touche `Insert` (pour la configuration par défaut) cachera, mettra en pause (si en partie) et rendra osu! muet dans la barre latérale de *Windows*. Trouvez le *osu!logo* dans la barre latérale *Windows*, et cliquez dessus pour retourner dans osu!, dans l'état dans lequel vous l'avez laissé. Elle est appelée la **Boss key**, et peut être modifiée dans `Configurer les touches` (dans `Options`, sous la section *Clavier*), localisée à la fin de la section *Universal*.
 
 Un autre raccourci intéressant est `Alt`+`Enter`. Il permet d'activer/désactiver le mode plein écran `Options`, mais ne fonctionne pas durant une partie ou en multijoueur.
 
@@ -527,7 +527,7 @@ Veuillez suivre ces étapes:
 - Pokebis's Beginner's Training [\[1\]](https://osu.ppy.sh/community/forums/topics/5456 "Beginner Training by Pokebis")
 - OnosakiHito's TBT Project [Training Manual For Taiko Beginner v2] [\[2\]](https://osu.ppy.sh/community/forums/topics/175867 "TBT Project \[Training Manual For Taiko Beginner v2\] by OnosakiHito")
 - Kingkevin30's CBT Project [\[3\]](https://osu.ppy.sh/community/forums/topics/131067 "CBT Project by Kingkevin30")
-- Entozer's osu!mania maps, sorted by difficulty  [\[4\]](https://osu.ppy.sh/community/forums/topics/147552 "osu!mania maps, sorted by difficulty by Entozer")
+- Entozer's osu!mania maps, sorted by difficulty [\[4\]](https://osu.ppy.sh/community/forums/topics/147552 "osu!mania maps, sorted by difficulty by Entozer")
 - Drace's \[GUIDE\] How to improve in osu!mania [\[5\]](https://osu.ppy.sh/community/forums/topics/147552 "\[GUIDE\] How to improve in osu!mania by Drace")
 - Rivenation's osu!search - Advanced beatmap searching [\[6\]](https://osu.ppy.sh/community/forums/topics/380485 "osu!search - Advanced beatmap searching by Rivenation")
 - Wikipedia [\[7\]](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [\[8\]](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)

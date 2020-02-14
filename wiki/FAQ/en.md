@@ -77,7 +77,7 @@ On the right of the health bar is the total score. Below that is the accuracy. T
 The default controls for osu! are:
 
 | Mouse | Keyboard | Tablet/Touchscreen |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | Left click(M1) / Right click(M2) | `Z`(K1) / `X`(K2) | Touching the screen(M1) |
 
 The hit objects in osu! will accept any input from the input device, as long as each hit objects was tapped in time.
@@ -156,7 +156,7 @@ It does not increment the combo counter, and does not recover the health bar in 
 The default controls for osu!taiko are:
 
 | Type | Mouse | Keyboard | TaTaCon |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | Red | Left click(L) | `X`(L) / `C`(R) | Flat surface of the drum |
 | Blue | Right click(L) | `Z`(L) / `V`(R) | Outer surface of the drum |
 
@@ -286,7 +286,7 @@ There two different binding-styles, *Symmetrical* and *Left to Right*.
 - The *Special* button — `leftShift` and `leftCtrl`.
 
 | Key | L | C | R |
-| :-: | --- | :-: | --: |
+| :-: | :-- | :-: | --: |
 | 4K | K3, K4 | - | K6, K7 |
 | 5K | K3, K4 | K5 | K6, K7 |
 | 6K | K2, K3, K4 | - | K6, K7, K8 |
@@ -299,7 +299,7 @@ There two different binding-styles, *Symmetrical* and *Left to Right*.
 - The *Special* button — `leftShift` and `leftCtrl`.
 
 | Key | Bindings |
-| :-: | --- |
+| :-: | :-- |
 | 4K | K1, K2, -, K4, K5 |
 | 5K | K1, K2, K3, K4, K5 |
 | 6K | K1, K2, K3, K4, K5, K6 |
@@ -319,7 +319,7 @@ There two different binding-styles, *Symmetrical* and *Left to Right*.
 #### ![][osu! icon] osu!
 
 | Grade | Condition |
-| :-: | --- |
+| :-: | :-- |
 | SS | 100% accuracy |
 | S | Over 90% 300s, less than 1% 50s and no misses |
 | A | Over 80% 300s and no misses **OR** over 90% 300s |
@@ -330,7 +330,7 @@ There two different binding-styles, *Symmetrical* and *Left to Right*.
 #### ![][osu!taiko icon] osu!taiko
 
 | Grade | Condition |
-| :-: | --- |
+| :-: | :-- |
 | SS | 100% Accuracy. |
 | S | Over 95% Accuracy (90+% GREATs, or less than 1 GOOD for every 10 notes). |
 | A | Over 90% Accuracy (80+% GREATs, or less than 1 GOOD for every 5 notes). |
@@ -339,7 +339,7 @@ There two different binding-styles, *Symmetrical* and *Left to Right*.
 #### ![][osu!catch icon] osu!catch
 
 | Grade | Condition |
-| :-: |--- |
+| :-: | :-- |
 | SS | 100.00% Accuracy |
 | S | 98.01% to 99.99% Accuracy (an 'S' rank is possible even with several misses, like in osu!mania). |
 | A | 94.01% to 98.00% Accuracy |
@@ -350,7 +350,7 @@ There two different binding-styles, *Symmetrical* and *Left to Right*.
 #### ![][osu!mania icon] osu!mania
 
 | Grade | Condition |
-| :-: | --- |
+| :-: | :-- |
 | SS | 100% Accuracy (only MAX and/or 300). |
 | S | Over 95% Accuracy (an 'S' rank is possible even with several misses, like in osu!catch). |
 | A | Over 90% Accuracy. |
@@ -363,7 +363,7 @@ There two different binding-styles, *Symmetrical* and *Left to Right*.
 **Special grades:**
 
 - Silver SS (SSH) = Normal grade SS with *[Hidden](/wiki/Game_Modifiers)* and/or *[Flashlight](/wiki/Game_Modifiers)* mod.
-- Silver S  (SH)  = Normal grade S  with *[Hidden](/wiki/Game_Modifiers)* and/or *[Flashlight](/wiki/Game_Modifiers)* mod.
+- Silver S (SH) = Normal grade S with *[Hidden](/wiki/Game_Modifiers)* and/or *[Flashlight](/wiki/Game_Modifiers)* mod.
 
 **Regarding the *Ranks* in profile page:**
 
@@ -531,7 +531,7 @@ Please follow these steps:
 - Pokebis's Beginner's Training [\[1\]](https://osu.ppy.sh/community/forums/topics/5456 "Beginner Training by Pokebis")
 - OnosakiHito's TBT Project [Training Manual For Taiko Beginner v2] [\[2\]](https://osu.ppy.sh/community/forums/topics/175867 "TBT Project \[Training Manual For Taiko Beginner v2\] by OnosakiHito")
 - Kingkevin30's CBT Project [\[3\]](https://osu.ppy.sh/community/forums/topics/131067 "CBT Project by Kingkevin30")
-- Entozer's osu!mania maps, sorted by difficulty  [\[4\]](https://osu.ppy.sh/community/forums/topics/147552 "osu!mania maps, sorted by difficulty by Entozer")
+- Entozer's osu!mania maps, sorted by difficulty [\[4\]](https://osu.ppy.sh/community/forums/topics/147552 "osu!mania maps, sorted by difficulty by Entozer")
 - Drace's \[GUIDE\] How to improve in osu!mania [\[5\]](https://osu.ppy.sh/community/forums/topics/147552 "\[GUIDE\] How to improve in osu!mania by Drace")
 - Rivenation's osu!search - Advanced beatmap searching [\[6\]](https://osu.ppy.sh/community/forums/topics/380485 "osu!search - Advanced beatmap searching by Rivenation")
 - Wikipedia [\[7\]](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [\[8\]](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
