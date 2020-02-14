@@ -1,12 +1,6 @@
----
-needs_cleanup: true
----
-
 # Beatmap packs
 
 <!-- TODO : nouveaux types de packs, nouveaux miroirs -->
-
-*Page principale: [Beatmaps](/wiki/Beatmaps)*
 
 Un pack de beatmaps est un fichier `.zip` contenant des beatmaps. Le nom du paquet est basé sur ce qu'il contient (par exemple, `Approved Beatmap Pack #7` ne contiendrait que des beatmaps [approuvé](/wiki/approved)).
 
@@ -19,13 +13,12 @@ Il est à noter que la plupart des packs ont :
 
 Les packs Beatmaps sont divisés en 4 catégories :
 
-Les beatmap packs sont divisés en 4 catégories:
-
 | Catégorie | Types de beatmaps |
 | --- | --- |
 | Standard | Musiques Classées ou Approuvées |
 | Chart | Musiques des défis bimensuels du Chart |
 | Thème | Thème général des musiques |
+| Artiste/Album | Basé sur un Artiste/Album |
 
 ## Compléter votre liste de chansons
 
