@@ -8,14 +8,14 @@ tags:
 
 The **French Beatmapping Contest** (***FBC***) is a mapping contest for French-speaking mappers. In each edition, mappers have to create a difficulty of Insane or higher.
 
-Points are attributed following these judging criteria: **Structure**, **Relevance**, **Creativity**, **Judge Impression** and **Hitsounds**. These criteria may change if necessary. 
+Points are attributed following these judging criteria: **Structure**, **Relevance**, **Creativity**, **Judge Impression** and **Hitsounds**. These criteria may change if necessary.
 
-The top three mappers of a tournament will receive an osu!supporter tag, and the winner of each edition will earn a personalized badge that will be shown on their osu! profile.  
+The top three mappers of a tournament will receive an osu!supporter tag, and the winner of each edition will earn a personalized badge that will be shown on their osu! profile.
 Since the 2017 edition, the chosen songs have a length lower than 3 minutes and the difficulties under the Insane level are mapped by the tournament hosts or by members from the French mapping community.
 
 ## FBC 2015
 
-This edition was the first one which reunited all game modes: osu!standard, osu!taiko, osu!catch, osu!mania. However, in osu!catch and osu!mania, there weren’t enough contestants to attribute a badge to the winners. 
+This edition was the first one which reunited all game modes: osu!standard, osu!taiko, osu!catch, osu!mania. However, in osu!catch and osu!mania, there weren’t enough contestants to attribute a badge to the winners.
 
 The chosen song for this edition was [ANTI - Koi](https://www.youtube.com/watch?v=NuQfuYxf6lk).
 
@@ -60,11 +60,11 @@ The chosen song for this edition was [ANTI - Koi](https://www.youtube.com/watch?
 ### Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/347485)
-- [Results thread](https://osu.ppy.sh/community/forums/topics/366859) 
+- [Results thread](https://osu.ppy.sh/community/forums/topics/366859)
 
 ## FBC 2016
 
-This contest edition was the last one to use a marathon-style music (longer than 5 minutes) and also was the last to allow other game modes to participate, due to the low amount of contestants in osu!taiko, osu!catch and osu!mania. 
+This contest edition was the last one to use a marathon-style music (longer than 5 minutes) and also was the last to allow other game modes to participate, due to the low amount of contestants in osu!taiko, osu!catch and osu!mania.
 
 The song picked for osu!standard and osu!catch was [Phantom Sage - Holystone](https://www.youtube.com/watch?v=gnZXoRb--z4) while the song for osu!taiko and osu!mania was [Weyheyhey!! - Throw It Away](https://www.youtube.com/watch?v=qtQ8Xo4p9js).
 
@@ -85,15 +85,14 @@ The song picked for osu!standard and osu!catch was [Phantom Sage - Holystone](ht
 | Host | ![][flag_FR] [Ovoui](https://osu.ppy.sh/users/2282098) |
 | Judge | ![][flag_FR] [Kin](https://osu.ppy.sh/users/480689), ![][flag_DE] [Pho](https://osu.ppy.sh/users/3624692), ![][flag_AU] [sahuang](https://osu.ppy.sh/users/5318910)|
 
-
 ### Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/482659)
-- [Results thread](https://osu.ppy.sh/community/forums/topics/506691) 
+- [Results thread](https://osu.ppy.sh/community/forums/topics/506691)
 
 ## FBC 2017
 
-This edition was the first edition which uses a song that lasts less than 3 minutes. Moreover, it was the first one to allow the winning set (hosted by the contest winner) to host the top 3 entries. 
+This edition was the first edition which uses a song that lasts less than 3 minutes. Moreover, it was the first one to allow the winning set (hosted by the contest winner) to host the top 3 entries.
 
 The song picked for this contest edition was [ak+q - Excelsia](https://soundcloud.com/ak_q/bofu2017-excelsia).
 
@@ -111,7 +110,7 @@ The song picked for this contest edition was [ak+q - Excelsia](https://soundclou
 
 | Roles | Members |
 | :-- | :-- |
-| Host | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983), ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) |   
+| Host | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983), ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) |
 | Judge | ![][flag_FR] [Kin](https://osu.ppy.sh/users/480689), ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981), ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983)|
 
 ### Link
@@ -132,13 +131,13 @@ The song picked for this tournament edition was [Thaehan - Sunrise](https://www.
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_CA] [celerih](https://osu.ppy.sh/users/4696296) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_CA] [J1_](https://osu.ppy.sh/users/5918561), ![][flag_FR] [PoNo](https://osu.ppy.sh/users/4610047)  |
+| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_CA] [J1_](https://osu.ppy.sh/users/5918561), ![][flag_FR] [PoNo](https://osu.ppy.sh/users/4610047) |
 
 ### Organisation
 
 | Roles | Members |
 | :-- | :-- |
-| Host | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983), ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) |   
+| Host | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983), ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) |
 | Judge | ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492), ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812), ![][flag_US] [ailv](https://osu.ppy.sh/users/6933054), ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696)|
 
 ### Links
