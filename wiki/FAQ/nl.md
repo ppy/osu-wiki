@@ -32,7 +32,7 @@ Nu over naar het speelwijze.
 
 ### Spinners
 
-![](wiki/shared/osu_spinner.jpg)
+![](/wiki/shared/osu_spinner.jpg)
 
 ^ Dit is een "spinner". Hierbij moet je klikken en je muis ingedrukt houden, en tegelijkertijd je aanwijzer ronddraaien (wijzerszin of tegenwijzerszin, maakt niet uit) als een gek tot de tijd op is. De balken aan de buitenkant wijzen aan hoe dicht je bij slagen bent. Op de DS zijn deze dé manier om je touchscreen te bekrassen (of je bescherming, als je slim bent), zeker bij de hogere moeilijkheidsgraad. In osu! zijn spinners afgezwakt, zodat ze minder vervelend zijn om te voltooien. Het maximum aantal rotaties per minuut dat je kan halen is 477, dezelfde snelheid waarmee "Auto" mod spint. De "Spun Out" mod spint trager, met 287 rotaties per minuut. Terwijl je je aanwijzer ingedruk houdt, blijft je muis ingesloten in het gebied van de spinner, dus je er goed op los laten, of juist in kleine kringetjes ronddraaien - bekijk wat van de replays van topscores als je geïnteresseerd bent in spinstijlen!
 

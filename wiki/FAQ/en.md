@@ -310,7 +310,7 @@ There two different binding-styles, *Symmetrical* and *Left to Right*.
 
 ## Scoring
 
-**Detailed explanation of scoring can be found at the game style's own respective page or [the Score page]((/wiki/Score)).**
+**Detailed explanation of scoring can be found at the game style's own respective page or [the Score page](/wiki/Score)).**
 
 **Detailed explanation of accuracy calculation can be found at the game style's own respective page or [the Accuracy page](/wiki/Accuracy).**
 
