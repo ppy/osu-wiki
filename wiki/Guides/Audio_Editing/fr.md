@@ -1,23 +1,16 @@
 # Édition audio
 
-*Voir aussi : [Basic MP3 Modifications](/wiki/Beatmap_Editor_Guides/Basic_MP3_Modifications)*
+[osu!academy](/wiki/osu!academy) a couvert ce point dans [Episode 15: Audio Encoding (4:02)](http://www.youtube.com/watch?v=muu3HkG38kk). Cet épisode contient aussi comment installer et utiliser Audacity avec la capacité d'exportation `.mp3` de LAME.
 
-[osu!academy](/wiki/osu!academy) a couvert ce point dans [Episode 15: Audio Encoding (4:02)](http://www.youtube.com/watch?v=muu3HkG38kk).
-Cet épisode contient aussi comment installer et utiliser Audacity avec la capacité d'exportation `.mp3` de LAME.
+Cet article sert de guide pour vous aider à effectuer des modifications mineures sur vos fichiers audio à des fins de beatmapping. En le développant, vous pouvez aider les autres beatmappers à créer des fichiers audio adaptés à tous les besoins.
 
-Cet article sert de guide pour vous aider à effectuer des modifications mineures sur vos fichiers audio à des fins de beatmapping.
-En le développant, vous pouvez aider les autres beatmappers à créer des fichiers audio adaptés à tous les besoins.
-
-_Ce n'est pas le logiciel que vous ne pouvez utiliser, mais plutôt les listes de ceux qui les ont ajoutées ici._
-_Si vous connaissez d'autres outils qui pourraient être utilisés et que vous pouvez expliquer comment les utiliser pour les sections décrites ci-dessous, veuillez les ajouter._
+_Ce n'est pas le logiciel que vous ne pouvez utiliser, mais plutôt les listes de ceux qui les ont ajoutées ici. Si vous connaissez d'autres outils qui pourraient être utilisés et que vous pouvez expliquer comment les utiliser pour les sections décrites ci-dessous, veuillez les ajouter._
 
 ## Audacity (et LAME)
 
-[Audacity](http://audacity.sourceforge.net/download/) est un logiciel libre d'édition et d'enregistrement audio.
-Pour l'utiliser correctement pour `.mp3`, vous devez utiliser LAME.
+[Audacity](http://audacity.sourceforge.net/download/) est un logiciel libre d'édition et d'enregistrement audio. Pour l'utiliser correctement pour `.mp3`, vous devez utiliser LAME.
 
-[LAME](http://lame.sourceforge.net/) est une bibliothèque d'encodage `.mp3` qui permettra à Audacity d'exporter des fichiers sonores au format `.mp3` tout en utilisant différents débits binaires.
-Pour installer LAME sur Audacity, reportez-vous à la page [Audacity wiki](http://wiki.audacityteam.org/index.php?title=Lame_Installation#Windows_Instructions).
+[LAME](http://lame.sourceforge.net/) est une bibliothèque d'encodage `.mp3` qui permettra à Audacity d'exporter des fichiers sonores au format `.mp3` tout en utilisant différents débits binaires. Pour installer LAME sur Audacity, reportez-vous à la page [Audacity wiki](http://wiki.audacityteam.org/index.php?title=Lame_Installation#Windows_Instructions).
 
 ### Diminution du débit binaire
 
@@ -57,7 +50,7 @@ Installez Audacity et LAME, ouvrez Audacity puis suivez ces étapes :
 9. Remplacez "Enregistrer comme type :" par `MP3 Files`
 10. Dans les "Options de format", cliquez sur Le mode `Moyen` est le mode de débit binaire.
 11. Naviguez jusqu'à l'emplacement sous lequel vous souhaitez enregistrer le fichier.
-   - Vous pouvez aussi renommer le fichier.
+    - Vous pouvez aussi renommer le fichier.
 12. Cliquez sur `Save`.
 
 ### Cultures
@@ -70,15 +63,15 @@ Installez Audacity et LAME, ouvrez Audacity puis suivez ces étapes :
 3. Appuyez sur `Supprimer`.
 4. Cliquez et faites glisser les 3 à 5 dernières secondes vers la fin.
 5. Cliquez sur `Effect`.
-5. Cliquez sur `Fade Out`.
-6. Appuyez sur `Ctrl` + `Shift` + `E`, or
+6. Cliquez sur `Fade Out`.
+7. Appuyez sur `Ctrl` + `Shift` + `E`, or
    1. Cliquez sur `File`.
    2. Cliquez sur `Export Audio...`.
-7. Remplacez "Enregistrer comme type :" par `MP3 Files`
-8. Dans les "Options de format", cliquez sur `Moyen` comme mode de débit binaire.
-9. Naviguez jusqu'à l'emplacement sous lequel vous souhaitez enregistrer le fichier.
-   - Vous pouvez aussi renommer le fichier.
-10. Cliquez sur `Save`.
+8. Remplacez "Enregistrer comme type :" par `MP3 Files`
+9. Dans les "Options de format", cliquez sur `Moyen` comme mode de débit binaire.
+10. Naviguez jusqu'à l'emplacement sous lequel vous souhaitez enregistrer le fichier.
+    - Vous pouvez aussi renommer le fichier.
+11. Cliquez sur `Save`.
 
 ## mp3DirectCut
 
