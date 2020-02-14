@@ -8,7 +8,7 @@ Vous pouvez afficher la console de chat sur la plupart des écrans d'osu! en app
 - La couleurs des pseudos ont plusieurs significations.
 
 | Couleur | Qui? |
-| --- | --- |
+| :-- | :-- |
 | **Blanc** | Vous |
 | **Jaune** | Les autres utilisateurs |
 | **Jaune** | [osu!supporter](/wiki/osu!supporter "osu!supporter") |
@@ -40,7 +40,7 @@ Chaque utilisateur connecté a un panneau qui lui est dédié. Par défaut, il a
 La couleur du panneau correspond à un des dix statuts:
 
 | Panel colour | Description |
-| --- | --- |
+| :-- | :-- |
 | ![Player is idle](img/Chat_Console-Idle.png "Player is idle") | Bleu foncé - Aucun des autres statuts |
 | ![Player is playing](img/Chat_Console-Playing.png "Player is playing") | Gris - L'utilisateur joue une map. |
 | ![Player is watching](img/Chat_Console-Watching.png "Player is watching") | Bleu clair/violet - L'utilisateur regarde un joueur jouer une map ou un replay. |
@@ -68,7 +68,7 @@ Cliquez sur un utilisateur pour affichier des options d'utilisateur Les options 
 ### /help
 
 | COMMANDE | Effect | Example | Réponse de BanchoBot |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | `/addfriend [user]` | Ajouter ou supprimer `[user]` de votre liste d'amis. | `/addfriend Amigo` | Vous êtes maintenant ami avec Carlito. |
 | `/delfriend [user]` | Remove `[user]` from your friends list. | `/delfriend Amigo` | You are no longer friends with Amigo. |
 | `/away [message]` | Défini un message d'absence à envoyer aux utilisateurs vous écrivant. Laissez le champ vide pour annuler. | `/away I am John Smith.` | Défini un message d'absence à envoyer aux utilisateurs vous écrivant. Laissez le champ vide pour annuler. Vous avez été marqué en tant qu'absent: Who's that boy? Quand quelqu'un vous enverra un message tel que : Do you know ppy ? La réponse automatique "Who's that boy?" lui sera envoyée |
@@ -81,7 +81,7 @@ Cliquez sur un utilisateur pour affichier des options d'utilisateur Les options 
 | `/unignore [user]` | Arrêter d'ignorer cet utilisateur pour cette session. | `/unignore Amigo` | Vous pouvez maintenant voir les messages de Carlito. |
 | `/me [action]` | Effectuer une action à la troisième personne. | `/me is singing` | * Carlito is singing |
 | `/msg [user] [msg]` | Envoyer un message privé à `[user]`. | `/msg Carlito Wanna be amigo` | (Dans l'onglet Carlito) Charles445: Wanna be amigo? |
-| `/np` | Afficher dans le chat la musique que vous écoutez ou jouez actuellement. | `/np` |(Si vous jouez) * John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/beatmaps/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](Game_Modifiers#xk) (Si vous ne faites rien, la commande se base sur la musique que vous écoutez) * John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmaps/22538) (If spectating or Autoplay) * John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/beatmaps/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](Game_Modifiers#xk) [Autoplay](/wiki/Game_Modifiers#auto)|
+| `/np` | Afficher dans le chat la musique que vous écoutez ou jouez actuellement. | `/np` |(Si vous jouez) * John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/beatmaps/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](/wiki/Game_Modifiers#xk) (Si vous ne faites rien, la commande se base sur la musique que vous écoutez) * John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmaps/22538) (If spectating or Autoplay) * John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/beatmaps/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](/wiki/Game_Modifiers#xk) [Autoplay](/wiki/Game_Modifiers#auto)|
 | `/reply` or `/r` | Répondre au dernier message privé reçu. | `/r Carlito! Carlito!` | (Dans l'onglet Carlito) [Message précédent] Charles445: Wanna be amigo? Carlito: Carlito! Carlito! |
 | `/savelog` | Enregistrer une copie de la conversation actuelle dans un fichier texte. | `/savelog` | (Un dossier nommé Chaté sera crée et contiendra les sauvegardes de vos conversations)) |
 | `/watch [user]` | Commencer à regarder `[user]`. | `/watch Amigo` | Started spectating Carlito. |
@@ -91,7 +91,7 @@ Cliquez sur un utilisateur pour affichier des options d'utilisateur Les options 
 ### /keys
 
 | Keyboard keys | Effect |
-| --- | --- |
+| :-- | :-- |
 | `Page Up` / `Page Down` | Faire défiler la conversation. Vous pouvez aussi utiliser la molette de la souris. |
 | `Tab` | Compléter automatiquement le pseudo en cours de saisie. |
 | `F8` | Basculer le chat. |

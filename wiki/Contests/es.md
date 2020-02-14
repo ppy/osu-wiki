@@ -15,11 +15,11 @@ Concursos oficiales de beatmapping organizados por el personal de osu!
 Notas:
 
 - Los ganadores de este concurso recibirán el título del foro "Elite Mapper"
-- Los beatmaps ganadores del MBC \#1 a \#12 (a excepción del MBC \#6) se han/serán incluidos con el [instalador de osu!](Https://osu.ppy.sh/p/download) (junto con el [osu! tutorial](https://osu.ppy.sh/beatmapsets/3756)).
+- Los beatmaps ganadores del MBC \#1 a \#12 (a excepción del MBC \#6) se han/serán incluidos con el [instalador de osu!](https://osu.ppy.sh/home/download) (junto con el [osu! tutorial](https://osu.ppy.sh/beatmapsets/3756)).
 - Los conjuntos de mapas ganadores desde el MBC \#13 han sido/serán presentados por el equipo de medios de osu!
 
 | Concurso No. | Beatmap | Modo | Mapper | Resultados | Puntuación |
-| :-: | --- | :-: | --- | --- | --- |
+| :-: | :-- | :-: | :-- | :-- | :-- |
 | 1 | [Rostik - Liquid (Paul Rosenthal Remix)](https://osu.ppy.sh/beatmapsets/123593) | ![osu!standard][o!s] | [Charles445](https://osu.ppy.sh/users/85000) | [Resultados](https://osu.ppy.sh/news/64561724273) | [Puntuación #1](https://osu.ppy.sh/p/contestresults?c=7) |
 | 2 | [cYsmix feat. Emmy - Tear Rain](https://osu.ppy.sh/beatmapsets/140662) | ![osu!standard][o!s] | [jonathanlfj](https://osu.ppy.sh/users/270377) | [Resultados](https://osu.ppy.sh/news/72422807506) | [Puntuación #2](https://osu.ppy.sh/p/contestresults?c=8) |
 | 3 | [Chasers - Lost](https://osu.ppy.sh/beatmapsets/151878) | ![osu!standard][o!s] | [ktgster](https://osu.ppy.sh/users/53378) | [Resultados](https://osu.ppy.sh/news/77183675009) | [Puntuación #3](https://osu.ppy.sh/p/contestresults?c=9) |
@@ -49,10 +49,10 @@ Notas:
 - "Monthly Beatmapping Contest\#6" es un evento de Aspire. Pero el Concurso Aspire nombra y anuncia de forma independiente desde "Aspire 2016".
 
 | Concurso No. | Beatmap | Modo | Mapper | Resultados | Puntuación |
-| :-: | --- | :-: | --- | --- | --- |
+| :-: | :-- | :-: | :-- | :-- | :-- |
 | Aspire 2016 | [IAHN - Transform (Original Mix)](https://osu.ppy.sh/beatmapsets/484689) | ![osu!standard][o!s] | [Monstrata](https://osu.ppy.sh/users/2706438) | [Resultados](https://osu.ppy.sh/home/news/2016-07-23-aspire-2-concludes-winners-announced) | [Puntuación #1](https://osu.ppy.sh/p/contestresults?c=22) |
 | Aspire 2017 Stage One | [Helblinde - The Solace of Oblivion](https://osu.ppy.sh/beatmapsets/594751) | ![osu!standard][o!s] | [ProfessionalBox](https://osu.ppy.sh/users/3250792) | [Resultados](https://osu.ppy.sh/home/news/2017-04-03-aspire-2017-stage-one-concludes) | [Puntuación #2](https://osu.ppy.sh/community/contests/43) |
-| Aspire 2017 Stage Two | [Function Phantom - Algebra](https://osu.ppy.sh/beatmapsets/654033) | ![osu!taiko][o!t] | [Supairo](https://osu.ppy.sh/users/2837231) |  [Resultados](https://osu.ppy.sh/home/news/2017-08-24-aspire-2017-stage-two-osutaiko-results) | [Puntuación #3](https://osu.ppy.sh/community/contests/47) |
+| Aspire 2017 Stage Two | [Function Phantom - Algebra](https://osu.ppy.sh/beatmapsets/654033) | ![osu!taiko][o!t] | [Supairo](https://osu.ppy.sh/users/2837231) | [Resultados](https://osu.ppy.sh/home/news/2017-08-24-aspire-2017-stage-two-osutaiko-results) | [Puntuación #3](https://osu.ppy.sh/community/contests/47) |
 | Aspire 2017 Stage Three | OISHII - ONIGIRI FREEWAY | ![osu!catch][o!c] | TBA | TBA | TBA |
 
 ## Concurso mensual de Fanart
@@ -72,7 +72,7 @@ Notes:
 - Los finalistas reciben [4 meses de etiqueta de support](/wiki/osu!supporter).
 
 | Concurso No. | Titulo | Requerimientos | Selecciones ganadoras | Noticias | Resultados |
-| :-: | --- | --- | --- | --- | --- |
+| :-: | :-- | :-- | :-- | :-- | :-- |
 | 1 | osu! Beatmap Blueprints Contest | osu! Beatmap Blueprints ("Beatmap anywhere") | (GANADOR) | [Noticias](https://osu.ppy.sh/news/114095906408) | N/A |
 
 ## osu!idol
@@ -82,7 +82,7 @@ osu!idol es un concurso en el que los concursantes, en solitario o en dúo, cant
 ### 2014
 
 | Lugar | Resultadoss | Artista original |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | Primero | [yealina](https://osu.ppy.sh/users/139551) - [Parallel Hearts](https://soundcloud.com/yealina/parallel-hearts) | FictionJunction |
 | Segundo | [Sharlo](https://osu.ppy.sh/users/1622450) - 緋色月下、狂咲ノ絶 -1st Anniversary Remix- | EastNewSound |
 | Tercero | [MissTitannia](https://osu.ppy.sh/users/4490361) - *unknown* | *unknown* |
@@ -95,7 +95,7 @@ osu!idol es un concurso en el que los concursantes, en solitario o en dúo, cant
 ### 2015
 
 | Lugar | Resultadoss | Artista original |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | Primero | [Sagi](https://osu.ppy.sh/users/491799) - [Systematic Love](http://flan.s-ul.eu/OQXT0SsA) | [Camelia (Hatsune Miku)](https://www.youtube.com/watch?v=16iOXrf3dQ8) |
 | Segundo | [CptHampton](https://osu.ppy.sh/users/3200587) - [Drumming Song](http://flan.s-ul.eu/ZCA8KxCl) | [Florence + The Machine](https://www.youtube.com/watch?v=TpLXQorSQe8) |
 | Tercero | [yealina](https://osu.ppy.sh/users/139551) - [Hyadain no Kakakata☆Kataomoi](http://flan.s-ul.eu/8w5u4phq) | [Hyadain](https://www.youtube.com/watch?v=WhQvgHM_Nd4) |
@@ -108,7 +108,7 @@ osu!idol es un concurso en el que los concursantes, en solitario o en dúo, cant
 ### 2016
 
 | Lugar | Resultadoss | Artista original |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | Primero | [Slyleaf](https://osu.ppy.sh/users/3322032) - [心做し Kokoronashi](http://flan.s-ul.eu/QsrQaLFm) | [Chouchou-P (Megpoid GUMI)](https://youtu.be/3SkNrZnoK5w) |
 | Segundo | [Daikyi](https://osu.ppy.sh/users/811832) - [days](http://flan.s-ul.eu/WoFPI9Sn) | [Lia](https://www.youtube.com/watch?v=gBJvkhobGAs) |
 | Tercero | [MissTitannia](https://osu.ppy.sh/users/139551) - [Vixx](http://flan.s-ul.eu/tYzf45Nk) | *unknown* |
@@ -121,7 +121,7 @@ osu!idol es un concurso en el que los concursantes, en solitario o en dúo, cant
 ### 2017
 
 | Lugar | Resultadoss | Artista original |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | Primero | [Renril](https://osu.ppy.sh/users/4955122) - [Rinne Tensei](https://assets.ppy.sh/contests/57/entries/Renril_-_Rinne_Tensei.mp3) | [Mafumafu](https://www.youtube.com/watch?v=vU3oF90WKpw) |
 | Segundo | [Will Stetson](https://osu.ppy.sh/users/811832) - [Ikanaide](https://assets.ppy.sh/contests/57/entries/Will_Stetson_-_Ikanaide.mp3) | [Sohta](https://www.youtube.com/watch?v=ct_NaWo8azc) |
 | Tercero | [Thievley](https://osu.ppy.sh/users/4717672) - [All around me](https://assets.ppy.sh/contests/57/entries/Thievley_-_All_Around_Me.mp3) | [Flyleaf](https://www.youtube.com/watch?v=xN0FFK8JSYE) |
@@ -142,7 +142,7 @@ La "Pending Cup" es un concurso de mapeo en el que los participantes principales
 #### Pending Cup \#1 (2013)
 
 | Cancion No. | Cancion | ![Gold Crown](/wiki/shared/GCrown.png "Primer lugar") | ![Silver Crown](/wiki/shared/SCrown.png "Segundo lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "Tercer lugar") |
-| --- | --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- | :-- |
 | 1 | TERRA - 華爛漫 -Flowers- | [buhei](https://osu.ppy.sh/users/1371514) | [Flask](https://osu.ppy.sh/users/959763) | [Nyquill](https://osu.ppy.sh/users/682935) |
 | 2 | 葉月ゆら - 宵闇花火 | [Lan Wings](https://osu.ppy.sh/users/467860) | [Kotone](https://osu.ppy.sh/users/26507) | [Regou](https://osu.ppy.sh/users/419954) |
 | 3 | An - アートコア神社 | [Flower](https://osu.ppy.sh/users/1033017) | [Amamiya Yuko](https://osu.ppy.sh/users/873961) | [Regou](https://osu.ppy.sh/users/419954) |
@@ -153,7 +153,7 @@ La "Pending Cup" es un concurso de mapeo en el que los participantes principales
 #### Pending Cup \#2 (2014)
 
 | Cancion No. | Cancion | ![Gold Crown](/wiki/shared/GCrown.png "Primer lugar") | ![Silver Crown](/wiki/shared/SCrown.png "Segundo lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "Tercer lugar") |
-| --- | --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- | :-- |
 | 1 | Sharlo & Sabbo - 桜の花が舞い落ちるとき | [Loneight](https://osu.ppy.sh/users/663131) | [Macuilxochitl](https://osu.ppy.sh/users/418699) | [eveless](https://osu.ppy.sh/userssers/102976) |
 | 2 | 木製みゅーと - 七つ一旋桜 | [OSUtoto](https://osu.ppy.sh/users/847182) | [bo0O0od](https://osu.ppy.sh/users/530547) | [Kawaiwkyik](https://osu.ppy.sh/users/1367570) |
 
@@ -163,7 +163,7 @@ La "Pending Cup" es un concurso de mapeo en el que los participantes principales
 #### Pending Cup \#3 (2015)
 
 | Cancion No. | Cancion | ![Gold Crown](/wiki/shared/GCrown.png "Primer lugar") | ![Silver Crown](/wiki/shared/SCrown.png "Segundo lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "Tercer lugar") |
-| --- | --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- | :-- |
 | 1 | 挨批熊 - 权御天下 | [Regraz](https://osu.ppy.sh/users/3076909) | [Syameimaru-Aya](https://osu.ppy.sh/users/3153354) | [jonathanlfj](https://osu.ppy.sh/users/270377) |
 | 2 | 削除 - Imprinting | [yf_bmp](https://osu.ppy.sh/users/1243669) | [Syameimaru-Aya](https://osu.ppy.sh/users/3153354) | [Inazuma](https://osu.ppy.sh/users/1033017) |
 | 3 | P*Light - YELLOW SPLASH!! | [fanzhen0019](https://osu.ppy.sh/users/418699) | [yf_bmp](https://osu.ppy.sh/users/1243669) | [Minakami Yuki](https://osu.ppy.sh/users/2433507) |
@@ -174,7 +174,7 @@ La "Pending Cup" es un concurso de mapeo en el que los participantes principales
 #### Pending Cup \#4 (2016)
 
 | Cancion No. | Cancion | ![Gold Crown](/wiki/shared/GCrown.png "Primer lugar") | ![Silver Crown](/wiki/shared/SCrown.png "Segundo lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "Tercer lugar") |
-| --- | --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- | :-- |
 | 1 | ClariS - SECRET | [FreeSongs](https://osu.ppy.sh/users/2116792) | [handsome](https://osu.ppy.sh/users/2123087) | [Snowy Wings](https://osu.ppy.sh/users/2234810) |
 | 2 | 干瓢碁 - 運命のダークサイド -Rolling Gothic mix | [FreeSongs](https://osu.ppy.sh/users/2116792) | [rui](https://osu.ppy.sh/users/74313) | [yf_bmp](https://osu.ppy.sh/users/1243669) |
 | 3 | Dollscythe - Flashes (Extended) | [Skystar](https://osu.ppy.sh/users/873961) | [Level9](https://osu.ppy.sh/users/7232130) | [Frostings](https://osu.ppy.sh/users/2652543) |
@@ -185,7 +185,7 @@ La "Pending Cup" es un concurso de mapeo en el que los participantes principales
 #### Pending Cup \#5 (2017)
 
 | Cancion No. | Cancion | ![Gold Crown](/wiki/shared/GCrown.png "Primer lugar") | ![Silver Crown](/wiki/shared/SCrown.png "Segundo lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "Tercer lugar") |
-| --- | --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- | :-- |
 | 1 | 霜月はるか - 白夜幻想谭 | [Chaoslitz](https://osu.ppy.sh/users/3621552) | [Level9](https://osu.ppy.sh/users/7232130) | [Kibbleru](https://osu.ppy.sh/users/3193504) |
 | 2 | 猫叉劇団 - AsiaN distractive | [Chaoslitz](https://osu.ppy.sh/users/3621552) | [Garden](https://osu.ppy.sh/users/2849992) | [Ellyu](https://osu.ppy.sh/users/4438154) |
 | 3 | 猫叉劇団 - Chirality | [Suzuki_1112](https://osu.ppy.sh/users/3170678) | [Miura](https://osu.ppy.sh/users/4990362) | [\[ Drop \]](https://osu.ppy.sh/users/2391299) |
@@ -200,7 +200,7 @@ Newspaper Cup es un concurso anual de mapeo que tiene como objetivo atraer a jug
 #### Newspaper Cup \#1 (2015)
 
 | Cancion No. | Cancion | ![Gold Crown](/wiki/shared/GCrown.png "Primer lugar") | ![Silver Crown](/wiki/shared/SCrown.png "Segundo lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "Tercer lugar") |
-| --- | --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- | :-- |
 | 1 | wa.vs ETIA. - Akasagarbha | [tm1209](https://osu.ppy.sh/users/2775906) | [Philosophy2](https://osu.ppy.sh/users/372256) | [bread129988](https://osu.ppy.sh/users/2010665) |
 | 2 | 猫叉Master - Far east nightbird | [Narcissu](https://osu.ppy.sh/users/1826598) | [JJburstOwO](https://osu.ppy.sh/users/1776055) | [Kamio Misuzu](https://osu.ppy.sh/users/2041350) |
 
@@ -210,7 +210,7 @@ Newspaper Cup es un concurso anual de mapeo que tiene como objetivo atraer a jug
 #### Newspaper Cup \#2 (2016)
 
 | Cancion No. | Cancion | ![Gold Crown](/wiki/shared/GCrown.png "Primer lugar") | ![Silver Crown](/wiki/shared/SCrown.png "Segundo lugar") | ![Bronze Crown](/wiki/shared/BCrown.png "Tercer lugar") |
-| --- | --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- | :-- |
 | 1 | 葉月ゆら - Eclipse Parade | [LunaSaika](https://osu.ppy.sh/users/4018820) | [FreeSongs](https://osu.ppy.sh/users/2116792) | [Vert](https://osu.ppy.sh/users/3420746) |
 | 2 | Sakuzyo - Laplace | [Hakurei Yoru](https://osu.ppy.sh/users/3280555) | [liaoxingyao](https://osu.ppy.sh/users/3620963) | [Kencho](https://osu.ppy.sh/users/3178411) |
 
@@ -220,7 +220,7 @@ Newspaper Cup es un concurso anual de mapeo que tiene como objetivo atraer a jug
 #### Newspaper Cup \#3 (2017)
 
 | Cancion No. | Cancion | ![Gold Crown](/wiki/shared/GCrown.png "Primer lugar") | ![Silver Crown](/wiki/shared/SCrown.png "Segundo lugar") |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | 1 | 影翔鼓舞 - Oriental Blossom | [yf_bmp](https://osu.ppy.sh/users/1243669), [EmingK](https://osu.ppy.sh/users/2021118) | [Gaia](https://osu.ppy.sh/users/2683648), [Doj](https://osu.ppy.sh/users/4121612) |
 | 2 | ESQUARIA - 寒椿 ～ Kantsubaki | [Regou](https://osu.ppy.sh/users/419954), [fish39](https://osu.ppy.sh/users/3522390) | [Bluekrait](https://osu.ppy.sh/users/4205741), [Rose Pacifica](https://osu.ppy.sh/users/1393255) |
 
@@ -230,8 +230,8 @@ Newspaper Cup es un concurso anual de mapeo que tiene como objetivo atraer a jug
 #### Newspaper Cup \#4 (2017)
 
 | Cancion No. | Cancion | ![Gold Crown](/wiki/shared/GCrown.png "Primer lugar") | ![Silver Crown](/wiki/shared/SCrown.png "Segundo lugar") |
-| --- | --- | --- | --- |
-| 1 | 葉月ゆら - サラマンドラの踊り子 |  TBA | TBA |
+| :-- | :-- | :-- | :-- |
+| 1 | 葉月ゆら - サラマンドラの踊り子 | TBA | TBA |
 | 2 | P＊Light - SAY BAY | TBA | TBA |
 
 - [Hilo del concurso](https://osu.ppy.sh/community/forums/topics/690824)

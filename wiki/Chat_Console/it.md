@@ -8,11 +8,11 @@ Puoi premere `F8` o cliccare il pulsante `Show Chat` situato in basso a destra p
 - I vari colori dei giocatori hanno diversi significati.
 
 | Colour | Who? |
-| --- | --- |
+| :-- | :-- |
 | **Bianco** | Te stesso |
 | **Pallido** | Altri utenti |
 | **Giallo** | [osu!supporter](/wiki/osu!supporter "osu!supporter") |
-| **Rosso** | Un membro del [Global Moderation Team](/wiki/People/Global_Moderation_Team "Global Moderation Team") o del [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team "Nomination Assessment Team") |
+| **Rosso** | Un membro del [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team "Global Moderation Team") o del [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team "Nomination Assessment Team") |
 | **Verde** | Una linea contenente il tuo nome o certe parole impostate da te per farti "highlight". Una copia di tale messaggio sarà inviata anche in un canale dedicato, `#highlight`, dove sono contenute tutte le linee di questo genere. |
 | **Blu** | Messaggio Privato (PM) |
 | **Ciano** | [peppy](https://osu.ppy.sh/users/2 "peppy"), il creatore di osu! |
@@ -40,7 +40,7 @@ Ogni utente collegato al gioco ha un pannello che viene mostrato nella Chat Este
 - Gli utenti che non presentano statistiche sui loro pannelli sono connessi alla chat tramite i loro client IRC.
 
 | Panel colour | Legenda |
-| --- | --- |
+| :-- | :-- |
 | ![Player is idle](img/Chat_Console-Idle.png "Player is idle") | Blu scuro - Il giocatore non sta facendo nulla o sta chattando al momento. |
 | ![Player is playing](img/Chat_Console-Playing.png "Player is playing") | Grigio - Giocando una beatmap in modalità Solo. |
 | ![Player is watching](img/Chat_Console-Watching.png "Player is watching") | Viola - Guardando un replay o spectando qualcuno. |
@@ -73,7 +73,7 @@ Premi il numero o clicca il pulsante per attivare:
 ### /help
 
 | Comando | Effetto | Esempio | Risposta di BanchoBot |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | `/addfriend [utente]` | Aggiunge l'`[utente]` dalla tua lista amici. | `/addfriend Amigo` | You are now friends with Amigo. |
 | `/delfriend [utente]` | Rimuove l'`[utente]` dalla tua lista amici. | `/delfriend Amigo` | You are no longer friends with Amigo. |
 | `/away [messaggio]` | Imposta un messaggio di informazione (mandato agli utenti che ti cercano in PM). Lascia il messaggio vuoto per annullarlo. | `/away Io sono John Smith.` | You have been marked as being away: Io sono John Smith. Quando Amigo scrive a John "Dove sei~?" BanchoBot: Io sono John Smith. |
@@ -86,7 +86,7 @@ Premi il numero o clicca il pulsante per attivare:
 | `/unignore [utente]` | Smetti di ignorare l'utente per questa sessione. | `/unignore Amigo` | You may now hear Amigo. (La tua chat console renderà visibile ogni messaggio da parte di Amigo) |
 | `/me [azione]` | Esegui un'azione in terza persona. | `/me è a casa` | John è a casa |
 | `/msg [utente] [msg]` | Manda un messaggio privato ad `[utente]`. | `/msg Amigo Non posso venire.` | (Nella tab Amigo) John: Non posso venire. |
-| `/np` | Mostra in chat la canzone che stai ascoltando o giocando. | `/np` | (If playing) * John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/beatmaps/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](Game_Modifiers#xk) (If doing nothing, based on jukebox) * John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmaps/22538) (If spectating or Autoplay) * John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/beatmaps/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](Game_Modifiers#xk) [Autoplay](/wiki/Game_Modifiers#auto) |
+| `/np` | Mostra in chat la canzone che stai ascoltando o giocando. | `/np` | (If playing) * John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/beatmaps/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](/wiki/Game_Modifiers#xk) (If doing nothing, based on jukebox) * John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmaps/22538) (If spectating or Autoplay) * John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/beatmaps/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](/wiki/Game_Modifiers#xk) [Autoplay](/wiki/Game_Modifiers#auto) |
 | `/reply` o `/r` | Rispondi all'ultimo messaggio ricevuto. | `/r Conosci qualche bravo attore?` | (Nella tab Amigo) [Commenti precedenti] John: Non posso venire. Amigo: Davvero? John: Conosci qualche bravo attore? |
 | `/savelog` | Salva la chat corrente in un file di testo. | `/savelog` | (Una cartella nominata "Chat" verrà creata nella directory di osu! che conterrà tutti i file di testo delle chat salvati) |
 | `/watch [utente]` | Inizia a spectare `[utente]`. | `/watch Amigo` | Started spectating Amigo. (Quando Amigo gioca una beatmap che hai tu riuscirai a vederlo mentre gioca [dopo il buffering] ed il tuo nome apparirà in alto a sinistra dello schermo di Amigo) |
@@ -96,7 +96,7 @@ Premi il numero o clicca il pulsante per attivare:
 ### /tasti
 
 | Comandi da tastiera | Effect |
-| --- | --- |
+| :-- | :-- |
 | `Page Up` / `Page Down` | Scorri la chat. Puoi anche usare la rotellina del mouse. |
 | `Tab` | Completa automaticamente il nickname che stai digitando. |
 | `F8` | Mostra/nascondi la chat console. |

@@ -12,11 +12,11 @@ Na maioria das telas no osu! você pode pressionar `F8` ou clicar no botão `Mos
 - As cores de nome de usuário representam sua classe:
 
 | Colour | Who? |
-| --- | --- |
+| :-- | :-- |
 | **White** | Você |
 | **Pale** | Outros usuários normais |
 | **Yellow** | [osu!supporter](/wiki/osu!supporter "osu!supporter") |
-| **Red** | Membro do [GMT](/wiki/People/Global_Moderation_Team "Global Moderation Team") ou [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team "Nomination Assessment Team") |
+| **Red** | Membro do [GMT](/wiki/People/The_Team/Global_Moderation_Team "Global Moderation Team") ou [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team "Nomination Assessment Team") |
 | **Green** | Contém seu nome ou palavras chave que você adicionou para ativar um "highlight" (destacar). Uma copia da mensagem vai aparecer em um canal dedicado, `#highlight`, que contém todas essas linhas. |
 | **Blue** | Mensagem Privada |
 | **Cyan** | [peppy](https://osu.ppy.sh/users/2 "peppy"), o criador do osu! |

@@ -12,11 +12,11 @@ Okno z czatem można otworzyć z większości miejsc w osu! poprzez naciśnięci
 - Kolory nazw użytkowników mają określone znaczenia.
 
 | Kolor | Funkcja |
-| --- | --- |
+| :-- | :-- |
 | **White** | Ty |
 | **Pale** | Zwykli użytkownicy |
 | **Yellow** | Użytkownicy posiadający [status donatora osu!](/wiki/osu!supporter "Status donatora osu!") |
-| **Red** | [Moderatorzy globalni](/wiki/People/Global_Moderation_Team "Moderacja") lub członkowie [zespołu zapewniania jakości](/wiki/People/Quality_Assurance_Team "Zespół zapewniania jakości") |
+| **Red** | [Moderatorzy globalni](/wiki/People/The_Team/Global_Moderation_Team "Moderacja") lub członkowie [zespołu zapewniania jakości](/wiki/Glossary#quality-assurance-team "Zespół zapewniania jakości") |
 | **Green** | Linia zawierającą twoją nazwę użytkownika lub dodane przez ciebie słowo, która wywołuje podświetlenie na czacie. Kopia tej wiadomości pojawi się także na kanale `#highlight` zawierającym wszystkie tego typu wiadomości. |
 | **Blue** | Wiadomość prywatna |
 | **Cyan** | [peppy](https://osu.ppy.sh/users/2 "peppy"), twórca osu! |
@@ -44,7 +44,7 @@ Każdy zalogowany użytkownik posiada swój własny panel w oknie z rozszerzonym
 - Użytkownicy bez żadnych informacji w panelach są połączeni za pomocą klientów IRC.
 
 | Panel | Opis |
-| --- | --- |
+| :-- | :-- |
 | ![Użytkownik jest bezczynny](img/Chat_Console-Idle.png "Użytkownik jest bezczynny") | Panel jest ciemnoniebieski. Użytkownik jest bezczynny lub pisze na czacie. |
 | ![Użytkownik rozgrywa mapę](img/Chat_Console-Playing.png "Użytkownik rozgrywa mapę") | Panel jest szary. Użytkownik gra w trybie jednoosobowym. |
 | ![Użytkownik ogląda innego gracza](img/Chat_Console-Watching.png "Użytkownik ogląda innego gracza") | Panel jest jasnoniebieski. Użytkownik ogląda powtórkę lub grę innego gracza. |
@@ -76,10 +76,10 @@ Aby aktywować daną opcję, naciśnij odpowiadający jej numer lub naciśnij je
 ### /help
 
 | Komenda | Efekt | Przykład | Odpowiedź BanchoBota |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | `/addfriend [użytkownik]` | Dodaje `[użytkownika]` do znajomych. | `/addfriend Amigo` | You are now friends with Amigo. |
 | `/delfriend [użytkownik]` | Usuwa `[użytkownika]` ze znajomych. | `/delfriend Amigo` | You are no longer friends with Amigo. |
-| `/away [wiadomość]` | Ustawia automatyczną wiadomość wysyłaną przy braku aktywności do osób piszących do ciebie w prywatnej wiadomości. Pozostaw puste, aby usunąć. | `/away Nazywam się John Smith.` | You have been marked as being away: Nazywam się John Smith. Kiedy Amigo napisze /msg John Gdzie jesteś~?  BanchoBot: Nazywam się John Smith.|
+| `/away [wiadomość]` | Ustawia automatyczną wiadomość wysyłaną przy braku aktywności do osób piszących do ciebie w prywatnej wiadomości. Pozostaw puste, aby usunąć. | `/away Nazywam się John Smith.` | You have been marked as being away: Nazywam się John Smith. Kiedy Amigo napisze /msg John Gdzie jesteś~? BanchoBot: Nazywam się John Smith.|
 | `/chat [user]` | Otwiera czat z danym użytkownikiem. | `/chat Amigo` | (czat z Amigo zostanie otwarty) |
 | `/clear` | Czyści wszystkie wiadomości z czatu. | `/clear` | (czyści praktycznie wszystko, co znajduje się na obecnie wybranej zakładce) |
 | `/ignore [użytkownik][@chp]` | Ignoruje wszystkie wiadomości danego użytkownika podczas tej sesji. Jeżeli po nazwie użytkownika wprowadzisz litery `c`, `h` czy `p` poprzedzone znakiem `@`, możesz ignorować użytkownika odpowiednio na czacie, we wzmiankach lub w prywatnej wiadomości. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} |
@@ -98,7 +98,7 @@ Aby aktywować daną opcję, naciśnij odpowiadający jej numer lub naciśnij je
 ### /keys
 
 | Klawisze | Efekt |
-| --- | --- |
+| :-- | :-- |
 | `Page Up` / `Page Down` | Przesuwa okno czatu. Możesz również użyć kółka myszki. |
 | `Tab` | Automatycznie dokańcza wpisywaną nazwę użytkownika. |
 | `F8` | Włącza czat. |

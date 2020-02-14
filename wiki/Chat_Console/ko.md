@@ -8,11 +8,11 @@ osu!의 대부분의 화면에서 `F8` 혹은 오른쪽 아래의 `Show Chat` �
 - 사용자 이름의 색상에는 각각 다른 의미가 있습니다.
 
 | 색상 | 누구일까요? |
-| --- | --- |
+| :-- | :-- |
 | **흰색** | 당신 |
 | **옅은 노랑** | 서포터가 아닌 유저 |
 | **노랑** | [osu! 서포터](/wiki/osu!supporter "osu! 서포터") |
-| **빨강** | [GMT](/wiki/People/Global_Moderation_Team "Global Moderation Team") 혹은 [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team "Nomination Assessment Team") 유저 |
+| **빨강** | [GMT](/wiki/People/The_Team/Global_Moderation_Team "Global Moderation Team") 혹은 [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team "Nomination Assessment Team") 유저 |
 | **녹색** | 당신이 "호출" 하도록 지정한 키워드를 포함한 줄. 당신을 호출한 메시지의 내용은 `#highlight` 채널에도 나타납니다. |
 | **파랑** | 비공개 메시지 |
 | **청록** | 오스를 만든 [peppy](https://osu.ppy.sh/users/2 "peppy")! |
@@ -40,7 +40,7 @@ osu!의 대부분의 화면에서 `F9` 혹은 오른쪽 아래의 `Online Users`
 - 패널에 정보가 없는 유저들은 IRC 클라이언트를 이용하여 채팅에 접속한 경우입니다.
 
 | 패널 색 | 설명 |
-| --- | --- |
+| :-- | :-- |
 | ![대기 중](img/Chat_Console-Idle.png "대기 중") | 진한 파랑 - 플레이어가 쉬고 있거나, 아무것도 하지 않거나 그냥 채팅을 하는 중. |
 | ![플레이 중](img/Chat_Console-Playing.png "플레이 중") | 회색 - 솔로 플레이를 하는 중. |
 | ![관전 중](img/Chat_Console-Watching.png "관전 중") | 밝은 파랑 - 리플레이를 보거나 관전하는 중. |
@@ -73,10 +73,10 @@ osu!의 대부분의 화면에서 `F9` 혹은 오른쪽 아래의 `Online Users`
 ### /help
 
 | 명령어 | 효과 | 예제 | 반초봇 반응 |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | `/addfriend [유저]` | 친구 목록에 `[유저]`를 추가합니다. | `/addfriend Amigo` | You are now friends with Amigo. |
 | `/delfriend [유저]` | 친구 목록에서 `[유저]`를 제거합니다. | `/delfriend Amigo` | You are no longer friends with Amigo. |
-| `/away [메시지]` | 자리비움 메시지를 설정합니다. 취소하려면 메시지를 비운채로 사용하세요. | `/away I am John Smith.` | You have been marked as being away: I am John Smith. When Amigo /msg John Where are you~?  BanchoBot: I am John Smith.|
+| `/away [메시지]` | 자리비움 메시지를 설정합니다. 취소하려면 메시지를 비운채로 사용하세요. | `/away I am John Smith.` | You have been marked as being away: I am John Smith. When Amigo /msg John Where are you~? BanchoBot: I am John Smith.|
 | `/bb` | 반초에게 rank `[숫자]` 같은 메시지를 보냅니다. | `/bb rank 1` | [15/11/12] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
 | `/chat [유저]` | 특정 유저와 채팅할 수 있는 탭이 열립니다. | `/chat Amigo` | (Amigo 탭이 열립니다) |
 | `/clear` | 현재 채팅 버퍼를 지웁니다. | `/clear` | (현재 탭에 있는 모든 내용이 지워집니다.) |
@@ -96,7 +96,7 @@ osu!의 대부분의 화면에서 `F9` 혹은 오른쪽 아래의 `Online Users`
 ### /keys
 
 | 키보드 단축키 | 효과 |
-| --- | --- |
+| :-- | :-- |
 | `Page Up` / `Page Down` | 채팅창을 스크롤합니다. 물론 마우스 휠로도 가능합니다. |
 | `Tab` | 입력중인 닉네임의 자동완성 기능. |
 | `F8` | 채팅 콘솔 토글. |

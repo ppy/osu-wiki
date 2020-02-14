@@ -8,11 +8,11 @@
 - สีของผู้เล่นต่างๆ มีความหมายต่างกัน
 
 | สี | คนนั้นเป็นใคร |
-| --- | --- |
+| :-- | :-- |
 | **ขาว** | **คุณ**นั่นแหละ |
-| **เหลืองอ่อน** |  ไม่ใช่ Supporter |
+| **เหลืองอ่อน** | ไม่ใช่ Supporter |
 | **เหลือง** (เข้มกว่าข้างบน) | [osu!supporter](/wiki/osu!supporter "osu!supporter") |
-| **แดง** | สมาชิก [Global Moderation Team](/wiki/People/Global_Moderation_Team "Global Moderation Team") หรือ [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team "Nomination Assessment Team") |
+| **แดง** | สมาชิก [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team "Global Moderation Team") หรือ [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team "Nomination Assessment Team") |
 | **เขียวเข้ม** | บรรทัดที่มีชื่อของคุณหรือคำที่คุณกำหนดไว้เพื่อให้ Highlight (เหมือนกับการพิมพ์ชื่อของคุณในแชท) ข้อความที่ถูก Highlight จะไปปรากฏในช่อง `#highlight` |
 | **น้ำเงิน** | คนที่ทักคุณในข้อความส่วนตัว (PM) |
 | **ฟ้า** | [peppy](https://osu.ppy.sh/users/2 "peppy") หรือผู้สร้าง osu! |
@@ -38,7 +38,7 @@
 - user panel ที่ไม่มีอะไรเลย คือผู้เล่นที่เชื่อมต่อผ่าน IRC
 
 | Panel colour | สี พร้อมคำอธิบาย |
-| --- | --- |
+| :-- | :-- |
 | ![Player is idle](img/Chat_Console-Idle.png "Player is idle") | 1. น้ำเงินเข้ม - ผู้เล่นไม่ได้ทำอะไร หรือคุยในแชทเฉยๆ |
 | ![Player is playing](img/Chat_Console-Playing.png "Player is playing") | 2. เทา - กำลังเล่นคนเดียว |
 | ![Player is watching](img/Chat_Console-Watching.png "Player is watching") | 3. ฟ้า - ดู Replay หรือดูใครซักคนเล่นอยู่ |
@@ -71,7 +71,7 @@
 ### /help
 
 | คำสั่ง | สิ่งที่เกิดขึ้น | ตัวอย่าง | BanchoBot จะตอบว่า... |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | `/addfriend [user]` or `/delfriend [user]` | เพิ่มหรือนำออก `[user]` เข้า/จากรายชื่อเพื่อน | `/addfriend Amigo` | You are now friends with Amigo. |
 | `/away [message]` | เป็นการตั้งข้อความไว้ว่าเราไม่อยู่ ว่างไว้ถ้าจะยกเลิกข้อความพวกนี้ | `/away สวัสดีผมไม่อยู่นะ รอแปปนึง` | You have been marked as being away: สวัสดีผมไม่อยู่นะ รอแปปนึง เมื่อมีคนมาทักคุณ /msg John ดีจ้า ทำอะไรอยู่หรอ? BanchoBot: สวัสดีผมไม่อยู่นะ รอแปปนึง|
 | `/bb` | Sends a message to bancho like rank [number] | `/bb rank 1` | [15/11/12] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
@@ -83,7 +83,7 @@
 | `/unignore [user]` | Stop ignoring this user for this session. | `/unignore Amigo` | You may now hear Amigo. (Your chat console will allow any comment made by Amigo available to your chat console) |
 | `/me [action]` | Perform a third-person action. | `/me is at home` | * John is at home |
 | `/msg [user] [msg]` | Send a private message to `[user]`. | `/msg Amigo I am sick at home.` | (At Amigo tab) John: I am sick at home. |
-| `/np` | Print to chat the current song you are listening to or playing. | `/np` | (If playing) * John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/beatmaps/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](Game_Modifiers#xk) (If doing nothing, based on jukebox) * John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmaps/22538) (If spectating or Autoplay) * John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/beatmaps/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](Game_Modifiers#xk) [Autoplay](/wiki/Game_Modifiers#auto)|
+| `/np` | Print to chat the current song you are listening to or playing. | `/np` | (If playing) * John is playing [Peter Lambert - osu! tutorial\[Gameplay Basics\]](https://osu.ppy.sh/beatmaps/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](/wiki/Game_Modifiers#xk) (If doing nothing, based on jukebox) * John is listening to [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmaps/22538) (If spectating or Autoplay) * John is watching [Peter Lambert - osu! tutorial\[Gameplay basics\]](https://osu.ppy.sh/beatmaps/22538) [Game Modes](/wiki/FAQ#alternative-game-modes) \~[Relax/Autopilot](/wiki/Game_Modifiers#special-mods)\~ +[Difficulty increasing mod](/wiki/Game_Modifiers#difficulty-increasing-mods) -[Difficulty decreasing mod](/wiki/Game_Modifiers#difficulty-reduction-mods)/[SpunOut](/wiki/Game_Modifiers#spun-out) [xK](/wiki/Game_Modifiers#xk) [Autoplay](/wiki/Game_Modifiers#auto)|
 | `/reply` or `/r` | Reply to the last received private message. | `/r Do you know any good doctor?` | (At Amigo tab) [Previous comments] John: I am sick at home. Amigo: Really? John: Do you know any good doctor? |
 | `/savelog` | Saves current chat tab to a text file. | `/savelog` | (A folder called "Chat" will be created at the osu! directory which will contain all the future chat tab saves) |
 | `/watch [user]` | Start spectating `[user]`. | `/watch Amigo` | * Started spectating Amigo. (When Amigo plays a beatmap that you have, you will spectate his play [after some buffering] with your name on the left of Amigo screen) |
@@ -93,7 +93,7 @@
 ### /keys
 
 | Keyboard keys | Effect |
-| --- | --- |
+| :-- | :-- |
 | `Page Up` / `Page Down` | Scroll the chat window.You may also use the mouse-wheel. |
 | `Tab` | Auto-complete currently typing nickname. |
 | `F8` | Toggle chat console. |

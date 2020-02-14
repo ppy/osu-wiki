@@ -11,11 +11,11 @@ outdated: true
 - 不同颜色的用户名代表不同的含义，详情见表：
 
 | 颜色 | 用户类型 |
-| --- | --- |
+| :-- | :-- |
 | **白色** | 你自己 |
 | **淡黄色** | 非 supporter 玩家 |
 | **黄色** | [osu!supporter](/wiki/osu!supporter "osu!supporter") 玩家 |
-| **红色** | [社区管理团队](/wiki/People/Global_Moderation_Team "社区管理团队") 或 [质量保障团队](/wiki/People/Quality_Assurance_Team "质量保障团队") 的成员 |
+| **红色** | [社区管理团队](/wiki/People/The_Team/Global_Moderation_Team "社区管理团队") 或 [质量保障团队](/wiki/Glossary#quality-assurance-team "质量保障团队") 的成员 |
 | **绿色** | 如果一行消息中出现你的用户名或者或者某个你添加的可触发高亮标记的关键字词，你的用户名就会被绿色的高亮标记。该高亮消息的副本也会以出现在 `#highlight` 频道的形式单独发送给你。 |
 | **蓝色** | 私信你的玩家 |
 | **蓝绿色** | osu! 的创造者 [peppy](https://osu.ppy.sh/users/2 "peppy") |
@@ -27,7 +27,7 @@ outdated: true
 
 ## 扩展聊天面板
 
-*[osu! 学院](/wiki/osu!academy "osu! 学院")  [第 6 集 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII "该视频为英文。点击前往 YouTube") 介绍了该节和  [多人游戏](/wiki/Multi/ "多人游戏") 的内容 。*
+*[osu! 学院](/wiki/osu!academy "osu! 学院") [第 6 集 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII "该视频为英文。点击前往 YouTube") 介绍了该节和 [多人游戏](/wiki/Multi "多人游戏") 的内容 。*
 
 你可以在 osu! 的绝大多数界面中按下 `F9` 或者在主屏幕按下屏幕右下角的 `Online users` 以打开扩展聊天面板。与聊天界面不同的是，在线玩家面板占用了屏幕的三分之二，展示着 osu! 目前在线玩家的一些信息。
 ![扩展聊天面板](img/ZH_CN-Chat_Console-Extended.png "扩展聊天面板")
@@ -42,7 +42,7 @@ outdated: true
 - 如果某个玩家的方格里没有显示任何的信息，那么该玩家就在 IRC 客户端上登录聊天。
 
 | 卡片颜色 | 注释 |
-| --- | --- |
+| :-- | :-- |
 | ![玩家空闲中](img/Chat_Console-Idle.png "玩家空闲中") | 深蓝色 - 玩家正在空闲中或者玩家正在聊天。 |
 | ![玩家游戏中](img/Chat_Console-Playing.png "玩家游戏中") | 灰色 - 玩家正在单人游戏中。 |
 | ![玩家正在旁观](img/Chat_Console-Watching.png "玩家正在旁观") | 靛蓝色 - 玩家正在观看回放或正在旁观他人。 |
@@ -75,7 +75,7 @@ outdated: true
 ### 帮助
 
 | 命令 | 作用 | 示例 | BanchoBot 的回复 |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | `/addfriend [玩家]` | 将 `[玩家]` 添加到你的好友列表。 | `/addfriend Amigo` | You are now friends with Amigo. *你和 Amigo 现在是好友了。* |
 | `/delfriend [玩家]` | 将 `[玩家]` 从好友列表中移除。 | `/delfriend Amigo` | You are no longer friends with Amigo. *你和 Amigo 已不再是好友。* |
 | `/away [消息]` | 设置离开消息（将回复至私信你的玩家）。将消息留空以取消离开状态。 | `/away I am John Smith.` | `You have been marked as being away: I am John Smith.` 当 Amigo 在与 John 聊天的窗口中输入 `/msg John Where are you~?` BanchoBot 将回答： `I am John Smith`.|
@@ -98,7 +98,7 @@ outdated: true
 ### 按键功能
 
 | 键盘按键 | 作用 |
-| --- | --- |
+| :-- | :-- |
 | `Page Up` / `Page Down` | 滚动聊天窗口里的文字。你也可以使用鼠标滚轮来滚动。 |
 | `Tab` | 自动补全你要输入的用户名。 |
 | `F8` | 打开 / 关闭聊天面板。 |

@@ -12,11 +12,11 @@ Di dalam osu! kamu dapat menekan tombol `Show Chat` di pojok kanan bawah layar a
 - Warna dari masing-masing pengguna memiliki arti yang berbeda.
 
 | Warna | |
-| --- | --- |
+| :-- | :-- |
 | Putih | Kamu |
 | Kuning Pucat | Orang Lain |
 | Kuning | [osu!supporter](/wiki/osu!supporter "osu!supporter")
-| Merah | Anggota [Tim Moderasi Global](/wiki/People/Global_Moderation_Team "Tim Moderasi Global") atau [Tim Penjamin Kualitas](/wiki/People/Quality_Assurance_Team "Quality_Assurance_Team")
+| Merah | Anggota [Tim Moderasi Global](/wiki/People/The_Team/Global_Moderation_Team "Tim Moderasi Global") atau [Tim Penjamin Kualitas](/wiki/Glossary#quality-assurance-team "Quality_Assurance_Team")
 | Hijau | Baris yang berisi nama pengguna anda atau berbagai kata kunci yang anda tambahkan ke daftar highlight. Salinan dari pesan itu juga akan muncul di channel yang terdedikasi untuk itu yaitu, `#highlight`. |
 | Biru | Pesan Pribadi |
 | Biru Terang | [peppy](https://osu.ppy.sh/users/2 "peppy"), pembuat osu! |
@@ -41,10 +41,10 @@ Setiap pengguna yang masuk ke dalam osu! mempunyai panel pengguna yang ditampilk
 - Klik tab untuk mengurutkan pengguna.
 - Klik **World Map** untuk melihat pengguna dari negara lain.
 - Kamu bisa mengklik atau menahan kotak putih untuk menggulir, atau dengan menggunakan roda mouse.
-- Pengguna yang tidak terlihat informasi umumnya, menandakan bahwa mereka sedang masuk menggunakan program khusus [IRC](/wiki/Internet_Relay_Chat/ "IRC").
+- Pengguna yang tidak terlihat informasi umumnya, menandakan bahwa mereka sedang masuk menggunakan program khusus [IRC](/wiki/Internet_Relay_Chat).
 
 | Panel colour | Legend |
-| --- | --- |
+| :-- | :-- |
 | ![Player is idle](img/Chat_Console-Idle.png "Player is idle") | Biru Tua - Player sedang tidak melakukan sesuatu, atau hanya sekedar mengobrol. |
 | ![Player is playing](img/Chat_Console-Playing.png "Player is playing") | Abu-Abu - Bermain map di mode solo. |
 | ![Player is watching](img/Chat_Console-Watching.png "Player is watching") | Biru Terang - Menonton tayangan ulang atau tayangan langsung seseorang. |
@@ -77,7 +77,7 @@ Tekan tombol angka atau menekan salah satu bar untuk:-
 ### /help
 
 | PERINTAH | Efek | Contoh | Respon BanchoBot |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | `/addfriend [pengguna]` | Menambahkan `[pengguna]` ke dalam daftar teman. | `/addfriend Amigo` | You are now friends with Amigo. |
 | `/delfriend [pengguna]` | Menghapus `[pengguna]` dari daftar teman. | `/delfriend Amigo` | You are no longer friends with Amigo. |
 | `/away [pesan]` | Memasang sebuah pesan away (dikirim ke pengguna yang mengirimkanmu pesan pribadi ketika kamu sedang afk). Kosongkan `[pesan]` untuk membatalkan. | `/away I am John Smith.` | You have been marked as being away: I am John Smith. Ketika Amigo /msg John Dimana kamu~? BanchoBot: I am John Smith. |
@@ -100,7 +100,7 @@ Tekan tombol angka atau menekan salah satu bar untuk:-
 ### /keys
 
 | Tombol Keyboard | Efek |
-| --- | --- |
+| :-- | :-- |
 | `Page Up` / `Page Down` | Menggulir jendela obrolan. (lebih baik gunakan roda mouse untuk menggulirkan jendela obrolan). |
 | `Tab` | Melengkapi secara otomatis pengetikan nama pengguna. |
 | `F8` | Membuka/menutup konsol obrolan. |

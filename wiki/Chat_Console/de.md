@@ -8,11 +8,11 @@ Fast überall in osu! kann die Chatkonsole durch das Betätigen der `F8`-Taste o
 - Die Farben der Benutzernamen im Chat haben verschiedene Bedeutungen:
 
 | Farbe | Bedeutung |
-| --- | --- |
+| :-- | :-- |
 | **Weiß** | Du |
 | **Bleich** | Andere Spieler |
 | **Gelb** | [osu!-Supporter](/wiki/osu!supporter "osu!-Supporter") |
-| **Rot** | Mitglied des [Global Moderation Teams](/wiki/People/Global_Moderation_Team "Global Moderation Team") oder des [Nomination Assessment Teams](/wiki/People/Nomination_Assessment_Team "Nomination Assessment Team") |
+| **Rot** | Mitglied des [Global Moderation Teams](/wiki/People/The_Team/Global_Moderation_Team "Global Moderation Team") oder des [Nomination Assessment Teams](/wiki/People/The_Team/Nomination_Assessment_Team "Nomination Assessment Team") |
 | **Grün** | Die Nachricht enthält entweder deinen Benutzernamen oder eines deiner "Highlightwörter". Die Nachricht wird zusätzlich im Channel `#highlight` aufgelistet. |
 | **Blau** | Private Nachricht |
 | **Türkis** | [peppy](https://osu.ppy.sh/users/2 "peppy"), der Ersteller von osu! |
@@ -48,7 +48,7 @@ Das Fenster lässt sich mit dem weißen Balken auf der rechten Seite oder dem Ma
 - `World Map`-Tab: Zeigt eine Weltkarte an, auf der man den Standort der aktiven Spieler sehen kann.
 
 | Panel-Farben | Erklärung |
-| --- | --- |
+| :-- | :-- |
 | ![Spieler ist anwesend](img/Chat_Console-Idle.png "Spieler ist anwesend") | **Dunkelblau** - Spieler ist anwesend, tut aber gerade nichts oder ist am Chatten. |
 | ![Spieler spielt](img/Chat_Console-Playing.png "Spieler spielt") | **Grau** - Der Spieler spielt gerade eine Beatmap im Solomodus. |
 | ![Spieler schaut jemandem zu](img/Chat_Console-Watching.png "Spieler schaut jemanden zu") | **Hellblau** - Der Spieler sieht entweder jemandem live beim Spielen zu oder schaut sich eine Aufzeichnung an. |
@@ -59,7 +59,7 @@ Das Fenster lässt sich mit dem weißen Balken auf der rechten Seite oder dem Ma
 | ![Spieler ist im Mehrspieler](img/Chat_Console-Multiplayer.png "Spieler ist im Mehrspieler") | **Braun** - Der Spieler ist im Mehrspielermodus, spielt aber gerade nicht. |
 | ![Spieler spielt im Mehrspieler](img/Chat_Console-Multiplaying.png "Spieler spielt im Mehrspieler") | **Gelb** - Der Spieler spielt eine Beatmap im Mehrspieler. |
 | ![Spieler ist AFK](img/Chat_Console-Afk.png "Spieler ist AFK") | **Schwarz** - Der Spieler ist inaktiv bzw. afk (away from keyboard). |
-| ![Spieler ist per IRC verbunden](img/Chat_Console-IRC.png "Spieler ist per IRC verbunden") | **Dunkelblau ohne Inhalt** - Der Spieler hat sich über einen [IRC](/wiki/IRC "IRC")-Client eingeloggt. |
+| ![Spieler ist per IRC verbunden](img/Chat_Console-IRC.png "Spieler ist per IRC verbunden") | **Dunkelblau ohne Inhalt** - Der Spieler hat sich über einen [IRC](/wiki/Internet_Relay_Chat)-Client eingeloggt. |
 
 Klicke auf ein Nutzerpanel, um zum Optionsmenü zu gelangen:
 
@@ -81,7 +81,7 @@ Man kann die Leisten entweder anklicken oder die zugehörige Zahl drücken. Sie 
 ### /help
 
 | Kommando | Effekt | Beispiel | BanchoBots Antwort |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | `/addfriend [Benutzername]` | `[Benutzername]` als Freund hinzufügen. | `/addfriend Deimos` | Deimos. |
 | `/delfriend [Benutzername]` | `[Benutzername]` als Freund entfernen. | `/delfriend Deimos` | Deimos. |
 | `/away [Nachricht]` | Legt eine "Away"-Nachricht fest, die automatisch auf Privatnachrichten geantwortet wird. Zum Entfernen [Nachricht] leer lassen. | `/away Nicht hier.` | You have been marked as being away: Nicht hier. [Jeder, der dich nun privat anschreibt, erhält die Nachricht: 'BanchoBot: Nicht hier.'] |
@@ -104,7 +104,7 @@ Man kann die Leisten entweder anklicken oder die zugehörige Zahl drücken. Sie 
 ### /keys
 
 | Tasten | Effekt |
-| --- | --- |
+| :-- | :-- |
 | `Bild Oben` / `Bild Unten` | Im Chatfenster scrollen. |
 | `Tab` | Nutzernamen vervollständigen (nur, wenn derjenige online ist). |
 | `F8` | Chatkonsole ein-/ausschalten. |

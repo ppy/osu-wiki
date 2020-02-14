@@ -6,7 +6,7 @@ outdated: true
 
 *No debe confundirse con: [Beatmaps](/wiki/Beatmaps).*
 
-*Ver también: [Criterios de clasificación § Mapset](/wiki/Ranking_Criteria/#mapset).*
+*Ver también: [Criterios de clasificación § Mapset](/wiki/Ranking_Criteria#mapset).*
 
 La dificultad de un beatmap *describe* el nivel de habilidad necesario para completarlo.
 
@@ -17,14 +17,14 @@ La dificultad de un beatmap *describe* el nivel de habilidad necesario para comp
 Desde los [Criterios de clasificación](/wiki/Ranking_Criteria), una calificación por estrellas de:
 
 - 1.50 estrellas y menos es Easy ![Icono Easy](/wiki/shared/diff/easy-s.png "cono Easy")
-- 2.25 estrellas y menos es Normal  ![Icono Normal](/wiki/shared/diff/normal-s.png "Icono Normal")
-- 3.75 estrellas y menos es Hard  ![Ícono Hard](/wiki/shared/diff/hard-s.png "Ícono Hard")
+- 2.25 estrellas y menos es Normal ![Icono Normal](/wiki/shared/diff/normal-s.png "Icono Normal")
+- 3.75 estrellas y menos es Hard ![Ícono Hard](/wiki/shared/diff/hard-s.png "Ícono Hard")
 - 5.25 estrellas y menos Insane ![Ícono Insane](/wiki/shared/diff/insane-s.png "Ícono Insane")
 - 5.25 estrellas y más es Expert ![Icono de Expert](/wiki/shared/diff/expert-s.png "icono Expert")
 
 ### Iconos web
 
-Los rangos de clasificación de estrellas determinan qué icono web se va a utilizar en un beatmap determinado. Seguir los rangos de iconos generalmente te dara una buena estimación para lograr una distribución de dificultad equilibrada. Hay algunas pautas (consulta la [sección de mapset en los Criterios de clasificación](/wiki/Ranking_Criteria/#mapset)) que puedes seguir para mejorar la distribución de dificultad de tu beatmapset.
+Los rangos de clasificación de estrellas determinan qué icono web se va a utilizar en un beatmap determinado. Seguir los rangos de iconos generalmente te dara una buena estimación para lograr una distribución de dificultad equilibrada. Hay algunas pautas (consulta la [sección de mapset en los Criterios de clasificación](/wiki/Ranking_Criteria#mapset)) que puedes seguir para mejorar la distribución de dificultad de tu beatmapset.
 
 ## Niveles de dificultad
 

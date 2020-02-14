@@ -8,11 +8,11 @@ Desde la mayoría de las pantallas en osu! puedes presionar `F8` o hacer clic en
 - Los colores de los nombres de los usuarios significan cosas diferentes.
 
 | Color | ¿Quien? |
-| --- | --- |
+| :-- | :-- |
 | **Blanco** | Tú. |
 | **Amarillo pastel** | No supporter. |
 | **Amarillo** | [osu!supporter](/wiki/osu!supporter "osu!supporter"). |
-| **Rojo** | Miembro del [Global Moderation Team](/wiki/People/Global_Moderation_Team "Global Moderation Team") o [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team "Nomination Assessment Team"). |
+| **Rojo** | Miembro del [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team "Global Moderation Team") o [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team "Nomination Assessment Team"). |
 | **Verde** | La línea contiene su nombre o ciertas palabras clave que ha agregado para activar un "resaltado". También aparecerá una copia del mensaje en un canal dedicado, `#highlight`, que contiene todas estas líneas. |
 | **Azul** | Mensaje privado. |
 | **Cian** | [peppy](https://osu.ppy.sh/users/2 "peppy"), el creador de osu!. |
@@ -40,7 +40,7 @@ Cada usuario conectado en osu! tiene un panel de usuario que se muestra en la Co
 - Los usuarios sin estadísticas en sus paneles están conectados al chat usando sus clientes de IRC.
 
 | Color del panel | Descripción |
-| --- | --- |
+| :-- | :-- |
 | ![El jugador está inactivo](img/Chat_Console-Idle.png "El jugador esta inactivo") | Azul marino - Los jugadores están inactivos, o no están haciendo nada, o simplemente están chateando. |
 | ![El jugador esta jugando](img/Chat_Console-Playing.png "El jugador esta jugando") | Gris - Jugando un beatmap solo. |
 | ![El jugador esta espectando](img/Chat_Console-Watching.png "El jugador esta observando") | Celeste - Viendo una repetición o espectando a alguien. |
@@ -73,14 +73,14 @@ Presiona el número o haz clic en la barra para activar:
 ### /help
 
 | Comando | Efecto | Ejemplo | Respuesta de BanchoBot |
-| --- | --- | --- | --- |
-| `/addfriend  [usuario]` | Agrega a `[usuario]` a tu lista de amigos. | `/addfriend Amigo` | You are now friends with Amigo. |
+| :-- | :-- | :-- | :-- |
+| `/addfriend [usuario]` | Agrega a `[usuario]` a tu lista de amigos. | `/addfriend Amigo` | You are now friends with Amigo. |
 | `/delfriend [usuario]` | Elimina a `[usuario]` de tu lista de amigos. | `/delfriend Amigo` | You are no longer friends with Amigo. |
-| `/away [mensaje]` | Establece un mensaje de ausente (enviado a los usuarios enviandote mensajes privados). Deje el mensaje en blanco para cancelar. | `/away Soy John Smith.` | You have been marked as being away:  Soy John Smith. Cuando Amigo /msg John ¿Dónde estás~? BanchoBot: Soy John Smith.|
+| `/away [mensaje]` | Establece un mensaje de ausente (enviado a los usuarios enviandote mensajes privados). Deje el mensaje en blanco para cancelar. | `/away Soy John Smith.` | You have been marked as being away: Soy John Smith. Cuando Amigo /msg John ¿Dónde estás~? BanchoBot: Soy John Smith.|
 | `/bb` | Envía un mensaje a bancho como rango `[número]` | `/bb rank 1` | [15/11/12] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
 | `/chat [usuario]` | Abre una nueva pestaña de chat con el usuario especificado. | `/chat Amigo` | (Se abre la pestaña Amigo) |
 | `/clear` | Borra el historial de chat actual. | `/clear` | (Borra básicamente todo en la pestaña actual) |
-| `/ignore [usuario][@chp]` |  Ignora todos los mensajes del usuario especificado para esta sesión. Al agregar un @ seguido de las letras, c, h, y/o p, puede ignorarlas en el chat, las altas luces o los mensajes privados, respectivamente. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Tu consola de chat está configurada para: ignorar cualquier texto escrito por Amigo [c], cualquier texto posible que te resalte Amigo [h] cualquier mensaje privado enviado a por Amigo [p]) |
+| `/ignore [usuario][@chp]` | Ignora todos los mensajes del usuario especificado para esta sesión. Al agregar un @ seguido de las letras, c, h, y/o p, puede ignorarlas en el chat, las altas luces o los mensajes privados, respectivamente. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Tu consola de chat está configurada para: ignorar cualquier texto escrito por Amigo [c], cualquier texto posible que te resalte Amigo [h] cualquier mensaje privado enviado a por Amigo [p]) |
 | `/j [canal]` o `/join [canal]` | Se une al canal especificado | `/join #lobby` | (Se abre la pestaña #lobby) |
 | `/p` o `/part` | Deja el canal actual del que te estás separando o saliendo. | `/part` | n/a |
 | `/unignore [usuario]` |Deja de ignorar a este usuario para esta sesión. | `/unignore Amigo` | You may now hear Amigo. (Su consola de chat permitirá que cualquier comentario hecho por Amigo esté disponible para su consola de chat) |
@@ -96,7 +96,7 @@ Presiona el número o haz clic en la barra para activar:
 ### /keys
 
 | Teclas de teclado | Efecto |
-| --- | --- |
+| :-- | :-- |
 | `Page Up` / `Page Down` | Desplázarte por la ventana de chat. También puede usar la rueda del mouse. |
 | `Tab` | Autocompletar actualmente escribiendo apodo. |
 | `F8` | Alternar la consola de chat. |

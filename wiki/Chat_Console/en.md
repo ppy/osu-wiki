@@ -12,11 +12,11 @@ From most screens in osu! you can press `F8` or click the `Show Chat` button on 
 - The colours of the user names mean different things.
 
 | Colour | Who? |
-| --- | --- |
+| :-- | :-- |
 | **White** | You |
 | **Pale** | Non-supporters |
 | **Yellow** | [osu!supporter](/wiki/osu!supporter "osu!supporter") |
-| **Red** | [Global Moderation Team](/wiki/People/Global_Moderation_Team "Global Moderation Team") or [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team "Nomination Assessment Team") member |
+| **Red** | [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team "Global Moderation Team") or [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team "Nomination Assessment Team") member |
 | **Green** | Line contains your name or certain keywords that you have added to trigger a "highlight". A copy of the message will also appear in a dedicated channel, `#highlight`, which contains all of these lines. |
 | **Blue** | Private Message |
 | **Cyan** | [peppy](https://osu.ppy.sh/users/2 "peppy"), the creator of osu! |
@@ -44,7 +44,7 @@ Each user signed in to osu! has a user panel displayed in Extended Chat. By defa
 - Users without stats in their panels are connected to chat using their IRC clients.
 
 | Panel colour | Description |
-| --- | --- |
+| :-- | :-- |
 | ![Player is idle](img/Chat_Console-Idle.png "Player is idle") | Dark Blue - Players is currently idle or not doing anything or just chatting. |
 | ![Player is playing](img/Chat_Console-Playing.png "Player is playing") | Grey - Playing a beatmap in solo. |
 | ![Player is watching](img/Chat_Console-Watching.png "Player is watching") | Light Blue - Watching a replay or spectating someone. |
@@ -77,10 +77,10 @@ Press the number or click the bar to activate:
 ### /help
 
 | Command | Effect | Example | BanchoBot response |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | `/addfriend [user]` | Add `[user]` to your friends list. | `/addfriend Amigo` | You are now friends with Amigo. |
 | `/delfriend [user]` | Remove `[user]` from your friends list. | `/delfriend Amigo` | You are no longer friends with Amigo. |
-| `/away [message]` | Sets an away message (sent to users PMing you). Leave message blank to cancel. | `/away I am John Smith.` | You have been marked as being away: I am John Smith. When Amigo /msg John Where are you~?  BanchoBot: I am John Smith.|
+| `/away [message]` | Sets an away message (sent to users PMing you). Leave message blank to cancel. | `/away I am John Smith.` | You have been marked as being away: I am John Smith. When Amigo /msg John Where are you~? BanchoBot: I am John Smith.|
 | `/bb` | Sends a message to bancho like rank `[number]` | `/bb rank 1` | [15/11/12] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
 | `/chat [user]` | Open a new chat tab with specified user. | `/chat Amigo` | (Amigo tab is opened) |
 | `/clear` | Clears the current chat buffer. | `/clear` | (Clears basically everything on the current tab) |
@@ -100,7 +100,7 @@ Press the number or click the bar to activate:
 ### /keys
 
 | Keyboard keys | Effect |
-| --- | --- |
+| :-- | :-- |
 | `Page Up` / `Page Down` | Scroll the chat window.You may also use the mouse-wheel. |
 | `Tab` | Auto-complete currently typing nickname. |
 | `F8` | Toggle chat console. |
