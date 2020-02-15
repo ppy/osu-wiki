@@ -18,10 +18,10 @@ needs_cleanup: true
 [Auto wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Auto"
 
 <!-- osu!mania specific -->
-[osu!mania logo]: ./img/Mania_logo.png "osu!mania logo in Special Mode"
-[osu!mania SC image]: ./img/Mania_SC.jpg "Speed Change value is located at the top-right"
-[osu!mania SCDiff image]: ./img/Mania_SCDifference.png "A difference Speed Change can make depending on beatmap's density"
-[set fixed scaling image]: ./img/Mania_Scale.png "Activate Fixed scaling by disabling `Scale osu!mania scroll speed with BPM` at the Options sidebar"
+[osu!mania logo]: img/Mania_logo.png "osu!mania logo in Special Mode"
+[osu!mania SC image]: img/Mania_SC.jpg "Speed Change value is located at the top-right"
+[osu!mania SCDiff image]: img/Mania_SCDifference.png "A difference Speed Change can make depending on beatmap's density"
+[set fixed scaling image]: img/Mania_Scale.png "Activate Fixed scaling by disabling `Scale osu!mania scroll speed with BPM` at the Options sidebar"
 
 <!-- shared image -->
 [osu!mania icon link]: /wiki/shared/mode/mania.png "osu!mania icon"

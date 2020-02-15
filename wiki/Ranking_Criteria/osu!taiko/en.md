@@ -8,7 +8,7 @@ These rules and guidelines have been discussed in the [Ranking Criteria subforum
 
 ### Difficulty names
 
-*Main article: [Difficulty Naming](../Difficulty_Naming)*
+*Main article: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
 - ![](/wiki/shared/diff/easy-t.png) Kantan
 - ![](/wiki/shared/diff/normal-t.png) Futsuu

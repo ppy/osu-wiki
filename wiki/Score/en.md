@@ -4,9 +4,9 @@ needs_cleanup: true
 
 <!-- wiki -->
 [osu! wikilink]: /wiki/Game_Modes/osu! "osu!"
-<!-- [osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko/ "osu!taiko" -->
+<!-- [osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko "osu!taiko" -->
 [osu!catch wikilink]: /wiki/Game_Modes/osu!catch "osu!catch"
-<!-- [osu!mania wikilink]: /wiki/Game_Modes/osu!mania/ "osu!mania" -->
+<!-- [osu!mania wikilink]: /wiki/Game_Modes/osu!mania "osu!mania" -->
 
 [CS wikilink]: /wiki/Beatmap_Editor/Song_Setup "more info can be found on Song Setup under Circle Size"
 [HP wikilink]: /wiki/Beatmap_Editor/Song_Setup "more info can be found on Song Setup under HP Drain"
@@ -30,11 +30,11 @@ needs_cleanup: true
 [t0]: /wiki/Skinning/osu!taiko/img/taiko-hit0.png "MISS"
 
 [Fruit trails image]: /wiki/shared/Catch_trails.jpg "osu!catch fruit trails"
-[c300]: ./img/catch-300.jpg "Fruit"
-[c100]: ./img/catch-100.jpg "Juice Drop"
-[c50]: ./img/catch-50.jpg "Droplet"
-[cBanana]: ./img/catch-banana.jpg "Banana"
-[c0]: ./img/catch-0.jpg "Miss"
+[c300]: img/catch-300.jpg "Fruit"
+[c100]: img/catch-100.jpg "Juice Drop"
+[c50]: img/catch-50.jpg "Droplet"
+[cBanana]: img/catch-banana.jpg "Banana"
+[c0]: img/catch-0.jpg "Miss"
 
 [m500]: /wiki/Skinning/osu!mania/img/mania-hit300g-0.png "Rainbow 300"
 [m300]: /wiki/Skinning/osu!mania/img/mania-hit300.png "300"

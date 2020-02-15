@@ -17,7 +17,7 @@
 [Taiko by LuigiHann link]: https://osu.ppy.sh/community/forums/topics/41319 "Taiko Skin version 6.0 by LuigiHann"
 
 <!-- image -->
-[osu!taiko logo]: ./img/Taiko_logo.jpg "Logo Taiko dans un mode spécial"
+[osu!taiko logo]: img/Taiko_logo.jpg "Logo Taiko dans un mode spécial"
 
 <!-- shared -->
 [osu!taiko icon link]: /wiki/shared/mode/taiko.png "icône osu!taiko"

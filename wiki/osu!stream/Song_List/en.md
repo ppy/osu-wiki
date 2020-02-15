@@ -3,23 +3,23 @@
 
 <!-- img -->
 <!-- get me links -->
-[SL]: ../img/Os-SL.jpg "Song List"
-[SI]: ../img/Os-SI.png "Song Information"
-[Store]: ../img/Os-Store.jpg "Store screen"
+[SL]: /wiki/osu!stream/img/Os-SL.jpg "Song List"
+[SI]: /wiki/osu!stream/img/Os-SI.png "Song Information"
+[Store]: /wiki/osu!stream/img/Os-Store.jpg "Store screen"
 
-[Demo load]: ./img/Os-Demo_Load.jpg "Loading Preview"
-[Demo song]: ./img/Os-Demo_Song.jpg "Preview Song Information"
-[Demo SU]: ./img/Os-Demo_SU.jpg "Preview Stream Up to Expert (Note: Does not occur in actual gameplay)"
-[Demo]: ./img/Os-Demo.jpg "Preview of Expert play"
+[Demo load]: img/Os-Demo_Load.jpg "Loading Preview"
+[Demo song]: img/Os-Demo_Song.jpg "Preview Song Information"
+[Demo SU]: img/Os-Demo_SU.jpg "Preview Stream Up to Expert (Note: Does not occur in actual gameplay)"
+[Demo]: img/Os-Demo.jpg "Preview of Expert play"
 
-[dif2]: ./img/dif2.png "1"
-[dif3]: ./img/dif3.png "1.5"
-[dif4]: ./img/dif4.png "2"
-[dif5]: ./img/dif5.png "2.5"
-[dif6]: ./img/dif6.png "3"
-[dif7]: ./img/dif7.png "3.5"
-[dif8]: ./img/dif8.png "4"
-[dif9]: ./img/dif9.png "4.5"
+[dif2]: img/dif2.png "1"
+[dif3]: img/dif3.png "1.5"
+[dif4]: img/dif4.png "2"
+[dif5]: img/dif5.png "2.5"
+[dif6]: img/dif6.png "3"
+[dif7]: img/dif7.png "3.5"
+[dif8]: img/dif8.png "4"
+[dif9]: img/dif9.png "4.5"
 
 <!-- link -->
 [Sushi]: https://osu.ppy.sh/users/Sushi "Sushi"

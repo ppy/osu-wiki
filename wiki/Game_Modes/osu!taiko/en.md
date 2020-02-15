@@ -21,7 +21,7 @@ needs_cleanup: true
 [Taiko by LuigiHann link]: https://osu.ppy.sh/community/forums/topics/41319 "Taiko Skin version 6.0 by LuigiHann"
 
 <!-- image -->
-[osu!taiko logo]: ./img/Taiko_logo.jpg "Taiko logo in Special Mode"
+[osu!taiko logo]: img/Taiko_logo.jpg "Taiko logo in Special Mode"
 
 <!-- shared -->
 [osu!taiko icon link]: /wiki/shared/mode/taiko.png "osu!taiko icon"

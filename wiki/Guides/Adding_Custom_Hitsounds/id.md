@@ -5,7 +5,7 @@ Dari thread: *[how to add custom hitsound? oleh: neonat](https://osu.ppy.sh/comm
 ## Mendapatkan Hitsound Kustom
 
 Sebelumnya, Anda akan memerlukan beberapa kustom hitsound! Anda bisa mendapatkannya dengan cara:
-- Anda bisa mengambil dari [Custom Hitsound Library](../Custom_Hitsound_Library/),
+- Anda bisa mengambil dari [Custom Hitsound Library](/wiki/Guides/Custom_Hitsound_Library),
 - atau membuat kustom hitsound sendiri
   - jika Anda membuat sendiri, pastikan format file tersebut adalah `.wav` - karena format inilah yang paling baik untuk berkas audio yang bersifat looping.
 

@@ -57,7 +57,7 @@ _相关文章：[文章风格规范——新闻篇](/wiki/ASC/News)_
 ## Markdown
 
 本节规则适用于全部文章。
-快速入门请参考[中文 Markdown 指南](http://www.appinn.com/markdown)，下列内容仅说明如何正确使用。
+快速入门请参考[中文 Markdown 指南](http://www.appinn.com/markdown/)，下列内容仅说明如何正确使用。
 
 ### GFM（GitHub Markdown 方言）
 
@@ -270,8 +270,8 @@ _参见: [文章风格规范——图片篇](/wiki/Article_Styling_Criteria/Imag
 下面是一些美化表格工具：
 
 - VS Code 的 Native Beautifier
-  - 你需要使用 [VS Code](https://code.visualstudio.com) 。
-- [Markdown Table Formatter](http://markdowntable.com)
+  - 你需要使用 [VS Code](https://code.visualstudio.com/) 。
+- [Markdown Table Formatter](http://markdowntable.com/)
   - 对齐语法标记（`:`）不能正确解析。
 
 ### 分割线

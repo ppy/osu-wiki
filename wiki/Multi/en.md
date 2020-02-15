@@ -26,28 +26,28 @@ needs_cleanup: true
 
 <!-- Image links used -->
 [Beatmaps_peppy image]: /wiki/shared/Beatmaps_peppy.jpg "Official image on beatmap extraction."
-[Multi_lobby image]: ./img/Multi_lobby.jpg "Example of a typical day in the Multi's Lobby"
-[Multi_lobby_locked image]: ./img/Multi_lobby_locked.jpg "An example of a locked Match Setup"
-[Multi_new_game image]: ./img/Multi_new_game.jpg "Setting up configuration for a New Game"
-[Multi_roomhost image]: ./img/Multi_roomhost.jpg "Example of Host Match Setup"
-[Multi_roomplayer image]: ./img/Multi_roomplayer.jpg "Example of Player Match Setup (with Free Mods enabled)"
-[Multi_mods_host image]: ./img/Multi_mods_host.jpg "Host (osu!) mods options"
-[Multi_mods_player image]: ./img/Multi_mods_player.jpg "Player (osu!) mods options (with Free Mods enabled)"
-[Multi_beatmapinfo image]: ./img/Multi_beatmapinfo.jpg "Beatmap information when hovered over."
-[Multi_host_song_change image]: ./img/Multi_host_song_change.jpg "When the Host is changing songs, this bar will become a temporary placeholder."
-[Multi_SS image]: ./img/Multi_SS.jpg "Example of how the Song Selection will look like for host."
-[Multi_Tag_Colour image]: ./img/Multi_tag_colour.jpg "Available colours for the player's turn combo colour"
-[osu!mania Multi patch]: ./img/Multi_Mania_unpatched.jpg "Screenshot of Lobby of an unpatched osu! when osu!mania was released to public (08 October 2012, 2012-10-08)"
+[Multi_lobby image]: img/Multi_lobby.jpg "Example of a typical day in the Multi's Lobby"
+[Multi_lobby_locked image]: img/Multi_lobby_locked.jpg "An example of a locked Match Setup"
+[Multi_new_game image]: img/Multi_new_game.jpg "Setting up configuration for a New Game"
+[Multi_roomhost image]: img/Multi_roomhost.jpg "Example of Host Match Setup"
+[Multi_roomplayer image]: img/Multi_roomplayer.jpg "Example of Player Match Setup (with Free Mods enabled)"
+[Multi_mods_host image]: img/Multi_mods_host.jpg "Host (osu!) mods options"
+[Multi_mods_player image]: img/Multi_mods_player.jpg "Player (osu!) mods options (with Free Mods enabled)"
+[Multi_beatmapinfo image]: img/Multi_beatmapinfo.jpg "Beatmap information when hovered over."
+[Multi_host_song_change image]: img/Multi_host_song_change.jpg "When the Host is changing songs, this bar will become a temporary placeholder."
+[Multi_SS image]: img/Multi_SS.jpg "Example of how the Song Selection will look like for host."
+[Multi_Tag_Colour image]: img/Multi_tag_colour.jpg "Available colours for the player's turn combo colour"
+[osu!mania Multi patch]: img/Multi_Mania_unpatched.jpg "Screenshot of Lobby of an unpatched osu! when osu!mania was released to public (08 October 2012, 2012-10-08)"
 
 <!-- Team Mode images -->
-[HTH Interface image]: ./img/Multi_HTH.jpg "Head to Head Interface"
-[Team Vs Interface image]: ./img/Multi_team_vs.jpg "Team Vs Interface"
-[Tag Coop Interface image]: ./img/Multi_tag_co-op.jpg "Tag Coop Interface"
-[Tag Team Vs Interface image]: ./img/Multi_tag_team_vs.jpg "Tag Team Vs Interface"
-[HTH Grade image]: ./img/Multi_grade.jpg "Head to Head grade screen"
-[Team Vs Grade image]: ./img/Multi_team_grade.jpg "Team Vs grade screen"
-[Tag Coop Grade image]: ./img/Multi_co-op_grade.jpg "Team Co-Op grade screen"
-[Tag Team Vs Grade image]: ./img/Multi_tag_team_grade.jpg "Tag Team Vs grade screen"
+[HTH Interface image]: img/Multi_HTH.jpg "Head to Head Interface"
+[Team Vs Interface image]: img/Multi_team_vs.jpg "Team Vs Interface"
+[Tag Coop Interface image]: img/Multi_tag_co-op.jpg "Tag Coop Interface"
+[Tag Team Vs Interface image]: img/Multi_tag_team_vs.jpg "Tag Team Vs Interface"
+[HTH Grade image]: img/Multi_grade.jpg "Head to Head grade screen"
+[Team Vs Grade image]: img/Multi_team_grade.jpg "Team Vs grade screen"
+[Tag Coop Grade image]: img/Multi_co-op_grade.jpg "Team Co-Op grade screen"
+[Tag Team Vs Grade image]: img/Multi_tag_team_grade.jpg "Tag Team Vs grade screen"
 
 <!--Title-->
 # Multi
@@ -359,7 +359,7 @@ A failed or quitted player will be placed at the bottom of the leaderboard separ
 
 #### Player box colour
 
-<!-- A player box reference here? Old images in ./img/Playerbox -->
+<!-- A player box reference here? Old images in img/Playerbox -->
 <!-- Special player box note: Skipped (has its own special callout), Failed (red text), and Quit (red text with [Quit] appended) -->
 
 Status/Colour | Description

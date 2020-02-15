@@ -7,7 +7,7 @@ no_native_review: true
 Si, dans toutes les maps que vous avez joué, vous entendez que le son n'est pas en accord avec la musique, vous voudrez surement ajuster votre décalage universel.
 
 Le décalage universel (aussi connu sous le nom d'«assistant de décalage» ou «ajusteur de décalage») ajuste le décalage audio pour que le son de hit soit timer correctement.
-Vous pouvez trouver cette option dans les [Options](../).
+Vous pouvez trouver cette option dans les [Options](..).
 
 Vous pouvez utiliser le slider donné pour ajuster le décalage universel, par contre, il est requis de savoir quel timing vous devez avoir.
 A la place, vous pouvez utiliser l' `Assistant de décalage` pour une représentation plus graphique des ticks.
