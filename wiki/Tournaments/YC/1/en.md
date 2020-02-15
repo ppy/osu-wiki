@@ -7,7 +7,7 @@ tags:
 
 ![YC logo](img/logo.jpg)
 
-The **Yuri Cup** (***YC***) is an international 4-digit 4v4 double-elimination osu! tournament hosted by ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519) and ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970). Each team consist of 8 people will battle against other teams from around the globe. This is the first installment of the Yuri Cup.
+The **Yuri Cup** (***YC***) is an international 4-digit 4v4 double-elimination osu! tournament hosted by ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519) and ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970). Each team consisting of 8 players will battle against other teams from around the globe. This is the first installment of the Yuri Cup.
 
 ## Tournament schedule
 
@@ -20,7 +20,7 @@ The **Yuri Cup** (***YC***) is an international 4-digit 4v4 double-elimination o
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
 ## Organisation
 
@@ -40,7 +40,7 @@ The Yuri Cup is run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1015368)
-- [TSC Discord server](https://discord.gg/Hxttw27)
+- [Discord server](https://discord.gg/Hxttw27)
 - [Registration form](https://forms.gle/yp5juxoyund91EmaA)
 - [Challonge brackets](https://challonge.com/yuricup)
 
@@ -57,9 +57,9 @@ The Yuri Cup is run by various community members.
 ### General rules
 
 1. Yuri Cup is an international **4 vs 4** double-elimination bracket osu! tournament consisting of 8 man per team.
-2. The Scoring System used will be **Score V2**.
+2. The scoring system used will be **Score V2**.
 3. Rank limit range is within **#1,000** and unlimited. It means player above rank #1,000 can't participate.
-4. Using the Protect System for mappool pick/ban. Protect System Rule (a.k.a. Ban/Protect Rule) is a system where players will have to first keep a map and the keeped map will not be bannable during the map banning session. After that players can normally ban maps and pick the first map to play. For more information please visit following [thread](https://osu.ppy.sh/community/forums/topics/899704)
+4. Using the **protect** system for mappool pick/ban. Protect system rule (a.k.a. ban/protect rule) is a system where players will have to first keep a map and the keeped map will not be bannable during the map banning session. After that players can normally ban maps and pick the first map to play. For more information please visit following [thread](https://osu.ppy.sh/community/forums/topics/899704).
 5. Failed scores during match will be counted.
 
 ### Match instructions
@@ -81,15 +81,15 @@ The Yuri Cup is run by various community members.
 2. In the Quarterfinals and Semifinals, team needs to win 6 beatmaps to win a match. (Best-of-11)
 3. In the Finals and Grand Finals, team needs to win 7 beatmaps to win a match. (Best-of-13)
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GR]: /wiki/shared/flag/GR.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PT]: /wiki/shared/flag/PT.gif
-[flag_TR]: /wiki/shared/flag/TR.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GR]: /wiki/shared/flag/GR.gif "Greece"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
+[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
