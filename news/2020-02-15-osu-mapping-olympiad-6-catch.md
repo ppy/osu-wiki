@@ -59,7 +59,7 @@ Olympiad contests utilise a points-based system to award the *Mapping Olympian* 
 
 ## How Do I Enter?
 
-You will have 28 days from the date of this post to submit your entries. A [pre-timed .osz can be downloaded here](https://assets.ppy.sh/artists/62/osz/MYLK - Waffle Wave.osz), so you can sink your teeth into mapping at your convenience!
+You will have 28 days from the date of this post to submit your entries. A [pre-timed .osz can be downloaded here](https://assets.ppy.sh/artists/62/osz/MYLK%20-%20Waffle%20Wave.osz), so you can sink your teeth into mapping at your convenience!
 
 If you're ready to submit your entries, need a refresher on the rules, or just want to keep an eye on the contest deadline, head on over to the [**contest page**](https://osu.ppy.sh/community/contests/90)! We look forward to seeing how our mappers bring MYLK's creation to life in fruity form, so give us your best!
 
