@@ -390,6 +390,8 @@ tags:
         -   [2018](/wiki/Tournaments/TWC/2018)
         -   [2019](/wiki/Tournaments/TWC/2019)
         -   [2020](/wiki/Tournaments/TWC/2020)
+    -   [YC](/wiki/Tournaments/YC)
+        -   [1](/wiki/Tournaments/YC/1)
 -   [Twitter](/wiki/Twitter)
 -   [Visual Settings](/wiki/Visual_Settings)
 -   [Welcome](/wiki/Welcome)
