@@ -60,6 +60,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-02-02: Added [Gamelan4](https://osu.ppy.sh/users/9856910) to **Probationary BN**
 - 2020-02-02: Added [Stack](https://osu.ppy.sh/users/6122935) to **Probationary BN**
 - 2020-02-09: Added [Dubstek](https://osu.ppy.sh/users/9555243) to **Probationary BN**
+- 2020-02-14: Added [UnluckyCroco](https://osu.ppy.sh/users/9461160) to **Probationary BN**
 
 #### Moves
 
@@ -74,6 +75,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-02-08: Moved [Sonnyc](https://osu.ppy.sh/users/11771) from **BN** to **Probationary BN**
 - 2020-02-08: Moved [wonjae](https://osu.ppy.sh/users/5032045) from **BN** to **Probationary BN**
 - 2020-02-12: Moved [celerih](https://osu.ppy.sh/users/4696296) from **Probationary BN** to **BN**
+- 2020-02-14: Moved [Vulkin](https://osu.ppy.sh/users/4901066) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -82,4 +84,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-02-10: Removed [Kyousukee](https://osu.ppy.sh/users/8842107) from **BN**
 - 2020-02-12: Removed [Trynna](https://osu.ppy.sh/users/2652951) from **BN**
 
-<!-- last update: 2020-02-14 16UTC Removed Trynna from BN -->
+<!-- last update: 2020-02-15 1UTC moved Vulkin from prob to bn -->

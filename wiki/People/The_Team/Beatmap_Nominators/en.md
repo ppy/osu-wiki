@@ -107,6 +107,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  |
 | ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Thai |
 | ![][flag_ID] [Volta](https://osu.ppy.sh/users/4154071) | <!-- TODO --> |
+| ![][flag_CL] [Vulkin](https://osu.ppy.sh/users/4901066) | <!-- TODO --> |
 
 #### osu!catch
 
@@ -160,7 +161,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Chinese |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | <!-- TODO --> |
 | ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) | Japanese |
-| ![][flag_CL] [Vulkin](https://osu.ppy.sh/users/4901066) | <!-- TODO --> |
 | ![][flag_FR] [Yales](https://osu.ppy.sh/users/2377881) | <!-- TODO --> |
 
 #### osu!catch
@@ -176,6 +176,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | Name | Additional languages |
 | :-- | :-- |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | <!-- TODO --> |
+| ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) | <!-- TODO --> |
 | ![][flag_ID] [Voxa](https://osu.ppy.sh/users/9229539) | <!-- TODO --> |
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
