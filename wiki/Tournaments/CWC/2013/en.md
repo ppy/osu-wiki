@@ -28,9 +28,9 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 4 months of osu!supporter tag, unique profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter tag, unique profile badge |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
 ## Organisation
 
@@ -97,9 +97,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_CL] Chile A |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_TW] Taiwan A |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_AR] ![][flag_CO] Argentina/Colombia |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CL] Chile A |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TW] Taiwan A |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_AR] ![][flag_CO] Argentina/Colombia |
 
 ---------------------------
 

@@ -31,7 +31,7 @@ With their options running out, China turned to HardRock, picking the CS6.5 [Yoo
 
 The insanely technical standard convert [gmtn vs. kozato - squartatrice](https://osu.ppy.sh/beatmaps/499713&m=2) from the NoMod pool would be the stage, a map which South Korea lost as their first pick at the previous meeting. Chinese hopes were high as they were buoyed by some impressive early comboing, but as the map ran on, the wheels came off, with South Korea sealing the victory and with it, the crown of 2017 osu!catch World Champions.
 
-![](/wiki/Tournaments/CWC/2017/podium.jpg)
+![](/wiki/Tournaments/CWC/2017/img/podium.jpg)
 
 Congratulations to South Korea on becoming three-time osu!catch World Champions, who each take home $300 in prize money, an exclusive osu! tumbler and pins, a unique profile badge, and the "osu!catch Champion" user title for one year.
 

@@ -29,7 +29,7 @@ Dalam setiap turnamen, peserta yang memenangkan turnamen berhak naik ke podium d
 
 | Posisi | Hadiah |
 | :-: | :-- |
-| ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | Lencana profil unik |
+| ![Mahkota Emas](/wiki/shared/crown-gold.png "Juara satu") | Lencana profil unik |
 
 ## Staf Turnamen
 
@@ -79,9 +79,9 @@ Turnamen ini telah berakhir dan menghasilkan podium berikut:
 
 | Posisi | Pemain |
 | :-: | :-- |
-| ![Mahkota Emas](/wiki/shared/GCrown.png "Juara satu") | ![][flag_ID] [XK2238](https://osu.ppy.sh/users/1139209) |
-| ![Mahkota Perak](/wiki/shared/SCrown.png "Juara dua") | ![][flag_ID] [pmriva](https://osu.ppy.sh/users/2180885) |
-| ![Mahkota Perunggu](/wiki/shared/BCrown.png "Juara tiga") | ![][flag_ID] [Nishizumi](https://osu.ppy.sh/users/2496768) |
+| ![Mahkota Emas](/wiki/shared/crown-gold.png "Juara satu") | ![][flag_ID] [XK2238](https://osu.ppy.sh/users/1139209) |
+| ![Mahkota Perak](/wiki/shared/crown-silver.png "Juara dua") | ![][flag_ID] [pmriva](https://osu.ppy.sh/users/2180885) |
+| ![Mahkota Perunggu](/wiki/shared/crown-bronze.png "Juara tiga") | ![][flag_ID] [Nishizumi](https://osu.ppy.sh/users/2496768) |
 
 ---
 

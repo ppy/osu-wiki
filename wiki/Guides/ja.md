@@ -31,7 +31,6 @@ no_native_review: true
 *メインページ: [Modding](/wiki/Modding)*
 
 - [マップをModdingする](Getting_Your_Map_Modded)
-- [マップをRankedする方法](How_To_Get_Your_Map_Ranked)
 
 ## プレイング
 

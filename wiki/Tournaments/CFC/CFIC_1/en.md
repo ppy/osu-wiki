@@ -25,7 +25,7 @@ The **Catch French Intermediate Cup** (***CFIC***) was an intermediate one-on-on
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
 ![CFIC winner badge](img/badge.png)
 
@@ -80,9 +80,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_FR] [Realmas](https://osu.ppy.sh/users/6567640) |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [Realmas](https://osu.ppy.sh/users/6567640) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) |
 
 ---
 

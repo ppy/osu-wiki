@@ -14,7 +14,7 @@ Perlu dicatat bahwa sebagian besar pack:
 Paket beatmap dibagi menjadi 4 kategori:
 
 | Kategori | Jenis beatmap |
-| --- | --- |
+| :-- | :-- |
 | Standard | Lagu-lagu berstatus Ranked atau Approved |
 | Chart | Lagu-lagu tantangan Fortnightly Chart |
 | Theme | Tema umum dari lagu-lagu |

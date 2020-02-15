@@ -26,7 +26,7 @@ La **Catch French Intermediate Cup** (***CFIC***) était un tournoi 1v1 françai
 
 | Classement | Récompenses |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | Badge sur le profil |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | Badge sur le profil |
 
 ![CFIC winner badge](img/badge.png)
 
@@ -81,9 +81,9 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 | Classement | Joueur |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![][flag_FR] [Realmas](https://osu.ppy.sh/users/6567640) |
-| ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
-| ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![][flag_FR] [Realmas](https://osu.ppy.sh/users/6567640) |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) |
 
 ---
 

@@ -29,9 +29,9 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 2 months of osu!supporter tag, unique profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 15 CNY |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 2 months of osu!supporter tag, unique profile badge |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 15 CNY |
 
 ## Organisation
 
@@ -55,9 +55,9 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | [A M D](https://osu.ppy.sh/users/5321112) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [shizehao](https://osu.ppy.sh/users/4928674) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [Yutto007](https://osu.ppy.sh/users/10269172) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | [A M D](https://osu.ppy.sh/users/5321112) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | [shizehao](https://osu.ppy.sh/users/4928674) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | [Yutto007](https://osu.ppy.sh/users/10269172) |
 
 ## Participants
 

@@ -27,9 +27,9 @@ tags:
 
 | 順位 | 景品 |
 | :-: | :-- |
-| ![金王冠](/wiki/shared/GCrown.png "１位") | プロフィールバッジ, チームバナー |
-| ![銀王冠](/wiki/shared/SCrown.png "２位") | チームバナー |
-| ![銅王冠](/wiki/shared/BCrown.png "３位") | チームバナー |
+| ![金王冠](/wiki/shared/crown-gold.png "１位") | プロフィールバッジ, チームバナー |
+| ![銀王冠](/wiki/shared/crown-silver.png "２位") | チームバナー |
+| ![銅王冠](/wiki/shared/crown-bronze.png "３位") | チームバナー |
 
 ![AGTS 2019優勝バッジ](img/badge.png)
 
@@ -114,9 +114,9 @@ Advanced Global Taiko Showdown 2019は様々なコミュニティメンバーが
 
 | 順位 | 国 |
 | :-: | :-- |
-| ![金王冠](/wiki/shared/GCrown.png "１位") | ![][flag_JP]  |
-| ![銀王冠](/wiki/shared/SCrown.png "２位") | ![][flag_CA] |
-| ![銅王冠](/wiki/shared/BCrown.png "３位") | ![][flag_RU] |
+| ![金王冠](/wiki/shared/crown-gold.png "１位") | ![][flag_JP]  |
+| ![銀王冠](/wiki/shared/crown-silver.png "２位") | ![][flag_CA] |
+| ![銅王冠](/wiki/shared/crown-bronze.png "３位") | ![][flag_RU] |
 
 ---
 

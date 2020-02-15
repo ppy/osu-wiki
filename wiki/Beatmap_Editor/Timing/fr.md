@@ -1,19 +1,19 @@
-# Timing
+# Onglet Timing
 
-Le **timing** d'une [Beatmap](/wiki/Beatmaps) se compose de la définition du décalage du son (« *offset* ») et du nombre de battements par minute (BPM). Le BPM de la musique va en général aussi vite que le son lui-même. Le décalage correspond à la durée entre le nombre de temps entre le début du mp3 et le premier battement du son, c'est-à-dire le début de la musique.
+*Voir également : [Comment timer les chansons](/wiki/How_to_time_songs)*
 
-Le fait d'avoir un timing correct permet d'avoir la ligne de timing dans l'[éditeur](/wiki/Beatmap_Editor) aligné avec la musique. Si le timing est incorrect, la ligne de timing ne correspondra pas avec le son. Ainsi, vous ne pourrez pas placer avec précision les objets et il deviendra impossible de mapper correctement la musique.
+![Menu Timing](img/Timing_base.jpg "Menu Timing")
 
-## Trouver le bon timing
+Le timing d'un [beatmap](/wiki/Beatmaps) consiste en un décalage de la chanson et un BPM (battements par minute). Le décalage de la chanson est la quantité de temps entre le début d'un fichier audio et le premier battement de la chanson. Le BPM de la chanson est essentiellement la vitesse de la chanson.
 
-## Sections de timing
+Un timing correct est impératif dans le processus de beatmapping pour permettre de placer les objets à temps avec le rythme.
 
-![La fenêtre de paramétrage du timing montrant une map avec un BPM variable et des changements de bruitages.](img/TimingSetup.jpg "La fenêtre de paramétrage du timing montrant une map avec un BPM variable et des changements de bruitages.")
+## Setup
 
-Les sections de timing (« *timing sections* ») vous permet de varier le timing tout le long de la musique. Il existe deux types de sections de timing : les sections ordinaires et les sections héritées.
+![Capture d'écran de la fenêtre "Chronométrage et points de contrôle"](img/TimingSetup.jpg "Le dialogue de configuration du timing montre les fluctuations du BPM de la map et les changements de jeu d'échantillons")
 
-Les sections de timing ordinaires sont représentées par des lignes rouges dans l'éditeur. Chaque map en a au moins une. Quelques maps changent leur BPM pendant le son, cependant elles ont malgré tout besoin d'avoir plusieurs sections ordinaires.
+Les sections de chronométrage vous permettent de varier le chronométrage dans la chanson. Il existe deux types de sections de chronométrage : une section de chronométrage régulier et une section de chronométrage hérité.
 
-Les sections de timing héritées sont représentées par des lignes vertes dans l'éditeur. Elles ne changent pas en réalité le timing du son. Le but des sections héritées est de vous laisser changer le volume des [Hitsounds](/wiki/Glossary) de la map, les hitsounds eux-mêmes, la vitesse des [sliders](/wiki/Slider) ainsi que d'autres paramètres sans avoir à modifier le timing de la musique (ce qui se produirait avec une section ordinaire).
+Une section de chronométrage régulier est affichée sous forme de ligne rouge dans l'éditeur. Chaque beatmap doit en comporter au moins une. Cependant, certains beatmaps changent leur BPM pendant la chanson et nécessitent par conséquent plusieurs sections de chronométrage régulier.
 
-Ces deux types de sections sont souvent appelés respectivement « décalage rouge » et « décalage vert » (*red offsets* et *green offsets*).
+Les sections de chronométrage héritées sont affichées sous forme de ligne verte dans l'éditeur. Elles ne permettent pas de modifier le timing de la carte des temps, mais se concentrent sur l'ajustement du timing de la chanson. Les sections de timing héritées vous permettent de modifier le volume [hitsound's](/wiki/hit_sound) de la carte des temps, les hitsounds eux-mêmes, [slider velocity](/wiki/slider_velocity), etc. pour cette section sans modifier le timing de la chanson (ce qui se produirait avec une section de timing normale). Ces deux types de sections de chronométrage sont aussi communément appelés respectivement *décalages rouges* et *décalages verts*.
