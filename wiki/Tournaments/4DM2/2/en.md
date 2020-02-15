@@ -28,10 +28,10 @@ The **4 Digit osu!mania World Cup 2** (***4DM2***) is a worldwide country-based 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge, 6 months of osu!supporter tag for each team member |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | 4 months of osu!supporter tag for each team member |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | 2 months of osu!supporter tag for each team member |
-| *4th - 8th place* | 1 month of osu!supporter tag for each team member |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 6 months of osu!supporter tag for each team member |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter tag for each team member |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag for each team member |
+| *4th-8th place* | 1 month of osu!supporter tag for each team member |
 
 ![4DM2 badge](img/badge.png "4DM2 winner badge")
 
@@ -54,18 +54,14 @@ The 4 Digit osu!mania World Cup 2 is run by various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1004847)
 - [4DM Discord server](https://discord.gg/NzYtsxV)
-- [4DM Youtube channel](https://www.youtube.com/channel/UC9mLxo8frxAJCf1vrASEFDg)
+- [4DM YouTube channel](https://www.youtube.com/channel/UC9mLxo8frxAJCf1vrASEFDg)
 - [Livestream](https://www.twitch.tv/4digitmwc)
 - [Map suggestion form](https://forms.gle/BjLjtUSAVDLhhQ368)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1cT1BLBuG3XGyDvPWFTGJO_TOpRkdKQaH6shstbJcauc/edit?usp=sharing)**
 
----
-
 ## Participants
 
- *The participants will be revealed after the qualifiers ends.*
-
----
+*The participants will be revealed after the qualifiers ends.*
 
 ## Mappools
 
@@ -76,8 +72,6 @@ The 4 Digit osu!mania World Cup 2 is run by various community members.
   - [Dropgun - Fire Blazing (Logan636) \[Stage 2: Ignition\]](https://osu.ppy.sh/beatmapsets/1106164#mania/2311852)
   - [Nekomata Master - Izanami's Wail (\[Crz\]Crysarlene) \[Stage 3: Betwixt\]](https://osu.ppy.sh/beatmapsets/1106156#mania/2311839)
   - [void feat. Gt. HAKKYOU-KUN - Never Escape (HowToPlayLN) \[Stage 4: Surrounded\]](https://osu.ppy.sh/beatmapsets/1105727#mania/2311135)
-
----
 
 ## Ruleset
 
@@ -157,7 +151,7 @@ The 4 Digit osu!mania World Cup 2 is run by various community members.
 9. Allowed mods in the FreeMod pool are Hidden, FadeIn, Flashlight, and Mirror. The tiebreaker map is also played under FreeMod conditions.
 10. If a player disconnects during a match, their score is counted as a failed score. However, if this disconnect happens before 30 seconds of the map is played, the referee can decide to let the teams rematch.
 11. If a team cannot gather 3 members into the match lobby by 10 minutes after the match’s scheduled start time, the opposing team will be declared a win by default. If neither team can gather 3 members into the match lobby by 10 minutes after the match’s scheduled start time, the team with the higher seed out of qualifiers will be declared a win by default.
-12. For any additional rules left out of this forum, please refer to the official rules of the latest 4k osu!mania world cup that can be accessed via this [link](/wiki/Tournaments/MWC/2019_4K) as these rules will be what 4DM2 will attempt to closely follow.
+12. For any additional rules left out of this forum, please refer to the [official rules of the latest 4K osu!mania world cup](/wiki/Tournaments/MWC/2019_4K#ruleset), as these rules will be what 4DM2 will attempt to closely follow.
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
