@@ -30,9 +30,9 @@ The **Game_Osu Tourney 3** (***GO 3***) was a [Logitech](https://www.logitech.co
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 1000€, unique profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 500€ |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 250€ |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 1000€, unique profile badge |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 500€ |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 250€ |
 | *4th place* | 150€ |
 | *5th place* | 100€ |
 
@@ -149,9 +149,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) |
 | *4th place* | ![][flag_FR] [Musty](https://osu.ppy.sh/users/251683) |
 | *5th place* | ![][flag_HK] [DenierNezzar](https://osu.ppy.sh/users/126144) |
 

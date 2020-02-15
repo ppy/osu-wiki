@@ -31,7 +31,7 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
 ![DMX 3 Winner Badge](img/badge.png)
 
@@ -90,9 +90,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_GB] [xSnaggles](https://osu.ppy.sh/users/3799946) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_GB] [xSnaggles](https://osu.ppy.sh/users/3799946) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946) |
 
 -----------------------
 

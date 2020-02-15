@@ -24,9 +24,9 @@ The **osu! Mapping World Cup #1** (***oMWC #1***) is a country-based osu! mappin
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | 6 months of osu!supporter for each team member, profile badge |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | 4 months of osu!supporter for each team member |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | 2 months of osu! supporter for each team member |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter for each team member, profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter for each team member |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu! supporter for each team member |
 
 ## Organisation
 

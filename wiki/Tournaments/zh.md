@@ -330,9 +330,9 @@ osu! 世界杯是国家间的 4v4 组队对抗赛，赛制为单败淘汰制。�
 - [参与 osu! 锦标赛的国家](Countries_that_participated_in_osu!_tournaments)
 - [osu!tourney](/wiki/osu!tourney) (用于直播锦标赛的客户端)
 
-[GCrown]: /wiki/shared/GCrown.png "冠军"
-[SCrown]: /wiki/shared/SCrown.png "亚军"
-[BCrown]: /wiki/shared/BCrown.png "季军"
+[GCrown]: /wiki/shared/crown-gold.png "冠军"
+[SCrown]: /wiki/shared/crown-silver.png "亚军"
+[BCrown]: /wiki/shared/crown-bronze.png "季军"
 [flag___]: /wiki/shared/flag/__.gif
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AU]: /wiki/shared/flag/AU.gif

@@ -28,8 +28,8 @@ The **osu! TV Size Tournament 2018** (***otst! 2018***) was a double elimination
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag |
 
 ![otst! 2018 winner badge](img/badge.png)
 
@@ -155,9 +155,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Rubber Conquest |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | Floating up |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | black dogleg |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Rubber Conquest |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Floating up |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | black dogleg |
 
 ---
 

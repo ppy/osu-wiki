@@ -27,9 +27,9 @@ The **DeltaMax's Taiko Oni Overlord (***DMX 2***)** was a double elimination one
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 4 months of osu!supporter tag, unique profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 months of osu!supporter tag |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter tag, unique profile badge |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 months of osu!supporter tag |
 
 ## Organisation
 
@@ -85,9 +85,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_BR] [Foxerus](https://osu.ppy.sh/users/7479684) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_MX] [Ammy](https://osu.ppy.sh/users/4183406) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_BR] [Foxerus](https://osu.ppy.sh/users/7479684) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_MY] [cdhsausageboy](https://osu.ppy.sh/users/2403621) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_MX] [Ammy](https://osu.ppy.sh/users/4183406) |
 
 -----------------------
 

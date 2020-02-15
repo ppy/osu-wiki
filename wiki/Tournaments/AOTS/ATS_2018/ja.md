@@ -30,9 +30,9 @@ tags:
 
 | 順位 | 賞 |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 特別なプロフィールバッジ, ユーザーページにバナー追加 |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ユーザーページにバナー追加 |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ユーザーページにバナー追加 |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 特別なプロフィールバッジ, ユーザーページにバナー追加 |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ユーザーページにバナー追加 |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ユーザーページにバナー追加 |
 
 ## 主催者
 

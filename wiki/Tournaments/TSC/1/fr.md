@@ -29,7 +29,7 @@ Dans chaque tournoi, les joueurs qui remportent une place sur le podium sont él
 
 | Classement | Récompenses |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
 ## Organisation
 
@@ -99,9 +99,9 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 | Classement | Équipe |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | jakpat |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | i like grosses baguettes |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | BabySnakes is Dumb |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | jakpat |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | i like grosses baguettes |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | BabySnakes is Dumb |
 
 -----------------------
 

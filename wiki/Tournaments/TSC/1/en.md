@@ -28,7 +28,7 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
 ## Organisation
 
@@ -98,9 +98,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | jakpat |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | i like grosses baguettes |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | BabySnakes is Dumb |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | jakpat |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | i like grosses baguettes |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | BabySnakes is Dumb |
 
 ---
 

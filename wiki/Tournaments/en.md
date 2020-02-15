@@ -331,9 +331,9 @@ Unofficial tournaments/competitions hosted by the communities.
 - [List of countries that participated in osu! tournaments](Countries_that_participated_in_osu!_tournaments)
 - [osu!tourney](/wiki/osu!tourney) (Client used for tournament streaming)
 
-[GCrown]: /wiki/shared/GCrown.png "1st place"
-[SCrown]: /wiki/shared/SCrown.png "2nd place"
-[BCrown]: /wiki/shared/BCrown.png "3rd place"
+[GCrown]: /wiki/shared/crown-gold.png "1st place"
+[SCrown]: /wiki/shared/crown-silver.png "2nd place"
+[BCrown]: /wiki/shared/crown-bronze.png "3rd place"
 [flag___]: /wiki/shared/flag/__.gif
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"

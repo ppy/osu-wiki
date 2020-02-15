@@ -25,9 +25,9 @@ Le **osu! Mapping World Cup #1** (***oMWC #1***) est un concours national de map
 
 | Placement | Prix(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | 6 mois de  osu!supporter pour chaque membre de l'équipe, badge de profil |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | 4 mois  de osu!supporter pour chaque membre de l'équipe |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | 2 mois de osu!supporter pour chaque membre de l'équipe |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 mois de  osu!supporter pour chaque membre de l'équipe, badge de profil |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 mois  de osu!supporter pour chaque membre de l'équipe |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 mois de osu!supporter pour chaque membre de l'équipe |
 
 ## Organisation
 

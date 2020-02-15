@@ -26,9 +26,9 @@ tags:
 
 | Posisi | Hadiah |
 | :-: | :-- |
-| ![Mahkota Emas](/wiki/shared/GCrown.png "Posisi pertama") | Lencana profil, 50% dari total donasi |
-| ![Mahkota Perak](/wiki/shared/SCrown.png "Posisi kedua") | 30% dari total donasi |
-| ![Mahkota Perunggu](/wiki/shared/BCrown.png "Posisi ketiga") | 20% dari total donasi |
+| ![Mahkota Emas](/wiki/shared/crown-gold.png "Posisi pertama") | Lencana profil, 50% dari total donasi |
+| ![Mahkota Perak](/wiki/shared/crown-silver.png "Posisi kedua") | 30% dari total donasi |
+| ![Mahkota Perunggu](/wiki/shared/crown-bronze.png "Posisi ketiga") | 20% dari total donasi |
 
 *Jika tidak dapat menerima uang, hadiah dapat diubah menjadi osu!supporter setara dengan hadiah yang didapatkan.*
 

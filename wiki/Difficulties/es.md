@@ -17,8 +17,8 @@ La dificultad de un beatmap *describe* el nivel de habilidad necesario para comp
 Desde los [Criterios de clasificación](/wiki/Ranking_Criteria), una calificación por estrellas de:
 
 - 1.50 estrellas y menos es Easy ![Icono Easy](/wiki/shared/diff/easy-s.png "cono Easy")
-- 2.25 estrellas y menos es Normal  ![Icono Normal](/wiki/shared/diff/normal-s.png "Icono Normal")
-- 3.75 estrellas y menos es Hard  ![Ícono Hard](/wiki/shared/diff/hard-s.png "Ícono Hard")
+- 2.25 estrellas y menos es Normal ![Icono Normal](/wiki/shared/diff/normal-s.png "Icono Normal")
+- 3.75 estrellas y menos es Hard ![Ícono Hard](/wiki/shared/diff/hard-s.png "Ícono Hard")
 - 5.25 estrellas y menos Insane ![Ícono Insane](/wiki/shared/diff/insane-s.png "Ícono Insane")
 - 5.25 estrellas y más es Expert ![Icono de Expert](/wiki/shared/diff/expert-s.png "icono Expert")
 
@@ -44,7 +44,7 @@ Los rangos de clasificación de estrellas determinan qué icono web se va a util
 - ![Icono Futsuu](/wiki/shared/diff/normal-t.png "Icono Futsuu") Futsuu
 - ![Icono Muzukashii](/wiki/shared/diff/hard-t.png "Icono Muzukashii") Muzukashii
 - ![Icono Oni](/wiki/shared/diff/insane-t.png "Icono Oni") Oni
-- ![Icono Ura Oni](/wiki/shared/diff/expert-t.png "Icono Ura Oni") Ura Oni (Aveces llamado _Inner Oni_)
+- ![Icono Ura Oni](/wiki/shared/diff/expert-t.png "Icono Ura Oni") Ura Oni (Aveces llamado *Inner Oni*)
 
 ### osu!catch
 
