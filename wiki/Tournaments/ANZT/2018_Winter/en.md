@@ -39,7 +39,7 @@ The **Aus/NZ osu!standard Tournament 5 - Winter** (***ANZT 5W***) was a double e
 
 ## Links
 
-- [Discussion thread](/community/forums/topics/784018)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/784018)
 - [Livestream](https://www.twitch.tv/osuanzt)
 - [Results and mappool spreadsheet](https://docs.google.com/spreadsheets/d/1ylrPqTzCRTyQQG_RGBqZJZrUz_QFgSs_v26SFwhqLAs)
 

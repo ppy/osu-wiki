@@ -145,7 +145,7 @@ It is really important to include various screenshots of gameplay and the song s
 
 ### What is v1.0 and v2.0+?
 
-Skin v1.0 was the old skinning style that was used from the game's skinning support launch until March 2013. After that point in time, skin v2.0 was released along side a brand new set of skinning elements with some changes. To see a changelog of skinning updates, see the [Versions section in the skin.ini article](/wiki/skin.ini/#versions).
+Skin v1.0 was the old skinning style that was used from the game's skinning support launch until March 2013. After that point in time, skin v2.0 was released along side a brand new set of skinning elements with some changes. To see a changelog of skinning updates, see the [Versions section in the skin.ini article](/wiki/skin.ini#versions).
 
 It may not seem important to denote which version to use, but understand that some older features may not be available in the latest version of skinning and vise versa.
 
@@ -289,7 +289,7 @@ Open the [skin.ini](/wiki/skin.ini) file and change the `Version` to `2.1` or hi
 
 ### How do I change the combo colours?
 
-*Main page: [skin.ini](/wiki/skin.ini/#[colours])*
+*Main page: [skin.ini](/wiki/skin.ini#[colours])*
 
 ### How do I disable one or more hitsounds?
 

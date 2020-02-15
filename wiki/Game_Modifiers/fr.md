@@ -3,44 +3,44 @@ no_native_review: true
 ---
 
 <!-- wiki -->
-[osu! wikilink]: /wiki/Game_Modes/osu!/ "osu!"
-[osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko/ "osu!taiko"
-[osu!catch wikilink]: /wiki/Game_Modes/osu!catch/ "osu!catch"
-[osu!mania wikilink]: /wiki/Game_Modes/osu!mania/ "osu!mania"
-[lifebar wikilink]: /wiki/Glossary/#life-bar "Définition de la barre de vie dans le glossaire"
-[CS wikilink]: /wiki/Beatmap_Editor/Song_Setup/#circle-size "Taille du cercle (CS) dans la configuration du morceau"
-[AR wikilink]: /wiki/Beatmap_Editor/Song_Setup/#approach-rate "Vitesse d'approche (AR) dans la configuration du morceau"
-[OD wikilink]: /wiki/Beatmap_Editor/Song_Setup/#overall-difficulty "Difficulté générale (OD) dans la configuration des morceaux"
-[HP wikilink]: /wiki/Beatmap_Editor/Song_Setup/#hp-drain-rate "Débit de vidange HP (HP) dans la configuration du morceau"
-[SV wikilink]: /wiki/Glossary/#slider-velocity "Définition de la vitesse du glisseur dans le glossaire"
+[osu! wikilink]: /wiki/Game_Modes/osu! "osu!"
+[osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko "osu!taiko"
+[osu!catch wikilink]: /wiki/Game_Modes/osu!catch "osu!catch"
+[osu!mania wikilink]: /wiki/Game_Modes/osu!mania "osu!mania"
+[lifebar wikilink]: /wiki/Glossary#life-bar "Définition de la barre de vie dans le glossaire"
+[CS wikilink]: /wiki/Beatmap_Editor/Song_Setup#circle-size "Taille du cercle (CS) dans la configuration du morceau"
+[AR wikilink]: /wiki/Beatmap_Editor/Song_Setup#approach-rate "Vitesse d'approche (AR) dans la configuration du morceau"
+[OD wikilink]: /wiki/Beatmap_Editor/Song_Setup#overall-difficulty "Difficulté générale (OD) dans la configuration des morceaux"
+[HP wikilink]: /wiki/Beatmap_Editor/Song_Setup#hp-drain-rate "Débit de vidange HP (HP) dans la configuration du morceau"
+[SV wikilink]: /wiki/Glossary#slider-velocity "Définition de la vitesse du glisseur dans le glossaire"
 
 <!-- image -->
-[GM]: ./img/GM_Main.jpg "Écran des quatre modes (de gauche à droite, de haut en bas : osu!standard, osu!taiko, osu!catch et osu!mania)"
-[Toolbox]: ./img/Toolbox_Mods.jpg "Boîte à outils de la sélection des chansons"
-[EZ1]: ./img/GM_EZ1.jpg "La facilité diminue la difficulté de plusieurs façons."
-[EZ2]: ./img/GM_EZ2.jpg "Parfois, cependant, Easy provoque juste un mal de tête."
-[HT1]: ./img/GM_HT.jpg "La longueur du morceau est augmentée de 1/3 ; le BPM est diminué de 1/4"
-[HR_O]: ./img/GM_HR_O.jpg "Le Hard Rock augmente la difficulté de plusieurs façons (osu!standard)."
-[HR_C]: ./img/GM_HR_C.jpg "Le Hard Rock augmente la difficulté de plusieurs façons (osu!catch)."
-[SD_Rare]: ./img/GM_SD_Rarecase.jpg "Exemple d'un cas rare de survie à la mort subite. Le joueur a réussi à attraper une tique de curseur qui a rempli la barre de HP avant de s'épuiser complètement."
-[DT1]: ./img/GM_DT.jpg "La longueur du morceau est diminuée de 1/3 ; le BPM augmente de 1/2"
-[HD_O]: ./img/GM_HD_O.jpg "Mode Hidden en osu!standard"
-[HD_T]: ./img/GM_HD_T.jpg "Mode Hidden en osu!taiko"
-[HD_C]: ./img/GM_HD_C.jpg "Mode Hidden en osu!catch"
-[HD_M]: ./img/GM_HD1_M.jpg "Mode Hidden en osu!mania (Gauche : Normal ; Droite : style DDR)"
-[HD2_M]: ./img/GM_HD2_M.jpg "Comparaison des jalons de combo cachés"
-[FI1]: ./img/GM_FI1.jpg "Fondu en mode osu!mania (Gauche : Normal ; Droite : style DDR)"
-[FI2]: ./img/GM_FI2.jpg "Comparaison des étapes du combo Fade In"
-[FL_O]: ./img/GM_FL_O.jpg "Mode lampe de poche en mode osu!standard"
-[FL_T]: ./img/GM_FL_T.jpg "Mode lampe de poche en mode osu!taiko"
-[FL_C]: ./img/GM_FL_C.jpg "Mode lampe de poche en mode osu!catch"
-[FL_M]: ./img/GM_FL_M.jpg "Mode lampe de poche en mode osu!mania"
-[RL1]: ./img/GM_RL_T.jpg "Mode détente en mode osu!taiko"
-[SO1]: ./img/GM_SO.jpg "Filé en mode rotation dans le sens des aiguilles d'une montre sur une toupie foncée à 286 tours par minute"
-[Cinema1]: ./img/GM_Cinema.jpg "Comparaison des modes Auto et Cinéma"
-[Co-Op1]: ./img/GM_COOP.jpg "Comparaison entre l'original (à gauche) et le Co-Op (à droite) pour le beatmap osu!mania-spécifique (en haut) et non-spécifique (en bas)."
-[Random1]: ./img/GM_Random.jpg "Comparaison entre l'original (à gauche), Random only (au milieu), et Random with Co-Op (à droite) pour le beatmap osu!mania spécifique (en haut) et non spécifique (en bas)."
-[TP1]: ./img/GM_TP.jpg "Comparaison entre la pratique originale et la pratique cible"
+[GM]: img/GM_Main.jpg "Écran des quatre modes (de gauche à droite, de haut en bas : osu!standard, osu!taiko, osu!catch et osu!mania)"
+[Toolbox]: img/Toolbox_Mods.jpg "Boîte à outils de la sélection des chansons"
+[EZ1]: img/GM_EZ1.jpg "La facilité diminue la difficulté de plusieurs façons."
+[EZ2]: img/GM_EZ2.jpg "Parfois, cependant, Easy provoque juste un mal de tête."
+[HT1]: img/GM_HT.jpg "La longueur du morceau est augmentée de 1/3 ; le BPM est diminué de 1/4"
+[HR_O]: img/GM_HR_O.jpg "Le Hard Rock augmente la difficulté de plusieurs façons (osu!standard)."
+[HR_C]: img/GM_HR_C.jpg "Le Hard Rock augmente la difficulté de plusieurs façons (osu!catch)."
+[SD_Rare]: img/GM_SD_Rarecase.jpg "Exemple d'un cas rare de survie à la mort subite. Le joueur a réussi à attraper une tique de curseur qui a rempli la barre de HP avant de s'épuiser complètement."
+[DT1]: img/GM_DT.jpg "La longueur du morceau est diminuée de 1/3 ; le BPM augmente de 1/2"
+[HD_O]: img/GM_HD_O.jpg "Mode Hidden en osu!standard"
+[HD_T]: img/GM_HD_T.jpg "Mode Hidden en osu!taiko"
+[HD_C]: img/GM_HD_C.jpg "Mode Hidden en osu!catch"
+[HD_M]: img/GM_HD1_M.jpg "Mode Hidden en osu!mania (Gauche : Normal ; Droite : style DDR)"
+[HD2_M]: img/GM_HD2_M.jpg "Comparaison des jalons de combo cachés"
+[FI1]: img/GM_FI1.jpg "Fondu en mode osu!mania (Gauche : Normal ; Droite : style DDR)"
+[FI2]: img/GM_FI2.jpg "Comparaison des étapes du combo Fade In"
+[FL_O]: img/GM_FL_O.jpg "Mode lampe de poche en mode osu!standard"
+[FL_T]: img/GM_FL_T.jpg "Mode lampe de poche en mode osu!taiko"
+[FL_C]: img/GM_FL_C.jpg "Mode lampe de poche en mode osu!catch"
+[FL_M]: img/GM_FL_M.jpg "Mode lampe de poche en mode osu!mania"
+[RL1]: img/GM_RL_T.jpg "Mode détente en mode osu!taiko"
+[SO1]: img/GM_SO.jpg "Filé en mode rotation dans le sens des aiguilles d'une montre sur une toupie foncée à 286 tours par minute"
+[Cinema1]: img/GM_Cinema.jpg "Comparaison des modes Auto et Cinéma"
+[Co-Op1]: img/GM_COOP.jpg "Comparaison entre l'original (à gauche) et le Co-Op (à droite) pour le beatmap osu!mania-spécifique (en haut) et non-spécifique (en bas)."
+[Random1]: img/GM_Random.jpg "Comparaison entre l'original (à gauche), Random only (au milieu), et Random with Co-Op (à droite) pour le beatmap osu!mania spécifique (en haut) et non spécifique (en bas)."
+[TP1]: img/GM_TP.jpg "Comparaison entre la pratique originale et la pratique cible"
 
 <!-- shared image -->
 [EZ]: /wiki/shared/mods/EZ.png "Icône du mod Easy (EZ)"
@@ -106,7 +106,7 @@ Le mod Easy accorde également au joueur deux " vies " supplémentaires ; si le 
 
 Lorsque vous regardez une relecture où une "vie" supplémentaire est utilisée, l'animation de recharge de santé sera ignorée et la relecture se poursuivra comme si vous jouiez avec le mod [No Fail](#no-fail).
 
-Dans le mode [Multi](/wiki/multi "Multi"), l'effet des " vies " ne fonctionnera pas dans [Tag Coop / Tag Team Vs](/wiki/multi/#tag-coop-tag-team-vs "Tag Coop / Tag Team Vs").
+Dans le mode [Multi](/wiki/multi "Multi"), l'effet des " vies " ne fonctionnera pas dans [Tag Coop / Tag Team Vs](/wiki/multi#tag-coop-tag-team-vs "Tag Coop / Tag Team Vs").
 
 ---
 
@@ -190,7 +190,7 @@ Ces mods introduisent de nouveaux éléments pour rendre le jeu plus difficile e
 
 > Tout est devenu un peu plus difficile...
 
-Hard Rock (nommé d'après la difficulté la plus difficile du jeu DS [Elite Beat Agents](/wiki/Glossary/#eba)) soulève [circle size][CS wikilink] de 30% et le reste des paramètres de difficulté de 40%.
+Hard Rock (nommé d'après la difficulté la plus difficile du jeu DS [Elite Beat Agents](/wiki/Glossary#eba)) soulève [circle size][CS wikilink] de 30% et le reste des paramètres de difficulté de 40%.
 
 ---
 
@@ -230,7 +230,7 @@ L'utilisation de ce mod sur osu!mania entraînera un jeu non classé.
 
 > Manquer une note et échouer.
 
-Le mod Sudden Death fait échouer la carte au joueur si le [combo](/wiki/Glossary/#combo) est jamais cassé, ce qui entraîne un chiffre manquant très important (mode osu!standard uniquement) et un drain HP complet.
+Le mod Sudden Death fait échouer la carte au joueur si le [combo](/wiki/Glossary#combo) est jamais cassé, ce qui entraîne un chiffre manquant très important (mode osu!standard uniquement) et un drain HP complet.
 
 Le combo peut être rompu en manquant une note, en ne cliquant pas sur un cercle de départ (osu!standard seulement), en ne collectant pas une coche de curseur, ou en ne complétant pas un spinner. Cependant, le combo ne sera pas cassé en manquant une fin de curseur (résultat en obtenant une valeur de 100 points à la place pour cette fin de curseur ; osu!standard seulement) ou en ne tenant pas/en collectant sur le chemin de curseur vide.
 
@@ -642,7 +642,7 @@ Il n'affecte pas la timeline des notes et n'est pas mélangé à chaque fois que
 
 [Introduit dans la construction du 22 février 2017 (2017-02-22) \[b20170222.3 (Stable)\]](https://osu.ppy.sh/p/changelog?v=b20170222.3 "Notes de mise à jour pour b20170222.3 (Stable)"), Le mod ScoreV2 utilise le système prototype ScoreV2 au lieu du système de notation actuel utilisé par le mode. Le système ScoreV2 tente de mettre à l'échelle les valeurs de score de _tous_ les objets touchés jusqu'à une limite de 1 000 000 (1 million) de points avec un modificateur de score de 1,00, en excluant la valeur de spinner bonus des spinners en mode osu!standard, des dendens en mode osu!taiko, et des bananes collectées (équivalent spinner) en mode osu!catch.
 
-Des informations complètes concernant ScoreV2 peuvent être trouvées à [the Score page under ScoreV2](/wiki/Score/#scorev2).
+Des informations complètes concernant ScoreV2 peuvent être trouvées à [the Score page under ScoreV2](/wiki/Score#scorev2).
 
 ## Expérimental
 

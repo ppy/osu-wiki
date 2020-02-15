@@ -80,7 +80,7 @@ Nominator(s): Beuchi-chan
 The hub and spoke formation is literally a hub with spokes peaking out.
 This technique requires at least 8 to 9 hit objects that are half a beat apart from another.
 Using this will force the player to not only move in a circular direction but also require them to return back to the center after an object was hit.
-In general, this is basically the [QQ diamonds](../Formations/#qq-diamonds) technique with a center for every other hit object.
+In general, this is basically the [QQ diamonds](/wiki/Mapping_Techniques/Formations#qq-diamonds) technique with a center for every other hit object.
 
 First, place the odd numbered combos in the center of where the hub and spoke is to be mapped (this part is the "hub").
 The following, even, hit objects are to then be placed 0 degrees, 90 degrees, 180 degrees, 270 degrees (or vise versa) surrounding the "hub" (these are the "spokes").
@@ -130,7 +130,7 @@ Slider slowdowns abruptly slows down a slider by temporarily halving an inherite
 
 ## Streams
 
-_See [Mapping Techniques/Basics](../Basics/#streams) for a description on streams._
+_See [Mapping Techniques/Basics](/wiki/Mapping_Techniques/Basics#streams) for a description on streams._
 
 ### Compressed Streams
 

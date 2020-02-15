@@ -4,44 +4,44 @@ outdated: true
 <!-- TODO: /Summary should be updated at the same time as this -->
 
 <!-- wiki -->
-[osu! wikilink]: /wiki/Game_Modes/osu!/ "osu!"
-[osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko/ "osu!taiko"
-[osu!catch wikilink]: /wiki/Game_Modes/osu!catch/ "osu!catch"
-[osu!mania wikilink]: /wiki/Game_Modes/osu!mania/ "osu!mania"
-[lifebar wikilink]: /wiki/Glossary/#life-bar "Life bar definition in Glossary"
-[CS wikilink]: /wiki/Beatmap_Editor/Song_Setup/#circle-size "Circle Size (CS) in Song Setup"
-[AR wikilink]: /wiki/Beatmap_Editor/Song_Setup/#approach-rate "Approach Rate (AR) in Song Setup"
-[OD wikilink]: /wiki/Beatmap_Editor/Song_Setup/#overall-difficulty "Overall Difficulty (OD) in Song Setup"
-[HP wikilink]: /wiki/Beatmap_Editor/Song_Setup/#hp-drain-rate "HP Drain Rate (HP) in Song Setup"
-[SV wikilink]: /wiki/Glossary/#slider-velocity "Slider velocity definition in Glossary"
+[osu! wikilink]: /wiki/Game_Modes/osu! "osu!"
+[osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko "osu!taiko"
+[osu!catch wikilink]: /wiki/Game_Modes/osu!catch "osu!catch"
+[osu!mania wikilink]: /wiki/Game_Modes/osu!mania "osu!mania"
+[lifebar wikilink]: /wiki/Glossary#life-bar "Life bar definition in Glossary"
+[CS wikilink]: /wiki/Beatmap_Editor/Song_Setup#circle-size "Circle Size (CS) in Song Setup"
+[AR wikilink]: /wiki/Beatmap_Editor/Song_Setup#approach-rate "Approach Rate (AR) in Song Setup"
+[OD wikilink]: /wiki/Beatmap_Editor/Song_Setup#overall-difficulty "Overall Difficulty (OD) in Song Setup"
+[HP wikilink]: /wiki/Beatmap_Editor/Song_Setup#hp-drain-rate "HP Drain Rate (HP) in Song Setup"
+[SV wikilink]: /wiki/Glossary#slider-velocity "Slider velocity definition in Glossary"
 
 <!-- image -->
-[GM]: ./img/GM_Main.jpg "Mods screen of all four modes (Left-to-Right from Top-to-Bottom: osu!standard, osu!taiko, osu!catch, and osu!mania)"
-[Toolbox]: ./img/Toolbox_Mods.jpg "Song Selection's Toolbox"
-[EZ1]: ./img/GM_EZ1.jpg "Easy decreases the difficulty in many ways."
-[EZ2]: ./img/GM_EZ2.jpg "Sometimes, though, Easy just causes a headache."
-[HT1]: ./img/GM_HT.jpg "Length of the song is increased by 1/3; BPM decreased by 1/4"
-[HR_O]: ./img/GM_HR_O.jpg "Hard Rock increases the difficulty in many ways (osu!standard)."
-[HR_C]: ./img/GM_HR_C.jpg "Hard Rock increases the difficulty in many ways (osu!catch)."
-[SD_Rare]: ./img/GM_SD_Rarecase.jpg "Example of a rare case of surviving Sudden Death. Player managed to grab a slider tick that filled up the HP bar before depleting completely."
-[DT1]: ./img/GM_DT.jpg "Length of the song is decreased by 1/3; BPM increases by 1/2"
-[HD_O]: ./img/GM_HD_O.jpg "Hidden play in osu!standard mode"
-[HD_T]: ./img/GM_HD_T.jpg "Hidden play in osu!taiko mode"
-[HD_C]: ./img/GM_HD_C.jpg "Hidden play in osu!catch mode"
-[HD_M]: ./img/GM_HD1_M.jpg "Hidden play in osu!mania mode (Left: Normal; Right: DDR style)"
-[HD2_M]: ./img/GM_HD2_M.jpg "Hidden combo milestone comparison"
-[FI1]: ./img/GM_FI1.jpg "Fade In in osu!mania mode (Left: Normal; Right: DDR style)"
-[FI2]: ./img/GM_FI2.jpg "Fade In combo milestone comparison"
-[FL_O]: ./img/GM_FL_O.jpg "Flashlight mod in osu!standard mode"
-[FL_T]: ./img/GM_FL_T.jpg "Flashlight mod in osu!taiko mode"
-[FL_C]: ./img/GM_FL_C.jpg "Flashlight mod in osu!catch mode"
-[FL_M]: ./img/GM_FL_M.jpg "Flashlight mod in osu!mania mode"
-[RL1]: ./img/GM_RL_T.jpg "Relax mod in osu!taiko mode"
-[SO1]: ./img/GM_SO.jpg "Spun Out mod spinning in clockwise rotation on a darken spinner at 286 spins per minute"
-[Cinema1]: ./img/GM_Cinema.jpg "Comparison of Auto and Cinema mod"
-[Co-Op1]: ./img/GM_COOP.jpg "Comparison between original (left) and Co-Op (right) for osu!mania-specific (top) and non-specific (bottom) beatmap."
-[Random1]: ./img/GM_Random.jpg "Comparison between original (left), Random only (middle), and Random with Co-Op (right) for osu!mania-specific (top) and non-specific (bottom) beatmap."
-[TP1]: ./img/GM_TP.jpg "Comparison between original and Target Practice"
+[GM]: img/GM_Main.jpg "Mods screen of all four modes (Left-to-Right from Top-to-Bottom: osu!standard, osu!taiko, osu!catch, and osu!mania)"
+[Toolbox]: img/Toolbox_Mods.jpg "Song Selection's Toolbox"
+[EZ1]: img/GM_EZ1.jpg "Easy decreases the difficulty in many ways."
+[EZ2]: img/GM_EZ2.jpg "Sometimes, though, Easy just causes a headache."
+[HT1]: img/GM_HT.jpg "Length of the song is increased by 1/3; BPM decreased by 1/4"
+[HR_O]: img/GM_HR_O.jpg "Hard Rock increases the difficulty in many ways (osu!standard)."
+[HR_C]: img/GM_HR_C.jpg "Hard Rock increases the difficulty in many ways (osu!catch)."
+[SD_Rare]: img/GM_SD_Rarecase.jpg "Example of a rare case of surviving Sudden Death. Player managed to grab a slider tick that filled up the HP bar before depleting completely."
+[DT1]: img/GM_DT.jpg "Length of the song is decreased by 1/3; BPM increases by 1/2"
+[HD_O]: img/GM_HD_O.jpg "Hidden play in osu!standard mode"
+[HD_T]: img/GM_HD_T.jpg "Hidden play in osu!taiko mode"
+[HD_C]: img/GM_HD_C.jpg "Hidden play in osu!catch mode"
+[HD_M]: img/GM_HD1_M.jpg "Hidden play in osu!mania mode (Left: Normal; Right: DDR style)"
+[HD2_M]: img/GM_HD2_M.jpg "Hidden combo milestone comparison"
+[FI1]: img/GM_FI1.jpg "Fade In in osu!mania mode (Left: Normal; Right: DDR style)"
+[FI2]: img/GM_FI2.jpg "Fade In combo milestone comparison"
+[FL_O]: img/GM_FL_O.jpg "Flashlight mod in osu!standard mode"
+[FL_T]: img/GM_FL_T.jpg "Flashlight mod in osu!taiko mode"
+[FL_C]: img/GM_FL_C.jpg "Flashlight mod in osu!catch mode"
+[FL_M]: img/GM_FL_M.jpg "Flashlight mod in osu!mania mode"
+[RL1]: img/GM_RL_T.jpg "Relax mod in osu!taiko mode"
+[SO1]: img/GM_SO.jpg "Spun Out mod spinning in clockwise rotation on a darken spinner at 286 spins per minute"
+[Cinema1]: img/GM_Cinema.jpg "Comparison of Auto and Cinema mod"
+[Co-Op1]: img/GM_COOP.jpg "Comparison between original (left) and Co-Op (right) for osu!mania-specific (top) and non-specific (bottom) beatmap."
+[Random1]: img/GM_Random.jpg "Comparison between original (left), Random only (middle), and Random with Co-Op (right) for osu!mania-specific (top) and non-specific (bottom) beatmap."
+[TP1]: img/GM_TP.jpg "Comparison between original and Target Practice"
 
 <!-- shared image -->
 [EZ]: /wiki/shared/mods/EZ.png "Easy (EZ) mod icon"
@@ -107,7 +107,7 @@ The Easy mod also grants the player two additional "lives"; if the [life bar][li
 
 When watching a replay where an extra "life" is used, the health refill animation will be ignored and the replay will continue as if playing with [No Fail](#no-fail) mod on.
 
-In [Multi](/wiki/multi "Multi") mode, the effect of "lives" will not work in [Tag Coop / Tag Team Vs](/wiki/multi/#tag-coop-tag-team-vs "Tag Coop / Tag Team Vs") team mode.
+In [Multi](/wiki/multi "Multi") mode, the effect of "lives" will not work in [Tag Coop / Tag Team Vs](/wiki/multi#tag-coop-tag-team-vs "Tag Coop / Tag Team Vs") team mode.
 
 ---
 
@@ -191,7 +191,7 @@ These mods introduce new elements to make the game harder and rewards the player
 
 > Everything just got a bit harder...
 
-Hard Rock (named after the hardest difficulty of the DS game [Elite Beat Agents](/wiki/Glossary/#eba)) raises [circle size][CS wikilink] by 30% and the rest of the difficulty settings by 40%.
+Hard Rock (named after the hardest difficulty of the DS game [Elite Beat Agents](/wiki/Glossary#eba)) raises [circle size][CS wikilink] by 30% and the rest of the difficulty settings by 40%.
 
 ---
 
@@ -231,7 +231,7 @@ Using this mod on osu!mania will result in an unranked play.
 
 > Miss a note and fail.
 
-Sudden Death mod causes the player to fail the map if the [combo](/wiki/Glossary/#combo) is ever broken, resulting in an extra large miss figure (osu!standard mode only) and a full HP drain.
+Sudden Death mod causes the player to fail the map if the [combo](/wiki/Glossary#combo) is ever broken, resulting in an extra large miss figure (osu!standard mode only) and a full HP drain.
 
 Combo can be broken by missing a note, not clicking on a starting slider circle (osu!standard only), not collecting a slider tick, or failing to complete a spinner. However, combo will not be broken by missing a slider end (result in getting 100 score value instead for that slider completion; osu!standard only) or not holding/collecting on the empty slider path.
 
@@ -643,7 +643,7 @@ It does not affect the notes' timeline and is not shuffled every time Random mod
 
 [Introduced in the 22 February 2017 (2017-02-22) build \[b20170222.3 (Stable)\]](https://osu.ppy.sh/p/changelog?v=b20170222.3 "Release Notes for b20170222.3 (Stable)"), ScoreV2 mod uses the prototype ScoreV2 system instead of the current scoring system used by the mode. ScoreV2 system attempts to scale _all_ hit object scoring values to a hard limit of 1,000,000 (1 million) score limit at 1.00 score modifier excluding bonus spinner value of spinners in osu!standard mode, dendens in osu!taiko mode, and collected bananas (spinner equivalent) in osu!catch mode.
 
-Full information regarding ScoreV2 can be found at [the Score page under ScoreV2](/wiki/Score/#scorev2).
+Full information regarding ScoreV2 can be found at [the Score page under ScoreV2](/wiki/Score#scorev2).
 
 ## Experimental
 

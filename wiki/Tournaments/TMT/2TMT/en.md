@@ -207,7 +207,7 @@ This competition has come to an end and resulted in the following podium:
   - [Kero Kero Bonito - Flamingo (RemFangirl) \[lndifference\]](https://osu.ppy.sh/beatmapsets/767418#mania/1613146)
   - [Gems Pack 14 - LN Master 6th (gemboyong) \[\[12\] S.I.D Sound - Pink Gold\]](https://osu.ppy.sh/beatmapsets/597080#mania/1263203)
   - [succducc - me & u (Shoegazer) \[yume\]](https://osu.ppy.sh/beatmapsets/781107#mania/1640584)
-  - [OutPhase - Quasar (RemFangirl) \[HSMP 5 (217bpm)\]](https://osu.ppy.sh/beatmapsets/879970/#mania/1840170)
+  - [OutPhase - Quasar (RemFangirl) \[HSMP 5 (217bpm)\]](https://osu.ppy.sh/beatmapsets/879970#mania/1840170)
   - [stereoberry - ametsuchi (Civilization) \[petrichor\]](https://osu.ppy.sh/beatmapsets/671311#mania/1419426)
   - [sirokuma - Apollo11 (Elekton) \[lunarian stream\]](https://osu.ppy.sh/beatmapsets/769539#mania/1618073)
   - [Chroma - Pon-Pon Pompoko Dai-Sen-Saw! (PiraTom) \[Pira's EXHAUST\]](https://osu.ppy.sh/beatmapsets/351531#mania/775625)
