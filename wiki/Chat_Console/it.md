@@ -11,12 +11,12 @@ Puoi premere `F8` o cliccare il pulsante `Show Chat` situato in basso a destra p
 | :-- | :-- |
 | **Bianco** | Te stesso |
 | **Pallido** | Altri utenti |
-| **Giallo** | [osu!supporter](/wiki/osu!supporter "osu!supporter") |
-| **Rosso** | Un membro del [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team "Global Moderation Team") o del [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team "Nomination Assessment Team") |
+| **Giallo** | [osu!supporter](/wiki/osu!supporter) |
+| **Rosso** | Un membro del [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) o del [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) |
 | **Verde** | Una linea contenente il tuo nome o certe parole impostate da te per farti "highlight". Una copia di tale messaggio sarà inviata anche in un canale dedicato, `#highlight`, dove sono contenute tutte le linee di questo genere. |
 | **Blu** | Messaggio Privato (PM) |
-| **Ciano** | [peppy](https://osu.ppy.sh/users/2 "peppy"), il creatore di osu! |
-| **Rosa** | [BanchoBot](/wiki/BanchoBot "BanchoBot") |
+| **Ciano** | [peppy](https://osu.ppy.sh/users/2), il creatore di osu! |
+| **Rosa** | [BanchoBot](/wiki/BanchoBot) |
 
 - Clicca su `Show Ticker` per mostrare l'ultimo messaggio della chat console appena viene inviato in basso allo schermo mentre la Chat Console è nascosta.
 - Clicca su `Auto-Hide` per nascondere automaticamente la chat console mentre giochi (escludendo le intro, le outro e le pause della beatmap).
@@ -24,7 +24,7 @@ Puoi premere `F8` o cliccare il pulsante `Show Chat` situato in basso a destra p
 
 ## Chat Console estes
 
-*La [osu!academy](/wiki/osu!academy "osu!academy")) ha trattato questo argomento ne [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII), assieme al [Multiplayer](/wiki/Multi "Multiplayer").*
+*La [osu!academy](/wiki/osu!academy) ha trattato questo argomento ne [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII), assieme al [Multiplayer](/wiki/Multi).*
 
 Da gran parte delle schermate è possibile accedere alla chat console estesa premendo `F9` o su `Online Users`. In aggiunta alla chat console, la chat console estesa mostra nei due terzi superiori dello schermo una lista di pannelli, che mostrano informazioni riguardanti gli utenti al momento online
 

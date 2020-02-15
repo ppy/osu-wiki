@@ -16,13 +16,13 @@ Pudes ver los círculos en la pantalla inferior, y en la pantalla superior tiene
 
 ### ¿Cómo puedo jugar?
 
-**Explicación completa: [osu! Standard](/wiki/Game_Modes/osu!)**
+*Explicación completa: [osu! Standard](/wiki/Game_Modes/osu!)*
 
 Aunque la mayoría de los usuarios de PC no tiene una pantalla táctil a su disposición, este juego fue hecho para ser jugable con un ratón normal, así como cualquier número de dispositivos de entrada que puedas imaginar. Los diferentes estilos de juego pueden ser encontrados en [ésta](/wiki/Play_Styles) página. Existen algunas canciones que prolongan los límites del ratón normal (y de ti), pero todos los beatmaps ([rankeados](/wiki/Beatmaps) y [aprobados](/wiki/Beatmaps)) han sido probados y (la mayoría) son posibles de pasar solo con un ratón.
 
 #### Lo Básico del Juego
 
-**Tutorial:** [Tutorial Origina (Incluido en la versión de osu! para PC)](https://osu.ppy.sh/beatmapsets/3756), [Version Rankeada del beatmap](https://osu.ppy.sh/beatmapsets/19928)
+*Tutorial: [Tutorial Origina (Incluido en la versión de osu! para PC)](https://osu.ppy.sh/beatmapsets/3756), [Version Rankeada del beatmap](https://osu.ppy.sh/beatmapsets/19928)*
 
 El juego pone énfasis en:
 
@@ -95,7 +95,7 @@ Esta es la interfaz del estilo de juego osu! Standard.
 
 ### ¿Qué es "Taiko"?
 
-**Explicación completa: [Taiko](/wiki/Game_Modes/osu!taiko)**
+*Explicación completa: [Taiko](/wiki/Game_Modes/osu!taiko)*
 
 ![](/wiki/shared/Interface_taiko.jpg)
 
@@ -147,7 +147,7 @@ Puedes configurar los botones del teclado como te parezca cómodo, desde la pest
 
 ![](/wiki/shared/Interface_ctb.jpg)
 
-**Explicación completa: [Catch the Beat](/wiki/Game_Modes/osu!catch)**
+*Explicación completa: [Catch the Beat](/wiki/Game_Modes/osu!catch)*
 
 - Catch the Beat es el segundo modo de juego especial añadido, después de Taiko.
 - En lugar de hacer clic en los círculos, ahora tienes la tarea de mover al [catcher](/wiki/Glossary) (recolector) en la parte inferior de la pantalla mientras que frutas caen desde arriba.
@@ -163,7 +163,7 @@ Si el mod [relax](/wiki/Game_Modifiers) es usado, el catcher se controla moviend
 
 ![](/wiki/shared/Interface_mania.jpg)
 
-**Explicación completa: [osu!mania](/wiki/Game_Modes/osu!mania)**
+*Explicación completa: [osu!mania](/wiki/Game_Modes/osu!mania)*
 
 - osu!mania es el tercer modo de juego especial añadido, después de Taiko y CtB.
 - Este modo de juego ha sido inmensamente utilizado en casi todos los grandes juegos de ritmo que requieren una buena coordinación mano/pierna, donde las notas siguen el ritmo dependiendo del BPM y la dificultad, y el jugador debe presionar la tecla correcta en el tiempo correcto para una nota específica. Aunque el modo de juego fue originalmente hecho como imitación del estilo de Beatmania, cambiando el número de teclas, puedes hacer que se vea más como Guitar Hero (5 teclas) o Dance Dance Revolution (4 teclas), etc. Actualmente, puedes establecerlo entre 4 y 8 teclas.
@@ -239,7 +239,7 @@ Disposición de teclas*de Izquierda a Derecha* (Para el estilo Beatmania IIDX)
 
 ### ¿Donde puedo encontrar beatmaps?
 
-**Explicación detallada de los beatmaps: [Beatmaps](/wiki/Beatmaps)**
+*Explicación detallada de los beatmaps: [Beatmaps](/wiki/Beatmaps)*
 
 Puedes encontrarlos en la página principal bajo el nombre de "[Beatmaps](https://osu.ppy.sh/beatmapsets)".
 

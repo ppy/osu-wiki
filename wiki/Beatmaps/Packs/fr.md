@@ -14,7 +14,7 @@ Il est à noter que la plupart des packs ont :
 Les packs Beatmaps sont divisés en 4 catégories :
 
 | Catégorie | Types de Beatmap |
-| --- | --- |
+| :-- | :-- |
 | Standard | Chansons classées ou approuvées |
 | Chart | bimensuel Chart challenge songs |
 | Thème | Thème général des chansons |

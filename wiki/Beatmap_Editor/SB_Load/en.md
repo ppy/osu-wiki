@@ -15,7 +15,7 @@ It's best if a map never exceeds 5x SB Load. This ensures that the map is viewab
 
 ## Suggestions for Reduction
 
-From [Reducing SB Load](https://osu.ppy.sh/forum/viewtopic.php?f=20&t=55177):
+From [Reducing SB Load](https://osu.ppy.sh/community/forums/topics/55177):
 
 Here are some important suggestions for reducing the strain that a storyboard can put on a player's computer. I apologize that this is a bit wordy, the actual ideas aren't that complicated, I just talk a lot. I'll bold the important bits.
 

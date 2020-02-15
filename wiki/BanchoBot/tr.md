@@ -25,7 +25,7 @@ BanchoBot'u kullanmak için, sohbete `/help` yazın; herhangi bir sekmede olur. 
 BanchoBot sekmesinde, `/bb` öneki gerekli değildir.`/bb` ile başlayan bütün komutlar sekme zaten açılmamışsa BanchoBot ile bir sekme açar; öbür türlü yazdığınız komut sanki BanchoBot sekmesinde yazmışsınız gibi gösterilir. Bütün yanıtlar BanchoBot sekmesinden alınır.
 
 | Komut | Argüman(lar) | Etki | Örnek | Örnek Cevap |
-| --- | --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- | :-- |
 | `WHERE` | `<kullanıcı>` | Seçilen oyuncunun dünyanın neresinde olduğunu gösterir. | /bb WHERE Sudokyu | "Sudokyu is in Japan" |
 | `STATS` | `<kullanıcı>` | Seçilen oyuncunun durumunu ve değerlerini gösterir. | /bb STATS ThomasTheTrain | "Stats for ThomasTheTrain is Playing: Score: 20,255,242 (#918000), Plays:  160 (lv24), Accuracy: 97.42% |
 | `FAQ` | `[dil:]<etiket>` | Seçilen etiket hakkında bilgi verir. Kullanılabilir etiketlerin listesini görmek için `list` etiketini kullanın. | /bb FAQ wiki / /bb FAQ jp:wiki | "The [osu!wiki](https://osu.ppy.sh/wiki) is currently moved to GitHub: [ppy/osu-wiki](https://github.com/ppy/osu-wiki) / [osu!のWikiページ](https://osu.ppy.sh/wiki) - さらに良いページにしていきましょう! |

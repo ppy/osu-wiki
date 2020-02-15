@@ -11,12 +11,12 @@ Fast überall in osu! kann die Chatkonsole durch das Betätigen der `F8`-Taste o
 | :-- | :-- |
 | **Weiß** | Du |
 | **Bleich** | Andere Spieler |
-| **Gelb** | [osu!-Supporter](/wiki/osu!supporter "osu!-Supporter") |
-| **Rot** | Mitglied des [Global Moderation Teams](/wiki/People/The_Team/Global_Moderation_Team "Global Moderation Team") oder des [Nomination Assessment Teams](/wiki/People/The_Team/Nomination_Assessment_Team "Nomination Assessment Team") |
+| **Gelb** | [osu!-Supporter](/wiki/osu!supporter) |
+| **Rot** | Mitglied des [Global Moderation Teams](/wiki/People/The_Team/Global_Moderation_Team) oder des [Nomination Assessment Teams](/wiki/People/The_Team/Nomination_Assessment_Team) |
 | **Grün** | Die Nachricht enthält entweder deinen Benutzernamen oder eines deiner "Highlightwörter". Die Nachricht wird zusätzlich im Channel `#highlight` aufgelistet. |
 | **Blau** | Private Nachricht |
-| **Türkis** | [peppy](https://osu.ppy.sh/users/2 "peppy"), der Ersteller von osu! |
-| **Pink** | [BanchoBot](/wiki/BanchoBot "BanchoBot") |
+| **Türkis** | [peppy](https://osu.ppy.sh/users/2), der Ersteller von osu! |
+| **Pink** | [BanchoBot](/wiki/BanchoBot) |
 
 - Klicke auf den `Show Ticker`-Tab, um die neusten Nachrichten am unteren Bildschirmrand anzuzeigen, selbst wenn die Chatkonsole nicht sichtbar ist.
 - Klicke auf den `Auto-Hide`-Tab, um die Chatkonsole während des Spielens automatisch zu schließen. Die Konsole kann dann nur während des Intros bzw. Outros oder in Pausen offen sein.

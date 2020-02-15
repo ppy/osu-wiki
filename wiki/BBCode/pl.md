@@ -317,7 +317,7 @@ Jeżeli obraz nie znajduje się pod danym adresem, załączenie go nie będzie m
 
 **Nie dodawaj obrazów, używając lokalnej ścieżki dostępu!** Wskazanie `C:\Użytkownicy\[nazwa]\Obrazy\obraz.jpg` (lub innej podobnej) **nie zadziała**
 
-Prosimy o dodawanie obrazów z zaufanych stron internetowych, takich jak [imgur](https://imgur.com/ "imgur") czy [puush](https://puush.me/ "puush"). Gdy obraz zostanie przesłany, skopiuj bezpośredni odnośnik do obrazka i wstaw je między znacznik otwierający a zamykający. Miej na uwadze, że niektóre strony nie podają bezpośrednich odnośników do obrazów (tzw. hotlinków). Mimo to, większość z nich nie ma trudności z podawaniem bezpośrednich odnośników, ponieważ opierają się one na oferowaniu darmowego hostingu grafiki.
+Prosimy o dodawanie obrazów z zaufanych stron internetowych, takich jak [imgur](https://imgur.com) czy [puush](https://puush.me). Gdy obraz zostanie przesłany, skopiuj bezpośredni odnośnik do obrazka i wstaw je między znacznik otwierający a zamykający. Miej na uwadze, że niektóre strony nie podają bezpośrednich odnośników do obrazów (tzw. hotlinków). Mimo to, większość z nich nie ma trudności z podawaniem bezpośrednich odnośników, ponieważ opierają się one na oferowaniu darmowego hostingu grafiki.
 
 - Dedykowany przycisk: ![Przycisk dla obrazka](img/image.png)
 - Ważne:

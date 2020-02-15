@@ -15,7 +15,7 @@ Untuk menggunakan perintah BanchoBot, anda harus menggunakan awalan `!` setiap s
 *Untuk daftar perintah yang menggunakan slash (klien), kunjungi artikel [Konsol Obrolan](/wiki/Chat_Console#daftar-perintah).*
 
 | Perintah | Penjelas | Deskripsi | Contoh Masukan | Contoh Tanggapan |
-| --- | --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- | :-- |
 | `HELP` | Tidak ada | Menampilkan daftar perintah yang tersedia | `!help` | This list |
 | `ROLL` | `[number]` | Secara acak akan mendapatkan nilai hingga ada nomor yang terpilih (standar adalah 100). | `!roll 1000` | "Nathanael rolls 789 point(s)" |
 | `STATS` | `<user_name>` | Menampilkan statistik pengguna bergantung pada mode yang mereka mainkan | `!stats peppy` | "Stats for [peppy](https://osu.ppy.sh/users/2): Score: 412,018,739 (#94718), Plays: 7073 (lv65), Accuracy: 87.31%" |

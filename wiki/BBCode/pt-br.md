@@ -347,7 +347,7 @@ As imagens podem ser mostradas de qualquer fonte, desde que ela realmente exista
 **Não tente linkar uma imagem diretamente do seu computador**
 Por exemplo, utilizar `C:\Users\Name\Pictures\image.png` **não irá funcionar**!
 
-Por favor, envie as suas imagens para sites de compartilhamento de imagens bem conceituados como o  [imgur](https://imgur.com/ "imgur") or [puush](https://puush.me/ "puush").
+Por favor, envie as suas imagens para sites de compartilhamento de imagens bem conceituados como o  [imgur](https://imgur.com) or [puush](https://puush.me).
 Uma vez que a imagem seja enviada com sucesso, copie e cole o link direto entre as tags `LINK`.
 
 Note também que alguns sites não gostam de links diretos para as imagens deles (também conhecidos como *hotlinks*).

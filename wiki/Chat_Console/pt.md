@@ -15,12 +15,12 @@ Na maioria das telas no osu! você pode pressionar `F8` ou clicar no botão `Mos
 | :-- | :-- |
 | **White** | Você |
 | **Pale** | Outros usuários normais |
-| **Yellow** | [osu!supporter](/wiki/osu!supporter "osu!supporter") |
-| **Red** | Membro do [GMT](/wiki/People/The_Team/Global_Moderation_Team "Global Moderation Team") ou [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team "Nomination Assessment Team") |
+| **Yellow** | [osu!supporter](/wiki/osu!supporter) |
+| **Red** | Membro do [GMT](/wiki/People/The_Team/Global_Moderation_Team) ou [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) |
 | **Green** | Contém seu nome ou palavras chave que você adicionou para ativar um "highlight" (destacar). Uma copia da mensagem vai aparecer em um canal dedicado, `#highlight`, que contém todas essas linhas. |
 | **Blue** | Mensagem Privada |
-| **Cyan** | [peppy](https://osu.ppy.sh/users/2 "peppy"), o criador do osu! |
-| **Pink** | [Banchobot](/wiki/BanchoBot "BanchoBot") |
+| **Cyan** | [peppy](https://osu.ppy.sh/users/2), o criador do osu! |
+| **Pink** | [Banchobot](/wiki/BanchoBot) |
 
 - Clique na caixa `Show Ticker` para exibir a mensagem mais recente do chat na parte inferior da tela quando o console de chat não estiver visível.
 - Clique na caixa `Auto-Hide` para ocultar automaticamente o chat durante o jogo (com excessão da introdução, encerramento e breaks do beatmap).

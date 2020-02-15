@@ -12,13 +12,13 @@ Les cercles sont sur l'écran du bas, et l'histoire sur l'écran du haut. Chaque
 
 ### Comment jouer ?
 
-**Explication complète: [osu!](/wiki/Game_Modes/osu!)**
+*Explication complète: [osu!](/wiki/Game_Modes/osu!)*
 
 La majorité des joueurs n'ayant pas d'écran tactile, le jeu a été fait pour être joué avec une souris, ainsi que l'utilisation d'une variété d'appareils de pointage. Différents styles de jeu peuvent être trouvés sur la page des [styles de jeu](/wiki/Play_Styles). Il y a quelques musiques qui vont pousser la souris et le joueur à leurs limites, mais toutes les beatmaps (classées ou approuvées) ont été testées et (la plupart) sont passables en utilisant seulement la souris.
 
 #### Bases du gameplay
 
-**Tutoriel: [osu! tutorial (new beginnings)](https://osu.ppy.sh/beatmapsets/1011011)**
+*Tutoriel: [osu! tutorial (new beginnings)](https://osu.ppy.sh/beatmapsets/1011011)*
 
 Le gameplay met l'accent sur:
 
@@ -94,7 +94,7 @@ Cliquez sur le bouton `Mode` pour **ouvrir une liste des modes de jeu disponible
 
 ### Qu'est-ce qu'osu!taiko?
 
-**Expliquation complète: [osu!taiko](/wiki/Game_Modes/osu!taiko)**
+*Expliquation complète: [osu!taiko](/wiki/Game_Modes/osu!taiko)*
 
 ![osu!taiko Interface](/wiki/shared/Interface_taiko.jpg "Interface osu!taiko")
 
@@ -164,7 +164,7 @@ Les contrôleurs *TaTaCon* ont d'abord été créés pour *Taiko no Tatsujin* et
 
 ### Qu'est-ce qu'osu!catch ?
 
-**Explication complète: [osu!catch](/wiki/Game_Modes/osu!catch)**
+*Explication complète: [osu!catch](/wiki/Game_Modes/osu!catch)*
 
 ![Interface d'osu!catch](/wiki/shared/Interface_ctb.jpg "Interface osu!catch")
 
@@ -224,7 +224,7 @@ La position du curseur n'est pas utilisée en jouant normalement. Si le mod [Rel
 
 ### Qu'est-ce qu'osu!mania?
 
-**Explication complète: [osu!mania](/wiki/Game_Modes/osu!mania)**
+*Explication complète: [osu!mania](/wiki/Game_Modes/osu!mania)*
 
 ![Interface d'osu!mania](/wiki/shared/Interface_mania.jpg "Interface osu!mania")
 
@@ -306,9 +306,9 @@ Configuration des touches *De Gauche à Droite* (à la *Beatmania IIDX*)
 
 ## Notation
 
-**Une explication détaillée des notations peut être trouvée sur la page de chaque mode de jeu ou sur [la page des Scores](/wiki/Score).**
+*Une explication détaillée des notations peut être trouvée sur la page de chaque mode de jeu ou sur [la page des Scores](/wiki/Score).*
 
-**Une explication détaillée des calculs de la précision peut être trouvée sur la page de chaque mode de jeu ou sur [the Accuracy page](/wiki/Accuracy).**
+*Une explication détaillée des calculs de la précision peut être trouvée sur la page de chaque mode de jeu ou sur [the Accuracy page](/wiki/Accuracy).*
 
 ### Grades
 
@@ -385,7 +385,7 @@ Pour les questions concernant les pp, veuillez d'abord consulter [la page du wik
 
 #### Où trouver et télécharger les beatmaps?
 
-**Explication détaillée sur les beatmaps: [Beatmaps](/wiki/Beatmaps)**
+*Explication détaillée sur les beatmaps: [Beatmaps](/wiki/Beatmaps)*
 
 La page principale, sous le nom *[Beatmaps](https://osu.ppy.sh/beatmapsets)*. N'oubliez juste pas de vous connecter avec un *compte osu!* auparavant pour pouvoir télécharger les beatmaps sur le site.
 
@@ -431,7 +431,7 @@ Depuis l'icône *Entrées* dans les *Options* comme mo,tré ci-dessus, sous la s
 
 #### Game over ? Qu'est-ce que j'ai raté ?
 
-**Explication complète: [Replay](/wiki/Replay)**
+*Explication complète: [Replay](/wiki/Replay)*
 
 Après avoir raté une beatmap, appuyer sur la touche `F1` relance un replay de la partie. Le replay se termine quand l'écran noircit, avec le osu!logo au milieu, plutôt que l'écran de game over. Pour revoir le replay encore une fois, maintenez la touche grave/tilde (\`/~) (peut être changé dans les Options; dans *Configurer les touches* dans **Quick Retry (hold briefly)**) out `Ctrl`+`R` pour un moment.
 
@@ -439,7 +439,7 @@ Comme ce n'est pas un écran de replay standard, utilisez `Esc` pour retourner �
 
 #### Est-ce qu'osu! a des raccourcis clavier ?
 
-**Liste complète: [Shortcut key reference](/wiki/Shortcut_key_reference)**
+*Liste complète: [Shortcut key reference](/wiki/Shortcut_key_reference)*
 
 Appuyer sur la touche `Insert` (pour la configuration par défaut) cachera, mettra en pause (si en partie) et rendra osu! muet dans la barre latérale de *Windows*. Trouvez le *osu!logo* dans la barre latérale *Windows*, et cliquez dessus pour retourner dans osu!, dans l'état dans lequel vous l'avez laissé. Elle est appelée la **Boss key**, et peut être modifiée dans `Configurer les touches` (dans `Options`, sous la section *Clavier*), localisée à la fin de la section *Universal*.
 
@@ -451,7 +451,7 @@ Tout le dossier `osu!`, ce qui inclut les fichiers cachés. Après avoir lancé 
 
 #### Puis-je utiliser osu! sur un téléphone ?
 
-**iste complète: [Game Modes under External Ports section](/wiki/Game_Modes)**
+*Liste complète: [Game Modes under External Ports section](/wiki/Game_Modes)*
 
 Le osu! actuel ne supporte pas les téléphones.
 

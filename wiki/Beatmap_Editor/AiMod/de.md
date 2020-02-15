@@ -31,13 +31,13 @@ AiMod hilft neuen Mappern ihre Beatmaps zu modden, indem es grundlegende Problem
 #### All
 
 | Nachricht | Erklärung | Lösung |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | No problems were found in this map! | AiMod konnte keine Probleme mit der Beatmap finden! | Man kann die Beatmap mithilfe von BSS hochladen und damit osu!moddern erlauben weitere Fehler und Probleme der Beatmap zu finden.|
 
 #### Meta
 
 | Nachricht | Erklärung | Lösung |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | HP rate for Easy/Normal is suggested to be at least 4. | Nur bei osu!mania | In den Song Einstellungen muss "HP rate" auf 4 oder höher gesetzt werden. |
 | HP rate for Hard and up is suggested to be at least 7. | Nur bei osu!mania | In den Song Einstellungen muss "HP rate" auf 7 oder höher gesetzt werden. |
 | OD rate for maps with few sliders is suggested to be at least 7. | Nur bei osu!mania | In den Song Einstellungen muss die "OD rate" auf 7 oder höher gesetzt werden. |
@@ -48,13 +48,13 @@ AiMod hilft neuen Mappern ihre Beatmaps zu modden, indem es grundlegende Problem
 #### Compose
 
 | Nachricht | Erklärung | Lösung |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | These two objects are less than 10ms apart! | Zwei Hitobjekte sind zu nah beieinander. Die Spieler können nicht so schnell klicken. | Die zwei Hitobjekte müssen entweder voneinander verschoben oder gelöscht werden.|
 
 #### Design
 
 | Nachricht | Erklärung | Lösung |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | Your beatmap has no background image. | Die Beatmap hat kein Hintergrundbild! Das Video gilt nicht als Hintergrundbild, da der Spieler die Videos nicht unbedingt herunterladen muss! | Ein angemessenes Bild muss als Hintergrundbild genutzt werden. |
 
 ### Warnings
@@ -62,7 +62,7 @@ AiMod hilft neuen Mappern ihre Beatmaps zu modden, indem es grundlegende Problem
 #### Compose
 
 | Nachricht | Erklärung | Lösung |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | This slider moves in an abnormal way. | Der Slider ist mit der Maus entweder nicht verfolgbar oder spielbar. | Der Slider sollte verändert oder entfernt werden. |
 | This combo is very long. Consider splitting it up. | Die Länge der Kombo kann die Schwierigkeit der Beatmap beeinflussen, sowie die Anzahl der Früchte, die in osu!catch auf der Platte gestapelt werden. | Die problematischen Kombos müssen aufgespaltet werden. (Es ist empfohlen, dass die Länge der Kombos höchstens 15-18 sein sollten.) |
 | This spinner appears onscreen later than objects which follow it. | Objekte überlappen den Spinner. Das könnte daran liegen, dass die AR zu niedrig ist und/oder die Objekte zu nah am Spinner sind. | Die Länge des Spinners muss verändert werden und/oder die darauffolgenden Objekte entfernt werden. |
@@ -83,7 +83,7 @@ AiMod hilft neuen Mappern ihre Beatmaps zu modden, indem es grundlegende Problem
 #### Design
 
 | Nachricht | Erklärung | Lösung |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | Background image is larger than 1366x768. | Das Hintergrundbild ist zu groß. | Das Bild muss durch ein kleineres Bild ersetzt werden. |
 | This map may need an epilepsy warning, as it contains frequently toggled storyboards. | Die Beatmap hat vieleicht ein Storyboard mit Inhalten, die von Epiletikern nicht verkraftet werden kann. | Überprüfe dein Storyboard und aktiviere die Epilepsie Warnung. |
 | File missing: | Eine Datei fehlt. | Die Datei sollte wieder hinzugefügt werden oder aus dem Projekt vollständig entfernt werden. |
@@ -94,7 +94,7 @@ AiMod hilft neuen Mappern ihre Beatmaps zu modden, indem es grundlegende Problem
 #### Timing
 
 | Nachricht | Erklärung | Lösung |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | All timing sections have a volume below 5%. | | |
 | This beatmap is over 6 minutes long. Consider shortening it if it's not a marathon-style map. | | |
 | Your beatmap is shorter than 45 seconds. Consider making it longer. | | |
@@ -118,7 +118,7 @@ AiMod hilft neuen Mappern ihre Beatmaps zu modden, indem es grundlegende Problem
 #### Meta
 
 | Nachricht | Erklärung | Lösung |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | Stack leniency is larger than 0.9 or smaller than 0.3. | | |
 | Romanised artist contains unicode. | | |
 | Romanised title contains unicode. | | |
@@ -133,7 +133,7 @@ AiMod hilft neuen Mappern ihre Beatmaps zu modden, indem es grundlegende Problem
 #### Mapset
 
 | Nachricht | Erklärung | Lösung |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | Artist conflicts with {0} diff. | | |
 | Audio file conflicts with {0} diff. | | |
 | Countdown conflicts with {0} diff. | | |

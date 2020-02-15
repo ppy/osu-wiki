@@ -11,12 +11,12 @@ Desde la mayoría de las pantallas en osu! puedes presionar `F8` o hacer clic en
 | :-- | :-- |
 | **Blanco** | Tú. |
 | **Amarillo pastel** | No supporter. |
-| **Amarillo** | [osu!supporter](/wiki/osu!supporter "osu!supporter"). |
-| **Rojo** | Miembro del [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team "Global Moderation Team") o [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team "Nomination Assessment Team"). |
+| **Amarillo** | [osu!supporter](/wiki/osu!supporter). |
+| **Rojo** | Miembro del [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) o [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team). |
 | **Verde** | La línea contiene su nombre o ciertas palabras clave que ha agregado para activar un "resaltado". También aparecerá una copia del mensaje en un canal dedicado, `#highlight`, que contiene todas estas líneas. |
 | **Azul** | Mensaje privado. |
-| **Cian** | [peppy](https://osu.ppy.sh/users/2 "peppy"), el creador de osu!. |
-| **Rosa** | [BanchoBot](/wiki/BanchoBot "BanchoBot"). |
+| **Cian** | [peppy](https://osu.ppy.sh/users/2), el creador de osu!. |
+| **Rosa** | [BanchoBot](/wiki/BanchoBot). |
 
 - Haz clic en el cuadro `Show Ticker` para mostrar el mensaje de chat más nuevo en la parte inferior de la pantalla cuando la consola de chat no esté visible.
 - Haz clic en el cuadro `Auto-Hide` para ocultar automáticamente el chat durante el juego (excluyendo la introducción, el outro y los descansos del beatmap).
@@ -24,7 +24,7 @@ Desde la mayoría de las pantallas en osu! puedes presionar `F8` o hacer clic en
 
 ## Consola de chat ampliada
 
-*[osu!academy](/wiki/osu!academy "osu!academy") cubrió esta página en el [Episodio 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) junto con [Multijugador](/wiki/Multi "Multiplayer").*
+*[osu!academy](/wiki/osu!academy) cubrió esta página en el [Episodio 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) junto con [Multijugador](/wiki/Multi).*
 
 Desde la mayoría de las pantallas en osu! puedes presionar `F9` o hacer clic en el botón `Online Users` en la parte inferior derecha de la pantalla de introducción para alternar la consola de chat extendida. Además de la Consola de chat, el Chat ampliado superpone una lista de paneles en los dos tercios restantes de la pantalla, mostrando información sobre los usuarios que están actualmente conectados.
 
