@@ -11,12 +11,12 @@
 | :-- | :-- |
 | **ขาว** | **คุณ**นั่นแหละ |
 | **เหลืองอ่อน** | ไม่ใช่ Supporter |
-| **เหลือง** (เข้มกว่าข้างบน) | [osu!supporter](/wiki/osu!supporter "osu!supporter") |
-| **แดง** | สมาชิก [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team "Global Moderation Team") หรือ [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team "Nomination Assessment Team") |
+| **เหลือง** (เข้มกว่าข้างบน) | [osu!supporter](/wiki/osu!supporter) |
+| **แดง** | สมาชิก [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) หรือ [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) |
 | **เขียวเข้ม** | บรรทัดที่มีชื่อของคุณหรือคำที่คุณกำหนดไว้เพื่อให้ Highlight (เหมือนกับการพิมพ์ชื่อของคุณในแชท) ข้อความที่ถูก Highlight จะไปปรากฏในช่อง `#highlight` |
 | **น้ำเงิน** | คนที่ทักคุณในข้อความส่วนตัว (PM) |
-| **ฟ้า** | [peppy](https://osu.ppy.sh/users/2 "peppy") หรือผู้สร้าง osu! |
-| **ชมพู** | [BanchoBot](/wiki/BanchoBot "BanchoBot") |
+| **ฟ้า** | [peppy](https://osu.ppy.sh/users/2) หรือผู้สร้าง osu! |
+| **ชมพู** | [BanchoBot](/wiki/BanchoBot) |
 
 - คลิกที่ปุ่ม `Show Ticker` เพื่อแสดงข้อความล่าสุดในห้องแชทล่าสุดที่คุณเข้า เมื่อหน้าต่างพูดคุยถูกย่อลง
 - คลิกที่ปุ่ม `Auto-Hide` เพื่อย่อหน้าต่างพูดคุยอัตโนมัติเมื่อคุณกำลังเล่นอยู่ (ยกเว้นตอน Intro, Outro และช่วงเวลาพักของบีทแมพ

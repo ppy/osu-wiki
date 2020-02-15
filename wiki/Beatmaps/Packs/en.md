@@ -18,7 +18,7 @@ It is worth noting that the most packs are:
 Beatmaps packs are split into 4 categories:
 
 | Category | Beatmap types |
-| --- | --- |
+| :-- | :-- |
 | Standard | Ranked or Approved songs |
 | Chart | Fortnightly Chart challenge songs |
 | Theme | General theme of the songs |

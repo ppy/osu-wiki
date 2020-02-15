@@ -11,12 +11,12 @@ Vous pouvez afficher la console de chat sur la plupart des écrans d'osu! en app
 | :-- | :-- |
 | **Blanc** | Vous |
 | **Jaune** | Les autres utilisateurs |
-| **Jaune** | [osu!supporter](/wiki/osu!supporter "osu!supporter") |
+| **Jaune** | [osu!supporter](/wiki/osu!supporter) |
 | **Rouge** | BAT or GMT |
 | **Vert** | Une ligne contenant votre pseudo ou un mot que vous avez rajouté à votre list d'"highlight". Une copie de cette ligne apparaîtra aussi dans un channel dédié à cela, `#highlight`. |
 | **Bleu** | Un message privé |
-| **Bleu** | [peppy](https://osu.ppy.sh/users/2 "peppy"), le créateur d'osu! |
-| **Rose** | [BanchoBot](/wiki/BanchoBot "BanchoBot") |
+| **Bleu** | [peppy](https://osu.ppy.sh/users/2), le créateur d'osu! |
+| **Rose** | [BanchoBot](/wiki/BanchoBot) |
 
 - Cliquez sur `Show Ticker` pour afficher le dernier message lorsque la console de chat n'est pas ouverte.
 - Cliquez sur `Auto-Hide` pour cacher automatiquement la console de chat pendant les phases de jeu (Sauf pendant l'intro, l'outro et les pauses).
@@ -24,7 +24,7 @@ Vous pouvez afficher la console de chat sur la plupart des écrans d'osu! en app
 
 ## La console de chat étendue
 
-*L'[osu!academy](/wiki/osu!academy "osu!academy") à déjà abordé ce sujet ici : [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) (en anglais)*
+*L'[osu!academy](/wiki/osu!academy) à déjà abordé ce sujet ici : [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) (en anglais)*
 
 Sur la plupart des écrans du jeu vous pouvez cliquer sur `F9` ou sur `Online Users` pour afficher la console de chat étendue. en plus de la console de chat, le chat étendue affiche les utilisateurs connectés.
 

@@ -16,13 +16,13 @@ Kamu dapat melihat lingkaran-lingkaran di layar bawah, dan di layar atas terdapa
 
 ### Bagaimana cara memainkannya ?
 
-**Penjelasan lebih lanjut: [osu! Standard](/wiki/Game_Modes/osu!)**
+*Penjelasan lebih lanjut: [osu! Standard](/wiki/Game_Modes/osu!)*
 
 Ketika sebagian besar pengguna PC tidak menggunakan layar sentuh, permainan ini dibuat agar dapat dimainkan dengan menggunakan mouse biasa, begitu pula dengan alat-alat lainnya. Jenis permainan yang berbeda dapat dilihat di halaman [Play Styles](/wiki/Play_Styles) . Ada beberapa lagu yang dapat melewati batas dari kemampuan mouse biasa (dan kamu), tapi semua (peringkat dan disetujui) beatmap telah di uji coba dan (hampir semua) dapat dilewati dengan mouse.
 
 ### Dasar-dasar permainan
 
-**Tutorial:** [(Menjadi satu dengan osu! PC) Tutorial asli](https://osu.ppy.sh/beatmapsets/3756), [Beatmap versi ranked](https://osu.ppy.sh/beatmapsets/19928)
+*Tutorial: [(Menjadi satu dengan osu! PC) Tutorial asli](https://osu.ppy.sh/beatmapsets/3756), [Beatmap versi ranked](https://osu.ppy.sh/beatmapsets/19928)*
 
 Permainan ini menekankan kepada :
 
@@ -93,7 +93,7 @@ Ayo kita belajar tentang objek-objek yang dapat di hit, ok ?
 
 ### Apa itu"Taiko"?
 
-**Penjelasan lebih lengkap: [Taiko](/wiki/Game_Modes/osu!taiko)**
+*Penjelasan lebih lengkap: [Taiko](/wiki/Game_Modes/osu!taiko)*
 
 ![](/wiki/shared/Interface_taiko.jpg)
 
@@ -145,7 +145,7 @@ Kamu dapat mengatur tombol keyboard yang kamu sukai, dalam *Input tab* di dalam 
 
 ![](/wiki/shared/Interface_ctb.jpg)
 
-**Penjelasan lebih lengkap: [Catch the Beat](/wiki/Game_Modes/osu!catch)**
+*Penjelasan lebih lengkap: [Catch the Beat](/wiki/Game_Modes/osu!catch)*
 
 - Catch the Beat (Tangkap Beat-nya) adalah mode permainan spesial kedua yang ditambahkan, setelah mode permainan Taiko.
 - Selain menekan lingkaran, kamu sekarang ditugaskan untuk mengarahkan penangkap dibawah layar sambil menangkap buah-buahan yang jatuh dari atas layar.
@@ -161,7 +161,7 @@ Jika mod [Relax](/wiki/Game_Modifiers) digunakan, maka kontrol dari penangkap da
 
 ![](/wiki/shared/Interface_mania.jpg)
 
-**Penjelasan lebih lengkap: [osu!mania](/wiki/Game_Modes/osu!mania)**
+*Penjelasan lebih lengkap: [osu!mania](/wiki/Game_Modes/osu!mania)*
 
 - osu!mania adalah mode permainan spesial ketiga yang ditambahkan, setelah mode permainan Taiko dan CtB.
 - Mode ini telah digunakan secara luas dalam mayoritas ritme game yang membutuhkan koordinasi tangan/kaki yang baik, dimana note beat dengan kuantitas tertentu tergantung oleh BPM (beat per menit) dan tingkat kesulitan permainan, dan pemain harus menekan tombol yang tepat untuk note beat tepat pada waktunya. Meskipun mode permainan ini pertama kali dibuat untuk meniru cara bermain Beatmania, bagaimanapun, dengan mengubah jumlah *key* yang ada, akan membuatnya menjadi seperti Guitar Hero (5) atau Dance Dance Revolution (4) dan lain-lain. Saat ini, kamu dapat mengganti key-nya dari 4 hingga 8 key.

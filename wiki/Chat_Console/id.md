@@ -15,12 +15,12 @@ Di dalam osu! kamu dapat menekan tombol `Show Chat` di pojok kanan bawah layar a
 | :-- | :-- |
 | Putih | Kamu |
 | Kuning Pucat | Orang Lain |
-| Kuning | [osu!supporter](/wiki/osu!supporter "osu!supporter")
-| Merah | Anggota [Tim Moderasi Global](/wiki/People/The_Team/Global_Moderation_Team "Tim Moderasi Global") atau [Tim Penjamin Kualitas](/wiki/Glossary#quality-assurance-team "Quality_Assurance_Team")
+| Kuning | [osu!supporter](/wiki/osu!supporter)
+| Merah | Anggota [Tim Moderasi Global](/wiki/People/The_Team/Global_Moderation_Team) atau [Tim Penjamin Kualitas](/wiki/Glossary#quality-assurance-team)
 | Hijau | Baris yang berisi nama pengguna anda atau berbagai kata kunci yang anda tambahkan ke daftar highlight. Salinan dari pesan itu juga akan muncul di channel yang terdedikasi untuk itu yaitu, `#highlight`. |
 | Biru | Pesan Pribadi |
-| Biru Terang | [peppy](https://osu.ppy.sh/users/2 "peppy"), pembuat osu! |
-| Merah Muda | [BanchoBot](/wiki/BanchoBot "BanchoBot") |
+| Biru Terang | [peppy](https://osu.ppy.sh/users/2), pembuat osu! |
+| Merah Muda | [BanchoBot](/wiki/BanchoBot) |
 
 - Klik `Show Ticker` untuk menampilkan pesan obrolan terbaru di bagian bawah layar pada saat konsol obrolan tidak terlihat/terbuka.
 - Klik `Auto-Hide` untuk menyembunykan konsol obrolan secara otomatis saat bermain (kecuali intro, outro dan jeda di beatmap).
@@ -28,7 +28,7 @@ Di dalam osu! kamu dapat menekan tombol `Show Chat` di pojok kanan bawah layar a
 
 ## Konsol Obrolan yang Diperluas
 
-*[osu!academy](/wiki/osu!academy "osu!academy") membuat dalam bentuk video [Episode 6 (6:52)](http://www.youtube.com/watch?v=cyYRl-a5xII) bersamaan dengan [Bermain Bersama](/wiki/Multi "Bermain Bersama").*
+*[osu!academy](/wiki/osu!academy) membuat dalam bentuk video [Episode 6 (6:52)](http://www.youtube.com/watch?v=cyYRl-a5xII) bersamaan dengan [Bermain Bersama](/wiki/Multi).*
 
 Kamu dapat menekan `F9` atau klik tombol `Online Users` di bagian bawah kanan layar untuk membuka Konsol Obrolan yang Diperluas. Selain konsol obrolan, juga menampilkan informasi berbagai macam pengguna yang sedang daring osu!
 

@@ -14,12 +14,12 @@ outdated: true
 | :-- | :-- |
 | **白色** | 你自己 |
 | **淡黄色** | 非 supporter 玩家 |
-| **黄色** | [osu!supporter](/wiki/osu!supporter "osu!supporter") 玩家 |
-| **红色** | [社区管理团队](/wiki/People/The_Team/Global_Moderation_Team "社区管理团队") 或 [质量保障团队](/wiki/Glossary#quality-assurance-team "质量保障团队") 的成员 |
+| **黄色** | [osu!supporter](/wiki/osu!supporter) 玩家 |
+| **红色** | [社区管理团队](/wiki/People/The_Team/Global_Moderation_Team) 或 [质量保障团队](/wiki/Glossary#quality-assurance-team) 的成员 |
 | **绿色** | 如果一行消息中出现你的用户名或者或者某个你添加的可触发高亮标记的关键字词，你的用户名就会被绿色的高亮标记。该高亮消息的副本也会以出现在 `#highlight` 频道的形式单独发送给你。 |
 | **蓝色** | 私信你的玩家 |
-| **蓝绿色** | osu! 的创造者 [peppy](https://osu.ppy.sh/users/2 "peppy") |
-| **粉色** | [BanchoBot](/wiki/BanchoBot "BanchoBot") 机器人 |
+| **蓝绿色** | osu! 的创造者 [peppy](https://osu.ppy.sh/users/2) |
+| **粉色** | [BanchoBot](/wiki/BanchoBot) 机器人 |
 
 - 点击 `Show Ticker` 按钮将在聊天面板不可见的情况下，在屏幕最底部一行显示当前频道里最新的消息 ；
 - 点击 `Auto-Hide` 按钮将在游戏时自动隐藏聊天面板 （除谱面的前奏、休息时段和结尾外）；
@@ -27,7 +27,7 @@ outdated: true
 
 ## 扩展聊天面板
 
-*[osu! 学院](/wiki/osu!academy "osu! 学院") [第 6 集 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII "该视频为英文。点击前往 YouTube") 介绍了该节和 [多人游戏](/wiki/Multi "多人游戏") 的内容 。*
+*[osu! 学院](/wiki/osu!academy) [第 6 集 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) 介绍了该节和 [多人游戏](/wiki/Multi) 的内容 。*
 
 你可以在 osu! 的绝大多数界面中按下 `F9` 或者在主屏幕按下屏幕右下角的 `Online users` 以打开扩展聊天面板。与聊天界面不同的是，在线玩家面板占用了屏幕的三分之二，展示着 osu! 目前在线玩家的一些信息。
 ![扩展聊天面板](img/ZH_CN-Chat_Console-Extended.png "扩展聊天面板")

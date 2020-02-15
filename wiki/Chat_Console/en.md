@@ -15,12 +15,12 @@ From most screens in osu! you can press `F8` or click the `Show Chat` button on 
 | :-- | :-- |
 | **White** | You |
 | **Pale** | Non-supporters |
-| **Yellow** | [osu!supporter](/wiki/osu!supporter "osu!supporter") |
-| **Red** | [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team "Global Moderation Team") or [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team "Nomination Assessment Team") member |
+| **Yellow** | [osu!supporter](/wiki/osu!supporter) |
+| **Red** | [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) or [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team ) member |
 | **Green** | Line contains your name or certain keywords that you have added to trigger a "highlight". A copy of the message will also appear in a dedicated channel, `#highlight`, which contains all of these lines. |
 | **Blue** | Private Message |
-| **Cyan** | [peppy](https://osu.ppy.sh/users/2 "peppy"), the creator of osu! |
-| **Pink** | [BanchoBot](/wiki/BanchoBot "BanchoBot") |
+| **Cyan** | [peppy](https://osu.ppy.sh/users/2), the creator of osu! |
+| **Pink** | [BanchoBot](/wiki/BanchoBot) |
 
 - Click the `Show Ticker` box to display the newest chat message at the bottom of the screen when the chat console is not visible.
 - Click the `Auto-Hide` box to automatically hide the chat during gameplay (excluding beatmap intro, outro and breaks).
@@ -28,7 +28,7 @@ From most screens in osu! you can press `F8` or click the `Show Chat` button on 
 
 ## Extended Chat Console
 
-*[osu!academy](/wiki/osu!academy "osu!academy") covered this page in [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) along with [Multiplayer](/wiki/Multi "Multiplayer").*
+*[osu!academy](/wiki/osu!academy) covered this page in [Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) along with [Multiplayer](/wiki/Multi).*
 
 From most screens in osu! you can press `F9` or click the `Online Users` button at the lower right of the Intro Screen to toggle the Extended Chat Console. In addition to the Chat Console, Extended Chat overlays a list of panels in the remaining two thirds of the screen, displaying information on the users currently signed in to osu!
 

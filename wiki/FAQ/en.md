@@ -16,13 +16,13 @@ The gameplay circles can be seen on the bottom screen, and the story on the top 
 
 ### How to play?
 
-**Full explanation: [osu!](/wiki/Game_Modes/osu!)**
+*Full explanation: [osu!](/wiki/Game_Modes/osu!)*
 
 While most players may not have a touchscreen at their disposal, the game was made to be playable with a normal mouse in mind, as well as any creative variations of input devices usage. Different play styles can be found in the [play styles](/wiki/Play_Styles) page. There are some songs which will push the limits of the normal mouse and the player, but all the (ranked and approved) beatmaps have been tested and (most can be) passable using only a mouse.
 
 #### Gameplay Basics
 
-**Tutorial: [osu! tutorial (new beginnings)](https://osu.ppy.sh/beatmapsets/1011011)**
+*Tutorial: [osu! tutorial (new beginnings)](https://osu.ppy.sh/beatmapsets/1011011)*
 
 The gameplay puts emphasis on:
 
@@ -98,7 +98,7 @@ Click on the `Mode` button to **open up a list of gameplay modes available on os
 
 ### What is osu!taiko?
 
-**Full explanation: [osu!taiko](/wiki/Game_Modes/osu!taiko)**
+*Full explanation: [osu!taiko](/wiki/Game_Modes/osu!taiko)*
 
 ![osu!taiko Interface](/wiki/shared/Interface_taiko.jpg "In-game interface of osu!taiko")
 
@@ -168,7 +168,7 @@ If [Relax](/wiki/Game_Modifiers) mod was used, the score judgement only account 
 
 ### What is osu!catch?
 
-**Full explanation: [osu!catch](/wiki/Game_Modes/osu!catch)**
+*Full explanation: [osu!catch](/wiki/Game_Modes/osu!catch)*
 
 ![osu!catch Interface](/wiki/shared/Interface_ctb.jpg "In-game interface of osu!catch")
 
@@ -228,7 +228,7 @@ The placement of in-game cursor does not matter when playing normally. If [Relax
 
 ### What is osu!mania?
 
-**Full explanation: [osu!mania](/wiki/Game_Modes/osu!mania)**
+*Full explanation: [osu!mania](/wiki/Game_Modes/osu!mania)*
 
 ![osu!mania Interface](/wiki/shared/Interface_mania.jpg "In-game interface of osu!mania")
 
@@ -310,9 +310,9 @@ There two different binding-styles, *Symmetrical* and *Left to Right*.
 
 ## Scoring
 
-**Detailed explanation of scoring can be found at the game style's own respective page or [the Score page](/wiki/Score)).**
+*Detailed explanation of scoring can be found at the game style's own respective page or [the Score page](/wiki/Score)).*
 
-**Detailed explanation of accuracy calculation can be found at the game style's own respective page or [the Accuracy page](/wiki/Accuracy).**
+*Detailed explanation of accuracy calculation can be found at the game style's own respective page or [the Accuracy page](/wiki/Accuracy).*
 
 ### Grades
 
@@ -375,7 +375,7 @@ There two different binding-styles, *Symmetrical* and *Left to Right*.
 
 ## Performance Points
 
-**Full explanation: [Performance Points](/wiki/Performance_Points)**
+*Full explanation: [Performance Points](/wiki/Performance_Points)*
 
 Performance points(pp) is a ranking metric aiming to be more contextually relevant to a continuous game like osu!. It aims to shift the focus from being on the amount of time played to the actual skill of the player. Performance points is heavily based on map difficulty, determined by a unique algorithm in every game mode. Based on this difficulty alone, each of the scores will be rated and assigned a pp value. Performance rank is predominantly based on performance on individual maps. The easiest way to improve it is to score high on difficult songs, and playing more songs. Do note that game modes are counted separately; playing osu!, osu!taiko, osu!catch, or osu!mania will raise the pp for the respective game mode.
 
@@ -389,7 +389,7 @@ For any questions regarding pp, please refer to the [wiki page for pp first](/wi
 
 #### Where to find and get the beatmaps?
 
-**Detailed explanation of the beatmaps: [Beatmaps](/wiki/Beatmaps)**
+*Detailed explanation of the beatmaps: [Beatmaps](/wiki/Beatmaps)*
 
 The main page, under the name *[Beatmaps](https://osu.ppy.sh/beatmapsets)*. Just remember to login to the website with an *osu!account* beforehand to allow download of beatmaps from the site.
 
@@ -425,7 +425,7 @@ Keep in mind that osu! has four game modes so you might be looking at the wrong 
 
 #### How do I change the default keyboard key input for my game mode of choice?
 
-**Full explanation: [Options](/wiki/Options)**
+*Full explanation: [Options](/wiki/Options)*
 
 ![Options sidebar with quickicons](/wiki/shared/Options_quickicons.jpg "Options quickicons")
 
@@ -435,7 +435,7 @@ From the *Input* icon in the *Options* sidebar as shown above, under **Keyboard*
 
 #### Game over? Where did I mess up?
 
-**Full explanation: [Replay](/wiki/Replay)**
+*Full explanation: [Replay](/wiki/Replay)*
 
 After failing a beatmap, press the `F1` key to replay the currently failed play. The replay ends when the screen darkens, with an osu!logo in the middle, rather than the game over screen. To rewatch the replay again, hold the custom default grave/tilde (\`/~) key (can be changed in Options sidebar; inside *Change keyboard bindings* as **Quick Retry (hold briefly)**) or `Ctrl`+`R` for a while.
 
@@ -443,7 +443,7 @@ Due to the non-standard replay screen, use the `Esc` key to return to Song Selec
 
 #### Does osu! has keyboard shortcuts?
 
-**Full list: [Shortcut key reference](/wiki/Shortcut_key_reference)**
+*Full list: [Shortcut key reference](/wiki/Shortcut_key_reference)*
 
 Pressing the `Insert` key (in default keyboard setting) will hide, pause (if playing) and mute osu! into the *Windows* sidebar. Find the *osu!logo* in the *Windows* sidebar, and click on it to return osu! to the state before pressing the key. It is called the **Boss key**, and can be modified in `Change keyboard bindings` (in `Options`, under *Keyboard* section), located at the end of the *Universal* section.
 
@@ -455,7 +455,7 @@ The whole `osu!` folder, including hidden files, is the short answer. On the new
 
 #### Can I use osu! on my mobile device?
 
-**Full list: [Game Modes under External Ports section](/wiki/Game_Modes)**
+*Full list: [Game Modes under External Ports section](/wiki/Game_Modes)*
 
 The current osu! does not support any mobile platform.
 

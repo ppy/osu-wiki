@@ -27,7 +27,7 @@ Pour un guide débutant :[Beatmapping](/wiki/Beatmapping).
 #### Ligne de temps de l'objet d'impact
 
 | Nom | Description |
-| ---- | ----------- |
+| :-- | :-- |
 | `+`/`-` Boutons | Augmenter/Diminuer le zoom de la timeline |
 | Double lignes verticales blanches | Horodatage actuel par rapport à la ligne de temps des Hit Objects. |
 | Cliquez sur l'objet touché | **Clic gauche** : Sélectionnez/Déplacez l'objet touché sur la timeline. **Clic droit** : Retirez l'objet touché. |
@@ -94,19 +94,19 @@ Le bouton **Insérer le temps de pause** démarrera/arrêtera le "temps de pause
 
 **Votre boîte à outils de construction, faite pour le bricolage (faites-le vous-même).**
 
-**Veuillez noter que dans les notes par défaut de osu!standard, les hitsounds fonctionnent différemment dans osu!mania**
+**Veuillez noter que dans les notes par défaut de osu!standard, les hitsounds fonctionnent différemment dans osu!mania.**
 
-- l'ajout de clap sur une note jouera le son 'hitclap' **+ hitnormal** sur le hit alors que dans osu!mania : jouera seulement le son 'hitclap' sur le hit
+- l'ajout de clap sur une note jouera le son `hitclap` + `hitnormal` sur le hit alors que dans osu!mania : jouera seulement le son `hitclap` sur le hit
 
 #### Sélecteur
 
 | Boutons / En-tête (Raccourci clavier) | Utilisation | Description |
-| ------------------------------------ | ----- | ----------- |
+| :-- | :-- | :-- |
 | Sampleset | Auto, Normal, Soft, Drum | Ignore le réglage du Sampleset de la section de timing, et ajoute celui qui est sélectionné... par exemple le point de timing avec **soft 77%**, Alors que ce Sampleset est réglé sur **Drum** et a **Clap** sur les notes, jouera par défaut drum-hitnormal 77% + drum-hitclap 77% sur le hit |
 | Additions | Auto, Normal, Soft, Drum | Additions hitsound signifie ajouter Clap, Finish, et Whistle avec le set SELECTED... par exemple Sampleset **Normal**, Timing point **Soft 77%**, alors que Additions est réglé sur **Drum** et a **Clap** sur les notes, résultera de normal-hitnormal 77% + drum-hitclap 77% sur le hit |
 | Sélectionner (`1`) | **Clic gauche/glisser:** Sélectionner/Ajuster l'emplacement des notes/points glissants. **Clic droit:** Supprimer les notes/points de glissement. **`Ctrl` + clic : sélection multiple. | Sélectionnez et modifiez les notes existantes. |
 | Cercle (`2`) | **Clic gauche/droit:** Ajout/Suppression d'un cercle de frappe. | Cercle de frappe. |
-| Curseur (`3`) | **Clic gauche/droit : ** Curseur de début/fin. Ajout/Suppression de points de glissement (carré blanc). **Clic gauche x2:** Nouvelle section de courbe (carré rouge). | Curseur. |
+| Curseur (`3`) | **Clic gauche/droit:** Curseur de début/fin. Ajout/Suppression de points de glissement (carré blanc). **Clic gauche x2:** Nouvelle section de courbe (carré rouge). | Curseur. |
 | Spinner (`4`) | **Clic gauche/droit:** Début/Fin Spinner à l'heure actuelle. | Spinner. Assurez-vous que Auto peut au moins marquer 2,000 Bonus par Spinner (pour éviter le fameux spam Spinner/ninja Spinner). |
 
 ### Centre (Terrain de jeu)
@@ -120,13 +120,13 @@ Le bouton **Insérer le temps de pause** démarrera/arrêtera le "temps de pause
 ![Hitsounds & Assist Tools](img/BE_HSAT.jpg "Hitsounds et outils d'assistance")
 
 | Bouton (Raccourci clavier) | Utilisation | Description |
-| -------------------------- | ----- | ----------- |
+| :-- | :-- | :-- |
 | Nouveau Combo (`Q`) | **Clic droit :** Changer la note courante à la couleur du combo suivant. | Combo de notes. C'est l'équivalent d'un couplet/d'une mesure dans le script d'une chanson/d'un instrument. Une plage acceptable est d'environ 5-20. |
 
 #### Hitsounds
 
 | Bouton (Raccourci clavier) | Utilisation | Description |
-| -------------------------- | ----- | ----------- |
+| :-- | :-- | :-- |
 | Whistle (`W`) | ("Select" sur une note de Hit) **Clic gauche :** Utilisez le son de sifflet sur cette note | Ajoutez un ajout de son de sifflet à la sélection. |
 | Finish (`E`) | ("Select" sur une note de Hit) **Clic gauche:** Utiliser le son de finition sur cette note | Ajouter un son de finition (cymbale) à la sélection. |
 | Clap (`R`) | ("Sélection" sur une note de Hit) **Clic gauche :** Utilisez le son de clap sur cette note | Ajoutez un ajout de son de clap à la sélection. |
@@ -134,7 +134,7 @@ Le bouton **Insérer le temps de pause** démarrera/arrêtera le "temps de pause
 #### Outils d'assistance
 
 | Bouton (Raccourci clavier) | Utilisation | Description |
-| -------------------------- | ----- | ----------- |
+| :-- | :-- | :-- |
 | Grid Snap (`T`) | **`Shift` (Hold):** Basculement temporaire. **`Ctrl` (Hold):** Désactivation temporaire de l'accrochage de l'angle. | Par défaut, les notes frappées sont accrochées à la grille. |
 | Distance Snap (`Y`) | **`Alt` (Hold):** Basculement temporaire. Basculer le diviseur Beat Snap sur le Distance Snap **`Alt` + Molette de la souris:** Ajuster le multiplicateur du Distance Snap. | La distance entre deux notes consécutives est calculée en fonction de leur différence rythmique. Il est préférable de l'utiliser lorsque la timeline est en pause. |
 | Verrouiller les notes (`L`) | ("Select" sur une note de Hit) **Clic gauche :** Verrouiller cette note | Verrouiller la note sélectionnée à la position et à l'horodatage actuels. |
@@ -150,7 +150,7 @@ Au **bas-centre**, il y a une **ligne de temps** avec des marquages et les bouto
 #### Marqueurs de couleur
 
 | Couleur | Description |
-| ------ | ----------- |
+| :-- | :-- |
 | Bright White Long | Section de test actuelle |
 | Yellow Long | Point de prévisualisation. |
 | Jaune en haut | Début du temps de drainage. |
@@ -161,14 +161,14 @@ Au **bas-centre**, il y a une **ligne de temps** avec des marquages et les bouto
 #### Points forts des couleurs
 
 | Couleur | Description |
-| ------ | ----------- |
+| :-- | :-- |
 | Gris | Pause de temps |
 | Orange | Kiai Time |
 
 #### Commande de mise en signet
 
 | Raccourci | Description |
-| -------- | ----------- |
+| :-- | :-- |
 | `Ctrl` + `B` | Ajouter un signet à l'emplacement actuel. |
 | `Ctrl` + `Shift` + `B` | Supprimer le signet à l'emplacement actuel. |
 | `Ctrl` + `Right` Flèche | Prochain signet. |
@@ -184,7 +184,7 @@ En **en bas à droite**, vous pouvez ajuster la **Fréquence de lecture** par **
 
 ![Beat Snap Divisor (osu!mania ver.)](img/BEM_BSD.jpg "Beat Snap Divisor (osu!mania ver.)")
 
-***Article principal: [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor)***
+*Article principal: [Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor)*
 
 **En termes simples, il s'agit d'ajuster la longueur d'un fil à coudre de couleur (section de minutage) pour un espace de dessin de broderie (mesures, divisées par le diviseur à appeler battements) sur le tissu (chanson).** Comme osu!mania accorde une grande priorité à chaque minutage des notes, **la signature temporelle** (MM:B) de la section de minutage est ajoutée (15:3 = 15e mesure 3e temps) à côté de la barre d'ajustement pour faciliter la référence du mapper. Elle peut prendre une valeur négative (-8:-3 par exemple) si la première section de timing est à *quelques secondes* du début du fichier de morceau du beatmap.
 
@@ -196,15 +196,14 @@ En **en bas à droite**, vous pouvez ajuster la **Fréquence de lecture** par **
 
 **Veuillez noter que dans les notes par défaut d'osu!mania, le hitsound fonctionne différemment avec Standard/osu !**
 
-- L'ajout de clap sur une note ne jouera que le son 'hitclap' au lieu du son 'hitclap' *' + hitnormal*' sur le hit pendant osu!mania :
+- L'ajout de clap sur une note ne jouera que le son `hitclap` au lieu du son `hitclap` + `hitnormal` sur le hit pendant osu!mania :
 
 ![Hit Notes Selector (osu!mania ver.)](img/BEM_HO.jpg "Hit Notes Selector (osu!mania ver.)")
-
 
 #### Sélecteur
 
 | Boutons / En-tête (Raccourci clavier) | Utilisation | Description |
-| ------------------------------------ | ----- | ----------- |
+| :-- | :-- | :-- |
 | Sampleset | Auto, Normal, Soft, Drum | Changez le Sampleset en ignorant la section de timing actuelle. Ex : Timing **Drum 66%**, alors que ce Sampleset est **Soft**, jouera tous les sons **Soft** associés aux notes comme clap, normal, finish, whistle avec 66% de volume. |
 | Additions | Auto, Normal, Soft, Drum | Fondamentalement comme ci-dessus, MAIS le paramètre Additions écrase le paramètre Sampleset. Ex : Timing **Tambour 55%**, Sampleset **Soft**, alors que cet ajout est **Normal**, jouera tous les sons **Normaux** liés aux notes comme le clap, normal, finish, whistle avec 55% de volume. |
 | Sélectionnez (`1`) | **Filet gauche/glisser:** Déplacer l'horodatage et l'emplacement d'une note. **Clic droit :** Supprime la note. **`Ctrl` + Click :** Sélection multiple. | Sélectionnez et modifiez les notes existantes. |
@@ -220,14 +219,14 @@ En **en bas à droite**, vous pouvez ajuster la **Fréquence de lecture** par **
 #### Boîtes de terrain de jeu
 
 | Nom | Description |
-| ---- | ----------- |
+| :-- | :-- |
 | Boîte de gauche | Intensité des notes (Ligne de temps). |
 | Centre | Terrain de jeu actuel ([Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor)). |
 
 #### Notes de couleur
 
 | Nom | Description |
-| ---- | ----------- |
+| :-- | :-- |
 | Double ligne blanche | Mesure |
 | Ligne blanche | Temps commun |
 | Ligne verte | Vous / Ligne de jugement |
@@ -272,13 +271,13 @@ En **en bas à droite**, vous pouvez ajuster la **Fréquence de lecture** par **
 **Liste des sous-outils disponibles en complément de la boîte à outils.**
 
 | Bouton (Raccourci clavier) | Utilisation | Description |
-| -------------------------- | ----- | ----------- |
+| :-- | :-- | :-- |
 | Nouveau Combo (`Q`) | **Clic droit :** Changer la note courante à la couleur du combo suivant. | Combo de notes. Ceci est équivalent à un couplet dans le script d'une chanson. Une plage acceptable est d'environ 5-20. |
 
 #### Hitsounds
 
 | Bouton (Raccourci clavier) | Utilisation | Description |
-| -------------------------- | ----- | ----------- |
+| :-- | :-- | :-- |
 | Whistle (`W`) | ("Select" sur une note de Hit) **Clic gauche :** Utilisez le son de sifflet sur cette note | Ajoutez un ajout de son de sifflet à la sélection. |
 | Finish (`E`) | ("Select" sur une note de Hit) **Clic gauche:** Utiliser le son de finition sur cette note | Ajouter un son de finition (cymbale) à la sélection. |
 | Clap (`R`) | ("Select" sur une note de Hit) **Clic gauche:** Utiliser le son de clap sur cette note | Ajouter un ajout de son de clap à la sélection. |
@@ -286,7 +285,7 @@ En **en bas à droite**, vous pouvez ajuster la **Fréquence de lecture** par **
 #### Outils d'assistance
 
 | Bouton (Raccourci clavier) | Utilisation | Description |
-| -------------------------- | ----- | ----------- |
+| :-- | :-- | :-- |
 | Grid Snap (`T`) | **`Shift` (Hold):** Basculement temporaire. **`Ctrl` (Hold):** Désactivation temporaire de l'enclenchement de l'angle. | Par défaut, les notes sont accrochées à la grille. |
 | Distance Snap (`Y`) | **`Alt` (Hold):** Basculement temporaire. Basculer le diviseur Beat Snap sur le Distance Snap **`Alt` + Molette de la souris:** Ajuster le multiplicateur du Distance Snap. | La distance entre deux notes consécutives est calculée en fonction de leur différence rythmique. Il est préférable de l'utiliser lorsque la timeline est en pause. |
 | Verrouiller les notes (`L`) | ("Select" sur une note de Hit) **Clic gauche :** Verrouiller cette note | Verrouiller la note sélectionnée à la position et à l'horodatage actuels. |
@@ -304,7 +303,7 @@ En **bas-centre**, il montre la **ligne de temps avec les marquages et les bouto
 #### Commande de mise en signet
 
 | Raccourci | Description |
-| -------- | ----------- |
+| :-- | :-- |
 | `Ctrl` + `B` | Ajouter un signet à l'emplacement actuel. |
 | `Ctrl` + `Shift` + `B` | Supprimer le signet à l'emplacement actuel. |
 | `Ctrl` + `Right` Flèche | Prochain signet. |
@@ -327,7 +326,7 @@ La **section gauche** est la **liste des fichiers son que vous avez dans le doss
 ##### Principes de base
 
 | Nom | Description |
-| ---- | ----------- |
+| :-- | :-- |
 | CustomSet | **Ignorer** les hitsounds personnalisés sélectionnés dans cet éditeur, et appliquer les **défauts** hitsounds **SET** et volume sans utiliser de point de minutage. ( L'utilisation de l'échantillon de base doit être activée pour que cela puisse fonctionner comme prévu )ex : ajout du soft-hitwhistle77.wav avec 90% de volume. Notez que vous devez également ajouter le sifflet à la note manuellement. **Cette fonction n'est pas non plus recommandée alors que la fonction APPLICATION normale de cet éditeur est plus facile à utiliser que celle-ci et que les deux fonctionnent de la même manière.** |
 | Volume | A quel point vous voulez que ce fichier son soit fort. Utilisez uniquement des valeurs entières. ( 8 - 100 ) |
 | Cela signifie que, quel que soit le sujet des notes, cette fonction ne change que le volume des notes sélectionnées. Ex : cela peut être utilisé pour changer plusieurs volumes sur différentes notes avec différents échantillons de hitsounds en même temps ou simplement pour améliorer le hitsound par défaut en ignorant le réglage de volume de n'importe quel point de timing. |
@@ -335,7 +334,7 @@ La **section gauche** est la **liste des fichiers son que vous avez dans le doss
 ##### Boutons
 
 | Nom | Description |
-| ---- | ----------- |
+| :-- | :-- |
 | Lecture | Lecture du fichier son sélectionné |
 | Importer | Importer le fichier son personnalisé à partir d'un sous-dossier dans le dossier de la carte des temps |
 | Pour supprimer le fichier son associé à la note, utilisez le bouton "Réinitialiser". |

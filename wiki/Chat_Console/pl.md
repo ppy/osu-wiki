@@ -15,12 +15,12 @@ Okno z czatem można otworzyć z większości miejsc w osu! poprzez naciśnięci
 | :-- | :-- |
 | **White** | Ty |
 | **Pale** | Zwykli użytkownicy |
-| **Yellow** | Użytkownicy posiadający [status donatora osu!](/wiki/osu!supporter "Status donatora osu!") |
-| **Red** | [Moderatorzy globalni](/wiki/People/The_Team/Global_Moderation_Team "Moderacja") lub członkowie [zespołu zapewniania jakości](/wiki/Glossary#quality-assurance-team "Zespół zapewniania jakości") |
+| **Yellow** | Użytkownicy posiadający [status donatora osu!](/wiki/osu!supporter) |
+| **Red** | [Moderatorzy globalni](/wiki/People/The_Team/Global_Moderation_Team) lub członkowie [zespołu zapewniania jakości](/wiki/Glossary#quality-assurance-team) |
 | **Green** | Linia zawierającą twoją nazwę użytkownika lub dodane przez ciebie słowo, która wywołuje podświetlenie na czacie. Kopia tej wiadomości pojawi się także na kanale `#highlight` zawierającym wszystkie tego typu wiadomości. |
 | **Blue** | Wiadomość prywatna |
-| **Cyan** | [peppy](https://osu.ppy.sh/users/2 "peppy"), twórca osu! |
-| **Pink** | [BanchoBot](/wiki/BanchoBot "BanchoBot") |
+| **Cyan** | [peppy](https://osu.ppy.sh/users/2), twórca osu! |
+| **Pink** | [BanchoBot](/wiki/BanchoBot) |
 
 - Naciśnij przycisk `Show Ticker`, by nowe wiadomości były wyświetlane na dole ekranu, nawet gdy czat jest wyłączony.
 - Naciśnij przycisk `Auto-Hide`, by automatycznie ukrywać czat podczas rozgrywki (nie licząc wstępu, zakończenia i przerw w beatmapie).
@@ -28,7 +28,7 @@ Okno z czatem można otworzyć z większości miejsc w osu! poprzez naciśnięci
 
 ## Rozszerzony czat
 
-*[Akademia osu!](/wiki/osu!academy "Akademia osu!") podjęła temat rozszerzonego czatu w [odcinku 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) wraz z tematem [trybu wieloosobowego](/wiki/Multi "Tryb wielosobowy").*
+*[Akademia osu!](/wiki/osu!academy) podjęła temat rozszerzonego czatu w [odcinku 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) wraz z tematem [trybu wieloosobowego](/wiki/Multi).*
 
 Okno z rozszerzonym czatem można otworzyć z większości miejsc w osu! poprzez naciśnięcie `F9` albo przycisku `Online Users` w prawym dolnym rogu ekranu. Oprócz klasycznego okna z czatem, w pozostałej części ekranu zostaną wyświetlone panele użytkowników, którzy są aktualnie online.
 

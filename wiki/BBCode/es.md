@@ -350,7 +350,7 @@ Las imágenes se pueden obtener desde cualquier página, siempre y cuando la ima
 
 **No vincules la imagen directamente desde un directorio local**. Usar `C:\Users\Name\Pictures\image.jpg` **no funcionará.**
 
-Por favor, sube la imagen a sitios de intercambio de imágenes de buena reputación como [imgur](https://imgur.com/ "imgur") o [puush](https://puush.me/ "puush"). Una vez que la imagen se cargue correctamente, copia y pega el vínculo directo proporcionado entre las etiquetas de imagen.
+Por favor, sube la imagen a sitios de intercambio de imágenes de buena reputación como [imgur](https://imgur.com) o [puush](https://puush.me). Una vez que la imagen se cargue correctamente, copia y pega el vínculo directo proporcionado entre las etiquetas de imagen.
 
 También ten en cuenta que algunos sitios web no aceptan los enlaces directos a sus imágenes (también conocidos como *hotlinks*). Los sitios de intercambio de imágenes, como los mencionados anteriormente, son más adecuados con enlaces directos, ya que son sitios de intercambio de imágenes.
 

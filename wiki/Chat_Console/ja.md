@@ -11,12 +11,12 @@
 | :-- | :-- |
 | **White** | あなたです |
 | **Yellow** | 他の人 |
-| **Orange** | [osu!supporter](/wiki/osu!supporter "osu!supporter") |
+| **Orange** | [osu!supporter](/wiki/osu!supporter) |
 | **Red** | BAT もしくは GMT |
 | **Green** | あなたの名前や指定したキーワードが含まれた文章が出た時に、"highlight"が有効になります。そのメッセージのコピーが`#highlight`のチャットチャンネルに表示されます。 |
 | **Blue** | プライベートメッセージです |
-| **Cyan** | [peppy](https://osu.ppy.sh/users/2 "peppy")、osu!の創設者です。 |
-| **Pink** | [BanchoBot](/wiki/BanchoBot "BanchoBot") |
+| **Cyan** | [peppy](https://osu.ppy.sh/users/2)、osu!の創設者です。 |
+| **Pink** | [BanchoBot](/wiki/BanchoBot) |
 
 - `Show Ticker`を押すことで、コンソールが開いていない時にチャットで一番新しいメッセージが下に表示されるようになります。
 - `Auto-Hide`を押すことでゲームプレイ中は自動的にコンソールが隠れるようになります(ビートマップのイントロアウトロとBreakを除きます)。
@@ -24,7 +24,7 @@
 
 ## チャットコンソールの拡張機能
 
-*[osu!academy](/wiki/osu!academy "osu!academy")[Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII)で[Multiplayer](/wiki/Multi "Multiplayer")*それをカバーしています。
+*[osu!academy](/wiki/osu!academy)[Episode 6 (6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII)で[Multiplayer](/wiki/Multi)*それをカバーしています。
 
 `F9`もしくは下部の`Show Chat`ボタンを押すことでosu!のほとんどの画面から拡張されたチャットコンソールを呼び出すことができます。加えてチャットコンソールの画面全体の余っている部分2/3に拡張されたコンソールが表示され、現在のログインしているユーザーの情報が表示されます。
 
