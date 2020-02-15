@@ -1,15 +1,15 @@
 <!-- wiki -->
-[Play_Styles#osu!taiko wikilink]: /wiki/Play_Styles/ "plus d'informations peuvent être trouvées dans la section Style de jeux en dessous de la section osu!taiko"
-[Score#osu!taikoSV wikilink]: /wiki/Score/#osu-taiko "plus d'informations peuvent être trouvées dans la section Score en dessous de la section osu!taiko Valeur de Score"
-[Options#Keyboard wikilink]: /wiki/Options/ "plus d'informations peuvent être trouvées dans les options en dessous de la section Clavier"
-[Skinning#osu!taiko wikilink]: /wiki/Skinning/osu!taiko/ "Skinning osu!taiko"
-[Mascots#pippi wikilink]: /wiki/Mascots/#pippi "plus d’informations peuvent être trouvées dans les mascottes en dessous de pippi"
+[Play_Styles#osu!taiko wikilink]: /wiki/Play_Styles "plus d'informations peuvent être trouvées dans la section Style de jeux en dessous de la section osu!taiko"
+[Score#osu!taikoSV wikilink]: /wiki/Score#osu-taiko "plus d'informations peuvent être trouvées dans la section Score en dessous de la section osu!taiko Valeur de Score"
+[Options#Keyboard wikilink]: /wiki/Options "plus d'informations peuvent être trouvées dans les options en dessous de la section Clavier"
+[Skinning#osu!taiko wikilink]: /wiki/Skinning/osu!taiko "Skinning osu!taiko"
+[Mascots#pippi wikilink]: /wiki/Mascots#pippi "plus d’informations peuvent être trouvées dans les mascottes en dessous de pippi"
 [Auto wikilink]: /wiki/Game_Modifiers "plus d’informations peuvent être trouvées dans les Game Modifiers en dessous d’Auto"
 [Hidden wikilink]: /wiki/Game_Modifiers "plus d’informations peuvent être trouvées dans les Game Modifiers en dessous d’Hidden"
 [Flashlight wikilink]: /wiki/Game_Modifiers "plus d’informations peuvent être trouvées dans les Game Modifiers en dessous de Flashlight"
 [Relax wikilink]: /wiki/Game_Modifiers "plus d’informations peuvent être trouvées dans les Game Modifiers en dessous de Relax"
-[osu! wikilink]: /wiki/Game_Modes/osu!/ "osu!"
-[osu!catch wikilink]: /wiki/Game_Modes/osu!catch/ "osu!catch"
+[osu! wikilink]: /wiki/Game_Modes/osu! "osu!"
+[osu!catch wikilink]: /wiki/Game_Modes/osu!catch "osu!catch"
 
 <!-- External -->
 [Taiko no Tatsujin wikipedia]: https://fr.wikipedia.org/wiki/Taiko_no_Tatsujin "page Wikipedia de Taiko no Tatsujin"
@@ -17,7 +17,7 @@
 [Taiko by LuigiHann link]: https://osu.ppy.sh/community/forums/topics/41319 "Taiko Skin version 6.0 by LuigiHann"
 
 <!-- image -->
-[osu!taiko logo]: ./img/Taiko_logo.jpg "Logo Taiko dans un mode spécial"
+[osu!taiko logo]: img/Taiko_logo.jpg "Logo Taiko dans un mode spécial"
 
 <!-- shared -->
 [osu!taiko icon link]: /wiki/shared/mode/taiko.png "icône osu!taiko"

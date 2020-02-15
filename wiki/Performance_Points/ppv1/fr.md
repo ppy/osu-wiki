@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 La **première version des performance points** (abrégée en **ppv1**) était un ancien système de classement des joueurs au niveau mondial et national de tous les modes de jeu de osu!. Il remplaça l'ancien système de classement par score total et fut abandonné au profit des [ppv2](FR:Performance_Points "wikilink").
 
 # Historique

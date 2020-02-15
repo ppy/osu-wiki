@@ -3,11 +3,11 @@ needs_cleanup: true
 ---
 
 <!-- wiki -->
-[Play_Styles#osu! wikilink]: /wiki/Play_Styles/ "more info can be found on Play Styles under osu!"
-[Score#osu!SV wikilink]: /wiki/Score/#osu "more info can be found on Score under osu! Scoring Values"
-[Options#Keyboard wikilink]: /wiki/Options/ "more info can be found on Options under Keyboard"
-[Skinning#osu! wikilink]: /wiki/Skinning/osu!/ "osu! Skinning"
-[Mascots#pippi wikilink]: /wiki/Mascots/#pippi "more info can be found on Mascots under pippi"
+[Play_Styles#osu! wikilink]: /wiki/Play_Styles "more info can be found on Play Styles under osu!"
+[Score#osu!SV wikilink]: /wiki/Score#osu "more info can be found on Score under osu! Scoring Values"
+[Options#Keyboard wikilink]: /wiki/Options "more info can be found on Options under Keyboard"
+[Skinning#osu! wikilink]: /wiki/Skinning/osu! "osu! Skinning"
+[Mascots#pippi wikilink]: /wiki/Mascots#pippi "more info can be found on Mascots under pippi"
 [Auto wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Auto"
 [Hidden wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Hidden"
 [Flashlight wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Flashlight"

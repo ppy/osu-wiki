@@ -30,8 +30,8 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 
 | Placing | Prize(s) |
 | :---: | :--- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge and 2 months of osu!supporter |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Profile badge and 2 months of osu!supporter |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter |
 
 ![Standard Badge](img/badge_standard.png) ![Taiko Badge](img/badge_taiko.png) ![Catch Badge](img/badge_catch.png) ![4K Badge](img/badge_4K.png) ![7K Badge](img/badge_7K.png)
 
@@ -178,41 +178,41 @@ The following players are the people who managed to pull through the whole compe
 
 | Placing | User |
 |:---:|---|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [Stereo](https://osu.ppy.sh/users/1499137) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [TyrantsEye2014](https://osu.ppy.sh/users/4530738) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [ededed028](https://osu.ppy.sh/users/3932796), [zonelouise](https://osu.ppy.sh/users/1492995) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | [Stereo](https://osu.ppy.sh/users/1499137) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | [TyrantsEye2014](https://osu.ppy.sh/users/4530738) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | [ededed028](https://osu.ppy.sh/users/3932796), [zonelouise](https://osu.ppy.sh/users/1492995) |
 
 ### osu!taiko Division
 
 | Placing | User |
 |:---:|---|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [Pochacco](https://osu.ppy.sh/users/2927742) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [Rimazii](https://osu.ppy.sh/users/3831514) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [yuki\_momoiro722](https://osu.ppy.sh/users/7186791) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | [Pochacco](https://osu.ppy.sh/users/2927742) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | [Rimazii](https://osu.ppy.sh/users/3831514) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | [yuki\_momoiro722](https://osu.ppy.sh/users/7186791) |
 
 ### osu!catch Division
 
 | Placing | User |
 |:---:|---|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [- Kielzu -](https://osu.ppy.sh/users/6221114) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [KaganimeRin](https://osu.ppy.sh/users/1626093) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [Crowley](https://osu.ppy.sh/users/6341006) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | [- Kielzu -](https://osu.ppy.sh/users/6221114) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | [KaganimeRin](https://osu.ppy.sh/users/1626093) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | [Crowley](https://osu.ppy.sh/users/6341006) |
 
 ### osu!mania 4K Division
 
 | Placing | User |
 |:---:|---|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [arge-](https://osu.ppy.sh/users/9919550) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [Baltz](https://osu.ppy.sh/users/6083463) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [Shiyui-](https://osu.ppy.sh/users/9374607) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | [arge-](https://osu.ppy.sh/users/9919550) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | [Baltz](https://osu.ppy.sh/users/6083463) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | [Shiyui-](https://osu.ppy.sh/users/9374607) |
 
 ### osu!mania 7K Division
 
 | Placing | User |
 |:---:|---|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [Nikana](https://osu.ppy.sh/users/4345491) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [fer789](https://osu.ppy.sh/users/8901267) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [Cielo Day](https://osu.ppy.sh/users/2722489) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | [Nikana](https://osu.ppy.sh/users/4345491) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | [fer789](https://osu.ppy.sh/users/8901267) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | [Cielo Day](https://osu.ppy.sh/users/2722489) |
 
 ---
 

@@ -27,7 +27,6 @@ Below is a sorted list of guides created by members of the osu!community; most o
 *Main page: [Modding](/wiki/Modding)*
 
 - [Getting Your Map Modded](Getting_Your_Map_Modded)
-- [How To Get Your Map Ranked](How_To_Get_Your_Map_Ranked)
 
 ## Playing
 

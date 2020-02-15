@@ -26,7 +26,7 @@ The **Catch French Intermediate Cup 2** (***CFIC 2***) is an intermediate French
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
 ## Organisation
 

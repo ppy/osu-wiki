@@ -9,7 +9,7 @@
 
 # Anciens packs de beatmaps
 
-***[Cliquez ici pour retourner à la page des "Succès/Médailles"](../)***
+***[Cliquez ici pour retourner à la page des "Succès/Médailles"](..)***
 
 Packs originaux pendant les années de début d'osu! (2009) avant d'être mis à jour par [Stefan le 16 janvier 2016](https://osu.ppy.sh/news/137535031193).
 

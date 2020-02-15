@@ -27,7 +27,7 @@ All prizes were awarded to osu! and osu!mania winners.
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge |
 
 ![NFL profile badge](img/badge.jpg)
 
@@ -93,17 +93,17 @@ The NFL was run by various osu! community members at UCI or visiting for the eve
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013) |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |
 
 ### osu!mania
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576) |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_CA] [Dark lord bob](https://osu.ppy.sh/users/4588299) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CA] [Dark lord bob](https://osu.ppy.sh/users/4588299) |
 
 ## Mappools
 
