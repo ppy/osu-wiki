@@ -4,7 +4,7 @@ outdated: true
 
 # SB オブジェクト/スプライト
 
-![SB object/sprite call](SBS_Sprite.jpg "SB object/sprite call")
+![SB object/sprite call](img/SBS_Sprite.jpg "SB object/sprite call")
 
 *[osu!でのヒットオブジェクトに関しては](/wiki/Game_Modes/osu!)[Beatmappingと](/wiki/Beatmapping)[Hit Objects](/wiki/Hit_Objects)* を参照してください。
 

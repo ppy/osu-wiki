@@ -2,7 +2,7 @@
 needs_cleanup: true
 ---
 
-# Help Centre
+# Help centre
 
 Having trouble with something? We're here to help! Check out some solutions to common issues in the sidebar to the left of your screen.
 
@@ -602,7 +602,7 @@ To enable raw input, follow these steps:
 
 On most Wacom tablets, this is done via the `Mapping` tab of the `Wacom Tablet Properties` application.
 
-![Wacom Tablet Properties screen showing Mapping options](Tabarea.png "Interface for changing tablet area on Wacom devices")
+![Wacom Tablet Properties screen showing Mapping options](img/Tabarea.png "Interface for changing tablet area on Wacom devices")
 
 You will need to consult your tablet's manufacturer to find out how to set your tablet area for your particular peripheral.
 

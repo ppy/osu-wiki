@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # .osz (format de fichier)
 
 Un fichier **.osz** est une archive globale qui contient **un** beatmap set. Lors d'un téléchargement, ces fichiers contiennent plusieurs fichiers différents.

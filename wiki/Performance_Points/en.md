@@ -4,7 +4,7 @@ needs_cleanup: true
 
 <!-- probably outdated too -->
 
-# Performance Points
+# Performance points
 
 The Performance Points system is a ranking metric that aims to be more contextually relevant to a player's progression in a continuous game like osu!.
 

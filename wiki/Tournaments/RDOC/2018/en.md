@@ -27,9 +27,9 @@ The **Royal Danish osu!Cup 2018** (***RDOC 2018***) was a Danish 1v1 double-elim
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge, 4 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter tag |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
 ![RDOC winner badge](img/badge.png)
 
@@ -84,9 +84,9 @@ The Royal Danish osu!Cup 2018 was run by various community members.
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_DK] [Cerkie](https://osu.ppy.sh/users/2533400) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_DK] [raser1234](https://osu.ppy.sh/users/2527887) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_DK] [Cerkie](https://osu.ppy.sh/users/2533400) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_DK] [raser1234](https://osu.ppy.sh/users/2527887) |
 
 ## Mappools
 

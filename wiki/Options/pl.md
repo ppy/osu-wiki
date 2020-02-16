@@ -316,7 +316,7 @@ Jeżeli rozwiniesz listę dla `Ograniczaj kursor myszy`, zobaczysz następujące
 
 ![Ikona sekcji „Edytor”](img/editor.jpg "Ikona sekcji „Edytor”")
 
-Ta sekcja jest poświęcona [edytorowi beatmap](/wiki/Beatmap_Editor/).
+Ta sekcja jest poświęcona [edytorowi beatmap](/wiki/Beatmap_Editor).
 
 Te opcje oddziałują wyłącznie na edytor beatmap i tryb testowania beatmapy.
 

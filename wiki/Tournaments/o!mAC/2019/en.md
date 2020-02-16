@@ -30,9 +30,9 @@ The **osu!mania Asian's Champions 2019** (***o!mAC2019***) was an individual 4K 
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Profile badge, 4 months of osu!supporter tag, userpage banner |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | 3 months of osu!supporter tag, userpage banner |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | 2 months of osu!supporter tag, userpage banner |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, 4 months of osu!supporter tag, userpage banner |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag, userpage banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag, userpage banner |
 
 Many thanks to ![][flag_KR] [VarvalianFanboy](https://osu.ppy.sh/users/13211236) and ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) for donating supporter tags!
 
@@ -64,9 +64,9 @@ The osu!mania Asian's Champions 2019 was run by various community members.
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | [\[ R o a d \]](https://osu.ppy.sh/users/6535926) |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | [xxxxxx2800](https://osu.ppy.sh/users/4084853) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | [\[ R o a d \]](https://osu.ppy.sh/users/6535926) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | [xxxxxx2800](https://osu.ppy.sh/users/4084853) |
 
 ## Mappools
 

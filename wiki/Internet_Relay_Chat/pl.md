@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Czym jest Internet Relay Chat?
 
 [Internet Relay Chat](http://en.wikipedia.org/wiki/Internet_Relay_Chat), znany także jako IRC, jest ugruntowanym, standaryzowanym protokołem do czatu z wieloma klientami naraz.

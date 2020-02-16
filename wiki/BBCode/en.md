@@ -2,6 +2,7 @@
 needs_cleanup: true
 outdated: true
 ---
+<!-- TODO: outdated because the image is out of date and we need to check if some of these tags are even functional on the new website. -->
 
 # BBCode
 
@@ -337,7 +338,7 @@ The images can be sourced from anywhere, as long as the image exists from the gi
 
 **Do not link the image directly from a local filepath!** Using `C:\Users\Name\Pictures\image.jpg` will **not work**.
 
-Please upload the image to reputable image sharing sites like [imgur](https://imgur.com/ "imgur") or [puush](https://puush.me/ "puush"). Once the image is uploaded successfully, copy and paste the direct link provided in-between the image tags. Also note that some websites don't appreciate direct links to their images (otherwise known as *hotlinks*). Image sharing sites, like the ones listed above, are most likely okay with direct links since they are image sharing sites.
+Please upload the image to reputable image sharing sites like [imgur](https://imgur.com) or [puush](https://puush.me). Once the image is uploaded successfully, copy and paste the direct link provided in-between the image tags. Also note that some websites don't appreciate direct links to their images (otherwise known as *hotlinks*). Image sharing sites, like the ones listed above, are most likely okay with direct links since they are image sharing sites.
 
 - Dedicated button: ![Image button](img/image.png)
 - Notes:
@@ -372,7 +373,7 @@ The audio files can be sourced from anywhere, as long as the audio exists from t
 
 **Do not link the audio directly from a local filepath!** Using `C:\Users\Name\Music\audio.mp3` will **not work**.
 
-Please upload the audio file to reputable file sharing sites like [puush](https://puush.me/ "puush"). Once the audio file is uploaded successfully, copy and paste the direct link provided in-between the audio tags. Also note that some websites don't appreciate direct links to their audio files (otherwise known as *hotlinks*).  Please beware that not all file sharing services might be okay with audio files, due to music piracy concerns. File sharing sites listed here should be okay.
+Please upload the audio file to reputable file sharing sites like [puush](https://puush.me). Once the audio file is uploaded successfully, copy and paste the direct link provided in-between the audio tags. Also note that some websites don't appreciate direct links to their audio files (otherwise known as *hotlinks*).  Please beware that not all file sharing services might be okay with audio files, due to music piracy concerns. File sharing sites listed here should be okay.
 
 - Dedicated button: N/A
 - Syntax:

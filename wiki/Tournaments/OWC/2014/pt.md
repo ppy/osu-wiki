@@ -25,9 +25,9 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
 
 | Placing                                                    | Prizes                                                                                      |
 |------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 mezes de supporter tag, medalha no perfil, titulo de "osu! Champion", mercadorias de osu! |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 mezes de supporter tag                                                                    |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 mez de supporter tag                                                                      |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 6 mezes de supporter tag, medalha no perfil, titulo de "osu! Champion", mercadorias de osu! |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 mezes de supporter tag                                                                    |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 mez de supporter tag                                                                      |
 
 ## Organização
 

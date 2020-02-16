@@ -21,9 +21,9 @@ The **Royal Danish osu!Cup 2014** (***RDOC 2014***) was a Danish 1v1 double-elim
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | 8 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | 6 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | 4 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 8 months of osu!supporter tag |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter tag |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter tag |
 | *4th place* | 2 months of osu!supporter tag |
 | *5 - 6th place* | 1 month of osu!supporter tag |
 
@@ -57,9 +57,9 @@ The Royal Danish osu!Cup 2014 was run by various community members.
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_DK] [TimG](https://osu.ppy.sh/users/1879963) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_DK] [Tropians](https://osu.ppy.sh/users/2536611) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_DK] [Broniel](https://osu.ppy.sh/users/3175330) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_DK] [TimG](https://osu.ppy.sh/users/1879963) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_DK] [Tropians](https://osu.ppy.sh/users/2536611) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_DK] [Broniel](https://osu.ppy.sh/users/3175330) |
 | 4th place | ![][flag_DK] [PlasticSmoothie](https://osu.ppy.sh/users/296565) |
 | 5th/6th place | ![][flag_DK] [Gupply](https://osu.ppy.sh/users/2983311), ![][flag_DK] [Tonarinototoro](https://osu.ppy.sh/users/2678812) |
 

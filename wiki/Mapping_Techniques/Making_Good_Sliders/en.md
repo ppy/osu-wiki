@@ -1,4 +1,4 @@
-# Making Good Sliders
+# Making good sliders
 
 This article is a how-to on making good sliders.
 In the most basic form, all you need is a [bézier curve](https://en.wikipedia.org/wiki/B%C3%A9zier_curve).
@@ -43,7 +43,7 @@ Disable grid snap and move them both in by a tiny bit at a time until the slider
 
 ## Beat Blankets
 
-*Main page: [Blanket Combos](../Formations/#blanket-combos)*
+*Main page: [Blanket Combos](/wiki/Mapping_Techniques/Formations/#blanket-combos)*
 
 ![Image example of beat blankets (with hit circle)](img/MGS_blankets.png)
 

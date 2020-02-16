@@ -2,7 +2,7 @@
 outdated: true
 ---
 
-# osu! wiki
+# History of the osu! wiki
 
 ## MediaWiki (2011 - 2017)
 

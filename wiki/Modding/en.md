@@ -2,7 +2,7 @@
 
 **Modding** is the act of providing feedback on another user's [beatmap](/wiki/Beatmaps). A user who is modding is referred to as a *modder*, and their collective posts on a beatmap's discussion are referred to as a *mod*.
 
-Mods are mainly used to improve beatmaps aiming for [Ranked status](/wiki/Beatmaps#ranked). Because it is a detailed and analytical process, modding beatmaps is also a popular way for users improve their understanding of beatmapping.
+Mods are mainly used to improve beatmaps aiming for [Ranked status](/wiki/Beatmaps#ranked). Because it is a detailed and analytical process, modding beatmaps is also a popular way for users to improve their understanding of beatmapping.
 
 ## Finding beatmaps to mod
 
@@ -21,17 +21,17 @@ While there are countless ways to discover beatmaps to mod, the following are a 
 
 ## How to mod
 
-To mod a beatmapset, start by downloading the most up-to-date version and opening its discussion page. Play the difficulty you want to mod and keep in mind any gameplay-related issues. When completed, open the difficulty in the editor and analyze it for other issues.
+To mod a beatmapset, start by downloading the most up-to-date version and opening its [discussion page](/wiki/Beatmap_Discussion). Play the [difficulty](/wiki/Difficulties) you want to mod and keep any gameplay-related issues in mind. When completed, open the difficulty in the editor and analyze it for other issues.
 
 When you come across an issue, select any relevant hit objects, then use the copy shortcut (`Ctrl` + `C`) to copy their timestamp information as text. On the beatmap's discussion, paste (`Ctrl` + `V`) any applicable timestamps and your feedback. The `Timeline` tab is used for issues regarding specific parts of a beatmap, the `General (This difficulty)` tab is used for feedback on larger sections of a beatmap, and the `General (All difficulties)` tab is used for issues applicable to all difficulties on a beatmapset.
 
 All mod posts should address what the issue is, why it is an issue, and how to fix it. See the [Code of Conduct for Modding and Mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping#making-a-mod-post) for more details on how to format mod posts.
 
-Beatmappers regularly provide [kudosu](/wiki/Glossary#kudosu!) to mod posts that they consider helpful with by clicking the *thumbs up* vote button. This statistic is tracked on an individual's profile and is referenced when applying to join the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators).
+Beatmappers regularly provide [kudosu](/wiki/Glossary#kudosu!) to mod posts that they consider helpful by clicking the *thumbs up* vote button. This statistic is tracked on an individual's profile and is referenced when applying to join the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators).
 
 ## Types of mod posts
 
-The goal of each `Problem` or `Suggestion` post on a beatmap discussion is to explain anything concerning about a beatmap in the context of its design.
+The goal of each `Problem` or `Suggestion` post on a beatmap discussion page is to explain anything concerning about a beatmap in the context of its design.
 
 Many mod posts address mistakes in a beatmap. For example, a missing clap hitsound which would be expected by the beatmap's hitsounding pattern is likely a mistake.
 

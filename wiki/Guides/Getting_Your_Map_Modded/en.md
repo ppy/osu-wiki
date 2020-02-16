@@ -1,6 +1,6 @@
-# Getting Your Map Modded
+# How to get your map modded
 
-In order for your map to become [ranked](/wiki/Beatmaps), it must get [modded](/wiki/Modding). There are multiple ways to accomplish this task.
+In order for your map to become [ranked](/wiki/ranked), it must get [modded](/wiki/Modding). There are multiple ways to accomplish this task.
 
 ## \#modreqs
 

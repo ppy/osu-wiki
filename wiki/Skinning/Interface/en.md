@@ -5,7 +5,7 @@ needs_cleanup: true
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
 
-# Interface
+# Interface skinning
 
 *See also: [Skinning Interface Tutorial](/wiki/Skinning_Interface_Tutorial) and [Interface](/wiki/Interface)*
 
@@ -433,6 +433,20 @@ Notes:
 
 ---
 
+`selection-mod-mirror.png`
+
+![](img/selection-mod-mirror.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
+
+Notes:
+
+- This element is [osu!mania](/wiki/osu!mania)-specific.
+
+---
+
 `selection-mod-nightcore.png`
 
 ![](img/selection-mod-nightcore.png)
@@ -782,7 +796,7 @@ Notes:
 
 ### Hit bursts
 
-*Main page: [Skinning/FAQ § Ranking screen hierarchy](/wiki/Skinning/FAQ/#ranking-screen-hierarchy)*
+*Main page: [Skinning/FAQ § Ranking screen hierarchy](/wiki/Skinning/FAQ#ranking-screen-hierarchy)*
 
 ---
 

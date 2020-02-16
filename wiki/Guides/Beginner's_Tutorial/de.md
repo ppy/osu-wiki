@@ -24,7 +24,7 @@ Maus-Spieler haben meistens hiermit Probleme:
 
 ### Graphiktablet
 
-Wenn du schon ein Tablet nutzt, solltest du versuchen ein Spielbereich zu nehmen, der für dich beim Spielen angenehm ist. Wenn du extra für osu! ein Tablet kaufen willst, kannst du ja dir die [Tabletkauf](Tablet_purchase "wikilink") Anleitung anschauen. Zusätzlich solltest du dir die Spitzen von deinen Tablet aufbewahren, da diese sich beim Spielen abnutzen werden, besonders wenn du sehr schnell spielen solltest. Während du das Tablet nutzen kannst, um in die Hitcicles zu klicken, nutzen die Meisten Spieler zusätzlich die Tastertur, was wir ein klein wenig später auch noch behandeln werden. Graphiktablets haben die Vorteile:
+Wenn du schon ein Tablet nutzt, solltest du versuchen ein Spielbereich zu nehmen, der für dich beim Spielen angenehm ist. Wenn du extra für osu! ein Tablet kaufen willst, kannst du ja dir die [Tabletkauf](/wiki/Guides/Tablet_purchase "wikilink") Anleitung anschauen. Zusätzlich solltest du dir die Spitzen von deinen Tablet aufbewahren, da diese sich beim Spielen abnutzen werden, besonders wenn du sehr schnell spielen solltest. Während du das Tablet nutzen kannst, um in die Hitcicles zu klicken, nutzen die Meisten Spieler zusätzlich die Tastertur, was wir ein klein wenig später auch noch behandeln werden. Graphiktablets haben die Vorteile:
 
 -   Keine Ungenauigkeiten.
 -   Bewegungen und Geschwindigkeit sind Präzise.

@@ -19,10 +19,7 @@ tags:
 
 Berikut adalah nama tingkat kesulitan yang biasa dimiliki dalam beatmap. Definisi dan persyaratan khusus dari masing - masing tingkat dapat ditemukan dalam [kriteria beatmap Ranked](/wiki/Ranking_Criteria) untuk masing - masing mode.
 
-<!-- markdownlint-disable MD045 -->
-<!-- markdownlint-disable MD026 -->
 ### ![](/wiki/shared/mode/osu.png) osu!
-<!-- markdownlint-enable MD026 -->
 
 - ![](/wiki/shared/diff/easy-s.png) Easy
 - ![](/wiki/shared/diff/normal-s.png) Normal
@@ -57,7 +54,6 @@ Berikut adalah nama tingkat kesulitan yang biasa dimiliki dalam beatmap. Definis
 - ![](/wiki/shared/diff/insane-m.png) Insane
 - ![](/wiki/shared/diff/expert-m.png) Expert
 - ![](/wiki/shared/diff/expertplus-m.png) Expert+
-<!-- markdownlint-enable MD045 -->
 
 ## Star rating (tingkat kesulitan dalam skala bintang)
 
@@ -65,13 +61,11 @@ Berikut adalah nama tingkat kesulitan yang biasa dimiliki dalam beatmap. Definis
 
 Di situs web, beatmap secara otomatis diberikan ikon kesulitan berdasarkan rentang *star rating* ini:
 
-<!-- markdownlint-disable MD045 -->
 - ![](/wiki/shared/diff/easy-s.png) Easy: 0.0★–1.99★
 - ![](/wiki/shared/diff/normal-s.png) Normal: 2.0★–2.69★
 - ![](/wiki/shared/diff/hard-s.png) Hard: 2.7★–3.99★
 - ![](/wiki/shared/diff/insane-s.png) Insane: 4.0★–5.29★
 - ![](/wiki/shared/diff/expert-s.png) Expert: 5.3★–6.49★
 - ![](/wiki/shared/diff/expertplus-s.png) Expert+: 6.5★ dan di atasnya
-<!-- markdownlint-enable MD045 -->
 
 Tingkat kesulitan yang dimiliki dan diberikan pada sebagian besar beatmap cocok dengan ikon yang diberikan, tetapi beberapa menyimpang bahkan secara signifikan. Inilah sebabnya mengapa [kriteria beatmap Ranked](/wiki/Ranking_Criteria) mendefinisikan aturan yang lebih akurat untuk menentukan kesulitan dan mengavaluasi semua set yang ada dalam beatmap.

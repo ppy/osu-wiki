@@ -33,9 +33,9 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 6 months of osu!supporter tag, profile badge, osu! merchandise, "osu!mania Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, profile badge, osu! merchandise, "osu!mania Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
 ## Organisation
 
@@ -142,9 +142,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | 4K Bracket | 7K Bracket |
 | :-: | :-- | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_KR] **South Korea** | ![][flag_KR] **South Korea** |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_PH] **Philippines** | ![][flag_TH] **Thailand** |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_MY] **Malaysia** | ![][flag_MY] **Malaysia** |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] **South Korea** | ![][flag_KR] **South Korea** |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PH] **Philippines** | ![][flag_TH] **Thailand** |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_MY] **Malaysia** | ![][flag_MY] **Malaysia** |
 
 ------------------------------------------------------------------------
 

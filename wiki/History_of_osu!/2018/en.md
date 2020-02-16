@@ -2,7 +2,7 @@
 outdated: true
 ---
 
-# 2018
+# History of osu! 2018
 
 ## January
 

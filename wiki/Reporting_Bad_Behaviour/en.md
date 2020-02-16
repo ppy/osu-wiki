@@ -2,7 +2,7 @@
 needs_cleanup: true
 ---
 
-# Reporting Bad Behaviour
+# Reporting bad behaviour
 
 ## What is the report system?
 

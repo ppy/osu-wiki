@@ -27,9 +27,9 @@ The **Advanced Global Taiko Showdown 2019** (***AGTS 2019***) was an advanced wo
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge, exclusive team banner |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Exclusive team banner |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Exclusive team banner |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, exclusive team banner |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Exclusive team banner |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Exclusive team banner |
 
 ![AGTS 2019 Winner Badge](img/badge.png)
 
@@ -114,9 +114,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Country |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_JP] Japan |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_CA] Canada |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_RU] Russian Federation A |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_JP] Japan |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CA] Canada |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_RU] Russian Federation A |
 
 ---
 
