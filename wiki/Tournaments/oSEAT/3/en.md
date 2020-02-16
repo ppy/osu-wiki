@@ -116,7 +116,7 @@ The osu! South East Asia 3 was run by various community members.
 
 ### Grand Finals
 
-**[Download the mappack here! (132 MB)](https://drive.google.com/file/d/1UTTv0agwW-iwPNYtd4Orj3tOxNJqdVbn/view?usp=sharing)**
+**[Download the mappack here! (130 MB)](https://drive.google.com/file/d/1GS7xi9NJm6pZujzw-ylg0hyLEvlz2luy/view)**
 
 - NoMod
   - [hitorie - Little Cry Baby (moph) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1098258#osu/2294643)
