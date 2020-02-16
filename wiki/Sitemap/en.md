@@ -27,6 +27,7 @@ tags:
   - [Timing](/wiki/Beatmap_Editor/Timing)
 - [Beatmap ranking procedure](/wiki/Beatmap_ranking_procedure)
 - [Beatmapping](/wiki/Beatmapping)
+  - [Approach rate](/wiki/Beatmapping/Approach_rate)
 - [Beatmaps](/wiki/Beatmaps)
   - [History of Loved](/wiki/Beatmaps/History_of_Loved)
   - [Packs](/wiki/Beatmaps/Packs)
