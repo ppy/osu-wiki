@@ -49,7 +49,7 @@ When your registration was successful, your team's captain will be notified. _An
 ## Links
 
 -   [Registration Form](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY/edit)
--   [Wiki article](ttps://osu.ppy.sh/help/wiki/Tournaments/MWC/2014)
+-   [Wiki article](https://osu.ppy.sh/help/wiki/Tournaments/MWC/2014)
 -   [Discussion thread](https://osu.ppy.sh/community/forums/topics/222100)
 
 —Loctav

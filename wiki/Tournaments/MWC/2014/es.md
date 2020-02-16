@@ -25,9 +25,9 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 
 | Placing                                                    | Prize(s)                                                                                              |
 |------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 meses de support, placa para el perfil, merchandise de osu!, título de usuario «osu!mania Champion» |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 meses de support                                                                                    |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 mes de support                                                                                      |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 6 meses de support, placa para el perfil, merchandise de osu!, título de usuario «osu!mania Champion» |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 meses de support                                                                                    |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 mes de support                                                                                      |
 
 ## Organización
 

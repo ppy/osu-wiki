@@ -8,11 +8,9 @@ osu! thrives on the unsung efforts of its community, and among them, a few exemp
 
 ![](/wiki/shared/news/2020-02-07-community-contributors-2019/header.jpg)
 
-Perhaps the most prestigious of all profile badges awarded, the Community Contributor badge represents enduring contribution to the development of the osu!community through a variety of disciplines and fields. 
+Perhaps the most prestigious of all profile badges awarded, the Community Contributor badge represents enduring contribution to the development of the osu!community through a variety of disciplines and fields.
 
-<div align="center">
-    <img src="https://assets.ppy.sh/profile-badges/contributor.jpg"/>
-</div>
+![Community Contributor badge](https://assets.ppy.sh/profile-badges/contributor.jpg)
 
 Those who receive it have undoubtedly left their mark on the game for the better. Today, we acknowledge the efforts of several more.
 
@@ -30,7 +28,7 @@ Previously known as *handsome*, **hehe** is a founding member of the Corsace pro
 
 [![](/wiki/shared/news/2020-02-07-community-contributors-2019/Noffy.jpg)](https://osu.ppy.sh/users/1541323)
 
-A universal fixture within the NAT, **Noffy** has quickly made a name for herself as one of the prime contributors towards the continued maintenance and development of the game as far as the modding, mapping and metadata goes. 
+A universal fixture within the NAT, **Noffy** has quickly made a name for herself as one of the prime contributors towards the continued maintenance and development of the game as far as the modding, mapping and metadata goes.
 
 Her continued oversight and assistance with GitHub issue tracking, contribution to the Mappers' Guild and her general all-around presence exemplify a spirit that has driven some of the osu! community's most notable people into shaping the game into what it is today.
 
@@ -70,12 +68,11 @@ After Halfslashed stepped down, **yaspo** picked up the slack and stepped up to 
 
 Both of them are exemplary examples of the kind of dedication that has punctuated over ten years of osu!, and we are enormously grateful for their continued support.
 
-
 ## Tournaments
 
 [![](/wiki/shared/news/2020-02-07-community-contributors-2019/PuffBuck.jpg?)](https://osu.ppy.sh/users/4234525)
 
-**PuffBuck** is always watching. No truer words have ever been spoken. 
+**PuffBuck** is always watching. No truer words have ever been spoken.
 
 A superfan of the osu! World Cups since the very beginning, if there's been a broadcast, PuffBuck has been there. Recently brought aboard as an official moderator in light of his eagerness to help moderate the abject insanity of our Twitch channel's chat, PuffBuck has since tackled the task with almost maniacal dedication, at times pulling over 20 hour shifts to ensure things are kept clean and enjoyable for everyone. Beyond this, his contributions to the upkeep of the World Cups have been noted as exemplary.
 
@@ -83,7 +80,7 @@ To express the enormity of his dedication further, we're honestly not sure that 
 
 [![](/wiki/shared/news/2020-02-07-community-contributors-2019/Doomsday.jpg)](https://osu.ppy.sh/users/18983)
 
-osu!Alumni and all around great guy, **Doomsday** has been something of an eternal presence in the osu!community since its earliest days, sporting membership in the now-defunct Beatmap Appreciation Team (also known as the BAT). 
+osu!Alumni and all around great guy, **Doomsday** has been something of an eternal presence in the osu!community since its earliest days, sporting membership in the now-defunct Beatmap Appreciation Team (also known as the BAT).
 
 In recent years, he's been something of a foundational member of the osu! streaming community, including an unquestioned legacy of utterly spotless casting for five whole years of back-to-back presence, hosting his own successful tournament series titled the *Corgi Cup* and generally providing support, guidance and encouragement to players both new and old.
 
@@ -93,7 +90,7 @@ A paragon of positivity, Doomsday stands out among a tiny crowd of definitive ro
 
 [![](/wiki/shared/news/2020-02-07-community-contributors-2019/Kano.jpg)](https://osu.ppy.sh/users/3036203)
 
-Involved in over four osu! World Cups and counting as both commentators and map selectors, the enigmatic duo of **omgforz** and **Kano** have directly contributed to the enormous success of the tournament overall. 
+Involved in over four osu! World Cups and counting as both commentators and map selectors, the enigmatic duo of **omgforz** and **Kano** have directly contributed to the enormous success of the tournament overall.
 
 Injecting much-needed perspective from top-end players into the tournaments, these two hypercarries have been responsible for a lot of changes that have made the OWC far better to actually play in, and have dedicated incredible amounts of time to make sure everything functions exactly as it should. To highlight this dedication, Kano has had multiple occasions of staying awake for over 20 hours to polish off selections for upcoming sets, and even managing to commentate a showcase directly afterwards.
 
@@ -141,9 +138,7 @@ We're deeply grateful for his hundreds of hours of contributions across a huge s
 
 In an effort to acknowledge the people who form the spine of osu!'s ranking system, we will be awarding a new form of Elite badges each year to commemorate the contributions of that year's most impressive Beatmap Nominators.
 
-<div align="center">
-    <img src="https://assets.ppy.sh/profile-badges/elite-nominator.png"/>
-</div>
+![Elite Nominator badge](https://assets.ppy.sh/profile-badges/elite-nominator.png)
 
 Only the most engaged qualify for such an accolade, those who truly stand at the top of their cohort as inarguably the most active and engaged Beatmap Nominators of all.
 
@@ -203,7 +198,7 @@ Clocking in at just over a year served in the Beatmap Nominators, **wonjae**'s c
 
 One of the most active osu!mania nominators since joining in early 2019, **\_Kobii** has been active in pushing maps in not just the 4k mode, or the 7k mode, but also 6k, 9k, and more! On top of that, they have been very approachable for mappers new and old in the osu!mania mapping community and serve as a great example of what a Beatmap Nominator can be!
 
--------
+---
 
 2019 was one of the strongest years osu! has had so far, and it is in no small part due to the efforts of those listed above.
 

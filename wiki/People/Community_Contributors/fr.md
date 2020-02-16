@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 1888a7f1a26e092596d8f4067f2282d9f7443867
+---
+
 # Les contributeurs importants de la communauté
 
 ![Badge du contributeur](/wiki/shared/contributor.jpg "Badge du contributeur")

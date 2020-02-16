@@ -27,8 +27,8 @@ The **osu! Asia Oceania Tournament** (***o!AOT***) was an Asian and Oceanian dou
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge, 2 months of osu!supporter tag |
-| ![Silver Crown](/wiki/shared/GCrown.png "2nd place") | 1 month of osu!supporter tag |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 2 months of osu!supporter tag |
+| ![Silver Crown](/wiki/shared/crown-gold.png "2nd place") | 1 month of osu!supporter tag |
 
 ![o!AOT Winner Badge](img/badge.png)
 
@@ -114,9 +114,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 進撃のバブルティー |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 黃建智 |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 과로사 |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 進撃のバブルティー |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 黃建智 |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 과로사 |
 
 ---
 

@@ -26,7 +26,7 @@ La **Catch French Intermediate Cup 2** (***CFIC 2***) est un tournoi 1v1 frança
 
 | Classement | Récompenses |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | Badge sur le profil |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | Badge sur le profil |
 
 ## Organisation
 

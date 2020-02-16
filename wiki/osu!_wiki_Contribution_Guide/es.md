@@ -50,7 +50,7 @@ Si, durante cualquier parte, estás confundido y/o necesitas ayuda adicional, si
 
 3\. Esto no es un gran problema; es decir, si no vas a editar un archivo que ya fue modificado, que puede ser poco probable, más revisiones tendrás.
 
-4\. Para solucionar esto, ve a [la sección ¡Mi bifurcación está desactualizada! en el artículo Problemas Comúnes](/wiki/owcg/Common_Issues/#my-branch-is-out-of-date!).
+4\. Para solucionar esto, ve a [la sección ¡Mi bifurcación está desactualizada! en el artículo Problemas Comúnes](/wiki/owcg/Common_Issues#my-branch-is-out-of-date!).
 
 5\. Una vez que hayas completado el paso 4, continúa [Editando en línea o localmente](#editing-online-or-locally).
 

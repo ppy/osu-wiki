@@ -27,9 +27,9 @@ tags:
 
 | Puestos | Premio(s) |
 | :-: | :-- |
-| ![Corona de Oro](/wiki/shared/GCrown.png "1er lugar") | Medalla única de perfil, banner de equipo exclusivo |
-| ![Corona de Plata](/wiki/shared/SCrown.png "2ndo lugar") | Banner de equipo exclusivo |
-| ![Corona de Bronce](/wiki/shared/BCrown.png "3er lugar") | Banner de equipo exclusivo |
+| ![Corona de Oro](/wiki/shared/crown-gold.png "1er lugar") | Medalla única de perfil, banner de equipo exclusivo |
+| ![Corona de Plata](/wiki/shared/crown-silver.png "2ndo lugar") | Banner de equipo exclusivo |
+| ![Corona de Bronce](/wiki/shared/crown-bronze.png "3er lugar") | Banner de equipo exclusivo |
 
 ![Medalla para el ganador de AGTS 2019](img/badge.png)
 
@@ -114,9 +114,9 @@ Esta competencia ha llegado a su fin y los acreedores al podio son los siguiente
 
 | Posición | País |
 | :-: | :-- |
-| ![Corona de Oro](/wiki/shared/GCrown.png "1er lugar") | ![][flag_JP] Japón |
-| ![Corona de Plata](/wiki/shared/SCrown.png "2ndo lugar") | ![][flag_CA] Canadá |
-| ![Corona de Bronce](/wiki/shared/BCrown.png "3er lugar") | ![][flag_RU] Rusia A |
+| ![Corona de Oro](/wiki/shared/crown-gold.png "1er lugar") | ![][flag_JP] Japón |
+| ![Corona de Plata](/wiki/shared/crown-silver.png "2ndo lugar") | ![][flag_CA] Canadá |
+| ![Corona de Bronce](/wiki/shared/crown-bronze.png "3er lugar") | ![][flag_RU] Rusia A |
 
 ---
 

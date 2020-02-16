@@ -46,7 +46,7 @@ If, during any part, you are confused and/or need further help, feel free to sen
 
 3. This isn't much of a problem; that is, if you aren't going to edit a file that was already changed which may be unlikely the more commits you are behind.
 
-4. To resolve this, see the [My branch is out of date! section in the Common Issues article](/wiki/owcg/Common_Issues/#my-branch-is-out-of-date!).
+4. To resolve this, see the [My branch is out of date! section in the Common Issues article](/wiki/owcg/Common_Issues#my-branch-is-out-of-date!).
 
 5. When you complete step 4, continue to [Editing online or locally](#editing-online-or-locally).
 

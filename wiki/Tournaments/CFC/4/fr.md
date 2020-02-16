@@ -25,7 +25,7 @@ La **Catch French Cup 4** (***CFC 4***) était un tournoi osu!catch français en
 
 | Classement | Récompenses |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | Badge sur le profil |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | Badge sur le profil |
 
 ![Badge du gagnant de la CFC4](img/badge.png)
 
@@ -79,9 +79,9 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 | Classement | Joueur |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![][flag_FR] [Alostis](https://osu.ppy.sh/users/2986875) |
-| ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
-| ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![][flag_FR] [Alostis](https://osu.ppy.sh/users/2986875) |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
 
 ---
 
