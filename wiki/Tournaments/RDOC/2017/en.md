@@ -31,7 +31,7 @@ The **Royal Danish osu!Cup 2017** (***RDOC 2017***) was a Danish 1v1 double-elim
 | ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | 4 months of osu!supporter tag |
 | *4th place* | 2 months of osu!supporter tag |
 
-![RDOC winner badge](img/badge.png)
+![RDOC 2017 winner badge](img/badge.png)
 
 ## Organisation
 
@@ -81,9 +81,9 @@ The Royal Danish osu!Cup 2017 was run by various community members.
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_DK] [raser1234](https://osu.ppy.sh/users/2527887) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_DK] [iamVill](https://osu.ppy.sh/users/6295380) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653) |
+| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_DK] [raser1234](https://osu.ppy.sh/users/2527887) |
+| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_DK] [iamVill](https://osu.ppy.sh/users/6295380) |
+| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653) |
 | 4th place | ![][flag_DK] [teamplayer51](https://osu.ppy.sh/users/3084508) |
 
 ## Mappools
@@ -413,7 +413,7 @@ Saturday, 2017-03-04:
 2. This tournament uses a double-elimination bracket and single-player format. There are no teams here.
 3. The score system used will be **Score V1**.
 4. To participate you **must** join the Discord for the duration of the tournament.
-5. Match schedule is decided by the organisers. Players may ask for a reschedule if the current schedule does not work for them. Every stage except Groupstage will last one weekend. Groupstage will be played over two weekends instead due to the relatively small staff-size.
+5. Match schedule is decided by the organisers. Players may ask for a reschedule if the current schedule does not work for them. Every stage except Group stage will last one weekend. Grou pstage will be played over two weekends instead due to the relatively small staff-size.
 6. If there are no referees available, the match can be postponed.
 7. If both players get the same score on a Tiebreaker, the Tiebreaker will be replayed.
 8. Players have 15 minutes to show up to their scheduled match. If the opponent doesn't show up, the player who was supposed to play automatically advances onwards.
@@ -437,7 +437,7 @@ Saturday, 2017-03-04:
 ### Match regulations
 
 1. A private lobby will be created for your match, and both players will be invited approx. 10 minutes before their appointed time.
-2. Each player can request one warmup map, but it must be **below 4 minutes**. (Does not apply to Groupstage, as there are no warmups)
+2. Each player can request one warmup map, but it must be **below 4 minutes**. (Does not apply to Group stage, as there are no warmups)
 3. After warmups each player will `!roll`:
    - The player who rolled the higher number bans first. The players will then alternate bans until all bans have been used. (High -> Low -> High -> Low)
    - The first person to pick will be the player who rolled the lower number. The players will then alternate picks. (Low -> High -> Low -> High -> ...)

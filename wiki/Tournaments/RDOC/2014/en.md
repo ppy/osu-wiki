@@ -57,9 +57,9 @@ The Royal Danish osu!Cup 2014 was run by various community members.
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_DK] [TimG](https://osu.ppy.sh/users/1879963) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_DK] [Tropians](https://osu.ppy.sh/users/2536611) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_DK] [Broniel](https://osu.ppy.sh/users/3175330) |
+| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_DK] [TimG](https://osu.ppy.sh/users/1879963) |
+| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_DK] [Tropians](https://osu.ppy.sh/users/2536611) |
+| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_DK] [Broniel](https://osu.ppy.sh/users/3175330) |
 | 4th place | ![][flag_DK] [PlasticSmoothie](https://osu.ppy.sh/users/296565) |
 | 5th/6th place | ![][flag_DK] [Gupply](https://osu.ppy.sh/users/2983311), ![][flag_DK] [Tonarinototoro](https://osu.ppy.sh/users/2678812) |
 
@@ -243,6 +243,8 @@ Friday, 2014-02-21:
 
 Friday, 2014-02-21:
 
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
 | UB | powerupgm ![][flag_DK] | 0 | **3** | ![][flag_DK] **Broniel** |
 | UB | **Shiryuu** ![][flag_DK] | **3** | 0 | ![][flag_DK] powerupgm |
 | UB | Mr.proncoz ![][flag_DK] | 0 | **3** | ![][flag_DK] **Ximadi** |

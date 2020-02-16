@@ -191,7 +191,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[goreshit - o'er the flood \[The Flood Beneath\]](https://osu.ppy.sh/beatmapsets/51972#osu/181253)**
 
-### Groupstage
+### Group Stage
 
 - NoMod
   - [Xelia - Illumiscape \[Another\]](https://osu.ppy.sh/beatmapsets/43960#osu/137840)
@@ -309,7 +309,7 @@ Saturday, 2016-01-23:
 | UB | KaHLK ![][flag_DK] | 1 | **4** | ![][flag_DK] **Zog** |
 | UB | Tropians ![][flag_DK] | 2 | **4** | ![][flag_DK] **waefwerf** |
 
-### Groupstage
+### Group Stage
 
 *Note: This is an incomplete list, as all records before Round of 16 have been lost to time.*
 
