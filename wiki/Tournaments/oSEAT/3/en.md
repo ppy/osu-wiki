@@ -32,12 +32,12 @@ The **osu! South East Asia Tournament 3** (***oSEAT3***) is a South East Asian d
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 1 year of osu!supporter tag |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter tag |
-| 4th place | 2 months of osu!supporter tag |
-| 5th place | 1 month of osu!supporter tag |
+| *4th place* | 2 months of osu!supporter tag |
+| *5th place* | 1 month of osu!supporter tag |
 
 *Note: 5th place will be determined by a playoff.*
 
-![oSEAT3 winner badge](img/badge.png)
+![oSEAT3 winner badge](img/badge.png "SOFT4 Winner Badge")
 
 ## Organisation
 
