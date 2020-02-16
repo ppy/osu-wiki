@@ -301,6 +301,15 @@ The osu! South East Asia 3 was run by various community members.
 
 ## Match results
 
+### Grand Finals
+
+Sunday, 16 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| LoidKun ![][flag_ID] | 1 | **7** | ![][flag_SG] **Rtyzen** | [#1](https://osu.ppy.sh/community/matches/58493519), [#2](https://osu.ppy.sh/community/matches/58497423) |
+| **Skydiver** ![][flag_ID] | **7** | 0 | ![][flag_SG] Rtyzen | [#1](https://osu.ppy.sh/community/matches/58498398) |
+
 ### Finals
 
 Saturday, 8 February 2020:
