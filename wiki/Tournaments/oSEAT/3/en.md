@@ -301,6 +301,23 @@ The osu! South East Asia 3 was run by various community members.
 
 ## Match results
 
+### Finals
+
+Saturday, 8 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Rtyzen** ![][flag_SG] | **7** | 1 | ![][flag_MY] Tzero | [#1](https://osu.ppy.sh/community/matches/58293456) |
+| **Skydiver** ![][flag_ID] | **7** | 5 | ![][flag_ID] LoidKun | [#1](https://osu.ppy.sh/community/matches/58291987) |
+
+Sunday, 9 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| GSBlank ![][flag_MY] | 6 | **7** | ![][flag_PH] **MioMilo** | [#1](https://osu.ppy.sh/community/matches/58294546) |
+| Tzero ![][flag_MY] | -1 | **0** | ![][flag_MY] **GSBlank** | *win by default* |
+| **Rtyzen** ![][flag_SG] | **7** | 3 | ![][flag_PH] MioMilo | [#1](https://osu.ppy.sh/community/matches/58324166) |
+
 ### Semifinals
 
 Sunday, 26 January 2020:
