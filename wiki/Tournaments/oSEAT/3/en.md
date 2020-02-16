@@ -8,7 +8,7 @@ tags:
 
 ![oSEAT3 logo](img/logo.jpg)
 
-The **osu! South East Asia Tournament 3** (***oSEAT3***) is a South East Asian double-elimination 1v1 osu! tournament hosted by ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), and ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911). This is the third installment of the osu! South East Asia Tournament.
+The **osu! South East Asia Tournament 3** (***oSEAT3***) was a South East Asian double-elimination 1v1 osu! tournament hosted by ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), and ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911). This was the third installment of the osu! South East Asia Tournament.
 
 ## Tournament schedule
 
@@ -35,13 +35,13 @@ The **osu! South East Asia Tournament 3** (***oSEAT3***) is a South East Asian d
 | *4th place* | 2 months of osu!supporter tag |
 | *5th place* | 1 month of osu!supporter tag |
 
-*Note: 5th place will be determined by a playoff.*
+*Note: 5th place was determined by a playoff.*
 
 ![oSEAT3 winner badge](img/badge.png "SOFT4 Winner Badge")
 
 ## Organisation
 
-The osu! South East Asia 3 is run by various community members.
+The osu! South East Asia 3 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
