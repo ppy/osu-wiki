@@ -16,7 +16,7 @@ The **Royal Danish osu!Cup 2019** (***RDOC 2019***) is an ongoing Danish 1v1 dou
 | --: | :-- |
 | Registration phase | 2020-01-10/2020-01-24 |
 | Qualifiers | 2020-02-07/2020-02-16 |
-| Live drawings | *TBD* |
+| Live drawings | *to be determined* |
 | Group Stage | 2020-02-22/2020-03-01 |
 | Round of 16 | 2020-03-07/2020-03-08 |
 | Quarterfinals | 2020-03-14/2020-03-15 |
@@ -57,18 +57,6 @@ The Royal Danish osu!Cup 2019 is run by various community members.
 - [Challonge brackets](https://challonge.com/rdoc2019)
 - **[Statistics Sheet](https://docs.google.com/spreadsheets/d/1BQdMhY_3cX1qQytr3X0yszqjFNwOQ_yd8CVnwQaArOk/edit?usp=sharing)**
 
-## Participants
-
-*TBD*
-
-## Groups
-
-*TBD*
-
-## Podium
-
-*TBD*
-
 ## Mappools
 
 ### Qualifiers
@@ -87,10 +75,6 @@ The Royal Danish osu!Cup 2019 is run by various community members.
 - DoubleTime
   - [Yasuda Rei - Mirror -TV edit- [Insane]](https://osu.ppy.sh/beatmapsets/211036#osu/496376)
   - [BoA - MASAYUME CHASING [Insane]](https://osu.ppy.sh/beatmapsets/176805#osu/425707)
-
-## Match results
-
-*TBD*
 
 ## Ruleset
 
