@@ -32,7 +32,7 @@ The **Speed of Light Mania Tournament** (***SOLMT***) was a head-to-head (1 vs. 
 | ![Silver crown](/wiki/shared/SCrown.png "2nd place") | Corsair K70 RapidFire MK.2, 2 months of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | Razer Huntsman Tournament Edition (TKL), 1 month of osu!supporter tag |
 
- ![SOLMT winner badge](img/badge.png "SoL Winner Badge")
+ ![SOLMT winner badge](img/badge.png)
 
 ## Organisation
 
@@ -97,7 +97,7 @@ The Speed of Light Mania Tournament was run by various community members.
 This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
-| :-: | --- |
+| :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_PH] [**bojii**](https://osu.ppy.sh/users/10083439) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_BR] [**andreymc**](https://osu.ppy.sh/users/5691061) |
 | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_MY] [**cheewee10**](https://osu.ppy.sh/users/4477497) |
