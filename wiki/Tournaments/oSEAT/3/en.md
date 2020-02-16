@@ -114,6 +114,35 @@ The osu! South East Asia 3 was run by various community members.
 
 ## Mappools
 
+### Grand Finals
+
+**[Download the mappack here! (132 MB)](https://drive.google.com/file/d/1UTTv0agwW-iwPNYtd4Orj3tOxNJqdVbn/view?usp=sharing)**
+
+- NoMod
+  - [hitorie - Little Cry Baby (moph) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1098258#osu/2294643)
+  - [Camellia vs Akira Complex - Railgun Roulette (VIP) (NeilPerry) \[Neil x Sharu, Syzygy\]](https://osu.ppy.sh/beatmapsets/694402#osu/1469136)
+  - [-45 - Rougoku STRIP (Deramok) \[..!\]](https://osu.ppy.sh/beatmapsets/583171#osu/1234064)
+  - [xi - d e a t h p i a n o \~for four pianos\~ (Riana) \[Deadly\]](https://osu.ppy.sh/beatmapsets/950606#osu/1986856)
+  - [Carpool Tunnel - Afterlight (\_Epreus) \[Expert\]](https://osu.ppy.sh/beatmapsets/1001546#osu/2096611)
+- Hidden
+  - [A.SAKA - Nanatsu Koyoto (xLolicore-) \[Skystar's Extra\]](https://osu.ppy.sh/beatmapsets/768281#osu/1615857)
+  - [AQUAELIE - Death Dial (Yusomi) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/742095#osu/1565367)
+  - [Loki - With Fire and Sword (2013) (TheShadowOfDark) \[Minorsonek's Scintillation\]](https://osu.ppy.sh/beatmapsets/1088528#osu/2276018)
+- HardRock
+  - [Team.NEKOKAN - Airman ga Taosenai (Sotarks) \[Blown by the Wind\]](https://osu.ppy.sh/beatmapsets/732994#osu/1546425)
+  - [mocchie - Onsoku no Greenwich (elege) \[Sealing Club\]](https://osu.ppy.sh/beatmapsets/300048#osu/673008)
+  - [Marguerite du Pre - Marie Antoinette (Crimmi) \[Black Another\]](https://osu.ppy.sh/beatmapsets/450147#osu/967923)
+- DoubleTime
+  - [Halozy - Secret Sister Complex (moonlightleaf) \[Flandre\]](https://osu.ppy.sh/beatmapsets/683123#osu/1444708)
+  - [Aso Natsuko - Perfect-area complete! (gary00737) \[Pata-Mon's Insane\]](https://osu.ppy.sh/beatmapsets/927758#osu/1957037)
+  - [Venetian Snares - Szamar Madar (fergas) \[Insane\]](https://osu.ppy.sh/beatmapsets/311327#osu/695401)
+  - [omniboi - BonBon (Kyshiro) \[Happy\]](https://osu.ppy.sh/beatmapsets/505729#osu/1075827)
+- FreeMod
+  - [Dance Gavin Dance - Son of Robot (Alumetri) \[Catharsis\]](https://osu.ppy.sh/beatmapsets/1047286#osu/2189162)
+  - [SHK - Imagination (ktgster) \[SHD\]](https://osu.ppy.sh/beatmapsets/1078340#osu/2256378)
+  - [Tatsh feat. Tsukiko - Floating Darkness (Cheri) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1054865#osu/2204124)
+  - [xi - FREEDOM DiVE (Nakagawa-Kanon) \[FOUR DIMENSIONS\]](https://osu.ppy.sh/beatmapsets/39804#osu/129891)
+
 ### Finals
 
 **[Download the mappack here! (132 MB)](https://drive.google.com/file/d/1UTTv0agwW-iwPNYtd4Orj3tOxNJqdVbn/view?usp=sharing)**
