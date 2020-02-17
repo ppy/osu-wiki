@@ -17,7 +17,7 @@ The **Royal Danish osu!Cup 2019** (***RDOC 2019***) is an ongoing Danish 1v1 dou
 | Registration phase | 2020-01-10/2020-01-24 |
 | Qualifiers | 2020-02-07/2020-02-16 |
 | Live drawings | *TBD* |
-| Group Stage | 2020-02-22/2020-03-01 |
+| Round of 32 | 2020-02-22/2020-03-01 |
 | Round of 16 | 2020-03-07/2020-03-08 |
 | Quarterfinals | 2020-03-14/2020-03-15 |
 | Semifinals | 2020-03-21/2020-03-22 |
@@ -59,11 +59,9 @@ The Royal Danish osu!Cup 2019 is run by various community members.
 
 ## Participants
 
-*TBD*
-
-## Groups
-
-*TBD*
+| Seed | Members |
+| :-- | :-- |
+| #1 | ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469) | #2 | ![][flag_DK] [Tikzyy](https://osu.ppy.sh/users/11380904) | #3 | ![][flag_DK] [Vandabe](https://osu.ppy.sh/users/7050754) | #4 | ![][flag_DK] [Pablohh](https://osu.ppy.sh/users/10092099) | #5 | ![][flag_DK] [Arche-](https://osu.ppy.sh/users/2143311) | #6 | ![][flag_DK] [teamplayer51](https://osu.ppy.sh/users/3084508) | #7 | ![][flag_DK] [OwOMarco](https://osu.ppy.sh/users/10650901) | #8 | ![][flag_DK] [Contaminate](https://osu.ppy.sh/users/4694589) | #9 | ![][flag_DK] [Tmunken](https://osu.ppy.sh/users/5176984) | #10 | ![][flag_DK] [pallerik](https://osu.ppy.sh/users/9303652) | #11 | ![][flag_DK] [Lothjon](https://osu.ppy.sh/users/7369323) | #12 | ![][flag_DK] [Tenaxzity](https://osu.ppy.sh/users/7395529) | #13 | ![][flag_DK] [Malach](https://osu.ppy.sh/users/9364696) | #14 | ![][flag_DK] [Zakura](https://osu.ppy.sh/users/3053599) | #15 | ![][flag_DK] [Drayko](https://osu.ppy.sh/users/11485703) | #16 | ![][flag_DK] [Arild](https://osu.ppy.sh/users/3089925) | #17 | ![][flag_DK] [/[THEDUCK/]](https://osu.ppy.sh/users/6080866) | #18 | ![][flag_DK] [Micropose](https://osu.ppy.sh/users/11140740) | #19 | ![][flag_DK] [Haikuna](https://osu.ppy.sh/users/3786974) | #20 | ![][flag_DK] [Sagon](https://osu.ppy.sh/users/11775933) | #21 | ![][flag_DK] [FeelDaTonneh](https://osu.ppy.sh/users/4348782) | #22 | ![][flag_DK] [PolleSving](https://osu.ppy.sh/users/13218204) | #23 | ![][flag_DK] [Decrescendo](https://osu.ppy.sh/users/12900042) | #24 | ![][flag_DK] [kim1998](https://osu.ppy.sh/users/14599636) | #25 | ![][flag_DK] [Cittasnaf](https://osu.ppy.sh/users/13347734) | #26 | ![][flag_DK] [BPK](https://osu.ppy.sh/users/12042090) | #27 | ![][flag_DK] [Tr0nixCS](https://osu.ppy.sh/users/6734261) | #28 | ![][flag_DK] [Dralle](https://osu.ppy.sh/users/12380988) | #29 | ![][flag_DK] [NoSync](https://osu.ppy.sh/users/8634493) | #30 | ![][flag_DK] [Slayco](https://osu.ppy.sh/users/9449330) | #31 | ![][flag_DK] [Liquidminds](https://osu.ppy.sh/users/13438435)
 
 ## Podium
 
