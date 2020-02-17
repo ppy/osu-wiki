@@ -8,7 +8,7 @@ tags:
 
 ![4DM2 logo](img/logo.jpg)
 
-The **4 Digit osu!mania World Cup 2** (***4DM2***) is a worldwide country-based double-elimination three-on-three osu!mania 4K tournament hosted by ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) and ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095). This is the second installment of the 4 Digit osu!mania World Cup.
+The **4 Digit osu!mania World Cup 2** (***4DM2***) is a worldwide country-based double-elimination three-on-three osu!mania 4K tournament hosted by ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) and [Sinaeb](https://osu.ppy.sh/users/1576095). This is the second installment of the 4 Digit osu!mania World Cup.
 
 ## Tournament schedule
 
@@ -44,8 +44,8 @@ The 4 Digit osu!mania World Cup 2 is run by various community members.
 | Manager | ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
 | Map selector | ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_TH] [RuleBlazing](https://osu.ppy.sh/users/7312402), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
 | Referee | ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_TH] [-\[DaNieL\_TH\]-](https://osu.ppy.sh/users/6456531), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_ES] [IDontUnderstood](https://osu.ppy.sh/users/8608903), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_PH] [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_TH] [TNKSTC](https://osu.ppy.sh/users/6037121), ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414), ![][flag_ID] [Yangga](https://osu.ppy.sh/users/12143152) |
-| Streamer | ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_US] [[GS]Ery](https://osu.ppy.sh/users/9872668), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_NL] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Commentator | ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_US] [furret osu](https://osu.ppy.sh/users/11952501), ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_PH] [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414) |
+| Streamer | ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_US] [[GS]Ery](https://osu.ppy.sh/users/9872668), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_NL] [NightNarumi](https://osu.ppy.sh/users/4381142), [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133) |
+| Commentator | ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_US] [furret osu](https://osu.ppy.sh/users/11952501), [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_PH] [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414) |
 | Designer | ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) |
 | Statistician | ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) |
 | Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
@@ -61,7 +61,47 @@ The 4 Digit osu!mania World Cup 2 is run by various community members.
 
 ## Participants
 
-*The participants will be revealed after the qualifiers ends.*
+|  | Country | Members |
+| :-: | :-: | :-- |
+| ![][flag_AR] | **Argentina** | **[juankristal](https://osu.ppy.sh/users/443656)**, [AbsurdDive](https://osu.ppy.sh/users/4540361), [aluuu](https://osu.ppy.sh/users/4585260), [jLuyalb](https://osu.ppy.sh/users/7093698), [Ezze](https://osu.ppy.sh/users/2887427) |
+| ![][flag_AU] | **Australia** | **[HD\_AdreNaline](https://osu.ppy.sh/users/10540368)**, [PotassiumF](https://osu.ppy.sh/users/4247722), [anim shnacc](https://osu.ppy.sh/users/11373924), [droptable](https://osu.ppy.sh/users/13111686), [Melt3dCheeze](https://osu.ppy.sh/users/634837), [Cat-man](https://osu.ppy.sh/users/10800918) |
+| ![][flag_BE] | **Belgium** | **[Mortelspawn_](https://osu.ppy.sh/users/5331420)**, [spamblock](https://osu.ppy.sh/users/11968058), [LoligodBE](https://osu.ppy.sh/users/9916104), [nocilOLyus](https://osu.ppy.sh/users/12604747) |
+| ![][flag_BR] | **Brazil** | **[Gabi Kamui](https://osu.ppy.sh/users/10658391)**, [Masteriosl](https://osu.ppy.sh/users/4101472), [Zergh](https://osu.ppy.sh/users/3181281), [Yuragi](https://osu.ppy.sh/users/8501380), [Sprrumnk](https://osu.ppy.sh/users/10622472), [Halo-](https://osu.ppy.sh/users/7572142) |
+| ![][flag_CA] | **Canada** | **[AndyTechGuy](https://osu.ppy.sh/users/10946180)**, [ToaphFanGirl](https://osu.ppy.sh/users/8160564), [Aesis](https://osu.ppy.sh/users/7253252), [jac0b150](https://osu.ppy.sh/users/9160118), [XzVx](https://osu.ppy.sh/users/12286606), [\[Skippy\]](https://osu.ppy.sh/users/9333957) |
+| ![][flag_CL] | **Chile** | **[ItzBenja616](https://osu.ppy.sh/users/8538906)**, [NikoSek](https://osu.ppy.sh/users/4088977), [Charliegamer](https://osu.ppy.sh/users/6661676), [George18945](https://osu.ppy.sh/users/10659178) |
+| ![][flag_CN] | **China** | **[hans1999](https://osu.ppy.sh/users/6679329)**, [ImmortalphoeniX](https://osu.ppy.sh/users/7080633), [cherrychou](https://osu.ppy.sh/users/7214023), [Fe\_Sanae\_C](https://osu.ppy.sh/users/14675885), [yyjshishuaibi](https://osu.ppy.sh/users/10383569), [Yuki IV](https://osu.ppy.sh/users/10226286) |
+| ![][flag_FI] | **Finland** | **[Crazzeh](https://osu.ppy.sh/users/5054154)**, [Fireable](https://osu.ppy.sh/users/12624280), [-Oreo-](https://osu.ppy.sh/users/5099222), [TheTrueXfish](https://osu.ppy.sh/users/12545346), [PianoLuigi](https://osu.ppy.sh/users/9665915), [CunuTriggeredMe](https://osu.ppy.sh/users/3386886) |
+| ![][flag_FR] | **France** | **[Adri](https://osu.ppy.sh/users/4579132)**, [ZayyKen](https://osu.ppy.sh/users/8624433), [Kyzoid](https://osu.ppy.sh/users/4089441), [DragonSonic](https://osu.ppy.sh/users/7294830), [Ping36](https://osu.ppy.sh/users/9388217), [JustMan 3](https://osu.ppy.sh/users/9049282) |
+| ![][flag_ID] | **Indonesia** | **[LuxSayaka](https://osu.ppy.sh/users/8382579)**, [Fyl](https://osu.ppy.sh/users/10069307), [Artem1s](https://osu.ppy.sh/users/12561379), [\[ID\]Riemann](https://osu.ppy.sh/users/7457688), [2ndlegend](https://osu.ppy.sh/users/7621604), [-ExRazor](https://osu.ppy.sh/users/6807769) |
+| ![][flag_IT] | **Italy** | **[VeryNeculai](https://osu.ppy.sh/users/13878539)**, [SaibelFangirl](https://osu.ppy.sh/users/10100437), [BlackRose](https://osu.ppy.sh/users/6982543) |
+| ![][flag_MY] | **Malaysia** | **[kaname-san92](https://osu.ppy.sh/users/764535)**, [Expired112](https://osu.ppy.sh/users/8782656), [Explosive-XII](https://osu.ppy.sh/users/7735071), [col1234](https://osu.ppy.sh/users/13382147), [SoRaKee](https://osu.ppy.sh/users/9452591), [\[MY\]ISPROGILER](https://osu.ppy.sh/users/10911621) |
+| ![][flag_NL] | **Netherlands** | **[NightNarumi](https://osu.ppy.sh/users/4381142)**, [samuelhklumpers](https://osu.ppy.sh/users/10945523), [2fast4you98](https://osu.ppy.sh/users/5183940), [DannyPX](https://osu.ppy.sh/users/11253722), [Nebula42](https://osu.ppy.sh/users/10944966), [Penda](https://osu.ppy.sh/users/4268370) |
+| ![][flag_NZ] | **New Zealand** | **[Erkfir](https://osu.ppy.sh/users/7756939)**, [NutAndGo](https://osu.ppy.sh/users/7740118), [Sparxe](https://osu.ppy.sh/users/5750235), [WhiteWeebWolf](https://osu.ppy.sh/users/8927299) |
+| ![][flag_PH] | **Philippines** | **[windrush123](https://osu.ppy.sh/users/9087181)**, [Shiyui-](https://osu.ppy.sh/users/9374607), [DaMeMeThEiFxD](https://osu.ppy.sh/users/14324153), [Arccat](https://osu.ppy.sh/users/4848294), [Argefangirl](https://osu.ppy.sh/users/13132585), [Vulpsi](https://osu.ppy.sh/users/12584420) |
+| ![][flag_PL] | **Poland** | **[Yoshihiro](https://osu.ppy.sh/users/5410692)**, [Eclipse-](https://osu.ppy.sh/users/8493070), [Otis1204](https://osu.ppy.sh/users/11431349), [Cliffy](https://osu.ppy.sh/users/10785634) |
+| ![][flag_RU] | **Russian Federation** | **[Lerck](https://osu.ppy.sh/users/10450696)**, [YaLTeR](https://osu.ppy.sh/users/3910006), [FoXCHANNEL](https://osu.ppy.sh/users/8454236), [OneRing](https://osu.ppy.sh/users/5968647), [JeeRay](https://osu.ppy.sh/users/9009071), [TruthIsNear](https://osu.ppy.sh/users/11191093) |
+| ![][flag_SG] | **Singapore** | **[Polytetral](https://osu.ppy.sh/users/8612061)**, [MrShiister](https://osu.ppy.sh/users/1715367), [Cute Doggo](https://osu.ppy.sh/users/7288030), [BeautifulMess](https://osu.ppy.sh/users/6237926), [Blerargh](https://osu.ppy.sh/users/7609510), [AdamAckerville](https://osu.ppy.sh/users/12297375) |
+| ![][flag_KR] | **South Korea** | **[DHLEE727](https://osu.ppy.sh/users/3428908)**, [kdj8381](https://osu.ppy.sh/users/13600684), [kks04519](https://osu.ppy.sh/users/6456847), [S ILY](https://osu.ppy.sh/users/9766317), [iamsquid1](https://osu.ppy.sh/users/10271166), [Drin](https://osu.ppy.sh/users/7735542) |
+| ![][flag_ES] | **Spain** | **[Komirin](https://osu.ppy.sh/users/4725379)**, [Nikolayio](https://osu.ppy.sh/users/11279465), [game_maker26](https://osu.ppy.sh/users/4876699), [guldakh](https://osu.ppy.sh/users/8553078) |
+| ![][flag_CH] | **Switzerland** | **[I Want Quit](https://osu.ppy.sh/users/9026563)**, [Adyrem](https://osu.ppy.sh/users/8642966), [DrLou](https://osu.ppy.sh/users/13472706) |
+| ![][flag_TH] | **Thailand** | **[Zytosy](https://osu.ppy.sh/users/3290734)**, [SHOKO -](https://osu.ppy.sh/users/10279743), [- SLAYER -](https://osu.ppy.sh/users/11622143), [- Hibiki](https://osu.ppy.sh/users/7808720), [Freshky](https://osu.ppy.sh/users/11959687), [palmEuEi](https://osu.ppy.sh/users/13656264) |
+| ![][flag_GB] | **United Kingdom** | **[MaDD](https://osu.ppy.sh/users/7405208)**, [XxNewson1234xX](https://osu.ppy.sh/users/9895650), [-Isla-](https://osu.ppy.sh/users/11080606), [avaiel](https://osu.ppy.sh/users/8538440), [TingTheFirst](https://osu.ppy.sh/users/12489832), [Wagg](https://osu.ppy.sh/users/7415829) |
+| ![][flag_US] | **United States** | **[-Lethal-](https://osu.ppy.sh/users/5125822)**, [Trainer-](https://osu.ppy.sh/users/9331760), [KamaTheCrimson](https://osu.ppy.sh/users/6362259), [\[GS\]Antunder](https://osu.ppy.sh/users/10416995), [HeZeuS](https://osu.ppy.sh/users/7387788), [\[GS\]Diamond](https://osu.ppy.sh/users/13076648) |
+
+## Groups
+
+| Group | Top seed | High seed | Low seed |
+| :-: | :-- | :-- | :-- |
+| **A** | ![][flag_FI] Finland | ![][flag_BR] Brazil | ![][flag_KR] South Korea |
+| **B** | ![][flag_TH] Thailand | ![][flag_AU] Australia | ![][flag_CH] Switzerland |
+| **C** | ![][flag_FR] France | ![][flag_ID] Indonesia | ![][flag_CL] Chile |
+| **D** | ![][flag_US] United States | ![][flag_CN] China | ![][flag_IT] Italy |
+| **E** | ![][flag_PH] Philippines | ![][flag_GB] United Kingdom | ![][flag_PL] Poland |
+| **F** | ![][flag_AR] Argentina | ![][flag_NL] Netherlands | ![][flag_MY] Malaysia |
+| **G** | ![][flag_RU] Russian Federation | ![][flag_CA] Canada | ![][flag_ES] Spain |
+| **H** | ![][flag_SG] Singapore | ![][flag_NZ] New Zealand | ![][flag_BE] Belgium |
+
+---
 
 ## Mappools
 
@@ -153,19 +193,29 @@ The 4 Digit osu!mania World Cup 2 is run by various community members.
 11. If a team cannot gather 3 members into the match lobby by 10 minutes after the match’s scheduled start time, the opposing team will be declared a win by default. If neither team can gather 3 members into the match lobby by 10 minutes after the match’s scheduled start time, the team with the higher seed out of qualifiers will be declared a win by default.
 12. For any additional rules left out of this forum, please refer to the [official rules of the latest 4K osu!mania world cup](/wiki/Tournaments/MWC/2019_4K#ruleset), as these rules will be what 4DM2 will attempt to closely follow.
 
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
