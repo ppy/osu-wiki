@@ -55,7 +55,21 @@ The Catch French Intermediate Cup 2 is run by various community members.
 
 ## Participants
 
-*The participants will be revealed after the registration phase ends.*
+| Seed | Members |
+| :-- | :-- |
+| Top | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428), ![][flag_FR] [Dask](https://osu.ppy.sh/users/4151397), ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [dracoV](https://osu.ppy.sh/users/7925725) |
+| High | ![][flag_FR] [Khalemm](https://osu.ppy.sh/users/11983416), ![][flag_FR] [TomyLeFaux](https://osu.ppy.sh/users/9504653), ![][flag_FR] [NoLimitFS](https://osu.ppy.sh/users/10411609), ![][flag_FR] [KillingSpin](https://osu.ppy.sh/users/4073302) |
+| Low | ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990), ![][flag_FR] [Aequo3](https://osu.ppy.sh/users/4495141), ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626), ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
+| Unseeded | ![][flag_FR] [NinjaCoktail](https://osu.ppy.sh/users/11431902), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949), ![][flag_FR] [Oasix](https://osu.ppy.sh/users/6183012), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728) |
+
+## Groups
+
+| Group | Top seed | High seed | Low seed | Unseeded |
+| :-: | :-- | :-- | :-- | :-- | :-- | :-- |
+| A | ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688) | ![][flag_FR] [KillingSpin](https://osu.ppy.sh/users/4073302) | ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) | ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
+| B | ![][flag_FR] [Dask](https://osu.ppy.sh/users/4151397) | ![][flag_FR] [Khalemm](https://osu.ppy.sh/users/11983416) | ![][flag_FR] [Aequo3](https://osu.ppy.sh/users/4495141) | ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728) |
+| C | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) | ![][flag_FR] [TomyLeFaux](https://osu.ppy.sh/users/9504653) | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) | ![][flag_FR] [NinjaCoktail](https://osu.ppy.sh/users/11431902) |
+| D | ![][flag_FR] [dracoV](https://osu.ppy.sh/users/7925725) | ![][flag_FR] [NoLimitFS](https://osu.ppy.sh/users/10411609) | ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990) | ![][flag_FR] [Oasix](https://osu.ppy.sh/users/6183012) |
 
 ## Mappools
 
