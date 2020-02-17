@@ -4,7 +4,7 @@
 
 ![谱面提交系统的截图](img/bss_warning.png "谱面提交系统的截图")
 
-在编辑器内的`文件`下拉列表中选择`上传地图...`（快捷键：`Ctrl` + `Shift` + `U`）会打开**谱面提交系统**（***Beatmap Submission System，简写为BSS***）窗口。窗口首先会列出帮助用户解决做图相关的问题、寻求谱面的反馈以及确保地图合理的资源。若在使用系统时遇到问题，请参阅指南[如何解决 BSS 的问题](/wiki/Guides/BSS_Issues)。
+在编辑器内的`文件`下拉列表中选择`上传地图...`（快捷键：`Ctrl` + `Shift` + `U`）会打开**谱面提交系统**（***Beatmap Submission System***，简写为***BSS***）窗口。窗口首先会列出帮助用户解决做图相关的问题、寻求谱面的反馈以及确保地图合理的资源。若在使用系统时遇到问题，请参阅指南[如何解决谱面提交系统的问题](/wiki/Guides/BSS_Issues)。
 
 如果用户上传的谱面还没有提交至 osu! 网站，窗口会提示用户可以再上传多少张地图。若谱面已被提交，窗口会警告上传地图会使谱面重置。若谱面已成为坟图，窗口会警告谱面将会改变为 pending 状态。
 
@@ -12,11 +12,11 @@
 
 ![谱面提交系统上传时的截图](img/bss_submitting.png "谱面提交系统上传时的截图")
 
-点击`Upload NEW Beatmap!`或`Update Beatmap!`按钮后，用户可以选择将他们上传的谱面标记为`Work In Progress/Help`或`Pending Beatmaps`。标记为 WIP 的谱面不能改变排名状态，但 pending 的谱面可以。
+点击`上传新的地图！`或`更新地图！`按钮后，用户可以选择将他们上传的谱面标记为`Work In Progress/Help`或`Pending Beatmaps`。标记为 WIP 的谱面不能改变排名状态，但 pending 的谱面可以。
 
-`Creator's Words`部分可以输入在谱面介绍页上显示的描述，其支持使用 [BBCode](/wiki/BBCode) 格式。
+`作者的话`部分可以输入在谱面介绍页上显示的描述，其支持使用 [BBCode](/wiki/BBCode) 格式。
 
-窗口底部有两个复选框。第一个是`Receive email notification on reply`，其会将谱面加入到用户的[谱面关注列表](https://osu.ppy.sh/beatmapsets/watches)。第二个是`Load in browser after submission`，其会在上传后使用默认浏览器打开谱面介绍页。
+窗口底部有两个复选框。第一个是`当有回复的时候，发送邮件通知我`，其会将谱面加入到用户的[谱面关注列表](https://osu.ppy.sh/beatmapsets/watches)。第二个是`提交后从浏览器打开`，其会在上传后使用默认浏览器打开谱面介绍页。
 
 ## 限制
 
