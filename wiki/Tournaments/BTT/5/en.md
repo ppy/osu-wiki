@@ -206,6 +206,38 @@ The Beginner's Taiko Tournament 5 is run by various community members.
 
 ## Match results
 
+### Round of 16
+
+Friday, 14 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Arbusion ![][flag_AU] | 0 | **5** | ![][flag_NZ] **Blujae** | [#1](https://osu.ppy.sh/mp/58433048) |
+| Malox ![][flag_DE] | 2 | **5** | ![][flag_DE] | **Maou** | [#1](https://osu.ppy.sh/community/matches/58440442) |
+
+Saturday, 15 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| zd101nb ![][flag_CN] | -1 | **0** | ![][flag_DE] **Kirross** | *win by default* |
+| **helios44** ![][flag_SG] | **5** | 2 | ![][flag_DE] Enohx | [#1](https://osu.ppy.sh/community/matches/58461271) |
+| **awdse22** ![][flag_SG] | **5** | 1 | ![][flag_RU] Dartandr | [#1](https://osu.ppy.sh/mp/58464162) |
+| Samoyed ![][flag_FI] | 2 | **5** | ![][flag_RU] **Vasyadogs** | [#1](https://osu.ppy.sh/community/matches/58464156) |
+| Santeri ![][flag_FI] | 0 | **5** | ![][flag_IT] **Kozzo** | [#1](https://osu.ppy.sh/community/matches/58465670) |
+| ByTiger ![][flag_DE] | 2 | **5** | ![][flag_MY] **squidstain** | [#1](https://osu.ppy.sh/community/matches/58465676) |
+| Katsumi ![][flag_DE] | 2 | **5** | ![][flag_AR] **Megafan** | [#1](https://osu.ppy.sh/community/matches/58467487) |
+| **Vaf** ![][flag_AR] | **5** | 0 | ![][flag_NL] Boaz | [#1](https://osu.ppy.sh/community/matches/58469338) |
+| SuperSquirrel51 ![][flag_CA] | 0 | **5** | ![][flag_FR] **Champs de ble** | [#1](https://osu.ppy.sh/community/matches/58476069) |
+
+Sunday, 16 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| BadAimBoi ![][flag_PL] | 2 | **5** | ![][flag_FR] **TLQ_Yoshii** | [#1](https://osu.ppy.sh/community/matches/58496768) |
+| DrugManager ![][flag_DE] | 4 | **5** | ![][flag_SG] **moosepi** | [#1](https://osu.ppy.sh/community/matches/58499885) |
+| Yeong Yuseong ![][flag_US] | 2 | **5** | ![][flag_HK] **-Storm7-** | [#1](https://osu.ppy.sh/community/matches/58504436) |
+| Loliezi1337 ![][flag_US] | 1 | **5** | ![][flag_GB] **Olii** | [#1](https://osu.ppy.sh/community/matches/58507300) |
+
 ### Round of 32
 
 Friday, 7 February 2020:
