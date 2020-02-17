@@ -105,6 +105,21 @@ The 4 Digit osu!mania World Cup 2 is run by various community members.
 
 ## Mappools
 
+### Group Stage
+
+- FreeMod
+  - [Hyper Potions - Ski (\[GS\]Logan) \[HowToPlayLN's Lubricity (edit)\]](https://osu.ppy.sh/beatmapsets/1110745#mania/2320858)
+  - [LeaF - Wizdomiot (Elekton) \[Valen's 4K Hyper\]](https://osu.ppy.sh/beatmapsets/353634#mania/935375)
+  - [Triodust - Ju Tou San Chi Tian Qi Qing (Mentholzzz) \[Insane\]](https://osu.ppy.sh/beatmapsets/626890#mania/1321158)
+  - [Phlogiston - Night Jam (Shoegazer) \[Sleepless\]](https://osu.ppy.sh/beatmapsets/670141#mania/1571268)
+  - [enzo + O2i3 - Mentanpindoradora (PiraTom) \[ORANGE\]](https://osu.ppy.sh/beatmapsets/609865#mania/1287833)
+  - [Eve - As You Like It (Raveille) \[Stage 3: Regulation\]](https://osu.ppy.sh/beatmapsets/1017847#mania/2130198)
+  - [Mili - Boys in Kaleidosphere (Turtwig) \[Abstraction\]](https://osu.ppy.sh/beatmapsets/1063420#mania/2316822)
+  - [Hayashi Yuki - Chimu no Jiriki (tailsdk) \[NYATY Stage 1: Lag\]](https://osu.ppy.sh/beatmapsets/709976#mania/1500822)
+  - [Getter Jaani - Rockefeller Street (\[GS\]Logan) \[ProSVperity\]](https://osu.ppy.sh/beatmapsets/1110967#mania/2321275)
+- Tiebreaker
+  - **[xi vs Feryquitous - Cyberspace (HowToPlayLN) \[RuleNoteSerenade's Induction\]](https://osu.ppy.sh/beatmapsets/1110640#mania/2320709)**
+
 ### Qualifiers
 
 - FreeMod
