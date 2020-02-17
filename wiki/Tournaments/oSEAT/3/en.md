@@ -37,7 +37,7 @@ The **osu! South East Asia Tournament 3** (***oSEAT3***) was a South East Asian 
 
 *Note: 5th place was determined by a playoff.*
 
-![oSEAT3 winner badge](img/badge.png "SOFT4 Winner Badge")
+![oSEAT3 winner badge](img/badge.png "oSEAT3 Winner Badge")
 
 ## Organisation
 

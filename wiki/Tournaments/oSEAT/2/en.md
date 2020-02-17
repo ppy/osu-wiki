@@ -37,7 +37,7 @@ The **osu! South East Asia Tournament 2** (***oSEAT2***) was a South East Asian 
 
 *Note: 5th place was determined by a playoff.*
 
-![oSEAT2 winner badge](img/badge.png "SOFT4 Winner Badge")
+![oSEAT2 winner badge](img/badge.png "oSEAT2 Winner Badge")
 
 ## Organisation
 
