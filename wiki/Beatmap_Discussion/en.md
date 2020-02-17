@@ -1,13 +1,12 @@
 ---
-
-Modding v2
-mv2
-
+tags:
+  - Modding v2
+  - mv2
 ---
 
-# Beatmap Discussion
+# Beatmap discussion
 
-Beatmap Discussions (also known as *Modding v2*) is a system to manage and simplify the process of [modding](/wiki/Modding). It aims to provide a clear and understandable interface, where the improvement of a beatmap is in focus.
+**Beatmap discussion** (also known as *Modding v2*) is a system to manage and simplify the process of [modding](/wiki/Modding). It aims to provide a clear and understandable interface, where the improvement of a beatmap is in focus.
 
 When a beatmap is [submitted](/wiki/Submission), a discussion page is automatically created alongside the beatmap info page. When the beatmap is updated, the discussion page will be updated along with it. The discussion page can be reached by clicking on the `Discussion` button on the info page. <!--TODO: insert link to beatmap info page article, when that article exists-->
 
