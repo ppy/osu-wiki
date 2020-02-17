@@ -90,6 +90,32 @@ The Beginner's Taiko Tournament 5 is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here! (83 MB)](https://mega.nz/#!H6ARHSib!axE0rqbekmpRNHrhjGBUSZ0A8Xv4yLa1QIJNCVnBBPk)**
+
+- NoMod
+  - [Krewella X DISKORD - Beggars (Consouls Remix) (Shadren) \[Remus' Muzukashii\]](https://osu.ppy.sh/beatmapsets/539203#taiko/1231261)
+  - [Camellia - potential curve (Faputa) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/984854#taiko/2065772)
+  - [BilliumMoto - life flashes before weeb eyes (Faputa) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/975435#taiko/2045007)
+  - [FELT - Time and again (Surono) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/772958#taiko/1624756)
+  - [Kyou1110 - Toyosatomimi no heddo fon ni bureikukoa nagashite komaku hakai shi-tai (yea) \[jyake's Muzukashii\]](https://osu.ppy.sh/beatmapsets/610197#taiko/1813700)
+- Hidden
+  - [Chroma - [@\_\_@] (Faputa) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1048153#taiko/2194488)
+  - [xi - Aiolos (Kuo Kyoka) \[1811's Muzukashii\]](https://osu.ppy.sh/beatmapsets/801154#taiko/1681760)
+- HardRock
+  - [Camellia - Towards The Horizon (Fallmorph) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/727084#taiko/1535012)
+  - [TAMUSIC - Shitai Ryokou (Greenshell) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/729113#taiko/1576790)
+- DoubleTime
+  - [Jinja - world.execute(me); (Kin) \[taiko.schwierigkeit_muzukashii(Kin);\]](https://osu.ppy.sh/beatmapsets/1091596#taiko/2282069)
+  - [Memme - Gold Town (TKS) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/208286#taiko/490531)
+- FreeMod
+  - [daisan - -+ (Starfy) \[aabc's Muzukashii\]](https://osu.ppy.sh/beatmapsets/389617#taiko/859274)
+  - [sakuzyo - En ga Chop (D o t) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/950965#taiko/1987271)
+  - [kyou1110 vs. Takuya Namba - "Alice in Wonderland" : crazy apple could not live in real life (-Kazu-) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/742005#taiko/1974515)
+- Tiebreaker
+  - **[LiLA'c Records - MONOCHROME SKY (Okoratu) \[MUZUKASHII\]](https://osu.ppy.sh/beatmapsets/883881#taiko/2057784)**
+
 ### Round of 16
 
 **[Download the mappack here! (72 MB)](https://mega.nz/#!D34yhKZD!TWF4xkDiIYn2R5O-d00O07jdr15JAbVQ0gYrSxzjy98)**
