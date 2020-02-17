@@ -95,10 +95,10 @@ The Royal Danish osu!Cup 2019 is run by various community members.
 ### General rules
 
 1. Only users in the Kingdom of Denmark can enter. This is determined by the profile-flag on a player's userpage (Eg. a player with either of these flags is eligible to participate: ![][flag_DK], ![][flag_FO], ![][flag_GL])
-2. This tournament uses a double-elimination bracket and single-player format. There are no teams here.
+2. This tournament uses a qualifier into a double-elimination bracket and single-player format. There are no teams here.
 3. The score system used will be **Score V2**.
 4. To participate you **must** join the Discord for the duration of the tournament.
-5. Match schedule is decided by the organisers. Players may ask for a reschedule if the current schedule does not work for them. Every stage except Group stage will last one weekend. Group stage will be played over two weekends instead due to the relatively small staff-size.
+5. Match schedule is decided by the organisers. Players may ask for a reschedule if the current schedule does not work for them. Every stage will last one weekend.
 6. If there are no referees available, the match can be postponed.
 7. If both players get the same score on a Tiebreaker, the Tiebreaker will be replayed.
 8. Players have 15 minutes to show up to their scheduled match. If the opponent doesn't show up, the player who was supposed to play automatically advances onwards.
@@ -107,23 +107,21 @@ The Royal Danish osu!Cup 2019 is run by various community members.
 
 ### Stage regulations
 
-1. There are six stages to this tournament: Group Stage, Round of 16, Quarterfinals, Semifinals, Finals and Grand Finals.
-2. Groups are seeded into four tiers; top, high, low and bottom. This seeding is determined from the overall ranking of players at the start of the tournament. This means that only the 32 highest ranked players will be able to play in the tournament. All players that do not fit these criteria are placed into the fallback category as potential replacements if one of the 32 seeded players no-shows.
-3. If a player no-shows their first match in Group Stage they will be replaced by the highest ranked player in the fallback category. If a player no-shows in later matches they will forfeit the match.
+1. There are seven stages to this tournament: Qualifiers, Round of 32, Round of 16, Quarterfinals, Semifinals, Finals and Grand Finals.
+2. Seeding is determined from qualifier performance based on overall score (#1 vs #32, #2 vs #31, #3 vs #30 ... #16 vs #17). This means that only the 32 best performing players will be able to play in the tournament. All other players are placed into the fallback category as potential replacements if one of the 32 seeded players no-shows.
+3. If a player no-shows they will forfeit the match.
 4. The win-condition for each stage is listed below:
-   - Group Stage: Best of 7 (first to 4 points)
+   - Round of 32: Best of 7 (first to 4 points)
    - Round of 16: Best of 9 (first to 5 points)
    - Quarterfinals: Best of 11 (first to 6 points)
    - Semifinals: Best of 11 (first to 6 points)
    - Finals and Grand Finals: Best of 13 (first to 7 points)
-5. After the Group Stage, only the top 2 players from each group will advance to the next stage.
-6. In case of a tie in Group Stage, advancement will be based off a player's map wins and map losses. If the score is equal, the score of the match between the two players will be taken into account. Eg. Player A and player B both have 6 wins and 6 losses, but player A beat player B 3-2 --> Player A advances.
-7. In the Grand Finals the player from the Loser's Bracket must first beat the player from the Winner's Bracket to force a bracket-reset, before playing for the final win.
+5. In the Grand Finals the player from the Loser's Bracket must first beat the player from the Winner's Bracket to force a bracket-reset, before playing for the final win.
 
 ### Match regulations
 
 1. A private lobby will be created for your match, and both players will be invited approx. 10 minutes before their appointed time.
-2. Each player can request one warmup map, but it must be **below 4 minutes**. (Does not apply to Group stage, as there are no warmups)
+2. Each player can request one warmup map, but it must be **below 4 minutes**. (Does not apply to Qualifiers, as there are no warmups)
 3. After warmups each player will `!roll`:
    - The player who rolled the higher number bans first. The players will then alternate bans until all bans have been used. (High -> Low -> High -> Low)
    - The first person to pick will be the player who rolled the lower number. The players will then alternate picks. (Low -> High -> Low -> High -> ...)
