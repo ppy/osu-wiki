@@ -102,7 +102,7 @@ The Royal Danish osu!Cup 2019 is run by various community members.
 6. If there are no referees available, the match can be postponed.
 7. If both players get the same score on a Tiebreaker, the Tiebreaker will be replayed.
 8. Players have 15 minutes to show up to their scheduled match. If the opponent doesn't show up, the player who was supposed to play automatically advances onwards.
-9. If a player is found to be abusive or rude to other players in the tournament, they may be removed from the tournament at the hosts' discretion. This will never be done without talking to the parties involved. If conduct is bad enough, players may be blacklisted from future tournaments and reported to osu! moderation staff. Trashtalk is fine - harrasment is not.
+9. If a player is found to be abusive or rude to other players in the tournament, they may be removed from the tournament at the organizer's discretion. This will never be done without talking to the parties involved. If conduct is bad enough, players may be blacklisted from future tournaments and reported to osu! moderation staff. Trashtalk is fine - harrasment is not.
 10. Any other rules changes or unexpected occurrences will be announced on the Discord server.
 
 ### Stage regulations
@@ -117,6 +117,12 @@ The Royal Danish osu!Cup 2019 is run by various community members.
    - Semifinals: Best of 11 (first to 6 points)
    - Finals and Grand Finals: Best of 13 (first to 7 points)
 5. In the Grand Finals the player from the Loser's Bracket must first beat the player from the Winner's Bracket to force a bracket-reset, before playing for the final win.
+
+## Qualifier regulations
+
+1. Qualifiers will have a 10 minute max buffer-room to accommodate any delayed players.
+2. For any players who are still unable to join their assigned lobby, they will have the option of rescheduling to a later lobby, unless their assigned lobby is the last one.
+3. Players must finish their lobby in one run and will **NOT** be given second chances should issues arise half-way through a lobby. If this is to happen please contact organizers.
 
 ### Match regulations
 
@@ -136,14 +142,14 @@ The Royal Danish osu!Cup 2019 is run by various community members.
 
 1. There are different mappools for each stage of the tournament, becoming progressively harder.
 2. Tiebreakers will be played with FreeMod, but will not require a mod to be picked.
-3. The mappool will be announced **every Sunday**, and the categories are NoMod, Hidden, HardRock, DoubleTime, FreeMod and Tiebreaker.
+3. The mappool will be announced **every Sunday** before a stage, and the categories are NoMod, Hidden, HardRock, DoubleTime, FreeMod and Tiebreaker.
 
 ### Scheduling regulations
 
 1. Every stage is scheduled for the weekend.
 2. Matches are allowed to overlap if referees are available.
 3. Players must complete their match at the designated time or both players are eliminated.
-4. However if both players can come up with a better time than what we have scheduled for them, please inform the organisers for a reschedule. Organisers will rearrange the match if they are informed before Thursday of the week the match is to be played and a referee is available.
+4. However, if both players can come up with a better time than what we have scheduled for them, please inform the organisers for a reschedule. Organisers will rearrange the match if they are informed before Thursday of the week the match is to be played and a referee is available.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
