@@ -15,7 +15,8 @@ The **Catch French Intermediate Cup 2** (***CFIC 2***) is an intermediate French
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2020-01-18/2020-02-02 |
-| Live drawings | *to be announced* |
+| Live drawings | 2020-02-07 (22:00 UTC+2) |
+| Qualifiers | 2020-02-15/2020-02-16 |
 | Group Stage | 2020-02-22 |
 | Quarterfinals | 2020-02-29 |
 | Semifinals | 2020-03-07 |
