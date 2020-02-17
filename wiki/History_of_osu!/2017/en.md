@@ -1,4 +1,4 @@
-# 2017
+# History of osu! 2017
 
 ## January
 

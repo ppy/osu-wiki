@@ -1,6 +1,6 @@
 # 2017年華人 osu!mania 4K 大賽
 
-![CMT 4K 2017](pic.png)
+![CMT 4K 2017](img/pic.png)
 
  **2017年華人 osu!mania 4K 大賽**（以下均簡寫為**CMT 4K 2017**）為華人區個人比賽，是由 CMT 團隊舉辦的第二屆華人 osu!mania 4K 大賽。比賽所用地圖均為 osu!mania 4K 專用譜。
 
@@ -21,9 +21,9 @@
 ## 比賽獎品
 
 本次比賽獎品由音游網和漢斯共同贊助，鍵盤由 CrazyBoard 提供。  
-![](/wiki/shared/GCrown.png) 3個月 osu!支持者，主頁訂製勳章，CrazyBoard Mark One 鍵盤；   
-![](/wiki/shared/SCrown.png) 2個月 osu!支持者；  
-![](/wiki/shared/BCrown.png) 1個月 osu!支持者。
+![](/wiki/shared/crown-gold.png) 3個月 osu!支持者，主頁訂製勳章，CrazyBoard Mark One 鍵盤；   
+![](/wiki/shared/crown-silver.png) 2個月 osu!支持者；  
+![](/wiki/shared/crown-bronze.png) 1個月 osu!支持者。
 
 ## 比賽主辦團隊
 
@@ -43,7 +43,7 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 
 --------------------------------------------------
 
-![CMT4K2017 podium](podium.png)
+![CMT4K2017 podium](img/podium.png)
 
 --------------------------------------------------
 

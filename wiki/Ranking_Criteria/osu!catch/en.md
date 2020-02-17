@@ -1,4 +1,4 @@
-# osu!catch Ranking Criteria
+# osu!catch ranking criteria
 
 The **osu!catch Ranking Criteria** are rules and guidelines that apply to the creation of osu!catch-specific difficulties. In order to get a osu!catch-specific difficulty ranked, it is mandatory the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be ignored under exceptional circumstances. These exceptional circumstances must be justified by an exhaustive explanation as of why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
 
@@ -8,7 +8,7 @@ These terms frequently appear when getting in touch with osu!catch difficulties 
 
 ### Difficulty names
 
-*Main article: [Difficulty Naming](../Difficulty_Naming)*
+*Main article: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
 - ![](/wiki/shared/diff/easy-c.png) Cup
 - ![](/wiki/shared/diff/normal-c.png) Salad

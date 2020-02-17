@@ -8,7 +8,7 @@ outdated: true
 
 -   [Graveyarded Beatmap Archiving](https://osu.ppy.sh/community/forums/topics/49310)—A forum thread to request deleted graveyarded beatmaps.
 -   [Live Event Feed](https://osu.ppy.sh/community/forums/topics/9015)—A live feed of current player events.
-    -   [Website](/p/events)
+    -   [Website](https://old.ppy.sh/p/events)
 -   [osu! (OS X)](https://osu.ppy.sh/community/forums/topics/56460)—osu! on OS X (results will vary).
     -   [GitHub](https://github.com/ppy/osu-wine) | [Website](http://osuosx.tumblr.com)
 -   [osu! Community Localisation Project](https://osu.ppy.sh/community/forums/topics/104342)—The osu! localisation project, localise your language into osu!.

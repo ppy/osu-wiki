@@ -1,4 +1,4 @@
-# 2018
+# Staff log 2018
 
 ## January
 
@@ -194,6 +194,9 @@ All users listed below were added on 2018-06-12.
 
 - Added [Hobbes2](https://osu.ppy.sh/users/8157492) to Quality Assurance Team (2018-07-03)
 - Moved [Seijiro](https://osu.ppy.sh/users/2581696) from osu! Alumni to Global Moderation Team (2018-07-18)
+- **Created Project Loved Team** (2018-07-27)
+- Added [Backfire](https://osu.ppy.sh/users/263110) to Project Loved Team (2018-07-27)
+- Added [Toy](https://osu.ppy.sh/users/2757689) to Project Loved Team (2018-07-27)
 
 ### Beatmap Nominator removals
 
@@ -340,3 +343,4 @@ All users listed below were added on 2018-07-27.
 - Moved [Hobbes2](https://osu.ppy.sh/users/8157492) from Beatmap Nominators to Quality Assurance Team (2018-12-01)
 - Added [Hinsvar](https://osu.ppy.sh/users/1249323) to Global Moderation Team (2018-12-05)
 - Moved [Elfin](https://osu.ppy.sh/users/1399551) from Global Moderation Team to osu! Alumni (2018-12-14)
+- Removed [Backfire](https://osu.ppy.sh/users/263110) from Project Loved Team (2018-12-31)

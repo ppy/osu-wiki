@@ -4,7 +4,7 @@ outdated: true
 
 # Beatmapy
 
-**Beatmapy** w [osu!](/wiki/osu!_glossary) są poziomami zbliżonymi do tych z [gier na konsolę Nintendo DS](/wiki/Glossary/#ds-games). Każda beatmapa składa się z piosenki oraz [obiektów](/wiki/hit_objects) rozmieszczonych w rytm muzyki. Mogą także posiadać tło, wideo bądź [storyboard](/wiki/storyboard).
+**Beatmapy** w [osu!](/wiki/osu!_glossary) są poziomami zbliżonymi do tych z [gier na konsolę Nintendo DS](/wiki/Glossary#ds-games). Każda beatmapa składa się z piosenki oraz [obiektów](/wiki/hit_objects) rozmieszczonych w rytm muzyki. Mogą także posiadać tło, wideo bądź [storyboard](/wiki/storyboard).
 
 Beatmapy mogą zostać przesłane poprzez [BSS](/wiki/BSS) (Beatmap Submission System). Następnie przechodzą przez proces zatwierdzający, zwany [modowaniem](/wiki/modding). Ma on na celu zwiększyć grywalność danej beatmapy.
 
@@ -55,7 +55,7 @@ Aby dowiedzieć się, jak beatmapa może uzyskać status ulubionej społecznośc
 
 ### Oczekujące
 
-_Zobacz także: [Proces zatwierdzania beatmapy](/wiki/Beatmap_ranking_procedure)_
+*Zobacz także: [Proces zatwierdzania beatmapy](/wiki/Beatmap_ranking_procedure)*
 
 ![Znak zapytania](/wiki/shared/status/pending.png) Na ekranie wyboru piosenek oczekujące beatmapy są oznaczane znakiem zapytania.
 

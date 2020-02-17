@@ -2,7 +2,7 @@
 legal: true
 ---
 
-# osu! Terms of Service
+# osu! terms of service
 
 Last Updated 25th May 2018. [View history here](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Terms/en.md)
 

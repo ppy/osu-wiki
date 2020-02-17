@@ -25,7 +25,7 @@ Takıma 22 Ağustos 2014'te yapılan değişiklikle, Beatmap Aday Gösterme Grub
 ### Temel Kriterler
 BNG'ye katılmak isteyen bir modder:
 + Duyurudan önceki 3 ay içinde aktif bir şekilde beatmap modluyor olmalı.
-+ Toplamda en az 50 [Kudosu](/wiki/Glossary/#kudosu) toplamış olmalı.
++ Toplamda en az 50 [Kudosu](/wiki/Glossary#kudosu) toplamış olmalı.
 + Kendisini BN'lerin bir parçası yapacağını düşündüğü 3-5 mod örnek göstermeli .
 
 ### Neler bir Mod Gönderisi Sayılır?

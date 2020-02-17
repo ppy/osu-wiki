@@ -6,7 +6,7 @@ Von dem Thread: [*Wie man einen Eigenen Hitsound hinzufügt.* (von neonat)](http
 
 Als erstes werden einige Hitsounds benötigt.
 
--   Man kann sie aus der [Spieler-Hitsound-Bibliothek](../Custom_Hitsound_Library) bekommen.
+-   Man kann sie aus der [Spieler-Hitsound-Bibliothek](/wiki/Guides/Custom_Hitsound_Library) bekommen.
 -   Oder man erstellt Hitsounds selber.
 
 ## Manuell die Hitsounds in den Song Ordner einfügen
@@ -26,7 +26,7 @@ Die Namensgebung ist für "finish", "whistle", "clap" und "normal hit" egal.
 
 Abhängig von welcher Art von den Hitsound man haben möchte, sollte der Dateiname mit "soft", "normal" oder "drum" beginnen.
 
-![Tutorial Image 1](ACH_01.png "Tutorial Image 1")
+![Tutorial Image 1](img/ACH_01.png "Tutorial Image 1")
 
 ### Beispiel 1
 
@@ -42,4 +42,4 @@ Wie `normal-hitclap2.wav` oder wie `soft-hitfinish3.wav`
 
 Man sollte nicht vergessen, dass im *Timing Setup* der Hitsound auf Custom mit der jeweiligen Nummer gestellt werden muss.
 
-![Tutorial Image 2](ACH_02.png "Tutorial Image 2")
+![Tutorial Image 2](img/ACH_02.png "Tutorial Image 2")

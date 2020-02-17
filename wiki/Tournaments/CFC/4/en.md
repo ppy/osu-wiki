@@ -25,7 +25,7 @@ The **Catch French Cup 4** (***CFC 4***) was a one-on-one French osu!catch tourn
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
 ![CFC 4 winner badge](img/badge.png)
 
@@ -79,9 +79,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_FR] [Alostis](https://osu.ppy.sh/users/2986875) |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [Alostis](https://osu.ppy.sh/users/2986875) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
 
 ---
 

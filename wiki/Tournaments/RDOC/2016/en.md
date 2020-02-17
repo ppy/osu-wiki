@@ -26,9 +26,9 @@ The **Royal Danish osu!Cup 2016** (***RDOC 2016***) was a Danish 1v1 double-elim
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | 6 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | 3 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | 2 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag |
 | *4th place* | 1 month of osu!supporter tag |
 
 ## Organisation
@@ -63,9 +63,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653) |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_DK] [Zog](https://osu.ppy.sh/users/3722715) |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_DK] [Zog](https://osu.ppy.sh/users/3722715) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138) |
 | 4th place | ![][flag_DK] [Emub](https://osu.ppy.sh/users/4337359) |
 
 ## Mappools

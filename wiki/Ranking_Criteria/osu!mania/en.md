@@ -1,4 +1,4 @@
-# osu!mania Ranking Criteria
+# osu!mania ranking criteria
 
 The **osu!mania Ranking Criteria** are rules and guidelines that apply to the creation of osu!mania-specific difficulties. In order to get an osu!mania-specific difficulty ranked, it is mandatory that the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be ignored under exceptional circumstances. These exceptional circumstances must be justified by an exhaustive explanation as of why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
 
@@ -8,7 +8,7 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 
 ### Difficulty names
 
-*Main article: [Difficulty Naming](../Difficulty_Naming)*
+*Main article: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
 - ![](/wiki/shared/diff/easy-m.png) Easy
 - ![](/wiki/shared/diff/normal-m.png) Normal
@@ -60,7 +60,7 @@ Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm
 - **There must not be more than 6 notes pressed at any given moment in Insane or lower difficulties.** Using more than 6 notes must also follow a reasonable spread to the next lower difficulty. This rule does not apply to ends of long notes, as they are released, not pressed.
 - **Beatmaps can only use 4 to 9 keys.** Anything else is not supported for the Ranked section.
 - **Each key mode in a beatmap set requires its own spread.** For example, a 4 key beatmap would require its own Normal/Hard/Insane in order to create a proper spread, independent of any other key modes present in the beatmap set.
-- **If multiple key modes are present in a single beatmap set, the key mode must be denoted in the difficulty name.**
+- **If multiple key modes are present in a single beatmap set, the key mode must be denoted in all difficulty names. Otherwise, the key mode must not be denoted.**
 
 ### Guidelines
 

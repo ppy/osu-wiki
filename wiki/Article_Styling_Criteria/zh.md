@@ -4,7 +4,7 @@ outdated: true
 
 # 文章风格规范
 
-_相关文章：[文章风格规范——新闻篇](/wiki/ASC/News)_
+*相关文章：[文章风格规范——新闻篇](/wiki/ASC/News)*
 
 文章风格规范（ASC）通过硬性规定来确保 osu!wiki 的文章通俗易懂，格式统一。
 
@@ -19,7 +19,7 @@ _相关文章：[文章风格规范——新闻篇](/wiki/ASC/News)_
 下面是 osu!wiki 允许的语言列表。如果你的语言不在此列，请在 [osu-web 仓库](https://github.com/ppy/osu-web/issues) 中提出这个问题（Issue）！
 
 | 文件名 | 中文写法 | 当地写法 |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | `en.md` | 英语 | English |
 | `es.md` | 西班牙语 | Español |
 | `fr.md` | 法语 | Français |
@@ -50,7 +50,7 @@ _相关文章：[文章风格规范——新闻篇](/wiki/ASC/News)_
 
 ### 索引页
 
-所有文件夹 **必须** 至少包含一篇文章,即使它是一个 _索引页_ 。
+所有文件夹 **必须** 至少包含一篇文章,即使它是一个 *索引页* 。
 
 索引页 **必须且只能** 链接到它的子文件夹，并且应该简短介绍它所链接到的文章。
 
@@ -136,7 +136,7 @@ Markdown 中的转义字符是反斜杠（`\`）。若要使用反斜杠，应�
 ```
 ## 游戏模式
 
-_另见：[游戏模式]/wiki/game_modes)。_
+*另见：[游戏模式]/wiki/game_modes)。*
 
 ### ![](/wiki/shared/Osu.gif) osu!
 
@@ -249,7 +249,7 @@ osu! is a frustrating but fun circle-clicking simulator.
 
 ### 图片
 
-_参见: [文章风格规范——图片篇](/wiki/Article_Styling_Criteria/Images)._
+*参见: [文章风格规范——图片篇](/wiki/Article_Styling_Criteria/Images).*
 
 建议为图片建立独立的一个文件夹（例如 `img/` 文件夹）。当某个图片需要多个文章使用的时候，将它放到 `/wiki/shared/` 文件夹下。
 
@@ -368,7 +368,7 @@ _参见: [文章风格规范——图片篇](/wiki/Article_Styling_Criteria/Imag
 ### 部分翻译规范
 
 | 英文 | 中文 |
-| --- | --- |
+| :-- | :-- |
 | e.g. | 例如 |
 | For example: | 例如： |
 | Examples: | 例如： |

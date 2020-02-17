@@ -1,6 +1,6 @@
 # Chinese osu!mania 4K Tournament 2017
 
-![CMT 4K 2017](pic.png)
+![CMT 4K 2017](img/pic.png)
 
 The **Chinese osu!mania 4K Tournament 2017** (***CMT 4K 2017***) is the second one-on-one, osu!mania 4K specified Chinese regional tournament, hosted by CMT team.
 
@@ -22,9 +22,9 @@ The **Chinese osu!mania 4K Tournament 2017** (***CMT 4K 2017***) is the second o
 
 All prizes are sponsored by **汉斯**, **音游网** and **CrazyBoard**.
 
-- ![](/wiki/shared/GCrown.png) 3 months osu!supporter tag, profile badge, **CrazyBoard Mark One Keyboard**;
-- ![](/wiki/shared/SCrown.png) 2 months osu!supporter tag;
-- ![](/wiki/shared/BCrown.png) 1 month osu!supporter tag.
+- ![](/wiki/shared/crown-gold.png) 3 months osu!supporter tag, profile badge, **CrazyBoard Mark One Keyboard**;
+- ![](/wiki/shared/crown-silver.png) 2 months osu!supporter tag;
+- ![](/wiki/shared/crown-bronze.png) 1 month osu!supporter tag.
 
 ## Tournament staff
 
@@ -44,7 +44,7 @@ All prizes are sponsored by **汉斯**, **音游网** and **CrazyBoard**.
 
 ---
 
-![CMT4K2017 podium](podium.png)
+![CMT4K2017 podium](img/podium.png)
 
 ---
 

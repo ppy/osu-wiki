@@ -6,7 +6,7 @@ outdated: true
 
 ## Einführung
 
-![osu!talk logo](osu!talk.jpg "osu!talk logo")
+![osu!talk logo](img/osu!talk.jpg "osu!talk logo")
 
 -   Offizieller Youtube Kanel: <https://www.youtube.com/user/osuacademy/videos>
 -   Offizieller Thread: <https://osu.ppy.sh/community/forums/topics/225111>

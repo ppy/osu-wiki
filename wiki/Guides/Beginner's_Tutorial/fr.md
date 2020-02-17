@@ -32,7 +32,7 @@ Jouer à la souris a tendance à être difficile pour :
 
 ### Jouer à la tablette
 
-Si vous allez utiliser une tablette, vous devez essayer et trouver une zone sur la tablette où vous pouvez jouer confortablement. Si vous voulez acheter une tablette pour jouer à osu! avec, regarder d’abord le guide [Acheter une tablette](/wiki/Guides/Tablet_purchase/ "Acheter une tablette par Daru"). De plus, achetez quelques plumes, car vous ne savez jamais quand vous aurez besoin de nouvelles car elles ont tendance à s’user rapidement, spécialement quand vous jouez souvent. Bien que vous pouvez utiliser la tablette pour tapper les cercles, la plupart des joueurs préfèrent utiliser le clavier  dont nous parlerons plus tard. Jouer à la tablette a tendance à exceller dans :
+Si vous allez utiliser une tablette, vous devez essayer et trouver une zone sur la tablette où vous pouvez jouer confortablement. Si vous voulez acheter une tablette pour jouer à osu! avec, regarder d’abord le guide [Acheter une tablette](/wiki/Guides/Tablet_purchase "Acheter une tablette par Daru"). De plus, achetez quelques plumes, car vous ne savez jamais quand vous aurez besoin de nouvelles car elles ont tendance à s’user rapidement, spécialement quand vous jouez souvent. Bien que vous pouvez utiliser la tablette pour tapper les cercles, la plupart des joueurs préfèrent utiliser le clavier  dont nous parlerons plus tard. Jouer à la tablette a tendance à exceller dans :
 
 -   Pas de dérivation du curseur.
 -   Mouvements et vitesse précis.
@@ -91,9 +91,9 @@ Ne soyez pas effrayés de vous entrainez à quelque chose que vous n’arrivez p
 
 *Page Principale: [Comment utiliser l’assistant de décalage](/wiki/Guides/How_to_use_the_Offset_Wizard)*
 
-Dépendant de l’appareil que vous utilisez pour jouer à osu!, vous pourriez trouver que les cercles de hit ne sont pas en rythme avec la musique.Pour corriger cela, vous pouvez changer la valeur du décalage global dans le menu des [Options](/wiki/Options/). Le décalage global changera quand la première note apparaîtra sur la beatmap (soit plus tôt ou plus tard que par défaut),ce qui retarde le reste des notes du même décalage. Une valeur négative de décalage fera que les notes apparaîtront légèrement plus tard, et une valeur positive les fera apparaître plus tôt.
+Dépendant de l’appareil que vous utilisez pour jouer à osu!, vous pourriez trouver que les cercles de hit ne sont pas en rythme avec la musique.Pour corriger cela, vous pouvez changer la valeur du décalage global dans le menu des [Options](/wiki/Options). Le décalage global changera quand la première note apparaîtra sur la beatmap (soit plus tôt ou plus tard que par défaut),ce qui retarde le reste des notes du même décalage. Une valeur négative de décalage fera que les notes apparaîtront légèrement plus tard, et une valeur positive les fera apparaître plus tôt.
 
-Dans l’[Assistant de décalage](/wiki/Options/Universal_Offset), dont l’accès est dans le menu des [Options](/wiki/Options/), une chanson d’échantillonnage se jouera avec un tempo de métronome en haut. Ajustez le décalage graduellement en utilisant les flèches haut/bas ou avec la molette de la souris jusqu’à ce que le tempo du métronome soit parfaitement sur la ligne du centre.
+Dans l’[Assistant de décalage](/wiki/Options/Universal_Offset), dont l’accès est dans le menu des [Options](/wiki/Options), une chanson d’échantillonnage se jouera avec un tempo de métronome en haut. Ajustez le décalage graduellement en utilisant les flèches haut/bas ou avec la molette de la souris jusqu’à ce que le tempo du métronome soit parfaitement sur la ligne du centre.
 
 Quand vous jouez une beatmap vous verrez un graphe d’erreur de frappe en dessous de l’écran. Frapper une note affichera une ligne blanche quelque part sur ce graphe dépendant de la précision de vos coups. Si toutes vos frappes sont à gauche du centre, essayez d’augmenter légèrement votre décalage global.Si elles sont toutes à droite, essayez de le réduire..
 
@@ -101,7 +101,7 @@ Ajustez votre décalage global jusqu’à ce que vous soyez heureux du résultat
 
 ### Raw Input
 
-*Voir aussi : [Options](/wiki/Options/#mouse)*
+*Voir aussi : [Options](/wiki/Options#mouse)*
 
 Une fonction souvent négligée dans le jeu est la fonction Raw Input. Cela permet une lecture directe de votre périphérique d'entrée dans osu! lui-même. Vous pouvez aussi l'utiliser si vous n'aimez pas la façon dont Windows gère le curseur de votre souris, ou plus particulièrement si vous utilisez une tablette. Essayez-le et jouez quelques maps avec, vous pourriez vous sentir beaucoup plus à l'aise avec ça !
 

@@ -7,7 +7,7 @@ tags:
 
 # The Heptakey osu!mania Cup #1
 
-![THOM CUP Logo](logo.png)
+![THOM CUP Logo](img/logo.png)
 
 **The Heptakey osu!mania Cup \#1** (***THOM CUP \#1***) is a one-on-one euro-american osu!mania tournament. It is the 1st installment of the THOM CUP. More specifically, this tournament is an osu!mania 7-key tournament.
 
@@ -30,9 +30,9 @@ tags:
 
 | Placing | Prize |
 | :-: | :--- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 50 USD |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 30 USD |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 20 USD |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 50 USD |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 30 USD |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 20 USD |
 
 ## Organization
 
@@ -88,9 +88,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | User |
 | :-: | --- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | ![][flag_ES] [**aitor98**](https://osu.ppy.sh/users/3154852) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_IT] [**Yomiel**](https://osu.ppy.sh/users/3461860)  |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_CL] [**Skalim**](https://osu.ppy.sh/users/2225008)  |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | ![][flag_ES] [**aitor98**](https://osu.ppy.sh/users/3154852) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_IT] [**Yomiel**](https://osu.ppy.sh/users/3461860)  |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CL] [**Skalim**](https://osu.ppy.sh/users/2225008)  |
 
 ---------------------------
 
@@ -374,7 +374,7 @@ This competition has come to an end and resulted in the following podium:
 | dewero ![][flag_US]           | 4 | **5** | ![][flag_DE] **rohen04**      | [#1](https://osu.ppy.sh/community/matches/43236529) |
 | **Keweft** ![][flag_BR]       | **5** | 1 | ![][flag_BR] Lazarento        | [#1](https://osu.ppy.sh/community/matches/43236538) |
 | **Gekido-** ![][flag_US]      | **5** | 4 | ![][flag_RU] Daleenie         | [#1](https://osu.ppy.sh/community/matches/43236398) |
-| **Elementaires** ![][flag_FR] | **5** | 0 | ![][flag_BR] spoonguy         | [#1](https://osu.ppy.sh/community/matches/43238774) |  
+| **Elementaires** ![][flag_FR] | **5** | 0 | ![][flag_BR] spoonguy         | [#1](https://osu.ppy.sh/community/matches/43238774) |
 | **dewero** ![][flag_US]       | **5** | 0 | ![][flag_BY] MatVeiQaaa       | [#1](https://osu.ppy.sh/community/matches/43238779) |
 | **Lothus** ![][flag_BR]       | **5** | 1 | ![][flag_BR] Keweft           | [#1](https://osu.ppy.sh/community/matches/43238654) |
 | **Gamer97** ![][flag_CH]      | **5** | 0 | ![][flag_PL] -Karen-chan-     | -Win by Default- |

@@ -1,4 +1,4 @@
-# Spinners
+# Spinner mapping techniques
 
 <!-- please place all mapping techniques in alphabetical order -->
 
@@ -43,6 +43,6 @@ This is a spinner that is the last hit object of the beatmap.
 
 ### Short Spinners
 
-_Not to be confused with [Ninja Spinners](../Unrankable/#ninja-spinners)._
+_Not to be confused with [Ninja Spinners](/wiki/Mapping_Techniques/Unrankable#ninja-spinners)._
 
 ¯\\\_(ツ)\_/¯

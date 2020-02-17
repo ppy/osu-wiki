@@ -44,7 +44,7 @@ Pour osu !, il est très peu probable que vous ayez besoin d’un Cintiq ou d’
 
 Au moment de la rédaction, il existe trois versions du Bamboo, toutes confondues sous le même surnom de "Bamboo" (la gamme Intuos se distinguent par leur numéro, Intuos5 étant la plus récente au moment de la rédaction). Certains recommandent d'acheter des Bamboos de deuxième ou de troisième génération. Les tablettes Bamboo de première génération portaient des boutons supplémentaires sur le dessus de la tablette plutôt que sur le côté, ce qui les rend difficiles à utiliser dans osu !.
 
-![](img/gen1.jpg  "Bamboo de première génération (Pen and Touch, Touch, and Fun - Bamboo Fun shown)")
+![](img/gen1.jpg "Bamboo de première génération (Pen and Touch, Touch, and Fun - Bamboo Fun shown)")
 
 ![](https://puu.sh/dlQH "Bamboo de seconde génération (Pen and Touch, Pen, Touch, Fun, and Craft - Bamboo Pen and Touch shown)")
 

@@ -1,6 +1,6 @@
 # Packs
 
-_Halaman utama: [Beatmaps](/wiki/Beatmaps)_
+*Halaman utama: [Beatmaps](/wiki/Beatmaps)*
 
 Paket beatmap adalah sebuah file `.zip` yang berisi kumpulan beatmap. Nama dari pack didasarkan pada apa yang dikandungnya (contoh `Approved Beatmap Pack #7` hanya berisi kumpulan beatmap [approved](/wiki/approved)).
 
@@ -14,7 +14,7 @@ Perlu dicatat bahwa sebagian besar pack:
 Paket beatmap dibagi menjadi 4 kategori:
 
 | Kategori | Jenis beatmap |
-| -------- | ------------- |
+| :-- | :-- |
 | Standard | Lagu-lagu berstatus Ranked atau Approved |
 | Chart | Lagu-lagu tantangan Fortnightly Chart |
 | Theme | Tema umum dari lagu-lagu |

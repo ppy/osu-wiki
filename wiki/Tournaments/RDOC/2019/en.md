@@ -28,9 +28,9 @@ The **Royal Danish osu!Cup 2019** (***RDOC 2019***) is an ongoing Danish 1v1 dou
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge, 4 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter tag |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
 ![RDOC 2019 winner badge](img/badge.png)
 
@@ -85,10 +85,6 @@ The Royal Danish osu!Cup 2019 is run by various community members.
 - DoubleTime
   - [Yasuda Rei - Mirror -TV edit- [Insane]](https://osu.ppy.sh/beatmapsets/211036#osu/496376)
   - [BoA - MASAYUME CHASING [Insane]](https://osu.ppy.sh/beatmapsets/176805#osu/425707)
-
-## Match results
-
-*TBD*
 
 ## Ruleset
 

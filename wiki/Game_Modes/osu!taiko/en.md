@@ -3,17 +3,17 @@ needs_cleanup: true
 ---
 
 <!-- wiki -->
-[Play_Styles#osu!taiko wikilink]: /wiki/Play_Styles/ "more info can be found on Play Styles under osu!taiko"
-[Score#osu!taikoSV wikilink]: /wiki/Score/#osu-taiko "more info can be found on Score under osu!taiko Scoring Values"
-[Options#Keyboard wikilink]: /wiki/Options/ "more info can be found on Options under Keyboard"
-[Skinning#osu!taiko wikilink]: /wiki/Skinning/osu!taiko/ "osu!taiko Skinning"
-[Mascots#pippi wikilink]: /wiki/Mascots/#pippi "more info can be found on Mascots under pippi"
+[Play_Styles#osu!taiko wikilink]: /wiki/Play_Styles "more info can be found on Play Styles under osu!taiko"
+[Score#osu!taikoSV wikilink]: /wiki/Score#osu-taiko "more info can be found on Score under osu!taiko Scoring Values"
+[Options#Keyboard wikilink]: /wiki/Options "more info can be found on Options under Keyboard"
+[Skinning#osu!taiko wikilink]: /wiki/Skinning/osu!taiko "osu!taiko Skinning"
+[Mascots#pippi wikilink]: /wiki/Mascots#pippi "more info can be found on Mascots under pippi"
 [Auto wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Auto"
 [Hidden wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Hidden"
 [Flashlight wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Flashlight"
 [Relax wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Relax"
-[osu! wikilink]: /wiki/Game_Modes/osu!/ "osu!"
-[osu!catch wikilink]: /wiki/Game_Modes/osu!catch/ "osu!catch"
+[osu! wikilink]: /wiki/Game_Modes/osu! "osu!"
+[osu!catch wikilink]: /wiki/Game_Modes/osu!catch "osu!catch"
 
 <!-- External -->
 [Taiko no Tatsujin wikipedia]: https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia entry for Taiko no Tatsujin"
@@ -21,7 +21,7 @@ needs_cleanup: true
 [Taiko by LuigiHann link]: https://osu.ppy.sh/community/forums/topics/41319 "Taiko Skin version 6.0 by LuigiHann"
 
 <!-- image -->
-[osu!taiko logo]: ./img/Taiko_logo.jpg "Taiko logo in Special Mode"
+[osu!taiko logo]: img/Taiko_logo.jpg "Taiko logo in Special Mode"
 
 <!-- shared -->
 [osu!taiko icon link]: /wiki/shared/mode/taiko.png "osu!taiko icon"

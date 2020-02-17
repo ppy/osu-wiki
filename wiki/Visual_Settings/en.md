@@ -1,4 +1,4 @@
-# Visual Settings
+# Visual settings
 
 ![Visual Settings Menu](img/VisualSettings.jpg "Visual Settings Menu")
 

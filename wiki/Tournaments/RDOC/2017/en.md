@@ -26,9 +26,9 @@ The **Royal Danish osu!Cup 2017** (***RDOC 2017***) was a Danish 1v1 double-elim
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge, 12 months of osu!supporter tag, custom hoodie |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | 6 months of osu!supporter tag, custom t-shirt |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | 4 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 12 months of osu!supporter tag, custom hoodie |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter tag, custom t-shirt |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter tag |
 | *4th place* | 2 months of osu!supporter tag |
 
 ![RDOC 2017 winner badge](img/badge.png)

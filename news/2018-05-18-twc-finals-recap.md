@@ -48,7 +48,7 @@ With regards to the matches last weekend, I'm certainly glad to see a fairly eve
 
 ### Conclusion
 
-![](/wiki/Tournaments/TWC/2018/podium.png)
+![](/wiki/Tournaments/TWC/2018/img/podium.png)
 
 **Congratulations to Japan for their outstanding performance in the osu!taiko World Cup 2018!**
 

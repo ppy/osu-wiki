@@ -1,4 +1,4 @@
-# 2008
+# History of osu! 2008
 
 ![](img/2008.jpg)
 
@@ -44,7 +44,7 @@ Continuing the trend set by July, one would be hard pressed to find an aspect of
 
 Personal online best scores were added to song selection, fulfilling a long-time request. This required some fairly hefty database optimisation. Graphical improvements were made to the ranking screen, and various elements of the default skin, in an aim to make it feel more clean and crisp than before. The display of slider tick score sprites (10/30) was implemented. Improvements were seen in the multiplayer match setup, allowing host control to be transferred. Many new chat commands were added for user convenience.
 
-A new ranked status "![](img/fire.gif) [approved](/wiki/approved)" was added for maps which were of great quality but exceed ranking length or difficulty (or other) limits in some way. Maps in this status don't add to the player's scores, but have scoreboards and act otherwise like a ![](img/heart.gif) [ranked](/ranked) map.
+A new ranked status "![](img/fire.gif) [approved](/wiki/approved)" was added for maps which were of great quality but exceed ranking length or difficulty (or other) limits in some way. Maps in this status don't add to the player's scores, but have scoreboards and act otherwise like a ![](img/heart.gif) [ranked](/wiki/ranked) map.
 
 ## September
 

@@ -3,16 +3,16 @@ needs_cleanup: true
 ---
 
 <!-- wiki -->
-[Play_Styles#osu!catch wikilink]: /wiki/Play_Styles/ "more info can be found on Play Styles under osu!catch"
-[Score#osu!catchSV wikilink]: /wiki/Score/#osu-catch "more info can be found on Score under osu!catch Scoring Values"
-[Options#Keyboard wikilink]: /wiki/Options/ "more info can be found on Options under Keyboard"
-[Skinning#osu!catch wikilink]: /wiki/Skinning/osu!catch/ "osu!catch Skinning"
-[Mascots#Yuzu wikilink]: /wiki/Mascots/#yuzu "more info can be found on Mascots under Yuzu"
+[Play_Styles#osu!catch wikilink]: /wiki/Play_Styles "more info can be found on Play Styles under osu!catch"
+[Score#osu!catchSV wikilink]: /wiki/Score#osu-catch "more info can be found on Score under osu!catch Scoring Values"
+[Options#Keyboard wikilink]: /wiki/Options "more info can be found on Options under Keyboard"
+[Skinning#osu!catch wikilink]: /wiki/Skinning/osu!catch "osu!catch Skinning"
+[Mascots#Yuzu wikilink]: /wiki/Mascots#yuzu "more info can be found on Mascots under Yuzu"
 [Auto wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Auto"
 [Hidden wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Hidden"
 [Flashlight wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Flashlight"
 [Relax wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Relax"
-[osu! wikilink]: /wiki/Game_Modes/osu!/ "osu!"
+[osu! wikilink]: /wiki/Game_Modes/osu! "osu!"
 
 <!-- external -->
 [ouendan wikipedia]: https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia entry for Osu! Tatakae! Ouendan"

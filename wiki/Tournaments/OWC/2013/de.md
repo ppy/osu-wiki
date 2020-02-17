@@ -14,9 +14,9 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 
 | Placing                                                    | Country                                     |
 |------------------------------------------------------------|---------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | ![][flag_KR] **Südkorea** |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_TW] **Taiwan**   |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_PL] **Polen**    |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | ![][flag_KR] **Südkorea** |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TW] **Taiwan**   |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PL] **Polen**    |
 
 ## Turnierzeitplan
 
@@ -34,9 +34,9 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 
 | Placing                                                    | Prize(s)                                                                                        |
 |------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 Monate Supporter Tag, Profilabzeichen, OWC Trophäe, [osu!tablet](https://osu.ppy.sh/community/forums/topics/169139) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 Monate Supporter Tag                                                                          |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 Monat Supporter Tag                                                                           |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 6 Monate Supporter Tag, Profilabzeichen, OWC Trophäe, [osu!tablet](https://osu.ppy.sh/community/forums/topics/169139) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 Monate Supporter Tag                                                                          |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 Monat Supporter Tag                                                                           |
 
 ## Organisation
 

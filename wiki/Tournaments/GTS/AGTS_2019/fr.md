@@ -27,9 +27,9 @@ L'**Advanced Global Taiko Showdown 2019** (***AGTS 2019***) est un tournoi par p
 
 | Classement | Prix |
 | :-: | :-- |
-| ![Couronne en or](/wiki/shared/GCrown.png "1ère place") | Un badge unique sur le profil, une bannière d'équipe exclusive |
-| ![Couronne en argent](/wiki/shared/SCrown.png "2ème place") | Une bannière d'équipe exclusive |
-| ![Couronne en bronze](/wiki/shared/BCrown.png "3ème place") | Une bannière d'équipe exclusive |
+| ![Couronne en or](/wiki/shared/crown-gold.png "1ère place") | Un badge unique sur le profil, une bannière d'équipe exclusive |
+| ![Couronne en argent](/wiki/shared/crown-silver.png "2ème place") | Une bannière d'équipe exclusive |
+| ![Couronne en bronze](/wiki/shared/crown-bronze.png "3ème place") | Une bannière d'équipe exclusive |
 
 ![Badge des gagnants de l'AGTS 2019](img/badge.png)
 
@@ -114,9 +114,9 @@ Cette compétition est maintenant terminée, voici le classement final:
 
 | Classement | Pays |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_JP] Japon |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_CA] Canada |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_RU] Russie A |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_JP] Japon |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CA] Canada |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_RU] Russie A |
 
 ---
 

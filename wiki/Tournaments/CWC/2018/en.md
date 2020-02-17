@@ -29,9 +29,9 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $150 per team member, unique profile badge, "osu!catch Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $80 per team member, unique profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $40 per team member, unique profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | $150 per team member, unique profile badge, "osu!catch Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, unique profile badge |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, unique profile badge |
 
 ## Organisation
 

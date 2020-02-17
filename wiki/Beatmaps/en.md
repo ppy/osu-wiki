@@ -1,12 +1,13 @@
 ---
 outdated: true
 ---
+<!-- TODO: outdated because info about Qualified and Approved is outdated, also there are some references to old website componenets -->
 
 # Beatmaps
 
 *Not to be confused with: [Difficulties](/wiki/Difficulties).*
 
-Beatmaps are game levels in [osu!](/wiki/osu!_glossary), like the stages in the [DS games](/wiki/Glossary/#ds-games). In their most basic form, a beatmap have a song and various [hit objects](/wiki/hit_objects) placed according to the rhythm of the music. They can also have a background image, video, and/or [storyboard](/wiki/storyboard).
+Beatmaps are game levels in [osu!](/wiki/osu!_glossary), like the stages in the [DS games](/wiki/Glossary#ds-games). In their most basic form, a beatmap have a song and various [hit objects](/wiki/hit_objects) placed according to the rhythm of the music. They can also have a background image, video, and/or [storyboard](/wiki/storyboard).
 
 Beatmaps can be uploaded by the [BSS](/wiki/BSS) (Beatmap Submission System) and are then run through an approval process called [modding](/wiki/modding) in order to maintain the high standards of playability.
 

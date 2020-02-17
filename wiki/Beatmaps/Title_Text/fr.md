@@ -35,7 +35,7 @@ Une nouvelle beatmap doit avoir son titre dans le format `[size:20,bold:0]Artist
 | `time` | Le temps de la chanson quand cette ligne commence a apparaître, en millisecondes. | *Change à chaque lignes* |
 | `wait` | Un délai supplémentaire avant l'affichage de la ligne, en millisecondes. | 500 |
 
-Les valeurs par défaut de `time` et `hold` dépendent de l'état de la dernière ligne. Pour la première ligne, si rien n'est spécifié : 
+Les valeurs par défaut de `time` et `hold` dépendent de l'état de la dernière ligne. Pour la première ligne, si rien n'est spécifié :
 
 - `time` est 200
 - `hold` est `3600 + 800n`, où  `n` est le nombre total de ligne dans le titre.
@@ -45,7 +45,7 @@ Pour chaque nouvelle ligne, les options par défaut sont mise à jour :
 - `time` devient `(time de la ligne précédente) + (wait de la ligne précédente) + 200`
 - `hold` devient `(hold de la ligne précédente) - 200`
 
-Chaque fois que `time` est spécifié explicitement,` hold` est défini sur `4000 + 800n`. Pour cette raison, il est important de toujours définir `time` *avant* ` hold` si vous utilisez les deux dans la même ligne. Sinon, `hold` sera écrasé.
+Chaque fois que `time` est spécifié explicitement,`hold` est défini sur `4000 + 800n`. Pour cette raison, il est important de toujours définir `time` *avant* `hold` si vous utilisez les deux dans la même ligne. Sinon, `hold` sera écrasé.
 
 #### Exemple
 

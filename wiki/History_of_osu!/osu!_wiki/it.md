@@ -13,7 +13,7 @@ outdated: true
 
 -   Reclutare **altri (inglesi) autori di osu! wiki.** La osu! wiki ha bisogno di una revisione e il **team attuale non esiste**.
 -   Cambiare **'tutti**' gli screenshot nella wiki a causa della nuova skin di default.
-    -   ~~Nello specifico, [FAQ](FAQ "wikilink"), [Standard](Standard "wikilink"), [Interface](Interface "wikilink"), [Options](Options "wikilink"), [Skinning](Skinning "wikilink") (?), [Game Modifiers](Game_Modifiers "wikilink") e possibilmente [Multi](Multiplayer "wikilink"). Qualcuno lo fa?~~ **EDIT:** (Aug 30 '13) Fatto. Non c'è nessuno qui? ;\_; --[RaikireHiuduo](User:RaikireHiuduo "wikilink") ([talk](User_talk:RaikireHiuduo "wikilink")) 04:24, 23 March 2013 (UTC)
+    -   ~~Nello specifico, [FAQ](FAQ "wikilink"), [Standard](Standard "wikilink"), [Interface](Interface "wikilink"), [Options](Options "wikilink"), [Skinning](Skinning "wikilink") (?), [Game Modifiers](/wiki/Game_Modifiers "wikilink") e possibilmente [Multi](Multiplayer "wikilink"). Qualcuno lo fa?~~ **EDIT:** (Aug 30 '13) Fatto. Non c'è nessuno qui? ;\_; --[RaikireHiuduo](User:RaikireHiuduo "wikilink") ([talk](User_talk:RaikireHiuduo "wikilink")) 04:24, 23 March 2013 (UTC)
 -   Aggiornare <IT:History_of_osu!>.
     -   ~~Al momento, "nessuno" la sta aggiornando.~~ Cercando di aggiornarla. --[Lust](User:Lust "wikilink") ([talk](User_talk:Lust "wikilink")) 20:55, 28 November 2013 (UTC)
     -   Ancora nessun aggiornamento. E sono già *4 mesi*. --[RaikireHiuduo](User:RaikireHiuduo "wikilink") ([talk](User_talk:RaikireHiuduo "wikilink")) 09:09, 16 March 2014 (UTC)

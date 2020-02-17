@@ -5,7 +5,7 @@ needs_cleanup: true
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
 
-# osu!mania
+# osu!mania skinning
 
 *See also: [Skinning osu!mania Tutorial](/wiki/Skinning_osu!mania_Tutorial)*
 
@@ -13,7 +13,7 @@ Since v2.5+, skinners are now able to fully customize the osu!mania notes and st
 
 ## Hit Bursts
 
-*See also: [Skinning/FAQ § Ranking screen hierarchy](/wiki/Skinning/FAQ/#ranking-screen-hierarchy)*
+*See also: [Skinning/FAQ § Ranking screen hierarchy](/wiki/Skinning/FAQ#ranking-screen-hierarchy)*
 
 ---
 

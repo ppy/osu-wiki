@@ -27,9 +27,9 @@ outdated: true
 
 | Placing                                                    | Prizes                               |
 |------------------------------------------------------------|--------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 서포터 6개월, 프로필 뱃지, OWC 우승 트로피, osu! 상품 |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 서포터 3개월                              |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 서포터 1개월                              |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 서포터 6개월, 프로필 뱃지, OWC 우승 트로피, osu! 상품 |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 서포터 3개월                              |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 서포터 1개월                              |
 
 ## 운영 위원
 

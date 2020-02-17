@@ -28,9 +28,9 @@ tags:
 
 | 排名 | 奖品 |
 | :-: | :-- |
-| ![](/wiki/shared/GCrown.png) | 8个月 osu!支持者, 个人主页徽章 |
-| ![](/wiki/shared/SCrown.png) | 4个月 osu!支持者 |
-| ![](/wiki/shared/BCrown.png) | 2个月 osu!支持者 |
+| ![](/wiki/shared/crown-gold.png) | 8个月 osu!支持者, 个人主页徽章 |
+| ![](/wiki/shared/crown-silver.png) | 4个月 osu!支持者 |
+| ![](/wiki/shared/crown-bronze.png) | 2个月 osu!支持者 |
 
 本次比赛奖品由 **[Arkaaalin](https://osu.ppy.sh/users/7477382)** 赞助。
 
@@ -168,10 +168,10 @@ tags:
 
 ### 资格赛
 
-- [Jake Chudnow - Moon Men (Instrumental) \[Stage 1: Apollo\]](https://osu.ppy.sh/beatmapsets/856468/#mania/1789290)
-- [Shawn Wasabi - Otter Pop \[Stage 2: Anxious\]](https://osu.ppy.sh/beatmapsets/856527/#mania/1789415)
-- [Aimer - Through My Blood <AM> \[Stage 3: Energy\]](https://osu.ppy.sh/beatmapsets/856473/#mania/1789302)
-- [Waterflame - Grind District \[Stage 4: Industrial\]](https://osu.ppy.sh/beatmapsets/856524/#mania/1789410)
+- [Jake Chudnow - Moon Men (Instrumental) \[Stage 1: Apollo\]](https://osu.ppy.sh/beatmapsets/856468#mania/1789290)
+- [Shawn Wasabi - Otter Pop \[Stage 2: Anxious\]](https://osu.ppy.sh/beatmapsets/856527#mania/1789415)
+- [Aimer - Through My Blood <AM> \[Stage 3: Energy\]](https://osu.ppy.sh/beatmapsets/856473#mania/1789302)
+- [Waterflame - Grind District \[Stage 4: Industrial\]](https://osu.ppy.sh/beatmapsets/856524#mania/1789410)
 
 ## 比赛结果
 

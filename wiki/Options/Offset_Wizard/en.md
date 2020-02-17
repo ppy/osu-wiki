@@ -2,12 +2,12 @@
 needs_cleanup: true
 ---
 
-# Offset Wizard
+# Offset wizard
 
 If, in every single beatmap you play, you hear that the sound effects are out of sync with the song, you may want to adjust your universal offset.
 
 The universal offset (also known as "offset wizard" or "offset adjustment") adjusts the audio offset so that the hitsound effects would be timed correctly.
-You can find this option in the [Options](../).
+You can find this option in the [Options](..).
 
 You can use the slider given to adjust the universal offset, however, this requires you to know what the timing needs to be.
 Instead, you can use `Offset Wizard` for a more graphical representation of ticks.
@@ -37,4 +37,4 @@ Upon exiting, the value listed from this screen will be used as your universal o
 
 ## How to use the Offset Wizard
 
-For instructions on how to use the offset wizard, see [How to use the Offset Wizard](/wiki/List_of_Guides/How_to_use_the_Offset_Wizard/).
+For instructions on how to use the offset wizard, see [How to use the Offset Wizard](/wiki/List_of_Guides/How_to_use_the_Offset_Wizard).
