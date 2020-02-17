@@ -1,6 +1,6 @@
 ---
 tags:
-    - spec
+  - spec
   - spectating
 ---
 
