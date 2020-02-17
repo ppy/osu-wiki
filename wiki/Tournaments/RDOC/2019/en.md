@@ -17,7 +17,7 @@ The **Royal Danish osu!Cup 2019** (***RDOC 2019***) is an ongoing Danish 1v1 dou
 | Registration phase | 2020-01-10/2020-01-24 |
 | Qualifiers | 2020-02-07/2020-02-16 |
 | Live drawings | *TBD* |
-| Round of 32 | 2020-02-22/2020-03-01 |
+| Round of 32 | 2020-02-29/2020-03-01 |
 | Round of 16 | 2020-03-07/2020-03-08 |
 | Quarterfinals | 2020-03-14/2020-03-15 |
 | Semifinals | 2020-03-21/2020-03-22 |
@@ -122,7 +122,7 @@ The Royal Danish osu!Cup 2019 is run by various community members.
 
 1. Qualifiers will have a 10 minute max buffer-room to accommodate any delayed players.
 2. For any players who are still unable to join their assigned lobby, they will have the option of rescheduling to a later lobby, unless their assigned lobby is the last one.
-3. Players must finish their lobby in one run and will **NOT** be given second chances should issues arise half-way through a lobby. If this is to happen please contact organizers.
+3. Players must finish their lobby in one run and will **NOT** be given second chances should issues arise halfway through a lobby. If this is to happen please contact organizers.
 
 ### Match regulations
 
