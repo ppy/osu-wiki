@@ -18,8 +18,8 @@ The **Beginner's Taiko Tournament 5** (***BTT5***) is a worldwide double-elimina
 | Live drawings | 2020-01-19 |
 | Qualifiers | 2020-01-25/2020-01-27 |
 | Group Stage | 2020-01-31/2020-02-02 |
-| Round of 32 | 2020-02-08/2020-02-09 |
-| Round of 16 | 2020-02-15/2020-02-16 |
+| Round of 32 | 2020-02-07/2020-02-09 |
+| Round of 16 | 2020-02-14/2020-02-16 |
 | Quarterfinals | 2020-02-22/2020-02-23 |
 | Semifinals | 2020-02-29/2020-03-01 |
 | Finals | 2020-03-07/2020-03-08 |
@@ -58,6 +58,8 @@ The Beginner's Taiko Tournament 5 is run by various community members.
 - [Challonge brackets](https://challonge.com/BTTS5)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vR6QPdOsvVXvpXcjTrqOvaQESu0LpH3HAd9QxsYMbDa7xAatXc8X3hnmmDZSxfTLtAZz-WArFbTbm8_/pubhtml)**
 
+---
+
 ## Participants
 
 | Seed | Members |
@@ -87,6 +89,8 @@ The Beginner's Taiko Tournament 5 is run by various community members.
 | **NotLikeThis** | ![][flag_CN] [zd101nb](https://osu.ppy.sh/users/6870897) | ![][flag_FI] [Pickxarro](https://osu.ppy.sh/users/3786620) | ![][flag_GB] [-jordan-](https://osu.ppy.sh/users/7288862) | ![][flag_PL] [Ullei](https://osu.ppy.sh/users/8124223) |
 | **OwO** | ![][flag_MY] [squidstain](https://osu.ppy.sh/users/11073207) | ![][flag_DE] [Kirross](https://osu.ppy.sh/users/10893243) | ![][flag_US] [quadrillionaire](https://osu.ppy.sh/users/15139170) | ![][flag_DE] [Fre3Styl3r](https://osu.ppy.sh/users/10177249) |
 | **PP** | ![][flag_DE] [Enohx](https://osu.ppy.sh/users/6375060) | ![][flag_BY] [DrDazzle](https://osu.ppy.sh/users/6216290) | ![][flag_FR] [Aidown](https://osu.ppy.sh/users/1522146) | ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507) |
+
+---
 
 ## Mappools
 
@@ -203,6 +207,8 @@ The Beginner's Taiko Tournament 5 is run by various community members.
   - [M2U - Lunatic Sky (Dainesl) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/220824#taiko/517492)
 - DoubleTime
   - [Nekomata Master feat. Hayashi Momoko - TWINKLING other side edition (bank78952) \[Kantan\]](https://osu.ppy.sh/beatmapsets/776049#taiko/1684690)
+
+---
 
 ## Match results
 
@@ -376,6 +382,8 @@ Sunday, 2 February 2020:
 | **Senko-san** ![][flag_CA] | **4** | 0 | ![][flag_US] Corruptyouth | [#1](https://osu.ppy.sh/community/matches/58167329) |
 | Erkfir ![][flag_NZ] | 0 | **4** | ![][flag_DE] **Maou** | [#1](https://osu.ppy.sh/community/matches/58167317) |
 | Senko-san ![][flag_CA] | 0 | **4** | ![][flag_US] **Yeong Yuseong** | [#1](https://osu.ppy.sh/community/matches/58169352) |
+
+---
 
 ## Ruleset
 
