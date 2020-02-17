@@ -73,7 +73,26 @@ The Catch French Intermediate Cup 2 is run by various community members.
 
 ## Mappools
 
-*The mappools will be revealed one week before each particular stage.*
+### Group Stage
+
+**[Download the mappack here! (57 MB)](https://mega.nz/#!48V30CiY!3XUk847uzPDk0l1JRpojn9251o3SpFeE87b6x9l44PI)**
+
+- NoMod
+  - [Shiokara-zu - Shiokara-Bushi (ZiRoX) \[Rainmaker\]](https://osu.ppy.sh/beatmapsets/333960#fruits/738947)
+  - [Nakanojojo - Honeyginger (osu! edit) (JBHyperion) \[Rain\]](https://osu.ppy.sh/beatmapsets/1048445#fruits/2191448)
+  - [LukHash - WINTER ERROR (Rocma) \[COLLAB PLATTER\]](https://osu.ppy.sh/beatmapsets/1031668#fruits/2163462)
+  - [Rise Against - Injection (pishifat) \[Yauxo's Insane\]](https://osu.ppy.sh/beatmapsets/214092#fruits/561116)
+- Hidden
+  - [7!! - Lovers (TV Size) (arken1015) \[urane's Catch Platter\]](https://osu.ppy.sh/beatmapsets/33769#fruits/157103)
+  - [ZUN - Shunshun Shuugetsu \~ Mooned Insect (Winek) \[Yauxo's Lunatic\]](https://osu.ppy.sh/beatmapsets/155051#fruits/417968)
+- HardRock
+  - [Y&Co. feat. Karin - Sweet Rain (Sorcerer) \[Salad\]](https://osu.ppy.sh/beatmapsets/738169#fruits/1587423)
+  - [Akiyama Uni - Touhou Hisouten (JBHyperion) \[Salad\]](https://osu.ppy.sh/beatmapsets/965677#fruits/2021396)
+- DoubleTime
+  - [Niira Etsuko - Genyou No Chou (SOGASOGAMO) \[Bernkastel\]](https://osu.ppy.sh/beatmapsets/11938#fruits/45179)
+  - [The Chainsmokers & Coldplay - Something Just Like This (handsome) \[Hard\]](https://osu.ppy.sh/beatmapsets/611301#fruits/1312786)
+- Tiebreaker
+  - **[Kalafina - heavenly blue (Nelly) \[Gloria\]](https://osu.ppy.sh/beatmapsets/662744#fruits/1402831)**
 
 ## Ruleset
 
