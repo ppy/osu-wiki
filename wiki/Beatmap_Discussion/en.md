@@ -6,11 +6,7 @@ tags:
 
 # Beatmap discussion
 
-**Beatmap discussion** (also known as *Modding v2*) is a system to manage and simplify the process of [modding](/wiki/Modding). It aims to provide a clear and understandable interface, where the improvement of a beatmap is in focus.
-
-When a beatmap is [submitted](/wiki/Submission), a discussion page is automatically created alongside the beatmap info page. When the beatmap is updated, the discussion page will be updated along with it. The discussion page can be reached by clicking on the `Discussion` button on the info page. <!--TODO: insert link to beatmap info page article, when that article exists-->
-
-The beatmap discussion page consists of a few elements (from top-to-bottom):
+**Beatmap discussion** (also known as *Modding v2*) is a system to manage and simplify the process of [modding](/wiki/Modding). It aims to provide a clear and understandable interface, where the improvement of a beatmap is in focus. When a beatmap is [submitted](/wiki/Submission), a discussion page is automatically created alongside the beatmap info page. When the beatmap is updated, the discussion page will be updated as well. The discussion page can be reached by clicking on the `Discussion` button on the info page. The beatmap discussion page consists of a few elements (from top-to-bottom):
 
 - Mode selection
 - Beatmap header
@@ -22,9 +18,9 @@ The beatmap discussion page consists of a few elements (from top-to-bottom):
 - Submission field
 - Discussions
 
-You can follow along with our images from [this beatmap](https://osu.ppy.sh/beatmapsets/924551/discussion/) to get familiar with Beatmap Discussions or try opening a discussion page yourself!
+You can follow along with our images from [this beatmap](https://osu.ppy.sh/beatmapsets/924551/discussion/) to get familiar with beatmap discussions or try opening a discussion page yourself!
 
-## Quick-start: Using Beatmap Discussions
+## Quick-start
 
 It's important to keep a few things in mind to use the Beatmap Discussion pages effectively:
 
@@ -32,50 +28,50 @@ It's important to keep a few things in mind to use the Beatmap Discussion pages 
 - Select the proper section you are submitting your mod to.
 - **Only post one issue at a time.** Do not submit multiple issues in a single post.
 - Check to see if the issue has already been addressed when the similar post warning pops up.
-- Do you like the beatmap? Give your hype to help the beatmap move closer to nomination.
+- If you like the beatmap, give your hype to help the beatmap move closer to nomination.
 
 ## Mode selection
 
-![](img/mode-selection.jpg "Mode selection.")
+![](img/mode-selection.jpg "Mode selection")
 
-Mode selection changes the game mode between the different modes: [osu!standard](/wiki/Game_Modes/osu!), [osu!taiko](/wiki/Game_Modes/osu!taiko), [osu!catch](/wiki/Game_Modes/osu!catch), and [osu!mania](/wiki/Game_Modes/osu!mania). It is only possible to select a game mode if the beatmapset has a difficulty of that game mode. This feature is mainly used for beatmaps which contain difficulties of multiple game modes. For normal beatmaps this remains untouched, since the discussion page automatically switches to the current game mode.
+Mode selection changes the [game mode](/wiki/Game_mode) you are modding. It is only possible to select a game mode if the beatmapset has a difficulty of that game mode. This is only used with beatmaps that contain multiple game modes; otherwise, it will default to the mapped game mode.
 
 ## Beatmap header
 
-![](img/beatmap-header.jpg "Beatmap header.")
+![](img/beatmap-header.jpg "Beatmap header")
 
-The beatmap header displays the Title and Artist-name provided in the [beatmap editor](/wiki/Beatmap_Editor). Clicking the beatmap header will navigate back to the beatmap info page.
+The beatmap header displays the title and artist provided in the [beatmap editor](/wiki/Beatmap_Editor). Clicking the beatmap header will navigate back to the info page.
 
-To see correct formatting, romanization and potential tags to be added to the title and artists fields, see the [Ranking Criteria](/wiki/Ranking_Criteria#metadata).
+*For information about setting metadata, see: [Ranking Criteria § Metadata](/wiki/Ranking_Criteria#metadata)*
 
 ## Difficulty menu
 
-![](img/difficulty-menu.jpg "Difficulty menu.")
+![](img/difficulty-menu.jpg "Difficulty menu")
 
-You can select different [difficulties](/wiki/Difficulties) through the dropdown menu. This will show all currently available difficulties, along with older deleted ones that have had suggestions/problems. The number that appears besides a difficulty's name is the number of unresolved posts on that specific difficulty.
+You can select different [difficulties](/wiki/Difficulties) through the dropdown menu. This will show all currently available difficulties, along with older, deleted ones that have had suggestions/problems. The number that appears besides a difficulty's name is the number of unresolved posts on that specific difficulty.
 
 It is important to check this menu before submitting any mods, to see if you are submitting them to the correct difficulty and avoid any miscommunication.
 
 ## Sorting options
 
-![](img/sorting-options.jpg "For your sorting needs.")
+![](img/sorting-options.jpg "For your sorting needs")
 
-Sorting options change the way beatmap discussions are viewed. Whenever an option is chosen, it changes both the modding timeline and the modding section to include only those types of posts. Different options include:
+Sorting options change the way beatmap discussions are viewed. Whenever an option is chosen, it changes both the modding timeline and the modding section to include only selected types of posts. Different options include:
 
-- Mine: Shows your own posts
-- Notes: Shows any notes by the mapper or [Beatmap Nominators](/wiki/Beatmap_Nominators)
-- Resolved: Shows resolved posts
-- Pending: Shows pending posts
-- Praises: Shows praise and hype posts
-- All: Shows all posts
+- `Mine` shows your own posts
+- `Notes` shows any notes by the mapper or [Beatmap Nominators](/wiki/Beatmap_Nominators)
+- `Resolved` shows resolved posts
+- `Pending` shows pending posts
+- `Praises` shows praise and hype posts
+- `All` shows all posts
 
 ## Visual timeline
 
-![](img/visual-timeline.jpg "Mod posts spread out on the timeline.")
+![](img/visual-timeline.jpg "Mod posts spread out on the timeline")
 
 The visual timeline displays all of the mods made for a difficulty which use a timestamp. Clicking on any of these will scroll down to the mod posted at that timestamp. Note that any filtering options will change what is displayed here. The visual timeline is a useful tool for seeing how much a beatmap has been modded at a glance. A tightly packed timeline would mean that a beatmap has received a lot of attention already.
 
-The selected difficulty's difficulty settings are displayed on top of the visual timeline. From left-to-right these describe a difficulty's `Length`, `BPM`, `Circle Count` and `Slider Count`.
+The selected difficulty's difficulty settings are also displayed on the top-right of the visual timeline. From left-to-right these describe a difficulty's `Length`, `BPM`, `Circle Count` and `Slider Count`.
 
 ## Beatmap status
 
@@ -90,7 +86,7 @@ The beatmap status bar shows everything relevant to a beatmap's spot in the [Bea
 
 ### Hype train
 
-The Hype Train tracks how many [hypes](/wiki/Glossary#hype) a mapset has received. Once 5 hypes have been achieved, the beatmap can be nominated by [Beatmap Nominators](/wiki/Beatmap_Nominators). Hypes can only be given by going to the `General (All Difficulties)` tab. It will not work through the `General` or the `Timeline` tabs. Clicking the `Hype` button on the beatmap status bar will automatically move you to the correct tab.
+The hype train tracks how many [hypes](/wiki/Glossary#hype) a mapset has received. Once 5 hypes have been achieved, the beatmap can be nominated by [Beatmap Nominators](/wiki/Beatmap_Nominators). Hypes can only be given by going to the `General (All Difficulties)` tab. It will not work through the `General` or the `Timeline` tabs. Clicking the `Hype` button on the beatmap status bar will automatically move you to the correct tab.
 
 ### Nomination status
 
@@ -181,3 +177,6 @@ Owners of a post on a discussion can use formatting tools to make usage more pai
 `Edit` allows a user to edit their submission in case of mistakes. This is not recommended to be used for replying to messages. Create a new reply instead.
 
 `Delete` allows the submitter to remove their submission in case of severe mistakes. This feature is disabled for posts with discussion on them already to hinder deletions caused by heated discussion.
+
+
+<!--TODO: insert lots of links-->
