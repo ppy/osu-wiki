@@ -1,7 +1,7 @@
 ---
 tags:
     - spec
-    - spectating
+  - spectating
 ---
 
 # Spectate
