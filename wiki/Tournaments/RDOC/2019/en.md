@@ -101,7 +101,7 @@ The Royal Danish osu!Cup 2019 is run by various community members.
 
 1. There are seven stages to this tournament: Qualifiers, Round of 32, Round of 16, Quarterfinals, Semifinals, Finals and Grand Finals.
 2. Seeding is determined from qualifier performance based on overall score (#1 vs #32, #2 vs #31, #3 vs #30 ... #16 vs #17). This means that only the 32 best performing players will be able to play in the tournament. All other players are placed into the fallback category as potential replacements if one of the 32 seeded players no-shows.
-3. If a player no-shows they will forfeit the match.
+3. If a player no-shows their match in Round of 32 they will be replaced by the highest ranked player in the fallback category. If a player no-shows in later matches they will forfeit the match.
 4. The win-condition for each stage is listed below:
    - Round of 32: Best of 7 (first to 4 points)
    - Round of 16: Best of 9 (first to 5 points)
