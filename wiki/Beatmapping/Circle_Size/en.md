@@ -11,7 +11,7 @@ It is possible to set the circle size value outside normal bounds by manually ed
 
 ## osu!standard
 
-In osu!standard, only the size of hit circles and sliders are adjusted through CS, while spinners remain unaffected. Mathematically, circle size is derived through the following formula:
+In osu!standard, only the size of hit circles and sliders are adjusted through circle size, while spinners remain unaffected. Mathematically, circle size is derived through the following formula:
 
 `r = 32 * (1 - 0.7 * (CS - 5) / 5)`, where `r` is the radius measured in osu!pixels. Alternatively, this can be written as:
 
