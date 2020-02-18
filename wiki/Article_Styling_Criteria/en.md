@@ -209,7 +209,7 @@ For see hatnotes are similar to see also, but may help reduce ambiguation and ar
 ```markdown
 # Installation
 
-*For the Linux installation guide, see: [Installation/Linux](/wiki/Installation/Linux)*
+*For the macOS installation guide, see: [Installation/macOS](/wiki/Installation/macOS)*
 ```
 
 ### Notices

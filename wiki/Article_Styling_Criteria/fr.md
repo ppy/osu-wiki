@@ -214,7 +214,7 @@ Les notes du début pour voir sont similaires aux "voir aussi", mais elles sont 
 ```markdown
 # Installation
 
-*Pour le guide d'installation pour Linux, voir : [Installation/Linux](/wiki/Installation/Linux)*
+*Pour le guide d'installation pour macOS, voir : [Installation/macOS](/wiki/Installation/macOS)*
 ```
 
 ### Notes

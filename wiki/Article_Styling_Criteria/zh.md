@@ -4,7 +4,7 @@ outdated: true
 
 # 文章风格规范
 
-*相关文章：[文章风格规范——新闻篇](/wiki/ASC/News)*
+*相关文章：[文章风格规范——新闻篇](/wiki/News_Styling_Criteria)*
 
 文章风格规范（ASC）通过硬性规定来确保 osu!wiki 的文章通俗易懂，格式统一。
 
