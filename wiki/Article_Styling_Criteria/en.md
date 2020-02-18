@@ -900,7 +900,7 @@ Abbreviations, acronyms, and initialisms should not be pluralised. For example:
 ```markdown
 Avoid: BNs can nominate your beatmapset.
 
-Do:    Members of the BN (Beatmap Nominators) can nominate your beatmapset.
+Do: Members of the BN (Beatmap Nominators) can nominate your beatmapset.
 ```
 
 ### Date and time
