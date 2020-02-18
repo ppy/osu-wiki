@@ -93,7 +93,7 @@ Within the last few months we’ve had the chance to say hello to a lot of new m
 **In osu!:** 
 [celerih](https://osu.ppy.sh/users/4696296), 
 [SMOKELIND](https://osu.ppy.sh/users/9327302) & 
-[Stack](https://osu.ppy.sh/users/6122935).
+[Stack](https://osu.ppy.sh/users/6122935)
 
 **In osu!taiko:** 
 [\_DUSK\_](https://osu.ppy.sh/users/6092181), 
@@ -104,11 +104,11 @@ Within the last few months we’ve had the chance to say hello to a lot of new m
 [kanpakyin](https://osu.ppy.sh/users/394326), 
 [Stefan](https://osu.ppy.sh/users/626907), 
 [Vulkin](https://osu.ppy.sh/users/4901066) & 
-[Yales](https://osu.ppy.sh/users/2377881).
+[Yales](https://osu.ppy.sh/users/2377881)
 
 **In osu!catch:** 
 [Lacrima](https://osu.ppy.sh/users/4915649) & 
-[Dapuluous](https://osu.ppy.sh/users/8140944).
+[Dapuluous](https://osu.ppy.sh/users/8140944)
 
 **In osu!mania:** 
 [Voxa](https://osu.ppy.sh/users/9229539), 
@@ -124,20 +124,20 @@ We’d like to use this section as a reminder that you can apply at any time ove
 Next we have those who have taken their leave from the group. We’d like to thank them for their tremendous work and effort within the BNs and wish them the best with their newly obtained freedom!
 
 **In osu!:** 
-[Trynna](https://osu.ppy.sh/users/2652951).
+[Trynna](https://osu.ppy.sh/users/2652951)
 
 **osu!taiko:** 
-[qoot8123](https://osu.ppy.sh/users/766371).
+[qoot8123](https://osu.ppy.sh/users/766371)
 
 **In osu!catch:** 
 [Sanyi](https://osu.ppy.sh/users/7496029), 
 [Du5t](https://osu.ppy.sh/users/6053071) & 
-[Rocma](https://osu.ppy.sh/users/566276).
+[Rocma](https://osu.ppy.sh/users/566276)
 
 **In osu!mania:** 
 [Tailsdk](https://osu.ppy.sh/users/6751666), 
 [Critical_Star](https://osu.ppy.sh/users/3793196) & 
-[Kyousukee](https://osu.ppy.sh/users/8842107).
+[Kyousukee](https://osu.ppy.sh/users/8842107)
 
 
 ### NAT Additions
