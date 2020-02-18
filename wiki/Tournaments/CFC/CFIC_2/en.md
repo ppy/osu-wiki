@@ -54,8 +54,6 @@ The Catch French Intermediate Cup 2 is run by various community members.
 - [Challonge brackets](https://osucfc.challonge.com/CFIC2)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1WY3pFruEH5nos-xEi7NDuLOKq2A0L9Nr8dPks0sktmY/edit?usp=sharing)**
 
----
-
 ## Participants
 
 | Seed | Members |
@@ -73,8 +71,6 @@ The Catch French Intermediate Cup 2 is run by various community members.
 | B | ![][flag_FR] [Dask](https://osu.ppy.sh/users/4151397) | ![][flag_FR] [Khalemm](https://osu.ppy.sh/users/11983416) | ![][flag_FR] [Aequo3](https://osu.ppy.sh/users/4495141) | ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728) |
 | C | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) | ![][flag_FR] [TomyLeFaux](https://osu.ppy.sh/users/9504653) | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) | ![][flag_FR] [NinjaCoktail](https://osu.ppy.sh/users/11431902) |
 | D | ![][flag_FR] [dracoV](https://osu.ppy.sh/users/7925725) | ![][flag_FR] [NoLimitFS](https://osu.ppy.sh/users/10411609) | ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990) | ![][flag_FR] [Oasix](https://osu.ppy.sh/users/6183012) |
-
----
 
 ## Mappools
 
@@ -98,8 +94,6 @@ The Catch French Intermediate Cup 2 is run by various community members.
   - [The Chainsmokers & Coldplay - Something Just Like This (handsome) \[Hard\]](https://osu.ppy.sh/beatmapsets/611301#fruits/1312786)
 - Tiebreaker
   - **[Kalafina - heavenly blue (Nelly) \[Gloria\]](https://osu.ppy.sh/beatmapsets/662744#fruits/1402831)**
-
----
 
 ## Ruleset
 
