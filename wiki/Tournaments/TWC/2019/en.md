@@ -26,9 +26,9 @@ The **osu!taiko World Cup 2019** (***TWC 2019***) was a country-based osu!taiko 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $150 per team member, unique profile badge, "osu!taiko Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $80 per team member, unique profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $40 per team member, unique profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | $150 per team member, unique profile badge, "osu!taiko Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, unique profile badge |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, unique profile badge |
 
 ![TWC 2019 Winner Badge](img/badge.png) ![TWC 2019 2nd Place Badge](img/badge2.png) ![TWC 2019 3rd Place Badge](img/badge3.png)
 
@@ -38,11 +38,11 @@ The osu!taiko World Cup 2019 was run by various community members by distributin
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
-| Map Selectors | ![][flag_CA] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) |
-| Commentators | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062), ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_DE] [Mew104](https://osu.ppy.sh/users/2345156), ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) |
-| Referees | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
-| Statisticians | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
+| Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
+| Map Selector | ![][flag_CA] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) |
+| Commentator | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062), ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_DE] [Mew104](https://osu.ppy.sh/users/2345156), ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) |
+| Referee | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
+| Statistician | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ## Links
 
@@ -95,7 +95,7 @@ The osu!taiko World Cup 2019 was run by various community members by distributin
 
 ---
 
-![TWC 2019 Bracket](img/bracket_GF.png)
+![TWC 2019 Bracket](img/bracket.png)
 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "The way we do spreads is actually really weird"
 date: 2016-10-08 00:00:00 +0000
-tumblr_url: https://osuqat.tumblr.com/post/151525615445/the-qat-gazette-4
+tumblr_url: https://osuqat.tumblr.com/post/151834390075/the-way-we-do-spreads-is-actually-really-weird
 ---
 
 Hi there! I guess I'm back with some material to think about once more. So I will once again throw a bunch of thoughts at everyone with the intention to stir up discussion about it!

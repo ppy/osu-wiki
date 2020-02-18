@@ -1,0 +1,12 @@
+gmt:
+  areas_of_focus:
+    beatmap_moderation: Beatmap moderation
+    chat_moderation: Chat moderation
+    forum_moderation: Forum moderation
+    official_team_presence: Official team presence
+    osu!_development: osu! development
+    player_support: Player support
+    ranking_criteria: Ranking Criteria
+    technical_support: Technical support
+    tournament_organisation: Tournament organisation
+    wiki_administration: Wiki administration

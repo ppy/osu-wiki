@@ -1,6 +1,10 @@
+---
+outdated: true
+---
+
 # Instalasi
 
-*Lihat juga: [Instalasi/macOS](/wiki/Installation/macOS)* <!-- dan [Instalasi/Linux](/wiki/Installation/Linux)* -->
+*Lihat juga: [Instalasi/macOS](/wiki/Installation/macOS)*
 
 Halaman ini secara kasar akan memberi tahu anda cara bagaimana menjalankan osu! pada perangkat Windows anda. [osu!academy](/wiki/osu!academy) memiliki [tutorial video](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ) yang menjelaskan cara memasang osu! di Windows.
 

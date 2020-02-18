@@ -4,7 +4,7 @@ outdated: true
 
 # Beatmaps
 
-Les beatmaps sont des niveaux du jeu dans [osu!](/wiki/osu!_glossary), comme des étapes dans les [jeux DS](/wiki/Glossary/#ds-games). Pour la forme la plus basique, une beatmap a une musique et plusieurs [hit objects](/wiki/hit_objects) placés de manière à ce qu'ils s'accordent au rythme de la musique. Elles peuvent également avoir une image de fond, une vidéo, et/ou un [storyboard](/wiki/storyboard).
+Les beatmaps sont des niveaux du jeu dans [osu!](/wiki/osu!_glossary), comme des étapes dans les [jeux DS](/wiki/Glossary#ds-games). Pour la forme la plus basique, une beatmap a une musique et plusieurs [hit objects](/wiki/hit_objects) placés de manière à ce qu'ils s'accordent au rythme de la musique. Elles peuvent également avoir une image de fond, une vidéo, et/ou un [storyboard](/wiki/storyboard).
 
 Les beatmaps peuvent être mises en ligne via le [BSS](/wiki/BSS) (Beatmap Submission System) et passent par un processus d'approbation appelé [modding](/wiki/modding) afin de maintenir une jouabilité de haute qualité.
 
@@ -24,7 +24,7 @@ Ces beatmaps remplissent tous les [critères de classement](/wiki/ranking_criter
 
 Les beatmaps approuvées ont l'icône de coche (![icône de coche](/wiki/shared/status/approved.png)) dans l'écran de sélection des musiques.
 
-Le statut approuvé est typiquement pour les musiques dépassant les cinq minutes de long (aussi connues sous le nom de [marathon](/wiki/marathon)), mesuré avec le total de [drain time](/wiki/drain_time) d'une beatmap. La plupart des beatmaps approuvées n'ont ni difficultés [facile](/wiki/easy) ni [normale](/wiki/normal). Cependant, quelques créateurs peuvent les mettre en ligne en différents beatmapsets qui ont la même musique alors que d'autres incluent une seule musique, contenant les beatmaps classées.
+Le statut approuvé est typiquement pour les musiques dépassant les cinq minutes de long (aussi connues sous le nom de [marathon](/wiki/marathon)), mesuré avec le total de [drain time](/wiki/drain_time) d'une beatmap. La plupart des beatmaps approuvées n'ont ni difficultés facile ni normale. Cependant, quelques créateurs peuvent les mettre en ligne en différents beatmapsets qui ont la même musique alors que d'autres incluent une seule musique, contenant les beatmaps classées.
 
 ### Qualifiées
 
@@ -44,7 +44,7 @@ Durant cette semaine, la [QAT](/wiki/QAT) est autorisée à dresser une liste de
 
 Les beatmaps "aimées" ont l'icône de cœur (![Heart icon](/wiki/shared/status/loved.png)) dans l'écran de sélection des musiques.
 
-Ces beatmaps peuvent ne pas remplir les [critères de classement](/wiki/ranking_criteria) mais sont _aimées_ de la communauté et sont donc souvent ajoutées suivant les votes de la communauté. Avant que la beatmap ne démarre, un dialogue s'affichera, informant que le statut de cette beatmap causera ce qui suit:
+Ces beatmaps peuvent ne pas remplir les [critères de classement](/wiki/ranking_criteria) mais sont *aimées* de la communauté et sont donc souvent ajoutées suivant les votes de la communauté. Avant que la beatmap ne démarre, un dialogue s'affichera, informant que le statut de cette beatmap causera ce qui suit:
 
 - Aucun [pp](/wiki/pp) ne sera accordé.
 - Tous les scores seront supprimés si le créateur met à jour la beatmap.
@@ -55,7 +55,7 @@ Pour qu'une beatmap se voit accorder le statut d'"aimé", regardez le post de fo
 
 ### En Attente
 
-_Voir aussi: [Procédure de Classement des Beatmaps](/wiki/Beatmap_Ranking_Procedure)_
+*Voir aussi: [Procédure de Classement des Beatmaps](/wiki/Beatmap_ranking_procedure)*
 
 Les beatmaps en attente ont l'icône de point d'interrogation (![icône de point d'interrogation](/wiki/shared/status/pending.png)) dans l'écran de sélection des musiques.
 

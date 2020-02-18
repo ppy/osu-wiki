@@ -9,13 +9,11 @@ Questa guida è intesa per chiunque **non riesce** a trovare il video altrove ma
 
 [YouTube](https://www.youtube.com/)
 
--   È veramente un'ottima risorsa. Se la canzone ha un video musicale, sarà su YouTube, e probabilmente sarà compressa al punto che il video è decente ma non sarà una c\*\*\*\*\*\* da scaricare.
+- È veramente un'ottima risorsa. Se la canzone ha un video musicale, sarà su YouTube, e probabilmente sarà compressa al punto che il video è decente ma non sarà una c\*\*\*\*\*\* da scaricare.
 
-### Scaricare il video
+#### Scaricare il video
 
-[VIXY](http://vixy.net/) (ce ne sono molti, molti, MOLTI altri là fuori ma questo è elencato).
-
-### Rimuovere l'audio
+[noTube](https://notube.net/) (ce ne sono molti, molti, MOLTI altri là fuori ma questo è elencato).
 
 ### Caricare il video in osu!
 

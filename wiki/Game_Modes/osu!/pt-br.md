@@ -1,10 +1,10 @@
 <!-- wiki -->
-[Game_Modes wikilink]: ../ "Modalides de Jogo"
-[Play_Styles#osu! wikilink]: /wiki/Play_Styles/ "mais informações podem ser encontradas podem ser encontradas sob osu! Estilos de Jogo"
-[Score#osu!SV wikilink]: /wiki/Score/#osu "mais informações podem ser encontradas em osu! Valores de Pontuação"
-[Options#Keyboard wikilink]: /wiki/Options/ "mais informações podem ser encontradas em 'Opções', sob 'Teclado'"
-[Skinning#osu! wikilink]: /wiki/Skinning/osu!/ "osu! Skinning"
-[Mascots#pippi wikilink]: /wiki/Mascots/#pippi "mais informações podem ser encontradas em pippi"
+[Game_Modes wikilink]: .. "Modalides de Jogo"
+[Play_Styles#osu! wikilink]: /wiki/Play_Styles "mais informações podem ser encontradas podem ser encontradas sob osu! Estilos de Jogo"
+[Score#osu!SV wikilink]: /wiki/Score#osu "mais informações podem ser encontradas em osu! Valores de Pontuação"
+[Options#Keyboard wikilink]: /wiki/Options "mais informações podem ser encontradas em 'Opções', sob 'Teclado'"
+[Skinning#osu! wikilink]: /wiki/Skinning/osu! "osu! Skinning"
+[Mascots#pippi wikilink]: /wiki/Mascots#pippi "mais informações podem ser encontradas em pippi"
 [Auto wikilink]: /wiki/Game_Modifiers "mais informações podem ser encontradas nos modificadores de jogo sob 'Auto'"
 [Hidden wikilink]: /wiki/Game_Modifiers "mais informações podem ser encontradas nos modificadores de jogo sob 'Hidden'"
 [Flashlight wikilink]: /wiki/Game_Modifiers "mais informações podem ser encontradas nos modificadores de jogo sob 'Flashlight'"
@@ -38,9 +38,6 @@
 # osu!
 
 **[Clique para voltar à página das Modalidades de Jogo][Game_Modes wikilink]**
-
-<!-- Uncomment the below and delete this comment if ScoreV2 is official and the whole page must be revised to fit ScoreV2 system behaviour -->
-<!-- **[Click here to visit the older version of osu! using deprecated ScoreV1 system](./v1 "osu! v1")** -->
 
 ![Gameplay de osu!][osu! Interface image]
 

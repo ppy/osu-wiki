@@ -1,4 +1,8 @@
-# Skinning Tutorial (osu!taiko)
+---
+needs_cleanup: true
+---
+
+# osu!taiko skinning turorial
 
 ## Pippidon
 

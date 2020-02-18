@@ -1,16 +1,19 @@
+---
+needs_cleanup: true
+---
+
 <!-- wiki -->
-[Game_Modes wikilink]: ../ "Game Modes"
-[Play_Styles#osu!taiko wikilink]: /wiki/Play_Styles/ "more info can be found on Play Styles under osu!taiko"
-[Score#osu!taikoSV wikilink]: /wiki/Score/#osu-taiko "more info can be found on Score under osu!taiko Scoring Values"
-[Options#Keyboard wikilink]: /wiki/Options/ "more info can be found on Options under Keyboard"
-[Skinning#osu!taiko wikilink]: /wiki/Skinning/osu!taiko/ "osu!taiko Skinning"
-[Mascots#pippi wikilink]: /wiki/Mascots/#pippi "more info can be found on Mascots under pippi"
+[Play_Styles#osu!taiko wikilink]: /wiki/Play_Styles "more info can be found on Play Styles under osu!taiko"
+[Score#osu!taikoSV wikilink]: /wiki/Score#osu-taiko "more info can be found on Score under osu!taiko Scoring Values"
+[Options#Keyboard wikilink]: /wiki/Options "more info can be found on Options under Keyboard"
+[Skinning#osu!taiko wikilink]: /wiki/Skinning/osu!taiko "osu!taiko Skinning"
+[Mascots#pippi wikilink]: /wiki/Mascots#pippi "more info can be found on Mascots under pippi"
 [Auto wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Auto"
 [Hidden wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Hidden"
 [Flashlight wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Flashlight"
 [Relax wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Relax"
-[osu! wikilink]: /wiki/Game_Modes/osu!/ "osu!"
-[osu!catch wikilink]: /wiki/Game_Modes/osu!catch/ "osu!catch"
+[osu! wikilink]: /wiki/Game_Modes/osu! "osu!"
+[osu!catch wikilink]: /wiki/Game_Modes/osu!catch "osu!catch"
 
 <!-- External -->
 [Taiko no Tatsujin wikipedia]: https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia entry for Taiko no Tatsujin"
@@ -18,7 +21,7 @@
 [Taiko by LuigiHann link]: https://osu.ppy.sh/community/forums/topics/41319 "Taiko Skin version 6.0 by LuigiHann"
 
 <!-- image -->
-[osu!taiko logo]: ./img/Taiko_logo.jpg "Taiko logo in Special Mode"
+[osu!taiko logo]: img/Taiko_logo.jpg "Taiko logo in Special Mode"
 
 <!-- shared -->
 [osu!taiko icon link]: /wiki/shared/mode/taiko.png "osu!taiko icon"
@@ -31,9 +34,6 @@
 
 <!-- Title -->
 # osu!taiko
-
-<!-- Uncomment the below and delete this comment if ScoreV2 is official and the whole page must be revised to fit ScoreV2 system behaviour -->
-<!-- **[Click here to visit the older version of osu!taiko using deprecated ScoreV1 system](./v1 "osu!taiko v1")** -->
 
 ![Gameplay of osu!taiko][osu!taiko Interface image]
 
@@ -290,7 +290,7 @@ It all revolves around the HP difficulty setting which can only be set by the ma
 ## osu!taiko Mapping
 
 - The red notes refer to normal hit circle,
-  - large red notes needs a finish hit sound.
+  - large red notes needs a finish hitsound.
 - The blue notes needs to have a whistle/clap hitsound on that hit circle,
   - large blue notes need both finish and whistle together.
 - The sliders represents the long yellow note (also known as drumroll)
@@ -300,7 +300,7 @@ Design placement of the notes does not matter.
 
 ### osu!standard conversion notes
 
-When a map conversion happens (playing an osu!standard map in osu!taiko mode), very short sliders (usually less than a beat) are automatically converted to red or blue notes, depending on the hit sound used.
+When a map conversion happens (playing an osu!standard map in osu!taiko mode), very short sliders (usually less than a beat) are automatically converted to red or blue notes, depending on the hitsound used.
 
 For maps with 125BPM or lower, 1/8 drumrolls are given instead of 1/4 drumrolls.
 

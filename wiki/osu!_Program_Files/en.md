@@ -1,6 +1,11 @@
-# osu! Program Files
+---
+outdated: true
+---
+<!-- TODO: outdated because there have been small changes to the program files, also seems to be missing seasonal assets -->
 
-![osu! Program Files in nutshell](Osu!sys.jpg "osu! Program Files in nutshell")
+# osu! program files
+
+![osu! Program Files in nutshell](img/osu!-program-files.png "osu! Program Files in nutshell")
 
 ## Location
 
@@ -91,9 +96,8 @@ The .db files are beatmaps' data which only osu!.exe/osu!test.exe can utilise. N
 
 Configuration files or config files configure the initial settings for osu! to work. The files can be opened by Notepad.
 
--   osu!.cfg (osu! logic configuration.)
--   osu!.{YOUR PC NAME}.cfg ("[Options](/wiki/Options) screen". Also contains [deprecated/interesting variables and sensitive information](/wiki/osu!_Program_Files/User_configuration_file))
-    -   {YOUR PC NAME}: Your PC account name. Say, if you set your admin/user account's name as "HelloWorld", the .cfg file will be named, osu!.HelloWorld.cfg .
+- `osu!.cfg`: Stores security information about the osu! application files and current release stream. This should never be modified manually.
+- `osu!.<your PC account name>.cfg`: Stores [Options](/wiki/Options) data and other game settings. See [User Configuration File](/wiki/osu!_Program_Files/User_Configuration_File).
 
 ### .exe (Application)
 

@@ -2,7 +2,7 @@
 legal: true
 ---
 
-# osu! Terms of Service
+# osu! terms of service
 
 Last Updated 25th May 2018. [View history here](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Terms/en.md)
 
@@ -12,7 +12,7 @@ By visiting and/or using the services offered by this site ([https://osu.ppy.sh]
 
 As a condition of your use of this web site, you warrant that you will not use this web site, or any of the content obtained from this web site, for any purpose that is unlawful or prohibited by these terms.
 
-In addition to this policy, please also make sure to visit and understand our [Privacy Policy](/legal/privacy).
+In addition to this policy, please also make sure to visit and understand our [Privacy Policy](https://osu.ppy.sh/legal/privacy).
 
 If you violate any of these Terms of Use, your permission to use the web site automatically terminates.
 

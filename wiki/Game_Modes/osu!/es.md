@@ -1,10 +1,10 @@
 <!-- wiki -->
-[Game_Modes wikilink]: ../ "Modos de Juego"
-[Play_Styles#osu! wikilink]: /wiki/Play_Styles/ "se puede encontrar más información en Estilos de Juego bajo el nombre de osu osu!"
-[Score#osu!SV wikilink]: /wiki/Score/#osu "se puede encontrar más información en Puntuación bajo el nombre de Valores de Puntuación de osu! "
-[Options#Keyboard wikilink]: /wiki/Options/ "se puede encontrar más información en Opciones bajo el nombre de Teclado"
-[Skinning#osu! wikilink]: /wiki/Skinning/osu!/ "osu! Skinning"
-[Mascots#pippi wikilink]: /wiki/Mascots/#pippi "se puede encontrar más información en Mascotas bajo el nombre de pippi"
+[Game_Modes wikilink]: .. "Modos de Juego"
+[Play_Styles#osu! wikilink]: /wiki/Play_Styles "se puede encontrar más información en Estilos de Juego bajo el nombre de osu osu!"
+[Score#osu!SV wikilink]: /wiki/Score#osu "se puede encontrar más información en Puntuación bajo el nombre de Valores de Puntuación de osu! "
+[Options#Keyboard wikilink]: /wiki/Options "se puede encontrar más información en Opciones bajo el nombre de Teclado"
+[Skinning#osu! wikilink]: /wiki/Skinning/osu! "osu! Skinning"
+[Mascots#pippi wikilink]: /wiki/Mascots#pippi "se puede encontrar más información en Mascotas bajo el nombre de pippi"
 [Auto wikilink]: /wiki/Game_Modifiers "se puede encontrar más información en Modificadores de Juego bajo el nombre de Auto"
 [Hidden wikilink]: /wiki/Game_Modifiers "se puede encontrar más información en Modificadores de Juego bajo el nombre de Hidden"
 [Flashlight wikilink]: /wiki/Game_Modifiers "se puede encontrar más información en Modificadores de Juego bajo el nombre de Flashlight"
@@ -38,9 +38,6 @@
 # osu!
 
 **[Haz clic aqui para regresar a la página de Modos de Juego][Game_Modes wikilink]**
-
-<!-- Uncomment the below and delete this comment if ScoreV2 is official and the whole page must be revised to fit ScoreV2 system behaviour -->
-<!-- **[Click here to visit the older version of osu! using deprecated ScoreV1 system](./v1 "osu! v1")** -->
 
 ![Gameplay de osu!][osu! Interface image]
 

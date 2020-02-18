@@ -20,16 +20,16 @@ The RMoT Invitational are traditionally held over two weekends.
 | Losers Round 4, 5 and 6             | 14 May 2017 |
 | Finals and Grand Finals             | 14 May 2017 |
 
-## Staff
+## Organisation
 
-| Role              | Member                                                                                                                                                                                                                                                              |
-|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Host              | ![][flag_SI] [Redavor](https://osu.ppy.sh/users/3328606)                                                                                                                                                                                                |
-| Admins            | ![][flag_US] [-You Watanabe-](https://osu.ppy.sh/users/3188911), ![][flag_SI] [DomenBzo](https://osu.ppy.sh/users/3450825), ![][flag_AU] [Grassy](https://osu.ppy.sh/users/8067959), ![][flag_SI] [kristi71111](https://osu.ppy.sh/users/3826105), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823)                                        |
-| Referees          | ![][flag_PH] [Deadpulse](https://osu.ppy.sh/users/8575527), ![][flag_PH] [kristoffer09](https://osu.ppy.sh/users/3474344), ![][flag_SG] [Kumabread](https://osu.ppy.sh/users/7210491), ![][flag_PL] [MagBlood](https://osu.ppy.sh/users/6178640), ![][flag_PH] [Misery](https://osu.ppy.sh/users/7892873), ![][flag_GB] [Stedoss](https://osu.ppy.sh/users/8331546) |
-| Mappool Selectors | ![][flag_TH] [GuChangeDeWorld](https://osu.ppy.sh/users/7125579), ![][flag_CA] [Meow-Mix](https://osu.ppy.sh/users/3021634)                                                                                                                                                                         |
-| Streamers         | ![][flag_SE] [BeatingHeart](https://osu.ppy.sh/users/4586549), ![][flag_PL] [FreezingTooEasy](https://osu.ppy.sh/users/4022318)                                                                                                                                                                     |
-| Commentators      | ![][flag_PL] [bsurma](https://osu.ppy.sh/users/509575), ![][flag_SE] [ErroTheCube](https://osu.ppy.sh/users/4425262), ![][flag_PH] [kristoffer09](https://osu.ppy.sh/users/3474344), ![][flag_DE] [Niegth](https://osu.ppy.sh/users/1991114), ![][flag_SI] [ultraregen](https://osu.ppy.sh/users/4106122)                                          |
+| Position | Member(s) |
+| --- | --- |
+| Host | ![][flag_SI] [Redavor](https://osu.ppy.sh/users/3328606) |
+| Admin | ![][flag_US] [-You Watanabe-](https://osu.ppy.sh/users/3188911), ![][flag_SI] [DomenBzo](https://osu.ppy.sh/users/3450825), ![][flag_AU] [Grassy](https://osu.ppy.sh/users/8067959), ![][flag_SI] [kristi71111](https://osu.ppy.sh/users/3826105), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823) |
+| Referee | ![][flag_PH] [Deadpulse](https://osu.ppy.sh/users/8575527), ![][flag_PH] [kristoffer09](https://osu.ppy.sh/users/3474344), ![][flag_SG] [Kumabread](https://osu.ppy.sh/users/7210491), ![][flag_PL] [MagBlood](https://osu.ppy.sh/users/6178640), ![][flag_PH] [Misery](https://osu.ppy.sh/users/7892873), ![][flag_GB] [Stedoss](https://osu.ppy.sh/users/8331546) |
+| Map Selector | ![][flag_TH] [GuChangeDeWorld](https://osu.ppy.sh/users/7125579), ![][flag_CA] [Meow-Mix](https://osu.ppy.sh/users/3021634) |
+| Streamer | ![][flag_SE] [BeatingHeart](https://osu.ppy.sh/users/4586549), ![][flag_PL] [FreezingTooEasy](https://osu.ppy.sh/users/4022318) |
+| Commentator | ![][flag_PL] [bsurma](https://osu.ppy.sh/users/509575), ![][flag_SE] [ErroTheCube](https://osu.ppy.sh/users/4425262), ![][flag_PH] [kristoffer09](https://osu.ppy.sh/users/3474344), ![][flag_DE] [Niegth](https://osu.ppy.sh/users/1991114), ![][flag_SI] [ultraregen](https://osu.ppy.sh/users/4106122) |
 
 ## Prizes
 

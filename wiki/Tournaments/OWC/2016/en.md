@@ -29,9 +29,9 @@ In every World Cup, people conquering a place on the podium are eligible to rece
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | exclusive and unique merchandise, profile badge, "osu! Champion" user title |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | exclusive and unique merchandise, profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | exclusive and unique merchandise, profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | exclusive and unique merchandise, profile badge, "osu! Champion" user title |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | exclusive and unique merchandise, profile badge |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | exclusive and unique merchandise, profile badge |
 
 ## Organisation
 
@@ -39,10 +39,10 @@ The osu! World Cup 2016 was run by various community members by distributing the
 
 | Position | Member(s) |
 | :-- |:-- |
-| Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366 "Loctav"), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703 "p3n"), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565 "Deif"), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257 "shARPII") |
-| Map Selectors | ![][flag_JP] [Asahina Momoko](https://osu.ppy.sh/users/3650145 "Asahina Momoko"), ![][flag_DE] [Okorin](https://osu.ppy.sh/users/1623405 "Okorin"), ![][flag_HK] [Skystar](https://osu.ppy.sh/users/873961 "Skystar") |
-| Commentators | ![][flag_AU] [Bauxe](https://osu.ppy.sh/users/1881685 "Bauxe"), ![][flag_US] [Daikyi](https://osu.ppy.sh/users/811832 "Daikyi"), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370 "deadbeat"), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983 "Doomsday"), ![][flag_CA] [Evrien](https://osu.ppy.sh/users/791660 "Evrien"), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656 "juankristal"), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943 "Omgforz"), ![][flag_GB] [Rime](https://osu.ppy.sh/users/1397232 "Rime"), ![][flag_FR] [Slainv](https://osu.ppy.sh/users/4823843 "Slainv"), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347 "ztrot") |
-| Statisticians | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370 "deadbeat"), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766 "Nwolf") |
+| Manager | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366 "Loctav"), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703 "p3n"), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565 "Deif"), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257 "shARPII") |
+| Map Selector | ![][flag_JP] [Asahina Momoko](https://osu.ppy.sh/users/3650145 "Asahina Momoko"), ![][flag_DE] [Okorin](https://osu.ppy.sh/users/1623405 "Okorin"), ![][flag_HK] [Skystar](https://osu.ppy.sh/users/873961 "Skystar") |
+| Commentator | ![][flag_AU] [Bauxe](https://osu.ppy.sh/users/1881685 "Bauxe"), ![][flag_US] [Daikyi](https://osu.ppy.sh/users/811832 "Daikyi"), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370 "deadbeat"), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983 "Doomsday"), ![][flag_CA] [Evrien](https://osu.ppy.sh/users/791660 "Evrien"), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656 "juankristal"), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943 "Omgforz"), ![][flag_GB] [Rime](https://osu.ppy.sh/users/1397232 "Rime"), ![][flag_FR] [Slainv](https://osu.ppy.sh/users/4823843 "Slainv"), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347 "ztrot") |
+| Statistician | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370 "deadbeat"), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766 "Nwolf") |
 
 ## Links
 

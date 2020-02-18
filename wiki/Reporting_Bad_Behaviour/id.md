@@ -16,17 +16,17 @@ Parameter **[** dan **]** merupakan opsional.
 
 Jika pengguna memiliki spasi di nama pengguna mereka, spasi harus diganti dengan garis bawah_ karena obrolan dalam game osu! didasarkan pada [IRC](/wiki/Internet_Relay_Chat "Internet Relay Chat (IRC)").
 
-``!report This User Name is spamming in #osu`` menjadi ``!report This_User_Name is spamming in #osu``
+`!report This User Name is spamming in #osu` menjadi `!report This_User_Name is spamming in #osu`
 
-Sistem lapor tidak peka huruf besar-kecil sehingga tidak masalah untuk menggunakan huruf kecil seperti ``this_user_name``.
+Sistem lapor tidak peka huruf besar-kecil sehingga tidak masalah untuk menggunakan huruf kecil seperti `this_user_name`.
 
-![Contoh penggunaan perintah !report](./img/Report-command.png "Contoh penggunaan perintah !report")
+![Contoh penggunaan perintah !report](img/Report-command.png "Contoh penggunaan perintah !report")
 
 ### Menggunakan tombol laporkan pengguna dalam game
 
 Melaporkan pengguna dengan cara ini hanya membutuhkan alasan dan beberapa teks tambahan, tidak seperti perintah `!report`.
 
-![Klik tombol laporkan pengguna](./img/Report-user-1.png "Klik tombol laporkan pengguna")
+![Klik tombol laporkan pengguna](img/Report-user-1.png "Klik tombol laporkan pengguna")
 
 ![Jangan lupa menambahkan alasannya di sini!](img/Report-user-2.png "Jangan lupa menambahkan alasannya di sini!")
 
@@ -66,7 +66,7 @@ Catatan bahwa tautan untuk streaming juga berlaku dalam aturan ini.
 
 Memberitahu orang untuk bunuh diri bukanlah hal yang baik untuk dikatakan.
 
-### dan masih banyak lagi...
+dan masih banyak lagi...
 
 ## Pertanyaan yang Sering Ditanyakan
 

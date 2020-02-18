@@ -1,4 +1,8 @@
-# Skinning Tutorial
+---
+needs_cleanup: true
+---
+
+# Skinning tutorial
 
 *See also: [Skinning](/wiki/Skinning)*
 
@@ -38,4 +42,3 @@ From here, you can either checkout the [skinning elements lists](/wiki/skinning#
 -   [Skinning Tutorial/osu!taiko](/wiki/Skinning_Tutorial/osu!taiko)
 -   [Skinning Tutorial/osu!catch](/wiki/Skinning_Tutorial/osu!catch)
 -   [Skinning Tutorial/osu!mania](/wiki/Skinning_Tutorial/osu!mania)
--   [Skinning Tutorial/Sounds](/wiki/Skinning_Tutorial/Sounds)

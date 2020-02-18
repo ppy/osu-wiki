@@ -1,6 +1,6 @@
 # Precisión
 
-La precisión es una forma de medir la consistencia de un jugador. Hay tres tipos de precisión que un jugador puede tener. Una de ellas es la precisión del beatmap que depende de los puntajes obtenidos. Otra, es la precisión general del jugador, que se mide a partir de sus mejores puntajes. Y por ultimo, la precisión [pp](/wiki/pp) del jugador, que depende de la precisión del puntaje obtenido.
+La precisión es una forma de medir la consistencia de un jugador. Hay tres tipos de precisión que un jugador puede tener. Una de ellas es la precisión del beatmap que depende de los puntajes obtenidos. Otra, es la precisión general del jugador, que se mide a partir de sus mejores puntajes. Y por ultimo, la precisión [pp](/wiki/Performance_Points) del jugador, que depende de la precisión del puntaje obtenido.
 
 ## Modos de juego
 
@@ -63,7 +63,7 @@ Unstable rate, o Tasa de inestabilidad, representa la consistencia de tiempo de 
 
 ### Spin
 
-*Nota: Spin solo se usa para [osu!standard](/wiki/osu!standard).*
+*Nota: Spin solo se usa para [osu!standard](/wiki/Game_Modes/osu!).*
 
 Además de la precisión, también se ve algo de información sobre las ruletas en el mismo mensaje de información.
 

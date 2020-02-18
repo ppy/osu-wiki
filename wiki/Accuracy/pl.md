@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Precyzja
 
 Precyzja to wartość określająca umiejętności gracza w śledzeniu rytmu. Termin ten stosuje się w dwóch przypadkach. Pierwszy to precyzja na danej beatmapie liczona poprzez zsumowanie wartości trafień każdego obiektu na beatmapie w stosunku do najwyższej wartości dla wszystkich możliwych obiektów. Drugi to ogólna ważona precyzja gracza, która większy nacisk kładzie na lepsze zagrania.
@@ -69,7 +73,7 @@ Wskaźnik dokładności określa powtarzalność gracza dla każdego trafienia, 
 
 ### Kręcenie spinnerami
 
-*Ważne: te wartości są dostępne tylko dla trybu [osu!standard](/wiki/osu!standard) i nie są zachowywane po wyjściu z gry.*
+*Ważne: te wartości są dostępne tylko dla trybu [osu!standard](/wiki/Game_Modes/osu!) i nie są zachowywane po wyjściu z gry.*
 
 W etykiecie wykresu wyniku znajduje się kilka informacji odnośnie kręcenia spinnerami na danej beatmapie.
 

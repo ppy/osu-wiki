@@ -29,9 +29,9 @@ The **nik's Spring/Summer Tour 2019** (***NSST 2019***) was a worldwide double-e
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 4 months osu!supporter tag, unique profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 4 months osu!supporter tag, unique profile badge |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
 ![NSST 2019 Tier 1 Winner Badge](img/badge-1.png) ![NSST 2019 Tier 2 Winner Badge](img/badge-2.png)
 
@@ -41,15 +41,15 @@ The nik's Spring/Summer Tour 2019 was run by various community members by distri
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264) |
-| Administrators | ![][flag_US] [Cindelluna](https://osu.ppy.sh/users/3039847), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [vita2](https://osu.ppy.sh/users/10706998) |
-| Map Selectors | ![][flag_DE] [hi-def](https://osu.ppy.sh/users/10697191), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_GB] [vita2](https://osu.ppy.sh/users/10706998) |
-| Referees | ![][flag_PL] [Asasyn01](https://osu.ppy.sh/users/8013323), ![][flag_US] [Cindelluna](https://osu.ppy.sh/users/3039847), ![][flag_US] [Dios Dong](https://osu.ppy.sh/users/3958619), ![][flag_DE] [hi-def](https://osu.ppy.sh/users/10697191), ![][flag_AU] [Illinon](https://osu.ppy.sh/users/8306102), ![][flag_AU] [loler123903](https://osu.ppy.sh/users/8034438), ![][flag_DE] [LwL](https://osu.ppy.sh/users/3556856), ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_SE] [Melwoine](https://osu.ppy.sh/users/12091109), ![][flag_DE] [Menty](https://osu.ppy.sh/users/3619284), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_PH] [muffleberry](https://osu.ppy.sh/users/8978259), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_DE] [NKJ](https://osu.ppy.sh/users/9675790), ![][flag_US] [Poke\_player](https://osu.ppy.sh/users/6502279), ![][flag_GB] [Snipe The Neko](https://osu.ppy.sh/users/8638531), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_VN] [Vespulaz](https://osu.ppy.sh/users/10848857), ![][flag_GB] [vita2](https://osu.ppy.sh/users/10706998), ![][flag_DE] [WitchOfFrost](https://osu.ppy.sh/users/7511840), ![][flag_RU] [Xassie](https://osu.ppy.sh/users/7958911), ![][flag_UA] [Zertus](https://osu.ppy.sh/users/5875469) |
-| Streamers | ![][flag_GB] [-spoon-](https://osu.ppy.sh/users/10623176), ![][flag_DE] [\[Lucky\]](https://osu.ppy.sh/users/1303685), ![][flag_PL] [bart6003](https://osu.ppy.sh/users/2100107), ![][flag_US] [Dios Dong](https://osu.ppy.sh/users/3958619), ![][flag_NL] [Just Lucan](https://osu.ppy.sh/users/5007943), ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667), ![][flag_DE] [WitchOfFrost](https://osu.ppy.sh/users/7511840), ![][flag_RU] [Xassie](https://osu.ppy.sh/users/7958911) |
-| Commentators | ![][flag_GB] [-spoon-](https://osu.ppy.sh/users/10623176), ![][flag_DE] [\[Lucky\]](https://osu.ppy.sh/users/1303685), ![][flag_US] [Dios Dong](https://osu.ppy.sh/users/3958619), ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958), ![][flag_DE] [hi-def](https://osu.ppy.sh/users/10697191), ![][flag_NL] [Just Lucan](https://osu.ppy.sh/users/5007943), ![][flag_DE] [Menty](https://osu.ppy.sh/users/3619284), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_DE] [WitchOfFrost](https://osu.ppy.sh/users/7511840), ![][flag_RU] [Xassie](https://osu.ppy.sh/users/7958911), ![][flag_US] [YoshiLover456](https://osu.ppy.sh/users/6843383) |
-| Designers | ![][flag_US] [\_p0ke\_](https://osu.ppy.sh/users/5434711), ![][flag_US] [Cindelluna](https://osu.ppy.sh/users/3039847) |
-| Statisticians | ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859) |
-| Wiki | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Manager | ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264) |
+| Admin | ![][flag_US] [Cindelluna](https://osu.ppy.sh/users/3039847), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [vita2](https://osu.ppy.sh/users/10706998) |
+| Map Selector | ![][flag_DE] [hi-def](https://osu.ppy.sh/users/10697191), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_GB] [vita2](https://osu.ppy.sh/users/10706998) |
+| Referee | ![][flag_PL] [Asasyn01](https://osu.ppy.sh/users/8013323), ![][flag_US] [Cindelluna](https://osu.ppy.sh/users/3039847), ![][flag_US] [Dios Dong](https://osu.ppy.sh/users/3958619), ![][flag_DE] [hi-def](https://osu.ppy.sh/users/10697191), ![][flag_AU] [Illinon](https://osu.ppy.sh/users/8306102), ![][flag_AU] [loler123903](https://osu.ppy.sh/users/8034438), ![][flag_DE] [LwL](https://osu.ppy.sh/users/3556856), ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_SE] [Melwoine](https://osu.ppy.sh/users/12091109), ![][flag_DE] [Menty](https://osu.ppy.sh/users/3619284), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_PH] [muffleberry](https://osu.ppy.sh/users/8978259), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_DE] [NKJ](https://osu.ppy.sh/users/9675790), ![][flag_US] [Poke\_player](https://osu.ppy.sh/users/6502279), ![][flag_GB] [Snipe The Neko](https://osu.ppy.sh/users/8638531), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_VN] [Vespulaz](https://osu.ppy.sh/users/10848857), ![][flag_GB] [vita2](https://osu.ppy.sh/users/10706998), ![][flag_DE] [WitchOfFrost](https://osu.ppy.sh/users/7511840), ![][flag_RU] [Xassie](https://osu.ppy.sh/users/7958911), ![][flag_UA] [Zertus](https://osu.ppy.sh/users/5875469) |
+| Streamer | ![][flag_GB] [-spoon-](https://osu.ppy.sh/users/10623176), ![][flag_DE] [\[Lucky\]](https://osu.ppy.sh/users/1303685), ![][flag_PL] [bart6003](https://osu.ppy.sh/users/2100107), ![][flag_US] [Dios Dong](https://osu.ppy.sh/users/3958619), ![][flag_NL] [Just Lucan](https://osu.ppy.sh/users/5007943), ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667), ![][flag_DE] [WitchOfFrost](https://osu.ppy.sh/users/7511840), ![][flag_RU] [Xassie](https://osu.ppy.sh/users/7958911) |
+| Commentator | ![][flag_GB] [-spoon-](https://osu.ppy.sh/users/10623176), ![][flag_DE] [\[Lucky\]](https://osu.ppy.sh/users/1303685), ![][flag_US] [Dios Dong](https://osu.ppy.sh/users/3958619), ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958), ![][flag_DE] [hi-def](https://osu.ppy.sh/users/10697191), ![][flag_NL] [Just Lucan](https://osu.ppy.sh/users/5007943), ![][flag_DE] [Menty](https://osu.ppy.sh/users/3619284), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_DE] [WitchOfFrost](https://osu.ppy.sh/users/7511840), ![][flag_RU] [Xassie](https://osu.ppy.sh/users/7958911), ![][flag_US] [YoshiLover456](https://osu.ppy.sh/users/6843383) |
+| Designer | ![][flag_US] [\_p0ke\_](https://osu.ppy.sh/users/5434711), ![][flag_US] [Cindelluna](https://osu.ppy.sh/users/3039847) |
+| Statistician | ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859) |
+| Wiki Editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -123,17 +123,17 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] [im a fancy lad](https://osu.ppy.sh/users/4908650) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [im a fancy lad](https://osu.ppy.sh/users/4908650) |
 
 ### Tier 2
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_KR] [\_Suyong](https://osu.ppy.sh/users/7295276) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_KR] [\_Suyong](https://osu.ppy.sh/users/7295276) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667) |
 
 ---
 

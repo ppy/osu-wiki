@@ -1,4 +1,8 @@
-# Help Centre
+---
+needs_cleanup: true
+---
+
+# Help centre
 
 Having trouble with something? We're here to help! Check out some solutions to common issues in the sidebar to the left of your screen.
 
@@ -8,7 +12,7 @@ Having trouble with something? We're here to help! Check out some solutions to c
 
 #### I've paid for a supporter tag, but still have not received it!
 
-**Depending on what payment service you use (Paypal or Xsolla), there may be a slight delay in the processing of your payment before it reaches us.**
+**Depending on what payment service you used (Paypal or Xsolla), there may be a slight delay in the processing of your payment before it reaches us.**
 
 Usually, these issues resolve themselves within a few hours, and our systems will automatically apply your tag to your account.
 
@@ -20,7 +24,7 @@ Make sure to include any receipts that you received during the process (paypal t
 
 #### What is "restricted" mode, exactly?
 
-**A person with a restricted account is temporarily prevented from interacting with the community in any meaningful way, including chatting, participating in multiplayer, and having their scores on leaderboards.**
+**A person with a restricted account is temporarily or permanently prevented from interacting with the community in any meaningful way, including chatting, participating in multiplayer, and having their scores on leaderboards.**
 
 If your account has been restricted, you'll likely know why after a brief conversation with the support team.
 
@@ -32,7 +36,7 @@ Refer to *[Account Restrictions](/wiki/Help_Centre/Account_Restrictions)* for mo
 
 #### I've forgotten my username and password!
 
-**Please use [the password recovery page](https://osu.ppy.sh/p/forgot) to reclaim your account automatically, provided that you still have access to the email you registered with.**
+**Please use [the password recovery page](https://osu.ppy.sh/home/password-reset) to reclaim your account automatically, provided that you still have access to the email you registered with.**
 
 If this does not work for you (or you do not have access to your registration email), please send an email to our [support team](mailto:accounts@ppy.sh) with as much information as you can think of to help us acknowledge you as the owner of your account.
 
@@ -45,7 +49,7 @@ Good information to include this email would be:
 
 #### My account has been stolen!
 
-**Try using [the password recovery page](https://osu.ppy.sh/p/forgot) to see if your account's email is still valid.**
+**Try using [the password recovery page](https://osu.ppy.sh/home/password-reset) to see if your account's email is still valid.**
 
 If this succeeds, you will be able to reset your own password without the assistance of the support staff.
 
@@ -110,17 +114,17 @@ We only grant this one time per account, so please consider carefully before req
 
 #### My username has been changed back/reverted!
 
-**We only force username reverts for inappropriate usernames.**
+**We only force username reverts for usernames we deem inappropriate or abusive.**
 
-If you find your recent namechange has been undone, it may be because the username you changed to was abusive or inappropriate. We will not perform the change again, even if we requested, but if you purchased it on the store, we'll offer a free change for you.
+If you find your recent namechange has been undone, it may be because the username you changed to was abusive, inappropriate, or considered offensive. We will not perform the change again even if requested, but if you purchased it on the store, we will offer a free change to replace it.
 
 If the change was done with the free change that comes with a supporter tag, we cannot offer to change it again.
 
 #### Can I remove my previous usernames/delete username history?
 
-**Not at the moment, sorry.**
+**Under certain circumstances.**
 
-Your profile will show all your previous purchased namechanges, and we do not accept request to remove them for now. If one of your previous usernames breaches your privacy (for example, if it contains your legal name), contact accounts@ppy.sh to request it removed.
+Your profile will show all your previous purchased namechanges, but we only selectively remove the ones that may be an issue for you. If one of your previous usernames breaches your privacy (for example, if it contains your legal name) or can lead to your privacy being breached (via other websites), contact accounts@ppy.sh to request it removed.
 
 ### Other issues
 
@@ -140,7 +144,7 @@ We will never display this information to anyone else, and we encourage you to b
 
 #### Can I make more than one account?
 
-**Unfortunately, no, you can not.**
+**Unfortunately, no, you cannot.**
 
 If we were to allow everybody to make and play on multiple accounts, the ranked scoreboards would be nearly worthless!
 
@@ -170,11 +174,13 @@ If you are playing from a public place, make sure to keep a close eye on your ac
 
 **You can see all maps you've played on the website.**
 
-If you have an active supporter tag, you can see all maps you have submitted a score on by going in the Beatmap section, then clicking the "Ranked (played)" filter. Alternatively, you can use [this link](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) to access the page directly.
+**If you have an active supporter tag**, you can see all maps you have submitted a score on by going in the Beatmap section, then clicking the "Ranked (played)" filter. Alternatively, you can use [this link](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) to access the filtered page directly.
+
+On the new website, this filter can be found by clicking "more search options" on the [beatmap list page](https://osu.ppy.sh/beatmapsets) then "Played" in the "PLAYED" section. Alternatively, you can use [this link](https://osu.ppy.sh/beatmapsets?played=played) to access the filtered page directly.
 
 Unfortunately, we do not keep track of all maps a user has downloaded, so it is impossible to get a list of them. The closest you could be to it would be using the aforementioned filter to recover at least the maps you've played before.
 
-----------------------------------------------------------------------------
+---
 
 ## Client
 
@@ -238,7 +244,7 @@ You can also try forcing the game to update.
 3. Type `update` into the quick-search to jump straight to the option.
 4. Click the `Run osu! updater` button.
 
-You can also force the game to update by creating a `help.txt` file in osu!'s installation directory. This file does not need to contain anything - it just needs to exist, and the game will automatically force an update the next time it runs
+You can also force the game to update by creating a `help.txt` file in osu!'s installation directory. This file does not need to contain anything; it just needs to exist, and the game will automatically force an update the next time it runs.
 
 #### I get an error about "font styles" when I try to open the game!
 
@@ -350,7 +356,7 @@ Try closing any extra programs before playing osu! if you find that your scores 
 
 ##### Are the score submission servers up?
 
-**The answer is almost always yes, but check [stat.ppy.sh](https://stat.ppy.sh) or the [@osustatus Twitter](https://twitter.com/osustatus) to make sure everything is running smoothly on our end.**
+**The answer is almost always yes, but check the [osu! server status](https://status.ppy.sh) or the [@osustatus Twitter](https://twitter.com/osustatus) to make sure everything is running smoothly on our end.**
 
 If the servers are offline, do not close osu! until we've fixed the issues and the servers come back up, and the game will try to submit your score again for up to an hour before it gives up.
 
@@ -433,7 +439,7 @@ If it doesn't resolve, a reboot can sometimes help.
 This is a completely harmless (albeit ugly!) effect that happens because the game's refresh rate is not synced up with your monitor's refresh rate.
 
 You can also try playing in Windowed or Borderless mode, which will use your operating system's native VSync instead.
- 
+
 Turning on VSync or playing in Windowed or Borderless mode will introduce a _slight_ amount of input lag, unfortunately. For most people, this will not cause significant issue.
 
 Later NVidia graphics cards have a global option in the NVidia Control Panel to set the global refresh rate to a setting called 'Fast', which will also fix this issue.
@@ -515,7 +521,7 @@ This helps to identify your own messages from everyone else's. There is no optio
 
 ### Performance
 
-##### How can I make osu! run cooler if my computer is overheating?
+#### How can I make osu! run cooler if my computer is overheating?
 
 **The easiest way is to change your frame limiter settings.**
 
@@ -594,7 +600,9 @@ To enable raw input, follow these steps:
 
 **You can solve this problem by defining a smaller tablet area for your device.**
 
-On most Wacom tablets, this is done via the `Mapping` tab of the `Wacom Tablet Properties` application. An example may be viewed [here](/wiki/Help_Centre/Tabarea.png).
+On most Wacom tablets, this is done via the `Mapping` tab of the `Wacom Tablet Properties` application.
+
+![Wacom Tablet Properties screen showing Mapping options](img/Tabarea.png "Interface for changing tablet area on Wacom devices")
 
 You will need to consult your tablet's manufacturer to find out how to set your tablet area for your particular peripheral.
 
@@ -618,7 +626,7 @@ Most beatmap packs come in a `.rar` file format, which means they are a compress
 
 Once all of the `.osz` files within the pack are in the Songs directory, hitting `F5` at the song selection menu will refresh the game's beatmap cache and load your new songs into the game.
 
-----------------------------------------------------------------------------
+---
 
 ## Website
 
@@ -626,7 +634,7 @@ Once all of the `.osz` files within the pack are in the Songs directory, hitting
 
 **The vast majority of the time, this is due to a high number of tickets coming into our system at once.**
 
-You can always send a single reply to your currently-open ticket asking about the state of your case, but make sure not to do this more than once or twice a week.
+You can always send a single reply to your currently open ticket asking about the state of your case, but make sure not to do this more than once or twice a week. You can also contact us on Twitter at [@osusupport](https://twitter.com/osusupport) to ask about your ticket.
 
 In rare circumstances, support tickets from chronically offending users may be deliberately ignored, though the team will **always** tell you when they will no longer be responding to you first. If you have not received a notification like this, you do not need to worry about it!
 
@@ -636,10 +644,9 @@ In rare circumstances, support tickets from chronically offending users may be d
 
 In such cases, you may open up a ticket with the support team by emailing [accounts@ppy.sh](mailto:accounts@ppy.sh) and discussing your situation with them.
 
-Most of time, you'll be allowed to access and alter your user page again, but users who abuse this amnesty may find themselves unable to edit their userpage at all, so be careful!
+Most of the time, you'll be allowed to access and alter your user page again, but users who abuse this amnesty may find themselves unable to edit their userpage at all, so be careful!
 
 If at any point you are in doubt as to whether something is appropriate for a userpage, you may message any of the members of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) with what you plan to put up and they'll let you know if it's okay.
-
 
 #### Can I completely block another user from contacting me?
 
@@ -658,6 +665,8 @@ In the event that another user is harassing you via private messages either on t
 
 You'll no longer see public chat messages from any users on that list, or receive private messages from them.
 
+If you wish to ignore highlights, private messages, or public messages, you can simply append respectively `@h`, `@p`, `@c` to their username. `The_Gatekeeper@c` will ignore the user's messages in public channels. It is possible to combine those: `The_Gatekeeper@ph` will ignore highlights and private messages, but leave public messages visible.
+
 ##### Blocking all non-friends from sending private messages in-game
 
 If you wish to prevent anyone not on your friendslist from sending you private messages, follow the following steps. **Please note: moderators are not affected by this functionality and can always PM you. If you feel a moderator is harassing you in spite of this, you should contact [our support team](mailto:support@ppy.sh).**
@@ -667,6 +676,8 @@ If you wish to prevent anyone not on your friendslist from sending you private m
 3. Toggle the setting on by clicking it.
 4. You are done! Users who are not on your friendslist (/addfriend "user") can no longer contact you.
 
+<!-- TODO: this part needs to be rewritten for the current website, "foes" is no longer available on the old one
+
 ##### Blocking public forum posts from a user
 
 **To naturally hide most public forum posts of a particular user, add them to your Foes list via the UCP.**
@@ -675,21 +686,15 @@ If you wish to prevent anyone not on your friendslist from sending you private m
 2. Click submit.
 3. You are done! Most forum posts from that user will no longer be visible to you - it will be as if they are never there. Do note that other users quoting their posts will still be visible.
 
+-->
+
 ##### Prevent any new forum private messages from reaching you
 
-**To delete all incoming forum private messages before they ever arrive, make an [automatic filtering rule in the UCP settings](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options).**
-
-1. Head on over to the PM filtering section in the [UCP](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options).
-2. At the very top of the page, look for a column titled `Add new Rule`.
-3. Click the first dropdown box (default value is Subject) and change it to `Sender`, then click Next.
-4. Click the first dropdown box again and change its value from "is like" to "is" (third option in the list), then click Next.
-5. Enter the offending user's username into the textbox that appears, then click Next.
-6. Click the first dropdown box once more and change its value to "Delete message", then click "Add Rule".
-7. You are done! Any attempts the user makes to contact you via forum PMs will now be automatically deleted without warning to you.
+Go to your [account settings](https://osu.ppy.sh/home/account/edit) and click `lock private messages from people not on your friends list` in the Privacy section. Private messages from users in your friendlist will still reach you.
 
 ##### What if I'm still having problems with a user after blocking them?
 
-**Never fear, our moderation team will help you out.**
+**Never fear, our support staff will help you out.**
 
 If a user is still harassing you via other means, or using their friends or someone else to circumvent your effort to block them, please send us an email at [support@ppy.sh](mailto:support@ppy.sh).
 
@@ -723,7 +728,7 @@ Simply type the name of the artist you are searching for into the Google Custom 
 
 If you have been inactive for a lengthy period of time and your statistics are shown wrong, simply play a few maps to display them again. Inactive users can have their scores hidden to keep the rankings fresh.
 
-----------------------------------------------------------------------------
+---
 
 ## Installation and Registration
 
@@ -770,7 +775,7 @@ If you are not using any of the above, then you will need to send in a support t
 
 Tor or networks associated with the Tor relay will not connect to the game servers for the most part. This is to avoid malicious use.
 
-----------------------------------------------------------------------------
+---
 
 ## Beatmapping and Editor
 
@@ -806,7 +811,7 @@ You can delete your beatmap yourself by waiting for it to decay to the beatmap G
 
 Once your beatmap is in the Graveyard, you can delete it yourself by clicking the `Delete` button that appears next to the beatmap link.
 
-----------------------------------------------------------------------------
+---
 
 ## osu!store and merchandise
 
@@ -926,8 +931,7 @@ To fix this, ensure you have the osu!go device selected, and right click on the 
 
 **You will need to partition the device from scratch.**
 
-Please follow [this guide](https://tails.boum.org/doc/first_steps/reset/windows/index.en.html) for details on how to do that.
-
+Please follow [this guide](https://staging.tails.boum.org/doc/first_steps/reset/windows.en.html) for details on how to do that.
 
 #### I've reformatted the osu!go device and it now shows up in Disk Management.
 
@@ -939,8 +943,7 @@ Unzip the archive we asked you to download earlier (osu!go.zip) into the _osu!go
 
 If you encounter any issues with this process, please send an email to [store@ppy.sh](mailto:store@ppy.sh) and we'd be happy to help you out.
 
-
-----------------------------------------------------------------------------
+---
 
 ## Troubleshooting
 
@@ -971,7 +974,7 @@ There's a few things we can try to resolve this issue.
 
 **This is the most obvious one.**
 
-If you've forgotten what your password is, you can use the [password recovery page](https://osu.ppy.sh/p/forgot) to recover access to your account.
+If you've forgotten what your password is, you can use the [password recovery page](https://osu.ppy.sh/home/password-reset) to recover access to your account.
 
 ##### Are you using any proxy servers or VPNs?
 

@@ -19,21 +19,21 @@ The **Aus/NZ osu!standard Tournament 6 - Summer** (***ANZT 6S***) was a single e
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 4 months of osu!supporter tag, unique profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter tag, unique profile badge |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
 ## Organisation
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135) |
-| Scheduling | ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135) |
-| Commentators | ![][flag_AU] [abolaspany](https://osu.ppy.sh/users/4261853), ![][flag_AU] [awesometa](https://osu.ppy.sh/users/7114425), ![][flag_NZ] [Monster Bait](https://osu.ppy.sh/u/6890546), ![][flag_AU] [Monk Gyatso](https://osu.ppy.sh/u/4012086), ![][flag_AU] [Arbusion](https://osu.ppy.sh/users/11469447), ![][flag_AU] [HolyJesus](https://osu.ppy.sh/users/7785655), ![][flag_AU] [Aus](https://osu.ppy.sh/users/6541404), ![][flag_AU] [Takagaki](https://osu.ppy.sh/users/3698691), ![][flag_AU] [pewdekz](https://osu.ppy.sh/users/5754859) |
-| Streamers | ![][flag_AU] [pewdekz](https://osu.ppy.sh/users/5754859), ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911), ![][flag_AU] [TheOmyNomy](https://osu.ppy.sh/users/4241054) |
-| Referees | ![][flag_AU] [Illinon](https://osu.ppy.sh/users/8306102), ![][flag_AU] [Soulskyeflare](https://osu.ppy.sh/users/8264319), ![][flag_AU] [awesometa](https://osu.ppy.sh/users/7114425), ![][flag_PH] [ggnakacarlz](https://osu.ppy.sh/users/4075421), ![][flag_NZ] [phophicles](https://osu.ppy.sh/users/9373724), ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_KR] [silverlightcs](https://osu.ppy.sh/users/9862564), ![][flag_NZ] [Div](https://osu.ppy.sh/users/3751116), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811) |
-| Map Selectors | ![][flag_JP] [Delis](https://osu.ppy.sh/users/1603923), ![][flag_JP] [Angel Arrow](https://osu.ppy.sh/users/1970239), ![][flag_MV] [HypebeastHijabi](https://osu.ppy.sh/users/1786945) |
-| Graphics Designer | ![][flag_AU] [abolaspany](https://osu.ppy.sh/users/4261853) |
+| Manager | ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135) |
+| Scheduler | ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135) |
+| Commentator | ![][flag_AU] [abolaspany](https://osu.ppy.sh/users/4261853), ![][flag_AU] [awesometa](https://osu.ppy.sh/users/7114425), ![][flag_NZ] [Monster Bait](https://osu.ppy.sh/u/6890546), ![][flag_AU] [Monk Gyatso](https://osu.ppy.sh/u/4012086), ![][flag_AU] [Arbusion](https://osu.ppy.sh/users/11469447), ![][flag_AU] [HolyJesus](https://osu.ppy.sh/users/7785655), ![][flag_AU] [Aus](https://osu.ppy.sh/users/6541404), ![][flag_AU] [Takagaki](https://osu.ppy.sh/users/3698691), ![][flag_AU] [pewdekz](https://osu.ppy.sh/users/5754859) |
+| Streamer | ![][flag_AU] [pewdekz](https://osu.ppy.sh/users/5754859), ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911), ![][flag_AU] [TheOmyNomy](https://osu.ppy.sh/users/4241054) |
+| Referee | ![][flag_AU] [Illinon](https://osu.ppy.sh/users/8306102), ![][flag_AU] [Soulskyeflare](https://osu.ppy.sh/users/8264319), ![][flag_AU] [awesometa](https://osu.ppy.sh/users/7114425), ![][flag_PH] [ggnakacarlz](https://osu.ppy.sh/users/4075421), ![][flag_NZ] [phophicles](https://osu.ppy.sh/users/9373724), ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_KR] [silverlightcs](https://osu.ppy.sh/users/9862564), ![][flag_NZ] [Div](https://osu.ppy.sh/users/3751116), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811) |
+| Map Selector | ![][flag_JP] [Delis](https://osu.ppy.sh/users/1603923), ![][flag_JP] [Angel Arrow](https://osu.ppy.sh/users/1970239), ![][flag_MV] [HypebeastHijabi](https://osu.ppy.sh/users/1786945) |
+| Designer | ![][flag_AU] [abolaspany](https://osu.ppy.sh/users/4261853) |
 
 ## Links
 
@@ -53,9 +53,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_AU] [Jordan The Bear](https://osu.ppy.sh/users/7477458) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_AU] [nickerdead3](https://osu.ppy.sh/users/4999984) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_AU] [Jordan The Bear](https://osu.ppy.sh/users/7477458) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_AU] [nickerdead3](https://osu.ppy.sh/users/4999984) |
 
 All individual match results can be found on the spreadsheet linked above.
 

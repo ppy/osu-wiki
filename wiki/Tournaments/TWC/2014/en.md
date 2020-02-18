@@ -27,9 +27,9 @@ The **osu! Taiko World Cup 2014** (***TWC 2014***) was a country-based osu!taiko
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 6 months of osu!supporter tag, unique profile badge, TWC trophy |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, unique profile badge, TWC trophy |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
 ![TWC 2014 Winner Badge](img/badge.png)
 
@@ -37,10 +37,10 @@ The **osu! Taiko World Cup 2014** (***TWC 2014***) was a country-based osu!taiko
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) |
+| Manager | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) |
 | Map Selector | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | Streamer | ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
-| Commentators | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347), ![][flag_NO] [Dolphin](https://osu.ppy.sh/users/1331438) |
+| Commentator | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347), ![][flag_NO] [Dolphin](https://osu.ppy.sh/users/1331438) |
 | Statistician | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
 ## Links
@@ -93,9 +93,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_JP] Japan |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_HK] Hong Kong |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] France |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_JP] Japan |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_HK] Hong Kong |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] France |
 
 ![TWC 2014 Bracket](img/bracket.jpg)
 

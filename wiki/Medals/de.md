@@ -7,7 +7,7 @@ outdated: true
 
 ## Beatmap Packs
 
-**Beatmap Packs** Erfolge können erlangt werden, indem aus jedem Mapset eines [Theme Beatmap Packs](https://osu.ppy.sh/p/packlist?t=t) eine beliebige Schwierigkeitsstufe gespielt wird. Die Beatmaps müssen im [osu!](/wiki/Game_Modes/osu!/) Modus von osu! gespielt werden.
+**Beatmap Packs** Erfolge können erlangt werden, indem aus jedem Mapset eines [Theme Beatmap Packs](https://osu.ppy.sh/p/packlist?t=t) eine beliebige Schwierigkeitsstufe gespielt wird. Die Beatmaps müssen im [osu!](/wiki/Game_Modes/osu!) Modus von osu! gespielt werden.
 
 Zur Zeit gibt es 16 dieser Erfolge, welche sich nochmal in 4 Untergruppen aufteilen lassen:
 
@@ -23,7 +23,7 @@ Jede dieser Untergruppen besteht aus 4 Teilen.
 #### Anforderungen:
 
 - Spiele eine beliebige Schwierigkeitsstufe von jeder Beatmap eines [Theme Beatmap Packs](https://osu.ppy.sh/p/packlist?t=t)
-- Der Spielmodus muss der [osu!](/wiki/Game_Modes/osu!/) Modus sein.
+- Der Spielmodus muss der [osu!](/wiki/Game_Modes/osu!) Modus sein.
 - Entpacke das `Theme Beatmap Pack` und packe alle Beatmaps in den osu! Song Ordner. Starte osu! und spiel die Maps. Das ist alles.
   - Sollte die Beatmap als `.zip` Datei vorliegen, dann verschieb sie als `.zip` in den osu! Song Ordner und erstelle nicht einen neuen Ordner dafür.
   - Die Beatmaps können auch einzeln heruntergeladen und gespielt werden.
@@ -62,7 +62,7 @@ Bei den 8 **Pass** und 8 **Perfect** Erfolgen muss eine beliebige Ranked/Approve
 
 ## Dedication
 
-**Dedication** (dt. Hingabe) Erfolge können erreicht werden, indem man viele Runden im [osu!](/wiki/Game_Modes/osu!/) Modus spielt / Früchte in [osu!catch](/wiki/Game_Modes/osu!catch/) sammelt / Noten in [osu!taiko](/wiki/Game_Modes/osu!taiko/) trifft / viele Tasten in [osu!mania](/wiki/Game_Modes/osu!mania/) drückt.
+**Dedication** (dt. Hingabe) Erfolge können erreicht werden, indem man viele Runden im [osu!](/wiki/Game_Modes/osu!) Modus spielt / Früchte in [osu!catch](/wiki/Game_Modes/osu!catch) sammelt / Noten in [osu!taiko](/wiki/Game_Modes/osu!taiko) trifft / viele Tasten in [osu!mania](/wiki/Game_Modes/osu!mania) drückt.
 
 ## Hush-Hush
 

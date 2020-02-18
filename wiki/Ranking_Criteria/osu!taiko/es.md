@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # osu!taiko
 
 El Ranking Criteria de osu!taiko son reglas y pautas que se aplican a las dificultades específicas de osu!taiko. Con el fin de lograr que una dificultad específica de osu!taiko llegue a la sección Ranked, es obligatorio que la dificultad siga los criterios listados. Mientras **todas las reglas deben ser seguidas bajo cualquier circunstancia**, las pautas pueden ser ignoradas bajo circunstancias excepcionales. Estas excepciones deben ser justificadas con una explicación exhaustiva del por qué se ha ignorado y cómo no hacerlo interfiere con la calidad general de la creación.
@@ -75,7 +79,7 @@ Estas pautas pueden ser quebradas bajo circunstancias **especiales**. Estas exce
 
 ## Especificaciónes por dificultad
 
-**Aquellas pautas y reglas que estén relacionadas al pulso de la canción se aplican a canciones de 180BPM.** Si tu canción es drásticamente más lenta o rápida, algunas variables pueden ser diferentes. En estos casos, debes aplicar un juicio razonable.
+**Aquellas pautas y reglas que estén relacionadas al pulso de la canción se aplican a canciones de 180 BPM.** Si tu canción es drásticamente más lenta o rápida, algunas variables pueden ser diferentes. En estos casos, debes aplicar un juicio razonable.
 
 Si el BPM del mapa ha sido modificado para tener el doble o la mitad de pulsos por minuto, el Slider Velocity base, las reglas y las pautas mencionadas aquí deben ser ajustadas apropiadamente.
 

@@ -1,10 +1,11 @@
-# Account Restrictions
+# Account restrictions
 
 A restriction is a timeout from the community forced upon accounts that exhibit abnormal, suspicious, or rule-breaking behaviour.
 
 When an account is restricted, it is unable to interact with the community until the restriction is lifted. Restricted players can still continue playing the game, downloading beatmaps and submitting scores, but their profile will be invisible to others.
 
 The following features are disabled for restricted accounts:
+
 - in-game chat
 - private messaging
 - posting in forum threads or comment sections
@@ -15,6 +16,7 @@ The following features are disabled for restricted accounts:
 ## My account has been restricted! What do I do?
 
 If your account has been restricted, do not panic. Please follow these steps:
+
 - **Wait 24 hours.** Some restrictions are the results of automated processes. As we check every new restriction daily, please wait 24 hours - if your restriction was erroneous, it will hopefully be lifted within that time.
 - **Contact our support team.** If your account remains restricted after that time, please send an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) **from the email address attached to your account** to ask for details on your restriction. Make sure you include your username, along with any details you can provide as to why you think you may have been restricted. The more you tell us, the easier it is for us to resolve the issue.
 - If you strongly believe that your restriction is erroneous, please contact us immediately so that we can discuss your case.
@@ -28,19 +30,20 @@ If you have recently been granted an appeal and your account becomes restricted 
 ## Why am I restricted?
 
 There are several reasons why an account might be restricted.
+
 - **It is not your first account.** Multi-accounting is against the rules. Any accounts other than a player's first will become permanently restricted, but their original one will in most cases be left open and the user is encouraged to continue playing on it. If the multi-accounting is severe or abusive, a silence may be applied to their original account as a warning to cease creating new ones, and a restriction will be placed on the main account if the multi-accounting behaviour continues. If your account is restricted and you know you own other ones, please do not continue accessing the restricted accounts you have and stick to playing on your original one. If you have trouble accessing or verifying it, please send us an email at [accounts@ppy.sh](mailto:accounts@ppy.sh) so that we can help you recover access to it.
 - **You have allowed someone to play on your account.** Account sharing is also against the rules. If you allow someone to use your account, it will be restricted, and the player who used it will likely receive a silence on their account or be restricted themselves. If this happened accidentally, please let us know as soon as possible by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh).
 - **You cheated.** Using a third-party program, macros, or any form of unfair advantage will result in an immediate restriction.
 - **Other cases.** The accounts team reserves the right to restrict an account for cases that are not covered by the three above.
 
-If an account has been found to be rightfully restricted, we will ask that the user waits for some time before sending their appeal.  This is referred to as a *cooldown*, and its duration varies depending on the offences that have taken place.
+If an account has been found to be rightfully restricted, we will ask that the user waits for some time before sending their appeal. This is referred to as a *cooldown*, and its duration varies depending on the offences that have taken place.
 
 ## What do I do while on cooldown before appealing?
 
 - **Keep enjoying the game!** While your account is restricted and you are on cooldown, you are more than welcome to continue playing the game (as long as you play on your original account!). The scores you achieve while restricted will be submitted, and unless your account is rolled back, they will remain after you become unrestricted.
 - **Maintain good behaviour.** We understand that being restricted can be frustrating, but think of it as a chance to take some time off, away from the community. Try to avoid interacting with the community for at least a few days (whether it be via Discord, social media, or other forms of contact) to cool down and reflect on the actions that may have contributed to your account being restricted.
 - **Make sure you respect the rules.** Long-term restrictions are punishments for breaking the rules. If you continue to do so while restricted, the cooldown before you can appeal will be reset to three months from your last offence. This includes, for example, continuing to cheat, accessing others' accounts, or creating new accounts to evade a restriction.
-- **Follow the support team's instructions.** The three-month cooldown is a chance to take time off and reflect on your actions. If you attempt submitting an appeal before the cooldown period is over, your emails will be ignored.  If you are unsure when your cooldown expires, when you will be allowed to appeal, or which of your accounts you should be playing on (and appealing from), you are welcome to send us an email to ask.
+- **Follow the support team's instructions.** The three-month cooldown is a chance to take time off and reflect on your actions. If you attempt submitting an appeal before the cooldown period is over, your emails will be ignored. If you are unsure when your cooldown expires, when you will be allowed to appeal, or which of your accounts you should be playing on (and appealing from), you are welcome to send us an email to ask.
 - **Do not hesitate to contact us if you have any questions.** As long as you are not trying to circumvent punishment, we will happily answer any questions you have about your account's restriction!
 
 ## My cooldown has passed. How do I appeal?
@@ -76,6 +79,7 @@ Some offences will lead to your account being rolled back upon unrestriction. Th
 ## My appeal has been denied!
 
 There are several reasons why an appeal might be denied.
+
 - **It was sent too early.** If the cooldown for your account has not yet passed, your appeal will be denied. If you are unsure when you can actually appeal, please reply to our answer - we will give you the correct date.
 - **Your appeal was insufficient or incomplete.** If your appeal does not sufficiently cover the four points listed above, we will request that you write a more complete one. This **does not** necessarily reset the cooldown for your account and you are free to send your new appeal at any point in time! However. if you attempted lying or hiding major rule violations you committed (mainly multi-accounting or cheating), your appeal will be denied for being non-truthful, and your cooldown will be reset to three months. This is another chance for you to reflect on your actions and make sure you did not forget anything.
 - **You have been evading or playing on other accounts.** Creating another account to be able to play online while your account is restricted is considered an attempt at evading the restriction and will reset your cooldown to three months from the date you created the account. If you attempt evading too many times, your appeal might be permanently denied. If you are still accessing or playing on your multi-accounts while restricted, your cooldown will also be reset. Remember that multi-accounting is against the [rules](/wiki/rules) and you are expected to only play on your original account. If you are unsure which account counts as your original account, send us an email and we will let you know!
@@ -85,7 +89,7 @@ There are several reasons why an appeal might be denied.
 ## Common restriction reasons and cooldowns
 
 | Restriction reason | Cooldown duration | Appeal notes |
-| - | - | - |
+| :-- | :-- | :-- |
 | Judgement Error | No cooldown | If found erroneous, no impact on the account. |
 | Multi-account | Permanent (multis) | Main account will be left unrestricted, possibly silenced. |
 | Excessive multi-accounting | 3 months | Appeal terms apply, 1 year tournament ban |

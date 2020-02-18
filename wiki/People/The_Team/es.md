@@ -47,10 +47,11 @@ Las personas que nombradas a continuación son el núcleo del equipo de osu!, y 
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427)  ([Sarumaru@deviantART.com](https://sarumaru.deviantart.com/)) | Diseñador original del concepto y el artwork de pippi |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Administrador y lider temprano de la comunidad, Meeting minutes, contribuciones a preguntas frecuentes |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | Equipo de desarrollo osu!, Desarrollador del modo osu!mania |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Profesor de [osu!academy](/wiki/Announcements/osu!academy), Diseñador de medios/personajes |
-
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Profesor de [osu!academy](/wiki/osu!academy), Diseñador de medios/personajes |
 
 ## Grupos de Usuarios
+
+Los siguientes son grupos de usuarios compuestos por miembros de la comunidad que ayudan a mantener osu! La mayoría de estos grupos de usuarios reciben distintivos colores en el nombre dentro del foro, colores de chat en el juego y/o de perfil.
 
 | Nombre | Descripción |
 | ---- | ----------- |

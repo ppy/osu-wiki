@@ -6,7 +6,7 @@ outdated: true
 
 ![Contributor Badge](/wiki/shared/contributor.jpg "İştirakçı Rozeti")
 
-**Topluluk İştirakçıları** [osu!](/wiki/Glossary/#osu) topluluğuna kendilerinden fedakârlıklar yaparak hizmet sağlayan - çoğumuzun bugün kıymetini bilmediği aletler yapan - kimselerdir. Bu kullanıcılara tüm topluluk için kayda değer işler yaptıklarını belirten bir rozet verilir.
+**Topluluk İştirakçıları** [osu!](/wiki/Glossary#osu) topluluğuna kendilerinden fedakârlıklar yaparak hizmet sağlayan - çoğumuzun bugün kıymetini bilmediği aletler yapan - kimselerdir. Bu kullanıcılara tüm topluluk için kayda değer işler yaptıklarını belirten bir rozet verilir.
 
 Eskiden osu!takım üyeleri olan ([GMT](/wiki/People/Global_Moderation_Team), [QAT](/wiki/People/Quality_Assurance_Team), vs.) ama artık emekli olan [osu! Alumni](/wiki/People/osu!_Alumni) ile karıştırılmamalıdır. Topluluk İştirakçısı rozetleri kendilerini aşıp osu! ve topluluk ortamını iyileştirmek için bir şeyler yapanlara verilir.
 
@@ -48,7 +48,7 @@ _Ayrıca bakınız: [Topluluk İştirakçıları Rozetleri (Ocak 2016)](https://
 
 | Kullanıcı | Katkıları |
 | ---- | ------------- |
-| [ztrot](https://osu.ppy.sh/users/6347) |  [osu!academy](/wiki/Announcements/osu!academy) kurucusu |
+| [ztrot](https://osu.ppy.sh/users/6347) |  [osu!academy](/wiki/osu!academy) kurucusu |
 | [Tasha](https://osu.ppy.sh/users/1031958) | osu!weekly + Haber iştircakçısı |
 | [Flanster](https://osu.ppy.sh/users/447818) | Üstün modersayon varlığı (10k+ öldürme). |
 | [Nathanael](https://osu.ppy.sh/users/2295078) | Üstün modersayon varlığı (10k+ ödlürme). |

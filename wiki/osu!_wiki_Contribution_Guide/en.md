@@ -1,4 +1,4 @@
-# osu! wiki Contribution Guide
+# osu! wiki contribution guide
 
 Thanks for your interest in making the osu! wiki better! This quick-start guide is intended for newcomers that have never worked with GitHub and the osu! wiki contribution workflow before. If you already have experience using GitHub, feel free to skip this guide and follow the common feature-branch workflow for content updates in this repository.
 
@@ -20,13 +20,13 @@ If, during any part, you are confused and/or need further help, feel free to sen
 
 2. Click `Fork`.
 
-![](img/fork.jpg)
+   ![](img/fork.jpg)
 
 3. Click `Fork` again to go to your fork.
 
 4. Seeing something similar to the image below means you made a fork of `ppy/osu-wiki` repo and that you are on your fork.
 
-![](img/forked.jpg)
+   ![](img/forked.jpg)
 
 5. Continue to [Syncing your fork](#syncing-your-fork).
 
@@ -36,17 +36,17 @@ If, during any part, you are confused and/or need further help, feel free to sen
 
 2. Above the files, there is some text to tell you if your branch is either "behind", "ahead", or "even" with `ppy:master`. If it says that the branch is either "behind" or "ahead and behind" with any amount of behind-commits, your branch is outdated.
 
-![](img/fork-even.jpg "OK \(No commits and not outdated\)")
+   ![](img/fork-even.jpg "OK \(No commits and not outdated\)")
 
-![](img/fork-ahead.jpg "OK \(These are your commits\)")
+   ![](img/fork-ahead.jpg "OK \(These are your commits\)")
 
-![](img/fork-behind.jpg "Potentially bad \(Your branch is outdated\)")
+   ![](img/fork-behind.jpg "Potentially bad \(Your branch is outdated\)")
 
-![](img/fork-ahead-behind.jpg "Potentially bad \(Your branch is outdated with your commits\)")
+   ![](img/fork-ahead-behind.jpg "Potentially bad \(Your branch is outdated with your commits\)")
 
 3. This isn't much of a problem; that is, if you aren't going to edit a file that was already changed which may be unlikely the more commits you are behind.
 
-4. To resolve this, see the [My branch is out of date! section in the Common Issues article](/wiki/owcg/Common_Issues/#my-branch-is-out-of-date!).
+4. To resolve this, see the [My branch is out of date! section in the Common Issues article](/wiki/owcg/Common_Issues#my-branch-is-out-of-date!).
 
 5. When you complete step 4, continue to [Editing online or locally](#editing-online-or-locally).
 
@@ -69,33 +69,33 @@ At this point, you have two choices:
 
 2. If you were quick enough, you may see this yellow banner.
 
-![](img/github-recent.jpg)
+   ![](img/github-recent.jpg)
 
 3. If you see it, click on the `Compare & pull request` button (skip to step 8). If not, click the `New pull request` button (continue to step 4).
 
 4. On the next page, if you see these two buttons as pictured below, click the `compare across forks`.
 
-![](img/compare-across-forks-no.jpg "No good.")
+   ![](img/compare-across-forks-no.jpg "No good.")
 
 5. Click on the `head fork` dropdown and select the one with your username (it should be the second one).
 
-![](img/head-fork.jpg)
+   ![](img/head-fork.jpg)
 
 6. Click on the `compare` dropdown and select the one with the branch you had created (these are listed alphabetically).
 
-![](img/compare-branch.jpg)
+   ![](img/compare-branch.jpg)
 
 7. Click `Create pull request`.
 
 8. Enter the title in English. This should be a very brief explanation of what you changed.
 
-  For article translations, include the two-letter language name of your translations in brackets before the title. Your title can just be the name of the article(s) that you are translating. For example, `[FR] BBCode` would indicate that you are updating the French translation of the [BBCode article](/wiki/BBCode).
+   For article translations, include the two-letter language name of your translations in brackets before the title. Your title can just be the name of the article(s) that you are translating. For example, `[FR] BBCode` would indicate that you are updating the French translation of the [BBCode article](/wiki/BBCode).
 
 9. Fill in the description box with a summary of your changes. You should mention any information relevant to your pull request, such as its completion status and anything you want reviewers to know. You can also make your pull request automatically close issues upon merge by writing "resolves #1" or "closes #1", etc. in the description (see [Closing issues using keywords](https://help.github.com/articles/closing-issues-using-keywords/) on GitHub Help).
 
 10. Once you are ready, click `Create pull request`.
 
-![](img/new-pull-request.png)
+    ![](img/new-pull-request.png)
 
 11. See [Reviews](#reviews) and [Merging](#merging) below.
 

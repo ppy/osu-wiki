@@ -1,10 +1,11 @@
-# Timing Songs with #/8-Signatures
+# Timing songs with #/8-signatures
 
-Every now and then, songs are being mapped that have a time signature that is not divided into quater-notes (e.g. `3/4`, `4/4`, `7/4`, ...) but into eighth-notes (e.g. `6/8`, `7/8`, ..). Since the current editor does not support those #/8-signatures and we don't know whether this will change in the near future, an addition has been made to the rule concerning this matter on the [corresponding section of the Ranking Criteria](/wiki/Ranking_Criteria#timing.1).
+Every now and then, songs are being mapped that have a time signature that is not divided into quater-notes (e.g. `3/4`, `4/4`, `7/4`, ...) but into eighth-notes (e.g. `6/8`, `7/8`, ...). Since the current editor does not support those #/8-signatures and we don't know whether this will change in the near future, an addition has been made to the rule concerning this matter on the [corresponding section of the Ranking Criteria](/wiki/Ranking_Criteria#timing).
 
 To make that chart more understandable and state more precisely what is meant, this guide will now explain a bit of the relevant music theory behind this, and give examples of how it translates into osu!. For this reason, [three mapsets](https://assets.ppy.sh/media/wiki/TimeSignatures.rar) have been prepared for you to download, which will be used as a reference in this guide.
 
-## Music Theory
+## Music theory
+
 Generally speaking, a measure contains a certain amount of beats. In musical sheet notation, one beat usually equals one quater-note ♩, and one quater-note ♩ is divided into two eighth-notes ♪♪. Hence, the term "Beats Per Minute" (BPM) describes the tempo of a song by stating how many quater-notes ♩ are being played in a minute. In osu!, beats are represented by the white ticks in the timeline, and eighth-notes ♪ are usually represented by red ticks. The start of each measure is indicated by a big white tick.
 
 At least that's how it works for `#/4-signatures`. The fundamental difference to `#/8-signatures` is that a beat doesn't always contain just two eighth-notes ♪, it can also contain three ♪s! A good example for this is the difference between `3/4`- and `6/8-signature`: Both of them contain six ♪s , but while `3/4` splits those into three groups of two (♪♪+♪♪+♪♪, [2+2+2]) by accentuating the first note of each pair, `6/8` splits them into two groups of three (♪♪♪+♪♪♪, [3+3])! These "groups" are also called "subdivisions". Time signatures only containing subdivisions of three eighth-notes ♪ (like in `6/8`) are called "compound", time signatures containing subdivisions with variable amounts of eighth-notes ♪ are called "complex" or "irregular" (e.g. `7/8`, more on that later). When a certain pattern made up of different time signatures repeats regularly, it is called "mixed meter".
@@ -32,7 +33,6 @@ This method is rhythmically the most accurate in osu!. Since white ticks are alw
 But this method can also cause some problems: First of all, the BeatSnapDivisor does not have as many layers of "triple-snaps" (3,6,12) as it has of "duple-snaps" (2,4,8,16). This can make it impossible to snap potential fast rhythms that might occur in some songs, which you might want to map in higher difficulties.
 
 Secondly, there are more complex `#/8-signatures` than those that have multiples of 3 in the upper numeral of the signature. For example, while a `6/8-measure` is always formed as [3+3], you can get measures with "irregular" beats by combining [2]s and [3]s. For example, a `7/8-measure` can be formed as [3+2+2], [2+2+3] or [2+3+2]. If you still want to have the beats timed accurately with white ticks, you'd have to use multiple timing-sections within one measure to follow both the "fast" beats (the [2]s) and the "slow" beats (the [3]s). This can be seen in the `7/8`-difficulty of "Le Mystere Des Voix Bulgares - Erghen Diado". As you can see, I had to set two timing-sections per measure (marked with bookmarks), and because of the different BPM-values I also had to change the SV-multiplier of half of the sections. Moving around in this map is rather tedious too, because while all of the mapped notes are equally long, half of them are snapped as `1/2`-notes and half of them as `1/3`-notes. This is why we are not enforcing this method for songs with complex time signatures (or when rhythms become unsnappable), and allow the alternative method used in the `3.5/4`-difficulty.
-
 
 ### Treating them as #/4-signatures
 

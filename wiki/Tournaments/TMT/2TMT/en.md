@@ -30,7 +30,7 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 1 month of osu!supporter tag |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter tag |
 
 ## Organisation
 
@@ -38,14 +38,14 @@ The 2v2 :thonking: Mania Tournament was run by various osu! community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_MY] [Stupid Idiot](https://osu.ppy.sh/users/8355574) |
-| Map Selectors | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_ID] [RemFanGirl](https://osu.ppy.sh/users/5767941) |
-| Commentators | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_ID] [RemFanGirl](https://osu.ppy.sh/users/5767941), ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388), ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061) |
-| Streamers | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
+| Manager | ![][flag_MY] [Stupid Idiot](https://osu.ppy.sh/users/8355574) |
+| Map Selector | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_ID] [RemFanGirl](https://osu.ppy.sh/users/5767941) |
+| Commentator | ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_ID] [RemFanGirl](https://osu.ppy.sh/users/5767941), ![][flag_PH] [vincent4399](https://osu.ppy.sh/users/9764388), ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061) |
+| Streamer | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
 | Designer | ![][flag_MY] [Xeious](https://osu.ppy.sh/users/5357146) |
 | Statistician | ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911) |
-| Referees | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911), ![][flag_PL] [Kondi](https://osu.ppy.sh/users/7382321), ![][flag_PL] [Baziu](https://osu.ppy.sh/users/7192659), ![][flag_US] [R-2E-054](https://osu.ppy.sh/users/3625265), ![][flag_ID] [chouyaa](https://osu.ppy.sh/users/8404646), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
-| Wiki | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Referee | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911), ![][flag_PL] [Kondi](https://osu.ppy.sh/users/7382321), ![][flag_PL] [Baziu](https://osu.ppy.sh/users/7192659), ![][flag_US] [R-2E-054](https://osu.ppy.sh/users/3625265), ![][flag_ID] [chouyaa](https://osu.ppy.sh/users/8404646), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
+| Wiki Editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -103,9 +103,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | La pancit bois |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 argentos y medio |
-| ![Crown Crown](/wiki/shared/BCrown.png "3rd place") | PolytETral |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | La pancit bois |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 argentos y medio |
+| ![Crown Crown](/wiki/shared/crown-bronze.png "3rd place") | PolytETral |
 
 -----------------------
 
@@ -207,7 +207,7 @@ This competition has come to an end and resulted in the following podium:
   - [Kero Kero Bonito - Flamingo (RemFangirl) \[lndifference\]](https://osu.ppy.sh/beatmapsets/767418#mania/1613146)
   - [Gems Pack 14 - LN Master 6th (gemboyong) \[\[12\] S.I.D Sound - Pink Gold\]](https://osu.ppy.sh/beatmapsets/597080#mania/1263203)
   - [succducc - me & u (Shoegazer) \[yume\]](https://osu.ppy.sh/beatmapsets/781107#mania/1640584)
-  - [OutPhase - Quasar (RemFangirl) \[HSMP 5 (217bpm)\]](https://osu.ppy.sh/beatmapsets/879970/#mania/1840170)
+  - [OutPhase - Quasar (RemFangirl) \[HSMP 5 (217bpm)\]](https://osu.ppy.sh/beatmapsets/879970#mania/1840170)
   - [stereoberry - ametsuchi (Civilization) \[petrichor\]](https://osu.ppy.sh/beatmapsets/671311#mania/1419426)
   - [sirokuma - Apollo11 (Elekton) \[lunarian stream\]](https://osu.ppy.sh/beatmapsets/769539#mania/1618073)
   - [Chroma - Pon-Pon Pompoko Dai-Sen-Saw! (PiraTom) \[Pira's EXHAUST\]](https://osu.ppy.sh/beatmapsets/351531#mania/775625)

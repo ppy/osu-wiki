@@ -8,16 +8,18 @@ tags:
 
 ![SOFT4 Logo](img/logo.png)
 
-> SOFT 4 When?, now!
+> SOFT 4 when?
 
-The **Springtime Osu!mania Free-for-all Tournament 4** (***SOFT 4***), is a one-on-one, country-independent osu!mania 4-key tournament.
+Now!
+
+The **Springtime Osu!mania Free-for-all Tournament 4** (***SOFT 4***) was a one-on-one, country-independent osu!mania 4-key tournament.
 
 ## Tournament Schedule
 
 | Event | Timestamp |
 | --: | :-- |
 | Registration Phase | 2019-03-06/2019-03-22 |
-| Qualifiers Showcase | 2019-03-31 16:00 UTC |
+| Qualifiers Showcase | 2019-03-31 (16:00 UTC) |
 | Qualifiers | 2019-04-06/2019-04-07 |
 | Playoffs - Week 1 | 2019-04-13/2019-04-14 |
 | Playoffs - Week 2 | 2019-04-20/2019-04-21 |
@@ -28,11 +30,17 @@ The **Springtime Osu!mania Free-for-all Tournament 4** (***SOFT 4***), is a one-
 | Quarterfinals | 2019-05-24/2019-05-26 |
 | Semifinals | 2019-06-01/2019-06-02 |
 | Finals | 2019-06-08/2019-06-09 |
-| Grand Finals | 2019-06-22/2019-06-23 |
+| Grand Finals | 2019-06-22 |
 
 ## Prizes
 
-*Prizes for this tournament are to be decided.*
+| Placing | Prizes |
+| :-: | :--- |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 50 USD, profile badge |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 30 USD |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 20 USD |
+
+![SOFT4 Badge](img/badge.png "SOFT4 Winner Badge")
 
 ## Organisation
 
@@ -40,11 +48,11 @@ The **Springtime Osu!mania Free-for-all Tournament 4** (***SOFT 4***), is a one-
 | --- | --- |
 | Host | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
 | Coordinator | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| Map Selectors | ![][flag_US] [Dergo](https://osu.ppy.sh/users/7439226), ![][flag_US] [Gekido-](https://osu.ppy.sh/users/4693052), ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [qqqant](https://osu.ppy.sh/users/8976576), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
-| Match Referees | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061), ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_SG] [ByeForNow](https://osu.ppy.sh/users/7199159), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| Streamers | ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_BE] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
-| Commentators | ![][flag_US] [Dergo](https://osu.ppy.sh/users/7439226), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_AU] [PingLaw](https://osu.ppy.sh/users/5401523), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_ID] [RemFangirl](https://osu.ppy.sh/users/5767941), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
-| Graphic Designers | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867), ![][flag_PL] [W D Gaster](https://osu.ppy.sh/users/1475814) |
+| Map Selector | ![][flag_US] [Dergo](https://osu.ppy.sh/users/7439226), ![][flag_US] [Gekido-](https://osu.ppy.sh/users/4693052), ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [qqqant](https://osu.ppy.sh/users/8976576), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
+| Referee | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061), ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_SG] [ByeForNow](https://osu.ppy.sh/users/7199159), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
+| Streamer | ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_BE] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
+| Commentator | ![][flag_US] [Dergo](https://osu.ppy.sh/users/7439226), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_AU] [PingLaw](https://osu.ppy.sh/users/5401523), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_ID] [RemFangirl](https://osu.ppy.sh/users/5767941), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811) |
+| Designer | ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867), ![][flag_PL] [W D Gaster](https://osu.ppy.sh/users/1475814) |
 | Statistician | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
 
 ## Links
@@ -90,7 +98,40 @@ The **Springtime Osu!mania Free-for-all Tournament 4** (***SOFT 4***), is a one-
 
 ---
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | User |
+| :-: | --- |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] [**wonder5193**](https://osu.ppy.sh/users/8474029) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] [**Toaph Daddy**](https://osu.ppy.sh/users/7616811) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_TH] [**MyZterioN-**](https://osu.ppy.sh/users/8521723) |
+
+---
+
 ## Mappools
+
+### Grand Finals
+
+- FreeMod
+  - [Falcom Sound Team jdk - The Azure Arbitrator (Gekido-) \[Demiourgos\]](https://osu.ppy.sh/beatmapsets/951869#mania/1987749)
+  - [Co shu Nie - Asphyxia (zero2snow) \[Out of Breath\]](https://osu.ppy.sh/beatmapsets/988611#mania/2067954)
+  - [Venetian Snares - Contain (Halogen-) \[Genesis\]](https://osu.ppy.sh/beatmapsets/853406#mania/1783616)
+  - [Helix6 - No. 6 (\[Crz\]Crysarlene) \[X\]](https://osu.ppy.sh/beatmapsets/881711#mania/1843488)
+  - [Onyx - Hasse Mich (Guilhermeziat) \[Hate Me 1.1\]](https://osu.ppy.sh/beatmapsets/988593#mania/2067924)
+  - [Fallen Shepherd ft. RabbiTon Strings - ENDYMION (Gekido-) \[LN Master\]](https://osu.ppy.sh/beatmapsets/712276#mania/1505726)
+  - [Camellia - K.Y.A.F.A. (Evening) \[RELENTLESS MASSACRE\]](https://osu.ppy.sh/beatmapsets/477233#mania/1019388)
+  - [Kairiki Bear - Inaiinai isonshou (feat. GUMI, Kagamine Rin) (juankristal) \[timing hell \[NSV\]\]](https://osu.ppy.sh/beatmapsets/663472#mania/1404354)
+  - [DJ Noriken - #The\_Relentless\_(Modified) (Dergo) \[#The\_Edited\_(Cut) \[1.1x Rate\]\]](https://osu.ppy.sh/beatmapsets/978518#mania/2068126)
+  - [Unlucky Morpheus - Black Pentagram (Gekido-) \[Challenge\]](https://osu.ppy.sh/beatmapsets/824237#mania/1727056)
+  - [1788-L - P U L S A R / B E A M (MapleSyrup-) \[Z Boson\]](https://osu.ppy.sh/beatmapsets/794800#mania/1669387)
+  - [aaaa vs Frums - beepbit \* futures (LeiN-) \[cosmonaut\]](https://osu.ppy.sh/beatmapsets/891963#mania/1864667)
+  - [Kobaryo - Necrophagiatoast (qqqant) \[Decay\]](https://osu.ppy.sh/beatmapsets/988698#mania/2068123)
+  - [Est - Angelic Snow (\_underjoy) \[Underjoy's Avalanche 1.15x\]](https://osu.ppy.sh/beatmapsets/988430#mania/2067658)
+  - [succducc - me & u (Couil) \[& sv\]](https://osu.ppy.sh/beatmapsets/682234#mania/1442650)
+- Tiebreaker
+  - **[Camellia - Berserkerz' Warfare 345 (qqqant) \[The Grand Final Battle (379bpm EDIT)\]](https://osu.ppy.sh/beatmapsets/873908#mania/2068124)**
 
 ### Finals
 
@@ -225,6 +266,15 @@ The **Springtime Osu!mania Free-for-all Tournament 4** (***SOFT 4***), is a one-
 
 ## Match Results
 
+### Grand Finals
+
+More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRKWOA0TRgLfbILgmZrDX8Z-erdExLMUt1m7bubJeLdWdbfXDYFjyqYBPUbuHxsRF3NbfuD5oQc7tJ5/pubhtml).**
+
+| Sunday, 2019-06-22 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Toaph Daddy** ![][flag_US] | **7** | 3 | ![][flag_TH] MyZterioN- | [#1](https://osu.ppy.sh/community/matches/52809310) |
+| **wonder5193** ![][flag_KR] | **7** | 2 | ![][flag_US] Toaph Daddy | [#1](https://osu.ppy.sh/community/matches/52819260) |
+
 ### Finals
 
 More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSrdslXaBHbxEGRP6IfEbQPt4qvdeQcn0T0CZOHnEPhMcKkJWfCnt3-t_7T0vOe_Xeeo6q3T4nWIY0J/pubhtml).**
@@ -279,11 +329,11 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 | Sunday, 2019-05-26 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **-Electro-** ![][flag_US] | **6** | 0 | ![][flag_US] HeZeuS | [#1](https://osu.ppy.sh/community/matches/52101773) |
-| **Chrubble** ![][flag_US] | **6** | 1 | ![][flag_SG] ByeForNow | [#1](https://osu.ppy.sh/community/matches/52103811) |
+| Chrubble ![][flag_US] | 1 | **6** | ![][flag_SG] **ByeForNow** | [#1](https://osu.ppy.sh/community/matches/52103811) |
 | [Crz]Crysarlene ![][flag_ID] | 0 | **6** | ![][flag_KR] **wonder5193** | -win by default- |
-| **NKEYBOARD** ![][flag_KR] | **6** | 1 | ![][flag_TH] Nyarlahothep | [#1](https://osu.ppy.sh/community/matches/52111935) |
-| AMDuskia1996 ![][flag_JP] | 0 | **6** | ![][flag_SG] **Tamaneko** | -forfeited- |
-| **RuleBlazing** ![][flag_TH] | **6** | 3 | ![][flag_BR] andreymc | [#1](https://osu.ppy.sh/community/matches/52116950) |
+| NKEYBOARD ![][flag_KR] | 1 | **6** | ![][flag_TH] **Nyarlahothep** | [#1](https://osu.ppy.sh/community/matches/52111935) |
+| **AMDuskia1996** ![][flag_JP] | **6** | 0 | ![][flag_SG] Tamaneko | -forfeited- |
+| RuleBlazing ![][flag_TH] | 3 | **6** | ![][flag_BR] **andreymc** | [#1](https://osu.ppy.sh/community/matches/52116950) |
 | **Toaph Daddy** ![][flag_US] | **6** | 0 | ![][flag_PL] Tidek | [#1](https://osu.ppy.sh/community/matches/52121932) |
 
 ### Round of 16

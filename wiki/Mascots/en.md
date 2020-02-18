@@ -56,7 +56,7 @@ Ryuuta was also featured in [LuigiHann](https://osu.ppy.sh/users/1079)'s skin, [
 
 Agent J, also known as BA-2 (Beat Agent-2) or J, was one of the osu! mascots in 2008 but had retired in 2014. He was created by iNiS Corporation and was once part of the old website.
 
-Agent J was also featured in LuigiHann's skin, [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/).
+Agent J was also featured in [LuigiHann](https://osu.ppy.sh/users/1079)'s skin, [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/).
 
 ### Don
 

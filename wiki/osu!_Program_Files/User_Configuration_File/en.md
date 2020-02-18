@@ -1,228 +1,288 @@
-# User Configuration File
+# User configuration file
 
-This is a list of options in the `osu!{yourpcname}.cfg` file. A lot of these options are available through the in-game options and it is recommended that you change options there. Only edit these values manually if you really must. If the `Description` cell is empty, assume it is the same as the one above it.
+This is a list of options in the `osu!.<your PC account name>.cfg` file. A lot of these options are available through the in-game [options menu](/wiki/Options), and it is recommended that you change them there. Only edit these values manually if you really must.
 
-| Code                 | Description                                 |
-|----------------------|---------------------------------------------|
-| `TreeSortMode`       | Determines the 'group' mode at song select. |
-| `TreeSortMode2`      | Determines the 'sort' mode at song select.  |
-| `keyOsuLeft`         | osu! keyboard bindings.                     |
-| `keyOsuRight`        |                                             |
-| `keyFruitsDash`      | osu!catch movement keys.                    |
-| `keyFruitsLeft`      |                                             |
-| `keyFruitsRight`     |                                             |
-| `keyTaikoInnerLeft`  | osu!taikodrum keys.                         |
-| `keyTaikoInnerRight` |                                             |
-| `keyTaikoOuterLeft`  |                                             |
-| `keyTaikoOuterRight` |                                             |
-| `keyPause`           | Key binding to pause the game               |
-| `keySkip`            | Key binding to skip map intro/outro         |
-| `keyToggleScoreboard`| Key binding to toggle the in-game scoreboard|
-| `keyToggleChat`      | Key binding to bring up the chat            |
-| `keyToggleExtendedChat`| Key binding to bring up the chat and online users|
-| `keyScreenshot`      | Key binding to create screenshots           |
-| `keyIncreaseAudioOffset`| Key binding to increase the local offset for the currently playing beatmap|
-| `keyDecreaseAudioOffset`| Key binding to decrease the local offset for the currently playing beatmap|
-| `keyToggleFrameLimiter` | Key binding to let you toggle through different frame limiters|
-| `keyVolumeIncrease`  | Key binding to increase universal volume    |
-| `keyVolumeDecrease ` | Key binding to decrease universal volume    |
-| `Skin`               | Name of the currently selected skin.        |
-| `SkinSamples`        | Toggles `Use skin samples` in-game.          |
-| `ComboFire`          | Toggles Combo Fire on and off. This option cannot be changed in-game.|
-| `Precision` | Used to toggle `Enable mouse precision` in-game. The option no longer exists, and has been replaced by RawInput.|
-| `Width`              | Width of your osu! in windowed mode. Change this to set custom window widths.|
-| `Height`             | Height of your osu! in windowed mode. Change this to set custom window heights. |
-| `WidthFullscreen`    | Width of your osu! when using fullscreen mode.|
-| `HeightFullscreen`   | Height of your osu! when using fullscreen mode.|
-| `Offset` | Universal offset.                                       |
-| `EditorTip`          | Shows which editor tip will display next.   |
-| `MenuTip`            | Shows which menu tip will display next.     |
-| `Fullscreen`         | Toggles `Fullscreen Mode` in-game.          |
-| `OnlineDefault`      | Used to toggle whether osu! would use online or local scoreboard. The option longer exists, and has been replaced by RankMode.|
-| `Video`              | Toggles "Background Video" in-game.          |
-| `NotifySubmittedThread`| Automatically checks the `Receive email notification on reply` box when submitting your map via BSS.|
-| `AutoChatHide`       | Toggles `Automatically hide chat during gameplay` in-game.|
-| `FrameSync`                   | Determines which frame limiter osu! will use.                                                                                                                                                              |
-| `DisableWheel`                 | Toggles `Disable mouse wheel in play mode` in-game.                                                                                                                                                         |
-| `DisableButtons`               | Toggles `Disable mouse buttons in play mode` in-game.                                                                                                                                                       |
-| `SaveReplay`                   | Used to automatically check `Save replay` on the ranking screen. The option no longer exists; replays are always saved.                                                                                    |
-| `EditorBeatDivisor`            | Remembers the last beat snap divisor used in the editor.                                                                                                                                                   |
-| `EditorGridSize`               | Remembers the last grid size used in the editor.                                                                                                                                                           |
-| `DistanceSpacing`              | Remembers the last distance spacing used in the editor.                                                                                                                                                    |
-| `MouseSpeed`                   | The mouse sensitivity multiplier.                                                                                                                                                                          |
-| `EditorSliderCurveType`        | Used to remember the last slider curve type used in the editor. The option no longer exists; slider curve types have been removed from the editor entirely.                                                |
-| `VolumeEffect`                 | Current effects volume                                                                                                                                                                                     |
-| `VolumeMusic`                  | Current music volume                                                                                                                                                                                       |
-| `VolumeUniversal`              | Current universal volume                                                                                                                                                                                   |
-| `Ticker`                       | Toggles `Show chat ticker` in-game.                                                                                                                                                                         |
-| `SnakingSliders`               | Toggles `Snaking Sliders` in-game.                                                                                                                                                                          |
-| `Tablet`                       | Toggles `Enable OS TabletPC support` in-game.                                                                                                                                                               |
-| `ComboFireHeight`              | Sets how high the combo fire can rise on screen. This option cannot be changed in-game.                                                                                                                     |
-| `ScreenshotId`                 | Displays the number of the next screenshot to be taken.                                                                                                                                                    |
-| `ScoreboardVisible`            | Remembers whether or not the scoreboard was hidden.                                                                                                                                                        |
-| `HelpTips`                     | Used to remember which first-time user tips had been displayed already. The option no longer exists.                                                                                                       |
-| `ChatSortMode`                 | Remembers which userpanel filter was selected last.                                                                                                                                                        |
-| `Bloom`                        | Toggles `Shader Effects` in-game.                                                                                                                                                                           |
-| `BloomSoftening`               | Toggles `Softening Filter` in-game.                                                                                                                                                                         |
-| `ComboBurst`                   | Toggles `Combo Bursts` in-game.                                                                                                                                                                             |
-| `AbsoluteScroll`               | Used to toggle `Absolute Scrolling` in song select. The option no longer exists; absolute scrolling was implemented permanently. Use right click in the Song Select screen anywhere in vertical direction. |
-| `HoverSelect`                  | Used to toggle `Hover Select` in song select. The option no longer exists; hover select was removed entirely.                                                                                              |
-| `HoverReturn`                  | Used to toggle `Hover Return` in song select. The option no longer exists; osu! always returns from a hover now.                                                                                           |
-| `SkipTablet`                   | Disables osu!'s special tablet handling code. This option cannot be changed in-game.                                                                                                                        |
-| `DisplayCityLocation`          | Toggles `Share your city location with others` in-game.                                                                                                                                                     |
-| `ChatHighlightName`            | Toggles `Show a notification popup when someone says your name` in-game.                                                                                                                                    |
-| `Display`                      | Remembers which screen osu! should open on, for users with multiple monitors.                                                                                                                              |
-| `Renderer`                     | Which renderer osu! uses - OpenGL or DirectX.                                                                                                                                                              |
-| `FpsCounter`                   | Toggles `Show FPS Counter` in-game.                                                                                                                                                                         |
-| `DistanceSpacingEnabled`       | Remembers whether or not distance snap is enabled in the editor.                                                                                                                                           |
-| `FriendsOnly`                  | Toggles `Block private messages from non-friends` in-game.                                                                                                                                                  |
-| `FrameSyncD3d`                | Determines which frame limiter to use when switching from OpenGL to DirectX.                                                                                                                               |
-| `FrameSyncGl`                  | Determines which frame limiter to use when switching from DirectX to OpenGL.                                                                                                                               |
-| `ShowSpectators`               | Toggles `Show a list of spectators during gameplay` in-game.                                                                                                                                                |
-| `MsnIntegration`               | Toggles `Integrate with MSN Live status display` in-game.                                                                                                                                                   |
-| `YahooIntegration`             | Toggles `Integrate with Yahoo! status display` in-game.                                                                                                                                                     |
-| `HighlightWords`               | Contains everything in `Chat highlight words` in-game.                                                                                                                                                      |
-| `HitLighting`                  | Toggles `Hit Lighting` in-game.                                                                                                                                                                             |
-| `ScreenshotFormat`             | Whether osu! will save screenshots as `.png` or `.jpg`.                                                                                                                                                       |
-| `LobbyShowPassworded`          | Multiplayer lobby filter settings.                                                                                                                                                                         |
-| `LobbyShowExistingOnly`        |
-| `LobbyShowFriendsOnly`         |
-| `LobbyShowFull`                |
-| `LobbyPlayMode`                |
-| `ShowReplayComments`           | Toggles `Show Comments` when watching a replay.                                                                                                                                                            |
-| `ChatFilter`                   | Enables/disables chat filtering                                                                                                                                                                            |
-| `ChatRemoveForeign`            | Filter foreign characters toggle                                                                                                                                                                           |
-| `ChatLastChannel`              | Last channel active in                                                                                                                                                                                     |
-| `PopupDuringGameplay`          | Enables disables popups during gameplay                                                                                                                                                                    |
-| `Wiimote`                      | Use *Wiimote* toggle                                                                                                                                                                                         |
-| `ChatAudibleHighlight`         | Enable/disable sound notifications when highlighted                                                                                                                                                        |
-| `ChatPrivateTabs`              | Display private messages in separate chat tabs                                                                                                                                                             |
-| `Language`                     | Language that osu! will use                                                                                                                                                                                |
-| `ChatChannels`                 | Displays a list of chat channels you've used                                                                                                                                                               |
-| `MyPcSucks`                    | Disables all fancy graphics settings. Should only be needed if your PC is very old                                                                                                                         |
-| `NotifyFriends`                |                                                                                                                                                                                                            |
-| `ConfirmExit`                  | Enables confirmation that would really want to exit                                                                                                                                                        |
-| `UseSkinCursor`                | `Always use skin cursor` setting toggle                                                                                                                                                                    |
-| `PermanentSongInfo`            | Song information boolean storage                                                                                                                                                                           |
-| `ForceSliderRendering`         |                                                                                                                                                                                                            |
-| `IgnoreList`                   | Displays a list of all users your ignoring                                                                                                                                                                 |
-| `AllowPublicInvites`           | Allow anyone to invite you to multiplayer games                                                                                                                                                            |
-| `IncreaseAccuracy`             | Raw input entry                                                                                                                                                                                            |
-| `VideoEditor`                  | Editor hotkeys                                                                                                                                                                                             |
-| `keySelectTool`                |
-| `keyNormalTool`                |
-| `keySliderTool`                |
-| `keySpinnerTool`               |
-| `keyNewComboToggle`            |
-| `keyWhistleToggle`             |
-| `keyFinishToggle`              |
-| `keyClapToggle`                |
-| `keyGridSnapToggle`            |
-| `keyDistSnapToggle`            |
-| `keyNoteLockToggle`            |
-| `keyNudgeLeft`                 |
-| `keyNudgeRight`                |
-| `keyHelpToggle`                |
-| `keyJumpToBegin`               |
-| `keyPlayFromBegin`             |
-| `keyAudioPause`                |
-| `keyJumpToEnd`                 |
-| `keyGridChange`                |
-| `keyTimingSection`             |
-| `keyInheritingSection`         |
-| `keyRemoveSection`             |
-| `keyDisableButtons`            | Key used to disable buttons (default `F10`)                                                                                                                                                                  |
-| `keyKeySpecial`                | osu!mania keys                                                                                                                                                                                             |
-| `keyKeyLeft1`                  |
-| `keyKeyLeft2`                  |
-| `keyKeyLeft3`                  |
-| `keyKeyLeft4`                  |
-| `keyKeyCentre`                 |
-| `keyKeyRight4`                 |
-| `keyKeyRight3`                 |
-| `keyKeyRight2`                 |
-| `keyKeyRight1`                 |
-| `ManiaSpeed`                   | osu!mania Approach rate speed                                                                                                                                                                                  |
-| `LogPrivateMessages`           | Automatically save private chat logs                                                                                                                                                                       |
-| `keyKey1`                      | osu!mania keys                                                                                                                                                                                             |
-| `keyKey2`                      |
-| `keyKey3`                      |
-| `keyKey4`                      |
-| `keyKey5`                      |
-| `keyKey6`                      |
-| `keyKey7`                      |
-| `keyKey8`                      |
-| `keyKey9`                      |
-| `ManiaKeyStyle`                | Changes the layout for osu!mania stages                                                                                                                                                                    |
-| `keyKeySpecialAlter`           | Special key binding for osu!mania                                                                                                                                                                          |
-| `keyEasy`                      | Game Modifier hotkeys                                                                                                                                                                                                |
-| `keyNoFail`                    |
-| `keyHalfTime`                  |
-| `keyHardRock`                  |
-| `keySuddenDeath`               |
-| `keyDoubleTime`                |
-| `keyHidden`                    |
-| `keyFlashlight`                |
-| `keyNoVideo`                   |
-| `keyRelax`                     |
-| `keyAutopilot`                 |
-| `keySpunOut`                   |
-| `keyAuto`                      |
-| `keyIncreaseSpeed`             | Increase osu!mania scroll speed                                                                                                                                                                            |
-| `keyDescreseSpeed`             | Decrease osu!mania scroll speed                                                                                                                                                                            |
-| `Joystick`                     | Enable joystick support                                                                                                                              |
-| `SaveUsername` |                                                                                                                                                                                                            |
-| `SavePassword`                 |                                                                                                                                                                                                            |
-| `KeyOverlay`                   | Automatically display key counter while playing                                                                                                                                                                          |
-| `LastVersion`                  | Displays version you're using                                                                                                                                                                              |
-| `UserFilter`                   |                                                                                                                                                                                                            |
-| `SpinnerSnap`                  |                                                                                                                                                                                                            |
-| `ScaleMode`                    |                                                                                                                                                                                                            |
-| `RefreshRate`                  |                                                                                                                                                                                                            |
-| `CustomFrameLimit`             | Set a custom frame limit                                                                                                                                                                                   |
-| `LobbyShowInProgress`          |                                                                                                                                                                                                            |
-| `keyBossKey`                   | Hotkey to minimize osu! to the task bar                                                                                                                                                                    |
-| `ShowUnicode`                  |                                                                                                                                                                                                            |
-| `BlockNonFriendPM`             | Enables you to only receive messages from your friends                                                                                                                                                     |
-| `BossKeyFirstActivation`       |                                                                                                                                                                                                            |
-| `LastPlayMode`                 | Displays last game mode played                                                                                                                                                                             |
-| `HighResolution`               | Force HD skin element support                                                                                                                                                                              |
-| `ForceNewDefault`              | Forces new skin behaviour                                                                                                                                                                                  |
-| `RankType`                     |                                                                                                                                                                                                            |
-| `LowResolution`                |                                                                                                                                                                                                            |
-| `UpdatePending`                |                                                                                                                                                                                                            |
-| `ScoreMeter`                   |                                                                                                                                                                                                            |
-| `Username`                     | username                                                                                                                                                                                                   |
-| `Password`                     | Hashed value for password **Do not give this out to others!**                                                                                                                                               |
-| `GuideTips`                    |                                                                                                                                                                                                            |
-| `DimLevel`                     | Sets a global dim for beatmaps while playing                                                                                                                                                               |
-| `ShowStoryboard`               | Disables storyboard while playing                                                                                                                                                                          |
-| `IgnoreBeatmapSamples`         |                                                                                                                                                                                                            |
-| `IgnoreBeatmapSkins`           | Ignore any beatmap skin elements                                                                                                                                                                           |
-| `AutomaticDownload`            | Autmatically download new maps from osu!direct                                                                                                                                                             |
-| `CursorRipple`                 | Enables cursor ripples when clicking                                                                                                                                                                       |
-| `RawInput`                     | Raw input toggle                                                                                                                                                                                           |
-| `ScoreMeterScale`              | Changes the size of the score meter if it's enabled                                                                                                                                                        |
-| `MenuSnow`                     | Let it snow                                                                                                                                                                                                |
-| `BeatmapDirectory `            | Tells osu! what folder to store maps in                                                                                                                                                                    |
-| `FastEditor`                  |                                                                                                                                                                                                            |
-| `LoadSubmittedThread`          | BSS option to open page linked to submitted map's thead                                                                                                                                                    |
-| `ShowMenuTips`                 | Enable menu tips                                                                                                                                                                                           |
-| `AlternativeChatFont`          | Let's you chose between old and new font style                                                                                                                                                             |
-| `EditorDefaultSkin`            | Forces default skin while inside the editor                                                                                                                                                                |
-| `keyOsuSmoke`                  | Key used for smoke                                                                                                                                                                                         |
-| `ComboColourSliderBall`        | toggle whether or not to use slider ball aligned to combo colour                                                                                                                                           |
-| `SongSelectThumbnails`         | Toggle whether thumbnails are used in song select                                                                                                                                                          |
-| `CursorSize`                   | Cursor size                                                                                                                                                                                                |
-| `UpdateStream`                 |                                                                                                                                                                                                            |
-| `MenuMusic`                    | Menu start-up music toggle                                                                                                                                                                                 |
-| `MenuVoice`                    | Menu Voices toggle                                                                                                                                                                                         |
-| `AutomaticCursorSizing`        | Toggle automatic cursor sizing to map's circle size                                                                                                                                                        |
-| `ShowInterface`                | Interface hiding controlled by `shift` + `tab` default                                                                                                                                                           |
-| `@AutoSendNowPlaying`          |                                                                                                                                                                                                            |
-| `AutoSendNowPlaying`           | Decides whether player auto `/np`'s the map to spectator chat                                                                                                                                                |
-| `keyDecreaseSpeed`             |                                                                                                                                                                                                            |
-| `UsePerBeatmapManiaSpeed`      |                                                                                                                                                                                                            |
-| `LastVersionPermissionsFailed` |                                                                                                                                                                                                            |
-| `ManiaSpeedBPMScale`           | Forces osu!mania scroll speed to scale with BPM                                                                                                                                                            |
-| `MenuTriangles`                | Enables triangles                                                                                                                                                                                          |
+## Changeable via the options menu
+
+| Option | Value type | In-game option |
+| :-- | :-- | :-- |
+| `Username` | String | Username |
+| `Password` | String | Password (hashed, **do not share this!**) |
+| `SaveUsername` | 0 or 1 | Remember username |
+| `SavePassword` | 0 or 1 | Remember password |
+| `Language` | String | Select language |
+| `ShowUnicode` | 0 or 1 | Prefer metadata in original language |
+| `AlternativeChatFont` | 0 or 1 | Use alternative font for chat display |
+| `FrameSync` | String | Frame limiter |
+| `FpsCounter` | 0 or 1 | Show FPS counter |
+| `CompatibilityContext` | 0 or 1 | Compatibility mode |
+| `ForceFrameFlush` | 0 or 1 | Reduce dropped frames |
+| `DetectPerformanceIssues` | 0 or 1 | Detect performance issues |
+| `Width` | Integer | Resolution (when `Fullscreen` is `0`) |
+| `Height` | Integer | Resolution (when `Fullscreen` is `0`) |
+| `WidthFullscreen` | Integer | Resolution (when `Fullscreen` is `1`) |
+| `HeightFullscreen` | Integer | Resolution (when `Fullscreen` is `1`) |
+| `Fullscreen` | 0 or 1 | Fullscreen mode |
+| `Letterboxing` | 0 or 1 | Letterboxing |
+| `LetterboxPositionX` | Integer | Horizontal offset |
+| `LetterboxPositionY` | Integer | Vertical offset |
+| `SnakingSliders` | 0 or 1 | Snaking sliders |
+| `Video` | 0 or 1 | Background video |
+| `ShowStoryboard` | 0 or 1 | Storyboards |
+| `ComboBurst` | 0 or 1 | Combo bursts |
+| `HitLighting` | 0 or 1 | Hit lighting |
+| `Shaders` | 0 or 1 | Shaders |
+| `BloomSoftening` | 0 or 1 | Softening filter |
+| `ScreenshotFormat` | String | Screenshot format |
+| `MenuSnow` | 0 or 1 | Snow |
+| `MenuParallax` | 0 or 1 | Parallax |
+| `ShowMenuTips` | 0 or 1 | Menu tips |
+| `MenuVoice` | 0 or 1 | Interface voices |
+| `MenuMusic` | 0 or 1 | osu! music theme |
+| `SeasonalBackgrounds` | String | Seasonal backgrounds |
+| `SongSelectThumbnails` | 0 or 1 | Show thumbnails |
+| `DimLevel` | Integer | Background dim |
+| `IHateHavingFun` | 0 or 1 | Don't change dim level during breaks |
+| `ProgressBarType` | String | Progress display |
+| `ScoreMeter` | String | Score meter type |
+| `ScoreMeterScale` | Decimal | Score meter size |
+| `KeyOverlay` | 0 or 1 | Always show key overlay |
+| `HiddenShowFirstApproach` | 0 or 1 | Show approach circle on first "Hidden" object |
+| `ManiaSpeedBPMScale` | 0 or 1 | Scale osu!mania scroll speed with BPM |
+| `UsePerBeatmapManiaSpeed` | 0 or 1 | Remember osu!mania scroll speed per-beatmap |
+| `DisplayStarsMinimum` | Decimal | Display beatmaps from |
+| `DisplayStarsMaximum` | Decimal | up to |
+| `AudioDevice` | String | Output device |
+| `VolumeUniversal` | Integer | Master |
+| `VolumeMusic` | Integer | Music |
+| `VolumeEffect` | Integer | Effect |
+| `IgnoreBeatmapSamples` | 0 or 1 | Ignore beatmap hitsounds |
+| `Offset` | Integer | Universal offset |
+| `Skin` | String | Current skin |
+| `IgnoreBeatmapSkins` | 0 or 1 | Ignore all beatmap skins |
+| `SkinSamples` | 0 or 1 | Use skin's sound samples |
+| `UseTaikoSkin` | 0 or 1 | Use Taiko skin for Taiko mode |
+| `UseSkinCursor` | 0 or 1 | Always use skin cursor |
+| `CursorSize` | Decimal | Cursor size |
+| `AutomaticCursorSizing` | 0 or 1 | Automatic cursor sizing |
+| `ComboColourSliderBall` | 0 or 1 | Use combo colour as tint for slider ball |
+| `MouseSpeed` | Decimal | Sensitivity |
+| `RawInput` | 0 or 1 | Raw input |
+| `AbsoluteToOsuWindow` | 0 or 1 | Map absolute raw input to the osu! window |
+| `ConfineMouse` | String | Confine mouse cursor |
+| `MouseDisableWheel` | 0 or 1 | Disable mouse wheel in play mode |
+| `MouseDisableButtons` | 0 or 1 | Disable mouse buttons in play mode |
+| `CursorRipple` | 0 or 1 | Cursor ripples |
+| `Tablet` | 0 or 1 | Enable OS TabletPC support |
+| `Wiimote` | 0 or 1 | Wiimote/TaTaCon Drum support |
+| `VideoEditor` | 0 or 1 | Background video |
+| `EditorDefaultSkin` | 0 or 1 | Always use default skin |
+| `EditorSnakingSliders` | 0 or 1 | Snaking sliders |
+| `EditorHitAnimations` | 0 or 1 | Hit animations |
+| `EditorFollowPoints` | 0 or 1 | Follow points |
+| `EditorStacking` | 0 or 1 | Stacking |
+| `Ticker` | 0 or 1 | Chat ticker |
+| `AutoChatHide` | 0 or 1 | Automatically hide chat during gameplay |
+| `ChatHighlightName` | 0 or 1 | Show a notification pop-up when someone says your name |
+| `ChatMessageNotification` | 0 or 1 | Show chat message notifications |
+| `ChatAudibleHighlight` | 0 or 1 | Play a sound when someone says your name |
+| `DisplayCityLocation` | 0 or 1 | Share your city location with others |
+| `ShowSpectators` | 0 or 1 | Show spectators |
+| `AutoSendNowPlaying` | 0 or 1 | Automatically link beatmaps to spectators |
+| `PopupDuringGameplay` | 0 or 1 | Show notification popups instantly during gameplay |
+| `NotifyFriends` | 0 or 1 | Show notification popups when friends change status |
+| `AllowPublicInvites` | 0 or 1 | Allow multiplayer game invites from all users |
+| `DiscordRichPresence` | 0 or 1 | Discord Rich Presence |
+| `YahooIntegration` | 0 or 1 | Integrate with Yahoo! status display |
+| `MsnIntegration` | 0 or 1 | Integrate with MSN Live status display |
+| `AutomaticDownload` | 0 or 1 | Automatically start osu!direct downloads |
+| `AutomaticDownloadNoVideo` | 0 or 1 | Prefer no-video downloads |
+| `ChatFilter` | 0 or 1 | Filter offensive words |
+| `ChatRemoveForeign` | 0 or 1 | Filter foreign characters |
+| `LogPrivateMessages` | 0 or 1 | Log private messages |
+| `BlockNonFriendPM` | 0 or 1 | Block private messages from non-friends |
+| `IgnoreList` | Space-separated list of strings | Chat ignore list |
+| `HighlightWords` | Space-separated list of strings | Chat highlight words |
+
+### Key binds
+
+The values for key binding options are the names of the keys.
+
+| Option | Action |
+| :-- | :-- |
+| `keyOsuLeft` | osu! left click |
+| `keyOsuRight` | osu! right click |
+| `keyOsuSmoke` | osu! smoke |
+| `keyTaikoInnerLeft` | osu!taiko left drum centre |
+| `keyTaikoInnerRight` | osu!taiko right drum centre |
+| `keyTaikoOuterLeft` | osu!taiko left drum rim |
+| `keyTaikoOuterRight` | osu!taiko right drum rim |
+| `keyFruitsLeft` | osu!catch move left |
+| `keyFruitsRight` | osu!catch move right |
+| `keyFruitsDash` | osu!catch dash |
+| `keyIncreaseSpeed` | osu!mania increase scroll speed |
+| `keyDecreaseSpeed` | osu!mania decrease scroll speed |
+| `keyPause` | Pause game |
+| `keySkip` | Skip cutscene |
+| `keyToggleScoreboard` | Toggle scoreboard |
+| `keyIncreaseAudioOffset` | Increase local song offset |
+| `keyDecreaseAudioOffset` | Decrease local song offset |
+| `keyQuickRetry` | Quick retry |
+| `keyToggleFrameLimiter` | Cycle through framerate limiting options |
+| `keyToggleChat` | Open chat |
+| `keyToggleExtendedChat` | Open chat with user list |
+| `keyScreenshot` | Save screenshot |
+| `keyVolumeIncrease` | Increase universal volume |
+| `keyVolumeDecrease` | Decrease universal volume |
+| `keyDisableMouseButtons` | Disable mouse buttons |
+| `keyBossKey` | Minimize osu! to the task bar |
+| `keySelectTool` | Use select tool |
+| `keyNormalTool` | Use normal tool |
+| `keySliderTool` | Use slider tool |
+| `keySpinnerTool` | Use spinner tool |
+| `keyNewComboToggle` | Toggle new combo |
+| `keyWhistleToggle` | Toggle whistle |
+| `keyFinishToggle` | Toggle finish |
+| `keyClapToggle` | Toggle clap |
+| `keyGridSnapToggle` | Toggle grid snap |
+| `keyDistSnapToggle` | Toggle distance snap |
+| `keyNoteLockToggle` | Toggle hit object lock |
+| `keyNudgeLeft` | Nudge left |
+| `keyNudgeRight` | Nudge right |
+| `keyHelpToggle` | Open editor help screen |
+| `keyJumpToBegin` | Jump to first hit object |
+| `keyPlayFromBegin` | Play from beginning |
+| `keyAudioPause` | Pause playback |
+| `keyJumpToEnd` | Jump to end of last hit object |
+| `keyGridChange` | Cycle through grid sizes |
+| `keyTimingSection` | Add uninherited timing section |
+| `keyInheritingSection` | Add inherited timing section |
+| `keyRemoveSection` | Remove timing section |
+| `keyEasy` | Game Modifier hotkeys |
+| `keyNoFail` | Toggle No Fail |
+| `keyHalfTime` | Toggle Half Time |
+| `keyHardRock` | Toggle Hard Rock |
+| `keySuddenDeath` | Toggle Sudden Death |
+| `keyDoubleTime` | Toggle Double Time |
+| `keyHidden` | Toggle Hidden |
+| `keyFlashlight` | Toggle Flashlight |
+| `keyRelax` | Toggle Relax |
+| `keyAutopilot` | Toggle Autopilot |
+| `keySpunOut` | Toggle Spun Out |
+| `keyAuto` | Toggle Auto |
+| `keyScoreV2` | Toggle Score V2 |
+
+#### osu!mania layouts
+
+Each osu!mania key mode has its own set of options. Here we use `#` to denote the number of keys, ranging from 1 to 18.
+
+| Option | Value type | Description |
+| :-- | :-- | :-- |
+| `ManiaLayouts#K` | Space-separated list of (keyboard) key names | Sets the key layout for #K |
+| `ManiaLayouts#KSplit` | Space-separated list of (keyboard) key names | Sets the key layout for `#/2`K in co-op mode |
+
+More osu!mania layout options can be found in the current skin's [skin.ini](/wiki/Skinning/skin.ini) file.
+
+## Changeable via other actions in-game
+
+### Chat
+
+| Option | Value type | Description |
+| :-- | :-- | :-- |
+| `ChatSortMode` | String | Sorting of extended chat user list |
+| `ChatLastChannel` | String | Last channel active |
+| `ChatChannels` | String | List of channels used |
+| `UserFilter` | String | Filter for extended chat user list |
+
+### Editor
+
+| Option | Value type | Description |
+| :-- | :-- | :-- |
+| `EditorGridSize` | Integer | Grid size in [osu! pixels](/wiki/Glossary#osupixel) |
+| `EditorGridSizeDesign` | Integer | Design grid size in [osu! pixels](/wiki/Glossary#osupixel) |
+| `EditorDim` | 0 or 1 | Whether or not the background will be dimmed while test playing |
+| `EditorGrid` | 0 or 1 | Whether or not grid snap is enabled |
+| `EditorBeatDivisor` | Integer | Last used beat snap divisor |
+| `DistanceSpacing` | Decimal | Last used distance snap multiplier |
+| `DistanceSpacingEnabled` | 0 or 1 | Whether or not distance snap is enabled |
+| `NotifySubmittedThread` | 0 or 1 | Automatically checks the `Receive email notification on reply` option when submitting a map via BSS |
+| `LoadSubmittedThread` | 0 or 1 | Automatically checks the `Load in browser after submission` option when submitting a map via BSS |
+
+### Main menu
+
+| Option | Value type | Description |
+| :-- | :-- | :-- |
+| `FrameTimeDisplay` | 0 or 1 | Whether or not the frame time display is showing |
+| `PermanentSongInfo` | 0 or 1 | Whether or not the playing song's info is permanently shown |
+
+### Multiplayer
+
+| Option | Value type | Description |
+| :-- | :-- | :-- |
+| `LobbyPlayMode` | Integer | Selected game mode tab (`-1` = All, `0` = osu!, `1` = osu!taiko, `2` = osu!catch, `3` = osu!mania) |
+| `LobbyShowExistingOnly` | 0 or 1 | Toggles `Owned Beatmaps` filter |
+| `LobbyShowFriendsOnly` | 0 or 1 | Toggles `Games with Friends` filter |
+| `LobbyShowFull` | 0 or 1 | Toggles `Show Full` filter |
+| `LobbyShowPassworded` | 0 or 1 | Toggles `Show Locked` filter |
+| `LobbyShowInProgress` | 0 or 1 | Toggles `Show In-Progress` filter |
+
+### Play
+
+| Option | Value type | Description |
+| :-- | :-- | :-- |
+| `ManiaSpeed` | Integer | osu!mania scroll speed |
+| `ScoreboardVisible` | 0 or 1 | Whether or not the scoreboard is showing |
+| `ShowInterface` | 0 or 1 | Whether or not the interface is showing |
+| `ShowInterfaceDuringRelax` | 0 or 1 | Whether or not the interface will be shown when using Relax or Autopilot |
+
+### Replay
+
+| Option | Value type | Description |
+| :-- | :-- | :-- |
+| `ShowReplayComments` | 0 or 1 | Toggles `Show Comments` when watching a replay |
+
+### Song select
+
+| Option | Value type | Description |
+| :-- | :-- | :-- |
+| `TreeSortMode` | String | Grouping of beatmaps |
+| `TreeSortMode2` | String | Sorting of beatmaps |
+| `LastPlayMode` | String | Selected game mode |
+| `RankType` | String | Filter for scoreboard rankings |
+
+## Not changeable in-game
+
+| Option | Value type | Description |
+| :-- | :-- | :-- |
+| `BeatmapDirectory` | String | Folder where osu! stores beatmaps |
+| `BossKeyFirstActivation` | 0 or 1 | Whether or not the boss key has been pressed before |
+| `CanForceOptimusCompatibility` | 0 or 1 | Whether or not osu! can perform optimisations on some NVIDIA GPUs |
+| `ConfirmExit` | 0 or 1 | Whether or not osu! will ask for confirmation before exiting the game |
+| `CustomFrameLimit` | Integer | Third FPS limiter option available in-game |
+| `Display` | Integer | Index of the monitor that osu! should open on |
+| `EditorTip` | Integer | Index of the next editor tip to be shown |
+| `GuideTips` | String | Tracks guide tips that have been shown before so that they aren't shown again |
+| `HighResolution` | 0 or 1 | Forces HD skin element support |
+| `IgnoreBarline` | 0 or 1 | Whether or not osu!mania barlines should be hidden |
+| `LastVersion` | String | Current client version |
+| `LastVersionPermissionsFailed` | String | Client version that last needed computer admin permissions to complete an update |
+| `LowResolution` | 0 or 1 | Forces SD skin elements to be used (overrides `HighResolution`) |
+| `MenuTip` | Integer | Index of the next menu tip to be shown |
+| `MyPcSucks` | 0 or 1 | Disables all fancy graphics settings |
+| `OverrideRefreshRate` | 0 or 1 | Whether or not `RefreshRate` is used |
+| `RefreshRate` | Integer | Custom refresh rate |
+| `ScaleMode` | String | Default scaling of sprites that cover the whole screen |
+| `ScreenshotId` | Integer | ID of the next screenshot |
+| `SkipTablet` | 0 or 1 | Disables osu!'s special tablet handling code |
+| `UpdatePending` | 0 or 1 | Whether or not there is an update waiting to be installed |
+
+## Unused or deprecated
+
+- `AllowNowPlayingHighlights`
+- `ComboFire`
+- `ComboFireHeight`
+- `ForceSliderRendering`
+- `ManiaLayoutSelected#K`, where `#` ranges from 1 to 18
+- `ManiaLayoutSelected#KSplit`, where `#` ranges from 2 to 18
+- `MenuTriangles`
+- `Renderer`

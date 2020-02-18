@@ -1,10 +1,13 @@
+---
+needs_cleanup: true
+---
+
 <!-- wiki -->
-[Game_Modes wikilink]: ../ "Game Modes"
-[Play_Styles#osu! wikilink]: /wiki/Play_Styles/ "more info can be found on Play Styles under osu!"
-[Score#osu!SV wikilink]: /wiki/Score/#osu "more info can be found on Score under osu! Scoring Values"
-[Options#Keyboard wikilink]: /wiki/Options/ "more info can be found on Options under Keyboard"
-[Skinning#osu! wikilink]: /wiki/Skinning/osu!/ "osu! Skinning"
-[Mascots#pippi wikilink]: /wiki/Mascots/#pippi "more info can be found on Mascots under pippi"
+[Play_Styles#osu! wikilink]: /wiki/Play_Styles "more info can be found on Play Styles under osu!"
+[Score#osu!SV wikilink]: /wiki/Score#osu "more info can be found on Score under osu! Scoring Values"
+[Options#Keyboard wikilink]: /wiki/Options "more info can be found on Options under Keyboard"
+[Skinning#osu! wikilink]: /wiki/Skinning/osu! "osu! Skinning"
+[Mascots#pippi wikilink]: /wiki/Mascots#pippi "more info can be found on Mascots under pippi"
 [Auto wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Auto"
 [Hidden wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Hidden"
 [Flashlight wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Flashlight"
@@ -35,10 +38,7 @@
 [Combo Fire image]: /wiki/shared/combo-fire.jpg "Combo Fire"
 
 <!-- Title -->
-# osu!
-
-<!-- Uncomment the below and delete this comment if ScoreV2 is official and the whole page must be revised to fit ScoreV2 system behaviour -->
-<!-- **[Click here to visit the older version of osu! using deprecated ScoreV1 system](./v1 "osu! v1")** -->
+# osu! (game mode)
 
 ![Gameplay of osu!][osu! Interface image]
 

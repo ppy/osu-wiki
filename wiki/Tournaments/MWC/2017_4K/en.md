@@ -31,9 +31,9 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $150 per team member, profile badge, exclusive osu! merchandise, "osu!mania Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $80 per team member, profile badge, exclusive osu! merchandise |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $40 per team member, profile badge, exclusive osu! merchandise |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | $150 per team member, profile badge, exclusive osu! merchandise, "osu!mania Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, profile badge, exclusive osu! merchandise |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, profile badge, exclusive osu! merchandise |
 
 ## Organisation
 
@@ -41,10 +41,10 @@ The osu!mania 4K World Cup 2017 is run by various community members by distribut
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
-| Map Selectors | ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341) |
-| Commentators | ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811), ![][flag_SE] [\[ Vento \]](https://osu.ppy.sh/users/1612580), ![][flag_FR] [XeoStyle](https://osu.ppy.sh/users/3377280), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
-| Statisticians | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
+| Manager | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
+| Map Selector | ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341) |
+| Commentator | ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811), ![][flag_SE] [\[ Vento \]](https://osu.ppy.sh/users/1612580), ![][flag_FR] [XeoStyle](https://osu.ppy.sh/users/3377280), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
+| Statistician | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ------------------------------------------------------------------------
 

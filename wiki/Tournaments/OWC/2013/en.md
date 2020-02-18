@@ -28,9 +28,9 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 6 months of osu!supporter tag, special profile badge, OWC trophy, [osu!tablet](https://osu.ppy.sh/community/forums/topics/169139) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, special profile badge, OWC trophy, [osu!tablet](https://osu.ppy.sh/community/forums/topics/169139) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
 ## Organisation
 
@@ -38,10 +38,10 @@ The osu! World Cup 2013 was run by various community members by distributing the
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [dkun](https://osu.ppy.sh/users/154400) |
-| Map Selectors | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_AR] [Wishy](https://osu.ppy.sh/users/495477), ![][flag_IT] [Chewin](https://osu.ppy.sh/users/617323) |
-| Streamers | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55), ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935), ![][flag_US] [Makar](https://osu.ppy.sh/users/686389) |
-| Commentators | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078), ![][flag_US] [Agnes](https://osu.ppy.sh/users/136982), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347), ![][flag_NO] [kriers](https://osu.ppy.sh/users/333241), ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094), ![][flag_AU] [LaVolpe024](https://osu.ppy.sh/users/597796), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
+| Manager | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [dkun](https://osu.ppy.sh/users/154400) |
+| Map Selector | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_AR] [Wishy](https://osu.ppy.sh/users/495477), ![][flag_IT] [Chewin](https://osu.ppy.sh/users/617323) |
+| Streamer | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55), ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935), ![][flag_US] [Makar](https://osu.ppy.sh/users/686389) |
+| Commentator | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078), ![][flag_US] [Agnes](https://osu.ppy.sh/users/136982), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347), ![][flag_NO] [kriers](https://osu.ppy.sh/users/333241), ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094), ![][flag_AU] [LaVolpe024](https://osu.ppy.sh/users/597796), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
 | Statistician | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
 ## Links

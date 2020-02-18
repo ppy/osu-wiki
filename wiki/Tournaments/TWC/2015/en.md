@@ -27,9 +27,9 @@ The **osu! Taiko World Cup 2015** (***TWC 2015***) was a country-based osu!taiko
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 6 months of osu!supporter tag, unique profile badge, "Taiko Champion" user title for one year, osu! merchandise |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 months of osu!supporter tag, unique profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag, unique profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, unique profile badge, "Taiko Champion" user title for one year, osu! merchandise |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag, unique profile badge |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag, unique profile badge |
 
 ![TWC 2015 Winner Badge](img/badge.png) ![TWC 2015 2nd Place Badge](img/badge2.png) ![TWC 2015 3rd Place Badge](img/badge3.png)
 
@@ -39,10 +39,10 @@ The osu! Taiko World Cup 2015 was run by various community members by distributi
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) |
+| Manager | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) |
 | Map Selector | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
-| Streamers | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
-| Commentators | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
+| Streamer | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
+| Commentator | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
 | Statistician | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
 ## Links
@@ -100,9 +100,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_JP] Japan |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_TW] Taiwan |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] France |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_JP] Japan |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TW] Taiwan |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] France |
 
 ![TWC 2015 Bracket](img/bracket.jpg)
 

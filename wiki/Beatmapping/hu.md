@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Beatmapping (Magyar)
 
 A "beatmapping" a beatmap készítés folyamata osu!-ban. Tartalmazza a zeneválasztást, időzítést, note-ok/slider-ek elhelyezését, és (opcionálisan) skinning-et és storyboarding-ot is.
@@ -6,10 +10,10 @@ A készítők a mapjeiket általában ranked-elni akarják, ami tartalmazza a ma
 
 A leggyakrabban előforduló nehézségi szintek:
 
--   [Könnyű](/wiki/Difficulties/Easy) (Easy)
--   [Normál](/wiki/Difficulties/Normal) (Normal)
--   [Nehéz](/wiki/Difficulties/Hard) (Hard)
--   [Őrült](/wiki/Difficulties/Insane) (Insane)
+- Könnyű (Easy)
+- Normál (Normal)
+- Nehéz (Hard)
+- Őrült (Insane)
 
 A különböző linkekre kattintva meg fognak jelenni azok az irányelvek, melyeket a map-készítőknek követniük kell, hogy a nehézségi szinteknek megfelelően szórakoztató beatmapeket tudjanak készíteni.
 

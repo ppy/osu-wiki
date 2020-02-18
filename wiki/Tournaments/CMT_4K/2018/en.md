@@ -28,9 +28,9 @@ The **Chinese osu!mania 4K Tournament 2018** (***CMT 4K 2018***) is the third on
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![](/wiki/shared/GCrown.png) | 8 months of osu!supporter tag, unique profile badge |
-| ![](/wiki/shared/SCrown.png) | 4 months of osu!supporter tag |
-| ![](/wiki/shared/BCrown.png) | 2 months of osu!supporter tag |
+| ![](/wiki/shared/crown-gold.png) | 8 months of osu!supporter tag, unique profile badge |
+| ![](/wiki/shared/crown-silver.png) | 4 months of osu!supporter tag |
+| ![](/wiki/shared/crown-bronze.png) | 2 months of osu!supporter tag |
 
 All prizes are sponsored by **[Arkaaalin](https://osu.ppy.sh/users/7477382)**.
 
@@ -42,10 +42,10 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
 | --: | :-- |
 | Management and Organisation | ![][CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][CN] [Flow Light](https://osu.ppy.sh/users/6705256) |
 | Coordinator | ![][CN] [SSV Normandy](https://osu.ppy.sh/users/6475977) |
-| Map Selectors | ![][US] [qqqant](https://osu.ppy.sh/users/8976576), ![][SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][US] [Trainer-](https://osu.ppy.sh/users/9331760), ![][SG] [Raveille](https://osu.ppy.sh/users/1388767) |
-| Streamers and Referees | ![][CN] [aiyulu](https://osu.ppy.sh/users/189617), ![][CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
-| Commentators | ![][CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][AU] [williammak](https://osu.ppy.sh/users/11083079), ![][CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][CN] [kj415j45](https://osu.ppy.sh/users/9367540), ![][CN] [NimaPro](https://osu.ppy.sh/users/11524571), ![][CN] [IA daisuki](https://osu.ppy.sh/users/11238501) |
-| Wiki | ![][CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
+| Map Selector | ![][US] [qqqant](https://osu.ppy.sh/users/8976576), ![][SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][US] [Trainer-](https://osu.ppy.sh/users/9331760), ![][SG] [Raveille](https://osu.ppy.sh/users/1388767) |
+| Streamer and Referee | ![][CN] [aiyulu](https://osu.ppy.sh/users/189617), ![][CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
+| Commentator | ![][CN] [hans1999](https://osu.ppy.sh/users/6679329), ![][CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][AU] [williammak](https://osu.ppy.sh/users/11083079), ![][CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][CN] [kj415j45](https://osu.ppy.sh/users/9367540), ![][CN] [NimaPro](https://osu.ppy.sh/users/11524571), ![][CN] [IA daisuki](https://osu.ppy.sh/users/11238501) |
+| Wiki Editor | ![][CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
 
 ## Links
 
@@ -172,10 +172,10 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
 
 ### Qualification Stage
 
-- [Jake Chudnow - Moon Men (Instrumental) \[Stage 1: Apollo\]](https://osu.ppy.sh/beatmapsets/856468/#mania/1789290)
-- [Shawn Wasabi - Otter Pop \[Stage 2: Anxious\]](https://osu.ppy.sh/beatmapsets/856527/#mania/1789415)
-- [Aimer - Through My Blood <AM> \[Stage 3: Energy\]](https://osu.ppy.sh/beatmapsets/856473/#mania/1789302)
-- [Waterflame - Grind District \[Stage 4: Industrial\]](https://osu.ppy.sh/beatmapsets/856524/#mania/1789410)
+- [Jake Chudnow - Moon Men (Instrumental) \[Stage 1: Apollo\]](https://osu.ppy.sh/beatmapsets/856468#mania/1789290)
+- [Shawn Wasabi - Otter Pop \[Stage 2: Anxious\]](https://osu.ppy.sh/beatmapsets/856527#mania/1789415)
+- [Aimer - Through My Blood <AM> \[Stage 3: Energy\]](https://osu.ppy.sh/beatmapsets/856473#mania/1789302)
+- [Waterflame - Grind District \[Stage 4: Industrial\]](https://osu.ppy.sh/beatmapsets/856524#mania/1789410)
 
 ## Match Results
 

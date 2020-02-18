@@ -33,9 +33,9 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 6 months of osu!supporter tag, profile badge, osu! merchandise, "osu!mania Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, profile badge, osu! merchandise, "osu!mania Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
 ## Organisation
 
@@ -43,10 +43,10 @@ The osu!mania World Cup 2014 is run by various community members by distributing
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) |
-| Map Selectors | ![][flag_RU] [\[Shi-Ra\]](https://osu.ppy.sh/users/2008489), ![][flag_CL] [Agka](https://osu.ppy.sh/users/64811) |
-| Streamers | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
-| Commentators | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000), ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078), ![][flag_IT] [Roxas](https://osu.ppy.sh/users/1041833), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347), ![][flag_RU] [\[Shi-Ra\]](https://osu.ppy.sh/users/2008489) |
+| Manager | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) |
+| Map Selector | ![][flag_RU] [\[Shi-Ra\]](https://osu.ppy.sh/users/2008489), ![][flag_CL] [Agka](https://osu.ppy.sh/users/64811) |
+| Streamer | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
+| Commentator | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000), ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078), ![][flag_IT] [Roxas](https://osu.ppy.sh/users/1041833), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347), ![][flag_RU] [\[Shi-Ra\]](https://osu.ppy.sh/users/2008489) |
 | Statistician | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
 ------------------------------------------------------------------------
@@ -142,9 +142,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | 4K Bracket | 7K Bracket |
 | :-: | :-- | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_KR] **South Korea** | ![][flag_KR] **South Korea** |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_PH] **Philippines** | ![][flag_TH] **Thailand** |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_MY] **Malaysia** | ![][flag_MY] **Malaysia** |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] **South Korea** | ![][flag_KR] **South Korea** |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PH] **Philippines** | ![][flag_TH] **Thailand** |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_MY] **Malaysia** | ![][flag_MY] **Malaysia** |
 
 ------------------------------------------------------------------------
 

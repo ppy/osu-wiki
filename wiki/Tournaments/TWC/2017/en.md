@@ -27,9 +27,9 @@ The **osu!taiko World Cup 2017** (***TWC 2017***) was a country-based osu!taiko 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique merchandise, unique profile badge, "osu!taiko Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Unique merchandise, unique profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Unique merchandise, unique profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Unique merchandise, unique profile badge, "osu!taiko Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Unique merchandise, unique profile badge |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Unique merchandise, unique profile badge |
 
 ![TWC 2017 Winner Badge](img/badge.png) ![TWC 2017 2nd Place Badge](img/badge2.png) ![TWC 2017 3rd Place Badge](img/badge3.png)
 
@@ -39,9 +39,9 @@ The osu!taiko World Cup 2017 was run by various community members by distributin
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
-| Map Selectors | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128), ![][flag_FR] [Sayaka-](https://osu.ppy.sh/users/398275) |
-| Commentators | ![][flag_BD] [Arf](https://osu.ppy.sh/users/3716999), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_HK] [magnomizer](https://osu.ppy.sh/users/1893718), ![][flag_CA] [Tasha](https://osu.ppy.sh/users/1031958), ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
+| Manager | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
+| Map Selector | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128), ![][flag_FR] [Sayaka-](https://osu.ppy.sh/users/398275) |
+| Commentator | ![][flag_BD] [Arf](https://osu.ppy.sh/users/3716999), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_HK] [magnomizer](https://osu.ppy.sh/users/1893718), ![][flag_CA] [Tasha](https://osu.ppy.sh/users/1031958), ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
 | Statistician | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ## Links

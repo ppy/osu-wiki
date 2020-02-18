@@ -28,9 +28,9 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 4 months of osu!supporter tag, unique profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter tag, unique profile badge |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
 ## Organisation
 
@@ -38,11 +38,11 @@ The osu! Catch the Beat World Cup 2013 was run by various community members by d
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_CA] [Weez](https://osu.ppy.sh/users/67211), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_PH] [Seph](https://osu.ppy.sh/users/1591614), ![][flag_DE] [Nyan-Zapo](https://osu.ppy.sh/users/480676) |
-| Map Selectors | ![][flag_CA] [Weez](https://osu.ppy.sh/users/67211), ![][flag_DE] DeathXHunter, ![][flag_ID] [urs4chan](https://osu.ppy.sh/users/321063) |
-| Match Schedulers | ![][flag_DE] [Nyan-Zapo](https://osu.ppy.sh/users/480676), ![][flag_DE] [Nitojgrem](https://osu.ppy.sh/users/755705) |
-| Referees | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_ES] [Nokeru-Chan](https://osu.ppy.sh/users/602315) ![][flag_CA] [Xakyrie](https://osu.ppy.sh/users/684730), ![][flag_ID] [Frans Niko](https://osu.ppy.sh/users/906991), ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907), ![][flag_ID] [urs4chan](https://osu.ppy.sh/users/321063), ![][flag_US] [dkun](https://osu.ppy.sh/users/154400) |
-| Streamers | ![][flag_US] [Makar](https://osu.ppy.sh/users/686389), ![][flag_US] [dkun](https://osu.ppy.sh/users/154400) |
+| Manager | ![][flag_CA] [Weez](https://osu.ppy.sh/users/67211), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_PH] [Seph](https://osu.ppy.sh/users/1591614), ![][flag_DE] [Nyan-Zapo](https://osu.ppy.sh/users/480676) |
+| Map Selector | ![][flag_CA] [Weez](https://osu.ppy.sh/users/67211), ![][flag_DE] DeathXHunter, ![][flag_ID] [urs4chan](https://osu.ppy.sh/users/321063) |
+| Scheduler | ![][flag_DE] [Nyan-Zapo](https://osu.ppy.sh/users/480676), ![][flag_DE] [Nitojgrem](https://osu.ppy.sh/users/755705) |
+| Referee | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_ES] [Nokeru-Chan](https://osu.ppy.sh/users/602315) ![][flag_CA] [Xakyrie](https://osu.ppy.sh/users/684730), ![][flag_ID] [Frans Niko](https://osu.ppy.sh/users/906991), ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907), ![][flag_ID] [urs4chan](https://osu.ppy.sh/users/321063), ![][flag_US] [dkun](https://osu.ppy.sh/users/154400) |
+| Streamer | ![][flag_US] [Makar](https://osu.ppy.sh/users/686389), ![][flag_US] [dkun](https://osu.ppy.sh/users/154400) |
 
 ## Links
 
@@ -97,9 +97,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_CL] Chile A |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_TW] Taiwan A |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_AR] ![][flag_CO] Argentina/Colombia |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CL] Chile A |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TW] Taiwan A |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_AR] ![][flag_CO] Argentina/Colombia |
 
 ---------------------------
 

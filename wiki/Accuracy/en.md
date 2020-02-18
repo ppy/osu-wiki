@@ -1,6 +1,12 @@
+---
+needs_cleanup: true
+---
+
 # Accuracy
 
-Accuracy is a measurement of a player's consistency. There are three types of accuracy that a player can have. One of them being the beatmap's accuracy which is dependent on hit scores gained. Another being the player's overall accuracy that is weighed to allow better scores to stand out more. And lastly, the player's [pp](/wiki/pp) accuracy which is dependent on the submitted score's accuracy.
+<!-- TODO: images could be in a more friendly font, wording is sometimes too... wordy -->
+
+Accuracy is a measurement of a player's consistency. There are three types of accuracy that a player can have. One of them being the beatmap's accuracy which is dependent on hit scores gained. Another being the player's overall accuracy that is weighed to allow better scores to stand out more. And lastly, the player's [Performance Points (pp)](/wiki/Performance_Points) accuracy which is dependent on the submitted score's accuracy.
 
 ## Game modes
 
@@ -37,7 +43,7 @@ In osu!catch, accuracy is calculated by taking the total of non-spinner hit obje
 
 ![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 200 \* number of 200s + 300 \* number of 300s + 300 \* number of MAXs) / 300(number of 0s + number of 50s + number of 100s + number of 200s + number of 300s + number of MAXs)](img/accuracy_mania.png "Accuracy formula for osu!mania")
 
-In osu!mania, accuracy is calculated similarly to [osu!standard](#osu!standard).
+In osu!mania, accuracy is calculated similarly to [osu!standard](#-osu!standard).
 
 ## Performance graph
 
@@ -59,18 +65,14 @@ Error will always display two values which represents how far off the early hits
 
 #### Unstable rate
 
-Unstable rate represents the consistency of the timing of the hits, where lower numbers are better (top players often score below 100). Note that the value measures consistency, not accuracy, so consistently in hitting 15ms early is the same as consistently in hitting "on time." The formula is essentially the standard deviation of the hit errors (in milliseconds) multiplied by 10.
+Unstable rate represents the consistency of the timing of the hits, where lower numbers are better (top players often score below 100). Note that the value measures consistency, not accuracy, so consistently in hitting 15ms early is the same as consistently in hitting "on time." The formula is essentially the standard deviation of the hit errors (in milliseconds) multiplied by 10. [Sample code](https://gist.github.com/peppy/3a11cb58c856b6af7c1916422f668899) is available as reference, showing how osu-stable calculates unstable rate.
 
 ### Spin
 
-*Note: Spin is only used for [osu!standard](/wiki/osu!standard).*
+*Note: Spin is only used for [osu!standard](/wiki/Game_Modes/osu!).*
 
 In addition to the accuracy, some information regarding spinners is also seen in the same tooltip.
 
 #### Speed
 
 Speed represents the average RPM (revolutions per minute) on all the spinners in the beatmap. Max is the highest RPM achieved in any of the beatmap's spinners.
-
-#### Unstable rate
-
-Unstable rate represents the average against Max deviation, where lower numbers are better. Formula is unknown.

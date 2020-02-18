@@ -14,7 +14,7 @@ Un *hit circle* en la skin por defecto. Llamada *Hit Marker* en los juegos DS. E
 
 ## Slider
 
-![Un slider en la skin por defecto.](Slider2.jpg "Un slider en la skin por defecto.")
+![Un slider en la skin por defecto.](img/Slider2.jpg "Un slider en la skin por defecto.")
 
 Un *Slider* consta de dos *Hit Circles* con una trayectoria recta o una curva Bezier entre ellos. Tiene un *Approach Circle* alrededor del Hit Circle del principio del *Slider*. Desde que el *Approach Circle* alcanza el borde, el jugador debe pulsar el comienzo del *Slider* y entonces, mantener el botón presionado, siguiendo (con el cursor) una imagen gráfica moviéndose \[llamada *Slider Ball* - Un gráfico (en forma de bola por defecto) que se mueve a lo largo de la trayectoria basada en BPM y velocidad del Slider dada por el mapper\] a lo largo de la trayectoria del Slider antes de que el Hit Circle del final sea alcanzado. Si hay una flecha de marcha atrás en este punto, el jugador seguirá el *Slider Ball* hacia atrás a lo largo de la misma trayectoria y repitiéndolo si otra flecha de marcha atrás es visible.
 
@@ -24,7 +24,7 @@ Los Sliders se asignan a menudo a sonidos largos de la música. También se util
 
 ## Spinner
 
-![Un Spinner en la skin por defecto.](Spinner.jpg "Un Spinner en la skin por defecto.")
+![Un Spinner en la skin por defecto.](img/Spinner.jpg "Un Spinner en la skin por defecto.")
 
 Un Spinner es un círculo que toma la totalidad del área de juego y tiene un medidor de Spinner en cualquier lado. Una gran contorno circular similar a un Approach Circle aparece el borde del Spinner y converge gradualmente hacia el centro. El jugador debe mantener el botón pulsado y rotar alrededor del centro en sentido de las agujas del reloj o en sentido contrario a éste. En cuanto el botón se mantiene pulsado, el cursor queda fijo en el área del Spinner, por lo que el jugador no necesita preocuparse por si se sale fuera de él. El Spinner es completado si niveles del medidor del Spinner son llenados antes de que el Approach Circle alcance el centro. Dependiendo de los ajustes de dificultad de cada beatmap, es requerido un diferente número de rotaciones para llenar cada nivel del medidor del Spinner (vale 100 puntos). Si el jugador llena el medidor antes de que el Approach Circle alcance el centro, cada vuelta adicional que dé antes de que acabe el tiempo que quede será recompensado con 1,000 puntos de bonus (recibiendo cada uno un multiplicador de bonificación dependiendo del combo actual). Rotar a un Spinner proporciona un continuo aumento menor de la barra de vida dependiendo de la velocidad de la rotación.
 

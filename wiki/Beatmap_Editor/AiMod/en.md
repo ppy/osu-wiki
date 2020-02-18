@@ -10,74 +10,56 @@ AiMod typically completes its beatmap analysis in under a minute and subsequentl
 
 ## Tabs
 
-**All**
-
--   Gathers the items from the other tabs.
-
-**Compose**
-
--   These problems are generally the problem of object placement.
-    -   You may need to check the "Check distance snap" box for these warnings to appear (as these checks could cause lag, depending on beatmap size/length)
-
-**Design**
-
--   These problems are generally some of the interface issues, such as the background, storyboards, etc.
-
-**Timing**
-
--   When these problems appear, check the timeline because something is probably placed incorrectly.
-
-**Meta**
-
--   When these problems appear, check out the song setup.
-
-**Mapset**
-
--   These problems affect the mapset as a whole.
+- **All:** Gathers the items from the other tabs.
+- **Compose:** These problems are generally the problem of object placement. You may need to check the "Check distance snap" box for these warnings to appear (as these checks could cause lag, depending on beatmap size/length).
+- **Design:** These problems are generally some of the interface issues, such as the background, storyboards, etc.
+- **Timing:** When these problems appear, check the timeline because something is probably placed incorrectly.
+- **Meta:** When these problems appear, check the song setup.
+- **Mapset:** These problems affect the mapset as a whole.
 
 ## Messages
 
->Note: Numbers inside curly brackets (i.e. "{0}") is a placeholder for a number or a word.
+<!-- TODO: may be missing some of the commands due to recent AiMod updates -->
+
+*Note: Numbers inside curly brackets (e.g. `{0}`) are placeholders for a number or a word.*
 
 ### Informational
 
 #### All
 
 | Message | Explantation | Solution |
-| ------ | ------------- | --------|
+| :-- | :-- | :-- |
 | No problems were found in this map! | AiMod couldn't find any issues with your map! | You could upload your beatmap using BSS to allow osu!modders to find other mistakes and issues with your beatmap. |
 
 #### Meta
 
 | Message | Explantation | Solution |
-| ------ | ------------- | --------|
+| :-- | :-- | :-- |
 | HP rate for Easy/Normal is suggested to be at least 4. | osu!mania maps only! | Go to Song Settings and set HP rate to 4 or higher |
 | HP rate for Hard and up is suggested to be at least 7. | osu!mania maps only! | Go to Song Settings and set HP rate to 7 or higher |
 | OD rate for maps with few sliders is suggested to be at least 7. | osu!mania maps only! | Go to Song Settings and set OD rate to 7 or higher |
 | The Slider Velocity should be 1.40 or 1.60. | osu!taiko maps only! | Go to Timing tab and change Slider Velocity to 1.40 or 1.60 |
-
 
 ### Errors
 
 #### Compose
 
 | Message | Explantation | Solution |
-| ------ | ------------- | --------|
+| :-- | :-- | :-- |
 | These two objects are less than 10ms apart! | Two objects are very close to each other. This means that the player will need to click at an impossible rate! | Find the two hit objects and move it or delete it. |
 
 #### Design
 
 | Message | Explantation | Solution |
-| ------ | ------------- | --------|
+| :-- | :-- | :-- |
 | Your beatmap has no background image. | The current difficulty doesn't have a background image! Note that videos don't count as background images because the user isn't required to download them | Find a suitable image and use it as the background image. |
-
 
 ### Warnings
 
 #### Compose
 
 | Message | Explantation | Solution |
-| ------ | ------------- | --------|
+| :-- | :-- | :-- |
 | This slider moves in an abnormal way. | | |
 | This combo is very long. Consider splitting it up. | The length of combos can affect the difficulty of the map, as well as the amount of fruits that will be stacked on the catcher's plate. | Go to the offending combos and decide where to start the new combo. (It is prefered that length of combos are, at most, 15-18) |
 | This spinner appears onscreen later than objects which follow it. | Objects appear while the spinner is active. This could be caused by having low AR and/or placing objects too close (time-wise) to the spinner. | Change the length of the spinner and/or remove the following objects |
@@ -98,8 +80,8 @@ AiMod typically completes its beatmap analysis in under a minute and subsequentl
 #### Design
 
 | Message | Explantation | Solution |
-| ------ | ------------- | --------|
-| Background image is larger than 1366x768. | | |
+| :-- | :-- | :-- |
+| Background image is larger than 2560x1440. | | |
 | This map may need an epilepsy warning, as it contains frequently toggled storyboards. | | |
 | File missing: | | |
 | {0}'s dimensions must be {1}x{1} | | |
@@ -109,7 +91,7 @@ AiMod typically completes its beatmap analysis in under a minute and subsequentl
 #### Timing
 
 | Message | Explantation | Solution |
-| ------ | ------------- | --------|
+| :-- | :-- | :-- |
 | All timing sections have a volume below 5%. | | |
 | This beatmap is over 6 minutes long. Consider shortening it if it's not a marathon-style map. | | |
 | Your beatmap is shorter than 45 seconds. Consider making it longer. | | |
@@ -136,7 +118,7 @@ AiMod typically completes its beatmap analysis in under a minute and subsequentl
 #### Meta
 
 | Message | Explantation | Solution |
-| ------ | ------------- | --------|
+| :-- | :-- | :-- |
 | Stack leniency is larger than 0.9 or smaller than 0.3. | | |
 | Romanised artist contains unicode. | | |
 | Romanised title contains unicode. | | |
@@ -151,7 +133,7 @@ AiMod typically completes its beatmap analysis in under a minute and subsequentl
 #### Mapset
 
 | Message | Explantation | Solution |
-| ------ | ------------- | --------|
+| :-- | :-- | :-- |
 | Artist conflicts with {0} diff. | | |
 | Audio file conflicts with {0} diff. | | |
 | Countdown conflicts with {0} diff. | | |
@@ -163,9 +145,8 @@ AiMod typically completes its beatmap analysis in under a minute and subsequentl
 | Title conflicts with {0} diff. | | |
 | Unicode artist conflicts with {0} diff. | | |
 | Unicode title conflicts with {0} diff. | | |
-| This mapset cannot have an Insane diff. without a Hard diff. | | |
-| Filesize of the mapset exceeds 10MB without video. | | |
-| Filesize of the mapset exceeds 24MB with video. | | |
+| This mapset cannot have an Insane diff without a Hard diff. | | |
+| Beatmap exceeds allowed upload size ({0}kb allowed) | The zipped `.osz` file is too large | |
 | This mapset is missing diff: {0} | | |
 | This mapset needs at least 2 osu!catch diffs. | osu!catch maps only! | |
 | This mapset needs at least 1 Easy/Normal diff. | | |

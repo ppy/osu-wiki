@@ -1,4 +1,4 @@
-# Skin Set List
+# Skin set list for the ranking criteria
 
 The following tables contain skin sets that are used in user-specific and beatmap-specific skins. When skinning gameplay elements in beatmap-specific skins, complete sets of elements need to be skinned in order to avoid conflicts between user-specific and beatmap-specific skins.
 
@@ -8,7 +8,7 @@ Filenames containing `(-n)` can be animated. For example, hitcircleoverlay(-n).p
 
 ## osu!
 
-### Cursor Set
+### Cursor set
 
 The entirety of this skin set is gameplay relevant.
 
@@ -19,7 +19,7 @@ The entirety of this skin set is gameplay relevant.
 |cursormiddle.png   |should be optional depending on the cursor's design   | optional  | -   |
 |cursor-smoke.png   |-   | optional   | -   |
 
-### Hitburst Set
+### Hitburst set
 
 The entirety of this skin set is gameplay relevant.
 
@@ -39,7 +39,7 @@ The entirety of this skin set is gameplay relevant.
 |sliderpoint10.png   | should be included together with sliderpoint30.png; will only work if an user-specific skin supports skin version 1   |optional   | -  |
 |sliderpoint30.png   | should be included together with sliderpoint10.png; will only work if an user-specific skin supports skin version 1  |optional    | -  |
 
-### Hitcircle Set
+### Hitcircle set
 
 The entirety of this skin set is gameplay relevant.
 
@@ -56,7 +56,7 @@ The entirety of this skin set is gameplay relevant.
 |sliderstartcircleoverlay(-n).png   |should always be included to avoid conflicting with user-specific skins    |required   |118x118px (circle) / 128x128px (whole file)   |
 |hitcircleselect.png   |only seen in the editor   |optional   |118x118px (circle) 128x128px (whole file)   |
 
-### Slidertrack Set
+### Slidertrack set
 
 The entirety of this skin set is gameplay relevant.
 
@@ -68,7 +68,7 @@ The entirety of this skin set is gameplay relevant.
 |sliderfollowcircle(-n).png   |-   |required   |256x256px   |
 |sliderscorepoint.png   |also used in osu!taiko   |required   |-   |
 
-### Hitcircle Number Set
+### Hitcircle number set
 
 The entirety of this skin set is gameplay relevant. Overlaps or gaps between the numbers themselves are set by the user-specific skin and cannot be influenced within the beatmap itself.
 Please note that the recommended sizes for all elements in this set is handled via a guideline on the Ranking Criteria.
@@ -86,7 +86,7 @@ Please note that the recommended sizes for all elements in this set is handled v
 |default-8.png   |-   |required   |-   |
 |default-9.png   |-  |required   | -  |
 
-### Spinner Set
+### Spinner set
 
 All elements excluding spinner-osu.png and spinner-rpm.png are gameplay relevant. If you include elements labeled as "basic spinner style" in the notes, you **must not** include elements labeled as the "new spinner style".
 
@@ -110,7 +110,7 @@ This is because the basic spinner style will take priority over the new one if b
 
 ## osu!taiko
 
-### Hit Object Set
+### Hit object set
 
 The entirety of this skin set is gameplay relevant.
 
@@ -125,7 +125,7 @@ The entirety of this skin set is gameplay relevant.
 |taiko-roll-end.png   |right half of a circle   |required   |59x118px (half circle) 64x128px (whole file)   |
 |spinner-warning.png   |-   |required   |-   |
 
-### Hitburst Set
+### Hitburst set
 
 The entirety of this skin set is gameplay relevant and all included hitbursts should be clearly distinguishable from each other.
 
@@ -137,7 +137,7 @@ The entirety of this skin set is gameplay relevant and all included hitbursts sh
 | taiko-hit300(-n).png  | -  |required   | -  |
 | taiko-hit300k(-n).png  |-   | required  |-   |
 
-### Pippidon Set
+### Pippidon set
 
 This skin set is not gameplay relevant.
 
@@ -151,7 +151,7 @@ This skin set is not gameplay relevant.
 
 ## osu!catch
 
-### Fruits Set
+### Fruits set
 
 The entirety of this skin set is gameplay relevant.
 
@@ -170,7 +170,7 @@ The entirety of this skin set is gameplay relevant.
 |fruit-drop.png   |-   |required   |82x103px   |
 |fruit-drop-overlay.png   |should be included to guarantee correct display when an user-specific skin has it skinned because the default skin uses a transparent image for this file   |required   |82x103px   |
 
-### Catcher Set
+### Catcher set
 
 All elements besides lightning.png are gameplay relevant.
 For catchers the plate must be perfectly centered and exactly 302px across in width. While the default skin's plate is uncentered, it may be used in beatmap-specific skins.
@@ -184,7 +184,7 @@ For catchers the plate must be perfectly centered and exactly 302px across in wi
 
 ## Interface
 
-### Scorebar Set
+### Scorebar set
 
 The entirety of this skin set is gameplay relevant. Please note that the sizes of the elements within this skin set are handled via a guideline on the Ranking Criteria.
 
@@ -197,7 +197,7 @@ The entirety of this skin set is gameplay relevant. Please note that the sizes o
 |scorebar-kidanger2.png   |-   |required   |-   |
 |scorebar-marker.png   | must be inlcuded to guarantee correct display of the ki and can be a blank file  |required   |-   |
 
-### Score Number Set
+### Score number set
 
 The entirety of this skin set is gameplay relevant. Overlaps or gaps between the numbers themselves are set by the user-specific skin and cannot be influenced within the beatmap itself.
 
@@ -218,7 +218,7 @@ The entirety of this skin set is gameplay relevant. Overlaps or gaps between the
 |score-percent.png   |-   |required   |-   |
 |score-x.png   |can be left out on beatmap sets without osu! difficulties   |required   |-   |
 
-### Mod Icon Set
+### Mod icon set
 
 This skin set is not gameplay relevant. The respective icons can be left out even though they are listed as required if they are not present in any of the gamemodes of the mapset.
 
@@ -252,7 +252,7 @@ This skin set is not gameplay relevant. The respective icons can be left out eve
 |selection-mod-spunout.png   |-   |required   |-   |
 |selection-mod-suddendeath.png   |-   |required   |-   |
 
-### Playfield Set
+### Playfield set
 
 The combobursts and star2.png included in this set are gameplay relevant and all other elements are not gameplay relevant.
 
@@ -267,7 +267,7 @@ The combobursts and star2.png included in this set are gameplay relevant and all
 |play-unranked.png   |-   |optional   |-   |
 |star2.png   |-   |optional   |-   |
 
-### Inputoverlay Set
+### Inputoverlay set
 
 This skin set is not gameplay relevant.
 
@@ -276,7 +276,7 @@ This skin set is not gameplay relevant.
 |inputoverlay-background.png   |must not be skinned in beatmapsets without osu! or osu!catch difficulties   |required   |193x55px   |
 |inputoverlay-key.png   |must not be skinned in beatmapsets without osu! or osu!catch difficulties   |required   |max: 46x46px   |
 
-### Leaderboard Entry Number Set
+### Leaderboard entry number set
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|
@@ -295,7 +295,7 @@ This skin set is not gameplay relevant.
 |scoreentry-percent.png   |-   |required   |12x14px   |
 |scoreentry-x.png   |-   |required   |10x14px   |
 
-### Countdown Set
+### Countdown set
 
 The entirety of this skin set is gameplay relevant. This skin set must not be skinned if the beatmap does not utilise countdowns.
 
@@ -307,7 +307,7 @@ The entirety of this skin set is gameplay relevant. This skin set must not be sk
 |count3.png   |-   |required   |max: 1366x768px   |
 |go.png   |-   |required   |max: 1366x768px   |
 
-### Section Indicator Set
+### Section indicator set
 
 This skin set is not gameplay relevant. This skin set must not be skinned if the beatmap does not contain a break long enough for section indicators to show up.
 
@@ -316,7 +316,7 @@ This skin set is not gameplay relevant. This skin set must not be skinned if the
 |section-fail.png   |-  |required   |max height: 768px   |
 |section-pass.png  |-  |required   |max height: 768px   |
 
-### Grade Indicator Set
+### Grade indicator set
 
 This skin set is not gameplay relevant. This skin set must not be skinned if the beatmap does not contain a break long enough for grade indicators to show up.
 
@@ -331,7 +331,7 @@ This skin set is not gameplay relevant. This skin set must not be skinned if the
 |ranking-x-small.png   |-   |required   |34x40px   |
 |ranking-xh-small.png   |-   |required   |34x40px   |
 
-### Pause Screen Set
+### Pause screen set
 
 |File Name   |Notes   |Set Completion   |Recommended Sizes for SD Skins   |
 |--:|:-:|:-:|:-:|

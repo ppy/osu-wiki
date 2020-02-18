@@ -30,8 +30,8 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 
 | Placing | Prize(s) |
 | :---: | :--- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge and 2 months of osu!supporter |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Profile badge and 2 months of osu!supporter |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter |
 
 ![Standard Badge](img/badge_standard.png) ![Taiko Badge](img/badge_taiko.png) ![Catch Badge](img/badge_catch.png) ![4K Badge](img/badge_4K.png) ![7K Badge](img/badge_7K.png)
 
@@ -40,15 +40,15 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 | Position | Member(s) |
 | :-- | :-- |
 | Management and Organisation | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675) (osu!standard), ![][flag_PH] [Deneb](https://osu.ppy.sh/users/2604212) (osu!taiko), ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103) (osu!catch), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) (osu!mania) |
-| Map Selectors (osu!standard) | ![][flag_PH] [MioMilo](https://osu.ppy.sh/users/2199427), ![][flag_PH] [Nitrous](https://osu.ppy.sh/users/7293512), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608) |
-| Map Selectors (osu!taiko) | ![][flag_PH] [Deneb](https://osu.ppy.sh/users/2604212) |
-| Map Selectors (osu!catch) | ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103), ![][flag_PH] [Chloebe](https://osu.ppy.sh/users/4577865), ![][flag_PH] [JeirYagtama](https://osu.ppy.sh/users/7483452), ![][flag_PH] [-Nicotine](https://osu.ppy.sh/users/4818935) |
-| Map Selectors (osu!mania 4K and 7K) | ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_PH] [JztCallMeRon](https://osu.ppy.sh/users/2471512), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767). ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) |
-| Referees | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_PH] [samosita](https://osu.ppy.sh/users/6090289), ![][flag_PH] [ggnakacarlz](https://osu.ppy.sh/users/4075421), ![][flag_PH] [-MomoX](https://osu.ppy.sh/users/2150415), ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103), ![][flag_PH] [Nezol](https://osu.ppy.sh/users/7509103), ![][flag_PH] [Afireee](https://osu.ppy.sh/users/7919913), ![][flag_PH] [Hues](https://osu.ppy.sh/users/2367206), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Streamers | ![][flag_PH] [aEverr](https://osu.ppy.sh/users/6027084), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810) |
-| Commentators | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [Deneb](https://osu.ppy.sh/users/2604212), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [Awishi](https://osu.ppy.sh/users/4290020), ![][flag_PH] [Toyohime-](https://osu.ppy.sh/users/9770359), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722) |
-| Graphic Designer | ![][flag_PH] [Mira-san](https://osu.ppy.sh/users/4469895) |
-| Statisticians | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936) |
+| Map Selector (osu!standard) | ![][flag_PH] [MioMilo](https://osu.ppy.sh/users/2199427), ![][flag_PH] [Nitrous](https://osu.ppy.sh/users/7293512), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608) |
+| Map Selector (osu!taiko) | ![][flag_PH] [Deneb](https://osu.ppy.sh/users/2604212) |
+| Map Selector (osu!catch) | ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103), ![][flag_PH] [Chloebe](https://osu.ppy.sh/users/4577865), ![][flag_PH] [JeirYagtama](https://osu.ppy.sh/users/7483452), ![][flag_PH] [-Nicotine](https://osu.ppy.sh/users/4818935) |
+| Map Selector (osu!mania 4K and 7K) | ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_PH] [JztCallMeRon](https://osu.ppy.sh/users/2471512), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767). ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497) |
+| Referee | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_PH] [samosita](https://osu.ppy.sh/users/6090289), ![][flag_PH] [ggnakacarlz](https://osu.ppy.sh/users/4075421), ![][flag_PH] [-MomoX](https://osu.ppy.sh/users/2150415), ![][flag_PH] [Roido](https://osu.ppy.sh/users/6829103), ![][flag_PH] [Nezol](https://osu.ppy.sh/users/7509103), ![][flag_PH] [Afireee](https://osu.ppy.sh/users/7919913), ![][flag_PH] [Hues](https://osu.ppy.sh/users/2367206), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Streamer | ![][flag_PH] [aEverr](https://osu.ppy.sh/users/6027084), ![][flag_PH] [Ainyan](https://osu.ppy.sh/users/3770641), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810) |
+| Commentator | ![][flag_PH] [Zaphirox](https://osu.ppy.sh/users/2478675), ![][flag_PH] [Deneb](https://osu.ppy.sh/users/2604212), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [Awishi](https://osu.ppy.sh/users/4290020), ![][flag_PH] [Toyohime-](https://osu.ppy.sh/users/9770359), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722) |
+| Designer | ![][flag_PH] [Mira-san](https://osu.ppy.sh/users/4469895) |
+| Statistician | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936) |
 
 ## Links
 
@@ -63,7 +63,7 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
   - [osu!mania 4K](https://challonge.com/oPHF2018_4K)
   - [osu!mania 7K](https://challonge.com/oPHF2018_7K)
 
-------------------------
+---
 
 ## Qualified Participants
 
@@ -135,7 +135,7 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 ### osu!mania 4K
 
 | Seed | Player |
-|---|---|  
+|---|---|
 | 1 | [arge-](https://osu.ppy.sh/users/9919550) |
 | 2 | [Baltz](https://osu.ppy.sh/users/6083463) |
 | 3 | [Silhoueska Elze](https://osu.ppy.sh/users/11517895) |
@@ -156,7 +156,7 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 ### osu!mania 7K
 
 | Seed | Player |
-|---|---|   
+|---|---|
 | 1 | [Nikana](https://osu.ppy.sh/users/4345491) |
 | 2 | [Cielo Day](https://osu.ppy.sh/users/2722489) |
 | 3 | [FeveredNickel](https://osu.ppy.sh/users/7331952) |
@@ -168,7 +168,7 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 | 9 | [Keishii](https://osu.ppy.sh/users/8381177) |
 | 10 | [Shawntell](https://osu.ppy.sh/users/7384938) |
 
-------------------------
+---
 
 ## Tournament Winners
 
@@ -178,43 +178,43 @@ The following players are the people who managed to pull through the whole compe
 
 | Placing | User |
 |:---:|---|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [Stereo](https://osu.ppy.sh/users/1499137) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [TyrantsEye2014](https://osu.ppy.sh/users/4530738) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [ededed028](https://osu.ppy.sh/users/3932796), [zonelouise](https://osu.ppy.sh/users/1492995) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | [Stereo](https://osu.ppy.sh/users/1499137) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | [TyrantsEye2014](https://osu.ppy.sh/users/4530738) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | [ededed028](https://osu.ppy.sh/users/3932796), [zonelouise](https://osu.ppy.sh/users/1492995) |
 
 ### osu!taiko Division
 
 | Placing | User |
 |:---:|---|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [Pochacco](https://osu.ppy.sh/users/2927742) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [Rimazii](https://osu.ppy.sh/users/3831514) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [yuki\_momoiro722](https://osu.ppy.sh/users/7186791) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | [Pochacco](https://osu.ppy.sh/users/2927742) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | [Rimazii](https://osu.ppy.sh/users/3831514) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | [yuki\_momoiro722](https://osu.ppy.sh/users/7186791) |
 
 ### osu!catch Division
 
 | Placing | User |
 |:---:|---|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [- Kielzu -](https://osu.ppy.sh/users/6221114) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [KaganimeRin](https://osu.ppy.sh/users/1626093) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [Crowley](https://osu.ppy.sh/users/6341006) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | [- Kielzu -](https://osu.ppy.sh/users/6221114) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | [KaganimeRin](https://osu.ppy.sh/users/1626093) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | [Crowley](https://osu.ppy.sh/users/6341006) |
 
 ### osu!mania 4K Division
 
 | Placing | User |
 |:---:|---|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [arge-](https://osu.ppy.sh/users/9919550) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [Baltz](https://osu.ppy.sh/users/6083463) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [Shiyui-](https://osu.ppy.sh/users/9374607) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | [arge-](https://osu.ppy.sh/users/9919550) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | [Baltz](https://osu.ppy.sh/users/6083463) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | [Shiyui-](https://osu.ppy.sh/users/9374607) |
 
 ### osu!mania 7K Division
 
 | Placing | User |
 |:---:|---|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [Nikana](https://osu.ppy.sh/users/4345491) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [fer789](https://osu.ppy.sh/users/8901267) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [Cielo Day](https://osu.ppy.sh/users/2722489) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | [Nikana](https://osu.ppy.sh/users/4345491) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | [fer789](https://osu.ppy.sh/users/8901267) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | [Cielo Day](https://osu.ppy.sh/users/2722489) |
 
-------------------------
+---
 
 ## Mappools
 
@@ -743,7 +743,7 @@ The following players are the people who managed to pull through the whole compe
   - [Proc Fiskal - MONK Clip (Lenfried-) \[Jank\]](https://osu.ppy.sh/beatmaps/1817705)
   - [DJ YOSHITAKA - FLOWER (Raveille) \[Air Blossom\]](https://osu.ppy.sh/beatmaps/1817772)
   - [M2U remixed celas - Legend of Seeker (Kamikaze) [Despair]](https://osu.ppy.sh/beatmaps/1817750)
-  
+
 ### osu!mania 7K
 
 #### Finals Week 2
@@ -791,7 +791,6 @@ The following players are the people who managed to pull through the whole compe
   - [Gothpheus - Rosen Vampir (Alumetorz) \[Pew's World\]](https://osu.ppy.sh/beatmaps/323389)
 - Tiebreaker
   - [**aaaa - Bokutachi no Tabi to Epilogue.\[Long ver.\] (ArcherLove) \[Caramel\]**](https://osu.ppy.sh/beatmaps/1041584)
-  
 
 #### Round 3
 
@@ -864,7 +863,7 @@ The following players are the people who managed to pull through the whole compe
   - [EX Industry - Memory (Cryolien) \[Fragments\]](https://osu.ppy.sh/beatmaps/1825737)
   - [OG Mako - yusa??o?"?yusa?seyoku$B%i!\&lt\;%a%s(B" (Lenfried-) \[in memoriam\]](https://osu.ppy.sh/beatmaps/1825680)
 
-------------------------
+---
 
 ## Match Results
 
@@ -1175,7 +1174,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/1dxo-VvuNF7YIl759bPsT7ImwKDDSyot3w1-d_8JUNWw/edit?usp=sharing)
 
-------------------------
+---
 
 ## Rules
 
@@ -1196,30 +1195,31 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 - Rules for mod usage are indicated below. The mod will be applied if the beatmap chosen is included in a specific category in the mappool.
   - **NoMod** - No mod is to be used at all for the beatmap.
-  - **HR (HardRock)** – The HardRock mod will be used by both participants if the map chosen falls into the Hard Rock category of the mappool.
-  - **HD (Hidden)** – The Hidden mod will be used by both participants if the map chosen falls into the Hidden category of the mappool.
+  - **HR (HardRock)** - The HardRock mod will be used by both participants if the map chosen falls into the Hard Rock category of the mappool.
+  - **HD (Hidden)** - The Hidden mod will be used by both participants if the map chosen falls into the Hidden category of the mappool.
   - **DT (DoubleTime)** - The DoubleTime mod will be used by both participants if the map chosen falls into the Double Time category of the mappool.
-  - **FreeMod** – Both contestants must use either Hidden or Hard Rock mods if the map chosen falls into the FreeMod category of the mappool.
+  - **FreeMod** - Both contestants must use either Hidden or Hard Rock mods if the map chosen falls into the FreeMod category of the mappool.
 
 #### osu!taiko
 
 - Rules for mod usage are indicated below. The mod will be applied if the beatmap chosen is included in a specific category in the mappool.
   - **NoMod** - No mod is to be used at all for the beatmap.
-  - **HR (HardRock)** – The HardRock mod will be used by both participants if the map chosen falls into the Hard Rock category of the mappool.
-  - **HD (Hidden)** – The Hidden mod will be used by both participants if the map chosen falls into the Hidden category of the mappool.
-  - **DT (DoubleTime)** – The DoubleTime mod will be used by both participants if the map chosen falls into the Double Time category of the mappool.
-  - **FreeMod** – Both contestants must use either Hidden or Hard Rock mods if the map chosen falls into the FreeMod category of the mappool.
+  - **HR (HardRock)** - The HardRock mod will be used by both participants if the map chosen falls into the Hard Rock category of the mappool.
+  - **HD (Hidden)** - The Hidden mod will be used by both participants if the map chosen falls into the Hidden category of the mappool.
+  - **DT (DoubleTime)** - The DoubleTime mod will be used by both participants if the map chosen falls into the Double Time category of the mappool.
+  - **FreeMod** - Both contestants must use either Hidden or Hard Rock mods if the map chosen falls into the FreeMod category of the mappool.
 
 #### osu!catch
 
 - Rules for mod usage are indicated below. The mod will be applied if the beatmap chosen is included in a specific category in the mappool.
   - **NoMod** - No mod is to be used at all for the beatmap.
-  - **HR (HardRock)** – The HardRock mod will be used by both participants if the map chosen falls into the Hard Rock category of the mappool.
-  - **HD (Hidden)** – The Hidden mod will be used by both participants if the map chosen falls into the Hidden category of the mappool.
-  - **DT (DoubleTime)** – The DoubleTime mod will be used by both participants if the map chosen falls into the Double Time category of the mappool.
+  - **HR (HardRock)** - The HardRock mod will be used by both participants if the map chosen falls into the Hard Rock category of the mappool.
+  - **HD (Hidden)** - The Hidden mod will be used by both participants if the map chosen falls into the Hidden category of the mappool.
+  - **DT (DoubleTime)** - The DoubleTime mod will be used by both participants if the map chosen falls into the Double Time category of the mappool.
 - The use of **HD (Hidden)** is permitted when the map being picked is in the **HR (Hard Rock)** or **DT (Double Time)** bracket.
 
 #### osu!mania
+
 - For both osu!mania 4K and 7K, the tournament will assume the **osu!mania FreeMod** rule. This permits the usage of **HD (Hidden)**, **FI (FadeIn)**, or **FL (Flashlight)** during a pick.
 
 ### Eligibility and Registration

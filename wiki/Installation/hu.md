@@ -15,11 +15,13 @@ Ez az oldal nagyjából leírja, hogyan tudod működésre bírni a játékot az
 ##### Windows
 
 ###### Minimális rendszerkövetelmények
+
 - 1 GHz+ Processzor
 - 512 MB+ RAM
 - [Microsoft .NET Framework (3.5+)](http://www.microsoft.com/en-us/download/details.aspx?id=22)
 
 ###### A telepítés menete
+
 - Töltsd le az [osu! telepítőt](https://osu.ppy.sh/p/download).
 - Keresd meg a letöltött fájlt, kattints rá duplán és kövesd a megjelenő utasításokat a telepítéshez.
 - Futtasd a játékot az újonnan létrejött osu! ikonra történő dupla kattintással, vagy a Start menüben megjelent új elemre való kattintással.
@@ -28,7 +30,9 @@ Ez az oldal nagyjából leírja, hogyan tudod működésre bírni a játékot az
 - Jó szórakozást!
 
 ###### Beatmapek hozzáadása
+
 A beatmapek .osz fájlok. Ezek tartalmazzák a zenét és egyéb, a játékhoz szükséges elemeket.
+
 - Menj a [beatmap listing](https://osu.ppy.sh/p/beatmaplist) oldalra. Keress egy számot, ami tetszik, majd kattints a címére, hogy megnyisd a weboldalát.
 - Letölteni a nagy rózsaszín "Download beatmap!" gombra való kattintással tudod (vagy, ha ez elérhető, a lila "Without Video" gombbal, ha videó nélkül szeretnéd a mapet).
 - Jelenleg több módon is telepíthetsz beatmapeket az osu!-hoz:
@@ -43,15 +47,18 @@ Arra figyelj, hogy az bizonyos idő alatt letölthető beatmapek száma korláto
 ##### OS X (beta verzió)
 
 ###### A telepítés menete
+
 - Látogass el a [letöltési oldalra](https://osu.ppy.sh/p/download) és kattints az "OS X installer" lehetőségre a legfrissebb verzió letöltéséhez.
 - [Kövesd ezeket az utasításokat](http://www.ofzenandcomputing.com/how-to-install-dmg-files-mac/) a .dmg fájl Mac-edre telepítéséhez.
 - Futtasd az osu!-t
   - Az első indítás akár 5 percig is eltarthat. Ez azért van, mert az X11 (grafikai alrendszer) újjáépíti a betűkészlet-gyorsítótárat.
 
 ###### Beatmapek hozzáadása
->[Eredeti hozzászólás](https://osu.ppy.sh/community/forums/posts/909738)
+
+> [Eredeti hozzászólás](https://osu.ppy.sh/community/forums/posts/909738)
 
 Képes útmutatóért kattints az Eredeti hozzászólás linkre.
+
 - Kattints jobb gombbal az osu!.app-ra és válaszd a "Csomag tartalmának mutatása" lehetőséget
   - Ha csak egy .osz fájlt mozgatsz, húzd közvetlenül az osu!.app ikonra. A map automatikusan ki lesz csomagolva.
 - Navigálj ide: "Contents/Resources/winePrefix/drive_c/osu/Songs"
@@ -60,37 +67,41 @@ Képes útmutatóért kattints az Eredeti hozzászólás linkre.
   - Az importálás megakadhat. Ha ez történik, próbáld meg az Alt+F4-et vagy az Esc-et püfölni, vagy lépj ki és próbáld újra.
 
 ###### Megjegyzések
+
 - Ez a változat minden megnyitásnál futtatni fogja a frissítőt. Automatikusan frissít újabb verziókra, így folyamatosan kapod a javításokat.
 - [Nem megerősített, érvényes-e még] Az online helyezések és a Bancho kapcsolatok jelenleg nem működnek. Ez a közeljövőben javítva lesz.
 - A Songs mappához létrehozhatsz egy parancsikont úgy, hogy a command és option nyomva tartása mellett kihúzod a mappát az asztalra. Az új mapek hozzáadása így talán kicsit könnyebb.
 
 ##### Linux (Wine használatával)
->Ez az útmutató lehet, hogy nem friss! Látogass el [ennek a témának az utolsó oldalaira](https://osu.ppy.sh/community/forums/topics/14614) a fórumon, hogy lásd, mit mond a közösség az osu! újabb verzióinak telepítéséről.
+
+> Ez az útmutató lehet, hogy nem friss! Látogass el [ennek a témának az utolsó oldalaira](https://osu.ppy.sh/community/forums/topics/14614) a fórumon, hogy lásd, mit mond a közösség az osu! újabb verzióinak telepítéséről.
 
 ###### A telepítés menete
+
 1. A telepítés előtt
-  - Ellenőrizd a grafikus kártyád.
-    - A legjobb eredmények eléréshez szerezz nVIDIA chipset-es kártyát.
-    - Intel grafikus kártyáknál be kell kapcsolnod a Vsync-et.
-    - AMD HD**** kártyák esetén ki kell kapcsolnod a shader-eket.
-  - Telepítsd a "Wine"-t. (Ha még nem tetted meg)
+   - Ellenőrizd a grafikus kártyád.
+     - A legjobb eredmények eléréshez szerezz nVIDIA chipset-es kártyát.
+     - Intel grafikus kártyáknál be kell kapcsolnod a Vsync-et.
+     - AMD HD**** kártyák esetén ki kell kapcsolnod a shader-eket.
+   - Telepítsd a "Wine"-t. (Ha még nem tetted meg)
 2. A Wine működésre bírása
-  - Ubuntu/GNU/LINUX Debian esetén csak írd be ezt a parancsot:
-    - sudo apt-get -y install wine
-  - Gentoo / Sabayon esetén:
-    - emerge wine
-  - For Fedora esetén:
-    - sudo yum install wine
-  - Bármilyen más rendszer esetén olvasd el a rendszer telepítési útmutatóját.
+   - Ubuntu/GNU/LINUX Debian esetén csak írd be ezt a parancsot:
+     - sudo apt-get -y install wine
+   - Gentoo / Sabayon esetén:
+     - emerge wine
+   - For Fedora esetén:
+     - sudo yum install wine
+   - Bármilyen más rendszer esetén olvasd el a rendszer telepítési útmutatóját.
 3. Az osu! működésre bírása
-  - A winetricks használatára lesz szükséged...
-    - Normál felhasználóként,
-      - winetricks install dotnet20 xna31
-  - Le kell töltened egy zipelt osu! build-et, mert a telepítő nem fog működni
-    - Itt beszerezheted (?).
-  - Tömörítsd ki és futtasd a frissítőt.
+   - A winetricks használatára lesz szükséged...
+     - Normál felhasználóként,
+       - winetricks install dotnet20 xna31
+   - Le kell töltened egy zipelt osu! build-et, mert a telepítő nem fog működni
+     - Itt beszerezheted (?).
+   - Tömörítsd ki és futtasd a frissítőt.
 
 ###### Beatmapek hozzáadása
+
 - Hamarosan!
 
 ### Android eszközök
@@ -98,7 +109,8 @@ Képes útmutatóért kattints az Eredeti hozzászólás linkre.
 #### osu!droid (nem hivatalos, készítette Pesets és neico)
 
 ##### A telepítés menete (telefonnal)
->[Eredeti hozzászólás](https://osu.ppy.sh/community/forums/topics/62680)
+
+> [Eredeti hozzászólás](https://osu.ppy.sh/community/forums/topics/62680)
 
 - 3 lehetőséged van. Válaszd bármelyiket.
   - Ellátogatás az [osu!droid Google Play oldalára](https://play.google.com/store/apps/details?id=ru.nsu.ccfit.zuev.osu) (Javasolt!)
@@ -108,6 +120,7 @@ Képes útmutatóért kattints az Eredeti hozzászólás linkre.
 - Az osu!droid már telepítve is van az eszközödön!
 
 ##### A telepítés menete (USB-vel)
+
 - Használd [ezt a letöltési linket](https://dl.dropbox.com/u/45596631/osudroid1.5.5/osudroid.apk) (osu!droid.apk ver. 1.5.5)
 - Töltsd le az .apk fájlt.
 - Másold át a fájlt az eszközödre USB-n keresztül (Bluetooth is használható, de az USB sokkal gyorsabb).
@@ -117,16 +130,20 @@ Képes útmutatóért kattints az Eredeti hozzászólás linkre.
 - Az osu!droid már telepítve is van az eszközödön!
 
 ##### Beatmapek hozzáadása
->Megjegyzés: A fent említett Eredeti hozzászólás képes útmutatót is tartalmaz!
+
+> Megjegyzés: A fent említett Eredeti hozzászólás képes útmutatót is tartalmaz!
 
 ##### Okostelefonról
+
 - Nyisd meg a böngészőt és jelentkezz be az osu.ppy.sh -n.
   - Fontos: Nem minden böngésző tud beatmapeket letölteni az osu.ppy.sh-ról. Használj Opera Mobile-t, Firefoxot vagy Chrome-ot.
 - Válaszd ki a letölteni kívánt beatmapet.
 - Letöltési könyvtárnak válaszd ezt: "/mnt/sdcard/osu!droid/" (Ez az alapértelmezett)
 - Várj amíg a beatmap letöltődik
 - Az osu!droid következő indításánál a beatmap automatikusan importálva lesz
+
 ##### USB-ről
+
 - Csatlakoztasd az eszközödet a PC-hez USB kábellel
 - Azt, hogy hová másolod a fájlokat a típusuk határozza meg:
   - Ha **.osz vagy .zip fájljaid** vannak, másold őket az eszközöd osu!droid könyvtárába.
@@ -139,16 +156,20 @@ Képes útmutatóért kattints az Eredeti hozzászólás linkre.
 #### osu! iPhone (nem hivatalos, készítette nuudles)
 
 ##### A telepítés menete
+
 - Kövesd [ezt a linket](https://osu.ppy.sh/community/forums/topics/176495) egy útmutatóért, amely lépésről-lépésre bemutatja, hogyan kell telepíteni az osu! iPhone-t egy jailbreakelt iOS 7.0.4-es eszközre.
 
 #### osu!stream
 
 ##### A telepítés menete
+
 Figyelem: Az osu!stream *NEM* az osu!.
->Ez egy másik, osu!-hoz nagyon hasonló játék, de saját funkciói és helyezési rendszere van.
+
+> Ez egy másik, osu!-hoz nagyon hasonló játék, de saját funkciói és helyezési rendszere van.
 
 ##### App Store módszer (Javasolt)
->Bizonyosodj meg róla, hogy az eszközöd tud csatlakozni az internetre (WiFi vagy 3G/4G által).
+
+> Bizonyosodj meg róla, hogy az eszközöd tud csatlakozni az internetre (WiFi vagy 3G/4G által).
 
 - Menj az "App Store"-ra
 - Keress az osu!stream-re
@@ -158,7 +179,8 @@ Figyelem: Az osu!stream *NEM* az osu!.
   - Javasolt, hogy olvasd el a "Beatmapek hozzáadása" részt, hogy megkapd a legfrissebb ingyenes zenecsomagot. Letöltésnél csak 2 zenéd van.
 
 ##### USB-módszer
->A számítógépeden telepítve kell legyen az [iTunes](https://www.apple.com/itunes/).
+
+> A számítógépeden telepítve kell legyen az [iTunes](https://www.apple.com/itunes/).
 
 - Látogass el [erre a linkre és töltsd le](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)
   - Ha kérik az Apple ID-d és a jelszavad, írd be őket.
@@ -167,7 +189,8 @@ Figyelem: Az osu!stream *NEM* az osu!.
 - Húzd ki az eszközt, az osu!stream már játszható is.
 
 ##### Beatmapek hozzáadása
->Bizonyosodj meg róla, hogy az eszközöd tud csatlakozni az internetre (WiFi vagy 3G/4G által).
+
+> Bizonyosodj meg róla, hogy az eszközöd tud csatlakozni az internetre (WiFi vagy 3G/4G által).
 
 - Nyisd meg az osu!stream-et.
 - Nyomj az osu! szimbólumra, ekkor a főmenübe kerülsz (vagy a tutorialhoz, ha ez az első indítás)
@@ -180,38 +203,38 @@ Figyelem: Az osu!stream *NEM* az osu!.
 
 ### osu!
 
--   **Megpróbálom futtatni az osu!-t, de "Initialization Error"-t kapok**
-    -   Bizonyosodj meg róla, hogy telepítve van a [.NET Framework 3.5](http://www.microsoft.com/en-us/download/details.aspx?id=22).
--   **Miért nem tudok letölteni beatmapeket a listából?**
-    -   Előbb regisztrálnod kell a weboldalon. A regisztráció ingyenes és gyors, valamint letölthetsz vele beatmapeket, bekerülhetsz az online ranglistákba és más játékosokkal is chatelhetsz a játékon belül. Ne keresd a kifogásokat, hogy miért nem regisztrálsz!
--   **Nem tudok játszani a beatmappel, amit letöltöttem!**
-    -   A fájlod nem teljes, vagy megsérült. Nem szakítottad meg véletlenül a letöltést félúton? Ha így tettél, keresd meg újra a számot, töltsd le újra és várj, amíg a letöltés befejeződik.
-        -   Az osu! a nem teljes/megsérült számot a "Failed" mappába helyezi a "Songs" mappán belül.
--   **Egyéb hiba?**
-    -   Ha hibát találsz, ami a fenti listában nem szerepel, vess egy pillantást a [Bug Reports fórumra](https://osu.ppy.sh/community/forums/5), és (miután megbizonyosodtál róla, hogy más még nem jelentette) hozz létre egy témát vele kapcsolatban. Valaki biztosan látni fogja és segíteni fog. Írd le a problémád tisztán és érthetően, valamint támaszd alá bizonyítékkal is (képernyőkép, videó és/vagy lépések, amikkel előidézhető).
-    -   Fontold meg az osu! IRC csatorna használatát is, ha valamiért nem akarsz a fórumba írni.
+- **Megpróbálom futtatni az osu!-t, de "Initialization Error"-t kapok**
+  - Bizonyosodj meg róla, hogy telepítve van a [.NET Framework 3.5](http://www.microsoft.com/en-us/download/details.aspx?id=22).
+- **Miért nem tudok letölteni beatmapeket a listából?**
+  - Előbb regisztrálnod kell a weboldalon. A regisztráció ingyenes és gyors, valamint letölthetsz vele beatmapeket, bekerülhetsz az online ranglistákba és más játékosokkal is chatelhetsz a játékon belül. Ne keresd a kifogásokat, hogy miért nem regisztrálsz!
+- **Nem tudok játszani a beatmappel, amit letöltöttem!**
+  - A fájlod nem teljes, vagy megsérült. Nem szakítottad meg véletlenül a letöltést félúton? Ha így tettél, keresd meg újra a számot, töltsd le újra és várj, amíg a letöltés befejeződik.
+    - Az osu! a nem teljes/megsérült számot a "Failed" mappába helyezi a "Songs" mappán belül.
+- **Egyéb hiba?**
+  - Ha hibát találsz, ami a fenti listában nem szerepel, vess egy pillantást a [Bug Reports fórumra](https://osu.ppy.sh/community/forums/5), és (miután megbizonyosodtál róla, hogy más még nem jelentette) hozz létre egy témát vele kapcsolatban. Valaki biztosan látni fogja és segíteni fog. Írd le a problémád tisztán és érthetően, valamint támaszd alá bizonyítékkal is (képernyőkép, videó és/vagy lépések, amikkel előidézhető).
+  - Fontold meg az osu! IRC csatorna használatát is, ha valamiért nem akarsz a fórumba írni.
 
 ### osu!droid
 
--   Mely Android verziók támogatottak?
-    -   Minden 1.6 (Donut)-nál újabb.
--   Várható Storyboard/videó támogatás?
-    -   Nem.
--   Lesz benne <funkció neve>?
-    -   Funkciókat a [feature requests témában](https://osu.ppy.sh/community/forums/topics/62313) kérhetsz.
+- Mely Android verziók támogatottak?
+  - Minden 1.6 (Donut)-nál újabb.
+- Várható Storyboard/videó támogatás?
+  - Nem.
+- Lesz benne <funkció neve>?
+  - Funkciókat a [feature requests témában](https://osu.ppy.sh/community/forums/topics/62313) kérhetsz.
 
 ## Külső hivatkozások
 
--   peppy GYIK [1](https://osu.ppy.sh/p/faq)
--   peppy letöltések oldala [2](https://osu.ppy.sh/p/download)
--   peppy osu! (OS X) tesztváltozata [3](https://osu.ppy.sh/community/forums/posts/909738)
--   mattyu007 - Hogyan futtasd az osu!-t a Mac-eden Boot Camp használata nélkül [4](https://osu.ppy.sh/community/forums/topics/14664/)
--   KcLKcL megoldása: Osu! futtatása Ubuntu-ban vagy xubuntu-ban [5](https://osu.ppy.sh/forum/viewtopic.php?f=2&t=14614)
--   doomed151 - Általános információk és letöltés (osu!droid) [6](https://osu.ppy.sh/community/forums/topics/62680)
-    -   Hivatalos weboldal [7](http://osudroid.com/)
-    -   Pesets osu!droid Changelog-ja [8](https://osu.ppy.sh/community/forums/topics/62315)
-    -   osu!droid Google Play oldal [9](https://play.google.com/store/apps/details?id=ru.nsu.ccfit.zuev.osu)
--   Guy-kun T-Aiko!-ja Android-ra [10](https://osu.ppy.sh/community/forums/topics/58640)
-    -   T-Aiko Google Play oldal [11](https://play.google.com/store/apps/details?id=guy.taiko&feature=search_result)
--   peppy osu!stream hivatalos oldala [12](http://osustream.com/)
-    -   osu!stream App Store oldala [13](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)
+- peppy GYIK [1](https://osu.ppy.sh/p/faq)
+- peppy letöltések oldala [2](https://osu.ppy.sh/p/download)
+- peppy osu! (OS X) tesztváltozata [3](https://osu.ppy.sh/community/forums/posts/909738)
+- An unofficial guide on [installing osu! on macOS](/wiki/Installation/macOS)
+- KcLKcL megoldása: Osu! futtatása Ubuntu-ban vagy xubuntu-ban [5](https://osu.ppy.sh/forum/viewtopic.php?f=2&t=14614)
+- doomed151 - Általános információk és letöltés (osu!droid) [6](https://osu.ppy.sh/community/forums/topics/62680)
+  - Hivatalos weboldal [7](http://osudroid.com/)
+  - Pesets osu!droid Changelog-ja [8](https://osu.ppy.sh/community/forums/topics/62315)
+  - osu!droid Google Play oldal [9](https://play.google.com/store/apps/details?id=ru.nsu.ccfit.zuev.osu)
+- Guy-kun T-Aiko!-ja Android-ra [10](https://osu.ppy.sh/community/forums/topics/58640)
+  - T-Aiko Google Play oldal [11](https://play.google.com/store/apps/details?id=guy.taiko&feature=search_result)
+- peppy osu!stream hivatalos oldala [12](http://osustream.com/)
+  - osu!stream App Store oldala [13](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)

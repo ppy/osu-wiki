@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 # skin.ini
 
 *See also: [skin.ini/Blank](/wiki/Skinning/skin.ini/Blank)*
@@ -84,6 +88,20 @@ If your `skin.ini` does not specify a `Version`, it will default to this version
   - `NoteBodyStyle` (stretch, cascade from top, cascade from bottom)
   - `LightingNWidth` and `LightingLWidth`
 
+### 2.6
+
+**Allow per-type skinning of arrows**
+
+- Adds `arrow-generic.png`, `arrow-warning.png` and `arrow-pause.png`.
+- Removes `play-warningarrow.png`.
+
+### 2.7
+
+**osu!mania specific combobursts**
+
+- Adds `comboburst-mania.png`.
+  - Displays on the right side of the stage.
+
 ### latest
 
 **Always the newest version**
@@ -117,7 +135,7 @@ Here is a classic example:
 
 | `SliderBallFlip: 0`        | `SliderBallFlip: 1`        |
 |:--------------------------:|:--------------------------:|
-| ![](Sliderball_flip-0.gif) | ![](Sliderball_flip-1.gif) |
+| ![](img/Sliderball_flip-0.gif) | ![](img/Sliderball_flip-1.gif) |
 
 Note that Reisen, the sliderball, does **not** flip when `0` is used. However, Reisen does flip when a `1` is used. Depending on what spite is used, you will either get a moonwalking sliderball, or one that turns around.
 

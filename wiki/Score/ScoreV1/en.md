@@ -1,9 +1,15 @@
+---
+needs_cleanup: true
+---
+
+<!-- TODO: might be a useless article -->
+
 <!-- wiki -->
-[Score main wikilink]: ../ "Score"
-[osu! wikilink]: /wiki/Game_Modes/osu!/ "osu!"
-<!-- [osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko/ "osu!taiko" -->
-[osu!catch wikilink]: /wiki/Game_Modes/osu!catch/ "osu!catch"
-<!-- [osu!mania wikilink]: /wiki/Game_Modes/osu!mania/ "osu!mania" -->
+[Score main wikilink]: .. "Score"
+[osu! wikilink]: /wiki/Game_Modes/osu! "osu!"
+<!-- [osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko "osu!taiko" -->
+[osu!catch wikilink]: /wiki/Game_Modes/osu!catch "osu!catch"
+<!-- [osu!mania wikilink]: /wiki/Game_Modes/osu!mania "osu!mania" -->
 
 [CS wikilink]: /wiki/Beatmap_Editor/Song_Setup "more info can be found on Song Setup under Circle Size"
 [HP wikilink]: /wiki/Beatmap_Editor/Song_Setup "more info can be found on Song Setup under HP Drain"

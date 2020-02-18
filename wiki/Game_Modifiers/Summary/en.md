@@ -1,9 +1,15 @@
+---
+needs_cleanup: true
+outdated: true
+---
+<!-- TODO: outdated because there are missing mods (update with Game_Modifiers) -->
+
 [o!s]: /wiki/shared/mode/osu.png "osu!standard"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
 [o!c]: /wiki/shared/mode/catch.png "osu!catch"
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
 
-# Summary
+# Summary of game modifiers
 
 Note: All mods used in osu!mania will never increase the score multiplier.
 

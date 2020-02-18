@@ -6,15 +6,15 @@ outdated: true
 
 ![OWC 2014 logo](img/logo.png)
 
-**osu! World Cup 2014** — это всемирный турнир по osu!, проводящийся группой [Tournament Management](https://osu.ppy.sh/groups/26). История этих турниров ведёт начало с 2010-го года. Победителем предыдущего турнира была **![](Kr.gif "fig:Kr.gif") Южная Корея**.
+**osu! World Cup 2014** — это всемирный турнир по osu!, проводящийся группой [Tournament Management](https://osu.ppy.sh/groups/26). История этих турниров ведёт начало с 2010-го года. Победителем предыдущего турнира была ![][flag_KR] **Южная Корея**.
 
 Соревнование подошло к концу и результаты таковы:
 
 | Placing                                                    | Country                                     |
 |------------------------------------------------------------|---------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | ![][flag_JP] **Япония**   |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_PL] **Польша**   |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_DE] **Германия** |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | ![][flag_JP] **Япония**   |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PL] **Польша**   |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_DE] **Германия** |
 
 ## Расписание турнира
 
@@ -33,9 +33,9 @@ outdated: true
 
 | Placing                                                    | Prizes                                                                              |
 |------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | Саппорт на полгода, профильная иконка, титул "osu! Champion", приз от администрации |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Саппорт на три месяца                                                               |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Саппорт на один месяц                                                               |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | Саппорт на полгода, профильная иконка, титул "osu! Champion", приз от администрации |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Саппорт на три месяца                                                               |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Саппорт на один месяц                                                               |
 
 ## Организация турнира
 

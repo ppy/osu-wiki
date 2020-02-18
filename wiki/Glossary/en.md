@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 # Glossary
 
 Throughout the years, the osu! community has adopted its own set of slang that may be confusing for newcomers. This page is a compilation of such terms for reference. Additions and edits are always welcome.
@@ -235,6 +239,8 @@ In osu!catch, once a comboset is completed, the fruit will jump off of the plate
 
 ### Cookie
 
+*For cookie usage guidelines, see: [Brand identity guidelines](/wiki/Brand_identity_guidelines)*
+
 ![Screenshot of the main menu](img/Intro_static.jpg "The cookie is typically used to describe the circular osu! logo which appears at the very start of the game, and refers to its shape.")
 
 Another word for the osu! logo. This has appeared many times in the osu! client. The cookie is seen in the main menu, solo mode, and previously in old crash reports as seen below.
@@ -309,6 +315,12 @@ A term used when a player completes a beatmap while obtaining the maximum combo 
 
 Due to the [combo multiplier effect](#combo-multiplier-effect), full combos will give the most score in the osu!standard, osu!taiko, and osu!catch modes.
 
+### Featured Artist
+
+*Main page: [Featured Artists](/wiki/Featured_Artists)*
+
+A featured artist is an artist who has officially licensed their music for use in osu!. Their music has been cleared by the osu! team and their songs are suitable for beatmapping. All tracks from featured artists include a pre-timed `.osz` file to help you focus on beatmapping.
+
 ## G
 
 ### Geki
@@ -357,20 +369,24 @@ More than one guest creator is allowed to contribute to a beatmapset, including 
 
 ## H
 
-### Hit Sound
+### Hitsound
 
-Hit sounds are the sounds that osu! plays in response to user input when completing one of the hit objects in the game. This is in contrast to the underlying music and sounds created by the user interface.
+Hitsounds are the sounds that osu! plays in response to user input when completing one of the hit objects in the game. This is in contrast to the underlying music and sounds created by the user interface.
 
-Hit sounds are used to provide an auditory feedback mechanism to the player to help them judge their timing. These are complementary to approach circles and spacing which are the visual mechanisms used to communicate timing information.
+Hitsounds are used to provide an auditory feedback mechanism to the player to help them judge their timing. These are complementary to approach circles and spacing which are the visual mechanisms used to communicate timing information.
 
-There are 4 types of hit sounds:
+There are 4 types of hitsounds:
 
 - *(normal)* (used when none of the below are used)
 - whistle
 - clap
 - finish
 
-These are added to make the hit sounds sound more expressive and let the player feel more like they are part of the music. osu! provides a wide array of hit sounds (eight in the stable release, since upgraded to twelve). Though, creators can go further add up to 24 more. Sliders also have ambient sound effects when they are being performed successfully, including a recurrent ticking sound which matches the beat.
+These are added to make the hitsounds sound more expressive and let the player feel more like they are part of the music. osu! provides a wide array of hitsounds (eight in the stable release, since upgraded to twelve). Though, creators can go further add up to 24 more. Sliders also have ambient sound effects when they are being performed successfully, including a recurrent ticking sound which matches the beat.
+
+### Hype
+
+Unranked beatmaps gain exposure by receiving `Hype` posts on their discussion threads. These posts can only be made in the `General (All difficulties)` tab of a [beatmap discussion](/wiki/Beatmap_Discussion). A beatmap needs 5 hypes before it is elligible for nomination.
 
 ## I
 
@@ -408,7 +424,7 @@ Keep in mind that overuse or misuse of kiai can be disorienting! Thus [creators]
 
 ### Kudosu!
 
-*For a guide on rewarding kudosu!, see: [Beatmap Discussion/Kudosu!](/wiki/Beatmap_Discussion/en.md#kudosu)
+*For a guide on rewarding kudosu!, see: [Beatmap Discussion/Kudosu!](/wiki/Beatmap_Discussion#kudosu!)
 
 ![Kudosu Durp](img/Kudosu-Durp.png "Kudosu Durp")
 
@@ -514,7 +530,7 @@ Activities are shown either at [Works In Progress/Help](https://osu.ppy.sh/commu
 NC has two meanings:
 
 1. Short for *new combo*, a modding term to suggest that a beat needs to be the start of a new combo.
-2. An abbreviation for the [Nightcore mod](//wiki/Game_Modifiers#nightcore), a variant of the [Double Time mod](/wiki/Game_Modifiers#double-time) but increases the pitch of the music and adds in a consistent bass drum beat to the music.
+2. An abbreviation for the [Nightcore mod](/wiki/Game_Modifiers#nightcore), a variant of the [Double Time mod](/wiki/Game_Modifiers#double-time) but increases the pitch of the music and adds in a consistent bass drum beat to the music.
 
 ### NM
 
@@ -687,7 +703,7 @@ Usage is suggested when there has been a change in offset and/or BPM, after obje
 
 ### Restricted Mode
 
-A state automatically applied to accounts that are suspected of breaking the [Terms of Service](/legal/terms). Submitted scores of gameplay will be hidden from the leaderboards.
+A state automatically applied to accounts that are suspected of breaking the [Terms of Service](https://osu.ppy.sh/legal/terms). Submitted scores of gameplay will be hidden from the leaderboards.
 
 For more info, see [What is "restricted" mode, exactly?](/wiki/Help_Centre#restriction).
 
@@ -709,7 +725,7 @@ These are categorized under three names:
 - Soft
 - Drum
 
-Inside each categories has these four hit sounds:
+Inside each categories has these four hitsounds:
 
 - *(normal)* (the sound when none of the below is used)
 - whistle

@@ -1,23 +1,21 @@
 # Pendaftaran
 
-*Harap diperhatikan bahwa memiliki lebih dari satu akun osu! merupakan salah satu pelanggaran terhadap [peraturan osu!](/wiki/Rules/).*
+*Peringatan: Pengguna yang memiliki lebih dari satu akun osu! secara bersamaan merupakan pelanggaran terhadap [peraturan osu!](/wiki/Rules)*
 
-1. Setelah [menginstal](/wiki/installation) osu! dan menjalankannya, osu! akan meminta Anda untuk masuk atau mendaftar. Dengan asumsi bahwa Anda memerlukan akun untuk bisa masuk, klik `Create an account` dan biarkan osu! tetap terbuka. Seharusnya Anda akan diarahkan ke halaman [Create Account](https://osu.ppy.sh/p/register).
+1. Setelah [memasang](/wiki/Installation) osu! dan menjalankannya, osu! akan meminta kamu untuk masuk atau mendaftar. Dengan asumsi kamu saat ini belum memiliki akun dan perlu membuatnya, klik `Buat akun`.
 
-![Formulir pendaftaran yang berada di situs web](img/register.jpg "Formulir pendaftaran osu!")
+   ![Formulir pendaftaran akun dalam game](img/ingame-registration.jpg "Formulir pendaftaran akun")
 
-2. Isi semua kolom dalam formulir yang telah disediakan.
-   - Untuk kolom nama pengguna, ada maksimum sebanyak 15 karakter, yang hanya bisa berupa karakter alfanumerik (`a-z`, `A-Z`, `0-9`), garis bawah (`_`), kurung kotak (`[` dan `]`), setrip (-), dan spasi (` `).
-   - Untuk kolom alamat email, gunakan email Anda. Email ini akan digunakan untuk mengatur ulang kata sandi Anda dan menerima kode verifikasi saat dibutuhkan, jadi jangan masukkan email yang tidak pernah Anda gunakan.
-   - Untuk kolom kata sandi, gunakan kata sandi yang panjangnya minimal 8 karakter.
-3. Setelah tahap ini selesai, tekan `Continue` kemudian kembali ke osu!
-4. Masuk untuk menyelesaikan tahap pendaftaran.
+2. Isi semua kolom dalam formulir.
+   - Untuk kolom username, ada batas maksimal 15 karakter; yang hanya dapat diisi dengan karakter alfanumerik (`a-z`, `A-Z`, `0-9`), garis bawah (`_`), tanda kurung siku (`[` dan `]`), tanda hubung (`-`), dan spasi (` `).
+   - Untuk kolom email address, gunakan alamat surel kamu. Alamat surel ini akan digunakan untuk mengatur ulang kata sandi kamu dan mengirimkan kode verifikasi saat diperlukan, jadi pastikan untuk menggunakan alamat surel utama kamu.
+   - Untuk kolom password, gunakan kata sandi yang panjangnya minimal 8 karakter.
+3. Setelah mengisi formulir, klik `1. Create my account`. Dan kamu akan secara otomatis masuk menggunakan akun baru yang baru saja kamu buat.
 
-## Apa selanjutnya?
-------------
+## Selanjutnya apa?
 
-Jangan lupa untuk membaca [peraturan](/wiki/Rules) yang berlaku dengan sangat hati-hati!
+Jangan lupa membaca [peraturan](/wiki/Rules) osu! secara seksama!
 
-Setelah tahap di atas selesai, Anda siap memulai petualangan ritme Anda! Anda dapat [menambahkan beatmap](/wiki/installation#adding-beatmapsets) untuk mulai bermain, [membuat skin](/wiki/skinning), atau bahkan [membuat beatmap](/wiki/beatmapping). Anda juga bisa mampir dan berkata, "Hai", di [subforum Introductions](https://osu.ppy.sh/community/forums/8).
+Setelah membaca peraturan, kamu sekarang sudah siap untuk memulai petualangan kamu di game ritme ini! Kamu dapat [menambah beatmap](/wiki/Installation#adding-beatmapsets) untuk bermain, [membuat skin](/wiki/Skinning), atau bisa juga [membuat beatmap](/wiki/Beatmapping). Kamu juga bisa mampir dan mengucapkan "Hai" di [subforum Introductions](https://osu.ppy.sh/community/forums/8) untuk berkenalan dengan pemain osu! dari seluruh dunia.
 
-Jika Anda membutuhkan bantuan lebih lanjut dalam game, Anda dapat bertanya melewati [IRC](/wiki/IRC) di channel `#help` (Internet Relay Chat) dengan membuka konsol obrolan (tekan `F8` atau `F9` dalam game) lalu ketik `/join help`. Anda juga dapat mengirim pertanyaan Anda di subforum [Help](https://osu.ppy.sh/community/forums/5).
+Jika kamu butuh bantuan lebih lanjut dalam game, kamu dapat bertanya melewati [Internet Relay Chat](/wiki/Internet_Relay_Chat) (IRC) di channel `#help` dengan membuka konsol obrolan (tekan `F8` atau `F9` dalam game) lalu ketik `/join help`. Kamu juga dapat memposting pertanyaanmu di [subforum Help](https://osu.ppy.sh/community/forums/5).

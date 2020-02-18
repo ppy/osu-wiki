@@ -1,4 +1,8 @@
-# Skinning Tutorial (Interface)
+---
+needs_cleanup: true
+---
+
+# Interface skinning tutorial
 
 ## Welcome Screen
 
@@ -7,7 +11,7 @@ These skinning elements are found on the welcome screen (the first screen you se
 ### Menu Background
 
 This is the background image in the main menu.
-**This part is only loaded/available for [osu!supporter](/wiki/osu!supporter/).**
+**This part is only loaded/available for [osu!supporter](/wiki/osu!supporter).**
 You will also see it in beatmaps without backgrounds, multiplayer lobby, multiplayer match background and osu!direct background.
 
 This is the only skin element that must be in `JPG` format. You can easily change it by just dragging a picture and dropping it in main menu window, it will create/replace menu-background in you current skin. If you have created picture of size 1366x768, it will be cut from left side at lower width resolutions.
@@ -38,7 +42,7 @@ _Cookiezi's Skin Mix_
 ### Welcome Text
 
 The Welcome text is the image that appears as you open osu!, this layer can be edited and it's name is "welcome_text.png".
-**This part is only loaded/available for [osu!supporter](/wiki/osu!supporter/).**
+**This part is only loaded/available for [osu!supporter](/wiki/osu!supporter).**
 
 [![](pr/welcome_text_0.png)](fs/welcome_text_0.png "Click to view full size")
 _Default skin_
@@ -568,7 +572,7 @@ The Input Overlay is displayed on the right-hand side of the play screen.
 This is only seen in the osu!standard and osu!catch modes.
 This shows how many times each keybinding has been pressed in the duration of that song.
 
-Note that this can be disabled in the [options](/wiki/Options/)!
+Note that this can be disabled in the [options](/wiki/Options)!
 
 ![](fs/input-overlay_0.png)
 _Default skin_

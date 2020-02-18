@@ -31,9 +31,9 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $150 per team member, profile badge, "osu!mania Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $80 per team member, profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $40 per team member, profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | $150 per team member, profile badge, "osu!mania Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, profile badge |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, profile badge |
 
 ## Organisation
 
@@ -41,11 +41,11 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
-| Map Selectors | ![][flag_ES] [aitor98](https://osu.ppy.sh/users/3154852), ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092), ![][flag_BR] [spoonguy](https://osu.ppy.sh/users/932381) |
-| Commentators | ![][flag_SE] [\[ Vento \]](https://osu.ppy.sh/users/1612580), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_US] [Nivrad00](https://osu.ppy.sh/users/1984634), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811), ![][flag_FR] [XeoStyle](https://osu.ppy.sh/users/3377280) |
-| Referees | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_HK] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) |
-| Statisticians | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
+| Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) |
+| Map Selector | ![][flag_ES] [aitor98](https://osu.ppy.sh/users/3154852), ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092), ![][flag_BR] [spoonguy](https://osu.ppy.sh/users/932381) |
+| Commentator | ![][flag_SE] [\[ Vento \]](https://osu.ppy.sh/users/1612580), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_US] [Nivrad00](https://osu.ppy.sh/users/1984634), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811), ![][flag_FR] [XeoStyle](https://osu.ppy.sh/users/3377280) |
+| Referee | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_HK] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) |
+| Statistician | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ------------------------------------------------------------------------
 

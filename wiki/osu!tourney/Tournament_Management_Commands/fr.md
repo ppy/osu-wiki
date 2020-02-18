@@ -1,14 +1,12 @@
 # Commande de Gestion du Tournoi
 
-_Page principale: [osu!tourney](/wiki/osu!tourney)_
-
 Les commandes de chat suivantes sont faites pour gérer les salles multijoueur de tournois :
 
 - `!mp make <nom>` - Crée une salle de tournoi avec le nom spécifié. Un maximum de 4 salles de ce type peuvent être créées.
   - Cette salle est spéciale et ne se ferme pas quand tous les joueurs ont quitté cette salle, et elle est protégée par mot de passe, ce qui empêche les joueurs de la rejoindre par eux-même.
   - Quand vous avez fini d'utiliser une salle, utilisez `!mp close` pour la fermer.
 - `!mp invite <nom_d'utilisateur>` - Invite un joueur dans la salle.
-  - Sachez que ça n'évite _pas_ le blocage des messages privés, votre équipe doit donc dire aux joueurs de désactiver l'otion « Bloquez les messages privés d'utilisateurs qui ne sont pas amis » dans les options d'osu!
+  - Sachez que ça n'évite *pas* le blocage des messages privés, votre équipe doit donc dire aux joueurs de désactiver l'otion « Bloquez les messages privés d'utilisateurs qui ne sont pas amis » dans les options d'osu!
 - `!mp lock` - Bloque la salle, les joueurs ne pourront plus changer leur équipe, ni leur position.
 - `!mp unlock` - Débloque la salle.
 - `!mp size <position>` - Définit le nombre de positions libres dans cette salle (1-16).
@@ -37,15 +35,14 @@ Les commandes de chat suivantes sont faites pour gérer les salles multijoueur d
 - `!mp addref <nom d'utilisateur> [<nom d'utilisateur>] …` - Ajoute un arbitre à la salle. Un maximum de 8 arbitres peuvent être ajoutés. Seul le créateur de la salle peut ajouter un arbitre.
   - Les arbitres doivent rejoindre le lobby en jeu, ou en entrant dans la canal de chat de la salle via `/join #mp_<room_id>` dans IRC.
   - Les arbitres peuvent gérer la salle comme le créateur, cependant, ils ne peuvent pas ajouter ou supprimer d'autres arbitres eux-mêmes.
-  - Le [client osu!tourney](/wiki/osu!tourney "osu!tourney") montrera le chat de la salle aux arbitres.
+  - Le [client osu!tourney](/wiki/osu!tourney) montrera le chat de la salle aux arbitres.
 - `!mp removeref <nom d'utilisateur> [<nom d'utilisateur>] …` - Retire un arbitre de la salle. Seul le créateur de la salle peut retirer un arbitre.
 - `!mp listrefs` - Liste tous les arbitres de la salle.
 - `!mp close` - Ferme cette salle.
 
 Envoyer `!mp help` à BanchoBot vous montrera toutes ces commandes.
 
-Les éléments entre crochets angulaires ( `<>` ) définissent les « paramètres » de la commande. Les paramètres enfermés entre crochets ( `[]` ) sont optionnels.  
-Les noms d'utilisateur verront leurs espaces remplacés par des underscores ( `_` ). `#<userid>` peut substituer `<username>` dans toutes les commandes.
+Les éléments entre crochets angulaires ( `<>` ) définissent les « paramètres » de la commande. Les paramètres enfermés entre crochets ( `[]` ) sont optionnels. Les noms d'utilisateur verront leurs espaces remplacés par des underscores ( `_` ). `#<userid>` peut substituer `<username>` dans toutes les commandes.
 
 ## Usage
 
@@ -64,4 +61,4 @@ Ce qui suit est un ensemble d'exemples d'utilisation de commandes:
 - `!mp set 0 2` - Définit le mode d'équipe à Head To Head et le scoring à Combo.
 - `!mp start` - Démarre le match instantanément.
 
-Nous espérons que vous agirez de manière professionnelles et responsables pour la gestion de votre tournoi. N'importe quel abus de ces commande pour empêcher les autres de jouer sera considéré comme une violation de nos [règles de communauté](/wiki/Rules "Règles de communauté").
+Nous espérons que vous agirez de manière professionnelles et responsables pour la gestion de votre tournoi. N'importe quel abus de ces commande pour empêcher les autres de jouer sera considéré comme une violation de nos [règles de communauté](/wiki/Rules).

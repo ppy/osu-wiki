@@ -29,9 +29,9 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $300 per team member, exclusive osu! tumbler and pins, unique profile badge, "osu!catch Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $160 per team member, exclusive osu! tumbler and pins, unique profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $80 per team member, exclusive osu! tumbler and pins, unique profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | $300 per team member, exclusive osu! tumbler and pins, unique profile badge, "osu!catch Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | $160 per team member, exclusive osu! tumbler and pins, unique profile badge |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | $80 per team member, exclusive osu! tumbler and pins, unique profile badge |
 
 ## Organisation
 
@@ -39,10 +39,10 @@ The osu!catch World Cup 2017 was run by various community members by distributin
 
 | Position | Members |
 | :-- | :-- |
-| Management | [![][flag_DE] Loctav](https://osu.ppy.sh/users/71366), [![][flag_DE] p3n](https://osu.ppy.sh/users/123703), [![][flag_ES] Deif](https://osu.ppy.sh/users/318565), [![][flag_FR] shARPII](https://osu.ppy.sh/users/776257) |
-| Map Selectors | [![][flag_ES] Deif](https://osu.ppy.sh/users/318565), [![][flag_CL] ZiRoX](https://osu.ppy.sh/users/200768) |
-| Commentators | [![][flag_BD] Arf](https://osu.ppy.sh/users/3716999), [![][flag_GB] JBHyperion](https://osu.ppy.sh/users/4879508), [![][flag_FR] Slainv](https://osu.ppy.sh/users/4823843), [![][flag_SE] Setomi](https://osu.ppy.sh/users/2205929), [![][flag_NL] Sartan](https://osu.ppy.sh/users/4100941), [![][flag_US] ztrot](https://osu.ppy.sh/users/6347) |
-| Statisticians | [![][flag_NZ] deadbeat](https://osu.ppy.sh/users/128370), [![][flag_DE] Nwolf](https://osu.ppy.sh/users/1910766) |
+| Manager | [![][flag_DE] Loctav](https://osu.ppy.sh/users/71366), [![][flag_DE] p3n](https://osu.ppy.sh/users/123703), [![][flag_ES] Deif](https://osu.ppy.sh/users/318565), [![][flag_FR] shARPII](https://osu.ppy.sh/users/776257) |
+| Map Selector | [![][flag_ES] Deif](https://osu.ppy.sh/users/318565), [![][flag_CL] ZiRoX](https://osu.ppy.sh/users/200768) |
+| Commentator | [![][flag_BD] Arf](https://osu.ppy.sh/users/3716999), [![][flag_GB] JBHyperion](https://osu.ppy.sh/users/4879508), [![][flag_FR] Slainv](https://osu.ppy.sh/users/4823843), [![][flag_SE] Setomi](https://osu.ppy.sh/users/2205929), [![][flag_NL] Sartan](https://osu.ppy.sh/users/4100941), [![][flag_US] ztrot](https://osu.ppy.sh/users/6347) |
+| Statistician | [![][flag_NZ] deadbeat](https://osu.ppy.sh/users/128370), [![][flag_DE] Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ## Links
 
@@ -129,7 +129,7 @@ The osu!catch World Cup 2017 was run by various community members by distributin
 
 ## Semifinals
 
-**[Download the mappack here! (97 MB)](www.mediafire.com/file/ikgcpwt5p719p0c/CWC_2017_Semifinals.rar)**
+**[Download the mappack here! (97 MB)](https://www.mediafire.com/file/ikgcpwt5p719p0c/CWC_2017_Semifinals.rar)**
 
 - NoMod
   - [Function Phantom - Algebra (Spectator) \[Crystal Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/468281#fruits/1001619)
@@ -155,7 +155,7 @@ The osu!catch World Cup 2017 was run by various community members by distributin
 
 ## Quarterfinals
 
-**[Download the mappack here! (102 MB)](www.mediafire.com/file/91ve9g5dpkg24up/CWC_2017_Quarterfinals.rar)**
+**[Download the mappack here! (102 MB)](https://www.mediafire.com/file/91ve9g5dpkg24up/CWC_2017_Quarterfinals.rar)**
 
 - NoMod
   - [dj MAX STEROID - Arabian Rave Night (Ascendance) \[Black Another\]](https://osu.ppy.sh/beatmapsets/592980#fruits/1254591)

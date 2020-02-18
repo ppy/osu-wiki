@@ -2,20 +2,20 @@
 outdated: true
 ---
 
-Vídeo sobre os mascotes: <https://www.youtube.com/watch?v=mJF2cAs_MrI>
-
 # Mascotes do osu!
+
+[Vídeo sobre os mascotes](https://www.youtube.com/watch?v=mJF2cAs_MrI)
 
 ## Pippi
 
-![Pippi](Pippi_Daru_Header.png "Pippi")
+![Pippi](img/pippi.png "Pippi")
 
 #### Nome real
 Pippi
 
 #### Apelidos
-* Pippi
-* Pippidon
+- Pippi
+- Pippidon
 
 #### Aniversário
 ?
@@ -24,14 +24,14 @@ Pippi
 ?
 
 #### Aparece em
-* osu! (Mascote oficial)
-* Taiko (como Pippidon)
-* Yandere Simulator (como um NPC especial)
+- osu! (Mascote oficial)
+- Taiko (como Pippidon)
+- Yandere Simulator (como um NPC especial)
 
 #### Criador
-* Sarumaru (Conceito e arte original)
-* Daru (Arte atual)
-* crystalsuicune (pippidon)
+- Sarumaru (Conceito e arte original)
+- Daru (Arte atual)
+- crystalsuicune (pippidon)
 
 #### Sexo
 Feminino
@@ -47,7 +47,7 @@ Feminino
 
 ## Yuzu
 
-![Yuzu](Yuzu_Profile.png "Yuzu")
+![Yuzu](img/Yuzu.png "Yuzu")
 
 #### Nome real
 Yuzu
@@ -65,8 +65,8 @@ Yuzu
 Catch the Beat
 
 #### Criador
-* Daru (Arte)
-* ztrot (Arte do catcher, conceito)
+- Daru (Arte)
+- ztrot (Arte do catcher, conceito)
 
 #### Sexo
 Masculino
@@ -78,11 +78,11 @@ Masculino
 65kg
 
 #### Biografia
-[Introdução](https://osu.ppy.sh/news/89483664163) (a ser adicionada)
+[Introdução](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu)
 
 ## Maria
 
-![Maria](Maria_Profile.jpeg "Maria")
+![Maria](img/Maria.png "Maria")
 
 #### Nome real
 Maria
@@ -100,7 +100,7 @@ Maria
 Mania
 
 #### Criador
-* Daru (Arte)
+- Daru (Arte)
 
 #### Sexo
 Feminino
@@ -112,13 +112,13 @@ Feminino
 ?
 
 #### Biografia
-[Introdução](https://osu.ppy.sh/news/143103453693) (a ser adicionada)
+[Introdução](https://osu.ppy.sh/home/news/2016-04-20-meet-maria-osumanias-new-mascot)
 
 # Cameos
 
 ## Ryūta Ippongi
 
-![Ryuuta](Fruit_ryuuta.png "Ryuuta")
+![Ryuuta](img/Ryuuta.png "Ryuuta")
 
 #### Nome real
 一本木龍太 (Ryūta Ippongi)
@@ -133,10 +133,10 @@ Ryuuta
 ?
 
 #### Aparece em
-* Catch the Beat (como chibi-Ryuuta) [Substituído por Yuzu]
-* osu!webpage (chibi-Ryuuta como mascote) [Retirado]
-* [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
-* Yandere Simulator (como um NPC especial)
+- Catch the Beat (como chibi-Ryuuta) [Substituído por Yuzu]
+- osu!webpage (chibi-Ryuuta como mascote) [Retirado]
+- [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
+- Yandere Simulator (como um NPC especial)
 
 #### Criador
 iNiS Corporation
@@ -155,7 +155,7 @@ Ele é o líder de sangue quente da equipe de elogios. Ele tem uma boa alma e aj
 
 ## Agent J
 
-![Agent J](J_chibi_Header.png "Agent J")
+![Agent J](img/Agent_J.png "Agent J")
 
 #### Nome real
 Agent J
@@ -170,8 +170,8 @@ BA-2 (Beat Agent-2), J
 ?
 
 #### Aparece em
-* osu!webpage (chibi-J como mascote) [Retirado]
-* [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
+- osu!webpage (chibi-J como mascote) [Retirado]
+- [Skin](https://osu.ppy.sh/community/forums/topics/190357/)
 
 #### Criador
 iNiS Corporation
@@ -190,7 +190,7 @@ Um especialista em muitos estilos de dança que vão desde hip-hop até balé, J
 
 ## Don
 
-![Don](Don-chan_Taiko.png "Don")
+![Don](img/Don.png "Don")
 
 #### Nome real
 和田どん (Wada Don)
@@ -205,12 +205,12 @@ Don, Don-chan
 48cm
 
 #### Aparece em
-* Taiko (Skin)
-{Skin oficial para as [Opções do gatilho](Options#Skin "wikilink")}
+- Taiko (Skin)
+{Skin oficial para as [Opções do gatilho](/wiki/Options#Skin)}
 
 #### Criador
-* Yukiko Yokoo (横尾有希子) [Arte]
-* Narahashi Miki (楢橋 美紀) [Dublador]
+- Yukiko Yokoo (横尾有希子) [Arte]
+- Narahashi Miki (楢橋 美紀) [Dublador]
 
 #### Sexo
 Masculino

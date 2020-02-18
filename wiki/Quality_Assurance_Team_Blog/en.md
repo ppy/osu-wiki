@@ -2,7 +2,7 @@
 
 The **[Quality Assurance Team Blog](http://osuqat.tumblr.com)**, commonly referred to as the *QAT Blog*, was a semi-regular blog written by members of the [Quality Assurance Team](/wiki/Glossary#quality-assurance-team). Beginning in August of 2016, they discussed not only the activities of the QAT, but a variety of other topics spanning osu! gameplay, mapping, modding and the game/community as a whole.
 
-In September of 2017, the *QAT Gazette* series began using [osu!news](https://osu.ppy.sh/home/news) as a platform, rather than the QAT Blog.
+In September of 2017, the *QAT Gazette* series began using [osu!news](https://osu.ppy.sh/home/news) as a platform, rather than the QAT Blog. All earlier posts on the blog were also ported to osu!news.
 
 ## Post Compendium
 
@@ -10,46 +10,46 @@ In September of 2017, the *QAT Gazette* series began using [osu!news](https://os
 
 #### August
 
-- [Explore the QAT!](http://osuqat.tumblr.com/post/148493430910/explore-the-qat)
-- [Weekly Report #1](http://osuqat.tumblr.com/post/148998065655/weekly-report-1)
-- [Weekly Report #2](http://osuqat.tumblr.com/post/149339716305/weekly-report-2)
-- [Are huge sets a problem?](http://osuqat.tumblr.com/post/149506493485/are-huge-sets-a-problem)
+- [Explore the QAT!](https://osu.ppy.sh/home/news/2016-08-05-explore-the-qat)
+- [Weekly Report #1](https://osu.ppy.sh/home/news/2016-08-15-weekly-report-1)
+- [Weekly Report #2](https://osu.ppy.sh/home/news/2016-08-22-weekly-report-2)
+- [Are huge sets a problem?](https://osu.ppy.sh/home/news/2016-08-26-are-huge-sets-a-problem)
 
 #### September
 
-- [Code of Conduct](http://osuqat.tumblr.com/post/149777211965/code-of-conduct)
-- [Weekly Report #3](http://osuqat.tumblr.com/post/150075576015/weekly-report-3)
-- [Tips on creating “Beginner Friendly” easies](http://osuqat.tumblr.com/post/150197939840/tips-on-creating-beginner-friendly-easies)
-- [osu!catch Spread Problem](http://osuqat.tumblr.com/post/150614301470/osucatch-spread-problem)
+- [Code of Conduct](https://osu.ppy.sh/home/news/2016-09-01-code-of-conduct)
+- [Weekly Report #3](https://osu.ppy.sh/home/news/2016-09-03-weekly-report-3)
+- [Tips on creating "Beginner Friendly" easies](https://osu.ppy.sh/home/news/2016-09-10-tips-on-creating-beginner-friendly-easies)
+- [osu!catch Spread Problem](https://osu.ppy.sh/home/news/2016-09-19-osucatch-spread-problem)
 
 #### October
 
-- [The QAT Gazette #4 (+ Ask Me Anything)](http://osuqat.tumblr.com/post/151525615445/the-qat-gazette-4)
-- [The way we do spreads is actually really weird](http://osuqat.tumblr.com/post/151834390075/the-way-we-do-spreads-is-actually-really-weird)
-- [How the QAT handle Qualified Beatmaps](http://osuqat.tumblr.com/post/152196956290/how-the-qat-handle-qualified-beatmaps)
+- [The QAT Gazette #4](https://osu.ppy.sh/home/news/2016-10-08-the-qat-gazette-4)
+- [The way we do spreads is actually really weird](https://osu.ppy.sh/home/news/2016-10-15-the-way-we-do-spreads-is-actually-really-weird)
+- [How the QAT handle Qualified Beatmaps](https://osu.ppy.sh/home/news/2016-10-23-how-the-qat-handle-qualified-beatmaps)
 
 #### November
 
-- [osu!standard BN Examination](http://osuqat.tumblr.com/post/152896720720/osustandard-bn-examination)
-- [BN Test Review (osu!taiko, catch and mania)](http://osuqat.tumblr.com/post/153726142390/bn-test-review-osutaiko-catch-and-mania)
+- [osu!standard BN Examination](https://osu.ppy.sh/home/news/2016-11-08-osustandard-bn-examination)
+- [BN Test Review (osu!taiko, catch and mania)](https://osu.ppy.sh/home/news/2016-11-27-bn-test-review-osutaiko-catch-and-mania)
 
 ### 2017
 
 #### February
 
-- [Best of 2016](http://osuqat.tumblr.com/post/157575479410/best-of-2016)
+- [Best of 2016](https://osu.ppy.sh/home/news/2017-02-22-best-of-2016)
 
 #### April
 
-- [The QAT Gazette #5](http://osuqat.tumblr.com/post/159522014380/the-qat-gazette-5)
+- [The QAT Gazette #5](https://osu.ppy.sh/home/news/2017-04-13-the-qat-gazette-5)
 
 #### May
 
-- [BN Test Review (osu!taiko, catch and mania) #2](http://osuqat.tumblr.com/post/160532419785/bn-test-review-2)
+- [BN Test Review #2](https://osu.ppy.sh/home/news/2017-05-11-bn-test-review-2)
 
 #### June
 
-- [The QAT Gazette #6 (+ Ask Me Anything)](http://osuqat.tumblr.com/post/161544954160/the-qat-gazette-6)
+- [The QAT Gazette #6](https://osu.ppy.sh/home/news/2017-06-07-the-qat-gazette-6)
 
 #### September
 
@@ -66,7 +66,3 @@ In September of 2017, the *QAT Gazette* series began using [osu!news](https://os
 #### December
 
 - [The QAT Gazette: December 2017](https://osu.ppy.sh/home/news/2017-12-13-qat-gazette-december-2017)
-
-## See also
-
-Original forum post: [QAT Blog | Blog Post Compendium](https://osu.ppy.sh/community/forums/topics/578437) by [Feerum](https://osu.ppy.sh/users/4815717)

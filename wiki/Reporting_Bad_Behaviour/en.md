@@ -1,4 +1,8 @@
-# Reporting Bad Behaviour
+---
+needs_cleanup: true
+---
+
+# Reporting bad behaviour
 
 ## What is the report system?
 
@@ -14,19 +18,19 @@ Usage: `!report username [reason]`
 
 Parameters in **[** and **]** are optional.
 
-If the user has a space in their username, it must be replaced with an underscore ``_`` because the osu! in-game chat is based on [IRC](/wiki/Internet_Relay_Chat "Internet Relay Chat (IRC)").
+If the user has a space in their username, it must be replaced with an underscore `_` because the osu! in-game chat is based on [IRC](/wiki/Internet_Relay_Chat "Internet Relay Chat (IRC)").
 
-``!report This User Name is spamming in #osu`` turns to ``!report This_User_Name is spamming in #osu``
+`!report This User Name is spamming in #osu` turns to `!report This_User_Name is spamming in #osu`
 
-Reports are not case-sensitive so it is okay to use lowercase letters like ``this_user_name``.
+Reports are not case-sensitive so it is okay to use lowercase letters like `this_user_name`.
 
-![Example of using the !report command](./img/Report-command.png "Example of using the !report command")
+![Example of using the !report command](img/Report-command.png "Example of using the !report command")
 
 ### Using the report button in-game
 
 Reporting the user by this way only needs a type of reason and the custom text, unlike the `!report` command.
 
-![Click the report button](./img/Report-user-1.png "Click the report button")
+![Click the report button](img/Report-user-1.png "Click the report button")
 
 ![Remember to add a reason here!](img/Report-user-2.png "Remember to add a reason here!")
 
@@ -66,7 +70,7 @@ Take note that spamming streaming links are applied to this rule.
 
 Telling people to kill themselves is not a good thing to say.
 
-### and many more...
+and many more...
 
 ## Frequently Asked Questions
 

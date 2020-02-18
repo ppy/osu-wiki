@@ -1,6 +1,7 @@
 ---
 tags:
-- MXB
+  - Mengxin Cup
+  - MXB
 ---
 
 # 第三届萌新杯
@@ -28,9 +29,9 @@ tags:
 
 | 名次 | 奖品 |
 | :-: | :-- |
-| ![金冠](/wiki/shared/GCrown.png "第一名") | 2个月 osu!支持者，主页定制勋章 |
-| ![银冠](/wiki/shared/SCrown.png "第二名") | 1个月 osu!支持者 |
-| ![铜冠](/wiki/shared/BCrown.png "第三名") | 15 CNY |
+| ![金冠](/wiki/shared/crown-gold.png "第一名") | 2个月 osu!支持者，主页定制勋章 |
+| ![银冠](/wiki/shared/crown-silver.png "第二名") | 1个月 osu!支持者 |
+| ![铜冠](/wiki/shared/crown-bronze.png "第三名") | 15 CNY |
 
 ## 工作人员
 
@@ -56,9 +57,9 @@ tags:
 
 | 名次 | 选手 |
 | :-: | :-- |
-| ![金冠](/wiki/shared/GCrown.png "第一名") | [A M D](https://osu.ppy.sh/users/5321112) |
-| ![银冠](/wiki/shared/SCrown.png "第二名") | [shizehao](https://osu.ppy.sh/users/4928674) |
-| ![铜冠](/wiki/shared/BCrown.png "第三名") | [Yutto007](https://osu.ppy.sh/users/10269172) |
+| ![金冠](/wiki/shared/crown-gold.png "第一名") | [A M D](https://osu.ppy.sh/users/5321112) |
+| ![银冠](/wiki/shared/crown-silver.png "第二名") | [shizehao](https://osu.ppy.sh/users/4928674) |
+| ![铜冠](/wiki/shared/crown-bronze.png "第三名") | [Yutto007](https://osu.ppy.sh/users/10269172) |
 
 ## 参赛选手
 

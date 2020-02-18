@@ -19,7 +19,7 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 6 months of osu!supporter tag, profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, profile badge |
 
 ![oTTMT Winner Badge](img/badge.png)
 
@@ -29,8 +29,8 @@ The osu! Tag Team Multiplayer Tournament was run by various community members by
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_SE] [Gabi](https://osu.ppy.sh/users/57057) |
-| Referees | ![][flag_SE] [Gabi](https://osu.ppy.sh/users/57057), ![][flag_US] [Daru](https://osu.ppy.sh/users/32480), ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328), ![][flag_US] [EEeee](https://osu.ppy.sh/users/19819) |
+| Manager | ![][flag_SE] [Gabi](https://osu.ppy.sh/users/57057) |
+| Referee | ![][flag_SE] [Gabi](https://osu.ppy.sh/users/57057), ![][flag_US] [Daru](https://osu.ppy.sh/users/32480), ![][flag_DE] [Larto](https://osu.ppy.sh/users/12328), ![][flag_US] [EEeee](https://osu.ppy.sh/users/19819) |
 
 ## Links
 
@@ -73,9 +73,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Animalz D: |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Lubimy Ponczgi! |
-| ![Crown Crown](/wiki/shared/BCrown.png "3rd place") | MINMIrox |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Animalz D: |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Lubimy Ponczgi! |
+| ![Crown Crown](/wiki/shared/crown-bronze.png "3rd place") | MINMIrox |
 
 ![oTTMT Bracket](img/bracket.png)
 

@@ -1,8 +1,12 @@
+---
+needs_cleanup: true
+---
+
 <!-- wiki -->
-[osu! wikilink]: /wiki/Game_Modes/osu!/ "osu!"
-<!-- [osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko/ "osu!taiko" -->
-[osu!catch wikilink]: /wiki/Game_Modes/osu!catch/ "osu!catch"
-<!-- [osu!mania wikilink]: /wiki/Game_Modes/osu!mania/ "osu!mania" -->
+[osu! wikilink]: /wiki/Game_Modes/osu! "osu!"
+<!-- [osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko "osu!taiko" -->
+[osu!catch wikilink]: /wiki/Game_Modes/osu!catch "osu!catch"
+<!-- [osu!mania wikilink]: /wiki/Game_Modes/osu!mania "osu!mania" -->
 
 [CS wikilink]: /wiki/Beatmap_Editor/Song_Setup "more info can be found on Song Setup under Circle Size"
 [HP wikilink]: /wiki/Beatmap_Editor/Song_Setup "more info can be found on Song Setup under HP Drain"
@@ -26,11 +30,11 @@
 [t0]: /wiki/Skinning/osu!taiko/img/taiko-hit0.png "MISS"
 
 [Fruit trails image]: /wiki/shared/Catch_trails.jpg "osu!catch fruit trails"
-[c300]: ./img/catch-300.jpg "Fruit"
-[c100]: ./img/catch-100.jpg "Juice Drop"
-[c50]: ./img/catch-50.jpg "Droplet"
-[cBanana]: ./img/catch-banana.jpg "Banana"
-[c0]: ./img/catch-0.jpg "Miss"
+[c300]: img/catch-300.jpg "Fruit"
+[c100]: img/catch-100.jpg "Juice Drop"
+[c50]: img/catch-50.jpg "Droplet"
+[cBanana]: img/catch-banana.jpg "Banana"
+[c0]: img/catch-0.jpg "Miss"
 
 [m500]: /wiki/Skinning/osu!mania/img/mania-hit300g-0.png "Rainbow 300"
 [m300]: /wiki/Skinning/osu!mania/img/mania-hit300.png "300"
@@ -96,7 +100,7 @@ Image | Name | Effect
 ## Scoring
 
 <!-- Uncomment the below and delete this comment if ScoreV2 is official. -->
-<!-- **[Click here to visit the deprecated ScoreV1 system](./ScoreV1 "ScoreV1")** -->
+<!-- **[Click here to visit the deprecated ScoreV1 system](ScoreV1 "ScoreV1")** -->
 
 ### ScoreV2
 
@@ -115,7 +119,7 @@ ScoreV2 attempts to standardise all the game modes' scoring system to 1,000,000 
 Each of the hit objects are now part of the 1 million score and scaled accordingly rather than their own scoring values and bonus formulae.
 
 ScoreV2 can be tested in [Multi](/wiki/Multi "Multi") mode as one of the Match Setup's Win Condition.
-As of [22 February 2017 (2017-02-22)](https://osu.ppy.sh/p/changelog?v=b20170222.3 "Release Notes for b20170222.3 (Stable)"), the ScoreV2 system can be tested in _Solo_ mode using the **UNRANKED** [ScoreV2](/wiki/Game_Modifiers/) game modifier.
+As of [22 February 2017 (2017-02-22)](https://osu.ppy.sh/p/changelog?v=b20170222.3 "Release Notes for b20170222.3 (Stable)"), the ScoreV2 system can be tested in _Solo_ mode using the **UNRANKED** [ScoreV2](/wiki/Game_Modifiers) game modifier.
 
 ### Score
 
@@ -316,13 +320,13 @@ Then, the player plays again and gets 400k, only the total score increases by 40
 
 #### Level
 
-The level of a player is **based solely** on the **player's total score**.
-
-The total score requirement for a given level is as follows:
+The level of a player is based solely on the player's **total score**. The score requirement for a level is given by the following function:
 
 ```
-5,000 / 3 * (4n^3 - 3n^2 - n) + 1.25 * 1.8^(n - 60), where n <= 100
-26,931,190,829 + 100,000,000,000 * (n - 100), where n >= 101
+score(n) = 5,000 / 3 * (4n^3 - 3n^2 - n) + 1.25 * 1.8^(n - 60) if n <= 100
+score(n) = 26,931,190,827 + 99,999,999,999 * (n - 100)         if n > 100
 ```
+
+Note that due to a rounding technique used by the game, the values for levels up to 100 do not precisely match the formula. This is because the game keeps a pre-calculated list of differences in score between levels, and each item in the list is rounded to the nearest integer. For example, the eightieth item in the list is `score(81) - score(80) = 128,927,482.36216`, rounded to 128,927,482. By level 100, the total error is +1.629 score, which is why `score(100) = 26,931,190,828.629` does not match the 26,931,190,827 in the second part of the function.
 
 The progress to the next level is displayed using a bar next to the player's level.

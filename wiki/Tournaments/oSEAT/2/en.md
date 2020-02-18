@@ -32,9 +32,9 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 6 months of osu!supporter tag, unique profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 4 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 2 months of osu!supporter tag |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, unique profile badge |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag |
 | *4th place* | 1 month of osu!supporter tag |
 | *5th place* | 1 month of osu!supporter tag |
 
@@ -48,15 +48,15 @@ The osu! South East Asia Tournament 2 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608), ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) |
-| Map Selectors | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608) |
+| Manager | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608), ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) |
+| Map Selector | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608) |
 | Designer | ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) |
-| Streamers | ![][flag_VN] [Hoaq](https://osu.ppy.sh/users/7696512), ![][flag_MY] [Jeffrey](https://osu.ppy.sh/users/4777134), ![][flag_SG] [Demonical](https://osu.ppy.sh/users/5447609), ![][flag_ID] [Ulat Bulu](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) |
-| Referees | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_SG] [sinn](https://osu.ppy.sh/users/4262229), ![][flag_ID] [Praza](https://osu.ppy.sh/users/3184115), ![][flag_ID] [smh](https://osu.ppy.sh/users/1629553), ![][flag_MY] [Aasheda\_](https://osu.ppy.sh/users/7614055), ![][flag_MY] [TheSomething](https://osu.ppy.sh/users/4025232), ![][flag_MY] [Vexine](https://osu.ppy.sh/users/4042706), ![][flag_MY] [Stupid Idiot](https://osu.ppy.sh/users/8355574), ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_TH] [\[Minoriko\]](https://osu.ppy.sh/users/4958650), ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911), ![][flag_FR] [\[ Mimir \]](https://osu.ppy.sh/users/7382734), ![][flag_PL] [Houtarou Oreki](https://osu.ppy.sh/users/4185566), ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897) |
-| Commentators | ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946), ![][flag_MY] [Jeffrey](https://osu.ppy.sh/users/4777134), ![][flag_VN] [Hoaq](https://osu.ppy.sh/users/7696512), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_VN] [Yaezaki](https://osu.ppy.sh/users/11254509) |
-| Web Developers | ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013), ![][flag_DE] [Borengar](https://osu.ppy.sh/users/3312177) |
+| Streamer | ![][flag_VN] [Hoaq](https://osu.ppy.sh/users/7696512), ![][flag_MY] [Jeffrey](https://osu.ppy.sh/users/4777134), ![][flag_SG] [Demonical](https://osu.ppy.sh/users/5447609), ![][flag_ID] [Ulat Bulu](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) |
+| Referee | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_SG] [sinn](https://osu.ppy.sh/users/4262229), ![][flag_ID] [Praza](https://osu.ppy.sh/users/3184115), ![][flag_ID] [smh](https://osu.ppy.sh/users/1629553), ![][flag_MY] [Aasheda\_](https://osu.ppy.sh/users/7614055), ![][flag_MY] [TheSomething](https://osu.ppy.sh/users/4025232), ![][flag_MY] [Vexine](https://osu.ppy.sh/users/4042706), ![][flag_MY] [Stupid Idiot](https://osu.ppy.sh/users/8355574), ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_TH] [\[Minoriko\]](https://osu.ppy.sh/users/4958650), ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911), ![][flag_FR] [\[ Mimir \]](https://osu.ppy.sh/users/7382734), ![][flag_PL] [Houtarou Oreki](https://osu.ppy.sh/users/4185566), ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897) |
+| Commentator | ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946), ![][flag_MY] [Jeffrey](https://osu.ppy.sh/users/4777134), ![][flag_VN] [Hoaq](https://osu.ppy.sh/users/7696512), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_VN] [Yaezaki](https://osu.ppy.sh/users/11254509) |
+| Web Developer | ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013), ![][flag_DE] [Borengar](https://osu.ppy.sh/users/3312177) |
 | Statistician | ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911) |
-| Wiki | ![][flag_ID] [Naruk](https://osu.ppy.sh/users/7100002) |
+| Wiki Editor | ![][flag_ID] [Naruk](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -107,9 +107,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) |
 | *4th place* | ![][flag_SG] [Raindrop](https://osu.ppy.sh/users/1155871) |
 | *5th place* | ![][flag_SG] [SeeL](https://osu.ppy.sh/users/5104320) |
 

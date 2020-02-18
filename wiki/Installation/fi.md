@@ -26,7 +26,7 @@ Jos sinä kohtaat bugin tai virheen jota ei ole listattu ylempänä, käy [Help 
 
 ### Voiko osu! pyöriä OS X:llä?
 
-Tällä hetkellä ei ole natiivia käännöstä saatavilla, mutta voit seurata [näitä hyvin vaiheittain selostettuja neuvoja](https://osu.ppy.sh/forum/viewtopic.php?f=2&t=14664) kuinka saat Windowsin pyörimään Macillasi ja pääset pelaamaan!
+Yes! [Read here](/wiki/Installation/macOS) to figure out how.
 
 ### Voiko osu! pyöriä Linuxilla?
 

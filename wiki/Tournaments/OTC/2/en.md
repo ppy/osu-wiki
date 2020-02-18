@@ -31,7 +31,7 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 1 month of osu!supporter tag, unique profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter tag, unique profile badge |
 
 ![OTC #2 Winner Badge](img/badge.png)
 
@@ -42,15 +42,15 @@ The osu! Technical Championship #2 was run by various osu! community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669) |
-| Administrators | ![][flag_DE] [Sir Hywen](https://osu.ppy.sh/users/7601761), ![][flag_HK] [-GN Junior](https://osu.ppy.sh/users/3901754), ![][flag_US] [Saber](https://osu.ppy.sh/users/4272841) |
+| Admin | ![][flag_DE] [Sir Hywen](https://osu.ppy.sh/users/7601761), ![][flag_HK] [-GN Junior](https://osu.ppy.sh/users/3901754), ![][flag_US] [Saber](https://osu.ppy.sh/users/4272841) |
 | Mappool QAT | ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669), ![][flag_HK] [-GN Junior](https://osu.ppy.sh/users/3901754), ![][flag_US] [Saber](https://osu.ppy.sh/users/4272841), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_CA] [Septembre](https://osu.ppy.sh/users/3666816), ![][flag_SG] [-Engel-](https://osu.ppy.sh/users/9424243), ![][flag_GB] [Nega](https://osu.ppy.sh/users/3181083) |
-| Mappool Selectors | ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669), ![][flag_HK] [-GN Junior](https://osu.ppy.sh/users/3901754), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_CA] [Septembre](https://osu.ppy.sh/users/3666816), ![][flag_SG] [-Engel-](https://osu.ppy.sh/users/9424243), ![][flag_US] [- Marii -](https://osu.ppy.sh/users/5691561), ![][flag_EG] [Mohab500](https://osu.ppy.sh/users/10520912), ![][flag_CN] [VRainbow](https://osu.ppy.sh/users/3635214) |
-| Mappool Testers | ![][flag_GB] [Nega](https://osu.ppy.sh/users/3181083), ![][flag_GB] [SoraRoxas01](https://osu.ppy.sh/users/1986262), ![][flag_GB] [Best459](https://osu.ppy.sh/users/8185366), ![][flag_GB] [OskaRRRitoS](https://osu.ppy.sh/users/7051163) |
-| Designers | ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013), ![][flag_US] [- Marii -](https://osu.ppy.sh/users/5691561), ![][flag_DE] [Sir Hywen](https://osu.ppy.sh/users/7601761) |
-| Streamers | ![][flag_DE] [Sir Hywen](https://osu.ppy.sh/users/7601761), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_FI] [SanteriP](https://osu.ppy.sh/users/1981187), ![][flag_CA] [Neko Rin](https://osu.ppy.sh/users/6720237), ![][flag_FR] [Spartan Plume](https://osu.ppy.sh/users/2553166) |
-| Commentators | ![][flag_FI] [SanteriP](https://osu.ppy.sh/users/1981187), ![][flag_CA] [Neko Rin](https://osu.ppy.sh/users/6720237), ![][flag_NL] [Blue-Orb](https://osu.ppy.sh/users/6612210), ![][flag_AR] [juliancaia](https://osu.ppy.sh/users/6612210), ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946), ![][flag_PL] [Dabis](https://osu.ppy.sh/users/509575) |
-| Referees | ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669), ![][flag_DE] [Sir Hywen](https://osu.ppy.sh/users/7601761), ![][flag_HK] [-GN Junior](https://osu.ppy.sh/users/3901754), ![][flag_SG] [-Engel-](https://osu.ppy.sh/users/9424243), ![][flag_CN] [VRainbow](https://osu.ppy.sh/users/3635214), ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946), ![][flag_US] [Noya](https://osu.ppy.sh/users/4276374), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_TW] [EthanTC](https://osu.ppy.sh/users/9539163), ![][flag_DE] [likejaxirl](https://osu.ppy.sh/users/7093373), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_US] [Hot Cocoa](https://osu.ppy.sh/users/4986705), ![][flag_DK] [MASQQ](https://osu.ppy.sh/users/5351497), ![][flag_CA] [Neko Rin](https://osu.ppy.sh/users/6720237), ![][flag_PL] [- Dave -](https://osu.ppy.sh/users/3604693) |
-| Wiki | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Map Selector | ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669), ![][flag_HK] [-GN Junior](https://osu.ppy.sh/users/3901754), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_CA] [Septembre](https://osu.ppy.sh/users/3666816), ![][flag_SG] [-Engel-](https://osu.ppy.sh/users/9424243), ![][flag_US] [- Marii -](https://osu.ppy.sh/users/5691561), ![][flag_EG] [Mohab500](https://osu.ppy.sh/users/10520912), ![][flag_CN] [VRainbow](https://osu.ppy.sh/users/3635214) |
+| Mappool Tester | ![][flag_GB] [Nega](https://osu.ppy.sh/users/3181083), ![][flag_GB] [SoraRoxas01](https://osu.ppy.sh/users/1986262), ![][flag_GB] [Best459](https://osu.ppy.sh/users/8185366), ![][flag_GB] [OskaRRRitoS](https://osu.ppy.sh/users/7051163) |
+| Designer | ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013), ![][flag_US] [- Marii -](https://osu.ppy.sh/users/5691561), ![][flag_DE] [Sir Hywen](https://osu.ppy.sh/users/7601761) |
+| Streamer | ![][flag_DE] [Sir Hywen](https://osu.ppy.sh/users/7601761), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_FI] [SanteriP](https://osu.ppy.sh/users/1981187), ![][flag_CA] [Neko Rin](https://osu.ppy.sh/users/6720237), ![][flag_FR] [Spartan Plume](https://osu.ppy.sh/users/2553166) |
+| Commentator | ![][flag_FI] [SanteriP](https://osu.ppy.sh/users/1981187), ![][flag_CA] [Neko Rin](https://osu.ppy.sh/users/6720237), ![][flag_NL] [Blue-Orb](https://osu.ppy.sh/users/6612210), ![][flag_AR] [juliancaia](https://osu.ppy.sh/users/6612210), ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946), ![][flag_PL] [Dabis](https://osu.ppy.sh/users/509575) |
+| Referee | ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669), ![][flag_DE] [Sir Hywen](https://osu.ppy.sh/users/7601761), ![][flag_HK] [-GN Junior](https://osu.ppy.sh/users/3901754), ![][flag_SG] [-Engel-](https://osu.ppy.sh/users/9424243), ![][flag_CN] [VRainbow](https://osu.ppy.sh/users/3635214), ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946), ![][flag_US] [Noya](https://osu.ppy.sh/users/4276374), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_TW] [EthanTC](https://osu.ppy.sh/users/9539163), ![][flag_DE] [likejaxirl](https://osu.ppy.sh/users/7093373), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_US] [Hot Cocoa](https://osu.ppy.sh/users/4986705), ![][flag_DK] [MASQQ](https://osu.ppy.sh/users/5351497), ![][flag_CA] [Neko Rin](https://osu.ppy.sh/users/6720237), ![][flag_PL] [- Dave -](https://osu.ppy.sh/users/3604693) |
+| Wiki Editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -119,9 +119,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Rubber Conquest |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Floating up |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Latex Intolerance |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Rubber Conquest |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Floating up |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Latex Intolerance |
 
 -----------------------
 

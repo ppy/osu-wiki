@@ -1,4 +1,8 @@
-# Beatmap Discussion
+---
+outdated: true
+---
+
+# Beatmap discussion
 
 Beatmap Discussion (introduced as *Modding v2*) is now live!
 

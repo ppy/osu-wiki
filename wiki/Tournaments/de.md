@@ -8,7 +8,7 @@ Dieser Bereich ist für alle Turniere bestimmt. Klicken Sie auf [hier](https://o
 
 ## osu! World Cup
 
-| Name                                  | vom        | bis zum    | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+| Name                                  | vom        | bis zum    | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") |
 |---------------------------------------|------------|------------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
 | osu! World Cup 2010                   | 31.01.2011 | 08.04.2011 | ![][flag_TW] Taiwan                    | ![][flag_NL] Niederland                  | ![][flag_KR] Südkorea                    |
 | osu! World Cup 2011                   | 28.10.2011 | 24.03.2012 | ![][flag_KR] Südkorea                  | ![][flag_JP] Japan                       | ![][flag_TW] Taiwan                      |
@@ -19,7 +19,7 @@ Dieser Bereich ist für alle Turniere bestimmt. Klicken Sie auf [hier](https://o
 
 ## Taiko World Cup
 
-| Name                                   | vom        | bis zum    | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+| Name                                   | vom        | bis zum    | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") |
 |----------------------------------------|------------|------------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
 | Taiko World Cup 2011                   | 12.03.2011 | 29.04.2011 | ![][flag_TW] Taiwan                    | ![][flag_JP] Japan                       | ![][flag_CN] China                       |
 | Taiko World Cup 2012                   | 03.02.2012 | 01.04.2012 | ![][flag_JP] Japan A                   | ![][flag_HK] Hong Kong A                 | ![][flag_JP] Japan B                     |
@@ -29,7 +29,7 @@ Dieser Bereich ist für alle Turniere bestimmt. Klicken Sie auf [hier](https://o
 
 ## Catch the Beat World Cup
 
-| Name                                            | vom        | bis zum    | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+| Name                                            | vom        | bis zum    | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") |
 |-------------------------------------------------|------------|------------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
 | Catch the beat World Cup 2012                   | 05.11.2011 | 02.05.2012 | ![][flag_CN] China        | ![][flag_TW] Taiwan                      | ![][flag_CL] Chile                       |
 | Catch the beat World Cup 2013                   | 15.01.2013 | 10.03.2013 | ![][flag_CL] Chile        | ![][flag_TW] Taiwan                      | ![][flag_AR] Argentinien/Kolumbien       |
@@ -38,7 +38,7 @@ Dieser Bereich ist für alle Turniere bestimmt. Klicken Sie auf [hier](https://o
 
 ## osu!mania World Cup
 
-| Name                                       | vom        | bis zum    | Modus | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+| Name                                       | vom        | bis zum    | Modus | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") |
 |--------------------------------------------|------------|------------|-------|----------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
 | [osu!mania World Cup 2014](/wiki/Tournaments/MWC/2014) | 01.07.2014 | 14.09.2014 | 7K    | ![][flag_KR] Südkorea                  | ![][flag_TH] Thailand                    | ![][flag_MY] Malaysia                    |
 | [osu!mania World Cup 2014](/wiki/Tournaments/MWC/2014) | 01.07.2014 | 14.09.2014 | 4K    | ![][flag_KR] Südkorea                  | ![][flag_PH] Philippinen                 | ![][flag_MY] Malaysia                    |
@@ -47,15 +47,16 @@ Dieser Bereich ist für alle Turniere bestimmt. Klicken Sie auf [hier](https://o
 
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) Most Amazing LAN Ever
 
-| Name | vom | bis zum | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+| Name | vom | bis zum | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") |
 | --- | --- | --- | --- | --- | --- |
-| [Most Amazing LAN Ever](/wiki/Tournaments/MALE) | 2019-01-27 | 2019-01-27 | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ![][flag_US] [Zushen](https://osu.ppy.sh/users/2106316) (osu!mania) | ![][flag_US] [Darin on osu](https://osu.ppy.sh/users/4839876) (osu!), ![][flag_US] [Ecal](https://osu.ppy.sh/users/8384260) (osu!mania) | ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459) (osu!), ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
+| [Most Amazing LAN Ever](/wiki/Tournaments/osu!_Riverside/MALE) | 2019-01-27 | 2019-01-27 | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ![][flag_US] [Zushen](https://osu.ppy.sh/users/2106316) (osu!mania) | ![][flag_US] [Darin on osu](https://osu.ppy.sh/users/4839876) (osu!), ![][flag_US] [Ecal](https://osu.ppy.sh/users/8384260) (osu!mania) | ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459) (osu!), ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
 
-### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) Zotcade
+### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) osu! UCI
 
-| Name | Datum | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |
+| Name | Datum | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") |
 | --- | --- | --- | --- | --- |
-| [iDOL@NSTER](/wiki/Tournaments/Zotcade/2019) | 2019-05-19 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760) (osu!mania) | ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231) (osu!), ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
+| [The iDOL@NSTER: Irvine Spring Stage](osu!_UCI/iDOL@NSTER) | 2019-05-19 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760) (osu!mania) | ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231) (osu!), ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
+| [Night Fall LAN](osu!_UCI/NFL) | 2020-01-18 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) (osu!), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576) (osu!mania) | ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013) (osu!), ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ![][flag_CA] [Dark lord bob](https://osu.ppy.sh/users/4588299) (osu!mania) |
 
 ## Siehe auch
 

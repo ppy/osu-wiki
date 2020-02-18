@@ -1,7 +1,11 @@
+---
+needs_cleanup: true
+---
+
 [true]: /wiki/shared/true.png
 [false]: /wiki/shared/false.png
 
-# osu!
+# osu! skinning
 
 *See also: [Skinning osu! Tutorial](/wiki/Skinning_osu!_Tutorial)*
 

@@ -1,16 +1,20 @@
+---
+outdated: true
+---
+
 # FAQ
 
 下列为 osu! 的基本游戏玩法，以及游戏的得点系统与分界面。
 
-# 游戏玩法
+## 游戏玩法
 
-## 我可没玩过 "应援团" - 这到底是什么来的啊？
+### 我可没玩过 "应援团" - 这到底是什么来的啊？
 
 嗯，那么先来个说明吧。“应援团”是任天堂DS的音乐节奏游戏。基本玩法有三项，即：
 
-1.  点击银幕上的圈圈
-2.  在指定的“滑条”上拖着一粒球
-3.  快速旋转大轮盘
+1. 点击银幕上的圈圈
+2. 在指定的“滑条”上拖着一粒球
+3. 快速旋转大轮盘
 
 这个游戏的每个关卡，是架构在当下流行日文歌曲(的翻唱)的节奏内，以下为图片简介
 
@@ -18,13 +22,13 @@
 
 游戏在DS下方银幕进行,上方则是故事的进展程度，会随着玩家演出的好坏而变。每一个关卡是一个故事，讲叙每个关卡的主人所遇到的困难；魔法般的应援团（即日本传统式的加油队伍)必须支援主人走出困境。
 
-## 我要怎么玩这游戏啊？
+### 我要怎么玩这游戏啊？
 
-虽然不是人人都有个平板电脑(tablet PC)，但是这游戏支援滑鼠操控，其实只要是输入硬件都可以拿来玩游戏（Synaptics触摸板也可，Wii Remote也可，数位板 (graphics tablet) 也可）。有些歌曲虽然对于滑鼠操控呈现了极高难度的挑战，但经过鉴定后，用滑鼠过关并非不可能的任务哦！另外，听起来用Synaptics触摸板完成游戏似乎是种不可能的任务，但是只要配合[几个小软件](https://puu.sh/u9x9)，再加上一段时间的练习，打出好成绩也不是不可能的哦！如果想了解更多关于使用Synaptics玩osu!的信息，请看<http://tieba.baidu.com/p/1583861538>
+虽然不是人人都有个平板电脑(tablet PC)，但是这游戏支援滑鼠操控，其实只要是输入硬件都可以拿来玩游戏（Synaptics触摸板也可，Wii Remote也可，数位板 (graphics tablet) 也可）。有些歌曲虽然对于滑鼠操控呈现了极高难度的挑战，但经过鉴定后，用滑鼠过关并非不可能的任务哦！另外，听起来用Synaptics触摸板完成游戏似乎是种不可能的任务，但是只要配合[几个小软件](https://puu.sh/u9x9)，再加上一段时间的练习，打出好成绩也不是不可能的哦！如果想了解更多关于使用Synaptics玩osu!的信息，请看[Link](http://tieba.baidu.com/p/1583861538)
 
 那么，接下来是游戏玩法的介绍。
 
-### 进入游戏
+#### 进入游戏
 
 首先看看有没有打开菜单栏。如果有，osu!图标旁边将会有四个按钮。如果没有，那就在游戏主界面上面晃动鼠标或者点击osu!图标。
 
@@ -32,13 +36,13 @@
 
 点击 **Play** 之后，四个按钮将变成 **Solo（单人）**, **Multi（多人）** 和 **Back（返回）**
 
-点击 **Solo** 按钮后可以选择模式(osu!标准模式、[太鼓模式(Taiko)](ZH:Taiko "wikilink")、[接水果模式(Catch the Beat)和](ZH:Catch_The_Beat "wikilink")[osu!mania模式](osu!mania "wikilink"))、歌曲和难度，然后开始游戏。
+点击 **Solo** 按钮后可以选择模式(osu!标准模式、[太鼓模式(Taiko)](/wiki/Game_Modes/osu!taiko)、[接水果模式(Catch the Beat)和](/wiki/Game_Modes/osu!catch)[osu!mania模式](/wiki/Game_Modes/osu!mania))、歌曲和难度，然后开始游戏。
 
-点击 **Multi** 按钮后将出现房间列表和聊天窗口。点击房间以加入多人游戏，或者点击New Game以建立房间。请参见 [Multi](/wiki/Multi "wikilink") (English)。
+点击 **Multi** 按钮后将出现房间列表和聊天窗口。点击房间以加入多人游戏，或者点击New Game以建立房间。请参见 [Multi](/wiki/Multi) (English)。
 
 下面开始介绍osu!标准模式的游戏玩法。
 
-#### 点击圈圈 (Hit Circle)
+##### 点击圈圈 (Hit Circle)
 
 ![](/wiki/shared/osu_hitcircles.jpg)
 
@@ -46,7 +50,7 @@
 
 光肉眼瞪着这些圈圈是不够的；随着音乐的节奏来点击这些圈圈乃上上策。
 
-#### 滑条 (Slider)
+##### 滑条 (Slider)
 
 ![](/wiki/shared/osu_slider.jpg)
 
@@ -54,7 +58,7 @@
 
 有时，滑条的另一边（如上图）会有折返指示；您只需要顺着原来的滑条倒退即可。
 
-#### 大轮盘 (Spinner)
+##### 大轮盘 (Spinner)
 
 ![](/wiki/shared/osu_spinner.jpg)
 
@@ -64,7 +68,7 @@
 
 单击按住鼠标时，您的滑鼠会“锁”进轮盘旋转区内，所以您大可以试着抓狂般的旋转，又或者慢慢转小圈圈 - 随您所好。在此建议您边看他人的重播演出，边练习。
 
-### 游戏之内的界面
+#### 游戏之内的界面
 
 ![](/wiki/shared/Interface_osu.jpg)
 
@@ -78,9 +82,9 @@
 
 欲知游戏的操作，不妨看一下玩家录像，或许对您帮得上忙呢！
 
-## 积分/准确度的方程式
+### 积分/准确度的方程式
 
-### 准确度(Accuracy)
+#### 准确度(Accuracy)
 
 在此，每一个点击圈圈，滑条（包括滑条上的小豆豆以及滑条的开始、结束），大轮盘皆为“点击”。
 
@@ -92,7 +96,7 @@
 
 换句话说，失误不算分，点击50，100，300分别是50，100，300分，把这些数目总合起来，再除以点击总计乘以300，可算出您的准确度。 如果您的所有点击皆为300，准确度将会是100%； 如果您的所有点击皆为100，准确度将会是33.3%。
 
-### 积分(Scoring)
+#### 积分(Scoring)
 
 在此先声明： 1. Combo - 连打。Combo值会随着您连续的点击成功而上升（成功的定义为最少50分判定） 2. Mod - 难度调整器。在开始完一首歌之前，您可以按F1选择您要的难度调整器（详细清您参考此FAQ的《游戏界面》篇。）
 
@@ -106,70 +110,72 @@
 
 大轮盘每一次成功转好是100分，如果轮盘过关之后再继续转，后续的每一圈附加额外1000分。
 
-### 点击判定(Judgement)
+#### 点击判定(Judgement)
 
 依照节奏点击，您每一次的点击将分为300，100，50计算，全靠您点击时到底有多准确。 没有点击圈圈，又或者点击过早，将会是个失误判定。 滑条的判定就稍稍不同，准确度是依靠滑条的开头、结尾和路上的小豆豆(称为Tick)。如果您能完全跟好滑条，那么你的判定是300，如果超过一半的豆豆就是100，就一个或以上还是可以得到50。只有完完全全没按到滑条的开头、结尾和小豆豆中的任意一样时才会以失误计算。 附带声明，如果按的太早，**combo值将会归零并且相当于没有点击到滑条的开头，但只要后面跟上来了，还是不会计算为失误**。
 
 大轮盘的判定依靠的是您转轮盘的次数。转大轮盘的时间长短，会对大轮盘的过关要求造成相对的调整。如果没有办法到达一定的要求，那么会对您的大轮盘造成失误判定。
 
-### Combo值
+#### Combo值
 
 下列为增加combo值的条件:
 
--   成功点击圈圈。
--   成功点击滑条开端。
--   成功完成滑条。
--   成功越过滑条上的小豆豆。
--   成功完成大轮盘。
+- 成功点击圈圈。
+- 成功点击滑条开端。
+- 成功完成滑条。
+- 成功越过滑条上的小豆豆。
+- 成功完成大轮盘。
 
 下列为combo值归零的条件:
 
--   没有成功点击圈圈。
--   没有成功点击滑条的开端，或者没有越过其中一个或几个小豆豆。
--   没有成功完成大轮盘。
+- 没有成功点击圈圈。
+- 没有成功点击滑条的开端，或者没有越过其中一个或几个小豆豆。
+- 没有成功完成大轮盘。
 
 下列对combo值没有影响:
 
--   没有成功越过滑条尾端。
--   在大轮盘末端转出了更多的分数。
+- 没有成功越过滑条尾端。
+- 在大轮盘末端转出了更多的分数。
 
-### 评分
+#### 评分
 
-#### ![](/wiki/shared/mode/osu.png) osu!
+##### ![](/wiki/shared/mode/osu.png) osu!
 
-Grade| Condition
-:---:|:---
-SS | 100% 准确度
-S  | 300 超过 90%，50 低于 1% 并且没有失误
-A  | 300 超过 80% 并且没有失误 **或** 300 超过 90%
-B  | 300 超过 70% 并且没有失误 **或** 300 超过 80%
-C  | 300 超过 60%
-D  | 其它任何情况
+| Grade | Condition |
+| :-: | :-- |
+| SS | 100% 准确度 |
+| S | 300 超过 90%，50 低于 1% 并且没有失误 |
+| A | 300 超过 80% 并且没有失误 **或** 300 超过 90% |
+| B | 300 超过 70% 并且没有失误 **或** 300 超过 80% |
+| C | 300 超过 60% |
+| D | 其它任何情况 |
 
 银色 S 或 SS 意味着玩家玩歌曲时，使用了 hidden 或 flashlight 难度调整器并达到了 S 或 SS 的要求。
 
-### 生命显示(Life bar)
+#### 生命显示(Life bar)
 
 生命值的计算方程式，在此将不给予详细商讨，因为实在是太复杂了。但是重要的是，每一首歌生命值的跌落速度是可以调快或调慢的，这完全取决于歌曲的作者设置的HP Drain值。
 
 下列是生命值增加的条件:
 
--   成功点击圈圈。(点击判定越好，所获得的生命增加会越高。点击颜色combo的尾端会给予较多的生命增加）
--   成功点击滑条开端，越过滑条上的小豆豆，以及完成滑条。（判定越好，所获得的生命增加会越高）
--   成功完成大轮盘。
+- 成功点击圈圈。(点击判定越好，所获得的生命增加会越高。点击颜色combo的尾端会给予较多的生命增加）
+- 成功点击滑条开端，越过滑条上的小豆豆，以及完成滑条。（判定越好，所获得的生命增加会越高）
+- 成功完成大轮盘。
 
 下列是生命值减少的条件:
 
--   没有成功点击圈圈。
--   没有成功点击滑条的开端，或者没有越过小豆豆。
--   没有成功越过滑条尾端。
--   没有成功完成大轮盘。
+- 没有成功点击圈圈。
+- 没有成功点击滑条的开端，或者没有越过小豆豆。
+- 没有成功越过滑条尾端。
+- 没有成功完成大轮盘。
 
-# 其他特殊游戏模式
+## 其他特殊游戏模式
 
-## 太鼓(Taiko)模式怎样玩？
+### 太鼓(Taiko)模式怎样玩？
 
-[200px|thumb|right|Taiko 界面](image:taiko.jpg "wikilink") 向那些不熟悉的人介绍一下吧，太鼓达人是Namco制作的太鼓音乐类游戏，根据音乐的节奏敲击模拟出来的鼓。在osu!里，您可以用太鼓模式来玩您所喜欢的beatmap。
+![](/wiki/shared/Interface_taiko.jpg)
+
+向那些不熟悉的人介绍一下吧，太鼓达人是Namco制作的太鼓音乐类游戏，根据音乐的节奏敲击模拟出来的鼓。在osu!里，您可以用太鼓模式来玩您所喜欢的beatmap。
 
 和osu!类似，太鼓模式也有三大基本要素：
 
@@ -199,7 +205,7 @@ D  | 其它任何情况
 
 注意的是，在太鼓模式里面光标的位置是没有关系的，放在哪里都一样。
 
-## 什么是“接水果”(Catch the Beat,CtB)？
+### 什么是“接水果”(Catch the Beat,CtB)？
 
 接水果是继太鼓模式后，第二个加入的特别游戏模式。这里您不需要点击圈圈，取而代之的是控制一个在屏幕底部的小人接住从天而降的水果。
 
@@ -211,9 +217,9 @@ D  | 其它任何情况
 
 某些谱面可能加入了在接水果模式里不能接到的大距离节奏，此时游戏程序会自动加快小人的移动速度，并且会在背景显示红色以作提示。
 
-## 什么是“osu!mania”? (翻译未完成)
+### 什么是“osu!mania”? (翻译未完成)
 
-![ thumb | 200px | osu!mania 界面 (7K)]( Mania screenshot.jpg  " thumb | 200px | osu!mania 界面 (7K)")
+![](/wiki/shared/Interface_mania.jpg)
 
 osu!mania是继太鼓和接水果模式后，第三个加入的特别模式
 
@@ -223,98 +229,44 @@ osu!mania是继太鼓和接水果模式后，第三个加入的特别模式
 
 到目前为止，你可以将键位的数量更改到4个~8个。
 
-### 控制
+#### 控制
 
-<img src="Mania Key Bind.png" title="fig:[Symmetrical]Key Bind colour and placement by number of buttons (outdated)" alt="[Symmetrical]Key Bind colour and placement by number of buttons (outdated)" width="200" /> <img src="Mania KEY Layouts.jpg" title="fig:Default Key layouts of osu!mania (Options-&gt;Input)" alt="Default Key layouts of osu!mania (Options-&gt;Input)" width="500" /> There two different binding-styles, *Symmetrical* and *Left to Right*. (Can be found in Options-&gt;Input)
+![](/wiki/shared/Mania_key_layouts.jpg)
 
--   *Symmetrical* style mimics the button placement of DJMAX, in which the center key is "spacebar", in which, created a feeling of "stepping" the pedal similar to the arcade version. Centre key matches the middle column (5K and 7K only) and the other column matches the keys in its corresponding place.
--   *Left to Right* style mimics the button placement of Beatmania IIDX, where the first column matches to the key1, then the second column matches the key2 and so on.
+- *Symmetrical* style mimics the button placement of DJMAX, in which the center key is "spacebar", in which, created a feeling of "stepping" the pedal similar to the arcade version. Centre key matches the middle column (5K and 7K only) and the other column matches the keys in its corresponding place.
+- *Left to Right* style mimics the button placement of Beatmania IIDX, where the first column matches to the key1, then the second column matches the key2 and so on.
 
 *Symmetrical* key binding (For DJMAX style)
 
--   For *left* hand buttons — (K1)**A**, (K2)**S**, (K3)**D**, (K4)**F**
--   For *right* hand buttons — (K6)**J**, (K7)**K**, (K8)**L**, (K9)**semicolon ";"**.
--   *Center* button — (K5)**spacebar**. \[On 5K and 7K only\]
--   The *Special* button — **left SHIFT** and **left control "Ctrl"**.
+- For *left* hand buttons — (K1)**A**, (K2)**S**, (K3)**D**, (K4)**F**
+- For *right* hand buttons — (K6)**J**, (K7)**K**, (K8)**L**, (K9)**semicolon ";"**.
+- *Center* button — (K5)**spacebar**. \[On 5K and 7K only\]
+- The *Special* button — **left SHIFT** and **left control "Ctrl"**.
 
 *Left to Right* key binding (For Beatmania IIDX style)
 
--   From down to up then down to up again: (K1)**Z**, (K2)**S**, (K3)**X**, (K4)**D**, (K5)**C**, (K6)**F**, (K7)**V**, (K8)**G**, (K9)**B** \[K9 is not used\]
--   The *Special* button — **left SHIFT** and **left control "Ctrl"**.
+- From down to up then down to up again: (K1)**Z**, (K2)**S**, (K3)**X**, (K4)**D**, (K5)**C**, (K6)**F**, (K7)**V**, (K8)**G**, (K9)**B** \[K9 is not used\]
+- The *Special* button — **left SHIFT** and **left control "Ctrl"**.
 
-<table style="width:19%;">
-<colgroup>
-<col width="3%" />
-<col width="15%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th align="center"><p>Key</p></th>
-<th align="center"><p>Symmetrical binding</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="center"><p>4K</p></td>
-<td align="center"><p>K3, K4</p></td>
-</tr>
-<tr class="even">
-<td align="center"><p>5K</p></td>
-<td align="center"><p>K3, K4</p></td>
-</tr>
-<tr class="odd">
-<td align="center"><p>6K</p></td>
-<td align="center"><p>K2, K3, K4</p></td>
-</tr>
-<tr class="even">
-<td align="center"><p>7K</p></td>
-<td align="center"><p>K2, K3, K4</p></td>
-</tr>
-<tr class="odd">
-<td align="center"><p>8K</p></td>
-<td align="center"><p>K1, K2, K3, K4</p></td>
-</tr>
-</tbody>
-</table>
+| Key | Symmetrical binding |
+| :-: | :-: |
+| 4K | K3, K4 |
+| 5K | K3, K4 |
+| 6K | K2, K3, K4 |
+| 7K | K2, K3, K4 |
+| 8K | K1, K2, K3, K4 |
 
-<table style="width:19%;">
-<colgroup>
-<col width="3%" />
-<col width="15%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th align="center"><p>Key</p></th>
-<th align="center"><p>Left-To-Right binding</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="center"><p>4K</p></td>
-<td align="center"><p>K1, K2</p></td>
-</tr>
-<tr class="even">
-<td align="center"><p>5K</p></td>
-<td align="center"><p>K1, K2, K3, K4, K5</p></td>
-</tr>
-<tr class="odd">
-<td align="center"><p>6K</p></td>
-<td align="center"><p>K1, K2, K3, K4, K5, K6</p></td>
-</tr>
-<tr class="even">
-<td align="center"><p>7K</p></td>
-<td align="center"><p>K1, K2, K3, K4, K5, K6, K7</p></td>
-</tr>
-<tr class="odd">
-<td align="center"><p>8K</p></td>
-<td align="center"><p>K1, K2, K3, K4, K5, K6, K7, K8</p></td>
-</tr>
-</tbody>
-</table>
+| Key | Left-To-Right binding |
+| :-: | :-: |
+| 4K | K1, K2 |
+| 5K | K1, K2, K3, K4, K5 |
+| 6K | K1, K2, K3, K4, K5, K6 |
+| 7K | K1, K2, K3, K4, K5, K6, K7 |
+| 8K | K1, K2, K3, K4, K5, K6, K7, K8 |
 
-# Common Issues
+## Common Issues
 
-## 我的上榜分数没有增加！这是个bug么？
+### 我的上榜分数没有增加！这是个bug么？
 
 不，这不是bug。
 
@@ -324,22 +276,22 @@ osu!mania是继太鼓和接水果模式后，第三个加入的特别模式
 
 举个例子，我在以下三个谱面里的不同难度取得了如下的分数：
 
--   BRANDY - The Festival of Ghosts 2
-    -   Relaxing : 3,000,000
-    -   DaRRi MIx : 5,000,000
--   ZZ - Samurai Blue
-    -   Easy : 500,000
-    -   Normal : 1,000,000
-    -   Hard : 没有分数
--   Matchbox 20 - How Far We've Come
-    -   Normal : 2,000,000
-    -   Hard : 1,500,000
+- BRANDY - The Festival of Ghosts 2
+  - Relaxing : 3,000,000
+  - DaRRi MIx : 5,000,000
+- ZZ - Samurai Blue
+  - Easy : 500,000
+  - Normal : 1,000,000
+  - Hard : 没有分数
+- Matchbox 20 - How Far We've Come
+  - Normal : 2,000,000
+  - Hard : 1,500,000
 
 我在每张谱面取得的总的最高分数是5,000,000 + 1,000,000 + 2,000,000 = 8,000,000，这同时也是我的上榜总分数。
 
 需要留意的是，您在approved的谱面里取得的分数不会算进您的上榜总分数(但是会计算准确度)。approved的map会用“火焰”标志来标明，和以“爱心”标明的上榜谱面有所区别。 另外，Pending的铺面里取得的所有分数均不会算进您的上榜总分数，也不会计算准确度。Pending的map会用“问号”标志来标明。最常见的Pending例子是内置的教程(Tutorial)。
 
-## 我可以关掉一些影响我游戏的东西吗
+### 我可以关掉一些影响我游戏的东西吗
 
 #### Kiai Time（高潮时间）
 
@@ -349,8 +301,8 @@ osu!mania是继太鼓和接水果模式后，第三个加入的特别模式
 
 可以，请：
 
--   利用内置的“Background Dim”（背景变暗）功能。先进入游戏界面，然后在最开始或者暂停游戏时将鼠标移动到靠近游戏界面下边缘附近（会弹出**Visual Settings**），然后将Background Dim滑块移动至可接受的程度即可。这个选项的默认值是30%。这种方法是无法彻底清除背景图的。如果需要彻底清除背景图（虽然不建议这么做），请：
--   使用其他的图片来覆盖歌曲文件夹中的背景图片文件。打开osu安装目录里面的Songs文件夹，然后找到歌曲，再把文件夹里面歌曲的背景图换掉就好了。如果看不出哪一张是背景图的话，打开预览来和osu!里面的图比较或者用记事本等文本编辑器来打开一个osz文件，然后找到**\[Events\]**里面的图片文件。
+- 利用内置的“Background Dim”（背景变暗）功能。先进入游戏界面，然后在最开始或者暂停游戏时将鼠标移动到靠近游戏界面下边缘附近（会弹出**Visual Settings**），然后将Background Dim滑块移动至可接受的程度即可。这个选项的默认值是30%。这种方法是无法彻底清除背景图的。如果需要彻底清除背景图（虽然不建议这么做），请：
+- 使用其他的图片来覆盖歌曲文件夹中的背景图片文件。打开osu安装目录里面的Songs文件夹，然后找到歌曲，再把文件夹里面歌曲的背景图换掉就好了。如果看不出哪一张是背景图的话，打开预览来和osu!里面的图比较或者用记事本等文本编辑器来打开一个osz文件，然后找到**\[Events\]**里面的图片文件。
 
 #### 背景视频
 
@@ -364,45 +316,49 @@ osu!mania是继太鼓和接水果模式后，第三个加入的特别模式
 
 可以，在选项或Visual Setting里禁用。
 
-## 这些map太难了，有没有一些简单点的介绍一下？
+### 这些map太难了，有没有一些简单点的介绍一下？
 
-Pokebis 已经收集了一些适合初学者玩的谱面。您可以在这里[下载](https://osu.ppy.sh/forum/viewtopic.php?t=5456)。
+Pokebis 已经收集了一些适合初学者玩的谱面。您可以在这里[下载](https://osu.ppy.sh/community/forums/topics/5456)。
 
-同时，您可以[按照难度来对谱面列表进行重新排序](https://osu.ppy.sh/?p=beatmaplist&s=3)。最容易的谱面就在列表的最上面。
+同时，您可以[按照难度来对谱面列表进行重新排序](https://osu.ppy.sh/beatmapsets)。最容易的谱面就在列表的最上面。
 
-您也可以看[这一帖](https://osu.ppy.sh/forum/viewtopic.php?f=25&t=13976)，Alace为中文玩家整理了一些简单的谱面并作了难点分析。挑选适合自己的谱面开始您的osu!旅程吧！
+您也可以看[这一帖](https://osu.ppy.sh/community/forums/topics/13976)，Alace为中文玩家整理了一些简单的谱面并作了难点分析。挑选适合自己的谱面开始您的osu!旅程吧！
 
-## Level的用途是什么?是放爽的吗?
+### Level的用途是什么?是放爽的吗?
 
 是的，是放爽的，请原谅当时peppy太无聊 XD
 
 Level是根据你在线时所累积的分数(及时你中途失败也会计算在内)计算的。其计算公式是:
 
-`5,000 / 3 * (4n^3 - 3n^2 - n) + 1.25 * 1.8^(n - 60), where n <= 100`
-`26,931,190,829 + 100,000,000,000 * (n - 100), where n >= 101`
+`5,000 / 3 * (4n^3 - 3n^2 - n) + 1.25 * 1.8^(n - 60), where n < 100`
+`26,931,190,827 + 99,999,999,999 * (n - 100), where n >= 100`
 
 级别的数目会在进度条旁显示。
 
 *注意：* 如果你要从 level 101 上升至 level 102，你必须要得到1,270,000,000分。
 
-## 为什么我的rank和pp不一样(变少)了?!!!!
+### 为什么我的rank和pp不一样(变少)了?!!!!
 
 你人品有问题，所以系统代替月亮来惩罚你(割
 
-你可能在看着其他模式的rank和pp，请在最上边选择你正在玩的模式: ![](Profile_Mode_Buttons.gif "fig:Profile_Mode_Buttons.gif")
+你可能在看着其他模式的rank和pp，请在最上边选择你正在玩的模式:
 
-## 为什么我玩游戏时会看到一些类似白雾的东西?
+![](img/Profile_mode_buttons.gif)
 
-请确保smoke/skywriting的按键和你玩游戏时使用的按键是不一样的: ![](Screenshot085.jpg "fig:Screenshot085.jpg")
+### 为什么我玩游戏时会看到一些类似白雾的东西?
 
-## 专用名词
+请确保smoke/skywriting的按键和你玩游戏时使用的按键是不一样的:
+
+![](/wiki/shared/osu_smoke.jpg)
+
+### 专用名词
 
 随着游戏的发展，游戏玩家中交流用的专用名词也出现了不少。下面是几个比较常用的名词：
 
--   触手(神手)：指游戏技术十分高超的玩家
--   沙包(初学者)：指各方面均不熟练的普通玩家
--   纯鼠：即只使用鼠标进行游戏
--   键鼠：使用鼠标移动，用键盘来点击
--   纯板：只使用数位板进行游戏
--   键板：使用数位板移动，用键盘来点击
--   双刀：用键盘点击的同时，鼠标或数位板也承担一部分点击操作
+- 触手(神手)：指游戏技术十分高超的玩家
+- 沙包(初学者)：指各方面均不熟练的普通玩家
+- 纯鼠：即只使用鼠标进行游戏
+- 键鼠：使用鼠标移动，用键盘来点击
+- 纯板：只使用数位板进行游戏
+- 键板：使用数位板移动，用键盘来点击
+- 双刀：用键盘点击的同时，鼠标或数位板也承担一部分点击操作

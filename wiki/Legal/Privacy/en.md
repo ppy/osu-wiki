@@ -2,11 +2,11 @@
 legal: true
 ---
 
-# osu! Privacy Policy
+# osu! privacy policy
 
 Last Updated 25th May 2018. [View history here](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Privacy/en.md)
 
-In addition to this policy, please also make sure to visit and understand our [Terms of Service](/legal/terms).
+In addition to this policy, please also make sure to visit and understand our [Terms of Service](https://osu.ppy.sh/legal/terms).
 
 ## Introduction
 
@@ -18,7 +18,7 @@ In order to offer these services to you, we must often collect, store and transm
 
 This document aims to describe what information we collect on our network and in the use of our products and services, how we use that information and what options we offer you to control your personal information.
 
-By using our service, you confirm that you have read and understood the [Terms of Service](/legal/terms) and this privacy policy, including how and why we use your information and that your use of the service is subject to the applicable Terms of Service and this Privacy Policy. If you do not want us to collect or process your personal information as described herein, you have several choices including limiting the information we collect on you, or not using the Network, or our Products and Services.
+By using our service, you confirm that you have read and understood the [Terms of Service](https://osu.ppy.sh/legal/terms) and this privacy policy, including how and why we use your information and that your use of the service is subject to the applicable Terms of Service and this Privacy Policy. If you do not want us to collect or process your personal information as described herein, you have several choices including limiting the information we collect on you, or not using the Network, or our Products and Services.
 
 ## Information we collect
 

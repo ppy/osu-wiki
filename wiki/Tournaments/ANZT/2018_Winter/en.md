@@ -21,25 +21,25 @@ The **Aus/NZ osu!standard Tournament 5 - Winter** (***ANZT 5W***) was a double e
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 4 months of osu!supporter tag, unique profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter tag, unique profile badge |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
 ## Organisation
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135) |
-| Scheduling | ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135) |
-| Commentators | ![][flag_AU] [Kor3ry3-Kun](https://osu.ppy.sh/users/6279567), ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044), ![][flag_AU] [Jordan The Bear](https://osu.ppy.sh/users/7477458), ![][flag_AU] [Monk Gyatso](https://osu.ppy.sh/users/4012086), ![][flag_AU] [Takagaki](https://osu.ppy.sh/users/3698691), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203) |
-| Streamers | ![][flag_AU] [Astellis](https://osu.ppy.sh/users/8369780), ![][flag_AU] [Bauxe](https://osu.ppy.sh/users/1881685), ![][flag_AU] [pewdekz](https://osu.ppy.sh/users/5754859) |
-| Referees | ![][flag_AU] [loler123903](https://osu.ppy.sh/users/8034438), ![][flag_AU] [Astellis](https://osu.ppy.sh/users/8369780), ![][flag_AU] [Soulskyeflare](https://osu.ppy.sh/users/8264319), ![][flag_AU] [awesometa](https://osu.ppy.sh/users/7114425) |
-| Mappool Selectors | ![][flag_AU] [Elsa Valentine](https://osu.ppy.sh/users/4525153), ![][flag_US] [LowAccuracySS](https://osu.ppy.sh/users/7306763), ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/users/3361154), ![][flag_AT] [Shiinoha Kotone](https://osu.ppy.sh/users/5712451), ![][flag_US] [noctisv_v](https://osu.ppy.sh/users/6775083), ![][flag_CA] [Legless](https://osu.ppy.sh/users/3224243) |
-| Graphics Design | ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013) |
+| Manager | ![][flag_NZ] [Diony](https://osu.ppy.sh/users/4294475), ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135) |
+| Scheduler | ![][flag_AU] [EmeraldStar82](https://osu.ppy.sh/users/3772135) |
+| Commentator | ![][flag_AU] [Kor3ry3-Kun](https://osu.ppy.sh/users/6279567), ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044), ![][flag_AU] [Jordan The Bear](https://osu.ppy.sh/users/7477458), ![][flag_AU] [Monk Gyatso](https://osu.ppy.sh/users/4012086), ![][flag_AU] [Takagaki](https://osu.ppy.sh/users/3698691), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203) |
+| Streamer | ![][flag_AU] [Astellis](https://osu.ppy.sh/users/8369780), ![][flag_AU] [Bauxe](https://osu.ppy.sh/users/1881685), ![][flag_AU] [pewdekz](https://osu.ppy.sh/users/5754859) |
+| Referee | ![][flag_AU] [loler123903](https://osu.ppy.sh/users/8034438), ![][flag_AU] [Astellis](https://osu.ppy.sh/users/8369780), ![][flag_AU] [Soulskyeflare](https://osu.ppy.sh/users/8264319), ![][flag_AU] [awesometa](https://osu.ppy.sh/users/7114425) |
+| Map Selector | ![][flag_AU] [Elsa Valentine](https://osu.ppy.sh/users/4525153), ![][flag_US] [LowAccuracySS](https://osu.ppy.sh/users/7306763), ![][flag_AU] [Quite Cynical](https://osu.ppy.sh/users/3361154), ![][flag_AT] [Shiinoha Kotone](https://osu.ppy.sh/users/5712451), ![][flag_US] [noctisv_v](https://osu.ppy.sh/users/6775083), ![][flag_CA] [Legless](https://osu.ppy.sh/users/3224243) |
+| Designer | ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013) |
 
 ## Links
 
-- [Discussion thread](/community/forums/topics/784018)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/784018)
 - [Livestream](https://www.twitch.tv/osuanzt)
 - [Results and mappool spreadsheet](https://docs.google.com/spreadsheets/d/1ylrPqTzCRTyQQG_RGBqZJZrUz_QFgSs_v26SFwhqLAs)
 
@@ -57,9 +57,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_AU] [-Machine-](https://osu.ppy.sh/users/5459981) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_AU] [-Machine-](https://osu.ppy.sh/users/5459981) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774) |
 
 All individual match results can be found on the spreadsheet linked above.
 

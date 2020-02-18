@@ -1,17 +1,15 @@
----
-outdated: true
----
+# Voulez-vous vraiment demander de l'aide à peppy ?
 
-Salutations. Je comprends ton besoin de me contacter personellement, mais je te demande de comprendre que ce n'est **pas** le bon endroit pour demander de l'aide/du support. Je garde le support d'osu! séparé de mes messages personnels, et je trouve aussi compliqué de trouver le temps de répondre aux messages privés du forum. Je te demande donc de suivre une des options suivantes:
+Salut. Je suis ([peppy](https://osu.ppy.sh/users/2)). Je peux comprendre votre envie de me contacter personnellement, mais je vous demande d’abord de comprendre que ce n'est **pas** l'endroit pour me demander de l'aide/assistance. Je garde le support d'osu! séparé des messages personnels, il est d'ailleurs assez difficile pour moi de suivre les PMs sur le forum. Je vous demande donc d'examiner les options suivantes pour trouver celle qui conviendra le mieux :
 
-## Support Technique
+## Support technique
 
-La plupart des problèmes techniques peuvent être résolus en cherchant ou en postant dans le [forum du Support Technique](https://osu.ppy.sh/community/forums/5). Il y a bon nombre de gens prêts à t'aider à résoudre ton problème, tu trouveras donc plus rapidement une solution comme ça qu'en me contactant.
+La plupart des problèmes techniques peuvent être résolus en effectuant une recherche ou en postant dans le [Forum d'assistance technique](https://osu.ppy.sh/community/forums/5). Il existe de nombreuses autres solutions pour vous aider à résoudre vos problèmes. Vous trouverez donc une solution plus rapidement que de me contacter.
 
-## Support Général d'osu!
+## Assistance générale osu!
 
-Pour les problèmes de compte, les problèmes de paiement, les suivis de bans, les renseignements à propos des tournois et **toute demande de besoin d'aide en rapport avec osu!**, tu peux envoyer un e-mail à [accounts@ppy.sh](mailto:accounts@ppy.sh) (requêtes liées au compte) ou [osu@ppy.sh](mailto:osu@ppy.sh) (tout le reste). Si un membre du support est en ligne, tu peux aussi utiliser le petit bouton "?" en bas à droite de la page que tu visites.
+Pour les problèmes liés aux comptes, problèmes de paiement, suivis de bans, demandes de renseignements sur les tournois et **tout ce qui concerne une aide quelconque sur osu!**, s'il vous plaît envoyez un e-mail à [accounts@ppy.sh](mailto:accounts@ppy.sh) (requêtes de compte) ou [osu@ppy.sh](mailto:osu@ppy.sh) (autres demandes).
 
 ## Contacter peppy
 
-Si tu souhaites me contacter personnellement pour des raisons non liées à osu!, tu peux me contacter à [pe@ppy.sh](mailto:pe@ppy.sh). Sache que toute requête liée au compte ou au support envoyée à cet e-mail sera marquée comme spam.
+Si vous souhaitez directement contacter peppy pour quelque chose n'ayant pas de rapports avec osu!, ou des raisons connexes, vous pouvez lui envoyer un courriel à [pe@ppy.sh](mailto:pe@ppy.sh). Sachez que toutes demandes d'assistance ou liées aux comptes sur cet email sera traitée comme un spam.

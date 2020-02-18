@@ -1,62 +1,71 @@
+---
+tags:
+  - difficulty
+  - difficulty name
+  - SR
+  - star rating
+  - stars
+---
+
 # Difficulties
 
-*Not to be confused with: [Beatmaps](/wiki/Beatmaps)*
+*Not to be confused with [Beatmaps](/wiki/Beatmaps).*
 
-*See also: [Ranking Criteria § Mapset](/wiki/Ranking_Criteria/#mapset)*
-
-The difficulty of a beatmap *describes* the level of skill needed to complete it.
-
-## Star rating
-
-![Star rating ranges](img/SR-range.png "Star rating ranges")
-
-For the [Ranking Criteria](/wiki/Ranking_Criteria), star ratings typically correspond to these difficulties:
-
-- ![Easy icon](/wiki/shared/diff/easy-s.png "Easy icon") Easy: 0.0★–1.99★
-- ![Normal icon](/wiki/shared/diff/normal-s.png "Normal icon") Normal: 2.0★–2.69★
-- ![Hard icon](/wiki/shared/diff/hard-s.png "Hard icon") Hard: 2.7★–3.99★
-- ![Insane icon](/wiki/shared/diff/insane-s.png "Insane icon") Insane: 4.0★–5.29★
-- ![Expert icon](/wiki/shared/diff/expert-s.png "Expert icon") Expert: 5.3★–6.49★
-- ![Expert+ icon](/wiki/shared/diff/expertplus-s.png "Expert+ icon") Expert+: >6.5★
-
-Note that these ranges are not limits; maps may deviate from the specified ranges significantly and still be acceptable.
-
-### Web icons
-
-The above star rating ranges determine which web icon is going to be used on any given beatmap. Following the icon ranges would usually give you a good estimate to achieve a balanced difficulty spread. There are some guidelines (see [the Mapset section of the Ranking Criteria](/wiki/Ranking_Criteria/#mapset)) you can follow to improve the difficulty spread of your beatmapset.
+A beatmap's **difficulty** describes the level of skill needed to complete it. The difficulty name and star rating of a beatmap usually give enough information to tell how difficult it is.
 
 ## Difficulty levels
 
-*Main page: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*See also: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
-### osu!
+These are the typical levels of difficulty that a beatmap can fall under. Specific definitions and requirements of each can be found in their respective mode's [ranking criteria](/wiki/Ranking_Criteria).
 
-- ![Easy icon](/wiki/shared/diff/easy-s.png "Easy icon") [Easy](/wiki/Easy)
-- ![Normal icon](/wiki/shared/diff/normal-s.png "Normal icon") [Normal](/wiki/Normal)
-- ![Hard icon](/wiki/shared/diff/hard-s.png "Hard icon") [Hard](/wiki/Hard)
-- ![Insane icon](/wiki/shared/diff/insane-s.png "Insane icon") [Insane](/wiki/Insane)
-- ![Expert icon](/wiki/shared/diff/expert-s.png "Expert icon") [Expert](/wiki/Expert)
+### ![](/wiki/shared/mode/osu.png) osu!
 
-### osu!taiko
+- ![](/wiki/shared/diff/easy-s.png) Easy
+- ![](/wiki/shared/diff/normal-s.png) Normal
+- ![](/wiki/shared/diff/hard-s.png) Hard
+- ![](/wiki/shared/diff/insane-s.png) Insane
+- ![](/wiki/shared/diff/expert-s.png) Expert
+- ![](/wiki/shared/diff/expertplus-s.png) Expert+
 
-- ![Kantan icon](/wiki/shared/diff/easy-t.png "Kantan icon") [Kantan](/wiki/Kantan)
-- ![Futsuu icon](/wiki/shared/diff/normal-t.png "Futsuu icon") [Futsuu](/wiki/Futsuu)
-- ![Muzukashii icon](/wiki/shared/diff/hard-t.png "Muzukashii icon") [Muzukashii](/wiki/Muzukashii)
-- ![Oni icon](/wiki/shared/diff/insane-t.png "Oni icon") [Oni](/wiki/Oni)
-- ![Ura Oni icon](/wiki/shared/diff/expert-t.png "Ura Oni icon") [Ura Oni](/wiki/Ura_Oni) (sometimes called _Inner Oni_)
+### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
-### osu!catch
+- ![](/wiki/shared/diff/easy-t.png) Kantan
+- ![](/wiki/shared/diff/normal-t.png) Futsuu
+- ![](/wiki/shared/diff/hard-t.png) Muzukashii
+- ![](/wiki/shared/diff/insane-t.png) Oni
+- ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
+- ![](/wiki/shared/diff/expertplus-t.png) Outer/Hell Oni
 
-- ![Cup icon](/wiki/shared/diff/easy-c.png "Cup icon") Cup
-- ![Salad icon](/wiki/shared/diff/normal-c.png "Salad icon") Salad
-- ![Platter icon](/wiki/shared/diff/hard-c.png "Platter icon") Platter
-- ![Rain icon](/wiki/shared/diff/insane-c.png "Rain icon") Rain
-- ![Overdose icon](/wiki/shared/diff/expert-c.png "Overdose icon") Overdose
+### ![](/wiki/shared/mode/catch.png) osu!catch
 
-### osu!mania
+- ![](/wiki/shared/diff/easy-c.png) Cup
+- ![](/wiki/shared/diff/normal-c.png) Salad
+- ![](/wiki/shared/diff/hard-c.png) Platter
+- ![](/wiki/shared/diff/insane-c.png) Rain
+- ![](/wiki/shared/diff/expert-c.png) Overdose
+- ![](/wiki/shared/diff/expertplus-c.png) Overdose+
 
-- ![EZ icon](/wiki/shared/diff/easy-m.png "EZ icon") EZ
-- ![NM icon](/wiki/shared/diff/normal-m.png "NM icon") NM
-- ![HD icon](/wiki/shared/diff/hard-m.png "HD icon") HD
-- ![MX icon](/wiki/shared/diff/insane-m.png "MX icon") MX
-- ![SC icon](/wiki/shared/diff/expert-m.png "SC icon") SC
+### ![](/wiki/shared/mode/mania.png) osu!mania
+
+- ![](/wiki/shared/diff/easy-m.png) Easy
+- ![](/wiki/shared/diff/normal-m.png) Normal
+- ![](/wiki/shared/diff/hard-m.png) Hard
+- ![](/wiki/shared/diff/insane-m.png) Insane
+- ![](/wiki/shared/diff/expert-m.png) Expert
+- ![](/wiki/shared/diff/expertplus-m.png) Expert+
+
+## Star rating
+
+![Star rating ranges](img/SR-range.png)
+
+On the website, beatmaps are automatically given a difficulty icon based on these star rating ranges:
+
+- ![](/wiki/shared/diff/easy-s.png) Easy: 0.0★–1.99★
+- ![](/wiki/shared/diff/normal-s.png) Normal: 2.0★–2.69★
+- ![](/wiki/shared/diff/hard-s.png) Hard: 2.7★–3.99★
+- ![](/wiki/shared/diff/insane-s.png) Insane: 4.0★–5.29★
+- ![](/wiki/shared/diff/expert-s.png) Expert: 5.3★–6.49★
+- ![](/wiki/shared/diff/expertplus-s.png) Expert+: 6.5★ and above
+
+Most maps' intended difficulty levels match the icons they are given, but some deviate significantly. This is why the [ranking criteria](/wiki/Ranking_Criteria) defines more precise rules for determining difficulty and evaluating beatmapset spreads.

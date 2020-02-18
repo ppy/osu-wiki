@@ -3,6 +3,8 @@ tags:
 - {ABBR}
 ---
 
+***This template is currently outdated.*** <https://github.com/ppy/osu-wiki/issues/2621>
+
 <!--
 Find and replace those tags listed below with proper information, then delete this comment.
 {TOURNAMENT_NAME} = tournament name
@@ -48,9 +50,9 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") |  |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") |  |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") |  |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") |  |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") |  |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") |  |
 
 ## Organisation
 
@@ -59,13 +61,13 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 | Position | Member(s) |
 | :-- | :-- |
 | Example; delete this line | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_AU] [BanchoBot](https://osu.ppy.sh/users/3) |
-| Management |  |
-| Map Selectors |  |
-| Streamers |
-| Commentators |  |
-| Designers |
-| Referees |
-| Statisticians |  |
+| Manager |  |
+| Map Selector |  |
+| Streamer |
+| Commentator |  |
+| Designer |
+| Referee |
+| Statistician |  |
 
 ## Links
 
@@ -117,21 +119,26 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 
 --------------------------------
 
-## Match Results
+## Match results
 
-### Finals - Week 2
+### Finals
 
-| Day, date |  |  |  |  |
+<!-- If the tournament is double-elimination: -->
+#### Winners bracket
+
+Day, date:
+
+| Blue team | | | Red team | Match link |
+<!-- For solo tournaments, replace table header with: | Player 1 | | | Player 2 | Match link | -->
 | --: | :-: | :-: | :-- | :-- |
-| TEAM_A ![][flag] | SCORE | SCORE | ![][flag] TEAM_B | [#1](MATCH_LINK) |
-| TEAM_C ![][flag] | SCORE | SCORE | ![][flag] TEAM_D | -win by default- |
-| TEAM_E ![][flag] | SCORE | SCORE | ![][flag] TEAM_F | -nullified- |
+| **WINNER** ![][flag] | **SCORE** | SCORE | ![][flag] LOSER | [#1](MATCH_LINK) |
+| LOSER ![][flag] | -1 <!-- It's convention to write "-1" for forfeits, but this isn't required --> | **0** | ![][flag] **WINNER** | *win by default* |
+| TEAM_A ![][flag] | 0 | 0 | ![][flag] TEAM_B | *nullified* |
 
-### Finals - Week 1
 ### Semifinals
 ### Quarterfinals
 ### Round of 16
-### Group Stage
+### Group stage
 
 ---------------------------------
 

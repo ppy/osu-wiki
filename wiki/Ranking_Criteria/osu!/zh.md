@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # osu!
 
 _父页面: [Ranking Criteria](/wiki/Ranking_Criteria)_
@@ -10,11 +14,11 @@ _父页面: [Ranking Criteria](/wiki/Ranking_Criteria)_
 
 ### 难度名称
 
--  **![Easy](/wiki/shared/diff/easy-s.png "Easy") Easy**
--  **![Normal](/wiki/shared/diff/normal-s.png "Normal") Normal**
--  **![Hard](/wiki/shared/diff/hard-s.png "Hard") Hard**
--  **![Insane](/wiki/shared/diff/insane-s.png "Insane") Insane**
--  **![Expert](/wiki/shared/diff/expert-s.png "Expert") Expert**
+-  **![](/wiki/shared/diff/easy-s.png) Easy**
+-  **![](/wiki/shared/diff/normal-s.png) Normal**
+-  **![](/wiki/shared/diff/hard-s.png) Hard**
+-  **![](/wiki/shared/diff/insane-s.png) Insane**
+-  **![](/wiki/shared/diff/expert-s.png) Expert**
 
 其他备选的命名方法请阅读 [这个帖子](https://osu.ppy.sh/community/forums/topics/178700)。
 
@@ -46,7 +50,7 @@ _父页面: [Ranking Criteria](/wiki/Ranking_Criteria)_
 
 ## 总体
 
-总体规定和指南适用于各种 osu!难度。节奏相关的指南适用于 180 BPM 左右的 4/4 拍谱面。如果你的歌曲的 BPM 比 180 快很多或者慢很多，一些设定值会不一样，[这篇文章](/wiki/Ranking_Criteria/osu!/Scaling_BPM)中有更详细的介绍。
+总体规定和指南适用于各种 osu!难度。节奏相关的指南适用于 180 BPM 左右的 4/4 拍谱面。如果你的歌曲的 BPM 比 180 快很多或者慢很多，一些设定值会不一样，[这篇文章](/wiki/Ranking_Criteria/Scaling_BPM)中有更详细的介绍。
 
 ### 通用
 
@@ -104,7 +108,7 @@ _父页面: [Ranking Criteria](/wiki/Ranking_Criteria)_
 
 具体难度的规定和指南只适用于与它们在文中所列出位置相对应的难度，因此_不是**每个** osu! 难度都适用_。节奏相关的指南适用于 BPM180 左右的歌曲。如果你的歌曲的 BPM 比 180 快很多或者慢很多，一些数值会不一样，在这些情况下请合理判断其适用性。
 
-### ![Easy](/wiki/shared/diff/easy-s.png "Easy") Easy
+### ![](/wiki/shared/diff/easy-s.png) Easy
 
 #### 规定
 
@@ -129,7 +133,7 @@ _父页面: [Ranking Criteria](/wiki/Ranking_Criteria)_
 -  AR 应该不超过 5。
 -  OD/HP 应该在 1-3 之间。
 
-### ![Normal](/wiki/shared/diff/normal-s.png "Normal") Normal
+### ![](/wiki/shared/diff/normal-s.png) Normal
 
 #### 规定
 
@@ -163,7 +167,7 @@ _父页面: [Ranking Criteria](/wiki/Ranking_Criteria)_
 -  AR 应该在 4-6 之间。
 -  OD/HP 应该在 3-5 之间。
 
-### ![Hard](/wiki/shared/diff/hard-s.png "Hard") Hard
+### ![](/wiki/shared/diff/hard-s.png) Hard
 
 #### 规定
 
@@ -185,7 +189,7 @@ _父页面: [Ranking Criteria](/wiki/Ranking_Criteria)_
 -  OD 应该在 5-7 之间。
 -  HP 应该在 4-6 之间。
 
-### ![Insane](/wiki/shared/diff/insane-s.png "Insane") Insane
+### ![](/wiki/shared/diff/insane-s.png) Insane
 
 #### 指南
 
@@ -199,7 +203,7 @@ _父页面: [Ranking Criteria](/wiki/Ranking_Criteria)_
 -  OD 应该在 7-9 之间。
 -  HP 应该在 5-8 之间。
 
-### ![Expert](/wiki/shared/diff/expert-s.png "Expert") Expert
+### ![](/wiki/shared/diff/expert-s.png) Expert
 
 #### 指南
 

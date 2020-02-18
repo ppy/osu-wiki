@@ -7,7 +7,7 @@ tags:
 
 # The Heptakey osu!mania Cup #1
 
-![THOM CUP Logo](logo.png)
+![THOM CUP Logo](img/logo.png)
 
 **The Heptakey osu!mania Cup \#1** (***THOM CUP \#1***) is a one-on-one euro-american osu!mania tournament. It is the 1st installment of the THOM CUP. More specifically, this tournament is an osu!mania 7-key tournament.
 
@@ -30,21 +30,21 @@ tags:
 
 | Placing | Prize |
 | :-: | :--- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 50 USD |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 30 USD |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 20 USD |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 50 USD |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 30 USD |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 20 USD |
 
 ## Organization
 
 | Position | Member(s) |
 | --- | --- |
 | Host | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| Coordinators | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
-| Map Selectors | ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
-| Match Referees | ![][flag_ES] [aitor98](https://osu.ppy.sh/users/3154852), ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_US] [Ciel](https://osu.ppy.sh/users/1455309), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_BE] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_BR] [spoonguy](https://osu.ppy.sh/users/932381), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| Streamers | ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_GB] [Hydria](https://osu.ppy.sh/users/808176), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
-| Commentators | ![][flag_US] [Gekido-](https://osu.ppy.sh/users/4693052), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_US] [Nivrad00](https://osu.ppy.sh/users/1984634), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_ID] [RemFangirl](https://osu.ppy.sh/users/5767941), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Teggom](https://osu.ppy.sh/users/2588470), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416)|
-| Statisticians | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
+| Coordinator | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
+| Map Selector | ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
+| Referee | ![][flag_ES] [aitor98](https://osu.ppy.sh/users/3154852), ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_US] [Ciel](https://osu.ppy.sh/users/1455309), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_BE] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_BR] [spoonguy](https://osu.ppy.sh/users/932381), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
+| Streamer | ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_GB] [Hydria](https://osu.ppy.sh/users/808176), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
+| Commentator | ![][flag_US] [Gekido-](https://osu.ppy.sh/users/4693052), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_US] [Nivrad00](https://osu.ppy.sh/users/1984634), ![][flag_PL] [Open](https://osu.ppy.sh/users/7082921), ![][flag_ID] [RemFangirl](https://osu.ppy.sh/users/5767941), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [Teggom](https://osu.ppy.sh/users/2588470), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416)|
+| Statistician | ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 
 ------------------------------------------------------------------------
 
@@ -88,9 +88,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | User |
 | :-: | --- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | ![][flag_ES] [**aitor98**](https://osu.ppy.sh/users/3154852) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_IT] [**Yomiel**](https://osu.ppy.sh/users/3461860)  |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_CL] [**Skalim**](https://osu.ppy.sh/users/2225008)  |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | ![][flag_ES] [**aitor98**](https://osu.ppy.sh/users/3154852) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_IT] [**Yomiel**](https://osu.ppy.sh/users/3461860)  |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CL] [**Skalim**](https://osu.ppy.sh/users/2225008)  |
 
 ---------------------------
 
@@ -374,7 +374,7 @@ This competition has come to an end and resulted in the following podium:
 | dewero ![][flag_US]           | 4 | **5** | ![][flag_DE] **rohen04**      | [#1](https://osu.ppy.sh/community/matches/43236529) |
 | **Keweft** ![][flag_BR]       | **5** | 1 | ![][flag_BR] Lazarento        | [#1](https://osu.ppy.sh/community/matches/43236538) |
 | **Gekido-** ![][flag_US]      | **5** | 4 | ![][flag_RU] Daleenie         | [#1](https://osu.ppy.sh/community/matches/43236398) |
-| **Elementaires** ![][flag_FR] | **5** | 0 | ![][flag_BR] spoonguy         | [#1](https://osu.ppy.sh/community/matches/43238774) |  
+| **Elementaires** ![][flag_FR] | **5** | 0 | ![][flag_BR] spoonguy         | [#1](https://osu.ppy.sh/community/matches/43238774) |
 | **dewero** ![][flag_US]       | **5** | 0 | ![][flag_BY] MatVeiQaaa       | [#1](https://osu.ppy.sh/community/matches/43238779) |
 | **Lothus** ![][flag_BR]       | **5** | 1 | ![][flag_BR] Keweft           | [#1](https://osu.ppy.sh/community/matches/43238654) |
 | **Gamer97** ![][flag_CH]      | **5** | 0 | ![][flag_PL] -Karen-chan-     | -Win by Default- |

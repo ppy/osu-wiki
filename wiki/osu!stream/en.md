@@ -1,43 +1,47 @@
+---
+needs_cleanup: true
+---
+
 <!-- wikilink -->
-[Song List]: ./Song_List "Song list"
-[NF wikilink]: /wiki/Game_Modifiers/ "more information can be found in Game Modifiers under No Fail"
+[Song List]: Song_List "Song list"
+[NF wikilink]: /wiki/Game_Modifiers "more information can be found in Game Modifiers under No Fail"
 
 <!-- img -->
-[osu!stream logo]: ./img/Os-Logo.jpg "osu!stream logo"
-[Device]: ./img/Os-Devices.jpg "osu!stream in iDevice"
-[Easy mode]: ./img/Os-ModeEasy.jpg "Easy mode"
-[Stream mode]: ./img/Os-ModeStream.jpg "Stream mode"
-[Expert mode]: ./img/Os-ModeExpert.jpg "Expert mode"
-[stream up image]: ./img/Os-SUN.jpg "Example of Stream Up! from Normal"
-[osu!stream credits]: ./img/Os-Credit.jpg "Credits"
+[osu!stream logo]: img/Os-Logo.jpg "osu!stream logo"
+[Device]: img/Os-Devices.jpg "osu!stream in iDevice"
+[Easy mode]: img/Os-ModeEasy.jpg "Easy mode"
+[Stream mode]: img/Os-ModeStream.jpg "Stream mode"
+[Expert mode]: img/Os-ModeExpert.jpg "Expert mode"
+[stream up image]: img/Os-SUN.jpg "Example of Stream Up! from Normal"
+[osu!stream credits]: img/Os-Credit.jpg "Credits"
 
-[Os-FG.jpg]: ./img/Os-FG.jpg "Finger Guides display"
-[Os-CB.png]: ./img/Os-CB.png "Connected Beats"
-[Os-HC.jpg]: ./img/Os-HC.jpg "Hold circle 1"
-[Os-HC2.jpg]: ./img/Os-HC2.jpg "Hold circle 2"
-[Os-PlayEasy.png]: ./img/Os-PlayEasy.png "Easy"
-[Os-PlayNormal.png]: ./img/Os-PlayNormal.png "Normal"
-[Os-PlayHard.png]: ./img/Os-PlayHard.png "Hard"
-[Os-PlayExpert.jpg]: ./img/Os-PlayExpert.jpg "Expert"
-[Os-SU.png]: ./img/Os-SU.png "Stream Up!"
-[Os-SD.png]: ./img/Os-SD.png "Stream Down!"
-[Os-Zero1.png]: ./img/Os-Zero1.png "Critical health"
-[Os-Zero2.png]: ./img/Os-Zero2.png "Game Over"
-[Os-MM.png]: ./img/Os-MM.png "Main Menu"
-[Os-SL.jpg]: ./img/Os-SL.jpg "Song list"
-[Os-Store.jpg]: ./img/Os-Store.jpg "Store screen"
-[Os-DS.png]: ./img/Os-DS.png "Selecting style menu"
-[Os-SI.png]: ./img/Os-SI.png "Song Information"
-[Os-Pause.png]: ./img/Os-Pause.png "Pause menu"
-[Os-FM.png]: ./img/Os-FM.png "Failed menu"
-[Os-SC.png]: ./img/Os-SC.png "Stage cleared!"
-[Os-Grade.jpg]: ./img/Os-Grade.jpg "Grade screen"
-[Os-O1.png]: ./img/Os-O1.png "Option screen 1"
-[Os-O2.png]: ./img/Os-O2.png "Option screen 2"
+[Os-FG.jpg]: img/Os-FG.jpg "Finger Guides display"
+[Os-CB.png]: img/Os-CB.png "Connected Beats"
+[Os-HC.jpg]: img/Os-HC.jpg "Hold circle 1"
+[Os-HC2.jpg]: img/Os-HC2.jpg "Hold circle 2"
+[Os-PlayEasy.png]: img/Os-PlayEasy.png "Easy"
+[Os-PlayNormal.png]: img/Os-PlayNormal.png "Normal"
+[Os-PlayHard.png]: img/Os-PlayHard.png "Hard"
+[Os-PlayExpert.jpg]: img/Os-PlayExpert.jpg "Expert"
+[Os-SU.png]: img/Os-SU.png "Stream Up!"
+[Os-SD.png]: img/Os-SD.png "Stream Down!"
+[Os-Zero1.png]: img/Os-Zero1.png "Critical health"
+[Os-Zero2.png]: img/Os-Zero2.png "Game Over"
+[Os-MM.png]: img/Os-MM.png "Main Menu"
+[Os-SL.jpg]: img/Os-SL.jpg "Song list"
+[Os-Store.jpg]: img/Os-Store.jpg "Store screen"
+[Os-DS.png]: img/Os-DS.png "Selecting style menu"
+[Os-SI.png]: img/Os-SI.png "Song Information"
+[Os-Pause.png]: img/Os-Pause.png "Pause menu"
+[Os-FM.png]: img/Os-FM.png "Failed menu"
+[Os-SC.png]: img/Os-SC.png "Stage cleared!"
+[Os-Grade.jpg]: img/Os-Grade.jpg "Grade screen"
+[Os-O1.png]: img/Os-O1.png "Option screen 1"
+[Os-O2.png]: img/Os-O2.png "Option screen 2"
 
 # osu!stream
 
-**[Click here to return to External Ports index page](../ "External Ports index page")**
+**[Click here to return to External Ports index page](/wiki/Game_Modes/External_Ports)**
 
 ![osu!stream logo][osu!stream logo]
 

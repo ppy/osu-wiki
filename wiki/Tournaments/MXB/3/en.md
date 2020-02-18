@@ -1,6 +1,7 @@
 ---
 tags:
-- MXB
+  - Mengxin Cup
+  - MXB
 ---
 
 # Novice Mania Cup 3rd
@@ -28,9 +29,9 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 2 months of osu!supporter tag, unique profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 15 CNY |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 2 months of osu!supporter tag, unique profile badge |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 15 CNY |
 
 ## Organisation
 
@@ -38,10 +39,10 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 | :-- | :-- |
 | Host | ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501) |
 | Co-Host | ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [hans1999](https://osu.ppy.sh/users/6679329) |
-| Map Selectors | ![][flag_CN] [ExNeko](https://osu.ppy.sh/users/7590894), ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_US] [qqqant](https://osu.ppy.sh/users/8976576), ![][flag_CN] [Toki 0w0](https://osu.ppy.sh/users/10392201), ![][flag_CN] [-\[Ulazis\]-](https://osu.ppy.sh/users/11144363) |
-| Streaming Referees | ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_CN] [NimaPro](https://osu.ppy.sh/users/11524571), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
-| Commentators | ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [NimaPro](https://osu.ppy.sh/users/11524571), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [-\[Ulazis\]-](https://osu.ppy.sh/users/11144363) |
-| Wiki | ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
+| Map Selector | ![][flag_CN] [ExNeko](https://osu.ppy.sh/users/7590894), ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_US] [qqqant](https://osu.ppy.sh/users/8976576), ![][flag_CN] [Toki 0w0](https://osu.ppy.sh/users/10392201), ![][flag_CN] [-\[Ulazis\]-](https://osu.ppy.sh/users/11144363) |
+| Streaming Referee | ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_CN] [NimaPro](https://osu.ppy.sh/users/11524571), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
+| Commentator | ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Flow Light](https://osu.ppy.sh/users/6705256), ![][flag_CN] [NimaPro](https://osu.ppy.sh/users/11524571), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [-\[Ulazis\]-](https://osu.ppy.sh/users/11144363) |
+| Wiki Editor | ![][flag_CN] [IA daisuki](https://osu.ppy.sh/users/11238501), ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) |
 
 ## Links
 
@@ -54,9 +55,9 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | [A M D](https://osu.ppy.sh/users/5321112) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [shizehao](https://osu.ppy.sh/users/4928674) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [Yutto007](https://osu.ppy.sh/users/10269172) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | [A M D](https://osu.ppy.sh/users/5321112) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | [shizehao](https://osu.ppy.sh/users/4928674) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | [Yutto007](https://osu.ppy.sh/users/10269172) |
 
 ## Participants
 

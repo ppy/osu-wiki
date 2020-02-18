@@ -69,9 +69,9 @@ The **osu! Multi Mode French Fiesta** (***oMMFF***) was a French double-eliminat
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge, 4 months of osu!supporter tag, [AUKEY KM-G9](https://www.aukey.com/products/87-key-mechanical-keyboard-km-g9/) keyboard, 10€ PayPal/Amazon balance, physical trophy |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter tag, 10€ PayPal/Amazon balance |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag, 10€ PayPal/Amazon balance |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter tag, [AUKEY KM-G9](https://www.aukey.com/products/87-key-mechanical-keyboard-km-g9/) keyboard, 10€ PayPal/Amazon balance, physical trophy |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag, 10€ PayPal/Amazon balance |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag, 10€ PayPal/Amazon balance |
 
 ![oMMFF Winner Badge - osu!](img/badge-std.png) ![oMMFF Winner Badge - osu!taiko](img/badge-tko.png) ![oMMFF Winner Badge - osu!catch](img/badge-ctb.png) ![oMMFF Winner Badge - osu!mania](img/badge-mna.png)
 
@@ -84,21 +84,21 @@ The osu! Multi Mode French Fiesta was run by various community members by distri
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Manager | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 | Head Referee | ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565) |
-| Map Selectors (osu!) | ![][flag_FR] [Barbex](https://osu.ppy.sh/users/4904410), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) |
-| Map Selectors (osu!taiko) | ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) |
-| Map Selectors (osu!catch) | ![][flag_FR] [Emiru](https://osu.ppy.sh/users/3306180) |
-| Map Selectors (osu!mania) | ![][flag_FR] [Adri](https://osu.ppy.sh/users/4579132), ![][flag_FR] [AntoAa](https://osu.ppy.sh/users/3897919), ![][flag_FR] [Tantei B](https://osu.ppy.sh/users/6063108), ![][flag_FR] [Cunu](https://osu.ppy.sh/users/7190228), ![][flag_CH] [Haprapra](https://osu.ppy.sh/users/3974114) |
-| Streamers | ![][flag_FR] [Adri](https://osu.ppy.sh/users/4579132), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_CH] [Haprapra](https://osu.ppy.sh/users/3974114), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622) |
-| Commentators (osu!) | ![][flag_FR] [\[Haku\]](https://osu.ppy.sh/users/2329184), ![][flag_FR] [Barbex](https://osu.ppy.sh/users/4904410), ![][flag_FR] [Battquif](https://osu.ppy.sh/users/2389333), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Musty](https://osu.ppy.sh/users/251683), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_FR] [SiYes](https://osu.ppy.sh/users/8868144), ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454), ![][flag_FR] [Zonthem](https://osu.ppy.sh/users/7193908), ![][flag_FR] [-raizen-](https://osu.ppy.sh/users/3872987), ![][flag_FR] [-Unknow](https://osu.ppy.sh/users/3723612), ![][flag_FR] [Chernobog](https://osu.ppy.sh/users/3317042) |
-| Commentators (osu!taiko) | ![][flag_FR] [\[Haku\]](https://osu.ppy.sh/users/2329184), ![][flag_FR] [Chernobog](https://osu.ppy.sh/users/3317042), ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TimmyAkmed](https://osu.ppy.sh/users/1799973), ![][flag_FR] [Misieuroo](https://osu.ppy.sh/users/6732862), ![][flag_FR] [omegaflo](https://osu.ppy.sh/users/83291), ![][flag_FR] [-Valony-](https://osu.ppy.sh/users/6487540) |
-| Commentators (osu!catch) | ![][flag_FR] [\[Haku\]](https://osu.ppy.sh/users/2329184), ![][flag_FR] [Bloodenay](https://osu.ppy.sh/users/7303988), ![][flag_FR] [Chernobog](https://osu.ppy.sh/users/3317042), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Libegon](https://osu.ppy.sh/users/9922381), ![][flag_FR] [\_Manyura](https://osu.ppy.sh/users/8335913), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166) |
-| Commentators (osu!mania) | ![][flag_FR] [\[Haku\]](https://osu.ppy.sh/users/2329184), ![][flag_FR] [Adri](https://osu.ppy.sh/users/4579132), ![][flag_FR] [Chernobog](https://osu.ppy.sh/users/3317042), ![][flag_FR] [DemonWaves](https://osu.ppy.sh/users/3909293), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Musty](https://osu.ppy.sh/users/251683), ![][flag_FR] [Ominy](https://osu.ppy.sh/users/9299077), ![][flag_FR] [AntoAa](https://osu.ppy.sh/users/3897919), ![][flag_FR] [Cunu](https://osu.ppy.sh/users/7190228), ![][flag_FR] [Koiidex](https://osu.ppy.sh/users/5193488) |
-| Designers | ![][flag_DE] [Celektus](https://osu.ppy.sh/users/4294993), ![][flag_FR] [Lotchidych](https://osu.ppy.sh/users/8375240) |
+| Map Selector (osu!) | ![][flag_FR] [Barbex](https://osu.ppy.sh/users/4904410), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) |
+| Map Selector (osu!taiko) | ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) |
+| Map Selector (osu!catch) | ![][flag_FR] [Emiru](https://osu.ppy.sh/users/3306180) |
+| Map Selector (osu!mania) | ![][flag_FR] [Adri](https://osu.ppy.sh/users/4579132), ![][flag_FR] [AntoAa](https://osu.ppy.sh/users/3897919), ![][flag_FR] [Tantei B](https://osu.ppy.sh/users/6063108), ![][flag_FR] [Cunu](https://osu.ppy.sh/users/7190228), ![][flag_CH] [Haprapra](https://osu.ppy.sh/users/3974114) |
+| Streamer | ![][flag_FR] [Adri](https://osu.ppy.sh/users/4579132), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_CH] [Haprapra](https://osu.ppy.sh/users/3974114), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622) |
+| Commentator (osu!) | ![][flag_FR] [\[Haku\]](https://osu.ppy.sh/users/2329184), ![][flag_FR] [Barbex](https://osu.ppy.sh/users/4904410), ![][flag_FR] [Battquif](https://osu.ppy.sh/users/2389333), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Musty](https://osu.ppy.sh/users/251683), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_FR] [SiYes](https://osu.ppy.sh/users/8868144), ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454), ![][flag_FR] [Zonthem](https://osu.ppy.sh/users/7193908), ![][flag_FR] [-raizen-](https://osu.ppy.sh/users/3872987), ![][flag_FR] [-Unknow](https://osu.ppy.sh/users/3723612), ![][flag_FR] [Chernobog](https://osu.ppy.sh/users/3317042) |
+| Commentator (osu!taiko) | ![][flag_FR] [\[Haku\]](https://osu.ppy.sh/users/2329184), ![][flag_FR] [Chernobog](https://osu.ppy.sh/users/3317042), ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TimmyAkmed](https://osu.ppy.sh/users/1799973), ![][flag_FR] [Misieuroo](https://osu.ppy.sh/users/6732862), ![][flag_FR] [omegaflo](https://osu.ppy.sh/users/83291), ![][flag_FR] [-Valony-](https://osu.ppy.sh/users/6487540) |
+| Commentator (osu!catch) | ![][flag_FR] [\[Haku\]](https://osu.ppy.sh/users/2329184), ![][flag_FR] [Bloodenay](https://osu.ppy.sh/users/7303988), ![][flag_FR] [Chernobog](https://osu.ppy.sh/users/3317042), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Libegon](https://osu.ppy.sh/users/9922381), ![][flag_FR] [\_Manyura](https://osu.ppy.sh/users/8335913), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/1378728), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166) |
+| Commentator (osu!mania) | ![][flag_FR] [\[Haku\]](https://osu.ppy.sh/users/2329184), ![][flag_FR] [Adri](https://osu.ppy.sh/users/4579132), ![][flag_FR] [Chernobog](https://osu.ppy.sh/users/3317042), ![][flag_FR] [DemonWaves](https://osu.ppy.sh/users/3909293), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Musty](https://osu.ppy.sh/users/251683), ![][flag_FR] [Ominy](https://osu.ppy.sh/users/9299077), ![][flag_FR] [AntoAa](https://osu.ppy.sh/users/3897919), ![][flag_FR] [Cunu](https://osu.ppy.sh/users/7190228), ![][flag_FR] [Koiidex](https://osu.ppy.sh/users/5193488) |
+| Designer | ![][flag_DE] [Celektus](https://osu.ppy.sh/users/4294993), ![][flag_FR] [Lotchidych](https://osu.ppy.sh/users/8375240) |
 | Statistician | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Referees | ![][flag_FR] [Amezurys](https://osu.ppy.sh/users/5207167), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Kebab De Poche](https://osu.ppy.sh/users/6467693), ![][flag_FR] [\[ Mimir \]](https://osu.ppy.sh/users/7382734), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [Spartan Plume](https://osu.ppy.sh/users/2553166), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_GB] [Weavile](https://osu.ppy.sh/users/9665028), ![][flag_FR][Tigzick](https://osu.ppy.sh/users/6745742), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) |
-| Wiki | ![][flag_ID] [Naruk](https://osu.ppy.sh/users/7100002) |
+| Referee | ![][flag_FR] [Amezurys](https://osu.ppy.sh/users/5207167), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Kebab De Poche](https://osu.ppy.sh/users/6467693), ![][flag_FR] [\[ Mimir \]](https://osu.ppy.sh/users/7382734), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [Spartan Plume](https://osu.ppy.sh/users/2553166), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_GB] [Weavile](https://osu.ppy.sh/users/9665028), ![][flag_FR][Tigzick](https://osu.ppy.sh/users/6745742), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) |
+| Wiki Editor | ![][flag_ID] [Naruk](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -162,33 +162,33 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [NerO](https://osu.ppy.sh/users/1545031) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [Flaven](https://osu.ppy.sh/users/3213239) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [NerO](https://osu.ppy.sh/users/1545031) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Flaven](https://osu.ppy.sh/users/3213239) |
 
 ### osu!taiko Division
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_FR] [TimmyAkmed](https://osu.ppy.sh/users/1799973) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [Romainnoda](https://osu.ppy.sh/users/8814218) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [Yona la loutre](https://osu.ppy.sh/users/7930622) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [TimmyAkmed](https://osu.ppy.sh/users/1799973) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Romainnoda](https://osu.ppy.sh/users/8814218) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Yona la loutre](https://osu.ppy.sh/users/7930622) |
 
 ### osu!catch Division
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
 
 ### osu!mania Division
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_FR] [Azubeur](https://osu.ppy.sh/users/1594604) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_FR] [PatouZ](https://osu.ppy.sh/users/7306522) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [DemonWaves](https://osu.ppy.sh/users/3909293) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [Azubeur](https://osu.ppy.sh/users/1594604) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [PatouZ](https://osu.ppy.sh/users/7306522) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [DemonWaves](https://osu.ppy.sh/users/3909293) |
 
 -----------------------
 
@@ -727,11 +727,11 @@ This competition has come to an end and resulted in the following podium:
 **[Download the mappack here! (49 MB)](https://mega.nz/#!o9MChIxJ!BtKgqPuqV0xZChiPzoOYNJz8DAs8XXVYeFLBmJc5lHo)**
 
 - FreeMod
-  - [Ian Davecore - Katyusha (Laibus) \[Bounce\]](https://osu.ppy.sh/beatmapsets/849009/#mania/1775369)
+  - [Ian Davecore - Katyusha (Laibus) \[Bounce\]](https://osu.ppy.sh/beatmapsets/849009#mania/1775369)
   - [Celldweller - Senorita Bonita (Duboyy) \[Hard \[SV play\]\]](https://osu.ppy.sh/beatmapsets/541579#mania/1148320)
   - [Reol - MONSTER (puxtu) \[puxtu's MX\]](https://osu.ppy.sh/beatmapsets/415350#mania/1021002)
   - [Hommarju - Get back here (Fresh Chicken) \[ADVANCED\]](https://osu.ppy.sh/beatmapsets/488369#mania/1041168)
-  - [LiSA - Empty MERMAiD -MUSIC CLIP Short Ver.- (SpectorDG) \[SpectorDG's 4K ULTRA\]](https://osu.ppy.sh/beatmapsets/351846/#mania/775411)
+  - [LiSA - Empty MERMAiD -MUSIC CLIP Short Ver.- (SpectorDG) \[SpectorDG's 4K ULTRA\]](https://osu.ppy.sh/beatmapsets/351846#mania/775411)
   - [M2U feat. Guriri - Magnolia (juankristal) \[Stage 3: Enlightenment\]](https://osu.ppy.sh/beatmapsets/706898#mania/1494548)
   - [AAAA Chazuke - Hop Step Adventure\* (Musty) \[MX\*\]](https://osu.ppy.sh/beatmapsets/487632#mania/1039605)
   - [knot - cold planet (Kamikaze) \[for stepmania\]](https://osu.ppy.sh/beatmapsets/793200#mania/1697652)

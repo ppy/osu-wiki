@@ -28,7 +28,7 @@ The **osu!mania LN Tournament** (***o!mLN***) was a double-elimination one-on-on
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
 ![o!mLN Winner Badge](img/badge.png)
 
@@ -38,14 +38,14 @@ The osu!mania LN Tournament was run by various community members by distributing
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Map Selectors | ![][flag_FR] [Skochan](https://osu.ppy.sh/users/7861278), ![][flag_US] [AYAYAA](https://osu.ppy.sh/users/4980256) |
+| Manager | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133) |
+| Map Selector | ![][flag_FR] [Skochan](https://osu.ppy.sh/users/7861278), ![][flag_US] [AYAYAA](https://osu.ppy.sh/users/4980256) |
 | Designer | ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) |
-| Streamers | ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_US] [Tuco](https://osu.ppy.sh/users/11706350), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Commentators | ![][flag_US] [AYAYAA](https://osu.ppy.sh/users/4980256), ![][flag_GB] [Theresa May](https://osu.ppy.sh/users/8946085) |
-| Referees | ![][flag_AU] [Cactie](https://osu.ppy.sh/users/5592409), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_BE] [DraQeu](https://osu.ppy.sh/users/4425520), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Trypha](https://osu.ppy.sh/users/2812098), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_PL] [Kondi](https://osu.ppy.sh/users/7382321), ![][flag_GR] [nik](https://osu.ppy.sh/users/10077264), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_US] [Tuco](https://osu.ppy.sh/users/11706350), ![][flag_GB] [Weavile](https://osu.ppy.sh/users/9665028) |
+| Streamer | ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_US] [Tuco](https://osu.ppy.sh/users/11706350), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133) |
+| Commentator | ![][flag_US] [AYAYAA](https://osu.ppy.sh/users/4980256), ![][flag_GB] [Theresa May](https://osu.ppy.sh/users/8946085) |
+| Referee | ![][flag_AU] [Cactie](https://osu.ppy.sh/users/5592409), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_BE] [DraQeu](https://osu.ppy.sh/users/4425520), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Trypha](https://osu.ppy.sh/users/2812098), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_PL] [Kondi](https://osu.ppy.sh/users/7382321), ![][flag_GR] [nik](https://osu.ppy.sh/users/10077264), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_US] [Tuco](https://osu.ppy.sh/users/11706350), ![][flag_GB] [Weavile](https://osu.ppy.sh/users/9665028) |
 | Statistician | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Wiki | ![][flag_ID] [Naruk](https://osu.ppy.sh/users/7100002) |
+| Wiki Editor | ![][flag_ID] [Naruk](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -87,9 +87,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_GB] [Amascite](https://osu.ppy.sh/users/3359035) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_GB] [Amascite](https://osu.ppy.sh/users/3359035) |
 
 ---
 

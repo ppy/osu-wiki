@@ -1,4 +1,8 @@
-# osu! wiki
+---
+outdated: true
+---
+
+# History of the osu! wiki
 
 ## MediaWiki (2011 - 2017)
 

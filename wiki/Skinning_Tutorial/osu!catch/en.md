@@ -1,4 +1,8 @@
-# osu!catch
+---
+needs_cleanup: true
+---
+
+# osu!catch skinning tutorial
 
 ## Skinning elements
 

@@ -1,1116 +1,426 @@
----
-outdated: true
----
-
-<img src="Options Base.jpg" title="Opcje (tak, chodzi o ten panel boczny)" alt="Opcje (tak, chodzi o ten panel boczny)" width="300" />
-
 # Opcje
 
-`Zrestartuj osu! jeżeli coś nie działa tak jak powinno. Przyciemnianie tła jest głównym problemem. `
+![Nakładka opcji](img/options_basic.jpg "Nakładka opcji \(panel boczny po lewej\)")
 
-Naciśnij **Options** albo naciśnij **O** na ekranie głównym, aby dostać się do panelu Opcji i zmienić działanie osu!
+W menu głównym kliknij przycisk `Options` lub naciśnij `O` (albo `Ctrl` + `O` na praktycznie każdym ekranie), aby uzyskać dostęp do nakładki opcji i zmienić sposób działania osu!. Gdy już otworzysz panel boczny, wpisz cokolwiek, aby znaleźć konkretną opcję. Tekst wprowadzony do paska wyszukiwania zatrzęsie się, jeżeli nie będzie żadnych wyników.
 
-Jeżeli twoje wyszukanie będzie niepoprawne, pole tekstowe "zatrzęsie się" a osu! odmówi wpisania błędnej literki.
+Jeżeli wartość danej opcji zostanie zmieniona, szary pasek po lewej stronie zaświeci się na żółto. Jeżeli na niego klikniesz, to zostanie przywrócone domyślne ustawienie.
 
-<u>**Ważne-**</u>
-Aby dowiedzieć się na jakim buildzie pracuje osu!, przejdź do najniższej części panelu (albo po prostu kliknij na ikonkę Zarządzanie). Naciśnięcie przekieruje Cię do strony z listą zmian.
+## Ogólne
 
--   b(YYYY)(MM)(DD).(korekta) = Stabilny Build.
-    -   b20140323.3 to Stabilny Build z 23 marca 2014, trzecia korekta.
--   b(YYYY)(MM)(DD).(korekta)(TypBuildu) = Testowy Build.
-    -   b20151113.8cuttingedge to Eksperymentalny Build z 13 listopada 2015, ósma korekta.
+![Ikona sekcji „Ogólne”](img/general.jpg "Ikona sekcji „Ogólne”")
 
-## ![](Options_General_thumb.jpg "fig:Options_General_thumb.jpg") Ogólne
+Ta sekcja jest poświęcona twojemu kontu, ustawieniom języka i aktualizacjom.
 
-<img src="Options General.jpg" title="Różnice w sekcji Ogólne między osobą niezalogowaną a zalogowaną" alt="Różnice w sekcji Ogólne między osobą niezalogowaną a zalogowaną" width="300" />
+### Logowanie
 
-### Zaloguj się
+Jeżeli nie zalogujesz się w kliencie gry, nakładka opcji zostanie otworzona automatycznie z prośbą o zalogowanie się. Możesz ją zignorować poprzez naciśnięcie klawisza `Esc`, naciśnięcie przycisku Wstecz czy przejście do ekranu wyboru utworu. Klient gry oznaczy cię jako „gościa” i nie będziesz w stanie przesyłać wyników, pobierać danych gry czy korzystać z [trybu wielosobowego](/wiki/Multi).
 
-#### Osoba niezalogowana
+Jako gość otrzymasz następujące opcje:
 
-<table style="width:36%;">
-<colgroup>
-<col width="12%" />
-<col width="24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Nazwa</p></th>
-<th><p>Opis</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Nazwa użytkownika</p></td>
-<td><p>Tutaj wpisz swój nick.</p></td>
-</tr>
-<tr class="even">
-<td><p>Hasło</p></td>
-<td><p>Tutaj wpisz swoje hasło</p></td>
-</tr>
-<tr class="odd">
-<td><p>Zapamiętaj nazwę</p></td>
-<td><p>Wpisuje twój nick do pliku osu!.{username}.</p></td>
-</tr>
-<tr class="even">
-<td><p>Zapamiętaj hasło</p></td>
-<td><p>Wpisuje twoje hasło do pliku osu!.{username} i włącza automatyczne logowanie.</p></td>
-</tr>
-</tbody>
-</table>
+| Nazwa | Opis | Typ | Domyślnie |
+| --- | --- | --- | --- |
+| `Nazwa użytkownika` | Wprowadź tutaj swoją nazwę użytkownika. | Pole tekstowe | *(puste)* |
+| `Hasło` | Wprowadź tutaj swoje hasło. | Hasło | *(puste)* |
+| `Zapamiętaj nazwę użytkownika` | Zapamiętuje wprowadzoną nazwę użytkownika w kliencie gry. | Pole wyboru | `Włączone` |
+| `Zapamiętaj hasło` | Zapamiętuje wprowadzone hasło w kliencie gry i nie będzie wylogowywać użytkownika przy wyjściu z gry. | Pole wyboru | `Wyłączone` |
+| `Zaloguj się` | Loguje się do osu! z podanymi powyżej danymi. Naciśnięcie klawisza `Enter` w polu z nazwą użytkownika czy hasłem zadziała tak samo. | Przycisk |  |
+| `Utwórz konto` | Otwiera ekran [rejestracji konta](/wiki/Registration). | Przycisk |  |
 
-Naciśnij **Zaloguj się** aby się zalogować albo naciśnij **Stwórz konto** jeżeli nie posiadasz konta. Kiedy już się zalogujesz, funkcje przedstawione powyżej zostaną zmienione na te poniżej.
+---
 
-#### Osoba zalogowana
+Po zalogowaniu zobaczysz:
 
-`Zalogowany jako {nazwa użytkownika}`
+| Nazwa | Opis | Typ |
+| --- | --- | --- |
+| `Zalogowano jako {nazwa użytkownika}` | Wyświetla menu użytkownika (zobacz poniżej). | Przycisk |
 
-Naciśnij to aby przejść do „opcji” związanych z kontem.
+---
 
-<table style="width:36%;">
-<colgroup>
-<col width="12%" />
-<col width="24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Nazwa</p></th>
-<th><p>Opis</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>1. Zobacz profil</p></td>
-<td><p>Otwiera kartę z twoim profilem osu! w przeglądarce</p></td>
-</tr>
-<tr class="even">
-<td><p>2. Wyloguj się</p></td>
-<td><p>Wylogowuje Cię w grze.</p></td>
-</tr>
-<tr class="odd">
-<td><p>3. Zmień avatar</p></td>
-<td><p>Otwiera kartę ze zmianą avataru twojego profilu w przeglądarce</p></td>
-</tr>
-<tr class="even">
-<td><p>4. Zamknij</p></td>
-<td><p>Zamyka „opcje” związane z kontem.</p></td>
-</tr>
-</tbody>
-</table>
+Jeżeli klikniesz na napis `Zalogowano jako {nazwa użytkownika}`, zostanie wyświetlone menu użytkownika z następującymi opcjami:
+
+| Nazwa | Opis | Typ |
+| --- | --- | --- |
+| `1. Zobacz profil` | Otwiera kartę z profilem użytkownika w przeglądarce. | Przycisk |
+| `2. Wyloguj się` | Wylogowuje cię z klienta gry. | Przycisk |
+| `3. Zmień awatar` | Otwiera kartę z ustawieniami konta w przeglądarce. | Przycisk |
+| `4. Zamknij` | Zamyka menu użytkownika. Możesz również w tym celu nacisnąć klawisz `Esc`. | Przycisk |
+
+Aby otworzyć menu użytkownika, możesz kliknąć na swoją kartę, jeżeli jest ona dostępna.
 
 ### Język
 
-<table style="width:36%;">
-<colgroup>
-<col width="12%" />
-<col width="24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Nazwa</p></th>
-<th><p>Opis</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Wybierz język</p></td>
-<td><p>Wybierz język jaki chcesz. osu! pobierze plik .txt z tłumaczeniem i zmieni język gry na pobrany. Domyślnie jest to angielski.<br />
-Dla osób chcących [pomóc: <a href="https://osu.ppy.sh/community/forums/topics/104342/" class="uri">https://osu.ppy.sh/community/forums/topics/104342/</a> (stary link)</p></td>
-</tr>
-<tr class="even">
-<td><p>Stosuj oryginalne nazewnictwo</p></td>
-<td><p>Jeśli to możliwe, tytuły piosenek będą wyświetlane w ich ojczystym języku (wraz z zapisem).<br />
-<strong>Przykład:</strong> <a href="Media:OP_UNI_META.jpg" title="wikilink">Jeśli ta opcja będzie aktywowana, nazwa beatmapy zmieni się z &quot;Night of Feifan Brother&quot; na &quot;非凡哥之夜&quot; jeśli mapper ustawił nazwę Unicode dla swojej mapy.</a> <a href="https://osu.ppy.sh/beatmapsets/44443">Wspomniana beatmapa</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>Użyj alternatywnej czcionki dla czatu</p></td>
-<td><p><span class="plainlinks">Używaj czcionki <a href="https://en.wikipedia.org/wiki/Tahoma_%28typeface%29">Tahoma</a> zamiast czcionki <a href="https://www.daltonmaag.com/about/aller.html">Aller</a> na <a href="PL:Chat_Console" title="wikilink">czacie</a>. <a href="Media:OP_CHAT.jpg" title="wikilink">Porównanie</a>.</span></p></td>
-</tr>
-</tbody>
-</table>
+| Nazwa | Opis | Typ | Domyślnie |
+| --- | --- | --- | --- |
+| `Wybierz język` | Wyświetla listę dostępnych języków. | Rozwijane menu |  |
+| `Stosuj oryginalne nazewnictwo` | Na ekranie wyboru utworu informacje o beatmapie będą zawierały oryginalne lub nieprzetłumaczone metadane, jeżeli są one dostępne. | Pole wyboru | `Wyłączone` |
+| `Użyj alternatywnej czcionki dla czatu` | Używa starej czcionki (Tahoma) zamiast obecnej (Aller) do wyświetlania wiadomości na [czacie](/wiki/chat_console). | Pole wyboru | `Wyłączone` |
 
 ### Aktualizacje
 
-<table style="width:36%;">
-<colgroup>
-<col width="12%" />
-<col width="24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Nazwa</p></th>
-<th><p>Opis</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Wersja osu!</p></td>
-<td><p>1. <strong>Stabilna (Latest):</strong> Publiczny build.</p>
-<hr>
-<p>2. <strong>Stabilna (Fallback):</strong> Publiczny build (starszy stabilny build, domyślny po instalacji)</p>
-<hr>
-<p>3. <strong>Beta:</strong> Tak jak Eksperymentalna, tylko bardziej stabilna; wypuszczane raz na tydzień</p>
-<hr>
-<p>4. <strong>Eksperymentalna:</strong> Testowe buildy; wypuszczane kiedy nowość jest gotowa (<a href="PL:Multi" title="wikilink">Multiplayer</a> zablokowany dla osób niewspomagających osu!).</p>
-<hr>
-<p><strong>Ważne:</strong> Połączenie internetowe jest wymagane do zmiany wersji.</p></td>
-</tr>
-<tr class="even">
-<td><p><em>Wersja osu! jest najnowsza</em></p></td>
-<td><p>Naciśnięcie tego wywoła wyszukanie nowej wersji osu!</p></td>
-</tr>
-<tr class="odd">
-<td><p>Otwórz folder osu!</p></td>
-<td><p>Otwiera folder z osu!</p></td>
-</tr>
-</tbody>
-</table>
+| Nazwa | Opis | Typ | Domyślnie |
+| --- | --- | --- | --- |
+| `Wersja osu!` | Wyświetla listę dostępnych kompilacji osu!. | Rozwijane menu | `Stabilna` |
+| `Wersja osu! jest aktualna!` | Kliknij, aby sprawdzić, czy dostępne są aktualizacje, i je zainstalować. | Przycisk |  |
+| `Otwórz folder osu!` | Otwiera folder lokalny osu!, w którym znajdują się twoje beatmapy, skórki itd. | Przycisk |  |
 
-## ![](OP Graphics thumb.jpg "fig:OP Graphics thumb.jpg") Grafika
+---
 
-<img src="optionsscreengraphics1.jpg" title="Sekcja Grafiki" alt="Sekcja Grafiki" width="300" />
+Jeżeli rozwiniesz listę dla `Wersja osu!`, zobaczysz następujące opcje:
 
-### Renderer
+| Nazwa | Opis |
+| --- | --- |
+| `Stabilna` | Stabilna kompilacja. |
+| `Beta` | Kompilacja eksperymentalna - wczesny dostęp do niedostępnych funkcji, może zawierać błędy. |
+| `Eksperymentalna` | Kompilacja eksperymentalna - jeszcze wcześniejszy dostęp do niedostępnych funkcji, może zawierać znacznie więcej błędów. |
 
-<table style="width:36%;">
-<colgroup>
-<col width="12%" />
-<col width="24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Nazwa</p></th>
-<th><p>Opis</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Limit klatek: (kontroluje ilość klatek na sekundę)</p></td>
-<td><p>Synchronizacja pionowa</p>
-<hr>
-<p>120fps (domyślnie)</p>
-<hr>
-<p>240fps</p>
-<hr>
-<p>Bez limitu (podczas gry)</p>
-<hr>
-<p><strong>Ważne:</strong> Jeżeli jesteś posiadaczem laptopa, zalecamy ci ograniczenie klatek na sekundę aby przeciwdziałać przegrzewaniu się <a href="https://osu.ppy.sh/community/forums/topics/82605">wspomnianemu w tym wątku</a>. Ograniczenie klatek obniża także ilość zużywanego prądu.</p></td>
-</tr>
-<tr class="even">
-<td><p>Pokaż licznik klatek</p></td>
-<td><p>Pokazuje niewielki licznik klatek animacji na sekundę w prawym dolnym rogu ekranu</p></td>
-</tr>
-<tr class="odd">
-<td><p>Tryb zgodności</p></td>
-<td><p>Zmienia sposób w jaki osu! renderuje; używaj tylko wtedy kiedy masz problemy z uruchomieniem osu! (uruchamia osu! ponownie)</p>
-<ul>
-<li>Tryb zgodności może pomóc w przypadku opóźnień i złej wydajności gry.</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p>Zredukuj spadek klatek</p></td>
-<td><p>W przypadku regularnego &quot;gubienia&quot; klatek warto spróbować tej opcji. Może ona nieznacznie zmniejszyć ilość klatek na sekundę.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Wykryj problemy z wydajnością</p></td>
-<td><p>osu! sprawdzi stan twojego komputera i powiadomi cię, jeżeli coś może powodować spadek wydajności gry.</p>
-<ul>
-<li>Potwierdzone problemy z: <a href="http://justgetflux.com/">f.lux</a>.</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+## Grafika
 
-### Rozdzielczość ekranu
+![Ikona sekcji „Grafika”](img/graphics.jpg "Ikona sekcji „Grafika”")
 
-| colspan=3|Wybierz rozdzielczość:-                    |
-|------------------------------------------------------|
-| Właściwość                                           |
-| rowspan=2|Standardowe:                               |
-| 1024 x 768                                           |
-| rowspan=2|Panoramiczne:                              |
-| *Twoja wielkość ekranu* (bez krawędzi) \[Domyślnie\] |
-||
+Ta sekcja jest poświęcona wyglądowi klienta gry i jego wydajności.
 
-<table style="width:36%;">
-<colgroup>
-<col width="12%" />
-<col width="24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Nazwa</p></th>
-<th><p>Opis</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Tryb pełnoekranowy</p></td>
-<td><p>Zaznacz tę opcję aby włączyć tryb pełnoekranowy i pozwolić osu! używać całego wyświetlacza. Eliminuje lagi kursora w systemach Windows 7 i nowszych.</p>
-<ul>
-<li>Granie w trybie okienkowym powoduje większe opóźnienie kursora!</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p>Letterboxing</p></td>
-<td><p>Zawsze używaj pełnej rozdzielczości natywnej, ale wyświetlaj osu! w małej, środkowej części ekranu. Przydatne, jeżeli chce się grać na mniejszej rozdzielczości jednocześnie przy małych opóźnieniach.</p>
-<ul>
-<li><strong>Pozycja pozioma</strong> pozwala ci zmienić pozycję osu! (lewo/prawo)</li>
-<li><strong>Pozycja pionowa</strong> pozwala ci zmienić pozycję osu! (góra/dół)</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+### Renderowanie
+
+| Nazwa | Opis | Typ | Domyślnie |
+| --- | --- | --- | --- |
+| `Limit klatek` | Ustawia ograniczenie klatek na sekundę. Sprawdź poniżej, aby dowiedzieć się więcej. | Rozwijane menu | `120fps` |
+| `Pokazuj licznik FPS` | Wyświetla licznik klatek na sekundę w prawym dolnym rogu ekranu. | Pole wyboru | `Wyłączone` |
+| `Tryb kompatybilności` | Używa starego programu do renderowania grafiki dla osu! (wymaga zrestartowania klienta gry). | Pole wyboru | `Wyłączone` |
+| `Zmniejsz liczbę spadków klatek` | Dostosowuje ustawienia graficzne, aby zmniejszyć liczbę traconych klatek. | Pole wyboru | `Wyłączone` |
+| `Wykrywaj problemy z wydajnością` | Ostrzega, jeżeli jakiś program na twoim komputerze zmniejsza wydajność klienta gry. | Pole wyboru | `Włączone` |
+
+---
+
+*Ważne: Jeżeli klient gry nie jest aktualnie aktywnym oknem, zostanie nałożone ograniczenie 30fps.*
+
+*Ostrzeżenie dla użytkowników laptopów: wybranie ustawienia limitu klatek `Bez limitu (podczas gry)` może przegrzać twoje urządzenie!*
+
+Jeżeli rozwiniesz listę dla `Limit klatek`, zobaczysz następujące opcje:
+
+| Nazwa | Opis |
+| --- | --- |
+| `Synchronizacja pionowa` | Ustawia ograniczenie klatek dla klienta gry na częstotliwość odświeżania twojego monitora. Sprawdź poniżej, aby dowiedzieć się więcej. |
+| `120fps` | Ustawia ograniczenie klatek dla klienta gry na 120fps. |
+| `240fps` | Ustawia ograniczenie klatek dla klienta gry na 240fps. |
+| `Bez limitu (podczas gry)` | Ustawia ograniczenie klatek dla klienta gry na częstotliwość odświeżania twojego monitora. Sprawdź poniżej, aby dowiedzieć się więcej. |
+
+- `Synchronizacja pionowa`: korzystanie z synchronizacji pionowej spowoduje, że gra będzie oczekiwała załadowania klatki przed jej wyświetleniem.
+  - Użyj tej opcji jeżeli dolna część ekranu zacina się w porównaniu do górnej.
+  - Opcja ta może spowodować ścinki i spowolnienia z powodu oczekiwania na załadowanie każdej klatki.
+- `Bez limitu (podczas gry)`: Limit klatek na sekundę jest zdejmowany podczas rozgrywki.
+  - Poza rozgrywką będzie nakładany limit `240fps`.
+
+### Rozdzielczość
+
+| Nazwa | Opis | Typ | Domyślnie |
+| --- | --- | --- | --- |
+| `Rozdzielczość` | Ustawia rozdzielczość klienta gry. Elementy listy zależą od wymiarów monitora. | Rozwijane menu |  |
+| `Tryb pełnoekranowy` | Uruchamia grę w trybie pełnoekranowym (zazwyczaj zmniejsza opóźnienie kursora). | Pole wyboru | `Włączone` |
+| `Letterboxing` | Uruchamia grę w trybie pełnoekranowym (zazwyczaj zmniejsza opóźnienie kursora) z określoną rozdzielczością. Reszta ekranu będzie pokryta czarnymi paskami. | Pole wyboru | `Włączone` |
+| `Pozycja pozioma` | Dostosowuje pozycję poziomą w trybie letterboxing (dostępne jedynie przy włączonym letterboxingu). | Suwak | `0%` |
+| `Pozycja pionowa` | Dostosowuje pozycję pionową w trybie letterboxing (dostępne jedynie przy włączonym letterboxingu). | Suwak | `0%` |
+
+- Jeżeli opcja `Tryb pełnoekranowy` jest wyłączona, to pojawi się pod nią napis `Uruchamianie gry w trybie okienkowym może zwiększać opóźnienie kursora!`.
 
 ### Detale
 
-<table style="width:36%;">
-<colgroup>
-<col width="12%" />
-<col width="24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Nazwa</p></th>
-<th><p>Opis</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Rozwijane slidery</p></td>
-<td><p>&quot;Slidery stopniowo &quot;&quot;rozwijają się&quot;&quot; z punktu początkowego. Nie powinno sprawiać problemów, chyba że masz słaby komputer.</p></td>
-</tr>
-<tr class="even">
-<td><p>Wideo w tle</p></td>
-<td><p>Włącza film w tle. Odznacz tę opcję, jeśli twój sprzęt nie nadąża na beatmapach z klipem wideo.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Storyboardy</p></td>
-<td><p>Pokazuje storyboard w tle beatmapy. Storyboard zawiera zwykle elementy opowieści, napisy albo efekty specjalne.</p></td>
-</tr>
-<tr class="even">
-<td><p>Grafika combo</p></td>
-<td><p>Z boku ekranu pojawi się obrazek, gdy osiągnięta zostanie odpowiednia wartość combo. (30,60,100,150,200,...)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Podświetlanie trafień</p></td>
-<td><p>Dodaje lekką poświatę wokół klikniętego kółka, która rozjaśnia pole gry.</p></td>
-</tr>
-<tr class="even">
-<td><p>Włącz shadery</p></td>
-<td><p>Włącza dodatkowe efekty graficzne podczas gry (zadziwiające światła, rozmazania, zmiany odcienia i wiele innych!). Polecane, jednakże wymaga porządnej karty graficznej z obsługą Pixel Shader 2.0. Jeśli Twoja karta ich nie obsługuje, ta funkcja będzie automatycznie wyłączona.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Filtr zmiękczający</p></td>
-<td><p>Włącza filtr zmiękczający. Jedni go lubią, inni nienawidzą ;)</p></td>
-</tr>
-<tr class="even">
-<td><p>Format zrzutów ekranu</p></td>
-<td><p><strong>PNG (bezstratne):</strong> Duża wielkość pliku, ale dobra jakość.</p>
-<hr>
-<p><strong>JPEG (dla sieci) [Domyślnie]:</strong> Kompaktowa wielkość pliku. Łatwa do załadowania. Zdjęcia mogą być rozmazane przy powiększeniu.</p></td>
-</tr>
-</tbody>
-</table>
+| Nazwa | Opis | Typ | Domyślnie |
+| --- | --- | --- | --- |
+| `Rozwijane slidery` | Slidery będą „rozwijać się” z położenia początkowego. | Pole wyboru | `Włączone` |
+| `Wideo w tle` | Wyświetla wideo w tle beatmapy. | Pole wyboru | `Włączone` |
+| `Scenorysy` | Wyświetla scenorys w tle beatmapy. | Pole wyboru | `Włączone` |
+| `Grafiki combo` | Wyświetla grafiki po osiągnięciu odpowiedniego combo. | Pole wyboru | `Włączone` |
+| `Podświetlanie trafień` | Tworzy lekką poświatę w miejscu klikniętego obiektu. Nie wyłącza podświetlania podczas czasu Kiai. | Pole wyboru | `Włączone` |
+| `Shadery` | Tworzy koncertowe efekty graficzne. Opcja zostanie automatycznie wyłączona, jeżeli twój komputer sobie z nią nie radzi. | Pole wyboru | `Wyłączone` |
+| `Filtr zmiękczający` | Zmniejsza intensywność efektów graficznych. Automatycznie włącza opcję `Shadery`. | Pole wyboru | `Wyłączone` |
+| `Format zrzutów ekranu` | Ustawia format zrzutów ekranu na `JPEG (dla sieci)` lub `PNG (bezstratny)`. | Rozwijane menu | `JPEG (dla sieci)` |
 
-### Menu Główne
+### Menu główne
 
-<table style="width:36%;">
-<colgroup>
-<col width="12%" />
-<col width="24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Nazwa</p></th>
-<th><p>Opis</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Pokaż wizualizację śniegu w menu głównym</p></td>
-<td><p>Małe odpowiedniki twojego aktualnego trybu gry (albo <em>snow.png</em>) będą spadać z nieba w menu głównym.<br />
-<strong>Ważne:</strong> Automatycznie włączane podczas tygodnia świątecznego(od 17 wprzód). Nie może zostać wyłączony podczas tego okresu.</p></td>
-</tr>
-<tr class="even">
-<td><p>Efekt paralaksy</p></td>
-<td><p>Dodaje efekt paralaksy bazowany na obecnej pozycji kursora. Nie działa podczas gry.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Pokaż podpowiedzi w menu</p></td>
-<td><p>W menu wyświetlą się podpowiedzi jak i co należy robić w osu!</p></td>
-</tr>
-<tr class="even">
-<td><p>Odtwarzaj dźwięki podczas włączania i wyłączania gry</p></td>
-<td><p>osu! będzie cię witać podczas wchodzenia do gry i żegnać podczas wychodzenia z niej.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Używaj motywu muzycznego osu!</p></td>
-<td><p>W menu głównym osu! będzie odtwarzać muzykę z motywu muzycznego zamiast muzyki z twoich beatmap.</p></td>
-</tr>
-</tbody>
-</table>
+| Nazwa | Opis | Typ | Domyślnie |
+| --- | --- | --- | --- |
+| `Wizualizacja śniegu` | Tworzy wizualizację śniegu w menu głównym (automatycznie włączona w trakcie zimy). | Pole wyboru | `Wyłączone` |
+| `Efekt paralaksy` | Tworzy mały efekt paralaksy zależny od obecnej pozycji kursora (nie występuje podczas rozgrywki). | Pole wyboru | `Włączone` |
+| `Wyświetlaj wskazówki w menu głównym` | Wyświetla wskazówki dot. gry w menu głównym (podpowiedzi nie są wyświetlane w eksperymentalnej wersji gry). | Pole wyboru | `Włączone` |
+| `Odtwarzaj dźwięki podczas włączania i wyłączania gry` | Odtwarza dźwięk powitalny przy włączaniu gry oraz dźwięk pożegnalny podczas wyłączania osu!. | Pole wyboru | `Włączone` |
+| `Odtwarzaj motyw muzyczny osu!` | Odtwarza motyw muzyczny osu! po włączeniu gry. | Pole wyboru | `Włączone` |
+| `Tła sezonowe` | Wyświetla prace zwycięzców konkursów społeczności w menu głównym (oraz dla beatmap bez własnych teł). Tła będą się zmieniać co beatmapę. | Rozwijane menu | `Czasami` |
 
-### Wybór piosenek
+---
 
-<table style="width:36%;">
-<colgroup>
-<col width="12%" />
-<col width="24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Nazwa</p></th>
-<th><p>Opis</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Pokazuj miniaturki</p></td>
-<td><p>Wyświetl miniaturkę beatmapy w menu wyboru piosenek. (Wymaga wersji skórki 2.2+)</p></td>
-</tr>
-</tbody>
-</table>
+Jeżeli rozwiniesz listę dla `Tła sezonowe`, zobaczysz następujące opcje:
 
-## ![](OP Gameplay thumb.jpg "fig:OP Gameplay thumb.jpg") Rozgrywka
+| Nazwa | Opis |
+| --- | --- |
+| `Czasami` | Wyświetla tła sezonowe przez pierwsze kilka tygodni każdego sezonu. Twórca gry wybiera, kiedy tła sezonowe zaczynają pojawiać się coraz rzadziej. |
+| `Nigdy` | Nigdy nie wyświetla teł sezonowych (nie będzie żadnego animu). |
+| `Zawsze` | Zawsze wyświetla tła sezonowe w menu głównym. |
 
-<img src="Options Gameplay.jpg" title="fig:Sekcja Rozgrywki" alt="Sekcja Rozgrywki" width="300" /> <img src="OP PBP.jpg" title="fig:Rozmieszczenie paska postępu" alt="Rozmieszczenie paska postępu" width="200" /> <img src="Input key overlay.jpg" title="fig:Nakładka klawiszy" alt="Nakładka klawiszy" width="200" />
+### Wybór utworu
+
+| Nazwa | Opis | Typ | Domyślnie |
+| --- | --- | --- | --- |
+| `Pokazuj miniaturki` | Wyświetla podgląd tła dla każdej beatmapy. Ta opcja wymaga wersji skórki 2.2 lub wyższej. | Pole wyboru | `Włączone` |
+
+## Rozgrywka
+
+![Ikona sekcji „Rozgrywka”](img/gameplay.jpg "Ikona sekcji „Rozgrywka”")
+
+Ta sekcja poświęcona jest rozgrywce w osu!.
 
 ### Ogólne
 
-<table>
-<thead>
-<tr class="header">
-<th><p>Przyciemnianie tła</p></th>
-<th><p>colspan = 2| Regulowanie tego paska zmieni przyciemnienie na wszystkich mapach (włączając w to <em><a href="PL:Beatmap_Editor" title="wikilink">Edytor Beatmap</a></em>). Ustaw na 0% jeżeli robisz Storyboard w zakładce <a href="Design" class="uri" title="wikilink">Design</a>.</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Pozycja paska postępu (decyduje o tym gdzie i jak będzie wyświetlany pasek postępu).</p></td>
-<td><p>colspan = 2| <img src="OP Pie.jpg" title="fig:OP Pie.jpg" alt="OP Pie.jpg" width="200" /><br />
-[1] Prawy górny róg (Koło) [Domyślny]</p>
-<hr>
-<p><img src="OP Bar UR.jpg" title="fig:OP Bar UR.jpg" alt="OP Bar UR.jpg" width="200" /><br />
-[2] Prawy górny róg (pasek)</p>
-<hr>
-<p><img src="OP Bar LR.jpg" title="fig:OP Bar LR.jpg" alt="OP Bar LR.jpg" width="200" /><br />
-[3] Prawy dolny róg</p>
-<hr>
-<p><img src="OP Bar B.jpg" title="fig:OP Bar B.jpg" alt="OP Bar B.jpg" width="200" /><br />
-[4] Dół (długi)</p></td>
-</tr>
-<tr class="even">
-<td><p>rowspan = 3|Rodzaj paska błędu (decyduje o tym czy pasek błędu będzie się pojawiał w dolnej części ekranu).</p></td>
-<td><p>Wyłączony</p></td>
-</tr>
-<tr class="odd">
-<td><p>Wynik trafień [Domyślny dla CTB]</p></td>
-<td><p><img src="OP SM Colour.jpg" title="fig:OP SM Colour.jpg" alt="OP SM Colour.jpg" width="350" height="20" /><br />
-Pokazuje wartości trafień (bazowane na kolorach domyślnej skórki 300/100/50/Miss).</p>
-<table>
-<caption>Domyślne kolory</caption>
-<tbody>
-<tr class="odd">
-<td></td>
-<td><p>300</p></td>
-<td></td>
-<td><p>100</p></td>
-<td></td>
-<td><p>50</p></td>
-<td></td>
-<td><p>Miss</p></td>
-<td></td>
-<td><p>Puste</p></td>
-</tr>
-</tbody>
-</table></td>
-</tr>
-<tr class="even">
-<td><p>Nierówność trafień [Domyślne dla reszty trybów]</p></td>
-<td><p><img src="OP SM HE.jpg" title="fig:OP SM HE.jpg" alt="OP SM HE.jpg" /><br />
-Pokazuje z jakim wyczuciem obiekty były naciskane. Długość paska zależy od OD (Celność). Lewo - Środek - Prawo = Za wcześnie - Perfekcyjnie - Za późno</p>
-<table>
-<caption>Domyślne kolory</caption>
-<tbody>
-<tr class="odd">
-<td></td>
-<td><p>Perfekcyjnie</p></td>
-<td></td>
-<td><p>300</p></td>
-<td></td>
-<td><p>100</p></td>
-<td></td>
-<td><p>50</p></td>
-<td><p>[Wskaźnik]</p></td>
-<td><p>Średnia</p></td>
-</tr>
-</tbody>
-</table></td>
-</tr>
-<tr class="odd">
-<td><p>Rozmiar paska błędu</p></td>
-<td><p>colspan = 2|Dopasuj wielkość paska błędu na ekranie.<br />
-Domyślnie ustawiona jest na 1.00x. Możesz ustawić od 0.50x do 2.00x.</p></td>
-</tr>
-<tr class="even">
-<td><p>Zawsze pokazuj nakładkę klawiszy</p></td>
-<td><p>colspan = 2|Pokazuj nakładkę klawiszy nawet podczas grania. Może okazać się przydatne przy nagrywaniu lub streamowaniu swojej gry.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Pokaż otoczkę pierwszego obiektu w modzie &quot;Hidden&quot;.</p></td>
-<td><p>colspan = 2|Czasem trudno wyczuć, kiedy kliknąć pierwszy obiekt, grając na modzie Hidden. Ta opcja włącza widoczność otoczki pierwszego kółka w beatmapie. <a href="Media:OP_AC_on_Hidden.jpg" title="wikilink">Przykład</a>.</p></td>
-</tr>
-<tr class="even">
-<td><p>Zmieniaj szybkość przewijania osu!manii na podstawie BPM</p></td>
-<td><p>colspan = 2|Szybkość przewijania zostanie dopasowana do BPM każdej beatmapy. Gdy włączone, szybsze beatmapy będą przewijać się szybciej.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Zapamiętaj szybkość przewijania każdej mapy w osu!manii.</p></td>
-<td><p>colspan = 2|Niezależna szybkość przewijania zostanie zapisana i użyta.</p></td>
-</tr>
-</tbody>
-</table>
+| Nazwa | Opis | Typ | Domyślnie |
+| --- | --- | --- | --- |
+| `Przyciemnienie tła` | Dostosowuje poziom efektu przyciemniania nakładanego na tło i scenorys podczas gry. | Suwak | `30%` |
+| `Nie zmieniaj przyciemniania tła podczas przerw` | Wyłącza zmniejszenie poziomu przyciemniania podczas przerw. | Przycisk | `Wyłączone` |
+| `Rodzaj wykresu postępu` | Ustawia miejsce i sposób wyświetlania wykresu postępu. Sprawdź poniżej, aby dowiedzieć się więcej. | Rozwijane menu | `Prawy górny róg (koło)` |
+| `Rodzaj paska błędu` | Konfiguruje pasek w dolnej części ekranu określający celność gracza. Ważne: niezależnie od wybranego rodzaju paska, dla trybu osu!catch będzie użyty `Wynik trafień`. | Rozwijane menu | `Nierówność trafień` |
+| `Rozmiar paska błędu` | Dostosowuje rozmiar paska błędu. | Suwak | `1x` |
+| `Zawsze pokazuj nakładkę klawiszy` | Wyświetla nakładkę klawiszy podczas rozgrywki. | Pole wyboru | `Wyłączone` |
+| `Pokazuj otoczkę kółka dla pierwszego obiektu z modem „Hidden”` | Podczas korzystania z modyfikatora „Hidden”, będzie wyświetlana otoczka kółka pierwszego obiektu beatmapy. | Pole wyboru | `Włączone` |
+| `Skaluj szybkość przewijania w osu!manii z BPM` | Skaluje szybkość przewijania w trybie osu!mania z wartością BPM beatmapy. | Pole wyboru | `Włączone` |
+| `Zapamiętaj szybkości przewijania w osu!manii dla beatmap` | Zapamiętuje niestandardowe szybkości przewijania dla różnych beatmap. | Pole wyboru | `Włączone` |
 
-### Wybór piosenki
+---
 
-| Wyświetlaj mapy od | Regulowanie tego paska **pokaże** wszystkie beatmapy mające więcej gwiazdek niż wybrana ilość i ukryje resztę. (Domyślnie ustawione na 0)  |
-|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| do                 | Regulowanie tego paska **ukryje** wszystkie beatmapy mające więcej gwiazdek niż wybrana ilość i pokaże resztę. (Domyślnie ustawione na 10) |
+Jeżeli rozwiniesz listę dla `Rodzaj wykresu postępu`, zobaczysz następujące opcje:
 
-## ![](OP Audio thumb.jpg "fig:OP Audio thumb.jpg") Dźwięk
+| Nazwa | Opis |
+| --- | --- |
+| `Prawy górny róg (koło)` | Wyświetla postęp do końca beatmapy jako wykres kołowy po lewej stronie celności. |
+| `Prawy górny róg (pasek)` | Wyświetla postęp do końca beatmapy jako poziomy pasek pod wynikiem i nad celnością. |
+| `Prawy dolny (pasek)` | Wyświetla postęp do końca beatmapy jako poziomy pasek w prawym dolnym rogu ekranu. |
+| `Dół (długi pasek)` | Wyświetla postęp do końca beatmapy jako długi poziomy pasek obejmujący całą długość okna gry. |
 
-<img src="optionsaudio1.jpg" title="Sekcja Dźwięku" alt="Sekcja Dźwięku" width="300" />
+---
+
+Jeżeli rozwiniesz listę dla `Rodzaj paska błędu`, zobaczysz następujące opcje:
+
+| Nazwa | Opis |
+| --- | --- |
+| `Wyłączony` | Nie wyświetla żadnego paska określającego celność gracza. |
+| `Wynik trafień` | Używa kolorowych bloków do określenia celności gracza. |
+| `Nierówność trafień` | Używa wykresu nierówności do określenia celności gracza. (przy grze w trybie osu!catch, zostanie wyświetlony pasek `Wynik trafień`) |
+
+### Wybór utworu
+
+| Nazwa | Opis | Typ | Domyślnie |
+| --- | --- | --- | --- |
+| `Wyświetlaj beatmapy od` | Określa **minimalną** liczbę gwiazdek, od której będą wyświetlane beatmapy. | Suwak | `0` |
+| `do` | Określa **maksymalną** liczbę gwiazdek, do której będą wyświetlane beatmapy. | Suwak | `10` |
+
+## Dźwięk
+
+![Ikona sekcji „Dźwięk”](img/audio.jpg "Ikona sekcji „Dźwięk”")
+
+Ta sekcja jest poświęcona dźwiękowi w grze.
 
 ### Urządzenia
 
-| Urządzenie wyjściowe | Pozwala na zmianę urządzenia wyjściowego audio. |
-|----------------------|-------------------------------------------------|
-||
+| Nazwa | Opis | Typ | Domyślnie |
+| --- | --- | --- | --- |
+| `Urządzenie wyjścia` | Wybierz z listy urządzenie, które ma odbierać dźwięk. (lista urządzeń jest pobierana z systemu). | Rozwijane menu | `Domyślne` |
 
 ### Głośność
 
-Ustawienia te pozwalają na zmianę poszczególnych elementów dźwięku w grze.
+| Nazwa | Opis | Typ | Domyślnie |
+| --- | --- | --- | --- |
+| `Ogólna` | Oddziałuje na wszystkie dźwięki w grze. | Suwak | `100%` |
+| `Muzyka` | Oddziałuje wyłącznie na muzykę. | Suwak | `80%` |
+| `Efekty` | Oddziałuje na efekty dźwiękowe. | Suwak | `80%` |
+| `Ignoruj efekty dźwiękowe beatmapy` | Ignoruje efekty dźwiękowe beatmap i używa tych z aktualnie wybranej skórki. | Przycisk | `Wyłączone` |
 
-| Ogólna                                                                  | kontroluje wszystkie aspekty.    |
-|-------------------------------------------------------------------------|----------------------------------|
-| Muzyka                                                                  | kontroluje tylko muzykę.         |
-| Efekty                                                                  | kontroluje efekty dźwiękowe gry. |
-| scope="col" colspan=2|Ignoruj efekty dźwiękowe mapy                     |
-| colspan=2|Niestandardowe dźwięki dołączane do beatmap nie będą aktywne. |
+Głośność w kliencie gry możesz zmienić również poprzez naciśnięcie `Alt` oraz przewijanie myszką lub użycie strzałek w górę i w dół.
 
-### Globalne opóźnienie muzyki
+### Opóźnienie
 
-***[Szczegółowa metoda konfiguracji.](PL:Universal_Offset "wikilink")***
+| Nazwa | Opis | Typ | Domyślnie |
+| --- | --- | --- | --- |
+| `Globalne opóźnienie` | Ustawia opóźnienie (w milisekundach) dla wszystkich beatmap (nie wpływa na opóźnienie lokalne). | Suwak | `0ms` |
+| `Kalibrator opóźnienia` | Uruchamia kalibrator opóźnienia. | Przycisk |  |
 
-If, in every single beatmap you play, you hear the sound effects out of sync with the song, you might need to adjust this value. Click and hold on the selector, then drag left or right. You can also place the cursor on the selector and move it using the left and right arrow keys. Continue adjusting until you find the position where the two different sounds are heard simultaneously. Alternatively, you can use Run Offset Wizard for a more graphical representation of ticks.
+- Po więcej informacji nt. kalibratora opóźnienia, sprawdź [ten artykuł](/wiki/Offset_Wizard).
+- Po więcej informacji nt. korzystania z kalibratora opóźnienia, sprawdź [ten poradnik](/wiki/How_to_use_the_Offset_Wizard).
 
-Unlike Local Song Offset (specific to that difficulty only) , this offset affects *every* beatmaps you play. If you received an Online Offset, you can \[1\] manually adjust it yourself for the difficulty you are playing using "Plus" (=/+) or "Minus" (-/\_) to increase/decrease the beatmap's offset by 5ms (holding alt while pressing Plus or Minus will allow you to change the offset by 1ms) or \[2\] go to the Universal Audio Offset and adjust it yourself then revert it back to normal upon finishing the said beatmap.
+## Skórka
 
-#### Kalibrator opóźnienia
+![Ikona sekcji „Skórka”](img/skin.jpg "Ikona sekcji „Skórka”")
 
-<img src="offsetwizard.jpeg" title="fig:Kalibrator opóźnienia" alt="Kalibrator opóźnienia" width="300" /> Click on "Run Offset Wizard" bar to adjust your Universal Audio Offset in a more graphical method.
+Ta sekcja poświęcona jest skórkom i rzeczom z nimi związanymi.
 
-Note: Your current playing song on your jukebox will be used.
+### Skórka
 
-1.  This displays your current Universal Audio Offset in terms of milliseconds.
-2.  Clicking on "Half tick" will display slower, half ticks on the screen likewise clicking "Double tick" will show faster, double ticks.
-3.  These are the ticks. They will pass through a green flashing line in the middle of the screen and will emit ticking sounds to represent beats.
-4.  Click the Back button or press Esc to return to the Graphics tab of the Options Screen. This will update the Universal Audio Offset.
-5.  Your jukebox. The currently playing song's BPM is shown as ticks.
+| Nazwa | Opis | Typ | Domyślnie |
+| --- | --- | --- | --- |
+| `Elementy skórki` | Wyświetla różne elementy z obecnie wybranej skórki. Kliknij, aby zmienić wyświetlane elementy. | Przycisk |  |
+| `Wybierz skórkę` | Zmienia skórkę. Elementy z rozwijanej listy to nazwy folderów z katalogu `osu!/Skins` | Rozwijane menu | `Domyślna` |
+| `Podgląd rozgrywki` | Uruchamia idealne przejście losowej beatmapy jako podgląd obecnie wybranej skórki. Tryb gry zależy od trybu wybranego na ekranie wyboru utworu. | Przycisk |  |
+| `Otwórz folder skórki` | Otwiera folder obecnie wybranej skórki. | Przycisk |  |
+| `Eksportuj jako .osk` | Eksportuje obecnie wybraną skórkę do pliku `.osk`. Gdy proces eksportowania zakończy się, zostanie otworzony folder zawierający plik `.osk`. | Przycisk |  |
+| `Ignoruj skórki beatmap` | Ignoruje elementy graficzne dołączone do beatmap (nie dotyczy dźwięków - sprawdź opcję poniżej). | Pole wyboru | `Wyłączone` |
+| `Używaj dźwięków skórek` | Ignoruje efekty dźwiękowe dołączone do beatmap. | Pole wyboru | `Włączone` |
+| `Używaj osobnych elementów skórki dla osu!taiko` | Używa elementów przeznaczonych dla trybu osu!taiko, jeżeli występują one w obecnie wybranej skórce. Sprawdź [ten artykuł](/wiki/Skinning/osu!taiko), aby dowiedzieć się więcej. | Pole wyboru | `Wyłączone` |
+| `Zawsze używaj kursora skórki` | Ignoruje sprite kursora dołączony do beatmap. | Pole wyboru | `Włączone` |
+| `Rozmiar kursora` | Dostosowuje rozmiar kursora. | Suwak | `1x` |
+| `Automatyczna zmiana rozmiaru kursora` | Automatycznie dostosowuje rozmiar kursora do wielkości kółek w danej beatmapie. | Pole wyboru | `Wyłączone` |
+| `Używaj koloru combo jako odcień piłki slidera` | Używa koloru combo jako odcień piłki slidera. Wymaga wsparacia skórki. | Pole wyboru | `Włączone` |
 
-## ![](OP Skin thumb.jpg "fig:OP Skin thumb.jpg") Skórka
+## Sterowanie
 
-<img src="Optionsskin.jpg" title="Sekcja Skórki" alt="Sekcja Skórki" width="300" />
+![Ikona sekcji „Sterowanie”](img/input.jpg "Ikona sekcji „Sterowanie”")
 
-### [Skórka](PL:Skin "wikilink")
-
-<table style="width:36%;">
-<colgroup>
-<col width="12%" />
-<col width="24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Nazwa</p></th>
-<th><p>Opis</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>(zdjęcia skórki)</p></td>
-<td><p>Zdjęcia obecnie używanej skórki. Spinner nie jest wyświetlany.<br />
-Zestaw 1: komplet Hitcircle, hit50.png, hit100.png, hit300.png<br />
-Zestaw 2: hit0.png, hit100k.png, hit300g.png<br />
-Zestaw 3: Cyfry Combo<br />
-Zestaw 4: Cyfry Score</p></td>
-</tr>
-<tr class="even">
-<td><p>Wybierz skórkę</p></td>
-<td><p>Obecnie używana skórka. Oryginalna skórka (&quot;Default&quot;) zawsze będzie wyświetlana na samej górze.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Podgląd rozgrywki</p></td>
-<td><p><a href="Media:PreGame.jpg" title="wikilink">Play an Autoplay of a random osu! Standard difficulty at random interval using the skin selected</a>. Skin can be changed and apply immediately to the same time interval. Press again to pick a random song again. Does not work on beatmaps with skin provided unless changed by Visual Settings or by enabling &quot;Ignore all beatmap skins&quot; below. If the Autoplay ends, you will be directed to the results screen. <a href="Media:PreGameRep.jpg" title="wikilink">Playing the replay will show that Auto defy the game physics (no hitsounds played).</a></p></td>
-</tr>
-<tr class="even">
-<td><p>Otwórz folder skórki</p></td>
-<td><p>Otwiera folder z obecnie używaną skórką. Nie działa przy oryginale.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Eksportuj jako .osk</p></td>
-<td><p>Eksportuje obecnie używaną skórkę jako plik .osk. Nie działa przy oryginale.</p></td>
-</tr>
-<tr class="even">
-<td><p>Ignoruj wszystkie skórki beatmap</p></td>
-<td><p>Domyślne ustawienie gry, by nigdy nie używać elementów skórki wstawionych do beatmapy.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Używaj dźwięków skórki</p></td>
-<td><p>Gdy odznaczone, będą używane dźwięki ze standardowej skórki osu!</p></td>
-</tr>
-<tr class="even">
-<td><p>Używaj skórki Taiko dla tego trybu</p></td>
-<td><p>Gdy zaznaczone i posiadasz skin Taiko, będzie on używany w trakcie gry w Taiko.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Zawsze używaj kursora skórki</p></td>
-<td><p>Kursor z wybranej skórki zastąpi kursor zmieniony w niektórych beatmapach.</p></td>
-</tr>
-<tr class="even">
-<td><p>Rozmiar kursora</p></td>
-<td><p>Reguluje wielkość kursora. Domyślnie jest to 1x, natomiast zasięg to 0.5x - 2.0x.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Automatyczna zmiana rozmiaru kursora</p></td>
-<td><p>Wielkość kursora będzie dopasowywana do wielkości kółek (<a href="PL:CS" title="wikilink">CS</a>) w granej beatmapie.</p></td>
-</tr>
-<tr class="even">
-<td><p>Używaj koloru combo jako odcienia dla piłki slidera</p></td>
-<td><p>Piłka będzie miała taki sam kolor combo jak slider. Efekt ten działa tylko na skórce, która wspiera tą opcję.</p></td>
-</tr>
-</tbody>
-</table>
-
-## ![](OP Input thumb.jpg "fig:OP Input thumb.jpg") Sterowanie
-
-<img src="optionsinput1.jpeg" title="Sekcja Sterowania" alt="Sekcja Sterowania" width="300" />
+Ta sekcja jest poświęcona sterowaniu w grze.
 
 ### Mysz
 
-<table style="width:36%;">
-<colgroup>
-<col width="12%" />
-<col width="24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Nazwa</p></th>
-<th><p>Opis</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Czułość myszki</p></td>
-<td><p>Zmienia czułość twojego kursora.<br />
-Zasięg paska: 0.40x - 6.00x. Domyślnie jest to 1.00x.</p></td>
-</tr>
-<tr class="even">
-<td><p>Użyj odczytu bezpośredniego (Częstotliwość: #/sec Opóźnienie: #ms)</p></td>
-<td><p><strong>Sygnał bezpośredni ominie przyśpieszanie systemu i zapewni najbardziej precyzyjne ruchy kursora.</strong> <span class="plainlinks"><a href="https://osu.ppy.sh/community/forums/topics/187785">Dowiedz się więcej.</a></span> <span class="plainlinks"><a href="http://www.howtogeek.com/182702/mouse-dpi-and-polling-rates-explained-do-they-matter-for-gaming/">Jeżeli chcesz się czegoś dowiedzieć o szybkości odpytywania, stosuj się do tej strony</a></span></p></td>
-</tr>
-<tr class="odd">
-<td><p>Mapuj powierzchnię roboczą tabletu do okna osu!</p></td>
-<td><p>Ustawienia urządzeń z pozycjonowaniem bezwzględnym, takich jak tablet, zazwyczaj biorą pod uwagę cały ekran.<br />
-Dzięki tej opcji obszar roboczy tabletu będzie dotyczyć okienka osu!</p></td>
-</tr>
-<tr class="even">
-<td><p>Ograniczaj kursor myszy</p></td>
-<td><p>Kursor zostanie ograniczony w okienku osu! [nigdy/podczas trybu pełnoekranowego/zawsze]</p></td>
-</tr>
-<tr class="odd">
-<td><p>Wyłącz kółko myszy podczas gry.</p></td>
-<td><p>Podczas gry możesz użyć kółka myszy by regulować głośność i pauzować grę. Ta opcja wyłączy tę funkcję.</p></td>
-</tr>
-<tr class="even">
-<td><p>Wyłącz przyciski myszy podczas gry.</p></td>
-<td><p>Opcja wyłączy przyciski myszy. Przydatne dla ludzi używających klawiatury do klikania.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Pokaż pulsowanie kursora</p></td>
-<td><p>Kursor będzie pulsował na zewnątrz przy klikaniu.</p></td>
-</tr>
-</tbody>
-</table>
+| Nazwa | Opis | Typ | Domyślnie |
+| --- | --- | --- | --- |
+| `Czułość` | Dostosowuje czułość kursora myszy. Zmiana tej opcji automatycznie aktywuje opcję `Odczyt bezpośredni`. | Suwak | `1x` |
+| `Odczyt bezpośredni` | Odczytuje nieprzetworzoną przez system pozycję myszy lub tabletu bezpośrednio z urządzenia (zapobiega akceleracji). | Przycisk | `Wyłączone` |
+| `Mapuj odczyt bezpośredni do wielkości okna osu!` | Proporcjonalnie dostosowuje odczyt bezpośredni urządzenia do wielkości klienta gry. | Przycisk | `Wyłączone` |
+| `Ograniczaj kursor myszy` | Zapobiega wychodzeniu kursora myszy poza okno klienta gry. Sprawdź poniżej, aby dowiedzieć się więcej. | Rozwijane menu | `Tylko w trybie pełnoekranowym` |
+| `Wyłącz rolkę myszy podczas gry` | Wyłącza rolkę myszy podczas rozgrywki. Rolka myszy może zmieniać wartość ogólnej głośności gry. | Przycisk | `Wyłączone` |
+| `Wyłącz przyciski myszy podczas gry` | Wyłącza przyciski myszy podczas rozgrywki (przydatne dla graczy używających klawiatury do gry). | Przycisk | `Wyłączone` |
+| `Pokazuj pulsowanie kursora` | Wyświetla efekt pulsowania przy każdym kliknięciu myszą. | Przycisk | `Wyłączone` |
 
-===Klawiatura===
+- Jeżeli opcja `Odczyt bezpośredni` jest włączona, to obok niej zostanie wyświetlana ilość odczytów na sekundę oraz opóźnienie w milisekundach.
+- Efekt pulsowania kursora jest aktywowany poprzez naciśnięcie `M1` lub `M2` podczas gry.
 
-#### Ustawienia klawiatury
+---
 
-#### Styl osu!manii
+Jeżeli rozwiniesz listę dla `Ograniczaj kursor myszy`, zobaczysz następujące opcje:
 
-<img src="Options ml.jpg" title="fig:Styl osu!manii" alt="Styl osu!manii" width="300" /> Key-binding settings for the K setting. Sensitive to selected K only. Otherwise, the [default key-bindings](Osu!mania#Controls "wikilink") will be used based on the Key Bindings above. **Type your letter to set the keys.**
+| Nazwa | Opis |
+| --- | --- |
+| `Nigdy` | Nigdy nie zapobiega wychodzeniu kursora myszy poza okno klienta gry. |
+| `Tylko w trybie pełnoekranowym` | Zapobiega wychodzeniu kursora myszy poza okno klienta gry wyłącznie w trybie pełnoekranowym. |
+| `Zawsze` | Zawsze zapobiega wychodzeniu kursora myszy poza okno klienta gry. |
 
-<table style="width:36%;">
-<colgroup>
-<col width="12%" />
-<col width="24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Nazwa</p></th>
-<th><p>Opis</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Liczba klawiszy</p></td>
-<td><p>Normal settings for 1K ~ 9K, 5K ~ 9K Co-op (same as osu!mania editor's possible K options).</p></td>
-</tr>
-<tr class="even">
-<td><p>Interfejs modu Co-op</p></td>
-<td><p>Settings after applying Co-op mod (currently apply to 1K ~ 9K. 10K ~ 18K is still in progress)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Styl kolumn<br />
-[tylko 6K i 8K]</p></td>
-<td><table>
-<thead>
-<tr class="header">
-<th><p>CS</p></th>
-<th><p>6K</p></th>
-<th><p>8K</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Użyj zwykłego stylu</p></td>
-<td><div class="figure">
-<img src="CS_6K_N.jpg" title="CS_6K_N.jpg" alt="CS_6K_N.jpg" width="150" />
-<p class="caption">CS_6K_N.jpg</p>
-</div></td>
-<td><div class="figure">
-<img src="CS_8K_N.jpg" title="CS_8K_N.jpg" alt="CS_8K_N.jpg" width="200" />
-<p class="caption">CS_8K_N.jpg</p>
-</div></td>
-</tr>
-<tr class="even">
-<td><p>Użyj specjalnego stylu (prawy)</p></td>
-<td><div class="figure">
-<img src="CS_6K_R.jpg" title="CS_6K_R.jpg" alt="CS_6K_R.jpg" width="150" />
-<p class="caption">CS_6K_R.jpg</p>
-</div></td>
-<td><div class="figure">
-<img src="CS_8K_R.jpg" title="CS_8K_R.jpg" alt="CS_8K_R.jpg" width="200" />
-<p class="caption">CS_8K_R.jpg</p>
-</div></td>
-</tr>
-<tr class="odd">
-<td><p>Użyj specjalnego stylu (lewy)</p></td>
-<td><div class="figure">
-<img src="CS_6K_L.jpg" title="CS_6K_L.jpg" alt="CS_6K_L.jpg" width="150" />
-<p class="caption">CS_6K_L.jpg</p>
-</div></td>
-<td><div class="figure">
-<img src="CS_8K_L.jpg" title="CS_8K_L.jpg" alt="CS_8K_L.jpg" width="200" />
-<p class="caption">CS_8K_L.jpg</p>
-</div></td>
-</tr>
-</tbody>
-</table></td>
-</tr>
-<tr class="even">
-<td><p>Ustaw alternatywne klawisze specjalne</p></td>
-<td><p>[When using right/left column style] Bind the alternate special key.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Odwróć obszar gry w pionie<br />
-(DDR Style)</p></td>
-<td><p>Move the judgement area and keynotes above the screen instead of the usual below the screen. Beatmap's design and key-bindings stay as it is.</p></td>
-</tr>
-<tr class="even">
-<td><p>Pokaż linię oceny</p></td>
-<td><p><a href="Media:OP_J_Line.jpg" title="wikilink">Make Judgement Line slightly &quot;brighter&quot;.</a></p></td>
-</tr>
-<tr class="odd">
-</tr>
-</tbody>
-</table>
+### Klawiatura
+
+| Nazwa | Opis | Typ |
+| --- | --- | --- |
+| `Ustawienia klawiatury` | Otwiera nakładkę z ustawieniami klawiatury. Sprawdź [ten artykuł](/wiki/Keyboard_Bindings), aby dowiedzieć się więcej. | Przycisk |
+| `Styl osu!mania` | Otwiera nakładkę z ustawieniami sterowania w trybie osu!mania. Sprawdź [ten artykuł](/wiki/Game_Modes/osu!mania), aby dowiedzieć się więcej. | Przycisk |
 
 ### Inne
 
-<table style="width:36%;">
-<colgroup>
-<col width="12%" />
-<col width="24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Nazwa</p></th>
-<th><p>Opis</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Wymuś obsługę Tablet PC</p></td>
-<td><p>Włącz tę opcję, jeżeli używasz Tablet PC lub zwykłego tabletu i twoje kliknięcia nie są prawidłowo rejestrowane.</p></td>
-</tr>
-<tr class="even">
-<td><p>Wymuś obsługę joysticka</p></td>
-<td><p><strong>[Tylko <a href="PL:osu!mania" title="wikilink">osu!mania</a>]</strong><br />
-Zaznacz, jeśli używasz joysticka lub kontrolera do grania w osu!manię.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Wymuś obsługę Wiimote/bębenków TaTaCon</p></td>
-<td><p>Włącz obsługę kontrolera Taiko Wii i Wiimota. Upewnij się, że Twój Wiimote jest połączony przez Bluetooth, zanim włączysz tę opcję.</p></td>
-</tr>
-</tbody>
-</table>
+| Nazwa | Opis | Typ | Domyślnie |
+| --- | --- | --- | --- |
+| `Wymuś obsługę TabletPC` | Poprawia obsługę tabletów graficznych i tabletów PC. | Pole wyboru | `Wyłączone` |
+| `Wymuś obsługę Wiimote i bębenków TaTaCon` | Włącza obsługę bębenków Taiko Drum i kontrolerów Wiimotes od Nintendo. Sparuj urządzenie przez Bluetooth, zanim włączysz tę opcję. | Pole wyboru | `Wyłączone` |
 
-## ![](OP Editor thumb.jpg "fig:OP Editor thumb.jpg") Edytor
+## Edytor
 
-<img src="Options Editor.jpg" title="Sekcja Edytora" alt="Sekcja Edytora" width="300" />
+![Ikona sekcji „Edytor”](img/editor.jpg "Ikona sekcji „Edytor”")
+
+Ta sekcja jest poświęcona [edytorowi beatmap](/wiki/Beatmap_Editor).
+
+Te opcje oddziałują wyłącznie na edytor beatmap i tryb testowania beatmapy.
 
 ### Ogólne
 
-<table style="width:36%;">
-<colgroup>
-<col width="12%" />
-<col width="24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Nazwa</p></th>
-<th><p>Opis</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Wideo w tle</p></td>
-<td><p>Pokazuje tło wideo w edytorze. Wyłącz jeżeli chcesz się skupić na mapowaniu.</p></td>
-</tr>
-<tr class="even">
-<td><p>Używaj domyślnej skórki</p></td>
-<td><p>Ignoruje używanie własnej skórki w edytorze. Domyślna skórka jest zalecana podczas edycji aby sprawdzić pokrywanie itp.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Rozwijane slidery</p></td>
-<td><p>Slidery będą stopniowo &quot;rozwijać się&quot; także w edytorze.</p></td>
-</tr>
-<tr class="even">
-<td><p>Animacja kliknięcia obiektów</p></td>
-<td><p>Obiekty po kliknięciu będą miały typową dla tego animację zamiast powolnego zanikania.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Linie kolejności</p></td>
-<td><p>Włącza linie śledzenia (follow points) w edytorze.</p></td>
-</tr>
-<tr class="even">
-<td><p>Układanie stosów (stacking)</p></td>
-<td><p>Pokazuj obiekty jako <a href="PL:Song_Setup#Stack_Leniency" title="wikilink">stosy</a> w edytorze.</p></td>
-</tr>
-</tbody>
-</table>
+| Nazwa | Opis | Typ | Domyślnie |
+| --- | --- | --- | --- |
+| `Wideo w tle` | Odtwarza wideo w tle podczas edytowania beatmapy. | Pole wyboru | `Wyłączone` |
+| `Używaj domyślnej skórki` | Używa domyślnej skórki osu! podczas edytowania beatmap. | Pole wyboru | `Wyłączone` |
+| `Rozwijane slidery` | Slidery będą stopniowo rozwijać się również w edytorze. | Pole wyboru | `Włączone` |
+| `Animacje kliknięć obiektów` | Animacje kliknięć obiektów będą widoczne w edytorze. | Pole wyboru | `Wyłączone` |
+| `Linie śledzenia` | Linie śledzenia obiektów będą widoczne w edytorze. | Pole wyboru | `Włączone` |
+| `Układanie stosów (stacking)` | Pokazuje obiekty jako stosy w edytorze. | Pole wyboru | `Włączone` |
 
-## ![](OP Online thumb.jpg "fig:OP Online thumb.jpg") Online
+Możesz również zmienić te opcje w menu „Widok” edytora beatmap.
 
-<img src="optionsonline1.jpeg" title="Sekcja Online" alt="Sekcja Online" width="300" />
+## Online
+
+![Ikona sekcji „Online”](img/online.jpg "Ikona sekcji „Online”")
+
+Ta sekcja jest poświęcona czatowi, liście widzów, trybowi wieloosobowemu oraz osu!direct.
 
 ### Powiadomienia i prywatność
 
-<table style="width:36%;">
-<colgroup>
-<col width="12%" />
-<col width="24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Nazwa</p></th>
-<th><p>Opis</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Pokazuj pasek czatu</p></td>
-<td><p>Pokazuje nowe wiadomości w jednej linii na dole ekranu, gdy czat jest zamknięty</p></td>
-</tr>
-<tr class="even">
-<td><p>Automatycznie ukryj czat podczas gry</p></td>
-<td><p>Gdy zaznaczone, czat będzie automatycznie ukrywany podczas gry. Będzie on widoczny na początku, podczas przerw i na końcu piosenki.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Pokaż powiadomienie, gdy twój nick pojawi się na czacie</p></td>
-<td><p>Gdy ktoś wspomni twój nick, zostaniesz poinformowany wiadomością na dole ekranu (nawet podczas gry).</p></td>
-</tr>
-<tr class="even">
-<td><p>Odtwórz dźwięk, gdy twój nick pojawi się na czacie</p></td>
-<td><p>Gdy ktoś wypowie na czacie twój nick, odtworzony zostanie dźwięk.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Pokazuj innym nazwę twojego miasta</p></td>
-<td><p>Domyślnie, inni użytkownicy widzą tylko kraj, z którego pochodzisz. Włączenie tej opcji dodaje również miasto do wyświetlanej lokacji. Zazwyczaj jest to dosyć trafne. Przykład: Japan (Tokyo) gdzie Japan to państwo a Tokyo to miasto.</p></td>
-</tr>
-<tr class="even">
-<td><p>Pokazuj listę widzów podczas gry</p></td>
-<td><p>Lista widzów jest widoczna w lewym górnym rogu podczas gry. Jeśli ją ukryjesz, nie będziesz dłużej wiedział, że ktoś cię ogląda.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Automatycznie wysyłaj link do beatmapy widzom</p></td>
-<td><p>Automatycznie wysyła link do aktualnie granej beatmapy na kanał #spectator, gdy ktoś cię ogląda.</p></td>
-</tr>
-<tr class="even">
-<td><p>Pokazuj powiadomienia podczas gry</p></td>
-<td><p>Pozwoli wyświetlać powiadomienia na dole ekranu podczas gry. Gdy odznaczone, powiadomienia będą wyświetlane tylko podczas przerw.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Powiadamiaj o zmianie statusu twoich znajomych</p></td>
-<td><p>Powiadamiaj, kiedy znajomi się zalogują lub wylogują.</p></td>
-</tr>
-<tr class="even">
-<td><p>Zezwalaj na zaproszenia do gier od wszystkich graczy</p></td>
-<td><p>Odznacz, aby zezwolić na przyjmowanie zaproszeń tylko od przyjaciół.</p></td>
-</tr>
-</tbody>
-</table>
+| Nazwa | Opis | Typ | Domyślnie |
+| --- | --- | --- | --- |
+| `Pokazuj pasek czatu` | Wyświetla nowe wiadomości w dolnej części ekranu. Wiadomości są wyświetlane z aktualnie przeglądanego klanału. | Pole wyboru | `Wyłączone` |
+| `Automatycznie ukrywaj czat podczas rozgrywki` | Jeżeli czat jest otwarty w czasie przerwy lub w menu gry, klient gry automatycznie go ukryje, gdy rozpocznie się rozgrywka. | Pole wyboru | `Włączone` |
+| `Pokazuj powiadomienie, gdy ktoś wspomni cię na czacie` | Wyświetla powiadomienie, gdy ktokolwiek wspomni twoją nazwę użytkownika na czacie. | Pole wyboru | `Włączone` |
+| `Pokazuj powiadomienia o nowych wiadomościach na czacie` | Wyświetla powiadomienie, gdy na czacie pojawi się na czacie. | Pole wyboru | `Włączone` |
+| `Odgrywaj dźwięk, gdy ktoś wspomni cię na czacie` | Odgrywa charakterystyczny dźwięk, gdy ktokolwiek wspomni twoją nazwę użytkownika na czacie. | Pole wyboru | `Włączone` |
+| `Zezwalaj na udostępnianie nazwy twojego miasta` | Wyświetla nazwę twojego miasta w karcie użytkownika (twój kraj jest publiczny bez względu na stan tej opcji). | Pole wyboru | `Wyłączone` |
+| `Pokazuj listę widzów` | Wyświetla listę obecnych widzów podczas rozgrywki w lewej części ekranu. | Pole wyboru | `Włączone` |
+| `Automatycznie udostępniaj beatmapy swoim widzom` | Wysyła obecnie rozgrywaną beatmapę na kanał `#spectator`, jeżeli masz jakichkolwiek widzów. | Pole wyboru | `Włączone` |
+| `Pokazuj powiadomienia podczas rozgrywki` | Zezwala na wyświetlanie powiadomień podczas rozgrywki. Odznacz, aby otrzymywać je po zakończeniu gry. | Pole wyboru | `Włączone` |
+| `Pokazuj powiadomienia o zmianie statusu znajomego` | Wyświetla powiadomienie, gdy twój znajomy wejdzie lub wyjdzie z gry. | Checkbox | `Enabled` |
+| `Zezwalaj na zaproszenia do gier od wszystkich użytkowników` | Zezwala na otrzymywanie zaproszeń do gier od każdego. Odznacz, aby otrzymywać zaproszenia wyłącznie od znajomych. | Pole wyboru | `Włączone` |
 
 ### Integracja
 
-<table style="width:36%;">
-<colgroup>
-<col width="12%" />
-<col width="24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Nazwa</p></th>
-<th><p>Opis</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Zintegruj ze statusem Yahoo!</p></td>
-<td><p>Twój Yahoo! Messenger będzie pokazywać piosenkę, którą obecnie grasz lub której słuchasz.</p></td>
-</tr>
-<tr class="even">
-<td><p>Zintegruj ze statusem MSN Live</p></td>
-<td><p>Twój Windows Live Messenger będzie pokazywać piosenkę, którą obecnie grasz lub której słuchasz.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Automatycznie rozpoczynaj wszystkie pobierania osu!direct</p></td>
-<td><p>Automatycznie rozpoczynaj wszystkie pobierania osu!direct</p></td>
-</tr>
-<tr class="even">
-<td><p>Preferuj pobieranie bez wideo</p></td>
-<td><p>Zdecyduj, czy mapy z osu!direct mają być domyślnie pobierane razem z wideo.</p></td>
-</tr>
-</tbody>
-</table>
+| Nazwa | Opis | Typ | Domyślnie |
+| --- | --- | --- | --- |
+| `Discord Rich Presence` | Udostępnia [dane rich presence Discordowi](/wiki/Guides/Discord_Rich_Presence) | Pole wyboru | `Włączone` |
+| `Zintegruj ze statusem Yahoo!` | Twój Yahoo! Messenger będzie wyświetlać utwór, który obecnie grasz lub którego słuchasz. Musisz ustawić to z poziomu strony internetowej osu!. | Pole wyboru | `Wyłączone` |
+| `Zintegruj ze statusem MSN Live` | Twój Windows Live Messenger będzie wyświetlać utwór, który obecnie grasz lub którego słuchasz. | Pole wyboru | `Wyłączone` |
+| `Automaycznie pobieraj beatmapy z osu!direct` | Podczas oglądania innych użytkowników czy rozgrywki w trybie wielosobowym, beatmapy będą pobierane automatycznie. | Pole wyboru | `Włączone` |
+| `Pobieraj beatmapy bez wideo w tle` | osu!direct będzie pobierać beatmapy bez wideo w tle. | Pole wyboru | `Wyłączone` |
 
-### Czat podczas gry
+### Czat w grze
 
-<table style="width:36%;">
-<colgroup>
-<col width="12%" />
-<col width="24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Nazwa</p></th>
-<th><p>Opis</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Filtruj wulgaryzmy</p></td>
-<td><p>Filtruje z czatu słowa nieodpowiednie dla niektórych kultur i grup wiekowych.</p></td>
-</tr>
-<tr class="even">
-<td><p>Filtruj obce znaki</p></td>
-<td><p>Usuwa wszystkie litery spoza standardowego alfabetu łacińskiego - A-Z. Przydatne, gdy powodują u ciebie zacinanie się gry.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Automatycznie zapisuj prywatne wiadomości</p></td>
-<td><p>Włączenie tej opcji spowoduje zapisywanie wszystkich wiadomości do folderu Chat do plików tekstowych.</p></td>
-</tr>
-<tr class="even">
-<td><p>Blokuj prywatne wiadomości od osób spoza listy znajomych</p></td>
-<td><p>Włączenie tej opcji wstrzyma otrzymywanie prywatnych wiadomości od graczy spoza listy znajomych.</p></td>
-</tr>
-</tbody>
-</table>
+| Nazwa | Opis | Typ | Domyślnie |
+| --- | --- | --- | --- |
+| `Filtruj wulgaryzmy` | Filtruje z czatu nieodpowiednie słowa i wulgaryzmy. | Przycisk | `Wyłączone` |
+| `Filtruj obce znaki` | Ukrywa wszystkie znaki spoza systemu ASCII. | Przycisk | `Wyłączone` |
+| `Automatycznie zapisuj wiadomości prywatne` | Prywatne wiadomości będą zapisywane w folderze `osu!/Logs`. | Przycisk | `Wyłączone` |
+| `Blokuj wiadomości prywatne od osób spoza listy znajomych` | Włączenie tej opcji wstrzyma otrzymywanie wiadomości prywatnych od osób spoza listy znajomych. | Przycisk | `Wyłączone` |
+| `Ignorowani użytkownicy (oddziel spacją)` | Użytkownicy, których nazwy znajdują się na tej liście, będą ignorowani na czacie. | Pole tekstowe | *(puste)* |
+| `Wyróżniane słowa na czacie (oddziel spacją)` | Słowa tu umieszczone będą wyróżniane na czacie. | Pole tekstowe | *(puste)* |
 
-<table style="width:36%;">
-<colgroup>
-<col width="12%" />
-<col width="24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Nazwa</p></th>
-<th><p>Opis</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Ignorowani użytkownicy (oddziel spacją)</p></td>
-<td><p>Lista ignorowanych użytkowników. Poprzez dodanie @ a następnie literek, c, h, i/lub p, możesz odpowiednio ignorować innych w czacie, wyłączyć wyróżnienia, czy prywatne wiadomości.<br />
-<strong>Przykład:</strong> peppy@h BanchoBot (peppy nie może cię wyróżnić a wiadomości BanchoBota nie będą pokazywane na twoim czacie. Jednak oboje będą widzieli twoje wiadomości.)</p></td>
-</tr>
-<tr class="even">
-<td><p>Słowa podkreślane na czacie (oddziel spacją)</p></td>
-<td><p>Zostaniesz powiadomiony kiedy ktoś napisze słowo(a) które zlewa się słowem(ami), które tu umieścisz. Domyślnie tylko twój pełny pseudonim jest wyróżniany.</p></td>
-</tr>
-</tbody>
-</table>
+## Zarządzanie
 
-## ![](OP Maintance thumb.jpg "fig:OP Maintance thumb.jpg") Zarządzanie
+![Ikona sekcji „Zarządzanie”](img/maintenance.jpg "Ikona sekcji „Zarządzanie”")
 
-<img src="optionsmaintenance.png" title="Sekcja Zarządzania" alt="Sekcja Zarządzania" width="300" />
+Ta sekcja jest poświęcona zarządzaniu beatmapami i aktualizacjom.
 
 ### Ogólne
 
-<table style="width:36%;">
-<colgroup>
-<col width="12%" />
-<col width="24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Nazwa</p></th>
-<th><p>Opis</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Usuń wszystkie nierankingowe mapy</p></td>
-<td><p>Usuwa wszystkie nierankingowe mapy z folderu Songs. osu! wyświetli specjalne okienko z liczbą usuwanych map i prośbą o potwierdzenie akcji.</p></td>
-</tr>
-<tr class="even">
-<td><p>Wymuś uprawnienia folderu</p></td>
-<td><p>Daje osu! uprawnienia do swoich folderów. Użyteczne dla użytkowników Visty z włączoną Kontrolą Konta Użytkownika.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Oznacz wszystkie mapy jako zagrane</p></td>
-<td><p>Oznacza wszystkie mapy jako &quot;zagrane&quot;. Niepolecane dla osób, które chcą wiedzieć jakich map jeszcze nie zagrały.</p></td>
-</tr>
-<tr class="even">
-<td><p>Uruchom aktualizator</p></td>
-<td><p>Zamyka osu! i otwiera zewnętrzny program aktualizujący (kiedyś znany jako osume!) aby wyszukiwał aktualizacje.</p></td>
-</tr>
-</tbody>
-</table>
+| Nazwa | Opis | Typ |
+| --- | --- | --- |
+| `Usuń wszystkie nierankingowe beatmapy` | Usuwa wszystkie nierankingowe beatmapy z folderu gry. | Przycisk |
+| `Napraw uprawnienia folderu` | Nadaje klientowi gry uprawnienia do odczytu i zapisu, aby miał on dostęp do plików osu! (ta czynność wymaga potwierdzenia od administratora komputera). | Przycisk |
+| `Oznacz wszystkie beatmapy jako zagrane` | Oznacza wszystkie beatmapy jako zagrane”. | Przycisk |
+| `Uruchom aktualizator gry` | Zamyka klient gry i uruchamia aktualizator, który sprawdza czy są dostępne aktualizacje (i je pobiera). | Przycisk |
 
 ### Debug
 
-**Nie ruszaj jeżeli nie wiesz do czego co służy. Tylko Eksperymentalna.**
+#### Wersja kompilacji
 
-Ważne: Po przełączeniu części z nich będzie trzeba zrestartować osu!, ponieważ mogą nie działać prawidłowo.
+Wyświetla wersję kompilacji posiadanego klienta gry oraz rodzaj wersji osu!, z którego pobierane są aktualizacje. Kliknięcie na napis, otworzy listę zmian danej wersji gry w domyślnej przeglądarce internetowej.
 
-<table style="width:36%;">
-<colgroup>
-<col width="12%" />
-<col width="24%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><p>Nazwa</p></th>
-<th><p>Opis</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Debug_NoAsyncReads</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Debug_DisableGCLowLatency</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Debug_DisableBackgroundSaves</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Debug_DisableTextRendering</p></td>
-<td><p>Przestaje renderować tekst</p></td>
-</tr>
-<tr class="odd">
-<td><p>Debug_DisableSpriteDraw</p></td>
-<td><p>Przestaje renderować <span style="text-decoration:underline;">wszystkie</span> sprite'y</p></td>
-</tr>
-<tr class="even">
-<td><p>Debug_DisableBlendingModes</p></td>
-<td><p>Przestaje mieszać kolory</p></td>
-</tr>
-<tr class="odd">
-<td><p>Debug_DisablePerformanceLogging</p></td>
-<td><p>Przestaje odnotowywać problemy z grą w logach</p></td>
-</tr>
-<tr class="even">
-<td><p>Debug_DisableTextureUploads</p></td>
-<td><p>Przestaje wyświetlać określone rzeczy (teksty, zdjęcia itd.)</p></td>
-</tr>
-<tr class="odd">
-<td><p>Debug_ForceIPv4FallbackPat</p></td>
-<td><p>Wymusza IPv4 zamiast IPv6</p></td>
-</tr>
-<tr class="even">
-<td><p>Debug_DisableBancho</p></td>
-<td><p>Wyłącza Bancho</p></td>
-</tr>
-<tr class="odd">
-<td><p>Debug_DisableFBO</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Debug_DisableVBO</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Debug_DisableMultipleVBOs</p></td>
-<td><p>Przestaje używać wielokrotnego VBO</p></td>
-</tr>
-<tr class="even">
-<td><p>Debug_DisableSliderRendering</p></td>
-<td><p>Przestaje renderować <span style="text-decoration:underline;">wszystkie</span> slidery</p></td>
-</tr>
-</tbody>
-</table>
+Komplilacje są nazywane według następującej formuły:
 
-### osu!Build
+```
+b{YYYY}{MM}{DD}.{korekta}{typ}
+```
 
-<table>
-<thead>
-<tr class="header">
-<th><p>scope=&quot;col&quot; colspan = 3| osu!Build</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>colspan = 3 | Naciśnięcie przeniesie cię do strony z Listą zmian.</p></td>
-</tr>
-<tr class="even">
-<td><p>Stabilny Build.</p></td>
-</tr>
-<tr class="odd">
-<td><p>Testowy Build.</p></td>
-</tr>
-</tbody>
-</table>
+- `{YYYY}` to rok, w którym została wydana kompilacja
+- `{MM}` to miesiąc, w którym została wydana kompilacja
+- `{DD}` to dzień, w którym została wydana kompilacja
+- `{korekta}` oznacza korektę kompliacji
+  - Jeżeli korekta nie występuje, to kropka zostanie usunięta z nazwy kompilacji.
+- `{type}` oznacza rodzaj wersji gry
+  - Jeżeli rodzaj wersji gry nie jest określony, to jest to wersja `Stabilna`.
 
-# Stare ekrany
+## Ciekawostki
 
-To ekran(y), które *były* dostępne w Opcjach. Możesz się do nich dostać różnymi sposobami.
+- Jeżeli wprowadzisz nazwę użytkownika a pole z hasłem pozostawisz puste, to osu! użyje jej przy zapisywaniu wyników lokalnych.
+- Otworzenie nakładki opcji rozpocznie sprawdzenie, czy dostępne są nowe aktualizacje gry.
+- Opcja `Tła sezonowe` została dodana po pozytywnym odzewie ze strony społeczności osu!.
+  - Dowiedz się więcej: [wątek na forum](https://osu.ppy.sh/community/forums/topics/606931)
 
-### Wybór skórki
+### Historia
 
-<img src="optionsscreenskin1.jpg" title="fig:Wybór skórki" alt="Wybór skórki" width="300" /> Skórki zmieniają wygląd wielu elementów osu!. Aby dostać się do tego ekranu, uruchom plik .osk gdy osu! jest wyłączone. W tym ekraniu, możesz uruchomić podgląd i wybierać pomiędzy pobranymi skórkami. Kiedy już wyjdziesz z tego ekranu, musisz uruchomić kolejny plik .osk aby się do niego dostać.
-
-1.  Ten obszar po prawo to lista skórek umieszczonych w folderze Skins, Aby zmienić wygląd osu!, po prostu kliknij na odpowiedni przycisk.
-2.  Obecnie słuchana beatmapa zostanie odtworzona, aby wyświetlić elementy skórki. Sztuczna inteligencja grająca beatmapę jest tak stworzona aby wyświetlać wiele elementów w krótkim czasie.
-3.  Naciśnięcie "Export as .osk" wyeksportuje obecną skórkę jako plik .osk i umieści ją w folderze "Exports".
-4.  Naciśnięcie "Get more skins" [otworzy w przeglądarce kartę z forum ze skończonymi skórkami](https://osu.ppy.sh/community/forums/109), gdzie będzie można pobrać więcej skórek.
-    1.  Kompendium skórek: [oryginalne](https://osu.ppy.sh/community/forums/topics/23820), [zaktualizowana](https://osu.ppy.sh/community/forums/topics/180864) [wersja](https://osu.ppy.sh/community/forums/topics/136163).
-
-5.  Naciśnięcie "Random Beatmap" załaduje losową mapę z twojej kolekcji aby podejrzeć wygląd obecnej skórki.
-6.  Naciśnięcie Back czy wciśnięcie Esc przeniesie cię do Sekcji Skórek w Opcjach.
+- Stara nakładka opcji była ekranem, który składał się z zakładek, przycisków i ciemnoniebieskiego tła.
+- Stara nakładka opcji zawierała również ekran wyboru skórek z podglądem powtórki idealnego przejścia beatmapy w trybie osu!standard.
+  - Po przeniesieniu nakładki opcji do panelu bocznego ekran podglądu był nadal dostępny poprzez otworzenie pliku ze skórką.
+  - Dostęp do tego ekranu został usunięty wraz z dodaniem podglądu skórek do panelu bocznego.

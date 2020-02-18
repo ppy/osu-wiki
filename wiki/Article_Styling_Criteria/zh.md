@@ -1,6 +1,10 @@
+---
+outdated: true
+---
+
 # 文章风格规范
 
-_相关文章：[文章风格规范——新闻篇](/wiki/ASC/News)_
+*相关文章：[文章风格规范——新闻篇](/wiki/ASC/News)*
 
 文章风格规范（ASC）通过硬性规定来确保 osu!wiki 的文章通俗易懂，格式统一。
 
@@ -15,7 +19,7 @@ _相关文章：[文章风格规范——新闻篇](/wiki/ASC/News)_
 下面是 osu!wiki 允许的语言列表。如果你的语言不在此列，请在 [osu-web 仓库](https://github.com/ppy/osu-web/issues) 中提出这个问题（Issue）！
 
 | 文件名 | 中文写法 | 当地写法 |
-|--------|----------|----------|
+| :-- | :-- | :-- |
 | `en.md` | 英语 | English |
 | `es.md` | 西班牙语 | Español |
 | `fr.md` | 法语 | Français |
@@ -46,7 +50,7 @@ _相关文章：[文章风格规范——新闻篇](/wiki/ASC/News)_
 
 ### 索引页
 
-所有文件夹 **必须** 至少包含一篇文章,即使它是一个 _索引页_ 。
+所有文件夹 **必须** 至少包含一篇文章,即使它是一个 *索引页* 。
 
 索引页 **必须且只能** 链接到它的子文件夹，并且应该简短介绍它所链接到的文章。
 
@@ -70,6 +74,7 @@ GFM 的标记很少，以至于 **任何人** 都能在几分钟之内学会它�
 在编辑源文件时，多个句子应该并作一行，而不是一句一行。
 
 错误做法：
+
 ```
 osu!lazer 是开发中的 osu! 新版本。
 它将在未来取代现在的 osu!client 。
@@ -77,6 +82,7 @@ osu!lazer 是开发中的 osu! 新版本。
 ```
 
 正确做法：
+
 ```
 osu!lazer 是开发中的 osu! 新版本。它将在未来取代现在的 osu!client 。如果你没有协助开发的意向，请 **不要** 报告你所遇到的问题，因为它仍处于开发阶段。
 ```
@@ -127,13 +133,15 @@ Markdown 中的转义字符是反斜杠（`\`）。若要使用反斜杠，应�
 
 每节 **必须** 包含一些内容，即使它的标题已经概括了它的子章节。例如：
 
-    ## 游戏模式
-    
-    _另见：[游戏模式]/wiki/game_modes)。_
-    
-    ### ![](/wiki/shared/Osu.gif) osu!
-    
-    osu! is a frustrating but fun circle-clicking simulator.
+```
+## 游戏模式
+
+*另见：[游戏模式]/wiki/game_modes)。*
+
+### ![](/wiki/shared/Osu.gif) osu!
+
+osu! is a frustrating but fun circle-clicking simulator.
+```
 
 ### 列表
 
@@ -197,17 +205,16 @@ Markdown 中的转义字符是反斜杠（`\`）。若要使用反斜杠，应�
 
 当链接到某个 osu!用户 的个人资料时，使用他的 ID 而不应该使用用户名。用户名可以变更但是 ID 是不会改变的，这样能确保链接始终指向他的资料。
 
-
-错误做法:  
-`[osuplayer111](https://osu.ppy.sh/users/osuplayer111)`  
+错误做法:
+`[osuplayer111](https://osu.ppy.sh/users/osuplayer111)`
 `[Agent Spin Here](https://osu.ppy.sh/users/Agent_Spin_Here)`
 
-正确做法:  
-`[osuplayer111](https://osu.ppy.sh/users/33599 "Andrea")`  
+正确做法:
+`[osuplayer111](https://osu.ppy.sh/users/33599 "Andrea")`
 `[Agent Spin Here](https://osu.ppy.sh/users/41481 "Mashley")`
 
-最佳做法:  
-`[Andrea](https://osu.ppy.sh/users/33599 "Andrea")`  
+最佳做法:
+`[Andrea](https://osu.ppy.sh/users/33599 "Andrea")`
 `[Mashley](https://osu.ppy.sh/users/41481 "Mashley")`
 
 也就是说，无论何时，都应该使用用户当前的用户名。
@@ -242,8 +249,7 @@ Markdown 中的转义字符是反斜杠（`\`）。若要使用反斜杠，应�
 
 ### 图片
 
-_参见: [文章风格规范——图片篇](/wiki/Article_Styling_Criteria/Images)._
-
+*参见: [文章风格规范——图片篇](/wiki/Article_Styling_Criteria/Images).*
 
 建议为图片建立独立的一个文件夹（例如 `img/` 文件夹）。当某个图片需要多个文章使用的时候，将它放到 `/wiki/shared/` 文件夹下。
 
@@ -287,7 +293,7 @@ _参见: [文章风格规范——图片篇](/wiki/Article_Styling_Criteria/Imag
 
 当提及玩家时，使用`玩家`。
 
-**不能** 使用`他`/`他的`或`她`/`她的`！  
+**不能** 使用`他`/`他的`或`她`/`她的`！
 而应该使用`他们`/`他们的`。
 
 当想对读者说什么时，使用`你`。
@@ -303,7 +309,7 @@ _参见: [文章风格规范——图片篇](/wiki/Article_Styling_Criteria/Imag
 不同的人对标点符号的喜好可能不一样，但是在 osu!wiki 的中文文章中应该使用 **简体中文** 标点（一般情况下此时输入法显示为半月、中文句号）,下面是常用中文标点表（不同的输入法可能略有不同，以该表为准）:
 
 | 标点符号 | 名称 |
-|:---:|:---:|
+| :-: | :-: |
 | `，` | 逗号 |
 | `。` | 句号 |
 | `？` | 问号 |
@@ -322,6 +328,7 @@ _参见: [文章风格规范——图片篇](/wiki/Article_Styling_Criteria/Imag
 
 每个句子的结尾应该有一个终结符(句号、感叹号等)。
 对于特殊情况则特殊处理，例如：
+
 ```
 对于特殊情况则特殊处理，例如：
 ```
@@ -332,7 +339,6 @@ _参见: [文章风格规范——图片篇](/wiki/Article_Styling_Criteria/Imag
 
 当括号是为了注释某个没有达成共识的翻译时，使用多数人认同的翻译和中文括号，被注释的词放在括号内并且不需要空格。
 例如：`仓库（Repository）`
-
 
 ##### 顿号
 
@@ -362,7 +368,7 @@ _参见: [文章风格规范——图片篇](/wiki/Article_Styling_Criteria/Imag
 ### 部分翻译规范
 
 | 英文 | 中文 |
-|------|------|
+| :-- | :-- |
 | e.g. | 例如 |
 | For example: | 例如： |
 | Examples: | 例如： |

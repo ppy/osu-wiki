@@ -28,9 +28,9 @@ The **osu! European Tournament 2** (***o!ET 2***) was a European double-eliminat
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 1 year of osu!supporter tag, unique profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 4 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 2 months of osu!supporter tag |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 1 year of osu!supporter tag, unique profile badge |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag |
 
 ![o!ET 2 Winner Badge - Top Bracket](img/badge-top.png) ![o!ET 2 Winner Badge - Middle Bracket](img/badge-mid.png) ![o!ET 2 Winner Badge - Low Bracket](img/badge-low.png)
 
@@ -40,14 +40,14 @@ The osu! European Tournament 2 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_FR] [SiYes](https://osu.ppy.sh/users/8868144), ![][flag_FR] [Planatek](https://osu.ppy.sh/users/4869601), ![][flag_FR] [Tigzick](https://osu.ppy.sh/users/6745742), ![][flag_FR] [Amezurys](https://osu.ppy.sh/users/5207167), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Map Selectors | ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_SG] [Hattie](https://osu.ppy.sh/users/10592989), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_US] [Junjou](https://osu.ppy.sh/users/7077648), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981), ![][flag_FR] [SiYes](https://osu.ppy.sh/users/8868144), ![][flag_FR] [Amezurys](https://osu.ppy.sh/users/5207167) |
+| Manager | ![][flag_FR] [SiYes](https://osu.ppy.sh/users/8868144), ![][flag_FR] [Planatek](https://osu.ppy.sh/users/4869601), ![][flag_FR] [Tigzick](https://osu.ppy.sh/users/6745742), ![][flag_FR] [Amezurys](https://osu.ppy.sh/users/5207167), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
+| Map Selector | ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_SG] [Hattie](https://osu.ppy.sh/users/10592989), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_US] [Junjou](https://osu.ppy.sh/users/7077648), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981), ![][flag_FR] [SiYes](https://osu.ppy.sh/users/8868144), ![][flag_FR] [Amezurys](https://osu.ppy.sh/users/5207167) |
 | Designer | ![][flag_NL] [Turbotondel](https://osu.ppy.sh/users/9930215) |
-| Streamers | ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667), ![][flag_CH] [TheLamaHD](https://osu.ppy.sh/users/5297955), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_US] [Mini Gaunt](https://osu.ppy.sh/users/7719207) |
-| Referees | ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Tigzick](https://osu.ppy.sh/users/6745742), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_FR] [Trypha](https://osu.ppy.sh/users/2812098), ![][flag_ES] [290BPM](https://osu.ppy.sh/users/7681746), ![][flag_LT] [Eismis](https://osu.ppy.sh/users/1436793), ![][flag_PL] [AviiXX](https://osu.ppy.sh/users/9619847), ![][flag_PL] [YiDerw250](https://osu.ppy.sh/users/7262993), ![][flag_PL] [Karol Kontrol](https://osu.ppy.sh/users/7262993), ![][flag_DE] [Serterd](https://osu.ppy.sh/users/8085558), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_SG] [Hattie](https://osu.ppy.sh/users/10592989), ![][flag_US] [ANIMELORD9999](https://osu.ppy.sh/users/9627344), ![][flag_US] [Yoshilover456](https://osu.ppy.sh/users/6843383), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_AT] [Pandadesu](https://osu.ppy.sh/users/2167069) |
-| Commentators | ![][flag_FR] [Amezurys](https://osu.ppy.sh/users/5207167), ![][flag_FR] [SiYes](https://osu.ppy.sh/users/8868144), ![][flag_BE] [Konipaku](https://osu.ppy.sh/users/9453134), ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667), ![][flag_NL] [Turbotondel](https://osu.ppy.sh/users/9930215), ![][flag_SE] [Alacdoom97](https://osu.ppy.sh/users/4068786), ![][flag_CH] [TheLamaHD](https://osu.ppy.sh/users/5297955), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
-| Statisticians | ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911) |
-| Wiki | ![][flag_ID] [Naruk](https://osu.ppy.sh/users/7100002) |
+| Streamer | ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667), ![][flag_CH] [TheLamaHD](https://osu.ppy.sh/users/5297955), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_US] [Mini Gaunt](https://osu.ppy.sh/users/7719207) |
+| Referee | ![][flag_FR] [FayeurS 5](https://osu.ppy.sh/users/6177263), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_FR] [Tigzick](https://osu.ppy.sh/users/6745742), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_FR] [Trypha](https://osu.ppy.sh/users/2812098), ![][flag_ES] [290BPM](https://osu.ppy.sh/users/7681746), ![][flag_LT] [Eismis](https://osu.ppy.sh/users/1436793), ![][flag_PL] [AviiXX](https://osu.ppy.sh/users/9619847), ![][flag_PL] [YiDerw250](https://osu.ppy.sh/users/7262993), ![][flag_PL] [Karol Kontrol](https://osu.ppy.sh/users/7262993), ![][flag_DE] [Serterd](https://osu.ppy.sh/users/8085558), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_SG] [Hattie](https://osu.ppy.sh/users/10592989), ![][flag_US] [ANIMELORD9999](https://osu.ppy.sh/users/9627344), ![][flag_US] [Yoshilover456](https://osu.ppy.sh/users/6843383), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_AT] [Pandadesu](https://osu.ppy.sh/users/2167069) |
+| Commentator | ![][flag_FR] [Amezurys](https://osu.ppy.sh/users/5207167), ![][flag_FR] [SiYes](https://osu.ppy.sh/users/8868144), ![][flag_BE] [Konipaku](https://osu.ppy.sh/users/9453134), ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667), ![][flag_NL] [Turbotondel](https://osu.ppy.sh/users/9930215), ![][flag_SE] [Alacdoom97](https://osu.ppy.sh/users/4068786), ![][flag_CH] [TheLamaHD](https://osu.ppy.sh/users/5297955), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
+| Statistician | ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911) |
+| Wiki Editor | ![][flag_ID] [Naruk](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -148,25 +148,25 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Sruba |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Almost Allies |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | nh9mju0 |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Sruba |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Almost Allies |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | nh9mju0 |
 
 ### Middle Bracket
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Makeshift Winners |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | singletap is braindead |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Phoenix Emperors |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Makeshift Winners |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | singletap is braindead |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Phoenix Emperors |
 
 ### Low Bracket
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | not even european |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Yes (Yes) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Polish Musketeers |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | not even european |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Yes (Yes) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Polish Musketeers |
 
 -----------------------
 

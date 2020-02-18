@@ -28,9 +28,9 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $300 per team member, exclusive osu! tumbler and pins, profile badge, "osu! Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $160 per team member, exclusive osu! tumbler and pins , profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $80 per team member, exclusive osu! tumbler and pins, profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | $300 per team member, exclusive osu! tumbler and pins, profile badge, "osu! Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | $160 per team member, exclusive osu! tumbler and pins , profile badge |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | $80 per team member, exclusive osu! tumbler and pins, profile badge |
 
 ## Organisation
 
@@ -38,10 +38,10 @@ The osu! World Cup 2017 was run by various community members by distributing the
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_HK] [mangomizer](https://osu.ppy.sh/users/1893718) |
-| Map Selectors | ![][flag_JP] [Delis](https://osu.ppy.sh/users/1603923), ![][flag_DE] [Okorin](https://osu.ppy.sh/users/1623405), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
-| Commentators | ![][flag_HK] [- G I D Z -](https://osu.ppy.sh/users/2286528), ![][flag_AU] [Bauxe](https://osu.ppy.sh/users/1881685), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_CA] [Evrien](https://osu.ppy.sh/users/791660), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943), ![][flag_FI] [ProfessionalBox](https://osu.ppy.sh/users/3250792) |
-| Statisticians | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
+| Manager | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_HK] [mangomizer](https://osu.ppy.sh/users/1893718) |
+| Map Selector | ![][flag_JP] [Delis](https://osu.ppy.sh/users/1603923), ![][flag_DE] [Okorin](https://osu.ppy.sh/users/1623405), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
+| Commentator | ![][flag_HK] [- G I D Z -](https://osu.ppy.sh/users/2286528), ![][flag_AU] [Bauxe](https://osu.ppy.sh/users/1881685), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_CA] [Evrien](https://osu.ppy.sh/users/791660), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943), ![][flag_FI] [ProfessionalBox](https://osu.ppy.sh/users/3250792) |
+| Statistician | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ## Links
 

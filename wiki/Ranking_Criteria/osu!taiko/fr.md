@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Critères de ranking osu!taiko
 
 Ces directives et conseils ont été discuté dans [ce sujet](https://osu.ppy.sh/community/forums/posts/1275323). De nouvelles règles ou recommandations peuvent être suggérées dans [ce forum](https://osu.ppy.sh/community/forums/87) et seront mises en place lorsqu'une décision est prise.

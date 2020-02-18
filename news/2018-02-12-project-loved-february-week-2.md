@@ -96,4 +96,4 @@ Probably the easiest map this round, but that is not a bad thing! This great map
 
 From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning maps will hit the [beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime during the weekend and will be announced via the [osugame twitter](https://twitter.com/osugame).
 
-—Project Loved
+—clayton

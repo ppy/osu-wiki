@@ -6,7 +6,7 @@ tags:
 
 # Springtime Osu!mania Free-for-all Tournament 3
 
-![SOFT3 Banner](banner.jpg)
+![SOFT3 Banner](img/banner.jpg)
 
 > Third time's the charm!
 
@@ -33,11 +33,11 @@ tags:
 
 | Placing | Prize(s) |
 | :---: | :--- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge and 9 months of osu!supporter |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 6 months of osu!supporter |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 4 months of osu!supporter |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Profile badge and 9 months of osu!supporter |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter |
 
-![SOFT3 Badge](badge.png "SOFT3 Winner Badge")
+![SOFT3 Badge](img/badge.png "SOFT3 Winner Badge")
 
 ## Organization
 
@@ -45,12 +45,12 @@ tags:
 | ------------ | -------------- |
 | Host | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
 | Coordinator | ![][flag_GB] [-Konner-](https://osu.ppy.sh/users/6108644), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) |
-| Map Selectors | ![][flag_US] [Gekido-](https://osu.ppy.sh/users/4693052), ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) |
-| Match Referees | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061), ![][flag_US] [Ciel](https://osu.ppy.sh/users/1455309), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_GB] [Hydria](https://osu.ppy.sh/users/808176), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_GB] [-Konner-](https://osu.ppy.sh/users/6108644), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_FR] [Mathisca](https://osu.ppy.sh/users/2227462), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_BR] [shadowsnoop](https://osu.ppy.sh/users/7064939), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| Streamers | ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_SE] [laughingcomet](https://osu.ppy.sh/users/3432877), ![][flag_BR] [shadowsnoop](https://osu.ppy.sh/users/7064939), ![][flag_RU] [Willjoy](https://osu.ppy.sh/users/2484373) |
-| Commentators | ![][flag_US] [Daikyi](https://osu.ppy.sh/users/811832), ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_AU] [Knif3rism](https://osu.ppy.sh/users/4145830), ![][flag_SE] [laughingcomet](https://osu.ppy.sh/users/3432877), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_ID] [RemFangirl](https://osu.ppy.sh/users/5767941), ![][flag_US] [Ruins](https://osu.ppy.sh/users/1408132), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811) |
-| Graphic Designers | ![][flag_AR] [aluuu](https://osu.ppy.sh/users/4585260), ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867), ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341), ![][flag_US] [Ruins](https://osu.ppy.sh/users/1408132), ![][flag_CL] [Valelup](https://osu.ppy.sh/users/6497014) |
-| Statisticians | ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
+| Map Selector | ![][flag_US] [Gekido-](https://osu.ppy.sh/users/4693052), ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) |
+| Referee | ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061), ![][flag_US] [Ciel](https://osu.ppy.sh/users/1455309), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_GB] [Hydria](https://osu.ppy.sh/users/808176), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_GB] [-Konner-](https://osu.ppy.sh/users/6108644), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_FR] [Mathisca](https://osu.ppy.sh/users/2227462), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_BR] [shadowsnoop](https://osu.ppy.sh/users/7064939), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
+| Streamer | ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_SE] [laughingcomet](https://osu.ppy.sh/users/3432877), ![][flag_BR] [shadowsnoop](https://osu.ppy.sh/users/7064939), ![][flag_RU] [Willjoy](https://osu.ppy.sh/users/2484373) |
+| Commentator | ![][flag_US] [Daikyi](https://osu.ppy.sh/users/811832), ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_AU] [Knif3rism](https://osu.ppy.sh/users/4145830), ![][flag_SE] [laughingcomet](https://osu.ppy.sh/users/3432877), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_ID] [RemFangirl](https://osu.ppy.sh/users/5767941), ![][flag_US] [Ruins](https://osu.ppy.sh/users/1408132), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612), ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811) |
+| Designer | ![][flag_AR] [aluuu](https://osu.ppy.sh/users/4585260), ![][flag_PH] [OsuMe65](https://osu.ppy.sh/users/852867), ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341), ![][flag_US] [Ruins](https://osu.ppy.sh/users/1408132), ![][flag_CL] [Valelup](https://osu.ppy.sh/users/6497014) |
+| Statistician | ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895) |
 
 ## Links
 
@@ -98,9 +98,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | User |
 |:---:|---|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | ![][flag_BR] [**Lothus**](https://osu.ppy.sh/users/9530019) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_JP] [**inteliser**](https://osu.ppy.sh/users/1824775) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] [**TheToaphster**](https://osu.ppy.sh/users/7616811)    |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | ![][flag_BR] [**Lothus**](https://osu.ppy.sh/users/9530019) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_JP] [**inteliser**](https://osu.ppy.sh/users/1824775) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [**TheToaphster**](https://osu.ppy.sh/users/7616811)    |
 
 ---------------------------
 

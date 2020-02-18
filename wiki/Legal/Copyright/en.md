@@ -2,11 +2,13 @@
 legal: true
 ---
 
-# osu! Copyright Policy
+# osu! copyright policy
 
-Last Updated 17th May 2017. [View history here](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Copyright/en.md)
+osu! is a heavily community-oriented game. All game levels (beatmaps) are created and uploaded by community members, often without correctly obtaining permission from relevant copyright holders. We go out of our way to not advertise or profit directly from uploaded content, and the game is funded entirely by user donations.
 
-osu! has adopted the following policy concerning copyright infringement in accordance with the Digital Millennium Copyright Act, 17 U.S.C. 512.
+A large portion of the donations we receive are used to reinvest in [music licensing](/wiki/Legal/Music_Licensing). Licensing enquiries may be sent to [music@ppy.sh](mailto:music@ppy.sh).
+
+Failing that, osu! has adopted the following policy concerning copyright infringement in accordance with the Digital Millennium Copyright Act, 17 U.S.C. 512.
 
 The contact information for osu!'s Designated Agent to Receive Notification of Claimed Infringement ("Designated Agent") is listed at the end of this policy, and is on file with the United States Copyright Office ([https://www.copyright.gov/dmca-directory/](https://www.copyright.gov/dmca-directory/)). osu! takes copyright and other intellectual property rights very seriously.
 
@@ -58,9 +60,13 @@ If a counter-notice is received by the Designated Agent, osu! may send a copy of
 
 **Postal Address**:
 
+<!-- markdownlint-disable MD040 -->
 ```
 Dean Herbert
 41 Gregory Street
 Wembley, WA, 6014
 Australia
 ```
+<!-- markdownlint-enable MD040 -->
+
+*Last updated 7 November 2019. [View history here](https://github.com/ppy/osu-wiki/commits/master/wiki/Legal/Copyright/en.md).*

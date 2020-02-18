@@ -29,9 +29,9 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 6 months of osu!supporter tag, unique profile badge, special user title, osu! merchandise |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 months of osu!supporter tag, unique profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag, unique profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, unique profile badge, special user title, osu! merchandise |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag, unique profile badge |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag, unique profile badge |
 
 ## Organisation
 
@@ -40,9 +40,9 @@ The osu! Catch the Beat World Cup 2015 was run by various community members by d
 | Position | Member(s) |
 | :-- | :-- |
 | Tournament Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
-| Map Selectors | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_VE] [Orihime chan](https://osu.ppy.sh/users/708258), ![][flag_KR] [CLSW](https://osu.ppy.sh/users/531253) |
-| Streamers | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
-| Commentators | ![][flag_CA] [Tasha](https://osu.ppy.sh/users/1031958), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Kingkevin30](https://osu.ppy.sh/users/564334), ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955) |
+| Map Selector | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_VE] [Orihime chan](https://osu.ppy.sh/users/708258), ![][flag_KR] [CLSW](https://osu.ppy.sh/users/531253) |
+| Streamer | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
+| Commentator | ![][flag_CA] [Tasha](https://osu.ppy.sh/users/1031958), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Kingkevin30](https://osu.ppy.sh/users/564334), ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955) |
 | Statistician | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
 ## Links

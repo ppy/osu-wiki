@@ -1,6 +1,10 @@
+---
+needs_cleanup: true
+---
+
 # osu!talk
 
-![osu!talk logo](osu!talk.jpg)
+![osu!talk logo](img/osu!talk.jpg)
 
 **osu!talk** is a podcast series hosted by [ztrot](https://osu.ppy.sh/users/6347) with [deadbeat](https://osu.ppy.sh/users/128370) as the co-host.
 

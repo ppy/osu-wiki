@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Zasady
 
 Ten zbiór zasad to podstawa, dzięki której społeczność osu! jest przyjaznym miejscem dla wszystkich.
@@ -42,14 +46,6 @@ Treściwy zbiór zasad dotyczących tworzenia beatmap znany jest jako [kryteria 
 1. **Upewnij się, że posiadasz prawa do całej zawartości swojej beatmapy**, włączając w to piosenki, wideo, dźwięki trafień, grafiki czy jakiekolwiek inne treści, która nie są twojego autorstwa. Jeżeli nie masz pewności, gdzie możesz znaleźć utwory do swobodnego użycia w ramach gry, radzimy zajrzeć do wciąż rozwijanej biblioteki w pełni licencjonowanych utworów dla osu!. Znajduje się ona pod [tym linkiem](https://osu.ppy.sh/beatmaps/artists/).
 2. **Trzymaj się tematu w wątkach beatmap.** Te dyskusje dotyczą wyłącznie beatmap. Jeżeli masz problem z czymś niezwiązanym bezpośrednio z beatmapą, to stwórz wątek na odpowiednim forum.
 3. **Nie kradnij ani nie przywłaszczaj sobie pracy innych.** Nie przesyłaj ani nie używaj pracy innych ludzi bez ich wyraźnej zgody, włączając w to m.in. skórki oraz gościnne poziomy trudności.
-
-## Zasady dot. forum Off-Topic
-
-*Te zasady mają zastosowanie TYLKO do forum [Off-Topic](https://osu.ppy.sh/community/forums/52).*
-
-1. **Każdy wątek w forum Off-Topic jest bezwartościowy.** Są po prostu śmieciowe. Jeżeli twoje wątki zostają przenoszone do Off-Topic, to oznacza to, że nie są warte dyskusji. Potraktuj to jako lekcję.
-2. **Nadmiar głupoty jest zły.** Bycie ujmująco głupim jest w porządku i klasyfikuje się to jako sposób działania shitpostingu. Natomiast prawdziwa głupota nigdy nie jest porządku. Jeżeli nie możesz zrozumieć różnicy, to już łamiesz tę zasadę.
-3. **Wątki urodzinowe są dozwolone tylko w Off-Topic i nigdzie więcej** Wszystkie wątki urodzinowe muszą zawierać przynajmniej trzy obrazki tańczących anime dziewczynek albo zostaną bez żalu wrzucone pod ciężarówkę.
 
 ## Co się stanie, jeżeli złamię zasady?
 

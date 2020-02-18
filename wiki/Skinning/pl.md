@@ -27,6 +27,6 @@ Elementy skórek są podzielone na następujące kategorie:
 
 - [skin.ini](/wiki/skin.ini)
 - [Dawne elementy skórek](/wiki/Skinning/History) - lista starych, nieużywanych elementów skórek
-- [Kompendium](/wiki/Skinning/Compendium) - lista ukończonych skórek
+- [Kompendium](https://osu.ppy.sh/community/forums/topics/686664) - lista ukończonych skórek
 - [Najczęściej zadawane pytania dot. tworzenia skórek](/wiki/Skinning/FAQ)
 - [Poradniki i ważne wątki](/wiki/Skinning/Guides_and_Important_Threads)

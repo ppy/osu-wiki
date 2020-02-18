@@ -1,4 +1,8 @@
-# Setup
+---
+needs_cleanup: true
+---
+
+# osu!tourney setup
 
 **Note:** An active supporter tag is currently required to use the osu!tourney client.
 

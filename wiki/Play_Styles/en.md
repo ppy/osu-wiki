@@ -1,3 +1,7 @@
+---
+needs_cleanup: true
+---
+
 <!-- wikilink -->
 [osu!stream wikilink]: /wiki/Game_Modes/External_Ports/osu!stream "osu!stream by osu! team"
 
@@ -9,7 +13,7 @@
 
 [osu!tablet image]: /wiki/shared/Osu!tablet.jpg "osu!tablet"
 
-# Play Styles
+# Play styles
 
 This page will detail the various different ways in which players can choose to play in their respective game modes.
 
@@ -17,7 +21,7 @@ This page will detail the various different ways in which players can choose to 
 
 ### Mouse-only
 
-Mouse-only was once the _only_ way to play osu! until other playing methods was supported over time.
+Mouse-only was once the _only_ way to play osu! until other playing methods were supported over time.
 
 Also known as _pure-mouse_, mouse-only players navigate the in-game cursor with a mouse and also tap beats, follow sliders, and spin spinners with only left/right mouse click.
 The play style is widely considered the hardest method to play and mouse-only players who rank high in the overall rankings are usually greatly respected by the community.
@@ -68,7 +72,7 @@ A possible play style for players who own a touch-enabled monitor, laptop screen
 
 Players touch the screen to instantaneously navigate and tap to the beat.
 This play style may feel slightly similar to playing [osu!stream][osu!stream wikilink] by touching the screen directly rather than by hardware support (mouse, graphic tablet).
-Some players may opt for this play style when available and does not own a graphic tablet.
+Some players may opt for this play style when available or when they do not own a graphic tablet.
 
 The key overlay shows touch input as `M1`.
 

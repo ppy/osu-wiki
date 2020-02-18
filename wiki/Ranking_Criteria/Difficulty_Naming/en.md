@@ -1,113 +1,191 @@
-# Difficulty Naming
+# Difficulty naming
 
 The purpose of difficulty naming is to inform players how difficult a map is. This article lists common conventions as well as other alternatives that have been gathered throughout the years. However, as long as the set of difficulty names is descriptive and clearly indicates progression of difficulty, you may use any desired kind of scheme.
 
 ## Default
 
-This subsection shows the default **scaling** difficulty names for each game mode, which are the most commonly used.
+These difficulty names are the most commonly used for each game mode.
 
-- **Marathon**: a map that is over 5 minutes of [drain time](/wiki/Glossary#drain-time), and thus can form a mapset on its own.
+*Note: The special difficulty name **Marathon** historically allowed mappers to submit maps of longer songs, and thus became popular for single-difficulty mapsets. Today, the name has no special meaning and is typically only used for very long songs or song compilations.*
 
-### ![osu!](/wiki/shared/mode/osu.png "osu!") osu!
+### osu!
 
-- ![Easy](/wiki/shared/diff/easy-s.png "Easy") Easy
-- ![Normal](/wiki/shared/diff/normal-s.png "Normal") Normal
-- ![Hard](/wiki/shared/diff/hard-s.png "Hard") Hard
-- ![Insane](/wiki/shared/diff/insane-s.png "Insane") Insane
-- ![Expert](/wiki/shared/diff/expert-s.png "Expert") Expert
-- ![Expert+](/wiki/shared/diff/expertplus-s.png "Expert+") Expert+
+- ![](/wiki/shared/diff/easy-s.png) Easy
+- ![](/wiki/shared/diff/normal-s.png) Normal
+- ![](/wiki/shared/diff/hard-s.png) Hard
+- ![](/wiki/shared/diff/insane-s.png) Insane
+- ![](/wiki/shared/diff/expert-s.png) Expert
 
-### ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") osu!taiko
+### osu!taiko
 
-- ![Kantan](/wiki/shared/diff/easy-t.png "Kantan") Kantan
-- ![Futsuu](/wiki/shared/diff/normal-t.png "Futsuu") Futsuu
-- ![Muzukashii](/wiki/shared/diff/hard-t.png "Muzukashii") Muzukashii
-- ![Oni](/wiki/shared/diff/insane-t.png "Oni") Oni
-- ![Inner Oni / Ura Oni](/wiki/shared/diff/expert-t.png "Inner Oni / Ura Oni") Inner Oni / Ura Oni
-- ![Hell Oni](/wiki/shared/diff/expertplus-t.png "Hell Oni") Hell Oni
+- ![](/wiki/shared/diff/easy-t.png) Kantan
+- ![](/wiki/shared/diff/normal-t.png) Futsuu
+- ![](/wiki/shared/diff/hard-t.png) Muzukashii
+- ![](/wiki/shared/diff/insane-t.png) Oni
+- ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
+- ![](/wiki/shared/diff/expertplus-t.png) Outer/Hell Oni
 
-### ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") osu!catch
+### osu!catch
 
-- ![Cup](/wiki/shared/diff/easy-c.png "Cup") Cup
-- ![Salad](/wiki/shared/diff/normal-c.png "Salad") Salad
-- ![Platter](/wiki/shared/diff/hard-c.png "Platter") Platter
-- ![Rain](/wiki/shared/diff/insane-c.png "Rain") Rain
-- ![Overdose](/wiki/shared/diff/expert-c.png "Overdose") Overdose
-- ![Overdose+](/wiki/shared/diff/expertplus-c.png "Overdose+") Overdose+
+- ![](/wiki/shared/diff/easy-c.png) Cup
+- ![](/wiki/shared/diff/normal-c.png) Salad
+- ![](/wiki/shared/diff/hard-c.png) Platter
+- ![](/wiki/shared/diff/insane-c.png) Rain
+- ![](/wiki/shared/diff/expert-c.png) Overdose
 
-### ![osu!mania](/wiki/shared/mode/mania.png "osu!mania") osu!mania
+### osu!mania
 
-- ![EZ](/wiki/shared/diff/easy-m.png "EZ") EZ
-- ![NM](/wiki/shared/diff/normal-m.png "NM") NM
-- ![HD](/wiki/shared/diff/hard-m.png "HD") HD
-- ![MX](/wiki/shared/diff/insane-m.png "MX") MX
-- ![SC](/wiki/shared/diff/expert-m.png "SC") SC
-- ![SHD](/wiki/shared/diff/expertplus-m.png "SHD") SHD
+- ![](/wiki/shared/diff/easy-m.png) Easy
+- ![](/wiki/shared/diff/normal-m.png) Normal
+- ![](/wiki/shared/diff/hard-m.png) Hard
+- ![](/wiki/shared/diff/insane-m.png) Insane
+- ![](/wiki/shared/diff/expert-m.png) Expert
 
-## Songs from other rhythm games
+## Difficulty naming schemes from other games
 
-This subsection shows the **scaling** difficulty names for mapsets of songs that come from other rhythm games. Using said rhythm game's style of difficulty naming is acceptable.
+Mapsets of songs that originated from other rhythm games often borrow that game's difficulty naming scheme. Usage of these difficulty names is acceptable for any song. Some of the common naming schemes that made their way into osu! are listed here:
 
-### Beatmania IIDX (or BMS songs)
+### Beatmania IIDX
 
-- ![Beginner](/wiki/shared/diff/easy-s.png "Beginner") Beginner
-- ![Normal](/wiki/shared/diff/normal-s.png "Normal") Normal
-- ![Hyper](/wiki/shared/diff/hard-s.png "Hyper") Hyper
-- ![Another](/wiki/shared/diff/insane-s.png "Another") Another
-- ![Black Another](/wiki/shared/diff/expert-s.png "Black Another") Black Another
+- ![](/wiki/shared/diff/easy-s.png) Beginner
+- ![](/wiki/shared/diff/normal-s.png) Normal
+- ![](/wiki/shared/diff/hard-s.png) Hyper
+- ![](/wiki/shared/diff/insane-s.png) Another
+- ![](/wiki/shared/diff/expert-s.png) Black Another
+- ![](/wiki/shared/diff/expertplus-s.png) Leggendaria
 
-### SOUND VOLTEX (SDVX)
+### DanceDanceRevolution
 
-Abbreviations on this particular difficulty naming scheme are acceptable (e.g. NOVICE → NOV).
+- ![](/wiki/shared/diff/easy-s.png) Beginner
+- ![](/wiki/shared/diff/normal-s.png) Basic
+- ![](/wiki/shared/diff/hard-s.png) Difficult
+- ![](/wiki/shared/diff/insane-s.png) Expert
+- ![](/wiki/shared/diff/expert-s.png) Challenge
 
-- ![BASIC](/wiki/shared/diff/easy-s.png "BASIC") BASIC
-- ![NOVICE](/wiki/shared/diff/normal-s.png "NOVICE") NOVICE
-- ![ADVANCED](/wiki/shared/diff/hard-s.png "ADVANCED") ADVANCED
-- ![EXHAUST](/wiki/shared/diff/insane-s.png "EXHAUST") EXHAUST
-- ![INFINITE](/wiki/shared/diff/expert-s.png "INFINITE") INFINITE
+### DJMAX
 
-### Pop 'n Music
+- ![](/wiki/shared/diff/easy-s.png) EZ
+- ![](/wiki/shared/diff/normal-s.png) NM
+- ![](/wiki/shared/diff/hard-s.png) HD
+- ![](/wiki/shared/diff/insane-s.png) MX
+- ![](/wiki/shared/diff/expert-s.png) SC
 
-- ![Easy](/wiki/shared/diff/easy-s.png "Easy") Easy
-- ![Normal](/wiki/shared/diff/normal-s.png "Normal") Normal
-- ![Hyper](/wiki/shared/diff/hard-s.png "Hyper") Hyper
-- ![EX](/wiki/shared/diff/insane-s.png "EX") EX
+### EZ2DJ, EZ2AC
 
-### DanceDanceRevolution (DDR)
+- ![](/wiki/shared/diff/easy-s.png) EZ
+- ![](/wiki/shared/diff/normal-s.png) NM
+- ![](/wiki/shared/diff/hard-s.png) HD
+- ![](/wiki/shared/diff/insane-s.png) SHD
+- ![](/wiki/shared/diff/expert-s.png) EX
 
-- ![Beginner](/wiki/shared/diff/easy-s.png "Beginner") Beginner
-- ![Basic](/wiki/shared/diff/normal-s.png "Basic") Basic
-- ![Difficult](/wiki/shared/diff/hard-s.png "Difficult") Difficult
-- ![Expert](/wiki/shared/diff/insane-s.png "Expert") Expert
-- ![Challenge](/wiki/shared/diff/expert-s.png "Challenge") Challenge
+### In The Groove
 
-### In The Groove (ITG)
+- ![](/wiki/shared/diff/easy-s.png) Novice
+- ![](/wiki/shared/diff/easy-s.png) Easy
+- ![](/wiki/shared/diff/normal-s.png) Medium
+- ![](/wiki/shared/diff/hard-s.png) Hard
+- ![](/wiki/shared/diff/insane-s.png) Expert
 
-- ![Novice](/wiki/shared/diff/easy-s.png "Novice") Novice
-- ![Easy](/wiki/shared/diff/easy-s.png "Easy") Easy
-- ![Medium](/wiki/shared/diff/normal-s.png "Medium") Medium
-- ![Hard](/wiki/shared/diff/hard-s.png "Hard") Hard
-- ![Expert](/wiki/shared/diff/insane-s.png "Expert") Expert
+### Pop'n Music
 
-## Songs from other games
+- ![](/wiki/shared/diff/easy-s.png) Easy
+- ![](/wiki/shared/diff/normal-s.png) Normal
+- ![](/wiki/shared/diff/hard-s.png) Hyper
+- ![](/wiki/shared/diff/insane-s.png) EX
 
-### Touhou Project (東方Project)
+### SOUND VOLTEX
 
-Difficulty spread inspired by Touhou Project (東方Project in Japanese), including any individual game from the project.
+*Note: Large mapsets of SOUND VOLTEX songs often use difficulty names from multiple versions of the game, even if the song does not appear in all of them.*
 
-The difficulty spread would follow the Default difficulty naming scheme, with the exception of the Insane and Expert difficulties, which can be substituted by the following:
+- ![](/wiki/shared/diff/easy-s.png) BASIC / BSC
+- ![](/wiki/shared/diff/normal-s.png) NOVICE / NOV
+- ![](/wiki/shared/diff/hard-s.png) ADVANCED / ADV
+- ![](/wiki/shared/diff/insane-s.png) EXHAUST / EXH
 
-- ![Lunatic](/wiki/shared/diff/insane-s.png "Lunatic") Insane can be substituted by **Lunatic**.
-- ![Extra](/wiki/shared/diff/expert-s.png "Extra") Expert can be substituted by **Extra** / **Extra Stage** / **Phantasm**.
+#### SOUND VOLTEX II -infinite infection-
+
+- ![](/wiki/shared/diff/expert-s.png) INFINITE / INF
+
+#### SOUND VOLTEX III GRAVITY WARS
+
+- ![](/wiki/shared/diff/expert-s.png) GRAVITY / GRV
+
+#### SOUND VOLTEX IV HEAVENLY HAVEN
+
+- ![](/wiki/shared/diff/expert-s.png) MAXIMUM / MXM
+- ![](/wiki/shared/diff/expertplus-s.png) HEAVENLY / HVN
+
+#### SOUND VOLTEX VIVID WAVE
+
+- ![](/wiki/shared/diff/expert-s.png) MAXIMUM / MXM
+- ![](/wiki/shared/diff/expertplus-s.png) VIVID / VVD
+
+### Arcaea
+
+- ![](/wiki/shared/diff/normal-s.png) Past
+- ![](/wiki/shared/diff/hard-s.png) Present
+- ![](/wiki/shared/diff/insane-s.png) Future
+
+### Lanota
+
+- ![](/wiki/shared/diff/normal-s.png) Whisper
+- ![](/wiki/shared/diff/hard-s.png) Acoustic
+- ![](/wiki/shared/diff/insane-s.png) Ultra
+- ![](/wiki/shared/diff/expert-s.png) Master
+
+### maimai, CHUNITHM, Ongeki
+
+- ![](/wiki/shared/diff/easy-s.png) EASY
+- ![](/wiki/shared/diff/normal-s.png) BASIC
+- ![](/wiki/shared/diff/hard-s.png) ADVANCED
+- ![](/wiki/shared/diff/insane-s.png) EXPERT
+- ![](/wiki/shared/diff/expert-s.png) MASTER
+
+#### maimai
+
+- ![](/wiki/shared/diff/expertplus-s.png) Re:MASTER
+
+#### CHUNITHM
+
+- ![](/wiki/shared/diff/expertplus-s.png) WORLD'S END
+
+#### Ongeki
+
+- ![](/wiki/shared/diff/expertplus-s.png) LUNATIC
+
+### Cytus, Deemo, VOEZ
+
+- ![](/wiki/shared/diff/easy-s.png) Easy
+- ![](/wiki/shared/diff/normal-s.png) Normal
+- ![](/wiki/shared/diff/hard-s.png) Hard
+- ![](/wiki/shared/diff/insane-s.png) Insane
+
+#### Cytus
+
+- ![](/wiki/shared/diff/expert-s.png) Chaos
+
+#### Deemo
+
+- ![](/wiki/shared/diff/expert-s.png) Extra
+
+#### VOEZ
+
+- ![](/wiki/shared/diff/expert-s.png) Special
+
+### Touhou Project
+
+- ![](/wiki/shared/diff/easy-s.png) Easy
+- ![](/wiki/shared/diff/normal-s.png) Normal
+- ![](/wiki/shared/diff/hard-s.png) Hard
+- ![](/wiki/shared/diff/insane-s.png) Lunatic
+- ![](/wiki/shared/diff/expert-s.png) Extra / Extra Stage / Phantasm
 
 ## Widely accepted alternatives
 
-The following **individual** difficulty names have been accepted and are used more commonly now as alternative to the basic difficulty names:
+The following difficulty names are common alternatives and additions to the default difficulty names:
 
-### ![osu!](/wiki/shared/mode/osu.png "osu!") osu!
-
-- ![Beginner](/wiki/shared/diff/easy-s.png "Beginner") **Beginner**: in a default Easy-Normal-Hard-Insane-Expert spread, it refers to the lowest level of difficulty, even below Easy.
-- ![Advanced](/wiki/shared/diff/normal-s.png "Advanced") **Advanced**: in a default Easy-Normal-Hard-Insane-Expert spread, it's a difficulty between Normal and Hard.
-- ![Hyper](/wiki/shared/diff/hard-s.png "Hyper") **Hyper**: in a default Easy-Normal-Hard-Insane-Expert spread, a difficulty between Hard and Insane.
-- ![Extra](/wiki/shared/diff/expert-s.png "Extra") **Extra**: it can used as a substitute for Expert.
-- ![Extreme](/wiki/shared/diff/expertplus-s.png "Extreme") **Extreme**: it can be used to represent a more difficult Expert or as a substitute for Expert+.
+- ![](/wiki/shared/diff/easy-s.png) Beginner: in a default Easy-Normal-Hard-Insane-Expert spread, it refers to the lowest level of difficulty, even below Easy.
+- ![](/wiki/shared/diff/normal-s.png) Advanced: in a default Easy-Normal-Hard-Insane-Expert spread, it's a difficulty between Normal and Hard.
+- ![](/wiki/shared/diff/hard-s.png) Hyper: in a default Easy-Normal-Hard-Insane-Expert spread, a difficulty between Hard and Insane.
+- ![](/wiki/shared/diff/expert-s.png) Extra: it can used as a substitute for Expert.
+- ![](/wiki/shared/diff/expertplus-s.png) Extreme: it can be used to represent a more difficult Expert.

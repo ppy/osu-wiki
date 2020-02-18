@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Help Centre
 
 Memiliki masalah dengan sesuatu? kami disini untuk membantu! lihat beberapa solusi untuk masalah yang sering terjadi di “sidebar” di sebelah kiri layar anda.
@@ -606,7 +610,7 @@ Untuk mengaktifkan raw input, ikuti langkah-langkah berikut:
 
 **Anda dapat memecahkan masalah ini dengan menentukan area tablet yang lebih kecil untuk perangkat Anda.**
 
-Pada kebanyakan tablet bermerek Wacom, pengaturan area dapat dilakukan melalui tab ​`Mapping`​ dari aplikasi `​Wacom Tablet Properties`. Sebuah contoh lebih jelas dapat dilihat [di ​sini](https://w.ppy.sh/d/dc/Tabarea.png)​.
+Pada kebanyakan tablet bermerek Wacom, pengaturan area dapat dilakukan melalui tab ​`Mapping`​ dari aplikasi `​Wacom Tablet Properties`. Sebuah contoh lebih jelas dapat dilihat [di ​sini](img/Tabarea.png)​.
 
 Anda perlu berkonsultasi dengan produsen tablet Anda untuk mengetahui cara mengatur area tablet Anda.
 
@@ -937,7 +941,7 @@ Untuk memperbaikinya, pastikan Anda perangkat osu!go telah terpilih, dan klik ka
 
 **Anda perlu mempartisi perangkat dari awal.**
 
-Silakan ikuti ​[panduan ini](https://tails.boum.org/doc/first_steps/reset/windows/index.en.html) untuk rincian tentang cara melakukannya.
+Silakan ikuti ​[panduan ini](https://staging.tails.boum.org/doc/first_steps/reset/windows.en.html) untuk rincian tentang cara melakukannya.
 
 #### Saya telah memformat ulang perangkat osu!go dan akhirnya sekarang muncul di Disk Management.
 

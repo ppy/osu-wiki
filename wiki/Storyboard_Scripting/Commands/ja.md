@@ -22,7 +22,7 @@ where:
 -   (params..) は変数で(event)で指定された値の間の数値が当てはまります。
 
 オブジェクトは最後のコマンドのタイムを過ぎるまではアクティブなままとなります。それを過ぎれば消滅します。オブジェクトを画面内に留めておきたいと考えるならば、Fade(F)の透過を利用してください。
-![Setting a(n) sprite/object with their commands to do (Event).](SBS_Base_C.jpg "Setting a(n) sprite/object with their commands to do (Event).")
+![Setting a(n) sprite/object with their commands to do (Event).](img/SBS_Base_C.jpg "Setting a(n) sprite/object with their commands to do (Event).")
 
 ## 基本コマンド
 
@@ -41,7 +41,7 @@ where:
 -   (start_opacity) は開始時の数値
 -   (end_opacity) は終了時の数値
 
-例えば(譜面が開始してから)1秒(1000ms)でオブジェクトがフェードインし、2秒間(2000ms)半透明状態(透過率50%)を維持した後、1秒(1000ms)でフェードアウトする場合は以下のように記述します。
+例えば(ビートマップが開始してから)1秒(1000ms)でオブジェクトがフェードインし、2秒間(2000ms)半透明状態(透過率50%)を維持した後、1秒(1000ms)でフェードアウトする場合は以下のように記述します。
 
 ```
 Sprite,Pass,Centre,"Sample.png",320,240

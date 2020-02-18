@@ -1,17 +1,16 @@
-[true]: /wiki/shared/true.png
-[false]: /wiki/shared/false.png
+---
+needs_cleanup: true
+---
 
-# Sounds
+# Sounds skinning
 
 `.wav`, `.mp3`, and/or `.ogg` are valid formats for sounds.
 
-## Main Menu
+## Interface
+
+### Main menu
 
 `heartbeat.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
 
 Notes:
 
@@ -21,10 +20,6 @@ Notes:
 
 `seeya.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
-
 - [osu!supporter](/wiki/osu!supporter) is required to modify.
 - Plays when closing the osu!client.
 - This can be disabled in the [options](/wiki/options).
@@ -33,21 +28,13 @@ Notes:
 
 `welcome.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
-
 - [osu!supporter](/wiki/osu!supporter) is required to modify.
 - Plays when starting the osu!client.
 - This can be disabled in the [options](/wiki/options).
 
-## Keys
+### Keys
 
 `key-confirm.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
 
 Notes:
 
@@ -57,10 +44,6 @@ Notes:
 
 `key-delete.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
-
 Notes:
 
 - Plays when deleting text in a message in chat.
@@ -68,10 +51,6 @@ Notes:
 ---
 
 `key-movement.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
 
 Notes:
 
@@ -81,10 +60,6 @@ Notes:
 
 `key-press-1.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
-
 Notes:
 
 - Plays when pressing a key for chat, search, edit, etc.
@@ -92,10 +67,6 @@ Notes:
 ---
 
 `key-press-2.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
 
 Notes:
 
@@ -105,10 +76,6 @@ Notes:
 
 `key-press-3.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
-
 Notes:
 
 - Plays when pressing a key for chat, search, edit, etc.
@@ -117,21 +84,13 @@ Notes:
 
 `key-press-4.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
-
 Notes:
 
 - Plays when pressing a key for chat, search, edit, etc.
 
-## Clicks
+### Clicks
 
 `back-button-click.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
 
 Notes:
 
@@ -141,10 +100,6 @@ Notes:
 
 `check-on.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
-
 Notes:
 
 - Plays when enabling a checkboxes or enabling a mod.
@@ -152,10 +107,6 @@ Notes:
 ---
 
 `check-off.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
 
 Notes:
 
@@ -165,10 +116,6 @@ Notes:
 
 `click-close.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
-
 Notes:
 
 - Plays when closing a chat tab.
@@ -176,10 +123,6 @@ Notes:
 ---
 
 `click-short-confirm.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
 
 Notes:
 
@@ -189,10 +132,6 @@ Notes:
 
 `menuback.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
-
 Notes:
 
 - Plays when clicking on `menu-back` or returning to the previous screen.
@@ -200,10 +139,6 @@ Notes:
 ---
 
 `menuhit.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
 
 Notes:
 
@@ -213,10 +148,6 @@ Notes:
 
 `menu-back-click.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
-
 Notes:
 
 - Plays when clicking on `Back` in the main menu.
@@ -224,10 +155,6 @@ Notes:
 ---
 
 `menu-charts-click.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
 
 Notes:
 
@@ -237,10 +164,6 @@ Notes:
 
 `menu-direct-click.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
-
 Notes:
 
 - Plays when clicking on `osu!direct` in the main menu.
@@ -248,10 +171,6 @@ Notes:
 ---
 
 `menu-edit-click.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
 
 Notes:
 
@@ -261,10 +180,6 @@ Notes:
 
 `menu-exit-click.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
-
 Notes:
 
 - Plays when clicking on `Exit` in the main menu.
@@ -272,10 +187,6 @@ Notes:
 ---
 
 `menu-freeplay-click.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
 
 Notes:
 
@@ -285,10 +196,6 @@ Notes:
 
 `menu-multiplayer-click.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
-
 Notes:
 
 - Plays when clicking on `Multiplayer` in the main menu.
@@ -296,10 +203,6 @@ Notes:
 ---
 
 `menu-options-click.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
 
 Notes:
 
@@ -309,10 +212,6 @@ Notes:
 
 `menu-play-click.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
-
 Notes:
 
 - Plays when clicking on `Play` in the main menu.
@@ -320,10 +219,6 @@ Notes:
 ---
 
 `pause-back-click.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
 
 Notes:
 
@@ -333,10 +228,6 @@ Notes:
 
 `pause-continue-click.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
-
 Notes:
 
 - Plays when clicking `Continue` in the pause menu.
@@ -344,10 +235,6 @@ Notes:
 ---
 
 `pause-retry-click.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
 
 Notes:
 
@@ -357,10 +244,6 @@ Notes:
 
 `select-expand.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
-
 Notes:
 
 - Plays when switching into song selection, selecting a beatmap set, opening dropdown boxes, opening chat tabs.
@@ -368,10 +251,6 @@ Notes:
 ---
 
 `select-difficulty.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
 
 Notes:
 
@@ -381,21 +260,13 @@ Notes:
 
 `shutter.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
-
 Notes:
 
 - Plays when a screenshot is taken.
 
-## Hover
+### Hover
 
 `back-button-hover.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
 
 Notes:
 
@@ -405,10 +276,6 @@ Notes:
 
 `click-short.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
-
 Notes:
 
 - Plays when hovering above all selectable boxes except beatmaps or main screen buttons.
@@ -416,10 +283,6 @@ Notes:
 ---
 
 `menuclick.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
 
 Notes:
 
@@ -429,10 +292,6 @@ Notes:
 
 `menu-back-hover.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
-
 Notes:
 
 - Plays when hovering above Back in the main menu.
@@ -440,10 +299,6 @@ Notes:
 ---
 
 `menu-charts-hover.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
 
 Notes:
 
@@ -453,10 +308,6 @@ Notes:
 
 `menu-direct-hover.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
-
 Notes:
 
 - Plays when hovering above Direct in the main menu.
@@ -464,10 +315,6 @@ Notes:
 ---
 
 `menu-edit-hover.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
 
 Notes:
 
@@ -477,10 +324,6 @@ Notes:
 
 `menu-exit-hover.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
-
 Notes:
 
 - Plays when hovering above Exit in the main menu.
@@ -488,10 +331,6 @@ Notes:
 ---
 
 `menu-freeplay-hover.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
 
 Notes:
 
@@ -501,10 +340,6 @@ Notes:
 
 `menu-multiplayer-hover.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
-
 Notes:
 
 - Plays when hovering above Multiplayer in the main menu.
@@ -512,10 +347,6 @@ Notes:
 ---
 
 `menu-options-hover.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
 
 Notes:
 
@@ -525,10 +356,6 @@ Notes:
 
 `menu-play-hover.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
-
 Notes:
 
 - Plays when hovering above Play in the main menu.
@@ -537,17 +364,9 @@ Notes:
 
 `pause-hover.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
-
 ---
 
 `pause-back-hover.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
 
 Notes:
 
@@ -557,10 +376,6 @@ Notes:
 
 `pause-continue-hover.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
-
 Notes:
 
 - Plays when hovering over Continue in pause menu.
@@ -569,21 +384,13 @@ Notes:
 
 `pause-retry-hover.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
-
 Notes:
 
 - Plays when hovering over Retry in pause menu.
 
-## Drag
+### Drag
 
 `sliderbar.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
 
 Notes:
 
@@ -593,21 +400,13 @@ Notes:
 
 `whoosh.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
-
 Notes:
 
 - As of now, this is disabled.
 
-## Multiplayer
+### Multi
 
 `match-confirm.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
 
 Notes:
 
@@ -617,10 +416,6 @@ Notes:
 
 `match-join.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
-
 Notes:
 
 - Plays when a player joins a room.
@@ -628,10 +423,6 @@ Notes:
 ---
 
 `match-leave.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
 
 Notes:
 
@@ -641,10 +432,6 @@ Notes:
 
 `match-notready.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
-
 Notes:
 
 - Plays when a player revoked his ready signal.
@@ -652,10 +439,6 @@ Notes:
 ---
 
 `match-ready.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
 
 Notes:
 
@@ -665,22 +448,27 @@ Notes:
 
 `match-start.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
-
 Notes:
 
 - Plays when the match is starting.
 - This is also the chat highlight sound.
 
-# Countdown
+### Metronome
+
+`metronomelow.wav`
+
+Notes:
+
+- In the beatmap editor, this plays for the small white ticks; however, the beatmap editor will only use the default sounds.
+- Despite the above, this can be skinned for the offset wizard and the bananas in osu!catch (pitch goes up per caught banana).
+
+## Gameplay
+
+The following gameplay sounds are all beatmap skinnable.
+
+### Countdown
 
 `count.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
 
 Notes:
 
@@ -691,74 +479,25 @@ Notes:
 
 `count1s.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
-
 ---
 
 `count2s.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
 
 ---
 
 `count3s.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
-
 ---
 
 `gos.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
 
 ---
 
 `readys.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
-
-## Metronome
-
-`metronomelow.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![No][false]      |
-
-Notes:
-
-- In the beatmap editor, this plays for the small white ticks; however, the beatmap editor will only use the default sounds.
-- Despite the above, this can be skinned for the offset wizard and the bananas in osu!catch (pitch goes up per caught banana).
-
-## Gameplay
-
-`applause.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
-
-Notes:
-
-- On the ranking screen after clearing a map.
-
----
+### Playfield
 
 `comboburst.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
 
 Notes:
 
@@ -769,10 +508,6 @@ Notes:
 
 `combobreak.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
-
 Notes:
 
 - Plays when player breaks a combo of 20 or more.
@@ -781,21 +516,15 @@ Notes:
 
 `failsound.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
-
 Notes:
 
 - Failing a map at any point.
+- Not intended to last longer than the fail animation (about 5 seconds).
+- Using a long audio track will impact the game client’s performance, as it is loaded each time you play a beatmap, even if you never fail. It isn’t supposed to be bigger than a few kilobytes.
 
 ---
 
 `sectionpass.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
 
 Notes:
 
@@ -805,21 +534,22 @@ Notes:
 
 `sectionfail.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
-
 Notes:
 
 - Halfway through a break with low HP remaining.
 
-## Pause Screen
+### Game screens
+
+`applause.wav`
+
+Notes:
+
+- On the ranking screen after clearing a map.
+- Should be formatted as `.mp3` or `.ogg` in beatmaps aiming for rank.
+
+---
 
 `pause-loop.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
 
 Notes:
 
@@ -827,17 +557,13 @@ Notes:
 - This sound is looped.
 - Fades out when the client loses focus.
 
-## Hit Sounds
+### Hitsounds
 
-Hit sounds should not have any more than a 5 millisecond delay, unless it has a special purpose.
+Hitsounds should not have any more than a 5 millisecond delay, unless it has a special purpose.
 
-### Drum Set
+#### Drum set
 
 `drum-hitnormal.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
 
 Notes:
 
@@ -847,10 +573,6 @@ Notes:
 
 `drum-hitclap.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
-
 Notes:
 
 - Mapped as `D:C1` on beatmap skins.
@@ -858,10 +580,6 @@ Notes:
 ---
 
 `drum-hitfinish.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
 
 Notes:
 
@@ -871,10 +589,6 @@ Notes:
 
 `drum-hitwhistle.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
-
 Notes:
 
 - Mapped as `D:C1` on beatmap skins.
@@ -883,10 +597,6 @@ Notes:
 
 `drum-slidertick.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
-
 Notes:
 
 - Mapped as `D:C1` on beatmap skins.
@@ -894,10 +604,6 @@ Notes:
 ---
 
 `drum-sliderslide.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
 
 Notes:
 
@@ -908,22 +614,14 @@ Notes:
 
 `drum-sliderwhistle.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
-
 Notes:
 
 - Mapped as `D:C1` on beatmap skins.
 - This sound is looped.
 
-### Normal Set
+#### Normal set
 
 `normal-hitnormal.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
 
 Notes:
 
@@ -933,10 +631,6 @@ Notes:
 
 `normal-hitclap.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
-
 Notes:
 
 - Mapped as `N:C1` on beatmap skins.
@@ -944,10 +638,6 @@ Notes:
 ---
 
 `normal-hitfinish.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
 
 Notes:
 
@@ -957,10 +647,6 @@ Notes:
 
 `normal-hitwhistle.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
-
 Notes:
 
 - Mapped as `N:C1` on beatmap skins.
@@ -969,10 +655,6 @@ Notes:
 
 `normal-slidertick.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
-
 Notes:
 
 - Mapped as `N:C1` on beatmap skins.
@@ -980,10 +662,6 @@ Notes:
 ---
 
 `normal-sliderslide.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
 
 Notes:
 
@@ -994,22 +672,14 @@ Notes:
 
 `normal-sliderwhistle.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
-
 Notes:
 
 - Mapped as `N:C1` on beatmap skins.
 - This sound is looped.
 
-### Soft Set
+#### Soft set
 
 `soft-hitnormal.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
 
 Notes:
 
@@ -1019,10 +689,6 @@ Notes:
 
 `soft-hitclap.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
-
 Notes:
 
 Mapped as `S:C1` on beatmap skins.
@@ -1030,10 +696,6 @@ Mapped as `S:C1` on beatmap skins.
 ---
 
 `soft-hitfinish.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
 
 Notes:
 
@@ -1043,10 +705,6 @@ Mapped as `S:C1` on beatmap skins.
 
 `soft-hitwhistle.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
-
 Notes:
 
 Mapped as `S:C1` on beatmap skins.
@@ -1055,10 +713,6 @@ Mapped as `S:C1` on beatmap skins.
 
 `soft-slidertick.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
-
 Notes:
 
 Mapped as `S:C1` on beatmap skins.
@@ -1066,10 +720,6 @@ Mapped as `S:C1` on beatmap skins.
 ---
 
 `soft-sliderslide.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
 
 Notes:
 
@@ -1080,22 +730,14 @@ Notes:
 
 `soft-sliderwhistle.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
-
 Notes:
 
 - Mapped as `S:C1` on beatmap skins.
 - This sound is looped.
 
-### Spinner Set
+#### Spinner set
 
 `spinnerspin.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
 
 Notes:
 
@@ -1107,23 +749,15 @@ Notes:
 
 `spinnerbonus.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
-
 Notes:
 
 - Plays everytime you get 1000 bonus points from spinning.
 
-### Taiko Hit Sounds
+#### osu!taiko specific
 
-#### Normal Set
+##### Normal set
 
 `taiko-normal-hitnormal.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
 
 Notes:
 
@@ -1133,10 +767,6 @@ Notes:
 
 `taiko-normal-hitclap.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
-
 Notes:
 
 - Mapped as `N:C1` on beatmap skins.
@@ -1144,10 +774,6 @@ Notes:
 ---
 
 `taiko-normal-hitfinish.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
 
 Notes:
 
@@ -1157,21 +783,13 @@ Notes:
 
 `taiko-normal-hitwhistle.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
-
 Notes:
 
 - Mapped as `N:C1` on beatmap skins.
 
-#### Soft Set
+##### Soft set
 
 `taiko-soft-hitnormal.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
 
 Notes:
 
@@ -1181,10 +799,6 @@ Notes:
 
 `taiko-soft-hitclap.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
-
 Notes:
 
 - Mapped as `S:C1` on beatmap skins.
@@ -1192,10 +806,6 @@ Notes:
 ---
 
 `taiko-soft-hitfinish.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
 
 Notes:
 
@@ -1205,21 +815,13 @@ Notes:
 
 `taiko-soft-hitwhistle.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
-
 Notes:
 
 - Mapped as `S:C1` on beatmap skins.
 
-#### Drum Set
+##### Drum set
 
 `taiko-drum-hitnormal.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
 
 Notes:
 
@@ -1228,11 +830,7 @@ Notes:
 
 ---
 
-_`taiko-drum-hitclap.wav`_
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
+`taiko-drum-hitclap.wav`
 
 Notes:
 
@@ -1243,10 +841,6 @@ Notes:
 
 `taiko-drum-hitfinish.wav`
 
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
-
 Notes:
 
 - Mapped as `D:C1` on beatmap skins.
@@ -1255,10 +849,6 @@ Notes:
 ---
 
 `taiko-drum-hitwhistle.wav`
-
-| Beatmap Skinnable |
-|:-----------------:|
-| ![Yes][true]      |
 
 Notes:
 

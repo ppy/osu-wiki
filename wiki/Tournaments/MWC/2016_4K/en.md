@@ -33,9 +33,9 @@ There is a $1,900 cash prize pool with extra money being added by buying support
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 50% of the raised prize pool, profile badge, "osu!mania Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 38% of the raised prize pool, profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 12% of the raised prize pool, profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 50% of the raised prize pool, profile badge, "osu!mania Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 38% of the raised prize pool, profile badge |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 12% of the raised prize pool, profile badge |
 
 ## Organisation
 
@@ -43,10 +43,10 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
-| Map Selectors | ![][flag_PL] [-Kamikaze-](https://osu.ppy.sh/users/2124783), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) |
-| Commentators | ![][flag_US] [Daikyi](https://osu.ppy.sh/users/811832), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_GB] [-Konner-](https://osu.ppy.sh/users/6108644), ![][flag_FR] [Slainv](https://osu.ppy.sh/users/4823843), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), ![][flag_CA] [Tasha](https://osu.ppy.sh/users/1031958), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
-| Statisticians | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
+| Manager | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
+| Map Selector | ![][flag_PL] [-Kamikaze-](https://osu.ppy.sh/users/2124783), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) |
+| Commentator | ![][flag_US] [Daikyi](https://osu.ppy.sh/users/811832), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_GB] [-Konner-](https://osu.ppy.sh/users/6108644), ![][flag_FR] [Slainv](https://osu.ppy.sh/users/4823843), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707), ![][flag_CA] [Tasha](https://osu.ppy.sh/users/1031958), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
+| Statistician | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
 ------------------------------------------------------------------------
 

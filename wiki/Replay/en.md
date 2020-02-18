@@ -1,3 +1,9 @@
+---
+needs_cleanup: true
+outdated: true
+---
+<!-- TODO: this is riddled with old client information and probably needs to be rewritten anyway. -->
+
 <!-- wiki -->
 <!-- [Auto wikilink]: /wiki/Game_Modifiers#-auto "Auto game modifier" -->
 [Auto wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Auto"
@@ -6,28 +12,28 @@
 [Relax wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Relax"
 [Auto Pilot wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Auto Pilot"
 [Perfect wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Perfect"
-[osr wikilink]: /wiki/osu!_File_Formats/Osr_(file_format)/ ".osr file format"
-[Chat Console wikilink]: /wiki/Chat_Console/ "Chat Console"
-[Extended Chat Console wikilink]: /wiki/Chat_Console/#extended-chat-console "more info can be found on Chat Console under Extended Chat Console"
-[Options#Keyboard wikilink]: /wiki/Options/#keyboard "more info can be found on Options under Keyboard section"
+[osr wikilink]: /wiki/osu!_File_Formats/Osr_(file_format) ".osr file format"
+[Chat Console wikilink]: /wiki/Chat_Console "Chat Console"
+[Extended Chat Console wikilink]: /wiki/Chat_Console#extended-chat-console "more info can be found on Chat Console under Extended Chat Console"
+[Options#Keyboard wikilink]: /wiki/Options#keyboard "more info can be found on Options under Keyboard section"
 
 <!-- image -->
-[Replay Auto]: ./Replay_Auto.jpg "Replay with Auto, offline and online account play respectively"
-[Replay discussion]: ./Replay_discussion.jpg "Discussion button options during a replay"
-[Replay discussion comment]: ./Replay_discussion_comment.jpg "Making a comment"
-[Replay discussion example]: ./Replay_discussion_example.jpg "An example of comment flow"
-[Replay Solo]: ./Replay_Solo.jpg "A local replay"
-[Replay failed]: ./Replay_failed.jpg "Left is a regular game over screen and right is a failed replay game over screen"
-[Replay Multi]: ./Replay_Multi.jpg "Left is the original Multi play and right is an exported Multi replay"
-[Replay Multi fail]: ./Replay_Multi_fail.jpg "A failed Multi replay will still be played."
-[Replay Auto on]: ./Replay_Auto_on.jpg "Replay with Auto when connected to Bancho"
-[Replay server]: ./Replay_server.jpg "Left is downloading the server replay and right is the replay in question."
-[Replay preview result]: ./Replay_preview_result.jpg "An example of preview gameplay's result screen"
+[Replay Auto]: img/Replay_Auto.jpg "Replay with Auto, offline and online account play respectively"
+[Replay discussion]: img/Replay_discussion.jpg "Discussion button options during a replay"
+[Replay discussion comment]: img/Replay_discussion_comment.jpg "Making a comment"
+[Replay discussion example]: img/Replay_discussion_example.jpg "An example of comment flow"
+[Replay Solo]: img/Replay_Solo.jpg "A local replay"
+[Replay failed]: img/Replay_failed.jpg "Left is a regular game over screen and right is a failed replay game over screen"
+[Replay Multi]: img/Replay_Multi.jpg "Left is the original Multi play and right is an exported Multi replay"
+[Replay Multi fail]: img/Replay_Multi_fail.jpg "A failed Multi replay will still be played."
+[Replay Auto on]: img/Replay_Auto_on.jpg "Replay with Auto when connected to Bancho"
+[Replay server]: img/Replay_server.jpg "Left is downloading the server replay and right is the replay in question."
+[Replay preview result]: img/Replay_preview_result.jpg "An example of preview gameplay's result screen"
 
 # Replay
 
-A replay is a direct emulation of a play, either by a player or a perfect play done by [Auto][Auto wikilink] mod.
-As long as the local replay emulation file with a `.osr` file extension was available with the difficulty/beatmap it reference or a top `Global leaderboard` play was downloaded, a complete replay can be constructed by osu! to be watched.
+A replay is a rebroadcast or direct emulation of a play, either by a player or a perfect play done by the [Auto][Auto wikilink] mod.
+As long as the local replay emulation file with a `.osr` file extension is available with the difficulty/beatmap or a top `Global leaderboard` play was downloaded, a complete replay can be constructed by osu! to be watched.
 
 ## Replay options
 
@@ -39,7 +45,7 @@ To rewatch a replay, press and hold the custom default grave/tilde (`` ` ``/`~`)
 The screen should darken and a sound will be played when the quick restart was successful.
 Releasing the key early will fail the quick retry.
 
-Access to [Chat Console][Chat Console wikilink] (`F8`)/[Extended Chat Console][Extended Chat Console wikilink] (`F9`) will still be available.
+Access to the [Chat Console][Chat Console wikilink] (`F8`)/[Extended Chat Console][Extended Chat Console wikilink] (`F9`) will still be available.
 Press the `Tab` key to hide/show the currently-selected leaderboard.
 Press the `H` key to hide/show all elements of replay except the game mods used and **UNRANKED** notice if played by [Auto][Auto wikilink].
 
@@ -51,7 +57,7 @@ A [Cinema][Cinema wikilink] replay will:-
 - enable the background image/video,
 - play only the pass storyboard,
 - set to 0% background dim, and
-- play the hit sounds on timing points where the notes would be completed.
+- play the hitsounds on timing points where the notes would be completed.
 
 To skip the starting/ending point of the play, press the `Spacebar` key.
 
@@ -116,13 +122,13 @@ Shortcut key is the `Esc` key.
 
 ## Types of Replay
 
-_Full documentation regarding the .osr file format (for developers): [.osr file format][osr wikilink]_
+_Full documentation regarding the `.osr` file format: [.osr file format][osr wikilink]_
 
 To export a replay, press `F2` in the results screen.
 Exported replay will have an `.osr` file extension with a clean filename format as shown below:-
 
 ```
-Format : {LocalPlayerName} - {Artist} - {Title} [{Difficulty}]({YYYY-MM-DD}) {GameMode}
+Format : {LocalPlayerName} - {Artist} - {Title} [{Difficulty}] ({YYYY-MM-DD}) {GameMode}
 Example: dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS] (2013-08-12) OsuMania
 ```
 
@@ -157,7 +163,7 @@ Deleting the `.osg` file has no effect (it is a leftover file for spectator's re
 Deleting the `.osr` file will make the replay _lost forever_ (since the replay data is missing and nothing to export).
 Alternatively, deleting the `scores.db` (which contains local leaderboard scores and pointers to encrypted replays) _will make all (not exported) replays and local leaderboard scores lost forever_.
 
-To **set a local leaderboard name** when not signed in (_Guest_ account), **scroll down** the result screen to access the online results screen directly after passing the difficulty and type in the name on the _Guest player name_ textbox.
+To set a local leaderboard name when not signed in (_Guest_ account), scroll down from the results screen to access the online results screen directly after passing the difficulty and type in the name on the _Guest player name_ textbox.
 In this screen, an alternative to using the export `F2` key is to enable the `Save replay to Replays folder` button located at the upper-right.
 
 Return to the _Song Selection_ and changes will be updated for this replay (if no name was given, it will simply be blank).
@@ -171,7 +177,7 @@ _Left is the typical game over screen. Right is showing the end of a failed repl
 To access this screen, fail the map by draining the healthbar completely, or fail to fill 50% or more of the healthbar before the end of the difficulty in osu!taiko.
 
 In the game over screen, press the `F1` key to replay the currently failed play.
-The replay ends when the screen darkens, with osu!logo in the middle, rather than the game over screen.
+The replay ends when the screen darkens, with the osu!logo in the middle, rather than the game over screen.
 
 Due to the non-standard replay screen, use the `Esc` key to return to Song Selection.
 Trying to restart the beatmap to directly play the beatmap again in this state is not possible.
@@ -198,7 +204,7 @@ Multi elements will not be saved as shown in the image comparison above (refer t
 
 ### Spectator
 
-As spectator mode requires access to [Extended Chat Console][Extended Chat Console wikilink], please sign in with an active in-game account and connect to Bancho.
+As spectator mode requires access to the [Extended Chat Console][Extended Chat Console wikilink], please sign in with an active in-game account and connect to Bancho.
 
 After that, press `F9` to access the Extended Chat Console and pick a player to spectate.
 Make sure to have the **same** difficulty/beatmap as the player, or a small red-outline warning box will appear at the bottom-right for not having the difficulty/beatmap specified, hence no spectator's replay.
@@ -264,7 +270,7 @@ It can be exported, or downloaded and watched immediately by request.
 When watching a server-side replay (excluding exported replays), the player of the replay's profile will receive an increment of one(1) in the "Replays Watched by Others" counter.
 If a new top 50 global record was added, the previous holder for \#50 position's server-side replay will be removed.
 
-To watch a server replay, an osu!account must be signed in and be connected to Bancho.
+To watch a server replay, an osu! account must be signed in and be connected to Bancho.
 At the _Song Selection_ screen in `Solo`, switch the leaderboard to `Global leaderboard` and click on the preferred player at the leaderboard to watch the replay.
 Press on the `Watch replay` button and osu! will download the replay file from the Bancho as shown in the left of the image.
 The replay only plays once and will be deleted after the replay ends/quit early.
@@ -306,5 +312,5 @@ _An exceptional case of Preview Gameplay's result screen in a bad timespan_
 Depending on the random timespan selected, it may start at the _end of the song_ without any hit objects, leading directly to the results screen with 0 score, 0 combo, 0x hit bursts, D Grade, no performance graph, and 100.00% accuracy.
 When watching the replay, the health drain will work as usual, no cursor movement, and _no miss_ (hence 100.00% accuracy) until the point where the `Preview Gameplay` timespan was set to run, which the hit bursts will start to work.
 
-Since Auto unable to fail, an empty healthbar has no effect on Auto.
+Since Auto is unable to fail, an empty healthbar has no effect on Auto.
 However, for osu!taiko, if Auto is unable to fill the healthbar 50% or more, the replay will be stuck in an _infinite loop_.

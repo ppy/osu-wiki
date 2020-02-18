@@ -30,7 +30,7 @@ The **osu! Technical Championship #3** (***OTC #3***) is was double-elimination 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
 ![OTC #3 Winner Badge](img/badge.png)
 
@@ -41,14 +41,14 @@ The osu! Technical Championship #3 was run by various osu! community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669) |
-| Administrators | ![][flag_US] [dblade](https://osu.ppy.sh/users/4272841), ![][flag_DE] [Diffractive](https://osu.ppy.sh/users/7601761) |
-| Mappool Selectors | ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669), ![][flag_US] [dblade](https://osu.ppy.sh/users/4272841), ![][flag_GB] [Nega](https://osu.ppy.sh/users/3181083), ![][flag_GB] [SoraRoxas01](https://osu.ppy.sh/users/1986262) |
-| Mappool Testers | ![][flag_GB] [Best459](https://osu.ppy.sh/users/8185366), ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779), ![][flag_CN] [VRainbow](https://osu.ppy.sh/users/3635214), ![][flag_UY] [moondust](https://osu.ppy.sh/users/4662596), ![][flag_NL] [Lazer](https://osu.ppy.sh/users/1799925), ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689), ![][flag_PL] [Bartek22830](https://osu.ppy.sh/users/6404027) |
-| Designers | ![][flag_DE] [Diffractive](https://osu.ppy.sh/users/7601761), ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207) |
-| Streamers | ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669), ![][flag_US] [dblade](https://osu.ppy.sh/users/4272841), ![][flag_DE] [Diffractive](https://osu.ppy.sh/users/7601761), ![][flag_DE] [Ami](https://osu.ppy.sh/users/2114779) |
-| Commentators | ![][flag_DE] [Diffractive](https://osu.ppy.sh/users/7601761), ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946), ![][flag_NL] [Blue-Orb](https://osu.ppy.sh/users/6612210), ![][flag_US] [Woey](https://osu.ppy.sh/users/3792472), ![][flag_DE] [Ami](https://osu.ppy.sh/users/2114779), ![][flag_US] [itzpigeon](https://osu.ppy.sh/users/9828300) |
-| Referees | ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669), ![][flag_DE] [Diffractive](https://osu.ppy.sh/users/7601761), ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TW] [EthanTC](https://osu.ppy.sh/users/9539163), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [\[ Mimir \]](https://osu.ppy.sh/users/7382734), ![][flag_GB] [Nega](https://osu.ppy.sh/users/3181083), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DE] [Rymus](https://osu.ppy.sh/users/6449966), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CN] [VRainbow](https://osu.ppy.sh/users/3635214), ![][flag_BE] [DraQeu](https://osu.ppy.sh/users/4425520), ![][flag_US] [Hot Cocoa](https://osu.ppy.sh/users/4986705) |
-| Wiki | ![][flag_ID] [Naruk](https://osu.ppy.sh/users/7100002) |
+| Admin | ![][flag_US] [dblade](https://osu.ppy.sh/users/4272841), ![][flag_DE] [Diffractive](https://osu.ppy.sh/users/7601761) |
+| Map Selector | ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669), ![][flag_US] [dblade](https://osu.ppy.sh/users/4272841), ![][flag_GB] [Nega](https://osu.ppy.sh/users/3181083), ![][flag_GB] [SoraRoxas01](https://osu.ppy.sh/users/1986262) |
+| Mappool Tester | ![][flag_GB] [Best459](https://osu.ppy.sh/users/8185366), ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779), ![][flag_CN] [VRainbow](https://osu.ppy.sh/users/3635214), ![][flag_UY] [moondust](https://osu.ppy.sh/users/4662596), ![][flag_NL] [Lazer](https://osu.ppy.sh/users/1799925), ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689), ![][flag_PL] [Bartek22830](https://osu.ppy.sh/users/6404027) |
+| Designer | ![][flag_DE] [Diffractive](https://osu.ppy.sh/users/7601761), ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207) |
+| Streamer | ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669), ![][flag_US] [dblade](https://osu.ppy.sh/users/4272841), ![][flag_DE] [Diffractive](https://osu.ppy.sh/users/7601761), ![][flag_DE] [Ami](https://osu.ppy.sh/users/2114779) |
+| Commentator | ![][flag_DE] [Diffractive](https://osu.ppy.sh/users/7601761), ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946), ![][flag_NL] [Blue-Orb](https://osu.ppy.sh/users/6612210), ![][flag_US] [Woey](https://osu.ppy.sh/users/3792472), ![][flag_DE] [Ami](https://osu.ppy.sh/users/2114779), ![][flag_US] [itzpigeon](https://osu.ppy.sh/users/9828300) |
+| Referee | ![][flag_US] [IsoSubjectPi](https://osu.ppy.sh/users/3989669), ![][flag_DE] [Diffractive](https://osu.ppy.sh/users/7601761), ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TW] [EthanTC](https://osu.ppy.sh/users/9539163), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [\[ Mimir \]](https://osu.ppy.sh/users/7382734), ![][flag_GB] [Nega](https://osu.ppy.sh/users/3181083), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DE] [Rymus](https://osu.ppy.sh/users/6449966), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CN] [VRainbow](https://osu.ppy.sh/users/3635214), ![][flag_BE] [DraQeu](https://osu.ppy.sh/users/4425520), ![][flag_US] [Hot Cocoa](https://osu.ppy.sh/users/4986705) |
+| Wiki Editor | ![][flag_ID] [Naruk](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -98,9 +98,9 @@ The osu! Technical Championship #3 was run by various osu! community members.
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_IL] [Xilver15](https://osu.ppy.sh/users/3099689) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_RO] [badeu](https://osu.ppy.sh/users/1473890) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_IL] [Xilver15](https://osu.ppy.sh/users/3099689) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_RO] [badeu](https://osu.ppy.sh/users/1473890) |
 
 -----------------------
 
@@ -136,25 +136,25 @@ The osu! Technical Championship #3 was run by various osu! community members.
 **[Download the mappack here! (130 MB)](http://www.mediafire.com/file/dkkspnkg80a8b4u/OTC+%233+Finals+Mappool.zip)**
 
 - NoMod
-  - [Lite Show Magic - TRICKL4SH 220 (Regou) \[TERROR\]](/beatmapsets/616696#osu/1300513)
-  - [trapman featuring CreeperWorks - minefield surfing (ktgster) \[Adaption\]](/beatmapsets/788448#osu/1654883)
-  - [Culprate & Skorpion - Jester (NeilPerry) \[Transcending Dimensions\]](/beatmapsets/848259#osu/1773876)
-  - [Shawn Wasabi + YDG feat. YUNG GEMMY - Burnt Rice (Aiobahn & Jh-Anu Remix) (handsome) \[Master\]](/beatmapsets/519256#osu/1103732)
-  - [FUJIN CLUB - Tabi to Ferry (dsco) \[Seaside\]](/beatmapsets/704541#osu/1490377)
+  - [Lite Show Magic - TRICKL4SH 220 (Regou) \[TERROR\]](https://osu.ppy.sh/beatmapsets/616696#osu/1300513)
+  - [trapman featuring CreeperWorks - minefield surfing (ktgster) \[Adaption\]](https://osu.ppy.sh/beatmapsets/788448#osu/1654883)
+  - [Culprate & Skorpion - Jester (NeilPerry) \[Transcending Dimensions\]](https://osu.ppy.sh/beatmapsets/848259#osu/1773876)
+  - [Shawn Wasabi + YDG feat. YUNG GEMMY - Burnt Rice (Aiobahn & Jh-Anu Remix) (handsome) \[Master\]](https://osu.ppy.sh/beatmapsets/519256#osu/1103732)
+  - [FUJIN CLUB - Tabi to Ferry (dsco) \[Seaside\]](https://osu.ppy.sh/beatmapsets/704541#osu/1490377)
 - Hidden
-  - [Camellia feat. Nanahira - Bassdrop Freaks (2018 "Redrop" ver.) (Mir) \[Beisu Doroppu\]](/beatmapsets/806859#osu/1693575)
-  - [Nekomata Master+ - Proof of the existence (IceKalt) \[New World\]](/beatmapsets/807310#osu/1694395)
-  - [Aoki Chihiro - Kodou (Hollow Wings) \[HW's Another\]](/beatmapsets/687511#osu/1579923)
+  - [Camellia feat. Nanahira - Bassdrop Freaks (2018 "Redrop" ver.) (Mir) \[Beisu Doroppu\]](https://osu.ppy.sh/beatmapsets/806859#osu/1693575)
+  - [Nekomata Master+ - Proof of the existence (IceKalt) \[New World\]](https://osu.ppy.sh/beatmapsets/807310#osu/1694395)
+  - [Aoki Chihiro - Kodou (Hollow Wings) \[HW's Another\]](https://osu.ppy.sh/beatmapsets/687511#osu/1579923)
 - HardRock
-  - [lapix feat. Renko - Concept Of Reality (Ameth Rianno) \[Ameth's Extra\]](/beatmapsets/559140#osu/1208032)
-  - [DJ Noriken - Turn It Up feat. Kanae Asaba (Akali) \[Friendship is Magic Collab ft Cassu\]](/beatmapsets/611867#osu/1291481)
-  - [sakuzyo - Senkyou Ranbu (ktgster) \[EX\]](/beatmapsets/460516#osu/986233)
+  - [lapix feat. Renko - Concept Of Reality (Ameth Rianno) \[Ameth's Extra\]](https://osu.ppy.sh/beatmapsets/559140#osu/1208032)
+  - [DJ Noriken - Turn It Up feat. Kanae Asaba (Akali) \[Friendship is Magic Collab ft Cassu\]](https://osu.ppy.sh/beatmapsets/611867#osu/1291481)
+  - [sakuzyo - Senkyou Ranbu (ktgster) \[EX\]](https://osu.ppy.sh/beatmapsets/460516#osu/986233)
 - DoubleTime
-  - [Koronba - Iwashi ga Tsuchi kara Haete Kurunda (Damnjelly) \[Sardine\]](/beatmapsets/602367#osu/1580728)
-  - [rerulili - Noushou Sakuretsu Girl (dksslqj) \[dksslqj Style\]](/beatmapsets/63434#osu/208935)
+  - [Koronba - Iwashi ga Tsuchi kara Haete Kurunda (Damnjelly) \[Sardine\]](https://osu.ppy.sh/beatmapsets/602367#osu/1580728)
+  - [rerulili - Noushou Sakuretsu Girl (dksslqj) \[dksslqj Style\]](https://osu.ppy.sh/beatmapsets/63434#osu/208935)
   - [Skrillex - Imma Try It Out (feat. Alvin Risk) (Foreverends) \[Endstep\]](https://bloodcat.com/osu/s/76662)
 - Tiebreaker
-  - **[Culprate & Au5 - Impulse (handsome) \[Master\]](/beatmapsets/705788#osu/1492654)**
+  - **[Culprate & Au5 - Impulse (handsome) \[Master\]](https://osu.ppy.sh/beatmapsets/705788#osu/1492654)**
 
 ### Semifinals
 

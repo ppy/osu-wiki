@@ -28,9 +28,9 @@ The **Taiko World Cup 2012** (***TWC 2012***) was a country-based osu!taiko tour
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 3 months of osu!supporter tag, unique profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 3 months of osu!supporter tag, unique profile badge |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 | *Special* | 1 month of osu!supporter tag |
 
 ![TWC 2012 Winner Badge](img/badge.png)
@@ -41,11 +41,11 @@ The Taiko World Cup 2012 was run by various community members by distributing th
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_KR] [lepidopodus](https://osu.ppy.sh/users/194807), ![][flag_KR] [wmfchris](https://osu.ppy.sh/users/7401) |
+| Manager | ![][flag_KR] [lepidopodus](https://osu.ppy.sh/users/194807), ![][flag_KR] [wmfchris](https://osu.ppy.sh/users/7401) |
 | Map Selector | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) |
-| Match Scheduler | ![][flag_US] [anongos](https://osu.ppy.sh/users/7135) |
-| Streamers | ![][flag_HK] [Kirisaki\_Hayashi](https://osu.ppy.sh/users/857986), ![][flag_HK] [matthewhln](https://osu.ppy.sh/users/291487) |
-| Referees | ![][flag_PE] [Gonzvlo](https://osu.ppy.sh/users/237733), ![][flag_TW] [Numbers 596108](https://osu.ppy.sh/users/194653), ![][flag_FR] [Odaril](https://osu.ppy.sh/users/113005) |
+| Scheduler | ![][flag_US] [anongos](https://osu.ppy.sh/users/7135) |
+| Streamer | ![][flag_HK] [Kirisaki\_Hayashi](https://osu.ppy.sh/users/857986), ![][flag_HK] [matthewhln](https://osu.ppy.sh/users/291487) |
+| Referee | ![][flag_PE] [Gonzvlo](https://osu.ppy.sh/users/237733), ![][flag_TW] [Numbers 596108](https://osu.ppy.sh/users/194653), ![][flag_FR] [Odaril](https://osu.ppy.sh/users/113005) |
 
 ## Links
 

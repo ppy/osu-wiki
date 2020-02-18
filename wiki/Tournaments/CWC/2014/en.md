@@ -28,9 +28,9 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 6 months of osu!supporter tag, unique profile badge, osu! merchandise |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, unique profile badge, osu! merchandise |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
 ## Organisation
 
@@ -38,10 +38,10 @@ The osu! Catch the Beat World Cup 2014 was run by various community members by d
 
 | Position | Member(s) |
 | :-- | :-- |
-| Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) |
-| Map Selectors | ![][flag_KR] [CLSW](https://osu.ppy.sh/users/531253), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [Drafura](https://osu.ppy.sh/users/326099) |
-| Streamers | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
-| Commentators | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335), ![][flag_CA] [Kitokofox](https://osu.ppy.sh/users/1815420), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_US] [-Ryuujii-](https://osu.ppy.sh/users/2107523) |
+| Manager | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) |
+| Map Selector | ![][flag_KR] [CLSW](https://osu.ppy.sh/users/531253), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [Drafura](https://osu.ppy.sh/users/326099) |
+| Streamer | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
+| Commentator | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335), ![][flag_CA] [Kitokofox](https://osu.ppy.sh/users/1815420), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_US] [-Ryuujii-](https://osu.ppy.sh/users/2107523) |
 | Statistician | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
 ## Links
@@ -106,9 +106,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_KR] South Korea |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_DE] Germany |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_SE] Sweden |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] South Korea |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_DE] Germany |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_SE] Sweden |
 
 ![CWC 2014 Bracket](img/bracket.jpg)
 

@@ -1,28 +1,28 @@
 <!-- wiki -->
-[Game_Modes wikilink]: ../ "Modes de Jeu"
+[Game_Modes wikilink]: .. "Modes de Jeu"
 [osu! wikilink]: /wiki/Game_Modes/osu! "osu!"
-[osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko/ "osu!taiko"
-[Play_Styles#osu!mania wikilink]: /wiki/Play_Styles/#osu-mania "plus d'infos peuvent être trouvées dans Styles de jeu sous osu!mania"
+[osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko "osu!taiko"
+[Play_Styles#osu!mania wikilink]: /wiki/Play_Styles#osu-mania "plus d'infos peuvent être trouvées dans Styles de jeu sous osu!mania"
 [Co-Op wikilink]: /wiki/Game_Modifiers "plus d'infos peuvent être trouvées dans Modifieurs de Jeu sous Co-Op"
 [xK wikilink]: /wiki/Game_Modifiers "plus d'infos peuvent être trouvées dans Modifieurs de Jeu sous xK"
-[Score#osu!maniaSV wikilink]: /wiki/Score/#osu-mania "plus d'infos peuvent être trouvées dans Score sous Valeurs de Score d'osu!mania"
-[Options#Keyboard wikilink]: /wiki/Options/#keyboard "plus d'infos peuvent être trouvées dans Keyboard"
-[Skinning#osu!mania wikilink]: /wiki/Skinning/osu!mania/ "Skinning osu!mania"
+[Score#osu!maniaSV wikilink]: /wiki/Score#osu-mania "plus d'infos peuvent être trouvées dans Score sous Valeurs de Score d'osu!mania"
+[Options#Keyboard wikilink]: /wiki/Options#keyboard "plus d'infos peuvent être trouvées dans Keyboard"
+[Skinning#osu!mania wikilink]: /wiki/Skinning/osu!mania "Skinning osu!mania"
 [Hidden wikilink]: /wiki/Game_Modifiers "plus d'infos peuvent être trouvées dans Modifieurs de Jeu sous Hidden"
 [Fade In wikilink]: /wiki/Game_Modifiers "plus d'infos peuvent être trouvées dans Modifieurs de Jeu sous Fade In"
 [Flashlight wikilink]: /wiki/Game_Modifiers "plus d'infos peuvent être trouvées dans Modifieurs de Jeu sous Flashlight"
-[Mascots#Maria wikilink]: /wiki/Mascots/#maria "plus d'infos peuvent être trouvées dans Mascottes sous Maria"
+[Mascots#Maria wikilink]: /wiki/Mascots#maria "plus d'infos peuvent être trouvées dans Mascottes sous Maria"
 [Auto wikilink]: /wiki/Game_Modifiers "plus d'infos peuvent être trouvées dans Modifieurs de Jeu sous Auto"
 
 <!-- osu!mania specific -->
-[osu!mania logo]: ./img/Mania_logo.png "le logo d'osu!mania dans les Modes Spéciaux"
-[osu!mania SC image]: ./img/Mania_SC.jpg "La valeur de Speed Change est située en haut à droite"
-[osu!mania SCDiff image]: ./img/Mania_SCDifference.png "La densité de la beatmap dépend du Speed Change"
-[set fixed scaling image]: ./img/Mania_Scale.png "Activer la Mise à l'échelle fixée en désactivant `Vitesses de défilement osu!mania basées sur le BPM` dans la barre latérale d'Options"
+[osu!mania logo]: img/Mania_logo.png "le logo d'osu!mania dans les Modes Spéciaux"
+[osu!mania SC image]: img/Mania_SC.jpg "La valeur de Speed Change est située en haut à droite"
+[osu!mania SCDiff image]: img/Mania_SCDifference.png "La densité de la beatmap dépend du Speed Change"
+[set fixed scaling image]: img/Mania_Scale.png "Activer la Mise à l'échelle fixée en désactivant `Vitesses de défilement osu!mania basées sur le BPM` dans la barre latérale d'Options"
 
 <!-- shared image -->
 [osu!mania icon link]: /wiki/shared/mode/mania.png "icône d'osu!mania"
-[osu!mania playfield image]:  /wiki/shared/Mania_playfield.jpg "le terrain de jeu d'osu!mania"
+[osu!mania playfield image]: /wiki/shared/Mania_playfield.jpg "le terrain de jeu d'osu!mania"
 [osu!mania notes image]: /wiki/shared/Mania_notes.jpg "les notes d'osu!mania"
 [osu!mania holdnotes image]: /wiki/shared/Mania_holdnotes.jpg "les longues notes d'osu!mania"
 [osu!mania Interface image]: /wiki/shared/Interface_mania.jpg "l'Interface d'osu!mania"
@@ -37,9 +37,6 @@
 # osu!mania
 
 **[Cliquez pour retourner à la page des Modes de Jeu][Game_Modes wikilink]**
-
-<!-- Uncomment the below and delete this comment if ScoreV2 is official and the whole page must be revised to fit ScoreV2 system behaviour -->
-<!-- **[Click here to visit the older version of osu!mania using deprecated ScoreV1 system](./v1 "osu!mania v1")** -->
 
 ![Gameplay d'osu!mania][osu!mania Interface image]
 

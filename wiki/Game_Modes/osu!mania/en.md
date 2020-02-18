@@ -1,28 +1,31 @@
+---
+needs_cleanup: true
+---
+
 <!-- wiki -->
-[Game_Modes wikilink]: ../ "Game Modes"
 [osu! wikilink]: /wiki/Game_Modes/osu! "osu!"
-[osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko/ "osu!taiko"
-[Play_Styles#osu!mania wikilink]: /wiki/Play_Styles/#osu-mania "more info can be found on Play Styles under osu!mania"
+[osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko "osu!taiko"
+[Play_Styles#osu!mania wikilink]: /wiki/Play_Styles#osu-mania "more info can be found on Play Styles under osu!mania"
 [Co-Op wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Co-Op"
 [xK wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under xK"
-[Score#osu!maniaSV wikilink]: /wiki/Score/#osu-mania "more info can be found on Score under osu!mania Scoring Values"
-[Options#Keyboard wikilink]: /wiki/Options/#keyboard "more info can be found on Options under Keyboard"
-[Skinning#osu!mania wikilink]: /wiki/Skinning/osu!mania/ "osu!mania Skinning"
+[Score#osu!maniaSV wikilink]: /wiki/Score#osu-mania "more info can be found on Score under osu!mania Scoring Values"
+[Options#Keyboard wikilink]: /wiki/Options#keyboard "more info can be found on Options under Keyboard"
+[Skinning#osu!mania wikilink]: /wiki/Skinning/osu!mania "osu!mania Skinning"
 [Hidden wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Hidden"
 [Fade In wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Fade In"
 [Flashlight wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Flashlight"
-[Mascots#Maria wikilink]: /wiki/Mascots/#maria "more info can be found on Mascots under Maria"
+[Mascots#Maria wikilink]: /wiki/Mascots#maria "more info can be found on Mascots under Maria"
 [Auto wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Auto"
 
 <!-- osu!mania specific -->
-[osu!mania logo]: ./img/Mania_logo.png "osu!mania logo in Special Mode"
-[osu!mania SC image]: ./img/Mania_SC.jpg "Speed Change value is located at the top-right"
-[osu!mania SCDiff image]: ./img/Mania_SCDifference.png "A difference Speed Change can make depending on beatmap's density"
-[set fixed scaling image]: ./img/Mania_Scale.png "Activate Fixed scaling by disabling `Scale osu!mania scroll speed with BPM` at the Options sidebar"
+[osu!mania logo]: img/Mania_logo.png "osu!mania logo in Special Mode"
+[osu!mania SC image]: img/Mania_SC.jpg "Speed Change value is located at the top-right"
+[osu!mania SCDiff image]: img/Mania_SCDifference.png "A difference Speed Change can make depending on beatmap's density"
+[set fixed scaling image]: img/Mania_Scale.png "Activate Fixed scaling by disabling `Scale osu!mania scroll speed with BPM` at the Options sidebar"
 
 <!-- shared image -->
 [osu!mania icon link]: /wiki/shared/mode/mania.png "osu!mania icon"
-[osu!mania playfield image]:  /wiki/shared/Mania_playfield.jpg "osu!mania playfield"
+[osu!mania playfield image]: /wiki/shared/Mania_playfield.jpg "osu!mania playfield"
 [osu!mania notes image]: /wiki/shared/Mania_notes.jpg "osu!mania notes"
 [osu!mania holdnotes image]: /wiki/shared/Mania_holdnotes.jpg "osu!mania hold notes"
 [osu!mania Interface image]: /wiki/shared/Interface_mania.jpg "osu!mania Interface"
@@ -35,9 +38,6 @@
 <!-- Title -->
 
 # osu!mania
-
-<!-- Uncomment the below and delete this comment if ScoreV2 is official and the whole page must be revised to fit ScoreV2 system behaviour -->
-<!-- **[Click here to visit the older version of osu!mania using deprecated ScoreV1 system](./v1 "osu!mania v1")** -->
 
 ![Gameplay of osu!mania][osu!mania Interface image]
 

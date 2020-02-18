@@ -19,9 +19,9 @@ The prizes are handed out in the form of **points**; every 48 points can be rede
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 96 points, profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 48 points |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 24 points |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 96 points, profile badge |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 48 points |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 24 points |
 | *4th place* | 12 points |
 
 ## Organisation
@@ -29,13 +29,13 @@ The prizes are handed out in the form of **points**; every 48 points can be rede
 | Position | Member(s) |
 | :-- | :-- |
 | Host  | ![][flag_SI] [Redavor](https://osu.ppy.sh/users/3328606 "Redavor") |
-| Admins | ![][flag_SI] [DomenBzo](https://osu.ppy.sh/users/3450825 "DomenBzo"), ![][flag_SI] [kristi71111](https://osu.ppy.sh/users/3826105 "kristi71111"), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823 "oralekin") |
-| Moderators | ![][flag_NL] [Godot](https://osu.ppy.sh/users/6466477 "Godot"), ![][flag_DE] [Niegth](https://osu.ppy.sh/users/1991114 "Niegth"), ![][flag_US] [You Watanabe](https://osu.ppy.sh/users/3188911 "You Watanabe") |
-| Map Selectors | ![][flag_TH] [GuChangeDeWorld](https://osu.ppy.sh/users/7125579 "GuChangeDeWorld"), ![][flag_US] [Joezapy](https://osu.ppy.sh/users/6725659 "Joezapy"), ![][flag_CA] [Meow-Mix](https://osu.ppy.sh/users/3021634 "Meow Mix") |
-| Graphic Designer | ![][flag_MY] [Xeious](https://osu.ppy.sh/users/5357146 "Xeious") |
-| Streamers | ![][flag_US] [\_p0ke\_](https://osu.ppy.sh/users/5434711 "\_p0ke\_"), ![][flag_SE] [BeatingHeart](https://osu.ppy.sh/users/4586549 "BeatingHeart"), ![][flag_PL] [Dabis](https://osu.ppy.sh/users/509575 "Dabis"), ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850 "Lefafel"), ![][flag_NL] [Mirai Subject](https://osu.ppy.sh/users/5639709 "Mirai Subject"), ![][flag_GB] [OzzyOzborne](https://osu.ppy.sh/users/5377173), ![][flag_RU] [Willjoy](https://osu.ppy.sh/users/2484373) |
-| Commentators | ![][flag_SG] [Anfang](https://osu.ppy.sh/users/9424243 "Anfang"), ![][flag_SE] [ErroTheCube](https://osu.ppy.sh/users/4425262 "ErroTheCube"), ![][flag_MY] [Espalza](https://osu.ppy.sh/users/8355574 "Espalza"), ![][flag_AU] [Grassy](https://osu.ppy.sh/users/8067959 "Grassy"), ![][flag_AT] [GumalaOC](https://osu.ppy.sh/users/5367718 "GumalaOC"), ![][flag_PH] [kristoffer09](https://osu.ppy.sh/users/3474344 "kristoffer09"), ![][flag_PH] [SilentVoice](https://osu.ppy.sh/users/9570552 "SilentVoice"), ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946 "woahsia") |
-| Referees | ![][flag_PH] [Deadpulse](https://osu.ppy.sh/users/8575527 "Deadpulse"), ![][flag_DE] [DungeonFace](https://osu.ppy.sh/users/1991031 "DungeonFace"), ![][flag_US] [Elcheer](https://osu.ppy.sh/users/4420014 "Elcheer"), ![][flag_PL] [HAEN24](https://osu.ppy.sh/users/4390077 "HAEN24"), ![][flag_SG] [Kumabread](https://osu.ppy.sh/users/7210491 "Kumabread"), ![][flag_PL] [MagBlood](https://osu.ppy.sh/users/6178640 "MagBlood"), ![][flag_RU] [NikerVM](https://osu.ppy.sh/users/3618495 "NikerVM"), ![][flag_RU] [Soquire](https://osu.ppy.sh/users/3618495 "Soquire"), ![][flag_GB] [Stedoss](https://osu.ppy.sh/users/8331546 "Stedoss"), ![][flag_US] [YoshiLover456](https://osu.ppy.sh/users/6843383 "YoshiLover456") |
+| Admin | ![][flag_SI] [DomenBzo](https://osu.ppy.sh/users/3450825 "DomenBzo"), ![][flag_SI] [kristi71111](https://osu.ppy.sh/users/3826105 "kristi71111"), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823 "oralekin") |
+| Moderator | ![][flag_NL] [Godot](https://osu.ppy.sh/users/6466477 "Godot"), ![][flag_DE] [Niegth](https://osu.ppy.sh/users/1991114 "Niegth"), ![][flag_US] [You Watanabe](https://osu.ppy.sh/users/3188911 "You Watanabe") |
+| Map Selector | ![][flag_TH] [GuChangeDeWorld](https://osu.ppy.sh/users/7125579 "GuChangeDeWorld"), ![][flag_US] [Joezapy](https://osu.ppy.sh/users/6725659 "Joezapy"), ![][flag_CA] [Meow-Mix](https://osu.ppy.sh/users/3021634 "Meow Mix") |
+| Designer | ![][flag_MY] [Xeious](https://osu.ppy.sh/users/5357146 "Xeious") |
+| Streamer | ![][flag_US] [\_p0ke\_](https://osu.ppy.sh/users/5434711 "\_p0ke\_"), ![][flag_SE] [BeatingHeart](https://osu.ppy.sh/users/4586549 "BeatingHeart"), ![][flag_PL] [Dabis](https://osu.ppy.sh/users/509575 "Dabis"), ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850 "Lefafel"), ![][flag_NL] [Mirai Subject](https://osu.ppy.sh/users/5639709 "Mirai Subject"), ![][flag_GB] [OzzyOzborne](https://osu.ppy.sh/users/5377173), ![][flag_RU] [Willjoy](https://osu.ppy.sh/users/2484373) |
+| Commentator | ![][flag_SG] [Anfang](https://osu.ppy.sh/users/9424243 "Anfang"), ![][flag_SE] [ErroTheCube](https://osu.ppy.sh/users/4425262 "ErroTheCube"), ![][flag_MY] [Espalza](https://osu.ppy.sh/users/8355574 "Espalza"), ![][flag_AU] [Grassy](https://osu.ppy.sh/users/8067959 "Grassy"), ![][flag_AT] [GumalaOC](https://osu.ppy.sh/users/5367718 "GumalaOC"), ![][flag_PH] [kristoffer09](https://osu.ppy.sh/users/3474344 "kristoffer09"), ![][flag_PH] [SilentVoice](https://osu.ppy.sh/users/9570552 "SilentVoice"), ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946 "woahsia") |
+| Referee | ![][flag_PH] [Deadpulse](https://osu.ppy.sh/users/8575527 "Deadpulse"), ![][flag_DE] [DungeonFace](https://osu.ppy.sh/users/1991031 "DungeonFace"), ![][flag_US] [Elcheer](https://osu.ppy.sh/users/4420014 "Elcheer"), ![][flag_PL] [HAEN24](https://osu.ppy.sh/users/4390077 "HAEN24"), ![][flag_SG] [Kumabread](https://osu.ppy.sh/users/7210491 "Kumabread"), ![][flag_PL] [MagBlood](https://osu.ppy.sh/users/6178640 "MagBlood"), ![][flag_RU] [NikerVM](https://osu.ppy.sh/users/3618495 "NikerVM"), ![][flag_RU] [Soquire](https://osu.ppy.sh/users/3618495 "Soquire"), ![][flag_GB] [Stedoss](https://osu.ppy.sh/users/8331546 "Stedoss"), ![][flag_US] [YoshiLover456](https://osu.ppy.sh/users/6843383 "YoshiLover456") |
 
 ### Predictions
 
@@ -43,9 +43,9 @@ Anyone was allowed to predict the outcome of the tournament until the starting d
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 24 points |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 12 Points |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 6 Points |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 24 points |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 12 Points |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 6 Points |
 | *4th place* | 3 Points |
 
 ![][flag_GB] [Olii](https://osu.ppy.sh/users/7683305 "Olii") won the predictions, with ![][flag_SI] [Redavor](https://osu.ppy.sh/users/3328606 "Redavor") in second place, and ![][flag_PL] [Malson](https://osu.ppy.sh/users/6047395 "Malson") in third place.
@@ -95,9 +95,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Participant |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_US] [Prosdokies](https://osu.ppy.sh/users/3852436) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_RU] [Essi](https://osu.ppy.sh//users/8660244) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_RU] [KoloMl](https://osu.ppy.sh/users/6544403)  |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] [Prosdokies](https://osu.ppy.sh/users/3852436) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_RU] [Essi](https://osu.ppy.sh//users/8660244) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_RU] [KoloMl](https://osu.ppy.sh/users/6544403)  |
 
 ------------------------
 
