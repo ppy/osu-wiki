@@ -17,7 +17,7 @@ Abbreviations for user groups are used throughout this log:
 #### Additions
 
 - 2020-01-01: Added [\_DUSK\_](https://osu.ppy.sh/users/6092181) to **Probationary BN**
-- 2020-01-06: Added [Volta](https://osu.ppy.sh/users/4154071) to **Probationary BN**
+- 2020-01-06: Added [Vulkin](https://osu.ppy.sh/users/4901066) to **Probationary BN**
 - 2020-01-06: Added [Hoshikuz](https://osu.ppy.sh/users/9892196) to **Probationary BN**
 - 2020-01-07: Added [Lacrima](https://osu.ppy.sh/users/4915649) to **Probationary BN**
 - 2020-01-10: Added [incandescence](https://osu.ppy.sh/users/6256027) to **Probationary BN**
