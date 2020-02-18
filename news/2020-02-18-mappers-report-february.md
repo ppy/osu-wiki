@@ -6,7 +6,7 @@ date: 2020-02-20 20:00:00 +0000
 
 A new shiny news post was spotted at the horizon and coming to you now every month. It’s the **Mappers’ Report**! This news post series will inform you monthly about happenings within the osu! mapping scene.
 
-![mappers_report_banner](wiki/shared/news/2020-02-18-mappers-report/the_mappers_report.jpg)
+![mappers_report_banner](/wiki/shared/news/2020-02-18-mappers-report/the_mappers_report.jpg)
 
 Some of you may remember the old [QAT Gazette](https://osu.ppy.sh/help/wiki/Quality_Assurance_Team_Blog) articles. This will be something similar, yet different. The Mappers’ Report news posts will keep you up to date with Ranking Criteria changes, NAT meetings and team movements. Additionally we will include mapping related wiki changes. 
 We even have something new in the works! The “Mapper Showcase” will be a section where each month we write about one mapper who deserves more attention. A mapper can be featured because of some unique mapping style, amazing storyboards or even just outstanding hitsounding. And don’t worry, the game mode will switch every month. No one will be left out!
