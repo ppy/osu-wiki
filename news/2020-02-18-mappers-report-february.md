@@ -6,7 +6,7 @@ date: 2020-02-20 20:00:00 +0000
 
 A new shiny news post was spotted at the horizon and coming to you now every month. It’s the **Mappers’ Report**! This news post series will inform you monthly about happenings within the osu! mapping scene.
 
-![](wiki/shared/news/2020-02-18-mappers-report/the_mappers_report.jpg)
+![mappers_report_banner](wiki/shared/news/2020-02-18-mappers-report/the_mappers_report.jpg)
 
 Some of you may remember the old [QAT Gazette](https://osu.ppy.sh/help/wiki/Quality_Assurance_Team_Blog) articles. This will be something similar, yet different. The Mappers’ Report news posts will keep you up to date with Ranking Criteria changes, NAT meetings and team movements. Additionally we will include mapping related wiki changes. 
 We even have something new in the works! The “Mapper Showcase” will be a section where each month we write about one mapper who deserves more attention. A mapper can be featured because of some unique mapping style, amazing storyboards or even just outstanding hitsounding. And don’t worry, the game mode will switch every month. No one will be left out!
@@ -14,14 +14,14 @@ We even have something new in the works! The “Mapper Showcase” will be a sec
 With that being said, let’s begin right away with the news!
 
 This month's issue of the Mappers’ Report contains following topics:
--[**Ranking Criteria Changes**](#rc-changes)
--[**NAT Meetings**](#natmeetings)
--[**Within the Beatmap Nominators and NAT**](#withinbnnat)
--[**Mapping Contests**](#contests)
--[**Summary**](#summary)
+- [**Ranking Criteria Changes**](#rcchanges)
+- [**NAT Meetings**](#natmeetings)
+- [**Within the Beatmap Nominators and NAT**](#withinbnnat)
+- [**Mapping Contests**](#mapping_contests)
+- [**Summary**](#summary)
 
 
-##  <a id=”rc-changes”></a>Ranking Criteria Changes
+## <a id="rcchanges"></a>Ranking Criteria Changes
 
 With a new month brings a new avalanche of updates to the Ranking Criteria (RC). These past two months were especially productive with the implementation of rules!
 
@@ -56,7 +56,7 @@ The previous guidelines in Easy and Normal that "A long note cannot be released 
 
 
 
-## <a id=”natmeetings”></a>NAT Meetings
+## <a id="natmeetings"></a>NAT Meetings
 
 The past 2 months have been filled with public meetings organized by the NAT, aimed at improving the ranking system based on community input. A wide range of topics such as BN/NAT activity requirements and improving the transparency of the application process to the two groups has been covered so far, and there is more to come! If you wish to participate in future meetings, join the [osu!dev discord server](https://discord.gg/ppy) and go through the verification process.
 
@@ -84,36 +84,36 @@ The first point the meeting discussed was the activity threshold which is requir
 Last but not least, Beatmap Nominators will also be judged by the map quality of their nominations. This is to ensure a fair evaluation. Beatmap Nominators could have a high nomination count, but all maps could be of low quality. To ensure this does not happen the NAT will judge the quality of the nominations. 
 
 
-## <a id=”withinbnnat”></a>Within the Beatmap Nominators and NAT
+## <a id="withinbnnat"></a>Within the Beatmap Nominators and NAT
 
 ### BN Additions
 
 Within the last few months we’ve had the chance to say hello to a lot of new members to the Beatmap Nominators, especially from the osu!taiko side of things! We’re very glad to have all these people on board whether they are new to the group or are returning veterans. We look forward to their help with pushing content to the Ranked section. As this is the first newspost, we will list all nominator additions for 2020 so far.
 
-osu!
-[celerih](https://osu.ppy.sh/users/4696296)
-	[SMOKELIND](https://osu.ppy.sh/users/9327302)
-[Stack](https://osu.ppy.sh/users/6122935)
+**In osu!:** 
+[celerih](https://osu.ppy.sh/users/4696296), 
+[SMOKELIND](https://osu.ppy.sh/users/9327302) & 
+[Stack](https://osu.ppy.sh/users/6122935).
 
-osu!taiko
-[\_DUSK\_](https://osu.ppy.sh/users/6092181)
-[Capu](https://osu.ppy.sh/users/2474015)
-[Gamelan4](https://osu.ppy.sh/users/9856910)
-[Hoshikuz](https://osu.ppy.sh/users/9892196)
-[incandescence](https://osu.ppy.sh/users/6256027)
-[kanpakyin](https://osu.ppy.sh/users/394326)
-[Stefan](https://osu.ppy.sh/users/626907)
-[Vulkin](https://osu.ppy.sh/users/4901066)
-	[Yales](https://osu.ppy.sh/users/2377881)
+**In osu!taiko:** 
+[\_DUSK\_](https://osu.ppy.sh/users/6092181), 
+[Capu](https://osu.ppy.sh/users/2474015), 
+[Gamelan4](https://osu.ppy.sh/users/9856910), 
+[Hoshikuz](https://osu.ppy.sh/users/9892196), 
+[incandescence](https://osu.ppy.sh/users/6256027), 
+[kanpakyin](https://osu.ppy.sh/users/394326), 
+[Stefan](https://osu.ppy.sh/users/626907), 
+[Vulkin](https://osu.ppy.sh/users/4901066) & 
+[Yales](https://osu.ppy.sh/users/2377881).
 
-osu!catch
-	[Lacrima](https://osu.ppy.sh/users/4915649)
-[Dapuluous](https://osu.ppy.sh/users/8140944)
+**In osu!catch:** 
+[Lacrima](https://osu.ppy.sh/users/4915649) & 
+[Dapuluous](https://osu.ppy.sh/users/8140944).
 
-osu!mania
-	[Voxa](https://osu.ppy.sh/users/9229539)
-[Dubstek](https://osu.ppy.sh/users/9555243)
-[UnluckyCroco](https://osu.ppy.sh/users/9461160)
+**In osu!mania:** 
+[Voxa](https://osu.ppy.sh/users/9229539), 
+[Dubstek](https://osu.ppy.sh/users/9555243), 
+[UnluckyCroco](https://osu.ppy.sh/users/9461160) & 
 [Amiichii](https://osu.ppy.sh/users/9228569)
 
 We’d like to use this section as a reminder that you can apply at any time over at https://bn.mappersguild.com/ as long as you reach the activity requirements. We hope to see some of your names in this list next month!
@@ -123,21 +123,21 @@ We’d like to use this section as a reminder that you can apply at any time ove
 
 Next we have those who have taken their leave from the group. We’d like to thank them for their tremendous work and effort within the BNs and wish them the best with their newly obtained freedom!
 
-osu!
-[Trynna](https://osu.ppy.sh/users/2652951)
+**In osu!:** 
+[Trynna](https://osu.ppy.sh/users/2652951).
 
-osu!taiko
-[qoot8123](https://osu.ppy.sh/users/766371)
+**osu!taiko:** 
+[qoot8123](https://osu.ppy.sh/users/766371).
 
-osu!catch
-[Sanyi](https://osu.ppy.sh/users/7496029)
-[Du5t](https://osu.ppy.sh/users/6053071)
-[Rocma](https://osu.ppy.sh/users/566276)
+**In osu!catch:** 
+[Sanyi](https://osu.ppy.sh/users/7496029), 
+[Du5t](https://osu.ppy.sh/users/6053071) & 
+[Rocma](https://osu.ppy.sh/users/566276).
 
-osu!mania
-	[Tailsdk](https://osu.ppy.sh/users/6751666) 
-	[Critical_Star](https://osu.ppy.sh/users/3793196)
-[Kyousukee](https://osu.ppy.sh/users/8842107) 
+**In osu!mania:** 
+[Tailsdk](https://osu.ppy.sh/users/6751666), 
+[Critical_Star](https://osu.ppy.sh/users/3793196) & 
+[Kyousukee](https://osu.ppy.sh/users/8842107).
 
 
 ### NAT Additions
@@ -150,7 +150,7 @@ The first addition we got on the 6h January with **[yaspo](https://osu.ppy.sh/us
 
 Our second addition we got on the 26th January is **[Greaper](https://osu.ppy.sh/users/2369776)**! With being previously a Beatmap Nominator for almost 4 months, he will now support the NAT for the osu!catch game mode. He will mainly focus on doing BN evaluations and applications and make sure, the Beatmap Nominator group will grow properly for osu!catch! So welcome aboard Greaper!
 
-## <a id=”contests”></a>Mapping Contests
+## <a id="mapping_contests"></a>Mapping Contests
 
 If you are organizing a mapping contest that will begin within the next 1-3 months, feel free to submit it to [this form](https://docs.google.com/forms/d/e/1FAIpQLSeVPi2KkcWiEsJzsEs1ir79HrP2jE_Sy2DCX_4nR_EECFTX4Q/viewform?usp=sf_link) for a chance of being featured on next month’s installment of the Mappers’ Report. We are looking to highlight more mapping contests from the community!
 
