@@ -12,7 +12,7 @@
 
 ![](img/bss_submitting.png "谱面提交系统上传时的截图")
 
-点击`上传新的地图！`或`更新地图！`按钮后，用户可以选择将他们上传的谱面标记为`Work In Progress/Help`或`Pending Beatmaps`。标记为 WIP 的谱面不能改变排名状态，但 pending 的谱面可以。
+点击`上传新的地图！`或`更新地图！`按钮后，用户可以选择将他们上传的谱面标记为 `Work In Progress/Help` 或 `Pending Beatmaps`。标记为 WIP 的谱面不能改变排名状态，但 pending 的谱面可以。
 
 `作者的话`部分可以输入在谱面介绍页上显示的描述，其支持使用 [BBCode](/wiki/BBCode) 格式。
 
