@@ -74,6 +74,7 @@ Mappools will be announced one week prior to the start of each stage of the tour
    - **If a rematch happens, the roster for each team during that particular beatmap must remain the same. If that is not possible (the player who got disconnected can't get back in time) then both teams are allowed to swap rosters.**
 10. Beatmaps cannot be reused in the same match unless the game was nullified.
 11. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes.
+    - If a team having the minimum required players online only presents 4 players in the lobby after the scheduled start time, they will forfeit their warmup.
 12. Exchanging players during a match is allowed without limitations.
 13. Lag is not a valid reason to nullify a beatmap.
 14. All players are supposed to keep the match running fluent and without delays. Excessive match delays coming from the player's side can be issued with penalties.
@@ -150,7 +151,8 @@ Mappools will be announced one week prior to the start of each stage of the tour
    - The loser of the !roll starts banning one beatmap, followed by the winner of the !roll to ban a beatmap.
 6. Captains may pick freely from any bracket.
    - In case of a tie, the tiebreaker map must be played.
-7. Results of the Group Stage will be published via a Statistics sheet.
+7. Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready.
+8. Results of the Group Stage will be published via a Statistics sheet.
 
 ### Mappool instructions
 
@@ -161,10 +163,10 @@ Mappools will be announced one week prior to the start of each stage of the tour
 5. The NoMod bracket will be played with no mods activated.
 6. The Hidden, HardRock and DoubleTime bracket will be played with the respective mods activated.
 7. The FreeMod bracket will have FreeMod activated. Every individual player can pick Hidden, HardRock or both.
-   - When playing a FreeMod map, at least 1 player of each team must have at least one mode activated.
-   - Players **must** select different mod combinations, both players using Hidden, HardRock or Hidden+HardRock is disallowed.
+   - When playing a FreeMod map, at least 1 player of each team must have at least one mod activated.
+   - Players **must** select different mod combinations. Both players using only Hidden, only HardRock or Hidden+HardRock is disallowed.
 8. The tiebreaker will be played under FreeMod conditions.
-   - When playing the tiebreaker, no one needs to have a mode activated.
+   - When playing the tiebreaker, no one needs to have a mod activated.
 9. The size of the NoMod bracket will be 4 in Group Stage, 5 in Round of 16 and Quarterfinals and 6 for Semifinals, Finals and Grand Finals.
 10. The size of the [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers) brackets will be 2 in all stages.
 11. The size of the FreeMod brackets will be 3 in all stages.
