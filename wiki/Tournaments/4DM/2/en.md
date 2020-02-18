@@ -33,7 +33,7 @@ The **4 Digit osu!mania World Cup 2** (***4DM2***) is a worldwide country-based 
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 2 months of osu!supporter tag for each team member |
 | *4th-8th place* | 1 month of osu!supporter tag for each team member |
 
-![4DM2 winner badge](img/badge.png "4DM2 Winner Badge")
+![](img/badge.png "4DM2 winner badge")
 
 ## Organisation
 
