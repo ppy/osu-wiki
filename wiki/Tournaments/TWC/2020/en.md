@@ -74,7 +74,7 @@ Mappools will be announced one week prior to the start of each stage of the tour
    - **If a rematch happens, the roster for each team during that particular beatmap must remain the same. If that is not possible (the player who got disconnected can't get back in time) then both teams are allowed to swap rosters.**
 10. Beatmaps cannot be reused in the same match unless the game was nullified.
 11. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes.
-    - If a team having the minimum required players online only presents 4 players in the lobby after the scheduled start time, they will forfeit their warmup.
+    - If a team having the minimum required players online only presents 2 players in the lobby after the scheduled start time, they will forfeit their warmup.
 12. Exchanging players during a match is allowed without limitations.
 13. Lag is not a valid reason to nullify a beatmap.
 14. All players are supposed to keep the match running fluent and without delays. Excessive match delays coming from the player's side can be issued with penalties.
