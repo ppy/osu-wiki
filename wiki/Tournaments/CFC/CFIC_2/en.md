@@ -95,6 +95,20 @@ The Catch French Intermediate Cup 2 is run by various community members.
 - Tiebreaker
   - **[Kalafina - heavenly blue (Nelly) \[Gloria\]](https://osu.ppy.sh/beatmapsets/662744#fruits/1402831)**
 
+### Qualifiers
+
+**[Download the mappack here! (25 MB)](https://mega.nz/#!0l033KpC!lAumo6lxhaOgo43vfGx3CmPU7GnAXyBf1IRnWq2-JRM)**
+
+- NoMod
+  - [Grand Thaw - AltMirrorBell (Deif) \[Rain\]](https://osu.ppy.sh/beatmapsets/959843#fruits/2177808)
+  - [Police Piccadilly feat. Hatsune Miku - Kire Carry On (Sinnoh) \[girl that violently kills with a chainsaw\]](https://osu.ppy.sh/beatmapsets/824959#fruits/1728720)
+- Hidden
+  - [joji - WORLD$TAR MONEY (Robin Remix) (-Ken) \[don't hate me\]](https://osu.ppy.sh/beatmapsets/783726#fruits/1645704)
+- HardRock
+  - [Sato Hitomi - Futaba Town (Hiru) (Daletto) \[wonjae's Platter\]](https://osu.ppy.sh/beatmapsets/988577#fruits/2068773)
+- DoubleTime
+  - [TiA - Ryuusei (Dangaard) \[Hard\]](https://osu.ppy.sh/beatmapsets/10960#fruits/42241)
+
 ## Ruleset
 
 ### General rules
@@ -124,7 +138,7 @@ The Catch French Intermediate Cup 2 is run by various community members.
 3. Semifinals: Best of 11 (first to 6 points)
 4. **Finals and Grand Finals**: Best of 13 (first to 7 points)
 
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TN]: /wiki/shared/flag/TN.gif
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"
