@@ -47,13 +47,10 @@ A description has been added to the rule “A beatmapset's custom difficulty nam
 ### osu!mania
 
 - [**Hitsound Additions Requirements**](https://osu.ppy.sh/help/wiki/Ranking_Criteria#rules.4): Following this change, osu!mania beatmapsets containing only difficulties of Insane or above do not require hitsound additions. 
-
 - [**Difficulty name requirements**](https://osu.ppy.sh/help/wiki/Ranking_Criteria/osu!mania#rules):
 A new specification has been added that sets with a single key mode must not use the key mode in the difficulty name.
-
 - [**Long note changes in Easy and Normal**](https://osu.ppy.sh/help/wiki/Ranking_Criteria/osu!mania#-easy):
 The previous guidelines in Easy and Normal that "A long note cannot be released during another long note's body" have been removed. They have been replaced with "long note releases should be at least 1/1 beat from each other" for Easy difficulties and "long note releases should be at least 1/2 beat from each other" for Normal difficulties.
-
 
 
 ## <a id="natmeetings"></a>NAT Meetings
@@ -67,7 +64,6 @@ Upcoming meetings will be announced with a specific time and agenda in the #modd
 The most important information which was discussed during this meeting was the addition of new NAT and its team size. The NAT wiki article has also been updated to include relevant information such as how the team size of the NAT depends on what is needed and in what work fields. If more help in one work field is required, a new NAT will be considered. 
 
 ### [Jan 18th, 2020 - Application Evaluation](https://osu.ppy.sh/community/forums/topics/1012519)
-
 
 The BN application mod requirements have been made more clear, and the BN website also received several improvements, the biggest one being a “Would you nominate this map. If not, why?” checkbox on the application form. It vastly improves the fair evaluation system.
 
@@ -142,13 +138,12 @@ Next, we have those who have taken their leave from the group. We’d like to th
 
 ### NAT Additions
 
-
 In addition to the recently added BNs, some new NAT members have been brought on! 
 
 The first addition we got on the 6h January was **[yaspo](https://osu.ppy.sh/users/4945926)** who served as a Beatmap Nominator for roughly over a year, he will now support the NAT for the osu! game mode. He will mainly help with BN evaluations and applications. He has also shown his skills in leading the NAT meetings already! Welcome aboard, yaspo!
 
-
 Our second addition we got on the 26th January is **[Greaper](https://osu.ppy.sh/users/2369776)**! With being previously a Beatmap Nominator for almost 4 months, he will now support the NAT for the osu!catch game mode. He will mainly focus on doing BN evaluations and applications and make sure, the Beatmap Nominator group will grow properly for osu!catch! So welcome aboard Greaper!
+
 
 ## <a id="mapping_contests"></a>Mapping Contests
 
@@ -162,11 +157,9 @@ This month’s installment of the Monthly Beatmapping Contest (MBC) has arrived!
 
 For the avid fruit catchers of the world, the 6th osu!Mapping Olympiad has shown itself, a great opportunity to flex your fruit placing muscles! This osu!catch contest requires you to map 2 difficulties for MYLK’s Waffle Wave track. Head on over to the [contest listing](https://osu.ppy.sh/home/news/2020-02-15-osu-mapping-olympiad-6-catch) for all the details! As this is an olympiad the winner of the tournament will be given the title of Elite Mapper. Good luck to all of those participating, you have until March 13th to submit your fruity feasts.
 
-
 ### Newspaper Cup
 
 The fantastic Chinese community organized tournament **Newspaper Cup** has made its yearly appearance and has now begun! This will be the contest’s 6th yearly installment, making it one of the longest standing community organized mapping contests. All of the relevant information can be found [in this forum post](https://osu.ppy.sh/community/forums/topics/1023671) in both Chinese and English. You have until **March 15th** to submit your entries for one or more of the 4 available songs. Good luck to those planning on entering their creations into the contest!
-
 
 
 ## <a id=”summary”></a>Summary
