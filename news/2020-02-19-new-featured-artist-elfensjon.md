@@ -8,7 +8,7 @@ date: 2020-02-19 06:00:00 +0000
 
 ![](https://assets.ppy.sh/artists/69/header.jpg)
 
-Referred to us by the wonderful people of *Undead Corporation*, **ELFENSJóN** is a Japanese production group featuring a wicked fusion of dark fantasy and rock themes, all underpinned with a variety of vocal excellence.
+Referred to us by the wonderful people of *UNDEAD CORPORATION*, **ELFENSJóN** is a Japanese production group featuring a wicked fusion of dark fantasy and rock themes, all underpinned with a variety of vocal excellence.
 
 We've pulled a choice selection from their two major albums, *ASH OF ROUGE* (both the *Elisia* and *Astral* sides) and *EINHERJAR*, a name that might sound slightly familiar to anyone who's been keeping tabs on a certain minty confectionary as of late.
 
