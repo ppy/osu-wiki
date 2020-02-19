@@ -6,9 +6,9 @@ date: 2020-02-20 20:00:00 +0000
 
 A new shiny news post was spotted at the horizon and coming to you now every month. It’s the **Mappers’ Report**! This news post series will inform you monthly about happenings within the osu! mapping scene.
 
-![mappers_report_banner](/wiki/shared/news/2020-02-18-mappers-report/the_mappers_report.jpg)
+![](/wiki/shared/news/2020-02-18-mappers-report/the_mappers_report.jpg)
 
-Some of you may remember the old [QAT Gazette](https://osu.ppy.sh/help/wiki/Quality_Assurance_Team_Blog) articles. This will be something similar, yet different. The Mappers’ Report news posts will keep you up to date with Ranking Criteria changes, NAT meetings and team movements. Additionally we will include mapping related wiki changes. 
+Some of you may remember the old [QAT Gazette](https://osu.ppy.sh/help/wiki/Quality_Assurance_Team_Blog) articles. This will be something similar, yet different. The Mappers’ Report news posts will keep you up to date with Ranking Criteria changes, NAT meetings, and team movements. Additionally, we will include mapping related wiki changes. 
 We even have something new in the works! The “Mapper Showcase” will be a section where each month we write about one mapper who deserves more attention. A mapper can be featured because of some unique mapping style, amazing storyboards or even just outstanding hitsounding. And don’t worry, the game mode will switch every month. No one will be left out!
 
 With that being said, let’s begin right away with the news!
@@ -23,7 +23,7 @@ This month's issue of the Mappers’ Report contains following topics:
 
 ## <a id="rcchanges"></a>Ranking Criteria Changes
 
-With a new month brings a new avalanche of updates to the Ranking Criteria (RC). These past two months were especially productive with the implementation of rules!
+A new month brings a new avalanche of updates to the Ranking Criteria (RC). These past two months were especially productive with the implementation of rules!
 
 ### General
 
@@ -58,7 +58,7 @@ The previous guidelines in Easy and Normal that "A long note cannot be released 
 
 ## <a id="natmeetings"></a>NAT Meetings
 
-The past 2 months have been filled with public meetings organized by the NAT, aimed at improving the ranking system based on community input. A wide range of topics such as BN/NAT activity requirements and improving the transparency of the application process to the two groups has been covered so far, and there is more to come! If you wish to participate in future meetings, join the [osu!dev discord server](https://discord.gg/ppy) and go through the verification process.
+The past 2 months have been filled with public meetings organized by the NAT, aimed at improving the ranking system based on community input. A wide range of topics such as BN/NAT activity requirements or transparency of the application process for both groups have been covered so far, and there is more to come! If you wish to participate in future meetings, join the [osu!dev discord server](https://discord.gg/ppy) and go through the verification process.
 
 Upcoming meetings will be announced with a specific time and agenda in the #modding channel of the osu!dev Discord server, as well as in an announcement post in the [Mapping Discussion](https://osu.ppy.sh/community/forums/56) forum. The next meeting is scheduled for 1st of March, but the topic and agenda are still being worked on and will be announced soon.	
 
@@ -69,7 +69,7 @@ The most important information which was discussed during this meeting was the a
 ### [Jan 18th, 2020 - Application Evaluation](https://osu.ppy.sh/community/forums/topics/1012519)
 
 
-The BN application mod requirements have been made more clear, and the BN website also received several improvements such. One addition was a “Would you nominate this map, if no why?” checkbox. The modder can explain in this section whether they would nominate the beatmaps which they provided as modding examples. All this information helps the NAT and evaluating BNs to make a fair evaluation of the applicant. 
+The BN application mod requirements have been made more clear, and the BN website also received several improvements, the biggest one being a “Would you nominate this map. If not, why?” checkbox on the application form. It vastly improves the fair evaluation system.
 
 Another important topic was the “taiko care package”. As the name suggests, this was a system implemented in osu!taiko, where so far it has been successful! This program allowed old osu!taiko BNs which left on good terms to rejoin the Beatmap Nominators more easily. The results will be analyzed and we in the NAT hope to implement a similar system for all game modes later this year!
 
@@ -116,17 +116,17 @@ Within the last few months we’ve had the chance to say hello to a lot of new m
 [UnluckyCroco](https://osu.ppy.sh/users/9461160) & 
 [Amiichii](https://osu.ppy.sh/users/9228569)
 
-We’d like to use this section as a reminder that you can apply at any time over at https://bn.mappersguild.com/ as long as you reach the activity requirements. We hope to see some of your names in this list next month!
+We’d like to use this section as a reminder that you can apply as a Beatmap Nominator at any time over at [BN/NAT website](https://bn.mappersguild.com/) as long as you reach the activity requirements. We hope to see some of your names on this list next month!
 
 
 ### BN Retirements
 
-Next we have those who have taken their leave from the group. We’d like to thank them for their tremendous work and effort within the BNs and wish them the best with their newly obtained freedom!
+Next, we have those who have taken their leave from the group. We’d like to thank them for their tremendous work and effort within the BNs and wish them the best with their newly obtained freedom!
 
 **In osu!:** 
 [Trynna](https://osu.ppy.sh/users/2652951)
 
-**osu!taiko:** 
+**In osu!taiko:** 
 [qoot8123](https://osu.ppy.sh/users/766371)
 
 **In osu!catch:** 
@@ -143,16 +143,16 @@ Next we have those who have taken their leave from the group. We’d like to tha
 ### NAT Additions
 
 
-In addition to the new BNs recently added, some new NAT members have been brought on! 
+In addition to the recently added BNs, some new NAT members have been brought on! 
 
-The first addition we got on the 6h January with **[yaspo](https://osu.ppy.sh/users/4945926)**! Being previously roughly over a year a Beatmap Nominator, he will now support the NAT for the osu! game mode. He will mainly help with the BN evaluations and applications. But he has also shown already himself with leading through the NAT meetings! So welcome aboard yaspo!
+The first addition we got on the 6h January was **[yaspo](https://osu.ppy.sh/users/4945926)** who served as a Beatmap Nominator for roughly over a year, he will now support the NAT for the osu! game mode. He will mainly help with BN evaluations and applications. He has also shown his skills in leading the NAT meetings already! Welcome aboard, yaspo!
 
 
 Our second addition we got on the 26th January is **[Greaper](https://osu.ppy.sh/users/2369776)**! With being previously a Beatmap Nominator for almost 4 months, he will now support the NAT for the osu!catch game mode. He will mainly focus on doing BN evaluations and applications and make sure, the Beatmap Nominator group will grow properly for osu!catch! So welcome aboard Greaper!
 
 ## <a id="mapping_contests"></a>Mapping Contests
 
-If you are organizing a mapping contest that will begin within the next 1-3 months, feel free to submit it to [this form](https://docs.google.com/forms/d/e/1FAIpQLSeVPi2KkcWiEsJzsEs1ir79HrP2jE_Sy2DCX_4nR_EECFTX4Q/viewform?usp=sf_link) for a chance of being featured on next month’s installment of the Mappers’ Report. We are looking to highlight more mapping contests from the community!
+If you are organizing a mapping contest that will begin within the next 1-3 months, feel free to submit it through [this form](https://docs.google.com/forms/d/e/1FAIpQLSeVPi2KkcWiEsJzsEs1ir79HrP2jE_Sy2DCX_4nR_EECFTX4Q/viewform?usp=sf_link) for a chance of being featured on next month’s installment of the Mappers’ Report. We are looking to highlight more mapping contests from the community!
 
 ### Monthly Beatmapping Contest: February 2020
 
@@ -171,7 +171,7 @@ The fantastic Chinese community organized tournament **Newspaper Cup** has made 
 
 ## <a id=”summary”></a>Summary
 
-Make sure to tune in to the next NAT Meeting on March 1st in the [osu!dev Discord Server](discord.gg/ppy) and to do your best on all those fantastic mapping contests open to you! Thank you for your time reading this quite hefty article. As this is our first installment of this report any feedback is appreciated as we are still working hard at setting this up. Additionally the next installments should be a bit smaller, as we had a lot to cover this time. We hope the information will prove itself useful to you!
+Make sure to tune in to the next NAT Meeting on March 1st in the [osu!dev Discord Server](discord.gg/ppy) and to do your best on all those fantastic mapping contests open for your submissions! Thank you for your time reading this quite hefty article. As this is our first installment of the Mappers' Report, any feedback is appreciated as we are still working hard at setting this up. Additionally, the next installments should be a bit smaller, as we had a lot to cover this time. We hope the information will prove itself useful to you!
 
 See you next time!
 
