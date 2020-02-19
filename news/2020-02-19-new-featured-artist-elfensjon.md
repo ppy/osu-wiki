@@ -10,13 +10,13 @@ date: 2020-02-19 06:00:00 +0000
 
 Referred to us by the wonderful people of *Undead Corporation*, **ELFENSJóN** is a Japanese production group featuring a wicked fusion of dark fantasy and rock themes, all underpinned with a variety of vocal excellence.
 
-We've pulled a choice selection from their two major albums, *ASH OF ROUGE* (both the *Elisia* and *Astral* sides) and *EINHERJAR*, a name that might sound slightly familiar to anyone who's been keeping tabs on a certain minty confectionary as of late. 
+We've pulled a choice selection from their two major albums, *ASH OF ROUGE* (both the *Elisia* and *Astral* sides) and *EINHERJAR*, a name that might sound slightly familiar to anyone who's been keeping tabs on a certain minty confectionary as of late.
 
 This means there's **15** gripping new tracks to sink your teeth into, plus two new exclusive preview sets from the magnificent mapping marvels of the Mappers' Guild. Check them out:
 
 ### Einherjar
 
-*[Check out this set](https://osu.ppy.sh/beatmapsets/942738#osu/1968674) hosted by [DakiniBrave](https://osu.ppy.sh/users/51744275)!*
+*[Check out this set](https://osu.ppy.sh/beatmapsets/942738) hosted by [DakiniBrave](https://osu.ppy.sh/users/51744275)!*
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/69/previews/1898.mp3" type="audio/mpeg">
@@ -24,7 +24,7 @@ This means there's **15** gripping new tracks to sink your teeth into, plus two 
 
 ### Akayake no Majo
 
-*[Check out this set](https://osu.ppy.sh/beatmapsets/1100484#osu/22991788) hosted by [Icekalt](https://osu.ppy.sh/users/5410645)!*
+*[Check out this set](https://osu.ppy.sh/beatmapsets/1100484) hosted by [Icekalt](https://osu.ppy.sh/users/5410645)!*
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/69/previews/1908.mp3" type="audio/mpeg">
@@ -32,7 +32,7 @@ This means there's **15** gripping new tracks to sink your teeth into, plus two 
 
 ### Shiroki Yume wa Madara ni
 
-*[Check out this set](https://osu.ppy.sh/beatmapsets/1083468#osu/2266069) hosted by [Nao Tomori](https://osu.ppy.sh/users/5364763)!*
+*[Check out this set](https://osu.ppy.sh/beatmapsets/1083468) hosted by [Nao Tomori](https://osu.ppy.sh/users/5364763)!*
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/69/previews/1911.mp3" type="audio/mpeg">
@@ -58,6 +58,6 @@ Twitter user Silentti031 was the only person to prove their intellectual mettle 
 
 We're STILL doing this weekly release thing and we're probably getting very close to a full year of it pretty much non-stop. Not only are we nearing over two thousand tracks, but *ASH OF ROUGE* also highlights album number two hundred entered into the Featured Artist system. Spicy.
 
-Check back next week for yet ANOTHER release, and sneak a peek at the [@osugame Twitter](https://twitter.com/osugame) mid-way through next week to get a bit of a hint towards the next one, if that's your kind of thing. 
+Check back next week for yet ANOTHER release, and sneak a peek at the [@osugame Twitter](https://twitter.com/osugame) mid-way through next week to get a bit of a hint towards the next one, if that's your kind of thing.
 
 —Ephemeral
