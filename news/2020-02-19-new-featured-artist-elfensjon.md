@@ -56,7 +56,7 @@ The gates to Valhalla have been thrown wide open, and a bunch more bardic master
 
 Twitter user Silentti031 was the only person to prove their intellectual mettle this time around for a decidedly more tricky hint. Congratulations! For those wondering what the hint actually was, *einherjar* loosely translates to "those who fight alone" in Old Norse. Picking that up would've given you the word to start with, and with chocomint's latest play on the same map by DakiniBrave only a few days old, we figured more people would draw the dots. Better luck next time!
 
-We're STILL doing this weekly release thing and we're probably getting very close to a full year of it pretty much non-stop. Not only are we nearing over two thousand tracks, but *ASH OF ROUGE* also highlights album number two hundred entered into the Featured Artist system. Spicy.
+We're STILL doing this weekly release thing and we're probably getting very close to a full year of it pretty much non-stop. Not only are we nearing over two thousand tracks, *ASH OF ROUGE* also highlights album number two hundred entered into the Featured Artist system. Spicy.
 
 Check back next week for yet ANOTHER release, and sneak a peek at the [@osugame Twitter](https://twitter.com/osugame) mid-way through next week to get a bit of a hint towards the next one, if that's your kind of thing.
 
