@@ -72,7 +72,7 @@ Another important topic was the “taiko care package”. As the name suggests, 
 ### Feb 1st, 2020 - Progress Report
 
 This meeting has no summary because it was more of a progress report. It looked at the goals of the past meetings and if these were successfully implemented. Most of the goals were reached so the meeting wasn’t very long.
-Another topic was if meetings should be held regularly in future. As long as there are topics which need discussion, the meetings will be held regularly. This should slow down in future, and when it does we will have more progress reports and fewer meetings. 
+Another topic was how frequently meetings should be held and how this would work going forward. As long as there are topics which need discussion, the meetings will be held regularly. This should slow down in future, and when it does we will have more progress reports and fewer meetings. 
 
 ### [Feb 15th, 2020 - Current BN Evaluations](https://osu.ppy.sh/community/forums/topics/1023943)
 
