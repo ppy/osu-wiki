@@ -14,7 +14,7 @@ The **osu!taiko World Cup 2020** (***TWC 2020***) is an upcoming country-based o
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2020-02-06/2020-02-15 |
+| Registration phase | 2020-02-06/2020-02-20 |
 | Live drawings | 2020-02-29 (14:00 UTC+0) |
 | Group Stage | 2020-03-07/2020-03-08 |
 | Round of 16 | 2020-03-14/2020-03-15 |
@@ -38,7 +38,7 @@ The osu!taiko World Cup 2020 is run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| Map selector | ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) |
+| Map selector | ![][flag_AU] [Drum Decimator](https://osu.ppy.sh/users/4841352), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) |
 | Commentator | *to be announced* |
 | Referee | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102) ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
@@ -74,6 +74,7 @@ Mappools will be announced one week prior to the start of each stage of the tour
    - **If a rematch happens, the roster for each team during that particular beatmap must remain the same. If that is not possible (the player who got disconnected can't get back in time) then both teams are allowed to swap rosters.**
 10. Beatmaps cannot be reused in the same match unless the game was nullified.
 11. If less than the minimum required players attend, the maximum time the match can be postponed is 10 minutes.
+    - If a team having the minimum required players online only presents 2 players in the lobby after the scheduled start time, they will forfeit their warmup.
 12. Exchanging players during a match is allowed without limitations.
 13. Lag is not a valid reason to nullify a beatmap.
 14. All players are supposed to keep the match running fluent and without delays. Excessive match delays coming from the player's side can be issued with penalties.
@@ -150,20 +151,22 @@ Mappools will be announced one week prior to the start of each stage of the tour
    - The loser of the !roll starts banning one beatmap, followed by the winner of the !roll to ban a beatmap.
 6. Captains may pick freely from any bracket.
    - In case of a tie, the tiebreaker map must be played.
-7. Results of the Group Stage will be published via a Statistics sheet.
+7. Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready.
+8. Results of the Group Stage will be published via a Statistics sheet.
 
 ### Mappool instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals, 1 mappool for the Finals and 1 mappool for the Grand Finals.
 2. Each mappool consists of 5 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) and FreeMod.
-3. The Group Stage mappool will consist of 14 maps, Round of 16 and Quarterfinals will consist of 15 maps, SemiFinals, Finals and Grand Finals mappool will consist of 16 maps.
+3. The Group Stage mappool will consist of 14 maps, Round of 16 and Quarterfinals will consist of 15 maps, Semifinals, Finals and Grand Finals mappool will consist of 16 maps.
 4. Each mappool has one tiebreaker.
-5. The NoMod bracket will be played with no modes activated.
-6. The Hidden, HardRock and DoubleTime bracket will be played with the respective modes activated.
+5. The NoMod bracket will be played with no mods activated.
+6. The Hidden, HardRock and DoubleTime bracket will be played with the respective mods activated.
 7. The FreeMod bracket will have FreeMod activated. Every individual player can pick Hidden, HardRock or both.
-   - When playing a FreeMod map, at least 1 player of each team must have at least one mode activated.
+   - When playing a FreeMod map, at least 1 player of each team must have at least one mod activated.
+   - Players **must** select different mod combinations. Both players using only Hidden, only HardRock or Hidden+HardRock is disallowed.
 8. The tiebreaker will be played under FreeMod conditions.
-   - When playing the tiebreaker, no one needs to have a mode activated.
+   - When playing the tiebreaker, no one needs to have a mod activated.
 9. The size of the NoMod bracket will be 4 in Group Stage, 5 in Round of 16 and Quarterfinals and 6 for Semifinals, Finals and Grand Finals.
 10. The size of the [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers) brackets will be 2 in all stages.
 11. The size of the FreeMod brackets will be 3 in all stages.
