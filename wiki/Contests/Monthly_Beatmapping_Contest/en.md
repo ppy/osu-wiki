@@ -63,8 +63,8 @@ The Monthly Beatmapping Contest rewards users with points for different types of
 
 MBC points reward users at certain thresholds:
 
-- **Profile badges** are attainable at 3, 6, and 10 points each. The badges are tiered, meaning each new badge will replace the previous one (and they get progressively shinier!).
-- ***Elite Mapper* forum title** is attainable at 10 points.
+- **Profile badges** are attainable at 2, 4, and 6 points each. The badges are tiered, meaning each new badge will replace the previous one (and they get progressively shinier!).
+- ***Elite Mapper* forum title** is attainable at 6 points.
 - One month of **osu!supporter** is rewarded for each point a user earns. This can be used by the winner or gifted to someone else.
 
 Participants who are in the [Mappers' Guild](https://mappersguild.com/) will receive small earnings within the guild for submitting a valid entry (5), screening (1), and voting (1). These values are unrelated to MBC points.
