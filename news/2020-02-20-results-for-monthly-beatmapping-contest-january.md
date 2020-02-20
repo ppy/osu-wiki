@@ -31,7 +31,7 @@ As the contest's runner-up, Moecho earned a month of supporter and is halfway to
 
 **Screening crew's favorite:** [**MYLK - Daydreamer**](https://assets.ppy.sh/contests/84/entries/osz/MYLK%20-%20Daydreamer%20(Warm%20Pronghorn).osz?2020) by [**Altai**](https://osu.ppy.sh/users/5745865)
 
-All MBC submissions are screened by about 10 experienced beatmappers to decide the finalists. This month, more than half of the screening crew placed Altai's submission in their top 5 out of over 100 entries! With a high contrast slider velocity gimmick, this beatmap is an experience like no other entry that didn't quite pull in community votes, but may appeal more to the mapper-audience!
+All MBC submissions are screened by about 10 experienced beatmappers to decide the finalists. This month, more than half of the screening crew placed Altai's submission in their top 5 out of over 100 entries! With a high contrast slider velocity gimmick, this beatmap is an experience like no other. It didn't quite pull in community votes, but may appeal more to the mapper audience!
 
 Like the runner-up, Altai has earned a month of supporter and is halfway to the prize threshold for a profile badge.
 
@@ -47,9 +47,9 @@ MBC points are still distributed to winners: **2** for the community vote winner
 
 - **Profile badge:** badges are attainable at 2, 4, and 6 points each. The badges are tiered, meaning each new badge will replace the previous one (and they get progressively shinier!).
 - **"Elite Mapper" forum title:** attainable at 6 points.
-- **osu!supporter:** each point earned provides a user with a month of supporter for themself or someone of their choosing.
+- **osu!supporter:** each point earned provides a user with a month of supporter for themselves or someone of their choosing.
 
-A points breakdowns for all MBC participants can be found on the [MBC wiki article](/wiki/Contests/Monthly_Beatmapping_Contest#points). 
+A points breakdown for all MBC participants can be found on the [MBC wiki article](/wiki/Contests/Monthly_Beatmapping_Contest#points). 
 
 ---
 
