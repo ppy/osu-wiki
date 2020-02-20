@@ -74,7 +74,7 @@ Participants who are in the [Mappers' Guild](https://mappersguild.com/) will rec
 MBC points of every contest participant are listed below.
 
 | User | Points |
-| :- | :-- |
+| :-- | :-- |
 | ![][flag_DK] [melon boy](https://osu.ppy.sh/users/3053382) | 2 |
 | ![][flag_CN] [Moecho](https://osu.ppy.sh/users/5075660) | 1 |
 | ![][flag_GB] [Altai](https://osu.ppy.sh/users/5745865) | 1 |
