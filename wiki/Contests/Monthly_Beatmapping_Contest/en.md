@@ -50,7 +50,8 @@ Information and results for all iterations of the MBC since its relaunch in 2020
 
 | Contest Listing | Winner | Runner-up | Screening crew's #1 | Results Post |
 | :-- | :-- | :-- | :-- | :-- |
-| [January 2020](https://osu.ppy.sh/community/contests/63) | TBD | TBD | TBD | TBD |
+| [January 2020](https://osu.ppy.sh/community/contests/84) | ![][flag_DK] [melon boy](https://osu.ppy.sh/users/3053382) | ![][flag_CN] [Moecho](https://osu.ppy.sh/users/5075660) | ![][flag_GB] [Altai](https://osu.ppy.sh/users/5745865) | [Results](https://osu.ppy.sh/home/news/2020-02-20-monthly-beatmapping-contest-1-results) |
+| [February 2020](https://osu.ppy.sh/community/contests/89) | TBD | TBD | TBD | TBD |
 
 ## Rewards
 
@@ -62,18 +63,22 @@ The Monthly Beatmapping Contest rewards users with points for different types of
 
 MBC points reward users at certain thresholds:
 
-- **Profile badges** are attainable at 3, 6, and 10 points each. The badges are tiered, meaning each new badge will replace the previous one (and they get progressively shinier!).
-- ***Elite Mapper* forum title** is attainable at 10 points.
+- **Profile badges** are attainable at 2, 4, and 6 points each. The badges are tiered, meaning each new badge will replace the previous one (and they get progressively shinier!).
+- ***Elite Mapper* forum title** is attainable at 6 points.
 - One month of **osu!supporter** is rewarded for each point a user earns. This can be used by the winner or gifted to someone else.
 
 Participants who are in the [Mappers' Guild](https://mappersguild.com/) will receive small earnings within the guild for submitting a valid entry (5), screening (1), and voting (1). These values are unrelated to MBC points.
 
 ### Points
 
-After the conclusion of the first contest, each user's MBC points will be listed in this section.
+MBC points of every contest participant are listed below.
 
-<!--
 | User | Points |
 | :-- | :-- |
-| ![][flag___] [username](https://osu.ppy.sh/users/0) | 0 |
--->
+| ![][flag_DK] [melon boy](https://osu.ppy.sh/users/3053382) | 2 |
+| ![][flag_CN] [Moecho](https://osu.ppy.sh/users/5075660) | 1 |
+| ![][flag_GB] [Altai](https://osu.ppy.sh/users/5745865) | 1 |
+
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
