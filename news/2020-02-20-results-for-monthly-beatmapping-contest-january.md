@@ -20,7 +20,7 @@ Receiving a towering **78** votes, melon boy's submission soared to the top of t
 
 For his reward, melon boy has earned a newly-polished profile badge (design below!) and two months of osu!supporter. See the [**rewards**](#rewards) section for more details.
 
-<div align="center">![MBC winner profile badge: first tier](/wiki/shared/news/2020-02-20-results-for-monthly-beatmapping-contest-january/mbc-badge-1_2x.png)</div>
+<div align="center"><img src="/wiki/shared/news/2020-02-20-results-for-monthly-beatmapping-contest-january/mbc-badge-1_2x.png"/></div>
 
 **Community vote runner-up:** [**MYLK - Waffle Wave**](https://osu.ppy.sh/beatmapsets/1112024#osu/2323356) by [**Moecho**](https://osu.ppy.sh/users/5075660), masked as Imprudent Bunting.
 
