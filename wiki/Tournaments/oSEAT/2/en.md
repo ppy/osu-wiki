@@ -8,7 +8,7 @@ tags:
 
 ![oSEAT2 logo](img/logo.png)
 
-The **osu! South East Asia Tournament 2** (***oSEAT2***) was a South East Asian players' double-elimination one-on-one osu! tournament hosted by ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608), and ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013). This was the second installment of the osu! South East Asia Tournament.
+The **osu! South East Asia Tournament 2** (***oSEAT2***) was a South East Asian players' double-elimination one-on-one osu! tournament hosted by ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608), and ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013). It was the second installment of the osu! South East Asia Tournament.
 
 ## Tournament Schedule
 
@@ -27,7 +27,7 @@ The **osu! South East Asia Tournament 2** (***oSEAT2***) was a South East Asian 
 
 ## Prizes
 
-| Placing | Prize(s) |
+| Placing | Prizes |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 4 months of osu!supporter tag |
