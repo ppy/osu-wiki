@@ -91,7 +91,7 @@ For the record, these include the recent changes made [from the discussion forum
 #### Technical
 
 - **Metadata must be consistent across all difficulties of a beatmapset.**
-- **Guest mappers, storyboarders, skinners and hitsounders must be added to the tags of a beatmapset.** This is to give credit where credit is due and help others identify the main contributors of any given beatmapset. Usernames containing single characters separated by whitespaces must have the whitespaces replaced with underscores.
+- **Guest mappers, storyboarders, skinners and hitsounders must be added to the tags of a beatmapset.** This is to give credit where credit is due and help others identify the main contributors of any given beatmapset. Usernames containing single characters separated by whitespaces must have the whitespaces replaced with underscores. This can be negated if the username(s) are already present in another metadata field, such as the Artist field.
 - **Official Sources must be used as references for metadata unless none are available.** In that case use what is most common and recognizable.
 - **Do not modify the metadata an artist provides on official sources unless said modification is done in order to comply with formatting and standardisation rules on this Ranking Criteria.**
 - **The artists of a song must be traceable to existing people.** If there is no existing person recorded to be the artist, then `Unknown Artist` is to be used. Fictional characters or programs like Vocaloids cannot be used as the sole artist of any given song.
