@@ -7,7 +7,7 @@ tags:
 
 ![SOLMT logo](img/logo.png)
 
-The **Speed of Light Mania Tournament** (***SOLMT***) was a head-to-head (1 vs. 1) double-elimination, country-independent osu!mania 4-key tournament hosted by ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_MX] [Candy](https://osu.ppy.sh/users/3964918), and ![][flag_MX] [demiantorp](https://osu.ppy.sh/users/8291099). It was the first installment of the Speed of Light Mania Tournament.
+The **Speed of Light Mania Tournament** (***SOLMT***) was a head-to-head, one-on-one, double-elimination, country-independent osu!mania 4-key tournament hosted by ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_US] [ZeroRam](https://osu.ppy.sh/users/8454732), ![][flag_MX] [Candy](https://osu.ppy.sh/users/3964918), and ![][flag_MX] [demiantorp](https://osu.ppy.sh/users/8291099). It was the first installment of the Speed of Light Mania Tournament.
 
 ## Tournament schedule
 
