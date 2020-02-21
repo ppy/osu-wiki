@@ -98,11 +98,9 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
-| ![][flag_GB] [\_DUSK\_](https://osu.ppy.sh/users/6092181) | <!-- TODO --> |
 | ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Chinese, Cantonese |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Spanish |
 | ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | <!-- TODO --> |
-| ![][flag_GR] [Genjuro](https://osu.ppy.sh/users/3196091) | <!-- TODO --> |
 | ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | <!-- TODO --> |
 | ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  |
 | ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Thai |
@@ -126,6 +124,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | :-- | :-- |
 | ![][flag_MY] [\_Kobii](https://osu.ppy.sh/users/6209713) | Chinese |
 | ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Chinese |
+| ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | <!-- TODO --> |
 | ![][flag_US] [Kamuy](https://osu.ppy.sh/users/7439226) | some Korean |
 | ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | Korean |
 | ![][flag_AU] [Keiga](https://osu.ppy.sh/users/6866022) | Chinese |
@@ -134,6 +133,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_ID] [Rivals\_7](https://osu.ppy.sh/users/4610379) | Indonesian |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arabic, French |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
+| ![][flag_ID] [Voxa](https://osu.ppy.sh/users/9229539) | <!-- TODO --> |
 
 ### Probationary Beatmap Nominators
 
@@ -177,7 +177,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | :-- | :-- |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | <!-- TODO --> |
 | ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) | <!-- TODO --> |
-| ![][flag_ID] [Voxa](https://osu.ppy.sh/users/9229539) | <!-- TODO --> |
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
