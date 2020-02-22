@@ -70,6 +70,7 @@ The 4 Digit osu!mania World Cup 2 is run by various community members.
 | ![][flag_CA] **Canada** | **[AndyTechGuy](https://osu.ppy.sh/users/10946180)**, [ToaphFanGirl](https://osu.ppy.sh/users/8160564), [Aesis](https://osu.ppy.sh/users/7253252), [jac0b150](https://osu.ppy.sh/users/9160118), [XzVx](https://osu.ppy.sh/users/12286606), [\[Skippy\]](https://osu.ppy.sh/users/9333957) |
 | ![][flag_CL] **Chile** | **[ItzBenja616](https://osu.ppy.sh/users/8538906)**, [NikoSek](https://osu.ppy.sh/users/4088977), [Charliegamer](https://osu.ppy.sh/users/6661676), [George18945](https://osu.ppy.sh/users/10659178) |
 | ![][flag_CN] **China** | **[hans1999](https://osu.ppy.sh/users/6679329)**, [ImmortalphoeniX](https://osu.ppy.sh/users/7080633), [cherrychou](https://osu.ppy.sh/users/7214023), [Fe\_Sanae\_C](https://osu.ppy.sh/users/14675885), [yyjshishuaibi](https://osu.ppy.sh/users/10383569), [Yuki IV](https://osu.ppy.sh/users/10226286) |
+| ![][flag_DO] **Dominical Republic** | **[Antalf](https://osu.ppy.sh/users/8793773)**, [Kaito-kun](https://osu.ppy.sh/users/4715184), [Fortnito](https://osu.ppy.sh/users/9964045) |
 | ![][flag_FI] **Finland** | **[Crazzeh](https://osu.ppy.sh/users/5054154)**, [Fireable](https://osu.ppy.sh/users/12624280), [-Oreo-](https://osu.ppy.sh/users/5099222), [TheTrueXfish](https://osu.ppy.sh/users/12545346), [PianoLuigi](https://osu.ppy.sh/users/9665915), [CunuTriggeredMe](https://osu.ppy.sh/users/3386886) |
 | ![][flag_FR] **France** | **[Adri](https://osu.ppy.sh/users/4579132)**, [ZayyKen](https://osu.ppy.sh/users/8624433), [Kyzoid](https://osu.ppy.sh/users/4089441), [DragonSonic](https://osu.ppy.sh/users/7294830), [Ping36](https://osu.ppy.sh/users/9388217), [JustMan 3](https://osu.ppy.sh/users/9049282) |
 | ![][flag_ID] **Indonesia** | **[LuxSayaka](https://osu.ppy.sh/users/8382579)**, [Fyl](https://osu.ppy.sh/users/10069307), [Artem1s](https://osu.ppy.sh/users/12561379), [\[ID\]Riemann](https://osu.ppy.sh/users/7457688), [2ndlegend](https://osu.ppy.sh/users/7621604), [-ExRazor](https://osu.ppy.sh/users/6807769) |
@@ -77,6 +78,7 @@ The 4 Digit osu!mania World Cup 2 is run by various community members.
 | ![][flag_MY] **Malaysia** | **[kaname-san92](https://osu.ppy.sh/users/764535)**, [Expired112](https://osu.ppy.sh/users/8782656), [Explosive-XII](https://osu.ppy.sh/users/7735071), [col1234](https://osu.ppy.sh/users/13382147), [SoRaKee](https://osu.ppy.sh/users/9452591), [\[MY\]ISPROGILER](https://osu.ppy.sh/users/10911621) |
 | ![][flag_NL] **Netherlands** | **[NightNarumi](https://osu.ppy.sh/users/4381142)**, [samuelhklumpers](https://osu.ppy.sh/users/10945523), [2fast4you98](https://osu.ppy.sh/users/5183940), [DannyPX](https://osu.ppy.sh/users/11253722), [Nebula42](https://osu.ppy.sh/users/10944966), [Penda](https://osu.ppy.sh/users/4268370) |
 | ![][flag_NZ] **New Zealand** | **[Erkfir](https://osu.ppy.sh/users/7756939)**, [NutAndGo](https://osu.ppy.sh/users/7740118), [Sparxe](https://osu.ppy.sh/users/5750235), [WhiteWeebWolf](https://osu.ppy.sh/users/8927299) |
+| ![][flag_PE] **Peru** | **[Sakisagee](https://osu.ppy.sh/users/9938020)**, [FernandoGossow](https://osu.ppy.sh/users/14829591), [UlbertAlain](https://osu.ppy.sh/users/13879951) |
 | ![][flag_PH] **Philippines** | **[windrush123](https://osu.ppy.sh/users/9087181)**, [Shiyui-](https://osu.ppy.sh/users/9374607), [DaMeMeThEiFxD](https://osu.ppy.sh/users/14324153), [Arccat](https://osu.ppy.sh/users/4848294), [Argefangirl](https://osu.ppy.sh/users/13132585), [Vulpsi](https://osu.ppy.sh/users/12584420) |
 | ![][flag_PL] **Poland** | **[Yoshihiro](https://osu.ppy.sh/users/5410692)**, [Eclipse-](https://osu.ppy.sh/users/8493070), [Otis1204](https://osu.ppy.sh/users/11431349), [Cliffy](https://osu.ppy.sh/users/10785634) |
 | ![][flag_RU] **Russian Federation** | **[Lerck](https://osu.ppy.sh/users/10450696)**, [YaLTeR](https://osu.ppy.sh/users/3910006), [FoXCHANNEL](https://osu.ppy.sh/users/8454236), [OneRing](https://osu.ppy.sh/users/5968647), [JeeRay](https://osu.ppy.sh/users/9009071), [TruthIsNear](https://osu.ppy.sh/users/11191093) |
@@ -214,6 +216,7 @@ The 4 Digit osu!mania World Cup 2 is run by various community members.
 [flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DO]: /wiki/shared/flag/DO.gif "Dominican Republic"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
@@ -225,6 +228,7 @@ The 4 Digit osu!mania World Cup 2 is run by various community members.
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
