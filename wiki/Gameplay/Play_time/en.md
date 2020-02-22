@@ -1,7 +1,7 @@
 ---
 tags:
-    - length
-    - playtime
+  - length
+  - playtime
 ---
 
 # Play time
