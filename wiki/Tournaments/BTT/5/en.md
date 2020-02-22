@@ -18,8 +18,8 @@ The **Beginner's Taiko Tournament 5** (***BTT5***) is a worldwide double-elimina
 | Live drawings | 2020-01-19 |
 | Qualifiers | 2020-01-25/2020-01-27 |
 | Group Stage | 2020-01-31/2020-02-02 |
-| Round of 32 | 2020-02-08/2020-02-09 |
-| Round of 16 | 2020-02-15/2020-02-16 |
+| Round of 32 | 2020-02-07/2020-02-09 |
+| Round of 16 | 2020-02-14/2020-02-16 |
 | Quarterfinals | 2020-02-22/2020-02-23 |
 | Semifinals | 2020-02-29/2020-03-01 |
 | Finals | 2020-03-07/2020-03-08 |
@@ -58,6 +58,8 @@ The Beginner's Taiko Tournament 5 is run by various community members.
 - [Challonge brackets](https://challonge.com/BTTS5)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vR6QPdOsvVXvpXcjTrqOvaQESu0LpH3HAd9QxsYMbDa7xAatXc8X3hnmmDZSxfTLtAZz-WArFbTbm8_/pubhtml)**
 
+---
+
 ## Participants
 
 | Seed | Members |
@@ -88,7 +90,35 @@ The Beginner's Taiko Tournament 5 is run by various community members.
 | **OwO** | ![][flag_MY] [squidstain](https://osu.ppy.sh/users/11073207) | ![][flag_DE] [Kirross](https://osu.ppy.sh/users/10893243) | ![][flag_US] [quadrillionaire](https://osu.ppy.sh/users/15139170) | ![][flag_DE] [Fre3Styl3r](https://osu.ppy.sh/users/10177249) |
 | **PP** | ![][flag_DE] [Enohx](https://osu.ppy.sh/users/6375060) | ![][flag_BY] [DrDazzle](https://osu.ppy.sh/users/6216290) | ![][flag_FR] [Aidown](https://osu.ppy.sh/users/1522146) | ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507) |
 
+---
+
 ## Mappools
+
+### Quarterfinals
+
+**[Download the mappack here! (83 MB)](https://mega.nz/#!H6ARHSib!axE0rqbekmpRNHrhjGBUSZ0A8Xv4yLa1QIJNCVnBBPk)**
+
+- NoMod
+  - [Krewella X DISKORD - Beggars (Consouls Remix) (Shadren) \[Remus' Muzukashii\]](https://osu.ppy.sh/beatmapsets/539203#taiko/1231261)
+  - [Camellia - potential curve (Faputa) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/984854#taiko/2065772)
+  - [BilliumMoto - life flashes before weeb eyes (Faputa) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/975435#taiko/2045007)
+  - [FELT - Time and again (Surono) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/772958#taiko/1624756)
+  - [Kyou1110 - Toyosatomimi no heddo fon ni bureikukoa nagashite komaku hakai shi-tai (yea) \[jyake's Muzukashii\]](https://osu.ppy.sh/beatmapsets/610197#taiko/1813700)
+- Hidden
+  - [Chroma - [@\_\_@] (Faputa) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1048153#taiko/2194488)
+  - [xi - Aiolos (Kuo Kyoka) \[1811's Muzukashii\]](https://osu.ppy.sh/beatmapsets/801154#taiko/1681760)
+- HardRock
+  - [Camellia - Towards The Horizon (Fallmorph) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/727084#taiko/1535012)
+  - [TAMUSIC - Shitai Ryokou (Greenshell) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/729113#taiko/1576790)
+- DoubleTime
+  - [Jinja - world.execute(me); (Kin) \[taiko.schwierigkeit_muzukashii(Kin);\]](https://osu.ppy.sh/beatmapsets/1091596#taiko/2282069)
+  - [Memme - Gold Town (TKS) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/208286#taiko/490531)
+- FreeMod
+  - [daisan - -+ (Starfy) \[aabc's Muzukashii\]](https://osu.ppy.sh/beatmapsets/389617#taiko/859274)
+  - [sakuzyo - En ga Chop (D o t) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/950965#taiko/1987271)
+  - [kyou1110 vs. Takuya Namba - "Alice in Wonderland" : crazy apple could not live in real life (-Kazu-) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/742005#taiko/1974515)
+- Tiebreaker
+  - **[LiLA'c Records - MONOCHROME SKY (Okoratu) \[MUZUKASHII\]](https://osu.ppy.sh/beatmapsets/883881#taiko/2057784)**
 
 ### Round of 16
 
@@ -178,7 +208,41 @@ The Beginner's Taiko Tournament 5 is run by various community members.
 - DoubleTime
   - [Nekomata Master feat. Hayashi Momoko - TWINKLING other side edition (bank78952) \[Kantan\]](https://osu.ppy.sh/beatmapsets/776049#taiko/1684690)
 
+---
+
 ## Match results
+
+### Round of 16
+
+Friday, 14 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Arbusion ![][flag_AU] | 0 | **5** | ![][flag_NZ] **Blujae** | [#1](https://osu.ppy.sh/mp/58433048) |
+| Malox ![][flag_DE] | 2 | **5** | ![][flag_DE] **Maou** | [#1](https://osu.ppy.sh/community/matches/58440442) |
+
+Saturday, 15 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| zd101nb ![][flag_CN] | -1 | **0** | ![][flag_DE] **Kirross** | *win by default* |
+| **helios44** ![][flag_SG] | **5** | 2 | ![][flag_DE] Enohx | [#1](https://osu.ppy.sh/community/matches/58461271) |
+| **awdse22** ![][flag_SG] | **5** | 1 | ![][flag_RU] Dartandr | [#1](https://osu.ppy.sh/mp/58464162) |
+| Samoyed ![][flag_FI] | 2 | **5** | ![][flag_RU] **Vasyadogs** | [#1](https://osu.ppy.sh/community/matches/58464156) |
+| Santeri ![][flag_FI] | 0 | **5** | ![][flag_IT] **Kozzo** | [#1](https://osu.ppy.sh/community/matches/58465670) |
+| ByTiger ![][flag_DE] | 2 | **5** | ![][flag_MY] **squidstain** | [#1](https://osu.ppy.sh/community/matches/58465676) |
+| Katsumi ![][flag_DE] | 2 | **5** | ![][flag_AR] **Megafan** | [#1](https://osu.ppy.sh/community/matches/58467487) |
+| **Vaf** ![][flag_AR] | **5** | 0 | ![][flag_NL] Boaz | [#1](https://osu.ppy.sh/community/matches/58469338) |
+| SuperSquirrel51 ![][flag_CA] | 0 | **5** | ![][flag_FR] **Champs de ble** | [#1](https://osu.ppy.sh/community/matches/58476069) |
+
+Sunday, 16 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| BadAimBoi ![][flag_PL] | 2 | **5** | ![][flag_FR] **TLQ_Yoshii** | [#1](https://osu.ppy.sh/community/matches/58496768) |
+| DrugManager ![][flag_DE] | 4 | **5** | ![][flag_SG] **moosepi** | [#1](https://osu.ppy.sh/community/matches/58499885) |
+| Yeong Yuseong ![][flag_US] | 2 | **5** | ![][flag_HK] **-Storm7-** | [#1](https://osu.ppy.sh/community/matches/58504436) |
+| Loliezi1337 ![][flag_US] | 1 | **5** | ![][flag_GB] **Olii** | [#1](https://osu.ppy.sh/community/matches/58507300) |
 
 ### Round of 32
 
@@ -318,6 +382,8 @@ Sunday, 2 February 2020:
 | **Senko-san** ![][flag_CA] | **4** | 0 | ![][flag_US] Corruptyouth | [#1](https://osu.ppy.sh/community/matches/58167329) |
 | Erkfir ![][flag_NZ] | 0 | **4** | ![][flag_DE] **Maou** | [#1](https://osu.ppy.sh/community/matches/58167317) |
 | Senko-san ![][flag_CA] | 0 | **4** | ![][flag_US] **Yeong Yuseong** | [#1](https://osu.ppy.sh/community/matches/58169352) |
+
+---
 
 ## Ruleset
 
