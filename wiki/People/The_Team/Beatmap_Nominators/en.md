@@ -104,7 +104,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | <!-- TODO --> |
 | ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  |
 | ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Thai |
-| ![][flag_ID] [Volta](https://osu.ppy.sh/users/4154071) | <!-- TODO --> |
+| ![][flag_ID] [Volta](https://osu.ppy.sh/users/4154071) | Indonesian |
 | ![][flag_CL] [Vulkin](https://osu.ppy.sh/users/4901066) | <!-- TODO --> |
 
 #### osu!catch
@@ -115,8 +115,9 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_PH] [Bunnrei](https://osu.ppy.sh/users/829284) | Filipino |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Filipino |
+| ![][flag_RU] [Lacrima](https://osu.ppy.sh/users/4915649) | <!-- TODO --> |
 | ![][flag_GB] [MBomb](https://osu.ppy.sh/users/3071175) |  |
-| ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) | <!-- TODO --> |
+| ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) | Indonesian, some Chinese |
 
 #### osu!mania
 
@@ -124,7 +125,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | :-- | :-- |
 | ![][flag_MY] [\_Kobii](https://osu.ppy.sh/users/6209713) | Chinese |
 | ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Chinese |
-| ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | <!-- TODO --> |
 | ![][flag_US] [Kamuy](https://osu.ppy.sh/users/7439226) | some Korean |
 | ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | Korean |
 | ![][flag_AU] [Keiga](https://osu.ppy.sh/users/6866022) | Chinese |
@@ -133,7 +133,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_ID] [Rivals\_7](https://osu.ppy.sh/users/4610379) | Indonesian |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arabic, French |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
-| ![][flag_ID] [Voxa](https://osu.ppy.sh/users/9229539) | <!-- TODO --> |
+| ![][flag_ID] [Voxa](https://osu.ppy.sh/users/9229539) | Indonesian |
 
 ### Probationary Beatmap Nominators
 
@@ -153,11 +153,11 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
-| ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | <!-- TODO --> |
+| ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | German |
 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | <!-- TODO --> |
 | ![][flag_KR] [Hoshikuz](https://osu.ppy.sh/users/9892196) | <!-- TODO --> |
 | ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | some Spanish |
-| ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | <!-- TODO --> |
+| ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Japanese, Cantonese, Chinese |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Chinese |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | <!-- TODO --> |
 | ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) | Japanese |
@@ -167,14 +167,14 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
-| ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | <!-- TODO --> |
-| ![][flag_RU] [Lacrima](https://osu.ppy.sh/users/4915649) | <!-- TODO --> |
+| ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | Indonesian |
 | ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |
 
 #### osu!mania
 
 | Name | Additional languages |
 | :-- | :-- |
+| ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Indonesian |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | <!-- TODO --> |
 | ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) | <!-- TODO --> |
 
