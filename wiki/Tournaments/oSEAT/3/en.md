@@ -37,7 +37,7 @@ The **osu! South East Asia Tournament 3** (***oSEAT3***) was a South East Asian 
 
 *Note: 5th place was determined by a playoff.*
 
-![oSEAT3 winner badge](img/badge.png "oSEAT3 Winner Badge")
+![oSEAT3 winner badge](img/badge.png)
 
 ## Organisation
 
@@ -100,7 +100,7 @@ The osu! South East Asia 3 was run by various community members.
 
 ## Podium
 
- This competition has come to an end and resulted in the following podium:
+This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
