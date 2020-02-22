@@ -219,7 +219,7 @@ Friday, 14 February 2020:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Arbusion ![][flag_AU] | 0 | **5** | ![][flag_NZ] **Blujae** | [#1](https://osu.ppy.sh/mp/58433048) |
-| Malox ![][flag_DE] | 2 | **5** | ![][flag_DE] | **Maou** | [#1](https://osu.ppy.sh/community/matches/58440442) |
+| Malox ![][flag_DE] | 2 | **5** | ![][flag_DE] **Maou** | [#1](https://osu.ppy.sh/community/matches/58440442) |
 
 Saturday, 15 February 2020:
 
