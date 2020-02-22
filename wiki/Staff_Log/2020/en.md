@@ -61,7 +61,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-02-02: Added [Stack](https://osu.ppy.sh/users/6122935) to **Probationary BN**
 - 2020-02-09: Added [Dubstek](https://osu.ppy.sh/users/9555243) to **Probationary BN**
 - 2020-02-14: Added [UnluckyCroco](https://osu.ppy.sh/users/9461160) to **Probationary BN**
-- 2020-02-15: Added [Amiichii](https://osu.ppy.sh/u/9228569) to **Probationary BN**
+- 2020-02-15: Added [Amiichii](https://osu.ppy.sh/users/9228569) to **Probationary BN**
 
 #### Moves
 
@@ -77,7 +77,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-02-08: Moved [wonjae](https://osu.ppy.sh/users/5032045) from **BN** to **Probationary BN**
 - 2020-02-12: Moved [celerih](https://osu.ppy.sh/users/4696296) from **Probationary BN** to **BN**
 - 2020-02-14: Moved [Vulkin](https://osu.ppy.sh/users/4901066) from **Probationary BN** to **BN**
-- 2020-02-15: Moved [Lacrima](https://osu.ppy.sh/u/4915649) from **BN** to **Probationary BN**
+- 2020-02-15: Moved [Lacrima](https://osu.ppy.sh/users/4915649) from **Probationary BN** to **BN**
 - 2020-02-20: Moved [Voxa](https://osu.ppy.sh/users/9229539) from **Probationary BN** to **BN**
 
 #### Removals
@@ -89,4 +89,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-02-20: Removed [Genjuro](https://osu.ppy.sh/users/3196091) from **BN**
 - 2020-02-20: Removed [\_DUSK\_](https://osu.ppy.sh/users/6092181) from **BN**
 
-<!-- last update: 2020-02-21 0UTC added amiichii to bn, moved voxa and lacrima, removed genjuro and dusk from bn -->
+<!-- last update: 2020-02-21 0UTC removed _dusk_ bn -->
