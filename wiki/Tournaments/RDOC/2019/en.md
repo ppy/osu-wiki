@@ -43,7 +43,7 @@ The Royal Danish osu!Cup 2019 is run by various community members.
 | Map selector | ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_ES] [CapoeiraDoMorte](https://osu.ppy.sh/users/6141330), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548) |
 | Referee | ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [MASQQ](https://osu.ppy.sh/users/5351497), ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_DK] [I eat ass 47](https://osu.ppy.sh/users/5323224), ![][flag_US] [moss-](https://osu.ppy.sh/users/9918921), ![][flag_DK] [My Aim Zogs](https://osu.ppy.sh/users/3722715), ![][flag_DK] [Captain](https://osu.ppy.sh/users/2563435), ![][flag_DK] [Power Supply](https://osu.ppy.sh/users/7091513) |
 | Streamer | ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_DK] [My Aim Zogs](https://osu.ppy.sh/users/3722715), ![][flag_DK] [P3RS3X](https://osu.ppy.sh/users/9469362), ![][flag_DK] [Power Supply](https://osu.ppy.sh/users/7091513) |
-| Commentator | ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_DK] [RyuXO](https://osu.ppy.sh/users/9450032), ![][flag_DK] [Vandabe](https://osu.ppy.sh/users/7050754), ![][flag_DK] [P3RS3X](https://osu.ppy.sh/users/9469362), ![][flag_DK] [Tikzyy](https://osu.ppy.sh/users/11380904), ![][flag_DK] [Zakura](https://osu.ppy.sh/users/3053599), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
+| Commentator | ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_IE] [ez sucks](https://osu.ppy.sh/users/13681283), ![][flag_DK] [RyuXO](https://osu.ppy.sh/users/9450032), ![][flag_DK] [Vandabe](https://osu.ppy.sh/users/7050754), ![][flag_DK] [P3RS3X](https://osu.ppy.sh/users/9469362), ![][flag_DK] [Tikzyy](https://osu.ppy.sh/users/11380904), ![][flag_DK] [Zakura](https://osu.ppy.sh/users/3053599), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
 | Designer | ![][flag_FI] [Micro](https://osu.ppy.sh/users/4801080), ![][flag_BR] [Hana Fubuki](https://osu.ppy.sh/users/4761039) |
 | Wiki editor | ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) |
 | Donator | ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) |
@@ -184,3 +184,4 @@ Due to 6 no-shows in Qualifiers we're down to 31 players. #1 seed has been given
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
