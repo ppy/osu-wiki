@@ -132,8 +132,9 @@ Next, we have those who have taken their leave from the group. We’d like to th
 
 **In osu!mania:** 
 [Tailsdk](https://osu.ppy.sh/users/6751666), 
-[Critical_Star](https://osu.ppy.sh/users/3793196) & 
-[Kyousukee](https://osu.ppy.sh/users/8842107)
+[Critical_Star](https://osu.ppy.sh/users/3793196),  
+[Kyousukee](https://osu.ppy.sh/users/8842107) &
+[MEGAtive](https://osu.ppy.sh/users/3094101)
 
 
 ### NAT Additions
