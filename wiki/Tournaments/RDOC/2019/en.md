@@ -85,7 +85,7 @@ The Royal Danish osu!Cup 2019 is run by various community members.
 | #23 | ![][flag_DK] [Decrescendo](https://osu.ppy.sh/users/12900042) | 3576566 |
 | #24 | ![][flag_DK] [kim1998](https://osu.ppy.sh/users/14599636) | 3519075 |
 | #25 | ![][flag_DK] [Cittasnaf](https://osu.ppy.sh/users/13347734) | 3417555 |
-| #26 | ![][flag_DK] [BPK](https://osu.ppy.sh/users/12042090) | 3378902 |
+| #26 | ![][flag_DK] [Morrighan](https://osu.ppy.sh/users/12042090) | 3378902 |
 | #27 | ![][flag_DK] [Tr0nixCS](https://osu.ppy.sh/users/6734261) | 3130951 |
 | #28 | ![][flag_DK] [Dralle](https://osu.ppy.sh/users/12380988) | 2620366 |
 | #29 | ![][flag_DK] [NoSync](https://osu.ppy.sh/users/8634493) | 1782055 |
