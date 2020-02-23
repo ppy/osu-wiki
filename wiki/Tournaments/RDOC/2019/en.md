@@ -16,7 +16,6 @@ The **Royal Danish osu!Cup 2019** (***RDOC 2019***) is an ongoing Danish 1v1 dou
 | --: | :-- |
 | Registration phase | 2020-01-10/2020-01-24 |
 | Qualifiers | 2020-02-07/2020-02-16 |
-| Live drawings | *to be determined* |
 | Round of 32 | 2020-02-29/2020-03-01 |
 | Round of 16 | 2020-03-07/2020-03-08 |
 | Quarterfinals | 2020-03-14/2020-03-15 |
@@ -41,10 +40,10 @@ The Royal Danish osu!Cup 2019 is run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [MASQQ](https://osu.ppy.sh/users/5351497) |
-| Map selector | ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_ES] [CapoeiraDoMorte](https://osu.ppy.sh/users/6141330), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548) |
+| Map selector | ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_ES] [CapoeiraDoMorte](https://osu.ppy.sh/users/6141330), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548) |
 | Referee | ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [MASQQ](https://osu.ppy.sh/users/5351497), ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_DK] [I eat ass 47](https://osu.ppy.sh/users/5323224), ![][flag_US] [moss-](https://osu.ppy.sh/users/9918921), ![][flag_DK] [My Aim Zogs](https://osu.ppy.sh/users/3722715), ![][flag_DK] [Captain](https://osu.ppy.sh/users/2563435), ![][flag_DK] [Power Supply](https://osu.ppy.sh/users/7091513) |
 | Streamer | ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_DK] [My Aim Zogs](https://osu.ppy.sh/users/3722715), ![][flag_DK] [P3RS3X](https://osu.ppy.sh/users/9469362), ![][flag_DK] [Power Supply](https://osu.ppy.sh/users/7091513) |
-| Commentator | ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_DK] [RyuXO](https://osu.ppy.sh/users/9450032), ![][flag_DK] [Vandabe](https://osu.ppy.sh/users/7050754), ![][flag_DK] [P3RS3X](https://osu.ppy.sh/users/9469362), ![][flag_DK] [Tikzyy](https://osu.ppy.sh/users/11380904), ![][flag_DK] [Zakura](https://osu.ppy.sh/users/3053599), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
+| Commentator | ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_IE] [ez sucks](https://osu.ppy.sh/users/13681283), ![][flag_DK] [RyuXO](https://osu.ppy.sh/users/9450032), ![][flag_DK] [Vandabe](https://osu.ppy.sh/users/7050754), ![][flag_DK] [P3RS3X](https://osu.ppy.sh/users/9469362), ![][flag_DK] [Tikzyy](https://osu.ppy.sh/users/11380904), ![][flag_DK] [Zakura](https://osu.ppy.sh/users/3053599), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
 | Designer | ![][flag_FI] [Micro](https://osu.ppy.sh/users/4801080), ![][flag_BR] [Hana Fubuki](https://osu.ppy.sh/users/4761039) |
 | Wiki editor | ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) |
 | Donator | ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) |
@@ -59,39 +58,41 @@ The Royal Danish osu!Cup 2019 is run by various community members.
 
 ## Participants
 
-| Seed | Members |
-| --: | :-- |
-| 1 | ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469) |
-| 2 | ![][flag_DK] [Tikzyy](https://osu.ppy.sh/users/11380904) |
-| 3 | ![][flag_DK] [Vandabe](https://osu.ppy.sh/users/7050754) |
-| 4 | ![][flag_DK] [Pablohh](https://osu.ppy.sh/users/10092099) |
-| 5 | ![][flag_DK] [Arche-](https://osu.ppy.sh/users/2143311) |
-| 6 | ![][flag_DK] [teamplayer51](https://osu.ppy.sh/users/3084508) |
-| 7 | ![][flag_DK] [OwOMarco](https://osu.ppy.sh/users/10650901) |
-| 8 | ![][flag_DK] [Contaminate](https://osu.ppy.sh/users/4694589) |
-| 9 | ![][flag_DK] [Tmunken](https://osu.ppy.sh/users/5176984) |
-| 10 | ![][flag_DK] [pallerik](https://osu.ppy.sh/users/9303652) |
-| 11 | ![][flag_DK] [Lothjon](https://osu.ppy.sh/users/7369323) |
-| 12 | ![][flag_DK] [Tenaxzity](https://osu.ppy.sh/users/7395529) |
-| 13 | ![][flag_DK] [Malach](https://osu.ppy.sh/users/9364696) |
-| 14 | ![][flag_DK] [Zakura](https://osu.ppy.sh/users/3053599) |
-| 15 | ![][flag_DK] [Drayko](https://osu.ppy.sh/users/11485703) |
-| 16 | ![][flag_DK] [Arild](https://osu.ppy.sh/users/3089925) |
-| 17 | ![][flag_DK] [/[THEDUCK/]](https://osu.ppy.sh/users/6080866) |
-| 18 | ![][flag_DK] [Micropose](https://osu.ppy.sh/users/11140740) |
-| 19 | ![][flag_DK] [Haikuna](https://osu.ppy.sh/users/3786974) |
-| 20 | ![][flag_DK] [Sagon](https://osu.ppy.sh/users/11775933) |
-| 21 | ![][flag_DK] [FeelDaTonneh](https://osu.ppy.sh/users/4348782) |
-| 22 | ![][flag_DK] [PolleSving](https://osu.ppy.sh/users/13218204) |
-| 23 | ![][flag_DK] [Decrescendo](https://osu.ppy.sh/users/12900042) |
-| 24 | ![][flag_DK] [kim1998](https://osu.ppy.sh/users/14599636) |
-| 25 | ![][flag_DK] [Cittasnaf](https://osu.ppy.sh/users/13347734) |
-| 26 | ![][flag_DK] [BPK](https://osu.ppy.sh/users/12042090) |
-| 27 | ![][flag_DK] [Tr0nixCS](https://osu.ppy.sh/users/6734261) |
-| 28 | ![][flag_DK] [Dralle](https://osu.ppy.sh/users/12380988) |
-| 29 | ![][flag_DK] [NoSync](https://osu.ppy.sh/users/8634493) |
-| 30 | ![][flag_DK] [Slayco](https://osu.ppy.sh/users/9449330) |
-| 31 | ![][flag_DK] [Liquidminds](https://osu.ppy.sh/users/13438435)
+| Seed | Player | Qualifier score |
+| --: | :-- | --: |
+| #1 | ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469) | 9820452 |
+| #2 | ![][flag_DK] [Tikzyy](https://osu.ppy.sh/users/11380904) | 8740290 |
+| #3 | ![][flag_DK] [Vandabe](https://osu.ppy.sh/users/7050754) | 8700974 |
+| #4 | ![][flag_DK] [Pablohh](https://osu.ppy.sh/users/10092099) | 8624235 |
+| #5 | ![][flag_DK] [Arche-](https://osu.ppy.sh/users/2143311) | 8489990 |
+| #6 | ![][flag_DK] [teamplayer51](https://osu.ppy.sh/users/3084508) | 8014969 |
+| #7 | ![][flag_DK] [OwOMarco](https://osu.ppy.sh/users/10650901) | 7987699 |
+| #8 | ![][flag_DK] [Contaminate](https://osu.ppy.sh/users/4694589) | 7673671 |
+| #9 | ![][flag_DK] [Tmunken](https://osu.ppy.sh/users/5176984) | 7157621 |
+| #10 | ![][flag_DK] [pallerik](https://osu.ppy.sh/users/9303652) | 6918882 |
+| #11 | ![][flag_DK] [Lothjon](https://osu.ppy.sh/users/7369323) | 6865290 |
+| #12 | ![][flag_DK] [Tenaxzity](https://osu.ppy.sh/users/7395529) | 6724674 |
+| #13 | ![][flag_DK] [Malach](https://osu.ppy.sh/users/9364696) | 6506580 |
+| #14 | ![][flag_DK] [Zakura](https://osu.ppy.sh/users/3053599) | 6251613 |
+| #15 | ![][flag_DK] [Drayko](https://osu.ppy.sh/users/11485703) | 5975658 |
+| #16 | ![][flag_DK] [Arild](https://osu.ppy.sh/users/3089925) | 5615289 |
+| #17 | ![][flag_DK] [[THEDUCK]](https://osu.ppy.sh/users/6080866) | 5234905 |
+| #18 | ![][flag_DK] [Micropose](https://osu.ppy.sh/users/11140740) | 4973815 |
+| #19 | ![][flag_DK] [Haikuna](https://osu.ppy.sh/users/3786974) | 4795629 |
+| #20 | ![][flag_DK] [Sagon](https://osu.ppy.sh/users/11775933) | 4724424 |
+| #21 | ![][flag_DK] [FeelDaTonneh](https://osu.ppy.sh/users/4348782) | 4627355 |
+| #22 | ![][flag_DK] [PolleSving](https://osu.ppy.sh/users/13218204) | 4537748 |
+| #23 | ![][flag_DK] [Decrescendo](https://osu.ppy.sh/users/12900042) | 3576566 |
+| #24 | ![][flag_DK] [kim1998](https://osu.ppy.sh/users/14599636) | 3519075 |
+| #25 | ![][flag_DK] [Cittasnaf](https://osu.ppy.sh/users/13347734) | 3417555 |
+| #26 | ![][flag_DK] [Morrighan](https://osu.ppy.sh/users/12042090) | 3378902 |
+| #27 | ![][flag_DK] [Tr0nixCS](https://osu.ppy.sh/users/6734261) | 3130951 |
+| #28 | ![][flag_DK] [Dralle](https://osu.ppy.sh/users/12380988) | 2620366 |
+| #29 | ![][flag_DK] [NoSync](https://osu.ppy.sh/users/8634493) | 1782055 |
+| #30 | ![][flag_DK] [Slayco](https://osu.ppy.sh/users/9449330) | 1284564 |
+| #31 | ![][flag_DK] [Liquidminds](https://osu.ppy.sh/users/13438435) | 751992 |
+
+Due to 6 no-shows in Qualifiers we're down to 31 players. #1 seed has been given a bye into Round of 16 to make brackets work.
 
 ## Mappools
 
@@ -183,3 +184,4 @@ The Royal Danish osu!Cup 2019 is run by various community members.
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
