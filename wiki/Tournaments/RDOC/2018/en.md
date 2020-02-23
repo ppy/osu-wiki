@@ -8,7 +8,7 @@ tags:
 
 ![RDOC 2018 logo](img/logo.jpg)
 
-The **Royal Danish osu!Cup 2018** (***RDOC 2018***) was a Danish 1v1 double-elimination osu!standard tournament hosted by ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [Gladand](https://osu.ppy.sh/users/8996506), and ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138). This was the fourth installment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2018** (***RDOC 2018***) was a Danish 1v1 double-elimination osu!standard tournament hosted by ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [Gladand](https://osu.ppy.sh/users/8996506), and ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138). It was the fourth installment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 
@@ -54,7 +54,7 @@ The Royal Danish osu!Cup 2018 was run by various community members.
 - [RDOC Discord server](https://discord.gg/JhBkmzE)
 - [Livestream](https://www.twitch.tv/royaldanishosucup)
 - [Challonge brackets](https://challonge.com/rdoc2018)
-- **[Statistics Sheet](https://docs.google.com/spreadsheets/d/19z2AC5TN80G0eaQGs_6yVsTgfu5d9Huy5Q7EiibZnuQ/edit?usp=sharing)**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/19z2AC5TN80G0eaQGs_6yVsTgfu5d9Huy5Q7EiibZnuQ/edit?usp=sharing)**
 
 ## Participants
 
@@ -84,9 +84,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469) |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_DK] [Cerkie](https://osu.ppy.sh/users/2533400) |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_DK] [raser1234](https://osu.ppy.sh/users/2527887) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_DK] [Cerkie](https://osu.ppy.sh/users/2533400) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_DK] [raser1234](https://osu.ppy.sh/users/2527887) |
 
 ## Mappools
 
@@ -447,7 +447,7 @@ Sunday, 2018-09-23:
 6. If there are no referees available, the match can be postponed.
 7. If both players get the same score on a Tiebreaker, the Tiebreaker will be replayed.
 8. Players have 15 minutes to show up to their scheduled match. If the opponent doesn't show up, the player who was supposed to play automatically advances onwards.
-9. If a player is found to be abusive or rude to other players in the tournament, they may be removed from the tournament at the hosts' discretion. This will never be done without talking to the parties involved. If conduct is bad enough, players may be blacklisted from future tournaments and reported to osu! moderation staff. Trashtalk is fine - harrasment is not.
+9. If a player is found to be abusive or rude to other players in the tournament, they may be removed from the tournament at the hosts' discretion. This will never be done without talking to the parties involved. If conduct is bad enough, players may be blacklisted from future tournaments and reported to osu! moderation staff. Trashtalk is fine—harrasment is not.
 10. Any other rules changes or unexpected occurrences will be announced on the Discord server.
 
 ### Stage regulations
@@ -475,7 +475,7 @@ Sunday, 2018-09-23:
 4. A player cannot ban a map from the same category twice.
 5. A player cannot pick the same mod twice in a row, with the exception of Nomod.
 6. In case of a tie, the tiebreaker will be played.
-7. When FreeMod is picked each player must use at least one mod. Allowed mods are: FL, HD, HR
+7. When FreeMod is picked each player must use at least one mod. Allowed mods are: FL, HD, HR.
 8. If a player disconnects or experiences trouble within the first 15 seconds of a map, the referee must abort the match if notified of the issue. If anyone is found to abuse this rule, they will be banned from all future instances of the tournament.
 9. Results will be displayed on the Challonge bracket, and will be announced by the referee in the match lobby.
 

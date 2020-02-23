@@ -8,7 +8,7 @@ tags:
 
 ![RDOC 2016 logo](img/logo.png)
 
-The **Royal Danish osu!Cup 2016** (***RDOC 2016***) was a Danish 1v1 double-elimination osu!standard tournament hosted by ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273). This was the second installment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2016** (***RDOC 2016***) was a Danish 1v1 double-elimination osu! tournament hosted by ![][flag_DK] [Mayoi Hachikuji](https://osu.ppy.sh/users/2114273). It was the second installment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 
@@ -51,11 +51,29 @@ The Royal Danish osu!Cup 2016 was run by various community members.
 
 ## Participants
 
-| Members |
-| :-- |
-| ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653), ![][flag_DK] [Zog](https://osu.ppy.sh/users/3722715), ![][flag_DK] [Emub](https://osu.ppy.sh/users/4337359), ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138), ![][flag_DK] [KaHLK](https://osu.ppy.sh/users/2287701), ![][flag_DK] [Only1Magma](https://osu.ppy.sh/users/3922957), ![][flag_DK] [Kazutakee](https://osu.ppy.sh/users/2637514), ![][flag_DK] [Zakdawg](https://osu.ppy.sh/users/1667126), ![][flag_DK] [-Tochi](https://osu.ppy.sh/users/3664366), ![][flag_DK] [Arild](https://osu.ppy.sh/users/3089925), ![][flag_DK] [John Cena](https://osu.ppy.sh/users/2958963), ![][flag_DK] [Tropians](https://osu.ppy.sh/users/2536611), ![][flag_DK] [Gudafild](https://osu.ppy.sh/users/5358569), ![][flag_DK] [Hudda](https://osu.ppy.sh/users/4103629), ![][flag_DK] [Kawatta](https://osu.ppy.sh/users/3731880), ![][flag_DK] [TheFancyPikachu](https://osu.ppy.sh/users/1946377), ![][flag_DK] [Lemmen](https://osu.ppy.sh/users/6090254), ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469), ![][flag_DK] [TimG](https://osu.ppy.sh/users/1879963), ![][flag_DK] [Jobbe](https://osu.ppy.sh/users/2707230), ![][flag_DK] [shoki](https://osu.ppy.sh/users/6583628) |
-
 *Note: This is an incomplete list, as all records before Round of 16 have been lost to time.*
+
+- ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653)
+- ![][flag_DK] [Zog](https://osu.ppy.sh/users/3722715)
+- ![][flag_DK] [Emub](https://osu.ppy.sh/users/4337359)
+- ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138)
+- ![][flag_DK] [KaHLK](https://osu.ppy.sh/users/2287701)
+- ![][flag_DK] [Only1Magma](https://osu.ppy.sh/users/3922957)
+- ![][flag_DK] [Kazutakee](https://osu.ppy.sh/users/2637514)
+- ![][flag_DK] [Zakdawg](https://osu.ppy.sh/users/1667126)
+- ![][flag_DK] [-Tochi](https://osu.ppy.sh/users/3664366)
+- ![][flag_DK] [Arild](https://osu.ppy.sh/users/3089925)
+- ![][flag_DK] [John Cena](https://osu.ppy.sh/users/2958963)
+- ![][flag_DK] [Tropians](https://osu.ppy.sh/users/2536611)
+- ![][flag_DK] [Gudafild](https://osu.ppy.sh/users/5358569)
+- ![][flag_DK] [Hudda](https://osu.ppy.sh/users/4103629)
+- ![][flag_DK] [Kawatta](https://osu.ppy.sh/users/3731880)
+- ![][flag_DK] [TheFancyPikachu](https://osu.ppy.sh/users/1946377)
+- ![][flag_DK] [Lemmen](https://osu.ppy.sh/users/6090254)
+- ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469)
+- ![][flag_DK] [TimG](https://osu.ppy.sh/users/1879963)
+- ![][flag_DK] [Jobbe](https://osu.ppy.sh/users/2707230)
+- ![][flag_DK] [shoki](https://osu.ppy.sh/users/6583628)
 
 ## Podium
 
@@ -66,7 +84,7 @@ This competition has come to an end and resulted in the following podium:
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_DK] [Zog](https://osu.ppy.sh/users/3722715) |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138) |
-| 4th place | ![][flag_DK] [Emub](https://osu.ppy.sh/users/4337359) |
+| *4th place* | ![][flag_DK] [Emub](https://osu.ppy.sh/users/4337359) |
 
 ## Mappools
 
@@ -230,18 +248,6 @@ Wednesday, 2016-02-17:
 
 ### Finals
 
-Wednesday, 2016-02-17:
-
-| Group | Player 1 |  |  | Player 2 |
-| :-: | --: | :-: | :-: | :-- |
-| UB | **Zog** ![][flag_DK] | **7** | 5 | ![][flag_DK] Crylizhy |
-
-Sunday, 2016-02-14:
-
-| Group | Player 1 |  |  | Player 2 |
-| :-: | --: | :-: | :-: | :-- |
-| LB | Emub ![][flag_DK] | 5 | **6** | ![][flag_DK] **waefwerf** |
-
 Saturday, 2016-02-13:
 
 | Group | Player 1 |  |  | Player 2 |
@@ -249,15 +255,19 @@ Saturday, 2016-02-13:
 | LB | **Emub** ![][flag_DK] | **6** | 2 | ![][flag_DK] Only1Magma |
 | LB | KaHLK ![][flag_DK] | 0 | **6** | ![][flag_DK] **waefwerf** |
 
-### Semifinals
-
-Sunday, 2016-02-07:
+Sunday, 2016-02-14:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| UB | **Zog** ![][flag_DK] | **5** | 3 | ![][flag_DK] waefwerf |
-| LB | **KaHLK** ![][flag_DK] | **5** | 4 | ![][flag_DK] Zakdawg |
-| LB | **Emub** ![][flag_DK] | **5** | 0 | ![][flag_DK] Kazutakee |
+| LB | Emub ![][flag_DK] | 5 | **6** | ![][flag_DK] **waefwerf** |
+
+Wednesday, 2016-02-17:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| UB | **Zog** ![][flag_DK] | **7** | 5 | ![][flag_DK] Crylizhy |
+
+### Semifinals
 
 Saturday, 2016-02-06:
 
@@ -269,16 +279,15 @@ Saturday, 2016-02-06:
 | LB | -Tochi ![][flag_DK] | 0 | **4** | ![][flag_DK] **KaHLK** |
 | LB | Tropians ![][flag_DK] | 0 | **4** | ![][flag_DK] **Zakdawg** |
 
-### Quarterfinals
-
-Sunday, 2016-01-31:
+Sunday, 2016-02-07:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| LB | **Emub** ![][flag_DK] | **4** | 2 | ![][flag_DK] Hudda |
-| LB | **Kazutakee** ![][flag_DK] | **4** | 2 | ![][flag_DK] TheFancyPikachu |
-| LB | **Tropians** ![][flag_DK] | **4** | 0 | ![][flag_DK] Gudafild |
-| LB | Kawatta ![][flag_DK] | 0 | **4** | ![][flag_DK] **KaHLK** |
+| UB | **Zog** ![][flag_DK] | **5** | 3 | ![][flag_DK] waefwerf |
+| LB | **KaHLK** ![][flag_DK] | **5** | 4 | ![][flag_DK] Zakdawg |
+| LB | **Emub** ![][flag_DK] | **5** | 0 | ![][flag_DK] Kazutakee |
+
+### Quarterfinals
 
 Saturday, 2016-01-30:
 
@@ -289,16 +298,16 @@ Saturday, 2016-01-30:
 | UB | John Cena ![][flag_DK] | 1 | **4** | ![][flag_DK] **Zog** |
 | UB | Arild ![][flag_DK] | 1 | **4** | ![][flag_DK] **waefwerf** |
 
-### Round of 16
-
-Sunday, 2016-01-24:
+Sunday, 2016-01-31:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| UB | Kazutakee ![][flag_DK] | 3 | **4** | ![][flag_DK] **Zakdawg** |
-| UB | Emub ![][flag_DK] | 3 | **4** | ![][flag_DK] **Crylizhy** |
-| UB | **Arild** ![][flag_DK] | **4** | 0 | ![][flag_DK] Gudafild |
-| UB | **John Cena** ![][flag_DK] | **4** | 1 | ![][flag_DK] Kawatta |
+| LB | **Emub** ![][flag_DK] | **4** | 2 | ![][flag_DK] Hudda |
+| LB | **Kazutakee** ![][flag_DK] | **4** | 2 | ![][flag_DK] TheFancyPikachu |
+| LB | **Tropians** ![][flag_DK] | **4** | 0 | ![][flag_DK] Gudafild |
+| LB | Kawatta ![][flag_DK] | 0 | **4** | ![][flag_DK] **KaHLK** |
+
+### Round of 16
 
 Saturday, 2016-01-23:
 
@@ -309,9 +318,14 @@ Saturday, 2016-01-23:
 | UB | KaHLK ![][flag_DK] | 1 | **4** | ![][flag_DK] **Zog** |
 | UB | Tropians ![][flag_DK] | 2 | **4** | ![][flag_DK] **waefwerf** |
 
-### Group Stage
+Sunday, 2016-01-24:
 
-*Note: This is an incomplete list, as all records before Round of 16 have been lost to time.*
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| UB | Kazutakee ![][flag_DK] | 3 | **4** | ![][flag_DK] **Zakdawg** |
+| UB | Emub ![][flag_DK] | 3 | **4** | ![][flag_DK] **Crylizhy** |
+| UB | **Arild** ![][flag_DK] | **4** | 0 | ![][flag_DK] Gudafild |
+| UB | **John Cena** ![][flag_DK] | **4** | 1 | ![][flag_DK] Kawatta |
 
 ## Ruleset
 

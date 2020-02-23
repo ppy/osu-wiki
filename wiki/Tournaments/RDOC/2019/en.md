@@ -8,7 +8,7 @@ tags:
 
 ![RDOC 2019 logo](img/logo.png)
 
-The **Royal Danish osu!Cup 2019** (***RDOC 2019***) is an ongoing Danish 1v1 double-elimination osu!standard tournament hosted by ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), and ![][flag_DK] [MASQQ](https://osu.ppy.sh/users/5351497). This is the fifth installment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2019** (***RDOC 2019***) is an ongoing Danish 1v1 double-elimination osu! tournament hosted by ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), and ![][flag_DK] [MASQQ](https://osu.ppy.sh/users/5351497). It is the fifth installment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 
@@ -55,13 +55,43 @@ The Royal Danish osu!Cup 2019 is run by various community members.
 - [RDOC Discord server](https://discord.gg/JhBkmzE)
 - [Livestream](https://www.twitch.tv/royaldanishosucup)
 - [Challonge brackets](https://challonge.com/rdoc2019)
-- **[Statistics Sheet](https://docs.google.com/spreadsheets/d/1BQdMhY_3cX1qQytr3X0yszqjFNwOQ_yd8CVnwQaArOk/edit?usp=sharing)**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1BQdMhY_3cX1qQytr3X0yszqjFNwOQ_yd8CVnwQaArOk/edit?usp=sharing)**
 
 ## Participants
 
 | Seed | Members |
-| :-- | :-- |
-| #1 | ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469) | #2 | ![][flag_DK] [Tikzyy](https://osu.ppy.sh/users/11380904) | #3 | ![][flag_DK] [Vandabe](https://osu.ppy.sh/users/7050754) | #4 | ![][flag_DK] [Pablohh](https://osu.ppy.sh/users/10092099) | #5 | ![][flag_DK] [Arche-](https://osu.ppy.sh/users/2143311) | #6 | ![][flag_DK] [teamplayer51](https://osu.ppy.sh/users/3084508) | #7 | ![][flag_DK] [OwOMarco](https://osu.ppy.sh/users/10650901) | #8 | ![][flag_DK] [Contaminate](https://osu.ppy.sh/users/4694589) | #9 | ![][flag_DK] [Tmunken](https://osu.ppy.sh/users/5176984) | #10 | ![][flag_DK] [pallerik](https://osu.ppy.sh/users/9303652) | #11 | ![][flag_DK] [Lothjon](https://osu.ppy.sh/users/7369323) | #12 | ![][flag_DK] [Tenaxzity](https://osu.ppy.sh/users/7395529) | #13 | ![][flag_DK] [Malach](https://osu.ppy.sh/users/9364696) | #14 | ![][flag_DK] [Zakura](https://osu.ppy.sh/users/3053599) | #15 | ![][flag_DK] [Drayko](https://osu.ppy.sh/users/11485703) | #16 | ![][flag_DK] [Arild](https://osu.ppy.sh/users/3089925) | #17 | ![][flag_DK] [/[THEDUCK/]](https://osu.ppy.sh/users/6080866) | #18 | ![][flag_DK] [Micropose](https://osu.ppy.sh/users/11140740) | #19 | ![][flag_DK] [Haikuna](https://osu.ppy.sh/users/3786974) | #20 | ![][flag_DK] [Sagon](https://osu.ppy.sh/users/11775933) | #21 | ![][flag_DK] [FeelDaTonneh](https://osu.ppy.sh/users/4348782) | #22 | ![][flag_DK] [PolleSving](https://osu.ppy.sh/users/13218204) | #23 | ![][flag_DK] [Decrescendo](https://osu.ppy.sh/users/12900042) | #24 | ![][flag_DK] [kim1998](https://osu.ppy.sh/users/14599636) | #25 | ![][flag_DK] [Cittasnaf](https://osu.ppy.sh/users/13347734) | #26 | ![][flag_DK] [BPK](https://osu.ppy.sh/users/12042090) | #27 | ![][flag_DK] [Tr0nixCS](https://osu.ppy.sh/users/6734261) | #28 | ![][flag_DK] [Dralle](https://osu.ppy.sh/users/12380988) | #29 | ![][flag_DK] [NoSync](https://osu.ppy.sh/users/8634493) | #30 | ![][flag_DK] [Slayco](https://osu.ppy.sh/users/9449330) | #31 | ![][flag_DK] [Liquidminds](https://osu.ppy.sh/users/13438435)
+| --: | :-- |
+| 1 | ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469) |
+| 2 | ![][flag_DK] [Tikzyy](https://osu.ppy.sh/users/11380904) |
+| 3 | ![][flag_DK] [Vandabe](https://osu.ppy.sh/users/7050754) |
+| 4 | ![][flag_DK] [Pablohh](https://osu.ppy.sh/users/10092099) |
+| 5 | ![][flag_DK] [Arche-](https://osu.ppy.sh/users/2143311) |
+| 6 | ![][flag_DK] [teamplayer51](https://osu.ppy.sh/users/3084508) |
+| 7 | ![][flag_DK] [OwOMarco](https://osu.ppy.sh/users/10650901) |
+| 8 | ![][flag_DK] [Contaminate](https://osu.ppy.sh/users/4694589) |
+| 9 | ![][flag_DK] [Tmunken](https://osu.ppy.sh/users/5176984) |
+| 10 | ![][flag_DK] [pallerik](https://osu.ppy.sh/users/9303652) |
+| 11 | ![][flag_DK] [Lothjon](https://osu.ppy.sh/users/7369323) |
+| 12 | ![][flag_DK] [Tenaxzity](https://osu.ppy.sh/users/7395529) |
+| 13 | ![][flag_DK] [Malach](https://osu.ppy.sh/users/9364696) |
+| 14 | ![][flag_DK] [Zakura](https://osu.ppy.sh/users/3053599) |
+| 15 | ![][flag_DK] [Drayko](https://osu.ppy.sh/users/11485703) |
+| 16 | ![][flag_DK] [Arild](https://osu.ppy.sh/users/3089925) |
+| 17 | ![][flag_DK] [/[THEDUCK/]](https://osu.ppy.sh/users/6080866) |
+| 18 | ![][flag_DK] [Micropose](https://osu.ppy.sh/users/11140740) |
+| 19 | ![][flag_DK] [Haikuna](https://osu.ppy.sh/users/3786974) |
+| 20 | ![][flag_DK] [Sagon](https://osu.ppy.sh/users/11775933) |
+| 21 | ![][flag_DK] [FeelDaTonneh](https://osu.ppy.sh/users/4348782) |
+| 22 | ![][flag_DK] [PolleSving](https://osu.ppy.sh/users/13218204) |
+| 23 | ![][flag_DK] [Decrescendo](https://osu.ppy.sh/users/12900042) |
+| 24 | ![][flag_DK] [kim1998](https://osu.ppy.sh/users/14599636) |
+| 25 | ![][flag_DK] [Cittasnaf](https://osu.ppy.sh/users/13347734) |
+| 26 | ![][flag_DK] [BPK](https://osu.ppy.sh/users/12042090) |
+| 27 | ![][flag_DK] [Tr0nixCS](https://osu.ppy.sh/users/6734261) |
+| 28 | ![][flag_DK] [Dralle](https://osu.ppy.sh/users/12380988) |
+| 29 | ![][flag_DK] [NoSync](https://osu.ppy.sh/users/8634493) |
+| 30 | ![][flag_DK] [Slayco](https://osu.ppy.sh/users/9449330) |
+| 31 | ![][flag_DK] [Liquidminds](https://osu.ppy.sh/users/13438435)
 
 ## Mappools
 
@@ -94,7 +124,7 @@ The Royal Danish osu!Cup 2019 is run by various community members.
 6. If there are no referees available, the match can be postponed.
 7. If both players get the same score on a Tiebreaker, the Tiebreaker will be replayed.
 8. Players have 15 minutes to show up to their scheduled match. If the opponent doesn't show up, the player who was supposed to play automatically advances onwards.
-9. If a player is found to be abusive or rude to other players in the tournament, they may be removed from the tournament at the organizer's discretion. This will never be done without talking to the parties involved. If conduct is bad enough, players may be blacklisted from future tournaments and reported to osu! moderation staff. Trashtalk is fine - harrasment is not.
+9. If a player is found to be abusive or rude to other players in the tournament, they may be removed from the tournament at the organizer's discretion. This will never be done without talking to the parties involved. If conduct is bad enough, players may be blacklisted from future tournaments and reported to osu! moderation staff. Trashtalk is fine—harrasment is not.
 10. Any other rules changes or unexpected occurrences will be announced on the Discord server.
 
 ### Stage regulations
@@ -119,14 +149,14 @@ The Royal Danish osu!Cup 2019 is run by various community members.
 ### Match regulations
 
 1. A private lobby will be created for your match, and both players will be invited approx. 10 minutes before their appointed time.
-2. Each player can request one warmup map, but it must be **below 4 minutes**. (Does not apply to Qualifiers, as there are no warmups)
+2. Each player can request one warmup map, but it must be **below 4 minutes** (does not apply to Qualifiers, as there are no warmups).
 3. After warmups each player will `!roll`:
    - The player who rolled the higher number bans first. The players will then alternate bans until all bans have been used. (High -> Low -> High -> Low)
    - The first person to pick will be the player who rolled the lower number. The players will then alternate picks. (Low -> High -> Low -> High -> ...)
 4. A player cannot ban a map from the same category twice.
 5. A player cannot pick the same mod twice in a row, with the exception of Nomod.
 6. In case of a tie, the tiebreaker will be played.
-7. When FreeMod is picked each player must use at least one mod. Allowed mods are: FL, HD, HR
+7. When FreeMod is picked each player must use at least one mod. Allowed mods are: FL, HD, HR.
 8. If a player disconnects or experiences trouble within the first 15 seconds of a map, the referee must abort the match if notified of the issue. If anyone is found to abuse this rule, they will be banned from all future instances of the tournament.
 9. Results will be displayed on the Challonge bracket, and will be announced by the referee in the match lobby.
 

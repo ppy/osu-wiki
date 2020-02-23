@@ -8,7 +8,7 @@ tags:
 
 ![RDOC 2017 logo](img/logo.png)
 
-The **Royal Danish osu!Cup 2017** (***RDOC 2017***) was a Danish 1v1 double-elimination osu!standard tournament hosted by ![][flag_DK] [Hudda](https://osu.ppy.sh/users/4103629), ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138), and ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469). This was the third installment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2017** (***RDOC 2017***) was a Danish 1v1 double-elimination osu! tournament hosted by ![][flag_DK] [Hudda](https://osu.ppy.sh/users/4103629), ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138), and ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469). It was the third installment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 
@@ -20,7 +20,7 @@ The **Royal Danish osu!Cup 2017** (***RDOC 2017***) was a Danish 1v1 double-elim
 | Round of 16 | 2017-03-18/2017-03-19 |
 | Quarterfinals | 2017-03-25/2017-03-26 |
 | Semifinals | 2017-04-01/2017-04-02 |
-| Finals & Grand Finals | 2017-04-08/2017-04-09 |
+| Finals and Grand Finals | 2017-04-08/2017-04-09 |
 
 ## Prizes
 
@@ -81,10 +81,10 @@ The Royal Danish osu!Cup 2017 was run by various community members.
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_DK] [raser1234](https://osu.ppy.sh/users/2527887) |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_DK] [iamVill](https://osu.ppy.sh/users/6295380) |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653) |
-| 4th place | ![][flag_DK] [teamplayer51](https://osu.ppy.sh/users/3084508) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_DK] [raser1234](https://osu.ppy.sh/users/2527887) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_DK] [iamVill](https://osu.ppy.sh/users/6295380) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653) |
+| *4th place* | ![][flag_DK] [teamplayer51](https://osu.ppy.sh/users/3084508) |
 
 ## Mappools
 
@@ -242,24 +242,12 @@ Saturday, 2018-10-20:
 
 ### Semifinals
 
-Thursday, 2018-04-06:
+Friday, 2018-03-31:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| UB | Hudda ![][flag_DK] | 1 | **6** | ![][flag_DK] **iamVill** |
-
-Monday, 2018-04-03:
-
-| Group | Player 1 |  |  | Player 2 |
-| :-: | --: | :-: | :-: | :-- |
-| LB | **Vandabe** ![][flag_DK] | **6** | 2 | ![][flag_DK] Zakura |
-
-Sunday, 2018-04-02:
-
-| Group | Player 1 |  |  | Player 2 |
-| :-: | --: | :-: | :-: | :-- |
-| LB | LedoodeNiginz ![][flag_DK] | 1 | **6** | ![][flag_DK] **teamplayer51** |
-| LB | **teamplayer51** ![][flag_DK] | **6** | 1 | ![][flag_DK] Kazutakee |
+| LB | **Zakura** ![][flag_DK] | **6** | 0 | ![][flag_DK] Kawatta |
+| LB | Zog ![][flag_DK] | 4 | **6** | ![][flag_DK] **Kazutakee** |
 
 Saturday, 2018-04-01:
 
@@ -268,23 +256,26 @@ Saturday, 2018-04-01:
 | UB | **waefwerf** ![][flag_DK] | **6** | 4 | ![][flag_DK] raser1234 |
 | LB | Crylizhy ![][flag_DK] | 3 | **6** | ![][flag_DK] **Vandabe** |
 
-Friday, 2018-03-31:
+Sunday, 2018-04-02:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| LB | **Zakura** ![][flag_DK] | **6** | 0 | ![][flag_DK] Kawatta |
-| LB | Zog ![][flag_DK] | 4 | **6** | ![][flag_DK] **Kazutakee** |
+| LB | LedoodeNiginz ![][flag_DK] | 1 | **6** | ![][flag_DK] **teamplayer51** |
+| LB | **teamplayer51** ![][flag_DK] | **6** | 1 | ![][flag_DK] Kazutakee |
+
+Monday, 2018-04-03:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| LB | **Vandabe** ![][flag_DK] | **6** | 2 | ![][flag_DK] Zakura |
+
+Thursday, 2018-04-06:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| UB | Hudda ![][flag_DK] | 1 | **6** | ![][flag_DK] **iamVill** |
 
 ### Quarterfinals
-
-Sunday, 2018-03-26:
-
-| Group | Player 1 |  |  | Player 2 |
-| :-: | --: | :-: | :-: | :-- |
-| LB | \[ Pennek \] ![][flag_DK] | 2 | **5** | ![][flag_DK] **Vandabe** |
-| LB | **Kazutakee** ![][flag_DK] | **6** | 0 | ![][flag_DK] Asymmetry Echo |
-| UB | Kawatta ![][flag_DK] | 1 | **5** | ![][flag_DK] **iamVill** |
-| UB | teamplayer51 ![][flag_DK] | 2 | **5** | ![][flag_DK] **waefwerf** |
 
 Saturday, 2018-03-25:
 
@@ -295,19 +286,29 @@ Saturday, 2018-03-25:
 | LB | **Zakura** ![][flag_DK] | **5** | 2 | ![][flag_DK] StevenDANK |
 | LB | **LedoodeNiginz** ![][flag_DK] | **5** | 0 | ![][flag_DK] Power Supply |
 
+Sunday, 2018-03-26:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| LB | \[ Pennek \] ![][flag_DK] | 2 | **5** | ![][flag_DK] **Vandabe** |
+| LB | **Kazutakee** ![][flag_DK] | **6** | 0 | ![][flag_DK] Asymmetry Echo |
+| UB | Kawatta ![][flag_DK] | 1 | **5** | ![][flag_DK] **iamVill** |
+| UB | teamplayer51 ![][flag_DK] | 2 | **5** | ![][flag_DK] **waefwerf** |
+
 ### Round of 16
 
-Tuesday, 2018-03-21:
+Friday, 2017-03-17:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| UB | **iamVill** ![][flag_DK] | **5** | 1 | ![][flag_DK] Asymmetry Echo |
+| UB | Power Supply ![][flag_DK] | 0 | **5** | ![][flag_DK] **Hudda** |
 
-Monday, 2018-03-20:
+Saturday, 2018-03-18:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| UB | **Kawatta** ![][flag_DK] | **5** | 3 | ![][flag_DK] Kazutakee |
+| UB | \[ Pennek \] ![][flag_DK] | 1 | **5** | ![][flag_DK] **waefwerf** |
+| UB | **Crylizhy** ![][flag_DK] | **5** | 1 | ![][flag_DK] LedoodeNiginz |
 
 Sunday, 2018-03-19:
 
@@ -317,76 +318,19 @@ Sunday, 2018-03-19:
 | UB | **Zog** ![][flag_DK] | **5** | 2 | ![][flag_DK] Zakura |
 | UB | StevenDANK ![][flag_DK] | 3 | **5** | ![][flag_DK] **raser1234** |
 
-Saturday, 2018-03-18:
+Monday, 2018-03-20:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| UB | \[ Pennek \] ![][flag_DK] | 1 | **5** | ![][flag_DK] **waefwerf** |
-| UB | **Crylizhy** ![][flag_DK] | **5** | 1 | ![][flag_DK] LedoodeNiginz |
+| UB | **Kawatta** ![][flag_DK] | **5** | 3 | ![][flag_DK] Kazutakee |
 
-Friday, 2017-03-17:
+Tuesday, 2018-03-21:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| UB | Power Supply ![][flag_DK] | 0 | **5** | ![][flag_DK] **Hudda** |
+| UB | **iamVill** ![][flag_DK] | **5** | 1 | ![][flag_DK] Asymmetry Echo |
 
 ### Group Stage
-
-Sunday, 2017-03-12:
-
-| Group | Player 1 |  |  | Player 2 |
-| :-: | --: | :-: | :-: | :-- |
-| B | **waefwerf** ![][flag_DK] | **4** | 0 | ![][flag_DK] seb2110 |
-| B | **Kazutakee** ![][flag_DK] | **4** | 2 | ![][flag_DK] Xanoxe |
-| B | Xanoxe ![][flag_DK] | 1 | **4** | ![][flag_DK] **waefwerf** |
-| B | **Kazutakee** ![][flag_DK] | **4** | 0 | ![][flag_DK] seb2110 |
-| B | **waefwerf** ![][flag_DK] | **4** | 1 | ![][flag_DK] Kazutakee |
-| B | **Xanoxe** ![][flag_DK] | **4** | 1 | ![][flag_DK] seb2110 |
-| C | **iamVill** ![][flag_DK] | **4** | 0 | ![][flag_DK] LedoodeNiss |
-| C | **teamplayer51** ![][flag_DK] | **4** | 0 | ![][flag_DK] Hestai |
-| C | Hestai ![][flag_DK] | 0 | **4** | ![][flag_DK] **iamVill** |
-| C | **teamplayer51** ![][flag_DK] | **4** | 0 | ![][flag_DK] LedoodeNiss |
-| C | **iamVill** ![][flag_DK] | **4** | 0 | ![][flag_DK] teamplayer51 |
-| C | Hestai ![][flag_DK] | 1 | **4** | ![][flag_DK] **LedoodeNiss** |
-
-Saturday, 2017-03-11:
-
-| Group | Player 1 |  |  | Player 2 |
-| :-: | --: | :-: | :-: | :-- |
-| D | **Vandabe** ![][flag_DK] | **4** | 2 | ![][flag_DK] TheFancyPikachu |
-| D | **Asymmetry Echo** ![][flag_DK] | **4** | 1 | ![][flag_DK] ZzcortezZ |
-| D | ZzcortezZ ![][flag_DK] | 1 | **4** | ![][flag_DK] **Vandabe** |
-| D | **Asymmetry Echo** ![][flag_DK] | **4** | 0 | ![][flag_DK] TheFancyPikachu |
-| D | **Vandabe** ![][flag_DK] | **4** | 1 | ![][flag_DK] Asymmetry Echo |
-| D | **ZzcortezZ** ![][flag_DK] | **4** | 3 | ![][flag_DK] TheFancyPikachu |
-| G | **StevenDANK** ![][flag_DK] | **4** | 1 | ![][flag_DK] Gudafild |
-| G | **StevenDANK** ![][flag_DK] | **4** | 1 | ![][flag_DK] Hoarsefish |
-| G | Gudafild ![][flag_DK] | 1 | **4** | ![][flag_DK] **Hoarsefish** |
-
-Friday, 2017-03-10:
-
-| Group | Player 1 |  |  | Player 2 |
-| :-: | --: | :-: | :-: | :-- |
-| G | Gudafild ![][flag_DK] | 2 | **4** | ![][flag_DK] **Hudda** |
-| G | **Hudda** ![][flag_DK] | **4** | 3 | ![][flag_DK] StevenDANK |
-| G | **Hudda** ![][flag_DK] | **4** | 1 | ![][flag_DK] Hoarsefish |
-| E | **Crylizhy** ![][flag_DK] | **4** | 0 | ![][flag_DK] Contaminate |
-| E | Contaminate ![][flag_DK] | 2 | **4** | ![][flag_DK] **Zog** |
-| E | Contaminate ![][flag_DK] | 3 | **4** | ![][flag_DK] **DragonsDungeon** |
-
-Sunday, 2017-03-05:
-
-| Group | Player 1 |  |  | Player 2 |
-| :-: | --: | :-: | :-: | :-- |
-| E | **Zog** ![][flag_DK] | **4** | 1 | ![][flag_DK] DragonsDungeon |
-| E | **Crylizhy** ![][flag_DK] | **4** | 2 | ![][flag_DK] DragonsDungeon |
-| E | Zog ![][flag_DK] | 2 | **4** | ![][flag_DK] **Crylizhy** |
-| H | **raser1234** ![][flag_DK] | **4** | 0 | ![][flag_DK] Power Supply |
-| H | -Gabby- ![][flag_DK] | 1 | **4** | ![][flag_DK] **dobo-chan** |
-| H | dobo-chan ![][flag_DK] | 1 | **4** | ![][flag_DK] **raser1234** |
-| H | -Gabby- ![][flag_DK] | 0 | **4** | ![][flag_DK] **Power Supply** |
-| H | **raser1234** ![][flag_DK] | **4** | 0 | ![][flag_DK] -Gabby- |
-| H | dobo-chan ![][flag_DK] | 3 | **4** | ![][flag_DK] **Power Supply** |
 
 Saturday, 2017-03-04:
 
@@ -405,6 +349,62 @@ Saturday, 2017-03-04:
 | F | **Zakura** ![][flag_DK] | **4** | 1 | ![][flag_DK] LedoodeNiginz |
 | F | **Arild** ![][flag_DK] | **4** | 3 | ![][flag_DK] TimG |
 
+Sunday, 2017-03-05:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| E | **Zog** ![][flag_DK] | **4** | 1 | ![][flag_DK] DragonsDungeon |
+| E | **Crylizhy** ![][flag_DK] | **4** | 2 | ![][flag_DK] DragonsDungeon |
+| E | Zog ![][flag_DK] | 2 | **4** | ![][flag_DK] **Crylizhy** |
+| H | **raser1234** ![][flag_DK] | **4** | 0 | ![][flag_DK] Power Supply |
+| H | -Gabby- ![][flag_DK] | 1 | **4** | ![][flag_DK] **dobo-chan** |
+| H | dobo-chan ![][flag_DK] | 1 | **4** | ![][flag_DK] **raser1234** |
+| H | -Gabby- ![][flag_DK] | 0 | **4** | ![][flag_DK] **Power Supply** |
+| H | **raser1234** ![][flag_DK] | **4** | 0 | ![][flag_DK] -Gabby- |
+| H | dobo-chan ![][flag_DK] | 3 | **4** | ![][flag_DK] **Power Supply** |
+
+Friday, 2017-03-10:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| G | Gudafild ![][flag_DK] | 2 | **4** | ![][flag_DK] **Hudda** |
+| G | **Hudda** ![][flag_DK] | **4** | 3 | ![][flag_DK] StevenDANK |
+| G | **Hudda** ![][flag_DK] | **4** | 1 | ![][flag_DK] Hoarsefish |
+| E | **Crylizhy** ![][flag_DK] | **4** | 0 | ![][flag_DK] Contaminate |
+| E | Contaminate ![][flag_DK] | 2 | **4** | ![][flag_DK] **Zog** |
+| E | Contaminate ![][flag_DK] | 3 | **4** | ![][flag_DK] **DragonsDungeon** |
+
+Saturday, 2017-03-11:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| D | **Vandabe** ![][flag_DK] | **4** | 2 | ![][flag_DK] TheFancyPikachu |
+| D | **Asymmetry Echo** ![][flag_DK] | **4** | 1 | ![][flag_DK] ZzcortezZ |
+| D | ZzcortezZ ![][flag_DK] | 1 | **4** | ![][flag_DK] **Vandabe** |
+| D | **Asymmetry Echo** ![][flag_DK] | **4** | 0 | ![][flag_DK] TheFancyPikachu |
+| D | **Vandabe** ![][flag_DK] | **4** | 1 | ![][flag_DK] Asymmetry Echo |
+| D | **ZzcortezZ** ![][flag_DK] | **4** | 3 | ![][flag_DK] TheFancyPikachu |
+| G | **StevenDANK** ![][flag_DK] | **4** | 1 | ![][flag_DK] Gudafild |
+| G | **StevenDANK** ![][flag_DK] | **4** | 1 | ![][flag_DK] Hoarsefish |
+| G | Gudafild ![][flag_DK] | 1 | **4** | ![][flag_DK] **Hoarsefish** |
+
+Sunday, 2017-03-12:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| B | **waefwerf** ![][flag_DK] | **4** | 0 | ![][flag_DK] seb2110 |
+| B | **Kazutakee** ![][flag_DK] | **4** | 2 | ![][flag_DK] Xanoxe |
+| B | Xanoxe ![][flag_DK] | 1 | **4** | ![][flag_DK] **waefwerf** |
+| B | **Kazutakee** ![][flag_DK] | **4** | 0 | ![][flag_DK] seb2110 |
+| B | **waefwerf** ![][flag_DK] | **4** | 1 | ![][flag_DK] Kazutakee |
+| B | **Xanoxe** ![][flag_DK] | **4** | 1 | ![][flag_DK] seb2110 |
+| C | **iamVill** ![][flag_DK] | **4** | 0 | ![][flag_DK] LedoodeNiss |
+| C | **teamplayer51** ![][flag_DK] | **4** | 0 | ![][flag_DK] Hestai |
+| C | Hestai ![][flag_DK] | 0 | **4** | ![][flag_DK] **iamVill** |
+| C | **teamplayer51** ![][flag_DK] | **4** | 0 | ![][flag_DK] LedoodeNiss |
+| C | **iamVill** ![][flag_DK] | **4** | 0 | ![][flag_DK] teamplayer51 |
+| C | Hestai ![][flag_DK] | 1 | **4** | ![][flag_DK] **LedoodeNiss** |
+
 ## Ruleset
 
 ### General rules
@@ -417,7 +417,7 @@ Saturday, 2017-03-04:
 6. If there are no referees available, the match can be postponed.
 7. If both players get the same score on a Tiebreaker, the Tiebreaker will be replayed.
 8. Players have 15 minutes to show up to their scheduled match. If the opponent doesn't show up, the player who was supposed to play automatically advances onwards.
-9. If a player is found to be abusive or rude to other players in the tournament, they may be removed from the tournament at the hosts' discretion. This will never be done without talking to the parties involved. If conduct is bad enough, players may be blacklisted from future tournaments and reported to osu! moderation staff. Trashtalk is fine - harrasment is not.
+9. If a player is found to be abusive or rude to other players in the tournament, they may be removed from the tournament at the hosts' discretion. This will never be done without talking to the parties involved. If conduct is bad enough, players may be blacklisted from future tournaments and reported to osu! moderation staff. Trashtalk is fine—harrasment is not.
 10. Any other rules changes or unexpected occurrences will be announced on the Discord server.
 
 ### Stage regulations
