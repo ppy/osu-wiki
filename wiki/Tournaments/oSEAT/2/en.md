@@ -15,7 +15,7 @@ The **osu! South East Asia Tournament 2** (***oSEAT2***) was a South East Asian 
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2018-10-26/2018-11-25 |
-| Live drawings | 2018-11-26 (20:00) |
+| Live drawings | 2018-11-26 (20:00 UTC+8) |
 | Qualifiers | 2018-11-30/2018-12-04 |
 | Group Stage | 2018-12-08/2018-12-18 |
 | Round of 32 | 2018-12-19/2018-12-26 |
