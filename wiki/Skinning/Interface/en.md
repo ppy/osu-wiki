@@ -28,7 +28,7 @@ Notes:
 - By default, osu! has a set of background images that it will cycle through.
   - If this element is skinned and the user has osu!supporter tag, this element will override this behaviour.
 - This element is used as the playfield if beatmap does not have a background.
-- The seasonal background option can affect the visbility of this element.
+- The seasonal background option can affect the visibility of this element.
   - If it is set to `Always` the seasonal backgrounds will override this element.
   - If it is set to `Sometimes` the seasonal backgrounds will override this element while they are in active use.
 - `.jpg` extension only.
@@ -157,7 +157,7 @@ Notes:
 Notes:
 
 - This element is used when the player presses the smoke key.
-  - By default, the smoke key is binded to `C`.
+  - By default, the smoke key is bound to `C`.
 
 ---
 
@@ -966,8 +966,8 @@ Notes:
 - Shrinks briefly when the keys are pressed.
 - Tinting varies by button location and state:
   - White, if key is not pressed.
-  - Yellow, if the key is pressed and locationed on the top half.
-  - Purple, if the key is pressed and locationed on the bottom half.
+  - Yellow, if the key is pressed and located on the top half.
+  - Purple, if the key is pressed and located on the bottom half.
 
 ### Pause screen
 
@@ -980,7 +980,7 @@ Notes:
 Notes:
 
 - When the game is paused, the playfield will be dimmed and this file will overlay on top of it.
-- This element is will not strech to fit.
+- This element will not stretch to fit.
 - Full image height is 768px.
 - Smaller images are shown with transparent borders while larger images are partially shown.
 - This can also be a `.jpg` file (and can have the `.jpg` extension).
@@ -997,7 +997,7 @@ Notes:
 Notes:
 
 - When the player has failed, the playfield will be dimmed and this file will overlay on top of it.
-- This element will strech to fit.
+- This element will stretch to fit.
 - This can also be a `.jpg` file (and can have the `.jpg` extension).
   - osu! preferences `.png` over `.jpg`.
 
