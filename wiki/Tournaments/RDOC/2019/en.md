@@ -59,7 +59,7 @@ The Royal Danish osu!Cup 2019 is run by various community members.
 ## Participants
 
 | Seed | Members | Qualifier Score |
-| :-- | :-- | :-: |
+| --: | :-- | --: |
 | #1 | ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469) | 9820452 |
 | #2 | ![][flag_DK] [Tikzyy](https://osu.ppy.sh/users/11380904) | 8740290 |
 | #3 | ![][flag_DK] [Vandabe](https://osu.ppy.sh/users/7050754) | 8700974 |
