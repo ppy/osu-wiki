@@ -65,7 +65,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_CA] [Lafayla](https://osu.ppy.sh/users/5312547) |  |
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | Chinese |
 | ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | Spanish |
-| ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | <!-- TODO --> |
+| ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | Russian |
 | ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | German |
 | ![][flag_US] [Mun](https://osu.ppy.sh/users/6699165) |  |
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | German |
@@ -100,8 +100,8 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | :-- | :-- |
 | ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | Chinese, Cantonese |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Spanish |
-| ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | <!-- TODO --> |
-| ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | <!-- TODO --> |
+| ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | Turkish |
+| ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | Chinese, Cantonese |
 | ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  |
 | ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Thai |
 | ![][flag_ID] [Volta](https://osu.ppy.sh/users/4154071) | Indonesian |
@@ -175,7 +175,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | Name | Additional languages |
 | :-- | :-- |
 | ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Indonesian |
-| ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | <!-- TODO --> |
+| ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Korean |
 | ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) | Dutch |
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
