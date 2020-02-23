@@ -53,7 +53,7 @@ Não para ser confundido com os [osu! Alumni](/wiki/People/osu!_Alumni), que sã
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Presença de moderação fenomenal (10k+ kills) |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Presença de moderação fenomenal (10k+ kills) |
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Presença de moderação fenomenal e comprometimento (30k+ kills) |
-| ![][flag_DE] [MoonShade](https://osu.ppy.sh/users/273649) | Developing revolutionary storyboarding utilities (SGL) |
+| ![][flag_DE] [MoonShade](https://osu.ppy.sh/users/273649) | Desenvolvendo utilidades revolucionárias de storyboarding (SGL) |
 | ![][flag_PL] [iys](https://osu.ppy.sh/users/322480) | Desenvolvimento de toolkit Mikuia.tv - Um bot toolkit para Twitch de osu! |
 | ![][flag_DE] [Tillerino](https://osu.ppy.sh/users/2070907) | Desenvolvimento de um bot para recomendação de Beatmaps |
 
@@ -107,7 +107,7 @@ Não para ser confundido com os [osu! Alumni](/wiki/People/osu!_Alumni), que sã
 | ![][flag_AU] [Syrin](https://osu.ppy.sh/users/5701575) | Criador de PerformancePlus e osu!chan |
 | ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) | Esforço fenomenal na produção e publicação do projeto Score |
 | ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) | Esforço fenomenal na produção e publicação do projeto Score |
-| ![][flag_US] [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | OEsforço fenomenal em avançar o projeto osu! wiki project com várias revisions, reworks e reviews |
+| ![][flag_US] [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | Esforço fenomenal em avançar o projeto osu! wiki project com várias revisions, reworks e reviews |
 | ![][flag_PL] [TPGPL](https://osu.ppy.sh/users/3944705) | Pilar do projeto osu! wiki e contribuição fenomenal durante os anos |
 
 ## 2019
