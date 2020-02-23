@@ -2,7 +2,7 @@
 
 *Veja também: [Mascots/Gallery](/wiki/Mascots/Gallery)*
 
-Um vídeo do YouTube mostrando os mascotes do osu! pode ser visto em [Mascot Showcase](https://youtu.be/mJF2cAs_MrI).
+Um vídeo do YouTube mostrando as mascotes do osu! pode ser visto em [Mascot Showcase](https://youtu.be/mJF2cAs_MrI).
 
 ## Oficial
 
@@ -18,7 +18,7 @@ pippi, estilizado em letra minúscula "p", é a mascote do osu!standard que se j
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
-Yuzu é a mascote do osu!catch que se juntou em 2014-06-22. Nascido em 2000-04-10, ele tem 172 centimetres de altura, e pesa 65 quilogramas. A sua arte atual foi projetada por [Thievley](https://osu.ppy.sh/users/4717672). Enquanto que o projeto de sua arte inicial e sprites de catcher foram feitas por [ztrot](https://osu.ppy.sh/users/6347); Daru criou sua arte de comboburst.
+Yuzu é a mascote do osu!catch que se juntou em 2014-06-22. Nascido em 2000-04-10, ele tem 172 centímetros de altura, e pesa 65 quilogramas. A sua arte atual foi projetada por [Thievley](https://osu.ppy.sh/users/4717672). Enquanto que o projeto de sua arte inicial e sprites de catcher foram feitas por [ztrot](https://osu.ppy.sh/users/6347); Daru criou sua arte de comboburst.
 
 ### ![osu!mania icon](/wiki/shared/mode/mania.png) Maria
 
@@ -72,7 +72,7 @@ Agent J também foi um destake na skin de [LuigiHann](https://osu.ppy.sh/users/1
 
 ![Aiko](img/Aiko.png "Aiko")
 
-Projetada por [JMC](https://osu.ppy.sh/users/774010), Aiko era uma das participantes na competição de design de mascotes para osu!taiko. Ela é uma garota energética com paixão pelo osu!taiko, mesmo que ela não seja a melhor nisso! Vestindo um par estiloso de sapatos "Tabi" e um acompanhamento de acessórios da pippidon, a mascote de outrora vive nessa garota corajosa. Ela é bem baixa, medindo apenas 154 centémetros, e nascida em 1999-04-06.
+Projetada por [JMC](https://osu.ppy.sh/users/774010), Aiko era uma das participantes na competição de design de mascotes para osu!taiko. Ela é uma garota energética com paixão pelo osu!taiko, mesmo que ela não seja a melhor nisso! Vestindo um par estiloso de sapatos "Tabi" e um acompanhamento de acessórios da pippidon, a mascote de outrora vive nessa garota corajosa. Ela é bem baixa, medindo apenas 154 centímetros, e nascida em 1999-04-06.
 
 ### Alisa
 
@@ -84,7 +84,7 @@ Projetada por [\[ Glitch \]](https://osu.ppy.sh/users/3781400), Alisa era uma da
 
 ![Chirou](img/Chirou.png "Chirou")
 
-Projetada por [pyun](https://osu.ppy.sh/users/981534), Chirou era uma das participantes na competição de design de mascotes para osu!taiko. Ela é bem rigorosa e exigente, uma perfeccionista, e não gosta de errar—especialmente em suas beats no osu!taiko. Mas deixando sua perspectiva forte de lado, se você chegar em seu ponto fraco, ela pode ser bem fofa. Ela tem 14 anos de idade, Nascida em 25 de Outubro com o tipo sanguíneo AB. Ela também mede 149 centímetros e pesa 45 quilogramas. Seus hobbies incluem praticar batucar, se aquecer em sua capa, e coletar gemas ou pedras. Chirou também apareceu em vários envios de fanarts de usuários.
+Projetada por [pyun](https://osu.ppy.sh/users/981534), Chirou era uma das participantes na competição de design de mascotes para osu!taiko. Ela é bem rigorosa e exigente, uma perfeccionista, e não gosta de errar—especialmente em suas beats no osu!taiko. Mas deixando sua perspectiva forte de lado, se você chegar em seu ponto fraco, ela pode ser bem fofa. Ela tem 14 anos de idade, nascida em 25 de Outubro e tendo seu tipo sanguíneo AB. Ela também mede 150 centímetros e pesa 45 quilogramas. Seus hobbies incluem praticar batucar, se aquecer em sua capa, e coletar gemas ou pedras. Chirou também apareceu em vários envios de fanarts de usuários.
 
 ### Taikonator
 
