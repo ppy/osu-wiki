@@ -159,7 +159,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | some Spanish |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Japanese, Cantonese, Chinese |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Chinese |
-| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | <!-- TODO --> |
+| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | German, Serbian |
 | ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) | Japanese |
 | ![][flag_FR] [Yales](https://osu.ppy.sh/users/2377881) | French, Japanese |
 
