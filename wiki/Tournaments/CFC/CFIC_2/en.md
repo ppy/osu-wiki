@@ -74,6 +74,30 @@ The Catch French Intermediate Cup 2 is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here! (96 MB)](https://mega.nz/#!UR5gSajR!q18ZIqRBYnyJ9HraaJr2YGIV-Z7r1Y3lpy0voxCElOc)**
+
+- NoMod
+  - [Serj Tankian - Sky Is Over (Hareimu) \[The Sun\]](https://osu.ppy.sh/beatmapsets/914791#fruits/1910610)
+  - [petit milady - Koi wa Milk Tea (Catch The Beat) \[Asu\_ne's Collab Rain\]](https://osu.ppy.sh/beatmapsets/475028#fruits/1132938)
+  - [Duoscience - Indifferences (Mir) \[Ametrin's Insane\]](https://osu.ppy.sh/beatmapsets/722662#fruits/1538481)
+  - [Kagamine Rin - Black Rebel (val0108) \[0108 Rebel\]](https://osu.ppy.sh/beatmapsets/28425#fruits/109301)
+- Hidden
+  - [Kon Natsumi - Niji no Kakera (mintong89) \[m1ng's Rain\]](https://osu.ppy.sh/beatmapsets/164528#fruits/404829)
+  - [xi - ANiMA (liaoxingyao) \[LV.11\]](https://osu.ppy.sh/beatmapsets/359191#fruits/789815)
+  - [Seven Lions with Myon and Shane 54 - Strangers (Feat. Tove Lo) (Maeglwn) \[Insane\]](https://osu.ppy.sh/beatmapsets/192347#fruits/457456)
+- HardRock
+  - [The Real Tuesday Weld - The Lupine Waltz (-Ken) \[Myth\]](https://osu.ppy.sh/beatmapsets/1113573#fruits/2326443)
+  - [CustomiZ - COOLEST (Ascendance) \[Salad\]](https://osu.ppy.sh/beatmapsets/502512#fruits/1498722)
+  - [u's - Snow halation (-Zeraora) \[ezek's Hard\]](https://osu.ppy.sh/beatmapsets/894436#fruits/1869090)
+- DoubleTime
+  - [LukHash - WHEN AN ANGEL DIES (Nelly) \[Platter\]](https://osu.ppy.sh/beatmapsets/1008600#fruits/2112182)
+  - [LEAF XCEED Music Division - Dear You [ver. XCEED] (semaphore) \[Sentimentality\]](https://osu.ppy.sh/beatmapsets/951890#fruits/1987779)
+  - [Groove Coverage - Angeline (Kurai) \[Hard\]](https://osu.ppy.sh/beatmapsets/197753#fruits/469007)
+- Tiebreaker
+  - **[Triad Primus - Trancing Pulse (Spectator) \[Rain\]](https://osu.ppy.sh/beatmapsets/380135#fruits/831859)**
+
 ### Group Stage
 
 **[Download the mappack here! (57 MB)](https://mega.nz/#!48V30CiY!3XUk847uzPDk0l1JRpojn9251o3SpFeE87b6x9l44PI)**
