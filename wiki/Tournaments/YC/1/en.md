@@ -107,6 +107,8 @@ The Yuri Cup is run by various community members.
 
 ### Round of 32
 
+**[Download the mappack here! (116 MB)](https://mega.nz/#!3TQC3KLa!jYVQf_oFBbuBP0yseL6k2Q1j8q0W2yf6ytU6ZALa-uI)**
+
 - NoMod
   - [96neko - E? Aa, sou. (newton-) \[Fabricated\]](https://osu.ppy.sh/beatmapsets/902346#osu/1914227)
   - [yak\_won - Lucid (Raja) \[Radiant\]](https://osu.ppy.sh/beatmapsets/496093#osu/1055975)
