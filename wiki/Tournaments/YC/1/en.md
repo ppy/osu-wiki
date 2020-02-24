@@ -40,9 +40,9 @@ The Yuri Cup is run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1015368)
-- [Discord server](https://discord.gg/Hxttw27)
-- [Registration form](https://forms.gle/yp5juxoyund91EmaA)
+- [YC Discord server](https://discord.gg/Hxttw27)
 - [Challonge brackets](https://challonge.com/yuricup)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/19oFY3WgkQ-Wqkawu_4AUDSIEUCfZ50tPz4qStb0TH2k/edit#gid=0)**
 
 ## Participants
 
