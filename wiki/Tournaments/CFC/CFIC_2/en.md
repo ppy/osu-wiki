@@ -133,6 +133,42 @@ The Catch French Intermediate Cup 2 is run by various community members.
 - DoubleTime
   - [TiA - Ryuusei (Dangaard) \[Hard\]](https://osu.ppy.sh/beatmapsets/10960#fruits/42241)
 
+## Match results
+
+### Group Stage
+
+Saturday, 22 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Fuka Pura** ![][flag_FR] | **4** | 2 | ![][flag_FR] YANOO123 | [#1](https://osu.ppy.sh/community/matches/58638242) |
+| NoLimitFS ![][flag_FR] | 1 | **4** | ![][flag_FR] **dracoV** | [#1](https://osu.ppy.sh/community/matches/58639370) |
+| redjiii ![][flag_FR] | 0 | 4 | ![][flag_FR] **Khalemm** | [#1](https://osu.ppy.sh/community/matches/58640834) |
+| Pizu ![][flag_FR] | 2 | **4** | ![][flag_FR] **dracoV** | [#1](https://osu.ppy.sh/community/matches/58640838) |
+| **YANOO123** ![][flag_FR] | **0** | -1 | ![][flag_FR] KillingSpin | *win by default* |
+| redjiii ![][flag_FR] | 0 | **4** | ![][flag_FR] **Dask** | [#1](https://osu.ppy.sh/community/matches/58642443) |
+| Khalemm ![][flag_FR] | 3 | **4** | ![][flag_FR] **Dask** | [#1](https://osu.ppy.sh/community/matches/58646586) |
+
+Sunday, 23 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Oasix ![][flag_FR] | 0 | **4** | ![][flag_FR] **dracoV** | [#1](https://osu.ppy.sh/community/matches/58664569) |
+| TomyLeFaux ![][flag_FR] | -1 | **0** | ![][flag_FR] **Zard** | *win by default* |
+| NinjaCoktail ![][flag_FR] | 1 | **4** | ![][flag_FR] **Electr0o** | [#1](https://osu.ppy.sh/community/matches/58667261) |
+| **Aequo3** ![][flag_FR] | **4** | 1 | ![][flag_FR] redjiii | [#1](https://osu.ppy.sh/community/matches/58668747) |
+| **Electr0o** ![][flag_FR] | **4** | 0 | ![][flag_FR] TomyLeFaux | [#1](https://osu.ppy.sh/community/matches/58668672) |
+| Zard ![][flag_FR] | 0 | **4** | ![][flag_FR] **NinjaCoktail** | [#1](https://osu.ppy.sh/community/matches/58669225) |
+| **NinjaCoktail** ![][flag_FR] | **4** | 3 | ![][flag_FR] TomyLeFaux | [#1](https://osu.ppy.sh/community/matches/58670434) |
+| KillingSpin ![][flag_FR] | 2 | **4** | ![][flag_FR] **Kaleesy Pura** | [#1](https://osu.ppy.sh/community/matches/58670414) |
+| Zard ![][flag_FR] | 1 | **4** | ![][flag_FR] **Electr0o** | [#1](https://osu.ppy.sh/community/matches/58671721) |
+| Aequo3 ![][flag_FR] | 0 | **4** | ![][flag_FR] **Dask** | [#1](https://osu.ppy.sh/community/matches/58671944) |
+| **Fuka Pura** ![][flag_FR] | **4** | 0 | ![][flag_FR] KillingSpin | [#1](https://osu.ppy.sh/community/matches/58671948) |
+| **Kaleesy Pura** ![][flag_FR] | **4** | 1 | ![][flag_FR] YANOO123 | [#1](https://osu.ppy.sh/community/matches/58673378) |
+| Aequo3 ![][flag_FR] | 3 | **4** | ![][flag_FR] **Khalemm** | [#1](https://osu.ppy.sh/community/matches/58674787) |
+| **Pizu** ![][flag_FR] | **4** | 3 | ![][flag_FR] Oasix | [#1](https://osu.ppy.sh/community/matches/58675943) |
+| Kaleesy Pura ![][flag_FR] | 0 | **4** | ![][flag_FR] **Fuka Pura** | [#1](https://osu.ppy.sh/community/matches/58676378) |
+
 ## Ruleset
 
 ### General rules
