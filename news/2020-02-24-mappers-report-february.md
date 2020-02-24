@@ -20,7 +20,7 @@ This month's issue of the Mappers' Report contains following topics:
 - **[NAT Meetings](#natmeetings)**
 - **[Within the Beatmap Nominators and NAT](#withinbnnat)**
 - **[Mapping Contests](#mapping-contests)**
-- **[Summary](#summary)**
+- **[Conclusion](#conclusion)**
 
 ## <a id="rcchanges"></a>Ranking Criteria Changes
 
@@ -35,7 +35,7 @@ A description has been added to the rule "A beatmapset's custom difficulty namin
 - **[Hitsound File Length](/wiki/Ranking_Criteria#rules.4):** The minimum length for hitsound files has been reduced from 100ms to 25ms, after testing showed that 25ms hitsound files will behave correctly in-game.
 - **[Cutting Songs Guideline Changes](/wiki/Ranking_Criteria#guidelines.4):** Cuts are required to maintain the general impression and intensity of the full song, however the guideline about the cuts having to be 1:30 or above in length has been removed.
 - **[Background Requirements](/wiki/Ranking_Criteria#rules.5):** New minimum width and height sizes have been added in addition to the already present maximum width and height rules. The new minimum sizes are 160 pixels wide and 120 pixels high.
-- **[Background Quality Guideline](/wiki/Ranking_Criteria#guidelines.5):** A new guideline has been added specifying that background images must be of reasonable quality.
+- **[Background Quality Guideline](/wiki/Ranking_Criteria#guidelines.5):** A new guideline has been added specifying that background images should be of reasonable quality.
 
 ### osu!taiko
 
@@ -52,6 +52,8 @@ A description has been added to the rule "A beatmapset's custom difficulty namin
 A new specification has been added that sets with a single key mode must not use the key mode in the difficulty name.
 - **[Long note changes in Easy and Normal](/wiki/Ranking_Criteria/osu!mania#-easy):**
 The previous guidelines in Easy and Normal that "A long note cannot be released during another long note's body" have been removed. They have been replaced with "long note releases should be at least 1/1 beat from each other" for Easy difficulties and "long note releases should be at least 1/2 beat from each other" for Normal difficulties.
+- **[Chord usage change in Hard](/wiki/Ranking_Criteria/osu!mania#-hard):**
+The wording of the guideline that chords should be used sparingly got changed into "Chords within 1/4 streams should be at least 1/1 beat apart from each other".
 
 ## <a id="natmeetings"></a>NAT Meetings
 
@@ -115,17 +117,18 @@ If you are organizing a mapping contest that will begin within the next 1-3 mont
 
 ### Monthly Beatmapping Contest: February 2020
 
-This month's installment of the Monthly Beatmapping Contest (MBC) has arrived! Head on over to the [news post](https://osu.ppy.sh/home/news/2020-02-03-monthly-beatmapping-contest-february) to find out all about this month's restriction on your entries. If it's too late for you to make an entry given the deadline is in less than a week, worry not, at the start of March a new contest will begin so you'll have your chance to participate. Keep your eyes peeled for the news post that will be made when the March contest is ready.
+This month's installment of the **Monthly Beatmapping Contest (MBC)** has arrived! Head on over to the [news post](https://osu.ppy.sh/home/news/2020-02-03-monthly-beatmapping-contest-february) to find out all about this month's restriction on your entries. If it's too late for you to make an entry given the deadline is in less than a week, worry not, at the start of March a new contest will begin so you'll have your chance to participate. Keep your eyes peeled for the news post that will be made when the March contest is ready.
 
 ### 6th osu! Mapping Olympiad
 
-For the avid fruit catchers of the world, the 6th osu! Mapping Olympiad has shown itself, a great opportunity to flex your fruit placing muscles! This osu!catch contest requires you to map 2 difficulties for MYLK's *Waffle Wave* track. Head on over to the [contest listing](https://osu.ppy.sh/home/news/2020-02-15-osu-mapping-olympiad-6-catch) for all the details! As this is an Olympiad, the winner of the tournament will be given the title of **Elite Mapper**. Good luck to all of those participating, you have until March 13th to submit your fruity feasts.
+For the avid fruit catchers of the world, the **6th osu! Mapping Olympiad** has shown itself, a great opportunity to flex your fruit placing muscles! This osu!catch contest requires you to map 2 difficulties for MYLK's *Waffle Wave* track. Head on over to the [contest listing](https://osu.ppy.sh/home/news/2020-02-15-osu-mapping-olympiad-6-catch) for all the details! As this is an Olympiad, the winner of the tournament will be given the title of **Elite Mapper**. Good luck to all of those participating, you have until **March 13th** to submit your fruity feasts.
 
 ### Newspaper Cup
 
 The fantastic Chinese community organized tournament **Newspaper Cup** has made its yearly appearance and has now begun! This will be the contest's 6th yearly installment, making it one of the longest standing community organized mapping contests. All of the relevant information can be found [in this forum post](https://osu.ppy.sh/community/forums/topics/1023671) in both Chinese and English. You have until **March 15th** to submit your entries for one or more of the 4 available songs. Good luck to those planning on entering their creations into the contest!
 
-## <a id="summary"></a>Summary
+## <a id="conclusion"></a>Conclusion
+---
 
 Make sure to tune in to the next NAT Meeting on March 1st in the [osu!dev Discord Server](https://discord.gg/ppy) and to do your best on all those fantastic mapping contests open for your submissions! Thank you for your time reading this quite hefty article. As this is our first installment of the Mappers' Report, any feedback is appreciated, as we are still working hard on setting this up. The next installments should be a bit smaller since we had a lot to cover this time. We hope the information will prove itself useful to you!
 
