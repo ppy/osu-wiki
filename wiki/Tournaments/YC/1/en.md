@@ -154,58 +154,57 @@ The Yuri Cup is run by various community members.
 
 ### Qualifiers
 
-| Seed | Team | Sum | Average |
-| --: | :-- | --: | --: |
-| #1 | a la verga | 53 | 5.3 |
-| #2 | Corim's Bad Dream | 52 | 6.2 |
-| #3 | 安倍-プーチン | 67 | 6.7 |
-| #4 | Dziadzia team | 85 | 8.5 |
-| #5 | Urushihara Fan Club | 99 | 9.9 |
-| #6 | Rtzero x Rtzer0 | 109 | 10.9 |
-| #7 | Sakura Trick | 119 | 11.9 |
-| #8 | Baguette Vodka Salo | 122 | 12.2 |
-| #9 | 11:40 | 126 | 12.6 |
-| #10 | magblood debil | 132 | 13.2 |
-| #11 | Yuritarded | 144 | 14.4 |
-| #12 | SS Squad (and ruyu) | 148 | 14.8 |
-| #13 | Justice for Riko | 150 | 15 |
-| #14 | N | 155 | 15.5 |
-| #15 | Shaiden fanclub | 156 | 15.6 |
-| #16 | Hyouri Ittai | 157 | 15.7 |
-| #17 | rooGya | 161 | 16.1 |
-| #18 | Futon's Bunker | 162 | 16.2 |
-| #19 | Suce | 174 | 17.4 |
-| #20 | :flushed: | 183 | 18.3 |
-| #20 | MeAqua | 183 | 18.3 |
-| #22 | Voprossoff Fanclub | 210 | 21 |
-| #23 | team name #2 | 219 | 21.9 |
-| #24 | Milk & Scissors | 237 | 23.7 |
-| #25 | Team Ricky Montgomery | 244 | 24.4 |
-| #26 | Stavros1435 | 248 | 24.8 |
-| #27 | BloodTrail | 264 | 26.4 |
-| #27 | comfkuehlesblondes | 264 | 26.4 |
-| #29 | Donne moi une minute | 269 | 26.9 |
-| #30 | Farewell authorise | 276 | 27.6 |
-| #31 | Alligator Space Jam | 290 | 29 |
-| #32 | yayo | 297 | 29.7 |
-| #33 | DAB | 312 | 31.2 |
-| #34 | ptdrlol | 319 | 31.9 |
-| #35 | Budget Conquest | 343 | 34.3 |
-| #36 | Nosu | 352 | 35.2 |
-| #37 | burek sa sirom | 355 | 35.5 |
-| #38 | lesboner | 358 | 35.8 |
-| #39 | retarded ass trash team | 360 | 36 |
-| #40 | Koko Dayoo! \>.\< | 363 | 36.3 |
-| #41 | Begone Squares | 375 | 37.5 |
-| #42 | irbis team voronezh karate club | 387 | 38.7 |
-| #43 | bite U death v3 | 413 | 41.3 |
-| #44 | Bench Warmers | 417 | 41.7 |
-| #45 | carroça rebaixada | 442 | 44.2 |
-| #46 | CEO Of Yuri | 454 | 45.4
+| Seed | Team | Average |
+| --: | :-- | --: |
+| #1 | a la verga | 5.3 |
+| #2 | Corim's Bad Dream | 6.2 |
+| #3 | 安倍-プーチン | 6.7 |
+| #4 | Dziadzia team | 8.5 |
+| #5 | Urushihara Fan Club | 9.9 |
+| #6 | Rtzero x Rtzer0 | 10.9 |
+| #7 | Sakura Trick | 11.9 |
+| #8 | Baguette Vodka Salo | 12.2 |
+| #9 | 11:40 | 12.6 |
+| #10 | magblood debil | 13.2 |
+| #11 | Yuritarded | 14.4 |
+| #12 | SS Squad (and ruyu) | 14.8 |
+| #13 | Justice for Riko | 15 |
+| #14 | N | 15.5 |
+| #15 | Shaiden fanclub | 15.6 |
+| #16 | Hyouri Ittai | 15.7 |
+| #17 | rooGya | 16.1 |
+| #18 | Futon's Bunker | 16.2 |
+| #19 | Suce | 17.4 |
+| #20 | :flushed: | 18.3 |
+| #20 | MeAqua | 18.3 |
+| #22 | Voprossoff Fanclub | 21 |
+| #23 | team name #2 | 21.9 |
+| #24 | Milk & Scissors | 23.7 |
+| #25 | Team Ricky Montgomery | 24.4 |
+| #26 | Stavros1435 | 24.8 |
+| #27 | BloodTrail | 26.4 |
+| #27 | comfkuehlesblondes | 26.4 |
+| #29 | Donne moi une minute | 26.9 |
+| #30 | Farewell authorise | 27.6 |
+| #31 | Alligator Space Jam | 29 |
+| #32 | yayo | 29.7 |
+| #33 | DAB | 31.2 |
+| #34 | ptdrlol | 31.9 |
+| #35 | Budget Conquest | 34.3 |
+| #36 | Nosu | 35.2 |
+| #37 | burek sa sirom | 35.5 |
+| #38 | lesboner | 35.8 |
+| #39 | retarded ass trash team | 36 |
+| #40 | Koko Dayoo! \>.\< | 36.3 |
+| #41 | Begone Squares | 37.5 |
+| #42 | irbis team voronezh karate club | 38.7 |
+| #43 | bite U death v3 | 41.3 |
+| #44 | Bench Warmers | 41.7 |
+| #45 | carroça rebaixada | 44.2 |
+| #46 | CEO Of Yuri | 45.4
 
 - More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1OanmoSiHTwzALW43eOes6yUwc7GF_CNw5etJkfx4FM0/edit#gid=1464429579)
-- Sum is determined by position earned (score) when the team played the qualifiers mappool
-- Average is determined by `Σ position earned / 10`
+- Average is determined by `Σ position earned when playing the qualifiers mappool / 10`
 - Only the top 32 team can proceed to the knockout stage
 
 ## Ruleset
