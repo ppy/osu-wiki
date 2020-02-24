@@ -74,6 +74,30 @@ La Catch French Intermediate Cup 2 est gérée par différents membres de la com
 
 ## Liste des maps
 
+### Quarts-de-finale
+
+**[Téléchargez le mappack ici! (96 MB)](https://mega.nz/#!UR5gSajR!q18ZIqRBYnyJ9HraaJr2YGIV-Z7r1Y3lpy0voxCElOc)**
+
+- NoMod
+  - [Serj Tankian - Sky Is Over (Hareimu) \[The Sun\]](https://osu.ppy.sh/beatmapsets/914791#fruits/1910610)
+  - [petit milady - Koi wa Milk Tea (Catch The Beat) \[Asu\_ne's Collab Rain\]](https://osu.ppy.sh/beatmapsets/475028#fruits/1132938)
+  - [Duoscience - Indifferences (Mir) \[Ametrin's Insane\]](https://osu.ppy.sh/beatmapsets/722662#fruits/1538481)
+  - [Kagamine Rin - Black Rebel (val0108) \[0108 Rebel\]](https://osu.ppy.sh/beatmapsets/28425#fruits/109301)
+- Hidden
+  - [Kon Natsumi - Niji no Kakera (mintong89) \[m1ng's Rain\]](https://osu.ppy.sh/beatmapsets/164528#fruits/404829)
+  - [xi - ANiMA (liaoxingyao) \[LV.11\]](https://osu.ppy.sh/beatmapsets/359191#fruits/789815)
+  - [Seven Lions with Myon and Shane 54 - Strangers (Feat. Tove Lo) (Maeglwn) \[Insane\]](https://osu.ppy.sh/beatmapsets/192347#fruits/457456)
+- HardRock
+  - [The Real Tuesday Weld - The Lupine Waltz (-Ken) \[Myth\]](https://osu.ppy.sh/beatmapsets/1113573#fruits/2326443)
+  - [CustomiZ - COOLEST (Ascendance) \[Salad\]](https://osu.ppy.sh/beatmapsets/502512#fruits/1498722)
+  - [u's - Snow halation (-Zeraora) \[ezek's Hard\]](https://osu.ppy.sh/beatmapsets/894436#fruits/1869090)
+- DoubleTime
+  - [LukHash - WHEN AN ANGEL DIES (Nelly) \[Platter\]](https://osu.ppy.sh/beatmapsets/1008600#fruits/2112182)
+  - [LEAF XCEED Music Division - Dear You [ver. XCEED] (semaphore) \[Sentimentality\]](https://osu.ppy.sh/beatmapsets/951890#fruits/1987779)
+  - [Groove Coverage - Angeline (Kurai) \[Hard\]](https://osu.ppy.sh/beatmapsets/197753#fruits/469007)
+- Tiebreaker
+  - **[Triad Primus - Trancing Pulse (Spectator) \[Rain\]](https://osu.ppy.sh/beatmapsets/380135#fruits/831859)**
+
 ### Group Stage
 
 **[Téléchargez le mappack ici! (57 MB)](https://mega.nz/#!48V30CiY!3XUk847uzPDk0l1JRpojn9251o3SpFeE87b6x9l44PI)**
@@ -108,6 +132,42 @@ La Catch French Intermediate Cup 2 est gérée par différents membres de la com
   - [Sato Hitomi - Futaba Town (Hiru) (Daletto) \[wonjae's Platter\]](https://osu.ppy.sh/beatmapsets/988577#fruits/2068773)
 - DoubleTime
   - [TiA - Ryuusei (Dangaard) \[Hard\]](https://osu.ppy.sh/beatmapsets/10960#fruits/42241)
+
+## Résultats des matches
+
+### Phase de poules
+
+Samedi, 22 Février 2020:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| **Fuka Pura** ![][flag_FR] | **4** | 2 | ![][flag_FR] YANOO123 | [#1](https://osu.ppy.sh/community/matches/58638242) |
+| NoLimitFS ![][flag_FR] | 1 | **4** | ![][flag_FR] **dracoV** | [#1](https://osu.ppy.sh/community/matches/58639370) |
+| redjiii ![][flag_FR] | 0 | 4 | ![][flag_FR] **Khalemm** | [#1](https://osu.ppy.sh/community/matches/58640834) |
+| Pizu ![][flag_FR] | 2 | **4** | ![][flag_FR] **dracoV** | [#1](https://osu.ppy.sh/community/matches/58640838) |
+| **YANOO123** ![][flag_FR] | **0** | -1 | ![][flag_FR] KillingSpin | *win by default* |
+| redjiii ![][flag_FR] | 0 | **4** | ![][flag_FR] **Dask** | [#1](https://osu.ppy.sh/community/matches/58642443) |
+| Khalemm ![][flag_FR] | 3 | **4** | ![][flag_FR] **Dask** | [#1](https://osu.ppy.sh/community/matches/58646586) |
+
+Dimanche, 23 Février 2020:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| Oasix ![][flag_FR] | 0 | **4** | ![][flag_FR] **dracoV** | [#1](https://osu.ppy.sh/community/matches/58664569) |
+| TomyLeFaux ![][flag_FR] | -1 | **0** | ![][flag_FR] **Zard** | *win by default* |
+| NinjaCoktail ![][flag_FR] | 1 | **4** | ![][flag_FR] **Electr0o** | [#1](https://osu.ppy.sh/community/matches/58667261) |
+| **Aequo3** ![][flag_FR] | **4** | 1 | ![][flag_FR] redjiii | [#1](https://osu.ppy.sh/community/matches/58668747) |
+| **Electr0o** ![][flag_FR] | **4** | 0 | ![][flag_FR] TomyLeFaux | [#1](https://osu.ppy.sh/community/matches/58668672) |
+| Zard ![][flag_FR] | 0 | **4** | ![][flag_FR] **NinjaCoktail** | [#1](https://osu.ppy.sh/community/matches/58669225) |
+| **NinjaCoktail** ![][flag_FR] | **4** | 3 | ![][flag_FR] TomyLeFaux | [#1](https://osu.ppy.sh/community/matches/58670434) |
+| KillingSpin ![][flag_FR] | 2 | **4** | ![][flag_FR] **Kaleesy Pura** | [#1](https://osu.ppy.sh/community/matches/58670414) |
+| Zard ![][flag_FR] | 1 | **4** | ![][flag_FR] **Electr0o** | [#1](https://osu.ppy.sh/community/matches/58671721) |
+| Aequo3 ![][flag_FR] | 0 | **4** | ![][flag_FR] **Dask** | [#1](https://osu.ppy.sh/community/matches/58671944) |
+| **Fuka Pura** ![][flag_FR] | **4** | 0 | ![][flag_FR] KillingSpin | [#1](https://osu.ppy.sh/community/matches/58671948) |
+| **Kaleesy Pura** ![][flag_FR] | **4** | 1 | ![][flag_FR] YANOO123 | [#1](https://osu.ppy.sh/community/matches/58673378) |
+| Aequo3 ![][flag_FR] | 3 | **4** | ![][flag_FR] **Khalemm** | [#1](https://osu.ppy.sh/community/matches/58674787) |
+| **Pizu** ![][flag_FR] | **4** | 3 | ![][flag_FR] Oasix | [#1](https://osu.ppy.sh/community/matches/58675943) |
+| Kaleesy Pura ![][flag_FR] | 0 | **4** | ![][flag_FR] **Fuka Pura** | [#1](https://osu.ppy.sh/community/matches/58676378) |
 
 ## Règlement
 
