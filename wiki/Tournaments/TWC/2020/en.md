@@ -48,54 +48,9 @@ The osu!taiko World Cup 2020 is run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1018778)
 - [Livestream](https://www.twitch.tv/osulive)
 
----
-
-## Participants
-
-### Pending Rosters
-
-|  | Country | Members |
-| :-: | :-: | :-- |
-| ![][flag_AR] | **Argentina** | **[gaston_2199](https://osu.ppy.sh/users/5938161)** |
-| ![][flag_AU] | **Australia** | **[soliderror](https://osu.ppy.sh/users/10630542)** |
-| ![][flag_AT] | **Austria** | **[morth1](https://osu.ppy.sh/users/7246874)** |
-| ![][flag_BE] | **Belgium** | **[XOlifreX](https://osu.ppy.sh/users/4328137)** |
-| ![][flag_BR] | **Brazil** | **[HiroK](https://osu.ppy.sh/users/4050738)** |
-| ![][flag_CA] | **Canada** | **[vladyushko](https://osu.ppy.sh/users/4908773)** |
-| ![][flag_CL] | **Chile** | **[Ulqui](https://osu.ppy.sh/users/1263669)** |
-| ![][flag_CN] | **China** | **[Wilben_Chan](https://osu.ppy.sh/users/6659363)** |
-| ![][flag_CO] | **Colombia** | **[Xoretra](https://osu.ppy.sh/users/4940698)** |
-| ![][flag_FI] | **Finland** | **[duski](https://osu.ppy.sh/users/6506484)** |
-| ![][flag_FR] | **France** | **[TimmyAkmed](https://osu.ppy.sh/users/1799973)** |
-| ![][flag_DE] | **Germany** | **[Mew](https://osu.ppy.sh/users/2345156)** |
-| ![][flag_GR] | **Greece** | **[Genjuro](https://osu.ppy.sh/users/3196091)** |
-| ![][flag_ID] | **Indonesia** | **[apaajaboleh10](https://osu.ppy.sh/users/5151647)** |
-| ![][flag_IT] | **Italy** | **[Ikkun](https://osu.ppy.sh/users/1059945)** |
-| ![][flag_JP] | **Japan** | **[iceOC](https://osu.ppy.sh/users/5482401)** |
-| ![][flag_MY] | **Malaysia** | **[Xeltic Rival](https://osu.ppy.sh/users/7500364)** |
-| ![][flag_MX] | **Mexico** | **[Ammy](https://osu.ppy.sh/users/4183406)** |
-| ![][flag_NL] | **Netherlands** | **[jesse-98](https://osu.ppy.sh/users/502722)** |
-| ![][flag_NZ] | **New Zealand** | **[Sparxe](https://osu.ppy.sh/users/5750235)** |
-| ![][flag_PH] | **Philippines** | **[Pochacco](https://osu.ppy.sh/users/2927742)** |
-| ![][flag_PL] | **Poland** | **[Acrith](https://osu.ppy.sh/users/389880)** |
-| ![][flag_PT] | **Portugal** | **[BabySnakes](https://osu.ppy.sh/users/4669728)** |
-| ![][flag_RU] | **Russian Federation** | **[pavlukivan](https://osu.ppy.sh/users/8321579)** |
-| ![][flag_SG] | **Singapore** | **[Blerargh](https://osu.ppy.sh/users/7609510)** |
-| ![][flag_KR] | **South Korea** | **[Peaceful](https://osu.ppy.sh/users/165027)** |
-| ![][flag_ES] | **Spain** | **[AlvaroYL](https://osu.ppy.sh/users/6333166)** |
-| ![][flag_SE] | **Sweden** | **[Raphalge](https://osu.ppy.sh/users/3918650)** |
-| ![][flag_CH] | **Switzerland** | **[Oui](https://osu.ppy.sh/users/5538419)** |
-| ![][flag_TW] | **Taiwan** | **[-[ ix Ishida xi ]-](https://osu.ppy.sh/users/242910)** |
-| ![][flag_GB] | **United Kingdom** | **[goheegy](https://osu.ppy.sh/users/8057655)** |
-| ![][flag_US] | **United States** | **[Loopy542](https://osu.ppy.sh/users/5468461)** |
-
----
-
 ## Mappools
 
 Mappools will be announced one week prior to the start of each stage of the tournament.
-
----
 
 ## Ruleset
 
@@ -228,35 +183,13 @@ Mappools will be announced one week prior to the start of each stage of the tour
    - **Do not ask for a reschedule unless it is absolutely needed. The tournament staff still has the right to decline the request.**
 7. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least two players for each match. If teams can not provide two players for a match, the match will be considered forfeited.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_CO]: /wiki/shared/flag/CO.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_GR]: /wiki/shared/flag/GR.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PT]: /wiki/shared/flag/PT.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
