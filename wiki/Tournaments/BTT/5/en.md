@@ -212,6 +212,39 @@ The Beginner's Taiko Tournament 5 is run by various community members.
 
 ## Match results
 
+### Quarterfinals
+
+Friday, 21 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **moosepi** ![][flag_SG] | **5** | 1 | ![][flag_MY] squidstain | [#1](https://osu.ppy.sh/community/matches/58610936) |
+
+Saturday, 22 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Dartandr** ![][flag_RU] | **5** | 4 | ![][flag_RU] Vasyadogs | [#1](https://osu.ppy.sh/community/matches/58636770) |
+| Enohx ![][flag_DE] | 0 | **5** | ![][flag_NZ] **Blujae** | [#1](https://osu.ppy.sh/community/matches/58637846) |
+| **Malox** ![][flag_DE] | **5** | 1 | ![][flag_BY] DrDazzle | [#1](https://osu.ppy.sh/community/matches/58639367) |
+| **Maou** ![][flag_DE] | **5** | 1 | ![][flag_SG] awdse22 | [#1](https://osu.ppy.sh/community/matches/58640813) |
+| BadAimBoi ![][flag_PL] | 1 | **5** | ![][flag_IT] **Kozzo** | [#1](https://osu.ppy.sh/community/matches/58640808) |
+| **DrugManager** ![][flag_DE] | **5** | 1 | ![][flag_AR] Megafan | [#1](https://osu.ppy.sh/community/matches/58642456) |
+| ByTiger ![][flag_DE] | 0 | **5** | ![][flag_FR] **Champs de ble** | [#1](https://osu.ppy.sh/community/matches/58643984) |
+| **Champs de ble** ![][flag_FR] | **5** | 2 | ![][flag_DE] DrugManager | [#1](https://osu.ppy.sh/community/matches/58645499) |
+| **Boaz** ![][flag_NL] | **5** | 1 | ![][flag_HK] -Storm7- | [#1](https://osu.ppy.sh/community/matches/58648845) |
+
+Sunday, 23 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Vaf** ![][flag_AR] | **5** | 1 | ![][flag_SG] helios44 | [#1](https://osu.ppy.sh/community/matches/58657219) |
+| **Blujae** ![][flag_NZ] | **5** | 1 | ![][flag_NL] Boaz | [#1](https://osu.ppy.sh/community/matches/58666520) |
+| Dartandr ![][flag_RU] | 0 | **5** | ![][flag_DE] **Malox** | [#1](https://osu.ppy.sh/mp/58667706) |
+| Loliezi1337 ![][flag_US] | -1 | **0** | ![][flag_DE] Kirross | *win by default* |
+| Kozzo ![][flag_IT] | 2 | **5** | ![][flag_DE] **Kirross** | [#1](https://osu.ppy.sh/community/matches/58674792) |
+| **Olii** ![][flag_GB] | **5** | 1 | ![][flag_FR] **TLQ\_Yoshii** | [#1](https://osu.ppy.sh/mp/58678216) |
+
 ### Round of 16
 
 Friday, 14 February 2020:
