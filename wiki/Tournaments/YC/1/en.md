@@ -57,6 +57,31 @@ The Yuri Cup is run by various community members.
 
 ## Mappools
 
+### Round of 32
+
+- NoMod
+  - [96neko - E? Aa, sou. (newton-) \[Fabricated\]](https://osu.ppy.sh/beatmapsets/902346#osu/1914227)
+  - [yak\_won - Lucid (Raja) \[Radiant\]](https://osu.ppy.sh/beatmapsets/496093#osu/1055975)
+  - [yuikonnu & ayaponzu\* - Happy Halloween (Loneight) \[Happy Halloween\]](https://osu.ppy.sh/beatmapsets/692433#osu/1465149)
+  - [Infected Mushroom - Where Do I Belong (Mao) \[Expert\]](https://osu.ppy.sh/beatmapsets/959439#osu/2008690)
+  - [Blossom - Boomerang (Hitoshirenu Shourai) \[Insane\]](https://osu.ppy.sh/beatmapsets/7272#osu/33651)
+- Hidden
+  - [Frums - 24eeev0-$ (Niva) \[bpm(1) = 100; for (i = 2 : 24) {bpm(i) = bpm(i-1) + 8 + (floor((i-1) / 6) \* 3)}\]](https://osu.ppy.sh/beatmapsets/1086289#osu/2271666)
+  - [Travis Scott & Quavo - Go (Sing) \[Master\]](https://osu.ppy.sh/beatmapsets/709474#osu/1499797)
+- HardRock
+  - [supercell - Rock 'n' Roll Nandesu no (Milan-) \[pkhg's Insane\]](https://osu.ppy.sh/beatmapsets/623518#osu/1351370)
+  - [Kagamine Rin - Abstract Nonsense (SapphireGhost) \[Suicide\]](https://osu.ppy.sh/beatmapsets/39580#osu/126062)
+- DoubleTime
+  - [Jin - Yuukei Yesterday (luxoDeh) \[Akareh's Insane\]](https://osu.ppy.sh/beatmapsets/112037#osu/294729)
+  - [Imperial Circus Dead Decadence - Syakunetsu No Rengoku Ni Bara Wa... (Sing) \[Collab Hard\]](https://osu.ppy.sh/beatmapsets/964680#osu/2019486)
+  - [Mai Nakahara & Ai Shimizu - Secret Dolls (gdeath) \[Challenging\]](https://osu.ppy.sh/beatmapsets/9256#osu/39059)
+- FreeMod
+  - [THE OTHER FLOWER - Karma (Mun) \[Incarnate\]](https://osu.ppy.sh/beatmapsets/1014580#osu/2123394)
+  - [BlackY vs. Yooh - HAVOX (Timorisu) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/352555#osu/1294881)
+  - [Agent Fresco - The Autumn Red (Mao) \[Wither\]](https://osu.ppy.sh/beatmapsets/917481#osu/1916015)
+- Tiebreaker
+  - **[Feryquitous - Dstorv (RLC) \[Ende Fateind Trasfomate\]](https://osu.ppy.sh/beatmapsets/531553#osu/1126445)**
+
 ### Qualifiers
 
 - NoMod
