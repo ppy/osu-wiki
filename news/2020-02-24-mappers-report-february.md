@@ -105,7 +105,7 @@ Next, we have those who have taken their leave from the group. We'd like to than
 
 ### BN Badges
 
-Before we move on to the NAT additions, we would like to honour our long standing members of the Beatmap Nominators! These BNs will receive, depending on the length of their tenure in the team, a shiny new badge for their profile page. We thank them all for their contribution so far and hope to see much more of them in the future! Here a list of those recently rewarded with a badge:
+Before we move on to the NAT additions, we would like to honour our long standing members of the Beatmap Nominators! These BNs will receive, depending on the length of their tenure in the team, a shiny new badge for their profile page. We thank them all for their contribution so far and hope to see much more of them in the future! Here is the list of those:
 
 - **1 Year Badge:** [-Keitaro](https://osu.ppy.sh/users/3378391), [-Luminate](https://osu.ppy.sh/users/4778689), [_Kobii](https://osu.ppy.sh/users/6209713), [Bibbity Bill](https://osu.ppy.sh/users/4446810), [Cris-](https://osu.ppy.sh/users/6175280), [Crissa](https://osu.ppy.sh/users/5405836), [eiri-](https://osu.ppy.sh/users/3388410), [Nikakis](https://osu.ppy.sh/users/4351739), [Petal](https://osu.ppy.sh/users/7354729), [Scotty](https://osu.ppy.sh/users/11085809), [Sparhten](https://osu.ppy.sh/users/7601720), [spoes](https://osu.ppy.sh/users/9505704), [Tyistiana](https://osu.ppy.sh/users/1421452), [Venix](https://osu.ppy.sh/users/5999631), [Yugu](https://osu.ppy.sh/users/3161834) & [Zelq](https://osu.ppy.sh/users/8953955)
 
@@ -117,9 +117,9 @@ Before we move on to the NAT additions, we would like to honour our long standin
 
 In addition to the recently added BNs, some new NAT members have been brought on!
 
-The first addition we got on the 6h January was **[yaspo](https://osu.ppy.sh/users/4945926)** who served as a Beatmap Nominator for roughly over a year, he will now support the NAT for the osu! game mode. He will mainly help with BN evaluations and applications. He has also shown his skills in leading the NAT meetings already! Welcome aboard, yaspo!
+The first addition we got on the 6th January was **[yaspo](https://osu.ppy.sh/users/4945926)** who served as a Beatmap Nominator for roughly over a year, he will now support the NAT for the osu! game mode. He will mainly help with BN evaluations and applications. He has also shown his skills in leading the NAT meetings already! Welcome aboard, yaspo!
 
-Our second addition on the 26th January was **[Greaper](https://osu.ppy.sh/users/2369776)**! Previously having been a Beatmap Nominator for almost 4 months, he will now support the NAT for the osu!catch game mode. He will mainly focus on doing BN evaluations and applications, and make sure the Beatmap Nominator group will grow properly for osu!catch! So welcome aboard Greaper!
+Our second addition on the 26th January was **[Greaper](https://osu.ppy.sh/users/2369776)** who's been a Beatmap Nominator for almost 4 months. He will now support the NAT for the osu!catch game mode. He will mainly focus on doing BN evaluations and applications, and make sure osu!catch Beatmap Nominators grow properly! Welcome aboard, Greaper!
 
 ## <a id="mapping-contests"></a>Mapping Contests
 
