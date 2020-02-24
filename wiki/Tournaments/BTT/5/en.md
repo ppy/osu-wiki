@@ -54,7 +54,7 @@ The Beginner's Taiko Tournament 5 is run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/994702)
 - [BTT Discord server](https://discord.gg/EYAqSWH)
 - [Registration form](https://forms.gle/WUE1gpAp67AHXDmVA)
-- [Livestream](https://www.twitch.tv/beginnerstaikotournament)
+- [Livestream](https://twitch.tv/beginnerstaikotournament)
 - [Challonge brackets](https://challonge.com/BTTS5)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vR6QPdOsvVXvpXcjTrqOvaQESu0LpH3HAd9QxsYMbDa7xAatXc8X3hnmmDZSxfTLtAZz-WArFbTbm8_/pubhtml)**
 
@@ -93,6 +93,35 @@ The Beginner's Taiko Tournament 5 is run by various community members.
 ---
 
 ## Mappools
+
+### Semifinals
+
+**[Download the mappack here! (80 MB)](https://mega.nz/#!L7QV2QpB!15F8SowJJiZlP1EC-mwXjWgYq2fruTV8mY7Uuy5RE94)**
+
+- NoMod
+  - [sky\_delta - Grenade (Nerova Riuz GX) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/920666#taiko/1944057)
+  - [Hommarju - Sahara (Leniane) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/953321#taiko/2012016)
+  - [Lon - Yuru Fuwa Jukai Girl (Love) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/123810#taiko/315971)
+  - [Nekomata Master - Fly far bounce (Crimmi) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/618329#taiko/1314703)
+  - [sakuraburst - data corruption symphony (\[Zeth\]) \[0x000002D7 ERROR\_RESUME\_HIBERNATION\]](https://osu.ppy.sh/beatmapsets/913343#taiko/1926860)
+- Hidden
+  - [Morimori Atsushi - MilK (\_DUSK\_) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/946887#taiko/1977908)
+  - [sky\_delta - SIVA (tasuke912) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/426445#taiko/925207)
+  - [Laur - Sound Chimera (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1080215#taiko/2307797)
+- HardRock
+  - [Demetori - Kouyuushakaichouji \~ Till When? (GoldenWolf) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/976421#taiko/2043843)
+  - [DJ TAKA meets DJ YOSHITAKA - Elemental Creation (Hanjamon) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/148210#taiko/366750)
+  - [Sakuzyo - Eater Merry (eiri-) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1097688#taiko/2293611)
+- DoubleTime
+  - [Red Velvet - Zimzalabim (Rearranged Version) (Blackener) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1036651#taiko/2167429)
+  - [Earth, Wind & Fire - September (yomoha remix) (Midnaait) \[Futsuu\]](https://osu.ppy.sh/beatmapsets/1075239#taiko/2251104)
+  - [Kurousagi Uru - Shiki Toki Uta (toara\_fict) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/395324#taiko/860523)
+- FreeMod
+  - [Natsume Chiaki - Hanairo Biyori (DarkVortex) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/280663#taiko/647802)
+  - [Buta-Otome - Towa no Maigo (404 AccNotFound) \[Gen's Muzukashii\]](https://osu.ppy.sh/beatmapsets/622175#taiko/1320912)
+  - [lapix - YOLO ft. Numb'n'dub (Arrival) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/723229#taiko/1527830)
+- Tiebreaker
+  - **[cosMo@BousouP - Monopole. (Album Ver) (JUDYDANNY) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/482433#taiko/1239829)**
 
 ### Quarterfinals
 
