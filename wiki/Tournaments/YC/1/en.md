@@ -48,6 +48,7 @@ The Yuri Cup is run by various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1015368)
 - [YC Discord server](https://discord.gg/Hxttw27)
+- [Livestream](https://www.twitch.tv/kaeldori)
 - [Challonge brackets](https://challonge.com/yuricup)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/19oFY3WgkQ-Wqkawu_4AUDSIEUCfZ50tPz4qStb0TH2k/edit#gid=0)**
 
