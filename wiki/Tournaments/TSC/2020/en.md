@@ -59,6 +59,41 @@ The Taiko Suiji Cup 2020 is run by various community members.
 
 ## Mappools
 
+### Round of 32
+
+**[Download the mappack here! (69 MB)](https://mega.nz/#!dgcUnCBD!m-XwVABg9xzZNnpBSl9BVSQlAAZhdAtucA0EeoNOFu4)**
+
+#### Mappool A
+
+- NoMod
+  - [Tomita Miyu, Onishi Saori, Ohzora Naomi, Hanazawa Kana - Gabriel Drop Kick (Okoratu) \[Nardo's Inner Oni\]](https://osu.ppy.sh/beatmapsets/572809#taiko/1342248)
+  - [yak\_won - Lucid (soulfear) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/15898#taiko/58041)
+  - [FELT - New World (Nao Tomori) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/782955#taiko/1659378)
+  - [BlackY vs. Yooh - HAVOX (Arrival) \[Unmei's Oni\]](https://osu.ppy.sh/beatmapsets/553741#taiko/1172533)
+- Hidden
+  - [IOSYS - Endless Tewi-ma Park (Kurosanyan) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/48874#taiko/153393)
+  - [toby fox - Spider Dance (OzzyOzrock) \[Oni\]](https://osu.ppy.sh/beatmapsets/373414#taiko/818079)
+- HardRock
+  - [gekidan hitotose - a e i u e o ao!! (yyyyyyyyyyypetu) \[uone note\]](https://osu.ppy.sh/beatmapsets/597000#taiko/1279274)
+  - [Agnete Kjolsrud - Get Jinxed (Hanjamon) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/122279#taiko/944742)
+- FreeMod
+  - [bbn - Identic Conflict (Flower) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/49188#taiko/176435)
+  - [Mizuki Nana - Vitalization (TV Size) (Flower) \[Oni\]](https://osu.ppy.sh/beatmapsets/102803#taiko/279373)
+
+#### Mappool B
+
+- Challenge
+  - [sakuzyo - Imprinting (Nofool) \[7 t h's Inner Oni\]](https://osu.ppy.sh/beatmapsets/371217#taiko/813387)
+  - [doth - Toy Boxxxx (Sayaka-) \[Oni\]](https://osu.ppy.sh/beatmapsets/380854#taiko/833267)
+- DoubleTime
+  - [Kobaryo - New Game Plus (Nepuri) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/797710#taiko/1678939)
+- Easy
+  - [toby fox - Battle Against a True Hero (S a n d) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/371182#taiko/813300)
+- Hidden+HardRock
+  - [Megpoid GUMI - Poker Face (NatsumeRin) \[Taiko Joker\]](https://osu.ppy.sh/beatmapsets/24782#taiko/84803)
+- Tiebreaker
+  - **[DystopiaGround - AugoEidEs (happy30) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/24611#taiko/97949)**
+
 ### Qualifiers
 
 **[Download the mappack here! (20 MB)](https://mega.nz/#!Yk8gUK5T!VF4NngnEoQnDWY8BgSAdFO-osnuW2yKul8QMkH9M-D8)**
