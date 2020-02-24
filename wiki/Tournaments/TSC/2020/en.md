@@ -59,7 +59,19 @@ The Taiko Suiji Cup 2020 is run by various community members.
 
 ## Mappools
 
-*The mappools will be revealed one week before each particular stage.*
+### Qualifiers
+
+**[Download the mappack here! (20 MB)](https://mega.nz/#!Yk8gUK5T!VF4NngnEoQnDWY8BgSAdFO-osnuW2yKul8QMkH9M-D8)**
+
+- NoMod
+  - [Camellia - Dyscontrolled Galaxy (ll-oscar) \[ll-taiko\]](https://osu.ppy.sh/beatmapsets/691807#taiko/1463929)
+  - [Falcom Sound Team jdk - Ernst (Pheon) \[Oni\]](https://osu.ppy.sh/beatmapsets/65379#taiko/191565)
+- Hidden
+  - [Kanawo - Kohaku no Yume (Surono) \[Oni\]](https://osu.ppy.sh/beatmapsets/411705#taiko/905752)
+- HardRock
+  - [Cascada - Dangerous (Nightcore Mix) (Dark_Ai) \[Firce777's Taiko\]](https://osu.ppy.sh/beatmapsets/24340#taiko/86994)
+- Challenge
+  - [Doma Umaru \[CV:Tanaka Aimi\] - Kakushinteki\*Metamaruphose! (Chiswell) \[UMR Oni\]](https://osu.ppy.sh/beatmapsets/345189#taiko/762526)
 
 ## Ruleset
 
