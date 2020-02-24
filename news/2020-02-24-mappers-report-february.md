@@ -26,7 +26,7 @@ This month's issue of the Mappers' Report contains following topics:
 
 A new month brings a new avalanche of updates to the Ranking Criteria (RC). These past two months were especially productive with the implementation of rules!
 
-### General
+### All modes
 
 - **[Custom Difficulty Naming Updates](/wiki/Ranking_Criteria#rules.1):**
 A description has been added to the rule "A beatmapset's custom difficulty naming must follow a common theme or pattern related to the song…" to clarify its meaning.
@@ -107,7 +107,7 @@ In addition to the recently added BNs, some new NAT members have been brought on
 
 The first addition we got on the 6h January was **[yaspo](https://osu.ppy.sh/users/4945926)** who served as a Beatmap Nominator for roughly over a year, he will now support the NAT for the osu! game mode. He will mainly help with BN evaluations and applications. He has also shown his skills in leading the NAT meetings already! Welcome aboard, yaspo!
 
-Our second addition we got on the 26th January is **[Greaper](https://osu.ppy.sh/users/2369776)**! With being previously a Beatmap Nominator for almost 4 months, he will now support the NAT for the osu!catch game mode. He will mainly focus on doing BN evaluations and applications and make sure, the Beatmap Nominator group will grow properly for osu!catch! So welcome aboard Greaper!
+Our second addition on the 26th January was **[Greaper](https://osu.ppy.sh/users/2369776)**! Previously having been a Beatmap Nominator for almost 4 months, he will now support the NAT for the osu!catch game mode. He will mainly focus on doing BN evaluations and applications, and make sure the Beatmap Nominator group will grow properly for osu!catch! So welcome aboard Greaper!
 
 ## <a id="mapping-contests"></a>Mapping Contests
 
@@ -115,11 +115,11 @@ If you are organizing a mapping contest that will begin within the next 1-3 mont
 
 ### Monthly Beatmapping Contest: February 2020
 
-This month's installment of the Monthly Beatmapping Contest (MBC) has arrived! Head on over to the [contest listing](https://osu.ppy.sh/home/news/2020-02-03-monthly-beatmapping-contest-february) to find out all about this month's restriction on your entries. If it's too late for you to make an entry given the deadline is in less than a week worry not, at the start of March a new contest will begin so you'll have your chance to participate. Keep your eyes peeled for the newspost which will be made when the March contest is ready.
+This month's installment of the Monthly Beatmapping Contest (MBC) has arrived! Head on over to the [news post](https://osu.ppy.sh/home/news/2020-02-03-monthly-beatmapping-contest-february) to find out all about this month's restriction on your entries. If it's too late for you to make an entry given the deadline is in less than a week, worry not, at the start of March a new contest will begin so you'll have your chance to participate. Keep your eyes peeled for the news post that will be made when the March contest is ready.
 
-### 6th osu!Mapping Olympiad
+### 6th osu! Mapping Olympiad
 
-For the avid fruit catchers of the world, the 6th osu!Mapping Olympiad has shown itself, a great opportunity to flex your fruit placing muscles! This osu!catch contest requires you to map 2 difficulties for MYLK's Waffle Wave track. Head on over to the [contest listing](https://osu.ppy.sh/home/news/2020-02-15-osu-mapping-olympiad-6-catch) for all the details! As this is an olympiad the winner of the tournament will be given the title of Elite Mapper. Good luck to all of those participating, you have until March 13th to submit your fruity feasts.
+For the avid fruit catchers of the world, the 6th osu! Mapping Olympiad has shown itself, a great opportunity to flex your fruit placing muscles! This osu!catch contest requires you to map 2 difficulties for MYLK's *Waffle Wave* track. Head on over to the [contest listing](https://osu.ppy.sh/home/news/2020-02-15-osu-mapping-olympiad-6-catch) for all the details! As this is an Olympiad, the winner of the tournament will be given the title of **Elite Mapper**. Good luck to all of those participating, you have until March 13th to submit your fruity feasts.
 
 ### Newspaper Cup
 
@@ -127,7 +127,7 @@ The fantastic Chinese community organized tournament **Newspaper Cup** has made 
 
 ## <a id="summary"></a>Summary
 
-Make sure to tune in to the next NAT Meeting on March 1st in the [osu!dev Discord Server](https://discord.gg/ppy) and to do your best on all those fantastic mapping contests open for your submissions! Thank you for your time reading this quite hefty article. As this is our first installment of the Mappers' Report, any feedback is appreciated as we are still working hard at setting this up. Additionally, the next installments should be a bit smaller, as we had a lot to cover this time. We hope the information will prove itself useful to you!
+Make sure to tune in to the next NAT Meeting on March 1st in the [osu!dev Discord Server](https://discord.gg/ppy) and to do your best on all those fantastic mapping contests open for your submissions! Thank you for your time reading this quite hefty article. As this is our first installment of the Mappers' Report, any feedback is appreciated, as we are still working hard on setting this up. The next installments should be a bit smaller since we had a lot to cover this time. We hope the information will prove itself useful to you!
 
 See you next time!
 
