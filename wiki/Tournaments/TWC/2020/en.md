@@ -48,9 +48,54 @@ The osu!taiko World Cup 2020 is run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1018778)
 - [Livestream](https://www.twitch.tv/osulive)
 
+---
+
+## Participants
+
+### Pending Rosters
+
+|  | Country | Members |
+| :-: | :-: | :-- |
+| ![][flag_AR] | **Argentina** | **[gaston_2199](https://osu.ppy.sh/users/5938161)** |
+| ![][flag_AU] | **Australia** | **[soliderror](https://osu.ppy.sh/users/10630542)** |
+| ![][flag_AT] | **Austria** | **[morth1](https://osu.ppy.sh/users/7246874)** |
+| ![][flag_BE] | **Belgium** | **[XOlifreX](https://osu.ppy.sh/users/4328137)** |
+| ![][flag_BR] | **Brazil** | **[HiroK](https://osu.ppy.sh/users/4050738)** |
+| ![][flag_CA] | **Canada** | **[vladyushko](https://osu.ppy.sh/users/4908773)** |
+| ![][flag_CL] | **Chile** | **[Ulqui](https://osu.ppy.sh/users/1263669)** |
+| ![][flag_CN] | **China** | **[Wilben_Chan](https://osu.ppy.sh/users/6659363)** |
+| ![][flag_CO] | **Colombia** | **[Xoretra](https://osu.ppy.sh/users/4940698)** |
+| ![][flag_FI] | **Finland** | **[duski](https://osu.ppy.sh/users/6506484)** |
+| ![][flag_FR] | **France** | **[TimmyAkmed](https://osu.ppy.sh/users/1799973)** |
+| ![][flag_DE] | **Germany** | **[Mew](https://osu.ppy.sh/users/2345156)** |
+| ![][flag_GR] | **Greece** | **[Genjuro](https://osu.ppy.sh/users/3196091)** |
+| ![][flag_ID] | **Indonesia** | **[apaajaboleh10](https://osu.ppy.sh/users/5151647)** |
+| ![][flag_IT] | **Italy** | **[Ikkun](https://osu.ppy.sh/users/1059945)** |
+| ![][flag_JP] | **Japan** | **[iceOC](https://osu.ppy.sh/users/5482401)** |
+| ![][flag_MY] | **Malaysia** | **[Xeltic Rival](https://osu.ppy.sh/users/7500364)** |
+| ![][flag_MX] | **Mexico** | **[Ammy](https://osu.ppy.sh/users/4183406)** |
+| ![][flag_NL] | **Netherlands** | **[jesse-98](https://osu.ppy.sh/users/502722)** |
+| ![][flag_NZ] | **New Zealand** | **[Sparxe](https://osu.ppy.sh/users/5750235)** |
+| ![][flag_PH] | **Philippines** | **[Pochacco](https://osu.ppy.sh/users/2927742)** |
+| ![][flag_PL] | **Poland** | **[Acrith](https://osu.ppy.sh/users/389880)** |
+| ![][flag_PT] | **Portugal** | **[BabySnakes](https://osu.ppy.sh/users/4669728)** |
+| ![][flag_RU] | **Russian Federation** | **[pavlukivan](https://osu.ppy.sh/users/8321579)** |
+| ![][flag_SG] | **Singapore** | **[Blerargh](https://osu.ppy.sh/users/7609510)** |
+| ![][flag_KR] | **South Korea** | **[Peaceful](https://osu.ppy.sh/users/165027)** |
+| ![][flag_ES] | **Spain** | **[AlvaroYL](https://osu.ppy.sh/users/6333166)** |
+| ![][flag_SE] | **Sweden** | **[Raphalge](https://osu.ppy.sh/users/3918650)** |
+| ![][flag_CH] | **Switzerland** | **[Oui](https://osu.ppy.sh/users/5538419)** |
+| ![][flag_TW] | **Taiwan** | **[-[ ix Ishida xi ]-](https://osu.ppy.sh/users/242910)** |
+| ![][flag_GB] | **United Kingdom** | **[goheegy](https://osu.ppy.sh/users/8057655)** |
+| ![][flag_US] | **United States** | **[Loopy542](https://osu.ppy.sh/users/5468461)** |
+
+---
+
 ## Mappools
 
 Mappools will be announced one week prior to the start of each stage of the tournament.
+
+---
 
 ## Ruleset
 
