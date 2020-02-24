@@ -14,7 +14,14 @@ The **Yuri Cup** (***YC***) is an international 4-digit 4v4 double-elimination o
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2020-01-26/2020-02-14 |
-| Live drawings | *to be announced* |
+| Live drawings | 2020-02-15 (14:00 UTC) |
+| Qualifiers | 2020-02-22/2020-02-23 |
+| Round of 32 | 2020-02-29/2020-03-01 |
+| Round of 16 | 2020-03-07/2020-03-08 |
+| Quarterfinals | 2020-03-14/2020-03-15 |
+| Semifinals | 2020-03-21/2020-03-22 |
+| Finals | 2020-03-28/2020-03-29 |
+| Grand Finals | 2020-04-04/2020-04-05 |
 
 ## Prizes
 
