@@ -53,7 +53,6 @@ The Beginner's Taiko Tournament 5 is run by various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/994702)
 - [BTT Discord server](https://discord.gg/EYAqSWH)
-- [Registration form](https://forms.gle/WUE1gpAp67AHXDmVA)
 - [Livestream](https://twitch.tv/beginnerstaikotournament)
 - [Challonge brackets](https://challonge.com/BTTS5)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vR6QPdOsvVXvpXcjTrqOvaQESu0LpH3HAd9QxsYMbDa7xAatXc8X3hnmmDZSxfTLtAZz-WArFbTbm8_/pubhtml)**
