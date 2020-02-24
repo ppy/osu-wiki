@@ -8,7 +8,7 @@ El primer modo de juego y homónimo que se basó en la serie ouendan.
 
 ## ¿Qué es "Ouendan"?
 
-*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* es un juego de ritmo para la *Nintendo DS*. La jugabilidad consta de solo tres elementos: tocar círculos en la pantalla táctil, arrastrar una bola por un camino fijo y girar una ruleta muy rápido. Todos estos elementos están sincronizados con (covers de) populares canciones japonesas. Se ve así en el *DS*:
+*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")* es un juego de ritmo para la *Nintendo DS*. La jugabilidad consta de solo tres elementos: tocar círculos en la pantalla táctil, arrastrar una bola por un camino fijo y girar una ruleta muy rápido. Todos estos elementos están sincronizados con (covers de) populares canciones japonesas. Se ve así en el *DS*:
 
 ![Gameplay de ejemplo de Osu! Tatakae! Ouendan en la Nintendo DS](/wiki/shared/Ouendan.jpg "Ejemplo de partida de Osu! Tatakae! Ouendan en Nintendo DS")
 

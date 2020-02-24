@@ -4,13 +4,13 @@
 
 *Page principale: [osu!](osu!)*
 
-Basé sur *[Osu! Tatakae! Ouendan](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)*. Tapez, glissez et tournez au rythme.
+Basé sur *[Osu! Tatakae! Ouendan](https://fr.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")*. Tapez, glissez et tournez au rythme.
 
 ## ![](/wiki/shared/mode/taiko.png) osu!taiko
 
 *Page principale: [osu!taiko](osu!taiko)*
 
-Basé sur *[Taiko no Tatsujin](https://fr.wikipedia.org/wiki/Taiko_no_Tatsujin)*. Tambour et rouler le rouleau de taiko au rythme.
+Basé sur *[Taiko no Tatsujin](https://fr.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia")*. Tambour et rouler le rouleau de taiko au rythme.
 
 ## ![](/wiki/shared/mode/catch.png) osu!catch
 

@@ -8,13 +8,13 @@ needs_cleanup: true
 
 *Main page: [osu!](osu!)*
 
-Based on *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)*. Tap, slide, and spin to the beat.
+Based on *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")*. Tap, slide, and spin to the beat.
 
 ## ![](/wiki/shared/mode/taiko.png) osu!taiko
 
 *Main page: [osu!taiko](osu!taiko)*
 
-Based on *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)*. Drum, and roll the taiko drumroll to the beat.
+Based on *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia")*. Drum, and roll the taiko drumroll to the beat.
 
 ## ![](/wiki/shared/mode/catch.png) osu!catch
 

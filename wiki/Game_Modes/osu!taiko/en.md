@@ -6,7 +6,7 @@ needs_cleanup: true
 
 ![Gameplay of osu!taiko](/wiki/shared/Interface_taiko.jpg "osu!taiko Interface")
 
-osu!taiko is a game mode in osu! that borrows *some* elements from the Japanese rhythm game, [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin) (released as [Taiko: Drum Master](http://en.wikipedia.org/wiki/Taiko:_Drum_Master) in North America).
+osu!taiko is a game mode in osu! that borrows *some* elements from the Japanese rhythm game, [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia") (released as [Taiko: Drum Master](http://en.wikipedia.org/wiki/Taiko:_Drum_Master "Wikipedia") in North America).
 
 ## ![](/wiki/shared/mode/taiko.png) Gameplay
 
