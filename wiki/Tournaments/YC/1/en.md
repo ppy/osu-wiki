@@ -57,7 +57,22 @@ The Yuri Cup is run by various community members.
 
 ## Mappools
 
-*The mappools will be revealed one week before each particular stage.*
+### Qualifiers
+
+- NoMod
+  - [sasakure.UK - ChRoNiClESeVeN feat. Annabel (AIR) \[Flora\]](https://osu.ppy.sh/beatmapsets/775590#osu/1629799)
+  - [antiPLUR - One Life Left to Live (Leader) \[Expert\]](https://osu.ppy.sh/beatmapsets/962141#osu/2014556)
+  - [frederic - LIGHT (Hari) \[KINETIC\]](https://osu.ppy.sh/beatmapsets/898165#osu/1876287)
+  - [M2U feat. NICODE - Breach (Hailie) \[frogy's Expert\]](https://osu.ppy.sh/beatmapsets/898791#osu/1964221)
+- Hidden
+  - [Rin - Amanojaku set 03 \~ Romantic Escape Flight (Halfslashed) \[Last Day\]](https://osu.ppy.sh/beatmapsets/1022358#osu/2138942)
+  - [Yorushika - Yuunagi, Bou, Hana Madoi (Deca) \[coco's Extra\]](https://osu.ppy.sh/beatmapsets/1029377#osu/2156980)
+- HardRock
+  - [yumemidoll - Lyrith -Meikyuu Lyrith- (eiri-) \[Uberzolik's Insane\]](https://osu.ppy.sh/beatmapsets/757681#osu/1603721)
+  - [Sota Fujimori - DANCE ALL NIGHT (- Yoshimaro -) \[KawaMilr's Insane\]](https://osu.ppy.sh/beatmapsets/600303#osu/1279551)
+- DoubleTime
+  - [MRVLZ - Her Name (VINXIS) \[Collab Light Insane\]](https://osu.ppy.sh/beatmapsets/597833#osu/1922386)
+  - [senya - Kimi to Dareka no Yasashisa ni (kakifly) \[Affection\]](https://osu.ppy.sh/beatmapsets/250337#osu/596161)
 
 ## Ruleset
 
