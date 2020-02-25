@@ -1,6 +1,7 @@
 ---
 needs_cleanup: true
 ---
+
 # osu!catch
 
 ![Gameplay of osu!catch](/wiki/shared/Interface_ctb.jpg "osu!catch Interface")

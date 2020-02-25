@@ -42,9 +42,7 @@ Sinon, cliquez sur le boutton `Mode` et sélectionnez `osu!`.
 
 ![Interface d'osu!](/wiki/shared/Interface_osu.jpg "Interface d'osu!")
 
-La barre en haut à gauche est la barre de vie , qui diminuera à un rythme constant (en fonction des paramètres de difficulté de la beatmap), mais qui pourra augmenter en tapant sur les notes au bon moment ou en faisant tourner le spinner.
-
-Un coup parfaitement chronométré (300 ou Geki) rétablira plus de vie qu'un coup mal chronométré (50). Une note complètement ratée (ou miss) enlèvera une bonne partie de la barre de vie.
+La barre en haut à gauche est la barre de vie , qui diminuera à un rythme constant (en fonction des paramètres de difficulté de la beatmap), mais qui pourra augmenter en tapant sur les notes au bon moment ou en faisant tourner le spinner. Un coup parfaitement chronométré (300 ou Geki) rétablira plus de vie qu'un coup mal chronométré (50). Une note complètement ratée (ou miss) enlèvera une bonne partie de la barre de vie.
 
 Le score total se trouve à droite de la barre de vie. En dessous de celui-ci, vous pouvez apercevoir l'accuracy, qui est mesurée en pourcentage. Le cercle à côté de la précision (et sous le score) est un chronomètre qui indique la progression du joueur dans la beatmap.
 
@@ -54,25 +52,15 @@ Le chiffre en bas à gauche correspond au compteur de combo (ou enchaînement)/m
 
 ![Cercles](/wiki/shared/osu_hitcircles.jpg "Hit Circles d'osu!")
 
-Un petit cercle d'approche de même couleur situé à l'extérieur du Hit Circle (ou cercle de frappe) se réduit au fil du temps.
+Un petit cercle d'approche de même couleur situé à l'extérieur du Hit Circle (ou cercle de frappe) se réduit au fil du temps. Tapez sur la note au moment exact où elle touche la bordure blanche du Hit Circle. Un affichage du score apparaît après avoir appuyé sur le Hit Circle, montrant le score et les changements de santé en fonction du moment où vous tapez. Le Hit Circle disparaîtra après l'affichage du score.
 
-Tapez sur la note au moment exact où elle touche la bordure blanche du Hit Circle.
-
-Un affichage du score apparaît après avoir appuyé sur le Hit Circle, montrant le score et les changements de santé en fonction du moment où vous tapez. Le Hit Circle disparaîtra après l'affichage du score.
-
-Pour comprendre le fonctionnement des hit circles, ne vous fiez pas uniquement à la perception; essayez également de ressentir le rythme de la musique pour pouvoir cliquer au bon moment sur les cercles.
-
-Cela vous aidera à lire certains motifs compliqués de Hit Circles trouvés dans les difficultés plus compliquées.
+Pour comprendre le fonctionnement des hit circles, ne vous fiez pas uniquement à la perception; essayez également de ressentir le rythme de la musique pour pouvoir cliquer au bon moment sur les cercles. Cela vous aidera à lire certains motifs compliqués de Hit Circles trouvés dans les difficultés plus compliquées.
 
 #### Sliders
 
 ![Sliders](/wiki/shared/osu_slider.jpg "Slider d'osu!")
 
-D'abord, appuyez dessus au bon moment, cependant, cela ne s'arrête pas là. Une balle va commencer à se déplacer le long de la trajectoire du slider.
-
-Maintenez le bouton de la souris/clavier (ou gardez le stylet sur la tablette) et suivez la balle à l'intérieur du cercle orange qui l'entoure lorsqu'elle se déplace.
-
-Le cercle extérieur orange, appelé follow circle (ou cercle suiveur), apparaîtra si vous maintenez la balle du slider, mais disparaîtra une fois relâché.
+D'abord, appuyez dessus au bon moment, cependant, cela ne s'arrête pas là. Une balle va commencer à se déplacer le long de la trajectoire du slider. Maintenez le bouton de la souris/clavier (ou gardez le stylet sur la tablette) et suivez la balle à l'intérieur du cercle orange qui l'entoure lorsqu'elle se déplace. Le cercle extérieur orange, appelé follow circle (ou cercle suiveur), apparaîtra si vous maintenez la balle du slider, mais disparaîtra une fois relâché.
 
 Parfois, comme le montre la capture d'écran ci-dessus, la balle peut inverser sa direction et le joueur doit la suivre pour retourner jusqu'au début du parcours ou inversement. Le repère visuel est une flèche inversée à l'intérieur du cercle de fin/début de trajectoire.
 
@@ -80,27 +68,13 @@ Parfois, comme le montre la capture d'écran ci-dessus, la balle peut inverser s
 
 ![Spinner](/wiki/shared/osu_spinner.jpg "Spinner d'osu!")
 
-Maintenez le bouton de la souris/du clavier (ou gardez le stylet sur la tablette).
+Maintenez le bouton de la souris/du clavier (ou gardez le stylet sur la tablette). À partir de là, utilisez la souris (ou le stylet) et faites tourner le spinner dans un mouvement circulaire (dans n'importe quel sens) jusqu’à ce que le cercle grandisse et atteigne complètement l’extérieur. Une notification *Clear* apparaîtra pour indiquer que le spinner a été réussi. Si le spinner a été réussi rapidement, continuez de tourner pour obtenir un bonus de score et pour regagner des points de vie.
 
-À partir de là, utilisez la souris (ou le stylet) et faites tourner le spinner dans un mouvement circulaire (dans n'importe quel sens) jusqu’à ce que le cercle grandisse et atteigne complètement l’extérieur.
+Le cercle blanc extérieur indique le temps restant pour terminer le spinner. Ce cercle deviendra rouge pour signaler que le temps est presque écoulé. Les beatmaps plus anciennes, utilisant le *skin version 1.0*, auront un mètre/une jauge pour indiquer à quel point le joueur est proche de compléter le spinner.
 
-Une notification *Clear* apparaîtra pour indiquer que le spinner a été réussi. Si le spinner a été réussi rapidement, continuez de tourner pour obtenir un bonus de score et pour regagner des points de vie.
+La petite case située en dessous du spinner montre les tours par minute. Le nombre à l'intérieur de cette case correspond au nombre de tours que vous effectuerez si vous continuez à faire tourner le spinner à cette vitesse pendant une minute. Si le bouton de la souris/du clavier a été relâché (ou que le stylo n’a pas touché la tablette) trop tôt pendant la rotation, le spinner arrêtera de prendre en compte la rotation.
 
-Le cercle blanc extérieur indique le temps restant pour terminer le spinner.
-
-Ce cercle deviendra rouge pour signaler que le temps est presque écoulé.
-
-Les beatmaps plus anciennes, utilisant le *skin version 1.0*, auront un mètre/une jauge pour indiquer à quel point le joueur est proche de compléter le spinner.
-
-La petite case située en dessous du spinner montre les tours par minute.
-
-Le nombre à l'intérieur de cette case correspond au nombre de tours que vous effectuerez si vous continuez à faire tourner le spinner à cette vitesse pendant une minute.
-
-Si le bouton de la souris/du clavier a été relâché (ou que le stylo n’a pas touché la tablette) trop tôt pendant la rotation, le spinner arrêtera de prendre en compte la rotation.
-
-Sur la *DS*, c’est un bon moyen de rayer l’écran tactile (ou le protecteur d’écran), en particulier dans les situations difficiles.
-
-Dans osu!, les spinners ont été adoucis pour ne plus être aussi gênants à terminer. Le nombre maximum de tours par minute pouvant être atteint est de 477, ce qui correspond également à la vitesse auquel le mod (ou modificateur de jeu) [Auto](/wiki/Game_Modifiers) fait tourner les spinners, tandis que le modificateur de jeu [Spun Out](/wiki/Game_Modifiers) les fait tourner plus lentement, à 287 tours par minute.
+Sur la *DS*, c’est un bon moyen de rayer l’écran tactile (ou le protecteur d’écran), en particulier dans les situations difficiles. Dans osu!, les spinners ont été adoucis pour ne plus être aussi gênants à terminer. Le nombre maximum de tours par minute pouvant être atteint est de 477, ce qui correspond également à la vitesse auquel le mod (ou modificateur de jeu) [Auto](/wiki/Game_Modifiers) fait tourner les spinners, tandis que le modificateur de jeu [Spun Out](/wiki/Game_Modifiers) les fait tourner plus lentement, à 287 tours par minute.
 
 ## Styles de jeu
 
@@ -284,13 +258,10 @@ Le système utilisé pour calculer la perte et le gain de vie est compliqué et 
 ![Paramètres de la fumée d'osu!](/wiki/shared/osu_smoke_set.jpg "Association de la touche Smoke dans les raccourcis")
 
 - En fonction du réglage de la difficulté et de la tolérance de timing, taper sur un hit object «beaucoup trop tôt» fera vibrer fortement l'objet touché à la place de donner un miss.
-- Relâcher la balle du slider sur une trajectoire de slider vide sans ticks de slider masqués ou visibles ne donne pas lieu à une rupture de combo ni à une augmentation du score.
-  - La prise en compte du slider est validée uniquement si le cercle de départ a été cliqué, si les ticks du slider ont été collectés et si le cercle de fin a été complété avec succès ou non.
-- Si vous modifiez le sens de rotation du spinner en cours de rotation, le compteur de tours ralentit (le nombre de tours par minute diminue jusqu'à 0 pour réinitialiser l'orientation du spinner), puis tourne dans le bon sens.
-  - La progression du spinner ne sera pas perdue lors de la réorientation (elle n'augmentera pas à la place) et continuera à augmenter en rotation inverse.
+- Relâcher la balle du slider sur une trajectoire de slider vide sans ticks de slider masqués ou visibles ne donne pas lieu à une rupture de combo ni à une augmentation du score. La prise en compte du slider est validée uniquement si le cercle de départ a été cliqué, si les ticks du slider ont été collectés et si le cercle de fin a été complété avec succès ou non.
+- Si vous modifiez le sens de rotation du spinner en cours de rotation, le compteur de tours ralentit (le nombre de tours par minute diminue jusqu'à 0 pour réinitialiser l'orientation du spinner), puis tourne dans le bon sens. La progression du spinner ne sera pas perdue lors de la réorientation (elle n'augmentera pas à la place) et continuera à augmenter en rotation inverse.
 - Ne pas tourner autour du noyau central du spinner ne sera **pas** considéré comme une rotation valide.
-- La fumée dure plus longtemps que la trace du curseur dans le jeu par défaut.
-  - Appliquez les effets de fumée en petites quantités pour éviter que les anciens effets de fumée ne disparaissent trop rapidement.
+- La fumée dure plus longtemps que la trace du curseur dans le jeu par défaut. Appliquez les effets de fumée en petites quantités pour éviter que les anciens effets de fumée ne disparaissent trop rapidement.
 - La Mascotte pour osu! est [pippi](/wiki/Mascots#pippi).
 - Quand on joue avec le mod [Auto](/wiki/Game_Modifiers), le nom du joueur sera osu!.
 

@@ -1,16 +1,12 @@
 # osu!
 
-*[Clique para voltar à página das Modalidades de Jogo](/wiki/Game_Modes).*
-
 ![Gameplay de osu!](/wiki/shared/Interface_osu.jpg "osu! Interface")
 
 O primeiro modo de jogo e nomeação foram baseadas na série ouendan.
 
 ## O que é "Ouendan"?
 
-*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")* é um jogo de ritmo para o *Nintendo DS*. A jogabilidade das músicas consiste de somente três aspectos: clicar em círculos através da touchscreen, arrastar uma bola sob um caminho fixo e rotacionar um spinner bem rápido. Todos esses elementos são inspirados em músicas japonesas populares.
-
-É assim que ele se parece no *DS*:
+*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")* é um jogo de ritmo para o *Nintendo DS*. A jogabilidade das músicas consiste de somente três aspectos: clicar em círculos através da touchscreen, arrastar uma bola sob um caminho fixo e rotacionar um spinner bem rápido. Todos esses elementos são inspirados em músicas japonesas populares. É assim que ele se parece no *DS*:
 
 ![Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS](/wiki/shared/Ouendan.jpg "Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS")
 
@@ -64,9 +60,7 @@ Para conceptualizar melhor o charme dos hit circles, não se prenda somente à s
 
 ![Sliders](/wiki/shared/osu_slider.jpg "osu! Slider")
 
-Primeiro você precisa clicar na bola quando o círculo aproximatório tocar nas bordas, assim como acontece com os [hit circles](#hit circles). Porém, o movimento não acaba aqui.
-
-A bola começará a rolar ao longo do caminho. Segure o botão de clique e acompanhe o movimento da bola durante todo o caminho, conforme ela se movimenta, como se estivesse a arrastando. O círculo laranja que acompanha a bola, chamado de follow circle, irá ficar ativo enquando você estiver segurando o botão do clique, mas desaparecerá se você soltar.
+Primeiro você precisa clicar na bola quando o círculo aproximatório tocar nas bordas, assim como acontece com os [hit circles](#hit circles). Porém, o movimento não acaba aqui. A bola começará a rolar ao longo do caminho. Segure o botão de clique e acompanhe o movimento da bola durante todo o caminho, conforme ela se movimenta, como se estivesse a arrastando. O círculo laranja que acompanha a bola, chamado de follow circle, irá ficar ativo enquando você estiver segurando o botão do clique, mas desaparecerá se você soltar.
 
 Algumas vezes, como é mostrado na captura de tela acima, a bola pode ter que voltar ao ponto de partida original do seu movimento. A dica para saber quando isso acontece é a seta de retorno (que será referida como ***seta de direção reversa*** a partir de agora) no fim do caminho.
 
@@ -80,9 +74,7 @@ O círculo aproximatório mostra o quanto de tempo você tem até que o spinner 
 
 O painel abaixo do spinner mostra a sua velocidade atual de rotações por minuto. Se você soltar o botão de clique do seu teclado (ou retirar a caneta da superfície do seu tablet), o valor irá parar de ser atualizado.
 
-No Nintendo *DS* esse é um jeito bom de se arranhar a sua tela, especialmente em dificuldades maiores. No osu!, spinners foram mais facilitados para que não sejam tão chatos de se completar.
-
-O número máximo de giros que se pode atingir por minuto é 477, que também é a velocidade na qual o modificador [Auto](/wiki/Game_Modifiers) gira automaticamente o spinner durante uma jogada. O modificador [Spun Out](/wiki/Game_Modifiers) também gira automaticamente, só que com menos frequência (287 rotações por minuto).
+No Nintendo *DS* esse é um jeito bom de se arranhar a sua tela, especialmente em dificuldades maiores. No osu!, spinners foram mais facilitados para que não sejam tão chatos de se completar. O número máximo de giros que se pode atingir por minuto é 477, que também é a velocidade na qual o modificador [Auto](/wiki/Game_Modifiers) gira automaticamente o spinner durante uma jogada. O modificador [Spun Out](/wiki/Game_Modifiers) também gira automaticamente, só que com menos frequência (287 rotações por minuto).
 
 ## Estilos de Jogo
 
@@ -141,10 +133,6 @@ Multiplique-os pelos seus pesos, some o resultado das multiplicações individua
 
 ### Pontuação
 
-Uma pontuação é atribuída a cada hit circle, final de slider ou de spinner.
-
-#### Hit circles e Sliders
-
 A pontuação de hit circles e finais de sliders é calculada da seguinte forma:
 
 `Pontuação = Valor do Hit + (Valor do Hit * ((Multiplicador do Combo * Multiplicador de Dificuldade * Multiplicador de Modificadores) / 25))`
@@ -157,8 +145,6 @@ A pontuação de hit circles e finais de sliders é calculada da seguinte forma:
 | **Multiplicador de Modificadores** | O multiplicador somado de todos os modificadores escolhidos antes de começar a música. Você pode escolher múltiplos modificadores. |
 
 Adicionalmente, cada começo e final de slider acompanhados conferem 30 pontos; tiques internos no caminho dos sliders conferem 10 pontos cada.
-
-#### Spinners
 
 Cada rotação dos spinners confere 100 pontos **enquanto ele não estiver completo**. Quando está completo, cada giro do spinner vale 1000 pontos.
 
@@ -192,8 +178,9 @@ Repare que os *Modificadores de Jogo* (como Hard Rock/Easy) não afetarão o Mul
 - O julgamento dos sliders não depende da precisão do clique inicial.
 - Sliders são compostos por tiques: inicial, intermediários, final, que se repetem a cada ciclo dos sliders.
 - O valor 300 é atribuído se o jogador conseguir coletar todos os tiques; 100 se ele conseguir ao menos metade deles e 50 se ele obter ao menos obter um dos tiques em tempo hábil.
-- Clicar em um slider muito cedo não resulta em um miss, mas ainda assim irá **resetar** o multiplicador da sua pontuação para **0**. O mesmo vale para caso você não consiga coletar algum dos tiques do slider.
-- Errar o final de um slider não resulta em um miss, mas não incrementará o multiplicador da sua pontuação.
+- Clicar em um slider muito cedo não resulta em um miss, mas ainda assim irá **resetar** o multiplicador da sua pontuação para **0**.
+  - O mesmo vale para caso você não consiga coletar algum dos tiques do slider.
+  - Errar o final de um slider não resulta em um miss, mas não incrementará o multiplicador da sua pontuação.
 - Um miss é atribuível somente se o jogador não conseguir coletar **nenhum** dos tiques de um slider.
 
 **Spinner:**
@@ -241,8 +228,7 @@ O sistema usado para calcular o dreno de vida é complicado, então não será e
 - Receber um miss.
 - Errar um hit circle.
 - Clicar no começo de um slider cedo demais (fora do limite do aceitável).
-- Falhar ao coletar um tique do slider.
-- Falhar ao atingir uma seta de direção reversa do slider (caso esteja presente).
+- Falhar ao coletar um tique do slider. Falhar ao atingir uma seta de direção reversa do slider (caso esteja presente).
 - Falhar ao atingir o tamanho mínimo estabelecido para um spinner.
 
 **Os fatores a seguir impedem modificações na quantidade de vida:**
@@ -259,13 +245,11 @@ O sistema usado para calcular o dreno de vida é complicado, então não será e
 
 ## Conhecimentos gerais
 
-### Fumaça
+### Jogabilidade
 
 ![osu! smoke effect](/wiki/shared/osu_smoke.jpg "Smoke Usage")
 
 ![osu! smoke settings](/wiki/shared/osu_smoke_set.jpg "Smoke in key bindings")
-
-### Jogabilidade
 
 - Dependendo da configuração de dificuldade e tolerância do timing do beatmap, tentar clicar no *hit object* cedo demais irá vibrá-lo.
 - Soltar a bola de rolagem do slider em um caminho sem tiques não resultará em um interrompimento do combo ou ganho de pontuação. Nesse caso, somente o tique inicial será julgado.

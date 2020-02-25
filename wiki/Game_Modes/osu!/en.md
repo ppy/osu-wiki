@@ -262,13 +262,10 @@ The system used to calculate health drain and health gain is complicated so it w
 ![osu! smoke settings](/wiki/shared/osu_smoke_set.jpg "Smoke in key bindings")
 
 - Depending on difficulty setting and the timing tolerance, tapping on the hit object *way too early* will heavily vibrate the hit object instead.
-- Releasing slider ball on empty slider path without hidden or visible slider ticks does not result in combo break nor any score given.
-  Slider judgement only check for whether the starting circle was clicked, the slider ticks was collected, and ending circle was completed successfully or not.
-- Changing spin direction in the middle of a spin will cause the spinner to slow down (spins per minute will go down to 0 to reset the spin orientation), then spin in the correct direction.
-  The spin progress will not be lost during the reorientation (it will not increase instead), and will continue to increase on reverse spin.
+- Releasing slider ball on empty slider path without hidden or visible slider ticks does not result in combo break nor any score given. Slider judgement only check for whether the starting circle was clicked, the slider ticks was collected, and ending circle was completed successfully or not.
+- Changing spin direction in the middle of a spin will cause the spinner to slow down (spins per minute will go down to 0 to reset the spin orientation), then spin in the correct direction. The spin progress will not be lost during the reorientation (it will not increase instead), and will continue to increase on reverse spin.
 - Not spinning around the centre core of the spinner will **not** be considered as a valid spin.
-- Smoke last longer than default in-game cursor trail.
-  Apply smoke effects sparsely to prevent old smoke effects disappearing too quickly.
+- Smoke last longer than default in-game cursor trail. Apply smoke effects sparsely to prevent old smoke effects disappearing too quickly.
 - Mascot for osu! is [pippi](/wiki/Mascots#pippi).
 - When played by [Auto](/wiki/Game_Modifiers), the player name will be osu!.
 

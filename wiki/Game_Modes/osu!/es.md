@@ -1,7 +1,5 @@
 # osu!
 
-*[Haz clic aqui para regresar a la página de Modos de Juego](/wiki/Game_Modes).*
-
 ![Gameplay de osu!](/wiki/shared/Interface_osu.jpg "Interfaz de osu!")
 
 El primer modo de juego y homónimo que se basó en la serie ouendan.
@@ -128,7 +126,9 @@ En otras palabras: `Precisión = Puntos totales de golpe / (Número total de gol
 | **s** | Número de |
 | **p** | Puntos |
 
-En otras palabras, cada *Fallo* cuenta como 0 puntos, cada *50* cuenta como 50 puntos, cada *100* como 100 puntos y cada *300* como 300 puntos. Sumalos todos y divide la suma por el número de golpes multiplicado por 300.
+En otras palabras, cada *Fallo* cuenta como 0 puntos, cada *50* cuenta como 50 puntos, cada *100* como 100 puntos y cada *300* como 300 puntos.
+
+Sumalos todos y divide la suma por el número de golpes multiplicado por 300.
 
 - Si solo hay 300s: dara un resultado de 1.00, lo que significa 100% de precisión.
 - Si solo hay 100s: dara resultado de 0.3333 (es decir, 100/300), lo que significa un 33.33% de precisión.
@@ -259,8 +259,7 @@ El sistema utilizado para calcular el drenaje de la salud y la ganancia de salud
 
 - Dependiendo de la configuración de la dificultad y de la tolerancia de tiempo, al tocar el objeto de golpeo demasiado antes, hará vibrar el objeto de golpeo.
 - Al soltar la bola del control deslizante en la trayectoria del control deslizante vacia y sin tics de control deslizante ocultas o visibles no se traduce en una interrupción del combo ni ninguna puntuación. El juicio del control deslizante solo verifica si se hizo clic en el círculo de inicio, se recogieron las marcas de control deslizante y se completó con éxito el círculo de finalización o no.
-- Al cambiar la dirección de giro en el medio de una rotación, la ruleta disminuirá la velocidad (los giros por minuto bajarán a 0 para restablecer la orientación de giro) y luego girará en la dirección correcta.
-- El progreso del giro no se perderá durante la reorientación (no aumentará en cambio), y continuará aumentando en el giro inverso.
+- Al cambiar la dirección de giro en el medio de una rotación, la ruleta disminuirá la velocidad (los giros por minuto bajarán a 0 para restablecer la orientación de giro) y luego girará en la dirección correcta. El progreso del giro no se perderá durante la reorientación (no aumentará en cambio), y continuará aumentando en el giro inverso.
 - No girar alrededor del centro de la ruleta **no** se considerará un giro válido.
 - El humo dura más que el rastro del cursor predeterminado en el juego. Aplica esparcidamente los efectos del humo para evitar que los efectos de humo mas viejos desaparezcan demasiado rápido.
 - La mascota de osu! es [pippi](/wiki/Mascots#pippi).
