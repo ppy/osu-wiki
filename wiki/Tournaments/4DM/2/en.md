@@ -8,7 +8,7 @@ tags:
 
 ![4DM2 logo](img/logo.jpg)
 
-The **4 Digit osu!mania World Cup 2** (***4DM2***) is a worldwide country-based double-elimination three-on-three osu!mania 4K tournament hosted by ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) and ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095). This is the second installment of the 4 Digit osu!mania World Cup.
+The **4 Digit osu!mania World Cup 2** (***4DM2***) is a worldwide country-based double-elimination 3v3 osu!mania 4K tournament hosted by ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) and ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095). This is the second installment of the 4 Digit osu!mania World Cup.
 
 ## Tournament schedule
 
@@ -17,7 +17,7 @@ The **4 Digit osu!mania World Cup 2** (***4DM2***) is a worldwide country-based 
 | Registration phase | 2020-01-01/2020-01-25 |
 | Live drawings | 2020-02-08 (01:00 UTC) |
 | Qualifiers | 2020-02-15/2020-02-16 |
-| Group Stage | 2020-02-22/2020-02-23 |
+| Group Stage | 2020-02-22/2020-02-25 |
 | Round of 16 | 2020-02-29/2020-03-01 |
 | Quarterfinals | 2020-03-07/2020-03-08 |
 | Semifinals | 2020-03-14/2020-03-15 |
