@@ -201,7 +201,7 @@ The Yuri Cup is run by various community members.
 | #43 | bite U death v3 | 41.3 |
 | #44 | Bench Warmers | 41.7 |
 | #45 | carroça rebaixada | 44.2 |
-| #46 | CEO Of Yuri | 45.4
+| #46 | CEO Of Yuri | 45.4 |
 
 - More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1OanmoSiHTwzALW43eOes6yUwc7GF_CNw5etJkfx4FM0/edit#gid=1464429579)
 - Average is determined by `Σ position earned when playing the qualifiers mappool / 10`
