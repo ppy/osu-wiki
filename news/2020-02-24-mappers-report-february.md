@@ -98,7 +98,7 @@ We'd like to use this section as a reminder that you can apply as a Beatmap Nomi
 
 Next, we have those who have taken their leave from the group. We'd like to thank them for their tremendous work and effort within the BNs and wish them the best with their newly obtained freedom!
 
-- **osu!:** [Trynna](https://osu.ppy.sh/users/2652951)
+- **osu!:** [Mun](https://osu.ppy.sh/users/6699165) & [Trynna](https://osu.ppy.sh/users/2652951)
 - **osu!taiko:** [qoot8123](https://osu.ppy.sh/users/766371)
 - **osu!catch:** [Du5t](https://osu.ppy.sh/users/6053071), [Rocma](https://osu.ppy.sh/users/566276) & [Sanyi](https://osu.ppy.sh/users/7496029)
 - **osu!mania:** [Critical_Star](https://osu.ppy.sh/users/3793196), [Kyousukee](https://osu.ppy.sh/users/8842107), [MEGAtive](https://osu.ppy.sh/users/3094101) & [Tailsdk](https://osu.ppy.sh/users/6751666)
