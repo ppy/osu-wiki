@@ -123,7 +123,7 @@ Our second addition on the 26th January was **[Greaper](https://osu.ppy.sh/users
 
 ## <a id="mapping-contests"></a>Mapping Contests
 
-If you are organizing a mapping contest that will begin within the next 1-3 months, feel free to submit it through [this form](https://docs.google.com/forms/d/e/1FAIpQLSeVPi2KkcWiEsJzsEs1ir79HrP2jE_Sy2DCX_4nR_EECFTX4Q/viewform?usp=sf_link) for a chance of being featured on next month's installment of the Mappers' Report. We are looking to highlight more mapping contests from the community!
+If you are organizing a mapping contest that will begin within the next 1-3 months, feel free to submit it through the form in [this forum thread](https://osu.ppy.sh/community/forums/topics/1027590) for a chance of being featured on next month's installment of the Mappers' Report. We are looking to highlight more mapping contests from the community!
 
 ### Monthly Beatmapping Contest: February 2020
 
