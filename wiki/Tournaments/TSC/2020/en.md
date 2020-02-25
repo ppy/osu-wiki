@@ -49,7 +49,7 @@ The Taiko Suiji Cup 2020 is run by various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1008498)
 - [TSC Discord server](https://discord.gg/yV3bDTC)
-- [Livestream](https://www.twitch.tv/osutaikolive)
+- [Livestream](https://twitch.tv/osutaikolive)
 - [Challonge brackets](https://challonge.com/TSCosu2020)
 - [Pick'em predictions website](https://pickem.hwchr.com/tournaments/24)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1wRgZE_xq50KLqYQA7t027CW3nIRrIn7hiY3iTapK4V8/edit?usp=sharing)**
