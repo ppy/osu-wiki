@@ -15,7 +15,7 @@ The **Taiko Suiji Cup 2020** (***TSC 2020***) is an international randomised thr
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2020-01-10/2020-02-09 |
-| Live drawings | *to be announced* |
+| Live drawings | 2020-02-17 (20:00 UTC) |
 | Qualifiers | 2020-02-22/2020-02-23 |
 | Round of 32 | 2020-02-29/2020-03-01 |
 | Round of 16 | 2020-03-07/2020-03-08 |
