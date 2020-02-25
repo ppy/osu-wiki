@@ -142,6 +142,48 @@ The Taiko Suiji Cup 2020 is run by various community members.
 - Challenge
   - [Doma Umaru \[CV:Tanaka Aimi\] - Kakushinteki\*Metamaruphose! (Chiswell) \[UMR Oni\]](https://osu.ppy.sh/beatmapsets/345189#taiko/762526)
 
+## Match results
+
+### Qualifiers
+
+| Seed | Team | Average |
+| --: | :-- | --: |
+| #1 | 🍘 | 4.2 |
+| #2 | chocobo | 9.2 |
+| #3 | Worldwide Bongo | 9.8 |
+| #4 | plz Jeff | 10 |
+| #5 | Spaghetti Protectors | 10.6 |
+| #6 | Break4 | 11.2 |
+| #7 | Team 26 | 11.6 |
+| #8 | #TeamTrees |  11.8 |
+| #9 | bruh | 12 |
+| #10 | bacon | 12.6 |
+| #11 | sunglasses emoji | 13 |
+| #12 | 4:3 gang | 13.4 |
+| #13 | IHATETAIKO | 14.2 |
+| #14 | t. | 15 |
+| #15 | Geki Force | 15.6 |
+| #16 | Ronaldo Gaming | 15.8 |
+| #17 | ham sandwich xviii | 16.4 |
+| #18 | Team 5 | 16.6 |
+| #19 | The winner is the winner | 17.2 |
+| #19 | Team 6 | 17.2 |
+| #21 | Donjinshi | 17.6 |
+| #22 | The Shitmissers ft. zkane2 | 18.2 |
+| #23 | Beat Laser | 19 |
+| #24 | Six Spinning Monkeys | 19.4 |
+| #25 | HolyWeebs | 19.8 |
+| #26 | Froot Loopy | 22 |
+| #27 | 6th Sense | 22.2 |
+| #28 | BlackJack | 25 |
+| #28 | Aggressive Banana | 25 |
+| #28 | Six Leaf Clover | 25 |
+| #31 | 1 | 26.2 |
+| #32 | THANOS OBAMA | 31.2 |
+
+- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1atC4Ym2qwmt8s-nRkbkWlQRYHKPauuTBVeeAP3vSmk8/edit#gid=0)
+- Average is determined by `Σ position earned when playing the qualifiers mappool / 5`
+
 ## Ruleset
 
 ### General rules
