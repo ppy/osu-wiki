@@ -105,6 +105,25 @@ The 4 Digit osu!mania World Cup 2 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the map pack here! (83 MB)](https://puu.sh/Fdtx1/bd12368c8b.zip)**
+
+- FreeMod
+  - [BEMANI Sound Team "Nekomata Master" - Life is beautiful (-MysticEyes) \[EXTREME\]](https://osu.ppy.sh/beatmapsets/860089#mania/2007200)
+  - [Momo - Belladonna (\[Crz\]Crysarlene) \[Novice (220bpm)\]](https://osu.ppy.sh/beatmapsets/1113536#mania/2326315)
+  - [Izayoi - Night of Knights (Shoegazer) \[Insane\]](https://osu.ppy.sh/beatmapsets/477209#mania/1019346)
+  - [The Ghost Of 3.13 - Mara (Sorry For All The Mess) (Cut) (Todestrieb) \[Broken\]](https://osu.ppy.sh/beatmapsets/912424#mania/1906068)
+  - [mattaku - Estpolis Denki II \~Battle #2\~ (Kamikaze) \[Architect [1,2x Rate]\]](https://osu.ppy.sh/beatmapsets/988572#mania/2067887)
+  - [Underoath - Coming Down Is Calming Down (Shoegazer) \[Desperation\]](https://osu.ppy.sh/beatmapsets/882967#mania/1845963)
+  - [aran - L.F.O (-MysticEyes) \[Another\]](https://osu.ppy.sh/beatmapsets/882805#mania/1848364)
+  - [senya - Tsuzurenu Mori no Shoujo (souzirou1000) \[LN\]](https://osu.ppy.sh/beatmapsets/704155#mania/1489611)
+  - [KillerBlood - The Diary of Angels and Devils Trickeries (Kamuy) \[deception\]](https://osu.ppy.sh/beatmapsets/1079511#mania/2258535)
+  - [Slappy - Hanami (RuleBlazing) \[Edit\]](https://osu.ppy.sh/beatmapsets/1101411#mania/2329945)
+  - [Moe shop - Love Taste (w/ Jamie Paige & Shiki) (zero2snow) \[Sour (SV)\]](https://osu.ppy.sh/beatmapsets/1113833#mania/2326952)
+- Tiebreaker
+  - **[Camellia - Heart of Android : Even If It's Only By Mechanism (Antalf) \[Cipher\]](https://osu.ppy.sh/beatmapsets/1042122#mania/2325913)**
+
 ### Group Stage
 
 - FreeMod
