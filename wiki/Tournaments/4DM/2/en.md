@@ -128,6 +128,43 @@ The 4 Digit osu!mania World Cup 2 is run by various community members.
   - [Nekomata Master - Izanami's Wail (\[Crz\]Crysarlene) \[Stage 3: Betwixt\]](https://osu.ppy.sh/beatmapsets/1106156#mania/2311839)
   - [void feat. Gt. HAKKYOU-KUN - Never Escape (HowToPlayLN) \[Stage 4: Surrounded\]](https://osu.ppy.sh/beatmapsets/1105727#mania/2311135)
 
+## Match results
+
+### Qualifiers
+
+| Seed | Team | Average Rank |
+| --: | :-- | --: |
+| #1 | ![][flag_US] United States | 1.3 |
+| #2 | ![][flag_SG] Singapore | 3 |
+| #3 | ![][flag_FR] France | 5.5 |
+| #4 | ![][flag_AR] Argentina | 6.5 |
+| #5 | ![][flag_BR] Brazil | 7.8 |
+| #6 | ![][flag_PH] Philippines | 8.3 |
+| #6 | ![][flag_TH] Thailand | 8.3 |
+| #6 | ![][flag_RU] Russian Federation | 8.3 |
+| #9 | ![][flag_CN] China | 8.5 |
+| #10 | ![][flag_FI] Finland | 8.8 |
+| #11 | ![][flag_NL] Netherlands | 9.3 |
+| #12 | ![][flag_ID] Indonesia | 10.3 |
+| #13 | ![][flag_CA] Canada | 12 |
+| #14 | ![][flag_GB] United Kingdom | 13 |
+| #15 | ![][flag_NZ] New Zealand | 15 |
+| #16 | ![][flag_AU] Australia | 16 |
+| #17 | ![][flag_BE] Belgium | 16.5 |
+| #18 | ![][flag_CL] Chile | 17.5 |
+| #19 | ![][flag_ES] Spain | 18.3 |
+| #20 | ![][flag_KR] South Korea |  19.3 |
+| #20 | ![][flag_MY] Malaysia | 19.3 |
+| #22 | ![][flag_PL] Poland | 21.5 |
+| #23 | ![][flag_IT] Italy | 22.8 |
+| #24 | ![][flag_CH] Switzerland | 24 |
+| #25 | ![][flag_DO] Dominican Republic | 25 |
+
+- Only the top 24 team can proceed to the group stage
+- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1cT1BLBuG3XGyDvPWFTGJO_TOpRkdKQaH6shstbJcauc/edit?usp=sharing)
+- Average is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
+- ![][flag_PE] Peru didn't show up during their Qualifiers
+
 ## Ruleset
 
 ### General rules
