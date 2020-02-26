@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Featured Artist: Sound Souler"
-date: 2020-01-29 08:00:00 +0000
+date: 2020-02-26 09:00:00 +0000
 ---
 
 We're proud to welcome **Sound Souler** aboard as our latest Featured Artist!
