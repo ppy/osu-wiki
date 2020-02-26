@@ -127,7 +127,7 @@ If you are organizing a mapping contest that will begin within the next 1-3 mont
 
 ### Monthly Beatmapping Contest: February 2020
 
-This month's installment of the **Monthly Beatmapping Contest (MBC)** has arrived! Head on over to the [news post](https://osu.ppy.sh/home/news/2020-02-03-monthly-beatmapping-contest-february) to find out all about this month's restriction on your entries. If it's too late for you to make an entry given the deadline is in less than a week, worry not, at the start of March a new contest will begin so you'll have your chance to participate. Keep your eyes peeled for the news post that will be made when the March contest is ready.
+This month's installment of the **Monthly Beatmapping Contest (MBC)** has arrived! Head on over to the [news post](https://osu.ppy.sh/home/news/2020-02-03-monthly-beatmapping-contest-february) to find out all about this month's restriction on your entries. The entry period for February has just ended, but worry not! At the start of March the next contest will begin and you'll have your chance to participate. Keep your eyes peeled for the news post that will be made when the March contest is ready.
 
 ### 6th osu! Mapping Olympiad
 
