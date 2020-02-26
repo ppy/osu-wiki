@@ -8,7 +8,7 @@ tags:
 
 ![4DM2 logo](img/logo.jpg)
 
-The **4 Digit osu!mania World Cup 2** (***4DM2***) is a worldwide country-based double-elimination three-on-three osu!mania 4K tournament hosted by ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) and ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095). This is the second installment of the 4 Digit osu!mania World Cup.
+The **4 Digit osu!mania World Cup 2** (***4DM2***) is a worldwide country-based double-elimination 3v3 osu!mania 4K tournament hosted by ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) and ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095). This is the second installment of the 4 Digit osu!mania World Cup.
 
 ## Tournament schedule
 
@@ -17,7 +17,7 @@ The **4 Digit osu!mania World Cup 2** (***4DM2***) is a worldwide country-based 
 | Registration phase | 2020-01-01/2020-01-25 |
 | Live drawings | 2020-02-08 (01:00 UTC) |
 | Qualifiers | 2020-02-15/2020-02-16 |
-| Group Stage | 2020-02-22/2020-02-23 |
+| Group Stage | 2020-02-22/2020-02-25 |
 | Round of 16 | 2020-02-29/2020-03-01 |
 | Quarterfinals | 2020-03-07/2020-03-08 |
 | Semifinals | 2020-03-14/2020-03-15 |
@@ -54,8 +54,8 @@ The 4 Digit osu!mania World Cup 2 is run by various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1004847)
 - [4DM Discord server](https://discord.gg/NzYtsxV)
-- [4DM YouTube channel](https://www.youtube.com/channel/UC9mLxo8frxAJCf1vrASEFDg)
-- [Livestream](https://www.twitch.tv/4digitmwc)
+- [4DM YouTube channel](https://youtube.com/channel/UC9mLxo8frxAJCf1vrASEFDg)
+- [Livestream](https://twitch.tv/4digitmwc)
 - [Map suggestion form](https://forms.gle/BjLjtUSAVDLhhQ368)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1cT1BLBuG3XGyDvPWFTGJO_TOpRkdKQaH6shstbJcauc/edit?usp=sharing)**
 
@@ -70,7 +70,7 @@ The 4 Digit osu!mania World Cup 2 is run by various community members.
 | ![][flag_CA] **Canada** | **[AndyTechGuy](https://osu.ppy.sh/users/10946180)**, [ToaphFanGirl](https://osu.ppy.sh/users/8160564), [Aesis](https://osu.ppy.sh/users/7253252), [jac0b150](https://osu.ppy.sh/users/9160118), [XzVx](https://osu.ppy.sh/users/12286606), [\[Skippy\]](https://osu.ppy.sh/users/9333957) |
 | ![][flag_CL] **Chile** | **[ItzBenja616](https://osu.ppy.sh/users/8538906)**, [NikoSek](https://osu.ppy.sh/users/4088977), [Charliegamer](https://osu.ppy.sh/users/6661676), [George18945](https://osu.ppy.sh/users/10659178) |
 | ![][flag_CN] **China** | **[hans1999](https://osu.ppy.sh/users/6679329)**, [ImmortalphoeniX](https://osu.ppy.sh/users/7080633), [cherrychou](https://osu.ppy.sh/users/7214023), [Fe\_Sanae\_C](https://osu.ppy.sh/users/14675885), [yyjshishuaibi](https://osu.ppy.sh/users/10383569), [Yuki IV](https://osu.ppy.sh/users/10226286) |
-| ![][flag_DO] **Dominical Republic** | **[Antalf](https://osu.ppy.sh/users/8793773)**, [Kaito-kun](https://osu.ppy.sh/users/4715184), [Fortnito](https://osu.ppy.sh/users/9964045) |
+| ![][flag_DO] **Dominican Republic** | **[Antalf](https://osu.ppy.sh/users/8793773)**, [Kaito-kun](https://osu.ppy.sh/users/4715184), [Fortnito](https://osu.ppy.sh/users/9964045) |
 | ![][flag_FI] **Finland** | **[Crazzeh](https://osu.ppy.sh/users/5054154)**, [Fireable](https://osu.ppy.sh/users/12624280), [-Oreo-](https://osu.ppy.sh/users/5099222), [TheTrueXfish](https://osu.ppy.sh/users/12545346), [PianoLuigi](https://osu.ppy.sh/users/9665915), [CunuTriggeredMe](https://osu.ppy.sh/users/3386886) |
 | ![][flag_FR] **France** | **[Adri](https://osu.ppy.sh/users/4579132)**, [ZayyKen](https://osu.ppy.sh/users/8624433), [Kyzoid](https://osu.ppy.sh/users/4089441), [DragonSonic](https://osu.ppy.sh/users/7294830), [Ping36](https://osu.ppy.sh/users/9388217), [JustMan 3](https://osu.ppy.sh/users/9049282) |
 | ![][flag_ID] **Indonesia** | **[LuxSayaka](https://osu.ppy.sh/users/8382579)**, [Fyl](https://osu.ppy.sh/users/10069307), [Artem1s](https://osu.ppy.sh/users/12561379), [\[ID\]Riemann](https://osu.ppy.sh/users/7457688), [2ndlegend](https://osu.ppy.sh/users/7621604), [-ExRazor](https://osu.ppy.sh/users/6807769) |
@@ -105,6 +105,25 @@ The 4 Digit osu!mania World Cup 2 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the map pack here! (83 MB)](https://puu.sh/Fdtx1/bd12368c8b.zip)**
+
+- FreeMod
+  - [BEMANI Sound Team "Nekomata Master" - Life is beautiful (-MysticEyes) \[EXTREME\]](https://osu.ppy.sh/beatmapsets/860089#mania/2007200)
+  - [Momo - Belladonna (\[Crz\]Crysarlene) \[Novice (220bpm)\]](https://osu.ppy.sh/beatmapsets/1113536#mania/2326315)
+  - [Izayoi - Night of Knights (Shoegazer) \[Insane\]](https://osu.ppy.sh/beatmapsets/477209#mania/1019346)
+  - [The Ghost Of 3.13 - Mara (Sorry For All The Mess) (Cut) (Todestrieb) \[Broken\]](https://osu.ppy.sh/beatmapsets/912424#mania/1906068)
+  - [mattaku - Estpolis Denki II \~Battle #2\~ (Kamikaze) \[Architect [1,2x Rate]\]](https://osu.ppy.sh/beatmapsets/988572#mania/2067887)
+  - [Underoath - Coming Down Is Calming Down (Shoegazer) \[Desperation\]](https://osu.ppy.sh/beatmapsets/882967#mania/1845963)
+  - [aran - L.F.O (-MysticEyes) \[Another\]](https://osu.ppy.sh/beatmapsets/882805#mania/1848364)
+  - [senya - Tsuzurenu Mori no Shoujo (souzirou1000) \[LN\]](https://osu.ppy.sh/beatmapsets/704155#mania/1489611)
+  - [KillerBlood - The Diary of Angels and Devils Trickeries (Kamuy) \[deception\]](https://osu.ppy.sh/beatmapsets/1079511#mania/2258535)
+  - [Slappy - Hanami (RuleBlazing) \[Edit\]](https://osu.ppy.sh/beatmapsets/1101411#mania/2329945)
+  - [Moe shop - Love Taste (w/ Jamie Paige & Shiki) (zero2snow) \[Sour (SV)\]](https://osu.ppy.sh/beatmapsets/1113833#mania/2326952)
+- Tiebreaker
+  - **[Camellia - Heart of Android : Even If It's Only By Mechanism (Antalf) \[Cipher\]](https://osu.ppy.sh/beatmapsets/1042122#mania/2325913)**
+
 ### Group Stage
 
 - FreeMod
@@ -127,6 +146,89 @@ The 4 Digit osu!mania World Cup 2 is run by various community members.
   - [Dropgun - Fire Blazing (Logan636) \[Stage 2: Ignition\]](https://osu.ppy.sh/beatmapsets/1106164#mania/2311852)
   - [Nekomata Master - Izanami's Wail (\[Crz\]Crysarlene) \[Stage 3: Betwixt\]](https://osu.ppy.sh/beatmapsets/1106156#mania/2311839)
   - [void feat. Gt. HAKKYOU-KUN - Never Escape (HowToPlayLN) \[Stage 4: Surrounded\]](https://osu.ppy.sh/beatmapsets/1105727#mania/2311135)
+
+## Match results
+
+### Group Stage
+
+Saturday, 22 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Australia ![][flag_AU] | 0 | **4** | ![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/58634132) |
+| Switzerland ![][flag_CH] | 0 | **4** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/58635800) |
+| South Korea ![][flag_KR] | **4** | 2 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/58636854) |
+| United Kingdom ![][flag_GB] | 2 | **4** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/58637900) |
+| Italy ![][flag_IT] | -1 | **0** | ![][flag_CN] **China** | *win by default* |
+| Malaysia ![][flag_MY] | 1 | **4** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/58639317) |
+| Poland ![][flag_PL] | 0 | **4** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/58640889) |
+| **Chile** ![][flag_CL] | **4** | 1 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/58642532) |
+| Italy ![][flag_IT] | -1 | **0** | ![][flag_US] **United States** | *win by default* |
+
+Sunday, 23 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| South Korea ![][flag_KR] | 3 | **4** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/58656163) |
+| **United States** ![][flag_US] | **4** | 0 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/58658942) |
+| Belgium ![][flag_BE] | 1 | **4** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/58664614) |
+| Poland ![][flag_PL] | -1 | **0** | ![][flag_PH] **Philippines** | *win by default* |
+| New Zealand ![][flag_NZ] | 0 | **4** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/58665472) |
+| Switzerland ![][flag_CH] | 0 | **4** | ![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/58666567) |
+| Belgium ![][flag_BE] | 1 | **4** | ![][flag_NZ] **New Zealand** | [#1](https://osu.ppy.sh/community/matches/58666724) |
+| Indonesia ![][flag_ID] | -1 | **0** | ![][flag_FR] **France** | *win by default* |
+| Canada ![][flag_CA] | 3 | **4** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/58673367) |
+| Chile ![][flag_CL] | 0 | **4** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/58674897) |
+| **Finland** ![][flag_FI] | **4** | 3 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/58674908) |
+| Spain ![][flag_ES] | 0 | **4** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/58677954) |
+
+Monday, 24 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Spain ![][flag_ES] | 0 | **4** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/58697212) |
+
+Tuesday, 25 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Malaysia ![][flag_MY] | 2 | **4** | ![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/58717706) |
+| Netherlands ![][flag_NL] | 1 | **4** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/58726479) |
+
+### Qualifiers
+
+| Seed | Team | Average Rank |
+| --: | :-- | --: |
+| #1 | ![][flag_US] United States | 1.3 |
+| #2 | ![][flag_SG] Singapore | 3 |
+| #3 | ![][flag_FR] France | 5.5 |
+| #4 | ![][flag_AR] Argentina | 6.5 |
+| #5 | ![][flag_BR] Brazil | 7.8 |
+| #6 | ![][flag_PH] Philippines | 8.3 |
+| #6 | ![][flag_TH] Thailand | 8.3 |
+| #6 | ![][flag_RU] Russian Federation | 8.3 |
+| #9 | ![][flag_CN] China | 8.5 |
+| #10 | ![][flag_FI] Finland | 8.8 |
+| #11 | ![][flag_NL] Netherlands | 9.3 |
+| #12 | ![][flag_ID] Indonesia | 10.3 |
+| #13 | ![][flag_CA] Canada | 12 |
+| #14 | ![][flag_GB] United Kingdom | 13 |
+| #15 | ![][flag_NZ] New Zealand | 15 |
+| #16 | ![][flag_AU] Australia | 16 |
+| #17 | ![][flag_BE] Belgium | 16.5 |
+| #18 | ![][flag_CL] Chile | 17.5 |
+| #19 | ![][flag_ES] Spain | 18.3 |
+| #20 | ![][flag_KR] South Korea |  19.3 |
+| #20 | ![][flag_MY] Malaysia | 19.3 |
+| #22 | ![][flag_PL] Poland | 21.5 |
+| #23 | ![][flag_IT] Italy | 22.8 |
+| #24 | ![][flag_CH] Switzerland | 24 |
+| #25 | ![][flag_DO] Dominican Republic | 25 |
+
+- Only the top 24 team can proceed to the Group Stage
+- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1cT1BLBuG3XGyDvPWFTGJO_TOpRkdKQaH6shstbJcauc/edit?usp=sharing)
+- Average is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
+- ![][flag_PE] Peru didn't show up during their Qualifiers
 
 ## Ruleset
 
