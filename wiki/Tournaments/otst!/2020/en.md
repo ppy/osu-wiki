@@ -15,7 +15,7 @@ The **osu! TV Size Tournament 2020** (***otst! 2020***) is an international four
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2020-02-05/2020-02-22 |
-| Live drawings | *to be announced* |
+| Live drawings | 2020-02-23 (15:00 UTC) |
 | Qualifiers | 2020-02-29/2020-03-01 |
 | Round of 32 | 2020-03-07/2020-03-08 |
 | Round of 16 | 2020-03-14/2020-03-15 |
