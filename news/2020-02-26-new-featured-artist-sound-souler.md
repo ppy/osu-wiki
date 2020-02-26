@@ -32,7 +32,7 @@ Check out [this set from the Mappers' Guild](https://osu.ppy.sh/beatmapsets/1093
 
 ### Gloom After Death
 
-Check out [this set](https://osu.ppy.sh/beatmapsets/1093465#osu/2285424) from by [eiri-](https://osu.ppy.sh/users/3388410)!
+Check out [this set](https://osu.ppy.sh/beatmapsets/1093465#osu/2285424) from [eiri-](https://osu.ppy.sh/users/3388410)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/70/previews/1928.mp3" type="audio/mpeg">
