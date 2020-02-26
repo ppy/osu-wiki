@@ -8,7 +8,7 @@ We're proud to welcome **Sound Souler** aboard as our latest Featured Artist!
 
 ![](https://assets.ppy.sh/artists/70/header.jpg)
 
-Featuring on projects from *Team Arcstar*, *Milkyway TRAXX* and more, **Sound Souler** joins the lineup! You might be already be familiar with his work from titles like *Muse Dash*, *Arcaea* and *OverRapid*. Suffice to say, **Sound Souler** knows rhythm game music well, and we're excited to see what creations the osu! community will undertake with his sound. We've managed to snag **19** stonking tracks for your mapping experiments too, so there's plenty of things to choose from.
+Featuring on projects from *Team Arcstar* and *Milkyway TRAXX*, you might be already be familiar with **Sound Souler** from titles like *Muse Dash*, *Arcaea* and *OverRapid*. Suffice to say, he knows rhythm game music well, and we're excited to see what creations the osu! community will undertake with his sound. We've managed to snag **19** stonking tracks for your mapping experiments too, so there's plenty of things to choose from.
 
 The Mappers' Guild have been hard at work creating fancy preview sets showcasing the kind of magnificence you can get up to with his varied, electronica-styled sound, so make sure to check them out to get a feel for things. You can find them linked below, and I *highly* recommend checking them out.
 
