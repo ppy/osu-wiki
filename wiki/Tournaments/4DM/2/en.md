@@ -54,8 +54,8 @@ The 4 Digit osu!mania World Cup 2 is run by various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1004847)
 - [4DM Discord server](https://discord.gg/NzYtsxV)
-- [4DM YouTube channel](https://www.youtube.com/channel/UC9mLxo8frxAJCf1vrASEFDg)
-- [Livestream](https://www.twitch.tv/4digitmwc)
+- [4DM YouTube channel](https://youtube.com/channel/UC9mLxo8frxAJCf1vrASEFDg)
+- [Livestream](https://twitch.tv/4digitmwc)
 - [Map suggestion form](https://forms.gle/BjLjtUSAVDLhhQ368)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1cT1BLBuG3XGyDvPWFTGJO_TOpRkdKQaH6shstbJcauc/edit?usp=sharing)**
 
