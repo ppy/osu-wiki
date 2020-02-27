@@ -9,7 +9,7 @@ tags:
 
 ![UKCC 7 Logo](img/banner.png)
 
-The 7th edition of the bi-annual UK Community Cup, a tournament for those who live or are from the UK or Ireland. The edition was a 2v2 and finished on the 27th October 2019.
+The 7th edition of the bi-annual UK Community Cup, a tournament for those who live or are from the UK or Ireland. This edition was a 1v1 and finished on the 27th October 2019.
 
 # Contents
 
