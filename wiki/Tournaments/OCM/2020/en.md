@@ -15,12 +15,12 @@ The **osu! Cup Master 3: osu!catch edition** (***OCM3***) is a a two-on-two team
 | Event | Timestamp |
 | --: | :-- |
 | Registration Phase | 2019-12-14 / 2020-01-25 |
-| Live Drawings | 2020-02-01 |
-| Group Stage | 2020-02-08 / 2020-02-09 |
-| Quarterfinals | 2020-02-15 / 2020-02-16 |
-| Semifinals | 2020-02-22 / 2020-02-23 |
-| Finals | 2020-02-29 / 2020-03-01 |
-| Grand Finals | 2020-03-07 |
+| Live Drawings | 2020-02-09 |
+| Group Stage | 2020-02-15 / 2020-02-16 |
+| Quarterfinals | 2020-02-22 / 2020-02-23 |
+| Semifinals | 2020-02-29 / 2020-03-01 |
+| Finals | 2020-03-07 / 2020-03-08 |
+| Grand Finals | 2020-03-14 / 2020-03-15 |
 
 
 ## Prizes
