@@ -46,7 +46,8 @@ The osu!taiko World Cup 2020 is run by various community members.
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1018778)
-- [Livestream](https://www.twitch.tv/osulive)
+- [Livestream](https://twitch.tv/osulive)
+- [Pick'ems page](https://pickem.hwchr.com/tournaments/26)
 
 ---
 
