@@ -38,12 +38,12 @@ The osu! TV Size Tournament 2020 is run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214) |
-| Map selector | ![][flag_DE] [Chriz](https://osu.ppy.sh/users/2355080), ![][flag_AU] [Kazuma](https://osu.ppy.sh/users/10642837), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214) |
-| Referee | ![][flag_HK] [Cindergoat](https://osu.ppy.sh/users/10168682), ![][flag_TH] [Deppyforce](https://osu.ppy.sh/users/5286213), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_US] [moss-](https://osu.ppy.sh/users/9918921), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_CA] [Senko-san](https://osu.ppy.sh/users/2065771), ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899), ![][flag_NL] [Stan](https://osu.ppy.sh/users/11212255) |
+| Map selector | ![][flag_DE] [Chriz](https://osu.ppy.sh/users/2355080), ![][flag_AU] [Kazuma](https://osu.ppy.sh/users/10642837), ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214) |
+| Referee | ![][flag_DE] [ChaotiX](https://osu.ppy.sh/users/4236576), ![][flag_HK] [Cindergoat](https://osu.ppy.sh/users/10168682), ![][flag_TH] [Deppyforce](https://osu.ppy.sh/users/5286213), ![][flag_BR] [DizzyH](https://osu.ppy.sh/users/9896172), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_BG] [Geromu Keretem](https://osu.ppy.sh/users/9404532), ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_US] [moss-](https://osu.ppy.sh/users/9918921), ![][flag_DE] [real cute](https://osu.ppy.sh/users/9172811), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_CA] [Senko-san](https://osu.ppy.sh/users/2065771), ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899), ![][flag_NL] [Stan](https://osu.ppy.sh/users/11212255) |
 | Commentator | ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_VN] [Yaezaki](https://osu.ppy.sh/users/11254509) |
-| Streamer | ![][flag_PL] [Borsuk664](https://osu.ppy.sh/users/3075673), ![][flag_HK] [Cindergoat](https://osu.ppy.sh/users/10168682), ![][flag_TH] [Deppyforce](https://osu.ppy.sh/users/5286213) |
+| Streamer | ![][flag_PL] [Borsuk664](https://osu.ppy.sh/users/3075673), ![][flag_HK] [Cindergoat](https://osu.ppy.sh/users/10168682), ![][flag_TH] [Deppyforce](https://osu.ppy.sh/users/5286213), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
 | Designer | ![][flag_US] [Celsea](https://osu.ppy.sh/users/7464885) |
-| Statistician | ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568) |
+| Statistician | ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_VN] [steve04](https://osu.ppy.sh/users/10852911), ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568) |
 | Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
@@ -179,6 +179,7 @@ The osu! TV Size Tournament 2020 is run by various community members.
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BG]: /wiki/shared/flag/BG.gif "Bulgaria"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
