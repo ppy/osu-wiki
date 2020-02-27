@@ -105,6 +105,24 @@ The osu! TV Size Tournament 2020 is run by various community members.
 
 ## Mappools
 
+### Qualifiers
+
+**[Download the mappack here! (36 MB)](https://drive.google.com/file/d/1YdFY-9jP9Iqntoim1sMKSr9j-ejpmFIb/view?usp=sharing)**
+
+- NoMod
+  - [Sound Souler - Aqua Stars (Azzedd) \[Extra\]](https://osu.ppy.sh/beatmapsets/942425#osu/1967947)
+  - [Shawn Wasabi + YDG - Burnt Rice (feat. YUNG GEMMY) (ScubDomino) \[den0saur's Another\]](https://osu.ppy.sh/beatmapsets/866401#osu/1836165)
+  - [Toby Fox - Rude Buster (Hobbes2) \[Extra\]](https://osu.ppy.sh/beatmapsets/881601#osu/1843231)
+- Hidden
+  - [MYTK - Yggdrasil (P o M u T a) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/137973#osu/344715)
+  - [Seiryu X Donald - Time to Donald (James) \[Another\]](https://osu.ppy.sh/beatmapsets/6950#osu/30613)
+- HardRock
+  - [HIMEHINA - Hitogata (TV Size) (Ryuusei Aika) \[Silky's Expert\]](https://osu.ppy.sh/beatmapsets/942714#osu/1978019)
+  - [ICE - Majestic Phoenix (Zetera) \[milr_'s Insane\]](https://osu.ppy.sh/beatmapsets/845094#osu/1774004)
+- DoubleTime
+  - [IOSYS - Cirno no Perfect Sansuu Kyoushitsu (alacat) \[Insane\]](https://osu.ppy.sh/beatmapsets/392215#osu/952069)
+  - [Primastella - Koigokoro (Luerxa) \[Delis' Insane\]](https://osu.ppy.sh/beatmapsets/127712#osu/323875)
+
 ## Ruleset
 
 ### General rules
