@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Mappers' Report: February"
-date: 2020-02-24 20:00:00 +0000
+date: 2020-02-28 08:00:00 +0000
 ---
 
 A new shiny news post was spotted at the horizon and coming to you now every month. It's **the Mappers' Report**! This news post series will inform you monthly about happenings within the osu! mapping scene.
@@ -10,7 +10,7 @@ A new shiny news post was spotted at the horizon and coming to you now every mon
 
 Some of you may remember the old [QAT Gazette](/wiki/Quality_Assurance_Team_Blog) articles. This will be something similar, yet different. The Mappers' Report news posts will keep you up to date with Ranking Criteria changes, NAT meetings, and team movements. Additionally, we will include mapping related wiki changes.
 
-We even have something new in the works! The "Mapper Showcase" will be a section where each month we write about one mapper who deserves more attention. A mapper can be featured because of some unique mapping style, amazing storyboards or even just outstanding hitsounding. And don't worry, the game mode will switch every month. No one will be left out!
+We even have something new in the works! The "Mapper Showcase" will be a section where each month we write about one mapper who deserves more attention. We'll be looking for mappers with unique mapping styles, amazing storyboarding, or even something like a particularly excellent bit of hitsounding. The game mode for the showcase will switch every month, so don't worry about being left out if you're a creator for another mode!
 
 With that being said, let's begin right away with the news!
 
@@ -24,7 +24,7 @@ This month's issue of the Mappers' Report contains following topics:
 
 ## <a id="rcchanges"></a>Ranking Criteria Changes
 
-A new month brings a new avalanche of updates to the Ranking Criteria (RC). These past two months were especially productive with the implementation of rules!
+A new month brings a new avalanche of updates to the Ranking Criteria (RC). These past two months were especially productive with the implementation of a few new rules:
 
 ### All modes
 
@@ -39,7 +39,7 @@ A description has been added to the rule "A beatmapset's custom difficulty namin
 
 ### osu!taiko
 
-- **Drum Sampleset**: A rule was removed which forbade the use of the drum sampleset. Previously, the game had no drum sample set support for osu!taiko, but this was fixed and samples added. Thus, the rule has been removed as the sampleset is now usable.
+- **Drum Sampleset**: A rule was removed which disallowed the use of the drum sampleset. Previously, the game had no drum sample set support for osu!taiko, but this has since been fixed and default samples added. Thus, the rule has been removed as the sampleset is now usable.
 
 ### osu!catch
 
@@ -59,26 +59,28 @@ The wording of the guideline that chords should be used sparingly got changed in
 
 The past 2 months have been filled with public meetings organized by the NAT, aimed at improving the ranking system based on community input. A wide range of topics such as BN/NAT activity requirements or transparency of the application process for both groups have been covered so far, and there is more to come! If you wish to participate in future meetings, join the [osu!dev discord server](https://discord.gg/ppy) and go through the verification process.
 
-Upcoming meetings will be announced with a specific time and agenda in the #modding channel of the osu!dev Discord server, as well as in an announcement post in the [Mapping Discussion](https://osu.ppy.sh/community/forums/56) forum. The next meeting is scheduled for 1st of March, but the topic and agenda are still being worked on and will be announced soon.
+Upcoming meetings will be announced with a specific time and agenda in the #modding channel of the osu!dev Discord server, as well as in an announcement post in the [Mapping Discussion](https://osu.ppy.sh/community/forums/56) forum. The next meeting is scheduled for 1st of March, but the topic and agenda are still being worked on and will be announced soon in the channel mentioned above.
 
 ### [Jan 3rd, 2020 - Promotion of NAT Members](https://osu.ppy.sh/community/forums/topics/1006119)
 
-The most important information which was discussed during this meeting was the addition of new NAT and its team size. The NAT wiki article has also been updated to include relevant information such as how the team size of the NAT depends on what is needed and in what work fields. If more help in one work field is required, a new NAT will be considered.
+The most important takeaway from this meeting was the discussion surrounding the addition of new NAT and its team size. The NAT wiki article has also been updated to include relevant information such as how the team size of the NAT depends on what is needed and in what work fields. If more help in one work field is required, a new NAT will be considered.
 
 ### [Jan 18th, 2020 - Application Evaluation](https://osu.ppy.sh/community/forums/topics/1012519)
 
-The BN application mod requirements have been made more clear, and the BN website also received several improvements, the biggest one being a "Would you nominate this map. If not, why?" checkbox on the application form. It vastly improves the fair evaluation system.
+The BN application modding requirements have been made more clear, and the BN website has also received several improvements, the biggest one being a "Would you nominate this map. If not, why?" checkbox on the application form. It vastly improves the fair evaluation system.
 
-Another important topic was the "taiko care package". As the name suggests, this was a system implemented in osu!taiko, where so far it has been successful! This program allowed old osu!taiko BNs which left on good terms to rejoin the Beatmap Nominators more easily. The results will be analyzed and we in the NAT hope to implement a similar system for all game modes later this year!
+Another topic of note was the delivery of a "taiko care package", a special policy allowance that allowed old osu!taiko BNs who left the team on good terms to rejoin much more easily. This was a trial run of sorts for implementing a similar system in other game modes, so if you're a previous contributor to the Beatmmap Nominators and are thinking of getting your feet wet again, keep your ears open for more details in the future!
 
 ### Feb 1st, 2020 - Progress Report
 
-This meeting has no summary because it was more of a progress report. It looked at the goals of the past meetings and if these were successfully implemented. Most of the goals were reached so the meeting wasn't very long.
-Another topic was how frequently meetings should be held and how this would work going forward. As long as there are topics which need discussion, the meetings will be held regularly. This should slow down in future, and when it does we will have more progress reports and fewer meetings.
+A brief progress report was held investigating the goals outlined in the previous meetings and if they were met. Most of them were, so the meeting did not last particularly long as things were largely on track.
+
+Some discussion was raised surrounding how often meetings should be held, and how this would work going forward. It was outlined that as long as there are topics in need of discussion, meetings will be held regularly in turn. We expect this to slow down in the future as longer-term goals are pursued and expect to swivel towards more progress reports versus broader meetings.
 
 ### [Feb 15th, 2020 - Current BN Evaluations](https://osu.ppy.sh/community/forums/topics/1023943)
 
 The first point the meeting discussed was the activity threshold which is required for a Beatmap Nominator every month. The conclusion from the meeting is that Beatmap Nominators for osu!, osu!taiko and osu!catch need at least 3 nominations per month on average, and osu!mania will need 2 nominations on average each month. The activity will be regularly checked every two months by the NAT. Another point of the discussion was how nomination resets will affect the evaluation of the Beatmap Nominators. Unranks will no longer weigh more than regular nomination resets.
+
 Last but not least, Beatmap Nominators will also be judged by the map quality of their nominations. This is to ensure a fair evaluation. Beatmap Nominators could have a high nomination count, but all maps could be of low quality. To ensure this does not happen the NAT will judge the quality of the nominations.
 
 ## <a id="withinbnnat"></a>Within the Beatmap Nominators and NAT
