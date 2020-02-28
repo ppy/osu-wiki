@@ -69,7 +69,7 @@ The most important takeaway from this meeting was the discussion surrounding the
 
 The BN application modding requirements have been made more clear, and the BN website has also received several improvements, the biggest one being a "Would you nominate this map. If not, why?" checkbox on the application form. It vastly improves the fair evaluation system.
 
-Another topic of note was the delivery of a "taiko care package", a special policy allowance that allowed old osu!taiko BNs who left the team on good terms to rejoin much more easily. This was a trial run of sorts for implementing a similar system in other game modes, so if you're a previous contributor to the Beatmmap Nominators and are thinking of getting your feet wet again, keep your ears open for more details in the future!
+Another topic of note was the delivery of a "taiko care package", a special policy allowance that allowed old osu!taiko BNs who left the team on good terms to rejoin much more easily. This was a trial run of sorts for implementing a similar system in other game modes, so if you're a previous contributor to the Beatmap Nominators and are thinking of getting your feet wet again, keep your ears open for more details in the future!
 
 ### Feb 1st, 2020 - Progress Report
 
