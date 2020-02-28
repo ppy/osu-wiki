@@ -1,6 +1,6 @@
 # Changer l'artiste ou le titre d'une beatmap
 
-[*Full Submission with Title/Artist Change -- Mistakes* par NoHitter (amélioré par peppy)](https://osu.ppy.sh/community/forums/topics/24443)
+*[Full Submission with Title/Artist Change -- Mistakes par NoHitter (amélioré par peppy)](https://osu.ppy.sh/community/forums/topics/24443)*
 
 Quand vous changez le **titre ou l'artiste** d'une beatmap, un problème peut survenir, qui rendra la publication de cette dernière impossible sans la dupliquer.
 
