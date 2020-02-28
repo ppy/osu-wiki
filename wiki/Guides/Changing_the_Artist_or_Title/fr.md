@@ -4,7 +4,7 @@
 
 Quand vous changez le **titre ou l'artiste** d'une beatmap, un problème peut survenir, qui rendra la publication de cette dernière impossible sans la dupliquer.
 
-**NE PUBLIEZ PAS SI LE MENU "WEB" DE L'EDITEUR EST DESACTIVE, CAR VOTRE BEATMAP SERAIT DUPLIQUEE.**
+**Ne publiez pas si le menu "Web" de l'editeur est desactive, car votre beatmap serait dupliquee.**
 
 Pour résoudre ce problème de duplication, suivez les étapes suivantes:
 
