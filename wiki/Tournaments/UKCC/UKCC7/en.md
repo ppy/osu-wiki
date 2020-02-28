@@ -7,22 +7,9 @@ tags:
 
 # UK Community Cup 7
 
-![UKCC 7 Logo](img/banner.png)
+![UKCC 7 logo](img/banner.png)
 
-The 7th edition of the bi-annual UK Community Cup, a tournament for those who live or are from the UK or Ireland. This edition was a 1v1 and finished on the 27th October 2019.
-
-# Contents
-
-[Introduction](#introduction)  
-[Links](#links)  
-[Rules](#rules)  
-[Schedule](#tournament-schedule)  
-[Prizes](#prizes)  
-[Organisation](#organisation)  
-[Players](#players)  
-[Results](#results)  
-[Map pools](#map-pools)  
-[Schedules / Match Results](#Schedules-/-Match-Results)
+The seventh edition of the bi-annual UK Community Cup, a tournament for those who live or are from the UK or Ireland. This edition was a 1v1 and finished on the 27th October 2019.
 
 ---
 
@@ -33,9 +20,9 @@ The 7th edition of the bi-annual UK Community Cup, a tournament for those who li
 - This is a **1v1, UK and Ireland based tournament**
 - In the event there is 128 signups, those with the lowest global rank will be unable to participate (unless we expand the tournament)
 - The structure of the tournament will be:
-    - Two qualifications rounds - 32 players progress
-    - Group Stage - 16 players progress
-    - Double Elimination Bracket
+	- Two qualifications rounds - 32 players progress
+	- Group Stage - 16 players progress
+	- Double Elimination Bracket
 - To be able to participate, players must have an **UK or Irish flag or be able to provide proof of residency to the hosts.**
 - Matches will be **Head to Head** and **Score V2**
 - Ranks and Qualifications placements are used to calculate seeding. Once the tournament starts, your rank is locked and will not affect your seed.
@@ -58,12 +45,12 @@ The 7th edition of the bi-annual UK Community Cup, a tournament for those who li
 
 ![Links](img/links.png)
 
-- [Forum Post](https://osu.ppy.sh/community/forums/topics/940042)
-- [Discord](https://discord.gg/jYhjTtj)
-- [Spreadsheet (Map pools, Schedules, Stats)](https://docs.google.com/spreadsheets/d/1ubY1Oci0HaH-rny6IKbqlRszPzquwSm9n4fwwnqn5yA/edit?usp=sharing)
-- [Twitch](https://twitch.tv/osuukcc)
-- [Bracket (Challonge)](https://challonge.com/ukcc7)
-- [Pick'em](https://pickem.hwchr.com/tournaments/15)
+- [Discussion Thread](https://osu.ppy.sh/community/forums/topics/940042)
+- [UKCC Discord server](https://discord.gg/jYhjTtj)
+- [Livestream](https://twitch.tv/osuukcc)
+- [Challonge bracket](https://challonge.com/ukcc7)
+- [Pick'em predictions website](https://pickem.hwchr.com/tournaments/15)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1ubY1Oci0HaH-rny6IKbqlRszPzquwSm9n4fwwnqn5yA/edit?usp=sharing)**
 
 ## Rules
 
@@ -75,6 +62,7 @@ The 7th edition of the bi-annual UK Community Cup, a tournament for those who li
 - The referee cannot play during the match.
 
 ### __**NEW**: Qualifying Rounds__
+
 - The first two rounds will be qualifying rounds, where each player will play a total of 7 maps
 - There will be 4 No Mod, 1 Hidden, 1 Hardrock and 1 Double Time map in each round
 - Your scores on each map will be added together giving you a total score
@@ -83,19 +71,26 @@ The 7th edition of the bi-annual UK Community Cup, a tournament for those who li
 - Seeding for groups will be determined from your seed based on your osu! rank (as of signup close) and your overall position in the RO64 qualifer, eg 3rd seed + 15th in qualifier = 18 points
 
 ### Rolling
+
 - When both players are in the lobby and ready, the referee will ask the players to !roll. The order of picks of bans is decided using the [UKCC Roll System](https://i.imgur.com/S0VIvni.png).
+
 ### Banning
+
 - From the Group Stage onwards players will have **TWO** bans.
 - Players have **2 minutes** to ban a map. Failure to ban a map within this time limit results in a lost ban.
+
 ### Warmups
+
 - There will be no warmups in Qualification rounds. After this, warmup maps must be a submitted beatmap, and have a drain time of 4 minutes or less
+
 ### Picking
+
 - Players have **2 minutes** to pick a map. Failure to pick a map within this time limit results in pick choice being passed to the opposing player.
 - For Freemod picks, players must select any combination of the following mods: **Hidden, HardRock**
 - **NEW** - Failed scores WILL count
 - Tiebreakers are Freemod, however No Mod can be used.
 
-## Tournament Schedule
+## Tournament schedule
 
 ![Schedules](img/schedules.png)
 
@@ -112,8 +107,6 @@ The 7th edition of the bi-annual UK Community Cup, a tournament for those who li
 | Winners Finals + Losers 6/Semi Final | 2019-10-19/2019-10-20 |
 | Losers Final + GRAND Finals | 2019-10-26/2019-10-27 |
 
-
-
 ## Prizes
 
 ![Prizes](img/prizes.png)
@@ -127,7 +120,6 @@ The 7th edition of the bi-annual UK Community Cup, a tournament for those who li
 ### Badge
 ![UKCC 7 Winner](img/badge.png)
 
-
 ## Organisation
 
 ![Staff List](img/staff.png)
@@ -136,19 +128,16 @@ UK is run by many wonderful people, this list doesn't fully represent how many a
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host(s) | ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
-| Referees | ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_DE] [Bakugo-](https://osu.ppy.sh/users/4990127), ![][flag_GB] [Domblade](https://osu.ppy.sh/users/6701945), ![][flag_BE] [DraQeu](https://osu.ppy.sh/users/4425520), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264) |
-| Commentators | ![][flag_GB] [sut_son](https://osu.ppy.sh/users/9622163), ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [_Takara](https://osu.ppy.sh/users/11599184), ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761), ![][flag_GB] [xFluffyo](https://osu.ppy.sh/users/8397226), ![][flag_GB] [Doomsday is bad](https://osu.ppy.sh/users/3481378), ![][flag_GB] [Daiyaa](https://osu.ppy.sh/users/929134), + a lot of the UK community |
-| Streamers | ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_GB] [_Takara](https://osu.ppy.sh/users/11599184), ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761), ![][flag_GB] [xFluffyo](https://osu.ppy.sh/users/8397226), ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850) |
-| Mappoolers | ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_US] [\_p0ke\_](https://osu.ppy.sh/users/929134) |
-| Statistics | ![][flag_NO] [Yokespai](https://osu.ppy.sh/users/6399568) |
+| Host | ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
+| Referee | ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_DE] [Bakugo-](https://osu.ppy.sh/users/4990127), ![][flag_GB] [Domblade](https://osu.ppy.sh/users/6701945), ![][flag_BE] [DraQeu](https://osu.ppy.sh/users/4425520), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264) |
+| Commentator | ![][flag_GB] [sut_son](https://osu.ppy.sh/users/9622163), ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_GB] [_Takara](https://osu.ppy.sh/users/11599184), ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761), ![][flag_GB] [xFluffyo](https://osu.ppy.sh/users/8397226), ![][flag_GB] [Doomsday is bad](https://osu.ppy.sh/users/3481378), ![][flag_GB] [Daiyaa](https://osu.ppy.sh/users/929134), + a lot of the UK community |
+| Streamer | ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_GB] [_Takara](https://osu.ppy.sh/users/11599184), ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761), ![][flag_GB] [xFluffyo](https://osu.ppy.sh/users/8397226), ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850) |
+| Mappooler | ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_US] [\_p0ke\_](https://osu.ppy.sh/users/929134) |
+| Statistician | ![][flag_NO] [Yokespai](https://osu.ppy.sh/users/6399568) |
 | Graphics | ![][flag_GB] [Melonturtle](https://osu.ppy.sh/users/4775283), ![][flag_GB] [Listie](https://osu.ppy.sh/users/4121535) |
 
-
-
-
-
 ## Players
+
 | Seed | Players |
 | :-- | :-- |
 | 1-16 | ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808), ![][flag_GB] [Spare](https://osu.ppy.sh/users/2204373), ![][flag_GB] [MoeYandere](https://osu.ppy.sh/users/2565902), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_GB] [bloo](https://osu.ppy.sh/users/6778877), ![][flag_GB] [Ventus](https://osu.ppy.sh/users/1986262), ![][flag_GB] [Voss](https://osu.ppy.sh/users/7657761), ![][flag_GB] [Woffel](https://osu.ppy.sh/users/3915122), ![][flag_GB] [Wario](https://osu.ppy.sh/users/4361729), ![][flag_GB] [Apo11o](https://osu.ppy.sh/users/9558549), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [majoreh](https://osu.ppy.sh/users/7959222), ![][flag_GB] [Harpy](https://osu.ppy.sh/users/6761714), ![][flag_GB] [hlo](https://osu.ppy.sh/users/2232928), ![][flag_GB] [helix](https://osu.ppy.sh/users/3322597), ![][flag_GB] [Summer Solstice](https://osu.ppy.sh/users/3233710) |
@@ -158,16 +147,18 @@ UK is run by many wonderful people, this list doesn't fully represent how many a
 | 65-80 | ![][flag_GB] [Raiii](https://osu.ppy.sh/users/10300454), ![][flag_GB] [Venoxia](https://osu.ppy.sh/users/7333471), ![][flag_GB] [This Acc Sucks](https://osu.ppy.sh/users/7299249), ![][flag_IE] [iNomaj](https://osu.ppy.sh/users/11042987), ![][flag_GB] [Gazza](https://osu.ppy.sh/users/3648459), ![][flag_GB] [DanZqa](https://osu.ppy.sh/users/4572097), ![][flag_GB] [Coodywoo](https://osu.ppy.sh/users/6145623), ![][flag_GB] [HonourBound](https://osu.ppy.sh/users/2945999), ![][flag_GB] [Axyom](https://osu.ppy.sh/users/10510045), ![][flag_GB] [Daiyaa](https://osu.ppy.sh/users/929134), ![][flag_GB] [4Circ](https://osu.ppy.sh/users/2161823), ![][flag_IE] [teetoew](https://osu.ppy.sh/users/3805082), ![][flag_GB] [Pelzio](https://osu.ppy.sh/users/4775226), ![][flag_IE] [KaiWhen](https://osu.ppy.sh/users/10040214), ![][flag_US] [Kirix](https://osu.ppy.sh/users/2480224), ![][flag_IE] [Nivlac-](https://osu.ppy.sh/users/8978983) |
 | 81-96 | ![][flag_GB] [_Snowy](https://osu.ppy.sh/users/10710046), ![][flag_GB] [Tesco Meal Deal](https://osu.ppy.sh/users/6471972), ![][flag_GB] [DeltaZero](https://osu.ppy.sh/users/6472042), ![][flag_GB] [JO3-M4K](https://osu.ppy.sh/users/7659789), ![][flag_GB] [Felicia](https://osu.ppy.sh/users/6177798), ![][flag_GB] [SS_Eclipse](https://osu.ppy.sh/users/9468006), ![][flag_GB] [Sith](https://osu.ppy.sh/users/8112797), ![][flag_GB] [JackRB](https://osu.ppy.sh/users/10007343), ![][flag_GB] [lokkut](https://osu.ppy.sh/users/4776591), ![][flag_GB] [Asda Meal Deal](https://osu.ppy.sh/users/6749950), ![][flag_GB] [PsychoStatic](https://osu.ppy.sh/users/7291594), ![][flag_GB] [smh my head](https://osu.ppy.sh/users/12203874), ![][flag_GB] [Phymiath](https://osu.ppy.sh/users/9106403), ![][flag_GB] [Elit3](https://osu.ppy.sh/users/10086758), ![][flag_GB] [Blukey](https://osu.ppy.sh/users/7813034), ![][flag_GB] [GongoTheGecko](https://osu.ppy.sh/users/9227012) |
 | 97-111 | ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147), ![][flag_GB] [DrexiN](https://osu.ppy.sh/users/5363646), ![][flag_GB] [cfman29](https://osu.ppy.sh/users/9023597), ![][flag_GB] [God](https://osu.ppy.sh/users/10502908), ![][flag_GB] [Mantle](https://osu.ppy.sh/users/7225966), ![][flag_GB] [aroS](https://osu.ppy.sh/users/7193474), ![][flag_IE] [Neverslain](https://osu.ppy.sh/users/10644912), ![][flag_IE] [kaniciwah](https://osu.ppy.sh/users/9371954), ![][flag_GB] [josph12](https://osu.ppy.sh/users/8584840), ![][flag_GB] [mamoopy](https://osu.ppy.sh/users/9384951), ![][flag_GB] [fadentic](https://osu.ppy.sh/users/13453905), ![][flag_GB] [Metzo](https://osu.ppy.sh/users/10633982), ![][flag_GB] [Bowris](https://osu.ppy.sh/users/8562850), ![][flag_GB] [_Phazy](https://osu.ppy.sh/users/3956707), ![][flag_IE] [Broznix](https://osu.ppy.sh/users/13909259) |
+
 ---
+
 ## RESULTS
 
 UKCC 7 concluded on the 27th October 2019.
 
-| Placing | Player|
+| Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "Winner") | [Bubbleman](https://osu.ppy.sh/users/5182050) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "Second place") | [Spare](https://osu.ppy.sh/users/2204373) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "Third place") | [AJT](https://osu.ppy.sh/users/3181083) |
+| ![Gold crown](/wiki/shared/crown-gold.png "Winner") | [Bubbleman](https://osu.ppy.sh/users/5182050) |
+| ![Silver crown](/wiki/shared/crown-silver.png "Second place") | [Spare](https://osu.ppy.sh/users/2204373) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "Third place") | [AJT](https://osu.ppy.sh/users/3181083) |
 
 ---
 
@@ -187,7 +178,7 @@ UKCC 7 concluded on the 27th October 2019.
     - [rerulili - Noushou Sakuretsu Girl [sanji no oyatsu wa makaron tabemasu]](https://osu.ppy.sh/b/911946)
     - [lapix - Amazing Mirage (Extended) [Fata Morgana]](https://osu.ppy.sh/b/1232752)
     - [Umeboshi Chazuke - Bison Charge [Flask's Extreme]](https://osu.ppy.sh/b/1900116)
-    - [sakuzyo - AXION [AXION_REBORN]](https://osu.ppy.sh/b/324516)
+    - [sakuzyo - AXION [AXION\_REBORN]](https://osu.ppy.sh/b/324516)
 - Hidden
     - [xi - FREEDOM DiVE [Another]](https://osu.ppy.sh/b/126645)
     - [Yunomi & nicamoq - Indoor Kei Nara Trackmaker [Another]](https://osu.ppy.sh/b/1115999)
@@ -213,12 +204,12 @@ UKCC 7 concluded on the 27th October 2019.
 **[Download the map pack here! (165.6MB)](https://mega.nz/#!7ux0kKbD!aBqtZjDCQnxb4nvianpVv_2eOUl4aEeMa6TmZH-w5so)**
 
 - Nomod
-    - [*namirin - Amatsu Kitsune [Extra]](https://osu.ppy.sh/b/881313)
+    - [\*namirin - Amatsu Kitsune [Extra]](https://osu.ppy.sh/b/881313)
     - [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- [Theaceae's Another]](https://osu.ppy.sh/b/1628965)
     - [siromaru + cranky - conflict [Encounter]](https://osu.ppy.sh/b/1955676)
     - [t+pazolite - Call me it. (500 Tortures) [Extra]](https://osu.ppy.sh/b/655682)
     - [Camellia - Chirality [fanzhen's Extra]](https://osu.ppy.sh/b/1464581)
-    - [Pastel*Palettes - Happy Synthesizer [Shizuku's Expert]](https://osu.ppy.sh/b/1989990)
+    - [Pastel\*Palettes - Happy Synthesizer [Shizuku's Expert]](https://osu.ppy.sh/b/1989990)
 - Hidden
     - [In Flames - Take This Life [kiry's Extra]](https://osu.ppy.sh/b/1569878)
     - [Tachibana Miya - Miya to Tengoku to Jigoku [Hentai]](https://osu.ppy.sh/b/62269)
@@ -235,9 +226,9 @@ UKCC 7 concluded on the 27th October 2019.
 - Free Mod
     - [Byakko - Kachou Fuusetsu [MasterPeeysa]](https://osu.ppy.sh/b/453790)
     - [Denkishiki Karen Ongaku Shuudan - Owari Tsumugishi Mono [Lasse's Extra]](https://osu.ppy.sh/b/1711326)
-    - [Kucchy vs Akky - Satori ~3rd eyes~ [Lunatic]](https://osu.ppy.sh/b/50892)
+    - [Kucchy vs Akky - Satori \~3rd eyes\~ [Lunatic]](https://osu.ppy.sh/b/50892)
 - Tiebreaker
-    - [Demetori - Eastern Dream ~ The Introduction / Kamisabita Kosenjou ~ Suwa Foughten Field [Stage 6]](https://osu.ppy.sh/b/1362265)
+    - [Demetori - Eastern Dream ~ The Introduction / Kamisabita Kosenjou \~ Suwa Foughten Field [Stage 6]](https://osu.ppy.sh/b/1362265)
 
 ### Semi Final + Losers Round 4/5
 
@@ -256,7 +247,7 @@ UKCC 7 concluded on the 27th October 2019.
     - [Asaka - Open your eyes [World: :Synchronization]](https://osu.ppy.sh/b/1871739)
 - Hard Rock
     - [Maksim Mrvica - Croatian Rhapsody [Presto]](https://osu.ppy.sh/b/1778453)
-    - [Ryu* - Sakura Reflection (MYTK Remix) [Another]](https://osu.ppy.sh/b/650610)
+    - [Ryu\* - Sakura Reflection (MYTK Remix) [Another]](https://osu.ppy.sh/b/650610)
     - [Azel - -Astraia- [Extra]](https://osu.ppy.sh/b/706743)
 - Double Time
     - [TRUE - DREAM SOLISTER [Insane]](https://osu.ppy.sh/b/2026140)
@@ -276,7 +267,7 @@ UKCC 7 concluded on the 27th October 2019.
 
 - Nomod
     - [Suzumu - Kakumeisei ousama densenbyou [Extra]](https://osu.ppy.sh/b/688304)
-    - [Prim - Koisuru*Uchuu Sensou!! [Another]](https://osu.ppy.sh/b/231964)
+    - [Prim - Koisuru\*Uchuu Sensou!! [Another]](https://osu.ppy.sh/b/231964)
     - [flumpool - Yoru wa Nemureru kai? [Insomnia]](https://osu.ppy.sh/b/1557509)
     - [Camellia - crystallized [Ca2Al3(SiO4)3(OH)]](https://osu.ppy.sh/b/867819)
     - [Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyoukotsu ni Itaru [Extra Collab]](https://osu.ppy.sh/b/2040764)
@@ -284,7 +275,7 @@ UKCC 7 concluded on the 27th October 2019.
 - Hidden
     - [Hiroyuki Sawano feat. Mika Kobayashi - Bios [LKs' Another]](https://osu.ppy.sh/b/137766)
     - [DIGI-SEQ-BAND2000 - Somehow You Found Me [Expert]](https://osu.ppy.sh/b/44692)
-    - [Ryu* vs. Sota - Go Beyond!! [Nuvolina's Expert!!]](https://osu.ppy.sh/b/2023961)
+    - [Ryu\* vs. Sota - Go Beyond!! [Nuvolina's Expert!!]](https://osu.ppy.sh/b/2023961)
 - Hard Rock
     - [Helblinde - Putin's Boner [Extra]](https://osu.ppy.sh/b/708367)
     - [Kakumi Nishigomi - Hyakka Ryouran [Hana]](https://osu.ppy.sh/b/271616)
@@ -328,7 +319,7 @@ UKCC 7 concluded on the 27th October 2019.
     - [Airi Totoki, Akane Hino, Aiko Takamori, Syoko Hoshi, Yuko Hori - Zettai Tokken Shuchou Shimasu! [MASTER]](https://osu.ppy.sh/b/1559184)
     - [Rigel Theatre - Rinn Ding Dong [moph's Big Dong Extra]](https://osu.ppy.sh/b/1724396)
 - Tiebreaker
-    - [Demetori - Youyoumu ~ The Woman Who Sold the Moon [Phantasm]](https://osu.ppy.sh/b/1562486)
+    - [Demetori - Youyoumu \~ The Woman Who Sold the Moon [Phantasm]](https://osu.ppy.sh/b/1562486)
 
 ### RO32
 
@@ -343,14 +334,14 @@ UKCC 7 concluded on the 27th October 2019.
     - [Meg & Dia - Monster (DotEXE Remix) [Xtra]](https://osu.ppy.sh/b/436825)
 - Hidden
     - [Kuroneko Dungeon - Lilieze to Enryuu Laevateinn [Another†leggendaria]](https://osu.ppy.sh/b/725139)
-    - [ZUN - The Youkai Mountain ~ Mysterious Mountain [Lunatic]](https://osu.ppy.sh/b/76917)
-    - [Another Infinity feat. Mayumi Morinaga - COME BACK TO MY HEART (Ryu* Remix) [Extreme]](https://osu.ppy.sh/b/186599)
+    - [ZUN - The Youkai Mountain \~ Mysterious Mountain [Lunatic]](https://osu.ppy.sh/b/76917)
+    - [Another Infinity feat. Mayumi Morinaga - COME BACK TO MY HEART (Ryu\* Remix) [Extreme]](https://osu.ppy.sh/b/186599)
 - Hard Rock
     - [Breaking Benjamin - The Diary of Jane [Extreme]](https://osu.ppy.sh/b/1001921)
     - [Eagle - S!ck [Extra]](https://osu.ppy.sh/b/341285)
     - [An - Encryption [Kloyd's Extra]](https://osu.ppy.sh/b/258384)
 - Double Time
-    - [Nanamori-chu * Goraku-bu - Precious Friends [Insane]](https://osu.ppy.sh/b/420131)
+    - [Nanamori-chu \* Goraku-bu - Precious Friends [Insane]](https://osu.ppy.sh/b/420131)
     - [Chata - Present [Insane]](https://osu.ppy.sh/b/1761649)
     - [Mago de Oz - Xanandra [Sieg's Hard]](https://osu.ppy.sh/b/249032)
 - Free Mod
