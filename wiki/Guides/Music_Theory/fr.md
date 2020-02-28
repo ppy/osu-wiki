@@ -1,6 +1,6 @@
 # Théorie de la musique
 
-[Le guide original par ziin](https://osu.ppy.sh/forum/viewtopic.php?f=56&t=58959)
+*[Le guide original par ziin](https://osu.ppy.sh/community/forums/topics/58959)*
 
 Osu! est un jeu de rythme, les beatmaps sont donc normalement créées pour s'adapter à la musique plutôt qu'au BPM. Dans cette courte rédaction je discuterais de la théorie de la musique et comment elle s'applique à une beatmap osu!, ainsi que d'expliquer pourquoi certaines choses sonnent mal (du moins pour moi). En aucun cas, les sujets abordés ne peuvent être considérés comme des «lignes directrices». Pensez que c'est une théorie à la place.  La plupart du temps, ils s'appliquent à certaines parties des chansons, mais il existe de nombreuses exceptions. Tout ce que je dirais ici est une opinion personnelle basée sur mes 12 ans d'expérience dans un orchestre harmonique ou pris directement de Wikipedia. On ne peut pas l’appliquer à toutes les formes de musique, en particulier celles d’avant-garde et la plupart des musiques de Touhou (donc, la moitié des musiques d'osu ?).
 
@@ -10,17 +10,15 @@ Osu! est un jeu de rythme, les beatmaps sont donc normalement créées pour s'ad
 
 ### Temps forts
 
--   Venant de Wikipedia :
-    -   Le temps fort est l'impulsion qui se produit au début d'une mesure dans la musique mesurée. Son nom vient du coup de bâton du chef d'orchestre dirigé vers le bas sur le premier temps de chaque mesure. Il porte souvent l'accent le plus fort du cycle rythmique.
+Le temps fort est l'impulsion qui se produit au début d'une mesure dans la musique mesurée. Son nom vient du coup de bâton du chef d'orchestre dirigé vers le bas sur le premier temps de chaque mesure. Il porte souvent l'accent le plus fort du cycle rythmique.
 
 ### Temps faibles
 
--   Venant de Wikipedia :
-    -   Les temps faible sont généralement les temps pairs. Par exemple dans une mesure à 4/4, ce sont les temps 2 et 4… Dans la musique populaire d'aujourd'hui, la caisse claire est généralement utilisée sur les temps faibles. C'est pourquoi mettre des applaudissements sur les temps 2 et 4 *semble bien*. Certaines chansons rallongent même le deuxième temps d'un demi-temps (ce qui donne les temps 2 et 3,5).
+Les temps faible sont généralement les temps pairs. Par exemple dans une mesure à 4/4, ce sont les temps 2 et 4… Dans la musique populaire d'aujourd'hui, la caisse claire est généralement utilisée sur les temps faibles. C'est pourquoi mettre des applaudissements sur les temps 2 et 4 *semble bien*. Certaines chansons rallongent même le deuxième temps d'un demi-temps (ce qui donne les temps 2 et 3,5).
 
 ### Sauter un temps
 
--   C'est là que le temps fort (généralement) est omis. Sauter un temps dans une chanson rapide peut faire monter la tension. Souvent, seul un instrument particulier perd le rythme, alors que les autres jouent normalement. Abandonner le rythme peut être un moyen intéressant de construire un rythme, mais il ne faut pas en abuser. Une autre façon de simuler cela consiste à utiliser des sliders décalés.
+C'est là que le temps fort (généralement) est omis. Sauter un temps dans une chanson rapide peut faire monter la tension. Souvent, seul un instrument particulier perd le rythme, alors que les autres jouent normalement. Abandonner le rythme peut être un moyen intéressant de construire un rythme, mais il ne faut pas en abuser. Une autre façon de simuler cela consiste à utiliser des sliders décalés.
 
 ## Partie 2: Sliders
 
@@ -76,13 +74,13 @@ Les chansons qui utilisent uniquement des sliders de temps forts sont vouées à
 
 Pour moi, l'[overmapping](/wiki/Glossary) est le fait de placer une note ou la fin d'un slider où une note n'existe pas dans le fond. Il y a plusieurs raisons d'overmapper :
 
--   Le rythme est trop difficile à jouer normalement/être fun.
-    -   Cela arrive souvent avec des chansons qui utilisent des triolets dans une partie en 1/6, et le mappeur le simplifie en 1/4.
--   La musique de fond accélère ou ralentit et s'éloigne trop de ce qu’elle devrait être.
-    -   Cela ne se produit généralement pas et vous ne devez généralement pas mapper des parties non capturées correctement.
--   La chanson swing, mais le mappeur déteste 1/6.
-    -   Je ne considère pas cela comme une excuse valable et votera 1 automatiquement.
--   La chanson est ennuyeuse et a besoin de rythmes inventés pour rester intéressante.
+- Le rythme est trop difficile à jouer normalement/être fun.
+  - Cela arrive souvent avec des chansons qui utilisent des triolets dans une partie en 1/6, et le mappeur le simplifie en 1/4.
+- La musique de fond accélère ou ralentit et s'éloigne trop de ce qu’elle devrait être.
+  - Cela ne se produit généralement pas et vous ne devez généralement pas mapper des parties non capturées correctement.
+- La chanson swing, mais le mappeur déteste 1/6.
+  - Je ne considère pas cela comme une excuse valable et votera 1 automatiquement.
+- La chanson est ennuyeuse et a besoin de rythmes inventés pour rester intéressante.
 
 Si vous vous reconnaissez dans un des points ci-dessus, alors vous mappez probablement mal.
 
