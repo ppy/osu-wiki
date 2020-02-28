@@ -64,5 +64,5 @@ Les trois échantillons suivants sont additifs, ce qui signifie que lorsque vous
 
 Voir aussi :
 
-- [Custom Hitsound Library](../Custom_Hitsound_Library)
+- [Custom Hitsound Library](/wiki/Guides/Custom_Hitsound_Library)
 - [Skinning/Sounds](/wiki/Skinning/Sounds/)

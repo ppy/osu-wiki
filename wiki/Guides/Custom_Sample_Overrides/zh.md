@@ -4,38 +4,38 @@
 
 ## Normal音效(loud):
 
--   normal-hitnormal
--   normal-hitwhistle
--   normal-hitfinish
--   normal-hitclap
--   normal-hitnormal2
--   normal-hitwhistle2
--   normal-hitfinish2
--   normal-hitclap2
+- normal-hitnormal
+- normal-hitwhistle
+- normal-hitfinish
+- normal-hitclap
+- normal-hitnormal2
+- normal-hitwhistle2
+- normal-hitfinish2
+- normal-hitclap2
 
 上面的音效一般都是附加在一起的,如果你在谱面中设定了一个note为whistle音效，你将会听到hitnormal + hitwhistle的组合音效
 
--   normal-sliderslide (loops)
--   normal-sliderwhistle (loops)
--   normal-slidertick
+- normal-sliderslide (loops)
+- normal-sliderwhistle (loops)
+- normal-slidertick
 
 ## Soft音效:
 
--   soft-hitnormal
--   soft-hitwhistle
--   soft-hitfinish
--   soft-hitclap
+- soft-hitnormal
+- soft-hitwhistle
+- soft-hitfinish
+- soft-hitclap
 
 上面的音效一般都是附加在一起的,如果你在谱面中设定了一个note为whistle音效，你将会听到hitnormal + hitwhistle的组合音效
 
--   soft-sliderslide (loops)
--   soft-sliderwhistle (loops)
--   soft-slidertick
+- soft-sliderslide (loops)
+- soft-sliderwhistle (loops)
+- soft-slidertick
 
 ## 通用的音效
 
--   spinnerspin (这个音效的频率是逐渐增加的. 它从〜500赫兹到80000赫兹递增，其中原始样本率为44100Hz)
--   spinnerbonus (ding)
+- spinnerspin (这个音效的频率是逐渐增加的. 它从〜500赫兹到80000赫兹递增，其中原始样本率为44100Hz)
+- spinnerbonus (ding)
 
 ## 音效的格式
 
