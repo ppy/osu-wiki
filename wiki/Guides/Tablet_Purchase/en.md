@@ -34,9 +34,9 @@ The HUION H430P (4096) is similar to the osu!tablet (in fact, it is marketed tow
 
 Wacom is the "brand name" of tablets. Tablets are all they make and they're widely accepted (by artists) as producing the best quality, most reliable tablets. Some would recommend buying from Wacom because of their reputation as producing high-quality products as a leader in the tablet world. They produce three main lines:
 
--   Cintiq - "Draw directly on the screen" tablets, these are used in very high-end professional applications, and cost a pretty penny.
--   Intuos - The Professional line of tablets, these have features above and beyond the Bamboo line, but lack a screen.
--   Bamboo - The general consumer line of tablets, these come cheap with all the features you need to get started as a hobbyist.
+- Cintiq - "Draw directly on the screen" tablets, these are used in very high-end professional applications, and cost a pretty penny.
+- Intuos - The Professional line of tablets, these have features above and beyond the Bamboo line, but lack a screen.
+- Bamboo - The general consumer line of tablets, these come cheap with all the features you need to get started as a hobbyist.
 
 There are other lines from Wacom, such as the Graphire or Volito tablets, but these names have been discontinued, replaced by the above lines.
 
@@ -50,7 +50,7 @@ At the time of writing there are three versions of the Bamboo, all confusingly u
 
 ![](https://puu.sh/dlQi "Third generation Bamboo (Connect, Capture, Create - Connect shown)")
 
-You'll want to stay away from either of the Bamboo Touch tablets, they do not feature pen input, they're just multitouch trackpads for your computer. Frankly, [Apple did it better](http://www.apple.com/magictrackpad/).
+You'll want to stay away from either of the Bamboo Touch tablets, they do not feature pen input, they're just multitouch trackpads for your computer. Frankly, [Apple did it better](https://apple.com/magictrackpad).
 
 The other Bamboo models come in two sizes, basically small and large. For the second generation, Bamboo Touch, Pen, and Pen and Touch were the "small" ones, whereas the Fun and Craft were the "large" ones. For the third generation, the Connect and Capture are the "small", whereas the Create is the "large".
 
@@ -64,10 +64,10 @@ In short, Wacom is the recommended brand from most serious osu! players. Cintiq 
 
 Here are some links to purchase the latest models.
 
-- [Amazon - Wacom Bamboo Splash Pen Tablet (CTL471)](http://a.co/fCXqteP)
-- [Amazon - Wacom Bamboo Capture Pen and Touch Tablet (CTH470)](http://a.co/b4GpKXt)
-- [Huion - HUION H430P (4096)](https://www.huiontablet.com/all-products/graphic-tablets/huion-h430p-4096.html)
-  - [Amazon - Huion Inspiroy H430P Graphics Drawing Tablet for OSU](http://a.co/6uDGhXL)
+- [Amazon - Wacom Bamboo Splash Pen Tablet (CTL471)](https://a.co/fCXqteP)
+- [Amazon - Wacom Bamboo Capture Pen and Touch Tablet (CTH470)](https://a.co/b4GpKXt)
+- [Huion - HUION H430P (4096)](https://huiontablet.com/all-products/graphic-tablets/huion-h430p-4096.html)
+  - [Amazon - Huion Inspiroy H430P Graphics Drawing Tablet for OSU](https://a.co/6uDGhXL)
 
 ## Conclusion
 
