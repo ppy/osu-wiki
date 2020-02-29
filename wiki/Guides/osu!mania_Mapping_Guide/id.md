@@ -4,7 +4,7 @@
 
 ### Apa itu Mania?
 
-Jadi apa sebenarnya Mania? Banyak dari Anda Osu! veteran di luar sana yang mungkin sudah tahu apa itu Mania. Osu!mania adalah salah satu dari 4 mode permainan osu!. Banyak orang yang pertama kali melihat o!m berpikir "Oh keren! Guitar Hero!". Dan memang, osu!mania sangat mirip dengan Guitar Hero. Kedua game ini disebut-"VSRGs", atau '' 'Vertical Scrolling Rhythm Game' ''. Yang berarti seperti namanya, bahwa note musik yang melaju ke atas maupun ke bawah secara vertikal. Ada banyak permainan yang mirip dengan o!m seperti "Stepmania", "O2Jam" atau "Beatmania IIDX". Tapi untuk saat ini, kami akan berkonsentrasi hanya pada osu!mania!
+Jadi apa sebenarnya Mania? Banyak dari Anda Osu! veteran di luar sana yang mungkin sudah tahu apa itu Mania. Osu!mania adalah salah satu dari 4 mode permainan osu!. Banyak orang yang pertama kali melihat o!m berpikir "Oh keren! Guitar Hero!". Dan memang, osu!mania sangat mirip dengan Guitar Hero. Kedua game ini disebut-"VSRGs", atau **Vertical Scrolling Rhythm Game**. Yang berarti seperti namanya, bahwa note musik yang melaju ke atas maupun ke bawah secara vertikal. Ada banyak permainan yang mirip dengan o!m seperti "Stepmania", "O2Jam" atau "Beatmania IIDX". Tapi untuk saat ini, kami akan berkonsentrasi hanya pada osu!mania!
 
 Kelebihan dari osu!mania adalah berada pada kecepatan yang sepenuhnya dapat disesuaikan (kecepatan laju note musik) serta banyak kolum yang akan digunakan.
 
