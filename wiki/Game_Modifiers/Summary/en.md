@@ -32,7 +32,7 @@ Note: All mods used in osu!mania will never increase the score multiplier.
 
 ## xK mod score multipliers
 
-Note: This table only affects beatmaps converted from osu!standard to osu!mania during play, not on on osu!mania-specific beatmaps!
+Note: This table only affects beatmaps converted from osu! to osu!mania during play, not on on osu!mania-specific beatmaps!
 
 | | 1k | 2k | 3k | 4k | 5k | 6k | 7k | 8k | 9k |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -43,7 +43,7 @@ Note: This table only affects beatmaps converted from osu!standard to osu!mania 
 
 ### xK mod with CO-OP score multipliers
 
-Note: This table only affects beatmaps converted from osu!standard to osu!mania during play, not on on osu!mania-specific beatmaps!
+Note: This table only affects beatmaps converted from osu! to osu!mania during play, not on on osu!mania-specific beatmaps!
 
 The Co-Op mod gives **no** penalty on osu!mania-specific beatmaps.
 
@@ -74,7 +74,7 @@ Note: To prevent the following table from growing outrageously large, the revers
 | :-- | :-- |
 | ![Hidden](/wiki/shared/mods/HD.png) ![Fade In](/wiki/shared/mods/FI.png) | ![Flashlight](/wiki/shared/mods/FL.png) |
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
+[o!s]: /wiki/shared/mode/osu.png "osu!"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
 [o!c]: /wiki/shared/mode/catch.png "osu!catch"
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"

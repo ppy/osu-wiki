@@ -4,7 +4,7 @@ no_native_review: true
 
 # Modificateurs de jeu
 
-![Écran des quatre modes (de gauche à droite, de haut en bas : osu!standard, osu!taiko, osu!catch et osu!mania)](img/GM_Main.jpg "Écran des quatre modes (de gauche à droite, de haut en bas : osu!standard, osu!taiko, osu!catch et osu!mania)")
+![Écran des quatre modes (de gauche à droite, de haut en bas : osu!, osu!taiko, osu!catch et osu!mania)](img/GM_Main.jpg "Écran des quatre modes (de gauche à droite, de haut en bas : osu!, osu!taiko, osu!catch et osu!mania)")
 
 Les modificateurs de jeu (mods) sont des modifications optionnelles des éléments et des paramètres d'une carte de rythme que le joueur peut activer à volonté. Un effet de mod peut aller de simples changements de gameplay comme la modification des paramètres de la carte de rythme à l'automatisation comme permettre à osu ! de faire un replay parfait (Auto), sous réserve de changements possibles du multiplicateur de score pour rendre le jeu inclassable. Lorsque plusieurs mods sont activés, le Multiplicateur de score est le produit du Multiplicateur de score des mods activés. Par exemple, lorsque Hidden et Flashlight sont appliqués en même temps, le Multiplicateur de score sera de 1.19x (1.06 * 1.12 = 1.1872 ; 1.19 en arrondissant au centième supérieur).
 
@@ -37,7 +37,7 @@ Dans le mode [Multi](/wiki/Multi), l'effet des " vies " ne fonctionnera pas dans
 
 - Réduit la difficulté globale - cercles plus grands, drain HP plus indulgent, moins de précision requise.
 
-Dans le mode de jeu [osu!standard](/wiki/Game_Modes/osu!), le mode Easy diminue [circle size](/wiki/Beatmap_Editor/Song_Setup#circle-size), [approach rate](/wiki/Beatmap_Editor/Song_Setup#approach-rate) (AR), [overall difficulty](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) (OD) de même que [HP drain](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) (HP); chacun d'entre eux par une quantité énorme (la moitié de la quantité actuelle fixée).
+Dans le mode de jeu [osu!](/wiki/Game_Modes/osu!), le mode Easy diminue [circle size](/wiki/Beatmap_Editor/Song_Setup#circle-size), [approach rate](/wiki/Beatmap_Editor/Song_Setup#approach-rate) (AR), [overall difficulty](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) (OD) de même que [HP drain](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) (HP); chacun d'entre eux par une quantité énorme (la moitié de la quantité actuelle fixée).
 
 ![La facilité diminue la difficulté de plusieurs façons.](img/GM_EZ1.jpg "La facilité diminue la difficulté de plusieurs façons.")
 
@@ -47,13 +47,13 @@ Dans le mode de jeu [osu!standard](/wiki/Game_Modes/osu!), le mode Easy diminue 
 
 - Réduit la difficulté générale - les notes se déplacent plus lentement, moins de précision requise.
 
-Dans le mode de jeu [osu!taiko](/wiki/Game_Modes/osu!taiko), le mode Easy diminue le [slider velocity](/wiki/Glossary#slider-velocity) (identique à la réduction de l'AR en mode osu!standard), [overall difficulty](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) (OD) et [HP drain](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) (HP) de moitié. Notez que le nombre de coups requis pour terminer une cuillère tournante est réduit en raison de la réduction de [overall difficulty](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty). Contrairement aux autres modes de jeu, l'exigence d'un score de note réduit pour gagner de la santé dans [osu!taiko](/wiki/Game_Modes/osu!taiko) fait que la barre de vie se remplit beaucoup plus rapidement pour remplacer les deux "vies" supplémentaires car il est impossible d'échouer au milieu de la chanson.
+Dans le mode de jeu [osu!taiko](/wiki/Game_Modes/osu!taiko), le mode Easy diminue le [slider velocity](/wiki/Glossary#slider-velocity) (identique à la réduction de l'AR en mode osu!), [overall difficulty](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) (OD) et [HP drain](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) (HP) de moitié. Notez que le nombre de coups requis pour terminer une cuillère tournante est réduit en raison de la réduction de [overall difficulty](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty). Contrairement aux autres modes de jeu, l'exigence d'un score de note réduit pour gagner de la santé dans [osu!taiko](/wiki/Game_Modes/osu!taiko) fait que la barre de vie se remplit beaucoup plus rapidement pour remplacer les deux "vies" supplémentaires car il est impossible d'échouer au milieu de la chanson.
 
 ---
 
 - Réduit la difficulté globale - cercles plus grands, drain HP plus indulgent, moins de précision requise.
 
-Dans le mode de jeu [osu!catch](/wiki/Game_Modes/osu!catch) les effets sont les mêmes qu'en mode osu!standard - tous les fruits tombent plus lentement (même chose que la réduction de l'AR en mode osu!standard), l'appareil photo est zoomé (CS augmenté en mode osu!standard) et deux "vies" supplémentaires sont accordées. Bien qu'ils n'utilisent qu'un seul axe, la taille plus grande des fruits et leur vitesse de chute plus lente peuvent les faire s'agglutiner, créant les mêmes problèmes présumés qu'en mode osu!standard.
+Dans le mode de jeu [osu!catch](/wiki/Game_Modes/osu!catch) les effets sont les mêmes qu'en mode osu! - tous les fruits tombent plus lentement (même chose que la réduction de l'AR en mode osu!), l'appareil photo est zoomé (CS augmenté en mode osu!) et deux "vies" supplémentaires sont accordées. Bien qu'ils n'utilisent qu'un seul axe, la taille plus grande des fruits et leur vitesse de chute plus lente peuvent les faire s'agglutiner, créant les mêmes problèmes présumés qu'en mode osu!.
 
 ---
 
@@ -79,7 +79,7 @@ Notez que l'utilisation du mod No Fail réduit la quantité de [Performance Poin
 
 ![Icône du mod Half Time (HT)](/wiki/shared/mods/HT.png "Icône du mod Half Time (HT)")
 
-- Multiplicateur de score : 0,30x (osu!standard, osu!taiko, osu!catch), 0,50x (osu!mania)
+- Multiplicateur de score : 0,30x (osu!, osu!taiko, osu!catch), 0,50x (osu!mania)
 - Touche de raccourci : `E`
 - Moins de zoom. ("Zoom" se réfère au BPM de la carte de rythme)
 
@@ -105,7 +105,7 @@ Ces mods introduisent de nouveaux éléments pour rendre le jeu plus difficile e
 
 ![Icône du mod Hard Rock (HR)](/wiki/shared/mods/HR.png "Icône du mod Hard Rock (HR)")
 
-- Multiplicateur de score : 1,06x (osu!standard, osu!taiko), 1,12x (osu!catch), 1,00x (osu!mania ; non classé)
+- Multiplicateur de score : 1,06x (osu!, osu!taiko), 1,12x (osu!catch), 1,00x (osu!mania ; non classé)
 - Touche de raccourci : `A`
 - Tout est devenu un peu plus difficile...
 
@@ -113,9 +113,9 @@ Hard Rock (nommé d'après la difficulté la plus difficile du jeu DS [Elite Bea
 
 ---
 
-![Le Hard Rock augmente la difficulté de plusieurs façons (osu!standard).](img/GM_HR_O.jpg "Le Hard Rock augmente la difficulté de plusieurs façons (osu!standard).")
+![Le Hard Rock augmente la difficulté de plusieurs façons (osu!).](img/GM_HR_O.jpg "Le Hard Rock augmente la difficulté de plusieurs façons (osu!).")
 
-Dans le mode de jeu [osu!standard](/wiki/Game_Modes/osu!), Hard Rock retourne également le beatmap sur l'axe X, de sorte que les éléments qui étaient en bas de la carte sont maintenant en haut et vice versa.
+Dans le mode de jeu [osu!](/wiki/Game_Modes/osu!), Hard Rock retourne également le beatmap sur l'axe X, de sorte que les éléments qui étaient en bas de la carte sont maintenant en haut et vice versa.
 
 ---
 
@@ -147,9 +147,9 @@ L'utilisation de ce mod sur osu!mania entraînera un jeu non classé.
 - Touche de raccourci : `S` (à partir de non sélectionné)
 - Manquer une note et échouer.
 
-Le mod Sudden Death fait échouer la carte au joueur si le [combo](/wiki/Glossary#combo) est jamais cassé, ce qui entraîne un chiffre manquant très important (mode osu!standard uniquement) et un drain HP complet.
+Le mod Sudden Death fait échouer la carte au joueur si le [combo](/wiki/Glossary#combo) est jamais cassé, ce qui entraîne un chiffre manquant très important (mode osu! uniquement) et un drain HP complet.
 
-Le combo peut être rompu en manquant une note, en ne cliquant pas sur un cercle de départ (osu!standard seulement), en ne collectant pas une coche de curseur, ou en ne complétant pas un spinner. Cependant, le combo ne sera pas cassé en manquant une fin de curseur (résultat en obtenant une valeur de 100 points à la place pour cette fin de curseur ; osu!standard seulement) ou en ne tenant pas/en collectant sur le chemin de curseur vide.
+Le combo peut être rompu en manquant une note, en ne cliquant pas sur un cercle de départ (osu! seulement), en ne collectant pas une coche de curseur, ou en ne complétant pas un spinner. Cependant, le combo ne sera pas cassé en manquant une fin de curseur (résultat en obtenant une valeur de 100 points à la place pour cette fin de curseur ; osu! seulement) ou en ne tenant pas/en collectant sur le chemin de curseur vide.
 
 #### Perfect
 
@@ -173,7 +173,7 @@ Dans le mode de jeu [osu!mania](/wiki/Game_Modes/osu!mania), Le mod Perfect acce
 
 ![Icône du mod Double Time (DT)](/wiki/shared/mods/DT.png "Icône du mod Double Time (DT)")
 
-- Multiplicateur de score : 1.12x (osu!standard, osu!taiko) , 1.06x (osu!catch), 1.00x (osu!mania)
+- Multiplicateur de score : 1.12x (osu!, osu!taiko) , 1.06x (osu!catch), 1.00x (osu!mania)
 - Touche de raccourci : `D` (à partir de non sélectionné)
 - Zoooooooooom
 
@@ -197,7 +197,7 @@ Dans le mode de jeu [osu!catch](/wiki/Game_Modes/osu!catch), Comme il n'y a pas 
 
 Cliquez à nouveau sur Double Time pour activer le mod Nightcore.
 
-- Multiplicateur de score : 1,12x (osu!standard, osu!taiko) , 1,06x (osu!catch), 1,00x (osu!mania).
+- Multiplicateur de score : 1,12x (osu!, osu!taiko) , 1,06x (osu!catch), 1,00x (osu!mania).
 - Touche de raccourci : `DD` (à partir de non sélectionné) ou `Shift`+`D`
 - uguuuuuuuu
 
@@ -209,7 +209,7 @@ Le multiplicateur reste le même, et le beatmap lui-même n'est pas affecté au-
 
 ![Icône de mod Hidden (HD)](/wiki/shared/mods/HD.png "Icône de mod Hidden (HD)")
 
-- Multiplicateur de score : 1,06x (osu!standard, osu!taiko, osu!catch) , 1,00x (osu!mania)
+- Multiplicateur de score : 1,06x (osu!, osu!taiko, osu!catch) , 1,00x (osu!mania)
 - Touche de raccourci : `F`
 
 Le mod Hidden (débuté dans Ouendan 2, le deuxième jeu japonais sur DS) supprime les cercles d'approche et fait disparaître les objets touchés après leur apparition à l'écran.
@@ -220,9 +220,9 @@ Si le beatmap a été passé avec la note S ou SS avec le mod Hidden activé, le
 
 - Jouez sans cercles d'approche et sans notes fondues pour un léger avantage de score.
 
-![Hidden en mode osu!standard](img/GM_HD_O.jpg "Mode Hidden en osu!standard")
+![Hidden en mode osu!](img/GM_HD_O.jpg "Mode Hidden en osu!")
 
-Dans le mode de jeu [osu!standard](/wiki/Game_Modes/osu!), il élimine les cercles d'approche et fait disparaître les objets touchés peu après leur apparition, obligeant les joueurs à mémoriser plus ou moins le timing et, dans une moindre mesure, le placement et la trajectoire du curseur.
+Dans le mode de jeu [osu!](/wiki/Game_Modes/osu!), il élimine les cercles d'approche et fait disparaître les objets touchés peu après leur apparition, obligeant les joueurs à mémoriser plus ou moins le timing et, dans une moindre mesure, le placement et la trajectoire du curseur.
 
 Par défaut, le premier objet touché aura un cercle d'approche. Cependant, ce comportement peut être désactivé en toute sécurité dans les Options sous les Généralistes de Jeu comme `Afficher le cercle d'approche sur le premier objet en "Hidden"`.
 
@@ -277,7 +277,7 @@ Si le beatmap a été passé avec la note S ou SS avec le mod Fade In activé, l
 
 ![Icône du mod Flashlight (FL)](/wiki/shared/mods/FL.png "Icône du mod Flashlight (FL)")
 
-- Multiplicateur de score : 1,12x (osu!standard, osu!taiko, osu!catch), 1,00x (osu!mania)
+- Multiplicateur de score : 1,12x (osu!, osu!taiko, osu!catch), 1,00x (osu!mania)
 - Touche de raccourci : `G`
 - Zone de vue restreinte.
 
@@ -287,9 +287,9 @@ Si le beatmap a été passé avec la note S ou SS avec le mod Flashlight activé
 
 ---
 
-![Mode lampe de poche en mode osu!standard](img/GM_FL_O.jpg "Mode lampe de poche en mode osu!standard")
+![Mode lampe de poche en mode osu!](img/GM_FL_O.jpg "Mode lampe de poche en mode osu!")
 
-Dans le mode de jeu [osu!standard](/wiki/Game_Modes/osu!), seul un petit cercle éclairé (zone visible) entourant le curseur est affiché, ce qui permet de visualiser le champ de jeu limité et les objets touchés. La zone visible devient plus petite à 100 combo et à nouveau à 200 combo ; elle revient à sa taille originale si le combo est cassé. Lorsque vous tenez la boule glissante sur une trajectoire de glissière, la zone visible s'assombrit également jusqu'à ce que la glissière soit terminée.
+Dans le mode de jeu [osu!](/wiki/Game_Modes/osu!), seul un petit cercle éclairé (zone visible) entourant le curseur est affiché, ce qui permet de visualiser le champ de jeu limité et les objets touchés. La zone visible devient plus petite à 100 combo et à nouveau à 200 combo ; elle revient à sa taille originale si le combo est cassé. Lorsque vous tenez la boule glissante sur une trajectoire de glissière, la zone visible s'assombrit également jusqu'à ce que la glissière soit terminée.
 
 Lorsqu'elle est associée au mod Hidden, la zone visible de la Flashlight importe peu (avec une vision limitée, le fondu des objets touchés peut se produire alors que le curseur n'est pas focalisé sur le point d'apparition de l'objet touché) et peut nécessiter que le joueur mémorise la totalité du beatmap.
 
@@ -297,7 +297,7 @@ Lorsqu'elle est associée au mod Hidden, la zone visible de la Flashlight import
 
 ![Mode lampe de poche en mode osu!taiko](img/GM_FL_T.jpg "Mode lampe de poche en mode osu!taiko")
 
-Dans le mode de jeu [osu!taiko](/wiki/Game_Modes/osu!taiko), la position de la zone visible est fixée à la zone de frappe. La zone visible se rétrécit aux mêmes intervalles de combo qu'en mode osu!standard (à 100 et 200 combo) ; elle revient à sa taille d'origine si le combo est cassé.
+Dans le mode de jeu [osu!taiko](/wiki/Game_Modes/osu!taiko), la position de la zone visible est fixée à la zone de frappe. La zone visible se rétrécit aux mêmes intervalles de combo qu'en mode osu! (à 100 et 200 combo) ; elle revient à sa taille d'origine si le combo est cassé.
 
 Lorsqu'elle est associée à Hidden, la zone visible de la Flashlight devient un point discutable puisque les notes sont techniquement *invisibles* (les notes s'effacent complètement lorsqu'elles atteignent la zone visible, même à la taille de la zone visible du combo 0) et exige que le joueur mémorise plutôt la totalité du beatmap.
 
@@ -305,7 +305,7 @@ Lorsqu'elle est associée à Hidden, la zone visible de la Flashlight devient un
 
 ![Mode lampe de poche en mode osu!catch](img/GM_FL_C.jpg "Mode lampe de poche en mode osu!catch")
 
-Dans le mode de jeu [osu!catch](/wiki/Game_Modes/osu!catch) le comportement du mode Flashlight est le même que celui du mode osu!standard, sauf que la zone visible suit le receveur à la place. La zone visible est nettement plus grande qu'en mode osu!standard ou en mode osu!taiko mais reste un défi car elle empêche entièrement le joueur de voir les notes en haut ou de l'autre côté de l'écran.
+Dans le mode de jeu [osu!catch](/wiki/Game_Modes/osu!catch) le comportement du mode Flashlight est le même que celui du mode osu!, sauf que la zone visible suit le receveur à la place. La zone visible est nettement plus grande qu'en mode osu! ou en mode osu!taiko mais reste un défi car elle empêche entièrement le joueur de voir les notes en haut ou de l'autre côté de l'écran.
 
 Lorsqu'il est associé à Hidden, les fruits sont visibles momentanément si le receveur est *directement sous* les fruits jusqu'à ce qu'il atteigne le combo 100, moment auquel les fruits deviennent invisibles au moment où les fruits atteignent la zone visible et nécessite la mémoire du joueur du motif de la beatmap pour effacer la beatmap à la place.
 
@@ -325,8 +325,8 @@ Seule l'utilisation de Relax, Pilote automatique, ou Auto/Cinéma ne sauvegarder
 
 ![Icône du mod Relax (RL)](/wiki/shared/mods/RL.png "Icône du mod Relax (RL)")
 
-- **osu!standard, osu!taiko, et osu!catch uniquement**
-- Multiplicateur de score : 0.00x (osu!standard, osu!taiko, osu!catch ; non classé)
+- **osu!, osu!taiko, et osu!catch uniquement**
+- Multiplicateur de score : 0.00x (osu!, osu!taiko, osu!catch ; non classé)
 - Touche de raccourci : `Z`
 
 ---
@@ -335,7 +335,7 @@ Seule l'utilisation de Relax, Pilote automatique, ou Auto/Cinéma ne sauvegarder
 - Laissez votre doigt cliqueter/taper loin de la chaleur des choses.
 - \*\* NON CLASSÉ \*\*
 
-Dans le mode de jeu [osu!standard](/wiki/Game_Modes/osu!), le joueur n'a qu'à passer le curseur sur les objets touchés et les objets touchés seront touchés avec un timing parfait (ou toute autre valeur de score ultérieure si le joueur atteint l'objet touché en retard).
+Dans le mode de jeu [osu!](/wiki/Game_Modes/osu!), le joueur n'a qu'à passer le curseur sur les objets touchés et les objets touchés seront touchés avec un timing parfait (ou toute autre valeur de score ultérieure si le joueur atteint l'objet touché en retard).
 
 Le mod Relax cache également le score, le combo et les ratés (sauf dans osu!taiko) et rend impossible l'échec de la map, tout comme le fait le mod No Fail. De plus, la valeur des spins par minute sera doublée, ce qui permettra au joueur de tourner plus vite et d'obtenir un score plus élevé qu'en jeu normal.
 
@@ -363,8 +363,8 @@ Le mod Relax n'est pas disponible pour une utilisation dans [osu!mania](/wiki/Ga
 
 ![Icône du mod Auto Pilot (AP)](/wiki/shared/mods/AP.png "Icône du mode Auto Pilot (AP)")
 
-- **osu!standard seulement**
-- Multiplicateur de score : 0.00x (osu!standard seulement ; non classé)
+- **osu! seulement**
+- Multiplicateur de score : 0.00x (osu! seulement ; non classé)
 - Touche de raccourci : `X`
 - Mouvement automatique du curseur - il suffit de suivre le rythme.
 - \*\* NON CLASSÉ \*\*
@@ -381,8 +381,8 @@ Auto Pilot n'est pas disponible pour une utilisation dans [osu!taiko](/wiki/Game
 
 ![Icône du mod Spun Out (SO)](/wiki/shared/mods/SO.png "Icône du mod Spun Out (SO)")
 
-- **osu!standard seulement**
-- Multiplicateur de score : 0.90x (osu!standard seulement)
+- **osu! seulement**
+- Multiplicateur de score : 0.90x (osu! seulement)
 - Touche de raccourci : `C`
 - Les spins seront automatiquement remplis
 
@@ -412,7 +412,7 @@ Comme le joueur ne joue pas activement la carte de rythme et plus à regarder la
 
 ---
 
-Dans le mode de jeu [osu!standard](/wiki/Game_Modes/osu!) le mode Auto tournera rapidement jusqu'à un maximum de 477 tours par minute en rotation anti-horaire pour les toupies.
+Dans le mode de jeu [osu!](/wiki/Game_Modes/osu!) le mode Auto tournera rapidement jusqu'à un maximum de 477 tours par minute en rotation anti-horaire pour les toupies.
 
 ---
 
@@ -456,7 +456,7 @@ Ce mod va forcer tous les beatmaps *convertis* osu!mania à utiliser le paramèt
 Le multiplicateur de score ne s'applique que dans ces conditions :
 
 - L'utilisation d'un mod de 1K, 2K ou 3K entraînera un jeu non classé.
-- La table n'affecte que les beatmaps convertis du mode osu!standard au mode osu!mania.
+- La table n'affecte que les beatmaps convertis du mode osu! au mode osu!mania.
 - Le mod ne fonctionne pas sur les beatmaps spécifiques à osu!mania.
 
 | Défaut/Modificateur | 1k | 2k | 3k | 4k | 5k | 6k | 7k | 8k | 9k |
@@ -482,7 +482,7 @@ Le multiplicateur de score ne s'applique que dans ces conditions :
 Le multiplicateur de score ne s'applique que dans ces conditions :
 
 - L'utilisation du mod Co-Op entraînera un jeu non classé.
-- La table n'affecte que les beatmaps convertis du mode osu!standard à osu!mania avec le mod Co-Op activé.
+- La table n'affecte que les beatmaps convertis du mode osu! à osu!mania avec le mod Co-Op activé.
 - Le mod Co-Op ne donne **aucune** pénalité sur les beatmaps spécifiques à osu!mania.
 
 | Par défaut | 1k | 2k | 3k | 4k | 5k | 6k | 7k | 8k | 9k |
@@ -518,7 +518,7 @@ Il n'affecte pas la timeline des notes et n'est pas mélangé à chaque fois que
 - Essayez le futur système de notation.
 - \*\* NON CLASSÉ \*\*
 
-[Introduit dans la construction du 22 février 2017 (2017-02-22) \[b20170222.3 (Stable)\]](https://osu.ppy.sh/home/changelog), Le mod ScoreV2 utilise le système prototype ScoreV2 au lieu du système de notation actuel utilisé par le mode. Le système ScoreV2 tente de mettre à l'échelle les valeurs de score de *tous* les objets touchés jusqu'à une limite de 1 000 000 (1 million) de points avec un modificateur de score de 1,00, en excluant la valeur de spinner bonus des spinners en mode osu!standard, des dendens en mode osu!taiko, et des bananes collectées (équivalent spinner) en mode osu!catch.
+[Introduit dans la construction du 22 février 2017 (2017-02-22) \[b20170222.3 (Stable)\]](https://osu.ppy.sh/home/changelog), Le mod ScoreV2 utilise le système prototype ScoreV2 au lieu du système de notation actuel utilisé par le mode. Le système ScoreV2 tente de mettre à l'échelle les valeurs de score de *tous* les objets touchés jusqu'à une limite de 1 000 000 (1 million) de points avec un modificateur de score de 1,00, en excluant la valeur de spinner bonus des spinners en mode osu!, des dendens en mode osu!taiko, et des bananes collectées (équivalent spinner) en mode osu!catch.
 
 Des informations complètes concernant ScoreV2 peuvent être trouvées à [the Score page under ScoreV2](/wiki/Score#scorev2).
 
@@ -532,8 +532,8 @@ Des informations complètes concernant ScoreV2 peuvent être trouvées à [the S
 
 ![Icône du mod Target Practice (TP)](/wiki/shared/mods/TP.png "Icône du mod Target Practice (TP)")
 
-- **osu!standard seulement**
-- Multiplicateur de score : 1.00x (non classé, osu!standard seulement)
+- **osu! seulement**
+- Multiplicateur de score : 1.00x (non classé, osu! seulement)
 - Touche de raccourci : ?
 - ?
 
@@ -603,7 +603,7 @@ La fonctionnalité du mod a été déplacée vers [Visual Settings](/wiki/Visual
 - osu ! permet d'arrondir le multiplicateur de score au centième près (0,01). Heureusement, un patch a corrigé le problème d'arrondi en arrondissant à la hausse si la valeur en millièmes est de 0,005 ou plus et à la baisse sinon.
 - Certains (sinon, la plupart) affirment que le mod Easy ne parvient pas à rendre les beatmaps plus faciles à jouer. L'argument est que les cercles deviennent comiquement grands, et que la RA devient ridiculement plus lente. Le mod a le potentiel de rendre l'aire de jeu beaucoup plus encombrée et plus difficile à lire, surtout sur les beatmaps les plus difficiles.
   - Ces points sont développés dans [Let's talk Easy Mod](https://osu.ppy.sh/community/forums/topics/56606) pour améliorer le mod, par [Lybydose](https://osu.ppy.sh/users/64501).
-- Lorsque vous jouez avec le mod Sudden Death activé dans le mode osu!standard, il y a *de rares cas* où le joueur *peut* survivre à un drain de barre de vie complète pour casser le compte des combo. Si le joueur a réussi à préserver au moins une partie de sa santé en obtenant une tique de glissement dans une marge de temps très courte juste après que le combo se soit cassé et *avant* que la barre de vie soit complètement vidée, le joueur peut continuer à jouer la beatmap telle quelle et aucune grande figure de miss ne sera imposée.
+- Lorsque vous jouez avec le mod Sudden Death activé dans le mode osu!, il y a *de rares cas* où le joueur *peut* survivre à un drain de barre de vie complète pour casser le compte des combo. Si le joueur a réussi à préserver au moins une partie de sa santé en obtenant une tique de glissement dans une marge de temps très courte juste après que le combo se soit cassé et *avant* que la barre de vie soit complètement vidée, le joueur peut continuer à jouer la beatmap telle quelle et aucune grande figure de miss ne sera imposée.
   - Comme le gain de santé du tick coulissant doit être suffisant pour survivre à la perte de santé naturelle au fil du temps, il peut être impossible de continuer à des niveaux de difficulté plus élevés même si le joueur survit à la perte totale de la barre de vie.
 - [Nightcore est né d'une blague des April Fools.](https://osu.ppy.sh/community/forums/topics/49733)
 - Le mod Flashlight a été soumis à une forte controverse concernant son implémentation en 2010 car le fait d'être le mod le plus *faible* à pirater a forcé le mod à être déclassé jusqu'à ce qu'un patch soit implémenté pour couvrir la faille d'implémentation de Flashlight. De plus amples informations concernant cet incident peuvent être trouvées dans les deux fils de discussion ci-dessous.

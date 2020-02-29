@@ -26,7 +26,7 @@ Note: Tous les mods changeant la difficulté sur osu!mania n'augmenteront jamais
 
 ## Le multiplicateur de score du mod xK
 
-Note: Ce tableau s'applique uniquement aux beatmaps converties à partir d'osu!standard vers osu!mania par le jeu, et pas aux beatmaps créés spécifiquement pour osu!mania.
+Note: Ce tableau s'applique uniquement aux beatmaps converties à partir d'osu! vers osu!mania par le jeu, et pas aux beatmaps créés spécifiquement pour osu!mania.
 
 | | 1k | 2k | 3k | 4k | 5k | 6k | 7k | 8k | 9k |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -37,7 +37,7 @@ Note: Ce tableau s'applique uniquement aux beatmaps converties à partir d'osu!s
 
 ### Le mod xK avec le multiplicateur de score de la CO-OP
 
-Note: Ce tableau s'applique uniquement aux beatmaps converties à partir d'osu!standard vers osu!mania par le jeu, et pas aux beatmaps créés spécifiquement pour osu!mania.
+Note: Ce tableau s'applique uniquement aux beatmaps converties à partir d'osu! vers osu!mania par le jeu, et pas aux beatmaps créés spécifiquement pour osu!mania.
 
 Le Co-Op mod n'applique **aucune** pénalité sur les beatmaps spécifiquement créés pour osu!mania.
 
@@ -68,7 +68,7 @@ Note: Afin que ce tableau ne soit pas trop long, on considère que les relations
 | :-- | :-- |
 | ![Hidden](/wiki/shared/mods/HD.png) ![Fade In](/wiki/shared/mods/FI.png) | ![Flashlight](/wiki/shared/mods/FL.png) |
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
+[o!s]: /wiki/shared/mode/osu.png "osu!"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
 [o!c]: /wiki/shared/mode/catch.png "osu!catch"
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
