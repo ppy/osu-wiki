@@ -46,7 +46,7 @@ The seventh edition of the bi-annual UK Community Cup, a tournament for those wh
 ![Links](img/links.png)
 
 - [Discussion Thread](https://osu.ppy.sh/community/forums/topics/940042)
-- [UKCC Discord server](https://discord.gg/jYhjTtj)
+- [UKCC Discord server](https://discord.gg/EtsU7Cw)
 - [Livestream](https://twitch.tv/osuukcc)
 - [Challonge bracket](https://challonge.com/ukcc7)
 - [Pick'em predictions website](https://pickem.hwchr.com/tournaments/15)
@@ -124,7 +124,7 @@ The seventh edition of the bi-annual UK Community Cup, a tournament for those wh
 
 ![Staff List](img/staff.png)
 
-UK is run by many wonderful people, this list doesn't fully represent how many amazing people contribute as we accept people along the way. If you're interested in helping staff future UK Community Cups, please contact a host in the [Discord](https://discord.gg/jYhjTtj)!
+UK is run by many wonderful people, this list doesn't fully represent how many amazing people contribute as we accept people along the way. If you're interested in helping staff future UK Community Cups, please contact a host in the [Discord](https://discord.gg/EtsU7Cw)!
 
 | Position | Member(s) |
 | :-- | :-- |

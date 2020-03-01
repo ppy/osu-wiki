@@ -59,7 +59,7 @@ The 8th edition of the bi-annual UK Community Cup, a tournament for those who li
 
 - **[SIGNUP](https://forms.gle/s1FQ1sRTrwXa4i8t8)**
 - [Forum Post](https://osu.ppy.sh/community/forums/topics/1026417)
-- [Discord](https://discord.gg/jYhjTtj)
+- [Discord](https://discord.gg/EtsU7Cw)
 - [Spreadsheet (Map pools, Schedules, Stats)](https://docs.google.com/spreadsheets/d/1qBNQMfkLaujAMj8mQW4gTvejIhm6Wz7TOlS32IZOr64)
 - [Twitch](https://twitch.tv/osuukcc)
 - [Bracket (Challonge)](https://challonge.com/ukcc8)
@@ -128,7 +128,7 @@ The 8th edition of the bi-annual UK Community Cup, a tournament for those who li
 
 ![Staff List](img/staff.png)
 
-UK is run by many wonderful people, this list doesn't fully represent how many amazing people contribute as we accept people along the way. If you're interested in helping staff future UK Community Cups, please contact a host in the [Discord](https://discord.gg/jYhjTtj)!
+UK is run by many wonderful people, this list doesn't fully represent how many amazing people contribute as we accept people along the way. If you're interested in helping staff future UK Community Cups, please contact a host in the [Discord](https://discord.gg/EtsU7Cw)!
 
 | Position | Member(s) |
 | :-- | :-- |
