@@ -105,9 +105,35 @@ The osu! TV Size Tournament 2020 is run by various community members.
 
 ## Mappools
 
+### Round of 32
+
+**[Download the mappack here! (62 MB)](https://drive.google.com/file/d/1Qkccr-FZRjsEdh8S_4-0-TODlbtjWZrW/view)**
+
+- NoMod
+  - [Coda - Fighting Gold (TV Size) (hypercyte) \[Gold Experience\]](https://osu.ppy.sh/beatmapsets/862547#osu/1804239)
+  - [Rche - Todestrieb (FrenZ396) \[Dementation's Extra\]](https://osu.ppy.sh/beatmapsets/968678#osu/2031188)
+  - [Co shu Nie - ZETTAI ZETSUMEI (TV Size) (Agatsu) \[Despair\]](https://osu.ppy.sh/beatmapsets/924203#osu/1930332)
+  - [Nekomata Master+ - Funny shuffle (lcfc) \[momoko's Extra\]](https://osu.ppy.sh/beatmapsets/692453#osu/1697753)
+- Hidden
+  - [Duoscience - Indifferences (Mir) \[Senseless\]](https://osu.ppy.sh/beatmapsets/722662#osu/1538480)
+  - [IOSYS - Hatate's Bakkoi Murder Case (Mafiamaster) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/19491#osu/68520)
+- HardRock
+  - [saradisk - 222 - wewewe (Nozhomi) \[Extra\]](https://osu.ppy.sh/beatmapsets/519986#osu/1104572)
+  - [Nekomata Master+ - squall (wa\_) \[Extreme\]](https://osu.ppy.sh/beatmapsets/85534#osu/234923)
+- DoubleTime
+  - [Nekomata Master - Scars of FAUNA (Ambient) \[ailv's Hard\]](https://osu.ppy.sh/beatmapsets/743685#osu/1618405)
+  - [Infected Mushroom - Pink Nightmares (RLC) \[Insane\]](https://osu.ppy.sh/beatmapsets/107639#osu/281977)
+- FreeMod
+  - [NormCore - Countdown (TV Size) (Smoke) \[BaAR's Expert\]](https://osu.ppy.sh/beatmapsets/887041#osu/2065803)
+  - [COOL&CREATE(BeatMario) - Destined Marionette (avira0922) \[14KEY\]](https://osu.ppy.sh/beatmapsets/8273#osu/40202)
+- Tiebreaker
+  - **[kamome sano Electric Orchestra - HE4VEN \~Tengoku e Youkoso\~ (Kawashiro) \[\[ -Scarlet- \]'s MAXIMUM\]](https://osu.ppy.sh/beatmapsets/597797#osu/1413421)**
+  - **[onoken - Quinine -A2D SIDE- (tsukamaete) \[Another\]](https://osu.ppy.sh/beatmapsets/12469#osu/47837)**
+  - **[M2U - A Bella! (feat. Lucy) (IceKalt) \[Doorbell\]](https://osu.ppy.sh/beatmapsets/799084#osu/1677854)**
+
 ### Qualifiers
 
-**[Download the mappack here! (36 MB)](https://drive.google.com/file/d/1YdFY-9jP9Iqntoim1sMKSr9j-ejpmFIb/view?usp=sharing)**
+**[Download the mappack here! (36 MB)](https://drive.google.com/file/d/1YdFY-9jP9Iqntoim1sMKSr9j-ejpmFIb/view)**
 
 - NoMod
   - [Sound Souler - Aqua Stars (Azzedd) \[Extra\]](https://osu.ppy.sh/beatmapsets/942425#osu/1967947)
