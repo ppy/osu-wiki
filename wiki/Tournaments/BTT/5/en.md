@@ -106,7 +106,7 @@ The Beginner's Taiko Tournament 5 is run by various community members.
 - HardRock
   - [RAISE A SUILEN - UNSTOPPABLE (-Aqua) \[J'S MUZUKASHII\]](https://osu.ppy.sh/beatmapsets/931541#taiko/1964914)
   - [Team Grimoire vs Laur - Grievous Lady (Jaye) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/766476#taiko/1694767)
-  - [Memme - BSPower Explosion (Naryuga) \[Muzui\]][https://osu.ppy.sh/beatmapsets/290357#taiko/654165]
+  - [Memme - BSPower Explosion (Naryuga) \[Muzui\]](https://osu.ppy.sh/beatmapsets/290357#taiko/654165)
 - DoubleTime
   - [Akatsuki Records - Sci-Fi ROMANCE TRAVELER (Prophecy) \[Volta's Muzukashii\]](https://osu.ppy.sh/beatmapsets/688926#taiko/1667936)
   - [Camellia vs. Akira Complex - Railgun Roulette (VIP) (tasuke912) \[Billionaire\]](https://osu.ppy.sh/beatmapsets/1052957#taiko/2223056)
@@ -262,6 +262,26 @@ The Beginner's Taiko Tournament 5 is run by various community members.
   - [Nekomata Master feat. Hayashi Momoko - TWINKLING other side edition (bank78952) \[Kantan\]](https://osu.ppy.sh/beatmapsets/776049#taiko/1684690)
 
 ## Match results
+
+### Semifinals
+
+Saturday, 29 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| squidstain ![][flag_MY] | -1 | **0** | ![][flag_NZ] **Blujae** | *win by default* |
+| **awdse22** ![][flag_SG] | **6** | 2 | ![][flag_DE] Kirross | [#1](https://osu.ppy.sh/community/matches/58816474) |
+| **helios44** ![][flag_SG] | **0** | -1 | ![][flag_FR] Champs de ble | *win by default* |
+| TLQ\_Yoshii ![][flag_FR] | 0 | **6** | ![][flag_DE] **Malox** | [#1](https://osu.ppy.sh/community/matches/58825826) |
+| **Maou** ![][flag_DE] | **6** | 0 | ![][flag_AR] Vaf | [#1](https://osu.ppy.sh/community/matches/58827425) |
+
+Sunday, 1 March 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| helios44 ![][flag_SG] | 1 | **6** | ![][flag_SG] **awdse22** | [#1](https://osu.ppy.sh/community/matches/58841473) |
+| Blujae ![][flag_NZ] | 4 | **6** | ![][flag_DE] **Malox** | [#1](https://osu.ppy.sh/community/matches/58846279) |
+| Olii ![][flag_GB] | 4 | **6** | ![][flag_SG] **moosepi** | [#1](https://osu.ppy.sh/community/matches/58853961) |
 
 ### Quarterfinals
 
