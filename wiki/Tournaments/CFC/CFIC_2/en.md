@@ -135,6 +135,24 @@ The Catch French Intermediate Cup 2 is run by various community members.
 
 ## Match results
 
+### Quarterfinals
+
+Saturday, 29 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Fuka Pura** ![][flag_FR] | **5** | 2 | ![][flag_FR] Pizu | [#1](https://osu.ppy.sh/community/matches/58813792) |
+| **Dask** ![][flag_FR] | **5** | 3 | ![][flag_FR] NinjaCoktail | [#1](https://osu.ppy.sh/community/matches/58816562) |
+
+Sunday, 1 March 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Electr0o** ![][flag_FR] | **5** | 2 | ![][flag_FR] Khalemm | [#1](https://osu.ppy.sh/community/matches/58847129) |
+| **dracoV** ![][flag_FR] | **5** | 4 | ![][flag_FR] Kaleesy Pura | [#1](https://osu.ppy.sh/community/matches/58847906) |
+| Pizu ![][flag_FR] | 3 | **5** | ![][flag_FR] **Khalemm** | [#1](https://osu.ppy.sh/community/matches/58849487) |
+| NinjaCoktail ![][flag_FR] | 1 | **5** | ![][flag_FR] **Kaleesy Pura** | [#1](https://osu.ppy.sh/community/matches/58851059) |
+
 ### Group Stage
 
 Saturday, 22 February 2020:

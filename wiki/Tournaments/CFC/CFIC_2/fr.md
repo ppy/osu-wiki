@@ -135,6 +135,24 @@ La Catch French Intermediate Cup 2 est gérée par différents membres de la com
 
 ## Résultats des matches
 
+### Quarts-de-finale
+
+Samedi, 29 Février 2020:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| **Fuka Pura** ![][flag_FR] | **5** | 2 | ![][flag_FR] Pizu | [#1](https://osu.ppy.sh/community/matches/58813792) |
+| **Dask** ![][flag_FR] | **5** | 3 | ![][flag_FR] NinjaCoktail | [#1](https://osu.ppy.sh/community/matches/58816562) |
+
+Dimanche, 1 March 2020:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| **Electr0o** ![][flag_FR] | **5** | 2 | ![][flag_FR] Khalemm | [#1](https://osu.ppy.sh/community/matches/58847129) |
+| **dracoV** ![][flag_FR] | **5** | 4 | ![][flag_FR] Kaleesy Pura | [#1](https://osu.ppy.sh/community/matches/58847906) |
+| Pizu ![][flag_FR] | 3 | **5** | ![][flag_FR] **Khalemm** | [#1](https://osu.ppy.sh/community/matches/58849487) |
+| NinjaCoktail ![][flag_FR] | 1 | **5** | ![][flag_FR] **Kaleesy Pura** | [#1](https://osu.ppy.sh/community/matches/58851059) |
+
 ### Phase de poules
 
 Samedi, 22 Février 2020:
