@@ -149,11 +149,31 @@ The 4 Digit osu!mania World Cup 2 is run by various community members.
 
 ## Match results
 
+### Round of 16
+
+Saturday, 29 February 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States A** ![][flag_US] | **5** | 0 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/58805762) |
+| South Korea ![][flag_KR] | 3 | **5** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/58813692) |
+| **Thailand** ![][flag_TH] | **5** | 2 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/58815194) |
+| **Philippines** ![][flag_PH] | **5** | 4 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/58816759) |
+
+Sunday, 1 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Argentina** ![][flag_AR] | **5** | 2 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/58832795) |
+| Singapore ![][flag_SG] | 3 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/58844085) |
+| **Russian Federation** ![][flag_RU] | **5** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/mp/58851567) |
+| **France** ![][flag_FR] | **5** | 2 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/58853975) |
+
 ### Group Stage
 
 Saturday, 22 February 2020:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Australia ![][flag_AU] | 0 | **4** | ![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/58634132) |
 | Switzerland ![][flag_CH] | 0 | **4** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/58635800) |
@@ -167,7 +187,7 @@ Saturday, 22 February 2020:
 
 Sunday, 23 February 2020:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | South Korea ![][flag_KR] | 3 | **4** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/58656163) |
 | **United States** ![][flag_US] | **4** | 0 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/58658942) |
@@ -184,13 +204,13 @@ Sunday, 23 February 2020:
 
 Monday, 24 February 2020:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Spain ![][flag_ES] | 0 | **4** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/58697212) |
 
 Tuesday, 25 February 2020:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Malaysia ![][flag_MY] | 2 | **4** | ![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/58717706) |
 | Netherlands ![][flag_NL] | 1 | **4** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/58726479) |
