@@ -74,6 +74,35 @@ La Catch French Intermediate Cup 2 est gérée par différents membres de la com
 
 ## Liste des maps
 
+### Demi-finales
+
+**[Download the mappack here! (104 MB)](https://mega.nz/#!EoUACIDC!dXQH5hLj9EY-Y7VfvZeoyEPSC5Bz0-2BXezoSyeN7ik)**
+
+- NoMod
+  - [Mili - Rightfully (Vignette-) \[IDu5t's Rain\]](https://osu.ppy.sh/beatmapsets/867781#fruits/1864600)
+  - [JO\*STARS \~TOMMY, Coda, JIN\~ - JoJo Sono Chi no Kioku \~end of THE WORLD\~ (TV Size) (Hareimu) \[TOYBOT'S OVERDOSE\]](https://osu.ppy.sh/beatmapsets/623862#fruits/1426226)
+  - [lapix - Carry Me Away (Spectator) \[AFB's Rain\]](https://osu.ppy.sh/beatmapsets/776472#fruits/1908532)
+  - [The Bangles - Hazy Shade of Winter (CraEZy) \[The Upside Down\]](https://osu.ppy.sh/beatmapsets/687459#fruits/1454669)
+  - [Ryu\* - Sakura Mirage (MYTK Remix) (Leader) \[N/A's Extra\]](https://osu.ppy.sh/beatmapsets/1078566#fruits/2256806)
+  - [Hatsune Miku - Senkouhanabi Aika (val0108) \[0108 Aika\]](https://osu.ppy.sh/beatmapsets/33556#fruits/121767)
+- Hidden
+  - [cinema staff - great escape (TV Size) (Deif) \[Rain\]](https://osu.ppy.sh/beatmapsets/118690#fruits/305020)
+  - [Umeboshi Chazuke - Owari to Hajimari no Oto (- Syamu -) \[AJamez's Rain\]](https://osu.ppy.sh/beatmapsets/786403#fruits/1819674)
+  - [Marina And The Diamonds - Lonely Hearts Club (Desperate-kun) \[Insane\]](https://osu.ppy.sh/beatmapsets/369678#fruits/810027)
+  - [dj TAKA - Hollywood Galaxy (Megurine Luka) \[Extreme\]](https://osu.ppy.sh/beatmapsets/48196#fruits/150116)
+- HardRock
+  - [Fractal Dreamers - Everything for a Dream (JBHyperion) \[Platter\]](https://osu.ppy.sh/beatmapsets/943803#fruits/1971060)
+  - [Ito Kashitaro - Setsuna Plus (-Hex-) \[Platter\]](https://osu.ppy.sh/beatmapsets/836272#fruits/1751319)
+  - [Brandy - Cross Time !! (Luxary) \[Luxary FinaL ReMiX\]](https://osu.ppy.sh/beatmapsets/5918#fruits/36710)
+  - [Cres - End Time (Maddy) \[Hyper\]](https://osu.ppy.sh/beatmapsets/73474#fruits/209553)
+- DoubleTime
+  - [Yorushika - Tada Kimi ni Hare (mingmichael) \[Platter\]](https://osu.ppy.sh/beatmapsets/956891#fruits/2005995)
+  - [Raujika - Cry More (JBHyperion) \[Hyperion's Platter\]](https://osu.ppy.sh/beatmapsets/1009597#fruits/2119600)
+  - [Electus - Whispers From The Sea (deetz) \[water\]](https://osu.ppy.sh/beatmapsets/434334#fruits/935924)
+  - [Raven's Jig - Neige Immaculee (Maardhen) \[Un Tresor Depose par le Vent d'Hiver\]](https://osu.ppy.sh/beatmapsets/1070288#fruits/2240357)
+- Tiebreaker
+  - **[supercell - My Dearest (Ascendance) \[Fiance's Eternity\]](https://osu.ppy.sh/beatmapsets/842871#fruits/1763545)**
+
 ### Quarts-de-finale
 
 **[Téléchargez le mappack ici! (96 MB)](https://mega.nz/#!UR5gSajR!q18ZIqRBYnyJ9HraaJr2YGIV-Z7r1Y3lpy0voxCElOc)**
