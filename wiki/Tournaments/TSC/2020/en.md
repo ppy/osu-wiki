@@ -144,6 +144,47 @@ The Taiko Suiji Cup 2020 is run by various community members.
 
 ## Match results
 
+### Round of 32
+
+Friday, 28 February 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| bacon | 0 | **5** | **beat laser** | [#1](https://osu.ppy.sh/community/matches/58799641) |
+
+Saturday, 29 February 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **sunglasses emoji** | **5** | 0 | The Shitmissers ft. zkane2 | [#1](https://osu.ppy.sh/community/matches/58801435) |
+| **IHATETAIKO** | **5** | 4 | Team 6 | [#1](https://osu.ppy.sh/community/matches/58804703) |
+| **Team 26** | **5** | 1 | Froot Loopy | [#1](https://osu.ppy.sh/community/matches/58807137) |
+| **Break4** | **5** | 3 | 6th Sense | [#1](https://osu.ppy.sh/community/matches/58813736) |
+| **Spaghetti Protectors** | **5** | 0 | BlackJack | - |
+| **chocobo** | **5** | 4 | 1 | [#1](https://osu.ppy.sh/community/matches/58813847) |
+| **4:3 gang** | **5** | 2 | Donjinshi | [#1](https://osu.ppy.sh/community/matches/58814987) |
+| Geki Force | 4 | **5** | **Team 5** | [#1](https://osu.ppy.sh/community/matches/58815022) |
+| **#TeamTrees** | **5** | 1 | HolyWeebs | [#1](https://osu.ppy.sh/community/matches/58815019) |
+| **🍘** | **0** | -1 | THANOS OBAMA | *win by default* |
+| **plz Jeff** | **0** | -1 | Aggressive Banana | *win by default* |
+| **Worldwide Bongo** | **5** | 1 | Six Leaf Clover | [#1](https://osu.ppy.sh/community/matches/58820875) |
+| Ronaldo Gaming | 1 | **5** | **ham sandwich xviii** | [#1](https://osu.ppy.sh/community/matches/58824518) |
+| **bruh** | **5** | 3 | Six Spinning Monkeys | [#1](https://osu.ppy.sh/community/matches/58827808) |
+
+Sunday, 1 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Froot Loopy**	| **0** | -1 | bacon | *win by default* |
+| **t.** | **5** | 1 | The winner is the winner | [#1](https://osu.ppy.sh/community/matches/58834316) |
+| Aggressive Banana | 1 | **5** | **Team 6** | [#1](https://osu.ppy.sh/community/matches/58836161) |
+| 1 | 0 | **5** | **Geki Force** | [#1](https://osu.ppy.sh/community/matches/58843278) |
+| 6th Sense | 3 | **5** | **The Shitmissers ft. zkane2** | [#1](https://osu.ppy.sh/community/matches/58849480) |
+| BlackJack | -1 | **0** | **Donjinshi** | *win by default* |
+| HolyWeebs | 2 | **5** | **Six Spinning Monkeys** | [#1](https://osu.ppy.sh/community/matches/58852715) |
+| Six Leaf Clover | 3 | **5** | **The winner is the winner** | [#1](https://osu.ppy.sh/community/matches/58854310) |
+| THANOS OBAMA | -1 | **0** | **Ronaldo Gaming** | *win by default* |
+
 ### Qualifiers
 
 | Seed | Team | Average |
