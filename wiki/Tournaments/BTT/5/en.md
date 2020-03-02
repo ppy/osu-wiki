@@ -33,6 +33,8 @@ The **Beginner's Taiko Tournament 5** (***BTT5***) is a worldwide double-elimina
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag, 25€ |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag, 15€ |
 
+![](img/badge.png "BTT5 winner badge")
+
 ## Organisation
 
 The Beginner's Taiko Tournament 5 is run by various community members.
