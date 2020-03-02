@@ -183,6 +183,38 @@ The Yuri Cup is run by various community members.
 
 ## Match results
 
+### Round of 32
+
+Thursday, 27 February 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| MeAqua | 4 | 5 | 11:40 | [#1](https://osu.ppy.sh/community/matches/58760885) |
+
+Saturday, 29 February 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| comfkuehlesblondes | 4 | **5** | **Baguette Vodka Salo** | [#1](https://osu.ppy.sh/community/matches/58816973) |
+| **Voprossoff Fanclub** | **5** | 4 | SS Squad (and ruyu) | [#1](https://osu.ppy.sh/community/matches/58820338) |
+| Stavros1435 | 2 | **5** | **Urushihara Fan Club** | [#1](https://osu.ppy.sh/community/matches/58822310) |
+| team name #2 | 0 | **5** | **Hyouri Ittai** | [#1](https://osu.ppy.sh/community/matches/58825886) |
+
+Sunday, 1 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Milk & Scissors | 0 | **5** | **Yuritarded** | [#1](https://osu.ppy.sh/community/matches/58836051) |
+| Alligator Space Jam | -1 | **0** | **Sakura Trick** | *win by default* |
+| :flushed: | 3 | **5** | **Justice for Riko** | [#1](https://osu.ppy.sh/community/matches/58843266) |
+| **Futon's Bunker** | **5** | 0 | Shaiden fanclub | [#1](https://osu.ppy.sh/community/matches/58848110) |
+| **安倍-プーチン** | **5** | 3 | Donne moi une minute | [#1](https://osu.ppy.sh/community/matches/58849789) |
+| Ricky Montgomery | 2 | **5** | **Rtzero x Rtzer0** | [#1](https://osu.ppy.sh/community/matches/58854214) |
+| Suce | 4 | **5** | **magblood debil** | [#1](https://osu.ppy.sh/community/matches/58854233) |
+| BloodTrail | 0 | **5** | **Corim's Bad Dream** | [#1](https://osu.ppy.sh/community/matches/58858784) |
+| rooGya | 0 | **5** | **N** | [#1](https://osu.ppy.sh/community/matches/58860821) |
+| Farewell authorise | 2 | **5** | **a la verga** | [#1](https://osu.ppy.sh/community/matches/58860145) |
+
 ### Qualifiers
 
 | Seed | Team | Average |
