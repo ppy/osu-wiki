@@ -105,6 +105,25 @@ The 4 Digit osu!mania World Cup 2 is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the map pack here! (88 MB)](https://puu.sh/FfWVG/063f62c285.zip)**
+
+- FreeMod
+  - [AAAA - Hoshizora no Kanransha (Len) \[LeiN-'s 4K Insane\]](https://osu.ppy.sh/beatmapsets/877047#mania/1837281)
+  - [Renard - Dash Hopes II (\[Crz\]Crysarlene) \[Easy\]](https://osu.ppy.sh/beatmapsets/1117749#mania/2334906)
+  - [The Flashbulb - Ant IDM (Vortex-) \[The Antbulb\]](https://osu.ppy.sh/beatmapsets/1069279#mania/2243617)
+  - [Frequent - Lucid (feat. Jan Amit) (Elekton) \[lull\]](https://osu.ppy.sh/beatmapsets/901710#mania/1882727)
+  - [Breakbot - Baby I'm Yours feat. Irfane (Curiossity) \[Listen baby\]](https://osu.ppy.sh/beatmapsets/881430#mania/1842950)
+  - [Veil of Maya - Mikasa (Shoegazer) \[Salvation\]](https://osu.ppy.sh/beatmapsets/828101#mania/1735096)
+  - [ARM feat.Nicole Curry - Come to Life (HowToPlayLN) \[Inspiration\]](https://osu.ppy.sh/beatmapsets/1117755#mania/2334914)
+  - [96Neko - Paintings? Oh, yeah. (juankristal) \[PaiLNfull\]](https://osu.ppy.sh/beatmapsets/516224#mania/1103346)
+  - [Kanae Shinjou(CV: Suzuko Mimori) - Fatto shite Tougenkyou (inteliser) \[GRAND \[LN\]\]](https://osu.ppy.sh/beatmapsets/850458#mania/1778113)
+  - [q/stol - LOVE THIS MOMENT (RuleBlazing) \[Night Club\]](https://osu.ppy.sh/beatmapsets/1117809#mania/2335013)
+  - [The Tech Thieves - Fake (Erkfir) \[Faked It (Edit)\]](https://osu.ppy.sh/beatmapsets/1048516#mania/2259015)
+- Tiebreaker
+  - **[Camellia - farewell to today (-mint-) \[sayonara\]](https://osu.ppy.sh/beatmapsets/1114788#mania/2333692)**
+
 ### Round of 16
 
 **[Download the map pack here! (83 MB)](https://puu.sh/Fdtx1/bd12368c8b.zip)**
