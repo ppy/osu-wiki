@@ -199,6 +199,7 @@ Saturday, 29 February 2020:
 | **Voprossoff Fanclub** | **5** | 4 | SS Squad (and ruyu) | [#1](https://osu.ppy.sh/community/matches/58820338) |
 | Stavros1435 | 2 | **5** | **Urushihara Fan Club** | [#1](https://osu.ppy.sh/community/matches/58822310) |
 | team name #2 | 0 | **5** | **Hyouri Ittai** | [#1](https://osu.ppy.sh/community/matches/58825886) |
+| yayo | -1 | **0** | **Dziadzia team** | *win by default* |
 
 Sunday, 1 March 2020:
 
