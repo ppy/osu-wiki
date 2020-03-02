@@ -51,6 +51,7 @@ The osu! TV Size Tournament 2020 is run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1019183)
 - [otst! Discord server](https://discord.gg/5URXJxU)
 - [Livestream](https://twitch.tv/osu_otst)
+- [Challonge brackets](https://challonge.com/otst2020)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1zjexa3x7jvLDt9pc-kdcakJ3AIfRwjy1AJ2qkskD7eE/edit?usp=sharing)**
 
 ## Participants
