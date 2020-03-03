@@ -195,7 +195,7 @@ Saturday, 29 February 2020:
 | **IHATETAIKO** | **5** | 4 | Team 6 | [#1](https://osu.ppy.sh/community/matches/58804703) |
 | **Team 26** | **5** | 1 | Froot Loopy | [#1](https://osu.ppy.sh/community/matches/58807137) |
 | **Break4** | **5** | 3 | 6th Sense | [#1](https://osu.ppy.sh/community/matches/58813736) |
-| **Spaghetti Protectors** | **5** | 0 | BlackJack | - |
+| **Spaghetti Protectors** | **5** | 0 | BlackJack | [#1](https://osu.ppy.sh/community/matches/58812419) |
 | **chocobo** | **5** | 4 | 1 | [#1](https://osu.ppy.sh/community/matches/58813847) |
 | **4:3 gang** | **5** | 2 | Donjinshi | [#1](https://osu.ppy.sh/community/matches/58814987) |
 | Geki Force | 4 | **5** | **Team 5** | [#1](https://osu.ppy.sh/community/matches/58815022) |
