@@ -105,6 +105,25 @@ The 4 Digit osu!mania World Cup 2 is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the map pack here! (88 MB)](https://puu.sh/FfWVG/063f62c285.zip)**
+
+- FreeMod
+  - [AAAA - Hoshizora no Kanransha (Len) \[LeiN-'s 4K Insane\]](https://osu.ppy.sh/beatmapsets/877047#mania/1837281)
+  - [Renard - Dash Hopes II (\[Crz\]Crysarlene) \[Easy\]](https://osu.ppy.sh/beatmapsets/1117749#mania/2334906)
+  - [The Flashbulb - Ant IDM (Vortex-) \[The Antbulb\]](https://osu.ppy.sh/beatmapsets/1069279#mania/2243617)
+  - [Frequent - Lucid (feat. Jan Amit) (Elekton) \[lull\]](https://osu.ppy.sh/beatmapsets/901710#mania/1882727)
+  - [Breakbot - Baby I'm Yours feat. Irfane (Curiossity) \[Listen baby\]](https://osu.ppy.sh/beatmapsets/881430#mania/1842950)
+  - [Veil of Maya - Mikasa (Shoegazer) \[Salvation\]](https://osu.ppy.sh/beatmapsets/828101#mania/1735096)
+  - [ARM feat.Nicole Curry - Come to Life (HowToPlayLN) \[Inspiration\]](https://osu.ppy.sh/beatmapsets/1117755#mania/2334914)
+  - [96Neko - Paintings? Oh, yeah. (juankristal) \[PaiLNfull\]](https://osu.ppy.sh/beatmapsets/516224#mania/1103346)
+  - [Kanae Shinjou(CV: Suzuko Mimori) - Fatto shite Tougenkyou (inteliser) \[GRAND \[LN\]\]](https://osu.ppy.sh/beatmapsets/850458#mania/1778113)
+  - [q/stol - LOVE THIS MOMENT (RuleBlazing) \[Night Club\]](https://osu.ppy.sh/beatmapsets/1117809#mania/2335013)
+  - [The Tech Thieves - Fake (Erkfir) \[Faked It (Edit)\]](https://osu.ppy.sh/beatmapsets/1048516#mania/2259015)
+- Tiebreaker
+  - **[Camellia - farewell to today (-mint-) \[sayonara\]](https://osu.ppy.sh/beatmapsets/1114788#mania/2333692)**
+
 ### Round of 16
 
 **[Download the map pack here! (83 MB)](https://puu.sh/Fdtx1/bd12368c8b.zip)**
@@ -149,11 +168,31 @@ The 4 Digit osu!mania World Cup 2 is run by various community members.
 
 ## Match results
 
+### Round of 16
+
+Saturday, 29 February 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States A** ![][flag_US] | **5** | 0 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/58805762) |
+| South Korea ![][flag_KR] | 3 | **5** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/58813692) |
+| **Thailand** ![][flag_TH] | **5** | 2 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/58815194) |
+| **Philippines** ![][flag_PH] | **5** | 4 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/58816759) |
+
+Sunday, 1 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Argentina** ![][flag_AR] | **5** | 2 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/58832795) |
+| Singapore ![][flag_SG] | 3 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/58844085) |
+| **Russian Federation** ![][flag_RU] | **5** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/mp/58851567) |
+| **France** ![][flag_FR] | **5** | 2 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/58853975) |
+
 ### Group Stage
 
 Saturday, 22 February 2020:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Australia ![][flag_AU] | 0 | **4** | ![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/58634132) |
 | Switzerland ![][flag_CH] | 0 | **4** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/58635800) |
@@ -167,7 +206,7 @@ Saturday, 22 February 2020:
 
 Sunday, 23 February 2020:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | South Korea ![][flag_KR] | 3 | **4** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/58656163) |
 | **United States** ![][flag_US] | **4** | 0 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/58658942) |
@@ -184,13 +223,13 @@ Sunday, 23 February 2020:
 
 Monday, 24 February 2020:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Spain ![][flag_ES] | 0 | **4** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/58697212) |
 
 Tuesday, 25 February 2020:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Malaysia ![][flag_MY] | 2 | **4** | ![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/58717706) |
 | Netherlands ![][flag_NL] | 1 | **4** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/58726479) |
