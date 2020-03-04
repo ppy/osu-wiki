@@ -16,7 +16,7 @@ Before diving into the details, we can't forget about voting for last month's co
 
 With the novelty of "Wow! New mapping contest!" out of the way, February's contest received **50 submissions**, which our team of experienced beatmappers shaved down to **10 finalists**. Your job is to decide the winner by voting for your **3 favourite submissions**!
 
-**[Vote for last month's contest HERE!](https://osu.ppy.sh/community/contests/89)** Results will be published in 2 weeks.
+[**Vote for last month's contest HERE!**](https://osu.ppy.sh/community/contests/89) Results will be published in 2 weeks.
 
 Anyway, onto March's contest!
 
@@ -24,7 +24,7 @@ Anyway, onto March's contest!
 
 As per usual, the timeline for this month's contest is as follows:
 
-- **Beatmapping (3 weeks, ends March 24th):** Contest is announced and beatmappers create their entries.
+- **Beatmapping (3 weeks, ends March 26th):** Contest is announced and beatmappers create their entries.
 - **Screening (1 week):** Entries are evaluated by experienced beatmappers.
 - **Voting (2 weeks):** Top entries from screening are published for the osu! community to vote on. This overlaps with the next month's beatmapping portion.
 - **Rewards:** Winners are announced and prizes are redeemed, including profile badges, osu!supporter, and the *Elite Mapper* user title!
