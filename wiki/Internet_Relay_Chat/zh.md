@@ -1,91 +1,80 @@
 ---
-outdated: true
+needs_cleanup: true
 ---
 
 # 什么是互联网中继聊天?
 
-[互联网中继聊天](http://zh.wikipedia.org/wiki/IRC), 简称IRC, 是一种用于群体聊天的协议.
+[互联网中继聊天](http://zh.wikipedia.org/wiki/IRC), 简称 IRC, 是一个非常完善且标准化的用于群体聊天的协议。
 
-<center>
-</center>
-# osu! 聊天
+## osu!Bancho
 
-osu! 使用IRC协议进行[游戏内聊天](ZH:Chat_Console "wikilink")([英文:Chat Console](Chat_Console "wikilink"). 通过其他的IRC客户端,你可以不打开osu!即可和你的好友聊天. 注意osu! Bancho使用的IRC协议并不是标准的IRC协议,因此某些IRC客户端在osu! Bancho上可能无法正常运行.
+osu!Bancho 提供了用于访问基于 IRC 的游戏内聊天的入口。你可以使用你自己的 IRC 客户端连接 osu!Bancho 并和其他玩家聊天，而不需要启动 osu!。请注意，该 IRC 协议并非标准的 IRC 协议，有些客户端的功能可能无法协同 osu!Bancho 正常运作。
 
-**注意: 已知[HexChat](http://hexchat.github.io/)连接osu! Bancho时会发生一些问题 .**([这里是Github上的issue](http://github.com/hexchat/hexchat/issues/818)), 如果这个问题很恼人的话,考虑换一个客户端.
+**注意: 已知 [HexChat](http://hexchat.github.io/) 连接 osu!Bancho 时会发生一些问题。**（[可以查看 GitHub 上 HexChat 相关的错误报告](http://github.com/hexchat/hexchat/issues/818)）, 如果这个问题很恼人的话，考虑换一个客户端。（译注：这个 issue 早已被标记为 Closed，很可能问题发生的概率已经降低）
 
 ## 如何连接
 
-通过你的IRC客户端连接到[cho.ppy.sh](irc://cho.ppy.sh) 或 [irc.ppy.sh](irc://irc.ppy.sh) (两个是相同的主机) ,端口为IRC默认端口6667,昵称(nickname)是你的osu!用户名.
+拥有了 IRC 客户端之后，你需要进行服务器设置。
 
-## 在Bancho上验证
+- **服务器**：`irc.ppy.sh`
+- **端口**：`6667`（默认值）
+- **用户名**：你的 osu! 用户名，如果包含空格则需要用下划线 `_` 来替换空格字符。
+- **密码**：在 [IRC 认证页面](https://osu.ppy.sh/p/irc)获取。
 
-当你连接上时会弹出下面的消息.
+*你的 IRC 密码不同于 osu! 账户的密码。**不要将密码分享给他人**！*
 
-`* Welcome to osu!bancho.`
-`* -`
-`* - You are required to authenticate before accessing this service.`
-`* - Please click the following link to complete this process:`
+## 基本的 IRC 命令
 
-点击链接中的URL，你会看到一个"Authorise IRC connection" 按钮，点击以后，你会完成认证并加入到 [\#osu](irc://cho.ppy.sh/osu).
+| 命令                | 描述                       |
+| :------------------ | :------------------------- |
+| `/join <#频道名称>` | 加入指定频道               |
+| `/part <#频道名称>` | 离开指定频道               |
+| `/me <动作消息>`    | 以第三人称发送消息         |
+| `/ignore <用户名>`  | 忽视用户（隐藏用户的消息） |
 
-或者，将密码输入到你的IRC客户端中，完成认证。
+## 禁用加入 / 退出频道通知
 
-如果你不愿意每一次都这样认证的话，在你IRC客户端中输入你获得的密码作为密码。
+知道有玩家进入或退出了频道确实是个好事，但是对于 `#osu` 这种非常繁忙的频道来说，过多的进入 / 退出提示会导致你无法正常阅读消息。因此我们建议你关闭进入 / 退出提示。
 
-记住： **不要把你的IRC密码交给任何人。**
+```
+[17:46] * lauripihl (cho@ppy.sh) has left #lobby
+[17:46] * Kastun (cho@ppy.sh) has joined #lobby
+[17:46] * AuReL (cho@ppy.sh) has joined #lobby
+[17:46] * osukd (cho@ppy.sh) has joined #lobby
+[17:46] * BreadTooGood (cho@ppy.sh) has joined #lobby
+[17:46] * keanyew18 (cho@ppy.sh) has joined #lobby
+[17:46] * JaKox (cho@ppy.sh) has joined #lobby
+[17:46] * Kerantor (cho@ppy.sh) has joined #lobby
+```
 
-# 基本的IRC命令
+### 常见 IRC 客户端的禁用方法
 
-| 描述                    | 操作               |
-|-------------------------|--------------------|
-| 加入频道 (例如 \#lobby) | /join \#频道名称   |
-| 离开频道l               | /part              |
-| 忽略某人的发言          | /ignore 那人的昵称 |
-| 做些动作                | /me 做些动作       |
+| IRC 客户端                                | 描述 |
+| :---------------------------------------- | :--- |
+| [HexChat](http://hexchat.github.io/)      | 点击 `设置` - `首选项` ，在 `聊天` - `通用` 界面下勾选 `隐藏加入/退出消息` |
+| [ircII](http://www.eterna.com.au/ircii/)  | 在聊天框输入 `/ignore * crap` 回车  |
+| [Irssi](http://www.irssi.org)             | 在聊天框中输入 `/ignore -channels #somechannel * JOINS PARTS QUITS` 回车  |
+| [Weechat](http://www.weechat.org)         | 在聊天框中输入 `/filter add irc_smart_weechat irc.用户名.#channel irc_smart_filter *`  回车。<br/> **注意：**你需要将 `用户名` 替换成你自己的 osu! 用户名。 |
+| [KVIrc](http://www.kvirc.net)             | 浏览官方论坛的[这个帖子](http://www.kvirc.ru/forum/?topic=609.0)以获取详细信息。   |
+| [mIRC](http://www.mirc.com/)              | 前往 mIRC 设置（工具 - 选项，或者按下 Alt + O），在 IRC 子选项下点击 “Events...” 按钮，并将 “Joins and Parts” 调整为 “Hide”。|
+| [Quassel IRC](http://www.quassel-irc.org) | 右键单击聊天窗口，选择 Hide Events » Join/Part/Quit 。|
+| [XChat](http://www.xchat.org)             | 在聊天框中输入 `/set irc_conf_mode 1` 回车（或者使用[这个方法](http://xchat.org/faq/#q211)来让设置仅对特定频道生效。|
 
-# 停用加入/退出频道通知
+如果你的 IRC 客户端不在本列表中，请参考 IRC 客户端的文档。绝大多数客户端都可以进行这中操作。
 
-当有人加入或退出频道时，你会收到这样的通知:
+## 常见问题
 
-`someuser has joined #somechannel`
-`someuser has quit #somechannel`
+### 发生了错误 "Bad Authentication Token"。 我该怎么办?
 
-尽管在某些低流量的频道中这不是什么，但对于\#osu频道来说，频繁的加入和退出通知会让用户难以追踪最近的消息。
+1. 检查你使用的密码是否和 [IRC Authentication](https://osu.ppy.sh/p/irc) 页面上的一致。
+2. 如果你的用户名中有空格，用下划线替代它（举个例子，**This Username** 应该是 **This\_Username**）。
 
-## 操作方法
-
-| 客户端                                    | 操作                                                                                                                                                                                                                                                                     |
-|-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [HexChat](http://hexchat.github.io/)      | a. 右键单击某一频道，在设置子选单中，点击"Hide Join/Part Messages"  
-
-                                             b. 前往 Settings » Preferences, 在 Chatting » General中 , 勾选 "Hide join and part Messages"                                                                                                                                                                              |
-| [ircII](http://www.eterna.com.au/ircii/)  | /ignore \* crap                                                                                                                                                                                                                                                          |
-| [Irssi](http://www.irssi.org)             | /ignore -channels \#频道名称\* JOINS PARTS QUITS                                                                                                                                                                                                                         |
-| [Weechat](http://www.weechat.org)         | /filter add irc\_smart\_weechat irc.somename.\#频道名称l irc\_smart\_filter \*  
-
-                                             **Note:** somename是你在Weechat中定义的irc服务器地址.                                                                                                                                                                                                                     |
-| [KVIrc](http://www.kvirc.net)             | 参阅[KVIrc论坛上的信息](http://www.kvirc.ru/forum/?topic=609.0) .                                                                                                                                                                                                        |
-| [mIRC](http://www.mirc.com/)              | Tools » Options » pick "IRC". Click the "Events..." button. Change the "joins", "parts", "quits", and "nicks" to your desired settings: "In Status" or "Hide" are good options [1](http://i.clintecker.com/disable-irc-msgs.html).                                       |
-| [Quassel IRC](http://www.quassel-irc.org) | 右键点击聊天窗口 ，选择Hide Events » Join/Part/Quit.                                                                                                                                                                                                                     |
-| [XChat](http://www.xchat.org)             | Right-click on the tab you want to change. In the submenu of the channelname, there's a toggle-item "Show join/part messages", simply turn this off. Or you type /set irc\_conf\_mode 1 [2](http://xchat.org/faq/#q211) to disable the messages throughout the channels. |
-
-其他的IRC客户端用户可以参阅对应客户端的文档。
-
-# 常见问题
-
-## 发生了错误 "Bad Authentication Token". 我该怎么办?
-
-1. 检查你使用的密码是否和 [IRC Authentication](https://osu.ppy.sh/p/irc) 页面上的一致.
-
-2. 如果你的用户名中有空格，用下划线替代它 (**This Username** 应该是 **This\_Username**)
-
-## 我能使用其他的昵称么?
+### 我能使用其他的昵称么?
 
 不能，你必须使用你游戏中的用户名。
 
-## 我在某些人的名字前看到了voice状态，那是什么？
+### 我发现我和一些人的名字旁边有 voice 状态，那是什么？
 
-voice状态（名字前面有一个“+”）的用户是通过IRC客户端连接的用户，（除了IRC管理员，他们的名字前有一个“@”）。
+voice 状态（名字前面有一个 “+” ）的用户是通过 IRC 客户端连接的用户。频道管理员是个例外，不管他们用什么客户端，他们始终会有一个管理员 *(+o)* 状态。
 
-名字前没有前缀的用户是通过游戏连接到osu! Bancho 的用户。
+名字前没有前缀的用户是通过游戏连接到 osu!Bancho的用户。
