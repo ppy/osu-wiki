@@ -202,9 +202,9 @@ The osu! TV Size Tournament 2020 is run by various community members.
 | #44 | Wuhan | 20.76% |
 | #45 | Kirby's | 15.99% |
 
-- More detailed qualifiers result can be accessed via the statistics sheet under the [#links](#links) category
+- More detailed qualifiers results can be accessed via the [statistics sheet](https://docs.google.com/spreadsheets/d/1zjexa3x7jvLDt9pc-kdcakJ3AIfRwjy1AJ2qkskD7eE/edit#gid=1899100973)
 - Rate is determined by `1 - (max avg. score - team avg. score) / (99.5th percentile of all scores) ^ 1.3`
-- Only the top 32 team can proceed to the knockout stage
+- Only the top 32 teams can proceed to the knockout stage
 
 ## Ruleset
 
