@@ -191,7 +191,6 @@ The osu!taiko World Cup 2020 is run by various community members.
 4. Match schedule will be settled by the Tournament Management (see above).
 5. If no staff or referee is available, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
-   - Reviving and surviving during a map gets considered as passing it.
 7. Use of the Visual Settings to alter background dim or disable map elements like storyboards and skins are allowed.
 8. If the beatmap ends in a draw, the game will be nullified.
    - If a game is nullified the beatmap will be replayed.
@@ -205,7 +204,7 @@ The osu!taiko World Cup 2020 is run by various community members.
 13. Lag is not a valid reason to nullify a beatmap.
 14. All players are supposed to keep the match running fluent and without delays. Excessive match delays coming from the player's side can be issued with penalties.
 15. If a player disconnects between the beatmaps and the team can not provide an exchange, the match can be delayed 10 minutes at maximum.
-16. All players and referees must to be treated with respect. Instructions of the referees and tournament management is to be followed. Decisions labeled as final are not to be objected.
+16. All players and referees must be treated with respect. Instructions of the referees and tournament management is to be followed. Decisions labeled as final are not to be objected.
 17. Disrupting the match by foul play, picking inappropriate warmup maps (see below), insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
 18. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
     - Breaking the chat rules results in a silence. Silenced players can not participate at multiplayer matches and must be exchanged for the time being.
