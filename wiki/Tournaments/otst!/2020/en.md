@@ -51,6 +51,7 @@ The osu! TV Size Tournament 2020 is run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1019183)
 - [otst! Discord server](https://discord.gg/5URXJxU)
 - [Livestream](https://twitch.tv/osu_otst)
+- [Challonge brackets](https://challonge.com/otst2020)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1zjexa3x7jvLDt9pc-kdcakJ3AIfRwjy1AJ2qkskD7eE/edit?usp=sharing)**
 
 ## Participants
@@ -62,11 +63,11 @@ The osu! TV Size Tournament 2020 is run by various community members.
 | **BRATVA I KOLCO** | **![][flag_RU] [V4RCH](https://osu.ppy.sh/users/5799627)**, ![][flag_RU] [Avernus](https://osu.ppy.sh/users/4405325), ![][flag_RU] [Dizick](https://osu.ppy.sh/users/5014197), ![][flag_RU] [Enns](https://osu.ppy.sh/users/6375834), ![][flag_RU] [Alumetri](https://osu.ppy.sh/users/5371497), ![][flag_RU] [Gasha](https://osu.ppy.sh/users/7192129), ![][flag_RU] [SadnessWillSear](https://osu.ppy.sh/users/6591496), ![][flag_RU] [follon](https://osu.ppy.sh/users/3973474) |
 | **CatGirlClub** | **![][flag_PL] [ZjepOwOfficial](https://osu.ppy.sh/users/9328661)**, ![][flag_US] [Raoul](https://osu.ppy.sh/users/9924405), ![][flag_PL] [-Kubelele-](https://osu.ppy.sh/users/10912541), ![][flag_FI] [FinnHeppu](https://osu.ppy.sh/users/9608930), ![][flag_PL] [My Angel Teluu](https://osu.ppy.sh/users/4990524), ![][flag_FR] [calangi](https://osu.ppy.sh/users/7810180) |
 | **china** | **![][flag_BR] [My Angelsim](https://osu.ppy.sh/users/3149577)**, ![][flag_CN] [MyAngelMiku](https://osu.ppy.sh/users/7025429), ![][flag_CA] [ThePro365](https://osu.ppy.sh/users/4415285), ![][flag_HK] [TiRa](https://osu.ppy.sh/users/9697769), ![][flag_CA] [Too Slow](https://osu.ppy.sh/users/2944449), ![][flag_CA] [nanawo](https://osu.ppy.sh/users/5426640), ![][flag_CA] [Eddie-](https://osu.ppy.sh/users/3898396), ![][flag_CA] [Distracted](https://osu.ppy.sh/users/5586567) |
-| **Civil Warriors** | **![][flag_AR] [zxeroxz](https://osu.ppy.sh/users/5792223)**, ![][flag_US] [Mechaa](https://osu.ppy.sh/users/13720351), ![][flag_US] [Tikka](https://osu.ppy.sh/users/8033294), ![][flag_US] [Kurumi-](https://osu.ppy.sh/users/13202574), ![][flag_IL] [Force](https://osu.ppy.sh/users/12916757), ![][flag_CR] [\_Castle](https://osu.ppy.sh/users/11847767), ![][flag_TR] [Phos](https://osu.ppy.sh/users/9913979), ![][flag_AU] [Thewiccaman](https://osu.ppy.sh/users/10847787) |
-| **Couchers** | **![][flag_SE] [\[ Couch \]](https://osu.ppy.sh/users/2854598)**, ![][flag_SE] [Andros](https://osu.ppy.sh/users/9072586), ![][flag_SE] [ExLuck](https://osu.ppy.sh/users/10448438), ![][flag_SE] [fcuk](https://osu.ppy.sh/users/4844909), ![][flag_SE] [FlySlime](https://osu.ppy.sh/users/3876402), ![][flag_SE] [\[ Frost \]](https://osu.ppy.sh/users/3823708), ![][flag_SE] [Klappy](https://osu.ppy.sh/users/5098752), ![][flag_NO] [Matboksen](https://osu.ppy.sh/users/4475158) |
-| **cute gamer girls** | **![][flag_US] [taimashi](https://osu.ppy.sh/users/14375569)**, ![][flag_US] [Nepped](https://osu.ppy.sh/users/10798799), ![][flag_DE] [sherry \[ayaya\]](https://osu.ppy.sh/users/12988907), ![][flag_US] [\[toy\]Is our boy](https://osu.ppy.sh/users/7512553), ![][flag_US] [Pristine Toast](https://osu.ppy.sh/users/12324616), ![][flag_US] [Taiyo](https://osu.ppy.sh/users/11685350), ![][flag_US] [tamaki](https://osu.ppy.sh/users/11151214), ![][flag_US] [Xpekade](https://osu.ppy.sh/users/10775293) |
+| **Civil Warriors** | **![][flag_AR] [zxeroxz](https://osu.ppy.sh/users/5792223)**, ![][flag_US] [Mechaa](https://osu.ppy.sh/users/13720351), ![][flag_US] [Tikka](https://osu.ppy.sh/users/8033294), ![][flag_US] [Kurumi-](https://osu.ppy.sh/users/13202574), ![][flag_IL] [Force](https://osu.ppy.sh/users/12916757), ![][flag_TR] [Phos](https://osu.ppy.sh/users/9913979), ![][flag_AU] [Thewiccaman](https://osu.ppy.sh/users/10847787) |
+| **Couchers** | **![][flag_SE] [\[ Couch \]](https://osu.ppy.sh/users/2854598)**, ![][flag_SE] [Andros](https://osu.ppy.sh/users/9072586), ![][flag_SE] [ExLuck](https://osu.ppy.sh/users/10448438), ![][flag_SE] [fcuk](https://osu.ppy.sh/users/4844909), ![][flag_SE] [FlySlime](https://osu.ppy.sh/users/3876402), ![][flag_SE] [\[ Frost \]](https://osu.ppy.sh/users/3823708), ![][flag_SE] [Klappy](https://osu.ppy.sh/users/5098752) |
+| **cute gamer girls** | **![][flag_US] [\[toy\]Is our boy](https://osu.ppy.sh/users/7512553)**, ![][flag_US] [Nepped](https://osu.ppy.sh/users/10798799), ![][flag_DE] [sherry \[ayaya\]](https://osu.ppy.sh/users/12988907), ![][flag_US] [Pristine Toast](https://osu.ppy.sh/users/12324616), ![][flag_US] [Taiyo](https://osu.ppy.sh/users/11685350), ![][flag_US] [tamaki](https://osu.ppy.sh/users/11151214), ![][flag_US] [Xpekade](https://osu.ppy.sh/users/10775293) |
 | **Floating up** | **![][flag_KR] [Gomo Pslvarh](https://osu.ppy.sh/users/1206417)**, ![][flag_KR] [FlyingTuna](https://osu.ppy.sh/users/9224078), ![][flag_KR] [Aristia](https://osu.ppy.sh/users/3478883), ![][flag_KR] [Mya2](https://osu.ppy.sh/users/7302146), ![][flag_IT] [Koba](https://osu.ppy.sh/users/4448118), ![][flag_KR] [Karuna](https://osu.ppy.sh/users/8775024), ![][flag_KR] [Zeisen-](https://osu.ppy.sh/users/7892320), ![][flag_KR] [Ponytail](https://osu.ppy.sh/users/1516650) |
-| **Freezbiecarry** | **![][flag_FR] [-Sinq-](https://osu.ppy.sh/users/5190920)**, ![][flag_FR] [Kazega](https://osu.ppy.sh/users/8086172), ![][flag_FR] [Mhaks](https://osu.ppy.sh/users/13781206), ![][flag_FR] [Freezbie](https://osu.ppy.sh/users/7617478), ![][flag_FR] [-Senkuu-](https://osu.ppy.sh/users/14194627), ![][flag_CA] [Phycoz](https://osu.ppy.sh/users/5072078) |
+| **Freezbiecarry** | **![][flag_FR] [-Sinq-](https://osu.ppy.sh/users/5190920)**, ![][flag_FR] [Kazega](https://osu.ppy.sh/users/8086172), ![][flag_FR] [Mhaks](https://osu.ppy.sh/users/13781206), ![][flag_FR] [Freezbie](https://osu.ppy.sh/users/7617478), ![][flag_CA] [Phycoz](https://osu.ppy.sh/users/5072078) |
 | **Fruteria Manoli** | **![][flag_ES] [caspi99](https://osu.ppy.sh/users/7610747)**, ![][flag_ES] [DrakoJ](https://osu.ppy.sh/users/11645092), ![][flag_ES] [BrygantiuM](https://osu.ppy.sh/users/4143487), ![][flag_ES] [Copri](https://osu.ppy.sh/users/8467741), ![][flag_ES] [A N T O N I O](https://osu.ppy.sh/users/12760743), ![][flag_ES] [Franleon86](https://osu.ppy.sh/users/4839479), ![][flag_ES] [NotHans](https://osu.ppy.sh/users/9551773), ![][flag_ES] [ImMyyrh](https://osu.ppy.sh/users/6433319) |
 | **GermHolk** | **![][flag_DE] [Gracidea](https://osu.ppy.sh/users/6254279)**, ![][flag_DE] [HellReyza](https://osu.ppy.sh/users/11159392), ![][flag_DE] [Loozy](https://osu.ppy.sh/users/8886396), ![][flag_DE] [Iceru](https://osu.ppy.sh/users/13307832), ![][flag_DE] [Emre1504](https://osu.ppy.sh/users/13392709), ![][flag_DE] [- Sandy](https://osu.ppy.sh/users/11954090) |
 | **GrandMaineAngers** | **![][flag_FR] [Hino](https://osu.ppy.sh/users/2052511)**, ![][flag_FR] [Okatsu\_k](https://osu.ppy.sh/users/4862580), ![][flag_FR] [Skyo](https://osu.ppy.sh/users/3946607), ![][flag_FR] [Thundur](https://osu.ppy.sh/users/4141918), ![][flag_FR] [Wrys](https://osu.ppy.sh/users/3093139), ![][flag_FR] [Chernobog](https://osu.ppy.sh/users/3317042), ![][flag_FR] [Ariu](https://osu.ppy.sh/users/8929394), ![][flag_FR] [LogicSystem](https://osu.ppy.sh/users/7622097) |
@@ -105,9 +106,35 @@ The osu! TV Size Tournament 2020 is run by various community members.
 
 ## Mappools
 
+### Round of 32
+
+**[Download the mappack here! (62 MB)](https://drive.google.com/file/d/1Qkccr-FZRjsEdh8S_4-0-TODlbtjWZrW/view)**
+
+- NoMod
+  - [Coda - Fighting Gold (TV Size) (hypercyte) \[Gold Experience\]](https://osu.ppy.sh/beatmapsets/862547#osu/1804239)
+  - [Rche - Todestrieb (FrenZ396) \[Dementation's Extra\]](https://osu.ppy.sh/beatmapsets/968678#osu/2031188)
+  - [Co shu Nie - ZETTAI ZETSUMEI (TV Size) (Agatsu) \[Despair\]](https://osu.ppy.sh/beatmapsets/924203#osu/1930332)
+  - [Nekomata Master+ - Funny shuffle (lcfc) \[momoko's Extra\]](https://osu.ppy.sh/beatmapsets/692453#osu/1697753)
+- Hidden
+  - [Duoscience - Indifferences (Mir) \[Senseless\]](https://osu.ppy.sh/beatmapsets/722662#osu/1538480)
+  - [IOSYS - Hatate's Bakkoi Murder Case (Mafiamaster) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/19491#osu/68520)
+- HardRock
+  - [saradisk - 222 - wewewe (Nozhomi) \[Extra\]](https://osu.ppy.sh/beatmapsets/519986#osu/1104572)
+  - [Nekomata Master+ - squall (wa\_) \[Extreme\]](https://osu.ppy.sh/beatmapsets/85534#osu/234923)
+- DoubleTime
+  - [Nekomata Master - Scars of FAUNA (Ambient) \[ailv's Hard\]](https://osu.ppy.sh/beatmapsets/743685#osu/1618405)
+  - [Infected Mushroom - Pink Nightmares (RLC) \[Insane\]](https://osu.ppy.sh/beatmapsets/107639#osu/281977)
+- FreeMod
+  - [NormCore - Countdown (TV Size) (Smoke) \[BaAR's Expert\]](https://osu.ppy.sh/beatmapsets/887041#osu/2065803)
+  - [COOL&CREATE(BeatMario) - Destined Marionette (avira0922) \[14KEY\]](https://osu.ppy.sh/beatmapsets/8273#osu/40202)
+- Tiebreaker
+  - **[kamome sano Electric Orchestra - HE4VEN \~Tengoku e Youkoso\~ (Kawashiro) \[\[ -Scarlet- \]'s MAXIMUM\]](https://osu.ppy.sh/beatmapsets/597797#osu/1413421)**
+  - **[onoken - Quinine -A2D SIDE- (tsukamaete) \[Another\]](https://osu.ppy.sh/beatmapsets/12469#osu/47837)**
+  - **[M2U - A Bella! (feat. Lucy) (IceKalt) \[Doorbell\]](https://osu.ppy.sh/beatmapsets/799084#osu/1677854)**
+
 ### Qualifiers
 
-**[Download the mappack here! (36 MB)](https://drive.google.com/file/d/1YdFY-9jP9Iqntoim1sMKSr9j-ejpmFIb/view?usp=sharing)**
+**[Download the mappack here! (36 MB)](https://drive.google.com/file/d/1YdFY-9jP9Iqntoim1sMKSr9j-ejpmFIb/view)**
 
 - NoMod
   - [Sound Souler - Aqua Stars (Azzedd) \[Extra\]](https://osu.ppy.sh/beatmapsets/942425#osu/1967947)
@@ -122,6 +149,62 @@ The osu! TV Size Tournament 2020 is run by various community members.
 - DoubleTime
   - [IOSYS - Cirno no Perfect Sansuu Kyoushitsu (alacat) \[Insane\]](https://osu.ppy.sh/beatmapsets/392215#osu/952069)
   - [Primastella - Koigokoro (Luerxa) \[Delis' Insane\]](https://osu.ppy.sh/beatmapsets/127712#osu/323875)
+
+## Match results
+
+### Qualifiers
+
+| Seed | Team | Rate |
+| --: | :-- | --: |
+| #1 | Rubber Conquest | 97.92% |
+| #2 | will is 2 | 96.11% |
+| #3 | Floating up | 94.74% |
+| #4 | ＝ＹＡＨＥ | 92.55% |
+| #5 | Morello crew | 92.54% |
+| #6 | riuzaky homo | 91.04% |
+| #7 | seusbruk | 90.34% |
+| #8 | osim | 88.54% |
+| #9 | IshuzokuRebyuāzu | 86.23% |
+| #10 | Kangaroo | 85.32% |
+| #11 | Mirash Fanclub | 84.48% |
+| #12 | Old & Irrelevant | 84.38% |
+| #13 | BRATVA I KOLCO | 84.33% |
+| #14 | WE LOVE LWMF! | 83.46% |
+| #15 | Couchers | 83.27% |
+| #16 | osu stonehenge | 83.19% |
+| #17 | Sutiire | 82.26% |
+| #18 | Knuckles Batty | 82.05% |
+| #19 | GrandMaineAngers | 81.54% |
+| #20 | STOOF CLONES | 81.46% |
+| #21 | Laburar | 81.41% |
+| #22 | Pocket Galaxy | 79.15% |
+| #23 | KasuLewd | 78.93% |
+| #24 | o!CLWS大学赛冬季2020 | 78.86% |
+| #25 | china | 77.75% |
+| #26 | nakapagpabagabag | 76.51% |
+| #27 | Washingamers | 76.11% |
+| #28 | Pwzekaczkaòwó | 74.25% |
+| #29 | Smile and wave | 72.63% |
+| #30 | Mahloola | 70.71% |
+| #31 | Fruteria Manoli | 66.84% |
+| #32 | San Lorenzo | 65.76% |
+| #33 | ALTSOLUTE EPIC | 62.17% |
+| #34 | ill onion | 61.66% |
+| #35 | seis retrasados | 57.39% |
+| #36 | cute gamer girls | 56.35% |
+| #37 | Civil Warriors | 52.33% |
+| #38 | GermHolk | 51.75% |
+| #39 | OKDA? | 46.54% |
+| #40 | mumtazmc | 44.25% |
+| #41 | Freezbiecarry | 34.70% |
+| #42 | CatGirlClub | 32.03% |
+| #43 | TricotIsen | 25.99% |
+| #44 | Wuhan | 20.76% |
+| #45 | Kirby's | 15.99% |
+
+- More detailed qualifiers results can be accessed via the [statistics sheet](https://docs.google.com/spreadsheets/d/1zjexa3x7jvLDt9pc-kdcakJ3AIfRwjy1AJ2qkskD7eE/edit#gid=1899100973)
+- Rate is determined by `1 - (max avg. score - team avg. score) / (99.5th percentile of all scores) ^ 1.3`
+- Only the top 32 teams can proceed to the knockout stage
 
 ## Ruleset
 
@@ -185,7 +268,6 @@ The osu! TV Size Tournament 2020 is run by various community members.
 [flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_CR]: /wiki/shared/flag/CR.gif "Costa Rica"
 [flag_CZ]: /wiki/shared/flag/CZ.gif "Czech Republic"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
