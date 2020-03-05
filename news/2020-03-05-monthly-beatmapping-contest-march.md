@@ -105,7 +105,7 @@ Any entries breaking these rules will not be viable for the contest.
 
 ---
 
-That'll do it for this month! If you plan on participating, head to the [contest listing](https://osu.ppy.sh/community/contests/89) when you're ready to submit your entry. You have **3 weeks** until submissions close.
+That'll do it for this month! If you plan on participating, head to the [contest listing](https://osu.ppy.sh/community/contests/91) when you're ready to submit your entry. You have **3 weeks** until submissions close.
 
 And in case you still haven't yet, vote for the best 3 entries from last month's contest [here](https://osu.ppy.sh/community/contests/89)!
 
