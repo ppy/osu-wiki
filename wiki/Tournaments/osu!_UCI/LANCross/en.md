@@ -37,7 +37,7 @@ All prizes will be awarded to osu! and osu!mania winners.
 
 ## Organisation
 
-LANCross was run by various osu! community members at UCI or visiting for the event.
+LANCross will be run by various osu! community members at UCI or visiting for the event.
 
 | Position | Member(s) |
 | :-- | :-- |
