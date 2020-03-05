@@ -156,51 +156,51 @@ The osu! TV Size Tournament 2020 is run by various community members.
 
 | Seed | Team | Rate |
 | --: | :-- | --: |
-| #1 | Rubber Conquest | 97.9189% |
-| #2 | will is 2 | 96.1151% |
-| #3 | Floating up | 94.7395% |
-| #4 | ＝ＹＡＨＥ | 92.5453% |
-| #5 | Morello crew | 92.5359% |
-| #6 | riuzaky homo | 91.0424% |
-| #7 | seusbruk | 90.3382% |
-| #8 | osim | 88.5355% |
-| #9 | IshuzokuRebyuāzu | 86.2297% |
-| #10 | Kangaroo | 85.3179% |
-| #11 | Mirash Fanclub | 84.4794% |
-| #12 | Old & Irrelevant | 84.3795% |
-| #13 | BRATVA I KOLCO | 84.3278% |
-| #14 | WE LOVE LWMF! | 83.4577% |
-| #15 | Couchers | 83.2675% |
-| #16 | osu stonehenge | 83.1876% |
-| #17 | Sutiire | 82.2570% |
-| #18 | Knuckles Batty | 82.0482% |
-| #19 | GrandMaineAngers | 81.5396% |
-| #20 | STOOF CLONES | 81.4556% |
-| #21 | Laburar | 81.4121% |
-| #22 | Pocket Galaxy | 79.1497% |
-| #23 | KasuLewd | 78.9263% |
-| #24 | o!CLWS大学赛冬季2020 | 78.8615% |
-| #25 | china | 77.7496% |
-| #26 | nakapagpabagabag | 76.5067% |
-| #27 | Washingamers | 76.1080% |
-| #28 | Pwzekaczkaòwó | 74.2478% |
-| #29 | Smile and wave | 72.6293% |
-| #30 | Mahloola | 70.7132% |
-| #31 | Fruteria Manoli | 66.8449% |
-| #32 | San Lorenzo | 65.7638% |
-| #33 | ALTSOLUTE EPIC | 62.1742% |
-| #34 | ill onion | 61.6586% |
-| #35 | seis retrasados | 57.3875% |
-| #36 | cute gamer girls | 56.3495% |
-| #37 | Civil Warriors | 52.3256% |
-| #38 | GermHolk | 51.7461% |
-| #39 | OKDA? | 46.5387% |
-| #40 | mumtazmc | 44.2506% |
-| #41 | Freezbiecarry | 34.6961% |
-| #42 | CatGirlClub | 32.0336% |
-| #43 | TricotIsen | 25.9942% |
-| #44 | Wuhan | 20.7562% |
-| #45 | Kirby's | 15.9907% |
+| #1 | Rubber Conquest | 97.92% |
+| #2 | will is 2 | 96.11% |
+| #3 | Floating up | 94.74% |
+| #4 | ＝ＹＡＨＥ | 92.55% |
+| #5 | Morello crew | 92.54% |
+| #6 | riuzaky homo | 91.04% |
+| #7 | seusbruk | 90.34% |
+| #8 | osim | 88.54% |
+| #9 | IshuzokuRebyuāzu | 86.23% |
+| #10 | Kangaroo | 85.32% |
+| #11 | Mirash Fanclub | 84.48% |
+| #12 | Old & Irrelevant | 84.38% |
+| #13 | BRATVA I KOLCO | 84.33% |
+| #14 | WE LOVE LWMF! | 83.46% |
+| #15 | Couchers | 83.27% |
+| #16 | osu stonehenge | 83.19% |
+| #17 | Sutiire | 82.26% |
+| #18 | Knuckles Batty | 82.05% |
+| #19 | GrandMaineAngers | 81.54% |
+| #20 | STOOF CLONES | 81.46% |
+| #21 | Laburar | 81.41% |
+| #22 | Pocket Galaxy | 79.15% |
+| #23 | KasuLewd | 78.93% |
+| #24 | o!CLWS大学赛冬季2020 | 78.86% |
+| #25 | china | 77.75% |
+| #26 | nakapagpabagabag | 76.51% |
+| #27 | Washingamers | 76.11% |
+| #28 | Pwzekaczkaòwó | 74.25% |
+| #29 | Smile and wave | 72.63% |
+| #30 | Mahloola | 70.71% |
+| #31 | Fruteria Manoli | 66.84% |
+| #32 | San Lorenzo | 65.76% |
+| #33 | ALTSOLUTE EPIC | 62.17% |
+| #34 | ill onion | 61.66% |
+| #35 | seis retrasados | 57.39% |
+| #36 | cute gamer girls | 56.35% |
+| #37 | Civil Warriors | 52.33% |
+| #38 | GermHolk | 51.75% |
+| #39 | OKDA? | 46.54% |
+| #40 | mumtazmc | 44.25% |
+| #41 | Freezbiecarry | 34.70% |
+| #42 | CatGirlClub | 32.03% |
+| #43 | TricotIsen | 25.99% |
+| #44 | Wuhan | 20.76% |
+| #45 | Kirby's | 15.99% |
 
 - More detailed qualifiers result can be accessed via the statistics sheet under the [#links](#links) category
 - Rate is determined by `1 - (max avg. score - team avg. score) / (99.5th percentile of all scores) ^ 1.3`
