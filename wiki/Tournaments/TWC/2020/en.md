@@ -65,12 +65,12 @@ The osu!taiko World Cup 2020 is run by various community members.
 | ![][flag_CL] | **Chile** | **[MikuWRS](https://osu.ppy.sh/users/1619547)**, [Shiny Froakie](https://osu.ppy.sh/users/6194830), [Catulus](https://osu.ppy.sh/users/6276709), [ZzJeysonzZ](https://osu.ppy.sh/users/14793606), [daikiu](https://osu.ppy.sh/users/4232665) |
 | ![][flag_CN] | **China** | **[Wilben\_Chan](https://osu.ppy.sh/users/6659363)**, [kknegative](https://osu.ppy.sh/users/2349769), [superSSS](https://osu.ppy.sh/users/4315477), [puweijie](https://osu.ppy.sh/users/4845848), [Ookura Risona](https://osu.ppy.sh/users/2073644) |
 | ![][flag_CO] | **Colombia** | **[Xoretra](https://osu.ppy.sh/users/4940698)**, [Alex\_0724](https://osu.ppy.sh/users/6981083) |
-| ![][flag_FI] | **Finland** | **[duski](https://osu.ppy.sh/users/6506484)**, [gevbiivi5](https://osu.ppy.sh/users/7140680), [vodnanen](https://osu.ppy.sh/users/10335557), [aarokoo](https://osu.ppy.sh/users/4330939), [YERTI](https://osu.ppy.sh/users/1490757), [Taiko Bot](https://osu.ppy.sh/users/2176961) |
+| ![][flag_FI] | **Finland** | **[duski](https://osu.ppy.sh/users/6506484)**, [gevbiivi5](https://osu.ppy.sh/users/7140680), [vodnanen](https://osu.ppy.sh/users/10335557), [aarokoo](https://osu.ppy.sh/users/4330939), [YERTI](https://osu.ppy.sh/users/1490757) |
 | ![][flag_FR] | **France** | **[TimmyAkmed](https://osu.ppy.sh/users/1799973)**, [Yona](https://osu.ppy.sh/users/7930622), [BananaW](https://osu.ppy.sh/users/9298106), [Ectomic](https://osu.ppy.sh/users/4069690), [Briesmas](https://osu.ppy.sh/users/2865172) |
 | ![][flag_DE] | **Germany** | **[frz](https://osu.ppy.sh/u/6956922)**, [Mew](https://osu.ppy.sh/users/2345156), [Drecksackblase](https://osu.ppy.sh/users/6278008), [jleste](https://osu.ppy.sh/users/8275687), [Mikalodo](https://osu.ppy.sh/users/8498207) |
 | ![][flag_GR] | **Greece** | **[Genjuro](https://osu.ppy.sh/users/3196091)**, [KostPer](https://osu.ppy.sh/users/10584732) |
 | ![][flag_ID] | **Indonesia** | **[apaajaboleh10](https://osu.ppy.sh/users/5151647)**, [Kaemz](https://osu.ppy.sh/users/8494233), [Volta](https://osu.ppy.sh/users/4154071) |
-| ![][flag_IT] | **Italy** | **[Ikkun](https://osu.ppy.sh/users/1059945)**, [D3kuu](https://osu.ppy.sh/users/7807444), [coed](https://osu.ppy.sh/users/3716665), [A-40](https://osu.ppy.sh/users/14510301), [\[\_LordEnder\_\]](https://osu.ppy.sh/users/4609767) |
+| ![][flag_IT] | **Italy** | **[Ikkun](https://osu.ppy.sh/users/1059945)**, [D3kuu](https://osu.ppy.sh/users/7807444), [coed](https://osu.ppy.sh/users/3716665), [A-40](https://osu.ppy.sh/users/14510301), [LordEnder](https://osu.ppy.sh/users/4609767) |
 | ![][flag_JP] | **Japan** | **[iceOC](https://osu.ppy.sh/users/5482401)**, [ekumea1123](https://osu.ppy.sh/users/9119501), [kiyozi11](https://osu.ppy.sh/users/9551196), [Seren58](https://osu.ppy.sh/users/15252950), [uone](https://osu.ppy.sh/users/5321719) |
 | ![][flag_MY] | **Malaysia** | **[Xeltic Rival](https://osu.ppy.sh/users/7500364)**, [HHVanilla Ice](https://osu.ppy.sh/users/12803930), [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), [imnoobatosuosu](https://osu.ppy.sh/users/12086753), [Megumin-Sama](https://osu.ppy.sh/users/6201335) |
 | ![][flag_MX] | **Mexico** | **[Ammy](https://osu.ppy.sh/users/4183406)**, [Iojioji](https://osu.ppy.sh/users/1346121), [ZaveryK](https://osu.ppy.sh/users/10913397) |
@@ -98,58 +98,58 @@ The osu!taiko World Cup 2020 is run by various community members.
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | New Zealand | ![][flag_NZ] | ![][flag_GR] | Greece | **10:00 UTC** | 23:00 UTC+13 | 12:00 UTC+02 |
+| Poland | ![][flag_PL] | ![][flag_AU] | Australia | **10:00 UTC** | 11:00 UTC+01 | 21:00 UTC+11 |
 | South Korea | ![][flag_KR] | ![][flag_BE] | Belgium | **11:00 UTC** | 20:00 UTC+09 | 12:00 UTC+01 |
-| Poland | ![][flag_PL] | ![][flag_AU] | Australia | **11:00 UTC** | 12:00 UTC+01 | 22:00 UTC+11 |
-| Japan | ![][flag_JP] | ![][flag_AT] | Austria | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 |
-| South Korea | ![][flag_KR] | ![][flag_PT] | Portugal | **12:00 UTC** | 21:00 UTC+09 | 12:00 UTC-00 |
+| South Korea | ![][flag_KR] | ![][flag_PT] | Portugal | **12:00 UTC** | 21:00 UTC+09 | 12:00 UTC |
 | Taiwan | ![][flag_TW] | ![][flag_NL] | Netherlands | **12:00 UTC** | 20:00 UTC+08 | 13:00 UTC+01 |
 | Finland | ![][flag_FI] | ![][flag_ID] | Indonesia | **12:00 UTC** | 14:00 UTC+02 | 19:00 UTC+07 |
 | China | ![][flag_CN] | ![][flag_PH] | Philippines | **13:00 UTC** | 21:00 UTC+08 | 21:00 UTC+08 |
 | Italy | ![][flag_IT] | ![][flag_SG] | Singapore | **13:00 UTC** | 14:00 UTC+01 | 21:00 UTC+08 |
-| Russian Federation | ![][flag_RU] | ![][flag_MY] | Malaysia | **14:00 UTC** | 17:00 UTC+03 | 22:00 UTC+08 |
+| Poland | ![][flag_PL] | ![][flag_CO] | Colombia | **13:00 UTC** | 14:00 UTC+01 | 08:00 UTC-05 |
+| Russian Federation | ![][flag_RU] | ![][flag_MY] | Malaysia | **14:00 UTC** | 19:00 UTC+05 | 22:00 UTC+08 |
 | Germany | ![][flag_DE] | ![][flag_FI] | Finland | **14:00 UTC** | 15:00 UTC+01 | 16:00 UTC+02 |
 | France | ![][flag_FR] | ![][flag_AR] | Argentina | **16:00 UTC** | 17:00 UTC+01 | 13:00 UTC-03 |
 | Italy | ![][flag_IT] | ![][flag_CH] | Switzerland | **16:00 UTC** | 17:00 UTC+01 | 17:00 UTC+01 |
 | Sweden | ![][flag_SE] | ![][flag_GR] | Greece | **16:00 UTC** | 17:00 UTC+01 | 18:00 UTC+02 |
 | France | ![][flag_FR] | ![][flag_AT] | Austria | **17:00 UTC** | 18:00 UTC+01 | 18:00 UTC+01 |
-| Portugal | ![][flag_PT] | ![][flag_BE] | Belgium | **17:00 UTC** | 17:00 UTC-00 | 18:00 UTC+01 |
-| Poland | ![][flag_PL] | ![][flag_CO] | Colombia | **17:00 UTC** | 18:00 UTC+01 | 13:00 UTC-04 |
+| Portugal | ![][flag_PT] | ![][flag_BE] | Belgium | **17:00 UTC** | 17:00 UTC | 18:00 UTC+01 |
 | Canada | ![][flag_CA] | ![][flag_DE] | Germany | **18:00 UTC** | 13:00 UTC-05 | 19:00 UTC+01 |
-| Brazil | ![][flag_BR] | ![][flag_SE] | Sweden | **18:00 UTC** | 15:00 UTC-03 | 19:00 UTC+01 |
-| United States | ![][flag_US] | ![][flag_RU] | Russian Federation | **18:00 UTC** | 12:00 UTC-06 | 21:00 UTC+03 |
+| United States | ![][flag_US] | ![][flag_RU] | Russian Federation | **18:00 UTC** | 12:00 UTC-06 | 23:00 UTC+05 |
+| Brazil | ![][flag_BR] | ![][flag_SE] | Sweden | **19:00 UTC** | 16:00 UTC-03 | 20:00 UTC+01 |
 | United Kingdom | ![][flag_GB] | ![][flag_PL] | Poland | **19:00 UTC** | 19:00 UTC | 20:00 UTC+01 |
 | Switzerland | ![][flag_CH] | ![][flag_MX] | Mexico | **19:00 UTC** | 20:00 UTC+01 | 14:00 UTC-05 |
 | Canada | ![][flag_CA] | ![][flag_FI] | Finland | **19:00 UTC** | 14:00 UTC-05 | 21:00 UTC+02 |
+| Brazil | ![][flag_BR] | ![][flag_GR] | Greece | **21:00 UTC** | 18:00 UTC-03 | 23:00 UTC+02 |
+| Brazil | ![][flag_BR] | ![][flag_NZ] | New Zealand | **23:00 UTC** | 20:00 UTC-03 | 12:00 UTC+13 |
 
 ### Sunday, 8. March 2020
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | United States | ![][flag_US] | ![][flag_CL] | Chile | **01:00 UTC** | 19:00 (Sat.) UTC-06 | 22:00 (Sat.) UTC-03 |
-| Brazil | ![][flag_BR] | ![][flag_NZ] | New Zealand | **01:00 UTC** | 22:00 (Sat.) UTC-03 | 14:00 UTC+13 |
 | Japan | ![][flag_JP] | ![][flag_AR] | Argentina | **02:00 UTC** | 11:00 UTC+09 | 23:00 (Sat.) UTC-03 |
-| Australia | ![][flag_AU] | ![][flag_CO] | Colombia | **02:00 UTC** | 13:00 UTC+11 | 22:00 (Sat.) UTC-04 |
+| Australia | ![][flag_AU] | ![][flag_CO] | Colombia | **02:00 UTC** | 13:00 UTC+11 | 21:00 (Sat.) UTC-05 |
 | United States | ![][flag_US] | ![][flag_MY] | Malaysia | **03:00 UTC** | 21:00 (Sat.) UTC-06 | 11:00 UTC+08 |
 | Singapore | ![][flag_SG] | ![][flag_MX] | Mexico | **03:00 UTC** | 11:00 UTC+08 | 22:00 (Sat.) UTC-05 |
 | Canada | ![][flag_CA] | ![][flag_ID] | Indonesia | **03:00 UTC** | 22:00 (Sat.) UTC-05 | 10:00 UTC+07 |
 | Sweden | ![][flag_SE] | ![][flag_NZ] | New Zealand | **10:00 UTC** | 11:00 UTC+01 | 23:00 UTC+013 |
-| United Kingdom | ![][flag_GB] | ![][flag_AU] | Australia | **11:00 UTC** | 11:00 UTC | 22:00 UTC+11 |
+| United Kingdom | ![][flag_GB] | ![][flag_AU] | Australia | **10:00 UTC** | 10:00 UTC | 21 :00 UTC+11 |
 | Taiwan | ![][flag_TW] | ![][flag_PH] | Philippines | **11:00 UTC** | 19:00 UTC+08 | 19:00 UTC+08 |
+| Japan | ![][flag_JP] | ![][flag_AT] | Austria | **11:00 UTC** | 20:00 UTC+09 | 12:00 UTC+01 |
 | South Korea | ![][flag_KR] | ![][flag_ES] | Spain | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 |
 | China | ![][flag_CN] | ![][flag_NL] | Netherlands | **12:00 UTC** | 20:00 UTC+08 | 13:00 UTC+01 |
 | Singapore | ![][flag_SG] | ![][flag_CH] | Switzerland | **12:00 UTC** | 20:00 UTC+08 | 13:00 UTC+01 |
 | Japan | ![][flag_JP] | ![][flag_FR] | France | **13:00 UTC** | 22:00 UTC+09 | 14:00 UTC+01 |
 | Taiwan | ![][flag_TW] | ![][flag_CN] | China | **13:00 UTC** | 21:00 UTC+08 | 21:00 UTC+08 |
 | Germany | ![][flag_DE] | ![][flag_ID] | Indonesia | **13:00 UTC** | 14:00 UTC+01 | 20:00 UTC+07 |
-| Spain | ![][flag_ES] | ![][flag_PT] | Portugal | **14:00 UTC** | 15:00 UTC+01 | 14:00 UTC-00 |
 | Philippines | ![][flag_PH] | ![][flag_NL] | Netherlands | **14:00 UTC** | 22:00 UTC+08 | 15:00 UTC+01 |
 | Malaysia | ![][flag_MY] | ![][flag_CL] | Chile | **14:00 UTC** | 22:00 UTC+08 | 11:00 UTC-03 |
+| Spain | ![][flag_ES] | ![][flag_PT] | Portugal | **15:00 UTC** | 16:00 UTC+01 | 15:00 UTC |
 | Spain | ![][flag_ES] | ![][flag_BE] | Belgium | **16:00 UTC** | 17:00 UTC+01 | 17:00 UTC+01 |
 | Argentina | ![][flag_AR] | ![][flag_AT] | Austria | **16:00 UTC** | 13:00 UTC-03 | 17:00 UTC+01 |
-| United Kingdom | ![][flag_GB] | ![][flag_CO] | Colombia | **16:00 UTC** | 16:00 UTC | 12:00 UTC-04 |
+| United Kingdom | ![][flag_GB] | ![][flag_CO] | Colombia | **16:00 UTC** | 16:00 UTC | 11:00 UTC-05 |
 | Italy | ![][flag_IT] | ![][flag_MX] | Mexico | **17:00 UTC** | 18:00 UTC+01 | 12:00 UTC-05 |
-| Brazil | ![][flag_BR] | ![][flag_GR] | Greece | **17:00 UTC** | 14:00 UTC-03 | 19:00 UTC+02 |
-| Russian Federation | ![][flag_RU] | ![][flag_CL] | Chile | **17:00 UTC** | 20:00 UTC+03 | 14:00 UTC-03 |
+| Russian Federation | ![][flag_RU] | ![][flag_CL] | Chile | **17:00 UTC** | 22:00 UTC+05 | 14:00 UTC-03 |
 
 ## Mappools
 
