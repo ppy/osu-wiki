@@ -39,7 +39,7 @@ The MBC features a new mapping limitation each month that participants must work
 
 This month's limitation: **no slider velocity changes**
 
-Any inherited timing points (green lines in the editor) you use should be for hitsounding only, and of course, BPM changes to adjust slider speed aren't allowed!
+Any inherited timing points (green lines in the editor) you use should be for hitsounding or kiai times only, and of course, BPM changes to adjust slider speed aren't allowed!
 
 Given how frequently maps nowadays change slider velocity, catering to this limitation may be a bit annoying. To make things ~~worse~~ better though, we've chosen songs that call for a significant amount of slider speed changes! Sorry to say, but your suffering just makes the contest more fun.
 
