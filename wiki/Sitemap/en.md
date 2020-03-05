@@ -115,6 +115,7 @@ tags:
   - [Privacy](/wiki/Legal/Privacy)
   - [Terms](/wiki/Legal/Terms)
 - [Main Page](/wiki/Main_Page)
+- [Mappers' Guild](/wiki/Mappers_Guild)
 - [Mapping Techniques](/wiki/Mapping_Techniques)
   - [Basics](/wiki/Mapping_Techniques/Basics)
   - [Formations](/wiki/Mapping_Techniques/Formations)
