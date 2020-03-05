@@ -37,7 +37,7 @@ More details can be found on the [Monthly Beatmapping Contest wiki article](/wik
 
 The MBC features a new mapping limitation each month that participants must work within. Last month required all submissions to be at most 4.00 stars in difficulty, so any submissions higher than that were disqualified.
 
-This month's limitation: **no slider velocity changes**
+This month's limitation: **no slider velocity changes**.
 
 Any inherited timing points (green lines in the editor) you use should be for hitsounding or kiai times only, and of course, BPM changes to adjust slider speed aren't allowed!
 
