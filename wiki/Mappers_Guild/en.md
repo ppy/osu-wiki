@@ -2,6 +2,8 @@
 
 The **Mappers' Guild** is a group of mappers responsible for creating beatmaps for osu!'s [featured artists](/wiki/Featured_Artists). Utilizing a MMO-style guild format, it allows mappers to earn rewards by participating in the ranking process for featured artist beatmaps and cooperating in mapping-related quests. 
 
+Guild organization and discussion can be found in the `#mappers-guild` channel of the [osu!dev Discord Server](https://discord.gg/ppy).
+
 ## History
 
 The Mappers' Guild launched with a group of less than 10 mappers in late 2017. Given information on an upcoming featured artist at the time, [MOtOLOiD](https://osu.ppy.sh/beatmaps/artists/19), they were tasked with creating 5 beatmaps to accompany the artist's [news post announcement](https://osu.ppy.sh/home/news/2017-11-07-new-featured-artist-motoloid).
