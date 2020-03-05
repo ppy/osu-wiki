@@ -16,7 +16,7 @@ The **Yuri Cup** (***YC***) is an international 4-digit 4v4 double-elimination o
 | Registration phase | 2020-01-26/2020-02-14 |
 | Live drawings | 2020-02-15 (14:00 UTC) |
 | Qualifiers | 2020-02-22/2020-02-23 |
-| Round of 32 | 2020-02-29/2020-03-01 |
+| Round of 32 | 2020-02-27/2020-03-01 |
 | Round of 16 | 2020-03-07/2020-03-08 |
 | Quarterfinals | 2020-03-14/2020-03-15 |
 | Semifinals | 2020-03-21/2020-03-22 |
@@ -189,7 +189,7 @@ Thursday, 27 February 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| MeAqua | 4 | 5 | 11:40 | [#1](https://osu.ppy.sh/community/matches/58760885) |
+| MeAqua | 4 | **5** | **11:40** | [#1](https://osu.ppy.sh/community/matches/58760885) |
 
 Saturday, 29 February 2020:
 
