@@ -1,8 +1,8 @@
 ---
 tags:
-- UK Community Cup 7
-- UKCC 7
-- UKCC 7
+  - UK Community Cup 7
+  - UKCC 7
+  - UKCC 7
 ---
 
 # UK Community Cup 7
@@ -20,13 +20,13 @@ The seventh edition of the bi-annual UK Community Cup, a tournament for those wh
 - This is a **1v1, UK and Ireland based tournament**
 - In the event there is 128 signups, those with the lowest global rank will be unable to participate (unless we expand the tournament)
 - The structure of the tournament will be:
-	- Two qualifications rounds - 32 players progress
-	- Group Stage - 16 players progress
-	- Double Elimination Bracket
+  - Two qualifications rounds - 32 players progress
+  - Group Stage - 16 players progress
+  - Double Elimination Bracket
 - To be able to participate, players must have an **UK or Irish flag or be able to provide proof of residency to the hosts.**
 - Matches will be **Head to Head** and **Score V2**
 - Ranks and Qualifications placements are used to calculate seeding. Once the tournament starts, your rank is locked and will not affect your seed.
-- All staff (apart from the Hosts, Mappool Selectors and Referees) are allowed to participate in the tournament. 
+- All staff (apart from the Hosts, Mappool Selectors and Referees) are allowed to participate in the tournament.
 - All players are to treat staff and other participants with a high level of respect. Any kind of mistreatment on the discord server or during matches (this includes homophobia, racism and toxicity) will result in a **BAN** and will be **BLACKLISTED** from participating from future UKCC tournaments.
 - ***Where rules do not prevail, common sense shall. The administration has explicit discretion to apply their judgement on this as they see fit.***
 - Players are **REQUIRED** to join the public discord so that they are contactable by other players and staff. If a player can’t be contacted or is not responding to messages, through discord, ingame messages or forum pms, contact the staff.
@@ -38,8 +38,8 @@ The seventh edition of the bi-annual UK Community Cup, a tournament for those wh
 - In order to reschedule, you must contact your opponents, agree on a time and be able to provide **PROOF** (by form of a screenshot/image) of the agreed reschedule to the Hosts.
 - In effort to ensure as many matches take place as possible, reschedules are allowed up to **1 HOUR BEFORE YOUR MATCH IS DUE TO BE PLAYED**. However, your opponent holds the right to **refuse a reschedule if asked less than 24 hours from the scheduled time**
 - If it is impossible to find a time to reschedule to that suits both players, both players should talk to the Hosts (Bae- or Yazzehh) and we will attempt to sort something out.
-- Matches that are uncertain to happen (for example, losers’ bracket matches) will still appear on the schedule. They are to be rescheduled if needed in the same way as confirmed matches. 
-- If a match needs rescheduling to a time after a related losers’ bracket match, the matches relying on the outcome of the rescheduled match will be rescheduled by staff and 24 hours will be given for rescheduling them, if needed. 
+- Matches that are uncertain to happen (for example, losers’ bracket matches) will still appear on the schedule. They are to be rescheduled if needed in the same way as confirmed matches.
+- If a match needs rescheduling to a time after a related losers’ bracket match, the matches relying on the outcome of the rescheduled match will be rescheduled by staff and 24 hours will be given for rescheduling them, if needed.
 
 ## Links
 
@@ -56,7 +56,7 @@ The seventh edition of the bi-annual UK Community Cup, a tournament for those wh
 
 ![Rules](img/rules.png)
 
-- Referees will create the lobby approximately **10 minutes** before the match is due to start. 
+- Referees will create the lobby approximately **10 minutes** before the match is due to start.
 - Players have a 10 minute grace period after their scheduled match time to join the lobby. If a player fails to join the lobby in this time, then the default win will go to the other player. If both players do not show up, both players will recieve losses.
 - We take no-shows seriously, if you fail to show up to your match without valid reason, you may forfeit your right to future UKCC tournaments.
 - The referee cannot play during the match.
@@ -95,7 +95,7 @@ The seventh edition of the bi-annual UK Community Cup, a tournament for those wh
 ![Schedules](img/schedules.png)
 
 | Event | Timestamp |
-| --: | :--|
+| --: | :-- |
 | Signups Open | 2019-07-27 |
 | Signups Closed | 2019-08-26 |
 | Qualifying Round 1 | 2019-09-07/2019-09-08 |
@@ -105,26 +105,27 @@ The seventh edition of the bi-annual UK Community Cup, a tournament for those wh
 | Quarter Finals + Losers Round 2/3 | 2019-10-5/2019-10-6 |
 | Semi Finals + Losers Round 4/5 | 2019-10-12/2019-10-13 |
 | Winners Finals + Losers 6/Semi Final | 2019-10-19/2019-10-20 |
-| Losers Final + GRAND Finals | 2019-10-26/2019-10-27 |
+| Losers Final + Grand Finals | 2019-10-26/2019-10-27 |
 
 ## Prizes
 
 ![Prizes](img/prizes.png)
 
-| Placing | Prize(s)|
+| Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "Winner") | 6 months of osu! supporter, a shiny profile badge and a magnificent trophy! |
-| ![Silver Crown](/wiki/shared/crown-silver.png "Second place") | 3 months of osu! supporter and a sparkling medal |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "Third place") | 1 month of osu supporter and a sparkling medal |
+| ![Gold crown](/wiki/shared/crown-gold.png "Winner") | 6 months of osu! supporter, a shiny profile badge and a magnificent trophy! |
+| ![Silver crown](/wiki/shared/crown-silver.png "Second place") | 3 months of osu! supporter and a sparkling medal |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "Third place") | 1 month of osu supporter and a sparkling medal |
 
 ### Badge
+
 ![UKCC 7 Winner](img/badge.png)
 
 ## Organisation
 
 ![Staff List](img/staff.png)
 
-UK is run by many wonderful people, this list doesn't fully represent how many amazing people contribute as we accept people along the way. If you're interested in helping staff future UK Community Cups, please contact a host in the [Discord](https://discord.gg/EtsU7Cw)!
+UK is run by many wonderful people, this list doesn't fully represent how many amazing people contribute as we accept people along the way. If you're interested in helping staff future UK Community Cups, please contact a host in the [UKCC Discord server](https://discord.gg/EtsU7Cw)!
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -173,220 +174,219 @@ UKCC 7 concluded on the 27th October 2019.
 **[Download the map pack here! (148.0MB)](https://mega.nz/#!TmhgUK5K!7kkYZPdolGvJbuCezRBj1SFJe6J-qZRu0B4qXTwXwzU)**
 
 - Nomod
-    - [Shiena Nishizawa - Brand-new World [Brand-new Extra]](https://osu.ppy.sh/beatmaps/1391381)
-    - [xi - over the top [FOUR DIMENSIONS]](https://osu.ppy.sh/beatmaps/1682412)
-    - [rerulili - Noushou Sakuretsu Girl [sanji no oyatsu wa makaron tabemasu]](https://osu.ppy.sh/beatmaps/911946)
-    - [lapix - Amazing Mirage (Extended) [Fata Morgana]](https://osu.ppy.sh/beatmaps/1232752)
-    - [Umeboshi Chazuke - Bison Charge [Flask's Extreme]](https://osu.ppy.sh/beatmaps/1900116)
-    - [sakuzyo - AXION [AXION\_REBORN]](https://osu.ppy.sh/beatmaps/324516)
+  - [Shiena Nishizawa - Brand-new World [Brand-new Extra]](https://osu.ppy.sh/beatmaps/1391381)
+  - [xi - over the top [FOUR DIMENSIONS]](https://osu.ppy.sh/beatmaps/1682412)
+  - [rerulili - Noushou Sakuretsu Girl [sanji no oyatsu wa makaron tabemasu]](https://osu.ppy.sh/beatmaps/911946)
+  - [lapix - Amazing Mirage (Extended) [Fata Morgana]](https://osu.ppy.sh/beatmaps/1232752)
+  - [Umeboshi Chazuke - Bison Charge [Flask's Extreme]](https://osu.ppy.sh/beatmaps/1900116)
+  - [sakuzyo - AXION [AXION\_REBORN]](https://osu.ppy.sh/beatmaps/324516)
 - Hidden
-    - [xi - FREEDOM DiVE [Another]](https://osu.ppy.sh/beatmaps/126645)
-    - [Yunomi & nicamoq - Indoor Kei Nara Trackmaker [Another]](https://osu.ppy.sh/beatmaps/1115999)
-    - [DJKurara - Goodbye [SEVEN COLORS]](https://osu.ppy.sh/beatmaps/1811477)
+  - [xi - FREEDOM DiVE [Another]](https://osu.ppy.sh/beatmaps/126645)
+  - [Yunomi & nicamoq - Indoor Kei Nara Trackmaker [Another]](https://osu.ppy.sh/beatmaps/1115999)
+  - [DJKurara - Goodbye [SEVEN COLORS]](https://osu.ppy.sh/beatmaps/1811477)
 - Hard Rock
-    - [TAG - PRANA [Extreme]](https://osu.ppy.sh/beatmaps/234444)
-    - [Yumeno Yuki - THE APPLE IS CAST! [Resolve]](https://osu.ppy.sh/beatmaps/1974604)
-    - [Powerless - Soleil [#1: handsome & pishifat]](https://osu.ppy.sh/beatmaps/1523514)
+  - [TAG - PRANA [Extreme]](https://osu.ppy.sh/beatmaps/234444)
+  - [Yumeno Yuki - THE APPLE IS CAST! [Resolve]](https://osu.ppy.sh/beatmaps/1974604)
+  - [Powerless - Soleil [#1: handsome & pishifat]](https://osu.ppy.sh/beatmaps/1523514)
 - Double Time
-    - [Toyosaki Aki - MORE&MORE [Insane]](https://osu.ppy.sh/beatmaps/318975)
-    - [BRZion - Game Brain [Insane]](https://osu.ppy.sh/beatmaps/105978)
-    - [kors k - Dot [korzhik]](https://osu.ppy.sh/beatmaps/441616)
-    - [Hardgore Alice (CV: Hidaka Rina) - Forget me Not... [Insane]](https://osu.ppy.sh/beatmaps/1924965)
+  - [Toyosaki Aki - MORE&MORE [Insane]](https://osu.ppy.sh/beatmaps/318975)
+  - [BRZion - Game Brain [Insane]](https://osu.ppy.sh/beatmaps/105978)
+  - [kors k - Dot [korzhik]](https://osu.ppy.sh/beatmaps/441616)
+  - [Hardgore Alice (CV: Hidaka Rina) - Forget me Not... [Insane]](https://osu.ppy.sh/beatmaps/1924965)
 - Free Mod
-    - [DECO*27 - Ghost Rule [z1085684963's Extra]](https://osu.ppy.sh/beatmaps/951521)
-    - [DragonForce - Ashes of the Dawn [Extra]](https://osu.ppy.sh/beatmaps/1650328)
-    - [CustomiZ - COOLEST [Hi-Speed Extreme]](https://osu.ppy.sh/beatmaps/1105536)
+  - [DECO*27 - Ghost Rule [z1085684963's Extra]](https://osu.ppy.sh/beatmaps/951521)
+  - [DragonForce - Ashes of the Dawn [Extra]](https://osu.ppy.sh/beatmaps/1650328)
+  - [CustomiZ - COOLEST [Hi-Speed Extreme]](https://osu.ppy.sh/beatmaps/1105536)
 - Tiebreaker
-    - [Ata - Euphoria [Delusion]](https://osu.ppy.sh/beatmaps/1705819)
+  - **[Ata - Euphoria [Delusion]](https://osu.ppy.sh/beatmaps/1705819)**
 
 ### Winners Final + Losers Round 6/SF
 
 **[Download the map pack here! (165.6MB)](https://mega.nz/#!7ux0kKbD!aBqtZjDCQnxb4nvianpVv_2eOUl4aEeMa6TmZH-w5so)**
 
 - Nomod
-    - [\*namirin - Amatsu Kitsune [Extra]](https://osu.ppy.sh/beatmaps/881313)
-    - [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- [Theaceae's Another]](https://osu.ppy.sh/beatmaps/1628965)
-    - [siromaru + cranky - conflict [Encounter]](https://osu.ppy.sh/beatmaps/1955676)
-    - [t+pazolite - Call me it. (500 Tortures) [Extra]](https://osu.ppy.sh/beatmaps/655682)
-    - [Camellia - Chirality [fanzhen's Extra]](https://osu.ppy.sh/beatmaps/1464581)
-    - [Pastel\*Palettes - Happy Synthesizer [Shizuku's Expert]](https://osu.ppy.sh/beatmaps/1989990)
+  - [\*namirin - Amatsu Kitsune [Extra]](https://osu.ppy.sh/beatmaps/881313)
+  - [Nekomata L.E.D.Master+ - Chrono Diver -PENDULUMs- [Theaceae's Another]](https://osu.ppy.sh/beatmaps/1628965)
+  - [siromaru + cranky - conflict [Encounter]](https://osu.ppy.sh/beatmaps/1955676)
+  - [t+pazolite - Call me it. (500 Tortures) [Extra]](https://osu.ppy.sh/beatmaps/655682)
+  - [Camellia - Chirality [fanzhen's Extra]](https://osu.ppy.sh/beatmaps/1464581)
+  - [Pastel\*Palettes - Happy Synthesizer [Shizuku's Expert]](https://osu.ppy.sh/beatmaps/1989990)
 - Hidden
-    - [In Flames - Take This Life [kiry's Extra]](https://osu.ppy.sh/beatmaps/1569878)
-    - [Tachibana Miya - Miya to Tengoku to Jigoku [Hentai]](https://osu.ppy.sh/beatmaps/62269)
-    - [Camellia as "Reverse of Riot" - Completeness Under Incompleteness [RLC's Infinite]](https://osu.ppy.sh/beatmaps/1094551)
+  - [In Flames - Take This Life [kiry's Extra]](https://osu.ppy.sh/beatmaps/1569878)
+  - [Tachibana Miya - Miya to Tengoku to Jigoku [Hentai]](https://osu.ppy.sh/beatmaps/62269)
+  - [Camellia as "Reverse of Riot" - Completeness Under Incompleteness [RLC's Infinite]](https://osu.ppy.sh/beatmaps/1094551)
 - Hard Rock
-    - [Hana - Sakura no Uta [VI.Artist of the Sakura]](https://osu.ppy.sh/beatmaps/994933)
-    - [Glamour of the Kill - A Hope in Hell [Hopeless]](https://osu.ppy.sh/beatmaps/104389)
-    - [Toby Fox - Chaos King [Kalibe's Expert]](https://osu.ppy.sh/beatmaps/1884623)
+  - [Hana - Sakura no Uta [VI.Artist of the Sakura]](https://osu.ppy.sh/beatmaps/994933)
+  - [Glamour of the Kill - A Hope in Hell [Hopeless]](https://osu.ppy.sh/beatmaps/104389)
+  - [Toby Fox - Chaos King [Kalibe's Expert]](https://osu.ppy.sh/beatmaps/1884623)
 - Double Time
-    - [NanosizeMir - Philosophyz -NanosizeMir Ver.- [Insane]](https://osu.ppy.sh/beatmaps/1351933)
-    - [TK from Ling tosite sigure - White Out [Snowy Departure]](https://osu.ppy.sh/beatmaps/1418668)
-    - [Amane - Midsummer Festival [Lunatekke]](https://osu.ppy.sh/beatmaps/75822)
-    - [NEWS - weeeek [Insane]](https://osu.ppy.sh/beatmaps/22422)
+  - [NanosizeMir - Philosophyz -NanosizeMir Ver.- [Insane]](https://osu.ppy.sh/beatmaps/1351933)
+  - [TK from Ling tosite sigure - White Out [Snowy Departure]](https://osu.ppy.sh/beatmaps/1418668)
+  - [Amane - Midsummer Festival [Lunatekke]](https://osu.ppy.sh/beatmaps/75822)
+  - [NEWS - weeeek [Insane]](https://osu.ppy.sh/beatmaps/22422)
 - Free Mod
-    - [Byakko - Kachou Fuusetsu [MasterPeeysa]](https://osu.ppy.sh/beatmaps/453790)
-    - [Denkishiki Karen Ongaku Shuudan - Owari Tsumugishi Mono [Lasse's Extra]](https://osu.ppy.sh/beatmaps/1711326)
-    - [Kucchy vs Akky - Satori \~3rd eyes\~ [Lunatic]](https://osu.ppy.sh/beatmaps/50892)
+  - [Byakko - Kachou Fuusetsu [MasterPeeysa]](https://osu.ppy.sh/beatmaps/453790)
+  - [Denkishiki Karen Ongaku Shuudan - Owari Tsumugishi Mono [Lasse's Extra]](https://osu.ppy.sh/beatmaps/1711326)
+  - [Kucchy vs Akky - Satori \~3rd eyes\~ [Lunatic]](https://osu.ppy.sh/beatmaps/50892)
 - Tiebreaker
-    - [Demetori - Eastern Dream ~ The Introduction / Kamisabita Kosenjou \~ Suwa Foughten Field [Stage 6]](https://osu.ppy.sh/beatmaps/1362265)
+  - **[Demetori - Eastern Dream ~ The Introduction / Kamisabita Kosenjou \~ Suwa Foughten Field [Stage 6]](https://osu.ppy.sh/beatmaps/1362265)**
 
 ### Semi Final + Losers Round 4/5
 
 **[Download the map pack here! (128.7MB)](https://mega.nz/#!S7p2QShR!ugelC74o3C1Xc3ECMHCb7EWzhvuZh75UuGs9_nznR44)**
 
 - Nomod
-    - [Roselia - R [Rosenlied]](https://osu.ppy.sh/beatmaps/1719416)
-    - [LeaF - MEPHISTO [Mephistopheles]](https://osu.ppy.sh/beatmaps/1509096)
-    - [Reol - Yakusoku no Ao [Chaoz's Extra]](https://osu.ppy.sh/beatmaps/1011937)
-    - [Camellia feat. Nanahira - NANI THE FUCK!! [???????]](https://osu.ppy.sh/beatmaps/2137778)
-    - [EZFG - Hurting for a Very Hurtful Pain [Dance]](https://osu.ppy.sh/beatmaps/145669)
-    - [kamome sano - citrus [moecho's lemonade]](https://osu.ppy.sh/beatmaps/1411721)
+  - [Roselia - R [Rosenlied]](https://osu.ppy.sh/beatmaps/1719416)
+  - [LeaF - MEPHISTO [Mephistopheles]](https://osu.ppy.sh/beatmaps/1509096)
+  - [Reol - Yakusoku no Ao [Chaoz's Extra]](https://osu.ppy.sh/beatmaps/1011937)
+  - [Camellia feat. Nanahira - NANI THE FUCK!! [???????]](https://osu.ppy.sh/beatmaps/2137778)
+  - [EZFG - Hurting for a Very Hurtful Pain [Dance]](https://osu.ppy.sh/beatmaps/145669)
+  - [kamome sano - citrus [moecho's lemonade]](https://osu.ppy.sh/beatmaps/1411721)
 - Hidden
-    - [Nico Nico Chorus - Unhappy Refrain [Trigger-Happy]](https://osu.ppy.sh/beatmaps/1129480)
-    - [RevenG - Sakura [Insane]](https://osu.ppy.sh/beatmaps/25296)
-    - [Asaka - Open your eyes [World: :Synchronization]](https://osu.ppy.sh/beatmaps/1871739)
+  - [Nico Nico Chorus - Unhappy Refrain [Trigger-Happy]](https://osu.ppy.sh/beatmaps/1129480)
+  - [RevenG - Sakura [Insane]](https://osu.ppy.sh/beatmaps/25296)
+  - [Asaka - Open your eyes [World: :Synchronization]](https://osu.ppy.sh/beatmaps/1871739)
 - Hard Rock
-    - [Maksim Mrvica - Croatian Rhapsody [Presto]](https://osu.ppy.sh/beatmaps/1778453)
-    - [Ryu\* - Sakura Reflection (MYTK Remix) [Another]](https://osu.ppy.sh/beatmaps/650610)
-    - [Azel - -Astraia- [Extra]](https://osu.ppy.sh/beatmaps/706743)
+  - [Maksim Mrvica - Croatian Rhapsody [Presto]](https://osu.ppy.sh/beatmaps/1778453)
+  - [Ryu\* - Sakura Reflection (MYTK Remix) [Another]](https://osu.ppy.sh/beatmaps/650610)
+  - [Azel - -Astraia- [Extra]](https://osu.ppy.sh/beatmaps/706743)
 - Double Time
-    - [TRUE - DREAM SOLISTER [Insane]](https://osu.ppy.sh/beatmaps/2026140)
-    - [Hiro - Carol Megamix [Insane]](https://osu.ppy.sh/beatmaps/190584)
-    - [Two Door Cinema Club - Cigarettes In The Theatre [Insane]](https://osu.ppy.sh/beatmaps/120461)
-    - [zts - worldenddominator [Dada's Insane]](https://osu.ppy.sh/beatmaps/1985639)
+  - [TRUE - DREAM SOLISTER [Insane]](https://osu.ppy.sh/beatmaps/2026140)
+  - [Hiro - Carol Megamix [Insane]](https://osu.ppy.sh/beatmaps/190584)
+  - [Two Door Cinema Club - Cigarettes In The Theatre [Insane]](https://osu.ppy.sh/beatmaps/120461)
+  - [zts - worldenddominator [Dada's Insane]](https://osu.ppy.sh/beatmaps/1985639)
 - Free Mod
-    - [All That Remains - This Calling [Despair]](https://osu.ppy.sh/beatmaps/682053)
-    - [Wiklund - Billy Boogie [16 Bits?!]](https://osu.ppy.sh/beatmaps/36547)
-    - [Akiyama Uni - The Grimoire of Alice [Extra]](https://osu.ppy.sh/beatmaps/316018)
+  - [All That Remains - This Calling [Despair]](https://osu.ppy.sh/beatmaps/682053)
+  - [Wiklund - Billy Boogie [16 Bits?!]](https://osu.ppy.sh/beatmaps/36547)
+  - [Akiyama Uni - The Grimoire of Alice [Extra]](https://osu.ppy.sh/beatmaps/316018)
 - Tiebreaker
-    - [USAO - Showdown [Calamity]](https://osu.ppy.sh/beatmaps/1456429)
+  - **[USAO - Showdown [Calamity]](https://osu.ppy.sh/beatmaps/1456429)**
 
 ### Quarter Final + Losers Round 2/3
 
 **[Download the map pack here! (141.7MB)](https://mega.nz/#!37BHiSQa!_YCHsfzKe3AqxPboSBa2Uuyf0_chbWqYVTpd5QNj9WA)**
 
 - Nomod
-    - [Suzumu - Kakumeisei ousama densenbyou [Extra]](https://osu.ppy.sh/beatmaps/688304)
-    - [Prim - Koisuru\*Uchuu Sensou!! [Another]](https://osu.ppy.sh/beatmaps/231964)
-    - [flumpool - Yoru wa Nemureru kai? [Insomnia]](https://osu.ppy.sh/beatmaps/1557509)
-    - [Camellia - crystallized [Ca2Al3(SiO4)3(OH)]](https://osu.ppy.sh/beatmaps/867819)
-    - [Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyoukotsu ni Itaru [Extra Collab]](https://osu.ppy.sh/beatmaps/2040764)
-    - [Shindig - New Friends [squirrelp's Key to a Happy Life]](https://osu.ppy.sh/beatmaps/1603103)
+  - [Suzumu - Kakumeisei ousama densenbyou [Extra]](https://osu.ppy.sh/beatmaps/688304)
+  - [Prim - Koisuru\*Uchuu Sensou!! [Another]](https://osu.ppy.sh/beatmaps/231964)
+  - [flumpool - Yoru wa Nemureru kai? [Insomnia]](https://osu.ppy.sh/beatmaps/1557509)
+  - [Camellia - crystallized [Ca2Al3(SiO4)3(OH)]](https://osu.ppy.sh/beatmaps/867819)
+  - [Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyoukotsu ni Itaru [Extra Collab]](https://osu.ppy.sh/beatmaps/2040764)
+  - [Shindig - New Friends [squirrelp's Key to a Happy Life]](https://osu.ppy.sh/beatmaps/1603103)
 - Hidden
-    - [Hiroyuki Sawano feat. Mika Kobayashi - Bios [LKs' Another]](https://osu.ppy.sh/beatmaps/137766)
-    - [DIGI-SEQ-BAND2000 - Somehow You Found Me [Expert]](https://osu.ppy.sh/beatmaps/44692)
-    - [Ryu\* vs. Sota - Go Beyond!! [Nuvolina's Expert!!]](https://osu.ppy.sh/beatmaps/2023961)
+  - [Hiroyuki Sawano feat. Mika Kobayashi - Bios [LKs' Another]](https://osu.ppy.sh/beatmaps/137766)
+  - [DIGI-SEQ-BAND2000 - Somehow You Found Me [Expert]](https://osu.ppy.sh/beatmaps/44692)
+  - [Ryu\* vs. Sota - Go Beyond!! [Nuvolina's Expert!!]](https://osu.ppy.sh/beatmaps/2023961)
 - Hard Rock
-    - [Helblinde - Putin's Boner [Extra]](https://osu.ppy.sh/beatmaps/708367)
-    - [Kakumi Nishigomi - Hyakka Ryouran [Hana]](https://osu.ppy.sh/beatmaps/271616)
-    - [Apocalyptica - 2010 (feat. Dave Lombardo) [Extra]](https://osu.ppy.sh/beatmaps/724512)
+  - [Helblinde - Putin's Boner [Extra]](https://osu.ppy.sh/beatmaps/708367)
+  - [Kakumi Nishigomi - Hyakka Ryouran [Hana]](https://osu.ppy.sh/beatmaps/271616)
+  - [Apocalyptica - 2010 (feat. Dave Lombardo) [Extra]](https://osu.ppy.sh/beatmaps/724512)
 - Double Time
-    - [Iguchi Yuka - HELLO to DREAM [Lasse's Insane]](https://osu.ppy.sh/beatmaps/2109432)
-    - [Toyama Nao - Ima Koko [Together]](https://osu.ppy.sh/beatmaps/1454746)
-    - [Hatsune Miku - Vegetable Juice (Po Pi Po) Ryu Remix [animask's Juice]](https://osu.ppy.sh/beatmaps/57735)
+  - [Iguchi Yuka - HELLO to DREAM [Lasse's Insane]](https://osu.ppy.sh/beatmaps/2109432)
+  - [Toyama Nao - Ima Koko [Together]](https://osu.ppy.sh/beatmaps/1454746)
+  - [Hatsune Miku - Vegetable Juice (Po Pi Po) Ryu Remix [animask's Juice]](https://osu.ppy.sh/beatmaps/57735)
 - Free Mod
-    - [TAKA respect for J.S.B - Ubertreffen [Another]](https://osu.ppy.sh/beatmaps/56830)
-    - [Mikami Shiori - Watashi, Shuyaku no Akaza Akari desu (Happy Euri Mix) [Akarimigon]](https://osu.ppy.sh/beatmaps/880364)
-    - [T & Sugah x Lexurus - No More [Extra]](https://osu.ppy.sh/beatmaps/1007896)
+  - [TAKA respect for J.S.B - Ubertreffen [Another]](https://osu.ppy.sh/beatmaps/56830)
+  - [Mikami Shiori - Watashi, Shuyaku no Akaza Akari desu (Happy Euri Mix) [Akarimigon]](https://osu.ppy.sh/beatmaps/880364)
+  - [T & Sugah x Lexurus - No More [Extra]](https://osu.ppy.sh/beatmaps/1007896)
 - Tiebreaker
-    - [Diao Ye Zong feat. Meramipop - Gensou Roman Kikou (is the limit.) [Flower Dance]](https://osu.ppy.sh/beatmaps/1519282)
+  - **[Diao Ye Zong feat. Meramipop - Gensou Roman Kikou (is the limit.) [Flower Dance]](https://osu.ppy.sh/beatmaps/1519282)**
 
 ### RO16 + Losers Round 1
 
 **[Download the map pack here! (163.5MB)](https://mega.nz/#!qqA2nCSa!zCQWppNn47REZtWCPLk9aVguEF9rGuO9h6BwHQGVqUk)**
 
 - Nomod
-    - [Aqours - Thrilling One Way [DvXtra]](https://osu.ppy.sh/beatmaps/1225805)
-    - [sak respect for Arata Iiyoshi - Reason of being [FINAL DESTINATION]](https://osu.ppy.sh/beatmaps/1358482)
-    - [Nekomata Master - Nekozamurai no Gyakushu [kwk's Extra]](https://osu.ppy.sh/beatmaps/1434351)
-    - [Yousei Teikoku - Zetsubou plantation [Extra]](https://osu.ppy.sh/beatmaps/688942)
-    - [Memme - Acid Burst [Hollowversibles's Extra]](https://osu.ppy.sh/beatmaps/689803)
-    - [JYOCHO - Taiyou to Kurashite Kita [Bloom]](https://osu.ppy.sh/beatmaps/1269564)
+  - [Aqours - Thrilling One Way [DvXtra]](https://osu.ppy.sh/beatmaps/1225805)
+  - [sak respect for Arata Iiyoshi - Reason of being [FINAL DESTINATION]](https://osu.ppy.sh/beatmaps/1358482)
+  - [Nekomata Master - Nekozamurai no Gyakushu [kwk's Extra]](https://osu.ppy.sh/beatmaps/1434351)
+  - [Yousei Teikoku - Zetsubou plantation [Extra]](https://osu.ppy.sh/beatmaps/688942)
+  - [Memme - Acid Burst [Hollowversibles's Extra]](https://osu.ppy.sh/beatmaps/689803)
+  - [JYOCHO - Taiyou to Kurashite Kita [Bloom]](https://osu.ppy.sh/beatmaps/1269564)
 - Hidden
-    - [S3RL - MTC (Different Heaven Remix) [Heaven]](https://osu.ppy.sh/beatmaps/770354)
-    - [Conagusuri - Hina Choco Dark Matter [Lunatic]](https://osu.ppy.sh/beatmaps/56337)
-    - [adaptor - LAISSEZ:FAIRE [Team Sample Text's Extra]](https://osu.ppy.sh/beatmaps/1419707)
+  - [S3RL - MTC (Different Heaven Remix) [Heaven]](https://osu.ppy.sh/beatmaps/770354)
+  - [Conagusuri - Hina Choco Dark Matter [Lunatic]](https://osu.ppy.sh/beatmaps/56337)
+  - [adaptor - LAISSEZ:FAIRE [Team Sample Text's Extra]](https://osu.ppy.sh/beatmaps/1419707)
 - Hard Rock
-    - [Giga & Suzumu feat. Kagamine Rin - Undead Enemy [Oppression]](https://osu.ppy.sh/beatmaps/524187)
-    - [Qrispy Joybox feat.mao - Umeyukiyo [Insane]](https://osu.ppy.sh/beatmaps/265643)
-    - [Levaslater - NNRT [Extra]](https://osu.ppy.sh/beatmaps/146985)
+  - [Giga & Suzumu feat. Kagamine Rin - Undead Enemy [Oppression]](https://osu.ppy.sh/beatmaps/524187)
+  - [Qrispy Joybox feat.mao - Umeyukiyo [Insane]](https://osu.ppy.sh/beatmaps/265643)
+  - [Levaslater - NNRT [Extra]](https://osu.ppy.sh/beatmaps/146985)
 - Double Time
-    - [Reol - MONSTER [SHARKIE'S INSANE]](https://osu.ppy.sh/beatmaps/812721)
-    - [VY1 - Cyber Thunder Cider [Cyber]](https://osu.ppy.sh/beatmaps/151215)
-    - [David Hasselhoff - True Survivor [Insane Survivors]](https://osu.ppy.sh/beatmaps/737878)
+  - [Reol - MONSTER [SHARKIE'S INSANE]](https://osu.ppy.sh/beatmaps/812721)
+  - [VY1 - Cyber Thunder Cider [Cyber]](https://osu.ppy.sh/beatmaps/151215)
+  - [David Hasselhoff - True Survivor [Insane Survivors]](https://osu.ppy.sh/beatmaps/737878)
 - Free Mod
-    - [Cranky - The Five [Another]](https://osu.ppy.sh/beatmaps/64996)
-    - [Airi Totoki, Akane Hino, Aiko Takamori, Syoko Hoshi, Yuko Hori - Zettai Tokken Shuchou Shimasu! [MASTER]](https://osu.ppy.sh/beatmaps/1559184)
-    - [Rigel Theatre - Rinn Ding Dong [moph's Big Dong Extra]](https://osu.ppy.sh/beatmaps/1724396)
+  - [Cranky - The Five [Another]](https://osu.ppy.sh/beatmaps/64996)
+  - [Airi Totoki, Akane Hino, Aiko Takamori, Syoko Hoshi, Yuko Hori - Zettai Tokken Shuchou Shimasu! [MASTER]](https://osu.ppy.sh/beatmaps/1559184)
+  - [Rigel Theatre - Rinn Ding Dong [moph's Big Dong Extra]](https://osu.ppy.sh/beatmaps/1724396)
 - Tiebreaker
-    - [Demetori - Youyoumu \~ The Woman Who Sold the Moon [Phantasm]](https://osu.ppy.sh/beatmaps/1562486)
+  - **[Demetori - Youyoumu \~ The Woman Who Sold the Moon [Phantasm]](https://osu.ppy.sh/beatmaps/1562486)**
 
 ### RO32
 
 **[Download the map pack here! (114.6MB)](https://mega.nz/#!OvQhmAiS!PT1qpuu5XGjnvX9Ra9w8flaEZsL_CCW47scekuARt7Y)**
 
 - Nomod
-    - [kalon. - Juubaku [rui's Extra]](https://osu.ppy.sh/beatmaps/1123161)
-    - [Yuuyu - Scrap Syndrome [Extra]](https://osu.ppy.sh/beatmaps/2044722)
-    - [Eagle - Hypersonik [NeilPerry]](https://osu.ppy.sh/beatmaps/1104818)
-    - [TK from Ling Tosite Sigure - katharsis [Expert]](https://osu.ppy.sh/beatmaps/1803966)
-    - [MAX MAXIMIZER vs. DJ TOTTO - Rebellio [REALARU's EXTRA]](https://osu.ppy.sh/beatmaps/1632337)
-    - [Meg & Dia - Monster (DotEXE Remix) [Xtra]](https://osu.ppy.sh/beatmaps/436825)
+  - [kalon. - Juubaku [rui's Extra]](https://osu.ppy.sh/beatmaps/1123161)
+  - [Yuuyu - Scrap Syndrome [Extra]](https://osu.ppy.sh/beatmaps/2044722)
+  - [Eagle - Hypersonik [NeilPerry]](https://osu.ppy.sh/beatmaps/1104818)
+  - [TK from Ling Tosite Sigure - katharsis [Expert]](https://osu.ppy.sh/beatmaps/1803966)
+  - [MAX MAXIMIZER vs. DJ TOTTO - Rebellio [REALARU's EXTRA]](https://osu.ppy.sh/beatmaps/1632337)
+  - [Meg & Dia - Monster (DotEXE Remix) [Xtra]](https://osu.ppy.sh/beatmaps/436825)
 - Hidden
-    - [Kuroneko Dungeon - Lilieze to Enryuu Laevateinn [Another†leggendaria]](https://osu.ppy.sh/beatmaps/725139)
-    - [ZUN - The Youkai Mountain \~ Mysterious Mountain [Lunatic]](https://osu.ppy.sh/beatmaps/76917)
-    - [Another Infinity feat. Mayumi Morinaga - COME BACK TO MY HEART (Ryu\* Remix) [Extreme]](https://osu.ppy.sh/beatmaps/186599)
+  - [Kuroneko Dungeon - Lilieze to Enryuu Laevateinn [Another†leggendaria]](https://osu.ppy.sh/beatmaps/725139)
+  - [ZUN - The Youkai Mountain \~ Mysterious Mountain [Lunatic]](https://osu.ppy.sh/beatmaps/76917)
+  - [Another Infinity feat. Mayumi Morinaga - COME BACK TO MY HEART (Ryu\* Remix) [Extreme]](https://osu.ppy.sh/beatmaps/186599)
 - Hard Rock
-    - [Breaking Benjamin - The Diary of Jane [Extreme]](https://osu.ppy.sh/beatmaps/1001921)
-    - [Eagle - S!ck [Extra]](https://osu.ppy.sh/beatmaps/341285)
-    - [An - Encryption [Kloyd's Extra]](https://osu.ppy.sh/beatmaps/258384)
+  - [Breaking Benjamin - The Diary of Jane [Extreme]](https://osu.ppy.sh/beatmaps/1001921)
+  - [Eagle - S!ck [Extra]](https://osu.ppy.sh/beatmaps/341285)
+  - [An - Encryption [Kloyd's Extra]](https://osu.ppy.sh/beatmaps/258384)
 - Double Time
-    - [Nanamori-chu \* Goraku-bu - Precious Friends [Insane]](https://osu.ppy.sh/beatmaps/420131)
-    - [Chata - Present [Insane]](https://osu.ppy.sh/beatmaps/1761649)
-    - [Mago de Oz - Xanandra [Sieg's Hard]](https://osu.ppy.sh/beatmaps/249032)
+  - [Nanamori-chu \* Goraku-bu - Precious Friends [Insane]](https://osu.ppy.sh/beatmaps/420131)
+  - [Chata - Present [Insane]](https://osu.ppy.sh/beatmaps/1761649)
+  - [Mago de Oz - Xanandra [Sieg's Hard]](https://osu.ppy.sh/beatmaps/249032)
 - Free Mod
-    - [nano - Silence [Insane]](https://osu.ppy.sh/beatmaps/555116)
-    - [Streetlight Manifesto - A Moment of Violence [Extra]](https://osu.ppy.sh/beatmaps/1035104)
-    - [onoken - Felys [DJPop's Insane]](https://osu.ppy.sh/beatmaps/160795)
+  - [nano - Silence [Insane]](https://osu.ppy.sh/beatmaps/555116)
+  - [Streetlight Manifesto - A Moment of Violence [Extra]](https://osu.ppy.sh/beatmaps/1035104)
+  - [onoken - Felys [DJPop's Insane]](https://osu.ppy.sh/beatmaps/160795)
 - Tiebreaker
-    - [FELT - Lies in Reality [Albatross]](https://osu.ppy.sh/beatmaps/1205981)
+  - **[FELT - Lies in Reality [Albatross]](https://osu.ppy.sh/beatmaps/1205981)**
 
 ### Qualifying Round 2
 
 **[Download the map pack here! (86.8MB)](https://mega.nz/#!f3ASAA7T!umH3bN99cnuYe1ZFsOiXauUBFQRrW0n-_Zr4V8gE9ZA)**
 
 - Nomod
-    - [96neko - E? Aa, sou. [Fabricated]](https://osu.ppy.sh/beatmaps/1914227)
-    - [cYsmix - Peer Gynt [Expert]](https://osu.ppy.sh/beatmaps/1691360)
-    - [Reid Speed & Ahee - Overtaken (feat. Heartwurkz) [Tonight is All Mine]](https://osu.ppy.sh/beatmaps/1877730)
+  - [96neko - E? Aa, sou. [Fabricated]](https://osu.ppy.sh/beatmaps/1914227)
+  - [cYsmix - Peer Gynt [Expert]](https://osu.ppy.sh/beatmaps/1691360)
+  - [Reid Speed & Ahee - Overtaken (feat. Heartwurkz) [Tonight is All Mine]](https://osu.ppy.sh/beatmaps/1877730)
 - Hidden
-    - [FLOOR LEGENDS -KAC 2012- - KAC 2012 ULTIMATE MEDLEY -HISTORIA SOUND VOLTEX- [N a s y a's INFINITE]](https://osu.ppy.sh/beatmaps/682020)
-    - [Bilibili Douga - Night of Feifan Brother [Feifan Bro]](https://osu.ppy.sh/beatmaps/139221)
+  - [FLOOR LEGENDS -KAC 2012- - KAC 2012 ULTIMATE MEDLEY -HISTORIA SOUND VOLTEX- [N a s y a's INFINITE]](https://osu.ppy.sh/beatmaps/682020)
+  - [Bilibili Douga - Night of Feifan Brother [Feifan Bro]](https://osu.ppy.sh/beatmaps/139221)
 - Hard Rock
-    - [nano - No pain, No game [Insane]](https://osu.ppy.sh/beatmaps/185761)
-    - [iru1919 - Tenko [Insane]](https://osu.ppy.sh/beatmaps/1759876)
+  - [nano - No pain, No game [Insane]](https://osu.ppy.sh/beatmaps/185761)
+  - [iru1919 - Tenko [Insane]](https://osu.ppy.sh/beatmaps/1759876)
 - Double Time
-    - [u's - START:DASH!! [Insane]](https://osu.ppy.sh/beatmaps/264252)
-    - [Hana - Gekka Jasmine (2014ver.) [Gyro's Light Insane]](https://osu.ppy.sh/beatmaps/1035068)
+  - [u's - START:DASH!! [Insane]](https://osu.ppy.sh/beatmaps/264252)
+  - [Hana - Gekka Jasmine (2014ver.) [Gyro's Light Insane]](https://osu.ppy.sh/beatmaps/1035068)
 
-*Maps were played in the order: NM3, HR2, DT2, HD2, HR1, NM2, DT1, NM1, HD1*
-
+NB: *Maps were played in the order: NM3, HR2, DT2, HD2, HR1, NM2, DT1, NM1, HD1*
 
 ### Qualifying Round 1
 
 **[Download the map pack here! (46.7MB)](https://mega.nz/#!T6RjDY7S!0PbquOystkS4v2-byiBC0b_KMEZA8lECFhMqjYKDm_A)**
 
 - Nomod
-    - [ALiCE'S EMOTiON - Cold Rain [Lunatic]](https://osu.ppy.sh/beatmaps/482650)
-    - [sakuzyo - VALLISTA [Another]](https://osu.ppy.sh/beatmaps/127313)
-    - [U - Ha-tenya? [Insane]](https://osu.ppy.sh/beatmaps/120080)
-    - [YUC'e - Sengoku HOP [apple's Insane]](https://osu.ppy.sh/beatmaps/1489274)
+  - [ALiCE'S EMOTiON - Cold Rain [Lunatic]](https://osu.ppy.sh/beatmaps/482650)
+  - [sakuzyo - VALLISTA [Another]](https://osu.ppy.sh/beatmaps/127313)
+  - [U - Ha-tenya? [Insane]](https://osu.ppy.sh/beatmaps/120080)
+  - [YUC'e - Sengoku HOP [apple's Insane]](https://osu.ppy.sh/beatmaps/1489274)
 - Hidden
-    - [Iguchi Yuka - RE-ILLUSION [Collab Insane]](https://osu.ppy.sh/beatmaps/1856697)
+  - [Iguchi Yuka - RE-ILLUSION [Collab Insane]](https://osu.ppy.sh/beatmaps/1856697)
 - Hard Rock
-    - [Meramipop - algorhythm [Insane]](https://osu.ppy.sh/beatmaps/136571)
+  - [Meramipop - algorhythm [Insane]](https://osu.ppy.sh/beatmaps/136571)
 - Double Time
-    - [T.M.Revolution x Mizuki Nana - Preserved Roses [Collab Hard]](https://osu.ppy.sh/beatmaps/522135)
+  - [T.M.Revolution x Mizuki Nana - Preserved Roses [Collab Hard]](https://osu.ppy.sh/beatmaps/522135)
 
 ## Schedules / Match Results
 
@@ -394,171 +394,227 @@ UKCC 7 concluded on the 27th October 2019.
 
 ### Losers Final + Grand Final
 
-| Wednesday, 2019-10-23 | | | | |
-| --: | :-: | :-: | :-- | :-- |
-| **Bubbleman** ![][flag_GB] | **7** | 4 | AJT ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55760376) |
+Wednesday, 23 October 2019
 
-| Wednesday, 2019-10-27 | | | | |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Spare ![][flag_GB] | 3 | **7** | **Bubbleman** ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55854629) |
-| Spare ![][flag_GB] | 0 | **7** | **Bubbleman** ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55856320) |
+| **Bubbleman** ![][flag_GB] | **7** | 4 | ![][flag_GB] AJT | [#1](https://osu.ppy.sh/community/matches/55760376) |
+
+Wednesday, 27 October 2019
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Spare ![][flag_GB] | 3 | **7** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/55854629) |
+| Spare ![][flag_GB] | 0 | **7** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/55856320) |
 
 ### Winners Final + Losers Round 6 / Semi Final
 
-| Saturday, 2019-10-19 | | | | |
-| --: | :-: | :-: | :-- | :-- |
-| **Spare** ![][flag_GB] | **6** | 3 | AJT ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55673675) |
+Saturday, 19 October 2019
 
-| Sunday, 2019-10-20 | | | | |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Harpy** ![][flag_GB] | **6** | 4 | AJT ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55693071) |
+| **Spare** ![][flag_GB] | **6** | 3 | ![][flag_GB] AJT | [#1](https://osu.ppy.sh/community/matches/55673675) |
 
-| Tuesday, 2019-10-21 | | | | |
-| --: | :-: | :-: | :-- | :-- |
-| Ventus ![][flag_GB] | 4 | **6** | **Bubbleman** ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55719453) |
+Sunday, 20 October 2019
 
-| Monday, 2019-10-22 | | | | |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Harpy ![][flag_GB] | 4 | **6** | **Bubbleman** ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55738843) |
+| **Harpy** ![][flag_GB] | **6** | 4 | ![][flag_GB] AJT| [#1](https://osu.ppy.sh/community/matches/55693071) |
+
+Tuesday, 21 October 2019
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Ventus ![][flag_GB] | 4 | **6** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/55719453) |
+
+Monday, 22 October 2019
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Harpy ![][flag_GB] | 4 | **6** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/55738843) |
 
 ### Semi Final + Losers Round 4 / 5
 
-| Friday, 2019-10-11 | | | | |
-| --: | :-: | :-: | :-- | :-- |
-| Malteser ![][flag_GB] | 2 | **6** | **Best459** ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55482259) |
+Friday, 11 October 2019
 
-| Saturday, 2019-10-12 | | | | |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| bloo ![][flag_GB] | - | **1** | **Kingling** ![][flag_GB] | FF |
+| Malteser ![][flag_GB] | 2 | **6** | ![][flag_GB] **Best459** | [#1](https://osu.ppy.sh/community/matches/55482259) |
 
-| Sunday, 2019-10-13 | | | | |
-| --: | :-: | :-: | :-- | :-- |
-| Wario ![][flag_GB] | 0 | **6** | **hlo** ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55542910) |
-| **Spare** ![][flag_GB] | **6** | 3 | Harpy ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55539551) |
-| **AJT** ![][flag_GB] | **6** | 4 | Ventus ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55545686) |
+Saturday, 12 October 2019
 
-| Tuesday, 2019-10-15 | | | | |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **hlo** ![][flag_GB] | **6** | 2 | Best459 ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55585920) |
+| bloo ![][flag_GB] | - | **1** | ![][flag_GB] **Kingling** | FF |
 
-| Wednesday, 2019-10-16 | | | | |
-| --: | :-: | :-: | :-- | :-- |
-| Doomsday ![][flag_GB] | 1 | **6** | **Bubbleman** ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55605940) |
+Sunday, 13 October 2019
 
-| Thursday, 2019-10-17 | | | | |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Kingling ![][flag_GB] | 3 | **6** | **Bubbleman** ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55620137) |
+| Wario ![][flag_GB] | 0 | **6** | ![][flag_GB] **hlo** | [#1](https://osu.ppy.sh/community/matches/55542910) |
+| **Spare** ![][flag_GB] | **6** | 3 | ![][flag_GB] Harpy | [#1](https://osu.ppy.sh/community/matches/55539551) |
+| **AJT** ![][flag_GB] | **6** | 4 | ![][flag_GB] Ventus | [#1](https://osu.ppy.sh/community/matches/55545686) |
+
+Tuesday, 15 October 2019
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **hlo** ![][flag_GB] | **6** | 2 | ![][flag_GB] Best459 | [#1](https://osu.ppy.sh/community/matches/55585920) |
+
+Wednesday, 16 October 2019
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Doomsday ![][flag_GB] | 1 | **6** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/55605940) |
+
+Thursday, 17 October 2019
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Kingling ![][flag_GB] | 3 | **6** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/55620137) |
 
 ### Quarter Final + Losers Round 2 / 3
 
-| Monday, 2019-9-30 | | | | |
-| --: | :-: | :-: | :-- | :-- |
-| **Apo11o** ![][flag_GB] | **5** | 2 | Defex ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55236437) |
+Monday, 2019-9-30
 
-| Friday, 2019-10-5 | | | | |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Kingling** ![][flag_GB] | **1** | - | meltz ![][flag_GB] | FF |
-| **Spare** ![][flag_GB] | **5** | 0 | bloo ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55335898) |
-| MoeYandere ![][flag_GB] | - | **1** | hlo ![][flag_GB] | FF |
-| **Kingling** ![][flag_GB] | **1** | - | Apo11o ![][flag_GB] | FF |
-| majoreh ![][flag_GB] | 2 | **5** | Zyphox ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55347021) |
-| **AJT** ![][flag_GB] | **5** | 3 | Best459 ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55350496) |
+| **Apo11o** ![][flag_GB] | **5** | 2 | ![][flag_GB] Defex | [#1](https://osu.ppy.sh/community/matches/55236437) |
 
-| Sunday, 2019-10-6 | | | | |
-| --: | :-: | :-: | :-- | :-- |
-| **Malteser** ![][flag_GB] | **5** | 3 | Woffel ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55368204) |
-| **hlo** ![][flag_GB] | **5** | 3 | Zyphox ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55368217) |
-| **Bubbleman** ![][flag_GB] | **5** | 1 | Rinnu ![][flag_GB] | [#1](https://osu.ppy.sh/mp/55371230) |
-| **Harpy** ![][flag_GB] | **5** | 3 | Doomsday ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55372794) |
-| Voss ![][flag_GB] | 2 | 5 | **Kerantina** ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55376109) |
-| Wario ![][flag_GB] | 2 | 5 | **Ventus** ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55378053) |
+Friday, 5 October 2019
 
-| Monday, 2019-10-7 | | | | |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| helix ![][flag_GB] | 3 | **5** | **Summer Solstice** ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55399760) |
+| **Kingling** ![][flag_GB] | **1** | - | ![][flag_GB] meltz | FF |
+| **Spare** ![][flag_GB] | **5** | 0 | ![][flag_GB] bloo | [#1](https://osu.ppy.sh/community/matches/55335898) |
+| MoeYandere ![][flag_GB] | - | **1** | ![][flag_GB] hlo | FF |
+| **Kingling** ![][flag_GB] | **1** | - | ![][flag_GB] Apo11o | FF |
+| majoreh ![][flag_GB] | 2 | **5** | ![][flag_GB] Zyphox | [#1](https://osu.ppy.sh/community/matches/55347021) |
+| **AJT** ![][flag_GB] | **5** | 3 | ![][flag_GB] Best459 | [#1](https://osu.ppy.sh/community/matches/55350496) |
 
-| Tuesday, 2019-10-8 | | | | |
-| --: | :-: | :-: | :-- | :-- |
-| Summer Solstice ![][flag_GB] | 1 | **5** | **Malteser** ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55419418) |
+Sunday, 6 October 2019
 
-| Friday, 2019-10-11 | | | | |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Kerantina ![][flag_GB] | 0 | **5** | **Bubbleman** ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55477017) |
+| **Malteser** ![][flag_GB] | **5** | 3 | ![][flag_GB] Woffel | [#1](https://osu.ppy.sh/community/matches/55368204) |
+| **hlo** ![][flag_GB] | **5** | 3 | ![][flag_GB] Zyphox | [#1](https://osu.ppy.sh/community/matches/55368217) |
+| **Bubbleman** ![][flag_GB] | **5** | 1 | ![][flag_GB] Rinnu | [#1](https://osu.ppy.sh/mp/55371230) |
+| **Harpy** ![][flag_GB] | **5** | 3 | ![][flag_GB] Doomsday | [#1](https://osu.ppy.sh/community/matches/55372794) |
+| Voss ![][flag_GB] | 2 | 5 | ![][flag_GB] **Kerantina** | [#1](https://osu.ppy.sh/community/matches/55376109) |
+| Wario ![][flag_GB] | 2 | 5 | ![][flag_GB] **Ventus** | [#1](https://osu.ppy.sh/community/matches/55378053) |
+
+Monday, 7 October 2019
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| helix ![][flag_GB] | 3 | **5** |![][flag_GB] **Summer Solstice** | [#1](https://osu.ppy.sh/community/matches/55399760) |
+
+Tuesday, 8 October 2019
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Summer Solstice ![][flag_GB] | 1 | **5** | ![][flag_GB] **Malteser** | [#1](https://osu.ppy.sh/community/matches/55419418) |
+
+Friday, 11 October 2019
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Kerantina ![][flag_GB] | 0 | **5** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/55477017) |
 
 ### RO16 + Losers Round 1
 
-| Friday, 2019-9-27 | | | | |
-| --: | :-: | :-: | :-- | :-- |
-| **Harpy** ![][flag_GB] | **5** | 1 | MoeYandere ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55145284) |
+Friday, 27 September 2019
 
-| Saturday, 2019-9-28 | | | | |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **meltz** ![][flag_GB] | **5** | 4 | pod ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55166896) |
-| **Kerantina** ![][flag_GB] | **5** | 3 | Tilley ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55171273) |
-| Kirix ![][flag_GB] | 0 | **5** | **Rinnu** ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55173434) |
-| **Defex** ![][flag_GB] | **5** | 0 | xFluffyo ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55173947) |
-| **hlo** ![][flag_GB] | **1** | - | DeltaZero ![][flag_GB] | FF |
-| **Best459** ![][flag_GB] | **5** | 0 | Apo11o ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55179412) |
+| **Harpy** ![][flag_GB] | **5** | 1 | ![][flag_GB] MoeYandere | [#1](https://osu.ppy.sh/community/matches/55145284) |
 
-| Sunday, 2019-9-29 | | | | |
-| --: | :-: | :-: | :-- | :-- |
-| **Spare** ![][flag_GB] | **5** | 3 | helix ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55205273) |
-| **Doomsday** ![][flag_GB] | **5** | 3 | majoreh ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55206159) |
-| **Woffel** ![][flag_GB] | **5** | 1 | -spoon- ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55210336) |
-| **AJT** ![][flag_GB] | **5** | 4 | Kingling ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55211334) |
-| **Cla** ![][flag_GB] | **5** | 1 | Summer Solstice ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55212272) |
-| Bubbleman ![][flag_GB] | - | **5** | **Ventus** ![][flag_GB] | FF |
-| Voss ![][flag_GB] | 2 | **5** | **Wario** ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55214023) |
+Saturday, 28 September 2019
 
-| Wednesday, 2019-10-2 | | | | |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **bloo** ![][flag_GB] | **5** | 2 | Malteser ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55274719) |
+| **meltz** ![][flag_GB] | **5** | 4 | ![][flag_GB] pod | [#1](https://osu.ppy.sh/community/matches/55166896) |
+| **Kerantina** ![][flag_GB] | **5** | 3 | ![][flag_GB] Tilley | [#1](https://osu.ppy.sh/community/matches/55171273) |
+| Kirix ![][flag_GB] | 0 | **5** | ![][flag_GB] **Rinnu** | [#1](https://osu.ppy.sh/community/matches/55173434) |
+| **Defex** ![][flag_GB] | **5** | 0 | ![][flag_GB] xFluffyo | [#1](https://osu.ppy.sh/community/matches/55173947) |
+| **hlo** ![][flag_GB] | **1** | - | ![][flag_GB] DeltaZero | FF |
+| **Best459** ![][flag_GB] | **5** | 0 | ![][flag_GB] Apo11o | [#1](https://osu.ppy.sh/community/matches/55179412) |
 
-| Thursday, 2019-10-3 | | | | |
+Sunday, 29 September 2019
+
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Appilesh ![][flag_GB] | 0 | **5** | **Zyphox** ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55296385) |
+| **Spare** ![][flag_GB] | **5** | 3 | ![][flag_GB] helix | [#1](https://osu.ppy.sh/community/matches/55205273) |
+| **Doomsday** ![][flag_GB] | **5** | 3 | ![][flag_GB] majoreh | [#1](https://osu.ppy.sh/community/matches/55206159) |
+| **Woffel** ![][flag_GB] | **5** | 1 | ![][flag_GB] -spoon- | [#1](https://osu.ppy.sh/community/matches/55210336) |
+| **AJT** ![][flag_GB] | **5** | 4 | ![][flag_GB] Kingling | [#1](https://osu.ppy.sh/community/matches/55211334) |
+| **Cla** ![][flag_GB] | **5** | 1 | ![][flag_GB] Summer Solstice | [#1](https://osu.ppy.sh/community/matches/55212272) |
+| Bubbleman ![][flag_GB] | - | **1** | ![][flag_GB] **Ventus** | FF |
+| Voss ![][flag_GB] | 2 | **5** | ![][flag_GB] **Wario** | [#1](https://osu.ppy.sh/community/matches/55214023) |
+
+Wednesday, 2 October 2019
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **bloo** ![][flag_GB] | **5** | 2 | ![][flag_GB] Malteser | [#1](https://osu.ppy.sh/community/matches/55274719) |
+
+Thursday, 3 October 2019
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Appilesh ![][flag_GB] | 0 | **5** | ![][flag_GB] **Zyphox** | [#1](https://osu.ppy.sh/community/matches/55296385) |
 
 ### RO32
 
-| Friday, 2019-9-20 | | | | |
-| --: | :-: | :-: | :-- | :-- |
-| **MoeYandere** ![][flag_GB] | **5** | 1 | xFluffyo ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/54975432) |
+Friday, 20 September 2019
 
-| Saturday, 2019-9-21 | | | | |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Spare** ![][flag_GB] | **5** | 1 | Kirix ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55002002) |
-| **AJT** ![][flag_GB] | **5** | 1 | Appilesh ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55002344) |
-| **Best459** ![][flag_GB] | **5** | 3 | hlo ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55004099) |
-| **Doomsday** ![][flag_GB] | **5** | 0 | meltz ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55008167) |
-| **Malteser** ![][flag_GB] | **5** | 0 | Tilley ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55010302) |
+| **MoeYandere** ![][flag_GB] | **5** | 1 | ![][flag_GB] xFluffyo | [#1](https://osu.ppy.sh/community/matches/54975432) |
 
-| Sunday, 2019-9-22 | | | | |
-| --: | :-: | :-: | :-- | :-- |
-| **Bubbleman** ![][flag_GB] | **5** | 0 | Cla ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55033230) |
-| **majoreh** ![][flag_GB] | **5** | 2 | pod ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55036478) |
-| Zyphox ![][flag_GB] | 3 | **5** | **Kingling** ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55036528) |
-| **bloo** ![][flag_GB] | **5** | 2 | Kerantina ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55039874) |
-| **Voss** ![][flag_GB] | **5** | 1 | Woffel ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55040015) |
-| **Harpy** ![][flag_GB] | **5** | 0 | Defex ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55042213) |
-| **helix** ![][flag_GB] | **5** | 1 | Rinnu ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55043513) |
-| **Apo11o** ![][flag_GB] | 1 | - | DeltaZero ![][flag_GB] | FF |
+Saturday, 21 September 2019
 
-| Monday, 2019-9-23 | | | | |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| -spoon- ![][flag_GB] | 4 | **5** | Wario ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55061725) |
+| **Spare** ![][flag_GB] | **5** | 1 | ![][flag_GB] Kirix | [#1](https://osu.ppy.sh/community/matches/55002002) |
+| **AJT** ![][flag_GB] | **5** | 1 | ![][flag_GB] Appilesh | [#1](https://osu.ppy.sh/community/matches/55002344) |
+| **Best459** ![][flag_GB] | **5** | 3 | ![][flag_GB] hlo | [#1](https://osu.ppy.sh/community/matches/55004099) |
+| **Doomsday** ![][flag_GB] | **5** | 0 | ![][flag_GB] meltz | [#1](https://osu.ppy.sh/community/matches/55008167) |
+| **Malteser** ![][flag_GB] | **5** | 0 | ![][flag_GB] Tilley | [#1](https://osu.ppy.sh/community/matches/55010302) |
 
-| Wednesday, 2019-9-25 | | | | |
+Sunday, 22 September 2019
+
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Ventus** ![][flag_GB] | **5** | 4 | Summer Solstice ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/55103447) |
+| **Bubbleman** ![][flag_GB] | **5** | 0 | ![][flag_GB] Cla | [#1](https://osu.ppy.sh/community/matches/55033230) |
+| **majoreh** ![][flag_GB] | **5** | 2 | ![][flag_GB] pod | [#1](https://osu.ppy.sh/community/matches/55036478) |
+| Zyphox ![][flag_GB] | 3 | **5** | ![][flag_GB] **Kingling** | [#1](https://osu.ppy.sh/community/matches/55036528) |
+| **bloo** ![][flag_GB] | **5** | 2 | ![][flag_GB] Kerantina | [#1](https://osu.ppy.sh/community/matches/55039874) |
+| **Voss** ![][flag_GB] | **5** | 1 | ![][flag_GB] Woffel | [#1](https://osu.ppy.sh/community/matches/55040015) |
+| **Harpy** ![][flag_GB] | **5** | 0 | ![][flag_GB] Defex | [#1](https://osu.ppy.sh/community/matches/55042213) |
+| **helix** ![][flag_GB] | **5** | 1 | ![][flag_GB] Rinnu | [#1](https://osu.ppy.sh/community/matches/55043513) |
+| **Apo11o** ![][flag_GB] | 1 | - | ![][flag_GB] DeltaZero | FF |
+
+Monday, 23 September 2019
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| -spoon- ![][flag_GB] | 4 | **5** | ![][flag_GB] Wario | [#1](https://osu.ppy.sh/community/matches/55061725) |
+
+Wednesday, 25 September 2019
+
+| Player 1 | | | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Ventus** ![][flag_GB] | **5** | 4 | ![][flag_GB] Summer Solstice | [#1](https://osu.ppy.sh/community/matches/55103447) |
 
 ### Qualifier Round 2
 
-Full results: [LINK](https://docs.google.com/spreadsheets/d/1ubY1Oci0HaH-rny6IKbqlRszPzquwSm9n4fwwnqn5yA/edit#gid=1213327055)  
+[Full results](https://docs.google.com/spreadsheets/d/1ubY1Oci0HaH-rny6IKbqlRszPzquwSm9n4fwwnqn5yA/edit#gid=1213327055)  
 ![Qualifier 2 Results table](https://i.imgur.com/XlM1Pr9.png)
 
 ### Qualifier Round 1
 
-Full results: [LINK](https://docs.google.com/spreadsheets/d/1ubY1Oci0HaH-rny6IKbqlRszPzquwSm9n4fwwnqn5yA/edit#gid=1010206758)  
+[Full results](https://docs.google.com/spreadsheets/d/1ubY1Oci0HaH-rny6IKbqlRszPzquwSm9n4fwwnqn5yA/edit#gid=1010206758)  
 ![Qualifier 1 Results table](https://i.imgur.com/pOTBzTC.png)
 
 ---
@@ -568,13 +624,13 @@ Cya next time 👋
 *Written by ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972)*
 
 <!-- Assets -->
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_IE]: /wiki/shared/flag/IE.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_DE]: /wiki/shared/flag/DE.gif "Denmark"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
+[flag_NL]: /wiki/shared/flag/NL.gif "The Netherlands"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_US]: /wiki/shared/flag/US.gif "United States"

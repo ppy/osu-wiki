@@ -2,7 +2,8 @@
 
 ## Wiki for UK Community Cups
 
-### Current Hosts  
+### Current Hosts
+
 - ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972)  
 - ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973)
 
@@ -17,14 +18,17 @@
 - [UKCC 4](UKCC7 "UK Community Cup 7th edition 2v2 - 2018")
 - [UKCC 5](UKCC7 "UK Community Cup 7th edition 1v1 - 2018")
 - [UKCC 6](UKCC7 "UK Community Cup 7th edition 2v2 - 2019") -->
+
 - [UKCC 7](UKCC7 "UK Community Cup 7th edition")
 
 #### In Progress
+
 - [UKCC 8 - Stage: SIGNUPS](UKCC8 "UK Community Cup 8th")
 
 ### Links
-- [Discord](https://discord.gg/EtsU7Cw)  
-- [Twitch](https://twitch.tv/osuukcc)
+
+- [UKCC Discord server](https://discord.gg/EtsU7Cw)  
+- [Livestream](https://twitch.tv/osuukcc)
 
 ---
 
@@ -34,7 +38,5 @@ Feel free to join the osu!Four Nations discord server. This is a community dedic
 
 [![osu! 4 Nations](img/4nations.png)](https://discord.gg/EtsU7Cw)
 
-
-
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_IE]: /wiki/shared/flag/IE.gif
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
