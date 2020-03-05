@@ -497,7 +497,7 @@ Auto Pilot is not available for use in [osu!taiko][osu!taiko wikilink], [osu!cat
 
 ![Spun Out mod spinning in clockwise rotation on a darken spinner at 286 spins per minute][SO1]
 
-Spun Out mod will clear all the beatmap's spinner(s) at 286 spins per minute (half of Auto's 477 spins per minute) in clockwise rotation.
+Spun Out mod will clear all the beatmap's spinner(s) at 286.48 spins per minute (3/5 of Auto's 477.46 spins per minute) in clockwise rotation.
 
 Spinners will be disabled and the player cannot spin to increase the spins per minute value.
 

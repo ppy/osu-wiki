@@ -228,7 +228,7 @@ osu! organizes the commands with a heading command. Which may look like this `[G
   - Values: `0` or `1`
   - Default: `1`
 - `CursorTrailRotate:`
-  - Question: Should the cursor sprite rotate constantly?
+  - Question: Should the cursor trail sprite rotate constantly?
   - Values: `0` or `1`
   - Default: `1`
 - `CustomComboBurstSounds:`
