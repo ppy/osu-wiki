@@ -1,6 +1,6 @@
 # Mappers' Guild
 
-The **Mappers' Guild** is a group of mappers responsible for creating beatmaps for osu!'s [featured artists](/wiki/Featured_Artists). Utilizing a MMO-style guild format, it allows mappers to work together to level up by participating in the ranking process for featured artist beatmaps and cooperating in mapping-related quests. 
+The **Mappers' Guild** is a group of mappers responsible for creating beatmaps for osu!'s [featured artists](/wiki/Featured_Artists). Utilizing a MMO-style guild format, it allows mappers to earn rewards by participating in the ranking process for featured artist beatmaps and cooperating in mapping-related quests. 
 
 ## History
 
@@ -8,15 +8,15 @@ The Mappers' Guild launched with a group of less than 10 mappers in late 2017. G
 
 To promote older featured artists, the group increased its member count and ranked 8 beatmaps from different artists. These beatmaps were published in a [news post](https://osu.ppy.sh/home/news/2018-03-17-new-mappers-guild-pack-release) alongside a downloadable beatmap pack.
 
-Following in the footsteps of both of these, the Mappers' Guild continuously increased its member count while publishing beatmap packs for new featured artist announcements, such as [High Tea Music](https://osu.ppy.sh/home/news/2018-08-13-new-featured-artist-high-tea-music), [Culprate](https://osu.ppy.sh/home/news/2018-11-21-new-featured-artist-culprate), and [HyuN](https://osu.ppy.sh/beatmaps/artists/33), accompanied by other beatmap packs for older featured artist tracks.
+Following in the footsteps of both of these beatmap packs, the Mappers' Guild continuously increased its member count while publishing packs for new featured artist announcements, such as [High Tea Music](https://osu.ppy.sh/home/news/2018-08-13-new-featured-artist-high-tea-music), [Culprate](https://osu.ppy.sh/home/news/2018-11-21-new-featured-artist-culprate), and [HyuN](https://osu.ppy.sh/beatmaps/artists/33), accompanied by other packs for older featured artist songs.
 
 ### Automation
 
-While the initial plan for the Mappers' Guild had always been to have MMO elements like quests, it wasn't practical to handle that while manually managing deadlines for the limited number of participants in the guild.
+While the initial plan for the Mappers' Guild had always been to have MMO elements like quests, that was found to be impractical to handle while manually managing deadlines for the limited number of guild participants.
 
-Development of a website to automate Mappers' Guild membership began at the end of 2018, allowing for more adequate distribution of rewards and management of quest/party systems.
+Development of a website to automate Mappers' Guild began at the end of 2018, allowing for more adequate distribution of rewards and management of quest/party systems.
 
-The [Mappers' Guild website](https://mappersguild.com/) launched on March 1st, 2019, and is where everything about the Mappers' Guild is currently controlled. Since being opened to the public, the guild has reached a member count over 500 and publishes news posts, such as [this](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild) to keep the rest of the osu! community up to date with featured artist mapping content.
+The [Mappers' Guild website](https://mappersguild.com/) launched on March 1st, 2019, and is where everything about the Mappers' Guild is currently controlled. Since being opened to the public, the guild has reached a member count over 500 and publishes news posts such as [this](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild) to keep the rest of the osu! community up to date with featured artist mapping content.
 
 ## System
 
@@ -42,6 +42,6 @@ Quest participation is not required for members of the Mappers' Guild. If a user
 
 Rewards are distributed through a points system. When a user reaches a specified points threshold, they earn a different rank signified by a profile badge. There are three profile badge tiers at 100, 250, and 500 points respectively.
 
-Points are earned for different mapping-related tasks. Earnings vary between tasks, though they are generally weighted according to the amount of time required. For example, mapping a Hard difficulty takes less time than mapping an Easy difficulty, so the first rewards more points than the second. 
+Points are earned for different mapping-related tasks. Earnings vary between tasks, though they are generally weighted according to the amount of time required. For example, mapping a `Hard` difficulty takes less time than mapping an `Easy` difficulty, so the first rewards more points than the second. 
 
 Difficulty creation tasks earn a user more points if the beatmap is associated with a quest. Completing a quest provides users with a pre-determined bonus that varies between each quest.
