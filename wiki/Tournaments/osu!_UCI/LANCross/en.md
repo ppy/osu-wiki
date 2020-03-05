@@ -15,7 +15,7 @@ tags:
 
 ![Map of the Student Center showing Moss Cove](/wiki/shared/UCI-Moss-Cove-map.png "Moss Cove in the Student Center")
 
-LANCross will take place on **Sunday, April 5, 2020** at the **UCI Student Center (311 W Peltason Dr, Irvine, CA 92697)**, in room **Moss Cove AB**. The room will be open from 9 a.m. to at least 9 p.m., and the tournaments are expected to start around 11 a.m. Participants should arrive as early as possible! The adjacent Student Center Parking Structure has parking priced around $10.
+LANCross will take place on **Sunday, April 5, 2020** at the **UCI Student Center (311 W Peltason Dr, Irvine, CA 92697)**, in room **Moss Cove AB**. The room will be open from 9 a.m. to at least 9 p.m., and the tournaments are expected to start around 11 a.m. Participants should arrive as early as possible! The adjacent Student Center Parking Structure has all-day parking for $13.
 
 **[Please RSVP for LANCross!](http://www.osuuci.com/tournaments/LANCross/#registration)** You should also [join the osu! UCI Discord server](https://discord.gg/qbZddFV) to receive updates.
 
