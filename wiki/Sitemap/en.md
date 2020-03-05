@@ -337,6 +337,7 @@ tags:
     - [SWEAT](/wiki/Tournaments/osu!_Riverside/SWEAT)
   - [osu! UCI](/wiki/Tournaments/osu!_UCI)
     - [iDOL@NSTER](/wiki/Tournaments/osu!_UCI/iDOL@NSTER)
+    - [LANCross](/wiki/Tournaments/osu!_UCI/LANCross)
     - [NFL](/wiki/Tournaments/osu!_UCI/NFL)
   - [OTC](/wiki/Tournaments/OTC)
     - [1](/wiki/Tournaments/OTC/1)

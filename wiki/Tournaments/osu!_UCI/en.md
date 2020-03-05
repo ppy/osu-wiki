@@ -13,3 +13,4 @@ Index page for all of the osu! tournaments hosted by [osu! UCI](/wiki/Organisati
 - Third osu! Winter LAN (**TOWL**)
 - [The iDOL@NSTER: Irvine Spring Stage](iDOL@NSTER)
 - [Night Fall LAN](NFL) (**NFL**)
+- [LANCross spring 2020 irvine culture](LANCross)
