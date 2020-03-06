@@ -1,15 +1,16 @@
 ---
 tags:
-- OD
-- Hit Window
-- Notelock
+  - OD
+  - Hit Window
+  - Notelock
+  - Accuracy
 ---
 
-# Overall Difficulty
+# Overall difficulty
 
-*For recommended OD values, see: [Ranking Criteria](/wiki/Ranking_Criteria/)*
+*For recommended OD values, see: [Ranking Criteria](/wiki/Ranking_Criteria)*
 
-Overall difficulty, commonly abbreviated as *OD*, defines how difficult it is to achieve high accuracy. The value ranges from 0 to 10; higher OD values will require more accuracy and precision. At OD0, a player can get a hit score of 300 at less than 79.5ms away from hitting it exactly on-time. On the other end of the scale, OD10 requires being less than 19.5ms away for the same hit score of 300.
+Overall difficulty, commonly abbreviated as *OD*, defines how difficult it is to achieve high [accuracy](/wiki/Accuracy). The value ranges from 0 to 10; higher OD values will require more accuracy and precision. At OD0, a player can get a hit score of 300 at less than 79.5ms away from hitting it exactly on-time. On the other end of the scale, OD10 requires being less than 19.5ms away for the same hit score of 300.
 
 Since accuracy is important for gaining health, overall difficulty indirectly influences how hard it is to pass a [beatmap](/wiki/Beatmaps). Higher OD values mean shorter time windows to clear [hit objects](/wiki/Hit_Objects), both in general and in terms of getting high score values. The width of the hit window is defined by the following table:
 
@@ -19,7 +20,7 @@ Since accuracy is important for gaining health, overall difficulty indirectly in
 | 100 | `100ms + 40ms * (5 - OD) / 5` |
 | 300 | `50ms + 30ms * (5 - OD) / 5` |
 
-In osu!standard, overall difficulty also affects spinners, in which they must be spun more to fill up the gauge in time. In osu!taiko, the denden will also need more hits to clear it. The difficulty of spinners is defined through the following formulas:
+In [osu!standard](/wiki/Game_Modes/osu!), overall difficulty also affects spinners, in which they must be spun more to fill up the gauge in time. In [osu!taiko](/wiki/Game_Modes/osu!taiko), the denden will also need more hits to clear it. The difficulty of spinners is defined by the following formulas:
 
 - OD < 5: `spins_per_second = 5 - 2 * (5 - OD) / 5`
 - OD = 5: `spins_per_second = 5`
@@ -31,7 +32,7 @@ In osu!standard, the timing system will not allow a hit object to be tapped unti
 
 ## Mods
 
-There are four mods which alter Overall Difficulty timing when activated:
+There are four mods which alter overall difficulty timing when activated:
 
 - [Easy](/wiki/EZ): Halves the OD value.
 - [Hard Rock](/wiki/HR): Multiplies the OD value by 1.4, up to a maximum of OD10.
