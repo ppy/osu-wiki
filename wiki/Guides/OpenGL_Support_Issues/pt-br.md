@@ -1,4 +1,4 @@
-# OpenGL support issues (Português)
+# OpenGL support issues (Português-Brasil)
 
 O próximo grande relançamento do osu! remove suporte ao DirectX para simplificar o nosso framework. Se você está vendo esta página, significa que você provavelmente não poderá jogar osu! no seu sistema atual quando a nova versão for lançada. Esta página tem soluções comuns para problemas que encontramos. Por favor leia e tente!
 
