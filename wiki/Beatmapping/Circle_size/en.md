@@ -16,6 +16,7 @@ In osu!standard [beatmaps](/wiki/Beatmaps), circle size changes the size of circ
 `r = 32 * (1 - 0.7 * (CS - 5) / 5)`
 
 Where `r` is the radius measured in osu!pixels, and `CS` is the numerical circle size value.
+<!-- multiplied by 1.00041 in the end to account for some bug in old replays -->
 
 ## osu!taiko
 
