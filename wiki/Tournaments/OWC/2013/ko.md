@@ -12,9 +12,9 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
 
 | Placing                                                    | Country                                 |
 |------------------------------------------------------------|-----------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | ![][flag_KR] **한국**  |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_TW] **대만**  |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_PL] **폴란드** |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | ![][flag_KR] **한국**  |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TW] **대만**  |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PL] **폴란드** |
 
 ## 전체 대회일정
 
@@ -32,9 +32,9 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
 
 | Placing                                                    | Prize(s)                                                        |
 |------------------------------------------------------------|-----------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 서포터 6개월, 프로필 뱃지, OWC 우승 트로피, [타블렛](https://osu.ppy.sh/community/forums/topics/169139) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 서포터 3개월                                                         |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 서포터 1개월                                                         |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 서포터 6개월, 프로필 뱃지, OWC 우승 트로피, [타블렛](https://osu.ppy.sh/community/forums/topics/169139) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 서포터 3개월                                                         |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 서포터 1개월                                                         |
 
 ## 운영 위원
 

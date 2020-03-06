@@ -23,9 +23,9 @@
 
 | Placing                                                    | Prizes                        |
 |------------------------------------------------------------|-------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 1位：総額の50%とosu! Championのタイトル |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2位：総額の38%とプロフィールバッジ           |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 3位：総額の12%とプロフィールバッジ           |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 1位：総額の50%とosu! Championのタイトル |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 2位：総額の38%とプロフィールバッジ           |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 3位：総額の12%とプロフィールバッジ           |
 
 ## 主催者構成
 

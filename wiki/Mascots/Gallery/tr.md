@@ -37,6 +37,6 @@ outdated: true
 
 ## Cameolar
 
-![osu!catch'te Ryuuta.](../img/Ryuuta.png "osu!catch'te Ryuuta.")
-![Chibi-J](../img/Agent_J.png "Chibi-J")
+![osu!catch'te Ryuuta.](/wiki/Mascots/img/Ryuuta.png "osu!catch'te Ryuuta.")
+![Chibi-J](/wiki/Mascots/img/Agent_J.png "Chibi-J")
 ![Eski Özel Modlarda pippi & arkadaşları.](/wiki/shared/Ctb_logo.jpg "Eski Özel Modlarda pippi & arkadaşları.")

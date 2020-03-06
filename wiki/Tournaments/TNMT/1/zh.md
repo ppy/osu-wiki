@@ -25,9 +25,9 @@
 
 | 名次 | 奖品 |
 | :-: | :-- |
-| ![金冠](/wiki/shared/GCrown.png "第一名") | 3个月 osu!支持者，主页定制勋章 |
-| ![银冠](/wiki/shared/SCrown.png "第二名") | 2个月 osu!支持者 |
-| ![铜冠](/wiki/shared/BCrown.png "第三名") | 1个月 osu!支持者 |
+| ![金冠](/wiki/shared/crown-gold.png "第一名") | 3个月 osu!支持者，主页定制勋章 |
+| ![银冠](/wiki/shared/crown-silver.png "第二名") | 2个月 osu!支持者 |
+| ![铜冠](/wiki/shared/crown-bronze.png "第三名") | 1个月 osu!支持者 |
 
 ## 主办团队
 

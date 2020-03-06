@@ -27,9 +27,9 @@ The **Asian-Oceanian Taiko Showdown** (***AOTS***) was an Asian and Oceanian dou
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge, exclusive team banner |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Exclusive team banner |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Exclusive team banner |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, exclusive team banner |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Exclusive team banner |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Exclusive team banner |
 
 ![AOTS Winner Badge](img/badge.png)
 
@@ -87,9 +87,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_JP] [Saikoro](https://osu.ppy.sh/users/741819) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_HK] [MTDex](https://osu.ppy.sh/users/9468283) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_JP] [Saikoro](https://osu.ppy.sh/users/741819) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_HK] [MTDex](https://osu.ppy.sh/users/9468283) |
 
 ---
 

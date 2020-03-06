@@ -10,9 +10,9 @@ La osu! World Cup 2013 fue un torneo organizado por el [Tournament Management](h
 
 | Placing                                                    | Country                                          |
 |------------------------------------------------------------|--------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | ![][flag_KR] **Corea del Sur** |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_TW] **Taiwán**        |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_PL] **Polonia**       |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | ![][flag_KR] **Corea del Sur** |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TW] **Taiwán**        |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PL] **Polonia**       |
 
 ## Calendario
 
@@ -30,9 +30,9 @@ La osu! World Cup 2013 fue un torneo organizado por el [Tournament Management](h
 
 | Placing                                                    | Prize(s)                                                                                        |
 |------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 meses de support, placa para el perfil, trofeo OWC, [osu!tablet](https://osu.ppy.sh/community/forums/topics/169139) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 meses de support                                                                              |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 mes de support                                                                                |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 6 meses de support, placa para el perfil, trofeo OWC, [osu!tablet](https://osu.ppy.sh/community/forums/topics/169139) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 meses de support                                                                              |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 mes de support                                                                                |
 
 ## Organización
 

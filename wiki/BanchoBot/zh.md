@@ -17,7 +17,7 @@ BanchoBot 是 [Bancho IRC](/wiki/Internet_Relay_Chat) 的主体，其 ID 为 *[#
 *查阅客户端指令列表，请参见 [聊天窗口](/wiki/Chat_Console#命令列表) 。*
 
 | 指令名 | 语法 | 介绍 | 示例指令 | 示例输出 |
-| --- | --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- | :-- |
 | `HELP` | 无 | 返回可用指令的列表 | `!help` | （本列表） |
 | `ROLL` | `[整数]` | 返回不大于给定整数的随机自然数。如果仅仅输入`!roll`，将会使用默认最大值 100。 | `!roll 1000` | "Nathanael rolls 789 point(s)" |
 | `STATS` | `<玩家名>` | 显示目标玩家在目标前游玩模式中的游戏数据统计 | `!stats peppy` | "Stats for [peppy](https://osu.ppy.sh/users/2): Score: 412,018,739 (#94718), Plays: 7073 (lv65), Accuracy: 87.31%" |

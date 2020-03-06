@@ -1,3 +1,9 @@
+---
+tags:
+  - captain
+  - captains
+---
+
 # Project Loved Team
 
 The **Project Loved Team** are members of the osu! community who manage [Project Loved](/wiki/Project_Loved), the voting platform that promotes beatmaps to the [Loved](/wiki/Beatmaps#loved) category.
@@ -9,6 +15,8 @@ The Project Loved Team mostly consists of **captains** for each [game mode](/wik
 The rest of the team helps with quality control, maintenance, and organisation.
 
 ## Team members
+
+*Note: There is a Project Loved user group on the website with group ID 31, but the listing is not public. It is only used for management purposes.*
 
 ![][flag_US] **[Toy](https://osu.ppy.sh/users/2757689)** manages Project Loved and coordinates most of its activities.
 

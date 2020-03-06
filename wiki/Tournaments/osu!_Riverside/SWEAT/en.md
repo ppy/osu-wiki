@@ -41,10 +41,10 @@ All prizes were awarded to osu! and osu!mania winners separately.
 <!-- TODO: Add other prizes if/when there are images uploaded that show winners with them... -->
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Profile badge |
 <!--
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") |  |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") |  |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") |  |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") |  |
 -->
 
 ![SWEAT osu! profile badge](img/badge-osu.png) ![SWEAT osu!mania profile badge](img/badge-mania.png)
@@ -64,17 +64,17 @@ All prizes were awarded to osu! and osu!mania winners separately.
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_US] [Darin on osu](https://osu.ppy.sh/users/4839876) |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] [R Y A N](https://osu.ppy.sh/users/2765201) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] [Darin on osu](https://osu.ppy.sh/users/4839876) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [R Y A N](https://osu.ppy.sh/users/2765201) |
 
 ### osu!mania
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_US] [Ecal](https://osu.ppy.sh/users/8384260) |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] [Ecal](https://osu.ppy.sh/users/8384260) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) |
 
 ## Match results
 

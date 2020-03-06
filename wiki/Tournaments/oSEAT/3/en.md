@@ -8,7 +8,7 @@ tags:
 
 ![oSEAT3 logo](img/logo.jpg)
 
-The **osu! South East Asia Tournament 3** (***oSEAT3***) is a South East Asian double-elimination 1v1 osu! tournament hosted by ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), and ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911). This is the third installment of the osu! South East Asia Tournament.
+The **osu! South East Asia Tournament 3** (***oSEAT3***) was a South East Asian double-elimination one-on-one osu! tournament hosted by ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), and ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911). It was the third installment of the osu! South East Asia Tournament.
 
 ## Tournament schedule
 
@@ -23,25 +23,25 @@ The **osu! South East Asia Tournament 3** (***oSEAT3***) is a South East Asian d
 | Quarterfinals | 2020-01-15/2020-01-20 |
 | Semifinals | 2020-01-26/2020-02-02 |
 | Finals | 2020-02-08/2020-02-09 |
-| Grand Finals | 2020-02-15/2020-02-16 |
+| Grand Finals | 2020-02-16 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge, 1 year of osu!supporter tag |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | 6 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | 4 months of osu!supporter tag |
-| 4th place | 2 months of osu!supporter tag |
-| 5th place | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 1 year of osu!supporter tag |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter tag |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter tag |
+| *4th place* | 2 months of osu!supporter tag |
+| *5th place* | 1 month of osu!supporter tag |
 
-*Note: 5th place will be determined by a playoff.*
+*Note: 5th place was determined by a playoff.*
 
 ![oSEAT3 winner badge](img/badge.png)
 
 ## Organisation
 
-The osu! South East Asia 3 is run by various community members.
+The osu! South East Asia 3 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -61,6 +61,8 @@ The osu! South East Asia 3 is run by various community members.
 - [Livestream](https://www.twitch.tv/oseatournament)
 - [Challonge brackets](https://challonge.com/SEAT3)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1waGkj7eW1oNKF4itjLrNbk0dCviPlXfjw70l0a1U_AA/edit?usp=sharing)**
+
+---
 
 ## Participants
 
@@ -91,10 +93,55 @@ The osu! South East Asia 3 is run by various community members.
 | L | ![][flag_SG] [k\_1tty](https://osu.ppy.sh/users/5407620) | ![][flag_VN] [Hoaq](https://osu.ppy.sh/users/7696512) | ![][flag_MY] [Auxuelus](https://osu.ppy.sh/users/5414124) | ![][flag_MY] [Shimoto\_Chifu](https://osu.ppy.sh/users/4830350) | ![][flag_TH] [mickeyparm](https://osu.ppy.sh/users/11354950) | ![][flag_MY] [Hunter12](https://osu.ppy.sh/users/4695446) |
 | M | ![][flag_SG] [Raindrop](https://osu.ppy.sh/users/1155871) | ![][flag_MY] [vernonlim](https://osu.ppy.sh/users/10167542) | ![][flag_VN] [kezo](https://osu.ppy.sh/users/7431143) | ![][flag_SG] [Lunarsol](https://osu.ppy.sh/users/6622650) | ![][flag_VN] [Hifiveme8](https://osu.ppy.sh/users/10501494) | ![][flag_ID] [FzoneBlue](https://osu.ppy.sh/users/9472056) |
 | N | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548) | ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577) | ![][flag_VN] [realshin](https://osu.ppy.sh/users/8006029) | ![][flag_MY] [wilson9909](https://osu.ppy.sh/users/8703188) | ![][flag_ID] [NoVaLian](https://osu.ppy.sh/users/6459827) | ![][flag_TH] [AkiYotoki](https://osu.ppy.sh/users/6448980) |
-| O | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) | ![][flag_ID] [Ascaveth](https://osu.ppy./users/3245206) | ![][flag_MY] [Chiyuu](https://osu.ppy.sh/users/8226107) | ![][flag_ID] [thefarrel007](https://osu.ppy.sh/users/2429128) | ![][flag_TH] [muramax](https://osu.ppy.sh/users/10552306) | ![][flag_ID] [D-Rain](https://osu.ppy.sh/users/9925149) |
+| O | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) | ![][flag_ID] [Ascaveth](https://osu.ppy.sh/users/3245206) | ![][flag_MY] [Chiyuu](https://osu.ppy.sh/users/8226107) | ![][flag_ID] [thefarrel007](https://osu.ppy.sh/users/2429128) | ![][flag_TH] [muramax](https://osu.ppy.sh/users/10552306) | ![][flag_ID] [D-Rain](https://osu.ppy.sh/users/9925149) |
 | P | ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106) | ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946) | ![][flag_MY] [blufir\_](https://osu.ppy.sh/users/11134301) | ![][flag_MY] [Tokama Club](https://osu.ppy.sh/users/7321060) | ![][flag_SG] [Hecatia](https://osu.ppy.sh/users/8244635) | ![][flag_MY] [ManzMalaya](https://osu.ppy.sh/users/3999924) |
 
+---
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_SG] [Rtyzen](https://osu.ppy.sh/users/2439822) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] [LoidKun](https://osu.ppy.sh/users/6437601) |
+| *4th place* | ![][flag_PH] [MioMilo](https://osu.ppy.sh/users/2199427) |
+| *5th place* | ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106) |
+
+---
+
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here! (130 MB)](https://drive.google.com/file/d/1GS7xi9NJm6pZujzw-ylg0hyLEvlz2luy/view)**
+
+- NoMod
+  - [hitorie - Little Cry Baby (moph) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1098258#osu/2294643)
+  - [Camellia vs Akira Complex - Railgun Roulette (VIP) (NeilPerry) \[Neil x Sharu, Syzygy\]](https://osu.ppy.sh/beatmapsets/694402#osu/1469136)
+  - [-45 - Rougoku STRIP (Deramok) \[..!\]](https://osu.ppy.sh/beatmapsets/583171#osu/1234064)
+  - [xi - d e a t h p i a n o \~for four pianos\~ (Riana) \[Deadly\]](https://osu.ppy.sh/beatmapsets/950606#osu/1986856)
+  - [Carpool Tunnel - Afterlight (\_Epreus) \[Expert\]](https://osu.ppy.sh/beatmapsets/1001546#osu/2096611)
+- Hidden
+  - [A.SAKA - Nanatsu Koyoto (xLolicore-) \[Skystar's Extra\]](https://osu.ppy.sh/beatmapsets/768281#osu/1615857)
+  - [AQUAELIE - Death Dial (Yusomi) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/742095#osu/1565367)
+  - [Loki - With Fire and Sword (2013) (TheShadowOfDark) \[Minorsonek's Scintillation\]](https://osu.ppy.sh/beatmapsets/1088528#osu/2276018)
+- HardRock
+  - [Team.NEKOKAN - Airman ga Taosenai (Sotarks) \[Blown by the Wind\]](https://osu.ppy.sh/beatmapsets/732994#osu/1546425)
+  - [mocchie - Onsoku no Greenwich (elege) \[Sealing Club\]](https://osu.ppy.sh/beatmapsets/300048#osu/673008)
+  - [Marguerite du Pre - Marie Antoinette (Crimmi) \[Black Another\]](https://osu.ppy.sh/beatmapsets/450147#osu/967923)
+- DoubleTime
+  - [Halozy - Secret Sister Complex (moonlightleaf) \[Flandre\]](https://osu.ppy.sh/beatmapsets/683123#osu/1444708)
+  - [Aso Natsuko - Perfect-area complete! (gary00737) \[Pata-Mon's Insane\]](https://osu.ppy.sh/beatmapsets/927758#osu/1957037)
+  - [Venetian Snares - Szamar Madar (fergas) \[Insane\]](https://osu.ppy.sh/beatmapsets/311327#osu/695401)
+  - [omniboi - BonBon (Kyshiro) \[Happy\]](https://osu.ppy.sh/beatmapsets/505729#osu/1075827)
+- FreeMod
+  - [Dance Gavin Dance - Son of Robot (Alumetri) \[Catharsis\]](https://osu.ppy.sh/beatmapsets/1047286#osu/2189162)
+  - [SHK - Imagination (ktgster) \[SHD\]](https://osu.ppy.sh/beatmapsets/1078340#osu/2256378)
+  - [Tatsh feat. Tsukiko - Floating Darkness (Cheri) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1054865#osu/2204124)
+  - [xi - FREEDOM DiVE (Nakagawa-Kanon) \[FOUR DIMENSIONS\]](https://osu.ppy.sh/beatmapsets/39804#osu/129891)
 
 ### Finals
 
@@ -299,7 +346,35 @@ The osu! South East Asia 3 is run by various community members.
   - [Aimer - I beg you (xbopost) \[Lost Butterfly\]](https://osu.ppy.sh/beatmapsets/1029661#osu/2153072)
   - [XX:me - Torikago (Mordred) \[Dakini's Insane\]](https://osu.ppy.sh/beatmapsets/764067#osu/1624401)
 
+---
+
 ## Match results
+
+### Grand Finals
+
+Sunday, 16 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| LoidKun ![][flag_ID] | 1 | **7** | ![][flag_SG] **Rtyzen** | [#1](https://osu.ppy.sh/community/matches/58493519), [#2](https://osu.ppy.sh/community/matches/58497423) |
+| **Skydiver** ![][flag_ID] | **7** | 0 | ![][flag_SG] Rtyzen | [#1](https://osu.ppy.sh/community/matches/58498398) |
+
+### Finals
+
+Saturday, 8 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Rtyzen** ![][flag_SG] | **7** | 1 | ![][flag_MY] Tzero | [#1](https://osu.ppy.sh/community/matches/58293456) |
+| **Skydiver** ![][flag_ID] | **7** | 5 | ![][flag_ID] LoidKun | [#1](https://osu.ppy.sh/community/matches/58291987) |
+
+Sunday, 9 February 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| GSBlank ![][flag_MY] | 6 | **7** | ![][flag_PH] **MioMilo** | [#1](https://osu.ppy.sh/community/matches/58294546) |
+| Tzero ![][flag_MY] | -1 | **0** | ![][flag_MY] **GSBlank** | *win by default* |
+| **Rtyzen** ![][flag_SG] | **7** | 3 | ![][flag_PH] MioMilo | [#1](https://osu.ppy.sh/community/matches/58324166) |
 
 ### Semifinals
 
@@ -701,6 +776,8 @@ Wednesday, 1 December 2019:
 | Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | M8 | **kezo** ![][flag_VN] | **0** | -1 | ![][flag_VN] Hifivem8 | *win by default* |
+
+---
 
 ## Ruleset
 
