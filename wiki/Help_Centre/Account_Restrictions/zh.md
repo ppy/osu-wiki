@@ -4,7 +4,6 @@
  
 账号一旦受到限制，该账号就不能在社区内进行活动，直到限制解除。被限制的玩家依旧可以进行游戏、下载谱面和提交成绩，但是他们的个人资料无法被其他人看到。
 
-
 下列功能无法在受限制期间使用：
 
 - 游戏内聊天
@@ -18,9 +17,9 @@
 
 如果你的账号受到了限制，不要惊慌，按照以下的步骤慢慢来：
 
-- **等待 24 小时。** 有些受限状态是自动判断并赋予的。我们每天都会检查一遍所有新受限的账号，所以你大多数情况下只需要等待 24 小时，如果你的账号被误操作，24 小时后限制就会自动解除。
+- **等待 24 小时。** 有些受限状态是自动判断并赋予的。我们每天都会检查一遍所有新受限的账号，所以你大多数情况下只需要等待 24 小时，如果你的账号被误判，24 小时后限制就会自动解除。
 - **联系支持团队。** 如果你的账号在 24 小时后依旧处于限制状态，请**使用受限 osu! 账户绑定的邮箱**向 [accounts@ppy.sh](mailto:accounts@ppy.sh) 发送邮件来询问被限制的具体原因。请确保邮件内容包含受限制的 osu! 用户名，以及你认为自己账号已经受限的原因和详细证明。你的说明越详细，我们帮助你解决问题的难度就会越小。
-- 如果你坚持认为你的账号是被误操作的，请立即联系我们协助你解除。
+- 如果你坚持认为你的账号是被误判的，请立即联系我们协助你解除。
 
 如果你的账号是因违反[社区规则](/wiki/rules)而受限，你的账号将会被强制执行三个月的冷却期，之后你才能向我们提出恢复申请。
 
@@ -28,13 +27,11 @@
 
 如果你的解除申请被我们通过，但在你登录游玩之后又被重新限制，别慌。我们的系统可能将你的账号错误地标记为受限，所以这种情况下 24 小时之内你的受限状态就会自动解除。当然你也可以立即向我们发送邮件来让我们更快地帮你恢复到正常状态！
 
-
 ## 为什么我的账号受到了限制？
 
 你的账号处于受限状态，可能是由以下几个原因造成的：
 
-- **这并不是你的第一个账号。** 开小号的行为违反了社区规则。一个玩家的所有小号都会被永久封禁，但是大多数情况下大号将会持续开放，玩家依旧可以使用大号进行游玩。如果开小号的行为非常严重，甚至造成了滥用，那么相应的大号将会被禁言一段时间以示警告，并且如果开小号的行为一直在进行，那么相应的主号也会被受限。
-  - 如果你的账号处于受限状态，并且你拥有其他的 osu! 账号，那么请不要再使用你的小号进行任何活动，请一直使用你的主号正常进行游戏。如果你不能使用你的主号，请发邮件给 [accounts@ppy.sh](mailto:accounts@ppy.sh) 来让我们帮助你让它恢复正常。
+- **这并不是你的第一个账号。** 开小号的行为违反了社区规则。一个玩家的所有小号都会被永久封禁，但是大多数情况下大号将会持续开放，玩家依旧可以使用大号进行游玩。如果开小号的行为非常严重，甚至造成了滥用，那么相应的大号将会被禁言一段时间以示警告，并且如果开小号的行为一直在进行，那么相应的主号也会被受限。如果你的账号处于受限状态，并且你拥有其他的 osu! 账号，那么请不要再使用你的小号进行任何活动，请一直使用你的主号正常进行游戏。如果你不能使用你的主号，请发邮件给 [accounts@ppy.sh](mailto:accounts@ppy.sh) 来让我们帮助你让它恢复正常。
 - **你将你的账号分享给了他人进行游戏。** 一号多用也是违反社区规则的。如果你让其他人使用你的账号进行游戏，那么这个账号将被受限，并且他们自己的账号也同时可能会被禁言或者被受限。如果这种情况意外发生，请立即发邮件给 [accounts@ppy.sh](mailto:accounts@ppy.sh) 好让我们知悉并协助解决。
 - **你作弊了。** 使用第三方的程序、外挂，或者进行其他任何形式的不公平操作都会被立即封禁。
 - **其他情况。** 账号服务团队保留因不在这三项之内的原因而限制账号的权利。
@@ -44,62 +41,60 @@
 ## 在我能够提出恢复申请之前的冷却期内我能做什么？
 
 - **继续享受戳饼的快乐！** 尽管你的账号处于受限状态，尚且还在冷却期内，但是你依旧可以享受游戏，只要你使用的是你的主号（如果你有小号的话）。你账号受限时所创造的成绩会被上传，除非限制解除之后你的账号回到了先前的状态，否则受限期间的成绩都将会保留！
-- **保持良好的作风。** 
-- **Keep enjoying the game!** While your account is restricted and you are on cooldown, you are more than welcome to continue playing the game (as long as you play on your original account!). The scores you achieve while restricted will be submitted, and unless your account is rolled back, they will remain after you become unrestricted.
-- **Maintain good behaviour.** We understand that being restricted can be frustrating, but think of it as a chance to take some time off, away from the community. Try to avoid interacting with the community for at least a few days (whether it be via Discord, social media, or other forms of contact) to cool down and reflect on the actions that may have contributed to your account being restricted.
-- **Make sure you respect the rules.** Long-term restrictions are punishments for breaking the rules. If you continue to do so while restricted, the cooldown before you can appeal will be reset to three months from your last offence. This includes, for example, continuing to cheat, accessing others' accounts, or creating new accounts to evade a restriction.
-- **Follow the support team's instructions.** The three-month cooldown is a chance to take time off and reflect on your actions. If you attempt submitting an appeal before the cooldown period is over, your emails will be ignored. If you are unsure when your cooldown expires, when you will be allowed to appeal, or which of your accounts you should be playing on (and appealing from), you are welcome to send us an email to ask.
-- **Do not hesitate to contact us if you have any questions.** As long as you are not trying to circumvent punishment, we will happily answer any questions you have about your account's restriction!
+- **保持良好的作风。** 我们当然知道账号被受限的感觉是何等的糟糕，但是俗话说心静自然凉，所以你也可以将此视为一次远离社区寻求清净的机会。你可以试试这段时间内不去接触 osu! 社区（不管是 osu! 论坛、Discord 还是其他的社交媒体的任何形式的接触），让你的心情缓解一些并反思一下导致你账号被限制的可能的原因。
+- **确保遵守社区规定。** 长期的账号限制是对违反社区管理规定的行为的惩罚。如果你在账号受限期间继续违反社区规定，那么你的冷却期将会重置为违规行为发生之后的 3 个月。这些行为包括继续作弊、登陆他人账户进行游戏，或者创建新号来逃避冷却期。
+- **遵从支持团队的指示。** 三个月的冷却期为你带来了一次暂时休息并冷静下来思考人生的机会。如果你在冷却期结束之前发送恢复申请，你的邮件就会被我们忽略。如果你不确定你的冷却期何时结束，或着要用你的哪一个账号游玩（或发送邮件），欢迎来发邮件询问。
+- **有任何问题请立即告诉我们。** 在冷却期间，只要你不是在尝试规避它，有任何关于账号限制的问题你都可以发邮件向我们提问，我们会很高兴回答你提出的问题。
 
-## My cooldown has passed. How do I appeal?
+## 我的冷却期结束了，那要怎么申请呢？
 
-You can appeal by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) including the username of your account. Make sure you are sending the appeal from the email address associated with your account. After you send your appeal, expect a reply within one week. If you have not received one by then, please contact us on twitter or by email - there is a chance we may not have received it.
+你可以通过发邮件给 [accounts@ppy.sh](mailto:accounts@ppy.sh) （请在邮件标题中包含你的 osu! 账户名）。请确保使用 osu! 账户所绑定的邮件账户来发送邮件。正常情况下，我们会在你发送申请之后的一周内给予回复。如果你在一周内没有收到回复，请再次通过邮件联系我们，或者直接在 Twitter 上圈我们，因为我们可能没有看到你发送的申请。
 
-When appealing, we expect the following points to be covered:
+在申请邮件中，你必须提供以下内容：
 
-- **Account history.** It does not need to be too detailed. This should include all your breaches of the major rules (multi-accounting, account sharing, cheating, or major silences). You do not need to remember every date, every silence, or every account you created, as long as you are honest with what you did. This includes any rules you have broken while restricted, if applicable.
-- **Why you broke the rules.** An explanation as to what led you to decide to create new accounts, give your account away, cheat, etc. will help us (and you) determine whether or not you are at risk of offending again. If you continued offending while restricted, we are also interested in knowing why.
-- **How you obtained the means to do so.** This applies mostly to cheating - we want to know where you obtained the tool you used, how you came across it, and whether or not it is still present on your computer.
-- **Why we should allow you back.** Most of the time, this ties in to the second point. We just want to ensure that you will not be breaking the rules again! Please understand that the more rule violations in your account's history, the more we will expect in this section of the appeal.
+- **账户历史记录。** 我们不需要过于详细的记录。我们只需要简要的违规记录（如开小号、共享账号、作弊或其他严重的禁言惩罚）。你只要如实说明情况，而不需要写出具体的日期，也不需要写出你开的所有小号。如果你有违反其他社区规定，那么你也应该在邮件里列出违反的相应条例。
+- **你违反社区规定的原因。** 凡事必有其因。你应该在邮件里解释是什么原因要让你作弊、开小号，或共享账号给他人等等。这些解释会让我们更加了解当时的情况并确定你会不会重蹈覆辙。如果在冷却期间你依然持续违反规定，那我们也更有兴趣了解其中的原因。
+- **你获取作案工具的手段。** 这条内容对于作弊来讲尤为重要，因为我们很好奇并且很想知道你是在哪里拿到作弊工具的，以及你如何遇见它的，还有它是不是还在你的电脑里。
+- **你所认为的我们要解除你账号限制的原因。** 大多是情况下这条跟第二条是紧密联系的。我们只是想确认你不会再次犯错。你要知道，你账户中违规记录越多，你需要解释的也就越多。
 
-## What if my appeal is granted?
+## 那如果我的申请被同意了呢？
 
-If we decide to let you return, we will require that you agree to some terms before unrestricting your account.
+如果我们决定解除你的受限状态，在我们将你的帐号恢复自由之前你需要同意几个先决条件。
 
-- **You will not offend again.** This includes cheating and account sharing.
-- **You will not create another account, be it for yourself or someone else.**
-- **You should not associate with other accounts** including playing on shared computers.
-- **Any major misbehaviour will result in immediate restriction**. This includes major silences.
+- **首先，下不为例。** 这包括作弊行为和账户共享行为。
+- **其次，不要再帮别人创建账户或者给自己开小号。**
+- **第三，不要再使用其他人的账户进行活动，** 包括在公共电脑上游戏。
+- **最后提醒，任何形式的违反社区规定的行为都会导致账户被立即受限。** 这当然包括严厉的禁言。
 
-Additionally, for a period of one year, we will not grant any flag changes for your account.
+另外，在账号恢复自由的一年内，我们不会接受账号的任何重大变化。
 
-In some cases, an appeal returnee may be banned from official and badged tournaments, both as a competitor and member of the tournament's team. The duration of this ban is 1 year per offence (if a user is on their second appeal, the ban lasts 2 years). The unrestriction email will clarify the duration of this ban.
+在某些情况下，在这一年内我们会禁止恢复自由的账户参加任何官方或具有奖牌的比赛，不管是作为参赛者还是作为战队的一员。这个禁赛期一般是一年（如果该账户已经是第二次犯错，那么禁赛期就会延长一年成为两年）。我们会在发送给你的解除受限通知邮件中讲清楚你的禁赛期。
 
-**Cheating or account sharing during an official or badged tournament will lead to the user's permanent ban from any future ones.** This ban cannot be appealed (your email will be ignored if you attempt to) and will not be removed, reduced, or waived under any circumstances.
+**在参与官方或有奖牌的比赛期间作弊或者分享账户给他人将会导致永久禁赛。** 在这个情况下你无法申请解禁，你发送的所有解禁申请将会被全部忽略。此时你的禁赛既不会被取消，也不会被缩减，也不会被减缓，不分情况。
 
-Some players may become restricted again once they start playing after having their appeal granted. This is an automated process and will generally be removed within 24 hours. Don't hesitate to ask questions on twitter at [@osusupport](https://twitter.com/osusupport) or by sending an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) if this happens to you!
+有些玩家解禁后登录游戏时可能会再次被封禁。不用担心，这是自动系统造成的，此时的受限状态一般会在 24 小时内自动解除。如果你有任何问题那就不要犹豫，可以在 Twitter 圈到 [@osusupport](https://twitter.com/osusupport) 或者给 [@osusupport](https://twitter.com/osusupport) 发送邮件提问。
 
-Some offences will lead to your account being rolled back upon unrestriction. They are meant to delete illegitimate scores that were submitted on your account **across all modes**, as well as unlocked medals and profile badges. **Playcount and playtime will not be modified.**
+有些违反社区规定的行为可能会导致你的账号被回滚到违规之前的状态。这样做是为了清除你的账户所上传的**所有游戏模式中的**所有非法成绩记录，同时也有在此期间收获的奖牌和解锁的成就。**游戏次数和总游戏时间不会受影响。**
 
-## My appeal has been denied!
+## 我的申请被拒绝了！
 
-There are several reasons why an appeal might be denied.
+你的申请被拒绝，其中也有很多原因：
 
-- **It was sent too early.** If the cooldown for your account has not yet passed, your appeal will be denied. If you are unsure when you can actually appeal, please reply to our answer - we will give you the correct date.
-- **Your appeal was insufficient or incomplete.** If your appeal does not sufficiently cover the four points listed above, we will request that you write a more complete one. This **does not** necessarily reset the cooldown for your account and you are free to send your new appeal at any point in time! However. if you attempted lying or hiding major rule violations you committed (mainly multi-accounting or cheating), your appeal will be denied for being non-truthful, and your cooldown will be reset to three months. This is another chance for you to reflect on your actions and make sure you did not forget anything.
-- **You have been evading or playing on other accounts.** Creating another account to be able to play online while your account is restricted is considered an attempt at evading the restriction and will reset your cooldown to three months from the date you created the account. If you attempt evading too many times, your appeal might be permanently denied. If you are still accessing or playing on your multi-accounts while restricted, your cooldown will also be reset. Remember that multi-accounting is against the [rules](/wiki/rules) and you are expected to only play on your original account. If you are unsure which account counts as your original account, send us an email and we will let you know!
-- **You continued offending while restricted.** There is no reason to unrestrict someone who continues to break the rules even after having been restricted. If you do continue offending, the cooldown for your account will be reset to your last offence. In the case of extreme or continuous offences, your appeal might be permanently denied.
-- **Your history is too severe.** In cases of extreme offenders, or players who get restricted again after they have already been unrestricted on a successful appeal, we might simply state that your history is too severe to rejoin the game at the current time. Should this apply to you, we recommend waiting **a long time** before appealing again, and making sure you do not break any further rules in that time.
+- **你发送申请的时间过早。** 如果你账户的冷却期并没有结束，你在此期间内发送的申请就会被拒绝。如果你不确定到底什么时候可以提出申请，请发邮件向我们说明，我们会回复你具体时间。
+- **你所写申请的内容不完善或者不够充分。** 如果你所写的内容并没有完全包含如上所述要点的内容，我们就会请求你重新写一份更加完善的申请邮件。这**并不会**重新让你的账户进入三个月的冷却期，你当然可以随时准备好邮件发给我们！当然，如果你在邮件里刻意隐瞒事实（比如说谎或隐瞒你最主要的违规行为，如作弊和账户共享），我们会以申请内容不具可信性为由拒绝你的申请，并且让你的账户重新进入三个月的冷却期。当然这三个月将又是一次反省你所作所为的机会，也确保下次写申请的时候不会再忽略细节。
+- **你在这段时间内使用其他账户或开小号来规避冷却期。** 在冷却期内开小号进行任何活动都会被视为逃避惩罚，如果这种情况发生，我们也会将你的账户重新置入三个月的冷却期。如果这种情况发生多次，你主号的解除受限申请可能会被永远拒绝（这也就意味着你的受限状态会一直存在下去）。如果你在冷却期内继续使用之前的小号进行活动，你的冷却期也会被重置。当然，请记住开小号的行为同样是违反[社区规则](/wiki/rules)的，我们也希望在这期间你只用你的主号进行游戏。如果你确实不知道你该用哪一个账号正常活动，可以发邮件给我们，我们会告诉你可以正常活动的账户。
+- **你在受限期间持续违反社区规则。** 对于犯错并在受限期间屡教不改的玩家，我们几乎拿不出理由同意你的申请。如果你继续做出违规行为，那么你的冷却期就会继续重置为三个月。如果这种情况非常严重，你的恢复申请可能会被永远拒绝。
+- **你的黑历史过于严重。** 如果账户的违规行为非常严重，或者账户刚刚恢复自由就重蹈覆辙，我们就会认为该账户现在的状态不能立即继续正常进行活动。如果发生这种情况，我们建议最好等**较长时间**之后再提出申请，并保证下不为例。
 
-## Common restriction reasons and cooldowns
+## 常见的限制原因和相应的冷却期
 
-| Restriction reason | Cooldown duration | Appeal notes |
-| :-- | :-- | :-- |
-| Judgement Error | No cooldown | If found erroneous, no impact on the account. |
-| Multi-account | Permanent (multis) | Main account will be left unrestricted, possibly silenced. |
-| Excessive multi-accounting | 3 months | Appeal terms apply, 1 year tournament ban |
-| Account sharing | 3 months | Appeal terms apply, 1 year tournament ban, and partial rollback |
-| Cheating | 3 months | Appeal terms apply, 1 year tournament ban, and full rollback |
-| Excessive misconduct | Variable | Appeal terms apply. Cooldown will depend on history. |
-| Cheating/Sharing for a tournament | 6 months | Appeal terms apply, appropriate rollback, permanent tournament ban |
-| Subsequent offences | 6 months | Appeal terms apply, appropriate rollback, tournament ban 1 year per offence|
+| 原因 | 冷却期 | 备注 |
+| :--- | :----- | :----------- |
+| 自动系统误判 | 无冷却期 | 如果发现是误判，账户不会受到任何影响。 |
+| 开小号 | 无限期（小号） | 主号不会受限，可能会被禁言一段时间。 |
+| 开过多的小号 | 3 个月（主号） | 申请时需提供上述材料；带一年禁赛期 |
+| 账号共享 | 3 个月 | 申请时需提供上述材料；带一年禁赛期；账户状态部分回滚 |
+| 作弊 | 3 个月 | 申请时需提供上述材料；带一年禁赛期；账户状态完全回滚 |
+| 过度不当行为 | 视情况而定 | 申请时需提供上述材料；账户状态回滚取决于违规记录； |
+| 在参赛期间作弊 / 共享账号 | 6 个月 | 申请时需提供上述材料；视情况而定的账户状态回滚；永久禁赛 |
+| 连续违规 | 6 个月 | 申请时需提供上述材料；视情况而定的账户状态回滚；每违规一次增加一年的禁赛期 |
