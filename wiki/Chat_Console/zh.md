@@ -1,5 +1,5 @@
 ---
-outdated: true
+needs_cleanup: true
 ---
 
 # 聊天面板
