@@ -30,9 +30,9 @@ tags:
 
 | Placing | Prize |
 | :-: | :--- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 50 USD |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 30 USD |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 20 USD |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 50 USD |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 30 USD |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 20 USD |
 
 ## Organization
 
@@ -88,9 +88,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | User |
 | :-: | --- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | ![][flag_ES] [**aitor98**](https://osu.ppy.sh/users/3154852) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_IT] [**Yomiel**](https://osu.ppy.sh/users/3461860)  |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_CL] [**Skalim**](https://osu.ppy.sh/users/2225008)  |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | ![][flag_ES] [**aitor98**](https://osu.ppy.sh/users/3154852) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_IT] [**Yomiel**](https://osu.ppy.sh/users/3461860)  |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CL] [**Skalim**](https://osu.ppy.sh/users/2225008)  |
 
 ---------------------------
 

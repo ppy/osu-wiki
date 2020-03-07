@@ -35,9 +35,9 @@ You can discuss this event and follow the most important changes in the **[offic
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | US$300 per team member, exclusive single-run merch, profile badge, "osu! Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | US$160 per team member, exclusive single-run merch , profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | US$80 per team member, exclusive single-run merch, profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | US$300 per team member, exclusive single-run merch, profile badge, "osu! Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | US$160 per team member, exclusive single-run merch , profile badge |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | US$80 per team member, exclusive single-run merch, profile badge |
 
 ## Pick'Ems
 

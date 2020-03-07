@@ -28,9 +28,9 @@ outdated: true
 
 | Placing                                                    | Prizes                                                                                |
 |------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | Саппорт на 6 месяцев, иконка в профиле, титул "Taiko Champion", приз от администрации |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Саппорт на 3 месяца                                                                   |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Саппорт на 1 месяц                                                                    |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | Саппорт на 6 месяцев, иконка в профиле, титул "Taiko Champion", приз от администрации |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Саппорт на 3 месяца                                                                   |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Саппорт на 1 месяц                                                                    |
 
 ## Персонал
 

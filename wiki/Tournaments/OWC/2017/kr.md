@@ -22,9 +22,9 @@
  
 | 등수 | 상품 |
 | --- | :--- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 인당 300달러, OWC 텀블러와 뱃지, 프로필 뱃지, osu! Champion 타이틀 |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 인당 160달러, OWC 텀블러와 뱃지, 프로필 뱃지 |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 인당 80달러, OWC 텀블러와 뱃지, 프로필 뱃지 |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 인당 300달러, OWC 텀블러와 뱃지, 프로필 뱃지, osu! Champion 타이틀 |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 인당 160달러, OWC 텀블러와 뱃지, 프로필 뱃지 |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 인당 80달러, OWC 텀블러와 뱃지, 프로필 뱃지 |
  
 ## 대회 운영진
  

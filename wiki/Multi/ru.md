@@ -1,9 +1,9 @@
 <!--Wiki links used-->
 [osu!academy wikilink]: /wiki/osu!academy "osu!academy"
-[Abandoned Wasteland wikilink]: /wiki/Glossary/#abandoned-wasteland "more info can be found on Glossary under Abandoned Wasteland"
-[Release b335]: /wiki/History_of_osu!/Release_b335/ "Release b335 (Multi patch) in History of osu!"
+[Abandoned Wasteland wikilink]: /wiki/Glossary#abandoned-wasteland "more info can be found on Glossary under Abandoned Wasteland"
+[Release b335]: /wiki/History_of_osu!/Release_b335 "Release b335 (Multi patch) in History of osu!"
 [Chat Console wikilink]: /wiki/Chat_Console "Основное окно чата"
-[Chat_Console#Extended Chat Console wikilink]: /wiki/Chat_Console/#расширенное-окно-чата "больше информации может быть найдено тут"
+[Chat_Console#Extended Chat Console wikilink]: /wiki/Chat_Console#расширенное-окно-чата "больше информации может быть найдено тут"
 [Beatmaps2 wikilink]: /wiki/Beatmaps "more info can be found on Beatmaps under How to get beatmaps from osu!"
 [osu!supporter wikilink]: /wiki/osu!supporter "osu!supporter"
 [BanchoBot wikilink]: /wiki/BanchoBot "BanchoBot"
@@ -22,28 +22,28 @@
 
 <!-- Image links used -->
 [Beatmaps_peppy image]: /wiki/shared/Beatmaps_peppy.jpg "Как распаковать мапу (наглядно)."
-[Multi_lobby image]: ./img/Multi_lobby.jpg "Типичный день в Мультиплеере"
-[Multi_lobby_locked image]: ./img/Multi_lobby_locked.jpg "Закрытая комната"
-[Multi_new_game image]: ./img/Multi_new_game.jpg "Настройки новой комнаты"
-[Multi_roomhost image]: ./img/Multi_roomhost.jpg "Комната с правами хоста"
-[Multi_roomplayer image]: ./img/Multi_roomplayer.jpg "Пример комнаты со свободными модами"
-[Multi_mods_host image]: ./img/Multi_mods_host.jpg "Настройки модов (osu!) у хоста"
-[Multi_mods_player image]: ./img/Multi_mods_player.jpg "Настройки модов (osu!) у игрока (при свободных модах)"
-[Multi_beatmapinfo image]: ./img/Multi_beatmapinfo.jpg "Информация о карте при наведении курсора"
-[Multi_host_song_change image]: ./img/Multi_host_song_change.jpg "Во время смены карты вместо нее будет отображаться эта плашка."
-[Multi_SS image]: ./img/Multi_SS.jpg "Процесс выбора мапы со стороны хоста."
-[Multi_Tag_Colour image]: ./img/Multi_tag_colour.jpg "Доступные цвета для комбо игрока"
-[osu!mania Multi patch]: ./img/Multi_Mania_unpatched.jpg "Скриншот osu! без обновления, когда впервые появилась osu!mania (8 октября 2012)"
+[Multi_lobby image]: img/Multi_lobby.jpg "Типичный день в Мультиплеере"
+[Multi_lobby_locked image]: img/Multi_lobby_locked.jpg "Закрытая комната"
+[Multi_new_game image]: img/Multi_new_game.jpg "Настройки новой комнаты"
+[Multi_roomhost image]: img/Multi_roomhost.jpg "Комната с правами хоста"
+[Multi_roomplayer image]: img/Multi_roomplayer.jpg "Пример комнаты со свободными модами"
+[Multi_mods_host image]: img/Multi_mods_host.jpg "Настройки модов (osu!) у хоста"
+[Multi_mods_player image]: img/Multi_mods_player.jpg "Настройки модов (osu!) у игрока (при свободных модах)"
+[Multi_beatmapinfo image]: img/Multi_beatmapinfo.jpg "Информация о карте при наведении курсора"
+[Multi_host_song_change image]: img/Multi_host_song_change.jpg "Во время смены карты вместо нее будет отображаться эта плашка."
+[Multi_SS image]: img/Multi_SS.jpg "Процесс выбора мапы со стороны хоста."
+[Multi_Tag_Colour image]: img/Multi_tag_colour.jpg "Доступные цвета для комбо игрока"
+[osu!mania Multi patch]: img/Multi_Mania_unpatched.jpg "Скриншот osu! без обновления, когда впервые появилась osu!mania (8 октября 2012)"
 
 <!-- Team Mode images -->
-[HTH Interface image]: ./img/Multi_HTH.jpg "Интерфейс Head to Head"
-[Team Vs Interface image]: ./img/Multi_team_vs.jpg "Интерфейс Team Vs"
-[Tag Coop Interface image]: ./img/Multi_tag_co-op.jpg "Интерфейс Tag Coop"
-[Tag Team Vs Interface image]: ./img/Multi_tag_team_vs.jpg "Интерфейс Tag Team Vs"
-[HTH Grade image]: ./img/Multi_grade.jpg "Результаты Head to Head"
-[Team Vs Grade image]: ./img/Multi_team_grade.jpg "Результаты Team Vs"
-[Tag Coop Grade image]: ./img/Multi_co-op_grade.jpg "Результаты Team Co-Op"
-[Tag Team Vs Grade image]: ./img/Multi_tag_team_grade.jpg "Результаты Tag Team Vs"
+[HTH Interface image]: img/Multi_HTH.jpg "Интерфейс Head to Head"
+[Team Vs Interface image]: img/Multi_team_vs.jpg "Интерфейс Team Vs"
+[Tag Coop Interface image]: img/Multi_tag_co-op.jpg "Интерфейс Tag Coop"
+[Tag Team Vs Interface image]: img/Multi_tag_team_vs.jpg "Интерфейс Tag Team Vs"
+[HTH Grade image]: img/Multi_grade.jpg "Результаты Head to Head"
+[Team Vs Grade image]: img/Multi_team_grade.jpg "Результаты Team Vs"
+[Tag Coop Grade image]: img/Multi_co-op_grade.jpg "Результаты Team Co-Op"
+[Tag Team Vs Grade image]: img/Multi_tag_team_grade.jpg "Результаты Tag Team Vs"
 
 <!--Title-->
 # Мульти
@@ -338,7 +338,7 @@ Score v2 | Победит игрок с наибольшим числом очк
 
 #### Цвет игрока
 
-<!-- A player box reference here? Old images in ./img/Playerbox -->
+<!-- A player box reference here? Old images in img/Playerbox -->
 <!-- Special player box note: Skipped (has its own special callout), Failed (red text), and Quit (red text with [Quit] appended) -->
 
 Статус/Цвет | Описание

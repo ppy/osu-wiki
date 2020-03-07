@@ -23,7 +23,7 @@ Dengan perombakan team pada Agustus 2014 lalu, bergabung menjadi Beatmap Nominat
 
 Modder yang ingin menjadi Beatmap Nominator harus memenuhi kriteria berikut:
 + Harus aktif dalam modding setidaknya 3 bulan sebelum pendaftaran diumumkan.
-+ Mempunyai kurang lebih 50 [Kudosu](/wiki/Glossary/#kudosu) dari total yang sudah diakumulasi.
++ Mempunyai kurang lebih 50 [Kudosu](/wiki/Glossary#kudosu) dari total yang sudah diakumulasi.
 + Memberikan 2 hingga 4 mod agar memenuhi syarat untuk menjadi bagian dari Beatmap Nominator.
 
 ### Apa yang Dapat Dianggap sebagai Mod Post

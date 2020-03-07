@@ -124,7 +124,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | osu! South East Asia Tournament | 2017-12-07 | 2018-02-04 | ![][flag_ID] [smh](https://osu.ppy.sh/users/1629553) | ![][flag_MY] [wuhua](https://osu.ppy.sh/users/2932510) | ![][flag_SG] [Elegant Loli](https://osu.ppy.sh/users/3010281) |
 | [osu! South East Asia Tournament 2](oSEAT/2) | 2018-11-30 | 2019-01-27 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106) | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) |
-| [osu! South East Asia Tournament 3](oSEAT/3) | 2019-12-14 | 2020-02-16 | *TBD* | *TBD* | *TBD* |
+| [osu! South East Asia Tournament 3](oSEAT/3) | 2019-12-14 | 2020-02-16 | ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) | ![][flag_SG] [Rtyzen](https://osu.ppy.sh/users/2439822) | ![][flag_ID] [LoidKun](https://osu.ppy.sh/users/6437601) |
 
 ### ![](/wiki/shared/mode/osu.png) osu! European Tournament
 
@@ -217,7 +217,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | Coupe de France CTB | 2017-10-28 | 2017-12-16 | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) | ![][flag_FR] [Alostis](https://osu.ppy.sh/users/2986875) | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) |
-| [Catch French Cup 2](CFC/2) | 2018-04-07 | 2018-05-06 | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) | ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239) | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) |
+| [Catch French Cup 2018](CFC/2018) | 2018-04-07 | 2018-05-06 | ![][flag_FR] [Le grand casque](https://osu.ppy.sh/users/5490623) | ![][flag_FR] [Julo](https://osu.ppy.sh/users/4203239) | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) |
 | [Catch French Cup 3](CFC/3) | 2018-09-08 | 2018-10-20 | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) |
 | [Catch French Intermediate Cup](CFC/CFIC_1) | 2019-03-01 | 2019-03-31 | ![][flag_FR] [Realmas](https://osu.ppy.sh/users/6567640) | ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) |
 | [Catch French Cup 4](CFC/4) | 2019-03-30 | 2019-04-28 | ![][flag_FR] [Alostis](https://osu.ppy.sh/users/2986875) | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
@@ -326,14 +326,24 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | osu!mania Asian's Champions 2019 | 2019-09-28 | 2019-11-10 | <!-- TODO: find this flag --> ![][flag___] [\[ R o a d \]](https://osu.ppy.sh/users/6535926) | ![][flag_TW] [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) | ![][flag_MY] [xxxxxx2800](https://osu.ppy.sh/users/4084853) |
 
+### ![](/wiki/shared/mode/osu.png) Royal Danish osu!Cup
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Royal Danish osu!Cup 2014](RDOC/2014) | 2014-01-16 | 2014-02-23 | ![][flag_DK] [TimG](https://osu.ppy.sh/users/1879963) | ![][flag_DK] [Tropians](https://osu.ppy.sh/users/2536611) | ![][flag_DK] [Broniel](https://osu.ppy.sh/users/3175330) |
+| [Royal Danish osu!Cup 2016](RDOC/2016) | 2016-01-09 | 2016-02-17 | ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653) | ![][flag_DK] [Zog](https://osu.ppy.sh/users/3722715) | ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138) |
+| [Royal Danish osu!Cup 2017](RDOC/2017) | 2017-02-03 | 2017-04-09 |![][flag_DK] [raser1234](https://osu.ppy.sh/users/2527887) | ![][flag_DK] [iamVill](https://osu.ppy.sh/users/6295380) | ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653) |
+| [Royal Danish osu!Cup 2018](RDOC/2018) | 2018-09-15 | 2018-10-28 | ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469) | ![][flag_DK] [Cerkie](https://osu.ppy.sh/users/2533400) | ![][flag_DK] [raser1234](https://osu.ppy.sh/users/2527887) |
+| [Royal Danish osu!Cup 2019](RDOC/2019) | 2020-02-22 | 2020-04-05 | *TBD* | *TBD* | *TBD* |
+
 ## See also
 
 - [List of countries that participated in osu! tournaments](Countries_that_participated_in_osu!_tournaments)
 - [osu!tourney](/wiki/osu!tourney) (Client used for tournament streaming)
 
-[GCrown]: /wiki/shared/GCrown.png "1st place"
-[SCrown]: /wiki/shared/SCrown.png "2nd place"
-[BCrown]: /wiki/shared/BCrown.png "3rd place"
+[GCrown]: /wiki/shared/crown-gold.png "1st place"
+[SCrown]: /wiki/shared/crown-silver.png "2nd place"
+[BCrown]: /wiki/shared/crown-bronze.png "3rd place"
 [flag___]: /wiki/shared/flag/__.gif
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
@@ -342,6 +352,7 @@ Unofficial tournaments/competitions hosted by the communities.
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"

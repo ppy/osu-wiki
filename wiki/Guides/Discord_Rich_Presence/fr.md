@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Discord RPC
 
 Depuis le 31-10-2017, Discord RPC est stable !

@@ -31,7 +31,7 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 1 month of osu!supporter tag, unique profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 1 month of osu!supporter tag, unique profile badge |
 
 ![OTC #2 Winner Badge](img/badge.png)
 
@@ -119,9 +119,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Rubber Conquest |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Floating up |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Latex Intolerance |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Rubber Conquest |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Floating up |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Latex Intolerance |
 
 -----------------------
 

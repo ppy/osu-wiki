@@ -5,7 +5,7 @@ Du sujet: *[Comment ajouter des hitsounds personnalisés ? par: neonat](https://
 ## Obtenir des hitsounds personnalisés
 
 Vous aurez dans un premier temps besoin de hitsounds ! Vous pouvez:
-- En trouver dans la [bibliothèque d'hitsounds personnalisés](../Custom_Hitsound_Library/),
+- En trouver dans la [bibliothèque d'hitsounds personnalisés](/wiki/Guides/Custom_Hitsound_Library),
 - Les faire vous même
   - Si vous décidez de les faire vous même, essayez de garder le format numérique `.wav` - c'est mieux pour les sampler ensuite.
 

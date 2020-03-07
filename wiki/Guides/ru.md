@@ -27,12 +27,11 @@
 *Главная страница: [Моддинг](/wiki/Modding)*
 
 - [Как получить мод на вашу карту](Getting_Your_Map_Modded)
-- [Как получить ранк для вашей карты](How_To_Get_Your_Map_Ranked)
 
 ## Игра
 
 - [Обучение для новичков](Beginner's_Tutorial)
-- [Проблемы с поддержкой GL](GL_Support_Issues)
+- [Проблемы с поддержкой GL](OpenGL_Support_Issues)
 - [Как играть в osu!mania](How_to_Play_osu!mania)
 - [Как использовать настройщик оффсета](How_to_Use_the_Offset_Wizard)
 - [Запись osu!](Recording_osu!)

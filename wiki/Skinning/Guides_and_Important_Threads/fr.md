@@ -24,7 +24,7 @@ Liste de guides et de fils importants, créés par la communauté.
 ## Collections
 
 - [Liste de fichiers skinnable](https://osu.ppy.sh/community/forums/topics/186787) par [Haskorion](https://osu.ppy.sh/users/3252321)
-- [(pro) Compendium de skin de joueurs](https://osu.ppy.sh/community/forums/topics/87675) par [fartownik](/ttps://osu.ppy.sh/users/56917)
+- [(pro) Compendium de skin de joueurs](https://osu.ppy.sh/community/forums/topics/87675) par [fartownik](https://osu.ppy.sh/users/56917)
 - [Compendium des skins achevées](https://osu.ppy.sh/community/forums/topics/686664 ) par [RockRoller](https://osu.ppy.sh/users/8388854)
 - [Personnages de taiko personnalisés](https://osu.ppy.sh/community/forums/topics/36001) par [Roga-don](https://osu.ppy.sh/users/159997)
 - [Personnalisé attraper les caractères de temps](https://osu.ppy.sh/community/forums/topics/16155) par [Rolled](https://osu.ppy.sh/users/5243)

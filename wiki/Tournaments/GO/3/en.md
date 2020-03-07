@@ -30,9 +30,9 @@ The **Game_Osu Tourney 3** (***GO 3***) was a [Logitech](https://www.logitech.co
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 1000€, unique profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 500€ |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 250€ |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 1000€, unique profile badge |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 500€ |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 250€ |
 | *4th place* | 150€ |
 | *5th place* | 100€ |
 
@@ -149,9 +149,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) |
 | *4th place* | ![][flag_FR] [Musty](https://osu.ppy.sh/users/251683) |
 | *5th place* | ![][flag_HK] [DenierNezzar](https://osu.ppy.sh/users/126144) |
 
@@ -190,7 +190,7 @@ This competition has come to an end and resulted in the following podium:
   - [FELT - Puppet in the Dark (Mackenzie) \[Out Of Place ARTifactS\]](https://osu.ppy.sh/beatmapsets/326636#osu/725198)
   - [The Pretty Reckless - Kill Me (Zero\_\_wind) \[Kill!!!\]](https://osu.ppy.sh/beatmapsets/97187#osu/260006)
 - FreeMod
-  - [t+pazolite - Magical Higan Tour 2009 (DJNightmare) \[Collab\]](https://osu.ppy.sh/beatmapsets/40609/#osu/128775)
+  - [t+pazolite - Magical Higan Tour 2009 (DJNightmare) \[Collab\]](https://osu.ppy.sh/beatmapsets/40609#osu/128775)
   - [5 Step Sound Team - Never Say Die (P o M u T a) \[Die\]](https://osu.ppy.sh/beatmapsets/292599#osu/658488)
   - [join. SELEN - DADADADADADADA (PoNo) \[Sharu's Extreme\]](https://osu.ppy.sh/beatmapsets/773755#osu/1632692)
   - [Luschka - Kami no Kotoba (byfar) \[Jounzan's Special\]](https://osu.ppy.sh/beatmapsets/817667#osu/1714634)

@@ -24,7 +24,7 @@ Comenzando desde izquierda a derecha y de arriba hacia abajo)
 #### Linea de Tiempo de los Objetos golpeables
 
 | Nomnre | Descripción |
-| --- | --- |
+| :-- | :-- |
 | Botones `+`/`-` | Aumenta / disminuye el zoom de la línea de tiempo. |
 | Líneas blancas verticales dobles | Marca de tiempo actual con respecto a la línea de tiempo de los objetos de golpeo. |
 | Cliquear los objetos de golpeo | **Clic izquierdo:** Selecciona / Mueve los objetos golpeables contra la línea de tiempo. **Clic derecho:** Eliminar objeto golpeable. |
@@ -98,7 +98,7 @@ El botón de **Insertar descanso** iniciará / detendrá el "descanso" en la mar
 #### Selector
 
 | Botones / Titulo (Atajo de Teclado) | Uso | Descripción |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | Sampleset | Auto, Normal, Soft, Drum | Esto ignora la configuración del Sampleset de la sección de tiempo, y agrega la configuración seleccionada... Ej. Punto de sincronización con **suave 77%**, Mientras este conjunto de samples se establece en **Drum** y tiene **Clap** en las notas, se reproducirá por defecto drum-hitnormal 77% + drum-hitclap 77% en el golpe |
 | Adiciones | Auto, Normal, Soft, Drum | Las adiciones de sonidos de golpe significan agregar Clap, Finish y Whistle con el conjunto SELECCIONADO... Ej. Sampleset **Normal**, Punto de tiempo **Soft 77%**, mientras que Adiciones está configurado en **Drum** y tiene **Clap** en las notas, resultará de normal-hitnormal 77% + drum-hitclap 77% en el golpe |
 | Seleccionar (`1`) | **Clic izquierdo/arrastre:** Selecciona/Ajusta la ubicación de las notas/puntos de controles deslizantes. **Clic derecho:** Elimina las notas/controles deslizantes. **`Ctrl` + Click:** Selección múltiple. | Selecciona y modifica las notas existentes. |
@@ -117,13 +117,13 @@ El botón de **Insertar descanso** iniciará / detendrá el "descanso" en la mar
 ![Sonidos de golpeo y herramientas de ayuda](img/BE_HSAT.jpg "Sonidos de golpeo y herramientas de ayuda")
 
 | Boton (Atajo de teclado) | Uso | Descripción |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | Nuevo combo (`Q`) | **Clic derecho:** Cambiar la nota actual al siguiente color combinado. | Nota combo. Esto es equivalente a un verso / medida en el guión de canción / instrumento. Un rango aceptable es de aproximadamente 5-20. |
 
 #### Sonidos de Golpe
 
 | Boton (Atajo de teclado) | Uso | Descripción |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | Whistle (`W`) | ("Seleccionar" en una nota de golpeo) **Clic izquierdo:** Usar sonido de silbido en esta nota | Agrega una adición de sonido de silbido a la selección. |
 | Finish (`E`) | ("Seleccionar" en una nota de golpeo) **Clic izquierdo:** Usar sonido de finalización en esta nota | Agrega un sonido final (platillos) a la selección. |
 | Clap (`R`) | ("Seleccionar" en una nota de golpeo) **Clic izquierdo:** Usa un sonido de aplauso en esta nota | Agrega una adición de sonido de aplauso a la selección. |
@@ -131,7 +131,7 @@ El botón de **Insertar descanso** iniciará / detendrá el "descanso" en la mar
 #### Herramientas de ayuda
 
 | Boton (Atajo de teclado) | Uso | Descripción |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | Ajuste de cuadricula (`T`) | **`Shift` (Mantener):** Alterna temporalmente. **`Ctrl` (mantener):** Desactiva temporalmente el ajuste de ángulo. | Las notas de golpeo se ajustarán a la cuadrícula de forma predeterminada. |
 | Ajuste de distancia (`Y`) | **`Alt` (Mantener):** Alterna temporalmente. Cambia el divisor de ritmo por el ajuste de distancia **`Alt` + Rueda del mouse:** Ajuste el multiplicador de ajuste de distancia. | La distancia entre notas de golpeo consecutivas se ajustará en función de su diferencia rítmica. Se usa mejor cuando la línea de tiempo está en pausa. |
 | Bloquear notas (`L`) | ("Seleccionar" en una nota de golpeo) **Clic izquierdo:** Bloquea esta nota | Bloquea la nota seleccionada en la posición y marca de tiempo actual. |
@@ -147,7 +147,7 @@ En la zona **central inferior**, hay una **línea de tiempo** con marcas y los b
 #### Marcadores de color
 
 | Color | Descripción |
-| --- | --- |
+| :-- | :-- |
 | Blanco brillante largo | Sección de prueba actual |
 | Amarillo largo | Punto de vista previa |
 | Amarillo arriba | Inicio del tiempo de drenaje |
@@ -158,14 +158,14 @@ En la zona **central inferior**, hay una **línea de tiempo** con marcas y los b
 #### Aspectos destacados del color
 
 | Color | Descripción |
-| --- | --- |
+| :-- | :-- |
 | Gris | Descanso |
 | Naranjo | Momento Kiai |
 
 #### Comandos de marcadores
 
 | Atajo | Descripción |
-| --- | --- |
+| :-- | :-- |
 | `Ctrl` + `B` | Agrega un marcador en la ubicación actual. |
 | `Ctrl` + `Shift` + `B` | Elimina el marcador en la ubicación actual. |
 | `Ctrl` + `Right Flecha` | Siguiente marcador. |
@@ -181,7 +181,7 @@ En la zona **central inferior**, hay una **línea de tiempo** con marcas y los b
 
 ![Divisor de ritmo (osu!mania ver.)](img/BEM_BSD.jpg "Divisor de ritmo (osu!mania ver.)")
 
-***Articulo principal: [Divisor de ritmo](/wiki/Beatmap_Editor/Beat_Snap_Divisor)***
+*Articulo principal: [Divisor de ritmo](/wiki/Beatmap_Editor/Beat_Snap_Divisor)*
 
 **En terminos simples, ajustar la longitud dada de un hilo de color (sección de tiempo) para un espacio de diseño de bordado (medidas, dividido por los divisores que se llamaran beats) en la tela (canción).** Ya que osu!mania prioriza mucho cada sincronización de las notas, **Signatura de compás** (MM:B) desde la sección de Tiempo se agrega (15:3 = 15a medida 3ra pulsación) al lado de la barra de ajuste para facilitar la referencia del mapper. Puede ir a un valor negativo (-8:-3 por ejemplo) si la primera sección de tiempo está a *unos segundos de distancia* del inicio del archivo de la canción del Beatmap.
 
@@ -200,7 +200,7 @@ El botón de **Insertar Descanso** pondrá/detendrá el "Descanso" en la marca d
 #### Selector
 
 | Botones / Titulo (Atajo de teclado) | Uso | Descripción |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | Conjunto de muestra | Auto, Normal, So, Drum | Cambia el Sampleset ignorando el actual en la sección de tiempo. Ej: Temporización **Drum 66%**, mientras que este conjunto de samples es **Soft**, reproducirá todo el sonido **Soft** relacionado en las notas como clap, normal, finish, whistle con 66% de volumen. |
 | Adiciones | Auto, Normal, Soft, Drum | Básicamente lo mismo de arriba, PERO la configuración de Adiciones sobrescribe la configuración del conjunto de muestras. Ej: Temporización **Drum 55%**, conjunto de muestras **Soft**, mientras que estas Adiciones es **Normal**, reproducirá todo el sonido **Normal** relacionado en las notas como clap, normal, finish, whistle con 55% de volumen. |
 | Seleccionar (`1`) | **Clic izquierdo/ arrastrar:** Mueve la marda de tiempo y ubicación de una nota. **Clic derecho:** Elimina la nota. **`Ctrl` + Clic:** Selección múltiple. | Selecciona y modifica las notas existentes. |
@@ -216,14 +216,14 @@ El botón de **Insertar Descanso** pondrá/detendrá el "Descanso" en la marca d
 #### Recuadros del Area de juego
 
 | Nombre | Descripción |
-| --- | --- |
+| :-- | :-- |
 | Cuadro izquierdo | Intensidad de las notas (línea de tiempo). |
 | Centro | Area de juego verdadera ([Divisor de ritmo](/wiki/Beatmap_Editor/Beat_Snap_Divisor)). |
 
 #### Colour notes
 
 | Nombre | Descripción |
-| --- | --- |
+| :-- | :-- |
 | Doble línea Blanca | Medida |
 | Línea Blanca | Tiempo común |
 | Línea Verde | Tú / Linea de juicio |
@@ -268,13 +268,13 @@ El botón de **Insertar Descanso** pondrá/detendrá el "Descanso" en la marca d
 **La lista de subherramientas disponibles que complementan al kit de herramientas.**
 
 | Boton (Atajo de teclado) | Uso | Descripción |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | Nuevo combo (`Q`) | **Clic Derecho:** Cambia la nota actual al siguiente color de combo. | Nota combo. Esta es equivalente a un verso en el guion de la canción. Un rango aceptable es de aproximadamente 5-20. |
 
 #### Sonidos de Golpeo
 
 | Boton (Atajo de teclado) | Uso | Descripción |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | Whistle (`W`) | ("Seleccionar" en una Nota de Golpeo) **Clic izquierdo:** Usar sonido de whistle en esta nota | Agrega una adición de sonido de whistle a la selección. |
 | Finish (`E`) | ("Seleccionar" en una Nota de Golpeo) **Clic izquierdo:** Usar sonido de finish en esta nota | Agrega una adición de sonido de finish (platillo) a la selección. |
 | Clap (`R`) | ("Seleccionar" en una Nota de Golpeo) **Clic izquierdo:** Usar sonido de clap en esta nota | Agrega una adición de sonido de clap a la selección. |
@@ -282,7 +282,7 @@ El botón de **Insertar Descanso** pondrá/detendrá el "Descanso" en la marca d
 #### Assist Tools
 
 | Boton (Atajo de teclado) | Uso | Descripción |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | Ajuste de Cuadricula (`T`) | **`Shift` (Mantener):** Temporalmente activado **`Ctrl` (Mantener):** Temporalmente desactiva el ajuste de ángulo | Las notas de golpeo se ajustarán a la cuadrícula de forma predeterminada. |
 | Ajuste de Distancia (`Y`) | **`Alt` (Mantener):** Temporalmente activado. Cambia el Divisor de ritmo por el Ajuste de Distancia **`Alt` + Rueda del ratón:** Ajusta el multiplicador del Ajuste de Distancia. | La distancia entre notas de golpeo consecutivas se ajustará en función de su diferencia rítmica. Mejor uso mientras la línea de tiempo está en pausa. |
 | Bloquear Notas (`L`) | ("Select" en una Nota de Golpeo) **Clic izquierdo:** Bloquea esta nota | Bloquea la nota seleccionada en la posición y marca de tiempo actual. |
@@ -299,7 +299,7 @@ Para **Sonidos de teclas** (Agregando SE en Notas de Golpeo), selecciona la nota
 #### Comandos de Marcadores
 
 | Atajo | Descripción |
-| --- | --- |
+| :-- | :-- |
 | `Ctrl` + `B` | Agrega un marcador en la ubicación actual. |
 | `Ctrl` + `Shift` + `B` | Elimina el marcador en la ubicación actual. |
 | `Ctrl` + `Right Flecha` | Siguiente marcador |
@@ -322,7 +322,7 @@ La **Sección Derecha** es **la configuración para el archivo de sonido selecci
 ##### Basico
 
 | Nombre | Descripción |
-| --- | --- |
+| :-- | :-- |
 | Conjunto personalizado | **Ignorando** el Hitsound personalizado seleccionado en este editor, y aplicando el **SET** de hitsound **predeterminado**,  y volumen sin usar el punto de tiempo. (El uso de la muestra básica debe estar habilitada para usar esto y que funcione como está previsto) Por ejemplo: agregó soft-hitwhistle77.wav con un volumen del 90%. Ten en cuenta que también debes agregar el whistle a la nota manualmente. **Además, esta característica no se recomienda debido a que la función APLICAR normal en este editor es más fácil de usar que esta, aunque ambas funcionen básicamente igual.** |
 | Volumen | Que tan fuerte quieres que sea este archivo de sonido. Usa solo valores enteros. (8 - 100) |
 | Usar muestra básica | **Ignorando** el hitsound personalizado seleccionado en este editor, y aplicando solo el volumen en las notas seleccionadas. Esto significa que, independientemente de las notas, esta función solo cambia el volumen de las notas seleccionadas. Ej: Esto puede usarse para cambiar múltiples volumenes en diferentes notas con diferente muestra de hitsound a la vez o simplemente mejorar el hitsound predeterminado ignorando la configuración de volumen de cualquier punto de tiempo. |
@@ -330,7 +330,7 @@ La **Sección Derecha** es **la configuración para el archivo de sonido selecci
 ##### Botones
 
 | Nombre | Descripción |
-| --- | --- |
+| :-- | :-- |
 | Reproducir | Reproduce el archivo de sonido seleccionado |
 | Importar | Importa el archivo de sonido personalizado desde una subcarpeta dentro de la carpeta de beatmap |
 | Eliminar | **Borra el archivo de sonido personalizado.** Para eliminar el archivo de sonido asociado con la nota, usa el botón "Reiniciar". |
