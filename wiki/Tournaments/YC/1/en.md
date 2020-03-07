@@ -16,7 +16,7 @@ The **Yuri Cup** (***YC***) is an international 4-digit 4v4 double-elimination o
 | Registration phase | 2020-01-26/2020-02-14 |
 | Live drawings | 2020-02-15 (14:00 UTC) |
 | Qualifiers | 2020-02-22/2020-02-23 |
-| Round of 32 | 2020-02-29/2020-03-01 |
+| Round of 32 | 2020-02-27/2020-03-01 |
 | Round of 16 | 2020-03-07/2020-03-08 |
 | Quarterfinals | 2020-03-14/2020-03-15 |
 | Semifinals | 2020-03-21/2020-03-22 |
@@ -106,6 +106,37 @@ The Yuri Cup is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (135 MB)](https://mega.nz/#!rU0VmADK!ZrKe9THLFBW5rjSULGu2AkRDAhQfYvXQyRAeRWLiFwc)**
+
+- NoMod
+  - [Enter Shikari - Wall (Hectic) \[Spectrum\]](https://osu.ppy.sh/beatmapsets/1012220#osu/2118714)
+  - [Tyrfing - Verflucht (Muya) \[Another\]](https://osu.ppy.sh/beatmapsets/965125#osu/2045906)
+  - [Nanahoshi Kangengakudan - No,39 (pkk) \[No Sankyuu\]](https://osu.ppy.sh/beatmapsets/531488#osu/1126317)
+  - [PSYQUI - Be There (Livia) \[Future\]](https://osu.ppy.sh/beatmapsets/826236#osu/1731655)
+  - [Noah - End to end (Realazy) \[ShiinohA\]](https://osu.ppy.sh/beatmapsets/835241#osu/1758838)
+  - [Fractal Dreamers - The Singing Swan (Deramok) \[crooked\]](https://osu.ppy.sh/beatmapsets/878061#osu/1836468)
+- Hidden
+  - [Shinra-Bansho - Kyoukyou no Fortunate Polka (Yukiyo) \[A Dance of Esotericism and Vitalism\]](https://osu.ppy.sh/beatmapsets/904962#osu/1888862)
+  - [FujuniseikouyuuP - Invasion of stray cats (val0108) \[Stray0108\]](https://osu.ppy.sh/beatmapsets/256947#osu/588523)
+  - [bbn - Identic Conflict (Myxo) \[LMT's Another\]](https://osu.ppy.sh/beatmapsets/1020429#osu/2135438)
+- HardRock
+  - [Jin feat. MARiA from GARNiDELiA - daze (Loneight) \[Extra\]](https://osu.ppy.sh/beatmapsets/188837#osu/449984)
+  - [PSYQUI - Raise Your Hands (feat. Such) (Nathan) \[run away\]](https://osu.ppy.sh/beatmapsets/889217#osu/1858570)
+  - [Kinjishi - Nageki no Ki (Matrix) \[Insane\]](https://osu.ppy.sh/beatmapsets/1017760#osu/2130349)
+- DoubleTime
+  - [mafumafu - I wanna be a girl (Yukiyo) \[Onegai!\]](https://osu.ppy.sh/beatmapsets/1067733#osu/2235450)
+  - [BlackYooh vs. siromaru - BLACK or WHITE? (BluOxy) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/248876#osu/578163)
+  - [Anamanaguchi - Prom Night (Bonsai) \[Insane\]](https://osu.ppy.sh/beatmapsets/398797#osu/867655)
+  - [Kamiyama Yoh - CUT (Ryuusei Aika) \[Another\]](https://osu.ppy.sh/beatmapsets/1053399#osu/2201285)
+- FreeMod
+  - [BoA - Kiseki (Hinsvar) \[Miracle\]](https://osu.ppy.sh/beatmapsets/150145#osu/370612)
+  - [Fotzu - POTOMIRU PINERA (TheShadowOfDark) \[Marepoto\]](https://osu.ppy.sh/beatmapsets/1032450#osu/2163121)
+  - [Wang Yi Tao - Zi You Sheng Guang (Ryuusei Aika) \[Zero Vector\]](https://osu.ppy.sh/beatmapsets/830266#osu/1739583)
+- Tiebreaker
+  - **[Magnetude - Broken (Asonate) \[Breaking Point\]](https://osu.ppy.sh/beatmapsets/729559#osu/1784064)**
+
 ### Round of 32
 
 **[Download the mappack here! (116 MB)](https://mega.nz/#!3TQC3KLa!jYVQf_oFBbuBP0yseL6k2Q1j8q0W2yf6ytU6ZALa-uI)**
@@ -151,6 +182,39 @@ The Yuri Cup is run by various community members.
   - [senya - Kimi to Dareka no Yasashisa ni (kakifly) \[Affection\]](https://osu.ppy.sh/beatmapsets/250337#osu/596161)
 
 ## Match results
+
+### Round of 32
+
+Thursday, 27 February 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| MeAqua | 4 | **5** | **11:40** | [#1](https://osu.ppy.sh/community/matches/58760885) |
+
+Saturday, 29 February 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| comfkuehlesblondes | 4 | **5** | **Baguette Vodka Salo** | [#1](https://osu.ppy.sh/community/matches/58816973) |
+| **Voprossoff Fanclub** | **5** | 4 | SS Squad (and ruyu) | [#1](https://osu.ppy.sh/community/matches/58820338) |
+| Stavros1435 | 2 | **5** | **Urushihara Fan Club** | [#1](https://osu.ppy.sh/community/matches/58822310) |
+| team name #2 | 0 | **5** | **Hyouri Ittai** | [#1](https://osu.ppy.sh/community/matches/58825886) |
+| yayo | -1 | **0** | **Dziadzia team** | *win by default* |
+
+Sunday, 1 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Milk & Scissors | 0 | **5** | **Yuritarded** | [#1](https://osu.ppy.sh/community/matches/58836051) |
+| Alligator Space Jam | -1 | **0** | **Sakura Trick** | *win by default* |
+| :flushed: | 3 | **5** | **Justice for Riko** | [#1](https://osu.ppy.sh/community/matches/58843266) |
+| **Futon's Bunker** | **5** | 0 | Shaiden fanclub | [#1](https://osu.ppy.sh/community/matches/58848110) |
+| **安倍-プーチン** | **5** | 3 | Donne moi une minute | [#1](https://osu.ppy.sh/community/matches/58849789) |
+| Ricky Montgomery | 2 | **5** | **Rtzero x Rtzer0** | [#1](https://osu.ppy.sh/community/matches/58854214) |
+| Suce | 4 | **5** | **magblood debil** | [#1](https://osu.ppy.sh/community/matches/58854233) |
+| BloodTrail | 0 | **5** | **Corim's Bad Dream** | [#1](https://osu.ppy.sh/community/matches/58858784) |
+| rooGya | 0 | **5** | **N** | [#1](https://osu.ppy.sh/community/matches/58860821) |
+| Farewell authorise | 2 | **5** | **a la verga** | [#1](https://osu.ppy.sh/community/matches/58860145) |
 
 ### Qualifiers
 
