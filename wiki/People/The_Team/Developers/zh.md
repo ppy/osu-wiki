@@ -11,7 +11,7 @@ osu! 的开发人员可以通过其粉红色的用户名和 **osu!dev** 或 **os
 
 ## 团队成员
 
-[开发者小组页面](https://osu.ppy.sh/groups/11)列出了所有团队成员。
+[开发者小组页面](https://osu.ppy.sh/groups/11)列出了所有在任团队成员。
 
 osu! 的开发工作由 osu! 的创始人 ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)** 所领导。
 

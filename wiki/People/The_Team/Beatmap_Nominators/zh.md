@@ -33,7 +33,7 @@ BN的新成员从一个月的待定期开始。如果他们的提名和行为令
 
 ## 团队成员
 
-[Beatmap Nominators 团队页面](https://osu.ppy.sh/groups/28) 以及 [Beatmap Nominators  (待定期)团队页面](https://osu.ppy.sh/groups/32)列出了所有团队成员。
+[Beatmap Nominators 团队页面](https://osu.ppy.sh/groups/28) 以及 [Beatmap Nominators  (待定期)团队页面](https://osu.ppy.sh/groups/32)列出了所有在任团队成员。
 
 下表列出了全部游戏模式，其中每一位 Beatmap Nominator 都具有正式的提名资格。
 **小提示: 所有 BN 都能够熟练的使用英文进行交流，特别说明的除外。**
