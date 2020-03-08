@@ -113,7 +113,7 @@ The seventh edition of the bi-annual UK Community Cup, a tournament for those wh
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "Winner") | 6 months of osu! supporter, a shiny profile badge and a magnificent trophy! |
+| ![Gold crown](/wiki/shared/crown-gold.png "Winner") | 6 months of osu!supporter tag, a shiny profile badge and a magnificent trophy! |
 | ![Silver crown](/wiki/shared/crown-silver.png "Second place") | 3 months of osu! supporter and a sparkling medal |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "Third place") | 1 month of osu supporter and a sparkling medal |
 
@@ -498,7 +498,7 @@ Sunday, 6 October 2019
 | --: | :-: | :-: | :-- | :-- |
 | **Malteser** ![][flag_GB] | **5** | 3 | ![][flag_GB] Woffel | [#1](https://osu.ppy.sh/community/matches/55368204) |
 | **hlo** ![][flag_GB] | **5** | 3 | ![][flag_GB] Zyphox | [#1](https://osu.ppy.sh/community/matches/55368217) |
-| **Bubbleman** ![][flag_GB] | **5** | 1 | ![][flag_GB] Rinnu | [#1](https://osu.ppy.sh/mp/55371230) |
+| **Bubbleman** ![][flag_GB] | **5** | 1 | ![][flag_GB] Rinnu | [#1](https://osu.ppy.sh/community/matches/55371230) |
 | **Harpy** ![][flag_GB] | **5** | 3 | ![][flag_GB] Doomsday | [#1](https://osu.ppy.sh/community/matches/55372794) |
 | Voss ![][flag_GB] | 2 | 5 | ![][flag_GB] **Kerantina** | [#1](https://osu.ppy.sh/community/matches/55376109) |
 | Wario ![][flag_GB] | 2 | 5 | ![][flag_GB] **Ventus** | [#1](https://osu.ppy.sh/community/matches/55378053) |

@@ -1,13 +1,13 @@
 ---
 tags:
-- UK Community Cup 8
-- UKCC 8
-- UKCC 8
+  - UK Community Cup 8
+  - UKCC 8
+  - UKCC 8
 ---
 
 # UK Community Cup 8
 
-![UKCC 7 Logo](img/banner.png)
+![UKCC 8 Logo](img/banner.png)
 
 The 8th edition of the bi-annual UK Community Cup, a tournament for those who live or are from the UK or Ireland. This edition is a 2v2.
 
@@ -98,15 +98,15 @@ Current Stage: **[Signups (click for signup form)](https://forms.gle/s1FQ1sRTrwX
 
 | Event | Timestamp |
 | --: | :--|
-| Signups Open | 22nd February 2020 |
-| Signups Closed | 15th March 2020 |
-| Group Stage | 28th/29th March 2020 |
-| Round of 32 | 4th/5th April 2020 |
-| Round of 16 + Losers Round 1 | 11th/12th April 2020 |
-| Quarter Finals + Losers Round 2/3 | 18th/19th April 2020 |
-| Semi Finals + Losers Round 4/5 | 25th/26th April 2020 |
-| Winners Finals + Losers 6/Semi Final | 2nd/3rd May 2020 |
-| Losers Final + GRAND Finals | 9th/10th May 2020 |
+| Signups Open | 2020-02-20 |
+| Signups Closed | 2020-03-15 |
+| Group Stage | 2020-03-28/2020-03-29 |
+| Round of 32 | 2020-04-04/2020-04-05 |
+| Round of 16 + Losers Round 1 | 2020-04-11/2020-04-12 |
+| Quarter Finals + Losers Round 2/3 | 2020-04-18/2020-04-19 |
+| Semi Finals + Losers Round 4/5 | 2020-04-25/2020-04-26 |
+| Winners Finals + Losers 6/Semi Final | 2020-05-02/2020-05-03 |
+| Losers Final + Grand Finals | 2020-05-09/2020-05-10 |
 
 ## Prizes
 
@@ -114,23 +114,23 @@ Current Stage: **[Signups (click for signup form)](https://forms.gle/s1FQ1sRTrwX
 
 | Placing | Prize(s)|
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "Winner") | tba |
-| ![Silver crown](/wiki/shared/crown-silver.png "Second place") | tba |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "Third place") | tba |
+| ![Gold crown](/wiki/shared/crown-gold.png "Winner") | *tba* |
+| ![Silver crown](/wiki/shared/crown-silver.png "Second place") | *tba* |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "Third place") | *tba* |
 
 ## Organisation
 
-![Staff List](img/staff.png)
+![Staff list](img/staff.png)
 
 UK is run by many wonderful people, this list doesn't fully represent how many amazing people contribute as we accept people along the way. If you're interested in helping staff future UK Community Cups, please contact a host in the [Discord](https://discord.gg/EtsU7Cw)!
 
 | Position | Member(s) |
 | :-- | :-- |
 | Host(s) | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972)  |
-| Referees | ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), tba |
-| Commentators | tba |
-| Streamers | ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), tba |
-| Mappoolers | tba |
+| Referees | ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), *tba* |
+| Commentators | *tba* |
+| Streamers | ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), *tba* |
+| Mappoolers | *tba* |
 | Statistics | ![][flag_NO] [Yokespai](https://osu.ppy.sh/users/6399568) |
 | Graphics | ![][flag_GB] [Melonturtle](https://osu.ppy.sh/users/4775283) |
 
