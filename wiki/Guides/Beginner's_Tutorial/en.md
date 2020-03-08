@@ -149,4 +149,4 @@ Want to push yourself and take on a challenge? Try these!
 
 ## Going Beyond
 
-Once you have exhausted the difficulty of the beatmaps listed here, don't stop there. Keep on going, and find some maps of a higher difficulty rating. Try even searching for beatmaps based on [difficulty suggestion](https://osu.ppy.sh/beatmapsets), as it will help you get an idea of where you need to go next. Don't be afraid to ask other users about improving, as mostly they will be nice and share you a pretty fun map to play that they also enjoyed, where their osu! world adventure begun. Lastly, but most importantly, have fun!
+Once you have exhausted the difficulty of the beatmaps listed here, don't stop there. Keep on going, and find some maps of a higher difficulty rating. Try even searching for beatmaps based on [difficulty suggestion](https://osu.ppy.sh/beatmapsets?c=recommended), as it will help you get an idea of where you need to go next. Don't be afraid to ask other users about improving, as mostly they will be nice and share you a pretty fun map to play that they also enjoyed, where their osu! world adventure begun. Lastly, but most importantly, have fun!
