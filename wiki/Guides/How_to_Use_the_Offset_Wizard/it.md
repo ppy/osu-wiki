@@ -32,4 +32,4 @@ Per impostarlo correttamente, segui questa procedura:
 
 Cambiando le impostazioni video a schermo intero o vice versa (lo schermo intero è raccomandato per il minore ritardo di input) può richiedere la ricalibratura dell'offset. E' raccomandato il volume degli effetti impostato a 0%, perchè potrebbe essere in ritardo, dunque, potrebbe rovinare le cose. Non è accertato se funziona correttamente per DT/NC.
 
-Questa informazione è per la modalità [osu! Standard](/wiki/Game_Modes/osu!), perciò altre modalità come [Taiko](/wiki/Game_Modes/osu!taiko) o [osu!mania](/wiki/Game_Modes/osu!mania) potrebbe richiedere offset differenti.
+Questa informazione è per la modalità [osu!standard](/wiki/Game_Modes/osu!), perciò altre modalità come [osu!taiko](/wiki/Game_Modes/osu!taiko) o [osu!mania](/wiki/Game_Modes/osu!mania) potrebbe richiedere offset differenti.
