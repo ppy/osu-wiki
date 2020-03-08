@@ -6,7 +6,7 @@ outdated: true
 
 # Summary of game modifiers
 
-Note: All mods used in osu!mania will never increase the score multiplier.
+*Note: All mods used in osu!mania will never increase the score multiplier.*
 
 | Mod | Name (Abbr.) | Multiplier | Effect |
 | :-- | :-- | :-- | :-- |
@@ -32,31 +32,31 @@ Note: All mods used in osu!mania will never increase the score multiplier.
 
 ## xK mod score multipliers
 
-Note: This table only affects beatmaps converted from osu! to osu!mania during play, not on on osu!mania-specific beatmaps!
+*Note: This table only affects beatmaps converted from osu! to osu!mania during play, not on on osu!mania-specific beatmaps!*
 
-| | 1k | 2k | 3k | 4k | 5k | 6k | 7k | 8k | 9k |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| 4k | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
-| 5k | 0.74 | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 |
-| 6k | 0.70 | 0.74 | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 | 0.90 |
-| 7k | 0.66 | 0.70 | 0.74 | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 |
+| | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
+| :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
+| 4K | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+| 5K | 0.74 | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 |
+| 6K | 0.70 | 0.74 | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 | 0.90 |
+| 7K | 0.66 | 0.70 | 0.74 | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 |
 
 ### xK mod with CO-OP score multipliers
 
-Note: This table only affects beatmaps converted from osu! to osu!mania during play, not on on osu!mania-specific beatmaps!
+*Note: This table only affects beatmaps converted from osu! to osu!mania during play, not on on osu!mania-specific beatmaps!*
 
 The Co-Op mod gives **no** penalty on osu!mania-specific beatmaps.
 
-| | 1k | 2k | 3k | 4k | 5k | 6k | 7k | 8k | 9k |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| 4k | 0.82 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
-| 5k | 0.78 | 0.86 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
-| 6k | 0.74 | 0.82 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
-| 7k | 0.70 | 0.78 | 0.86 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+| | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
+| :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
+| 4K | 0.82 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+| 5K | 0.78 | 0.86 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+| 6K | 0.74 | 0.82 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+| 7K | 0.70 | 0.78 | 0.86 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
 
 ## Inverse mods
 
-Note: To prevent the following table from growing outrageously large, the reverse is also true.
+*Note: To prevent the following table from growing outrageously large, the reverse is also true.*
 
 | These mods... | ...cancels out these mods. |
 | :-- | :-- |
