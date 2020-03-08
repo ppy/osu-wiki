@@ -6,7 +6,7 @@ needs_cleanup: true
 
 *另请参见：[安装 / macOS](/wiki/Installation/macOS)*
 
-该页面会简要地告诉你怎么让 osu! 在 Windows 上运行。[osu!academy](/wiki/osu!academy) 制作了一个[视频教程（YouTube）](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ) 来解释怎么在 Windows 上面安装 osu!。
+该页面会简要地告诉你怎么让 osu! 在 Windows 上运行。[osu!academy](/wiki/osu!academy) 制作了一个[视频教程](https://www.bilibili.com/video/av90868810/) 来解释怎么在 Windows 上面安装 osu!。
 
 ## 最低系统要求
 
@@ -47,7 +47,7 @@ needs_cleanup: true
 
 *注意：你需要拥有 osu!supporter 标签和互联网连接来使用 osu!direct。*
 
-1. 如果还没有打开的话，打开 osu!，在主界面点击屏幕右侧的 osu!direct 按钮。
+1. 打开 osu!，在主界面点击屏幕右侧的 osu!direct 按钮。
 2. 找一个你想玩的乐曲。
 3. 双击列表内的乐曲或点击右边的`下载（Download）`按钮来下载它。
    - 如果你不想下载随谱面文件一起的视频文件，点击`下载（不包含视频）（DL NoVideo）`。
@@ -67,6 +67,6 @@ needs_cleanup: true
    - 如果皮肤是压缩包（比如 `.7z`，`.rar`，`.zip`，等等）：
      1. 解压。
      2. 把皮肤文件夹移动到 osu! 安装目录下的 `Skins` 文件夹。
-     3. 如果 osu! 还开着，你可能需要重新启动 osu! 来让皮肤可用。
+     3. 如果 osu! 还开着，按下 `Ctrl` + `Alt` + `Shift` + `S` 让新导入的皮肤出现在皮肤列表。
      4. 在 osu! 里进入[选项（Options）](/wiki/Options)搜索 `皮肤（Skin）`。
      5. 下滑到 `当前皮肤：` 选项，选择下载好的皮肤。
