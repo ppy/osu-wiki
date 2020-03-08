@@ -5,7 +5,7 @@ outdated: true
 
 # Game modifiers
 
-![Mods screen of all four modes (Left-to-Right from Top-to-Bottom: osu!, osu!taiko, osu!catch, and osu!mania)](img/GM_Main.jpg "Mods screen of all four modes (Left-to-Right from Top-to-Bottom: (osu!, osu!taiko, osu!catch, and osu!mania)")
+![Mods screen of all four modes (Left-to-Right from Top-to-Bottom: osu!standard, osu!taiko, osu!catch, and osu!mania)](img/GM_Main.jpg "Mods screen of all four modes (Left-to-Right from Top-to-Bottom: (osu!standard, osu!taiko, osu!catch, and osu!mania)")
 
 Game modifiers (mods) are optional modifications to a beatmap's elements and settings that the player can enable at will. A mod effect can range from simple gameplay changes like changing the beatmap's settings to automation such as allowing osu! to do a perfect replay (Auto), on a condition of possible Score Multiplier changes to making the play unrankable. When multiple mods are enabled, the Score Multiplier is the product of the enabled mods' Score Multiplier. For example, when Hidden and Flashlight are applied at the same time, the Score Multiplier will be 1.19x (1.06 * 1.12 = 1.1872; 1.19 by rounding up to nearest hundredths).
 
@@ -38,7 +38,7 @@ In [Multi](/wiki/Multi) mode, the effect of "lives" will not work in [Tag Coop /
 
 - Reduces overall difficulty - larger circles, more forgiving HP drain, less accuracy required.
 
-In [osu!](/wiki/Game_Modes/osu!) mode, the Easy mod decreases [circle size](/wiki/Beatmap_Editor/Song_Setup#circle-size), [approach rate](/wiki/Beatmap_Editor/Song_Setup#approach-rate) (AR), [overall difficulty](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) (OD) as well as [HP drain](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) (HP); each of these by a huge amount (half of the current amount set).
+In [osu!standard](/wiki/Game_Modes/osu!) mode, the Easy mod decreases [circle size](/wiki/Beatmap_Editor/Song_Setup#circle-size), [approach rate](/wiki/Beatmap_Editor/Song_Setup#approach-rate) (AR), [overall difficulty](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) (OD) as well as [HP drain](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) (HP); each of these by a huge amount (half of the current amount set).
 
 ![Easy decreases the difficulty in many ways.](img/GM_EZ1.jpg "Easy decreases the difficulty in many ways.")
 
@@ -48,13 +48,13 @@ In [osu!](/wiki/Game_Modes/osu!) mode, the Easy mod decreases [circle size](/wik
 
 - Reduces overall difficulty - notes move slower, less accuracy required.
 
-In [osu!taiko](/wiki/Game_Modes/osu!taiko) mode, the Easy mod decreases the [slider velocity](/wiki/Glossary#slider-velocity) (same as reducing AR in osu! mode), [overall difficulty](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) (OD) and [HP drain](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) (HP) by half. Note that the amount of hits which are required to finish a spinner is reduced due to the reduction of [overall difficulty](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty). Unlike the other game modes, the reduced note score requirement to gain health in [osu!taiko](/wiki/Game_Modes/osu!taiko) makes the life bar fill up much more faster to replace the two additional "lives" as it is impossible to fail in the middle of the song.
+In [osu!taiko](/wiki/Game_Modes/osu!taiko) mode, the Easy mod decreases the [slider velocity](/wiki/Glossary#slider-velocity) (same as reducing AR in osu!standard mode), [overall difficulty](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) (OD) and [HP drain](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) (HP) by half. Note that the amount of hits which are required to finish a spinner is reduced due to the reduction of [overall difficulty](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty). Unlike the other game modes, the reduced note score requirement to gain health in [osu!taiko](/wiki/Game_Modes/osu!taiko) makes the life bar fill up much more faster to replace the two additional "lives" as it is impossible to fail in the middle of the song.
 
 ---
 
 - Reduces overall difficulty - larger circles, more forgiving HP drain, less accuracy required.
 
-In [osu!catch](/wiki/Game_Modes/osu!catch) mode, the effects are the same as in osu! mode - all fruits fall slower (same as reducing AR in osu! mode), the camera is zoomed in (increased CS in osu! mode) and two additional "lives" are granted. Despite only using one axis, the fruits' larger size and slower falling rate may cause them to clump together, creating the same alleged problems as in osu! mode.
+In [osu!catch](/wiki/Game_Modes/osu!catch) mode, the effects are the same as in osu!standard mode - all fruits fall slower (same as reducing AR in osu!standard mode), the camera is zoomed in (increased CS in osu!standard mode) and two additional "lives" are granted. Despite only using one axis, the fruits' larger size and slower falling rate may cause them to clump together, creating the same alleged problems as in osu!standard mode.
 
 ---
 
@@ -80,7 +80,7 @@ Do note that the usage of No Fail mod reduces the amount of possible [Performanc
 
 ![Half Time (HT) mod icon](/wiki/shared/mods/HT.png "Half Time (HT) mod icon")
 
-- Score Multiplier: 0.30x (osu!, osu!taiko, osu!catch), 0.50x (osu!mania)
+- Score Multiplier: 0.30x (osu!standard, osu!taiko, osu!catch), 0.50x (osu!mania)
 - Shortcut key: `E`
 - Less zoom. ("Zoom" refers to the beatmap's BPM)
 
@@ -106,7 +106,7 @@ These mods introduce new elements to make the game harder and rewards the player
 
 ![Hard Rock (HR) mod icon.png](/wiki/shared/mods/HR.png "Hard Rock (HR) mod icon.png")
 
-- Score Multiplier: 1.06x (osu!, osu!taiko), 1.12x (osu!catch), 1.00x (osu!mania; unranked)
+- Score Multiplier: 1.06x (osu!standard, osu!taiko), 1.12x (osu!catch), 1.00x (osu!mania; unranked)
 - Shortcut key: `A`
 - Everything just got a bit harder...
 
@@ -114,9 +114,9 @@ Hard Rock (named after the hardest difficulty of the DS game [Elite Beat Agents]
 
 ---
 
-![Hard Rock increases the difficulty in many ways (osu!).](img/GM_HR_O.jpg "Hard Rock increases the difficulty in many ways (osu!).")
+![Hard Rock increases the difficulty in many ways (osu!standard).](img/GM_HR_O.jpg "Hard Rock increases the difficulty in many ways (osu!standard).")
 
-In [osu!](/wiki/Game_Modes/osu!) mode, Hard Rock mod also flips the beatmap on the X axis, so that elements that were at the bottom of the map are now at the top and vice versa.
+In [osu!standard](/wiki/Game_Modes/osu!) mode, Hard Rock mod also flips the beatmap on the X axis, so that elements that were at the bottom of the map are now at the top and vice versa.
 
 ---
 
@@ -148,9 +148,9 @@ Using this mod on osu!mania will result in an unranked play.
 - Shortcut key: `S` (from unselected)
 - Miss a note and fail.
 
-Sudden Death mod causes the player to fail the map if the [combo](/wiki/Glossary#combo) is ever broken, resulting in an extra large miss figure (osu! mode only) and a full HP drain.
+Sudden Death mod causes the player to fail the map if the [combo](/wiki/Glossary#combo) is ever broken, resulting in an extra large miss figure (osu!standard mode only) and a full HP drain.
 
-Combo can be broken by missing a note, not clicking on a starting slider circle (osu! only), not collecting a slider tick, or failing to complete a spinner. However, combo will not be broken by missing a slider end (result in getting 100 score value instead for that slider completion; osu! only) or not holding/collecting on the empty slider path.
+Combo can be broken by missing a note, not clicking on a starting slider circle (osu!standard only), not collecting a slider tick, or failing to complete a spinner. However, combo will not be broken by missing a slider end (result in getting 100 score value instead for that slider completion; osu!standard only) or not holding/collecting on the empty slider path.
 
 #### Perfect
 
@@ -174,7 +174,7 @@ In [osu!mania](/wiki/Game_Modes/osu!mania) mode, Perfect mod accepts both Rainbo
 
 ![Double Time (DT) mod icon](/wiki/shared/mods/DT.png "Double Time (DT) mod icon")
 
-- Score Multiplier: 1.12x (osu!, osu!taiko) , 1.06x (osu!catch), 1.00x (osu!mania)
+- Score Multiplier: 1.12x (osu!standard, osu!taiko) , 1.06x (osu!catch), 1.00x (osu!mania)
 - Shortcut key: `D` (from unselected)
 - Zoooooooooom
 
@@ -198,7 +198,7 @@ In [osu!catch](/wiki/Game_Modes/osu!catch) mode, as there is no overall difficul
 
 Click on Double Time again to activate Nightcore mod.
 
-- Score Multiplier: 1.12x (osu!, osu!taiko) , 1.06x (osu!catch), 1.00x (osu!mania).
+- Score Multiplier: 1.12x (osu!standard, osu!taiko) , 1.06x (osu!catch), 1.00x (osu!mania).
 - Shortcut key: `DD` (from unselected) or `Shift`+`D`
 - uguuuuuuuu
 
@@ -210,7 +210,7 @@ The multiplier stays the same, and the beatmap itself is unaffected beyond what 
 
 ![Hidden (HD) mod icon](/wiki/shared/mods/HD.png "Hidden (HD) mod icon")
 
-- Score Multiplier: 1.06x (osu!, osu!taiko, osu!catch) , 1.00x (osu!mania)
+- Score Multiplier: 1.06x (osu!standard, osu!taiko, osu!catch) , 1.00x (osu!mania)
 - Shortcut key: `F`
 
 Hidden (debuted in Ouendan 2, the second Japanese DS game) mod removes the approach circles and causes the hit objects to fade after appearing on the screen.
@@ -221,9 +221,9 @@ If the beatmap was passed with S or SS grade with Hidden mod enabled, the beatma
 
 - Play with no approach circles and fading notes for a slight score advantage.
 
-![Hidden play in osu! mode](img/GM_HD_O.jpg "Hidden play in osu! mode")
+![Hidden play in osu!standard mode](img/GM_HD_O.jpg "Hidden play in osu!standard mode")
 
-In [osu!](/wiki/Game_Modes/osu!), it eliminates the approach circles and causes the hit objects to fade out shortly after appearing, forcing players to more or less memorize the timing and, to a lesser degree, the placement and the slider path.
+In [osu!standard](/wiki/Game_Modes/osu!), it eliminates the approach circles and causes the hit objects to fade out shortly after appearing, forcing players to more or less memorize the timing and, to a lesser degree, the placement and the slider path.
 
 By default, the first hit object will have an approach circle. However, this behaviour can be safely disabled in Options under Gameplay General's as `Show approach circle on first "Hidden" object`.
 
@@ -278,7 +278,7 @@ If the beatmap was passed with S or SS grade with Fade In mod enabled, the beatm
 
 ![Flashlight (FL) mod icon](/wiki/shared/mods/FL.png "Flashlight (FL) mod icon")
 
-- Score Multiplier: 1.12x (osu!, osu!taiko, osu!catch), 1.00x (osu!mania)
+- Score Multiplier: 1.12x (osu!standard, osu!taiko, osu!catch), 1.00x (osu!mania)
 - Shortcut key: `G`
 - Restricted view area.
 
@@ -288,9 +288,9 @@ If the beatmap was passed with S or SS grade with Flashlight mod enabled, the be
 
 ---
 
-![Flashlight mod in osu! mode](img/GM_FL_O.jpg "Flashlight mod in osu! mode")
+![Flashlight mod in osu!standard mode](img/GM_FL_O.jpg "Flashlight mod in osu!standard mode")
 
-In [osu!](/wiki/Game_Modes/osu!) mode, only a small, illuminated circle (visible area) surrounding the cursor is shown which will display the limited playfield and the hit objects. The visible area will become smaller at 100 combo and again at 200 combo; returning to its original size if the combo is broken. When holding the slider ball to a slider path, the visible area will also darken until the slider is completed.
+In [osu!standard](/wiki/Game_Modes/osu!) mode, only a small, illuminated circle (visible area) surrounding the cursor is shown which will display the limited playfield and the hit objects. The visible area will become smaller at 100 combo and again at 200 combo; returning to its original size if the combo is broken. When holding the slider ball to a slider path, the visible area will also darken until the slider is completed.
 
 When paired with Hidden mod, the Flashlight's visible area barely matters (with limited vision, the fading of the hit objects may occur while the cursor is not focused to the hit object's appearance point) and may requires the player to memorize the entire beatmap.
 
@@ -298,7 +298,7 @@ When paired with Hidden mod, the Flashlight's visible area barely matters (with 
 
 ![Flashlight mod in osu!taiko mode](img/GM_FL_T.jpg "Flashlight mod in osu!taiko mode")
 
-In [osu!taiko](/wiki/Game_Modes/osu!taiko) mode, the position of visible area is fixed at the hitting area. The visible area shrinks at the same combo intervals as in osu! mode (at 100 and 200 combo); returning to its original size if the combo is broken.
+In [osu!taiko](/wiki/Game_Modes/osu!taiko) mode, the position of visible area is fixed at the hitting area. The visible area shrinks at the same combo intervals as in osu!standard mode (at 100 and 200 combo); returning to its original size if the combo is broken.
 
 When paired with Hidden, the Flashlight's visible area becomes a moot point since notes are technically *invisible* (the notes fade out completely upon reaching the visible area, even at 0 combo visible area size) and requires the player to memorize the entire beatmap instead.
 
@@ -306,7 +306,7 @@ When paired with Hidden, the Flashlight's visible area becomes a moot point sinc
 
 ![Flashlight mod in osu!catch mode](img/GM_FL_C.jpg "Flashlight mod in osu!catch mode")
 
-In [osu!catch](/wiki/Game_Modes/osu!catch) mode, the Flashlight mod behaviour is the same as osu! mode, except that the visible area follows the catcher instead. The visible area is notably larger than in osu! mode or in osu!taiko mode but is still quite a challenge as it disables the player entirely from seeing notes on the top or the other side of the screen.
+In [osu!catch](/wiki/Game_Modes/osu!catch) mode, the Flashlight mod behaviour is the same as osu!standard mode, except that the visible area follows the catcher instead. The visible area is notably larger than in osu!standard mode or in osu!taiko mode but is still quite a challenge as it disables the player entirely from seeing notes on the top or the other side of the screen.
 
 When paired with Hidden, fruits are visible momentarily if the catcher is *directly under* the fruits until reaching 100 combo, at which point the fruits become invisible by the time the fruits reach the visible area and requires player's memory of the beatmap's pattern to clear the beatmap instead.
 
@@ -326,8 +326,8 @@ Only the usage of Relax, Auto Pilot, or Auto/Cinema will not save the replay and
 
 ![Relax (RL) mod icon](/wiki/shared/mods/RL.png "Relax (RL) mod icon")
 
-- **osu!, osu!taiko, and osu!catch only**
-- Score Multiplier: 0.00x (osu!, osu!taiko, osu!catch; unranked)
+- **osu!standard, osu!taiko, and osu!catch only**
+- Score Multiplier: 0.00x (osu!standard, osu!taiko, osu!catch; unranked)
 - Shortcut key: `Z`
 
 ---
@@ -336,7 +336,7 @@ Only the usage of Relax, Auto Pilot, or Auto/Cinema will not save the replay and
 - Give your clicking/tapping finger a break from the heat of things.
 - \*\* UNRANKED \*\*
 
-In [osu!](/wiki/Game_Modes/osu!) mode, the player only needs to hover the cursor over the hit objects and the hit objects will be hit with perfect timing (or any later score values if the player reaches the hit object late).
+In [osu!standard](/wiki/Game_Modes/osu!) mode, the player only needs to hover the cursor over the hit objects and the hit objects will be hit with perfect timing (or any later score values if the player reaches the hit object late).
 
 Relax mod also hides the score, combo, and misses (except in osu!taiko) and makes it impossible to fail the map, much like No Fail mod does. Also, spins per minute value will be doubled, allowing the player to spin much faster easily and obtain a higher score than in regular play.
 
@@ -364,8 +364,8 @@ Relax mod is not available for use in [osu!mania](/wiki/Game_Modes/osu!mania).
 
 ![Auto Pilot (AP) mod icon](/wiki/shared/mods/AP.png "Auto Pilot (AP) mod icon")
 
-- **osu! only**
-- Score Multiplier: 0.00x (osu! only; unranked)
+- **osu!standard only**
+- Score Multiplier: 0.00x (osu!standard only; unranked)
 - Shortcut key: `X`
 - Automatic cursor movement - just follow the rhythm.
 - \*\* UNRANKED \*\*
@@ -382,8 +382,8 @@ Auto Pilot is not available for use in [osu!taiko](/wiki/Game_Modes/osu!taiko), 
 
 ![Spun Out (SO) mod icon](/wiki/shared/mods/SO.png "Spun Out (SO) mod icon")
 
-- **osu! only**
-- Score Multiplier: 0.90x (osu! only)
+- **osu!standard only**
+- Score Multiplier: 0.90x (osu!standard only)
 - Shortcut key: `C`
 - Spinners will be automatically completed
 
@@ -413,7 +413,7 @@ Since the player is not actively playing the beatmap and more to watching the re
 
 ---
 
-In [osu!](/wiki/Game_Modes/osu!) mode, Auto mod will spin quickly to the maximum 477 spins per minute in counter-clockwise rotation for spinners.
+In [osu!standard](/wiki/Game_Modes/osu!) mode, Auto mod will spin quickly to the maximum 477 spins per minute in counter-clockwise rotation for spinners.
 
 ---
 
@@ -457,7 +457,7 @@ This mod will force all *converted* osu!mania beatmaps to use the selected K set
 Score Multiplier only applies within these conditions:
 
 - Using 1K, 2K, or 3K mod will result in an unranked play.
-- The table only affects beatmaps converted from osu! mode to osu!mania mode.
+- The table only affects beatmaps converted from osu!standard mode to osu!mania mode.
 - The mod does not work on osu!mania-specific beatmaps.
 
 | Default/Modifier | 1k | 2k | 3k | 4k | 5k | 6k | 7k | 8k | 9k |
@@ -483,7 +483,7 @@ Score Multiplier only applies within these conditions:
 Score Multiplier only applies within these conditions:
 
 - Using Co-Op mod will result in an unranked play.
-- The table only affects beatmaps converted from osu! mode to osu!mania with Co-Op mod on.
+- The table only affects beatmaps converted from osu!standard mode to osu!mania with Co-Op mod on.
 - The Co-Op mod gives **no** penalty on osu!mania-specific beatmaps.
 
 | Default | 1k | 2k | 3k | 4k | 5k | 6k | 7k | 8k | 9k |
@@ -519,7 +519,7 @@ It does not affect the notes' timeline and is not shuffled every time Random mod
 - Try the future scoring system.
 - \*\* UNRANKED \*\*
 
-[Introduced in the 22 February 2017 (2017-02-22) build \[b20170222.3 (Stable)\]](https://osu.ppy.sh/home/changelog), ScoreV2 mod uses the prototype ScoreV2 system instead of the current scoring system used by the mode. ScoreV2 system attempts to scale *all* hit object scoring values to a hard limit of 1,000,000 (1 million) score limit at 1.00 score modifier excluding bonus spinner value of spinners in osu! mode, dendens in osu!taiko mode, and collected bananas (spinner equivalent) in osu!catch mode.
+[Introduced in the 22 February 2017 (2017-02-22) build \[b20170222.3 (Stable)\]](https://osu.ppy.sh/home/changelog), ScoreV2 mod uses the prototype ScoreV2 system instead of the current scoring system used by the mode. ScoreV2 system attempts to scale *all* hit object scoring values to a hard limit of 1,000,000 (1 million) score limit at 1.00 score modifier excluding bonus spinner value of spinners in osu!standard mode, dendens in osu!taiko mode, and collected bananas (spinner equivalent) in osu!catch mode.
 
 Full information regarding ScoreV2 can be found at [the Score page under ScoreV2](/wiki/Score#scorev2).
 
@@ -533,8 +533,8 @@ Full information regarding ScoreV2 can be found at [the Score page under ScoreV2
 
 ![Target Practice (TP) mod icon](/wiki/shared/mods/TP.png "Target Practice (TP) mod icon")
 
-- **osu! only**
-- Score Multiplier: 1.00x (unranked, osu! only)
+- **osu!standard only**
+- Score Multiplier: 1.00x (unranked, osu!standard only)
 - Shortcut key: ?
 - ?
 
@@ -604,7 +604,7 @@ The mod functionality was moved to [Visual Settings](/wiki/Visual_Settings) and 
 - osu! used to round down Score Multiplier to the nearest hundredth (0.01). Thankfully, a patch fixed the rounding problem by rounding up if the thousandths value is 0.005 or higher and rounding down otherwise.
 - Some (if not, most) argue that Easy mod fails to make beatmaps easier to play. The claim is that circles become comically large, and AR becomes ridiculously slower. The mod has the potential of making the play area much more cluttered and harder to read, especially on more difficult beatmaps.
   - These points are elaborated upon in [Let's talk Easy Mod](https://osu.ppy.sh/community/forums/topics/56606) feature request to improve the mod, by [Lybydose](https://osu.ppy.sh/users/64501).
-- When playing with Sudden Death mod enabled in osu! mode, there are *rare cases* where the player *may* survives from a full life bar drain for breaking the combo count. If the player managed to preserve at least a sliver of health by getting a slider tick in a very short time-margin right after the combo broke and *before* the life bar is drained completely, the player can continue playing the beatmap as is and no large miss figure will be imposed.
+- When playing with Sudden Death mod enabled in osu!standard mode, there are *rare cases* where the player *may* survives from a full life bar drain for breaking the combo count. If the player managed to preserve at least a sliver of health by getting a slider tick in a very short time-margin right after the combo broke and *before* the life bar is drained completely, the player can continue playing the beatmap as is and no large miss figure will be imposed.
   - Since the slider tick health gain must be sufficient enough to outlast the natural health drain over time, it may be impossible to continue at higher difficulty settings even when the player survives the full life bar drain.
 - [Nightcore was originated from an April Fools joke.](https://osu.ppy.sh/community/forums/topics/49733)
 - Flashlight mod was subjected to heavy controversy regarding the implementation in 2010 for being the *easiest* mod to hack on forced the mod to be unranked until a patch was implemented to cover the Flashlight implementation loophole. Further information regarding this incident can be found at the two threads below.

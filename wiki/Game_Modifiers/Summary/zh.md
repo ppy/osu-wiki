@@ -28,7 +28,7 @@
 
 ## xK 分数加成
 
-*注：这个表格仅影响从osu!转换到osu!mania的游戏，对osu!mania专门的谱面没有影响。*
+*注：这个表格仅影响从osu!standard转换到osu!mania的游戏，对osu!mania专门的谱面没有影响。*
 
 | | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
 | :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
@@ -39,7 +39,7 @@
 
 ### xK 和 CO-OP 分数加成
 
-*注：这个表格仅影响从osu!转换到osu!mania的游戏，对osu!mania专门的谱面没有影响。*
+*注：这个表格仅影响从osu!standard转换到osu!mania的游戏，对osu!mania专门的谱面没有影响。*
 
 Co-op 对osu!mania专门谱面**没有**罚分。
 
@@ -70,7 +70,7 @@ Co-op 对osu!mania专门谱面**没有**罚分。
 | :-- | :-- |
 | ![Hidden](/wiki/shared/mods/HD.png) ![Fade In](/wiki/shared/mods/FI.png) | ![Flashlight](/wiki/shared/mods/FL.png) |
 
-[o!s]: /wiki/shared/mode/osu.png "osu!"
+[o!s]: /wiki/shared/mode/osu.png "osu!standard"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
 [o!c]: /wiki/shared/mode/catch.png "osu!catch"
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
