@@ -55,7 +55,7 @@ Editing videos with [avidemux](http://avidemux.sourceforge.net/download.html)
 
    ![Tutorial Image 4](img/CV_04.png "Tutorial Image 4")
 
-2. If you want to instead re-encode the file, then choose "MPEG-4 AVC" to pick h.264. *Note: "h.264 lags single-core machines like crazy and shouldn't be used. I do not agree with this, as we have a video toggle, and this isn't 2005. If you want to support ancient PCs, then use h.263 or Xvid." ~mm201*
+2. If you want to instead re-encode the file, then choose "MPEG-4 AVC" to pick h.264.
 
    ![Tutorial Image 5](img/CV_05.png "Tutorial Image 5")
 
