@@ -16,7 +16,7 @@ tags:
 
 ## 团队成员
 
-**在官方网站上拥有一个 [Project Loved 团队页面](https://osu.ppy.sh/groups/31)，ID为31，但列表并不公开。这仅用于管理作用。**
+**在官方网站上拥有一个 [Project Loved 团队成员页面](https://osu.ppy.sh/groups/31)，ID为31，但列表并不公开。这仅用于管理作用。**
 
 ![][flag_US] **[Toy](https://osu.ppy.sh/users/2757689)** 负责管理 Project Loved 并帮助协调其大部分活动。
 
