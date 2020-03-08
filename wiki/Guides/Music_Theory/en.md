@@ -1,4 +1,4 @@
-# Music theory
+# Music theory guide
 
 *[Original guide by ziin](https://osu.ppy.sh/community/forums/topics/58959)*
 
