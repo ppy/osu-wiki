@@ -17,7 +17,7 @@ The **Taiko Suiji Cup 2020** (***TSC 2020***) is an international randomised thr
 | Registration phase | 2020-01-10/2020-02-09 |
 | Live drawings | 2020-02-17 (20:00 UTC) |
 | Qualifiers | 2020-02-22/2020-02-23 |
-| Round of 32 | 2020-02-29/2020-03-01 |
+| Round of 32 | 2020-02-28/2020-03-01 |
 | Round of 16 | 2020-03-07/2020-03-08 |
 | Quarterfinals | 2020-03-14/2020-03-15 |
 | Semifinals | 2020-03-21/2020-03-22 |
@@ -93,6 +93,41 @@ The Taiko Suiji Cup 2020 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (73 MB)](https://mega.nz/#!91FHGC6S!MfKL-G27r3UBCsU7tmVSuy0_hYd51nu1RKD0iDwCfH4)**
+
+#### Mappool A
+
+- NoMod
+  - [iNO - Suishoku Komachi Melancholia (Yales) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/802680#taiko/1684845)
+  - [Renard - Terminal (nold_1702) \[mint's Inner Oni\]](https://osu.ppy.sh/beatmapsets/102282#taiko/291218)
+  - [TAROLIN - world.\[NOT\].excuse(nxc); (applerss) \[world.runExecution();\]](https://osu.ppy.sh/beatmapsets/724063#taiko/1528896)
+  - [jippusu - Heisei Kataku Rhythm (HelloSCV) \[S-Nagi's Inner Oni\]](https://osu.ppy.sh/beatmapsets/71720#taiko/207134)
+- Hidden
+  - [Araragi Tsukihi (CV: Iguchi Yuka) - Platinum Disco (TV Size) (Konpaku Sariel) \[Platinum\]](https://osu.ppy.sh/beatmapsets/1117943#taiko/2335270)
+  - [Mitsudomoe Cast - Waga Na wa Shougakusei (TV Size) (Charlotte) \[Yuni's Inner Oni\]](https://osu.ppy.sh/beatmapsets/273709#taiko/1175214)
+- HardRock
+  - [MASAYOSHI IIMORI - Hella Deep (Trapmaniac) \[Oni\]](https://osu.ppy.sh/beatmapsets/795073#taiko/1669852)
+  - [BlackY - JEHANNEDARC (komasy) \[ONI\]](https://osu.ppy.sh/beatmapsets/633361#taiko/1344288)
+- FreeMod
+  - [Sota Fujimori - polygon (Fallmorph) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/721297#taiko/1673979)
+  - [Minamotoya fear.Kuroa\* - Hana Kagerou (lepidopodus) \[lepidon! - Oni\]](https://osu.ppy.sh/beatmapsets/303952#taiko/681083)
+
+#### Mappool B
+
+- Challenge
+  - [Pa's Lam System - If (hoku-4625) \[FREEDOM\]](https://osu.ppy.sh/beatmapsets/769769#taiko/1618520)
+  - [Kano - Walk This Way! (ll-oscar) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/517814#taiko/1100178)
+- DoubleTime
+  - [MYTH & ROID - L.L.L. (Devli) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/505696#taiko/1100976)
+- Easy
+  - [U-ske feat.nanahira - Galaxy Traveler (ercs) \[mikkusu\]](https://osu.ppy.sh/beatmapsets/354619#taiko/781086)
+- Hidden+HardRock
+  - [OISHII - UP UP MT. CAKE (hikikochan) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/682598#taiko/1443522)
+- Tiebreaker
+  - **[Camellia - I Can Fly In The Universe (KTYN) \[Inner Oni (for Suiji 2020)\]](https://osu.ppy.sh/beatmapsets/924267#taiko/2332799)**
+
 ### Round of 32
 
 **[Download the mappack here! (69 MB)](https://mega.nz/#!dgcUnCBD!m-XwVABg9xzZNnpBSl9BVSQlAAZhdAtucA0EeoNOFu4)**
@@ -143,6 +178,47 @@ The Taiko Suiji Cup 2020 is run by various community members.
   - [Doma Umaru \[CV:Tanaka Aimi\] - Kakushinteki\*Metamaruphose! (Chiswell) \[UMR Oni\]](https://osu.ppy.sh/beatmapsets/345189#taiko/762526)
 
 ## Match results
+
+### Round of 32
+
+Friday, 28 February 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| bacon | 0 | **5** | **beat laser** | [#1](https://osu.ppy.sh/community/matches/58799641) |
+
+Saturday, 29 February 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **sunglasses emoji** | **5** | 0 | The Shitmissers ft. zkane2 | [#1](https://osu.ppy.sh/community/matches/58801435) |
+| **IHATETAIKO** | **5** | 4 | Team 6 | [#1](https://osu.ppy.sh/community/matches/58804703) |
+| **Team 26** | **5** | 1 | Froot Loopy | [#1](https://osu.ppy.sh/community/matches/58807137) |
+| **Break4** | **5** | 3 | 6th Sense | [#1](https://osu.ppy.sh/community/matches/58813736) |
+| **Spaghetti Protectors** | **5** | 0 | BlackJack | [#1](https://osu.ppy.sh/community/matches/58812419) |
+| **chocobo** | **5** | 4 | 1 | [#1](https://osu.ppy.sh/community/matches/58813847) |
+| **4:3 gang** | **5** | 2 | Donjinshi | [#1](https://osu.ppy.sh/community/matches/58814987) |
+| Geki Force | 4 | **5** | **Team 5** | [#1](https://osu.ppy.sh/community/matches/58815022) |
+| **#TeamTrees** | **5** | 1 | HolyWeebs | [#1](https://osu.ppy.sh/community/matches/58815019) |
+| **🍘** | **0** | -1 | THANOS OBAMA | *win by default* |
+| **plz Jeff** | **0** | -1 | Aggressive Banana | *win by default* |
+| **Worldwide Bongo** | **5** | 1 | Six Leaf Clover | [#1](https://osu.ppy.sh/community/matches/58820875) |
+| Ronaldo Gaming | 1 | **5** | **ham sandwich xviii** | [#1](https://osu.ppy.sh/community/matches/58824518) |
+| **bruh** | **5** | 3 | Six Spinning Monkeys | [#1](https://osu.ppy.sh/community/matches/58827808) |
+
+Sunday, 1 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Froot Loopy** | **0** | -1 | bacon | *win by default* |
+| **t.** | **5** | 1 | The winner is the winner | [#1](https://osu.ppy.sh/community/matches/58834316) |
+| Aggressive Banana | 1 | **5** | **Team 6** | [#1](https://osu.ppy.sh/community/matches/58836161) |
+| 1 | 0 | **5** | **Geki Force** | [#1](https://osu.ppy.sh/community/matches/58843278) |
+| 6th Sense | 3 | **5** | **The Shitmissers ft. zkane2** | [#1](https://osu.ppy.sh/community/matches/58849480) |
+| BlackJack | -1 | **0** | **Donjinshi** | *win by default* |
+| HolyWeebs | 2 | **5** | **Six Spinning Monkeys** | [#1](https://osu.ppy.sh/community/matches/58852715) |
+| Six Leaf Clover | 3 | **5** | **The winner is the winner** | [#1](https://osu.ppy.sh/community/matches/58854310) |
+| THANOS OBAMA | -1 | **0** | **Ronaldo Gaming** | *win by default* |
 
 ### Qualifiers
 
