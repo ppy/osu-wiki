@@ -10,7 +10,7 @@ Bancho garde une trace des 20 plus récentes requêtes pour permettre aux moddeu
 
 - La commande `!request`, qui envoie un MP de BanchoBot avec le lien aléatoire d'une map.
 - La commande `!request list`, qui envoie un MP de BanchoBot avec les 5 dernières requêtes envoyées et un lien pour en avoir plus.
-- La [liste des 20 dernières requêtes](https://osu.ppy.sh/beatmapsets) sur le site web, qui affiche les 20 dernières requêtes et quelques autres données.
+- La [liste des 20 dernières requêtes](https://osu.ppy.sh/p/beatmaplist&r=8) sur le site web, qui affiche les 20 dernières requêtes et quelques autres données.
 
 Notez que si vous postez plus d'une map sur le channel en peu de temps, Bancho les ignorera.
 

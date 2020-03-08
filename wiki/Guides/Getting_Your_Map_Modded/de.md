@@ -8,7 +8,7 @@ Um deine Map ranked zu bekommen ist es erst nötig andere Spieler dazu zu bringe
 
 - Durch eingabe des `!request` befehls in den Chat wird Bancho dir eine zufällige Map posten.
 - Durch Eingabe des `!request list` Befehls in den Chat wird Bancho dir eine liste der zuletzt 5 geposteten Maps schicken plus einen Link zu mehr.
-- Durch besuchen von der [Mod Requests](https://osu.ppy.sh/beatmapsets) Map liste. Dort werden die 20 zuletzt geposteten Maps aufgelistet.
+- Durch besuchen von der [Mod Requests](https://osu.ppy.sh/p/beatmaplist&r=8) Map liste. Dort werden die 20 zuletzt geposteten Maps aufgelistet.
 
 Solltest du mehr als zwei Maps in kurzer zeit posten wird Bancho diese Ignorieren.
 

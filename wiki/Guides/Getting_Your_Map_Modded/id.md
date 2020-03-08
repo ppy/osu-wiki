@@ -10,7 +10,7 @@ Agar mapmu bisa dimod agar bisa menjadi map dengan status [ranked](/wiki/Beatmap
 
 - Menulis perintah `!request` di chat akan membuat BanchoBot memPM anda dengan salah satu link map secara acak.
 - Menulis perintah `!request list` di chat akan membuat BanchoBot memPM anda dengan data lima link beatmap yang paling baru dengan link ke map itu secara lengkap di website.
-- Mengunjungi [daftar spesial map](https://osu.ppy.sh/beatmapsets) di web utama akan mendaftar 20 link beatmap yang paling baru dengan beberapa tambahan.
+- Mengunjungi [daftar spesial map](https://osu.ppy.sh/p/beatmaplist&r=8) di web utama akan mendaftar 20 link beatmap yang paling baru dengan beberapa tambahan.
 
 Bila kamu mengepost lebih daru dua link beatmap di jangka waktu yang singkat, Bancho akan mengabaikannya.
 

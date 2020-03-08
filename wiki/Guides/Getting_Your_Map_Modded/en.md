@@ -10,7 +10,7 @@ In order for your map to become [ranked](/wiki/Beatmaps#ranked), it must get [mo
 
 - Typing the `!request` command into chat will make BanchoBot PM you a random map link.
 - Typing the `!request list` command into chat will make BanchoBot PM you a list of the 5 most recent requests plus a link to more.
-- Visiting a [special map listing](https://osu.ppy.sh/beatmapsets) on the main site will list the 20 most recent requests plus a few extras.
+- Visiting a [special map listing](https://osu.ppy.sh/p/beatmaplist&r=8) on the main site will list the 20 most recent requests plus a few extras.
 
 If you post more than two map links in a short period of time, Bancho will ignore them.
 

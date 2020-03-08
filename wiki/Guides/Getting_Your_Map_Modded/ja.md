@@ -10,7 +10,7 @@
 
 - `!request` コマンドをチャットで打ち、BanchoBotからPMでランダムにビートマップのリンクを貰う。
 - `!request list` をコマンドをチャットで打ち、BanchoBotからPMで最新の5つのビートマップのリンクを貰う。
-- [special map listing](https://osu.ppy.sh/beatmapsets)を開き、20の最新のリクエストといくつかの特殊なリクエストを貰う。
+- [special map listing](https://osu.ppy.sh/p/beatmaplist&r=8)を開き、20の最新のリクエストといくつかの特殊なリクエストを貰う。
 
 短期間に2つ以上のビートマップをリクエストするとBanchoBotはそれを無視します。
 
