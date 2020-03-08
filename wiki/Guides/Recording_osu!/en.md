@@ -1,6 +1,6 @@
 # How to record videos of osu!
 
-[Want to use Virtualdub instead of Sony Vegas? Click here!](https://osu.ppy.sh/community/forums/topics/18112?start=252802#p252802)
+[Want to use Virtualdub instead of Sony Vegas? Click here!](https://osu.ppy.sh/community/forums/topics/18112)
 
 Always wanted to make a video for YouTube about osu!, but never figured a good way to make it happen? I'll explain in this thread how you can do that. **Please note that there are more ways to do this, this is just my way.** [See result of this tutorial here (Watch in HD and fullscreen!)](https://youtube.com/watch?v=JRGhQh69geI).
 
