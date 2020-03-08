@@ -15,7 +15,7 @@ Um Befehle von BanchoBot ausführen zu lassen, muss immer ein `!` am Anfang der 
 *Für eine Liste an Clientbefehlen (`/befehl`) siehe [Chatkonsole](/wiki/Chat_Console#liste-an-chatbefehlen).*
 
 | Befehl | Parameter | Beschreibung | Beispiel | Beispielsergebnis |
-| --- | --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- | :-- |
 | `HELP` | Keine | Zeigt alle verfügbaren Befehle. | `!help` | Diese Liste |
 | `ROLL` | `[nummer]` | Gibt eine zufällige Zahl bis maximal `nummer` zurück (standardmäßig 100). | `!roll 1000` | "Nathanael rolls 789 point(s)" |
 | `STATS` | `<nutzername>` | Zeigt Statistiken über den angegebenen Spieler an. Abhängig vom aktuellen Spielmodus. | `!stats peppy` | "Stats for [peppy](https://osu.ppy.sh/users/2): Score: 412,018,739 (#94718), Plays: 7073 (lv65), Accuracy: 87.31%" |

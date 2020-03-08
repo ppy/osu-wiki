@@ -15,11 +15,11 @@ Untuk menggunakan perintah BanchoBot, anda harus menggunakan awalan `!` setiap s
 *Untuk daftar perintah yang menggunakan slash (klien), kunjungi artikel [Konsol Obrolan](/wiki/Chat_Console#daftar-perintah).*
 
 | Perintah | Penjelas | Deskripsi | Contoh Masukan | Contoh Tanggapan |
-| --- | --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- | :-- |
 | `HELP` | Tidak ada | Menampilkan daftar perintah yang tersedia | `!help` | This list |
 | `ROLL` | `[number]` | Secara acak akan mendapatkan nilai hingga ada nomor yang terpilih (standar adalah 100). | `!roll 1000` | "Nathanael rolls 789 point(s)" |
 | `STATS` | `<user_name>` | Menampilkan statistik pengguna bergantung pada mode yang mereka mainkan | `!stats peppy` | "Stats for [peppy](https://osu.ppy.sh/users/2): Score: 412,018,739 (#94718), Plays: 7073 (lv65), Accuracy: 87.31%" |
 | `WHERE` | `<user_name>` | Menampilkan lokasi pengguna saat ini. | `!where Kyubey` | "Kyubey is in Russia" |
 | `FAQ` | `[lang:]<entry>/list` | Menampilkan pesan entri. Gunakan `list` sebagai entri untuk menampilkan semua entri yang tersedia. | `!faq ping` | "Pong!" |
 | `REPORT` | `<user_name> <reason>` | Mengirimkan laporan ke moderator chat. Ganti spasi dalam nama pengguna dengan garis bawah `_` | `!report S_o_h spamming in #japanese` | "Chat moderators have been alerted. Thanks for your help." |
-| `REQUEST` | Tidak ada | Menerima beatmap dari pemain yang meminta bantuan modding secara acak. | `!request` | "[HoneyWorks - Tokyo Summer Session feat. CHiCO](https://osu.ppy.sh/beatmapsets/426252/#osu) by MrSergio" |
+| `REQUEST` | Tidak ada | Menerima beatmap dari pemain yang meminta bantuan modding secara acak. | `!request` | "[HoneyWorks - Tokyo Summer Session feat. CHiCO](https://osu.ppy.sh/beatmapsets/426252#osu) by MrSergio" |

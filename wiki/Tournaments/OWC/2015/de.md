@@ -23,9 +23,9 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 
 | Placing                                                    | Prizes                                                                          |
 |------------------------------------------------------------|---------------------------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 50% vom erlangten Preispool, Profilabzeichen, Benutzertitel als "osu! Champion" |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 38% vom erlangten Preispool, Profilabzeichen                                    |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 12% vom erlangten Preispool, Profilabzeichen                                    |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 50% vom erlangten Preispool, Profilabzeichen, Benutzertitel als "osu! Champion" |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 38% vom erlangten Preispool, Profilabzeichen                                    |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 12% vom erlangten Preispool, Profilabzeichen                                    |
 
 ## Organisation
 

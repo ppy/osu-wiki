@@ -18,7 +18,7 @@ needs_cleanup: true
 
 ![Main Menu](img/Introscreen.jpg)
 
-The [osu!cookie](/wiki/Glossary/#cookie) \[1\] pulses according to the [BPM](/wiki/BPM) of any song currently playing on the main menu. In addition, bars will extend out of the osu!cookie in accordance to the song's volume. If no song is playing, it pulses at a slow 60 BPM. The elements of the main menu are as follows:
+The [osu!cookie](/wiki/Glossary#cookie) \[1\] pulses according to the [BPM](/wiki/BPM) of any song currently playing on the main menu. In addition, bars will extend out of the osu!cookie in accordance to the song's volume. If no song is playing, it pulses at a slow 60 BPM. The elements of the main menu are as follows:
 
 - \[2\] Click Play (`P`) or the logo to switch to the Solo mode song selection screen.
 - \[3\] Click Edit (`E`) to open the Editor mode song selection screen.
@@ -95,11 +95,11 @@ Before continuing on, this screen has too many elements to note with easily, not
 ![soloplay2.png](img/Soloplay2.jpg)
 ![soloplay2.5.png](img/Soloplay2.5.jpg)
 
-This area displays **information on the beatmap difficulty currently selected.** By default, the beatmap whose song is heard in the osu! jukebox is selected when entering the selection screen. In the top left is the ranked status of the beatmap. The title is next. Normally, the romanised title is shown, but if you select `Prefer metadata in original language` in the [Options](/wiki/Options/), it will show the Unicode title; this is shown in the upper picture. The beatmapper is also shown, and beatmap information is shown below. From left to right, the values are as follows:
+This area displays **information on the beatmap difficulty currently selected.** By default, the beatmap whose song is heard in the osu! jukebox is selected when entering the selection screen. In the top left is the ranked status of the beatmap. The title is next. Normally, the romanised title is shown, but if you select `Prefer metadata in original language` in the [Options](/wiki/Options), it will show the Unicode title; this is shown in the upper picture. The beatmapper is also shown, and beatmap information is shown below. From left to right, the values are as follows:
 
 - **Length**: The total length of the beatmap, from start to finish and including breaks. Not to be confused with [drain time](/wiki/Drain_Time).
 - **BPM**: The BPM of the beatmap. If (like in the lower picture) there are two BPMS and one in parentheses, this means that the BPM changes throughout the song. It shows the slowest and fastest BPMs, and the value in parentheses is the BPM at the start of the beatmap.
-- **Objects**: The total amount of [hit objects](/wiki/Hit_Objects/) in the beatmap.
+- **Objects**: The total amount of [hit objects](/wiki/Hit_Objects) in the beatmap.
 - **Circles**: The total amount of hit circles in the beatmap.
 - **Sliders**: The total amount of sliders in the beatmap.
 - **Spinners**: The total amount of spinners in the beatmap.
@@ -245,9 +245,9 @@ The background transparent icon and the "Mode" box will change to depict what mo
 
 ![Game modifiers](img/Soloplay8.png)
 
-Click the `Mods` button or press `F1` to open the **[Mod Selection Screen](/wiki/Game_Modifiers/)**.
+Click the `Mods` button or press `F1` to open the **[Mod Selection Screen](/wiki/Game_Modifiers)**.
 
-In this screen, you can apply modifications ("mods" for short) to gameplay. Some mods lower difficulty and apply a multiplier that lowers the score you achieve. Conversely, some mods increase the difficulty, but apply a multiplier that increases the score you achieve. Finally, some mods modify gameplay in a different way. [Relax](/wiki/Game_Modifiers/#Relax) and [Auto Pilot](/wiki/Game_Modifiers/#Auto_Pilot) fall in that category.
+In this screen, you can apply modifications ("mods" for short) to gameplay. Some mods lower difficulty and apply a multiplier that lowers the score you achieve. Conversely, some mods increase the difficulty, but apply a multiplier that increases the score you achieve. Finally, some mods modify gameplay in a different way. [Relax](/wiki/Game_Modifiers#Relax) and [Auto Pilot](/wiki/Game_Modifiers#Auto_Pilot) fall in that category.
 Place your mouse on a mod's icon to see a short description of its effect. Click on an icon to select or deselect that mod. Some mods, like Double Time, have multiple variations; click on the mod again to cycle through. The score multiplier value displays the combined effect the multipliers of the mod(s) of you have selected will have on your score. Click "Reset all mods" or press 1 to deselect all currently selected mods. Click `Close` or press `2` or `Esc` to return to the Song Selection Screen.
 
 While you are on the Mod Selection Screen, you cannot access the Chat and Extended Chat Consoles. In addition, skins can alter the text and/or icon of the mods, but the effects will still be the same.

@@ -30,9 +30,9 @@ The osu!standard Loser's Finals and Grand Finals matches were livestreamed to th
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge, HyperX Cloud Alpha Headset |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | HyperX Alloy Core RGB Keyboard |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | HyperX Pulsefire FPS Mouse |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, HyperX Cloud Alpha Headset |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | HyperX Alloy Core RGB Keyboard |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | HyperX Pulsefire FPS Mouse |
 
 A special prize was rewarded to the player who held the highest aggregate score on songs from *THE iDOLM@STER: Cinderella Girls*. They received a poster card for *Anastasia*, one of the idols featured in the game.
 
@@ -40,9 +40,9 @@ A special prize was rewarded to the player who held the highest aggregate score 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge, $15 iTunes gift card, Logitech G Pro Mouse |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Logitech G Pro Mouse |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Logitech G Pro Mouse |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, $15 iTunes gift card, Logitech G Pro Mouse |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Logitech G Pro Mouse |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Logitech G Pro Mouse |
 
 ## Organisation
 
@@ -99,9 +99,9 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231) |
 
 ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) also won the special *iDOLM@STER* prize.
 
@@ -109,9 +109,9 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) |
 
 ## Mappools
 

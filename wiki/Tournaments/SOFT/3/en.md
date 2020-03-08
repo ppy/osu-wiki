@@ -33,9 +33,9 @@ tags:
 
 | Placing | Prize(s) |
 | :---: | :--- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge and 9 months of osu!supporter |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 6 months of osu!supporter |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 4 months of osu!supporter |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Profile badge and 9 months of osu!supporter |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter |
 
 ![SOFT3 Badge](img/badge.png "SOFT3 Winner Badge")
 
@@ -98,9 +98,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | User |
 |:---:|---|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | ![][flag_BR] [**Lothus**](https://osu.ppy.sh/users/9530019) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_JP] [**inteliser**](https://osu.ppy.sh/users/1824775) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] [**TheToaphster**](https://osu.ppy.sh/users/7616811)    |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | ![][flag_BR] [**Lothus**](https://osu.ppy.sh/users/9530019) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_JP] [**inteliser**](https://osu.ppy.sh/users/1824775) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [**TheToaphster**](https://osu.ppy.sh/users/7616811)    |
 
 ---------------------------
 

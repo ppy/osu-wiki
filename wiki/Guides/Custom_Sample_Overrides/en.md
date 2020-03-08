@@ -60,5 +60,5 @@ The following three samples are additive, meaning when you hit a whistle you wil
 
 See also:
 
-- [Custom Hitsound Library](../Custom_Hitsound_Library)
-- [Skinning/Sounds](/wiki/Skinning/Sounds/)
+- [Custom Hitsound Library](/wiki/Guides/Custom_Hitsound_Library)
+- [Skinning/Sounds](/wiki/Skinning/Sounds)

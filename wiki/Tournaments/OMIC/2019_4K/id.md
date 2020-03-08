@@ -31,9 +31,9 @@ tags:
 
 | Posisi | Hadiah |
 | :-: | :-- |
-| ![Mahkota Emas](/wiki/shared/GCrown.png "Posisi pertama") | IDR350,000, 4 bulan osu!supporter tag, Kode voucher Google Play senilai IDR50,000, Lencana profil |
-| ![Mahkota Perak](/wiki/shared/SCrown.png "Posisi kedua") | IDR200,000, 2 bulan osu!supporter tag |
-| ![Mahkota Perunggu](/wiki/shared/BCrown.png "Posisi ketiga") | IDR150,000, 1 bulan osu!supporter tag |
+| ![Mahkota Emas](/wiki/shared/crown-gold.png "Posisi pertama") | IDR350,000, 4 bulan osu!supporter tag, Kode voucher Google Play senilai IDR50,000, Lencana profil |
+| ![Mahkota Perak](/wiki/shared/crown-silver.png "Posisi kedua") | IDR200,000, 2 bulan osu!supporter tag |
+| ![Mahkota Perunggu](/wiki/shared/crown-bronze.png "Posisi ketiga") | IDR150,000, 1 bulan osu!supporter tag |
 
 ## Staf Turnamen
 

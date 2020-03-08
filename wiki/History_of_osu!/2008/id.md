@@ -46,7 +46,7 @@ Melanjutkan tren yang ditetapkan pada bulan Juli, akan sulit sekali menemukan as
 
 Skor pribadi online terbaik (Personal online best scores) ditambahkan ke menu pemilihan lagu, permintaan jangka panjang yang akhirnya terpenuhi. Proses ini membutuhkan beberapa pengoptimalan database yang cukup besar. Perbaikan grafis dilakukan untuk layar peringkat, dan berbagai elemen skin bawaan, dengan tujuan untuk membuat skin lebih bersih, jernih, dan rapih dari sebelumnya. Tampilan slider tick sprite (10/30) diimplementasikan. Perombakan terlihat dalam pengaturan pertandingan multiplayer, yang memungkinkan kontrol host (pembuat ruang) dapat ditransfer kepadap pemain lain. Banyak perintah obrolan baru ditambahkan demi kenyamanan pengguna.
 
-Status peringkat baru "![](img/fire.gif) [approved](/wiki/approved)" ditambahkan untuk map yang memiliki kualitas tinggi tetapi melebihi panjang maksimum lagu atau tingkat kesulitan (atau lainnya) dalam beberapa cara. Map yang memiliki status ini tidak menambah skor pemain, tetapi tetap memiliki papan peringkat (scoreboard) dan bertindak sama seperti map yang berstatus ![](img/heart.gif) [ranked](/ranked).
+Status peringkat baru "![](img/fire.gif) [approved](/wiki/approved)" ditambahkan untuk map yang memiliki kualitas tinggi tetapi melebihi panjang maksimum lagu atau tingkat kesulitan (atau lainnya) dalam beberapa cara. Map yang memiliki status ini tidak menambah skor pemain, tetapi tetap memiliki papan peringkat (scoreboard) dan bertindak sama seperti map yang berstatus ![](img/heart.gif) [ranked](/wiki/ranked).
 
 ## September
 

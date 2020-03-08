@@ -27,7 +27,7 @@ The **Indonesian Taiko Showdown** (***IDTS***) was an Indonesian double eliminat
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
 ## Organisation
 
@@ -77,9 +77,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_ID] [XK2238](https://osu.ppy.sh/users/1139209) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_ID] [pmriva](https://osu.ppy.sh/users/2180885) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_ID] [Nishizumi](https://osu.ppy.sh/users/2496768) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ID] [XK2238](https://osu.ppy.sh/users/1139209) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ID] [pmriva](https://osu.ppy.sh/users/2180885) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ID] [Nishizumi](https://osu.ppy.sh/users/2496768) |
 
 ---
 

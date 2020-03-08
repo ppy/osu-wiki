@@ -27,7 +27,6 @@ Vous trouverez ci-dessous une liste triée des guides créés par les membres de
 *Page principale : [Modding](/wiki/Modding)*
 
 - [Le moddage de votre map](Getting_Your_Map_Modded)
-- [Comment faire classer votre map](How_To_Get_Your_Map_Ranked)
 
 ## Playing
 

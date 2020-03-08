@@ -28,7 +28,7 @@ Mouse play tends to struggle with:
 
 ### Tablet Play
 
-If you are going to use a tablet, you should try and pick an area on the tablet that you can comfortably play with. If you are going to buy a tablet to play osu! with, you should check out the [Tablet purchase](/wiki/Guides/Tablet_purchase/ "Tablet purchase by Daru") guide. Additionally, buy some spare nibs, as you never know when you will need another one since they tend to wear out quickly, especially in highly active play. While you can use the tablet itself to tap the circles, most players prefer using a keyboard which we'll cover a bit later on. Tablet play tends to excel at:
+If you are going to use a tablet, you should try and pick an area on the tablet that you can comfortably play with. If you are going to buy a tablet to play osu! with, you should check out the [Tablet purchase](/wiki/Guides/Tablet_purchase "Tablet purchase by Daru") guide. Additionally, buy some spare nibs, as you never know when you will need another one since they tend to wear out quickly, especially in highly active play. While you can use the tablet itself to tap the circles, most players prefer using a keyboard which we'll cover a bit later on. Tablet play tends to excel at:
 
 -   No cursor drift.
 -   Precise movement and speed.
@@ -86,9 +86,9 @@ Don't be afraid to practise something that always makes you miss for one reason 
 
 *Main page: [How to use the Offset Wizard](/wiki/Guides/How_to_use_the_Offset_Wizard)*
 
-Depending on the devices you use to play osu! with, you may find that the hit circles aren't quite on beat with the music. To correct this, you can change the global offset value in the [Settings](/wiki/Options/) menu. Global offset will change when the first note appears on beatmaps (either earlier or later than default), which in turn delays the rest of the notes by the same amount. A negative offset value will make notes appear slightly later, and a positive value will make them appear earlier.
+Depending on the devices you use to play osu! with, you may find that the hit circles aren't quite on beat with the music. To correct this, you can change the global offset value in the [Settings](/wiki/Options) menu. Global offset will change when the first note appears on beatmaps (either earlier or later than default), which in turn delays the rest of the notes by the same amount. A negative offset value will make notes appear slightly later, and a positive value will make them appear earlier.
 
-In the [Offset Wizard](/wiki/Options/Universal_Offset), which you can access from the [Settings](/wiki/Options/) menu, a sample song will play with a metronome beat on top. Adjust the offset gradually using the up/down arrow keys or your mouse wheel until the beats of the metronome match when the bars cross the centre line.
+In the [Offset Wizard](/wiki/Options/Universal_Offset), which you can access from the [Settings](/wiki/Options) menu, a sample song will play with a metronome beat on top. Adjust the offset gradually using the up/down arrow keys or your mouse wheel until the beats of the metronome match when the bars cross the centre line.
 
 When you are playing a beatmap you will notice the Hit Error graph at the bottom of the screen. Hitting a note causes a white line to appear somewhere along it depending on how accurate you were. If all of your hits are to the left of the centre, try increasing your global offset slightly. If they are all on the right side, try decreasing it.
 
@@ -96,7 +96,7 @@ Adjust your global offset until you are happy with it. Getting the right value w
 
 ### Raw Input
 
-*See also: [Options](/wiki/Options/#mouse)*
+*See also: [Options](/wiki/Options#mouse)*
 
 A commonly overlooked feature of the game is the Raw Input function. This allows for direct reading of your input device into osu! itself. You may use this too if you don't like how Windows handles your mouse cursor, or especially recommended if you use a tablet. Give it a try and play a few maps with it, you might find yourself a lot more comfortable with it!
 

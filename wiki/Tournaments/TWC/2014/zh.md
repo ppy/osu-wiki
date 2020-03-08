@@ -27,9 +27,9 @@ outdated: true
 
 | Placing                                                    | Country                         |
 |------------------------------------------------------------|---------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 个月 supporter 标签，个人页面徽章，TWC 奖杯 |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 个月 supporter 标签               |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 个月 supporter 标签               |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 6 个月 supporter 标签，个人页面徽章，TWC 奖杯 |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 个月 supporter 标签               |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 个月 supporter 标签               |
 
 ## 主办方
 

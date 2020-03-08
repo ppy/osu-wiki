@@ -14,9 +14,9 @@ Esta competición ha terminado y el podio resultante es:
 
 | Placing                                                    | Country                                     |
 |------------------------------------------------------------|---------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | ![][flag_JP] **Japón**    |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_PL] **Polonia**  |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_DE] **Alemania** |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | ![][flag_JP] **Japón**    |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PL] **Polonia**  |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_DE] **Alemania** |
 
 ## Calendario
 
@@ -35,9 +35,9 @@ Esta competición ha terminado y el podio resultante es:
 
 | Placing                                                    | Prizes                                                                                               |
 |------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 meses de supporter tag, medalla de perfil, título de usuario "osu! Champion", y osu! merchandising |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 meses de supporter tag                                                                             |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 mes de supporter tag                                                                               |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 6 meses de supporter tag, medalla de perfil, título de usuario "osu! Champion", y osu! merchandising |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 meses de supporter tag                                                                             |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 mes de supporter tag                                                                               |
 
 ## Organización
 

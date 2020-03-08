@@ -4,6 +4,8 @@ Le Beat Snap Divisor est utilisé pour limiter l'endroit où les notes peuvent �
 
 Chacun des réglages met différentes couleurs de ticks sur les [timelines](/wiki/Beatmap_Editor/Timelines). Les ticks sont les suivantes (pour [Standard](/wiki/Game_Modes/osu!), [osu!taiko](/wiki/Game_Modes/osu!taiko), et [osu!catch](/wiki/Game_Modes/osu!catch)) :
 
+## osu!, osu!taiko, osu!catch
+
 ### Diviseur 1/1
 
 ![Diviseur 1/1](/wiki/shared/BSD_1_1b.jpg "Diviseur 1/1")

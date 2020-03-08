@@ -30,9 +30,9 @@ El país campeón del torneo anterior es **![][flag_JP] Japón**.
 
 | Placing                                                    | Prizes                                                                                                                                                      |
 |------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | Un support de 6 meses para cada integrante del grupo campeón, Banner y titulo en perfil con la descripcion **Taiko Champion**, Articulos exclusivos de osu! |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Un support de 3 meses para cada integrante del grupo campeón, Banner con descripcion "2do Lugar"                                                            |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Un support de 1 mes para cada integrante del grupo campeón, Banner con descripcion "3er Lugar"                                                              |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | Un support de 6 meses para cada integrante del grupo campeón, Banner y titulo en perfil con la descripcion **Taiko Champion**, Articulos exclusivos de osu! |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Un support de 3 meses para cada integrante del grupo campeón, Banner con descripcion "2do Lugar"                                                            |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Un support de 1 mes para cada integrante del grupo campeón, Banner con descripcion "3er Lugar"                                                              |
 
 ## Organización
 
