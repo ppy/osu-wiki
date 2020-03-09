@@ -171,6 +171,26 @@ The 4 Digit osu!mania World Cup 2 is run by various community members.
 
 ## Match results
 
+### Quarterfinals
+
+Saturday, 7 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United Kingdom** ![][flag_GB] | **5** | 3 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/58991843) |
+| Chile ![][flag_CL] | -1 | **0** | ![][flag_SG] **Singapore** | *win by default* |
+| **Philippines** ![][flag_PH] | **5** | 2 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/58993495) |
+
+Sunday, 8 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Brazil** ![][flag_BR] | **5** | 1 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/59012301) |
+| **Canada** ![][flag_CA] | **5** | 0 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/59012904) |
+| **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/59027342) |
+| Russian Federation ![][flag_CN] | 1 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/59027346) |
+| France ![][flag_FR] | 2 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/mp/59035639) |
+
 ### Round of 16
 
 Saturday, 29 February 2020:
