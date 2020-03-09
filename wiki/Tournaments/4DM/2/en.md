@@ -35,7 +35,7 @@ The **4 Digit osu!mania World Cup 2** (***4DM2***) is a worldwide country-based 
 
 ![](img/badge.png "4DM2 winner badge")
 
-Generous donators coming from ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773) and ![][flag_NL] [NightNarumi](https://osu.ppy.sh/users/4381142) whom which made up some of the prizes.
+Generous donations from ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773) and ![][flag_NL] [NightNarumi](https://osu.ppy.sh/users/4381142) helped fund some of the prizes.
 
 ## Organisation
 
@@ -130,9 +130,9 @@ Sunday, 15 March 2020:
 | #22b² | Russian Federation | ![][flag_RU] | ![][flag_CA] | Canada | **13:00** |
 | #22c² | South Korea | ![][flag_KR] | ![][flag_AR] | Argentina | **13:00** |
 | #22d² | South Korea | ![][flag_KR] | ![][flag_CA] | Canada | **13:00** |
-| #23 | United Kingdom | ![][flag_GB] | ![][flag_US] United States | **18:00** |
+| #23 | United Kingdom | ![][flag_GB] | ![][flag_US] | United States | **18:00** |
 
-¹ Encounter dependent on winner of Match #17 and Match #18
+¹ Encounter dependent on winner of Match #17 and Match #18  
 ² Encounter dependent on winner of Match #19 and Match #20
 
 ## Mappools
