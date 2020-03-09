@@ -238,7 +238,7 @@ Sunday, 8 March 2020:
 | **Brazil** ![][flag_BR] | **5** | 1 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/59012301) |
 | **Canada** ![][flag_CA] | **5** | 0 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/59012904) |
 | **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/59027342) |
-| Russian Federation ![][flag_CN] | 1 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/59027346) |
+| Russian Federation ![][flag_RU] | 1 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/59027346) |
 | France ![][flag_FR] | 2 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/mp/59035639) |
 
 ### Round of 16
