@@ -178,6 +178,34 @@ The osu! TV Size Tournament 2020 is run by various community members.
 
 ## Match results
 
+### Round of 32
+
+Saturday, 7 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **IshuzokuRebyuāzu** | **4** | 1 | o!CLWS大学赛冬季2020 | [#1](https://osu.ppy.sh/community/matches/58985571) |
+| **Kangaroo** | **4** | 0 | KasuLewd | [#1](https://osu.ppy.sh/community/matches/58986437) |
+| **Floating Up** | **4** | 0 | mahloola | [#1](https://osu.ppy.sh/community/matches/58995370) |
+| **Old & Irrelevant** | **4** | 0 | Laburar | [#1](https://osu.ppy.sh/community/matches/58997185) |
+| **WE LOVE LWMF!** | **4** | 0 | GrandMaineAngers | [#1](https://osu.ppy.sh/community/matches/59000636) |
+| BRATVA I KOLCO | 2 | **4** | **STOOF CLONES** | [#1](https://osu.ppy.sh/community/matches/59000667) |
+| **Rubber Conquest** | **4** | 0 | San Lorenzo | [#1](https://osu.ppy.sh/community/matches/59002926) |
+| **Morello crew** | **4** | 1 | Pwzekaczkaòwó | [#1](https://osu.ppy.sh/community/matches/59004847) |
+| **Mirash Fanclub** | **4** | 1 | Pocket Galaxy | [#1](https://osu.ppy.sh/community/matches/59006226) |
+
+Sunday, 8 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| osim | 1 | **4** | **china** | [#1](https://osu.ppy.sh/community/matches/59017026) |
+| **= Y A H E** | **4** | 1 | Smile and wave | [#1](https://osu.ppy.sh/community/matches/59018380) |
+| **osu stonehenge** | **4** | 0 | Sutiire | [#1](https://osu.ppy.sh/community/matches/59028887) |
+| **seusbruk** | **4** | 1 | nakapagpabagabag | [#1](https://osu.ppy.sh/community/matches/59028723) |
+| **will is 2** | **4** | 0 | Fruteria Manoli | [#1](https://osu.ppy.sh/community/matches/59033483) |
+| **Couchers** | **5** | 4 | Knuckles Batty | [#1](https://osu.ppy.sh/community/matches/59035448) |
+| **riuzaky homo** | **4** | 1 | Washingamers | [#1](https://osu.ppy.sh/community/matches/59037262) |
+
 ### Qualifiers
 
 | Seed | Team | Rate |
