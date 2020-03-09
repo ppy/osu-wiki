@@ -445,7 +445,7 @@ Saturday, 12 October 2019
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| bloo ![][flag_GB] | - | **1** | ![][flag_GB] **Kingling** | FF |
+| bloo ![][flag_GB] | - | **1** | ![][flag_GB] **Kingling** | *forfeit* |
 
 Sunday, 13 October 2019
 
@@ -485,10 +485,10 @@ Friday, 5 October 2019
 
 | Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Kingling** ![][flag_GB] | **1** | - | ![][flag_GB] meltz | FF |
+| **Kingling** ![][flag_GB] | **1** | - | ![][flag_GB] meltz | *forfeit* |
 | **Spare** ![][flag_GB] | **5** | 0 | ![][flag_GB] bloo | [#1](https://osu.ppy.sh/community/matches/55335898) |
-| MoeYandere ![][flag_GB] | - | **1** | ![][flag_GB] hlo | FF |
-| **Kingling** ![][flag_GB] | **1** | - | ![][flag_GB] Apo11o | FF |
+| MoeYandere ![][flag_GB] | - | **1** | ![][flag_GB] hlo | *forfeit* |
+| **Kingling** ![][flag_GB] | **1** | - | ![][flag_GB] Apo11o | *forfeit* |
 | majoreh ![][flag_GB] | 2 | **5** | ![][flag_GB] Zyphox | [#1](https://osu.ppy.sh/community/matches/55347021) |
 | **AJT** ![][flag_GB] | **5** | 3 | ![][flag_GB] Best459 | [#1](https://osu.ppy.sh/community/matches/55350496) |
 
@@ -537,7 +537,7 @@ Saturday, 28 September 2019
 | **Kerantina** ![][flag_GB] | **5** | 3 | ![][flag_GB] Tilley | [#1](https://osu.ppy.sh/community/matches/55171273) |
 | Kirix ![][flag_GB] | 0 | **5** | ![][flag_GB] **Rinnu** | [#1](https://osu.ppy.sh/community/matches/55173434) |
 | **Defex** ![][flag_GB] | **5** | 0 | ![][flag_GB] xFluffyo | [#1](https://osu.ppy.sh/community/matches/55173947) |
-| **hlo** ![][flag_GB] | **1** | - | ![][flag_GB] DeltaZero | FF |
+| **hlo** ![][flag_GB] | **1** | - | ![][flag_GB] DeltaZero | *forfeit* |
 | **Best459** ![][flag_GB] | **5** | 0 | ![][flag_GB] Apo11o | [#1](https://osu.ppy.sh/community/matches/55179412) |
 
 Sunday, 29 September 2019
@@ -549,7 +549,7 @@ Sunday, 29 September 2019
 | **Woffel** ![][flag_GB] | **5** | 1 | ![][flag_GB] -spoon- | [#1](https://osu.ppy.sh/community/matches/55210336) |
 | **AJT** ![][flag_GB] | **5** | 4 | ![][flag_GB] Kingling | [#1](https://osu.ppy.sh/community/matches/55211334) |
 | **Cla** ![][flag_GB] | **5** | 1 | ![][flag_GB] Summer Solstice | [#1](https://osu.ppy.sh/community/matches/55212272) |
-| Bubbleman ![][flag_GB] | - | **1** | ![][flag_GB] **Ventus** | FF |
+| Bubbleman ![][flag_GB] | - | **1** | ![][flag_GB] **Ventus** | *forfeit* |
 | Voss ![][flag_GB] | 2 | **5** | ![][flag_GB] **Wario** | [#1](https://osu.ppy.sh/community/matches/55214023) |
 
 Wednesday, 2 October 2019
@@ -593,7 +593,7 @@ Sunday, 22 September 2019
 | **Voss** ![][flag_GB] | **5** | 1 | ![][flag_GB] Woffel | [#1](https://osu.ppy.sh/community/matches/55040015) |
 | **Harpy** ![][flag_GB] | **5** | 0 | ![][flag_GB] Defex | [#1](https://osu.ppy.sh/community/matches/55042213) |
 | **helix** ![][flag_GB] | **5** | 1 | ![][flag_GB] Rinnu | [#1](https://osu.ppy.sh/community/matches/55043513) |
-| **Apo11o** ![][flag_GB] | 1 | - | ![][flag_GB] DeltaZero | FF |
+| **Apo11o** ![][flag_GB] | 1 | - | ![][flag_GB] DeltaZero | *forfeit* |
 
 Monday, 23 September 2019
 
