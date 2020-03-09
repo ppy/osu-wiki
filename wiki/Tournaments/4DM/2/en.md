@@ -97,7 +97,7 @@ The 4 Digit osu!mania World Cup 2 is run by various community members.
 
 | Group | Top seed | High seed | Low seed |
 | :-: | :-- | :-- | :-- |
-| **A** | ![][flag_FI] Finland | ![][flag_BR] Brazil | ![][flag_KR] South Korea |
+| **A** | ![][flag_BR] Brazil | ![][flag_FI] Finland | ![][flag_KR] South Korea |
 | **B** | ![][flag_TH] Thailand | ![][flag_AU] Australia | ![][flag_CH] Switzerland |
 | **C** | ![][flag_FR] France | ![][flag_ID] Indonesia | ![][flag_CL] Chile |
 | **D** | ![][flag_US] United States | ![][flag_CN] China | ![][flag_IT] Italy |
@@ -132,7 +132,7 @@ Sunday, 15 March 2020:
 | #22d² | South Korea | ![][flag_KR] | ![][flag_CA] | Canada | **13:00** |
 | #23 | United Kingdom | ![][flag_GB] | ![][flag_US] | United States | **18:00** |
 
-¹ Encounter dependent on winner of Match #17 and Match #18  
+¹ Encounter dependent on winner of Match #17 and Match #18
 ² Encounter dependent on winner of Match #19 and Match #20
 
 ## Mappools
