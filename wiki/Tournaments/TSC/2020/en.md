@@ -95,7 +95,7 @@ The Taiko Suiji Cup 2020 is run by various community members.
 
 ### Quarterfinals
 
-**[Download the mappack here! ()]()**
+**[Download the mappack here! (72 MB)](https://mega.nz/#!rQ1HmYIL!pIYy7A9OPPcGAUvi4tjUMaKQmv66-fLHYIYlCPmBU2M)**
 
 #### Mappool A
 
