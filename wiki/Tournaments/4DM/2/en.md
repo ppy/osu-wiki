@@ -106,6 +106,35 @@ The 4 Digit osu!mania World Cup 2 is run by various community members.
 | **G** | ![][flag_RU] Russian Federation | ![][flag_CA] Canada | ![][flag_ES] Spain |
 | **H** | ![][flag_SG] Singapore | ![][flag_NZ] New Zealand | ![][flag_BE] Belgium |
 
+## Match schedule: Semifinals
+
+Saturday, 14 March 2020:
+
+| Match ID | Team 1 |  |  | Team 2 | Match time (UTC) |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| #24 | Philippines | ![][flag_PH] | ![][flag_CN] | China | **10:00** |
+| #20 | Russian Federation | ![][flag_RU] | ![][flag_KR] | South Korea | **11:00** |
+| #17 | Thailand | ![][flag_TH] | ![][flag_SG] | Singapore | **12:00** |
+| #18 | France | ![][flag_FR] | ![][flag_BR] | Brazil | **17:00** |
+| #19 | Argentina | ![][flag_AR] | ![][flag_CA] | Canada | **20:00** |
+
+Sunday, 15 March 2020:
+
+| Match ID | Team 1 |  |  | Team 2 | Match time (UTC) |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| #21a¹ | France | ![][flag_FR] | ![][flag_TH] | Thailand | **12:00** |
+| #21b¹ | France | ![][flag_FR] | ![][flag_SG] | Singapore | **12:00** |
+| #21c¹ | Brazil | ![][flag_BR] | ![][flag_TH] | Thailand | **12:00** |
+| #21d¹ | Brazil | ![][flag_BR] | ![][flag_SG] | Singapore | **12:00** |
+| #22a² | Russian Federation | ![][flag_RU] | ![][flag_AR] | Argentina | **13:00** |
+| #22b² | Russian Federation | ![][flag_RU] | ![][flag_CA] | Canada | **13:00** |
+| #22c² | South Korea | ![][flag_KR] | ![][flag_AR] | Argentina | **13:00** |
+| #22d² | South Korea | ![][flag_KR] | ![][flag_CA] | Canada | **13:00** |
+| #23 | United Kingdom | ![][flag_GB] | ![][flag_US] United States | **18:00** |
+
+¹ Encounter dependent on winner of Match #17 and Match #18
+² Encounter dependent on winner of Match #19 and Match #20
+
 ## Mappools
 
 ### Semifinals
