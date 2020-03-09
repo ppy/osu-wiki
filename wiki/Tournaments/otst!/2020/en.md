@@ -106,6 +106,32 @@ The osu! TV Size Tournament 2020 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (96 MB)](https://drive.google.com/file/d/16zDfpKcdpQYaBQonxeQOpfWB_Ih3ck1d/view)**
+
+- NoMod
+  - [BUTAOTOME - Gensou no Satellite (Ascendance) \[Extra\]](https://osu.ppy.sh/beatmapsets/982405#osu/2056031)
+  - [Fractal Dreamers - Gardens Under A Spring Sky (\_Epreus) \[ser's Extreme\]](https://osu.ppy.sh/beatmapsets/962862#osu/2017276)
+  - [Hirano Aya, Katou Emiri, Fukuhara Kaori, Endou Aya - Motteke! Sailor Fuku (TV Size) (Yugu) \[Pata-Mon's Lucky!\]](https://osu.ppy.sh/beatmapsets/924885#osu/1932689)
+  - [YUC'e - Chemical Cookie (Yusomi) \[kodoku's Extra\]](https://osu.ppy.sh/beatmapsets/905119#osu/1891490)
+- Hidden
+  - [Minami - Kawaki wo Ameku (TV Size) (Karen) \[Expert\]](https://osu.ppy.sh/beatmapsets/924551#osu/1931141)
+  - [DM Ashura - aftershock!! (nazenaze) \[Insane\]](https://osu.ppy.sh/beatmapsets/13442#osu/49736)
+- HardRock
+  - [UVERworld - Touch off (TV Size) (Monstrata) \[Musty's High Quality Insane\]](https://osu.ppy.sh/beatmapsets/908896#osu/1901162)
+  - [Riko (CV: Tomita Miyu), Reg (CV: Mariya Ise) - Deep in Abyss (Kaifin) \[kwk's Insane\]](https://osu.ppy.sh/beatmapsets/683322#osu/1459462)
+- DoubleTime
+  - [The Lonely Island feat. Akon - I Just Had Sex (Leader) \[Insane\]](https://osu.ppy.sh/beatmapsets/334365#osu/739845)
+  - [HyuN - Tokyo's Starlight (Heilia) \[Insane\]](https://osu.ppy.sh/beatmapsets/1011055#osu/2116610)
+- FreeMod
+  - [Kaneko Chiharu - Zettai Reido (Karen) \[toybot's Expert\]](https://osu.ppy.sh/beatmapsets/641201#osu/1620698)
+  - [Mr. - Hats, Gloves and Overalls (Hikato) \[Doomsday's Insane\]](https://osu.ppy.sh/beatmapsets/7305#osu/31838)
+- Tiebreaker
+  - **[May'n - graphite/diamond (TV Size) (Nitrous) \[Loli's Formidable Extreme\]](https://osu.ppy.sh/beatmapsets/1037591#osu/2176424)**
+  - **[IOSYS - Captain Murasa's Ass Anchor (Mafiamaster) \[Ketsu Ankaa\]](https://osu.ppy.sh/beatmapsets/13422#osu/49866)**
+  - **[IAHN - Feel It (Cellina) \[Expert\]](https://osu.ppy.sh/beatmapsets/1017701#osu/2129967)**
+
 ### Round of 32
 
 **[Download the mappack here! (62 MB)](https://drive.google.com/file/d/1Qkccr-FZRjsEdh8S_4-0-TODlbtjWZrW/view)**
@@ -151,6 +177,34 @@ The osu! TV Size Tournament 2020 is run by various community members.
   - [Primastella - Koigokoro (Luerxa) \[Delis' Insane\]](https://osu.ppy.sh/beatmapsets/127712#osu/323875)
 
 ## Match results
+
+### Round of 32
+
+Saturday, 7 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **IshuzokuRebyuāzu** | **4** | 1 | o!CLWS大学赛冬季2020 | [#1](https://osu.ppy.sh/community/matches/58985571) |
+| **Kangaroo** | **4** | 0 | KasuLewd | [#1](https://osu.ppy.sh/community/matches/58986437) |
+| **Floating Up** | **4** | 0 | mahloola | [#1](https://osu.ppy.sh/community/matches/58995370) |
+| **Old & Irrelevant** | **4** | 0 | Laburar | [#1](https://osu.ppy.sh/community/matches/58997185) |
+| **WE LOVE LWMF!** | **4** | 0 | GrandMaineAngers | [#1](https://osu.ppy.sh/community/matches/59000636) |
+| BRATVA I KOLCO | 2 | **4** | **STOOF CLONES** | [#1](https://osu.ppy.sh/community/matches/59000667) |
+| **Rubber Conquest** | **4** | 0 | San Lorenzo | [#1](https://osu.ppy.sh/community/matches/59002926) |
+| **Morello crew** | **4** | 1 | Pwzekaczkaòwó | [#1](https://osu.ppy.sh/community/matches/59004847) |
+| **Mirash Fanclub** | **4** | 1 | Pocket Galaxy | [#1](https://osu.ppy.sh/community/matches/59006226) |
+
+Sunday, 8 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| osim | 1 | **4** | **china** | [#1](https://osu.ppy.sh/community/matches/59017026) |
+| **= Y A H E** | **4** | 1 | Smile and wave | [#1](https://osu.ppy.sh/community/matches/59018380) |
+| **osu stonehenge** | **4** | 0 | Sutiire | [#1](https://osu.ppy.sh/community/matches/59028887) |
+| **seusbruk** | **4** | 1 | nakapagpabagabag | [#1](https://osu.ppy.sh/community/matches/59028723) |
+| **will is 2** | **4** | 0 | Fruteria Manoli | [#1](https://osu.ppy.sh/community/matches/59033483) |
+| **Couchers** | **5** | 4 | Knuckles Batty | [#1](https://osu.ppy.sh/community/matches/59035448) |
+| **riuzaky homo** | **4** | 1 | Washingamers | [#1](https://osu.ppy.sh/community/matches/59037262) |
 
 ### Qualifiers
 
