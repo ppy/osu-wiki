@@ -108,6 +108,27 @@ The 4 Digit osu!mania World Cup 2 is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+**[Download the map pack here! (79 MB)](https://www.dropbox.com/s/bxytgvryoqsuud6/SF.zip?dl=0)**
+
+- NoMod
+  - [goreshit - looming shadow of a tree long gone (-Rem-) \[blight\]](https://osu.ppy.sh/beatmapsets/1100396#mania/2298957)
+  - [AAAA + Umeboshi Chazuke - Sayonara Cosmonaut (Toaph Daddy) \[Farewell\]](https://osu.ppy.sh/beatmapsets/1033243#mania/2160320)
+  - [N.M.S.T - Snowflakes (-Rem-) \[memory (183.75bpm)\]](https://osu.ppy.sh/beatmapsets/998597#mania/2088657)
+  - [Cornandbeans - Rose (frolica) \[x1.2 / 218.88bpm\]](https://osu.ppy.sh/beatmapsets/584237#mania/1236102)
+  - [Frums - 24eeev0-$ (\[Crz\]Crysarlene) \[Bliss\]](https://osu.ppy.sh/beatmapsets/1120940#mania/2342177)
+  - [SHK - Log-in (AutotelicBrown) \[Ayumu's gimmick\]](https://osu.ppy.sh/beatmapsets/456581#mania/978439)
+  - [Camellia - KillerBeast (RuleBlazing) \[Beast Warriors\]](https://osu.ppy.sh/beatmapsets/1048494#mania/2191557)
+  - [Tenkitsune & Trifect - Fallen World (feat. Jasper In The Company Of Others) (Kamuy) \[surge (edit)\]](https://osu.ppy.sh/beatmapsets/922984#mania/2343060)
+  - [Zekk - Libertas (Kamuy) \[manumissio vindicta\]](https://osu.ppy.sh/beatmapsets/1089211#mania/2277328)
+  - [lapix - Nexta (-MysticEyes) \[LNexta\]](https://osu.ppy.sh/beatmapsets/800341#mania/1680252)
+  - [Pastel*Palettes - Zettai Sengen \~Recital\~ (Raveille) \[LN or Escape!\]](https://osu.ppy.sh/beatmapsets/1098509#mania/2295130)
+  - [Yooh - Heracles (BossMadWolf) \[Immortal\]](https://osu.ppy.sh/beatmapsets/1108434#mania/2316550)
+  - [MYTK - fly (Tantei B) \[Vol Stationnaire\]](https://osu.ppy.sh/beatmapsets/1112778#mania/2324767)
+- Tiebreaker
+  - **[lapix - SYNERGY (\[Crz\]Crysarlene) \[Ace\]](https://osu.ppy.sh/beatmapsets/1069265#mania/2238360)**
+
 ### Quarterfinals
 
 **[Download the map pack here! (88 MB)](https://puu.sh/FfWVG/063f62c285.zip)**
