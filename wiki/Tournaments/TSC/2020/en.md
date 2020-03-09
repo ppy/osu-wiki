@@ -214,6 +214,33 @@ The Taiko Suiji Cup 2020 is run by various community members.
 
 ## Match results
 
+### Round of 16
+
+Saturday, 7 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Spaghetti Protectors** | **5** | 4 | 4:3 gang | [#1](https://osu.ppy.sh/community/matches/58990563) |
+| **plz Jeff** | **5** | 1 | IHATETAIKO | [#1](https://osu.ppy.sh/community/matches/58995567) |
+| **🍘** | **5** | 3 | ham sandwich xviii | [#1](https://osu.ppy.sh/community/matches/58997221) |
+| chocobo | 4 | **5** | **Team 5** | [#1](https://osu.ppy.sh/community/matches/58997265) |
+| ham sandwich xviii | 2 | **5** | **The Shitmissers ft. zkane2** | [#1](https://osu.ppy.sh/community/matches/58999928) |
+| **Team 26** | **5** | 2 | beat laser | [#1](https://osu.ppy.sh/community/matches/59000866) |
+| Break4 | 2 | **5** | **sunglasses emoji** | [#1](https://osu.ppy.sh/community/matches/59000883) |
+
+Sunday, 8 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Beat Laser | 2 | **5** | **Team 6** | [#1](https://osu.ppy.sh/community/matches/59014798) |
+| **chocobo** | **5** | 2 | Donjinshi | [#1](https://osu.ppy.sh/community/matches/59017370) |
+| **IHATETAIKO** | **5** | 0 | Froot Loopy | [#1](https://osu.ppy.sh/community/matches/59019275) |
+| **4:3 gang** | **5** | 2 | Geki Force | [#1](https://osu.ppy.sh/community/matches/59023138) |
+| **Worldwide Bongo** | **5** | 2 | t. | [#1](https://osu.ppy.sh/community/matches/59025665) |
+| **#TeamTrees** | **5** | 4 | bruh | [#1](https://osu.ppy.sh/community/matches/59028999) |
+| bruh | 4 | **5** | **The winner is the winner** | [#1](https://osu.ppy.sh/community/matches/59033459) |
+| **Break4** | **5** | 3 | Ronaldo Gaming | [#1](https://osu.ppy.sh/community/matches/59035868) |
+
 ### Round of 32
 
 Friday, 28 February 2020:
