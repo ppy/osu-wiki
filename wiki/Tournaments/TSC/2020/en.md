@@ -93,6 +93,41 @@ The Taiko Suiji Cup 2020 is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here! (72 MB)](https://mega.nz/#!rQ1HmYIL!pIYy7A9OPPcGAUvi4tjUMaKQmv66-fLHYIYlCPmBU2M)**
+
+#### Mappool A
+
+- NoMod
+  - [Chroma - Collapse (MMzz) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/691352#taiko/1463029)
+  - [ZYTOKINE feat. nachi - NEWBORN CRYING (komasy) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/663137#taiko/1403676)
+  - [HARI KARI - MIRROR FRAGMENT (D3kuu) \[INNER ONI\]](https://osu.ppy.sh/beatmapsets/971297#taiko/2034220)
+  - [2go Aniki - Cutting the music (nyanmi-1828) \[I/nner Oni\]](https://osu.ppy.sh/beatmapsets/756214#taiko/1592330)
+- Hidden
+  - [CROOVE - Black Market (Hoshikuz) \[S.Nagi's Oni\]](https://osu.ppy.sh/beatmapsets/950586#taiko/1985208)
+  - [EBIMAYO - GOODRAGE (EdamaMe411) \[TJBC#5\]](https://osu.ppy.sh/beatmapsets/690007#taiko/1460443)
+- HardRock
+  - [Nekomata Gekidan - AsiaN distractive (TKS) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/672802#taiko/1422127)
+  - [t+pazolite - Our Wrenally (ll-oscar) \[ll-taiko\]](https://osu.ppy.sh/beatmapsets/783004#taiko/1644040)
+- FreeMod
+  - [K.Rekii - Potato Chips (KyouRekii87) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/871750#taiko/1847848)
+  - [Ryu\* feat. Seiryu - Geki (AO-Infinity MIX) (Arrival) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/649197#taiko/1375425)
+
+#### Mappool B
+
+- Challenge
+  - [Sonata Arctica - Revontulet (\_WWWWWW\_WWWWWW\_) \[Daitatsujin\]](https://osu.ppy.sh/beatmapsets/764052#taiko/1606606)
+  - [Yuu Koito(CV:Yuuki Takada) & Touko Nanami(CV:Minako Kotobuki) - Hectopascal (Ange;art remix) (yyyyyyyyyyypetu) \[yagate petu ni naru\]](https://osu.ppy.sh/beatmapsets/994716#taiko/2079967)
+- DoubleTime
+  - [MAK & SAK feat. XANA - Indecent (Nightcore Mix) (Hanjamon) \[Oni\]](https://osu.ppy.sh/beatmapsets/620305#taiko/1307700)
+- Easy
+  - [El Dipy - El Porron (ARGENTINE DREAM) \[TrolloCat's Extremo\]](https://osu.ppy.sh/beatmapsets/850670#taiko/1778470)
+- Hidden+HardRock
+  - [YURiCa - Amatsu Kitsune (Kyuukai) \[Charlotte's Inner Oni\]](https://osu.ppy.sh/beatmapsets/716642#taiko/1521524)
+- Tiebreaker
+  - **[Dustvoxx, Laur - FireLight (yea) \[Cosmic Minds\]](https://osu.ppy.sh/beatmapsets/978134#taiko/2047037)**
+
 ### Round of 16
 
 **[Download the mappack here! (73 MB)](https://mega.nz/#!91FHGC6S!MfKL-G27r3UBCsU7tmVSuy0_hYd51nu1RKD0iDwCfH4)**
@@ -178,6 +213,33 @@ The Taiko Suiji Cup 2020 is run by various community members.
   - [Doma Umaru \[CV:Tanaka Aimi\] - Kakushinteki\*Metamaruphose! (Chiswell) \[UMR Oni\]](https://osu.ppy.sh/beatmapsets/345189#taiko/762526)
 
 ## Match results
+
+### Round of 16
+
+Saturday, 7 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Spaghetti Protectors** | **5** | 4 | 4:3 gang | [#1](https://osu.ppy.sh/community/matches/58990563) |
+| **plz Jeff** | **5** | 1 | IHATETAIKO | [#1](https://osu.ppy.sh/community/matches/58995567) |
+| **🍘** | **5** | 3 | ham sandwich xviii | [#1](https://osu.ppy.sh/community/matches/58997221) |
+| chocobo | 4 | **5** | **Team 5** | [#1](https://osu.ppy.sh/community/matches/58997265) |
+| ham sandwich xviii | 2 | **5** | **The Shitmissers ft. zkane2** | [#1](https://osu.ppy.sh/community/matches/58999928) |
+| **Team 26** | **5** | 2 | beat laser | [#1](https://osu.ppy.sh/community/matches/59000866) |
+| Break4 | 2 | **5** | **sunglasses emoji** | [#1](https://osu.ppy.sh/community/matches/59000883) |
+
+Sunday, 8 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Beat Laser | 2 | **5** | **Team 6** | [#1](https://osu.ppy.sh/community/matches/59014798) |
+| **chocobo** | **5** | 2 | Donjinshi | [#1](https://osu.ppy.sh/community/matches/59017370) |
+| **IHATETAIKO** | **5** | 0 | Froot Loopy | [#1](https://osu.ppy.sh/community/matches/59019275) |
+| **4:3 gang** | **5** | 2 | Geki Force | [#1](https://osu.ppy.sh/community/matches/59023138) |
+| **Worldwide Bongo** | **5** | 2 | t. | [#1](https://osu.ppy.sh/community/matches/59025665) |
+| **#TeamTrees** | **5** | 4 | bruh | [#1](https://osu.ppy.sh/community/matches/59028999) |
+| bruh | 4 | **5** | **The winner is the winner** | [#1](https://osu.ppy.sh/community/matches/59033459) |
+| **Break4** | **5** | 3 | Ronaldo Gaming | [#1](https://osu.ppy.sh/community/matches/59035868) |
 
 ### Round of 32
 
