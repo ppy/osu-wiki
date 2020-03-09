@@ -106,6 +106,32 @@ The osu! TV Size Tournament 2020 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (96 MB)](https://drive.google.com/file/d/16zDfpKcdpQYaBQonxeQOpfWB_Ih3ck1d/view)**
+
+- NoMod
+  - [BUTAOTOME - Gensou no Satellite (Ascendance) \[Extra\]](https://osu.ppy.sh/beatmapsets/982405#osu/2056031)
+  - [Fractal Dreamers - Gardens Under A Spring Sky (\_Epreus) \[ser's Extreme\]](https://osu.ppy.sh/beatmapsets/962862#osu/2017276)
+  - [Hirano Aya, Katou Emiri, Fukuhara Kaori, Endou Aya - Motteke! Sailor Fuku (TV Size) (Yugu) \[Pata-Mon's Lucky!\]](https://osu.ppy.sh/beatmapsets/924885#osu/1932689)
+  - [YUC'e - Chemical Cookie (Yusomi) \[kodoku's Extra\]](https://osu.ppy.sh/beatmapsets/905119#osu/1891490)
+- Hidden
+  - [Minami - Kawaki wo Ameku (TV Size) (Karen) \[Expert\]](https://osu.ppy.sh/beatmapsets/924551#osu/1931141)
+  - [DM Ashura - aftershock!! (nazenaze) \[Insane\]](https://osu.ppy.sh/beatmapsets/13442#osu/49736)
+- HardRock
+  - [UVERworld - Touch off (TV Size) (Monstrata) \[Musty's High Quality Insane\]](https://osu.ppy.sh/beatmapsets/908896#osu/1901162)
+  - [Riko (CV: Tomita Miyu), Reg (CV: Mariya Ise) - Deep in Abyss (Kaifin) \[kwk's Insane\]](https://osu.ppy.sh/beatmapsets/683322#osu/1459462)
+- DoubleTime
+  - [The Lonely Island feat. Akon - I Just Had Sex (Leader) \[Insane\]](https://osu.ppy.sh/beatmapsets/334365#osu/739845)
+  - [HyuN - Tokyo's Starlight (Heilia) \[Insane\]](https://osu.ppy.sh/beatmapsets/1011055#osu/2116610)
+- FreeMod
+  - [Kaneko Chiharu - Zettai Reido (Karen) \[toybot's Expert\]](https://osu.ppy.sh/beatmapsets/641201#osu/1620698)
+  - [Mr. - Hats, Gloves and Overalls (Hikato) \[Doomsday's Insane\]](https://osu.ppy.sh/beatmapsets/7305#osu/31838)
+- Tiebreaker
+  - **[May'n - graphite/diamond (TV Size) (Nitrous) \[Loli's Formidable Extreme\]](https://osu.ppy.sh/beatmapsets/1037591#osu/2176424)**
+  - **[IOSYS - Captain Murasa's Ass Anchor (Mafiamaster) \[Ketsu Ankaa\]](https://osu.ppy.sh/beatmapsets/13422#osu/49866)**
+  - **[IAHN - Feel It (Cellina) \[Expert\]](https://osu.ppy.sh/beatmapsets/1017701#osu/2129967)**
+
 ### Round of 32
 
 **[Download the mappack here! (62 MB)](https://drive.google.com/file/d/1Qkccr-FZRjsEdh8S_4-0-TODlbtjWZrW/view)**
