@@ -15,9 +15,9 @@ The **Taiko Suiji Cup 2020** (***TSC 2020***) is an international randomised thr
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2020-01-10/2020-02-09 |
-| Live drawings | *to be announced* |
+| Live drawings | 2020-02-17 (20:00 UTC) |
 | Qualifiers | 2020-02-22/2020-02-23 |
-| Round of 32 | 2020-02-29/2020-03-01 |
+| Round of 32 | 2020-02-28/2020-03-01 |
 | Round of 16 | 2020-03-07/2020-03-08 |
 | Quarterfinals | 2020-03-14/2020-03-15 |
 | Semifinals | 2020-03-21/2020-03-22 |
@@ -49,17 +49,278 @@ The Taiko Suiji Cup 2020 is run by various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1008498)
 - [TSC Discord server](https://discord.gg/yV3bDTC)
-- [Registration form](https://forms.gle/ir9JU2efdg71gRo57)
-- [Livestream](https://www.twitch.tv/osutaikolive)
+- [Livestream](https://twitch.tv/osutaikolive)
+- [Challonge brackets](https://challonge.com/TSCosu2020)
+- [Pick'em predictions website](https://pickem.hwchr.com/tournaments/24)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1wRgZE_xq50KLqYQA7t027CW3nIRrIn7hiY3iTapK4V8/edit?usp=sharing)**
 
 ## Participants
 
-*The participants will be revealed after the registration phase ends.*
+| Team | Members |
+| :-- | :-- |
+| **🍘** | **![][flag_RU] [pavlukivan](https://osu.ppy.sh/users/8321579)**, ![][flag_SE] [Nurend](https://osu.ppy.sh/users/9905079), ![][flag_CO] [Xoretra](https://osu.ppy.sh/users/4940698), ![][flag_RU] [cloudfags](https://osu.ppy.sh/users/5285786), ![][flag_US] [Sanic06](https://osu.ppy.sh/users/6894424), ![][flag_NL] [Krekker](https://osu.ppy.sh/users/8265940) |
+| **1** | **![][flag_UA] [Don Omar](https://osu.ppy.sh/users/689414)**, ![][flag_JP] [owatanimal](https://osu.ppy.sh/users/5769293), ![][flag_US] [giyokon](https://osu.ppy.sh/users/10852632), ![][flag_RU] [Dayzeek](https://osu.ppy.sh/users/5009970), ![][flag_DE] [DeVastatoR015](https://osu.ppy.sh/users/14415208), ![][flag_MY] [imnoobatosuosu](https://osu.ppy.sh/users/12086753) |
+| **4:3 gang** | **![][flag_DE] [frz](https://osu.ppy.sh/users/6956922)**, ![][flag_BR] [Ppus](https://osu.ppy.sh/users/5918857), ![][flag_FR] [Chernobog](https://osu.ppy.sh/users/3317042), ![][flag_MX] [Ammy](https://osu.ppy.sh/users/4183406), ![][flag_ES] [Penvoltio](https://osu.ppy.sh/users/8849448), ![][flag_US] [Mister Boo](https://osu.ppy.sh/users/2598555) |
+| **6th Sense** | **![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742)**, ![][flag_US] [Whulf](https://osu.ppy.sh/users/11601107), ![][flag_KR] [Ozu](https://osu.ppy.sh/users/980092), ![][flag_JP] [Ku\_Ren](https://osu.ppy.sh/users/2535243), ![][flag_PL] [Sadownik](https://osu.ppy.sh/users/884838), ![][flag_BR] [K4L1](https://osu.ppy.sh/users/11334594) |
+| **#TeamTrees** | **![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235)**, ![][flag_RU] [Naninub](https://osu.ppy.sh/users/8188876), ![][flag_RU] [Nozdormu](https://osu.ppy.sh/users/7169208), ![][flag_MX] [ZaveryK](https://osu.ppy.sh/users/10913397), ![][flag_SK] [Ayumi-chan](https://osu.ppy.sh/users/6269547), ![][flag_TW] [ryan940618](https://osu.ppy.sh/users/8369908) |
+| **Aggressive Banana** | **![][flag_FR] [BananaW](https://osu.ppy.sh/users/9298106)**, ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733), ![][flag_PL] [Agresywny Arbuz](https://osu.ppy.sh/users/7056658), ![][flag_AU] [Tsubasa2](https://osu.ppy.sh/users/6835183), ![][flag_CN] [ensan71714](https://osu.ppy.sh/users/2062410), ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302) |
+| **bacon** | **![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444)**, ![][flag_SG] [Blerargh](https://osu.ppy.sh/users/7609510), ![][flag_PH] [Niro-](https://osu.ppy.sh/users/6443899), ![][flag_US] [Etholux](https://osu.ppy.sh/users/8593837), ![][flag_CA] [SMG3](https://osu.ppy.sh/users/7189946), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
+| **beat laser** | **![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773)**, ![][flag_US] [-Electro-](https://osu.ppy.sh/users/3251373), ![][flag_CA] [Player-](https://osu.ppy.sh/users/3724819), ![][flag_NL] [jesse-98](https://osu.ppy.sh/users/502722), ![][flag_ES] [Nara\_NB](https://osu.ppy.sh/users/3593992), ![][flag_US] [ChivaJam](https://osu.ppy.sh/users/10764969) |
+| **BlackJack** | **![][flag_JP] [uone](https://osu.ppy.sh/users/5321719)**, ![][flag_AR] [Jintsuu](https://osu.ppy.sh/users/7165127), ![][flag_RU] [greenyoyo](https://osu.ppy.sh/users/1581472), ![][flag_TW] [josh716](https://osu.ppy.sh/users/1947720), ![][flag_PL] [C O L L A P S E](https://osu.ppy.sh/users/12042993), ![][flag_ES] [forcegk](https://osu.ppy.sh/users/8566580) |
+| **Break4** | **![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910)**, ![][flag_FR] [Romainnoda](https://osu.ppy.sh/users/8814218), ![][flag_AR] [BossPlays](https://osu.ppy.sh/users/7341471), ![][flag_GR] [KostPer](https://osu.ppy.sh/users/10584732), ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977), ![][flag_AR] [Atreevete](https://osu.ppy.sh/users/2615199) |
+| **bruh** | **![][flag_DE] [Mew](https://osu.ppy.sh/users/2345156)**, ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_GB] [Metzo](https://osu.ppy.sh/users/10633982), ![][flag_JP] [shougi\_55](https://osu.ppy.sh/users/10151766), ![][flag_US] [Carlohman1](https://osu.ppy.sh/users/12212290), ![][flag_MD] [OldFriend](https://osu.ppy.sh/users/6412103) |
+| **chocobo** | **![][flag_JP] [Six b0xes](https://osu.ppy.sh/users/8303357)**, ![][flag_US] [closed](https://osu.ppy.sh/users/5116922), ![][flag_RU] [Den4ik228](https://osu.ppy.sh/users/7115174), ![][flag_KR] [POCARI SWEAT](https://osu.ppy.sh/users/5082685), ![][flag_IT] [Dani24f](https://osu.ppy.sh/users/9264007), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
+| **Donjinshi** | **![][flag_MY] [\[Zeth\]](https://osu.ppy.sh/users/9912966)**, ![][flag_VE] [\[\_Chichinya\_\]](https://osu.ppy.sh/users/2140739), ![][flag_IT] [A-40](https://osu.ppy.sh/users/14510301), ![][flag_JP] [maguro869](https://osu.ppy.sh/users/4733750), ![][flag_FR] [Ladybug](https://osu.ppy.sh/users/4833654), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958) |
+| **Froot Loopy** | **![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461)**, ![][flag_BR] [Coryn](https://osu.ppy.sh/users/2828556), ![][flag_US] [Miniature Lamp](https://osu.ppy.sh/users/9821194), ![][flag_GB] [Daniels](https://osu.ppy.sh/users/12439209), ![][flag_BR] [caaiomc](https://osu.ppy.sh/users/5206883), ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098) |
+| **Geki Force** | **![][flag_CN] [kknegative](https://osu.ppy.sh/users/2349769)**, ![][flag_IT] [coed](https://osu.ppy.sh/users/3716665), ![][flag_ID] [-ToMuchFun-](https://osu.ppy.sh/users/5341110), ![][flag_EE] [Kizma](https://osu.ppy.sh/users/8325847), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715), ![][flag_BR] [RubyKorosawa](https://osu.ppy.sh/users/14886954) |
+| **ham sandwich xviii** | **![][flag_BR] [Foxeru](https://osu.ppy.sh/users/7479684)**, ![][flag_ES] [Maitgon](https://osu.ppy.sh/users/4875451), ![][flag_US] [Bathym-](https://osu.ppy.sh/users/10674189), ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817), ![][flag_IT] [\[-\_deadshock\_-\]](https://osu.ppy.sh/users/8127849), ![][flag_US] [Quibby](https://osu.ppy.sh/users/11936599) |
+| **HolyWeebs** | **![][flag_US] [Catgirl](https://osu.ppy.sh/users/2771995)**, ![][flag_US] [HoopWheat](https://osu.ppy.sh/users/12177903), ![][flag_TW] [KaEDe1106](https://osu.ppy.sh/users/13122339), ![][flag_NL] [StrijkIjzer](https://osu.ppy.sh/users/4130926), ![][flag_FR] [Mokip](https://osu.ppy.sh/users/11404841), ![][flag_TW] [GOD82028](https://osu.ppy.sh/users/12702107) |
+| **IHATETAIKO** | **![][flag_US] [Backfire](https://osu.ppy.sh/users/263110)**, ![][flag_KR] [ILOVEMARISA](https://osu.ppy.sh/users/8767392), ![][flag_BR] [Skull Kid](https://osu.ppy.sh/users/3044264), ![][flag_JP] [Saikoro](https://osu.ppy.sh/users/741819), ![][flag_US] [kb131313](https://osu.ppy.sh/users/11229259), ![][flag_ID] [ImChro](https://osu.ppy.sh/users/7280717) |
+| **plz Jeff** | **![][flag_PL] [bernard351](https://osu.ppy.sh/users/9511518)**, ![][flag_JP] [Noko\_BSF](https://osu.ppy.sh/users/3811831), ![][flag_PL] [Tetsurio](https://osu.ppy.sh/users/2044810), ![][flag_IT] [\[\_LordEnder\_\]](https://osu.ppy.sh/users/4609767), ![][flag_US] [Swovine](https://osu.ppy.sh/users/6666316), ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) |
+| **Ronaldo Gaming** | **![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650)**, ![][flag_DE] [Drecksackblase](https://osu.ppy.sh/users/6278008), ![][flag_CN] [Ookura Risona](https://osu.ppy.sh/users/2073644), ![][flag_FI] [vodnanen](https://osu.ppy.sh/users/10335557), ![][flag_US] [JM-](https://osu.ppy.sh/users/10629673), ![][flag_US] [ThatTaikoGuy](https://osu.ppy.sh/users/4640844) |
+| **Six Leaf Clover** | **![][flag_ID] [Mikurio](https://osu.ppy.sh/users/10734140)**, ![][flag_CH] [MC2BP](https://osu.ppy.sh/users/11296097), ![][flag_PH] [jmeh07](https://osu.ppy.sh/users/2852269), ![][flag_US] [Obama Taichou](https://osu.ppy.sh/users/3220847), ![][flag_JP] [Culisz](https://osu.ppy.sh/users/1211264), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120) |
+| **Six Spinning Monkeys** | **![][flag_ES] [RuinedChicken](https://osu.ppy.sh/users/7983713)**, ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737), ![][flag_VE] [Colorojo12](https://osu.ppy.sh/users/5136821), ![][flag_CA] [kazelone](https://osu.ppy.sh/users/2310786), ![][flag_US] [-Kale](https://osu.ppy.sh/users/4630368), ![][flag_GB] [SayonaraGames](https://osu.ppy.sh/users/8484987) |
+| **Spaghetti Protectors** | **![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945)**, ![][flag_TW] [kolishimona](https://osu.ppy.sh/users/3811626), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_PL] [Wolfgang](https://osu.ppy.sh/users/7184324), ![][flag_PL] [esemoka57](https://osu.ppy.sh/users/2272413), ![][flag_ID] [Volta](https://osu.ppy.sh/users/4154071) |
+| **sunglasses emoji** | **![][flag_FR] [Yona](https://osu.ppy.sh/users/7930622)**, ![][flag_US] [Das](https://osu.ppy.sh/users/3165416), ![][flag_RU] [Akonine](https://osu.ppy.sh/users/7774222), ![][flag_VE] [Nutellitah](https://osu.ppy.sh/users/10613075), ![][flag_FI] [YERTI](https://osu.ppy.sh/users/1490757), ![][flag_PL] [Finite](https://osu.ppy.sh/users/5385806) |
+| **t.** | **![][flag_PL] [Deroo](https://osu.ppy.sh/users/8360475)**, ![][flag_FR] [Ectomic](https://osu.ppy.sh/users/4069690), ![][flag_BR] [HiroK](https://osu.ppy.sh/users/4050738), ![][flag_BG] [Makou](https://osu.ppy.sh/users/901896), ![][flag_ID] [WhiteSnowAngel](https://osu.ppy.sh/users/3866964), ![][flag_FR] [Aciitm1](https://osu.ppy.sh/users/11253595) |
+| **Team 5** | **![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669)**, ![][flag_JP] [kvgyubh](https://osu.ppy.sh/users/8244404), ![][flag_CL] [Aisha](https://osu.ppy.sh/users/2192669), ![][flag_AT] [animexamera](https://osu.ppy.sh/users/7511357), ![][flag_HK] [Brown918](https://osu.ppy.sh/users/9805760), ![][flag_US] [Binsu](https://osu.ppy.sh/users/6236911) |
+| **Team 6** | **![][flag_US] [3san](https://osu.ppy.sh/users/8050850)**, ![][flag_ID] [apaajaboleh10](https://osu.ppy.sh/users/5151647), ![][flag_MX] [Iojioji](https://osu.ppy.sh/users/1346121), ![][flag_FR] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_US] [DiggyDogg](https://osu.ppy.sh/users/5014664), ![][flag_US] [MjIsMaster](https://osu.ppy.sh/users/9922896) |
+| **Team 26** | **![][flag_CA] [rubies87](https://osu.ppy.sh/users/4949934)**, ![][flag_HK] [MTDex](https://osu.ppy.sh/users/9468283), ![][flag_US] [\_knots](https://osu.ppy.sh/users/4407678), ![][flag_ES] [LZD](https://osu.ppy.sh/users/224335), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_AU] [- Heatwave -](https://osu.ppy.sh/users/4166621) |
+| **THANOS OBAMA** | **![][flag_FI] [duski](https://osu.ppy.sh/users/6506484)**, ![][flag_US] [R J](https://osu.ppy.sh/users/6490509), ![][flag_BR] [Lazarento](https://osu.ppy.sh/users/3224958), ![][flag_HK] [JarvisGaming](https://osu.ppy.sh/users/8601048), ![][flag_FR] [Panda\_0ne](https://osu.ppy.sh/users/11216472), ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891) |
+| **The Shitmissers ft. zkane2** | **![][flag_CL] [Catulus](https://osu.ppy.sh/users/6276709)**, ![][flag_JP] [zkane2](https://osu.ppy.sh/users/6359835), ![][flag_ID] [Naverlyn](https://osu.ppy.sh/users/14324722), ![][flag_ES] [naliem](https://osu.ppy.sh/users/3252709), ![][flag_CR] [Hotman](https://osu.ppy.sh/users/7902082), ![][flag_FR] [Gintoki8](https://osu.ppy.sh/users/2239411) |
+| **The winner is the winner** | **![][flag_PL] [Acrith](https://osu.ppy.sh/users/389880)**, ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864), ![][flag_US] [driodx](https://osu.ppy.sh/users/9709548), ![][flag_CA] [beary605](https://osu.ppy.sh/users/2198070), ![][flag_ES] [Lunako](https://osu.ppy.sh/users/2041945), ![][flag_US] [Num5119](https://osu.ppy.sh/users/5198060) |
+| **Worldwide Bongo** | **![][flag_RU] [TwinT](https://osu.ppy.sh/users/9976154)**, ![][flag_NL] [Hypello](https://osu.ppy.sh/users/1594036), ![][flag_BR] [Kyoumo](https://osu.ppy.sh/users/8145223), ![][flag_PT] [Yumi\_Hideaki](https://osu.ppy.sh/users/10081162), ![][flag_HK] [LDator](https://osu.ppy.sh/users/9534414), ![][flag_US] [Yujki](https://osu.ppy.sh/users/14987094) |
 
 ## Mappools
 
-*The mappools will be revealed one week before each particular stage.*
+### Quarterfinals
+
+**[Download the mappack here! (72 MB)](https://mega.nz/#!rQ1HmYIL!pIYy7A9OPPcGAUvi4tjUMaKQmv66-fLHYIYlCPmBU2M)**
+
+#### Mappool A
+
+- NoMod
+  - [Chroma - Collapse (MMzz) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/691352#taiko/1463029)
+  - [ZYTOKINE feat. nachi - NEWBORN CRYING (komasy) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/663137#taiko/1403676)
+  - [HARI KARI - MIRROR FRAGMENT (D3kuu) \[INNER ONI\]](https://osu.ppy.sh/beatmapsets/971297#taiko/2034220)
+  - [2go Aniki - Cutting the music (nyanmi-1828) \[I/nner Oni\]](https://osu.ppy.sh/beatmapsets/756214#taiko/1592330)
+- Hidden
+  - [CROOVE - Black Market (Hoshikuz) \[S.Nagi's Oni\]](https://osu.ppy.sh/beatmapsets/950586#taiko/1985208)
+  - [EBIMAYO - GOODRAGE (EdamaMe411) \[TJBC#5\]](https://osu.ppy.sh/beatmapsets/690007#taiko/1460443)
+- HardRock
+  - [Nekomata Gekidan - AsiaN distractive (TKS) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/672802#taiko/1422127)
+  - [t+pazolite - Our Wrenally (ll-oscar) \[ll-taiko\]](https://osu.ppy.sh/beatmapsets/783004#taiko/1644040)
+- FreeMod
+  - [K.Rekii - Potato Chips (KyouRekii87) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/871750#taiko/1847848)
+  - [Ryu\* feat. Seiryu - Geki (AO-Infinity MIX) (Arrival) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/649197#taiko/1375425)
+
+#### Mappool B
+
+- Challenge
+  - [Sonata Arctica - Revontulet (\_WWWWWW\_WWWWWW\_) \[Daitatsujin\]](https://osu.ppy.sh/beatmapsets/764052#taiko/1606606)
+  - [Yuu Koito(CV:Yuuki Takada) & Touko Nanami(CV:Minako Kotobuki) - Hectopascal (Ange;art remix) (yyyyyyyyyyypetu) \[yagate petu ni naru\]](https://osu.ppy.sh/beatmapsets/994716#taiko/2079967)
+- DoubleTime
+  - [MAK & SAK feat. XANA - Indecent (Nightcore Mix) (Hanjamon) \[Oni\]](https://osu.ppy.sh/beatmapsets/620305#taiko/1307700)
+- Easy
+  - [El Dipy - El Porron (ARGENTINE DREAM) \[TrolloCat's Extremo\]](https://osu.ppy.sh/beatmapsets/850670#taiko/1778470)
+- Hidden+HardRock
+  - [YURiCa - Amatsu Kitsune (Kyuukai) \[Charlotte's Inner Oni\]](https://osu.ppy.sh/beatmapsets/716642#taiko/1521524)
+- Tiebreaker
+  - **[Dustvoxx, Laur - FireLight (yea) \[Cosmic Minds\]](https://osu.ppy.sh/beatmapsets/978134#taiko/2047037)**
+
+### Round of 16
+
+**[Download the mappack here! (73 MB)](https://mega.nz/#!91FHGC6S!MfKL-G27r3UBCsU7tmVSuy0_hYd51nu1RKD0iDwCfH4)**
+
+#### Mappool A
+
+- NoMod
+  - [iNO - Suishoku Komachi Melancholia (Yales) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/802680#taiko/1684845)
+  - [Renard - Terminal (nold_1702) \[mint's Inner Oni\]](https://osu.ppy.sh/beatmapsets/102282#taiko/291218)
+  - [TAROLIN - world.\[NOT\].excuse(nxc); (applerss) \[world.runExecution();\]](https://osu.ppy.sh/beatmapsets/724063#taiko/1528896)
+  - [jippusu - Heisei Kataku Rhythm (HelloSCV) \[S-Nagi's Inner Oni\]](https://osu.ppy.sh/beatmapsets/71720#taiko/207134)
+- Hidden
+  - [Araragi Tsukihi (CV: Iguchi Yuka) - Platinum Disco (TV Size) (Konpaku Sariel) \[Platinum\]](https://osu.ppy.sh/beatmapsets/1117943#taiko/2335270)
+  - [Mitsudomoe Cast - Waga Na wa Shougakusei (TV Size) (Charlotte) \[Yuni's Inner Oni\]](https://osu.ppy.sh/beatmapsets/273709#taiko/1175214)
+- HardRock
+  - [MASAYOSHI IIMORI - Hella Deep (Trapmaniac) \[Oni\]](https://osu.ppy.sh/beatmapsets/795073#taiko/1669852)
+  - [BlackY - JEHANNEDARC (komasy) \[ONI\]](https://osu.ppy.sh/beatmapsets/633361#taiko/1344288)
+- FreeMod
+  - [Sota Fujimori - polygon (Fallmorph) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/721297#taiko/1673979)
+  - [Minamotoya fear.Kuroa\* - Hana Kagerou (lepidopodus) \[lepidon! - Oni\]](https://osu.ppy.sh/beatmapsets/303952#taiko/681083)
+
+#### Mappool B
+
+- Challenge
+  - [Pa's Lam System - If (hoku-4625) \[FREEDOM\]](https://osu.ppy.sh/beatmapsets/769769#taiko/1618520)
+  - [Kano - Walk This Way! (ll-oscar) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/517814#taiko/1100178)
+- DoubleTime
+  - [MYTH & ROID - L.L.L. (Devli) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/505696#taiko/1100976)
+- Easy
+  - [U-ske feat.nanahira - Galaxy Traveler (ercs) \[mikkusu\]](https://osu.ppy.sh/beatmapsets/354619#taiko/781086)
+- Hidden+HardRock
+  - [OISHII - UP UP MT. CAKE (hikikochan) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/682598#taiko/1443522)
+- Tiebreaker
+  - **[Camellia - I Can Fly In The Universe (KTYN) \[Inner Oni (for Suiji 2020)\]](https://osu.ppy.sh/beatmapsets/924267#taiko/2332799)**
+
+### Round of 32
+
+**[Download the mappack here! (69 MB)](https://mega.nz/#!dgcUnCBD!m-XwVABg9xzZNnpBSl9BVSQlAAZhdAtucA0EeoNOFu4)**
+
+#### Mappool A
+
+- NoMod
+  - [Tomita Miyu, Onishi Saori, Ohzora Naomi, Hanazawa Kana - Gabriel Drop Kick (Okoratu) \[Nardo's Inner Oni\]](https://osu.ppy.sh/beatmapsets/572809#taiko/1342248)
+  - [yak\_won - Lucid (soulfear) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/15898#taiko/58041)
+  - [FELT - New World (Nao Tomori) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/782955#taiko/1659378)
+  - [BlackY vs. Yooh - HAVOX (Arrival) \[Unmei's Oni\]](https://osu.ppy.sh/beatmapsets/553741#taiko/1172533)
+- Hidden
+  - [IOSYS - Endless Tewi-ma Park (Kurosanyan) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/48874#taiko/153393)
+  - [toby fox - Spider Dance (OzzyOzrock) \[Oni\]](https://osu.ppy.sh/beatmapsets/373414#taiko/818079)
+- HardRock
+  - [gekidan hitotose - a e i u e o ao!! (yyyyyyyyyyypetu) \[uone note\]](https://osu.ppy.sh/beatmapsets/597000#taiko/1279274)
+  - [Agnete Kjolsrud - Get Jinxed (Hanjamon) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/122279#taiko/944742)
+- FreeMod
+  - [bbn - Identic Conflict (Flower) \[Taiko Oni\]](https://osu.ppy.sh/beatmapsets/49188#taiko/176435)
+  - [Mizuki Nana - Vitalization (TV Size) (Flower) \[Oni\]](https://osu.ppy.sh/beatmapsets/102803#taiko/279373)
+
+#### Mappool B
+
+- Challenge
+  - [sakuzyo - Imprinting (Nofool) \[7 t h's Inner Oni\]](https://osu.ppy.sh/beatmapsets/371217#taiko/813387)
+  - [doth - Toy Boxxxx (Sayaka-) \[Oni\]](https://osu.ppy.sh/beatmapsets/380854#taiko/833267)
+- DoubleTime
+  - [Kobaryo - New Game Plus (Nepuri) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/797710#taiko/1678939)
+- Easy
+  - [toby fox - Battle Against a True Hero (S a n d) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/371182#taiko/813300)
+- Hidden+HardRock
+  - [Megpoid GUMI - Poker Face (NatsumeRin) \[Taiko Joker\]](https://osu.ppy.sh/beatmapsets/24782#taiko/84803)
+- Tiebreaker
+  - **[DystopiaGround - AugoEidEs (happy30) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/24611#taiko/97949)**
+
+### Qualifiers
+
+**[Download the mappack here! (20 MB)](https://mega.nz/#!Yk8gUK5T!VF4NngnEoQnDWY8BgSAdFO-osnuW2yKul8QMkH9M-D8)**
+
+- NoMod
+  - [Camellia - Dyscontrolled Galaxy (ll-oscar) \[ll-taiko\]](https://osu.ppy.sh/beatmapsets/691807#taiko/1463929)
+  - [Falcom Sound Team jdk - Ernst (Pheon) \[Oni\]](https://osu.ppy.sh/beatmapsets/65379#taiko/191565)
+- Hidden
+  - [Kanawo - Kohaku no Yume (Surono) \[Oni\]](https://osu.ppy.sh/beatmapsets/411705#taiko/905752)
+- HardRock
+  - [Cascada - Dangerous (Nightcore Mix) (Dark_Ai) \[Firce777's Taiko\]](https://osu.ppy.sh/beatmapsets/24340#taiko/86994)
+- Challenge
+  - [Doma Umaru \[CV:Tanaka Aimi\] - Kakushinteki\*Metamaruphose! (Chiswell) \[UMR Oni\]](https://osu.ppy.sh/beatmapsets/345189#taiko/762526)
+
+## Match results
+
+### Round of 16
+
+Saturday, 7 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Spaghetti Protectors** | **5** | 4 | 4:3 gang | [#1](https://osu.ppy.sh/community/matches/58990563) |
+| **plz Jeff** | **5** | 1 | IHATETAIKO | [#1](https://osu.ppy.sh/community/matches/58995567) |
+| **🍘** | **5** | 3 | ham sandwich xviii | [#1](https://osu.ppy.sh/community/matches/58997221) |
+| chocobo | 4 | **5** | **Team 5** | [#1](https://osu.ppy.sh/community/matches/58997265) |
+| ham sandwich xviii | 2 | **5** | **The Shitmissers ft. zkane2** | [#1](https://osu.ppy.sh/community/matches/58999928) |
+| **Team 26** | **5** | 2 | beat laser | [#1](https://osu.ppy.sh/community/matches/59000866) |
+| Break4 | 2 | **5** | **sunglasses emoji** | [#1](https://osu.ppy.sh/community/matches/59000883) |
+
+Sunday, 8 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Beat Laser | 2 | **5** | **Team 6** | [#1](https://osu.ppy.sh/community/matches/59014798) |
+| **chocobo** | **5** | 2 | Donjinshi | [#1](https://osu.ppy.sh/community/matches/59017370) |
+| **IHATETAIKO** | **5** | 0 | Froot Loopy | [#1](https://osu.ppy.sh/community/matches/59019275) |
+| **4:3 gang** | **5** | 2 | Geki Force | [#1](https://osu.ppy.sh/community/matches/59023138) |
+| **Worldwide Bongo** | **5** | 2 | t. | [#1](https://osu.ppy.sh/community/matches/59025665) |
+| **#TeamTrees** | **5** | 4 | bruh | [#1](https://osu.ppy.sh/community/matches/59028999) |
+| bruh | 4 | **5** | **The winner is the winner** | [#1](https://osu.ppy.sh/community/matches/59033459) |
+| **Break4** | **5** | 3 | Ronaldo Gaming | [#1](https://osu.ppy.sh/community/matches/59035868) |
+
+### Round of 32
+
+Friday, 28 February 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| bacon | 0 | **5** | **beat laser** | [#1](https://osu.ppy.sh/community/matches/58799641) |
+
+Saturday, 29 February 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **sunglasses emoji** | **5** | 0 | The Shitmissers ft. zkane2 | [#1](https://osu.ppy.sh/community/matches/58801435) |
+| **IHATETAIKO** | **5** | 4 | Team 6 | [#1](https://osu.ppy.sh/community/matches/58804703) |
+| **Team 26** | **5** | 1 | Froot Loopy | [#1](https://osu.ppy.sh/community/matches/58807137) |
+| **Break4** | **5** | 3 | 6th Sense | [#1](https://osu.ppy.sh/community/matches/58813736) |
+| **Spaghetti Protectors** | **5** | 0 | BlackJack | [#1](https://osu.ppy.sh/community/matches/58812419) |
+| **chocobo** | **5** | 4 | 1 | [#1](https://osu.ppy.sh/community/matches/58813847) |
+| **4:3 gang** | **5** | 2 | Donjinshi | [#1](https://osu.ppy.sh/community/matches/58814987) |
+| Geki Force | 4 | **5** | **Team 5** | [#1](https://osu.ppy.sh/community/matches/58815022) |
+| **#TeamTrees** | **5** | 1 | HolyWeebs | [#1](https://osu.ppy.sh/community/matches/58815019) |
+| **🍘** | **0** | -1 | THANOS OBAMA | *win by default* |
+| **plz Jeff** | **0** | -1 | Aggressive Banana | *win by default* |
+| **Worldwide Bongo** | **5** | 1 | Six Leaf Clover | [#1](https://osu.ppy.sh/community/matches/58820875) |
+| Ronaldo Gaming | 1 | **5** | **ham sandwich xviii** | [#1](https://osu.ppy.sh/community/matches/58824518) |
+| **bruh** | **5** | 3 | Six Spinning Monkeys | [#1](https://osu.ppy.sh/community/matches/58827808) |
+
+Sunday, 1 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Froot Loopy** | **0** | -1 | bacon | *win by default* |
+| **t.** | **5** | 1 | The winner is the winner | [#1](https://osu.ppy.sh/community/matches/58834316) |
+| Aggressive Banana | 1 | **5** | **Team 6** | [#1](https://osu.ppy.sh/community/matches/58836161) |
+| 1 | 0 | **5** | **Geki Force** | [#1](https://osu.ppy.sh/community/matches/58843278) |
+| 6th Sense | 3 | **5** | **The Shitmissers ft. zkane2** | [#1](https://osu.ppy.sh/community/matches/58849480) |
+| BlackJack | -1 | **0** | **Donjinshi** | *win by default* |
+| HolyWeebs | 2 | **5** | **Six Spinning Monkeys** | [#1](https://osu.ppy.sh/community/matches/58852715) |
+| Six Leaf Clover | 3 | **5** | **The winner is the winner** | [#1](https://osu.ppy.sh/community/matches/58854310) |
+| THANOS OBAMA | -1 | **0** | **Ronaldo Gaming** | *win by default* |
+
+### Qualifiers
+
+| Seed | Team | Average |
+| --: | :-- | --: |
+| #1 | 🍘 | 4.2 |
+| #2 | chocobo | 9.2 |
+| #3 | Worldwide Bongo | 9.8 |
+| #4 | plz Jeff | 10 |
+| #5 | Spaghetti Protectors | 10.6 |
+| #6 | Break4 | 11.2 |
+| #7 | Team 26 | 11.6 |
+| #8 | #TeamTrees |  11.8 |
+| #9 | bruh | 12 |
+| #10 | bacon | 12.6 |
+| #11 | sunglasses emoji | 13 |
+| #12 | 4:3 gang | 13.4 |
+| #13 | IHATETAIKO | 14.2 |
+| #14 | t. | 15 |
+| #15 | Geki Force | 15.6 |
+| #16 | Ronaldo Gaming | 15.8 |
+| #17 | ham sandwich xviii | 16.4 |
+| #18 | Team 5 | 16.6 |
+| #19 | The winner is the winner | 17.2 |
+| #19 | Team 6 | 17.2 |
+| #21 | Donjinshi | 17.6 |
+| #22 | The Shitmissers ft. zkane2 | 18.2 |
+| #23 | Beat Laser | 19 |
+| #24 | Six Spinning Monkeys | 19.4 |
+| #25 | HolyWeebs | 19.8 |
+| #26 | Froot Loopy | 22 |
+| #27 | 6th Sense | 22.2 |
+| #28 | BlackJack | 25 |
+| #28 | Aggressive Banana | 25 |
+| #28 | Six Leaf Clover | 25 |
+| #31 | 1 | 26.2 |
+| #32 | THANOS OBAMA | 31.2 |
+
+- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1atC4Ym2qwmt8s-nRkbkWlQRYHKPauuTBVeeAP3vSmk8/edit#gid=0)
+- Average is determined by `Σ position earned when playing the qualifiers mappool / 5`
 
 ## Ruleset
 
@@ -104,20 +365,43 @@ The Taiko Suiji Cup 2020 is run by various community members.
 13. The winner of a map is determined by which team ends with a higher score.
 14. In the case of a disconnection, a rematch will only be played if the disconnection occurred within the first 30 seconds of the map. This can be judged by the mp link. If a player disconnects after 30 seconds of the map have passed, their score will not be counted.
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_EC]: /wiki/shared/flag/EC.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BG]: /wiki/shared/flag/BG.gif "Bulgaria"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
+[flag_CR]: /wiki/shared/flag/CR.gif "Costa Rica"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
+[flag_EE]: /wiki/shared/flag/EE.gif "Estonia"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_GR]: /wiki/shared/flag/GR.gif "Greece"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_MD]: /wiki/shared/flag/MD.gif "Moldova"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_SK]: /wiki/shared/flag/SK.gif "Slovakia"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"

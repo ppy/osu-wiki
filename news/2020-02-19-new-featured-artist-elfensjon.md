@@ -16,7 +16,7 @@ This means there's **15** gripping new tracks to sink your teeth into, plus two 
 
 ### Einherjar
 
-*[Check out this set](https://osu.ppy.sh/beatmapsets/942738) hosted by [DakiniBrave](https://osu.ppy.sh/users/51744275)!*
+*[Check out this set](https://osu.ppy.sh/beatmapsets/942738) hosted by [Xayah](https://osu.ppy.sh/users/5174427)!*
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/69/previews/1898.mp3" type="audio/mpeg">
