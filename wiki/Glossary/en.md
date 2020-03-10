@@ -119,6 +119,8 @@ Used to refer to the group itself or one of its members.
 
 ### BPM
 
+*Main page: [Beats per minute](/wiki/Beatmapping/Beats_per_minute)*
+
 *Short for "beats per minute".*
 
 Represents the number of whole beats in a minute.
