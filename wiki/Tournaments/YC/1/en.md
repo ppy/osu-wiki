@@ -106,6 +106,37 @@ The Yuri Cup is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here! (166 MB)](https://mega.nz/#!aeBUQIxR!ubNS6YQKzc6TxYj52bS-2zpQuO3UD2Y8jBtCrv8snPc)**
+
+- NoMod
+  - [Nanamori-chu \* Goraku-bu - Happy Time wa Owaranai (deadcode) \[Expert\]](https://osu.ppy.sh/beatmapsets/935707#osu/1954858)
+  - [kooky - unhappy century (ktgster) \[Overjoy\]](https://osu.ppy.sh/beatmapsets/295518#osu/663889)
+  - [Kairiki bear feat. GUMI, Kagamine Rin - Inai Inai Isonshou (Wanko) \[Addiction\]](https://osu.ppy.sh/beatmapsets/932530#osu/1946996)
+  - [Zekk - Feelsleft0ut (J1\_) \[Alone\]](https://osu.ppy.sh/beatmapsets/821587#osu/1722011)
+  - [kamome sano Electric Orchestra - HE4VEN \~Tengoku e Youkoso\~ (Kawashiro) \[toybot's HEAVENLY\]](https://osu.ppy.sh/beatmapsets/597797#osu/1349478)
+  - [Foxblood - Bittersweet (Osatia) \[Extreme\]](https://osu.ppy.sh/beatmapsets/710922#osu/1564055)
+- Hidden
+  - [Tricot - POOL (dsco) \[Lover\]](https://osu.ppy.sh/beatmapsets/854942#osu/1786452)
+  - [PSYQUI feat. Such - Your voice so... (Livia) \[Future\]](https://osu.ppy.sh/beatmapsets/765357#osu/1609215)
+  - [Masubuchi Yuuji - Shimedore 2000 (DakeDekaane) \[Oni\]](https://osu.ppy.sh/beatmapsets/171340#osu/414516)
+- HardRock
+  - [S3RL - Ravers MashUp (Nuvolina) \[Rave Forever\]](https://osu.ppy.sh/beatmapsets/912916#osu/1907051)
+  - [Noah - Celestial stinger (Kroytz) \[1112's INFINITE\]](https://osu.ppy.sh/beatmapsets/687129#osu/1454082)
+  - [Becky - Less Than Three (Ricardo Autobahn Remix) (Sonnyc) \[Expert\]](https://osu.ppy.sh/beatmapsets/1078502#osu/2256655)
+- DoubleTime
+  - [senya - Zouka de Arou to Shita Mono (Satellite) \[Giralda's Lunatic\]](https://osu.ppy.sh/beatmapsets/495283#osu/1107464)
+  - [Hatsune Miku - Netoge Haijin Sprechchor (Lalarun) \[Insane\]](https://osu.ppy.sh/beatmapsets/25802#osu/87369)
+  - [FELT - The Sun and Moon (Sylvarus) \[More Than Words Can Say\]](https://osu.ppy.sh/beatmapsets/1036438#osu/2167038)
+  - [EeL - 777 (Takuma) \[Insane\]](https://osu.ppy.sh/beatmapsets/5690#osu/27368)
+- FreeMod
+  - [Kimunyu - Snow halation (REDSHiFT Remix) (Gaia) \[BiBi Extra\]](https://osu.ppy.sh/beatmapsets/429540#osu/1865251)
+  - [Morimori Atsushi - MilK (s0m3guy) \[Milk\]](https://osu.ppy.sh/beatmapsets/893375#osu/1879005)
+  - [sasakure.UK - Jack-the-Ripper (Sprosive) \[ReMiX\]](https://osu.ppy.sh/beatmapsets/23907#osu/94264)
+- Tiebreaker
+  - **[goreshit - game over. (Hectic) \[the end\]](https://osu.ppy.sh/beatmapsets/986213#osu/2314855)**
+
 ### Round of 16
 
 **[Download the mappack here! (135 MB)](https://mega.nz/#!rU0VmADK!ZrKe9THLFBW5rjSULGu2AkRDAhQfYvXQyRAeRWLiFwc)**
@@ -182,6 +213,34 @@ The Yuri Cup is run by various community members.
   - [senya - Kimi to Dareka no Yasashisa ni (kakifly) \[Affection\]](https://osu.ppy.sh/beatmapsets/250337#osu/596161)
 
 ## Match results
+
+### Round of 16
+
+Saturday, 7 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Urushihara Fan Club | -1 | **0** | **Futon's Bunker** | *win by default* |
+| **:flushed:** | **6** | 3 | Donne moi une minute | [#1](https://osu.ppy.sh/community/matches/58990906) |
+| **Hyouri Ittai** | **6** | 3 | Baguette Vodka Salo | [#1](https://osu.ppy.sh/community/matches/58993385) |
+| **Sakura Trick** | **6** | 3 | N | [#1](https://osu.ppy.sh/community/matches/58995087) |
+| Voprossoff Fanclub | 1 | **6** | **Rtzero x Rtzer0** | [#1](https://osu.ppy.sh/community/matches/58997170) |
+| **a la verga** | **6** | 0 | magblood debil | [#1](https://osu.ppy.sh/community/matches/59007942) |
+
+Sunday, 8 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **MeAqua** | **6** | 4 | yayo | [#1](https://osu.ppy.sh/community/matches/59016020) |
+| **Justice for Riko** | **6** | 4 | 安倍-プーチン | [#1](https://osu.ppy.sh/community/matches/59027206) |
+| **Stavros1435** | **6** | 3 | Shaiden fanclub | [#1](https://osu.ppy.sh/community/matches/59032518) |
+| 11:40 | 4 | **6** | **Dziadzia team** | [#1](https://osu.ppy.sh/community/matches/59032548) |
+| Yuritarded | 1 | **6** | **Corim's Bad Dream** | [#1](https://osu.ppy.sh/community/matches/59039430) |
+| Farewell authorise | 3 | **6** | **Suce** | [#1](https://osu.ppy.sh/community/matches/59035079) |
+| **team name #2** | **6** | 2 | comfkuehlesblondes | [#1](https://osu.ppy.sh/community/matches/59036940) |
+| **Milk & Scissors** | **6** | 3 | BloodTrail | [#1](https://osu.ppy.sh/community/matches/59037883) |
+| SS Squad (and ruyu) | 2 | **6** | **Team Ricky Montgomery** | [#1](https://osu.ppy.sh/community/matches/59039056) |
+| Alligator Space Jam | -1 | **0** | **rooGya** | *win by default* |
 
 ### Round of 32
 
