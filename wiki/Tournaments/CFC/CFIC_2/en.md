@@ -17,9 +17,9 @@ The **Catch French Intermediate Cup 2** (***CFIC 2***) is an intermediate French
 | Registration phase | 2020-01-18/2020-02-02 |
 | Live drawings | 2020-02-07 (22:00 UTC+2) |
 | Qualifiers | 2020-02-15/2020-02-16 |
-| Group Stage | 2020-02-22 |
-| Quarterfinals | 2020-02-29 |
-| Semifinals | 2020-03-07 |
+| Group Stage | 2020-02-22/2020-02-23 |
+| Quarterfinals | 2020-02-29/2020-03-01 |
+| Semifinals | 2020-03-07/2020-03-08 |
 | Finals | 2020-03-14 |
 | Grand Finals | 2020-03-21 |
 
@@ -72,7 +72,54 @@ The Catch French Intermediate Cup 2 is run by various community members.
 | C | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) | ![][flag_FR] [TomyLeFaux](https://osu.ppy.sh/users/9504653) | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) | ![][flag_FR] [NinjaCoktail](https://osu.ppy.sh/users/11431902) |
 | D | ![][flag_FR] [dracoV](https://osu.ppy.sh/users/7925725) | ![][flag_FR] [NoLimitFS](https://osu.ppy.sh/users/10411609) | ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990) | ![][flag_FR] [Oasix](https://osu.ppy.sh/users/6183012) |
 
+## Match schedule: Finals
+
+Saturday, 14 March 2020:
+
+| Match ID | Player 1 |  |  | Player 2 | Match time (UTC) |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| #1 | Fuka Pura | ![][flag_FR] | ![][flag_FR] | dracoV | **15:00** |
+| #2 | Dask | ![][flag_FR] | ![][flag_FR] | Kaleesy Pura | **17:00** |
+
+Sunday, 15 March 2020:
+
+| Match ID | Player 1 |  |  | Player 2 | Match time (UTC) |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| #3a¹ | Fuka Pura | ![][flag_FR] | ![][flag_FR] | Dask | **15:00** |
+| #3b¹ | Fuka Pura | ![][flag_FR] | ![][flag_FR] | Kaleesy Pura | **15:00** |
+| #3c¹ | dracoV | ![][flag_FR] | ![][flag_FR] | Dask | **15:00** |
+| #3d¹ | dracoV | ![][flag_FR] | ![][flag_FR] | Kaleesy Pura | **15:00** |
+
+¹ Encounter dependent on winner of Match #2 and loser of Match #1
+
 ## Mappools
+
+### Finals
+
+- NoMod
+  - [Erik McClure - The Last Dead Angel (Kyuare) \[Ange\]](https://osu.ppy.sh/beatmapsets/574923#fruits/1217571)
+  - [DJ TOTTO feat. Enako - Precious \* Star (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/776495#fruits/1631467)
+  - [REDALiCE vs. MASAKI - BUCHiGiRE Berserker (Bunnrei) \[INSANE\]](https://osu.ppy.sh/beatmapsets/1074448#fruits/2249908)
+  - [sana - Miraizu (Lasse) \[Forever\]](https://osu.ppy.sh/beatmapsets/378196#fruits/890467)
+  - [toby fox - MEGALOVANIA (Kyshiro) \[Burn\]](https://osu.ppy.sh/beatmapsets/387700#fruits/846105)
+  - [LeaF - Euphoric Orchid Dance (Zetera) \[Zetera's Super Hard\]](https://osu.ppy.sh/beatmapsets/431102#fruits/929941)
+- Hidden
+  - [P\*Light - FUNKY SUMMER BEACH (alienflybot) \[Rain\]](https://osu.ppy.sh/beatmapsets/807977#fruits/1695597)
+  - [kors k - Playing With Fire (Sota Fujimori Remix) (Ascendance) \[White Hard\]](https://osu.ppy.sh/beatmapsets/683343#fruits/1577675)
+  - [Kero Kero Bonito - Flyway (Hectic) \[Toy's Insane\]](https://osu.ppy.sh/beatmapsets/969578#fruits/2161385)
+  - [Tezuka feat. Oonishi Amimi - Bokura no Jikan (celerih) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/928650#fruits/1939646)
+- HardRock
+  - [FOLiACETATE - Heterochromia Iridis (Deif) \[Platter\]](https://osu.ppy.sh/beatmapsets/833719#fruits/2170652)
+  - [Ray - Nagi (mingmichael) \[Rain\]](https://osu.ppy.sh/beatmapsets/146008#fruits/361907)
+  - [Shimotsuki Haruka - Tsubasa o Motanai Shoujo (Dored) \[Blue Bird\]](https://osu.ppy.sh/beatmapsets/883825#fruits/1847491)
+  - [FF7 Original Soundtrack - Crazy Motorcycle Chase (James) \[Crazy!\]](https://osu.ppy.sh/beatmapsets/1961#fruits/18170)
+- DoubleTime
+  - [Neru - Byoumei Wa Ai Datta (Ellyu) \[Rew's Platter\]](https://osu.ppy.sh/beatmapsets/684960#fruits/2203059)
+  - [siromaru + cranky - conflict (Bunnrei) \[Platter\]](https://osu.ppy.sh/beatmapsets/981762#fruits/2055786)
+  - [Nightwish - Planet Hell (Sieg) \[Insane\]](https://osu.ppy.sh/beatmapsets/167077#fruits/405955)
+  - [Lacuna Coil - Spellbound (narakucrimson) \[Insane\]](https://osu.ppy.sh/beatmapsets/41992#fruits/138033)
+- Tiebreaker
+  - **[Erik "Jit" Scheele - Negastrife (lulu lemon) \[Depths\]](https://osu.ppy.sh/beatmapsets/653765#fruits/1385813)**
 
 ### Semifinals
 
@@ -163,6 +210,22 @@ The Catch French Intermediate Cup 2 is run by various community members.
   - [TiA - Ryuusei (Dangaard) \[Hard\]](https://osu.ppy.sh/beatmapsets/10960#fruits/42241)
 
 ## Match results
+
+### Semifinals
+
+Saturday, 7 March 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Fuka Pura** ![][flag_FR] | **0** | -1 | ![][flag_FR] Electr0o | *win by default* |
+
+Sunday, 8 March 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Dask ![][flag_FR] | 3 | **6** | ![][flag_FR] **dracoV** | [#1](https://osu.ppy.sh/community/matches/59027737) |
+| Electr0o ![][flag_FR] | -1 | **0** | ![][flag_FR] **Kaleesy Pura** | *win by default* |
+| **Dask** ![][flag_FR] | **6** | 3 | ![][flag_FR] Khalemm | [#1](https://osu.ppy.sh/community/matches/59029583) |
 
 ### Quarterfinals
 
