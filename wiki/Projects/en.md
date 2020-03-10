@@ -42,8 +42,9 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
     -   [GitHub](https://github.com/itdelatrisu/opsu) | [Website](http://itdelatrisu.github.io/opsu/)
 -   [osu! python edition](https://osu.ppy.sh/community/forums/topics/688175)—Python clone of osu!
 -   [T-Aiko!](https://osu.ppy.sh/community/forums/topics/58640)—A free [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia") game that plays osu! beatmaps on your iPhone or Android device.
--   osu!droid — An unofficial osu! client written for Android.
+-   osu!droid—An unofficial osu! client written for Android.
     -   [Website](http://ops.dgsrz.com/)
+
 ### Gameplay
 
 -   [Desktop Composition Disabler](https://osu.ppy.sh/community/forums/topics/177218)—Disables the Desktop Composition in Windows to reduce input latency for window-mode players.
