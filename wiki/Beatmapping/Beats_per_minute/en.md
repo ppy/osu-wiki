@@ -6,7 +6,9 @@ tags:
 
 # Beats per minute
 
-**Beats per minute**, abbreviated as ***BPM***, refers to the number of whole musical beats in a minute, and is used to measure the [tempo](https://en.wikipedia.org/wiki/Tempo) of a song. Tempo and offset combined, allow for snapping [hit objects](/wiki/Hit_Objects) to the timeline when creating [beatmaps](/wiki/Beatmap). Timeline snapping ensures gameplay aligns with the beat. Setting BPM is the second thing that needs to be done when creating a new beatmap—the first being [song setup](/wiki/Beatmap_Editor/Song_Setup). It can be changed later in the `Timing` tab of the [beatmap editor](/wiki/Beatmap_Editor), or by pressing `Ctrl` + `P`.
+**Beats per minute** (***BPM***) refers to the number of whole musical beats in a minute, and is used to measure the [tempo](https://en.wikipedia.org/wiki/Tempo) of a song. [Timing points](/wiki/Glossary#timing-section) use a BPM and offset to allow snapping [hit objects](/wiki/Hit_Objects) to the timeline when creating [beatmaps](/wiki/Beatmap). Timeline snapping ensures gameplay aligns with the beat.
+
+Setting BPM is the second thing that needs to be done when creating a new beatmap—the first being [song setup](/wiki/Beatmap_Editor/Song_Setup). It can be changed later in the [Timing tab](/wiki/Beatmap_Editor/Timing) of the [beatmap editor](/wiki/Beatmap_Editor), or by pressing `Ctrl` + `P`.
 
 Most modern songs use a single BPM which requires a single timing point. More complex songs may require multiple timing points and timing resets to be timed correctly. Timing points are shown as red lines in the timeline at the bottom of the editor.
 
