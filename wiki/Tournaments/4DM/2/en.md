@@ -97,7 +97,7 @@ The 4 Digit osu!mania World Cup 2 is run by various community members.
 
 | Group | Top seed | High seed | Low seed |
 | :-: | :-- | :-- | :-- |
-| **A** | ![][flag_FI] Finland | ![][flag_BR] Brazil | ![][flag_KR] South Korea |
+| **A** | ![][flag_BR] Brazil | ![][flag_FI] Finland | ![][flag_KR] South Korea |
 | **B** | ![][flag_TH] Thailand | ![][flag_AU] Australia | ![][flag_CH] Switzerland |
 | **C** | ![][flag_FR] France | ![][flag_ID] Indonesia | ![][flag_CL] Chile |
 | **D** | ![][flag_US] United States | ![][flag_CN] China | ![][flag_IT] Italy |
