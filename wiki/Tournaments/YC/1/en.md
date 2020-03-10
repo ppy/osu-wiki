@@ -242,7 +242,6 @@ Sunday, 8 March 2020:
 | SS Squad (and ruyu) | 2 | **6** | **Team Ricky Montgomery** | [#1](https://osu.ppy.sh/community/matches/59039056) |
 | Alligator Space Jam | -1 | **0** | **rooGya** | *win by default* |
 
-
 ### Round of 32
 
 Thursday, 27 February 2020:
