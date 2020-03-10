@@ -1,16 +1,16 @@
 # Édition audio
 
-[osu!academy](/wiki/osu!academy) a couvert ce point dans [Episode 15: Audio Encoding (4:02)](http://www.youtube.com/watch?v=muu3HkG38kk). Cet épisode contient aussi comment installer et utiliser Audacity avec la capacité d'exportation `.mp3` de LAME.
+[osu!academy](/wiki/osu!academy) a couvert ce point dans [Episode 15: Audio Encoding (4:02)](https://www.youtube.com/watch?v=muu3HkG38kk). Cet épisode contient aussi comment installer et utiliser Audacity avec la capacité d'exportation `.mp3` de LAME.
 
 Cet article sert de guide pour vous aider à effectuer des modifications mineures sur vos fichiers audio à des fins de beatmapping. En le développant, vous pouvez aider les autres beatmappers à créer des fichiers audio adaptés à tous les besoins.
 
-_Ce n'est pas le logiciel que vous ne pouvez utiliser, mais plutôt les listes de ceux qui les ont ajoutées ici. Si vous connaissez d'autres outils qui pourraient être utilisés et que vous pouvez expliquer comment les utiliser pour les sections décrites ci-dessous, veuillez les ajouter._
+*Ce n'est pas le logiciel que vous ne pouvez utiliser, mais plutôt les listes de ceux qui les ont ajoutées ici. Si vous connaissez d'autres outils qui pourraient être utilisés et que vous pouvez expliquer comment les utiliser pour les sections décrites ci-dessous, veuillez les ajouter.*
 
 ## Audacity (et LAME)
 
-[Audacity](http://audacity.sourceforge.net/download/) est un logiciel libre d'édition et d'enregistrement audio. Pour l'utiliser correctement pour `.mp3`, vous devez utiliser LAME.
+[Audacity](https://www.audacityteam.org/download) est un logiciel libre d'édition et d'enregistrement audio. Pour l'utiliser correctement pour `.mp3`, vous devez utiliser LAME.
 
-[LAME](http://lame.sourceforge.net/) est une bibliothèque d'encodage `.mp3` qui permettra à Audacity d'exporter des fichiers sonores au format `.mp3` tout en utilisant différents débits binaires. Pour installer LAME sur Audacity, reportez-vous à la page [Audacity wiki](http://wiki.audacityteam.org/index.php?title=Lame_Installation#Windows_Instructions).
+[LAME](https://lame.sourceforge.io) est une bibliothèque d'encodage `.mp3` qui permettra à Audacity d'exporter des fichiers sonores au format `.mp3` tout en utilisant différents débits binaires. Pour installer LAME sur Audacity, reportez-vous à la page [Audacity wiki](https://manual.audacityteam.org/man/faq_installing_the_lame_mp3_encoder.html).
 
 ### Diminution du débit binaire
 
@@ -75,7 +75,7 @@ Installez Audacity et LAME, ouvrez Audacity puis suivez ces étapes :
 
 ## mp3DirectCut
 
-[mp3DirectCut](http://mpesch3.de1.cc/mp3dc.html) est un logiciel d'édition audio gratuit.
+[mp3DirectCut](https://mpesch3.de) est un logiciel d'édition audio gratuit.
 Cet outil est recommandé lorsque vous souhaitez seulement augmenter/réduire le volume ou recadrer l'audio car il ne vous oblige pas à réencoder l'audio, ce qui signifie moins de pertes de qualité.
 
 ### Bouclage
