@@ -132,7 +132,7 @@ Sunday, 15 March 2020:
 | #22d² | South Korea | ![][flag_KR] | ![][flag_CA] | Canada | **13:00** |
 | #23 | United Kingdom | ![][flag_GB] | ![][flag_US] | United States | **18:00** |
 
-¹ Encounter dependent on winner of Match #17 and Match #18
+¹ Encounter dependent on winner of Match #17 and Match #18  
 ² Encounter dependent on winner of Match #19 and Match #20
 
 ## Mappools
