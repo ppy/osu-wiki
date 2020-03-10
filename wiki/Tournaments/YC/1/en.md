@@ -222,16 +222,16 @@ Saturday, 7 March 2020:
 | --: | :-: | :-: | :-- | :-- |
 | Urushihara Fan Club | -1 | **0** | **Futon's Bunker** | *win by default* |
 | **:flushed:** | **6** | 3 | Donne moi une minute | [#1](https://osu.ppy.sh/community/matches/58990906) |
-| **Hyouri Ittai** | **6** | 3 | Baguette Vodka Salo | [#1](https://osu.ppy.sh/mp/58993385) |
-| **Sakura Trick** | **6** | 3 | N | [#1](https://osu.ppy.sh/mp/58995087) |
-| Voprossoff Fanclub | 1 | **6** | **Rtzero x Rtzer0** | [#1](https://osu.ppy.sh/mp/58997170) |
+| **Hyouri Ittai** | **6** | 3 | Baguette Vodka Salo | [#1](https://osu.ppy.sh/community/matches/58993385) |
+| **Sakura Trick** | **6** | 3 | N | [#1](https://osu.ppy.sh/community/matches/58995087) |
+| Voprossoff Fanclub | 1 | **6** | **Rtzero x Rtzer0** | [#1](https://osu.ppy.sh/community/matches/58997170) |
 | **a la verga** | **6** | 0 | magblood debil | [#1](https://osu.ppy.sh/community/matches/59007942) |
 
 Sunday, 8 March 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **MeAqua** | **6** | 4 | yayo | [#1](https://osu.ppy.sh/mp/59016020) |
+| **MeAqua** | **6** | 4 | yayo | [#1](https://osu.ppy.sh/community/matches/59016020) |
 | **Justice for Riko** | **6** | 4 | 安倍-プーチン | [#1](https://osu.ppy.sh/community/matches/59027206) |
 | **Stavros1435** | **6** | 3 | Shaiden fanclub | [#1](https://osu.ppy.sh/community/matches/59032518) |
 | 11:40 | 4 | **6** | **Dziadzia team** | [#1](https://osu.ppy.sh/community/matches/59032548) |
