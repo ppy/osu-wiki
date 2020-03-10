@@ -89,37 +89,36 @@ The Beginner's Taiko Tournament 5 is run by various community members.
 | **OwO** | ![][flag_MY] [squidstain](https://osu.ppy.sh/users/11073207) | ![][flag_DE] [Kirross](https://osu.ppy.sh/users/10893243) | ![][flag_US] [quadrillionaire](https://osu.ppy.sh/users/15139170) | ![][flag_DE] [Fre3Styl3r](https://osu.ppy.sh/users/10177249) |
 | **PP** | ![][flag_DE] [Enohx](https://osu.ppy.sh/users/6375060) | ![][flag_BY] [DrDazzle](https://osu.ppy.sh/users/6216290) | ![][flag_FR] [Aidown](https://osu.ppy.sh/users/1522146) | ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507) |
 
-## Match schedule: Finals
-
-Saturday, 7 March 2020:
-
-| Match ID | Player 1 |  |  | Player 2 | Match time (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #58 | Olii | ![][flag_GB] | ![][flag_SG] | awdse22 | **11:00** |
-| #57 | Vaf | ![][flag_AR] | ![][flag_DE] | Malox | **12:00** |
-| #59a¹ | Olii | ![][flag_GB] | ![][flag_AR] | Vaf | **13:00** |
-| #59b¹ | Olii | ![][flag_GB] | ![][flag_DE] | Malox | **13:00** |
-| #59c¹ | awdse22 | ![][flag_SG] | ![][flag_AR] | Vaf | **13:00** |
-| #59d¹ | awdse22 | ![][flag_SG] | ![][flag_DE] | Malox | **13:00** |
-| #60 | Maou | ![][flag_DE] | ![][flag_SG] | moosepi | **17:00** |
-
-Sunday, 8 March 2020:
-
-| Match ID | Player 1 |  |  | Player 2 | Match time (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #61a² | Maou | ![][flag_DE] | ![][flag_AR] | Vaf | **15:00** |
-| #61b² | Maou | ![][flag_DE] | ![][flag_DE] | Malox | **15:00** |
-| #61c² | Maou | ![][flag_DE] | ![][flag_GB] | Olii | **15:00** |
-| #61d² | Maou | ![][flag_DE] | ![][flag_SG] | awdse22 | **15:00** |
-| #61e² | moosepi | ![][flag_SG] | ![][flag_AR] | Vaf | **15:00** |
-| #61f² | moosepi | ![][flag_SG] | ![][flag_DE] | Malox | **15:00** |
-| #61g² | moosepi | ![][flag_SG] | ![][flag_GB] | Olii | **15:00** |
-| #61h² | moosepi | ![][flag_SG] | ![][flag_SG] | awdse22 | **15:00** |
-
-¹ Encounter dependent on winner of Match #58 and Match #57  
-² Encounter dependent on winner of Match #59 and loser of Match #60
-
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here! (103 MB)](https://mega.nz/#!PmxFGZiT!OP-7oyHKNDx-JNDIcDOCrSa9hLmBxpxwPaWoj7XnYeQ)**
+
+- NoMod
+  - [Sasaki Sayaka - Marine Blue ni Sotte (El SolarBeam) \[Nardo's Oni\]](https://osu.ppy.sh/beatmapsets/182129#taiko/458209)
+  - [O2i3 - How to make Slime (Nifty) \[Oni\]](https://osu.ppy.sh/beatmapsets/631097#taiko/1373223)
+  - [Camellia as "fluX Xroise" - Xronier (Felt7z) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/925700#taiko/1966652)
+  - [Camellia - KillerBeast (Capu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1069639#taiko/2269596)
+  - [Camellia - Introduction - ENTRANS OF DA JUNGLE (Nifty) \[Oni\]](https://osu.ppy.sh/beatmapsets/667577#taiko/1412503)
+- Hidden
+  - [toach - Fill it a Try (tasuke912) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/824580#taiko/1728064)
+  - [Camellia - Diastrophism (Nwolf) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1063130#taiko/2226121)
+  - [Marie - Shiroki Yami no Arabesque (Soleily Remix) (ekumea1123) \[Oni\]](https://osu.ppy.sh/beatmapsets/1095878#taiko/2290326)
+- HardRock
+  - [Nekomata Master - Scars of FAUNA (Alwaysyukaz) \[Oni\]](https://osu.ppy.sh/beatmapsets/703218#taiko/1494626)
+  - [uma vs. Morimori Atsushi - Re : End of a Dream (Jaye) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/759397#taiko/1597091)
+  - [Function Phantom - Euclid (tasuke912) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/761560#taiko/1619476)
+- DoubleTime
+  - [Yuyoyuppe feat. YUC'e - Kimi Iro, Yami ni, Tokete. (Okoratu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/573700#taiko/1216469)
+  - [Yunomi - Tokyo Snorkel (feat. nicamoq) (bigfrog) \[Ron's Muzukashii\]](https://osu.ppy.sh/beatmapsets/796004#taiko/1686587)
+  - [BRZion - Tricky Waves (Okoratu) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/852413#taiko/1789861)
+- FreeMod
+  - [DM Dokuro - Die Anywhere Else (Coryn) \[Oni\]](https://osu.ppy.sh/beatmapsets/830347#taiko/1743720)
+  - [Paitan - LEMON SUMMER (asuasu\_yura) \[Oni\]](https://osu.ppy.sh/beatmapsets/368136#taiko/815704)
+  - [goreshit - broken promises/shattered dreams (HiroK) \[Capu's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1077202#taiko/2280397)
+- Tiebreaker
+  - **[Camellia - NUCLEAR-STAR (MTDex) \[Fapu's Oni\]](https://osu.ppy.sh/beatmapsets/839164#taiko/1762560)**
 
 ### Finals
 
@@ -294,6 +293,21 @@ Sunday, 8 March 2020:
   - [Nekomata Master feat. Hayashi Momoko - TWINKLING other side edition (bank78952) \[Kantan\]](https://osu.ppy.sh/beatmapsets/776049#taiko/1684690)
 
 ## Match results
+
+### Finals
+
+Saturday, 7 March 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| awdse22 ![][flag_SG] | 4 | **7** | ![][flag_DE] **Malox** | [#1](https://osu.ppy.sh/community/matches/58997041) |
+| **Maou** ![][flag_DE] | **7** | 2 | ![][flag_SG] moosepi | [#1](https://osu.ppy.sh/community/matches/59006407) |
+
+Sunday, 8 March 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| moosepi ![][flag_SG] | 2 | **7** | ![][flag_DE] **Malox** | [#1](https://osu.ppy.sh/community/matches/59037109) |
 
 ### Semifinals
 
