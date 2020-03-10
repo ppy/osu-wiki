@@ -89,36 +89,6 @@ The Beginner's Taiko Tournament 5 is run by various community members.
 | **OwO** | ![][flag_MY] [squidstain](https://osu.ppy.sh/users/11073207) | ![][flag_DE] [Kirross](https://osu.ppy.sh/users/10893243) | ![][flag_US] [quadrillionaire](https://osu.ppy.sh/users/15139170) | ![][flag_DE] [Fre3Styl3r](https://osu.ppy.sh/users/10177249) |
 | **PP** | ![][flag_DE] [Enohx](https://osu.ppy.sh/users/6375060) | ![][flag_BY] [DrDazzle](https://osu.ppy.sh/users/6216290) | ![][flag_FR] [Aidown](https://osu.ppy.sh/users/1522146) | ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507) |
 
-## Match schedule: Finals
-
-Saturday, 7 March 2020:
-
-| Match ID | Player 1 |  |  | Player 2 | Match time (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #58 | Olii | ![][flag_GB] | ![][flag_SG] | awdse22 | **11:00** |
-| #57 | Vaf | ![][flag_AR] | ![][flag_DE] | Malox | **12:00** |
-| #59a¹ | Olii | ![][flag_GB] | ![][flag_AR] | Vaf | **13:00** |
-| #59b¹ | Olii | ![][flag_GB] | ![][flag_DE] | Malox | **13:00** |
-| #59c¹ | awdse22 | ![][flag_SG] | ![][flag_AR] | Vaf | **13:00** |
-| #59d¹ | awdse22 | ![][flag_SG] | ![][flag_DE] | Malox | **13:00** |
-| #60 | Maou | ![][flag_DE] | ![][flag_SG] | moosepi | **17:00** |
-
-Sunday, 8 March 2020:
-
-| Match ID | Player 1 |  |  | Player 2 | Match time (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #61a² | Maou | ![][flag_DE] | ![][flag_AR] | Vaf | **15:00** |
-| #61b² | Maou | ![][flag_DE] | ![][flag_DE] | Malox | **15:00** |
-| #61c² | Maou | ![][flag_DE] | ![][flag_GB] | Olii | **15:00** |
-| #61d² | Maou | ![][flag_DE] | ![][flag_SG] | awdse22 | **15:00** |
-| #61e² | moosepi | ![][flag_SG] | ![][flag_AR] | Vaf | **15:00** |
-| #61f² | moosepi | ![][flag_SG] | ![][flag_DE] | Malox | **15:00** |
-| #61g² | moosepi | ![][flag_SG] | ![][flag_GB] | Olii | **15:00** |
-| #61h² | moosepi | ![][flag_SG] | ![][flag_SG] | awdse22 | **15:00** |
-
-¹ Encounter dependent on winner of Match #58 and Match #57
-² Encounter dependent on winner of Match #59 and loser of Match #60
-
 ## Mappools
 
 ### Grand Finals
