@@ -324,6 +324,21 @@ Sunday, 8 March 2020:
 
 ## Match results
 
+### Finals
+
+Saturday, 7 March 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| awdse22 ![][flag_SG] | 4 | **7** | ![][flag_DE] **Malox** | [#1](https://osu.ppy.sh/community/matches/58997041) |
+| **Maou** ![][flag_DE] | **7** | 2 | ![][flag_SG] moosepi | [#1](https://osu.ppy.sh/community/matches/59006407) |
+
+Sunday, 8 March 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| moosepi ![][flag_SG] | 2 | **7** | ![][flag_DE] **Malox** | [#1](https://osu.ppy.sh/community/matches/59037109) |
+
 ### Semifinals
 
 Saturday, 29 February 2020:
