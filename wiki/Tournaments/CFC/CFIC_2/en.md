@@ -74,14 +74,14 @@ The Catch French Intermediate Cup 2 is run by various community members.
 
 ## Match schedule: Finals
 
-Saturday, 14 March 2020
+Saturday, 14 March 2020:
 
 | Match ID | Player 1 |  |  | Player 2 | Match time (UTC) |
 | :-: | --: | :-: | :-: | :-- | :-: |
 | #1 | Fuka Pura | ![][flag_FR] | ![][flag_FR] | dracoV | **15:00** |
 | #2 | Dask | ![][flag_FR] | ![][flag_FR] | Kaleesy Pura | **17:00** |
 
-Sunday, 15 March 2020
+Sunday, 15 March 2020:
 
 | Match ID | Player 1 |  |  | Player 2 | Match time (UTC) |
 | :-: | --: | :-: | :-: | :-- | :-: |
