@@ -93,7 +93,7 @@ The Beginner's Taiko Tournament 5 is run by various community members.
 
 ### Grand Finals
 
-**[Download the mappack here! (89 MB)](https://mega.nz/#!PmxFGZiT!OP-7oyHKNDx-JNDIcDOCrSa9hLmBxpxwPaWoj7XnYeQ)**
+**[Download the mappack here! (103 MB)](https://mega.nz/#!PmxFGZiT!OP-7oyHKNDx-JNDIcDOCrSa9hLmBxpxwPaWoj7XnYeQ)**
 
 - NoMod
   - [Sasaki Sayaka - Marine Blue ni Sotte (El SolarBeam) \[Nardo's Oni\]](https://osu.ppy.sh/beatmapsets/182129#taiko/458209)
