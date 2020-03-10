@@ -54,8 +54,6 @@ The osu!taiko World Cup 2020 is run by various community members.
 
 ## Participants
 
-### Pending Rosters
-
 |  | Country | Members |
 | :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[gaston_2199](https://osu.ppy.sh/users/5938161)**, [BossPlays](https://osu.ppy.sh/users/7341471), [Axer](https://osu.ppy.sh/users/7299864), [EniAyuwoki](https://osu.ppy.sh/users/10956624) |
@@ -93,67 +91,53 @@ The osu!taiko World Cup 2020 is run by various community members.
 
 ---
 
-## Match Schedule: Group Stage
+## Match Schedule: Round of 16
 
-### Saturday, 7. March 2020
-
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| New Zealand | ![][flag_NZ] | ![][flag_GR] | Greece | **10:00 UTC** | 23:00 UTC+13 | 12:00 UTC+02 |
-| Poland | ![][flag_PL] | ![][flag_AU] | Australia | **10:00 UTC** | 11:00 UTC+01 | 21:00 UTC+11 |
-| South Korea | ![][flag_KR] | ![][flag_BE] | Belgium | **11:00 UTC** | 20:00 UTC+09 | 12:00 UTC+01 |
-| South Korea | ![][flag_KR] | ![][flag_PT] | Portugal | **12:00 UTC** | 21:00 UTC+09 | 12:00 UTC |
-| Taiwan | ![][flag_TW] | ![][flag_NL] | Netherlands | **12:00 UTC** | 20:00 UTC+08 | 13:00 UTC+01 |
-| Finland | ![][flag_FI] | ![][flag_ID] | Indonesia | **12:00 UTC** | 14:00 UTC+02 | 19:00 UTC+07 |
-| China | ![][flag_CN] | ![][flag_PH] | Philippines | **13:00 UTC** | 21:00 UTC+08 | 21:00 UTC+08 |
-| Italy | ![][flag_IT] | ![][flag_SG] | Singapore | **13:00 UTC** | 14:00 UTC+01 | 21:00 UTC+08 |
-| Poland | ![][flag_PL] | ![][flag_CO] | Colombia | **13:00 UTC** | 14:00 UTC+01 | 08:00 UTC-05 |
-| Russian Federation | ![][flag_RU] | ![][flag_MY] | Malaysia | **14:00 UTC** | 19:00 UTC+05 | 22:00 UTC+08 |
-| Germany | ![][flag_DE] | ![][flag_FI] | Finland | **14:00 UTC** | 15:00 UTC+01 | 16:00 UTC+02 |
-| France | ![][flag_FR] | ![][flag_AR] | Argentina | **16:00 UTC** | 17:00 UTC+01 | 13:00 UTC-03 |
-| Italy | ![][flag_IT] | ![][flag_CH] | Switzerland | **16:00 UTC** | 17:00 UTC+01 | 17:00 UTC+01 |
-| Sweden | ![][flag_SE] | ![][flag_GR] | Greece | **16:00 UTC** | 17:00 UTC+01 | 18:00 UTC+02 |
-| France | ![][flag_FR] | ![][flag_AT] | Austria | **17:00 UTC** | 18:00 UTC+01 | 18:00 UTC+01 |
-| Portugal | ![][flag_PT] | ![][flag_BE] | Belgium | **17:00 UTC** | 17:00 UTC | 18:00 UTC+01 |
-| Canada | ![][flag_CA] | ![][flag_DE] | Germany | **18:00 UTC** | 13:00 UTC-05 | 19:00 UTC+01 |
-| United States | ![][flag_US] | ![][flag_RU] | Russian Federation | **18:00 UTC** | 12:00 UTC-06 | 23:00 UTC+05 |
-| Brazil | ![][flag_BR] | ![][flag_SE] | Sweden | **19:00 UTC** | 16:00 UTC-03 | 20:00 UTC+01 |
-| United Kingdom | ![][flag_GB] | ![][flag_PL] | Poland | **19:00 UTC** | 19:00 UTC | 20:00 UTC+01 |
-| Switzerland | ![][flag_CH] | ![][flag_MX] | Mexico | **19:00 UTC** | 20:00 UTC+01 | 14:00 UTC-05 |
-| Canada | ![][flag_CA] | ![][flag_FI] | Finland | **19:00 UTC** | 14:00 UTC-05 | 21:00 UTC+02 |
-| Brazil | ![][flag_BR] | ![][flag_GR] | Greece | **21:00 UTC** | 18:00 UTC-03 | 23:00 UTC+02 |
-| Brazil | ![][flag_BR] | ![][flag_NZ] | New Zealand | **23:00 UTC** | 20:00 UTC-03 | 12:00 UTC+13 |
-
-### Sunday, 8. March 2020
+### Saturday, 14. March 2020
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| United States | ![][flag_US] | ![][flag_CL] | Chile | **01:00 UTC** | 19:00 (Sat.) UTC-06 | 22:00 (Sat.) UTC-03 |
-| Japan | ![][flag_JP] | ![][flag_AR] | Argentina | **02:00 UTC** | 11:00 UTC+09 | 23:00 (Sat.) UTC-03 |
-| Australia | ![][flag_AU] | ![][flag_CO] | Colombia | **02:00 UTC** | 13:00 UTC+11 | 21:00 (Sat.) UTC-05 |
-| United States | ![][flag_US] | ![][flag_MY] | Malaysia | **03:00 UTC** | 21:00 (Sat.) UTC-06 | 11:00 UTC+08 |
-| Singapore | ![][flag_SG] | ![][flag_MX] | Mexico | **03:00 UTC** | 11:00 UTC+08 | 22:00 (Sat.) UTC-05 |
-| Canada | ![][flag_CA] | ![][flag_ID] | Indonesia | **03:00 UTC** | 22:00 (Sat.) UTC-05 | 10:00 UTC+07 |
-| Sweden | ![][flag_SE] | ![][flag_NZ] | New Zealand | **10:00 UTC** | 11:00 UTC+01 | 23:00 UTC+013 |
-| United Kingdom | ![][flag_GB] | ![][flag_AU] | Australia | **10:00 UTC** | 10:00 UTC | 21 :00 UTC+11 |
-| Taiwan | ![][flag_TW] | ![][flag_PH] | Philippines | **11:00 UTC** | 19:00 UTC+08 | 19:00 UTC+08 |
-| Japan | ![][flag_JP] | ![][flag_AT] | Austria | **11:00 UTC** | 20:00 UTC+09 | 12:00 UTC+01 |
-| South Korea | ![][flag_KR] | ![][flag_ES] | Spain | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 |
-| China | ![][flag_CN] | ![][flag_NL] | Netherlands | **12:00 UTC** | 20:00 UTC+08 | 13:00 UTC+01 |
-| Singapore | ![][flag_SG] | ![][flag_CH] | Switzerland | **12:00 UTC** | 20:00 UTC+08 | 13:00 UTC+01 |
-| Japan | ![][flag_JP] | ![][flag_FR] | France | **13:00 UTC** | 22:00 UTC+09 | 14:00 UTC+01 |
-| Taiwan | ![][flag_TW] | ![][flag_CN] | China | **13:00 UTC** | 21:00 UTC+08 | 21:00 UTC+08 |
-| Germany | ![][flag_DE] | ![][flag_ID] | Indonesia | **13:00 UTC** | 14:00 UTC+01 | 20:00 UTC+07 |
-| Philippines | ![][flag_PH] | ![][flag_NL] | Netherlands | **14:00 UTC** | 22:00 UTC+08 | 15:00 UTC+01 |
-| Malaysia | ![][flag_MY] | ![][flag_CL] | Chile | **14:00 UTC** | 22:00 UTC+08 | 11:00 UTC-03 |
-| Spain | ![][flag_ES] | ![][flag_PT] | Portugal | **15:00 UTC** | 16:00 UTC+01 | 15:00 UTC |
-| Spain | ![][flag_ES] | ![][flag_BE] | Belgium | **16:00 UTC** | 17:00 UTC+01 | 17:00 UTC+01 |
-| Argentina | ![][flag_AR] | ![][flag_AT] | Austria | **16:00 UTC** | 13:00 UTC-03 | 17:00 UTC+01 |
-| United Kingdom | ![][flag_GB] | ![][flag_CO] | Colombia | **16:00 UTC** | 16:00 UTC | 11:00 UTC-05 |
-| Italy | ![][flag_IT] | ![][flag_MX] | Mexico | **17:00 UTC** | 18:00 UTC+01 | 12:00 UTC-05 |
-| Russian Federation | ![][flag_RU] | ![][flag_CL] | Chile | **17:00 UTC** | 22:00 UTC+05 | 14:00 UTC-03 |
+| Spain | ![][flag_ES] | ![][flag_DE] | Germany | **17:00 UTC** | 18:00 UTC+01 | 18:00 UTC+01 |
+| Italy | ![][flag_IT] | ![][flag_GB] | United Kingdom | **18:00 UTC** | 19:00 UTC+01 | 18:00 UTC |
+| France | ![][flag_FR] | ![][flag_BR] | Brazil | **19:00 UTC** | 20:00 UTC+01 | 16:00 UTC-03 |
+
+### Sunday, 15. March 2020
+
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| South Korea | ![][flag_KR] | ![][flag_CA] | Canada | **02:00 UTC** | 11:00 UTC+09 | 21:00 (Sat.) UTC-05 |
+| United States | ![][flag_US] | ![][flag_CN] | China | **03:00 UTC** | 21:00 (Sat.) UTC-06 | 11:00 UTC+08 |
+| Japan | ![][flag_JP] | ![][flag_SE] | Sweden | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 |
+| Russian Federation | ![][flag_RU] | ![][flag_TW] | Taiwan | **13:00 UTC** | 18:00 UTC+05 | 21:00 UTC+08 |
+| Singapore | ![][flag_SG] | ![][flag_PL] | Poland | **14:00 UTC** | 22:00 UTC+08 | 15:00 UTC+01 |
 
 ## Mappools
+
+### Round of 16
+
+- NoMod
+  - [Jeff Williams - I'm The One (feat. Casey Lee Williams) (Nofool) \[Oni\]](https://osu.ppy.sh/beatmapsets/571474#taiko/1211135)
+  - [Hakuryu - Genesis At Oasis (MOONLiGHT Mix) (DarkVortex) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1050217#taiko/2194841)
+  - [Sta - Finite (Slipstream mix) (tasuke912) \[Infinite\]](https://osu.ppy.sh/beatmapsets/657599#taiko/1392874)
+  - [paraoka - boot (mintong89) \[Oni\]](https://osu.ppy.sh/beatmapsets/1115403#taiko/2330207)
+  - [C-Show - ERROR CODE (HiroK) \[Reading Not Found\]](https://osu.ppy.sh/beatmapsets/751740#taiko/1582524)
+- Hidden
+  - [U1 overground - Dopamine (Genjuro) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1099728#taiko/2298656)
+  - [Keiichi Okabe, Keigo Hoashi - Fantastic Theater (Odeum of Illusions) (AxelHino) \[Oni\]](https://osu.ppy.sh/beatmapsets/209685#taiko/493520)
+- HardRock
+  - [Penoreri - Everlasting Message (ll-oscar) \[ll-taiko\]](https://osu.ppy.sh/beatmapsets/567944#taiko/1203700)
+  - [Ayatsugu_Otowa - Chouetsu Shite Shimatta Kanojo to Sore o Umi Otoshita Riyuu (-[ Dumpling ]-) \[TK'S Inner Oni\]](https://osu.ppy.sh/beatmapsets/455306#taiko/975943)
+- DoubleTime
+  - [KNOWER - Overtime (Zetera) \[Overtime Oni\]](https://osu.ppy.sh/beatmapsets/927890#taiko/1938084)
+  - [ALI - Wild Side (Ney) \[Inner Oni: Ailuropoda\]](https://osu.ppy.sh/beatmapsets/1090317#taiko/2279303)
+- FreeMod
+  - [xi - Aiolos (Kuo Kyoka) \[qoot8123's Inner Oni\]](https://osu.ppy.sh/beatmapsets/801154#taiko/1681764)
+  - [Endorfin. - Luminous Rage -Feryquitous OrderBless Remix- (SKSalt) \[Toxic Oni\]](https://osu.ppy.sh/beatmapsets/942719#taiko/1968638)
+  - [ARForest - Metheus (Arrival) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/662696#taiko/1402746)
+- Tiebreaker
+  - **[Dyglone - The SakuraCore (The SakuraCore) (SKSalt) \[Sakura Burst\]](https://osu.ppy.sh/beatmapsets/942722#taiko/1968641)**
+
+### Group Stage
 
 - NoMod
   - [Tyrfing - Verflucht (MMzz) \[Leggendaria\]](https://osu.ppy.sh/beatmapsets/934209#taiko/1950426)
@@ -175,6 +159,66 @@ The osu!taiko World Cup 2020 is run by various community members.
   - [Ally Brooke & A Boogie Wit da Hoodie - Lips Don't Lie (R3HAB Remix) (-OvO-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1062662#taiko/2225336)
 - Tiebreaker
   - **[Chroma - Dark Sheep (Midnaait) \[Hitsujin\]](https://osu.ppy.sh/beatmapsets/987588#taiko/2065913)**
+
+---
+
+## Match Results
+
+### Group Stage
+
+| Saturday, 2020-03-07 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **New Zealand** ![][flag_NZ] | **5** | 4 | ![][flag_GR] Greece | [#1](https://osu.ppy.sh/community/matches/58989241) |
+| **Poland** ![][flag_PL] | **5** | 0 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/58989346) |
+| **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_BE] Belgium | [#1](https://osu.ppy.sh/community/matches/58990567) |
+| **South Korea** ![][flag_KR] | **5** | 1 | ![][flag_PT] Portugal | [#1](https://osu.ppy.sh/community/matches/58991577) |
+| **Taiwan** ![][flag_TW] | **5** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/58991613) |
+| **Finland** ![][flag_FI] | **5** | 0 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/58991777) |
+| **China** ![][flag_CN] | **5** | 2 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/58993225) |
+| Italy ![][flag_IT] | 2 | **5** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/58993179) |
+| **Poland** ![][flag_PL] | **5** | 1 | ![][flag_CO] Colombia | [#1](https://osu.ppy.sh/community/matches/58993200) |
+| **Russian Federation** ![][flag_RU] | **5** | 3 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/58994950) |
+| **Germany** ![][flag_DE] | **5** | 1 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/58995010) |
+| **France** ![][flag_FR] | **5** | 0 | ![][flag_AR] Argentina | *-win by default-* |
+| **Italy** ![][flag_IT] | **5** | 0 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/58998677) |
+| **Sweden** ![][flag_SE] | **5** | 1 | ![][flag_GR] Greece | [#1](https://osu.ppy.sh/community/matches/58998727) |
+| **France** ![][flag_FR] | **5** | 0 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/59000572) |
+| **Portugal** ![][flag_PT] | **5** | 0 | ![][flag_BE] Belgium | [#1](https://osu.ppy.sh/community/matches/59000566) |
+| Canada ![][flag_CA] | 1 | **5** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/59002485) |
+| **United States** ![][flag_US] | **5** | 0 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/59002389) |
+| **Brazil** ![][flag_BR] | **5** | 0 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/59004519) |
+| **United Kingdom** ![][flag_GB] | **5** | 0 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/59004386) |
+| **Switzerland** ![][flag_CH] | **5** | 1 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/59004415) |
+| **Canada** ![][flag_CA] | **5** | 1 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/59004558) |
+| **Brazil** ![][flag_BR] | **5** | 0 | ![][flag_GR] Greece | *-win by default-* |
+| **Brazil** ![][flag_BR] | **5** | 0 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/59011775) |
+
+| Sunday, 2020-03-08 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **United States** ![][flag_US] | **5** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/59013785) |
+| **Japan** ![][flag_JP] | **5** | 0 | ![][flag_AR] Argentina | *-win by default-* |
+| **Australia** ![][flag_AU] | **5** | 0 | ![][flag_CO] Colombia | [#1](https://osu.ppy.sh/community/matches/59014785) |
+| **United States** ![][flag_US] | **5** | 1 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/59015832) |
+| **Singapore** ![][flag_SG] | **5** | 0 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/59015844) |
+| **Canada** ![][flag_CA] | **5** | 1 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/59015850) |
+| **Sweden** ![][flag_SE] | **5** | 2 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/59023350) |
+| **United Kingdom** ![][flag_GB] | **5** | 0 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/59023360) |
+| **Japan** ![][flag_JP] | **5** | 0 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/59024397) |
+| **Taiwan** ![][flag_TW] | **5** | 0 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/59024442) |
+| **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/59025556) |
+| **China** ![][flag_CN] | **5** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/59025565) |
+| **Singapore** ![][flag_SG] | **5** | 0 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/59025550) |
+| **Japan** ![][flag_JP] | **5** | 1 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/59026973) |
+| **Taiwan** ![][flag_TW] | **5** | 3 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/59026954) |
+| **Germany** ![][flag_DE] | **5** | 0 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/59027001) |
+| **Philippines** ![][flag_PH] | **5** | 1 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/59028734) |
+| **Malaysia** ![][flag_MY] | **5** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/59028730) |
+| **Spain** ![][flag_ES] | **5** | 1 | ![][flag_PT] Portugal | [#1](https://osu.ppy.sh/community/matches/59030343) |
+| **Spain** ![][flag_ES] | **5** | 0 | ![][flag_BE] Belgium | [#1](https://osu.ppy.sh/community/matches/59031956) |
+| Argentina ![][flag_AR] | 0 | **5** | ![][flag_AT] **Austria** | *-win by default-* |
+| **United Kingdom** ![][flag_GB] | **5** | 0 | ![][flag_CO] Colombia | *-win by default-* |
+| **Italy** ![][flag_IT] | **5** | 0 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/59033544) |
+| **Russian Federation** ![][flag_RU] | **5** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/59033519) |
 
 ---
 
