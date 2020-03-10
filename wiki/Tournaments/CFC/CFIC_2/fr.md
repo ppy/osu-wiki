@@ -74,6 +74,33 @@ La Catch French Intermediate Cup 2 est gérée par différents membres de la com
 
 ## Liste des maps
 
+### Finales
+
+- NoMod
+  - [Erik McClure - The Last Dead Angel (Kyuare) \[Ange\]](https://osu.ppy.sh/beatmapsets/574923#fruits/1217571)
+  - [DJ TOTTO feat. Enako - Precious \* Star (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/776495#fruits/1631467)
+  - [REDALiCE vs. MASAKI - BUCHiGiRE Berserker (Bunnrei) \[INSANE\]](https://osu.ppy.sh/beatmapsets/1074448#fruits/2249908)
+  - [sana - Miraizu (Lasse) \[Forever\]](https://osu.ppy.sh/beatmapsets/378196#fruits/890467)
+  - [toby fox - MEGALOVANIA (Kyshiro) \[Burn\]](https://osu.ppy.sh/beatmapsets/387700#fruits/846105)
+  - [LeaF - Euphoric Orchid Dance (Zetera) \[Zetera's Super Hard\]](https://osu.ppy.sh/beatmapsets/431102#fruits/929941)
+- Hidden
+  - [P\*Light - FUNKY SUMMER BEACH (alienflybot) \[Rain\]](https://osu.ppy.sh/beatmapsets/807977#fruits/1695597)
+  - [kors k - Playing With Fire (Sota Fujimori Remix) (Ascendance) \[White Hard\]](https://osu.ppy.sh/beatmapsets/683343#fruits/1577675)
+  - [Kero Kero Bonito - Flyway (Hectic) \[Toy's Insane\]](https://osu.ppy.sh/beatmapsets/969578#fruits/2161385)
+  - [Tezuka feat. Oonishi Amimi - Bokura no Jikan (celerih) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/928650#fruits/1939646)
+- HardRock
+  - [FOLiACETATE - Heterochromia Iridis (Deif) \[Platter\]](https://osu.ppy.sh/beatmapsets/833719#fruits/2170652)
+  - [Ray - Nagi (mingmichael) \[Rain\]](https://osu.ppy.sh/beatmapsets/146008#fruits/361907)
+  - [Shimotsuki Haruka - Tsubasa o Motanai Shoujo (Dored) \[Blue Bird\]](https://osu.ppy.sh/beatmapsets/883825#fruits/1847491)
+  - [FF7 Original Soundtrack - Crazy Motorcycle Chase (James) \[Crazy!\]](https://osu.ppy.sh/beatmapsets/1961#fruits/18170)
+- DoubleTime
+  - [Neru - Byoumei Wa Ai Datta (Ellyu) \[Rew's Platter\]](https://osu.ppy.sh/beatmapsets/684960#fruits/2203059)
+  - [siromaru + cranky - conflict (Bunnrei) \[Platter\]](https://osu.ppy.sh/beatmapsets/981762#fruits/2055786)
+  - [Nightwish - Planet Hell (Sieg) \[Insane\]](https://osu.ppy.sh/beatmapsets/167077#fruits/405955)
+  - [Lacuna Coil - Spellbound (narakucrimson) \[Insane\]](https://osu.ppy.sh/beatmapsets/41992#fruits/138033)
+- Tiebreaker
+  - **[Erik "Jit" Scheele - Negastrife (lulu lemon) \[Depths\]](https://osu.ppy.sh/beatmapsets/653765#fruits/1385813)**
+
 ### Demi-finales
 
 **[Download the mappack here! (104 MB)](https://mega.nz/#!EoUACIDC!dXQH5hLj9EY-Y7VfvZeoyEPSC5Bz0-2BXezoSyeN7ik)**
