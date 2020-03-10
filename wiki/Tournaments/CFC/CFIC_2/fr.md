@@ -17,9 +17,9 @@ La **Catch French Intermediate Cup 2** (***CFIC 2***) est un tournoi 1v1 frança
 | Phase d'inscription | 2020-01-18/2020-02-02 |
 | Live drawings | 2020-02-07 (22:00 UTC+2) |
 | Qualifications | 2020-02-15/2020-02-16 |
-| Phase de poules | 2020-02-22 |
-| Quarts-de-finale | 2020-02-29 |
-| Demi-finales | 2020-03-07 |
+| Phase de poules | 2020-02-22/2020-02-23 |
+| Quarts-de-finale | 2020-02-29/2020-03-01 |
+| Demi-finales | 2020-03-07/2020-03-08 |
 | Finales | 2020-03-14 |
 | Grandes Finales | 2020-03-21 |
 
@@ -164,6 +164,22 @@ La Catch French Intermediate Cup 2 est gérée par différents membres de la com
 
 ## Résultats des matches
 
+### Demi-finales
+
+Samedi, 7 Mars 2020:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| **Fuka Pura** ![][flag_FR] | **0** | -1 | ![][flag_FR] Electr0o | *win by default* |
+
+Dimanche, 8 Mars 2020:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| Dask ![][flag_FR] | 3 | **6** | ![][flag_FR] **dracoV** | [#1](https://osu.ppy.sh/community/matches/59027737) |
+| Electr0o ![][flag_FR] | -1 | **0** | ![][flag_FR] **Kaleesy Pura** | *win by default* |
+| **Dask** ![][flag_FR] | **6** | 3 | ![][flag_FR] Khalemm | [#1](https://osu.ppy.sh/community/matches/59029583) |
+
 ### Quarts-de-finale
 
 Samedi, 29 Février 2020:
@@ -173,7 +189,7 @@ Samedi, 29 Février 2020:
 | **Fuka Pura** ![][flag_FR] | **5** | 2 | ![][flag_FR] Pizu | [#1](https://osu.ppy.sh/community/matches/58813792) |
 | **Dask** ![][flag_FR] | **5** | 3 | ![][flag_FR] NinjaCoktail | [#1](https://osu.ppy.sh/community/matches/58816562) |
 
-Dimanche, 1 March 2020:
+Dimanche, 1 Mars 2020:
 
 | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |

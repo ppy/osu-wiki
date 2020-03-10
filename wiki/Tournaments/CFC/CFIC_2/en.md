@@ -17,9 +17,9 @@ The **Catch French Intermediate Cup 2** (***CFIC 2***) is an intermediate French
 | Registration phase | 2020-01-18/2020-02-02 |
 | Live drawings | 2020-02-07 (22:00 UTC+2) |
 | Qualifiers | 2020-02-15/2020-02-16 |
-| Group Stage | 2020-02-22 |
-| Quarterfinals | 2020-02-29 |
-| Semifinals | 2020-03-07 |
+| Group Stage | 2020-02-22/2020-02-23 |
+| Quarterfinals | 2020-02-29/2020-03-01 |
+| Semifinals | 2020-03-07/2020-03-08 |
 | Finals | 2020-03-14 |
 | Grand Finals | 2020-03-21 |
 
@@ -163,6 +163,22 @@ The Catch French Intermediate Cup 2 is run by various community members.
   - [TiA - Ryuusei (Dangaard) \[Hard\]](https://osu.ppy.sh/beatmapsets/10960#fruits/42241)
 
 ## Match results
+
+### Semifinals
+
+Saturday, 7 March 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Fuka Pura** ![][flag_FR] | **0** | -1 | ![][flag_FR] Electr0o | *win by default* |
+
+Sunday, 8 March 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Dask ![][flag_FR] | 3 | **6** | ![][flag_FR] **dracoV** | [#1](https://osu.ppy.sh/community/matches/59027737) |
+| Electr0o ![][flag_FR] | -1 | **0** | ![][flag_FR] **Kaleesy Pura** | *win by default* |
+| **Dask** ![][flag_FR] | **6** | 3 | ![][flag_FR] Khalemm | [#1](https://osu.ppy.sh/community/matches/59029583) |
 
 ### Quarterfinals
 
