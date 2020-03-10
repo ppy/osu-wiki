@@ -106,6 +106,37 @@ The Yuri Cup is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here! (166 MB)](https://mega.nz/#!aeBUQIxR!ubNS6YQKzc6TxYj52bS-2zpQuO3UD2Y8jBtCrv8snPc)**
+
+- NoMod
+  - [Nanamori-chu \* Goraku-bu - Happy Time wa Owaranai (deadcode) \[Expert\]](https://osu.ppy.sh/beatmapsets/935707#osu/1954858)
+  - [kooky - unhappy century (ktgster) \[Overjoy\]](https://osu.ppy.sh/beatmapsets/295518#osu/663889)
+  - [Kairiki bear feat. GUMI, Kagamine Rin - Inai Inai Isonshou (Wanko) \[Addiction\]](https://osu.ppy.sh/beatmapsets/932530#osu/1946996)
+  - [Zekk - Feelsleft0ut (J1\_) \[Alone\]](https://osu.ppy.sh/beatmapsets/821587#osu/1722011)
+  - [kamome sano Electric Orchestra - HE4VEN \~Tengoku e Youkoso\~ (Kawashiro) \[toybot's HEAVENLY\]](https://osu.ppy.sh/beatmapsets/597797#osu/1349478)
+  - [Foxblood - Bittersweet (Osatia) \[Extreme\]](https://osu.ppy.sh/beatmapsets/710922#osu/1564055)
+- Hidden
+  - [Tricot - POOL (dsco) \[Lover\]](https://osu.ppy.sh/beatmapsets/854942#osu/1786452)
+  - [PSYQUI feat. Such - Your voice so... (Livia) \[Future\]](https://osu.ppy.sh/beatmapsets/765357#osu/1609215)
+  - [Masubuchi Yuuji - Shimedore 2000 (DakeDekaane) \[Oni\]](https://osu.ppy.sh/beatmapsets/171340#osu/414516)
+- HardRock
+  - [S3RL - Ravers MashUp (Nuvolina) \[Rave Forever\]](https://osu.ppy.sh/beatmapsets/912916#osu/1907051)
+  - [Noah - Celestial stinger (Kroytz) \[1112's INFINITE\]](https://osu.ppy.sh/beatmapsets/687129#osu/1454082)
+  - [Becky - Less Than Three (Ricardo Autobahn Remix) (Sonnyc) \[Expert\]](https://osu.ppy.sh/beatmapsets/1078502#osu/2256655)
+- DoubleTime
+  - [senya - Zouka de Arou to Shita Mono (Satellite) \[Giralda's Lunatic\]](https://osu.ppy.sh/beatmapsets/495283#osu/1107464)
+  - [Hatsune Miku - Netoge Haijin Sprechchor (Lalarun) \[Insane\]](https://osu.ppy.sh/beatmapsets/25802#osu/87369)
+  - [FELT - The Sun and Moon (Sylvarus) \[More Than Words Can Say\]](https://osu.ppy.sh/beatmapsets/1036438#osu/2167038)
+  - [EeL - 777 (Takuma) \[Insane\]](https://osu.ppy.sh/beatmapsets/5690#osu/27368)
+- FreeMod
+  - [Kimunyu - Snow halation (REDSHiFT Remix) (Gaia) \[BiBi Extra\]](https://osu.ppy.sh/beatmapsets/429540#osu/1865251)
+  - [Morimori Atsushi - MilK (s0m3guy) \[Milk\]](https://osu.ppy.sh/beatmapsets/893375#osu/1879005)
+  - [sasakure.UK - Jack-the-Ripper (Sprosive) \[ReMiX\]](https://osu.ppy.sh/beatmapsets/23907#osu/94264)
+- Tiebreaker
+  - **[goreshit - game over. (Hectic) \[the end\]](https://osu.ppy.sh/beatmapsets/986213#osu/2314855)**
+
 ### Round of 16
 
 **[Download the mappack here! (135 MB)](https://mega.nz/#!rU0VmADK!ZrKe9THLFBW5rjSULGu2AkRDAhQfYvXQyRAeRWLiFwc)**
