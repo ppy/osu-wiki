@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Pessoal
 
 Índice para artigos sobre pessoas ou grupos.

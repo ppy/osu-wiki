@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Colaboradores da Comunidade
 
 ![Contributor Badge](/wiki/shared/contributor.jpg "Contributor Badge")
