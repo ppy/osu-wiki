@@ -1568,3 +1568,9 @@
 
 # Renamed CFC 2 to CFC 2018
 "tournaments/cfc/2": "Tournaments/CFC/2018"
+
+# Shortcuts for Mappers' Guild
+"guild":          "Mappers_Guild"
+"mapper's_guild": "Mappers_Guild"
+"mappers'_guild": "Mappers_Guild"
+"mg":             "Mappers_Guild"
