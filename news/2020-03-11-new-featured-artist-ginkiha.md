@@ -56,9 +56,9 @@ Check out [this set from the Mappers' Guild](https://osu.ppy.sh/beatmapsets/1110
 
 ---------
 
-All of the above plus so, so much more are ready and waiting for you over at [**ginhika**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/72), so grab your things and set off into your next round of mapping adventures today, totally worry free. 100% free for use in mapping in osu!, forever.
+All of the above plus so, so much more are ready and waiting for you over at [**ginkiha**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/72), so grab your things and set off into your next round of mapping adventures today, totally worry free. 100% free for use in mapping in osu!, forever.
 
-Nobody gets a hint call-out this week because it wasn't *just* easy, it was practically a special announcement before the fact! **ginhika** has been a hugely requested artist for a long time, and we're super excited to have finally made it all official, and in the process, to have paid homage to some of the best creations the game has ever seen.
+Nobody gets a hint call-out this week because it wasn't *just* easy, it was practically a special announcement before the fact! **ginkiha** has been a hugely requested artist for a long time, and we're super excited to have finally made it all official, and in the process, to have paid homage to some of the best creations the game has ever seen.
 
 We've still got several months of artists in wings just ready and waiting to go, courtesy of pishifat's never-ending efforts to sling deals with every artist on the planet. Check back this time next week for another taste, and maybe even visit the [@osugame Twitter](https://twitter.com/osugame) mid-week for more news and a sneaky hint or two, if that's your deal.
 
