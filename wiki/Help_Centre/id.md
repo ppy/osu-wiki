@@ -88,6 +88,7 @@ Jika Anda ingat alamat email yang terlampir pada akun Anda, coba kunjungi [laman
 Jika Anda lupa kata sandi akun Anda dan tidak menerima email mengenai pemulihan kata sandi, atau Anda benar-benar tidak dapat mengingat alamat email mana yang Anda gunakan, silakan hubungi kami di [accounts@ppy.sh](mailto:accounts@ppy.sh). Informasi apa pun yang Anda miliki yang berhubungan dengan akun Anda (nama pengguna Anda, screenshot apa pun yang menunjukkan Anda mencoba masuk ke klien, transaksi sebelumnya melalui toko atau pembayaran osu!supporter, dll.) Akan sangat membantu!
 
 Terakhir, kami menyadari bahwa beberapa layanan penyedia email tidak dapat menerima email otomatis dari kami. Jika Anda menggunakan salah satu layanan penyedia ini, silakan hubungi kami melalui email dan kami akan mengubah alamat email untuk Anda:
+
 - `att.net`
 - `bellsouth.net`
 - `free.fr`
@@ -156,7 +157,7 @@ Kami tidak akan pernah menampilkan informasi ini kepada orang lain, dan kami men
 
 #### Dapatkah saya membuat lebih dari satu akun?
 
-**Sayangnya, tidak, Anda tidak dapat membuat lebih dari satu akun**
+**Sayangnya, tidak, Anda tidak dapat membuat lebih dari satu akun.**
 
 Jika kami mengizinkan semua orang untuk membuat Akun baru dan bermain di banyak akun, peringkat papan skor akan menjadi tidak bernilai!
 
@@ -190,7 +191,7 @@ Jika Anda memiliki supporter tag aktif, Anda dapat melihat semua map yang telah 
 
 Sayangnya, kami tidak dapat melacak semua map yang telah diunduh pengguna, jadi tidak mungkin untuk melihat daftarnya. Yang paling dekat dengan permintaan Anda adalah menggunakan filter yang disebutkan di atas untuk memulihkan setidaknya map yang telah Anda mainkan sebelumnya.
 
-----------------------------------------------------------------------------
+---
 
 ## Klien
 
@@ -317,7 +318,7 @@ Jika Anda bermain online dan mengalami pemutusan singkat karena alasan apa pun, 
 ##### Apakah Anda baru saja mengunduh map dalam jumlah besar? (misalnya: paket atau bundel beatmap)
 
 **Skor terkadang membutuhkan waktu lebih untuk mengunduh dari server jika Anda memuat banyak map baru yang dimuat sekaligus.**
- 
+
 Main game atau melakukan sesuatu yang lain akan membiarkan klien mengejar ketinggalan di latar belakang.
 
 #### Apa jejak putih atau garis asap yang berada di belakang kursor saya ini?
@@ -348,7 +349,7 @@ Ups! Ada beberapa alasan mengapa hal ini bisa terjadi. Mari kita bahas potensial
 
 ##### Apakah Anda terhubung ke Internet saat bermain?
 
-**Jika Anda tidak dapat mengakses internet ketika menyelesaikan skor Anda, kemungkinan besar skor tidak akan dikirim**
+**Jika Anda tidak dapat mengakses internet ketika menyelesaikan skor Anda, kemungkinan besar skor tidak akan dikirim.**
 
 Hal ini bisa membuat frustrasi jika Anda bermain pada koneksi yang tidak stabil, meskipun permainan akan mencoba yang terbaik untuk mengirimkan kembali skor Anda selama Anda meninggalkan klien terbuka.
 
@@ -366,7 +367,7 @@ Coba tutup semua program ekstra yang tidak Anda butuhkan sebelum bermain osu! ji
 
 ##### Apakah server untuk pengiriman skor online?
 
-**Jawabannya hampir selalu online, tapi periksa [​stat.ppy.sh](https://stat.ppy.sh)​ atau ​[Twitter @osustatus]​(https://twitter.com/osustatus) untuk memastikan semuanya berjalan lancar sesuai prosedur.**
+**Jawabannya hampir selalu online, tapi periksa [​stat.ppy.sh](https://stat.ppy.sh)​ atau ​[Twitter @osustatus](https://twitter.com/osustatus) untuk memastikan semuanya berjalan lancar sesuai prosedur.**
 
 Jika server sedang offline, jangan tutup osu! sampai kami memperbaiki masalah dan server kembali online, dan game akan mencoba mengirimkan skor Anda lagi hingga satu jam sebelum akhirnya berhenti.
 
@@ -393,7 +394,7 @@ Nilai default sudah cukup untuk kebanyakan orang, tetapi jika Anda memang nilai 
 #### Saya mengalami banyak lag atau stuttering saat bermain!
 
 **Ada banyak alasan mengapa permainan dapat berjalan tidak konsisten, mulai dari program di komputer Anda, driver yang kedaluwarsa, atau hanya memiliki beberapa pengaturan yang terlalu tinggi untuk perangkat Anda.**
- 
+
 ##### Apakah Anda memiliki banyak program yang terbuka pada saat yang sama saat bermain osu!?
 
 **Beberapa proses latar belakang (background) dapat bertarung dengan osu!​ demi memori atau sumber lainnya yang dipakai dan membuat permainan sangat tidak menyenangkan untuk dimainkan.**
@@ -522,7 +523,7 @@ Ikuti langkah-langkah ini untuk memulihkan osu! ke pengaturan bawaannya:
 3. Tahan terus `​Shift​` sampai Anda melihat dialog pemulihan osu! tampil.
 4. Saat ​dialog `osu! configuration`​ terbuka, klik tombol `​reset settings`.
 5. Jika Anda masih belum beruntung memecahkan masalahnya, buka kembali dialog dan klik `​repair osu!​`.
-   
+
 #### Saya menjadi supporter tetapi nama saya tidak kuning dalam game!
 
 **Anda akan selalu terlihat putih jika Anda melihat dari klien Anda sendiri.​ ​Jangan khawatir, pengguna lain akan melihat warna kuning yang luar biasa dari nama Anda dari klien mereka!**
@@ -530,6 +531,8 @@ Ikuti langkah-langkah ini untuk memulihkan osu! ke pengaturan bawaannya:
 Hal ini akan membantu mengidentifikasi pesan Anda sendiri dari orang lain. Saat ini tidak ada opsi untuk menonaktifkannya.
 
 ### Perihal Kinerja (Performance)
+
+#### Common issues
 
 ##### Bagaimana saya bisa membuat osu! berjalan lebih ringan apalagi jika komputer saya terlalu panas?
 
@@ -634,9 +637,11 @@ Kebanyakan paket beatmap yang tersedia menggunakan format file `​.rar`, yang b
 
 Setelah semua file ​`.osz​` di dalam paket berada di direktori Lagu (Songs), tekan ​`F5`​ di menu pemilihan lagu dan osu! akan me-refresh cache beatmap permainan dan memuat lagu baru Anda ke dalam game.
 
-----------------------------------------------------------------------------
+---
 
 ## Situs web
+
+### Common issues
 
 #### Sudah lebih dari 2 minggu dan saya masih belum menerima balasan mengenai tiket dukungan saya!
 
@@ -738,7 +743,7 @@ Cukup ketikkan nama artis yang Anda cari ke Google Custom Search bar dan biarkan
 
 Jika Anda tidak aktif selama jangka waktu yang panjang dan statistik Anda ditampilkan salah, mainkan beberapa map untuk menampilkannya lagi. Pengguna yang tidak aktif dapat menyembunyikan skor mereka untuk menjaga peringkat tetap fresh.
 
-----------------------------------------------------------------------------
+---
 
 ## Instalasi dan Registrasi
 
@@ -780,14 +785,16 @@ Pastikan Anda mengautentikasi segera setelah membuatnya!
 **Hal ini dapat terjadi ketika Anda menggunakan koneksi internet bersama (shared), proxy, atau VPN.**
 
 Coba gunakan proxy atau penyedia VPN lain - jika semuanya gagal, kirim tiket dukungan melalui email ke [​accounts@ppy.sh](mailto:accounts@ppy.sh).
- 
+
 Jika Anda tidak menggunakan salah satu dari yang disebutkan di atas, maka Anda harus mengirimkan tiket dukungan, karena koneksi Anda kemungkinan telah masuk daftar hitam (blacklist) karena kesalahan tertentu.
 
 Tor atau jaringan yang terkait dengan relay Tor tidak akan terhubung ke server game dalam kebanyakan kasus. Usaha ini untuk menghindari penggunaan tidak baik.
 
-----------------------------------------------------------------------------
+---
 
 ## Beatmapping and Editor
+
+### Common issues
 
 #### Bagaimana cara saya mengunggah/memperbarui map saya?
 
@@ -821,7 +828,7 @@ Anda dapat menghapus beatmap Anda sendiri dengan menunggu dan dimasukkan ke Beat
 
 Setelah beatmap Anda berada di Graveyard, Anda dapat menghapusnya sendiri dengan mengklik tombol `Delete` yang muncul di sebelah tautan beatmap.
 
-----------------------------------------------------------------------------
+---
 
 ## osu!store and merchandise
 
@@ -953,9 +960,11 @@ Ekstrak arsip yang kami minta Anda untuk unduh sebelumnya (osu!go.zip) ke drive 
 
 Jika Anda mengalami masalah dengan proses ini, silakan kirim email ke [​store@ppy.sh​](mailto:store@ppy.sh) dan dengan senang hati kami akan membantu Anda.
 
-----------------------------------------------------------------------------
+---
 
 ## Penyelesaian masalah
+
+### Common issues
 
 #### Apa itu 'file log' dan bagaimana cara membuatnya?
 

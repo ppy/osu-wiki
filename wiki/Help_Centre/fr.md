@@ -72,6 +72,7 @@ Si vous vous souvenez de l'adresse e-mail liée à votre compte, ou du moins vou
 Si vous avez perdu le mot de passe de votre compte et que vous ne recevez aucun e-mail de récupération de mot de passe, ou que vous ne pouvez pas retrouver l'adresse e-mail que vous avez utilisé, veuillez contacter [accounts@ppy.sh](mailto:accounts@ppy.sh). N'importe quelle information que vous avez à propos de votre compte (votre nom d'utilisateur, n'importe quelle capture d'écran qui vous montre connecté au client, des transactions passées dans le magasin ou un paiement de supporter, etc...) sera très utile !
 
 Enfin, nous savons que certains fournisseurs n'acceptent pas d'e-mails automatiques venant de nous. Si vous utilisez l'un de ces fournisseurs, veuillez nous contacter par e-mail et nous changerons votre adresse e-mail pour vous:
+
 - `att.net`
 - `bellsouth.net`
 - `free.fr`
@@ -308,7 +309,7 @@ Jouer ou faire autre chose permet au jeu de se rattraper.
 
 #### Quel est ce trait blanc ressemblant à de la fumée derrière mon curseur ?
 
-**C'est une fonctionnalité spéciale appelée _smoke_, elle peut être utilisée pour dessiner sur votre aire de jeu pour le fun. Tous les spectateurs peuvent voir ce que vous dessinez.**
+**C'est une fonctionnalité spéciale appelée *smoke*, elle peut être utilisée pour dessiner sur votre aire de jeu pour le fun. Tous les spectateurs peuvent voir ce que vous dessinez.**
 
 La touche par défaut pour cette fonctionnalité est `C`, et cela fonctionnera tant que vous maintenez la touche enfoncée. Vous pouvez la changer dès que vous le souhaitez dans la section `osu! Standard Mode` dans le dialogue d'option `Changer les touches`.
 
@@ -364,7 +365,7 @@ Si vous n'avez pas pu poster un score à cause de raisons techniques ou autre, l
 
 #### Les notes semblent être désynchronisées avec la musique !
 
-**Cela peut être dû à un logiciel de traitement de son, comme _Razer Surround Audio_. Cela peut être aussi dû à votre `Décalage Audio` mal configuré.**
+**Cela peut être dû à un logiciel de traitement de son, comme *Razer Surround Audio*. Cela peut être aussi dû à votre `Décalage Audio` mal configuré.**
 
 Fermez tous les logiciels qui peuvent altérer ou influencer le son provenant de votre ordinateur. Si ça n'aide pas, vous pouvez essayer d'ajuster votre `Décalage Audio`.
 
@@ -412,7 +413,7 @@ La solution est simple: débranchez votre hub USB. Si la latence disparaît, vou
 
 #### Est-ce qu'osu! tourne en mode fenêtré ou sans bordures ?
 
-**Ces deux modes introduisent un délai _considérable_. Le plein écran est optimal pour la meilleure expérience de jeu.**
+**Ces deux modes introduisent un délai *considérable*. Le plein écran est optimal pour la meilleure expérience de jeu.**
 
 ##### Est-ce que votre jeu gèle ou quelque chose comme ça ?
 
@@ -435,8 +436,8 @@ Si le problème ne se corrige pas tout seul, un redémarrage ne serait pas de tr
 Ne vous inquiétez pas, ça ne fait rien de mal (même si c'est pas beau !). Ça arrive quand le taux de rafraîchissement du jeu n'est pas synchronisé avec celui de votre moniteur.
 
 Vous pouvez aussi jouer en mode fenêtré ou sans bordure, ce qui utilisera le VSync de votre système d'exploitation.
- 
-Activer le VSync ou jouer en mode fenêtré ou sans bordure introduira une _légère_ latence, malheureusement. Pour la plupart des gens, cela ne causera pas de gros problèmes.
+
+Activer le VSync ou jouer en mode fenêtré ou sans bordure introduira une *légère* latence, malheureusement. Pour la plupart des gens, cela ne causera pas de gros problèmes.
 
 Les cartes graphiques Nvidia récentes ont une option globale dans le Panneau de Contrôle Nvidia pour définir le taux de refraîchissement global, vous pouvez le mettre sur 'Fast', ce qui corrigera aussi ce problème.
 
@@ -480,8 +481,8 @@ Veuillez consulter la [base de connaissances officielle de McAfee sur le sujet](
 
 Si vous avez toujours des problèmes de connexion à nos serveurs, vous pouvez soumettre un ticket au support en envoyant un e-mail à [accounts@ppy.sh](mailto:accounts@ppy.sh). Les informations suivantes nous aiderons à résoudre votre problème rapidement:
 
-* Le journal de sortie de la commande `tracert` pour les serveurs `cho.ppy.sh`, `osu.ppy.sh` and `m1.ppy.sh` (voir les instructions ci-dessous)
-* Le fichier `network.log` du dossier `Logs` situé dans le dossier d'installation d'osu!
+- Le journal de sortie de la commande `tracert` pour les serveurs `cho.ppy.sh`, `osu.ppy.sh` and `m1.ppy.sh` (voir les instructions ci-dessous)
+- Le fichier `network.log` du dossier `Logs` situé dans le dossier d'installation d'osu!
 
 ##### Faire un suivi pour trouver les problèmes de connexion
 
@@ -508,7 +509,7 @@ Suivez ces étapes pour réinitialiser les paramètres d'osu! :
 3. Continuez de maintenir `Shift` jusqu'à ce que vous voyiez le dialogue de configuration d'osu!.
 4. Lorsque le dialogue `osu! configuration` s'ouvre, cliquez sur le bouton `reset settings`.
 5. Si cela ne fonctionne toujours pas, rouvrez le dialogue et cliquez sur `repair osu!`.
-   
+
 #### Je suis devenu supporter mais mon nom n'est pas jaune dans le chat !
 
 **Vous apparaîtrez toujours blanc pour vous-même. Les autres vous verront dans un glorieux jaune !**
@@ -596,7 +597,7 @@ Pour l'activer, essayez les étapes suivantes:
 
 **Vous pouvez régler ce problème en définissant une plus petite zone sur votre appareil.**
 
-Sur la plupart des tablettes Wacom, cela peut être fait via l'onglet `Mapping` de l'application `Wacom Tablet Properties`. 
+Sur la plupart des tablettes Wacom, cela peut être fait via l'onglet `Mapping` de l'application `Wacom Tablet Properties`.
 
 ![Option d'une tablette Wacom montrant les options de Mapping](img/Tabarea.png "Interface pour changer la surface de la tablette pour les appareils Wacom")
 
@@ -625,6 +626,8 @@ Une fois que tous les fichiers `.osz` sont dans le dossier Songs, Appuyez sur `F
 ---
 
 ## Site Web
+
+### Common issues
 
 #### Je n'ai pas reçu de réponse à mon ticket au support depuis 2 semaines !
 
@@ -656,7 +659,7 @@ Dans le cas où un autre utilisateur vous harcèle via messages privés, forums 
 
 1. Cliquez sur le bouton d'options en jeu
 2. Écrivez 'ignore' pour rechercher l'option dans la section "Chat Ignore List".
-3. Ajoutez l'utilisateur souhaité dans la liste, chacun séparé par un espace, et remplacez chaque espace dans son nom par un underscore (Un utilisateur nommé _The Gatekeeper_ devient _The\_Gatekeeper_ par exemple).
+3. Ajoutez l'utilisateur souhaité dans la liste, chacun séparé par un espace, et remplacez chaque espace dans son nom par un underscore (Un utilisateur nommé *The Gatekeeper* devient *The\_Gatekeeper* par exemple).
 4. C'est bon !
 
 Vous ne recevrez ni messages publics, ni messages privés venant des utilisateurs de cette liste.
@@ -774,6 +777,8 @@ Tor ou des réseaux associés à Tor ne se connecteront pas au jeu la plupart du
 ---
 
 ## Beatmapping et Éditeur
+
+### Common issues
 
 #### Comment mettre en ligne/mettre à jour ma map ?
 
@@ -900,7 +905,7 @@ Sinon, contactez [store@ppy.sh](mailto:store@ppy.sh) pour plus d'assistance, nou
 
 #### Mon ordinateur ne détecte pas osu!go quand je le branche !
 
-**C'est un problème connu des tout premiers arrivages des clés USB _osu!go_, cela vient de l'appareil n'étant pas formaté de manière à ce qu'il fonctionne sur tous les PCs.**
+**C'est un problème connu des tout premiers arrivages des clés USB *osu!go*, cela vient de l'appareil n'étant pas formaté de manière à ce qu'il fonctionne sur tous les PCs.**
 
 Même si ça peut sembler complexe, c'est assez facile à corriger.
 
@@ -908,11 +913,11 @@ Tout d'abord, [téléchargez l'archive contenant les fichiers par défaut d'osu!
 
 #### Formatter osu!go sous Windows
 
-**Suivez les étapes suivantes pour préparer votre _osu!go_ sous Windows:**
+**Suivez les étapes suivantes pour préparer votre *osu!go* sous Windows:**
 
 1. Ouvrez le menu `Démarrer`.
 2. Écrivez `gestion des disques` dans la barre de recherche. Cela vos mènera à la section `Créer et formatter des partitions de disque dur` du Panneau de Contrôle.
-3. **Quand vous êtes dans la fenêtre Gestion des Disques, suivez ces instructions _à la lettre_ et n'appliquez les changements qu'à osu!go.** Vous pourrez perdre des données si vous ne faites pas attention.
+3. **Quand vous êtes dans la fenêtre Gestion des Disques, suivez ces instructions *à la lettre* et n'appliquez les changements qu'à osu!go.** Vous pourrez perdre des données si vous ne faites pas attention.
 4. Regardez dans quel état votre système reconnait osu!go.
 
 #### osu!go est présent, mais dans l'état "RAW".
@@ -933,7 +938,7 @@ Veuillez suivre [ce guide](https://tails.boum.org/doc/first_steps/reset/windows/
 
 **C'est presque fini !**
 
-Dézippez l'archive que nous vous avons demandé de télécharger plus tôt (osu!go.zip) dans votre _osu!go_ et c'est bon !
+Dézippez l'archive que nous vous avons demandé de télécharger plus tôt (osu!go.zip) dans votre *osu!go* et c'est bon !
 
 ##### Rien ne fonctionne !
 
@@ -942,6 +947,8 @@ Si vous rencontrez des problèmes avec ces procédés, veuillez envoyer un e-mai
 ---
 
 ## Diagnostic
+
+### Common issues
 
 #### Que sont les 'journaux' et comment en faire ?
 

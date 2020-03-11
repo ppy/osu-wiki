@@ -76,6 +76,7 @@ If you remember your account's attached email address, or think you do, try visi
 If you have lost your account's password and are not receiving any password recovery emails, or you really cannot remember what email address you were using, please contact us at [accounts@ppy.sh](mailto:accounts@ppy.sh). Any information you have about your account (your username, any screenshots that show you signed in to the client, past transactions through the store or supporter payments, etc.) will be helpful!
 
 Lastly, we are aware that some providers do not accept automated emails from us. If you are using any of these providers, please contact us by mail and we'll change your email address for you:
+
 - `att.net`
 - `bellsouth.net`
 - `free.fr`
@@ -312,7 +313,7 @@ Playing the game or doing something else will let the client catch up in the bac
 
 #### What is this white trail or smoke-like line behind my cursor?
 
-**This is a special feature called _smoke_ and can be used to doodle on your playfield for fun. Anyone who is spectating you can see the things you draw as well.**
+**This is a special feature called *smoke* and can be used to doodle on your playfield for fun. Anyone who is spectating you can see the things you draw as well.**
 
 The default keybinding for this feature is `C`, and it will work for as long as you hold the button down. You can rebind it at any time in the `osu! Standard Mode` section of the `Change keyboard bindings` options dialog.
 
@@ -368,7 +369,7 @@ If you were denied a score due to technical reasons or whatever else, the best y
 
 #### The notes seem out of sync or out of time with the music!
 
-**This can be due to sound processing software running on your machine, such as _Razer Surround Audio_. It could also be due to your `Universal Offset` being set incorrectly.**
+**This can be due to sound processing software running on your machine, such as *Razer Surround Audio*. It could also be due to your `Universal Offset` being set incorrectly.**
 
 Try closing any extra programs which alter or influence the sound coming out of your computer. If this doesn't help, you could try to adjust your `Universal Offset`.
 
@@ -416,7 +417,7 @@ An easy solution to this is to try unplugging your USB hub briefly. If your lag 
 
 ##### Are you running osu! in windowed or borderless mode?
 
-**Both windowed and borderless mode introduce a _considerable_ amount of input delay. Fullscreen is optimal for the smoothest gameplay experience.**
+**Both windowed and borderless mode introduce a *considerable* amount of input delay. Fullscreen is optimal for the smoothest gameplay experience.**
 
 ##### Does your game freeze up for only a moment or so?
 
@@ -440,7 +441,7 @@ This is a completely harmless (albeit ugly!) effect that happens because the gam
 
 You can also try playing in Windowed or Borderless mode, which will use your operating system's native VSync instead.
 
-Turning on VSync or playing in Windowed or Borderless mode will introduce a _slight_ amount of input lag, unfortunately. For most people, this will not cause significant issue.
+Turning on VSync or playing in Windowed or Borderless mode will introduce a *slight* amount of input lag, unfortunately. For most people, this will not cause significant issue.
 
 Later NVidia graphics cards have a global option in the NVidia Control Panel to set the global refresh rate to a setting called 'Fast', which will also fix this issue.
 
@@ -630,6 +631,8 @@ Once all of the `.osz` files within the pack are in the Songs directory, hitting
 
 ## Website
 
+### Common issues
+
 #### I have not received a reply to my support ticket and it's been over 2 weeks!
 
 **The vast majority of the time, this is due to a high number of tickets coming into our system at once.**
@@ -660,7 +663,7 @@ In the event that another user is harassing you via private messages either on t
 
 1. Click the Options menu button in-game
 2. Type 'ignore' to filter the options listing to the "Chat Ignore List" section.
-3. Add the offending user's username to the list, separating each new user with a space, and replacing any spaces in their name with underscores (A user called _The Gatekeeper_ becomes _The\_Gatekeeper_ for example).
+3. Add the offending user's username to the list, separating each new user with a space, and replacing any spaces in their name with underscores (A user called *The Gatekeeper* becomes *The\_Gatekeeper* for example).
 4. You are done!
 
 You'll no longer see public chat messages from any users on that list, or receive private messages from them.
@@ -778,6 +781,8 @@ Tor or networks associated with the Tor relay will not connect to the game serve
 ---
 
 ## Beatmapping and Editor
+
+### Common issues
 
 #### How do I upload/update my map?
 
@@ -904,7 +909,7 @@ Otherwise, please contact [store@ppy.sh](mailto:store@ppy.sh) for further assist
 
 #### My computer doesn't recognize the osu!go when I plug it in!
 
-**This is a known issue with one of the very first shipments of the _osu!go_ USB sticks, and comes down to the device not being formatted in a manner that works with all PCs.**
+**This is a known issue with one of the very first shipments of the *osu!go* USB sticks, and comes down to the device not being formatted in a manner that works with all PCs.**
 
 Despite how complex this may sound, it's actually very easy to fix.
 
@@ -912,11 +917,11 @@ First off, [download the package containing the osu!go default files](https://as
 
 ##### Formatting the osu!go under Windows
 
-**Follow these steps to prepare your _osu!go_ device under Windows:**
+**Follow these steps to prepare your *osu!go* device under Windows:**
 
 1. Open the `Start` menu.
 2. Type `disk management` into the search bar. This will bring up the `Create and manage hard disk partitions` section of the Control Panel.
-3. **While in the Disk Management view, make sure to follow these instructions _VERY_ closely and ONLY apply them to the osu!go device.** You can potentially lose data if you fiddle around in this dialog.
+3. **While in the Disk Management view, make sure to follow these instructions *VERY* closely and ONLY apply them to the osu!go device.** You can potentially lose data if you fiddle around in this dialog.
 4. Check to see what state your computer recognizes the device as being in.
 
 #### The osu!go device is present, but in a "RAW" state.
@@ -937,7 +942,7 @@ Please follow [this guide](https://staging.tails.boum.org/doc/first_steps/reset/
 
 **You're almost done!**
 
-Unzip the archive we asked you to download earlier (osu!go.zip) into the _osu!go_ drive and you're done!
+Unzip the archive we asked you to download earlier (osu!go.zip) into the *osu!go* drive and you're done!
 
 ##### None of this worked!
 
@@ -946,6 +951,8 @@ If you encounter any issues with this process, please send an email to [store@pp
 ---
 
 ## Troubleshooting
+
+### Common issues
 
 #### What are 'log files' and how do I make them?
 
