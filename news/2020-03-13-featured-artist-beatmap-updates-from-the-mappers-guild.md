@@ -435,5 +435,6 @@ This list includes all of the very many beatmaps of featured artist tracks ranke
 - [UNDEAD CORPORATION - Sunny Miracle no Benigiri Ihen](https://osu.ppy.sh/beatmapsets/1091179/) by [tatatat](https://osu.ppy.sh/users/6107943)
 
 ---
+It's absolutely awesome to see just how much the community is accomplishing together. We hope you all enjoy checking out the new maps, and be sure to check out the new medals, they're cool! The hype train isn't stopping any time soon, and we'll be sure to bring you future updates for new featured artist beatmap packs, medals, and all applicable ranked maps during each period again and agaim.  See you again next update!
 
 —Noffy and pishifat
