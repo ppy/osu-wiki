@@ -157,7 +157,7 @@ This quest was completed by **[fieryrage](https://osu.ppy.sh/users/3533958)**, *
 
 ![Native Construct header](https://assets.ppy.sh/artists/50/header.jpg)
 
-For the **Native Construct mini-pack** quests, the mappers had to create and rank at least 3 mapsets of songs by Native Construct. At least one mapset had to be for Chromatic Abberation.
+For the **Native Construct mini-pack** quests, the mappers had to create and rank at least 3 mapsets of songs by Native Construct. At least one mapset had to be for Chromatic Abberration.
 
 The **osu!** version of this quest was completed by **[Dendy](https://osu.ppy.sh/users/4589786)**, **[Daycore](https://osu.ppy.sh/users/5596337)** and **[piroshki](https://osu.ppy.sh/users/7645522)**
 
