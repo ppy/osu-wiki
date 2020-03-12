@@ -44,6 +44,6 @@ Quest participation is not required for members of the Mappers' Guild. If a user
 
 Rewards are distributed through a points system. When a user reaches a specified points threshold, they earn a different rank signified by a profile badge. There are three profile badge tiers at 100, 250, and 500 points respectively.
 
-Points are earned for different mapping-related tasks. Earnings vary between tasks, though they are generally weighted according to the amount of time required. For example, mapping a `Hard` difficulty takes less time than mapping an `Easy` difficulty, so the first rewards more points than the second. 
+Points are earned for different mapping-related tasks. Earnings vary between tasks, though they are generally weighted according to the amount of time required. For example, mapping a `Hard` difficulty takes more time than mapping an `Easy` difficulty, so the first rewards more points than the second. 
 
 Difficulty creation tasks earn a user more points if the beatmap is associated with a quest. Completing a quest provides users with a pre-determined bonus that varies between each quest.
