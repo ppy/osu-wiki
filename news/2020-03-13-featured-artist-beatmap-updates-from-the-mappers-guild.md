@@ -8,11 +8,11 @@ There's a ton of new beatmaps, completed quests, and medals from the Mappers' Gu
 
 ![](/wiki/shared/news/banners/mappersguild.png)
 
-Since the [previous update](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild) a lot has been happening in the Guild, with over **20** quests completed, over **100** beatmaps ranked, and **16** new medals for you to earn, all tied to the rapidly growing Featured Artist library!
+Since the [previous update](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild) a lot has been happening in the guild, with over **20** quests completed, over **100** beatmaps ranked, and **16** new medals for you to earn, all tied to the rapidly growing Featured Artist library!
 
-For those who don't know yet, the Mappers' Guild is a way for mappers with three or more ranked beatmaps to earn rewards for creating beatmaps of songs from the Featured Artist library. If you're interested in the Guild, be sure to look at the [Mappers' Guild website](https://mappersguild.com/) for more information.
+For those who don't know yet, the Mappers' Guild is a way for mappers with three or more ranked beatmaps to earn rewards for creating beatmaps of songs from the Featured Artist library. If you're interested in the guild, be sure to look at the [Mappers' Guild wiki page](https://osu.ppy.sh/help/wiki/Mappers_Guild) for more information.
 
-Recently there has also been some new developments in the Mappers' Guild system! The first is that now anyone can view the website and keep up with what Mappers' Guild members are making, so be sure to check it out if you are curious about what the mappers are working on. Next, the Guild now has solo quests available for members to take on by themselves, giving mappers the option to work alone if that's what they prefer. Lastly, with the return of the [Monthly Beatmapping Contests](https://osu.ppy.sh/help/wiki/Contests/Monthly_Beatmapping_Contest), guild members who participate can also earn points in the Mappers' Guild for doing so, which you can read more about on the linked wiki page.
+Recently there has also been some new developments in the Mappers' Guild system! The first is that now anyone can view the website and keep up with what Mappers' Guild members are making, so be sure to check it out if you are curious about what the mappers are working on. Next, the guild now has solo quests available for members to take on by themselves, giving mappers the option to work alone if that's what they prefer. Lastly, with the return of the [Monthly Beatmapping Contests](https://osu.ppy.sh/help/wiki/Contests/Monthly_Beatmapping_Contest), guild members who participate can also earn points in the Mappers' Guild for doing so, which you can read more about on the linked wiki page.
 
 Today we'll be going over finished quests from the Mappers' Guild, featured artist beatmap pack  and medal updates, and a list of all ranked featured artist beatmaps since our last news post in late November. Now let's start going through all the quests completed since last update!
 
@@ -38,13 +38,6 @@ This quest was completed by **[Raiden](https://osu.ppy.sh/users/2239480)**, **[G
 
 For the **Carpool Tunnel mini-pack** quests, the mappers had to create and rank at least 4 mapsets of songs by Carpool Tunnel, each hosted by a different user.
 
-The **osu!catch** version of this quest was completed by **[Jemzuu](https://osu.ppy.sh/users/7890134)**, **[Crowley](https://osu.ppy.sh/users/6341006)**, **[JierYagtama](https://osu.ppy.sh/users/7483452)**, **[Du5t](https://osu.ppy.sh/users/6053071)** and **[Dapuluous](https://osu.ppy.sh/users/8140944)**
-
-- [Carpool Tunnel - San Francisco](https://osu.ppy.sh/beatmapsets/1033405#fruits/2160752) hosted by [Jemzuu](https://osu.ppy.sh/users/7890134)
-- [Carpool Tunnel - Getaway](https://osu.ppy.sh/beatmapsets/1032859#fruits/2159486) by [Crowley](https://osu.ppy.sh/users/6341006)
-- [Carpool Tunnel - Parade](https://osu.ppy.sh/beatmapsets/1036382#fruits/2166954) hosted by [Dapuluous](https://osu.ppy.sh/users/8140944)
-- [Carpool Tunnel - Afterlight](https://osu.ppy.sh/beatmapsets/1036890) hosted by [Du5t](https://osu.ppy.sh/users/6053071)
-
 The **osu!** version of this quest was completed by **[-Aqua](https://osu.ppy.sh/users/7150015)**, **[newton-](https://osu.ppy.sh/users/5875419)**, **[nextplay](https://osu.ppy.sh/users/7501935)**, **[domSaur](https://osu.ppy.sh/users/3806893)**, **[Mocaotic](https://osu.ppy.sh/users/9487458)**, **[Hinsvar](https://osu.ppy.sh/users/1249323)**, **[_Epreus](https://osu.ppy.sh/users/7342798)** and **[squirrelpascals](https://osu.ppy.sh/users/6151332)**
 
 - [Carpool Tunnel - Afterlight](https://osu.ppy.sh/beatmapsets/1001546#osu/2096611) hosted by [_Epreus](https://osu.ppy.sh/users/7342798)
@@ -53,17 +46,24 @@ The **osu!** version of this quest was completed by **[-Aqua](https://osu.ppy.sh
 - [Carpool Tunnel - Impressions](https://osu.ppy.sh/beatmapsets/1052846#osu/2200216) by [Hinsvar](https://osu.ppy.sh/users/1249323)
 - [Carpool Tunnel - Parade](https://osu.ppy.sh/beatmapsets/1058934) hosted by [domSaur](https://osu.ppy.sh/users/3806893)
 
+The **osu!catch** version of this quest was completed by **[Jemzuu](https://osu.ppy.sh/users/7890134)**, **[Crowley](https://osu.ppy.sh/users/6341006)**, **[JierYagtama](https://osu.ppy.sh/users/7483452)**, **[Du5t](https://osu.ppy.sh/users/6053071)** and **[Dapuluous](https://osu.ppy.sh/users/8140944)**
+
+- [Carpool Tunnel - San Francisco](https://osu.ppy.sh/beatmapsets/1033405#fruits/2160752) hosted by [Jemzuu](https://osu.ppy.sh/users/7890134)
+- [Carpool Tunnel - Getaway](https://osu.ppy.sh/beatmapsets/1032859#fruits/2159486) by [Crowley](https://osu.ppy.sh/users/6341006)
+- [Carpool Tunnel - Parade](https://osu.ppy.sh/beatmapsets/1036382#fruits/2166954) hosted by [Dapuluous](https://osu.ppy.sh/users/8140944)
+- [Carpool Tunnel - Afterlight](https://osu.ppy.sh/beatmapsets/1036890) hosted by [Du5t](https://osu.ppy.sh/users/6053071)
+
 ![F-777 header](https://assets.ppy.sh/artists/60/header.jpg)
 
 For the **F-777 solo** quests, each mapper had to create and rank 1 mapset in their mode of any song by F-777
 
-The **osu!taiko** version of this quest was completed by **[Cynplytholowazy](https://osu.ppy.sh/users/3901754)**
-
-- [F-777 - Across The Waters](https://osu.ppy.sh/beatmapsets/1086985) by [Cynplytholowazy](https://osu.ppy.sh/users/3901754)
-
 The **osu!** version of this quest was completed by **[DTM9 Nowa](https://osu.ppy.sh/users/5428909)**
 
 - [F-777 - Hydra](https://osu.ppy.sh/beatmapsets/1089683) by [DTM9 Nowa](https://osu.ppy.sh/users/5428909)
+
+The **osu!taiko** version of this quest was completed by **[Cynplytholowazy](https://osu.ppy.sh/users/3901754)**
+
+- [F-777 - Across The Waters](https://osu.ppy.sh/beatmapsets/1086985) by [Cynplytholowazy](https://osu.ppy.sh/users/3901754)
 
 The **osu!mania** version of this quest was completed by **[Feerum](https://osu.ppy.sh/users/4815717)**
 
@@ -135,7 +135,7 @@ This quest was completed by **[Cris-](https://osu.ppy.sh/users/6175280)**, **[wa
 
 ![Mystery header](/wiki/shared/news/banners/mappersguild-mystery.jpg)
 
-For the **Mystery Electronic mini-pack (osu!taiko)** quest, the mappers had to create and rank at least 3 mapsets of unpublished electronic songs by one of our unreleased featured artists.
+For the **Mystery Electronic mini-pack (osu!taiko)** quest, the mappers had to create and rank at least 3 mapsets of unpublished electronic songs by one of our unreleased featured artists. These maps were created in secret by guild members to accompany the [MYLK Featured Artist Announcement](https://osu.ppy.sh/home/news/2019-12-31-new-featured-artist-mylk) this past December.
 
 This quest was completed by **[tasuke912](https://osu.ppy.sh/users/2774767)**, **[salchow](https://osu.ppy.sh/users/9738159)**, **[HiroK](https://osu.ppy.sh/users/4050738)**, **[Nepuri](https://osu.ppy.sh/users/6637817)**, **[Cynplytholowazy](https://osu.ppy.sh/users/3901754)** and **[Nardoxyribonucleic](https://osu.ppy.sh/users/876419)**
 
@@ -147,7 +147,7 @@ This quest was completed by **[tasuke912](https://osu.ppy.sh/users/2774767)**, *
 
 ![Mystery header](/wiki/shared/news/banners/mappersguild-mystery.jpg)
 
-For the **Mystery Rock mini-pack (osu!, osu!taiko, osu!catch)** quest, the mappers had to create and rank at least 3 mapsets of unpublished rock songs by one of our unreleased featured artists.
+For the **Mystery Rock mini-pack (osu!, osu!taiko, osu!catch)** quest, the mappers had to create and rank at least 3 mapsets of unpublished rock songs by one of our unreleased featured artists. These maps were created in secret by guild members to accompany the [Blue Stahli Featured Artist Announcement](https://osu.ppy.sh/home/news/2020-01-22-new-featured-artist-blue-stahli) this past January.
 
 This quest was completed by **[fieryrage](https://osu.ppy.sh/users/3533958)**, **[Kiryu Coco](https://osu.ppy.sh/users/4236057)**, **[MBomb](https://osu.ppy.sh/users/3071175)**, **[Cynplytholowazy](https://osu.ppy.sh/users/3901754)**, **[idke](https://osu.ppy.sh/users/4650315)** and **[salchow](https://osu.ppy.sh/users/9738159)**
 
@@ -157,7 +157,7 @@ This quest was completed by **[fieryrage](https://osu.ppy.sh/users/3533958)**, *
 
 ![Native Construct header](https://assets.ppy.sh/artists/50/header.jpg)
 
-For the **Native Construct mini-pack** quests, the mappers had to create and rank at least 3 mapsets of songs by Native Construct. At least one mapset must be for Chromatic Abberation.
+For the **Native Construct mini-pack** quests, the mappers had to create and rank at least 3 mapsets of songs by Native Construct. At least one mapset had to be for Chromatic Abberation.
 
 The **osu!** version of this quest was completed by **[Dendy](https://osu.ppy.sh/users/4589786)**, **[Daycore](https://osu.ppy.sh/users/5596337)** and **[piroshki](https://osu.ppy.sh/users/7645522)**
 
@@ -191,6 +191,10 @@ This quest was completed by **[Cynplytholowazy](https://osu.ppy.sh/users/3901754
 
 For the **Panda Eyes solo** quests, each mapper had to create and rank 1 mapset in their mode of any song by Panda Eyes
 
+The **osu!** version of this quest was completed by **[Hazu-](https://osu.ppy.sh/users/4668230)**
+
+- [Panda Eyes - Pump It Up](https://osu.ppy.sh/beatmapsets/1090677#osu/2280138) by [Hazu-](https://osu.ppy.sh/users/4668230)
+
 The **osu!catch** version of this quest was completed by **[Nelly](https://osu.ppy.sh/users/4741164)**
 
 - [Panda Eyes & Teminite - Immortal Flame (feat. Anna Yvette)](https://osu.ppy.sh/beatmapsets/1069737#fruits/2239249) by [Nelly](https://osu.ppy.sh/users/4741164)
@@ -198,10 +202,6 @@ The **osu!catch** version of this quest was completed by **[Nelly](https://osu.p
 The **osu!mania** version of this quest was completed by **[Leniane](https://osu.ppy.sh/users/7138602)**
 
 - [Panda Eyes & Teminite - Highscore](https://osu.ppy.sh/beatmapsets/1079712#mania/2258948) by [Leniane](https://osu.ppy.sh/users/7138602)
-
-The **osu!** version of this quest was completed by **[Hazu-](https://osu.ppy.sh/users/4668230)**
-
-- [Panda Eyes - Pump It Up](https://osu.ppy.sh/beatmapsets/1090677#osu/2280138) by [Hazu-](https://osu.ppy.sh/users/4668230)
 
 ![Ricky Montgomery header](https://assets.ppy.sh/artists/54/header.jpg)
 
@@ -215,21 +215,21 @@ This quest was completed by **[Trynna](https://osu.ppy.sh/users/2652951)** and *
 
 For the **Ricky Montgomery solo** quests, each mapper had to create and rank 1 mapset in their mode of any song by Ricky Montgomery
 
-The **osu!taiko** version of this quest was completed by **[Faputa](https://osu.ppy.sh/users/845733)**
-
-- [Ricky Montgomery - Cabo](https://osu.ppy.sh/beatmapsets/1062285#taiko/2224367) by [Faputa](https://osu.ppy.sh/users/845733)
-
 The **osu!** version of this quest was completed by **[hypercyte](https://osu.ppy.sh/users/9155377)**
 
 - [Ricky Montgomery - Line Without A Hook](https://osu.ppy.sh/beatmapsets/1062477) by [hypercyte](https://osu.ppy.sh/users/9155377)
 
-The **osu!mania** version of this quest was completed by **[Feerum](https://osu.ppy.sh/users/4815717)**
+The **osu!taiko** version of this quest was completed by **[Faputa](https://osu.ppy.sh/users/845733)**
 
-- [Ricky Montgomery - This December](https://osu.ppy.sh/beatmapsets/1067499#mania/2234959) by [Feerum](https://osu.ppy.sh/users/4815717)
+- [Ricky Montgomery - Cabo](https://osu.ppy.sh/beatmapsets/1062285#taiko/2224367) by [Faputa](https://osu.ppy.sh/users/845733)
 
 The **osu!catch** version of this quest was completed by **[-Joni-](https://osu.ppy.sh/users/9988837)**
 
 - [Ricky Montgomery - Snow](https://osu.ppy.sh/beatmapsets/1083491#fruits/2266121) by [-Joni-](https://osu.ppy.sh/users/9988837)
+
+The **osu!mania** version of this quest was completed by **[Feerum](https://osu.ppy.sh/users/4815717)**
+
+- [Ricky Montgomery - This December](https://osu.ppy.sh/beatmapsets/1067499#mania/2234959) by [Feerum](https://osu.ppy.sh/users/4815717)
 
 ![Wisp X header](https://assets.ppy.sh/artists/16/header.jpg)
 
@@ -253,7 +253,7 @@ This quest was completed by **[PandaHero](https://osu.ppy.sh/users/1233255)**, *
 - [onumi - CONFUSION PART ONE](https://osu.ppy.sh/beatmapsets/1037665#osu/2169357) hosted by [Leader](https://osu.ppy.sh/users/631530)
 - [onumi - DESIRE](https://osu.ppy.sh/beatmapsets/1043754#osu/2182173) hosted by [Hectic](https://osu.ppy.sh/users/6885942)
 
-## <a id="#pack-medal-updates"></a>Pack and medal updates
+## <a id="pack-medal-updates"></a>Pack and medal updates
 
 We are pleased to bring you a whole slew of packs and medals! Both new and old packs for featured artist beatmaps have received medals which you can find on your profile and unlock **now**!
 
@@ -273,7 +273,7 @@ If that's not enough to convince you yet, behold their shininess below:
 
 ![hyun medal](https://assets.ppy.sh/medals/web/all-packs-hyun.png)![ICDD medal](https://assets.ppy.sh/medals/web/all-packs-icdd.png)![tieff medal](https://assets.ppy.sh/medals/web/all-packs-tieff.png)![afterparty medal](https://assets.ppy.sh/medals/web/all-packs-afterparty.png)![ben briggs medal](https://assets.ppy.sh/medals/web/all-packs-benbriggs.png)![carpool tunnel medal](https://assets.ppy.sh/medals/web/all-packs-carpooltunnel.png)![creo medal](https://assets.ppy.sh/medals/web/all-packs-creo.png)![cysmix medal](https://assets.ppy.sh/medals/web/all-packs-cysmix.png)![fractal dreamers medal](https://assets.ppy.sh/medals/web/all-packs-fractaldreamers.png)![lukhash medal](https://assets.ppy.sh/medals/web/all-packs-lukhash.png)![namirin medal](https://assets.ppy.sh/medals/web/all-packs-namirin.png)![onumi medal](https://assets.ppy.sh/medals/web/all-packs-onumi.png)![the flashbulb medal](https://assets.ppy.sh/medals/web/all-packs-theflashbulb.png)![undead corporation medal](https://assets.ppy.sh/medals/web/all-packs-undeadcorporation.png)![wisp x medal](https://assets.ppy.sh/medals/web/all-packs-wispx.png)![mappers guild IV medal](https://assets.ppy.sh/medals/web/all-packs-mappersguild-04.png)
 
-## <a id="#ranked-map-updates"></a>Ranked map updates
+## <a id="ranked-map-updates"></a>Ranked map updates
 
 This list includes all of the very many beatmaps of featured artist tracks ranked since the previous newspost, even those mentioned previously in the quests section above. Non-guild beatmaps in this section will be marked with an asterisk \*.
 
@@ -435,6 +435,6 @@ This list includes all of the very many beatmaps of featured artist tracks ranke
 - [UNDEAD CORPORATION - Sunny Miracle no Benigiri Ihen](https://osu.ppy.sh/beatmapsets/1091179/) by [tatatat](https://osu.ppy.sh/users/6107943)
 
 ---
-It's absolutely awesome to see just how much the community is accomplishing together. We hope you all enjoy checking out the new maps, and be sure to check out the new medals, they're cool! The hype train isn't stopping any time soon, and we'll be sure to bring you future updates for new featured artist beatmap packs, medals, and all applicable ranked maps during each period again and agaim.  See you again next update!
+It's absolutely awesome to see just how much the community is accomplishing together. We hope you all enjoy checking out the new maps, and be sure to check out the new medals, they're cool! The hype train isn't stopping any time soon, and we'll be sure to bring you future updates for new featured artist beatmap packs, medals, and all applicable ranked maps during each period again and again.  See you again next update!
 
 —Noffy and pishifat
