@@ -265,13 +265,13 @@ osu! 通常可以自动更新，但有时也会出现错误。
 
 这里有一些常用字体，可以在不同版本的 Windows 中使用，以下的链接会对你有所帮助：
 
-- [Microsoft 网页核心字体](http://web.nickshanks.com/fonts/microsoft-core-web-fonts) （ 包含 Arial ，Times New Roman ，Trebuchet MS 和 Verdana ）
-- [Tahoma](http://www.boldfonts.com/fonts/Tahoma/)
-- [Windows Live Essentials](http://explore.live.com/windows-live-essentials?os=other) （ Segoe UI ）
+- [Microsoft 网页核心字体](https://web.archive.org/web/20020124085641/http://www.microsoft.com/typography/fontpack/default.htm) （ 包含 Arial ，Times New Roman ，Trebuchet MS 和 Verdana ）
+- [Tahoma](https://freefontsfamily.com/tahoma-font-free)
+- [Windows Live Essentials](https://support.microsoft.com/en-us/help/2434419/windows-live-essentials-2011) （ Segoe UI ）
 - [Powerpoint 2007 Viewer](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=048dc840-14e1-467d-8dca-19d2a8fd7485&displaylang=en&pf=true) （ 这里包含着大多数 ClearType 字体 —— Calibri ，Consolas ，Corbel ... 你的系统和 osu! 基本上不需要这些字体，但这些字体都很棒！赶快下载试试吧！）
 - [Microsoft 正黑体 / Microsoft 正黑體](http://www.microsoft.com/download/en/details.aspx?DisplayLang=en&id=12072) （ 正体中文界面字体 ）
 
-[这里](http://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a)有一些的具体建议和找回字体的其他方法。
+[这里](https://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a)有一些的具体建议和找回字体的其他方法。
 
 #### 我的一些谱面消失了！
 
@@ -580,7 +580,7 @@ osu! 会自动保存你的所有成绩在 osu! 安装目录的 `/Data/r` 文件�
 
 大多数新键盘可以同时按键的上限是 6 个，键盘上任意的 6 个键。
 
-你可以通过[微软的键盘按键冲突检测工具](http://www.microsoft.com/appliedsciences/content/projects/AntiGhostingExplained.aspx)来测试你的键盘的键盘按键冲突情况。
+你可以通过[微软的键盘按键冲突检测工具](https://drakeirving.github.io/MultiKeyDisplay)来测试你的键盘的键盘按键冲突情况。
 
 尽管 osu!mania 限制谱面中同时按下的键不能超过 6 个，通过这样的办法来缓解键盘按键冲突问题，你也应当考虑你的键盘是否太老旧了。
 
@@ -633,7 +633,7 @@ osu! 会自动保存你的所有成绩在 osu! 安装目录的 `/Data/r` 文件�
 
 **你需要将文件解压到你的 Songs 目录中。**
 
-大部分谱面包是 `.rar` 格式，意味着它们是谱面文件的压缩集合。你需要使用解压工具（ 推荐 [7-Zip](http://www.7-zip.org/) ）将它们解压到 Songs 目录中。
+大部分谱面包是 `.rar` 格式，意味着它们是谱面文件的压缩集合。你需要使用解压工具（ 推荐 [7-Zip](https://7-zip.org) ）将它们解压到 Songs 目录中。
 
 所有 `.osz` 文件都在歌曲目录中后，在歌曲选择界面按下 `F5`，会刷新游戏的谱面缓存并将你的新歌加载到游戏中。
 
@@ -753,7 +753,7 @@ osu! 会自动保存你的所有成绩在 osu! 安装目录的 `/Data/r` 文件�
 
 **只需在 [osu! 官方网站](https://osu.ppy.sh/home)上顶部的导航栏中点击 `Download` 。**
 
-或者，点击[这里](https://osu.ppy.sh/p/download)直接访问下载页面。
+或者，点击[这里](https://osu.ppy.sh/home/download)直接访问下载页面。
 
 #### 游戏安装程序蹦出错误提示！
 
@@ -766,7 +766,7 @@ osu! 会自动保存你的所有成绩在 osu! 安装目录的 `/Data/r` 文件�
 
 **试着安装 64 位的微软 .NET 框架。**
 
-osu! 安装程序自带有 .NET 框架，为了以防万一，你可以[在这里下载它](http://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe)。
+osu! 安装程序自带有 .NET 框架，为了以防万一，你可以[在这里下载它](https://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe)。
 
 ### 注册
 

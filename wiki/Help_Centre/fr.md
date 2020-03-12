@@ -251,13 +251,13 @@ Si vous avez cette erreur en ouvrant osu! ou son logiciel de mise à jour, cela 
 
 Voici une collection de polices communément utilisées dans différentes versions de Windows:
 
-- [Microsoft core web fonts](http://web.nickshanks.com/fonts/microsoft-core-web-fonts) (spécialement Arial, Times New Roman, Trebuchet MS, et Verdana)
-- [Tahoma](http://www.boldfonts.com/fonts/Tahoma/)
-- [Windows Live Essentials](http://explore.live.com/windows-live-essentials?os=other) (Segoe UI)
+- [Microsoft core web fonts](https://web.archive.org/web/20020124085641/http://www.microsoft.com/typography/fontpack/default.htm) (spécialement Arial, Times New Roman, Trebuchet MS, et Verdana)
+- [Tahoma](https://freefontsfamily.com/tahoma-font-free)
+- [Windows Live Essentials](https://support.microsoft.com/en-us/help/2434419/windows-live-essentials-2011) (Segoe UI)
 - [Powerpoint 2007 Viewer](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=048dc840-14e1-467d-8dca-19d2a8fd7485&displaylang=en&pf=true) (Cleartype family--Calibri, Consolas, Corbel, ... Rien dans osu! ou votre système ne dépend d'elles, mais ces polices sont superbes ! Téléchargez-les maintenant gogo !)
 - [Microsoft JhengHei](http://www.microsoft.com/download/en/details.aspx?DisplayLang=en&id=12072) (微軟正黑體) (Police du Chinois Traditionnel UI)
 
-Voir [ce sujet](http://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a) dans Microsoft Answers pour plus d'informations, et d'autres options pour les retrouver.
+Voir [ce sujet](https://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a) dans Microsoft Answers pour plus d'informations, et d'autres options pour les retrouver.
 
 ### Certaines de mes beatmaps sont manquantes !
 
@@ -564,7 +564,7 @@ Le ghosting est un sujet un peu complexe, mais pour faire simple, c'est un probl
 
 Les nouveaux claviers permettent des combinaisons allant jusqu'à **6** touches, mais dans des combinaisons aléatoires.
 
-Vous pouvez tester les limites de votre clavier en utilisant l'[utilitaire Anti-Ghosting de Microsoft](http://www.microsoft.com/appliedsciences/content/projects/AntiGhostingExplained.aspx).
+Vous pouvez tester les limites de votre clavier en utilisant l'[utilitaire Anti-Ghosting de drakeirving](https://drakeirving.github.io/MultiKeyDisplay).
 
 Alors que les Critères de Classement pour osu!mania essayent d'éviter ces problèmes en n'autorisant pas les combinaisons dépassant 6 notes, vous pouvez rencontrer ce problème si votre clavier est ancien.
 
@@ -619,7 +619,7 @@ Vous devriez aussi vérifier qu'aucun bouton ne soit endommagé sur vos périph�
 
 **Vous devez extraire le packs dans votre dossier Songs.**
 
-La plupart des packs sont des `.rar`, ce qui signifie que c'est une archive compressée de fichiers de beatmaps. Vous devrez les extraire en utilisant le programme de votre choix (nous recommandons [7-Zip](http://www.7-zip.org/)) dans votre dossier Songs.
+La plupart des packs sont des `.rar`, ce qui signifie que c'est une archive compressée de fichiers de beatmaps. Vous devrez les extraire en utilisant le programme de votre choix (nous recommandons [7-Zip](https://7-zip.org)) dans votre dossier Songs.
 
 Une fois que tous les fichiers `.osz` sont dans le dossier Songs, Appuyez sur `F5` dans l'écran de sélection des musiques, ce qui va rafraîchir le cache des beatmaps et charger les nouvelles beatmaps.
 
@@ -737,7 +737,7 @@ Si vous avez été inactif pour une longue période de temps et que vos statisti
 
 **Cliquez simplement sur le bouton **`Download`** dans la barre en haut de la page du [site officiel d'osu!](https://osu.ppy.sh/home).**
 
-Autrement, [cliquez ici](https://osu.ppy.sh/p/download) pour un lien direct vers la page des téléchargements.
+Autrement, [cliquez ici](https://osu.ppy.sh/home/download) pour un lien direct vers la page des téléchargements.
 
 #### L'installateur du jeu lance une erreur et ne fonctionne pas quand je l'utilise !
 
@@ -750,7 +750,7 @@ Autrement, [cliquez ici](https://osu.ppy.sh/p/download) pour un lien direct vers
 
 **Essayez d'installer la version 64-bit du Framework .NET de Microsoft.**
 
-Ça pourrait venir de l'installateur d'osu!, mais dans certains cas ça ne pourrait pas, [téléchargez le ici](http://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe).
+Ça pourrait venir de l'installateur d'osu!, mais dans certains cas ça ne pourrait pas, [téléchargez le ici](https://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe).
 
 ### Enregistrement
 

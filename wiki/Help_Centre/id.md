@@ -265,13 +265,13 @@ Jika Anda melihat kesalahan ini ketika Anda mencoba membuka osu! atau pembaruann
 
 Berikut ini adalah kumpulan font umum yang digunakan dalam berbagai versi Windows dan di seluruh web yang seharusnya dapat membantu Anda:
 
-- [Microsoft core web fonts](http://web.nickshanks.com/fonts/microsoft-core-web-fonts) (antara lain Arial, Times New Roman, Trebuchet MS, dan Verdana)
-- [Tahoma](http://www.boldfonts.com/fonts/Tahoma/)
-- [Windows Live Essentials](http://explore.live.com/windows-live-essentials?os=other) (Segoe UI)
+- [Microsoft core web fonts](https://web.archive.org/web/20020124085641/http://www.microsoft.com/typography/fontpack/default.htm) (antara lain Arial, Times New Roman, Trebuchet MS, dan Verdana)
+- [Tahoma](https://freefontsfamily.com/tahoma-font-free)
+- [Windows Live Essentials](https://support.microsoft.com/en-us/help/2434419/windows-live-essentials-2011) (Segoe UI)
 - [Powerpoint 2007 Viewer](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=048dc840-14e1-467d-8dca-19d2a8fd7485&displaylang=en&pf=true) (Cleartype family--Calibri, Consolas, Corbel, ... Font ini tidak digunakan di osu! Atau digunakan di dalam sistem Anda, tetapi font ini luar biasa! Unduh sekarang gogo!)
 - [Microsoft JhengHei](http://www.microsoft.com/download/en/details.aspx?DisplayLang=en&id=12072) (?????) (Font UI Tradisional Cina)
 
-Lihat [topik ini](http://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a) pada Microsoft Answers untuk beberapa saran yang lebih terperinci, dan opsi lain untuk mendapatkannya kembali.
+Lihat [topik ini](https://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a) pada Microsoft Answers untuk beberapa saran yang lebih terperinci, dan opsi lain untuk mendapatkannya kembali.
 
 #### Beberapa beatmap saya hilang!
 
@@ -580,7 +580,7 @@ Ghosting merupakan topik yang cukup kompleks, tetapi pada intinya bermuara pada 
 
 Kebanyakan keyboard produksi baru akan memungkinkan penekanan hingga **6**​ tombol saat bersamaan, meskipun dalam kombinasi acak.
 
-Anda dapat menguji batas ghosting keyboard Anda dengan menggunakan [​Utilitas Anti-Ghosting milik Microsoft](http://www.microsoft.com/appliedsciences/content/projects/AntiGhostingExplained.aspx).
+Anda dapat menguji batas ghosting keyboard Anda dengan menggunakan [​Utilitas Anti-Ghosting milik Microsoft](https://drakeirving.github.io/MultiKeyDisplay).
 
 Meskipun salah satu Kriteria Ranking untuk osu!mania adalah mencoba mengurangi masalah ghosting dengan tidak memperbolehkan lebih dari 6 tombol aktif di saat bersamaan, Anda mungkin mengalami masalah ini jika keyboard Anda umurnya lebih lama.
 
@@ -633,7 +633,7 @@ Anda juga mungkin ingin memeriksa apakah ada tombol yang macet atau rusak pada p
 
 **Anda harus mengekstrak paket beatmap tersebut ke direktori Lagu (Songs) Anda.**
 
-Kebanyakan paket beatmap yang tersedia menggunakan format file `​.rar`, yang berarti mereka adalah arsip file beatmap yang telah terkompres. Anda perlu mengekstraknya menggunakan utilitas pilihan Anda (kami merekomendasikan ​[7-Zip​](http://www.7-zip.org/)) ke direktori Lagu (Songs) Anda terlebih dahulu.
+Kebanyakan paket beatmap yang tersedia menggunakan format file `​.rar`, yang berarti mereka adalah arsip file beatmap yang telah terkompres. Anda perlu mengekstraknya menggunakan utilitas pilihan Anda (kami merekomendasikan ​[7-Zip​](https://7-zip.org)) ke direktori Lagu (Songs) Anda terlebih dahulu.
 
 Setelah semua file ​`.osz​` di dalam paket berada di direktori Lagu (Songs), tekan ​`F5`​ di menu pemilihan lagu dan osu! akan me-refresh cache beatmap permainan dan memuat lagu baru Anda ke dalam game.
 
@@ -766,7 +766,7 @@ Atau, ​[klik di sini​](https://osu.ppy/sh/p/download) untuk langsung menautk
 
 **Cobalah menginstal versi 64-bit dari Microsoft .NET Framework.**
 
-Komponen ini seharusnya telah dibundel bersamaan dengan penginstal osu!, tetapi jika tidak, ​[unduh di sini​](http://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe).
+Komponen ini seharusnya telah dibundel bersamaan dengan penginstal osu!, tetapi jika tidak, ​[unduh di sini​](https://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe).
 
 ### Pendaftaran
 
