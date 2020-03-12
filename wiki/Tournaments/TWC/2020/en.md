@@ -179,7 +179,7 @@ The osu!taiko World Cup 2020 is run by various community members.
 | **Poland** ![][flag_PL] | **5** | 1 | ![][flag_CO] Colombia | [#1](https://osu.ppy.sh/community/matches/58993200) |
 | **Russian Federation** ![][flag_RU] | **5** | 3 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/58994950) |
 | **Germany** ![][flag_DE] | **5** | 1 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/58995010) |
-| **France** ![][flag_FR] | **5** | 0 | ![][flag_AR] Argentina | *-win by default-* |
+| **France** ![][flag_FR] | **5** | 0 | ![][flag_AR] Argentina | *win by default* |
 | **Italy** ![][flag_IT] | **5** | 0 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/58998677) |
 | **Sweden** ![][flag_SE] | **5** | 1 | ![][flag_GR] Greece | [#1](https://osu.ppy.sh/community/matches/58998727) |
 | **France** ![][flag_FR] | **5** | 0 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/59000572) |
@@ -190,13 +190,13 @@ The osu!taiko World Cup 2020 is run by various community members.
 | **United Kingdom** ![][flag_GB] | **5** | 0 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/59004386) |
 | **Switzerland** ![][flag_CH] | **5** | 1 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/59004415) |
 | **Canada** ![][flag_CA] | **5** | 1 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/59004558) |
-| **Brazil** ![][flag_BR] | **5** | 0 | ![][flag_GR] Greece | *-win by default-* |
+| **Brazil** ![][flag_BR] | **5** | 0 | ![][flag_GR] Greece | *win by default* |
 | **Brazil** ![][flag_BR] | **5** | 0 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/59011775) |
 
 | Sunday, 2020-03-08 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **United States** ![][flag_US] | **5** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/59013785) |
-| **Japan** ![][flag_JP] | **5** | 0 | ![][flag_AR] Argentina | *-win by default-* |
+| **Japan** ![][flag_JP] | **5** | 0 | ![][flag_AR] Argentina | *win by default* |
 | **Australia** ![][flag_AU] | **5** | 0 | ![][flag_CO] Colombia | [#1](https://osu.ppy.sh/community/matches/59014785) |
 | **United States** ![][flag_US] | **5** | 1 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/59015832) |
 | **Singapore** ![][flag_SG] | **5** | 0 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/59015844) |
@@ -215,8 +215,8 @@ The osu!taiko World Cup 2020 is run by various community members.
 | **Malaysia** ![][flag_MY] | **5** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/59028730) |
 | **Spain** ![][flag_ES] | **5** | 1 | ![][flag_PT] Portugal | [#1](https://osu.ppy.sh/community/matches/59030343) |
 | **Spain** ![][flag_ES] | **5** | 0 | ![][flag_BE] Belgium | [#1](https://osu.ppy.sh/community/matches/59031956) |
-| Argentina ![][flag_AR] | 0 | **5** | ![][flag_AT] **Austria** | *-win by default-* |
-| **United Kingdom** ![][flag_GB] | **5** | 0 | ![][flag_CO] Colombia | *-win by default-* |
+| Argentina ![][flag_AR] | 0 | **5** | ![][flag_AT] **Austria** | *win by default* |
+| **United Kingdom** ![][flag_GB] | **5** | 0 | ![][flag_CO] Colombia | *win by default* |
 | **Italy** ![][flag_IT] | **5** | 0 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/59033544) |
 | **Russian Federation** ![][flag_RU] | **5** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/59033519) |
 
