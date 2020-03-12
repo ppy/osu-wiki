@@ -91,7 +91,7 @@ The osu!taiko World Cup 2020 is run by various community members.
 
 ---
 
-## Match Schedule: Round of 16
+## Match schedule: Round of 16
 
 ### Saturday, 14. March 2020
 
@@ -162,7 +162,7 @@ The osu!taiko World Cup 2020 is run by various community members.
 
 ---
 
-## Match Results
+## Match results
 
 ### Group Stage
 
