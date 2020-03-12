@@ -162,14 +162,14 @@ For the **Native Construct mini-pack** quests, the mappers had to create and ran
 The **osu!** version of this quest was completed by **[Dendy](https://osu.ppy.sh/users/4589786)**, **[Daycore](https://osu.ppy.sh/users/5596337)** and **[piroshki](https://osu.ppy.sh/users/7645522)**
 
 - [Native Construct - Come Hell or High Water](https://osu.ppy.sh/beatmapsets/1051167#osu/2196830) by [Daycore](https://osu.ppy.sh/users/5596337)
-- [Native Construct - Chromatic Abberation](https://osu.ppy.sh/beatmapsets/1062098#osu/2223964) by [piroshki](https://osu.ppy.sh/users/7645522)
+- [Native Construct - Chromatic Aberration](https://osu.ppy.sh/beatmapsets/1062098#osu/2223964) by [piroshki](https://osu.ppy.sh/users/7645522)
 - [Native Construct - Chromatic Lights](https://osu.ppy.sh/beatmapsets/1077275#osu/2254289) by [Daycore](https://osu.ppy.sh/users/5596337)
 
 The **osu!taiko and osu!mania** version of this quest was completed by **[Faputa](https://osu.ppy.sh/users/845733)**, **[Cynplytholowazy](https://osu.ppy.sh/users/3901754)** and **[FAMoss](https://osu.ppy.sh/users/7707789)**
 
 - [Native Construct - Mute](https://osu.ppy.sh/beatmapsets/1053262#taiko/2201028) by [Faputa](https://osu.ppy.sh/users/845733) (osu!taiko)
 - [Native Construct - Come Hell or High Water](https://osu.ppy.sh/beatmapsets/1055375) by [FAMoss](https://osu.ppy.sh/users/7707789) (osu!mania)
-- [Native Construct - Chromatic Abberation](https://osu.ppy.sh/beatmapsets/1080164) hosted by [Cynplytholowazy](https://osu.ppy.sh/users/3901754) (osu!taiko)
+- [Native Construct - Chromatic Aberration](https://osu.ppy.sh/beatmapsets/1080164) hosted by [Cynplytholowazy](https://osu.ppy.sh/users/3901754) (osu!taiko)
 
 ![Nekrogoblikon header](https://assets.ppy.sh/artists/53/header.jpg)
 
@@ -321,7 +321,7 @@ This list includes all of the very many beatmaps of featured artist tracks ranke
 - [Loki - With Fire and Sword (2013)](https://osu.ppy.sh/beatmapsets/963872#osu/2017979) hosted by [Daycore](https://osu.ppy.sh/users/5596337)
 - [Loki - With Fire and Sword (2013)](https://osu.ppy.sh/beatmapsets/1088528#osu/2276018) hosted by [TheShadowOfDark](https://osu.ppy.sh/users/5795337)
 - [Loki - Wizard's Tower](https://osu.ppy.sh/beatmapsets/1064248#osu/2228263) hosted by [Minorsonek](https://osu.ppy.sh/users/5377178)
-- [Native Construct - Chromatic Abberation](https://osu.ppy.sh/beatmapsets/1062098#osu/2223964) by [piroshki](https://osu.ppy.sh/users/7645522)
+- [Native Construct - Chromatic Aberration](https://osu.ppy.sh/beatmapsets/1062098#osu/2223964) by [piroshki](https://osu.ppy.sh/users/7645522)
 - [Native Construct - Chromatic Lights](https://osu.ppy.sh/beatmapsets/1077275#osu/2254289) by [Daycore](https://osu.ppy.sh/users/5596337)
 - [Native Construct - Come Hell or High Water](https://osu.ppy.sh/beatmapsets/1051167#osu/2196830) by [Daycore](https://osu.ppy.sh/users/5596337)
 - [Native Construct - The Spark of the Archon](https://osu.ppy.sh/beatmapsets/1064929#osu/2229689) by [SILENCE PLAYER](https://osu.ppy.sh/users/6381153)
@@ -383,7 +383,7 @@ This list includes all of the very many beatmaps of featured artist tracks ranke
 - [MYLK - Prism](https://osu.ppy.sh/beatmapsets/1051590#taiko/2197618) hosted by [salchow](https://osu.ppy.sh/users/9738159)
 - [MYLK - Smile](https://osu.ppy.sh/beatmapsets/1065517#taiko/2231210) hosted by [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
 - [MYLK - SOAP](https://osu.ppy.sh/beatmapsets/1055618#taiko/2205809) hosted by [tasuke912](https://osu.ppy.sh/users/2774767)
-- [Native Construct - Chromatic Abberation](https://osu.ppy.sh/beatmapsets/1080164) hosted by [Cynplytholowazy](https://osu.ppy.sh/users/3901754)
+- [Native Construct - Chromatic Aberration](https://osu.ppy.sh/beatmapsets/1080164) hosted by [Cynplytholowazy](https://osu.ppy.sh/users/3901754)
 - [Native Construct - Mute](https://osu.ppy.sh/beatmapsets/1053262#taiko/2201028) by [Faputa](https://osu.ppy.sh/users/845733)
 - [Panda Eyes & Teminite - Highscore](https://osu.ppy.sh/beatmapsets/1096769#taiko/2291811) by [radar](https://osu.ppy.sh/users/7131099)
 - [Panda Eyes & Teminite - Immortal Flame (feat. Anna Yvette)](https://osu.ppy.sh/beatmapsets/1070984) hosted by [Vulkin](https://osu.ppy.sh/users/4901066)
