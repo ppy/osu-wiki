@@ -149,11 +149,11 @@ This quest was completed by **[tasuke912](https://osu.ppy.sh/users/2774767)**, *
 
 For the **Mystery Rock mini-pack (osu!, osu!taiko, osu!catch)** quest, the mappers had to create and rank at least 3 mapsets of unpublished rock songs by one of our unreleased featured artists. These maps were created in secret by guild members to accompany the [Blue Stahli Featured Artist Announcement](https://osu.ppy.sh/home/news/2020-01-22-new-featured-artist-blue-stahli) this past January.
 
-This quest was completed by **[fieryrage](https://osu.ppy.sh/users/3533958)**, **[Kiryu Coco](https://osu.ppy.sh/users/4236057)**, **[MBomb](https://osu.ppy.sh/users/3071175)**, **[Cynplytholowazy](https://osu.ppy.sh/users/3901754)**, **[idke](https://osu.ppy.sh/users/4650315)** and **[salchow](https://osu.ppy.sh/users/9738159)**
+This quest was completed by **[fieryrage](https://osu.ppy.sh/users/3533958)**, **[Sinnoh](https://osu.ppy.sh/users/4236057)**, **[MBomb](https://osu.ppy.sh/users/3071175)**, **[Cynplytholowazy](https://osu.ppy.sh/users/3901754)**, **[idke](https://osu.ppy.sh/users/4650315)** and **[salchow](https://osu.ppy.sh/users/9738159)**
 
 - [Blue Stahli - Suit Up](https://osu.ppy.sh/beatmapsets/1061425/) by [MBomb](https://osu.ppy.sh/users/3071175) (osu!catch)
 - [Blue Stahli - Throw Away](https://osu.ppy.sh/beatmapsets/1061411#osu/2222638) hosted by [fieryrage](https://osu.ppy.sh/users/3533958) (hybrid)
-- [Blue Stahli and Nyzze Nyce - Run The Track](https://osu.ppy.sh/beatmapsets/1071229) hosted by [Kiryu Coco](https://osu.ppy.sh/users/4236057) (osu!catch)
+- [Blue Stahli and Nyzze Nyce - Run The Track](https://osu.ppy.sh/beatmapsets/1071229) hosted by [Sinnoh](https://osu.ppy.sh/users/4236057) (osu!catch)
 
 ![Native Construct header](https://assets.ppy.sh/artists/50/header.jpg)
 
@@ -398,8 +398,8 @@ This list includes all of the very many beatmaps of featured artist tracks ranke
 
 ## <a id="catch"></a>osu!catch
 - [Blue Stahli - Suit Up](https://osu.ppy.sh/beatmapsets/1061425/) by [MBomb](https://osu.ppy.sh/users/3071175)
-- [Blue Stahli and Nyzze Nyce - Run The Track](https://osu.ppy.sh/beatmapsets/1071229) hosted by [Kiryu Coco](https://osu.ppy.sh/users/4236057)
-- [Camellia - flying in the flow of deep-sea](https://osu.ppy.sh/beatmapsets/808574) by [Kiryu Coco](https://osu.ppy.sh/users/4236057)
+- [Blue Stahli and Nyzze Nyce - Run The Track](https://osu.ppy.sh/beatmapsets/1071229) hosted by [Sinnoh](https://osu.ppy.sh/users/4236057)
+- [Camellia - flying in the flow of deep-sea](https://osu.ppy.sh/beatmapsets/808574) by [Sinnoh](https://osu.ppy.sh/users/4236057)
 - [Carpool Tunnel - Parade](https://osu.ppy.sh/beatmapsets/1036382#fruits/2166954) hosted by [Dapuluous](https://osu.ppy.sh/users/8140944)
 - [dark cat - ELINE](https://osu.ppy.sh/beatmapsets/1064394) hosted by [Absolute Zero](https://osu.ppy.sh/users/4847256)
 - [dark cat - hot chocolate](https://osu.ppy.sh/beatmapsets/1061800) hosted by [JBHyperion](https://osu.ppy.sh/users/4879508)
