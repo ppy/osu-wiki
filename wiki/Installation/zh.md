@@ -7,11 +7,11 @@ no_native_review: true
 
 *另见：[安装/macOS](/wiki/Installation/macOS)*
 
-该页面会简要地告诉你怎么让 osu! 在 Windows 上运行。[osu!academy](/wiki/osu!academy) 制作了一个[视频教程](https://www.bilibili.com/video/av90868810/)来解释怎么在 Windows 上面安装 osu!。
+该页面会简要地告诉你怎么让 osu! 在 Windows 上运行。[osu!academy](/wiki/osu!academy) 制作了一个[视频教程](https://bilibili.com/video/av90868810)来解释怎么在 Windows 上面安装 osu!。
 
 ## 最低系统要求
 
-- .NET framework 4+（安装程序应该会提示你下载，如果没有，你可以在[这里](https://www.microsoft.com/zh-cn/download/details.aspx?id=48130)找到。）
+- .NET framework 4+（安装程序应该会提示你下载，如果没有，你可以在[这里](https://microsoft.com/zh-cn/download/details.aspx?id=48130)找到。）
 - 一张不错的显卡。
 
 ## 安装 osu!
@@ -52,6 +52,7 @@ no_native_review: true
    - 如果你不想下载随谱面文件一起的视频文件，点击`DL NoVideo`。
 4. osu! 完成下载后，将会自动加载谱面集。
    - 如果你因为某些原因没看到它们，在歌曲选择页面内按下 `F5` 来重新处理谱面文件。
+
 ## 添加皮肤
 
 *另见：[皮肤](/wiki/Skinning)*

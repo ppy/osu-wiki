@@ -8,7 +8,7 @@ This page will roughly tell you how to get osu! working on your macOS device.
 
 ## Installing osu!
 
-The macOS version of osu! is experimental. The game may not function properly or even boot at all. This [tutorial video](https://www.youtube.com/watch?v=3ay221bMHNo) will help you understand the process below.
+The macOS version of osu! is experimental. The game may not function properly or even boot at all. This [tutorial video](https://youtube.com/watch?v=3ay221bMHNo) will help you understand the process below.
 
 1. Go to the unofficial [download page](https://osu.ppy.sh/community/forums/topics/682197), download `osu!.app.zip` and unzip it.
 2. You will see the `osu!.app` folder, which will look like an application. Right click it, and select `Open`.

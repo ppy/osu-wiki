@@ -8,7 +8,7 @@
 
 ## osu! 설치하기
 
-osu!의 macOS 버전은 실험적인 버전입니다. 게임이 올바르게 작동하지 않을 수도 있습니다. 아래 일련의 과정들을 이해하는 데 이 [튜토리얼 영상](https://www.youtube.com/watch?v=3ay221bMHNo)이 도움이 될 것입니다.
+osu!의 macOS 버전은 실험적인 버전입니다. 게임이 올바르게 작동하지 않을 수도 있습니다. 아래 일련의 과정들을 이해하는 데 이 [튜토리얼 영상](https://youtube.com/watch?v=3ay221bMHNo)이 도움이 될 것입니다.
 
 1. [다운로드 페이지(비공식)](https://osu.ppy.sh/community/forums/topics/682197)에서 `osu!.app.zip` 파일을 다운로드한 후, 압축을 해제합니다.
 2. 압축을 해제하면 `osu!.app` 폴더가 나오는데, 앱 형식으로 보일 것입니다. 마우스 오른쪽 버튼을 클릭한 뒤, `Open`을 선택합니다.
