@@ -7,7 +7,7 @@ tags:
 
 # UK Community Cup 8
 
-![UKCC 8 Logo](img/banner.png)
+![UKCC 8 logo](img/banner.png)
 
 The 8th edition of the bi-annual UK Community Cup, a tournament for those who live or are from the UK or Ireland. This edition is a 2v2.
 
@@ -97,7 +97,7 @@ Current Stage: **[Signups (click for signup form)](https://forms.gle/s1FQ1sRTrwX
 ![Schedules](img/schedules.png)
 
 | Event | Timestamp |
-| --: | :--|
+| --: | :-- |
 | Signups Open | 2020-02-20 |
 | Signups Closed | 2020-03-15 |
 | Group Stage | 2020-03-28/2020-03-29 |
@@ -112,7 +112,7 @@ Current Stage: **[Signups (click for signup form)](https://forms.gle/s1FQ1sRTrwX
 
 ![Prizes](img/prizes.png)
 
-| Placing | Prize(s)|
+| Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "Winner") | *tba* |
 | ![Silver crown](/wiki/shared/crown-silver.png "Second place") | *tba* |
@@ -136,7 +136,7 @@ UK is run by many wonderful people, this list doesn't fully represent how many a
 
 ## Teams
 
-A list of teams will be released upon the completion of the signup/screening phase
+A list of teams will be released upon the completion of the signup/screening phase.
 
 ---
 
