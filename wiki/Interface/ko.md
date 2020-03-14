@@ -1,11 +1,3 @@
-<!--Logo definitions-->
-[Osu!]: /wiki/shared/mode/osu.png
-[Taiko]: /wiki/shared/mode/taiko.png
-[Ctb]: /wiki/shared/mode/catch.png
-[Mania]: /wiki/shared/mode/mania.png
-[Heart]: /wiki/shared/icon/heart.gif
-[Fire]: /wiki/shared/icon/flame.gif
-
 # 인터페이스
 
 ![인터페이스 스크린](img/Intro_static.jpg)
@@ -14,7 +6,7 @@
 
 ![메인 메뉴](img/Introscreen.jpg)
 
-[osu!cookie](/wiki/Glossary#cookie) \[1\]는 재생되고 있는 노래의 설정된 [BPM](/wiki/BPM)에 맞춰 뜁니다. 또한 곡의 음량에 따라 osu!cookie 막대의 길이가 바뀝니다. 노래가 재생되고 있지 않으면, 60BPM에 맞추어 뜁니다.
+[osu!cookie](/wiki/Glossary#cookie) \[1\]는 재생되고 있는 노래의 설정된 [BPM](/wiki/Beatmapping/Beats_per_minute)에 맞춰 뜁니다. 또한 곡의 음량에 따라 osu!cookie 막대의 길이가 바뀝니다. 노래가 재생되고 있지 않으면, 60BPM에 맞추어 뜁니다.
 
 - \[2\] Play(`P`)를 누르거나 로고를 클릭하면 솔로 모드의 곡 선택 화면으로 넘어갑니다.
 - \[3\] Edit(`E`)을 누르면 편집 모드의 곡 선택 화면으로 이동합니다.
@@ -45,7 +37,7 @@
 3. `Change Avatar`(아바타 변경): 웹 브라우저를 열어 아바타 설정 페이지를 띄웁니다.
 4. `Close`(닫기) : 유저 옵션 창을 닫습니다.
 
-# 플레이 메뉴
+## 플레이 메뉴
 
 ![플레이 메뉴](img/Introscreen2.jpg)
 
@@ -58,6 +50,7 @@
 *본문: [멀티 플레이](/wiki/Multi)*
 
 ![멀티 플레이 로비](img/Multi-Play-2016.png)
+
 ![멀티 플레이 호스트](img/Multi-play!_Host.jpg)
 
 1. 호스트 여부
@@ -79,17 +72,18 @@
 
 팁: 유저 패널 내 랭킹 위의 아이콘이나, 모드 선택 버튼 위의 아이콘 또는 화면 뒤 배경에 투명하게 비치는 로고로 현재 선택된 게임 모드를 알 수 있습니다.
 
-- ![][Osu!] : [osu!](/wiki/osu!)
-- ![][Taiko] : [osu!taiko](/wiki/osu!taiko)
-- ![][Ctb] : [osu!catch](/wiki/osu!catch)
-- ![][Mania] : [osu!mania](/wiki/osu!mania)
+- ![](/wiki/shared/mode/osu.png) : [osu!](/wiki/Game_Modes/osu!)
+- ![](/wiki/shared/mode/taiko.png) : [osu!taiko](/wiki/Game_Modes/osu!taiko)
+- ![](/wiki/shared/mode/catch.png) : [osu!catch](/wiki/Game_Modes/osu!catch)
+- ![](/wiki/shared/mode/mania.png) : [osu!mania](/wiki/Game_Modes/osu!mania)
 
 다음 섹션으로 넘어가기 전에, 이 화면은 숫자로 표시하기엔 너무 많은 정보를 담고 있어서 보기 좋은 설명을 위해 좌상단에서 우하단으로 한 개씩 설명합니다.
 
 ### 비트맵 정보
 
-![soloplay2.png](img/Soloplay2.jpg)
-![soloplay2.5.png](img/Soloplay2.5.jpg)
+![](img/Soloplay2.jpg)
+
+![](img/Soloplay2.5.jpg)
 
 여기에는 **선택 된 비트맵의 정보**가 표시되며, 기본적으로 osu!주크박스에서 나오던 노래의 비트맵이 선택됩니다. 좌측 상단은 비트맵의 랭크 여부를 표시합니다. 타이틀은 그 옆에 표시됩니다. 일반적으로 영어 타이틀이 표시되지만, [설정](/wiki/Options)의 `비트맵 정보 원어로 보기`를 선택한 경우 유니코드 타이틀이 표시됩니다. 비트맵 제작자도 표시 되며, 비트맵 정보는 그 아래에 표시됩니다. 왼쪽에서 오른쪽으로, 각 정보는 다음과 같습니다.
 
@@ -229,6 +223,7 @@
 ### 도구 모음
 
 ![게임 모드 목록](img/Mode_screen.png)
+
 ![](img/Soloplay7.jpg)
 
 이 섹션은 도구 모음이라고 불립니다. 왼쪽에서 오른쪽으로 설명합니다.
@@ -243,7 +238,7 @@
 
 `Mods` 버튼을 누르거나 `F1` 키를 누르면 **[게임 내 모드 선택](/wiki/Game_Modifiers)** 창이 나타납니다.
 
-이 화면에서는 게임 내 모드 (줄여서 `모드`)를 선택할 수 있습니다. 이러한 모드는 게임의 난이도를 낮추지만 얻은 점수의 배율을 낮추기도 하고, 게임의 난이도를 높이지만 얻은 점수의 배율을 높이기도 합니다. 어떤 모드는 완전히 다른 방식으로 게임을 바꾸기도 합니다. [Relax](/wiki/Game_Modifiers#Relax)와 [Auto Pilot](/wiki/Game_Modifiers#Auto_Pilot)이 이러한 모드에 속합니다.
+이 화면에서는 게임 내 모드 (줄여서 `모드`)를 선택할 수 있습니다. 이러한 모드는 게임의 난이도를 낮추지만 얻은 점수의 배율을 낮추기도 하고, 게임의 난이도를 높이지만 얻은 점수의 배율을 높이기도 합니다. 어떤 모드는 완전히 다른 방식으로 게임을 바꾸기도 합니다. [Relax](/wiki/Game_Modifiers#relax)와 [Auto Pilot](/wiki/Game_Modifiers#auto-pilot)이 이러한 모드에 속합니다.
 모드의 아이콘 위에 마우스 커서를 올려놓으면 해당 모드의 효과에 대한 짧은 설명을 볼 수 있습니다. 아이콘을 클릭하여 해당 모드를 선택하거나 선택 취소할 수 있습니다. Double Time과 같은 일부 모드는 여러 가지 바리에이션이 있으며, 이러한 경우에는 여러 번 클릭하면 모드를 변경할 수 있습니다. Score multiplier 값은 선택한 모드의 배율 값을 모두 반영해 스코어 계산에 영향을 주는 최종 값을 나타냅니다. `모든 모드 재설정` 버튼을 누르거나 `1` 을 눌러 현재 선택한 모든 모드의 선택을 취소합니다. `닫기` 버튼을 클릭하거나 `2` 또는 `ESC` 키를 눌러 곡 선택 화면으로 돌아갑니다.
 
 게임 내 모드 창을 띄우고 있을 때는 채팅 창 및 확장 채팅 인터페이스를 띄울 수 없습니다. 스킨을 적용한 경우 모드의 아이콘 또는 텍스트가 바뀔 수 있으나 효과는 똑같이 적용됩니다.
@@ -267,7 +262,7 @@
 
 **유저 패널**을 누르면 **유저 옵션**이 나타납니다.
 
-**[osu!cookie](/wiki/cookie)** 를 누르면 **선택된 비트맵을 시작**합니다.
+**[osu!cookie](/wiki/Glossary#cookie)** 를 누르면 **선택된 비트맵을 시작**합니다.
 
 ## 랭킹 화면
 
@@ -294,10 +289,10 @@
 이것은 온라인 리더보드입니다. 결과 화면에서 스크롤을 내리면 확인할 수 있습니다. 로컬 랭킹, 온라인 랭킹, 비트맵 평점 순으로 표시됩니다.
 
 1. 로컬 스코어보드 내에서의 이름을 바꿀 수 있습니다.
-2. 당신의 유저 패널입니다. 당신의 [PP](/wiki/pp), 글로벌 랭킹, 총 점수, 평균 [정확도](/wiki/Accuracy)와 레벨을 알 수 있습니다.
+2. 당신의 유저 패널입니다. 당신의 [PP](/wiki/Performance_Points), 글로벌 랭킹, 총 점수, 평균 [정확도](/wiki/Accuracy)와 레벨을 알 수 있습니다.
 3. 비트맵과 관련된 옵션입니다.
    1. Export Replay as `.osr` (리플레이를 `.osr` 파일로 저장): 리플레이 파일을 저장합니다. 파일이 있다면 온라인이든, 로컬에서든 사용할 수 있습니다.
-   2. Online Favourite(온라인 즐겨찾기): 비트맵을 온라인 즐겨찾기에 추가합니다. 온라인 프로필의 Beatmaps-&gt;Favourite Beatmaps에서 확인할 수 있습니다.
+   2. Online Favourite(온라인 즐겨찾기): 비트맵을 온라인 즐겨찾기에 추가합니다. 온라인 프로필의 Beatmaps->Favourite Beatmaps에서 확인할 수 있습니다.
 4. 사용자의 원래 프로필에서의 변화를 표시합니다. 랭킹의 상승이나 하락, 전체 점수의 증가, 정확도 변화를 표시합니다. 텍스트가 빠르게 사라지니 절대 놓치지 마세요!
 5. 개인 성적입니다. 비트맵이 업로드되지 않았거나, 오프라인에서는 표시되지 않습니다.
    1. Map Rank(맵 랭킹): 이 맵에서 받은 랭킹이 표시됩니다. 여기에는 어떤 모드인지는 상관하지 않습니다.
@@ -306,7 +301,7 @@
    4. Ranked Score(랭크 점수): 랭크된 비트맵의 점수 총합입니다. Approved 곡은 계산되지 않습니다.
    5. Total Score(총 점수): 총 점수를 나타냅니다. 언제든지 계산됩니다. 클리어에 실패해도, 신기록을 세우지 못해도 계산됩니다. 경험치에 영향을 줍니다.
    6. To Next Rank(다음 랭킹까지): 이 비트맵에서 다음 랭킹까지 점수가 얼마나 더 필요한지 표시합니다.
-6. 4번과 같지만, [스포트라이트 랭킹](https://osu.ppy.sh/p/chart)을 위한 자리입니다. 만약 비트맵이 스포트라이트에 포함된다면, 해당 스포트라이트 랭킹이 표시됩니다.
+6. 4번과 같지만, [스포트라이트 랭킹](https://osu.ppy.sh/rankings/osu/charts)을 위한 자리입니다. 만약 비트맵이 스포트라이트에 포함된다면, 해당 스포트라이트 랭킹이 표시됩니다.
 7. 이 비트맵의 기본사항과 노래의 통과 비율, 플레이 기록이 있습니다.
 8. 비트맵 총점입니다. 개인적으로 이 비트맵이 재밌는지 평가해주세요. 잘 모르겠으면 일단 넘어가고 나중에 해도 됩니다.
 9. 곡 선택 화면으로 돌아갑니다.
