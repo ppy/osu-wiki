@@ -80,7 +80,7 @@ HP Drain Rate, commonly abbreviated as HP, determines the rate of health recover
 
 In osu!standard and osu!catch, this also affects the [Passive HP](/wiki/Glossary#life-bar) (the constant rate at which HP decreases, except during the [Breaks](/wiki/Breaks).
 
-*Note: More HP is recovered with [Geki and Katu](/wiki/Score/#osu) hit scores, which can be given from the last hit object in a combo.*
+*Note: More HP is recovered with [Geki and Katu](/wiki/Score#osu) hit scores, which can be given from the last hit object in a combo.*
 
 ### Circle Size
 
@@ -235,7 +235,7 @@ You can, however, include the skin elements inside the beatmap folder. As most c
 
 In osu!standard, hit objects will automatically stack if they are both placed in the same spot while being close in-time. This is to help players see hit objects that overlap each other.
 
-Moving the slider towards the right will space out the "closeness" of hit objects in-time before stacking will occur. [Rules](/wiki/rc_osu!/#gameplay) dictate that if `Stack Leniency` is set so that stacking no longer occurs, the creator must manually offset the hit objects. This option is best left as is to its default value of `7`.
+Moving the slider towards the right will space out the "closeness" of hit objects in-time before stacking will occur. [Rules](/wiki/rc_osu!#gameplay) dictate that if `Stack Leniency` is set so that stacking no longer occurs, the creator must manually offset the hit objects. This option is best left as is to its default value of `7`.
 
 *Notice: Stacked hit circles in osu!standard will move towards the point where the stacking occurs.*
 

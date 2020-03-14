@@ -21,7 +21,7 @@ Congratulations to the winners of the June 2014 Ranking Charts. They get rewarde
 Additionally, we reward the highest voted map by providing 1 month supporter tag to the mapper:
 
 -   **osu! standard:** [Satellite](https://osu.ppy.sh/users/1661227) for [senya - Yureru Koi wa Nami no Gotoku](https://osu.ppy.sh/beatmapsets/154056) (11 votes)
--   **Taiko:** [\[I\]MMoRTal\[S\]](https://osu.ppy.sh/users/2988243) for [sasakure.UK (feat.Hatsune Miku) - SeventH-HeaveN]() (12 votes)
+-   **Taiko:** [\[I\]MMoRTal\[S\]](https://osu.ppy.sh/users/2988243) for [sasakure.UK (feat.Hatsune Miku) - SeventH-HeaveN](https://osu.ppy.sh/beatmapsets/177182) (12 votes)
 -   **Catch the Beat:** [Spectator](https://osu.ppy.sh/beatmapsets/177182) for [Mili - Utopiosphere](https://osu.ppy.sh/beatmapsets/187177) (10 votes)
 -   **osu!mania:** [PROGUY](https://osu.ppy.sh/users/528181) for [myon - G Free ~ Final Dream](https://osu.ppy.sh/beatmapsets/171090) (14 votes)
 

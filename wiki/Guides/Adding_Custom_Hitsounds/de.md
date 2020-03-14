@@ -1,24 +1,24 @@
 # Eigene Hinsounds hinzufügen
 
-Von dem Thread: [*Wie man einen Eigenen Hitsound hinzufügt.* (von neonat)](https://osu.ppy.sh/community/forums/posts/3215699)
+Von dem Thread: *[Wie man einen Eigenen Hitsound hinzufügt. (von neonat)](https://osu.ppy.sh/community/forums/posts/3215699)*
 
 ## Eigene Hitsounds
 
 Als erstes werden einige Hitsounds benötigt.
 
--   Man kann sie aus der [Spieler-Hitsound-Bibliothek](../Custom_Hitsound_Library) bekommen.
--   Oder man erstellt Hitsounds selber.
+- Man kann sie aus der [Spieler-Hitsound-Bibliothek](/wiki/Guides/Custom_Hitsound_Library) bekommen.
+- Oder man erstellt Hitsounds selber.
 
 ## Manuell die Hitsounds in den Song Ordner einfügen
 
 Der Song Ordner kann mit folgenen Schritten gefunden werden:
 
-1.  Öffne osu!
-2.  Klicke auf Edit.
-3.  Navigiere zu *deine Beatmap hier* und öffne sie.
-4.  Klicke oben auf Datein (Files) (Das Menu oben-links, es ist die weiß gefärbte Leiste oben).
-5.  Öffne den Song Ordner.
-6.  *und füge die Hitsounds ein*
+1. Öffne osu!
+2. Klicke auf Edit.
+3. Navigiere zu *deine Beatmap hier* und öffne sie.
+4. Klicke oben auf Datein (Files) (Das Menu oben-links, es ist die weiß gefärbte Leiste oben).
+5. Öffne den Song Ordner.
+6. *und füge die Hitsounds ein*
 
 ## Die Wahl welche Art von Ton der Hitsound sein soll
 

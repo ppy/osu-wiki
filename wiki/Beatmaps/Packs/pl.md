@@ -14,7 +14,7 @@ Warto zanotować, że większość paczek:
 Paczki beatmap są podzielone na 4 kategorie:
 
 | Kategoria | Typ beatmap |
-| --- | --- |
+| :-- | :-- |
 | Standardowe | Rankingowe bądź zatwierdzone beatmapy |
 | Wyróżnione | Wyróżnione beatmapy mogące stanowić wyzwanie dla graczy |
 | Tematyczne | Beatmapy posiadające wspólną tematykę |

@@ -23,9 +23,9 @@
 
 | Placing                                                    | Prizes                                      |
 |------------------------------------------------------------|---------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 50% 奖池, profile badge, "osu! Champion" 用户标题 |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 38% 奖池, profile badge                       |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 12% 奖池l, profile badge                      |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 50% 奖池, profile badge, "osu! Champion" 用户标题 |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 38% 奖池, profile badge                       |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 12% 奖池l, profile badge                      |
 
 ## 比赛组织
 

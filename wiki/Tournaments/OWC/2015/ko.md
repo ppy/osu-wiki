@@ -23,9 +23,9 @@
 
 | Placing                                                    | Prizes                                    |
 |------------------------------------------------------------|-------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 총 상금의 50%, 프로필 뱃지, "osu! Champion" 유저 타이틀 |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 총 상금의 38%, 프로필 뱃지                         |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 총 상금의 12%, 프로필 뱃지                         |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 총 상금의 50%, 프로필 뱃지, "osu! Champion" 유저 타이틀 |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 총 상금의 38%, 프로필 뱃지                         |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 총 상금의 12%, 프로필 뱃지                         |
 
 ## 주최자 구성
 

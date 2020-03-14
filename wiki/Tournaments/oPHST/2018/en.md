@@ -60,8 +60,8 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 
 | Placing | Prize(s) |
 | :---: | :--- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge and 2 months of osu!supporter |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Profile badge and 2 months of osu!supporter |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter |
 
 ![std badge](img/std.png) ![ctb badge](img/ctb.png) ![mania 4K badge](img/4kmania.png) ![mania 7K badge](img/7Kmania.png)
 
@@ -191,33 +191,33 @@ The following players are the people who managed to pull through the whole compe
 
 | Placing | User |
 |:---:|---|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [Dunois](https://osu.ppy.sh/users/4581715) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [-Marika](https://osu.ppy.sh/users/2199427) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [Varsagus](https://osu.ppy.sh/users/3885723), [TyrantsEye2014](https://osu.ppy.sh/users/4530738) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | [Dunois](https://osu.ppy.sh/users/4581715) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | [-Marika](https://osu.ppy.sh/users/2199427) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | [Varsagus](https://osu.ppy.sh/users/3885723), [TyrantsEye2014](https://osu.ppy.sh/users/4530738) |
 
 ### osu!catch Division
 
 | Placing | User |
 |:---:|---|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [Roido](https://osu.ppy.sh/users/6829103) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [-Nicotine](https://osu.ppy.sh/users/4818935) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [KaganimeRin](https://osu.ppy.sh/users/1626093) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | [Roido](https://osu.ppy.sh/users/6829103) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | [-Nicotine](https://osu.ppy.sh/users/4818935) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | [KaganimeRin](https://osu.ppy.sh/users/1626093) |
 
 ### osu!mania 4K Division
 
 | Placing | User |
 |:---:|---|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [joseee-](https://osu.ppy.sh/users/10083439) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [exodia3000](https://osu.ppy.sh/users/10500797) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [Vigne Tsukinose](https://osu.ppy.sh/users/9793187) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | [joseee-](https://osu.ppy.sh/users/10083439) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | [exodia3000](https://osu.ppy.sh/users/10500797) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | [Vigne Tsukinose](https://osu.ppy.sh/users/9793187) |
 
 ### osu!mania 7K Division
 
 | Placing | User |
 |:---:|---|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | [cieloday05](https://osu.ppy.sh/users/2722489) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | [Vigne Tsukinose](https://osu.ppy.sh/users/9793187) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | [MapleSyrup-](https://osu.ppy.sh/users/1192936) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | [cieloday05](https://osu.ppy.sh/users/2722489) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | [Vigne Tsukinose](https://osu.ppy.sh/users/9793187) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | [MapleSyrup-](https://osu.ppy.sh/users/1192936) |
 
 ---
 

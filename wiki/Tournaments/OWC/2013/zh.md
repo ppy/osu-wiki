@@ -12,9 +12,9 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 
 | Placing                                                    | Country                               |
 |------------------------------------------------------------|---------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | ![][flag_KR] **韩国** |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_TW] **台湾** |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_PL] **波兰** |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | ![][flag_KR] **韩国** |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TW] **台湾** |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PL] **波兰** |
 
 ## 比赛日程
 
@@ -32,9 +32,9 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 
 | Placing                                                    | Prize(s)                                                                  |
 |------------------------------------------------------------|---------------------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6个月的supporter标签, 个人页面徽章, OWC奖杯, [osu!tablet](https://osu.ppy.sh/community/forums/topics/169139) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3个月的supporter标签                                                           |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1个月的supporter标签                                                           |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 6个月的supporter标签, 个人页面徽章, OWC奖杯, [osu!tablet](https://osu.ppy.sh/community/forums/topics/169139) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3个月的supporter标签                                                           |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1个月的supporter标签                                                           |
 
 ## 主办方
 

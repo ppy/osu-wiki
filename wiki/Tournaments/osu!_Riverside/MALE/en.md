@@ -25,9 +25,9 @@ All prizes were awarded to both the osu! and osu!mania winners.
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge, Aorus K7 keyboard |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Aorus M3 mouse |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | AMP500 mousepad |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, Aorus K7 keyboard |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Aorus M3 mouse |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | AMP500 mousepad |
 
 ![MALE osu! profile badge](img/badge-osu.png) ![MALE osu!mania profile badge](img/badge-mania.png)
 
@@ -82,17 +82,17 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_US] Mathyu |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_US] Darin on osu |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] Kenny |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] Mathyu |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] Darin on osu |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] Kenny |
 
 ### osu!mania
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_US] Zushen |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_US] Ecal |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] Ouchiee |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] Zushen |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] Ecal |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] Ouchiee |
 
 ---
 

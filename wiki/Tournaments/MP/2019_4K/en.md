@@ -32,9 +32,9 @@ The prize pool was crowdfunded through the [tipanddonation](https://tipanddonati
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 300 PLN, profile badge, 6 months of osu!supporter tag |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 200 PLN, 4 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 100 PLN, 2 months of osu!supporter tag |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 300 PLN, profile badge, 6 months of osu!supporter tag |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 200 PLN, 4 months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 100 PLN, 2 months of osu!supporter tag |
 
 ![MP4K 2019 Badge](img/badge.png "MP4K 2019 Winner Badge")
 
