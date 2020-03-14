@@ -97,19 +97,19 @@ The osu!taiko World Cup 2020 is run by various community members.
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Spain | ![][flag_ES] | ![][flag_DE] | Germany | **17:00 UTC** | 18:00 UTC+01 | 18:00 UTC+01 |
+| Singapore | ![][flag_SG] | ![][flag_PL] | Poland | **14:00 UTC** | 22:00 UTC+08 | 15:00 UTC+01 |
+| Spain | ![][flag_ES] | ![][flag_DE] | Germany | **16:00 UTC** | 17:00 UTC+01 | 17:00 UTC+01 |
 | Italy | ![][flag_IT] | ![][flag_GB] | United Kingdom | **18:00 UTC** | 19:00 UTC+01 | 18:00 UTC |
-| France | ![][flag_FR] | ![][flag_BR] | Brazil | **19:00 UTC** | 20:00 UTC+01 | 16:00 UTC-03 |
+| France | ![][flag_FR] | ![][flag_BR] | Brazil | **21:00 UTC** | 22:00 UTC+01 | 18:00 UTC-03 |
 
 ### Sunday, 15. March 2020
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| South Korea | ![][flag_KR] | ![][flag_CA] | Canada | **02:00 UTC** | 11:00 UTC+09 | 21:00 (Sat.) UTC-05 |
 | United States | ![][flag_US] | ![][flag_CN] | China | **03:00 UTC** | 21:00 (Sat.) UTC-06 | 11:00 UTC+08 |
+| South Korea | ![][flag_KR] | ![][flag_CA] | Canada | **04:00 UTC** | 13:00 UTC+09 | 23:00 (Sat.) UTC-05 |
 | Japan | ![][flag_JP] | ![][flag_SE] | Sweden | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 |
 | Russian Federation | ![][flag_RU] | ![][flag_TW] | Taiwan | **13:00 UTC** | 18:00 UTC+05 | 21:00 UTC+08 |
-| Singapore | ![][flag_SG] | ![][flag_PL] | Poland | **14:00 UTC** | 22:00 UTC+08 | 15:00 UTC+01 |
 
 ## Mappools
 
