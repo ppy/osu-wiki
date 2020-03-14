@@ -22,11 +22,11 @@ El [Quality Assurance Team](https://osu.ppy.sh/groups/7) escribirá un anuncio p
 ### Criterios básicos
 Los modders que buscan inscribirse para ser Beatmap Nominator deben cumplir con los siguientes requisitos:
 + Han modeado beatmaps de forma activa durante al menos 3 meses previamente al anuncio.
-+ Han acumulado al menos 50 [Kudosu](/wiki/Glossary/#kudosu) en total.
++ Han acumulado al menos 50 [Kudosu](/wiki/Glossary#kudosu) en total.
 + Envíen de 3 a 5 mods suyos que crean que los cualifique para ser Beatmap Nominator.
 
 ### ¿Qué cualifica un post como Mod?
-+ Al inscribirse se te pedirá que incluyas el número total de [Kudosu](/wiki/Glossary/#kudosu) además del número de mod posts en los últimos 3 meses. Si el anuncio se hace en abril, los mod posts de enero, febrero y marzo serán los relevantes. Los meses relevantes serán visibles en el formulario.
++ Al inscribirse se te pedirá que incluyas el número total de [Kudosu](/wiki/Glossary#kudosu) además del número de mod posts en los últimos 3 meses. Si el anuncio se hace en abril, los mod posts de enero, febrero y marzo serán los relevantes. Los meses relevantes serán visibles en el formulario.
 + Un post será tratado como mod si ha recibido Kudosu y ha sido creado durante la franja de tiempo indicada en el formulario.
 + El modo de juego (osu!, osu!taiko, osu!catch, osu!mania) en el que hayas modeado los beatmaps no importa, ya que tu actividad en la comunidad de modeo se mide de forma global y no en un modo de juego específico.
 + La fecha y hora en la que te dieron el Kudosu a tu post no importa, la única información relevante es la fecha y hora del post en sí, además del hecho de que haya sido recompensado con Kudosu.

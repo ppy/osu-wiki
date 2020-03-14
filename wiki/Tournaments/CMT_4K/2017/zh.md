@@ -21,9 +21,9 @@
 ## 比赛奖品
 
 本次比赛奖品由音游网和汉斯共同赞助，键盘由 CrazyBoard 提供。  
-![](/wiki/shared/GCrown.png) 3个月 osu!支持者，主页定制勋章，CrazyBoard Mark One 键盘；   
-![](/wiki/shared/SCrown.png) 2个月 osu!支持者；  
-![](/wiki/shared/BCrown.png) 1个月 osu!支持者。
+![](/wiki/shared/crown-gold.png) 3个月 osu!支持者，主页定制勋章，CrazyBoard Mark One 键盘；   
+![](/wiki/shared/crown-silver.png) 2个月 osu!支持者；  
+![](/wiki/shared/crown-bronze.png) 1个月 osu!支持者。
 
 ## 比赛主办团队
 

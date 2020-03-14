@@ -29,9 +29,9 @@ tags:
 
 | 등수 | 상품 |
 | :-: | :-- |
-| ![금관](/wiki/shared/GCrown.png "1등") | 프로필 뱃지 및 1등팀 배너 |
-| ![은관](/wiki/shared/SCrown.png "2등") | 2등팀 배너 |
-| ![동관](/wiki/shared/BCrown.png "3등") | 3등팀 배너 |
+| ![금관](/wiki/shared/crown-gold.png "1등") | 프로필 뱃지 및 1등팀 배너 |
+| ![은관](/wiki/shared/crown-silver.png "2등") | 2등팀 배너 |
+| ![동관](/wiki/shared/crown-bronze.png "3등") | 3등팀 배너 |
 
 ![IGTS 2019 우승자 뱃지](img/badge.png)
 
@@ -121,9 +121,9 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 
 | 등수 | 팀 |
 | :-: | :-- |
-| ![금관](/wiki/shared/GCrown.png "1등") | ![][flag_HK] 홍콩 |
-| ![은관](/wiki/shared/SCrown.png "2등") | ![][flag_US] 미국 A |
-| ![동관](/wiki/shared/BCrown.png "3등") | ![][flag_CL] 칠레 |
+| ![금관](/wiki/shared/crown-gold.png "1등") | ![][flag_HK] 홍콩 |
+| ![은관](/wiki/shared/crown-silver.png "2등") | ![][flag_US] 미국 A |
+| ![동관](/wiki/shared/crown-bronze.png "3등") | ![][flag_CL] 칠레 |
 
 ---
 

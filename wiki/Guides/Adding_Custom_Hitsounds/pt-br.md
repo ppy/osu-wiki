@@ -5,11 +5,13 @@ Do tópico: *[como hitsounds personalizados? por: neonat](https://osu.ppy.sh/com
 ## Obtendo os hitsounds personalizados
 
 Primeiro, você precisará de alguns hitsounds personalizados! Você também pode:
-- Pegá-los na [biblioteca de hitsounds personalizados](../Custom_Hitsound_Library/),
+
+- Pegá-los na [biblioteca de hitsounds personalizados](/wiki/Guides/Custom_Hitsound_Library),
 - ou criar os seus próprios
-  - se você fizer o seu próprio, tente manter o formato como `.wav` &mdash; já que é melhor para looping.
+  - se você fizer o seu próprio, tente manter o formato como `.wav` - já que é melhor para looping.
 
 Com os hitsounds em mãos, mova-os para a pasta de música. Se você não souber onde fica a sua pasta de música, siga estas instruções:
+
 1. Abra o osu!
 2. Clique em Edit
 3. Navegue para o *seu beatmap* e abra-o

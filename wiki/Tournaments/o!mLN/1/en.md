@@ -28,7 +28,7 @@ The **osu!mania LN Tournament** (***o!mLN***) was a double-elimination one-on-on
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
 ![o!mLN Winner Badge](img/badge.png)
 
@@ -87,9 +87,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_GB] [Amascite](https://osu.ppy.sh/users/3359035) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_GB] [Amascite](https://osu.ppy.sh/users/3359035) |
 
 ---
 

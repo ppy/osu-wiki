@@ -332,7 +332,7 @@ Les images peuvent provenir de n’importe où, tant que l’image existe à par
 
 **N'utilisez pas une image enregistrée dans un chemin de fichier local!** Utiliser `C:\Users\Name\Pictures\image.jpg` **ne fonctionnera pas**.
 
-Télécharger vos images sur des site de partage d'image réputés, tel que [imgur](https://imgur.com/ "imgur") ou [puush](https://puush.me/ "puush"). Quand l'image est téléchargée avec succès, copier et coller le lien du site entre les balises image. Notez également que certains sites Web n'apprécient pas les liens directs vers leurs images (autrement dit *hotlinks*). Les sites de partage d'images, comme ceux énumérés ci-dessus, acceptent les liens directs, car ce sont des sites de partage d'images.
+Télécharger vos images sur des site de partage d'image réputés, tel que [imgur](https://imgur.com) ou [puush](https://puush.me). Quand l'image est téléchargée avec succès, copier et coller le lien du site entre les balises image. Notez également que certains sites Web n'apprécient pas les liens directs vers leurs images (autrement dit *hotlinks*). Les sites de partage d'images, comme ceux énumérés ci-dessus, acceptent les liens directs, car ce sont des sites de partage d'images.
 
 - Bouton dédié : ![Bouton pour les images](img/image.png)
 - Notes :

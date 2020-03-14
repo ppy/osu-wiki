@@ -5,11 +5,13 @@ From the thread: *[how to add custom hitsound? by: neonat](https://osu.ppy.sh/co
 ## Getting the custom hitsounds
 
 You'll first need some custom hitsounds! You can either:
-- You can get them from the [Custom Hitsound Library](../Custom_Hitsound_Library/),
+
+- You can get them from the [Custom Hitsound Library](/wiki/Guides/Custom_Hitsound_Library),
 - or make your own
   - if you do make your own, try to keep the format as `.wav` - as it is best for looping.
 
 Once you get them, move them into the song folder itself. If you don't know where your song folder is located, follow these directions:
+
 1. Open osu!
 2. Edit
 3. Navigate to *your beatmap* and open it

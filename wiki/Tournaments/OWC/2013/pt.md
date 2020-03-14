@@ -10,9 +10,9 @@ A Copa do Mundo do osu! 2013 (em inglês, osu! World Cup 2013), também conhecid
 
 | Placing                                                    | Country                                    |
 |------------------------------------------------------------|--------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | ![][flag_KR] **Coreia**  |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_TW] **Taiwan**  |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_PL] **Polônia** |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | ![][flag_KR] **Coreia**  |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TW] **Taiwan**  |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PL] **Polônia** |
 
 ## Calendário do Torneio
 

@@ -13,7 +13,7 @@ needs_cleanup: true
 
 # Beatmap packs 0916
 
-***[Click here to return to the "Achievements" page](../)***
+***[Click here to return to the "Achievements" page](..)***
 
 These are the legacy/original themed packs packed during osu! infancy years (2009) before being updated by [Stefan on 16 January 2016](https://osu.ppy.sh/news/137535031193).
 Hence why the `0916` part is in the title.

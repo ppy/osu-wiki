@@ -11,9 +11,9 @@ Cette compétition est terminée et a abouti au podium suivant :
 
 | Placing                                                    | Country                                      |
 |------------------------------------------------------------|----------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | ![][flag_JP] **Japon**     |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_PL] **Pologne**   |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_DE] **Allemagne** |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | ![][flag_JP] **Japon**     |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PL] **Pologne**   |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_DE] **Allemagne** |
 
 ## Calendrier
 
@@ -34,9 +34,9 @@ Pour chaque participant :
 
 | Placing                                                    | Prizes                                                                                                                                  |
 |------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | Statut de supporter pendant 6 mois + un badge sur le profil + le titre de « osu!Champion » sur le profil + un objet à l'effigie de osu! |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Statut de supporter pendant 3 mois                                                                                                      |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Statut de supporter pendant 1 mois                                                                                                      |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | Statut de supporter pendant 6 mois + un badge sur le profil + le titre de « osu!Champion » sur le profil + un objet à l'effigie de osu! |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Statut de supporter pendant 3 mois                                                                                                      |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Statut de supporter pendant 1 mois                                                                                                      |
 
 ## Organisateurs
 

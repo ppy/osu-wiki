@@ -20,7 +20,7 @@ Fazer isso irá mostrar uma lista de comandos (os da tabela abaixo).
 Você pode usar `!<comando>` ou `/bb <comando>` em qualquer aba de conversa.
 
 | `<comando>` | Efeito | Exemplo | Resposta do BanchoBot |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | `WHERE <ususuário>` | Mostra a localização do usuário solicitado | `!where João` | João está no Brasil |
 | `STATS <usuário>` | Mostra as estatísticas do usuário solicitado (baseado na atual aba do jogador) | `/bb stats João` | João está ocioso. Pontuação:00 (#0). Vezes Jogadas:2 (lvl 4). Precisão:0.00%. |
 | `FAQ <código-de-idioma><item> <list>` | Várias utilizações. \[list\] Mostra uma lista de comandos. | `!faq wiki` / `!faq pt:wiki` | The osu! Wiki - Make it awesome! / A osu! Wiki - Torne-a incrível! |

@@ -6,7 +6,7 @@ outdated: true
 
 *Tidak bingung dengan: [Kesulitan](/wiki/Difficulties).*
 
-Beatmap adalah tingkat kesulitan dalam [osu!](/wiki/osu!_glossary), sama seperti tahapan di [Permainan DS](/wiki/Glossary/#ds-games). Dalam bentuk paling dasar mereka, beatmap memiliki lagu dan berbagai [hit objects](/wiki/hit_objects) yang ditempatkan sesuai dengan irama musik. Mereka juga dapat memiliki gambar latar belakang, video, bahkan [storyboard](/wiki/storyboard).
+Beatmap adalah tingkat kesulitan dalam [osu!](/wiki/osu!_glossary), sama seperti tahapan di [Permainan DS](/wiki/Glossary#ds-games). Dalam bentuk paling dasar mereka, beatmap memiliki lagu dan berbagai [hit objects](/wiki/hit_objects) yang ditempatkan sesuai dengan irama musik. Mereka juga dapat memiliki gambar latar belakang, video, bahkan [storyboard](/wiki/storyboard).
 
 Beatmap diunggah menggunakan [BSS](/wiki/BSS) (Beatmap Submission System) dan kemudian melalui proses persetujuan yang disebut [modding](/wiki/modding) untuk mempertahankan standar.
 

@@ -8,7 +8,7 @@ outdated: true
 
 -   [Graveyarded Beatmap Archiving](https://osu.ppy.sh/community/forums/topics/49310)—A forum thread to request deleted graveyarded beatmaps.
 -   [Live Event Feed](https://osu.ppy.sh/community/forums/topics/9015)—A live feed of current player events.
-    -   [Website](/p/events)
+    -   [Website](https://old.ppy.sh/p/events)
 -   [osu! (OS X)](https://osu.ppy.sh/community/forums/topics/56460)—osu! on OS X (results will vary).
     -   [GitHub](https://github.com/ppy/osu-wine) | [Website](http://osuosx.tumblr.com)
 -   [osu! Community Localisation Project](https://osu.ppy.sh/community/forums/topics/104342)—The osu! localisation project, localise your language into osu!.
@@ -42,6 +42,8 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
     -   [GitHub](https://github.com/itdelatrisu/opsu) | [Website](http://itdelatrisu.github.io/opsu/)
 -   [osu! python edition](https://osu.ppy.sh/community/forums/topics/688175)—Python clone of osu!
 -   [T-Aiko!](https://osu.ppy.sh/community/forums/topics/58640)—A free [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia") game that plays osu! beatmaps on your iPhone or Android device.
+-   osu!droid—An unofficial osu! client written for Android.
+    -   [Website](http://ops.dgsrz.com/)
 
 ### Gameplay
 

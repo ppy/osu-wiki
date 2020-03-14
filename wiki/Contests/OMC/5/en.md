@@ -1,16 +1,16 @@
 ---
 tags:
+  - OMC
   - OMC5
-  - 'OMC #5'
 ---
 
-# osu! Fan Cafe Mapping Contest #5 
+# osu! Fan Cafe Mapping Contest #5
 
-![OMC5 Logo](img/Banner.jpg)
+![OMC5 logo](img/Banner.jpg)
 
 The **osu! Fan Cafe Mapping Contest #5** (***OMC5***) is a mapping contest hosted in Korea and only Koreans are permitted to participate. It is the fifth installment of the OMC.
 
-## Contest Schedule
+## Contest schedule
 
 | Event | Timestamp (UTC+9) |
 | --: | :-- |
@@ -23,46 +23,45 @@ Schedules may be delayed.
 
 ## Songs
 
- Contestants are offered two songs to choose from. Only these two songs may be mapped for the contest.
+Contestants are offered two songs to choose from. Only these two songs may be mapped for the contest.
 
- 1. HyuN - Absolute
- 2. Cranky - R176
+1. HyuN - Absolute
+2. Cranky - R176
 
- You can download the .osz file for the provided songs at [here](https://drive.google.com/drive/folders/1RGEL2DPoO1Cl1zSnQtKprRB-C-4ZEMxo?usp=sharing).
+You can download the .osz file for the provided songs at [here](https://drive.google.com/drive/folders/1RGEL2DPoO1Cl1zSnQtKprRB-C-4ZEMxo?usp=sharing).
 
 ## Ruleset
 
 ### Rules
 
-
 - This contest is for the osu!standard mode only.
 - Only Koreans are permitted to participate. If your profile flag is not showing that you're in Korea because of some reasons like foreign residence, you can still participate as long as you're able to verify that you are Korean.
-- Contestants must only submit one difficulty. Additional difficulties won't be considered as your entry. 
-- The difficulty shouldn't be easier than Insane, otherwise the difficulty won't be considered as an entry. 
+- Contestants must only submit one difficulty. Additional difficulties won't be considered as your entry.
+- The difficulty shouldn't be easier than Insane, otherwise the difficulty won't be considered as an entry.
 - Storyboard and Video will not be considered for judging.
 - Contestants must follow the [Ranking Criteria](/wiki/Ranking_Criteria).
 - You may be disqualified from the contest if:
-    - You revealed your entry to others before results were announced.
-    - You collaborated with another mapper on your entry.
-    - You bribed one of the judges.
-    - Your behaviour caused an issue (even if it wasn't related to this contest).
+  - You revealed your entry to others before results were announced.
+  - You collaborated with another mapper on your entry.
+  - You bribed one of the judges.
+  - Your behaviour caused an issue (even if it wasn't related to this contest).
 
-### Division System
-
+### Division system
 
 - There are two divisions, a 'Pro' division and a 'Rookie' division.
 - Contestants with a ranked mapset or a ranked GD of Insane or higher difficulty will be classified as a 'Pro' division contestant.
 - Contestants without a ranked mapset or a ranked GD of Insane or higher difficulty will be classified as a 'Rookie' division contestant.
 - The two rules above will be based off of the start of the Submitting Phase.
 - Contestants may only compete within their respective divisions.
-- Contestants may only submit one beatmap, regardless of difficulty. Following the contest, the winner will map additional difficulties to complete a full mapset. 
+- Contestants may only submit one beatmap, regardless of difficulty. Following the contest, the winner will map additional difficulties to complete a full mapset.
+
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 30,000 KRW, profile badge for each division (Pro and Rookie) winner |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 20,000 KRW for each 2nd place contestant |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 10,000 KRW for each 3rd place contestant |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 30,000 KRW, profile badge for each division (Pro and Rookie) winner |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 20,000 KRW for each 2nd place contestant |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 10,000 KRW for each 3rd place contestant |
 
 ## Organisation
 
@@ -78,4 +77,3 @@ The OMC5 is run by members of the Korean mapping community.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/937258)
 - [Registration](https://forms.gle/RwDTZNyLS1A8z2Bu9)
-
