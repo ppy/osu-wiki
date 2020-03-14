@@ -277,8 +277,6 @@
 "keys":                        "Glossary#keys"
 "key":                         "Glossary#keys"
 "kiai":                        "Glossary#kiai"
-"kudosu":                      "Glossary#kudosu!"
-"kudosu!":                     "Glossary#kudosu!"
 "lead-in":                     "Glossary#lead-in"
 "lead_in":                     "Glossary#lead-in"
 "lead-in_time":                "Glossary#lead-in"
@@ -1569,4 +1567,10 @@
 # Renamed CFC 2 to CFC 2018
 "tournaments/cfc/2": "Tournaments/CFC/2018"
 
+# Sitemap isn't a real wiki page so this is necessary for the website to function when visiting /wiki/sitemap
 "sitemap": "Sitemap"
+
+# Kudosu shortcuts
+"kd":      "Modding/Kudosu"
+"kudosu":  "Modding/Kudosu"
+"kudosu!": "Modding/Kudosu"
