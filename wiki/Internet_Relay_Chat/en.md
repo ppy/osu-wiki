@@ -2,15 +2,15 @@
 needs_cleanup: true
 ---
 
-# What is Internet Relay Chat?
+# Internet Relay Chat
 
-The [Internet Relay Chat](http://en.wikipedia.org/wiki/Internet_Relay_Chat), also known as IRC, is a well established standardized protocol for chatting with numerous clients available to connect with.
+The [Internet Relay Chat](https://en.wikipedia.org/wiki/Internet_Relay_Chat), also known as IRC, is a well established standardized protocol for chatting with numerous clients available to connect with.
 
 ## osu!Bancho
 
 osu!Bancho offers a gateway for IRC (in-game chat) access. You can connect with your own client and chat with other people without using the game client. Take note that this IRC protocol is modified therefore do not expect your client's features to work properly.
 
-**Notice: [HexChat](http://hexchat.github.io/) is known to have problems with osu!'s IRC** ([bug report of HexChat's GitHub](http://github.com/hexchat/hexchat/issues/818)), consider using another client if it bothers you.
+**Notice: [HexChat](https://hexchat.github.io) is known to have problems with osu!'s IRC** ([bug report of HexChat's GitHub](https://github.com/hexchat/hexchat/issues/818)), consider using another client if it bothers you.
 
 ## How to connect
 
@@ -51,14 +51,14 @@ Knowing players who joins or parts is a good thing, however in very crowded such
 
 | IRC client | Description |
 | :-- | :-- |
-| [HexChat](http://hexchat.github.io/) | Go to Settings - Preferences, under Chatting - General, check "Hide join and part messages" |
-| [ircII](http://www.eterna.com.au/ircii/) | Type `/ignore * crap` |
-| [Irssi](http://www.irssi.org) | Type `/ignore -channels #somechannel * JOINS PARTS QUITS` |
-| [Weechat](http://www.weechat.org) | Type `/filter add irc_smart_weechat irc.username.#channel irc_smart_filter *` <br> **Note:** Replace **username** to your osu! username.
-| [KVIrc](http://www.kvirc.net) | Visit [this thread](http://www.kvirc.ru/forum/?topic=609.0) in the official KVIrc forums. |
-| [mIRC](http://www.mirc.com/) | Go to mIRC Options (Tools - Options / Alt + O), under IRC tree, click "Events..." button and change Joins and Parts to "Hide" |
-| [Quassel IRC](http://www.quassel-irc.org) | Right click on the chatting window, then choose Hide Events » Join/Part/Quit. |
-| [XChat](http://www.xchat.org) | Type `/set irc_conf_mode 1` (or [2](http://xchat.org/faq/#q211) to disable the messages throughout the channels). |
+| [HexChat](https://hexchat.github.io) | Go to Settings - Preferences, under Chatting - General, check "Hide join and part messages" |
+| [ircII](http://eterna.com.au/ircii) | Type `/ignore * crap` |
+| [Irssi](https://irssi.org) | Type `/ignore -channels #somechannel * JOINS PARTS QUITS` |
+| [Weechat](https://weechat.org) | Type `/filter add irc_smart_weechat irc.username.#channel irc_smart_filter *`. *Note: Replace **username** to your osu! username.* |
+| [KVIrc](https://kvirc.net) | Visit [this thread](http://kvirc.ru/forum/?topic=609.0) in the official KVIrc forums. |
+| [mIRC](https://mirc.com) | Go to mIRC Options (Tools - Options / Alt + O), under IRC tree, click "Events..." button and change Joins and Parts to "Hide" |
+| [Quassel IRC](https://quassel-irc.org) | Right click on the chatting window, then choose Hide Events » Join/Part/Quit. |
+| [XChat](http://xchat.org) | Type `/set irc_conf_mode 1` (or [2](http://xchat.org/faq/#q211) to disable the messages throughout the channels). |
 
 If your client is not listed here refer to its documentation, most clients have a way to do this.
 
