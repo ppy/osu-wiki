@@ -1,6 +1,8 @@
 ---
 tags:
   - BAT
+  - Beatmap Approval Team
+  - Beatmap Appreciators
 ---
 
 # Beatmap Appreciation Team
