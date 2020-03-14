@@ -5,11 +5,13 @@ Du sujet: *[Comment ajouter des hitsounds personnalisés ? par: neonat](https://
 ## Obtenir des hitsounds personnalisés
 
 Vous aurez dans un premier temps besoin de hitsounds ! Vous pouvez:
+
 - En trouver dans la [bibliothèque d'hitsounds personnalisés](/wiki/Guides/Custom_Hitsound_Library),
 - Les faire vous même
   - Si vous décidez de les faire vous même, essayez de garder le format numérique `.wav` - c'est mieux pour les sampler ensuite.
 
 Une fois que vous les avez, déplacez les dans le dossier de la chanson. Si vous ne savez pas ou se trouve le dossier de la chanson, suivez ces étapes:
+
 1. Ouvrez osu!
 2. Editer
 3. Allez sur *votre beatmap* et ouvrez-la

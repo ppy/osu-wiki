@@ -1,15 +1,19 @@
 ---
-outdated: true
-outdated_since: f90e775380f1c7041a62f3d7f5e3e29ba4326dee
+no_native_review: true
 ---
 
 # osu!api
 
-osu! possède une API publique que les services tiers peuvent utiliser pour développer et prendre en charge la plateforme osu!. Auparavant, il était plus privé et ne pouvait être utilisé que sur demande, mais tout le monde peut désormais utiliser l'API tant qu'il possède un compte osu!.
+osu! possède une [API](https://fr.wikipedia.org/wiki/API) publique que des services tiers peuvent utiliser pour développer et soutenir la plateforme osu!. C'était plus privé, on ne pouvais l'utiliser que sur demande, mais maintenant tout le monde peut utiliser l'API tant qu'il a un compte osu!.
 
-Vous pouvez trouver la documentation de l'API à l'adresse [Wiki d'osu-api](https://github.com/ppy/osu-api/wiki). La version actuelle de l'API utilise des clés privées pour authentifier les demandes. Vous pouvez demander une clé API à l’adresse suivante: [application page](https://osu.ppy.sh/p/api) sur le site d'osu!.
+Vous pouvez trouver la documentation de l'API sur [Wiki d'osu-api](https://github.com/ppy/osu-api/wiki). La version actuelle de l'API utilise des clés privées pour authentifier les demandes. Vous pouvez demander une clé API sur la [page d'application](https://osu.ppy.sh/p/api) sur le site d'osu!. Notez que la documentation sur le wiki osu-api n'est peut-être pas entièrement complète ni étendu et que l'API elle-même n'est pas en cours de développement actif.
 
-Notez que la documentation sur le wiki osu-api n'est peut-être pas entièrement complète ni extensive et que l'API elle-même n'est pas en cours de développement actif. Une nouvelle API, beaucoup plus robuste, est en préparation sur [osu-web](https://github.com/ppy/osu-web).
+---
+
+La version 2 de l'API osu! est en développement sur [osu-web](https://github.com/ppy/osu-web), et vise à être beaucoup plus robuste que l'original. La documentation (dont la mise à jour n'est pas garantie) peut être trouvée sur cette [page de référence](https://docs.ppy.sh).
+
+L'authentification pour la nouvelle API suit le [protocole OAuth 2](https://oauth.net/2/). Les clients peuvent être gérés via la [page des paramètres du compte](https://osu.ppy.sh/home/account/edit).
+
 
 ## Voir également
 
