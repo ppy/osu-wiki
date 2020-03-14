@@ -2,9 +2,9 @@
 
 Um hit object (objeto de batida) é o elemento núcleo de jogabilidade no osu!. Existem três tipos de objetos:
 
--   Hit Circle
--   Slider
--   Spinner
+- Hit Circle
+- Slider
+- Spinner
 
 Hit circles e sliders são encontrados frequentemente, enquanto que spinners irão aparecer ocasionalmente. Tudo que você interage durante o decurso do beatmap é um objeto.
 
