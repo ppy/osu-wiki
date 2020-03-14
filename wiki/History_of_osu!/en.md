@@ -7,7 +7,7 @@ needs_cleanup: true
 Records of osu!'s history, all in the osu! wiki.
 
 - [2007](/wiki/History_of_osu!/2007) - Initial game build
-- [2008](/wiki/History_of_osu!/2008) - osu!taiko and osu!catch, more mods, and major improvements
+- [2008](/wiki/History_of_osu!/2008) - Taiko and Catch the Beat, more mods, and major improvements
 - [2009](/wiki/History_of_osu!/2009) - osu! iPhone
 - 2010
 - [2011](/wiki/History_of_osu!/2011) - osu! wiki

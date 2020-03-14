@@ -3,7 +3,7 @@
 Catatan sejarah osu!, dapat diakses semua di osu! wiki.
 
 - [2007](/wiki/History_of_osu!/2007) - Pembuatan awal game
-- [2008](/wiki/History_of_osu!/2008) - osu!taiko dan osu!catch, lebih banyak mod, dan kemajuan besar
+- [2008](/wiki/History_of_osu!/2008) - Taiko dan Catch the Beat, lebih banyak mod, dan kemajuan besar
 - [2009](/wiki/History_of_osu!/2009) - osu! iPhone
 - 2010
 - [2011](/wiki/History_of_osu!/2011) - osu! wiki

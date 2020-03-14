@@ -28,7 +28,7 @@ No joke, Bancho went live this month, and so did the user panels of Extended Cha
 
 ![](img/taiko.png "Taiko Mod")
 
-The [osu!taiko](/wiki/Game_Modes/osu!taiko) mode first saw the light of day in this month, as well as another major addition, `.osb` storyboarding script support. Multi-part sliders and private messaging in chat were also made available.
+The [Taiko](/wiki/Game_Modes/osu!taiko) mode first saw the light of day in this month, as well as another major addition, `.osb` storyboarding script support. Multi-part sliders and private messaging in chat were also made available.
 
 ## June
 
@@ -54,13 +54,13 @@ A slew of new mods were unveiled this month: [Flashlight](/wiki/FL), [Spun Out](
 
 ## October
 
-Progress was made on OpenGL implementation and the upcoming game mode debut (osu!catch), in a private testing environment. A lot of the internals of osu! were rewritten, equaling over 4,000 lines of totally revamped code in order to make play modes more modular, so future modes could be added more easily. Due to these large changes, there was no public release this month.
+Progress was made on OpenGL implementation and the upcoming game mode debut (Catch the Beat), in a private testing environment. A lot of the internals of osu! were rewritten, equaling over 4,000 lines of totally revamped code in order to make play modes more modular, so future modes could be added more easily. Due to these large changes, there was no public release this month.
 
 ## November
 
-![](img/fruit_ryuuta.png "The catcher of osu!catch")
+![](img/fruit_ryuuta.png "The catcher of Catch the Beat")
 
-November saw the introduction of a brand new game mode, [osu!catch](/wiki/Game_Modes/osu!catch). OpenGL support debuted, thus allowing osu! to run on most systems. Other new features in this update included in-game friend list support, private chat tabs, a new tutorial/[offset wizard](/wiki/Options/Offset_Wizard) and osu!direct; an in-game beatmap downloader for supporters.
+November saw the introduction of a brand new game mode, [Catch the Beat](/wiki/Game_Modes/osu!catch). OpenGL support debuted, thus allowing osu! to run on most systems. Other new features in this update included in-game friend list support, private chat tabs, a new tutorial/[offset wizard](/wiki/Options/Offset_Wizard) and osu!direct; an in-game beatmap downloader for supporters.
 
 Due to people with large numbers of beatmaps complaining about the load time of osu!, peppy spent countless days optimising anything possible, resulting in a performance increase almost unmeasurable on a scale (let's just say somewhere over 9,000). Load times of over one minute reduced to just milliseconds.
 
@@ -70,7 +70,7 @@ The last month of 2008 had plenty in store for osu!'s development. By osu!'s sec
 
 Thumbnail and audible previews were added to the online beatmap listing, making browsing for a beatmap you'd like to play a much easier task.
 
-Another noticeable event was that the osu!catch scores were [wiped](https://osu.ppy.sh/community/forums/topics/7996) during this month. Since then, the score multiplier of mods has been changed in osu!catch mode as well.
+Another noticeable event was that the Catch the Beat scores were [wiped](https://osu.ppy.sh/community/forums/topics/7996) during this month. Since then, the score multiplier of mods has been changed in Catch the Beat mode as well.
 
 ## The Future
 

@@ -2,7 +2,7 @@
 
 ## Januari
 
-osu! sekarang mendukung widescreen di semua mode (termasuk editor juga)! Ukuran basis data telah berkurang sebanyak 10%. Fitur untuk mengatur ulang kunci kustom ke default telah ditambahkan. Masalah Hyperdash di [osu!catch](/wiki/Game_Modes/osu!catch) hampir selesai. Gambar hak cipta di menu utama diperbarui pada 2013 tanpa menampilkan teks hak cipta. [Hasil untuk perayaan tahunan "Best of" telah keluar. (Best of 2012)](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdDRDSjNMN3o3Y1Z6UzA0QUpFNzdlNUE#gid=0).
+osu! sekarang mendukung widescreen di semua mode (termasuk editor juga)! Ukuran basis data telah berkurang sebanyak 10%. Fitur untuk mengatur ulang kunci kustom ke default telah ditambahkan. Masalah Hyperdash di [Catch the Beat](/wiki/Game_Modes/osu!catch) hampir selesai. Gambar hak cipta di menu utama diperbarui pada 2013 tanpa menampilkan teks hak cipta. [Hasil untuk perayaan tahunan "Best of" telah keluar. (Best of 2012)](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdDRDSjNMN3o3Y1Z6UzA0QUpFNzdlNUE#gid=0).
 
 Tautan Terkait:
 
@@ -13,7 +13,7 @@ Tautan Terkait:
 
 ## Februari
 
-Versi baru dari editor osu!mania sedang dalam pengembangan. Skinning mode osu!taiko sekarang memiliki bar "metadata" (judul lagu dan artis di bawah elemen playfield), playfield taiko tidak lagi transparan dan memudar saat memasuki waktu kiai. FAQ asli yang lama telah digantikan oleh [osu! wiki](/wiki/FAQ).
+Versi baru dari editor osu!mania sedang dalam pengembangan. Skinning mode Taiko sekarang memiliki bar "metadata" (judul lagu dan artis di bawah elemen playfield), playfield taiko tidak lagi transparan dan memudar saat memasuki waktu kiai. FAQ asli yang lama telah digantikan oleh [osu! wiki](/wiki/FAQ).
 
 Seperangkat perintah `!faq` untuk BanchoBot telah dibuka untuk umum supaya dapat [diterjemahkan](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdHhUUjNSa19QendtcTdYUjE2S2hnVHc#gid=24). [BanchoBot](/wiki/BanchoBot) yang legendaris akhirnya memiliki [profil tersendiri](https://osu.ppy.sh/users/3)! Tampilan panel pengguna sekarang menyesuaikan resolusi layar untuk menampilkan empat kolom pada semua mode widescreen.
 
@@ -69,7 +69,7 @@ Tautan Terkait:
 
 Nama-nama Mod telah dipersingkat (mis. "Hard Rock" menjadi "HR") untuk menghemat penggunaan ruang di menu. Sebagian besar tayangan ulang beatmap yang rusak di masa lalu telah diperbaiki. Sistem spektator baru yang dimana Anda dapat mengikuti target spektator jika mereka sedang menonton orang lain. Sistem pembaruan telah dikerjakan ulang, yang paling penting adalah tidak ada lagi pemaksaan restart klien, kecuali jika memang diperlukan.
 
-Selama pemutaran ulang beatmap, opsi untuk memperlambat kecepatan telah ditambahkan (setelah menekan `2x` Speed, maka Speed `0.5x` akan muncul). Playfield tidak akan memunculkan latar belakang pada keredupan (background dim) 100%. [osu!catch](/wiki/Game_Modes/osu!catch) menerima dukungan joystick (Atas/Bawah: ganti lagu, Kanan: pilih, Kiri: keluar).
+Selama pemutaran ulang beatmap, opsi untuk memperlambat kecepatan telah ditambahkan (setelah menekan `2x` Speed, maka Speed `0.5x` akan muncul). Playfield tidak akan memunculkan latar belakang pada keredupan (background dim) 100%. [Catch the Beat](/wiki/Game_Modes/osu!catch) menerima dukungan joystick (Atas/Bawah: ganti lagu, Kanan: pilih, Kiri: keluar).
 
 [Sistem peringkat/modding baru sedang dikembangkan](https://osu.ppy.sh/community/forums/topics/129625) yang akan menggantikan sistem modding berbasis forum yang lama digunakan.
 
@@ -84,7 +84,7 @@ Tiga [pencapaian](/wiki/Medals) baru "Dedication" untuk osu!mania telah dirilis 
 
 [osu! Beatmapping Contest \#4](https://osu.ppy.sh/community/forums/posts/2324098) telah dimulai. Sebagai bentuk tindakan pencegahan terhadap pemain yang membuat banyak akun, kejelasan pesan selama pendaftaran akun ditingkatkan dan infografis yang menunjukkan bahwa Anda tidak dapat mendaftar dari ponsel/tablet telah ditambahkan untuk mencegah pemain membuat lebih banyak akun karena alasan pribadi.
 
-Selain di sisi keamanan, sekarang pengguna dapat memilih mode game mana yang menjadi default di profil mereka (seperti [osu!mania](/wiki/osu!mania), [osu!taiko](/wiki/Game_Modes/osu!taiko)) dan dukungan [last.fm](https://www.last.fm) telah ditambahkan ke profil. Profil pengguna sekarang memiliki peringkat performa berdasarkan negara dan grafik pp juga diperbarui.
+Selain di sisi keamanan, sekarang pengguna dapat memilih mode game mana yang menjadi default di profil mereka (seperti [osu!mania](/wiki/osu!mania), [Taiko](/wiki/Game_Modes/osu!taiko)) dan dukungan [last.fm](https://www.last.fm) telah ditambahkan ke profil. Profil pengguna sekarang memiliki peringkat performa berdasarkan negara dan grafik pp juga diperbarui.
 
 Seputaran In-game, menu utama mendapat visualisasi baru, dengan suar menyala di sekitar simbol osu!, bergantung pada intensitas BPM lagu yang diputar. Kinerja telah dioptimalkan dalam pemilihan lagu dengan banyak (lebih dari sepuluh ribu) peta. Perbarui ketahanan dan kinerja telah ditingkatkan.
 
@@ -126,9 +126,9 @@ Tautan Terkait:
 
 ![](img/2013-12_01.jpg "peppy sebagai bintang tamu di Comic Fiesta 2013")
 
-[peppy dikonfirmasi untuk datang di Comic Fiesta 2013, Malaysia pada 21 dan 22 Desember di Kuala Lumpur City Centre](https://osu.ppy.sh/community/forums/topics/163121). Untuk hari pertama (2013-12-21), osu! ditampilkan eksklusif di panggung, menampilkan osu! tersendiri beserta empat mode game yang berbeda (osu!standard, osu!taiko, osu!catch, dan osu!mania). Untuk hari 2 (2013-12-22), peppy memberikan wawasan tentang osu! bersamaan dengan rencana pembaruan di masa yang akan datang di panel dan memamerkan tablet osu! pada publik untuk mencobanya.
+[peppy dikonfirmasi untuk datang di Comic Fiesta 2013, Malaysia pada 21 dan 22 Desember di Kuala Lumpur City Centre](https://osu.ppy.sh/community/forums/topics/163121). Untuk hari pertama (2013-12-21), osu! ditampilkan eksklusif di panggung, menampilkan osu! tersendiri beserta empat mode game yang berbeda (osu!standard, Taiko, Catch the Beat, dan osu!mania). Untuk hari 2 (2013-12-22), peppy memberikan wawasan tentang osu! bersamaan dengan rencana pembaruan di masa yang akan datang di panel dan memamerkan tablet osu! pada publik untuk mencobanya.
 
-Salah satu topik hangat saat ini untuk diperdebatkan adalah bahwa peppy telah membuat mode game baru dan mengujinya sebagai pembuktian konsep (menguji apakah itu dapat dimainkan, kompetitif atau cukup fleksibel). Beberapa pemain memiliki spekulasi [Tohousu!](https://osu.ppy.sh/community/forums/topics/19307) (permainan yang menghindari kerumunan objek yang datang, dan merupakan kebalikan dari osu!catch). Pada saat artikel ini ditulis, tidak banyak informasi yang ditemukan mengenai mode game baru. [Klip video tentang pembicaraan itu dapat ditemukan di blog ppy](https://blog.ppy.sh/post/71405880656/i-have-a-few-posts-waiting-for-some-final-touches).
+Salah satu topik hangat saat ini untuk diperdebatkan adalah bahwa peppy telah membuat mode game baru dan mengujinya sebagai pembuktian konsep (menguji apakah itu dapat dimainkan, kompetitif atau cukup fleksibel). Beberapa pemain memiliki spekulasi [Tohousu!](https://osu.ppy.sh/community/forums/topics/19307) (permainan yang menghindari kerumunan objek yang datang, dan merupakan kebalikan dari Catch the Beat). Pada saat artikel ini ditulis, tidak banyak informasi yang ditemukan mengenai mode game baru. [Klip video tentang pembicaraan itu dapat ditemukan di blog ppy](https://blog.ppy.sh/post/71405880656/i-have-a-few-posts-waiting-for-some-final-touches).
 
 Tautan Terkait:
 

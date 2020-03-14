@@ -28,7 +28,7 @@ Bukan lelucon, Bancho sudah selesai dan siap digunakan bulan ini, dan begitu jug
 
 ![](img/taiko.png "Taiko Mod")
 
-Mode [osu!taiko](/wiki/Game_Modes/osu!taiko) pertama kali memperlihatkan eksistensinya di bulan ini, beserta tambahan utama lainnya, dukungan skrip storyboard `.osb`. Multi-part slider dan pesan pribadi dalam obrolan juga tersedia.
+Mode [Taiko](/wiki/Game_Modes/osu!taiko) pertama kali memperlihatkan eksistensinya di bulan ini, beserta tambahan utama lainnya, dukungan skrip storyboard `.osb`. Multi-part slider dan pesan pribadi dalam obrolan juga tersedia.
 
 ## Juni
 
@@ -54,13 +54,13 @@ Banyak mod baru yang diluncurkan di bulan ini. [Flashlight](/wiki/FL), [Spun Out
 
 ## Oktober
 
-Kemajuan pertama tercatat dengan pengimplementasian OpenGL dan debut mode permainan yang akan datang (osu!catch), dalam lingkungan pengujian privat. Banyak bagian internal kode osu! ditulis ulang, menyamai lebih dari 4.000 baris kode yang dirombak secara total untuk membuat mode bermain lebih modular, sehingga di masa yang akan datang akan lebih mudah saat hendak mengimplementasikan mode baru. Karena perubahan besar ini, tidak ada rilis publik untuk bulan ini.
+Kemajuan pertama tercatat dengan pengimplementasian OpenGL dan debut mode permainan yang akan datang (Catch the Beat), dalam lingkungan pengujian privat. Banyak bagian internal kode osu! ditulis ulang, menyamai lebih dari 4.000 baris kode yang dirombak secara total untuk membuat mode bermain lebih modular, sehingga di masa yang akan datang akan lebih mudah saat hendak mengimplementasikan mode baru. Karena perubahan besar ini, tidak ada rilis publik untuk bulan ini.
 
 ## November
 
-![](img/fruit_ryuuta.png "Catcher mode osu!catch")
+![](img/fruit_ryuuta.png "Catcher mode Catch the Beat")
 
-Bulan November, kita dapat melihat pengenalan mode permainan baru, [osu!catch](/wiki/Game_Modes/osu!catch). Dukungan OpenGL juga memulai debutnya di bulan ini, implementasi ini memungkinkan osu! untuk berjalan di sebagian besar sistem. Fitur baru lainnya dalam pembaruan ini termasuk dukungan daftar teman dalam game, tab pesan pribadi, panduan tutorial/[offset wizard](/wiki/Options/Offset_Wizard), dan osu!direct, sebuah pengunduh beatmap dalam game untuk osu!supporter.
+Bulan November, kita dapat melihat pengenalan mode permainan baru, [Catch the Beat](/wiki/Game_Modes/osu!catch). Dukungan OpenGL juga memulai debutnya di bulan ini, implementasi ini memungkinkan osu! untuk berjalan di sebagian besar sistem. Fitur baru lainnya dalam pembaruan ini termasuk dukungan daftar teman dalam game, tab pesan pribadi, panduan tutorial/[offset wizard](/wiki/Options/Offset_Wizard), dan osu!direct, sebuah pengunduh beatmap dalam game untuk osu!supporter.
 
 Karena pemain yang memiliki beatmap dalam jumlah besar selalu mengeluhkan tentang waktu muat osu!, peppy menghabiskan hari-harinya untuk mengoptimalkan apa pun yang dapat ia optimalkan, hasilnya peningkatkan kinerja yang hampir tak terukir dalam skala (let's just say somewhere over 9,000). Waktu muat lebih dari satu menit telah dioptimalkan menjadi hanya sekian milidetik.
 
@@ -70,7 +70,7 @@ Bulan terakhir di tahun 2008, banyak pengembangan terjadi di osu!. Pada Natal ke
 
 Pratinjau thumbanail dan audio ditambahkan ke daftar beatmap online, membuat penelurusan beatmap yang ingin Anda mainkan jauh lebih mudah.
 
-Peristiwa lain yang patut diperhatikan adalah skor osu!catch [dihapuskan](https://osu.ppy.sh/community/forums/topics/7996) selama bulan ini. Sejak itu, jumlah pengali dari mod (score multiplier) telah diubah dalam mode osu!catch juga.
+Peristiwa lain yang patut diperhatikan adalah skor Catch the Beat [dihapuskan](https://osu.ppy.sh/community/forums/topics/7996) selama bulan ini. Sejak itu, jumlah pengali dari mod (score multiplier) telah diubah dalam mode Catch the Beat juga.
 
 ## Pesan untuk Masa Depan
 
