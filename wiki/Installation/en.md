@@ -13,7 +13,7 @@ This page will tell you how to get osu! working on your Windows device. The [osu
 - .NET framework 4+ (the installer should prompt you to download it, otherwise, you can [find it here](https://microsoft.com/en-us/download/details.aspx?id=48130))
 - A decent graphics card.
 
-## Installing osu!ss
+## Installing osu!
 
 1. Go to the [download page](https://osu.ppy.sh/home/download) and download the installer.
 2. Locate and run the installer.
