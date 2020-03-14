@@ -5,9 +5,8 @@ tags:
 
 # Countdown
 
-*For tournament timers, see: [Tournament management commands](/wiki/osu!tourney/Tournament_Management_Commands)*
-
-*For regulations around countdowns, see: [Ranking criteria](/wiki/Ranking_Criteria)*
+*For tournament timers, see: [Tournament management commands](/wiki/osu!tourney/Tournament_Management_Commands)*  
+*For regulations around countdowns, see: [Ranking criteria § General § Guidelines](/wiki/Ranking_Criteria#guidelines)*
 
 A countdown may appear in the beginning of a [beatmap](/wiki/Beatmaps). This is useful for songs that start quickly and/or abruptly, but most beatmaps do not need this enabled. Countdowns can be toggled on/off in the [song setup](/wiki/Beatmap_Editor/Song_Setup) menu under the "Design" tab, but are not allowed for [osu!taiko](/wiki/Game_Modes/osu!taiko/en.md) beatmaps.
 
