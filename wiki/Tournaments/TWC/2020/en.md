@@ -98,17 +98,17 @@ The osu!taiko World Cup 2020 is run by various community members.
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | Sweden | ![][flag_SE] | ![][flag_SG] | Singapore | **14:00 UTC** | 15:00 UTC+01 | 22:00 UTC+08 |
-| Germany | ![][flag_DE] | ![][flag_RU] | Russian Federation | **15:00 UTC** | 16:00 UTC+01 | 20:00 UTC+05 |
+| Germany | ![][flag_DE] | ![][flag_RU] | Russian Federation | **15:30 UTC** | 16:30 UTC+01 | 20:30 UTC+05 |
 | Italy | ![][flag_IT] | ![][flag_FR] | France | **17:00 UTC** | 18:00 UTC+01 | 18:00 UTC+01 |
 | United Kingdom | ![][flag_GB] | ![][flag_BR] | Brazil | **20:00 UTC** | 20:00 UTC | 17:00 UTC-03 |
-| United States | ![][flag_US] | ![][flag_CA] | Canada | **21:00 UTC** | 15:00 UTC-06 | 16:00 UTC-05 |
+| United States | ![][flag_US] | ![][flag_CA] | Canada | **21:30 UTC** | 15:30 UTC-06 | 16:30 UTC-05 |
 
 ### Sunday, 22. March 2020
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | China | ![][flag_CN] | ![][flag_KR] | South Korea | **11:00 UTC** | 19:00 UTC+08 | 20:00 UTC+09 |
-| Japan | ![][flag_JP] | ![][flag_PL] | Poland | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 |
+| Japan | ![][flag_JP] | ![][flag_PL] | Poland | **12:30 UTC** | 21:30 UTC+09 | 13:30 UTC+01 |
 | Spain | ![][flag_ES] | ![][flag_TW] | Taiwan | **14:00 UTC** | 15:00 UTC+01 | 22:00 UTC+08 |
 
 ## Mappools
