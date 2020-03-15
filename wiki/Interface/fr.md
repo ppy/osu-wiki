@@ -165,7 +165,7 @@ This is your online leader-board. You can go here by scrolling down from the res
     5.  Total Score: Grand total score. Always increasing despite you failed the song or not surpassing old score. Affects your level bar.
     6.  To Next Rank: How much score you need to move your current map ranking position up.
 
-5.  Same as 4, but it is reserved for monthly [Ranking Charts](https://osu.ppy.sh/p/chart)
+5.  Same as 4, but it is reserved for monthly [Ranking Charts](https://osu.ppy.sh/rankings/osu/charts)
 6.  Achievement unlock. Any achievement you unlock will be shown here. Full list of possible achievements can be found at [Achievements](/wiki/Medals) page
 7.  Beatmap song with it's history of plays and pass rate.
 8.  Beatmap Rating. Use your personal discretion based on whether you enjoy the beatmap or not. Best left alone if you can't decide.

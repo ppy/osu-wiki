@@ -301,7 +301,7 @@ This is your online leaderboard. You can go here by scrolling down from the resu
    4. Ranked Score: Your Ranked Score. If it's an approved song, it will not increase at all.
    5. Total Score: Grand total score. This will always increase even if you fail or don't surpass a high score in a beatmap. This counts towards your level.
    6. To Next Rank: How much score you need to move your current map ranking position up.
-6. Same as #4, but it is reserved for monthly [Ranking Charts](https://osu.ppy.sh/p/chart)
+6. Same as #4, but it is reserved for monthly [Ranking Charts](https://osu.ppy.sh/rankings/osu/charts)
 7. Beatmap song with its history of plays and pass rate.
 8. Beatmap Rating. Use your personal discretion based on whether you enjoy the beatmap or not. Best left alone if you can't decide.
 9. Return to Song Selection.

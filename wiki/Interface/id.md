@@ -246,7 +246,7 @@ Ini adalah papan skor daringmu. Kamu bisa pergi ke sini dengan menggulir ke bawa
     5.  Total Score: Jumlah skor keseluruhan. Akan selalu meningkat meskipun kamu gagal memainkan sebuah lagu atau tidak melampaui nilai lama. Mempengaruhi levelmu.
     6.  To Next Rank: Berapa banyak skor kamu perlukan untuk meningkatkan posisimu dalam sebuah peringkat map.
 
-5.  Sama seperti 4, tetapi disediakan untuk [Daftar Peringkat](https://osu.ppy.sh/p/chart) Bulanan
+5.  Sama seperti 4, tetapi disediakan untuk [Daftar Peringkat](https://osu.ppy.sh/rankings/osu/charts) Bulanan
 6.  Pencapaian terbuka. Setiap pencapaian yang kamu buka akan ditampilkan di sini. Daftar lengkap pencapaian yang mungkin untuk dicapai dapat ditemukan di halaman [Pencapaian](/wiki/Medals)
 7.  Lagu Beatmap dengan sejarah dimainkan dan tingkat kelulusannya.
 8.  Penilaian Beatmap. Gunakan kebijaksanaan pribadimu berdasarkan pada apakah kamu menikmati Beatmap atau tidak. Lebih baik tinggalkan jika kamu tidak dapat menilainya.
