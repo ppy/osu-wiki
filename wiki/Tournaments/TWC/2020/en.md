@@ -39,7 +39,7 @@ The osu!taiko World Cup 2020 is run by various community members.
 | :-- | :-- |
 | Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Map selector | ![][flag_AU] [Drum Decimator](https://osu.ppy.sh/users/4841352), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) |
-| Commentator | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_AU] [Drum Decimator](https://osu.ppy.sh/users/4841352), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
+| Commentator | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_AU] [Drum Decimator](https://osu.ppy.sh/users/4841352), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958), ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943), [Raphalge](https://osu.ppy.sh/users/3918650) |
 | Referee | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102) ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
@@ -91,27 +91,51 @@ The osu!taiko World Cup 2020 is run by various community members.
 
 ---
 
-## Match schedule: Round of 16
+## Match schedule: Quarterfinals
 
-### Saturday, 14. March 2020
-
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Singapore | ![][flag_SG] | ![][flag_PL] | Poland | **14:00 UTC** | 22:00 UTC+08 | 15:00 UTC+01 |
-| Spain | ![][flag_ES] | ![][flag_DE] | Germany | **16:00 UTC** | 17:00 UTC+01 | 17:00 UTC+01 |
-| Italy | ![][flag_IT] | ![][flag_GB] | United Kingdom | **18:00 UTC** | 19:00 UTC+01 | 18:00 UTC |
-| France | ![][flag_FR] | ![][flag_BR] | Brazil | **21:00 UTC** | 22:00 UTC+01 | 18:00 UTC-03 |
-
-### Sunday, 15. March 2020
+### Saturday, 21. March 2020
 
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| United States | ![][flag_US] | ![][flag_CN] | China | **03:00 UTC** | 21:00 (Sat.) UTC-06 | 11:00 UTC+08 |
-| South Korea | ![][flag_KR] | ![][flag_CA] | Canada | **04:00 UTC** | 13:00 UTC+09 | 23:00 (Sat.) UTC-05 |
-| Japan | ![][flag_JP] | ![][flag_SE] | Sweden | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 |
-| Russian Federation | ![][flag_RU] | ![][flag_TW] | Taiwan | **13:00 UTC** | 18:00 UTC+05 | 21:00 UTC+08 |
+| Sweden | ![][flag_SE] | ![][flag_SG] | Singapore | **14:00 UTC** | 15:00 UTC+01 | 22:00 UTC+08 |
+| Germany | ![][flag_DE] | ![][flag_RU] | Russian Federation | **15:00 UTC** | 16:00 UTC+01 | 20:00 UTC+05 |
+| Italy | ![][flag_IT] | ![][flag_FR] | France | **17:00 UTC** | 18:00 UTC+01 | 18:00 UTC+01 |
+| United Kingdom | ![][flag_GB] | ![][flag_BR] | Brazil | **20:00 UTC** | 20:00 UTC | 17:00 UTC-03 |
+| United States | ![][flag_US] | ![][flag_CA] | Canada | **21:00 UTC** | 15:00 UTC-06 | 16:00 UTC-05 |
+
+### Sunday, 22. March 2020
+
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
+| --: | --: | :-- | :-- | :-: | :-: | :-: |
+| China | ![][flag_CN] | ![][flag_KR] | South Korea | **11:00 UTC** | 19:00 UTC+08 | 20:00 UTC+09 |
+| Japan | ![][flag_JP] | ![][flag_PL] | Poland | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 |
+| Spain | ![][flag_ES] | ![][flag_TW] | Taiwan | **14:00 UTC** | 15:00 UTC+01 | 22:00 UTC+08 |
 
 ## Mappools
+
+### Quarterfinals
+
+- NoMod
+- [sound piercer feat. Ritsu - Ai to Bonnou to Rinne to Joushiki no Gokusai Sekai (Cherry Blossom) \[Infinity Oni\]](https://osu.ppy.sh/beatmapsets/125492#taiko/585783)
+- [fallen shepherd feat. RabbiTon Strings - ENDYMION (Capu) \[Encore Extra Stage\]](https://osu.ppy.sh/beatmapsets/1078749#taiko/2257147)
+- [The Flashbulb - Creep (Greenshell) \[Nyctophobia\]](https://osu.ppy.sh/beatmapsets/966087#taiko/2100987)
+- [Hana to Onyx - Ariadne (Y O U T A) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/584627#taiko/2349068)
+- [Noisia - Groundhog (Beat Juggle) (JarvisGaming) \[Taiko Master\]](https://osu.ppy.sh/beatmapsets/877901#taiko/1836115)
+- Hidden
+- [Nekomata Master - Rengoku no Elfenia (Nwolf) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/743744#taiko/1568359)
+- [xi - Finder keepers (Mapper 31) \[Oni\]](https://osu.ppy.sh/beatmapsets/336183#taiko/744070)
+- HardRock
+- [aran - Xperanza (ekumea1123) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/920187#taiko/1921770)
+- [Nightmare - Dream to Nightmare (Kqrth) \[Tenebrae\]](https://osu.ppy.sh/beatmapsets/834254#taiko/1747624)
+- DoubleTime
+- [THE ORAL CIGARETTES - Kyouran Hey Kids!! (MMzz) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/484269#taiko/1033054)
+- [B-Side Ft. Kymberley Kennedy - Dope Rider (The Captain Remix) (HashishKabob) \[Oni\]](https://osu.ppy.sh/beatmapsets/175296#taiko/422845)
+- FreeMod
+- [Frums - theyaremanycolors (Genjuro) \[Synesthesia\]](https://osu.ppy.sh/beatmapsets/984900#taiko/2060740)
+- [Camellia - Gene Disruption (XeoStyle) \[Arrival's Disrupting Oni\]](https://osu.ppy.sh/beatmapsets/555326#taiko/1203227)
+- [Dev/Null - Zombie Sunset (Xay) \[Xay's Taiko [SV1.4]\]](https://osu.ppy.sh/beatmapsets/678363#taiko/1434376)
+- Tiebreaker
+- [BlackY - Harpuia -evolutionary extended ver- (S a n d) \[Sand x Backfire\]](https://osu.ppy.sh/beatmapsets/523713#taiko/1111804)
 
 ### Round of 16
 
@@ -163,6 +187,22 @@ The osu!taiko World Cup 2020 is run by various community members.
 ---
 
 ## Match results
+
+### Round of 16
+
+| Saturday, 2020-03-14 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| Singapore ![][flag_SG] | 1 | **6** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/59186154) |
+| **Spain** ![][flag_ES] | **6** | 3 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/59190551) |
+| Italy ![][flag_IT] | 2 | **6** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/59195050) |
+| France ![][flag_FR] | 4 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/59201725) |
+
+| Sunday, 2020-03-15 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| United States ![][flag_US] | 1 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/59210475) |
+| **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/59211398) |
+| **Japan** ![][flag_JP] | **6** | 0 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/59219774) |
+| Russian Federation ![][flag_RU] | 0 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/59221423) |
 
 ### Group Stage
 
