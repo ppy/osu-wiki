@@ -1,61 +1,182 @@
----
-outdated: true
----
-
 # osu!taiko Ranking Criteria
 
-Over deze regels en richtlijnen is gediscussieerd in het [osu!taiko Discussion Thread](https://osu.ppy.sh/community/forums/posts/1275323). Nieuwe regels en richtlijnen kunnen gesuggereerd worden in het [discussion forum](https://osu.ppy.sh/community/forums/87) dat zal worden geupdated, als de discussie wordt afgerond
+De osu!taiko ranking criteria zijn regels en richtlijnen die van toepassing zijn op het mappen van osu!taiko-specifieke moeilijkheidsgraden. Om een osu!taiko specifieke moeilijkheidsgraad ranked te krijgen, is het verplicht dat de creatie voldoet aan de genoemde criteria. Hoewel **alle regels onder alle omstandigheden moeten worden nageleefd**, mogen richtlijnen onder uitzonderlijke omstandigheden worden genegeerd. Deze uitzonderlijke omstandigheden moeten worden gerechtvaardigd door een uitgebreide uitleg over waarom de richtlijn is genegeerd en over waarom het niet negeren van deze richtlijn de algemene kwaliteit van de map zal verstoren.
+
+Over deze regels en richtlijnen is gediscussieerd in het [Ranking Criteria subforum](https://osu.ppy.sh/community/forums/87). Nieuwe regels en richtlijnen kunnen gesuggereerd worden in hetzelfde forum. Deze pagina zal worden geüpdatet als de discussie tot een akkoord komt.
 
 ## Veel voorkomende termen
 
-### Algemeen
+### Namen moeilijkheidsgraden
 
--   **Kantan**: Makkelijk
--   **Futsuu**: Normaal
--   **Muzukashii**: Moeilijk
--   **Oni**: Zeer moeilijk
--   **Ura**: Extra
+_Hoofdartikel: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)_
+
+- ![](/wiki/shared/diff/easy-t.png) Kantan
+- ![](/wiki/shared/diff/normal-t.png) Futsuu
+- ![](/wiki/shared/diff/hard-t.png) Muzukashii
+- ![](/wiki/shared/diff/insane-t.png) Oni
+- ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
 
 ### Het spel
 
--   **Don**: Rode noot
--   **Kat**: Blauwe noot
--   **Drumroll**: Gele balk
--   **Shaker**: Spinner
--   **Finisher**: Grote rode of blauwe noot
+- **Don / Rode noot:** Een beat die geraakt kan worden met elke Drum Center gebonden toets (standaardtoetsen `X`, `C`).
+- **Kat / Blauw noot:** Een beat die geraakt kan worden met elke Drum Rim gebonden toets (standaardtoetsen `Z`, `V`).
+- **Grote don / Grote rode noot / Finisher noot:** Een sterke beat de geraakt kan worden met beide Drum Center toetsen tegelijkertijd voor extra score.
+- **Grote kat / Grote blauwe noot / Finisher noot:**  Een sterke beat de geraakt kan worden met beide Drum Rim toetsen tegelijkertijd voor extra score.
+- **BPM:** Een afkorting voor "beats per minute" die gebruikt wordt om het tempo van een lied te bepalen.
+- **Slider/Drumroll:** Een gele balk met ticks erin die gespeeld worden met om het even welke gebonden toetsen. Deze ticks zijn meestal gesnapped op 1/4 overeenkomstig met de BPM van de muziek. Als de BPM lager is dan 125, zal de snapping veranderen naar 1/8. Als de BPM hoger is dan 250 naar 1/2. Als de slider tick frequentie op 3 is ingesteld, zullen de slider ticks snappen op 1/3.
+- **Spinner:** Een rond element waarbij de speler moet afwisselen tussen het slaan van Don/Kat voor een bepaald aantal keer, dit wordt weergegeven in het midden van de spinner. Dit aantal hangt af van de algemene moeilijkheidsgraad _(Overall Difficulty)_, maar ook van de lengte van de spinner.
+- **Maatstreep _(bar line)_:** Een lijn die op het speelveld verschijnt en het begin van een maat aangeeft.
+- **Overlap:** Een noot die een andere noot in het speelveld gedeeltelijk of volledig bedekt.
+- **Rustmoment:** Een periode zonder noten die specifiek gebruikt wordt om de handen van de speler te laten rusten en om de speler zich te laten voorbereiden op de volgende patronen.
+- **Stream:** Opeenvolgende cirkels samen gegroepeerd. Meestal gesnapped op 1/4 beats.
+- **Snapping:** Tick van de tijdlijn waarop een object is geplaatst.
+- **Variabele snapping:** Een combinatie van meerdere manieren om noten te snappen binnen een korte tijdsspanne vanwege het fluctuerende karakter van het lied op dat moment.
+- **Slidertempo _(slider velocity)_:** De snelheid waarop de noten/drumrolls/spinners/maatstrepen zich horizontaal van links naar rechts door het speelveld bewegen. Het basis slidertempo kan worden geregeld in het timing paneel en extra wijzigingen kunnen worden gemaakt door middel van _inherited_ (groene) tijdspunten.
+- **Geleidelijke _slider velocity_ veranderingen:** Een techniek die een geleidelijke overgang van lagere naar hogere / van hogere naar lagere _slider velocity_ secties mogelijk maakt. Om dit effect te bereiken wordt gebruik gemaakt van overgangsnoten met variërende _slider velocities_.
+- **Improvisatie:** Wanneer er meer noten in een map zijn dan in de eigenlijke muziek.
+- **Taiko sjabloonachtergrond _(Taiko template background)_:** Achtergrondafbeeldingen die de authentieke Taiko no Tatsujin gameplay simuleren. Ze bevatten doorgaans een zwarte balk die de artiest en de titel van het liedje in het wit onder het speelveld toont.
 
-## Regels
+## Algemeen
 
-De regels zijn wat ze zijn: REGELS. Het zijn GEEN richtlijnen, en mogen onder GEEN ENKELE omstandigheid worden gebroken.
+Algemene regels en richtlijnen zijn van toepassing op elke osu!taiko moeilijkheidsgraad. Ritme-gerelateerde regels en richtlijnen zijn van toepassing op beatmaps met ongeveer 180 BPM en met 4/4 maatsoort. Als jouw muziek veel sneller of trager is, zullen sommige variabelen anders zijn, zoals aangegeven in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM).
 
--   **Finisher noten**
+### Regels
 
-Finisher noten mogen niet in het midden, of aan het begin van een [Stream](/wiki/Mapping_Techniques/Formations), met 1/4 of hoger, zitten. Aan het einde van de stream, is een finisher noot wel toegestaan, maar alleen als er een fatsoenlijk geluid voor is. "Finisher noten aan het einde van de Stream, moeten een andere kleur hebben, dan de voorafgaande noot."
+De regels zijn wat ze zijn: **regels**. Het zijn **geen** richtlijnen, en mogen onder **geen enkele** omstandigheid worden gebroken.
 
-## Richtlijnen
+- **De kleur van elke noot moet duidelijk te onderscheiden zijn van de vorige en volgende noten.**
+- **Elke noot moet duidelijk toewijsbaar zijn aan een muzikale laag die ze probeert te vertegenwoordigen, of het nu gaat om het versterken van een laag die voorkomt in het liedje, of om een extra laag die door de mapper wordt geïmproviseerd.** Improviseer niet op een manier waardoor het tempo veranderd, in tegenspraak is met het algemene muziekgenre of de intensiteit van het lied verkeerd interpreteert. Improviseren moet ofwel de huidige laag van het nummer versterken ofwel een nieuwe laag toevoegen. Anders wordt gaat relatie met het liedje verloren, wat in tegenspraak is met het hoofddoel van een ritmespel.
+- **De `Omit first bar line` functie van een _uninherited_ (groen) timingpunt moet worden gebruikt wanneer een BPM-wijziging/metronoom-reset de gameplay-ervaring esthetisch zou belemmeren door het toevoegen van onnodige streepjeslijnen.**
+- **Taiko sjabloonachtergronden mogen niet worden gebruikt.** Omdat er verschillende schermresoluties voorkomen, werken ze niet zoals ze oorspronkelijk bedoeld waren.
+- **Slidereindes (_sliderends_) mogen niet ten onrechte worden gesnapt om ontbrekende slider ticks te corrigeren.** Dit gedrag is onbedoeld en zal in de toekomst worden gecorrigeerd.
 
-Richtlijnen zijn belangrijk, en zouden in elke map gevolgd moeten worden. Echter, het zijn GEEN regels, en dus mag je ze wel breken, in **speciale gevallen**. Als je een richtlijn wilt breken, vraag dit eerst aan jezelf: 'Slaat dat, wat ik wil gaan doen ergens op?' en 'Is het leuker om het zo te spelen, dan als ik de richtlijn volg?' Als het antwoord op beide vragen ja is, is het waarschijnlijk wel oké. Als je richtlijn-gebroken map wordt gemodded, wees zo redelijk mogelijk: Doe je best om te laten zien waarom wat jij doet beter is, maar wees wel open voor suggesties.
 
--   **Slider Velocity**
+### Richtlijnen
 
-De Slider Velocity zou 1.40 of 1.60 moeten zijn, voor Muzukashii en hoger. Voor Kantan/Futsuu wordt vaak 1.00 of 1.20 gebruikt.
+Richtlijnen mogen onder **uitzonderlijke** omstandigheden worden genegeerd. Deze uitzonderlijke omstandigheden moeten worden gerechtvaardigd door een uitgebreide uitleg over waarom de richtlijn is genegeerd en over waarom het niet negeren van deze richtlijn de algemene kwaliteit van de map zal verstoren.
 
--   **Streams**
+- **Vermijd het bedekken van essentiële delen van de achtergrond met het taiko speelveld.** Als dit gebeurt, overweeg dan om de laatste nul in het `.osu`-bestand via kladblok in de `0,0, "name_of_background.file_extension",0,0` regel onder de `[Events]` header te wijzigen. Positieve waarden zullen de achtergrond verlagen terwijl negatieve waarden de achtergrond naar boven verplaatsen.
+- **Als er _slider velocity_ veranderingen gebruikt worden, moeten deze overeenkomen met snelheidsveranderingen in het liedje.** Dat betekent dat de rustige delen niet versneld worden, of dat de snelle delen van een liedje niet vertraagd worden.
+- **Vermijd het gebruik van geleidelijke _slider velocity_ veranderingen bij delen die variabele snappings bevatten.** Als je dit doet wordt de leesbaarheid van deze snappings beïnvloed, dus houd de variabele snappings laag genoeg om overlapping te voorkomen.
+- **Vermijd abrupte _slider velocity_ veranderingen binnen patronen die al overlappen (bijv. 1/4 streams).** Geleidelijke _slider velocity_ veranderingen moeten in deze gevallen worden gebruikt om ervoor te zorgen dat de patronen leesbaar blijven.
+- **Substantiële overlapping zou moeten worden vermeden zodat de kleur van elke noot nog steeds goed leesbaar is en geen onnodige visuele verstoring wordt veroorzaakt.** Overlapping mag alleen worden gebruikt als het tempo van het lied of de snapping van de noot op dat moment dit zou kunnen rechtvaardigen.
+- **Vermijd ritmes die op geen enkele manier voorspelbaar zijn.** Ritmes kunnen intuïtief worden gemaakt door het gebruik van consistente leegtes in de tijdlijn tussen verschillende snappings of door rustmomenten.
+- **Kiaitijd mag alleen worden gebruikt voor het refrein of voor geaccentueerde delen van een liedje.** Kiai-flashen/korte kiais worden om verschillende redenen ontmoedigd: ze verstoren de gameplay-ervaring, vooral bij gebruikers van low-end pc's, en kunnen problemen veroorzaken voor epileptische gebruikers.
+- **De basis-_slider velocity_ moet 1,40 zijn bij alle moeilijkheidsgraden van een mapset.** Dit is om een optimale hoeveelheid noten op het speelveld te garanderen, evenals een optimale afstand tussen de verschillende noten.
+- **Slider tick rate moet worden ingesteld op basis van de muziek.** In de meeste gevallen moet deze worden ingesteld op 1. Als de muziek 1/3 als belangrijkste snapping gebruikt, gebruik dan tickrate 3 om de drumroll ticks op 1/3 te zetten.
+- **Vermijd het volgen van meerdere lagen van het nummer als het niet duidelijk is welk ritme prioriteit krijgt.** Spelers moeten kunnen onderscheiden welke laag van het nummer wordt gevolgd.
+- **Gebruik enkel laag volume of stille spinners als het past bij een stil gedeelte van het nummer.** In de meeste andere gevallen is het hebben van hoorbare hitsound feedback op spinners ten zeerste aan te bevelen.
+- **Liedjes met variabele BPM kunnen frequente veranderingen in de _slider velocity_ gebruiken om de scrollsnelheid waarmee de noten bewegen over het scherm ongeveer constant te houden.** Door dit te doen wordt de lengte van de leegtes in de tijdlijn tussen de noten gemakkelijkker voorspelbaar en wordt de gameplayervaring verbeterd doordat overlappingen als gevolg van BPM-wijzigingen worden vermeden.
+- **Vermijd het visueel blokkeren van noten op het speelveld met actieve spinners.** Spinners bedekken het grootste deel van het scherm, dus als je ze te dicht bij de aankomende noten laat eindigen, kan dat het lezen van de map moeilijk maken. Meestal lost het vrijhouden van 1/2 beat afstand tussen een spinner en de volgende noot dit op.
+- **Als er aangepaste hitsounds in gebruik zijn, moeten deze drumgerelateerd zijn.** Zwaardere/lagere tonen moeten ingesteld worden als Don en een lichtere/hogere tonen moet worden ingesteld als Kat.
 
-Voor het grotendeel van de maps, wordt alleen 1/1, 1/2 en 1/4 gebruikt. 1/3 en 1/6 zouden alleen gebruikt moeten worden als er een soortgelijke melodie in de muziek zit. 1/8 streams moet je altijd voorkomen.
+## Moeilijkheidsgraad-specifiek
 
--   **BPM Veranderingen**
+Moeilijkheidsgraad-specifieke regels en richtlijnen zijn enkel van toepassing op de moeilijkheidsgraad waarvoor ze zijn opgesteld en zijn daardoor _niet van toepassing op **elke** osu!taiko moeilijkheidsgraad._ Ritme-gerelateerde regels en richtlijnen zijn van toepassing op beatmaps met ongeveer 180 BPM en met 4/4 maatsoort. Als jouw muziek veel sneller of trager is, zullen sommige variabelen anders zijn, zoals aangegeven in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM).
 
-Om het overlappen van noten te voorkomen (door vertraging), gebruik je 'inherited timing points' om de noten geleidelijk te laten vertragen. Ook moet je Slider Velocity veranderingen in zo'n manier maken dat ze goed leesbaar zijn (en dus niet overlappen), maar ze moeten ook niet Te extreem zijn.
+### ![](/wiki/shared/diff/easy-t.png) Kantan
 
--   **Drumrolls (Sliders)**
+#### Regels
 
-Gebruik ze schaars, en houd een 1/2 beat tussen de Drumroll en een ander object. Vermijd het gebruik van Drumrolls bij een BPM van 125 of lager, omdat de ticks dan op 1/8 komen, tenzij dit goed meeloopt met de muziek. Gebruik tick-rate 3 als de map op 1/3 gesnapped is.
+- **Als een 1/2-patroon wordt gebruikt, moeten de patronen simplistisch blijven en worden gevolgd door een rustmoment.** _Finish_-noten mogen niet in patronen als zoals deze worden gebruikt. Voor nummers die een walsritme volgen is deze limiet 1/3.
+- **Patronen op snaps die sneller dan 1/2 zijn, zijn niet toegestaan.** Deze patronen zijn te complex voor beginnende spelers. Voor nummers die een walsritme volgen is deze limiet 1/3.
 
--   **Shakers (Spinners)**
+#### Richtlijnen
 
-Probeer tenminste 1/2 beat vrij te laten tussen Shakers en andere objecten. Het is soms toegestaan om ze in stream te gebruiken. Korte spinners worden niet aangeraden, omdat ze het veld in beslag nemen. Het kan er ook voor zorgen dat mensen noten missen, omdat ze zo snel klikken.
+- **1/1 patronen mogen niet langer zijn dan zeven noten.** Alles wat langer is, is waarschijnlijk te belastend voor beginners. Patronen zoals deze moeten worden gevolgd door een rustmoment.
+- **De hoofdsnapping moet vooral bestaan uit 2/1, 4/1 of tragere ritmes.** Af en toe is het gebruik van 1/1-ritmes acceptabel.
+- **Er moet minstens 1/2 afstand zijn tussen een spinner en zijn vorige noot.** Dit is om ervoor te zorgen dat ze elkaar niet overlappen en om de leesbaarheid te garanderen.
+- **Minstens 1 rustmoment dat 3/1 of langer is moet na 16/1 tot 20/1 continu mappen worden ingevoegd.** Het gebruik van minder frequente rustmomenten is acceptabel als het tempo van de muziek de rustmomenten contra-intuïtief maakt of als het continu gemapte deel in het algemeen vergevingsgezinder is voor de speler.
+- **_Slider velocity_ veranderingen moeten voorzichtig worden gebruikt.** Veranderingen moeten alleen gebeuren voor delen met verschillende tempo's en de schuifsnelheid mag niet drastisch veranderen.
 
--   **Custom hitsounds**
+#### Richtlijnen voor moeilijkheidsgraadinstelling
 
-Custom hitsounds moeten drum-gerelateerd zijn. Als er Custom hitsounds zijn, zal er een lagere toon zijn voor de Don, en een hogere toon voor de Kat.
+- De algemene moeilijkheidsgraad (_overall difficulty_) moet 4 of minder zijn.
+- De HP-drainsnelheid (_HP drain rate_) moet 6 of meer zijn. Bij hogere nootaantallen kan de _HP Drain Rate_ aangepast worden tot iets lager dan 6.
+
+### ![](/wiki/shared/diff/normal-t.png) Futsuu
+
+#### Regels
+
+- **Als een 1/3-patroon wordt gebruikt, moeten de patronen simplistisch blijven en worden gevolgd door een rustmoment.** Finisher noten mogen niet in patronen als zodanig worden gebruikt.
+- **Patronen op snaps die sneller dan 1/3 zijn, worden niet toegestaan.** Deze patronen zijn te complex voor beginnende spelers.
+
+Als een Futsuu moeilijkheidsgraad vereist is en gebruikt wordt als de *laagste moeilijkheidsgraad* van een beatmapset, moet deze zich ook aan volgende regels houden:
+
+- **Patronen op snaps sneller dan 1/2 zijn niet toegestaan.** Deze patronen zijn te complex voor beginnende spelers. Voor nummers die een walsritme volgen, is deze limiet 1/3.
+
+#### Richtlijnen
+
+- **1/3-patronen mogen niet langer zijn dan twee noten.** Alle patronen die langer zijn, zijn zeer situationeel en meestal te complex voor nieuwere spelers. Patronen zoals deze moeten worden gevolgd door een rustmoment.
+- **1/2-patronen mogen niet langer zijn dan zeven noten.** Alles wat langer is, is waarschijnlijk te belastend voor beginners.
+- **De hoofdsnapping moet vooral bestaan uit 1/1, 2/1 of tragere ritmes.** Af en toe is het gebruik van 1/2-ritmes acceptabel.
+- **Er moet minstens 1/2 afstand zijn tussen een spinner en zijn vorige noot.** Dit is om ervoor te zorgen dat ze elkaar niet overlappen en om de leesbaarheid te garanderen.
+- **Minstens 1 rustmoment dat 2/1 of langer is moet na 16/1 tot 20/1 van het continu mappen worden ingevoegd.** Het gebruik van minder frequente rustmomenten is acceptabel als het tempo van de muziek de rustmomenten contra-intuïtief maakt of als het continu gemapte deel in het algemeen vergevingsgezinder is voor de speler.
+- **Simpele _slider velocity_ veranderingen kunnen worden gebruikt.**
+
+Als een Futsuu moeilijkheidsgraad vereist is en gebruikt wordt als de *laagste moeilijkheidsgraad* van een beatmapset, moet deze zich ook aan volgende richtlijnen houden:
+
+- **1/2-patronen mogen niet langer zijn dan vijf noten.**
+- **_Slider velocity_ veranderingen moeten voorzichtig gebruikt worden.** Veranderingen mogen enkel gebruikt worden voor secties met verschillende snelheden en de _slider velocity_ mag niet drastisch veranderen.
+
+#### Richtlijnen voor moeilijkheidsgraadinstelling
+
+- De algemene moeilijkheidsgraad (_overall difficulty_) moet 5 of minder zijn.
+- De HP-drainsnelheid (_HP drain rate_) moet 5 of meer zijn. Bij hogere nootaantallen kan de _HP Drain Rate_ aangepast worden tot iets lager dan 5.
+
+### ![](/wiki/shared/diff/hard-t.png) Muzukashii
+
+#### Regels
+
+- **Finishernoten mogen niet gebruikt worden in 1/4-patronen of snellere patronen in deze moeilijkheidsgraad.** Het finishergebruik bij deze patronen is te ingewikkeld voor de spelers op dit niveau.
+- **Patronen op snaps die sneller dan 1/6 zijn, zijn niet toegestaan.** Deze patronen zijn te complex voor de doelgroep van deze moeilijkheidsgraad.
+
+#### Richtlijnen
+
+- **1/6 patronen mogen niet langer zijn dan vier noten op matige tot lage BPM (~140).** Alle patronen die langer zijn, zijn zeer situationeel en normaal gezien te complex. Patronen zoals deze moeten gevolgd worden door een rustmoment en vermeden worden bij snellere BPMs.
+- **1/4 patronen mogen niet langer zijn dan vijf noten.** Alles patronen die langer zijn, zijn waarschijnlijk te belastend voor tussenliggende spelers.
+- **De hoofdsnapping moet vooral bestaan uit 1/2, 1/1 of tragere ritmes.** Af en toe is het gebruik van 1/4-ritmes acceptabel.
+- **Er moet minstens 1/2 afstand zijn tussen een spinner en zijn vorige noot.** Dit is om ervoor te zorgen dat ze elkaar niet overlappen en om de leesbaarheid te verzekeren.
+- **Minstens 1 rustmoment dat 3/2 of langer is, moet na 16/1 tot 20/1 van het continu mappen worden ingevoegd.** Het gebruik van minder frequente rustmomenten is aanvaardbaar als het tempo van de muziek de rustmomenten contra-intuïtief maakt of als het continu gemapte deel in het algemeen vergevingsgezinder is voor de speler.
+- **Het manipuleren van de _slider velocity_ is toegestaan**, maar de _slider velocity_ mag alleen worden gewijzigd voor delen van de muziek met verschillende tempo's en mag niet drastisch worden gewijzigd.
+- **1/4 patronen met één of meer kleurveranderingen moeten spaarzaam worden gebruikt.** Ze moeten vermeden worden in combinatie met andere patronen van deze soort, omdat de doelgroep van deze moeilijkheidsgraad niet gewend is aan patronen van deze complexiteit.
+- **1/4 patronen die langer zijn dan drie noten moeten bestaan uit maximaal één kleurverandering die aan het begin of het einde van het patroon moet plaatsvinden.** Patronen die complexer zijn dan dat zouden te veeleisend zijn voor spelers van de Muzukashii moeilijkheidsgraad. Deze patronen moeten worden gevolgd door een rustmoment.
+
+#### Richtlijnen voor moeilijkheidsgraadinstelling
+
+- De algemene moeilijkheidsgraad (_overall difficulty_) moet 5 of minder zijn.
+- De HP-drainsnelheid (_HP drain rate_) moet 5 of meer zijn. Bij hogere nootaantallen kan de _HP Drain Rate_ aangepast worden tot iets lager dan 5.
+
+### ![](/wiki/shared/diff/insane-t.png) Oni
+
+#### Regels
+
+- **Finishernoten mogen niet gebruikt worden in 1/6-patronen of snellere patronen in deze moeilijkheidsgraad.** Het finishergebruik bij deze patronen is te ingewikkeld voor de spelers op dit niveau.
+- **Finishernoten bij 1/4-patronen mogen alleen worden gebruikt aan het einde van dat patroon in deze moeilijkheidsgraad.** Andere plaatsingen dan deze kunnen de leesbaarheid voor het publiek op dit niveau te moeilijk maken.
+- **Patronen op snaps sneller dan 1/8 zijn niet toegestaan.** Deze patronen zijn te complex voor de doelgroep van deze moeilijkheidsgraad.
+
+#### Richtlijnen
+
+- **1/8-patronen mogen niet langer zijn dan twee noten.** Alles patronen die langer zijn, zijn zeer situationeel en normaal gezien te complex. Patronen zoals deze moeten worden gevolgd door een rustmoment.
+- **1/4-patronen mogen niet langer zijn dan negen noten.** Alles patronen die langer zijn, zijn waarschijnlijk te belastend voor de doelgroep van deze moeilijkheidsgraad.
+- **De hoofdsnapping moet vooral bestaan uit 1/2 en af en toe 1/1 ritmes.** 1/4 ritmes kunnen vaker gebruikt worden bij deze moeilijkheidsgraad.
+- **Er moet minstens 1/4 afstand zijn tussen een spinner en zijn vorige noot.** Dit is om ervoor te zorgen dat ze elkaar niet overlappen en om de leesbaarheid te garanderen.
+- **Minstens 1 rustmoment dat 1/1 of langer is moet na 16/1 tot 20/1 continu mappen worden ingebracht.** Minder frequente rustmomenten of kortere rustmomenten kunnen een te grote belasting vormen voor beginners.
+- **Bij 1/4 patronen die langer zijn dan vijf noten moeten gecompliceerde kleurveranderingen vermeden worden.** Langere patronen met een dergelijke complexiteit zouden te moeilijk zijn voor het doelpubliek van deze moeilijkheidsgraad.
+
+#### Richtlijnen voor moeilijkheidsgraadinstelling
+
+- De algemene moeilijkheidsgraad (_overall difficulty_) moet 5 of meer zijn.
+- De HP-drainsnelheid (_HP drain rate_) moet 5 of meer zijn. Bij hogere nootaantallen kan de _HP Drain Rate_ aangepast worden tot iets lager dan 5.
+
+### ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
+
+#### Richtlijnen
+
+- **De hoofdsnapping moet vooral bestaan uit 1/2 en 1/4-ritmes.** 1/4-ritmes mogen in deze moeilijkheidsgraad heel vaak worden gebruikt.
+- **Er moet minstens 1/4 afstand zijn tussen een spinner en zijn vorige noot.** Dit is om ervoor te zorgen dat ze elkaar niet overlappen en om de leesbaarheid te garanderen.
+
+#### Richtlijnen voor moeilijkheidsgraadinstelling
+
+- De algemene moeilijkheidsgraad (_overall difficulty_) moet meer dan 5 zijn.
+- De HP-drainsnelheid (_HP drain rate_) moet 5 of meer zijn. Bij hogere nootaantallen kan de _HP Drain Rate_ aangepast worden tot iets lager dan 5.
