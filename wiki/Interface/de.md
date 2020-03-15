@@ -188,7 +188,7 @@ Dies ist Ihre Online Führungstabelle. Ihre lokale Rangliste listet wie gewöhnl
 2.  Ihr Player-Panel. Zeigt Ihren pp, pp Rang, gesamter Score, Accuracy, sowie den Mode an, den Sie gespielt haben. Ihr Levelbalken wird auch je nach Score steigern.
 3.  Your options regarding the Beatmap.
     1.  Export Replay as .osr: Export Ihren Replay als .osr Datei, den Sie ohne Weiteres wo hinaufladen können.
-    2.  Online Favourite: Fügt die Beatmap zu Ihren Online Favoriten hinzu. Ihre Favoriten werden auf Ihrem Profil unter Beatmaps-&gt;Favourite Beatmaps aufgelistet.
+    2.  Online Favourite: Fügt die Beatmap zu Ihren Online Favoriten hinzu. Ihre Favoriten werden auf Ihrem Profil unter Beatmaps->Favourite Beatmaps aufgelistet.
 
 4.  Selbsterklärend. Wird im Offline-Modus nicht erscheinen.
     1.  Map Rank: Zeigt Ihren derzeitigen Rank auf der Map an.

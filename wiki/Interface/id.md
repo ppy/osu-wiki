@@ -11,9 +11,6 @@ outdated: true
 ![Menu utama](img/Introscreen.jpg "Menu utama")
 
 -   \[1\] osu! logo berdetak sesuai dengan [BPM (Ketukan per Menit)](/wiki/Beatmap_Editor/Timing) dari setiap lagu yang sedang diputar di layar awal. Jika tidak ada lagu yang sedang dimainkan, logo akan berdetak pada tingkat yang biasanya. Pintasan papan ketik terdapat dalam tanda kurung.
-
-<!-- -->
-
 -   \[2\] Klik Play (P) atau logo untuk beralih ke layar awal kedua.
 -   \[3\] Klik Edit (E) untuk membuka layar pilihan lagu untuk [Penyunting](/wiki/Beatmap_Editor).
 -   \[4\] Klik Options (O) dan jendela [opsi](/wiki/Options) akan terbuka.
@@ -59,7 +56,7 @@ Akses layar ini dengan mengklik panel pengguna kamu di bagian pojok kiri atas la
 
 Catatan: Kamu dapat mengidentifikasi pilihan lagu untuk mode tertentu dengan memeriksa simbol yang terdapat pada pilihan lagu.
 
-![](/wiki/shared/mode/osu.png) adalah [osu!](/wiki/Game_Modes/osu!), ![](/wiki/shared/mode/taiko.png) adalah [osu!taiko](/wiki/Game_Modes/osu!taiko), ![](/wiki/shared/mode/catch.png) adalah [osu!catch](/wiki/Game_Modes/osu!catch) dan ![](/wiki/shared/mode/mania.png) adalah [osu!mania](/wiki/Game_Modes/osu!mania).
+![](/wiki/shared/mode/osu.png) adalah [osu!](/wiki/Game_Modes/osu!), ![](/wiki/shared/mode/taiko.png) adalah [osu!taiko](/wiki/Game_Modes/osu!taiko), ![](/wiki/shared/mode/catch.png) adalah [Catch the Beat](/wiki/Game_Modes/osu!catch) dan ![](/wiki/shared/mode/mania.png) adalah [osu!mania](/wiki/Game_Modes/osu!mania).
 
 Karena layar ini memiliki terlalu banyak elemen untuk diperhatikan oleh nomor yang mudah terlihat, bagian ini akan fokus pada satu bagian layar dan di saat bersamaan, mulai dari atas (kiri ke kanan) dan terus ke bawah.
 
@@ -114,8 +111,8 @@ Ketik dimanapun pada Layar Pemilihan Lagu ([Konsol Chat](/wiki/Chat_Console) tid
 
 -   **Daftar beatmap hanya akan menampilkan map yang mengandung informasi** (Artis lagu, nama lagu, pembuat beatmap, nama tingkat kesulitan, label) **sesuai dengan apa yang kamu ketik**
 -   Menggunakan **Ctrl+Backspace** tidak menghilangkan karakter terakhir yang kamu ketik, melainkan kata terakhir yang kamu ketik
--   Terdapat beberapa **penyaring pencarian** yang akan menyaring hasil jika menggunakan =, &lt;, &gt;, &lt;=, &gt;=, != (tidak sama dengan), atau == (tepat sama dengan) dan sebuah nilai (contoh "od&gt;8", "bpm&gt;150", "mode=mania").
-    Penyaring dapat digunakan pula sebagai tambahan kata kunci pencarian atau penyaring lainnya. (contoh "fox bpm&gt;200 ar=10", "bms status=r bpm&gt;200 length&gt;180")
+-   Terdapat beberapa **penyaring pencarian** yang akan menyaring hasil jika menggunakan =, <, >, <=, >=, != (tidak sama dengan), atau == (tepat sama dengan) dan sebuah nilai (contoh "od>8", "bpm>150", "mode=mania").
+    Penyaring dapat digunakan pula sebagai tambahan kata kunci pencarian atau penyaring lainnya. (contoh "fox bpm>200 ar=10", "bms status=r bpm>200 length>180")
     -   **ar** - Approach rate (Tingkat capaian)
     -   **cs** - Circle size (Ukuran lingkaran)
     -   **od** - Overall difficulty (Tingkat kesulitan secara keseluruhan)
@@ -171,11 +168,11 @@ Sementara Anda berada di Layar Akses Cepat Web, kamu tidak dapat mengakses obrol
 
 **Daftar lagu menampilkan semua beatmap yang telah kamu unduh**, dengan kemungkinan mempersempitnya bergantung pada pilihanmu di layar ini. Kotak dapat memiliki banyak warna yang berbeda:
 
--   <span style="background-color:#f00;">Merah</span>: Beatmap ini hanya memiliki satu versi kesulitan.
--   <span style="background-color:#FFC0CB;">Merah Muda</span>: Beatmap ini belum dimainkan sama sekali (pada Beatmap set dengan lebih dari satu versi tingkat kesulitan).
--   <span style="background-color:#FFA500;">Oranye</span>: Beatmap ini telah dimainkan (pada Beatmap set dengan lebih dari satu versi tingkat kesulitan).
--   <span style="background-color:#00B8FF;">Biru Cerah</span>: Beatmap yang lain dalam set yang sama
--   <span style="background-color:#fff;">Putih</span>: Beatmap ini sedang dipilih.
+-   Merah: Beatmap ini hanya memiliki satu versi kesulitan.
+-   Merah Muda: Beatmap ini belum dimainkan sama sekali (pada Beatmap set dengan lebih dari satu versi tingkat kesulitan).
+-   Oranye: Beatmap ini telah dimainkan (pada Beatmap set dengan lebih dari satu versi tingkat kesulitan).
+-   Biru Cerah: Beatmap yang lain dalam set yang sama
+-   Putih: Beatmap ini sedang dipilih.
 
 Kamu dapat menavigasikan daftar beatmap menggunakan \[1\]roda mouse, \[2\]atas dan bawah tombol panah, \[3\]drag sambil menekan tombol mouse kiri atau \[4\]mengklik tombol kanan mouse (sebelumnya dikenal sebagai Pengguliran Absolut) yang akan bergulir berdasarkan penempatan kursormu sebelum mengklik. Klik kotak untuk memilih beatmap itu dan menampilkan informasi pada bagian kiri atas, nilai yang tinggi (jika ada) di sebelah kiri dan, jika kamu telah membersihkannya, huruf tingkat nilai tertinggi yang telah kamu capai. \[1\]Klik kotak lagi, \[2\]tekan "Enter" atau \[3\]klik osu! logo di bagian kanan bawah untuk mulai bermain beatmap tersebut. Jika kotak memiliki warna lebih terang, itu berarti bahwa kamu belum bermain yang tingkat kesulitan beatmap itu.
 
@@ -187,7 +184,7 @@ Bagian ini bisa disebut kotak alat permainan. Kami akan mencakup tombol setiap p
 
 Menekan ESC atau klik tombol Back untuk kembali ke Menu Utama
 
-Klik pada tombol "Mode" untuk **membuka daftar mode gameplay yang tersedia di osu!**. Klik pada mode permainan yang kamu inginkan, dan osu! akan mengalihkannya ke gaya mode permainan bersamaan dengan perubahan papan skor. Atau, Kamu dapat menekan CTRL dan 1 (![](/wiki/shared/mode/osu.png)[osu! Standar](/wiki/Game_Modes/osu!)) / 2 (![](/wiki/shared/mode/taiko.png)[osu!taiko](/wiki/Game_Modes/osu!taiko)) / 3 (![](/wiki/shared/mode/catch.png)[osu!catch](/wiki/Game_Modes/osu!catch)) / 4 (![](/wiki/shared/mode/mania.png)[osu!mania](osu!/wiki/Game_Modes/osu!mania)) pada keyboardmu untuk beralih ke mode gameplay yang kamu inginkan dengan cepat.
+Klik pada tombol "Mode" untuk **membuka daftar mode gameplay yang tersedia di osu!**. Klik pada mode permainan yang kamu inginkan, dan osu! akan mengalihkannya ke gaya mode permainan bersamaan dengan perubahan papan skor. Atau, Kamu dapat menekan CTRL dan 1 (![](/wiki/shared/mode/osu.png)[osu! Standar](/wiki/Game_Modes/osu!)) / 2 (![](/wiki/shared/mode/taiko.png)[osu!taiko](/wiki/Game_Modes/osu!taiko)) / 3 (![](/wiki/shared/mode/catch.png)[Catch the Beat](/wiki/Game_Modes/osu!catch)) / 4 (![](/wiki/shared/mode/mania.png)[osu!mania](osu!/wiki/Game_Modes/osu!mania)) pada keyboardmu untuk beralih ke mode gameplay yang kamu inginkan dengan cepat.
 
 ![Pengubah Permainan](img/Soloplay8.png "Pengubah Permainan")
 
@@ -226,7 +223,7 @@ Ini adalah layar tingkat setelah Anda berhasil melewati Beatmap tersebut. Anda d
 
 Catatan: Motif utama transparan pada latar belakang berdasarkan mode yang kamu mainkan.
 
-![](/wiki/shared/mode/osu.png)"osu!" adalah [osu!](/wiki/Game_Modes/osu!), ![](/wiki/shared/mode/taiko.png)"Drum" adalah [osu!taiko](/wiki/Game_Modes/osu!taiko), ![](/wiki/shared/mode/catch.png)"Apple" adalah [osu!catch](/wiki/Game_Modes/osu!catch) dan ![](/wiki/shared/mode/mania.png)"Piano" adalah [osu!mania](/wiki/Game_Modes/osu!mania)
+![](/wiki/shared/mode/osu.png)"osu!" adalah [osu!](/wiki/Game_Modes/osu!), ![](/wiki/shared/mode/taiko.png)"Drum" adalah [osu!taiko](/wiki/Game_Modes/osu!taiko), ![](/wiki/shared/mode/catch.png)"Apple" adalah [Catch the Beat](/wiki/Game_Modes/osu!catch) dan ![](/wiki/shared/mode/mania.png)"Piano" adalah [osu!mania](/wiki/Game_Modes/osu!mania)
 
 ![Contoh dari skor daring osu!](img/Osu!_Online_score.jpg "Contoh dari skor daring osu!")
 
@@ -236,7 +233,7 @@ Ini adalah papan skor daringmu. Kamu bisa pergi ke sini dengan menggulir ke bawa
 2.  Bar pemainmu. Ini menunjukkan apakah ppmu, peringkat pp, jumlah skor, dan akurasi meningkat atau berkurang. Bar level kamu akan meningkat berdasarkan nilai skormu.
 3.  Pilihanmu mengenai Beatmap.
     1.  Export Replay as .osr: Menyimpan replay yang dapat digunakan secara daring.
-    2.  Online Favourite: Memasukkan beatmap tersebut sebagai pilihan Daring Favoritmu. Ini akan ditampilkan pada profilmu pada bagian Beatmaps-&gt; Favourite Beatmaps
+    2.  Online Favourite: Memasukkan beatmap tersebut sebagai pilihan Daring Favoritmu. Ini akan ditampilkan pada profilmu pada bagian Beatmaps-> Favourite Beatmaps
 
 4.  Cukup jelas. Tidak akan muncul jika tidak sedang daring.
     1.  Map Rank: Peringkatmu di map. Ini akan dihitung bersama dengan skor dengan mod lainnya meskipun Anda tidak menggunakan mod.

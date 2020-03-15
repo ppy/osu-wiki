@@ -155,7 +155,7 @@ This is your online leader-board. You can go here by scrolling down from the res
 2.  Your player bar. It shows whether your pp, pp rank, total score, and accuracy increases or decreases. Your level bar will increase based on score.
 3.  Your options regarding the Beatmap.
     1.  Export Replay as .osr: Save the replay that can be used online.
-    2.  Online Favourite: Make the Beatmap as your Online Favourite. It will show on your online profile under Beatmaps-&gt;Favourite Beatmaps
+    2.  Online Favourite: Make the Beatmap as your Online Favourite. It will show on your online profile under Beatmaps->Favourite Beatmaps
 
 4.  Self-explanatory. Will not appear if offline.
     1.  Map Rank: Your Ranking on the map. It will count along with mod plays score ranking despite you are not using any mods.
