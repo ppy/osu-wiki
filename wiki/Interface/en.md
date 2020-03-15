@@ -2,14 +2,6 @@
 needs_cleanup: true
 ---
 
-<!--Logo definitions-->
-[Osu!]: /wiki/shared/mode/osu.png
-[Taiko]: /wiki/shared/mode/taiko.png
-[Ctb]: /wiki/shared/mode/catch.png
-[Mania]: /wiki/shared/mode/mania.png
-[Heart]: /wiki/shared/icon/heart.gif
-[Fire]: /wiki/shared/icon/flame.gif
-
 # Interface
 
 ![Introduction screen](img/Intro_static.jpg)
@@ -83,10 +75,10 @@ Access this screen by clicking your profile at the top left of the main menu. Yo
 
 You can identify the current mode selected by either looking at the icon in the bottom right, above Mode, or by looking at the transparent icon in the center of the screen. These are the four you will see:
 
-- ![][Osu!] is [osu!](/wiki/osu!)
-- ![][Taiko] is [osu!taiko](/wiki/osu!taiko)
-- ![][Ctb] is [osu!catch](/wiki/osu!catch)
-- ![][Mania] is [osu!mania](/wiki/osu!mania)
+- ![](/wiki/shared/mode/osu.png) is [osu!](/wiki/osu!)
+- ![](/wiki/shared/mode/taiko.png) is [osu!taiko](/wiki/osu!taiko)
+- ![](/wiki/shared/mode/catch.png) is [osu!catch](/wiki/osu!catch)
+- ![](/wiki/shared/mode/mania.png) is [osu!mania](/wiki/osu!mania)
 
 Before continuing on, this screen has too many elements to note with easily, noticeable numbers. The subsections below will focus on one part of the screen at a time, starting from the top down and left to right.
 

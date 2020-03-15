@@ -1,11 +1,3 @@
-<!--Logo definitions-->
-[Osu!]: /wiki/shared/mode/osu.png
-[Taiko]: /wiki/shared/mode/taiko.png
-[Ctb]: /wiki/shared/mode/catch.png
-[Mania]: /wiki/shared/mode/mania.png
-[Heart]: /wiki/shared/icon/heart.gif
-[Fire]: /wiki/shared/icon/flame.gif
-
 # 인터페이스
 
 ![인터페이스 스크린](img/Intro_static.jpg)
@@ -79,10 +71,10 @@
 
 팁: 유저 패널 내 랭킹 위의 아이콘이나, 모드 선택 버튼 위의 아이콘 또는 화면 뒤 배경에 투명하게 비치는 로고로 현재 선택된 게임 모드를 알 수 있습니다.
 
-- ![][Osu!] : [osu!](/wiki/osu!)
-- ![][Taiko] : [osu!taiko](/wiki/osu!taiko)
-- ![][Ctb] : [osu!catch](/wiki/osu!catch)
-- ![][Mania] : [osu!mania](/wiki/osu!mania)
+- ![](/wiki/shared/mode/osu.png) : [osu!](/wiki/osu!)
+- ![](/wiki/shared/mode/taiko.png) : [osu!taiko](/wiki/osu!taiko)
+- ![](/wiki/shared/mode/catch.png) : [osu!catch](/wiki/osu!catch)
+- ![](/wiki/shared/mode/mania.png) : [osu!mania](/wiki/osu!mania)
 
 다음 섹션으로 넘어가기 전에, 이 화면은 숫자로 표시하기엔 너무 많은 정보를 담고 있어서 보기 좋은 설명을 위해 좌상단에서 우하단으로 한 개씩 설명합니다.
 
