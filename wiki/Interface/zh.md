@@ -45,7 +45,7 @@ outdated: true
 
 ### 联机大厅
 
-*详见词条： <ZH:Multiplayer>*
+*详见词条： [Multi](/wiki/Multi)*
 
 ![](img/Multi-Play-2016.png)
 
@@ -57,4 +57,4 @@ outdated: true
 
 注意：你可以为一首歌选择特定的模式
 
-![](/wiki/shared/mode/osu.png)标准 <ZH:Standard>, ![](/wiki/shared/mode/taiko.png)太鼓 <ZH:Taiko>, ![](/wiki/shared/mode/catch.png)接水果 [ZH:Catch the Beat](ZH:Catch_the_Beat "wikilink") 以及 ![](/wiki/shared/mode/mania.png)下落 [osu!mania](ZH:Mania "wikilink")
+![](/wiki/shared/mode/osu.png)标准 [osu!](/wiki/Game_Modes/osu!), ![](/wiki/shared/mode/taiko.png)太鼓 [osu!taiko](/wiki/Game_Modes/osu!taiko), ![](/wiki/shared/mode/catch.png)接水果 [osu!catch](/wiki/Game_Modes/osu!catch) 以及 ![](/wiki/shared/mode/mania.png)下落 [osu!mania](/wiki/Game_Modes/osu!mania)

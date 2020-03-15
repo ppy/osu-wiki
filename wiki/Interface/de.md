@@ -10,16 +10,16 @@ outdated: true
 
 ![Hauptmenü](img/Introscreen.jpg "Hauptmenü")
 
-Das \[1\] osu! Logo pulsiert nach dem [BPM](DE:Timing "wikilink") des Liedes, das gerade im Hauptmenü spielt. Wenn kein Lied abgespielt wird, pulsiert es in einer langsamen Rate. Die Tastenkombination steht in der Klammer
+Das \[1\] osu! Logo pulsiert nach dem [BPM](/wiki/Beatmap_Editor/Timing) des Liedes, das gerade im Hauptmenü spielt. Wenn kein Lied abgespielt wird, pulsiert es in einer langsamen Rate. Die Tastenkombination steht in der Klammer
 
 -   \[2\] Klicke auf Play (P) oder auf dem Logo, um zum 2. Einführungsbildschirm zu gelangen.
--   \[3\] Klicke auf Edit (E), um zur Songauswahl für den [Editor](DE:Editor "wikilink") zu kommen.
+-   \[3\] Klicke auf Edit (E), um zur Songauswahl für den [Editor](/wiki/Beatmap_Editor) zu kommen.
 -   \[4\] Klicke auf Options (O), um zu den Einstellungen zu gelangen.
 -   \[5\] Klicke auf Exit (Esc), um osu! zu beenden.
 -   \[6\] Ein zufälliger, nützlicher Tipp wird unterhalb des Menüs angezeigt.
 -   \[7\] In der unteren linken Ecke ist ein Link zur osu! Webseite.
 -   \[8\] Verbindungsergebnisse zum Bancho !
--   \[9\] In der unteren rechten Ecke sind die Steuerelemente für den [Chat](DE:Internet_Relay_Chat "wikilink") (F8&F9).
+-   \[9\] In der unteren rechten Ecke sind die Steuerelemente für den [Chat](/wiki/Internet_Relay_Chat) (F8&F9).
 -   \[10\] Oben rechts ist die osu! Jukebox, welches Lieder in zufälliger Reihenfolge abspielt.
 -   \[11\] Oben mittig wird angezeigt, wie viele Maps man hat, wie lange osu! Schon läuft und die Uhrzeit.
 -   \[12\] Oben links ist dein User-Panel, klick darauf, um dir die Benutzereinstellungen anzeigen zu lassen.
@@ -45,7 +45,7 @@ Durchs Klicken auf ihren User-Panel im oberen rechten Bereich erhalten sie Zugan
 
 ### Multiplayer-Lobby
 
-*Vollständige Erklärung: [Multiplayer](DE:Multiplayer "wikilink")*
+*Vollständige Erklärung: [Multiplayer](/wiki/Multi)*
 
 ![](img/Multi-Play-2016.png)
 
@@ -57,13 +57,13 @@ Durchs Klicken auf ihren User-Panel im oberen rechten Bereich erhalten sie Zugan
 
 Note: Sie können den jeweiligen Modus im Song-Auswahl durch das dazugehörige transparente Bild erkennen.
 
-![](/wiki/shared/mode/osu.png) ist [osu!](DE:Standard "wikilink"), ![](/wiki/shared/mode/taiko.png) ist [Taiko](DE:Taiko "wikilink"), ![](/wiki/shared/mode/catch.png) ist [Catch the Beat](DE:Catch_The_Beat "wikilink") und ![](/wiki/shared/mode/mania.png) ist [osu!mania](:DE:Osu!mania "wikilink")
+![](/wiki/shared/mode/osu.png) ist [osu!](/wiki/Game_Modes/osu!), ![](/wiki/shared/mode/taiko.png) ist [Taiko](/wiki/Game_Modes/osu!taiko), ![](/wiki/shared/mode/catch.png) ist [Catch the Beat](/wiki/Game_Modes/osu!catch) und ![](/wiki/shared/mode/mania.png) ist [osu!mania](/wiki/Game_Modes/osu!mania)
 
 Da auf diesem Bildschirm zu viele Elemente sind und es sonst zu unübersichtlich wird, konzentrieren wir uns für jetzt auf einem bestimmten Teil des Bildschirmes. Wir beginnen oben von links nach rechts und arbeiten uns langsam nach unten.
 
 ![](img/Soloplay2.jpg)
 
-Dieser Bereich zeigt ihnen **Informationen zu der Beatmap und der ausgewählten Schwierigkeitsstufe an.** Standardmäßig wird die Beatmap angezeigt, welche im osu! Jukebox abgespielt wurde. Die BPM-Anzeige zeigt den größten und niedrigsten Wert der Beatmap an. "Objekte" gibt die vollständige Anzahl von [Hit Objekten](DE:Hit_Objekte "wikilink") in den Beatmap wieder. Ein ![](heart.gif "fig:heart.gif")Herz Symbol an der oberen linken Ecke kennzeichnet die Beatmap als Ranked, während ein ![](fire.gif "fig:fire.gif")Flamen Symbol die Beatmap als Approved kennzeichnet. Der Unicode-Titel wird benutzt, wenn in den Einstellungen die Option ["Metadaten in Originalsprache anzeigen"](DE:Options#Sprachen "wikilink") aktiviert ist und wenn auch Unicodes im Titel/Artist der Beatmap vorhanden sind.
+Dieser Bereich zeigt ihnen **Informationen zu der Beatmap und der ausgewählten Schwierigkeitsstufe an.** Standardmäßig wird die Beatmap angezeigt, welche im osu! Jukebox abgespielt wurde. Die BPM-Anzeige zeigt den größten und niedrigsten Wert der Beatmap an. "Objekte" gibt die vollständige Anzahl von [Hit Objekten](/wiki/Hit_Objects) in den Beatmap wieder. Ein ![](heart.gif "fig:heart.gif")Herz Symbol an der oberen linken Ecke kennzeichnet die Beatmap als Ranked, während ein ![](fire.gif "fig:fire.gif")Flamen Symbol die Beatmap als Approved kennzeichnet. Der Unicode-Titel wird benutzt, wenn in den Einstellungen die Option ["Metadaten in Originalsprache anzeigen"](/wiki/Options) aktiviert ist und wenn auch Unicodes im Titel/Artist der Beatmap vorhanden sind.
 
 -   Style: {Quelle} ({Artist}) - {Titel} \[{Schwierigkeitsstufe}\]
 
@@ -90,7 +90,7 @@ Klick auf eines der Tabs, **um deine Songliste nach gewissen Kriterien zu sortie
 
 ![](img/Soloplay5.jpg)
 
-Tippen sie an einer beliebigen Stelle in der Songauswahl etwas ein und das Eingegebene wird an dieser Stelle erscheinen (die [Chat Konsole](DE:Chat_Console "wikilink") muss geschlossen sein, ansonsten wird die Eingabe als Chattext erfasst). Zur selben Zeit werden nur die **Beatmaps gelistet, dessen Informationen** (Songkünstler, Songname, Mapper, Namen der Schwierigkeitsstufen, Tags) **mit dem Eingegebenen übereinstimmen.**
+Tippen sie an einer beliebigen Stelle in der Songauswahl etwas ein und das Eingegebene wird an dieser Stelle erscheinen (die [Chat Konsole](/wiki/Chat_Console) muss geschlossen sein, ansonsten wird die Eingabe als Chattext erfasst). Zur selben Zeit werden nur die **Beatmaps gelistet, dessen Informationen** (Songkünstler, Songname, Mapper, Namen der Schwierigkeitsstufen, Tags) **mit dem Eingegebenen übereinstimmen.**
 
 ------------------------------------------------------------------------
 
@@ -141,13 +141,13 @@ Diese Sektion wird auch als Werkzeugbox bezeichnet. Wir uns in der Reihenfolge v
 
 Drücken Sie die "ESC"-Taste oder auf "Back", um zum Hauptmenü zurückzukehren.
 
-Klicken Se auf "Mode", um "'ein Liste mit allen verfügbaren Spielmodi in osu! anzeigen zu lassen'''. Klicken Sie auf den gewünschten Modus und osu! wird zum entsprechenden Modusstyle wechseln und die dazugehörige Rangliste anpassen. Alternativ können Sie auch STRG und 1 (![](/wiki/shared/mode/osu.png)[osu! Standard](DE:Standard "wikilink")) / 2 (![](/wiki/shared/mode/taiko.png)[Taiko](DE:Taiko "wikilink")) / 3 (![](Ctb.gif "fig:Ctb.gif")[Catch the Beat](DE:Catch_the_Beat "wikilink")) / 4 (![](/wiki/shared/mode/mania.png)[osu!mania](DE:Osu!mania "wikilink")) drücken, um schnell zum Modus zu wechseln.
+Klicken Se auf "Mode", um "'ein Liste mit allen verfügbaren Spielmodi in osu! anzeigen zu lassen'''. Klicken Sie auf den gewünschten Modus und osu! wird zum entsprechenden Modusstyle wechseln und die dazugehörige Rangliste anpassen. Alternativ können Sie auch STRG und 1 (![](/wiki/shared/mode/osu.png)[osu! Standard](/wiki/Game_Modes/osu!)) / 2 (![](/wiki/shared/mode/taiko.png)[Taiko](/wiki/Game_Modes/osu!taiko)) / 3 (![](Ctb.gif "fig:Ctb.gif")[Catch the Beat](/wiki/Game_Modes/osu!catch)) / 4 (![](/wiki/shared/mode/mania.png)[osu!mania](/wiki/Game_Modes/osu!mania)) drücken, um schnell zum Modus zu wechseln.
 
 ![Spielmodifizierer](img/Soloplay8.png "Spielmodifizierer")
 
-Klicken Sie auf "Mods" oder drücken Sie die F1 Taste, um in die **[Modauswahl](DE:Game_Modifiers "wikilink")** zu gelangen.
+Klicken Sie auf "Mods" oder drücken Sie die F1 Taste, um in die **[Modauswahl](/wiki/Game_Modifiers)** zu gelangen.
 
-In diesem Bereich können Sie sich alle für Ihren ausgewählten Modus verfügbaren Modifikationen (kurz "Mods") anzeigen lassen. Einige Mods erleichtern und andere erschweren das Gameplay, was sich auf dem Punktemultiplikator auswirken kann. Es gibt widerrum Mods, die weder die Beatmap erleichtern oder erschweren. [Relax](DE:Game_Modifiers#Relax "wikilink"), [Auto Pilot](DE:Game_Modifiers#Auto_Pilot "wikilink"), [SuddenDeath](DE:Game_Modifiers#SuddenDeath "wikilink") und noch paar weitere würden unter dieser Kategorie fallen. Bewegen Sie Ihren Cursor über den Mod, um sich die Beschreibung dazu anzeigen zu lassen. Klicken Sie auf den Mod, um ihn zu aktivieren oder um ihn zu deaktivieren. Der Punktemultiplikator zeigt den aktuellen Wert mit allen aktiven Mods an. Klicken Sie auf "Mods zurücksetzen" oder auf die 1, um alle aktivieren Mods aufeinmal zu deaktivieren. Klicken Sie auf "Schließen", auf die 2 oder auf die ESC-Taste, um zurück zur Songauswahl zu gelangen.
+In diesem Bereich können Sie sich alle für Ihren ausgewählten Modus verfügbaren Modifikationen (kurz "Mods") anzeigen lassen. Einige Mods erleichtern und andere erschweren das Gameplay, was sich auf dem Punktemultiplikator auswirken kann. Es gibt widerrum Mods, die weder die Beatmap erleichtern oder erschweren. [Relax](/wiki/Game_Modifiers), [Auto Pilot](/wiki/Game_Modifiers), [SuddenDeath](/wiki/Game_Modifiers) und noch paar weitere würden unter dieser Kategorie fallen. Bewegen Sie Ihren Cursor über den Mod, um sich die Beschreibung dazu anzeigen zu lassen. Klicken Sie auf den Mod, um ihn zu aktivieren oder um ihn zu deaktivieren. Der Punktemultiplikator zeigt den aktuellen Wert mit allen aktiven Mods an. Klicken Sie auf "Mods zurücksetzen" oder auf die 1, um alle aktivieren Mods aufeinmal zu deaktivieren. Klicken Sie auf "Schließen", auf die 2 oder auf die ESC-Taste, um zurück zur Songauswahl zu gelangen.
 
 Während Sie in der Auswahl von Modifikationen sind, können Sie den Chat und den erweiterten Chat nicht verwenden.
 
@@ -178,7 +178,7 @@ In diesem Bereich wird Ihren Rang, den Sie nach erfolgreichen Abschluss der Beat
 
 Note: The back transparent leitmotif is based on what mode you played in.
 
-![](/wiki/shared/mode/osu.png)"osu!" is [osu!](Standard "wikilink"), ![](/wiki/shared/mode/taiko.png)"Drum" is [Taiko](Taiko "wikilink"), ![](/wiki/shared/mode/catch.png)"Apple" is [Catch the Beat](Catch_the_Beat "wikilink") and ![](/wiki/shared/mode/mania.png)"Piano" is [osu!mania](Mania "wikilink")
+![](/wiki/shared/mode/osu.png)"osu!" is [osu!](/wiki/Game_Modes/osu!), ![](/wiki/shared/mode/taiko.png)"Drum" is [Taiko](/wiki/Game_Modes/osu!taiko), ![](/wiki/shared/mode/catch.png)"Apple" is [Catch the Beat](/wiki/Game_Modes/osu!catch) and ![](/wiki/shared/mode/mania.png)"Piano" is [osu!mania](/wiki/Game_Modes/osu!mania)
 
 ![osu! Online Score](img/Osu!_Online_score.jpg "osu! Online Score")
 
@@ -199,7 +199,7 @@ Dies ist Ihre Online Führungstabelle. Ihre lokale Rangliste listet wie gewöhnl
     6.  To Next Rank: Zeigt an, wie viele Punkte Ihnen bis zum nächsten Rang noch fehlen.
 
 5.  Das selbe wie bei 4., ist jedoch für den monatlichen [Ranking Chart](https://osu.ppy.sh/p/chart) reserviert.
-6.  Achievement freigeschalten. Jeder Achievement, den Sie freischalten, wird hier unten angezeigt. Eine vollständige Liste an freischaltbaren Achievement können Sie [hier](DE:Achievements "wikilink") finden.
+6.  Achievement freigeschalten. Jeder Achievement, den Sie freischalten, wird hier unten angezeigt. Eine vollständige Liste an freischaltbaren Achievement können Sie [hier](/wiki/Medals) finden.
 7.  Beatmap Song sowie dessen Anzahl an Plays und dessen Passrate.
 8.  Beatmap Rating. Entscheiden Sie nach persönlichen Ermessen.
 9.  Zur Songauswahl zurückkehren.

@@ -10,16 +10,16 @@ outdated: true
 
 ![Menu principal d'osu!](img/Introscreen.jpg "Menu principal d'osu!")
 
-Sur l'écran d'introduction s'affiche le logo d'osu! au centre de l'écran. Il bat suivant le [BPM](FR:Timing "wikilink") d'une musique en cours de lecture. Si aucun morceau n'est joué, celui-ci bat à un rythme lent par défaut. Le raccourci clavier est entre parenthèses.
+Sur l'écran d'introduction s'affiche le logo d'osu! au centre de l'écran. Il bat suivant le [BPM](/wiki/Beatmap_Editor/Timing) d'une musique en cours de lecture. Si aucun morceau n'est joué, celui-ci bat à un rythme lent par défaut. Le raccourci clavier est entre parenthèses.
 
 -   \[2\] Appuyez sur Play (P) ou cliquez sur le logo pour accéder au menu principal.
--   \[3\] Pressez E ou cliquez sur "Edit" pour ouvrir le menu de sélection des musiques dans l'[éditeur](FR:Beatmap_Editor "wikilink").
--   \[4\] Pressez O ou cliquez sur "Options" pour afficher l'écran des [options](FR:Options "wikilink").
+-   \[3\] Pressez E ou cliquez sur "Edit" pour ouvrir le menu de sélection des musiques dans l'[éditeur](/wiki/Beatmap_Editor).
+-   \[4\] Pressez O ou cliquez sur "Options" pour afficher l'écran des [options](/wiki/Options).
 -   \[5\] Pressez Echap ou cliquez sur "Exit" pour fermer osu!.
 -   \[6\] Une astuce utile et aléatoire est généralement affichée sous le menu.
 -   \[7\] Dans le coin inférieur gauche se trouve un lien vers le site web d'osu!.
 -   \[8\] Le statut de la connexion à Bancho!
--   \[9\] En bas à droite se trouve les boutons de contrôles du [chat](FR:Internet_Relay_Chat "wikilink")(dont les raccourcis clavier sont F8 et F9).
+-   \[9\] En bas à droite se trouve les boutons de contrôles du [chat](/wiki/Internet_Relay_Chat)(dont les raccourcis clavier sont F8 et F9).
 -   \[10\] Dans le coin supérieur droit se trouve la jukebox d 'osu!, dont l'ordre de la lecture des morceaux est aléatoire.
 -   \[11\] A côté de votre panneau d'utilisateur, le nombre de beatmaps, le temps depuis lequel le programme est en marche et l'heure qu'affiche votre ordinateur.
 -   \[12\] Dans le coin supérieur gauche se trouve votre panneau d'utilisateur, cliquez dessus pour afficher vos options en tant que tel.
@@ -45,7 +45,7 @@ Accédez à cet écran en cliquant sur votre panneau d'utilisateur se trouvant e
 
 ### Le hall multijoueur
 
-*Pour plus d'informations: <FR:Multiplayer>*
+*Pour plus d'informations: [Multi](/wiki/Multi)*
 
 ![](img/Multi-Play-2016.png)
 
@@ -57,7 +57,7 @@ Accédez à cet écran en cliquant sur votre panneau d'utilisateur se trouvant e
 
 NB: Vous pourrez identifier le mode spécifique de chaque beatmap en jetant un coup d'oeil aux motifs blancs s'illustrant par les 4 icônes suivantes :
 
-![](/wiki/shared/mode/osu.png)"osu!" pour [osu!](FR:Standard "wikilink"), ![](/wiki/shared/mode/taiko.png)"Tambour" pour [osu!Taiko](FR:Taiko "wikilink"), ![](/wiki/shared/mode/catch.png)"Pomme" pour [osu!Catch The Beat](FR:Catch_the_Beat "wikilink") et ![](/wiki/shared/mode/mania.png)"Piano" pour [osu!mania](FR:Mania "wikilink")
+![](/wiki/shared/mode/osu.png)"osu!" pour [osu!](/wiki/Game_Modes/osu!), ![](/wiki/shared/mode/taiko.png)"Tambour" pour [osu!Taiko](/wiki/Game_Modes/osu!taiko), ![](/wiki/shared/mode/catch.png)"Pomme" pour [osu!Catch The Beat](/wiki/Game_Modes/osu!catch) et ![](/wiki/shared/mode/mania.png)"Piano" pour [osu!mania](/wiki/Game_Modes/osu!mania)
 
 Parce que cet écran a trop d'éléments à noter par des numéros facilement visibles, cette section se concentrera sur une partie de l'écran à la fois, en partant du haut de gauche à droite, puis en continuant vers le bas. Les sauts de ligne(s) seront utilisés pour diviser l'écran en trois pour faciliter leur consultation et leur compréhension.
 
@@ -65,7 +65,7 @@ Parce que cet écran a trop d'éléments à noter par des numéros facilement vi
 
 ![](img/Soloplay2.jpg)
 
-Cette zone affiche les informations de la difficulté actuellement sélectionnée. Par défaut, la beatmap sélectionnée sera celle qui était jouée dans le jukebox au moment de l'ouverture de l'écran de sélection. La valeur de BPM affichée est la moyenne entre la valeur la plus rapide et la plus lente de la beatmap. "Objects" correspond au nombre total d'[éléments](FR:Hit_Objects "wikilink") de la map. Un ![](heart.gif "fig:heart.gif")coeur en haut à gauche signifie que la beatmap est Rankée tandis qu'une ![](fire.gif "fig:fire.gif")flamme indique qu'elle est Approuvée. Le titre Unicode (i.e avec caractères non-latins) sera affiché si l'option ["Métadonnées des maps dans leur langue d'origine"](FR:Options#Langue "wikilink") est activée.
+Cette zone affiche les informations de la difficulté actuellement sélectionnée. Par défaut, la beatmap sélectionnée sera celle qui était jouée dans le jukebox au moment de l'ouverture de l'écran de sélection. La valeur de BPM affichée est la moyenne entre la valeur la plus rapide et la plus lente de la beatmap. "Objects" correspond au nombre total d'[éléments](/wiki/Hit_Objects) de la map. Un ![](heart.gif "fig:heart.gif")coeur en haut à gauche signifie que la beatmap est Rankée tandis qu'une ![](fire.gif "fig:fire.gif")flamme indique qu'elle est Approuvée. Le titre Unicode (i.e avec caractères non-latins) sera affiché si l'option ["Métadonnées des maps dans leur langue d'origine"](/wiki/Options#langue) est activée.
 
 -   Style: {Source} ({Artiste}) - {Titre} \[{Difficulté sélectionnée}\]
 
@@ -107,7 +107,7 @@ Cliquez sur un des onglets pour **trier votre liste de chansons en fonction du c
 
 ![](img/Soloplay5.jpg)
 
-Tapez du texte n'importe où sur l'écran de sélection ([la console de chat](FR:Chat_Console "wikilink") ne doit pas être ouverte où ce sera consideré comme un message de chat) et la recherche va être activée. Notes:
+Tapez du texte n'importe où sur l'écran de sélection ([la console de chat](/wiki/Chat_Console) ne doit pas être ouverte où ce sera consideré comme un message de chat) et la recherche va être activée. Notes:
 
 #### Classement
 
@@ -145,7 +145,7 @@ This is the grade screen after you successfully passed the beatmap. You can acce
 
 Note: The back transparent leitmotif is based on what mode you played in.
 
-![](/wiki/shared/mode/osu.png) is [osu!](Standard "wikilink"), ![](/wiki/shared/mode/taiko.png) is [Taiko](Taiko "wikilink"), ![](/wiki/shared/mode/catch.png) is [Catch the Beat](Catch_the_Beat "wikilink") and ![](/wiki/shared/mode/mania.png) is [osu!mania](Mania "wikilink")
+![](/wiki/shared/mode/osu.png) is [osu!](/wiki/Game_Modes/osu!), ![](/wiki/shared/mode/taiko.png) is [Taiko](/wiki/Game_Modes/osu!taiko), ![](/wiki/shared/mode/catch.png) is [Catch the Beat](/wiki/Game_Modes/osu!catch) and ![](/wiki/shared/mode/mania.png) is [osu!mania](/wiki/Game_Modes/osu!mania)
 
 ![osu! Online Score](img/Osu!_Online_score.jpg "osu! Online Score")
 
@@ -166,7 +166,7 @@ This is your online leader-board. You can go here by scrolling down from the res
     6.  To Next Rank: How much score you need to move your current map ranking position up.
 
 5.  Same as 4, but it is reserved for monthly [Ranking Charts](https://osu.ppy.sh/p/chart)
-6.  Achievement unlock. Any achievement you unlock will be shown here. Full list of possible achievements can be found at [Achievements](Achievements "wikilink") page
+6.  Achievement unlock. Any achievement you unlock will be shown here. Full list of possible achievements can be found at [Achievements](/wiki/Medals) page
 7.  Beatmap song with it's history of plays and pass rate.
 8.  Beatmap Rating. Use your personal discretion based on whether you enjoy the beatmap or not. Best left alone if you can't decide.
 9.  Return to Song Selection.
