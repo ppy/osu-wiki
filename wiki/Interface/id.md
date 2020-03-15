@@ -2,7 +2,7 @@
 outdated: true
 ---
 
-<img src="Intro_static.jpg" title="fig:Right|Layar perkenalan" alt="Right|Layar perkenalan" width="400" /> \_\_TOC\_\_
+<img src="Intro_static.jpg" title="fig:Right|Layar perkenalan" alt="Right|Layar perkenalan" width="400" />
 =Menu Utama= <img src="Introscreen.jpg" title="fig:Menu utama" alt="Menu utama" width="280" />
 
 -   \[1\] osu! logo berdetak sesuai dengan [BPM (Ketukan per Menit)](ID:Timing "wikilink") dari setiap lagu yang sedang diputar di layar awal. Jika tidak ada lagu yang sedang dimainkan, logo akan berdetak pada tingkat yang biasanya. Pintasan papan ketik terdapat dalam tanda kurung.

@@ -2,7 +2,7 @@
 outdated: true
 ---
 
-<img src="Intro_static.jpg" title="fig:Right|Einführungsbildschirm" alt="Right|Einführungsbildschirm" width="400" /> \_\_TOC\_\_
+<img src="Intro_static.jpg" title="fig:Right|Einführungsbildschirm" alt="Right|Einführungsbildschirm" width="400" />
 =Hauptmenü= <img src="Introscreen.jpg" title="fig:Hauptmenü" alt="Hauptmenü" width="280" />
 
 Das \[1\] osu! Logo pulsiert nach dem [BPM](DE:Timing "wikilink") des Liedes, das gerade im Hauptmenü spielt. Wenn kein Lied abgespielt wird, pulsiert es in einer langsamen Rate. Die Tastenkombination steht in der Klammer

@@ -4,7 +4,7 @@ outdated: true
 
 # Interface de jeu
 
-<img src="Intro_static.jpg" title="fig:Right|Ecran d&#39;introduction d&#39;osu!" alt="Right|Ecran d&#39;introduction d&#39;osu!" width="400" /> \_\_TOC\_\_
+<img src="Intro_static.jpg" title="fig:Right|Ecran d&#39;introduction d&#39;osu!" alt="Right|Ecran d&#39;introduction d&#39;osu!" width="400" />
 =Menu principal= <img src="introscreen.png" title="fig:Menu principal d&#39;osu!" alt="Menu principal d&#39;osu!" width="280" />
 
 Sur l'écran d'introduction s'affiche le logo d'osu! au centre de l'écran. Il bat suivant le [BPM](FR:Timing "wikilink") d'une musique en cours de lecture. Si aucun morceau n'est joué, celui-ci bat à un rythme lent par défaut. Le raccourci clavier est entre parenthèses.

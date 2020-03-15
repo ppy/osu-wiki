@@ -2,7 +2,7 @@
 outdated: true
 ---
 
-<img src="Intro_static.jpg" title="fig:Right|Introduction screen" alt="Right|Introduction screen" width="400" /> \_\_TOC\_\_
+<img src="Intro_static.jpg" title="fig:Right|Introduction screen" alt="Right|Introduction screen" width="400" />
 =主菜单= <img src="Introscreen.jpg" title="fig:Main menu" alt="Main menu" width="280" />
 
 ［1］osu！的标志会随着音乐的每分钟击打次数（BPM）跳动，如果没有在播放歌曲，osu！标志就会跳动得慢一点。下列在括弧里的是快捷键。
