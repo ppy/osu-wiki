@@ -96,7 +96,7 @@ This area displays **information on the beatmap difficulty currently selected.**
 - **Sliders**: The total amount of sliders in the beatmap.
 - **Spinners**: The total amount of spinners in the beatmap.
 - **OD**: The Overall Difficulty of the beatmap.
-- **HP**: The drain rate of your HP. In osu!standard, this is how much of an HP loss you receive upon missing a note, how fast the life bar idly drains, and how much HP is received for hitting a note. In osu!mania, this is the same except there is no idle HP drain. In Taiko, this determines how slowly the HP bar fills and how much HP is lost when a note is missed. Catch the Beat is the same as osu!standard.
+- **HP**: The drain rate of your HP. In osu!standard, this is how much of an HP loss you receive upon missing a note, how fast the life bar idly drains, and how much HP is received for hitting a note. In osu!mania, this is the same except there is no idle HP drain. In osu!taiko, this determines how slowly the HP bar fills and how much HP is lost when a note is missed. osu!catch is the same as osu!standard.
 - **Stars**: The star difficulty of the beatmap. This is graphically visible in the beatmap rectangle itself.
 
 ### Group and Sort
@@ -276,11 +276,11 @@ This is the grade screen shown after you have successfully passed the beatmap. Y
 
 Below are the grade screens of the other game modes.
 
-![Accuracy in Taiko](img/Accuracy_Taiko.jpg "osu!taiko")
+![Accuracy in osu!taiko](img/Accuracy_Taiko.jpg "osu!taiko")
 
 ![Accuracy in osu!mania](img/Accuracy_Mania.jpg "osu!mania")
 
-![Accuracy in Catch the Beat](img/Accuracy_CtB.jpg "osu!catch")
+![Accuracy in osu!catch](img/Accuracy_CtB.jpg "osu!catch")
 
 ### Online Leaderboard
 

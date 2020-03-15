@@ -57,7 +57,7 @@ Accédez à cet écran en cliquant sur votre panneau d'utilisateur se trouvant e
 
 NB: Vous pourrez identifier le mode spécifique de chaque beatmap en jetant un coup d'oeil aux motifs blancs s'illustrant par les 4 icônes suivantes :
 
-![](/wiki/shared/mode/osu.png)"osu!" pour [osu!](/wiki/Game_Modes/osu!), ![](/wiki/shared/mode/taiko.png)"Tambour" pour [osu!Taiko](/wiki/Game_Modes/osu!taiko), ![](/wiki/shared/mode/catch.png)"Pomme" pour [osu!Catch The Beat](/wiki/Game_Modes/osu!catch) et ![](/wiki/shared/mode/mania.png)"Piano" pour [osu!mania](/wiki/Game_Modes/osu!mania)
+![](/wiki/shared/mode/osu.png)"osu!" pour [osu!](/wiki/Game_Modes/osu!), ![](/wiki/shared/mode/taiko.png)"Tambour" pour [osu!taiko](/wiki/Game_Modes/osu!taiko), ![](/wiki/shared/mode/catch.png)"Pomme" pour [osu!catch](/wiki/Game_Modes/osu!catch) et ![](/wiki/shared/mode/mania.png)"Piano" pour [osu!mania](/wiki/Game_Modes/osu!mania)
 
 Parce que cet écran a trop d'éléments à noter par des numéros facilement visibles, cette section se concentrera sur une partie de l'écran à la fois, en partant du haut de gauche à droite, puis en continuant vers le bas. Les sauts de ligne(s) seront utilisés pour diviser l'écran en trois pour faciliter leur consultation et leur compréhension.
 
@@ -145,7 +145,7 @@ This is the grade screen after you successfully passed the beatmap. You can acce
 
 Note: The back transparent leitmotif is based on what mode you played in.
 
-![](/wiki/shared/mode/osu.png) is [osu!](/wiki/Game_Modes/osu!), ![](/wiki/shared/mode/taiko.png) is [Taiko](/wiki/Game_Modes/osu!taiko), ![](/wiki/shared/mode/catch.png) is [Catch the Beat](/wiki/Game_Modes/osu!catch) and ![](/wiki/shared/mode/mania.png) is [osu!mania](/wiki/Game_Modes/osu!mania)
+![](/wiki/shared/mode/osu.png) is [osu!](/wiki/Game_Modes/osu!), ![](/wiki/shared/mode/taiko.png) is [osu!taiko](/wiki/Game_Modes/osu!taiko), ![](/wiki/shared/mode/catch.png) is [osu!catch](/wiki/Game_Modes/osu!catch) and ![](/wiki/shared/mode/mania.png) is [osu!mania](/wiki/Game_Modes/osu!mania)
 
 ![osu! Online Score](img/Osu!_Online_score.jpg "osu! Online Score")
 
