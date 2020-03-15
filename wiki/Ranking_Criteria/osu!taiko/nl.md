@@ -10,7 +10,7 @@ Over deze regels en richtlijnen is gediscussieerd in het [Ranking Criteria subfo
 
 ## Veel voorkomende termen
 
-### Namen moeilijkheidsgraad
+### Namen moeilijkheidsgraden
 
 _Hoofdartikel: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)_
 
