@@ -63,7 +63,7 @@ Da auf diesem Bildschirm zu viele Elemente sind und es sonst zu unübersichtlich
 
 ![](img/Soloplay2.jpg)
 
-Dieser Bereich zeigt ihnen **Informationen zu der Beatmap und der ausgewählten Schwierigkeitsstufe an.** Standardmäßig wird die Beatmap angezeigt, welche im osu! Jukebox abgespielt wurde. Die BPM-Anzeige zeigt den größten und niedrigsten Wert der Beatmap an. "Objekte" gibt die vollständige Anzahl von [Hit Objekten](/wiki/Hit_Objects) in den Beatmap wieder. Ein ![](heart.gif "fig:heart.gif")Herz Symbol an der oberen linken Ecke kennzeichnet die Beatmap als Ranked, während ein ![](fire.gif "fig:fire.gif")Flamen Symbol die Beatmap als Approved kennzeichnet. Der Unicode-Titel wird benutzt, wenn in den Einstellungen die Option ["Metadaten in Originalsprache anzeigen"](/wiki/Options) aktiviert ist und wenn auch Unicodes im Titel/Artist der Beatmap vorhanden sind.
+Dieser Bereich zeigt ihnen **Informationen zu der Beatmap und der ausgewählten Schwierigkeitsstufe an.** Standardmäßig wird die Beatmap angezeigt, welche im osu! Jukebox abgespielt wurde. Die BPM-Anzeige zeigt den größten und niedrigsten Wert der Beatmap an. "Objekte" gibt die vollständige Anzahl von [Hit Objekten](/wiki/Hit_Objects) in den Beatmap wieder. Ein ![](/wiki/shared/icon/heart.gif)Herz Symbol an der oberen linken Ecke kennzeichnet die Beatmap als Ranked, während ein ![](/wiki/shared/icon/flame.gif)Flamen Symbol die Beatmap als Approved kennzeichnet. Der Unicode-Titel wird benutzt, wenn in den Einstellungen die Option ["Metadaten in Originalsprache anzeigen"](/wiki/Options) aktiviert ist und wenn auch Unicodes im Titel/Artist der Beatmap vorhanden sind.
 
 -   Style: {Quelle} ({Artist}) - {Titel} \[{Schwierigkeitsstufe}\]
 
@@ -141,7 +141,7 @@ Diese Sektion wird auch als Werkzeugbox bezeichnet. Wir uns in der Reihenfolge v
 
 Drücken Sie die "ESC"-Taste oder auf "Back", um zum Hauptmenü zurückzukehren.
 
-Klicken Se auf "Mode", um "'ein Liste mit allen verfügbaren Spielmodi in osu! anzeigen zu lassen'''. Klicken Sie auf den gewünschten Modus und osu! wird zum entsprechenden Modusstyle wechseln und die dazugehörige Rangliste anpassen. Alternativ können Sie auch STRG und 1 (![](/wiki/shared/mode/osu.png)[osu! Standard](/wiki/Game_Modes/osu!)) / 2 (![](/wiki/shared/mode/taiko.png)[Taiko](/wiki/Game_Modes/osu!taiko)) / 3 (![](Ctb.gif "fig:Ctb.gif")[Catch the Beat](/wiki/Game_Modes/osu!catch)) / 4 (![](/wiki/shared/mode/mania.png)[osu!mania](/wiki/Game_Modes/osu!mania)) drücken, um schnell zum Modus zu wechseln.
+Klicken Se auf "Mode", um "'ein Liste mit allen verfügbaren Spielmodi in osu! anzeigen zu lassen'''. Klicken Sie auf den gewünschten Modus und osu! wird zum entsprechenden Modusstyle wechseln und die dazugehörige Rangliste anpassen. Alternativ können Sie auch STRG und 1 (![](/wiki/shared/mode/osu.png)[osu! Standard](/wiki/Game_Modes/osu!)) / 2 (![](/wiki/shared/mode/taiko.png)[Taiko](/wiki/Game_Modes/osu!taiko)) / 3 (![](/wiki/shared/mode/catch.png)[Catch the Beat](/wiki/Game_Modes/osu!catch)) / 4 (![](/wiki/shared/mode/mania.png)[osu!mania](/wiki/Game_Modes/osu!mania)) drücken, um schnell zum Modus zu wechseln.
 
 ![Spielmodifizierer](img/Soloplay8.png "Spielmodifizierer")
 

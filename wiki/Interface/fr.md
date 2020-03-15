@@ -65,7 +65,7 @@ Parce que cet écran a trop d'éléments à noter par des numéros facilement vi
 
 ![](img/Soloplay2.jpg)
 
-Cette zone affiche les informations de la difficulté actuellement sélectionnée. Par défaut, la beatmap sélectionnée sera celle qui était jouée dans le jukebox au moment de l'ouverture de l'écran de sélection. La valeur de BPM affichée est la moyenne entre la valeur la plus rapide et la plus lente de la beatmap. "Objects" correspond au nombre total d'[éléments](/wiki/Hit_Objects) de la map. Un ![](heart.gif "fig:heart.gif")coeur en haut à gauche signifie que la beatmap est Rankée tandis qu'une ![](fire.gif "fig:fire.gif")flamme indique qu'elle est Approuvée. Le titre Unicode (i.e avec caractères non-latins) sera affiché si l'option ["Métadonnées des maps dans leur langue d'origine"](/wiki/Options#langue) est activée.
+Cette zone affiche les informations de la difficulté actuellement sélectionnée. Par défaut, la beatmap sélectionnée sera celle qui était jouée dans le jukebox au moment de l'ouverture de l'écran de sélection. La valeur de BPM affichée est la moyenne entre la valeur la plus rapide et la plus lente de la beatmap. "Objects" correspond au nombre total d'[éléments](/wiki/Hit_Objects) de la map. Un ![](/wiki/shared/icon/heart.gif)coeur en haut à gauche signifie que la beatmap est Rankée tandis qu'une ![](/wiki/shared/icon/flame.gif)flamme indique qu'elle est Approuvée. Le titre Unicode (i.e avec caractères non-latins) sera affiché si l'option ["Métadonnées des maps dans leur langue d'origine"](/wiki/Options#langue) est activée.
 
 -   Style: {Source} ({Artiste}) - {Titre} \[{Difficulté sélectionnée}\]
 
