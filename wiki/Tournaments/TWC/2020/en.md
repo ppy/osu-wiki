@@ -116,26 +116,26 @@ The osu!taiko World Cup 2020 is run by various community members.
 ### Quarterfinals
 
 - NoMod
-- [sound piercer feat. Ritsu - Ai to Bonnou to Rinne to Joushiki no Gokusai Sekai (Cherry Blossom) \[Infinity Oni\]](https://osu.ppy.sh/beatmapsets/125492#taiko/585783)
-- [fallen shepherd feat. RabbiTon Strings - ENDYMION (Capu) \[Encore Extra Stage\]](https://osu.ppy.sh/beatmapsets/1078749#taiko/2257147)
-- [The Flashbulb - Creep (Greenshell) \[Nyctophobia\]](https://osu.ppy.sh/beatmapsets/966087#taiko/2100987)
-- [Hana to Onyx - Ariadne (Y O U T A) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/584627#taiko/2349068)
-- [Noisia - Groundhog (Beat Juggle) (JarvisGaming) \[Taiko Master\]](https://osu.ppy.sh/beatmapsets/877901#taiko/1836115)
+  - [sound piercer feat. Ritsu - Ai to Bonnou to Rinne to Joushiki no Gokusai Sekai (Cherry Blossom) \[Infinity Oni\]](https://osu.ppy.sh/beatmapsets/125492#taiko/585783)
+  - [fallen shepherd feat. RabbiTon Strings - ENDYMION (Capu) \[Encore Extra Stage\]](https://osu.ppy.sh/beatmapsets/1078749#taiko/2257147)
+  - [The Flashbulb - Creep (Greenshell) \[Nyctophobia\]](https://osu.ppy.sh/beatmapsets/966087#taiko/2100987)
+  - [Hana to Onyx - Ariadne (Y O U T A) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/584627#taiko/2349068)
+  - [Noisia - Groundhog (Beat Juggle) (JarvisGaming) \[Taiko Master\]](https://osu.ppy.sh/beatmapsets/877901#taiko/1836115)
 - Hidden
-- [Nekomata Master - Rengoku no Elfenia (Nwolf) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/743744#taiko/1568359)
-- [xi - Finder keepers (Mapper 31) \[Oni\]](https://osu.ppy.sh/beatmapsets/336183#taiko/744070)
+  - [Nekomata Master - Rengoku no Elfenia (Nwolf) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/743744#taiko/1568359)
+  - [xi - Finder keepers (Mapper 31) \[Oni\]](https://osu.ppy.sh/beatmapsets/336183#taiko/744070)
 - HardRock
-- [aran - Xperanza (ekumea1123) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/920187#taiko/1921770)
-- [Nightmare - Dream to Nightmare (Kqrth) \[Tenebrae\]](https://osu.ppy.sh/beatmapsets/834254#taiko/1747624)
+  - [aran - Xperanza (ekumea1123) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/920187#taiko/1921770)
+  - [Nightmare - Dream to Nightmare (Kqrth) \[Tenebrae\]](https://osu.ppy.sh/beatmapsets/834254#taiko/1747624)
 - DoubleTime
-- [THE ORAL CIGARETTES - Kyouran Hey Kids!! (MMzz) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/484269#taiko/1033054)
-- [B-Side Ft. Kymberley Kennedy - Dope Rider (The Captain Remix) (HashishKabob) \[Oni\]](https://osu.ppy.sh/beatmapsets/175296#taiko/422845)
+  - [THE ORAL CIGARETTES - Kyouran Hey Kids!! (MMzz) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/484269#taiko/1033054)
+  - [B-Side Ft. Kymberley Kennedy - Dope Rider (The Captain Remix) (HashishKabob) \[Oni\]](https://osu.ppy.sh/beatmapsets/175296#taiko/422845)
 - FreeMod
-- [Frums - theyaremanycolors (Genjuro) \[Synesthesia\]](https://osu.ppy.sh/beatmapsets/984900#taiko/2060740)
-- [Camellia - Gene Disruption (XeoStyle) \[Arrival's Disrupting Oni\]](https://osu.ppy.sh/beatmapsets/555326#taiko/1203227)
-- [Dev/Null - Zombie Sunset (Xay) \[Xay's Taiko [SV1.4]\]](https://osu.ppy.sh/beatmapsets/678363#taiko/1434376)
+  - [Frums - theyaremanycolors (Genjuro) \[Synesthesia\]](https://osu.ppy.sh/beatmapsets/984900#taiko/2060740)
+  - [Camellia - Gene Disruption (XeoStyle) \[Arrival's Disrupting Oni\]](https://osu.ppy.sh/beatmapsets/555326#taiko/1203227)
+  - [Dev/Null - Zombie Sunset (Xay) \[Xay's Taiko [SV1.4]\]](https://osu.ppy.sh/beatmapsets/678363#taiko/1434376)
 - Tiebreaker
-- [BlackY - Harpuia -evolutionary extended ver- (S a n d) \[Sand x Backfire\]](https://osu.ppy.sh/beatmapsets/523713#taiko/1111804)
+  - **[BlackY - Harpuia -evolutionary extended ver- (S a n d) \[Sand x Backfire\]](https://osu.ppy.sh/beatmapsets/523713#taiko/1111804)**
 
 ### Round of 16
 
