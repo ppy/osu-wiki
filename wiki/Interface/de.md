@@ -105,14 +105,15 @@ Eine Vielzahl von Dingen wird in diesem Bereich angezeigt:
 -   Wenn "Kein Rekord vorhanden" erscheint, bedeutet es, dass sie noch keinen Score auf dieser Schwierigkeitsstufe im ausgewählten Modus erzielt haben.
     -   Hinweis: Dein Scores, die du im Multiplayer gemacht hast, werden nicht lokal gespeichert.
 
-| colspan=2|Ranking Tabelle       |
-|---------------------------------|
-| Name                            |
-| Lokale Rangliste                |
-| Nationale Rangliste             |
-| Globale Rangliste               |
-| Globale Rangliste (Aktive Mods) |
-| Freundesrangliste               |
+**Ranking Tabelle:**
+
+| Name | Verwendung |
+| :-- | :-- |
+| Lokale Rangliste | Zeigt die lokale Rangliste an. Scores aus dem Multiplayer werden nicht gespeichert. Mit das Drücken der "F2" Taste lässt sich eine verpackte Version des Replays erstellen. Kann möglicherweise in bestimmten Fällen nicht funktionieren. |
+| Nationale Rangliste | **osu!supporter erforderlich!** Zeigt ihren Rang in der nationalen Rangliste an (z. B. Deutschland). |
+| Globale Rangliste | Zeigt die globale Rangliste an. Hier werden die Top 50 Spieler der Map angezeigt, zusammen mit deren Ergebnisanzeige und einem vorhandenen Replay. Durch das Ansehen deren Replays wird es beim Spieler auf dessen Profilseite bei "Historical#Replays Watched History" mit aufgelistet. |
+| Globale Rangliste (Aktive Mods) | **osu!supporter erforderlich!** Zeigt die globale Rangliste mit Spielern, die den selben aktiven Mod/Mods verwendet haben, an. |
+| Freundesrangliste | **osu!supporter erforderlich!** Zeigt eine Rangliste mit allen ihren Freunden an. Funktioniert jedoch nicht bei [BanchoBot](/wiki/BanchoBot) und einer leeren Freundesliste. |
 
 Klicke auf das Sprechblasen-Icon, um zum **Schnellzugang zu dieser Map im Web** im Songauswahl zu gelangen:
 

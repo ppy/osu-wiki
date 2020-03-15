@@ -123,14 +123,15 @@ Cet espace peut afficher le tableau de classement ou différents messages :
     -   Note: Un score réalisé en mode Multi n'est pas enregistré dans le classement local.
 -   Un message "Not yet uploaded" indique que vous êtes le créateur de la beatmap et que vous ne l'avez pas encore soumise sur le site osu!.
 
-| colspan=2|Tableau de classement |
-|---------------------------------|
-| Nom                             |
-| Local Ranking                   |
-| Country Ranking                 |
-| Global Ranking                  |
-| Global Ranking (Selected Mod)   |
-| Friend Ranking                  |
+**Tableau de classement:**
+
+| Nom | Fonction |
+| :-- | :-- |
+| Local Ranking | Affiche les scores réalisés par des joueurs locaux. N'enregistre pas les scores réalisés en multi. |
+| Country Ranking | **osu!supporter requis!** Affiche votre classement par rapport aux joueurs de votre pays. |
+| Global Ranking | Affiche les 50 meilleurs scores en ligne. Il est possible de voir leur écran des résultat et leur replay en cliquant sur leur ligne. |
+| Global Ranking (Selected Mod) | **osu!supporter requis!** Affiche le classement global des scores réalisés avec les mods sélectionnés. |
+| Friend Ranking | **osu!supporter requis!** Affiche le classement des meilleurs performances des personnes dans votre liste d'amis. Ne fonctionne pas avec [BanchoBot](/wiki/BanchoBot) ou si votre liste d'amis est vide. |
 
 ## Ranking screen
 

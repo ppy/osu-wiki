@@ -146,14 +146,15 @@ Berbagai hal bisa muncul di ruang ini:
     -   Catatan: Skor multimu tidak akan disimpan di Peringkat Lokal.
 -   "Not yet uploaded (Belum diunggah sama sekali)" berarti itu beatmapmu belum diunggah sama sekali.
 
-| colspan=2|Tabel Peringkat     |
-|-------------------------------|
-| Nama                          |
-| Local Ranking                 |
-| Country Ranking               |
-| Global Ranking                |
-| Global Ranking (Selected Mod) |
-| Friend Ranking                |
+**Tabel Peringkat:**
+
+| Nama | Kegunaan |
+| :-- | :-- |
+| Local Ranking | Menunjukkan papan skor lokal. Tidak menyimpan rekor multi. osu! dapat membuat sebuah tayangan ulang eksternal berdasarkan hasil dengan menekan tombol "F2". Mungkin tidak bekerja dalam beberapa kasus. |
+| Country Ranking | **osu!supporter dibutuhkan!** Menunjukkan peringkatmu dalam peringkat negaramu (contoh. Indonesia). |
+| Global Ranking | Menunjukkan papan skor global. Pemain top50 akan ditampilkan di sini bersama dengan layar hasil mereka dan tayangan ulang mereka disimpan. Menonton tayangan ulang mereka akan menambahkan "replay watched by others (replay ditonton oleh orang lain)"pada halaman profil mereka. |
+| Global Ranking (Selected Mod) | **osu!supporter dibutuhkan!** Menunjukkan papan skor global berdasarkan Pengubah Permainan yang telah ditetapkan. |
+| Friend Ranking | **osu!supporter dibutuhkan!** Menunjukkan papan skor melawan teman Anda dalam daftar teman Anda. Tidak bekerja pada [BanchoBot](/wiki/BanchoBot) dan daftar teman yang kosong. |
 
 Klik ikon balon untuk memanggil layar **Akses Cepat Web** untuk beatmap yang dipilih:
 
