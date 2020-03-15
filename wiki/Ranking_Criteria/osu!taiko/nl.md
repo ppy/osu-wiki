@@ -28,7 +28,7 @@ _Hoofdartikel: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)_
 - **Grote kat / Grote blauwe noot / Finisher noot:**  Een sterke beat de geraakt kan worden met beide Drum Rim toetsen tegelijkertijd voor extra score.
 - **BPM:** Een afkorting voor "beats per minute" die gebruikt wordt om het tempo van een lied te bepalen.
 - **Slider/Drumroll:** Een gele balk met ticks erin die gespeeld worden met om het even welke gebonden toetsen. Deze ticks zijn meestal gesnapped op 1/4 overeenkomstig met de BPM van de muziek. Als de BPM lager is dan 125, zal de snapping veranderen naar 1/8. Als de BPM hoger is dan 250 naar 1/2. Als de slider tick frequentie op 3 is ingesteld, zullen de slider ticks snappen op 1/3.
-- **Spinner:** Een rond element waarbij de speler moet afwisselen tussen het slaan van Don/Kat voor een bepaald aantal keer, dit wordt weergegeven in het midden van de spinner. Dit aantal hangt af van de algemene moeilijkheidsgraad (OD), maar ook van de lengte van de spinner.
+- **Spinner:** Een rond element waarbij de speler moet afwisselen tussen het slaan van Don/Kat voor een bepaald aantal keer, dit wordt weergegeven in het midden van de spinner. Dit aantal hangt af van de algemene moeilijkheidsgraad _(Overall Difficulty)_, maar ook van de lengte van de spinner.
 - **Maatstreep _(bar line)_:** Een lijn die op het speelveld verschijnt en het begin van een maat aangeeft.
 - **Overlap:** Een noot die een andere noot in het speelveld gedeeltelijk of volledig bedekt.
 - **Rustmoment:** Een periode zonder noten die specifiek gebruikt wordt om de handen van de speler te laten rusten en om de speler zich te laten voorbereiden op de volgende patronen.
