@@ -2,9 +2,11 @@
 outdated: true
 ---
 
+# Interface (Español)
+
 ![Pantalla de introducción](img/Intro_static.jpg "Pantalla de introducción")
 
-=Menú principal=
+## Menú principal
 
 ![Menú principal](img/Introscreen.jpg "Menú principal")
 

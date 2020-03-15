@@ -6,7 +6,7 @@ outdated: true
 
 ![Ecran d'introduction d'osu!](img/Intro_static.jpg "Ecran d'introduction d'osu!")
 
-=Menu principal=
+## Menu principal
 
 ![Menu principal d'osu!](img/Introscreen.jpg "Menu principal d'osu!")
 
@@ -24,7 +24,7 @@ Sur l'écran d'introduction s'affiche le logo d'osu! au centre de l'écran. Il b
 -   \[11\] A côté de votre panneau d'utilisateur, le nombre de beatmaps, le temps depuis lequel le programme est en marche et l'heure qu'affiche votre ordinateur.
 -   \[12\] Dans le coin supérieur gauche se trouve votre panneau d'utilisateur, cliquez dessus pour afficher vos options en tant que tel.
 
-==Options d'utilisateur==
+### Options d'utilisateur
 
 ![Options d'utilisateur](img/Useroptions1.png "Options d'utilisateur")
 
@@ -35,7 +35,7 @@ Accédez à cet écran en cliquant sur votre panneau d'utilisateur se trouvant e
 3.  **Change Avatar**: Ouvre la page de modification de votre avatar dans votre navigateur Internet.
 4.  **Close** : Ferme la fenêtre.
 
-# Menu de jeu
+## Menu de jeu
 
 ![Menu de jeu](img/Introscreen2.jpg "Menu de jeu")
 
@@ -43,7 +43,7 @@ Accédez à cet écran en cliquant sur votre panneau d'utilisateur se trouvant e
 -   Cliquez sur Multi (M) pour jouer avec d'autres personnes.
 -   Cliquez sur Back pour revenir au menu principal.
 
-==Le hall multijoueur==
+### Le hall multijoueur
 
 *Pour plus d'informations: <FR:Multiplayer>*
 
@@ -51,7 +51,7 @@ Accédez à cet écran en cliquant sur votre panneau d'utilisateur se trouvant e
 
 ![](img/Multi-play!_Host.jpg)
 
-## Ecran de sélection des beatmaps
+### Ecran de sélection des beatmaps
 
 ![L'écran de sélection](img/Soloplay1.jpg "L'écran de sélection")
 
@@ -61,7 +61,7 @@ NB: Vous pourrez identifier le mode spécifique de chaque beatmap en jetant un c
 
 Parce que cet écran a trop d'éléments à noter par des numéros facilement visibles, cette section se concentrera sur une partie de l'écran à la fois, en partant du haut de gauche à droite, puis en continuant vers le bas. Les sauts de ligne(s) seront utilisés pour diviser l'écran en trois pour faciliter leur consultation et leur compréhension.
 
-### Informations sur la Beatmap
+#### Informations sur la Beatmap
 
 ![](img/Soloplay2.jpg)
 
@@ -69,7 +69,7 @@ Cette zone affiche les informations de la difficulté actuellement sélectionné
 
 -   Style: {Source} ({Artiste}) - {Titre} \[{Difficulté sélectionnée}\]
 
-### Grouper et Trier (Group and Sort)
+#### Grouper et Trier (Group and Sort)
 
 ![](img/Soloplay3.jpg)
 
@@ -103,13 +103,13 @@ Cliquez sur un des onglets pour **trier votre liste de chansons en fonction du c
 -   Par Note reçue - Par note
 -   Par Titre - Par titre, alphabétiquement
 
-### Rechercher
+#### Rechercher
 
 ![](img/Soloplay5.jpg)
 
 Tapez du texte n'importe où sur l'écran de sélection ([la console de chat](FR:Chat_Console "wikilink") ne doit pas être ouverte où ce sera consideré comme un message de chat) et la recherche va être activée. Notes:
 
-### Classement
+#### Classement
 
 ![](img/Soloplay10.jpg)
 
@@ -132,15 +132,15 @@ Cet espace peut afficher le tableau de classement ou différents messages :
 | Global Ranking (Selected Mod)   |
 | Friend Ranking                  |
 
-# Ranking screen
+## Ranking screen
 
-## Grade screen
+### Grade screen
 
 This is the grade screen after you successfully passed the beatmap. You can access your Online results by scrolling down or pressing the obvious button.
 
 **Note:** The grade skin will vary by skin used.
 
-## Online score leader-board
+### Online score leader-board
 
 Note: The back transparent leitmotif is based on what mode you played in.
 

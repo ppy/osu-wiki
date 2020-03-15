@@ -2,9 +2,11 @@
 outdated: true
 ---
 
+# Tampilan Permainan
+
 ![Layar perkenalan](img/Intro_static.jpg "Layar perkenalan")
 
-=Menu Utama=
+## Menu Utama
 
 ![Menu utama](img/Introscreen.jpg "Menu utama")
 
@@ -24,7 +26,7 @@ outdated: true
 -   \[11\] Sebelah userpanel tersebut, jumlah beatmaps, waktu berjalannya program hingga saat ini dan waktu jam komputer kamu.
 -   \[12\] Di pojok kiri atas adalah panel pengguna kamu, klik di atasnya untuk menampilkan Pilihan Pengguna.
 
-==Pilihan Pengguna==
+### Pilihan Pengguna
 
 ![Pilihan Pengguna](img/Useroptions1.png "Pilihan Pengguna")
 
@@ -35,7 +37,7 @@ Akses layar ini dengan mengklik panel pengguna kamu di bagian pojok kiri atas la
 3.  **Change Avatar (Ubah Gambar Profil)**: Membuka halaman edit avatar di browsermu.
 4.  **Close (Tutup)** : Menutup jendela ini.
 
-# Menu Bermain
+## Menu Bermain
 
 ![Menu bermain](img/Introscreen2.jpg "Menu bermain")
 
@@ -43,7 +45,7 @@ Akses layar ini dengan mengklik panel pengguna kamu di bagian pojok kiri atas la
 -   Click Multi (M) bermain dengan orang lain. Kamu akan diarahkan ke layar [bermain bersama](ID:Multiplayer "wikilink").
 -   Click Back untuk kembali ke Menu Utama
 
-==Lobi Bermain Bersama==
+### Lobi Bermain Bersama
 
 *Penjelasan lebih lanjut: [Bermain Bersama](ID:Multiplayer "wikilink")*
 
@@ -51,7 +53,7 @@ Akses layar ini dengan mengklik panel pengguna kamu di bagian pojok kiri atas la
 
 ![](img/Multi-play!_Host.jpg)
 
-## Layar Pemilihan Lagu
+### Layar Pemilihan Lagu
 
 ![Pemilihan lagu](img/Soloplay1.jpg "Pemilihan lagu")
 
@@ -61,7 +63,7 @@ Catatan: Kamu dapat mengidentifikasi pilihan lagu untuk mode tertentu dengan mem
 
 Karena layar ini memiliki terlalu banyak elemen untuk diperhatikan oleh nomor yang mudah terlihat, bagian ini akan fokus pada satu bagian layar dan di saat bersamaan, mulai dari atas (kiri ke kanan) dan terus ke bawah.
 
-### Informasi Beatmap
+#### Informasi Beatmap
 
 ![](img/Soloplay2.jpg)
 
@@ -69,7 +71,7 @@ Area ini menampilkan **informasi pada tingkat kesulitan beatmap yang sedang dipi
 
 -   Bentuk: {Sumber} ({Artis}) - {Judul} \[{Tingkat kesulitan yang dipilih}\]
 
-### Grup dan Pengurutan
+#### Grup dan Pengurutan
 
 ![](img/Soloplay3.jpg)
 
@@ -104,7 +106,7 @@ Klik pada salah satu tab untuk **mengurutkan daftar lagu kamu sesuai dengan krit
 -   By Rank Achieved (Berdasarkan Peringkat yang Dicapai) - Berdasarkan Peringkat D, C, B, A, S, SS, S Perak, SS Perak
 -   By Title (Berdasarkan Judul) - Berdasarkan huruf, angka, karakter pertama dari nama judul
 
-### Pencarian
+#### Pencarian
 
 ![](img/Soloplay5.jpg)
 
@@ -129,7 +131,7 @@ Ketik dimanapun pada Layar Pemilihan Lagu ([Konsol Chat](ID:Chat_Console "wikili
     -   **unplayed** - Map yang belum dimainkan - tanpa nilai (gunakan "unplayed=" untuk map yang belum dimainkan, atau "unplayed!=" untuk map yang telah dimainkan)
     -   **speed** - kecepatan gulir osu!mania yang telah disimpan - selalu 0 untuk map yang belum dimainkan atau jika [Opsi Remember osu!mania scroll speed per beatmap (Ingat kecepatan gulir osu!mania setiap beatmap)](ID:Options#Gameplay_section "wikilink") tidak dicentang
 
-### Peringkat
+#### Peringkat
 
 ![Tabel Peringkat Daring](img/Soloplay10.jpg "Tabel Peringkat Daring")
 
@@ -162,7 +164,7 @@ Klik ikon balon untuk memanggil layar **Akses Cepat Web** untuk beatmap yang dip
 
 Sementara Anda berada di Layar Akses Cepat Web, kamu tidak dapat mengakses obrolan dan konsol obrolan yang diperluas.
 
-### Daftar Lagu
+#### Daftar Lagu
 
 ![Daftar Lagu Beatmap](img/Soloplay6.jpg "Daftar Lagu Beatmap")
 
@@ -176,7 +178,7 @@ Sementara Anda berada di Layar Akses Cepat Web, kamu tidak dapat mengakses obrol
 
 Kamu dapat menavigasikan daftar beatmap menggunakan \[1\]roda mouse, \[2\]atas dan bawah tombol panah, \[3\]drag sambil menekan tombol mouse kiri atau \[4\]mengklik tombol kanan mouse (sebelumnya dikenal sebagai Pengguliran Absolut) yang akan bergulir berdasarkan penempatan kursormu sebelum mengklik. Klik kotak untuk memilih beatmap itu dan menampilkan informasi pada bagian kiri atas, nilai yang tinggi (jika ada) di sebelah kiri dan, jika kamu telah membersihkannya, huruf tingkat nilai tertinggi yang telah kamu capai. \[1\]Klik kotak lagi, \[2\]tekan "Enter" atau \[3\]klik osu! logo di bagian kanan bawah untuk mulai bermain beatmap tersebut. Jika kotak memiliki warna lebih terang, itu berarti bahwa kamu belum bermain yang tingkat kesulitan beatmap itu.
 
-### Kotak alat permainan
+#### Kotak alat permainan
 
 ![](img/Soloplay7.jpg)
 
@@ -211,15 +213,15 @@ Klik pada **user panelmu** untuk mengakses **Menu Opsi Pengguna**.
 
 Klik pada **logo osu!** untuk **mulai bermain beatmap yang dipilih**.
 
-# Layar Peringkat
+## Layar Peringkat
 
-## Layar Tingkat
+### Layar Tingkat
 
 Ini adalah layar tingkat setelah Anda berhasil melewati Beatmap tersebut. Anda dapat mengakses hasil daring Anda dengan menggulir ke bawah atau menekan tombol yang jelas.
 
 **Catatan:** Skin Tingkat akan bervariasi oleh Skin yang digunakan.
 
-## Papan peringkat skor daring
+### Papan peringkat skor daring
 
 Catatan: Motif utama transparan pada latar belakang berdasarkan mode yang kamu mainkan.
 

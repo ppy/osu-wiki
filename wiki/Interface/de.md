@@ -2,9 +2,11 @@
 outdated: true
 ---
 
+# Interface (Deutsch)
+
 ![Einführungsbildschirm](img/Intro_static.jpg "Einführungsbildschirm")
 
-=Hauptmenü=
+## Hauptmenü
 
 ![Hauptmenü](img/Introscreen.jpg "Hauptmenü")
 
@@ -22,7 +24,7 @@ Das \[1\] osu! Logo pulsiert nach dem [BPM](DE:Timing "wikilink") des Liedes, da
 -   \[11\] Oben mittig wird angezeigt, wie viele Maps man hat, wie lange osu! Schon läuft und die Uhrzeit.
 -   \[12\] Oben links ist dein User-Panel, klick darauf, um dir die Benutzereinstellungen anzeigen zu lassen.
 
-==Benutzereinstellungen==
+### Benutzereinstellungen
 
 ![Benutzereinstellungen](img/Useroptions1.png "Benutzereinstellungen")
 
@@ -33,7 +35,7 @@ Durchs Klicken auf ihren User-Panel im oberen rechten Bereich erhalten sie Zugan
 3.  **Change Avatar**: Öffnet eine Seite im Browser, um den Avatar zu bearbeiten.
 4.  **Close** : Schließt das Fenster.
 
-=Spielmenü=
+## Spielmenü
 
 ![Spielmenü](img/Introscreen2.jpg "Spielmenü")
 
@@ -41,7 +43,7 @@ Durchs Klicken auf ihren User-Panel im oberen rechten Bereich erhalten sie Zugan
 -   Klick auf Multi (M), um mit anderen zu spielen. Sie gelangen dann zum Multiplayer-Bereich.
 -   Klick auf Back, um wieder zurück zum Hauptmenü zu gelangen.
 
-==Multiplayer-Lobby==
+### Multiplayer-Lobby
 
 *Vollständige Erklärung: [Multiplayer](DE:Multiplayer "wikilink")*
 
@@ -49,7 +51,7 @@ Durchs Klicken auf ihren User-Panel im oberen rechten Bereich erhalten sie Zugan
 
 ![](img/Multi-play!_Host.jpg)
 
-## Songauswahl
+### Songauswahl
 
 ![Songauswahl](img/Soloplay1.jpg "Songauswahl")
 
@@ -130,7 +132,7 @@ Die **Songliste zeigt alle Beatmaps an, die Sie heruntergeladen haben**. Die Far
 -   Orange: Diese Beatmap wurde mal gespielt (auch bei Beatmaps mit mehr als einer Schwierigkeitsstufe).
 -   Weiß: Diese Beatmap ist gerade ausgewählt.
 
-## Sie können sich durch die Songliste entweder mit \[1\] dem Mausrad, \[2\] der Pfeiltaste nach oben und unten, \[3\] durchs Halten der linken Maustaste oder \[4\] durchs Drücken der rechten Maustaste (auch bekannt als absolutes Scrollen) bewegen. Klicken Sie auf einen Kasten, um die Beatmap auszuwählen und um sich die Informationen dazu auf der oberen, linken Bereich, den High Score, den Rang, den Sie mit Ihrem High Score erzielt haben und weitere Dinge anzeigen zu lassen. \[1\] Klicken Sie ein weiteres Mal auf das Kästchen, \[2\] drücken Sie die Eingabetaste oder \[3\] auf das osu! Logo in der unteren, linken Ecke, um die Beatmap zu spielen.
+Sie können sich durch die Songliste entweder mit \[1\] dem Mausrad, \[2\] der Pfeiltaste nach oben und unten, \[3\] durchs Halten der linken Maustaste oder \[4\] durchs Drücken der rechten Maustaste (auch bekannt als absolutes Scrollen) bewegen. Klicken Sie auf einen Kasten, um die Beatmap auszuwählen und um sich die Informationen dazu auf der oberen, linken Bereich, den High Score, den Rang, den Sie mit Ihrem High Score erzielt haben und weitere Dinge anzeigen zu lassen. \[1\] Klicken Sie ein weiteres Mal auf das Kästchen, \[2\] drücken Sie die Eingabetaste oder \[3\] auf das osu! Logo in der unteren, linken Ecke, um die Beatmap zu spielen.
 
 ![Auflistung aller verfügbaren Spielmodi](img/Soloplay7.jpg "Auflistung aller verfügbaren Spielmodi")
 
@@ -163,15 +165,15 @@ Klicken Sie auf "Beatmap Options", drücken Sie die F3 Taste oder mit Rechtsklic
 
 Während Sie sich in der Auswahl der Beatmap Optionen befinden, können Sie nicht den Chat oder den erweiterten Chat verwenden.
 
-# Rankingtabelle
+## Rankingtabelle
 
-## Rangtabelle
+### Rangtabelle
 
 In diesem Bereich wird Ihren Rang, den Sie nach erfolgreichen Abschluss der Beatmap erlangt haben, angezeigt. Um zur Online Score Führungstabelle zu gelangen, scrollen Sie einfach hinunter.
 
 **Hinweis:** Das Aussehen des Ranges kann je nachdem, welchen Skin Sie benutzen, variieren.
 
-## Online Score Führungstabelle
+### Online Score Führungstabelle
 
 Note: The back transparent leitmotif is based on what mode you played in.
 

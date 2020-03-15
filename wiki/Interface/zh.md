@@ -2,9 +2,11 @@
 outdated: true
 ---
 
+# Interface (中文)
+
 ![](img/Intro_static.jpg)
 
-=主菜单=
+## 主菜单
 
 ![](img/Introscreen.jpg)
 
@@ -22,7 +24,7 @@ outdated: true
 -   ［11］用户信息旁边的是地图总数，运行时间，以及电脑时显示间。
 -   ［12］用户面板，点击显示用户选项。
 
-## 用户选项
+### 用户选项
 
 ![](img/Useroptions1.png)
 
@@ -33,7 +35,7 @@ outdated: true
 3.  **Change Avatar**: 在浏览器中打开更改头像页面
 4.  **Close** : 关闭此窗口
 
-=游戏界面=
+## 游戏界面
 
 ![](img/Introscreen2.jpg)
 
@@ -41,7 +43,7 @@ outdated: true
 -   点击Multi（M）以进行多人联机
 -   点击Back以返回主菜单
 
-==联机大厅==
+### 联机大厅
 
 *详见词条： <ZH:Multiplayer>*
 
@@ -49,7 +51,7 @@ outdated: true
 
 ![](img/Multi-play!_Host.jpg)
 
-## 选歌界面
+### 选歌界面
 
 ![](img/Soloplay1.jpg)
 
