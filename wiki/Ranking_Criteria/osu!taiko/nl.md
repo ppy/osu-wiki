@@ -29,16 +29,16 @@ _Hoofdartikel: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)_
 - **BPM:** Een afkorting voor "beats per minute" die gebruikt wordt om het tempo van een lied te bepalen.
 - **Slider/Drumroll:** Een gele balk met ticks erin die gespeeld worden met om het even welke gebonden toetsen. Deze ticks zijn meestal gesnapped op 1/4 overeenkomstig met de BPM van de muziek. Als de BPM lager is dan 125, zal de snapping veranderen naar 1/8. Als de BPM hoger is dan 250 naar 1/2. Als de slider tick frequentie op 3 is ingesteld, zullen de slider ticks snappen op 1/3.
 - **Spinner:** Een rond element waarbij de speler moet afwisselen tussen het slaan van Don/Kat voor een bepaald aantal keer, dit wordt weergegeven in het midden van de spinner. Dit aantal hangt af van de algemene moeilijkheidsgraad (OD), maar ook van de lengte van de spinner.
-- **Maatstreep (_bar line_):** Een lijn die op het speelveld verschijnt en het begin van een maat aangeeft.
+- **Maatstreep _(bar line)_:** Een lijn die op het speelveld verschijnt en het begin van een maat aangeeft.
 - **Overlap:** Een noot die een andere noot in het speelveld gedeeltelijk of volledig bedekt.
 - **Rustmoment:** Een periode zonder noten die specifiek gebruikt wordt om de handen van de speler te laten rusten en om de speler zich te laten voorbereiden op de volgende patronen.
 - **Stream:** Opeenvolgende cirkels samen gegroepeerd. Meestal gesnapped op 1/4 beats.
 - **Snapping:** Tick van de tijdlijn waarop een object is geplaatst.
 - **Variabele snapping:** Een combinatie van meerdere manieren om noten te snappen binnen een korte tijdsspanne vanwege het fluctuerende karakter van het lied op dat moment.
-- **Slidertempo (_slider velocity_):** De snelheid waarop de noten/drumrolls/spinners/maatstrepen zich horizontaal van links naar rechts door het speelveld bewegen. Het basis slidertempo kan worden geregeld in het timing paneel en extra wijzigingen kunnen worden gemaakt door middel van _inherited_ (groene) tijdspunten.
+- **Slidertempo _(slider velocity)_:** De snelheid waarop de noten/drumrolls/spinners/maatstrepen zich horizontaal van links naar rechts door het speelveld bewegen. Het basis slidertempo kan worden geregeld in het timing paneel en extra wijzigingen kunnen worden gemaakt door middel van _inherited_ (groene) tijdspunten.
 - **Geleidelijke _slider velocity_ veranderingen:** Een techniek die een geleidelijke overgang van lagere naar hogere / van hogere naar lagere _slider velocity_ secties mogelijk maakt. Om dit effect te bereiken wordt gebruik gemaakt van overgangsnoten met variërende _slider velocities_.
 - **Improvisatie:** Wanneer er meer noten in een map zijn dan in de eigenlijke muziek.
-- **Taiko sjabloonachtergrond(_Taiko template background_):** Achtergrondafbeeldingen die de authentieke Taiko no Tatsujin gameplay simuleren. Ze bevatten doorgaans een zwarte balk die de artiest en de titel van het liedje in het wit onder het speelveld toont.
+- **Taiko sjabloonachtergrond _(Taiko template background)_:** Achtergrondafbeeldingen die de authentieke Taiko no Tatsujin gameplay simuleren. Ze bevatten doorgaans een zwarte balk die de artiest en de titel van het liedje in het wit onder het speelveld toont.
 
 ## Algemeen
 
