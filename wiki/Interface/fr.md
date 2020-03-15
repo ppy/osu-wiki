@@ -4,8 +4,11 @@ outdated: true
 
 # Interface de jeu
 
-<img src="Intro_static.jpg" title="fig:Right|Ecran d&#39;introduction d&#39;osu!" alt="Right|Ecran d&#39;introduction d&#39;osu!" width="400" />
-=Menu principal= <img src="introscreen.png" title="fig:Menu principal d&#39;osu!" alt="Menu principal d&#39;osu!" width="280" />
+![Ecran d'introduction d'osu!](img/Intro_static.jpg "Ecran d'introduction d'osu!")
+
+=Menu principal=
+
+![Menu principal d'osu!](img/Introscreen.jpg "Menu principal d'osu!")
 
 Sur l'écran d'introduction s'affiche le logo d'osu! au centre de l'écran. Il bat suivant le [BPM](FR:Timing "wikilink") d'une musique en cours de lecture. Si aucun morceau n'est joué, celui-ci bat à un rythme lent par défaut. Le raccourci clavier est entre parenthèses.
 
@@ -21,7 +24,9 @@ Sur l'écran d'introduction s'affiche le logo d'osu! au centre de l'écran. Il b
 -   \[11\] A côté de votre panneau d'utilisateur, le nombre de beatmaps, le temps depuis lequel le programme est en marche et l'heure qu'affiche votre ordinateur.
 -   \[12\] Dans le coin supérieur gauche se trouve votre panneau d'utilisateur, cliquez dessus pour afficher vos options en tant que tel.
 
-==Options d'utilisateur== <img src="useroptions1.png" title="fig:Options d&#39;utilisateur" alt="Options d&#39;utilisateur" width="280" />
+==Options d'utilisateur==
+
+![Options d'utilisateur](img/Useroptions1.png "Options d'utilisateur")
 
 Accédez à cet écran en cliquant sur votre panneau d'utilisateur se trouvant en haut à gauche de votre écran d'introduction. Vous ne pourrez accéder à aucune commande liée au chat sur ce panel. Vous pouvez sélectionner un élément en appuyant sur le numéro correspondant à ​​l'option.
 
@@ -32,7 +37,7 @@ Accédez à cet écran en cliquant sur votre panneau d'utilisateur se trouvant e
 
 # Menu de jeu
 
-<img src="introscreen2.png" title="Menu de jeu" alt="Menu de jeu" width="280" />
+![Menu de jeu](img/Introscreen2.jpg "Menu de jeu")
 
 -   Cliquez sur Solo (P) pour jouer seul.
 -   Cliquez sur Multi (M) pour jouer avec d'autres personnes.
@@ -42,28 +47,32 @@ Accédez à cet écran en cliquant sur votre panneau d'utilisateur se trouvant e
 
 *Pour plus d'informations: <FR:Multiplayer>*
 
-<img src="Multi-Play-2016.png" title="fig:Multi-Play-2016.png" alt="Multi-Play-2016.png" width="280" /> <img src="Multi play! (Host).jpg" title="fig:Multi play! (Host).jpg" alt="Multi play! (Host).jpg" width="280" />
+![](img/Multi-Play-2016.png)
+
+![](img/Multi-play!_Host.jpg)
 
 ## Ecran de sélection des beatmaps
 
-<img src="soloplay1.jpeg" title="L&#39;écran de sélection" alt="L&#39;écran de sélection" width="300" />
+![L'écran de sélection](img/Soloplay1.jpg "L'écran de sélection")
 
 NB: Vous pourrez identifier le mode spécifique de chaque beatmap en jetant un coup d'oeil aux motifs blancs s'illustrant par les 4 icônes suivantes :
 
-![](osu.gif "fig:osu.gif")"osu!" pour [osu!](FR:Standard "wikilink"), ![](taiko.gif "fig:taiko.gif")"Tambour" pour [osu!Taiko](FR:Taiko "wikilink"), ![](ctb.gif "fig:ctb.gif")"Pomme" pour [osu!Catch The Beat](FR:Catch_the_Beat "wikilink") et ![](mania.gif "fig:mania.gif")"Piano" pour [osu!mania](FR:Mania "wikilink")
+![](/wiki/shared/mode/osu.png)"osu!" pour [osu!](FR:Standard "wikilink"), ![](/wiki/shared/mode/taiko.png)"Tambour" pour [osu!Taiko](FR:Taiko "wikilink"), ![](/wiki/shared/mode/catch.png)"Pomme" pour [osu!Catch The Beat](FR:Catch_the_Beat "wikilink") et ![](/wiki/shared/mode/mania.png)"Piano" pour [osu!mania](FR:Mania "wikilink")
 
 Parce que cet écran a trop d'éléments à noter par des numéros facilement visibles, cette section se concentrera sur une partie de l'écran à la fois, en partant du haut de gauche à droite, puis en continuant vers le bas. Les sauts de ligne(s) seront utilisés pour diviser l'écran en trois pour faciliter leur consultation et leur compréhension.
 
 ### Informations sur la Beatmap
 
-<img src="soloplay2.jpeg" title="fig:soloplay2.jpeg" alt="soloplay2.jpeg" width="400" />
+![](img/Soloplay2.jpg)
+
 Cette zone affiche les informations de la difficulté actuellement sélectionnée. Par défaut, la beatmap sélectionnée sera celle qui était jouée dans le jukebox au moment de l'ouverture de l'écran de sélection. La valeur de BPM affichée est la moyenne entre la valeur la plus rapide et la plus lente de la beatmap. "Objects" correspond au nombre total d'[éléments](FR:Hit_Objects "wikilink") de la map. Un ![](heart.gif "fig:heart.gif")coeur en haut à gauche signifie que la beatmap est Rankée tandis qu'une ![](fire.gif "fig:fire.gif")flamme indique qu'elle est Approuvée. Le titre Unicode (i.e avec caractères non-latins) sera affiché si l'option ["Métadonnées des maps dans leur langue d'origine"](FR:Options#Langue "wikilink") est activée.
 
 -   Style: {Source} ({Artiste}) - {Titre} \[{Difficulté sélectionnée}\]
 
 ### Grouper et Trier (Group and Sort)
 
-![](soloplay3.jpeg "fig:soloplay3.jpeg")
+![](img/Soloplay3.jpg)
+
 Cliquez sur un des onglets pour **trier votre liste de chansons en fonction du critère sélectionné**
 **Grouper**- La plupart des options organisent les beatmaps en plusieurs groupes expansibles
 
@@ -96,12 +105,15 @@ Cliquez sur un des onglets pour **trier votre liste de chansons en fonction du c
 
 ### Rechercher
 
-![](soloplay5.jpeg "fig:soloplay5.jpeg")
+![](img/Soloplay5.jpg)
+
 Tapez du texte n'importe où sur l'écran de sélection ([la console de chat](FR:Chat_Console "wikilink") ne doit pas être ouverte où ce sera consideré comme un message de chat) et la recherche va être activée. Notes:
 
 ### Classement
 
-<img src="soloplay10.jpeg" title="fig:Classement en ligne" alt="Classement en ligne" width="280" /> Cet espace peut afficher le tableau de classement ou différents messages :
+![](img/Soloplay10.jpg)
+
+Cet espace peut afficher le tableau de classement ou différents messages :
 
 -   Un message "not yet submitted" indique que la beatmap n'a pas encore été envoyée en ligne.
 -   Un message "Update to latest version" indique qu'une version mise à jour de cette difficulté est disponible en ligne. Cliquez sur le message pour la télécharger.
@@ -128,15 +140,15 @@ This is the grade screen after you successfully passed the beatmap. You can acce
 
 **Note:** The grade skin will vary by skin used.
 
-Accuracy\_osu!.jpg| osu! Taiko grade.jpg| Taiko (Taiko skin) Accuracy\_CtB.jpg| Catch the Beat Accuracy\_Mania.jpg| osu!mania Multi-play record.png| Multiplayer match : Head-To-Head Multiplay Co-Op Grade.jpg| Multiplayer match : Tag Coop Multiplay Team Grade.jpg|Multiplayer match : Team Vs
-
 ## Online score leader-board
 
 Note: The back transparent leitmotif is based on what mode you played in.
 
-![](osu.gif "fig:osu.gif") is [osu!](Standard "wikilink"), ![](taiko.gif "fig:taiko.gif") is [Taiko](Taiko "wikilink"), ![](ctb.gif "fig:ctb.gif") is [Catch the Beat](Catch_the_Beat "wikilink") and ![](mania.gif "fig:mania.gif") is [osu!mania](Mania "wikilink")
+![](/wiki/shared/mode/osu.png) is [osu!](Standard "wikilink"), ![](/wiki/shared/mode/taiko.png) is [Taiko](Taiko "wikilink"), ![](/wiki/shared/mode/catch.png) is [Catch the Beat](Catch_the_Beat "wikilink") and ![](/wiki/shared/mode/mania.png) is [osu!mania](Mania "wikilink")
 
-<img src="Osu! Online score.png" title="fig:Right|Example of osu! Online score" alt="Right|Example of osu! Online score" width="350" /> This is your online leader-board. You can go here by scrolling down from the results screen. Your Local Scoreboard will show your name and the score as usual.
+![osu! Online Score](img/Osu!_Online_score.jpg "osu! Online Score")
+
+This is your online leader-board. You can go here by scrolling down from the results screen. Your Local Scoreboard will show your name and the score as usual.
 
 1.  You can change your name here to put on the Local Scoreboard.
 2.  Your player bar. It shows whether your pp, pp rank, total score, and accuracy increases or decreases. Your level bar will increase based on score.
@@ -157,5 +169,3 @@ Note: The back transparent leitmotif is based on what mode you played in.
 7.  Beatmap song with it's history of plays and pass rate.
 8.  Beatmap Rating. Use your personal discretion based on whether you enjoy the beatmap or not. Best left alone if you can't decide.
 9.  Return to Song Selection.
-
-Osu! Online score.png| osu! Online Taiko Online.jpg| Taiko Online CtB Online.png| Catch the Beat Online

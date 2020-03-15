@@ -2,8 +2,11 @@
 outdated: true
 ---
 
-<img src="Intro_static.jpg" title="fig:Right|Pantalla de introducción" alt="Right|Pantalla de introducción" width="400" />
-=Menú principal= <img src="Introscreen.jpg" title="fig:Menú principal" alt="Menú principal" width="280" />
+![Pantalla de introducción](img/Intro_static.jpg "Pantalla de introducción")
+
+=Menú principal=
+
+![Menú principal](img/Introscreen.jpg "Menú principal")
 
 El \[1\] logo de osu! se mueve de acuerdo al [BPM](ES:Timing "wikilink") de cualquier canción reproduciéndose actualmente en la pantalla de introducción. Si no se reproduce ninguna canción, se moverá a un ritmo lento por defecto. Los atajos del teclado en paréntesis.
 
