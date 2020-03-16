@@ -119,7 +119,7 @@ Sunday, 22 March 2020:
 
 | Match ID | Team 1 |  |  | Team 2 | Match time (UTC) |
 | :-: | --: | :-: | :-: | :-- | :-: |
-| #28 | United States | ![][flag_US] | ![][flag_PH] | Philippines | **04:00**
+| #28 | United States | ![][flag_US] | ![][flag_PH] | Philippines | **04:00** |
 | #27a¹ | United Kingdom | ![][flag_GB] | ![][flag_CN] | China | **12:00** |
 | #27b¹ | United Kingdom | ![][flag_GB] | ![][flag_SG] | Singapore | **12:00** |
 | #27c¹ | Argentina | ![][flag_AR] | ![][flag_CN] | China | **12:00** |
