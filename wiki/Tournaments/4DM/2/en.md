@@ -132,7 +132,7 @@ Sunday, 15 March 2020:
 | #22d² | South Korea | ![][flag_KR] | ![][flag_CA] | Canada | **13:00** |
 | #23 | United Kingdom | ![][flag_GB] | ![][flag_US] | United States | **18:00** |
 
-¹ Encounter dependent on winner of Match #17 and Match #18  
+¹ Encounter dependent on winner of Match #17 and Match #18
 ² Encounter dependent on winner of Match #19 and Match #20
 
 ## Mappools
@@ -241,6 +241,26 @@ Sunday, 15 March 2020:
   - [void feat. Gt. HAKKYOU-KUN - Never Escape (HowToPlayLN) \[Stage 4: Surrounded\]](https://osu.ppy.sh/beatmapsets/1105727#mania/2311135)
 
 ## Match results
+
+### Semifinals
+
+Saturday, 14 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Argentina** ![][flag_AR] | **6** | 0 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/59168868) |
+| **Philippines** ![][flag_PH] | **6** | 3 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/59184618) |
+| **Russian Federation** ![][flag_RU] | **6** | 5 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/59185982) |
+| **France** ![][flag_FR] | **6** | 2 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/59193185) |
+| United Kingdom ![][flag_GB] | 0 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/59196872) |
+
+Sunday, 15 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Thailand ![][flag_TH] | 4 | **6** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/59216125) |
+| Russian Federation ![][flag_RU] | 2 | **6** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/59223440) |
+| France ![][flag_FR] | 5 | **6** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/59225586) |
 
 ### Quarterfinals
 
