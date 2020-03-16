@@ -202,6 +202,21 @@ Samedi, 21 Mars 2020:
 
 ## Résultats des matches
 
+### Finales
+
+Samedi, 14 Mars 2020:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| **Fuka Pura** ![][flag_FR] | **7** | 1 | ![][flag_FR] dracoV | [#1](https://osu.ppy.sh/community/matches/59186168) |
+
+Dimanche, 15 Mars 2020:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| Dask ![][flag_FR] | 3 | **7** | ![][flag_FR] **Kaleesy Pura** | [#1](https://osu.ppy.sh/community/matches/59219870) |
+| dracoV ![][flag_FR] | 2 | **7** | ![][flag_FR] **Kaleesy Pura** | [#1](https://osu.ppy.sh/community/matches/59223133) |
+
 ### Demi-finales
 
 Samedi, 7 Mars 2020:
