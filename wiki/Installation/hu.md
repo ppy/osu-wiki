@@ -229,7 +229,7 @@ Figyelem: Az osu!stream *NEM* az osu!.
 - peppy letöltések oldala [2](https://osu.ppy.sh/home/download)
 - peppy osu! (OS X) tesztváltozata [3](https://osu.ppy.sh/community/forums/posts/909738)
 - An unofficial guide on [installing osu! on macOS](/wiki/Installation/macOS)
-- KcLKcL megoldása: Osu! futtatása Ubuntu-ban vagy xubuntu-ban [5](https://osu.ppy.sh/community/forums/topics/14614)
+- KcLKcL megoldása: osu! futtatása Ubuntu-ban vagy xubuntu-ban [5](https://osu.ppy.sh/community/forums/topics/14614)
 - doomed151 - Általános információk és letöltés (osu!droid) [6](https://osu.ppy.sh/community/forums/topics/62680)
   - Hivatalos weboldal [7](http://osudroid.com)
   - Pesets osu!droid Changelog-ja [8](https://osu.ppy.sh/community/forums/topics/62315)

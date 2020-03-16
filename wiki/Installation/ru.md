@@ -10,7 +10,7 @@ outdated: true
 
 ### Персональные компьютеры
 
-#### Osu!
+#### osu!
 
 ##### Windows
 
@@ -22,11 +22,11 @@ outdated: true
 ###### Как установить
 - [Видео туториал](https://www.youtube.com/watch?v=jOBd37Ni7RQ)
 - Скачайте [установщик osu!](https://osu.ppy.sh/home/download).
-- Найдите скачанный файл, запустите его двойным нажатием кнопки мыши, и следуйте инструкции для установки Osu!.
+- Найдите скачанный файл, запустите его двойным нажатием кнопки мыши, и следуйте инструкции для установки osu!.
 - Запустите игру двойным нажатием кнопки мыши по значку osu!, созданном на вашем рабочем столе или в меню "Пуск".
 - Должно появиться главное меню игры.Затем вы должны выбрать:Войти используя существующий аккаунт osu!(либо создать его нажав на соответствующую кнопку) или играть оффлайн.
 - Игра в онлайн режиме позволит вам записывать ваши результаты мировом рейтинге и получать ранк.
-- Наслаждайтесь вашим опытом в Osu!
+- Наслаждайтесь вашим опытом в osu!
 
 ###### Добавление карт
 Карты с разрешением .osz содержат песню и остальные файлы, необходимые для игры.
@@ -246,7 +246,7 @@ outdated: true
 -   peppy's download page [2](https://osu.ppy.sh/home/download)
 -   peppy's osu! (OS X) testing release [3](https://osu.ppy.sh/community/forums/posts/909738)
 -  [Неофициальная процедура установки osu! на macOS](/wiki/Installation/macOS)
--   KcLKcL's Solution: Running Osu! In Ubuntu or Xubuntu [5](https://osu.ppy.sh/community/forums/topics/14614)
+-   KcLKcL's Solution: Running osu! In Ubuntu or Xubuntu [5](https://osu.ppy.sh/community/forums/topics/14614)
 -   doomed151's General Information and Download (osu!droid) [6](https://osu.ppy.sh/community/forums/topics/62680)
     -   Pesets's osu!droid Changelog [7](https://osu.ppy.sh/community/forums/topics/62315)
     -   osu!droid Google Play page [8](https://play.google.com/store/apps/details?id=ru.nsu.ccfit.zuev.osu)
