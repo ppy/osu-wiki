@@ -8,7 +8,7 @@ Over deze regels en richtlijnen is gediscussieerd in het [Ranking Criteria subfo
 
 ### Namen moeilijkheidsgraden
 
-_Hoofdartikel: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)_
+*Hoofdartikel: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
 - ![](/wiki/shared/diff/easy-t.png) Kantan
 - ![](/wiki/shared/diff/normal-t.png) Futsuu
@@ -49,7 +49,6 @@ De regels zijn wat ze zijn: **regels**. Het zijn **geen** richtlijnen, en mogen 
 - **De `Omit first bar line` functie van een *uninherited* (groen) timingpunt moet worden gebruikt wanneer een BPM-wijziging/metronoom-reset de gameplay-ervaring esthetisch zou belemmeren door het toevoegen van onnodige streepjeslijnen.**
 - **Taiko sjabloonachtergronden mogen niet worden gebruikt.** Omdat er verschillende schermresoluties voorkomen, werken ze niet zoals ze oorspronkelijk bedoeld waren.
 - **Slidereindes (*sliderends*) mogen niet ten onrechte worden gesnapt om ontbrekende slider ticks te corrigeren.** Dit gedrag is onbedoeld en zal in de toekomst worden gecorrigeerd.
-
 
 ### Richtlijnen
 
