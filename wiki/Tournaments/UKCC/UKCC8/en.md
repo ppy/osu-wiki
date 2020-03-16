@@ -9,8 +9,6 @@ tags:
 
 The 8th edition of the bi-annual UK Community Cup, a tournament for those who live or are from the UK or Ireland. This edition is a 2v2.
 
-Current Stage: **Screening**
-
 ## Introduction
 
 ![Introduction](img/intro.png)
