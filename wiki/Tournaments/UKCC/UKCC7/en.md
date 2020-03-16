@@ -58,8 +58,9 @@ The **UK Community Cup 7** (***UKCC 7***) was the seventh edition of the bi-annu
 
 ### __**NEW**: Qualifying Rounds__
 
-- The first two rounds will be qualifying rounds, where each player will play a total of 7 maps
-- There will be 4 No Mod, 1 Hidden, 1 Hardrock and 1 Double Time map in each round
+- New to UKCC 7 is the introduction of two qualifying rounds
+- There will be 4 No Mod, 1 Hidden, 1 Hardrock and 1 Double Time map in round 1.
+- There will be 3 No Mod, 2 Hidden, 2 Hardrock and 2 Double Time maps in round 2.
 - Your scores on each map will be added together giving you a total score
 - The top 64 players will progress from the first qualifier
 - The top 32 players will progress from the second qualifier
