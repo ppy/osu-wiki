@@ -123,16 +123,16 @@ UK is run by many wonderful people, this list doesn't fully represent how many a
 | Position | Member(s) |
 | :-- | :-- |
 | Host(s) | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972)  |
-| Referees | ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), *tba* |
-| Commentators | *tba* |
-| Streamers | ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), *tba* |
-| Mappoolers | *tba* |
-| Statistics | ![][flag_NO] [Yokespai](https://osu.ppy.sh/users/6399568) |
-| Graphics | ![][flag_GB] [Melonturtle](https://osu.ppy.sh/users/4775283) |
+| Referee | ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), *tba* |
+| Commentator | *tba* |
+| Streamer | ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), *tba* |
+| Mappooler | *tba* |
+| Statistician | ![][flag_NO] [Yokespai](https://osu.ppy.sh/users/6399568) |
+| Designer | ![][flag_GB] [Melonturtle](https://osu.ppy.sh/users/4775283) |
 
 ## Teams
 
-Teams are ordered in 
+*Note: Teams are ordered in seed order (sum of both players global osu! standard rank).*
 
 | Team name | Members |
 | :-- | :-- |

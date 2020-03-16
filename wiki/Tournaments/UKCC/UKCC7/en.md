@@ -131,7 +131,7 @@ UK is run by many wonderful people, this list doesn't fully represent how many a
 | Streamer | ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_GB] [_Takara](https://osu.ppy.sh/users/11599184), ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761), ![][flag_GB] [xFluffyo](https://osu.ppy.sh/users/8397226), ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850) |
 | Mappooler | ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_US] [\_p0ke\_](https://osu.ppy.sh/users/929134) |
 | Statistician | ![][flag_NO] [Yokespai](https://osu.ppy.sh/users/6399568) |
-| Graphics | ![][flag_GB] [Melonturtle](https://osu.ppy.sh/users/4775283), ![][flag_GB] [Listie](https://osu.ppy.sh/users/4121535) |
+| Designer | ![][flag_GB] [Melonturtle](https://osu.ppy.sh/users/4775283), ![][flag_GB] [Listie](https://osu.ppy.sh/users/4121535) |
 
 ## Players
 
