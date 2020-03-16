@@ -178,6 +178,34 @@ The osu! TV Size Tournament 2020 is run by various community members.
 
 ## Match results
 
+### Round of 16
+
+Saturday, 14 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **= Y A H E** | **5** | 0 | STOOF CLONES | [#1](https://osu.ppy.sh/community/matches/59174978) |
+| nakapagpabagabag | 3 | 5 | **KasuLewd** | [#1](https://osu.ppy.sh/community/matches/59176904) |
+| **osim** | **6** | 5 | o!CLWS大学赛冬季2020 | [#1](https://osu.ppy.sh/community/matches/59176902) |
+| **Floating up** | **5** | 1 | WE LOVE LWMF! | [#1](https://osu.ppy.sh/community/matches/59181339) |
+| Morello crew | -1 | **0** | **Old & Irrelevant** | *win by default* |
+| Fruteria Manoli | 0 | **5** | **Knuckles Batty** | [#1](https://osu.ppy.sh/community/matches/59188567) |
+| San Lorenzo | 0 | **5** | **Sutiire** | [#1](https://osu.ppy.sh/community/matches/59190683) |
+| **Rubber Conquest** | **5** | 0 | osu stonehenge | [#1](https://osu.ppy.sh/community/matches/59196345) |
+| **Pwzekaczkaòwó** | **5** | 4 | Laburar | [#1](https://osu.ppy.sh/community/matches/59195030) |
+| Washingamers | 2 | **5** | **Pocket Galaxy** | [#1](https://osu.ppy.sh/community/matches/59197549) |
+| **will is 2** | **5** | 0 | Couchers | [#1](https://osu.ppy.sh/community/matches/59199388) |
+
+Sunday, 15 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| china | 3 | 5 | **IshuzokuRebyuāzu** | [#1](https://osu.ppy.sh/community/matches/59211472) |
+| Smile and wave | -1 | **0** | **BRATVA I KOLCO** | *win by default* |
+| **seusbruk** | **5** | 0 | Kangaroo | [#1](https://osu.ppy.sh/community/matches/59223212) |
+| **riuzaky homo** | **5** | 4 | Mirash Fanclub | [#1](https://osu.ppy.sh/community/matches/59231301) |
+| Mahloola | 5 | **6** | **GrandMaineAngers** | [#1](https://osu.ppy.sh/community/matches/59233803) |
+
 ### Round of 32
 
 Saturday, 7 March 2020:
