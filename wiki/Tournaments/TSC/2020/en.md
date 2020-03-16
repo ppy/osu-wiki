@@ -93,6 +93,41 @@ The Taiko Suiji Cup 2020 is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here! (77 MB)](https://mega.nz/#!twMWCIYY!xq_NirEU7Y3zCzEUXlj4hgF7ebmXY2pMRDV1MmvxBNc)**
+
+#### Mappool A
+
+- NoMod
+  - [SOUND HOLIC - Kowasareta Omamori (aabc271) \[Inner Oni++\]](https://osu.ppy.sh/beatmapsets/390789#taiko/851776)
+  - [sak - Inherited World (maziari1105) \[Oni\]](https://osu.ppy.sh/beatmapsets/675268#taiko/1428549)
+  - [xi - .357 Magnum (glalucard) \[Taiko\]](https://osu.ppy.sh/beatmapsets/89315#taiko/242880)
+  - [ARuFa - Boku no yume,Mechakuso mugenwaki (kitafuma) \[Mugen Dream\]](https://osu.ppy.sh/beatmapsets/1013147#taiko/2120688)
+- Hidden
+  - [Kikuo - Gangu Kyou Sou Kyoku -Shuuen- (Ulqui) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/927341#taiko/1937061)
+  - [NIKITA - SCARY BANQUET (YOUTAEES) \[YOUTA‘s Taiko\]](https://osu.ppy.sh/beatmapsets/379125#taiko/834153)
+- HardRock
+  - [Chito(CV:Inori Minase),Yuuri(CV:Yurika Kubo) - More One Night (Assertive Hardcore Bootleg) (Shallty) \[uone's tour\]](https://osu.ppy.sh/beatmapsets/709073#taiko/1909656)
+  - [DJ YOSHITAKA meets dj TAKA - Triple Counter (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/678445#taiko/1434526)
+- FreeMod
+  - [brz1128 - TRICKY TRIPPER (KitajimaYN) \[Offensive\]](https://osu.ppy.sh/beatmapsets/837824#taiko/1754178)
+  - [lapix - Future Raver feat. Numb'n'dub (Arrival) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/963997#taiko/2018209)
+
+#### Mappool B
+
+- Challenge
+  - [siqlo - pars/ey (HEKUSODASU) \[HEKUSO\]](https://osu.ppy.sh/beatmapsets/1063808#taiko/2227425)
+  - [t+pazolite - Good Night, Bad Luck (7\_7) \[Oni\]](https://osu.ppy.sh/beatmapsets/649105#taiko/1375226)
+- DoubleTime
+  - [TAKU1175 feat.Kanata.N - Din Don Dan (Fusion Remix) (maziari1105) \[Oni\]](https://osu.ppy.sh/beatmapsets/609906#taiko/1287911)
+- Easy
+  - [tarolabo - eth ken (\_yu68) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/530937#taiko/1125322)
+- Hidden+HardRock
+  - [t+pazolite - CENSORED!! (KitajimaYN) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/476520#taiko/1017812)
+- Tiebreaker
+  - **[HyuN - Ignis Heart (Konpaku Sariel) \[Ifrit\]](https://osu.ppy.sh/beatmapsets/1125510#taiko/2351641)**
+
 ### Quarterfinals
 
 **[Download the mappack here! (72 MB)](https://mega.nz/#!rQ1HmYIL!pIYy7A9OPPcGAUvi4tjUMaKQmv66-fLHYIYlCPmBU2M)**
