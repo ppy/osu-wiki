@@ -159,7 +159,7 @@ UKCC 7 concluded on the 27th October 2019.
 
 ![Map pools](img/mappool.png)
 
-*NB - Map packs may no longer be available due to age.*
+*Note: Map packs may no longer be available due to age.*
 
 ### Losers Final + Grand Final
 
@@ -362,7 +362,7 @@ UKCC 7 concluded on the 27th October 2019.
   - [u's - START:DASH!! [Insane]](https://osu.ppy.sh/beatmaps/264252)
   - [Hana - Gekka Jasmine (2014ver.) [Gyro's Light Insane]](https://osu.ppy.sh/beatmaps/1035068)
 
-NB: *Maps were played in the order: NM3, HR2, DT2, HD2, HR1, NM2, DT1, NM1, HD1*
+*Note: Maps were played in the order: NM3, HR2, DT2, HD2, HR1, NM2, DT1, NM1, HD1.*
 
 ### Qualifying Round 1
 
