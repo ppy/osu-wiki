@@ -85,6 +85,35 @@ Saturday, 21 March 2020:
 
 ## Mappools
 
+### Grand Finals
+
+**[Download the mappack here! (109 MB)](https://mega.nz/#!RdgDjC6B!XEZDuiV1BJnS-8Id5CGiK_79OI1rOLAScZk54BA_c0Y)**
+
+- NoMod
+  - [Konuko - Toumei Elegy (Sinnoh) \[Overdose\]](https://osu.ppy.sh/beatmapsets/658896#fruits/1395516)
+  - [D.watt(OTAKU-ELITE Recordings) - Opium and Purple haze (CLSW) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/596519#fruits/1261323)
+  - [Kuroneko Dungeon - Ryoushi no Umi no Lindwurm (\[\_-Kukkai-\_\]) \[Overdose\]](https://osu.ppy.sh/beatmapsets/857537#fruits/1830273)
+  - [Nardis - Cosmo Memory (Shiirn) \[Entelecheia\]](https://osu.ppy.sh/beatmapsets/517598#fruits/1099759)
+  - [Ryu\* - Sakura Reflection (MYTK Remix) (Leader) \[Another\]](https://osu.ppy.sh/beatmapsets/288486#fruits/650610)
+  - [Caravan Palace - Dragons (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/46733#fruits/145361)
+- Hidden
+  - [Function Phantom - Neuronecia (Minato Yukina) \[Rain\]](https://osu.ppy.sh/beatmapsets/1054925#fruits/2204221)
+  - [Clown Core - Hell (Sinnoh) \[Rain\]](https://osu.ppy.sh/beatmapsets/925638#fruits/1933443)
+  - [Said The Sky - For You (Ft. Melissa Hayes) (Bearizm) \[Insane\]](https://osu.ppy.sh/beatmapsets/847645#fruits/1773226)
+  - [ZUN - Old Yuanshen (Parachute) \[\Para's Lunatic\]](https://osu.ppy.sh/beatmapsets/71800#fruits/208208)
+- HardRock
+  - [nmk - sola (-Sh1n1-) \[MBomb's Rain\]](https://osu.ppy.sh/beatmapsets/595972#fruits/1274343)
+  - [Orange Lounge - Marmalade Reverie (-Ken) \[Paradis (CFIC)\]](https://osu.ppy.sh/beatmapsets/1125533#fruits/2351771)
+  - [Hanatan - Kitsune no Yomeiri (Ryafuka) \[Kitsuneko\]](https://osu.ppy.sh/beatmapsets/46070#fruits/144387)
+  - [Yasunori Mitsuda - Battle with Magus (AdvanceBoy) \[Darkness\]](https://osu.ppy.sh/beatmapsets/37332#fruits/120119)
+- DoubleTime
+  - [Cranky - EMPEROR (JBHyperion) \[PLATTER\]](https://osu.ppy.sh/beatmapsets/979438#fruits/2054224)
+  - [Memme - Force of Ra (Deif) \[Platter\]](https://osu.ppy.sh/beatmapsets/573479#fruits/1214850)
+  - [Senya - Kodokutsuki (y u z u k i) \[gow's insane\]](https://osu.ppy.sh/beatmapsets/24706#fruits/83968)
+  - [Duca - Zettai Darli'n (Little) \[Insane\]](https://osu.ppy.sh/beatmapsets/414709#fruits/898884)
+- Tiebreaker
+  - **[Chata - enn (Spectator) \[The Melody of Wish, Desires\]](https://osu.ppy.sh/beatmapsets/692979#fruits/1466362)**
+
 ### Finals
 
 - NoMod
