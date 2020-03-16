@@ -1,4 +1,4 @@
-# Installation
+# Installation (한국어)
 
 *참고 항목: [Installation/macOS](/wiki/Installation/macOS)*
 

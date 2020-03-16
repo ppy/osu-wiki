@@ -2,7 +2,7 @@
 outdated: true
 ---
 
-# Installation - Thai
+# Installation (ไทย)
 
 ## วิธีการติดตั้ง
 

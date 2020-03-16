@@ -2,7 +2,7 @@
 outdated: true
 ---
 
-# Installation - Hungarian
+# Installation (Magyar)
 
 Ez az oldal nagyjából leírja, hogyan tudod működésre bírni a játékot az eszközeiden, illetve tartalmaz néhány hibakeresési módszert is.
 

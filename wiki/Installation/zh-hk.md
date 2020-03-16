@@ -2,7 +2,7 @@
 outdated: true
 ---
 
-# Installation
+# Installation (繁體中文)
 
 此頁面會告訴你如何獲得遊戲和一些排除故障的方法。
 

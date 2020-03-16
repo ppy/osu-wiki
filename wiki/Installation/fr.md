@@ -2,7 +2,7 @@
 outdated: true
 ---
 
-# Installation
+# Installation (Français)
 
 *Voir également: [Installation/macOS](/wiki/Installation/macOS)*
 
