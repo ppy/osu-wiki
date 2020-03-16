@@ -11,7 +11,7 @@ tags:
 
 The 8th edition of the bi-annual UK Community Cup, a tournament for those who live or are from the UK or Ireland. This edition is a 2v2.
 
-Current Stage: **[Signups (click for signup form)](https://forms.gle/s1FQ1sRTrwXa4i8t8)**
+Current Stage: **Screening**
 
 ---
 
@@ -136,7 +136,58 @@ UK is run by many wonderful people, this list doesn't fully represent how many a
 
 ## Teams
 
-A list of teams will be released upon the completion of the signup/screening phase.
+Teams are ordered in 
+
+| Team name | Members |
+| :-- | :-- |
+| Diu Lei Lou Mo | ![][flag_GB] [Ventus](https://osu.ppy.sh/users/1986262), ![][flag_GB] [Jameslike](https://osu.ppy.sh/users/2415743) |
+| Who Needs DT Anyway? | ![][flag_GB] [helix](https://osu.ppy.sh/users/3322597), ![][flag_GB] [bloo](https://osu.ppy.sh/users/6778877) |
+| will is minecart | ![][flag_GB] [Voss](https://osu.ppy.sh/users/7657761), ![][flag_GB] [hlo](https://osu.ppy.sh/users/2232928) |
+| Maids of Neuroscience | ![][flag_GB] [Harpy](https://osu.ppy.sh/users/6761714), ![][flag_GB] [Apo11o](https://osu.ppy.sh/users/9558549) |
+| 10man? | ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761), ![][flag_GB] [majoreh](https://osu.ppy.sh/users/7959222) |
+| secksy wo mein? | ![][flag_GB] [rendaru](https://osu.ppy.sh/users/6618659), ![][flag_GB] [Rinnu](https://osu.ppy.sh/users/12179012) |
+| Black Market Pound Planet | ![][flag_GB] [Woffel](https://osu.ppy.sh/users/3915122), ![][flag_GB] [pod](https://osu.ppy.sh/users/8237552) |
+| seulgijam | ![][flag_IE] [Aseridan](https://osu.ppy.sh/users/9217468), ![][flag_IE] [LilyFlower](https://osu.ppy.sh/users/7449949) |
+| Pepsi boys | ![][flag_IE] [M a t t y](https://osu.ppy.sh/users/3737136), ![][flag_GB] [Razuh](https://osu.ppy.sh/users/6731135) |
+| Degenerates buying gf | ![][flag_GB] [Erylie](https://osu.ppy.sh/users/6652874), ![][flag_GB] [Pengrio](https://osu.ppy.sh/users/6255471) |
+| Singletap gang | ![][flag_GB] [SteffoST](https://osu.ppy.sh/users/6566765), ![][flag_GB] [Malteser](https://osu.ppy.sh/users/5218178) |
+| Gordon | ![][flag_GB] [meltz](https://osu.ppy.sh/users/6741042), ![][flag_GB] [shoe lace](https://osu.ppy.sh/users/3937808) |
+| smol players smol scores |  ![][flag_GB] [Listie](https://osu.ppy.sh/users/4121535), ![][flag_GB] [Kerantina](https://osu.ppy.sh/users/7516484) |
+| Sauces In The Cupboard | ![][flag_GB] [sut_son](https://osu.ppy.sh/users/9622163), ![][flag_GB] [Shachi](https://osu.ppy.sh/users/6546933) |
+| Werther's Originals | ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [dong](https://osu.ppy.sh/users/4422446) |
+| corona fighters | ![][flag_GB] [Cla](https://osu.ppy.sh/users/4748791), ![][flag_GB] [MattyGee](https://osu.ppy.sh/users/9213524) |
+| Goin't'MosqueBro | ![][flag_GB] [Crai](https://osu.ppy.sh/users/2285207), ![][flag_GB] [Lusory](https://osu.ppy.sh/users/2101270) |
+| Gaurdian's of Vallhala | ![][flag_GB] [Coodywoo](https://osu.ppy.sh/users/6145623), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
+| zyphox big noob | ![][flag_GB] [Tilley](https://osu.ppy.sh/users/8793814), ![][flag_GB] [Cephus](https://osu.ppy.sh/users/3373206) |
+| :nandos: | ![][flag_GB] [Zyphox](https://osu.ppy.sh/users/6589047), ![][flag_GB] [-spoon-](https://osu.ppy.sh/users/10623176) |
+| Deflated Squidward | ![][flag_GB] [[Nathan]](https://osu.ppy.sh/users/4741293), ![][flag_GB] [-Deeline](https://osu.ppy.sh/users/10121815) |
+| Big Boy Bristolians | ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_GB] [NoSpace](https://osu.ppy.sh/users/10585285) |
+| Divert | ![][flag_GB] [Raiii](https://osu.ppy.sh/users/10300454), ![][flag_GB] [Flare](https://osu.ppy.sh/users/10670430) |
+| Business Tour Online TM | ![][flag_IE] [Souljaboitellem](https://osu.ppy.sh/users/8726490), ![][flag_IE] [Ophiz](https://osu.ppy.sh/users/6671641) |
+| Karthy and AJT's Team | ![][flag_GB] [Defex](https://osu.ppy.sh/users/9674143), ![][flag_GB] [Gazzzaa](https://osu.ppy.sh/users/8624512) |
+| no idea lol | ![][flag_GB] [OskaRRRitoS](https://osu.ppy.sh/users/7051163), ![][flag_GB] [NeoPixel201](https://osu.ppy.sh/users/12139352) |
+| will win by no show | ![][flag_GB] [idealnettles](https://osu.ppy.sh/users/4010354), ![][flag_GB] [mjozog3](https://osu.ppy.sh/users/4785993) |
+| EBE EBE | ![][flag_IE] [Vanti](https://osu.ppy.sh/users/8580419), ![][flag_IE] [wackobako](https://osu.ppy.sh/users/3649156) |
+| A rank FC | ![][flag_GB] [RndGuy](https://osu.ppy.sh/users/1201586), ![][flag_GB] [Cozzzy](https://osu.ppy.sh/users/2003917) |
+|  to!wie | ![][flag_GB] [unrealLyyy](https://osu.ppy.sh/users/9594849), ![][flag_GB] [This Acc Sucks](https://osu.ppy.sh/users/7299249) |
+| obato mit Brot | ![][flag_GB] [Doughy](https://osu.ppy.sh/users/5275937), ![][flag_GB] [Kobato Hasegawa](https://osu.ppy.sh/users/10085767) |
+| Sauces In The Fridge | ![][flag_GB] [Gazza](https://osu.ppy.sh/users/3648459), ![][flag_GB] [DanZqa](https://osu.ppy.sh/users/4572097) |
+| yogWow | ![][flag_GB] [4Circ](https://osu.ppy.sh/users/2161823), ![][flag_GB] [HonourBound](https://osu.ppy.sh/users/2945999) |
+| Pasty lads | ![][flag_GB] [Teejay](https://osu.ppy.sh/users/9499753), ![][flag_GB] [Pelzio](https://osu.ppy.sh/users/4775226) |
+| stupind | ![][flag_GB] [Drag0nair](https://osu.ppy.sh/users/7333471), ![][flag_GB] [- Sylveon -](https://osu.ppy.sh/users/4284926) |
+| Fatalpulse | ![][flag_GB] [Sobriquet](https://osu.ppy.sh/users/3891023), ![][flag_GB] [FuzzyL](https://osu.ppy.sh/users/12925539) |
+| Daveid gives osu a go | ![][flag_GB] [Chemistry](https://osu.ppy.sh/users/6069540), ![][flag_GB] [RedKing](https://osu.ppy.sh/users/2754924) |
+| Roll up, Spark up. | ![][flag_GB] [ReXo](https://osu.ppy.sh/users/11825889), ![][flag_GB] [Duzell](https://osu.ppy.sh/users/10135005) |
+| 4th Times a Charm | ![][flag_GB] [Maple OwO](https://osu.ppy.sh/users/12013857), ![][flag_GB] [Sith](https://osu.ppy.sh/users/8112797) |
+| we cook rice | ![][flag_IE] [KaiWhen](https://osu.ppy.sh/users/10040214), ![][flag_IE] [Faro](https://osu.ppy.sh/users/10276624) |
+| DMU Esports | ![][flag_GB] [xPhell](https://osu.ppy.sh/users/9346516), ![][flag_GB] [Phymiath](https://osu.ppy.sh/users/9106403) |
+| B) | ![][flag_GB] [GongoTheGecko](https://osu.ppy.sh/users/9227012), ![][flag_GB] [your tomodachi](https://osu.ppy.sh/users/5149284) |
+| Team Make A Wish | ![][flag_GB] [SS_Eclipse](https://osu.ppy.sh/users/9468006), ![][flag_GB] [elix](https://osu.ppy.sh/users/10178296) |
+| What's rank? | ![][flag_GB] [Scootawoo](https://osu.ppy.sh/users/1464467), ![][flag_GB] [koiishi](https://osu.ppy.sh/users/707861) |
+| Weeaboo Wizards | ![][flag_GB] [Twiki_Games_XD](https://osu.ppy.sh/users/10329548), ![][flag_GB] [NoahPlaysGames](https://osu.ppy.sh/users/7008394) |
+| themichelinman | ![][flag_GB] [MyAngelZeroTwo](https://osu.ppy.sh/users/8337591), ![][flag_GB] [BurninLight](https://osu.ppy.sh/users/9473917) |
+| xx_GURLgamers_xx69 | ![][flag_IE] [ez sucks](https://osu.ppy.sh/users/13681283), ![][flag_GB] [josph12](https://osu.ppy.sh/users/8584840) |
+| something witty | ![][flag_GB] [crampedgeorge](https://osu.ppy.sh/users/15077108), ![][flag_GB] [RevRoadster](https://osu.ppy.sh/users/5139514) |
 
 ---
 
@@ -160,4 +211,5 @@ Please enjoy game 🙏
 
 <!-- Assets -->
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norway"
