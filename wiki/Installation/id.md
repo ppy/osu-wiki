@@ -6,11 +6,11 @@ outdated: true
 
 *Lihat juga: [Instalasi/macOS](/wiki/Installation/macOS)*
 
-Halaman ini secara kasar akan memberi tahu anda cara bagaimana menjalankan osu! pada perangkat Windows anda. [osu!academy](/wiki/osu!academy) memiliki [tutorial video](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ) yang menjelaskan cara memasang osu! di Windows.
+Halaman ini secara kasar akan memberi tahu anda cara bagaimana menjalankan osu! pada perangkat Windows anda. [osu!academy](/wiki/osu!academy) memiliki [tutorial video](https://www.youtube.com/watch?v=0V5GwzmMhpU) yang menjelaskan cara memasang osu! di Windows.
 
 ## Persyaratan sistem minimum
 
-- .NET framework 4+ (alat penginstal seharusnya meminta anda untuk mengunduhnya, jika tidak, anda dapat menemukannya [di sini](https://www.microsoft.com/en-us/download/details.aspx?id=48130))
+- .NET framework 4+ (alat penginstal seharusnya meminta anda untuk mengunduhnya, jika tidak, anda dapat menemukannya [di sini](https://www.microsoft.com/id-id/download/details.aspx?id=48130))
 - Kartu grafis yang memadai.
 
 ## Memasang osu!
@@ -27,7 +27,7 @@ Halaman ini secara kasar akan memberi tahu anda cara bagaimana menjalankan osu! 
 
 ## Menambahkan beatmapsets
 
-*Lihat juga: [Beatmaps](/wiki/Beatmaps) dan [Beatmapsets](/wiki/Beatmapsets)*
+*Lihat juga: [Beatmaps](/wiki/Beatmaps) dan [Beatmapsets](/wiki/Glossary#beatmapset)*
 
 Ada dua cara untuk menambahkan beatmap, melalui situs web atau osu!direct (memerlukan [osu!supporter](/wiki/osu!supporter)).
 
@@ -39,7 +39,7 @@ Ada dua cara untuk menambahkan beatmap, melalui situs web atau osu!direct (memer
 4. Cari dan buka file beatmapset, file ini memiliki ekstensi `.osz`.
     - Sebagai alternatif, anda juga dapat menempatkan file beatmapset ke folder `Songs` pada direktori osu! anda.
 5. osu! secara otomatis akan menangani sisanya untuk anda dan memuat beatmapset.
-    - Jika, karena alasan apa pun, anda tidak dapat melihatnya, tekan `F5` dalam Mode [Solo](/wiki/Solo_mode) untuk memproses kembali beatmap anda.
+    - Jika, karena alasan apa pun, anda tidak dapat melihatnya, tekan `F5` dalam Mode [Solo](/wiki/Interface) untuk memproses kembali beatmap anda.
 
 ### osu!direct
 
@@ -49,12 +49,12 @@ Ada dua cara untuk menambahkan beatmap, melalui situs web atau osu!direct (memer
 2. Cari lagu yang akan anda mainkan.
 3. Klik dua kali lagu pada daftar atau klik `Unduh` di sebelah kanan untuk mengunduhnya.
     - Jika anda tidak ingin mengunduh videonya, klik `DL NoVideo` sebagai gantinya.
-4. Saat osu! selesai mengunduh beatmapset, secara otomatis osu! akan memuatnya jika anda berada dalam Mode Solo, pada layar [Pemilihan Lagu](/wiki/Song_Selection).
-    - Jika, karena alasan apa pun, anda tidak dapat melihatnya, tekan `F5` dalam Mode [Solo](/wiki/Solo_mode) untuk memproses kembali beatmap anda.
+4. Saat osu! selesai mengunduh beatmapset, secara otomatis osu! akan memuatnya jika anda berada dalam Mode Solo, pada layar [Pemilihan Lagu](/wiki/Interface).
+    - Jika, karena alasan apa pun, anda tidak dapat melihatnya, tekan `F5` dalam Mode [Solo](/wiki/Interface) untuk memproses kembali beatmap anda.
 
 ## Menambahkan skins
 
-*Lihat juga: [Skins](/wiki/Skins) dan [Skinning](/wiki/Skinning)*
+*Lihat juga: [Skins](/wiki/Glossary#skin) dan [Skinning](/wiki/Skinning)*
 
 1. Kunjungi [subforum skinning](https://osu.ppy.sh/community/forums/15) dan cari skin yang anda sukai.
 2. Setelah anda menemukan skin, unduh skinnya.

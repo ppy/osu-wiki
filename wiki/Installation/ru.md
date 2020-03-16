@@ -17,11 +17,11 @@ outdated: true
 ###### Минимальные системные требования
 - Процессор 1 GHz+
 - 512 MB+ Оперативной памяти
-- [Microsoft .NET Framework (3.5+)](http://www.microsoft.com/en-us/download/details.aspx?id=22)
+- [Microsoft .NET Framework (3.5+)](https://www.microsoft.com/ru-ru/download/details.aspx?id=48130)
 
 ###### Как установить
 - [Видео туториал](https://www.youtube.com/watch?v=jOBd37Ni7RQ)
-- Скачайте [установщик osu!](https://osu.ppy.sh/p/download).
+- Скачайте [установщик osu!](https://osu.ppy.sh/home/download).
 - Найдите скачанный файл, запустите его двойным нажатием кнопки мыши, и следуйте инструкции для установки Osu!.
 - Запустите игру двойным нажатием кнопки мыши по значку osu!, созданном на вашем рабочем столе или в меню "Пуск".
 - Должно появиться главное меню игры.Затем вы должны выбрать:Войти используя существующий аккаунт osu!(либо создать его нажав на соответствующую кнопку) или играть оффлайн.
@@ -30,22 +30,22 @@ outdated: true
 
 ###### Добавление карт
 Карты с разрешением .osz содержат песню и остальные файлы, необходимые для игры.
-- Перейдите в раздел ["карты"](https://osu.ppy.sh/p/beatmaplist). Найдите песню, которая Вам понравится и нажмите на название, для открытия веб-страницы.
+- Перейдите в раздел ["карты"](https://osu.ppy.sh/beatmapsets). Найдите песню, которая Вам понравится и нажмите на название, для открытия веб-страницы.
 - Скачайте ее нажав на большую розовую кнопку "Download beatmap!" Или же фиолетовая кнопка "Without Video", если вы не хотите скачивать карту с видео.(скачивание без видео занимает меньше памяти)
 - С этого момента есть несколько способов установить карту в osu!
 - Если ваш браузер запросит что делать, выберите "Открыть с помощью osu!", если возможно. Файл будет скачан, и osu! автоматически откроет и импортирует его.
 - Если вы выбрали сохранить файл, или браузер не предоставил вам выбор, скачайте файл, перейдите в папку со скачанным файлом и, либо нажмите на него дважды, либо перенесите его прямо в окно игры. Если вы продвинутый пользователь, знайте, что можно переместить .osz файл в папку "Songs" в директории установки игры (по умолчанию Program Files).
 Идите играйте Вашу карту! Нажмите F5 если окно выбора песен не обновилось автоматически.
 Примечание: Есть множество способов скачать карту. Вот короткий список:
-- Скачайте **[пак карт](https://osu.ppy.sh/p/packlist)**. Это архив, содержащий сразу несколько карт. Зачастую это .zip или .rar архив. Скачайте архив, распакуйте, используя ваш любимый архиватор (например [7-Zip](http://www.7-zip.org/)) и импортируйте распакованные .osz файлы, как вы это обычно делаете.
-- Используйте зеркало. С помощью зеркал, любезно предоставленных сообществом, можно скачать карту не заходя на сайт. Самый популярный - [yas-online](http://osu.yas-online.net/), но другие также доступны в интернете.
+- Скачайте **[пак карт](https://osu.ppy.sh/beatmaps/packs)**. Это архив, содержащий сразу несколько карт. Зачастую это .zip или .rar архив. Скачайте архив, распакуйте, используя ваш любимый архиватор (например [7-Zip](https://www.7-zip.org)) и импортируйте распакованные .osz файлы, как вы это обычно делаете.
+- Используйте зеркало. С помощью зеркал, любезно предоставленных сообществом, можно скачать карту не заходя на сайт. Самый популярный - [yas-online](https://osu.yas-online.net), но другие также доступны в интернете.
 - Если вы знаете как использовать торрент-клиенты, ([здесь можно найти торрент файлы, предоставленные членами сообщества](https://osu.ppy.sh/community/forums/topics/147478)), вы можете скачать много паков карт за раз.
 
 ##### OS X (бета версия)
 
 ###### Как установить
-- Перейдите на [страницу загрузки](https://osu.ppy.sh/p/download) и нажмите на ссылку "OS X installer", для загрузки последней версии.
-- [Следуйте этой инструкции](http://www.ofzenandcomputing.com/how-to-install-dmg-files-mac/) для установки .dmg файла на ваш Mac.
+- Перейдите на [страницу загрузки](https://osu.ppy.sh/home/download) и нажмите на ссылку "OS X installer", для загрузки последней версии.
+- [Следуйте этой инструкции](https://support.jumpcloud.com/support/s/article/install-applications-on-macos-silently-using-dmg-files) для установки .dmg файла на ваш Mac.
 - Запустите osu!
   - Первый запуск osu! может занять до 5 минут. Это связано с тем, что X11 (графическая подсистема) перестраивает кэш шрифта.
 
@@ -193,9 +193,9 @@ outdated: true
   - Предлагаем прочитать "Добавление карт", чтобы убедиться, что вы получили последние версии паков песен. Ваша загрузка содержит только 2 песни.
 
 ##### С помощью USB
->На вашем комп'ютере должен быть установлен [iTunes](https://www.apple.com/itunes/).
+>На вашем комп'ютере должен быть установлен [iTunes](https://www.apple.com/itunes).
 
-- Перейдите по [этой ссылке и скачайте его](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)
+- Перейдите по [этой ссылке и скачайте его](https://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)
   - Если вы должны ввести Apple ID и пароль, сделайте это.
 - Подключите ваше устройство (с установленной osu!stream) к комп'ютеру
 - Перенесите файлы osu!stream используя iTunes
@@ -216,7 +216,7 @@ outdated: true
 ### osu!
 
 -   **Я пытаюсь запустить osu! и получаю 'Initialization Error**'
-    -   Убедитесь, что у вас установлен [.NET Framework 3.5](http://www.microsoft.com/en-us/download/details.aspx?id=22).
+    -   Убедитесь, что у вас установлен [.NET Framework 3.5](https://www.microsoft.com/ru-ru/download/details.aspx?id=48130).
 -   **Почему я не могу скачивать карты ?**
     -   Сначала вы должны зарегистрироватся на сайте. Регистрация бесплатная и очень быстрая, она дает вам возможноть получить доступ к загрузке карт, также она позволяет получить онлайн ранкинг на картах и внутриигровой чат. Так что нет ниакакого повода не регистрироваться!
 -   **Я не могу сыграть в загруженую карту!**
@@ -244,14 +244,14 @@ outdated: true
 ## Использованные ссылки
 
 -   peppy's FAQ [1](https://osu.ppy.sh/p/faq)
--   peppy's download page [2](https://osu.ppy.sh/p/download)
+-   peppy's download page [2](https://osu.ppy.sh/home/download)
 -   peppy's osu! (OS X) testing release [3](https://osu.ppy.sh/community/forums/posts/909738)
 -  [Неофициальная процедура установки osu! на macOS](/wiki/Installation/macOS)
--   KcLKcL's Solution: Running Osu! In Ubuntu or Xubuntu [5](https://osu.ppy.sh/forum/viewtopic.php?f=2&t=14614)
+-   KcLKcL's Solution: Running Osu! In Ubuntu or Xubuntu [5](https://osu.ppy.sh/community/forums/topics/14614)
 -   doomed151's General Information and Download (osu!droid) [6](https://osu.ppy.sh/community/forums/topics/62680)
     -   Pesets's osu!droid Changelog [7](https://osu.ppy.sh/community/forums/topics/62315)
     -   osu!droid Google Play page [8](https://play.google.com/store/apps/details?id=ru.nsu.ccfit.zuev.osu)
 -   Guy-kun's T-Aiko! for Android (Market Release!) [9](https://osu.ppy.sh/community/forums/topics/58640)
     -   T-Aiko Google Play page [10](https://play.google.com/store/apps/details?id=guy.taiko&feature=search_result)
--   peppy's osu!stream official page [11](http://osustream.com/)
-    -   osu!stream App Store page [12](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)
+-   peppy's osu!stream official page [11](https://osustream.com)
+    -   osu!stream App Store page [12](https://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)

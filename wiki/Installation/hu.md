@@ -18,11 +18,11 @@ Ez az oldal nagyjából leírja, hogyan tudod működésre bírni a játékot az
 
 - 1 GHz+ Processzor
 - 512 MB+ RAM
-- [Microsoft .NET Framework (3.5+)](http://www.microsoft.com/en-us/download/details.aspx?id=22)
+- [Microsoft .NET Framework (3.5+)](https://www.microsoft.com/hu-hu/download/details.aspx?id=48130)
 
 ###### A telepítés menete
 
-- Töltsd le az [osu! telepítőt](https://osu.ppy.sh/p/download).
+- Töltsd le az [osu! telepítőt](https://osu.ppy.sh/home/download).
 - Keresd meg a letöltött fájlt, kattints rá duplán és kövesd a megjelenő utasításokat a telepítéshez.
 - Futtasd a játékot az újonnan létrejött osu! ikonra történő dupla kattintással, vagy a Start menüben megjelent új elemre való kattintással.
 - Elsőként a Főmenü jelenik meg. Felugrik egy ablak, hogy jelentkezz be (regisztrálni a megfelelő gombra kattintva tudsz), vagy játssz offline.
@@ -33,23 +33,23 @@ Ez az oldal nagyjából leírja, hogyan tudod működésre bírni a játékot az
 
 A beatmapek .osz fájlok. Ezek tartalmazzák a zenét és egyéb, a játékhoz szükséges elemeket.
 
-- Menj a [beatmap listing](https://osu.ppy.sh/p/beatmaplist) oldalra. Keress egy számot, ami tetszik, majd kattints a címére, hogy megnyisd a weboldalát.
+- Menj a [beatmap listing](https://osu.ppy.sh/beatmapsets) oldalra. Keress egy számot, ami tetszik, majd kattints a címére, hogy megnyisd a weboldalát.
 - Letölteni a nagy rózsaszín "Download beatmap!" gombra való kattintással tudod (vagy, ha ez elérhető, a lila "Without Video" gombbal, ha videó nélkül szeretnéd a mapet).
 - Jelenleg több módon is telepíthetsz beatmapeket az osu!-hoz:
   - Ha a böngésződ megkérdezi, mit szeretnél csinálni a fájllal, válaszd a "Megnyitás: Osu" lehetőséget, ha tudod. A fájl ekkor letöltődik, az osu! pedig automatikusan megnyitja és importálja azt.
   - Ha elmented a fájlt, vagy a böngésződ nem enged választani, akkor töltsd le, menj a letöltési könyvtárba és vagy kattints rá duplán az osu!-ba való automatikus importáláshoz, vagy ha az osu! már fut, húzd bele a fájlt az ablakába. Ha jól értesz a számítógépekhez, az .osz fájlokat az osu! "Songs" mappájába is másolhatod (alapértelmezett helye a Program Files).
 - Menj és játssz! Nyomj F5-öt a számválasztó képernyőn, ha az nem frissül automatikusan.
 Arra figyelj, hogy az bizonyos idő alatt letölthető beatmapek száma korlátozott. Ha túl sokat töltöttél le és a rendszer letiltott, más módokon is letölthetsz beatmapeket, amelyek nem számítanak a kvótába:
-- Tölts le [beatmap csomagokat](https://osu.ppy.sh/p/packlist). Ezek archív fájlok, amelyek egyszerre több beatmapet tartalmaznak. Általában .zip vagy .rar archívumként kapod őket. Tölts le egyet, csomagold ki a kedvenc programoddal (pl. [7-Zip](http://www.7-zip.org/)) és importáld az .osz fájlokat ahogy egyébként is tennéd.
-- Használj egy tükörszervert. A tükörszervereket a közösség ajánlja fel, ezek segítségével az osu! weboldal letöltési kvótája nélkül szerezhetsz be beatmapeket. A legnépszerűbb a [yas-online](http://osu.yas-online.net/), de több is van az interneten.
+- Tölts le [beatmap csomagokat](https://osu.ppy.sh/beatmaps/packs). Ezek archív fájlok, amelyek egyszerre több beatmapet tartalmaznak. Általában .zip vagy .rar archívumként kapod őket. Tölts le egyet, csomagold ki a kedvenc programoddal (pl. [7-Zip](https://www.7-zip.org)) és importáld az .osz fájlokat ahogy egyébként is tennéd.
+- Használj egy tükörszervert. A tükörszervereket a közösség ajánlja fel, ezek segítségével az osu! weboldal letöltési kvótája nélkül szerezhetsz be beatmapeket. A legnépszerűbb a [yas-online](https://osu.yas-online.net), de több is van az interneten.
 - Ha tudsz torrentezni, [itt találsz a közösség egy tagja által biztosított torrent fájlokat](https://osu.ppy.sh/community/forums/topics/147478), amelyekkel több beatmap-csomagot is letölthetsz egyszerre.
 
 ##### OS X (beta verzió)
 
 ###### A telepítés menete
 
-- Látogass el a [letöltési oldalra](https://osu.ppy.sh/p/download) és kattints az "OS X installer" lehetőségre a legfrissebb verzió letöltéséhez.
-- [Kövesd ezeket az utasításokat](http://www.ofzenandcomputing.com/how-to-install-dmg-files-mac/) a .dmg fájl Mac-edre telepítéséhez.
+- Látogass el a [letöltési oldalra](https://osu.ppy.sh/home/download) és kattints az "OS X installer" lehetőségre a legfrissebb verzió letöltéséhez.
+- [Kövesd ezeket az utasításokat](https://support.jumpcloud.com/support/s/article/install-applications-on-macos-silently-using-dmg-files) a .dmg fájl Mac-edre telepítéséhez.
 - Futtasd az osu!-t
   - Az első indítás akár 5 percig is eltarthat. Ez azért van, mert az X11 (grafikai alrendszer) újjáépíti a betűkészlet-gyorsítótárat.
 
@@ -180,9 +180,9 @@ Figyelem: Az osu!stream *NEM* az osu!.
 
 ##### USB-módszer
 
-> A számítógépeden telepítve kell legyen az [iTunes](https://www.apple.com/itunes/).
+> A számítógépeden telepítve kell legyen az [iTunes](https://www.apple.com/itunes).
 
-- Látogass el [erre a linkre és töltsd le](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)
+- Látogass el [erre a linkre és töltsd le](https://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)
   - Ha kérik az Apple ID-d és a jelszavad, írd be őket.
 - Csatlakoztasd az eszközöd a számítógéphez
 - Az iTunes használatával másold át az osu!stream fájlokat
@@ -204,7 +204,7 @@ Figyelem: Az osu!stream *NEM* az osu!.
 ### osu!
 
 - **Megpróbálom futtatni az osu!-t, de "Initialization Error"-t kapok**
-  - Bizonyosodj meg róla, hogy telepítve van a [.NET Framework 3.5](http://www.microsoft.com/en-us/download/details.aspx?id=22).
+  - Bizonyosodj meg róla, hogy telepítve van a [.NET Framework 3.5](https://www.microsoft.com/hu-hu/download/details.aspx?id=48130).
 - **Miért nem tudok letölteni beatmapeket a listából?**
   - Előbb regisztrálnod kell a weboldalon. A regisztráció ingyenes és gyors, valamint letölthetsz vele beatmapeket, bekerülhetsz az online ranglistákba és más játékosokkal is chatelhetsz a játékon belül. Ne keresd a kifogásokat, hogy miért nem regisztrálsz!
 - **Nem tudok játszani a beatmappel, amit letöltöttem!**
@@ -226,15 +226,15 @@ Figyelem: Az osu!stream *NEM* az osu!.
 ## Külső hivatkozások
 
 - peppy GYIK [1](https://osu.ppy.sh/p/faq)
-- peppy letöltések oldala [2](https://osu.ppy.sh/p/download)
+- peppy letöltések oldala [2](https://osu.ppy.sh/home/download)
 - peppy osu! (OS X) tesztváltozata [3](https://osu.ppy.sh/community/forums/posts/909738)
 - An unofficial guide on [installing osu! on macOS](/wiki/Installation/macOS)
-- KcLKcL megoldása: Osu! futtatása Ubuntu-ban vagy xubuntu-ban [5](https://osu.ppy.sh/forum/viewtopic.php?f=2&t=14614)
+- KcLKcL megoldása: Osu! futtatása Ubuntu-ban vagy xubuntu-ban [5](https://osu.ppy.sh/community/forums/topics/14614)
 - doomed151 - Általános információk és letöltés (osu!droid) [6](https://osu.ppy.sh/community/forums/topics/62680)
-  - Hivatalos weboldal [7](http://osudroid.com/)
+  - Hivatalos weboldal [7](http://osudroid.com)
   - Pesets osu!droid Changelog-ja [8](https://osu.ppy.sh/community/forums/topics/62315)
   - osu!droid Google Play oldal [9](https://play.google.com/store/apps/details?id=ru.nsu.ccfit.zuev.osu)
 - Guy-kun T-Aiko!-ja Android-ra [10](https://osu.ppy.sh/community/forums/topics/58640)
   - T-Aiko Google Play oldal [11](https://play.google.com/store/apps/details?id=guy.taiko&feature=search_result)
-- peppy osu!stream hivatalos oldala [12](http://osustream.com/)
-  - osu!stream App Store oldala [13](http://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)
+- peppy osu!stream hivatalos oldala [12](https://osustream.com)
+  - osu!stream App Store oldala [13](https://itunes.apple.com/us/app/osu!stream/id436952197?ls=1&mt=8)

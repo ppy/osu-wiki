@@ -17,10 +17,10 @@ outdated: true
 ###### 最低系統要求
 - 1 GHz 以上的中央處理器
 - 512 MB 以上的記憶體
-- [NET框架3.5以上](http://www.microsoft.com/en-us/download/details.aspx?id=22)
+- [NET框架3.5以上](https://www.microsoft.com/zh-hk/download/details.aspx?id=48130)
 
 ###### 如何安裝
-- 下載[Osu! 安裝包。](https://osu.ppy.sh/p/download)
+- 下載[Osu! 安裝包。](https://osu.ppy.sh/home/download)
 - 找你剛才下載的文件，雙擊它，然後按照說明安裝 Osu! 。
 - 雙擊運行該新安裝的 Osu! 遊戲。它位於您的桌面或開始菜單。
 - 主菜單應會顯示出來。你必需登錄來玩 Osu! ！（創建一個通過單擊相應的按鈕），或玩離線模式（所有的成績將不會提交到數據庫）。
@@ -29,7 +29,7 @@ outdated: true
 
 ###### 添加譜面
 一個譜面是包含歌曲和播放所需要的文件。包括.osz文件。
-- 前往[譜面列表](https://osu.ppy.sh/p/beatmaplist)，找一個你喜歡的譜面，點擊它的標題，打開其歌曲的網頁。
+- 前往[譜面列表](https://osu.ppy.sh/beatmapsets)，找一個你喜歡的譜面，點擊它的標題，打開其歌曲的網頁。
 - 單擊粉色的下載（Download）按鈕。
 - 如果你不想下載包括視頻的譜面，請單擊紫色的（No Video）按鈕。
 - 在這點上，有幾種方式來獲得譜面安裝在 Osu! 上：
@@ -37,5 +37,5 @@ outdated: true
   - 如果您選擇保存文件，或者您的瀏覽器不給你選擇，下載.osz文件，進入下載目錄，在其上雙擊它在 Osu! 自動導入！
   - 如果 Osu! 已經打開，拖動和直接在遊戲窗口拖放下載的文件。如果你是精通技術的，要知道，你也可以將你的.osz文件放置在 osu! 的「Song」文件夾（預設：Program Files (x86)／(x64)）
 - 現在可以玩你的譜面，在歌曲菜單按F5鍵，該列表會自動刷新。
-- 下載**[譜面合集](https://osu.ppy.sh/p/packlist)**。地圖包是把幾個譜面整合。他們一般都是.zip或.r​​ar檔。下載一個你喜歡的壓縮程式提取它（例如[7-Zip](http://www.7-zip.org/)），並導入提取.osz文件。
+- 下載**[譜面合集](https://osu.ppy.sh/beatmaps/packs)**。地圖包是把幾個譜面整合。他們一般都是.zip或.r​​ar檔。下載一個你喜歡的壓縮程式提取它（例如[7-Zip](https://www.7-zip.org)），並導入提取.osz文件。
 - 如果你知道如何使用的客戶端，[由社區成員提供的Torrent種子文件](https://osu.ppy.sh/community/forums/topics/147478)，可以讓你一次下載許多譜面合集。

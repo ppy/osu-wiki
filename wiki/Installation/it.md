@@ -6,11 +6,11 @@ outdated: true
 
 *Vedi anche: [Installazione/macOS](/wiki/Installation/macOS)*
 
-Questa pagina ti spiegherà approssimativamente come far funzionare osu! su un dispostivo Windows. L'[osu!academy](/wiki/osu!academy) ha un [video tutorial](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ) che spiega come installare osu! su Windows (in inglese).
+Questa pagina ti spiegherà approssimativamente come far funzionare osu! su un dispostivo Windows. L'[osu!academy](/wiki/osu!academy) ha un [video tutorial](https://www.youtube.com/watch?v=0V5GwzmMhpU) che spiega come installare osu! su Windows (in inglese).
 
 ## Requisiti minimi di sistema
 
-- .NET framework 4+ (l'installer dovrebbe indirizzarti al relativo download, altrimenti, puoi [trovarlo qui](https://www.microsoft.com/en-us/download/details.aspx?id=48130))
+- .NET framework 4+ (l'installer dovrebbe indirizzarti al relativo download, altrimenti, puoi [trovarlo qui](https://www.microsoft.com/it-it/download/details.aspx?id=48130))
 - Una scheda grafica decente.
 
 ## Installazione di osu!
@@ -27,7 +27,7 @@ Questa pagina ti spiegherà approssimativamente come far funzionare osu! su un d
 
 ## Aggiungere beatmap
 
-*Vedi anche: [Beatmaps](/wiki/Beatmaps) e [Beatmapsets](/wiki/Beatmapsets)*
+*Vedi anche: [Beatmaps](/wiki/Beatmaps) e [Beatmapsets](/wiki/Glossary#beatmapset)*
 
 Ci sono due modi per aggiungere beatmap, tramite sito web o osu!direct (che richiede [osu!supporter](/wiki/osu!supporter)).
 
@@ -39,7 +39,7 @@ Ci sono due modi per aggiungere beatmap, tramite sito web o osu!direct (che rich
 4. Individua ed apri il file della beatmap, ha l'estensione `.osz`.
     - In alternativa, puoi metterere il file beatmap nella cartella `Songs` della directory di osu!.
 5. osu! farà automaticamente il resto per te e caricherà la beatmap.
-    - Se, per qualche motivo non vedi le beatmap, premi `F5` nella modalità [Solo](/wiki/Solo_mode) per riprocessare le beatmap.
+    - Se, per qualche motivo non vedi le beatmap, premi `F5` nella modalità [Solo](/wiki/Interface) per riprocessare le beatmap.
 
 ### osu!direct
 
@@ -49,12 +49,12 @@ Ci sono due modi per aggiungere beatmap, tramite sito web o osu!direct (che rich
 2. Trova una canzone che ti piacce.
 3. Fai doppio click sulla canzone nella lista o clicca `Download` a destra per scaricarla.
     - Se invece non vuoi scaricare il video, clicca `DL NoVideo`.
-4. Quando osu! ha finito di scaricare la beatmap, te la caricherà immediatamente se sei in modalità Solo, nella schermata [Song Selection](/wiki/Song_Selection).
-    - Se, per qualche motivo non vedi le beatmap, premi `F5` nella modalità [Solo](/wiki/Solo_mode) per riprocessare le beatmap.
+4. Quando osu! ha finito di scaricare la beatmap, te la caricherà immediatamente se sei in modalità Solo, nella schermata [Song Selection](/wiki/Interface).
+    - Se, per qualche motivo non vedi le beatmap, premi `F5` nella modalità [Solo](/wiki/Interface) per riprocessare le beatmap.
 
 ## Aggiungere skin
 
-*Vedi anche: [Skins](/wiki/Skins) e [Skinning](/wiki/Skinning)*
+*Vedi anche: [Skins](/wiki/Glossary#skin) e [Skinning](/wiki/Skinning)*
 
 1. Vai ai [skinning subforums](https://osu.ppy.sh/community/forums/15) e cerca una skin che ti piace.
 2. Una volta trovata la skin, scaricala.
