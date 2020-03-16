@@ -6,7 +6,7 @@ outdated: true
 
 De osu!taiko ranking criteria zijn regels en richtlijnen die van toepassing zijn op het mappen van osu!taiko-specifieke moeilijkheidsgraden. Om een osu!taiko specifieke moeilijkheidsgraad ranked te krijgen, is het verplicht dat de creatie voldoet aan de genoemde criteria. Hoewel **alle regels onder alle omstandigheden moeten worden nageleefd**, mogen richtlijnen onder uitzonderlijke omstandigheden worden genegeerd. Deze uitzonderlijke omstandigheden moeten worden gerechtvaardigd door een uitgebreide uitleg over waarom de richtlijn is genegeerd en over waarom het niet negeren van deze richtlijn de algemene kwaliteit van de map zal verstoren.
 
-Over deze regels en richtlijnen is gediscussieerd in het [Ranking Criteria subforum](https://osu.ppy.sh/community/forums/87). Nieuwe regels en richtlijnen kunnen gesuggereerd worden in hetzelfde forum. Deze pagina zal worden geupdated als de discussie tot een akkoord komt.
+Over deze regels en richtlijnen is gediscussieerd in het [Ranking Criteria subforum](https://osu.ppy.sh/community/forums/87). Nieuwe regels en richtlijnen kunnen gesuggereerd worden in hetzelfde forum. Deze pagina zal worden geüpdatet als de discussie tot een akkoord komt.
 
 ## Veel voorkomende termen
 
@@ -49,10 +49,10 @@ Algemene regels en richtlijnen zijn van toepassing op elke osu!taiko moeilijkhei
 De regels zijn wat ze zijn: **regels**. Het zijn **geen** richtlijnen, en mogen onder **geen enkele** omstandigheid worden gebroken.
 
 - **De kleur van elke noot moet duidelijk te onderscheiden zijn van de vorige en volgende noten.**
-- **Elke noot moet duidelijk toewijsbaar zijn aan een muzikale laag of laageenheid die hij probeert te vertegenwoordigen, of het nu gaat om het versterken van een laag die voorkomt in het liedje, of om een extra laag die door de mapper wordt geïmproviseerd.** Improviseer niet op een manier waardoor het tempo veranderd, in tegenspraak is met het algemene muziekgenre of de intensiteit van het lied verkeerd interpreteert. Improviseren moet ofwel de huidige laag van het nummer versterken ofwel een nieuwe laag toevoegen. Anders wordt gaat relatie met het liedje verloren, wat in tegenspraak is met het hoofddoel van een ritmespel.
+- **Elke noot moet duidelijk toewijsbaar zijn aan een muzikale laag die ze probeert te vertegenwoordigen, of het nu gaat om het versterken van een laag die voorkomt in het liedje, of om een extra laag die door de mapper wordt geïmproviseerd.** Improviseer niet op een manier waardoor het tempo veranderd, in tegenspraak is met het algemene muziekgenre of de intensiteit van het lied verkeerd interpreteert. Improviseren moet ofwel de huidige laag van het nummer versterken ofwel een nieuwe laag toevoegen. Anders wordt gaat relatie met het liedje verloren, wat in tegenspraak is met het hoofddoel van een ritmespel.
 - **De `Omit first bar line` functie van een _uninherited_ (groen) timingpunt moet worden gebruikt wanneer een BPM-wijziging/metronoom-reset de gameplay-ervaring esthetisch zou belemmeren door het toevoegen van onnodige streepjeslijnen.**
 - **Taiko sjabloonachtergronden mogen niet worden gebruikt.** Omdat er verschillende schermresoluties voorkomen, werken ze niet zoals ze oorspronkelijk bedoeld waren.
-- **Sliderends mogen niet ten onrechte worden gesnapt om ontbrekende slider ticks te corrigeren.** Dit gedrag is onbedoeld en zal in de toekomst worden gecorrigeerd.
+- **Slidereindes (_sliderends_) mogen niet ten onrechte worden gesnapt om ontbrekende slider ticks te corrigeren.** Dit gedrag is onbedoeld en zal in de toekomst worden gecorrigeerd.
 
 
 ### Richtlijnen
@@ -88,17 +88,99 @@ Moeilijkheidsgraad-specifieke regels en richtlijnen zijn enkel van toepassing op
 #### Richtlijnen
 
 - **1/1 patronen mogen niet langer zijn dan zeven noten.** Alles wat langer is, is waarschijnlijk te belastend voor beginners. Patronen zoals deze moeten worden gevolgd door een rustmoment.
-- **De hoofdsnapping moet meestal bestaan uit 2/1, 4/1 of tragere ritmes.** Af en toe is het gebruik van 1/1-ritmes acceptabel.
+- **De hoofdsnapping moet vooral bestaan uit 2/1, 4/1 of tragere ritmes.** Af en toe is het gebruik van 1/1-ritmes acceptabel.
 - **Er moet minstens 1/2 afstand zijn tussen een spinner en zijn vorige noot.** Dit is om ervoor te zorgen dat ze elkaar niet overlappen en om de leesbaarheid te garanderen.
 - **Minstens 1 rustmoment dat 3/1 of langer is moet na 16/1 tot 20/1 continu mappen worden ingevoegd.** Het gebruik van minder frequente rustmomenten is acceptabel als het tempo van de muziek de rustmomenten contra-intuïtief maakt of als het continu gemapte deel in het algemeen vergevingsgezinder is voor de speler.
 - **_Slider velocity_ veranderingen moeten voorzichtig worden gebruikt.** Veranderingen moeten alleen gebeuren voor delen met verschillende tempo's en de schuifsnelheid mag niet drastisch veranderen.
 
 #### Richtlijnen voor moeilijkheidsgraadinstelling
 
-- Algemene moeilijkheidsgraad (_overall difficulty_) moet 4 of minder zijn.
-- HP-afvoersnelheid (_HP drain rate_) moet 6 of meer zijn. Bij hogere nootaantallen kan de _HP Drain Rate_ aangepast worden tot iets lager dan 6.
+- De algemene moeilijkheidsgraad (_overall difficulty_) moet 4 of minder zijn.
+- De HP-drainsnelheid (_HP drain rate_) moet 6 of meer zijn. Bij hogere nootaantallen kan de _HP Drain Rate_ aangepast worden tot iets lager dan 6.
 
 ### ![](/wiki/shared/diff/normal-t.png) Futsuu
 
 #### Regels
 
+- **Als een 1/3-patroon wordt gebruikt, moeten de patronen simplistisch blijven en worden gevolgd door een rustmoment.** Finisher noten mogen niet in patronen als zodanig worden gebruikt.
+- **Patronen op snaps die sneller dan 1/3 zijn, worden niet toegestaan.** Deze patronen zijn te complex voor beginnende spelers.
+
+Als een Futsuu moeilijkheidsgraad vereist is en gebruikt wordt als de *laagste moeilijkheidsgraad* van een beatmapset, moet deze zich ook aan volgende regels houden:
+
+- **Patronen op snaps sneller dan 1/2 zijn niet toegestaan.** Deze patronen zijn te complex voor beginnende spelers. Voor nummers die een walsritme volgen, is deze limiet 1/3.
+
+#### Richtlijnen
+
+- **1/3-patronen mogen niet langer zijn dan twee noten.** Alle patronen die langer zijn, zijn zeer situationeel en meestal te complex voor nieuwere spelers. Patronen zoals deze moeten worden gevolgd door een rustmoment.
+- **1/2-patronen mogen niet langer zijn dan zeven noten.** Alles wat langer is, is waarschijnlijk te belastend voor beginners.
+- **De hoofdsnapping moet vooral bestaan uit 1/1, 2/1 of tragere ritmes.** Af en toe is het gebruik van 1/2-ritmes acceptabel.
+- **Er moet minstens 1/2 afstand zijn tussen een spinner en zijn vorige noot.** Dit is om ervoor te zorgen dat ze elkaar niet overlappen en om de leesbaarheid te garanderen.
+- **Minstens 1 rustmoment dat 2/1 of langer is moet na 16/1 tot 20/1 van het continu mappen worden ingevoegd.** Het gebruik van minder frequente rustmomenten is acceptabel als het tempo van de muziek de rustmomenten contra-intuïtief maakt of als het continu gemapte deel in het algemeen vergevingsgezinder is voor de speler.
+- **Simpele _slider velocity_ veranderingen kunnen worden gebruikt.**
+
+Als een Futsuu moeilijkheidsgraad vereist is en gebruikt wordt als de *laagste moeilijkheidsgraad* van een beatmapset, moet deze zich ook aan volgende richtlijnen houden:
+
+- **1/2-patronen mogen niet langer zijn dan vijf noten.**
+- **_Slider velocity_ veranderingen moeten voorzichtig gebruikt worden.** Veranderingen mogen enkel gebruikt worden voor secties met verschillende snelheden en de _slider velocity_ mag niet drastisch veranderen.
+
+#### Richtlijnen voor moeilijkheidsgraadinstelling
+
+- De algemene moeilijkheidsgraad (_overall difficulty_) moet 5 of minder zijn.
+- De HP-drainsnelheid (_HP drain rate_) moet 5 of meer zijn. Bij hogere nootaantallen kan de _HP Drain Rate_ aangepast worden tot iets lager dan 5.
+
+### ![](/wiki/shared/diff/hard-t.png) Muzukashii
+
+#### Regels
+
+- **Finishernoten mogen niet gebruikt worden in 1/4-patronen of snellere patronen in deze moeilijkheidsgraad.** Het finishergebruik bij deze patronen is te ingewikkeld voor de spelers op dit niveau.
+- **Patronen op snaps die sneller dan 1/6 zijn, zijn niet toegestaan.** Deze patronen zijn te complex voor de doelgroep van deze moeilijkheidsgraad.
+
+#### Richtlijnen
+
+- **1/6 patronen mogen niet langer zijn dan vier noten op matige tot lage BPM (~140).** Alle patronen die langer zijn, zijn zeer situationeel en normaal gezien te complex. Patronen zoals deze moeten gevolgd worden door een rustmoment en vermeden worden bij snellere BPMs.
+- **1/4 patronen mogen niet langer zijn dan vijf noten.** Alles patronen die langer zijn, zijn waarschijnlijk te belastend voor tussenliggende spelers.
+- **De hoofdsnapping moet vooral bestaan uit 1/2, 1/1 of tragere ritmes.** Af en toe is het gebruik van 1/4-ritmes acceptabel.
+- **Er moet minstens 1/2 afstand zijn tussen een spinner en zijn vorige noot.** Dit is om ervoor te zorgen dat ze elkaar niet overlappen en om de leesbaarheid te verzekeren.
+- **Minstens 1 rustmoment dat 3/2 of langer is, moet na 16/1 tot 20/1 van het continu mappen worden ingevoegd.** Het gebruik van minder frequente rustmomenten is aanvaardbaar als het tempo van de muziek de rustmomenten contra-intuïtief maakt of als het continu gemapte deel in het algemeen vergevingsgezinder is voor de speler.
+- **Het manipuleren van de _slider velocity_ is toegestaan**, maar de _slider velocity_ mag alleen worden gewijzigd voor delen van de muziek met verschillende tempo's en mag niet drastisch worden gewijzigd.
+- **1/4 patronen met één of meer kleurveranderingen moeten spaarzaam worden gebruikt.** Ze moeten vermeden worden in combinatie met andere patronen van deze soort, omdat de doelgroep van deze moeilijkheidsgraad niet gewend is aan patronen van deze complexiteit.
+- **1/4 patronen die langer zijn dan drie noten moeten bestaan uit maximaal één kleurverandering die aan het begin of het einde van het patroon moet plaatsvinden.** Patronen die complexer zijn dan dat zouden te veeleisend zijn voor spelers van de Muzukashii moeilijkheidsgraad. Deze patronen moeten worden gevolgd door een rustmoment.
+
+#### Richtlijnen voor moeilijkheidsgraadinstelling
+
+- De algemene moeilijkheidsgraad (_overall difficulty_) moet 5 of minder zijn.
+- De HP-drainsnelheid (_HP drain rate_) moet 5 of meer zijn. Bij hogere nootaantallen kan de _HP Drain Rate_ aangepast worden tot iets lager dan 5.
+
+### ![](/wiki/shared/diff/insane-t.png) Oni
+
+#### Regels
+
+- **Finishernoten mogen niet gebruikt worden in 1/6-patronen of snellere patronen in deze moeilijkheidsgraad.** Het finishergebruik bij deze patronen is te ingewikkeld voor de spelers op dit niveau.
+- **Finishernoten bij 1/4-patronen mogen alleen worden gebruikt aan het einde van dat patroon in deze moeilijkheidsgraad.** Andere plaatsingen dan deze kunnen de leesbaarheid voor het publiek op dit niveau te moeilijk maken.
+- **Patronen op snaps sneller dan 1/8 zijn niet toegestaan.** Deze patronen zijn te complex voor de doelgroep van deze moeilijkheidsgraad.
+
+#### Richtlijnen
+
+- **1/8-patronen mogen niet langer zijn dan twee noten.** Alles patronen die langer zijn, zijn zeer situationeel en normaal gezien te complex. Patronen zoals deze moeten worden gevolgd door een rustmoment.
+- **1/4-patronen mogen niet langer zijn dan negen noten.** Alles patronen die langer zijn, zijn waarschijnlijk te belastend voor de doelgroep van deze moeilijkheidsgraad.
+- **De hoofdsnapping moet vooral bestaan uit 1/2 en af en toe 1/1 ritmes.** 1/4 ritmes kunnen vaker gebruikt worden bij deze moeilijkheidsgraad.
+- **Er moet minstens 1/4 afstand zijn tussen een spinner en zijn vorige noot.** Dit is om ervoor te zorgen dat ze elkaar niet overlappen en om de leesbaarheid te garanderen.
+- **Minstens 1 rustmoment dat 1/1 of langer is moet na 16/1 tot 20/1 continu mappen worden ingebracht.** Minder frequente rustmomenten of kortere rustmomenten kunnen een te grote belasting vormen voor beginners.
+- **Bij 1/4 patronen die langer zijn dan vijf noten moeten gecompliceerde kleurveranderingen vermeden worden.** Langere patronen met een dergelijke complexiteit zouden te moeilijk zijn voor het doelpubliek van deze moeilijkheidsgraad.
+
+#### Richtlijnen voor moeilijkheidsgraadinstelling
+
+- De algemene moeilijkheidsgraad (_overall difficulty_) moet 5 of meer zijn.
+- De HP-drainsnelheid (_HP drain rate_) moet 5 of meer zijn. Bij hogere nootaantallen kan de _HP Drain Rate_ aangepast worden tot iets lager dan 5.
+
+### ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
+
+#### Richtlijnen
+
+- **De hoofdsnapping moet vooral bestaan uit 1/2 en 1/4-ritmes.** 1/4-ritmes mogen in deze moeilijkheidsgraad heel vaak worden gebruikt.
+- **Er moet minstens 1/4 afstand zijn tussen een spinner en zijn vorige noot.** Dit is om ervoor te zorgen dat ze elkaar niet overlappen en om de leesbaarheid te garanderen.
+
+#### Richtlijnen voor moeilijkheidsgraadinstelling
+
+- De algemene moeilijkheidsgraad (_overall difficulty_) moet meer dan 5 zijn.
+- De HP-drainsnelheid (_HP drain rate_) moet 5 of meer zijn. Bij hogere nootaantallen kan de _HP Drain Rate_ aangepast worden tot iets lager dan 5.
