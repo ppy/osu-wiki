@@ -56,7 +56,7 @@ Akses layar ini dengan mengklik panel pengguna kamu di bagian pojok kiri atas la
 
 Catatan: Kamu dapat mengidentifikasi pilihan lagu untuk mode tertentu dengan memeriksa simbol yang terdapat pada pilihan lagu.
 
-![](/wiki/shared/mode/osu.png) adalah [osu!](/wiki/Game_Modes/osu!), ![](/wiki/shared/mode/taiko.png) adalah [osu!taiko](/wiki/Game_Modes/osu!taiko), ![](/wiki/shared/mode/catch.png) adalah [Catch the Beat](/wiki/Game_Modes/osu!catch) dan ![](/wiki/shared/mode/mania.png) adalah [osu!mania](/wiki/Game_Modes/osu!mania).
+![](/wiki/shared/mode/osu.png) adalah [osu!](/wiki/Game_Modes/osu!), ![](/wiki/shared/mode/taiko.png) adalah [osu!taiko](/wiki/Game_Modes/osu!taiko), ![](/wiki/shared/mode/catch.png) adalah [osu!catch](/wiki/Game_Modes/osu!catch) dan ![](/wiki/shared/mode/mania.png) adalah [osu!mania](/wiki/Game_Modes/osu!mania).
 
 Karena layar ini memiliki terlalu banyak elemen untuk diperhatikan oleh nomor yang mudah terlihat, bagian ini akan fokus pada satu bagian layar dan di saat bersamaan, mulai dari atas (kiri ke kanan) dan terus ke bawah.
 
@@ -184,7 +184,7 @@ Bagian ini bisa disebut kotak alat permainan. Kami akan mencakup tombol setiap p
 
 Menekan ESC atau klik tombol Back untuk kembali ke Menu Utama
 
-Klik pada tombol "Mode" untuk **membuka daftar mode gameplay yang tersedia di osu!**. Klik pada mode permainan yang kamu inginkan, dan osu! akan mengalihkannya ke gaya mode permainan bersamaan dengan perubahan papan skor. Atau, Kamu dapat menekan CTRL dan 1 (![](/wiki/shared/mode/osu.png)[osu! Standar](/wiki/Game_Modes/osu!)) / 2 (![](/wiki/shared/mode/taiko.png)[osu!taiko](/wiki/Game_Modes/osu!taiko)) / 3 (![](/wiki/shared/mode/catch.png)[Catch the Beat](/wiki/Game_Modes/osu!catch)) / 4 (![](/wiki/shared/mode/mania.png)[osu!mania](/wiki/Game_Modes/osu!mania)) pada keyboardmu untuk beralih ke mode gameplay yang kamu inginkan dengan cepat.
+Klik pada tombol "Mode" untuk **membuka daftar mode gameplay yang tersedia di osu!**. Klik pada mode permainan yang kamu inginkan, dan osu! akan mengalihkannya ke gaya mode permainan bersamaan dengan perubahan papan skor. Atau, Kamu dapat menekan CTRL dan 1 (![](/wiki/shared/mode/osu.png)[osu!](/wiki/Game_Modes/osu!)) / 2 (![](/wiki/shared/mode/taiko.png)[osu!taiko](/wiki/Game_Modes/osu!taiko)) / 3 (![](/wiki/shared/mode/catch.png)[osu!catch](/wiki/Game_Modes/osu!catch)) / 4 (![](/wiki/shared/mode/mania.png)[osu!mania](/wiki/Game_Modes/osu!mania)) pada keyboardmu untuk beralih ke mode gameplay yang kamu inginkan dengan cepat.
 
 ![Pengubah Permainan](img/Soloplay8.png "Pengubah Permainan")
 
@@ -223,7 +223,7 @@ Ini adalah layar tingkat setelah Anda berhasil melewati Beatmap tersebut. Anda d
 
 Catatan: Motif utama transparan pada latar belakang berdasarkan mode yang kamu mainkan.
 
-![](/wiki/shared/mode/osu.png)"osu!" adalah [osu!](/wiki/Game_Modes/osu!), ![](/wiki/shared/mode/taiko.png)"Drum" adalah [osu!taiko](/wiki/Game_Modes/osu!taiko), ![](/wiki/shared/mode/catch.png)"Apple" adalah [Catch the Beat](/wiki/Game_Modes/osu!catch) dan ![](/wiki/shared/mode/mania.png)"Piano" adalah [osu!mania](/wiki/Game_Modes/osu!mania)
+![](/wiki/shared/mode/osu.png)"osu!" adalah [osu!](/wiki/Game_Modes/osu!), ![](/wiki/shared/mode/taiko.png)"Drum" adalah [osu!taiko](/wiki/Game_Modes/osu!taiko), ![](/wiki/shared/mode/catch.png)"Apple" adalah [osu!catch](/wiki/Game_Modes/osu!catch) dan ![](/wiki/shared/mode/mania.png)"Piano" adalah [osu!mania](/wiki/Game_Modes/osu!mania)
 
 ![Contoh dari skor daring osu!](img/Osu!_Online_score.jpg "Contoh dari skor daring osu!")
 

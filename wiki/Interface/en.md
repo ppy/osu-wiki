@@ -96,7 +96,7 @@ This area displays **information on the beatmap difficulty currently selected.**
 - **Sliders**: The total amount of sliders in the beatmap.
 - **Spinners**: The total amount of spinners in the beatmap.
 - **OD**: The Overall Difficulty of the beatmap.
-- **HP**: The drain rate of your HP. In osu!standard, this is how much of an HP loss you receive upon missing a note, how fast the life bar idly drains, and how much HP is received for hitting a note. In osu!mania, this is the same except there is no idle HP drain. In osu!taiko, this determines how slowly the HP bar fills and how much HP is lost when a note is missed. osu!catch is the same as osu!standard.
+- **HP**: The drain rate of your HP. In osu!, this is how much of an HP loss you receive upon missing a note, how fast the life bar idly drains, and how much HP is received for hitting a note. In osu!mania, this is the same except there is no idle HP drain. In osu!taiko, this determines how slowly the HP bar fills and how much HP is lost when a note is missed. osu!catch is the same as osu!.
 - **Stars**: The star difficulty of the beatmap. This is graphically visible in the beatmap rectangle itself.
 
 ### Group and Sort
@@ -231,7 +231,7 @@ This section can be called the gameplay toolbox. We will cover each button's use
 
 Press `Esc` or click the `Back` button to return to main menu.
 
-Click on the `Mode` button to open up a list of gameplay modes available on osu!. Click on your desired gameplay mode and osu! will switch to that gameplay mode style - the scoreboard will change accordingly. Alternatively, you can press `Ctrl` and `1` (osu!standard), `2` (osu!taiko), `3` (osu!catch), or `4` (osu!mania) to change the gamemode.
+Click on the `Mode` button to open up a list of gameplay modes available on osu!. Click on your desired gameplay mode and osu! will switch to that gameplay mode style - the scoreboard will change accordingly. Alternatively, you can press `Ctrl` and `1` (osu!), `2` (osu!taiko), `3` (osu!catch), or `4` (osu!mania) to change the gamemode.
 
 The background transparent icon and the "Mode" box will change to depict what mode is currently selected.
 
@@ -268,7 +268,7 @@ Click the **[osu!cookie](/wiki/Glossary#cookie)** to **start playing the selecte
 
 ### Grade Screen
 
-![Accuracy in osu!standard](img/Accuracy_osu!.jpg)
+![Accuracy in osu!](img/Accuracy_osu!.jpg)
 
 This is the grade screen shown after you have successfully passed the beatmap. You can access your online results by scrolling down or pressing the obvious button.
 
