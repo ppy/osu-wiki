@@ -72,25 +72,16 @@ La Catch French Intermediate Cup 2 est gérée par différents membres de la com
 | C | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) | ![][flag_FR] [TomyLeFaux](https://osu.ppy.sh/users/9504653) | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) | ![][flag_FR] [NinjaCoktail](https://osu.ppy.sh/users/11431902) |
 | D | ![][flag_FR] [dracoV](https://osu.ppy.sh/users/7925725) | ![][flag_FR] [NoLimitFS](https://osu.ppy.sh/users/10411609) | ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990) | ![][flag_FR] [Oasix](https://osu.ppy.sh/users/6183012) |
 
-## Planning des matches: Finals
+## Planning des matches: Grandes Finales
 
-Samedi, 14 Mars 2020:
-
-| ID du match | Joueur 1 |  |  | Joueur 2 | Horaire du match (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #1 | Fuka Pura | ![][flag_FR] | ![][flag_FR] | dracoV | **15:00** |
-| #2 | Dask | ![][flag_FR] | ![][flag_FR] | Kaleesy Pura | **17:00** |
-
-Dimanche, 15 Mars 2020:
+Samedi, 21 Mars 2020:
 
 | ID du match | Joueur 1 |  |  | Joueur 2 | Horaire du match (UTC) |
 | :-: | --: | :-: | :-: | :-- | :-: |
-| #3a¹ | Fuka Pura | ![][flag_FR] | ![][flag_FR] | Dask | **15:00** |
-| #3b¹ | Fuka Pura | ![][flag_FR] | ![][flag_FR] | Kaleesy Pura | **15:00** |
-| #3c¹ | dracoV | ![][flag_FR] | ![][flag_FR] | Dask | **15:00** |
-| #3d¹ | dracoV | ![][flag_FR] | ![][flag_FR] | Kaleesy Pura | **15:00** |
+| #1¹ | Fuka Pura | ![][flag_FR] | ![][flag_FR] | Kaleesy Pura | **15:00** |
+| #2¹ | Kaleesy Pura| ![][flag_FR] | ![][flag_FR] | Fuka Pura |  |
 
-¹ Confrontation dépendant du gagnant du Match #2 et perdant du Match #1
+¹ Le match commencera juste après le Match #1 et si le joueur B gagne le Match #1
 
 ## Liste des maps
 
