@@ -294,6 +294,15 @@ The Beginner's Taiko Tournament 5 was run by various community members.
 
 ## Match results
 
+### Grand Finals
+
+Sunday, 15 March 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Maou ![][flag_DE] | 0 | **7** | ![][flag_DE] **Malox** | [#1](https://osu.ppy.sh/community/matches/59230042) |
+| **Malox** ![][flag_DE] | **7** | 2 | ![][flag_DE] Maou | [#1](https://osu.ppy.sh/community/matches/59232271) |
+
 ### Finals
 
 Saturday, 7 March 2020:
