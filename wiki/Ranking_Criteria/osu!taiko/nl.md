@@ -31,7 +31,7 @@ _Hoofdartikel: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)_
 - **Stream:** Opeenvolgende cirkels samen gegroepeerd. Meestal gesnapped op 1/4 beats.
 - **Snapping:** Tick van de tijdlijn waarop een object is geplaatst.
 - **Variabele snapping:** Een combinatie van meerdere manieren om noten te snappen binnen een korte tijdsspanne vanwege het fluctuerende karakter van het lied op dat moment.
-- **Slidertempo *(slider velocity)*:** De snelheid waarop de noten/drumrolls/spinners/maatstrepen zich horizontaal van links naar rechts door het speelveld bewegen. Het basis slidertempo kan worden geregeld in het timing paneel en extra wijzigingen kunnen worden gemaakt door middel van _inherited_ (groene) tijdspunten.
+- **Slidertempo *(slider velocity)*:** De snelheid waarop de noten/drumrolls/spinners/maatstrepen zich horizontaal van links naar rechts door het speelveld bewegen. Het basis slidertempo kan worden geregeld in het timing paneel en extra wijzigingen kunnen worden gemaakt door middel van *inherited* (groene) tijdspunten.
 - **Geleidelijke *slider velocity* veranderingen:** Een techniek die een geleidelijke overgang van lagere naar hogere / van hogere naar lagere *slider velocity* secties mogelijk maakt. Om dit effect te bereiken wordt gebruik gemaakt van overgangsnoten met variërende *slider velocities*.
 - **Improvisatie:** Wanneer er meer noten in een beatmap zijn dan in de eigenlijke muziek.
 - **Taiko sjabloonachtergrond *(Taiko template background)*:** Achtergrondafbeeldingen die de authentieke Taiko no Tatsujin gameplay simuleren. Ze bevatten doorgaans een zwarte balk die de artiest en de titel van het liedje in het wit onder het speelveld toont.
@@ -117,7 +117,7 @@ Als een Futsuu moeilijkheidsgraad vereist is en gebruikt wordt als de *laagste m
 Als een Futsuu moeilijkheidsgraad vereist is en gebruikt wordt als de *laagste moeilijkheidsgraad* van een beatmapset, moet deze zich ook aan volgende richtlijnen houden:
 
 - **1/2-patronen mogen niet langer zijn dan vijf noten.**
-- **_Slider velocity_ veranderingen moeten voorzichtig gebruikt worden.** Veranderingen mogen enkel gebruikt worden voor secties met verschillende snelheden en de _slider velocity_ mag niet drastisch veranderen.
+- ***Slider velocity* veranderingen moeten voorzichtig gebruikt worden.** Veranderingen mogen enkel gebruikt worden voor secties met verschillende snelheden en de *slider velocity* mag niet drastisch veranderen.
 
 #### Richtlijnen voor moeilijkheidsgraadinstelling
 
