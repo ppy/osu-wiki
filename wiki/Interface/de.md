@@ -10,7 +10,7 @@ outdated: true
 
 ![Hauptmenü](img/Introscreen.jpg "Hauptmenü")
 
-Das \[1\] osu! Logo pulsiert nach dem [BPM](/wiki/Beatmap_Editor/Timing) des Liedes, das gerade im Hauptmenü spielt. Wenn kein Lied abgespielt wird, pulsiert es in einer langsamen Rate. Die Tastenkombination steht in der Klammer
+Das \[1\] osu! Logo pulsiert nach dem [BPM](/wiki/Beatmapping/Beats_per_minute) des Liedes, das gerade im Hauptmenü spielt. Wenn kein Lied abgespielt wird, pulsiert es in einer langsamen Rate. Die Tastenkombination steht in der Klammer
 
 -   \[2\] Klicke auf Play (P) oder auf dem Logo, um zum 2. Einführungsbildschirm zu gelangen.
 -   \[3\] Klicke auf Edit (E), um zur Songauswahl für den [Editor](/wiki/Beatmap_Editor) zu kommen.

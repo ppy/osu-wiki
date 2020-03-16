@@ -10,7 +10,7 @@ outdated: true
 
 ![Menu principal d'osu!](img/Introscreen.jpg "Menu principal d'osu!")
 
-Sur l'écran d'introduction s'affiche le logo d'osu! au centre de l'écran. Il bat suivant le [BPM](/wiki/Beatmap_Editor/Timing) d'une musique en cours de lecture. Si aucun morceau n'est joué, celui-ci bat à un rythme lent par défaut. Le raccourci clavier est entre parenthèses.
+Sur l'écran d'introduction s'affiche le logo d'osu! au centre de l'écran. Il bat suivant le [BPM](/wiki/Beatmapping/Beats_per_minute) d'une musique en cours de lecture. Si aucun morceau n'est joué, celui-ci bat à un rythme lent par défaut. Le raccourci clavier est entre parenthèses.
 
 -   \[2\] Appuyez sur Play (P) ou cliquez sur le logo pour accéder au menu principal.
 -   \[3\] Pressez E ou cliquez sur "Edit" pour ouvrir le menu de sélection des musiques dans l'[éditeur](/wiki/Beatmap_Editor).

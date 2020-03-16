@@ -10,7 +10,7 @@ outdated: true
 
 ![Menu utama](img/Introscreen.jpg "Menu utama")
 
--   \[1\] osu! logo berdetak sesuai dengan [BPM (Ketukan per Menit)](/wiki/Beatmap_Editor/Timing) dari setiap lagu yang sedang diputar di layar awal. Jika tidak ada lagu yang sedang dimainkan, logo akan berdetak pada tingkat yang biasanya. Pintasan papan ketik terdapat dalam tanda kurung.
+-   \[1\] osu! logo berdetak sesuai dengan [BPM (Ketukan per Menit)](/wiki/Beatmapping/Beats_per_minute) dari setiap lagu yang sedang diputar di layar awal. Jika tidak ada lagu yang sedang dimainkan, logo akan berdetak pada tingkat yang biasanya. Pintasan papan ketik terdapat dalam tanda kurung.
 -   \[2\] Klik Play (P) atau logo untuk beralih ke layar awal kedua.
 -   \[3\] Klik Edit (E) untuk membuka layar pilihan lagu untuk [Penyunting](/wiki/Beatmap_Editor).
 -   \[4\] Klik Options (O) dan jendela [opsi](/wiki/Options) akan terbuka.
@@ -184,13 +184,13 @@ Bagian ini bisa disebut kotak alat permainan. Kami akan mencakup tombol setiap p
 
 Menekan ESC atau klik tombol Back untuk kembali ke Menu Utama
 
-Klik pada tombol "Mode" untuk **membuka daftar mode gameplay yang tersedia di osu!**. Klik pada mode permainan yang kamu inginkan, dan osu! akan mengalihkannya ke gaya mode permainan bersamaan dengan perubahan papan skor. Atau, Kamu dapat menekan CTRL dan 1 (![](/wiki/shared/mode/osu.png)[osu! Standar](/wiki/Game_Modes/osu!)) / 2 (![](/wiki/shared/mode/taiko.png)[osu!taiko](/wiki/Game_Modes/osu!taiko)) / 3 (![](/wiki/shared/mode/catch.png)[Catch the Beat](/wiki/Game_Modes/osu!catch)) / 4 (![](/wiki/shared/mode/mania.png)[osu!mania](osu!/wiki/Game_Modes/osu!mania)) pada keyboardmu untuk beralih ke mode gameplay yang kamu inginkan dengan cepat.
+Klik pada tombol "Mode" untuk **membuka daftar mode gameplay yang tersedia di osu!**. Klik pada mode permainan yang kamu inginkan, dan osu! akan mengalihkannya ke gaya mode permainan bersamaan dengan perubahan papan skor. Atau, Kamu dapat menekan CTRL dan 1 (![](/wiki/shared/mode/osu.png)[osu! Standar](/wiki/Game_Modes/osu!)) / 2 (![](/wiki/shared/mode/taiko.png)[osu!taiko](/wiki/Game_Modes/osu!taiko)) / 3 (![](/wiki/shared/mode/catch.png)[Catch the Beat](/wiki/Game_Modes/osu!catch)) / 4 (![](/wiki/shared/mode/mania.png)[osu!mania](/wiki/Game_Modes/osu!mania)) pada keyboardmu untuk beralih ke mode gameplay yang kamu inginkan dengan cepat.
 
 ![Pengubah Permainan](img/Soloplay8.png "Pengubah Permainan")
 
 Klik tombol "Mods" tombol atau tekan F1 untuk membuka **[Layar Pemilihan Mod](/wiki/Game_Modifiers)**.
 
-Pada layar ini, Anda dapat menerapkan modifikasi (lebih singkatnya disebut "mods") untuk permainan. Beberapa mods menurunkan kesulitan dan menerapkan pengubah yang menurunkan skor yang kamu capai. Sebaliknya, beberapa mods meningkatkan kesulitan, tapi menerapkan pengubah yang meningkatkan skor yang kamu capai. Akhirnya, beberapa mods memodifikasi gameplay dengan cara yang berbeda. [Relax](/wiki/Game_Modifiers) dan [Auto Pilot](/wiki/Game_Modifiers) termasuk dalam kategori tersebut. Tempatkan mouse pada ikon mod untuk melihat deskripsi singkat efeknya. Klik pada ikon untuk memilih atau tidak memilih mod itu. Nilai pengali skor menampilkan efek gabungan pengganda dari mod (s) yang telah kamu pilih yang kamu akan miliki pada skormu. Klik "Reset all mods (Atur ulang semua mods)" atau tekan 1 untuk membatalkan pilihan semua mods yang sedang dipilih. Klik "Close" atau tekan 2 atau Esc untuk kembali ke Layar Pemilihan Lagu.
+Pada layar ini, Anda dapat menerapkan modifikasi (lebih singkatnya disebut "mods") untuk permainan. Beberapa mods menurunkan kesulitan dan menerapkan pengubah yang menurunkan skor yang kamu capai. Sebaliknya, beberapa mods meningkatkan kesulitan, tapi menerapkan pengubah yang meningkatkan skor yang kamu capai. Akhirnya, beberapa mods memodifikasi gameplay dengan cara yang berbeda. [Relax](/wiki/Game_Modifiers#relax) dan [Auto Pilot](/wiki/Game_Modifiers#auto-pilot) termasuk dalam kategori tersebut. Tempatkan mouse pada ikon mod untuk melihat deskripsi singkat efeknya. Klik pada ikon untuk memilih atau tidak memilih mod itu. Nilai pengali skor menampilkan efek gabungan pengganda dari mod (s) yang telah kamu pilih yang kamu akan miliki pada skormu. Klik "Reset all mods (Atur ulang semua mods)" atau tekan 1 untuk membatalkan pilihan semua mods yang sedang dipilih. Klik "Close" atau tekan 2 atau Esc untuk kembali ke Layar Pemilihan Lagu.
 
 Sementara Anda berada di Layar Seleksi Mod, Anda tidak dapat mengakses obrolan dan konsol obrolan yang diperluas. Khususnya, tergantung pada skin yang kamu gunakan, teks dan ikon dapat diubah tetapi efek mod akan tetap bekerja seperti biasa.
 
