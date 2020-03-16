@@ -31,7 +31,7 @@ Deze regels zijn de basis waarmee we ervoor zorgen dat de osu! community een leu
 4.  **Houd threads relevant, en vermijd het weer oprakelen van oudere onderwerpen als het gesprek is afgestorven.** Als een onderwerp al jaren dood is, is het niet meer relevant; dus laat het vervagen. Post een nieuwe, of zoek en kijk of iemand anders je vraag al heeft beantwoord.
 5.  **Houd je handtekening en avatar redelijk.** Als ze geanimeerd zijn, mogen ze niet excessief knipperen. Ze moeten ook een bestandsgrootte hebben klein genoeg voor gebruikers met een tragere verbinding om hun aanwezigheid op de pagina niet op te merken, het liefst onder een halve megabyte (500 kilobytes) waar mogelijk.
 6.  **Post geen advertenties, doorverwijzende links of ander irritante inhoud.** Dingen als doorverwijzende links zijn leuk voor de persoon die ze post en een irritatie voor alle anderen, dus doe het niet. Inhoud/embeds die automatisch laadt of afspeelt vallen hier ook onder.
-7.  **Linken naar applicaties of andere dingen met onduidelijke afkomst is niet toegestaan.** Om het simpel te zeggen, als er aan de legaliteit van genoemd onderwerp wordt getwijfeld, zijn ze niet welkom.
+7.  **Linken naar applicaties of andere zaken met onduidelijke afkomst is niet toegestaan.** Om het simpel te zeggen, als er aan de legaliteit van genoemd onderwerp wordt getwijfeld, zijn ze niet welkom.
 
 ## Beatmap inzend regels
 
