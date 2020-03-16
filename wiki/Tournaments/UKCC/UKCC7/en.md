@@ -7,13 +7,27 @@ tags:
 
 ![UKCC 7 logo](img/banner.png)
 
-The seventh edition of the bi-annual UK Community Cup, a tournament for those who live or are from the UK or Ireland. This edition was a 1v1 and finished on the 27th October 2019.
-
 ## Introduction
 
 ![Introduction](img/intro.png)
 
-- This is a **1v1, UK and Ireland based tournament**
+The **UK Community Cup 7** (***UKCC 7***) was the seventh edition of the bi-annual UK Community Cup, a tournament series for those who live in or are from the ![][flag_GB] UK or ![][flag_IE] Ireland. This edition was a 1v1 and finished on the 27th of October, 2019.
+
+## Links
+
+![Links](img/links.png)
+
+- [Discussion Thread](https://osu.ppy.sh/community/forums/topics/940042)
+- [UKCC Discord server](https://discord.gg/EtsU7Cw)
+- [Livestream](https://twitch.tv/osuukcc)
+- [Challonge bracket](https://challonge.com/ukcc7)
+- [Pick'em predictions website](https://pickem.hwchr.com/tournaments/15)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1ubY1Oci0HaH-rny6IKbqlRszPzquwSm9n4fwwnqn5yA/edit?usp=sharing)**
+
+## Rules
+
+![Rules](img/rules.png)
+
 - In the event there is 128 signups, those with the lowest global rank will be unable to participate (unless we expand the tournament)
 - The structure of the tournament will be:
   - Two qualifications rounds - 32 players progress
@@ -36,21 +50,6 @@ The seventh edition of the bi-annual UK Community Cup, a tournament for those wh
 - If it is impossible to find a time to reschedule to that suits both players, both players should talk to the Hosts (Bae- or Yazzehh) and we will attempt to sort something out.
 - Matches that are uncertain to happen (for example, losers’ bracket matches) will still appear on the schedule. They are to be rescheduled if needed in the same way as confirmed matches.
 - If a match needs rescheduling to a time after a related losers’ bracket match, the matches relying on the outcome of the rescheduled match will be rescheduled by staff and 24 hours will be given for rescheduling them, if needed.
-
-## Links
-
-![Links](img/links.png)
-
-- [Discussion Thread](https://osu.ppy.sh/community/forums/topics/940042)
-- [UKCC Discord server](https://discord.gg/EtsU7Cw)
-- [Livestream](https://twitch.tv/osuukcc)
-- [Challonge bracket](https://challonge.com/ukcc7)
-- [Pick'em predictions website](https://pickem.hwchr.com/tournaments/15)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1ubY1Oci0HaH-rny6IKbqlRszPzquwSm9n4fwwnqn5yA/edit?usp=sharing)**
-
-## Rules
-
-![Rules](img/rules.png)
 
 - Referees will create the lobby approximately **10 minutes** before the match is due to start.
 - Players have a 10 minute grace period after their scheduled match time to join the lobby. If a player fails to join the lobby in this time, then the default win will go to the other player. If both players do not show up, both players will recieve losses.
