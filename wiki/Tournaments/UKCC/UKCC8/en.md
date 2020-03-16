@@ -11,8 +11,6 @@ The 8th edition of the bi-annual UK Community Cup, a tournament for those who li
 
 Current Stage: **Screening**
 
----
-
 ## Introduction
 
 ![Introduction](img/intro.png)
@@ -187,8 +185,6 @@ Teams are ordered in
 | xx_GURLgamers_xx69 | ![][flag_IE] [ez sucks](https://osu.ppy.sh/users/13681283), ![][flag_GB] [josph12](https://osu.ppy.sh/users/8584840) |
 | something witty | ![][flag_GB] [crampedgeorge](https://osu.ppy.sh/users/15077108), ![][flag_GB] [RevRoadster](https://osu.ppy.sh/users/5139514) |
 
----
-
 ## Map pools
 
 ![Map pools](img/mappool.png)
@@ -200,8 +196,6 @@ There are currently no map pools for UKCC 8
 ![Schedules](img/schedule_no_number.png)
 
 Currently no matches have been played / scheduled for UKCC 8
-
----
 
 Please enjoy game 🙏
 
