@@ -1,6 +1,6 @@
 ---
 tags:
-  - UKCC 8
+  - UKCC
 ---
 
 # UK Community Cup 8
