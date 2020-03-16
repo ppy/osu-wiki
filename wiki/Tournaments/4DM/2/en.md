@@ -137,6 +137,27 @@ Sunday, 15 March 2020:
 
 ## Mappools
 
+### Finals Week 1
+
+**[Download the map pack here! (116 MB)](https://www.dropbox.com/s/qngtsvfx96rpv4q/Finals%20Week%201.zip?dl=0)**
+
+- FreeMod
+  - [Le Dos-on - A (Elekton) \[ex\]](https://osu.ppy.sh/beatmapsets/585451#mania/1240177)
+  - [3L - Endless Night (Gekido-) \[Eternal\]](https://osu.ppy.sh/beatmapsets/956232#mania/2001931)
+  - [Tenacious D - Master Exploder (Valedict) \[BLOW YA MIND\]](https://osu.ppy.sh/beatmapsets/980802#mania/2052615)
+  - [Team Grimoire - TiamaT:F minor (zero2snow) \[Beginner(220.4bpm edit)\]](https://osu.ppy.sh/beatmapsets/1125267#mania/2351117)
+  - [Terminal 11 - Counter Clockwise Chant Pattern (Phil) \[Xaywise\]](https://osu.ppy.sh/beatmapsets/659039#mania/1395854)
+  - [Primary - in the Garden (Tamaki Iroha) \[Garden \[1.15x Rate\] (edit)\]](https://osu.ppy.sh/beatmapsets/1077579#mania/2349764)
+  - [Camellia - epimerization (Chrubble) \[catalyst\]](https://osu.ppy.sh/beatmapsets/907828#mania/1894490)
+  - [Camellia feat. Nanahira - Ska-sh All Neurons!! (HowToPlayLN) \[Re-forward !!\]](https://osu.ppy.sh/beatmapsets/1122764#mania/2349915)
+  - [P\*Light feat. mow\*2 - OVERDRIVERS (inteliser) \[OVERFLOW \[LN\]\]](https://osu.ppy.sh/beatmapsets/578558#mania/1224999)
+  - [Hino Isuka - #be\_fortunate (HowToPlayLN) \[#be\_edited\]](https://osu.ppy.sh/beatmapsets/1099229#mania/2349916)
+  - [Umeri - paranoia (Raveille) \[who are you\]](https://osu.ppy.sh/beatmapsets/997300#mania/2086120)
+  - [Snails & Pegboard Nerds - Deep in the Night (Barely Alive Remix) (-\[DaNieL\_TH\]-) \[KILLA IN THE NIGHT\]](https://osu.ppy.sh/beatmapsets/1098856#mania/2295767)
+  - [Akira Complex - BLACK JACKAL (MAD HOLIC) \[Stage 1 : Equality\]](https://osu.ppy.sh/beatmapsets/1109412#mania/2318366)
+- Tiebreaker
+  - **[Camellia - Luin Of Celtchar (\[GS\]Logan) \[Penguinosity's Rupture (edit)\]](https://osu.ppy.sh/beatmapsets/1125395#mania/2351425)**
+
 ### Semifinals
 
 **[Download the map pack here! (79 MB)](https://www.dropbox.com/s/bxytgvryoqsuud6/SF.zip?dl=0)**
