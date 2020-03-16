@@ -92,16 +92,16 @@ The **UK Community Cup 7** (***UKCC 7***) was the seventh edition of the bi-annu
 
 | Event | Timestamp |
 | --: | :-- |
-| Signups Open | 2019-07-27 |
-| Signups Closed | 2019-08-26 |
-| Qualifying Round 1 | 2019-09-07/2019-09-08 |
-| Qualifying Round 2 | 2019-09-14/2019-09-15 |
+| Signups open | 2019-07-27 |
+| Signups close | 2019-08-26 |
+| Qualifying round 1 | 2019-09-07/2019-09-08 |
+| Qualifying round 2 | 2019-09-14/2019-09-15 |
 | Round of 32 | 2019-09-21/2019-09-22 |
-| Round of 16 + Losers Round 1 | 2019-09-28/2019-09-29 |
-| Quarter Finals + Losers Round 2/3 | 2019-10-5/2019-10-6 |
-| Semi Finals + Losers Round 4/5 | 2019-10-12/2019-10-13 |
-| Winners Finals + Losers 6/Semi Final | 2019-10-19/2019-10-20 |
-| Losers Final + Grand Finals | 2019-10-26/2019-10-27 |
+| Round of 16 + losers round 1 | 2019-09-28/2019-09-29 |
+| Quarter finals + losers round 2/3 | 2019-10-5/2019-10-6 |
+| Semi finals + losers round 4/5 | 2019-10-12/2019-10-13 |
+| Winners finals + losers 6/semi final | 2019-10-19/2019-10-20 |
+| Losers final + grand finals | 2019-10-26/2019-10-27 |
 
 ## Prizes
 

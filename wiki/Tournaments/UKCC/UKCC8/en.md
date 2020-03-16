@@ -94,15 +94,15 @@ Current Stage: **Screening**
 
 | Event | Timestamp |
 | --: | :-- |
-| Signups Open | 2020-02-20 |
-| Signups Closed | 2020-03-15 |
-| Group Stage | 2020-03-28/2020-03-29 |
+| Signups open | 2020-02-20 |
+| Signups close | 2020-03-15 |
+| Group stage | 2020-03-28/2020-03-29 |
 | Round of 32 | 2020-04-04/2020-04-05 |
-| Round of 16 + Losers Round 1 | 2020-04-11/2020-04-12 |
-| Quarter Finals + Losers Round 2/3 | 2020-04-18/2020-04-19 |
-| Semi Finals + Losers Round 4/5 | 2020-04-25/2020-04-26 |
-| Winners Finals + Losers 6/Semi Final | 2020-05-02/2020-05-03 |
-| Losers Final + Grand Finals | 2020-05-09/2020-05-10 |
+| Round of 16 + losers round 1 | 2020-04-11/2020-04-12 |
+| Quarter finals + losers round 2/3 | 2020-04-18/2020-04-19 |
+| Semi finals + losers round 4/5 | 2020-04-25/2020-04-26 |
+| Winners finals + losers 6/semi final | 2020-05-02/2020-05-03 |
+| Losers final + grand finals | 2020-05-09/2020-05-10 |
 
 ## Prizes
 
