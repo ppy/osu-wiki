@@ -81,7 +81,7 @@ Saturday, 21 March 2020:
 | #1¹ | Fuka Pura | ![][flag_FR] | ![][flag_FR] | Kaleesy Pura | **15:00** |
 | #2¹ | Kaleesy Pura| ![][flag_FR] | ![][flag_FR] | Fuka Pura |  |
 
-¹ Match will take place right after Match #1 and if Player B wins Match #1
+¹ Match will take place right after Match #1 and if Player 2 wins Match #1
 
 ## Mappools
 

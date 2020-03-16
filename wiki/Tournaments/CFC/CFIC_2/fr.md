@@ -81,7 +81,7 @@ Samedi, 21 Mars 2020:
 | #1¹ | Fuka Pura | ![][flag_FR] | ![][flag_FR] | Kaleesy Pura | **15:00** |
 | #2¹ | Kaleesy Pura| ![][flag_FR] | ![][flag_FR] | Fuka Pura |  |
 
-¹ Le match commencera juste après le Match #1 et si le joueur B gagne le Match #1
+¹ Le match commencera juste après le Match #1 et si le joueur 2 gagne le Match #1
 
 ## Liste des maps
 
