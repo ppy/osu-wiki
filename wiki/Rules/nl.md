@@ -4,7 +4,7 @@ Deze regels zijn de basis waarmee we ervoor zorgen dat de osu! community een leu
 
 ## Community regels
 
-1.  **Elke speler mag maar *ÉÉN* account hebben.** Het _eerste_ account dat je maakt tijdens het registreren is jouw _enige_ osu! account, vanaf het moment dat je het account aanmaakt en voor altijd. Dit is JOUW aacount. Het is van niemand anders - niet jouw broer, jouw moeder, jouw zus, jouw vriend - het is van JOU. Deel jouw account met niemand anders. Je mag geen nieuw account aanmaken als je de toegang tot jouw account verliest. Hou het dus veilig.
+1.  **Elke speler mag maar *ÉÉN* account hebben.** Het *eerste* account dat je maakt tijdens het registreren is jouw *enige* osu! account, vanaf het moment dat je het account aanmaakt en voor altijd. Dit is JOUW aacount. Het is van niemand anders - niet jouw broer, jouw moeder, jouw zus, jouw vriend - het is van JOU. Deel jouw account met niemand anders. Je mag geen nieuw account aanmaken als je de toegang tot jouw account verliest. Hou het dus veilig.
 2.  **Speel eerlijk.** Het gebruik van hulp van een derde partij om enig voordeel ten opzichte van anderen te krijgen is niet oké. Hierbij horen ook dingen als macro programma's, programma's om te helpen mikken, tijdschaal modificaties, enzovoort. Als een programma iets doet om jou te helpen met het spelen van het spel dat je zelf zou moeten spelen, is het niet oké!
 3.  **Wees aardig tegen elkaar.** Lastig vallen of ander antagonisme heeft geen plek binnen de osu! community. We zijn hier om cirkels te klikken, drums te slaan, fruit te vangen en tot achttien toetsen tegelijk in te drukken, niet om klootzakken tegen elkaar te zijn.
 4.  **Wees geen eikel.** Als je je ooit afvraagt of je deze regel aan het verbreken bent, dan ben je dat waarschijnlijk aan het doen.
@@ -35,7 +35,7 @@ Deze regels zijn de basis waarmee we ervoor zorgen dat de osu! community een leu
 
 ## Beatmap inzend regels
 
-_Opmerking: Deze regels zijn van toepassing op **alle ingezonden maps**, niet alleen ranked maps. Voor meer gedetailleerde regels bij het maken van een beatmap, bekijk de [Rang Criteria](/wiki/Ranking_Criteria)._
+*Opmerking: Deze regels zijn van toepassing op **alle ingezonden maps**, niet alleen ranked maps. Voor meer gedetailleerde regels bij het maken van een beatmap, bekijk de [Rang Criteria](/wiki/Ranking_Criteria).*
 
 Deze regels zijn strikt van toepassing op beatmaps ingezonden via het in-game [Beatmap Inzend Systeem](/wiki/Glossary#bss). Deze threads/discussies worden gemaakt via het osu! programma wanneer een beatmap wordt ingezonden via de [editor](/wiki/editor).
 
