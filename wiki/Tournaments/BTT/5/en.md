@@ -8,7 +8,7 @@ tags:
 
 ![BTT5 logo](img/logo.jpg)
 
-The **Beginner's Taiko Tournament 5** (***BTT5***) is a worldwide double-elimination 1v1 osu!taiko tournament hosted by ![][flag_FR] [Ladybug](https://osu.ppy.sh/users/4833654) and ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098). This is the fifth installment of the Beginner's Taiko Tournament.
+The **Beginner's Taiko Tournament 5** (***BTT5***) was a worldwide double-elimination 1v1 osu!taiko tournament hosted by ![][flag_FR] [Ladybug](https://osu.ppy.sh/users/4833654) and ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098). This was the fifth installment of the Beginner's Taiko Tournament.
 
 ## Tournament schedule
 
@@ -23,7 +23,7 @@ The **Beginner's Taiko Tournament 5** (***BTT5***) is a worldwide double-elimina
 | Quarterfinals | 2020-02-21/2020-02-23 |
 | Semifinals | 2020-02-29/2020-03-01 |
 | Finals | 2020-03-07/2020-03-08 |
-| Grand Finals | 2020-03-14/2020-03-15 |
+| Grand Finals | 2020-03-15 |
 
 ## Prizes
 
@@ -37,7 +37,7 @@ The **Beginner's Taiko Tournament 5** (***BTT5***) is a worldwide double-elimina
 
 ## Organisation
 
-The Beginner's Taiko Tournament 5 is run by various community members.
+The Beginner's Taiko Tournament 5 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
