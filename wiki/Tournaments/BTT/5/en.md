@@ -8,7 +8,7 @@ tags:
 
 ![BTT5 logo](img/logo.jpg)
 
-The **Beginner's Taiko Tournament 5** (***BTT5***) is a worldwide double-elimination 1v1 osu!taiko tournament hosted by ![][flag_FR] [Ladybug](https://osu.ppy.sh/users/4833654) and ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098). This is the fifth installment of the Beginner's Taiko Tournament.
+The **Beginner's Taiko Tournament 5** (***BTT5***) was a worldwide double-elimination 1v1 osu!taiko tournament hosted by ![][flag_FR] [Ladybug](https://osu.ppy.sh/users/4833654) and ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098). This was the fifth installment of the Beginner's Taiko Tournament.
 
 ## Tournament schedule
 
@@ -23,7 +23,7 @@ The **Beginner's Taiko Tournament 5** (***BTT5***) is a worldwide double-elimina
 | Quarterfinals | 2020-02-21/2020-02-23 |
 | Semifinals | 2020-02-29/2020-03-01 |
 | Finals | 2020-03-07/2020-03-08 |
-| Grand Finals | 2020-03-14/2020-03-15 |
+| Grand Finals | 2020-03-15 |
 
 ## Prizes
 
@@ -37,7 +37,7 @@ The **Beginner's Taiko Tournament 5** (***BTT5***) is a worldwide double-elimina
 
 ## Organisation
 
-The Beginner's Taiko Tournament 5 is run by various community members.
+The Beginner's Taiko Tournament 5 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -88,6 +88,16 @@ The Beginner's Taiko Tournament 5 is run by various community members.
 | **NotLikeThis** | ![][flag_CN] [zd101nb](https://osu.ppy.sh/users/6870897) | ![][flag_FI] [Pickxarro](https://osu.ppy.sh/users/3786620) | ![][flag_GB] [-jordan-](https://osu.ppy.sh/users/7288862) | ![][flag_PL] [Ullei](https://osu.ppy.sh/users/8124223) |
 | **OwO** | ![][flag_MY] [squidstain](https://osu.ppy.sh/users/11073207) | ![][flag_DE] [Kirross](https://osu.ppy.sh/users/10893243) | ![][flag_US] [quadrillionaire](https://osu.ppy.sh/users/15139170) | ![][flag_DE] [Fre3Styl3r](https://osu.ppy.sh/users/10177249) |
 | **PP** | ![][flag_DE] [Enohx](https://osu.ppy.sh/users/6375060) | ![][flag_BY] [DrDazzle](https://osu.ppy.sh/users/6216290) | ![][flag_FR] [Aidown](https://osu.ppy.sh/users/1522146) | ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507) |
+
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_DE] [Malox](https://osu.ppy.sh/users/4516252) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) |
 
 ## Mappools
 
@@ -294,6 +304,15 @@ The Beginner's Taiko Tournament 5 is run by various community members.
 
 ## Match results
 
+### Grand Finals
+
+Sunday, 15 March 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Maou ![][flag_DE] | 0 | **7** | ![][flag_DE] **Malox** | [#1](https://osu.ppy.sh/community/matches/59230042) |
+| **Malox** ![][flag_DE] | **7** | 2 | ![][flag_DE] Maou | [#1](https://osu.ppy.sh/community/matches/59232271) |
+
 ### Finals
 
 Saturday, 7 March 2020:
@@ -409,6 +428,7 @@ Saturday, 8 February 2020:
 | --: | :-: | :-: | :-- | :-- |
 | **helios44** ![][flag_SG] | **4** | 3 | ![][flag_CN] zd101nb | [#1](https://osu.ppy.sh/community/matches/58285453) |
 | **Olii** ![][flag_GB] | **4** | 1 | ![][flag_NZ] Blujae | [#1](https://osu.ppy.sh/community/matches/58290286) |
+| **Maou** ![][flag_DE] | **0** | -1 | ![][flag_FR] Champs de ble | *win by default* |
 | Kirross ![][flag_DE] | 2 | **4** | ![][flag_DE] **Enohx** | [#1](https://osu.ppy.sh/community/matches/58291512) |
 | **awdse22** ![][flag_SG] | **4** | 2 | ![][flag_DE] Katsumi | [#1](https://osu.ppy.sh/community/matches/58292406) |
 | Kozzo ![][flag_IT] | 3 | **4** | ![][flag_NL] **Boaz** | [#1](https://osu.ppy.sh/community/matches/58293268) |
