@@ -4,11 +4,11 @@ outdated: true
 
 # Interface de jeu
 
-![Ecran d'introduction d'osu!](img/Intro_static.jpg "Ecran d'introduction d'osu!")
+![](img/Intro_static.jpg "Ecran d'introduction d'osu!")
 
 ## Menu principal
 
-![Menu principal d'osu!](img/Introscreen.jpg "Menu principal d'osu!")
+![](img/Introscreen.jpg "Menu principal d'osu!")
 
 Sur l'écran d'introduction s'affiche le logo d'osu! au centre de l'écran. Il bat suivant le [BPM](/wiki/Beatmapping/Beats_per_minute) d'une musique en cours de lecture. Si aucun morceau n'est joué, celui-ci bat à un rythme lent par défaut. Le raccourci clavier est entre parenthèses.
 
@@ -26,7 +26,7 @@ Sur l'écran d'introduction s'affiche le logo d'osu! au centre de l'écran. Il b
 
 ### Options d'utilisateur
 
-![Options d'utilisateur](img/Useroptions1.png "Options d'utilisateur")
+![](img/Useroptions1.png "Options d'utilisateur")
 
 Accédez à cet écran en cliquant sur votre panneau d'utilisateur se trouvant en haut à gauche de votre écran d'introduction. Vous ne pourrez accéder à aucune commande liée au chat sur ce panel. Vous pouvez sélectionner un élément en appuyant sur le numéro correspondant à ​​l'option.
 
@@ -37,7 +37,7 @@ Accédez à cet écran en cliquant sur votre panneau d'utilisateur se trouvant e
 
 ## Menu de jeu
 
-![Menu de jeu](img/Introscreen2.jpg "Menu de jeu")
+![](img/Introscreen2.jpg "Menu de jeu")
 
 -   Cliquez sur Solo (P) pour jouer seul.
 -   Cliquez sur Multi (M) pour jouer avec d'autres personnes.
@@ -53,7 +53,7 @@ Accédez à cet écran en cliquant sur votre panneau d'utilisateur se trouvant e
 
 ### Ecran de sélection des beatmaps
 
-![L'écran de sélection](img/Soloplay1.jpg "L'écran de sélection")
+![](img/Soloplay1.jpg "L'écran de sélection")
 
 NB: Vous pourrez identifier le mode spécifique de chaque beatmap en jetant un coup d'oeil aux motifs blancs s'illustrant par les 4 icônes suivantes :
 
@@ -111,7 +111,7 @@ Tapez du texte n'importe où sur l'écran de sélection ([la console de chat](/w
 
 #### Classement
 
-![](img/Soloplay10.jpg)
+![](img/Soloplay10.jpg "Classement en ligne")
 
 Cet espace peut afficher le tableau de classement ou différents messages :
 
@@ -147,7 +147,7 @@ Note: The back transparent leitmotif is based on what mode you played in.
 
 ![](/wiki/shared/mode/osu.png) is [osu!](/wiki/Game_Modes/osu!), ![](/wiki/shared/mode/taiko.png) is [osu!taiko](/wiki/Game_Modes/osu!taiko), ![](/wiki/shared/mode/catch.png) is [osu!catch](/wiki/Game_Modes/osu!catch) and ![](/wiki/shared/mode/mania.png) is [osu!mania](/wiki/Game_Modes/osu!mania)
 
-![osu! Online Score](img/Osu!_Online_score.jpg "osu! Online Score")
+![](img/Osu!_Online_score.jpg "osu! Online Score")
 
 This is your online leader-board. You can go here by scrolling down from the results screen. Your Local Scoreboard will show your name and the score as usual.
 

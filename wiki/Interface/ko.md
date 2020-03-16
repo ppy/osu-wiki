@@ -1,10 +1,10 @@
 # 인터페이스
 
-![인터페이스 스크린](img/Intro_static.jpg)
+![](img/Intro_static.jpg "인터페이스 스크린")
 
 ## 메인 메뉴
 
-![메인 메뉴](img/Introscreen.jpg)
+![](img/Introscreen.jpg "메인 메뉴")
 
 [osu!cookie](/wiki/Glossary#cookie) \[1\]는 재생되고 있는 노래의 설정된 [BPM](/wiki/Beatmapping/Beats_per_minute)에 맞춰 뜁니다. 또한 곡의 음량에 따라 osu!cookie 막대의 길이가 바뀝니다. 노래가 재생되고 있지 않으면, 60BPM에 맞추어 뜁니다.
 
@@ -28,7 +28,7 @@
 
 ## 유저 옵션
 
-![유저 옵션](img/Useroptions1.png)
+![](img/Useroptions1.png "유저 옵션")
 
 시작 화면에서 좌측 상단의 유저 패널을 누르면 유저 옵션이 나옵니다. 유저 옵션이 나왔을 때는 채팅창을 띄울 수 없습니다. 각 옵션의 번호는 단축키로 사용됩니다.
 
@@ -39,7 +39,7 @@
 
 # 플레이 메뉴
 
-![플레이 메뉴](img/Introscreen2.jpg)
+![](img/Introscreen2.jpg "플레이 메뉴")
 
 - Solo(`P`)를 누르면 혼자서 플레이 할 수 있습니다.
 - Multi(`M`)를 누르면 다른 사람과 멀티 플레이를 즐길 수 있습니다. [멀티 플레이](/wiki/Multi) 로비로 넘어갑니다.
@@ -49,8 +49,9 @@
 
 *본문: [멀티 플레이](/wiki/Multi)*
 
-![멀티 플레이 로비](img/Multi-Play-2016.png)
-![멀티 플레이 호스트](img/Multi-play!_Host.jpg)
+![](img/Multi-Play-2016.png "멀티 플레이 로비")
+
+![](img/Multi-play!_Host.jpg "멀티 플레이 호스트")
 
 1. 호스트 여부
 2. 프로필 정보
@@ -67,7 +68,7 @@
 
 ## 곡 선택 화면
 
-![곡 선택](img/Soloplay1.jpg)
+![](img/Soloplay1.jpg "곡 선택")
 
 팁: 유저 패널 내 랭킹 위의 아이콘이나, 모드 선택 버튼 위의 아이콘 또는 화면 뒤 배경에 투명하게 비치는 로고로 현재 선택된 게임 모드를 알 수 있습니다.
 
@@ -80,8 +81,9 @@
 
 ### 비트맵 정보
 
-![soloplay2.png](img/Soloplay2.jpg)
-![soloplay2.5.png](img/Soloplay2.5.jpg)
+![](img/Soloplay2.jpg)
+
+![](img/Soloplay2.5.jpg)
 
 여기에는 **선택 된 비트맵의 정보**가 표시되며, 기본적으로 osu!주크박스에서 나오던 노래의 비트맵이 선택됩니다. 좌측 상단은 비트맵의 랭크 여부를 표시합니다. 타이틀은 그 옆에 표시됩니다. 일반적으로 영어 타이틀이 표시되지만, [설정](/wiki/Options)의 `비트맵 정보 원어로 보기`를 선택한 경우 유니코드 타이틀이 표시됩니다. 비트맵 제작자도 표시 되며, 비트맵 정보는 그 아래에 표시됩니다. 왼쪽에서 오른쪽으로, 각 정보는 다음과 같습니다.
 
@@ -220,7 +222,8 @@
 
 ### 도구 모음
 
-![게임 모드 목록](img/Mode_screen.png)
+![](img/Mode_screen.png "게임 모드 목록")
+
 ![](img/Soloplay7.jpg)
 
 이 섹션은 도구 모음이라고 불립니다. 왼쪽에서 오른쪽으로 설명합니다.
@@ -231,7 +234,7 @@
 
 배경의 투명하게 표시된 아이콘과 `Mode` 버튼의 아이콘은 현재 선택된 모드를 나타냅니다.
 
-![게임 내 모드](img/Soloplay8.png)
+![](img/Soloplay8.png "게임 내 모드")
 
 `Mods` 버튼을 누르거나 `F1` 키를 누르면 **[게임 내 모드 선택](/wiki/Game_Modifiers)** 창이 나타납니다.
 
@@ -244,7 +247,7 @@
 
 *팁: `Shift` + `Random` or `F2` 키를 누르면 랜덤 선택 이전의 비트맵으로 이동합니다.*
 
-![비트맵 관리 옵션](img/Soloplay9.jpg)
+![](img/Soloplay9.jpg "비트맵 관리 옵션")
 
 `Beatmap Options` 버튼을 누르거나 `F3` 키를 누르거나 해당 비트맵을 우클릭하면 **현재 비트맵의 관리 옵션** 창이 나타납니다.
 
@@ -265,7 +268,7 @@
 
 ### 결과 화면
 
-![osu! 결과 화면](img/Accuracy_osu!.jpg)
+![](img/Accuracy_osu!.jpg "osu! 결과 화면")
 
 이 화면은 결과 화면입니다. 무사히 맵을 통과했을 때 뜹니다. 아래로 스크롤을 내리거나 `Online Ranking` 버튼을 눌러 아래에 있는 온라인 랭킹을 볼 수 있습니다.
 
@@ -273,15 +276,15 @@
 
 결과 화면은 아래처럼 게임 모드에 따라 화면이 바뀝니다.
 
-![osu!taiko 결과 화면](img/Accuracy_Taiko.jpg)
+![](img/Accuracy_Taiko.jpg "osu!taiko 결과 화면")
 
-![osu!mania 결과 화면](img/Accuracy_Mania.jpg)
+![](img/Accuracy_Mania.jpg "osu!mania 결과 화면")
 
-![osu!catch 결과 화면](img/Accuracy_CtB.jpg)
+![](img/Accuracy_CtB.jpg "osu!catch 결과 화면")
 
 ### 온라인 리더보드
 
-![osu! 온라인 리더보드 예시. (6)번은 수정 됨.](img/Osu!_Online_score.jpg)
+![](img/Osu!_Online_score.jpg "osu! 온라인 리더보드 예시. (6)번은 수정 됨.")
 
 이것은 온라인 리더보드입니다. 결과 화면에서 스크롤을 내리면 확인할 수 있습니다. 로컬 랭킹, 온라인 랭킹, 비트맵 평점 순으로 표시됩니다.
 
@@ -303,6 +306,6 @@
 8. 비트맵 총점입니다. 개인적으로 이 비트맵이 재밌는지 평가해주세요. 잘 모르겠으면 일단 넘어가고 나중에 해도 됩니다.
 9. 곡 선택 화면으로 돌아갑니다.
 
-![메달 해금](img/MedalUnlock.jpg)
+![](img/MedalUnlock.jpg "메달 해금")
 
 메달 해금 시 무엇이 해금되었는지 표시합니다.

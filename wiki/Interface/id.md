@@ -4,11 +4,11 @@ outdated: true
 
 # Tampilan Permainan
 
-![Layar perkenalan](img/Intro_static.jpg "Layar perkenalan")
+![](img/Intro_static.jpg "Layar perkenalan")
 
 ## Menu Utama
 
-![Menu utama](img/Introscreen.jpg "Menu utama")
+![](img/Introscreen.jpg "Menu utama")
 
 -   \[1\] osu! logo berdetak sesuai dengan [BPM (Ketukan per Menit)](/wiki/Beatmapping/Beats_per_minute) dari setiap lagu yang sedang diputar di layar awal. Jika tidak ada lagu yang sedang dimainkan, logo akan berdetak pada tingkat yang biasanya. Pintasan papan ketik terdapat dalam tanda kurung.
 -   \[2\] Klik Play (P) atau logo untuk beralih ke layar awal kedua.
@@ -25,7 +25,7 @@ outdated: true
 
 ### Pilihan Pengguna
 
-![Pilihan Pengguna](img/Useroptions1.png "Pilihan Pengguna")
+![](img/Useroptions1.png "Pilihan Pengguna")
 
 Akses layar ini dengan mengklik panel pengguna kamu di bagian pojok kiri atas layar awal. Kamu tidak dapat mengakses konsol obrolan saat melihat layar pilihan pengguna. Kamu dapat memilih dengan menekan angka yang sesuai pada pilihan.
 
@@ -36,7 +36,7 @@ Akses layar ini dengan mengklik panel pengguna kamu di bagian pojok kiri atas la
 
 ## Menu Bermain
 
-![Menu bermain](img/Introscreen2.jpg "Menu bermain")
+![](img/Introscreen2.jpg "Menu bermain")
 
 -   Click Solo (P) untuk bermain sendiri.
 -   Click Multi (M) bermain dengan orang lain. Kamu akan diarahkan ke layar [bermain bersama](/wiki/Multi).
@@ -52,7 +52,7 @@ Akses layar ini dengan mengklik panel pengguna kamu di bagian pojok kiri atas la
 
 ### Layar Pemilihan Lagu
 
-![Pemilihan lagu](img/Soloplay1.jpg "Pemilihan lagu")
+![](img/Soloplay1.jpg "Pemilihan lagu")
 
 Catatan: Kamu dapat mengidentifikasi pilihan lagu untuk mode tertentu dengan memeriksa simbol yang terdapat pada pilihan lagu.
 
@@ -130,7 +130,7 @@ Ketik dimanapun pada Layar Pemilihan Lagu ([Konsol Chat](/wiki/Chat_Console) tid
 
 #### Peringkat
 
-![Tabel Peringkat Daring](img/Soloplay10.jpg "Tabel Peringkat Daring")
+![](img/Soloplay10.jpg "Tabel Peringkat Daring")
 
 Berbagai hal bisa muncul di ruang ini:
 
@@ -164,7 +164,7 @@ Sementara Anda berada di Layar Akses Cepat Web, kamu tidak dapat mengakses obrol
 
 #### Daftar Lagu
 
-![Daftar Lagu Beatmap](img/Soloplay6.jpg "Daftar Lagu Beatmap")
+![](img/Soloplay6.jpg "Daftar Lagu Beatmap")
 
 **Daftar lagu menampilkan semua beatmap yang telah kamu unduh**, dengan kemungkinan mempersempitnya bergantung pada pilihanmu di layar ini. Kotak dapat memiliki banyak warna yang berbeda:
 
@@ -186,7 +186,7 @@ Menekan ESC atau klik tombol Back untuk kembali ke Menu Utama
 
 Klik pada tombol "Mode" untuk **membuka daftar mode gameplay yang tersedia di osu!**. Klik pada mode permainan yang kamu inginkan, dan osu! akan mengalihkannya ke gaya mode permainan bersamaan dengan perubahan papan skor. Atau, Kamu dapat menekan CTRL dan 1 (![](/wiki/shared/mode/osu.png)[osu!](/wiki/Game_Modes/osu!)) / 2 (![](/wiki/shared/mode/taiko.png)[osu!taiko](/wiki/Game_Modes/osu!taiko)) / 3 (![](/wiki/shared/mode/catch.png)[osu!catch](/wiki/Game_Modes/osu!catch)) / 4 (![](/wiki/shared/mode/mania.png)[osu!mania](/wiki/Game_Modes/osu!mania)) pada keyboardmu untuk beralih ke mode gameplay yang kamu inginkan dengan cepat.
 
-![Pengubah Permainan](img/Soloplay8.png "Pengubah Permainan")
+![](img/Soloplay8.png "Pengubah Permainan")
 
 Klik tombol "Mods" tombol atau tekan F1 untuk membuka **[Layar Pemilihan Mod](/wiki/Game_Modifiers)**.
 
@@ -196,7 +196,7 @@ Sementara Anda berada di Layar Seleksi Mod, Anda tidak dapat mengakses obrolan d
 
 klik tombol "Random Map (Map Acak)" atau tekan F2 untuk **memilih beatmap dari daftar yang sedang ditampilkan secara acak.**
 
-![Perintah yang mungkin untuk suatu beatmap](img/Soloplay9.jpg "Perintah yang mungkin untuk suatu beatmap")
+![](img/Soloplay9.jpg "Perintah yang mungkin untuk suatu beatmap")
 
 Klik tombol "Beatmap Options" tombol atau tekan F3 atau klik kanan dari mouse untuk memanggil yang **Beatmap Pilihan Menu untuk pilihan pada Beatmap sedang dipilih**.
 
@@ -225,7 +225,7 @@ Catatan: Motif utama transparan pada latar belakang berdasarkan mode yang kamu m
 
 ![](/wiki/shared/mode/osu.png)"osu!" adalah [osu!](/wiki/Game_Modes/osu!), ![](/wiki/shared/mode/taiko.png)"Drum" adalah [osu!taiko](/wiki/Game_Modes/osu!taiko), ![](/wiki/shared/mode/catch.png)"Apple" adalah [osu!catch](/wiki/Game_Modes/osu!catch) dan ![](/wiki/shared/mode/mania.png)"Piano" adalah [osu!mania](/wiki/Game_Modes/osu!mania)
 
-![Contoh dari skor daring osu!](img/Osu!_Online_score.jpg "Contoh dari skor daring osu!")
+![](img/Osu!_Online_score.jpg "Contoh dari skor daring osu!")
 
 Ini adalah papan skor daringmu. Kamu bisa pergi ke sini dengan menggulir ke bawah pada layar hasil. Papan skor lokalmu akan menampilkan nama dan skor seperti biasa.
 

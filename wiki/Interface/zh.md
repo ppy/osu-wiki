@@ -4,11 +4,11 @@ outdated: true
 
 # Interface (中文)
 
-![](img/Intro_static.jpg)
+![](img/Intro_static.jpg "Introduction screen")
 
 ## 主菜单
 
-![](img/Introscreen.jpg)
+![](img/Introscreen.jpg "Main menu")
 
 ［1］osu！的标志会随着音乐的每分钟击打次数（BPM）跳动，如果没有在播放歌曲，osu！标志就会跳动得慢一点。下列在括弧里的是快捷键。
 
@@ -26,7 +26,7 @@ outdated: true
 
 ### 用户选项
 
-![](img/Useroptions1.png)
+![](img/Useroptions1.png "User Options")
 
 点击屏幕左上角的用户面板以打开用户选项。此时将无法使用聊天界面。点击相应的选项以完成操作。
 
@@ -37,7 +37,7 @@ outdated: true
 
 ## 游戏界面
 
-![](img/Introscreen2.jpg)
+![](img/Introscreen2.jpg "Play Menu")
 
 -   点击Solo（P）以进行单机游戏
 -   点击Multi（M）以进行多人联机
@@ -53,7 +53,7 @@ outdated: true
 
 ### 选歌界面
 
-![](img/Soloplay1.jpg)
+![](img/Soloplay1.jpg "Song selection")
 
 注意：你可以为一首歌选择特定的模式
 
