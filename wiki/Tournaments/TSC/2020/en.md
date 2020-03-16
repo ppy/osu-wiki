@@ -115,7 +115,7 @@ Sunday, 22 March 2020:
 | #SF6c² | plz Jeff | sunglasses emoji | **20:00** |
 | #SF6d² | plz Jeff | The Shitmissers ft. zkane2 | **18:00** |
 
-¹ Encounter dependent on winner of Match #SF2 and Match #SF3  
+¹ Encounter dependent on winner of Match #SF2 and Match #SF3
 ² Encounter dependent on winner of Match #SF1 and Match #SF4
 
 ## Mappools
@@ -282,23 +282,23 @@ Saturday, 14 March 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Worldwide Bongo** | **6** | 3 | sunglasses emoji | [#1](https://osu.ppy.sh/mp/59181424) |
-| **4:3 gang** | **6** | 0 | IHATETAIKO | [#1](https://osu.ppy.sh/mp/59182774) |
-| **plz Jeff** | **6** | 4 | Spaghetti Protectors | [#1](https://osu.ppy.sh/mp/59182763) |
-| 🍘 | 5 | 6 | **#TeamTrees** | [#1](https://osu.ppy.sh/mp/59186591) |
+| **Worldwide Bongo** | **6** | 3 | sunglasses emoji | [#1](https://osu.ppy.sh/community/matches/59181424) |
+| **4:3 gang** | **6** | 0 | IHATETAIKO | [#1](https://osu.ppy.sh/community/matches/59182774) |
+| **plz Jeff** | **6** | 4 | Spaghetti Protectors | [#1](https://osu.ppy.sh/community/matches/59182763) |
+| 🍘 | 5 | 6 | **#TeamTrees** | [#1](https://osu.ppy.sh/community/matches/59186591) |
 | Break4 | -1 | **0** | **t.** | *win by default* |
-| Team 5 | 3 | **6** | **Team 26** | [#1](https://osu.ppy.sh/mp/59188509) |
-| The winner is the winner | 2 | **6** | **The Shitmissers ft. zkane2** | [#1](https://osu.ppy.sh/mp/59188366) |
+| Team 5 | 3 | **6** | **Team 26** | [#1](https://osu.ppy.sh/community/matches/59188509) |
+| The winner is the winner | 2 | **6** | **The Shitmissers ft. zkane2** | [#1](https://osu.ppy.sh/community/matches/59188366) |
 
 Sunday, 15 March 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Team 6 | 3 | **6** | **chocobo** | [#1](https://osu.ppy.sh/mp/59208231) |
+| Team 6 | 3 | **6** | **chocobo** | [#1](https://osu.ppy.sh/community/matches/59208231) |
 | **sunglasses emoji** | **0** | -1 | 4:3 gang | *win by default* |
-| **Spaghetti Protectors** | **6** | 3 | t. | [#1](https://osu.ppy.sh/mp/59219832) |
+| **Spaghetti Protectors** | **6** | 3 | t. | [#1](https://osu.ppy.sh/community/matches/59219832) |
 | Team 5 | -1 | **0** | **The Shitmissers ft. zkane2** | *win by default* |
-| **Rice Cracker** | **6** | 2 | chocobo | [#1](https://osu.ppy.sh/mp/59225333) |
+| **Rice Cracker** | **6** | 2 | chocobo | [#1](https://osu.ppy.sh/community/matches/59225333) |
 
 ### Round of 16
 
