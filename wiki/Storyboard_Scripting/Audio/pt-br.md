@@ -11,7 +11,7 @@ A forma de uma declaração de amostra de áudio é:
 onde:
 
 -   <time> é a estampa de tempo em que o som deve começar a reproduzir.
--   &lt;layer_num> é um _valor numérico_ correspondente à camada em que deseja que o som esteja:
+-   &lt;layer_num> é um \_valor numérico_ correspondente à camada em que deseja que o som esteja:
     -   0 - Background
     -   1 - Fail
     -   2 - Pass

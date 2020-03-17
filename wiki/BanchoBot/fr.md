@@ -111,7 +111,7 @@ _Remarque: vous pouvez également utiliser la carte d’utilisateur pour signale
 
 _Afin de savoir ce qui mérite d'être signalé, veuillez vous référer à [Signaler un mauvais comportement](/wiki/Reporting_Bad_Behaviour)._
 
-_Remarque: lorsque vous entrez le nom d'utilisateur, remplacez les espaces par des underscores (`_`)._
+_Remarque: lorsque vous entrez le nom d'utilisateur, remplacez les espaces par des underscores (\`_\`).\_
 
 Envoie un rapport à [L'équipe de Modération](/wiki/Global_Moderation_Team) ou aux [Modérateurs par langues](/wiki/Language_Moderators).
 

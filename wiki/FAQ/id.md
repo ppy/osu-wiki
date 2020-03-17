@@ -53,8 +53,8 @@ Ayo kita belajar tentang objek-objek yang dapat di hit, ok ?
 -   Disini kita punya "slider"
     -   Pertama, kamu harus meng-hit note pada waktu yang tepat, tapi itu belum berakhir.
     -   Sebuah bola akan mulai bergerak melintasi jalan yang dapat kamu lihat.
-    -   Kamu harus menahan tombol mouse/keyboard (atau jarimu/pen diatas tablet) dan pertahankan _pointer_mu terus di dalam _slider_ sambil mengikuti bola yang terus berjalan di atas _slider_ tersebut.
-        -   Kamu tidak dapat mengubah arah _slider_nya, dan kamu harus mengikuti arah _slider_ tersebut.
+    -   Kamu harus menahan tombol mouse/keyboard (atau jarimu/pen diatas tablet) dan pertahankan _pointer_mu terus di dalam \_slider_ sambil mengikuti bola yang terus berjalan di atas _slider_ tersebut.
+        -   Kamu tidak dapat mengubah arah _slider_nya, dan kamu harus mengikuti arah \_slider_ tersebut.
         -   Lingkaran oranye akan keluar saat kamu menahan bola itu dan akan menghilang saat kamu melepaskannya.
     -   Kadang-kadang, seperti _screenshot_ diatas, kamu harus bergerak kembali menuju penghujung _slider_.
     -   Kamu dapat mengetahuinya dengan melihat simbol _pembalik_ di penghujung _slider_.

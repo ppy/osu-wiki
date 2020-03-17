@@ -12,39 +12,39 @@ outdated: true
 
 ### 注册
 
-1. 如果你没有 GitHub 账号，请[注册](https://github.com/join)一个。
+1.  如果你没有 GitHub 账号，请[注册](https://github.com/join)一个。
 
-2. [登录](https://github.com/login)你的账号。
+2.  [登录](https://github.com/login)你的账号。
 
-3. 下一步：[服务端的仓库克隆](#服务端的仓库克隆)。
+3.  下一步：[服务端的仓库克隆](#服务端的仓库克隆)。
 
 ### 服务端的仓库克隆
 
-1. 进入 [`osu-wiki` 仓库](https://github.com/ppy/osu-wiki)。
+1.  进入 [`osu-wiki` 仓库](https://github.com/ppy/osu-wiki)。
 
-2. 点击 `Fork`.
+2.  点击 `Fork`.
 
 ![](img/fork.jpg)
 
-3. 再次点击 `Fork`，进入你自己的仓库。
+3.  再次点击 `Fork`，进入你自己的仓库。
 
-4. 看到如下图所示的内容，意味你已经克隆了 `ppy/osu-wiki` 仓库，并且处在你自己的仓库中。
+4.  看到如下图所示的内容，意味你已经克隆了 `ppy/osu-wiki` 仓库，并且处在你自己的仓库中。
 
 ![](img/forked.jpg)
 
-3. 下一步：[同步你的仓库](#同步你的仓库).
+3.  下一步：[同步你的仓库](#同步你的仓库).
 
 ### 同步你的仓库
 
-1. 在 `osu-wiki` 仓库中完成一些工作。
+1.  在 `osu-wiki` 仓库中完成一些工作。
 
-2. 当你添加、修改了文件以后，会有提示告诉当前分支"behind"（落后）, "ahead"（超前）或者 "even"（同步）于 `ppy:master`。如果提示说 `This branch is {n} commits behind ppy:master`（当前分支落后于 ppy:master 分支 n 个提交），意味着你的分支已经过时了。
+2.  当你添加、修改了文件以后，会有提示告诉当前分支"behind"（落后）, "ahead"（超前）或者 "even"（同步）于 `ppy:master`。如果提示说 `This branch is {n} commits behind ppy:master`（当前分支落后于 ppy:master 分支 n 个提交），意味着你的分支已经过时了。
 
-3. 这不是个大问题。只是你无法修改已经被修改的文件，这意味你的仓库落后于最新的提交。
+3.  这不是个大问题。只是你无法修改已经被修改的文件，这意味你的仓库落后于最新的提交。
 
-4. 为了解决这个问题，请看[常见问题——我的分支过期了！](/wiki/owcg/Common_Issues#我的分支过期了！)。
+4.  为了解决这个问题，请看[常见问题——我的分支过期了！](/wiki/owcg/Common_Issues#我的分支过期了！)。
 
-5. 当你完成了第 4 步，请转到 [在线编辑或本地编辑](#在线编辑或本地编辑)。
+5.  当你完成了第 4 步，请转到 [在线编辑或本地编辑](#在线编辑或本地编辑)。
 
 ## 在线编辑或本地编辑
 
@@ -61,33 +61,33 @@ _提示：你在以上两种编辑方式中任选一种。_同时，也有一些
 
 ### 开一个 Pull Request
 
-1. 进入 [`ppy/osu-wiki` 仓库](https://github.com/ppy/osu-wiki).
+1.  进入 [`ppy/osu-wiki` 仓库](https://github.com/ppy/osu-wiki).
 
-2. 你可能会看到以下的黄色横幅（banner）。
+2.  你可能会看到以下的黄色横幅（banner）。
 
 ![](img/github-recent.jpg)
 
-3. 如果你看到了这个横幅，点击 `Compare & pull request` 按钮（跳到第8步）。如果没有，点击 `New pull request` 按钮（继续第4步）。
+3.  如果你看到了这个横幅，点击 `Compare & pull request` 按钮（跳到第8步）。如果没有，点击 `New pull request` 按钮（继续第4步）。
 
-4. 在下一个页面，如果你看到两个如下图所示的按钮，点击 `compare across forks`。
+4.  在下一个页面，如果你看到两个如下图所示的按钮，点击 `compare across forks`。
 
 ![](img/compare-across-forks-no.jpg "No good.")
 
 ![](img/compare-across-forks-yes.jpg "This is what you want to see.")
 
-5. 点击 `head fork` 下拉菜单，选择有你的用户名的那一项（一般为第二项）。
+5.  点击 `head fork` 下拉菜单，选择有你的用户名的那一项（一般为第二项）。
 
 ![](img/head-fork.jpg)
 
-6. 点击 `compare` 下拉菜单，选择你已经创建的那个分支，分支一般按字母排序。
+6.  点击 `compare` 下拉菜单，选择你已经创建的那个分支，分支一般按字母排序。
 
 ![](img/compare-branch.jpg)
 
-7. 点击 `Create pull request`.
+7.  点击 `Create pull request`.
 
-8. 输入英文的标题。一般标题命名方式是用方框括起来的两位语言代号，加上文章的标题。比如 `[FR] BBCode` 意味着 BBCode 这篇文章的法语翻译。
+8.  输入英文的标题。一般标题命名方式是用方框括起来的两位语言代号，加上文章的标题。比如 `[FR] BBCode` 意味着 BBCode 这篇文章的法语翻译。
 
-9. 填写描述框中所需要的信息，你可以删除没有使用的部分。
+9.  填写描述框中所需要的信息，你可以删除没有使用的部分。
 
 10. 完成后，点击 `Create pull request`。
 

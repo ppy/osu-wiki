@@ -67,7 +67,7 @@ Bibbity Bill returns to Project Loved with a map from an artist that many will b
 190 BPM, 2:01 | 1.68★ – 6.81★  
 _description written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)_
 
-With this mapset, Sing _encounter_s their second feature on Project Loved—only this time featuring guest difficulties from 7 other mappers! With a grand total of 9 individual difficulties, there surely is a map for everyone, especially with a difficulty spread like this. Many of them take advantage of the song's complex rhythms and bursts, however each map is unique to their own and is a blast to play for anyone looking to try.
+With this mapset, Sing \_encounter_s their second feature on Project Loved—only this time featuring guest difficulties from 7 other mappers! With a grand total of 9 individual difficulties, there surely is a map for everyone, especially with a difficulty spread like this. Many of them take advantage of the song's complex rhythms and bursts, however each map is unique to their own and is a blast to play for anyone looking to try.
 
 ## <a name="taiko" id="taiko"></a>osu!taiko
 
@@ -144,7 +144,7 @@ We've seen him before taking the spot of a popular LN charter, and here eZmmR is
 [SOUND HOLIC Vs. dj TAKA feat. YURiCa - TIEFSEE](https://osu.ppy.sh/beatmapsets/861816#mania) by [Kim_GodSSI](https://osu.ppy.sh/users/2218047)  
 165 BPM, 5:49 | [7K] 8.29★
 
-It's time for another Kim_GodSSI pick! This round we're having _TIEFSEE_! You might have seen this from the last 7K Mania World Cup and it is arguably one of the more well-received maps in the pool for all the right reasons.
+It's time for another Kim_GodSSI pick! This round we're having \_TIEFSEE_! You might have seen this from the last 7K Mania World Cup and it is arguably one of the more well-received maps in the pool for all the right reasons.
 
 The map works under a formula well established by the current high SR meta—chordstreams that transition into their LN heavy counterpart. But despite that very well reused approach to high level mapping, this map executes it in such a manner where the duration allows for a smooth and gradual transition into hard LN usages! 165 BPM may make this map sound like a cakewalk, but this map got into the Final mappool for a reason. It's the sheer amount of stamina and finger independence involved in this map that makes it a great challenge for many. Bracket heavy chordstreams are the general approach to the layers in this chart with initially basic LNs introduced followed up by 1/4ths LNs and later overlap heavy LNs and finally full inversions. Anyone looking for a decent challenge should try this out!
 

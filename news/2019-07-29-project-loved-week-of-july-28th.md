@@ -139,7 +139,7 @@ Make your fingers dance with Shiron's _Deadly Dolly Dance_—by far one of the g
 185 BPM, 1:38 | 7.63★  
 _description written by [jyake](https://osu.ppy.sh/users/9099822)_
 
-Hope you studied for your tests because w_tre respect for AT&HU's  _Schur's Theorem_ is going to test your taiko math skills! Ralphage filled this map to the brim with absolutely mind-bending 1/6 patterns, often consisting of many off-hand patterns and complex rhythms. Underestimate this map, and you're in for a tough one.
+Hope you studied for your tests because w_tre respect for AT&HU's  \_Schur's Theorem_ is going to test your taiko math skills! Ralphage filled this map to the brim with absolutely mind-bending 1/6 patterns, often consisting of many off-hand patterns and complex rhythms. Underestimate this map, and you're in for a tough one.
 
 ## <a name="catch" id="catch"></a>osu!catch
 

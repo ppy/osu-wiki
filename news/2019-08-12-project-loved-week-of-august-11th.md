@@ -51,7 +51,7 @@ _Charon_ is a single-difficulty mapset from the mapper Anmiy (previously known a
 185 BPM, 4:22 | 5.06★, 7.76★  
 _description written by [DigitalHypno](https://osu.ppy.sh/users/4384207)_
 
-a_hisa's song _Logical Stimulus_ has an absolutely beautiful melody, and this map by Naidaaka captures it perfectly. This high 7 star map contains super long, super flowy streams in the kiai sections, but the rest of the map has plenty of cut streams to keep you on your toes. This map is accompanied by a 5 star guest difficulty by DT-sama which is set to AR 7 for those of you looking for slower-paced gameplay. Judging by the favourite count of nearly 300, I'm sure many of you are already familiar with this map, but if not, you should definitely give it a try!
+a_hisa's song \_Logical Stimulus_ has an absolutely beautiful melody, and this map by Naidaaka captures it perfectly. This high 7 star map contains super long, super flowy streams in the kiai sections, but the rest of the map has plenty of cut streams to keep you on your toes. This map is accompanied by a 5 star guest difficulty by DT-sama which is set to AR 7 for those of you looking for slower-paced gameplay. Judging by the favourite count of nearly 300, I'm sure many of you are already familiar with this map, but if not, you should definitely give it a try!
 
 [![](/wiki/shared/news/2019-08-12-project-loved-week-of-august-11th/osu/4-lone-digger.jpg)](https://osu.ppy.sh/community/forums/topics/947107)
 

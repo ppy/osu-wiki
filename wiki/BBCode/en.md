@@ -91,6 +91,7 @@ _BBCode calls this "Color"._
 -   Syntax:
 
     -   Where `HEXCODE` is a colour in hexadecimal or colour name.
+
         -   For hexadecimal, it must start with `#`, followed by 6 hexadecimal (0 - 9, A - F) characters.
         -   For colour name, it must be a valid html colour.
 
@@ -300,8 +301,7 @@ In BBCode, there are two parts for making the list: the wrapper and the bullets.
     -   Where `TYPE` is one of the listed types above.
     -   If `TYPE` is not defined, bullets will be used instead.
 
-        [list=TYPE]
-        [*]...
+        [list=TYPE][*]...
         [/list]
 
 ### Image
@@ -333,6 +333,7 @@ Embeds a YouTube video in your post.
 -   Syntax:
 
     -   Where `VIDEO_ID` is the YouTube video ID (11 characters long), **not** the whole url!
+
         -   The YouTube video ID is located after the `?v=` url parameter.
 
         [youtube]VIDEO_ID[/youtube]

@@ -114,7 +114,7 @@ _Nota: También puedes usar la tarjeta de usuario para reportar a un jugador._
 
     !REPORT <usuario> <motivo>
 
-_Aviso: Cuando pongas el nombre, reemplaza los espacios con barras bajas (`_`)._
+_Aviso: Cuando pongas el nombre, reemplaza los espacios con barras bajas (\`_\`).\_
 
 Envía un reporte al [Equipo de Moderación Global](/wiki/Global_Moderation_Team) o a los [Moderadores de un idioma específico](/wiki/Language_Moderators).
 

@@ -115,7 +115,7 @@ _Note: You can also use the user card to report a user._
 
 _For information about what is worth reporting, see [Reporting Bad Behaviour](/wiki/Reporting_Bad_Behaviour)._
 
-_Notice: When entering the username, replace spaces with underscores (`_`)._
+_Notice: When entering the username, replace spaces with underscores (\`_\`).\_
 
 Sends a report to the [Global Moderation Team](/wiki/Global_Moderation_Team) or the [Language Moderators](/wiki/Language_Moderators).
 

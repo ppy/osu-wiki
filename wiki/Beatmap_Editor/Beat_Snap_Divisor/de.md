@@ -105,7 +105,7 @@ Grüne Linie: Sie.
 
 ![Divisor 1/8](/wiki/shared/1_8_m.jpg "Divisor 1/8")
 
--   8. Beats
+-   8.  Beats
 -   Fügt gelbe Ticks als Ergänzung zu roten und blauen hinzu
 
 ### Divisor 1/12

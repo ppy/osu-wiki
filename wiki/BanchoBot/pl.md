@@ -114,7 +114,7 @@ _Ważne: Możesz także użyć panelu użytkownika, aby zgłosić innych._
 
     !REPORT <użytkownik> <powód>
 
-_Ważne: Przy wprowadzaniu nazwy użytkownika zamień wszystkie spacje na znaki podkreślenia (`_`)._
+_Ważne: Przy wprowadzaniu nazwy użytkownika zamień wszystkie spacje na znaki podkreślenia (\`_\`).\_
 
 Wysyła zgłoszenie do [moderatorów globalnych](/wiki/Global_Moderation_Team).
 

@@ -37,7 +37,7 @@ osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/u
 210 BPM, 5:22 | 7.43★  
 _description written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)_
 
-1025. Very few people have the patience to count that high, but that's okay! Those who know this map will recognize this number. Not only in reference to the difficulty name, but because of one particular stream in this map. That's right, this map contains a 1025 note deathstream with zero breaks. Originally submitted back in October 2018, -Tynamo's _WE LUV LAMA_ gained popularity extremely quickly after top players began to conquer this deathstream, including the likes of [Informous](https://i.imgur.com/TU1Xiey.jpg) and [Gayzmcgee](https://www.youtube.com/watch?v=WlSCV_LTpLY). Soon after, this map became one of the most well known stamina training maps for any aspiring player looking to test their endurance.
+1025.   Very few people have the patience to count that high, but that's okay! Those who know this map will recognize this number. Not only in reference to the difficulty name, but because of one particular stream in this map. That's right, this map contains a 1025 note deathstream with zero breaks. Originally submitted back in October 2018, -Tynamo's _WE LUV LAMA_ gained popularity extremely quickly after top players began to conquer this deathstream, including the likes of [Informous](https://i.imgur.com/TU1Xiey.jpg) and [Gayzmcgee](https://www.youtube.com/watch?v=WlSCV_LTpLY). Soon after, this map became one of the most well known stamina training maps for any aspiring player looking to test their endurance.
 
 [![](/wiki/shared/news/2019-08-26-project-loved-week-of-august-25th/osu/2-asphyxia.jpg)](https://osu.ppy.sh/community/forums/topics/953243)
 

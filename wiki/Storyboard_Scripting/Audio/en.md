@@ -11,7 +11,7 @@ The form of an audio sample declaration is:
 where:
 
 -   <time> is the timestamp that the sound should start playing.
--   &lt;layer_num> is a _numerical value_ corresponding to the layer you want the sound to be on:
+-   &lt;layer_num> is a \_numerical value_ corresponding to the layer you want the sound to be on:
     -   0 - Background
     -   1 - Fail
     -   2 - Pass

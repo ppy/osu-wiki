@@ -46,7 +46,7 @@ Konkursy Aspire to konkursy dot. tworzenia beatmap, w których nie obowiązują 
 Ważne:
 
 -   Zwycięzcy tego konkursu otrzymują tytuł „Elite Mapper: Aspirant” na forum oraz unikalną odznakę profilową Aspire.
--   6. edycja konkursu „Monthly Beatmapping Contest” działała na takich samych zasadach jak Aspire, ale nie jest w żaden sposób związana z „Aspire 2016”.
+-   6.  edycja konkursu „Monthly Beatmapping Contest” działała na takich samych zasadach jak Aspire, ale nie jest w żaden sposób związana z „Aspire 2016”.
 
 |          Edycja         | Beatmapa                                                                    |         Tryb         | Twórca                                              | Wyniki                                                                                     | Ranking                                                  |
 | :---------------------: | :-------------------------------------------------------------------------- | :------------------: | :-------------------------------------------------- | :----------------------------------------------------------------------------------------- | :------------------------------------------------------- |

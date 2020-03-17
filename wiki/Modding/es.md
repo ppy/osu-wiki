@@ -74,7 +74,7 @@ Las opciones de las dificultades se pueden hallar en la ventana de Set-up de la 
 
 2.  **WTF!?**. Es altamente recomendado evitar cualquier expresión o frase que haga que el mapper evite leer tu mod, trata de llegar tu estado de “WTF” a algo más entendible y que ayude al mapper.
 
-3\.**1 grid lvl4 to the right (Un cuadrado nivel 4 a la derecha)**. No siempre es evidente el porqué de mover algo a en un distancia tan pequeña, asi que añade un explicacion del porqué hacerlo.
+3.**1 grid lvl4 to the right (Un cuadrado nivel 4 a la derecha)**. No siempre es evidente el porqué de mover algo a en un distancia tan pequeña, asi que añade un explicacion del porqué hacerlo.
 
 Esencialmente, **cada punto en tu mod post tiene que tener el “dónde”, “qué” y “porqué”**. Cuando no utilizas el “porqué” o el “qué” es fácil para el mapper no saber que es lo que quieres decir. De fallar en estas cosas tu mod sera mucho menos útil de lo que debería ser. Simplemente explicando tus sugerencias hará que tu mod sera mucho más útil.
 

@@ -16,7 +16,7 @@ Without further ado:
 
 In first place with a blistering **7329** votes is [Evaine](https://osu.ppy.sh/users/7295733)'s positively breathtaking piece featuring Aiko and Alisa cooling off in a shallow pond beneath a starlit sky.
 
-This is about as tastefully intimate as we've ever seen a fanart contest entry get, and with more poise and grace than we honestly could've ever expected from a _tit_ular summer-themed contest.
+This is about as tastefully intimate as we've ever seen a fanart contest entry get, and with more poise and grace than we honestly could've ever expected from a \_tit_ular summer-themed contest.
 
 A truly fantastic piece, and a well deserved win from one of our long-time participants - who by the way, has also won the [Spring 2017](https://osu.ppy.sh/community/contests/45) contest, and been voted into the winning finalists in [nearly](https://osu.ppy.sh/community/contests/36) [every](https://osu.ppy.sh/community/contests/48) [single](https://osu.ppy.sh/community/contests/56) [fanart contest](https://osu.ppy.sh/community/contests/58) we've held since.
 

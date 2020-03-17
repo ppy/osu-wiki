@@ -81,6 +81,7 @@ Dla przykładu (zwróć uwagę na położenie znaczników):
 -   Składnia:
 
     -   `HEXCODE` to kolor w systemie szesnastkowym bądź nazwa koloru.
+
         -   Określając w systemie szesnastkowym, kolor składa się z sześciu znaków (0 - 9, A - F) poprzedzonych znakiem `#`.
         -   Określając słownie, nazwa koloru musi być rozpoznawana w języku HTML.
 
@@ -278,8 +279,7 @@ Listy w BBCode składają się z dwóch części: znaczników otwierających i z
     -   `TYPE` to jeden z argumentów opisanych powyżej.
     -   Jeżeli `TYPE` nie jest określony, zostanie użyta lista punktowana.
 
-        [list=TYPE]
-        [*]...
+        [list=TYPE][*]...
         [/list]
 
 ### Obraz
@@ -311,6 +311,7 @@ Dodaje wbudowany odtwarzacz dla filmu zamieszczonego na YouTube.
 -   Składnia:
 
     -   `VIDEO_ID` to ID filmu (11-literowe), **nie** cały link!
+
         -   ID filmu jest umieszczone w linku po elemencie `?v=`.
 
         [youtube]VIDEO_ID[/youtube]

@@ -1,6 +1,6 @@
 {
   "plugins": [
-    "preset-lint-markdown-style-guide",
+    "remark-preset-lint-markdown-style-guide",
     ["remark-frontmatter", {"type": "yaml", "marker": "-"}],
 
     ["remark-lint-definition-case", false],
@@ -11,7 +11,7 @@
     ["remark-lint-list-item-spacing", {"checkBlanks": false}],
     ["remark-lint-maximum-heading-length", false],
     ["remark-lint-maximum-line-length", false],
-    ["remark-lint-name-outer-dashes", false],
+    ["remark-lint-no-file-name-outer-dashes", false],
     ["remark-lint-no-duplicate-definitions"],
     ["remark-lint-no-duplicate-headings", false],
     ["remark-lint-no-duplicate-headings-in-section"],

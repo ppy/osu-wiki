@@ -96,6 +96,7 @@ _BBCode llama a este "Color" ._
 -   Sintaxis:
 
     -   Donde `HEXCODE` es un color en hexadecimal o nombre de color.
+
         -   Para hexadecimal, debe comenzar con `#`, seguido por 6 caracteres hexadecimales (0 - 9, A - F).
         -   Para el nombre del color, debe ser un color HTML válido.
 
@@ -309,8 +310,7 @@ Los puntos se colocan dentro de la envoltura.
     -   Cuando `TYPE` sea uno de los tipos definidos más arriba.
     -   Si `TYPE` no está definido, se utilizarán puntos de forma predeterminada.
 
-        [list=TYPE]
-        [*] ...
+        [list=TYPE][*] ...
         [/list]
 
 ### Imagen
@@ -344,6 +344,7 @@ Incluye un vídeo de YouTube en tu publicación.
 -   Sintaxis:
 
     -   `YT-ID` es el ID de vídeo de YouTube (11 caracteres), ¡**no** toda la url!
+
         -   El ID de video de YouTube se encuentra después del parámetro url `?V=`.
 
         [youtube]YT-ID[/youtube]

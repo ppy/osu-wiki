@@ -92,6 +92,7 @@ _BBCode chama isso de "Color"._
 -   Sintaxes:
 
     -   Onde `HEXCODE` é um código da cor em hexadecimal ou nome da cor.
+
         -   Para hexadecimais, deverá começar com `#`, seguido de seis caracteres hexadecimais (0 - 9, A - F).
         -   Para nomes de cores, precisará ser uma cor válida em HTML.
 
@@ -306,8 +307,7 @@ No BBCode, existem duas partes na construção de uma lista: o contêiner e os m
     -   Onde `TYPE` é um dos tipos de lista citados acima.
     -   Se um `TYPE` não for definido, a marcação padrão será utilizada.
 
-        [list=TYPE]
-        [*] ITEM
+        [list=TYPE][*] ITEM
         [*] ITEM...
         [/list]
 
@@ -345,6 +345,7 @@ Insere um vídeo do Youtube na sua postagem.
 -   Sintaxe:
 
     -   Onde `YT-ID` é somente o ID do vídeo (11 characters long), **não** a URL toda!
+
         -   O ID do vídeo pode ser encontrado após o parâmetro `?v=` na URL.
 
         [youtube]YT-ID[/youtube]

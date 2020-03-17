@@ -111,7 +111,7 @@ _부록: 유저 카드에 있는 신고 항목을 이용할 수도 있습니다.
 
 _어떤 상황에서 신고해야 하는 지에 대한 자세한 내용은, [Reporting Bad Behaviour](/wiki/Reporting_Bad_Behaviour)를 참고하세요._
 
-_주의: 닉네임을 입력할 때 공백은 언더바 (`_`) 로 대체하여 입력하세요._
+_주의: 닉네임을 입력할 때 공백은 언더바 (\`_\`) 로 대체하여 입력하세요.\_
 
 신고를 [Global Moderation Team](/wiki/Global_Moderation_Team) 혹은 [Language Moderators](/wiki/Language_Moderators) 에게 보냅니다.
 

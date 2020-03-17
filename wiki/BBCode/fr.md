@@ -84,6 +84,7 @@ _Le BBCode appelle cela "Couleur"._
 -   Syntaxe :
 
     -   Où `HEXCODE` est un nom de couleur ou son code hexadécimal  Where `HEXCODE` is a colour in hexadecimal or colour name.
+
         -   Pour le code hexadécimal, il doit commencer par `#` suivit par 6 caractères hexadécimal (0 - 9, A - F).
         -   Pour le nom de couleur, il doit s'agir d'une couleur HTML valide.
 
@@ -293,8 +294,7 @@ Dans le BBCode, il y a deux manières de faire une liste : l'emballage et les pu
     -   Où le `TYPE` est un de ceux listés ci-dessus.
     -   Si le `TYPE` n'est pas défini, utilisation des puces à la place.
 
-        [list=TYPE]
-        [*]...
+        [list=TYPE][*]...
         [/list]
 
 ### Image
@@ -326,6 +326,7 @@ Intègre une vidéo Youtube à votre message.
 -   Syntax :
 
     -   Où `VIDEO_ID` est l'id de la vidéo youtube (11 caractères), et **pas** l'url complète.
+
         -   L'id d'une vidéo youtube est après le paramètre `?v=` de l'url.
 
         [youtube]VIDEO_ID[/youtube]

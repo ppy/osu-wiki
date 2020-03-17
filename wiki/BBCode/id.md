@@ -84,6 +84,7 @@ _BBCode menyebut ini sebagai "Color"._
 -   Sintaks:
 
     -   Dimana `HEXCODE` adalah warna dalam bentuk hexadecimal atau nama warna.
+
         -   Untuk hexadecimal, harus dimulai dengan `#`, kemudian diikuti 6 angka hexadecimal (0 - 9, A - F) karakter.
         -   Untuk nama warna, itu haruslah warna html yang valid.
 
@@ -295,8 +296,7 @@ Bullets ialah simbol yang berbentuk sebuah peluru, sedangkan Wrapper ialah membu
     -   Dimana `TYPE` adalah salah satu tipe daftar diatas.
     -   Jika `TYPE` tidak digunakan, bullets standar akan digunakan sebagai gantinya.
 
-        [list=TYPE]
-        [*]...
+        [list=TYPE][*]...
         [/list]
 
 ### Image
@@ -328,6 +328,7 @@ Menambahkan YouTube video di dalam post.
 -   Sintaks:
 
     -   Dimana `VIDEO_ID` adalah YouTube video ID (11 huruf panjang), **bukan** seluruh URLnya!
+
         -   YouTube video ID terletak setelah bagian `?v=` url parameter.
 
         [youtube]VIDEO_ID[/youtube]

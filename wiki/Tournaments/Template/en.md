@@ -139,7 +139,7 @@ Day, date:
 \| --: \| :-: \| :-: \| :-- \| :-- \|
 \| **WINNER** ![][flag] \| **SCORE** | SCORE | ![][flag] LOSER | [#1](MATCH_LINK) \|
 | LOSER ![][flag] | -1 <!-- It's convention to write "-1" for forfeits, but this isn't required --> \| **0** \| ![][flag] **WINNER** \| _win by default_ \|
-| TEAM_A ![][flag] | 0 | 0 | ![][flag] TEAM_B | _nullified_ \|
+| TEAM_A ![][flag] | 0 | 0 | ![][flag] TEAM_B | \_nullified_ \|
 
 ### Semifinals
 
