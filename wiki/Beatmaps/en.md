@@ -1,11 +1,12 @@
 ---
 outdated: true
 ---
+
 <!-- TODO: outdated because info about Qualified and Approved is outdated, also there are some references to old website componenets -->
 
 # Beatmaps
 
-*Not to be confused with: [Difficulties](/wiki/Difficulties).*
+_Not to be confused with: [Difficulties](/wiki/Difficulties)._
 
 Beatmaps are game levels in [osu!](/wiki/osu!_glossary), like the stages in the [DS games](/wiki/Glossary#ds-games). In their most basic form, a beatmap have a song and various [hit objects](/wiki/hit_objects) placed according to the rhythm of the music. They can also have a background image, video, and/or [storyboard](/wiki/storyboard).
 
@@ -35,9 +36,9 @@ Qualified beatmaps use the check icon (![Check icon](/wiki/shared/status/qualifi
 
 These beatmaps are in the last stage of the beatmapping and modding process. Before the beatmap begins playing, a dialogue will display, noting the status of the beatmap will cause:
 
-- No [performance points (pp)](/wiki/Performance_Points) will be awarded.
-- All scores will be deleted when the status is changed.
-  - If the status is changed to ranked, approved, or back to pending; all scores will be wiped!
+-   No [performance points (pp)](/wiki/Performance_Points) will be awarded.
+-   All scores will be deleted when the status is changed.
+    -   If the status is changed to ranked, approved, or back to pending; all scores will be wiped!
 
 When a beatmap is qualified, it has passed the [ranking criteria](/wiki/ranking_criteria) and has been checked by two [Beatmap Nominators](/wiki/Beatmap_Nominators). Qualified beatmaps is the last line of defense as they are required to be in this status for one week before becoming [ranked](#ranked) or [approved](#approved) permanently.
 
@@ -45,20 +46,20 @@ During the one week duration, however, [QATs](/wiki/QAT) are allowed to write up
 
 ### Loved
 
-*For history of the Loved category, see: [History of Loved](/wiki/Beatmaps/History_of_Loved).*
+_For history of the Loved category, see: [History of Loved](/wiki/Beatmaps/History_of_Loved)._
 
 Loved beatmaps use the heart icon (![Heart icon](/wiki/shared/status/loved.png)) in the song select screen.
 
-These beatmaps may not meet the [ranking criteria](/wiki/Ranking_Criteria), but are *loved* by the community and thus are regularly added based on community votes so that they have a leaderboard. Before the beatmap begins playing, a dialogue will display, noting that:
+These beatmaps may not meet the [ranking criteria](/wiki/Ranking_Criteria), but are _loved_ by the community and thus are regularly added based on community votes so that they have a leaderboard. Before the beatmap begins playing, a dialogue will display, noting that:
 
-- No [performance points (pp)](/wiki/Performance_Points) will be awarded.
-- All scores will be deleted if the creator updates the beatmap.
+-   No [performance points (pp)](/wiki/Performance_Points) will be awarded.
+-   All scores will be deleted if the creator updates the beatmap.
 
 For a beatmap to be Loved, it must go through the [community voting process](/wiki/Project_Loved#moving-a-beatmap-to-loved).
 
 ### Pending
 
-*Main page: [Beatmap ranking procedure](/wiki/Beatmap_ranking_procedure)*
+_Main page: [Beatmap ranking procedure](/wiki/Beatmap_ranking_procedure)_
 
 Pending beatmaps use the question mark icon (![Question mark icon](/wiki/shared/status/pending.png)) in the song select screen.
 

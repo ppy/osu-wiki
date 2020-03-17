@@ -8,8 +8,8 @@ Tieto pravidlá sú základy, pomocou ktorých sa snažíme udžať osu! komunit
 
 ## Komunitné pravidlá
 
-1.  **Každý hráč môže mať iba jeden účet. Bodka.** *Prvý* účet ktorý si urobíš je tvoj prvý a posledný osu! účet, navždy. Tento účet si TY. Nie je to tvoj brat, tvoja sestra, tvoja mama, tvoj kamarát - si to TY. Nezdieľaj tvoj účet s nikým. Nemôžeš si vytvoriť nový pokiaľ ho stratíš. Udržuj ho v bezpečí.
-2. **Hraj férovo.** Používanie akýchkoľvek nástrojov ako sú makrá, aim-assist programy, menenie rýchlosti osu!, atď... nie je v poriadku. Pokiaľ program robí niečo, čo by si mal robiť ty v osu!, je to proti pravidlám.
+1.  **Každý hráč môže mať iba jeden účet. Bodka.** _Prvý_ účet ktorý si urobíš je tvoj prvý a posledný osu! účet, navždy. Tento účet si TY. Nie je to tvoj brat, tvoja sestra, tvoja mama, tvoj kamarát - si to TY. Nezdieľaj tvoj účet s nikým. Nemôžeš si vytvoriť nový pokiaľ ho stratíš. Udržuj ho v bezpečí.
+2.  **Hraj férovo.** Používanie akýchkoľvek nástrojov ako sú makrá, aim-assist programy, menenie rýchlosti osu!, atď... nie je v poriadku. Pokiaľ program robí niečo, čo by si mal robiť ty v osu!, je to proti pravidlám.
 3.  **Buďte k sebe dobrí.** Obťažovanie a ďaľšie formy antagonizmu nemajú miesto v osu! komunite. Sme tu aby sme klikali krúžky, búchali na bubny, chytali ovocie a stláčali až 18 klávesov naraz, nie na to aby sme boli zlí k sebe.
 4.  **Nebuď idiot.** Pokiaľ si si neistý, či porušuješ toto pravidlo, pravdepodobne ho porušuješ.
 5.  **Sme komunita pre všetky vekové kategórie.** Toto znamená, že, obsah ktorý je 18+ ako je užívanie drog alebo obsah ktorý má sexuálny podtón tu nie je vítaný. Výnimky sú udelené kde je to potrebné, ale zväčša to tu udžujte čisté. 
@@ -24,8 +24,8 @@ Tieto pravidlá sú základy, pomocou ktorých sa snažíme udžať osu! komunit
 5.  **Udržuj čet čistý a vhodný pre všetky vekové kategórie.** Obsah ktorý je 18+ logicky nie je vhodný pre komunitu, ktorá je pre všetky vekové kategórie. Rob si čo chceš v súkromných správach (v rámci rozumu) ale udržuj verejné kanály čisté pre všetkých.
 6.  **Buď ohľaduplný o tom čo zdieľaš s ostatnými, obzvlášť pokiaľ je obsah veľmi znepokojujúci alebo veľmi nechutný.** Pokiaľ musíš premýšlať o tom či je vhodné poslať, to čo chceš poslať, pravdepodobne je to nevhodné. Vyhni sa zdieľaniu vecí ako sú napríklad rapídne blikajúce svetlá, znechuťujúce obrázky, obsah zachytávajúci zneužívanie a pod.
 7.  **Udržuj odkazy k relevantným a legálným stránkam.** Nelegálne stremovacie stránky (oficiálne licensované ako sú Animelab a Crunchyroll sú v pohode) a čokoľvek okolo "warez" a pirátovaného softwaru akéhokoľvek druhu nie je OK, a nechceme ich v našom čete. Posielanie Twitch odkazov pre ďaľšie hry je OK, ale IBA v kanáli `#videogames`.
-8. **Neposielaj reklamy o iných četovacích serveroch akéhokoľvek druhu, vrátane Discordu, Teamspeaku alebo Skype serverov/skupín.** osu! čet je prvorade určený na diskusiu o osu!, nie na zdieľanie linkov ku tvojmu serveru. Pokiaľ to absolútne musíš urobiť, urob to cez súkromnú správu.
-9. **V kanáloch ktoré sú určené pre konkrétny jazyk musíš hovoriť len tým jazykom (angličtina pre #english, thajsky v #thai, atď...)** Kde jazyk kanálu nie je určený (a nie je v názve kanálu), jazyk je vždy angličtina. Kanály `#lobby` a `#help` sú výnimkou - môžete v nich rozprávať akýmkoľvek jazykom. *[Moderátorksý tím](/wiki/People/Global_Moderation_Team) nemusí dodržiavať toto pravidlo pri svojej práci.*
+8.  **Neposielaj reklamy o iných četovacích serveroch akéhokoľvek druhu, vrátane Discordu, Teamspeaku alebo Skype serverov/skupín.** osu! čet je prvorade určený na diskusiu o osu!, nie na zdieľanie linkov ku tvojmu serveru. Pokiaľ to absolútne musíš urobiť, urob to cez súkromnú správu.
+9.  **V kanáloch ktoré sú určené pre konkrétny jazyk musíš hovoriť len tým jazykom (angličtina pre #english, thajsky v #thai, atď...)** Kde jazyk kanálu nie je určený (a nie je v názve kanálu), jazyk je vždy angličtina. Kanály `#lobby` a `#help` sú výnimkou - môžete v nich rozprávať akýmkoľvek jazykom. _[Moderátorksý tím](/wiki/People/Global_Moderation_Team) nemusí dodržiavať toto pravidlo pri svojej práci._
 
 ## Fórum pravidlá
 
@@ -43,7 +43,7 @@ Tieto pravidlá sá týkajú striktne beatmáp odoslaných priamo z hry pomocou 
 
 Sú tu tiež viac detailné pravidlá týkajúce sa konštrukcie beatmáp, ktoré sa nazývajú [Kritéria pre ohodnotenie](/wiki/Ranking_Criteria).
 
-1. **Uisti sa, či máš povolenie používať akýkoľvek obsah v tvojej beatmape.** Toto zahŕňa hudbu, videá, zvuky klikania, grafiku alebo akýkoľvek obsah ktorý nie je tvoj. Pokiaľ si si neistý kde nájsť obsah ktorý je zadarmo na použitie, máme rastúcu knižnicu skladieb od [Významných umelcov](https://osu.ppy.sh/beatmaps/artists/), ktoré sú 100% licensované pre osu!.
+1.  **Uisti sa, či máš povolenie používať akýkoľvek obsah v tvojej beatmape.** Toto zahŕňa hudbu, videá, zvuky klikania, grafiku alebo akýkoľvek obsah ktorý nie je tvoj. Pokiaľ si si neistý kde nájsť obsah ktorý je zadarmo na použitie, máme rastúcu knižnicu skladieb od [Významných umelcov](https://osu.ppy.sh/beatmaps/artists/), ktoré sú 100% licensované pre osu!.
 2.  **Drž sa témy v diskusiách o beatmapách.** Tieto vlákna sú o beatmape a o ničom inom. Pokiaľ máš problém s niečim iným daj to do vhodného fóra.
 3.  **Nekradni.** Nepoužívaj obsah od ďaľších ľudí bez ich dovolenia (napr. skiny, obtiažnosi, atď...).
 
@@ -51,15 +51,15 @@ Sú tu tiež viac detailné pravidlá týkajúce sa konštrukcie beatmáp, ktor�
 
 Pokiaľ sa ocitneš na zlej strane naších komunitných pravidiel, stanú sa zlé veci.
 
-Tieto "zlé veci" môžu byť (*ale nie sú obmedzené na*):
+Tieto "zlé veci" môžu byť (_ale nie sú obmedzené na_):
 
-* Znemožnenie četovania v hre na určitý čas (ktoré sa nazýva stlmenie)
-* Odstránenie akéhokoľvek obsahu ktorý nie je v súlade s pravidlami
-* Znemožnenie upravenia tvojej profilovej stránky alebo tvojich údajov
-* Znemožnenie hrania v oficiálnych turnajoch
+-   Znemožnenie četovania v hre na určitý čas (ktoré sa nazýva stlmenie)
+-   Odstránenie akéhokoľvek obsahu ktorý nie je v súlade s pravidlami
+-   Znemožnenie upravenia tvojej profilovej stránky alebo tvojich údajov
+-   Znemožnenie hrania v oficiálnych turnajoch
 
 Dĺžka stlmení a ostatných trestov sa **automaticky** predlžuje skoro exponenciálne s každým porušením. Moderátori nekontrolujú dĺžku trestov - porušovatelia pravidieľ budú potrestaný čo raz dlhšie.
-    
+
 Niektoré porušenia majú minimálne trvanie (bežne 48 alebo viac hodín) pokiaľ sú obzvlášť závažné, ale toto je rezervované takmer výlučne pre prípady ako zdielanie veľmi nechutného obsahu alebo neprestávajúce obťažovanie ostatných uživateľov.
 
 Pokiaľ sa rozhodneš pokračovať v porušovaní pravidiel, tvoj účet môže byť natrvalo obmedzený. 

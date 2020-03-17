@@ -40,7 +40,6 @@ Petunjuk itu penting dan disarankan untuk diikuti pada kebanyakan map. Tetapi, m
     1.  Not finish harus memiliki alasan yang jelas untuk diletakkan di tempat tersebut.
     2.  Not sebelum not finish harus berlawanan warna dengan not finish itu sendiri.
     3.  Not sebelum not finish tidak diperbolehkan bertumpuk di not finish lebih dari 50%.
-    
 -   **Kecepatan Slider**
 
 **Kecepatan Slider yang digunakan harus 1.40.** Ini untuk memastikan slider dapat terbaca dan kecepatan bergulir yang tepat.
@@ -51,7 +50,7 @@ Petunjuk itu penting dan disarankan untuk diikuti pada kebanyakan map. Tetapi, m
 
 -   **Perubahan BPM**
 
-**Gunakan *inherited timing* untuk membuat not-notnya menjadi perlahan masuk kedalam bagian pelan** untuk mencegah not-notnya overlap (dalam perlambatan) yang dapat membuat pemain bingung. Lalu, gunakan perubahan kecepatan slider untuk membuat mereka bisa terbaca (tidak overlap) dan tidak terlalu ekstrem pada saat dibutuhkan.
+**Gunakan _inherited timing_ untuk membuat not-notnya menjadi perlahan masuk kedalam bagian pelan** untuk mencegah not-notnya overlap (dalam perlambatan) yang dapat membuat pemain bingung. Lalu, gunakan perubahan kecepatan slider untuk membuat mereka bisa terbaca (tidak overlap) dan tidak terlalu ekstrem pada saat dibutuhkan.
 
 -   **Drumrolls (Sliders)**
 

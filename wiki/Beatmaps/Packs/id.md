@@ -1,28 +1,28 @@
 # Packs
 
-*Halaman utama: [Beatmaps](/wiki/Beatmaps)*
+_Halaman utama: [Beatmaps](/wiki/Beatmaps)_
 
 Paket beatmap adalah sebuah file `.zip` yang berisi kumpulan beatmap. Nama dari pack didasarkan pada apa yang dikandungnya (contoh `Approved Beatmap Pack #7` hanya berisi kumpulan beatmap [approved](/wiki/approved)).
 
 Perlu dicatat bahwa sebagian besar pack:
 
-- Memiliki ukuran berkisar ~100MB (Taiko/osu!mania) atau ~200MB (-/Approved)
-- Mengandung video (jika ada)
+-   Memiliki ukuran berkisar ~100MB (Taiko/osu!mania) atau ~200MB (-/Approved)
+-   Mengandung video (jika ada)
 
 ## Kategori
 
 Paket beatmap dibagi menjadi 4 kategori:
 
-| Kategori | Jenis beatmap |
-| :-- | :-- |
-| Standard | Lagu-lagu berstatus Ranked atau Approved |
-| Chart | Lagu-lagu tantangan Fortnightly Chart |
-| Theme | Tema umum dari lagu-lagu |
-| Artist/Album | Berdasarkan Artis/Album |
+| Kategori     | Jenis beatmap                            |
+| :----------- | :--------------------------------------- |
+| Standard     | Lagu-lagu berstatus Ranked atau Approved |
+| Chart        | Lagu-lagu tantangan Fortnightly Chart    |
+| Theme        | Tema umum dari lagu-lagu                 |
+| Artist/Album | Berdasarkan Artis/Album                  |
 
 ## Melengkapi Daftar Lagu Anda Sepenuhnya
 
-Ini untuk mereka yang benar-benar ingin *melengkapi daftar lagu Anda sepenuhnya* (dan bukan hanya mengunduh lagu-lagu favorit Anda).
+Ini untuk mereka yang benar-benar ingin _melengkapi daftar lagu Anda sepenuhnya_ (dan bukan hanya mengunduh lagu-lagu favorit Anda).
 
 Perlu diingat bahwa Anda akan membutuhkan cukup banyak ruang penyimpanan untuk menyimpan beatmap-beatmap ini. Karena paket beatmap (dan torrent) juga mengunduh video dan elemen-elemen skin beatmap lainnya.
 
@@ -36,7 +36,7 @@ Paket beatmap bisa ditemukan dan diunduh dari: [laman osu! Beatmaps Packs](https
 
 > Pemberitahuan: Beatmap torrents sepertinya sudah tidak aktif lagi di kalangan komunitas osu!.
 
-- [Beatmap-Torrents](https://osu.ppy.sh/community/forums/topics/147478)
-  - [HiraOsu! - Torrents](http://osu.hiramiya.me/torrents.htm) oleh [Hiramiya](https://osu.ppy.sh/users/1313441)
+-   [Beatmap-Torrents](https://osu.ppy.sh/community/forums/topics/147478)
+    -   [HiraOsu! - Torrents](http://osu.hiramiya.me/torrents.htm) oleh [Hiramiya](https://osu.ppy.sh/users/1313441)
 
 Anda akan membutuhkan banyak ruang penyimpanan (dan bandwidth) untuk torrent semua paket ini.

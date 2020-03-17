@@ -36,27 +36,27 @@ Puisque osu! est un projet communautaire, le logo en forme de cookie  d'osu! est
 
 ![](img/restrictions-good-single.png)
 
-- Le cookie doit être tranchant tout le temps.
-- Vous pouvez utiliser n'importe quelle couleur pour le cookie.
-- Vous pouvez ajouter un dégradé linéaire au cookie. Les dégradés radiaux ne sont pas recommandés car l'anneau et l'élément central peuvent apparaître dans des couleurs complètement différentes.
-- Vous pouvez masquer une œuvre d'art comme texture pour le cookie; toutefois, le cookie doit avoir un bon contraste avec l'arrière-plan.
+-   Le cookie doit être tranchant tout le temps.
+-   Vous pouvez utiliser n'importe quelle couleur pour le cookie.
+-   Vous pouvez ajouter un dégradé linéaire au cookie. Les dégradés radiaux ne sont pas recommandés car l'anneau et l'élément central peuvent apparaître dans des couleurs complètement différentes.
+-   Vous pouvez masquer une œuvre d'art comme texture pour le cookie; toutefois, le cookie doit avoir un bon contraste avec l'arrière-plan.
 
----
+* * *
 
 ![](img/restrictions-bad-single.png)
 
-- **Ne pas changer** le ratio d'aspect du cookie.
-- **Ne pas faire** tourner le cookie. Le cookie doit s'aligner sur l'orientation du support ou sur l'œil du lecteur lors de la lecture.
-- **Ne pas changer** un élément du cookie en quelque chose d'autre.
-- **Ne pas enlever** un élément du cookie.
-- **Ne pas redimensionner** un élément du cookie de façon indépendante.
-- **Ne pas modifier** un élément du cookie
-- **Ne réorganisez pas** les éléments du cookie.
-- Le cookie doit toujours avoir du tact. S'il fait partie d'une œuvre d'art, veuillez placer un autre logo bien aiguisé quelque part dans l'œuvre d'art.
-- **Ne pas appliquer** pas d'effets de fantaisie (ou vraiment collants) sur le cookie.
-- **Ne pas placer** d'éléments supplémentaires à l'intérieur du cookie.
-- **Ne pas appliquer** de contours sur le cookie. Utilisez une couleur de cookie différente.
-- **Ne pas penser**  à changer l'élément. Allez. Ce n'est même pas notre logo. C'est juste un texte dans un cercle.
+-   **Ne pas changer** le ratio d'aspect du cookie.
+-   **Ne pas faire** tourner le cookie. Le cookie doit s'aligner sur l'orientation du support ou sur l'œil du lecteur lors de la lecture.
+-   **Ne pas changer** un élément du cookie en quelque chose d'autre.
+-   **Ne pas enlever** un élément du cookie.
+-   **Ne pas redimensionner** un élément du cookie de façon indépendante.
+-   **Ne pas modifier** un élément du cookie
+-   **Ne réorganisez pas** les éléments du cookie.
+-   Le cookie doit toujours avoir du tact. S'il fait partie d'une œuvre d'art, veuillez placer un autre logo bien aiguisé quelque part dans l'œuvre d'art.
+-   **Ne pas appliquer** pas d'effets de fantaisie (ou vraiment collants) sur le cookie.
+-   **Ne pas placer** d'éléments supplémentaires à l'intérieur du cookie.
+-   **Ne pas appliquer** de contours sur le cookie. Utilisez une couleur de cookie différente.
+-   **Ne pas penser**  à changer l'élément. Allez. Ce n'est même pas notre logo. C'est juste un texte dans un cercle.
 
 ### Restrictions d'utilisation des cookies couleur
 
@@ -64,9 +64,9 @@ Comme osu ! est un projet communautaire, le logo du cookie osu! est conçu pour 
 
 ![](img/restrictions-bad-full.png)
 
-- **Ne pas utiliser** l'ancien cookie.
-- **Ne pas utiliser** une autre teinte de rose.
-- **Ne pas ajouter** de dégradé de couleur au cookie.
-- **Ne pas utiliser** d'autres couleurs.
-- **Ne rien ajouter** dans le cookie.
-- **Ne pas changer** un élément du cookie en quelque chose d'autre.
+-   **Ne pas utiliser** l'ancien cookie.
+-   **Ne pas utiliser** une autre teinte de rose.
+-   **Ne pas ajouter** de dégradé de couleur au cookie.
+-   **Ne pas utiliser** d'autres couleurs.
+-   **Ne rien ajouter** dans le cookie.
+-   **Ne pas changer** un élément du cookie en quelque chose d'autre.

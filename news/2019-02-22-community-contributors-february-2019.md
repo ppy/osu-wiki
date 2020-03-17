@@ -34,13 +34,13 @@ Something of a living meme among the osu! tournament scene, juankristal has been
 
 For once, we are delighted to firmly pin the blame on him for the continuation of the osu! World Cup series as a whole, stepping up to lead the INTENSE organization required to schedule, oversee and generally maintain multiple multinational tournaments.
 
-The workload involved in running the osu! World Cups is *immense*, perhaps far greater than most people realize, and juankristal has not only stepped himself up to do it out of a sheer desire to see it done, but has *excelled* at it, allowing the series to be continued without so much as a blip.
+The workload involved in running the osu! World Cups is _immense_, perhaps far greater than most people realize, and juankristal has not only stepped himself up to do it out of a sheer desire to see it done, but has _excelled_ at it, allowing the series to be continued without so much as a blip.
 
 ### WalterToro
 
 [![](/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/WalterToro.jpg)](https://osu.ppy.sh/users/5281416)
 
-A mainstay force within the Global Moderation Team, WalterToro is not your ordinary chat moderator. He is *everywhere*: in the osu!wiki team, in the tournaments scene, and wildly active in the Spanish community to say the least.
+A mainstay force within the Global Moderation Team, WalterToro is not your ordinary chat moderator. He is _everywhere_: in the osu!wiki team, in the tournaments scene, and wildly active in the Spanish community to say the least.
 
 From refereeing matches to refereeing people, we are very thankful for WalterToro's incredible work ethic and tireless drive to do what needs to be done.
 
@@ -98,7 +98,7 @@ So vast and numerous are p3n's contributions over the years - from creating a ma
 
 [![](/wiki/shared/news/2019-02-22-community-contributors-february-2019/people/shARPII.jpg)](https://osu.ppy.sh/users/776257)
 
-Departed from the osu!team since early 2018, shARPII was once the primary manager of the Global Moderation Team. Not merely content with one herculean task, shARPII also decided he'd write a utility to help the osu! World Cup staff handle the arduous process of handling multiplayer games from a referee's perspective, coding the program which is now affectionately dubbed *Script-chan* by the tournaments crew.
+Departed from the osu!team since early 2018, shARPII was once the primary manager of the Global Moderation Team. Not merely content with one herculean task, shARPII also decided he'd write a utility to help the osu! World Cup staff handle the arduous process of handling multiplayer games from a referee's perspective, coding the program which is now affectionately dubbed _Script-chan_ by the tournaments crew.
 
 shARPII's passion and drive to improve upon and iterate some of the oldest remaining fixtures of the game's volunteer groups led to substantial improvements made for everybody, and we really cannot thank him enough for his time with us.
 
@@ -114,7 +114,7 @@ Few community-run projects have sustained such momentum and attained such reach 
 
 The primary drive and chief organizer of Project Loved, Toy's efforts to revitalize and shape the Loved beatmap category are at the very heart of the program, and it is very safe to say that without him, it would simply not exist.
 
-Beyond this, his contributions towards moderating the defacto osu! subreddit and his endless encouragement and positive attitude are shining examples of the things that make the osu! community as special as it is, and it is with great delight that we welcome him into the midst of the community contributors with his *22nd* profile badge to boot.
+Beyond this, his contributions towards moderating the defacto osu! subreddit and his endless encouragement and positive attitude are shining examples of the things that make the osu! community as special as it is, and it is with great delight that we welcome him into the midst of the community contributors with his _22nd_ profile badge to boot.
 
 Yes, you read that right.
 
@@ -200,7 +200,7 @@ Responsible for considerable contributions to the osu!lazer project, ekr's effor
 
 Noted specifically as one of the few developers brave enough to delve into the core architecture of osu!'s framework, ekr's work ethic and willingness to get involved is highly valued.
 
--------------
+* * *
 
 As mentioned in previous years, we cannot really stress just how important community contribution is to the future of osu! as a whole. 
 

@@ -14,8 +14,8 @@ Disable any secondary monitors! osu!tourney only runs on the primary monitor. Ma
 
 ## osu!tourney does not open, it throws me an error prompt and/or closes!
 
-- Make sure that you are signed in to osu! and that the "Remember Username" and "Remember Passwword" checkboxes are checked.
-- Ensure that the `privateserver` key in `tournament.cfg` has no value set.
+-   Make sure that you are signed in to osu! and that the "Remember Username" and "Remember Passwword" checkboxes are checked.
+-   Ensure that the `privateserver` key in `tournament.cfg` has no value set.
 
 ## My osu! song database corrupts when starting up!
 
@@ -41,6 +41,7 @@ It is possible that your room is named incorrectly or you used the wrong acronym
 Make sure that the room is named correctly by following the [multiplayer usage guide](/wiki/osu!tourney/Multiplayer_Usage) closely.
 
 ## The team names are not showing!
+
 See previous answer.
 
 ## How do I stream my tournament to streaming services like Twitch?

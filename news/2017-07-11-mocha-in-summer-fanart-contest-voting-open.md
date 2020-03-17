@@ -11,7 +11,7 @@ The turnout for Mocha's first ever fanart contest has been massive, [with over 6
 
 We're absolutely astonished with the turnout for this contest, and amazed to see some of the incredible renditions of our newest (and cutest) addition to the osu! mascot lineup.
 
-Voting will be open for **14 days** from today, [so make sure you get in and make your *five* votes count!](https://osu.ppy.sh/community/contests/48)
+Voting will be open for **14 days** from today, [so make sure you get in and make your _five_ votes count!](https://osu.ppy.sh/community/contests/48)
 
 The top 10 artworks (as voted for by you, the community) will be added into the in-game seasonal background art rotation, and the artists of each piece will receive 2 months of osu!supporter to celebrate their efforts.
 

@@ -88,7 +88,7 @@ A remastered take on _Yuyoyuppe_'s timeless Vocaloid classic, Palette features k
 
 Electronic, Vocaloid and _baker_. What more needs to be said? Warbling synths set to a thudding, drum 'n bass inspired backline and accompanied with Vocaloid.. vocals, this one's an osu! classic in the making. Mapped by [**jonathanlfj**](https://osu.ppy.sh/users/270377) - check it out [here](https://osu.ppy.sh/beatmapsets/682595).
 
-------
+* * *
 
 All of these tracks above are courtesy of the enigmatic **Mappers' Guild**, who will undoubtedly be revealing their presence and purpose to the world very soon. Keep your eyes and ears peeled!
 

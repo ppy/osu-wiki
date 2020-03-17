@@ -30,7 +30,7 @@ If your account has been restricted, you'll likely know why after a brief conver
 
 In situations where we are absolutely assured that foul play or wrongdoing has taken place, we will ask you to wait out a period of **three (3) months** from the date of your last offense before we consider an appeal from you to let you back into the game.
 
-Refer to *[Account Restrictions](/wiki/Help_Centre/Account_Restrictions)* for more information on account restrictions and the appeal process.
+Refer to _[Account Restrictions](/wiki/Help_Centre/Account_Restrictions)_ for more information on account restrictions and the appeal process.
 
 ### Sign-in
 
@@ -42,10 +42,10 @@ If this does not work for you (or you do not have access to your registration em
 
 Good information to include this email would be:
 
-- The name of the email address that you registered the account on, or any other email the account has been associated with since
-- Any receipts for purchased osu!supporter tags or other items from the osu!store
-- The last date you can remember being able to access your account normally
-- Any other identifying information that you think could be helpful (excluding scores or replays, those do not help us very much!)
+-   The name of the email address that you registered the account on, or any other email the account has been associated with since
+-   Any receipts for purchased osu!supporter tags or other items from the osu!store
+-   The last date you can remember being able to access your account normally
+-   Any other identifying information that you think could be helpful (excluding scores or replays, those do not help us very much!)
 
 #### My account has been stolen!
 
@@ -77,13 +77,13 @@ If you have lost your account's password and are not receiving any password reco
 
 Lastly, we are aware that some providers do not accept automated emails from us. If you are using any of these providers, please contact us by mail and we'll change your email address for you:
 
-- `att.net`
-- `bellsouth.net`
-- `free.fr`
-- `i.ua`
-- `laposte.net`
-- `sbcglobal.net`
-- `t-online.de`
+-   `att.net`
+-   `bellsouth.net`
+-   `free.fr`
+-   `i.ua`
+-   `laposte.net`
+-   `sbcglobal.net`
+-   `t-online.de`
 
 ### Name Changes
 
@@ -181,7 +181,7 @@ On the new website, this filter can be found by clicking "more search options" o
 
 Unfortunately, we do not keep track of all maps a user has downloaded, so it is impossible to get a list of them. The closest you could be to it would be using the aforementioned filter to recover at least the maps you've played before.
 
----
+* * *
 
 ## Client
 
@@ -197,12 +197,12 @@ This issue is sometimes caused by an interaction with compatibility mode, and ca
 
 To check or change if your game is running in compatibility mode under Windows, try the following steps:
 
-1. Open your osu! installation folder and look for `osu!.exe`.
-2. Right click on `osu!.exe` and select `Properties` from the dropdown menu.
-3. Navigate to the `Compatibility` tab.
-4. Look for a checkbox titled `Run this program in compatibility mode` within a section titled `Compatibility mode`.
-5. If this checkbox is ticked, click it once more to disable the functionality.
-6. If your game is already open, close the client and reopen the game once more.
+1.  Open your osu! installation folder and look for `osu!.exe`.
+2.  Right click on `osu!.exe` and select `Properties` from the dropdown menu.
+3.  Navigate to the `Compatibility` tab.
+4.  Look for a checkbox titled `Run this program in compatibility mode` within a section titled `Compatibility mode`.
+5.  If this checkbox is ticked, click it once more to disable the functionality.
+6.  If your game is already open, close the client and reopen the game once more.
 
 ##### Do you have a default web browser set?
 
@@ -210,10 +210,10 @@ To check or change if your game is running in compatibility mode under Windows, 
 
 To check, try the following steps (under Windows 8 and above):
 
-1. Open the Start menu.
-2. Type `default` into the search bar within the Start menu.
-3. If you see a menu entry titled `Default app settings`, click it. If you do not, expand your search to include `default app settings`.
-4. Scroll down to the `Web browser` heading and check to make sure that a browser which you have installed is properly set.
+1.  Open the Start menu.
+2.  Type `default` into the search bar within the Start menu.
+3.  If you see a menu entry titled `Default app settings`, click it. If you do not, expand your search to include `default app settings`.
+4.  Scroll down to the `Web browser` heading and check to make sure that a browser which you have installed is properly set.
 
 ##### My game will not update properly!
 
@@ -231,19 +231,19 @@ You can also try forcing the game to update.
 
 **This can be changed via the in-game options menu.**
 
-1. Open osu!.
-2. Enter the `Options` menu or hit `Control` + `O` by default.
-3. Type `release` into the quick-search to jump straight to the option.
-4. Ensure the dropdown says `Stable (Latest)` to receive the latest stable build of the game.
+1.  Open osu!.
+2.  Enter the `Options` menu or hit `Control` + `O` by default.
+3.  Type `release` into the quick-search to jump straight to the option.
+4.  Ensure the dropdown says `Stable (Latest)` to receive the latest stable build of the game.
 
 ##### How do I force the game to update?
 
 **You can force the game to update via the options menu.**
 
-1. Open osu!.
-2. Enter the `Options` menu or hit `Control` + `O` by default.
-3. Type `update` into the quick-search to jump straight to the option.
-4. Click the `Run osu! updater` button.
+1.  Open osu!.
+2.  Enter the `Options` menu or hit `Control` + `O` by default.
+3.  Type `update` into the quick-search to jump straight to the option.
+4.  Click the `Run osu! updater` button.
 
 You can also force the game to update by creating a `help.txt` file in osu!'s installation directory. This file does not need to contain anything; it just needs to exist, and the game will automatically force an update the next time it runs.
 
@@ -255,10 +255,10 @@ If you see this error when you try to open osu! or its updater, it means you del
 
 Here is a collection of common fonts used in different versions of Windows and across the web which should help:
 
-- [Microsoft core web fonts](https://web.archive.org/web/20020124085641/http://www.microsoft.com/typography/fontpack/default.htm) (especially Arial, Times New Roman, Trebuchet MS, and Verdana)
-- [Tahoma](https://freefontsfamily.com/tahoma-font-free)
-- [Windows Live Essentials](https://support.microsoft.com/en-us/help/2434419/windows-live-essentials-2011) (Segoe UI)
-- [Microsoft JhengHei](https://microsoft.com/en-us/download/details.aspx?&id=12072) (微軟正黑體) (Traditional Chinese UI font)
+-   [Microsoft core web fonts](https://web.archive.org/web/20020124085641/http://www.microsoft.com/typography/fontpack/default.htm) (especially Arial, Times New Roman, Trebuchet MS, and Verdana)
+-   [Tahoma](https://freefontsfamily.com/tahoma-font-free)
+-   [Windows Live Essentials](https://support.microsoft.com/en-us/help/2434419/windows-live-essentials-2011) (Segoe UI)
+-   [Microsoft JhengHei](https://microsoft.com/en-us/download/details.aspx?&id=12072) (微軟正黑體) (Traditional Chinese UI font)
 
 See [this topic](https://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a) in Microsoft Answers for some more detailed advice, and other options on getting them back.
 
@@ -312,7 +312,7 @@ Playing the game or doing something else will let the client catch up in the bac
 
 #### What is this white trail or smoke-like line behind my cursor?
 
-**This is a special feature called *smoke* and can be used to doodle on your playfield for fun. Anyone who is spectating you can see the things you draw as well.**
+**This is a special feature called _smoke_ and can be used to doodle on your playfield for fun. Anyone who is spectating you can see the things you draw as well.**
 
 The default keybinding for this feature is `C`, and it will work for as long as you hold the button down. You can rebind it at any time in the `osu! Standard Mode` section of the `Change keyboard bindings` options dialog.
 
@@ -368,7 +368,7 @@ If you were denied a score due to technical reasons or whatever else, the best y
 
 #### The notes seem out of sync or out of time with the music!
 
-**This can be due to sound processing software running on your machine, such as *Razer Surround Audio*. It could also be due to your `Universal Offset` being set incorrectly.**
+**This can be due to sound processing software running on your machine, such as _Razer Surround Audio_. It could also be due to your `Universal Offset` being set incorrectly.**
 
 Try closing any extra programs which alter or influence the sound coming out of your computer. If this doesn't help, you could try to adjust your `Universal Offset`.
 
@@ -376,9 +376,9 @@ Every individual hardware configuration has a particular `Universal Offset` that
 
 The default values work for most people, but if you find it isn't for you, you can change it by following these steps:
 
-- Go to the `Options` menu, and find the `Universal offset` slider under the `Offset Adjustment` header. The default value is 0, and you should only change it if needed.
-- If the default value (0) isn't working for you, try using the `Offset wizard` button to walk you through setting a new one.
-- If this still doesn't help, you may want to try updating your sound card or motherboard audio drivers.
+-   Go to the `Options` menu, and find the `Universal offset` slider under the `Offset Adjustment` header. The default value is 0, and you should only change it if needed.
+-   If the default value (0) isn't working for you, try using the `Offset wizard` button to walk you through setting a new one.
+-   If this still doesn't help, you may want to try updating your sound card or motherboard audio drivers.
 
 #### I'm experiencing lag spikes or stuttering during play!
 
@@ -416,7 +416,7 @@ An easy solution to this is to try unplugging your USB hub briefly. If your lag 
 
 ##### Are you running osu! in windowed or borderless mode?
 
-**Both windowed and borderless mode introduce a *considerable* amount of input delay. Fullscreen is optimal for the smoothest gameplay experience.**
+**Both windowed and borderless mode introduce a _considerable_ amount of input delay. Fullscreen is optimal for the smoothest gameplay experience.**
 
 ##### Does your game freeze up for only a moment or so?
 
@@ -440,7 +440,7 @@ This is a completely harmless (albeit ugly!) effect that happens because the gam
 
 You can also try playing in Windowed or Borderless mode, which will use your operating system's native VSync instead.
 
-Turning on VSync or playing in Windowed or Borderless mode will introduce a *slight* amount of input lag, unfortunately. For most people, this will not cause significant issue.
+Turning on VSync or playing in Windowed or Borderless mode will introduce a _slight_ amount of input lag, unfortunately. For most people, this will not cause significant issue.
 
 Later NVidia graphics cards have a global option in the NVidia Control Panel to set the global refresh rate to a setting called 'Fast', which will also fix this issue.
 
@@ -458,13 +458,13 @@ Here are a few ways of allowing applications to have internet access through sev
 
 To make sure osu! can access the internet, we will need to allow it to communicate through Windows Firewall. Here's how to check and add osu! to the program's list:
 
-1. Open the Start menu.
-2. Type `allow an app` into the search bar within the Start menu.
-3. You should see a Control Panel match titled `Allow an app through Windows Firewall`. Click it.
-4. A panel with a large list of applications with two checkboxes beside them will open. Click on any application, and then hit the `o` key. The list will scroll down to all applications beginning with 'o'.
-5. Look for `osu!` or `osu!.exe`.
-6. If neither are present, click `Allow another app` at the bottom of the panel and search for your osu! installation directory, and choose `osu!.exe`.
-7. Make sure both `Private` and `Public` checkboxes are ticked. Click OK to save your settings and try again.
+1.  Open the Start menu.
+2.  Type `allow an app` into the search bar within the Start menu.
+3.  You should see a Control Panel match titled `Allow an app through Windows Firewall`. Click it.
+4.  A panel with a large list of applications with two checkboxes beside them will open. Click on any application, and then hit the `o` key. The list will scroll down to all applications beginning with 'o'.
+5.  Look for `osu!` or `osu!.exe`.
+6.  If neither are present, click `Allow another app` at the bottom of the panel and search for your osu! installation directory, and choose `osu!.exe`.
+7.  Make sure both `Private` and `Public` checkboxes are ticked. Click OK to save your settings and try again.
 
 ##### Allowing a program through AVG Firewall
 
@@ -484,8 +484,8 @@ Please consult McAffee's [official knowledgebase entry on the topic](https://ser
 
 If you are still having issues connecting to our game servers, please submit a support ticket by sending an e-mail to [accounts@ppy.sh](mailto:accounts@ppy.sh). The following information will help us resolve your issue quickly:
 
-- A trace route output log from the command `tracert` for the servers `cho.ppy.sh`, `osu.ppy.sh` and `m1.ppy.sh` (see below for instructions)
-- The `network.log` file from the `Logs` folder in your osu! installation directory
+-   A trace route output log from the command `tracert` for the servers `cho.ppy.sh`, `osu.ppy.sh` and `m1.ppy.sh` (see below for instructions)
+-   The `network.log` file from the `Logs` folder in your osu! installation directory
 
 ##### Running a trace route to troubleshoot connection issues
 
@@ -507,11 +507,11 @@ To copy the results of the command, simply click and drag from the bottom of the
 
 Follow these steps to restore osu! to its default settings:
 
-1. Hold down the `Shift` key on your keyboard.
-2. While holding `Shift`, double click the osu! icon on your desktop.
-3. Continue holding `Shift` until you see the osu! recovery dialog prompt.
-4. When the `osu! configuration` dialog opens, click the `reset settings` button.
-5. If you still aren't having any luck, open the dialog again and click `repair osu!`.
+1.  Hold down the `Shift` key on your keyboard.
+2.  While holding `Shift`, double click the osu! icon on your desktop.
+3.  Continue holding `Shift` until you see the osu! recovery dialog prompt.
+4.  When the `osu! configuration` dialog opens, click the `reset settings` button.
+5.  If you still aren't having any luck, open the dialog again and click `repair osu!`.
 
 #### I became supporter but my name isn't yellow in-game!
 
@@ -527,9 +527,9 @@ This helps to identify your own messages from everyone else's. There is no optio
 
 To check what your frame limiter is set to, follow these steps:
 
-1. Open osu!.
-2. Enter the `Options` menu or hit `Control` + `O` by default.
-3. Type `frame` into the quick-search to bring up the frame limiter options.
+1.  Open osu!.
+2.  Enter the `Options` menu or hit `Control` + `O` by default.
+3.  Type `frame` into the quick-search to bring up the frame limiter options.
 
 If your frame limiter is set to Unlimited, you may notice a significant improvement by changing it to one of the other three options.
 
@@ -561,7 +561,7 @@ If none of this helps, please send in a support ticket to [accounts@ppy.sh](mail
 
 #### I can't hold more than a few keys at once while playing osu!mania.
 
-**This is due to a hardware issue common to most keyboards called *ghosting*.**
+**This is due to a hardware issue common to most keyboards called _ghosting_.**
 
 Ghosting is a somewhat complex topic, but essentially boils down to issues with the way your keyboard is made that prevent it from sending more than a few keys down at once from certain places on the board.
 
@@ -571,7 +571,7 @@ You can test your keyboard's ghosting limits by using [drakeirving's Anti-Ghosti
 
 While the Ranking Criteria for osu!mania tries to alleviate the issue of ghosting by not allowing more than 6 notes to be active at any one time, you may encounter this issue if your keyboard is older.
 
-The only true solution is to purchase a keyboard that can support more concurrent keypresses, in that case. You may wish to look for a feature known as *n-key rollover* (or *NKRO*). NKRO keyboards do not have issues with ghosting for the most part, but are usually expensive.
+The only true solution is to purchase a keyboard that can support more concurrent keypresses, in that case. You may wish to look for a feature known as _n-key rollover_ (or _NKRO_). NKRO keyboards do not have issues with ghosting for the most part, but are usually expensive.
 
 #### My cursor goes crazy whenever I try to play osu!
 
@@ -579,9 +579,9 @@ The only true solution is to purchase a keyboard that can support more concurren
 
 Jumpy, erratic movement is a prime example of this, particularly if you are using a tablet.
 
-Setting the in-game sensitivity to 1.0x (which is default) will fix this in most cases, but may leave your cursor feeling sluggish. We suggest enabling *raw input* in the game options and using the drivers for your peripheral of choice to alter sensitivity.
+Setting the in-game sensitivity to 1.0x (which is default) will fix this in most cases, but may leave your cursor feeling sluggish. We suggest enabling _raw input_ in the game options and using the drivers for your peripheral of choice to alter sensitivity.
 
-You may also wish to adjust the *DPI* setting of your mouse, if you are using one. Higher DPI settings provide more accurate positioning to the game client and may smooth out any jitters.
+You may also wish to adjust the _DPI_ setting of your mouse, if you are using one. Higher DPI settings provide more accurate positioning to the game client and may smooth out any jitters.
 
 We also suggest ensuring your peripherals are clean and free from dirt or debris. A hair or bit of dust in front of a mouse's optical sensor can do very strange things to the way a cursor moves.
 
@@ -591,10 +591,10 @@ We also suggest ensuring your peripherals are clean and free from dirt or debris
 
 To enable raw input, follow these steps:
 
-1. Open osu!.
-2. Enter the `Options` menu or hit `Control` + `O` by default.
-3. Type `raw` into the quick-search to jump straight to the option.
-4. Click the `Raw input` radio button.
+1.  Open osu!.
+2.  Enter the `Options` menu or hit `Control` + `O` by default.
+3.  Type `raw` into the quick-search to jump straight to the option.
+4.  Click the `Raw input` radio button.
 
 #### I'm playing from a tablet and my cursor feels too slow!
 
@@ -612,7 +612,7 @@ All osu! branded tablets support raw input by default, and may have their sensit
 
 **This is usually due to a faulty input device connected to your computer. Try unplugging any controllers or joysticks.**
 
-Applications which emulate or change keybindings such as *Xpadder* or *X-Mouse Button Control* may also cause these issues. Try disabling them if you use them for other games.
+Applications which emulate or change keybindings such as _Xpadder_ or _X-Mouse Button Control_ may also cause these issues. Try disabling them if you use them for other games.
 
 This can also happen due to issues with the numpad keys, as they can be used to scroll the song selection list. Pressing the `NumLock` key to disable the numpad and then pressing either `9` or `3` on the numpad will fix the issue.
 
@@ -626,7 +626,7 @@ Most beatmap packs come in a `.rar` file format, which means they are a compress
 
 Once all of the `.osz` files within the pack are in the Songs directory, hitting `F5` at the song selection menu will refresh the game's beatmap cache and load your new songs into the game.
 
----
+* * *
 
 ## Website
 
@@ -660,10 +660,10 @@ In the event that another user is harassing you via private messages either on t
 
 **To block a user from sending you messages in-game, simply add them to your ignore list.**
 
-1. Click the Options menu button in-game
-2. Type 'ignore' to filter the options listing to the "Chat Ignore List" section.
-3. Add the offending user's username to the list, separating each new user with a space, and replacing any spaces in their name with underscores (A user called *The Gatekeeper* becomes *The\_Gatekeeper* for example).
-4. You are done!
+1.  Click the Options menu button in-game
+2.  Type 'ignore' to filter the options listing to the "Chat Ignore List" section.
+3.  Add the offending user's username to the list, separating each new user with a space, and replacing any spaces in their name with underscores (A user called _The Gatekeeper_ becomes _The_Gatekeeper_ for example).
+4.  You are done!
 
 You'll no longer see public chat messages from any users on that list, or receive private messages from them.
 
@@ -673,10 +673,10 @@ If you wish to ignore highlights, private messages, or public messages, you can 
 
 If you wish to prevent anyone not on your friendslist from sending you private messages, follow the following steps. **Please note: moderators are not affected by this functionality and can always PM you. If you feel a moderator is harassing you in spite of this, you should contact [our support team](mailto:support@ppy.sh).**
 
-1. Click the `Options` menu button in-game or hit `Control` + O on your keyboard
-2. Type "block" to filter the options listing to the "In-game Chat" section.
-3. Toggle the setting on by clicking it.
-4. You are done! Users who are not on your friendslist (/addfriend "user") can no longer contact you.
+1.  Click the `Options` menu button in-game or hit `Control` + O on your keyboard
+2.  Type "block" to filter the options listing to the "In-game Chat" section.
+3.  Toggle the setting on by clicking it.
+4.  You are done! Users who are not on your friendslist (/addfriend "user") can no longer contact you.
 
 <!-- TODO: this part needs to be rewritten for the current website, "foes" is no longer available on the old one
 
@@ -730,7 +730,7 @@ Simply type the name of the artist you are searching for into the Google Custom 
 
 If you have been inactive for a lengthy period of time and your statistics are shown wrong, simply play a few maps to display them again. Inactive users can have their scores hidden to keep the rankings fresh.
 
----
+* * *
 
 ## Installation and Registration
 
@@ -746,8 +746,8 @@ Alternatively, [click here](https://osu.ppy.sh/home/download) for a direct link 
 
 **If game installer throws errors when attempting to install, you can try few things:**
 
-- Clean your PC - Scan with anti-virus software, clean the registry. A good program for general clean up is CCleaner. Scan both your computer files and your registry. The installer can fail if there are registry entries from a previous copy of osu! still present on your system.
-- Try reinstalling .NET 3.5 Framework. [You can find it here](https://web.archive.org/web/20160317051200/http://www.microsoft.com/en-au/download/details.aspx?id=21).
+-   Clean your PC - Scan with anti-virus software, clean the registry. A good program for general clean up is CCleaner. Scan both your computer files and your registry. The installer can fail if there are registry entries from a previous copy of osu! still present on your system.
+-   Try reinstalling .NET 3.5 Framework. [You can find it here](https://web.archive.org/web/20160317051200/http://www.microsoft.com/en-au/download/details.aspx?id=21).
 
 #### I have 64-bit Windows and cannot install osu! correctly!
 
@@ -777,7 +777,7 @@ If you are not using any of the above, then you will need to send in a support t
 
 Tor or networks associated with the Tor relay will not connect to the game servers for the most part. This is to avoid malicious use.
 
----
+* * *
 
 ## Beatmapping and Editor
 
@@ -815,7 +815,7 @@ You can delete your beatmap yourself by waiting for it to decay to the beatmap G
 
 Once your beatmap is in the Graveyard, you can delete it yourself by clicking the `Delete` button that appears next to the beatmap link.
 
----
+* * *
 
 ## osu!store and merchandise
 
@@ -841,9 +841,9 @@ To determine if your osu! nono keyboard LEDs are faulty, please undertake the fo
 
 **Follow these steps to find out:**
 
-1. Identify which LED is not functioning as it should be. Remember this side.
-2. Gently prise the LEDs from beneath the key switches with a pair of tweezers or other gripping device, remembering which LED came from which slot.
-3. Swap the LEDs around and return them to their housing. For example, place the LED taken from the left key to the right key, and so on.
+1.  Identify which LED is not functioning as it should be. Remember this side.
+2.  Gently prise the LEDs from beneath the key switches with a pair of tweezers or other gripping device, remembering which LED came from which slot.
+3.  Swap the LEDs around and return them to their housing. For example, place the LED taken from the left key to the right key, and so on.
 
 If an LED that worked in one side works in the other side, that LED **is not faulty** and is working fine.
 
@@ -875,9 +875,9 @@ To find out, perform the following steps:
 
 **Follow these steps to check to see if your tablet device is functioning normally:**
 
-1. Safely remove the tablet device from your system, and unplug the cable.
-2. Gently plug the cable back into a USB slot on your system.
-3. If the tablet is functioning, the light slot on the face of the tablet will flash green momentarily then fall dark. This is normal behaviour.
+1.  Safely remove the tablet device from your system, and unplug the cable.
+2.  Gently plug the cable back into a USB slot on your system.
+3.  If the tablet is functioning, the light slot on the face of the tablet will flash green momentarily then fall dark. This is normal behaviour.
 
 If the tablet's light does not flash, try using a different USB cable - the ones included with the tablet can sometimes be damaged during transit or after extensive use.
 
@@ -889,12 +889,12 @@ We can try to help you fix your issue with older tablet purchases, but the natur
 
 **Follow these steps to check to see if your pen device is functioning normally:**
 
-- Unscrew the grip from the body of the pen, exposing the battery on the inside.
-- Remove the AAA battery from the pen.
-- Replace the battery with a brand new AAA battery. **Verify that the new battery functions in another device first.**
-- Ensure that the battery's positive and negative ends are appropriate in the pen. There are markers on the device that display marks telling you which end goes where.
-- Screw the grip back onto the pen.
-- Depress the button on the back end (eraser end) of the pen until it clicks.
+-   Unscrew the grip from the body of the pen, exposing the battery on the inside.
+-   Remove the AAA battery from the pen.
+-   Replace the battery with a brand new AAA battery. **Verify that the new battery functions in another device first.**
+-   Ensure that the battery's positive and negative ends are appropriate in the pen. There are markers on the device that display marks telling you which end goes where.
+-   Screw the grip back onto the pen.
+-   Depress the button on the back end (eraser end) of the pen until it clicks.
 
 If your tablet unit is functioning properly, placing the pen near the tablet will make the cursor on your screen move.
 
@@ -908,7 +908,7 @@ Otherwise, please contact [store@ppy.sh](mailto:store@ppy.sh) for further assist
 
 #### My computer doesn't recognize the osu!go when I plug it in!
 
-**This is a known issue with one of the very first shipments of the *osu!go* USB sticks, and comes down to the device not being formatted in a manner that works with all PCs.**
+**This is a known issue with one of the very first shipments of the _osu!go_ USB sticks, and comes down to the device not being formatted in a manner that works with all PCs.**
 
 Despite how complex this may sound, it's actually very easy to fix.
 
@@ -916,12 +916,12 @@ First off, [download the package containing the osu!go default files](https://as
 
 ##### Formatting the osu!go under Windows
 
-**Follow these steps to prepare your *osu!go* device under Windows:**
+**Follow these steps to prepare your _osu!go_ device under Windows:**
 
-1. Open the `Start` menu.
-2. Type `disk management` into the search bar. This will bring up the `Create and manage hard disk partitions` section of the Control Panel.
-3. **While in the Disk Management view, make sure to follow these instructions *VERY* closely and ONLY apply them to the osu!go device.** You can potentially lose data if you fiddle around in this dialog.
-4. Check to see what state your computer recognizes the device as being in.
+1.  Open the `Start` menu.
+2.  Type `disk management` into the search bar. This will bring up the `Create and manage hard disk partitions` section of the Control Panel.
+3.  **While in the Disk Management view, make sure to follow these instructions _VERY_ closely and ONLY apply them to the osu!go device.** You can potentially lose data if you fiddle around in this dialog.
+4.  Check to see what state your computer recognizes the device as being in.
 
 #### The osu!go device is present, but in a "RAW" state.
 
@@ -941,13 +941,13 @@ Please follow [this guide](https://staging.tails.boum.org/doc/first_steps/reset/
 
 **You're almost done!**
 
-Unzip the archive we asked you to download earlier (osu!go.zip) into the *osu!go* drive and you're done!
+Unzip the archive we asked you to download earlier (osu!go.zip) into the _osu!go_ drive and you're done!
 
 ##### None of this worked!
 
 If you encounter any issues with this process, please send an email to [store@ppy.sh](mailto:store@ppy.sh) and we'd be happy to help you out.
 
----
+* * *
 
 ## Troubleshooting
 
@@ -961,14 +961,14 @@ These files are extremely handy to have and can make solving even very complicat
 
 If a support team member has asked you for these logs, here's how to get them:
 
-1. Open *osu*.
-2. Go to the `Options` menu by clicking the button on the main menu, or hitting `CTRL+O`.
-3. Type `release` into the quick-search bar. This will take you to the current release stream your client is using.
-4. Make sure it is set to either `Beta` or `Cutting Edge (Experimental)`. We recommend `Beta` for the best chance of stability in this situation.
-5. Restart the game client if you made any changes to the release stream to apply them.
-6. Reopen the game, enter `Options`, and click `Open osu! folder`.
-7. Find the `Logs` directory in the window that opens.
-8. Select the log file required (the support representative will tell you which), and attach it to your ticket or upload it to a public filesharing service.
+1.  Open _osu_.
+2.  Go to the `Options` menu by clicking the button on the main menu, or hitting `CTRL+O`.
+3.  Type `release` into the quick-search bar. This will take you to the current release stream your client is using.
+4.  Make sure it is set to either `Beta` or `Cutting Edge (Experimental)`. We recommend `Beta` for the best chance of stability in this situation.
+5.  Restart the game client if you made any changes to the release stream to apply them.
+6.  Reopen the game, enter `Options`, and click `Open osu! folder`.
+7.  Find the `Logs` directory in the window that opens.
+8.  Select the log file required (the support representative will tell you which), and attach it to your ticket or upload it to a public filesharing service.
 
 #### What is this 'Bancho authentication error' I keep on receiving?
 

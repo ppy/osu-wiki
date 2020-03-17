@@ -12,7 +12,7 @@ It's here! But where, you ask? At TwitchCon 2018 in San Jose, CA, from October 2
 
 ![](/wiki/shared/news/2018-10-26-osu-at-twitchcon-2018/setup.jpg)
 
-We've got the a few mini-tournaments/events lined up across the few days we'll be there, and we'll be trying our best to stream them over at [the osulive! Twitch channel](https://www.twitch.tv/osulive) as bandwidth allows. The chat *will* be getting involved, so be sure to follow and hop in when the notification comes your way!
+We've got the a few mini-tournaments/events lined up across the few days we'll be there, and we'll be trying our best to stream them over at [the osulive! Twitch channel](https://www.twitch.tv/osulive) as bandwidth allows. The chat _will_ be getting involved, so be sure to follow and hop in when the notification comes your way!
 
 Here's what's planned (and take note, all times below are in UTC -07:00):
 
@@ -44,7 +44,7 @@ The winner goes home with a BIGASS bag of osu! swag, and the crown of TwitchCon 
 
 Who knows what's going on here? I sure don't, and neither does anyone else! Depending on who's around, anything could happen.
 
----------
+* * *
 
 Swing on by and say hello, be it in person, or via chat on osulive when the events get underway! Conventions like these are a great way to enjoy the osu! community in a way you might not have thought was possible.
 

@@ -8,11 +8,11 @@ Two weeks in one! Things are getting settled after many of osu!'s biggest names 
 
 ![](/wiki/shared/news/2017-08-17-scorewatch-august-weeks-1-and-2/banner.jpg)
 
-[_RyuK](https://osu.ppy.sh/users/6304246) has broken into the 700pp club! The number 1 Canadian set his mark on the famous map [kradness&Reol - Remote Control](https://osu.ppy.sh/beatmaps/774965?m=0) and taking an outstanding 97.76% HDDT 1 miss score to earn an amazing 704pp score! Well, I don't think I need to write much more for this score. Have a look!
+[\_RyuK](https://osu.ppy.sh/users/6304246) has broken into the 700pp club! The number 1 Canadian set his mark on the famous map [kradness&Reol - Remote Control](https://osu.ppy.sh/beatmaps/774965?m=0) and taking an outstanding 97.76% HDDT 1 miss score to earn an amazing 704pp score! Well, I don't think I need to write much more for this score. Have a look!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/b666KhdtrMU" frameborder="0" allowfullscreen></iframe></br>
 
-An unfamiliar face to newcomers, but definitely a player that has not rusted a bit! [Niko](https://osu.ppy.sh/users/175141) has come back strong with an amazing 98.59% S rank on [Tatsh - IMAGE -MATERIAL- <Version 0>](https://osu.ppy.sh/beatmaps/252238), taking the 7th only no mod S on this map, with an accuracy that even beat out [rrtyui](https://osu.ppy.sh/users/352328) himself! What a comeback from this amazing player!
+An unfamiliar face to newcomers, but definitely a player that has not rusted a bit! [Niko](https://osu.ppy.sh/users/175141) has come back strong with an amazing 98.59% S rank on [Tatsh - IMAGE -MATERIAL- &lt;Version 0>](https://osu.ppy.sh/beatmaps/252238), taking the 7th only no mod S on this map, with an accuracy that even beat out [rrtyui](https://osu.ppy.sh/users/352328) himself! What a comeback from this amazing player!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/85Z1LMFMUK8" frameborder="0" allowfullscreen></iframe></br>
 
@@ -44,7 +44,7 @@ We may not be able to keep up with what [jehlp](https://osu.ppy.sh/users/7568542
 
 [WubWoofWolf](https://osu.ppy.sh/users/39828) has shocked the osu! community with an amazing play on [Halozy - Genryuu Kaiko](https://osu.ppy.sh/beatmaps/433005)! Slapping on the HD mod, he went on to take an incredible 99.15% HD 4 miss score to land 4th on the leaderboards and even earn 408pp in the process! Wolf at its finest.
 
-Don't underestimate this play! [ThePooN](https://osu.ppy.sh/users/718454) has just set a crazy 98.48% 13x miss 1797 combo score on the hardest 8.03* difficulty of [And Aoiyuuki - I love Flezlin](https://osu.ppy.sh/beatmapsets/525461). Note that this map has big jumps (and not only) throughout the whole map!
+Don't underestimate this play! [ThePooN](https://osu.ppy.sh/users/718454) has just set a crazy 98.48% 13x miss 1797 combo score on the hardest 8.03\* difficulty of [And Aoiyuuki - I love Flezlin](https://osu.ppy.sh/beatmapsets/525461). Note that this map has big jumps (and not only) throughout the whole map!
 
 <iframe width="100%" height="315" src="https://player.twitch.tv/?video=v165036056&autoplay=false" frameborder="0" allowfullscreen></iframe></br>
 

@@ -6,10 +6,10 @@ osu! now supports widescreen in all modes (including the editor too)! Database s
 
 Links:
 
-- [This Week in osu! – ppy blog](https://blog.ppy.sh/post/39831318171/this-week-in-osu-8)
-- [This Week in osu! – ppy blog](https://blog.ppy.sh/post/41003637501/this-week-in-osu-9)
-- [Getting Hyperdash Right – ppy blog](https://blog.ppy.sh/post/39917651337/getting-hyperdash-right)
-- [Best of 2012 Results](https://osu.ppy.sh/community/forums/posts/2042263)
+-   [This Week in osu! – ppy blog](https://blog.ppy.sh/post/39831318171/this-week-in-osu-8)
+-   [This Week in osu! – ppy blog](https://blog.ppy.sh/post/41003637501/this-week-in-osu-9)
+-   [Getting Hyperdash Right – ppy blog](https://blog.ppy.sh/post/39917651337/getting-hyperdash-right)
+-   [Best of 2012 Results](https://osu.ppy.sh/community/forums/posts/2042263)
 
 ## February
 
@@ -23,10 +23,10 @@ Ranking support for [Hidden](/wiki/HD) and [FadeIn](/wiki/FI) mods in osu!mania 
 
 Links:
 
-- [This Week in osu! – ppy blog](https://blog.ppy.sh/post/42178900910/this-week-in-osu-10)
-- [This Week in osu! – ppy blog](https://blog.ppy.sh/post/43136384020/this-week-in-osu-11)
-- [This Week in osu! – ppy blog](https://blog.ppy.sh/post/43823357969/this-week-in-osu-12)
-- [osu! release b20130220](https://osu.ppy.sh/community/forums/posts/2134063)
+-   [This Week in osu! – ppy blog](https://blog.ppy.sh/post/42178900910/this-week-in-osu-10)
+-   [This Week in osu! – ppy blog](https://blog.ppy.sh/post/43136384020/this-week-in-osu-11)
+-   [This Week in osu! – ppy blog](https://blog.ppy.sh/post/43823357969/this-week-in-osu-12)
+-   [osu! release b20130220](https://osu.ppy.sh/community/forums/posts/2134063)
 
 ## March
 
@@ -36,16 +36,16 @@ Hit-Offset can now be known by hovering to the Accuracy from the result screen. 
 
 In terms of skin, "osu!default by peppy" was replaced by "osu! by peppy" (art by [RBRat3](https://osu.ppy.sh/users/307202)). Since osu! now can support both widescreen HD and standard size, a new button was added to the "Skins" tab under "Options". By default, old skin behaviour was used for compatibility and enabling the button will force the new skin behaviour to be in effect instead. [Combo fire](/wiki/Combo_fire) was removed due to performance concerns. At the Multi side, hosts have a new special command called "Free Mods" and the "Game Style" was removed (Host can adjust the Game Style in Song Selection now under "Mods"). `#userlog` was introduced to showcase your recent playing achievement privately.
 
-Ranking scoreboard, on the other hand, received two revisions in a single month. The first revision was "unified scoreboards", where the scoreboard the separated into four parts (Mods, Friends, Personal Best, Local) with score difference given below the accuracy of the layer, the removal of local scoreboard and the inability to scroll to see more of the later Top score players. Despite it was limited to osu!supporters only, it received much criticism and as such, a second revision has been issued at the near end of the month. The scoreboard was basically revered back to how it was previously, keeping the score difference gap. The prominent addition was the tabbed drop-down menu, where it house various types of ranking scoreboard. However, the new types of scoreboard \[Country, Global (Selected Mod), and Friend\] were still limited to osu!supporters only.
+Ranking scoreboard, on the other hand, received two revisions in a single month. The first revision was "unified scoreboards", where the scoreboard the separated into four parts (Mods, Friends, Personal Best, Local) with score difference given below the accuracy of the layer, the removal of local scoreboard and the inability to scroll to see more of the later Top score players. Despite it was limited to osu!supporters only, it received much criticism and as such, a second revision has been issued at the near end of the month. The scoreboard was basically revered back to how it was previously, keeping the score difference gap. The prominent addition was the tabbed drop-down menu, where it house various types of ranking scoreboard. However, the new types of scoreboard \[Country, Global (Selected Mod), and Friend] were still limited to osu!supporters only.
 
 Lastly, player's profile picture has been added beside the grade mark of their place in the ranking scoreboard. When hovered to the tab, the placement can be known as the profile picture was darken to show the placement number. Please note that this simple addition does not affect Local scoreboard in any way, as it will most likely to be flooded with your own play results with minimum to no intrusion from other players (unless the beatmap was received from other players in folder form).
 
 Links:
 
-- [osu! Public Release (b20130319)](https://osu.ppy.sh/community/forums/topics/123276)
-- [osu! Public Release (b20130325)](https://osu.ppy.sh/community/forums/topics/124366)
-- [osu! Public Release (b20130328)](https://osu.ppy.sh/community/forums/topics/124848)
-- [2013 Staff Restructuring](https://osu.ppy.sh/community/forums/topics/123510)
+-   [osu! Public Release (b20130319)](https://osu.ppy.sh/community/forums/topics/123276)
+-   [osu! Public Release (b20130325)](https://osu.ppy.sh/community/forums/topics/124366)
+-   [osu! Public Release (b20130328)](https://osu.ppy.sh/community/forums/topics/124848)
+-   [2013 Staff Restructuring](https://osu.ppy.sh/community/forums/topics/123510)
 
 ## April
 
@@ -61,13 +61,13 @@ peppy released one of the initial osu! builds from 2007 to 2009 (the one he had 
 
 Links:
 
-- [This week (month) in osu! – ppy blog](https://blog.ppy.sh/post/46924535831/this-week-month-in-osu-13)
-- [The end of the MAT](https://osu.ppy.sh/community/forums/topics/129165)
-- [osu! Public Release (2007-09)](https://osu.ppy.sh/community/forums/topics/130144)
+-   [This week (month) in osu! – ppy blog](https://blog.ppy.sh/post/46924535831/this-week-month-in-osu-13)
+-   [The end of the MAT](https://osu.ppy.sh/community/forums/topics/129165)
+-   [osu! Public Release (2007-09)](https://osu.ppy.sh/community/forums/topics/130144)
 
 ## May
 
-Game modifiers naming in results has been shorten (e.g. "Hard Rock" to "HR") to decease the limited space usage. *Most* of the broken replays in the past have been fixed. A new spectator system where you can follow the spectator target if they were spectating someone else. The update system has been reworked, most notably it will no longer force restarts unless required.
+Game modifiers naming in results has been shorten (e.g. "Hard Rock" to "HR") to decease the limited space usage. _Most_ of the broken replays in the past have been fixed. A new spectator system where you can follow the spectator target if they were spectating someone else. The update system has been reworked, most notably it will no longer force restarts unless required.
 
 During replays, half-speed replay has been added (after pressing `2x` Speed, it will show `0.5x` Speed). The playfield will not flash out the background at 100% dim. [Catch the Beat](/wiki/Game_Modes/osu!catch) received joystick support (Up/Down: change song, Right: select, Left: exit).
 
@@ -77,18 +77,18 @@ For Multi mode, players can now use Special mod (Relax/Autopilot/SpunOut/ManiaKe
 
 Three brand new Dedication [achievements](/wiki/Medals) for osu!mania have been released (40,000 / 400,000 / 4,000,000 keys pressed). User profile design has been reworked and your "last visit" will be based on connection to Bancho (that was, in-game sign-in) rather than visits to the forum. Finally, osu! hit the milestone of having 10,000 users connected simultaneously!
 
-- [osu! Public Release (b20130509)](https://osu.ppy.sh/community/forums/topics/131611)
-- [May 2013 Highlights + Map of the Month](https://osu.ppy.sh/community/forums/posts/2334705)
+-   [osu! Public Release (b20130509)](https://osu.ppy.sh/community/forums/topics/131611)
+-   [May 2013 Highlights + Map of the Month](https://osu.ppy.sh/community/forums/posts/2334705)
 
 ## June
 
-[osu! Beatmapping Contest \#4](https://osu.ppy.sh/community/forums/posts/2324098) has started. As a counter-measure against players creating lots of accounts, clarity of messaging during account registration was improved and infographic showing that you can't register from phones/tablets has been added to prevent players creating more accounts for personal reasons.
+[osu! Beatmapping Contest #4](https://osu.ppy.sh/community/forums/posts/2324098) has started. As a counter-measure against players creating lots of accounts, clarity of messaging during account registration was improved and infographic showing that you can't register from phones/tablets has been added to prevent players creating more accounts for personal reasons.
 
 Away with the security measures, users allowed to choose which game mode their profile defaults to (such as [osu!mania](/wiki/Game_Modes/osu!mania), [Taiko](/wiki/Game_Modes/osu!taiko)) and [last.fm](https://last.fm) support to profiles. User profiles now have country performance rank on their profile and a new pp graph.
 
 In-game wise, the main menu gets a new visualisation, with a blazing flare around the osu! symbol dependent on intensity of currently playing song's BPM. Performance have been optimised in song selection with many (more than ten-thousand) maps. Update process robustness and performance have been improved.
 
-Gameplay-wise, lead-in time was automatically add to any beatmaps which start abruptly to allow enough time to adjust [Visual Settings](/wiki/Visual_Settings) and total press counts for each key on the input overlay was added. For online results storages, personal best rank was show on beatmap info pages besides the \#1 player. Score submission from mania charts was allowed and Top 50 replays was stored rather than the usual Top 40. Quick repeat sliders not reaching their maximum combo has been fixed. Disqus comments added to beatmap pages. Finally, prototype testing of score meter for all modes was underway for osu!test.
+Gameplay-wise, lead-in time was automatically add to any beatmaps which start abruptly to allow enough time to adjust [Visual Settings](/wiki/Visual_Settings) and total press counts for each key on the input overlay was added. For online results storages, personal best rank was show on beatmap info pages besides the #1 player. Score submission from mania charts was allowed and Top 50 replays was stored rather than the usual Top 40. Quick repeat sliders not reaching their maximum combo has been fixed. Disqus comments added to beatmap pages. Finally, prototype testing of score meter for all modes was underway for osu!test.
 
 ![](img/2013-06_01.jpg "Account creation process")
 
@@ -104,8 +104,8 @@ Gameplay-wise, lead-in time was automatically add to any beatmaps which start ab
 
 Links:
 
-- [June 2013 Highlights + Map of the Month](https://osu.ppy.sh/community/forums/posts/2400775)
-- [Regional Team Management](https://osu.ppy.sh/community/forums/topics/132667)
+-   [June 2013 Highlights + Map of the Month](https://osu.ppy.sh/community/forums/posts/2400775)
+-   [Regional Team Management](https://osu.ppy.sh/community/forums/topics/132667)
 
 ## July
 
@@ -119,8 +119,8 @@ On 2013-07-02, peppy made the [osu!api](https://osu.ppy.sh/community/forums/topi
 
 Links:
 
-- [Summer 2013 NewBAT Applications](https://osu.ppy.sh/community/forums/topics/142864)
-- [osu!api open beta](https://osu.ppy.sh/community/forums/topics/141240)
+-   [Summer 2013 NewBAT Applications](https://osu.ppy.sh/community/forums/topics/142864)
+-   [osu!api open beta](https://osu.ppy.sh/community/forums/topics/141240)
 
 ## December
 
@@ -132,7 +132,7 @@ One of the current hot-topic for debate right now was that peppy was making a ne
 
 Links:
 
-- [I will be in malaysia (December)](https://osu.ppy.sh/community/forums/topics/163121)
-- [Schedule | Comic Fiesta 2013](https://comicfiesta.org/2013/info/event/schedule)
-- [New osu! mode announced on CF2013?](https://osu.ppy.sh/community/forums/topics/176000)
-- [Comic Fiesta 2013 Impressions & osu! Q&A Panel Session with peppy (ppy) | INFONOCHIKARA 「インフォノチカラ」 Blogotopia](https://infonochikara.wordpress.com/2013/12/30/comic-fiesta-2013-impressions-osu-qa-panel-session-with-peppy-ppy/)
+-   [I will be in malaysia (December)](https://osu.ppy.sh/community/forums/topics/163121)
+-   [Schedule | Comic Fiesta 2013](https://comicfiesta.org/2013/info/event/schedule)
+-   [New osu! mode announced on CF2013?](https://osu.ppy.sh/community/forums/topics/176000)
+-   [Comic Fiesta 2013 Impressions & osu! Q&A Panel Session with peppy (ppy) | INFONOCHIKARA 「インフォノチカラ」 Blogotopia](https://infonochikara.wordpress.com/2013/12/30/comic-fiesta-2013-impressions-osu-qa-panel-session-with-peppy-ppy/)

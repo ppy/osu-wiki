@@ -4,11 +4,11 @@ title: "New Featured Artist: Panda Eyes"
 date: 2019-11-13 16:00:00 +0000
 ---
 
-All eyes are wide open for our latest addition to the osu! Featured Artist lineup — **Panda Eyes**! Check out a selection of **63** new tracks from the artist behind *Highscore*, *Colorblind*, and more!
+All eyes are wide open for our latest addition to the osu! Featured Artist lineup — **Panda Eyes**! Check out a selection of **63** new tracks from the artist behind _Highscore_, _Colorblind_, and more!
 
 ![](https://assets.ppy.sh/artists/55/header.jpg)
 
-Yes, you heard that right — **Panda Eyes** is here, and with a goodly chunk of his discography to boot! From tracks like *Fuck Off* from *KIKO* to hits reminiscent of yesteryear like *Aurora* from *Nostalgia 64*, we've got a huge selection of a sound you most assuredly know and love.
+Yes, you heard that right — **Panda Eyes** is here, and with a goodly chunk of his discography to boot! From tracks like _Fuck Off_ from _KIKO_ to hits reminiscent of yesteryear like _Aurora_ from _Nostalgia 64_, we've got a huge selection of a sound you most assuredly know and love.
 
 Feast your ears and behold:
 
@@ -30,13 +30,11 @@ Feast your ears and behold:
     <source src="https://assets.ppy.sh/artists/55/previews/1571.mp3" type="audio/mpeg">
 </audio>
 
-
 ### Colorblind
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/55/previews/1572.mp3" type="audio/mpeg">
 </audio>
-
 
 ### Stand Still
 
@@ -44,7 +42,7 @@ Feast your ears and behold:
     <source src="https://assets.ppy.sh/artists/55/previews/1563.mp3" type="audio/mpeg">
 </audio>
 
--------
+* * *
 
 As is the usual, all of the above plus a whole ton more are available for your mapping delight over at [**Panda Eyes**' Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/55). Head on over and check the massive collection out!
 

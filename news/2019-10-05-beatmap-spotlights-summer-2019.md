@@ -14,17 +14,17 @@ The [ranking charts for Summer Spotlights](https://osu.ppy.sh/rankings/osu/chart
 
 First of all, congratulations to the winners of the Spring 2019 Seasonal Spotlights. They will receive 3, 2, and 1 month(s) of supporter for 1st, 2nd, and 3rd place respectively for their achievement!
 
-- **osu!:** [Toy](https://osu.ppy.sh/users/2757689), [Woey](https://osu.ppy.sh/users/3792472) and [xxluizxx47](https://osu.ppy.sh/users/4687701)
-- **osu!taiko:** [Jaye](https://osu.ppy.sh/users/4841352), [AlvaroYL](https://osu.ppy.sh/users/6333166) and [Whulf](https://osu.ppy.sh/users/11601107)
-- **osu!catch:** [RAMPAGE88](https://osu.ppy.sh/users/448547), [Predominador](https://osu.ppy.sh/users/4568537) and [Chatie](https://osu.ppy.sh/users/6524765)
-- **osu!mania:** [[Crz]Satori](https://osu.ppy.sh/users/7082178), [Stink God](https://osu.ppy.sh/users/7381289) and [Cryolien](https://osu.ppy.sh/users/1626983)
+-   **osu!:** [Toy](https://osu.ppy.sh/users/2757689), [Woey](https://osu.ppy.sh/users/3792472) and [xxluizxx47](https://osu.ppy.sh/users/4687701)
+-   **osu!taiko:** [Jaye](https://osu.ppy.sh/users/4841352), [AlvaroYL](https://osu.ppy.sh/users/6333166) and [Whulf](https://osu.ppy.sh/users/11601107)
+-   **osu!catch:** [RAMPAGE88](https://osu.ppy.sh/users/448547), [Predominador](https://osu.ppy.sh/users/4568537) and [Chatie](https://osu.ppy.sh/users/6524765)
+-   **osu!mania:** [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), [Stink God](https://osu.ppy.sh/users/7381289) and [Cryolien](https://osu.ppy.sh/users/1626983)
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+-   [osu!](#osu)
+-   [osu!taiko](#taiko)
+-   [osu!catch](#catch)
+-   [osu!mania](#mania)
 
 # Summer Spotlights
 
@@ -36,13 +36,13 @@ What better way to introduce a new Featured Artist's music than with [Mirash](ht
 
 Lots of rhythmic variation allow both Mirash and [RLC](https://osu.ppy.sh/users/1047883) to play around with their patterning throughout the set's difficulty spread, leaving the player with a highly diverse set of levels to play through. All of this is complimented beautifully by [Noffy](https://osu.ppy.sh/users/1541323)'s exquisite storyboard, earning this map the top spot in this season's spotlights.
 
-*written by [Toy](https://osu.ppy.sh/users/2757689)*
+_written by [Toy](https://osu.ppy.sh/users/2757689)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/osu/little.jpg)](https://osu.ppy.sh/beatmapsets/992322)
 
 [Senseabel](https://osu.ppy.sh/users/6184386)'s interpretation of "MGMT - Little Dark Age" manages to create a very funky experience for both pro and amateur players alike. Movement throughout the map is very fluid, and fits the song so well that you'll find it hard to resist cursor-dancing. Simple, yet engaging rhythm fits every element of the song, giving you immersive gameplay. Complete with impressive hitsounding, you won't want to miss out on playing this one.
 
-*written by [squirrelpascals](https://osu.ppy.sh/users/6151332)*
+_written by [squirrelpascals](https://osu.ppy.sh/users/6151332)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/osu/overtaken.jpg)](https://osu.ppy.sh/beatmapsets/898881)
 
@@ -52,7 +52,7 @@ Mixing of various kinds of aesthetic design ideas, the top difficulty raised the
 
 [Seikatu](https://osu.ppy.sh/users/654516)'s Insane difficulty and [Hectic](https://osu.ppy.sh/users/6885942)(h4d0uk3n1)'s Hard difficulty also provide a choice of classical style yet still hold the flowless playing experience, do give them a shot too if you're searching cookies for your cup of black tea!
 
-*written by [Ryuusei Aika](https://osu.ppy.sh/users/7777875)*
+_written by [Ryuusei Aika](https://osu.ppy.sh/users/7777875)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/osu/pray.jpg)](https://osu.ppy.sh/beatmapsets/940111)
 
@@ -62,7 +62,7 @@ Kalibe's unique movement and rhythm combine with Mirash's distinctive approach t
 
 Be sure to check out the Insane collaboration between [Hey lululu](https://osu.ppy.sh/users/4086497) and [Garden](https://osu.ppy.sh/users/2849992) as well, it's absolutely lovely in its own right. And of course, both diffs are complemented by a very technically impressive storyboard by [Peter](https://osu.ppy.sh/users/8623835).
 
-*written by [Deca](https://osu.ppy.sh/users/9088487)*
+_written by [Deca](https://osu.ppy.sh/users/9088487)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/osu/loser.jpg)](https://osu.ppy.sh/beatmapsets/852544)
 
@@ -70,7 +70,7 @@ Out from last year's Pending Cup comes Yonezu Kenshi's "LOSER". This mapset incl
 
 The top difficulty of the mapset by [Skystar](https://osu.ppy.sh/users/873961) also deserves praise. This map balances movement and visuals, which most recent maps fail to combine. The changing flow complements the changing tension of the music well, while the aesthetic remains exceptionally pleasant. It is no wonder why this took the winning spot of the contest.
 
-*written by [KnightC0re](https://osu.ppy.sh/users/7894340)*
+_written by [KnightC0re](https://osu.ppy.sh/users/7894340)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/osu/dear.jpg)](https://osu.ppy.sh/beatmapsets/951890)
 
@@ -78,7 +78,7 @@ The top difficulty of the mapset by [Skystar](https://osu.ppy.sh/users/873961) a
 
 The marathon itself is quite a simple difficulty, with clear visual, flow, and patterns, based on EvilElvis older mapping. In addition the slow pacing of the music and the main guitar leads are represented beautifuly by it's slider velocity and spacing changes, making this one of the best hard diffs to come out this year. To all casual, experienced and Higurashi fans out there, you should definetly try this map out.
 
-*written by [Net0](https://osu.ppy.sh/users/5099768)*
+_written by [Net0](https://osu.ppy.sh/users/5099768)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/osu/nejimaku.jpg)](https://osu.ppy.sh/beatmapsets/904067)
 
@@ -86,7 +86,7 @@ To truly evoke the sentiments tieLeaf's Nejimaku Tokei ga Tsuki no Michikake o K
 
 From ImpurePug's pattern-oriented and highly pristine style in the top difficulty which articulates the aestheticism of the track, to Mentai's strikingly raw interpretation which exceptionally captures its melodic and emotional wildness. Not to mention its charming hitsounding accompanied with a minimalist yet pleasant storyboard by ImpurePug themself with help from [Enkrypton](https://osu.ppy.sh/users/5178122). This mapset is bound to deliver an experience that immerses you into the reverie of a flowery tale and a timeless fantasy.
 
-*written by [faygo](https://osu.ppy.sh/users/5199686)*
+_written by [faygo](https://osu.ppy.sh/users/5199686)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/osu/tokio.jpg)](https://osu.ppy.sh/beatmapsets/913536)
 
@@ -94,7 +94,7 @@ With a familiar artist comes a few familiar faces. Prominent mappers [Pho](https
 
 Don't forget about the amazing hitsounds, reminiscent of Japanese festivals, immersing the players into the mood. With such effort put into this map, it is sure to leave an everlasting impression.
 
-*written by [KnightC0re](https://osu.ppy.sh/users/7894340)*
+_written by [KnightC0re](https://osu.ppy.sh/users/7894340)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/osu/radiate.jpg)](https://osu.ppy.sh/beatmapsets/967719)
 
@@ -102,7 +102,7 @@ Aggression defines this mapset, both through the harsh vocals and the even harsh
 
 The wide angles and linear patterning require jarring cursor movements, giving this map a true feel like you're playing to the music. [Senseabel](https://osu.ppy.sh/users/6184386) gives a similar, but unique take on the song using creative slider shapes, velocities, and tight patterning to give their difficulty the same jerky movement while keeping the map's visuals in-tact.
 
-*written by [Toy](https://osu.ppy.sh/users/2757689)*
+_written by [Toy](https://osu.ppy.sh/users/2757689)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/osu/kawaki.jpg)](https://osu.ppy.sh/beatmapsets/924551)
 
@@ -110,7 +110,7 @@ From countless sets of Minami's "Kawaki wo Ameku", [Karen](https://osu.ppy.sh/us
 
 [Moecho](https://osu.ppy.sh/users/5075660)'s Unraveling Rain difficulty attracts with its clear visuals, smooth movement and challenging 1/4 patterns. All of that mixed with an amazing storyboard and impressive keysounding of the well-known Tokyo Ghoul opening, "unravel", creates an unforgettable and unique gameplay experience. Make sure to check it out!
 
-*written by [Venix](https://osu.ppy.sh/users/5999631)*
+_written by [Venix](https://osu.ppy.sh/users/5999631)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/osu/itte.jpg)](https://osu.ppy.sh/beatmapsets/985066)
 
@@ -118,7 +118,7 @@ At first glance, Yorushika – Itte, mapped by [deetz](https://osu.ppy.sh/users/
 
 The map manages to constantly feel fresh throughout its four-minute playtime, but more than that, it's consistently wonderful and pleasantly surprising. Should you give this map a try? Clearly.
 
-*written by [Deca](https://osu.ppy.sh/users/9088487)*
+_written by [Deca](https://osu.ppy.sh/users/9088487)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/osu/wasureji.jpg)](https://osu.ppy.sh/beatmapsets/937736)
 
@@ -128,7 +128,7 @@ A careful, deliberate map culminates with incredibly satisfying slider patterns 
 
 It's not a fast-paced and difficult challenge like many other beatmaps, but it's enjoyable in its own right despite — or perhaps because of — its simple beauty.
 
-*written by [Deca](https://osu.ppy.sh/users/9088487)*
+_written by [Deca](https://osu.ppy.sh/users/9088487)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/osu/guardian.jpg)](https://osu.ppy.sh/beatmapsets/965524)
 
@@ -136,13 +136,13 @@ It's not a fast-paced and difficult challenge like many other beatmaps, but it's
 
 The combination of lower intensity sections that contrast with alternate style on intense sections also greatly represent the song in a map that is both a breath of new air for PandaHero and also a tribute to her main inspiration, La Cataline. It's a map that is definetly worth playing.
 
-*written by [Net0](https://osu.ppy.sh/users/5099768)*
+_written by [Net0](https://osu.ppy.sh/users/5099768)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/osu/ukiyoe.jpg)](https://osu.ppy.sh/beatmapsets/713506)
 
 It's been a good season for jazzy songs, and [Otosaka-Yu](https://osu.ppy.sh/users/3170678)'s mapset of "Ukiyoe Yokochou" pushes rhythmic variety to its limits. Featured in the Semi-Finals of OWC2018, [Brew] astounds through its very fresh-feeling rhythmic choices and patterning. Not a dull moment goes by in this action-packed 2 minutes, leaving no idea unexplored and no sound unmapped. The entire set is set to dazzle, so please take a look through it all.
 
-*written by [Toy](https://osu.ppy.sh/users/2757689)*
+_written by [Toy](https://osu.ppy.sh/users/2757689)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/osu/stand.jpg)](https://osu.ppy.sh/beatmapsets/987998)
 
@@ -150,7 +150,7 @@ It's been a good season for jazzy songs, and [Otosaka-Yu](https://osu.ppy.sh/use
 
 These two things combine to give you a very refreshing experience, to go along with an inspiring song as well. It's a map that's obviously meant to be played, and not just talked about, so what are you waiting for? Go play it, it's cute!
 
-*written by [squirrelpascals](https://osu.ppy.sh/users/6151332)*
+_written by [squirrelpascals](https://osu.ppy.sh/users/6151332)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/osu/triplaneta.jpg)](https://osu.ppy.sh/beatmapsets/1010927)
 
@@ -158,13 +158,13 @@ These two things combine to give you a very refreshing experience, to go along w
 
 An airy skip and a chill-paced dance, this map is a fantastic example of blending map design into the motif in music, with tasteful rhythm and patterning that give accentuation to momentum changes and a more freeform take on movement, culminating into a cohesive and euphoric experience you would not want to miss out.
 
-*written by [faygo](https://osu.ppy.sh/users/5199686)*
+_written by [faygo](https://osu.ppy.sh/users/5199686)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/osu/tethe.jpg)](https://osu.ppy.sh/beatmapsets/956802)
 
 If this song isn't enough to get you hyped then this mapset sure is!
 
-[ScubDomino](https://osu.ppy.sh/users/8972308) with his collaborators [ImpurePug](https://osu.ppy.sh/users/3124248), [Lv9](https://osu.ppy.sh/users/7232130), [Kalibe](https://osu.ppy.sh/users/3376777), [lewski](https://osu.ppy.sh/users/4980738) and [KKipalt](https://osu.ppy.sh/users/6889573) set out to deliver a wide range of expressive maps to Shikata Akiko's thunderous piece "TETHE'ALLA \~Tai no Kodomotachi\~".
+[ScubDomino](https://osu.ppy.sh/users/8972308) with his collaborators [ImpurePug](https://osu.ppy.sh/users/3124248), [Lv9](https://osu.ppy.sh/users/7232130), [Kalibe](https://osu.ppy.sh/users/3376777), [lewski](https://osu.ppy.sh/users/4980738) and [KKipalt](https://osu.ppy.sh/users/6889573) set out to deliver a wide range of expressive maps to Shikata Akiko's thunderous piece "TETHE'ALLA ~Tai no Kodomotachi~".
 
 At the forefront stands ScubDomino with a map which feels like a natural extension of the song rather than just another stage in a rhythm game. The high speed combined with the generous circle size allow for each emotional beat of the song to be maximized creating something truly spectacular. In a similar vein, ImpurePug delivers a map not far behind in impact.
 
@@ -172,7 +172,7 @@ Lv9 and Kalibe attempt a different more controled style to much success as well.
 
 The sound design is impeccable as well. The sonic atmosphere built through the samples used gives each map an added level of depth and expressiveness, elevating the whole set even further. You would be fooled to miss out on this set!
 
-*written by [Smokeman](https://osu.ppy.sh/users/2140676)*
+_written by [Smokeman](https://osu.ppy.sh/users/2140676)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/osu/resistance.jpg)](https://osu.ppy.sh/beatmapsets/1004248)
 
@@ -182,7 +182,7 @@ While this style isn't entirely new to the ranked section — Kalibe first intro
 
 And as if the map wasn't already enough of a masterpiece on its own, [Peter](https://osu.ppy.sh/users/8623835)'s incredibly technically impressive storyboard complements this map wonderfully for an experience that will leave you with a profound sense of awe.
 
-*written by [Deca](https://osu.ppy.sh/users/9088487)*
+_written by [Deca](https://osu.ppy.sh/users/9088487)_
 
 ## <a name="taiko" id="taiko"></a>osu!taiko
 
@@ -192,7 +192,7 @@ Topping off the summer 2019 spotlights comes Chroma - Field : Kaerezu no Chi. Th
 
 We want to congratulate tasuke912 for getting the 1st place at this Summer 2019 Spotlights!
 
-*written by [Kazu](https://osu.ppy.sh/users/920861)*
+_written by [Kazu](https://osu.ppy.sh/users/920861)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/taiko/future.jpg)](https://osu.ppy.sh/beatmapsets/963997)
 
@@ -202,15 +202,15 @@ His top difficulty manages to encapsulate the continuous hype in the songs' kiai
 
 If you crave good speed changes combined with complex patterns, be sure to give this one a try!
 
-*written by [Nepuri](https://osu.ppy.sh/users/6637817)*
+_written by [Nepuri](https://osu.ppy.sh/users/6637817)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/taiko/dream.jpg)](https://osu.ppy.sh/beatmapsets/834254)
 
 Even though it's a bit short as it is coming from a arcade rhythm game, Dream to Nightmare definitely lives up to the "Good things come in small packages".
 
-Both [Kqrth](https://osu.ppy.sh/users/4115718)'s top diff which is full of insane 1/6 bursts that can prove quite difficult to pull off and [\_WWWWWW\_WWWWWW\_](https://osu.ppy.sh/users/1981781)'s and [vrnl](https://osu.ppy.sh/users/4799788) low diffs that are greatly representative of the mood of the song are the reason we bring this mapset to the spotlight this season.
+Both [Kqrth](https://osu.ppy.sh/users/4115718)'s top diff which is full of insane 1/6 bursts that can prove quite difficult to pull off and [\_WWWWWW_WWWWWW\_](https://osu.ppy.sh/users/1981781)'s and [vrnl](https://osu.ppy.sh/users/4799788) low diffs that are greatly representative of the mood of the song are the reason we bring this mapset to the spotlight this season.
 
-*written by [Kazu](https://osu.ppy.sh/users/920861)*
+_written by [Kazu](https://osu.ppy.sh/users/920861)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/taiko/love.jpg)](https://osu.ppy.sh/beatmapsets/606771)
 
@@ -219,21 +219,21 @@ Consisting of a very consistent mapping across the whole mapset and a very fun-o
 
 But [xtrem3x](https://osu.ppy.sh/users/136385) and [eiri-](https://osu.ppy.sh/users/3388410)/[Realazy](https://osu.ppy.sh/users/918297)'s diffs don't fall short to it either, with really well polished diff that matches perfectly their spots for this mapset. Congratulations to all of them!
 
-*written by [Kazu](https://osu.ppy.sh/users/920861)*
+_written by [Kazu](https://osu.ppy.sh/users/920861)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/taiko/pictured.jpg)](https://osu.ppy.sh/beatmapsets/966235)
 
-One of the most hyped maps that came this season due to [_yu68](https://osu.ppy.sh/users/6170507)'s return to the mapping community, Pictured as Perfect, really makes up to the hype around it:
+One of the most hyped maps that came this season due to [\_yu68](https://osu.ppy.sh/users/6170507)'s return to the mapping community, Pictured as Perfect, really makes up to the hype around it:
 
 Probably the most hard low Star Rating map ever created, the diff "Portrayer" is full of really tricky tech sections in a low SV environment that proves really difficult to read even to the most experienced of players, with a wide range of both monocolor sections and high bpm sections this is very likely the most difficult map of this season's spotlight even though it may not even be the highest rated based on SR. Good luck!
 
-*written by [Kazu](https://osu.ppy.sh/users/920861)*
+_written by [Kazu](https://osu.ppy.sh/users/920861)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/taiko/reason.jpg)](https://osu.ppy.sh/beatmapsets/809965)
 
 Reason of Being by [D o t](https://osu.ppy.sh/users/8486686), with an interesting diff made by tasuke912, is a pokemon mapset which offers a clean mapping, a precise interpretation of the music and a wide arrange of rhythms and 1/6 patterns that make the map slightly challenging but definitely reasonable at the same time, which for the complexity the song provides, makes the proposition of the mappers involved in this mapset really satisfactory and enjoyable.
 
-*written by [Ulqui](https://osu.ppy.sh/users/1263669)*
+_written by [Ulqui](https://osu.ppy.sh/users/1263669)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/taiko/life.jpg)](https://osu.ppy.sh/beatmapsets/975435)
 
@@ -243,7 +243,7 @@ While the song is certainly complex and rather erratic, the mappers have managed
 
 If you love some speedy maps with complex patterns, this map will certainly fulfill your desires!
 
-*written by [Nepuri](https://osu.ppy.sh/users/6637817)*
+_written by [Nepuri](https://osu.ppy.sh/users/6637817)_
 
 ## <a name="catch" id="catch"></a>osu!catch
 
@@ -253,7 +253,7 @@ Despite being the third ranked set of the song, [Yumeno Himiko](https://osu.ppy.
 
 The use of simple patterns are a breath of fresh air, keeping movement controlled and engaging, and allowing the electronic section that appears later to contrast and stand out even further when highlighted with extended sliders that are extremely satisfying to play. To top it all off, the storyboard by TheDuckMask is incredibly well done, with both interesting visuals and a small story. This is one of the best maps that have been ranked this year, give it a play.
 
-*written by [Sinnoh](https://osu.ppy.sh/users/4236057)*
+_written by [Sinnoh](https://osu.ppy.sh/users/4236057)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/catch/emperor.jpg)](https://osu.ppy.sh/beatmapsets/979438)
 
@@ -265,7 +265,7 @@ But lets not forget the difficulty from Ascendance either. His map is very simil
 
 The mapset also features a neatly mapped Platter which gives a good ground for those who are not yet learned how to handle higher speed and bigger jumps. This is a very good mapset and definietly deserves its place in the Spotlights!
 
-*written by [Kurokami](https://osu.ppy.sh/users/260933)*
+_written by [Kurokami](https://osu.ppy.sh/users/260933)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/catch/twinkling.jpg)](https://osu.ppy.sh/beatmapsets/983342)
 
@@ -273,7 +273,7 @@ With a fresh clean style of catch mapping, [Lacrima](https://osu.ppy.sh/users/49
 
 With an Approach Rate of 8.8, you can also give a try with DoubleTime on this map if you want some challenges! This is a benchmark of Rain mapping with comfortable flows, make sure you have a try on this map!
 
-*written by [Yumeno Himiko](https://osu.ppy.sh/users/1806962)*
+_written by [Yumeno Himiko](https://osu.ppy.sh/users/1806962)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/catch/illusion.jpg?1)](https://osu.ppy.sh/beatmapsets/972887)
 
@@ -281,7 +281,7 @@ Being the first Featured Artist mapset for [Jemzuu](https://osu.ppy.sh/users/789
 
 Majeure has fun and technical streams with tap dashes and wiggles, which are especially challenging with HD mod on. AFB's Rain proposes a simple and comfortable flow with some 1/4 normal dashes and gimmick 1/6 jumps. Hyperion's Platter focuses on providing varying flow and gimmicky walks, being a wonderful step-up difficulty for newbie players.
 
-*written by [F D Flourite](https://osu.ppy.sh/users/2459589)*
+_written by [F D Flourite](https://osu.ppy.sh/users/2459589)_
 
 ## <a name="mania" id="mania"></a>osu!mania
 
@@ -295,7 +295,7 @@ Mystic definitely outdone himself with this work of art. Song choice accompanies
 
 Oh, and here's your venti frappuccino—thank u, next.
 
-*written by [Dergo](https://osu.ppy.sh/users/7439226)*
+_written by [Dergo](https://osu.ppy.sh/users/7439226)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/mania/nanamori.jpg)](https://osu.ppy.sh/beatmapsets/913114)
 
@@ -307,11 +307,11 @@ Thirdly, the mix of patterns in this map gives it a lot of good replay value; it
 
 In addition, [Murumoo](https://osu.ppy.sh/users/8001433)'s difficulties are straightforward and fun to play for players who aren't yet up to the challenges that the upper difficulties set, and also adhere to the concept of smooth flow mentioned earlier in the top difficulty. In general, this mapset is extremely solid and well done, and LeiN- and Murumoo most certainly deserve this mapset's spot in this season's osu!mania spotlights!
 
-*written by [-mint-](https://osu.ppy.sh/users/8976576)*
+_written by [-mint-](https://osu.ppy.sh/users/8976576)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/mania/delta.jpg)](https://osu.ppy.sh/beatmapsets/928491)
 
-[Dergo](https://osu.ppy.sh/users/7439226), [-mint-](https://osu.ppy.sh/users/8976576), and [_Kobii](https://osu.ppy.sh/users/6209713)'s d:for the DELTA (Camellia's "PLANETARY//DUBSTEP" Remix) is perhaps one of the most audacious ranked maps this year, and quickly became well known among higher-level players in the osu!mania community due to it's uniqueness in comparison to other maps around its difficulty level.
+[Dergo](https://osu.ppy.sh/users/7439226), [-mint-](https://osu.ppy.sh/users/8976576), and [\_Kobii](https://osu.ppy.sh/users/6209713)'s d:for the DELTA (Camellia's "PLANETARY//DUBSTEP" Remix) is perhaps one of the most audacious ranked maps this year, and quickly became well known among higher-level players in the osu!mania community due to it's uniqueness in comparison to other maps around its difficulty level.
 
 Dergo's sections start (and end) the song with an exciting technical interpretation of the song, combining light yet tough long note patterns focusing on jacks, long trills, and difficult releases along with intense longer bursts. His attention to detail in the quieter portions of the song is also quite impressive, as he made sure to differentiate different instruments though LN usage, column placements, and repetition.
 
@@ -321,7 +321,7 @@ mint's sections also took a technical approach to the song, but in a different w
 
 Despite featuring three mappers with extremely different styles, the map flows together quite smoothly and may arguably be one of the most exciting higher-level ranked 4k maps to date!
 
-*written by [-MysticEyes](https://osu.ppy.sh/users/6253266)*
+_written by [-MysticEyes](https://osu.ppy.sh/users/6253266)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/mania/towards.jpg)](https://osu.ppy.sh/beatmapsets/961186)
 
@@ -329,7 +329,7 @@ Not a new face to osu!mania spotlights, but surely a welcome one, [-mint-](https
 
 As the meta of the ranked section continues to morph, the influence and prevalence of Long Note mappers continues to grow and grow. Even through this influx, mint's expert design and flow stands a step ahead and earns her a well-deserved spot in the summer spotlights.
 
-*written by [Toaph Daddy](https://osu.ppy.sh/users/7616811)*
+_written by [Toaph Daddy](https://osu.ppy.sh/users/7616811)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/mania/life.jpg)](https://osu.ppy.sh/beatmapsets/860089)
 
@@ -337,11 +337,11 @@ As the meta of the ranked section continues to morph, the influence and prevalen
 
 With the mapset also containing guest difficulties by [KeppSado](https://osu.ppy.sh/users/11085809), [Leniane](https://osu.ppy.sh/users/7138602), and [LeiN-](https://osu.ppy.sh/users/2162939), it allows for a diverse set of difficulties that create a different experience in each difficulty for a huge range of players. I mean, one could even say that this mapset is ... beautiful.
 
-*written by [-mint-](https://osu.ppy.sh/users/8976576)*
+_written by [-mint-](https://osu.ppy.sh/users/8976576)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/mania/fatalism.jpg)](https://osu.ppy.sh/beatmapsets/989858)
 
-In the spirit of the song's dramatic and melancholic nature, [_Kobii](https://osu.ppy.sh/users/6209713)'s Fatalism is a gorgeous showcase of his intuitive long note mapping style. It mixes vocal and instrumental emphasis in a comfortable yet difficult way that makes the map extremely fun to play overall.
+In the spirit of the song's dramatic and melancholic nature, [\_Kobii](https://osu.ppy.sh/users/6209713)'s Fatalism is a gorgeous showcase of his intuitive long note mapping style. It mixes vocal and instrumental emphasis in a comfortable yet difficult way that makes the map extremely fun to play overall.
 
 The map really shines in the intense instrumental sections as well as the quieter portions of the song, for surprisingly different reasons. His instrumental emphasis mostly revolved around chords with different releases to emphasize instrument type and pitch, inverse sections to bring out the louder, more distinctive instrument parts, and some emphasis via long note length for separating out less intense pitches from more intense ones.
 
@@ -349,7 +349,7 @@ The quieter sections were very satisfying conceptually, especially after the fou
 
 His sheer creativity made this map quite exciting to play as well as look at in the editor, and it's definitely a strong example of a solid Long Note map!
 
-*written by [-MysticEyes](https://osu.ppy.sh/users/6253266)*
+_written by [-MysticEyes](https://osu.ppy.sh/users/6253266)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/mania/drug.jpg)](https://osu.ppy.sh/beatmapsets/717251)
 
@@ -359,7 +359,7 @@ As what the community expects, Collab Another by Fontes and Wonki features well-
 
 However, in an attempt to keep the enjoyment from Another, Fontes leaves most part of SVs as a key feature of Insane. On the other hand, Hard by Murumoo and Normal by Agayers serve as effective low difficulties for the mapset, which gives new players chances to enjoy this song as well. In general, this is a banger mapset of a banger song, which gives rise to its high popularity in the player community and therefore the definite appearance in Spotlight!
 
-*written by [Tofu1222](https://osu.ppy.sh/users/6089608)*
+_written by [Tofu1222](https://osu.ppy.sh/users/6089608)_
 
 [![](/wiki/shared/news/2019-10-05-beatmap-spotlights-summer-2019/mania/jump.jpg)](https://osu.ppy.sh/beatmapsets/851107)
 
@@ -367,9 +367,9 @@ Well-known in the tournament scene, and a familiar face to the ranked section, [
 
 Technical patterns, most of the time combined with LNs, can be spotted throughout the map, making it exceedingly difficult even for high-level players. Curiossity has proven time and again that he knows exactly how to craft a map that keeps people invested throughout its duration, and we hope that he will bring more maps like this to the ranked section in the near future!
 
-*written by [-mint-](https://osu.ppy.sh/users/8976576)*
+_written by [-mint-](https://osu.ppy.sh/users/8976576)_
 
----
+* * *
 
 The spreadsheet is available for everyone who is interested to take a look at how we selected these mapsets. Do not be afraid to take a look at it [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vS4e7xNtDIFjlYurzJuNIwBiknKxG5QWsHk4b7wUandAdHL6I7IY_Ov6SR6EAlKE7SeIesjeAdinrho/pubhtml)!
 

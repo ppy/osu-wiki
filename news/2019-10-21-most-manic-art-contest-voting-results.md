@@ -34,17 +34,17 @@ In perhaps the closest result in any art contest we've held so far, [**crystalsu
 
 No strangers to crystalsuicune's work, we were delighted to see them taking another go after designing Tama, whom to this day, remains the favourite piece of one unnamed person who writes these articles.
 
--------
+* * *
 
 We'd also like to congratulate the following users for their exemplary performance in the voting:
 
-* #4: [**JinairuSensie**](https://osu.ppy.sh/users/10932731) with **1819** votes
-* #5: [**Laridae**](https://osu.ppy.sh/users/2610348) with **1783** votes
-* #6: [**leleisama29**](https://osu.ppy.sh/users/12992044) with **1605** votes
-* #7: [**kurisu illusia**](https://osu.ppy.sh/users/6140529) with **1592** votes
-* #8: [**xiemon**](https://osu.ppy.sh/users/5203667) with **1531** votes
-* #9: [**blarackoklahoma**](https://osu.ppy.sh/users/7457620) with **1524** votes
-* #10: [**bty**](https://osu.ppy.sh/users/7425199) with **1204** votes
+-   \#4: [**JinairuSensie**](https://osu.ppy.sh/users/10932731) with **1819** votes
+-   \#5: [**Laridae**](https://osu.ppy.sh/users/2610348) with **1783** votes
+-   \#6: [**leleisama29**](https://osu.ppy.sh/users/12992044) with **1605** votes
+-   \#7: [**kurisu illusia**](https://osu.ppy.sh/users/6140529) with **1592** votes
+-   \#8: [**xiemon**](https://osu.ppy.sh/users/5203667) with **1531** votes
+-   \#9: [**blarackoklahoma**](https://osu.ppy.sh/users/7457620) with **1524** votes
+-   \#10: [**bty**](https://osu.ppy.sh/users/7425199) with **1204** votes
 
 [**Check out the contest listing for the full voting tallies on all entries, plus handy links to view the winners!**](https://osu.ppy.sh/community/contests/80)
 
@@ -52,7 +52,7 @@ Now, to be extra clear, the results of this contest **do not mean that the first
 
 Faced with the near impossible task of deciding from this incredible deluge of talent, the osu!team must now retreat to the mountains in order to decide upon the fated artist of the ages, the one whom has impressed us collectively the most to have their concept made into reality as the official osu!mania game mode mascots.
 
-Please also understand that we are at liberty to choose *anyone* from the contest running regardless of their place in the final scoring, though we will absolutely factor in the popularity of the design as one of the elements we consider.
+Please also understand that we are at liberty to choose _anyone_ from the contest running regardless of their place in the final scoring, though we will absolutely factor in the popularity of the design as one of the elements we consider.
 
 We'll do our best to be timely on the matter, but we ask for your patience as we undergo deliberations.
 

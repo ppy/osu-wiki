@@ -1,10 +1,10 @@
 # Storyboard scripting cheat sheet
 
-Original Post: [*[Official Specifications] Storyboarding by Scripting* by: Echo](https://osu.ppy.sh/community/forums/topics/1869)
+Original Post: [_\[Official Specifications\] Storyboarding by Scripting_ by: Echo](https://osu.ppy.sh/community/forums/topics/1869)
 
 ## Storyboarding by Scripting
 
-In the .osu file, under [Events]: *Note: underscores can be replaced with spaces.*
+In the .osu file, under [Events]&#x3A; _Note: underscores can be replaced with spaces._
 
 ### Sprites and Animations
 
@@ -12,25 +12,21 @@ The size of the active playfield is 640 pixels wide by 480 pixels high. For stat
 
 Static Sprite:
 
-```
-Sprite,"layer","origin","filepath",x,y
-_event, easing, starttime, endtime, [params]
-_event, [...]
-_event, [...]
-```
+    Sprite,"layer","origin","filepath",x,y
+    _event, easing, starttime, endtime, [params]
+    _event, [...]
+    _event, [...]
 
 Animation:
 
-```
-Animation,"layer","origin","filepath",x,y,frameCount,frameDelay,looptype
-_event,easing,starttime,endtime,[params]
-_event, [...]
-_event, [...]
-```
+    Animation,"layer","origin","filepath",x,y,frameCount,frameDelay,looptype
+    _event,easing,starttime,endtime,[params]
+    _event, [...]
+    _event, [...]
 
 **For animations, specify a filename like "sliderball.png", and name your files "sliderball0.png" to "sliderball9.png" for a 10 frame animation.**
 
-**frameCount**: number of frames in the animation **frameDelay**: delay in milliseconds between each frame. **looptype**: *LoopForever* by default
+**frameCount**: number of frames in the animation **frameDelay**: delay in milliseconds between each frame. **looptype**: _LoopForever_ by default
 
 -   **LoopForever** - Loops over and over again
 -   **LoopOnce** - Loops once and stops on last frame.
@@ -44,7 +40,7 @@ Z-order (back to front) is determined by the order the files appear in the .osu 
 -   2 - Pass
 -   3 - Foreground
 
-*Note: Background and Foreground are always visible.*
+_Note: Background and Foreground are always visible._
 
 **origin**:
 
@@ -61,7 +57,7 @@ Z-order (back to front) is determined by the order the files appear in the .osu 
 
 All Rotations and Size changes (Including Vector Scaling) are affected by origin.
 
-**filepath**: relative path of the image file (should be in the same directory as the .osu file) *Note: file path must be in double quotes if it has spaces in the filename*
+**filepath**: relative path of the image file (should be in the same directory as the .osu file) _Note: file path must be in double quotes if it has spaces in the filename_
 
 **x, y**: the position of the image **Note**: (0,0) is the top left corner while (640,480) is the bottom right corner.
 
@@ -95,11 +91,11 @@ For each of the event types below, the initial value(s) of that event will assum
 
 **endopacity**: the opacity at the end of the animation
 
-*Note: 0 - invisible, 1 - fully visible*
+_Note: 0 - invisible, 1 - fully visible_
 
 `_M,[...],startx,starty,endx,endy`
 
-**startx, starty**: the position at the beginning of the animation **endx, endy**: the position at the end of the animation *Note*: the size of the play field is (640,480), with (0,0) being top left corner.
+**startx, starty**: the position at the beginning of the animation **endx, endy**: the position at the end of the animation _Note_: the size of the play field is (640,480), with (0,0) being top left corner.
 
 `_S,[...],startscale,endscale`
 
@@ -121,7 +117,7 @@ Note: positive angle is clockwise rotation
 
 **r1, g1, b1**: the starting component-wise colour **r2, g2, b2**: the finishing component-wise colour
 
-sprites with (255,255,255) will be their original colour. sprites with (0,0,0) will be \[b\]totally black\[/b\]. anywhere in between will result in subtractive colouring. to make full use of this, brighter grayscale sprites work very well.
+sprites with (255,255,255) will be their original colour. sprites with (0,0,0) will be \[b]totally black\[/b]. anywhere in between will result in subtractive colouring. to make full use of this, brighter grayscale sprites work very well.
 
 `_MX,[...],startx,endx`
 
@@ -137,21 +133,19 @@ sprites with (255,255,255) will be their original colour. sprites with (0,0,0) w
 
 using the shorthand below with parameters is possible. the applied parameters will take effect during the duration specified only.
 
-***shorthand***: This notation can be used to quickly script a large number of the same kind of event over the same time span.
+**_shorthand_**: This notation can be used to quickly script a large number of the same kind of event over the same time span.
 
 `_event,easing,starttime,endtime,val1,val2,val3,...,valN`
 
 would create events:
 
-```
-_event,easing,starttime,endtime,val1,val2
-_event,easing,starttime + duration,endtime + duration,val2,val3
-_event,easing,starttime + 2duration,endtime + 2duration,val3,val4
-```
+    _event,easing,starttime,endtime,val1,val2
+    _event,easing,starttime + duration,endtime + duration,val2,val3
+    _event,easing,starttime + 2duration,endtime + 2duration,val3,val4
 
 etc.
 
-***shorthand2***: This notation can be used when the start and end time of the event is the same.
+**_shorthand2_**: This notation can be used when the start and end time of the event is the same.
 
 `_M,0,1000,1000,320,240,320,240`
 
@@ -159,9 +153,9 @@ becomes
 
 `_M,0,1000,,320,240,320,240`
 
-Please note the blank space in the endtime field - this is \[b\]required\[/b\].
+Please note the blank space in the endtime field - this is \[b]required\[/b].
 
-***shorthand3***: This notation can be used when the start and end values of the event are the same.
+**_shorthand3_**: This notation can be used when the start and end values of the event are the same.
 
 `_M,0,1000,,320,240,320,240`
 
@@ -171,33 +165,27 @@ becomes
 
 ### Looping
 
-***Standard Loops***: Loops can be defined to repeat a set of events constantly for a set number of iterations.
+**_Standard Loops_**: Loops can be defined to repeat a set of events constantly for a set number of iterations.
 
-```
-_L,starttime,loopcount
-__event, [...]
-__event, [...]
-```
+    _L,starttime,loopcount
+    __event, [...]
+    __event, [...]
 
 **starttime**: the time of the first loop's start. **loopcount**: number of times to repeat the loop.
 
-Note that events inside a loop should be timed with a \[b\]zero-base\[/b\]. This means that you should \[b\]start from 0ms\[/b\] for the inner event's timing and work up from there. The loop event's start time will be added to this value at game runtime.
+Note that events inside a loop should be timed with a \[b]zero-base\[/b]. This means that you should \[b]start from 0ms\[/b] for the inner event's timing and work up from there. The loop event's start time will be added to this value at game runtime.
 
-```
-_L,starttime,loopcount
-__event, [...]
-__event, [...]
-```
+    _L,starttime,loopcount
+    __event, [...]
+    __event, [...]
 
-***Trigger Loops***:
+**_Trigger Loops_**:
 
 Trigger loops can be used to trigger animations based on play-time events. Although called loops, trigger loops only execute once when triggered.
 
-```
-_T,triggerName,start,end
-__event, [...]
-__event, [...]
-```
+    _T,triggerName,start,end
+    __event, [...]
+    __event, [...]
 
 **start**: When the trigger is valid **end** : When the trigger stops being valid
 
@@ -229,17 +217,15 @@ Foreground = **3**
 
 **filepath**: relative path of the sound file (should be in the same directory as the .osu file)
 
-*Note: file path must be in double quotes*
+_Note: file path must be in double quotes_
 
 **volume**: volume of the sound file. (1-100) Can be left off for 100.
 
 ### Variables
 
-Primitive support for variables is now available. You can define any number of variables by includin a \[Variables\] section in the .osb file (currently not supported in .osu-specific storyboarding).
+Primitive support for variables is now available. You can define any number of variables by includin a \[Variables] section in the .osb file (currently not supported in .osu-specific storyboarding).
 
-```
-[Variables]
-$white=255,255,255
-```
+    [Variables]
+    $white=255,255,255
 
 Once you define variables, you can use them \*anywhere\* in the storyboard. This means you can have a variable containing as much as a whole line. Please don't make variable too small for the moment (ie. don't assign $var=1) because the editor is not smart enough to know where to put variables when it saves. All occurrences of the variables will currently be replaced at save time (so if you have one place you used $white and another you used 255,255,255 they will both become $white after a save in the editor).

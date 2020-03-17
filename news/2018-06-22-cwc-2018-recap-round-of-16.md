@@ -8,7 +8,7 @@ Two weeks of frantic fruit-catching in the osu!catch World Cup 2018 completed, a
 
 ![](/wiki/shared/news/banners/CWC_2018_banner.jpg)
 
-Hello once again one and all, [JBHyperion](https://osu.ppy.sh/users/4879508) here to deliver your weekly round-up on all the action from this year's edition of the osu!catch World Cup. Following on from one of the most incredible Group Stages ever seen in an osu! World Cup, last weekend's Round of 16 saw our remaining teams each jostling for position in the march to becoming this year's *osu!catch Champions*.
+Hello once again one and all, [JBHyperion](https://osu.ppy.sh/users/4879508) here to deliver your weekly round-up on all the action from this year's edition of the osu!catch World Cup. Following on from one of the most incredible Group Stages ever seen in an osu! World Cup, last weekend's Round of 16 saw our remaining teams each jostling for position in the march to becoming this year's _osu!catch Champions_.
 
 Eight more matches were shown live on stream this past Sunday, each delivering further energy and excitement, shocks and swerves, as the tournament bracket continues to take shape.
 

@@ -50,9 +50,9 @@ Aimod是一个内置于beatmap editor中的一个工具，你可以在“File-->
 
 解决：
 
-- Timing-->Resnap All Notes，可以重新对齐大部分物件
-- Timing-->Move all notes in time，如果只改变了offset（偏移量），可以修改这个
-- 自行在时间轴上拖放物件
+-   Timing-->Resnap All Notes，可以重新对齐大部分物件
+-   Timing-->Move all notes in time，如果只改变了offset（偏移量），可以修改这个
+-   自行在时间轴上拖放物件
 
 ### Design（背景设计）
 

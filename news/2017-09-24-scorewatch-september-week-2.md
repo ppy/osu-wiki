@@ -20,7 +20,7 @@ Scorewatch continues to thrive with more incredible plays from the community! We
 
 <iframe width="100%" height="315"  src="https://www.youtube.com/embed/TptBK7zWrdU" frameborder="0" allowfullscreen></iframe></br>
 
-[_yu68](https://osu.ppy.sh/users/6170507) has gotten the top pp play in osu!taiko in a cheeky fashion, by setting the first HDDT FC on hs own map, [D(ABE3) - MANIERA](https://osu.ppy.sh/beatmaps/871924?m=1), with a fascinating accuracy of 99.19% to grab 792pp on the 10.31* difficulty! _yu68 is definitely a virtuoso!
+[\_yu68](https://osu.ppy.sh/users/6170507) has gotten the top pp play in osu!taiko in a cheeky fashion, by setting the first HDDT FC on hs own map, [D(ABE3) - MANIERA](https://osu.ppy.sh/beatmaps/871924?m=1), with a fascinating accuracy of 99.19% to grab 792pp on the 10.31\* difficulty! \_yu68 is definitely a virtuoso!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/l1xh-748ExY" frameborder="0" allowfullscreen></iframe></br>
 
@@ -42,7 +42,7 @@ Once again, do support [osu!archive](https://www.reddit.com/r/osugame/comments/7
 
 ## SCORESHOW WITH ZSEIKIMATSU
 
-[WindyS](https://osu.ppy.sh/users/1190879) takes on [cheewee10](https://osu.ppy.sh/users/4477497) on the 6* 7K map [m108 - * Crow Solace *](https://osu.ppy.sh/beatmapsets/354157).
+[WindyS](https://osu.ppy.sh/users/1190879) takes on [cheewee10](https://osu.ppy.sh/users/4477497) on the 6_ 7K map \[m108 - _ Crow Solace \*](<https://osu.ppy.sh/beatmapsets/354157>).
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/YwobO3E0lz0" frameborder="0" allowfullscreen></iframe></br>
 

@@ -6,13 +6,13 @@ outdated: true
 
 # 历史
 
-PP这一评定方式是在2012年4月以**???**的形式公测的，然后在2012年4月17日正式重命名为**PP** (Performance Points)。在同年7月24日的\[<https://osu.ppy.sh/community/forums/posts/1687719>| (20120722-24) osu! release\]中替换原有的**分数**排名系统，并且每隔30分钟更新一次用户数据。在同年8月16日至今，PP系统的数据已经是实时更新的了。
+PP这一评定方式是在2012年4月以**???**的形式公测的，然后在2012年4月17日正式重命名为**PP** (Performance Points)。在同年7月24日的\[<https://osu.ppy.sh/community/forums/posts/1687719>| (20120722-24) osu! release]中替换原有的**分数**排名系统，并且每隔30分钟更新一次用户数据。在同年8月16日至今，PP系统的数据已经是实时更新的了。
 
 更多详细信息请参考[更新记录](https://osu.ppy.sh/community/forums/topics/92185)。
 
 # 位置
 
-PP的排名可以在[这里](https://osu.ppy.sh/p/pp)查看，同时也可以在游戏用户信息框中查看。 或是在網站上方導覽列可以找到(Rankings -&gt; Performance)
+PP的排名可以在[这里](https://osu.ppy.sh/p/pp)查看，同时也可以在游戏用户信息框中查看。 或是在網站上方導覽列可以找到(Rankings -> Performance)
 
 # 计算方式
 

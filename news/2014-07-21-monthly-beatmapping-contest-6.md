@@ -11,7 +11,7 @@ The only restrictions for this contest are:
 
 -   All notes must be properly snapped in time, and no multiple hit objects may be placed on the same tick as each other.
 -   Notes placed must be within the playfield.
--   You may submit ONE (1) and ONLY one beatmap difficulty to this contest. *Its difficulty name must be "Aspire."*
+-   You may submit ONE (1) and ONLY one beatmap difficulty to this contest. _Its difficulty name must be "Aspire."_
 -   The beatmap may be as difficult as you like and incorporate as many complex elements as you feel appropriate, but it MUST be designed for a single player - no TAG difficulties of any kind, construed or otherwise.
 -   You must map the full duration of the song, start to finish. A drain time lower than 75% of the song's total duration is not allowed.
 

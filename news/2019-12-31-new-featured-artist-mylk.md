@@ -10,7 +10,7 @@ date: 2019-12-31 08:00:00 +0000
 
 The end of the year is well and truly here and with it, our last addition to the roster for the decade. It's been a wild year of amping up the pace, and what better note to leave it on than the bubblegum blast that is **MYLK**!
 
-**MYLK**'s featured in a bunch of collaborative works across the EDM scene as a vocalist, working alongside artists like *Muzzy*, *Feint*, and *Moe Shop*.
+**MYLK**'s featured in a bunch of collaborative works across the EDM scene as a vocalist, working alongside artists like _Muzzy_, _Feint_, and _Moe Shop_.
 
 She's also an avid producer in her own right with a whopping assortment of singles and tracks, and we're delighted to announce that we have **15** brand new tracks from her ensemble for you to embrace, all guaranteed to be extremely high in calcium, sugar, and punchy EDM pop that wriggles into your earholes and refuses to leave.
 
@@ -58,7 +58,7 @@ They're included in the preview bits below, so make sure to give them a look:
     <source src="https://assets.ppy.sh/artists/62/previews/1754.mp3" type="audio/mpeg">
 </audio>
 
----
+* * *
 
 As always, all of the above plus so much more is available right now from [**MYLK**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/62), pre-timed by the most pishi of fats and all primed and ready for you to work your mapping magic with.
 

@@ -17,25 +17,32 @@ Support Team 主要负责:
 
 ## 成员
 
-*本组成员除特殊标注外皆可使用英语，[此处为Support Team成员页](https://osu.ppy.sh/groups/22)。*
+_本组成员除特殊标注外皆可使用英语，[此处为Support Team成员页](https://osu.ppy.sh/groups/22)。_
 
-| Name | 除英语外其他熟练语言 |
-| :-- | :-- |
-| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | |
-| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | |
-| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | |
-| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | 菲律宾语 |
-| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | |
-| ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | 瑞典语, 西班牙语 |
-| ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | |
-| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | 德语 |
-| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | 西班牙语 |
+| Name                                                          | 除英语外其他熟练语言 |
+| :------------------------------------------------------------ | :--------- |
+| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450)        |            |
+| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |            |
+| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094)    |            |
+| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078)    | 菲律宾语       |
+| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454)        |            |
+| ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506)         | 瑞典语, 西班牙语  |
+| ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328)    |            |
+| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058)        | 德语         |
+| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385)       | 西班牙语       |
 
 [flag_AU]: /wiki/shared/flag/AU.gif
+
 [flag_CA]: /wiki/shared/flag/CA.gif
+
 [flag_DE]: /wiki/shared/flag/DE.gif
+
 [flag_ES]: /wiki/shared/flag/ES.gif
+
 [flag_NO]: /wiki/shared/flag/NO.gif
+
 [flag_PH]: /wiki/shared/flag/PH.gif
+
 [flag_SE]: /wiki/shared/flag/SE.gif
+
 [flag_US]: /wiki/shared/flag/US.gif

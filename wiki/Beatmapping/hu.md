@@ -10,10 +10,10 @@ A készítők a mapjeiket általában ranked-elni akarják, ami tartalmazza a ma
 
 A leggyakrabban előforduló nehézségi szintek:
 
-- Könnyű (Easy)
-- Normál (Normal)
-- Nehéz (Hard)
-- Őrült (Insane)
+-   Könnyű (Easy)
+-   Normál (Normal)
+-   Nehéz (Hard)
+-   Őrült (Insane)
 
 A különböző linkekre kattintva meg fognak jelenni azok az irányelvek, melyeket a map-készítőknek követniük kell, hogy a nehézségi szinteknek megfelelően szórakoztató beatmapeket tudjanak készíteni.
 

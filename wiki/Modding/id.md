@@ -6,13 +6,13 @@ outdated: true
 
 Modding adalah proses moderasi dari satu mapper ke mapper yang lain yang bersangkutan dengan [beatmap](/wiki/Beatmapping) yang dimoderasinya. Proses moderasi ini memberikan saran untuk mengembangkan beatmapnya hingga ke proses ranked atau setidaknya approved. Tiga manfaat utama dari modding antara lain:
 
-1. Dengan melakukan modding, biasanya modder (yang memberikan moderasi) akan diberikan [kudosu star](/wiki/Glossary) yang bisa digunakan untuk meningkatkan star rating pada map miliknya atau map yang lain.
+1.  Dengan melakukan modding, biasanya modder (yang memberikan moderasi) akan diberikan [kudosu star](/wiki/Glossary) yang bisa digunakan untuk meningkatkan star rating pada map miliknya atau map yang lain.
 
 **Catatan**: Jika melakukan modding pada beatmap yang tidak ada balasan dari modder lain selama 2 minggu, maka jumlah kudosu yang akan diterima adalah 2, bukan 1.
 
-2. "Mod4Mod", dimana Anda membuat persetujuan dengan seseorang untuk melakukan modding terhadap mapnya dengan syarat ia turut me-mod map Anda. Ini adalah cara yang baik untuk mendatangkan mod kepada map Anda.
+2.  "Mod4Mod", dimana Anda membuat persetujuan dengan seseorang untuk melakukan modding terhadap mapnya dengan syarat ia turut me-mod map Anda. Ini adalah cara yang baik untuk mendatangkan mod kepada map Anda.
 
-3. Mod post yang baik akan mengurangi kesalahan mendasar, sehingga mempersingkat waktu tim approval ([BAT](/wiki/People/Beatmap_Nominators)) untuk mencari-cari kesalahan. Ini akan membuat tim approval tidak frustasi, dan pada akhirnya mereka akan lebih tertarik untuk me-mod map Anda. Percayalah, [MAT](/wiki/Glossary) yang baik secara umum lebih bahagia dibandingkan dengan MAT yang hanya menyarankan "Map ini masih butuh modding lebih".
+3.  Mod post yang baik akan mengurangi kesalahan mendasar, sehingga mempersingkat waktu tim approval ([BAT](/wiki/People/Beatmap_Nominators)) untuk mencari-cari kesalahan. Ini akan membuat tim approval tidak frustasi, dan pada akhirnya mereka akan lebih tertarik untuk me-mod map Anda. Percayalah, [MAT](/wiki/Glossary) yang baik secara umum lebih bahagia dibandingkan dengan MAT yang hanya menyarankan "Map ini masih butuh modding lebih".
 
 Jika Anda ingin belajar bagaimana cara untuk [mapping](/wiki/Beatmapping), atau Anda ingin lebih mempertajam kemampuan mapping anda, modding adalah salah satu cara yang efektif.
 

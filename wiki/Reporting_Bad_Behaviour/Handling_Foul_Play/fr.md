@@ -8,11 +8,11 @@ outdated: true
 
 Un utilisateur peut faire l'objet d'une restriction s'il effectue l'une des actions suivantes:
 
-- Mauvais comportement continu, quel que soit le nombre d'infractions qu'ils accumulent.
-- Contourner une punition en créant un nouveau compte.
-- Partage de leur compte avec d'autres utilisateurs.
-- Plusieurs comptes
-- Hacking ou triche (voir ci-dessous).
+-   Mauvais comportement continu, quel que soit le nombre d'infractions qu'ils accumulent.
+-   Contourner une punition en créant un nouveau compte.
+-   Partage de leur compte avec d'autres utilisateurs.
+-   Plusieurs comptes
+-   Hacking ou triche (voir ci-dessous).
 
 ## Qu'est-ce qui est considéré comme multi compte ?
 
@@ -32,10 +32,10 @@ osu! utilise des métriques automatisées associées à une confirmation manuell
 
 ## Pourquoi suis-je banni ?
 
-- 10 mutes d'affilée, affichés sur votre page d'utilisateur.
-- Vous avez donné votre compte à quelqu'un d'autre.
-- Vous avez créé plusieurs comptes.
-- Vous avez triché (voir ci-dessous).
+-   10 mutes d'affilée, affichés sur votre page d'utilisateur.
+-   Vous avez donné votre compte à quelqu'un d'autre.
+-   Vous avez créé plusieurs comptes.
+-   Vous avez triché (voir ci-dessous).
 
 ## Qu'est ce qui est considéré comme de la triche ?
 
@@ -61,10 +61,10 @@ Désolé, mais si vous avez été banni, le staff est déjà sûr à 100% que vo
 
 Restez calme. **N'en parlez pas dans le chat public.** Ne donnez ces informations à aucune personne d'autre que le staff. Voici quatre solutions pour effectuer ce signalement:
 
-1. Cliquez sur le lien "Report" à côté de leur score, sur la page web de la beatmap.
-2. Utilisez la commande `!report`, en jeu, pour envoyer un message au canal des modérateurs. (Selon le modèle `!report <Nom d'utilisateur> <raison>`)
-3. Envoyez un message privé au [modérateur de votre canal](/wiki/People/Language_Moderators) ou à un [GMT](/wiki/People/Global_Moderation_Team). Ils se chargeront de faire circuler le message.
-4. Envoyez un mail à <osu@ppy.sh>.
+1.  Cliquez sur le lien "Report" à côté de leur score, sur la page web de la beatmap.
+2.  Utilisez la commande `!report`, en jeu, pour envoyer un message au canal des modérateurs. (Selon le modèle `!report <Nom d'utilisateur> <raison>`)
+3.  Envoyez un message privé au [modérateur de votre canal](/wiki/People/Language_Moderators) ou à un [GMT](/wiki/People/Global_Moderation_Team). Ils se chargeront de faire circuler le message.
+4.  Envoyez un mail à [osu@ppy.sh](mailto:osu@ppy.sh).
 
 ## Utiliser certains périphériques peut être considéré comme de la triche ?
 
@@ -89,7 +89,7 @@ Vous devez signaler l'utilisateur et ne pas les mentionner nulle part. Il y a tr
 
 Sur le profil de l'utilisateur, un bouton`Report un utilisateur` apparaîtra lorsque vous déplacerez votre curseur sur leur avatar. Écrivez toute information pouvant prouver que l'utilisateur se conduit mal.
 
-*Prenez note du mode de jeu sélectionné avant de signaler.*
+_Prenez note du mode de jeu sélectionné avant de signaler._
 
 ### Page beatmap
 
@@ -103,10 +103,8 @@ Cette façon de signaler n'est **pas encouragée** car les report en jeu sont pr
 
 Utilisez la commande `!report` dans n'importe quel canal public pour informer les modérateurs du chat. Les autres joueurs ne verront pas vos rapports dans le chat.
 
-```
-Format : !report <username> <reason>
-Exemple: !report cette_utilisateur suspecter de cheat
-```
+    Format : !report <username> <reason>
+    Exemple: !report cette_utilisateur suspecter de cheat
 
 Votre aide pour détecter les cheateurs est très appréciée. Nous examinons tous les rapports que nous recevons, mais cela ne signifie pas qu'ils vont tous nous amener à passer à l'action ! Vous pouvez également envoyer un email directement à [osu@ppy.sh](mailto:osu@ppy.sh) pour une réponse relativement rapide.
 
@@ -120,7 +118,7 @@ Attendez trois mois après la dernière restriction émise avant de faire appel.
 
 L'équipe s'attend à ce que les utilisateurs donnent un historique complet de leurs actions et donnent les raisons pour lesquelles ils ne récidiveront pas à l'avenir.
 
-*Nous aurons peut-être besoin de temps pour répondre à votre appel, mais aucun appel ne sera ignoré.*
+_Nous aurons peut-être besoin de temps pour répondre à votre appel, mais aucun appel ne sera ignoré._
 
 ## Que puis-je faire si j'ai enfreint les règles?
 
@@ -130,7 +128,7 @@ Si vous avez enfreint les règles et que vous souhaitez rester franc, veuillez c
 
 Lisez attentivement et suivez les [rules](/wiki/Rules).
 
-Envoyez un mail à <accounts@ppy.sh> et utilisez le sujet `Ban Appeal: <username>`. Ajoutez la raison de votre bannissement, et expliquez pourquoi votre comportement ou manière de jouer n'aurait pas dû conduire à un bannissement. Attendez une semaine maximum pour une réponse. Si votre demande de débanissement a été rejetée, toutes vos prochaines demandes seront rejetées, donc appliquez-vous dans la première.
+Envoyez un mail à [accounts@ppy.sh](mailto:accounts@ppy.sh) et utilisez le sujet `Ban Appeal: <username>`. Ajoutez la raison de votre bannissement, et expliquez pourquoi votre comportement ou manière de jouer n'aurait pas dû conduire à un bannissement. Attendez une semaine maximum pour une réponse. Si votre demande de débanissement a été rejetée, toutes vos prochaines demandes seront rejetées, donc appliquez-vous dans la première.
 
 ## Comment éviter un bannissement/mute ?
 

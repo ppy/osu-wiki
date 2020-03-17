@@ -14,10 +14,10 @@ The beatmap charts for the September Spotlights can be found [here](https://osu.
 
 Congratulations to the winners of the August 2017 Spotlights. They receive one month of supporter status for their efforts!
 
-+ **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
-+ **osu!taiko:** [Cryolien](https://osu.ppy.sh/users/1626983)
-+ **osu!catch:** [\_Asriel](https://osu.ppy.sh/users/566276)
-+ **osu!mania:** [Cryolien](https://osu.ppy.sh/users/1626983)
+-   **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
+-   **osu!taiko:** [Cryolien](https://osu.ppy.sh/users/1626983)
+-   **osu!catch:** [\_Asriel](https://osu.ppy.sh/users/566276)
+-   **osu!mania:** [Cryolien](https://osu.ppy.sh/users/1626983)
 
 ## osu!
 
@@ -36,7 +36,7 @@ A charming set that shows that one does not have to break boundaries to secure a
 [![](/wiki/shared/news/2017-11-09-beatmap-spotlights-september-2017/beginnings.jpg)](https://osu.ppy.sh/beatmapsets/646603)
 
 Inspired to come out of mapping retirement, [La Cataline](https://osu.ppy.sh/users/301279)'s guest difficulty adds additional charm to [Mirash](https://osu.ppy.sh/users/2841009)'s tantalising mapset of her song - "Beginnings". This flagship difficulty has a taste from times long since past, but easily holds up to the modern standards of mapping.
- 
+
 Don't discount the rest of the spread though, especially not the 'Collab Insane', which consists of varied unique patterns and interesting stylistic choices! With such diverse talent, this is one gem you certainly don't want to miss!
 
 [![](/wiki/shared/news/2017-11-09-beatmap-spotlights-september-2017/chrono-diver.jpg)](https://osu.ppy.sh/beatmapsets/419600)
@@ -65,7 +65,7 @@ Rushing past at 333 BPM (though mapped to 166.5), the map is an exciting rush of
 
 [![](/wiki/shared/news/2017-11-09-beatmap-spotlights-september-2017/maniera.jpg)](https://osu.ppy.sh/beatmapsets/400761)
 
-Oh my, what do we have here? Another map from [_yu68](https://osu.ppy.sh/users/6170507)? After months of intense discussion, MANIERA is finally ranked! With additional support from 3 guest mappers, MANIERA spans an impressive 7 difficulties, catering to players of all levels.
+Oh my, what do we have here? Another map from [\_yu68](https://osu.ppy.sh/users/6170507)? After months of intense discussion, MANIERA is finally ranked! With additional support from 3 guest mappers, MANIERA spans an impressive 7 difficulties, catering to players of all levels.
 
 The song is known for its quirky rhythms, and all difficulties reflect this by utilizing complex snaps. The highest difficulty "Virtuoso" is noteworthy in its extensive use of consecutive 1/8th doublets. This is the first time a map of this kind has been ranked, and hopefully this will push mapping into new and uncharted territories!
 
@@ -105,7 +105,7 @@ Starting the map, the player is introduced to some light jacks with half a measu
 
 Players will be taken by surprise at the height of the song with a long note section full of quickly timed 1/4ths which will require precise holding and releasing to get through with a high accuracy. While not terribly difficult, this will definitely challenge and force your average player out of their comfort zone and serves as an excellent introduction to harder types of patterning not commonly found in the ranked section.
 
---------
+* * *
 
 And that is the end of this month's Spotlight listing. We hope that you click, drum, catch, and mash your heart out on these maps and earn a shiny medal for your profile page! Look forward to next month's installment!
 

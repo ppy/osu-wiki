@@ -54,11 +54,11 @@ There have been numerous events that are of everyone's interest this month, whic
 
 Beatmap spread rules have been quite stagnant over the last couple of years, although that has now finally changed! After a proposal made by returning Beatmap Nominator [UndeadCapulet](https://osu.ppy.sh/users/2523533) and four entire months of discussion amongst various community members, a consensus was finally reached. Thus, the new spread rules (which you can learn more about below) were amended into the Ranking Criteria, overwriting the old ones that we used to have.
 
-Most notable changes are applied to the *lowest possible difficulty of a set*, which now depends on the beatmap set's total drain time:
+Most notable changes are applied to the _lowest possible difficulty of a set_, which now depends on the beatmap set's total drain time:
 
-+ If it is less than **3:30 minutes**, the lowest difficulty must still be a Normal or lower.
-+ If it is between **3:30 and 4:15 minutes**, the lowest difficulty can be a Hard.
-+ If it is between **4:15 and 5:00 minutes**, it can be an Insane.
+-   If it is less than **3:30 minutes**, the lowest difficulty must still be a Normal or lower.
+-   If it is between **3:30 and 4:15 minutes**, the lowest difficulty can be a Hard.
+-   If it is between **4:15 and 5:00 minutes**, it can be an Insane.
 
 Beatmaps that exceed 5:00 minutes in drain time remain unaffected by spread rules and requirements, just as they were before, although now it is also possible for mapsets of any drain time to contain only a single difficulty, if desired, provided it follows the criteria above.
 
@@ -68,11 +68,11 @@ The Quality Assurance Team will be monitoring the development of this major chan
 
 A little more minor, but by no means less important, have been the addition of the following Ranking Criteria guidelines which are mostly related to beatmaps that contain multiple songs, under the **Audio** subcategory:
 
-+ **The audio file of a song should not be artificially extended in order to meet a time limitation in the mapset section of this criteria.** This can include (but is not limited to) looping sections of the audio file, lowering the bpm of the song or section of the song, or adding small amounts of music to the song without incorporating it throughout the entire song. This does not apply to song compilations or audio files less than the minimum rankable mapset length.
+-   **The audio file of a song should not be artificially extended in order to meet a time limitation in the mapset section of this criteria.** This can include (but is not limited to) looping sections of the audio file, lowering the bpm of the song or section of the song, or adding small amounts of music to the song without incorporating it throughout the entire song. This does not apply to song compilations or audio files less than the minimum rankable mapset length.
 
-+ **Song compilations should incorporate 3 or more songs.** Using only 2 songs in a compilation is a lackluster experience for players, and should be broken up into separate mapsets. Exceptions can be made for songs that were exclusively released together.
+-   **Song compilations should incorporate 3 or more songs.** Using only 2 songs in a compilation is a lackluster experience for players, and should be broken up into separate mapsets. Exceptions can be made for songs that were exclusively released together.
 
-+ **Song compilations should be mixed properly and should not include abrupt breaks or long fades between different songs.** The songs used for the compilation should be similar in audio quality, volume and length. This is to ensure compilations achieve the same cohesive gameplay experience as other beatmaps.
+-   **Song compilations should be mixed properly and should not include abrupt breaks or long fades between different songs.** The songs used for the compilation should be similar in audio quality, volume and length. This is to ensure compilations achieve the same cohesive gameplay experience as other beatmaps.
 
 You can find more information on each of these changes, as well as previous and any future amendments, in the [Ranking Criteria Changelog](https://osu.ppy.sh/community/forums/topics/751351) maintained by [pishifat](https://osu.ppy.sh/users/3178418).
 

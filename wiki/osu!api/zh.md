@@ -13,4 +13,4 @@ osu! 提供了几个公共的 API ，第三方服务可以使用这些 API 扩�
 
 ## 参见
 
-- 最早的论坛帖子：[peppy](https://osu.ppy.sh/users/2) 写的 [osu!api open beta](https://osu.ppy.sh/community/forums/topics/141240)
+-   最早的论坛帖子：[peppy](https://osu.ppy.sh/users/2) 写的 [osu!api open beta](https://osu.ppy.sh/community/forums/topics/141240)

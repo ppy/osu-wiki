@@ -18,21 +18,21 @@ peppy tweeted that the new t-shirt inventory (along with their new designs) has 
 
 The ability to see star ratings in the osu!direct was backported from osu!lazer. Lastly, thanks to nekodex, the scoreboard redesign was implemented.
 
-peppy briefly opened a GitHub issue to discuss about *passive HP*.
+peppy briefly opened a GitHub issue to discuss about _passive HP_.
 
 Links:
 
-- [osu!next](https://osunext.tumblr.com/post/169336245023/hi-its-been-6-months-since-my-last-post-rest)
-- [osu!mania 7K World Cup 2018: Registrations now open!](https://osu.ppy.sh/home/news/2018-01-10-MWC7K-2018-registrations-open)
-- [Dean Herbert on Twitter](https://twitter.com/ppy/status/951884503122784257)
-- [Community Choice 2017](https://osu.ppy.sh/home/news/2018-01-18-community-choice-2017)
-- [dev changelog 20180120 – ppy blog](https://blog.ppy.sh/dev-changelog-20180120/)
-- [Dean Herbert on Twitter](https://twitter.com/ppy/status/956058435845611521)
-- [Dean Herbert on Twitter](https://twitter.com/ppy/status/958185268258865152)
-- [Dean Herbert on Twitter](https://twitter.com/ppy/status/958220599783866368)
-- [ppy/osu-web#2292](https://github.com/ppy/osu-web/pull/2292)
-- [ppy/osu#1990](https://github.com/ppy/osu/issues/1990)
-- [dev changelog 20180128 – ppy blog](https://blog.ppy.sh/dev-changelog-20180128/)
+-   [osu!next](https://osunext.tumblr.com/post/169336245023/hi-its-been-6-months-since-my-last-post-rest)
+-   [osu!mania 7K World Cup 2018: Registrations now open!](https://osu.ppy.sh/home/news/2018-01-10-MWC7K-2018-registrations-open)
+-   [Dean Herbert on Twitter](https://twitter.com/ppy/status/951884503122784257)
+-   [Community Choice 2017](https://osu.ppy.sh/home/news/2018-01-18-community-choice-2017)
+-   [dev changelog 20180120 – ppy blog](https://blog.ppy.sh/dev-changelog-20180120/)
+-   [Dean Herbert on Twitter](https://twitter.com/ppy/status/956058435845611521)
+-   [Dean Herbert on Twitter](https://twitter.com/ppy/status/958185268258865152)
+-   [Dean Herbert on Twitter](https://twitter.com/ppy/status/958220599783866368)
+-   [ppy/osu-web#2292](https://github.com/ppy/osu-web/pull/2292)
+-   [ppy/osu#1990](https://github.com/ppy/osu/issues/1990)
+-   [dev changelog 20180128 – ppy blog](https://blog.ppy.sh/dev-changelog-20180128/)
 
 ## February
 
@@ -44,25 +44,25 @@ The Community Choice 2017 results were released with Doormat, Backfire, Ascendan
 
 Links:
 
-- [dev changelog 20180206 – ppy blog](https://blog.ppy.sh/dev-changelog-20180206/)
-- [ppy/osu#2003](https://github.com/ppy/osu/pull/2003)
-- [ppy/osu#2011](https://github.com/ppy/osu/pull/2011)
-- [ppy/osu#2004](https://github.com/ppy/osu/pull/2004)
-- [ppy/osu#1999](https://github.com/ppy/osu/pull/1999)
-- [ppy/osu#1997](https://github.com/ppy/osu/pull/1997)
-- [ppy/osu#1667](https://github.com/ppy/osu/pull/1667)
-- [ppy/osu-web#2262](https://github.com/ppy/osu-web/pull/2262)
-- [ppy/osu-web#2290](https://github.com/ppy/osu-web/pull/2290)
-- [dev changelog 20180213 – ppy blog](https://blog.ppy.sh/dev-changelog-20180213/)
-- [ppy/osu-web#2331](https://github.com/ppy/osu-web/pull/2331)
-- [Community Choice 2017 Results](https://osu.ppy.sh/home/news/2018-02-20-community-choice-2017-results)
-- [dev changelog 20180222 – ppy blog](https://blog.ppy.sh/dev-changelog-20180222/)
-- [ppy/osu-web#2373](https://github.com/ppy/osu-web/pull/2373)
-- [ppy/osu-web#2412](https://github.com/ppy/osu-web/pull/2412)
-- [ppy/osu-web#2379](https://github.com/ppy/osu-web/pull/2379)
-- [ppy/osu-web#2409](https://github.com/ppy/osu-web/pull/2409)
-- [ppy/osu-web#2449](https://github.com/ppy/osu-web/pull/2449)
-- [ppy/osu-web#2448](https://github.com/ppy/osu-web/pull/2448)
+-   [dev changelog 20180206 – ppy blog](https://blog.ppy.sh/dev-changelog-20180206/)
+-   [ppy/osu#2003](https://github.com/ppy/osu/pull/2003)
+-   [ppy/osu#2011](https://github.com/ppy/osu/pull/2011)
+-   [ppy/osu#2004](https://github.com/ppy/osu/pull/2004)
+-   [ppy/osu#1999](https://github.com/ppy/osu/pull/1999)
+-   [ppy/osu#1997](https://github.com/ppy/osu/pull/1997)
+-   [ppy/osu#1667](https://github.com/ppy/osu/pull/1667)
+-   [ppy/osu-web#2262](https://github.com/ppy/osu-web/pull/2262)
+-   [ppy/osu-web#2290](https://github.com/ppy/osu-web/pull/2290)
+-   [dev changelog 20180213 – ppy blog](https://blog.ppy.sh/dev-changelog-20180213/)
+-   [ppy/osu-web#2331](https://github.com/ppy/osu-web/pull/2331)
+-   [Community Choice 2017 Results](https://osu.ppy.sh/home/news/2018-02-20-community-choice-2017-results)
+-   [dev changelog 20180222 – ppy blog](https://blog.ppy.sh/dev-changelog-20180222/)
+-   [ppy/osu-web#2373](https://github.com/ppy/osu-web/pull/2373)
+-   [ppy/osu-web#2412](https://github.com/ppy/osu-web/pull/2412)
+-   [ppy/osu-web#2379](https://github.com/ppy/osu-web/pull/2379)
+-   [ppy/osu-web#2409](https://github.com/ppy/osu-web/pull/2409)
+-   [ppy/osu-web#2449](https://github.com/ppy/osu-web/pull/2449)
+-   [ppy/osu-web#2448](https://github.com/ppy/osu-web/pull/2448)
 
 ## March
 
@@ -78,15 +78,15 @@ MWC 7K 2018 concluded with South Korea, Malaysia, and China taking first, second
 
 Links:
 
-- [New Featured Artist: Trial & Error](https://osu.ppy.sh/home/news/2018-03-06-new-featured-artist-trial-and-error)
-- [dev changelog 20180306 – ppy blog](https://blog.ppy.sh/dev-changelog-20180306/)
-- [ppy/osu#2134](https://github.com/ppy/osu/pull/2134)
-- [ppy/osu-web#2608](https://github.com/ppy/osu-web/pull/2608)
-- [ppy/osu-web#2597](https://github.com/ppy/osu-web/pull/2597)
-- [ppy/osu-web#2578](https://github.com/ppy/osu-web/pull/2578)
-- [ppy/osu-web#2531](https://github.com/ppy/osu-web/pull/2531)
-- [ppy/osu-web#2332](https://github.com/ppy/osu-web/pull/2332)
-- [osu!mania 7K World Cup 2018 Concludes](https://osu.ppy.sh/home/news/2018-03-22-mwc-7k-2018-concludes)
+-   [New Featured Artist: Trial & Error](https://osu.ppy.sh/home/news/2018-03-06-new-featured-artist-trial-and-error)
+-   [dev changelog 20180306 – ppy blog](https://blog.ppy.sh/dev-changelog-20180306/)
+-   [ppy/osu#2134](https://github.com/ppy/osu/pull/2134)
+-   [ppy/osu-web#2608](https://github.com/ppy/osu-web/pull/2608)
+-   [ppy/osu-web#2597](https://github.com/ppy/osu-web/pull/2597)
+-   [ppy/osu-web#2578](https://github.com/ppy/osu-web/pull/2578)
+-   [ppy/osu-web#2531](https://github.com/ppy/osu-web/pull/2531)
+-   [ppy/osu-web#2332](https://github.com/ppy/osu-web/pull/2332)
+-   [osu!mania 7K World Cup 2018 Concludes](https://osu.ppy.sh/home/news/2018-03-22-mwc-7k-2018-concludes)
 
 ## April
 
@@ -98,7 +98,7 @@ The cookie in the main menu slowly rotated clockwise as time passed. Whereas the
 
 ![](img/april-fools-song-select-hover.jpg "Song selection screen when hovering over the cookie")
 
----
+* * *
 
 The community contributor badge was updated to match the new display of user badges; shaping the guidelines for how existing and future user badges should look like.
 
@@ -106,7 +106,7 @@ The community contributor badge was updated to match the new display of user bad
 
 ![](/wiki/shared/contributor.jpg "The new contributor badge")
 
----
+* * *
 
 In osu!web, thanks to nanaya, the header has been updated to match flyte's new design. Showing username history was added to the userpage. Username history were now visible and missing userpages now display a similar message from the old site, rather than giving the vague 404 page.
 
@@ -118,17 +118,17 @@ In osu!web, thanks to nanaya, the header has been updated to match flyte's new d
 
 ![](img/header-after-menu.jpg "The header's menu after")
 
----
+* * *
 
 Thanks to nekodex, the osu!supporter status is now visible in the [support the game](https://osu.ppy.sh/home/support) page and adding your Discord username to your user account was implemented.
 
----
+* * *
 
 Links:
 
-- [ppy/osu-web#2906](https://github.com/ppy/osu-web/pull/2906)
-- [ppy/osu-web#2896](https://github.com/ppy/osu-web/pull/2896)
-- [ppy/osu-web#2984](https://github.com/ppy/osu-web/pull/2984)
-- [ppy/osu-web#3033](https://github.com/ppy/osu-web/pull/3033)
-- [ppy/osu-web#2984](https://github.com/ppy/osu-web/pull/2984)
-- [ppy/osu-web#3099](https://github.com/ppy/osu-web/pull/3099)
+-   [ppy/osu-web#2906](https://github.com/ppy/osu-web/pull/2906)
+-   [ppy/osu-web#2896](https://github.com/ppy/osu-web/pull/2896)
+-   [ppy/osu-web#2984](https://github.com/ppy/osu-web/pull/2984)
+-   [ppy/osu-web#3033](https://github.com/ppy/osu-web/pull/3033)
+-   [ppy/osu-web#2984](https://github.com/ppy/osu-web/pull/2984)
+-   [ppy/osu-web#3099](https://github.com/ppy/osu-web/pull/3099)

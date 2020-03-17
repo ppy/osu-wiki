@@ -8,7 +8,7 @@ Last Updated 25th May 2018. [View history here](https://github.com/ppy/osu-wiki/
 
 **ppy Pty Ltd** is offering you a service, which is conditioned on your acceptance, without any modification whatsoever to the following terms, conditions, and notices.
 
-By visiting and/or using the services offered by this site ([https://osu.ppy.sh](https://osu.ppy.sh/home)), the osu! game client (as found on [https://osu.ppy.sh/home/download](https://osu.ppy.sh/home/download)) or any affiliated services (henceforth referenced as "**osu!**"), you are acknowledging your full compliance to the terms and conditions listed here.
+By visiting and/or using the services offered by this site ([https://osu.ppy.sh](https://osu.ppy.sh/home)), the osu! game client (as found on <https://osu.ppy.sh/home/download>) or any affiliated services (henceforth referenced as "**osu!**"), you are acknowledging your full compliance to the terms and conditions listed here.
 
 As a condition of your use of this web site, you warrant that you will not use this web site, or any of the content obtained from this web site, for any purpose that is unlawful or prohibited by these terms.
 

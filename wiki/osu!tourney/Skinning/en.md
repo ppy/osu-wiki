@@ -10,11 +10,11 @@ The client supports various modifications so you can customize it for the tourna
 
 The following elements are skinnable:
 
-- `background` - the background image used by the client. The default background for osu!tourney can be found [here](https://s.ppy.sh/images/tournament/default.png).
-- `background-win1` (optional) - the background that will be faded to after the blue team wins while the match results are displayed.
-- `background-win2` (optional) - the background that will be faded to after the red team wins while the match results are displayed.
-- `tourney-title` (optional) - the image that is displayed at the bottom of the client, on top of the background
-  - This can be used to show e.g. a logo of the tournament.
+-   `background` - the background image used by the client. The default background for osu!tourney can be found [here](https://s.ppy.sh/images/tournament/default.png).
+-   `background-win1` (optional) - the background that will be faded to after the blue team wins while the match results are displayed.
+-   `background-win2` (optional) - the background that will be faded to after the red team wins while the match results are displayed.
+-   `tourney-title` (optional) - the image that is displayed at the bottom of the client, on top of the background
+    -   This can be used to show e.g. a logo of the tournament.
 
 ![Team icons can be displayed beside the team names](img/Osutourneyicons.png)
 

@@ -1,16 +1,17 @@
 # Inscription
 
-*Attention: avoir plus d'un compte osu! est une infraction à l'encontre du [règlement d'osu!](/wiki/Rules)*
+_Attention: avoir plus d'un compte osu! est une infraction à l'encontre du [règlement d'osu!](/wiki/Rules)_
 
-1. Après [l'installation](/wiki/Installation) d'osu! et son lancement, il vous sera demandé de vous connecter ou de vous inscrire. En supposant que vous soyez ici parce que vous avez besoin d’un compte, cliquez sur `Créer un compte`.
+1.  Après [l'installation](/wiki/Installation) d'osu! et son lancement, il vous sera demandé de vous connecter ou de vous inscrire. En supposant que vous soyez ici parce que vous avez besoin d’un compte, cliquez sur `Créer un compte`.
 
-   ![Le formulaire d'inscription en jeu](img/ingame-registration.jpg "Le formulaire d'inscription")
+    ![Le formulaire d'inscription en jeu](img/ingame-registration.jpg "Le formulaire d'inscription")
 
-2. Remplissez tous les champs du formulaire.
-   - Pour le champ Nom d'utilisateur, il y a un maximum de 15 caractères; et est limité aux caractères alphanumériques, (`a-z`, `A-Z`, `0-9`), underscore (`_`), crochets, (`[` et `]`), tirets (`-`), et espace (` `).
-   - Pour le champ Adresse email, utilisez votre email. Ceci est utilisé pour réinitialiser votre mot de passe et pour vous envoyer des codes de vérification en cas de besoin, n'utilisez donc pas d'adresse mail jetable.
-   - Pour le champ Mot de passe, utilisez un mot de passe d'au moins 8 caractères.
-3. Une fois cela terminé, appuyez sur `1. Créer mon profil`. Vous serez automatiquement enregistré.
+2.  Remplissez tous les champs du formulaire.
+    -   Pour le champ Nom d'utilisateur, il y a un maximum de 15 caractères; et est limité aux caractères alphanumériques, (`a-z`, `A-Z`, `0-9`), underscore (`_`), crochets, (`[` et `]`), tirets (`-`), et espace (` `).
+    -   Pour le champ Adresse email, utilisez votre email. Ceci est utilisé pour réinitialiser votre mot de passe et pour vous envoyer des codes de vérification en cas de besoin, n'utilisez donc pas d'adresse mail jetable.
+    -   Pour le champ Mot de passe, utilisez un mot de passe d'au moins 8 caractères.
+
+3.  Une fois cela terminé, appuyez sur `1. Créer mon profil`. Vous serez automatiquement enregistré.
 
 ## Et après ?
 

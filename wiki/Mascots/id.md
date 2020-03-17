@@ -4,7 +4,7 @@ no_native_review: true
 
 # Maskot
 
-*Lihat juga: [Maskot/Galeri](/wiki/Mascots/Gallery).*
+_Lihat juga: [Maskot/Galeri](/wiki/Mascots/Gallery)._
 
 Terdapat sebuah video di Youtube yang menampilkan maskot osu!, konten tersebut bisa dilihat di [Mascot Showcase](https://youtu.be/mJF2cAs_MrI)
 
@@ -18,7 +18,7 @@ pippi, dituliskan dengan huruf "p" kecil, adalah maskot osu!standard yang bergab
 
 ### ![Ikon osu!catch](/wiki/shared/mode/catch.png) Yuzu
 
-*Untuk postingan beritanya, lihat: [Meet Yuzu](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu) dan [Introducing Yuzu's New Look](https://osu.ppy.sh/home/news/2019-01-09-introducing-yuzu).*
+_Untuk postingan beritanya, lihat: [Meet Yuzu](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu) dan [Introducing Yuzu's New Look](https://osu.ppy.sh/home/news/2019-01-09-introducing-yuzu)._
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
@@ -26,7 +26,7 @@ Yuzu adalah maskot osu!catch yang telah bergabung sejak 22 Juni 2014. Yuzu lahir
 
 ### ![Ikon osu!mania](/wiki/shared/mode/mania.png) Maria
 
-*Untuk postingan beritanya, lihat: [Meet Maria - osu!mania’s new mascot!](https://osu.ppy.sh/home/news/2016-04-20-meet-maria-osumanias-new-mascot).*
+_Untuk postingan beritanya, lihat: [Meet Maria - osu!mania’s new mascot!](https://osu.ppy.sh/home/news/2016-04-20-meet-maria-osumanias-new-mascot)._
 
 ![Maria](img/Maria.png "Maria")
 
@@ -34,7 +34,7 @@ Maria adalah maskot osu!mania yang bergabung pada 4 Maret 2016. Maria dirancang 
 
 ### ![Ikon osu!taiko](/wiki/shared/mode/taiko.png) Mocha
 
-*Untuk postingan beritanya, lihat: [The new osu!taiko mascot is here!](https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here).*
+_Untuk postingan beritanya, lihat: [The new osu!taiko mascot is here!](https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here)._
 
 ![Mocha](img/Mocha.png "Mocha")
 

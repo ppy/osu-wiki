@@ -15,31 +15,36 @@ Esta página irá dizer-lhe como instalar o jogo bem como alguns métodos de sol
 ##### Windows
 
 ###### requisitos mínimos
-- 1 GHz+ Processador
-- 512 MB+ RAM
-- [Microsoft .NET Framework (3.5+)](http://www.microsoft.com/en-us/download/details.aspx?id=22)
+
+-   1 GHz+ Processador
+-   512 MB+ RAM
+-   [Microsoft .NET Framework (3.5+)](http://www.microsoft.com/en-us/download/details.aspx?id=22)
 
 ###### Como instalarl
-- Faz download do [osu! installer](https://osu.ppy.sh/p/download).
-- Localize o arquivo que você acabou de baixar, clique duas vezes nele para o abrir e siga as instruções de instalação.
-- Execute o jogo com um duplo clique sobre o icon do osu! criado no ambiente de trabalho.
-- Irá aparecer o menu principal. Você irá ser solicitado a fazer login usando uma conta osu! (crie uma conta clicando no botão apropriado) ou jogar a em modo offline.
-  - Jogar online fará com que você registe a sua pontuação e receba um ranking global.
-- Aproveita a tua Osu!Experiência!
+
+-   Faz download do [osu! installer](https://osu.ppy.sh/p/download).
+-   Localize o arquivo que você acabou de baixar, clique duas vezes nele para o abrir e siga as instruções de instalação.
+-   Execute o jogo com um duplo clique sobre o icon do osu! criado no ambiente de trabalho.
+-   Irá aparecer o menu principal. Você irá ser solicitado a fazer login usando uma conta osu! (crie uma conta clicando no botão apropriado) ou jogar a em modo offline.
+    -   Jogar online fará com que você registe a sua pontuação e receba um ranking global.
+-   Aproveita a tua Osu!Experiência!
+
 ###### Adicionando beatmaps
+
 A Beatmap é um arquivo .osz que contêm a música e outros arquivos necessários para jogar.
-- Vai até [beatmap listing](https://osu.ppy.sh/p/beatmaplist). Encontra uma música que gosta e clica no titulo para ires para a sua página web.
-- Faz Download dela clicando no grande botão rosa que diz "Download beatmap!" e abre o arquivo.
-- Vai jogar o beatmap ! Pressiona F5 se o beatmap não aparecer para fazer um refresh a página.
+
+-   Vai até [beatmap listing](https://osu.ppy.sh/p/beatmaplist). Encontra uma música que gosta e clica no titulo para ires para a sua página web.
+-   Faz Download dela clicando no grande botão rosa que diz "Download beatmap!" e abre o arquivo.
+-   Vai jogar o beatmap ! Pressiona F5 se o beatmap não aparecer para fazer um refresh a página.
 
 ##### OS X (versão Beta)
 
 ###### Como instalar
-- Vai até a [download page](https://osu.ppy.sh/p/download) e clica em "OS X installer" para baixar a versão mais recente.
-- [Follow these instructions](http://www.ofzenandcomputing.com/how-to-install-dmg-files-mac/) Para instalares ficheiros .dmg no teu Mac.
-- Corre o osu!
-  - A primeira vez que correres o osu! ele demora 5 minutos. Isto devido ao X11 (o subsistema gráfico) que faz a reconstrução do cache de fonte.
 
+-   Vai até a [download page](https://osu.ppy.sh/p/download) e clica em "OS X installer" para baixar a versão mais recente.
+-   [Follow these instructions](http://www.ofzenandcomputing.com/how-to-install-dmg-files-mac/) Para instalares ficheiros .dmg no teu Mac.
+-   Corre o osu!
+    -   A primeira vez que correres o osu! ele demora 5 minutos. Isto devido ao X11 (o subsistema gráfico) que faz a reconstrução do cache de fonte.
 
 ## Links Externos
 

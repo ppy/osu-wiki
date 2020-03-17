@@ -13,22 +13,23 @@ The beatmap charts for the April Spotlights can be found [here](https://osu.ppy.
 ## Past Spotlights results
 
 First of all, congratulations to the winners of the March 2018 Spotlights. They will receive one month of supporter status for their efforts!
-+ **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
-+ **osu!taiko:** [-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910)
-+ **osu!catch:** [RAMPAGE88](https://osu.ppy.sh/users/448547)
+
+-   **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
+-   **osu!taiko:** [-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910)
+-   **osu!catch:** [RAMPAGE88](https://osu.ppy.sh/users/448547)
 
 The observant among us may have noticed that the March Spotlights post didn't happen last month due to some minor mishaps with scheduling and workload. To make sure that you don't miss out on all the juicy details, we've included the blurbs and links from the March issue below for your reading pleasure.
 
 We'd also like to announce that the Spotlights project will be going on a brief hiatus for a little while as we turn the system towards being more visible and enjoyable for players and mappers alike.
 
-If you're interested in helping out with this process, please head over to [the osu!dev Discord](https://discord.gg/ppy) and check out the \#osu-spotlights channel for all the juicy details.
+If you're interested in helping out with this process, please head over to [the osu!dev Discord](https://discord.gg/ppy) and check out the #osu-spotlights channel for all the juicy details.
 
 Thanks to everybody who followed along the project for the past few years, and we hope that you enjoy the next iteration of the project when it surfaces in a few months time!
 
 ### Navigation
 
-- [March Spotlighted Maps](#march)
-- [April Spotlighted Maps](#april)
+-   [March Spotlighted Maps](#march)
+-   [April Spotlighted Maps](#april)
 
 # <a name="march" id="march"></a>March 2018 Spotlights
 
@@ -40,7 +41,7 @@ Returning from a long hiatus, [Reisen Udongein](https://osu.ppy.sh/users/232942)
 
 [![](/wiki/shared/news/2018-06-06-beatmap-spotlights-march-and-april-2018/happy-halloween.jpg)](https://osu.ppy.sh/beatmapsets/692433)
 
-Halloween comes early this year as [Loneight](https://osu.ppy.sh/users/663131) returns with a set of yuikonnu & ayaponzu*'s "Happy Halloween". The map shows off the crazy feel of this song very well, switching between swing beat and normal beats fairly often, and keeping you on your toes for the various SV changes going on. Coupled with wonderful improvised hitsounding, this map definitely brings together a fun experience.
+Halloween comes early this year as [Loneight](https://osu.ppy.sh/users/663131) returns with a set of yuikonnu & ayaponzu\*'s "Happy Halloween". The map shows off the crazy feel of this song very well, switching between swing beat and normal beats fairly often, and keeping you on your toes for the various SV changes going on. Coupled with wonderful improvised hitsounding, this map definitely brings together a fun experience.
 
 [![](/wiki/shared/news/2018-06-06-beatmap-spotlights-march-and-april-2018/cosmic-love.jpg)](https://osu.ppy.sh/beatmapsets/696222)
 
@@ -175,7 +176,7 @@ Maintaining a high combo on this map might be easy for the average player, but b
 
 [![](/wiki/shared/news/2018-06-06-beatmap-spotlights-march-and-april-2018/turii.jpg)](https://osu.ppy.sh/beatmapsets/685428)
 
-[Kyuare](https://osu.ppy.sh/users/2705312)'s latest mapset of "Turii \~Panta rhei\~" brings us an exhilarating experience! This mid-length mapset has an even spread of 5 decent difficulties, fitting players at all level.
+[Kyuare](https://osu.ppy.sh/users/2705312)'s latest mapset of "Turii ~Panta rhei~" brings us an exhilarating experience! This mid-length mapset has an even spread of 5 decent difficulties, fitting players at all level.
 
 While 1/4 stream patterns are most common in modern osu!catch mapping, this beatmap employs its specialty in a different way. The top Turii difficulty has Kyuare's typical wiggle patterns that definitely give you great challenge. But if you find it too hard, don't worry! The Rain difficulty, which features some tap dashes, can also hype you up! Don't get deceived by star ratings and try your best!
 
@@ -225,7 +226,7 @@ As he showed on many unranked maps, this map also has kind of unusual long note 
 
 The last kiai is made up of full long notes, it gives a challenge to players who are not familiar with them. It's a new challenge for him as 7K mapping but he was able to overcome it!
 
---------
+* * *
 
 We hope you enjoy our selection for this month and look forward to what we will bring to you in the future.
 

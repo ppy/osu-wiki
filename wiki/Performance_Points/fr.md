@@ -6,17 +6,17 @@ Il ne met pas en avant la progression des compétences du joueur par rapport à 
 
 ## Histoire
 
-Révélé au public en avril 2012 et connu sous le nom du mystérieux projet *« ??? »*, ce système recevra son nom actuel plus tard dans le mois.
+Révélé au public en avril 2012 et connu sous le nom du mystérieux projet _« ??? »_, ce système recevra son nom actuel plus tard dans le mois.
 
 Désormais connu sous le nom de « pp », abbréviation de « performance points », ce nouveau système cherche à refléter les réelles compétences du joueur plutôt que de simplement compter les scores. Ce système a été très bien accueilli par les joueurs de l'époque.
 
 Plusieurs mois après, la [version (20120722-24) d'osu!](https://osu.ppy.sh/community/forums/posts/1687719) implémente officiellement ce système et remplace de ce fait l'ancien système de classement des scores, avec les nouveaux scores calculés toutes les 30 minutes. En août de la même année, le système fut amélioré pour que le calcul se fasse en temps réel.
 
-Il a été utilisé plus d'un an après sa mise en place, jusqu'à ce que [Tom94](https://osu.ppy.sh/users/1857058), le créateur de *osu!tp*, rejoigne l'équipe osu! et implémente son design dans le système. Ce nouveau système nommé *ppv2* est devenu opérationnel le 27 janvier 2014.
+Il a été utilisé plus d'un an après sa mise en place, jusqu'à ce que [Tom94](https://osu.ppy.sh/users/1857058), le créateur de _osu!tp_, rejoigne l'équipe osu! et implémente son design dans le système. Ce nouveau système nommé _ppv2_ est devenu opérationnel le 27 janvier 2014.
 
-*ppv2* est le service actuel, avec ses mises à jour publiées dans son [changelog](https://osu.ppy.sh/p/changelog?category=pp).
+_ppv2_ est le service actuel, avec ses mises à jour publiées dans son [changelog](https://osu.ppy.sh/p/changelog?category=pp).
 
-*ppv1*, le système de Points de Performance précédent a aussi son changelog, qui peut être consulté sur ce [sujet du forum](https://osu.ppy.sh/community/forums/topics/92185).
+_ppv1_, le système de Points de Performance précédent a aussi son changelog, qui peut être consulté sur ce [sujet du forum](https://osu.ppy.sh/community/forums/topics/92185).
 
 ## Comment sont calculés les pp ?
 
@@ -84,9 +84,9 @@ Cela signifie que le plus haut score en pp vous donnera tout son montant de pp. 
 
 Pour donner un exemple avec une formule mathématique:
 
-_PP_ représente la valeur en pp de chaque score. _PP\[i\]_ dénote la *i*ème valeur du score de pp, ordonées de manière décroissante, où _i_ va de 1 à _n_, et où _n_ est le nombre de scores que vous avez.
+_PP_ représente la valeur en pp de chaque score. _PP\[i]_ dénote la _i_ème valeur du score de pp, ordonées de manière décroissante, où _i_ va de 1 à _n_, et où _n_ est le nombre de scores que vous avez.
 
-```Total des pp = PP[1] * 0.95^0 + PP[2] * 0.95^1 + PP[3] * 0.95^2 + ... + PP[n] * 0.95^(n-1)```
+`Total des pp = PP[1] * 0.95^0 + PP[2] * 0.95^1 + PP[3] * 0.95^2 + ... + PP[n] * 0.95^(n-1)`
 
 ### Combien de pp bonus peuvent être obtenus pour avoir un grand nombre de score sur des maps classées ?
 
@@ -94,10 +94,9 @@ _PP_ représente la valeur en pp de chaque score. _PP\[i\]_ dénote la *i*ème v
 
 Vous pouvez calculer exactement ce bonus en suivant la formule suivante, où _N_ est le nombre de maps classées avec un score de fait:
 
-416.6667 \/ (1- 0.9994^_N_).
+416.6667 \\/ (1- 0.9994^_N_).
 
 Le nombre moyen de scores requis pour atteindre la moitié de ce bonus est _1168_ (approximativement). Comme vous pouvez le remarquer, Le nombre de scores requis fait un pic vers la fin du spectre.
-
 
 ## FAQ
 
@@ -115,10 +114,10 @@ Le meilleur moyen de s'améliorer est donc de mieux réussir des maps difficiles
 
 Prenez en compte les conseils suivants :
 
-- Jouez efficacement et trouvez quel style de jeu vous convient le mieux.
-- Essayez d'avoir le maximum d'excellents scores, au lieu de « farmer » des centaines de scores juste passables.
-- Tentez d'améliorer au mieux votre précision. Même 1 % fait une différence.
-- Faites de grands combos. Les full combos (FC) ou des scores parfaits (SS) donnent de grandes quantités de pp.
+-   Jouez efficacement et trouvez quel style de jeu vous convient le mieux.
+-   Essayez d'avoir le maximum d'excellents scores, au lieu de « farmer » des centaines de scores juste passables.
+-   Tentez d'améliorer au mieux votre précision. Même 1 % fait une différence.
+-   Faites de grands combos. Les full combos (FC) ou des scores parfaits (SS) donnent de grandes quantités de pp.
 
 ### Pourquoi je ne gagne pas le nombre de pp total qu'une map que j'ai joué ne vaut ?
 
@@ -134,11 +133,11 @@ Le second score ne vaudra que 95 % de ses pp totaux puisque ce n'est pas votre m
 
 Maintenant, supposons que vous venez de faire un tout nouveau score valant 110pp. Votre top des scores devrait ressembler à ça:
 
-1. 110pp, pondéré à 100 % = 110
-2. 100pp, pondéré à 95 % = 95
-3. 100pp, pondéré à 90 % = 90
+1.  110pp, pondéré à 100 % = 110
+2.  100pp, pondéré à 95 % = 95
+3.  100pp, pondéré à 90 % = 90
 
-Comme vous le constater, votre nouveau total de pp n'est pas simplement ``195 + 110 = 305 pp``, mais ``110 + 95 + 90 = 295 pp``.
+Comme vous le constater, votre nouveau total de pp n'est pas simplement `195 + 110 = 305 pp`, mais `110 + 95 + 90 = 295 pp`.
 
 Cela veut dire que puisque vous vous améliorez à osu!, votre total de pp augmentera, ce qui fera que vos anciens scores vaudront de moins en moins de pp comparés aux nouveaux et plus difficiles scores.
 

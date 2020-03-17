@@ -13,9 +13,10 @@ Since its inception in July of 2016, the program has gone through five cycles wh
 **For the upcoming winter cycle we are scouting mentors and mentees for the game modes osu!, osu!catch and osu!taiko!**
 
 This iteration of the program will be hosting three out of the four gamemodes of osu! - if you're interested here's a short timeline on this:
-- Mentor signups are open from 08.10.2017 until the 15.10.2017.
-- Mentee signups will open on the 22.10.2017 and close on the 01.11.2017.
-- The 2017 Winter cycle will start on the 05.11.2017 and end on the 28.01.2018.
+
+-   Mentor signups are open from 08.10.2017 until the 15.10.2017.
+-   Mentee signups will open on the 22.10.2017 and close on the 01.11.2017.
+-   The 2017 Winter cycle will start on the 05.11.2017 and end on the 28.01.2018.
 
 During this time, the internal organization team will host various events on the server, such as assorted types of mapping contests, mapping discussions ([we also publish them on the forums as guides](https://osu.ppy.sh/community/forums/topics/514122)), or even just things like multiplayer lobbies with integrated feedback sessions!
 

@@ -11,7 +11,7 @@ Hi there! Feerum here! This is the first time you guy's will see a blog post by 
 
 I write to you today about a topic which is kinda serious, but first let me give you an update about something else! As you guys know already from previous blogs, the work of us, the mania QATs, is mainly to prepare the BN test (which will be awesome this time!) and my work is also to handle the Criteria Council **United Beat Knights of the Ranking Criteria**. Last weekend we had a pretty good meeting and i think we will soon be ready to share our work with you guys in the criteria forums. So stay tuned, things will happen soon!
 
----
+* * *
 
 Alright, this was the little update and now to the topic of the blog post. As you know, our work as QAT is also to disqualify beatmaps which get reported by the community in this [thread](https://osu.ppy.sh/community/forums/topics/447428), since the QAT doesn't look into beatmaps by ourselves anymore. The idea behind this is simply to make the process of what gets ranked and what doesn't more community orientated. You, the community, have to decide! Of course, some of us still look into beatmaps for major issues which break the Ranking Criteria, like unsnapped/shifted notes or other major issues. We don't handle the beatmap should it simply play badly or is over/under-mapped. You decide what get's ranked and what will stay ranked in future! osu! is a game where the community makes its own content and others should have the possibility to say "no I don't like it because...".
 
@@ -45,7 +45,7 @@ After you reach a QAT, they will disqualify your beatmap and move it back to the
 
 Step 2.2: **I don't like the suggestions I got from the mod! The modder doesn't understand how I mapped it!**
 
-Then you have to explain why the suggestions the mapper gave you would not improve the map. Try always to explain why exactly you reject the suggestion. A simple "I don't like" is often not enough. Modders tend to start a discussion when their suggestion got rejected and they don't get any clear statement from the mapper. They also want to understand ***why*** and ***what was*** ***wrong*** with their suggestions. Your proper reply can help them to improve their modding skill for further modding! So please take always some time to reply it properly.
+Then you have to explain why the suggestions the mapper gave you would not improve the map. Try always to explain why exactly you reject the suggestion. A simple "I don't like" is often not enough. Modders tend to start a discussion when their suggestion got rejected and they don't get any clear statement from the mapper. They also want to understand **_why_** and **_what was_** **_wrong_** with their suggestions. Your proper reply can help them to improve their modding skill for further modding! So please take always some time to reply it properly.
 
 Step 3: **Even when I rejected the suggestions the modder reported my beatmap to be disqualified! I don't want that!**
 
@@ -67,7 +67,7 @@ Congratulations! Your beatmap was good enough to pass the qualification state an
 
 From now on, every player can earn performance points from it and the beatmap will stay forever on the osu server for others to download. Nothing more to do!
 
----
+* * *
 
 Since the process of qualification is now clarified, I would like to explain why you, the community, should always try to mod qualified beatmaps you don't like.
 

@@ -8,7 +8,7 @@ tags:
 
 <!-- This article was based off of [*Changing the Title Text : The Guide* by: Ekaru](https://osu.ppy.sh/community/forums/topics/14513), but a lot of the content has been changed/updated, so I'm just leaving the link here as a reference. It's not worth linking to from the wiki because it contains incorrect info at some points -->
 
-![Screenshot of osu! gameplay with title text visible](img/liquid-title-text.jpg "The title text for \"Rostik - Liquid (Paul Rosenthal Remix)\" shows just after starting the map.")
+![Screenshot of osu! gameplay with title text visible](img/liquid-title-text.jpg 'The title text for \"Rostik - Liquid (Paul Rosenthal Remix)\" shows just after starting the map.')
 
 **Title text** appears in the top-middle of the screen while playing a beatmap. Most commonly, it shows the artist and title of the song near the beginning of the map, but the map's creator may change the text to whatever they prefer. They can also change how the text is formatted and when it will display.
 
@@ -28,26 +28,26 @@ A newly-submitted beatmap will have its title text set to `[size:20,bold:0]Artis
 
 #### Formatting Options
 
-| Key | Description | Default value |
-| :-- | :-- | :-- |
-| `bold` | Whether or not the line's will be in bold type. A value of 1 means bold, while any other value means not bold. | 1 |
-| `colour` | The colour of the line, formatted as `R.G.B`, where each colour component ranges from 0 to 255. | 255.255.255 |
-| `hold` | How long the line will display before starting to fade out, in milliseconds. | *Changes per line* |
-| `size` | The font size of the line, in [points](https://en.wikipedia.org/wiki/Point_(typography)). | 40 |
-| `time` | The time in the song when this line will start to appear, in milliseconds. | *Changes per line* |
-| `wait` | An extra delay before the line shows, in milliseconds. | 500 |
+| Key      | Description                                                                                                    | Default value      |
+| :------- | :------------------------------------------------------------------------------------------------------------- | :----------------- |
+| `bold`   | Whether or not the line's will be in bold type. A value of 1 means bold, while any other value means not bold. | 1                  |
+| `colour` | The colour of the line, formatted as `R.G.B`, where each colour component ranges from 0 to 255.                | 255.255.255        |
+| `hold`   | How long the line will display before starting to fade out, in milliseconds.                                   | _Changes per line_ |
+| `size`   | The font size of the line, in [points](https://en.wikipedia.org/wiki/Point_(typography)).                      | 40                 |
+| `time`   | The time in the song when this line will start to appear, in milliseconds.                                     | _Changes per line_ |
+| `wait`   | An extra delay before the line shows, in milliseconds.                                                         | 500                |
 
 The default values of `time` and `hold` depend on the state of the last line. For the first line, if neither are specified:
 
-- `time` is 200
-- `hold` is `3600 + 800n`, where `n` is the total amount of lines in the title text
+-   `time` is 200
+-   `hold` is `3600 + 800n`, where `n` is the total amount of lines in the title text
 
 For each new line, the defaults for these two options are updated:
 
-- `time` becomes `(previous line's time) + (previous line's wait) + 200`
-- `hold` becomes `(previous line's hold) - 200`
+-   `time` becomes `(previous line's time) + (previous line's wait) + 200`
+-   `hold` becomes `(previous line's hold) - 200`
 
-Whenever `time` is specified explicitly, `hold` is set to `4000 + 800n`. For this reason, it is important to always set `time` *before* `hold` if you use both in the same line. Otherwise, `hold` will be overwritten.
+Whenever `time` is specified explicitly, `hold` is set to `4000 + 800n`. For this reason, it is important to always set `time` _before_ `hold` if you use both in the same line. Otherwise, `hold` will be overwritten.
 
 #### Example
 

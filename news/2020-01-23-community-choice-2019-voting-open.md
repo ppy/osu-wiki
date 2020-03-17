@@ -18,10 +18,10 @@ The highest voted maps from each mode will be branded as the Community Favourite
 
 Got all that? When you're ready to vote, head to the following links:
 
-- [osu!](https://osu.ppy.sh/community/contests/85)
-- [osu!taiko](https://osu.ppy.sh/community/contests/86)
-- [osu!catch](https://osu.ppy.sh/community/contests/87)
-- [osu!mania](https://osu.ppy.sh/community/contests/88)
+-   [osu!](https://osu.ppy.sh/community/contests/85)
+-   [osu!taiko](https://osu.ppy.sh/community/contests/86)
+-   [osu!catch](https://osu.ppy.sh/community/contests/87)
+-   [osu!mania](https://osu.ppy.sh/community/contests/88)
 
 The polls will remain open until the **7th of February, 2020**, which is exactly **15 days** from the date of this post. Get in and get your votes done quick, you'll be surprised how fast it passes by.
 

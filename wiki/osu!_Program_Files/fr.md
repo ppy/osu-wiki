@@ -6,9 +6,10 @@
 
 ### Windows
 
-| Chemin par défaut actuel | Ancien chemin de l'installateur |
-| ------------------------ | ---------------------- |
+| Chemin par défaut actuel                 | Ancien chemin de l'installateur                                             |
+| ---------------------------------------- | --------------------------------------------------------------------------- |
 | `C:\Users\<Username>\AppData\Local\osu!` | `C:\Program Files\osu!` / `C:\Program Files(x86)\osu!` (pour 7 64-bit ou 8) |
+
 > `C:` est le disque dur sur lequel osu est installé.
 
 ## Dossiers
@@ -43,7 +44,7 @@ Apparaît quand vous avez changé la langue d'osu! au moins une fois. **Contient
 Contient des **fichiers externes de replay d'osu! exécutables (.osr)**. Ne fonctionne pas quand la beatmap associé au replay est manquant. Garde les résultats et reproduit les mouvements pendant le replay. Pour créer un .osr, appuyez sur "**[F2]**" sur l'écran des résultats ou cliquez sur "Export replay as .osr" sur l'écran des résultats en ligne (sous l'écran des résultats en Solo uniquement). Ne sauvegarde pas les éléments de multi-play. La taille du fichier varie entre 100Ko et 1Ko. [Pour les joueurs qui sont intéressés par l'upload du replay sur Youtube, regardez ce sujet de forum (anglais seulement)](https://osu.ppy.sh/community/forums/topics/108092).
 
 Le format est `{Nom du joueur local} - {Artiste} - {Titre} {[Difficulté]}{(AAAA-MM-JJ)} {Mode de jeu}`
-**Exemple:** dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS]  (2013-08-12) OsuMania
+**Exemple:** dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS](2013-08-12) OsuMania
 
 ### Screenshots
 
@@ -64,7 +65,7 @@ Pour plus de détails, veuillez vous référer à la page [Skinning](/wiki/Skinn
 Le format est `{Beatmap number} {Artist} - {Song Title}`.
 **Example:** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/beatmapsets/57950)
 
-Veuillez noter que les *anciens* dossiers de beatmaps lors des débuts d'osu! ne possèdent pas cette numérotation et donc ne suivent pas ce format. Certains exemples sont "[discoprince](https://osu.ppy.sh/beatmapsets/1)" ou "[avgn](https://osu.ppy.sh/beatmapsets/66)". Mention spéciale pour "[tutorial](https://osu.ppy.sh/beatmapsets/3756)" puisque tous les joueurs d'osu! l'obtiendront en installant osu! avec le osu!installer. Aussi, les dossiers .osz/.zip crées manuellement peuvent aussi être comptés.
+Veuillez noter que les _anciens_ dossiers de beatmaps lors des débuts d'osu! ne possèdent pas cette numérotation et donc ne suivent pas ce format. Certains exemples sont "[discoprince](https://osu.ppy.sh/beatmapsets/1)" ou "[avgn](https://osu.ppy.sh/beatmapsets/66)". Mention spéciale pour "[tutorial](https://osu.ppy.sh/beatmapsets/3756)" puisque tous les joueurs d'osu! l'obtiendront en installant osu! avec le osu!installer. Aussi, les dossiers .osz/.zip crées manuellement peuvent aussi être comptés.
 
 ### Dossiers cachés
 
@@ -89,16 +90,16 @@ Les fichiers .db sont les données des beatmaps que seul osu!.exe peut utiliser.
 
 Les fichiers de configurations ou fichiers CFG configurent les paramètres initiaux pour qu'osu! fonctionne. Ces fichiers peuvent être ouverts avec le Bloc-notes.
 
-- `osu!.cfg`: Stocke des informations de sécurité des fichiers d'application et flux de la version actuelle d'osu!. Cela ne devrait jamais être modifié manuellement.
-- `osu!.<your PC account name>.cfg`: Stocke les données d'[Options] (/wiki/Options) et d’autres paramètres de jeu. Voir [Fichier de configuration utilisateur] (/wiki/osu! _Program_Files/User_Configuration_File).
+-   `osu!.cfg`: Stocke des informations de sécurité des fichiers d'application et flux de la version actuelle d'osu!. Cela ne devrait jamais être modifié manuellement.
+-   `osu!.<your PC account name>.cfg`: Stocke les données d'[Options](/wiki/Options) et d’autres paramètres de jeu. Voir [Fichier de configuration utilisateur] \(/wiki/osu! \_Program_Files/User_Configuration_File).
 
 ## .exe (Application)
 
 Le composant principal. Cliquez sur eux pour démarrer. Les fichiers .exe sont sûrs à ouvrir en assumant vous avez utilisé le osu!installer pour installer osu!.
 
-- osu!.exe (Démarre osu!)
+-   osu!.exe (Démarre osu!)
 
-# Fichiers cachés 
+# Fichiers cachés
 
 ### .dll (Extension de l'application)
 
@@ -118,7 +119,6 @@ Les fichiers .dll sont des composants d'osu!.exe donc ignorez-les.
 -   x3daudio1_1.dll
 
 **Composants d'osu!**
-
 
 -   osu!gameplay.dll
 -   osu!ui.dll

@@ -18,9 +18,9 @@ applause to our finalists! We wish you a fantastic musical career in the future!
 
 Here are the MP3 links to the performances available for download, enjoy.
 
-* [Slyleaf - 心做し Kokoronashi](http://flan.s-ul.eu/QsrQaLFm)
-* [Daikyi - days](http://flan.s-ul.eu/WoFPI9Sn)
-* [MissTitannia - Vixx](http://flan.s-ul.eu/tYzf45Nk)
+-   [Slyleaf - 心做し Kokoronashi](http://flan.s-ul.eu/QsrQaLFm)
+-   [Daikyi - days](http://flan.s-ul.eu/WoFPI9Sn)
+-   [MissTitannia - Vixx](http://flan.s-ul.eu/tYzf45Nk)
 
 Thank you to everyone who participated, supported and followed the event! Same goes to our judges! Great work, guys!
 

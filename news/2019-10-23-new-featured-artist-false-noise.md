@@ -8,9 +8,9 @@ We're proud to welcome underground producer **False Noise** as our latest additi
 
 ![](https://assets.ppy.sh/artists/52/header.jpg)
 
-Rising to prominence in osu! during early 2017 via the [*Skyshards*](https://osu.ppy.sh/beatmapsets/606995) collaborative map by [Shiirn](https://osu.ppy.sh/users/465126) and [Mir](https://osu.ppy.sh/users/8688812), **False Noise** has been something of a cult sensation among the mapping scene for his incredibly unique and compelling musical flavour, fusing elements of drum and bass and stylistic licks from all across electronica.
+Rising to prominence in osu! during early 2017 via the [_Skyshards_](https://osu.ppy.sh/beatmapsets/606995) collaborative map by [Shiirn](https://osu.ppy.sh/users/465126) and [Mir](https://osu.ppy.sh/users/8688812), **False Noise** has been something of a cult sensation among the mapping scene for his incredibly unique and compelling musical flavour, fusing elements of drum and bass and stylistic licks from all across electronica.
 
-We've managed to snag **11** tracks from his wide catalogue of sound, including *Skyshards*, *Serpentine* and *Kek*, bringing people the **False Noise** they know and love, with a sprinkling of extra tracks as well.
+We've managed to snag **11** tracks from his wide catalogue of sound, including _Skyshards_, _Serpentine_ and _Kek_, bringing people the **False Noise** they know and love, with a sprinkling of extra tracks as well.
 
 Take a listen for yourself and see what all the hype's about:
 
@@ -32,13 +32,11 @@ Take a listen for yourself and see what all the hype's about:
     <source src="https://assets.ppy.sh/artists/52/previews/1529.mp3" type="audio/mpeg">
 </audio>
 
-
 ### Emerald Green
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/52/previews/1522.mp3" type="audio/mpeg">
 </audio>
-
 
 ### Kek
 
@@ -46,23 +44,23 @@ Take a listen for yourself and see what all the hype's about:
     <source src="https://assets.ppy.sh/artists/52/previews/1527.mp3" type="audio/mpeg">
 </audio>
 
--------
+* * *
 
 As always, the above tracks and all the others are immediately available from [**False Noise**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/52) for modding and mapping, no fuss, and 100% free.
 
-This now leaves us with this week's newest dilemma: the ominous *hint* of our next release to come. Toy's got the reins on this one, so I'll leave it to him:
+This now leaves us with this week's newest dilemma: the ominous _hint_ of our next release to come. Toy's got the reins on this one, so I'll leave it to him:
 
-*You wake up in a dark room. The pungent stench of blight and mildew fills your lungs as you fiddle around for a light switch.*
+_You wake up in a dark room. The pungent stench of blight and mildew fills your lungs as you fiddle around for a light switch._
 
-*You flip the power on, rejuvenating the light bulb's core.*
+_You flip the power on, rejuvenating the light bulb's core._
 
-*A lone spider spins an immaculate web in the windowsill—a harsh contrast to the hundreds of corpses that lay waste beyond the silk dream-catcher.*
+_A lone spider spins an immaculate web in the windowsill—a harsh contrast to the hundreds of corpses that lay waste beyond the silk dream-catcher._
 
-*Distant figures celebrate, chugging alcohol and blaring music.*
+_Distant figures celebrate, chugging alcohol and blaring music._
 
-*"What are those things? Trolls?" you mutter, mind racing, trying to recall anything about their arrival.*
+_"What are those things? Trolls?" you mutter, mind racing, trying to recall anything about their arrival._
 
-*You catch a green speck dart behind you. "We're better."*
+_You catch a green speck dart behind you. "We're better."_
 
 But what does this all mean? Spooky! Find out next week!
 

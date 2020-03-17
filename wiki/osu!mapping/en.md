@@ -11,7 +11,7 @@ tags:
 
 # osu!mapping
 
-*Not to be confused with [Beatmapping](/wiki/Beatmapping).*
+_Not to be confused with [Beatmapping](/wiki/Beatmapping)._
 
 **osu!mapping** is a weekly video series created by ![](/wiki/shared/flag/US.gif) **[pishifat](https://osu.ppy.sh/users/3178418)** about the [mapping](/wiki/Beatmapping) and [modding](/wiki/Modding) ecosystem. It is hosted on [pishifat's personal YouTube channel](https://www.youtube.com/user/Pishifat), and most people know it as just "pishifat videos" or "pishi videos".
 
@@ -21,28 +21,29 @@ osu!mapping's regularly scheduled uploads ended in January 2019, but there are s
 
 ## Links
 
-- **[YouTube channel](https://www.youtube.com/user/Pishifat)**
-- [Patreon](https://www.patreon.com/pishifat) (currently closed)
-- [Twitter](https://twitter.com/pishifat)
+-   **[YouTube channel](https://www.youtube.com/user/Pishifat)**
+-   [Patreon](https://www.patreon.com/pishifat) (currently closed)
+-   [Twitter](https://twitter.com/pishifat)
 
 ## History
 
 osu!mapping began as a response to [a reddit post](https://www.reddit.com/r/osugame/comments/4upysl/request_for_mappers_of_this_sub/) asking mappers to create mapping commentary videos. On 2016-07-31, pishifat uploaded the first video: [osu!mapping: concepts](https://www.youtube.com/watch?v=oL3az8FhlB4). In the video, he explains how he was going to create the commentary like the redditor suggested, but ultimately decided against it because a straight thought-process commentary of mapping would not do a good job of introducing new mappers to the wide variety of mapping concepts. Instead, he chose to start a video series where each episode would focus on a specific concept, digging into their usages and importance separately.
 
 <!-- TODO: this is not really concrete history -->
+
 The series focused on this tutorial-style content at first, but started branching out a few months in to include discussions about the state of mapping and modding, personal/opinionated commentaries, and interviews. There have also been some research projects presented in the form of osu!mapping videos, most notably [a study of mappers' influences](https://www.youtube.com/watch?v=TigwDc5iOcw).
 
 ## Episodes
 
-1. [concepts](https://www.youtube.com/watch?v=oL3az8FhlB4)
-2. [spacing emphasis](https://www.youtube.com/watch?v=rAYm50d6XMw)
-3. [basic spacing](https://www.youtube.com/watch?v=v1_HRo-lWWI)
-4. [basic rhythm](https://www.youtube.com/watch?v=3BC_I2ufqC8)
-5. [irregular rhythm](https://www.youtube.com/watch?v=c7jYwSVjiSo)
-6. [the editor](https://www.youtube.com/watch?v=2k8s0gBg9yU)
-7. [aesthetics](https://www.youtube.com/watch?v=FCB5rLXqWKY)
-8. [1 3 2 4](https://www.youtube.com/watch?v=qmCEfh865b4)
-9. [flow + circles](https://www.youtube.com/watch?v=ig7nTSbWwVc)
+1.  [concepts](https://www.youtube.com/watch?v=oL3az8FhlB4)
+2.  [spacing emphasis](https://www.youtube.com/watch?v=rAYm50d6XMw)
+3.  [basic spacing](https://www.youtube.com/watch?v=v1_HRo-lWWI)
+4.  [basic rhythm](https://www.youtube.com/watch?v=3BC_I2ufqC8)
+5.  [irregular rhythm](https://www.youtube.com/watch?v=c7jYwSVjiSo)
+6.  [the editor](https://www.youtube.com/watch?v=2k8s0gBg9yU)
+7.  [aesthetics](https://www.youtube.com/watch?v=FCB5rLXqWKY)
+8.  [1 3 2 4](https://www.youtube.com/watch?v=qmCEfh865b4)
+9.  [flow + circles](https://www.youtube.com/watch?v=ig7nTSbWwVc)
 10. [hitsounds](https://www.youtube.com/watch?v=Lz6D7HPJ0eQ)
 11. [flow + sliders](https://www.youtube.com/watch?v=GYGatwQszwQ)
 12. [gimmicks](https://www.youtube.com/watch?v=nk8h1HVb8_A)
@@ -133,30 +134,30 @@ The series focused on this tutorial-style content at first, but started branchin
 97. [mappers](https://www.youtube.com/watch?v=TigwDc5iOcw)
 98. [drum n bass](https://www.youtube.com/watch?v=Y9KnfQnssxc)
 99. [circle/slider only](https://www.youtube.com/watch?v=xbRKUFLdcSM)
-100. [playfield usage](https://www.youtube.com/watch?v=CVRULow2tJo)
-101. [new mappers](https://www.youtube.com/watch?v=UjHVyBJudgg)
-102. [accelerating bpm](https://www.youtube.com/watch?v=BrO3GPy9mcY)
-103. [bn promotion](https://www.youtube.com/watch?v=mxtAIr0RQQs)
-104. [two years](https://www.youtube.com/watch?v=UIPp9hZ0TuM)
-105. [lazer's hitsounds](https://www.youtube.com/watch?v=W0yUnAyiHnI)
-106. [breakcore](https://www.youtube.com/watch?v=uE10Rbg_Fds)
-107. [expectations](https://www.youtube.com/watch?v=qUpdmKDo7BQ)
-108. [spread rules](https://www.youtube.com/watch?v=b5l6ftgCcyM)
-109. [cycles of change](https://www.youtube.com/watch?v=E0Ad9fN3d6A)
-110. [ds origins](https://www.youtube.com/watch?v=JdAlJdAqeuo)
-111. [swing songs](https://www.youtube.com/watch?v=-qGgJC5LtIM)
-112. [fanzhen](https://www.youtube.com/watch?v=f5p_mQu290g)
-113. [developments before ppv2](https://www.youtube.com/watch?v=yp1jGc4o-Yw)
-114. [year 2 of "loved"](https://www.youtube.com/watch?v=oNnDSdoTI2Y)
-115. [Mismagius & difficult maps](https://www.youtube.com/watch?v=TIr4kKyQjc0)
-116. [Sotarks & not only pp](https://www.youtube.com/watch?v=p8A599ZYtZ8)
-117. [anime](https://www.youtube.com/watch?v=pJRTpphiJzw)
-118. [Mazzerin & metal](https://www.youtube.com/watch?v=FxmVFRYiuwE)
-119. [KIRBY Mix](https://www.youtube.com/watch?v=asBB6Cf6l2k)
-120. [ProfessionalBox & "unplayable" maps](https://www.youtube.com/watch?v=pG0omZfzfpg)
-121. [evolving low difficulties](https://www.youtube.com/watch?v=FAv5BsI3qLk)
-122. [learning taiko](https://www.youtube.com/watch?v=kM0bUdpptsY)
-123. [the BAT/QAT split](https://www.youtube.com/watch?v=zgKo04_xklY)
-124. [some thoughts on mods](https://www.youtube.com/watch?v=58mUWF8U8HU)
-125. [DQ comparisons](https://www.youtube.com/watch?v=AXtzIPfIaJs)
-126. [russia](https://www.youtube.com/watch?v=0xiXZNBBi24)
+100.    [playfield usage](https://www.youtube.com/watch?v=CVRULow2tJo)
+101.    [new mappers](https://www.youtube.com/watch?v=UjHVyBJudgg)
+102.    [accelerating bpm](https://www.youtube.com/watch?v=BrO3GPy9mcY)
+103.    [bn promotion](https://www.youtube.com/watch?v=mxtAIr0RQQs)
+104.    [two years](https://www.youtube.com/watch?v=UIPp9hZ0TuM)
+105.    [lazer's hitsounds](https://www.youtube.com/watch?v=W0yUnAyiHnI)
+106.    [breakcore](https://www.youtube.com/watch?v=uE10Rbg_Fds)
+107.    [expectations](https://www.youtube.com/watch?v=qUpdmKDo7BQ)
+108.    [spread rules](https://www.youtube.com/watch?v=b5l6ftgCcyM)
+109.    [cycles of change](https://www.youtube.com/watch?v=E0Ad9fN3d6A)
+110.    [ds origins](https://www.youtube.com/watch?v=JdAlJdAqeuo)
+111.    [swing songs](https://www.youtube.com/watch?v=-qGgJC5LtIM)
+112.    [fanzhen](https://www.youtube.com/watch?v=f5p_mQu290g)
+113.    [developments before ppv2](https://www.youtube.com/watch?v=yp1jGc4o-Yw)
+114.    [year 2 of "loved"](https://www.youtube.com/watch?v=oNnDSdoTI2Y)
+115.    [Mismagius & difficult maps](https://www.youtube.com/watch?v=TIr4kKyQjc0)
+116.    [Sotarks & not only pp](https://www.youtube.com/watch?v=p8A599ZYtZ8)
+117.    [anime](https://www.youtube.com/watch?v=pJRTpphiJzw)
+118.    [Mazzerin & metal](https://www.youtube.com/watch?v=FxmVFRYiuwE)
+119.    [KIRBY Mix](https://www.youtube.com/watch?v=asBB6Cf6l2k)
+120.    [ProfessionalBox & "unplayable" maps](https://www.youtube.com/watch?v=pG0omZfzfpg)
+121.    [evolving low difficulties](https://www.youtube.com/watch?v=FAv5BsI3qLk)
+122.    [learning taiko](https://www.youtube.com/watch?v=kM0bUdpptsY)
+123.    [the BAT/QAT split](https://www.youtube.com/watch?v=zgKo04_xklY)
+124.    [some thoughts on mods](https://www.youtube.com/watch?v=58mUWF8U8HU)
+125.    [DQ comparisons](https://www.youtube.com/watch?v=AXtzIPfIaJs)
+126.    [russia](https://www.youtube.com/watch?v=0xiXZNBBi24)

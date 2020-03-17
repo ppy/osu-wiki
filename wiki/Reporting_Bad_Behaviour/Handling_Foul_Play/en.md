@@ -4,11 +4,11 @@
 
 A user may get restricted if they do any of the following:
 
-- Continuous misbehaviour regardless of how many infringements they accumulate.
-- Circumventing a punishment by making a new account.
-- Sharing their account with other users.
-- Multi-accounting.
-- Hacking or cheating (see below).
+-   Continuous misbehaviour regardless of how many infringements they accumulate.
+-   Circumventing a punishment by making a new account.
+-   Sharing their account with other users.
+-   Multi-accounting.
+-   Hacking or cheating (see below).
 
 ## What is considered multi-accounting?
 
@@ -43,7 +43,7 @@ You should report the user and not mention them anywhere. There are three ways t
 
 On the user's profile, a `Report User` button will appear when you move your cursor to their avatar. Write any information that can prove that the user is doing misbehaviour.
 
-*Take note of the selected game mode before reporting.*
+_Take note of the selected game mode before reporting._
 
 ### Beatmap page
 
@@ -57,10 +57,8 @@ This way of reporting is **not encouraged** because in-game reports are mostly c
 
 Use the `!report` command in any public channel to inform the chat moderators. Other players will not see your reports in chat.
 
-```
-Format: !report <username> <reason>
-Example: !report this_user suspected cheating
-```
+    Format: !report <username> <reason>
+    Example: !report this_user suspected cheating
 
 Your help in spotting foul play is much appreciated. We review every report we receive, but that does not mean that all of them will lead to us taking action! You can also send an email directly to [osu@ppy.sh](mailto:osu@ppy.sh) for a relatively fast response.
 
@@ -74,7 +72,7 @@ Wait three months after the latest issued restriction before appealing. Address 
 
 The team expects users to give a full history of their actions and give reasons why they won't be reoffending in the future.
 
-*It might take time for us to reply to your appeal, but no appeals will be ignored.*
+_It might take time for us to reply to your appeal, but no appeals will be ignored._
 
 ## What can I do if I've broken the rules?
 

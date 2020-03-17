@@ -16,6 +16,7 @@ The osu! community never ceases to break new ground in polling turnouts! Per tra
 The result of this system is that (a) maps with higher play counts do not have an unfair advantage and (b) votes are considered in the context of the other maps that user has played.
 
 <!-- Save for Web Slices (Best Beatmaps 2015.psd) -->
+
 <table id="Table_01" width="752" height="800" border="0" cellpadding="0" cellspacing="0">
     <tr>
         <td colspan="11">

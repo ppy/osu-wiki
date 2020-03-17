@@ -16,7 +16,7 @@ As with all Featured Artist tracks, these new additions are 100% free for use in
 
 [![](https://assets.ppy.sh/artists/21/header.jpg)](https://osu.ppy.sh/beatmaps/artists/21)
 
-Featuring *Moth* from [**Dictate**](https://osu.ppy.sh/beatmaps/artists/21)'s contribution to the collab album [MELTDOWN](https://soundcloud.com/renrakuglobalmedia/sets/va-meltdown-free-download) and *Secede* from some of his more personal experiments, there's something both familiar and fresh in this bite-sized update.
+Featuring _Moth_ from [**Dictate**](https://osu.ppy.sh/beatmaps/artists/21)'s contribution to the collab album [MELTDOWN](https://soundcloud.com/renrakuglobalmedia/sets/va-meltdown-free-download) and _Secede_ from some of his more personal experiments, there's something both familiar and fresh in this bite-sized update.
 
 ### Moth
 
@@ -34,9 +34,9 @@ Featuring *Moth* from [**Dictate**](https://osu.ppy.sh/beatmaps/artists/21)'s co
 
 [![](https://assets.ppy.sh/artists/15/header.jpg)](https://osu.ppy.sh/beatmaps/artists/15)
 
-Back in style and doing what they do best, the latest release from [**Fractal Dreamers**](https://osu.ppy.sh/beatmaps/artists/15) is none other than *Monolithia*, an album featuring a classic and continual evolution of their unique sound.
+Back in style and doing what they do best, the latest release from [**Fractal Dreamers**](https://osu.ppy.sh/beatmaps/artists/15) is none other than _Monolithia_, an album featuring a classic and continual evolution of their unique sound.
 
-They go fast, and they go *hard*, in that classic way that only Fractal Dreamers knows how to pull off. There are **8** tracks from Monolithia to choose from, so make sure to check out their listing for the full details!
+They go fast, and they go _hard_, in that classic way that only Fractal Dreamers knows how to pull off. There are **8** tracks from Monolithia to choose from, so make sure to check out their listing for the full details!
 
 ### Monolithia
 
@@ -44,7 +44,7 @@ They go fast, and they go *hard*, in that classic way that only Fractal Dreamers
     <source src="https://assets.ppy.sh/artists/15/previews/896.mp3" type="audio/mpeg">
 </audio>
 
-### Virulence 
+### Virulence
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/15/previews/898.mp3" type="audio/mpeg">
@@ -74,9 +74,9 @@ They go fast, and they go *hard*, in that classic way that only Fractal Dreamers
 
 One of the earliest creators to have joined the Featured Artist project, [**sakuraburst**](https://osu.ppy.sh/beatmaps/artists/8) has been hard at work for years now developing his highly renowned sound.
 
-We've managed to snag a three-track selection from his highly acclaimed *HARPSINGER SINGLES*—pieces that masterfully straddle the divide between emotive, instrumental expression and that stark, electronic brilliance that he is renowned for.
+We've managed to snag a three-track selection from his highly acclaimed _HARPSINGER SINGLES_—pieces that masterfully straddle the divide between emotive, instrumental expression and that stark, electronic brilliance that he is renowned for.
 
-On top of that, we've also got a brand new piece in *SELF DESTRUCT*, a collab track between him and hyleo in *Galaxy Cutter*, and something a little different in *AETHERSONG*. Check them all out!
+On top of that, we've also got a brand new piece in _SELF DESTRUCT_, a collab track between him and hyleo in _Galaxy Cutter_, and something a little different in _AETHERSONG_. Check them all out!
 
 ### THE SKIES OPEN
 
@@ -114,7 +114,7 @@ On top of that, we've also got a brand new piece in *SELF DESTRUCT*, a collab tr
     <source src="https://assets.ppy.sh/artists/8/previews/888.mp3" type="audio/mpeg">
 </audio>
 
--------
+* * *
 
 We've got another big (and familiar!) artist release slated for the end of the month with well over a dozen tracks in the wings, so if your thirst for new music just can't be sated, make sure to check in then!
 

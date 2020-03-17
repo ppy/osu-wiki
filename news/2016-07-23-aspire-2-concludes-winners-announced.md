@@ -21,7 +21,7 @@ View his spectacular winning entry below, courtesy of the osu!news channel:
 
 [![Aspire 2 Winning Entry](http://img.youtube.com/vi/AojiyLR7ntU/0.jpg)](http://www.youtube.com/watch?v=AojiyLR7ntU "Aspire 2 Winning Entry")
 
-Monstrata takes home a whopping 6 months of osu!supporter, a unique Aspire 2016 profile badge, and the *Elite Mapper: Aspirant* forum title. His mapset will be posted for approval shortly, though we'll need to do some tweaking on the back-end to ensure that it isn't giving away some of the hardest achievements we've ever released for free!
+Monstrata takes home a whopping 6 months of osu!supporter, a unique Aspire 2016 profile badge, and the _Elite Mapper: Aspirant_ forum title. His mapset will be posted for approval shortly, though we'll need to do some tweaking on the back-end to ensure that it isn't giving away some of the hardest achievements we've ever released for free!
 
 [Play it for yourself and see!](https://osu.ppy.sh/beatmapsets/484689)
 
@@ -41,7 +41,7 @@ A number of other entrants had entries worthy of an Honorable Mention:
 
 [Wafu](https://osu.ppy.sh/users/Wafu) stunned us all with an excellent map coupled with a stunning storyboard to the backing track. Very much worthy of its mention! [Play Wafu's entry here!](https://osu.ppy.sh/beatmapsets/484593)
 
----
+* * *
 
 All in all, I am ecstatic with how well this contest went. We had less overall entries compared to the first contest, but the general quality of the submissions this time was leagues above, and it seems that many talented individuals within the mapping community greatly value these contests to flex their creative muscles and try something new.
 

@@ -2,7 +2,7 @@
 
 ![SB object/sprite call](img/SBS_Sprite.jpg "SB object/sprite call")
 
-*For objects in [osu!standard](/wiki/Game_Modes/osu!) and [Beatmapping](/wiki/Beatmapping), see: [Hit Objects](/wiki/Hit_Objects)*
+_For objects in [osu!standard](/wiki/Game_Modes/osu!) and [Beatmapping](/wiki/Beatmapping), see: [Hit Objects](/wiki/Hit_Objects)_
 
 In [Storyboarding](/wiki/Storyboards), **Objects** are sprites or animations that appear on the screen and make up the storyboard. Instances of SB-specific audio can also be considered to be objects; however, for clarity, they have [their own section of this guide](/wiki/Storyboard_Scripting/Audio).
 
@@ -10,8 +10,8 @@ In [Storyboarding](/wiki/Storyboards), **Objects** are sprites or animations tha
 
 To call an instance of a sprite (a still image) or an animation, use a single line in the `[Events]` section of an .osb or .osu file.
 
-| Basic image | Moving image |
-| ----------- | ------------ |
+| Basic image                                  | Moving image                                                                         |
+| -------------------------------------------- | ------------------------------------------------------------------------------------ |
 | Sprite,(layer),(origin),"(filepath)",(x),(y) | Animation,(layer),(origin),"(filepath)",(x),(y),(frameCount),(frameDelay),(looptype) |
 
 Where:
@@ -37,13 +37,14 @@ Where:
         -   Example: "backgrounds/sky.jpg" if you have a subfolder called "backgrounds" with an image called "sky.jpg" in it. Start listing directories only from the Song Folder, where the .osu or .osb file is (i.e., a relative filepath). It should not have something like "C:" anywhere in it.
     -   Animations are referred to without their number. So if you have "sample0.png" and "sample1.png" as two frames to make a single animation, you want to refer to it as "sample.png".
     -   The ""s are technically optional, but they're required if your filename or subfolder name has spaces.
-        -   Example: "SB/J\_K.jpg" rather than SB/J\_K.jpg. The prior will find in SB folder for J\_K.jpg while the later will null the instance (it finds SB/J, an invalid variable).
+        -   Example: "SB/J_K.jpg" rather than SB/J_K.jpg. The prior will find in SB folder for J_K.jpg while the later will null the instance (it finds SB/J, an invalid variable).
 -   **(x)** and **(y)** are the **x-/y-coordinates of where the object should be, by default respectively.** The interpretation of this depends on the value of (origin); for instance, to place a 640x480 image as your background, the values could be:
+
     -   origin = TopLeft, x = 0, y = 0
     -   origin = Centre, x = 320, y = 240
     -   origin = BottomRight, x = 640, y = 480
 
-        *and so on.*
+        _and so on._
 
 **For animation only**
 
@@ -53,12 +54,12 @@ Where:
     -   LoopForever (default if you leave this value off; the animation will return to the first frame after finishing the last frame)
     -   LoopOnce (the animation will stop on the last frame and continue to display that last frame; useful for, like, an animation of someone turning around)
 
-Take note that *there is no indication of when the object should appear*. That is entirely up to [the commands themselves](/wiki/Storyboard_Scripting/Commands). The order of the object declarations in the .osu or .osb file only affects what overlaps what; it has no bearing on when the object appears (although it's conventional to keep the declarations ordered based on when they appear anyway).
+Take note that _there is no indication of when the object should appear_. That is entirely up to [the commands themselves](/wiki/Storyboard_Scripting/Commands). The order of the object declarations in the .osu or .osb file only affects what overlaps what; it has no bearing on when the object appears (although it's conventional to keep the declarations ordered based on when they appear anyway).
 
 ## Examples
 
-| Basic image | Moving image |
-| ----------- | ------------ |
+| Basic image                                  | Moving image                                                                         |
+| -------------------------------------------- | ------------------------------------------------------------------------------------ |
 | Sprite,(layer),(origin),"(filepath)",(x),(y) | Animation,(layer),(origin),"(filepath)",(x),(y),(frameCount),(frameDelay),(looptype) |
 
 Some examples of object declarations:

@@ -14,10 +14,10 @@ The beatmap charts for the October Spotlights can be found [here](https://osu.pp
 
 Congratulations to the winners of the September 2017 Spotlights. They will receive one month of supporter status for their efforts!
 
-+ **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
-+ **osu!taiko:** [asuasu_yura](https://osu.ppy.sh/users/2875968)
-+ **osu!catch:** [Motion](https://osu.ppy.sh/users/3885626)
-+ **osu!mania:** [Lindyes](https://osu.ppy.sh/users/7462804)
+-   **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
+-   **osu!taiko:** [asuasu_yura](https://osu.ppy.sh/users/2875968)
+-   **osu!catch:** [Motion](https://osu.ppy.sh/users/3885626)
+-   **osu!mania:** [Lindyes](https://osu.ppy.sh/users/7462804)
 
 ## osu!
 
@@ -109,7 +109,7 @@ We can also appreciate some Slider Velocities in every intersection the map has,
 
 Kim is actually a pretty known mapper in the pending section with his popular 7K maps and he has made a splendid job ranking this map with such a good pattern making style which totally deserves a spot in this spotlight.
 
---------
+* * *
 
 And that is the end of this month's Spotlight listing. We hope that you click, drum, catch, and mash your heart out from these maps and earn a shiny medal for your profile page! Look forward to next month's installment!
 

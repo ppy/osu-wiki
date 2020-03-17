@@ -22,7 +22,7 @@ And when we thought it was just a duel, [Angelsim](https://osu.ppy.sh/users/1777
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/RrCNNdcsWQw" frameborder="0" allowfullscreen></iframe></br>
 
-Miss [_yu68](https://osu.ppy.sh/users/6170507) already? Fear not, he is back on setting scores here with a possibly casual 99.63% DT FC on [Infected Mushroom - Nutmeg](https://osu.ppy.sh/beatmaps/1306449?m=1) to score 538pp. We really have to wonder how he manages to do stuff like this without fail.
+Miss [\_yu68](https://osu.ppy.sh/users/6170507) already? Fear not, he is back on setting scores here with a possibly casual 99.63% DT FC on [Infected Mushroom - Nutmeg](https://osu.ppy.sh/beatmaps/1306449?m=1) to score 538pp. We really have to wonder how he manages to do stuff like this without fail.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/nX0somgZo1k" frameborder="0" allowfullscreen></iframe></br>
 

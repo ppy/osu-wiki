@@ -16,24 +16,24 @@ Pudes ver los círculos en la pantalla inferior, y en la pantalla superior tiene
 
 ### ¿Cómo puedo jugar?
 
-*Explicación completa: [osu! Standard](/wiki/Game_Modes/osu!)*
+_Explicación completa: [osu! Standard](/wiki/Game_Modes/osu!)_
 
 Aunque la mayoría de los usuarios de PC no tiene una pantalla táctil a su disposición, este juego fue hecho para ser jugable con un ratón normal, así como cualquier número de dispositivos de entrada que puedas imaginar. Los diferentes estilos de juego pueden ser encontrados en [ésta](/wiki/Play_Styles) página. Existen algunas canciones que prolongan los límites del ratón normal (y de ti), pero todos los beatmaps ([rankeados](/wiki/Beatmaps) y [aprobados](/wiki/Beatmaps)) han sido probados y (la mayoría) son posibles de pasar solo con un ratón.
 
 #### Lo Básico del Juego
 
-*Tutorial: [Tutorial Origina (Incluido en la versión de osu! para PC)](https://osu.ppy.sh/beatmapsets/3756), [Version Rankeada del beatmap](https://osu.ppy.sh/beatmapsets/19928)*
+_Tutorial: [Tutorial Origina (Incluido en la versión de osu! para PC)](https://osu.ppy.sh/beatmapsets/3756), [Version Rankeada del beatmap](https://osu.ppy.sh/beatmapsets/19928)_
 
 El juego pone énfasis en:
 
-- La capacidad de adaptación y reacción a los estímulos (así es, los ["Hit Objects"](/wiki/Hit_Objects) aparecen en pantalla a la velocidad de la luz)
-- Entender el ritmo y diseño de la canción.
-- El control sobre tu ratón (o tus habilidades de dedos/uso de bolígrafo si estás usando una tablet en su lugar)
-- Sincronizar tus toques con el objeto que aparece en la pantalla.
-- La habilidad de girar el ratón (o tu dedo/bolígrafo para tablets) en círculos.
-- Tu resistencia física (especialmente en canciones maratón).
-- El correcto posicionamiento del ratón y la coordinación mano-ojo.
-- La capacidad de tu hardware (especialmente tu ratón/tablet).
+-   La capacidad de adaptación y reacción a los estímulos (así es, los ["Hit Objects"](/wiki/Hit_Objects) aparecen en pantalla a la velocidad de la luz)
+-   Entender el ritmo y diseño de la canción.
+-   El control sobre tu ratón (o tus habilidades de dedos/uso de bolígrafo si estás usando una tablet en su lugar)
+-   Sincronizar tus toques con el objeto que aparece en la pantalla.
+-   La habilidad de girar el ratón (o tu dedo/bolígrafo para tablets) en círculos.
+-   Tu resistencia física (especialmente en canciones maratón).
+-   El correcto posicionamiento del ratón y la coordinación mano-ojo.
+-   La capacidad de tu hardware (especialmente tu ratón/tablet).
 
 Estas son algunas de las habilidades esenciales que aprenderás a medida que avances en convertirte en un maestro del ritmo de osu!. Antes de salir para convertirte en un maestro del ritmo, debes aprender lo básico (y teorías) de los objetos.
 
@@ -43,38 +43,38 @@ Vamos a aprender cuáles son los objetos ¿De acuerdo?
 
 ![](/wiki/shared/osu_hitcircles.jpg)
 
-- Aquí puedes ver los círculos que debes presionar.
-  - El anillo que rodea al hit-circle en la parte exterior se encoge gradualmente y debes presionar la nota en el momento exacto en el que el anillo exterior coincide con el borde blanco.
-- Para entender el encanto oculto de los hit-circles, no deberías solo confiar en tu percepción (tus ojos), sino también entender el ritmo del beatmap con tus oídos (auditivo).
+-   Aquí puedes ver los círculos que debes presionar.
+    -   El anillo que rodea al hit-circle en la parte exterior se encoge gradualmente y debes presionar la nota en el momento exacto en el que el anillo exterior coincide con el borde blanco.
+-   Para entender el encanto oculto de los hit-circles, no deberías solo confiar en tu percepción (tus ojos), sino también entender el ritmo del beatmap con tus oídos (auditivo).
 
 ##### Sliders
 
 ![](/wiki/shared/osu_slider.jpg)
 
-- Aquí tenemos un slider.
-  - Primero, tienes que presionarlo en el momento correcto, pero esto no termina aquí.
-  - Una bola empezará a moverse a través del trayecto que ves.
-  - Debes mantener presionado el ratón/botón del teclado (o tu dedo/bolígrafo en la tablet) y mantener tu puntero dentro del grueso círculo anaranjado que rodea la bola mientras se mueve.
-    - No puedes controlar el movimiento como quieras, debes seguir la trayectoria.
-    - El círculo anaranjado aparecerá si lo mantienes presionado y desaparecerá cuando dejes de presionarlo.
-  - A veces, como en la imagen de arriba, debes regresar en el final del trayecto y terminar en el principio.
-  - Esto lo indica el símbolo de reversa al final del trayecto.
+-   Aquí tenemos un slider.
+    -   Primero, tienes que presionarlo en el momento correcto, pero esto no termina aquí.
+    -   Una bola empezará a moverse a través del trayecto que ves.
+    -   Debes mantener presionado el ratón/botón del teclado (o tu dedo/bolígrafo en la tablet) y mantener tu puntero dentro del grueso círculo anaranjado que rodea la bola mientras se mueve.
+        -   No puedes controlar el movimiento como quieras, debes seguir la trayectoria.
+        -   El círculo anaranjado aparecerá si lo mantienes presionado y desaparecerá cuando dejes de presionarlo.
+    -   A veces, como en la imagen de arriba, debes regresar en el final del trayecto y terminar en el principio.
+    -   Esto lo indica el símbolo de reversa al final del trayecto.
 
 ##### Spinners
 
 ![](/wiki/shared/osu_spinner.jpg)
 
-- Este es un spinner.
-  - Debes mantener presionado el botón asignado (normalmente click), y usar el ratón para girar (en el sentido de las agujas del reloj o viceversa) en círculos como un loco antes de que el tiempo (que es, la línea del círculo azul) se agote.
-    - La barra exterior indica lo cerca que estás de acabar.
-    - La pequeña barra bajo el spinner muestra los spins por minuto, quiere decir, el número de vueltas que harás si continúas a esa velocidad durante un minuto.
-    - Si no mantienes ningún botón antes de dar vueltas, no podrás llenar el medidor de SPM.
-- En el DS, esta es una buena manera de rayar tu pantalla táctil (o protector de pantalla), especialmente en las mayores dificultades.
-- En osu!, los spinners han sido atenuados para que no sean molestos de completar.
-  - El máximo número de spins por minuto posible es 477 que es también la velocidad con la que el mod [Auto](/wiki/Game_Modifiers) gira, mientras que el mod [Spun Out](/wiki/Game_Modifiers) gira a menos de 287 spins por minuto.
-  - Practica y trata de girar en cículos muy pequeños (como hace el mod Auto, pero poniendo un esfuerzo en tu brazo si es que no estás acostumbrado.)
-- \[Ratón\]**Si tu cursor no gira en absoluto, o se mueve estáticamente a pesar de que giras muy rápido. O bien entiende que es el límite de tu ratón o consigue un mejor ratón/mousepad**.
-  - Un ratón convencional puede sufrir este problema, y lo mejor es **empezar a girar lentamente en lugar de girar muy rápido repentinamente** de modo que el ratón pueda detectar lo que estás haciendo.
+-   Este es un spinner.
+    -   Debes mantener presionado el botón asignado (normalmente click), y usar el ratón para girar (en el sentido de las agujas del reloj o viceversa) en círculos como un loco antes de que el tiempo (que es, la línea del círculo azul) se agote.
+        -   La barra exterior indica lo cerca que estás de acabar.
+        -   La pequeña barra bajo el spinner muestra los spins por minuto, quiere decir, el número de vueltas que harás si continúas a esa velocidad durante un minuto.
+        -   Si no mantienes ningún botón antes de dar vueltas, no podrás llenar el medidor de SPM.
+-   En el DS, esta es una buena manera de rayar tu pantalla táctil (o protector de pantalla), especialmente en las mayores dificultades.
+-   En osu!, los spinners han sido atenuados para que no sean molestos de completar.
+    -   El máximo número de spins por minuto posible es 477 que es también la velocidad con la que el mod [Auto](/wiki/Game_Modifiers) gira, mientras que el mod [Spun Out](/wiki/Game_Modifiers) gira a menos de 287 spins por minuto.
+    -   Practica y trata de girar en cículos muy pequeños (como hace el mod Auto, pero poniendo un esfuerzo en tu brazo si es que no estás acostumbrado.)
+-   \[Ratón]**Si tu cursor no gira en absoluto, o se mueve estáticamente a pesar de que giras muy rápido. O bien entiende que es el límite de tu ratón o consigue un mejor ratón/mousepad**.
+    -   Un ratón convencional puede sufrir este problema, y lo mejor es **empezar a girar lentamente en lugar de girar muy rápido repentinamente** de modo que el ratón pueda detectar lo que estás haciendo.
 
 #### Interfaz del Juego
 
@@ -82,20 +82,20 @@ Vamos a aprender cuáles son los objetos ¿De acuerdo?
 
 Esta es la interfaz del estilo de juego osu! Standard.
 
-- La barra superior izquierda muestra tu "salud".
-  - Esta disminuirá a un ritmo constante \[dependiendo de la dificultad del beatmap establecida por el(los) [mapper(s)](/wiki/Glossary), pero puedes reponerlo presionando las notas en el momento correcto.
-  - Un "hit" (golpe) perfecto ([300](/wiki/Glossary) o Geki Beat) incrementará tu salud más que un hit mal hecho([50](/wiki/Glossary)).
-  - Muchos errores quitarán una buena parte de tu salud.
-- Al lado de la barra de salud (a la derecha) se muestra tu puntaje.
-- Debajo del puntaje está tu precisión.
-- El círculo al lado de tu precisión y debajo de tu puntaje es la barra de tiempo, que muestra la duración de la canción.
-- El número en la parte inferior izquierda es el contador de combo/multiplicador de puntaje.
+-   La barra superior izquierda muestra tu "salud".
+    -   Esta disminuirá a un ritmo constante \[dependiendo de la dificultad del beatmap establecida por el(los) [mapper(s)](/wiki/Glossary), pero puedes reponerlo presionando las notas en el momento correcto.
+    -   Un "hit" (golpe) perfecto ([300](/wiki/Glossary) o Geki Beat) incrementará tu salud más que un hit mal hecho([50](/wiki/Glossary)).
+    -   Muchos errores quitarán una buena parte de tu salud.
+-   Al lado de la barra de salud (a la derecha) se muestra tu puntaje.
+-   Debajo del puntaje está tu precisión.
+-   El círculo al lado de tu precisión y debajo de tu puntaje es la barra de tiempo, que muestra la duración de la canción.
+-   El número en la parte inferior izquierda es el contador de combo/multiplicador de puntaje.
 
 ## Otros Modos de Juego
 
 ### ¿Qué es "Taiko"?
 
-*Explicación completa: [Taiko](/wiki/Game_Modes/osu!taiko)*
+_Explicación completa: [Taiko](/wiki/Game_Modes/osu!taiko)_
 
 ![](/wiki/shared/Interface_taiko.jpg)
 
@@ -107,39 +107,39 @@ Como en osu! standard, existen tres elementos en el juego.
 
 **Hit-circles:**
 
-- Estos aparecerán como un círculo ya sea rojo o azul pálido. Estos son llamados como notas rojas (Don) y notas azules (Katu).
-  - Si se trata de una pequeña nota roja, debes presionar el botón de la parte interna del tambor Taiko o golpear la gran superficie plana (centro) del TaTaCon.
-  - Si se trata de una pequeña nota azul, debes presionar el botón del anillo exterior del tambor Taiko o golpear los lados del TaTaCon.
-  - Si se trata de un círculo GRANDE, debes presionar dos tambores sean internos o externos dependiendo del color de la nota para puntos adicionales.
-    - Las notas deben ser presionadas o golpeadas cuando alcancen el pequeño círculo blanco al lado del tambor bajo la barra de estado en la zona de juego.
+-   Estos aparecerán como un círculo ya sea rojo o azul pálido. Estos son llamados como notas rojas (Don) y notas azules (Katu).
+    -   Si se trata de una pequeña nota roja, debes presionar el botón de la parte interna del tambor Taiko o golpear la gran superficie plana (centro) del TaTaCon.
+    -   Si se trata de una pequeña nota azul, debes presionar el botón del anillo exterior del tambor Taiko o golpear los lados del TaTaCon.
+    -   Si se trata de un círculo GRANDE, debes presionar dos tambores sean internos o externos dependiendo del color de la nota para puntos adicionales.
+        -   Las notas deben ser presionadas o golpeadas cuando alcancen el pequeño círculo blanco al lado del tambor bajo la barra de estado en la zona de juego.
 
 **Hit balloons:**
 
-- Estos son descritos como pequeñas notas rojas normales, pero con un globo inflable detrás.
-  - Debes golpear el tambor interior continuamente antes de que el contador llegue a cero.
-  - Ganas puntos por cada golpe y puntos de bonificación por hacer estallar el globo.
+-   Estos son descritos como pequeñas notas rojas normales, pero con un globo inflable detrás.
+    -   Debes golpear el tambor interior continuamente antes de que el contador llegue a cero.
+    -   Ganas puntos por cada golpe y puntos de bonificación por hacer estallar el globo.
 
 **Drum rolls:**
 
-- Los Drum rolls aparecerán como una barra amarilla en el área de juego.
-  - Debes golpear el tambor interior (o exterior) continuamente antes de que complete.
-    - Para notas GRANDES, debes golpear ambos botones en el tamborinterior (o exterior) simultáneamente y continuamente antes de que se complete.
-  - Ganas puntos por cada golpe exitoso.
-  - Puedes escoger ignorarlo al precio de perder tus posibles puntos ganados en el drum roll.
+-   Los Drum rolls aparecerán como una barra amarilla en el área de juego.
+    -   Debes golpear el tambor interior (o exterior) continuamente antes de que complete.
+        -   Para notas GRANDES, debes golpear ambos botones en el tamborinterior (o exterior) simultáneamente y continuamente antes de que se complete.
+    -   Ganas puntos por cada golpe exitoso.
+    -   Puedes escoger ignorarlo al precio de perder tus posibles puntos ganados en el drum roll.
 
 **Dendens:**
 
-- Estos aparecen como spinners, con una cuenta regresiva que muestra el tiempo que te queda para completarlo.
-  - Debes golpear el interior y exterior del tambor en orden (como rojo, rojo, azul, azul, rojo, rojo, y así sucesivamente) antes de que el medidor del Denden se llene.
-  - Serán dados puntos de bonificación por golpes extra después de completar el Denden.
+-   Estos aparecen como spinners, con una cuenta regresiva que muestra el tiempo que te queda para completarlo.
+    -   Debes golpear el interior y exterior del tambor en orden (como rojo, rojo, azul, azul, rojo, rojo, y así sucesivamente) antes de que el medidor del Denden se llene.
+    -   Serán dados puntos de bonificación por golpes extra después de completar el Denden.
 
 #### Controles
 
 Los controles por defecto del modo Taiko son:
 
-- Rojo: [Ratón] Click izquierdo, [Teclado] [X] o [C], [TaTaCon] Superficie plana del tambor.
-- Azul: [Ratón] Click derecho, [Teclado] [Z] o [V], [TaTaCon] Superficie exterior del tambor.
-- El lugar del cursor de osu! no importa cuando juegas.
+-   Rojo: [Ratón] Click izquierdo, [Teclado][X] o [C], [TaTaCon] Superficie plana del tambor.
+-   Azul: [Ratón] Click derecho, [Teclado][Z] o [V], [TaTaCon] Superficie exterior del tambor.
+-   El lugar del cursor de osu! no importa cuando juegas.
 
 Puedes configurar los botones del teclado como te parezca cómodo, desde la pestaña de Controles en el menú de Opciones.
 
@@ -147,103 +147,103 @@ Puedes configurar los botones del teclado como te parezca cómodo, desde la pest
 
 ![](/wiki/shared/Interface_ctb.jpg)
 
-*Explicación completa: [Catch the Beat](/wiki/Game_Modes/osu!catch)*
+_Explicación completa: [Catch the Beat](/wiki/Game_Modes/osu!catch)_
 
-- Catch the Beat es el segundo modo de juego especial añadido, después de Taiko.
-- En lugar de hacer clic en los círculos, ahora tienes la tarea de mover al [catcher](/wiki/Glossary) (recolector) en la parte inferior de la pantalla mientras que frutas caen desde arriba.
+-   Catch the Beat es el segundo modo de juego especial añadido, después de Taiko.
+-   En lugar de hacer clic en los círculos, ahora tienes la tarea de mover al [catcher](/wiki/Glossary) (recolector) en la parte inferior de la pantalla mientras que frutas caen desde arriba.
 
 #### Controlando al catcher
 
 Si el mod [relax](/wiki/Game_Modifiers) es usado, el catcher se controla moviendo el ratón.
 
-- Por defecto, las flechas izquierda \[<-\] y derecha \[->\] son usadas para mover al catcher.
-- Presionando la tecla SHIFT con alguna de las flechas, el catcher correrá en la dirección indicada a una velocidad de x1.5 (indicada por un brillante resplandor rodeando al catcher).
+-   Por defecto, las flechas izquierda \[&lt;-] y derecha \[->] son usadas para mover al catcher.
+-   Presionando la tecla SHIFT con alguna de las flechas, el catcher correrá en la dirección indicada a una velocidad de x1.5 (indicada por un brillante resplandor rodeando al catcher).
 
 ### ¿Qué es "osu!mania"?
 
 ![](/wiki/shared/Interface_mania.jpg)
 
-*Explicación completa: [osu!mania](/wiki/Game_Modes/osu!mania)*
+_Explicación completa: [osu!mania](/wiki/Game_Modes/osu!mania)_
 
-- osu!mania es el tercer modo de juego especial añadido, después de Taiko y CtB.
-- Este modo de juego ha sido inmensamente utilizado en casi todos los grandes juegos de ritmo que requieren una buena coordinación mano/pierna, donde las notas siguen el ritmo dependiendo del BPM y la dificultad, y el jugador debe presionar la tecla correcta en el tiempo correcto para una nota específica. Aunque el modo de juego fue originalmente hecho como imitación del estilo de Beatmania, cambiando el número de teclas, puedes hacer que se vea más como Guitar Hero (5 teclas) o Dance Dance Revolution (4 teclas), etc. Actualmente, puedes establecerlo entre 4 y 8 teclas.
+-   osu!mania es el tercer modo de juego especial añadido, después de Taiko y CtB.
+-   Este modo de juego ha sido inmensamente utilizado en casi todos los grandes juegos de ritmo que requieren una buena coordinación mano/pierna, donde las notas siguen el ritmo dependiendo del BPM y la dificultad, y el jugador debe presionar la tecla correcta en el tiempo correcto para una nota específica. Aunque el modo de juego fue originalmente hecho como imitación del estilo de Beatmania, cambiando el número de teclas, puedes hacer que se vea más como Guitar Hero (5 teclas) o Dance Dance Revolution (4 teclas), etc. Actualmente, puedes establecerlo entre 4 y 8 teclas.
 
 #### Controles
 
 ![](/wiki/shared/Mania_key_layouts.jpg)
 
-Existen dos diferentes estilos de disposición, *Simétrico* y *De Izquierda a Derecha*. (Pueden ser encontrados en Options->Controles)
+Existen dos diferentes estilos de disposición, _Simétrico_ y _De Izquierda a Derecha_. (Pueden ser encontrados en Options->Controles)
 
-- El estilo *simétrico* imita la colocación de los botones en DJMAX, en el cual la tecla central es la "barra espaciadora", la cual, crea la sensación de "pisar" el pedal similar a la versión arcade. La tecla central coincide con la columna del medio (solo en 5K y 7K) Y las otras columnas coinciden con sus teclas en su correspondiente lugar.
-- El estilo *De Izquierda a Derecha* imita la colocación de los botones en Beatmania IIDX, Donde la primera columna coincide con la key1, luego, la segunda columna coincide con la key2 y así sucesivamente.
+-   El estilo _simétrico_ imita la colocación de los botones en DJMAX, en el cual la tecla central es la "barra espaciadora", la cual, crea la sensación de "pisar" el pedal similar a la versión arcade. La tecla central coincide con la columna del medio (solo en 5K y 7K) Y las otras columnas coinciden con sus teclas en su correspondiente lugar.
+-   El estilo _De Izquierda a Derecha_ imita la colocación de los botones en Beatmania IIDX, Donde la primera columna coincide con la key1, luego, la segunda columna coincide con la key2 y así sucesivamente.
 
-Disposición de teclas *Simétricas* (Para el estilo DJMAX)
+Disposición de teclas _Simétricas_ (Para el estilo DJMAX)
 
-- Botones para la mano *izquierda* — (K1)**A**, (K2)**S**, (K3)**D**, (K4)**F**
-- Botones para la mano *derecha* — (K6)**J**, (K7)**K**, (K8)**L**, (K9)**Ñ**.
-- Botón *central*— (K5)**barra espaciadora**. \[Solo en 5K y 7K\]
-- El botón *especial* — **SHIFT izquierdo** y **control izquierdo "Ctrl"**.
+-   Botones para la mano _izquierda_ — (K1)**A**, (K2)**S**, (K3)**D**, (K4)**F**
+-   Botones para la mano _derecha_ — (K6)**J**, (K7)**K**, (K8)**L**, (K9)**Ñ**.
+-   Botón _central_— (K5)**barra espaciadora**. \[Solo en 5K y 7K]
+-   El botón _especial_ — **SHIFT izquierdo** y **control izquierdo "Ctrl"**.
 
-Disposición de teclas*de Izquierda a Derecha* (Para el estilo Beatmania IIDX)
+Disposición de teclas_de Izquierda a Derecha_ (Para el estilo Beatmania IIDX)
 
-- De abajo hacia arriba, luego de abajo hacia arriba de nuevo: (K1)**Z**, (K2)**S**, (K3)**X**, (K4)**D**, (K5)**C**, (K6)**F**, (K7)**V**, (K8)**G**, (K9)**B** \[No se usa K9\]
-- El botón *especial* — **SHIFT izquierdo** y **control izquierdo "Ctrl"**.
+-   De abajo hacia arriba, luego de abajo hacia arriba de nuevo: (K1)**Z**, (K2)**S**, (K3)**X**, (K4)**D**, (K5)**C**, (K6)**F**, (K7)**V**, (K8)**G**, (K9)**B** \[No se usa K9]
+-   El botón _especial_ — **SHIFT izquierdo** y **control izquierdo "Ctrl"**.
 
 | Tecla | Disposición Simétrica |
-| :-: | :-: |
-| 4K | K3, K4 |
-| 5K | K3, K4 |
-| 6K | K2, K3, K4 |
-| 7K | K2, K3, K4 |
-| 8K | K1, K2, K3, K4 |
+| :---: | :-------------------: |
+|   4K  |         K3, K4        |
+|   5K  |         K3, K4        |
+|   6K  |       K2, K3, K4      |
+|   7K  |       K2, K3, K4      |
+|   8K  |     K1, K2, K3, K4    |
 
 | Tecla | Disposición de Izquierda a Derecha |
-| :-: | :-: |
-| 4K | K1, K2 |
-| 5K | K1, K2, K3, K4, K5 |
-| 6K | K1, K2, K3, K4, K5, K6 |
-| 7K | K1, K2, K3, K4, K5, K6, K7 |
-| 8K | K1, K2, K3, K4, K5, K6, K7, K8 |
+| :---: | :--------------------------------: |
+|   4K  |               K1, K2               |
+|   5K  |         K1, K2, K3, K4, K5         |
+|   6K  |       K1, K2, K3, K4, K5, K6       |
+|   7K  |     K1, K2, K3, K4, K5, K6, K7     |
+|   8K  |   K1, K2, K3, K4, K5, K6, K7, K8   |
 
 ## Scoring (Puntaje)
 
-*Una explicación detallada del "scoring" puede ser encontrada en la página respectiva de cada modo de juego.*
+_Una explicación detallada del "scoring" puede ser encontrada en la página respectiva de cada modo de juego._
 
 ### Notas
 
 **Notas Normales:**
 
-- SS = 100% de presición
-- S = Encima del 90% de 300s, menos del 1% de 50s y sin errores.
-- A = Encima del 80% de 300s sin errores **o** encima del 90% de 300s.
-- B = Encima del 70% de 300s sin errores **o** encima del 80% de 300s.
-- C = Encima del 60% de 300s.
-- D = Todo lo demás.
+-   SS = 100% de presición
+-   S = Encima del 90% de 300s, menos del 1% de 50s y sin errores.
+-   A = Encima del 80% de 300s sin errores **o** encima del 90% de 300s.
+-   B = Encima del 70% de 300s sin errores **o** encima del 80% de 300s.
+-   C = Encima del 60% de 300s.
+-   D = Todo lo demás.
 
 **Notas Especiales:**
 
-- SS de plata (SSH) = 100% de precisión con el(los) mod(s) '[hidden](/wiki/Game_Modifiers)' y/o '[flashlight](/wiki/Game_Modifiers)'.
-- S de plata (SH) = Encima del 90% de 300s, menos del 1% de 50s y sin errores con el(los) mod(s) '[hidden](/wiki/Game_Modifiers)' y/o '[flashlight](/wiki/Game_Modifiers)'.
+-   SS de plata (SSH) = 100% de precisión con el(los) mod(s) '[hidden](/wiki/Game_Modifiers)' y/o '[flashlight](/wiki/Game_Modifiers)'.
+-   S de plata (SH) = Encima del 90% de 300s, menos del 1% de 50s y sin errores con el(los) mod(s) '[hidden](/wiki/Game_Modifiers)' y/o '[flashlight](/wiki/Game_Modifiers)'.
 
 **En cuanto a los "Ranks" (rangos) en la página del perfil:**
 
-- Las notas que obtienes se establecen en tu página de perfil bajo General->Ranks siempre y cuando estés "online" cuando recibas la nota.
-  - **Jugar Offline** incluso si tu cuenta está "loggeada" **no cuenta**.
+-   Las notas que obtienes se establecen en tu página de perfil bajo General->Ranks siempre y cuando estés "online" cuando recibas la nota.
+    -   **Jugar Offline** incluso si tu cuenta está "loggeada" **no cuenta**.
 
 `NOTA: Mientras estes jugando de manera "Offline" tus puntuaciones no podrán ser guardadas.`
 
-- **Las notas dadas a tu perfil dependen de la dificultad, no del betmap en conjunto.**
-  - Por ejemplo, si el beatmap tiene 3 dificultades, y tienes SS en las tres, recibirás 3 SS y no solo una SS en tu perfil.
+-   **Las notas dadas a tu perfil dependen de la dificultad, no del betmap en conjunto.**
+    -   Por ejemplo, si el beatmap tiene 3 dificultades, y tienes SS en las tres, recibirás 3 SS y no solo una SS en tu perfil.
 
 ## Problemas y Preguntas Frecuentes
 
 ### ¿Donde puedo encontrar beatmaps?
 
-*Explicación detallada de los beatmaps: [Beatmaps](/wiki/Beatmaps)*
+_Explicación detallada de los beatmaps: [Beatmaps](/wiki/Beatmaps)_
 
 Puedes encontrarlos en la página principal bajo el nombre de "[Beatmaps](https://osu.ppy.sh/beatmapsets)".
 
-- Solo recuerda loggearte en tu cuenta de osu! de antemano o el servidor te tratará de invitado y te prohibirá descargar beatmaps desde el sitio web.
+-   Solo recuerda loggearte en tu cuenta de osu! de antemano o el servidor te tratará de invitado y te prohibirá descargar beatmaps desde el sitio web.
 
 ### ¿Puedo desactivar el "Kiai Time"?
 
@@ -281,8 +281,8 @@ Soltaste un slider demasiado pronto. También es posible perder el combo si lo e
 
 ## Créditos
 
-- FAQ viejo de peppy
-- Peter Lambert - osu! tutorial ([Tutorial original](https://osu.ppy.sh/beatmapsets/3756), [Versión rankeada](https://osu.ppy.sh/beatmapsets/19928))
-- Entrenamiendo para principiantes de Pokebis [1](https://osu.ppy.sh/community/forums/topics/5456)
-- Wikipedia [2](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [3](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
-- Reddit's /r/osugame/wiki [4](http://www.reddit.com/r/osugame/wiki/index)
+-   FAQ viejo de peppy
+-   Peter Lambert - osu! tutorial ([Tutorial original](https://osu.ppy.sh/beatmapsets/3756), [Versión rankeada](https://osu.ppy.sh/beatmapsets/19928))
+-   Entrenamiendo para principiantes de Pokebis [1](https://osu.ppy.sh/community/forums/topics/5456)
+-   Wikipedia [2](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [3](http://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
+-   Reddit's /r/osugame/wiki [4](http://www.reddit.com/r/osugame/wiki/index)

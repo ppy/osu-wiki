@@ -40,6 +40,7 @@
     -   Foreground
 
 Die "Fail" und "Pass" Ebenen werden nie gleichzeitig angezeigt, mit Ausnahme im Tab "Design" im Beatmap Editor.
+
 -   Das Standard Hintergrundbild (das Hintergrundbild, welches Sie in der Songauswhal sehen können) der Map liegt unter allen Ebenen. Wie auch immer, wenn Sie sich dazu entscheiden sollten das selbe Bild als ein Objekt in ihrem Storyboard zu verwenden, wird es augenblicklich nach dem Start der Map verschwinden.
     -   Es ist üblich, dass Sie Ihren Standard Hintergrundbild als erstes Objekt (zeitweise und sprite-weise) festlegen und verwenden Sie den "fade out" (aufhellen) Befehl dazu, um "Ihren Hintergrund dem Publikum vorzustellen".
 

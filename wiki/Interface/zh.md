@@ -38,7 +38,7 @@ outdated: true
 
 ==联机大厅==
 
-*详见词条： <ZH:Multiplayer>*
+_详见词条： &lt;ZH:Multiplayer>_
 
 <img src="Multi-Play-2016.png" title="fig:Multi-Play-2016.png" alt="Multi-Play-2016.png" width="280" /> <img src="Multi play! (Host).jpg" title="fig:Multi play! (Host).jpg" alt="Multi play! (Host).jpg" width="280" />
 
@@ -48,4 +48,4 @@ outdated: true
 
 注意：你可以为一首歌选择特定的模式
 
-![](osu.gif "fig:osu.gif")标准 <ZH:Standard>, ![](taiko.gif "fig:taiko.gif")太鼓 <ZH:Taiko>, ![](ctb.gif "fig:ctb.gif")接水果 [ZH:Catch the Beat](ZH:Catch_the_Beat "wikilink") 以及 ![](mania.gif "fig:mania.gif")下落 [osu!mania](ZH:Mania "wikilink")
+![](osu.gif "fig:osu.gif")标准 &lt;ZH:Standard>, ![](taiko.gif "fig:taiko.gif")太鼓 &lt;ZH:Taiko>, ![](ctb.gif "fig:ctb.gif")接水果 [ZH:Catch the Beat](ZH:Catch_the_Beat "wikilink") 以及 ![](mania.gif "fig:mania.gif")下落 [osu!mania](ZH:Mania "wikilink")

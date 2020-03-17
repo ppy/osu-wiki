@@ -1,6 +1,6 @@
 # Storyboard .osu file toggles
 
-*See also: [skin.ini](/wiki/Skinning/Skin.ini)*
+_See also: [skin.ini](/wiki/Skinning/Skin.ini)_
 
 The following are toggles that can be added to .osu (and in some cases, .osb files) to affect [skinning](/wiki/Skinning) / [storyboarding](/wiki/Storyboards). Those that are added/removed by the [Beatmap Editor](/wiki/Beatmap_Editor) can also be included.
 

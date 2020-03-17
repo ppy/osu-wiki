@@ -13,4 +13,4 @@ Denke aber daran, dass die Dokumentation der osu!api eventuell nicht vollständi
 
 ## Siehe auch
 
-- Originaler Forum Beitrag: [osu!api Open Beta](https://osu.ppy.sh/community/forums/topics/141240) von [peppy](https://osu.ppy.sh/users/2)
+-   Originaler Forum Beitrag: [osu!api Open Beta](https://osu.ppy.sh/community/forums/topics/141240) von [peppy](https://osu.ppy.sh/users/2)

@@ -12,8 +12,8 @@ outdated: true
 
 Um eine Instanz von einem Sprite (immernoch ein Bild) oder eine Animation aufzurufen, benutzen Sie dazu maximal eine Zeile im `[Events]` in der .osb Datei oder .osu Datei zu deklarieren.
 
-| Grundbilder | Bewegende Bilder |
-| ----------- | ------------ |
+| Grundbilder                                  | Bewegende Bilder                                                                     |
+| -------------------------------------------- | ------------------------------------------------------------------------------------ |
 | Sprite,(layer),(origin),"(filepath)",(x),(y) | Animation,(layer),(origin),"(filepath)",(x),(y),(frameCount),(frameDelay),(looptype) |
 
 -   **(layer)** (eng. für Ebene) ist die **[Ebene](/wiki/Storyboard_Scripting/General_Rules) auf denen Objekte erscheinen.** Erlaubte Werte sind:
@@ -38,14 +38,15 @@ Um eine Instanz von einem Sprite (immernoch ein Bild) oder eine Animation aufzur
         -   Beispiel: "Hindergründe/himmel.jpg", wenn Ihr Unterordner "Hintergründe" und das darin beinhaltende Bild "himmel.jpg" heißt. Der Dateipfad fängt erst im Songordner an, dort wo also die .osb Datei und .osu Datei ist. Sowas wie "C:", etc. ist nicht gültig.
     -   Animationen werden ohne Zahlen referenziert. Wenn Sie zum Beispiel ein "sample0.png" und "sample1.png" als eine 2-Frame-Animation verwenden wollen, müssen Sie auf "sample.png" verweisen.
     -   Die Anführungsstriche " sind technisch optional, sie werden jedoch bei Dateinamen und Unterordner benötigt, wenn Leerzeichen darin enthalten sind.
-        -   Beispiel: "SB/J\_K.jpg" und nicht SB/J\_K.jpg. Bei SB/J\_K.jpg ist osu! noch in der Lage den Unterordner zu finden, sucht aber ab dann anstatt dem J\_K.jpg ein J.jpg.
+        -   Beispiel: "SB/J_K.jpg" und nicht SB/J_K.jpg. Bei SB/J_K.jpg ist osu! noch in der Lage den Unterordner zu finden, sucht aber ab dann anstatt dem J_K.jpg ein J.jpg.
 
 -   **(x)** und **(y)** sind **x-/y-Koordinaten an denen das Objekt sein soll.** Die Interpretation hängt vom Wert des (origin) ab; gültige Werte für Instanzen, um ein 640x480 Bild als Hintergrund zu setzen, wären:
+
     -   origin = TopLeft, x = 0, y = 0
     -   origin = Centre, x = 320, y = 240
     -   origin = BottomRight, x = 640, y = 480
 
-        *und so weiter.*
+        _und so weiter._
 
 **Speziell nur für Animationen**
 
@@ -57,12 +58,12 @@ Um eine Instanz von einem Sprite (immernoch ein Bild) oder eine Animation aufzur
     -   LoopForever (Standardwert, wenn kein Wert eingegeben ist; die Animation fängt nach der letzten Frame wieder von vorne an)
     -   LoopOnce (die Animation endet nach dem letzten Frame und zeigt den letzten Frame weiter an; nützlich für Animationen, die sich rotieren sollen)
 
-Beachten Sie, dass *es keinen Hinweis darauf gibt, wann das Objekt angezeigt wird*. Das kommt ganz auf [die Befehle selbst](/wiki/Storyboard_Scripting/Commands) an. Die Reihenfolge der Objektdeklarationen in der Datei .osu oder .osb betrifft nur das, was sich überlappt; es hat keinen Einfluss darauf, wann das Objekt angezeigt wird (auch ist es üblich die Deklarationen in einer Reihenfolge, in der sie erscheinen sollen, zu halten).
+Beachten Sie, dass _es keinen Hinweis darauf gibt, wann das Objekt angezeigt wird_. Das kommt ganz auf [die Befehle selbst](/wiki/Storyboard_Scripting/Commands) an. Die Reihenfolge der Objektdeklarationen in der Datei .osu oder .osb betrifft nur das, was sich überlappt; es hat keinen Einfluss darauf, wann das Objekt angezeigt wird (auch ist es üblich die Deklarationen in einer Reihenfolge, in der sie erscheinen sollen, zu halten).
 
 ## Beispiele
 
-| Grundbilder | Bewegende Bilder |
-| ----------- | ------------ |
+| Grundbilder                                  | Bewegende Bilder                                                                     |
+| -------------------------------------------- | ------------------------------------------------------------------------------------ |
 | Sprite,(layer),(origin),"(filepath)",(x),(y) | Animation,(layer),(origin),"(filepath)",(x),(y),(frameCount),(frameDelay),(looptype) |
 
 Einige Beispiele wie Objekte deklariert werden:

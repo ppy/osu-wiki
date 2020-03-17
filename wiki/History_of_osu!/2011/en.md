@@ -6,4 +6,4 @@ The osu! wiki was announced, allowing users to add all sorts of information abou
 
 Links:
 
-- [osu!wiki project](https://osu.ppy.sh/community/forums/topics/68479)
+-   [osu!wiki project](https://osu.ppy.sh/community/forums/topics/68479)

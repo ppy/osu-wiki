@@ -20,15 +20,15 @@ All of **Koishiteiku Planet (コイシテイク・プラネット)** is now avai
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/FNjoQE3inZw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-All five of the tracks from Koishiteiku Planet can be found pre-timed at [*namirin's Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/18), go check them out!
+All five of the tracks from Koishiteiku Planet can be found pre-timed at [\*namirin's Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/18), go check them out!
 
 ## Dictate
 
 [![](https://assets.ppy.sh/artists/21/header.jpg)](https://osu.ppy.sh/beatmaps/artists/21)
 
-We've nabbed a selection of tracks from Dictate's latest release with Renraku Global Media — **Noclip EP**, namely *Cortex*, *Mitochondrion* and *Pandora*.
+We've nabbed a selection of tracks from Dictate's latest release with Renraku Global Media — **Noclip EP**, namely _Cortex_, _Mitochondrion_ and _Pandora_.
 
-Showcasing his neurofunk-inspired high-tech sound, these new tracks are incredibly varied, with *Mitochondrion* standing out as perhaps one of the most rhythmically complex tracks in the Featured Artist collection so far.
+Showcasing his neurofunk-inspired high-tech sound, these new tracks are incredibly varied, with _Mitochondrion_ standing out as perhaps one of the most rhythmically complex tracks in the Featured Artist collection so far.
 
 If you're after something with a little more grit to map to, check these out:
 
@@ -50,7 +50,7 @@ If you're after something with a little more grit to map to, check these out:
     <source src="https://assets.ppy.sh/artists/21/previews/601.mp3" type="audio/mpeg">
 </audio>
 
----------
+* * *
 
 All three of these tracks are available at [Dictate's Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/21), pre-timed and ready to map!
 
@@ -58,7 +58,7 @@ All three of these tracks are available at [Dictate's Featured Artist listing](h
 
 [![](https://assets.ppy.sh/artists/12/header.jpg)](https://osu.ppy.sh/beatmaps/artists/12)
 
-We've managed to score *all* of LukHash's latest album, [**Ghosts**](https://lukhash.bandcamp.com/album/ghosts), plus three instrumentals to boot! More of his classic electro-chiptune inspired sound, with the appearance of some new vocal talent across a variety of styles!
+We've managed to score _all_ of LukHash's latest album, [**Ghosts**](https://lukhash.bandcamp.com/album/ghosts), plus three instrumentals to boot! More of his classic electro-chiptune inspired sound, with the appearance of some new vocal talent across a variety of styles!
 
 There are 13 new unique tracks to feast your ears on, so make sure to check out [LukHash's Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/12) for the full suite.
 
@@ -80,11 +80,11 @@ There are 13 new unique tracks to feast your ears on, so make sure to check out 
     <source src="https://assets.ppy.sh/artists/12/previews/614.mp3" type="audio/mpeg">
 </audio>
 
----------
+* * *
 
 Check out the full collection over at [LukHash's Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/12)!
 
----------
+* * *
 
 As mentioned at the start of the post, there's a LOT brewing in the depths of the Featured Artist project at the moment, and perhaps more than a few things that you may not expect!
 

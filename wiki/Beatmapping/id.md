@@ -19,7 +19,7 @@ Klik musik, kemudian otomatis akan terbuka [beatmap editor](/wiki/Beatmap_Editor
 
 ### Song Setup
 
-*Lihat juga: [Song Setup](/wiki/Song_Setup)*
+_Lihat juga: [Song Setup](/wiki/Song_Setup)_
 
 Ketika akan membuat [mapset](/wiki/Glossary) baru, Kamu akan melihat dialog ini sebelum menemukan bagian lain yang terdapat di beatmap editor.
 
@@ -32,7 +32,7 @@ Langkah selanjutnya adalah mengisi waktu kedalam beatmap kamu.
 
 ### Timing
 
-*Lihat juga: [Timing](/wiki/Timing)*
+_Lihat juga: [Timing](/wiki/Timing)_
 
 **Waktu itu penting!**
 Beatmap yang memiliki waktu yang salah tidak dapat dipertimbangkan untuk mendapatkan status ranked pada beatmapnya.
@@ -43,14 +43,14 @@ Ini akan membantu kamu (dan komunitas modding) dari kesulitan yang ada.
 
 ### Compose
 
-*Lihat juga: [Compose](/wiki/Compose)*
+_Lihat juga: [Compose](/wiki/Compose)_
 
 Compose tab di dalam beatmap editor adalah tempat menghabiskan sebagian besar waktu kamu untuk membuat beatmap.
 Ini adalah tempat kamu meletakaan hit object secara visual dan mengatur beberapa [hitsounds](/wiki/Glossary)
 
 ### Design
 
-*Lihat juga: [Design](/wiki/Design) dan [Storyboarding](/wiki/Storyboarding)*
+_Lihat juga: [Design](/wiki/Design) dan [Storyboarding](/wiki/Storyboarding)_
 
 Design tab di dalam beatmap editor adalah dimana kamu dapat mengatur background beatmap menggunakan gambar, video, atau membuat storyboard.
 Tergantung apa yang kamu lakukan, kamu juga dapat menggunakan tab Design untuk melakukan [SBS](/wiki/Storyboard_Scripting) (storyboard scripting).

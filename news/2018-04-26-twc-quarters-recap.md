@@ -33,7 +33,7 @@ The rejection of accuracy maps in this stage was made even more apparent by the 
 
 A word on the picks/bans by [Nwolf](https://osu.ppy.sh/users/1910766), one of the map selectors:
 
-*In Group Stage picks and bans mostly went as expected. We were surprised by the huge amount of picks on Shiawase and Goin' Under which we thought would be banned (and Caramel Custard which we thought would get ignored a bit more because it's technical and risky), and the high amount of bans on Entrance, which we considered the easier HD map.*
+_In Group Stage picks and bans mostly went as expected. We were surprised by the huge amount of picks on Shiawase and Goin' Under which we thought would be banned (and Caramel Custard which we thought would get ignored a bit more because it's technical and risky), and the high amount of bans on Entrance, which we considered the easier HD map._
 
 ### Round Of 16 Matches
 
@@ -85,9 +85,9 @@ The last match of this stage was Taiwan versus Canada is the winners bracket. Th
 
 In the Quarterfinals we saw every map get played atleast twice except for the tiebreaker and [U-F SEQUENCER - EupHolic](https://osu.ppy.sh/beatmapsets/763005#taiko/1604103) (FreeMod) which didn't get picked at all. This map was also the most targeted ban along with [CHON - Perfect Pillow](https://osu.ppy.sh/beatmapsets/741465/#taiko/1564247) (Hidden). Some thoughts from one of the map selectors, [mangomizer](https://osu.ppy.sh/users/1893718), regarding the Quarterfinals mappool:
 
-*"We were pleasantly surprised by the spread of picks - it seems that the players coped well with most of the niches we set for this stage. I didn't expect Jikininki (the longest map) to be the most popular pick (6/8 matches), nor did I expect Eupholic to not be picked at all.*
+_"We were pleasantly surprised by the spread of picks - it seems that the players coped well with most of the niches we set for this stage. I didn't expect Jikininki (the longest map) to be the most popular pick (6/8 matches), nor did I expect Eupholic to not be picked at all._
 
-*It's slightly disappointing to have a tiebreaker drought for the second week in a row, though at the very least every other map received some attention. Player feedback and comments have been extremely helpful, and we look forward to putting that to good use in shaping the future pools!"*
+_It's slightly disappointing to have a tiebreaker drought for the second week in a row, though at the very least every other map received some attention. Player feedback and comments have been extremely helpful, and we look forward to putting that to good use in shaping the future pools!"_
 
 ### Semifinals Preview
 

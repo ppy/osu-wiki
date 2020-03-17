@@ -1,8 +1,8 @@
 # Учебник по скинам
 
-*См. также: [Скины](/wiki/Skinning)*
+_См. также: [Скины](/wiki/Skinning)_
 
-*Для просмотра часто задаваемых вопросов посетите: [Скины/FAQ](/wiki/Skinning/ЧАВО)*
+_Для просмотра часто задаваемых вопросов посетите: [Скины/FAQ](/wiki/Skinning/ЧАВО)_
 
 ## Введение
 
@@ -19,10 +19,10 @@
     -   [Paint.NET](https://www.getpaint.net) (Бесплатно)
     -   [Photoshop](https://www.adobe.com/products/photoshop.html) (Платно)
 -   Аудиоредакторы
-    - [Audacity](https://www.audacityteam.org) (Бесплатно)
-    - [FL Studio](https://www.image-line.com/flstudio/) (Бесплатно/Платно)
+    -   [Audacity](https://www.audacityteam.org) (Бесплатно)
+    -   [FL Studio](https://www.image-line.com/flstudio/) (Бесплатно/Платно)
 
----
+* * *
 
 Следующее, что вам понадобится — тема или идея. Вы должны иметь представление о том, как вы хотите, чтобы ваш скин выглядел. Это также поможет вам, когда вам нужно собрать и/или создать ассеты.
 

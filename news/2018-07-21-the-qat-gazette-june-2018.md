@@ -36,7 +36,7 @@ Still different from the BN score of pre-2014 days, this will take into account 
 
 After three agonizing weeks of waiting, we're pleased to welcome nine new Beatmap Nominators to our big happy family of nearly one hundred members. Please give a warm welcome to the following people, whose friendly faces will be in the discussion threads of your favorite Qualified and Ranked beatmaps:
 
-[_Stan](https://osu.ppy.sh/users/1653229), [DE-CADE](https://osu.ppy.sh/users/3734394), [DoNotMess](https://osu.ppy.sh/users/1596318), [Fii](https://osu.ppy.sh/users/3922569), [Lenfried-](https://osu.ppy.sh/users/5314573), [Nifty](https://osu.ppy.sh/users/4956097), [qoot8123](https://osu.ppy.sh/users/766371), [Unpredictable](https://osu.ppy.sh/users/7560872) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)
+[\_Stan](https://osu.ppy.sh/users/1653229), [DE-CADE](https://osu.ppy.sh/users/3734394), [DoNotMess](https://osu.ppy.sh/users/1596318), [Fii](https://osu.ppy.sh/users/3922569), [Lenfried-](https://osu.ppy.sh/users/5314573), [Nifty](https://osu.ppy.sh/users/4956097), [qoot8123](https://osu.ppy.sh/users/766371), [Unpredictable](https://osu.ppy.sh/users/7560872) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)
 
 Many congratulations on becoming Beatmap Nominators, everyone – we hope you enjoy your time with us!
 

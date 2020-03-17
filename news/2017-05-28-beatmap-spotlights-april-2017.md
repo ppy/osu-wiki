@@ -15,10 +15,10 @@ Each month, a selection of volunteers work alongside the Quality Assurance Team 
 
 First of all, congratulations to the winners of the March 2017 Spotlights. They receive one month of supporter status for their efforts!
 
-+ **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
-+ **osu!taiko:** [mangomizer](https://osu.ppy.sh/users/1893718)
-+ **osu!catch:** [RAMPAGE88](https://osu.ppy.sh/users/448547)
-+ **osu!mania:** [Jinjin](https://osu.ppy.sh/users/3360737)
+-   **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
+-   **osu!taiko:** [mangomizer](https://osu.ppy.sh/users/1893718)
+-   **osu!catch:** [RAMPAGE88](https://osu.ppy.sh/users/448547)
+-   **osu!mania:** [Jinjin](https://osu.ppy.sh/users/3360737)
 
 ## osu!
 
@@ -98,7 +98,7 @@ Charted in a way that draws out the harmony between the music and the patterns t
 
 Well patterned to match the intensity of the track, the construction of the chart really brought out the best in the music. Give it a go, you won't be disappointed!
 
---------
+* * *
 
 And that just about covers the Spotlights for April. We hope you enjoy the new template graphics for each chart, and we hope you look forward to what we have in store next month as well!
 

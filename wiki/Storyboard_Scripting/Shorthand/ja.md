@@ -10,11 +10,9 @@
 
 解説をすると以下のようになります:
 
-```
-_(event),(easing),(starttime_of_first),(endtime_of_first),(value(s)_1),(value(s)_2)
-_(event),(easing),((starttime_of_first) + (duration)),((endtime_of_first) + duration),(value(s)_2),(value(s)_3)
-_(event),(easing),((starttime_of_first) + 2 * (duration)),((endtime_of_first) + 2 * duration),(value(s)_3),(value(s)_4)
-```
+    _(event),(easing),(starttime_of_first),(endtime_of_first),(value(s)_1),(value(s)_2)
+    _(event),(easing),((starttime_of_first) + (duration)),((endtime_of_first) + duration),(value(s)_2),(value(s)_3)
+    _(event),(easing),((starttime_of_first) + 2 * (duration)),((endtime_of_first) + 2 * duration),(value(s)_3),(value(s)_4)
 
 ここで言われる(duration)(期間)は((endtime_of_first) - (starttime_of_first))をした時の値です。
 
@@ -30,10 +28,8 @@ _(event),(easing),((starttime_of_first) + 2 * (duration)),((endtime_of_first) + 
 
 55000ms:不可視
 
-```
-Sprite,Pass,Centre,"Sample.png",320,240
-_F,0,51000,52000,0,1,0.5,1,0
-```
+    Sprite,Pass,Centre,"Sample.png",320,240
+    _F,0,51000,52000,0,1,0.5,1,0
 
 これはあなたが臨めばより多く（4つに限らず）のエフェクトを追加させることができます。
 
@@ -49,11 +45,9 @@ _F,0,51000,52000,0,1,0.5,1,0
 
 例えば以下のコードは画像を1000~2000において、半分の横幅と2倍の縦幅に画像を変形させた上でを75%の透明性を維持するものです。
 
-```
-Sprite,Pass,Centre,"Sample.png",320,240
-_V,0,1000,2000,0.5,2
-_F,0,1000,2000,0.75
-```
+    Sprite,Pass,Centre,"Sample.png",320,240
+    _V,0,1000,2000,0.5,2
+    _F,0,1000,2000,0.75
 
 ## 開始と終わりの時間が同じ
 
@@ -69,20 +63,16 @@ _F,0,1000,2000,0.75
 
 SBではエフェクトが切れると最後のエフェクトの数値を引き継ぐ性質があり、その1点のみで事足りるのです。したがって以下のコマンドのようにend数値省略ができます。
 
-```
-Sprite,Pass,Centre,"Sample.png",320,240
-_F,0,1000,,0.5
-_M,0,1000,2000,0,0,320,240
-// ... 他の多くの M command
-```
+    Sprite,Pass,Centre,"Sample.png",320,240
+    _F,0,1000,,0.5
+    _M,0,1000,2000,0,0,320,240
+    // ... 他の多くの M command
 
 この効果を2回以上行うと、指定したタイムに辿り着いた瞬間に値が急激に(間の値の補完なしで)変わります。
 
 以下のコードでは画像が移動している途中、time 1500でF 0.5の半透明だった状態から、完全に可視化された状態へと補完なしで変化します。
 
-```
-Sprite,Pass,Centre,"Sample.png",320,240
-_F,0,1000,,0.5
-_F,0,1500,,1
-_M,0,1000,2000,0,0,320,240
-```
+    Sprite,Pass,Centre,"Sample.png",320,240
+    _F,0,1000,,0.5
+    _F,0,1500,,1
+    _M,0,1000,2000,0,0,320,240

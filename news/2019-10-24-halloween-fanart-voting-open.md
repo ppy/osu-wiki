@@ -12,7 +12,7 @@ Each year that goes by only seems to deepen the already impossibly huge well of 
 
 Stride forth into the court of devilish talent and wield your **15** votes wisely, because there's an astonishingly huge amount of ridiculously good entries in the running this year.  I know I say that every year, but this year is extra crazy. I also say that every year too, but seriously, you guys are getting absolutely ridiculous with this stuff. We're going to have to start giving people twenty or thirty votes at this rate!
 
-But don't take my word for the madness, here's a little video showcasing the entries set to [**Camellia**](https://osu.ppy.sh/beatmaps/artists/31)'s *Nasty \* Nasty \* Spell* from his latest album, *Blackmagik Blazing*:
+But don't take my word for the madness, here's a little video showcasing the entries set to [**Camellia**](https://osu.ppy.sh/beatmaps/artists/31)'s _Nasty \* Nasty \* Spell_ from his latest album, _Blackmagik Blazing_:
 
 <div align="center">
     <video width="90%" controls>
@@ -24,7 +24,7 @@ But don't take my word for the madness, here's a little video showcasing the ent
     </video>
 </div>
 
-*(Thanks to [Flanster](https://osu.ppy.sh/users/447818) for making the showcase video extra pretty!)*
+_(Thanks to [Flanster](https://osu.ppy.sh/users/447818) for making the showcase video extra pretty!)_
 
 [Head on over to the **Halloween 2019 Fanart Contest** listing and vote now!](https://osu.ppy.sh/community/contests/81)
 

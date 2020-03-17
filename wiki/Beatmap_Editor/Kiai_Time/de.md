@@ -12,9 +12,9 @@ Die übliche Definition für den Kiai Time, wenn sie Beatmaps [editieren](/wiki/
 
 ## Dinge, die Sie bei der Verwendung vom Kiai berücksichtigen sollten
 
-1. Bei **[osu!taiko](/wiki/Game_Modes/osu!taiko) Maps** geben die Kiai-Sektionen 20% mehr [Punkte](/wiki/Score). Wenn Sie also osu!taiko spezifische [Maps](/wiki/Beatmaps) erstellen, sollten Sie berücksichtigen, dass der Kiai das Gameplay mitbeeinflusst.
-2. **Konsequent sein**; es ist nervig, wenn Sie 3 Kiai-Sektionen an verschienden Sektionen innerhalb einer [Schwierigkeitsstufe](/wiki/Beatmap_Editor/Song_Setup) definieren und sich alle voneinander soundtechnisch unterscheiden. Des Weiteren ist es für einen [Mapper](/wiki/Glossary) ratsam die Kiai Time-Sektionen bei allen eigenen Schwierigkeitsstufen zu vereinheitlichen.
-3. **Benutzen Sie keine weiße Combofarben** (255,255,255); dadurch wird der Spieler geblendet und dessen Augen stark beansprucht.
-4. Es ist normal, dass eine Kiai-Sektion im Vergleich zum Rest der Map schwieriger ist. Siehe Definiton vom Kiai Time.
-5. **Die Kiai Time-Sektionen in [Gast Schwierigkeitsstufen](/wiki/Glossary) können sich von den Schwierigkeitsstufen des Beatmaperstellers unterscheiden**. Dies ist des öfteren der Fall, da nicht jeder denkt, dass die eine Stelle am besten für den Kiai geeignet ist; nichts desto trotz sollte sie jedoch passend zur Map definiert werden.
-6. Colourhaxing ist dazu da, um dem Kiai durch den Set aus verschiedenen Combofarben einen gewissen Touch zu geben.
+1.  Bei **[osu!taiko](/wiki/Game_Modes/osu!taiko) Maps** geben die Kiai-Sektionen 20% mehr [Punkte](/wiki/Score). Wenn Sie also osu!taiko spezifische [Maps](/wiki/Beatmaps) erstellen, sollten Sie berücksichtigen, dass der Kiai das Gameplay mitbeeinflusst.
+2.  **Konsequent sein**; es ist nervig, wenn Sie 3 Kiai-Sektionen an verschienden Sektionen innerhalb einer [Schwierigkeitsstufe](/wiki/Beatmap_Editor/Song_Setup) definieren und sich alle voneinander soundtechnisch unterscheiden. Des Weiteren ist es für einen [Mapper](/wiki/Glossary) ratsam die Kiai Time-Sektionen bei allen eigenen Schwierigkeitsstufen zu vereinheitlichen.
+3.  **Benutzen Sie keine weiße Combofarben** (255,255,255); dadurch wird der Spieler geblendet und dessen Augen stark beansprucht.
+4.  Es ist normal, dass eine Kiai-Sektion im Vergleich zum Rest der Map schwieriger ist. Siehe Definiton vom Kiai Time.
+5.  **Die Kiai Time-Sektionen in [Gast Schwierigkeitsstufen](/wiki/Glossary) können sich von den Schwierigkeitsstufen des Beatmaperstellers unterscheiden**. Dies ist des öfteren der Fall, da nicht jeder denkt, dass die eine Stelle am besten für den Kiai geeignet ist; nichts desto trotz sollte sie jedoch passend zur Map definiert werden.
+6.  Colourhaxing ist dazu da, um dem Kiai durch den Set aus verschiedenen Combofarben einen gewissen Touch zu geben.

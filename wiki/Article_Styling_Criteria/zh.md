@@ -4,7 +4,7 @@ outdated: true
 
 # 文章风格规范
 
-*相关文章：[文章风格规范——新闻篇](/wiki/ASC/News)*
+_相关文章：[文章风格规范——新闻篇](/wiki/ASC/News)_
 
 文章风格规范（ASC）通过硬性规定来确保 osu!wiki 的文章通俗易懂，格式统一。
 
@@ -18,29 +18,29 @@ outdated: true
 
 下面是 osu!wiki 允许的语言列表。如果你的语言不在此列，请在 [osu-web 仓库](https://github.com/ppy/osu-web/issues) 中提出这个问题（Issue）！
 
-| 文件名 | 中文写法 | 当地写法 |
-| :-- | :-- | :-- |
-| `en.md` | 英语 | English |
-| `es.md` | 西班牙语 | Español |
-| `fr.md` | 法语 | Français |
-| `it.md` | 印度语 | Italiano |
-| `ko.md` | 韩语 | 한국어 |
-| `nl.md` | 荷兰语 | Nederlands |
-| `pl.md` | 波兰语 | Polski |
+| 文件名        | 中文写法     | 当地写法               |
+| :--------- | :------- | :----------------- |
+| `en.md`    | 英语       | English            |
+| `es.md`    | 西班牙语     | Español            |
+| `fr.md`    | 法语       | Français           |
+| `it.md`    | 印度语      | Italiano           |
+| `ko.md`    | 韩语       | 한국어                |
+| `nl.md`    | 荷兰语      | Nederlands         |
+| `pl.md`    | 波兰语      | Polski             |
 | `pt-br.md` | 葡萄牙语（巴西） | Português (Brasil) |
-| `ru.md` | 俄语 | Русский |
-| `zh.md` | 中文 | 中文 |
+| `ru.md`    | 俄语       | Русский            |
+| `zh.md`    | 中文       | 中文                 |
 
 ### 文件夹名
 
 所有的文件夹名称都不能使用 URL 保留字（即仅使用 ASCII 字符）。
 一般来说，文件夹名称使用以下字符：
 
-- A - Z （大写字母）
-- a - z （小写字母）
-- 0 - 9 （数字）
-- `_` （下划线）
-- `!` （感叹号）
+-   A - Z （大写字母）
+-   a - z （小写字母）
+-   0 - 9 （数字）
+-   `_` （下划线）
+-   `!` （感叹号）
 
 ### 文章的文件名
 
@@ -50,7 +50,7 @@ outdated: true
 
 ### 索引页
 
-所有文件夹 **必须** 至少包含一篇文章,即使它是一个 *索引页* 。
+所有文件夹 **必须** 至少包含一篇文章,即使它是一个 _索引页_ 。
 
 索引页 **必须且只能** 链接到它的子文件夹，并且应该简短介绍它所链接到的文章。
 
@@ -75,25 +75,19 @@ GFM 的标记很少，以至于 **任何人** 都能在几分钟之内学会它�
 
 错误做法：
 
-```
-osu!lazer 是开发中的 osu! 新版本。
-它将在未来取代现在的 osu!client 。
-如果你没有协助开发的意向，请 **不要** 报告你所遇到的问题，因为它仍处于开发阶段。
-```
+    osu!lazer 是开发中的 osu! 新版本。
+    它将在未来取代现在的 osu!client 。
+    如果你没有协助开发的意向，请 **不要** 报告你所遇到的问题，因为它仍处于开发阶段。
 
 正确做法：
 
-```
-osu!lazer 是开发中的 osu! 新版本。它将在未来取代现在的 osu!client 。如果你没有协助开发的意向，请 **不要** 报告你所遇到的问题，因为它仍处于开发阶段。
-```
+    osu!lazer 是开发中的 osu! 新版本。它将在未来取代现在的 osu!client 。如果你没有协助开发的意向，请 **不要** 报告你所遇到的问题，因为它仍处于开发阶段。
 
 #### 转义
 
 任何不用于 Markdown 标记的 Markdown 符号都应该进行转义，除非它们位于[代码](#代码)或[代码块](#代码块)中。
 
-```
-osu!taiko 的冠军是 [\_yu68](https://osu.ppy.sh/users/6170507)。 \_yu68 是目前日本 osu!taiko 玩家排行榜的 \#1 。
-```
+    osu!taiko 的冠军是 [\_yu68](https://osu.ppy.sh/users/6170507)。 \_yu68 是目前日本 osu!taiko 玩家排行榜的 \#1 。
 
 Markdown 中的转义字符是反斜杠（`\`）。若要使用反斜杠，应该使用 `\\` 。
 
@@ -133,15 +127,13 @@ Markdown 中的转义字符是反斜杠（`\`）。若要使用反斜杠，应�
 
 每节 **必须** 包含一些内容，即使它的标题已经概括了它的子章节。例如：
 
-```
-## 游戏模式
+    ## 游戏模式
 
-*另见：[游戏模式]/wiki/game_modes)。*
+    *另见：[游戏模式]/wiki/game_modes)。*
 
-### ![](/wiki/shared/Osu.gif) osu!
+    ### ![](/wiki/shared/Osu.gif) osu!
 
-osu! is a frustrating but fun circle-clicking simulator.
-```
+    osu! is a frustrating but fun circle-clicking simulator.
 
 ### 列表
 
@@ -159,10 +151,10 @@ osu! is a frustrating but fun circle-clicking simulator.
 
 以下几种情况需要使用它：（使用原文）
 
-- 键盘按键
-- 按钮或菜单上的文字
-- 文件名、文件夹名、目录名、扩展名、命令
-- 聊天频道名
+-   键盘按键
+-   按钮或菜单上的文字
+-   文件名、文件夹名、目录名、扩展名、命令
+-   聊天频道名
 
 ### 代码块
 
@@ -189,9 +181,7 @@ osu! is a frustrating but fun circle-clicking simulator.
 用法：
 对于这样的一对关联对：
 
-```
-"asc":      "Article_Styling_Criteria"
-```
+    "asc":      "Article_Styling_Criteria"
 
 你可以这样使用：`[文章风格规范](/wiki/ASC)`。这样写等同于`[文章风格规范](/wiki/Article_Styling_Criteria)` ，因为重定向对大小写不敏感。
 
@@ -219,21 +209,19 @@ osu! is a frustrating but fun circle-clicking simulator.
 
 也就是说，无论何时，都应该使用用户当前的用户名。
 
----
+* * *
 
 快速取得某个用户的 ID :
 
-1. 打开浏览器地址栏输入 `https://osu.ppy.sh/users/` ，在其后粘贴用户名。
-2. 按下 `Enter` 键
-3. 当页面载入完成的时候，地址栏中输入的用户名就会变成 ID 。
+1.  打开浏览器地址栏输入 `https://osu.ppy.sh/users/` ，在其后粘贴用户名。
+2.  按下 `Enter` 键
+3.  当页面载入完成的时候，地址栏中输入的用户名就会变成 ID 。
 
 ##### 谱面
 
 链接到谱面时，使用以下格式：
 
-```
-{艺术家} - {标题} ({谱面作者}) [{难度名称}]
-```
+    {艺术家} - {标题} ({谱面作者}) [{难度名称}]
 
 此时请确保链接指向了对应的难度，链接格式应该为： `https://osu.ppy.sh/beatmaps/{谱面 ID}` 。
 
@@ -241,15 +229,13 @@ osu! is a frustrating but fun circle-clicking simulator.
 
 链接到谱面集时，使用以下格式：
 
-```
-{艺术家} - {标题} ({谱面作者})
-```
+    {艺术家} - {标题} ({谱面作者})
 
 此时链接格式应该为： `https://osu.ppy.sh/beatmapsets/{谱面集 ID}` 。
 
 ### 图片
 
-*参见: [文章风格规范——图片篇](/wiki/Article_Styling_Criteria/Images).*
+_参见: [文章风格规范——图片篇](/wiki/Article_Styling_Criteria/Images)._
 
 建议为图片建立独立的一个文件夹（例如 `img/` 文件夹）。当某个图片需要多个文章使用的时候，将它放到 `/wiki/shared/` 文件夹下。
 
@@ -259,7 +245,7 @@ osu! is a frustrating but fun circle-clicking simulator.
 
 这是一个可视化的表格生成工具:
 
-- [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables)
+-   [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables)
 
 #### 美化表格
 
@@ -269,10 +255,10 @@ osu! is a frustrating but fun circle-clicking simulator.
 
 下面是一些美化表格工具：
 
-- VS Code 的 Native Beautifier
-  - 你需要使用 [VS Code](https://code.visualstudio.com/) 。
-- [Markdown Table Formatter](http://markdowntable.com/)
-  - 对齐语法标记（`:`）不能正确解析。
+-   VS Code 的 Native Beautifier
+    -   你需要使用 [VS Code](https://code.visualstudio.com/) 。
+-   [Markdown Table Formatter](http://markdowntable.com/)
+    -   对齐语法标记（`:`）不能正确解析。
 
 ### 分割线
 
@@ -280,8 +266,8 @@ osu! is a frustrating but fun circle-clicking simulator.
 
 下列情况可以使用：（包括但不限于）
 
-- 将图片与文字分开
-- 分割每段
+-   将图片与文字分开
+-   分割每段
 
 使用分割线的时候，其上下的一行必须为空行，否则会被解析为二级标题。
 
@@ -308,30 +294,28 @@ osu! is a frustrating but fun circle-clicking simulator.
 
 不同的人对标点符号的喜好可能不一样，但是在 osu!wiki 的中文文章中应该使用 **简体中文** 标点（一般情况下此时输入法显示为半月、中文句号）,下面是常用中文标点表（不同的输入法可能略有不同，以该表为准）:
 
-| 标点符号 | 名称 |
-| :-: | :-: |
-| `，` | 逗号 |
-| `。` | 句号 |
-| `？` | 问号 |
-| `！` | 感叹号 |
-| `、` | 顿号 |
-| `‘’` | 单引号 |
-| `“”` | 双引号 |
-| `《》` | 书名号 |
-| `：` | 冒号 |
-| `（）` | 小括号 |
-| `【】` | 中括号 |
-| `｛｝` | 大括号 |
-| `——` | 破折号 |
-| `|` | 竖线 |
-| `……` | 省略号 |
+| 标点符号 |  名称 |     |
+| :--: | :-: | --- |
+|  `，` |  逗号 |     |
+|  `。` |  句号 |     |
+|  `？` |  问号 |     |
+|  `！` | 感叹号 |     |
+|  `、` |  顿号 |     |
+| `‘’` | 单引号 |     |
+| `“”` | 双引号 |     |
+| `《》` | 书名号 |     |
+|  `：` |  冒号 |     |
+| `（）` | 小括号 |     |
+| `【】` | 中括号 |     |
+| `｛｝` | 大括号 |     |
+| `——` | 破折号 |     |
+|  \`  |  \` | 竖线  |
+| `……` | 省略号 |     |
 
 每个句子的结尾应该有一个终结符(句号、感叹号等)。
 对于特殊情况则特殊处理，例如：
 
-```
-对于特殊情况则特殊处理，例如：
-```
+    对于特殊情况则特殊处理，例如：
 
 关于中文标点的详细定义，参考 [GB/T 15834-2011 标准](http://www.moe.gov.cn/ewebeditor/uploadfile/2015/01/13/20150113091548267.pdf)
 
@@ -344,7 +328,7 @@ osu! is a frustrating but fun circle-clicking simulator.
 
 在一个句子中枚举词语时，使用顿号分隔。
 
-- osu! 的游戏模式有: osu!standard 、 osu!taiko 、 osu!catch 和 osu!mania 。
+-   osu! 的游戏模式有: osu!standard 、 osu!taiko 、 osu!catch 和 osu!mania 。
 
 #### 英文标点
 
@@ -355,7 +339,7 @@ osu! is a frustrating but fun circle-clicking simulator.
 如果英文单词需要在中文句子中出现，那么在单词两头空格。
 例如：
 
-- 游戏的名称 `osu!` **永远不大写**，即使是在句子的开头。
+-   游戏的名称 `osu!` **永远不大写**，即使是在句子的开头。
 
 如果英文单词出现在句子开头，则不需要在单词前面空格。
 如果英文单词出现在句子结尾，那么同样需要两头空格并正确使用终结符。
@@ -367,9 +351,9 @@ osu! is a frustrating but fun circle-clicking simulator.
 
 ### 部分翻译规范
 
-| 英文 | 中文 |
-| :-- | :-- |
-| e.g. | 例如 |
-| For example: | 例如： |
-| Examples: | 例如： |
-| See also: | 参见：/ 另见： |
+| 英文           | 中文       |
+| :----------- | :------- |
+| e.g.         | 例如       |
+| For example: | 例如：      |
+| Examples:    | 例如：      |
+| See also:    | 参见：/ 另见： |

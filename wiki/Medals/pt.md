@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 # Conquistas
 
 **Conquistas** (achievements) são pequenos emblemas para perfil que indicam que o usuário conseguiu realizar certo objetivo. Atualmente, eles são divididos em 5 grupos.
@@ -11,10 +12,10 @@ As conquistas de **Beatmap Packs** são obtidas por **jogar todos os beatmaps de
 
 Existem 16 conquistas neste grupo, as quais são divididos em 4 seções:
 
-- Video Game Pack
-- Anime Pack
-- Internet! Pack
-- Rhythm Game Pack
+-   Video Game Pack
+-   Anime Pack
+-   Internet! Pack
+-   Rhythm Game Pack
 
 Cada uma dessas seções possuem 4 volumes.
 
@@ -22,30 +23,30 @@ Cada uma dessas seções possuem 4 volumes.
 
 #### Requerimentos:
 
-- Jogar todos os beatmaps de um [Beatmap Pack Temático](https://osu.ppy.sh/p/packlist?t=t) pelo menos uma vez (em qualquer dificuldade).
-- O modo de jogo deve ser osu! [Standard](/wiki/Game_Modes/osu!). (Não confirmado para o modo Taiko)
-- Extraia o Pack Temático e arraste e solte todos os beatmaps (.osz) dentro da janela do osu!
-  - Você pode baixar todos os beatmaps de um Beatmap Pack Temático manualmente que ainda irá contar.
-- Qualquer variação na música fará com que a conquista não seja contada. TEM de ser a música e criador específicos.
-- A conta em questão deve estar logada no **jogo**. Logar no website do osu! mas não no jogo não irá contar a conquista.
-- Mods que deixem o beatmap Unranked (como o Auto Pilot) não contará a conquista.
+-   Jogar todos os beatmaps de um [Beatmap Pack Temático](https://osu.ppy.sh/p/packlist?t=t) pelo menos uma vez (em qualquer dificuldade).
+-   O modo de jogo deve ser osu! [Standard](/wiki/Game_Modes/osu!). (Não confirmado para o modo Taiko)
+-   Extraia o Pack Temático e arraste e solte todos os beatmaps (.osz) dentro da janela do osu!
+    -   Você pode baixar todos os beatmaps de um Beatmap Pack Temático manualmente que ainda irá contar.
+-   Qualquer variação na música fará com que a conquista não seja contada. TEM de ser a música e criador específicos.
+-   A conta em questão deve estar logada no **jogo**. Logar no website do osu! mas não no jogo não irá contar a conquista.
+-   Mods que deixem o beatmap Unranked (como o Auto Pilot) não contará a conquista.
 
 #### Observações:
 
-- Depois que você obteve a conquista, você pode deletar as músicas do tema. Sua conquista, pontuação e accuracy permanecerão.
-- Se você se pergunta o porquê de não ter conseguido a conquista e acha que se esqueceu de alguma música, você pode sempre checar a [Listagem de Beatmap Packs](https://osu.ppy.sh/p/packlist?t=t). As músicas que você já completou estarão marcadas com um **CLEARED** em negrito.
-- A conquista é dada assim que você completar todos os beatmaps do tema em questão.
-  - Seja paciente e tenha certeza de que sua pontuação foi submetida no ranking. Você não vai querer ter que jogar a mesma música de novo. Especialmente se ela for difícil para você, certo?
-- Faça bom uso do **Assistente de Offset** (encontra-se na aba de Áudio em Opções) já que as músicas são um pouco velhas e algumas notas podem vir atrasadas.
+-   Depois que você obteve a conquista, você pode deletar as músicas do tema. Sua conquista, pontuação e accuracy permanecerão.
+-   Se você se pergunta o porquê de não ter conseguido a conquista e acha que se esqueceu de alguma música, você pode sempre checar a [Listagem de Beatmap Packs](https://osu.ppy.sh/p/packlist?t=t). As músicas que você já completou estarão marcadas com um **CLEARED** em negrito.
+-   A conquista é dada assim que você completar todos os beatmaps do tema em questão.
+    -   Seja paciente e tenha certeza de que sua pontuação foi submetida no ranking. Você não vai querer ter que jogar a mesma música de novo. Especialmente se ela for difícil para você, certo?
+-   Faça bom uso do **Assistente de Offset** (encontra-se na aba de Áudio em Opções) já que as músicas são um pouco velhas e algumas notas podem vir atrasadas.
 
 #### Curiosidades:
 
-- 16 packs. (4 temas x 4 volumes)
-  - 1 horas 20 minutos = 1 pack (Tempo estimado necessário para completar um beatmap pack)
-- 211 musicas (206 + 3 ![Ranked](/wiki/shared/icon/heart.gif "Ranked") ranked, 1 ![Approved](/wiki/shared/icon/flame.gif "Approved") approved e 1 pending)
-- 662 dificuldades (660 ![Ranked](/wiki/shared/icon/heart.gif "Ranked") ranked, 1 ![Approved](/wiki/shared/icon/flame.gif "Approved") approved e 1 pending)
-- 1.39 GB (zipado), 1.47 GB (importado)
-- 3 minutes 33 seconds. (Tempo estimado de importação de todos os 16 packs)
+-   16 packs. (4 temas x 4 volumes)
+    -   1 horas 20 minutos = 1 pack (Tempo estimado necessário para completar um beatmap pack)
+-   211 musicas (206 + 3 ![Ranked](/wiki/shared/icon/heart.gif "Ranked") ranked, 1 ![Approved](/wiki/shared/icon/flame.gif "Approved") approved e 1 pending)
+-   662 dificuldades (660 ![Ranked](/wiki/shared/icon/heart.gif "Ranked") ranked, 1 ![Approved](/wiki/shared/icon/flame.gif "Approved") approved e 1 pending)
+-   1.39 GB (zipado), 1.47 GB (importado)
+-   3 minutes 33 seconds. (Tempo estimado de importação de todos os 16 packs)
 
 ## Combo
 
@@ -63,4 +64,4 @@ Conquistas deste tipo não possuem nenhuma forma óbvia de obtenção. O jogador
 
 ## Link
 
-- Gráficos de Conquista do peppy [1](https://osu.ppy.sh/community/forums/topics/80448)
+-   Gráficos de Conquista do peppy [1](https://osu.ppy.sh/community/forums/topics/80448)

@@ -4,24 +4,24 @@
 
 ### Archive
 
-| File format                                 | Kegunaan                                                                                            |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osz][Osz Link]       | beatmap file.                                                                                             |
-| [.osk][Osk Link]       | skin file.                                                                                                |
-| [.db][Db Link]        | Informasi Cache/Database.                                                                                 |
+| File format      | Kegunaan                  |
+| ---------------- | ------------------------- |
+| [.osz][Osz Link] | beatmap file.             |
+| [.osk][Osk Link] | skin file.                |
+| [.db][Db Link]   | Informasi Cache/Database. |
 
 ### Beatmap Editor
 
-| File format                                 | Kegunaan                                                                                            |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osu][Osu Link]       | [Compose](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Song Setup](/wiki/Beatmap_Editor/Song_Setup). |
-| [.osb][Osb Link]        | [Design](/wiki/Beatmap_Editor/Design).                                                                           |
+| File format      | Kegunaan                                                                                                                       |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| [.osu][Osu Link] | [Compose](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Song Setup](/wiki/Beatmap_Editor/Song_Setup). |
+| [.osb][Osb Link] | [Design](/wiki/Beatmap_Editor/Design).                                                                                         |
 
 ### Replay
 
-| File format                                 | Kegunaan                                                                                            |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osr][Osr Link]        | replay file (tidak bisa decompress).                                                                      |
+| File format      | Kegunaan                             |
+| ---------------- | ------------------------------------ |
+| [.osr][Osr Link] | replay file (tidak bisa decompress). |
 
 ## Membuat file .osz/.osk
 
@@ -46,9 +46,10 @@
 
 3.  Jadikan format seperti ".zip" (jangan .7z, .rar) dan ubahlah format archive tersebut ke .osz.
 
-    DECO27 - Streaming Heart.zip -&gt; DECO27 - Streaming Heart.osz, Archive: ".zip"
+    DECO27 - Streaming Heart.zip -> DECO27 - Streaming Heart.osz, Archive: ".zip"
 
 4.  Tunggu beberapa saat memproses file .osz, akan muncul osu! icon jika sudah selesai.
+
 5.  Jika mau membuat file untuk skinning, pakailah format .osk.
 
 **Picture examples** (credit untuk [MLGnom's](https://osu.ppy.sh/users/46620) [Skinning tutorial](https://osu.ppy.sh/community/forums/topics/51694))
@@ -70,20 +71,26 @@
     Biasanya, kalo kamu membuat/mengedit beatmap, nanti otomatis membuat file .osz. Nah untuk skins, kamu harus melakukan langkah seperti diatas.
 
 2.  Buka osu!.
+
 3.  Jika kamu ingin membuat file .osz, lalu:
-    - Buka "Edit" pilih map yang akan kamu jadikan file .osz.
-    - Open "File", Lalu "Export Package..."
-    - File .osz akan otomatis terbuat dan berada di dalam folder "Exports".
+    -   Buka "Edit" pilih map yang akan kamu jadikan file .osz.
+    -   Open "File", Lalu "Export Package..."
+    -   File .osz akan otomatis terbuat dan berada di dalam folder "Exports".
 
 4.  Jika kamu ingin membuat file .osk, lalu:
-    - Pertama, pastikan skins file kamu benar-benar lengkap. kamu bisa membuka folder skins kamu dengan "Open Skin Folder" jika kamu menggunakan skins.
-    - Lalu, didalam menu "Options", klik "Select Skin".
-    - Pilih skins yang akan di export ke .osk file dan pilih "Export as .osk".
-    - file .osk akan otomatis terbuat dan berada di folder "Exports".
+    -   Pertama, pastikan skins file kamu benar-benar lengkap. kamu bisa membuka folder skins kamu dengan "Open Skin Folder" jika kamu menggunakan skins.
+    -   Lalu, didalam menu "Options", klik "Select Skin".
+    -   Pilih skins yang akan di export ke .osk file dan pilih "Export as .osk".
+    -   file .osk akan otomatis terbuat dan berada di folder "Exports".
 
 [Osz Link]: /wiki/osu!_File_Formats/Osz_(file_format)
+
 [Osk Link]: /wiki/osu!_File_Formats/Osk_(file_format)
+
 [Db Link]: /wiki/osu!_File_Formats/Db_(file_format)
+
 [Osu Link]: /wiki/osu!_File_Formats/Osu_(file_format)
+
 [Osb Link]: /wiki/osu!_File_Formats/Osb_(file_format)
+
 [Osr Link]: /wiki/osu!_File_Formats/Osr_(file_format)

@@ -12,9 +12,9 @@ Tidak hanya sebatas obrolan dalam game tetapi juga di tempat lain seperti forum 
 
 Penggunaan: `!report user_name [alasan]`
 
-Parameter **[** dan **]** merupakan opsional.
+Parameter **\[** dan **]** merupakan opsional.
 
-Jika pengguna memiliki spasi di nama pengguna mereka, spasi harus diganti dengan garis bawah_ karena obrolan dalam game osu! didasarkan pada [IRC](/wiki/Internet_Relay_Chat "Internet Relay Chat (IRC)").
+Jika pengguna memiliki spasi di nama pengguna mereka, spasi harus diganti dengan garis bawah\_ karena obrolan dalam game osu! didasarkan pada [IRC](/wiki/Internet_Relay_Chat "Internet Relay Chat (IRC)").
 
 `!report This User Name is spamming in #osu` menjadi `!report This_User_Name is spamming in #osu`
 

@@ -48,7 +48,7 @@ Notable runners up were:
 
 Fiercely competitive all the way to the end, osu!catch had some of the most robust voting of all the gamemodes so far, a few highly popular maps fighting for the lion's share of the vote.
 
-In the end, [Ascendance](https://osu.ppy.sh/users/2931883)'s set of [C\-Show - On the FM](https://osu.ppy.sh/beatmapsets/609679) triumphed over the others with **249** votes, and walks away with the title of Community Favourite 2017 for osu!catch.
+In the end, [Ascendance](https://osu.ppy.sh/users/2931883)'s set of [C-Show - On the FM](https://osu.ppy.sh/beatmapsets/609679) triumphed over the others with **249** votes, and walks away with the title of Community Favourite 2017 for osu!catch.
 
 Notable runners up were:
 
@@ -70,7 +70,7 @@ Notable runners up were:
 
 [t+pazolite - Oshama Scramble!](https://osu.ppy.sh/beatmapsets/511480) by [\[ A v a l o n \]](https://osu.ppy.sh/users/4632359) with **587** votes.
 
-----
+* * *
 
 Each top-voted set has its mapper walk away with a shiny new profile badge, and 6 months of osu!supporter for their efforts. The runners up and the top 10 voted sets for each game mode receive 1 months of osu!supporter as well.
 

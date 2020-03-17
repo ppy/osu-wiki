@@ -4,7 +4,7 @@ outdated: true
 
 # How to use the offset wizard (Bahasa Indonesia)
 
-*[Clicca per tornare ad Offset Audio Universale](/wiki/Options/Offset_Wizard)*
+_[Clicca per tornare ad Offset Audio Universale](/wiki/Options/Offset_Wizard)_
 
 ## Offset Universale
 
@@ -14,19 +14,19 @@ L'Offset Universale regola l'offset audio affinchè le pressioni siano a tempo. 
 
 Per impostarlo correttamente, segui questa procedura:
 
-1. Vai sulle opzioni e disattiva il Volume degli effetti a 0%.
-2. Scarica [questa](https://osu.ppy.sh/beatmapsets/4659) beatmap.
-3. Trovala nella tua lista delle beatmap.
-4. Premi F3 e 5.
-5. Scorri un po con il tuo mouse, poi vai all'inizio della beatmap.
-6. Clicca sul pulsante "Test".
-7. Ascolta il ritmo, vedi quando dovresti premere i cerchi.
-8. Ricomincia, chiudi gli occhi e premi a ritmo; clicca per circa 16 volte.
-9. Apri gli occhi e guarda se i millisecondi sono troppo in anticipo o troppo in ritardo.
+1.  Vai sulle opzioni e disattiva il Volume degli effetti a 0%.
+2.  Scarica [questa](https://osu.ppy.sh/beatmapsets/4659) beatmap.
+3.  Trovala nella tua lista delle beatmap.
+4.  Premi F3 e 5.
+5.  Scorri un po con il tuo mouse, poi vai all'inizio della beatmap.
+6.  Clicca sul pulsante "Test".
+7.  Ascolta il ritmo, vedi quando dovresti premere i cerchi.
+8.  Ricomincia, chiudi gli occhi e premi a ritmo; clicca per circa 16 volte.
+9.  Apri gli occhi e guarda se i millisecondi sono troppo in anticipo o troppo in ritardo.
 10. Vai nelle opzioni e imposta il tuo Offset Universale -X se è troppo in ritardo e X se è troppo presto.
 11. Ripeti i punti 2-9 di nuovo, questa volta il valore del ritardo/anticipo dovrebbe essere minore.
 12. Ripedi il decimo punto finchè la differenza diventa davvero piccola (all'incirca di 4ms).
-13. Divertiti a premere *effettivamente* a ritmo!
+13. Divertiti a premere _effettivamente_ a ritmo!
 
 ## Nota
 

@@ -8,7 +8,7 @@ no_native_review: true
 
 Вы можете найти документацию к API на [вики репозитория osu-api](https://github.com/ppy/osu-api/wiki). Текущая версия API использует приватные ключи для аутентификации запросов. Получить ключ API можно на [странице приложения](https://osu.ppy.sh/p/api) на сайте osu!. Заметьте, что документация на вики по osu!api может быть не совсем полной или обширной, и что сам API не находится в активной разработке.
 
----
+* * *
 
 Вторая версия osu!api работает на [osu-web](https://github.com/ppy/osu-web) и нацелена быть гораздо более надежной, чем оригинальная. Документацию (не гарантируется, что она будет обновлённой) можно найти по данной [ссылке](https://docs.ppy.sh).
 
@@ -16,4 +16,4 @@ no_native_review: true
 
 ## См. также
 
-- Тема на форуме: [osu!api open beta](https://osu.ppy.sh/community/forums/topics/141240) от [peppy](https://osu.ppy.sh/users/2)
+-   Тема на форуме: [osu!api open beta](https://osu.ppy.sh/community/forums/topics/141240) от [peppy](https://osu.ppy.sh/users/2)

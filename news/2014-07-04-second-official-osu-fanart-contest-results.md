@@ -19,7 +19,7 @@ by Beat Freak
 **Second Place:**  
 ![](/wiki/shared/news/2014-07-04-second-official-osu-fanart-contest-results/thumb-18.jpg)  
 Full: [Download Here](https://s.ppy.sh/images/storeart3/full-18.jpg)  
-by \[hews\]
+by \[hews]
 
 **Third Place:**  
 ![](/wiki/shared/news/2014-07-04-second-official-osu-fanart-contest-results/thumb-45.jpg)  

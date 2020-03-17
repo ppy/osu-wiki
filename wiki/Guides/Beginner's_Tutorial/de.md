@@ -6,10 +6,10 @@ Willkommen zu den osu! Anfänger Tutorial. Die Welt von osu! kann manchmal ein s
 
 Normalerweise fangen viele Spieler mit der normalen Computermaus an, da es oft das am einfachsten erreichbare Eingabemethode ist, weil halt jeder der ein Pc besitzt, eine Maus hat. Aber in wirklichkeit gibt es viele verschiedene Arten um den Cursor zu bewegen und auf die Hitcircle zu klicken:
 
-- Maus
-- Tablet
-- Touch Screen
-- Tastertur Clicking
+-   Maus
+-   Tablet
+-   Touch Screen
+-   Tastertur Clicking
 
 Und es gibt noch mehr Arten um den Cursor zu bewegen (Wiifernbedinung, Bewegungsensor, Technologie Zeug), aber um diese Anleitung einfach zu hallten, werde ich mich nur auf diese vier oberen Eingabemethoden konzentrieren.
 
@@ -17,34 +17,34 @@ Und es gibt noch mehr Arten um den Cursor zu bewegen (Wiifernbedinung, Bewegungs
 
 Wenn du doch mit der Maus Spielen möchtest, solltest du dir eine als Kabel am Pc angeschlossende Maus zulegen, da Funk-/Bluetoothmäuse gerne die Verbindung trennen oder Stottern. Wobei natürlich jede Maus in Ordnung ist; Manche Leute nutzen sogar Mäuse vom Action-Markt! Es hilft übrigens, wenn immer die selbe Maus genutzt wird, also versuch eine Maus zu nutzen, die auch lang hällt! Spieler die mit Maus spielen sind besonders gut in:
 
-- Sprüunge, besonders in rechten Grad und graden Richtungen.
-- Stabilität und Zielgenauigkeit macht es einfacher "kleinere" Kreise zu treffen.
+-   Sprüunge, besonders in rechten Grad und graden Richtungen.
+-   Stabilität und Zielgenauigkeit macht es einfacher "kleinere" Kreise zu treffen.
 
 Maus-Spieler haben meistens hiermit Probleme:
 
-- Andauernt hin- und herzuspringen.
+-   Andauernt hin- und herzuspringen.
 
 ### Graphiktablet
 
 Wenn du schon ein Tablet nutzt, solltest du versuchen ein Spielbereich zu nehmen, der für dich beim Spielen angenehm ist. Wenn du extra für osu! ein Tablet kaufen willst, kannst du ja dir die [Tabletkauf](/wiki/Guides/Tablet_Purchase) Anleitung anschauen. Zusätzlich solltest du dir die Spitzen von deinen Tablet aufbewahren, da diese sich beim Spielen abnutzen werden, besonders wenn du sehr schnell spielen solltest. Während du das Tablet nutzen kannst, um in die Hitcicles zu klicken, nutzen die Meisten Spieler zusätzlich die Tastertur, was wir ein klein wenig später auch noch behandeln werden. Graphiktablets haben die Vorteile:
 
-- Keine Ungenauigkeiten.
-- Bewegungen und Geschwindigkeit sind Präzise.
+-   Keine Ungenauigkeiten.
+-   Bewegungen und Geschwindigkeit sind Präzise.
 
 Graphiktablet-Spieler haben Probleme mit:
 
-- In 90° Winkel Springen. (insbesondere Square jumps)
+-   In 90° Winkel Springen. (insbesondere Square jumps)
 
 ### Touchscreen
 
 Sehr selten, da sehr wenige Spieler mit einen Touchscreen spielen. Du solltest versuchen nicht alzustark auf den Touchscreen zu drücken und du solltest ein Touchscreen finden, das sehr emphindlich auf deine Finge reagiert, sowie eines, welches sehr schnell reagiert. Dies sollte dir helfen die Lebenszeit deines Touchscreenes aufrecht zu hallten. Touchscreen hat Vorteile bei:
 
-- Sehr lange Streams zu spielen, sowie bei Stermina (Durchhalltevermögen).
-- Sehr großen Sprüngen, besonders wenn es von Ecke zu Ecke geht.
+-   Sehr lange Streams zu spielen, sowie bei Stermina (Durchhalltevermögen).
+-   Sehr großen Sprüngen, besonders wenn es von Ecke zu Ecke geht.
 
 Touchscreen-Spieler haben Probleme mit:
 
-- Genauigkeit, besonders bei kleineren Kreisen.
+-   Genauigkeit, besonders bei kleineren Kreisen.
 
 ### Tastertur "Tapping"
 
@@ -106,38 +106,38 @@ Gib diesen Beatmaps eine Versuch! Die Beatmaps sind von einfach bis nach schwer 
 
 Du kannst dein Abenteuer mit diesen Beatmaps starten!
 
-- [GReeeeN - Ai Uta (Taiko Cut)](https://osu.ppy.sh/beatmaps/57281) auf Kantan (0.83 Stars)
-- [TOKINE - Soko ni Aru Mono](https://osu.ppy.sh/beatmaps/67008) auf Easy (0.99 Stars)
-- [Rammstein - Mein erz brennt (Piano Instrumental)](https://osu.ppy.sh/beatmaps/250553) auf Easy (1.00 Stars)
-- [fripSide - a little christmas time](https://osu.ppy.sh/beatmaps/191008) auf Easy (1.03 Stars)
-- [Yoko Shimomura - A Twinkle in the Sky](https://osu.ppy.sh/beatmaps/220650) auf Easy (1.05 Stars)
-- [Sean Paul - She Doesn't Mind (Daniel Ngo Remix)](https://osu.ppy.sh/beatmaps/158917) auf Easy (1.08 Stars)
-- [Anamanaguchi - This is the End](https://osu.ppy.sh/beatmaps/74686) auf Average Joe (1.09 Stars)
-- [Infected Mushroom - The Pretender](https://osu.ppy.sh/beatmaps/240979) auf Easy (1.10 Stars)
-- [Do As Infinity - Fukai Mori](https://osu.ppy.sh/beatmaps/49478) auf Easy Dan (1.11 Stars)
-- [Nishiura Tomohito - Shop](https://osu.ppy.sh/beatmaps/404645) auf Easy (1.13 Stars)
-- [Angela Chang - Aurora](https://osu.ppy.sh/beatmaps/397975) auf Easy (1.14 Stars)
+-   [GReeeeN - Ai Uta (Taiko Cut)](https://osu.ppy.sh/beatmaps/57281) auf Kantan (0.83 Stars)
+-   [TOKINE - Soko ni Aru Mono](https://osu.ppy.sh/beatmaps/67008) auf Easy (0.99 Stars)
+-   [Rammstein - Mein erz brennt (Piano Instrumental)](https://osu.ppy.sh/beatmaps/250553) auf Easy (1.00 Stars)
+-   [fripSide - a little christmas time](https://osu.ppy.sh/beatmaps/191008) auf Easy (1.03 Stars)
+-   [Yoko Shimomura - A Twinkle in the Sky](https://osu.ppy.sh/beatmaps/220650) auf Easy (1.05 Stars)
+-   [Sean Paul - She Doesn't Mind (Daniel Ngo Remix)](https://osu.ppy.sh/beatmaps/158917) auf Easy (1.08 Stars)
+-   [Anamanaguchi - This is the End](https://osu.ppy.sh/beatmaps/74686) auf Average Joe (1.09 Stars)
+-   [Infected Mushroom - The Pretender](https://osu.ppy.sh/beatmaps/240979) auf Easy (1.10 Stars)
+-   [Do As Infinity - Fukai Mori](https://osu.ppy.sh/beatmaps/49478) auf Easy Dan (1.11 Stars)
+-   [Nishiura Tomohito - Shop](https://osu.ppy.sh/beatmaps/404645) auf Easy (1.13 Stars)
+-   [Angela Chang - Aurora](https://osu.ppy.sh/beatmaps/397975) auf Easy (1.14 Stars)
 
 ### Vortgeschrittener
 
 Nachdem du ein wenig gespielt hast, kannst du diese Beatmaps ja versuchen.
 
-- [Mutsuhiko Izumi - Russian Snowy Dance](https://osu.ppy.sh/beatmaps/124348) auf Easy (1.21 Stars)
-- [goreshit - o'er the flood](https://osu.ppy.sh/beatmaps/177139) auf Easy (1.22 Stars)
-- [Hatsune Miku - Electric Love (Short Ver.)](https://osu.ppy.sh/beatmaps/141749) auf Easy. (1.25 Stars)
-- [DJ YOSHITAKA feat. Hoshino Kanako - MAX LOVE](https://osu.ppy.sh/beatmaps/186601) auf Easy (1.28 Stars)
-- [Akcent feat. Edward Maya - That's My Name](https://osu.ppy.sh/beatmaps/132838) auf Easy (1.28 Stars)
-- [Hatsune Miku - Do-re-mi-fa Rondo](https://osu.ppy.sh/beatmaps/163457) auf Easy (1.28 Stars)
+-   [Mutsuhiko Izumi - Russian Snowy Dance](https://osu.ppy.sh/beatmaps/124348) auf Easy (1.21 Stars)
+-   [goreshit - o'er the flood](https://osu.ppy.sh/beatmaps/177139) auf Easy (1.22 Stars)
+-   [Hatsune Miku - Electric Love (Short Ver.)](https://osu.ppy.sh/beatmaps/141749) auf Easy. (1.25 Stars)
+-   [DJ YOSHITAKA feat. Hoshino Kanako - MAX LOVE](https://osu.ppy.sh/beatmaps/186601) auf Easy (1.28 Stars)
+-   [Akcent feat. Edward Maya - That's My Name](https://osu.ppy.sh/beatmaps/132838) auf Easy (1.28 Stars)
+-   [Hatsune Miku - Do-re-mi-fa Rondo](https://osu.ppy.sh/beatmaps/163457) auf Easy (1.28 Stars)
 
 ### Herausforderung
 
 Möchtest du dich selber Herrausfordern? Dann versuch diese!
 
-- [DJ Fresh - Gold Dust](https://osu.ppy.sh/beatmaps/96042) auf Easy (1.32 Stars)
-- [Kyary Pamyu Pamyu - Ninjya Re Bang Bang](https://osu.ppy.sh/beatmaps/230174) auf Easy (1.36 Stars)
-- [Carly Rae Jepsen - Call Me Maybe (Nightcore Mix)](https://osu.ppy.sh/beatmaps/172736) auf Easy (1.36 Stars)
-- [Kicks N Licks Feat. Nicole Millar - Own The Night (MitiS DnB Remix)](https://osu.ppy.sh/beatmaps/368307) auf Easy (1.45 Stars)
-- [Gentle Stick X M2U - Hades in the Heaven](https://osu.ppy.sh/beatmaps/318994) auf Easy (1.46 Stars)
+-   [DJ Fresh - Gold Dust](https://osu.ppy.sh/beatmaps/96042) auf Easy (1.32 Stars)
+-   [Kyary Pamyu Pamyu - Ninjya Re Bang Bang](https://osu.ppy.sh/beatmaps/230174) auf Easy (1.36 Stars)
+-   [Carly Rae Jepsen - Call Me Maybe (Nightcore Mix)](https://osu.ppy.sh/beatmaps/172736) auf Easy (1.36 Stars)
+-   [Kicks N Licks Feat. Nicole Millar - Own The Night (MitiS DnB Remix)](https://osu.ppy.sh/beatmaps/368307) auf Easy (1.45 Stars)
+-   [Gentle Stick X M2U - Hades in the Heaven](https://osu.ppy.sh/beatmaps/318994) auf Easy (1.46 Stars)
 
 ## Weiter Gehen
 

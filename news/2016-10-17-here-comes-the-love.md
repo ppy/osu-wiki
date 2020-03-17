@@ -11,13 +11,13 @@ Ever wanted to see a scoreboard on some of your favourite maps that weren't qual
 
 Over the years, a common complaint with the ranking cycle has been that it is fairly restricted for most people. Truth be told, it requires an immense amount of effort from many people to get a map qualified and ranked - sometimes exceeding hundreds of total man-hours per map. This has bred a lot of discontent in the community as people have often felt that their own work faces an impossibly large hurdle in order to be recognized in any significant capacity, especially if it tailors to a distinctive audience, or seeks to attempt gameplay paradigms that are not allowed by the current Ranking Criteria.
 
-We'd like to say that starting today, those times are over. Without further ado, we'd like to introduce the new *"Loved"* ranking state, which is now entering open testing.
+We'd like to say that starting today, those times are over. Without further ado, we'd like to introduce the new _"Loved"_ ranking state, which is now entering open testing.
 
 Here's the details:
 
-* Loved state functions almost identically to the Qualified state. Beatmaps marked with the state have their own scoreboards, but do not grant pp (performance points) for plays.
-* Similarly to how Qualified maps work, Loved maps also increase playcount, count for *most* medal achievements (excluding star related progression achievements and some others), saved online replays, and everything else you'd expect from a scoreboarded map.
-* Once a map enters Loved state, it can no longer be altered by the mapper without leaving the state again.
+-   Loved state functions almost identically to the Qualified state. Beatmaps marked with the state have their own scoreboards, but do not grant pp (performance points) for plays.
+-   Similarly to how Qualified maps work, Loved maps also increase playcount, count for _most_ medal achievements (excluding star related progression achievements and some others), saved online replays, and everything else you'd expect from a scoreboarded map.
+-   Once a map enters Loved state, it can no longer be altered by the mapper without leaving the state again.
 
 **To start the open testing off, we will be holding community voting on a weekly basis to select the first number of maps to enter the Loved state.** Maps may enter the Loved state in different ways in the future (such as via SP), pending some discussion and development of the system. For now, voting will be the only way.
 
@@ -31,6 +31,6 @@ We feel that this new state will make a lot of people happy once it becomes more
 
 We'd also like to give a shoutout to the [feature request thread that started it all](https://osu.ppy.sh/community/forums/posts/5548362) - we really do pay attention to the ideas made and supported in that forum, so if you've got an idea that you think would help make osu! more awesome, head on over and post it for the world to see!
 
-If you think *this* is good, wait until you see what we've got planned next.
+If you think _this_ is good, wait until you see what we've got planned next.
 
 —Ephemeral

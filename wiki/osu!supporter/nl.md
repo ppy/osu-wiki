@@ -14,21 +14,21 @@ In het kort: Donaties worden gebruikt om osu! draaiend te houden.
 
 ## Voordelen van osu!supporter
 
-- osu!direct (Directe downloads in-game)
-- Toegang tot multiplayer als je in de osu!cuttingedge mode zit.
-- [Chat Console](/wiki/Chat_Console): Helder gele naam (voor anderen, jij ziet je eigen naam nog steeds wit).
-- [Beatmap listing](https://osu.ppy.sh/beatmapsets) (?): Filter beatmap zoekopdrachten op gespeelde en niet gespeelde beatmaps.
-- [Skinning](/wiki/Skinning): Toegang tot iets meer skin elementen zoals [main menu](https://osu.ppy.sh/community/forums/topics/96949), osu!direct or multi's achtergronden.
-  - Iets specifieker; `menu-background.jpg` (Main Menu); `matchsetup-background.png` (Multi); `search-background.png` (osu!direct); `triangle.jpg` (Triangles); `welcome.wav` (Welcome Sound); `seeya.wav` (Exiting Sound)
-- [Feature Requests](https://osu.ppy.sh/community/forums/4): Extra stemmen voor Feature Requests (2 per maand).
-- [Song Selection](/wiki/Interface): De mogelijkheid om de rankings van een beatmap van jouw land / vrienden / mods te bekijken in-game.
-- Your Profile: <https://osu.ppy.sh/users/>
-  - Je kan een userpage aan je profiel toevoegen.
-    - Je userpage verdwijnt niet als je osu!supporter is afgelopen.
-  - De eenmalige mogelijkheid om je username te veranderen (één keer per account. Je kan je username hierna niet meer veranderen, uitzonderingen worden zeer zelden gemaakt).
-  - Je kan meer beatmaps submitten (10 pending beatmaps in totaal).
-- [Performance Ranking](https://osu.ppy.sh/rankings/osu/performance): Staat het "filter to friends" command toe.
-- *Komt nog*
+-   osu!direct (Directe downloads in-game)
+-   Toegang tot multiplayer als je in de osu!cuttingedge mode zit.
+-   [Chat Console](/wiki/Chat_Console): Helder gele naam (voor anderen, jij ziet je eigen naam nog steeds wit).
+-   [Beatmap listing](https://osu.ppy.sh/beatmapsets) (?): Filter beatmap zoekopdrachten op gespeelde en niet gespeelde beatmaps.
+-   [Skinning](/wiki/Skinning): Toegang tot iets meer skin elementen zoals [main menu](https://osu.ppy.sh/community/forums/topics/96949), osu!direct or multi's achtergronden.
+    -   Iets specifieker; `menu-background.jpg` (Main Menu); `matchsetup-background.png` (Multi); `search-background.png` (osu!direct); `triangle.jpg` (Triangles); `welcome.wav` (Welcome Sound); `seeya.wav` (Exiting Sound)
+-   [Feature Requests](https://osu.ppy.sh/community/forums/4): Extra stemmen voor Feature Requests (2 per maand).
+-   [Song Selection](/wiki/Interface): De mogelijkheid om de rankings van een beatmap van jouw land / vrienden / mods te bekijken in-game.
+-   Your Profile: <https://osu.ppy.sh/users/>
+    -   Je kan een userpage aan je profiel toevoegen.
+        -   Je userpage verdwijnt niet als je osu!supporter is afgelopen.
+    -   De eenmalige mogelijkheid om je username te veranderen (één keer per account. Je kan je username hierna niet meer veranderen, uitzonderingen worden zeer zelden gemaakt).
+    -   Je kan meer beatmaps submitten (10 pending beatmaps in totaal).
+-   [Performance Ranking](https://osu.ppy.sh/rankings/osu/performance): Staat het "filter to friends" command toe.
+-   _Komt nog_
 
 ## Het zakelijke gedeelte
 
@@ -39,18 +39,18 @@ In het kort: Donaties worden gebruikt om osu! draaiend te houden.
 ![Een voorbeeld van Supporter kopen](img/selecting-duration.jpg "Een voorbeeld van Supporter kopen")
 
 | Maanden | Kosten {USD$} (ten opzicht van totaal) |
-| :-: | :-- |
-| 1 | 4 |
-| 2 | 8 |
-| 4 | 12 (-25%) |
-| 6 | 16 (-33%) |
-| 8 | 20 (-38%) |
-| 9 | 22 (-39%) |
-| 10 | 24 (-40%) |
-| 12 | 26 (-46% max) |
-| 24 | 52 (-46% max) |
+| :-----: | :------------------------------------- |
+|    1    | 4                                      |
+|    2    | 8                                      |
+|    4    | 12 (-25%)                              |
+|    6    | 16 (-33%)                              |
+|    8    | 20 (-38%)                              |
+|    9    | 22 (-39%)                              |
+|    10   | 24 (-40%)                              |
+|    12   | 26 (-46% max)                          |
+|    24   | 52 (-46% max)                          |
 
-- Prijs is per account. Er zijn geen kortingen voor groepsaankopen.
+-   Prijs is per account. Er zijn geen kortingen voor groepsaankopen.
 
 ### Een keuze
 

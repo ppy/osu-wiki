@@ -8,9 +8,9 @@ New month, new mapping contest! Vote on last month's submissions and compete to 
 
 ![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
 
-The Monthly Beatmapping Contest (*MBC*) is back after a multi-year hiatus. Check out [last month's contest announcement](https://osu.ppy.sh/home/news/2020-01-05-monthly-beatmapping-contests-return) if you need to catch up.
+The Monthly Beatmapping Contest (_MBC_) is back after a multi-year hiatus. Check out [last month's contest announcement](https://osu.ppy.sh/home/news/2020-01-05-monthly-beatmapping-contests-return) if you need to catch up.
 
-January's contest received a *massive* turnout of over 100 valid submissions! A group of experienced beatmappers narrowed them down to the top 10% — the best 11 entries — so we encourage you to download those and vote for your **3 favourites**.
+January's contest received a _massive_ turnout of over 100 valid submissions! A group of experienced beatmappers narrowed them down to the top 10% — the best 11 entries — so we encourage you to download those and vote for your **3 favourites**.
 
 **[Vote for last month's contest here!](https://osu.ppy.sh/community/contests/84)** Results will be published in 2 weeks.
 
@@ -20,10 +20,10 @@ Now that housekeeping is out of the way, let's talk about this month's contest!
 
 As per usual, the timeline for this month's contest is as follows:
 
-- **Beatmapping (3 weeks):** Contest is announced and beatmappers create their entries.
-- **Screening (1 week):** Entries are evaluated by experienced beatmappers.
-- **Voting (2 weeks):** Top entries from screening are published for the osu! community to vote on. This overlaps with the next month's beatmapping portion.
-- **Rewards:** Winners are announced and prizes are redeemed, including profile badges, osu!supporter, and the *Elite Mapper* user title!
+-   **Beatmapping (3 weeks):** Contest is announced and beatmappers create their entries.
+-   **Screening (1 week):** Entries are evaluated by experienced beatmappers.
+-   **Voting (2 weeks):** Top entries from screening are published for the osu! community to vote on. This overlaps with the next month's beatmapping portion.
+-   **Rewards:** Winners are announced and prizes are redeemed, including profile badges, osu!supporter, and the _Elite Mapper_ user title!
 
 If you're curious about the details behind any of these, dive into the [Monthly Beatmapping Contest wiki article](/wiki/Contests/Monthly_Beatmapping_Contest). It answers every question you could ask. Probably.
 
@@ -91,17 +91,17 @@ All beatmap templates above include shortened versions of songs — mappers are 
 
 So how do you participate? Submissions must...
 
-- **follow the month's [beatmapping limitation](#limitation): *star rating cannot exceed 4.00***
-- **be in `.osz` format.** This allows your entry to use custom hitsound files and a background of your choice, however storyboarded visuals will be removed from all submissions.
-- **be a single difficulty for one of the month's [selected songs](#songs).**
-- **be in the osu! game mode.** Other game modes will be considered after trialing this contest with osu! only.
-- **not be uploaded to the osu! website through the Beatmap Submission System (*BSS*).** All contest submissions are anonymous during the screening/voting phases to avoid bias. **DO NOT SHARE YOUR ENTRY!**
-- **be solely created by you.** Collaborations are not allowed.
-- **abide by the [ranking criteria](/wiki/Ranking_Criteria).** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be discarded.
+-   **follow the month's [beatmapping limitation](#limitation): _star rating cannot exceed 4.00_**
+-   **be in `.osz` format.** This allows your entry to use custom hitsound files and a background of your choice, however storyboarded visuals will be removed from all submissions.
+-   **be a single difficulty for one of the month's [selected songs](#songs).**
+-   **be in the osu! game mode.** Other game modes will be considered after trialing this contest with osu! only.
+-   **not be uploaded to the osu! website through the Beatmap Submission System (_BSS_).** All contest submissions are anonymous during the screening/voting phases to avoid bias. **DO NOT SHARE YOUR ENTRY!**
+-   **be solely created by you.** Collaborations are not allowed.
+-   **abide by the [ranking criteria](/wiki/Ranking_Criteria).** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be discarded.
 
 Any entries breaking these rules will not be viable for the contest.
 
----
+* * *
 
 And... that's about it! If you're curious what shiny prizes you could get for winning or how winners are selected, be sure to read the [Monthly Beatmapping Contest wiki article](/wiki/Contests/Monthly_Beatmapping_Contest). There's a few too many details to squish into a post like this!
 

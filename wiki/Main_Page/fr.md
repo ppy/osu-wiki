@@ -6,10 +6,8 @@ layout: main_page
 Bienvenue sur le wiki d'osu!, un projet contenant une large gamme d'informations sur osu!.
 </div>
 
-
 <div class="wiki-main-page__panels">
 <div class="wiki-main-page-panel">
-
 
 # Pour débuter
 
@@ -18,14 +16,12 @@ Bienvenue sur le wiki d'osu!, un projet contenant une large gamme d'informations
 </div>
 <div class="wiki-main-page-panel">
 
-
 # Gameplay
 
 [FAQ](/wiki/FAQ) • [Multi](/wiki/Multi) • [Modes de jeu](/wiki/Game_Modes): ([osu!](/wiki/Game_Modes/osu!) • [osu!taiko](/wiki/Game_Modes/osu!taiko) • [osu!catch](/wiki/Game_Modes/osu!catch) • [osu!mania](/wiki/Game_Modes/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">
-
 
 # [Éditeur de beatmap](/wiki/Beatmap_Editor)
 
@@ -34,7 +30,6 @@ Sections: ([Composition](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatma
 </div>
 <div class="wiki-main-page-panel">
 
-
 # Édition et classement en ligne
 
 [Soumission](/wiki/Submission) • [Beatmap Approval](/wiki/Beatmap_ranking_procedure) • [Modding](/wiki/Modding) • [Ranking Criteria](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
@@ -42,14 +37,12 @@ Sections: ([Composition](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatma
 </div>
 <div class="wiki-main-page-panel">
 
-
 # Le monde d'osu!
 
 [Glossaire](/wiki/Glossary) • [Tournois](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projets](/wiki/Projects)
 
 </div>
 <div class="wiki-main-page-panel">
-
 
 # People
 

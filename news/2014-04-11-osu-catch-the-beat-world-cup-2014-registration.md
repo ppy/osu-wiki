@@ -10,7 +10,6 @@ Greetings. We'd like to welcome all of you to this year's official osu! Catch th
 ![image](/wiki/shared/news/banners/catch_logo_2014.png)
 
 For more details, refer to the [osu! Catch the Beat World Cup wiki article](https://osu.ppy.sh/help/wiki/Tournaments/CWC/2014).  
-  
 
 ## Tournament Schedule
 
@@ -40,7 +39,6 @@ For more details, refer to the [osu! Catch the Beat World Cup wiki article](http
 **To register, fill out [this form](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI/edit).**  
 **Then, verify your registration by sending a PM to Loctav titled "CWC Registration".**  
 When your registration was successful, your team's captain will be notified. _Any registrations or team changes past the deadline can not be considered._  
-  
 
 ## Links
 

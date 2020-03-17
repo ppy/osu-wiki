@@ -10,8 +10,8 @@ Dans le cas où les discussions sont infructueuses et n'amènent à rien, et que
 
 En tant que nominateur de beatmap, vous pouvez exercer votre droit de veto dans l'un des deux cas suivants:
 
-* Dans le cas où la beatmap est nominée, retirer ses nominations.
-* Dans le cas où la beatmap est qualifiée, la disqualifier.
+-   Dans le cas où la beatmap est nominée, retirer ses nominations.
+-   Dans le cas où la beatmap est qualifiée, la disqualifier.
 
 Dans les deux cas, le veto de la beatmap doit être déclaré et justifié, devra être accompagné d'explications précises expliquant pourquoi vous pensez que la beatmap en question ne devrait pas être au statut de Qualifiée. Une discussion devra ensuite s'amorçer afin de s'accorder des deux côtés pour résoudre le problème.
 

@@ -12,7 +12,7 @@ Seasons Greetings!
 
 I mentioned last month that I was looking forward to the progression and development of the **newly introduced Beatmap Discussions system**, and thanks to numerous contributions from our front-line Beatmap Nominators and modders, we've seen a number of quality of life improvements. These include the addition of line breaks in suggestions, more visibility for pending discussions per difficulty, and perhaps most importantly, the ability for Beatmap Nominators to counter (or "veto") a nomination by posting a Problem stamp.
 
-**Anyone can follow or take part** in these discussions by joining the [osu!dev Discord](https://discord.gg/ppy) and stopping by the *#osu-web-modding* channel. I strongly encourage it if you're invested in the mapping and/or modding communities and want to help develop the system!
+**Anyone can follow or take part** in these discussions by joining the [osu!dev Discord](https://discord.gg/ppy) and stopping by the _#osu-web-modding_ channel. I strongly encourage it if you're invested in the mapping and/or modding communities and want to help develop the system!
 
 With that being said, let's continue on to more specific recent developments in the Beatmap Nominators and Quality Assurance Team.
 
@@ -20,15 +20,15 @@ With that being said, let's continue on to more specific recent developments in 
 
 ### Changes to Beatmap Nominator applications
 
-The Beatmap Discussions system threw a slight spanner into the works for us with regards to how we evaluate new applications to the Beatmap Nominators, primarily due to the scaling of kudosu. In the current system, each applicant undergoes an initial check to entry based on their recent activity, and is required to pass a certain *"Modding Score"* threshold. This helps to filter out people who would be considered inactive in recent months, or not experienced enough.
+The Beatmap Discussions system threw a slight spanner into the works for us with regards to how we evaluate new applications to the Beatmap Nominators, primarily due to the scaling of kudosu. In the current system, each applicant undergoes an initial check to entry based on their recent activity, and is required to pass a certain _"Modding Score"_ threshold. This helps to filter out people who would be considered inactive in recent months, or not experienced enough.
 
-With kudosu being much easier to obtain under the Beatmap Discussions system (1-3 kudosu are available per suggestion depending on the number of upvotes provided by the mapper or other community members), the *"Modding Score"* threshold could easily be reached, in some extreme cases with only one or two mods. To avoid punishing people who had mostly used the previous forum modding system (with much less kudosu on offer, only 1-2 per mapset), we decided to be more lenient this cycle with the cutoff threshold. We're currently still working on ways to balance this for the next round of applicants!
+With kudosu being much easier to obtain under the Beatmap Discussions system (1-3 kudosu are available per suggestion depending on the number of upvotes provided by the mapper or other community members), the _"Modding Score"_ threshold could easily be reached, in some extreme cases with only one or two mods. To avoid punishing people who had mostly used the previous forum modding system (with much less kudosu on offer, only 1-2 per mapset), we decided to be more lenient this cycle with the cutoff threshold. We're currently still working on ways to balance this for the next round of applicants!
 
 Additionally, we received criticism that feedback from previous Beatmap Nominator applications was unspecific, and that the lack of context provided by anonymised mods did not fairly reflect on some modders' proficiency. Therefore, in the most recent application cycle, we removed the anonymisation aspect to better understand the context of the presented mods, as well as ensured that more detailed feedback is provided in three main categories:
 
-* **General Attitude** (tone of delivery and other behavioural expectations from the Code of Conduct for Mapping and Modding)
-* **Modding Abilities** (knowledge of the general/specific Ranking Criteria, further abilities e.g. metadata, timing, etc.)
-* **Deliberation** (overall suitability and readiness to join the Beatmap Nominators)
+-   **General Attitude** (tone of delivery and other behavioural expectations from the Code of Conduct for Mapping and Modding)
+-   **Modding Abilities** (knowledge of the general/specific Ranking Criteria, further abilities e.g. metadata, timing, etc.)
+-   **Deliberation** (overall suitability and readiness to join the Beatmap Nominators)
 
 As with previous cycles, all applicants will be granted feedback and suggestions for improvement on request. Additionally, applicants who were rejected for any reason will be given the opportunity to appeal this decision if they feel it to be unjustified.
 
@@ -64,9 +64,9 @@ However, the current implementation allows users to freely "Hype" any maps of th
 
 After recent discussion with developers, a modified Hype system is being trialled with the following restrictions:
 
-* Users will be required to play through at least one difficulty before being able to Hype a mapset.
-* Users will be limited to a certain (as yet undecided) number of Hype per month, making each one feel more valuable
-* Total number of Hype required for a beatmap to be nominated for Ranking will be reduced to 5 (to account for the increased worth of each).
+-   Users will be required to play through at least one difficulty before being able to Hype a mapset.
+-   Users will be limited to a certain (as yet undecided) number of Hype per month, making each one feel more valuable
+-   Total number of Hype required for a beatmap to be nominated for Ranking will be reduced to 5 (to account for the increased worth of each).
 
 The details of these modifications are subject to change based on community reception, of course. Be sure to give them a try and leave feedback for future development!
 

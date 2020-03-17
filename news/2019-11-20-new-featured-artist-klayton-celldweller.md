@@ -46,7 +46,7 @@ But don't take my word for it, give the following tracks a listen and hear for y
     <source src="https://assets.ppy.sh/artists/56/previews/1642.mp3" type="audio/mpeg">
 </audio>
 
----
+* * *
 
 All of the above plus so much more are available right now over at [**Klayton / Celldweller**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/56), so go check it all out and get creating!
 

@@ -30,7 +30,7 @@ Die folgenden Regeln sind genau das: REGELN. Es sind keine Richtlinien und sollt
 -   **Es ist nicht erlaubt eine Column leer zu lassen**.
 -   **Es ist nicht erlaubt mehr als 6 Tasten gleichzeitig auf einem Timing zu platzieren.**
 
-Mit USB verbundene Tastaturen können mehr als 6 Tasten gleichzeitig nicht erkennen. Diese Regel wurde erstellt um den Spielspaß aller sicherzustellen *Das Ende eines Hold's ist davon nicht betroffen denn sie werden losgelassen, nicht gedrückt*
+Mit USB verbundene Tastaturen können mehr als 6 Tasten gleichzeitig nicht erkennen. Diese Regel wurde erstellt um den Spielspaß aller sicherzustellen _Das Ende eines Hold's ist davon nicht betroffen denn sie werden losgelassen, nicht gedrückt_
 
 -   **Es ist nicht erlaubt zwei Noten auf der gleichen Column auf dem selben Timing zu platzieren. Es muss immer ein Abstand zur nächsten Note auf der gleichen Column bestehen.**
 -   **Letterboxing muss ausgeschaltet sein.** Letterboxing wird in osu!mania nicht unterstützt und gehört deshalb ausgeschaltet.
@@ -66,26 +66,26 @@ Richtlinien sind wichtig und sollten für alle Beatmaps möglichst befolgt werde
 
 Note: 1K, 2K, 3K und 10K wurden eingefügt, sind momentan jedoch NICHT Rankable Alles ab 10K kann nur im Co-Op Modus gespielt werden.
 
-| Keys (CS)                                              | Game                                                                            |
-|--------------------------------------------------------|---------------------------------------------------------------------------------|
-| 1K                                                     | Vuvu Hero                                                                       |
-| 2K                                                     | O2Jam U (2K)                                                                    |
-| 3K                                                     | TapTap                                                                          |
-| 4K                                                     | Dance Dance Revolution/Stepmania (Single), EZ2ON (RubyMix), O2Jam U (4K)        |
-| 5K                                                     | pop'n music (5K), O2Jam U (5K), Pump it Up (Single)                             |
-| 6K                                                     | EZ2ON (StreetMix)                                                               |
-| 6K (L)                                                 | beatmania (P1)                                                                  |
-| 6K (R)                                                 | beatmania (P2)                                                                  |
-| 7K                                                     | O2Jam, pop'n music (7K)                                                         |
-| 8K                                                     | Dance Dance Revolution/Stepmania (Double), EZ2ON (SpaceMix)                     |
-| 8K (L)                                                 | beatmaniaIIDX (P1)                                                              |
-| 8K (R)                                                 | beatmaniaIIDX (P2)                                                              |
-| 9K                                                     | pop'n music, E5 - Dancing Super Station (Single).                               |
-| 10K                                                    | MuziBox, Pump It Up (Double)                                                    |
-| 12K                                                    | Keyboardmania (Light)                                                           |
-| 14K                                                    |                                                                                 |
-| 16K                                                    | beatmaniaIIDX (Double)                                                          |
-| 18K                                                    | E5 - Dancing Super Station (Double).                                            |
-| 20K                                                    |                                                                                 |
+| Keys (CS) | Game                                                                     |
+| --------- | ------------------------------------------------------------------------ |
+| 1K        | Vuvu Hero                                                                |
+| 2K        | O2Jam U (2K)                                                             |
+| 3K        | TapTap                                                                   |
+| 4K        | Dance Dance Revolution/Stepmania (Single), EZ2ON (RubyMix), O2Jam U (4K) |
+| 5K        | pop'n music (5K), O2Jam U (5K), Pump it Up (Single)                      |
+| 6K        | EZ2ON (StreetMix)                                                        |
+| 6K (L)    | beatmania (P1)                                                           |
+| 6K (R)    | beatmania (P2)                                                           |
+| 7K        | O2Jam, pop'n music (7K)                                                  |
+| 8K        | Dance Dance Revolution/Stepmania (Double), EZ2ON (SpaceMix)              |
+| 8K (L)    | beatmaniaIIDX (P1)                                                       |
+| 8K (R)    | beatmaniaIIDX (P2)                                                       |
+| 9K        | pop'n music, E5 - Dancing Super Station (Single).                        |
+| 10K       | MuziBox, Pump It Up (Double)                                             |
+| 12K       | Keyboardmania (Light)                                                    |
+| 14K       |                                                                          |
+| 16K       | beatmaniaIIDX (Double)                                                   |
+| 18K       | E5 - Dancing Super Station (Double).                                     |
+| 20K       |                                                                          |
 
-Beinhaltet nicht: Keyboardmania (Light+, Real) \[24K\] und (Double) \[48K\].
+Beinhaltet nicht: Keyboardmania (Light+, Real) \[24K] und (Double) \[48K].

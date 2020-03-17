@@ -12,7 +12,7 @@ There's a lot to cover, so let's get stuck right into it!
 
 **The osu! game client has been possessed by spooky ghosts! Oh no!** Taking the form of the winners from this year's [Halloween Fanart Contest](https://osu.ppy.sh/community/contests/70) as voted by you (and a few extras), these adorably delightful pieces are sure to terrify and brighten up your day in equal measure.
 
-We had over *160* entries to vote for this year, setting a brand new record by an absolute landslide - the only contest to even come close is Spring 2018 with 77.
+We had over _160_ entries to vote for this year, setting a brand new record by an absolute landslide - the only contest to even come close is Spring 2018 with 77.
 
 The most horrifying thing of all is this meant that people only had **15** votes to throw around over five days. Agonizingly few, we know.
 
@@ -70,13 +70,13 @@ IT LIVES!
 
 Showcasing their natural cuteness in Halloween-themed style, **3407** declared their support for [iPhone](https://osu.ppy.sh/users/2279990)'s take on some scarily adorable costumes for both pippi and Mocha, complete with Yuzu hurling assorted fruits (and pumpkins!) into the night sky, plus a murderous little don caught in the act. Always knew those things were up to no good.
 
-*Due to an error in submission, this entry will not be available on the main menu for the time being. Sorry!*
+_Due to an error in submission, this entry will not be available on the main menu for the time being. Sorry!_
 
 [![](/wiki/shared/news/2018-10-23-halloween-2018-descends/Akshilsnow.jpg)](https://assets.ppy.sh/contests/70/winners/Akshilsnow.png)
 
 Lost in a sea of blood, **3376** voters cast their lot for [Akshilsnow](https://osu.ppy.sh/users/4464409)'s take on a disturbed pippi gazing eerily up towards the heavens. Something ominous lurks in that coffin to her left, I wonder what it could be?
 
-*Unfortunately, due to concerns about suggestive content, this entry will not be making it to the main menu.*
+_Unfortunately, due to concerns about suggestive content, this entry will not be making it to the main menu._
 
 [![](/wiki/shared/news/2018-10-23-halloween-2018-descends/Bunnshii.jpg)](https://assets.ppy.sh/contests/70/winners/Bunnshii.png)
 
@@ -98,46 +98,46 @@ Which would you choose?
 
 Most of the top-voted entries listed above qualified to become a part of the Halloween main menu pack, but a few did not - we have since replaced those with a set of two staff picks to keep things fair as follows:
 
-* [Atago](https://osu.ppy.sh/users/7011843)'s [entry](https://assets.ppy.sh/contests/70/winners/Atago.png)
-* [pockyway](https://osu.ppy.sh/users/11101809)'s' [entry](https://assets.ppy.sh/contests/70/winners/pockyway.png)
+-   [Atago](https://osu.ppy.sh/users/7011843)'s [entry](https://assets.ppy.sh/contests/70/winners/Atago.png)
+-   [pockyway](https://osu.ppy.sh/users/11101809)'s' [entry](https://assets.ppy.sh/contests/70/winners/pockyway.png)
 
 Both the voted entries and the staff picks will receive **2 months of osu!supporter** as part of the main prize.
 
-And on an entirely unrelated note, one entry was judged to be a little *too* suggestive to make it to voting, but deserved something of a special mention[.](https://assets.ppy.sh/contests/70/oh-my/YaoiForeva.jpg) What's this? Where did the link go?!
+And on an entirely unrelated note, one entry was judged to be a little _too_ suggestive to make it to voting, but deserved something of a special mention[.](https://assets.ppy.sh/contests/70/oh-my/YaoiForeva.jpg) What's this? Where did the link go?!
 
 Unless otherwise specified, the above entries are all available NOW in-game as the Halloween seasonal background pack.
 
---------
+* * *
 
-And to tie it all off, one of our Featured Artists, [Dictate](https://osu.ppy.sh/beatmaps/artists/21) has been hard at work conjuring up a new tune to lead us into All Hallow's Eve - titled *ghouls!*
+And to tie it all off, one of our Featured Artists, [Dictate](https://osu.ppy.sh/beatmaps/artists/21) has been hard at work conjuring up a new tune to lead us into All Hallow's Eve - titled _ghouls!_
 
 <br><iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/518604627&color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false"></iframe><br>
 
 This track is what all of the scores condemned to a terrible fate via the Sudden Death mod hear at the gallows. Ominous!
 
---------
+* * *
 
 Speaking of ominous, **there are now 11 brand new Hush-Hush themed medals available!** If you're new to this medal thing, Hush-Hush medals are half-riddle, half-achievement and all fun. These things will test your general knowledge of everything osu! - from popular songs, mappers, and more. Figuring out how to get them is only half the battle!
 
 If you do manage to figure one out, please keep it to yourself. The riddle is part of the fun!
 
-These new medals are universally hard at a sheer mechanical level, perhaps the hardest set to have been released *ever* in that regard. One of these new medals poses such a feat of regal magnificence that it has yet to be completed by ANY player - an entirely unique challenge!
+These new medals are universally hard at a sheer mechanical level, perhaps the hardest set to have been released _ever_ in that regard. One of these new medals poses such a feat of regal magnificence that it has yet to be completed by ANY player - an entirely unique challenge!
 
 Think you're up for it? Take heed of the hints below, you're going to need them, and this is all you'll get from us!
 
-* **Skylord** - Never miss a wingbeat. (*Flight requires nothing but perfection.*)
-* **B-Rave** - It takes courage to stand before the master. (*Ill-tempered bosses make for excellent final battles.*)
-* **Any%** - A speedrunner's best friend. (*Unintended features for intentional wins.*)
-* **Mirage** - The horizon goes on forever, and ever, and ever... (*The light is far harder than it seems.*)
-* **Under The Stars** - Onwards, to where the darkness can never stop us. (*Walk beneath skies of black on a journey to elsewhere.*)
-* **Senseless** - I hear nothing. I see nothing. (*A song sung in that which is not.*)
-* **Aeon** - In the mire of thawing time, memory shall be your guide. (*When your eyes fail you, how shall you succeed?*)
-* **Upon The Wind** - And in that gale, no eye could hope to follow. (*In the heart of a storm of flowers, a world untouched by sight.*)
-* **Vantage** - There we stood, where the spires pierced the sky, and dreamed of the future to come. (*Breaking ground, to critical acclaim.*)
-* **Quick Maths** - Beats per minute over... this isn't quick at all! (*Where x equals beats per minute, and a variable unknown.*)
-* **Efflorescence** - A lament for the past, and a glimpse into tomorrow. (*The horizon thunders with a portentous bloom.*)
+-   **Skylord** - Never miss a wingbeat. (_Flight requires nothing but perfection._)
+-   **B-Rave** - It takes courage to stand before the master. (_Ill-tempered bosses make for excellent final battles._)
+-   **Any%** - A speedrunner's best friend. (_Unintended features for intentional wins._)
+-   **Mirage** - The horizon goes on forever, and ever, and ever... (_The light is far harder than it seems._)
+-   **Under The Stars** - Onwards, to where the darkness can never stop us. (_Walk beneath skies of black on a journey to elsewhere._)
+-   **Senseless** - I hear nothing. I see nothing. (_A song sung in that which is not._)
+-   **Aeon** - In the mire of thawing time, memory shall be your guide. (_When your eyes fail you, how shall you succeed?_)
+-   **Upon The Wind** - And in that gale, no eye could hope to follow. (_In the heart of a storm of flowers, a world untouched by sight._)
+-   **Vantage** - There we stood, where the spires pierced the sky, and dreamed of the future to come. (_Breaking ground, to critical acclaim._)
+-   **Quick Maths** - Beats per minute over... this isn't quick at all! (_Where x equals beats per minute, and a variable unknown._)
+-   **Efflorescence** - A lament for the past, and a glimpse into tomorrow. (_The horizon thunders with a portentous bloom._)
 
----------
+* * *
 
 A big Happy Halloween from all of us on the osu!team! Remember to show your artists some love if you really liked their work!
 

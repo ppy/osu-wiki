@@ -12,7 +12,7 @@ Made popular by the [Radio Gosha animated shorts from 2008](https://www.youtube.
 
 Built on the very foundations of rhythm gaming sound, anyone who's played just about any other early rhythm game outside of osu! will at once be familiar with many of the artists and sounds now available via [their Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/44).
 
-We've managed to snag a selection of **32** tracks for ravenous mappers to sink their sweet-tooth into, including a large selection from **Disko Warp**'s highly popular *Hardcore Advance* albums.
+We've managed to snag a selection of **32** tracks for ravenous mappers to sink their sweet-tooth into, including a large selection from **Disko Warp**'s highly popular _Hardcore Advance_ albums.
 
 Check out a little sample of what's available below:
 
@@ -52,7 +52,7 @@ Check out a little sample of what's available below:
     <source src="https://assets.ppy.sh/artists/44/previews/1063.mp3" type="audio/mpeg">
 </audio>
 
----------
+* * *
 
 All these tracks and a bunch more are available right now for your mapping delight over at [**Disko Warp**'s Featured Artist page](https://osu.ppy.sh/beatmaps/artists/44). You know the drill - 100% free for use in mapping, no sweat.
 

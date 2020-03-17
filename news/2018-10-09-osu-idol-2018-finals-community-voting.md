@@ -4,7 +4,7 @@ title: "osu!idol 2018 Finals - Community Voting!"
 date: 2018-10-09 18:00:00 +0000
 ---
 
-It has been another exciting year for the osu!idol competition! We have three finalists for you to hear - [Zeva[FL]](https://osu.ppy.sh/users/2805170), [Will Stetson](https://osu.ppy.sh/users/4909088) and [MjIsMaster](https://osu.ppy.sh/users/9922896) -  give 'em a listen and vote for your favourite now!
+It has been another exciting year for the osu!idol competition! We have three finalists for you to hear - [Zeva\[FL\]](https://osu.ppy.sh/users/2805170), [Will Stetson](https://osu.ppy.sh/users/4909088) and [MjIsMaster](https://osu.ppy.sh/users/9922896) -  give 'em a listen and vote for your favourite now!
 
 [![](/wiki/shared/news/2018-10-10-osu-idol-2018-finals-community-voting/banner.jpg)](https://osu.ppy.sh/community/contests/71)
 
@@ -22,9 +22,9 @@ What will happen this year? Up to you!
 
 ### What will the prizes be?
 
-* **1st:** will receive the osu!idol 2018 Winner profile Badge and 6 months supporter tag!
-* **2nd:** will receive a 3 month supporter tag!
-* **3rd:** will receive a 2 month supporter tag!
+-   **1st:** will receive the osu!idol 2018 Winner profile Badge and 6 months supporter tag!
+-   **2nd:** will receive a 3 month supporter tag!
+-   **3rd:** will receive a 2 month supporter tag!
 
 Best of luck to our 2018 finalists!
 

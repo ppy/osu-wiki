@@ -73,7 +73,7 @@ Note: Specjalne mody takie jak [Perfect](/wiki/Game_Modifiers) czy [Nightcore](/
 -   **W**: [No Fail](/wiki/Game_Modifiers)
 -   **E**: [Half-Time](/wiki/Game_Modifiers)
 
-------------------------------------------------------------------------
+* * *
 
 -   **A**: [Hard Rock](/wiki/Game_Modifiers)
 -   **S**: [Sudden Death](/wiki/Game_Modifiers)
@@ -81,7 +81,7 @@ Note: Specjalne mody takie jak [Perfect](/wiki/Game_Modifiers) czy [Nightcore](/
 -   **F**: [Hidden](/wiki/Game_Modifiers)
 -   **G**: [Flashlight](/wiki/Game_Modifiers)
 
-------------------------------------------------------------------------
+* * *
 
 -   **X**: [Relax](/wiki/Game_Modifiers) (Brak efektu przy trybach 4/5/6/7/8k w osu!manii)
 -   **C**: [Auto-Pilot](/wiki/Game_Modifiers)

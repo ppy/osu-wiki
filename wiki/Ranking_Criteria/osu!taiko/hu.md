@@ -30,7 +30,7 @@ Minden szabály az, ami: SZABÁLY. A szabályok NEM simán jó tanácsok és NEM
 
 -   **Nagy körök**
 
-A nagy körök nem lehetnek a közepén vagy az elején a 1/4 vagy annál magasabb streameknek, kizárólag a végén, csak indokolt esetben. \[strike\]pls allow us oX\[/strike\]
+A nagy körök nem lehetnek a közepén vagy az elején a 1/4 vagy annál magasabb streameknek, kizárólag a végén, csak indokolt esetben. \[strike]pls allow us oX\[/strike]
 
 ## Irányelvek
 
@@ -54,7 +54,7 @@ Kevés ilyet használj és mindig hagyj ki 1/2 ütemnyi szünetet közöttük é
 
 -   **Shakers (Pörgetők)**
 
-Próbálj legalább 1/2 ütemnyi szünetet tenni a pörgető és a karika közé. A zenei streamekre és folyamatos hangokra, amikre nehéz lenne tenni bármi mást. Rövid pörgetők nem ajánlottak, \[strike\]mivel mindenki utálja őket\[/strike\] mivel a játékosokat összezavarhatja, viszont elfogadottak.
+Próbálj legalább 1/2 ütemnyi szünetet tenni a pörgető és a karika közé. A zenei streamekre és folyamatos hangokra, amikre nehéz lenne tenni bármi mást. Rövid pörgetők nem ajánlottak, \[strike]mivel mindenki utálja őket\[/strike] mivel a játékosokat összezavarhatja, viszont elfogadottak.
 
 -   **Saját ütemhangok**
 

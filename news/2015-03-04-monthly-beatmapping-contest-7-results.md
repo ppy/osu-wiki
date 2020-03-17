@@ -21,6 +21,6 @@ You can play the combined mapset [here](https://osu.ppy.sh/beatmapsets/241526) -
 
 Check out the results for [osu!standard](https://osu.ppy.sh/p/contestresults?c=13), [Taiko](https://osu.ppy.sh/p/contestresults?c=14), [Catch the Beat](https://osu.ppy.sh/p/contestresults?c=15) and [osu!mania](https://osu.ppy.sh/p/contestresults?c=16) for yourself.
 
-We look forward to seeing what people can do with MBC \#8, and stay tuned for more contests in the near future, with a whole new selection of artists to choose from.
+We look forward to seeing what people can do with MBC #8, and stay tuned for more contests in the near future, with a whole new selection of artists to choose from.
 
 —Ephemeral

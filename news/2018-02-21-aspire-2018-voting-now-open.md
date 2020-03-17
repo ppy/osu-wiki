@@ -10,7 +10,7 @@ Bringing a whole new meaning to fashionably late, the voting for Aspire 2018 is 
 
 The voting is [now open over at the Aspire 2018 contest listing](https://osu.ppy.sh/community/contests/68) complete with a bundle of replays by none other than the Champion Above Champions himself, [-GN](https://osu.ppy.sh/users/895581).
 
-Your votes will help decide the Public Impression scoring aspect of the contest, and like previous iterations of the format, this will account for 50% of the overall score that a map receives, meaning that your vote is *super* important.
+Your votes will help decide the Public Impression scoring aspect of the contest, and like previous iterations of the format, this will account for 50% of the overall score that a map receives, meaning that your vote is _super_ important.
 
 If all you care about is seeing the long-awaited entries, [head on over to the contest listing now](https://osu.ppy.sh/community/contests/68) to download the pack and get started. Voting will run until the **31st of March** to give people ample time to take it all in.
 

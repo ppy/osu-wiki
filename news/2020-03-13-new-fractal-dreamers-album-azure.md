@@ -4,13 +4,13 @@ title: "New Fractal Dreamers Album: Azure of the Horizon"
 date: 2020-03-13 09:00:00 +0000
 ---
 
-Prepare for a journey beyond the skyline with **Fractal Dreamers** latest album, *Azure of the Horizon*!
+Prepare for a journey beyond the skyline with **Fractal Dreamers** latest album, _Azure of the Horizon_!
 
 ![](https://assets.ppy.sh/artists/15/header.jpg)
 
 Those following the work of the **Fractal Dreamers** might've noticed that they dropped a brand new album a few months back, featuring more of their classical-inspired electronica sound.
 
-We're proud to announce that the *entire* album is now available [over at their Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/15#album-207), with all **8 tracks** pre-packaged and ready to go.
+We're proud to announce that the _entire_ album is now available [over at their Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/15#album-207), with all **8 tracks** pre-packaged and ready to go.
 
 The magnificently meticulous minds of the Mappers' Guild have historically had a field day with **Fractal Dreamers** work, so we're excited to see what everybody comes up with using the latest development in the journey that is their sound.
 
@@ -64,7 +64,7 @@ Check out a brief sample of what's new below:
     <source src="https://assets.ppy.sh/artists/15/previews/1975.mp3" type="audio/mpeg">
 </audio>
 
---------
+* * *
 
 As always, all the tracks above are [available now over at **Fractal Dreamers** Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/15#album-207), pre-timed and ready for you to set your own story to them.
 

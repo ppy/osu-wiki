@@ -24,7 +24,7 @@ Cliquez sur la chanson, cela ouvrira la fenêtre de l'[éditeur de beatmap](/wik
 
 ### Configuration de la chanson
 
-*Main page: [Configuration de la chanson](/wiki/Song_Setup)*
+_Main page: [Configuration de la chanson](/wiki/Song_Setup)_
 
 En faisant un nouveau [mapset](/wiki/mapset), vous verrez toujours cette boîte de dialogue avant toute autre partie de l'éditeur de beatmap.
 
@@ -39,7 +39,7 @@ L'étape suivante consiste à ajouter un timing à votre beatmap.
 
 ### Timing
 
-*Page principale : [Timing](/wiki/Timing)*
+_Page principale : [Timing](/wiki/Timing)_
 
 **Le timing est vital!**
 Les beatmaps mal synchronisées ne seront pas prises en compte pour le classement.
@@ -51,7 +51,7 @@ Cela vous (ainsi que les gens qui vérifieront votre beatmap) évitera beaucoup 
 
 ### Composer
 
-*Page principale : [Composer](/wiki/Compose)*
+_Page principale : [Composer](/wiki/Compose)_
 
 L'onglet Composer de l'éditeur de beatmap est l'endroit où vous passerez probablement la majorité de votre temps à composer.
 
@@ -59,6 +59,6 @@ C’est également ici que vous pouvez placer des hit objects et gérer leurs [h
 
 ### Conception
 
-*Page principale : [Conception](/wiki/Design) et [Storyboarding](/wiki/Storyboarding)*
+_Page principale : [Conception](/wiki/Design) et [Storyboarding](/wiki/Storyboarding)_
 
 L'onglet Conception de l'éditeur de beatmap est l'endroit où vous pouvez définir l'image de fond de beatmap, ajouter une vidéo et/ou créer un storyboard.

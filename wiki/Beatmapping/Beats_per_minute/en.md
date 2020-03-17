@@ -6,7 +6,7 @@ tags:
 
 # Beats per minute
 
-**Beats per minute** (***BPM***) refers to the number of whole musical beats in a minute, and is used to measure the [tempo](https://en.wikipedia.org/wiki/Tempo) of a song.
+**Beats per minute** (**_BPM_**) refers to the number of whole musical beats in a minute, and is used to measure the [tempo](https://en.wikipedia.org/wiki/Tempo) of a song.
 
 ## Timing points
 
@@ -21,4 +21,5 @@ Most modern songs use a single BPM which requires a single timing point. More co
 BPM also influences gameplay elements such as [slider velocity](/wiki/Hit_Objects#slider-speed) in [osu!standard](/wiki/Game_Modes/osu!), and scroll speed in [osu!mania](/wiki/Game_Modes/osu!mania).
 
 <!-- TODO: Insert links -->
+
 <!-- this is a stub-->

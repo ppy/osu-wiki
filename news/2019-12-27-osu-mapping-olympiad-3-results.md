@@ -4,27 +4,27 @@ title: "osu! Mapping Olympiad #3 Results (osu!mania)"
 date: 2019-12-27 16:15:00 +0000
 ---
 
-The judging for the first [osu!mania Mapping Olympiad contest](https://osu.ppy.sh/community/contests/67) has been completed! Congratulations to **[PianoLuigi](https://osu.ppy.sh/users/9665915)**, the first osu!mania Mapping Olympian and our newest *Elite Mapper*!
+The judging for the first [osu!mania Mapping Olympiad contest](https://osu.ppy.sh/community/contests/67) has been completed! Congratulations to **[PianoLuigi](https://osu.ppy.sh/users/9665915)**, the first osu!mania Mapping Olympian and our newest _Elite Mapper_!
 
 ![](/wiki/shared/news/banners/osu_mapping_olympiad.jpg)
 
-For the first [osu!mania Mapping Olympiad contest](https://osu.ppy.sh/community/contests/67), mappers were challenged to create a full mapset for the song *Scavenger* by [Dictate](https://osu.ppy.sh/beatmaps/artists/21). A total of 13 mappers stood up to the task, and below you can see the results:
+For the first [osu!mania Mapping Olympiad contest](https://osu.ppy.sh/community/contests/67), mappers were challenged to create a full mapset for the song _Scavenger_ by [Dictate](https://osu.ppy.sh/beatmaps/artists/21). A total of 13 mappers stood up to the task, and below you can see the results:
 
-| Rank | Username | Entry name | Musical relevance (30) | Creativity (30) | Technique (30) | Impression (30) | Hitsounding (15) | Difficulty spread (15) | Score (150) |
-| :-: | :-- | :-- | --: | --: | --: | --: | --: | --: | --: |
-| #1 | **[PianoLuigi](https://osu.ppy.sh/users/9665915)** | Uplifting Badger | 27 | 26 | 26 | 27 | 15 | 12 | **133** |
-| #2 | **[Kawawa](https://osu.ppy.sh/users/4647754)** | Vile Dragon | 25 | 22 | 24 | 23 | 12 | 14 | **120** |
-| #3 | **[\_VianK\_](https://osu.ppy.sh/users/6889055)** | Unnerved Dragon | 21 | 21 | 23 | 21 | 13 | 10 | **109** |
-| #4 | **[Noch Einen](https://osu.ppy.sh/users/12668735)** | Gloomy Goose | 21 | 24 | 18 | 19 | 10 | 11 | **103** |
-| #5 | **[Hira](https://osu.ppy.sh/users/6177202)** | Malevolent Magpie | 21 | 21 | 18 | 20 | 11 | 11 | **102** |
-| #6 | **[Sinnoh](https://osu.ppy.sh/users/4236057)** | Nervy Kinglet | 19 | 19 | 19 | 18 | 12 | 14 | **101** |
-| #7 | **[MEGAtive](https://osu.ppy.sh/users/3094101)** | Magnificent Cottonmouth | 20 | 16 | 20 | 19 | 11 | 14 | **100** |
-| #8 | **[Hydria](https://osu.ppy.sh/users/808176)** | Charming Opossum | 22 | 19 | 19 | 17 | 7 | 11 | **95** |
-| #9 | **[DE-CADE](https://osu.ppy.sh/users/3734394)** | Unethical Pintal | 18 | 18 | 19 | 17 | 10 | 12 | **94** |
-| #10 | **[LordRaika](https://osu.ppy.sh/users/3265023)** | Distracted Lark | 18 | 22 | 16 | 17 | 11 | 8 | **92** |
-| #11 | **[Nivrad00](https://osu.ppy.sh/users/1984634)** | Alarmed Teal | 17 | 18 | 15 | 16 | 6 | 9 | **81** |
-| #12 | **[Lenfried-](https://osu.ppy.sh/users/5314573)** | Jolly Fox | 12 | 19 | 14 | 13 | 7 | 8 | **73** |
-| #13 | **[Cuma Iseng](https://osu.ppy.sh/users/10418463)** | Vigilant Weasel | 11 | 21 | 7 | 9 | 5 | 6 | **59** |
+| Rank | Username                                            | Entry name              | Musical relevance (30) | Creativity (30) | Technique (30) | Impression (30) | Hitsounding (15) | Difficulty spread (15) | Score (150) |
+| :--: | :-------------------------------------------------- | :---------------------- | ---------------------: | --------------: | -------------: | --------------: | ---------------: | ---------------------: | ----------: |
+|  #1  | **[PianoLuigi](https://osu.ppy.sh/users/9665915)**  | Uplifting Badger        |                     27 |              26 |             26 |              27 |               15 |                     12 |     **133** |
+|  #2  | **[Kawawa](https://osu.ppy.sh/users/4647754)**      | Vile Dragon             |                     25 |              22 |             24 |              23 |               12 |                     14 |     **120** |
+|  #3  | **[\_VianK\_](https://osu.ppy.sh/users/6889055)**   | Unnerved Dragon         |                     21 |              21 |             23 |              21 |               13 |                     10 |     **109** |
+|  #4  | **[Noch Einen](https://osu.ppy.sh/users/12668735)** | Gloomy Goose            |                     21 |              24 |             18 |              19 |               10 |                     11 |     **103** |
+|  #5  | **[Hira](https://osu.ppy.sh/users/6177202)**        | Malevolent Magpie       |                     21 |              21 |             18 |              20 |               11 |                     11 |     **102** |
+|  #6  | **[Sinnoh](https://osu.ppy.sh/users/4236057)**      | Nervy Kinglet           |                     19 |              19 |             19 |              18 |               12 |                     14 |     **101** |
+|  #7  | **[MEGAtive](https://osu.ppy.sh/users/3094101)**    | Magnificent Cottonmouth |                     20 |              16 |             20 |              19 |               11 |                     14 |     **100** |
+|  #8  | **[Hydria](https://osu.ppy.sh/users/808176)**       | Charming Opossum        |                     22 |              19 |             19 |              17 |                7 |                     11 |      **95** |
+|  #9  | **[DE-CADE](https://osu.ppy.sh/users/3734394)**     | Unethical Pintal        |                     18 |              18 |             19 |              17 |               10 |                     12 |      **94** |
+|  #10 | **[LordRaika](https://osu.ppy.sh/users/3265023)**   | Distracted Lark         |                     18 |              22 |             16 |              17 |               11 |                      8 |      **92** |
+|  #11 | **[Nivrad00](https://osu.ppy.sh/users/1984634)**    | Alarmed Teal            |                     17 |              18 |             15 |              16 |                6 |                      9 |      **81** |
+|  #12 | **[Lenfried-](https://osu.ppy.sh/users/5314573)**   | Jolly Fox               |                     12 |              19 |             14 |              13 |                7 |                      8 |      **73** |
+|  #13 | **[Cuma Iseng](https://osu.ppy.sh/users/10418463)** | Vigilant Weasel         |                     11 |              21 |              7 |               9 |                5 |                      6 |      **59** |
 
 In **first place** is **[PianoLuigi](https://osu.ppy.sh/users/9665915)** with a total score of **133/150**! Their entry scored the highest in an impressive 5 of the 6 categories and was the highest scoring entry from judges Asherz007 and Leniane! This was an entry that stood high above the rest and is well deserving of the top spot for this contest. Congratulations!
 
@@ -36,11 +36,11 @@ You can see all of the scores and comments from the judges via [this spreadsheet
 
 Congratulations to all of the top three finishers! Here is what each person will receive as their reward (as a reminder, 6 Olympiad Points are needed for one badge level):
 
-- **First place: PianoLuigi:** 4 months of osu!supporter, 6 Olympiad Points (awards "Mapping Olympian" badge), *Elite Mapper* title
-- **Second place: Kawawa:** 3 months of osu!supporter, 4 Olympiad Points
-- **Third place: \_VianK\_:** 2 months of osu!supporter, 2 Olympiad Points
+-   **First place: PianoLuigi:** 4 months of osu!supporter, 6 Olympiad Points (awards "Mapping Olympian" badge), _Elite Mapper_ title
+-   **Second place: Kawawa:** 3 months of osu!supporter, 4 Olympiad Points
+-   **Third place: \_VianK\_:** 2 months of osu!supporter, 2 Olympiad Points
 
-As a bonus for winning first place, PianoLuigi's badge description will include the song title (*Scavenger*) they placed first in!
+As a bonus for winning first place, PianoLuigi's badge description will include the song title (_Scavenger_) they placed first in!
 
 You can also visit the [listing of all accumulated Olympiad Points](https://docs.google.com/spreadsheets/d/1_gIDJwTOgIhGr2h4069-r1C-2GHuV--5wtwPywzYsz8/edit), which is updated after each contest.
 

@@ -16,7 +16,7 @@ It is not only limited to in-game chat but also in other places such as the foru
 
 Usage: `!report username [reason]`
 
-Parameters in **[** and **]** are optional.
+Parameters in **\[** and **]** are optional.
 
 If the user has a space in their username, it must be replaced with an underscore `_` because the osu! in-game chat is based on [IRC](/wiki/Internet_Relay_Chat "Internet Relay Chat (IRC)").
 

@@ -6,11 +6,11 @@
 
 다음의 항목을 꾸밀 수 있습니다:
 
-- `background` - 클라이언트의 배경으로 사용됩니다. osu!tourney 의 기본 배경화면은 [여기서](https://s.ppy.sh/images/tournament/default.png) 다운받을 수 있습니다.
-- `background-win1` (선택적) - 경기가 종료된 후 블루 팀이 승리하였을 시 사용되는 배경화면입니다.
-- `background-win2` (선택적) - 경기가 종료된 후 레드 팀이 승리하였을 시 사용되는 배경화면입니다.
-- `tourney-title` (선택적) - 클라이언트의 끝부분과 배경의 상단 부분에 표시되는 대회 로고입니다.
-  - 대회의 로고로서 사용될 수 있습니다.
+-   `background` - 클라이언트의 배경으로 사용됩니다. osu!tourney 의 기본 배경화면은 [여기서](https://s.ppy.sh/images/tournament/default.png) 다운받을 수 있습니다.
+-   `background-win1` (선택적) - 경기가 종료된 후 블루 팀이 승리하였을 시 사용되는 배경화면입니다.
+-   `background-win2` (선택적) - 경기가 종료된 후 레드 팀이 승리하였을 시 사용되는 배경화면입니다.
+-   `tourney-title` (선택적) - 클라이언트의 끝부분과 배경의 상단 부분에 표시되는 대회 로고입니다.
+    -   대회의 로고로서 사용될 수 있습니다.
 
 ![팀의 아이콘을 표시할 수도 있습니다.](img/Osutourneyicons.png)
 

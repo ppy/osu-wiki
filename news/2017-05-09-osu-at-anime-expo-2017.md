@@ -15,9 +15,9 @@ Of course I'll be there, making sure everything runs smoothly but also to greet 
 
 ## Event details
 
-**Convention:** Anime Expo 2017    
-**Location:** Los Angeles Convention Center    
-**Date:** July 1st to 4th, 2017    
+**Convention:** Anime Expo 2017  
+**Location:** Los Angeles Convention Center  
+**Date:** July 1st to 4th, 2017  
 **Hall:** Entertainment Hall    
 
 ## What are we doing there?

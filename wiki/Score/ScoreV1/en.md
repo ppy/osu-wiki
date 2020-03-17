@@ -5,14 +5,21 @@ needs_cleanup: true
 <!-- TODO: might be a useless article -->
 
 <!-- wiki -->
+
 [Score main wikilink]: .. "Score"
+
 [osu! wikilink]: /wiki/Game_Modes/osu! "osu!"
+
 <!-- [osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko "osu!taiko" -->
+
 [osu!catch wikilink]: /wiki/Game_Modes/osu!catch "osu!catch"
+
 <!-- [osu!mania wikilink]: /wiki/Game_Modes/osu!mania "osu!mania" -->
 
 [CS wikilink]: /wiki/Beatmap_Editor/Song_Setup "more info can be found on Song Setup under Circle Size"
+
 [HP wikilink]: /wiki/Beatmap_Editor/Song_Setup "more info can be found on Song Setup under HP Drain"
+
 [OD wikilink]: /wiki/Beatmap_Editor/Song_Setup "more info can be found on Song Setup under Overall Difficulty"
 
 # ScoreV1
@@ -27,12 +34,12 @@ The score given by each hit circle and end of a slider is calculated with the fo
 
 `Score = Hit Value + (Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25))`
 
-Term | Meaning
-:---:|:---
-**Hit Value**             | The hit circle judgement (50, 100 or 300), any slider ticks and spinner's bonus
-**Combo multiplier**      | (Combo before this hit - 1) or 0; whichever is higher
-**Difficulty multiplier** | The difficulty setting for the beatmap (see next header)
-**Mod multiplier**        | The multiplier of the selected mods
+|            Term           | Meaning                                                                         |
+| :-----------------------: | :------------------------------------------------------------------------------ |
+|       **Hit Value**       | The hit circle judgement (50, 100 or 300), any slider ticks and spinner's bonus |
+|    **Combo multiplier**   | (Combo before this hit - 1) or 0; whichever is higher                           |
+| **Difficulty multiplier** | The difficulty setting for the beatmap (see next header)                        |
+|     **Mod multiplier**    | The multiplier of the selected mods                                             |
 
 Each slider start, end and repeat tick awards 30 points, each slider middle tick awards 10 points and each spin of a spinner awards 100 points.
 
@@ -46,13 +53,13 @@ The **Difficulty multiplier** was calculated based on each map's star rating (th
 
 The accumulated _difficulty points_ affect the **Difficulty multiplier** as so:-
 
-Difficulty points range | Difficulty multiplier
-:---:|:---
-**0 - 5**   | 2x multiplier
-**6 - 12**  | 3x multiplier
-**13 - 17** | 4x multiplier
-**18 - 24** | 5x multiplier
-**25 - 30** | 6x multiplier
+| Difficulty points range | Difficulty multiplier |
+| :---------------------: | :-------------------- |
+|        **0 - 5**        | 2x multiplier         |
+|        **6 - 12**       | 3x multiplier         |
+|       **13 - 17**       | 4x multiplier         |
+|       **18 - 24**       | 5x multiplier         |
+|       **25 - 30**       | 6x multiplier         |
 
 The limited highest is 27 difficulty points with CS7, OD10 and HP10.
 The limited lowest is 2 difficulty points with CS2, OD0 and HP0.
@@ -93,47 +100,47 @@ Additionally, all hit notes gain a 1.2x score multiplier, long yellow notes (dru
 
 In short: `Score = {ScoreValue + [min(RoundDown(Combo / 10), 10) * RoundDown(taiko score multiplier * raw mod multiplier)]} * Kiai Time`
 
-Term | Meaning
-:---:|:---
-**ScoreValue**             | The Score Value gained from the hit (300/600, 150/300, or 0/0).
-**Combo**                  | (Combo before this hit - 1) or 0; whichever is higher
-**taiko score multiplier** | \[Depends on difficulty rating\] Possible values are: 32, 48, 64, 80, 96
-**raw mod multiplier**     | The _raw_ multiplier of the selected mods (shown multipliers are usually rounded up)
-**RoundDown**              | Round down this value to a whole number instead, removing all the decimal values.
-**min(x, y)**              | Always pick the lowest value between _x_ or _y_.
-**Kiai Time**              | If Kiai Time was active, this value is 1.2. Otherwise, the value is 1.0.
+|            Term            | Meaning                                                                              |
+| :------------------------: | :----------------------------------------------------------------------------------- |
+|       **ScoreValue**       | The Score Value gained from the hit (300/600, 150/300, or 0/0).                      |
+|          **Combo**         | (Combo before this hit - 1) or 0; whichever is higher                                |
+| **taiko score multiplier** | \[Depends on difficulty rating] Possible values are: 32, 48, 64, 80, 96              |
+|   **raw mod multiplier**   | The _raw_ multiplier of the selected mods (shown multipliers are usually rounded up) |
+|        **RoundDown**       | Round down this value to a whole number instead, removing all the decimal values.    |
+|        **min(x, y)**       | Always pick the lowest value between _x_ or _y_.                                     |
+|        **Kiai Time**       | If Kiai Time was active, this value is 1.2. Otherwise, the value is 1.0.             |
 
 Exceptions:-
 
-- Each successful drumroll hit gives a constant GREAT Score Value (300/600 for small/large drumroll respectively) with Kiai Time bonus only.
-- Each denden hits/shaker shakes gives a constant GREAT Score Value (300) without Kiai Time bonus except for last denden hit/shaker shake, which gives a large GREAT Score Value (600) with current combo multiplier.
+-   Each successful drumroll hit gives a constant GREAT Score Value (300/600 for small/large drumroll respectively) with Kiai Time bonus only.
+-   Each denden hits/shaker shakes gives a constant GREAT Score Value (300) without Kiai Time bonus except for last denden hit/shaker shake, which gives a large GREAT Score Value (600) with current combo multiplier.
 
 ## osu!catch
 
 Scoring for osu!catch follows the same multiplier as in [osu!standard][osu! wikilink].
 However, the fruit that adds up the score is different from osu!standard.
 
-- A regular sized fruit gives a score of 300 times the multiplier.
-- A large juice drop (slider tick) gives a score of 100.
-- The smallest drop (also called "droplet", or slider trail/path) gives a score of 10.
-- Each collected bananas (collected during spinner duration) will give a static score of 1,100 regardless of mod and combo multiplier.
+-   A regular sized fruit gives a score of 300 times the multiplier.
+-   A large juice drop (slider tick) gives a score of 100.
+-   The smallest drop (also called "droplet", or slider trail/path) gives a score of 10.
+-   Each collected bananas (collected during spinner duration) will give a static score of 1,100 regardless of mod and combo multiplier.
 
 Combo will not be lost for missing droplets (considered as _Miss Droplet_ in server leaderboard) in this mode, but a drop of Accuracy and score gain from it.
 
 `Score = Hit Value + [Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25)]`
 
-Term | Meaning
-:---:|:---
-**Hit Value**             | The hit circle judgement (50, 100 or 300), any slider ticks, and spinner's bonus
-**Combo multiplier**      | (Combo before this hit - 1) or 0; whichever is higher
-**Difficulty multiplier** | The difficulty setting for the beatmap
-**Mod multiplier**        | The multiplier of the selected mods
+|            Term           | Meaning                                                                          |
+| :-----------------------: | :------------------------------------------------------------------------------- |
+|       **Hit Value**       | The hit circle judgement (50, 100 or 300), any slider ticks, and spinner's bonus |
+|    **Combo multiplier**   | (Combo before this hit - 1) or 0; whichever is higher                            |
+| **Difficulty multiplier** | The difficulty setting for the beatmap                                           |
+|     **Mod multiplier**    | The multiplier of the selected mods                                              |
 
 **Note:** There is a difference between osu!standard and osu!catch's scoring methods:
 
-- 300s and a combo increment are not given to a finished spinner
-- reverse slider ticks are counted as a full score of a hit
-  - note that in osu!standard, a reverse tick only gives 30 points
+-   300s and a combo increment are not given to a finished spinner
+-   reverse slider ticks are counted as a full score of a hit
+    -   note that in osu!standard, a reverse tick only gives 30 points
 
 ## osu!mania
 
@@ -141,44 +148,42 @@ In osu!mania, each beatmap has the same maximum total score of 1 million (1,000,
 
 The score is given in two parts, base score and bonus score, each contributing 50% of total score.
 
-- Base score is based on hit judgement.
-  - A rainbow 300 is worth a bit more than 300.
-- Bonus score is based on hit judgement and a floating bonus multiplier.
-  - The multiplier increases with a rainbow 300 or 300, while it decreases with a 200 or below.
-  - The better judgement, the more multiplier increase/less punishment.
-    - There's an upper limit for the multiplier.
+-   Base score is based on hit judgement.
+    -   A rainbow 300 is worth a bit more than 300.
+-   Bonus score is based on hit judgement and a floating bonus multiplier.
+    -   The multiplier increases with a rainbow 300 or 300, while it decreases with a 200 or below.
+    -   The better judgement, the more multiplier increase/less punishment.
+        -   There's an upper limit for the multiplier.
 
 The score given by each note is calculated with the following formula:-
 
-```
-Score = BaseScore + BonusScore
+    Score = BaseScore + BonusScore
 
-BaseScore = (MaxScore * ModMultiplier * 0.5 / TotalNotes) * (HitValue / 320)
+    BaseScore = (MaxScore * ModMultiplier * 0.5 / TotalNotes) * (HitValue / 320)
 
-BonusScore = (MaxScore * ModMultiplier * 0.5 / TotalNotes) * (HitBonusValue * Sqrt(Bonus) / 320)
-Bonus = Bonus before this hit + HitBonus - HitPunishment / ModDivider
-Bonus is limited to [0, 100], initially 100.
+    BonusScore = (MaxScore * ModMultiplier * 0.5 / TotalNotes) * (HitBonusValue * Sqrt(Bonus) / 320)
+    Bonus = Bonus before this hit + HitBonus - HitPunishment / ModDivider
+    Bonus is limited to [0, 100], initially 100.
 
-MaxScore = 1 000 000
-ModMultiplier = The score multiplier of the selected mods (difficulty reduction and/or nK)
-ModDivider = The punishment divider of the selected mods (difficulty increase)
+    MaxScore = 1 000 000
+    ModMultiplier = The score multiplier of the selected mods (difficulty reduction and/or nK)
+    ModDivider = The punishment divider of the selected mods (difficulty increase)
 
-Judgement  HitValue  HitBonusValue  HitBonus  HitPunishment
-   MAX       320          32            2
-   300       300          32            1
-   200       200          16                        8
-   100       100           8                       24
-    50        50           4                       44
-  Miss         0           0                        ∞
+    Judgement  HitValue  HitBonusValue  HitBonus  HitPunishment
+       MAX       320          32            2
+       300       300          32            1
+       200       200          16                        8
+       100       100           8                       24
+        50        50           4                       44
+      Miss         0           0                        ∞
 
-       Mod  ModMultiplier  ModDivider
-      Easy       0.5
-    NoFail       0.5
-  HalfTime       0.5
-  HardRock                    1.08
-DoubleTime                     1.1
- NightCore                     1.1
-    FadeIn                    1.06
-    Hidden                    1.06
-Flashlight                    1.06
-```
+           Mod  ModMultiplier  ModDivider
+          Easy       0.5
+        NoFail       0.5
+      HalfTime       0.5
+      HardRock                    1.08
+    DoubleTime                     1.1
+     NightCore                     1.1
+        FadeIn                    1.06
+        Hidden                    1.06
+    Flashlight                    1.06

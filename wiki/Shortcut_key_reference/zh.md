@@ -66,7 +66,7 @@ outdated: true
 -   **W**: [No Fail](/wiki/Game_Modifiers)
 -   **E**: [Half-Time](/wiki/Game_Modifiers)
 
-------------------------------------------------------------------------
+* * *
 
 -   **A**: [Hard Rock](/wiki/Game_Modifiers)
 -   **S**: [Sudden Death](/wiki/Game_Modifiers)
@@ -74,7 +74,7 @@ outdated: true
 -   **F**: [Hidden](/wiki/Game_Modifiers)
 -   **G**: [Flashlight](/wiki/Game_Modifiers)
 
-------------------------------------------------------------------------
+* * *
 
 -   **X**: [Relax](/wiki/Game_Modifiers) （在osu!mania 4/5/6/7/8K模式下无效）
 -   **C**: [Auto-Pilot](/wiki/Game_Modifiers)

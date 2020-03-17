@@ -20,7 +20,7 @@ Ces informations sont importantes et devraient être suivis par la plupart des m
 
 -   **Slider Velocity**
 
-Le *Slider Velocity* devrait être réglé sur 1,40 ou 1,60 pour les difficultés Muzukashii et supérieures. Pour les difficultés Kantan et Futsuu, un SV égal à 1,00 ou 1,20 est suffisant.
+Le _Slider Velocity_ devrait être réglé sur 1,40 ou 1,60 pour les difficultés Muzukashii et supérieures. Pour les difficultés Kantan et Futsuu, un SV égal à 1,00 ou 1,20 est suffisant.
 
 -   **Streams**
 
@@ -28,7 +28,7 @@ Pour la plupart des maps, ne placez vos notes que sur les 1/1, 1/2 et 1/4 pour l
 
 -   **Changement de BPM**
 
-Afin d'éviter une superposition de notes pendant les ralentis, utilisez les *inherited timing sections* pour ralentir graduellement la vitesse durant cette partie. Vous pouvez aussi utiliser les changement de SV de telle sorte à ce qu'ils soient lisibles.
+Afin d'éviter une superposition de notes pendant les ralentis, utilisez les _inherited timing sections_ pour ralentir graduellement la vitesse durant cette partie. Vous pouvez aussi utiliser les changement de SV de telle sorte à ce qu'ils soient lisibles.
 
 -   **Drumrolls (Sliders)**
 
@@ -40,4 +40,4 @@ Utilisez les avec modération et gardez un espace d'1/2 entre eux et une note ad
 
 -   **Hitsounds personnalisés**
 
-Les Hitsounds personnalisés doivent rappeler une percussion. Si vous les utilisez, les sons graves doivent être réglés en tant que *don* et les aigus en tant que *kat*. Custom hitsounds must be drum-related. If custom hitsounds are used, they should have deeper/lower tone set as don and a higher/lighter tone as kat.
+Les Hitsounds personnalisés doivent rappeler une percussion. Si vous les utilisez, les sons graves doivent être réglés en tant que _don_ et les aigus en tant que _kat_. Custom hitsounds must be drum-related. If custom hitsounds are used, they should have deeper/lower tone set as don and a higher/lighter tone as kat.

@@ -1,6 +1,6 @@
 # Videos from YouTube
 
-*[*The Painless Add Video To Beatmap Process walkthrough. por: Gilrad](https://osu.ppy.sh/community/forums/topics/639)*
+_\[_The Painless Add Video To Beatmap Process walkthrough. por: Gilrad](<https://osu.ppy.sh/community/forums/topics/639>)\*
 
 Este tutorial é destinado para aqueles que **não conseguem** encontrar o vídeo que desejam fora do YouTube.
 
@@ -10,7 +10,7 @@ Este tutorial é destinado para aqueles que **não conseguem** encontrar o víde
 
 [YouTube](https://youtube.com)
 
-- É realmente um recurso incrível. Caso a música tenha um vídeo de música, ele estará no youtube, e provavelmente comprimido naquele ponto dourado onde o vídeo parece decente, mas não será uma m\*\*\*\* para baixar.
+-   É realmente um recurso incrível. Caso a música tenha um vídeo de música, ele estará no youtube, e provavelmente comprimido naquele ponto dourado onde o vídeo parece decente, mas não será uma m\*\*\*\* para baixar.
 
 #### Baixe o vídeo
 

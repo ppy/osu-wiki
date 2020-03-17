@@ -68,17 +68,17 @@ It is just too adorable to describe any more than that. Check it out!
 
 [![](/wiki/shared/news/2018-05-02-spring-2018-fanart-contest-results/Vio.jpg)](https://assets.ppy.sh/contests/64/winners/osu%21%20Spring%20Fanart%202018%20-%20Vio.jpg)
 
-Sunset overtones herald **4771** votes for [Vio](https://osu.ppy.sh/users/5661237)'s wonderfully unique entry, showcasing Mocha enjoying a ride on her bike and appreciating the local wildlife. A beautifully realised setting that just *oozes* personality. Excellent work!
+Sunset overtones herald **4771** votes for [Vio](https://osu.ppy.sh/users/5661237)'s wonderfully unique entry, showcasing Mocha enjoying a ride on her bike and appreciating the local wildlife. A beautifully realised setting that just _oozes_ personality. Excellent work!
 
 [![](/wiki/shared/news/2018-05-02-spring-2018-fanart-contest-results/R3_AL.jpg)](https://assets.ppy.sh/contests/64/winners/osu%21%20Spring%20Fanart%202018%20-%20R3_AL.png)
 
-Achieving **3664** votes, [R3\_AL](https://osu.ppy.sh/users/11983357)'s adorable drawing of a rather aptly titled spring Pippi showcases her wonderfully bright-eyed gaze highlighted with vibrant colouring.
+Achieving **3664** votes, [R3_AL](https://osu.ppy.sh/users/11983357)'s adorable drawing of a rather aptly titled spring Pippi showcases her wonderfully bright-eyed gaze highlighted with vibrant colouring.
 
 [![](/wiki/shared/news/2018-05-02-spring-2018-fanart-contest-results/RaudhrAkai.jpg)](https://assets.ppy.sh/contests/64/winners/osu%21%20Spring%20Fanart%202018%20-%20RaudhrAkai.png)
 
 On wings of a spring-tinged dream, **3647** voters were enthralled by [RaudhrAkai](https://osu.ppy.sh/users/1631442)'s fantastical take on an otherworldly Pippi enjoying some springtime scenery. Well done!
 
----------
+* * *
 
 Like what you see? [Download all of the entries bundled together in high quality here!](https://assets.ppy.sh/contests/64/winners/osu%21%20Spring%20Fanart%202018%20Winners.zip)
 

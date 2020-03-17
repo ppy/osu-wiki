@@ -22,8 +22,8 @@ Mamy nadzieję, że filmiki te przekażą potrzebne informacje nowym graczom ora
 
 Kliknij na obrazek aby zostać zabranym do odpowiedniego odcinka.
 
-| Odcinek                                                                                         | Opis                                                                                                             |
-|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| Odcinek                                                                               | Opis                                                                                                             |
+| ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | [![](img/Academy_1.png)](https://www.youtube.com/watch?v=cz522ZAs5aQ "Odcinek 1")     | W tym odcinku, zajmiemy się instalacją gry i tworzeniem konta                                                    |
 | [![](img/Academy_2.png)](https://www.youtube.com/watch?v=mswLEXK0eDk "Odcinek 2")     | W tym odcinku, weźmiemy pod lupę rozgrywkę trybu osu!standard i dostosowanie różnych stylów gry                  |
 | [![](img/Academy_3.png)](https://www.youtube.com/watch?v=UAomychlbic "Odcinek 3")     | W tym odcinku wraz z LoliFlan, zajmiemy się trybem gry osu!mania                                                 |

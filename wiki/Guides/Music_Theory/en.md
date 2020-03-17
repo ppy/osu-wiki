@@ -1,6 +1,6 @@
 # Music theory guide
 
-*[Original guide by ziin](https://osu.ppy.sh/community/forums/topics/58959)*
+_[Original guide by ziin](https://osu.ppy.sh/community/forums/topics/58959)_
 
 osu! is primarily a music game, and beatmaps are usually created with the idea that they fit the music, rather than fitting a certain BPM. In this short essay I will be discussing music theory as it applies to an osu! beatmap, as well as explaining why certain things sound bad (at least to me). In no way can the matters discussed even be considered “guidelines”. Instead, think of it as theory. Most of the time they will apply to some parts of songs, but there are many exceptions. Everything I say here is personal opinion based upon 12+ years of concert band experience or taken directly from Wikipedia. It can’t be applied to all forms of music, especially avant garde stuff and most Touhou music (so, half of osu?)
 
@@ -14,7 +14,7 @@ The downbeat is the impulse that occurs at the beginning of a bar in measured mu
 
 ### Backbeat, upbeat, sometimes called offbeat
 
-A back beat, or backbeat, is a syncopated accentuation on the "off" beat. In a simple 4/4 rhythm these are beats 2 and 4… In today's popular music the snare drum is typically used to play the backbeat pattern. This is why putting claps on beats 2 and 4 *sounds good*. Most contemporary music uses a snare backbeat. Some songs will add a kick to the backbeat by moving the second beat up by half a beat (so beats 2 and 3.5).
+A back beat, or backbeat, is a syncopated accentuation on the "off" beat. In a simple 4/4 rhythm these are beats 2 and 4… In today's popular music the snare drum is typically used to play the backbeat pattern. This is why putting claps on beats 2 and 4 _sounds good_. Most contemporary music uses a snare backbeat. Some songs will add a kick to the backbeat by moving the second beat up by half a beat (so beats 2 and 3.5).
 
 ### Dropping the beat
 
@@ -32,7 +32,7 @@ These are the most common sliders you will find. They play well, are easy to pre
 
 ![Upbeat sliders](img/Upbeat_sliders.png "Upbeat sliders")
 
-This is what I like to call them. Sliders which start on beat 4 have a serious problem associated with them: if it’s a 1/1 slider, it will *end* on the downbeat. That leaves the downbeat unstressed, and can be awkward to play, especially when repeated.
+This is what I like to call them. Sliders which start on beat 4 have a serious problem associated with them: if it’s a 1/1 slider, it will _end_ on the downbeat. That leaves the downbeat unstressed, and can be awkward to play, especially when repeated.
 
 ### Offbeat sliders
 
@@ -66,7 +66,7 @@ Sliders in osu! most closely resemble a held note in music since spinners are ra
 
 Most music works in groups of 2 or 4. 4 beats to a measure, 4 measures to a phrase, etc… So long as you place a slider beginning or a circle on the downbeat (long white tick) and sometimes the middle of the phrase, you can put in any number of upbeat or offbeat sliders with crazy slider patterns, stupid short sliders and silly streams in the map, even if it doesn’t fit the song. I’m serious. It’s obviously not entirely recommended, since then you can take any song with the same BPM and song structure, copy/paste it, and have the same low quality map. It’s also important to map to the music, but most music just repeats itself over and over again, so it’s good to throw in something different from time to time.
 
-It’s common knowledge that when playing the bass line with any instrument, you can make up almost *any* rhythm and play *any* note so long as you play the downbeat in every measure in key. That’s how important the downbeat is. Obviously it’s not always perfect, but it’s at least acceptable.
+It’s common knowledge that when playing the bass line with any instrument, you can make up almost _any_ rhythm and play _any_ note so long as you play the downbeat in every measure in key. That’s how important the downbeat is. Obviously it’s not always perfect, but it’s at least acceptable.
 
 Songs which only use onbeat sliders are destined to be boring, so make sure you improvise your rhythms.
 
@@ -74,13 +74,13 @@ Songs which only use onbeat sliders are destined to be boring, so make sure you 
 
 My definition of [overmapping](/wiki/Glossary) is placing a note or slider end where no note exists in the background. There are a few reasons to overmap:
 
-- The rhythm is too difficult for normal/fun play.
-  - This often happens with songs which use triplets in 1/6 snap, and the mapper simplifies it to 1/4th.
-- The background music is rushing or slowing down and differs from where it obviously should be.
-  - This doesn’t usually happen, and usually you shouldn’t map parts that are not snapped correctly
-- The song is in a swing time signature, but the mapper hates 1/6.
-  - I don’t consider this a valid excuse and will vote 1 automatically.
-- The song is boring and needs some made up rhythms to keep in interesting.
+-   The rhythm is too difficult for normal/fun play.
+    -   This often happens with songs which use triplets in 1/6 snap, and the mapper simplifies it to 1/4th.
+-   The background music is rushing or slowing down and differs from where it obviously should be.
+    -   This doesn’t usually happen, and usually you shouldn’t map parts that are not snapped correctly
+-   The song is in a swing time signature, but the mapper hates 1/6.
+    -   I don’t consider this a valid excuse and will vote 1 automatically.
+-   The song is boring and needs some made up rhythms to keep in interesting.
 
 Chances are you’re mapping it wrong then.
 

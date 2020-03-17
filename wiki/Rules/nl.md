@@ -8,7 +8,7 @@ Deze regels zijn de basis waarmee we ervoor zorgen dat de osu!gemeenschap een le
 
 ## Gemeenschap regels
 
-1.  **Elke speler mag maar *ÉÉN* account hebben.** Jij bent dit account. Het is niemand anders - niet je broer, je moeder, je zus, je vriend - JIJ bent het. Deel je account niet met iemand anders.
+1.  **Elke speler mag maar _ÉÉN_ account hebben.** Jij bent dit account. Het is niemand anders - niet je broer, je moeder, je zus, je vriend - JIJ bent het. Deel je account niet met iemand anders.
 2.  **Speel eerlijk.** Het gebruik van hulp van een derde partij om enig voordeel ten opzichte van anderen te krijgen is niet oké. Hierbij horen ook dingen als macro programma's, programma's om te helpen mikken, tijdschaal modificaties, enzovoort. Als een programma iets doet om jou te helpen met het spelen van het spel dat je zelf zou moeten spelen, is het niet oké!
 3.  **Wees aardig tegen elkaar.** Lastig vallen of ander antagonisme heeft geen plek binnen de osu!gemeenschap. We zijn hier om cirkels te klikken, drums te slaan, fruit te vangen en tot aan achttien toetsen tegelijk in te drukken, niet om klootzakken tegen elkaar te zijn.
 4.  **Wees geen eikel.** Als je je ooit afvraagt of je deze regel aan het verbreken bent, dan ben je dat waarschijnlijk.
@@ -25,7 +25,7 @@ Deze regels zijn de basis waarmee we ervoor zorgen dat de osu!gemeenschap een le
 6.  **Pas op met wat je deelt met anderen, vooral als de inhoud potentieel schokkend of grafisch is.** Als je twee keer moet nadenken over of iets geschikt is om te linken, is het dat waarschijnlijk niet. Vermijd dingen met snel, stroboscopische lichten, verwondingen, afbeeldingen van misbruik of ander grafisch materiaal.
 7.  **Houd links bij relevante en legale websites.** Bootleg stream websites (websites met officiële licenties zoals Animelab en Crunchyroll zijn oké) en alles gerelateerd aan "warez" of illegaal gekopieerde software van elk soort zijn niet oké, en we willen ze niet in onze chat. Twitch links adverteren voor andere video games is oké, maar ALLEEN in `#videogames`.
 8.  **Adverteer geen chat servers van een derde partij van welke soort dan ook, inclusief Discord, Teamspeak of Skype servers/groepen.** De osu! chat gaat als eerste over osu! en niet over het delen van links naar je persoonlijke servers. Doe het in een persoonlijk bericht als je het absoluut moet doen.
-9.  **In taal-specifieke kanalen moet je de dominante taal praten (Engels voor `#english`, Thais voor `#thai`, enzovoort) als je deelneemt aan het gesprek.** Wanneer de taal voor een kanaal niet specifiek gemeld is (of afgeleid kan worden van de naam van het kanaal zoals Thais voor `#thai` en Nederlands voor `#dutch`), is het altijd Engels. De `#lobby` en `#help` kanalen mogen gebruikt worden in elke taal, in tegenstelling tot andere kanalen. *Leden van het [moderator team](/wiki/People/Global_Moderation_Team) hoeven deze regel niet te volgen wanneer ze hun werk doen.*
+9.  **In taal-specifieke kanalen moet je de dominante taal praten (Engels voor `#english`, Thais voor `#thai`, enzovoort) als je deelneemt aan het gesprek.** Wanneer de taal voor een kanaal niet specifiek gemeld is (of afgeleid kan worden van de naam van het kanaal zoals Thais voor `#thai` en Nederlands voor `#dutch`), is het altijd Engels. De `#lobby` en `#help` kanalen mogen gebruikt worden in elke taal, in tegenstelling tot andere kanalen. _Leden van het [moderator team](/wiki/People/Global_Moderation_Team) hoeven deze regel niet te volgen wanneer ze hun werk doen._
 
 ## Forum-brede regels
 
@@ -51,12 +51,12 @@ Een set met meer gedetailleerde regels voor het maken van een beatmap, genaamd d
 
 Als je je bevindt op het slechte eind van de gemeenschap regels, gebeuren er slechte dingen.
 
-Deze slechte dingen zijn onder andere (*maar niet gelimiteerd tot*):
+Deze slechte dingen zijn onder andere (_maar niet gelimiteerd tot_):
 
-* Het weghalen van je mogelijkheid om te chatten voor een onbepaalde periode (ook wel het zwijgen opleggen)
-* Het weghalen van inhoud op je gebruikers pagina, profiel of geüploade beatmaps.
-* Het verliezen van privileges om je gebruikers pagina of profiel aan te passen.
-* Het verliezen van privileges om deel te nemen of te kwalificeren voor gehoste toernooien.
+-   Het weghalen van je mogelijkheid om te chatten voor een onbepaalde periode (ook wel het zwijgen opleggen)
+-   Het weghalen van inhoud op je gebruikers pagina, profiel of geüploade beatmaps.
+-   Het verliezen van privileges om je gebruikers pagina of profiel aan te passen.
+-   Het verliezen van privileges om deel te nemen of te kwalificeren voor gehoste toernooien.
 
 Zwijgen opleggen en andere overtredingen nemen **automatisch** bijna exponentieel toe. Moderators hebben geen controle over de lengte waarmee je het zwijgen bent opgelegd voor een overtreding - herhaaldelijk overtreders zullen uitgesloten worden van het spel voor toenemend langere periodes.
 

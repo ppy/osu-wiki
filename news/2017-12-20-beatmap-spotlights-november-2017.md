@@ -14,10 +14,10 @@ The beatmap charts for the November Spotlights can be found [here](https://osu.p
 
 First of all, congratulations to the winners of the October 2017 Spotlights. They receive one month of supporter status for their efforts!
 
-+ **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
-+ **osu!taiko:** [zkane2](https://osu.ppy.sh/users/6359835)
-+ **osu!catch:** [[-naniwa-]](https://osu.ppy.sh/users/4958376)
-+ **osu!mania:** [Cryolien](https://osu.ppy.sh/users/1626983)
+-   **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
+-   **osu!taiko:** [zkane2](https://osu.ppy.sh/users/6359835)
+-   **osu!catch:** [\[-naniwa-\]](https://osu.ppy.sh/users/4958376)
+-   **osu!mania:** [Cryolien](https://osu.ppy.sh/users/1626983)
 
 ## Changes within the Spotlight Team
 
@@ -25,10 +25,10 @@ We're welcoming [Mao](https://osu.ppy.sh/users/2204515) and [Nardoxyribonucleic]
 
 In conjunction with the above changes, it is my pleasure to welcome our new map selectors into the team.
 
-* **osu!:** [Battle](https://osu.ppy.sh/users/4037545), [Halfslashed](https://osu.ppy.sh/users/4598899), [Delis](https://osu.ppy.sh/users/1603923), [Regou](https://osu.ppy.sh/users/419954), [Crystal](https://osu.ppy.sh/users/1646397), [Gamu](https://osu.ppy.sh/users/611174)
-* **osu!taiko:** [hikikochan](https://osu.ppy.sh/users/6512678), [Neppu](https://osu.ppy.sh/users/605973)
-* **osu!catch:** [Crystal](https://osu.ppy.sh/users/1646397)
-* **osu!mania:** [Garalulu](https://osu.ppy.sh/users/757783), [Pope Gadget](https://osu.ppy.sh/users/2288341), [Asherz007](https://osu.ppy.sh/users/9014047), [TheToaphster](https://osu.ppy.sh/users/7616811)
+-   **osu!:** [Battle](https://osu.ppy.sh/users/4037545), [Halfslashed](https://osu.ppy.sh/users/4598899), [Delis](https://osu.ppy.sh/users/1603923), [Regou](https://osu.ppy.sh/users/419954), [Crystal](https://osu.ppy.sh/users/1646397), [Gamu](https://osu.ppy.sh/users/611174)
+-   **osu!taiko:** [hikikochan](https://osu.ppy.sh/users/6512678), [Neppu](https://osu.ppy.sh/users/605973)
+-   **osu!catch:** [Crystal](https://osu.ppy.sh/users/1646397)
+-   **osu!mania:** [Garalulu](https://osu.ppy.sh/users/757783), [Pope Gadget](https://osu.ppy.sh/users/2288341), [Asherz007](https://osu.ppy.sh/users/9014047), [TheToaphster](https://osu.ppy.sh/users/7616811)
 
 # November 2017 Spotlights
 
@@ -110,7 +110,7 @@ For his 20th map, [Fresh Chicken](https://osu.ppy.sh/users/3984370) went from th
 
 With the help of [Lude](https://osu.ppy.sh/users/6974536) and [Valentrix](https://osu.ppy.sh/users/2794620), Fresh Chicken maintains the momentum of solid, fun and efficient mapsets. Mixing a lot of different patterns with smooth speed changes for 2:13 min of drain time, Dreadnought is definitely an interesting map for both competitive and casual play!
 
---------
+* * *
 
 The Spotlights, formerly known as Monthly Ranking Charts, has undergone many positive changes in the last few years, thanks to the support and critique of many users, as well as the dedicated work of the Spotlights team itself which I very much appreciate.
 

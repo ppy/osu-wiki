@@ -27,7 +27,7 @@ Dovregubben's Hall: [Guy's rendition](https://osu.ppy.sh/beatmapsets/360950)
 
 Each of these maps will be bundled with the game client for an indeterminate period of time. [monstrata](https://osu.ppy.sh/users/2706438), [alacat](https://osu.ppy.sh/users/869782#osu) and [Guy](https://osu.ppy.sh/users/91738) will all receive **$50 in osu!store credit, 6 months of osu!supporter, and a unique profile badge** for their effort.
 
-*(Their profile badges may not be live at the time of posting, we're still trying to figure out a suitably awesome badge for their efforts.)*
+_(Their profile badges may not be live at the time of posting, we're still trying to figure out a suitably awesome badge for their efforts.)_
 
 Do note that the [second month of mapping with rewards](https://blog.ppy.sh/post/132009865043/mapping-with-rewards-oct-2015) is still technically active, as no maps fulfilling the criteria set out in that post have yet been made. If you want your chance at swag and prestige, you can still get in on it!
 

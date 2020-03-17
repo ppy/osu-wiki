@@ -10,13 +10,13 @@ peppy was MIA (missing in action) in Japan on 2007-12-17 until 2008-01-20. He so
 
 ## February
 
-![](img/hard_rock.png "Hard Rock \(v1\)") ![](img/sudden_death.png "Sudden Death \(v1\)") ![](img/double_time.png "Double Time \(v1\)")
+![](img/hard_rock.png "Hard Rock (v1)") ![](img/sudden_death.png "Sudden Death (v1)") ![](img/double_time.png "Double Time (v1)")
 
 Players received extra challenges in the form of mods ([Hard Rock](/wiki/HR), [Sudden Death](/wiki/SD) and [Double Time](/wiki/DT)). Gameplay experience was enhanced considerably with the addition of countdown images and sounds, custom number and colours of combos, O/X (Pass/Fail) section rankings, countdown intros, background colour scripting, volume control per timing section and, perhaps most importantly, the introduction of storyboarding script support. An attempt was made to move osu! over to the XNAv2 framework, but peppy decided the new version was useless and reduced overall performance. XNA1.1 was used from this point forward, which was shaped according to osu!'s needs with thousands of rewritten lines and hacks to make osu! what it was A new text rendering engine was implemented, allowing for very crisp font display at any font size. This makes it possible to display more editor information and make the game look a lot better overall.
 
 ## March
 
-![](img/relax.png "Relax \(v1\)") ![](img/half_time.png "Half Time \(v1\)")
+![](img/relax.png "Relax (v1)") ![](img/half_time.png "Half Time (v1)")
 
 To counterbalance February's new mods, the [Relax](/wiki/RL) and [Half Time](/wiki/HT) mods arrived to make life easier for players this month. Users were now able to take screenshots, and import and export replays. Animations could be storyboarded for the first time, and the skin selection screen was added. Performance optimisations saw a decrease in 82% for loading the song selection screen (via a new format for the local beatmap database). Various other performance tweaks were made, including the introduction of the frame limit toggle and a number of other graphical options. Project Bancho was started on 2008-03-24. The idea was to create a server component for the osu! family, which handles communications between users and removes the IRC dependency.
 
@@ -48,7 +48,7 @@ A new ranked status "![](img/fire.gif) [approved](/wiki/Approved)" was added for
 
 ## September
 
-![](img/flashlight.png "Flashlight \(v1\)") ![](img/spun_out.png "Spun Out \(v1\)") ![](img/auto.png "Auto \(v1\)")
+![](img/flashlight.png "Flashlight (v1)") ![](img/spun_out.png "Spun Out (v1)") ![](img/auto.png "Auto (v1)")
 
 A slew of new mods were unveiled this month: [Flashlight](/wiki/FL), [Spun Out](/wiki/SO) and [Auto](/wiki/AT). Auto scripts an AI player that completed (almost) any beatmap with perfect accuracy, and can also be accessed via the editor test mode. The limits of beatmap design were pushed farther with the addition of more skinnable elements (including combo burst images), the clap sound sample, the ability to assign sound samples to individual slider endpoints and inherited timing sections. The song selection screen also received an overhaul.
 
@@ -74,4 +74,4 @@ Another noticeable event was that the Catch the Beat scores were [wiped](https:/
 
 ## The Future
 
-*"Think big, and expect big."* — peppy
+_"Think big, and expect big."_ — peppy

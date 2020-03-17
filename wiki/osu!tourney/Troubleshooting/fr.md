@@ -12,8 +12,8 @@ Désactivez tous vos écrans supplémentaires ! osu!tourney ne fonctionne que su
 
 ## osu!tourney ne s'ouvre pas, il me lance un erreur et/ou se ferme !
 
-- Assurez-vous que vous êtes connecté à osu! et que les cases `Retenir le nom d'utilisateur` et `Retenir le mot de passe` sont cochées.
-- Assurez-vous que la clé `privateserver` dans `tournament.cfg` n'a pas de valeur.
+-   Assurez-vous que vous êtes connecté à osu! et que les cases `Retenir le nom d'utilisateur` et `Retenir le mot de passe` sont cochées.
+-   Assurez-vous que la clé `privateserver` dans `tournament.cfg` n'a pas de valeur.
 
 ## Ma base de données de musique osu! a été corrompue quand je le lance !
 

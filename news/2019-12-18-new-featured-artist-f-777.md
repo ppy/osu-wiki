@@ -8,9 +8,9 @@ date: 2019-12-18 09:05:00 +0000
 
 ![](https://assets.ppy.sh/artists/60/header.jpg)
 
-Surging in from *Geometry Dash* and Newgrounds fame, we're proud to finally welcome **F-777** aboard. Making music since he was 14 years old, **F-777** has had his work featured in a variety of video games like *Concerned Joe*, *One Finger Death Punch*, *Flash Flash Revolution* and more.
+Surging in from _Geometry Dash_ and Newgrounds fame, we're proud to finally welcome **F-777** aboard. Making music since he was 14 years old, **F-777** has had his work featured in a variety of video games like _Concerned Joe_, _One Finger Death Punch_, _Flash Flash Revolution_ and more.
 
-This is one of our biggest releases in a while, sporting a whopping **42** brand new tracks for you to sink your teeth into, including well-loved classics like *He's a Pirate* and *Airborne Robots*.
+This is one of our biggest releases in a while, sporting a whopping **42** brand new tracks for you to sink your teeth into, including well-loved classics like _He's a Pirate_ and _Airborne Robots_.
 
 Here's a very tiny selection of a few tracks to give you a bit of a taste:
 
@@ -44,7 +44,7 @@ Here's a very tiny selection of a few tracks to give you a bit of a taste:
     <source src="https://assets.ppy.sh/artists/60/previews/1704.mp3" type="audio/mpeg">
 </audio>
 
----
+* * *
 
 All 42 tracks are available right now over at [**F-777**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/60), pre-timed and just waiting for you to slap your rhythmic mark all over them. What're you waiting for?
 

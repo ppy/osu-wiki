@@ -11,25 +11,25 @@ Congratulations to last month's winners!
 
 **osu! standard**
 
-1.  [Doomsday](https://osu.ppy.sh/users/Doomsday) \- 1 month of supporter
+1.  [Doomsday](https://osu.ppy.sh/users/Doomsday) - 1 month of supporter
 2.  [SapphireGhost](https://osu.ppy.sh/users/SapphireGhost)
 3.  [Nitro](https://osu.ppy.sh/users/Nitro)
 
 **Taiko**
 
-1.  [EBAWER123](https://osu.ppy.sh/users/EBAWER123) \- 1 month of supporter
+1.  [EBAWER123](https://osu.ppy.sh/users/EBAWER123) - 1 month of supporter
 2.  [FEZ_Icese](https://osu.ppy.sh/users/FEZ_Icese)
 3.  [AnFace](https://osu.ppy.sh/users/AnFace)
 
 **Catch the Beat**
 
-1.  [Dusk](https://osu.ppy.sh/users/Dusk) \- 1 month of supporter
+1.  [Dusk](https://osu.ppy.sh/users/Dusk) - 1 month of supporter
 2.  [Sakurano Kurimu](https://osu.ppy.sh/users/1338103)
-3.  [\[_Crystal\]](https://osu.ppy.sh/users/1646397)
+3.  [\[\_Crystal\]](https://osu.ppy.sh/users/1646397)
 
 **osu!mania**
 
-1.  [SARASNOW](https://osu.ppy.sh/users/SARASNOW) \- 1 month of supporter
+1.  [SARASNOW](https://osu.ppy.sh/users/SARASNOW) - 1 month of supporter
 2.  [Oujo](https://osu.ppy.sh/users/Oujo)
 3.  [ChoiJiYoon](https://osu.ppy.sh/users/ChoiJiYoon)
 

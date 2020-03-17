@@ -14,18 +14,17 @@ The beatmap charts for the Spring Spotlights can be found [here](https://osu.ppy
 
 First of all, congratulations to the winners of the Seasonal Spotlights: Winter 2019. They will receive 3, 2, and 1 month of supporter for 1st, 2nd, and 3rd place respectively for their efforts!
 
-- **osu!:** [Toy](https://osu.ppy.sh/users/2757689), [Apraxia](https://osu.ppy.sh/users/4194445) and [xxluizxx47](https://osu.ppy.sh/users/4687701)
-- **osu!taiko:** [Jaye](https://osu.ppy.sh/users/4841352), [AlvaroYL](https://osu.ppy.sh/users/6333166) and [tasuke912](https://osu.ppy.sh/users/2774767)
-- **osu!catch:** [rostld](https://osu.ppy.sh/users/4365562), [RAMPAGE88](https://osu.ppy.sh/users/448547) and [-Nirfu-](https://osu.ppy.sh/users/7332050)
-- **osu!mania:** [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), [Stink God](https://osu.ppy.sh/users/7381289) and [Cryolien](https://osu.ppy.sh/users/1626983)
-
+-   **osu!:** [Toy](https://osu.ppy.sh/users/2757689), [Apraxia](https://osu.ppy.sh/users/4194445) and [xxluizxx47](https://osu.ppy.sh/users/4687701)
+-   **osu!taiko:** [Jaye](https://osu.ppy.sh/users/4841352), [AlvaroYL](https://osu.ppy.sh/users/6333166) and [tasuke912](https://osu.ppy.sh/users/2774767)
+-   **osu!catch:** [rostld](https://osu.ppy.sh/users/4365562), [RAMPAGE88](https://osu.ppy.sh/users/448547) and [-Nirfu-](https://osu.ppy.sh/users/7332050)
+-   **osu!mania:** [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), [Stink God](https://osu.ppy.sh/users/7381289) and [Cryolien](https://osu.ppy.sh/users/1626983)
 
 # Navigation
 
-- <a href="#osu">osu!</a>
-- <a href="#taiko">osu!taiko</a>
-- <a href="#catch">osu!catch</a>
-- <a href="#mania">osu!mania</a>
+-   <a href="#osu">osu!</a>
+-   <a href="#taiko">osu!taiko</a>
+-   <a href="#catch">osu!catch</a>
+-   <a href="#mania">osu!mania</a>
 
 # Spring 2019 Spotlights
 
@@ -101,7 +100,6 @@ Speaking of which, boy, ohh boy is it hard. Insanely hard. You might expect "pp 
 
 If you're not ready for the challenge this difficulty provides, you should give [komasy](https://osu.ppy.sh/users/1980256)'s Inner Oni a shot! It's still quite challenging and an absolute joy to play through, just like the other difficulties are.
 
-
 A blooming start to this season's spotlights, and an absolutely deserved winner to it!
 
 _written by [Greenshell](https://osu.ppy.sh/users/8693851)_
@@ -166,7 +164,6 @@ _written by [Kazu](https://osu.ppy.sh/users/920861)_
 While not especially fancy in this month's release, [mintong89](https://osu.ppy.sh/users/966210)'s map remains impressive by its very consistent patterning and temperate use of speed velocity changes. 
 
 This is accented further by clever use of doublet patterning to make the map more variable, and together these things combine to make a map well worthy of the Spring 2019 Spotlights.
-
 
 _written by [qoot8123](https://osu.ppy.sh/users/766371)_
 
@@ -316,7 +313,7 @@ This being yetii's debut to the ranked scene, there will be more to come from th
 
 _written by [CrumpetFiddler](https://osu.ppy.sh/users/3518705)_
 
----
+* * *
 
 The spreadsheet is available for everyone who is interested to take a look at how we selected these mapsets. Do not be afraid to take a look at it [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6-dC5kr3WT7SQIxw_7GbKzQ9Pn_mubb085V5ixan1P6Lcq-ONCruSDaI9tPAaX9dyOogQ3PopAMn_/pubhtml)!
 

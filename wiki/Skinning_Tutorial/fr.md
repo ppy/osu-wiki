@@ -1,8 +1,8 @@
 # Tutoriel de Skinning
 
-*Voir également : [Skinning](/wiki/Skinning)*
+_Voir également : [Skinning](/wiki/Skinning)_
 
-*Pour les questions fréquemments posées, voir : [Skinning/FAQ](/wiki/Skinning/FAQ)*
+_Pour les questions fréquemments posées, voir : [Skinning/FAQ](/wiki/Skinning/FAQ)_
 
 ## Commencer
 
@@ -19,10 +19,10 @@ Une fois que vous avez votre propre dossier de skin dans le dossier `Skins/`, vo
     -   [Paint.NET](https://www.getpaint.net) (Gratuit)
     -   [Photoshop](https://www.adobe.com/products/photoshop.html) (Payant)
 -   Éditeurs d'audio
-    - [Audacity](https://www.audacityteam.org) (Gratuit)
-    - [FL Studio](https://www.image-line.com/flstudio/) (Gratuit/Payant)
+    -   [Audacity](https://www.audacityteam.org) (Gratuit)
+    -   [FL Studio](https://www.image-line.com/flstudio/) (Gratuit/Payant)
 
----
+* * *
 
 La prochaine chose dont vous aurez besoin sera un thème ou une idée. Vous devriez avoir quelque chose en tête afin d'avoir un objectif pour le rendu final de votre skin. Cela vous aidera également quand vous aurez besoin de récupérer et/ou de créer des fichiers
 

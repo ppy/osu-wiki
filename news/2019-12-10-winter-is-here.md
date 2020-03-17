@@ -4,7 +4,7 @@ title: "Winter is Here!"
 date: 2019-12-10 13:00:00 +0000
 ---
 
-It's time to get *festive*! The end of the year is almost here and with it, **twenty** new wintery backgrounds to welcome it in, plus a brand new Christmas carol inspired track from the original osu!musician himself, **nekodex**!
+It's time to get _festive_! The end of the year is almost here and with it, **twenty** new wintery backgrounds to welcome it in, plus a brand new Christmas carol inspired track from the original osu!musician himself, **nekodex**!
 
 ![](https://assets.ppy.sh/contests/82/banners/header.jpg)
 
@@ -14,13 +14,13 @@ Our beloved community artists missed the memo on the 'little bit' part of all th
 
 To refresh everyone on the particulars, the top three finalists out of the twenty listed below will receive a super shiny profile badge to pin on their profile forever more, and what could possibly be shinier than the work they've managed to win with? The top three will also receive 4, 3 and 2 months of osu!supporter respectively, with all other finalists nabbing 2 months to tide them over into 2020 as well.
 
-But before we get started digging into the entries, [**nekodex**](https://osu.ppy.sh/beatmaps/artists/1) has been hard at work over the past few weeks creating a neat little twist on an osu!-infused Christmas carol, aptly titled as *carol of the circles*. This'll be making its way to the main menu along with the winning entries, but in case you just can't wait, check it out:
+But before we get started digging into the entries, [**nekodex**](https://osu.ppy.sh/beatmaps/artists/1) has been hard at work over the past few weeks creating a neat little twist on an osu!-infused Christmas carol, aptly titled as _carol of the circles_. This'll be making its way to the main menu along with the winning entries, but in case you just can't wait, check it out:
 
 <iframe width="90%" height="315" src="https://www.youtube.com/embed/Uaz-vy5Rt1s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Now, onwards to the finalists:
 
-*Click the teaser banner for each entry to be taken to a full-size, high quality version, or [download all of the 20 finalist entries from this link](https://assets.ppy.sh/contests/82/osu!Winter2019HQ.zip)*.
+_Click the teaser banner for each entry to be taken to a full-size, high quality version, or [download all of the 20 finalist entries from this link](https://assets.ppy.sh/contests/82/osu!Winter2019HQ.zip)_.
 
 [![](https://assets.ppy.sh/contests/82/banners/157.jpg)](https://assets.ppy.sh/contests/82/winners/157.png)
 
@@ -68,7 +68,7 @@ Get it? Because she's making a snowman head? If only I could make jokes as well 
 
 [**Evaine**](https://osu.ppy.sh/users/7295733) returns to the fanart contest fore with their enchanting take on an eerily beautiful digital pippi sprawled among the boughs of a snowclad tree.
 
-Always a pleasure to see the continued evolution in the artstyles of our previous fan artists. I mean, look at this stuff. *Wow.*
+Always a pleasure to see the continued evolution in the artstyles of our previous fan artists. I mean, look at this stuff. _Wow._
 
 [![](https://assets.ppy.sh/contests/82/banners/Saaki%20Haruno.jpg)](https://assets.ppy.sh/contests/82/winners/Saaki%20Haruno.png)
 
@@ -104,7 +104,7 @@ Almost makes you wonder what flowers would go with each mascot.
 
 In a complete tie, **1373** voters also approved of [**halice**](https://osu.ppy.sh/users/12764300)'s take on Aiko and pippi levitating above a winter cityscape, complete with gifts and adorable festive outfits.
 
----
+* * *
 
 But wait, that's not all! Instead of the typical fifteen entries we've used for the past slew of fan art contests, we've decided to fold in **five more** this year, with all the prizes and accolade to boot! Woohoo!
 
@@ -112,7 +112,7 @@ Check them out:
 
 [![](https://assets.ppy.sh/contests/82/banners/kuroshi-n.jpg)](https://assets.ppy.sh/contests/82/winners/kuroshi-n.png)
 
-**1367** voters could not say no to the majesty that is [**kuroshi-n**](https://osu.ppy.sh/users/9887975)'s take on a very bishi Yuzu. Too handsome! He even has a *tie*. A TIE!
+**1367** voters could not say no to the majesty that is [**kuroshi-n**](https://osu.ppy.sh/users/9887975)'s take on a very bishi Yuzu. Too handsome! He even has a _tie_. A TIE!
 
 [![](https://assets.ppy.sh/contests/82/banners/keuma.jpg)](https://assets.ppy.sh/contests/82/winners/keuma.png)
 
@@ -132,11 +132,11 @@ I didn't know that I needed a Mocha with an oversized beanie in my life, but now
 
 **1187** snowflakes settled on [**SanatSever**](https://osu.ppy.sh/users/14949607)'s gorgeously stylized rendition of Mocha and pippi making snowmen in the park. Simply stunning.
 
----
+* * *
 
 **Check out the rest of the entries and their scores over at the [Winter 2019 Fanart contest listing!](https://osu.ppy.sh/community/contests/82)**
 
----
+* * *
 
 And with that, we're settling down into a bit of a slower pace for the rest of the year.
 

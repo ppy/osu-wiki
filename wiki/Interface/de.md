@@ -5,19 +5,19 @@ outdated: true
 <img src="Intro_static.jpg" title="fig:Right|Einführungsbildschirm" alt="Right|Einführungsbildschirm" width="400" /> \_\_TOC\_\_
 =Hauptmenü= <img src="Introscreen.jpg" title="fig:Hauptmenü" alt="Hauptmenü" width="280" />
 
-Das \[1\] osu! Logo pulsiert nach dem [BPM](DE:Timing "wikilink") des Liedes, das gerade im Hauptmenü spielt. Wenn kein Lied abgespielt wird, pulsiert es in einer langsamen Rate. Die Tastenkombination steht in der Klammer
+Das \[1] osu! Logo pulsiert nach dem [BPM](DE:Timing "wikilink") des Liedes, das gerade im Hauptmenü spielt. Wenn kein Lied abgespielt wird, pulsiert es in einer langsamen Rate. Die Tastenkombination steht in der Klammer
 
--   \[2\] Klicke auf Play (P) oder auf dem Logo, um zum 2. Einführungsbildschirm zu gelangen.
--   \[3\] Klicke auf Edit (E), um zur Songauswahl für den [Editor](DE:Editor "wikilink") zu kommen.
--   \[4\] Klicke auf Options (O), um zu den Einstellungen zu gelangen.
--   \[5\] Klicke auf Exit (Esc), um osu! zu beenden.
--   \[6\] Ein zufälliger, nützlicher Tipp wird unterhalb des Menüs angezeigt.
--   \[7\] In der unteren linken Ecke ist ein Link zur osu! Webseite.
--   \[8\] Verbindungsergebnisse zum Bancho !
--   \[9\] In der unteren rechten Ecke sind die Steuerelemente für den [Chat](DE:Internet_Relay_Chat "wikilink") (F8&F9).
--   \[10\] Oben rechts ist die osu! Jukebox, welches Lieder in zufälliger Reihenfolge abspielt.
--   \[11\] Oben mittig wird angezeigt, wie viele Maps man hat, wie lange osu! Schon läuft und die Uhrzeit.
--   \[12\] Oben links ist dein User-Panel, klick darauf, um dir die Benutzereinstellungen anzeigen zu lassen.
+-   \[2] Klicke auf Play (P) oder auf dem Logo, um zum 2. Einführungsbildschirm zu gelangen.
+-   \[3] Klicke auf Edit (E), um zur Songauswahl für den [Editor](DE:Editor "wikilink") zu kommen.
+-   \[4] Klicke auf Options (O), um zu den Einstellungen zu gelangen.
+-   \[5] Klicke auf Exit (Esc), um osu! zu beenden.
+-   \[6] Ein zufälliger, nützlicher Tipp wird unterhalb des Menüs angezeigt.
+-   \[7] In der unteren linken Ecke ist ein Link zur osu! Webseite.
+-   \[8] Verbindungsergebnisse zum Bancho !
+-   \[9] In der unteren rechten Ecke sind die Steuerelemente für den [Chat](DE:Internet_Relay_Chat "wikilink") (F8&F9).
+-   \[10] Oben rechts ist die osu! Jukebox, welches Lieder in zufälliger Reihenfolge abspielt.
+-   \[11] Oben mittig wird angezeigt, wie viele Maps man hat, wie lange osu! Schon läuft und die Uhrzeit.
+-   \[12] Oben links ist dein User-Panel, klick darauf, um dir die Benutzereinstellungen anzeigen zu lassen.
 
 ==Benutzereinstellungen== <img src="DE-User-Options.jpg" title="fig:Benutzereinstellungen" alt="Benutzereinstellungen" width="280" />
 
@@ -36,7 +36,7 @@ Durchs Klicken auf ihren User-Panel im oberen rechten Bereich erhalten sie Zugan
 
 ==Multiplayer-Lobby==
 
-*Vollständige Erklärung: [Multiplayer](DE:Multiplayer "wikilink")*
+_Vollständige Erklärung: [Multiplayer](DE:Multiplayer "wikilink")_
 
 <img src="DE-Multiplay.jpg" title="fig:DE-Multiplay.jpg" alt="DE-Multiplay.jpg" width="280" /> <img src="DE-Multiplay-1.jpg" title="fig:DE-Multiplay-1.jpg" alt="DE-Multiplay-1.jpg" width="280" />
 
@@ -53,13 +53,13 @@ Da auf diesem Bildschirm zu viele Elemente sind und es sonst zu unübersichtlich
 <img src="soloplay2.jpeg" title="fig:soloplay2.jpeg" alt="soloplay2.jpeg" width="400" />
 Dieser Bereich zeigt ihnen **Informationen zu der Beatmap und der ausgewählten Schwierigkeitsstufe an.** Standardmäßig wird die Beatmap angezeigt, welche im osu! Jukebox abgespielt wurde. Die BPM-Anzeige zeigt den größten und niedrigsten Wert der Beatmap an. "Objekte" gibt die vollständige Anzahl von [Hit Objekten](DE:Hit_Objekte "wikilink") in den Beatmap wieder. Ein ![](heart.gif "fig:heart.gif")Herz Symbol an der oberen linken Ecke kennzeichnet die Beatmap als Ranked, während ein ![](fire.gif "fig:fire.gif")Flamen Symbol die Beatmap als Approved kennzeichnet. Der Unicode-Titel wird benutzt, wenn in den Einstellungen die Option ["Metadaten in Originalsprache anzeigen"](DE:Options#Sprachen "wikilink") aktiviert ist und wenn auch Unicodes im Titel/Artist der Beatmap vorhanden sind.
 
--   Style: {Quelle} ({Artist}) - {Titel} \[{Schwierigkeitsstufe}\]
+-   Style: {Quelle} ({Artist}) - {Titel} \[{Schwierigkeitsstufe}]
 
 ![](DE-Soloplay3.jpeg "fig:DE-Soloplay3.jpeg")
 Klick auf eines der Tabs, **um deine Songliste nach gewissen Kriterien zu sortieren.**
 
 | Gruppe               | Sortierung           |
-|----------------------|----------------------|
+| -------------------- | -------------------- |
 | Nach Künstler        | Nach Künstler        |
 | Nach BPM             | Nach BPM             |
 | Nach Ersteller       | Nach Ersteller       |
@@ -68,17 +68,17 @@ Klick auf eines der Tabs, **um deine Songliste nach gewissen Kriterien zu sortie
 | Nach Länge           | Nach Länge           |
 | Nach Modus           | Nach erreichtem Rang |
 | Nach erreichtem Rang | Nach Titel           |
-| Nach Titel           |
-| Sammlungen           |
-| Favoriten            |
-| Meine Maps           |
-| Ranked-Status        |
-| Zuletzt gespielt     |
+| Nach Titel           |                      |
+| Sammlungen           |                      |
+| Favoriten            |                      |
+| Meine Maps           |                      |
+| Ranked-Status        |                      |
+| Zuletzt gespielt     |                      |
 
 ![](DE-soloplay5.jpeg "fig:DE-soloplay5.jpeg")
 Tippen sie an einer beliebigen Stelle in der Songauswahl etwas ein und das Eingegebene wird an dieser Stelle erscheinen (die [Chat Konsole](DE:Chat_Console "wikilink") muss geschlossen sein, ansonsten wird die Eingabe als Chattext erfasst). Zur selben Zeit werden nur die **Beatmaps gelistet, dessen Informationen** (Songkünstler, Songname, Mapper, Namen der Schwierigkeitsstufen, Tags) **mit dem Eingegebenen übereinstimmen.**
 
-------------------------------------------------------------------------
+* * *
 
 <img src="DE-Soloplay10.jpeg" title="fig:Online Rangtabelle" alt="Online Rangtabelle" width="280" /> Eine Vielzahl von Dingen wird in diesem Bereich angezeigt:
 
@@ -89,21 +89,21 @@ Tippen sie an einer beliebigen Stelle in der Songauswahl etwas ein und das Einge
 -   Wenn "Kein Rekord vorhanden" erscheint, bedeutet es, dass sie noch keinen Score auf dieser Schwierigkeitsstufe im ausgewählten Modus erzielt haben.
     -   Hinweis: Dein Scores, die du im Multiplayer gemacht hast, werden nicht lokal gespeichert.
 
-| colspan=2|Ranking Tabelle       |
-|---------------------------------|
-| Name                            |
-| Lokale Rangliste                |
-| Nationale Rangliste             |
-| Globale Rangliste               |
-| Globale Rangliste (Aktive Mods) |
-| Freundesrangliste               |
+| colspan=2                       | Ranking Tabelle |
+| ------------------------------- | --------------- |
+| Name                            |                 |
+| Lokale Rangliste                |                 |
+| Nationale Rangliste             |                 |
+| Globale Rangliste               |                 |
+| Globale Rangliste (Aktive Mods) |                 |
+| Freundesrangliste               |                 |
 
 <img src="DE-Soloplay11.jpeg" title="fig:Online Kommandos für eine Beatmap. (Internetverbindung erforderlich)" alt="Online Kommandos für eine Beatmap. (Internetverbindung erforderlich)" width="280" /> Klicke auf das <img src="Word bubble.jpg" title="fig:Word bubble.jpg" alt="Word bubble.jpg" width="15" />Sprechblasen-Icon, um zum **Schnellzugang zu dieser Map im Web** im Songauswahl zu gelangen:
 
--   Drücke 1 oder auf die Fläche *Beatmap-Übersicht/Rekorde* und ihr Standard-Browser wird die Beatmap-Übersicht/Rekorde der aufgewählten Beatmap öffnen.
+-   Drücke 1 oder auf die Fläche _Beatmap-Übersicht/Rekorde_ und ihr Standard-Browser wird die Beatmap-Übersicht/Rekorde der aufgewählten Beatmap öffnen.
 -   Drücke 2 oder auf die Fläche ''Beatmap-Thema" und ihr Standard-Browser wird den Thread zur ausgewählten Beatmap öffnen.
 -   Drücke 3 oder auf die Fläche ''Schnellantwort" und ihr Standard-Browser wird die Seite zum Thread der ausgewählten Beatmap öffnen, wo sie direkt eine Post verfassen können.
--   Drücke 4, auf die Fläche *Abbrechen* oder auf die Taste Esc, um zur Songauswahl zurückzukehren.
+-   Drücke 4, auf die Fläche _Abbrechen_ oder auf die Taste Esc, um zur Songauswahl zurückzukehren.
 
 Solange sie im **Schnellzugang zu dieser Map im Web** sind, können sie nicht den Chat und die erweiterte Chat Konsole benutzen.
 
@@ -114,7 +114,7 @@ Solange sie im **Schnellzugang zu dieser Map im Web** sind, können sie nicht de
 -   Orange: Diese Beatmap wurde mal gespielt (auch bei Beatmaps mit mehr als einer Schwierigkeitsstufe).
 -   Weiß: Diese Beatmap ist gerade ausgewählt.
 
-## Sie können sich durch die Songliste entweder mit \[1\] dem Mausrad, \[2\] der Pfeiltaste nach oben und unten, \[3\] durchs Halten der linken Maustaste oder \[4\] durchs Drücken der rechten Maustaste (auch bekannt als absolutes Scrollen) bewegen. Klicken Sie auf einen Kasten, um die Beatmap auszuwählen und um sich die Informationen dazu auf der oberen, linken Bereich, den High Score, den Rang, den Sie mit Ihrem High Score erzielt haben und weitere Dinge anzeigen zu lassen. \[1\] Klicken Sie ein weiteres Mal auf das Kästchen, \[2\] drücken Sie die Eingabetaste oder \[3\] auf das osu! Logo in der unteren, linken Ecke, um die Beatmap zu spielen.
+## Sie können sich durch die Songliste entweder mit \[1] dem Mausrad, \[2] der Pfeiltaste nach oben und unten, \[3] durchs Halten der linken Maustaste oder \[4] durchs Drücken der rechten Maustaste (auch bekannt als absolutes Scrollen) bewegen. Klicken Sie auf einen Kasten, um die Beatmap auszuwählen und um sich die Informationen dazu auf der oberen, linken Bereich, den High Score, den Rang, den Sie mit Ihrem High Score erzielt haben und weitere Dinge anzeigen zu lassen. \[1] Klicken Sie ein weiteres Mal auf das Kästchen, \[2] drücken Sie die Eingabetaste oder \[3] auf das osu! Logo in der unteren, linken Ecke, um die Beatmap zu spielen.
 
 <img src="soloplay7.jpeg" title="fig:soloplay7.jpeg" alt="soloplay7.jpeg" width="400" /> <img src="Mode screen.png" title="fig:Auflistung aller verfügbaren Spielmodi" alt="Auflistung aller verfügbaren Spielmodi" width="100" /> Diese Sektion wird auch als Werkzeugbox bezeichnet. Wir uns in der Reihenfolge von links nach rechts durcharbeiten.
 
@@ -149,7 +149,7 @@ In diesem Bereich wird Ihren Rang, den Sie nach erfolgreichen Abschluss der Beat
 
 **Hinweis:** Das Aussehen des Ranges kann je nachdem, welchen Skin Sie benutzen, variieren.
 
-Accuracy\_osu!.jpg| osu! Taiko grade.jpg| Taiko (Taiko Skin) Accuracy\_CtB.jpg| Catch the Beat Accuracy\_Mania.jpg| osu!mania Multi-play record.png| Team-Modus : Head-To-Head Multiplay Co-Op Grade.jpg| Team-Modus : Tag Coop Multiplay Team Grade.jpg| Team-Modus : Team Vs
+Accuracy_osu!.jpg| osu! Taiko grade.jpg| Taiko (Taiko Skin) Accuracy_CtB.jpg| Catch the Beat Accuracy_Mania.jpg| osu!mania Multi-play record.png| Team-Modus : Head-To-Head Multiplay Co-Op Grade.jpg| Team-Modus : Tag Coop Multiplay Team Grade.jpg| Team-Modus : Team Vs
 
 ## Online Score Führungstabelle
 
@@ -160,10 +160,12 @@ Note: The back transparent leitmotif is based on what mode you played in.
 <img src="Osu! Online score.png" title="fig:Right|osu! Online Score" alt="Right|osu! Online Score" width="350" /> Dies ist Ihre Online Führungstabelle. Ihre lokale Rangliste listet wie gewöhnlich Ihren Score sowie Ihren Namen auf.
 
 1.  Sie können hier Ihren Namen ändern, der im lokalen Ranking angezeigt werden wird.
+
 2.  Ihr Player-Panel. Zeigt Ihren pp, pp Rang, gesamter Score, Accuracy, sowie den Mode an, den Sie gespielt haben. Ihr Levelbalken wird auch je nach Score steigern.
+
 3.  Your options regarding the Beatmap.
     1.  Export Replay as .osr: Export Ihren Replay als .osr Datei, den Sie ohne Weiteres wo hinaufladen können.
-    2.  Online Favourite: Fügt die Beatmap zu Ihren Online Favoriten hinzu. Ihre Favoriten werden auf Ihrem Profil unter Beatmaps-&gt;Favourite Beatmaps aufgelistet.
+    2.  Online Favourite: Fügt die Beatmap zu Ihren Online Favoriten hinzu. Ihre Favoriten werden auf Ihrem Profil unter Beatmaps->Favourite Beatmaps aufgelistet.
 
 4.  Selbsterklärend. Wird im Offline-Modus nicht erscheinen.
     1.  Map Rank: Zeigt Ihren derzeitigen Rank auf der Map an.
@@ -174,9 +176,13 @@ Note: The back transparent leitmotif is based on what mode you played in.
     6.  To Next Rank: Zeigt an, wie viele Punkte Ihnen bis zum nächsten Rang noch fehlen.
 
 5.  Das selbe wie bei 4., ist jedoch für den monatlichen [Ranking Chart](https://osu.ppy.sh/p/chart) reserviert.
+
 6.  Achievement freigeschalten. Jeder Achievement, den Sie freischalten, wird hier unten angezeigt. Eine vollständige Liste an freischaltbaren Achievement können Sie [hier](DE:Achievements "wikilink") finden.
+
 7.  Beatmap Song sowie dessen Anzahl an Plays und dessen Passrate.
+
 8.  Beatmap Rating. Entscheiden Sie nach persönlichen Ermessen.
+
 9.  Zur Songauswahl zurückkehren.
 
 Osu! Online score.png| osu! Online Taiko Online.jpg| Taiko Online CtB Online.png| Catch the Beat Online

@@ -1,28 +1,28 @@
 # Paczki
 
-*Główny artykuł: [Beatmapy](/wiki/Beatmaps)*
+_Główny artykuł: [Beatmapy](/wiki/Beatmaps)_
 
 Paczka beatmap to archiwum o rozszerzeniu `.zip` zawierające beatmapy. Nazwa paczki jest zależna od tego, co przechowuje (np. `Approved Beatmap Pack #7` zawiera tylko [zatwierdzone](/wiki/Beatmaps) beatmapy).
 
 Warto zanotować, że większość paczek:
 
-- waży nawet ok. 200 MB
-- zawiera wideo (jeżeli zostały dołączone do beatmapy przez autora)
+-   waży nawet ok. 200 MB
+-   zawiera wideo (jeżeli zostały dołączone do beatmapy przez autora)
 
 ## Kategorie
 
 Paczki beatmap są podzielone na 4 kategorie:
 
-| Kategoria | Typ beatmap |
-| :-- | :-- |
-| Standardowe | Rankingowe bądź zatwierdzone beatmapy |
-| Wyróżnione | Wyróżnione beatmapy mogące stanowić wyzwanie dla graczy |
-| Tematyczne | Beatmapy posiadające wspólną tematykę |
+| Kategoria     | Typ beatmap                                                                                          |
+| :------------ | :--------------------------------------------------------------------------------------------------- |
+| Standardowe   | Rankingowe bądź zatwierdzone beatmapy                                                                |
+| Wyróżnione    | Wyróżnione beatmapy mogące stanowić wyzwanie dla graczy                                              |
+| Tematyczne    | Beatmapy posiadające wspólną tematykę                                                                |
 | Artysta/Album | Beatmapy, których piosenki należą do wspólnego albumu bądź zostały stworzone przez jednego wykonawcę |
 
 ## Szybkie uzupełnienie listy piosenek
 
-W przeciwieństwie do pobierania indywidualnych piosenek, paczki są szybkim sposobem na *pobranie wszystkich beatmap*.
+W przeciwieństwie do pobierania indywidualnych piosenek, paczki są szybkim sposobem na _pobranie wszystkich beatmap_.
 
 Pamiętaj, że przechowanie takiej liczby beatmap będzie wymagało bardzo dużo miejsca na dysku oraz że paczki beatmap (oraz torrenty) zawierają wideo oraz elementy skórek.
 
@@ -36,5 +36,5 @@ Paczki beatmap znajdują się [tutaj](https://osu.ppy.sh/beatmaps/packs).
 
 > Uwaga: Torrenty z beatmapami wydają się być martwe wśród społeczności osu!.
 
-- [Torrenty z beatmapami](https://osu.ppy.sh/community/forums/topics/147478)
-  - [HiraOsu! - Torrenty](http://osu.hiramiya.me/torrents.htm) utworzone przez użytkownika [Hiramiya](https://osu.ppy.sh/users/1313441)
+-   [Torrenty z beatmapami](https://osu.ppy.sh/community/forums/topics/147478)
+    -   [HiraOsu! - Torrenty](http://osu.hiramiya.me/torrents.htm) utworzone przez użytkownika [Hiramiya](https://osu.ppy.sh/users/1313441)

@@ -23,7 +23,7 @@ Trust me, you're going to need it.
 
 Many of these medals are for all the game-modes, but some are specific to standard mode only. We'll leave it up to you to figure out what's what! More mode-specific medals will be coming later on.
 
-There's two *super* hard medals in this set that we expect only the best of the best will be able to obtain. Sorry, completionists! The others will need to be deciphered either by good riddle solving and experimentation, or perhaps just pure serendipity. You'll get these medals through actually playing the game, so don't bother trying to find hidden stuff in the client or anything like that!
+There's two _super_ hard medals in this set that we expect only the best of the best will be able to obtain. Sorry, completionists! The others will need to be deciphered either by good riddle solving and experimentation, or perhaps just pure serendipity. You'll get these medals through actually playing the game, so don't bother trying to find hidden stuff in the client or anything like that!
 
 In any case, we hope you enjoy these new medals, and look forward to seeing more of the same in the future. There's a bunch more planned, and we'll be going through player suggestions for medals at a later date for more ideas.
 

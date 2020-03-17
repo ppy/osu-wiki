@@ -13,10 +13,11 @@ The beatmap charts for the February Spotlights can be found [here](https://osu.p
 ## Past Spotlights results
 
 First of all, congratulations to the winners of the January 2018 Spotlights. They receive one month of supporter status for their efforts!
-+ **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
-+ **osu!taiko:** [nananass](https://osu.ppy.sh/users/7231722)
-+ **osu!catch:** [skvix](https://osu.ppy.sh/users/4447639)
-+ **osu!mania:** [ZYuan](https://osu.ppy.sh/users/3337688)
+
+-   **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
+-   **osu!taiko:** [nananass](https://osu.ppy.sh/users/7231722)
+-   **osu!catch:** [skvix](https://osu.ppy.sh/users/4447639)
+-   **osu!mania:** [ZYuan](https://osu.ppy.sh/users/3337688)
 
 # February 2018 Spotlights
 
@@ -44,7 +45,7 @@ The mapper found a perfect balance between complexity and playability, don't mis
 
 [![](/wiki/shared/news/2018-03-22-beatmap-spotlights-february-2018/fair-wind.jpg)](https://osu.ppy.sh/beatmapsets/587541)
 
-For anyone who misses the 2014 mapping, [Zero__wind](https://osu.ppy.sh/users/1822830)'s "Fair wind" is sure to give you a nostalgia fix. The top difficulty, mapped by [cRyo\[iceeicee\]](https://osu.ppy.sh/users/835998) and [xsrsbsns](https://osu.ppy.sh/users/414427), sports a highly improvised rhythm style that matches the high pace of the song quite well.
+For anyone who misses the 2014 mapping, [Zero\_\_wind](https://osu.ppy.sh/users/1822830)'s "Fair wind" is sure to give you a nostalgia fix. The top difficulty, mapped by [cRyo\[iceeicee\]](https://osu.ppy.sh/users/835998) and [xsrsbsns](https://osu.ppy.sh/users/414427), sports a highly improvised rhythm style that matches the high pace of the song quite well.
 
 If you're looking for an aim challenge, the Extra difficulty is a lot easier on the tapping but just as expressive than the top one.
 
@@ -140,7 +141,7 @@ After a two-year break between his last ranked map and now, [liaoxingyao](https:
 
 Its low level of difficulty makes it an accessible mapset for almost any level player, and is why it's found itself a spot in this month's spotlights.
 
---------
+* * *
 
 We hope you enjoy our selection for this month and look forward to what we will bring to you in the future.
 

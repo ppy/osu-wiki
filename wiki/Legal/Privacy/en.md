@@ -26,10 +26,10 @@ By using our service, you confirm that you have read and understood the [Terms o
 
 While limited functionality can be enjoyed without an account, it is often required that a user registers an account to experience certain services. When registering an account, we store
 
-- Your username
-- Your email address
-- Your password (bcrypt+salt)
-- Your IP address and country
+-   Your username
+-   Your email address
+-   Your password (bcrypt+salt)
+-   Your IP address and country
 
 This personal information, with the exception of your username and country, is never shared publicly.
 
@@ -37,12 +37,12 @@ This personal information, with the exception of your username and country, is n
 
 When building up your user profile (which is publicly visible to all other users), you can optionally provide
 
-- Your current location
-- Your interests
-- Your occupation
-- Your social media presence (twitter, discord, skype, website)
-- Your avatar and profile cover images
-- Your signature
+-   Your current location
+-   Your interests
+-   Your occupation
+-   Your social media presence (twitter, discord, skype, website)
+-   Your avatar and profile cover images
+-   Your signature
 
 All the above fields are publicly visible but can be withdrawn immediately and permanently at any point from the [settings page](https://osu.ppy.sh/home/account/edit).
 
@@ -74,11 +74,11 @@ We do not perform any marketing, advertising nor send any unsolicited emails. Th
 
 We may share your personal data with third parties in very specific cases:
 
-- Where you have expressly made information public
-- To fulfil your store orders
-- To process payments via payment processing providers like Paypal and Xsolla
-- To process your customer service tickets (we use [Enchant](https://enchant.com))
-- In order to improve our service, via error logging (we use [Sentry](https://sentry.io))
+-   Where you have expressly made information public
+-   To fulfil your store orders
+-   To process payments via payment processing providers like Paypal and Xsolla
+-   To process your customer service tickets (we use [Enchant](https://enchant.com))
+-   In order to improve our service, via error logging (we use [Sentry](https://sentry.io))
 
 ## Your rights and control
 
@@ -112,9 +112,7 @@ Hi, I am Dean (commonly known as peppy) and I am your data controller. If you ha
 
 **Postal Address**:
 
-```
-Dean Herbert
-41 Gregory Street
-Wembley, WA, 6014
-Australia
-```
+    Dean Herbert
+    41 Gregory Street
+    Wembley, WA, 6014
+    Australia

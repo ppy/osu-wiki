@@ -8,9 +8,9 @@ A command under an object declaration looks like:
 
 where:
 
--   _ can be a space instead of an underscore.
+-   \_ can be a space instead of an underscore.
 -   (event) is a letter/pair of letters, corresponding to one of the commands below.
--   (easing) indicates if the command should "accelerate". See http://easings.net. Valid values are:
+-   (easing) indicates if the command should "accelerate". See <http://easings.net>. Valid values are:
     -   0 - Linear: no easing
     -   1 - Easing Out: the changes happen fast at first, but then slow down toward the end
     -   2 - Easing In: the changes happen slowly at first, but then speed up toward the end
@@ -62,9 +62,9 @@ These are the fundamental commands for any object. The commands are easy to use 
 
 `_F,(easing),(starttime),(endtime),(start_opacity),(end_opacity)`
 
-| Affects | Value definition | Default value |
-| ------- | ---------------- | ------------- |
-| The opacity of the object (how transparent it is). | 0 to 1, with decimals accepted. 0 is invisible, 1 is fully visible. | 1 |
+| Affects                                            | Value definition                                                    | Default value |
+| -------------------------------------------------- | ------------------------------------------------------------------- | ------------- |
+| The opacity of the object (how transparent it is). | 0 to 1, with decimals accepted. 0 is invisible, 1 is fully visible. | 1             |
 
 where:
 
@@ -73,18 +73,14 @@ where:
 
 For example, to fade an object in 1 second (starting at 1 second after the map starts), wait 2 seconds at half-transparency, and then fade out in 1 second, we would write something like:
 
-```
-Sprite,Pass,Centre,"Sample.png",320,240
-_F,0,1000,2000,0,0.5
-_F,0,4000,5000,0.5,0
-```
+    Sprite,Pass,Centre,"Sample.png",320,240
+    _F,0,1000,2000,0,0.5
+    _F,0,4000,5000,0.5,0
 
 If we want an object to just appear on screen and nothing to happen to it for 2 seconds, we could write:
 
-```
-Sprite,Pass,Centre,"Sample.png",320,240
-_F,0,1000,3000,1,1
-```
+    Sprite,Pass,Centre,"Sample.png",320,240
+    _F,0,1000,3000,1,1
 
 See the [shorthand](/wiki/Storyboard_Scripting/Shorthand) section for an explanation of how to shorten this last line to just:
 
@@ -94,8 +90,8 @@ See the [shorthand](/wiki/Storyboard_Scripting/Shorthand) section for an explana
 
 `M,(easing),(starttime),(endtime),(start_x),(start_y),(end_x),(end_y)`
 
-| Affects | Value definition | Default value |
-| ------- | ---------------- | ------------- |
+| Affects                                      | Value definition                                             | Default value                                                                         |
+| -------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
 | The location of the object in the play area. | An (x,y) position, as specified above. Decimals are allowed. | The location defined in the [object declaration](/wiki/Storyboard_Scripting/Objects). |
 
 where:
@@ -105,10 +101,8 @@ where:
 
 For example, to move an object across the screen from the top left to bottom right (assuming the image is less than 200 pixels wide, otherwise it will appear to pop in and pop out of existence at the endpoints):
 
-```
-Sprite,Pass,Centre,"Sample.png",320,240
-_M,0,1500,6000,-110,-100,740,580
-```
+    Sprite,Pass,Centre,"Sample.png",320,240
+    _M,0,1500,6000,-110,-100,740,580
 
 So,
 
@@ -119,10 +113,8 @@ So,
 
 Like Move, but only changes X-coordinate. Y-coordinate stays the same. For example, to move an object from the left of the screen to the right:
 
-```
-Sprite,Pass,Centre,"Sample.png",320,240
-_MX,0,1500,6000,-110,740
-```
+    Sprite,Pass,Centre,"Sample.png",320,240
+    _MX,0,1500,6000,-110,740
 
 So,
 
@@ -149,9 +141,9 @@ These are extra commands for an object to use. These commands are quite advanced
 
 `_S,<easing>,<starttime>,<endtime>,<start_scale>,<end_scale>`
 
-| Affects | Value definition | Default value |
-| ------- | ---------------- | ------------- |
-| The size of the object relative to its original size (as it appears in its file). Example: For a file that originally is 100x100, a scale factor of 2 will make the object take up 200x200 pixels. The scaling is affected by the object's origin (Centre, TopLeft, etc.) | The multiplier of the object's original size, from 0 upward. Decimals allowed. | 1 |
+| Affects                                                                                                                                                                                                                                                                   | Value definition                                                               | Default value |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------- |
+| The size of the object relative to its original size (as it appears in its file). Example: For a file that originally is 100x100, a scale factor of 2 will make the object take up 200x200 pixels. The scaling is affected by the object's origin (Centre, TopLeft, etc.) | The multiplier of the object's original size, from 0 upward. Decimals allowed. | 1             |
 
 where:
 
@@ -160,10 +152,8 @@ where:
 
 For example, to have an object "zoom" (e.g., a background) from nothing to five times its original size:
 
-```
-Sprite,Pass,Centre,"Sample.png",320,240
-_S,0,36500,37000,0,5
-```
+    Sprite,Pass,Centre,"Sample.png",320,240
+    _S,0,36500,37000,0,5
 
 So,
 
@@ -177,10 +167,8 @@ This is the same as S, except X and Y scale separately.
 
 For example, to have an object widen to two times its original size, but lose half of its vertical size:
 
-```
-Sprite,Pass,Centre,"Sample.png",320,240
-_V,0,36500,37000,1,1,2,0.5
-```
+    Sprite,Pass,Centre,"Sample.png",320,240
+    _V,0,36500,37000,1,1,2,0.5
 
 So,
 
@@ -190,9 +178,9 @@ So,
 
 `_R,<easing>,<starttime>,<endtime>,<start_rotate>,<end_rotate>`
 
-| Affects | Value definition | Default value |
-| ------- | ---------------- | ------------- |
-| The amount an object is rotated from its original image, in radians, clockwise. | Any real number; negative is anti-clockwise/counterclockwise rotation, positive is clockwise. Exceeding 2*pi either way will continue rotating as many times as you'd like. | 0 |
+| Affects                                                                         | Value definition                                                                                                                                                             | Default value |
+| ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| The amount an object is rotated from its original image, in radians, clockwise. | Any real number; negative is anti-clockwise/counterclockwise rotation, positive is clockwise. Exceeding 2\*pi either way will continue rotating as many times as you'd like. | 0             |
 
 where:
 
@@ -201,24 +189,20 @@ where:
 
 For example, to have an object rotate from -45 degrees to +45 degrees (45 degrees = 0.785 radians):
 
-```
-Sprite,Pass,Centre,"Sample.png",320,240
-_R,0,47210,47810,-0.785,0.785
-```
+    Sprite,Pass,Centre,"Sample.png",320,240
+    _R,0,47210,47810,-0.785,0.785
 
 Or to have an object spin counterclockwise four times (4 rotations = 8\*pi radians = 25.133 radians):
 
-```
-Sprite,Pass,Centre,"Sample.png",320,240
-_R,0,47210,47810,0,-25.133
-```
+    Sprite,Pass,Centre,"Sample.png",320,240
+    _R,0,47210,47810,0,-25.133
 
 ### Color / Colour (C) Command
 
 `_C,(easing),(starttime),(endtime),(start_r),(start_g),(start_b),(end_r),(end_g),(end_b)`
 
-| Affects | Value definition | Default value |
-| ------- | ---------------- | ------------- |
+| Affects                                                                                                              | Value definition                                                                                                                                                                                                                                          | Default value |
+| -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | The virtual light source colour on the object. The colours of the pixels on the object are determined subtractively. | A colour triple, written in decimal (byte). The first value is red (R), the second green (G), and the third blue (B). Each can vary from 0 to 255. (0,0,0) indicates black, (255,255,255) indicates white (original image). Transparency is not affected. | (255,255,255) |
 
 where:
@@ -228,17 +212,13 @@ where:
 
 For example, to make an object appear as a shadow (entirely black) and fade into its actual colour:
 
-```
-Sprite,Pass,Centre,"Sample.png",320,240
-_C,0,58810,59810,0,0,0,255,255,255
-```
+    Sprite,Pass,Centre,"Sample.png",320,240
+    _C,0,58810,59810,0,0,0,255,255,255
 
 To make something appear in (span style="background:#CCCC00")this yellow colour(/span):
 
-```
-Sprite,Pass,Centre,"Sample.png",320,240
-_C,0,58810,59810,CC,CC,0
-```
+    Sprite,Pass,Centre,"Sample.png",320,240
+    _C,0,58810,59810,CC,CC,0
 
 ## Extra commands
 
@@ -256,11 +236,9 @@ where (parameter) is one of the following:
 
 For instance, to flip an object horizontally and vertically for two seconds before returning to normal:
 
-```
-Sprite,Pass,Centre,"Sample.png",320,240
-_P,0,60000,62000,H
-_P,0,60000,62000,V
-```
+    Sprite,Pass,Centre,"Sample.png",320,240
+    _P,0,60000,62000,H
+    _P,0,60000,62000,V
 
 ## Compound Commands
 

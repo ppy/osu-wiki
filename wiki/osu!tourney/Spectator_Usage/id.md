@@ -17,15 +17,15 @@ Panel kendali ditampilkan di bagian bawah klien. Secara standar panel ini menamp
 
 Fungsi masing-masing tombol dijelaskan di bawah ini:
 
-- `Sync music`: Klien akan mencoba menyinkronkan ulang musik dengan hitsounds.
-- `Toggle annotation`: Mengaktifkan/mematikan anotasi. Hal ini dijelaskan lebih lanjut di bawah.
-- `Panic`: Tekan ini ketika terjasi kesalahan, misalnya jendela tidak menyoroti pemain atau jendela crash. Proses ini akan menginisialisasi ulang semua instansi osu!.
-- `Exit`: Menutup klien.
+-   `Sync music`: Klien akan mencoba menyinkronkan ulang musik dengan hitsounds.
+-   `Toggle annotation`: Mengaktifkan/mematikan anotasi. Hal ini dijelaskan lebih lanjut di bawah.
+-   `Panic`: Tekan ini ketika terjasi kesalahan, misalnya jendela tidak menyoroti pemain atau jendela crash. Proses ini akan menginisialisasi ulang semua instansi osu!.
+-   `Exit`: Menutup klien.
 
 Fungsi masing-masing text box dijelaskan di bawah ini:
 
-- `Annotation text`: Teks yang akan ditampilkan di bagian komentar.
-- `Best Of`: Memperbaharui jumlah bintang di bagian atas dengan jumlah pertandingan yang dibutuhkan tim untuk menang.
+-   `Annotation text`: Teks yang akan ditampilkan di bagian komentar.
+-   `Best Of`: Memperbaharui jumlah bintang di bagian atas dengan jumlah pertandingan yang dibutuhkan tim untuk menang.
 
 ![Ketika sebuah ruangan dibuat dengan benar, ruangan itu akan terdaftar dan menggantikan instruksi.](img/Osutourneyroomlist.png)
 

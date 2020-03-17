@@ -11,7 +11,7 @@ Hi there! I guess I'm back with some material to think about once more. So I wil
 
 This time it's about spreads again, but seeing that the other spread discussion is still... in progress, I'll talk about how people approach making standard spreads currently and why I think it's quite an odd approach.
 
----
+* * *
 
 For starters, so that everyone is on the same page, a standard spread would consist of **Easy - Normal - Hard - Insane - Expert difficulties, one each**. Spreads are designed around the main idea of giving every kind of player a difficulty to enjoy the song on, so the progression through a spread should be linear in terms of actual difficulty. This allows a player to take on each difficulty as a challenge whilst moving through it. If the gap between two difficulties is too large, it usually means that the target audience will have to go back to a difficulty level which actually doesn't really fit their skill, because the difficulty next up is way harder in comparison to the other difficulty gaps.
 
@@ -58,15 +58,15 @@ Most commonly an imbalance like this occurs between Hard and Insane or Normal an
 -   **Rhythm usage:** 1/2 and 1/4 mostly, rarer 1/1, even longer 1/4 chains.
 -   **Most common spacing concept:** emphasis-based spacing where spacing for important things is higher than spacing for not-so-important things.
 -   **Slider Velocity changes:** common.
--   Everything you can think of from 5.25* to A-L-I-E-N is stuffed into this one category
+-   Everything you can think of from 5.25\* to A-L-I-E-N is stuffed into this one category
 
 On first thought, this may seem really balanced in terms of rhythm usage; it introduces the player with relatively slow rhythms and you can progress throughout the map. But spacing wise this can have huge gaps as most people strictly stick to distance snapping in Normals and start doing a bunch of jumps in Hard difficulties.
 
----
+* * *
 
 When asked why people stick to distance snapping to begin with some quote the RC Guideline that says "time-distance equality should teach beginners the relation between time and distance on the playfield". Others may suggest that jumps in lower difficulties are too hard to read / comprehend / play for newbies and that teaching time-distance equality should take priority for a rhythm game. The point that every modder ever will bring this up as an issue if you do otherwise is also quite a convincing argument to just do this.
 
-*But actually... why do we bother teaching beginners that time equals distance?* Once they have learned that time equals distance and move on to Hard difficulties or Insane difficulties they will be confronted with Time ≠ Distance all over the place. The distance part is the point where most spreads can go wrong, because the Hards are mapped with loose distance snapping while the Normals are usually enforcing one distance in the entire map. Because of this, circle jump patterns in Hards and the likes can imbalance the entire spread heavily. To me, this feels like teaching people how to add numbers and then throwing them into complex algebra without explaining any of the concepts that aren't addition and subtraction. The entire act of doing this seems pointless and unfair; you would argue that before throwing them into algebra people need to be taught more concepts than simple addition and subtraction, or else they won't understand what's going on.
+_But actually... why do we bother teaching beginners that time equals distance?_ Once they have learned that time equals distance and move on to Hard difficulties or Insane difficulties they will be confronted with Time ≠ Distance all over the place. The distance part is the point where most spreads can go wrong, because the Hards are mapped with loose distance snapping while the Normals are usually enforcing one distance in the entire map. Because of this, circle jump patterns in Hards and the likes can imbalance the entire spread heavily. To me, this feels like teaching people how to add numbers and then throwing them into complex algebra without explaining any of the concepts that aren't addition and subtraction. The entire act of doing this seems pointless and unfair; you would argue that before throwing them into algebra people need to be taught more concepts than simple addition and subtraction, or else they won't understand what's going on.
 
 My thoughts on the matter are that this has likely been left untouched for quite a few years and the way higher difficulties are mapped shifted from using distance snapping for a good part and just adding a few more jumps than hard (which would make for an even spread in terms of spacing and rhythm / mapping techniques used overall) to doing emphasis based spacing and pattern-based spacing in insane difficulties whilst leaving the lower part of the spread unchanged.
 
@@ -76,7 +76,7 @@ To address this as a spread issue properly whilst avoiding throwing "a very easy
 
 What has to happen before this is actual testing of what people who just started 2 or 3 days ago are actually capable of, because from what I have tested so far they do read approach circles instead of looking at how far they have to move. This implies that unless the distance change is drastic, people will recognise rhythm correctly, but this will need further testing and actual exploration in order to for it to happen.
 
----
+* * *
 
 ## What do you think?
 

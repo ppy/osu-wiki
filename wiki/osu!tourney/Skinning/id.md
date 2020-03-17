@@ -8,11 +8,11 @@ Klien mendukung berbagai modifikasi sehingga anda dapat memodifikasinya untuk tu
 
 Berikut elemen yang dapat dimodifikasi:
 
-- `background` - gambar latar belakang yang digunakan oleh klien. Latar belakang standard untuk osu!tourney dapat ditemukan [di sini](https://s.ppy.sh/images/tournament/default.png).
-- `background-win1` (opsional) - latar belakang yang akan memudar setelah tim biru menang saat hasil pertandingan ditampilkan.
-- `background-win2` (opsional) - latar belakang yang akan memudar setelah tim merah menang saat hasil pertandingan ditampilkan.
-- `tourney-title` (opsional) - gambar yang ditampilkan di bagian bawah klien, di atas latar belakang
-  - Elemen ini dapat digunakan untuk menampilkan misalnya logo turnamen.
+-   `background` - gambar latar belakang yang digunakan oleh klien. Latar belakang standard untuk osu!tourney dapat ditemukan [di sini](https://s.ppy.sh/images/tournament/default.png).
+-   `background-win1` (opsional) - latar belakang yang akan memudar setelah tim biru menang saat hasil pertandingan ditampilkan.
+-   `background-win2` (opsional) - latar belakang yang akan memudar setelah tim merah menang saat hasil pertandingan ditampilkan.
+-   `tourney-title` (opsional) - gambar yang ditampilkan di bagian bawah klien, di atas latar belakang
+    -   Elemen ini dapat digunakan untuk menampilkan misalnya logo turnamen.
 
 ![Ikon tim dapat ditampilkan di samping nama tim](img/Osutourneyicons.png)
 

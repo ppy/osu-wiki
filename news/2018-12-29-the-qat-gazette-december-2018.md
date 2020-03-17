@@ -14,7 +14,7 @@ by [JBHyperion](https://osu.ppy.sh/users/4879508)
 
 Greetings everyone – it's been a while!
 
-Many eagle-eyed readers may have noticed a distinct absence of October and November's articles, for which I must apologise – I was stricken by a mysterious and fickle beast during my travels, one spoken of in hushed whispers and frightening children's tales, known only as the *Real Life*… Truly terrifying indeed...
+Many eagle-eyed readers may have noticed a distinct absence of October and November's articles, for which I must apologise – I was stricken by a mysterious and fickle beast during my travels, one spoken of in hushed whispers and frightening children's tales, known only as the _Real Life_… Truly terrifying indeed...
 
 However, I couldn't let such a fantastic year as 2018 end without bringing you the gifts of Christmas cheer, merriment, and most importantly, **news**! Since you’ve all been simply incredible this year in making the mapping and modding community a more successful, welcoming and enjoyable place for all, this one's for you!
 
@@ -27,11 +27,11 @@ With our newest wave of Beatmap Nominators having recently received their first 
 The Beatmap Nominator Probation system has facilitated a rapid expansion of the team since its inception, offering active modding community members a chance to prove themselves in a more controlled environment. However, we understand that in some cases, feedback on each Nominator's performance may either cause members to focus on "safer" nominations in order to ensure a more favourable evaluation, or come too late to allow for reasonable improvement.
 
 In future evaluations, we would like to trial a less punishing system, whereby each Nominator can receive feedback at some intermediate stage of their probationary period without the immediate pressure of a warning, extension or demotion. We hope that this will encourage Nominators to experiment as they continue to develop their experience and ability, as well as promote a less stressful work environment.
- 
+
 ### New Beatmap Nominator Service Badges
 
 Christmas wouldn't be Christmas without gift-giving! In the spirit of the holidays, and in recognition of some of our hardest-working and longest-serving Beatmap Nominators, please join me in showing your utmost appreciation for [Kawawa](https://osu.ppy.sh/users/4647754), [neonat](https://osu.ppy.sh/users/1561995), [tasuke912](https://osu.ppy.sh/users/2774767), (3 years of service each), [Critical_Star](https://osu.ppy.sh/users/3793196), [Rivals_7](https://osu.ppy.sh/users/4610379), [Sandalphon](https://osu.ppy.sh/users/2633753) and [Okoratu](https://osu.ppy.sh/users/1623405) (2 years of service each).
- 
+
 All mentioned members will receive a shiny new profile badge (or incremental flair upgrade if they earned one previously), which we encourage them to wear with pride in appreciation of their meritorious voluntary service.
 
 ### New Beatmap Nominator Promotions
@@ -46,20 +46,20 @@ With the prospect of new Nominator applications to hopefully be announced soon, 
 
 As mentioned previously, unprecedented levels of change could be just over the horizon for the Quality Assurance Team, so the final days of 2018 bring both apprehension and excitement in equal measure. There's undeniably a lot to take in over the following few paragraphs, but if you want to witness (or even better, participate in!) the next stage of osu! mapping evolution, it'll be well worth the read!
 
-Before we get stuck in however, please give a show of appreciation for current Quality Assurance Team Leader [Mao](https://osu.ppy.sh/users/2204515), who joined an elite club recently in racking up an incredible *four years of service* in the team. We sincerely hope Mao continues to retain his boundless enthusiasm as he prepares to lead the QAT through the coming change.
+Before we get stuck in however, please give a show of appreciation for current Quality Assurance Team Leader [Mao](https://osu.ppy.sh/users/2204515), who joined an elite club recently in racking up an incredible _four years of service_ in the team. We sincerely hope Mao continues to retain his boundless enthusiasm as he prepares to lead the QAT through the coming change.
 
 ### Proposed changes to the QAT
 
 As mentioned several times in this article already, significant changes could be just on the horizon for the Quality Assurance Team, which may drastically change how we operate in the future. You can find more details on this announcement and the reasons for it in the Development forum, where [discussions towards multiple osu!team and community proposals](https://osu.ppy.sh/community/forums/topics/842601) are currently taking place.
 
 The first of these changes has been one of leadership, with [-Mo-](https://osu.ppy.sh/users/2202163) replacing myself as QAT Leader, alongside the continuing [Mao](https://osu.ppy.sh/users/2204515). Whilst I have thoroughly enjoyed my time at the head of the QAT, my free time available for osu! has been reduced considerably over the past few months, and I no longer feel I can properly fulfil the expectations of my role, or the community who elected me to it. On a positive note, new faces provide the potential for new direction, so please support -Mo- warmly as he settles into the challenge of management!
- 
+
 One key aspect of these changes is that the base proposal was intentionally "vague", in an effort to encourage community discussion and the generation of fresh ideas. When it comes to shaping the future of the osu! mapping and modding scene, there's perhaps never been a better time than right now to make your voice heard! If you feel you have a great idea, or the drive to help others realise theirs, head on over to the above-mentioned proposals and get discussing!
 
 ### Rules Regarding Mapping Commissions
 
-Just prior to the proposed Quality Assurance Team changes, significant discussion amongst the osu!team and QAT took place to clarify our position on paid-for mapping and modding contributions, as well as how we should handle such cases going forward. Whilst such mapping and modding commissions are certainly not a new appearance in osu!, they have gained significant traction and mainstream attention recently. Coupled with osu!'s awesome and ever-expanding library of licensed *Featured Artists*, it was decided to tidy up some potentially grey areas.
- 
+Just prior to the proposed Quality Assurance Team changes, significant discussion amongst the osu!team and QAT took place to clarify our position on paid-for mapping and modding contributions, as well as how we should handle such cases going forward. Whilst such mapping and modding commissions are certainly not a new appearance in osu!, they have gained significant traction and mainstream attention recently. Coupled with osu!'s awesome and ever-expanding library of licensed _Featured Artists_, it was decided to tidy up some potentially grey areas.
+
 You can read an [announcement from the osu!team](https://osu.ppy.sh/community/forums/topics/840838) on the topic for a detailed outlook, but in brief summary, commissions will be permitted to a certain extent, provided they are undertaken tastefully and the users profiting from them do not occupy a position within the Beatmap Nominators, Quality Assurance or other group within the osu!team. With this move, we wish to both emphasize osu!'s core "free-to-win" value, and promote a positive image and reputation with our current and potential future Featured Artists.
 
 ### New Quality Assurance Team additions

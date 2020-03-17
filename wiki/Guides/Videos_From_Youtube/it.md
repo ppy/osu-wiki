@@ -1,6 +1,6 @@
 # Videos from YouTube
 
-*[La guida indolore per aggiungere il video alle beatmap. di: Gilrad](https://osu.ppy.sh/community/forums/topics/639)*
+_[La guida indolore per aggiungere il video alle beatmap. di: Gilrad](https://osu.ppy.sh/community/forums/topics/639)_
 
 Questa guida è intesa per chiunque **non riesce** a trovare il video altrove ma solo su YouTube.
 
@@ -10,7 +10,7 @@ Questa guida è intesa per chiunque **non riesce** a trovare il video altrove ma
 
 [YouTube](https://youtube.com)
 
-- È veramente un'ottima risorsa. Se la canzone ha un video musicale, sarà su YouTube, e probabilmente sarà compressa al punto che il video è decente ma non sarà una c\*\*\*\*\*\* da scaricare.
+-   È veramente un'ottima risorsa. Se la canzone ha un video musicale, sarà su YouTube, e probabilmente sarà compressa al punto che il video è decente ma non sarà una c\*\*\*\*\*\* da scaricare.
 
 #### Scaricare il video
 

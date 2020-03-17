@@ -19,21 +19,21 @@ Arguably the most popular of the alternate gamemodes, osu!mania is the new kid o
 
 The winning mapset of the contest as determined by popular vote will walk away with the following:
 
-* 3 months of osu!supporter (for yourself, a friend, or many friends)
-* The winning map will be featured by the osu! media team
-* The winning map will be fast-tracked for ranking
-* 25 mapping *Elite* points (details to be announced at a later date)
+-   3 months of osu!supporter (for yourself, a friend, or many friends)
+-   The winning map will be featured by the osu! media team
+-   The winning map will be fast-tracked for ranking
+-   25 mapping _Elite_ points (details to be announced at a later date)
 
 ## What are the rules?
 
-* All submissions must be for the **osu!mania** gamemode only.
-* All entries within a submission must be for a **single keymode of your choice**, though we suggest either 4K or 7K to reach the maximum number of players. To clarify, this means either a 4K set or a 7K set - not 2 4K difficulties and a 7K difficulty.
-* All submitted difficulties must adhere to the Ranking Criteria as closely as possible.
-* You must map at least three (3) difficulties in an appropriate spread as per the Ranking Criteria. ENH (easy, normal, hard) or NHI (normal, hard, insane) are acceptable. *You may add an Expert or Extra difficulty if you wish when making a NHI spread for a total of NHIE.*
-* No more than four (4) difficulties can be submitted under any circumstances, and ONLY if your spread is NHIX OR ENHI, otherwise you may only submit three.
-* Collaboration is allowed, but the contest entrant will receive the points towards Elite status and feature prizes.
-* Maps and entries submitted must not be uploaded to the BSS until the contest has concluded. Doing so will disqualify you immediately.
-* Difficulty names must only be the name of the respective difficulty. Things like 'Evening's Moist Popcorn or 'jhlee's Jubilee are not allowed. You may use mode-specific/keymode-specific naming, like 4K NM, 7K EZ, so on, so forth.
+-   All submissions must be for the **osu!mania** gamemode only.
+-   All entries within a submission must be for a **single keymode of your choice**, though we suggest either 4K or 7K to reach the maximum number of players. To clarify, this means either a 4K set or a 7K set - not 2 4K difficulties and a 7K difficulty.
+-   All submitted difficulties must adhere to the Ranking Criteria as closely as possible.
+-   You must map at least three (3) difficulties in an appropriate spread as per the Ranking Criteria. ENH (easy, normal, hard) or NHI (normal, hard, insane) are acceptable. _You may add an Expert or Extra difficulty if you wish when making a NHI spread for a total of NHIE._
+-   No more than four (4) difficulties can be submitted under any circumstances, and ONLY if your spread is NHIX OR ENHI, otherwise you may only submit three.
+-   Collaboration is allowed, but the contest entrant will receive the points towards Elite status and feature prizes.
+-   Maps and entries submitted must not be uploaded to the BSS until the contest has concluded. Doing so will disqualify you immediately.
+-   Difficulty names must only be the name of the respective difficulty. Things like 'Evening's Moist Popcorn or 'jhlee's Jubilee are not allowed. You may use mode-specific/keymode-specific naming, like 4K NM, 7K EZ, so on, so forth.
 
 The contest will run for **30 days** from the date of this post, so get cracking!
 

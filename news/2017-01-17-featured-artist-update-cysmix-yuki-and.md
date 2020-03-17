@@ -11,13 +11,13 @@ For those that aren't aware, the [Featured Artist catalog](https://osu.ppy.sh/be
 
 ![](https://assets.ppy.sh/artists/2/header.jpg)
 
-In particular, [**cYsmix**](https://osu.ppy.sh/beatmaps/artists/2) is delighted to share some songs from his most recent album release, titled [*Escapism*](https://cysmix.bandcamp.com/album/escapism), a bunch of brand new **osu!exclusive** tracks, a special osu! cut of *Babaroque* from the critically acclaimed [*Oracle*](https://cysmix.bandcamp.com/album/oracle) EP, and an assortment of suitably spooky tracks from his earlier 2013 album, [*Haunted House*](https://cysmix.bandcamp.com/album/haunted-house).
+In particular, [**cYsmix**](https://osu.ppy.sh/beatmaps/artists/2) is delighted to share some songs from his most recent album release, titled [_Escapism_](https://cysmix.bandcamp.com/album/escapism), a bunch of brand new **osu!exclusive** tracks, a special osu! cut of _Babaroque_ from the critically acclaimed [_Oracle_](https://cysmix.bandcamp.com/album/oracle) EP, and an assortment of suitably spooky tracks from his earlier 2013 album, [_Haunted House_](https://cysmix.bandcamp.com/album/haunted-house).
 
 Head on over to **cYsmix**'s [featured artist listing](https://osu.ppy.sh/beatmaps/artists/2) and check them out.
 
 ![](https://assets.ppy.sh/artists/5/header.jpg)
 
-We've also got four new tracks from the much-loved [**Helblinde**](https://osu.ppy.sh/beatmaps/artists/5)'s most recent album, [*Ephemerality*](https://helblinde.bandcamp.com/album/ephemerality). These thumping tracks are a bit longer than most people are generally used to, but in the way that only Helblinde knows how, he's managed to turn them into vivid scapes for mappers to eat their hearts out in. Or eat hearts in, perhaps. There's a nightmare or two hiding in some of those tracks, see if you can guess which.
+We've also got four new tracks from the much-loved [**Helblinde**](https://osu.ppy.sh/beatmaps/artists/5)'s most recent album, [_Ephemerality_](https://helblinde.bandcamp.com/album/ephemerality). These thumping tracks are a bit longer than most people are generally used to, but in the way that only Helblinde knows how, he's managed to turn them into vivid scapes for mappers to eat their hearts out in. Or eat hearts in, perhaps. There's a nightmare or two hiding in some of those tracks, see if you can guess which.
 
 Check them out at **Helblinde**'s [featured artist listing](https://osu.ppy.sh/beatmaps/artists/5). Don't miss out!
 

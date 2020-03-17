@@ -6,10 +6,10 @@ Users encountering **problems** with the client may read the [troubleshooting gu
 
 ## Related articles
 
-- [Setup](Setup)
-- [Multiplayer Usage](Multiplayer_Usage)
-- [Spectator Usage](Spectator_Usage)
-- [Skinning](Skinning)
-- [Tournament Management Commands](Tournament_Management_Commands)
-- [Troubleshooting](Troubleshooting)
-- [Prizes](Prizes)
+-   [Setup](Setup)
+-   [Multiplayer Usage](Multiplayer_Usage)
+-   [Spectator Usage](Spectator_Usage)
+-   [Skinning](Skinning)
+-   [Tournament Management Commands](Tournament_Management_Commands)
+-   [Troubleshooting](Troubleshooting)
+-   [Prizes](Prizes)

@@ -13,30 +13,30 @@ You can discuss this event and follow the most important changes in the **[offic
 
 ## Tournament Schedule
 
-| Event | Timestamp |
-| --: | :-- |
-| Registration Phase | August 20th - September 3rd |
-| Live Drawings | September 14th 14:00 UTC |
-| Group Stage | September 21st & September 22nd |
-| Round of 16 | September 28th & September 29th |
-| Quarterfinals | October 5th & October 6th |
-| Semifinals | October 12nd & October 13th |
-| Finals | October 19th & October 20th |
-| Grand Finals | October 26th & October 27th |
+|              Event | Timestamp                       |
+| -----------------: | :------------------------------ |
+| Registration Phase | August 20th - September 3rd     |
+|      Live Drawings | September 14th 14:00 UTC        |
+|        Group Stage | September 21st & September 22nd |
+|        Round of 16 | September 28th & September 29th |
+|      Quarterfinals | October 5th & October 6th       |
+|         Semifinals | October 12nd & October 13th     |
+|             Finals | October 19th & October 20th     |
+|       Grand Finals | October 26th & October 27th     |
 
 ## Prizes
 
-| Placing | Prize(s) |
-| --- | :--- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | $150 per team member, profile badge, "osu!mania Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, profile badge |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, profile badge |
+| Placing                                                    | Prize(s)                                                                          |
+| ---------------------------------------------------------- | :-------------------------------------------------------------------------------- |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")     | $150 per team member, profile badge, "osu!mania Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, profile badge                                                |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, profile badge                                                |
 
 ## How do I register?
 
-+ **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/21)**
-+ Do not create teams in advance! Teams will be formed by the country's team captain after the registration phase is concluded.
-+ Hand in your registration before the **3rd of September.**
+-   **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/21)**
+-   Do not create teams in advance! Teams will be formed by the country's team captain after the registration phase is concluded.
+-   Hand in your registration before the **3rd of September.**
 
 Please note that you may only participate if you are of a **osu!mania global ranking of #5000 or higher and have not violated the [osu! community rules](/wiki/Rules) in the past 12 months**.
 

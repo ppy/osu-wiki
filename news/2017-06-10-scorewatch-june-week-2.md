@@ -32,14 +32,14 @@ Light it up with this week's Scorewatch, featuring some crazy plays on Blue Zeni
 ## NOTABLE MENTIONS
 
 [Rafis](https://osu.ppy.sh/users/2558286) joins the ranks of the unholy trinity of players (consisting of filsdelama, Angelsim and Vaxei) by setting the next HDHRDT FC on [ClariS - Hitorigoto -TV MIX-](https://osu.ppy.sh/beatmaps/1262832?m=0) with 97.84%, earning 655pp! While he didn't quite make the No. 1 spot on the leaderboards, he certainly enjoyed finally getting the score he wanted!
- 
-[Dustice](https://osu.ppy.sh/users/754565) took a huge blow to his score on [Remo Prototype[CV: Hanamori Yumiri] - Sendan Life](https://osu.ppy.sh/beatmaps/901854?m=0) with a 2x 100 1x miss HDHR play (99.74%) to earn himself 613pp. This score could've matched even Cookiezi's score!
+
+[Dustice](https://osu.ppy.sh/users/754565) took a huge blow to his score on [Remo Prototype\[CV: Hanamori Yumiri\] - Sendan Life](https://osu.ppy.sh/beatmaps/901854?m=0) with a 2x 100 1x miss HDHR play (99.74%) to earn himself 613pp. This score could've matched even Cookiezi's score!
 
 [OskaRRRitoS](https://osu.ppy.sh/users/7051163) took [MillhioreF - Waltz o' the Irish](https://osu.ppy.sh/beatmaps/326585&m=0) and played it for 3 days straight! Not willing to be outdone by ExGon who did the same map a couple weeks ago, he does it with HTNF and grabs an SS! For once this is a score we won't recommend you to watch in its entirety, but definitely something worth mentioning.
 
 ## SCOREWATCH SCORE SHOW
 
-[Estonians](https://osu.ppy.sh/users/7014697) takes on [Zei-](https://osu.ppy.sh/users/1530308) on the 6.16* Loved osu!mania map [gmtn. vs. kozato (fw. LUZE) - squartatrice](https://osu.ppy.sh/beatmaps/846925)!
+[Estonians](https://osu.ppy.sh/users/7014697) takes on [Zei-](https://osu.ppy.sh/users/1530308) on the 6.16\* Loved osu!mania map [gmtn. vs. kozato (fw. LUZE) - squartatrice](https://osu.ppy.sh/beatmaps/846925)!
 
 <center><iframe width="100%" height="315" src="https://www.youtube.com/embed/j-0edVaahjA" frameborder="0" allowfullscreen></iframe></center>
 

@@ -8,39 +8,39 @@ Velkommen til osu!, et free-to-win rytmespil udviklet af peppy komplet med fire 
 
 ## Interessepunkter
 
-- [Installation](/wiki/Installation)
-- [Registrering](/wiki/Registration)
-- [Regler](/wiki/Rules)
-- [Ofte Stillede Spørgsmål](/wiki/FAQ)
-- [Game Modes](/wiki/Game_Modes)
-  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
-  - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
-  - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
-  - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania)
-- [Multiplayer](/wiki/Multi)
-- [Rangeringskriterier](/wiki/Ranking_Criteria)
-  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
-  - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
-  - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
-  - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
+-   [Installation](/wiki/Installation)
+-   [Registrering](/wiki/Registration)
+-   [Regler](/wiki/Rules)
+-   [Ofte Stillede Spørgsmål](/wiki/FAQ)
+-   [Game Modes](/wiki/Game_Modes)
+    -   ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
+    -   ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
+    -   ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
+    -   ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania)
+-   [Multiplayer](/wiki/Multi)
+-   [Rangeringskriterier](/wiki/Ranking_Criteria)
+    -   ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
+    -   ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
+    -   ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
+    -   ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
 ## Beatmapping
 
-*Hovedside: [Beatmapping](/wiki/Beatmapping)*
+_Hovedside: [Beatmapping](/wiki/Beatmapping)_
 
-Beatmapping er en process hvor en bruger laver et beatmap. Dette inkluderer: valg af musik, timing og mapping af beatmappet, og test af beatmappet. Det kan også inkludere en video, et [storyboard](/wiki/Storyboarding), og/eller et [custom skin](/wiki/Skinning). Alt dette kan gøres alene eller sammen med andre brugere, ofte referet til som *storyboarders*, *skinners*, og/eller *guest creators*, alt efter hvad de har hjulpet med.
+Beatmapping er en process hvor en bruger laver et beatmap. Dette inkluderer: valg af musik, timing og mapping af beatmappet, og test af beatmappet. Det kan også inkludere en video, et [storyboard](/wiki/Storyboarding), og/eller et [custom skin](/wiki/Skinning). Alt dette kan gøres alene eller sammen med andre brugere, ofte referet til som _storyboarders_, _skinners_, og/eller _guest creators_, alt efter hvad de har hjulpet med.
 
 ## Modding
 
-*Hovedside: [Modding](/wiki/Modding)*
+_Hovedside: [Modding](/wiki/Modding)_
 
 Modding er en process hvor andre brugere (kaldet "modders") tester og prøver at forbedre en persons beatmap i den Afventende eller WIP fase. Modding spiller en stor role i kvalitetskontrol fordi den gør det muligt for skabere af beatmaps at finde fejl og mangler i deres beatmaps.
 
 ## Skinning
 
-*Hovedside: [Skinning](/wiki/Skinning)*
+_Hovedside: [Skinning](/wiki/Skinning)_
 
-*Se også: [Skinning Tutorial](/wiki/Skinning_Tutorial)*
+_Se også: [Skinning Tutorial](/wiki/Skinning_Tutorial)_
 
 Skinning lader enhver ændre måden osu! ser ud på. Dette kan være alt fra små ændringer såsom at ændre farven på musen, eller store ændringer hvor hele osu!-brugerfladen får en ny stil.
 

@@ -1,17 +1,17 @@
 ---
 layout: main_page
 ---
+
 <!-- Translated to Latin American Spanish, there it might be some differences with Castilian. -->
+
 <!-- Most possibly, it seems more like Chilean Spanish. -->
 
 <div class="wiki-main-page__blurb">
 Welcome to the osu! wiki, a project containing a wide range of osu! related information.
 </div>
 
-
 <div class="wiki-main-page__panels">
 <div class="wiki-main-page-panel">
-
 
 # Empecemos
 
@@ -20,14 +20,12 @@ Welcome to the osu! wiki, a project containing a wide range of osu! related info
 </div>
 <div class="wiki-main-page-panel">
 
-
 # Juego
 
 [Preguntas frecuentes](/wiki/FAQ) • [Multijugador](/wiki/Multi) • [Modos de juego](/wiki/Game_Modes): ([osu!](/wiki/Game_Modes/osu!) • [osu!taiko](/wiki/Game_Modes/osu!taiko) • [osu!catch](/wiki/Game_Modes/osu!catch) • [osu!mania](/wiki/Game_Modes/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">
-
 
 # [Editor de Beatmaps](/wiki/Beatmap_Editor)
 
@@ -36,7 +34,6 @@ Sections: ([Componer](/wiki/Beatmap_Editor/Compose) • [Diseñar](/wiki/Beatmap
 </div>
 <div class="wiki-main-page-panel">
 
-
 # Edición y ranking en línea
 
 [Enviar un Beatmap](/wiki/Submission) • [Aprobación de los Beatmap](/wiki/Beatmap_ranking_procedure) • [Modding](/wiki/Modding) • [Criterios del ranking](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
@@ -44,14 +41,12 @@ Sections: ([Componer](/wiki/Beatmap_Editor/Compose) • [Diseñar](/wiki/Beatmap
 </div>
 <div class="wiki-main-page-panel">
 
-
 # El mundo de osu!
 
 [Glosario](/wiki/Glossary) • [Torneos](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Proyectos](/wiki/Projects)
 
 </div>
 <div class="wiki-main-page-panel">
-
 
 # Personas
 

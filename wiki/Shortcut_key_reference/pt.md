@@ -4,7 +4,7 @@ outdated: true
 
 # Teclas de Atalho
 
-*No osu!, existem varios atalhos que podem ser utilizados durante o jogo e em menus. Eles estão listados com suas funções abaixo.*
+_No osu!, existem varios atalhos que podem ser utilizados durante o jogo e em menus. Eles estão listados com suas funções abaixo._
 
 ## Globais
 
@@ -65,7 +65,7 @@ outdated: true
 -   **W**: [No Fail](/wiki/Game_Modifiers)
 -   **E**: [Half-Time](/wiki/Game_Modifiers)
 
-------------------------------------------------------------------------
+* * *
 
 -   **A**: [Hard Rock](/wiki/Game_Modifiers)
 -   **S**: [Sudden Death](/wiki/Game_Modifiers) (Para ativar o mod [Perfect](/wiki/Game_Modifiers) é preciso clicar uma vez mais)
@@ -73,7 +73,7 @@ outdated: true
 -   **F**: [Hidden](/wiki/Game_Modifiers)
 -   **G**: [Flashlight](/wiki/Game_Modifiers)
 
-------------------------------------------------------------------------
+* * *
 
 -   **X**: [Relax](/wiki/Game_Modifiers) (Não faz efeito no mod 4/5/6/7/8K do osu!mania)
 -   **C**: [Auto-Pilot](/wiki/Game_Modifiers)
@@ -141,7 +141,7 @@ outdated: true
 -   **J/K**: Move notas para divisória anterior/seguinte
 -   **G**: Alterna o nível de grade de colocação de notas (grid)
 -   **Ctrl+1-4**: Níveis de Grade (tiny,small,medium,large)
--   **Ctrl+ &lt;,&gt;**: Giro de 180 graus para a Esquerda/Direita
+-   **Ctrl+ &lt;,>**: Giro de 180 graus para a Esquerda/Direita
 -   **Ctrl+H,J**: Giro Horizontal/Vertical
 
 #### Modo Timing

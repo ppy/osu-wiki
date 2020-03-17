@@ -46,7 +46,7 @@ Another noteworthy pair is Canada and Brazil. Both teams have a bond of friendsh
 
 Neither side has a distinct advantage over the other - Canada features reading and consistency players like [Azer](https://osu.ppy.sh/users/2155578), [MiruHong](https://osu.ppy.sh/users/2866814), and [FunOrange](https://osu.ppy.sh/users/2051389), while Brazil boasts the Samba pride with tournament beasts like [MouseEasy](https://osu.ppy.sh/users/1558603) and [fabriciorby](https://osu.ppy.sh/users/209664). The mappool is also well within the comfort range of both teams, and I foresee that many picks may just come down to a matter of consistency and accuracy.
 
-----
+* * *
 
 Either way, I wish everyone feels just as excited as I am towards the upcoming matches. OWC this year is surely going to be great, and more exciting things await just beyond the horizon.
 

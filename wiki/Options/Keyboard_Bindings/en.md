@@ -13,7 +13,7 @@ Here, you can change reassign keyboard keys with the listed actions.
 ## osu! Standard Mode
 
 | Name        | Default |
-|-------------|---------|
+| ----------- | ------- |
 | Left Click  | `Z`     |
 | Right Click | `X`     |
 | Smoke       | `C`     |
@@ -21,17 +21,16 @@ Here, you can change reassign keyboard keys with the listed actions.
 ## Taiko Mode
 
 | Name                | Default |
-|---------------------|---------|
+| ------------------- | ------- |
 | Drum Centre (Left)  | `X`     |
 | Drum Centre (Right) | `C`     |
 | Drum Rim (Left)     | `Z`     |
 | Drum Rim (Right)    | `V`     |
 
-
 ## Catch the Beat Mode
 
 | Name                      | Default       |
-|---------------------------|---------------|
+| ------------------------- | ------------- |
 | Move Left                 | `Left Arrow`  |
 | Move Right                | `Right Arrow` |
 | Dash! (2x movement speed) | `Left Shift`  |
@@ -39,19 +38,19 @@ Here, you can change reassign keyboard keys with the listed actions.
 ## osu! Mania Mode
 
 | Name           | Default |
-|----------------|---------|
+| -------------- | ------- |
 | Increase Speed | `F3`    |
 | Decrease Speed | `F4`    |
 
 **Notes:**
 
-- You can also use `Ctrl` + `+` to increase speed
-- You can also use `Ctrl` + `-` to decrease speed
+-   You can also use `Ctrl` + `+` to increase speed
+-   You can also use `Ctrl` + `-` to decrease speed
 
 ## In-Game
 
 | Name                       | Default     |
-|----------------------------|-------------|
+| -------------------------- | ----------- |
 | Game Pause                 | `Esc`       |
 | Skip Cutscene              | `Space`     |
 | Toggle Scoreboard          | `Tab`       |
@@ -61,13 +60,13 @@ Here, you can change reassign keyboard keys with the listed actions.
 
 **Notes:**
 
-- If you change the binding to `Game Pause`, `Esc` can still be used to pause the game.
-- `Quick Retry` requires the player to hold the key for ~2 seconds.
+-   If you change the binding to `Game Pause`, `Esc` can still be used to pause the game.
+-   `Quick Retry` requires the player to hold the key for ~2 seconds.
 
 ## Universal
 
 | Name                   | Default      |
-|------------------------|--------------|
+| ---------------------- | ------------ |
 | Toggle Framerate Limit | `F7`         |
 | Toggle Chat            | `F8`         |
 | Toggle Extended Chat   | `F9`         |
@@ -79,41 +78,41 @@ Here, you can change reassign keyboard keys with the listed actions.
 
 **Notes:**
 
-- `Boss Key` explanation: [Boss key](https://en.wikipedia.org/wiki/Boss_key)
-  - When used, osu! will mute itself and hide the window in the toolbar.
-  - To disable boss key, click on the osu! icon in the task bar and the osu!client will open.
+-   `Boss Key` explanation: [Boss key](https://en.wikipedia.org/wiki/Boss_key)
+    -   When used, osu! will mute itself and hide the window in the toolbar.
+    -   To disable boss key, click on the osu! icon in the task bar and the osu!client will open.
 
 ## Editor
 
-| Name                   | Default      |
-|------------------------|--------------|
-| Select tool            | `1`          |
-| Normal tool            | `2`          |
-| Slider tool            | `3`          |
-| Spinner tool           | `4`          |
-| New Combo Toggle       | `Q`          |
-| Whistle Toggle         | `W`          |
-| Finish Toggle          | `E`          |
-| Clap Toggle            | `R`          |
-| Grip Snap toggle       | `T`          |
-| Distance Snap Toggle   | `Y`          |
-| Note Lock toggle       | `L`          |
-| Nudge Left             | `J`          |
-| Nudge Right            | `K`          |
-| Help Toggle            | `H`          |
-| Jump to First Note     | `Z`          |
-| Play from beginning    | `X`          |
-| Audio Pause            | `C`          |
-| Jump to End            | `V`          |
-| Grid Size Change       | `G`          |
-| Add Timing Section     | _(None)_     |
-| Add Inheriting Section | _(None)_     |
-| Remove Section         | _(None)_     |
+| Name                   | Default  |
+| ---------------------- | -------- |
+| Select tool            | `1`      |
+| Normal tool            | `2`      |
+| Slider tool            | `3`      |
+| Spinner tool           | `4`      |
+| New Combo Toggle       | `Q`      |
+| Whistle Toggle         | `W`      |
+| Finish Toggle          | `E`      |
+| Clap Toggle            | `R`      |
+| Grip Snap toggle       | `T`      |
+| Distance Snap Toggle   | `Y`      |
+| Note Lock toggle       | `L`      |
+| Nudge Left             | `J`      |
+| Nudge Right            | `K`      |
+| Help Toggle            | `H`      |
+| Jump to First Note     | `Z`      |
+| Play from beginning    | `X`      |
+| Audio Pause            | `C`      |
+| Jump to End            | `V`      |
+| Grid Size Change       | `G`      |
+| Add Timing Section     | _(None)_ |
+| Add Inheriting Section | _(None)_ |
+| Remove Section         | _(None)_ |
 
 ## Mod Select
 
 | Name         | Default |
-|--------------|---------|
+| ------------ | ------- |
 | Easy         | `Q`     |
 | No Fail      | `W`     |
 | Half Time    | `E`     |
@@ -129,9 +128,9 @@ Here, you can change reassign keyboard keys with the listed actions.
 
 **Notes:**
 
-- By default, these key binds are positioned the same way how the mod icons are positioned.
-- You may need to press the key twice to access mod icons hidden underneath them.
-  - e.g. You will need to press `S` twice to access Perfect.
+-   By default, these key binds are positioned the same way how the mod icons are positioned.
+-   You may need to press the key twice to access mod icons hidden underneath them.
+    -   e.g. You will need to press `S` twice to access Perfect.
 
 ## Reset all Bindings
 
@@ -143,17 +142,17 @@ This button will reset all bindings to their defaults listed above.
 
 **For mod select:**
 
-- The mania xK mods are not listed there.
-  - You can press keys `3` to `9` to enabled the xK mods.
-- Not all mod icons have a keyboard shortcut, such as:
-  - 1K
-  - 2K
-  - Random
-  - Co-op
-  - Target Practice
+-   The mania xK mods are not listed there.
+    -   You can press keys `3` to `9` to enabled the xK mods.
+-   Not all mod icons have a keyboard shortcut, such as:
+    -   1K
+    -   2K
+    -   Random
+    -   Co-op
+    -   Target Practice
 
 ### History
 
-- The 1K and 2K mod icons once had a keyboard shortcut, `1` and `2` respectively.
-  - These key bindings were removed because they conflicted with the keyboard navigation keys
-    (pressing `1` would deselect the mod icons and `2` would exit the mods menu).
+-   The 1K and 2K mod icons once had a keyboard shortcut, `1` and `2` respectively.
+    -   These key bindings were removed because they conflicted with the keyboard navigation keys
+        (pressing `1` would deselect the mod icons and `2` would exit the mods menu).

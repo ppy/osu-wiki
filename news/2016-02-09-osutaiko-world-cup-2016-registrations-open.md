@@ -13,21 +13,21 @@ For more details, refer to the [osu!taiko World Cup 2016 wiki article](https://o
 
 ## Tournament Schedule
 
-+ Registration Phase: 9-28 Feb 2016
-+ Live Drawings: 11 Mar 2016 14:00 UTC
-+ Group Stage: 19-20 Mar 2016
-+ Round of 16: 26-27 Mar 2016
-+ Quarterfinals: 2-3 Apr 2016
-+ Semifinals: 9-10 Apr 2016
-+ Finals - Week 1: 16-17 Apr 2016
-+ Finals - Week 2: 23-24 Apr 2016
+-   Registration Phase: 9-28 Feb 2016
+-   Live Drawings: 11 Mar 2016 14:00 UTC
+-   Group Stage: 19-20 Mar 2016
+-   Round of 16: 26-27 Mar 2016
+-   Quarterfinals: 2-3 Apr 2016
+-   Semifinals: 9-10 Apr 2016
+-   Finals - Week 1: 16-17 Apr 2016
+-   Finals - Week 2: 23-24 Apr 2016
 
 ## What has been changed?
 
-+ Sign-ups are handled via [this registration page](https://osu.ppy.sh/tournaments/4)
-+ We raised the winning conditions for the Finals - Week 2 to Best-of-13 (used to be Best-of-11)
-+ We added more clear regulations regarding disconnects and inappropriate behavior during the matches.
-+ We altered the prize pool. Details will be revealed as soon as possible!
+-   Sign-ups are handled via [this registration page](https://osu.ppy.sh/tournaments/4)
+-   We raised the winning conditions for the Finals - Week 2 to Best-of-13 (used to be Best-of-11)
+-   We added more clear regulations regarding disconnects and inappropriate behavior during the matches.
+-   We altered the prize pool. Details will be revealed as soon as possible!
 
 ## Prizes
 
@@ -35,9 +35,9 @@ We will reveal details about the prize pool as soon as possible! Check out [the 
 
 ## How do I register?
 
-+ **[Click here to sign-up!](https://osu.ppy.sh/tournaments/4)**
-+ Do not create teams in advance! Teams will be formed after registration phase concluded by country's team captains.
-+ Hand in your registration before **28 February 2016.**
+-   **[Click here to sign-up!](https://osu.ppy.sh/tournaments/4)**
+-   Do not create teams in advance! Teams will be formed after registration phase concluded by country's team captains.
+-   Hand in your registration before **28 February 2016.**
 
 Note that you can only participate if you are of a **osu!taiko global ranking of #5000 or higher and did not violate the [osu! community rules](https://osu.ppy.sh/wiki/Rules) in the past 12 months**.
 

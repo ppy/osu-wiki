@@ -18,7 +18,7 @@ Remember how we always had that segment in this post about not having videos? NO
 
 Sorry for the delay! The unnamed writer of these posts (that's me, hah) got caught up in some other things over the weekend and unfortunately couldn't finish writing/compiling this together by Sunday. It won't happen again! :wink:
 
-In addition to the map quantity changes mentioned in last round's news post, the captains of osu!catch have decided to decrease the map count to just two per round. This unfortunately won't let as many maps reached loved for osu!catch, but it will prevent the backlog from depleting too quickly. We're trying to keep the backlogs of future Loved nominees stocked so that we have at least *some* to put up for vote every round. Sooner or later, we may just tone down the frequency of Loved voting—we've been discussing the possibility of monthly rather than bi-weekly.
+In addition to the map quantity changes mentioned in last round's news post, the captains of osu!catch have decided to decrease the map count to just two per round. This unfortunately won't let as many maps reached loved for osu!catch, but it will prevent the backlog from depleting too quickly. We're trying to keep the backlogs of future Loved nominees stocked so that we have at least _some_ to put up for vote every round. Sooner or later, we may just tone down the frequency of Loved voting—we've been discussing the possibility of monthly rather than bi-weekly.
 
 Lastly, as a reminder in case you don't read the end of this post, be sure to submit suggestions for beatmaps to be added to Loved using the [Google form](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)! All of the nominated beatmaps are chosen from submissions on this form, which you can view in the corresponding [Google sheet](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit#gid=0).
 
@@ -28,14 +28,14 @@ Let's get started! To accompany the selections, we have verto's mentioned video,
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+-   [osu!](#osu)
+-   [osu!taiko](#osutaiko)
+-   [osu!catch](#osucatch)
+-   [osu!mania](#osumania)
 
 ## <a name="osu" id="osu"></a>osu!
 
-*All osu! descriptions written by [Toy](https://osu.ppy.sh/users/2757689)*
+_All osu! descriptions written by [Toy](https://osu.ppy.sh/users/2757689)_
 
 [![](/wiki/shared/news/2018-07-02-project-loved-week-of-july-1st/osu/undertale-temmie-get-money-for-colege.jpg)](https://osu.ppy.sh/community/forums/topics/768645)
 
@@ -69,7 +69,7 @@ A fairly recent mapset that mixes all of yesterday's memes together. It's got Do
 
 ## <a name="osutaiko" id="osutaiko"></a>osu!taiko
 
-*All osu!taiko descriptions written by [Backfire](https://osu.ppy.sh/users/263110)*
+_All osu!taiko descriptions written by [Backfire](https://osu.ppy.sh/users/263110)_
 
 [![](/wiki/shared/news/2018-07-02-project-loved-week-of-july-1st/taiko/chipstream.jpg)](https://osu.ppy.sh/community/forums/topics/768653)
 
@@ -105,7 +105,7 @@ Now closing into three years after Undertale's release, it's clear how much of a
 
 ## <a name="osucatch" id="osucatch"></a>osu!catch
 
-*All osu!catch descriptions written by [SartNYAN OwO XD](https://osu.ppy.sh/users/4100941)*
+_All osu!catch descriptions written by [SartNYAN OwO XD](https://osu.ppy.sh/users/4100941)_
 
 [![](/wiki/shared/news/2018-07-02-project-loved-week-of-july-1st/catch/choux-a-la-creme.jpg)](https://osu.ppy.sh/community/forums/topics/768662)
 
@@ -115,7 +115,7 @@ Choux a la creme is one of those typical made-for-fun maps by Vincs that you hav
 
 [![](/wiki/shared/news/2018-07-02-project-loved-week-of-july-1st/catch/sewing-machine.jpg)](https://osu.ppy.sh/community/forums/topics/768663)
 
-[yak\_won - Sewing Machine](https://osu.ppy.sh/beatmapsets/461353) by [ExGon](https://osu.ppy.sh/users/214187)
+[yak_won - Sewing Machine](https://osu.ppy.sh/beatmapsets/461353) by [ExGon](https://osu.ppy.sh/users/214187)
 
 It has been a while since we saw an over-the-top level map being put in the loved section for osu!catch, so here we go again with ExGon's Sewing Machine! Paramount to anything this map has unconventional patterns all across its endurity. There are plenty of left-rights, jumping and tap-dashing sections, all of those being ridiculously hard to catch. I dare to bet my left kidney on the fact that there won't be any full combos to be had from this map, perhaps a pass or two from the very best players we have around, meaning this might not make for a great map for everyone. I would however suggest you try it anyway (with NoFail turned on) and see for yourself, the difficulty doesn't per se take away the fun of the map. There are definitely some satisfying patterns present in this map for everyone!
 
@@ -124,7 +124,7 @@ It has been a while since we saw an over-the-top level map being put in the love
 [![](/wiki/shared/news/2018-07-02-project-loved-week-of-july-1st/mania/eviscerate.jpg)](https://osu.ppy.sh/community/forums/topics/768666)
 
 [Rings of Saturn - Eviscerate](https://osu.ppy.sh/beatmapsets/477477) by [Xay](https://osu.ppy.sh/users/961417)  
-*written by [TheToaphster](https://osu.ppy.sh/users/7616811)*
+_written by [TheToaphster](https://osu.ppy.sh/users/7616811)_
 
 Opening up for the mania spotlights is very well-known osu!mania and osu!taiko player and charter Xay with his chart for Eviscerate. Utilizing a combination of single-streaming, extremely dense jumpstream bursts, and everything in between, it makes a good time for any jumpstream enthusiasts, especially those who value the tight-knit structure offered throughout.
 
@@ -132,17 +132,17 @@ It stands out in the charting circles for its incredible structure and accuracy,
 
 [![](/wiki/shared/news/2018-07-02-project-loved-week-of-july-1st/mania/deka.jpg)](https://osu.ppy.sh/community/forums/topics/768667)
 
-[D\_VOR - dEKA](https://osu.ppy.sh/beatmapsets/108708) by [Tidek](https://osu.ppy.sh/users/743282)  
-*written by [\_underjoy](https://osu.ppy.sh/users/2235750)*
+[D_VOR - dEKA](https://osu.ppy.sh/beatmapsets/108708) by [Tidek](https://osu.ppy.sh/users/743282)  
+_written by [\_underjoy](https://osu.ppy.sh/users/2235750)_
 
-D\_VOR - dEKA by Tidek is one of these maps you could call ""evil"". It started as a gimmicky DDR chart, which was then adopted to osu!mania as a qualifier for Polish tournament, MP4K. This map was one of Tidek's first SV works, as well as the one that made him famous in the area. It was recently updated with SitekX's 7K rendition of the chart.
+D_VOR - dEKA by Tidek is one of these maps you could call ""evil"". It started as a gimmicky DDR chart, which was then adopted to osu!mania as a qualifier for Polish tournament, MP4K. This map was one of Tidek's first SV works, as well as the one that made him famous in the area. It was recently updated with SitekX's 7K rendition of the chart.
 
 Seemingly innocent, this map quickly makes the player think twice about what they see. Starting relatively slowly, it quickly develops into a chart full of SV traps, teleports and slowjams which are notoriously hard to achieve good accuracy on thanks to very high OD setting. The most notable section of the song is an ominous slowjam in the middle, which has caused some serious casualties amongst the player base. Luckily, Tidek has made his patterning lenient and comfortable to counterweight very aggressive speed changes he has put in the map. The teleport section, which is especially hard to read, aids players with intuitive, carefully planned patterning, which can be easily memorized. If the Loved category needs a devilish map which deprives players of their sleep, it's this one.
 
 [![](/wiki/shared/news/2018-07-02-project-loved-week-of-july-1st/mania/happy-synthesizer.jpg)](https://osu.ppy.sh/community/forums/topics/768668)
 
 [EasyPop - Happy Synthesizer](https://osu.ppy.sh/beatmapsets/74371) by [c36098651](https://osu.ppy.sh/users/2048577)  
-*written by [\_underjoy](https://osu.ppy.sh/users/2235750)*
+_written by [\_underjoy](https://osu.ppy.sh/users/2235750)_
 
 Another oldschool osu!mania mapset, EasyPop - Happy Synthesizer by c36098651 is a classic example of a map that hasn't lost any of its charm over the course of time.
 
@@ -151,7 +151,7 @@ Although the O2Jam-style of 7K difficulties is rather standard, the 4K version i
 [![](/wiki/shared/news/2018-07-02-project-loved-week-of-july-1st/mania/et-mania-mix.jpg)](https://osu.ppy.sh/community/forums/topics/768669)
 
 [Jinjin - ET Mania Mix](https://osu.ppy.sh/beatmapsets/506548) by [Jinjin](https://osu.ppy.sh/users/3360737)  
-*written by [TheToaphster](https://osu.ppy.sh/users/7616811)*
+_written by [TheToaphster](https://osu.ppy.sh/users/7616811)_
 
 Next up is our ET Jinjin bringing us a medley rather fitting to his title. ET Mania Mix is exactly as the name describes it, being a medley of songs that have become famous (or infamous) for the difficulty of the charts that accompany them, taking inspiration from 4K charts such as AiAe and Blastix Riotz to 7K charts like End Time and Maniera as well as even some lesser-played keymodes like LeaF Style Super Shredder, all of which have been remapped by Jinjin to 4K with the difficulty certainly keeping the pace expected by the songs' ranked counterparts.
 
@@ -160,7 +160,7 @@ As one would expect from the title of the chart, it proves to be a mark of skill
 [![](/wiki/shared/news/2018-07-02-project-loved-week-of-july-1st/mania/ghostly-band-phantom-ensemble.jpg)](https://osu.ppy.sh/community/forums/topics/768670)
 
 [ESTi - Ghostly Band ~ Phantom Ensemble](https://osu.ppy.sh/beatmapsets/291343) by [ArcherLove](https://osu.ppy.sh/users/2468021) et al.  
-*written by [aitor98](https://osu.ppy.sh/users/3154852)*
+_written by [aitor98](https://osu.ppy.sh/users/3154852)_
 
 We have already talked about ArcherLove and his map [xi - over the top](https://osu.ppy.sh/beatmapsets/416575), but this time, we bring him back to the Loved Section, followed by a new set that goes by Ghostly Band ~ Phantom Ensemble by ESTi. This map features a good usage of Long Note patterns, such as irregular Long Note releases, shields, light Long Note chordstreams and more. If we compare this to his previous Loved Map this is fairly easy difficulty-wise, but don't get fooled this easy. Going at 156 BPM, the map itself becomes a true nightmare to get good accuracy on, as well as being able to misread with ease due to the complex patterning and the length of some Long Notes.
 
@@ -169,7 +169,7 @@ It also has a really good difficulty span going from 1.4 stars up to 5.5 which m
 [![](/wiki/shared/news/2018-07-02-project-loved-week-of-july-1st/mania/memoryfactory-lzh.jpg)](https://osu.ppy.sh/community/forums/topics/768671)
 
 [Frums - memoryfactory.lzh](https://osu.ppy.sh/beatmapsets/615959) by [Nivrad00](https://osu.ppy.sh/users/1984634)  
-*written by [Kamikaze](https://osu.ppy.sh/users/2124783)*
+_written by [Kamikaze](https://osu.ppy.sh/users/2124783)_
 
 Have you ever been tired of playing the same ranked maps over and over again? Have you ever been frustrated with lack of progress and wanted to take a break? Have you ever wanted to try something new, while still playing your favourite key-smashing game? Do you like **typing** to the rhythm? Now there's a chart just for you!
 
@@ -178,13 +178,13 @@ Here's the newfound masterpiece of the amazingly creative Nivrad00's notefactory
 [![](/wiki/shared/news/2018-07-02-project-loved-week-of-july-1st/mania/valhalla.jpg)](https://osu.ppy.sh/community/forums/topics/768672)
 
 [xi - Valhalla](https://osu.ppy.sh/beatmapsets/257079) by [Remillion Cross](https://osu.ppy.sh/users/1983784), [ExUsagi](https://osu.ppy.sh/users/3027421) and [LordRaika](https://osu.ppy.sh/users/3265023)  
-*written by [aitor98](https://osu.ppy.sh/users/3154852)*
+_written by [aitor98](https://osu.ppy.sh/users/3154852)_
 
 And for our last pick, we have a map that should be familiar to the older players, a map which stood out at the time, being qualified at one point but never reaching its desired place: we present to you, xi - Vallhala by Remillion Cross. With two guest difficultes made by LordRaika and Arzenvald, this map features one of the most unconventional pattern styles that you'll see in a while. He was one of the first mappers that introduced the meaning "underrated" in the Ranked section and it was definitely deserved. It has a good mix between Long Notes and bursts, nasty jacks, shields, extremely rough transitions and more.
 
 If you have already played any of his maps ([Fiat Lux](https://osu.ppy.sh/beatmapsets/170223) or [INFINITY OVERDRIVE](https://osu.ppy.sh/beatmapsets/152180)), you really know what you're getting into. Good luck!
 
----
+* * *
 
 From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 

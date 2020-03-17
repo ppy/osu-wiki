@@ -13,7 +13,7 @@ Joining Pippi and Yuzu in the osu! mascot collection, Maria brings a touch of ma
 
 To celebrate Maria's release, we've added a brand new achievement (and swanky medal) to the game. Simply score above 100 combo on any osu!mania map, convert or otherwise, and witness her in all her glory!
 
-*(We highly recommend using the default skin so that you actually see Maria in-game, but it isn't necessary to get the achievement.)*
+_(We highly recommend using the default skin so that you actually see Maria in-game, but it isn't necessary to get the achievement.)_
 
 The more intrepid creators among us will find a few new skinning options available to them for the osu!mania mode - read all about it over at the [osu!wiki](https://osu.ppy.sh/help/wiki/Skinning/skin.ini#[mania]).
 

@@ -12,11 +12,9 @@
 
 ループは1つのオブジェクト内、複数ではないオブジェクトにおいて行われます。そしてこれらは特別なコマンドの形式として扱われます。
 
-```
-_L,(starttime),(loopcount)
-__(event),(easing),(relative_starttime),(relative_endtime),(params...)
-// More events allowed
-```
+    _L,(starttime),(loopcount)
+    __(event),(easing),(relative_starttime),(relative_endtime),(params...)
+    // More events allowed
 
 場所について:
 
@@ -29,12 +27,10 @@ __(event),(easing),(relative_starttime),(relative_endtime),(params...)
 
 開始位置60000から、フェードインとアウトを1秒(1000ms)周期でトータル30秒間(30000ms)エフェクトをループさせたい場合(要するに30ループ)、
 
-```
-Sprite,Pass,Centre,"Sample.png",320,240
-_L,60000,30
-__F,0,0,500,0,1
-__F,0,500,1000,1,0
-```
+    Sprite,Pass,Centre,"Sample.png",320,240
+    _L,60000,30
+    __F,0,0,500,0,1
+    __F,0,500,1000,1,0
 
 1行目は対象とする画像の定義、座標
 
@@ -56,11 +52,9 @@ __F,0,500,1000,1,0
 
 Triggers take the form:
 
-```
-_T,(triggerType),(starttime),(endtime)
-__(event),(easing),(relative_starttime),(relative_endtime),(params...)
-// More events allowed
-```
+    _T,(triggerType),(starttime),(endtime)
+    __(event),(easing),(relative_starttime),(relative_endtime),(params...)
+    // More events allowed
 
 where:
 
@@ -83,15 +77,13 @@ where:
 
 SBで指定した条件(Pass/Fail)が満たされた時、20000から40000の間でLargeWhiteImage.png(大きな白い画像)が画面全体に表示されます。
 
-```
-Sprite,Foreground,Centre,"LargeWhiteImage.png",320,240
-_T,Passing,20000,40000
-__F,0,0,500,1
-__F,0,500,501,0
-_T,Failing,20000,40000
-__F,0,0,500,1
-__F,0,500,501,0
-```
+    Sprite,Foreground,Centre,"LargeWhiteImage.png",320,240
+    _T,Passing,20000,40000
+    __F,0,0,500,1
+    __F,0,500,501,0
+    _T,Failing,20000,40000
+    __F,0,0,500,1
+    __F,0,500,501,0
 
 1行目は対象とする画像の定義、座標
 

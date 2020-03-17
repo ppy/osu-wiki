@@ -1,9 +1,10 @@
 ---
 outdated: true
 ---
+
 # Logros
 
-Los **Logros** ***(Achievements)*** son pequeñas insignias en el perfil de alguien que indican que alguien ha llevado a cabo un objetivo excepcional. Actualmente, están divididos en 5 grupos.
+Los **Logros** **_(Achievements)_** son pequeñas insignias en el perfil de alguien que indican que alguien ha llevado a cabo un objetivo excepcional. Actualmente, están divididos en 5 grupos.
 
 ## Beatmap Packs
 
@@ -11,10 +12,10 @@ Los **Logros** ***(Achievements)*** son pequeñas insignias en el perfil de algu
 
 Actualmente hay 16 logros de este grupo, que se dividen en 4 secciones:-
 
-- Video Game Pack
-- Anime Pack
-- Internet! Pack
-- Rhythm Game Pack
+-   Video Game Pack
+-   Anime Pack
+-   Internet! Pack
+-   Rhythm Game Pack
 
 Cada una de estas secciones tiene actualmente 4 volúmenes a ellos.
 
@@ -22,31 +23,31 @@ Cada una de estas secciones tiene actualmente 4 volúmenes a ellos.
 
 #### Requisitos:
 
-- Jugar cada beatmap una vez en cualquier dificultad dentro de una [Theme Beatmap Pack](https://osu.ppy.sh/p/packlist?t=t) es suficiente.
-- El modo debe ser [osu! Standard](/wiki/Game_Modes/osu!).
-- Extraer el Theme pack, Coloque todos los beatmaps del .zip en osu.! Ejecutar tu osu! y comenzar a jugar. Eso es todo.
-  - Si el beatmap se encuentra en .zip, debe extraerlo como .zip y no ir a hacer carpetas para ellos. Si se hacen las carpetas para ellos, es posible que no obtenga el logro y el estado "**CLEARED (Completado)**" en su [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t)
-  - Alternativamente, usted puede descargar las canciones manualmente de uno en uno, sigue siendo valido.
-- Cualquier variación (como creador diferentes) De la canción no es contado. Debe ser esa canción específica y el creador específico en ese Beatmap.
-- Su cuenta en cuestión debe estar logeado en osu!. Tener Sección iniciada en el Sitio web de osu! pero no el juego, no cuentan.
-- Los Mods pueden utilizarse pero no mods que pueden jugar sin clasificar (como Auto-Piloto). Use los mods sabiamente a su favor.
+-   Jugar cada beatmap una vez en cualquier dificultad dentro de una [Theme Beatmap Pack](https://osu.ppy.sh/p/packlist?t=t) es suficiente.
+-   El modo debe ser [osu! Standard](/wiki/Game_Modes/osu!).
+-   Extraer el Theme pack, Coloque todos los beatmaps del .zip en osu.! Ejecutar tu osu! y comenzar a jugar. Eso es todo.
+    -   Si el beatmap se encuentra en .zip, debe extraerlo como .zip y no ir a hacer carpetas para ellos. Si se hacen las carpetas para ellos, es posible que no obtenga el logro y el estado "**CLEARED (Completado)**" en su [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t)
+    -   Alternativamente, usted puede descargar las canciones manualmente de uno en uno, sigue siendo valido.
+-   Cualquier variación (como creador diferentes) De la canción no es contado. Debe ser esa canción específica y el creador específico en ese Beatmap.
+-   Su cuenta en cuestión debe estar logeado en osu!. Tener Sección iniciada en el Sitio web de osu! pero no el juego, no cuentan.
+-   Los Mods pueden utilizarse pero no mods que pueden jugar sin clasificar (como Auto-Piloto). Use los mods sabiamente a su favor.
 
 #### Notas:
 
-- Después de completar su logro, usted puede borrar las canciones del tema. Su achievement (Logro), ranked score y accuracy (Precisión) Se guardaran. Si lo que quieres es mejorar tu ranked score (Puntuación) y la accuracy (Precisión) de los beatmap, puede hacerlo personalmente y jugar el beatmap de nuevo.
-- Si usted se pregunta ¿por qué usted no tiene la insignia? y se siente como si no fuera una canción, usted puede comprobar el [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t) aqui. La canción que se haya terminado, se marcará **CLEARED** en negrita.
-- la insignia se le dará después de completar todas las canciones de ese tema en cuestión.
-  - Sea paciente y asegúrese de que su puntuación se presenta y se clasifican correctamente primero. ¿No querrá repetir que la canción beatmap otra vez sobre todo si es difícil para usted?
-- Como los beatmaps son bastante antiguos puede ser posible que deba hacer uso del "Off-set Wizard", ya que los Hit-Circles pueden aparecer mal sincronizados. (Antes/Después, del tiempo correcto)
+-   Después de completar su logro, usted puede borrar las canciones del tema. Su achievement (Logro), ranked score y accuracy (Precisión) Se guardaran. Si lo que quieres es mejorar tu ranked score (Puntuación) y la accuracy (Precisión) de los beatmap, puede hacerlo personalmente y jugar el beatmap de nuevo.
+-   Si usted se pregunta ¿por qué usted no tiene la insignia? y se siente como si no fuera una canción, usted puede comprobar el [Beatmap Pack Listing](https://osu.ppy.sh/p/packlist?t=t) aqui. La canción que se haya terminado, se marcará **CLEARED** en negrita.
+-   la insignia se le dará después de completar todas las canciones de ese tema en cuestión.
+    -   Sea paciente y asegúrese de que su puntuación se presenta y se clasifican correctamente primero. ¿No querrá repetir que la canción beatmap otra vez sobre todo si es difícil para usted?
+-   Como los beatmaps son bastante antiguos puede ser posible que deba hacer uso del "Off-set Wizard", ya que los Hit-Circles pueden aparecer mal sincronizados. (Antes/Después, del tiempo correcto)
 
 #### Trivia
 
-- 16 packs. (4 temas x 4 volumenes)
-  - 1 hora 20 minutos = 1 pack (Estimación del tiempo requerido para completar un beatmap pack)
-- 211 canciones (206 + 3 ![Ranked](/wiki/shared/icon/heart.gif "Ranked") rankeadas, 1 ![Approved](/wiki/shared/icon/flame.gif "Approved") aprobadas y 1 pendiente)
-- 662 dificultades (660 ![Ranked](/wiki/shared/icon/heart.gif "Ranked") rankeadas, 1 ![Approved](/wiki/shared/icon/flame.gif "Approved") aprobadas y 1 pendiente)
-- 1.39 GB (zipped), 1.47 GB (importado)
-- 3 minutos 33 segundos. (Estimación de tiempo de importación de todos los 16 packs)
+-   16 packs. (4 temas x 4 volumenes)
+    -   1 hora 20 minutos = 1 pack (Estimación del tiempo requerido para completar un beatmap pack)
+-   211 canciones (206 + 3 ![Ranked](/wiki/shared/icon/heart.gif "Ranked") rankeadas, 1 ![Approved](/wiki/shared/icon/flame.gif "Approved") aprobadas y 1 pendiente)
+-   662 dificultades (660 ![Ranked](/wiki/shared/icon/heart.gif "Ranked") rankeadas, 1 ![Approved](/wiki/shared/icon/flame.gif "Approved") aprobadas y 1 pendiente)
+-   1.39 GB (zipped), 1.47 GB (importado)
+-   3 minutos 33 segundos. (Estimación de tiempo de importación de todos los 16 packs)
 
 ## Combo
 
@@ -68,4 +69,4 @@ Spoilear El método para desbloquear estos logros concretos "tendrá como result
 
 ## Link Externo
 
-- peppy's Achievement Graphics [1](https://osu.ppy.sh/community/forums/topics/80448)
+-   peppy's Achievement Graphics [1](https://osu.ppy.sh/community/forums/topics/80448)

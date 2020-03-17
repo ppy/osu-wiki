@@ -185,10 +185,8 @@ outdated: true
 
 **Синтаксис для кружков**:
 
-```
-x,y,time,type,hitSound,addition
-(x-координата, y-координата, время, тип объекта, хитсаунд, addition)
-```
+    x,y,time,type,hitSound,addition
+    (x-координата, y-координата, время, тип объекта, хитсаунд, addition)
 
 Например:
 
@@ -196,10 +194,8 @@ x,y,time,type,hitSound,addition
 
 **Синтаксис для слайдеров**:
 
-```
-x,y,time,type,hitSound,sliderType|curveX:curveY|...,repeat,pixelLength,edgeHitsound,edgeAddition,addition
-(x, y, время, тип объекта, хитсаунд, тип слайдера|x узла:y узла|...,кол-во повторов,pixelLength,edgeHitsound,edgeAddition,addition)
-```
+    x,y,time,type,hitSound,sliderType|curveX:curveY|...,repeat,pixelLength,edgeHitsound,edgeAddition,addition
+    (x, y, время, тип объекта, хитсаунд, тип слайдера|x узла:y узла|...,кол-во повторов,pixelLength,edgeHitsound,edgeAddition,addition)
 
 Например:
 
@@ -207,10 +203,8 @@ x,y,time,type,hitSound,sliderType|curveX:curveY|...,repeat,pixelLength,edgeHitso
 
 **Синтаксис для спиннеров**:
 
-```
-x,y,time,type,hitSound,endTime,addition
-(x, y, время появления, тип объекта, хитсаунд, время конца, addition)
-```
+    x,y,time,type,hitSound,endTime,addition
+    (x, y, время появления, тип объекта, хитсаунд, время конца, addition)
 
 Например:
 

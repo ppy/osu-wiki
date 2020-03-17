@@ -14,7 +14,7 @@ A selection of the top-voted entries will make it to the main menu as this year'
 
 The intrepid artists behind the winning works will nab themselves **2 months of osu!supporter** for their efforts - also giftable to a friend, two friends, or even four friends of their choice!
 
-Check out a little teaser of this year's entries, set to *Hana* from the ever-lovely [Wisp X](https://osu.ppy.sh/beatmaps/artists/16). If you like what you hear, you can always try mapping it - Featured Artist tracks are always free for use in osu! mapping!
+Check out a little teaser of this year's entries, set to _Hana_ from the ever-lovely [Wisp X](https://osu.ppy.sh/beatmaps/artists/16). If you like what you hear, you can always try mapping it - Featured Artist tracks are always free for use in osu! mapping!
 
 <div align="center">
     <video width="90%" controls>

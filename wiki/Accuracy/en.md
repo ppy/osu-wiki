@@ -18,12 +18,10 @@ In osu!standard, accuracy is calculated by weighting the judgement gained from e
 
 Reference for one hit circle:
 
-```
-300 -> 300 / 300 = 1   = 100.00%
-100 -> 100 / 300 = 1/3 =  33.00%
-50  ->  50 / 300 = 1/6 =  16.67%
-0   ->   0 / 300 = 0   =   0.00%
-```
+    300 -> 300 / 300 = 1   = 100.00%
+    100 -> 100 / 300 = 1/3 =  33.00%
+    50  ->  50 / 300 = 1/6 =  16.67%
+    0   ->   0 / 300 = 0   =   0.00%
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
@@ -37,7 +35,7 @@ In osu!taiko, accuracy is calculated by taking the sum of the note accuracy divi
 
 In osu!catch, accuracy is calculated by taking the total of non-spinner hit objects collected divided by the total number of non-spinner objects. All hit objects have the same value, except for bananas, as they are part of the spinner object.
 
-*Note for API users: To calculate the accuracy in osu!catch, number of droplets are under `count50` and number of missed droplets are under `countkatu`.*
+_Note for API users: To calculate the accuracy in osu!catch, number of droplets are under `count50` and number of missed droplets are under `countkatu`._
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
@@ -51,11 +49,11 @@ In osu!mania, accuracy is calculated similarly to [osu!standard](#-osu!standard)
 
 The performance graph is a chart that displays the player's performance (based on their life bar) over the course of a play (time). Additional information can be shown when hovering the in-game cursor over it.
 
-*Note: The additional information can only be viewed after playing a beatmap or watching an exported replay. After exiting the [results screen](/wiki/results_screen), this information will not be saved.*
+_Note: The additional information can only be viewed after playing a beatmap or watching an exported replay. After exiting the [results screen](/wiki/results_screen), this information will not be saved._
 
 ### Accuracy
 
-When hovering over the performance graph, a tooltip is displayed with an *Error* and *Unstable Rate*.
+When hovering over the performance graph, a tooltip is displayed with an _Error_ and _Unstable Rate_.
 
 Due to the way the [DT](/wiki/DT) (Double Time) and [HT](/wiki/HT) (Half Time) mods are implemented, the error and unstable rate values will be multiplied by the same factor as the song. To get the true values when playing DT, divide the results by 1.5. Similarly, multiply the results by 1.33 when playing HT.
 
@@ -69,7 +67,7 @@ Unstable rate represents the consistency of the timing of the hits, where lower 
 
 ### Spin
 
-*Note: Spin is only used for [osu!standard](/wiki/Game_Modes/osu!).*
+_Note: Spin is only used for [osu!standard](/wiki/Game_Modes/osu!)._
 
 In addition to the accuracy, some information regarding spinners is also seen in the same tooltip.
 

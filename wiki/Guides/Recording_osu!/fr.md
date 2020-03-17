@@ -6,15 +6,15 @@ Vous avez toujours voulu faire une vidéo pour YouTube sur osu!, mais vous ne sa
 
 ## Prérequis
 
-- Logiciel d'enregistrement
-  - OBS
-  - Fraps
-  - Action!
-  - Bandicam
-- Logiciel d'édition/de rendu (N'utilisez jamais Windows Moviemaker, cela baissera la qualité de la vidéo drastiquement !)
-  - Sony Vegas
-  - Adobe Premier
-  - AVS Video Editor
+-   Logiciel d'enregistrement
+    -   OBS
+    -   Fraps
+    -   Action!
+    -   Bandicam
+-   Logiciel d'édition/de rendu (N'utilisez jamais Windows Moviemaker, cela baissera la qualité de la vidéo drastiquement !)
+    -   Sony Vegas
+    -   Adobe Premier
+    -   AVS Video Editor
 
 ### Configurer Fraps
 
@@ -24,12 +24,12 @@ Ouvrez Fraps, et regardez les options.
 
 Soyez sûr que :
 
-- Le raccourci de capture vidéo ne sera pas gênant;
-- Si vous obtenez une vidéo de sortie avec un framerate variable, limitez-le à 30. Si ce n'est pas le cas, utilisez 60 FPS;
-- Si vous obtenez une vidéo de sortie dont le framerate est faible, enregistrez le «en demi-taille». La vidéo correspondra à la moitié de la résolution à partir de laquelle elle a été enregistrée (vous pouvez également utiliser une résolution inférieure lors de l’enregistrement);
-- Vous avez assez d'espace libre sur votre disque. Sinon, la vidéo finira plus tôt s'il n'y a pas assez d'espace pour la stocker;
-- Le curseur n'apparait pas.
-- VOUS ENREGISTREZ LE SON ! Il n'y a rien de pire qu'une vidéo osu! sans la musique du jeu.
+-   Le raccourci de capture vidéo ne sera pas gênant;
+-   Si vous obtenez une vidéo de sortie avec un framerate variable, limitez-le à 30. Si ce n'est pas le cas, utilisez 60 FPS;
+-   Si vous obtenez une vidéo de sortie dont le framerate est faible, enregistrez le «en demi-taille». La vidéo correspondra à la moitié de la résolution à partir de laquelle elle a été enregistrée (vous pouvez également utiliser une résolution inférieure lors de l’enregistrement);
+-   Vous avez assez d'espace libre sur votre disque. Sinon, la vidéo finira plus tôt s'il n'y a pas assez d'espace pour la stocker;
+-   Le curseur n'apparait pas.
+-   VOUS ENREGISTREZ LE SON ! Il n'y a rien de pire qu'une vidéo osu! sans la musique du jeu.
 
 ## Enregistrez votre gameplay
 

@@ -31,6 +31,6 @@ With Loki/Thaehan's addition comes a number of upgrades to the Featured Artist l
 
 Keep your eyes and ears peeled as well - there's more artists coming very soon!
 
-And by soon, I mean *very* soon.
+And by soon, I mean _very_ soon.
 
 —Ephemeral

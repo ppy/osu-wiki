@@ -48,7 +48,7 @@ Don't take my word for it, listen to a small selection of some of the tracks now
     <source src="https://assets.ppy.sh/artists/34/previews/843.mp3" type="audio/mpeg">
 </audio>
 
---------
+* * *
 
 All of the above tracks, plus the entirety of his [first-ever EP release, Waterflow](https://tieff.bandcamp.com/releases) and more are available now over at [his Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/34).
 

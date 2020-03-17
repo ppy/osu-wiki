@@ -10,11 +10,11 @@ With a field of 12 teams being cut in half in this stage of the tournament, the 
 
 ### Navigation
 
-- [Mappool](#mappool)
-- [Tournament Matches](#matches)
-- [Looking Ahead](#ahead)
+-   [Mappool](#mappool)
+-   [Tournament Matches](#matches)
+-   [Looking Ahead](#ahead)
 
---------
+* * *
 
 At the conclusion of last week's matches, we had to pay our due respects to four teams — this week, the overall stakes would be substantially higher for those in the Losers Bracket, requiring two wins to make it into the finals.
 
@@ -28,13 +28,13 @@ Additionally, the semifinalist teams in the Winners Bracket also had some seriou
 
 I took the time to ask for the opinion of each Mappool Selector to see how their and opinions differentiated; these are some of the excerpts:
 
-***[juankristal:](https://osu.ppy.sh/users/443656)*** *The song choice was really good for semis, and the mappool covered all skillsets in a pretty good way - or at least in the way we wanted to be, especially on long notes. I am pretty proud of how the long note maps ended up working out. Just a bit sad that we only had three SV maps, but hey, many other maps had some SVs.*
+**_[juankristal:](https://osu.ppy.sh/users/443656)_** _The song choice was really good for semis, and the mappool covered all skillsets in a pretty good way - or at least in the way we wanted to be, especially on long notes. I am pretty proud of how the long note maps ended up working out. Just a bit sad that we only had three SV maps, but hey, many other maps had some SVs._
 
-***[Pope Gadget:](https://osu.ppy.sh/users/2288341)*** *I think we did a pretty solid job when it comes to not only map variety but song variety as well - quite happy with that. I forget the name of the player, but I think it surprised even us as the map selectors that a player purposefully avoided hitting those LNs (at the end of [LaChryma\<Re:Queen'M\>](https://osu.ppy.sh/beatmapsets/415886#mania/901050)) in order to focus on the trill. Selecting the map, I doubt any of us were expecting such a strategy to be carried out.*
+**_[Pope Gadget:](https://osu.ppy.sh/users/2288341)_** _I think we did a pretty solid job when it comes to not only map variety but song variety as well - quite happy with that. I forget the name of the player, but I think it surprised even us as the map selectors that a player purposefully avoided hitting those LNs (at the end of [LaChryma\\&lt;Re:Queen'M>](https://osu.ppy.sh/beatmapsets/415886#mania/901050)) in order to focus on the trill. Selecting the map, I doubt any of us were expecting such a strategy to be carried out._
 
 (That player who tactically dropped the long notes would be [Cunu](https://osu.ppy.sh/users/7190228), from France - more on that later!)
 
-***[Blocko:](https://osu.ppy.sh/users/4075092)*** *Better than quarterfinals. I think that Semifinals needed more SV maps, but we kinda ran out of luck looking for them. I think it was mentioned that they were a big component in Quarterfinals, plus we were lacking on those kinds of maps on this stage. The tiebreaker is much harder compared to the rest of the pool though, but we managed to keep things interesting and give it a bit of hype (I think).*
+**_[Blocko:](https://osu.ppy.sh/users/4075092)_** _Better than quarterfinals. I think that Semifinals needed more SV maps, but we kinda ran out of luck looking for them. I think it was mentioned that they were a big component in Quarterfinals, plus we were lacking on those kinds of maps on this stage. The tiebreaker is much harder compared to the rest of the pool though, but we managed to keep things interesting and give it a bit of hype (I think)._
 
 ### Mappool Statistics:
 
@@ -47,13 +47,14 @@ Anyone interested in the statistics of this mapoool, or any previous ones, can r
 ## <a name="matches" id="matches"></a>Tournament Matches
 
 ### Saturday:
+
 **The Semifinals stage opened the first of eight matches with a showdown between Sweden and Japan.** Boasting a stronger roster than the Swedish team, Japan quickly stacked on three points in their first-to-six bout. Looking poised to run away with the match, Sweden managed to halt the Japan steam-roller with a well timed pick of [The Flashbulb - Passage D](https://osu.ppy.sh/beatmapsets/475785#mania/1016508), taking the short technical pick by a relatively small margin. Alas, Sweden's attempts at continued strikes against their opponent were futile, as they were unable to keep up against Japan's final attack and broke their final pick, ending the match in a 6-1 result.
 
 ![](/wiki/shared/news/2017-09-07-osu-mania-4k-world-cup-semifinals-recap/SwedenJapan_game1.jpg)
 
 **Immediately following that was a contest between China and France**, a notable rematch of Group Stage where high-seeded France defeated top-seeded China 4-1, inevitably causing them to not only become second in their group, but also to find a quick exit from the Winners Bracket.
 
-In the second face-off of these two teams, China opened with a relentless assault, taking four of the six required points in the first four songs of the match. With brooms armed and at the ready for sweeping, France denied China the opportunity of a winless bout by responding back with a break point on [Kaneko Chiharu - Lachryma\<Re:Queen'M\>](https://osu.ppy.sh/beatmapsets/415886#mania/901050), with French player Cunu [tactically missing on the infamous trill/long note combination](https://clips.twitch.tv/BlatantSmokyWrenTF2John) at the end of the map, reducing the overall damage and securing a solid margin of victory. France continued the response to China's opening with a second consecutive point before being met with resistance, eventually leading to a match result favoring China, 6-2.
+In the second face-off of these two teams, China opened with a relentless assault, taking four of the six required points in the first four songs of the match. With brooms armed and at the ready for sweeping, France denied China the opportunity of a winless bout by responding back with a break point on [Kaneko Chiharu - Lachryma\\&lt;Re:Queen'M>](https://osu.ppy.sh/beatmapsets/415886#mania/901050), with French player Cunu [tactically missing on the infamous trill/long note combination](https://clips.twitch.tv/BlatantSmokyWrenTF2John) at the end of the map, reducing the overall damage and securing a solid margin of victory. France continued the response to China's opening with a second consecutive point before being met with resistance, eventually leading to a match result favoring China, 6-2.
 
 **The third match of the weekend was the first Winners Bracket match of the semifinal stage, between reigning champions South Korea, and runner-ups Brazil.** The match opened up with exceptional intensity — South Korea opened up their match with [IOSYS - Endless Tewi-ma Park](https://osu.ppy.sh/beatmapsets/392965#mania/855471) and was decided by one of the narrowest margins seen in the entire stage, with a distance of just over 2,100 points. With South Korea appearing within strike distance, Brazil would turn to the technical SV pick, [C-Show - ERROR CODE](https://osu.ppy.sh/beatmapsets/545342#mania/1155393) in order to capitalize against a noticeably weaker-than-normal team on the backs of cheetose being away for the round.
 
@@ -71,7 +72,7 @@ That did not stop them from going toe-to-toe with the prospective frontrunners, 
 
 **The final match of the weekend was the second Winners Bracket match of the stage, between United States and Chile.** Upon winning the roll, the Chile team boldly, and incorrectly opted into picking [Ekcle - The Impulsive State](https://osu.ppy.sh/beatmapsets/620962#mania/1364765) against a United States team that is well known for not steering away from SV maps, quickly finding themselves into a 1-0 deficit. Opening the match with increased confidence against a potentially threatening Chile team, the United States team continued with unbroken momentum, punishing their opponents song after song until no songs were left to be played, sending Chile to the Losers Bracket after a convincing 6-0 result.
 
---------
+* * *
 
 ### Sunday:
 
@@ -89,7 +90,7 @@ Continued trading along the United Kingdom's expected picks of speed and stamina
 
 ![](/wiki/shared/news/2017-09-07-osu-mania-4k-world-cup-semifinals-recap/ChinaUnitedKingdom_game5.jpg)
 
---------
+* * *
 
 As usual, if you have missed any of the matches for the past weekend, all VODs of the matches can be found on the [official osulive Twitch channel](https://www.twitch.tv/osulive/videos/all).
 
@@ -109,7 +110,7 @@ In the Winners Bracket will be the defending champions, South Korea, facing off 
 
 The United Kingdom and Japan teams have progressed in the Losers Bracket as a result of their well-played matches, where they will face off against Brazil and Chile respectively in their first of three steps to climb back to the grand finals, where the winners of those corresponding showdowns will face each other. From there, they will await their opponent based off of the results of the Winners Bracket match between the South Korea and United States team, facing off against the loser for the chance to take out the winner in the Grand Finals.
 
---------
+* * *
 
 **Join us on the [osu!live Twitch channel](https://www.twitch.tv/osulive/) starting at 14:00 UTC on Saturday, September 9th for the first two Losers Bracket matches!** Japan and Chile will begin week 1 of the Finals, fighting each other on this brutally difficult Finals mappool. Immediately after that will be the United Kingdom and Brazil teams fighting it out to push their way through the bracket.
 

@@ -3,14 +3,13 @@ layout: main_page
 ---
 
 <!-- Do not add any empty lines inside this div. -->
+
 <div class="wiki-main-page__blurb">
 Welcome to the osu! wiki, a project containing a wide range of osu! related information.
 </div>
 
-
 <div class="wiki-main-page__panels">
 <div class="wiki-main-page-panel">
-
 
 # Getting Started
 
@@ -19,14 +18,12 @@ Welcome to the osu! wiki, a project containing a wide range of osu! related info
 </div>
 <div class="wiki-main-page-panel">
 
-
 # Gameplay
 
 [FAQ](/wiki/FAQ) • [Multi](/wiki/Multi) • [Game Modes](/wiki/Game_Modes): ([osu!](/wiki/Game_Modes/osu!) • [osu!taiko](/wiki/Game_Modes/osu!taiko) • [osu!catch](/wiki/Game_Modes/osu!catch) • [osu!mania](/wiki/Game_Modes/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">
-
 
 # [Beatmap Editor](/wiki/Beatmap_Editor)
 
@@ -35,7 +32,6 @@ Sections: ([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Ed
 </div>
 <div class="wiki-main-page-panel">
 
-
 # Online Editing and Ranking
 
 [Submission](/wiki/Submission) • [Beatmap Approval](/wiki/Beatmap_ranking_procedure) • [Modding](/wiki/Modding) • [Ranking Criteria](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
@@ -43,14 +39,12 @@ Sections: ([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Ed
 </div>
 <div class="wiki-main-page-panel">
 
-
 # World of osu!
 
 [Glossary](/wiki/Glossary) • [Tournaments](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projects](/wiki/Projects)
 
 </div>
 <div class="wiki-main-page-panel">
-
 
 # People
 

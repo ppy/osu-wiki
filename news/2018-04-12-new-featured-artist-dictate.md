@@ -64,7 +64,7 @@ Here's a sample of what we've got available:
 
 > Contemplative but ever building, Melodik repeats but does not bore, breakbeat-tinged percussion fighting with grand bassy hits for prominence.
 
-*A short version of this track is also available.*
+_A short version of this track is also available._
 
 ### Slug
 
@@ -90,7 +90,7 @@ Here's a sample of what we've got available:
 
 > Dark, looming synths are peeled bare by percussive noise into a tribal themed beat, all beset by Dictate's classic mastery of bass.
 
--------
+* * *
 
 All the tracks listed above (and on [his Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/21)) are available **now** for mapping, totally free for use in osu!. Worry less, and map more!
 

@@ -23,9 +23,9 @@ Positive integers will move the numbers nearer to each other while negative valu
 Another function in the skin.ini is HitCirclePrefix.
 It can be used to derivate in the naming scheme of the numbers.
 
-- Example: Using "HitCirclePrefix: character" lets osu! search for images containing "character-#" in your skin's folder and load these instead of the images containing "default-#" for the hitcircle numbers.
-  - **This can be combined with pathing**: "HitCirclePrefix: numbers/character" lets osu! search for the folder "numbers" in your skin's root folder and searches for images containing "character-#" in this folder.
-    If found osu! will load the images from there instead of the images containing "default-#" from the root folder for the hitcircle numbers.
+-   Example: Using "HitCirclePrefix: character" lets osu! search for images containing "character-#" in your skin's folder and load these instead of the images containing "default-#" for the hitcircle numbers.
+    -   **This can be combined with pathing**: "HitCirclePrefix: numbers/character" lets osu! search for the folder "numbers" in your skin's root folder and searches for images containing "character-#" in this folder.
+        If found osu! will load the images from there instead of the images containing "default-#" from the root folder for the hitcircle numbers.
 
 **Examples**
 

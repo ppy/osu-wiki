@@ -66,7 +66,7 @@ Here's a sneak musical peek of all six:
     <source src="https://assets.ppy.sh/artists/39/previews/942.mp3" type="audio/mpeg">
 </audio>
 
----------
+* * *
 
 As always, the above tracks are available over at [**James Landino's Featured Artist listing**](https://osu.ppy.sh/beatmaps/artists/39), and are 100% free for use in mapping. Go forth and map his wonderful work, guilt and risk free.
 
@@ -77,5 +77,3 @@ Keep your eyes and ears peeled for more details on upcoming releases — and res
 We'll let you figure out what those might be!
 
 —Ephemeral
-
-

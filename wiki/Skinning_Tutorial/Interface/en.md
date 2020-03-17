@@ -95,19 +95,19 @@ Skin versions 2.2+ add the ability to have a small preview window with the main 
 
 They are used in three notable places:
 
-- [the scoreboard when playing](fs/menu-button-background_ex0.jpg)
-- [the scoreboard in the song selection menu](fs/menu-button-background_ex1.jpg)
-- [Beatmaplist in song select (with thumbnails)](fs/menu-button-background_ex2.jpg)
+-   [the scoreboard when playing](fs/menu-button-background_ex0.jpg)
+-   [the scoreboard in the song selection menu](fs/menu-button-background_ex1.jpg)
+-   [Beatmaplist in song select (with thumbnails)](fs/menu-button-background_ex2.jpg)
 
 While making a menu-button-background you must consider some of these things:
 
-- Don't make it too large because it will look ugly when things start to overlap.
-- It's coloured differently, try making it grayscaled or just avoid using too much of dark colours.
-- You can try to be clever while making "bars" for songs names.
-- You can change the colours of text used, look into skin.ini part for SongSelectInactiveText and SongSelectActiveText
-- osu! adds a bit of transparency to the background.
-- The thumbnails are placed beneath the menu-button background and will not move it to the right.
-  The currently selected map's thumbnail is placed above the menu-button-background.
+-   Don't make it too large because it will look ugly when things start to overlap.
+-   It's coloured differently, try making it grayscaled or just avoid using too much of dark colours.
+-   You can try to be clever while making "bars" for songs names.
+-   You can change the colours of text used, look into skin.ini part for SongSelectInactiveText and SongSelectActiveText
+-   osu! adds a bit of transparency to the background.
+-   The thumbnails are placed beneath the menu-button background and will not move it to the right.
+    The currently selected map's thumbnail is placed above the menu-button-background.
 
 [![](pr/menu-button-background_0.jpg)](fs/menu-button-background_0.jpg "Click to view full size")
 _Default skin_
@@ -247,7 +247,7 @@ _[Soda](https://osu.ppy.sh/community/forums/topics/220809)_
 
 ### Scorebar
 
-*Also known as the lifebar*
+_Also known as the lifebar_
 
 This is troubling for most of the skinners if they want to make lifebar different than the original.
 That's because scorebar-colour has different anchor position than scorebar-background.
@@ -256,12 +256,11 @@ Looking at [this image](fs/lifebar_ex0.jpg), the blue lines show the anchor posi
 Also you don’t need to keep length of the lifebar, you can make it shorter or longer (for widescreen).
 It should be noted that the scorebar-colour **can** be animated.
 
-The interesting thing about scorebar-background is that it has no the size restrictions. Because of this, you *can* use to make some kind of border for combo or score.
+The interesting thing about scorebar-background is that it has no the size restrictions. Because of this, you _can_ use to make some kind of border for combo or score.
 Like [this skin here](fs/lifebar_ex2.jpg).
 
 You can see that the score (upper-right corner) is blocked while the combos (bottom-left corner) has a border.
 However, doing this is heavily discouraged due to verious ratio aspects that you'll need to fit.
-
 
 Skin version 1.0 has scorebar-ki/kidanger/kidanger2.
 These are part of lifebar that goes with your actual life.
@@ -285,9 +284,9 @@ Here's how positioning of counts works:
 
 ![](fs/countdown-v1_ex0.png)
 
-- Count 3 - Anchor position at top left side. Left side of picture will start here.
-- Count 2 - Anchor position at top right side. Right side of picture will start here.
-- Count 1 - Anchor position at centre of screen. Centre of your picture will be here.
+-   Count 3 - Anchor position at top left side. Left side of picture will start here.
+-   Count 2 - Anchor position at top right side. Right side of picture will start here.
+-   Count 1 - Anchor position at centre of screen. Centre of your picture will be here.
 
 With this you are able to create many different countdowns.
 But you need to remember about how they are layered.
@@ -301,7 +300,6 @@ _Default skin (v1.0)_
 
 [![](pr/countdown-v1_1.gif "Click to view full size")](fs/countdown-v1_1.gif)
 _[Reisen Udongein Inaba](https://osu.ppy.sh/community/forums/topics/34563)_
-
 
 **For skinning versions 2.0+**
 
@@ -375,8 +373,8 @@ Note that positive integers will move the numbers closer towards each other, whi
 
 With the skin.ini, `ScorePrefix` allows you to use custom paths to link to the images.
 
-- This can be combined with pathing: `ScorePrefix: numbers/character` lets osu! search for the folder "numbers" in your skin's folder and searches for images containing "character-#" in this folder.
-  If found osu! will load the images from there instead of the images containing "score-#" from the root folder for every score related value.
+-   This can be combined with pathing: `ScorePrefix: numbers/character` lets osu! search for the folder "numbers" in your skin's folder and searches for images containing "character-#" in this folder.
+    If found osu! will load the images from there instead of the images containing "score-#" from the root folder for every score related value.
 
 **Be careful**, this custom pathing only affects the score numbers,
 not the combo numbers (assuming you only modify the score numbers, the combo numbers will use the default score numbers).
@@ -409,20 +407,20 @@ If made too large of a scorebar, it might cover them.
 
 The combo numbers are used for all the current combo counters in all game modes.
 
-- osu!standard: bottom left corner
-- osu!taiko: above the taiko drum
-- osu!catch: above the catcher (moves along with catcher)
-- osu!mania: at the top of the columns (can be moved up or down manually with [skin.ini](/wiki/Skinning/Skin.ini))
+-   osu!standard: bottom left corner
+-   osu!taiko: above the taiko drum
+-   osu!catch: above the catcher (moves along with catcher)
+-   osu!mania: at the top of the columns (can be moved up or down manually with [skin.ini](/wiki/Skinning/Skin.ini))
 
 **By default, the score number image set are used as the combo number images set.**
 
 This default can be changed in the [skin.ini](/wiki/Skinning/Skin.ini) file.
 To do this, change the `ComboPrefix` command (under the `[Fonts]` section) to the combo image name.
 
-- If you want to use this you need to include a new number image set with a prefix.
-  - This prefix should be called something other than "Score" or "Default" to prevent confusion.
-    Afterwards, set `ComboPrefix` to that new prefix.
-  - Custom pathing could also be used here.
+-   If you want to use this you need to include a new number image set with a prefix.
+    -   This prefix should be called something other than "Score" or "Default" to prevent confusion.
+        Afterwards, set `ComboPrefix` to that new prefix.
+    -   Custom pathing could also be used here.
 
 Just like the default numbers and the score numbers, you can also use `ComboOverlap` to adjust the space between numbers.
 Where positive integers will move the numbers closer to each other, while negative integers will add more space between numbers.
@@ -438,7 +436,6 @@ _[Quadrilate-don](https://osu.ppy.sh/community/forums/topics/346897)_
 
 ![](fs/combo_3.jpg)
 _[Soda](https://osu.ppy.sh/community/forums/topics/220809)_
-
 
 ### FPS
 
@@ -514,9 +511,9 @@ _(unknown)_
 
 There are 3 new arrows that will override the `play-warningarrow.png` on their respective screens.
 
-- arrow-generic: this is the turn indicator during TAG multiplayer games.
-- arrow-pause: this is the arrow in the pause and fail screens **(Note: it won't be tinted blue anymore)**.
-- arrow-warning: this is the arrow that appears at the end of breaks. **(Note: it won't be tinted red)**.
+-   arrow-generic: this is the turn indicator during TAG multiplayer games.
+-   arrow-pause: this is the arrow in the pause and fail screens **(Note: it won't be tinted blue anymore)**.
+-   arrow-warning: this is the arrow that appears at the end of breaks. **(Note: it won't be tinted red)**.
 
 The most useful feature of these new images are that you can use 3 different arrows!
 In the past you could only use one image and that they would have been tinted differently.
@@ -588,7 +585,7 @@ However, the default is `0,0,0` (black).
 The input overlay comes in two parts:
 
 | File Name                   | Description                                                         | Resolution (BxH) | @2x Resolution (BxH) |
-|-----------------------------|---------------------------------------------------------------------|------------------|----------------------|
+| --------------------------- | ------------------------------------------------------------------- | ---------------- | -------------------- |
 | inputoverlay-background.png | Defines the overall background for the input overlay                | 193x90           | 386x180              |
 | inputoverlay-key.png        | Defines the "key" image for each of the 4 keys in the input overlay | 46x46            | 92x92                |
 
@@ -601,17 +598,17 @@ There are many parts inside the ranking screen, so below is the brake-up of what
 
 Using the image above, here are the meanings:
 
-| \# on image | Name                           | Description                                                                                                                                                                                                                                                                                                                                                                                   |
-|-------------|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1           | Ranking Letters                | It's not hard to do them. Just don't make them freaking huge. Remember: `ranking-X` = SS, `ranking-SH` = Silver S, `ranking-XH` = Silver SS.                                                                                                                                                                                                                                                  |
-| 2           | Retry, Replay button           | Depending on your Version in the skin.ini, either ranking-retry.png/ranking-replay.png (Version: 1.0) or pause-retry.png/pause-replay.png (Version: 2.0 or above) will be used. Retry - play the map one more time. Replay - watch your amazing play.                                                                                                                                         |
-| 3           | Ranking-accuracy and max combo | As the name says. Personally I recommend to make them blank and add "Max Combo" and "Accuracy" by yourself on raking-panel. It's just easier to position them.                                                                                                                                                                                                                                |
-| 4           | Ranking-graph                  | This one is kinda size and position restricted. Easiest way to make it, is by using default one, since you won't have problems with correct position to fit actually showed graph.                                                                                                                                                                                                            |
-| 5           | Ranking-perfect                | You can make it in whatever way you want, add text or picture. Be aware that sometimes you will need to do minor positioning.                                                                                                                                                                                                                                                                 |
-| 6           | Ranking-title                  | Title of this screen. Should say "RANK" or "Your Rank".                                                                                                                                                                                                                                                                                                                                       |
-| 7           | Ranking-winner                 | A small box that shows winner of multiplayer match.                                                                                                                                                                                                                                                                                                                                           |
-| 8           | Ranking-panel                  | The heart (:3) of ranking. It's not restricted by size (but is restricted by position), so feel free to experiment. Like I said in "score numbers" part, you must remember that is hard to fit large numbers into ranking spaces. I recommend to test your ranking on long maps that have high combo (for example [paraparaMAX I](https://osu.ppy.sh/beatmapsets/972), just check out someone's score). |
-| 9           | Mod icons                      | This is where the enabled mod icons go                                                                                                                                                                                                                                                                                                                                                        |
+| # on image | Name                           | Description                                                                                                                                                                                                                                                                                                                                                                                             |
+| ---------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1          | Ranking Letters                | It's not hard to do them. Just don't make them freaking huge. Remember: `ranking-X` = SS, `ranking-SH` = Silver S, `ranking-XH` = Silver SS.                                                                                                                                                                                                                                                            |
+| 2          | Retry, Replay button           | Depending on your Version in the skin.ini, either ranking-retry.png/ranking-replay.png (Version: 1.0) or pause-retry.png/pause-replay.png (Version: 2.0 or above) will be used. Retry - play the map one more time. Replay - watch your amazing play.                                                                                                                                                   |
+| 3          | Ranking-accuracy and max combo | As the name says. Personally I recommend to make them blank and add "Max Combo" and "Accuracy" by yourself on raking-panel. It's just easier to position them.                                                                                                                                                                                                                                          |
+| 4          | Ranking-graph                  | This one is kinda size and position restricted. Easiest way to make it, is by using default one, since you won't have problems with correct position to fit actually showed graph.                                                                                                                                                                                                                      |
+| 5          | Ranking-perfect                | You can make it in whatever way you want, add text or picture. Be aware that sometimes you will need to do minor positioning.                                                                                                                                                                                                                                                                           |
+| 6          | Ranking-title                  | Title of this screen. Should say "RANK" or "Your Rank".                                                                                                                                                                                                                                                                                                                                                 |
+| 7          | Ranking-winner                 | A small box that shows winner of multiplayer match.                                                                                                                                                                                                                                                                                                                                                     |
+| 8          | Ranking-panel                  | The heart (:3) of ranking. It's not restricted by size (but is restricted by position), so feel free to experiment. Like I said in "score numbers" part, you must remember that is hard to fit large numbers into ranking spaces. I recommend to test your ranking on long maps that have high combo (for example [paraparaMAX I](https://osu.ppy.sh/beatmapsets/972), just check out someone's score). |
+| 9          | Mod icons                      | This is where the enabled mod icons go                                                                                                                                                                                                                                                                                                                                                                  |
 
 [![](pr/ranking-screen_0.jpg)](fs/ranking-screen_0.jpg "Click to view full size")
 _Default skin_
@@ -633,19 +630,19 @@ These are the letter grades given based on your accuracy.
 
 ##### Small ranking letters
 
-Smaller versions of the ranking letters are *often* designed like their larger counterparts, but on a much smaller scale to fit in certain areas.
+Smaller versions of the ranking letters are _often_ designed like their larger counterparts, but on a much smaller scale to fit in certain areas.
 
 Currently, these are used in 3 places:
 
--    on a beatmap's ranking to the left
--    on the song select panels
--    near the accuracy display during longer breaks in beatmap.
+-   on a beatmap's ranking to the left
+-   on the song select panels
+-   near the accuracy display during longer breaks in beatmap.
 
 <!-- TODO images -->
 
 ### Offset Wizard
 
-Interestingly, there is an element here that you *could* change.
+Interestingly, there is an element here that you _could_ change.
 It is the bar that shows the current tick of each beat in a beatmap, while offseting.
 
 <!-- TODO images -->

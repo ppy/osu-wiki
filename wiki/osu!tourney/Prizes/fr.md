@@ -3,9 +3,10 @@
 _Page principale: [osu!tourney](/wiki/osu!tourney)_
 
 Nous pouvons offrir des badges de profil aux gagnants des tournois remplissant les conditions suivantes :
-- Le tournoi en est au moins à sa deuxième édition.
-- L'équipe d'organisation ne participe pas à son propre tournoi.
-- Le tournoi est organisé quatre fois ou moins pas an (saisonnier).
+
+-   Le tournoi en est au moins à sa deuxième édition.
+-   L'équipe d'organisation ne participe pas à son propre tournoi.
+-   Le tournoi est organisé quatre fois ou moins pas an (saisonnier).
 
 Envoyez un email à tournaments@ppy.sh si votre tournoi remplit ces critères.
 

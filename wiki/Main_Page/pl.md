@@ -6,14 +6,12 @@ outdated: true
 <div class="wiki-main-page__panels">
 <div class="wiki-main-page-panel wiki-main-page-panel--full">
 
-
 # Podstawy
 
 [Na początek](/wiki/Welcome) • [Rejestracja](/wiki/Registration) • [Instalacja](/wiki/Installation) • [Interfejs gry](/wiki/Interface) • [Opcje](/wiki/Options) • [Skróty klawiszowe](/wiki/Shortcut_key_reference) • [Lista artykułów](/wiki/Sitemap) • [Poradniki](/wiki/Guides) • [Centrum pomocy](/wiki/Help_Center)
 
 </div>
 <div class="wiki-main-page-panel">
-
 
 # Rozgrywka
 
@@ -22,14 +20,12 @@ outdated: true
 </div>
 <div class="wiki-main-page-panel">
 
-
 # [Edytor beatmap](/wiki/Beatmap_Editor)
 
 Sekcje: ([Kompozycja](/wiki/Beatmap_Editor/Compose) • [Wygląd](/wiki/Beatmap_Editor/Design) • [Timing](/wiki/Beatmap_Editor/Timing) • [Ustawienia piosenki](/wiki/Beatmap_Editor/Song_Setup)) • Elementy: ([Podzielnik beatu](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Odległość między obiektami](/wiki/Beatmap_Editor/Distance_Snap)) • [Tworzenie beatmap](/wiki/Beatmapping) • [Poziomy trudności](/wiki/Difficulties) • [Obiekty](/wiki/Hit_Objects) • [Techniki w tworzeniu beatmap](/wiki/Mapping_Techniques) • [Tworzenie scenorysów](/wiki/Storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">
-
 
 # Edytowanie online i nadawanie statusu rankingowego
 
@@ -38,14 +34,12 @@ Sekcje: ([Kompozycja](/wiki/Beatmap_Editor/Compose) • [Wygląd](/wiki/Beatmap_
 </div>
 <div class="wiki-main-page-panel">
 
-
 # Świat osu!
 
 [Słownik](/wiki/Glossary) • [Turnieje](/wiki/Tournaments) • [Tworzenie skórek](/wiki/Skinning) • [Projekty](/wiki/Projects)
 
 </div>
 <div class="wiki-main-page-panel wiki-main-page-panel--full">
-
 
 # Ludzie
 

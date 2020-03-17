@@ -1,18 +1,19 @@
 ---
 outdated: true
 ---
+
 <!-- TODO: outdated because a lot of the tools mentioned here are dated and there are better alternatives -->
 
 # File compression guide
 
-*This article was adapted from [a forum thread by ziin](https://osu.ppy.sh/community/forums/topics/60002).*
+_This article was adapted from [a forum thread by ziin](https://osu.ppy.sh/community/forums/topics/60002)._
 
 Each osu! beatmapset has a file size limit dictated by its beatmaps' total lengths. In this tutorial I will tell you smart ways to get your beatmap under that limit.
 
 There are 2 types of compression. **Lossy** and **Lossless** compression.
 
-- **Lossless** implies that the quality never degrades and can be repeatedly compressed or decompressed.
-- **Lossy** is a much more powerful form of compression which sacrifices quality for space/processor demand.
+-   **Lossless** implies that the quality never degrades and can be repeatedly compressed or decompressed.
+-   **Lossy** is a much more powerful form of compression which sacrifices quality for space/processor demand.
 
 ## Zip
 
@@ -20,13 +21,13 @@ The `.osz` package is actually a `.zip` file, and will compress your beatmap, al
 
 ## Video
 
-Videos are usually where people go wrong. There are thousands of video codecs out there, and *believe it or not, YouTube is usually a terrible place to get videos*. For the best quality, you should always downsize from a high resolution source (720p YouTube videos are fine for this).
+Videos are usually where people go wrong. There are thousands of video codecs out there, and _believe it or not, YouTube is usually a terrible place to get videos_. For the best quality, you should always downsize from a high resolution source (720p YouTube videos are fine for this).
 
 h.264 and XviD are very good codecs to use but like most video codecs, they are lossy. So do not re-encode multiple times, but encode from the high resolution source.
 
 ### Step-By-Step Guide
 
-*This section was adapted from [a forum thread by ziin](https://osu.ppy.sh/community/forums/topics/58235).*
+_This section was adapted from [a forum thread by ziin](https://osu.ppy.sh/community/forums/topics/58235)._
 
 #### Precursor/Notes
 
@@ -34,42 +35,45 @@ Editing videos with [avidemux](http://avidemux.sourceforge.net/download.html)
 
 #### Removing audio
 
-1. Open avidemux
-2. Drag and drop the file into avidemux
-3. If the following shows up because the video is h.264 (h.264 is the best right now):
-   1. Press either (no is better unless the program crashes).
+1.  Open avidemux
 
-   ![Tutorial Image 1](img/CV_01.png "Tutorial Image 1")
+2.  Drag and drop the file into avidemux
 
-4. Select Audio -> Main Track
+3.  If the following shows up because the video is h.264 (h.264 is the best right now):
 
-   ![Tutorial Image 2](img/CV_02.png "Tutorial Image 2")
+    1.  Press either (no is better unless the program crashes).
 
-5. Select Audio Source -> None
+    ![Tutorial Image 1](img/CV_01.png "Tutorial Image 1")
 
-   ![Tutorial Image 3](img/CV_03.png "Tutorial Image 3")
+4.  Select Audio -> Main Track
+
+    ![Tutorial Image 2](img/CV_02.png "Tutorial Image 2")
+
+5.  Select Audio Source -> None
+
+    ![Tutorial Image 3](img/CV_03.png "Tutorial Image 3")
 
 #### Encoding Video
 
-1. Make sure that both the video and audio are on "Copy".
+1.  Make sure that both the video and audio are on "Copy".
 
-   ![Tutorial Image 4](img/CV_04.png "Tutorial Image 4")
+    ![Tutorial Image 4](img/CV_04.png "Tutorial Image 4")
 
-2. If you want to instead re-encode the file, then choose "MPEG-4 AVC" to pick h.264.
+2.  If you want to instead re-encode the file, then choose "MPEG-4 AVC" to pick h.264.
 
-   ![Tutorial Image 5](img/CV_05.png "Tutorial Image 5")
+    ![Tutorial Image 5](img/CV_05.png "Tutorial Image 5")
 
-3. To resize the image, click on "filters" and "MPlayer resize" then input how much you want to resize. Most of the time you should keep this at 800x600 or 853x480 (though I use 800x450 for widescreen).
+3.  To resize the image, click on "filters" and "MPlayer resize" then input how much you want to resize. Most of the time you should keep this at 800x600 or 853x480 (though I use 800x450 for widescreen).
 
-   ![Tutorial Image 6](img/CV_06.png "Tutorial Image 6")
+    ![Tutorial Image 6](img/CV_06.png "Tutorial Image 6")
 
-4. To actually reduce the filesize of the video, there are a few options, all of which are in the "configure" menu
+4.  To actually reduce the filesize of the video, there are a few options, all of which are in the "configure" menu
 
-   ![Tutorial Image 7](img/CV_07.png "Tutorial Image 7")
+    ![Tutorial Image 7](img/CV_07.png "Tutorial Image 7")
 
-5. The correct way is to use a constant rate factor (usually between 30 and 36) since single pass encodes are of higher quality. You can also use a 2 pass encode which will set the video size (I suggest ~7 MB) or Average bitrate (I suggest 400-800 kbps). Avidemux doesn't like saving h.264 flv files, but works fine with avi files. Since osu! plays both just fine (and avi is slightly smaller than flv), save the file as an avi.
+5.  The correct way is to use a constant rate factor (usually between 30 and 36) since single pass encodes are of higher quality. You can also use a 2 pass encode which will set the video size (I suggest ~7 MB) or Average bitrate (I suggest 400-800 kbps). Avidemux doesn't like saving h.264 flv files, but works fine with avi files. Since osu! plays both just fine (and avi is slightly smaller than flv), save the file as an avi.
 
-   ![Tutorial Image 8](img/CV_08.png "Tutorial Image 8")
+    ![Tutorial Image 8](img/CV_08.png "Tutorial Image 8")
 
 #### Save
 

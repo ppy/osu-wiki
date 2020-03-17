@@ -20,8 +20,8 @@ Esperamos que os novos jogadores vão encontrar esses vídeos informativos, e aj
 
 Clique na imagem do episódio que deseja assistir.
 
-| Episódio                                                                                         | Descrição                                                        |
-|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
+| Episódio                                                                               | Descrição                                                        |
+| -------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | [![](img/Academy_1.png)](https://www.youtube.com/watch?v=cz522ZAs5aQ "Episódio 1")     | Instalação/Criação de Conta!                                     |
 | [![](img/Academy_2.png)](https://www.youtube.com/watch?v=mswLEXK0eDk "Episódio 2")     | Jogabilidade Standard/Ajustes de configuração!                   |
 | [![](img/Academy_3.png)](https://www.youtube.com/watch?v=UAomychlbic "Episódio 3")     | Padrões de Teclas/Jogabilidade de osu!mania (por Loliflan)!      |

@@ -46,7 +46,7 @@ Take a listen:
     <source src="https://assets.ppy.sh/artists/47/previews/1211.mp3" type="audio/mpeg">
 </audio>
 
----------
+* * *
 
 Just like every release, you can find all of these tracks and **MORE** fully-timed and nicely packaged for your mapping convenience at [**Æther Realm**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/47), 100% free for your mapping pleasure. 
 

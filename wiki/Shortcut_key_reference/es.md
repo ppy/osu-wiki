@@ -50,9 +50,9 @@ En osu!, hay varios atajos que pueden ser utilizados en juego y en los respectiv
 -   **F5**: Refrescar la lista de canciones (modo de reparación)
 -   **Shift+Delete**: Borrar el mapa actual
 -   **Ctrl+(1/2/3/4)**: Cambia a ![osu! Icon](/wiki/shared/mode/osu.png "osu! Icon") [osu! Standard](/wiki/Game_Modes/osu!)/ ![osu!taiko Icon](/wiki/shared/mode/taiko.png "osu!taiko Icon") [Taiko](/wiki/Game_Modes/osu!taiko) / ![osu!catch Icon](/wiki/shared/mode/catch.png "osu!catch Icon") [Catch the Beat](/wiki/Game_Modes/osu!catch) / ![osu!mania Icon](/wiki/shared/mode/mania.png "osu!mania Icon") [osu!mania](/wiki/Game_Modes/osu!mania) los modos de juego respectivamente.
--   **Ctrl+Enter**: Juega el mapa actual con el mod </wiki/Auto>
+-   **Ctrl+Enter**: Juega el mapa actual con el mod &lt;/wiki/Auto>
 -   **Ctrl+Shift+Enter**: Juega el mapa actual con el mod Cinema
--   **Ctrl+A**: Activa/Desactiva el mod </wiki/Auto>
+-   **Ctrl+A**: Activa/Desactiva el mod &lt;/wiki/Auto>
 -   **Ctrl+(F3/F4)** o **Ctrl+(+/-)**: Aumenta / Disminuye la velocidad de osu!mania (solamente en el modo osu!mania)
 -   **Ctrl+Retroceso**: Borra la última palabra (mientras se usa el buscador)
 -   **Arriba/Abajo**: Cambia la selección de dificultades en el mismo beatmap
@@ -72,7 +72,7 @@ Nota: Mods especiales tales como [Perfect](/wiki/Game_Modifiers) o [Nightcore](/
 -   **W**: [No Fail](/wiki/Game_Modifiers)
 -   **E**: [Half-Time](/wiki/Game_Modifiers)
 
-------------------------------------------------------------------------
+* * *
 
 -   **A**: [Hard Rock](/wiki/Game_Modifiers)
 -   **S**: [Sudden Death](/wiki/Game_Modifiers)
@@ -80,7 +80,7 @@ Nota: Mods especiales tales como [Perfect](/wiki/Game_Modifiers) o [Nightcore](/
 -   **F**: [Hidden](/wiki/Game_Modifiers)
 -   **G**: [Flashlight](/wiki/Game_Modifiers)
 
-------------------------------------------------------------------------
+* * *
 
 -   **X**: [Relax](/wiki/Game_Modifiers) (No hace efecto en osu!mania en 4/5/6/7/8K mod)
 -   **C**: [Auto-Pilot](/wiki/Game_Modifiers)

@@ -12,46 +12,46 @@ It is quite difficult to provide support when every kind of issue is grouped und
 
 The actual audio track of the beatmap rewinds in time, or glitches out. Basically, when the game lags, you can hear it in the audio. When diagnosing or reporting, it may help to:
 
-- Check whether it happens on all available audio devices. If you're using a USB headset, try connecting via analog output on your PC instead.
-- Check whether turning on "Audio compatibility mode" in settings helps.
+-   Check whether it happens on all available audio devices. If you're using a USB headset, try connecting via analog output on your PC instead.
+-   Check whether turning on "Audio compatibility mode" in settings helps.
 
 ### Spike frame
 
 During gameplay, everything on the screen stops for long enough to be detrimental to the gameplay experience. This may happen more than once, at random or at consistent intervals. When diagnosing or reporting, it may help to:
 
-- Count how many times it happens in an average play session.
-- Check whether it always happens.
-- Check how often it happens, and whether it's at a consistent interval.
-- Check whether it still happens straight after a PC restart.
-- Try closing any application which shows overlays on the game (Discord, Steam, NVIDIA Shadowplay etc.)
-- Make sure you have [game mode](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10) enabled. It allows Windows to provide dedicated cores and resources to osu!.
-- Open task manager and order the list (under Details) by CPU. Look for any high CPU usage when spikes occur, for instance by a background virus or malware scanner. You can run osu! windowed or leave task manager on a second display to diagnose this while you are playing or running a beatmap in autoplay.
+-   Count how many times it happens in an average play session.
+-   Check whether it always happens.
+-   Check how often it happens, and whether it's at a consistent interval.
+-   Check whether it still happens straight after a PC restart.
+-   Try closing any application which shows overlays on the game (Discord, Steam, NVIDIA Shadowplay etc.)
+-   Make sure you have [game mode](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10) enabled. It allows Windows to provide dedicated cores and resources to osu!.
+-   Open task manager and order the list (under Details) by CPU. Look for any high CPU usage when spikes occur, for instance by a background virus or malware scanner. You can run osu! windowed or leave task manager on a second display to diagnose this while you are playing or running a beatmap in autoplay.
 
 ### Input latency
 
 There is a noticeable delay between tapping on the keyboard or moving your mouse or tablet pen, and seeing a resulting action on the screen. When diagnosing or reporting, it may help to:
 
-- Check whether it happens on all input devices, or one specifically.
-- If you are using non-official drivers, try switching to official ones instead.
-- Make sure you are running osu! in exclusive fullscreen mode. Running windowed or borderless adds up to one frame of latency.
+-   Check whether it happens on all input devices, or one specifically.
+-   If you are using non-official drivers, try switching to official ones instead.
+-   Make sure you are running osu! in exclusive fullscreen mode. Running windowed or borderless adds up to one frame of latency.
 
 ### Loss of control
 
 During gameplay, one or more input devices stop responding. Everything on screen moves correctly but it’s not possible to play properly until control returns. When diagnosing or reporting, it may help to:
 
-- Press Ctrl-F11 to see the frame time display graph. Check whether there is a lot of white on the graph when this occurs (this means another app or driver on your system is using too much CPU time, delaying input).
+-   Press Ctrl-F11 to see the frame time display graph. Check whether there is a lot of white on the graph when this occurs (this means another app or driver on your system is using too much CPU time, delaying input).
 
 ### Low frame rate
 
 During gameplay, the frame rate is unable to keep up, resulting in jittery and awkward movement of objects on the screen. This can also result in higher perceived input latency. When diagnosing or reporting, it may help to:
 
-- Check whether it still happens straight after a PC restart.
-- Try closing any application which shows overlays on the game (Discord, Steam, NVIDIA Shadowplay etc.).
-- Make sure you're not forcing vsync on at your display drivers (it should be set to "off" or "application preference").
-- Try changing frame limiter and see if it improves the situation.
-- Make sure you are running osu! in exclusive (not borderless) fullscreen mode. This will always improve performance.
-- Make sure you have [game mode](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10) enabled. It allows windows to provide dedicated cores and resources to osu!.
-- Open task manager and order the list (under Details) by CPU. Look for any high CPU usage during periods of low frame rate, for instance by a background virus or malware scanner. You can run osu! windowed or leave task manager on a second display to diagnose this while you are playing or running a beatmap in autoplay.
+-   Check whether it still happens straight after a PC restart.
+-   Try closing any application which shows overlays on the game (Discord, Steam, NVIDIA Shadowplay etc.).
+-   Make sure you're not forcing vsync on at your display drivers (it should be set to "off" or "application preference").
+-   Try changing frame limiter and see if it improves the situation.
+-   Make sure you are running osu! in exclusive (not borderless) fullscreen mode. This will always improve performance.
+-   Make sure you have [game mode](https://www.windowscentral.com/how-enable-disable-game-mode-windows-10) enabled. It allows windows to provide dedicated cores and resources to osu!.
+-   Open task manager and order the list (under Details) by CPU. Look for any high CPU usage during periods of low frame rate, for instance by a background virus or malware scanner. You can run osu! windowed or leave task manager on a second display to diagnose this while you are playing or running a beatmap in autoplay.
 
 ## Frame Limiters
 
@@ -81,8 +81,8 @@ This is a frame limiter which does nothing to limit the frame rate. osu! will re
 
 While this may seem like the best option (and indeed can be, if your hardware can support it), there are a few things you should consider:
 
-- By rendering more frames, there’s a higher potential of overhead from garbage collection.
-- By pushing your CPU and GPU to the limit, there’s a chance they will throttle, lowering your overall performance.
-- GPUs generally aren’t meant to render 1000+ frames per second, so unexpected behaviour may occur, including lower performance or higher latency than otherwise attainable.
+-   By rendering more frames, there’s a higher potential of overhead from garbage collection.
+-   By pushing your CPU and GPU to the limit, there’s a chance they will throttle, lowering your overall performance.
+-   GPUs generally aren’t meant to render 1000+ frames per second, so unexpected behaviour may occur, including lower performance or higher latency than otherwise attainable.
 
 Even so, if heat generation and potentially overworking your hardware is not considered an issue, unlimited may be the option that provides you the most stable frame times.

@@ -50,7 +50,7 @@ Peningkatan gameplay lebih baik dengan hadirnya combo fire, bar HP, mouse trail,
 
 ![](img/2007-09_02.jpg "Menu Utama")
 
-![](img/2007-09_03.jpg "Spinner \(berdasarkan model resmi Ouendan di DS\)")
+![](img/2007-09_03.jpg "Spinner (berdasarkan model resmi Ouendan di DS)")
 
 ![](img/2007-09_04.jpg "Menu Skor")
 
@@ -78,11 +78,11 @@ Layar pemilihan lagu mulai mendapat perhatian, dengan pengelompokan tingkat kesu
 
 Peringkat baru, SS, ditambahkan ke sistem peringkat, menggantikan peringkat S dalam kasus-kasus dimana kesempurnaan (100%) tercapai. Mod [No Video](/wiki/NV) dan [Hidden](/wiki/HD) diperkenalkan, dan SH (S silver) dan SSH (SS silver). Untuk pertama kalinya, pemain dapat mengatur dan menetapkan set sampel normal dan soft per bagian waktu (timing section). File `.osz` sekarang bisa dimuat dengan mengklik tombol mouse dua kali, atau menyeretnya ke ikon osu!.
 
-![](img/no_video.png "No Video \(v1\)") ![](img/hidden.png "Hidden \(v1\)")
+![](img/no_video.png "No Video (v1)") ![](img/hidden.png "Hidden (v1)")
 
----
+* * *
 
-![](img/2007-11_01.jpg "Menu Utama \(Dipenuhi dengan bintang\)")
+![](img/2007-11_01.jpg "Menu Utama (Dipenuhi dengan bintang)")
 
 ![](img/2007-11_02.jpg "Layar login")
 

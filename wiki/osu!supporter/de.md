@@ -14,21 +14,21 @@ Kurz gefasst: Die Unterstützungen tragen dazu bei, dass osu! am Laufen ist, ohn
 
 ## Vorteile als osu!supporter
 
-- osu!direct (Direkter Download von Beatmaps im Spielclient)
-- osu!test (Testclient für osu!, um neue Updates und Features vor Veröffentlichung auszuprobieren)
-- [Chat Console](/wiki/Chat_Console): Hellgelber Name im Chat (die anderen sehen dich in dieser Farbe, du siehst dich nach wie vor in weiß).
-- [Beatmap listing](https://osu.ppy.sh/beatmapsets) (?): Unterscheidet Beatmap Suchergebnisse zwischen "Gespielt" und "Ungespielt".
-- [Skinning](/wiki/Skinning): Zusätzliche Skin-Elemente können verwendet und editiert werden.
-  - Genauer gesagt, `menu-background.jpg` (Hauptmenü); `matchsetup-background.png` (Multiplayer); `search-background.png` (osu!direct)
-- [Feature Requests](https://osu.ppy.sh/community/forums/4): Zusätzliche Votes für das Feature Requests Forum (Zwei Stück pro Monat).
-- [Songauswahl](/wiki/Interface): Die Möglichkeit, bei Beatmap Rankings nach Land, Freunden und mod-spezifischen Scores zu filtern.
-- Dein Profil: <https://osu.ppy.sh/users/>
-  - Du kannst deine eigene individuelle Userpage aktivieren.
-    - Dieser wird nie deaktiviert, selbst wenn du kein osu!supporter mehr bist.
-  - Die Möglichkeit, einmalig deinen Username zu ändern (sobald dieser Versuch aufgebraucht ist, ist es dir nicht gestattet, noch einmal diesen zu ändern).
-  - Erhöht die Beatmap Submission Anzahl (bis zu acht Beatmaps ingesamt im Pending gleichzeitig)
-- [Performance Ranking](https://osu.ppy.sh/rankings/osu/performance): Die Option "filter to friends" ist verfügbar.
-- *Weitere Features werden noch hinzugefügt*
+-   osu!direct (Direkter Download von Beatmaps im Spielclient)
+-   osu!test (Testclient für osu!, um neue Updates und Features vor Veröffentlichung auszuprobieren)
+-   [Chat Console](/wiki/Chat_Console): Hellgelber Name im Chat (die anderen sehen dich in dieser Farbe, du siehst dich nach wie vor in weiß).
+-   [Beatmap listing](https://osu.ppy.sh/beatmapsets) (?): Unterscheidet Beatmap Suchergebnisse zwischen "Gespielt" und "Ungespielt".
+-   [Skinning](/wiki/Skinning): Zusätzliche Skin-Elemente können verwendet und editiert werden.
+    -   Genauer gesagt, `menu-background.jpg` (Hauptmenü); `matchsetup-background.png` (Multiplayer); `search-background.png` (osu!direct)
+-   [Feature Requests](https://osu.ppy.sh/community/forums/4): Zusätzliche Votes für das Feature Requests Forum (Zwei Stück pro Monat).
+-   [Songauswahl](/wiki/Interface): Die Möglichkeit, bei Beatmap Rankings nach Land, Freunden und mod-spezifischen Scores zu filtern.
+-   Dein Profil: <https://osu.ppy.sh/users/>
+    -   Du kannst deine eigene individuelle Userpage aktivieren.
+        -   Dieser wird nie deaktiviert, selbst wenn du kein osu!supporter mehr bist.
+    -   Die Möglichkeit, einmalig deinen Username zu ändern (sobald dieser Versuch aufgebraucht ist, ist es dir nicht gestattet, noch einmal diesen zu ändern).
+    -   Erhöht die Beatmap Submission Anzahl (bis zu acht Beatmaps ingesamt im Pending gleichzeitig)
+-   [Performance Ranking](https://osu.ppy.sh/rankings/osu/performance): Die Option "filter to friends" ist verfügbar.
+-   _Weitere Features werden noch hinzugefügt_
 
 ## Geschäftlicher Teil
 
@@ -38,19 +38,19 @@ Kurz gefasst: Die Unterstützungen tragen dazu bei, dass osu! am Laufen ist, ohn
 
 ![Beispiel hierfür](img/selecting-duration.jpg "Beispiel hierfür")
 
-| Monate | Kosten ($) | Kosten (€) (Eurostand nach dem 10.06.2014) |
-| :-: | :-- | :-- |
-| 1 | 4 | 2.95 |
-| 2 | 8 | 5.90 |
-| 4 | 12 (-25%) | 8.85 |
-| 6 | 16 (-33%) | 11.81 |
-| 8 | 20 (-38%) | 14.76 |
-| 9 | 22 (-39%) | 16.23 |
-| 10 | 24 (-40%) | 17.71 |
-| 12 | 26 (-46% max) | 19.19 |
-| 24 | 52 (-46% max) | 38.38 |
+| Monate | Kosten ($)    | Kosten (€) (Eurostand nach dem 10.06.2014) |
+| :----: | :------------ | :----------------------------------------- |
+|    1   | 4             | 2.95                                       |
+|    2   | 8             | 5.90                                       |
+|    4   | 12 (-25%)     | 8.85                                       |
+|    6   | 16 (-33%)     | 11.81                                      |
+|    8   | 20 (-38%)     | 14.76                                      |
+|    9   | 22 (-39%)     | 16.23                                      |
+|   10   | 24 (-40%)     | 17.71                                      |
+|   12   | 26 (-46% max) | 19.19                                      |
+|   24   | 52 (-46% max) | 38.38                                      |
 
-- Kosten können individuel bestimmt werden. Außerdem gibt es keine Vergünstigung fürs Gruppenschenken.
+-   Kosten können individuel bestimmt werden. Außerdem gibt es keine Vergünstigung fürs Gruppenschenken.
 
 ### Entscheidung
 

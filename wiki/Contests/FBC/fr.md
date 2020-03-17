@@ -6,7 +6,7 @@ tags:
 
 # French Beatmapping Contest
 
-Le **French Beatmapping Contest** (***FBC***) est un tournoi de mapping uniquement accessible aux personnes francophones. Dans chaque édition, les mappeurs doivent réaliser une difficulté de niveau Insane ou plus.
+Le **French Beatmapping Contest** (**_FBC_**) est un tournoi de mapping uniquement accessible aux personnes francophones. Dans chaque édition, les mappeurs doivent réaliser une difficulté de niveau Insane ou plus.
 
 Les points sont attribués en suivant les critères de notation suivants: **Structure**, **Pertinence**, **Créativité**, **Impression du juge** et **Hitsounds**. Il est possible que les critères changent si nécessaire.
 
@@ -24,44 +24,44 @@ La musique sélectionnée pour ce concours était [ANTI - Koi](https://www.youtu
 
 ### Vainqueurs du mode osu!standard
 
-| Place | Joueurs |
-| :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [Secretpipe](https://osu.ppy.sh/users/2208964) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Kin](https://osu.ppy.sh/users/480689) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [rezoons](https://osu.ppy.sh/users/1893035) |
+|                            Place                           | Joueurs                                                     |
+| :--------------------------------------------------------: | :---------------------------------------------------------- |
+|   ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | ![][flag_FR] [Secretpipe](https://osu.ppy.sh/users/2208964) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Kin](https://osu.ppy.sh/users/480689)         |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [rezoons](https://osu.ppy.sh/users/1893035)    |
 
 ### Vainqueurs du mode osu!taiko
 
-| Place | Joueurs |
-| :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) |
+|                            Place                           | Joueurs                                                  |
+| :--------------------------------------------------------: | :------------------------------------------------------- |
+|   ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430)   |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Aldwych](https://osu.ppy.sh/users/1416484) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Gezoda](https://osu.ppy.sh/users/481582) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Gezoda](https://osu.ppy.sh/users/481582)   |
 
 ### Vainqueurs du mode osu!mania
 
-| Place | Joueurs |
-| :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CA] [Julie](https://osu.ppy.sh/users/2420987) |
+|                            Place                           | Joueurs                                                     |
+| :--------------------------------------------------------: | :---------------------------------------------------------- |
+|   ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | ![][flag_CA] [Julie](https://osu.ppy.sh/users/2420987)      |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Todestrieb](https://osu.ppy.sh/users/4056690) |
 
 ### Vainqueurs du mode osu!catch
 
-| Place | Joueurs |
-| :-: | :-- |
+|                          Place                         | Joueurs                                                  |
+| :----------------------------------------------------: | :------------------------------------------------------- |
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [rezoons](https://osu.ppy.sh/users/1893035) |
 
 ### Organisation
 
-| Rôle | Membres |
-| :-- | :-- |
-| Organisateur | ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) |
-| Juges | ![][flag_PL] [Krfawy](https://osu.ppy.sh/users/1478292), ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596), ![][flag_IT] [Leader](https://osu.ppy.sh/users/631530), ![][flag_US] [OzzyOzrock](https://osu.ppy.sh/users/465153), ![][flag_MX] [DakeDekaane](https://osu.ppy.sh/users/1425253), ![][flag_GB] [Mysticalia](https://osu.ppy.sh/users/2728676) |
+| Rôle         | Membres                                                                                                                                                                                                                                                                                                                                                             |
+| :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Organisateur | ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089)                                                                                                                                                                                                                                                                                                                |
+| Juges        | ![][flag_PL] [Krfawy](https://osu.ppy.sh/users/1478292), ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596), ![][flag_IT] [Leader](https://osu.ppy.sh/users/631530), ![][flag_US] [OzzyOzrock](https://osu.ppy.sh/users/465153), ![][flag_MX] [DakeDekaane](https://osu.ppy.sh/users/1425253), ![][flag_GB] [Mysticalia](https://osu.ppy.sh/users/2728676) |
 
 ### Liens
 
-- [Page de présentation](https://osu.ppy.sh/community/forums/topics/347485)
-- [Topic des résultats](https://osu.ppy.sh/community/forums/topics/366859)
+-   [Page de présentation](https://osu.ppy.sh/community/forums/topics/347485)
+-   [Topic des résultats](https://osu.ppy.sh/community/forums/topics/366859)
 
 ## FBC 2016
 
@@ -73,23 +73,23 @@ La musique sélectionnée pour le mode osu!standard et osu!catch était [Phantom
 
 ### Vainqueurs
 
-| Place | Joueurs |
-| :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CA] [sheela](https://osu.ppy.sh/users/1138027) |
+|                            Place                           | Joueurs                                                     |
+| :--------------------------------------------------------: | :---------------------------------------------------------- |
+|   ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | ![][flag_CA] [sheela](https://osu.ppy.sh/users/1138027)     |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Secretpipe](https://osu.ppy.sh/users/2208964) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981)    |
 
 ### Organisation
 
-| Rôles | Membres |
-| :-- | :-- |
-| Organisateur | ![][flag_FR] [Ovoui](https://osu.ppy.sh/users/2282098) |
-| Juges | ![][flag_FR] [Kin](https://osu.ppy.sh/users/480689), ![][flag_DE] [Pho](https://osu.ppy.sh/users/3624692), ![][flag_AU] [sahuang](https://osu.ppy.sh/users/5318910)|
+| Rôles        | Membres                                                                                                                                                             |
+| :----------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Organisateur | ![][flag_FR] [Ovoui](https://osu.ppy.sh/users/2282098)                                                                                                              |
+| Juges        | ![][flag_FR] [Kin](https://osu.ppy.sh/users/480689), ![][flag_DE] [Pho](https://osu.ppy.sh/users/3624692), ![][flag_AU] [sahuang](https://osu.ppy.sh/users/5318910) |
 
 ### Liens
 
-- [Page de présentation](https://osu.ppy.sh/community/forums/topics/482659)
-- [Topic des résultats](https://osu.ppy.sh/community/forums/topics/506691)
+-   [Page de présentation](https://osu.ppy.sh/community/forums/topics/482659)
+-   [Topic des résultats](https://osu.ppy.sh/community/forums/topics/506691)
 
 ## FBC 2017
 
@@ -101,22 +101,22 @@ La musique sélectionnée pour cette édition du tournoi était [ak+q - Excelsia
 
 ### Vainqueurs
 
-| Place | Joueurs |
-| :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [Sotarks](https://osu.ppy.sh/users/4452992) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [BOUYAAA](https://osu.ppy.sh/users/405449) |
+|                            Place                           | Joueurs                                                       |
+| :--------------------------------------------------------: | :------------------------------------------------------------ |
+|   ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | ![][flag_FR] [Sotarks](https://osu.ppy.sh/users/4452992)      |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [BOUYAAA](https://osu.ppy.sh/users/405449)       |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CH] [Irreversible](https://osu.ppy.sh/users/1287964) |
 
 ### Organisation
 
-| Rôle | Membres |
-| :-- | :-- |
-| Organisateurs | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983), ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) |
-| Juges | ![][flag_FR] [Kin](https://osu.ppy.sh/users/480689), ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981), ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983)|
+| Rôle          | Membres                                                                                                                                                                                                                       |
+| :------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Organisateurs | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983), ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108)                                                                                                                |
+| Juges         | ![][flag_FR] [Kin](https://osu.ppy.sh/users/480689), ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981), ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) |
 
 ### Lien
 
-- [Page de présentation et résultats](https://osu.ppy.sh/community/forums/topics/482659)
+-   [Page de présentation et résultats](https://osu.ppy.sh/community/forums/topics/482659)
 
 ## FBC 2018
 
@@ -128,30 +128,39 @@ La musique sélectionnée pour cette édition du tournoi est [Thaehan - Sunrise]
 
 ### Vainqueurs
 
-| Place | Joueurs |
-| :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CA] [celerih](https://osu.ppy.sh/users/4696296) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CA] [J1_](https://osu.ppy.sh/users/5918561), ![][flag_FR] [PoNo](https://osu.ppy.sh/users/4610047) |
+|                            Place                           | Joueurs                                                                                                      |
+| :--------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------- |
+|   ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297)                                                      |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CA] [celerih](https://osu.ppy.sh/users/4696296)                                                     |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CA] [J1\_](https://osu.ppy.sh/users/5918561), ![][flag_FR] [PoNo](https://osu.ppy.sh/users/4610047) |
 
 ### Organisation
 
-| Rôle | Membres |
-| :-- | :-- |
-| Organisateurs | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983), ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) |
-| Juges | ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492), ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812), ![][flag_US] [ailv](https://osu.ppy.sh/users/6933054), ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696)|
+| Rôle          | Membres                                                                                                                                                                                                                          |
+| :------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Organisateurs | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983), ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108)                                                                                                                   |
+| Juges         | ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492), ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812), ![][flag_US] [ailv](https://osu.ppy.sh/users/6933054), ![][flag_IT] [MrSergio](https://osu.ppy.sh/users/2581696) |
 
 ### Lien
 
-- [Page de présentation et résultats](https://osu.ppy.sh/community/forums/topics/754821)
+-   [Page de présentation et résultats](https://osu.ppy.sh/community/forums/topics/754821)
 
 [flag_CA]: /wiki/shared/flag/CA.gif
+
 [flag_CH]: /wiki/shared/flag/CH.gif
+
 [flag_FR]: /wiki/shared/flag/FR.gif
+
 [flag_PL]: /wiki/shared/flag/PL.gif
+
 [flag_IT]: /wiki/shared/flag/IT.gif
+
 [flag_US]: /wiki/shared/flag/US.gif
+
 [flag_MX]: /wiki/shared/flag/MX.gif
+
 [flag_GB]: /wiki/shared/flag/GB.gif
+
 [flag_DE]: /wiki/shared/flag/DE.gif
+
 [flag_AU]: /wiki/shared/flag/AU.gif

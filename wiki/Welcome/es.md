@@ -4,39 +4,39 @@ Bienvenidos a osu!, un juego de ritmo gratis creado por peppy el cual tiene cuat
 
 ## Puntos de interés común.
 
-- [Instalación](/wiki/Installation)
-- [Registro](/wiki/Registration)
-- [Reglas](/wiki/Rules)
-- [FAQ](/wiki/FAQ)
-- [Modos de juego](/wiki/Game_Modes)
-  - ![icono de osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
-  - ![icono de osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
-  - ![icono de osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
-  - ![icono de osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania)
-- [Multi](/wiki/Multi)
-- [Criterios de Clasificación](/wiki/Ranking_Criteria)
-  - ![icono de osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
-  - ![icono de osu!taiko](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
-  - ![icono de osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
-  - ![icono de osu!mania](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
+-   [Instalación](/wiki/Installation)
+-   [Registro](/wiki/Registration)
+-   [Reglas](/wiki/Rules)
+-   [FAQ](/wiki/FAQ)
+-   [Modos de juego](/wiki/Game_Modes)
+    -   ![icono de osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
+    -   ![icono de osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
+    -   ![icono de osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
+    -   ![icono de osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania)
+-   [Multi](/wiki/Multi)
+-   [Criterios de Clasificación](/wiki/Ranking_Criteria)
+    -   ![icono de osu!standard](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
+    -   ![icono de osu!taiko](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
+    -   ![icono de osu!catch](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
+    -   ![icono de osu!mania](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
 ## Beatmapping
 
-*Pagina principal: [Beatmapping](/wiki/Beatmapping).*
+_Pagina principal: [Beatmapping](/wiki/Beatmapping)._
 
-El Beatmapping es el proceso donde un usuario crea un beatmap. Este proceso incluye: Seleccionar la música, ajustar el tiempo y agregar notas al beatmap, y probar el beatmap. Además de eso incluye: agregar un video, agregar un [storyboard](/wiki/Storyboarding), y/o agregar una [skin personalizada](/wiki/Skinning). Todos estos complementos pueden estar hechos por el usuario creador solo o con otros usuarios, algunas veces referidos como  *storyboarders*, *skinners*, y/o *usuarios invitados*, dependiendo de lo que hayan hecho.
+El Beatmapping es el proceso donde un usuario crea un beatmap. Este proceso incluye: Seleccionar la música, ajustar el tiempo y agregar notas al beatmap, y probar el beatmap. Además de eso incluye: agregar un video, agregar un [storyboard](/wiki/Storyboarding), y/o agregar una [skin personalizada](/wiki/Skinning). Todos estos complementos pueden estar hechos por el usuario creador solo o con otros usuarios, algunas veces referidos como  _storyboarders_, _skinners_, y/o _usuarios invitados_, dependiendo de lo que hayan hecho.
 
 ## Modding
 
-*Pagina principal: [Modding](/wiki/Modding).*
+_Pagina principal: [Modding](/wiki/Modding)._
 
 El Modding es el proceso de revisión de los usuarios (o comúnmente llamado "modding") a los beatmaps creados en la sección Pendientes (o Trabajos en proceso/Ayuda). El Modding juega un gran rol en el control de calidad de los beatmaps por que eso permite al creador arreglar situaciones/problemas con sus beatmaps.
 
 ## Skinning
 
-*Pagina principal: [Skinning](/wiki/Skinning)*
+_Pagina principal: [Skinning](/wiki/Skinning)_
 
-*Ver tambien: [Skinning Tutorial](/wiki/Skinning_Tutorial).*
+_Ver tambien: [Skinning Tutorial](/wiki/Skinning_Tutorial)._
 
 Skinning permite que cualquier persona cambie la forma en la que osu! se ve y se siente. Esto puede ser tan pequeño como cambiar el cursor o tan grande como rehacer las apariencias de todos los modos de juego y la interfaz.
 

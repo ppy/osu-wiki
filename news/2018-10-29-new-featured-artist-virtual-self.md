@@ -8,15 +8,15 @@ date: 2018-10-29 12:00:00 +0000
 
 [![](https://assets.ppy.sh/artists/28/header.jpg)](https://osu.ppy.sh/beatmaps/artists/28)
 
-Exploring sounds both new and old, **Virtual Self** is the brainchild of *Porter Robinson*, a wildly popular American musician fabled for his fusion of electronica, pop music and anime.
+Exploring sounds both new and old, **Virtual Self** is the brainchild of _Porter Robinson_, a wildly popular American musician fabled for his fusion of electronica, pop music and anime.
 
-Headed by the enigmatic A.I personae of *technic_Angel* and *Pathselector*, **Virtual Self** poises itself as a heavily concept-driven musical project, drawing on icons, sounds and themes from the early 90's, 00's and more, all set to the visual overload of a high-tech and futuristic aesthetic.
+Headed by the enigmatic A.I personae of _technic_Angel_ and _Pathselector_, **Virtual Self** poises itself as a heavily concept-driven musical project, drawing on icons, sounds and themes from the early 90's, 00's and more, all set to the visual overload of a high-tech and futuristic aesthetic.
 
-There is much that we're still discovering about **Virtual Self**, but one thing is for sure - their tracks *work* for rhythm gaming like you wouldn't believe.
+There is much that we're still discovering about **Virtual Self**, but one thing is for sure - their tracks _work_ for rhythm gaming like you wouldn't believe.
 
 Check them out:
 
-*Quick warning: if you suffer from photosensitive epilepsy, please exercise caution when viewing these videos!*
+_Quick warning: if you suffer from photosensitive epilepsy, please exercise caution when viewing these videos!_
 
 ### Particle Arts
 
@@ -38,11 +38,11 @@ Check them out:
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/e7QeR0VxnlA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-All of the tracks from the self-titled **Virtual Self** EP are now available as Featured Artist tracks, as well as a bonus track *Angel Voices*, a *'technic_Angel'* remix of *Ghost Voices*. As always, these maps (and their included videos) are 100% free for use in osu! mapping projects. Worry less, and map more!
+All of the tracks from the self-titled **Virtual Self** EP are now available as Featured Artist tracks, as well as a bonus track _Angel Voices_, a _'technic_Angel'_ remix of _Ghost Voices_. As always, these maps (and their included videos) are 100% free for use in osu! mapping projects. Worry less, and map more!
 
 Check them out over at their [**Featured Artist listing**](https://osu.ppy.sh/beatmaps/artists/28)!
 
----------
+* * *
 
 [![](https://assets.ppy.sh/contests/63/header.jpg)](https://osu.ppy.sh/community/contests/72)
 
@@ -56,7 +56,7 @@ The winning entry as judged by the Olympiad team will see both participants awar
 
 Interested? [Head on over to the contest listing to read the rules in depth and find out more!](https://osu.ppy.sh/community/contests/72)
 
-----------
+* * *
 
 We're excited to see what kind of incredible pieces the osu! community can churn out with **Virtual Self's** iconic sound!
 

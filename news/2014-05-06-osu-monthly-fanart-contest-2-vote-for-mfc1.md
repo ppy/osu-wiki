@@ -23,7 +23,7 @@ Some Rules:
 
 ## How to enter
 
-**You must post a web-friendly (600px by 600px maximum) image in [the official contest thread](https://osu.ppy.sh/community/forums/topics/206852), and link to a much larger print-friendly image (at least *1000x1000*, as high as possible) for possible merch use. You can upload the images on <https://up.ppy.sh/> or <https://puush.me/>**
+**You must post a web-friendly (600px by 600px maximum) image in [the official contest thread](https://osu.ppy.sh/community/forums/topics/206852), and link to a much larger print-friendly image (at least _1000x1000_, as high as possible) for possible merch use. You can upload the images on <https://up.ppy.sh/> or <https://puush.me/>**
 
 By entering, you agree to let us use your art on the osu! website, social media accounts, and merchandise. While this isn't a merch design contest per se, if we do decide to use your image on a t-shirt or other item, you will get a free one!
 
@@ -31,6 +31,6 @@ Only entries that follow all rules will be considered. There will be two winners
 
 Let me know if anything needs clarifying, otherwise, post away!
 
-*So nobody feels left out, the two primary winners of last month's contest will also receive the osu!tablets. And because the quality and quantity of entries last month were so overwhelming, we'll also be giving out one-month supporter tags as consolation prizes to select favorites. If this month's contest is similar, we'll do the same thing again.
+\*So nobody feels left out, the two primary winners of last month's contest will also receive the osu!tablets. And because the quality and quantity of entries last month were so overwhelming, we'll also be giving out one-month supporter tags as consolation prizes to select favorites. If this month's contest is similar, we'll do the same thing again.
 
 —LuigiHann

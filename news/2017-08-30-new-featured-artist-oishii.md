@@ -10,13 +10,13 @@ What do chiptunes and food have in common? They're both **OISHII**! No, really, 
 
 A relatively new face on the chiptune scene, **OISHII** has been making waves after appearing out of literally nowhere.
 
-All that we know is that every track of theirs is a sugar rush of 8-bit inspired hits, with video game and anime references sprinkled in to boot. Familiar with the *Kirby* games? You'll probably find **OISHII** familiar, too!
+All that we know is that every track of theirs is a sugar rush of 8-bit inspired hits, with video game and anime references sprinkled in to boot. Familiar with the _Kirby_ games? You'll probably find **OISHII** familiar, too!
 
-Have a listen to *ONIGIRI FREEWAY* and see for yourself:
+Have a listen to _ONIGIRI FREEWAY_ and see for yourself:
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3682041395/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://oishiichan.bandcamp.com/track/onigiri-freeway">ONIGIRI FREEWAY by OISHII</a></iframe>
 
-Not satisfied? Take a trip down the *COCOA WATERSLIDE*:
+Not satisfied? Take a trip down the _COCOA WATERSLIDE_:
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1332795351/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://oishiichan.bandcamp.com/track/cocoa-waterslide">COCOA WATERSLIDE by OISHII</a></iframe>
 

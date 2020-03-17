@@ -15,9 +15,9 @@ osu!Idol is a contest where contestants as a solo or a duet sing their way throu
 
 ## What are the prizes?
 
-- **1st:** osu!idol 2016 Winner profile badge + 6 months supporter tag.
-- **2nd:** 3 months supporter tag.
-- **3rd:** 2 month supporter tag.
+-   **1st:** osu!idol 2016 Winner profile badge + 6 months supporter tag.
+-   **2nd:** 3 months supporter tag.
+-   **3rd:** 2 month supporter tag.
 
 ## Where do I sign up?
 
