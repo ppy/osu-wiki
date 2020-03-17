@@ -4,10 +4,8 @@
     ["remark-frontmatter", {"type": "yaml", "marker": "-"}],
     ["remark-lint-maximum-line-length", false],
     ["remark-lint-maximum-heading-length", false],
-    ["remark-lint-heading-style", "atx"],
     ["remark-lint-list-item-spacing", {"checkBlanks": false}],
     ["remark-lint-no-missing-blank-lines", {"exceptTightLists": true}],
-    ["remark-lint-unordered-list-marker-style", "-"],
     ["remark-lint-ordered-list-marker-value", "ordered"],
     ["remark-lint-table-pipe-alignment", false],
     ["remark-lint-definition-case", false],
@@ -15,6 +13,8 @@
     ["remark-lint-no-heading-indent"],
     ["remark-lint-no-tabs"],
     ["remark-lint-no-emphasis-as-heading", false],
-    ["remark-lint-list-item-indent", "space"]
+    ["remark-lint-list-item-indent", "space"],
+    ["remark-lint-no-duplicate-headings", false],
+    ["remark-lint-no-duplicate-headings-in-section"]
   ]
 }
