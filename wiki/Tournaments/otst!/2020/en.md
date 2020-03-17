@@ -106,6 +106,36 @@ The osu! TV Size Tournament 2020 is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here! (84 MB)](https://drive.google.com/file/d/13ZPRDcUtZX-ePwOIFQ8aqB9G2nxK_Usw/view)**
+
+- NoMod
+  - [BUTA-OTOME - Heisei Kaisei Dottenshan (BarkingMadDog) \[SHOOTING STAR\]](https://osu.ppy.sh/beatmapsets/724942#osu/1530772)
+  - [wa. - Black Lotus (Realazy) \[Loli's Extra\]](https://osu.ppy.sh/beatmapsets/679918#osu/1455320)
+  - [DJ TOTTO - Douwa Kairou (Yusomi) \[Another\]](https://osu.ppy.sh/beatmapsets/913314#osu/1927613)
+  - [fang - Intro (Realazy) \[Psychotomimetic\]](https://osu.ppy.sh/beatmapsets/945380#osu/1974177)
+- Hidden
+  - [Blend A - Bon Appetit S (TV Size ver) (Underforest) \[Left's Sadistic\]](https://osu.ppy.sh/beatmapsets/678593#osu/1434844)
+  - [bbn - Identic Conflict (Myxo) \[Black Another\]](https://osu.ppy.sh/beatmapsets/1020429#osu/2135058)
+  - [SHK - Violet Perfume (ktgster) \[SHD\]](https://osu.ppy.sh/beatmapsets/1010865#osu/2115970)
+- HardRock
+  - [Trial & Error - Tokoyami no keiyaku KEGARETA-SHOUJO feat. GUMI (Short Ver.) (ailv) \[Expert\]](https://osu.ppy.sh/beatmapsets/746625#osu/1573521)
+  - [Nekomata Master+ - Proof of the existence (Alheak) \[Expert\]](https://osu.ppy.sh/beatmapsets/427864#osu/923589)
+  - [Nekomata Master+ - encounter (Realazy) \[Kotori's Extreme\]](https://osu.ppy.sh/beatmapsets/815758#osu/1710847)
+- DoubleTime
+  - [ani feat. moco - Light up My Love (popner) \[Hyper\]](https://osu.ppy.sh/beatmapsets/83572#osu/230692)
+  - [Suda Keina - veil (TV Size) (Fixxis) \[Senseabel's Insane\]](https://osu.ppy.sh/beatmapsets/1004116#osu/2102445)
+  - [Chata - min (Net0) \[Insane\]](https://osu.ppy.sh/beatmapsets/777322#osu/1633045)
+- FreeMod
+  - [BlackY vs. Yooh - HAVOX (Realazy) \[Sulfur's GRAVITY\]](https://osu.ppy.sh/beatmapsets/823616#osu/1760861)
+  - [Kajiura Yuki - crossing a dangerous bridge (Mordred) \[Expert\]](https://osu.ppy.sh/beatmapsets/1019198#osu/2132761)
+  - [KISIDA KYODAN & THE AKEBOSI ROCKETS - Stray (TV Size) (SMOKELIND) \[Kill or be killed!\]](https://osu.ppy.sh/beatmapsets/974386#osu/2039589)
+- Tiebreaker
+  - **[Qrispy Joybox - licca (Priti) \[Ultra\]](https://osu.ppy.sh/beatmapsets/307837#osu/688568)**
+  - **[seiya-murai feat.ALT - Sumidagawa Karenka (kiddly) \[Extra\]](https://osu.ppy.sh/beatmapsets/28796#osu/96095)**
+  - **[lapix - Nothing but Theory (azr8) \[ultra jazzfunktion\]](https://osu.ppy.sh/beatmapsets/914146#osu/1924570)**
+
 ### Round of 16
 
 **[Download the mappack here! (96 MB)](https://drive.google.com/file/d/16zDfpKcdpQYaBQonxeQOpfWB_Ih3ck1d/view)**
