@@ -19,6 +19,6 @@ It is with great delight that we present our showcase of some of 11t's work for 
 
 <iframe width="560" height="400" src="https://www.youtube.com/embed/JmNHBhPx2CI?rel=0&controls=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-*The darkest hour is just before the dawn.*
+_The darkest hour is just before the dawn._
 
 —Ephemeral

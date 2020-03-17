@@ -36,12 +36,12 @@ needs_cleanup: true
 
 For pippi fan arts, see:
 
-- [First Official osu! Fanart Contest Results! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152186520298282)
-- [osu! Fanart Contest 2! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152291754173282)
-- [osu! Fanart Contest 3! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152514671088282)
-- [Fan Art 7: Halloween!](https://osu.ppy.sh/community/contests/5)
-- [Fan Art 8: Christmas](https://osu.ppy.sh/community/contests/36)
-- [Mocha in Summer Fanart Contest](https://osu.ppy.sh/community/contests/48)
+-   [First Official osu! Fanart Contest Results! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152186520298282)
+-   [osu! Fanart Contest 2! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152291754173282)
+-   [osu! Fanart Contest 3! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152514671088282)
+-   [Fan Art 7: Halloween!](https://osu.ppy.sh/community/contests/5)
+-   [Fan Art 8: Christmas](https://osu.ppy.sh/community/contests/36)
+-   [Mocha in Summer Fanart Contest](https://osu.ppy.sh/community/contests/48)
 
 ### Yuzu
 
@@ -57,10 +57,10 @@ For pippi fan arts, see:
 
 For Yuzu fan arts, see:
 
-- [osu! Fanart Contest 3! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152514671088282)
-- [Fan Art 7: Halloween!](https://osu.ppy.sh/community/contests/5)
-- [Fan Art 8: Christmas](https://osu.ppy.sh/community/contests/36)
-- [Yuzu's New Look Contest](https://osu.ppy.sh/community/contests/49)
+-   [osu! Fanart Contest 3! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152514671088282)
+-   [Fan Art 7: Halloween!](https://osu.ppy.sh/community/contests/5)
+-   [Fan Art 8: Christmas](https://osu.ppy.sh/community/contests/36)
+-   [Yuzu's New Look Contest](https://osu.ppy.sh/community/contests/49)
 
 ### Maria
 
@@ -70,8 +70,8 @@ For Yuzu fan arts, see:
 
 For more Maria fan arts, see:
 
-- [Fan Art 8: Christmas](https://osu.ppy.sh/community/contests/36)
-- [Fan Art 9: Spring](https://osu.ppy.sh/community/contests/45)
+-   [Fan Art 8: Christmas](https://osu.ppy.sh/community/contests/36)
+-   [Fan Art 9: Spring](https://osu.ppy.sh/community/contests/45)
 
 ### Mocha
 
@@ -87,7 +87,7 @@ For more Maria fan arts, see:
 
 For more Mocha fan arts, see:
 
-- [Mocha in Summer Fanart Contest](https://osu.ppy.sh/community/contests/48)
+-   [Mocha in Summer Fanart Contest](https://osu.ppy.sh/community/contests/48)
 
 ### Miscellaneous
 
@@ -101,15 +101,15 @@ For more Mocha fan arts, see:
 
 For fan arts with cameo mascots, see:
 
-- [Mocha in Summer Fanart Contest](https://osu.ppy.sh/community/contests/48)
+-   [Mocha in Summer Fanart Contest](https://osu.ppy.sh/community/contests/48)
 
 ## Community
 
 For fan arts with the community-made mascots, see:
 
-- [Fan Art 6: osu!taiko mascot](https://osu.ppy.sh/community/contests/2)
-- [Fan Art 7: Halloween!](https://osu.ppy.sh/community/contests/5)
-- [Fan Art 8: Christmas](https://osu.ppy.sh/community/contests/36)
-- [Fan Art 9: Spring](https://osu.ppy.sh/community/contests/45)
-- [Mocha in Summer Fanart Contest](https://osu.ppy.sh/community/contests/48)
-- [Yuzu's New Look Contest](https://osu.ppy.sh/community/contests/49)
+-   [Fan Art 6: osu!taiko mascot](https://osu.ppy.sh/community/contests/2)
+-   [Fan Art 7: Halloween!](https://osu.ppy.sh/community/contests/5)
+-   [Fan Art 8: Christmas](https://osu.ppy.sh/community/contests/36)
+-   [Fan Art 9: Spring](https://osu.ppy.sh/community/contests/45)
+-   [Mocha in Summer Fanart Contest](https://osu.ppy.sh/community/contests/48)
+-   [Yuzu's New Look Contest](https://osu.ppy.sh/community/contests/49)

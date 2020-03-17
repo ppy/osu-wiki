@@ -18,90 +18,90 @@ In case you don't read the end of this post, be sure to submit suggestions for b
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+-   [osu!](#osu)
+-   [osu!catch](#osucatch)
+-   [osu!mania](#osumania)
 
 ## <a name="osu" id="osu"></a>osu!
 
 osu! Loved candidates were chosen by [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050), [DigitalHypno](https://osu.ppy.sh/users/4384207), [SoraRoxas01](https://osu.ppy.sh/users/1986262) and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
----
+* * *
 
 [![](/wiki/shared/news/2019-01-16-project-loved-week-of-january-13th/osu/shun-no-seafood-o-ikashita-curry-fuumi-paella.jpg)](https://osu.ppy.sh/community/forums/topics/855901)
 
 [Camellia - Shun no Seafood o Ikashita Curry Fuumi Paella](https://osu.ppy.sh/beatmapsets/482353#osu) by [Musty](https://osu.ppy.sh/users/251683) and [PoNo](https://osu.ppy.sh/users/4610047)  
-*written by [SoraRoxas01](https://osu.ppy.sh/users/1986262)*
+_written by [SoraRoxas01](https://osu.ppy.sh/users/1986262)_
 
 Now that Camellia is a featured artist, this is the best time to put this map up, as this is a classic for the older players. This map has everything from difficult aim patterns to 220 BPM stream-heavy sections, from simple alternating patterns to more challenging tech patterns: this map is not to be taken lightly at all. This really is a test of how good you are in terms of both mechanical and technical skill. With the map hitting 70+ favorites and being 6.8 stars, will you be able to make it past this Musty and PoNo collab?
 
 [![](/wiki/shared/news/2019-01-16-project-loved-week-of-january-13th/osu/energy-synergy-matrix.jpg)](https://osu.ppy.sh/community/forums/topics/855902)
 
 [Tanchiky - ENERGY SYNERGY MATRIX](https://osu.ppy.sh/beatmapsets/774760#osu) by [Cassu2](https://osu.ppy.sh/users/2587961) and [DTM9 Nowa](https://osu.ppy.sh/users/5428909)  
-*written by [SoraRoxas01](https://osu.ppy.sh/users/1986262)*
+_written by [SoraRoxas01](https://osu.ppy.sh/users/1986262)_
 
 Coming to the Loved voting this time is this energetic tune "ENERGY SYNERGY MATRIX", which was collaboratively mapped by Cassu2 and DTM9 Nowa. If you know about Cassu2's mapping, then you know how they like to map difficult technical patterns, and this song is no exception. With heavy testing of finger control, flow aim and stamina required to play this map, you'll be able to show off to everyone your ability to play weird and not-so-standard maps. With the map being four minutes long, and even picking up its difficulty near the end, will you muster up enough energy to push through and go for a pass?
 
 [![](/wiki/shared/news/2019-01-16-project-loved-week-of-january-13th/osu/pink-season-the-prophecy.jpg)](https://osu.ppy.sh/community/forums/topics/855903)
 
 [PINK GUY - PINK SEASON: THE PROPHECY](https://osu.ppy.sh/beatmapsets/635855#osu) by [Emilia](https://osu.ppy.sh/users/2003326)  
-*written by [waywern2012](https://osu.ppy.sh/users/5870453)*
+_written by [waywern2012](https://osu.ppy.sh/users/5870453)_
 
 Despite Joji being a musician, he did not ignore the fact he had a popular YouTube channel, so he also produced comedy hip hop songs under the name "Pink Guy". THE PROPHECY is his second mixtape, and it's used in this beatmap by Emilia. With his overwhelming mapping of sliders, he followed the song's patterns and sounds to make a truly impressive map! It has everything—calm sections, jumps, some streams, jumpstreams, you name it! Songs from him aren't very popular on osu!, but his legacy will live on with maps like these. Prepare to miss some slider ends.
 
 [![](/wiki/shared/news/2019-01-16-project-loved-week-of-january-13th/osu/in-the-garden.jpg)](https://osu.ppy.sh/community/forums/topics/855904)
 
 [Primary - in the Garden](https://osu.ppy.sh/beatmapsets/396457#osu) by [-Unlimit-](https://osu.ppy.sh/users/2032353)  
-*written by [waywern2012](https://osu.ppy.sh/users/5870453)*
+_written by [waywern2012](https://osu.ppy.sh/users/5870453)_
 
 For an upbeat song like "in the Garden", there needs to be a map with jumps at peak parts of the song, and -Unlimit- did just that! The song starts off calmly, and picks up its pace at middle sections where there will be jumps with larger distance. Although the mapper hasn't updated the map recently, it is still among the community's beloved maps, with over 170 favourites! See if you can find the differences between the two difficulties.
 
 [![](/wiki/shared/news/2019-01-16-project-loved-week-of-january-13th/osu/haelequinz-the-clown-of-24stairs.jpg)](https://osu.ppy.sh/community/forums/topics/855905)
 
-[orangentle / Yu\_Asahina - HAELEQUINZ -the clown of 24stairs-](https://osu.ppy.sh/beatmapsets/618645#osu) by [xLolicore-](https://osu.ppy.sh/users/4525153) et al.  
-*written by [Bubbleman](https://osu.ppy.sh/users/5182050)*
+[orangentle / Yu_Asahina - HAELEQUINZ -the clown of 24stairs-](https://osu.ppy.sh/beatmapsets/618645#osu) by [xLolicore-](https://osu.ppy.sh/users/4525153) et al.  
+_written by [Bubbleman](https://osu.ppy.sh/users/5182050)_
 
 A sequel to the infamous song HAELEQUIN, this song sounds similar yet distinct from its predecessor, and the mapset built upon it contains an array of maps for you to choose from. The main difficulty of the set features clean mapping with cutstreams and 1/6 bursts aplenty, and with four other maps all by different mappers, there are many different styles to enjoy. What are you waiting for? Give them all a go and see which you enjoy!
 
 [![](/wiki/shared/news/2019-01-16-project-loved-week-of-january-13th/osu/spark-mandrill-acapella-dj-cutman-remix.jpg)](https://osu.ppy.sh/community/forums/topics/855906)
 
 [Smooth McGroove - Spark Mandrill Acapella (Dj CUTMAN Remix)](https://osu.ppy.sh/beatmapsets/399912#osu) by [ReFaller](https://osu.ppy.sh/users/4841608), [fartownik](https://osu.ppy.sh/users/56917), [Okoratu](https://osu.ppy.sh/users/1623405) and [Zetera](https://osu.ppy.sh/users/587737)  
-*written by [Bubbleman](https://osu.ppy.sh/users/5182050)*
+_written by [Bubbleman](https://osu.ppy.sh/users/5182050)_
 
 It's almost a certainty that you'll have heard this song by now. This is Smooth McGroove's signature a cappella style, brought to you in a mapset by ReFaller. The top difficulty is a collaboration between fartownik and Okoratu, and features large comfortable jumps and some spaced bursts to round out the map. The song is absolutely one you shouldn't miss out on, and there is a good difficulty spread, so whether you're looking to chill out or challenge yourself, check this out!
 
 [![](/wiki/shared/news/2019-01-16-project-loved-week-of-january-13th/osu/honesty.jpg)](https://osu.ppy.sh/community/forums/topics/855907)
 
 [GYZE - HONESTY](https://osu.ppy.sh/beatmapsets/814850#osu) by [Bibbity Bill](https://osu.ppy.sh/users/4446810) et al.  
-*written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)*
+_written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)_
 
 After the widespread success of Bibbity Bill's ranked set, he decided to parodize his creation by debuting a TV-sized version of GYZE's "HONESTY". As ridiculous as it sounds, the mapset is actually pretty darn good, with each guest difficulty bringing some new and interesting twist to the song. There are too many difficulties to give each a description, but here are the ones I highly recommend trying before voting:
 
-- BoshyMan's EX-Speed Demon: For players on crack
-- J1's Hi-Tech Ultraspeed INSANITY: Honesty but a tech map
-- Agorate's 1 2 1 2: Honesty but anime styled
-- SeeNaRee's Oof: Try single tapping this
+-   BoshyMan's EX-Speed Demon: For players on crack
+-   J1's Hi-Tech Ultraspeed INSANITY: Honesty but a tech map
+-   Agorate's 1 2 1 2: Honesty but anime styled
+-   SeeNaRee's Oof: Try single tapping this
 
 As much of a joke this mapset is, it seems to have resonated with quite a bit of the community, as it garnered over 130 favorites already, but does it belong in Loved? That's for you to decide.
 
 [![](/wiki/shared/news/2019-01-16-project-loved-week-of-january-13th/osu/walk-this-way.jpg)](https://osu.ppy.sh/community/forums/topics/855908)
 
 [Kano - Walk This Way!](https://osu.ppy.sh/beatmapsets/728975#osu) by [Rumia-](https://osu.ppy.sh/users/1787171)  
-*written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)*
+_written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)_
 
 This is a returning title in Project Loved, only this time it's mapped by Rumia-. Originally popularized back in 2015 after being FCed by [hvick225](https://osu.ppy.sh/users/50265), it grew to be one of the most popular songs by Kano in the community. Unfortunately, it disappeared after a while, only to resurface in early 2018 with a few extra difficulties, including an Insane and an Extra along with it. For seasoned players, it's a challenge to test skills including 260 BPM jumps. For unseasoned players, it's a great way to enjoy a great song and have some fun. Enjoy!
 
 [![](/wiki/shared/news/2019-01-16-project-loved-week-of-january-13th/osu/likey.jpg)](https://osu.ppy.sh/community/forums/topics/855909)
 
 [TWICE - LIKEY](https://osu.ppy.sh/beatmapsets/688158#osu) by [CharmCaster](https://osu.ppy.sh/users/847434), [Sing](https://osu.ppy.sh/users/3795679), [Simuzax](https://osu.ppy.sh/users/7137202) and [cosmiccc](https://osu.ppy.sh/users/9700716)  
-*written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
+_written by [DigitalHypno](https://osu.ppy.sh/users/4384207)_
 
 Hey TWICE fans, here's another mapset you can add to your collections! CharmCaster's set of LIKEY, with guest difficulties from cosmiccc, Simuzax, and Sing, has a full spread ranging from mid-1 stars to low-6. Though there are similarities, this mapset is much more jump-focused than the ranked set, truly getting your cursor moving with the song. With the mapset already having over 200 favorites, I'm sure many of you have been waiting for this map to have a chance to shine. If you're craving more TWICE in the Loved section, drop a vote on this map and show your support!
 
 [![](/wiki/shared/news/2019-01-16-project-loved-week-of-january-13th/osu/take-on-me.jpg)](https://osu.ppy.sh/community/forums/topics/855910)
 
 [a-ha - Take On Me](https://osu.ppy.sh/beatmapsets/601347#osu) by [Alvieee](https://osu.ppy.sh/users/3579669) and [HydroCannon13](https://osu.ppy.sh/users/5425046)  
-*written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
+_written by [DigitalHypno](https://osu.ppy.sh/users/4384207)_
 
 Ah, this is a classic. I'm sure many of you know this song already, but what about this amazing map to go along with it? Alvieee's mapset of the iconic song "Take On Me" has a full difficulty spread from low-2 stars to mid-5, and features a guest difficulty from HydroCannon13. The maps themselves are very jump-focused, all with circle sizes slightly larger than 4. If you've always wanted to click circles to the sounds of Take On Me, now's your chance—and while you're at it, drop a vote if you want to see the map in the Loved category!
 
@@ -109,7 +109,7 @@ Ah, this is a classic. I'm sure many of you know this song already, but what abo
 
 osu!catch Loved candidates were chosen by [Ascendance](https://osu.ppy.sh/users/2931883), [Sartan](https://osu.ppy.sh/users/4100941), [Tenshichan](https://osu.ppy.sh/users/1101600) and [Zak](https://osu.ppy.sh/users/1375955)! This week, all osu!catch beatmap descriptions were written by [Sartan](https://osu.ppy.sh/users/4100941).
 
----
+* * *
 
 [![](/wiki/shared/news/2019-01-16-project-loved-week-of-january-13th/catch/yoake-no-bell-ga-naru.jpg)](https://osu.ppy.sh/community/forums/topics/855914)
 
@@ -131,7 +131,7 @@ Other than that the map is fairly straightforward, without any weird gimmicks, a
 
 osu!mania Loved candidates were chosen by [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341), [stupud man](https://osu.ppy.sh/users/2141612) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 
----
+* * *
 
 [![](/wiki/shared/news/2019-01-16-project-loved-week-of-january-13th/mania/fairytale.jpg)](https://osu.ppy.sh/community/forums/topics/855917)
 
@@ -175,7 +175,7 @@ Sturmmann is a name that will likely only be seen just this one time in regards 
 
 Re:TrymenT has definitely been something that has been on our radar for a while, especially with its status as what seems to be a staple in higher-caliber LN competition. The map can be separated into three sections based on the occurrence of each chorus (denoted by the map's Kiai sections), each getting progressively more difficult. While some mappers choose to vary their pattern usage across denser sections of a song, Niima sticks to consistency, and the result still manages to be highly engaging. This consistent use of patterning is also reminiscent of other Loved charts from Niima such as [Knew day](https://osu.ppy.sh/beatmapsets/510249#mania), and is sure to impress those who enjoyed the comfortability and popularity of that set.
 
----
+* * *
 
 From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 

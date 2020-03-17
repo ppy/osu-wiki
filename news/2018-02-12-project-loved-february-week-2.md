@@ -12,12 +12,12 @@ Hi everyone! Welcome to the [Project Loved](https://osu.ppy.sh/community/forums/
 
 Each mode runs on a cycle, osu! and osu!taiko are weekly, osu!mania is biweekly, and osu!catch every 3 weeks. The structure looks like so:
 
-- Week A: osu! (10), osu!taiko (5)
-- Week B: osu! (10), osu!taiko (5), osu!mania (10)
-- Week C: osu! (10), osu!taiko (5), osu!catch (10)
-- Week D: osu! (10), osu!taiko (5), osu!mania (10)
-- Week E: osu! (10), osu!taiko (5)
-- Week F: All modes
+-   Week A: osu! (10), osu!taiko (5)
+-   Week B: osu! (10), osu!taiko (5), osu!mania (10)
+-   Week C: osu! (10), osu!taiko (5), osu!catch (10)
+-   Week D: osu! (10), osu!taiko (5), osu!mania (10)
+-   Week E: osu! (10), osu!taiko (5)
+-   Week F: All modes
 
 This is currently Week E of this cycle, meaning that we will be featuring maps from both osu! and osu!taiko. But don't fret, as next week we will be introducing map votes for all modes in celebration of Valentine's Day! So stay tuned!
 
@@ -25,8 +25,8 @@ This week, the osu! captains have compiled a list of maps that fit the Valentine
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
+-   [osu!](#osu)
+-   [osu!taiko](#osutaiko)
 
 ## <a name="osu" id="osu"></a>osu!
 
@@ -36,7 +36,7 @@ A long awaited entry into the Loved category, [jesse1412](https://osu.ppy.sh/use
 
 [![](/wiki/shared/news/2018-02-12-project-loved-february-week-2/osu/a-kiss-for-the-flower.jpg)](https://osu.ppy.sh/community/forums/topics/702298)
 
-[Silynn](https://osu.ppy.sh/users/1171628)'s A Kiss for the Flower is an incredibly *iconic* map of an *interesting* and *compassionate* tune. With over 400 favourites, I think I can just let this one speak for itself. Be sure to play with video enabled to warm your heart this Valentine's Day.
+[Silynn](https://osu.ppy.sh/users/1171628)'s A Kiss for the Flower is an incredibly _iconic_ map of an _interesting_ and _compassionate_ tune. With over 400 favourites, I think I can just let this one speak for itself. Be sure to play with video enabled to warm your heart this Valentine's Day.
 
 [![](/wiki/shared/news/2018-02-12-project-loved-february-week-2/osu/hime-hime.jpg)](https://osu.ppy.sh/community/forums/topics/702299)
 
@@ -92,7 +92,7 @@ The main draw of this one-diff set is obviously it's amazing song! An enjoyable 
 
 Probably the easiest map this round, but that is not a bad thing! This great map by [Lundlerol](https://osu.ppy.sh/users/855219) has overall nice patterns, being very accessible for players that just got into the Oni/Inner Oni-tier of difficulties. Being used a lot in tournaments and multiplayer lobbies, this seemingly unknown map has spent a lot of time in this community already and could continue this in the loved section!
 
----
+* * *
 
 From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning maps will hit the [beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime during the weekend and will be announced via the [osugame twitter](https://twitter.com/osugame).
 

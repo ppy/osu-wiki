@@ -12,7 +12,7 @@ Head on over to [the contest listing page](https://osu.ppy.sh/community/contests
 
 A choice selection of the top winning entries will be featured in the osu! game client as the Winter 2018 seasonal backgrounds, and their artists will receive **2 months of osu!supporter** to celebrate their victory.
 
-We've prepared a short preview of the entries in the running this time around, all set to the smooth masterpiece that is [nekodex's](https://osu.ppy.sh/beatmaps/artists/1) *aureole*, the Christmas spin on the osu! theme released last year:
+We've prepared a short preview of the entries in the running this time around, all set to the smooth masterpiece that is [nekodex's](https://osu.ppy.sh/beatmaps/artists/1) _aureole_, the Christmas spin on the osu! theme released last year:
 
 <div align="center">
     <video width="90%" controls>

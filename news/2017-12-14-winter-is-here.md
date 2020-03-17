@@ -4,7 +4,7 @@ title: "Winter is Here!"
 date: 2017-12-15 07:00:00 +0000
 ---
 
-The snows have truly settled in across most of the world, and with the results of the Winter 2017 Fanart Contest finally in, what better way to celebrate than with some incredible pieces of osu! art? And to top it all off, a brand-new Christmas-themed track from the original composer of osu!'s musical theme, *nekodex*!
+The snows have truly settled in across most of the world, and with the results of the Winter 2017 Fanart Contest finally in, what better way to celebrate than with some incredible pieces of osu! art? And to top it all off, a brand-new Christmas-themed track from the original composer of osu!'s musical theme, _nekodex_!
 
 [![](https://assets.ppy.sh/contests/58/header.jpg?20171127)](https://osu.ppy.sh/community/contests/58)
 
@@ -16,11 +16,11 @@ With that in mind, the original osu!musician, [nekodex](https://osu.ppy.sh/users
 
 A relaxing walk through a wintry soundscape, "aureole" is an intimate symphony of warm, fireside tunes, elevated into majesty by a beautifully smooth woodwind lead, and finally capped off with glitchy, breakstep-inspired percussion.
 
-This track will be a fixture on the main-menu to accompany the Winter seasonal background until Christmas has come and gone. You can download a 320kbps version for free from [nekodex's SoundCloud](https://soundcloud.com/nekodex/aureole) (or [this link](https://nekodex.net/dl/nekodex_-_aureole_\(osu!_xmas_2017\).zip) if you don't have a SoundCloud account), and if you're after a lossless download, name your price over at [his Bandcamp](https://nekodex.bandcamp.com/track/aureole-osu-xmas-2017).
-    
+This track will be a fixture on the main-menu to accompany the Winter seasonal background until Christmas has come and gone. You can download a 320kbps version for free from [nekodex's SoundCloud](https://soundcloud.com/nekodex/aureole) (or [this link](https://nekodex.net/dl/nekodex_-_aureole_(osu!_xmas_2017).zip) if you don't have a SoundCloud account), and if you're after a lossless download, name your price over at [his Bandcamp](https://nekodex.bandcamp.com/track/aureole-osu-xmas-2017).
+
 [Follow him on Twitter too](https://twitter.com/nekodex), because why not?
 
-----
+* * *
 
 And that's not all!
 
@@ -100,7 +100,7 @@ Clad in a Christmas costume, [XFINCHIIX](https://osu.ppy.sh/users/7075621)'s pip
 
 And last but definitely not least, [Vio](https://osu.ppy.sh/users/5661237)'s pastel celebration of pippi and Mocha is so unbearably cute that it scored **2,813** votes, and shows that wintertime doesn't necessarily mean colours go away!
 
--------
+* * *
 
 It wouldn't be a Fan Art contest announcement if I didn't gush endlessly about how amazing the contest was this time around, but really, we've honestly never seen anything quite like this in all the years we've hosted them.
 

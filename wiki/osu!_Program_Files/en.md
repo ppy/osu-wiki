@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 <!-- TODO: outdated because there have been small changes to the program files, also seems to be missing seasonal assets -->
 
 # osu! program files
@@ -11,9 +12,10 @@ outdated: true
 
 ### Windows
 
-| Current default filepath | Old installer filepath |
-| ------------------------ | ---------------------- |
+| Current default filepath                 | Old installer filepath                                                     |
+| ---------------------------------------- | -------------------------------------------------------------------------- |
 | `C:\Users\<Username>\AppData\Local\osu!` | `C:\Program Files\osu!` / `C:\Program Files(x86)\osu!` (for 7 64-bit or 8) |
+
 > `C:` is your harddisk with osu! installed.
 
 ## Folders
@@ -50,7 +52,7 @@ This file holds the **external executable osu! replay file (.osr)**. It does not
 
 The format is `{Local player name} - {Artist} - {Title} {[Difficulty]}{(YYYY-MM-DD)} {Game Mode}`
 
-**Example:** dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS]  (2013-08-12) OsuMania
+**Example:** dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS](2013-08-12) OsuMania
 
 ### Screenshots
 
@@ -60,7 +62,7 @@ The format is `screenshot###` where "###" is the screenshot number count.
 
 ### Skins
 
-Holds **user-created skins which can be used to customise your User Interface around osu! in-game.** You can download more skins from osume!.exe(osu! updater) under Skins tab or you can take a tour to the [forum's skinning palace](https://osu.ppy.sh/community/forums/15). Skins downloaded from osume!.exe are extracted immediately and ready to use. For forum's downloads, there are two possibility. If you get a executable osu!skin (.osk) file, directly open it and you will be forced to open osu! and directed to the "Skins Selector" screen with your new skin located at the list. If the downloaded skin is in folder form, you will have to place the folder here yourself. If it is in .zip/.rar format, you must extract it first. You can change your skins at [Options menu under Skins tab (Skin Selector)](/wiki/Options). Please bear in mind the skin used is *only effective to your own osu! only.*
+Holds **user-created skins which can be used to customise your User Interface around osu! in-game.** You can download more skins from osume!.exe(osu! updater) under Skins tab or you can take a tour to the [forum's skinning palace](https://osu.ppy.sh/community/forums/15). Skins downloaded from osume!.exe are extracted immediately and ready to use. For forum's downloads, there are two possibility. If you get a executable osu!skin (.osk) file, directly open it and you will be forced to open osu! and directed to the "Skins Selector" screen with your new skin located at the list. If the downloaded skin is in folder form, you will have to place the folder here yourself. If it is in .zip/.rar format, you must extract it first. You can change your skins at [Options menu under Skins tab (Skin Selector)](/wiki/Options). Please bear in mind the skin used is _only effective to your own osu! only._
 
 For further reference, please refer to the [Skinning](/wiki/Skinning) page. Also, "osu! by peppy" is the only skin without its folder and cannot be deleted directly.
 
@@ -71,7 +73,7 @@ For further reference, please refer to the [Skinning](/wiki/Skinning) page. Also
 The format is `{Beatmap number} {Artist} - {Song Title}`.
 **Example:** [57950 SOUND HOLIC - Drive My Life](https://osu.ppy.sh/beatmapsets/57950)
 
-Please note that *ancient* beatmaps folders during the beginnings of osu! do not have numberings and does not follow the format. Some examples would be "[discoprince](https://osu.ppy.sh/beatmapsets/1)" or "[avgn](https://osu.ppy.sh/beatmapsets/66)". Special mention goes to "[tutorial](https://osu.ppy.sh/beatmapsets/3756)" because every osu! player will have it when osu! is installed using the osu!installer. Also, manually created/graveyard .osz/.zip songs folders can be counted as well.
+Please note that _ancient_ beatmaps folders during the beginnings of osu! do not have numberings and does not follow the format. Some examples would be "[discoprince](https://osu.ppy.sh/beatmapsets/1)" or "[avgn](https://osu.ppy.sh/beatmapsets/66)". Special mention goes to "[tutorial](https://osu.ppy.sh/beatmapsets/3756)" because every osu! player will have it when osu! is installed using the osu!installer. Also, manually created/graveyard .osz/.zip songs folders can be counted as well.
 
 ### Hidden Folders
 
@@ -96,8 +98,8 @@ The .db files are beatmaps' data which only osu!.exe/osu!test.exe can utilise. N
 
 Configuration files or config files configure the initial settings for osu! to work. The files can be opened by Notepad.
 
-- `osu!.cfg`: Stores security information about the osu! application files and current release stream. This should never be modified manually.
-- `osu!.<your PC account name>.cfg`: Stores [Options](/wiki/Options) data and other game settings. See [User Configuration File](/wiki/osu!_Program_Files/User_Configuration_File).
+-   `osu!.cfg`: Stores security information about the osu! application files and current release stream. This should never be modified manually.
+-   `osu!.<your PC account name>.cfg`: Stores [Options](/wiki/Options) data and other game settings. See [User Configuration File](/wiki/osu!_Program_Files/User_Configuration_File).
 
 ### .exe (Application)
 

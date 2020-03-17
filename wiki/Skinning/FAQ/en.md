@@ -4,7 +4,7 @@ needs_cleanup: true
 
 # Skinning FAQ
 
-*This article is about frequently answered skinning questions. For the tutorial, see [Skinning/Tutorial](/wiki/Skinning/Tutorial).*
+_This article is about frequently answered skinning questions. For the tutorial, see [Skinning/Tutorial](/wiki/Skinning/Tutorial)._
 
 ## Getting started
 
@@ -14,7 +14,7 @@ Skinning is a simple image changing mechanism that osu! will load upon selecting
 
 ### Can someone make this skin from that show/game?
 
-If you have gone through the entire skinning forums and you are certain that you cannot find *that* skin, then congrats, osu! doesn't have it yet. With this in mind, you can take this initiative to create the skin you dream of and make it something that everyone else may want!
+If you have gone through the entire skinning forums and you are certain that you cannot find _that_ skin, then congrats, osu! doesn't have it yet. With this in mind, you can take this initiative to create the skin you dream of and make it something that everyone else may want!
 
 **Nevertheless, please, never request for a skin anywhere in the forums.** Failing to follow this rule will result in your thread being moved to the wastelands.
 
@@ -30,7 +30,7 @@ The only exception to this are sounds, as they are typically harder to make. The
 
 ### How do I make a skin?
 
-*Main page: [Skinning/Tutorial](/wiki/Skinning/Tutorial)*
+_Main page: [Skinning/Tutorial](/wiki/Skinning/Tutorial)_
 
 ### What should my skin folder contain?
 
@@ -48,7 +48,7 @@ You can also exit and reopen osu! or start the updater to reload the skin, but i
 
 ### What are skinning sets?
 
-*Main page: [Ranking Criteria/Skin Set List](/wiki/Ranking_Criteria/Skin_Set_List)*
+_Main page: [Ranking Criteria/Skin Set List](/wiki/Ranking_Criteria/Skin_Set_List)_
 
 In osu!, there are over 200 skinnable elements (not including the individual animated frames). However, you are not required to skin all of them. Instead, you can simply remove them as osu! will use the default images for the ones you don't include.
 
@@ -72,13 +72,13 @@ There are some third-party projects that try to do this already. However, the sk
 
 First, before you share your skin, make sure you have removed other files that are not used. These can be default images and sounds, extra folders, non-image files (except for the `skin.ini` file). Once this is complete, you will need to export your skin as an `.osk` file. With this file, you can upload it then post about it in the skinning subforum.
 
-1. Open osu!
-1. Open the options sidebar.
-1. Load your skin.
-1. Click `Export as .osk`.
-1. From there osu! will open a window for your exported skin.
-1. Take the `.osk` file with your skin's name and upload it
-1. You can now share it!
+1.  Open osu!
+2.  Open the options sidebar.
+3.  Load your skin.
+4.  Click `Export as .osk`.
+5.  From there osu! will open a window for your exported skin.
+6.  Take the `.osk` file with your skin's name and upload it
+7.  You can now share it!
 
 ### Can I post a mixed skin in the skinning subforums?
 
@@ -96,9 +96,9 @@ Yes, skin remakes are not considered to be mixed. So you can post these, as long
 
 **Yes, and if you do, you must add warning on your forum post.** R15 skins may include but not limited to:
 
-- suggestive or visible underwear
-- swimsuits and/or bikinis
-- characters with revealing or skimpy clothing
+-   suggestive or visible underwear
+-   swimsuits and/or bikinis
+-   characters with revealing or skimpy clothing
 
 To add this warning, simply prefix `[R15]` to your thread post title and write a notice at the top of the post itself.
 
@@ -108,32 +108,30 @@ To add this warning, simply prefix `[R15]` to your thread post title and write a
 
 If you post your R18 skin anywhere in the osu! community, be aware that you will be punished for that. On the other hand, if you release it outside the osu! community walls, nobody will hunt you down. R18 skins may include but not limited to:
 
-- nudity
-- near-nudity
-- sexual references
-- violence
-- drug abuse
+-   nudity
+-   near-nudity
+-   sexual references
+-   violence
+-   drug abuse
 
 ### Post template
 
 If you don't know how to make friendly looking thread, you can use this template.
 
-```
-[centre][size=150][color=#cc5288]{Name of the skin}[/color][/size]
+    [centre][size=150][color=#cc5288]{Name of the skin}[/color][/size]
 
-[size=150]{Write a short 1-3 sentence description of your skin here}[/size]
+    [size=150]{Write a short 1-3 sentence description of your skin here}[/size]
 
-[box=Screenshots]
-[size=150]Song selection
-[img]https://example.com/image-link-here.png[/img]
-Mod selection menu
-[img]https://example.com/image-link-here.png[/img]
-Ranking screen
-[img]https://example.com/image-link-here.png[/img]
-osu! gameplay
-[img]https://example.com/image-link-here.png[/img][/size][/box]
-[url=https://example.com/skin-download-link-here.osk]Download link[/url][/centre]
-```
+    [box=Screenshots]
+    [size=150]Song selection
+    [img]https://example.com/image-link-here.png[/img]
+    Mod selection menu
+    [img]https://example.com/image-link-here.png[/img]
+    Ranking screen
+    [img]https://example.com/image-link-here.png[/img]
+    osu! gameplay
+    [img]https://example.com/image-link-here.png[/img][/size][/box]
+    [url=https://example.com/skin-download-link-here.osk]Download link[/url][/centre]
 
 It is really important to include various screenshots of gameplay and the song selection, etc. A lot of people will want to see your skin looks like before carelessly downloading it! You can use upppy or puush to upload them.
 
@@ -141,7 +139,7 @@ It is really important to include various screenshots of gameplay and the song s
 
 ### What is skin.ini?
 
-*Main page: [skin.ini](/wiki/skin.ini)*
+_Main page: [skin.ini](/wiki/skin.ini)_
 
 ### What is v1.0 and v2.0+?
 
@@ -155,9 +153,9 @@ It may not seem important to denote which version to use, but understand that so
 
 The hierarchy of the sound formats that osu! will use is as follows:
 
-1. `.wav`
-1. `.mp3`
-1. `.ogg`
+1.  `.wav`
+2.  `.mp3`
+3.  `.ogg`
 
 Basically, osu! will prefer `.wav` files because these can loop short sounds better than `.mp3` or `.ogg`.
 
@@ -169,9 +167,9 @@ In most cases, images must use the `.png` format. However, the `menu-background.
 
 In addition to using the `.png` format, you should:
 
-- Trim or crop your images whenever possible. The osu!client will render every pixel of an image which will result in a bigger workload!
-  - Do note, however, that some transparency in certain sections of an image is required to properly align specific elements.
-- Compress images whenever possible. Compressing usually removes unnecessary info about blank pixels and reduces the file sizes dramatically.
+-   Trim or crop your images whenever possible. The osu!client will render every pixel of an image which will result in a bigger workload!
+    -   Do note, however, that some transparency in certain sections of an image is required to properly align specific elements.
+-   Compress images whenever possible. Compressing usually removes unnecessary info about blank pixels and reduces the file sizes dramatically.
 
 ### What are overlays?
 
@@ -183,11 +181,11 @@ Since osu! can be played using different window resolutions, some skinning eleme
 
 It is best to keep the following resolutions in mind while skinning.
 
-- 1024x768 (4:3, standard game resolution, the game is based on it)
-- 2048x1536 (4:3, standard game resolution in HD scaling)
-- 1366x768 (16:9, standard game widescreen resolution)
-- 2732x1536 (16:9, standard game widescreen resolution in HD scaling)
-- 1920x1080 (16:9, standard HD resolution)
+-   1024x768 (4:3, standard game resolution, the game is based on it)
+-   2048x1536 (4:3, standard game resolution in HD scaling)
+-   1366x768 (16:9, standard game widescreen resolution)
+-   2732x1536 (16:9, standard game widescreen resolution in HD scaling)
+-   1920x1080 (16:9, standard HD resolution)
 
 Images will be adjusted by the game itself to fit resolutions derivating from the ones mentioned above. Most of them will be rescaled to fit the playfield or repositioned on different aspect ratios.
 
@@ -199,26 +197,26 @@ HD images have doubled dimension sizes. For example: the normal `hitcircle.png` 
 
 Every sprite has an HD counterpart, even all frames in an animation can have HD counterparts. As a result, the filesize of the folder or archive will increase due to having more images than normal.
 
-All HD images may also be bigger in filesize due to the fact that the canvas size used is four times bigger compared to the normal sprite. There are essentially two resolution modes osu! is using. Each of them prefers one set of images. The first mode is *LowResolution* while the second mode is *HighResolution*.
+All HD images may also be bigger in filesize due to the fact that the canvas size used is four times bigger compared to the normal sprite. There are essentially two resolution modes osu! is using. Each of them prefers one set of images. The first mode is _LowResolution_ while the second mode is _HighResolution_.
 
-- LowResolution mode uses the normal images and ignores the HD images (also known as an SD-resolution skin)
-- HighResolution mode prefers HD images and uses normal images as a fallback if no HD sprite is available (also known as an HD-resolution skin)
+-   LowResolution mode uses the normal images and ignores the HD images (also known as an SD-resolution skin)
+-   HighResolution mode prefers HD images and uses normal images as a fallback if no HD sprite is available (also known as an HD-resolution skin)
 
 ### Ranking screen hit score hierarchy
 
 The ranking screen preferences the static version of skinning elements over the animationed ones. That is, if an animation and a static version of an element is included, the hierarchy is as follows:
 
-1. The static image.
-1. The zeroth frame of the animation.
-1. The default image.
+1.  The static image.
+2.  The zeroth frame of the animation.
+3.  The default image.
 
 However, the osu!mania ranking screen is an exception to this. That is, if an animation and a static version of an element is included, the hierarchy is as follows:
 
-1. The zeroth frame of the animation in root directory.
-1. The static image in root directory.
-1. The default image.
+1.  The zeroth frame of the animation in root directory.
+2.  The static image in root directory.
+3.  The default image.
 
-*Note: in osu!mania, osu! ignores the specified path from the `skin.ini` file and will only use the image from the root directory (the folder where the skin elements are loaded).*
+_Note: in osu!mania, osu! ignores the specified path from the `skin.ini` file and will only use the image from the root directory (the folder where the skin elements are loaded)._
 
 ## Animiations
 
@@ -228,7 +226,7 @@ First, check the elements listing to see if the element you want to animate can 
 
 For example, if you are trying to animate `scorebar-colour.png`, name the first frame `scorebar-colour-0.png`, then the second one `scorebar-colour-1.png`, then the third one `scorebar-colour-2.png`, and repeat for the rest.
 
-*Note: Not all elements have a hyphen (`-`) between the name and the frame number. Check the elements listing for animation names.*
+_Note: Not all elements have a hyphen (`-`) between the name and the frame number. Check the elements listing for animation names._
 
 The animation frame rates for each element are inconsistent. Some use a value defined in the skin.ini file, some use the client's defined value, while others are based on the BPM (beats per minute) of the beatmap. Due to this, animating skinning elements is trial-and-error (see the next section for methods on solving this).
 
@@ -236,11 +234,11 @@ The animation frame rates for each element are inconsistent. Some use a value de
 
 If your animation is too fast/slow, you have two ways to fix it:
 
-1. If it is playing too fast, try to make them longer by doubling frames (or halve them, if it is too slow)
-   - e.g. frame 0 and 1 are the same picture (so picture will last 2 frames), frame 2 and 3 are second picture, etc.
-   - This will make animation slightly slower (or slightly faster); however the animation rate is still the same, this means that even if you slowed/sped-up one down, another's animation rate may still be too fast/slow.
-2. Use the `AnimationFramerate` command in the `skin.ini`.
-   - This command affects all animations expect for a few, like `pippidon` or the `hitcircleoverlay`.
+1.  If it is playing too fast, try to make them longer by doubling frames (or halve them, if it is too slow)
+    -   e.g. frame 0 and 1 are the same picture (so picture will last 2 frames), frame 2 and 3 are second picture, etc.
+    -   This will make animation slightly slower (or slightly faster); however the animation rate is still the same, this means that even if you slowed/sped-up one down, another's animation rate may still be too fast/slow.
+2.  Use the `AnimationFramerate` command in the `skin.ini`.
+    -   This command affects all animations expect for a few, like `pippidon` or the `hitcircleoverlay`.
 
 ## Skinning
 
@@ -256,8 +254,8 @@ If you want to remove an element, you must use a transparent image in place of t
 
 There are two ways to do this:
 
-- Disable `Hit Lighting` in the [options](/wiki/options).
-- Use a transparent image called `lighting.png` in your skin.
+-   Disable `Hit Lighting` in the [options](/wiki/options).
+-   Use a transparent image called `lighting.png` in your skin.
 
 ##### I meant the particles after clicking!
 
@@ -271,9 +269,9 @@ Add a transparent file called `sliderendcircle.png` to your skin.
 
 Add a transparent file for these filenames:
 
-- `hit300-0.png`
-- `hit300g-0.png`
-- `hit300k-0.png`
+-   `hit300-0.png`
+-   `hit300g-0.png`
+-   `hit300k-0.png`
 
 ### How do I add a background in main menu?
 
@@ -281,7 +279,7 @@ You must have [osu!supporter](/wiki/osu!supporter) to see the background image i
 
 ### What does the @2x do?
 
-*Main page: [HD images](#hd-images)*
+_Main page: [HD images](#hd-images)_
 
 ### My taiko drums are in the wrong position!
 
@@ -289,7 +287,7 @@ Open the [skin.ini](/wiki/skin.ini) file and change the `Version` to `2.1` or hi
 
 ### How do I change the combo colours?
 
-*Main page: [skin.ini](/wiki/skin.ini#[colours])*
+_Main page: [skin.ini](/wiki/skin.ini#[colours])_
 
 ### How do I disable one or more hitsounds?
 

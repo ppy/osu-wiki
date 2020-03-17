@@ -1,6 +1,7 @@
 ---
 no_native_review: true
 ---
+
 # Timelines
 
 Dans le [beatmap editor](/wiki/Beatmap_Editor), il y a trois différentes chronologies qu'un cartographe peut rencontrer.
@@ -8,7 +9,7 @@ Cet article explique comment chacune d'entre elles fonctionne.
 
 ## Raccourcis
 
-*Pour une liste des raccourcis clavier pour la timeline, voir :[Shortcut key r  reference](/wiki/Shortcut_key_reference)*
+_Pour une liste des raccourcis clavier pour la timeline, voir :[Shortcut key r  reference](/wiki/Shortcut_key_reference)_
 
 ## Lecteur de chansons
 
@@ -24,16 +25,16 @@ Le bouton `Test` va enregistrer votre beatmap puis va commencer à le tester en 
 
 La ligne de temps elle-même utilise quelques coches qui ont des significations différentes.
 
-| Couleur | Description |
-| :-- | :-- |
-| Blanc (long) | Horodatage actuel |
-| Jaune (coche longue) | Point de prévisualisation |
-| Jaune (tic-tac) | Début du temps de vidange |
-| Vert (up tick) | Points hérités (Voir [Timing](/wiki/Timing)) |
-| Rouge (up tick) | Points de chronométrage (Voir [Timing](/wiki/Timing)) |
-| Bleu (coche en bas) | Signets |
-| Gris (surligné) | Pause
-| Orange (en surbrillance) | Heure du Kiai |
+| Couleur                  | Description                                           |
+| :----------------------- | :---------------------------------------------------- |
+| Blanc (long)             | Horodatage actuel                                     |
+| Jaune (coche longue)     | Point de prévisualisation                             |
+| Jaune (tic-tac)          | Début du temps de vidange                             |
+| Vert (up tick)           | Points hérités (Voir [Timing](/wiki/Timing))          |
+| Rouge (up tick)          | Points de chronométrage (Voir [Timing](/wiki/Timing)) |
+| Bleu (coche en bas)      | Signets                                               |
+| Gris (surligné)          | Pause                                                 |
+| Orange (en surbrillance) | Heure du Kiai                                         |
 
 Sur la droite, vous pouvez régler le taux de lecture de `100%`, à `75%`, `50%`, ou `25%`.
 
@@ -47,9 +48,9 @@ Il existe deux types différents de lignes de temps pour les objets touchés, se
 
 Dans le mode [compose](/wiki/Compose), cette timeline se trouve sous l'onglet "Composer" pour tous les modes de jeu sauf pour [osu!mania](/wiki/Game_Modes/osu!mania).
 
-| Nom | Description |
-| :-- | :-- |
-| Boutons `+`/`-` | Augmenter/Diminuer le zoom de la timeline. |
+| Nom                               | Description                                                                  |
+| :-------------------------------- | :--------------------------------------------------------------------------- |
+| Boutons `+`/`-`                   | Augmenter/Diminuer le zoom de la timeline.                                   |
 | Double lignes verticales blanches | Ceci montre l'horodatage actuel par rapport à la timeline de l'objet touché. |
 
 Un clic gauche sur un objet sélectionné le sélectionnera et un glisser-déposer déplacera l'objet sélectionné sur la timeline.
@@ -68,15 +69,15 @@ Cela agit comme une ligne de temps.
 Au centre se trouve le terrain de jeu proprement dit.
 Le terrain de jeu est composé de deux parties : les lignes et les notes.
 
-| Couleur de la ligne | Description |
-| :-- | :-- |
-| Blanc épais | Mesure complète |
-| Blanc | Temps commun |
-| Vert | Ligne d'horodatage / de jugement en cours |
+| Couleur de la ligne | Description                               |
+| :------------------ | :---------------------------------------- |
+| Blanc épais         | Mesure complète                           |
+| Blanc               | Temps commun                              |
+| Vert                | Ligne d'horodatage / de jugement en cours |
 
-| Note Couleur | Description |
-| :-- | :-- |
-| Bleu | Note(s) sélectionnée(s) |
+| Note Couleur     | Description                         |
+| :--------------- | :---------------------------------- |
+| Bleu             | Note(s) sélectionnée(s)             |
 | Blanc/Rose/Jaune | Couleurs de notes non sélectionnées |
 
 ## Design
@@ -87,9 +88,9 @@ La timeline [design](/wiki/Design) est située sous l'onglet "Design".
 
 ### Timeline
 
-| Nom | Description |
-| :-- | :-- |
-| Boutons `+`/`-` à gauche | Augmenter/Diminuer le zoom de la timeline. |
+| Nom                                  | Description                                                                                                                                  |
+| :----------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------- |
+| Boutons `+`/`-` à gauche             | Augmenter/Diminuer le zoom de la timeline.                                                                                                   |
 | Flèches `Haut`/`Bas` en bas à gauche | Faites défiler la timeline de transformation vers le haut ou vers le bas (ceci pour révéler la `Couleur` ou le `Mouvement` sur la timeline). |
 
 Le centre de la timeline de conception montre les "images clés" du sprite sélectionné.
@@ -99,9 +100,9 @@ Le centre de la timeline de conception montre les "images clés" du sprite séle
 Le contrôle de l'image clé ajoute ou supprime des points d'ancrage.
 Ces points d'ancrage définissent les heures de début et de fin pour la façon dont un sprite doit être scénarisé.
 
-| Nom | Description |
-| :-- | :-- |
-| `+`/`-` | Ajout/Suppression de points d'ancrage pour la transformation sélectionnée. |
+| Nom                    | Description                                                                                           |
+| :--------------------- | :---------------------------------------------------------------------------------------------------- |
+| `+`/`-`                | Ajout/Suppression de points d'ancrage pour la transformation sélectionnée.                            |
 | Flèches `Left`/`Right` | Sauter en arrière/en avant jusqu'au point d'ancrage le plus proche de la transformation sélectionnée. |
 
 S'il y a une transformation, cette transformation est éclairée par sa couleur.
@@ -116,8 +117,8 @@ La ligne de temps est située sous l'onglet [`Timing`](/wiki/Timing).
 
 ### Timing Timeline
 
-| Nom | Description |
-| :-- | :-- |
+| Nom                      | Description                                |
+| :----------------------- | :----------------------------------------- |
 | Boutons `+`/`-` à gauche | Augmenter/Diminuer le zoom de la timeline. |
 
 Au centre se trouve la ligne de temps elle-même.
@@ -132,7 +133,7 @@ Ceci sert également d'aide pour estimer la valeur du BPM du morceau.
 
 ### Flag Colours
 
-| Couleur | Description |
-| :-- | :-- |
-| Blanc | Points de chronométrage. Utilisez la nouvelle valeur de BPM. (Rouge sur la ligne de temps de la chanson) |
-| Bleu | Points hérités. Réglage de la vitesse du curseur en fonction du BPM des points de chronométrage. (Vert sur la ligne de temps de la chanson) |
+| Couleur | Description                                                                                                                                 |
+| :------ | :------------------------------------------------------------------------------------------------------------------------------------------ |
+| Blanc   | Points de chronométrage. Utilisez la nouvelle valeur de BPM. (Rouge sur la ligne de temps de la chanson)                                    |
+| Bleu    | Points hérités. Réglage de la vitesse du curseur en fonction du BPM des points de chronométrage. (Vert sur la ligne de temps de la chanson) |

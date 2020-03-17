@@ -13,10 +13,11 @@ Beatmapping contests have been far and few between throughout the last couple of
 ## Timeline
 
 The timeline for each month's contest is as follows:
-- [**Beatmapping (3 weeks):**](#beatmapping) Contest is announced and beatmappers create their entries
-- [**Screening (1 week):**](#screening) Entries are evaluated by experienced beatmappers
-- [**Voting (2 weeks):**](#voting) Top 5 entries from screening are published for the osu! community to vote on
-- [**Rewards:**](#rewards) Winners are announced and prizes are redeemed
+
+-   [**Beatmapping (3 weeks):**](#beatmapping) Contest is announced and beatmappers create their entries
+-   [**Screening (1 week):**](#screening) Entries are evaluated by experienced beatmappers
+-   [**Voting (2 weeks):**](#voting) Top 5 entries from screening are published for the osu! community to vote on
+-   [**Rewards:**](#rewards) Winners are announced and prizes are redeemed
 
 "But that's more than one month!", you may be thinking. Each month's contest overlaps, so when a contest is announced at the start of a month, you'll receive access to the voting page for the previous month's contest. Halfway through the month you'll also find out the winner from the previous month's contest (and receive a reminder of the ongoing contest's submission deadline!).
 
@@ -24,7 +25,7 @@ The timeline for each month's contest is as follows:
 
 ### <a id="limitation"></a>Limitation
 
-Creating a high quality beatmap is a great goal to strive for, but let's be honest, *that makes for a boring competition.* 
+Creating a high quality beatmap is a great goal to strive for, but let's be honest, _that makes for a boring competition._ 
 
 The Monthly Beatmapping Contest requires beatmappers to adhere to a mapping limitation each month. This limitation can be anything from a specific circle size to a limit on star rating.
 
@@ -105,32 +106,34 @@ The voting page for this contest will be accessible upon the announcement of nex
 ## <a id="rewards"></a>Rewards
 
 Similar to the rewards structure of the [Mappers' Guild](https://mappersguild.com), rewards for the Monthly Beatmapping Contest will be based on cumulative points earnings:
-- **Community vote winner:** 2 points
-- **Community vote runner-up:** 1 point
-- **Screening crew's #1 pick:** 1 point
+
+-   **Community vote winner:** 2 points
+-   **Community vote runner-up:** 1 point
+-   **Screening crew's #1 pick:** 1 point
 
 Each user's MBC points will be listed at the end of the news posts announcing a contest's winners.
 
 MBC points reward users at certain thresholds:
-- **Profile badge:** badges are attainable at 3, 6, and 10 points each. The badges are tiered, meaning each new badge will replace the previous one (and they get progressively shinier!).
-- **"Elite Mapper" forum title**: attainable at 10 points.
-- **osu!supporter:** each point earned provides a user with a month of supporter for themself or someone of their choosing.
-- **Mappers' Guild participation:** participants who are in the Mappers' Guild will receive small earnings within the guild for submitting a valid entry (5), screening (1), and voting (1). These values are unrelated to the contest's points.
+
+-   **Profile badge:** badges are attainable at 3, 6, and 10 points each. The badges are tiered, meaning each new badge will replace the previous one (and they get progressively shinier!).
+-   **"Elite Mapper" forum title**: attainable at 10 points.
+-   **osu!supporter:** each point earned provides a user with a month of supporter for themself or someone of their choosing.
+-   **Mappers' Guild participation:** participants who are in the Mappers' Guild will receive small earnings within the guild for submitting a valid entry (5), screening (1), and voting (1). These values are unrelated to the contest's points.
 
 ## Rules
 
 So how do you participate? Submissions must...
 
-- **follow the month's [beatmapping limitation](#limitation): _all slider shapes must be straight lines_.**
-- **be in `.osz` format.** This allows your entry to use custom hitsound files and a background of your choice, however storyboarded visuals will be removed from all submissions.
-- **be a single difficulty for one of the month's [selected songs](#songs).**
-- **be in the _osu!_ game mode.** Other game modes will be considered after trialing this contest with osu! only.
-- **not be uploaded to the osu! website through the Beatmap Submission System (BSS).** Creators of each entry are anonymous during the screening and voting processes.
-- **abide by the Ranking Criteria.** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be discarded.
+-   **follow the month's [beatmapping limitation](#limitation): _all slider shapes must be straight lines_.**
+-   **be in `.osz` format.** This allows your entry to use custom hitsound files and a background of your choice, however storyboarded visuals will be removed from all submissions.
+-   **be a single difficulty for one of the month's [selected songs](#songs).**
+-   **be in the _osu!_ game mode.** Other game modes will be considered after trialing this contest with osu! only.
+-   **not be uploaded to the osu! website through the Beatmap Submission System (BSS).** Creators of each entry are anonymous during the screening and voting processes.
+-   **abide by the Ranking Criteria.** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be discarded.
 
 Any entries breaking these rules will not be viable for the contest.
 
----
+* * *
 
 Head over to the [contest listing](https://osu.ppy.sh/community/contests/84) when you're ready to submit your entry. There's **3 weeks** until the submission form closes (2020-01-26), so launch the editor and get started as soon as you're ready.
 

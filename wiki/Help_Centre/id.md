@@ -54,10 +54,10 @@ Jika cara ini tidak membuahkan hasil untuk Anda (atau Anda tidak memiliki akses 
 
 Informasi yang baik untuk dilampirkan saat mengirim email ini adalah:
 
-- Nama alamat email Anda saat mendaftarkan akun, atau email lain yang terkait dengan akun tersebut
-- Bukti transaksi apa pun bekas membeli osu!supporter tag Atau item lain dari osu!store
-- Tanggal terakhir yang Anda ingat dapat mengakses akun Anda secara normal
-- Informasi lain berbentuk apa pun yang menurut Anda dapat membantu (tidak termasuk skor atau tayangan ulang (replay), hal itu tidak banyak membantu kami!)
+-   Nama alamat email Anda saat mendaftarkan akun, atau email lain yang terkait dengan akun tersebut
+-   Bukti transaksi apa pun bekas membeli osu!supporter tag Atau item lain dari osu!store
+-   Tanggal terakhir yang Anda ingat dapat mengakses akun Anda secara normal
+-   Informasi lain berbentuk apa pun yang menurut Anda dapat membantu (tidak termasuk skor atau tayangan ulang (replay), hal itu tidak banyak membantu kami!)
 
 #### Akun saya telah dicuri!
 
@@ -89,13 +89,13 @@ Jika Anda lupa kata sandi akun Anda dan tidak menerima email mengenai pemulihan 
 
 Terakhir, kami menyadari bahwa beberapa layanan penyedia email tidak dapat menerima email otomatis dari kami. Jika Anda menggunakan salah satu layanan penyedia ini, silakan hubungi kami melalui email dan kami akan mengubah alamat email untuk Anda:
 
-- `att.net`
-- `bellsouth.net`
-- `free.fr`
-- `i.ua`
-- `laposte.net`
-- `sbcglobal.net`
-- `t-online.de`
+-   `att.net`
+-   `bellsouth.net`
+-   `free.fr`
+-   `i.ua`
+-   `laposte.net`
+-   `sbcglobal.net`
+-   `t-online.de`
 
 ### Perubahan Nama
 
@@ -191,7 +191,7 @@ Jika Anda memiliki supporter tag aktif, Anda dapat melihat semua map yang telah 
 
 Sayangnya, kami tidak dapat melacak semua map yang telah diunduh pengguna, jadi tidak mungkin untuk melihat daftarnya. Yang paling dekat dengan permintaan Anda adalah menggunakan filter yang disebutkan di atas untuk memulihkan setidaknya map yang telah Anda mainkan sebelumnya.
 
----
+* * *
 
 ## Klien
 
@@ -207,12 +207,12 @@ Masalah ini kadang-kadang disebabkan oleh interaksi dengan mode compatibility, d
 
 Untuk memeriksa atau mengubah apakah game Anda berjalan dalam mode Windows Compatibility, coba langkah-langkah berikut:
 
-1. Buka folder di mana Anda menginstall osu! dan cari `osu!.exe`.
-2. Setelah itu, Klik kanan pada `osu!.exe` dan pilih Properties dari menu dropdown yang ditampilkan.
-3. Lalu arahkan ke tab `Compatibility`.
-4. Cari kotak centang berjudul `Run this program in compatibility mode` dalam bagian yang berjudul `Compatibility mode`.
-5. Jika kotak centang ini dicentang, klik sekali lagi untuk menonaktifkan fungsinya.
-6. Jika game Anda sudah terbuka sebelumnya; tutup klien; restart; buka kembali.
+1.  Buka folder di mana Anda menginstall osu! dan cari `osu!.exe`.
+2.  Setelah itu, Klik kanan pada `osu!.exe` dan pilih Properties dari menu dropdown yang ditampilkan.
+3.  Lalu arahkan ke tab `Compatibility`.
+4.  Cari kotak centang berjudul `Run this program in compatibility mode` dalam bagian yang berjudul `Compatibility mode`.
+5.  Jika kotak centang ini dicentang, klik sekali lagi untuk menonaktifkan fungsinya.
+6.  Jika game Anda sudah terbuka sebelumnya; tutup klien; restart; buka kembali.
 
 ##### Apakah Anda memiliki satu browser yang telah diatur sebagai default?
 
@@ -220,10 +220,10 @@ Untuk memeriksa atau mengubah apakah game Anda berjalan dalam mode Windows Compa
 
 Untuk memeriksa, coba langkah-langkah berikut (berlaku untuk Windows 8 dan setelahnya):
 
-1. Buka menu Start.
-2. Ketik `​default`​ ke dalam bilah pencarian dalam menu Start.
-3. Jika Anda melihat menu berjudul ​`Default app settings`, klik menu yang itu. Jika tidak, perluas pencarian Anda untuk memasukkan juga ​`default app settings`​ (menggunakan huruf kecil).
-4. Scroll ke bawah ke bagian yang berjudul `​Web browser`​ dan periksa untuk memastikan bahwa browser yang telah Anda instal telah diatur dengan benar.
+1.  Buka menu Start.
+2.  Ketik `​default`​ ke dalam bilah pencarian dalam menu Start.
+3.  Jika Anda melihat menu berjudul ​`Default app settings`, klik menu yang itu. Jika tidak, perluas pencarian Anda untuk memasukkan juga ​`default app settings`​ (menggunakan huruf kecil).
+4.  Scroll ke bawah ke bagian yang berjudul `​Web browser`​ dan periksa untuk memastikan bahwa browser yang telah Anda instal telah diatur dengan benar.
 
 ##### Game saya tidak dapat diperbarui dengan benar!
 
@@ -241,19 +241,19 @@ Anda juga dapat mencoba memaksa gamenya untuk diperbarui.
 
 **Opsi ini dapat diubah melalui menu in-game options.**
 
-1. Buka osu!.
-2. Masuk ke menu ​`Options`​ atau secara default Anda dapat menekan ​`Control​ + ​O`​.
-3. Ketik `​release`​ pada menu pencarian cepat untuk mengarah langsung ke opsi.
-4. Pastikan dropdown menyorot `​Stable (Latest)`​ untuk menerima build game yang telah stabil dan terbaru.
+1.  Buka osu!.
+2.  Masuk ke menu ​`Options`​ atau secara default Anda dapat menekan ​`Control​ + ​O`​.
+3.  Ketik `​release`​ pada menu pencarian cepat untuk mengarah langsung ke opsi.
+4.  Pastikan dropdown menyorot `​Stable (Latest)`​ untuk menerima build game yang telah stabil dan terbaru.
 
 ##### Bagaimana cara memaksa gamenya untuk diperbarui?
 
 **Anda dapat memaksa game untuk diperbarui melalui menu options.**
 
-1. Buka osu!.
-2. Masuk ke menu ​`Options`​ atau secara default Anda dapat menekan ​`Control​ + ​O`​.
-3. Ketik ​`update`​ pada menu pencarian cepat untuk mengarah langsung ke opsi.
-4. Klik tombol `​Run osu! updater`.
+1.  Buka osu!.
+2.  Masuk ke menu ​`Options`​ atau secara default Anda dapat menekan ​`Control​ + ​O`​.
+3.  Ketik ​`update`​ pada menu pencarian cepat untuk mengarah langsung ke opsi.
+4.  Klik tombol `​Run osu! updater`.
 
 Anda juga dapat memaksa game untuk diperbarui dengan membuat file `help.txt` di direktori di mana Anda menginstal osu!. File ini lebih baik dikosongkan saja, dan permainan akan secara otomatis memaksa pembaruan pada waktu berikutnya osu! dijalankan.
 
@@ -265,11 +265,11 @@ Jika Anda melihat kesalahan ini ketika Anda mencoba membuka osu! atau pembaruann
 
 Berikut ini adalah kumpulan font umum yang digunakan dalam berbagai versi Windows dan di seluruh web yang seharusnya dapat membantu Anda:
 
-- [Microsoft core web fonts](https://web.archive.org/web/20020124085641/http://www.microsoft.com/typography/fontpack/default.htm) (antara lain Arial, Times New Roman, Trebuchet MS, dan Verdana)
-- [Tahoma](https://freefontsfamily.com/tahoma-font-free)
-- [Windows Live Essentials](https://support.microsoft.com/en-us/help/2434419/windows-live-essentials-2011) (Segoe UI)
-- [Powerpoint 2007 Viewer](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=048dc840-14e1-467d-8dca-19d2a8fd7485&displaylang=en&pf=true) (Cleartype family--Calibri, Consolas, Corbel, ... Font ini tidak digunakan di osu! Atau digunakan di dalam sistem Anda, tetapi font ini luar biasa! Unduh sekarang gogo!)
-- [Microsoft JhengHei](http://www.microsoft.com/download/en/details.aspx?DisplayLang=en&id=12072) (?????) (Font UI Tradisional Cina)
+-   [Microsoft core web fonts](https://web.archive.org/web/20020124085641/http://www.microsoft.com/typography/fontpack/default.htm) (antara lain Arial, Times New Roman, Trebuchet MS, dan Verdana)
+-   [Tahoma](https://freefontsfamily.com/tahoma-font-free)
+-   [Windows Live Essentials](https://support.microsoft.com/en-us/help/2434419/windows-live-essentials-2011) (Segoe UI)
+-   [Powerpoint 2007 Viewer](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=048dc840-14e1-467d-8dca-19d2a8fd7485&displaylang=en&pf=true) (Cleartype family--Calibri, Consolas, Corbel, ... Font ini tidak digunakan di osu! Atau digunakan di dalam sistem Anda, tetapi font ini luar biasa! Unduh sekarang gogo!)
+-   [Microsoft JhengHei](http://www.microsoft.com/download/en/details.aspx?DisplayLang=en&id=12072) (?????) (Font UI Tradisional Cina)
 
 Lihat [topik ini](https://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a) pada Microsoft Answers untuk beberapa saran yang lebih terperinci, dan opsi lain untuk mendapatkannya kembali.
 
@@ -323,7 +323,7 @@ Main game atau melakukan sesuatu yang lain akan membiarkan klien mengejar keting
 
 #### Apa jejak putih atau garis asap yang berada di belakang kursor saya ini?
 
-**Ini adalah fitur khusus yang disebut ​*smoke* dan dapat digunakan untuk mencoret-coret di playfield Anda untuk bersenang-senang.​ ​Siapa pun yang menonton tayangan ulang Anda dapat melihat hal-hal yang Anda gambar juga.**
+**Ini adalah fitur khusus yang disebut ​_smoke_ dan dapat digunakan untuk mencoret-coret di playfield Anda untuk bersenang-senang.​ ​Siapa pun yang menonton tayangan ulang Anda dapat melihat hal-hal yang Anda gambar juga.**
 
 Keybinding default untuk fitur ini adalah tombol `C`​, dan fitur ini akan terus berfungsi selama Anda menekannya. Anda dapat mengubah tombolnya kapan saja di bagian `​osu! Standard Mode`​ dari dialog opsi `​Change keyboard bindings​`.
 
@@ -379,7 +379,7 @@ Jika Anda ditolak skor karena alasan teknis atau apa pun, harapan terbaik Anda a
 
 #### Note dalam map sepertinya tidak sinkron atau telah tertelan musik!
 
-**Hal ini bisa disebabkan oleh perangkat lunak pengolah suara yang berjalan di perangkat Anda, seperti​ *Razer Surround Audio*.​ ​Bisa juga karena `​Universal Offset`​ tidak diatur dengan benar.**
+**Hal ini bisa disebabkan oleh perangkat lunak pengolah suara yang berjalan di perangkat Anda, seperti​ _Razer Surround Audio_.​ ​Bisa juga karena `​Universal Offset`​ tidak diatur dengan benar.**
 
 Coba tutup semua program tambahan yang mengubah atau mempengaruhi suara yang keluar dari perangkat Anda. Jika cara ini tidak membantu, Anda bisa mencoba untuk menyesuaikan ​`Universal Offset​`.
 
@@ -387,9 +387,9 @@ Setiap konfigurasi perangkat keras (hardware) memiliki `​Universal Offset`​ 
 
 Nilai default sudah cukup untuk kebanyakan orang, tetapi jika Anda memang nilai default bukan untuk Anda, Anda dapat mengubahnya dengan mengikuti langkah-langkah ini:
 
-- Buka menu ​`Options​`, dan cari penggeser (slider) untuk `​Universal offset` yang terletak di​ bawah tajuk `​Offset Adjustment`. Nilai default adalah 0, dan Anda hanya perlu mengubahnya jika diperlukan.
-- Jika nilai default (0) tidak cocok untuk Anda, coba gunakan tombol `​Offset wizard`​ untuk memandu Anda mengatur offset yang baru.
-- Jika cara ini masih tidak membantu, Anda mungkin ingin mencoba memperbarui driver audio sound card atau motherboard Anda.
+-   Buka menu ​`Options​`, dan cari penggeser (slider) untuk `​Universal offset` yang terletak di​ bawah tajuk `​Offset Adjustment`. Nilai default adalah 0, dan Anda hanya perlu mengubahnya jika diperlukan.
+-   Jika nilai default (0) tidak cocok untuk Anda, coba gunakan tombol `​Offset wizard`​ untuk memandu Anda mengatur offset yang baru.
+-   Jika cara ini masih tidak membantu, Anda mungkin ingin mencoba memperbarui driver audio sound card atau motherboard Anda.
 
 #### Saya mengalami banyak lag atau stuttering saat bermain!
 
@@ -451,7 +451,7 @@ Kasus efek ini tidak berbahaya (meskipun jelek!) yang terjadi karena kecepatan r
 
 Anda juga dapat mencoba bermain dalam mode Windowed atau Borderless, yang akan menggunakan VSync asli dari sistem operasi Anda.
 
-Mengaktifkan VSync atau bermain dalam mode Windowed atau Borderless sayangnya akan menimbulkan *​sedikit* input lag. Bagi kebanyakan orang, hal ini tidak akan menyebabkan masalah yang signifikan.
+Mengaktifkan VSync atau bermain dalam mode Windowed atau Borderless sayangnya akan menimbulkan _​sedikit_ input lag. Bagi kebanyakan orang, hal ini tidak akan menyebabkan masalah yang signifikan.
 
 Kartu grafis (VGA) NVidia yang lebih canggih memiliki opsi global di Panel Kontrol NVidia untuk mengatur kecepatan refresh (refresh rate) global ke pengaturan yang disebut 'Fast', yang juga akan memperbaiki masalah ini.
 
@@ -469,13 +469,13 @@ Berikut ini beberapa cara untuk memungkinkan supaya aplikasi memiliki akses inte
 
 Untuk memastikan osu! dapat mengakses internet, kita perlu memperbolehkannya untuk berkomunikasi melalui Windows Firewall. Inilah cara memeriksa dan menambahkan osu! ke daftar program:
 
-1. Buka menu Start.
-2. Ketik `​allow an app`​ dan masuk ke bilah pencarian dalam menu Start.
-3. Anda seharusnya dapat melihat hasil yang sama yaitu Panel Kontrol berjudul `​Allow an app through Windows Firewall​`. Lalu klik itu.
-4. Panel dengan daftar besar aplikasi dengan dua kotak centang di sampingnya akan terbuka. Klik pada aplikasi apa saja, lalu tekan tombol `​o`​ . Daftar ini akan menggulir ke bawah ke semua aplikasi yang dimulai dengan 'o'.
-5. Carilah ​`osu!`​ atau `​osu!.exe`.
-6. Jika tidak ada, klik `​Allow another app`​ di bagian bawah panel dan telusuri tempat di mana Anda menginstal osu!, dan pilih `​osu!.exe`.
-7. Pastikan kotak centang `​Private`​ dan `​Public`​ tercentang. Klik OK untuk menyimpan pengaturan Anda dan coba lagi.
+1.  Buka menu Start.
+2.  Ketik `​allow an app`​ dan masuk ke bilah pencarian dalam menu Start.
+3.  Anda seharusnya dapat melihat hasil yang sama yaitu Panel Kontrol berjudul `​Allow an app through Windows Firewall​`. Lalu klik itu.
+4.  Panel dengan daftar besar aplikasi dengan dua kotak centang di sampingnya akan terbuka. Klik pada aplikasi apa saja, lalu tekan tombol `​o`​ . Daftar ini akan menggulir ke bawah ke semua aplikasi yang dimulai dengan 'o'.
+5.  Carilah ​`osu!`​ atau `​osu!.exe`.
+6.  Jika tidak ada, klik `​Allow another app`​ di bagian bawah panel dan telusuri tempat di mana Anda menginstal osu!, dan pilih `​osu!.exe`.
+7.  Pastikan kotak centang `​Private`​ dan `​Public`​ tercentang. Klik OK untuk menyimpan pengaturan Anda dan coba lagi.
 
 ##### Mengizinkan program melalui AVG Firewall
 
@@ -495,8 +495,8 @@ Silakan baca ​[topik entri resmi McAffee ​tentang topik ini​](https://serv
 
 Jika Anda masih mengalami masalah untuk terhubung ke server game kami, silakan kirim tiket layanan dukungan dengan mengirimkan e-mail ke ​[accounts@ppy.sh​](mailto:accounts@ppy.sh). Informasi berikut akan membantu kami menyelesaikan masalah Anda dengan cepat:
 
-- Log trace route dengan mengakses perintah `​tracert`​ untuk server `​cho.ppy.sh​`, `​osu.ppy.sh` dan​ `​m1.ppy.sh​` (lihat ke bawah untuk instruksi lebih lanjut)
-- File `​network.log`​ dari folder `​Logs`​ di mana tempat Anda menginstal osu!
+-   Log trace route dengan mengakses perintah `​tracert`​ untuk server `​cho.ppy.sh​`, `​osu.ppy.sh` dan​ `​m1.ppy.sh​` (lihat ke bawah untuk instruksi lebih lanjut)
+-   File `​network.log`​ dari folder `​Logs`​ di mana tempat Anda menginstal osu!
 
 ##### Menjalankan pelacakan rute (trace route) untuk memecahkan masalah koneksi
 
@@ -518,11 +518,11 @@ Untuk menyalin hasil perintah, cukup klik dan seret dari bagian bawah output hin
 
 Ikuti langkah-langkah ini untuk memulihkan osu! ke pengaturan bawaannya:
 
-1. Tahan tombol ​`Shift`​ di keyboard Anda.
-2. Sambil menahan ​`Shift`, klik dua kali ikon osu! yang berada di desktop Anda.
-3. Tahan terus `​Shift​` sampai Anda melihat dialog pemulihan osu! tampil.
-4. Saat ​dialog `osu! configuration`​ terbuka, klik tombol `​reset settings`.
-5. Jika Anda masih belum beruntung memecahkan masalahnya, buka kembali dialog dan klik `​repair osu!​`.
+1.  Tahan tombol ​`Shift`​ di keyboard Anda.
+2.  Sambil menahan ​`Shift`, klik dua kali ikon osu! yang berada di desktop Anda.
+3.  Tahan terus `​Shift​` sampai Anda melihat dialog pemulihan osu! tampil.
+4.  Saat ​dialog `osu! configuration`​ terbuka, klik tombol `​reset settings`.
+5.  Jika Anda masih belum beruntung memecahkan masalahnya, buka kembali dialog dan klik `​repair osu!​`.
 
 #### Saya menjadi supporter tetapi nama saya tidak kuning dalam game!
 
@@ -540,9 +540,9 @@ Hal ini akan membantu mengidentifikasi pesan Anda sendiri dari orang lain. Saat 
 
 Untuk memeriksa apa yang dimaksud dengan frame limiter, ikuti langkah-langkah berikut:
 
-1. Buka osu!.
-2. Masuk ke menu `​Options`​ atau secara default Anda dapat menekan ​`Control​ + ​O​`.
-3. Ketik `​frame`​ di bilah pencarian cepat untuk memunculkan opsi frame limiter.
+1.  Buka osu!.
+2.  Masuk ke menu `​Options`​ atau secara default Anda dapat menekan ​`Control​ + ​O​`.
+3.  Ketik `​frame`​ di bilah pencarian cepat untuk memunculkan opsi frame limiter.
 
 Jika frame limiter Anda diatur pada Unlimited, Anda mungkin dapat melihat peningkatan yang signifikan dengan mengubahnya ke salah satu dari tiga opsi lainnya.
 
@@ -574,7 +574,7 @@ Jika solusi berikut tidak ada yang membantu, silakan kirim tiket layanan dukunga
 
 #### Saya tidak bisa menekan lebih dari beberapa tombol sekaligus saat bermain osu!mania.
 
-**Hal ini disebabkan oleh perangkat keras yang umum pada kebanyakan keyboard yang disebut *​ghosting*.**
+**Hal ini disebabkan oleh perangkat keras yang umum pada kebanyakan keyboard yang disebut _​ghosting_.**
 
 Ghosting merupakan topik yang cukup kompleks, tetapi pada intinya bermuara pada masalah dengan cara keyboard Anda dibuat yang mencegahnya mengirim lebih dari beberapa tombol sekaligus dari tempat-tempat tertentu di keyboard Anda.
 
@@ -584,7 +584,7 @@ Anda dapat menguji batas ghosting keyboard Anda dengan menggunakan [​Utilitas 
 
 Meskipun salah satu Kriteria Ranking untuk osu!mania adalah mencoba mengurangi masalah ghosting dengan tidak memperbolehkan lebih dari 6 tombol aktif di saat bersamaan, Anda mungkin mengalami masalah ini jika keyboard Anda umurnya lebih lama.
 
-Satu-satunya solusi yang efektif adalah dengan membeli keyboard yang memiliki dukungan penekanan tombol secara bersamaan. Anda mungkin ingin mencari fitur yang dikenal sebagai ​*n-key rollover* (atau *​NKRO*). Sebagian besar Keyboard NKRO tidak memiliki masalah dengan ghosting, tetapi harganya biasanya mahal.
+Satu-satunya solusi yang efektif adalah dengan membeli keyboard yang memiliki dukungan penekanan tombol secara bersamaan. Anda mungkin ingin mencari fitur yang dikenal sebagai ​_n-key rollover_ (atau _​NKRO_). Sebagian besar Keyboard NKRO tidak memiliki masalah dengan ghosting, tetapi harganya biasanya mahal.
 
 #### Kursor saya menjadi gila dan tidak menentu setiap kali saya mencoba bermain osu!
 
@@ -592,9 +592,9 @@ Satu-satunya solusi yang efektif adalah dengan membeli keyboard yang memiliki du
 
 Gerakan yang tidak menentu adalah contoh utama dari hal ini, terutama jika Anda menggunakan tablet.
 
-Tetapkan sensitivitas dalam game ke 1.0x (yang berarti opsi bawaan) dalam kebanyakan kasus akan memperbaiki masalah ini, tetapi Anda mungkin akan merasakan kursor Anda terasa lamban. Kami menyarankan untuk mengaktifkan ​*raw input* dalam opsi permainan dan menggunakan driver untuk perangkat pilihan Anda untuk mengubah sensitivitas.
+Tetapkan sensitivitas dalam game ke 1.0x (yang berarti opsi bawaan) dalam kebanyakan kasus akan memperbaiki masalah ini, tetapi Anda mungkin akan merasakan kursor Anda terasa lamban. Kami menyarankan untuk mengaktifkan ​_raw input_ dalam opsi permainan dan menggunakan driver untuk perangkat pilihan Anda untuk mengubah sensitivitas.
 
-Anda juga mungkin ingin menyesuaikan pengaturan *​DPI* mouse Anda, jika Anda menggunakannya. Pengaturan DPI yang lebih tinggi memberikan pemosisian yang lebih akurat ke klien game dan dapat memuluskan kinerja.
+Anda juga mungkin ingin menyesuaikan pengaturan _​DPI_ mouse Anda, jika Anda menggunakannya. Pengaturan DPI yang lebih tinggi memberikan pemosisian yang lebih akurat ke klien game dan dapat memuluskan kinerja.
 
 Kami juga menyarankan memastikan komponen yang Anda bersih dan bebas dari kotoran atau puing-puing. Rambut atau sedikit debu di depan sensor optik mouse dapat menyebabkan hal-hal yang sangat aneh ketika kursor bergerak.
 
@@ -604,10 +604,10 @@ Kami juga menyarankan memastikan komponen yang Anda bersih dan bebas dari kotora
 
 Untuk mengaktifkan raw input, ikuti langkah-langkah berikut:
 
-1. Buka osu!.
-2. Masuk ke menu `​Options`​ atau secara default Anda dapat menekan ​`Control​ + ​O​`.
-3. Ketik `raw` di bilah pencarian cepat untuk langsung mengarah ke opsi raw input.
-4. Klik tombol radio `Raw input`.
+1.  Buka osu!.
+2.  Masuk ke menu `​Options`​ atau secara default Anda dapat menekan ​`Control​ + ​O​`.
+3.  Ketik `raw` di bilah pencarian cepat untuk langsung mengarah ke opsi raw input.
+4.  Klik tombol radio `Raw input`.
 
 #### Saya bermain menggunakan tablet dan kursor saya terasa terlalu lambat!
 
@@ -623,7 +623,7 @@ Semua tablet osu! secara default mendukung raw input, dan mungkin sensitivitas m
 
 **Hal ini biasanya dikarenakan perangkat input yang salah terhubung ke komputer Anda.​ ​Coba cabut semua controller atau joystick.**
 
-Aplikasi yang meniru atau mengubah keybindings seperti ​*Xpadder* atau *​X-Mouse Button Control* juga dapat menyebabkan masalah ini. Anda dapat mencoba untuk menonaktifkan mereka jika Anda menggunakannya untuk permainan lain.
+Aplikasi yang meniru atau mengubah keybindings seperti ​_Xpadder_ atau _​X-Mouse Button Control_ juga dapat menyebabkan masalah ini. Anda dapat mencoba untuk menonaktifkan mereka jika Anda menggunakannya untuk permainan lain.
 
 Hal ini juga bisa terjadi karena terdapat masalah dengan tombol numpad, karena mereka dapat digunakan untuk menggulir (scroll) daftar pilihan lagu. Dengan menekan `​NumLock`​ untuk menonaktifkan numpad dan kemudian tekan `​9`​ atau `​3`​ pada numpad akan memperbaiki masalah Anda.
 
@@ -637,7 +637,7 @@ Kebanyakan paket beatmap yang tersedia menggunakan format file `​.rar`, yang b
 
 Setelah semua file ​`.osz​` di dalam paket berada di direktori Lagu (Songs), tekan ​`F5`​ di menu pemilihan lagu dan osu! akan me-refresh cache beatmap permainan dan memuat lagu baru Anda ke dalam game.
 
----
+* * *
 
 ## Situs web
 
@@ -671,10 +671,10 @@ Jika ada pengguna lain yang melecehkan Anda melalui pesan pribadi baik di forum 
 
 **Untuk memblokir pengguna mengirimi Anda pesan dalam game, cukup tambahkan ke daftar abaikan (ignore list) Anda.**
 
-1. Klik tombol menu Options dalam game.
-2. Ketik `ignore` untuk memfilter daftar opsi dan arahkan ke bagian `Chat Ignore List`.
-3. Tambahkan nama pengguna yang menyinggung Anda ke dalam daftar, pisahkan setiap pengguna baru dengan spasi, dan ganti spasi di nama mereka dengan garis bawah (Pengguna yang disebut ​*The Gatekeeper* menjadi *​The\_Gatekeeper* misalnya).
-4. Selesai!
+1.  Klik tombol menu Options dalam game.
+2.  Ketik `ignore` untuk memfilter daftar opsi dan arahkan ke bagian `Chat Ignore List`.
+3.  Tambahkan nama pengguna yang menyinggung Anda ke dalam daftar, pisahkan setiap pengguna baru dengan spasi, dan ganti spasi di nama mereka dengan garis bawah (Pengguna yang disebut ​_The Gatekeeper_ menjadi _​The_Gatekeeper_ misalnya).
+4.  Selesai!
 
 Anda tidak akan lagi melihat pesan obrolan publik dari semua pengguna yang Anda masukkan ke dalam daftar itu, atau menerima pesan pribadi dari mereka.
 
@@ -682,30 +682,30 @@ Anda tidak akan lagi melihat pesan obrolan publik dari semua pengguna yang Anda 
 
 Jika Anda ingin mencegah siapa pun yang tidak ada di daftar teman Anda mengirimi Anda pesan pribadi, Anda dapat mengikuti langkah-langkah berikut. **​Harap dicatat: moderator tidak terpengaruh oleh fungsi ini dan dapat selalu mengirimi Anda pesan pribadi. Jika Anda merasa seorang moderator sedang melecehkan Anda, Anda harus menghubungi ​[tim layanan dukungan kami](mailto:support@ppy.sh).**
 
-1. Masuk ke menu `​Options`​ atau secara default Anda dapat menekan ​`Control​ + ​O​`.
-2. Ketik `block` di bilah pencarian cepat untuk memfilter daftar opsi ke bagian `In-game Chat`.
-3. Pengaturan dapat diaktifkan dengan mengkliknya.
-4. Selesai! Pengguna yang tidak ada di daftar teman Anda (/addfriend "user") tidak lagi dapat menghubungi Anda.
+1.  Masuk ke menu `​Options`​ atau secara default Anda dapat menekan ​`Control​ + ​O​`.
+2.  Ketik `block` di bilah pencarian cepat untuk memfilter daftar opsi ke bagian `In-game Chat`.
+3.  Pengaturan dapat diaktifkan dengan mengkliknya.
+4.  Selesai! Pengguna yang tidak ada di daftar teman Anda (/addfriend "user") tidak lagi dapat menghubungi Anda.
 
 ##### Memblokir posting forum publik dari seorang pengguna
 
 **Untuk menyembunyikannya secara alami, sebagian besar posting forum publik dari pengguna tertentu, tambahkan mereka ke daftar Musuh (Foes list) Anda melalui UCP.**
 
-1. Kunjungi ​[pengaturan foes list di UCP](https://osu.ppy.sh/forum/ucp.php?i=zebra&mode=foes)​ dan cukup tambahkan nama pengguna mereka ke daftar seperti yang digambarkan.
-2. Klik submit.
-3. Selesai! Sebagian besar posting forum dari pengguna itu tidak akan lagi terlihat oleh Anda - dengan ini mereka seolah-olah tidak pernah ada di sana. Perhatikan bahwa pengguna lain yang mengutip pos mereka akan tetap terlihat.
+1.  Kunjungi ​[pengaturan foes list di UCP](https://osu.ppy.sh/forum/ucp.php?i=zebra&mode=foes)​ dan cukup tambahkan nama pengguna mereka ke daftar seperti yang digambarkan.
+2.  Klik submit.
+3.  Selesai! Sebagian besar posting forum dari pengguna itu tidak akan lagi terlihat oleh Anda - dengan ini mereka seolah-olah tidak pernah ada di sana. Perhatikan bahwa pengguna lain yang mengutip pos mereka akan tetap terlihat.
 
 ##### Mencegah pesan pribadi forum baru mencapai Anda
 
 **Untuk menghapus semua pesan pribadi forum masuk sebelum mereka tiba, buat [peng​aturan filter otomatis dalam pengaturan UCP​](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options).**
 
-1. Kunjungi bagian pemfilteran PM di ​[UCP](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options)​.
-2. Di bagian paling atas laman, cari kolom berjudul ​`Add new Rule​`.
-3. Klik kotak dropdown pertama (nilai default adalah Subject) dan ubah menjadi ​`Sender`​, lalu klik Next.
-4. Klik kotak dropdown pertama dan ubah nilainya dari "is like" menjadi "is" (opsi ketiga dalam daftar), lalu klik Next.
-5. Masukkan nama pengguna pengguna yang menyinggung ke dalam kotak teks yang muncul, lalu klik Next.
-6. Klik kotak dropdown pertama sekali lagi dan ubah nilainya menjadi "Delete message", lalu klik "Add Rule".
-7. Selesai! Setiap upaya yang dilakukan pengguna untuk menghubungi Anda melalui forum PM sekarang akan secara otomatis dihapus tanpa peringatan kepada Anda.
+1.  Kunjungi bagian pemfilteran PM di ​[UCP](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options)​.
+2.  Di bagian paling atas laman, cari kolom berjudul ​`Add new Rule​`.
+3.  Klik kotak dropdown pertama (nilai default adalah Subject) dan ubah menjadi ​`Sender`​, lalu klik Next.
+4.  Klik kotak dropdown pertama dan ubah nilainya dari "is like" menjadi "is" (opsi ketiga dalam daftar), lalu klik Next.
+5.  Masukkan nama pengguna pengguna yang menyinggung ke dalam kotak teks yang muncul, lalu klik Next.
+6.  Klik kotak dropdown pertama sekali lagi dan ubah nilainya menjadi "Delete message", lalu klik "Add Rule".
+7.  Selesai! Setiap upaya yang dilakukan pengguna untuk menghubungi Anda melalui forum PM sekarang akan secara otomatis dihapus tanpa peringatan kepada Anda.
 
 ##### Bagaimana jika saya masih mengalami masalah dengan pengguna setelah memblokirnya?
 
@@ -743,7 +743,7 @@ Cukup ketikkan nama artis yang Anda cari ke Google Custom Search bar dan biarkan
 
 Jika Anda tidak aktif selama jangka waktu yang panjang dan statistik Anda ditampilkan salah, mainkan beberapa map untuk menampilkannya lagi. Pengguna yang tidak aktif dapat menyembunyikan skor mereka untuk menjaga peringkat tetap fresh.
 
----
+* * *
 
 ## Instalasi dan Registrasi
 
@@ -759,8 +759,8 @@ Atau, ​[klik di sini​](https://osu.ppy/sh/p/download) untuk langsung menautk
 
 **Jika penginstal game menunjukkan dialog kesalahan saat Anda mencoba menginstal, Anda dapat mencoba beberapa hal:**
 
-- Bersihkan PC Anda - Pindai dengan perangkat lunak antivirus, bersihkan registry. Program yang bagus untuk membersihkan yang sudah dikenal adalah CCleaner. Pindai kedua file baik komputer dan registri Anda. Penginstal dapat gagal jika ada entri registry dari salinan osu sebelumnya! masih ada di sistem Anda.
-- Coba instal ulang .NET 3.5 Framework. ​[Anda dapat menemukannya di sini](https://web.archive.org/web/20160317051200/http://www.microsoft.com/en-au/download/details.aspx?id=21)​.
+-   Bersihkan PC Anda - Pindai dengan perangkat lunak antivirus, bersihkan registry. Program yang bagus untuk membersihkan yang sudah dikenal adalah CCleaner. Pindai kedua file baik komputer dan registri Anda. Penginstal dapat gagal jika ada entri registry dari salinan osu sebelumnya! masih ada di sistem Anda.
+-   Coba instal ulang .NET 3.5 Framework. ​[Anda dapat menemukannya di sini](https://web.archive.org/web/20160317051200/http://www.microsoft.com/en-au/download/details.aspx?id=21)​.
 
 #### Saya menggunakan Windows 64-bit dan tidak dapat menginstal osu! dengan benar!
 
@@ -790,7 +790,7 @@ Jika Anda tidak menggunakan salah satu dari yang disebutkan di atas, maka Anda h
 
 Tor atau jaringan yang terkait dengan relay Tor tidak akan terhubung ke server game dalam kebanyakan kasus. Usaha ini untuk menghindari penggunaan tidak baik.
 
----
+* * *
 
 ## Beatmapping and Editor
 
@@ -828,7 +828,7 @@ Anda dapat menghapus beatmap Anda sendiri dengan menunggu dan dimasukkan ke Beat
 
 Setelah beatmap Anda berada di Graveyard, Anda dapat menghapusnya sendiri dengan mengklik tombol `Delete` yang muncul di sebelah tautan beatmap.
 
----
+* * *
 
 ## osu!store and merchandise
 
@@ -854,9 +854,9 @@ Untuk menentukan apakah osu Anda! LED non-keyboard rusak, harap lakukan langkah-
 
 **Ikuti langkah-langkah berikut ini untuk mencari tahu:**
 
-1. Identifikasi LED mana yang tidak berfungsi sebagaimana seharusnya. Ingat sisi ini.
-2. Dengan lembut tekan LED dari bawah tombol switch dengan sepasang pinset atau perangkat pencengkeram lainnya, dan ingat LED mana yang berasal dari slot mana.
-3. Tukarkan LED dan kembalikan ke tempat asalnya. Misalnya, letakkan LED yang diambil dari tombol kiri ke tombol kanan, dan seterusnya.
+1.  Identifikasi LED mana yang tidak berfungsi sebagaimana seharusnya. Ingat sisi ini.
+2.  Dengan lembut tekan LED dari bawah tombol switch dengan sepasang pinset atau perangkat pencengkeram lainnya, dan ingat LED mana yang berasal dari slot mana.
+3.  Tukarkan LED dan kembalikan ke tempat asalnya. Misalnya, letakkan LED yang diambil dari tombol kiri ke tombol kanan, dan seterusnya.
 
 Jika LED yang bekerja di satu sisi berfungsi juga di sisi lain, LED ​itu **tidak rusak**​ dan berfungsi baik.
 
@@ -888,9 +888,9 @@ Untuk mencari tahu, lakukan langkah-langkah berikut:
 
 **Ikuti langkah-langkah ini untuk memeriksa apakah perangkat tablet Anda berfungsi normal:**
 
-1. Lepaskan perangkat tablet dengan aman dari sistem Anda, dan lepaskan kabelnya.
-2. Secara perlahan pasang kembali kabel ke slot USB pada sistem Anda.
-3. Jika tablet berfungsi, celah cahaya di wajah tablet akan berkedip hijau sebentar kemudian kembali gelap. Jika terjadi seperti ini berarti tablet Anda normal.
+1.  Lepaskan perangkat tablet dengan aman dari sistem Anda, dan lepaskan kabelnya.
+2.  Secara perlahan pasang kembali kabel ke slot USB pada sistem Anda.
+3.  Jika tablet berfungsi, celah cahaya di wajah tablet akan berkedip hijau sebentar kemudian kembali gelap. Jika terjadi seperti ini berarti tablet Anda normal.
 
 Jika lampu tablet tidak berkedip, coba gunakan kabel USB yang berbeda - kabel yang disertakan dengan tablet kadang-kadang bisa rusak selama transit atau setelah penggunaan ekstensif.
 
@@ -902,12 +902,12 @@ Kami dapat mencoba membantu memperbaiki masalah Anda dengan pembelian tablet yan
 
 **Ikuti langkah-langkah ini untuk memeriksa apakah perangkat pena Anda berfungsi normal:**
 
-- Lepaskan cengkeraman dari badan pena, buka baterai yang terletak di bagian dalam.
-- Lepaskan baterai AAA dari pena.
-- Ganti dengan baterai AAA yang baru. ​**Pastikan baterai yang baru berfungsi di perangkat lain terlebih dahulu.**
-- Pastikan ujung positif dan negatif baterai tepat di pena. Ada penanda di perangkat yang menampilkan tanda yang memberi tahu Anda ujung mana menuju ke mana.
-- Kencangkan pegangan kembali ke pena.
-- Tekan tombol di bagian belakang pena sampai berbunyi klik.
+-   Lepaskan cengkeraman dari badan pena, buka baterai yang terletak di bagian dalam.
+-   Lepaskan baterai AAA dari pena.
+-   Ganti dengan baterai AAA yang baru. ​**Pastikan baterai yang baru berfungsi di perangkat lain terlebih dahulu.**
+-   Pastikan ujung positif dan negatif baterai tepat di pena. Ada penanda di perangkat yang menampilkan tanda yang memberi tahu Anda ujung mana menuju ke mana.
+-   Kencangkan pegangan kembali ke pena.
+-   Tekan tombol di bagian belakang pena sampai berbunyi klik.
 
 Jika unit tablet Anda berfungsi dengan baik, menempatkan pena di dekat tablet akan membuat kursor di layar Anda bergerak.
 
@@ -931,10 +931,10 @@ Pertama, [​unduh paket yang berisi file default osu!go](https://assets.ppy.sh/
 
 **Ikuti langkah-langkah berikut untuk menyiapkan perangkat ​osu!go Anda menggunakan Windows:**
 
-1. Buka menu `Start`.
-2. Ketik `​disk management` ​ke dalam bilah pencarian. Aksi ini akan memunculkan bagian `​Create and manage hard disk partitions` dari Control Panel.
-3. **Saat berada dalam tampilan Disk Management, pastikan untuk mengikuti petunjuk ini secara *​seksama* dan *hanya* menerapkannya ke perangkat osu!go**. ​Anda berpotensi kehilangan data jika Anda bermain-main dalam dialog ini.
-4. Periksa untuk mengetahui status komputer Anda mengenali perangkat ini.
+1.  Buka menu `Start`.
+2.  Ketik `​disk management` ​ke dalam bilah pencarian. Aksi ini akan memunculkan bagian `​Create and manage hard disk partitions` dari Control Panel.
+3.  **Saat berada dalam tampilan Disk Management, pastikan untuk mengikuti petunjuk ini secara _​seksama_ dan _hanya_ menerapkannya ke perangkat osu!go**. ​Anda berpotensi kehilangan data jika Anda bermain-main dalam dialog ini.
+4.  Periksa untuk mengetahui status komputer Anda mengenali perangkat ini.
 
 #### Perangkat osu!go telah tiba, tetapi dalam keadaan "RAW".
 
@@ -954,13 +954,13 @@ Silakan ikuti ​[panduan ini](https://staging.tails.boum.org/doc/first_steps/re
 
 **Kamu hampir selesai!**
 
-Ekstrak arsip yang kami minta Anda untuk unduh sebelumnya (osu!go.zip) ke drive ​*osu!go* dan selesai!
+Ekstrak arsip yang kami minta Anda untuk unduh sebelumnya (osu!go.zip) ke drive ​_osu!go_ dan selesai!
 
 ##### Semua usaha ini tidak ada yang berhasil!
 
 Jika Anda mengalami masalah dengan proses ini, silakan kirim email ke [​store@ppy.sh​](mailto:store@ppy.sh) dan dengan senang hati kami akan membantu Anda.
 
----
+* * *
 
 ## Penyelesaian masalah
 
@@ -974,14 +974,14 @@ File-file ini sangat berguna untuk dimiliki dan dapat membuat penyelesaian masal
 
 Jika anggota tim layanan dukungan meminta Anda untuk menyertakan log ini, berikut cara mendapatkannya:
 
-1. Buka osu!.
-2. Masuk ke menu `​Options`​ atau secara default Anda dapat menekan ​`Control​ + ​O​`.
-3. Ketik `​release`​ pada menu pencarian cepat. Aksi ini akan mengantarkan Anda pada jenis update klien yang Anda gunakan.
-4. Pastikan sudah diatur ke salah satu ​antara `Beta​` atau ​`Cutting Edge (Experimental)​`. Kami menyarankan `​Beta` untuk ​kesempatan terbaik untuk stabilitas dalam situasi ini.
-5. Mulai ulang klien game jika Anda membuat perubahan apa pun ke aliran rilis untuk menerapkannya.
-6. Buka kembali game, masuk ​`Options​`, dan klik ​`Open osu! folder​`.
-7. Temukan ​direktori `Logs` di jendela yang terbuka.
-8. Pilih file log yang diperlukan (perwakilan layanan dukungan akan memberi tahu Anda yang mana), dan lampirkan ke tiket Anda atau unggah ke layanan file sharing yang bersifat publik.
+1.  Buka osu!.
+2.  Masuk ke menu `​Options`​ atau secara default Anda dapat menekan ​`Control​ + ​O​`.
+3.  Ketik `​release`​ pada menu pencarian cepat. Aksi ini akan mengantarkan Anda pada jenis update klien yang Anda gunakan.
+4.  Pastikan sudah diatur ke salah satu ​antara `Beta​` atau ​`Cutting Edge (Experimental)​`. Kami menyarankan `​Beta` untuk ​kesempatan terbaik untuk stabilitas dalam situasi ini.
+5.  Mulai ulang klien game jika Anda membuat perubahan apa pun ke aliran rilis untuk menerapkannya.
+6.  Buka kembali game, masuk ​`Options​`, dan klik ​`Open osu! folder​`.
+7.  Temukan ​direktori `Logs` di jendela yang terbuka.
+8.  Pilih file log yang diperlukan (perwakilan layanan dukungan akan memberi tahu Anda yang mana), dan lampirkan ke tiket Anda atau unggah ke layanan file sharing yang bersifat publik.
 
 #### Apa dialog ini 'Bancho authentication error' yang terus saya terima?
 

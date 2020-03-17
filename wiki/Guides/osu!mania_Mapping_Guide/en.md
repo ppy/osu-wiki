@@ -4,7 +4,7 @@
 
 ### What is osu!mania?
 
-*Main page: [osu!mania](/wiki/Game_Modes/osu!mania)*
+_Main page: [osu!mania](/wiki/Game_Modes/osu!mania)_
 
 osu!mania is one of the four game modes. osu!mania falls under the genre **Vertical Scrolling Rhythm Game** (VSRG). As the name already suggests, that the musical notes are falling down or rising up in a vertical manner. There are many rather similar games to osu!mania such as "Stepmania", "O2Jam" or "Beatmania IIDX".
 
@@ -18,29 +18,29 @@ As stated, the editor allows a customizable amount of columns. For simplicity, t
 
 **1. Mapping Area**: This is where you place your objects.
 
-**2. Density Graph**: This is the density of individual parts in the map. *Pink* bars indicates that the density is too high to be shown.
+**2. Density Graph**: This is the density of individual parts in the map. _Pink_ bars indicates that the density is too high to be shown.
 
-**3 & 4. Notes and Hold**: These options can be toggled by clicking. **Notes** are placed by clicking, **Hold Notes** *(also known as Long Notes)* can be created by clicking and dragging.
+**3 & 4. Notes and Hold**: These options can be toggled by clicking. **Notes** are placed by clicking, **Hold Notes** _(also known as Long Notes)_ can be created by clicking and dragging.
 
-*Shortcut:* `2, 3`
+_Shortcut:_ `2, 3`
 
 **5. Hitsounds**: Objects can be assigned with sounds during play. More info on hitsounds later in the guide.
 
-*Shortcut:* `W, E, R`
+_Shortcut:_ `W, E, R`
 
 **6. Lock Notes**: If Lock Notes is activated you can't move any notes, which is useful when hitsounding. Without this activated, you may accidentally move notes as you hitsound them.
 
-*Shortcut:* `L`
+_Shortcut:_ `L`
 
 **7. Beat Snap Divisor**: Using the slider, you can select the beat snap you wish to map in. The slider goes from 1/1 to 1/16, most mappers commonly use 1/4.
 
 Specifics on what snaps should be used for ranking are detailed in the [osu!mania ranking criteria](/wiki/Ranking_Criteria/osu!mania).
 
-*Shortcut:* `Ctrl + MouseScrollWheel`
+_Shortcut:_ `Ctrl + MouseScrollWheel`
 
 **8. Sample Set & Additions**: Sample Sets and Additions allow you to add even more hitsounds than shown in point 5. As an example, you can layer a drum-finish sound over the normal-finish. Using this, you can give your song a even larger variety of hitsounds!
 
-*Shortcut:* `Ctrl + (W, E, R), Shift + (W, E, R)`
+_Shortcut:_ `Ctrl + (W, E, R), Shift + (W, E, R)`
 
 ![Mania Editor](img/Mania_Editor.jpg "Mania Editor")
 
@@ -54,46 +54,46 @@ Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new ma
 
 ![Song Setup](img/Song_Setup.png "Song Setup")
 
-| Name | Description |
-| :-- | :-- |
-| Artist: | Here you'll have to add the original name of your songs Artist. No matter if it is Japanese, German or Russian. If the name of the artist has at least one special character you must add it here! As an example: If your artist name is "Die Ärzte" you must add it here because of the "Ä". |
-| Romanised Artist: | Here you have to add the romanised artist name, which translates to the original artist name in Roman (Latin) script. With our example used earlier, it would be "Die Aerzte" because the "Ä" is translated to "Ae". If your artist name does not include any special characters in its name, this field will be filled out automatically. |
-| Title & Romanised Title: | Exactly the same thing as with artist, but with the title of the song. |
-| Beatmap Creator: | This field is automatically filled out with your name when you are signed in into osu!. If you are not online at the time of creating the beatmap, add your name there. |
-| Difficulty: | [**Ranking Criteria Difficulty Naming Rules**](/wiki/Ranking_Criteria#beatmapset) You specify the difficulty's name here. As a guide, the standard difficulty names for osu!mania are "Easy", "Normal", "Hard", "Insane" and "Expert". If your song is from an other game you can use the difficulty names of that game! For example Sound Voltex, which uses the following names for their respective difficulties: "BASIC", "NOVICE", "ADVANCED", "EXHAUST", "INFINITE", "GRAVITY".  For custom names, refer to the ranking criteria linked above. |
-| Source: | Here, you have to add where your song comes from. Is it from another game? Or an anime? Perhaps a TV-show? Add it here! For example: If your song comes from Sound Voltex, you have to add it here. Keep in mind that it has to be the exact name of the game! |
-| Tags: | You can add additional information about your song here. For example, album names or producers. Everything that helps to find your song in the beatmap listing. You also have to add the names of every osu! mapper who made a difficulty in your mapset as well.  Tags are separated by spaces.|
+| Name                     | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| :----------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Artist:                  | Here you'll have to add the original name of your songs Artist. No matter if it is Japanese, German or Russian. If the name of the artist has at least one special character you must add it here! As an example: If your artist name is "Die Ärzte" you must add it here because of the "Ä".                                                                                                                                                                                                                                                        |
+| Romanised Artist:        | Here you have to add the romanised artist name, which translates to the original artist name in Roman (Latin) script. With our example used earlier, it would be "Die Aerzte" because the "Ä" is translated to "Ae". If your artist name does not include any special characters in its name, this field will be filled out automatically.                                                                                                                                                                                                           |
+| Title & Romanised Title: | Exactly the same thing as with artist, but with the title of the song.                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Beatmap Creator:         | This field is automatically filled out with your name when you are signed in into osu!. If you are not online at the time of creating the beatmap, add your name there.                                                                                                                                                                                                                                                                                                                                                                              |
+| Difficulty:              | [**Ranking Criteria Difficulty Naming Rules**](/wiki/Ranking_Criteria#beatmapset) You specify the difficulty's name here. As a guide, the standard difficulty names for osu!mania are "Easy", "Normal", "Hard", "Insane" and "Expert". If your song is from an other game you can use the difficulty names of that game! For example Sound Voltex, which uses the following names for their respective difficulties: "BASIC", "NOVICE", "ADVANCED", "EXHAUST", "INFINITE", "GRAVITY".  For custom names, refer to the ranking criteria linked above. |
+| Source:                  | Here, you have to add where your song comes from. Is it from another game? Or an anime? Perhaps a TV-show? Add it here! For example: If your song comes from Sound Voltex, you have to add it here. Keep in mind that it has to be the exact name of the game!                                                                                                                                                                                                                                                                                       |
+| Tags:                    | You can add additional information about your song here. For example, album names or producers. Everything that helps to find your song in the beatmap listing. You also have to add the names of every osu! mapper who made a difficulty in your mapset as well.  Tags are separated by spaces.                                                                                                                                                                                                                                                     |
 
 #### Difficulty
 
 ![Difficulty tab](img/Difficulty.png "Difficulty tab")
 
-| Name | Description |
-| :-- | :-- |
-| HP Drain Rate (HP): | A higher value means a more punishing drain and a lower recovery, vice versa. A commonly used HP value would be **7** *Note: Only 50 or Misses will drain HP*|
-| Key Count: | Here you have to set the key count in which you want to map. In this Guide I will use 4K. Note that only 4K, 5K, 6K, 7K, 8K and 9K maps are rankable. The checkbox "Co-Op" can be selected when you choose 5K and above,  doubling the keycount. This allows you to play with a friend on one keyboard. |
-| Approach Rate: | This point is not used in osu!mania and you can ignore it. |
-| Overall Difficulty (OD): | OD changes the hit error range of all judgements except 300g. It is recommended to use lower OD for maps that are Long Note oriented, vice versa for Note oriented maps. |
+| Name                     | Description                                                                                                                                                                                                                                                                                             |
+| :----------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| HP Drain Rate (HP):      | A higher value means a more punishing drain and a lower recovery, vice versa. A commonly used HP value would be **7** _Note: Only 50 or Misses will drain HP_                                                                                                                                           |
+| Key Count:               | Here you have to set the key count in which you want to map. In this Guide I will use 4K. Note that only 4K, 5K, 6K, 7K, 8K and 9K maps are rankable. The checkbox "Co-Op" can be selected when you choose 5K and above,  doubling the keycount. This allows you to play with a friend on one keyboard. |
+| Approach Rate:           | This point is not used in osu!mania and you can ignore it.                                                                                                                                                                                                                                              |
+| Overall Difficulty (OD): | OD changes the hit error range of all judgements except 300g. It is recommended to use lower OD for maps that are Long Note oriented, vice versa for Note oriented maps.                                                                                                                                |
 
 #### Design
 
 ![Design tab](img/Design.png "Design tab")
 
-| Name | Description |
-| :-- | :-- |
-| Countdown: | Here you can set a countdown for your map. It is not recommended to enable it. |
-| Widescreen Support: | This box should only be enabled when your map has a widescreen storyboard. |
-| Display Epilepsy Warning: | Should you use a storyboard with rapidly flashing lights, it's very important to enable this box! This warns the player about the storyboard so he can disable it or increase the Background Dim. |
-| Letterboxing During Breaks: | Letterboxing shows little boxes at the top and bottom of the screen while in a break. |
+| Name                        | Description                                                                                                                                                                                       |
+| :-------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Countdown:                  | Here you can set a countdown for your map. It is not recommended to enable it.                                                                                                                    |
+| Widescreen Support:         | This box should only be enabled when your map has a widescreen storyboard.                                                                                                                        |
+| Display Epilepsy Warning:   | Should you use a storyboard with rapidly flashing lights, it's very important to enable this box! This warns the player about the storyboard so he can disable it or increase the Background Dim. |
+| Letterboxing During Breaks: | Letterboxing shows little boxes at the top and bottom of the screen while in a break.                                                                                                             |
 
 #### Advanced
 
 ![Advanced tab](img/Advanced.png "Advanced tab")
 
-| Name | Description |
-| :-- | :-- |
-| Stacking: | This point has no effect for osu!mania so no need to change anything here. |
-| Allowed Modes: | With this point, you change the mode of the editor to the one you want to use for your map. This guide is about osu!mania so we use "osu!mania" of course. Should you choose "All", your editor will be set to osu!standard.  **Changing this option while in an existing osu!mania map will overwrite the map.** |
+| Name                                         | Description                                                                                                                                                                                                                                                                                                                                                                                               |
+| :------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Stacking:                                    | This point has no effect for osu!mania so no need to change anything here.                                                                                                                                                                                                                                                                                                                                |
+| Allowed Modes:                               | With this point, you change the mode of the editor to the one you want to use for your map. This guide is about osu!mania so we use "osu!mania" of course. Should you choose "All", your editor will be set to osu!standard.  **Changing this option while in an existing osu!mania map will overwrite the map.**                                                                                         |
 | Use special Style (N+1 style) for osu!mania: | If you map in a keymode which uses a special key (5K and 8K) you can enable this point. This allows the player to swap the **special column** to their left or right depending on their settings. Known in "BMS" as the "Scratch Column", it is commonly used in 7+1K (8K) osu!mania. Mapping 7+1K is akin to mapping a 7K map, but an extra **special column** is generated for the mapper's discretion. |
 
 The point **Colours** is not used in osu!mania so we don't need to change anything there.
@@ -118,9 +118,9 @@ Most of the time, your offset will be slightly off, that is, the ticking will so
 
 Usually, the initial BPM found will be slightly off, you will need to verify the BPM is correct.
 
-*Note that bad offsets are different from bad BPMs.*
+_Note that bad offsets are different from bad BPMs._
 
-For inaccurate BPM values, the ticking will *sway* it gets **more prominent** the further away you get from the **red line** in the timeline (at the bottom of the editor). This is a telltale sign that your BPM is inaccurate. Try adjusting it by +1 or -1.
+For inaccurate BPM values, the ticking will _sway_ it gets **more prominent** the further away you get from the **red line** in the timeline (at the bottom of the editor). This is a telltale sign that your BPM is inaccurate. Try adjusting it by +1 or -1.
 
 If all else fails, you can ask for help in the `#osu` or `#osumania` channel.
 
@@ -132,7 +132,7 @@ Should it be right, your song is finally timed!
 
 #### MixMeister BPM Analyzer
 
-I also would like to show you a little program that can be really helpful to find the right BPM really fast. It is called ***MixMeister BPM Analyzer***. This program will show you the average BPM of your song. It has just one weak point. It can not show you multiple BPMs. It will show you the average BPM of all BPM points in your song. To say it simple: It helps with single BPM only. You can search for it on Google or just click [here](https://dropbox.com/s/m4pjenvo4n65943/bpmanalyzer.zip?dl=0). Don't try to use it to time every map of you. You will never learn how to time songs when you let this program time everything for you. Use it to compare it with your BPM to check if you got the right one!
+I also would like to show you a little program that can be really helpful to find the right BPM really fast. It is called **_MixMeister BPM Analyzer_**. This program will show you the average BPM of your song. It has just one weak point. It can not show you multiple BPMs. It will show you the average BPM of all BPM points in your song. To say it simple: It helps with single BPM only. You can search for it on Google or just click [here](https://dropbox.com/s/m4pjenvo4n65943/bpmanalyzer.zip?dl=0). Don't try to use it to time every map of you. You will never learn how to time songs when you let this program time everything for you. Use it to compare it with your BPM to check if you got the right one!
 
 #### Multiple BPMs
 
@@ -144,11 +144,11 @@ Go to the point where the BPM changes, press F6 to open the Timing panel, add an
 
 ![Timing Setup](/wiki/Beatmap_Editor/Timing/img/TimingSetup.jpg "Timing Setup")
 
-| Name | Description |
-| :-- | :-- |
-| Timing Point: | The timing point or "Red Line" is there to time your song. Without it you can't start mapping. Refer to above on steps to [**Timing**](#timing) your song |
-| Inherited Point: | The inherited point or "Green Line" is used to add "effects" to your map. With these, you can change the volume, the sample set, the slider velocity (SV) and you can add a [Kiai-Time](/wiki/Beatmap_Editor/Kiai_Time). |
-| Kiai: | The Kiai can be selected in "Style" and can be added between two inherited points. The Kiai Time is normally used in the chorus of your Song. It'll spawn star fountains on both sides of the screen and is used to emphasize a section of the map. |
+| Name             | Description                                                                                                                                                                                                                                         |
+| :--------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Timing Point:    | The timing point or "Red Line" is there to time your song. Without it you can't start mapping. Refer to above on steps to [**Timing**](#timing) your song                                                                                           |
+| Inherited Point: | The inherited point or "Green Line" is used to add "effects" to your map. With these, you can change the volume, the sample set, the slider velocity (SV) and you can add a [Kiai-Time](/wiki/Beatmap_Editor/Kiai_Time).                            |
+| Kiai:            | The Kiai can be selected in "Style" and can be added between two inherited points. The Kiai Time is normally used in the chorus of your Song. It'll spawn star fountains on both sides of the screen and is used to emphasize a section of the map. |
 
 ### Pattern
 
@@ -162,7 +162,7 @@ The LN is the "Slider" in osu!mania. Using LNs are the best way to represent lon
 
 #### Chord
 
-In the screenshot I have used a two note chord. Chords mean *more than 1 note*. "Doubles", "triples" or "quads" fall into that category. It is used to emphasize strong sounds in your song like heavy drums or cymbals.
+In the screenshot I have used a two note chord. Chords mean _more than 1 note_. "Doubles", "triples" or "quads" fall into that category. It is used to emphasize strong sounds in your song like heavy drums or cymbals.
 
 If you are planning to rank your map, you can use up to six notes! Anything more is against the Ranking Criteria.
 
@@ -230,7 +230,7 @@ Okay! These are some of the different patterns you can use in your song! However
 
 ### Mapping
 
-After we finally know which patterns we can use and how they are called we can start with the mapping. Just drag the song you want to map into osu!, fill out the song setup up and add the timing! If your first tries look kinda strange or you don't like it, don't give up! No one is born as a master. Testplay your map as often as you can and when it is finished try to get as much feedback as possible! Ask friends that play osu!mania, ask in \#osumania or write directly to some player in-game and ask for feedback. It really helps a lot when you use the 25% playback rate while mapping. Alright, let's go! In this part I would like to explain what exactly you should have an eye on while mapping an Easy/Normal/Hard or Insane difficulty.
+After we finally know which patterns we can use and how they are called we can start with the mapping. Just drag the song you want to map into osu!, fill out the song setup up and add the timing! If your first tries look kinda strange or you don't like it, don't give up! No one is born as a master. Testplay your map as often as you can and when it is finished try to get as much feedback as possible! Ask friends that play osu!mania, ask in #osumania or write directly to some player in-game and ask for feedback. It really helps a lot when you use the 25% playback rate while mapping. Alright, let's go! In this part I would like to explain what exactly you should have an eye on while mapping an Easy/Normal/Hard or Insane difficulty.
 
 **Notice**: Keep in mind that everything what I will write from here is just a guideline and you should not take this as actual rule. You don't need to follow this guideline verbatim.
 
@@ -280,18 +280,18 @@ First you need the hitsounds you want to add. These have to be a .wav file. You 
 
 Following hitsounds can be changed in the song folder:
 
-- normal-hitnormal
-- normal-hitwhistle
-- normal-hitfinish
-- normal-hitclap
-- soft-hitnormal
-- soft-hitwhistle
-- soft-hitfinish
-- soft-hitclap
-- drum-hitnormal
-- drum-hitwhistle
-- drum-hitfinish
-- drum-hitclap
+-   normal-hitnormal
+-   normal-hitwhistle
+-   normal-hitfinish
+-   normal-hitclap
+-   soft-hitnormal
+-   soft-hitwhistle
+-   soft-hitfinish
+-   soft-hitclap
+-   drum-hitnormal
+-   drum-hitwhistle
+-   drum-hitfinish
+-   drum-hitclap
 
 You can add more than just these! You can name your hitsounds as well! As an example "soft-hitnormal2". You need to change the sample set you want to use in the Timing Setup Panel.
 **Also notice:** The "xxx-hitnormal" is the hitsound which gets played when you don't give the note a specific hitsound. For example; when you change the "soft-hitnormal", every note in your map that has the soft sample-set active will have this hitsound! Be careful when changing them.
@@ -308,19 +308,27 @@ You don't even have to select all of this by hand. You can also change the sampl
 
 #### Hitsound Hotkeys
 
-- `Shift` + `Q` changes the Sample set to "Auto"
-- `Shift` + `W` changes the Sample set to "Normal"
-- `Shift` + `E` changes the Sample set to "Soft"
-- `Shift` + `R` changes the Sample set to "Drum"
+-   `Shift` + `Q` changes the Sample set to "Auto"
 
-- `CTRL` + `Q` changes the Additions to "Auto"
-- `CTRL` + `W` changes the Additions to "Normal"
-- `CTRL` + `E` changes the Additions to "Soft"
-- `CTRL` + `R` changes the Additions to "Drum"
+-   `Shift` + `W` changes the Sample set to "Normal"
 
-- `W` gives your note the effect "Whistle"
-- `E` gives your note the effect "Finish"
-- `R` gives your note the effect "Clap"
+-   `Shift` + `E` changes the Sample set to "Soft"
+
+-   `Shift` + `R` changes the Sample set to "Drum"
+
+-   `CTRL` + `Q` changes the Additions to "Auto"
+
+-   `CTRL` + `W` changes the Additions to "Normal"
+
+-   `CTRL` + `E` changes the Additions to "Soft"
+
+-   `CTRL` + `R` changes the Additions to "Drum"
+
+-   `W` gives your note the effect "Whistle"
+
+-   `E` gives your note the effect "Finish"
+
+-   `R` gives your note the effect "Clap"
 
 **Note:** Of course you can add more than one effect on a note!
 

@@ -11,9 +11,10 @@ outdated_since: cf41ce8611b21171619b93d9c57aa61f95270db7
 
 ### Windows
 
-| Obecna, domyślna ścieżka | Stara ścieżka |
-| ------------------------ | ---------------------- |
-| C:\Users\<Username>\AppData\Local\osu! | C:\Program Files\osu! / C:\Program Files(x86)\osu! (dla 7 64-bit lub 8) |
+| Obecna, domyślna ścieżka                    | Stara ścieżka                                                               |
+| ------------------------------------------- | --------------------------------------------------------------------------- |
+| C:\\Users\\<Username>\\AppData\\Local\\osu! | C:\\Program Files\\osu! / C:\\Program Files(x86)\\osu! (dla 7 64-bit lub 8) |
+
 > "C:" jest twoim dyskiem z zainstalowanym osu!.
 
 ## Foldery
@@ -43,10 +44,10 @@ Pojawia się, gdy zmienisz swój język w Opcjach. **'Zawiera przetłumaczone pl
 
 ### Replays
 
-Zawiera **zewnętrzny, wykonywalny plik z powtórką (.osr)**. Nie działa, gdy nie posiadasz mapy do której chcesz obejrzeć powtórkę. Przetrzymuje wyniki i odtwarza ruch kursora w powtórce. Żeby stworzyć plik .osr, wciśnij ***[F2]*** na ekranie rezultatu albo zaznacz pole "Save as .osr" na ekranie Rankingu Online (poniżej ekranu Rezultatu w trybie Solo). Nie zapisuje replayów z trybu Multiplayer. Wielkość pliku sięga blisko 100KB ~ 1KB. [Dla graczy zainteresowanych wstawianiem powtórek na YouTube](https://osu.ppy.sh/community/forums/topics/108092).
+Zawiera **zewnętrzny, wykonywalny plik z powtórką (.osr)**. Nie działa, gdy nie posiadasz mapy do której chcesz obejrzeć powtórkę. Przetrzymuje wyniki i odtwarza ruch kursora w powtórce. Żeby stworzyć plik .osr, wciśnij **_[F2]_** na ekranie rezultatu albo zaznacz pole "Save as .osr" na ekranie Rankingu Online (poniżej ekranu Rezultatu w trybie Solo). Nie zapisuje replayów z trybu Multiplayer. Wielkość pliku sięga blisko 100KB ~ 1KB. [Dla graczy zainteresowanych wstawianiem powtórek na YouTube](https://osu.ppy.sh/community/forums/topics/108092).
 
 Szyk: `{Lokalny pseudonim gracza} - {Wykonawca} - {Tytuł} {[Poziom trudności]}{(Rok-Miesiąc-Dzień)} {Tryb Gry}`
-**Przykład:** dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS]  (2013-08-12) OsuMania
+**Przykład:** dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS](2013-08-12) OsuMania
 
 ### Screenshots
 

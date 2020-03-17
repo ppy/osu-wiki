@@ -38,11 +38,11 @@ Once again, do support [osu!archive](https://www.reddit.com/r/osugame/comments/6
 
 [Cookiezi](https://osu.ppy.sh/users/124493) has certainly stepped up his game after the YACA meeting, taking an outstanding 98.38% HD FC on [penoreri - Preserved Valkyria](https://osu.ppy.sh/beatmaps/828242) on the Arles difficulty in a multiplayer lobby! All he could say was "ez".
 
-[BeasttrollMC](https://osu.ppy.sh/users/3171691) has taken the leap of faith into the 500pp pool with a crazy 98.55% FC on [DragonForce - Extraction Zone](https://osu.ppy.sh/beatmaps/1007522?m=0), earning himself 533pp! Recently ranked, this map stands at 6.93* and at OD9. What else can we say? He is a beast after all.
+[BeasttrollMC](https://osu.ppy.sh/users/3171691) has taken the leap of faith into the 500pp pool with a crazy 98.55% FC on [DragonForce - Extraction Zone](https://osu.ppy.sh/beatmaps/1007522?m=0), earning himself 533pp! Recently ranked, this map stands at 6.93\* and at OD9. What else can we say? He is a beast after all.
 
 ## SCORESHOW WITH ZSEIKIMATSU
 
-[_yu68](https://osu.ppy.sh/users/6170507) and [uone](https://osu.ppy.sh/users/5321719) go head to head on the recently ranked map [Infected Mushroom - The Legend of the Black Shawarma](https://osu.ppy.sh/beatmaps/1383931?m=1) with HDDT!
+[\_yu68](https://osu.ppy.sh/users/6170507) and [uone](https://osu.ppy.sh/users/5321719) go head to head on the recently ranked map [Infected Mushroom - The Legend of the Black Shawarma](https://osu.ppy.sh/beatmaps/1383931?m=1) with HDDT!
 
 <iframe width="100%" height="315"  src="https://www.youtube.com/embed/3rRT6q1FOug" frameborder="0" allowfullscreen></iframe></br>
 

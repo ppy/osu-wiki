@@ -13,25 +13,25 @@ You can discuss this event in the **[official forum thread](https://osu.ppy.sh/c
 
 ## Tournament Schedule
 
-+ Registration Phase: 13. - 29. October 2017
-+ Live Drawings: 12. November 2017 14:00 UTC+0
-+ Group Stage: 18. - 19. November 2017
-+ Round of 16: 25. - 26. November 2017
-+ Quarterfinals: 2. - 3. December 2017
-+ Semifinals: 9. - 10. December 2017
-+ Finals: 15. - 17. December 2017
+-   Registration Phase: 13. - 29. October 2017
+-   Live Drawings: 12. November 2017 14:00 UTC+0
+-   Group Stage: 18. - 19. November 2017
+-   Round of 16: 25. - 26. November 2017
+-   Quarterfinals: 2. - 3. December 2017
+-   Semifinals: 9. - 10. December 2017
+-   Finals: 15. - 17. December 2017
 
 ## Prizes
 
-+ **1st:** $300 per team member, exclusive osu! tumbler and pins, profile badge, "osu! Champion" user title for one year
-+ **2nd:** $160 per team member, exclusive osu! tumbler and pins, profile badge
-+ **3rd:** $80 per team member, exclusive osu! tumbler and pins, profile badge
+-   **1st:** $300 per team member, exclusive osu! tumbler and pins, profile badge, "osu! Champion" user title for one year
+-   **2nd:** $160 per team member, exclusive osu! tumbler and pins, profile badge
+-   **3rd:** $80 per team member, exclusive osu! tumbler and pins, profile badge
 
 ## How do I register?
 
-+ **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/12)**
-+ Do not create teams in advance! Teams will be formed after registration phase concluded by country's team captains.
-+ Hand in your registration before **29. October 2017.**
+-   **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/12)**
+-   Do not create teams in advance! Teams will be formed after registration phase concluded by country's team captains.
+-   Hand in your registration before **29. October 2017.**
 
 Note that you can only participate if you are of a **osu! global ranking of #5000 or higher and did not violate the [osu! community rules](/wiki/Rules) in the past 12 months**.
 

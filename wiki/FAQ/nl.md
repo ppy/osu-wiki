@@ -84,31 +84,31 @@ Voor een spinner krijg je een 300, 100 of 50, afhankelijk van het aantal rotatie
 
 De volgende opties voegen telkens één punt toe aan je score vermenigvuldiger (combo):
 
-- een succesvol geraakte hit circle.
-- een succesvol geraakt beginpunt van een slider.
-- een succesvol geraakt slider-einde.
-- een succesvol geraakte slider tick.
-- een succesvol afgemaakte spinner.
+-   een succesvol geraakte hit circle.
+-   een succesvol geraakt beginpunt van een slider.
+-   een succesvol geraakt slider-einde.
+-   een succesvol geraakte slider tick.
+-   een succesvol afgemaakte spinner.
 
 In de volgende gevallen wordt je combo op 0 teruggezet:
 
-- missen van een hit circle.
-- het veel te vroeg aanklikken van het beginpunt van een slider.
-- het beginpunt of een tick van een slider missen.
-- een spinner niet volledig afmaken.
+-   missen van een hit circle.
+-   het veel te vroeg aanklikken van het beginpunt van een slider.
+-   het beginpunt of een tick van een slider missen.
+-   een spinner niet volledig afmaken.
 
 Dit zal je combo niet breken:
 
-- een slider-einde missen.
+-   een slider-einde missen.
 
 ### Graden
 
-- SS = 100% precisie
-- S = meer dan 90% hits van 300, minder dan 1% hits van 50 zonder te misses.
-- A = meer dan 80% hits van 300 zonder te missen OF meer dan 90% hits van 300.
-- B = meer dan 70% hits van 300 zonder te missen OF meer dan 80% hits van 300.
-- C = meer dan 60% hits van 300.
-- D = al wat niet aan bovenstaande voorwaarden voldoet.
+-   SS = 100% precisie
+-   S = meer dan 90% hits van 300, minder dan 1% hits van 50 zonder te misses.
+-   A = meer dan 80% hits van 300 zonder te missen OF meer dan 90% hits van 300.
+-   B = meer dan 70% hits van 300 zonder te missen OF meer dan 80% hits van 300.
+-   C = meer dan 60% hits van 300.
+-   D = al wat niet aan bovenstaande voorwaarden voldoet.
 
 Een platinum S of SS (ook bekend als respectievelijk SH of SSH) betekent dat het lied werd gespeeld gebruikmakende van de '[hidden](/wiki/Game_Modifiers)' of '[flashlight](/wiki/Game_Modifiers)' mod.
 
@@ -118,15 +118,15 @@ Het systeem gebruikt om de daling en toename van levenspunten te berekenen is ze
 
 Je leven neemt toe wanneer je:
 
-- een hit circle raakt. (Een betere beoordeling leidt tot meer toename. De laatste hit circle in een combokleur geeft je meer leven.)
-- het begin van een slider raakt, de eind- of terugkeertick. (Een betere beoordeling op de eind-tick leidt tot meer toename.)
-- spint en een spinner afmaakt. (Een betere beoordeling op het einde van de spinner leidt tot meer toename.)
+-   een hit circle raakt. (Een betere beoordeling leidt tot meer toename. De laatste hit circle in een combokleur geeft je meer leven.)
+-   het begin van een slider raakt, de eind- of terugkeertick. (Een betere beoordeling op de eind-tick leidt tot meer toename.)
+-   spint en een spinner afmaakt. (Een betere beoordeling op het einde van de spinner leidt tot meer toename.)
 
 Je verliest leven door:
 
-- de continue vermindering op je levensbalk.
-- een hit circle of slider te missen.
-- een spinner niet af te maken.
+-   de continue vermindering op je levensbalk.
+-   een hit circle of slider te missen.
+-   een spinner niet af te maken.
 
 ## Alternatieve spelmodi
 
@@ -184,16 +184,16 @@ Gerankte score telt enkel de beste score voor elke liedjesset, niet voor elke mo
 
 Hier even een voorbeeld... ik heb de volgende punten op drie maps:
 
-- [BRANDY - The Festival of Ghosts 2](https://osu.ppy.sh/beatmapsets/3302)
-  - Relaxing: 3,000,000
-  - **DaRRi MIx: 5,000,000**
-- [ZZ - Samurai Blue](https://osu.ppy.sh/beatmapsets/271)
-  - Easy: 500,000
-  - **Normal: 1,000,000**
-  - Hard: geen score
-- [Matchbox 20 - How Far We've Come](https://osu.ppy.sh/beatmapsets/1264)
-  - **Normal: 2,000,000**
-  - Hard: 1,500,000
+-   [BRANDY - The Festival of Ghosts 2](https://osu.ppy.sh/beatmapsets/3302)
+    -   Relaxing: 3,000,000
+    -   **DaRRi MIx: 5,000,000**
+-   [ZZ - Samurai Blue](https://osu.ppy.sh/beatmapsets/271)
+    -   Easy: 500,000
+    -   **Normal: 1,000,000**
+    -   Hard: geen score
+-   [Matchbox 20 - How Far We've Come](https://osu.ppy.sh/beatmapsets/1264)
+    -   **Normal: 2,000,000**
+    -   Hard: 1,500,000
 
 Mijn totale beste score van elke set is 5,000,000 + 1,000,000 + 2,000,000 = 8,000,000, dat dus mijn totale gerankte score is.
 

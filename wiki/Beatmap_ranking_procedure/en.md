@@ -14,9 +14,9 @@ Before being nominated for ranking, beatmapsets need to receive [hype](/wiki/Glo
 
 ## Nominations
 
-Members of the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BNs*) are experienced modders who are capable of nominating beatmapsets for ranking. Their role is to ensure a beatmapset meets the [Ranking Criteria](/wiki/Ranking_Criteria) as well as their own personal quality standards.
+Members of the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (_BNs_) are experienced modders who are capable of nominating beatmapsets for ranking. Their role is to ensure a beatmapset meets the [Ranking Criteria](/wiki/Ranking_Criteria) as well as their own personal quality standards.
 
-Members of the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) may also nominate beatmaps, however that is not their primary role.
+Members of the [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (_NAT_) may also nominate beatmaps, however that is not their primary role.
 
 It is recommended to receive mods before requesting nominations from BNs, however five hypes are the only pre-requisite.
 

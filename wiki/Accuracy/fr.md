@@ -37,7 +37,7 @@ Dans osu!taiko, la précision est calculée en prenant la somme de la précision
 
 Dans osu!catch, la précision est calculée en prenant le total des objets touchés non-spinner collectés divisé par le nombre total d'objets non-spinner. Tous les objets touchés ont la même valeur, à l'exception des bananes, car ils font partie de l'objet fileur.
 
-*Remarque pour les utilisateurs de l'API: pour calculer la précision dans osu!catch, le nombre de droplets est inférieur à `count50` et le nombre de droplets manquées est sous `countkatu`.*
+_Remarque pour les utilisateurs de l'API: pour calculer la précision dans osu!catch, le nombre de droplets est inférieur à `count50` et le nombre de droplets manquées est sous `countkatu`._
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
@@ -51,11 +51,11 @@ Graphique de performance
 
 Le graphique des performances est un graphique qui affiche les performances du joueur (en fonction de sa barre de vie) au cours d'une partie (temps). Des informations supplémentaires peuvent être affichées lorsque vous passez le curseur dans le jeu dessus.
 
-*Remarque: Les informations supplémentaires ne peuvent être affichées qu'après avoir joué une beatmap ou avoir regardé une relecture exportée. Après avoir quitté l'[écran des résultats](/wiki/results_screen), ces informations ne seront pas enregistrées.*
+_Remarque: Les informations supplémentaires ne peuvent être affichées qu'après avoir joué une beatmap ou avoir regardé une relecture exportée. Après avoir quitté l'[écran des résultats](/wiki/results_screen), ces informations ne seront pas enregistrées._
 
 ### Précision
 
-Lorsque vous survolez le graphique des performances, une info-bulle s'affiche avec une *Erreur* et *Taux instable*.
+Lorsque vous survolez le graphique des performances, une info-bulle s'affiche avec une _Erreur_ et _Taux instable_.
 
 En raison de la façon dont les mods [DT](/wiki/DT) (Double Time) et [HT](/wiki/HT) (Half Time) sont implémentées, les valeurs d'erreur et de taux instable seront multipliées par le même facteur que le morceau. Pour obtenir les vraies valeurs lors de la lecture de DT, divisez les résultats par 1,5. De même, multipliez les résultats par 1,33 lorsque vous jouez HT.
 
@@ -69,7 +69,7 @@ Le taux instable représente la cohérence du timing des hits, où les nombres i
 
 ### Spin
 
-*Note: Spin est seulement utiliser pour [osu!standard](/wiki/Game_Modes/osu!).*
+_Note: Spin est seulement utiliser pour [osu!standard](/wiki/Game_Modes/osu!)._
 
 En plus de la précision, certaines informations concernant les spinners sont également visibles dans la même info-bulle.
 

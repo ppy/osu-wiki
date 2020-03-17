@@ -12,10 +12,10 @@ Cela signifie que vous pouvez maintenant annoncer et rejoindre des parties multi
 
 ## Comment ça marche ?
 
-- **Vérifiez bien qu'osu! est à jour en démarrant le jeu.** Discord RPC ne fonctionne qu'à partir de la version spéciale Halloween d'osu! et n'importe quelle version qui s'ensuit - ça ne fonctionnera **pas** si votre jeu n'est pas à jour.
-- Assurez-vous que Discord détecte bien osu! lorsque ce dernier est démarré -  il est généralement détecté automatiquement, si ce n'est pas le cas ajoutez le jeu sur Discord dans `Paramètres` -> `Activité de jeu`.
-- Activez l'option `Affiche le jeu en tant que message de statut` dans la section `Activité de jeu`. Cela permet d'afficher le jeu auquel vous jouez sous votre pseudo Discord, mais elle n'est pas obligatoire pour rejoindre la partie d'un autre joueur.
-- Créez un salon multijoueur, allez sur le serveur Discord de votre choix puis cliquez sur cette icône (![le bouton vert avec un plus derrière](img/shiny-green-button.jpg)). Ce bouton vert peut prendre un peu de temps à s'afficher si vous venez de démarrer le jeu.
+-   **Vérifiez bien qu'osu! est à jour en démarrant le jeu.** Discord RPC ne fonctionne qu'à partir de la version spéciale Halloween d'osu! et n'importe quelle version qui s'ensuit - ça ne fonctionnera **pas** si votre jeu n'est pas à jour.
+-   Assurez-vous que Discord détecte bien osu! lorsque ce dernier est démarré -  il est généralement détecté automatiquement, si ce n'est pas le cas ajoutez le jeu sur Discord dans `Paramètres` -> `Activité de jeu`.
+-   Activez l'option `Affiche le jeu en tant que message de statut` dans la section `Activité de jeu`. Cela permet d'afficher le jeu auquel vous jouez sous votre pseudo Discord, mais elle n'est pas obligatoire pour rejoindre la partie d'un autre joueur.
+-   Créez un salon multijoueur, allez sur le serveur Discord de votre choix puis cliquez sur cette icône (![le bouton vert avec un plus derrière](img/shiny-green-button.jpg)). Ce bouton vert peut prendre un peu de temps à s'afficher si vous venez de démarrer le jeu.
 
 Voici une [vidéo de démonstration](https://assets.ppy.sh/media/halloween-2017/themoon.mp4)
 
@@ -43,4 +43,4 @@ C'est parfaitement normal, attendez quelques minutes et vous pourrez continuer �
 
 ## Trivia
 
-- Sujet original: [Discord RPC - join multiplayer (and more) from Discord!](https://osu.ppy.sh/community/forums/topics/659856) par [Ephemeral](https://osu.ppy.sh/users/102335)
+-   Sujet original: [Discord RPC - join multiplayer (and more) from Discord!](https://osu.ppy.sh/community/forums/topics/659856) par [Ephemeral](https://osu.ppy.sh/users/102335)

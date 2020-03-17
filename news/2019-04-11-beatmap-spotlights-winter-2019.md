@@ -14,19 +14,19 @@ The beatmap charts for the Winter Spotlights can be found [here](https://osu.ppy
 
 First of all, congratulations to the winners of the Seasonal Spotlights: Autumn 2018. They will receive 3, 2, and 1 months of supporter for 1st, 2nd, and 3rd place respectively for their efforts!
 
-- **osu!:** [Toy](https://osu.ppy.sh/users/2757689), [StreaminDemon](https://osu.ppy.sh/users/6245906) and [Lilily](https://osu.ppy.sh/users/6502403)
-- **osu!taiko:** [Jaye](https://osu.ppy.sh/users/4841352), [ZTH](https://osu.ppy.sh/users/5258461) and [Edgar_Figaro](https://osu.ppy.sh/users/6508754)
-- **osu!catch:** [Crystal](https://osu.ppy.sh/users/1646397), [Guillotine](https://osu.ppy.sh/users/4365562) and [RAMPAGE88](https://osu.ppy.sh/users/448547)
-- **osu!mania:** [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), [Stink God](https://osu.ppy.sh/users/7381289) and [Cryolien](https://osu.ppy.sh/users/1626983)
+-   **osu!:** [Toy](https://osu.ppy.sh/users/2757689), [StreaminDemon](https://osu.ppy.sh/users/6245906) and [Lilily](https://osu.ppy.sh/users/6502403)
+-   **osu!taiko:** [Jaye](https://osu.ppy.sh/users/4841352), [ZTH](https://osu.ppy.sh/users/5258461) and [Edgar_Figaro](https://osu.ppy.sh/users/6508754)
+-   **osu!catch:** [Crystal](https://osu.ppy.sh/users/1646397), [Guillotine](https://osu.ppy.sh/users/4365562) and [RAMPAGE88](https://osu.ppy.sh/users/448547)
+-   **osu!mania:** [\[Crz\]Satori](https://osu.ppy.sh/users/7082178), [Stink God](https://osu.ppy.sh/users/7381289) and [Cryolien](https://osu.ppy.sh/users/1626983)
 
 # Winter 2019 Spotlights
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+-   [osu!](#osu)
+-   [osu!taiko](#taiko)
+-   [osu!catch](#catch)
+-   [osu!mania](#mania)
 
 ## <a name="osu" id="osu"></a>osu!
 
@@ -52,7 +52,7 @@ Don't stay up late while playing this mapset, or you might experience some sleep
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/osu/colors.jpg)](https://osu.ppy.sh/beatmapsets/317439)
 
-[wa_](https://osu.ppy.sh/users/1572001) makes a return to the ranked section with their amazing set of "Colors sasakure.UK Futurelogic Remix" by dj TAKA. This map will really test your skills with spaced streams, stream jumps, and 1/4 jumps! It's also a massive feat to see 1 mapper mapping all the difficulties in a 4 minute song. Overall, this is a very high effort set that you'll be feeling blue when you play it!
+[wa\_](https://osu.ppy.sh/users/1572001) makes a return to the ranked section with their amazing set of "Colors sasakure.UK Futurelogic Remix" by dj TAKA. This map will really test your skills with spaced streams, stream jumps, and 1/4 jumps! It's also a massive feat to see 1 mapper mapping all the difficulties in a 4 minute song. Overall, this is a very high effort set that you'll be feeling blue when you play it!
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/osu/saisaki.jpg)](https://osu.ppy.sh/beatmapsets/858075)
 
@@ -291,13 +291,13 @@ The balance in this map between serenity and chaos perfectly represents the musi
 
 [![](/wiki/shared/news/2019-04-11-beatmap-spotlights-winter-2019/mania/relentless.jpg)](https://osu.ppy.sh/beatmapsets/881771)
 
-Are you ready for the ruffneck bass? As a skillful osu!mania mapper and Beatmap Nominator who brought the ranked section with a few delicate 4K spreads in the past, [_Stan](https://osu.ppy.sh/users/1653229) this time returns with an unexpected 7K marathon of this exciting piece of electronic music, DJ Noriken - #The_Relentless(Modified), that testifies to his deep understanding of 7K mapping as well.
+Are you ready for the ruffneck bass? As a skillful osu!mania mapper and Beatmap Nominator who brought the ranked section with a few delicate 4K spreads in the past, [\_Stan](https://osu.ppy.sh/users/1653229) this time returns with an unexpected 7K marathon of this exciting piece of electronic music, DJ Noriken - #The_Relentless(Modified), that testifies to his deep understanding of 7K mapping as well.
 
 This marathon is mostly composed of normal notes, but in a way that fully convey every single line of music, making it actually more interesting and beginner-friendly. However, it is challenging at the same time, since \_Stan creates it in a way that gradually poses more difficulty onto the map. At the last kiai, the full mixture of short LNs with streams greatly enhances the overall difficulty of the map to mark the pinnacle of his understanding over the progression of the music, while it also necessarily avoids SR inflation.
 
 In this way, this mapset deserves a place in the spotlight and we sincerely look forward to \_Stan's future 7K creations!
 
----
+* * *
 
 The spreadsheet for this season's selection is available [here](https://goo.gl/bQf6oU). Feel free to check it out!
 

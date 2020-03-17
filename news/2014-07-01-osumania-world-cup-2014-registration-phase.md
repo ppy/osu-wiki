@@ -10,7 +10,6 @@ Greetings. We'd like to welcome all of you to this year's official osu!mania Wor
 ![image](/wiki/shared/news/banners/MWC_2014.png)
 
 For more details, refer to the [osu!mania World Cup 2014 wiki article](https://osu.ppy.sh/help/wiki/Tournaments/MWC/2014).  
-  
 
 ## Tournament Schedule
 
@@ -44,7 +43,6 @@ For more details, refer to the [osu!mania World Cup 2014 wiki article](https://o
 **To register, fill out [this form](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY/edit).**  
 **Then, verify your registration by sending a PM to Loctav titled "MWC Registration".**  
 When your registration was successful, your team's captain will be notified. _Any registrations or team changes past the deadline can not be considered._  
-  
 
 ## Links
 

@@ -12,17 +12,17 @@ It aims to shift the focus of skill progression from the amount of time played t
 
 ## History
 
-Revealed to the public during April 2012 and titled only as the mysterious *'???'* project, the enigmatic system eventually received its full name later on in the month.
+Revealed to the public during April 2012 and titled only as the mysterious _'???'_ project, the enigmatic system eventually received its full name later on in the month.
 
 Known thereafter as "pp", short for "performance points", this new system sought to change the previous standard of player performance from simply total score to something that accurately reflected player skill. This was met to widespread acclaim among the player base at the time.
 
 Several months after its reveal, the [(20120722-24) osu! release](https://osu.ppy.sh/community/forums/posts/1687719) officially implemented the system to fully replace the old Ranked score system, with new scores being calculated every 30 minutes. Later on in August in the same year, the system was improved to update in real-time.
 
-It continued to exist in this capacity for more than a year of service, until [Tom94](https://osu.ppy.sh/users/1857058), the creator of the *osu!tp* scoring metric, joined the osu! team and implemented his design into the system. The resulting system was titled *ppv2*, and became live on the 27th of January, 2014.
+It continued to exist in this capacity for more than a year of service, until [Tom94](https://osu.ppy.sh/users/1857058), the creator of the _osu!tp_ scoring metric, joined the osu! team and implemented his design into the system. The resulting system was titled _ppv2_, and became live on the 27th of January, 2014.
 
-*ppv2* is currently in active service, with live updates published to its [changelog](https://osu.ppy.sh/p/changelog?category=pp).
+_ppv2_ is currently in active service, with live updates published to its [changelog](https://osu.ppy.sh/p/changelog?category=pp).
 
-*ppv1*, the original build of the Performance Points system also had a changelog, which you may view from its [forum topic](https://osu.ppy.sh/community/forums/topics/92185).
+_ppv1_, the original build of the Performance Points system also had a changelog, which you may view from its [forum topic](https://osu.ppy.sh/community/forums/topics/92185).
 
 ## How is pp calculated?
 
@@ -90,9 +90,9 @@ This means that only your highest pp score will award the full amount of pp for 
 
 To provide an example of this with a mathematical formula:
 
-Let _PP_ represent each score's individual pp value. _PP\[i\]_ denotes the *i*th score's pp value, sorted descending, where _i_ ranges from 1 to _n_, and _n_ is defined as the amount of scores you have.
+Let _PP_ represent each score's individual pp value. _PP\[i]_ denotes the _i_th score's pp value, sorted descending, where _i_ ranges from 1 to _n_, and _n_ is defined as the amount of scores you have.
 
-```Total pp = PP[1] * 0.95^0 + PP[2] * 0.95^1 + PP[3] * 0.95^2 + ... + PP[n] * 0.95^(n-1)```
+`Total pp = PP[1] * 0.95^0 + PP[2] * 0.95^1 + PP[3] * 0.95^2 + ... + PP[n] * 0.95^(n-1)`
 
 ### How much bonus pp is awarded for having lots of scores on ranked maps?
 
@@ -103,7 +103,6 @@ You can calculate the exact amount of this bonus by following this formula, wher
 `416.6667 * (1 - 0.9994 ^ N)`.
 
 The median number of scores required to reach half of this bonus is roughly 1155 scores. As you can see, the amount of scores required spikes sharply towards the upper end of the spectrum.
-
 
 ## FAQ
 
@@ -121,10 +120,10 @@ The best way to improve is to thus work at getting good scores on difficult maps
 
 Consider the following tips:
 
-- Play efficiently and figure out which play style works best for you.
-- Focus on getting a handful of excellent scores, instead of "farming" hundreds of just okay scores.
-- Aim to improve your accuracy. Even 1% makes a massive difference.
-- Aim for higher combos. Full combos (FC) or perfect (SS) scores give tremendous amounts of score.
+-   Play efficiently and figure out which play style works best for you.
+-   Focus on getting a handful of excellent scores, instead of "farming" hundreds of just okay scores.
+-   Aim to improve your accuracy. Even 1% makes a massive difference.
+-   Aim for higher combos. Full combos (FC) or perfect (SS) scores give tremendous amounts of score.
 
 ### Why didn't I gain the full amount of pp from a map I played?
 
@@ -140,11 +139,11 @@ The second score is worth only 95% of its total pp as it is not your top score, 
 
 Now, let us posit that you set a brand new 110pp score. Your top rankings now look like this:
 
-1. 110pp, weighted 100% = 110
-2. 100pp, weighted 95% = 95
-3. 100pp, weighted 90% = 90
+1.  110pp, weighted 100% = 110
+2.  100pp, weighted 95% = 95
+3.  100pp, weighted 90% = 90
 
-As you may have figured out, your new total pp is not simply ``195 + 110 = 305pp``, but instead ``110 + 95 + 90 = 295pp``.
+As you may have figured out, your new total pp is not simply `195 + 110 = 305pp`, but instead `110 + 95 + 90 = 295pp`.
 
 This means that as you gradually improve at osu!, your pp totals will trend upwards, making your older scores worth progressively less compared to the newer, more difficult scores that you are updating them with.
 

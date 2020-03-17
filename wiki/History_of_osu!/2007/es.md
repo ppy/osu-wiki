@@ -51,7 +51,7 @@ que atrajo a bastantes personas interesadas con experiencias anteriores en juego
 
 ![](img/2007-09_02.jpg "Menu principal")
 
-![](img/2007-09_03.jpg "Ruleta \(basado en el Ouendan oficial de DS\)")
+![](img/2007-09_03.jpg "Ruleta (basado en el Ouendan oficial de DS)")
 
 ![](img/2007-09_04.jpg "Pantalla de clasificación")
 
@@ -79,11 +79,11 @@ La versión 2 de `pUpdater` (`osume`) fue lanzada, soportando la descarga de paq
 
 El rango SS fue agregado al sistema de calificaciones, reemplazando el resultado S en casos de perfección dentro del beatmap. El mod [No Video](/wiki/NV) y [Hidden](/wiki/HD) fueron introducidos, y los resultados SH (S de plata) y SSH (SS de plata) van con el. Por primera vez, Los jugadores podrían asignar skins y conjunto de muestras normales o suaves por sección de tiempo. Los archivos `.osz` pueden ser cargados presionando dos veces sobre estos, o arrastrandolos hasta el ícono de osu!.
 
-![](img/no_video.png "No Video \(v1\)") ![](img/hidden.png "Hidden \(v1\)")
+![](img/no_video.png "No Video (v1)") ![](img/hidden.png "Hidden (v1)")
 
----
+* * *
 
-![](img/2007-11_01.jpg "Menú principal \(Lleno de estrellas\)")
+![](img/2007-11_01.jpg "Menú principal (Lleno de estrellas)")
 
 ![](img/2007-11_02.jpg "Pantalla para iniciar sesión")
 

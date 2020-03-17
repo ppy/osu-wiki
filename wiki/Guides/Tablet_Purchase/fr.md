@@ -16,13 +16,13 @@ Pour faire court, les tablettes sont un appareil optionnel pour vous permettre d
 
 ### osu!store
 
-*Note : **Le osu!store ne vend plus de tablettes osu!.*** En ce moment, [peppy a tweeter](https://twitter.com/ppy/status/846190638873767936) que si vous voulez utiliser une tablette, vous devrez chercher d'autres alternatives.
+\*Note : **Le osu!store ne vend plus de tablettes osu!.\*** En ce moment, [peppy a tweeter](https://twitter.com/ppy/status/846190638873767936) que si vous voulez utiliser une tablette, vous devrez chercher d'autres alternatives.
 
 Avec pour but de permettre aux joueurs d'essayer les tablettes sans dépenser tout leur argent, le osu!store a sorti une tablette osu!. Elles ont été fabriquées par Huion et designer par flyte. La première version de 2013 comprenait la tablette osu! (en blanc), un stylet avec une pointe, 3 pointes remplaçable, mais nécessitait d'une pile AA pour le stylet (qui était inclus mais qui allourdissait le stylet). La seconde version de 2016 comprenait la tablette osu! (en noire), un stylet avec une pointe, 3 pointes remplaçables, mais le stylet devait être chargé en USB (inclus).
 
-![](img/osu!tabletv1.jpg "tablette osu! v1 \(2013\)")
+![](img/osu!tabletv1.jpg "tablette osu! v1 (2013)")
 
-![](img/osu!tabletv2.jpg "tablette osu! v2 \(2016\)")
+![](img/osu!tabletv2.jpg "tablette osu! v2 (2016)")
 
 ### Huion
 
@@ -34,9 +34,9 @@ La HUION H430P (4096) est similaire aux tablettes osu! (en fait il est commercia
 
 Wacom est la "marque" des tablettes. Elle ne fabrique que des tablettes et est reconnue (par les artistes) pour produire des tablette de très bonne qualité et très fiables. Certains recommanderait d'acheter des tablettes Wacon grâce à leur réputation de producteur de tablette de très haute qualité en tant que leader du marché des tablettes. Ils produisent trois gammes principales :
 
-- Cintiq - "Dessinez directement sur l'écran", ces tablettes sont utilisées dans des applications professionnelles très haut de gamme et coûtent très cher.
-- Intuos - La gamme de tablettes professionel offre des fonctionnalités bien au-delà de la gamme Bamboo, mais n’a pas d’écran.
-- Bamboo - La gamme de tablettes grand public, celles-ci sont bon marché avec toutes les fonctionnalités dont vous avez besoin pour débuter en tant qu'amateur.
+-   Cintiq - "Dessinez directement sur l'écran", ces tablettes sont utilisées dans des applications professionnelles très haut de gamme et coûtent très cher.
+-   Intuos - La gamme de tablettes professionel offre des fonctionnalités bien au-delà de la gamme Bamboo, mais n’a pas d’écran.
+-   Bamboo - La gamme de tablettes grand public, celles-ci sont bon marché avec toutes les fonctionnalités dont vous avez besoin pour débuter en tant qu'amateur.
 
 Wacom produit d'autres gammes, comme les tablettes Graphire ou Volito, mais ces noms ont été abandonnés, remplacés par les gammes ci-dessus.
 
@@ -64,10 +64,10 @@ Pour faire court, Wacom est la marque recommandée pour les joueurs les plus sé
 
 Veuillez trouver ci-dessous quelques liens pour acheter les derniers modèles de tablette.
 
-- [Amazon - Tablette Wacom Bamboo Splash Pen (CTL471)](https://a.co/fCXqteP)
-- [Amazon - Tablette Wacom Bamboo Capture Pen and Touch (CTH470)](https://a.co/b4GpKXt)
-- [Huion - HUION H430P (4096)](https://huiontablet.com/all-products/graphic-tablets/huion-h430p-4096.html)
-  - [Amazon - Tablette pour OSU Huion Inspiroy H430P Graphics Drawing](https://a.co/6uDGhXL)
+-   [Amazon - Tablette Wacom Bamboo Splash Pen (CTL471)](https://a.co/fCXqteP)
+-   [Amazon - Tablette Wacom Bamboo Capture Pen and Touch (CTH470)](https://a.co/b4GpKXt)
+-   [Huion - HUION H430P (4096)](https://huiontablet.com/all-products/graphic-tablets/huion-h430p-4096.html)
+    -   [Amazon - Tablette pour OSU Huion Inspiroy H430P Graphics Drawing](https://a.co/6uDGhXL)
 
 ## Conclusion
 
@@ -75,4 +75,4 @@ Ce ne sont que des suggestions. Cependant, il existe certainement d’autres mar
 
 ## Divers
 
-- Le sujet du forum original : [Guide pour acheter une tablette pour osu!](https://osu.ppy.sh/community/forums/topics/71895) par [Daru](https://osu.ppy.sh/users/32480)
+-   Le sujet du forum original : [Guide pour acheter une tablette pour osu!](https://osu.ppy.sh/community/forums/topics/71895) par [Daru](https://osu.ppy.sh/users/32480)

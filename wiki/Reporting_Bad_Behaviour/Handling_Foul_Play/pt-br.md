@@ -2,10 +2,10 @@
 
 ## Por que fui banido?
 
-- 10 silêncios emitidos na sua página de usuário.
-- Você deu a sua conta para outra pessoa.
-- Usou várias contas.
-- Trapaceou (veja abaixo).
+-   10 silêncios emitidos na sua página de usuário.
+-   Você deu a sua conta para outra pessoa.
+-   Usou várias contas.
+-   Trapaceou (veja abaixo).
 
 ## O que é considerado trapaça?
 

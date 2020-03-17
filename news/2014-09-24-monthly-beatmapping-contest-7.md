@@ -15,26 +15,26 @@ The song for this contest is **Soleily - Renatus**. You may listen to a short pr
 
 # What are the prizes?
 
-*   6 months of supporter for you or a friend!
-*   'Elite Mapper' forum title
-*   **Winning mapset will be bundled with the osu! game client download!**
+-   6 months of supporter for you or a friend!
+-   'Elite Mapper' forum title
+-   **Winning mapset will be bundled with the osu! game client download!**
 
 # What are the rules?
 
-*   You must map 3 difficulties in an appropriate spread - either ENH (easy, normal and hard) or NHI (normal, hard, insane). This counts for all 4 brackets.
-*   In the osu!mania bracket, you may only submit difficulties with the same key amount.
-*   Collaboration is allowed, but will only be registered under the name of the person who submitted the beatmap. Prizes for a winning mapset will only be given to the uploader.
-*   Difficulty names must only be the name of the respective difficulty, and nothing else. No ztrot's Hard or anything comparable.
-*   Maps submitted to the contest must not be submitted to the BSS until the contest has concluded.
+-   You must map 3 difficulties in an appropriate spread - either ENH (easy, normal and hard) or NHI (normal, hard, insane). This counts for all 4 brackets.
+-   In the osu!mania bracket, you may only submit difficulties with the same key amount.
+-   Collaboration is allowed, but will only be registered under the name of the person who submitted the beatmap. Prizes for a winning mapset will only be given to the uploader.
+-   Difficulty names must only be the name of the respective difficulty, and nothing else. No ztrot's Hard or anything comparable.
+-   Maps submitted to the contest must not be submitted to the BSS until the contest has concluded.
 
 # Where can I enter?
 
 Submit your creations under the following links:
 
-*   [osu!](https://osu.ppy.sh/p/contest/?c=13)
-*   [Taiko](https://osu.ppy.sh/p/contest/?c=14)
-*   [Catch the Beat](https://osu.ppy.sh/p/contest/?c=15)
-*   [osu!mania](https://osu.ppy.sh/p/contest/?c=16)
+-   [osu!](https://osu.ppy.sh/p/contest/?c=13)
+-   [Taiko](https://osu.ppy.sh/p/contest/?c=14)
+-   [Catch the Beat](https://osu.ppy.sh/p/contest/?c=15)
+-   [osu!mania](https://osu.ppy.sh/p/contest/?c=16)
 
 The deadline for submission is the **October 24th 2014**. Make sure you submit early and be prepared - we won't be accepting late submissions at all this time!
 

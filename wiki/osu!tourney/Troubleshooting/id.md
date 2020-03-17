@@ -12,8 +12,8 @@ Matikan semua monitor sekunder! osu!tourney hanya berjalan di monitor utama. Pas
 
 ## osu!tourney tidak terbuka, dan membuka error prompt dan/atau menutup dengan sendirinya!
 
-- Pastikan Anda telah masuk ke osu! dan kotak 'Ingat Nama Pengguna' dan 'Ingat Kata Sandi' dicentang.
-- Pastikan bahwa kunci `privateserver` di `tournament.cfg` tidak memiliki nilai.
+-   Pastikan Anda telah masuk ke osu! dan kotak 'Ingat Nama Pengguna' dan 'Ingat Kata Sandi' dicentang.
+-   Pastikan bahwa kunci `privateserver` di `tournament.cfg` tidak memiliki nilai.
 
 ## Database lagu osu! saya rusak saat memulai klien!
 
@@ -38,6 +38,7 @@ Ada kemungkinan bahwa ruangan anda salah penamaannya atau anda menggunakan akron
 Pastikan ruangan diberi nama dengan benar mengikuti [panduan penggunaan untuk multiplayer](/wiki/osu!tourney/Multiplayer_Usage) dengan seksama.
 
 ## Nama-nama tim tidak muncul!
+
 Lihat jawaban sebelumnya.
 
 ## Bagaimana cara menyiarkan turnamen saya ke layanan streaming seperti Twitch?
@@ -52,4 +53,4 @@ Jangan lupa untuk menyesuaikan pemotongan untuk menghapus panel kendali hitam da
 
 Pastikan bahwa osu! tidak dijalankan sebagai administrator, kecuali jika diminta sendiri, dan diperbaharui ke build CuttingEdge yang terbaru.
 
-Kirim e-mail ke [tournaments@ppy.sh](mailto:tournaments@ppy.sh) jika anda memiliki masalah yang tidak tercantum di sini. Pastikan untuk deskriptif dan memberikan *screenshot* jika memungkinkan.
+Kirim e-mail ke [tournaments@ppy.sh](mailto:tournaments@ppy.sh) jika anda memiliki masalah yang tidak tercantum di sini. Pastikan untuk deskriptif dan memberikan _screenshot_ jika memungkinkan.

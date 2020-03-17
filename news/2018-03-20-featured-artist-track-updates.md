@@ -50,7 +50,7 @@ We've got **three** new tracks lined up from IAHN in his classic electronic styl
 
 ## Helblinde
 
-We're delighted to offer mappers the tracks from *Omnia Vanitas*, Helblinde's latest EP, offering **four** new songs to test your mapping mettle with.
+We're delighted to offer mappers the tracks from _Omnia Vanitas_, Helblinde's latest EP, offering **four** new songs to test your mapping mettle with.
 
 Do you have what it takes to bend these tracks to your will? [Check out Helblinde's Featured Artist listing for download links and more information!](https://osu.ppy.sh/beatmaps/artists/5)
 
@@ -94,7 +94,7 @@ Still just as hot as it was when we first got it, there's now **one** new catste
 
 ## Loki/Thaehan
 
-Back again under the Thaehan alias with his latest EP, *OMGWTF !*, our favourite EDM master brings **ten** new tracks to the fray, featuring sounds from some much-loved franchises!
+Back again under the Thaehan alias with his latest EP, _OMGWTF !_, our favourite EDM master brings **ten** new tracks to the fray, featuring sounds from some much-loved franchises!
 
 [Check out Loki/Thaehan's Featured Artist listing for download links and more information!](https://osu.ppy.sh/beatmaps/artists/7)
 
@@ -172,9 +172,9 @@ For now, we have only **one** track to offer from his Function Phantom alias, bu
 
 ## Fractal Dreamers
 
-The journey continues on through the soundscapes of the Fractal Dreamers, and we're proud to announce that a selection of tracks from their latest EP, *Everything For A Dream* is now available as a part of this update.
+The journey continues on through the soundscapes of the Fractal Dreamers, and we're proud to announce that a selection of tracks from their latest EP, _Everything For A Dream_ is now available as a part of this update.
 
-If you've been watching the MWC7K World Cup, you might already be familiar with *Fata Morgana* - as an ending snippet is featured as the 'applause' finisher at the end of each match.
+If you've been watching the MWC7K World Cup, you might already be familiar with _Fata Morgana_ - as an ending snippet is featured as the 'applause' finisher at the end of each match.
 
 This means **eight** brand new tracks of varying intensity and composition to play around with. [Check out the Fractal Dreamers Featured Artist listing for more information, and download links!](https://osu.ppy.sh/beatmaps/artists/15)
 
@@ -226,7 +226,7 @@ This means **eight** brand new tracks of varying intensity and composition to pl
     <source src="https://assets.ppy.sh/artists/15/previews/414.mp3" type="audio/mpeg">
 </audio>
 
----------
+* * *
 
 All the tracks listed above are completely free to use for mapping in osu! and any game mode therein, so worry less, and map more!
 

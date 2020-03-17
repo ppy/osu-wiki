@@ -16,13 +16,13 @@ In short, tablets are an optional device to let you play the game in a different
 
 ### osu!store
 
-*Notice: **The osu!store no longer sells osu!tablets.*** At this time, [peppy has tweeted](https://twitter.com/ppy/status/846190638873767936) that if you want to try this input method, you may want to look into other alternatives.
+\*Notice: **The osu!store no longer sells osu!tablets.\*** At this time, [peppy has tweeted](https://twitter.com/ppy/status/846190638873767936) that if you want to try this input method, you may want to look into other alternatives.
 
 With the goal of trying to allow players to try the tablet input method without putting a hole in their wallet, the osu!store once featured the osu!tablet. It was made by Huion and designed by flyte. The first version in 2013 featured the osu!tablet (white), a pen with a nib, 3 replaceable nibs, but required a AA battery for the pen (which was included but would add weight to the pen). The second version in 2016 feature the osu!tablet (black), a pen with a nib, 3 replaceable nibs, but the pen needed to be charged via USB (included).
 
-![](img/osu!tabletv1.jpg "osu!tablet v1 \(2013\)")
+![](img/osu!tabletv1.jpg "osu!tablet v1 (2013)")
 
-![](img/osu!tabletv2.jpg "osu!tablet v2 \(2016\)")
+![](img/osu!tabletv2.jpg "osu!tablet v2 (2016)")
 
 ### Huion
 
@@ -34,9 +34,9 @@ The HUION H430P (4096) is similar to the osu!tablet (in fact, it is marketed tow
 
 Wacom is the "brand name" of tablets. Tablets are all they make and they're widely accepted (by artists) as producing the best quality, most reliable tablets. Some would recommend buying from Wacom because of their reputation as producing high-quality products as a leader in the tablet world. They produce three main lines:
 
-- Cintiq - "Draw directly on the screen" tablets, these are used in very high-end professional applications, and cost a pretty penny.
-- Intuos - The Professional line of tablets, these have features above and beyond the Bamboo line, but lack a screen.
-- Bamboo - The general consumer line of tablets, these come cheap with all the features you need to get started as a hobbyist.
+-   Cintiq - "Draw directly on the screen" tablets, these are used in very high-end professional applications, and cost a pretty penny.
+-   Intuos - The Professional line of tablets, these have features above and beyond the Bamboo line, but lack a screen.
+-   Bamboo - The general consumer line of tablets, these come cheap with all the features you need to get started as a hobbyist.
 
 There are other lines from Wacom, such as the Graphire or Volito tablets, but these names have been discontinued, replaced by the above lines.
 
@@ -64,10 +64,10 @@ In short, Wacom is the recommended brand from most serious osu! players. Cintiq 
 
 Here are some links to purchase the latest models.
 
-- [Amazon - Wacom Bamboo Splash Pen Tablet (CTL471)](https://a.co/fCXqteP)
-- [Amazon - Wacom Bamboo Capture Pen and Touch Tablet (CTH470)](https://a.co/b4GpKXt)
-- [Huion - HUION H430P (4096)](https://huiontablet.com/all-products/graphic-tablets/huion-h430p-4096.html)
-  - [Amazon - Huion Inspiroy H430P Graphics Drawing Tablet for OSU](https://a.co/6uDGhXL)
+-   [Amazon - Wacom Bamboo Splash Pen Tablet (CTL471)](https://a.co/fCXqteP)
+-   [Amazon - Wacom Bamboo Capture Pen and Touch Tablet (CTH470)](https://a.co/b4GpKXt)
+-   [Huion - HUION H430P (4096)](https://huiontablet.com/all-products/graphic-tablets/huion-h430p-4096.html)
+    -   [Amazon - Huion Inspiroy H430P Graphics Drawing Tablet for OSU](https://a.co/6uDGhXL)
 
 ## Conclusion
 
@@ -75,4 +75,4 @@ These are only suggestions, however, there are certainly other brands out there 
 
 ## Trivia
 
-- Original forum post: [Tablet Purchase Guide for osu!](https://osu.ppy.sh/community/forums/topics/71895) by [Daru](https://osu.ppy.sh/users/32480)
+-   Original forum post: [Tablet Purchase Guide for osu!](https://osu.ppy.sh/community/forums/topics/71895) by [Daru](https://osu.ppy.sh/users/32480)

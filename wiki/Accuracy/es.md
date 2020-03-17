@@ -6,18 +6,16 @@ La precisión es una forma de medir la consistencia de un jugador. Hay tres tipo
 
 ### ![](/wiki/shared/mode/osu.png) osu!standard
 
-![Precisión = (50 * número de 50s + 100 * número de 100s + 300 * número de 300s) / 300(número de 0s + número de 50s + número de 100s + número de 300s)](img/accuracy_standard.png "Formula de precisión para osu!standard")
+![Precisión = (50 \* número de 50s + 100 \* número de 100s + 300 \* número de 300s) / 300(número de 0s + número de 50s + número de 100s + número de 300s)](img/accuracy_standard.png "Formula de precisión para osu!standard")
 
 En osu!standard, la precisión se calcula ponderando el criterio con el que se le da a cada nota, multiplicado por su valor y dividido por la cantidad maxima posible.
 
 Referencias para un círculo de golpe
 
-```
-300 -> 300 / 300 = 1   = 100.00%
-100 -> 100 / 300 = 1/3 =  33.00%
-50  ->  50 / 300 = 1/6 =  16.67%
-0   ->   0 / 300 = 0   =   0.00%
-```
+    300 -> 300 / 300 = 1   = 100.00%
+    100 -> 100 / 300 = 1/3 =  33.00%
+    50  ->  50 / 300 = 1/6 =  16.67%
+    0   ->   0 / 300 = 0   =   0.00%
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
@@ -31,7 +29,7 @@ En osu!taiko, la precisión se calcula sumando la precisión de la nota dividida
 
 En osu!catch, la precisión se calcula tomando el total de objetos de golpe recogidos que no sean ruletas dividido por el número total de objetos que no sean ruletas. Todos los objetos golpeados tienen el mismo valor, a excepción de los plátanos ya que son parte de las ruletas
 
-*Nota para los usuarios de API: Para calcular la precisión en osu!catch, el número de gotas está bajo `count50` y el número de gotas perdidas está bajo `countkatu`.*
+_Nota para los usuarios de API: Para calcular la precisión en osu!catch, el número de gotas está bajo `count50` y el número de gotas perdidas está bajo `countkatu`._
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
@@ -45,11 +43,11 @@ En osu!mania, la precisión es calculada de forma similar a [osu!standard](#osu!
 
 El Gráfico de rendimiento es un gráfico que muestra el rendimiento del jugador (basado en su barra de vida) en el transcurso de un beatmap (tiempo). Se puede mostrar información adicional al pasar el cursor sobre él.
 
-*Nota: La información adicional solo se puede ver después de reproducir un beatmap o ver una repetición exportada. Después de salir de la [pantalla de resultados](/wiki/results_screen), esta información no se guardará.*
+_Nota: La información adicional solo se puede ver después de reproducir un beatmap o ver una repetición exportada. Después de salir de la [pantalla de resultados](/wiki/results_screen), esta información no se guardará._
 
 ### Precisión
 
-Al pasar el cursor sobre el gráfico de rendimiento, se muestra un mensaje de información con *Error* y *Unstable rate*.
+Al pasar el cursor sobre el gráfico de rendimiento, se muestra un mensaje de información con _Error_ y _Unstable rate_.
 
 Debido a la forma en que se implementan los mods [DT](/wiki/DT) y [HT](/wiki/HT), los valores de error e inestabilidad se multiplicarán por el mismo factor que la canción. Para obtener los valores verdaderos al jugar DT, divida los resultados por 1.5. Del mismo modo, multiplique los resultados por 1,33 al jugar HT.
 
@@ -63,7 +61,7 @@ Unstable rate, o Tasa de inestabilidad, representa la consistencia de tiempo de 
 
 ### Spin
 
-*Nota: Spin solo se usa para [osu!standard](/wiki/Game_Modes/osu!).*
+_Nota: Spin solo se usa para [osu!standard](/wiki/Game_Modes/osu!)._
 
 Además de la precisión, también se ve algo de información sobre las ruletas en el mismo mensaje de información.
 

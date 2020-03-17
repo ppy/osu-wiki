@@ -8,9 +8,9 @@ Dashing in from geometric fame, **Creo** bursts into the scene as osu!'s latest 
 
 [![](https://assets.ppy.sh/artists/36/header.jpg)](https://osu.ppy.sh/beatmaps/artists/36)
 
-We're proud to announce the latest addition to the Featured Artist lineup - [**Creo**](https://osu.ppy.sh/beatmaps/artists/36)! Rising to fame in the *Geometry Dash* scene with his track *Dimension*, we just couldn't say no to **Creo**'s wonderful fusion of pumping, melodic EDM underscored with more classic instrumentation.
+We're proud to announce the latest addition to the Featured Artist lineup - [**Creo**](https://osu.ppy.sh/beatmaps/artists/36)! Rising to fame in the _Geometry Dash_ scene with his track _Dimension_, we just couldn't say no to **Creo**'s wonderful fusion of pumping, melodic EDM underscored with more classic instrumentation.
 
-From the pounding beats of *Nautilus* to the wild frontier tunes of tracks like *Outlaw* and frantic, in-your-face pieces like *Dune*, **Creo**'s work is wonderfully varied and sure to satisfy anyone familiar with the EDM hits we all know and love, while sporting a beautiful difference all of their own.
+From the pounding beats of _Nautilus_ to the wild frontier tunes of tracks like _Outlaw_ and frantic, in-your-face pieces like _Dune_, **Creo**'s work is wonderfully varied and sure to satisfy anyone familiar with the EDM hits we all know and love, while sporting a beautiful difference all of their own.
 
 Here's a small sample from the **17** tracks we've nabbed for your mapping pleasure, all available over at [his Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/36):
 
@@ -52,7 +52,7 @@ Here's a small sample from the **17** tracks we've nabbed for your mapping pleas
 
 As always, all of the above tracks and so much more are available NOW over at [**Creo**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/36) - 100% free for use in mapping and modding in osu!.
 
-We're excited to see what people create with **Creo**'s work - the *Geometry Dash* community has had a blast with his music, and we're sure you guys will, too.
+We're excited to see what people create with **Creo**'s work - the _Geometry Dash_ community has had a blast with his music, and we're sure you guys will, too.
 
 The Featured Artist project continues to grow by the month - it won't be long now before we've breached over a thousand tracks from more than nearly three dozen artists. Crazy, huh?
 

@@ -8,9 +8,9 @@ The government knows you've been craving this. **KNOWER** joins the lineup as ou
 
 ![](https://assets.ppy.sh/artists/48/header.jpg)
 
-Rising to fame in the osu! community with their panopticon hit *The Government Knows* courtesy of Project Loved and other subsequent sets, the cult of **KNOWER** has been on the up and up. You might already be familiar with some of their work from games like *Grand Theft Auto V* and more recently, *Beat Saber*.
+Rising to fame in the osu! community with their panopticon hit _The Government Knows_ courtesy of Project Loved and other subsequent sets, the cult of **KNOWER** has been on the up and up. You might already be familiar with some of their work from games like _Grand Theft Auto V_ and more recently, _Beat Saber_.
 
-Campy, quirky and stuffed full of a frankly absurd amount of funk, we're delighted to welcome **KNOWER** aboard as the latest Featured Artist, complete with some familiar favorites, a fresh selection from their latest album *Life*, and a few tracks from *Let Go*.
+Campy, quirky and stuffed full of a frankly absurd amount of funk, we're delighted to welcome **KNOWER** aboard as the latest Featured Artist, complete with some familiar favorites, a fresh selection from their latest album _Life_, and a few tracks from _Let Go_.
 
 Here's a sample of just a few:
 
@@ -44,7 +44,7 @@ Here's a sample of just a few:
     <source src="https://assets.ppy.sh/artists/48/previews/1234.mp3" type="audio/mpeg">
 </audio>
 
----------
+* * *
 
 **13** spectacular new tracks await you over on their [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/48), all pre-timed and ready for your modding and mapping adventures. Totally worry free for use in osu!, by the way.
 

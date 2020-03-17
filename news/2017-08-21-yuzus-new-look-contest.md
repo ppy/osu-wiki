@@ -60,7 +60,7 @@ You could consider something like an assistant or a sidekick. 2B from _NieR: Aut
 
 Perhaps a floating plate, a cat holding a net, or some nifty gadget that helps explain _hyperdashing_ are all things you could consider.
 
---------
+* * *
 
 This is a little different from our previous osu! mascot design contest, where we asked for a full redesign instead of a refresh. To clarify, Yuzu's going to remain Yuzu, but he's going to look a lot better after this is all done.
 

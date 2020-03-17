@@ -76,7 +76,7 @@ Visual content **may contain some** of the following aspects in limited quantiti
 
 ### Swimsuits
 
-Depictions of *reasonable* swimsuits is allowed so long as said depiction is not highly excessive or in violation of the posturing and innuendo rules listed in the above section.
+Depictions of _reasonable_ swimsuits is allowed so long as said depiction is not highly excessive or in violation of the posturing and innuendo rules listed in the above section.
 
 Highly excessive is a broad term, but is generally taken to mean when an image treads well into the line of questionable content, such as when a character may be wearing a swimsuit far too small to adequately cover their physical assets, or if said physical assets command a dominating amount of the scene.
 
@@ -92,7 +92,7 @@ Any depiction of classical artwork or the rendition of the human form where the 
 
 However, said artistic nudity must possess some contextual relevance to the other content it is associated with in order for this exception to apply.
 
-An example of proper application of this rule would be for content using the *Immersion* band cover from Pendulum, which features a naked man and woman pressing their hands together in a sidelong shot in the center of the piece. The icon is relatively small, understated, but discernible, and is considered allowed due to its non-sexual nature and contextual relevance to tracks from that album as a whole.
+An example of proper application of this rule would be for content using the _Immersion_ band cover from Pendulum, which features a naked man and woman pressing their hands together in a sidelong shot in the center of the piece. The icon is relatively small, understated, but discernible, and is considered allowed due to its non-sexual nature and contextual relevance to tracks from that album as a whole.
 
 ### Romance, flirting or intimate affection
 

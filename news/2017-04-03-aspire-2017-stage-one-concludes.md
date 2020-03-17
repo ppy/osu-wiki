@@ -17,7 +17,7 @@ Those fated twelve were showcased to the world in osu!'s [first ever contest str
 
 From your votes and their expertise, the twelve have now become three.
 
-But among those three, only one earns the right to be crowned this year's **Aspirant**, the mapper forevermore acknowledged as one of osu!'s *Elite Mappers*.
+But among those three, only one earns the right to be crowned this year's **Aspirant**, the mapper forevermore acknowledged as one of osu!'s _Elite Mappers_.
 
 Blowing away the competition with OUTSTANDING scores in all categories, and universal public acclaim, the winner of this year's Aspire 2017 contest is none other than..
 
@@ -33,7 +33,7 @@ His entry went above and beyond our greatest expectations for this contest. So s
 
 [Play the winning entry here!](https://osu.ppy.sh/beatmapsets/594751)
 
----
+* * *
 
 Well behind but leading the pack thereafter lies **Versatile Mallard** by the infamous [MinG3012](https://osu.ppy.sh/users/1583218), with a score of **57/80** and **1872** unique votes.
 
@@ -47,7 +47,7 @@ Despite it all, **MinG3012**'s work is an absolute spectacle to behold, and it c
 
 [Play MinG3012's game-breaking entry here!](https://osu.ppy.sh/beatmapsets/594828)
 
----
+* * *
 
 Scoring third place overall lies, **Tranquil Chipmunk** by [Emilia](https://osu.ppy.sh/users/2003326) with a score of **54.25/80** and **1547** unique votes.
 
@@ -57,7 +57,7 @@ Stealing the hearts of our meme-loving community with a fantastic twist on the s
 
 Beyond the meme, **Emilia**'s map boasted some extremely complicated mapping ideas and concepts, using the full space offered by Aspire to produce some compelling gameplay that is just as creative as the main draw of the map, highlighting a deep and comparatively rare understanding of mapping in general.
 
----
+* * *
 
 The winning map will be made available as an Aspire-class Approval map in the coming days, whilst the two runners-up will be entered into the Loved category whenever possible.
 
@@ -65,11 +65,11 @@ The winning map will be made available as an Aspire-class Approval map in the co
 
 [Check out the contest listing to view the public voting in a much prettier format, and to download all of the entries.](https://osu.ppy.sh/community/contests/43)
 
-The composite judging sheet combines the scores given by the Honorable Mentions panel (40 points) with a *Public Impression* score (40 points) calculated by a scaling perspective of the overall votes an entry received in comparison to the others.
+The composite judging sheet combines the scores given by the Honorable Mentions panel (40 points) with a _Public Impression_ score (40 points) calculated by a scaling perspective of the overall votes an entry received in comparison to the others.
 
 Together, the two values produced the winning results of the contest, though the popular vote had them charted fairly accurately anyway.
 
----
+* * *
 
 We're also proud to announce the beginning of Aspire-class contests for all other gamemodes - osu!taiko, osu!catch and osu!mania.
 

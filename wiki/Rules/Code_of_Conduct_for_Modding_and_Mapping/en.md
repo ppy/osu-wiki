@@ -4,7 +4,7 @@ The **Code of Conduct for Modding and Mapping** is a set of rules and guidelines
 
 ## Behaviour and Conduct
 
--   The goal of modding is to help a mapper improve their work so that it can be pushed towards Ranked status if the mapper chooses to do so. If you're not interested in helping people, steer clear of the discussion to avoid *hurting them*.
+-   The goal of modding is to help a mapper improve their work so that it can be pushed towards Ranked status if the mapper chooses to do so. If you're not interested in helping people, steer clear of the discussion to avoid _hurting them_.
 -   When modding, consider who the post is directed at, what you aim to achieve by posting and what response you expect to receive. This will ensure your best intentions are conveyed and your post is easy to understand.
     -   Don't shy away from new mappers and modders - these people are the ones who can benefit the most from your input! Be patient, understanding, and provide as much explanation as possible so that they can learn and improve more quickly
     -   If you're new yourself, don't be afraid to say so! This will allow more experienced community members to point you in the right direction. Everyone was new and in your position once!
@@ -35,7 +35,7 @@ There are any number of ways to present your mod post, so feel free to experimen
 
 ## Responding to a Mod
 
-Someone just posted some suggestions on your map, great! - but it doesn't end there. For the record, it's necessary to give a proper response for two major reasons. Firstly, so that future mods can be tailored more specifically to your concept or style, resulting in fewer unhelpful suggestions. Secondly, just as a mod post *helps you to improve your mapping ability*, providing a detailed mod response helps the modder improve their modding ability, meaning they gain experience and can provide more helpful and detailed mods in the future. You never know who you may need to ask for a mod next time around!
+Someone just posted some suggestions on your map, great! - but it doesn't end there. For the record, it's necessary to give a proper response for two major reasons. Firstly, so that future mods can be tailored more specifically to your concept or style, resulting in fewer unhelpful suggestions. Secondly, just as a mod post _helps you to improve your mapping ability_, providing a detailed mod response helps the modder improve their modding ability, meaning they gain experience and can provide more helpful and detailed mods in the future. You never know who you may need to ask for a mod next time around!
 
 -   Treat all suggestions as valid and equally important until you have thoroughly inspected and tested them - even minor stylistic changes or alternative viewpoints can help improve the quality of a beatmap
 -   As with making a mod post, be sure to explain yourself as much as possible. State what you changed, and if you didn't accept the suggestion for some reason, explain why and what you did instead.

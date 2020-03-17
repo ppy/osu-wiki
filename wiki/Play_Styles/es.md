@@ -3,12 +3,17 @@ outdated: true
 ---
 
 <!-- wikilink -->
+
 [osu!stream wikilink]: /wiki/Game_Modes/External_Ports/osu!stream "osu!stream by osu! team"
 
 <!-- shared image -->
+
 [osu! icon link]: /wiki/shared/mode/osu.png "osu! icon"
+
 [osu!taiko icon link]: /wiki/shared/mode/taiko.png "osu!taiko icon"
+
 [osu!catch icon link]: /wiki/shared/mode/catch.png "osu!catch icon"
+
 [osu!mania icon link]: /wiki/shared/mode/mania.png "osu!mania icon"
 
 [osu!tablet image]: /wiki/shared/Osu!tablet.jpg "osu!tablet"
@@ -80,11 +85,11 @@ Si la pantalla táctil lo admite, se puede usar un lápiz sobre ella, volviéndo
 
 ### Otros estilos
 
-- **Trackpad de un portátil/laptop**: Aunque parece una buena opción en la teoría, muchos jugadores prefieren no usar el trackpad del ordenador portátil, ya que añade mucha dificultad al control del cursor.
-La mayoría de los jugadores solo usan el trackpad para navegar los menús del juego.
-- **Joystick**: Una forma creativa de controlar el cursor es utilizar un Joystick para mover el cursor y utilizar el gatillo o botones incluidos en él o un teclado para _hacer clic_.
-A no ser que el jugador ya domine de antemano el uso del Joystick, mover el cursor con él requerirá mucho más tiempo de aprendizaje que el resto de periféricos mencionados anteriormente.
-- **Placas metálicas**: Una manera muy especial de reemplazar un teclado, introducida por el jugador ![USA Flag](/wiki/shared/flag/US.gif "USA Flag") [geckogates](https://osu.ppy.sh/users/geckogates), que requiere cierto conocimiento de electrónica para preparar: se usan unas placas metálicas conectadas al circuito del teclado para usarlas en lugar de las teclas.
+-   **Trackpad de un portátil/laptop**: Aunque parece una buena opción en la teoría, muchos jugadores prefieren no usar el trackpad del ordenador portátil, ya que añade mucha dificultad al control del cursor.
+    La mayoría de los jugadores solo usan el trackpad para navegar los menús del juego.
+-   **Joystick**: Una forma creativa de controlar el cursor es utilizar un Joystick para mover el cursor y utilizar el gatillo o botones incluidos en él o un teclado para _hacer clic_.
+    A no ser que el jugador ya domine de antemano el uso del Joystick, mover el cursor con él requerirá mucho más tiempo de aprendizaje que el resto de periféricos mencionados anteriormente.
+-   **Placas metálicas**: Una manera muy especial de reemplazar un teclado, introducida por el jugador ![USA Flag](/wiki/shared/flag/US.gif "USA Flag") [geckogates](https://osu.ppy.sh/users/geckogates), que requiere cierto conocimiento de electrónica para preparar: se usan unas placas metálicas conectadas al circuito del teclado para usarlas en lugar de las teclas.
 
 ## ![osu!taiko][osu!taiko icon link] osu!taiko
 
@@ -106,7 +111,7 @@ La mayoría de los tambores pueden ser conectados vía Bluetooth sin necesidad d
 
 ### Otros estilos
 
-- **Mando**: Otro de los posibles estilos de juego es utilizar un mando de consola, como ocurre en las entregas para consola de Taiko no Tatsujin.
+-   **Mando**: Otro de los posibles estilos de juego es utilizar un mando de consola, como ocurre en las entregas para consola de Taiko no Tatsujin.
 
 ## ![osu!catch][osu!catch icon link] osu!catch
 
@@ -151,6 +156,6 @@ El estilo de los veteranos en otros juegos de ritmo similares: se usa un control
 
 ### Otros estilos
 
-- **Dancepad**(4/8K): El controlador por defecto de [Dance Dance Revolution](https://es.wikipedia.org/wiki/Dance_Dance_Revolution_(serie)) y [Stepmania](https://es.wikipedia.org/wiki/StepMania): Los jugadores bailan sobre un pad con flechas para registrar las notas. Es un estilo de juego bastante complicado ya que los beatmaps están diseñados para teclado y el máximo de notas a la vez en el pad son 4 y en el juego puede exigirse más que eso.
-- **Batería o guitarra**(5/6K): El controlador por defecto de ([Guitar Hero](https://es.wikipedia.org/wiki/Guitar_Hero_(serie))) o ([Drummania](https://es.wikipedia.org/wiki/GITADORA_(serie))). Los jugadores utilizan los botones de la guitarra o la batería. Los jugadores que utilicen batería tendrán la desventaja de que solo pueden utilizar dos notas a la vez sin un pedal especial.
-- **Controlador de Para Para**(5K): El controlador de [Para Para Paradise](https://es.wikipedia.org/wiki/ParaParaParadise_(serie)). Los jugadores mueven sus manos, codos y manos frente a los sensores de proximidad.
+-   **Dancepad**(4/8K): El controlador por defecto de [Dance Dance Revolution](https://es.wikipedia.org/wiki/Dance_Dance_Revolution_(serie)) y [Stepmania](https://es.wikipedia.org/wiki/StepMania): Los jugadores bailan sobre un pad con flechas para registrar las notas. Es un estilo de juego bastante complicado ya que los beatmaps están diseñados para teclado y el máximo de notas a la vez en el pad son 4 y en el juego puede exigirse más que eso.
+-   **Batería o guitarra**(5/6K): El controlador por defecto de ([Guitar Hero](https://es.wikipedia.org/wiki/Guitar_Hero_(serie))) o ([Drummania](https://es.wikipedia.org/wiki/GITADORA_(serie))). Los jugadores utilizan los botones de la guitarra o la batería. Los jugadores que utilicen batería tendrán la desventaja de que solo pueden utilizar dos notas a la vez sin un pedal especial.
+-   **Controlador de Para Para**(5K): El controlador de [Para Para Paradise](https://es.wikipedia.org/wiki/ParaParaParadise_(serie)). Los jugadores mueven sus manos, codos y manos frente a los sensores de proximidad.

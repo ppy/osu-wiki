@@ -16,7 +16,7 @@ Without further ado:
 
 In first place with a blistering **7329** votes is [Evaine](https://osu.ppy.sh/users/7295733)'s positively breathtaking piece featuring Aiko and Alisa cooling off in a shallow pond beneath a starlit sky.
 
-This is about as tastefully intimate as we've ever seen a fanart contest entry get, and with more poise and grace than we honestly could've ever expected from a *tit*ular summer-themed contest.
+This is about as tastefully intimate as we've ever seen a fanart contest entry get, and with more poise and grace than we honestly could've ever expected from a _tit_ular summer-themed contest.
 
 A truly fantastic piece, and a well deserved win from one of our long-time participants - who by the way, has also won the [Spring 2017](https://osu.ppy.sh/community/contests/45) contest, and been voted into the winning finalists in [nearly](https://osu.ppy.sh/community/contests/36) [every](https://osu.ppy.sh/community/contests/48) [single](https://osu.ppy.sh/community/contests/56) [fanart contest](https://osu.ppy.sh/community/contests/58) we've held since.
 
@@ -30,7 +30,7 @@ The skies all but sang the praises of summer in a beautifully muted wave of colo
 
 [![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/Sylux6.jpg)](https://assets.ppy.sh/contests/66/winners/Sylux6.png)
 
-Summer means swimsuits, and [Sylux6](https://osu.ppy.sh/users/2607507) absolutely delivered, hosing down third place with **6660** votes for this particularly *endowed* take on Mocha and Pippi enjoying some fun in the sun.
+Summer means swimsuits, and [Sylux6](https://osu.ppy.sh/users/2607507) absolutely delivered, hosing down third place with **6660** votes for this particularly _endowed_ take on Mocha and Pippi enjoying some fun in the sun.
 
 [![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/Sunako.jpg)](https://assets.ppy.sh/contests/66/winners/Sunako.png)
 
@@ -70,9 +70,9 @@ Bonus points from us for extremely creative use of the template design!
 
 [![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/snowyani2000.jpg)](https://assets.ppy.sh/contests/66/winners/snowyani2000.png)
 
-**4337** brave souls managed to pick through the sea of references in [snowyani2000](https://osu.ppy.sh/users/2691590)'s latest entry. A paragraph (or five) couldn't do the sheer number of cameos justice. *Among other things that shall not be named nor encouraged.*
+**4337** brave souls managed to pick through the sea of references in [snowyani2000](https://osu.ppy.sh/users/2691590)'s latest entry. A paragraph (or five) couldn't do the sheer number of cameos justice. _Among other things that shall not be named nor encouraged._
 
-We would just like to politely note that *someone* apparently can defeat Airman, if a candid little shot in this piece is to be believed. Have fun finding who it is!
+We would just like to politely note that _someone_ apparently can defeat Airman, if a candid little shot in this piece is to be believed. Have fun finding who it is!
 
 [![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/YaoiForeva.jpg)](https://assets.ppy.sh/contests/66/winners/YaoiForeva.png)
 
@@ -84,15 +84,15 @@ Is there really anything more iconic than fireworks at a festival for a Japanese
 
 [![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/Reivaru-.jpg)](https://assets.ppy.sh/contests/66/winners/Reivaru-.png)
 
-**3506** votes rose the heat for [Reivaru\-](https://osu.ppy.sh/users/11084189)'s piece, showcasing Pippi and Mocha enjoying a bit of relief from the summer sky under a straw hat and umbrella.
+**3506** votes rose the heat for [Reivaru-](https://osu.ppy.sh/users/11084189)'s piece, showcasing Pippi and Mocha enjoying a bit of relief from the summer sky under a straw hat and umbrella.
 
 [![](/wiki/shared/news/2018-08-09-summer-2018-fanart-contest-results/Vio.jpg)](https://assets.ppy.sh/contests/66/winners/Vio.png)
 
 And last but certainly not least, **3468** votes took Pippi's invitation to take a walk down the beachside wharf in [Vio](https://osu.ppy.sh/users/5661237)'s striking entry. Really, how could you say no to that face?
 
----------
+* * *
 
-*Some entries were deemed by peppy to be inappropriate for the main menu screen, and therefore will not be included in the seasonal pack for this round. Rest assured, if you like one of the missing entries, you can manually set it as your menu background by dragging it into the osu! window (supporter tag required).*
+_Some entries were deemed by peppy to be inappropriate for the main menu screen, and therefore will not be included in the seasonal pack for this round. Rest assured, if you like one of the missing entries, you can manually set it as your menu background by dragging it into the osu! window (supporter tag required)._
 
 Like a particular piece? Clicking on the banner for it will take you to a full-sized download. Make sure to pass the wonderful artist responsible your thanks!
 

@@ -4,9 +4,10 @@ This article is a how-to on making good sliders.
 In the most basic form, all you need is a [bézier curve](https://en.wikipedia.org/wiki/B%C3%A9zier_curve).
 
 From [Ephemeral](https://osu.ppy.sh/users/102335),
+
 > always align slider endpoints to the smallest possible value - that is, if you drag them any further backwards, the slider will shorten. the point will center itself in the slider end and will make attaining passable curves much easier to accomplish.
-  Also, doing this makes reverse selection on sliders not fuck them up.
-  Which is a good thing.
+>   Also, doing this makes reverse selection on sliders not fuck them up.
+>   Which is a good thing.
 
 ## Arcs
 
@@ -43,7 +44,7 @@ Disable grid snap and move them both in by a tiny bit at a time until the slider
 
 ## Beat Blankets
 
-*Main page: [Blanket Combos](/wiki/Mapping_Techniques/Formations/#blanket-combos)*
+_Main page: [Blanket Combos](/wiki/Mapping_Techniques/Formations/#blanket-combos)_
 
 ![Image example of beat blankets (with hit circle)](img/MGS_blankets.png)
 
@@ -53,9 +54,10 @@ Then just tweak the points until the whole slider lines up with the approach cir
 
 Keep in mind that if you want a slider to blanket **and** be perfectly symmetrical, worry about symmetry first then adjust the points symmetrically to improve the blanket.
 
----
+* * *
 
 From [Gonzvlo](https://osu.ppy.sh/users/237733),
+
 > as a variation of beat blankets, sometimes I use a spinner to make nice circles.
 
 ![Image example of beat blankets (with spinner)](img/MGS_blankets2.png)
@@ -68,12 +70,12 @@ Courtesy of mm201.
 
 The number of control points you want depends on the angle covered by your arc:
 
-- 0 degrees: 2 points.
-- 0 degrees - 20 degrees: 3 points.
-- 20 degrees - 170 degrees: 4 points.
-- 170 degrees - 200 degrees: 5 points.
-- 200 degrees - 300 degrees: 6 points.
-- 300 degrees - 350 degrees: 7 points.
+-   0 degrees: 2 points.
+-   0 degrees - 20 degrees: 3 points.
+-   20 degrees - 170 degrees: 4 points.
+-   170 degrees - 200 degrees: 5 points.
+-   200 degrees - 300 degrees: 6 points.
+-   300 degrees - 350 degrees: 7 points.
 
 None of this is really exact, just a general idea.
 Similar to waves, the further the control point is from the start/end in order, the further away from the curve it goes.
@@ -113,26 +115,26 @@ Putting just a redpoint at the top is fine, but I prefer to use an elbow curve :
 
 ![How to make hearts step 1](img/MGS_hearts1.png)
 
----
+* * *
 
 Next, copy and paste this slider to the tick immediately after itself and horizontal flip like so.
 
 ![How to make hearts step 2](img/MGS_hearts2.png)
 
----
+* * *
 
 Then grab the endpoint of the first slider and pull it back to the length you want your slider to be.
 
 ![How to make hearts step 3](img/MGS_hearts3.png)
 
----
+* * *
 
 See how it's asymmetrical and ugly?
 Well mess with the points on the tail half of the slider until it lines up perfectly with the slider behind.
 
 ![How to make hearts step 4](img/MGS_hearts4.png)
 
----
+* * *
 
 If you managed all that, you're done!
 Delete the slider behind and edit/scale by if you want to fill any gaps.
@@ -184,7 +186,8 @@ An easier said than done kind of slider.
 ![Image example of loops](img/MGS_loops.png)
 
 The things to remember when forming loops is that the points go up a lot further than the loop does:
-- The further each point is from the ends, the further away it needs to be from the slider.
+
+-   The further each point is from the ends, the further away it needs to be from the slider.
 
 The biggest issue I see with people's loops are the hole.
 You're looking for an open, rounded teardrop shape like the above slider.

@@ -17,15 +17,15 @@ Le panneau de contrôle se trouve en bas du client. Par défaut, il montre le no
 
 La fonction de chaque bouton est décrite ci-dessous :
 
-- `Sync music`: Le client essayera de resynchroniser la musique avec les hitsounds.
-- `Toggle annotation`: Active/désactive les annotations. La description est plus bas.
-- `Panic`: Appuyez dessus quand quelque chose se passe mal, par exemple une fenêtre n'est pas spectateur d'un utilisateur ou une fenêtre a crashée. Cela réinitialisera toutes les instances d'osu!
-- `Exit`: Arrête le client.
+-   `Sync music`: Le client essayera de resynchroniser la musique avec les hitsounds.
+-   `Toggle annotation`: Active/désactive les annotations. La description est plus bas.
+-   `Panic`: Appuyez dessus quand quelque chose se passe mal, par exemple une fenêtre n'est pas spectateur d'un utilisateur ou une fenêtre a crashée. Cela réinitialisera toutes les instances d'osu!
+-   `Exit`: Arrête le client.
 
 La fonction de chaque boîte de texte est décrite ci-dessous :
 
-- `Annotation text`: Le texte à montrer dans l'annotation.
-- `Best Of`: Met à jour le compte d'étoiles en haut de l'écran avec le nombre de match que chaque équipe doit réussir pour gagner.
+-   `Annotation text`: Le texte à montrer dans l'annotation.
+-   `Best Of`: Met à jour le compte d'étoiles en haut de l'écran avec le nombre de match que chaque équipe doit réussir pour gagner.
 
 ![Quand une salle est créée proprement, cela sera listé à la place des instructions](img/Osutourneyroomlist.png)
 

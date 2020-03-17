@@ -22,11 +22,11 @@ Until recently, we have not been marking inactive players (no score recorded in 
 
 Two new changes were merged ([#1](https://github.com/ppy/osu-performance/pull/42) [#2](https://github.com/ppy/osu-performance/pull/47)). For a full explanation along with historical context, check out [Toy's write-up](https://docs.google.com/document/d/1pY9rtz9lUxjbBYg4aR_Jh1YdXDIlf1vnfVptdp8Dth0/edit), but here are the quick points you should know:
 
-- The aim bonus the Hidden mod is reduced. Maps that features more jumps or higher jump spacing have been nerfed.
-- This aim reduction is linear based on the approach rate of the map. Higher AR means a smaller aim bonus than lower AR for the same pattern.
-- The speed bonus for the Hidden mod has been increased. Streams are calculated under the speed category, and now more spaced streams have been buffed slightly.
-- This is NOT an absolute nerf to Hidden as a whole, it is the beginning of a rework in how the mod affects the formula as a whole.
-- Given equal accuracy, a map played with Hidden will still award more PP than not.
+-   The aim bonus the Hidden mod is reduced. Maps that features more jumps or higher jump spacing have been nerfed.
+-   This aim reduction is linear based on the approach rate of the map. Higher AR means a smaller aim bonus than lower AR for the same pattern.
+-   The speed bonus for the Hidden mod has been increased. Streams are calculated under the speed category, and now more spaced streams have been buffed slightly.
+-   This is NOT an absolute nerf to Hidden as a whole, it is the beginning of a rework in how the mod affects the formula as a whole.
+-   Given equal accuracy, a map played with Hidden will still award more PP than not.
 
 ## osu!mania
 
@@ -34,16 +34,16 @@ One change was merged ([#1](https://github.com/ppy/osu-performance/pull/15)) imp
 
 This change aims to decrease the strain value attributed to higher star rating maps, meaning that they are generally worth less pp than they were before. Summarised:
 
-- 800k-1mil scores get a substantial buff.
-- Scores below 800k will be relatively nerfed, especially those under 700k.
-- 960-1mil scores are especially buffed. This is to incentivise players to achieve high accuracy (98.5%+).
-- A linear reduction of 27% to *all* PP values.
+-   800k-1mil scores get a substantial buff.
+-   Scores below 800k will be relatively nerfed, especially those under 700k.
+-   960-1mil scores are especially buffed. This is to incentivise players to achieve high accuracy (98.5%+).
+-   A linear reduction of 27% to _all_ PP values.
 
 The rationale behind these changes has been comprehensively [documented by Shoegazer](https://docs.google.com/document/d/1RJfGKcXfiiA7uMaIROzY3VF9mgexAgVsS1Ls2ADTojM/edit#) for those interested in reading into the specifics.
 
-The linear reduction was applied to bring osu!mania pp totals in line with other game modes. This will result in most users experiencing an overall decrease in pp, but rest assured that as this is applied across the board it will *not affect your global rank* after recalculation.
+The linear reduction was applied to bring osu!mania pp totals in line with other game modes. This will result in most users experiencing an overall decrease in pp, but rest assured that as this is applied across the board it will _not affect your global rank_ after recalculation.
 
---------
+* * *
 
 As we move more and more in an open source direction, it is easier than ever for anyone to contribute to the osu! projects. Check out #osu-performance on the [osu!dev discord](https://discordapp.com/invite/ppy) to follow along with the latest, or visit [osu-performance on github](https://github.com/ppy/osu-performance) to get directly involved in the code.
 

@@ -12,21 +12,21 @@ Resumindo: Doações são usadas para sustentar o jogo em geral.
 
 ## Vantagens de ser osu!supporter
 
-- osu!direct (download de beatmaps dentro do jogo)
-- Acesso ao multiplayer quando usar a versão de testes do osu!.
-- [Console de Chat](/wiki/Chat_Console): Nome em Amarelo (para outros, você se vê com nome branco, como de costume).
-- [Lista de Beatmaps](https://osu.ppy.sh/beatmapsets) (?): Filtra buscas de beatmaps por jogado e não jogado.
-- [Edição da Skin](/wiki/Skinning): Alguns elementos da adicionais da skin podem ser usados, como o [plano de fundo do menu principal](https://osu.ppy.sh/community/forums/topics/96949), osu!direct ou multi.
-  - Especificamente, `menu-background.jpg` (Menu Principal); `matchsetup-background.png` (Multi); `search-background.png` (osu!direct); `triangle.jpg` (Triângulos); `welcome.wav` (Som de Boas Vindas); `seeya.wav` (Som de Saída)
-- [Feature Requests](https://osu.ppy.sh/community/forums/4): Votos extras para feature requests (2 por mês em vez de 1 por mês).
-- [Seleção de Musica](/wiki/Interface): A habilidade de ver dentro do jogo os rankings de beatmaps apenas em seu pais / amigos / mods específicos.
-- Seu Perfil: <https://osu.ppy.sh/users/>
-  - Você pode adicionar uma pagina do usuário no seu perfil.
-    - Sua pagina do usuário não será deletada quando osu!supporter expirar.
-  - A Habilidade de mudar seu nome de usuário (uma vez por conta. Você não poderá usar novamente, com raras exceções)
-  - Aumento do limite de submissão de beatmaps (até 10 maps pendentes no total).
-- [Ranking de Performance](https://osu.ppy.sh/rankings/osu/performance): Permite o comando "mostrar apenas amigos".
-- Mais por vir
+-   osu!direct (download de beatmaps dentro do jogo)
+-   Acesso ao multiplayer quando usar a versão de testes do osu!.
+-   [Console de Chat](/wiki/Chat_Console): Nome em Amarelo (para outros, você se vê com nome branco, como de costume).
+-   [Lista de Beatmaps](https://osu.ppy.sh/beatmapsets) (?): Filtra buscas de beatmaps por jogado e não jogado.
+-   [Edição da Skin](/wiki/Skinning): Alguns elementos da adicionais da skin podem ser usados, como o [plano de fundo do menu principal](https://osu.ppy.sh/community/forums/topics/96949), osu!direct ou multi.
+    -   Especificamente, `menu-background.jpg` (Menu Principal); `matchsetup-background.png` (Multi); `search-background.png` (osu!direct); `triangle.jpg` (Triângulos); `welcome.wav` (Som de Boas Vindas); `seeya.wav` (Som de Saída)
+-   [Feature Requests](https://osu.ppy.sh/community/forums/4): Votos extras para feature requests (2 por mês em vez de 1 por mês).
+-   [Seleção de Musica](/wiki/Interface): A habilidade de ver dentro do jogo os rankings de beatmaps apenas em seu pais / amigos / mods específicos.
+-   Seu Perfil: <https://osu.ppy.sh/users/>
+    -   Você pode adicionar uma pagina do usuário no seu perfil.
+        -   Sua pagina do usuário não será deletada quando osu!supporter expirar.
+    -   A Habilidade de mudar seu nome de usuário (uma vez por conta. Você não poderá usar novamente, com raras exceções)
+    -   Aumento do limite de submissão de beatmaps (até 10 maps pendentes no total).
+-   [Ranking de Performance](https://osu.ppy.sh/rankings/osu/performance): Permite o comando "mostrar apenas amigos".
+-   Mais por vir
 
 ## Negociação
 
@@ -37,18 +37,18 @@ Resumindo: Doações são usadas para sustentar o jogo em geral.
 ![](img/selecting-duration.jpg)
 
 | Meses | Valor {USD$} (Desconto) |
-| :-: | :-- |
-| 1 | 4 |
-| 2 | 8 |
-| 4 | 12 (-25%) |
-| 6 | 16 (-33%) |
-| 8 | 20 (-38%) |
-| 9 | 22 (-39%) |
-| 10 | 24 (-40%) |
-| 12 | 26 (-46% max) |
-| 24 | 52 (-46% max) |
+| :---: | :---------------------- |
+|   1   | 4                       |
+|   2   | 8                       |
+|   4   | 12 (-25%)               |
+|   6   | 16 (-33%)               |
+|   8   | 20 (-38%)               |
+|   9   | 22 (-39%)               |
+|   10  | 24 (-40%)               |
+|   12  | 26 (-46% max)           |
+|   24  | 52 (-46% max)           |
 
-- O valor é por contas individuais. Não tem promoções por presentear grupos.
+-   O valor é por contas individuais. Não tem promoções por presentear grupos.
 
 ### Decisão
 

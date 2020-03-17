@@ -15,15 +15,15 @@ The control panel is displayed at the bottom of the client. By default it displa
 
 The functionality of each button is described below:
 
-- `Sync music`: The client will try to resync the music to the hitsounds.
-- `Toggle annotation`: Activates/deactivates the annotation. This is described further below.
-- `Panic`: Press this when something goes wrong, e.g. a window is not spectating the user or a window crashes. This will reinitialize all osu! instances.
-- `Exit`: Shuts down the client.
+-   `Sync music`: The client will try to resync the music to the hitsounds.
+-   `Toggle annotation`: Activates/deactivates the annotation. This is described further below.
+-   `Panic`: Press this when something goes wrong, e.g. a window is not spectating the user or a window crashes. This will reinitialize all osu! instances.
+-   `Exit`: Shuts down the client.
 
 The functionality of each text box is described below:
 
-- `Annotation text`: The text to show on the annotation.
-- `Best Of`: Updates the star count at the top with the amount of matches each team needs to win.
+-   `Annotation text`: The text to show on the annotation.
+-   `Best Of`: Updates the star count at the top with the amount of matches each team needs to win.
 
 ![When a room is created correctly, it will be listed instead of the instructions](img/Osutourneyroomlist.png)
 

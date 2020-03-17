@@ -16,31 +16,33 @@ Just to reiterate, the goal of the osu! Mapping Olympiad is to provide mapping c
 
 To start off your Olympiad journey as a drum master, we have chosen a song by featured artist **Loki/Thaehan**!
 <audio controls>
+
     <source src="https://assets.ppy.sh/artists/7/previews/86.mp3" type="audio/mpeg">
+
 </audio>
 
-*Bwa !*, an upbeat electronic track, is filled to the brim with colorful synthesizer melodies and a variety of rhythmic patterns. Its chiptune style allows for a wide range of creative interpretations, so we are excited to see the sets you create out of this song!
+_Bwa !_, an upbeat electronic track, is filled to the brim with colorful synthesizer melodies and a variety of rhythmic patterns. Its chiptune style allows for a wide range of creative interpretations, so we are excited to see the sets you create out of this song!
 
 ## Rules
 
-- This contest is for the **osu!taiko** gamemode only.
-- Each entry **must follow the [Ranking Criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria)**. Failure to adhere to the Ranking Criteria may result in penalties ranging from point deduction to total disqualification, depending on severity.
-- The size of the beatmap submission must not exceed 15MB.
-- Storyboards will not be considered during the judging process.
-- Custom hitsounds **may** be used.
-- The submission must be a **full spread** of 3 to 5 difficulties.
-- Collaboration on entries is **not** permitted.
-- Maps submitted to the contest must **not** be uploaded with the beatmap submission system (BSS) until the contest is concluded and the winners are announced.
+-   This contest is for the **osu!taiko** gamemode only.
+-   Each entry **must follow the [Ranking Criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria)**. Failure to adhere to the Ranking Criteria may result in penalties ranging from point deduction to total disqualification, depending on severity.
+-   The size of the beatmap submission must not exceed 15MB.
+-   Storyboards will not be considered during the judging process.
+-   Custom hitsounds **may** be used.
+-   The submission must be a **full spread** of 3 to 5 difficulties.
+-   Collaboration on entries is **not** permitted.
+-   Maps submitted to the contest must **not** be uploaded with the beatmap submission system (BSS) until the contest is concluded and the winners are announced.
 
 ## Judging Criteria
 
 All entries will be judged by the following criteria:
 
-- **Flow and Structure (10pts)**: How well are the difficulties internally designed? Do they play comfortably and cohesively?
-- **Relevance (10pts)**: How well does the technical execution of the map fit the song in terms of rhythm, emphasis, and intensity?
-- **Difficulty Spread (10pts)**: Is the difficulty progression well executed? Are gameplay elements introduced throughout the spread in a reasonable manner?
-- **Creativity (10pts)**: How well does the submission stand out using creative, fitting elements?
-- **Judge impression (10pts)**: What do judges think about the submission as a whole?
+-   **Flow and Structure (10pts)**: How well are the difficulties internally designed? Do they play comfortably and cohesively?
+-   **Relevance (10pts)**: How well does the technical execution of the map fit the song in terms of rhythm, emphasis, and intensity?
+-   **Difficulty Spread (10pts)**: Is the difficulty progression well executed? Are gameplay elements introduced throughout the spread in a reasonable manner?
+-   **Creativity (10pts)**: How well does the submission stand out using creative, fitting elements?
+-   **Judge impression (10pts)**: What do judges think about the submission as a whole?
 
 **We are looking for capable judges! If you are interested, please make a post in the [Judge Call Thread](https://osu.ppy.sh/community/forums/topics/747545) or send a message to [hikikochan](https://osu.ppy.sh/users/6512678). Please be aware that we can only accept people who have the resources (knowledge, time, reliability) to properly judge the entries.**
 
@@ -48,9 +50,9 @@ All entries will be judged by the following criteria:
 
 After the entries are judged and the results are finalized, the top three entries will receive the following prizes:
 
-- **1st place**: 3 months of osu!supporter, 6 Olympiad Points (Results in 'Mapping Olympian' Badge), *Elite Mapper* title
-- **2nd place**: 2 months of osu!supporter, 4 Olympiad Points
-- **3rd place**: 1 month of osu!supporter, 2 Olympiad Points
+-   **1st place**: 3 months of osu!supporter, 6 Olympiad Points (Results in 'Mapping Olympian' Badge), _Elite Mapper_ title
+-   **2nd place**: 2 months of osu!supporter, 4 Olympiad Points
+-   **3rd place**: 1 month of osu!supporter, 2 Olympiad Points
 
 For Olympiad contests, we will be using a point system to award the 'Mapping Olympian' badge. This means that top placing results across multiple contests will grant you the opportunity to be awarded a badge even if you do not win a particular contest. Every 6 points earned will grant you a badge level, with incrementation on the badge for each level achieved. The expected baseline for points rewards will be 6, 4, and 2 for the top 3 entries respectively, but the specific rewards will vary per contest based on expected effort and challenge for the participants.
 

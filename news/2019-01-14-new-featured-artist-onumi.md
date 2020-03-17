@@ -8,7 +8,7 @@ Drawing deep from the sounds of the underground, the Featured Artist project wel
 
 [![](https://assets.ppy.sh/artists/32/header.jpg?20190114)](https://osu.ppy.sh/beatmaps/artists/32)
 
-Featuring some of the darkest electronica we've fielded in the project yet, we're proud to announce the addition of [**onumi**](https://osu.ppy.sh/beatmaps/artists/32) to the Featured Artist roster with all of her latest album release, *Childhood Friend*, plus a few extra selections from her body of work.
+Featuring some of the darkest electronica we've fielded in the project yet, we're proud to announce the addition of [**onumi**](https://osu.ppy.sh/beatmaps/artists/32) to the Featured Artist roster with all of her latest album release, _Childhood Friend_, plus a few extra selections from her body of work.
 
 Intense, confronting and just outright hostile, **onumi**'s sound drills deep and hard with powerfully gritty and thunderous basslines, coupled with an almost playful disregard for common rhythm structure. Touching on a variety of genre influences but never quite settling too hard on any particular one, **onumi**'s sound is something quite unique, and is likely to appeal to fans of dystopian, industrial or cyberpunk themes.
 
@@ -42,7 +42,7 @@ Check out a quick sample of a few below, or [head on over to her listing now to 
     <source src="https://assets.ppy.sh/artists/32/previews/809.mp3" type="audio/mpeg">
 </audio>
 
-------------
+* * *
 
 All the tracks listed above, plus the others on [**onumi**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/32) are 100% free for use in osu! mapping and modding, and come pre-timed and ready to go.
 

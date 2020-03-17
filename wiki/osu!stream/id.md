@@ -6,11 +6,11 @@ outdated: true
 
 # Perkenalan
 
-**osu!stream** adalah versi osu! yang dikhususkan untuk dimainkan di perangkat layar sentuh. Untuk sekarang, osu!stream hanya tersedia di perangkat [iOS](http://en.wikipedia.org/wiki/IOS) dari Apple, dan versi [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29)-nya pun masih dalam tahap perencanaan. osu!stream memperkenalkan model gameplay yang baru, seperti *hold circle* dan *connected beat*.
+**osu!stream** adalah versi osu! yang dikhususkan untuk dimainkan di perangkat layar sentuh. Untuk sekarang, osu!stream hanya tersedia di perangkat [iOS](http://en.wikipedia.org/wiki/IOS) dari Apple, dan versi [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29)-nya pun masih dalam tahap perencanaan. osu!stream memperkenalkan model gameplay yang baru, seperti _hold circle_ dan _connected beat_.
 
 osu!stream tidak mendukung beatmap osu! versi PC. Sebagai gantinya, beatmap osu!stream dibuat oleh tim mapper khusus untuk memanfaatkan elemen gameplay yang baru. Beatmap yang tersedia dapat diunduh dari "Store" dan tersedia beatmap gratis dan berbayar.
 
-[osu!stream telah dibahas dalam osu!monthly \#5 (dalam bahasa Inggris).](https://osu.ppy.sh/community/forums/topics/59924)
+[osu!stream telah dibahas dalam osu!monthly #5 (dalam bahasa Inggris).](https://osu.ppy.sh/community/forums/topics/59924)
 
 ## Pemasangan
 
@@ -55,15 +55,15 @@ osu!stream tidak mendukung beatmap osu! versi PC. Sebagai gantinya, beatmap osu!
 -   Kamu tidak membutuhkan akun untuk mengunduh beatmap baru.
 -   Kamu dapat menghubungkan osu!stream dengan akun twitter-mu.
 -   Skor terbaikmu mungkin akan dikirim secara anonim ke situs dengan nama "Guest" (apabila terjadi, namun membutuhkan koneksi internet).
--   *Progress Bar* selalu ditampilkan memanjang di bagian bawah layar dan pewarnaannya sesuai dengan akurasi permainanmu.
+-   _Progress Bar_ selalu ditampilkan memanjang di bagian bawah layar dan pewarnaannya sesuai dengan akurasi permainanmu.
 -   **Average Timing** (timing rata-rata) ditampilkan pada layar hasil.
 -   Kamu tidak dapat menyimpan rekor lamamu, atau menyimpan replay.
 -   You can't change your skin nor can you apply any mods (yet).
--   *Easter Eggs* dapat ditemukan namun tidak ada laman khusus *Achievement* (Pencapaian).
+-   _Easter Eggs_ dapat ditemukan namun tidak ada laman khusus _Achievement_ (Pencapaian).
 
 ### Model Gameplay yang Baru
 
-Os FG.jpg|tampilan "Finger Guide" Os CB.png|*Connected Beats* Hold circles.jpg|*Hold circle* Hold circles2.jpg|*Hold circle* lagi
+Os FG.jpg|tampilan "Finger Guide" Os CB.png|_Connected Beats_ Hold circles.jpg|_Hold circle_ Hold circles2.jpg|_Hold circle_ lagi
 
 **Catatan:** Kamu dapat mempelajari elemen gameplay yang baru di "Tutorial".
 
@@ -104,7 +104,7 @@ Warna latarnya yaitu Hijau.
 <img src="Normal.jpg" title="fig:Right|Stream mode" alt="Right|Stream mode" width="200" /> **Tingkat Kesulitan: Easy ("Stream Down!" dari Normal) ~ Normal (titik permulaan) ~ Hard ("Stream Up!" dari Normal)**
 Mode Stream adalah penerapan gameplay baru yang dikhususkan untuk osu!stream. Pada mode ini, pemain akan memulai permainan dengan lifebar yang telah terisi setengah dengan tingkat kesulitan Normal. Pemain akan ditugaskan untuk mengisi lifebar untuk memicu "Stream Up!", yang pada dasarnya meningkatkan tingkat kesulitan pada beatmap tersebut (dengan objek yang dikenai menjadi lebih banyak) namun tidak sesulit mode Expert. Ketika pemain mendapatkan "Stream Up!", pemain akan mendapatkan lifebar (tahap 3/tahap 2) dan "Stream Down!" akan terjadi apabila lifebar (tahap 3/tahap 2) habis, lalu tingkat kesulitan akan menurun dan lifebar akan terisi setengah penuh. Singkatnya, kamu memulai permainan diantara Easy dan Hard.
 
-Perhatikan bahwa kamu **harus mendapatkan nilai A (akurasi &gt;80%) di mode ini untuk membuka mode Expert dari lagu tersebut**. Akurasi lebih rendah dari 80% akan dihitung sebagai B, walau kamu telah mendapatkan *full combo* (dalam kasus ini kamu akan mendapatkan B).
+Perhatikan bahwa kamu **harus mendapatkan nilai A (akurasi >80%) di mode ini untuk membuka mode Expert dari lagu tersebut**. Akurasi lebih rendah dari 80% akan dihitung sebagai B, walau kamu telah mendapatkan _full combo_ (dalam kasus ini kamu akan mendapatkan B).
 
 Warna latarnya yaitu Hijau (Easy), Biru (Normal) dan Merah Keunguan (Hard).
 
@@ -119,11 +119,11 @@ Warna latarnya yaitu ungu dan tingkat kecerahan layar bergantung pada HP yang ka
 
 ## Antarmuka
 
-Os MM.png|Menu utama Osu!stream SONG.jpg|Daftar pilihan lagu Os store.jpg|Layar "Store" Os DS.png|Layar pemilihan mode Os SI.png|Informasi dari lagu Osu!stream Example.jpg|Contoh gameplay Os Pause.png|Menu jeda Os FM.png|Menu gagal Os SC.png|*Stage cleared!* Osu!stream Grade.jpg|Layar *grade* Os O1.png|Layar *option* Os O2.png|Layar *option* lagi
+Os MM.png|Menu utama Osu!stream SONG.jpg|Daftar pilihan lagu Os store.jpg|Layar "Store" Os DS.png|Layar pemilihan mode Os SI.png|Informasi dari lagu Osu!stream Example.jpg|Contoh gameplay Os Pause.png|Menu jeda Os FM.png|Menu gagal Os SC.png|_Stage cleared!_ Osu!stream Grade.jpg|Layar _grade_ Os O1.png|Layar _option_ Os O2.png|Layar _option_ lagi
 
 ## Song list
 
-***Buka [laman ini untuk daftar lagunya](ID:Osu!stream/Song_list "wikilink")***.
+**_Buka [laman ini untuk daftar lagunya](ID:Osu!stream/Song_list "wikilink")_**.
 
 ## Penilaian
 
@@ -131,14 +131,14 @@ Os MM.png|Menu utama Osu!stream SONG.jpg|Daftar pilihan lagu Os store.jpg|Layar 
 
 [`Akurasi`](ID:Accuracy "wikilink")` = HitValue / (PerfectHitValue)`
 
-`HitValue = (Jumlah `*`miss`*` * 0 + Jumlah 50 * 1 + Jumlah 100 * 2 + Jumlah 300 * 4)`
-`PerfectHitValue = (Jumlah `*`miss`*` + Jumlah 50 + Jumlah 100 + Jumlah 300) * 4`
+`HitValue = (Jumlah `_`miss`_` * 0 + Jumlah 50 * 1 + Jumlah 100 * 2 + Jumlah 300 * 4)`
+`PerfectHitValue = (Jumlah `_`miss`_` + Jumlah 50 + Jumlah 100 + Jumlah 300) * 4`
 
-Dengan kata lain, setiap *miss* akan dihitung 0%, setiap 50 akan dihitung 25%, setiap 100 akan dihitung 50%, dan setiap 300 akan dihitung 100%.
+Dengan kata lain, setiap _miss_ akan dihitung 0%, setiap 50 akan dihitung 25%, setiap 100 akan dihitung 50%, dan setiap 300 akan dihitung 100%.
 
 ### Skor
 
-Skor yang diberikan dari setiap *hit circle* dan ujung *slider* dihitung dengan rumus sebagai berikut:
+Skor yang diberikan dari setiap _hit circle_ dan ujung _slider_ dihitung dengan rumus sebagai berikut:
 
 `Skor= Nilai Hit + Nilai Hit * (Pengali kombo * Pengali tetap) / 25`
 

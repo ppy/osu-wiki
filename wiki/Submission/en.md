@@ -4,7 +4,7 @@
 
 ![](img/bss_warning.png "Beatmap Submission System screen")
 
-Selecting `Upload Beatmap...` from the `File` dropdown in the editor (shortcut: `Ctrl` + `Shift` + `U`) will open the **Beatmap Submission System** (***BSS***) window. This initially lists resources to help users ask mapping-related questions, find feedback for their beatmaps, and ensure their maps are suitable for ranking. If you encounter trouble when using BSS, see the [BSS Issues](/wiki/Guides/BSS_Issues) guide.
+Selecting `Upload Beatmap...` from the `File` dropdown in the editor (shortcut: `Ctrl` + `Shift` + `U`) will open the **Beatmap Submission System** (**_BSS_**) window. This initially lists resources to help users ask mapping-related questions, find feedback for their beatmaps, and ensure their maps are suitable for ranking. If you encounter trouble when using BSS, see the [BSS Issues](/wiki/Guides/BSS_Issues) guide.
 
 If the beatmap a user is uploading is not already on the osu! website, the BSS window will state how many new uploads a user can publish. If the beatmap is nominated, the window warns that the nomination will be reset by updating the beatmap. If the beatmap is in the graveyard, the window warns that the beatmap will be raised to the pending beatmaps category.
 

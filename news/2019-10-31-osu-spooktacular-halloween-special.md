@@ -8,11 +8,11 @@ All Hallow's Eve is upon us, the blood moon has risen, devilishly delightful dep
 
 ![](https://assets.ppy.sh/contests/81/newsheader.jpg?2019)
 
-You know it, you love it, our yearly descent into madness is finally here and with it, the results from the *Halloween 2019 Fan Art Contest* are shambling to the stage for their moment in the moonlight.
+You know it, you love it, our yearly descent into madness is finally here and with it, the results from the _Halloween 2019 Fan Art Contest_ are shambling to the stage for their moment in the moonlight.
 
 Ready? I know I am!
 
-------------
+* * *
 
 [![](https://assets.ppy.sh/contests/81/banners/Sunako.jpg)](https://assets.ppy.sh/contests/81/winners/Sunako.png)
 
@@ -22,7 +22,7 @@ Absolutely beautiful work from one of our most widely-known regulars. Sunako get
 
 [![](https://assets.ppy.sh/contests/81/banners/SJPumpkin.jpg)](https://assets.ppy.sh/contests/81/winners/SJPumpkin.png)
 
-**4669** voters were held at knifepoint and forced to cast their lot for [**SJPumpkin**](https://osu.ppy.sh/users/4840900)'s rendition of a very... *passionate* pippi.
+**4669** voters were held at knifepoint and forced to cast their lot for [**SJPumpkin**](https://osu.ppy.sh/users/4840900)'s rendition of a very... _passionate_ pippi.
 
 We're sure the splotchy streaks on the walls are just pink spray paint. Right...?
 
@@ -42,7 +42,7 @@ I personally suspect that the trees are dead because pippi keeps eating the appl
 
 **3423** were clued in to [**10nya**](https://osu.ppy.sh/users/678794)'s witch pippi and her fearsome secret: she's adorable as all heck.
 
-Who said Halloween had to be dark? Those pumpkins are *sparkling*, that's how you know they mean business.
+Who said Halloween had to be dark? Those pumpkins are _sparkling_, that's how you know they mean business.
 
 [![](https://assets.ppy.sh/contests/81/banners/Salty%20Because.jpg)](https://assets.ppy.sh/contests/81/winners/Salty%20Because.png)
 
@@ -92,7 +92,7 @@ She must've picked this trick up from the ravens.
 
 [![](https://assets.ppy.sh/contests/81/banners/snowyani2000.jpg)](https://assets.ppy.sh/contests/81/winners/snowyani2000.png)
 
-AVAST ME HEARTIES! **2406** scurvy dogs set sail on [**snowyani2000**](https://osu.ppy.sh/users/2691590)'s harrowing piratical seas sporting more references than you can shake a stick at, including a *suspiciously familiar* seagull figurehead getting up close and personal with a rather enthusiastic tentacle.
+AVAST ME HEARTIES! **2406** scurvy dogs set sail on [**snowyani2000**](https://osu.ppy.sh/users/2691590)'s harrowing piratical seas sporting more references than you can shake a stick at, including a _suspiciously familiar_ seagull figurehead getting up close and personal with a rather enthusiastic tentacle.
 
 There's something I'd never thought I'd have to write in one of these posts.
 
@@ -100,15 +100,15 @@ There's something I'd never thought I'd have to write in one of these posts.
 
 **2333** voters joined [**Misakko**](https://osu.ppy.sh/users/3173752)'s batwinged Aiko in a flight above eerie, skyborne ruins, with lakes that look strangely like liquid taffy.
 
------------
+* * *
 
 All of the entries showcased above are now the spooktacular background for our upcoming Halloween escapades, and will remain for a goodly week or so alongside some extra tunes made just for the occasion.
 
 **Check out the rest of the entries and their scores over at the [Halloween Fan Art 2019 contest listing!](https://osu.ppy.sh/community/contests/81)**
 
-*You can also download a zip of all the high-quality winning entries [here](https://assets.ppy.sh/contests/81/winners/Halloween2019FanartWinners.zip). Be sure to check each artist out!*
+_You can also download a zip of all the high-quality winning entries [here](https://assets.ppy.sh/contests/81/winners/Halloween2019FanartWinners.zip). Be sure to check each artist out!_
 
------------
+* * *
 
 But wait, that's not all!
 
@@ -116,25 +116,25 @@ It wouldn't be Halloween without some brand new medals, and with that, I am deli
 
 They are as follows:
 
-- **Inundate**: Swept away.
-- **Not Bluffing**: Did that with my eyes closed.
-- **Eureka!**: By Jove, you've got it!
-- **Regicide**: A king no more.
-- **Permadeath**: One life, one shot.
-- **The Future Is Now**: The stars showed you all that was to come.
-- **Natural 20**: Rolled it.
-- **Valediction**: One last time.
+-   **Inundate**: Swept away.
+-   **Not Bluffing**: Did that with my eyes closed.
+-   **Eureka!**: By Jove, you've got it!
+-   **Regicide**: A king no more.
+-   **Permadeath**: One life, one shot.
+-   **The Future Is Now**: The stars showed you all that was to come.
+-   **Natural 20**: Rolled it.
+-   **Valediction**: One last time.
 
-And for EXTRA DEBILITATING AGONY, we've thrown in the following two *super difficult* medals, one of which sports a special set of criteria - it requires you to play multiple maps to qualify for it.
+And for EXTRA DEBILITATING AGONY, we've thrown in the following two _super difficult_ medals, one of which sports a special set of criteria - it requires you to play multiple maps to qualify for it.
 
 One of them is also so difficult that we're not wholly sure if anyone can actually do it. It sure won't be easy, despite what the label says:
 
-- **Kaleidoscope**: So many pretty colours. Most of them red.
-- **AHAHAHAHA**: TOGETHER FOREVER. (Yes, that is the medal's name.)
+-   **Kaleidoscope**: So many pretty colours. Most of them red.
+-   **AHAHAHAHA**: TOGETHER FOREVER. (Yes, that is the medal's name.)
 
-Good luck in your searching! And don't spoil the medals for other people, dammit! Half the fun is in trying to figure them out. If you're in need of a hint, maybe you should visit the *Medals* section in your profile page and mouse-over the one you're having trouble with.
+Good luck in your searching! And don't spoil the medals for other people, dammit! Half the fun is in trying to figure them out. If you're in need of a hint, maybe you should visit the _Medals_ section in your profile page and mouse-over the one you're having trouble with.
 
-------------
+* * *
 
 From all of us on the osu!team, we hope you have a wonderful Halloween!
 
@@ -143,4 +143,3 @@ We'll be back later in November to kick things off for the Winter Fan Art contes
 Until then, stay spooky and have fun!
 
 —Ephemeral
-

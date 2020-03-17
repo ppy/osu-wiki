@@ -6,9 +6,9 @@ needs_cleanup: true
 
 A hit object is the core gameplay element in osu!. There are three types of hit objects:
 
-- Hit Circle
-- Slider
-- Spinner
+-   Hit Circle
+-   Slider
+-   Spinner
 
 Hit circles and sliders are encountered frequently, while spinners typically only appear occasionally. Everything you interact with during the course of a beatmap is a hit object.
 
@@ -48,7 +48,7 @@ This may seem obvious at first to experienced players. However, this is one of t
 
 A **slider's speed** defines how much time it takes to travel a given distance--or equivalently, how far the slider travels in a given time.
 
-Slider speed is measured in *hundreds of [osupixels](/wiki/Glossary#osupixel) per beat,* so a slider with a speed of 1.00 will travel 100 osupixels (or, 100 pixels at 640x480 resolution) in one full beat. This means that sliders with a particular speed setting will travel faster when the BPM is higher.
+Slider speed is measured in _hundreds of [osupixels](/wiki/Glossary#osupixel) per beat,_ so a slider with a speed of 1.00 will travel 100 osupixels (or, 100 pixels at 640x480 resolution) in one full beat. This means that sliders with a particular speed setting will travel faster when the BPM is higher.
 
 Slider speed can be assigned from the Timing tab from the editor main window. You can also assign a multiplier to this speed value by adding an inheriting [timing section](/wiki/Beatmap_Editor/Timing).
 

@@ -1,10 +1,10 @@
 # osu!supporter
 
-*Untuk halaman osu!supporter dari situs web osu!, lihat [dukung permainan ini](https://osu.ppy.sh/home/support).*
+_Untuk halaman osu!supporter dari situs web osu!, lihat [dukung permainan ini](https://osu.ppy.sh/home/support)._
 
 ## Keuntungan
 
-*Daftar keuntungan yang didapat dari memiliki osu!supporter, lihat [dukung permainan ini](https://osu.ppy.sh/home/support).*
+_Daftar keuntungan yang didapat dari memiliki osu!supporter, lihat [dukung permainan ini](https://osu.ppy.sh/home/support)._
 
 Secara umum, dengan membeli osu!supporter tag, Anda secara langsung telah mendukung pengembangan game dan saat itu juga mendapatkan beberapa fitur tambahan. Perlu diketahui bahwa fitur tambahan dari osu!supporter tidak akan pernah mempengaruhi permainan, kinerja, atau skor yang dapat menguntungkan Anda.
 
@@ -34,8 +34,8 @@ Saat Anda siap melakukan pembayaran, buka [keranjang belanja](https://osu.ppy.sh
 
 Setelah transaksi selesai, bagian Aktivitas Terkini di akun Anda (jika Anda membelinya untuk diri sendiri) atau akun Yang anda hadiahkan akan mengatakan:
 
-- `{username} telah menjadi osu!supporter - terima kasih atas kemurahan hati Anda!` jika ini adalah pertama kalinya akun itu memiliki osu!supporter.
-- `{username} telah sekali lagi memutuskan untuk mendukung osu! - terima kasih atas kemurahan hati Anda!` jika akun telah memiliki osu!supporter sebelumnya.
+-   `{username} telah menjadi osu!supporter - terima kasih atas kemurahan hati Anda!` jika ini adalah pertama kalinya akun itu memiliki osu!supporter.
+-   `{username} telah sekali lagi memutuskan untuk mendukung osu! - terima kasih atas kemurahan hati Anda!` jika akun telah memiliki osu!supporter sebelumnya.
 
 ### Halaman pengguna dan kartu pengguna
 
@@ -49,6 +49,6 @@ Di web osu!, lencana osu!supporter dapat ditemukan di sebelah avatar pengguna da
 
 ![osu!supporter tag yang berdurasi 3 bulan tersisa](img/status.jpg "Tiga bulan tersisa dari osu!supporter tag")
 
-*Catatan: Bagian ini hanya ditampilkan setelah Anda memiliki osu!supporter.*
+_Catatan: Bagian ini hanya ditampilkan setelah Anda memiliki osu!supporter._
 
 Untuk memeriksa status osu!supporter tag Anda yang tersisa, total kontribusi, dan pembelian tag, buka halaman [dukung permainan ini](https://osu.ppy.sh/home/support) dan scroll ke bawah untuk melihat bagian yang serupa dengan gambar di atas.

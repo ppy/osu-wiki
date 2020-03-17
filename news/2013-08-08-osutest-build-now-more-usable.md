@@ -13,19 +13,19 @@ I usually wouldn't announce something like this, but I want as many people to se
 
 Keep the following in mind:
 
-- If I am working on anything which may affect score submissions, test build may temporarily have score submission disabled, or fall back to a secondary server.
-- Nothing is guaranteed to work. By using osu!test, you withdraw your right to complain.
-- You may now report test build issues in the standard tech support forum. Please add a \[test\] tag to the end of the topic once you are sure it only occurs in the test build.
-- osu!test maintains its own configuration, score and beatmap databases. This is to ensure it doesn't corrupt your main ones. The first time you run osu!test it will copy your main files, but they won't stay in sync. You are free to copy them manually if you wish to, but no guarantees here.
-- When updates become available for osu!test, they will be forced. This usually won't interrupt gameplay, but no guarantees.
+-   If I am working on anything which may affect score submissions, test build may temporarily have score submission disabled, or fall back to a secondary server.
+-   Nothing is guaranteed to work. By using osu!test, you withdraw your right to complain.
+-   You may now report test build issues in the standard tech support forum. Please add a \[test] tag to the end of the topic once you are sure it only occurs in the test build.
+-   osu!test maintains its own configuration, score and beatmap databases. This is to ensure it doesn't corrupt your main ones. The first time you run osu!test it will copy your main files, but they won't stay in sync. You are free to copy them manually if you wish to, but no guarantees here.
+-   When updates become available for osu!test, they will be forced. This usually won't interrupt gameplay, but no guarantees.
 
 To start using the test build:
 
-- Make sure you are a [supporter](https://osu.ppy.sh/p/support) :).
-- Open the osu! updater and go to the extras tab.
-- Click the checkbox "[osu! test build](https://puu.sh/3VXCr/1c30bfa869.png)" to download it.
-- Create a shortcut to osu!test.exe, which should be in your osu! folder.
-- Run this instead of your standard osu!.
+-   Make sure you are a [supporter](https://osu.ppy.sh/p/support) :).
+-   Open the osu! updater and go to the extras tab.
+-   Click the checkbox "[osu! test build](https://puu.sh/3VXCr/1c30bfa869.png)" to download it.
+-   Create a shortcut to osu!test.exe, which should be in your osu! folder.
+-   Run this instead of your standard osu!.
 
 You may switch between public and test whenever you want. I hope to make switching between them available in the game client itself, so this process will be easier in the future. Let me know if you have any other suggestions/requests for the test build.
 

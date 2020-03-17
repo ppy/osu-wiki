@@ -19,25 +19,25 @@ You can discuss this event and follow the most important changes in the **[offic
 
 ## Tournament Schedule
 
-| Event | Timestamp |
-| --: | :-- |
-| Registration Phase | 2019-10-16/2019-10-27 |
+|              Event | Timestamp                |
+| -----------------: | :----------------------- |
+| Registration Phase | 2019-10-16/2019-10-27    |
 | Qualifier Showcase | 2019-11-02 (14:00 UTC+0) |
-| Qualifier Stage | 2019-11-09/2019-11-10 |
-| Round of 32 | 2019-11-16/2019-11-17 |
-| Round of 16 | 2019-11-23/2019-11-24 |
-| Quarterfinals | 2019-11-30/2019-12-01 |
-| Semifinals | 2019-12-07/2019-12-08 |
-| Finals | 2019-12-14/2019-12-15 |
-| Grand Finals | 2019-12-21/2019-12-22 |
+|    Qualifier Stage | 2019-11-09/2019-11-10    |
+|        Round of 32 | 2019-11-16/2019-11-17    |
+|        Round of 16 | 2019-11-23/2019-11-24    |
+|      Quarterfinals | 2019-11-30/2019-12-01    |
+|         Semifinals | 2019-12-07/2019-12-08    |
+|             Finals | 2019-12-14/2019-12-15    |
+|       Grand Finals | 2019-12-21/2019-12-22    |
 
 ## Prizes
 
-| Placing | Prize(s) |
-| :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | US$300 per team member, exclusive single-run merch, profile badge, "osu! Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | US$160 per team member, exclusive single-run merch , profile badge |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | US$80 per team member, exclusive single-run merch, profile badge |
+|                           Placing                          | Prize(s)                                                                                                   |
+| :--------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------- |
+|   ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | US$300 per team member, exclusive single-run merch, profile badge, "osu! Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | US$160 per team member, exclusive single-run merch , profile badge                                         |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | US$80 per team member, exclusive single-run merch, profile badge                                           |
 
 ## Pick'Ems
 
@@ -45,9 +45,9 @@ Pick'ems will level up to the next stage! [hallowatcher](https://osu.ppy.sh/user
 
 ## How do I register?
 
-+ **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/22)**
-+ Do not create teams in advance! Teams will be formed by the country's team captain after the registration phase is concluded.
-+ Hand in your registration before the **27th of October.**
+-   **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/22)**
+-   Do not create teams in advance! Teams will be formed by the country's team captain after the registration phase is concluded.
+-   Hand in your registration before the **27th of October.**
 
 Please note that you may only participate if you are of a **osu! global ranking of #5000 or higher and have not violated the [osu! community rules](/wiki/Rules) in the past 12 months**.
 

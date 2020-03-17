@@ -10,7 +10,7 @@ Song Setup est la quatrième section de [Beatmap Editor](/wiki/Beatmap_Editor). 
 
 ### Métadonnées des chansons et des cartes
 
-*Voir également : [\[Guide\] Metadata](https://osu.ppy.sh/community/forums/topics/249288 "osu! forums")*
+_Voir également : [\[Guide\] Metadata](https://osu.ppy.sh/community/forums/topics/249288 "osu! forums")_
 
 ![A completed Song Setup form](img/SS_General.jpg "Un exemple de métadonnées complètes (onglet Général) dans la configuration de la chanson")
 
@@ -20,7 +20,7 @@ Ces champs doivent être remplis avant de créer une deuxième difficulté. Ceci
 
 **Le groupe, le chanteur, le compositeur ou le groupe qui a interprété ou créé la chanson.** Normalement, cela est automatiquement pris dans les métadonnées du fichier MP3, mais vérifiez l'orthographe et la ponctuation.
 
-*Avis : Les titres d'anime ou de jeu appartiennent à la catégorie [Source](#source). Les noms des vocaloïdes ou des sociétés appartiennent à la catégorie [Tags](#balises)*
+_Avis : Les titres d'anime ou de jeu appartiennent à la catégorie [Source](#source). Les noms des vocaloïdes ou des sociétés appartiennent à la catégorie [Tags](#balises)_
 
 Les noms étrangers/orientaux doivent être présentés dans le même ordre que celui utilisé sur Wikipédia (généralement, le prénom suivi du nom de famille ; l'ordre occidental, par souci de cohérence).
 
@@ -42,7 +42,7 @@ Ce champ doit être préféré à l'orthographe des sources de diffusion officie
 
 **Le nom d'utilisateur du créateur de la beatmap.** Le client du jeu devrait gérer cela automatiquement et ne vous permettra pas de modifier ce champ, c'est-à-dire si vous êtes le créateur.
 
-*Avis : Les noms d'utilisateur de [Guest Creators](/wiki/GD) appartiennent à la catégorie [Difficulty](#difficulté) et/ou [Tags](#balises).*
+_Avis : Les noms d'utilisateur de [Guest Creators](/wiki/GD) appartiennent à la catégorie [Difficulty](#difficulté) et/ou [Tags](#balises)._
 
 #### Difficulté
 
@@ -56,7 +56,7 @@ Ce champ peut également être utilisé pour indiquer qu'il s'agit d'une difficu
 
 Si la chanson est tirée d'un anime, d'un jeu vidéo, ou est célèbre pour son utilisation dans un film ou une émission de télévision ; alors le titre de cette source doit être ajouté dans ce champ. Dans le cas contraire, ce champ doit être laissé vide.
 
-*Avis : Ceci ne doit pas être utilisé pour les titres d'albums, ceux-ci appartiennent à la catégorie [Tags](#balises).*
+_Avis : Ceci ne doit pas être utilisé pour les titres d'albums, ceux-ci appartiennent à la catégorie [Tags](#balises)._
 
 Toutes les chansons n'ont pas besoin de quelque chose sur le champ source. La source est seulement pour les chansons qui proviennent de quelque chose (par exemple un jeu vidéo ou un anime). Pour les chansons rock et pop, ce champ peut être laissé vide. D'autres informations pertinentes doivent être entrées dans la catégorie [Tags](#balises) comme le titre de l'album ou des informations sur les sous-genres
 
@@ -70,11 +70,11 @@ Les balises sont séparées par des espaces. Il n'est pas nécessaire d'utiliser
 
 ![Two screenshots of the Difficulty tab. osu!mania varies from the other game modes.](img/SS_Difficulty.jpg "Section des difficultés. La bonne section est pour les cartes de rythme spécifiques à osu!mania.")
 
-*Remarque : Le mode de jeu spécifique [Ranking Criterias](/wiki/Ranking_Criteria) ont des valeurs de classement qui devraient être utilisées.*
+_Remarque : Le mode de jeu spécifique [Ranking Criterias](/wiki/Ranking_Criteria) ont des valeurs de classement qui devraient être utilisées._
 
 Les réglages de difficulté de la carte de rythme ; chaque réglage affecte différents aspects de la carte de rythme.
 
-*Remarque : En maintenant la touche `Shift` enfoncée, on peut régler avec précision la valeur 0,1 par rapport au réglage standard de la valeur 1.*
+_Remarque : En maintenant la touche `Shift` enfoncée, on peut régler avec précision la valeur 0,1 par rapport au réglage standard de la valeur 1._
 
 La notation courante pour représenter un réglage de difficulté et sa valeur est l'abréviation du réglage suivie de la valeur du réglage. Par exemple, `CS4` et `HP4.3` seraient une carte de rythme avec une taille de cercle de 4 et un taux de drainage de HP de 4,3 respectivement. En théorie, les réglages de difficulté négative peuvent ressembler à `AR-2` pour un taux d'approche de -2.
 
@@ -84,13 +84,13 @@ Le taux de drainage HP, communément abrégé en HP, détermine le taux de récu
 
 Dans osu!standard et osu!catch, cela affecte également le [Passive HP](/wiki/Passive_HP) (la vitesse constante à laquelle HP diminue, sauf pendant les[Breaks](/wiki/Breaks).
 
-*Remarque : Plus de HP est récupéré avec [Geki and Katu](/wiki/Score#osu) les scores de coups, qui peuvent être donnés à partir du dernier objet touché dans un combo.*
+_Remarque : Plus de HP est récupéré avec [Geki and Katu](/wiki/Score#osu) les scores de coups, qui peuvent être donnés à partir du dernier objet touché dans un combo._
 
 ### Taille du cercle
 
 ![Overview of various Circle Sizes](img/Circle_sizes.png "Aperçu des différentes tailles de cercles")
 
-*Remarque : Cette option est visible dans osu!taiko, mais elle ne fait rien qui affecte le gameplay.*
+_Remarque : Cette option est visible dans osu!taiko, mais elle ne fait rien qui affecte le gameplay._
 
 La taille du cercle, communément abrégée en CS, n'existe que dans osu!standard et osu!catch. CS détermine la taille des objets touchés ou, plus précisément dans osu!catch, détermine la taille du receveur et du fruit. Les valeurs vont de 2 à 7 ; des valeurs CS plus élevées rendront les objets touchés plus petits. L'utilisation de la valeur la plus élevée rendra les objets touchés aussi gros que le curseur.
 
@@ -108,22 +108,22 @@ Si vous cochez la case `Mode Co-op`, le montant actuellement sélectionné sera 
 
 ![Detailed AR chart](/wiki/shared/ARTable.jpg "Tableau AR détaillé")
 
-*Remarque : Cette option est visible dans osu!taiko et osu!mania, mais elle ne fait rien qui affecte le gameplay. C'est principalement parce que les deux utilisent une vitesse de défilement, qui est basée sur le BPM (battements par minute).*
+_Remarque : Cette option est visible dans osu!taiko et osu!mania, mais elle ne fait rien qui affecte le gameplay. C'est principalement parce que les deux utilisent une vitesse de défilement, qui est basée sur le BPM (battements par minute)._
 
 Le taux d'approche, communément abrégé en AR, n'existe que dans osu!standard et osu!catch. Les valeurs vont de 0 à 10 ; des valeurs AR plus élevées rendront les fenêtres de frappe des objets frappés plus courtes. AR indique combien de temps les objets frappés resteront à l'écran, à partir du moment où ils apparaissent jusqu'au moment de taper/recueillir.
 
 Des taux d'approche plus élevés signifient que les objets touchés seront montrés pendant une période plus courte, ce qui donne moins de temps de réaction pour planifier à l'avance. Inversement, des vitesses d'approche plus faibles signifient que les objets touchés seront affichés à l'écran plus longtemps, ce qui laisse plus de temps pour réagir, mais peuvent entraîner l'apparition d'une quantité excessive d'objets touchés à l'écran en même temps si AR est trop faible.
 
----
+* * *
 
 La durée d'un hit object qui reste visible à l'écran (sans mods) va de 1800ms à AR0 à 450ms à AR10.
 
 Il existe quatre modes qui modifient la synchronisation du taux d'approche lorsqu'ils sont activés :
 
-- [Easy](/wiki/EZ): Réduit de moitié la valeur AR. (par ex. AR10→AR5)
-- [Hard Rock](/wiki/HR): Multiplie la valeur AR par 1,40, jusqu'à un maximum de AR10. (p. ex. AR3→AR4.2 ou AR9→AR10)
-- [Double Time](/wiki/DT): La valeur AR n'est pas affectée, mais en raison de l'augmentation de 50 % de la vitesse de jeu, les cercles restent à l'écran 33 % plus courts.
-- [Half Time](/wiki/HT): La valeur AR n'est pas affectée, mais en raison de la diminution de 25 % de la vitesse de jeu, les cercles restent à l'écran 33 % de plus en millisecondes.
+-   [Easy](/wiki/EZ): Réduit de moitié la valeur AR. (par ex. AR10→AR5)
+-   [Hard Rock](/wiki/HR): Multiplie la valeur AR par 1,40, jusqu'à un maximum de AR10. (p. ex. AR3→AR4.2 ou AR9→AR10)
+-   [Double Time](/wiki/DT): La valeur AR n'est pas affectée, mais en raison de l'augmentation de 50 % de la vitesse de jeu, les cercles restent à l'écran 33 % plus courts.
+-   [Half Time](/wiki/HT): La valeur AR n'est pas affectée, mais en raison de la diminution de 25 % de la vitesse de jeu, les cercles restent à l'écran 33 % de plus en millisecondes.
 
 Bien que le Half Time et le Double Time ne changent pas la valeur AR réelle donnée, la différence de vitesse entraîne un changement apparent de AR, aussi bas que AR-5 ou aussi haut que AR11. Dans le graphique AR fourni, ces valeurs apparentes sont données pour permettre une comparaison facile entre les vitesses d'approche avec et sans mods. La valeur AR réelle, cependant, est toujours un nombre compris entre 0 et 10. Notez que les niveaux AR s'échelonnent de 120 ms pour une vitesse inférieure à AR5 et de 150 ms pour une vitesse supérieure à AR5.
 
@@ -131,26 +131,26 @@ Bien que le Half Time et le Double Time ne changent pas la valeur AR réelle don
 
 ![Detailed OD chart](img/ODTable.png "Tableau détaillé de OD")
 
-*Avis : Sur la page de la carte des temps, la difficulté globale est indiquée comme précision.*
+_Avis : Sur la page de la carte des temps, la difficulté globale est indiquée comme précision._
 
 La difficulté globale, communément abrégée en OD, définit la difficulté à atteindre une haute précision. Les valeurs vont de 0 à 10 ; des valeurs de OD plus élevées nécessiteront plus de précision et d'exactitude. Comme la précision est importante pour obtenir des HP, la Difficulté Globale influence indirectement la difficulté à passer la carte de rythme. Des valeurs OD plus élevées signifient des fenêtres de temps plus courtes pour nettoyer les objets touchés, à la fois en général et en termes d'obtention de la valeur de score la plus élevée de l'objet touché.
 
 En osu!standard, cela concerne également les pirouettes, dans lesquelles il faut les faire tourner davantage pour remplir la jauge à temps. Dans osu!taiko, le denden (spinner osu!taiko) aura aussi besoin de plus de coups pour le dégager.
 
-*Remarque : Ceci implique que le fait de relever le OD trop haut peut rendre des spinners précédemment possibles presque impossibles à dégager à temps.*
+_Remarque : Ceci implique que le fait de relever le OD trop haut peut rendre des spinners précédemment possibles presque impossibles à dégager à temps._
 
 Dans osu!standard, le système de chronométrage ne permet pas de frapper un objet jusqu'à ce que l'objet précédent soit frappé (ou manqué après le passage de la fenêtre de frappe), ce qui entraîne un échec. Avec une valeur OD basse, la fenêtre de frappe d'un objet peut se chevaucher avec la suivante. Ainsi, un joueur pourrait frapper le second objet avec un timing parfait après avoir échoué à frapper le premier objet, mais cela aurait pour résultat de manquer complètement les deux objets en raison de la fenêtre de frappe du premier objet actif.
 
----
+* * *
 
 À OD0, un joueur peut obtenir un score de 300 à moins de 79,5 ms de l'atteindre exactement à temps. À l'autre extrémité de l'échelle, OD10 exige d'être à moins de 19,5 ms pour le même score de 300.
 
 Il existe quatre modes qui modifient le timing de la Difficulté Générale lorsqu'ils sont activés :
 
-- [Easy](/wiki/EZ): Réduit de moitié la valeur de OD.
-- [Hard Rock](/wiki/HR): Multiplie la valeur OD par 1,4, jusqu'à un maximum de OD10.
-- [Double Time](/wiki/DT): La valeur OD n'est pas affectée, mais en raison de l'augmentation de 50% de la vitesse de jeu, les fenêtres de frappe sont 33% plus courtes.
-- [Half Time](/wiki/HT): La valeur OD n'est pas affectée, mais en raison de la diminution de 25% de la vitesse de jeu, les fenêtres de frappe sont 33% plus longues.
+-   [Easy](/wiki/EZ): Réduit de moitié la valeur de OD.
+-   [Hard Rock](/wiki/HR): Multiplie la valeur OD par 1,4, jusqu'à un maximum de OD10.
+-   [Double Time](/wiki/DT): La valeur OD n'est pas affectée, mais en raison de l'augmentation de 50% de la vitesse de jeu, les fenêtres de frappe sont 33% plus courtes.
+-   [Half Time](/wiki/HT): La valeur OD n'est pas affectée, mais en raison de la diminution de 25% de la vitesse de jeu, les fenêtres de frappe sont 33% plus longues.
 
 Bien que Half Time et Double Time ne changent pas la valeur réelle de OD, l'effet de la vitesse sur les fenêtres de frappe fera que les objets frappés sembleront avoir une OD apparente plus ou moins élevée, respectivement. Dans le graphique OD fourni, les valeurs d'OD apparentes sont fournies pour permettre la comparaison entre les timings avec et sans ces mods. Notez que ces valeurs d'OD apparentes ne s'appliquent qu'aux 300s sur les cercles. Les fenêtres pour les 100s, les 50s et les sliders (qui utilisent la fenêtre des 50 coups) s'échelonnent plus sévèrement avec le Double Time que ne le suggère cette OD apparente et plus clémente avec le Half Time. Encore une fois, en dehors de NoMod, HR, et EZ (sur le côté gauche) ; les valeurs de OD fournies sont seulement pour comparaison : la valeur de OD réelle est toujours un nombre de 0 à 10.
 
@@ -214,10 +214,10 @@ Lorsqu'elle est activée, l'animation du compte à rebours peut être affinée e
 
 ### Divers. Toggles
 
-- `Support d'écran large` : Supprimer [sidebars/pillarboxes](https://en.wikipedia.org/wiki/Pillarbox "Wikipedia") des côtés gauche et droit du terrain de jeu si le client utilise un rapport d'aspect supérieur à `4:3`. Ceci est généralement activé lors de l'utilisation d'éléments de story-board mais peut être désactivé.
-- `Display storyboard in front of combo fire` : Un réglage obsolète, on peut l'ignorer.
-- `Display epilepsy warning (storyboard has quick strobing)` : Afficher un avertissement d'épilepsie pour les storyboards (rapides ou autres) clignotants dans le beatmap.
-- `Letterbox during breaks` : Déterminer si le beatmap doit (ou ne doit pas) mettre [letterboxes](https://en.wikipedia.org/wiki/Letterboxing_(filming) "Wikipedia") pendant les pauses dans le beatmap. Ceci est généralement activé par défaut, mais l'utilisation de cette option dans les beatmaps spécifiques à osu!mania n'est pas autorisée.
+-   `Support d'écran large` : Supprimer [sidebars/pillarboxes](https://en.wikipedia.org/wiki/Pillarbox "Wikipedia") des côtés gauche et droit du terrain de jeu si le client utilise un rapport d'aspect supérieur à `4:3`. Ceci est généralement activé lors de l'utilisation d'éléments de story-board mais peut être désactivé.
+-   `Display storyboard in front of combo fire` : Un réglage obsolète, on peut l'ignorer.
+-   `Display epilepsy warning (storyboard has quick strobing)` : Afficher un avertissement d'épilepsie pour les storyboards (rapides ou autres) clignotants dans le beatmap.
+-   `Letterbox during breaks` : Déterminer si le beatmap doit (ou ne doit pas) mettre [letterboxes](https://en.wikipedia.org/wiki/Letterboxing_(filming) "Wikipedia") pendant les pauses dans le beatmap. Ceci est généralement activé par défaut, mais l'utilisation de cette option dans les beatmaps spécifiques à osu!mania n'est pas autorisée.
 
 ### Skinning
 
@@ -241,7 +241,7 @@ Dans osu!standard, les objets frappés s'empilent automatiquement s'ils sont tou
 
 En déplaçant le curseur vers la droite, la "proximité" des objets touchés sera espacée dans le temps avant que l'empilage n'ait lieu. [Rules](/wiki/rc_osu!#gameplay) dictent que si `Stack Leniency` est réglé pour que l'empilement ne se produise plus, le créateur doit manuellement décaler les objets touchés. Il est préférable de laisser cette option telle quelle, avec sa valeur par défaut `7`.
 
-*Avis : Les cercles de frappe empilés dans osu!standard se déplaceront vers le point où l'empilement se produit.*
+_Avis : Les cercles de frappe empilés dans osu!standard se déplaceront vers le point où l'empilement se produit._
 
 Les objets sont considérés comme appartenant à la même pile s'ils sont à la même coordonnée et pas plus loin dans le temps que `[(Approach Window) * (Stack Leniency) / 10]`, ou `Approach Window` est la durée pendant laquelle les objets restent à l'écran (voir [Approach Rate](#taux-d'approche) plus haut).
 
@@ -249,13 +249,13 @@ Les objets sont considérés comme appartenant à la même pile s'ils sont à la
 
 `Allowed Modes` est un menu déroulant qui confirme que le beatmap ne peut être joué que par le mode spécifié. Le réglage par défaut est `All`, ce qui signifie que le créateur va créer un beatmap osu!standard qui peut être converti dans les autres modes de jeu. Il peut être modifié pour être spécifique à osu!taiko, osu!catch ou osu!mania ; mais gardez à l'esprit que le changement supprimera tous les objets touchés dans le beatmap.
 
-*Remarque : Décidez au moment de la création et confirmez le(s) mode(s) jouable(s) du beatmap avant d'ajouter tout objet de frappe pour éviter de gaspiller l'effort.*
+_Remarque : Décidez au moment de la création et confirmez le(s) mode(s) jouable(s) du beatmap avant d'ajouter tout objet de frappe pour éviter de gaspiller l'effort._
 
-*Remarque : osu!mania a son propre éditeur de beatmap qui est différent de l'éditeur de beatmap typique.*
+_Remarque : osu!mania a son propre éditeur de beatmap qui est différent de l'éditeur de beatmap typique._
 
 La case `Utiliser un style spécial (style N+1) pour la manie` ne fait rien, considérant que le joueur peut définir une préférence personnelle spécifiquement dans  [Options](/wiki/Options) en utilisant le bouton `osu!mania layout`.
 
 ## Anecdotes
 
-- L'onglet `Design` était autrefois appelé "Storyboarding".
-- Dans l'onglet `Difficulté`, il y avait auparavant `Classement de difficulté approximatif` qui est un résumé de tous les paramètres choisis sur cette page. Plus d'étoiles impliquerait un beatmap plus difficile. Cependant, ce n'était pas le classement final par étoiles de la carte de rythme car c'était juste une approximation basée sur les réglages de difficulté actuels. Ceci a été remplacé par une étiquette expliquant que le fait de maintenir `Shift` permettrait d'affiner les valeurs par un incrément de 0,1.
+-   L'onglet `Design` était autrefois appelé "Storyboarding".
+-   Dans l'onglet `Difficulté`, il y avait auparavant `Classement de difficulté approximatif` qui est un résumé de tous les paramètres choisis sur cette page. Plus d'étoiles impliquerait un beatmap plus difficile. Cependant, ce n'était pas le classement final par étoiles de la carte de rythme car c'était juste une approximation basée sur les réglages de difficulté actuels. Ceci a été remplacé par une étiquette expliquant que le fait de maintenir `Shift` permettrait d'affiner les valeurs par un incrément de 0,1.

@@ -20,8 +20,8 @@ Los beatmaps rankeados (ranked) vienen indicados con este icono: (![Double upwar
 
 Los mapas calificados (qualified) vienen indicados con el icono: (![Check icon](/wiki/shared/status/qualified.png)) en la pantalla de selección  de canciones. Estos beatmaps están en la última etapa del proceso de mapeo y modding. Al seleccionarlos, muestran un mensaje que avisa de que:
 
-- No otorgan [PP](/wiki/pp).
-- Todas las puntuaciones serán borradas cuando su estatus de rankeo cambie.
+-   No otorgan [PP](/wiki/pp).
+-   Todas las puntuaciones serán borradas cuando su estatus de rankeo cambie.
 
 Cuando un mapa es calificado significa que cumple los criterios de rankeo y que ha sido comprobado por al menos dos Beatmap Nominators.
 
@@ -30,16 +30,16 @@ Durante esta semana, los [QATs](/wiki/QAT) podrán decidir devolver el mapa a lo
 
 ### Loved
 
-Los beatmaps Loved, literalmente *amados*, vienen indicados con el icono: (![Heart icon](/wiki/shared/status/loved.png)) en la pantalla de selección de canciones. Estos mapas pueden cumplir o no los criterios de rankeo, pero han sido reconocidos por la comunidad como mapas valiosos. Al seleccionarlos, muestran un mensaje que avisa de que:
+Los beatmaps Loved, literalmente _amados_, vienen indicados con el icono: (![Heart icon](/wiki/shared/status/loved.png)) en la pantalla de selección de canciones. Estos mapas pueden cumplir o no los criterios de rankeo, pero han sido reconocidos por la comunidad como mapas valiosos. Al seleccionarlos, muestran un mensaje que avisa de que:
 
-- No otorgan [PP](/wiki/pp).
-- Todas sus puntuaciones serán borradas si el autor del beatmap decide editarlo.
+-   No otorgan [PP](/wiki/pp).
+-   Todas sus puntuaciones serán borradas si el autor del beatmap decide editarlo.
 
 El estatus de Loved proporciona un marcador de máximas puntuaciones. Existe un [sistema de votación](https://osu.ppy.sh/community/forums/topics/549835) (en inglés). Para que un mapa alcance el estatus de Loved.
 
 ### Pendiente
 
-*Ver también: [Procedimiento de rankeo de mapas](/wiki/Beatmap_ranking_procedure)*
+_Ver también: [Procedimiento de rankeo de mapas](/wiki/Beatmap_ranking_procedure)_
 
 Los mapas pendientes (pending) vienen indicados con el icono: (![Question mark icon](/wiki/shared/status/pending.png)) en la pantalla de selección de canciones. Un beatmap con el estatus pendiente es un mapa que espera ser [modeado](/wiki/modded).
 

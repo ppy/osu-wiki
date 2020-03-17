@@ -15,10 +15,10 @@ Each month, a selection of volunteers work alongside the Quality Assurance Team 
 
 First of all, congratulations to the winners of the May 2017 Spotlights. They receive one month of supporter status for their efforts!
 
-+ **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
-+ **osu!taiko:** [Quizmaegi](https://osu.ppy.sh/users/2228401)
-+ **osu!catch:** [_Asriel](https://osu.ppy.sh/users/566276)
-+ **osu!mania:** [Xcstasy](https://osu.ppy.sh/users/1306875)
+-   **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
+-   **osu!taiko:** [Quizmaegi](https://osu.ppy.sh/users/2228401)
+-   **osu!catch:** [\_Asriel](https://osu.ppy.sh/users/566276)
+-   **osu!mania:** [Xcstasy](https://osu.ppy.sh/users/1306875)
 
 ## osu!
 
@@ -104,7 +104,7 @@ It's always a good surprise to find an amazing mapset as a first ranked map, and
 
 This mapset overall is a nice and fun accuracy map hidden there in the ranked pool. It contains great technical elements, some mini long notes and slider velocity changes. I really wanted to give it the chance to be featured here. Well deserved spot for a solid mapset.
 
---------
+* * *
 
 And that is all we had in the Spotlights this month. We hope you enjoy the mapsets we offered this time and we hope you look forward to what we have in store next month as well!
 

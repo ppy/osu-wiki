@@ -11,14 +11,14 @@ For the first contest, participants are challenged to make a remix of nekodex's 
 
 ## Rules
 
-- One submission per person.
-- The remix must be between 2 to 4 minutes in length.
-- The [main melody](https://soundcloud.com/nekodex/circles#t=0:54) (0:54-1:26) must be included in the song.
-- The original stems are provided for your use, but you are not required to use them. Feel free to make your remix from scratch if you prefer.
-- No use of uncleared samples.
-- By submitting, you agree that we have non-exclusive rights to use your creation commercially or otherwise. We may also omit or alter it should we deem it necessary to fit our usage scenarios.
-- Submitted mp3 must be 320kbps.
-- We may require proof that you were the creator of the entry, so don't throw away the project files.
+-   One submission per person.
+-   The remix must be between 2 to 4 minutes in length.
+-   The [main melody](https://soundcloud.com/nekodex/circles#t=0:54) (0:54-1:26) must be included in the song.
+-   The original stems are provided for your use, but you are not required to use them. Feel free to make your remix from scratch if you prefer.
+-   No use of uncleared samples.
+-   By submitting, you agree that we have non-exclusive rights to use your creation commercially or otherwise. We may also omit or alter it should we deem it necessary to fit our usage scenarios.
+-   Submitted mp3 must be 320kbps.
+-   We may require proof that you were the creator of the entry, so don't throw away the project files.
 
 ## How do I submit my remix?
 
@@ -36,16 +36,16 @@ There are two winner categories for this contest.
 
 The osu! staff (including cYsmix, nekodex, peppy) will decide on the grand prize winner.
 
-- Remix featured in osu!
-- Official beatmapping contest featuring the remix.
-- $250 osu!store credit (negotiable to gift card elsewhere).
-- Profile badge
+-   Remix featured in osu!
+-   Official beatmapping contest featuring the remix.
+-   $250 osu!store credit (negotiable to gift card elsewhere).
+-   Profile badge
 
 ### Community Vote
 
 All cleared entries will be up for public voting after the submission deadline for 2 weeks at which point the entry with the most votes will be selected.
 
-- $50 osu!store credit.
+-   $50 osu!store credit.
 
 Good luck to all participants!
 

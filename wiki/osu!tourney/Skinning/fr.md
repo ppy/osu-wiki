@@ -8,11 +8,11 @@ Le client supporte plusieurs modifications pour que vous puissiez le customisez 
 
 Les éléments suivants sont skinnables :
 
-- `background` - L'image de fond utilisée par le client. Le fond par défaut pour osu!tourney peut être trouvé [ici](https://s.ppy.sh/images/tournament/default.png).
-- `background-win1` (optionnel) - l'image qui sera affichée en fondue après que l'équipe bleue a gagnée, pendant que les résultats du match sont affichés.
-- `background-win2` (optionnel) - l'image qui sera affichée en fondue après que l'équipe rouge a gagnée, pendant que les résultats du match sont affichés.
-- `tourney-title` (optionnel) - l'image affichée en bas du client, devant l'image de fond
-  - Ce peut être utilisé pour montrer le logo du tournois par exemple.
+-   `background` - L'image de fond utilisée par le client. Le fond par défaut pour osu!tourney peut être trouvé [ici](https://s.ppy.sh/images/tournament/default.png).
+-   `background-win1` (optionnel) - l'image qui sera affichée en fondue après que l'équipe bleue a gagnée, pendant que les résultats du match sont affichés.
+-   `background-win2` (optionnel) - l'image qui sera affichée en fondue après que l'équipe rouge a gagnée, pendant que les résultats du match sont affichés.
+-   `tourney-title` (optionnel) - l'image affichée en bas du client, devant l'image de fond
+    -   Ce peut être utilisé pour montrer le logo du tournois par exemple.
 
 ![Les icônes des équipes peuvent être affichées à côté du nom de ces équipes](img/Osutourneyicons.png)
 

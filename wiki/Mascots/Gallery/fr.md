@@ -32,12 +32,12 @@
 
 Pour voir les fanarts de pippi :
 
-- [Résultats du premier concours de Fanart officiel osu! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152186520298282)
-- [concours osu! de Fanart 2! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152291754173282)
-- [concours osu! de Fanart 3! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152514671088282)
-- [FanArt 7: Halloween!](https://osu.ppy.sh/community/contests/5)
-- [FanArt 8: Christmas](https://osu.ppy.sh/community/contests/36)
-- [Mocha dans le concours de fanart de l'été](https://osu.ppy.sh/community/contests/48)
+-   [Résultats du premier concours de Fanart officiel osu! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152186520298282)
+-   [concours osu! de Fanart 2! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152291754173282)
+-   [concours osu! de Fanart 3! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152514671088282)
+-   [FanArt 7: Halloween!](https://osu.ppy.sh/community/contests/5)
+-   [FanArt 8: Christmas](https://osu.ppy.sh/community/contests/36)
+-   [Mocha dans le concours de fanart de l'été](https://osu.ppy.sh/community/contests/48)
 
 ### Yuzu
 
@@ -53,10 +53,10 @@ Pour voir les fanarts de pippi :
 
 Pour voir plus de fanarts de Yuzu :
 
-- [osu! concours de Fanart 3! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152514671088282)
-- [FanArt 7: Halloween!](https://osu.ppy.sh/community/contests/5)
-- [FanArt 8: Christmas](https://osu.ppy.sh/community/contests/36)
-- [Concours pour trouver le nouveau look de Yuzu](https://osu.ppy.sh/community/contests/49)
+-   [osu! concours de Fanart 3! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152514671088282)
+-   [FanArt 7: Halloween!](https://osu.ppy.sh/community/contests/5)
+-   [FanArt 8: Christmas](https://osu.ppy.sh/community/contests/36)
+-   [Concours pour trouver le nouveau look de Yuzu](https://osu.ppy.sh/community/contests/49)
 
 ### Maria
 
@@ -66,8 +66,8 @@ Pour voir plus de fanarts de Yuzu :
 
 Pour voir plus de fanarts de Maria :
 
-- [FanArt 8: Christmas](https://osu.ppy.sh/community/contests/36)
-- [FanArt 9: Spring](https://osu.ppy.sh/community/contests/45)
+-   [FanArt 8: Christmas](https://osu.ppy.sh/community/contests/36)
+-   [FanArt 9: Spring](https://osu.ppy.sh/community/contests/45)
 
 ### Mocha
 
@@ -83,7 +83,7 @@ Pour voir plus de fanarts de Maria :
 
 Pour voir plus de fanarts de Mocha :
 
-- [Mocha dans le concours de fanart de l'été](https://osu.ppy.sh/community/contests/48)
+-   [Mocha dans le concours de fanart de l'été](https://osu.ppy.sh/community/contests/48)
 
 ### Divers
 
@@ -97,15 +97,15 @@ Pour voir plus de fanarts de Mocha :
 
 Pour voir des fanarts avec des mascottes caméo : 
 
-- [Mocha dans le concours de fanart de l'été](https://osu.ppy.sh/community/contests/48)
+-   [Mocha dans le concours de fanart de l'été](https://osu.ppy.sh/community/contests/48)
 
 ## Communauté
 
 Pour voir les fanarts avec des mascottes faites par la communauté : 
 
-- [FanArt 6: mascotte osu!taiko](https://osu.ppy.sh/community/contests/2)
-- [FanArt 7: Halloween!](https://osu.ppy.sh/community/contests/5)
-- [FanArt 8: Noël](https://osu.ppy.sh/community/contests/36)
-- [FanArt 9: Printemps](https://osu.ppy.sh/community/contests/45)
-- [Mocha dans le concours de fanart de l'été](https://osu.ppy.sh/community/contests/48)
-- [Concours pour trouver le nouveau look de Yuzu](https://osu.ppy.sh/community/contests/49)
+-   [FanArt 6: mascotte osu!taiko](https://osu.ppy.sh/community/contests/2)
+-   [FanArt 7: Halloween!](https://osu.ppy.sh/community/contests/5)
+-   [FanArt 8: Noël](https://osu.ppy.sh/community/contests/36)
+-   [FanArt 9: Printemps](https://osu.ppy.sh/community/contests/45)
+-   [Mocha dans le concours de fanart de l'été](https://osu.ppy.sh/community/contests/48)
+-   [Concours pour trouver le nouveau look de Yuzu](https://osu.ppy.sh/community/contests/49)

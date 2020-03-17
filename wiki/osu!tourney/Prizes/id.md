@@ -2,7 +2,7 @@
 
 ## Lencana Profil
 
-Tim osu! (atas kebijakan mereka sendiri), dapat memberikan turnamen yang dikelola oleh komunitas sebuah *lencana profil*, hadiah khusus yang dapat dilihat di profil pemain. 
+Tim osu! (atas kebijakan mereka sendiri), dapat memberikan turnamen yang dikelola oleh komunitas sebuah _lencana profil_, hadiah khusus yang dapat dilihat di profil pemain. 
 
 Lencana ini biasanya menampilkan keterampilan dan keahlian seorang pemain dalam skenario turnamen, dan karenanya diatur untuk memastikan bahwa mereka dapat mempertahankan nilai keterampilannya.
 
@@ -10,11 +10,11 @@ Lencana ini biasanya menampilkan keterampilan dan keahlian seorang pemain dalam 
 
 Kami dapat memberikan lencana profil untuk setiap pemenang **tempat pertama** dari turnamen yang dikelola oleh komunitas dan telah memenuhi kriteria berikut:
 
-- Turnamen yang mengajukan diselenggarakan dan dijalankan oleh *tim yang berpengalaman dari sukarelawan yang terampil dan terkemuka¹*, **ATAU**, turnamen ini telah dijalankan *setidaknya satu kali sebelumnya tanpa menerima hadiah dari Tim osu! di iterasi pertamanya.*
-- Pengajuan lencana **disusun dengan baik** sebelum turnamen dimulai. (*Kami sarankan setidaknya dua hingga tingga minggu sebelum dimulai.*)
-- Setiap anggota staf yang terlibat dalam pengelolaan turnamen **tidak** berpartisipasi dalam turnamen yang mengajukan pengajuan lencana.
-- Turnamen dijalankan empat kali atau lebih sedikit per tahun (musiman).
-- Daftar pemain dalam turnamen yang diberikan telah melewati tahap penyaringan yang dilakukan oleh Tim Layanan Dukungan dan diverifikasi bebas dari pemain yang mencurigakan.
+-   Turnamen yang mengajukan diselenggarakan dan dijalankan oleh _tim yang berpengalaman dari sukarelawan yang terampil dan terkemuka¹_, **ATAU**, turnamen ini telah dijalankan _setidaknya satu kali sebelumnya tanpa menerima hadiah dari Tim osu! di iterasi pertamanya._
+-   Pengajuan lencana **disusun dengan baik** sebelum turnamen dimulai. (_Kami sarankan setidaknya dua hingga tingga minggu sebelum dimulai._)
+-   Setiap anggota staf yang terlibat dalam pengelolaan turnamen **tidak** berpartisipasi dalam turnamen yang mengajukan pengajuan lencana.
+-   Turnamen dijalankan empat kali atau lebih sedikit per tahun (musiman).
+-   Daftar pemain dalam turnamen yang diberikan telah melewati tahap penyaringan yang dilakukan oleh Tim Layanan Dukungan dan diverifikasi bebas dari pemain yang mencurigakan.
 
 **¹**: Anggota tim yang "berpengalaman" dapat juga didefinisikan sebagai seseorang yang telah memberikan kontribusi signifikan terhadap keberhasilan menjalankan setidaknya **tiga** turnamen yang menerima lencana sebelumnya atau telah menjadi bagian dari Tim Penyelenggara osu! World Cup.
 
@@ -26,8 +26,8 @@ Sebagai bagian dari pemberi dukungan resmi, dalam hal promosi atau hadiah lainny
 
 Penyelenggara turnamen diharapkan memberikan hal-hal berikut:
 
-- Daftar nama pengguna pemain yang dipisahkan dengan koma, id pengguna, dan kode ISO 2 digit dari negara profil mereka
-- Jika turnamen menggunakan basis tim, daftar ini harus mencerminkan pengelompokan pemain di tim mereka, lengkap dengan nama tim atau penanda pengenal lainnya
+-   Daftar nama pengguna pemain yang dipisahkan dengan koma, id pengguna, dan kode ISO 2 digit dari negara profil mereka
+-   Jika turnamen menggunakan basis tim, daftar ini harus mencerminkan pengelompokan pemain di tim mereka, lengkap dengan nama tim atau penanda pengenal lainnya
 
 Setelah tahap penyaringan selesai, Tim Layanan Dukungan akan memberikan daftar semua pemain dari daftar yang telah diberikan sebelumnya yang dianggap **tidak memenuhi syarat** untuk bermain di turnamen yang didukung, bentuk yang tidak memenuhi syarat bisa berupa pelanggaran akun yang parah, kecurigaan berbagi akun dengan pemain lain, atau telah mengajukan aju banding baru-baru ini dalam 12 bulan terakhir.
 
@@ -43,12 +43,12 @@ Lencana profil diharapkan memenuhi beberapa standar minimum sebelum diajukan.
 
 Harap baca ini dengan saksama - jika lencana yang Anda ajukan tidak memenuhi syarat berikut, ada kemungkinan untuk ditolak!
 
-- File gambar lencana HARUS berupa format PNG atau JPG/JPEG.
-    + Jika desain lencana mengandung elemen transparansi, desain HARUS dalam format PNG.
-- Dimensi file gambar lencana TIDAK BOLEH melebihi 86x40, atau 86x34 minimum absolut. (*86x40 adalah format yang disarankan untuk semua lencana dan Anda akan dipertanyakan untuk menggunakan 86x34, dan desain yang kurang dari dimensi itu akan langsung ditolak.*)
-- File gambar HARUS berukuran di bawah 50kb. (*Kami sarankan untuk menggunakan [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) jika Anda mengalami masalah ini.*)
-- Lencana HARUS dengan jelas menampilkan logo atau nama turnamen Anda. (*Anda dapat menggantinya dengan motif atau tema visual asalkan cukup jelas.*)
-- Lencana HARUS dirancang dengan rapi dengan kulitas visual yang layak.
+-   File gambar lencana HARUS berupa format PNG atau JPG/JPEG.
+    -   Jika desain lencana mengandung elemen transparansi, desain HARUS dalam format PNG.
+-   Dimensi file gambar lencana TIDAK BOLEH melebihi 86x40, atau 86x34 minimum absolut. (_86x40 adalah format yang disarankan untuk semua lencana dan Anda akan dipertanyakan untuk menggunakan 86x34, dan desain yang kurang dari dimensi itu akan langsung ditolak._)
+-   File gambar HARUS berukuran di bawah 50kb. (_Kami sarankan untuk menggunakan [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) jika Anda mengalami masalah ini._)
+-   Lencana HARUS dengan jelas menampilkan logo atau nama turnamen Anda. (_Anda dapat menggantinya dengan motif atau tema visual asalkan cukup jelas._)
+-   Lencana HARUS dirancang dengan rapi dengan kulitas visual yang layak.
 
 **Kami juga membutuhkan versi 2x (atau 'retina') lencana Anda untuk ditampilkan di situs web baru.** Kami sarankan untuk merancang lencana Anda dalam 2x lebih besar dari resolusi aslinya (alias: resolusi 172x80) dan kemudian diturunkan ke 1x (86x40) seperti yang tercantum di atas.
 
@@ -63,18 +63,18 @@ Lencana yang tidak memenuhi standar ini akan ditolak dengan alasan yang sesuai, 
 
 Jika turnamen Anda memenuhi kriteria yang tercantum di atas, dan Anda memiliki desain yang siap diajukan, **silakan kirim email ke tournaments@ppy.sh** dan sertakan informasi berikut:
 
-- Nama turnamen Anda
-- Deskripsi singkat tentang turnamen Anda, termasuk jenis sistem skor yang dipakai dan fitur lainnya yang sesuai
-- Daftar pemain yang terlibat dalam menjalankan turnamen
-- Setiap tanggal yang berlaku untuk turnamen Anda
-- Tautan apa pun ke chat publik atau server yang digunakan untuk turnamen tersebut (Perselisihan, dll)
-- Tautan ke forum di osu!forum yang mengumumkan/rincian turnamen Anda
-- Tautan apa pun ke iterasi sebelumnya pada turnamen yang sama (berlaku jika ada)
-- Dua gambar lencana mengikuti kriteria desain yang tercantum di atas, **pada ukuran 1x (86x40) dan 2x/retina (172x80)**.
+-   Nama turnamen Anda
+-   Deskripsi singkat tentang turnamen Anda, termasuk jenis sistem skor yang dipakai dan fitur lainnya yang sesuai
+-   Daftar pemain yang terlibat dalam menjalankan turnamen
+-   Setiap tanggal yang berlaku untuk turnamen Anda
+-   Tautan apa pun ke chat publik atau server yang digunakan untuk turnamen tersebut (Perselisihan, dll)
+-   Tautan ke forum di osu!forum yang mengumumkan/rincian turnamen Anda
+-   Tautan apa pun ke iterasi sebelumnya pada turnamen yang sama (berlaku jika ada)
+-   Dua gambar lencana mengikuti kriteria desain yang tercantum di atas, **pada ukuran 1x (86x40) dan 2x/retina (172x80)**.
 
 Mohon tunggu **setidaknya** seminggu bagi kami untuk menanggapi. Kami akan berusaha sebaik mungkin menangani semua permintaan dalam kurun waktu satu minggu, tetapi kami terkadang memiliki lonjakan besar dalam beban kerja yang dapat membuat hal ini tidak mungkin.
 
-Jika pengajuan Anda disetujui, Anda kemudian dapat mengirimkan daftar pemenang di akhir turnamen Anda, bersama dengan desain lencana yang sudah *final*.
+Jika pengajuan Anda disetujui, Anda kemudian dapat mengirimkan daftar pemenang di akhir turnamen Anda, bersama dengan desain lencana yang sudah _final_.
 
 **Kami berhak untuk menarik layanan ini jika masalah muncul selama turnamen berlangsung.**
 

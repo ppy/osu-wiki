@@ -15,18 +15,18 @@ To celebrate the coming of everyone's favourite spooky holiday, we've got a bunc
 
 You have these wonderful artists to thank for the new menu backgrounds:
 
-* [56567878ae](https://osu.ppy.sh/users/56567878ae) for their highly popular, contest winning [rendition of devil-pippi](https://puu.sh/rZkG2/1532a91023.jpg)
-* [Artheard](https://osu.ppy.sh/users/Artheard) for their eerily relevant portrayal of [pumpkin-pippi gazing at the full moon](https://puu.sh/rZkGd/6fc6612403.jpg)
-* [xiemon](https://osu.ppy.sh/users/xiemon) with their delightful ["osu! or treat" pumpkin party featuring pippi and yuzu (and cats!)](https://puu.sh/rZkG6/0c238598bd.jpg)
-* [Dramilion](https://osu.ppy.sh/users/Dramilion)'s [quite frankly terrifying rendition of the Spookinator 9000](https://puu.sh/rZkG4/00c41caea6.jpg) trick-or-treating at Aiko's house
-* [SkyDiverFox](https://osu.ppy.sh/users/SkyDiverFox) showing [Aiko, pippi and a taikodon soaring above a Halloween festival](https://puu.sh/rZkFU/6182192764.jpg)
-* [d o _ o b](https://osu.ppy.sh/users/5402247)'s adorable [witch-pippi wishing everyone a happy "holloween"](https://puu.sh/rZkFR/b72f79fe47.jpg)
-* [DarkieMonster](https://osu.ppy.sh/users/DarkieMonster)'s vibrant, [colour-weaving, eye-ball flinging witch-pippi](https://puu.sh/rZkFT/ee1e7da052.jpg)
-* [Adarin](https://osu.ppy.sh/users/Adarin)'s night-sky overlook [featuring a dashing Yuzu-cula, neko witch-pippi and a succubus Maria being chased over the moon by the Taikonator](https://puu.sh/rZkFY/114aa28463.jpg).
-* [DreamWisps](https://osu.ppy.sh/users/DreamWisps)'s striking [digital painting of witch-pippi and a catgirl companion before the full moon](https://puu.sh/rZkFW/e9bd9c587f.jpg)
-* [Arenbou](https://osu.ppy.sh/users/Arenbou)'s heart-fluttering [rendition of Yuzu in a kigurumi hoarding waaaaaayyy too much candy](https://puu.sh/rZkGc/9c4ede43b4.jpg)
+-   [56567878ae](https://osu.ppy.sh/users/56567878ae) for their highly popular, contest winning [rendition of devil-pippi](https://puu.sh/rZkG2/1532a91023.jpg)
+-   [Artheard](https://osu.ppy.sh/users/Artheard) for their eerily relevant portrayal of [pumpkin-pippi gazing at the full moon](https://puu.sh/rZkGd/6fc6612403.jpg)
+-   [xiemon](https://osu.ppy.sh/users/xiemon) with their delightful ["osu! or treat" pumpkin party featuring pippi and yuzu (and cats!)](https://puu.sh/rZkG6/0c238598bd.jpg)
+-   [Dramilion](https://osu.ppy.sh/users/Dramilion)'s [quite frankly terrifying rendition of the Spookinator 9000](https://puu.sh/rZkG4/00c41caea6.jpg) trick-or-treating at Aiko's house
+-   [SkyDiverFox](https://osu.ppy.sh/users/SkyDiverFox) showing [Aiko, pippi and a taikodon soaring above a Halloween festival](https://puu.sh/rZkFU/6182192764.jpg)
+-   [d o \_ o b](https://osu.ppy.sh/users/5402247)'s adorable [witch-pippi wishing everyone a happy "holloween"](https://puu.sh/rZkFR/b72f79fe47.jpg)
+-   [DarkieMonster](https://osu.ppy.sh/users/DarkieMonster)'s vibrant, [colour-weaving, eye-ball flinging witch-pippi](https://puu.sh/rZkFT/ee1e7da052.jpg)
+-   [Adarin](https://osu.ppy.sh/users/Adarin)'s night-sky overlook [featuring a dashing Yuzu-cula, neko witch-pippi and a succubus Maria being chased over the moon by the Taikonator](https://puu.sh/rZkFY/114aa28463.jpg).
+-   [DreamWisps](https://osu.ppy.sh/users/DreamWisps)'s striking [digital painting of witch-pippi and a catgirl companion before the full moon](https://puu.sh/rZkFW/e9bd9c587f.jpg)
+-   [Arenbou](https://osu.ppy.sh/users/Arenbou)'s heart-fluttering [rendition of Yuzu in a kigurumi hoarding waaaaaayyy too much candy](https://puu.sh/rZkGc/9c4ede43b4.jpg)
 
-These fancy new looks won't linger for long once the power of All Hallow's Eve dissipates, so make sure to enjoy them while you can! The titular "pumpkins" remix will remain around forever though (these are no *ordinary* pumpkins), and you can download it below for your own listening (or mapping) pleasure.
+These fancy new looks won't linger for long once the power of All Hallow's Eve dissipates, so make sure to enjoy them while you can! The titular "pumpkins" remix will remain around forever though (these are no _ordinary_ pumpkins), and you can download it below for your own listening (or mapping) pleasure.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/290399901&color=ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false"></iframe>
 
@@ -36,9 +36,9 @@ These fancy new looks won't linger for long once the power of All Hallow's Eve d
 
 There's no time to spare, so get meticulous and start figuring out the infinitesimal clues that will lead to your impeccable acquisition of these brand new medals. Slow and steady sometimes wins the race though, so don't fret if you can't quite catch up to the realtor extraordinaire - these medals are no fickle dream, and you'll be able to get them in reality if you try hard enough! Particularly crafty players will find our mechanical benefactors yield their secrets in no time, so make sure to cooperate with your friends to find out what's what! But make sure to at least give the mystery a try for yourself first - balance in all things, after all.
 
-(*If you don't understand anything about the above paragraph, consider it part of the mystery!*)
+(_If you don't understand anything about the above paragraph, consider it part of the mystery!_)
 
-**If chasing after hidden treasures (and boy are some of them *hidden*) isn't your thing, we've also got a most spooky Chart-slash-Spotlight prepared for you.** If you're unfamiliar with the term, a Spotlight is a featured selection of maps that will soon become the game standard for what was once covered inside the Ranking Charts and Beatmap Packs. Basically, they're themed collections of relatively recent maps that we think you'll love, and have their own mini scoreboards as a set for you to compete on.
+**If chasing after hidden treasures (and boy are some of them _hidden_) isn't your thing, we've also got a most spooky Chart-slash-Spotlight prepared for you.** If you're unfamiliar with the term, a Spotlight is a featured selection of maps that will soon become the game standard for what was once covered inside the Ranking Charts and Beatmap Packs. Basically, they're themed collections of relatively recent maps that we think you'll love, and have their own mini scoreboards as a set for you to compete on.
 
 Download the Halloween Spotlight map pack [here](https://puu.sh/rYzoS/3ccb9ea263.zip), and check out the scoreboards for the event so far [here](https://osu.ppy.sh/p/chart?ch=HALLO2016).
 

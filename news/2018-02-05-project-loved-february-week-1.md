@@ -20,9 +20,9 @@ Let's get stuck in!
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!mania](#osumania)
+-   [osu!](#osu)
+-   [osu!taiko](#osutaiko)
+-   [osu!mania](#osumania)
 
 ## <a name="osu" id="osu"></a>osu!
 
@@ -80,7 +80,7 @@ For a 2012 map, it features some really innovative patterns and rhythm choices t
 
 To end the list for the osu! mode, [Necroluttah](https://osu.ppy.sh/users/2917471)'s Preserved Valkyria needs little introduction as the set is already an incredibly popular one amongst top players.
 
-This set has amassed over 230 favourites and remains one of the most popular unranked 8* maps. Though only 2 minutes long, it's a wild ride.
+This set has amassed over 230 favourites and remains one of the most popular unranked 8\* maps. Though only 2 minutes long, it's a wild ride.
 
 ## <a name="osutaiko" id="osutaiko"></a>osu!taiko
 
@@ -178,7 +178,7 @@ Once again, [PiraTom](https://osu.ppy.sh/users/1847698) and [inteliser](https://
 
 This is a quick, dense and varied semi-finals pick in 2016 meaning that this chart certainly doesn't mess about, and getting that full combo may be easier said than done. That said, good luck!
 
------
+* * *
 
 From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning maps will hit the [beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime during the weekend and will be announced via the [osugame twitter](https://twitter.com/osugame?lang=en).
 

@@ -11,12 +11,12 @@ outdated: true
 -   Offizieller Youtube Kanel: <https://www.youtube.com/user/osuacademy/videos>
 -   Offizieller Thread: <https://osu.ppy.sh/community/forums/topics/225111>
 
-**osu!talk** ist eine Podcast Serie, die von ztrot und Charles445 geführt wird, die sich mit vielen Leuten aus der Community unterhalten. Durch die Art und Weise wie die Podcast Serie aufgestellt wurde, kann jeder, der Lust und Interesse hat, am Podcast live teilnehmen und am Ende im Frage&amp;Antwort Teil seine Frage(n) zum Thema/zur Person stellen.
+**osu!talk** ist eine Podcast Serie, die von ztrot und Charles445 geführt wird, die sich mit vielen Leuten aus der Community unterhalten. Durch die Art und Weise wie die Podcast Serie aufgestellt wurde, kann jeder, der Lust und Interesse hat, am Podcast live teilnehmen und am Ende im Frage&Antwort Teil seine Frage(n) zum Thema/zur Person stellen.
 
 ## Episoden
 
-| \#         | Episoden (alle auf Englisch)                                                                          |
-|------------|-------------------------------------------------------------------------------------------------------|
+| #          | Episoden (alle auf Englisch)                                                                                |
+| ---------- | ----------------------------------------------------------------------------------------------------------- |
 | Episode 01 | [mit Charles445 - BATmanager (10:27)](https://www.youtube.com/watch?v=e8lhBtcPbjw)                          |
 | Episode 02 | [mit MMzz - BAT (14.22)](https://www.youtube.com/watch?v=fBBQ4bwNZcY)                                       |
 | Episode 03 | [mit Loctav - Eventmanager (14:02)](https://www.youtube.com/watch?v=gxZtxmUvDoQ)                            |
@@ -35,11 +35,10 @@ outdated: true
 | Episode 16 | [mit OnosakiHito - Taiko QAT (38:58)](https://www.youtube.com/watch?v=ZYby7r3YNPg)                          |
 | Episode 17 | [mit RBRat3 - osu!painter (23:37)](https://www.youtube.com/watch?v=kSotXmkCN4I)                             |
 
-
 ## Spezialfolgen
 
-| \#              | Spezialfolgen (alle auf Englisch)                                                                                 |
-|-----------------|-------------------------------------------------------------------------------------------------------------------|
+| #               | Spezialfolgen (alle auf Englisch)                                                                                       |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | Spezialfolge 01 | [mit Ephemeral, deadbeat und OnosakiHito - Personalüberarbeitung (52:34)](https://www.youtube.com/watch?v=c10Jiq1xZus)  |
 | Spezialfolge 02 | [mit Kyonko Hizara, Loctav, MMzz und OnosakiHito - Over-Mapping (1:08:03)](https://www.youtube.com/watch?v=RepSYE3hN3A) |
 | Spezialfolge 03 | [mit deadbeat, LoliFlan und Kitokofox - Moderation (1:09:33)](https://www.youtube.com/watch?v=C1hvpnW5A7k)              |

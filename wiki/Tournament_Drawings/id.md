@@ -27,14 +27,14 @@ Terdapat dua bagian di layar ini - bagian utama di sebelah kiri dengan peta duni
 
 Ada 4 tombol di panel kontrol, mari kita bahas lebih lanjut:
 
-- **Begin random**
-  - Tombol ini akan memulai proses pengacakan, membuat bendera yang berada di layar pengundian akan bergulir.
-- **Stop random**
-  - Tombol ini akan menghentikan proses pengacakan, membuat pengacakan melambat sampai akhirnya berhenti dan berpusat pada bendera yang berada di tengah layar.
-- **Reload**
-  - Tombol ini akan memuat ulang file `drawings.txt`.
-- **Reset**
-  - Tombol ini jarang digunakan. Tombol ini bersifat merusak dan akan mengatur ulang hasil proses pengundian.
+-   **Begin random**
+    -   Tombol ini akan memulai proses pengacakan, membuat bendera yang berada di layar pengundian akan bergulir.
+-   **Stop random**
+    -   Tombol ini akan menghentikan proses pengacakan, membuat pengacakan melambat sampai akhirnya berhenti dan berpusat pada bendera yang berada di tengah layar.
+-   **Reload**
+    -   Tombol ini akan memuat ulang file `drawings.txt`.
+-   **Reset**
+    -   Tombol ini jarang digunakan. Tombol ini bersifat merusak dan akan mengatur ulang hasil proses pengundian.
 
 Tekan tombol `Begin random` dan `Stop random`. Saat pengacakan berhenti di bendera yang berada di tengah layar, kembali ke folder osu! dan perhatikan bahwa sekarang ada file tambahan yang dibuat: `drawings_results.txt`.
 Buka file tambahan tadi dan amati format - disinilah tempat hasil proses pengundian disimpan, dan harus diimpor ke alat lebih lanjut untuk membantu dalam mengelola turnamen, seperti google Spreadsheets.
@@ -44,17 +44,16 @@ Buka file tambahan tadi dan amati format - disinilah tempat hasil proses pengund
 
 Sebuah turnamen mungkin tidak menginginkan grup sebanyak 8 grup, dan juga mungkin tidak menginginkan 8 tim per grup. File `drawings.ini` adalah file konfigurasi yang memungkinkan penyesuaian properti tersebut.
 File konfigurasi yang valid, akan terlihat seperti:
-```
-Groups = 4
-TeamsPerGroup = 4
-```
+
+    Groups = 4
+    TeamsPerGroup = 4
 
 Berikut ini adalah properti yang dapat dikonfigurasi melalui file ini:
 
-| Properti | Deskripsi | Nilai yang Valid | Nilai Bawaan |
-| :-- | :-- | :-- | :-- |
-| Groups | Jumlah grup yang akan disediakan. | Antara 1 dan 8 (termasuk) | 8 |
-| TeamsPerGroup | Jumlah maksimum tim dalam satu grup. | Antara 1 dan 8 (termasuk) | 8 |
+| Properti      | Deskripsi                            | Nilai yang Valid          | Nilai Bawaan |
+| :------------ | :----------------------------------- | :------------------------ | :----------- |
+| Groups        | Jumlah grup yang akan disediakan.    | Antara 1 dan 8 (termasuk) | 8            |
+| TeamsPerGroup | Jumlah maksimum tim dalam satu grup. | Antara 1 dan 8 (termasuk) | 8            |
 
 ### Mendefinisikan Tim
 
@@ -63,22 +62,21 @@ File `drawings.txt` menyediakan cara untuk menentukan tim yang akan disortir ke 
 Baris ini memiliki tiga bagian yang dipisahkan oleh titik dua (`:`):
 
 | Kode Bendera | Nama Lengkap Tim | Akronim Tim |
-| :-: | :-: | :-: |
-| AU | Australia | AUS |
+| :----------: | :--------------: | :---------: |
+|      AU      |     Australia    |     AUS     |
 
-- Kode bendera mengacu pada nama file yang menyediakan gambar bendera. Secara bawaan, osu!lazer menyediakan format bendera negara dari [Kode Bendera ISO 3166 Alpha-2](https://www.iso.org/iso-3166-country-codes.html).
-- Nama lengkap tim ditampilkan di tengah layar ketika tim dipilih melalui proses pengundian.
-- Akronim tim ditampilkan dalam kotak grup.
+-   Kode bendera mengacu pada nama file yang menyediakan gambar bendera. Secara bawaan, osu!lazer menyediakan format bendera negara dari [Kode Bendera ISO 3166 Alpha-2](https://www.iso.org/iso-3166-country-codes.html).
+-   Nama lengkap tim ditampilkan di tengah layar ketika tim dipilih melalui proses pengundian.
+-   Akronim tim ditampilkan dalam kotak grup.
 
 ![](img/drawings-txt-visual.png "Representasi visual elemen-elemen drawings.txt")
 
 File `drawings.txt` yang valid dengan beberapa negara sebagai tim adalah sebagai berikut:
-```
-AU : Australia : AUS
-RO : Romania : RO
-IT : Italia : IT
-US : Amerika Serikat : USA
-```
+
+    AU : Australia : AUS
+    RO : Romania : RO
+    IT : Italia : IT
+    US : Amerika Serikat : USA
 
 Untuk menambahkan bendera kustom, kembali ke folder osu! yang berisi file `drawings.ini`, buat folder `Drawings`, dan di dalamnya buat kembali folder dengan nama `Flags` sedemikian rupa sehingga hierarki folder `osu/Drawings/Flags/` dibuat.  
 File gambar bendera kustom dapat ditempatkan di dalam folder `Flags`. Sebagai contoh jika file `my-flag-file.png` ditempatkan di dalam folder `Flags`, maka baris valid yang dapat ditambahkan ke dalam file `drawings.txt` adalah:  

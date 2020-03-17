@@ -16,7 +16,7 @@ Contrairement au décalage local de la musique (spécifique à cette difficulté
 Si vous recevez un décalage online, vous pouvez l'ajuster manuellement vous même pour la difficulté que vous jouez en utilisant `+` ou `-` pour augmenter ou baisser, respectivement, le décalage de la beatmap de 5 millisecondes.
 Vous pouvez aussi maintenir `Alt` quand vous pressez `+` ou `-` va vous autorisez a changer le décalage de 1 milliseconde.
 
----
+* * *
 
 Pour accéder à l'assistant de décalage, ouvrez les la barre des Options et tapez `décalage`.
 Puis cliquez sur le bouton `Assistant de décalage`.

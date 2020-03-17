@@ -6,9 +6,9 @@ outdated: true
 
 Le **Modding** est le fait d'examiner la [map](/wiki/Beatmaps) de quelqu'un d'autre et de faire des suggestions. Ces suggestions auront pour but de, soit corriger des erreurs, soit de simplement améliorer la map. La personne qui modde la map est appelée un "moddeur" et la personne ayant créée la map un "mappeur". Le modding peut-être utile pour trois raisons principales:
 
-1. Si votre mod a été utile pour le mappeur, il vous donnera un [Kudosu](/wiki/Glossary). Les kudosus peuvent être utilisés afin d'augmenter la priorité de votre propre map.
-2. "Mod4mods", ou bien le fait de modder la map de quelqu'un pour obtenir un mod de sa part sur votre map en retour, est un excellent moyen d'être moddé.
-3. Un bon mod réduit le temps que les BATs/MATs passent à signaler des erreurs basiques. Ainsi, ils auront moins de travail et cela augmentera les chances pour qu'ils moddent votre map.
+1.  Si votre mod a été utile pour le mappeur, il vous donnera un [Kudosu](/wiki/Glossary). Les kudosus peuvent être utilisés afin d'augmenter la priorité de votre propre map.
+2.  "Mod4mods", ou bien le fait de modder la map de quelqu'un pour obtenir un mod de sa part sur votre map en retour, est un excellent moyen d'être moddé.
+3.  Un bon mod réduit le temps que les BATs/MATs passent à signaler des erreurs basiques. Ainsi, ils auront moins de travail et cela augmentera les chances pour qu'ils moddent votre map.
 
 Croyez-nous, un [MAT](/wiki/People/Beatmap_Nominators) est généralement de bonne humeur quand il n'a pas passé 10 minutes à s'énerver sur une map parce qu'elle a clairement besoin de plus de mods.
 

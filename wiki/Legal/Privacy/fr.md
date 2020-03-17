@@ -26,10 +26,10 @@ En utilisant notre service, vous confirmez que vous avez lu et compris les [Cond
 
 Bien qu'il soit possible de profiter d'une fonctionnalité limitée sans compte, il est souvent nécessaire qu'un utilisateur ouvre un compte pour bénéficier de certains services. Lors de l'enregistrement d'un compte, nous stockons
 
-- Votre nom d'utilisateur (pseudo)
-- Votre addresse email
-- Votre mot de passe (bcrypt + salt)
-- Votre addresse IP et votre pays
+-   Votre nom d'utilisateur (pseudo)
+-   Votre addresse email
+-   Votre mot de passe (bcrypt + salt)
+-   Votre addresse IP et votre pays
 
 Ces informations personnelles, à l'exception de votre nom d'utilisateur et de votre pays, ne sont jamais partagées publiquement.
 
@@ -37,12 +37,12 @@ Ces informations personnelles, à l'exception de votre nom d'utilisateur et de v
 
 Lors de la création de votre profil (qui est visible publiquement par tous les autres utilisateurs), vous pouvez optionnellement fournir
 
-- Votre localisation actuelle
-- Vos intérêts
-- Votre occupation
-- Votre présence sur les réseaux sociaux (twitter, facebook, discord, web...)
-- Votre avatar et votre photo de couverture
-- Votre signature
+-   Votre localisation actuelle
+-   Vos intérêts
+-   Votre occupation
+-   Votre présence sur les réseaux sociaux (twitter, facebook, discord, web...)
+-   Votre avatar et votre photo de couverture
+-   Votre signature
 
 Tous les champs ci-dessus sont visibles publiquement mais peuvent être retirés immédiatement et définitivement à tout moment depuis la page [paramètres](https://osu.ppy.sh/home/account/edit).
 
@@ -74,11 +74,11 @@ Nous n'effectuons pas de marketing, ni de publicité, ni n'envoyons de courriels
 
 Nous pouvons partager vos données personnelles avec des tiers dans des cas très spécifiques :
 
-- Lorsque vous avez expressément rendu l'information publique
-- Pour exécuter vos commandes
-- Pour traiter les paiements via des fournisseurs de traitement de paiement comme Paypal et Xsolla
-- Pour traiter vos tickets de support (nous utilisons [Enchant](https://enchant.com))
-- Afin d'améliorer notre service, par le biais de l'enregistrement des erreurs (nous utilisons [Sentry](https://sentry.io))
+-   Lorsque vous avez expressément rendu l'information publique
+-   Pour exécuter vos commandes
+-   Pour traiter les paiements via des fournisseurs de traitement de paiement comme Paypal et Xsolla
+-   Pour traiter vos tickets de support (nous utilisons [Enchant](https://enchant.com))
+-   Afin d'améliorer notre service, par le biais de l'enregistrement des erreurs (nous utilisons [Sentry](https://sentry.io))
 
 ## Vos droits et contrôles
 
@@ -112,9 +112,7 @@ Bonjour, je suis Dean (communément appelé peppy) et je suis votre contrôleur 
 
 **Addresse postale **: 
 
-```
-Dean Herbert
-41 Gregory Street
-Wembley, WA, 6014
-Australia
-```
+    Dean Herbert
+    41 Gregory Street
+    Wembley, WA, 6014
+    Australia

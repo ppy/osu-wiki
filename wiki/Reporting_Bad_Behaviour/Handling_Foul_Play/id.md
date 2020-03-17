@@ -2,10 +2,10 @@
 
 ## Mengapa saya dibanned?
 
-- 10 silence pada akunmu.
-- Kamu memberikan akunmu pada orang lain.
-- Menggunakan banyak akun.
-- Berbuat curang (lihat di bawah).
+-   10 silence pada akunmu.
+-   Kamu memberikan akunmu pada orang lain.
+-   Menggunakan banyak akun.
+-   Berbuat curang (lihat di bawah).
 
 ## Apa-apa saja yang termasuk berbuat curang?
 
@@ -33,15 +33,15 @@ Maaf, tapi jika kamu telah dibanned, mereka telah 100% yakin bahwa kamu telah be
 
 ## Saya menemukan seseorang yang memang berbuat curang. (Saya bisa mengetahui berdasarkan tayangan ulang/skor mereka!) Apa yang harus saya perbuat?
 
-1. Tetap tenang.
-2. **JANGAN membicarakannya di obrolan publik**. (atau kamu akan mendapatkan spam)
-3. Jangan memberikan mereka perhatian yang tidak layak mereka dapatkan atau mengajak orang lain untuk menonton mereka.
-4. [Klik tautan "Report" di bagian kanan skor mereka pada info beatmap (website)](https://puu.sh/jAwxU/ff27ba387e.png)
-5. Gunakan perintah !report di dalam permainan untuk mengirim pesan ke moderator
+1.  Tetap tenang.
+2.  **JANGAN membicarakannya di obrolan publik**. (atau kamu akan mendapatkan spam)
+3.  Jangan memberikan mereka perhatian yang tidak layak mereka dapatkan atau mengajak orang lain untuk menonton mereka.
+4.  [Klik tautan "Report" di bagian kanan skor mereka pada info beatmap (website)](https://puu.sh/jAwxU/ff27ba387e.png)
+5.  Gunakan perintah !report di dalam permainan untuk mengirim pesan ke moderator
 
 `Contoh: !report <username> is suspected to be a cheater.`
 
-Catatan: *Penggunaan perintah !report harus menggunakan bahasa Inggris agar para moderator mengerti laporan yang kamu berikan*
+Catatan: _Penggunaan perintah !report harus menggunakan bahasa Inggris agar para moderator mengerti laporan yang kamu berikan_
 
 Bantuanmu dalam memberantas perbuatan curang sangat diapresiasi. Kamu juga dapat mengirim surel secara langsung ke osu@ppy.sh untuk respon yang cukup cepat.
 
@@ -49,25 +49,25 @@ Bantuanmu dalam memberantas perbuatan curang sangat diapresiasi. Kamu juga dapat
 
 Barang yang dianggap tidak apa-apa:
 
-- Peralatan seperti tablet dan layar sentuh
+-   Peralatan seperti tablet dan layar sentuh
 
 Barang yang dianggap dapat membuatmu dibanned:
 
-- Apapun yang dapat mengurangi keterampilan yang dibutuhkan untuk bermain TIDAK diperbolehkan SAMA SEKALI.
-  - Menggunakan komputer lebih dari satu secara sekaligus.
-  - Pembagi masukan (input splitter).
-  - Perangkat keras apapun yang secara fisik menjalankan mouse/keyboard/tablet (tap otomatis, dll)
-  - Apapun yang dianggap sebagai sebuah no-no.
+-   Apapun yang dapat mengurangi keterampilan yang dibutuhkan untuk bermain TIDAK diperbolehkan SAMA SEKALI.
+    -   Menggunakan komputer lebih dari satu secara sekaligus.
+    -   Pembagi masukan (input splitter).
+    -   Perangkat keras apapun yang secara fisik menjalankan mouse/keyboard/tablet (tap otomatis, dll)
+    -   Apapun yang dianggap sebagai sebuah no-no.
 
 Nyatanya, ini sulit untuk mengawasi kecuali kami berdiri tepat di sampingmu, tapi jika kamu telah dituduh, buatlah sebuah video (menggunakan sebuah kamera) permainanmu pada sebuah map mungkin dapat sedikit melegakan.
 
 ## Bagaimana cara saya mengajukan sebuah pelepasan status banned?
 
-1. Kirimkan surelmu ke *accounts@ppy.sh* dengan judul Ban Appeal: <username>
-2. Sertakan nama penggunamu ke tiket dan nyatakan bahwa kamu berharap status bannedmu dicabut.
-3. Waktu tunggu hingga **lima** hari. Jika kamu membuat sebuah pengajuan dan ditolak, segala pengajuan ke depannya akan ditolak.
+1.  Kirimkan surelmu ke _accounts@ppy.sh_ dengan judul Ban Appeal: <username>
+2.  Sertakan nama penggunamu ke tiket dan nyatakan bahwa kamu berharap status bannedmu dicabut.
+3.  Waktu tunggu hingga **lima** hari. Jika kamu membuat sebuah pengajuan dan ditolak, segala pengajuan ke depannya akan ditolak.
 
-Catatan: *Isi surel harus berbahasa Inggris.*
+Catatan: _Isi surel harus berbahasa Inggris._
 
 ## Bagaimana cara saya menghindari dari silence atau banned?
 

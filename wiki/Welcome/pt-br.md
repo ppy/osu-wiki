@@ -4,33 +4,33 @@ Bem-vindo ao osu!, um jogo de ritmo free-to-win desenvolvido por peppy com quatr
 
 ## Pontos de interesse gerais
 
-- [Registro](/wiki/Registration)
-- [Instalação](/wiki/Installation)
-- [Regras](/wiki/Rules)
-- [FAQ](/wiki/FAQ)
-- [Modalidades de Jogo](/wiki/Game_Modes)
-  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
-  - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
-  - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
-  - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania)
-- [Multi](/wiki/Multi)
-- [Ranking Criteria](/wiki/Ranking_Criteria)
-  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
-  - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
-  - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
-  - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
+-   [Registro](/wiki/Registration)
+-   [Instalação](/wiki/Installation)
+-   [Regras](/wiki/Rules)
+-   [FAQ](/wiki/FAQ)
+-   [Modalidades de Jogo](/wiki/Game_Modes)
+    -   ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
+    -   ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
+    -   ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
+    -   ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania)
+-   [Multi](/wiki/Multi)
+-   [Ranking Criteria](/wiki/Ranking_Criteria)
+    -   ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
+    -   ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
+    -   ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
+    -   ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
 ## Beatmapping
 
-*Veja também: [Beatmapping](/wiki/Beatmapping).*
+_Veja também: [Beatmapping](/wiki/Beatmapping)._
 
-Beatmapping refere-se ao processo de criação de um beatmap. Este processo inclui: selecionar a música, definir um timing (para as notas), mapear o beatmap e testar o beatmap. Também pode incluir: adicionar um vídeo, adicionar um [storyboard](/wiki/Storyboarding) e/ou uma [skin personalizada](/wiki/Skinning). Todos esses passos podem ser feitos pelo criador sozinho ou com a ajuda de outros usuários, algumas vezes sendo chamados de *storyboarders*, *skinners* e/ou *criadores convidados*, dependendo de qual seja a tarefa deles.
+Beatmapping refere-se ao processo de criação de um beatmap. Este processo inclui: selecionar a música, definir um timing (para as notas), mapear o beatmap e testar o beatmap. Também pode incluir: adicionar um vídeo, adicionar um [storyboard](/wiki/Storyboarding) e/ou uma [skin personalizada](/wiki/Skinning). Todos esses passos podem ser feitos pelo criador sozinho ou com a ajuda de outros usuários, algumas vezes sendo chamados de _storyboarders_, _skinners_ e/ou _criadores convidados_, dependendo de qual seja a tarefa deles.
 
 ## Modding
 
-*Veja também: [Modding](/wiki/Modding).*
+_Veja também: [Modding](/wiki/Modding)._
 
-Modding é o processo no qual os usuários da comunidade revisam (ou, como é apelidado, "moddam") um beatmap no estágio de *Pendente* ou *Trabalho em Progresso/Precisando de Ajuda*. Modding é crucial para o controle de qualidade porque permite que os criadores identifiquem e consertem os problemas presentes nos seus beatmaps.
+Modding é o processo no qual os usuários da comunidade revisam (ou, como é apelidado, "moddam") um beatmap no estágio de _Pendente_ ou _Trabalho em Progresso/Precisando de Ajuda_. Modding é crucial para o controle de qualidade porque permite que os criadores identifiquem e consertem os problemas presentes nos seus beatmaps.
 
 ## osu! wiki - Como você pode ajudar!
 

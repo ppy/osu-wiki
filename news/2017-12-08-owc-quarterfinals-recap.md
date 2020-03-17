@@ -22,7 +22,7 @@ Four words – Taiwan is on fire! The week prior we were already surprised by Ta
 
 But Taiwan has the answer for that – a dreadnought who goes by the name of [Flask](https://osu.ppy.sh/users/959763), the spearhead leader of Taiwan's next generation. Many players may have just begun to notice his name popping up, but Flask surprised everyone when he FC'd 6 of the 9 maps and absolutely carried his team in the match-up against the formidable Germany.
 
-The German players fought hard and managed to bring a couple of maps to very close margins, but with the combined forces of other Taiwanese players like [Koalazy](https://osu.ppy.sh/users/286740), [Rucker](https://osu.ppy.sh/users/147515), and [_Shield](https://osu.ppy.sh/users/1860489), Team Taiwan took the match 6-3. They have every reason to be proud of this achievement.
+The German players fought hard and managed to bring a couple of maps to very close margins, but with the combined forces of other Taiwanese players like [Koalazy](https://osu.ppy.sh/users/286740), [Rucker](https://osu.ppy.sh/users/147515), and [\_Shield](https://osu.ppy.sh/users/1860489), Team Taiwan took the match 6-3. They have every reason to be proud of this achievement.
 
 ![](/wiki/shared/news/2017-12-06-osu-world-cup-quarterfinals/de_tw.png)
 

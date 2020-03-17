@@ -193,25 +193,25 @@ Combo# (Integer List) est une liste de trois nombres, chacun allant de 0 à 255 
 
 Un hit circle est un simple coup dans le mode de jeu osu!
 
-*x (Integer)* va de 0 à 512 (inclusif) et *y (Integer)* va de 0 à 384 (inclusif).
+_x (Integer)_ va de 0 à 512 (inclusif) et _y (Integer)_ va de 0 à 384 (inclusif).
 
-*time (Integer)* est le début de la musique, en millisecondes.
+_time (Integer)_ est le début de la musique, en millisecondes.
 
-*type (Integer)* est un bitmap pour hit object:
+_type (Integer)_ est un bitmap pour hit object:
 
 Bit 0 (1) = cercle, bit 1 (2) = slider, bit 2 (4) = nouveau combo, bit 3 (8) = spinner. Bits 4-6 (16, 32, 64) forment un nombre de 3-bit (0-7) qui choisit combien de couleurs de combo passer. Bit 7 (128) est une note longue d'osu!mania. Cercles, sliders, et spinners peuvent voir leur être appliqué un OR avec de nouveau combos et de nouvelles valeurs de sautement de combo, mais pas avec l'un l'autre.
 
 `1` - cercle, `5` - cercle commençant un nouveau combo, `22` - slider commençant un nouveau combo, saut de 2 couleurs.
 
-*hitSound (Integer)* est un bitmap des hitsounds à jouer au dessus des hitsounds normaux:
+_hitSound (Integer)_ est un bitmap des hitsounds à jouer au dessus des hitsounds normaux:
 
 Bit 1 (2) = hitwhistle, bit 2 (4) = hitfinish, bit 3 (8) = hitclap.
 
-*addition (sampleSet:additions:customIndex:sampleVolume:filename)* est optionnel et définit l'ensemble de sample pour le hit object."0:0:0:0:" par défaut. *sampleSet (Integer)* change l'ensemble de sample de l'objet, et *addition (Integer)* change l'ensemble de sample pour additions (whistle, finish, clap). Ces valeurs sont:
+_addition (sampleSet:additions:customIndex:sampleVolume:filename)_ est optionnel et définit l'ensemble de sample pour le hit object."0:0:0:0:" par défaut. _sampleSet (Integer)_ change l'ensemble de sample de l'objet, et _addition (Integer)_ change l'ensemble de sample pour additions (whistle, finish, clap). Ces valeurs sont:
 
 0 = Auto, 1 = Normal, 2 = Soft, 3 = Drum
 
-*customIndex (Integer)* est l'index de l'ensemble de sample personnalisés, par exemple 3 pour `normal-3.wav`. *sampleVolume (Integer)* est le volume du sample, 0-100 (pourcentage). *filename (String)* définit le fichier audio à jouer à la place de celui de l'ensemble de sample.
+_customIndex (Integer)_ est l'index de l'ensemble de sample personnalisés, par exemple 3 pour `normal-3.wav`. _sampleVolume (Integer)_ est le volume du sample, 0-100 (pourcentage). _filename (String)_ définit le fichier audio à jouer à la place de celui de l'ensemble de sample.
 
 **Syntaxe du Slider:**
 
@@ -221,23 +221,23 @@ Un slider crée des droplets dans osu!catch, des roulements jaune dans osu!taiko
 
 `424,96,66,2,0,B|380:120|332:96|332:96|304:124,1,130,2|0,0:0|0:0,0:0:0:0:`
 
-*x*, *y*, *time*, et *type* agissent comme décrit dans la Syntaxe du Hit Circle.
+_x_, _y_, _time_, et _type_ agissent comme décrit dans la Syntaxe du Hit Circle.
 
-*hitSound* s'applique au corps du slider, mais seulement le son whistle se jouera durant le corps du slider.
+_hitSound_ s'applique au corps du slider, mais seulement le son whistle se jouera durant le corps du slider.
 
-*sliderType* sera `L` (linéraire), `P` (parfait), `B` (Bezier), or `C` (Catmull). Un slider créé avec l'éditeur avec seulement un point de départ et de fin sera un slider linéraire. Un slider avec seulement un point de départ, de fin et un point gris sera un slider en cercle parfait. Les autres sont des Bezier. Catmull est déprécié.
+_sliderType_ sera `L` (linéraire), `P` (parfait), `B` (Bezier), or `C` (Catmull). Un slider créé avec l'éditeur avec seulement un point de départ et de fin sera un slider linéraire. Un slider avec seulement un point de départ, de fin et un point gris sera un slider en cercle parfait. Les autres sont des Bezier. Catmull est déprécié.
 
-*curvePoints (x:y|...)* est une série de coordonnées séparées par des `|` décrivant les points de contrôle du slider. Les points rouges apparaissent deux fois. NOTE: curvePoints est séparé du sliderType avec un `|`, pas une virgule.
+_curvePoints (x:y|...)_ est une série de coordonnées séparées par des `|` décrivant les points de contrôle du slider. Les points rouges apparaissent deux fois. NOTE: curvePoints est séparé du sliderType avec un `|`, pas une virgule.
 
-*repeat (Integer)* est le nombre de temps qu'un joueur passera sur le slider. Une valeur de 1 ne se répétera pas, 2 se répétera une fois, 3 deux fois, et ainsi de suite.
+_repeat (Integer)_ est le nombre de temps qu'un joueur passera sur le slider. Une valeur de 1 ne se répétera pas, 2 se répétera une fois, 3 deux fois, et ainsi de suite.
 
-*pixelLength (Float)* est la longueur du slider en suivant le chemin de la courbe. Si la longueur est plus grande que la courbe, le slider continuera tout droit.
+_pixelLength (Float)_ est la longueur du slider en suivant le chemin de la courbe. Si la longueur est plus grande que la courbe, le slider continuera tout droit.
 
-*edgeHitsounds (hitSound|...)* est une liste de hitSounds séparées par des `|` pour s'appliquer aux cercles du slider. Ces valeurs sont les mêmes que pour les hitSounds de Hit Circle.
+_edgeHitsounds (hitSound|...)_ est une liste de hitSounds séparées par des `|` pour s'appliquer aux cercles du slider. Ces valeurs sont les mêmes que pour les hitSounds de Hit Circle.
 
-*edgeAdditions (sampleSet:additions|...)* est une liste de ensemble de sample séparés par des `|` pour s'appliquer aux cercles du slider. *sampleSet* et *additions* sont les même que le champ *addition* du hit circle.
+_edgeAdditions (sampleSet:additions|...)_ est une liste de ensemble de sample séparés par des `|` pour s'appliquer aux cercles du slider. _sampleSet_ et _additions_ sont les même que le champ _addition_ du hit circle.
 
-*addition* définit un ensemble de sample à utiliser pour le corps du slider. Il fonctionne comme *addition* pour un cercle.
+_addition_ définit un ensemble de sample à utiliser pour le corps du slider. Il fonctionne comme _addition_ pour un cercle.
 
 **Syntaxe du Spinner:**
 
@@ -247,9 +247,9 @@ Un slider crée des droplets dans osu!catch, des roulements jaune dans osu!taiko
 
 Un spinner crée des bananes dans osu!catch, un spinner dans osu!taiko, mais n'apparaît pas dans osu!mania.
 
-*type*, *time*, *hitSound*, et *addition* fonctionnent comme décrit dans la Syntaxe du Hit Circle.
+_type_, _time_, _hitSound_, et _addition_ fonctionnent comme décrit dans la Syntaxe du Hit Circle.
 
-*endTime (Integer)* est le moment où le spinner s'arrête, en millisecondes en partant du début de la musique. NOTE: les Hitsounds se jouent à la fin du spinner.
+_endTime (Integer)_ est le moment où le spinner s'arrête, en millisecondes en partant du début de la musique. NOTE: les Hitsounds se jouent à la fin du spinner.
 
 **Syntaxe d'une Longue Note d'osu!mania**
 

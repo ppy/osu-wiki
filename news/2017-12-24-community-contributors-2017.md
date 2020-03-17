@@ -162,7 +162,7 @@ By far and above the most active and reliable contributor to the osu!wiki projec
 
 One of the earliest and most reliable contributors to the osu!wiki project, TPGPL's efforts towards laying out structure and the groundwork for articles and reworks of all kinds has been instrumental in getting the wiki off the ground. TPGPL's work and ethic represents everything that we could've ever hoped for when opening osu! up to open source contribution, and we are incredibly grateful for his hundreds of hours of hard work.
 
--------
+* * *
 
 2017 has been an incredible year for osu!, and we're super proud to see people continuing to step up and help keep the game going strong.
 

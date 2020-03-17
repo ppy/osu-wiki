@@ -10,7 +10,7 @@ Time for a second serving as the osu! Coffee Hour podcast returns once again, th
 
 ## This week's theme
 
-We'll be covering the somewhat controversial topic of the *Loved* beatmap category introduced several months ago.
+We'll be covering the somewhat controversial topic of the _Loved_ beatmap category introduced several months ago.
 
 Widely acclaimed and then widely reviled shortly after, the category has been the source of much discussion and disgruntlement since it's implementation in October, 2016.
 

@@ -8,8 +8,8 @@ Caso você não possua os drivers gráficos corretos instalados, o Windows usar�
 
 Primeiro, vamos verificar se isso se aplica a você:
 
-- Clique com o botão direito do mouse em (Meu) Computador e escolha Propriedades no menu ou pressione WinKey + Break no teclado.
-- Escolha Gerenciador de Dispositivos à esquerda.
+-   Clique com o botão direito do mouse em (Meu) Computador e escolha Propriedades no menu ou pressione WinKey + Break no teclado.
+-   Escolha Gerenciador de Dispositivos à esquerda.
 
 Verifique se você está usando o Adaptador de Vídeo Básico da Microsoft conforme o diagrama a seguir:
 
@@ -17,9 +17,9 @@ Verifique se você está usando o Adaptador de Vídeo Básico da Microsoft confo
 
 Busque por drivers para a sua placa no site do fabricante. Aqui estão alguns links comuns:
 
-- [AMD / ATI](https://amd.com/pt/support)
-- [NVIDIA](https://nvidia.com.br/Download/index.aspx?lang=br)
-- [Intel](https://downloadcenter.intel.com/pt-br/search?keyword=Intel%C2%AE+HD+Graphics+3000)
+-   [AMD / ATI](https://amd.com/pt/support)
+-   [NVIDIA](https://nvidia.com.br/Download/index.aspx?lang=br)
+-   [Intel](https://downloadcenter.intel.com/pt-br/search?keyword=Intel%C2%AE+HD+Graphics+3000)
 
 ## Profundidade de bits errada
 
@@ -27,4 +27,4 @@ Seus drivers podem ser instalados corretamente, mas a sua profundidade de bits d
 
 ## Ajuda adicional
 
-Se o seu problema não for corrigido pelas soluções acima, crie um tópico no [fórum de ajuda](https://osu.ppy.sh/community/forums/5) com os resultados [deste programa](http://realtech-vr.com/home/glview) e o seu gl\_info.txt caso esteja usando a versão Cutting Edge.
+Se o seu problema não for corrigido pelas soluções acima, crie um tópico no [fórum de ajuda](https://osu.ppy.sh/community/forums/5) com os resultados [deste programa](http://realtech-vr.com/home/glview) e o seu gl_info.txt caso esteja usando a versão Cutting Edge.

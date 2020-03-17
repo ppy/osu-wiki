@@ -15,4 +15,4 @@ The majority of content in this repository is licensed under [CC-BY-NC 4.0](http
 
 As this is a wiki, there may be content with third party licences. These licences will be cited local to the content, and override the global licence file.
 
-Please note that this *does not cover* the usage of the "osu!" or "ppy" branding in any software, resources, advertising or promotion, as this is protected by trademark law. If you require clearance for the use of these terms, please [contact us](mailto:contact@ppy.sh).
+Please note that this _does not cover_ the usage of the "osu!" or "ppy" branding in any software, resources, advertising or promotion, as this is protected by trademark law. If you require clearance for the use of these terms, please [contact us](mailto:contact@ppy.sh).

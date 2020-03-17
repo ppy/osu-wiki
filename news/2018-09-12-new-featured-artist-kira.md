@@ -8,7 +8,7 @@ Showcasing the best fusion of pop music and Vocaloids to date, we're proud to pr
 
 [![](https://assets.ppy.sh/artists/27/header.jpg)](https://osu.ppy.sh/beatmaps/artists/27)
 
-Inspired by osu! to start delving into the scene himself, **KIRA** has taken the Vocaloid music community by storm in recent years with several smash pop hits, such as *Circles* and *MONSTER*, the latter netting over *4.3million views on YouTube.*
+Inspired by osu! to start delving into the scene himself, **KIRA** has taken the Vocaloid music community by storm in recent years with several smash pop hits, such as _Circles_ and _MONSTER_, the latter netting over _4.3million views on YouTube._
 
 Damn.
 
@@ -34,7 +34,7 @@ Check out a small sample of what's available:
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/9hRF60wm3Co" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
--------
+* * *
 
 Like what you hear? [Check out **KIRA**'s Featured Artist listing for more, and downloads to pre-timed versions of these tracks, including video.](https://osu.ppy.sh/beatmaps/artists/27)
 

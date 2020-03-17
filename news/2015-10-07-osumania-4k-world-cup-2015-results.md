@@ -15,9 +15,9 @@ You can watch the full record of the finals right here:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tJjvlGFRBjY" frameborder="0" allowfullscreen></iframe>
 
-+ Team United States wins 6 months of supporter status, a unique profile badge and a 50$ osu!store credit for each player. Along with that, they receive the user title of "osu!mania Champion" for 1 year.
-+ Team Japan is awarded with 3 months of supporter status and a unique profile badge for each player.
-+ Team United Kingdom receives a month of supporter status and a unique profile badge for each player.
+-   Team United States wins 6 months of supporter status, a unique profile badge and a 50$ osu!store credit for each player. Along with that, they receive the user title of "osu!mania Champion" for 1 year.
+-   Team Japan is awarded with 3 months of supporter status and a unique profile badge for each player.
+-   Team United Kingdom receives a month of supporter status and a unique profile badge for each player.
 
 Congratulations again to the winners, and thanks to all participants for making this tournament so great. It was the first time we managed to host this independent 4K tournament with 32 teams! During the grand finals, over 1,300 viewers were recorded watching the live-stream! We hope to see more players in the roster for next year's tournament, and are looking forward to broadcasting more awesome matches in the future!
 

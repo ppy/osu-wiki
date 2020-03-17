@@ -16,7 +16,7 @@ A selection of the top-voted entries will make it to the main-menu as this year'
 
 Each winning artist will also receive **2 months of osu!supporter** to commemorate their well-earned victory. Nice.
 
-Unsure of who to vote for? Check out this handy little animated preview, showcasing all the amazing entries in a slideshow set to the summertime spice of [IAHN's](https://osu.ppy.sh/beatmaps/artists/3) track, *Summer Vacation*. Like what you hear? Map it!
+Unsure of who to vote for? Check out this handy little animated preview, showcasing all the amazing entries in a slideshow set to the summertime spice of [IAHN's](https://osu.ppy.sh/beatmaps/artists/3) track, _Summer Vacation_. Like what you hear? Map it!
 
 <div align="center">
     <video width="90%" controls>

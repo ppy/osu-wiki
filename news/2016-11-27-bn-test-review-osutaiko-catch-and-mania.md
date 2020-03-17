@@ -15,7 +15,7 @@ Additionally, we'll share some thoughts on how the testing process went from our
 
 So without further ado, let's get right into it!
 
----
+* * *
 
 **osu!taiko (by DakeDekaane)**  
 Total # of candidates: 15  
@@ -35,7 +35,7 @@ Oh boy, the mod quality. Some mods were really detailed in every point improving
 
 I take the opportunity to congratulate the passing candidates, you did a good job! Those who did not, don't be afraid to try again - the more we practice and the more we ask, the better we become. To finalize, the results of this test helped to identify one of the many issues that hinder the osu!taiko community and there will be a surprise mechanic aiming to combat this, but I'm not going to give you any spoiler, so stay tuned!
 
----
+* * *
 
 **osu!catch (by JBHyperion)**  
 Total # of candidates: 5  
@@ -51,7 +51,7 @@ All candidates who expressed interest in receiving feedback on their tests have 
 
 Congratulations to our passing candidates, and good luck to everyone applying next round - I look forward to working with each and every one of you, both now and in the future, to make osu!catch mapping and modding a diverse, exciting and friendly place for all!
 
----
+* * *
 
 **osu!mania (by Blocko)  
 **Total # of candidates: 25  
@@ -73,7 +73,7 @@ I've received some responses from candidates that said it took 3~5 hours for the
 
 I'm proud that there are people I know that have passed the test and are currently bubbling and qualifying maps as BNs, but for those who failed the test, it doesn't hurt to try again to become a better modder, right? As a word of advice, keep modding. Doing that in turn will improve your modding skills and perhaps will let you see another perspective toward a mapset. Remember that there's always a next time for these kinds of things! Once again, congratulations to the passing candidates, good luck, and remember to have fun as full-fledged Beatmap Nominators!
 
----
+* * *
 
 So, this brings our recap of the latest BN applications to a close. Hopefully you found this interesting and informative, and of course feel free to ask if you have any questions! For those of you who are planning to try again next round, or perhaps attempt the BN test for the first time, be sure to keep the test creators' comments in mind and give it your best shot! All of us look forward to seeing even more success from taiko, catch and mania modes on the next round in a few months time, but for any of you who mod standard, your chance will be coming up very soon, so stay tuned!
 

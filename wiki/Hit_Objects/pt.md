@@ -2,9 +2,9 @@
 
 Um hit object (objeto de batida) é o elemento núcleo de jogabilidade no osu!. Existem três tipos de objetos:
 
-- Hit Circle
-- Slider
-- Spinner
+-   Hit Circle
+-   Slider
+-   Spinner
 
 Hit circles e sliders são encontrados frequentemente, enquanto que spinners irão aparecer ocasionalmente. Tudo que você interage durante o decurso do beatmap é um objeto.
 
@@ -18,7 +18,7 @@ Chamado Hit Marker(marcador de batida) nos [jogos de DS](/wiki/Glossary). É um 
 
 ![Um slider na skin padrão.](img/Slider2.jpg "Um slider na skin padrão.")
 
-Consiste em dois Hit Circles com um caminho entre eles, normalmente direitos ou encurvados (chamados "benzier"). Um Approach Circle está á volta do Hit Circle no começo do Slider. Uma vez que o Approach Circle chega á borda, o jogador deve clicar no começo do Slider e então, deixando o botão premido, seguir (com seu cursor) o movimento gráfico \[chamado Slider Ball - Um gráfico (em forma de bola como padrão) que se move junto com o caminho do Slider baseado no BPM e na Slider Velocity dados pelo mapper\] pelo caminho do Slider até chegar no Hit Circle final. Se existe uma reverse arrow naquele ponto, o jogador segue a Slider Ball de volta para o mesmo caminho repetindo as vezes que o gráfico da reverse arrow seja visível.
+Consiste em dois Hit Circles com um caminho entre eles, normalmente direitos ou encurvados (chamados "benzier"). Um Approach Circle está á volta do Hit Circle no começo do Slider. Uma vez que o Approach Circle chega á borda, o jogador deve clicar no começo do Slider e então, deixando o botão premido, seguir (com seu cursor) o movimento gráfico \[chamado Slider Ball - Um gráfico (em forma de bola como padrão) que se move junto com o caminho do Slider baseado no BPM e na Slider Velocity dados pelo mapper] pelo caminho do Slider até chegar no Hit Circle final. Se existe uma reverse arrow naquele ponto, o jogador segue a Slider Ball de volta para o mesmo caminho repetindo as vezes que o gráfico da reverse arrow seja visível.
 
 Slider Ticks são círculos pequenos que aparecem em intervalos regulares ao longo do caminho do Slider. O jogador só falha no cumprimento do Slider se o cursor não estiver ao alcance da Slider Ball e/ou o botão não estiver sendo premido enquanto a Slider Ball está passando por um tick. Não premir o cursor no Slider ou o botão premido durante qualquer outra altura do caminho do Slider irá na verdade não fazer qualquer penalidade. Usuários poderão ajustar o número de ticks nos Sliders de seus Beatmaps. Mais ticks fazem o Combo subir mais rápido e então oferece a oportunidade ao jogador de conseguir scores mais altos, mas ao mesmo tempo fornecem mais chances do jogador falhar em completar o Slider. Cada Slider Tick completado vale 10 pontos (independentemente do Combo).
 
@@ -32,4 +32,4 @@ Um Spinner é um círculo que consome toda a tela durante o jogo e possui um Spi
 
 A Spinner is a circle that takes up the entire height of the play area and has a Spinner Metre on either side. A large circular outline similar to a
 
-**Nota:** A skin padrão atual \[osu! do peppy\] não possui Approach Circles ou Spinner Metre.
+**Nota:** A skin padrão atual \[osu! do peppy] não possui Approach Circles ou Spinner Metre.

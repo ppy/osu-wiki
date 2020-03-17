@@ -17,9 +17,9 @@ We launched the event mid-summer, with more than 150 submissions, went through m
 
 ## Prize recap
 
-- **1st:** osu!idol 2016 Winner profile badge + 6 months supporter tag.
-- **2nd:** 3 months supporter tag.
-- **3rd:** 2 months supporter tag.
+-   **1st:** osu!idol 2016 Winner profile badge + 6 months supporter tag.
+-   **2nd:** 3 months supporter tag.
+-   **3rd:** 2 months supporter tag.
 
 Don't forget to drop by the discussion thread [here](https://osu.ppy.sh/community/forums/topics/448842/start=0) and of course our [discord server!](https://discord.gg/7hZgNeH)
 

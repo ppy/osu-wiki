@@ -40,11 +40,11 @@ Lastly, **a number of existing Beatmap Nominators will be departing** to pursue 
 
 With Beatmap Nominator tests no longer a factor, **there have been further reshuffles to role distribution within the QAT.** In addition to having more time available to lead and monitor their respective Beatmap Nominator subdivisions, additional roles undertaken by some members are listed below:
 
-- **Beatmap Nominator promotions:** [Deif](https://osu.ppy.sh/users/318565), [Mao](https://osu.ppy.sh/users/2204515), [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
-- **QAT blog:** [JBHyperion](https://osu.ppy.sh/users/4879508), [Feerum](https://osu.ppy.sh/users/4815717)
-- **Metadata:** [IamKwaN](https://osu.ppy.sh/users/1856463), [Doyak](https://osu.ppy.sh/users/2046893)
-- **Ranking Criteria:** [Okorin](https://osu.ppy.sh/users/1623405), [pishifat](https://osu.ppy.sh/users/3178418)
-- **Beatmap Spotlights:** [OnosakiHito](https://osu.ppy.sh/users/290128), [Kurokami](https://osu.ppy.sh/users/260933)
+-   **Beatmap Nominator promotions:** [Deif](https://osu.ppy.sh/users/318565), [Mao](https://osu.ppy.sh/users/2204515), [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
+-   **QAT blog:** [JBHyperion](https://osu.ppy.sh/users/4879508), [Feerum](https://osu.ppy.sh/users/4815717)
+-   **Metadata:** [IamKwaN](https://osu.ppy.sh/users/1856463), [Doyak](https://osu.ppy.sh/users/2046893)
+-   **Ranking Criteria:** [Okorin](https://osu.ppy.sh/users/1623405), [pishifat](https://osu.ppy.sh/users/3178418)
+-   **Beatmap Spotlights:** [OnosakiHito](https://osu.ppy.sh/users/290128), [Kurokami](https://osu.ppy.sh/users/260933)
 
 Additionally, please offer a warm farewell to [alacat](https://osu.ppy.sh/users/869782), who will be departing from his role in metadata checking for newly qualified beatmaps. Many thanks for your hard work over the years, and we wish you the best of luck in your future endeavours!
 

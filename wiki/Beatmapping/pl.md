@@ -10,14 +10,14 @@ outdated: true
 
 Najczęstszymi poziomami trudności spotykanymi w beatmapach są:
 
-- Łatwy
-- Normal
-- Trudny
-- Szalony
-- Ekspercki
+-   Łatwy
+-   Normal
+-   Trudny
+-   Szalony
+-   Ekspercki
 
 Kliknięcie dowolnego z powyższych linków wyświetli zestaw porad używanych przez [mapperów](/wiki/Glossary) do tworzenia interesujących [map](/wiki/Beatmaps) odpowiednich dla danego [poziomu trudności](/wiki/Difficulties).
 
 Nazwy [poziomów trudności](/wiki/Difficulties) mogą być zupełnie dowolne, co jest często spotykane. Jednak jeżeli chcemy aby nasza mapa otrzymała status [rankingowej](/wiki/Beatmaps), nazwa musi odzwierciedlać poziom trudności.
 
-Dodatkowo można spotkać tzw. gościnne poziomy trudności (ang. [Guest Difficulties](/wiki/Glossary)), które są najczęściej oznaczane jako \[x's y\], gdzie x to nick twórcy a y to poziom trudności, np. \[Larto's Insane\].
+Dodatkowo można spotkać tzw. gościnne poziomy trudności (ang. [Guest Difficulties](/wiki/Glossary)), które są najczęściej oznaczane jako \[x's y], gdzie x to nick twórcy a y to poziom trudności, np. \[Larto's Insane].

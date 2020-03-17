@@ -15,10 +15,10 @@ For as long as the GMT has been around, there has always been confusion about ho
 
 There are a few key points to note as well:
 
-* Entry requirements for the GMT have not changed. To clarify, you must be very active on both the forums and via IRC/in-game chat. You must also regularly contribute to in-game reports, and must also speak passable English.
-* You must also have impeccable standing on your osu! account. This means that anyone who has had a recent restriction or multi-account offense within the past year likely does not qualify to become a GMT at this time. Silences will be handled case by case per user, but you should still not have very many of them.
-* Successful applicants will be required to maintain an acceptable level of activity in order to remain in the GMT.
-* Please also be aware that this application system will work differently to the BN applications. This is only an application form and not a test. By filling out and completing the form, you are not guaranteed a seat in the GMT. We will contact you if we want to speak to you further.
+-   Entry requirements for the GMT have not changed. To clarify, you must be very active on both the forums and via IRC/in-game chat. You must also regularly contribute to in-game reports, and must also speak passable English.
+-   You must also have impeccable standing on your osu! account. This means that anyone who has had a recent restriction or multi-account offense within the past year likely does not qualify to become a GMT at this time. Silences will be handled case by case per user, but you should still not have very many of them.
+-   Successful applicants will be required to maintain an acceptable level of activity in order to remain in the GMT.
+-   Please also be aware that this application system will work differently to the BN applications. This is only an application form and not a test. By filling out and completing the form, you are not guaranteed a seat in the GMT. We will contact you if we want to speak to you further.
 
 **To clarify, there is not a certain number of "seats" or positions going for the GMT. If we think someone has what it takes, we'll add them. There's no competition for any sort of position.**
 

@@ -26,42 +26,39 @@ osu!tourney 客户端是用于旁观在多人房间里所有玩家的官方直�
 您只需将需要的歌曲添加至您的 `/Songs/` 文件夹中，客户端就会自动开始下载缺失的谱面。
 osu!tourney 客户端只支持已经提交的谱面。
 
-1. 安装一个新的 osu!
-   如果您要这么做，请先将目录下的 `osu!.exe` 复制到一个新的空文件夹，然后运行它即可。
-   它应该会自动开始更新和安装。
-2. 打开安装完毕的 osu! 并登录。
-   不要忘记选择 **记住用户名** 和 **记住密码**
-3. 切换更新版本到 **测试版**。
-4. 在这个新的文件夹里创建一个文件名为 `tournament.cfg` 的文件。
-5. (重新)启动您的 osu! 客户端，osu!tourney 应该会启动。
-   这可能需要一段时间，请耐心等待。
-   它将会自动生成 `tournament.cfg` 文件的内容，它将包含以下行：
-   
-  ```
-  TeamSize = 4
-  privateserver =
-  acronym = Your tournament name
-  BufferTotalTime = 3000
-  BufferDangerTime = 1000
-  BufferTimeoutTime = 20000
-  ```
+1.  安装一个新的 osu!
+    如果您要这么做，请先将目录下的 `osu!.exe` 复制到一个新的空文件夹，然后运行它即可。
+    它应该会自动开始更新和安装。
+2.  打开安装完毕的 osu! 并登录。
+    不要忘记选择 **记住用户名** 和 **记住密码**
+3.  切换更新版本到 **测试版**。
+4.  在这个新的文件夹里创建一个文件名为 `tournament.cfg` 的文件。
+5.  (重新)启动您的 osu! 客户端，osu!tourney 应该会启动。
+     这可能需要一段时间，请耐心等待。
+     它将会自动生成 `tournament.cfg` 文件的内容，它将包含以下行：
+        TeamSize = 4
+        privateserver =
+        acronym = Your tournament name
+        BufferTotalTime = 3000
+        BufferDangerTime = 1000
+        BufferTimeoutTime = 20000
 
 关闭 osu! 然后编辑或添加您的比赛所需选项，下面列出了全部选项。如果没有明确说明，时间均以毫秒为单位：
 
-- `TeamSize` 定义您的团队大小，osu!tourney 可以为每个团队打开 1-8 个窗口，最大值是8。
-- `ClientNameSize` 改变黄色玩家的名字大小 (通常是Staff)。
-- `privateserver` 不要改变这个选项，这和您没关系。
-- `acronym` 将您的比赛缩写放在这里，例如 OWC 2013。
-  您可以在 **多人房间创建和处理** 找到更多的细节。
-- `BufferTimeoutTime` 定义超时等待时间，如果超出该时间仍无法缓冲其中某个客户端，客户端将试图继续缓冲，并同步其它客户端继续播放。
-- `BufferTotalTime` 定义客户端缓冲的时间以减少等待缓冲的频率，不建议改变这个。
-- `BufferDangerTime` 定义客户端暂停之前的缓冲等待时间，为了等待更多的回放帧。
-   不建议改变这个。
-- `RankingChatDelay` 当xx结束后隐藏分数并在排名屏幕上再次显示聊天的延迟。
-- `Height` 客户端高度
-  osu!tourney 将自动计算客户端宽度 (16:9比例)
-  黑色控制面板不包括在高度内，所以您其实需要 1440p 的屏幕来使用 1080p 直播您的比赛。
-  默认：720，允许范围：568-1440
+-   `TeamSize` 定义您的团队大小，osu!tourney 可以为每个团队打开 1-8 个窗口，最大值是8。
+-   `ClientNameSize` 改变黄色玩家的名字大小 (通常是Staff)。
+-   `privateserver` 不要改变这个选项，这和您没关系。
+-   `acronym` 将您的比赛缩写放在这里，例如 OWC 2013。
+    您可以在 **多人房间创建和处理** 找到更多的细节。
+-   `BufferTimeoutTime` 定义超时等待时间，如果超出该时间仍无法缓冲其中某个客户端，客户端将试图继续缓冲，并同步其它客户端继续播放。
+-   `BufferTotalTime` 定义客户端缓冲的时间以减少等待缓冲的频率，不建议改变这个。
+-   `BufferDangerTime` 定义客户端暂停之前的缓冲等待时间，为了等待更多的回放帧。
+     不建议改变这个。
+-   `RankingChatDelay` 当xx结束后隐藏分数并在排名屏幕上再次显示聊天的延迟。
+-   `Height` 客户端高度
+    osu!tourney 将自动计算客户端宽度 (16:9比例)
+    黑色控制面板不包括在高度内，所以您其实需要 1440p 的屏幕来使用 1080p 直播您的比赛。
+    默认：720，允许范围：568-1440
 
 如果您修改了 `tournament.cfg` 文件，请重启 osu!tourney，它将更新当前设置。
 
@@ -75,22 +72,21 @@ _osu!tourney 客户端的基本界面_
 客户端本身的使用非常的简单，屏幕顶部被分为两部分，分别代表了多人房间的两个团队，每个 osu! 被分配到多人房间的一个格子。
 这意味着玩家将在房间相应位置的窗口上。
 
----
+* * *
 
 ![osu!tourney 玩家窗口](Spectator_Usage/img/Osutourneywindows.png "osu!tourney 玩家窗口")
 
 _基于玩家所在的格子，他们被分配到对应的窗口位置_
 
-
 为了使客户端能正常工作，请确保玩家在多人房间里占据适当的格子。
 有关更多正确使用的细节，您可以在 **多人房间创建和处理** 中找到。
 在客户端的底部，您将看到控制面板。
 
----
+* * *
 
 ![osu!tourney 控制面板](Spectator_Usage/img/Osutourneypanel.png "osu!tourney 控制面板")
 
----
+* * *
 
 ![当多人游戏房间被正确创建后，列表中会显示多人游戏房间的队伍/歌曲/人数信息](Spectator_Usage/img/Osutourneyroomlist.png "当多人游戏房间被正确创建后，列表中会显示多人游戏房间的队伍/歌曲/人数信息")
 
@@ -116,15 +112,15 @@ _基于玩家所在的格子，他们被分配到对应的窗口位置_
 
 底部控制面板描述：
 
-- `Sync music`: 如果音乐处于不同步的状态，您可以试图单击此按钮，osu!tourney 将尝试将音乐重新和击打音效同步。
-- `Toggle annotation`: 激活/取消激活自定义信息的显示，这将影响队伍得分计算。
-- `Panic`: 出现问题时请试图单击此按钮，例如：一个窗口没有观察到用户或窗口崩溃，这将重新初始化所有窗口。
-- `Exit`: 关闭 osu!tourney。
+-   `Sync music`: 如果音乐处于不同步的状态，您可以试图单击此按钮，osu!tourney 将尝试将音乐重新和击打音效同步。
+-   `Toggle annotation`: 激活/取消激活自定义信息的显示，这将影响队伍得分计算。
+-   `Panic`: 出现问题时请试图单击此按钮，例如：一个窗口没有观察到用户或窗口崩溃，这将重新初始化所有窗口。
+-   `Exit`: 关闭 osu!tourney。
 
 底部控制面板文本框描述：
 
-- `Annotation text`: 自定义信息的文本。
-- `Best Of`: 每个队伍需要赢得的谱面数量。
+-   `Annotation text`: 自定义信息的文本。
+-   `Best Of`: 每个队伍需要赢得的谱面数量。
 
 ## 多人房间创建和处理
 
@@ -173,15 +169,15 @@ _相应的格子在 osu!tourney 对应到的窗口_
 
 ![TeamSize = 4](Multiplayer_Usage/img/Osutourneywindows.png "TeamSize = 4")
 
----
+* * *
 
 ![TeamSize = 3](Multiplayer_Usage/img/Teamsize3.png "TeamSize = 3")
 
----
+* * *
 
 ![TeamSize = 2](Multiplayer_Usage/img/Teamsize2.png "TeamSize = 2")
 
----
+* * *
 
 ![TeamSize = 1](Multiplayer_Usage/img/Teamsize1.png "TeamSize = 1")
 
@@ -196,15 +192,15 @@ osu!tourney 支持使用皮肤进行自定义修改，您可以设计并应用�
 皮肤可以放在该文件夹里，支持 .jpg 或 .png 文件扩展名。
 要正确应用您的皮肤，请相应的命名这些文件：
 
-- `background` - 这是 osu!tourney 使用的背景。默认背景可以在 [这里](https://s.ppy.sh/images/tournament/default.png) 找到。
-- `background-win1` (可选) - 当左边的队伍获胜时，结果页面上的 background 元素会渐变为这个元素。
-   当离开结果页面时会渐变回 `background` 元素。
-   如果没有设置这个元素，则会使用 `backgound` 元素。
-- `background-win2` (可选) - 当右边的队伍获胜时，结果页面上的背景元素会渐变为这个元素。
-   当离开结果页面时会渐变回 `background` 元素。
-   如果没有设置这个元素，则会使用 `backgound` 元素。
-- `tourney-title` (可选) - 这个图片会放在您的背景元素的顶部，并会放在您的 osu!tourney 屏幕的底部。
-   这可以用于放置静态图像，例如您的比赛标志。
+-   `background` - 这是 osu!tourney 使用的背景。默认背景可以在 [这里](https://s.ppy.sh/images/tournament/default.png) 找到。
+-   `background-win1` (可选) - 当左边的队伍获胜时，结果页面上的 background 元素会渐变为这个元素。
+     当离开结果页面时会渐变回 `background` 元素。
+     如果没有设置这个元素，则会使用 `backgound` 元素。
+-   `background-win2` (可选) - 当右边的队伍获胜时，结果页面上的背景元素会渐变为这个元素。
+     当离开结果页面时会渐变回 `background` 元素。
+     如果没有设置这个元素，则会使用 `backgound` 元素。
+-   `tourney-title` (可选) - 这个图片会放在您的背景元素的顶部，并会放在您的 osu!tourney 屏幕的底部。
+     这可以用于放置静态图像，例如您的比赛标志。
 
 ![osu!tourney 使用队伍图标。左边的图标文件名为 Team 1.png，右边的图标文件名为 Team 2.png](Skinning/img/Osutourneyicons.png "osu!tourney 使用队伍图标。左边的图标文件名为 Team 1.png，右边的图标文件名为 Team 2.png")
 
@@ -220,9 +216,10 @@ osu!tourney 支持使用皮肤进行自定义修改，您可以设计并应用�
 ### 奖品
 
 我们可以奖励profile badges给比赛符合以下标准的冠军队队员们：
-- 该比赛至少是第二届。
-- 比赛 Staff 不参与自己管理的比赛。
-- 比赛每年举办次数不超过四次。
+
+-   该比赛至少是第二届。
+-   比赛 Staff 不参与自己管理的比赛。
+-   比赛每年举办次数不超过四次。
 
 如果您的比赛符合这个标准，请发送邮件至 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)。
 
@@ -242,9 +239,9 @@ osu!tourney 只能在主显示器内运行。尝试关闭任何可用的副显�
 
 ### osu!tourney 无法打开，出现错误提示后就关闭了！
 
-- 确保您的 osu! 使用最新的测试版直播。
-- 确保您已经登录osu!，如果没有，请以普通模式运行 osu!，选择 **记住用户名** 和 **记住密码** 并登录，然后重新进入 osu!tourney。
-- 确保没有设置 `tournament.cfg` 里 `privateserver` 选项的值。
+-   确保您的 osu! 使用最新的测试版直播。
+-   确保您已经登录osu!，如果没有，请以普通模式运行 osu!，选择 **记住用户名** 和 **记住密码** 并登录，然后重新进入 osu!tourney。
+-   确保没有设置 `tournament.cfg` 里 `privateserver` 选项的值。
 
 ### 我的 osu! 歌曲数据库在启动时崩溃了！
 
@@ -275,6 +272,7 @@ osu!tourney 只能在主显示器内运行。尝试关闭任何可用的副显�
 如果您需要进一步的帮助，请发送邮件至 [tournaments@ppy.sh](mailto:tournaments@ppy.sh)。
 
 ### 队伍名称不显示！
+
 看看以前的回答。
 
 ### 如何直播我的比赛？

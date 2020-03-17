@@ -5,18 +5,18 @@ outdated_since: abc38b81368f22f2c02e0feda3b7d5c14fba8ead
 
 # Rejestracja
 
-*Uwaga: Posiadanie więcej niż jednego konta jest niezgodne z [zasadami gry](/wiki/Rules)!*
+_Uwaga: Posiadanie więcej niż jednego konta jest niezgodne z [zasadami gry](/wiki/Rules)!_
 
-1. Po [zainstalowaniu](/wiki/Installation) i otworzeniu gry, osu! poprosi cię o zalogowanie się lub utworzenie nowego konta. Naciśnij `Stwórz konto` i pozostaw osu! otwarte. Po naciśnięciu przycisku zostanie otworzona strona z [formularzem rejestracyjnym](https://osu.ppy.sh/p/register).
+1.  Po [zainstalowaniu](/wiki/Installation) i otworzeniu gry, osu! poprosi cię o zalogowanie się lub utworzenie nowego konta. Naciśnij `Stwórz konto` i pozostaw osu! otwarte. Po naciśnięciu przycisku zostanie otworzona strona z [formularzem rejestracyjnym](https://osu.ppy.sh/p/register).
 
 ![Formularz rejestracyjny](img/register-old.jpg "Formularz rejestracyjny")
 
-2. Wypełnij wszystkie pola w formularzu.
-   - W polu `Username` wprowadź nazwę użytkownika. Może składać się z maksymalnie 15 znaków, z których dozwolone są tylko: znaki alfanumeryczne (`a-z`, `A-Z`, `0-9`), znaki podkreślenia (`_`), nawiasy kwadratowe, (`[` i `]`), myślniki (`-`) oraz spacje (` `).
-   - W polu `Email Address` wprowadź swój aktywny adres e-mail. Będzie on potrzebny do zresetowania hasła i uzyskiwania kodów weryfikacyjnych, dlatego upewnij się, że będziesz mieć do niego stały dostęp. Nie używaj tymczasowego adresu e-mail.
-   - W polu `Password` wprowadź hasło o długości co najmniej 8 znaków.
-3. Po wykonaniu tych czynności naciśnij przycisk `Continue` i wróć do okna z osu!.
-4. Zaloguj się, by zakończyć proces rejestracji.
+2.  Wypełnij wszystkie pola w formularzu.
+    -   W polu `Username` wprowadź nazwę użytkownika. Może składać się z maksymalnie 15 znaków, z których dozwolone są tylko: znaki alfanumeryczne (`a-z`, `A-Z`, `0-9`), znaki podkreślenia (`_`), nawiasy kwadratowe, (`[` i `]`), myślniki (`-`) oraz spacje (` `).
+    -   W polu `Email Address` wprowadź swój aktywny adres e-mail. Będzie on potrzebny do zresetowania hasła i uzyskiwania kodów weryfikacyjnych, dlatego upewnij się, że będziesz mieć do niego stały dostęp. Nie używaj tymczasowego adresu e-mail.
+    -   W polu `Password` wprowadź hasło o długości co najmniej 8 znaków.
+3.  Po wykonaniu tych czynności naciśnij przycisk `Continue` i wróć do okna z osu!.
+4.  Zaloguj się, by zakończyć proces rejestracji.
 
 ## Co dalej?
 

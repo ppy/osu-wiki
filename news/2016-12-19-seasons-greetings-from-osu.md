@@ -11,7 +11,7 @@ The very first present is a Christmas-themed makeover for the main-menu screen. 
 
 Curious? Go see them all at the [voting page](https://osu.ppy.sh/community/contests/36) and give your favourite **three** pieces your votes. The top three winning entries will receive 6 months, 3 months and 2 months of osu!supporter respectively.
 
-Unfortunately, giving out only three votes is going to be *exceptionally* difficult, because there are so many absolutely amazing entries. Wow. Just wow.
+Unfortunately, giving out only three votes is going to be _exceptionally_ difficult, because there are so many absolutely amazing entries. Wow. Just wow.
 
 On top of this, [cYsmix](https://osu.ppy.sh/beatmaps/artists/2) has yet again outdone himself and produced a beautiful festive intro track for the occasion, which you can hear by opening the game, or by listening below:
 

@@ -1,10 +1,10 @@
 # osu!supporter
 
-*Pour la page osu!supporter du site Web, voir: [soutenir le jeu](https://osu.ppy.sh/home/support)*
+_Pour la page osu!supporter du site Web, voir: [soutenir le jeu](https://osu.ppy.sh/home/support)_
 
 ## Avantages
 
-*Pour une liste des avantages liés à osu!supporter, voir: [soutenir le jeu](https://osu.ppy.sh/home/support)*
+_Pour une liste des avantages liés à osu!supporter, voir: [soutenir le jeu](https://osu.ppy.sh/home/support)_
 
 En achetant le tag osu!supporter, vous soutiendrez directement le développement du jeu tout en obtenant des bonus supplémentaires. Il faut noter que les fonctionnalités supplémentaires d'osu!supporter n'affecteront en aucun cas le jeu, les performances ou les scores à votre avantage.
 
@@ -34,8 +34,8 @@ Lorsque vous êtes prêt à faire l’achat, allez à votre [panier](https://osu
 
 Une fois la transaction terminée, la section Activité récente de votre compte (si vous l'avez acheté pour vous-même) ou aux comptes auquel vous l'avez offerts indiquera:
 
-- `{username} has become an osu! supporter - thanks for your generosity!` si c'est la première fois que ce compte obtient l'osu!supporter.
-- `{username} has once again chosen to support osu! - thanks for your generosity!` si le compte a déjà été un supporter.
+-   `{username} has become an osu! supporter - thanks for your generosity!` si c'est la première fois que ce compte obtient l'osu!supporter.
+-   `{username} has once again chosen to support osu! - thanks for your generosity!` si le compte a déjà été un supporter.
 
 ### Page utilisateur et carte utilisateur
 
@@ -49,6 +49,6 @@ Sur osu! Web, le badge osu! Supporter se trouve à côté de l'avatar de l'utili
 
 ![Osu!supporter tag avec trois mois restants](img/status.jpg "Il reste trois mois au tag osu!supporter")
 
-*Remarque: cette section apparaît uniquement après avoir obtenu le tag osu!supporter.*
+_Remarque: cette section apparaît uniquement après avoir obtenu le tag osu!supporter._
 
 Pour vérifier le statut de votre tags osu!supporter et le total des contributions et des achats de tags, accédez à la page [soutenir le jeu](https://osu.ppy.sh/home/support) et faites défiler vers le bas pour voir une section similaire à celle illustrée ci-dessus.

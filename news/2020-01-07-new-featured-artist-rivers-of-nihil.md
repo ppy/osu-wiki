@@ -10,11 +10,11 @@ Left alone on a dying planet, **Rivers of Nihil** crash into the Featured Artist
 
 For those of you craving fresh, new heavy-hitting aural content, what better way to kick off our first release of the 2020's than with the diverse, rich sound of progressive death metal behemoth, **Rivers of Nihil**?
 
-A trailblazer in the evolution of modern death metal, we've snagged **8** select tracks off of their most recent, widely-praised venture into new territory: *Where Owls Know My Name*.
+A trailblazer in the evolution of modern death metal, we've snagged **8** select tracks off of their most recent, widely-praised venture into new territory: _Where Owls Know My Name_.
 
 The release marks a cardinal juncture in the band's musical development whose momentum continues to snowball following the album's highly acclaimed launch.
 
-*Where Owls Know My Name* is a nonpareil idyll among metal records of the last few years. Take a listen below:
+_Where Owls Know My Name_ is a nonpareil idyll among metal records of the last few years. Take a listen below:
 
 ### The Silent Life
 
@@ -40,7 +40,7 @@ The release marks a cardinal juncture in the band's musical development whose mo
     <source src="https://assets.ppy.sh/artists/63/previews/1767.mp3" type="audio/mpeg">
 </audio>
 
----
+* * *
 
 No Featured Artist news post would be complete without its premier reminder that all of the above tracks and more are available NOW over on [**River of Nihil**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/63). Download your pre-timed beatmap template for free while supplies last!
 

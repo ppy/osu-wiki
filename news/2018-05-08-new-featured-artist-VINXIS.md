@@ -10,7 +10,7 @@ Continuing the recent trend of getting homegrown talent straight from the osu! c
 
 A veteran osu! player and accomplished mapper to boot, **[VINXIS](https://osu.ppy.sh/users/4323406)** has lived and even helped create the moments that make osu! really tick. On days that aren't particularly sidetracked, he's experimenting with new sounds in his music, or just generally pottering around osu! and enjoying his time with friends.
 
-Beyond that, VINXIS has also been a major force in the osu! community at large, having helped organize and run major events like OHC and the Mapper's Choice Awards. There's very little that he *hasn't* done - you're bound to have seen or heard of him somewhere!
+Beyond that, VINXIS has also been a major force in the osu! community at large, having helped organize and run major events like OHC and the Mapper's Choice Awards. There's very little that he _hasn't_ done - you're bound to have seen or heard of him somewhere!
 
 Here's just a sample of what we've got in store for you from his body of work:
 
@@ -26,7 +26,7 @@ Here's just a sample of what we've got in store for you from his body of work:
 
 > Perhaps one of his most iconic tracks, Sidetracked Day is something of an osu! cultural institution at this point. Made famous by the [titular map](https://osu.ppy.sh/beatmapsets/728276) by [SnowNiNo\_](https://osu.ppy.sh/users/2506267), Sidetracked Day builds and just keeps on building right until the very end.
 
-*A short version of this track is available.*
+_A short version of this track is available._
 
 ### Greetings
 
@@ -34,7 +34,7 @@ Here's just a sample of what we've got in store for you from his body of work:
 
 > A curious walk through stuttering vocals underpinned by pensive lyrics. Subtle variation keeps progression interesting throughout.
 
-*A short version of this track is available.*
+_A short version of this track is available._
 
 ### A Centralized View
 
@@ -48,7 +48,7 @@ Here's just a sample of what we've got in store for you from his body of work:
 
 > Beep boop. Wub wub. What you take away from Take is up to you, but what is certain is that six minutes of evolving rhythm and trills is sure to test the skills of even the most skilled mappers.
 
--------
+* * *
 
 All the tracks listed above (and any more on [his Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/22)) are available **now** for mapping, totally free for use in osu!. Worry less, and map more!
 

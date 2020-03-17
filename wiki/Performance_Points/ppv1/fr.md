@@ -20,7 +20,7 @@ Les calculs impliqués n'étaient pas connus publiquement, néanmoins quelques i
 -   Le score par map est évalué par rapport à la difficulté de la map, en se basant sur des statistiques qui ne sont pas disponibles au public,
 -   Le nombre de points remportés diminue naturellement avec le temps (ainsi, un joueur inactif pendant un an pourra perdre jusqu’à la moitié de ses points),
 -   Pas de pénalités attribuées pour les mauvais scores, seulement des récompenses pour les bons scores,
--   Toutes les maps *ranked* et *approved* sont prises en compte dans les calculs,
+-   Toutes les maps _ranked_ et _approved_ sont prises en compte dans les calculs,
 -   Le pourcentage de précision est pris en considération,
 -   Les multiplicateurs des mods sont différents de ceux annoncés dans le jeu et se veulent plus justes,
 -   Pour les modes de jeu autres que osu!, les difficultés spécifiques aux modes sont favorisées,

@@ -1,6 +1,6 @@
 # How to set the offset on the correct beat
 
-*[About Offset Interval by Alace](https://osu.ppy.sh/community/forums/topics/20998)*
+_[About Offset Interval by Alace](https://osu.ppy.sh/community/forums/topics/20998)_
 
 Most of osu! players are not pro at music, so we got some maps with a problem:
 
@@ -8,11 +8,11 @@ Most of osu! players are not pro at music, so we got some maps with a problem:
 
 The first divisor of a section is a heavy beat. See the examples.
 
-***4/4 song:***
+**_4/4 song:_**
 
 **0** 0 0 0 **0** 0 0 0 **0** 0 0 0 **0** 0 0 0
 
-***3/4 song:***
+**_3/4 song:_**
 
 **0** 0 0 **0** 0 0 **0** 0 0 **0** 0 0
 
@@ -20,7 +20,7 @@ Where **0** is a heavy beat, so you need to set your offset on it.
 
 OKOK let's look at a ranked example: [Toyosaki Aki - Miracle Happy Day](https://osu.ppy.sh/beatmapsets/11023)
 
-- kiou2 sets a offset on 85ms, so the long white tick didn't follow the heavy beat, which is incorrect. Look at the pic X.
+-   kiou2 sets a offset on 85ms, so the long white tick didn't follow the heavy beat, which is incorrect. Look at the pic X.
 
 If kiou2 sets her offset on 527, the long white tick will follow the heavy beat, which is correct. Look at the pic O.
 

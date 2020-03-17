@@ -30,7 +30,7 @@ Die folgenden Regeln sind genau das: Regeln. Es sind keine Richtlinien und sollt
 
 -   **Finisher Noten**
 
-Finisher Noten dürfen nicht in der Mitte und am Anfang eines 1/4- oder größeren Takt Streams sein. Am Ende des Streams kann es möglich sein einen Finisher zu setzen, wenn ein akzeptabler Sound vorhanden ist. *Finisher Noten müssen am Ende eines Streams die gegenteilige Farbe von den 4 vorherigen Noten haben.*
+Finisher Noten dürfen nicht in der Mitte und am Anfang eines 1/4- oder größeren Takt Streams sein. Am Ende des Streams kann es möglich sein einen Finisher zu setzen, wenn ein akzeptabler Sound vorhanden ist. _Finisher Noten müssen am Ende eines Streams die gegenteilige Farbe von den 4 vorherigen Noten haben._
 
 ## Richtlinien
 

@@ -13,10 +13,11 @@ The beatmap charts for the January Spotlights can be found [here](https://osu.pp
 ## Past Spotlights results
 
 First of all, congratulations to the winners of the December 2017 Spotlights. They receive one month of supporter status for their efforts!
-+ **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
-+ **osu!taiko:** [n1doking](https://osu.ppy.sh/users/5991961)
-+ **osu!catch:** [Guillotine](https://osu.ppy.sh/users/4365562)
-+ **osu!mania:** [\[MY\]Idiot](https://osu.ppy.sh/users/2059742)
+
+-   **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
+-   **osu!taiko:** [n1doking](https://osu.ppy.sh/users/5991961)
+-   **osu!catch:** [Guillotine](https://osu.ppy.sh/users/4365562)
+-   **osu!mania:** [\[MY\]Idiot](https://osu.ppy.sh/users/2059742)
 
 # January 2018 Spotlights
 
@@ -88,7 +89,7 @@ This is a quite unique map in the ranked section and will ask a lot of different
 
 [![](/wiki/shared/news/2018-02-23-beatmap-spotlights-january-2018/tryment.jpg)](https://osu.ppy.sh/beatmapsets/572690)
 
-Being the only nominated taiko mapset with no X-rated difficulty, it stands out from the rest through its appropriate use of various mapping techniques. [yuzu__rinrin](https://osu.ppy.sh/users/4616752) is flexible on his style - while showing the consistent drum-based logic when the music gets more vibrant, he is also open to pitch-oriented hitsounding as a balance during calmer parts. Such style is accompanied by the proper density and SV changes which act as both great presentation to players and nice interpretation of the music.
+Being the only nominated taiko mapset with no X-rated difficulty, it stands out from the rest through its appropriate use of various mapping techniques. [yuzu\_\_rinrin](https://osu.ppy.sh/users/4616752) is flexible on his style - while showing the consistent drum-based logic when the music gets more vibrant, he is also open to pitch-oriented hitsounding as a balance during calmer parts. Such style is accompanied by the proper density and SV changes which act as both great presentation to players and nice interpretation of the music.
 
 Despite the short song length, it is a well-made mapset that shows his expertise in taiko mapping, as well as understanding of musical emotion. Definitely worth mentioning in this month's Spotlights!
 
@@ -142,7 +143,7 @@ As it looks to be a trend, SV sets seem to have very amazing lower difficulties 
 
 Taking my time to congratulate you too Toaph and I am personally looking forward to more stuff from you!
 
---------
+* * *
 
 We hope you enjoy our selection for this month and look forward to what we will bring to you in the near future. Until then, happy clicking, drumming, catching, and hitting the piano notes! Do not forget to have a rest occasionally!
 

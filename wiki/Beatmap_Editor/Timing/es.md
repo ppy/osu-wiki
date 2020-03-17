@@ -14,10 +14,10 @@ El mapper debe reproducir la canción y escucharla. Presionando **«Tap Here»**
 
 Una vez que el botón es presionado suficientes veces, la sensibilidad del BPM cambiará entre 0,1 y 2.
 
-- BPM Sensibilidad 0: 999,00
-- BPM Sensibilidad 1: 999,90
-- BPM Sensibilidad 2: 999,99
-  - *9 = número aleatorio / 0 = número no afectado.*
+-   BPM Sensibilidad 0: 999,00
+-   BPM Sensibilidad 1: 999,90
+-   BPM Sensibilidad 2: 999,99
+    -   _9 = número aleatorio / 0 = número no afectado._
 
 **La tecla «T» también puede ser usado en lugar de «Tap Here!».**
 

@@ -6,7 +6,7 @@ needs_cleanup: true
 
 ## Skinning elements
 
-*See also: [Skinning/osu!catch](/wiki/Skinning/osu!catch)*
+_See also: [Skinning/osu!catch](/wiki/Skinning/osu!catch)_
 
 ### Fruits
 
@@ -42,13 +42,13 @@ There are two things to take into account when you design the playfield elements
 
 Since the playfield is always 4:3, it possible to place an image on the left and right margins of the screen without covering the playfield. The combo numbers are placed in the middle of the screen, above the catcher. This means that the player will always see them and that you could take this into account when designing them.
 
----
+* * *
 
 ![](img/margin-4-3.jpg "The playfield in 4:3 ratio aspect (no margins)")
 
 In 4:3, there are no margins. Thus there is really no where else to place an image anywhere without having to go inside the playfield.
 
----
+* * *
 
 ![](img/margin-16-9.jpg "The margins in 16:9 ratio aspect")
 
@@ -78,13 +78,13 @@ These have a minimum width of 302px and the first 16 horizontal lines from the t
 
 ## Skin configuration
 
-*See also: [skin.ini](/wiki/skin.ini)*
+_See also: [skin.ini](/wiki/skin.ini)_
 
 osu!catch has three unique skin configuration commands:
 
-- `HyperDash` - defines the hyperdash colour of the catcher itself. This is used on the very first after image right after obtaining the hyperdash fruit. `255,0,0` (red) is used by default.
-- `HyperDashFruit` - defines the hyperdash border on the fruit itself. `HyperDash` colour is used if not defined.
-- `HyperDashAfterImage` - defines the tint colour of the after images from the catcher. `HyperDash` colour is used if not defined.
+-   `HyperDash` - defines the hyperdash colour of the catcher itself. This is used on the very first after image right after obtaining the hyperdash fruit. `255,0,0` (red) is used by default.
+-   `HyperDashFruit` - defines the hyperdash border on the fruit itself. `HyperDash` colour is used if not defined.
+-   `HyperDashAfterImage` - defines the tint colour of the after images from the catcher. `HyperDash` colour is used if not defined.
 
 Make sure the `HyperDash` colour stands out!
 
@@ -92,16 +92,16 @@ Make sure the `HyperDash` colour stands out!
 
 osu!catch shares these skin configuration commands with other modes:
 
-- `Combo1`
-- `Combo2`
-- `Combo3`
-- `Combo4`
-- `Combo5`
-- `Combo6`
-- `Combo7`
-- `Combo8`
-- `InputOverlayText`
-- `ScorePrefix`
-- `ScoreOverlap`
-- `ComboPrefix`
-- `ComboOverlap`
+-   `Combo1`
+-   `Combo2`
+-   `Combo3`
+-   `Combo4`
+-   `Combo5`
+-   `Combo6`
+-   `Combo7`
+-   `Combo8`
+-   `InputOverlayText`
+-   `ScorePrefix`
+-   `ScoreOverlap`
+-   `ComboPrefix`
+-   `ComboOverlap`

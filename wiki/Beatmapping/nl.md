@@ -10,10 +10,10 @@ Meestal willen mappers hun maps [ranked](/wiki/Beatmaps) hebben, dit bestaat uit
 
 De meest voorkomende moeilijkheidsgraden zijn:
 
-- Easy
-- Normal
-- Hard
-- Insane
+-   Easy
+-   Normal
+-   Hard
+-   Insane
 
 Als je op een link klikt zie je richtlijnen hoe de instellingen ongeveer moeten zijn. [mappers](/wiki/Glossary) horen dit te volgen om een goede [beatmap](/wiki/Beatmaps) te maken voor de bijbehorende [moeilijkheidsgraad](/wiki/Difficulties).
 

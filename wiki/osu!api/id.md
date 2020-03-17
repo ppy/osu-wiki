@@ -13,4 +13,4 @@ Perhatikan bahwa dokumentasi pada wiki osu!api mungkin tidak sepenuhnya lengkap,
 
 ## Lihat juga
 
-- Kiriman asli dari forum: [osu!api open beta](https://osu.ppy.sh/community/forums/topics/141240) oleh [peppy](https://osu.ppy.sh/users/2)
+-   Kiriman asli dari forum: [osu!api open beta](https://osu.ppy.sh/community/forums/topics/141240) oleh [peppy](https://osu.ppy.sh/users/2)

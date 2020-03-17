@@ -18,13 +18,13 @@ Those who receive it have undoubtedly left their mark on the game for the better
 
 [![](/wiki/shared/news/2020-02-07-community-contributors-2019/vinxis.jpg)](https://osu.ppy.sh/users/4323406)
 
-**VINXIS** is chiefly responsible for the organization and upkeep of several major community events, such as *Corsace Open*, the *OHC*, the *Mapper's Choice Awards* and has also extensively assisted in prospective trials towards improving the cornerstone of the game's competitive progression, the performance points system.
+**VINXIS** is chiefly responsible for the organization and upkeep of several major community events, such as _Corsace Open_, the _OHC_, the _Mapper's Choice Awards_ and has also extensively assisted in prospective trials towards improving the cornerstone of the game's competitive progression, the performance points system.
 
 Not content to leave it there, he is also a [Featured Artist](https://osu.ppy.sh/beatmaps/artists/22) and one of the original members of the Mappers' Guild. Few have made such enduring changes upon osu!'s landscape as VINXIS and his efforts have, and it is safe to say that without him, osu! would have been considerably worse off.
 
 [![](/wiki/shared/news/2020-02-07-community-contributors-2019/hehe.jpg)](https://osu.ppy.sh/users/2123087)
 
-Previously known as *handsome*, **hehe** is a founding member of the Corsace project, an original Mappers' Guild founding member and most renowned not only for his many creative masterpieces in the mapping domain, but also for his visual design and organizational contributions to some of the game's most enduring community-run projects, such as the *Mapper's Choice Awards*, the *OHC* and more.
+Previously known as _handsome_, **hehe** is a founding member of the Corsace project, an original Mappers' Guild founding member and most renowned not only for his many creative masterpieces in the mapping domain, but also for his visual design and organizational contributions to some of the game's most enduring community-run projects, such as the _Mapper's Choice Awards_, the _OHC_ and more.
 
 [![](/wiki/shared/news/2020-02-07-community-contributors-2019/Noffy.jpg)](https://osu.ppy.sh/users/1541323)
 
@@ -82,7 +82,7 @@ To express the enormity of his dedication further, we're honestly not sure that 
 
 osu!Alumni and all around great guy, **Doomsday** has been something of an eternal presence in the osu!community since its earliest days, sporting membership in the now-defunct Beatmap Appreciation Team (also known as the BAT).
 
-In recent years, he's been something of a foundational member of the osu! streaming community, including an unquestioned legacy of utterly spotless casting for five whole years of back-to-back presence, hosting his own successful tournament series titled the *Corgi Cup* and generally providing support, guidance and encouragement to players both new and old.
+In recent years, he's been something of a foundational member of the osu! streaming community, including an unquestioned legacy of utterly spotless casting for five whole years of back-to-back presence, hosting his own successful tournament series titled the _Corgi Cup_ and generally providing support, guidance and encouragement to players both new and old.
 
 A paragon of positivity, Doomsday stands out among a tiny crowd of definitive role models for the community at large, and we are thankful for his many, many years of contribution to the game.
 
@@ -98,7 +98,7 @@ From cursing players to choosing maps, these two have never been far from the fr
 
 [![](/wiki/shared/news/2020-02-07-community-contributors-2019/Halogen.jpg)](https://osu.ppy.sh/users/169992)
 
-The cream of the osu!mania casting crop since 2015, when **Halogen-** isn't forgetting to put backgrounds in his maps, he is striking a powerful presence in the osu!mania scene as one of its most revered casters, map selectors and custom chart creators (namely *Contain* and *Scrap Syndome*). He is also the founder of SOFT, one of the osu!mania 4K community's most important tournaments, and presides as a role model for many of them.
+The cream of the osu!mania casting crop since 2015, when **Halogen-** isn't forgetting to put backgrounds in his maps, he is striking a powerful presence in the osu!mania scene as one of its most revered casters, map selectors and custom chart creators (namely _Contain_ and _Scrap Syndome_). He is also the founder of SOFT, one of the osu!mania 4K community's most important tournaments, and presides as a role model for many of them.
 
 [![](/wiki/shared/news/2020-02-07-community-contributors-2019/Junihuhn.jpg)](https://osu.ppy.sh/users/4182339)
 
@@ -108,7 +108,7 @@ His efforts have helped make the tournament more accessible to so many people, a
 
 [![](/wiki/shared/news/2020-02-07-community-contributors-2019/Sartan.jpg?)](https://osu.ppy.sh/users/4100941)
 
-**Sartan** has been something of a devilish carry-cross-hypeman fusion in the osu!catch World Cup tournament scene since 2017. Together with another recent contributor-nominee JBHyperion, the two together essentially *were* the commentary team for several major tournaments. His infectious positivity and playful commentary earned him the adoration of the crowd, and his incredible efforts to breathe life and hype into his favorite gamemode have earned him this acknowledgement of contribution well and truly above the norm.
+**Sartan** has been something of a devilish carry-cross-hypeman fusion in the osu!catch World Cup tournament scene since 2017. Together with another recent contributor-nominee JBHyperion, the two together essentially _were_ the commentary team for several major tournaments. His infectious positivity and playful commentary earned him the adoration of the crowd, and his incredible efforts to breathe life and hype into his favorite gamemode have earned him this acknowledgement of contribution well and truly above the norm.
 
 ## Moderation
 
@@ -198,7 +198,7 @@ Clocking in at just over a year served in the Beatmap Nominators, **wonjae**'s c
 
 One of the most active osu!mania nominators since joining in early 2019, **\_Kobii** has been active in pushing maps in not just the 4k mode, or the 7k mode, but also 6k, 9k, and more! On top of that, they have been very approachable for mappers new and old in the osu!mania mapping community and serve as a great example of what a Beatmap Nominator can be!
 
----
+* * *
 
 2019 was one of the strongest years osu! has had so far, and it is in no small part due to the efforts of those listed above.
 

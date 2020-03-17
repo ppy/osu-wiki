@@ -20,9 +20,9 @@ Record a clip around 30 seconds long of your best singing with no background mus
 
 Once community voting has concluded, the finalists will be receiving these prizes as followed:
 
-* **1st:** osu!idol 2019 winner profile badge + 6 months supporter tag
-* **2nd:** 3 months supporter tag
-* **3rd:** 1 month supporter tag
+-   **1st:** osu!idol 2019 winner profile badge + 6 months supporter tag
+-   **2nd:** 3 months supporter tag
+-   **3rd:** 1 month supporter tag
 
 ### Where do I sign up?
 

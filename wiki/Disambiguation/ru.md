@@ -4,7 +4,7 @@
 
 ## Список статей о неоднозначности
 
-- [Bancho](Bancho)
-- [Easy](Easy)
-- [EZ](EZ)
-- [Mod](Mod)
+-   [Bancho](Bancho)
+-   [Easy](Easy)
+-   [EZ](EZ)
+-   [Mod](Mod)

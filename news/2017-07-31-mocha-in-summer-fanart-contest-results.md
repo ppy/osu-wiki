@@ -15,7 +15,7 @@ Each member of the community had five agonizing choices to make, for we can only
 
 Without further ado, let us present the winners:
 
------
+* * *
 
 [![](/wiki/shared/news/2017-07-31-mocha-in-summer-fanart-contest-results/joori%20%28Petrified%20Bunting%29.jpg)](https://assets.ppy.sh/contests/48/winners/Petrified%20Bunting.jpg)
 
@@ -89,7 +89,7 @@ There's jokes to be made about Mocha's seaweed hair, but how could you make fun 
 
 Wonderfully rendered colour and movement lend a compelling touch to **Ringarune**'s piece, capturing all of Mocha's glorious tones washed with the faintest touch of the sea.
 
-----------
+* * *
 
 We were so blown away by the sheer scope of this contest. We'd never imagined Mocha would be so wildly popular among the artists of our community, and this contest has truly been something special for her and for the osu!community at large.
 

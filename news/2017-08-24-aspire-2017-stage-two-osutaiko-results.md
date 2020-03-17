@@ -30,7 +30,7 @@ Ranging from the implementation of osu!'s other gamemodes, to an ambitious recre
 
 [See for yourself, and play Supairo's contest-winning entry here!](https://osu.ppy.sh/beatmapsets/654033)
 
---------
+* * *
 
 Gruellingly close but ever so far, **Powerful Viper** by [tasuke912](https://osu.ppy.sh/users/2774767) was nipping at the winning entry's heels every step of the way, scoring **67.2/80** with **162** unique votes.
 
@@ -46,7 +46,7 @@ We were particularly impressed by the "Monochrome" and "Function" mods, as these
 
 [Play tasuke912's dual lane multimod madness here!](https://osu.ppy.sh/beatmapsets/653961)
 
----------
+* * *
 
 Trailing behind the two frontrunners in third place overall was **Jovial Lark** by the much-loved [S a n d](https://osu.ppy.sh/users/676578), scoring **56.1/80** with **128** unique votes overall.
 
@@ -62,7 +62,7 @@ The map is further complemented by various slider velocity and playfield gimmick
 
 [Get your textbooks ready and dive into S a n d's algebraic insanity here!](https://osu.ppy.sh/beatmapsets/654135)
 
----------
+* * *
 
 You can check out the results for all of the final twelve (including the judge's comments) over at the [Aspire Stage Two Results spreadsheet](https://docs.google.com/spreadsheets/d/1mR-Z5dQbdw-O3jW9Oblcoiqz_S4E3XPJV9F5ENucXow/edit?usp=sharing), and you can view the community voting results over at the [contest listing](https://osu.ppy.sh/community/contests/47).
 

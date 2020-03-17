@@ -8,9 +8,9 @@ We're proud to welcome **Voicians** as our latest Featured Artist!
 
 ![](https://assets.ppy.sh/artists/59/header.jpg)
 
-**Voicians** is a German electronic music producer with a hugely storied history of collaboration and releases across half a dozen major labels, like *Hospital Records*, *Liquicity Records*, *NoCopyrightSounds* and more. If you've ever listened to anything from NCS, you've almost certainly had a taste of **Voicians** talent, and we're super excited to bring him aboard formally.
+**Voicians** is a German electronic music producer with a hugely storied history of collaboration and releases across half a dozen major labels, like _Hospital Records_, _Liquicity Records_, _NoCopyrightSounds_ and more. If you've ever listened to anything from NCS, you've almost certainly had a taste of **Voicians** talent, and we're super excited to bring him aboard formally.
 
-Fans of *Pendulum* and *Celldweller* will find a hint of kindred sound in **Voicians** work, so make sure to pop in and have a look!
+Fans of _Pendulum_ and _Celldweller_ will find a hint of kindred sound in **Voicians** work, so make sure to pop in and have a look!
 
 We've got a choice selection of ten tracks from his widely varied lineup for your beatmapping adventures, check a few out:
 
@@ -44,7 +44,7 @@ We've got a choice selection of ten tracks from his widely varied lineup for you
     <source src="https://assets.ppy.sh/artists/59/previews/1680.mp3" type="audio/mpeg">
 </audio>
 
----
+* * *
 
 The whole collection is available over at [**Voicians**' Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/59), complete with pre-timed files ready for you to jump straight into mapping with.
 

@@ -16,7 +16,7 @@ Let's dive right in!
 
 [![](https://assets.ppy.sh/artists/24/header.jpg)](https://osu.ppy.sh/beatmaps/artists/24)
 
-A memorable name for some of our older players, **antiPLUR** came to the attention of the osu! community in 2015 with his track *Speed of Link*, which proceeded to blow everybody's minds.
+A memorable name for some of our older players, **antiPLUR** came to the attention of the osu! community in 2015 with his track _Speed of Link_, which proceeded to blow everybody's minds.
 
 Taking a distinctly unique twist on classic 8-bit console sounds, **antiPLUR**'s work tends to be blisteringly quick and incredibly catchy, posing itself as excellent fuel for the endless fires of higher-level play.
 
@@ -80,12 +80,12 @@ Don't take my word for it, check out a sample from each of the **four** tracks w
     <source src="https://assets.ppy.sh/artists/25/previews/534.mp3" type="audio/mpeg">
 </audio>
 
---------------
+* * *
 
 As with all Featured Artist releases, these new tracks are 100% free for use in creating osu! beatmaps, so worry less, and map more!
 
 We're excited to keep expanding the Featured Artist roster with a variety of sounds and styles, and the astute among you may have already noticed a few hints as to where the future leads in that regard.
 
-We'll say only this much - the next release is bound to be *very* delightful.
+We'll say only this much - the next release is bound to be _very_ delightful.
 
 —Ephemeral

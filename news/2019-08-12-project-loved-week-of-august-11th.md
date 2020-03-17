@@ -18,46 +18,46 @@ In case you don't read to the end of this post, be sure to submit suggestions fo
 
 ### Navigation
 
-- [osu!standard](#osu)
-- [osu!taiko](#taiko)
-- [osu!catch](#catch)
-- [osu!mania](#mania)
+-   [osu!standard](#osu)
+-   [osu!taiko](#taiko)
+-   [osu!catch](#catch)
+-   [osu!mania](#mania)
 
 ## <a name="osu" id="osu"></a>osu!standard
 
 osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207), [-Roxas](https://osu.ppy.sh/users/1986262), [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050), [fartownik](https://osu.ppy.sh/users/56917) and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
----
+* * *
 
 [![](/wiki/shared/news/2019-08-12-project-loved-week-of-august-11th/osu/1-kyouran-hey-kids-speed-up-version.jpg)](https://osu.ppy.sh/community/forums/topics/947110)
 
 [THE ORAL CIGARETTES - Kyouran Hey Kids!! (Speed Up Version)](https://osu.ppy.sh/beatmapsets/435693#osu) by [D e s](https://osu.ppy.sh/users/3129420)  
 190 BPM, 3:04 | 6.04★  
-*description written by [fartownik](https://osu.ppy.sh/users/56917)*
+_description written by [fartownik](https://osu.ppy.sh/users/56917)_
 
-The Loved section is no stranger to sped up versions of songs, and with a track as popular as *Kyouran Hey Kids!!*, it should come as no surprise that this 190 BPM edit by D e s has collected 120+ favorites to date. A fairly standard mapping style with simple streams and straight, generic sliders leaves a stamina-draining map reminiscent of the recent [BarkingMadDog](https://osu.ppy.sh/users/3475189) *Bon Appetit S* megaset that was also recently introduced to the category. If you've become a God of Speed on the ranked mapset, it's high time you attempt to transcend that status with this map!
+The Loved section is no stranger to sped up versions of songs, and with a track as popular as _Kyouran Hey Kids!!_, it should come as no surprise that this 190 BPM edit by D e s has collected 120+ favorites to date. A fairly standard mapping style with simple streams and straight, generic sliders leaves a stamina-draining map reminiscent of the recent [BarkingMadDog](https://osu.ppy.sh/users/3475189) _Bon Appetit S_ megaset that was also recently introduced to the category. If you've become a God of Speed on the ranked mapset, it's high time you attempt to transcend that status with this map!
 
 [![](/wiki/shared/news/2019-08-12-project-loved-week-of-august-11th/osu/2-charon-dj-seven-pnb-refix.jpg)](https://osu.ppy.sh/community/forums/topics/947109)
 
 [Negoto (DJ SEVEN) - Charon (DJ SEVEN PnB Refix)](https://osu.ppy.sh/beatmapsets/255655#osu) by [eLy](https://osu.ppy.sh/users/1014222)  
 175 BPM, 2:56 | 6.02★, 6.02★  
-*description written by [fartownik](https://osu.ppy.sh/users/56917)*
+_description written by [fartownik](https://osu.ppy.sh/users/56917)_
 
-*Charon* is a single-difficulty mapset from the mapper Anmiy (previously known as eLy), divided into two separate versions differing in Approach Rate (AR9.3 and AR9). The map is rather old-school dating back to January 2015 and it shows in the mapping style. eLy focuses more on playability, leaving the aesthetics a bit in the background. The main highlight of this map is the rhythm choice which, for me, is simply excellent and reflects the song's pace magnificently, blowing up especially profoundly in its two choruses.
+_Charon_ is a single-difficulty mapset from the mapper Anmiy (previously known as eLy), divided into two separate versions differing in Approach Rate (AR9.3 and AR9). The map is rather old-school dating back to January 2015 and it shows in the mapping style. eLy focuses more on playability, leaving the aesthetics a bit in the background. The main highlight of this map is the rhythm choice which, for me, is simply excellent and reflects the song's pace magnificently, blowing up especially profoundly in its two choruses.
 
 [![](/wiki/shared/news/2019-08-12-project-loved-week-of-august-11th/osu/3-logical-stimulus.jpg)](https://osu.ppy.sh/community/forums/topics/947108)
 
 [a_hisa - Logical Stimulus](https://osu.ppy.sh/beatmapsets/651507#osu) by [Naidaaka](https://osu.ppy.sh/users/6988856) and [DT-sama](https://osu.ppy.sh/users/3525018)  
 185 BPM, 4:22 | 5.06★, 7.76★  
-*description written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
+_description written by [DigitalHypno](https://osu.ppy.sh/users/4384207)_
 
-a_hisa's song *Logical Stimulus* has an absolutely beautiful melody, and this map by Naidaaka captures it perfectly. This high 7 star map contains super long, super flowy streams in the kiai sections, but the rest of the map has plenty of cut streams to keep you on your toes. This map is accompanied by a 5 star guest difficulty by DT-sama which is set to AR 7 for those of you looking for slower-paced gameplay. Judging by the favourite count of nearly 300, I'm sure many of you are already familiar with this map, but if not, you should definitely give it a try!
+a_hisa's song _Logical Stimulus_ has an absolutely beautiful melody, and this map by Naidaaka captures it perfectly. This high 7 star map contains super long, super flowy streams in the kiai sections, but the rest of the map has plenty of cut streams to keep you on your toes. This map is accompanied by a 5 star guest difficulty by DT-sama which is set to AR 7 for those of you looking for slower-paced gameplay. Judging by the favourite count of nearly 300, I'm sure many of you are already familiar with this map, but if not, you should definitely give it a try!
 
 [![](/wiki/shared/news/2019-08-12-project-loved-week-of-august-11th/osu/4-lone-digger.jpg)](https://osu.ppy.sh/community/forums/topics/947107)
 
 [Caravan Palace - Lone Digger](https://osu.ppy.sh/beatmapsets/454079#osu) by [Ohai](https://osu.ppy.sh/users/7561260) et al.  
 124 BPM, 3:34 | 1.72★ – 7.38★  
-*description written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
+_description written by [DigitalHypno](https://osu.ppy.sh/users/4384207)_
 
 This groovy swing tune by Caravan Palace has an amazing 11-difficulty mapset hosted by Ohai, featuring ten guest difficulties from different mappers. It's a full spread ranging from 1 to 7 stars, meaning there's something for everyone to tap their feet to regardless of skill. Surely the 280 favorites can back me up when I say that each difficulty is a joy to play in its own way, so be sure to check them out!
 
@@ -65,21 +65,21 @@ This groovy swing tune by Caravan Palace has an amazing 11-difficulty mapset hos
 
 [Giga-P ft. Kagamine Rin & Len - Bring It On (Speed Up Ver.)](https://osu.ppy.sh/beatmapsets/841290#osu) by [Logicdash](https://osu.ppy.sh/users/7376405)  
 240 BPM, 2:34 | 8.04★  
-*description written by [waywern2012](https://osu.ppy.sh/users/5870453)*
+_description written by [waywern2012](https://osu.ppy.sh/users/5870453)_
 
-Making its way through Loved is Logicdash's first ever beatmap—*Bring It On* by Giga-P featuring Rin & Len. It's a Speed Up Version, so it'll be a bit faster than you anticipate a Giga-P song to be. The beatmap has a bigger circle size than the usual CS4 with the star rating being a little over 8 stars. The beginning of the beatmap starts fairly simple with simple patterns and smaller jumps. It picks up the pace at the 2nd kiai time with increased spacing. After a short period of time, you will find yourself at the 3rd chorus section doing back and forth jumps, as well as triangle jumps with triples in them that are pretty spaced. Are you able to do this high-star 240 BPM map? Try it out and give your vote!
+Making its way through Loved is Logicdash's first ever beatmap—_Bring It On_ by Giga-P featuring Rin & Len. It's a Speed Up Version, so it'll be a bit faster than you anticipate a Giga-P song to be. The beatmap has a bigger circle size than the usual CS4 with the star rating being a little over 8 stars. The beginning of the beatmap starts fairly simple with simple patterns and smaller jumps. It picks up the pace at the 2nd kiai time with increased spacing. After a short period of time, you will find yourself at the 3rd chorus section doing back and forth jumps, as well as triangle jumps with triples in them that are pretty spaced. Are you able to do this high-star 240 BPM map? Try it out and give your vote!
 
 ## <a name="taiko" id="taiko"></a>osu!taiko
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401), [jyake](https://osu.ppy.sh/users/9099822) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
 
----
+* * *
 
 [![](/wiki/shared/news/2019-08-12-project-loved-week-of-august-11th/taiko/1-u-n-owen-was-her.jpg)](https://osu.ppy.sh/community/forums/topics/947126)
 
 [ZUN - U.N. Owen Was Her?](https://osu.ppy.sh/beatmapsets/1009983#taiko) by [Jerry](https://osu.ppy.sh/users/605973)  
 155 BPM, 2:41 | 4.92★  
-*description written by [nyanmi-1828](https://osu.ppy.sh/users/6866480)*
+_description written by [nyanmi-1828](https://osu.ppy.sh/users/6866480)_
 
 _Can you defeat Flandre?_
 Jerryによるこの譜面は、7/27に公開された時からたったの3日で72favを獲得するという伝説的とも言えるスピードで認知されています。（8/8現在では87favも獲得しています）  
@@ -94,15 +94,15 @@ This map goes by "VS. Flandre Scarlet" meaning you play while being attacked by 
 
 [KNOWER - The Government Knows](https://osu.ppy.sh/beatmapsets/996325#taiko) by [Pencil-kun](https://osu.ppy.sh/users/4662795)  
 1000 BPM, 3:38 | 4.06★  
-*description written by [jyake](https://osu.ppy.sh/users/9099822)*
+_description written by [jyake](https://osu.ppy.sh/users/9099822)_
 
-Pencil-Kun's *The Government Knows* map is by far the most impressive attempt in bringing a NotITG-style modded map to osu!taiko. NotITG is a very well known open-source DDR clone that has garnered fame for their stylish mod charts. Bringing the flair of the original chart by FMS_Cat, Pencil-kun employs a clever style of mapping by using an invisible play-field and a custom-made video that goes along with the gameplay, so that he can do all of the craziest gimmicks that you cannot traditionally employ through storyboarding. Not only are the visuals impressive and funny, the mapping is friendly enough to newcomers that all levels of player for Taiko can enjoy this masterpiece, so please make sure to give this one a try!
+Pencil-Kun's _The Government Knows_ map is by far the most impressive attempt in bringing a NotITG-style modded map to osu!taiko. NotITG is a very well known open-source DDR clone that has garnered fame for their stylish mod charts. Bringing the flair of the original chart by FMS_Cat, Pencil-kun employs a clever style of mapping by using an invisible play-field and a custom-made video that goes along with the gameplay, so that he can do all of the craziest gimmicks that you cannot traditionally employ through storyboarding. Not only are the visuals impressive and funny, the mapping is friendly enough to newcomers that all levels of player for Taiko can enjoy this masterpiece, so please make sure to give this one a try!
 
 [![](/wiki/shared/news/2019-08-12-project-loved-week-of-august-11th/taiko/3-hachigatsu-no-yoru-mathafuckera-k-alziefuck.jpg)](https://osu.ppy.sh/community/forums/topics/947124)
 
 [Lzie - Hachigatsu no Yoru (MathaFuckera.k.alziefuck)](https://osu.ppy.sh/beatmapsets/863536#taiko) by [ekumea1123](https://osu.ppy.sh/users/9119501) and [vzk](https://osu.ppy.sh/users/8264451)  
 270 BPM, 3:08 | 7.10★  
-*description written by [nyanmi-1828](https://osu.ppy.sh/users/6866480)*
+_description written by [nyanmi-1828](https://osu.ppy.sh/users/6866480)_
 
 Nightcoreやアーメンブレイクなどを詰め込んだ、"アーメンパンク"と呼ばれるジャンルの曲は、太鼓譜面にとても適しています。  
 その中でもこの譜面は休憩があまりなくスピードも速い譜面かつ、叩きやすいパターンで構成されているため、マルチで叩きやすい体力譜面として投げられることが多いです。  
@@ -116,54 +116,54 @@ Playing this map heats your body up! (I mean, it is August).
 
 osu!catch Loved candidates were chosen by [Tenshichan](https://osu.ppy.sh/users/1101600), [Sartan](https://osu.ppy.sh/users/4100941), [Wesley](https://osu.ppy.sh/users/2407265) and [Yumeno Himiko](https://osu.ppy.sh/users/1806962)!
 
----
+* * *
 
 [![](/wiki/shared/news/2019-08-12-project-loved-week-of-august-11th/catch/1-amazing-break.jpg)](https://osu.ppy.sh/community/forums/topics/947122)
 
 [TERRASPEX - AMAZING BREAK](https://osu.ppy.sh/beatmapsets/727329#fruits) by [Spectator](https://osu.ppy.sh/users/702598) et al.  
 145 BPM, 3:50 | 3.00★, 5.69★, 6.82★  
-*description written by [Wesley](https://osu.ppy.sh/users/2407265)*
+_description written by [Wesley](https://osu.ppy.sh/users/2407265)_
 
-*AMAZING BREAK* is a well-known map created by some awesome mappers. The highest difficulty has been used in tournaments while the lower ones (at least for me) are new. Back when it was first submitted, a lot of people were quite hyped because of how well the map is made. A map by Spectator and Kyuare, what could possibly go wrong? Streams, fast patterns and a longer map at that—a real consistency test!
+_AMAZING BREAK_ is a well-known map created by some awesome mappers. The highest difficulty has been used in tournaments while the lower ones (at least for me) are new. Back when it was first submitted, a lot of people were quite hyped because of how well the map is made. A map by Spectator and Kyuare, what could possibly go wrong? Streams, fast patterns and a longer map at that—a real consistency test!
 
 [![](/wiki/shared/news/2019-08-12-project-loved-week-of-august-11th/catch/2-sentimental-hades-in-the-heavenly-skyscraper.jpg)](https://osu.ppy.sh/community/forums/topics/947121)
 
 [Jimmy-Rustler - Sentimental Hades in the Heavenly Skyscraper](https://osu.ppy.sh/beatmapsets/299581#fruits) by [rostld](https://osu.ppy.sh/users/4365562)  
 142 BPM, 1:43 | 11.89★  
-*description written by [Sartan](https://osu.ppy.sh/users/4100941)*
+_description written by [Sartan](https://osu.ppy.sh/users/4100941)_
 
-So here we go with a little bit of an odd map to get a bit of variety in this week's picks. Despite rostld's reputation of not really mapping anything all too serious, *Sentimental Hades in the Heavenly Skyscraper* is quite a playable map for good players. It's quite bursty in its difficulty thanks to crazy jumps from the halfway point up until the end of the map. It's very enjoyable to try and catch these jumps though, making it a map with lots of replayability. Above all though, simply put the map is funny and not to be taken too seriously, with the lawnmower meme having been quite popular around its release in 2015.
+So here we go with a little bit of an odd map to get a bit of variety in this week's picks. Despite rostld's reputation of not really mapping anything all too serious, _Sentimental Hades in the Heavenly Skyscraper_ is quite a playable map for good players. It's quite bursty in its difficulty thanks to crazy jumps from the halfway point up until the end of the map. It's very enjoyable to try and catch these jumps though, making it a map with lots of replayability. Above all though, simply put the map is funny and not to be taken too seriously, with the lawnmower meme having been quite popular around its release in 2015.
 
 ## <a name="mania" id="mania"></a>osu!mania
 
 osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2520707), [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 
----
+* * *
 
 [![](/wiki/shared/news/2019-08-12-project-loved-week-of-august-11th/mania/1-finixe.jpg)](https://osu.ppy.sh/community/forums/topics/947133)
 
 [Silentroom - Finixe](https://osu.ppy.sh/beatmapsets/688577#mania) by [shuniki](https://osu.ppy.sh/users/4942174)  
 222 BPM, 2:35 | [4K] 5.66★, [4K] 5.66★, [4K] 8.66★
 
-Returning with more of his staple extraordinarily hard LN maps is shuniki being nominated for *Finixe*. While this isn't the hardest of shuniki's LN maps that have been nominated for Loved, it is certainly no pushover when it comes to the strain and speed required to perform well on it. The chart contains massive inverse walls as well as some less dense—though in a way, trickier—LN streams with patterns clocking in at 222 BPM which are sure to fire up players who thrive on giving themselves some physically taxing LN. As has been the story with past shuniki nominations, this is a perfect map for those hardcore LN lovers, those who want to push their skill, speed, and reading with inverse and general long note play to the limit, and those who want to have a fun time with the smooth, yet challenging experience that can be found in *Finixe*.
+Returning with more of his staple extraordinarily hard LN maps is shuniki being nominated for _Finixe_. While this isn't the hardest of shuniki's LN maps that have been nominated for Loved, it is certainly no pushover when it comes to the strain and speed required to perform well on it. The chart contains massive inverse walls as well as some less dense—though in a way, trickier—LN streams with patterns clocking in at 222 BPM which are sure to fire up players who thrive on giving themselves some physically taxing LN. As has been the story with past shuniki nominations, this is a perfect map for those hardcore LN lovers, those who want to push their skill, speed, and reading with inverse and general long note play to the limit, and those who want to have a fun time with the smooth, yet challenging experience that can be found in _Finixe_.
 
 [![](/wiki/shared/news/2019-08-12-project-loved-week-of-august-11th/mania/2-toraburu-kuroneko-manbiki.jpg)](https://osu.ppy.sh/community/forums/topics/947132)
 
 [Masami-T - Toraburu Kuroneko Manbiki](https://osu.ppy.sh/beatmapsets/591252#mania) by [AutotelicBrown](https://osu.ppy.sh/users/4238941)  
 119 BPM, 2:40 | [4K], 4.90★ – 6.99★
 
-AutotelicBrown gets her first mapset nominated for the Loved section with *Trouble Kuroneko Man'yuuki*. Chordjack charts are a common favourite among most players, and *Man'yuuki* is just that: chordjacks.
+AutotelicBrown gets her first mapset nominated for the Loved section with _Trouble Kuroneko Man'yuuki_. Chordjack charts are a common favourite among most players, and _Man'yuuki_ is just that: chordjacks.
 
 The chart is filled with doubles and triples to the main melody with occasional quads charted to higher and louder notes. In the Ayumu's Distress difficulty, there are also occasional jumptrills that pair with snare rolls, which could trip up players who are going for either accuracy or a 97-98% score. In the Ayumu's Trouble difficulty, the snare rolls are just 1234 rolls which are less stamina intensive than jumptrills. There's no long break until 70% into the chart (which is 3 minutes long), so this chart doubles as both chordjack stamina practice for lower-level players and chordjack accuracy practice for higher-level players.
 
-This mapset also has 5 different rates (1.0x to 1.4x), so it's very likely that you'll have two or three difficulties to try out. If you enjoy charts like [XeoStyle's](https://osu.ppy.sh/users/3377280) *Lone Digger* or [arcwinolivirus'](https://osu.ppy.sh/users/2039089) *Endless Tewi-ma Park*, or if you just want to practice chordjacks in general, absolutely try out this mapset.
+This mapset also has 5 different rates (1.0x to 1.4x), so it's very likely that you'll have two or three difficulties to try out. If you enjoy charts like [XeoStyle's](https://osu.ppy.sh/users/3377280) _Lone Digger_ or [arcwinolivirus'](https://osu.ppy.sh/users/2039089) _Endless Tewi-ma Park_, or if you just want to practice chordjacks in general, absolutely try out this mapset.
 
 [![](/wiki/shared/news/2019-08-12-project-loved-week-of-august-11th/mania/3-suikinkutsu-feat-uehara-hiromi.jpg)](https://osu.ppy.sh/community/forums/topics/947130)
 
 [Tokyo Ska Paradise Orchestra - -SUIKINKUTSU- feat. Uehara Hiromi](https://osu.ppy.sh/beatmapsets/327318#mania) by [Evening](https://osu.ppy.sh/users/2193881)  
 51 BPM, 6:53 | [7K] 6.05★, [7K] 6.05★
 
-Following Evening's success last round with their 4k pick, it would be unwise to skip over a 7k pick for this round. For this round, we're having *SUIKINKUTSU*.
+Following Evening's success last round with their 4k pick, it would be unwise to skip over a 7k pick for this round. For this round, we're having _SUIKINKUTSU_.
 
 From the beatmap info alone, players would already notice the two difficulties with arrows in the diffname. These advise which diff is best to play depending on your dominant hand / thumb usage for 7K.
 
@@ -173,7 +173,7 @@ There are a couple of main sections to look forward to: the trumpet solo, the pi
 
 An excellent song choice paired with a very notable chart gives this map a rightful spot for Project Loved.
 
----
+* * *
 
 From everyone on the Project Loved team, we hope you enjoyed this week's selection, and are looking forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 

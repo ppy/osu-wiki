@@ -10,10 +10,10 @@ no_native_review: true
 
 ## Относящиеся статьи
 
-- [Настройка](Setup)
-- [Использование мультиплеера](Multiplayer_Usage)
-- [Использование наблюдателя](Spectator_Usage)
-- [Создание скинов для клиента](Skinning)
-- [Команды управления турниром](Tournament_Management_Commands)
-- [Решение проблем](Troubleshooting)
-- [Призы](Prizes)
+-   [Настройка](Setup)
+-   [Использование мультиплеера](Multiplayer_Usage)
+-   [Использование наблюдателя](Spectator_Usage)
+-   [Создание скинов для клиента](Skinning)
+-   [Команды управления турниром](Tournament_Management_Commands)
+-   [Решение проблем](Troubleshooting)
+-   [Призы](Prizes)

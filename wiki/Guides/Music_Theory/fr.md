@@ -1,6 +1,6 @@
 # Théorie de la musique
 
-*[Le guide original par ziin](https://osu.ppy.sh/community/forums/topics/58959)*
+_[Le guide original par ziin](https://osu.ppy.sh/community/forums/topics/58959)_
 
 Osu! est un jeu de rythme, les beatmaps sont donc normalement créées pour s'adapter à la musique plutôt qu'au BPM. Dans cette courte rédaction je discuterais de la théorie de la musique et comment elle s'applique à une beatmap osu!, ainsi que d'expliquer pourquoi certaines choses sonnent mal (du moins pour moi). En aucun cas, les sujets abordés ne peuvent être considérés comme des «lignes directrices». Pensez que c'est une théorie à la place.  La plupart du temps, ils s'appliquent à certaines parties des chansons, mais il existe de nombreuses exceptions. Tout ce que je dirais ici est une opinion personnelle basée sur mes 12 ans d'expérience dans un orchestre harmonique ou pris directement de Wikipedia. On ne peut pas l’appliquer à toutes les formes de musique, en particulier celles d’avant-garde et la plupart des musiques de Touhou (donc, la moitié des musiques d'osu ?).
 
@@ -14,7 +14,7 @@ Le temps fort est l'impulsion qui se produit au début d'une mesure dans la musi
 
 ### Temps faibles
 
-Les temps faible sont généralement les temps pairs. Par exemple dans une mesure à 4/4, ce sont les temps 2 et 4… Dans la musique populaire d'aujourd'hui, la caisse claire est généralement utilisée sur les temps faibles. C'est pourquoi mettre des applaudissements sur les temps 2 et 4 *semble bien*. Certaines chansons rallongent même le deuxième temps d'un demi-temps (ce qui donne les temps 2 et 3,5).
+Les temps faible sont généralement les temps pairs. Par exemple dans une mesure à 4/4, ce sont les temps 2 et 4… Dans la musique populaire d'aujourd'hui, la caisse claire est généralement utilisée sur les temps faibles. C'est pourquoi mettre des applaudissements sur les temps 2 et 4 _semble bien_. Certaines chansons rallongent même le deuxième temps d'un demi-temps (ce qui donne les temps 2 et 3,5).
 
 ### Sauter un temps
 
@@ -32,7 +32,7 @@ C'est les sliders les plus communs que vous pouvez trouver. Ils sont facile à j
 
 ![Sliders des temps faibles](img/Upbeat_sliders.png "Sliders des temps faibles")
 
-C'est la façon dont je les appelle. Les sliders qui commencent au temps 4 ont un sérieux problème : si c'est un slider 1/1, il *finira* sur le temps fort.  Ils laissent le temps fort sans stress, et peuvent sembler étrange à jouer, surtout lorsqu'ils sont répétés.
+C'est la façon dont je les appelle. Les sliders qui commencent au temps 4 ont un sérieux problème : si c'est un slider 1/1, il _finira_ sur le temps fort.  Ils laissent le temps fort sans stress, et peuvent sembler étrange à jouer, surtout lorsqu'ils sont répétés.
 
 ### Sliders décalés
 
@@ -66,7 +66,7 @@ Les sliders sur osu! ressemblent plus à une note maintenue dans la musique puis
 
 La plupart des musiques fonctionnent par groupes de 2 ou 4. 4 temps à la mesure, 4 mesures à la phrase, etc. Tant que vous placez un début de spinner ou un cercle sur le temps fort (long tick blanc) et parfois au milieu de la phrase, vous pouvez insérer n'importe quel nombre de sliders des temps faibles ou décalés avec des patterns de sliders fous, des sliders courts stupides et des stream stupides sur la map, même si cela ne correspond pas à la chanson. Je suis sérieux. Ce n’est évidemment pas tout à fait recommandé, car vous pouvez alors copier n'importe quel morceau avec le même BPM et la même structure, le copier / coller et obtenir la même carte de qualité médiocre. Il est également important de mapper sur la musique, mais la plupart des musiques se répètent encore et encore, il est donc bon d’apporter quelque chose de différent de temps en temps.
 
-Vous devez déjà savoir que lorsque vous jouez la ligne de basse avec n'importe quel instrument, vous pouvez créer presque *n'importe quel* rythme et jouer *n'importe* quelle note, à condition de jouer le temps fort de chaque mesure. C'est dire à quel point le temps fort est important. De toute évidence, ce n’est pas toujours parfait, mais au moins, il est acceptable.
+Vous devez déjà savoir que lorsque vous jouez la ligne de basse avec n'importe quel instrument, vous pouvez créer presque _n'importe quel_ rythme et jouer _n'importe_ quelle note, à condition de jouer le temps fort de chaque mesure. C'est dire à quel point le temps fort est important. De toute évidence, ce n’est pas toujours parfait, mais au moins, il est acceptable.
 
 Les chansons qui utilisent uniquement des sliders de temps forts sont vouées à être ennuyeuses, alors assurez-vous d’improviser vos rythmes.
 
@@ -74,13 +74,13 @@ Les chansons qui utilisent uniquement des sliders de temps forts sont vouées à
 
 Pour moi, l'[overmapping](/wiki/Glossary) est le fait de placer une note ou la fin d'un slider où une note n'existe pas dans le fond. Il y a plusieurs raisons d'overmapper :
 
-- Le rythme est trop difficile à jouer normalement/être fun.
-  - Cela arrive souvent avec des chansons qui utilisent des triolets dans une partie en 1/6, et le mappeur le simplifie en 1/4.
-- La musique de fond accélère ou ralentit et s'éloigne trop de ce qu’elle devrait être.
-  - Cela ne se produit généralement pas et vous ne devez généralement pas mapper des parties non capturées correctement.
-- La chanson swing, mais le mappeur déteste 1/6.
-  - Je ne considère pas cela comme une excuse valable et votera 1 automatiquement.
-- La chanson est ennuyeuse et a besoin de rythmes inventés pour rester intéressante.
+-   Le rythme est trop difficile à jouer normalement/être fun.
+    -   Cela arrive souvent avec des chansons qui utilisent des triolets dans une partie en 1/6, et le mappeur le simplifie en 1/4.
+-   La musique de fond accélère ou ralentit et s'éloigne trop de ce qu’elle devrait être.
+    -   Cela ne se produit généralement pas et vous ne devez généralement pas mapper des parties non capturées correctement.
+-   La chanson swing, mais le mappeur déteste 1/6.
+    -   Je ne considère pas cela comme une excuse valable et votera 1 automatiquement.
+-   La chanson est ennuyeuse et a besoin de rythmes inventés pour rester intéressante.
 
 Si vous vous reconnaissez dans un des points ci-dessus, alors vous mappez probablement mal.
 

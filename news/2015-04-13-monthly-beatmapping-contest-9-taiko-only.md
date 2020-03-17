@@ -7,7 +7,7 @@ tumblr_url: http://osunews.tumblr.com/post/116319155288/monthly-beatmapping-cont
 
 Submissions for the 9th Monthly Beatmapping Contest are now open - Bringing back some fast paced beats for our 1st **Taiko Only** contest with a great tune from LapFox Traxx for this month's contest!
 
-Sticking with the changes made in the MBC\#8 we are moving on to our next game mode **Taiko** we hope to see some great submissions to kick things off
+Sticking with the changes made in the MBC#8 we are moving on to our next game mode **Taiko** we hope to see some great submissions to kick things off
 
 After that chill cool down with "the light", we are cranking it back up to 11 with one of **Renard's** many personas **Furries in a Blender** featuring **Storm World**! With the fast-paced beats and hetic speeds it is sure to be a intresting contest! Listen to it below:
 
@@ -15,16 +15,16 @@ After that chill cool down with "the light", we are cranking it back up to 11 wi
 
 ## What are the prizes?
 
-- 6 months of supporter for you or a friend!
-- 'Elite Mapper' forum title
-- **Winning mapset will be bundled with the osu! game client download!**
+-   6 months of supporter for you or a friend!
+-   'Elite Mapper' forum title
+-   **Winning mapset will be bundled with the osu! game client download!**
 
 ## What are the rules?
 
-- You must map 4 difficulties in an appropriate spread - either ENHI (easy, normal, hard and insane) or NHIX (normal, hard, insane, expert).
-- Collaboration is allowed, but will only be registered under the name of the person who submitted the beatmap. Prizes for a winning mapset will only be given to the uploader.
-- Difficulty names must only be the name of the respective difficulty, and nothing else. No ztrot's Hard or anything comparable.
-- Maps submitted to the contest must not be submitted to the BSS until the contest has concluded.
+-   You must map 4 difficulties in an appropriate spread - either ENHI (easy, normal, hard and insane) or NHIX (normal, hard, insane, expert).
+-   Collaboration is allowed, but will only be registered under the name of the person who submitted the beatmap. Prizes for a winning mapset will only be given to the uploader.
+-   Difficulty names must only be the name of the respective difficulty, and nothing else. No ztrot's Hard or anything comparable.
+-   Maps submitted to the contest must not be submitted to the BSS until the contest has concluded.
 
 ## Where can I enter?
 

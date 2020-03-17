@@ -32,9 +32,9 @@ Les beatmaps qualifiées ont l'icône de coche (![icône de coche](/wiki/shared/
 
 Ces beatmaps sont dans la dernière étape de beatmapping et de modding. Avant que la beatmap ne commence à jouer, un dialogue s'affichera, annonçant que le statut de cette beatmap causera ce qui suit:
 
-- Aucun [pp](/wiki/pp) ne sera accordé.
-- Tous les scores seront supprimés quand son statut sera changé.
-  - Si le statut est changé en classé, approuvé, ou retourne en attente, tous les scores seront supprimés !
+-   Aucun [pp](/wiki/pp) ne sera accordé.
+-   Tous les scores seront supprimés quand son statut sera changé.
+    -   Si le statut est changé en classé, approuvé, ou retourne en attente, tous les scores seront supprimés !
 
 Quand une beatmap est qualifiée, elle a rempli tous les [critères de classement](/wiki/ranking_criteria) et a été vérifiée par deux [Nominateurs de Beatmaps](/wiki/Beatmap_Nominators). Les beatmaps qualifiées sont dans la dernière ligne de défense puisqu'elles sont qualifiées durant une semaine avant d'être [classées](#ranked) ou [approuvées](#approved) définitivement.
 
@@ -44,10 +44,10 @@ Durant cette semaine, la [QAT](/wiki/QAT) est autorisée à dresser une liste de
 
 Les beatmaps "aimées" ont l'icône de cœur (![Heart icon](/wiki/shared/status/loved.png)) dans l'écran de sélection des musiques.
 
-Ces beatmaps peuvent ne pas remplir les [critères de classement](/wiki/ranking_criteria) mais sont *aimées* de la communauté et sont donc souvent ajoutées suivant les votes de la communauté. Avant que la beatmap ne démarre, un dialogue s'affichera, informant que le statut de cette beatmap causera ce qui suit:
+Ces beatmaps peuvent ne pas remplir les [critères de classement](/wiki/ranking_criteria) mais sont _aimées_ de la communauté et sont donc souvent ajoutées suivant les votes de la communauté. Avant que la beatmap ne démarre, un dialogue s'affichera, informant que le statut de cette beatmap causera ce qui suit:
 
-- Aucun [pp](/wiki/pp) ne sera accordé.
-- Tous les scores seront supprimés si le créateur met à jour la beatmap.
+-   Aucun [pp](/wiki/pp) ne sera accordé.
+-   Tous les scores seront supprimés si le créateur met à jour la beatmap.
 
 Ce statut permet à la beatmap d'avoir un tableau de classement.
 
@@ -55,7 +55,7 @@ Pour qu'une beatmap se voit accorder le statut d'"aimé", regardez le post de fo
 
 ### En Attente
 
-*Voir aussi: [Procédure de Classement des Beatmaps](/wiki/Beatmap_ranking_procedure)*
+_Voir aussi: [Procédure de Classement des Beatmaps](/wiki/Beatmap_ranking_procedure)_
 
 Les beatmaps en attente ont l'icône de point d'interrogation (![icône de point d'interrogation](/wiki/shared/status/pending.png)) dans l'écran de sélection des musiques.
 

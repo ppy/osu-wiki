@@ -18,15 +18,15 @@ Angles between 10 and 80 degrees can also be used.
 
 #### Tutorial
 
-1. Find a section in your beatmap that only contains horizontal (left and right) and vertical (up and down) sliders.
-   - These sliders should not have any curves.
-2. Select those sliders by either `Ctrl` + clicking on them or by dragging along the timeline.
-3. Press `Ctrl` + `Shift` + `R`.
-   - Or click on `Edit` (near the top left) then `Rotate by...`.
-4. Enter `15` (or any number between 10 and 80) in the text box.
-   - You can choose either `Clockwise` or `Anti-Clockwise`, it doesn't really matter.
-5. Click `OK`.
-6. Voilà, your done!
+1.  Find a section in your beatmap that only contains horizontal (left and right) and vertical (up and down) sliders.
+    -   These sliders should not have any curves.
+2.  Select those sliders by either `Ctrl` + clicking on them or by dragging along the timeline.
+3.  Press `Ctrl` + `Shift` + `R`.
+    -   Or click on `Edit` (near the top left) then `Rotate by...`.
+4.  Enter `15` (or any number between 10 and 80) in the text box.
+    -   You can choose either `Clockwise` or `Anti-Clockwise`, it doesn't really matter.
+5.  Click `OK`.
+6.  Voilà, your done!
 
 ### Accelerated Spacing
 

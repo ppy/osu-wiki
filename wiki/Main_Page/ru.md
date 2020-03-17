@@ -7,10 +7,8 @@ no_native_review: true
 Добро пожаловать на osu! wiki — проект, содержащий широкий спектр информации, относящейся к osu!
 </div>
 
-
 <div class="wiki-main-page__panels">
 <div class="wiki-main-page-panel">
-
 
 # Начало работы
 
@@ -19,14 +17,12 @@ no_native_review: true
 </div>
 <div class="wiki-main-page-panel">
 
-
 # Игровой процесс
 
 [ЧаВо](/wiki/FAQ) • [Мультиплеер](/wiki/Multi) • [Режимы игры](/wiki/Game_Modes): ([osu!](/wiki/Game_Modes/osu!) • [osu!taiko](/wiki/Game_Modes/osu!taiko) • [osu!catch](/wiki/Game_Modes/osu!catch) • [osu!mania](/wiki/Game_Modes/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">
-
 
 # [Редактор карт](/wiki/Beatmap_Editor)
 
@@ -35,7 +31,6 @@ no_native_review: true
 </div>
 <div class="wiki-main-page-panel">
 
-
 # Онлайн-редактирование и рейтинг
 
 [Загрузка материалов](/wiki/Submission) • [Утверждение карт](/wiki/Beatmap_ranking_procedure) • [Модерация](/wiki/Modding) • [Критерии для получения рейтинга](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
@@ -43,14 +38,12 @@ no_native_review: true
 </div>
 <div class="wiki-main-page-panel">
 
-
 # Мир osu!
 
 [Глоссарий](/wiki/Glossary) • [Турниры](/wiki/Tournaments) • [Создание скинов](/wiki/Skinning) • [Проекты](/wiki/Projects)
 
 </div>
 <div class="wiki-main-page-panel">
-
 
 # Люди
 

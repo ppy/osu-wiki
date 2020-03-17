@@ -15,8 +15,9 @@ But you don't have to be tackling this on your own! The Community Mentorship Pro
 **For the upcoming spring cycle our mentors are looking for mentees for all game modes!**
 
 The rough timeline for the next cycle is as follows:
-- Mentee signups will open on the 28.01.2018 and close on the 07.02.2018.
-- The 2018 spring cycle will start on the 11.02.2018 and end on the 22.04.2018.
+
+-   Mentee signups will open on the 28.01.2018 and close on the 07.02.2018.
+-   The 2018 spring cycle will start on the 11.02.2018 and end on the 22.04.2018.
 
 During this time, the internal organization team will host a variety of events on the discord server, such as mapping contests, modding puzzles [in a similar style to Charles445's](https://osu.ppy.sh/community/forums/topics/334240), or even just things like multiplayer lobbies with integrated feedback sessions!
 

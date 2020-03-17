@@ -13,10 +13,11 @@ The beatmap charts for the December Spotlights can be found [here](https://osu.p
 ## Past Spotlights results
 
 First of all, congratulations to the winners of the November 2017 Spotlights. They receive one month of supporter status for their efforts!
-+ **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
-+ **osu!taiko:** [iceOC](https://osu.ppy.sh/users/5482401)
-+ **osu!catch:** [monstratorfull](https://osu.ppy.sh/users/1872276)
-+ **osu!mania:** [\_SkyFall](https://osu.ppy.sh/users/4893647)
+
+-   **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
+-   **osu!taiko:** [iceOC](https://osu.ppy.sh/users/5482401)
+-   **osu!catch:** [monstratorfull](https://osu.ppy.sh/users/1872276)
+-   **osu!mania:** [\_SkyFall](https://osu.ppy.sh/users/4893647)
 
 # December 2017 Spotlights
 
@@ -48,7 +49,7 @@ Terrifyingly thrilling is the best way to describe TRICKL4SH 220, [Regou](https:
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/kimi-to-gelaende.jpg)](https://osu.ppy.sh/beatmapsets/543243)
 
-This month, veteran mapper [Zero__wind](https://osu.ppy.sh/users/1822830) brings his third SHISAMO set to the ranked section - Kimi to Gelaende . This map features several clever uses of stacking based patterns and a highly refined handle on cursor movement. The lower difficulties follow suit with a similarly impressive design, leading to a highly enjoyable and rewarding experience for players of all skill levels.
+This month, veteran mapper [Zero\_\_wind](https://osu.ppy.sh/users/1822830) brings his third SHISAMO set to the ranked section - Kimi to Gelaende . This map features several clever uses of stacking based patterns and a highly refined handle on cursor movement. The lower difficulties follow suit with a similarly impressive design, leading to a highly enjoyable and rewarding experience for players of all skill levels.
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/byakuya-gensoutan.jpg)](https://osu.ppy.sh/beatmapsets/667097)
 
@@ -58,12 +59,12 @@ Winning the 5th Pending Cup, an annual mapping contest that attracts experienced
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/saifu-kamiasobi.jpg)](https://osu.ppy.sh/beatmapsets/627038)
 
-This month has proven that you don't need to be a known mapper or make a 6* map to be featured in, or even top, the monthly Spotlights, because that's exactly what [ASPIRIN](https://osu.ppy.sh/users/6487115) has achieved !
+This month has proven that you don't need to be a known mapper or make a 6\* map to be featured in, or even top, the monthly Spotlights, because that's exactly what [ASPIRIN](https://osu.ppy.sh/users/6487115) has achieved !
 His map of the song "Saifu 'Kamiasobi no Uta'" features varied yet consistent and accurate patterns, a storyboard and minor slider velocity changes. ASPIRIN successfully used the song's varied nature to create a fun experience and a nice addition to osu!taiko's ranked map section.
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/powa-of-da-wildanes.jpg)](https://osu.ppy.sh/beatmapsets/693222)
 
-[MMzz](https://osu.ppy.sh/users/128993) is certainly no stranger to the Spotlights, this month bringing us a high-energy rendition of Camellia's POWA OF DA WILDANES. He manages this aggressive song with ease; his patterns flow comfortably while highlighting everything the tune has to offer, from serene moments to frenzied 300 BPM streams and everything in between. This 8* map presents a fun challenge for anyone who dares to face it head-on!
+[MMzz](https://osu.ppy.sh/users/128993) is certainly no stranger to the Spotlights, this month bringing us a high-energy rendition of Camellia's POWA OF DA WILDANES. He manages this aggressive song with ease; his patterns flow comfortably while highlighting everything the tune has to offer, from serene moments to frenzied 300 BPM streams and everything in between. This 8\* map presents a fun challenge for anyone who dares to face it head-on!
 
 [![](/wiki/shared/news/2018-01-23-beatmap-spotlights-december-2017/fuego.jpg)](https://osu.ppy.sh/beatmapsets/692383)
 
@@ -114,7 +115,7 @@ Similar to his previous ranked sets, [Lenfried-](https://osu.ppy.sh/users/531457
 
 During the kiai time, he expresses the music perfectly through extensive usage of long notes. Additionally, the rough slider velocities changes that he uses are very helpful in expressing the feeling of song too. This may be hot stuff, but it's actually a really cool map - just don't get fooled by the star rating!.
 
---------
+* * *
 
 We hope you enjoy our selection for this month and look forward to what we will bring to you in the near future. Until then, happy clicking, drumming, catching, and hitting the piano notes! Be sure to bring a hot cup of tea along the way!
 

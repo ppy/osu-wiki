@@ -6,10 +6,10 @@
 
 ## 관련 게시글
 
-- [설정](Setup)
-- [멀티플레이 사용법](Multiplayer_Usage)
-- [관전 사용법](Spectator_Usage)
-- [스킨](Skinning)
-- [토너먼트 관리 커맨드](Tournament_Management_Commands)
-- [문제해결 가이드](Troubleshooting)
-- [시상](Prizes)
+-   [설정](Setup)
+-   [멀티플레이 사용법](Multiplayer_Usage)
+-   [관전 사용법](Spectator_Usage)
+-   [스킨](Skinning)
+-   [토너먼트 관리 커맨드](Tournament_Management_Commands)
+-   [문제해결 가이드](Troubleshooting)
+-   [시상](Prizes)

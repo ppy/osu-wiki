@@ -4,39 +4,39 @@
 
 ## 可能感兴趣的内容
 
-- [注册](/wiki/Registration)
-- [安装](/wiki/Installation)
-- [规章制度](/wiki/Rules)
-- [常见问题](/wiki/FAQ)
-- [游戏模式](/wiki/Game_Modes)
-  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
-  - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
-  - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
-  - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania)
-- [多人游戏](/wiki/Multi)
-- [Rank 标准](/wiki/Ranking_Criteria)
-  - ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
-  - ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
-  - ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
-  - ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
+-   [注册](/wiki/Registration)
+-   [安装](/wiki/Installation)
+-   [规章制度](/wiki/Rules)
+-   [常见问题](/wiki/FAQ)
+-   [游戏模式](/wiki/Game_Modes)
+    -   ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
+    -   ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
+    -   ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
+    -   ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania)
+-   [多人游戏](/wiki/Multi)
+-   [Rank 标准](/wiki/Ranking_Criteria)
+    -   ![osu!standard icon](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
+    -   ![osu!taiko icon](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
+    -   ![osu!catch icon](/wiki/shared/mode/catch.png) [osu!catch](/wiki/Ranking_Criteria/osu!catch)
+    -   ![osu!mania icon](/wiki/shared/mode/mania.png) [osu!mania](/wiki/Ranking_Criteria/osu!mania)
 
 ## 作图
 
-*参考：[作图](/wiki/Beatmapping)。*
+_参考：[作图](/wiki/Beatmapping)。_
 
-作图是艺术家们创造一张谱面的必经之路。通常包含以下步骤：选歌、调整节拍、放置游戏元素、测试。可选项：添加视频，添加[故事板](/wiki/Storyboarding) ， 添加[自定义皮肤](/wiki/Skinning) 。这些步骤可以由艺术家独自完成，也可以与他人合作完成，由此衍生出了 *故事板作者（storyboarders）* 、 *皮肤制作者（skinners）* 和 *客串作者（guest creators）* 等职业，取决于他们在作图中扮演的角色。
+作图是艺术家们创造一张谱面的必经之路。通常包含以下步骤：选歌、调整节拍、放置游戏元素、测试。可选项：添加视频，添加[故事板](/wiki/Storyboarding) ， 添加[自定义皮肤](/wiki/Skinning) 。这些步骤可以由艺术家独自完成，也可以与他人合作完成，由此衍生出了 _故事板作者（storyboarders）_ 、 _皮肤制作者（skinners）_ 和 _客串作者（guest creators）_ 等职业，取决于他们在作图中扮演的角色。
 
 ## 改图
 
-*参考：[改图](/wiki/Modding)。*
+_参考：[改图](/wiki/Modding)。_
 
 改图指玩家们复查（Review）处于 Pending 或者 WIP/help 状态的谱面。这些玩家在控制谱面质量方面扮演了很重要的角色，因为艺术家可以根据玩家们的意见解决谱面中的问题。
 
 ## 皮肤
 
-*参考：[皮肤](/wiki/Skinning).*
+_参考：[皮肤](/wiki/Skinning)._
 
-*另见：[皮肤制作教程](/wiki/Skinning_Tutorial).*
+_另见：[皮肤制作教程](/wiki/Skinning_Tutorial)._
 
 任何玩家都可以通过制作皮肤来改变 osu! 的外观和玩 osu! 时的感受。你可以做一些像改变鼠标指针这样的微小修改，也可以进行重制游戏界面与所有游戏模式的外观这样的大改动。
 

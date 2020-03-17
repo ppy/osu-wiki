@@ -26,7 +26,7 @@ We had yet another exciting month within the Beatmap Nomination Group. The long-
 
 As many of you may have followed, this round of Beatmap Nominator applications was finally opened to the public around late September. Any modder with sufficient modding activity within the past three months was free to apply to have their proficiency judged, in hopes of becoming a new and upcoming member of the Beatmap Nomination Group!
 
-This time around we changed things up a bit. First and foremost, we decided to bring back proficiency tests in order to judge each applicant’s knowledge and understanding of the Ranking Criteria. Another change we decided on was to the application cycle. Instead of releasing tests every 1.5 months, alternating between the osu! gamemode, and taiko / catch / mania, we have decided that from now on, Beatmap Nominator applications for *all* game modes will be released at the same time every 3 months. Best of luck!
+This time around we changed things up a bit. First and foremost, we decided to bring back proficiency tests in order to judge each applicant’s knowledge and understanding of the Ranking Criteria. Another change we decided on was to the application cycle. Instead of releasing tests every 1.5 months, alternating between the osu! gamemode, and taiko / catch / mania, we have decided that from now on, Beatmap Nominator applications for _all_ game modes will be released at the same time every 3 months. Best of luck!
 
 ### Beatmap Nominator Retirements
 
@@ -46,15 +46,15 @@ Unfortunately, this month is somewhat sparse on the news front, since some impor
 
 The topics still being debated include the following:
 
-- Discussion about the [management of hybrid beatmapsets](https://osu.ppy.sh/community/forums/topics/792131)
-- Discussion about [two sets of the same song being allowed in the Qualified beatmap section](https://osu.ppy.sh/community/forums/topics/787252)
-- Status of the feature request list we informed about in the [last month’s Gazette](https://osu.ppy.sh/home/news/2018-09-19-the-qat-gazette-august-2018)
+-   Discussion about the [management of hybrid beatmapsets](https://osu.ppy.sh/community/forums/topics/792131)
+-   Discussion about [two sets of the same song being allowed in the Qualified beatmap section](https://osu.ppy.sh/community/forums/topics/787252)
+-   Status of the feature request list we informed about in the [last month’s Gazette](https://osu.ppy.sh/home/news/2018-09-19-the-qat-gazette-august-2018)
 
 ### New Quality Assurance Team additions
 
 As you may have already guessed from this article, we are now graced to have the presence of [Kibbleru](https://osu.ppy.sh/users/3193504) within our ranks! After two months in the former Beatmap Appreciation Team, followed by a further three years of experience in the Beatmap Nomination Group, he has made the next step at last and will join the QAT, assisting the osu! division in their efforts to maintain high levels of beatmap quality and Nominator proficiency.
 
-Also joining us last month was veteran modder [-Kazu-](https://osu.ppy.sh/users/920861)! With seven months of service in the Beatmap Nominators and seven *years* of experience in osu!taiko, he too has taken the plunge in order to share his vast experience in assisting with disqualifications and Beatmap Nominator applications to support the ever increasing size of the osu!taiko mapping scene.
+Also joining us last month was veteran modder [-Kazu-](https://osu.ppy.sh/users/920861)! With seven months of service in the Beatmap Nominators and seven _years_ of experience in osu!taiko, he too has taken the plunge in order to share his vast experience in assisting with disqualifications and Beatmap Nominator applications to support the ever increasing size of the osu!taiko mapping scene.
 
 ### Quality Assurance Team retirements
 

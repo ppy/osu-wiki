@@ -4,7 +4,7 @@ In the [beatmap editor](/wiki/Beatmap_Editor), there are three different timelin
 
 ## Shortcuts
 
-*For a list of keyboard shortcuts for the timeline, see: [Shortcut key reference](/wiki/Shortcut_key_reference)*
+_For a list of keyboard shortcuts for the timeline, see: [Shortcut key reference](/wiki/Shortcut_key_reference)_
 
 ## Song Player
 
@@ -18,16 +18,16 @@ In the centre, it shows the timeline with markings and the compulsory music play
 
 The timeline itself uses a few tick marks that have various meanings.
 
-| Colour | Description |
-| :-- | :-- |
-| White (long) | Current timestamp |
-| Yellow (long tick) | Preview point |
-| Yellow (up tick) | Start of drain time |
-| Green (up tick) | Inherited points (See [Timing](/wiki/Timing)) |
-| Red (up tick) | Timing points (See [Timing](/wiki/Timing)) |
-| Blue (down tick) | Bookmarks |
-| Grey (highlight) | Break time |
-| Orange (highlight) | Kiai time |
+| Colour             | Description                                   |
+| :----------------- | :-------------------------------------------- |
+| White (long)       | Current timestamp                             |
+| Yellow (long tick) | Preview point                                 |
+| Yellow (up tick)   | Start of drain time                           |
+| Green (up tick)    | Inherited points (See [Timing](/wiki/Timing)) |
+| Red (up tick)      | Timing points (See [Timing](/wiki/Timing))    |
+| Blue (down tick)   | Bookmarks                                     |
+| Grey (highlight)   | Break time                                    |
+| Orange (highlight) | Kiai time                                     |
 
 On the right, you can adjust the playback rate from `100%`, to `75%`, `50%`, or `25%`.
 
@@ -41,9 +41,9 @@ There are two different kinds of hit objects timelines depending on which game m
 
 In [compose](/wiki/Compose) mode, this timeline is underneath the `Compose` tab for any game mode except for [osu!mania](/wiki/Game_Modes/osu!mania).
 
-| Name | Description |
-| :-- | :-- |
-| `+`/`-` buttons | Increase/Decrease timeline zoom. |
+| Name                        | Description                                                               |
+| :-------------------------- | :------------------------------------------------------------------------ |
+| `+`/`-` buttons             | Increase/Decrease timeline zoom.                                          |
 | Double white vertical lines | This shows the current timestamp with respect to the hit object timeline. |
 
 Left clicking on a hit object will select it and dragging will move the selected hit object against timeline.
@@ -60,15 +60,15 @@ The box on the left is a horizontal bar chart that displays the note intensity. 
 
 In the centre is the actual playfield. The playfield is made up of two parts: lines and notes.
 
-| Line Colour | Description |
-| :-- | :-- |
-| Thick White | Full measure |
-| White | Common Time |
-| Green | Current timestamp/Judgement line |
+| Line Colour | Description                      |
+| :---------- | :------------------------------- |
+| Thick White | Full measure                     |
+| White       | Common Time                      |
+| Green       | Current timestamp/Judgement line |
 
-| Note Colour | Description |
-| :-- | :-- |
-| Blue | Selected note(s) |
+| Note Colour       | Description             |
+| :---------------- | :---------------------- |
+| Blue              | Selected note(s)        |
 | White/Pink/Yellow | Unselected note colours |
 
 ## Design
@@ -79,9 +79,9 @@ The [design](/wiki/Design) timeline is located underneath the `Design` tab.
 
 ### Timeline
 
-| Name | Description |
-| :-- | :-- |
-| `+`/`-` buttons on left | Increase/Decrease timeline zoom. |
+| Name                              | Description                                                                                            |
+| :-------------------------------- | :----------------------------------------------------------------------------------------------------- |
+| `+`/`-` buttons on left           | Increase/Decrease timeline zoom.                                                                       |
 | `Up`/`Down` arrows on bottom-left | Scroll up/down the transformation timeline (this is to reveal `Colour` or `Movement` on the timeline). |
 
 The centre of the design timeline shows the "keyframes" of the selected sprite.
@@ -90,9 +90,9 @@ The centre of the design timeline shows the "keyframes" of the selected sprite.
 
 The keyframe control adds or removes anchor points. These anchor points set the start and end times for how a sprite should be storyboarded.
 
-| Name | Description |
-| :-- | :-- |
-| `+`/`-` | Add/Delete anchor points for the selected transformation. |
+| Name                  | Description                                                                         |
+| :-------------------- | :---------------------------------------------------------------------------------- |
+| `+`/`-`               | Add/Delete anchor points for the selected transformation.                           |
 | `Left`/`Right` arrows | Skip backwards/forwards to the nearest anchor point of the selected transformation. |
 
 If there is a transformation, that transformation is lighted with it's colour. In addition to this, it will have two separated half-lines that determines the duration. Full white line determines the transformation switching points (e.g. from "going up" to "going down").
@@ -105,8 +105,8 @@ The timing timeline is located underneath the [`Timing`](/wiki/Timing) tab.
 
 ### Timing Timeline
 
-| Name | Description |
-| :-- | :-- |
+| Name                    | Description                      |
+| :---------------------- | :------------------------------- |
 | `+`/`-` buttons on left | Increase/Decrease timeline zoom. |
 
 In the centre is the timing timeline itself. It uses white and blue flags to describe what type of timing point they are; described in the [flag colours](#flag-colours) section.
@@ -117,7 +117,7 @@ The metronome set plays a constant tick sound at the given BPM. This doubles as 
 
 ### Flag Colours
 
-| Colour | Description |
-| :-- | :-- |
-| White | Timing Points. Use new BPM value. (Red on Song Timeline) |
-| Blue | Inherited Points. Slider speed adjuster based on Timing Points' BPM. (Green on Song Timeline) |
+| Colour | Description                                                                                   |
+| :----- | :-------------------------------------------------------------------------------------------- |
+| White  | Timing Points. Use new BPM value. (Red on Song Timeline)                                      |
+| Blue   | Inherited Points. Slider speed adjuster based on Timing Points' BPM. (Green on Song Timeline) |

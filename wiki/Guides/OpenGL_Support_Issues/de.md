@@ -8,8 +8,8 @@ Wenn Sie nicht den richtigen Grafikkartentreiber installiert haben, wird Windows
 
 Als erstes lassen Sie uns überprüfen, ob dies auf Sie zutrifft:
 
-- Rechtsklick auf 'Dieser PC' und wählen Sie 'Eigenschaften' aus oder drücken Sie Windows-Taste + Pause auf Ihrer Tastatur.
-- Wählen Sie Geräte-Manager auf der linken Seite aus.
+-   Rechtsklick auf 'Dieser PC' und wählen Sie 'Eigenschaften' aus oder drücken Sie Windows-Taste + Pause auf Ihrer Tastatur.
+-   Wählen Sie Geräte-Manager auf der linken Seite aus.
 
 Überprüfen Sie, ob Sie Microsoft Basic Display Adapter wie im folgenden Bild benutzen:
 
@@ -17,9 +17,9 @@ Als erstes lassen Sie uns überprüfen, ob dies auf Sie zutrifft:
 
 Bitte laden Sie sich den Treiber von der Webseite des Herstellers Ihrer Grafikkarte herunter. Hier paar allgemeine Links:
 
-- [AMD / ATI](https://amd.com/de/support)
-- [NVIDIA](https://nvidia.de/Download/index.aspx?lang=de)
-- [Intel Grafikkartentreiber](https://downloadcenter.intel.com/de/product/81500/Intel-HD-Grafik-3000)
+-   [AMD / ATI](https://amd.com/de/support)
+-   [NVIDIA](https://nvidia.de/Download/index.aspx?lang=de)
+-   [Intel Grafikkartentreiber](https://downloadcenter.intel.com/de/product/81500/Intel-HD-Grafik-3000)
 
 ## Falsche Bittiefe
 
@@ -27,4 +27,4 @@ Ihr Treiber mag vielleicht richtig sein, aber die Farbbittiefe kann dennoch mög
 
 ## Zusätzliche Hilfe
 
-Wenn Ihr Problem nach den genannten Lösungen immernoch besteht, dann erstellen Sie bitte ein Thread im [Help Forum](https://osu.ppy.sh/community/forums/5) mit dem Output von [diesem Programm](http://realtech-vr.com/home/glview) und Ihrer gl\_info.txt, wenn Sie den Cutting Edge Build benutzen.
+Wenn Ihr Problem nach den genannten Lösungen immernoch besteht, dann erstellen Sie bitte ein Thread im [Help Forum](https://osu.ppy.sh/community/forums/5) mit dem Output von [diesem Programm](http://realtech-vr.com/home/glview) und Ihrer gl_info.txt, wenn Sie den Cutting Edge Build benutzen.

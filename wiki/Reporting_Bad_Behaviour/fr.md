@@ -12,13 +12,13 @@ Cela ne se limite pas au chat en jeu, mais également à d'autres endroits tels 
 
 Utilisation : `!report username [reason]`
 
-Paramètres **[** et **]** sont optionnel
+Paramètres **\[** et **]** sont optionnel
 
-Si l'utilisateur a un espace dans son nom d'utilisateur, il doit être remplacé par un underscore. ``_`` parce que le chat en jeu est basé sur [IRC](/wiki/Internet_Relay_Chat "Internet Relay Chat (IRC)").
+Si l'utilisateur a un espace dans son nom d'utilisateur, il doit être remplacé par un underscore. `_` parce que le chat en jeu est basé sur [IRC](/wiki/Internet_Relay_Chat "Internet Relay Chat (IRC)").
 
-``!report This User Name is spamming in #osu`` se tourne vers``!report This_User_Name is spamming in #osu``
+`!report This User Name is spamming in #osu` se tourne vers`!report This_User_Name is spamming in #osu`
 
-Les reports ne sont pas sensibles à la casse. Vous pouvez donc utiliser des lettres minuscules comme ``this_user_name``.
+Les reports ne sont pas sensibles à la casse. Vous pouvez donc utiliser des lettres minuscules comme `this_user_name`.
 
 ![Exemple d'utilisation de la commande !report](img/Report-command.png "Exemple d'utilisation de la commande !report")
 

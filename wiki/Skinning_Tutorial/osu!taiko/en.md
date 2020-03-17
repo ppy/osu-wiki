@@ -72,11 +72,11 @@ _Default (v1)_
 
 `Taiko-bar-right` and `Taiko-bar-right-glow` - Right part of taiko bar. "Glow" bar appear in kiai time.
 
--    Taiko-bar-right:
-![](fs/taiko-bar-right_ex0.jpg)
+-   Taiko-bar-right:
+    ![](fs/taiko-bar-right_ex0.jpg)
 
--    Taiko-bar-right-glow:
-![](fs/taiko-bar-right_ex1.jpg)
+-   Taiko-bar-right-glow:
+    ![](fs/taiko-bar-right_ex1.jpg)
 
 <!-- TODO images examples -->
 

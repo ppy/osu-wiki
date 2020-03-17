@@ -8,90 +8,90 @@ Si, à un moment quelconque, vous êtes confus et/ou avez besoin d’une aide su
 
 ### Enregistrement
 
-1. [Inscrivez-vous](https://github.com/join) sur GitHub si vous n'avez pas de compte.
+1.  [Inscrivez-vous](https://github.com/join) sur GitHub si vous n'avez pas de compte.
 
-2. [Connecter-vous](https://github.com/login).
+2.  [Connecter-vous](https://github.com/login).
 
-3. Continuez à [Forking](#forking).
+3.  Continuez à [Forking](#forking).
 
 ### Forking
 
-1. Allez au [repo `osu-wiki`](https://github.com/ppy/osu-wiki).
+1.  Allez au [repo `osu-wiki`](https://github.com/ppy/osu-wiki).
 
-2. Cliquez sur `Fork`.
+2.  Cliquez sur `Fork`.
 
-   ![](img/fork.jpg)
+    ![](img/fork.jpg)
 
-3. Cliquez sur `Fork` encore pour aller à votre fork.
+3.  Cliquez sur `Fork` encore pour aller à votre fork.
 
-4. Si vous voyez quelque chose de similaire à l'image ci-dessous cela signifie que vous avez créé un fork de `ppy/osu-wiki` et que vous êtes sur votre fork.
+4.  Si vous voyez quelque chose de similaire à l'image ci-dessous cela signifie que vous avez créé un fork de `ppy/osu-wiki` et que vous êtes sur votre fork.
 
-   ![](img/forked.jpg)
+    ![](img/forked.jpg)
 
-5. Continuez à [Synchroniser votre fork](#synchroniser-votre-fork).
+5.  Continuez à [Synchroniser votre fork](#synchroniser-votre-fork).
 
 ### Synchroniser votre fork
 
-1. Allez à votre fork du `osu-wiki`.
+1.  Allez à votre fork du `osu-wiki`.
 
-2. Au-dessus des fichiers, il y a du texte pour vous dire si votre branche est "en retard", "en avance" ou "la même" que `ppy:master`. S'il indique que la branche est "en retard" ou "en avance" avec un nombre quelconque de commits en arrière-plan, votre branche est obsolète.
+2.  Au-dessus des fichiers, il y a du texte pour vous dire si votre branche est "en retard", "en avance" ou "la même" que `ppy:master`. S'il indique que la branche est "en retard" ou "en avance" avec un nombre quelconque de commits en arrière-plan, votre branche est obsolète.
 
-   ![](img/fork-even.jpg "OK \(Pas de commits et pas obsolètes\)")
+    ![](img/fork-even.jpg "OK (Pas de commits et pas obsolètes)")
 
-   ![](img/fork-ahead.jpg "OK \(Ce sont vos commits\)")
+    ![](img/fork-ahead.jpg "OK (Ce sont vos commits)")
 
-   ![](img/fork-behind.jpg "Potentiellement mauvais \(votre branche est obsolète\)")
+    ![](img/fork-behind.jpg "Potentiellement mauvais (votre branche est obsolète)")
 
-   ![](img/fork-ahead-behind.jpg "Potentiellement mauvais \(votre branche est obsolète avec vos commits\) ")
+    ![](img/fork-ahead-behind.jpg "Potentiellement mauvais (votre branche est obsolète avec vos commits) ")
 
-3. Ce n'est pas vraiment un problème; autrement dit, si vous ne modifiez pas un fichier qui a déjà été modifié, il est peu probable que vous soyez en retard.
+3.  Ce n'est pas vraiment un problème; autrement dit, si vous ne modifiez pas un fichier qui a déjà été modifié, il est peu probable que vous soyez en retard.
 
-4. Pour résoudre ce problème, voir [Ma branche est obsolète ! section de l'article sur les problèmes courants](/wiki/owcg/Common_Issues#ma-branche-n'est-plus-à-jour!).
+4.  Pour résoudre ce problème, voir [Ma branche est obsolète ! section de l'article sur les problèmes courants](/wiki/owcg/Common_Issues#ma-branche-n'est-plus-à-jour!).
 
-5. Lorsque vous avez terminé l’étape 4, passez à [Modification en ligne ou localement](#edition-en-ligne-ou-localement).
+5.  Lorsque vous avez terminé l’étape 4, passez à [Modification en ligne ou localement](#edition-en-ligne-ou-localement).
 
 ## Edition en ligne ou localement
 
 À ce stade, vous avez deux choix:
 
-- [Interface Web GitHub](/wiki/owcg/GitHub_Web_Interface) - éditez en ligne; c'est le meilleur choix pour l'édition d'un seul article
-- [GitHub Desktop](/wiki/owcg/GitHub_Desktop) - éditez localement; ceci est préférable pour les modifications d'article simples et/ou multiples (ceci inclut le téléchargement, la suppression et le déplacement d'images ou de fichiers)
+-   [Interface Web GitHub](/wiki/owcg/GitHub_Web_Interface) - éditez en ligne; c'est le meilleur choix pour l'édition d'un seul article
+-   [GitHub Desktop](/wiki/owcg/GitHub_Desktop) - éditez localement; ceci est préférable pour les modifications d'article simples et/ou multiples (ceci inclut le téléchargement, la suppression et le déplacement d'images ou de fichiers)
 
-*Remarque: vous n'êtes pas limité aux deux choix énumérés ci-dessus pour l'édition. Pour que ce guide soit simple et concis, ces articles ne parleront pas d’utilisation d’autres outils en profondeur ou pas du tout. Il existe d’autres applications tierces qui peuvent faire plus ou moins que ce que font déjà l’Interface Web GitHub et GitHub Desktop.*
+_Remarque: vous n'êtes pas limité aux deux choix énumérés ci-dessus pour l'édition. Pour que ce guide soit simple et concis, ces articles ne parleront pas d’utilisation d’autres outils en profondeur ou pas du tout. Il existe d’autres applications tierces qui peuvent faire plus ou moins que ce que font déjà l’Interface Web GitHub et GitHub Desktop._
 
-**Lorsque vous avez terminé *l'interface Web GitHub* ou *GitHub Desktop*, vous pouvez passer à la section suivante.**
+**Lorsque vous avez terminé _l'interface Web GitHub_ ou _GitHub Desktop_, vous pouvez passer à la section suivante.**
 
 ## Finition
 
 ### Ouvrir un Pull Request
 
-1. Allez au [repo `ppy/osu-wiki`](https://github.com/ppy/osu-wiki).
+1.  Allez au [repo `ppy/osu-wiki`](https://github.com/ppy/osu-wiki).
 
-2. Si vous avez été assez rapide, vous pouvez voir cette bannière jaune.
+2.  Si vous avez été assez rapide, vous pouvez voir cette bannière jaune.
 
-   ![](img/github-recent.jpg)
+    ![](img/github-recent.jpg)
 
-3. Si vous le voyez, cliquez sur le bouton `Compare & pull request` (passez à l'étape 8). Sinon, cliquez sur le bouton `New pull request` (passez à l'étape 4).
+3.  Si vous le voyez, cliquez sur le bouton `Compare & pull request` (passez à l'étape 8). Sinon, cliquez sur le bouton `New pull request` (passez à l'étape 4).
 
-4. Sur la page suivante, si ces deux boutons sont illustrés ci-dessous, cliquez sur le bouton `compare across forks`.
+4.  Sur la page suivante, si ces deux boutons sont illustrés ci-dessous, cliquez sur le bouton `compare across forks`.
 
-   ![](img/compare-across-forks-no.jpg "Pas bien.")
+    ![](img/compare-across-forks-no.jpg "Pas bien.")
 
-5. Cliquez sur la liste déroulante `head fork` et sélectionnez celle avec votre nom d'utilisateur (ce devrait être le deuxième).
+5.  Cliquez sur la liste déroulante `head fork` et sélectionnez celle avec votre nom d'utilisateur (ce devrait être le deuxième).
 
-   ![](img/head-fork.jpg)
+    ![](img/head-fork.jpg)
 
-6. Cliquez sur la liste déroulante `compare` et sélectionnez celle avec la branche que vous avez créée (elles sont classées par ordre alphabétique).
+6.  Cliquez sur la liste déroulante `compare` et sélectionnez celle avec la branche que vous avez créée (elles sont classées par ordre alphabétique).
 
-   ![](img/compare-branch.jpg)
+    ![](img/compare-branch.jpg)
 
-7. Cliquez sur `Create pull request`.
+7.  Cliquez sur `Create pull request`.
 
-8. Entrez le titre en anglais. Cela devrait être une très brève explication de ce que vous avez changé.
+8.  Entrez le titre en anglais. Cela devrait être une très brève explication de ce que vous avez changé.
 
-   Pour les traductions d'articles,incluez le nom de langue en deux lettres de vos traductions entre crochets avant le titre. Votre titre peut simplement être le nom du ou des articles que vous traduisez. Par exemple, `[FR] BBCode` indiquerait que vous mettez à jour la traduction française de l'[article BBCode](/wiki/BBCode).
+    Pour les traductions d'articles,incluez le nom de langue en deux lettres de vos traductions entre crochets avant le titre. Votre titre peut simplement être le nom du ou des articles que vous traduisez. Par exemple, `[FR] BBCode` indiquerait que vous mettez à jour la traduction française de l'[article BBCode](/wiki/BBCode).
 
-9. Remplissez la zone de description avec un résumé de vos modifications. Vous devez mentionner toute informations pertinentes à votre demande d'extraction, telle que son statut d'achèvement et tout ce que vous souhaitez que les réviseurs sachent. Vous pouvez également faire en sorte que votre demande d'extraction ferme automatiquement les problèmes de fusion en écrivant "resolves #1" ou "closes #1", dans la description. (voir [Fermer des issues en utilisant des mots clés](https://help.github.com/articles/closing-issues-using-keywords/) sur l'aide de GitHub).
+9.  Remplissez la zone de description avec un résumé de vos modifications. Vous devez mentionner toute informations pertinentes à votre demande d'extraction, telle que son statut d'achèvement et tout ce que vous souhaitez que les réviseurs sachent. Vous pouvez également faire en sorte que votre demande d'extraction ferme automatiquement les problèmes de fusion en écrivant "resolves #1" ou "closes #1", dans la description. (voir [Fermer des issues en utilisant des mots clés](https://help.github.com/articles/closing-issues-using-keywords/) sur l'aide de GitHub).
 
 10. Une fois que vous êtes prêt, cliquez sur `Create pull request`.
 

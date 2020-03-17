@@ -10,11 +10,11 @@ outdated: true
 
 一般来说谱面会有以下几种难度：
 
-- Easy
-- Normal
-- Hard
-- Insane
-- Expert
+-   Easy
+-   Normal
+-   Hard
+-   Insane
+-   Expert
 
 单击以上链接都可以看到各难度相对应的一些[制图者在制作一个玩起来令人愉快的](/wiki/Glossary)[谱面时应该遵循的](/wiki/Beatmaps)[难度设置](/wiki/Difficulties)。
 

@@ -3,12 +3,17 @@ needs_cleanup: true
 ---
 
 <!-- wikilink -->
+
 [osu!stream wikilink]: /wiki/Game_Modes/External_Ports/osu!stream "osu!stream by osu! team"
 
 <!-- shared image -->
+
 [osu! icon link]: /wiki/shared/mode/osu.png "osu! icon"
+
 [osu!taiko icon link]: /wiki/shared/mode/taiko.png "osu!taiko icon"
+
 [osu!catch icon link]: /wiki/shared/mode/catch.png "osu!catch icon"
+
 [osu!mania icon link]: /wiki/shared/mode/mania.png "osu!mania icon"
 
 [osu!tablet image]: /wiki/shared/Osu!tablet.jpg "osu!tablet"
@@ -84,9 +89,9 @@ The play style can be similar to Tablet + Keyboard as some monitors allows for a
 
 ### Other styles
 
-- **Laptop touchpad/trackpad**: While being theoretically possible, most players prefer not to use a trackpad because of the extreme difficulty involved (specifically, controlling the cursor movement on the limited space of the laptop touchpad/trackpad). The trackpad is used (instead of a mouse) to navigate the in-game cursor.
-- **Joystick**: A creative way to control osu!cursor. Player hold and move the joystick around to move the osu!cursor and taps on the trigger/face buttons (depending on player's joystick design) or keyboard keys to register the beats. It is least preferred because the skill required to control the joystick movement and most don't own it unless they also play other games ([World of Warplanes](https://wikipedia.org/wiki/World_of_Warplanes) for example).
-- **Metal plate**: A special way to replace the keyboard for tapping beats. This method was introduced by ![USA Flag](/wiki/shared/flag/US.gif "USA Flag") [geckogates](https://osu.ppy.sh/users/geckogates) and requires some wiring and electronic knowledge to build. The player will attach a wire to the clicking fingers (connected to keyboard's circuit for `Z` and `X`) and will touch the metal plates to register beats.
+-   **Laptop touchpad/trackpad**: While being theoretically possible, most players prefer not to use a trackpad because of the extreme difficulty involved (specifically, controlling the cursor movement on the limited space of the laptop touchpad/trackpad). The trackpad is used (instead of a mouse) to navigate the in-game cursor.
+-   **Joystick**: A creative way to control osu!cursor. Player hold and move the joystick around to move the osu!cursor and taps on the trigger/face buttons (depending on player's joystick design) or keyboard keys to register the beats. It is least preferred because the skill required to control the joystick movement and most don't own it unless they also play other games ([World of Warplanes](https://wikipedia.org/wiki/World_of_Warplanes) for example).
+-   **Metal plate**: A special way to replace the keyboard for tapping beats. This method was introduced by ![USA Flag](/wiki/shared/flag/US.gif "USA Flag") [geckogates](https://osu.ppy.sh/users/geckogates) and requires some wiring and electronic knowledge to build. The player will attach a wire to the clicking fingers (connected to keyboard's circuit for `Z` and `X`) and will touch the metal plates to register beats.
 
 ## ![osu!taiko][osu!taiko icon link] osu!taiko
 
@@ -112,7 +117,7 @@ Most Taiko controllers connect to the computer by using Bluetooth connector shou
 
 ### Other styles
 
-- **Gamepad**: One of the possible play-style in console variation of Taiko no Tatsujin series (including Taiko Drum Master). Players register Don/Katu by pressing the face (Right Don, or Right Red), arrow (Left Don, or Left Red) and upper buttons (Left/Right Katu, or Left/Right Blue).
+-   **Gamepad**: One of the possible play-style in console variation of Taiko no Tatsujin series (including Taiko Drum Master). Players register Don/Katu by pressing the face (Right Don, or Right Red), arrow (Left Don, or Left Red) and upper buttons (Left/Right Katu, or Left/Right Blue).
 
 ## ![osu!catch][osu!catch icon link] osu!catch
 
@@ -173,5 +178,5 @@ Another drawback is that osu!mania maps may have been designed without dance gam
 
 ### Other styles
 
-- **Guitar/Drum set**(5/6K): The default controller for guitar-themed([Guitar Hero](https://wikipedia.org/wiki/Guitar_Hero))/drum-themed([Drummania](https://wikipedia.org/wiki/Drum_Mania)) rhythm game. Players streams on their guitar/hit the drum or cymbals to input commands. Drum players have a disadvantage compared to guitar players because they can only input two commands at a time without a special kick pedal.
-- **Para Para controller**(5K): The default controller for [Para Para Paradise](https://wikipedia.org/wiki/Para_Para_Paradise) series. Players move their arms, elbows and hands straight above the proximity sensors to input commands based on hand position through the proximity sensors. The drawback is the sensitive input receiver and player's physical limitation.
+-   **Guitar/Drum set**(5/6K): The default controller for guitar-themed([Guitar Hero](https://wikipedia.org/wiki/Guitar_Hero))/drum-themed([Drummania](https://wikipedia.org/wiki/Drum_Mania)) rhythm game. Players streams on their guitar/hit the drum or cymbals to input commands. Drum players have a disadvantage compared to guitar players because they can only input two commands at a time without a special kick pedal.
+-   **Para Para controller**(5K): The default controller for [Para Para Paradise](https://wikipedia.org/wiki/Para_Para_Paradise) series. Players move their arms, elbows and hands straight above the proximity sensors to input commands based on hand position through the proximity sensors. The drawback is the sensitive input receiver and player's physical limitation.

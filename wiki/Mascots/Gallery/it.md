@@ -4,14 +4,14 @@ outdated: true
 
 # Gallery
 
-***[Clicca per tonare alla pagina delle Mascotte](/wiki/Mascots)***
+**_[Clicca per tonare alla pagina delle Mascotte](/wiki/Mascots)_**
 
 ## Originali osu!
 
 ### Pippi originali (vestito da idol)
 
 ![Concept di pippi da Sarumaru.](img/pippi-original-concept.jpg "Concept di pippi da Sarumaru.")
-![Combo Burst della (vecchia) skin "osu!default di peppy".](img/pippi-original-comboburst.png "Combo Burst della (vecchia) skin \"osu!default di peppy\".")
+![Combo Burst della (vecchia) skin "osu!default di peppy".](img/pippi-original-comboburst.png 'Combo Burst della (vecchia) skin \"osu!default di peppy\".')
 ![Chibi-pippi (Immagine di Testata).](img/pippi-original-header.jpg "Chibi-pippi (Immagine di Testata).")
 ![Immagine di errore 404](img/pippi-original-website-404.jpg "Immagine di errore 404")
 ![Illustrazione di pippi di Daru (si può trovare nel osu!installer).](img/pippi-original-installer.jpg "Illustrazione di pippi di Daru (si può trovare nel osu!installer).")
@@ -20,7 +20,7 @@ outdated: true
 ### Pippi corrente (outfit da DJ)
 
 ![pippi (Nuova revisione di Daru).](img/pippi-Daru-redesigned.png "pippi (Nuova revisione di Daru).")
-![Combo Burst della skin "osu! di peppy".](img/pippi-Daru-comboburst.png "Combo Burst della skin \"osu! di peppy\".")
+![Combo Burst della skin "osu! di peppy".](img/pippi-Daru-comboburst.png 'Combo Burst della skin \"osu! di peppy\".')
 ![Immagine di errore 404.](img/pippi-Daru-404.png "Immagine di errore 404.")
 
 ### Yuzu

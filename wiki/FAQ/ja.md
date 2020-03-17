@@ -19,9 +19,9 @@ outdated: true
 
 ### このPCで動く？
 
-- 1GHz+ Processor
-- 512MB+ RAM
-- [Microsoft .NET Framework](http://www.microsoft.com/download/en/details.aspx?displaylang=en&id=19) (2.0+, 32bit)
+-   1GHz+ Processor
+-   512MB+ RAM
+-   [Microsoft .NET Framework](http://www.microsoft.com/download/en/details.aspx?displaylang=en&id=19) (2.0+, 32bit)
 
 これを満たしていれば一応動きます。
 快適にプレイするならもう少しスペックがあると良いです。
@@ -34,22 +34,22 @@ outdated: true
 
 ### Ranked MapとかApproved MapとかPending Mapとか色々あるけど何？
 
-- Ranked Map
-- Approved Map
-- Pending Map
+-   Ranked Map
+-   Approved Map
+-   Pending Map
 
 と大きく3つに分かれます。
 クリアしたときにステータスに影響を及ぼす範囲が違います。
 
-- Ranked MapはRankedScore ACC TotalScore PlayCountの3つに影響
-- Approved MapはACCとPlayCountに影響
-- Pending Mapは一切影響しません
+-   Ranked MapはRankedScore ACC TotalScore PlayCountの3つに影響
+-   Approved MapはACCとPlayCountに影響
+-   Pending Mapは一切影響しません
 
 またPending Mapにも主に3種類あり、
 
-- 作成終了が終わってRanked Mapへの承認待ちの段階のPending
-- ビートマップを作っている最中のWork In Progress/Help Map
-- 上記2つのどちらかに該当している状態で一定期間更新がなくRankedなどにもなっていない状態で放置されたGraveyard
+-   作成終了が終わってRanked Mapへの承認待ちの段階のPending
+-   ビートマップを作っている最中のWork In Progress/Help Map
+-   上記2つのどちらかに該当している状態で一定期間更新がなくRankedなどにもなっていない状態で放置されたGraveyard
 
 と3つに分かれます。
 

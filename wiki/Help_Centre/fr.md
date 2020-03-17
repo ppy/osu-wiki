@@ -26,7 +26,7 @@ Si votre compte a été restreint, vous pourrez en savoir les raisons après une
 
 Dans les situations où nous sommes absolument assurés que des actes fautifs ont été commis, nous vous demanderons d'attendre une période de **3 mois** à compter de la date de votre dernière infraction avant de prendre en compte un appel pour vous laisser retourner en jeu.
 
-Reférez-vous à la section *[Restrictions de compte](/wiki/Help_Centre/Account_Restrictions)* pour plus d'informations sur les restrictions de compte et le processus d'appel.
+Reférez-vous à la section _[Restrictions de compte](/wiki/Help_Centre/Account_Restrictions)_ pour plus d'informations sur les restrictions de compte et le processus d'appel.
 
 ### Connexion
 
@@ -38,10 +38,10 @@ Si cela ne fonctionne pas pour vous (ou que vous n'avez pas accès à l'adresse 
 
 Les informations importantes à inclure dans votre e-mail seraient:
 
-- L'adresse e-mail avec laquelle vous avez enregistré votre compte, ou n'importe quel e-mail associé à votre compte depuis le début
-- N'importe quel reçu d'un achat de supporter tag ou sur le magasin (osu!store)
-- La dernière date à laquelle vous vous êtes connecté à votre compte normalement
-- N'importe quelles informations vous identifiant et que vous pensez utiles (excluant des scores ou des replays, ça ne nous aiderait pas beaucoup !)
+-   L'adresse e-mail avec laquelle vous avez enregistré votre compte, ou n'importe quel e-mail associé à votre compte depuis le début
+-   N'importe quel reçu d'un achat de supporter tag ou sur le magasin (osu!store)
+-   La dernière date à laquelle vous vous êtes connecté à votre compte normalement
+-   N'importe quelles informations vous identifiant et que vous pensez utiles (excluant des scores ou des replays, ça ne nous aiderait pas beaucoup !)
 
 #### On m'a volé mon compte !
 
@@ -73,13 +73,13 @@ Si vous avez perdu le mot de passe de votre compte et que vous ne recevez aucun 
 
 Enfin, nous savons que certains fournisseurs n'acceptent pas d'e-mails automatiques venant de nous. Si vous utilisez l'un de ces fournisseurs, veuillez nous contacter par e-mail et nous changerons votre adresse e-mail pour vous:
 
-- `att.net`
-- `bellsouth.net`
-- `free.fr`
-- `i.ua`
-- `laposte.net`
-- `sbcglobal.net`
-- `t-online.de`
+-   `att.net`
+-   `bellsouth.net`
+-   `free.fr`
+-   `i.ua`
+-   `laposte.net`
+-   `sbcglobal.net`
+-   `t-online.de`
 
 ### Changements de nom
 
@@ -177,7 +177,7 @@ Sur le nouveau site web, un filtre est disponible en cliquant sur "plus de crit�
 
 Malheureusement, nous ne gardons pas de liste des beatmaps que vous téléchargez, il est donc impossible d'en avoir une liste. Le moyen qui s'en rapproche le plus serait d'utiliser la méthode mentionnée ci-dessus pour retrouver les maps que vous avez déjà jouées.
 
----
+* * *
 
 ## Client
 
@@ -193,12 +193,12 @@ Ce problème est quelques fois causé par une interaction avec le mode compatibi
 
 Pour vérifier ou changer le fait que le jeu se trouve en mode compatibilité Windows, essayez les étapes suivantes:
 
-1. Ouvrez le dossier où est installé osu! et trouvez le fichier `osu!.exe`.
-2. Cliquez-droit sur `osu!.exe` et sélectionnez `Propriétés` dans le menu.
-3. Sélectionnez l'onglet `Compatibilité`.
-4. Cherchez la case à cocher `Exécuter ce programme en mode compatibilité` dans la section intitulée `Mode de compatibilité`.
-5. Si la case est cochée, cliquez dessus pour désactiver cette fonctionnalité.
-6. Si votre jeu est déjà ouvert, fermez-le et rouvrez-le.
+1.  Ouvrez le dossier où est installé osu! et trouvez le fichier `osu!.exe`.
+2.  Cliquez-droit sur `osu!.exe` et sélectionnez `Propriétés` dans le menu.
+3.  Sélectionnez l'onglet `Compatibilité`.
+4.  Cherchez la case à cocher `Exécuter ce programme en mode compatibilité` dans la section intitulée `Mode de compatibilité`.
+5.  Si la case est cochée, cliquez dessus pour désactiver cette fonctionnalité.
+6.  Si votre jeu est déjà ouvert, fermez-le et rouvrez-le.
 
 #### Avez-vous un navigateur par défaut ?
 
@@ -206,10 +206,10 @@ Pour vérifier ou changer le fait que le jeu se trouve en mode compatibilité Wi
 
 Pour vérifier cela, essayez les étapes suivantes (pour Windows 8 et supérieur):
 
-1. Ouvrez le menu Démarrer.
-2. Écrivez `défaut` dans la barre de recherche.
-3. Si vous voyez `Programmes par défaut`, cliquez dessus. Si vous ne le voyez pas, étendez votre recherche en écrivant `Programmes par défaut`.
-4. Descendez jusqu'à `Navigateur Web` et vérifiez qu'un navigateur est défini.
+1.  Ouvrez le menu Démarrer.
+2.  Écrivez `défaut` dans la barre de recherche.
+3.  Si vous voyez `Programmes par défaut`, cliquez dessus. Si vous ne le voyez pas, étendez votre recherche en écrivant `Programmes par défaut`.
+4.  Descendez jusqu'à `Navigateur Web` et vérifiez qu'un navigateur est défini.
 
 #### Mon jeu ne se met pas à jour correctement !
 
@@ -227,19 +227,19 @@ Vous pouvez également forcer le jeu à se mettre à jour.
 
 **Cela peut être changé dans le menu Options du jeu.**
 
-1. Ouvrez osu!.
-2. Entrez dans le menu `Options` ou appuyez sur `Control` + `O` par défaut.
-3. Écrivez `release` dans la recherche rapide pour accéder directement à l'option.
-4. Assure-vous que le menu déroulant indique `Stable` pour recevoir la dernière version stable du jeu.
+1.  Ouvrez osu!.
+2.  Entrez dans le menu `Options` ou appuyez sur `Control` + `O` par défaut.
+3.  Écrivez `release` dans la recherche rapide pour accéder directement à l'option.
+4.  Assure-vous que le menu déroulant indique `Stable` pour recevoir la dernière version stable du jeu.
 
 #### Comment forcer le jeu à se mettre à jour ?
 
 **Vous pouvez forcer le jeu à se mettre à jour via le menu d'options.**
 
-1. Ouvrez osu!.
-2. Entrez dans le menu `Options` ou appuyez sur `Control` + `O` par défaut.
-3. Écrivez `update` dans la recherche rapide.
-4. Cliquez sur le bouton `Lancer le logiciel de mise à jour`.
+1.  Ouvrez osu!.
+2.  Entrez dans le menu `Options` ou appuyez sur `Control` + `O` par défaut.
+3.  Écrivez `update` dans la recherche rapide.
+4.  Cliquez sur le bouton `Lancer le logiciel de mise à jour`.
 
 Vous pouvez forcer le jeu à se mettre à jour en créant un fichier nommé `help.txt` dans le dossier d'osu!. Ce fichier n'a pas besoin de contenir quelque chose - il a juste besoin d'exister, et le jeu se forcera à se mettre à jour la prochaine fois que vous le lancerez.
 
@@ -251,11 +251,11 @@ Si vous avez cette erreur en ouvrant osu! ou son logiciel de mise à jour, cela 
 
 Voici une collection de polices communément utilisées dans différentes versions de Windows:
 
-- [Microsoft core web fonts](https://web.archive.org/web/20020124085641/http://www.microsoft.com/typography/fontpack/default.htm) (spécialement Arial, Times New Roman, Trebuchet MS, et Verdana)
-- [Tahoma](https://freefontsfamily.com/tahoma-font-free)
-- [Windows Live Essentials](https://support.microsoft.com/en-us/help/2434419/windows-live-essentials-2011) (Segoe UI)
-- [Powerpoint 2007 Viewer](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=048dc840-14e1-467d-8dca-19d2a8fd7485&displaylang=en&pf=true) (Cleartype family--Calibri, Consolas, Corbel, ... Rien dans osu! ou votre système ne dépend d'elles, mais ces polices sont superbes ! Téléchargez-les maintenant gogo !)
-- [Microsoft JhengHei](http://www.microsoft.com/download/en/details.aspx?DisplayLang=en&id=12072) (微軟正黑體) (Police du Chinois Traditionnel UI)
+-   [Microsoft core web fonts](https://web.archive.org/web/20020124085641/http://www.microsoft.com/typography/fontpack/default.htm) (spécialement Arial, Times New Roman, Trebuchet MS, et Verdana)
+-   [Tahoma](https://freefontsfamily.com/tahoma-font-free)
+-   [Windows Live Essentials](https://support.microsoft.com/en-us/help/2434419/windows-live-essentials-2011) (Segoe UI)
+-   [Powerpoint 2007 Viewer](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=048dc840-14e1-467d-8dca-19d2a8fd7485&displaylang=en&pf=true) (Cleartype family--Calibri, Consolas, Corbel, ... Rien dans osu! ou votre système ne dépend d'elles, mais ces polices sont superbes ! Téléchargez-les maintenant gogo !)
+-   [Microsoft JhengHei](http://www.microsoft.com/download/en/details.aspx?DisplayLang=en&id=12072) (微軟正黑體) (Police du Chinois Traditionnel UI)
 
 Voir [ce sujet](https://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a) dans Microsoft Answers pour plus d'informations, et d'autres options pour les retrouver.
 
@@ -309,7 +309,7 @@ Jouer ou faire autre chose permet au jeu de se rattraper.
 
 #### Quel est ce trait blanc ressemblant à de la fumée derrière mon curseur ?
 
-**C'est une fonctionnalité spéciale appelée *smoke*, elle peut être utilisée pour dessiner sur votre aire de jeu pour le fun. Tous les spectateurs peuvent voir ce que vous dessinez.**
+**C'est une fonctionnalité spéciale appelée _smoke_, elle peut être utilisée pour dessiner sur votre aire de jeu pour le fun. Tous les spectateurs peuvent voir ce que vous dessinez.**
 
 La touche par défaut pour cette fonctionnalité est `C`, et cela fonctionnera tant que vous maintenez la touche enfoncée. Vous pouvez la changer dès que vous le souhaitez dans la section `osu! Standard Mode` dans le dialogue d'option `Changer les touches`.
 
@@ -365,7 +365,7 @@ Si vous n'avez pas pu poster un score à cause de raisons techniques ou autre, l
 
 #### Les notes semblent être désynchronisées avec la musique !
 
-**Cela peut être dû à un logiciel de traitement de son, comme *Razer Surround Audio*. Cela peut être aussi dû à votre `Décalage Audio` mal configuré.**
+**Cela peut être dû à un logiciel de traitement de son, comme _Razer Surround Audio_. Cela peut être aussi dû à votre `Décalage Audio` mal configuré.**
 
 Fermez tous les logiciels qui peuvent altérer ou influencer le son provenant de votre ordinateur. Si ça n'aide pas, vous pouvez essayer d'ajuster votre `Décalage Audio`.
 
@@ -373,9 +373,9 @@ Chaque configuration matérielle a un `Décalage Audio` qui détermine si vous e
 
 Les valeurs par défaut fonctionnent pour la plupart des gens, mais si ce n'est pas votre cas, vous pouvez le changer en suivant les étapes suivantes:
 
-- Allez dans le menu `Options`, et trouvez le glissoire `Décalage Audio` sous l'en-tête `Décalage Audio`. La valeur par défaut est 0, et vous devriez la changer si besoin.
-- Si la valeur par défaut (0) ne vous convient pas, essayez le bouton `Démarrer l'assistant` pour en définir une nouvelle.
-- Si ça ne vous convient toujours pas, vous devriez mettre à jour vos pilotes audio.
+-   Allez dans le menu `Options`, et trouvez le glissoire `Décalage Audio` sous l'en-tête `Décalage Audio`. La valeur par défaut est 0, et vous devriez la changer si besoin.
+-   Si la valeur par défaut (0) ne vous convient pas, essayez le bouton `Démarrer l'assistant` pour en définir une nouvelle.
+-   Si ça ne vous convient toujours pas, vous devriez mettre à jour vos pilotes audio.
 
 #### J'ai des pics de lag en jouant !
 
@@ -413,7 +413,7 @@ La solution est simple: débranchez votre hub USB. Si la latence disparaît, vou
 
 #### Est-ce qu'osu! tourne en mode fenêtré ou sans bordures ?
 
-**Ces deux modes introduisent un délai *considérable*. Le plein écran est optimal pour la meilleure expérience de jeu.**
+**Ces deux modes introduisent un délai _considérable_. Le plein écran est optimal pour la meilleure expérience de jeu.**
 
 ##### Est-ce que votre jeu gèle ou quelque chose comme ça ?
 
@@ -437,7 +437,7 @@ Ne vous inquiétez pas, ça ne fait rien de mal (même si c'est pas beau !). Ça
 
 Vous pouvez aussi jouer en mode fenêtré ou sans bordure, ce qui utilisera le VSync de votre système d'exploitation.
 
-Activer le VSync ou jouer en mode fenêtré ou sans bordure introduira une *légère* latence, malheureusement. Pour la plupart des gens, cela ne causera pas de gros problèmes.
+Activer le VSync ou jouer en mode fenêtré ou sans bordure introduira une _légère_ latence, malheureusement. Pour la plupart des gens, cela ne causera pas de gros problèmes.
 
 Les cartes graphiques Nvidia récentes ont une option globale dans le Panneau de Contrôle Nvidia pour définir le taux de refraîchissement global, vous pouvez le mettre sur 'Fast', ce qui corrigera aussi ce problème.
 
@@ -455,13 +455,13 @@ Voilà quelques manières de permettre à une application d'accéder à Internet
 
 Pour s'assurer qu'osu! peut accéder à Internet, vous devez le vérifier sur le Pare-feu Windows. Voilà comment vérifier et autoriser osu! dans la liste des programmes:
 
-1. Ouvrez le menu Démarrer.
-2. Écrivez `autoriser une application` dans la barre de recherche.
-3. `Autoriser une application via le pare-feu Windows` devrait être visible. Cliquez dessus.
-4. Un panneau avec une grande liste d'application s'affichera, avec deux cases à cocher après elle. Cliquez sur n'importe quelle application, puis appuyez sur la touche `o`. La liste défilera jusqu'aux applications commençants par 'o'.
-5. Recherchez `osu!` ou `osu!.exe`.
-6. Si aucun de ces deux mots ne sont présents, cliquez sur `Autoriser une autre application` en bas du panneau et cherchez le dossier d'installation d'osu!, puis choisissez `osu!.exe`.
-7. Assurez-vous que les cases `Privé` et `Public` sont cochées. Cliquez sur OK pour sauvegarder les paramètres et réessayez.
+1.  Ouvrez le menu Démarrer.
+2.  Écrivez `autoriser une application` dans la barre de recherche.
+3.  `Autoriser une application via le pare-feu Windows` devrait être visible. Cliquez dessus.
+4.  Un panneau avec une grande liste d'application s'affichera, avec deux cases à cocher après elle. Cliquez sur n'importe quelle application, puis appuyez sur la touche `o`. La liste défilera jusqu'aux applications commençants par 'o'.
+5.  Recherchez `osu!` ou `osu!.exe`.
+6.  Si aucun de ces deux mots ne sont présents, cliquez sur `Autoriser une autre application` en bas du panneau et cherchez le dossier d'installation d'osu!, puis choisissez `osu!.exe`.
+7.  Assurez-vous que les cases `Privé` et `Public` sont cochées. Cliquez sur OK pour sauvegarder les paramètres et réessayez.
 
 ##### Autoriser une application dans le Pare-feu AVG
 
@@ -481,8 +481,8 @@ Veuillez consulter la [base de connaissances officielle de McAfee sur le sujet](
 
 Si vous avez toujours des problèmes de connexion à nos serveurs, vous pouvez soumettre un ticket au support en envoyant un e-mail à [accounts@ppy.sh](mailto:accounts@ppy.sh). Les informations suivantes nous aiderons à résoudre votre problème rapidement:
 
-- Le journal de sortie de la commande `tracert` pour les serveurs `cho.ppy.sh`, `osu.ppy.sh` and `m1.ppy.sh` (voir les instructions ci-dessous)
-- Le fichier `network.log` du dossier `Logs` situé dans le dossier d'installation d'osu!
+-   Le journal de sortie de la commande `tracert` pour les serveurs `cho.ppy.sh`, `osu.ppy.sh` and `m1.ppy.sh` (voir les instructions ci-dessous)
+-   Le fichier `network.log` du dossier `Logs` situé dans le dossier d'installation d'osu!
 
 ##### Faire un suivi pour trouver les problèmes de connexion
 
@@ -504,11 +504,11 @@ Pour copier les résultats de la commande, faites simplement un clic et maintene
 
 Suivez ces étapes pour réinitialiser les paramètres d'osu! :
 
-1. Maintenez `Shift` appuyé.
-2. Double-cliquez sur l'icône d'osu!, tout en maintenant `Shift`.
-3. Continuez de maintenir `Shift` jusqu'à ce que vous voyiez le dialogue de configuration d'osu!.
-4. Lorsque le dialogue `osu! configuration` s'ouvre, cliquez sur le bouton `reset settings`.
-5. Si cela ne fonctionne toujours pas, rouvrez le dialogue et cliquez sur `repair osu!`.
+1.  Maintenez `Shift` appuyé.
+2.  Double-cliquez sur l'icône d'osu!, tout en maintenant `Shift`.
+3.  Continuez de maintenir `Shift` jusqu'à ce que vous voyiez le dialogue de configuration d'osu!.
+4.  Lorsque le dialogue `osu! configuration` s'ouvre, cliquez sur le bouton `reset settings`.
+5.  Si cela ne fonctionne toujours pas, rouvrez le dialogue et cliquez sur `repair osu!`.
 
 #### Je suis devenu supporter mais mon nom n'est pas jaune dans le chat !
 
@@ -524,9 +524,9 @@ Cela aide à s'identifier et à séparer ses messages des autres. Il n'y a pas d
 
 Pour voir quelle est la limite actuelle, essayez les étapes suivantes:
 
-1. Ouvrez osu!.
-2. Ouvrez le menu `Options` ou faites la combinaison `Control` + `O` par défaut.
-3. Écrivez `frame` pour configurer l'option de limite d'images par seconde.
+1.  Ouvrez osu!.
+2.  Ouvrez le menu `Options` ou faites la combinaison `Control` + `O` par défaut.
+3.  Écrivez `frame` pour configurer l'option de limite d'images par seconde.
 
 Si votre limite est à Illimité, vous devriez remarquer un changement en le changeant en une des autres options.
 
@@ -558,7 +558,7 @@ Si tout ce que nous vous avons proposé précédemment ne vous a pas aidé, envo
 
 ### Je ne peux maintenir que quelques touches à la fois quand je joue à osu!mania.
 
-**C'est dû à un problème venant du clavier nommé *ghosting*.**
+**C'est dû à un problème venant du clavier nommé _ghosting_.**
 
 Le ghosting est un sujet un peu complexe, mais pour faire simple, c'est un problème qui vient de la façon dont votre clavier a été fait et qui vous empêche de faire certaines combinaisons de touches.
 
@@ -568,7 +568,7 @@ Vous pouvez tester les limites de votre clavier en utilisant l'[utilitaire Anti-
 
 Alors que les Critères de Classement pour osu!mania essayent d'éviter ces problèmes en n'autorisant pas les combinaisons dépassant 6 notes, vous pouvez rencontrer ce problème si votre clavier est ancien.
 
-La seule vraie solution est d'acheter un clavier qui supporte plusieurs touches à la fois. Vous seriez intéressé par une fonction nommée *n-key rollover* (ou *NKRO*). Les claviers NKRO n'ont pas de problèmes de ghosting pour la plus grande partie, mais sont généralement chers.
+La seule vraie solution est d'acheter un clavier qui supporte plusieurs touches à la fois. Vous seriez intéressé par une fonction nommée _n-key rollover_ (ou _NKRO_). Les claviers NKRO n'ont pas de problèmes de ghosting pour la plus grande partie, mais sont généralement chers.
 
 #### Mon curseur devient fou !
 
@@ -576,9 +576,9 @@ La seule vraie solution est d'acheter un clavier qui supporte plusieurs touches 
 
 Un exemple de ce phénomène est de grands sauts, particulièrement avec une tablette.
 
-Changer la sensibilité en jeu à 1.0x (qui est la valeur par défaut) devrait régler le problème, mais peut ralentir votre curseur. Nous suggérons le *contournage du pilote du dispositif de pointage* dans les options du jeu et utiliser les pilotes pour changer la sensibilité.
+Changer la sensibilité en jeu à 1.0x (qui est la valeur par défaut) devrait régler le problème, mais peut ralentir votre curseur. Nous suggérons le _contournage du pilote du dispositif de pointage_ dans les options du jeu et utiliser les pilotes pour changer la sensibilité.
 
-Vous pouvez aussi ajuster le *DPI* de votre souris, si vous en utilisez une. Un haut DPI permet une meilleure précision de la position du curseur en jeu et peut réduire tout mouvement non voulu.
+Vous pouvez aussi ajuster le _DPI_ de votre souris, si vous en utilisez une. Un haut DPI permet une meilleure précision de la position du curseur en jeu et peut réduire tout mouvement non voulu.
 
 Nous vous suggérons aussi de nettoyer vos périphériques. Un cheveu ou une poussière au niveau du détecteur de la souris peut vraiment lui faire effectuer d'étranges mouvements.
 
@@ -588,10 +588,10 @@ Nous vous suggérons aussi de nettoyer vos périphériques. Un cheveu ou une pou
 
 Pour l'activer, essayez les étapes suivantes:
 
-1. Ouvrez osu!.
-2. Entrez dans le menu `Options` ou appuyez sur `Control` + `O` par défaut.
-3. Écrivez `raw` dans la recherche rapide pour vous retrouver tout de suite dans l'option.
-4. Cliquez sur le bouton radio `Contourner le pilote du dispositif de pointage`.
+1.  Ouvrez osu!.
+2.  Entrez dans le menu `Options` ou appuyez sur `Control` + `O` par défaut.
+3.  Écrivez `raw` dans la recherche rapide pour vous retrouver tout de suite dans l'option.
+4.  Cliquez sur le bouton radio `Contourner le pilote du dispositif de pointage`.
 
 #### Je joue sur tablette et mon curseur est trop lent !
 
@@ -609,7 +609,7 @@ Toutes les tablettes osu! supportent le contournage du pilote du dispositif de p
 
 **C'est généralement dû à un appareil connecté à votre ordinateur. Essayez de débrancher toutes manettes et joysticks.**
 
-Les applications émulant ou changeant les affectations comme *Xpadder* ou *X-Mouse Button Control* peuvent aussi en être la cause. Essayez de les désactiver si vous les utilisez pour d'autres jeux.
+Les applications émulant ou changeant les affectations comme _Xpadder_ ou _X-Mouse Button Control_ peuvent aussi en être la cause. Essayez de les désactiver si vous les utilisez pour d'autres jeux.
 
 Le pad numérique peut aussi être fautif, puisqu'il peut être utilisé pour se déplacer dans la sélection des musiques. Appuyez sur la touche `NumLock` pour le désactiver et appuyez soit sur `9` soit sur `3` sur le pavé numérique pour corriger cela.
 
@@ -623,7 +623,7 @@ La plupart des packs sont des `.rar`, ce qui signifie que c'est une archive comp
 
 Une fois que tous les fichiers `.osz` sont dans le dossier Songs, Appuyez sur `F5` dans l'écran de sélection des musiques, ce qui va rafraîchir le cache des beatmaps et charger les nouvelles beatmaps.
 
----
+* * *
 
 ## Site Web
 
@@ -657,10 +657,10 @@ Dans le cas où un autre utilisateur vous harcèle via messages privés, forums 
 
 **Pour empêcher un utilisateur de vous contacter en jeu, ajoutez-le simplement à la liste d'utilisateurs ignorés.**
 
-1. Cliquez sur le bouton d'options en jeu
-2. Écrivez 'ignore' pour rechercher l'option dans la section "Chat Ignore List".
-3. Ajoutez l'utilisateur souhaité dans la liste, chacun séparé par un espace, et remplacez chaque espace dans son nom par un underscore (Un utilisateur nommé *The Gatekeeper* devient *The\_Gatekeeper* par exemple).
-4. C'est bon !
+1.  Cliquez sur le bouton d'options en jeu
+2.  Écrivez 'ignore' pour rechercher l'option dans la section "Chat Ignore List".
+3.  Ajoutez l'utilisateur souhaité dans la liste, chacun séparé par un espace, et remplacez chaque espace dans son nom par un underscore (Un utilisateur nommé _The Gatekeeper_ devient _The_Gatekeeper_ par exemple).
+4.  C'est bon !
 
 Vous ne recevrez ni messages publics, ni messages privés venant des utilisateurs de cette liste.
 
@@ -670,10 +670,10 @@ Si vous voulez ignorer les pings, les messages privés, ou les messages publics,
 
 Si vous voulez empêcher tous ceux qui ne sont pas vos amis de vous envoyer des messages privés, suivez les étapes suivantes. **Sachez que les modérateurs ne sont pas affectés pas cette fonctionnalité et pourront toujours vous envoyer des messages privés. Si un modérateur vous dérange beaucoup, vous devriez contacter l'[équipe du support](mailto:support@ppy.sh).**
 
-1. Cliquez sur le bouton `Options` en jeu ou appuyez sur `Control` + O sur votre clavier
-2. Écrivez "block" pour trouver l'option dans la section "Chat".
-3. Activez l'option en cliquant dessus.
-4. C'est bon ! Les utilisateurs qui ne sont pas dans votre liste d'amis (/addfriend "utilisateur") ne peuvent plus vous contacter.
+1.  Cliquez sur le bouton `Options` en jeu ou appuyez sur `Control` + O sur votre clavier
+2.  Écrivez "block" pour trouver l'option dans la section "Chat".
+3.  Activez l'option en cliquant dessus.
+4.  C'est bon ! Les utilisateurs qui ne sont pas dans votre liste d'amis (/addfriend "utilisateur") ne peuvent plus vous contacter.
 
 <!-- TODO: this part needs to be rewritten for the current website, "foes" is no longer available on the old one
 
@@ -727,7 +727,7 @@ Entrez simplement le nom de l'artiste que vous souhaitez et Google fera le reste
 
 Si vous avez été inactif pour une longue période de temps et que vos statistiques sont mauvaises, jouez quelques maps pour les actualiser. Les utilisateurs inactifs peuvent voir leur scores cachés pour garder les classements propres.
 
----
+* * *
 
 ## Installation et Enregistrement
 
@@ -743,8 +743,8 @@ Autrement, [cliquez ici](https://osu.ppy.sh/home/download) pour un lien direct v
 
 **Si l'installateur lance des erreurs lorsque vous installez osu!, vous pouvez essayer de:**
 
-- Nettoyer votre PC - Lancez un scan antivirus, nettoyez le registre. Un bon programme pour ce type de nettoyage est CCleaner. Nettoyez à la fois les fichiers et votre registre. L'installateur peut ne pas réussir s'il y a des entrées d'une copie précédente d'osu! encore présente sur votre ordinateur.
-- réinstaller le Framework .NET 3.5. [Vous pouvez le trouver ici](https://web.archive.org/web/20160317051200/http://www.microsoft.com/en-au/download/details.aspx?id=21).
+-   Nettoyer votre PC - Lancez un scan antivirus, nettoyez le registre. Un bon programme pour ce type de nettoyage est CCleaner. Nettoyez à la fois les fichiers et votre registre. L'installateur peut ne pas réussir s'il y a des entrées d'une copie précédente d'osu! encore présente sur votre ordinateur.
+-   réinstaller le Framework .NET 3.5. [Vous pouvez le trouver ici](https://web.archive.org/web/20160317051200/http://www.microsoft.com/en-au/download/details.aspx?id=21).
 
 #### J'ai la version 64-bit de Windows et je ne peux pas installer osu! correctement !
 
@@ -774,7 +774,7 @@ Si vous n'en utilisez pas, vous devriez alors envoyer un ticket au support, car 
 
 Tor ou des réseaux associés à Tor ne se connecteront pas au jeu la plupart du temps. Cela est pour éviter des usages mal intentionnés.
 
----
+* * *
 
 ## Beatmapping et Éditeur
 
@@ -812,7 +812,7 @@ Vous pouvez la supprimer vous-même en attendant qu'elle se retrouve dans le Cim
 
 Une fois dans le Cimetière, vous pouvez la supprimer vous-même en cliquant sur le bouton `Delete` qui apparaît à côté du lien de la beatmap.
 
----
+* * *
 
 ## osu!store et marchandises
 
@@ -838,9 +838,9 @@ Pour déterminer si les LEDs de votre votre osu! nono keyboard sont défectueuse
 
 **Pour le savoir, essayez les étapes suivantes:**
 
-1. Identifiez quelle LED ne fonctionne pas comme elle le devrait.
-2. Retirez doucement les LEDs en-dessous de la touche avec une paire de pinces ou par un autre moyen, en vous souvenant de quelle LED va à quel slot.
-3. Échangez les LEDs et faites les retourner dans leur emplacement. Par exemple, placez la LED de la touche de gauche sur la touche de droite, et ainsi de suite.
+1.  Identifiez quelle LED ne fonctionne pas comme elle le devrait.
+2.  Retirez doucement les LEDs en-dessous de la touche avec une paire de pinces ou par un autre moyen, en vous souvenant de quelle LED va à quel slot.
+3.  Échangez les LEDs et faites les retourner dans leur emplacement. Par exemple, placez la LED de la touche de gauche sur la touche de droite, et ainsi de suite.
 
 Si une LED qui fonctionnait d'un côté fonctionne de l'autre côté, alors la LED **n'est pas défectueuse** et devrait fonctionner correctement.
 
@@ -872,9 +872,9 @@ Pour le savoir, essayez les étapes suivantes:
 
 **Essayez les étapes suivantes pour savoir si votre tablette fonctionne normalement:**
 
-1. Retirez avec précaution la tablette de votre système, et débranchez le câble.
-2. Rebranchez doucement le câble dans le slot USB de votre système.
-3. Si la tablette fonctionne, le slot lumineux sur votre tablette devrait faire des flashs verts puis s'éteindre. C'est ce qui devrait se passer.
+1.  Retirez avec précaution la tablette de votre système, et débranchez le câble.
+2.  Rebranchez doucement le câble dans le slot USB de votre système.
+3.  Si la tablette fonctionne, le slot lumineux sur votre tablette devrait faire des flashs verts puis s'éteindre. C'est ce qui devrait se passer.
 
 Si la lumière de la tablette ne fait pas de flashs, essayez d'utiliser un autre câble USB - celui fourni avec la tablette peut être usé par le transport ou par un usage intensif.
 
@@ -886,12 +886,12 @@ Nous pouvons essayer de vous aider à résoudre votre problème avec d'anciennes
 
 **Suivez les étpaes suivantes pour vérifier si votre stylet fonctionne normalement:**
 
-- Dévissez la plaque du stylet, exposant la batterie.
-- Retirez la batterie AAA du stylet.
-- Remplacez-la avec une nouvelle batterie AAA. **Vérifiez que la nouvelle batterie fonctionne dans un autre appareil avant.**
-- Assurez-vous que les contacts positifs et négatifs sont bien placés dans le stylet. Il y a des marques indiquant quel endroit va où.
-- Revissez la plaque.
-- Appuyez sur le bouton à l'arrière (extrémité de la gomme) du stylet jusqu'à ce qu'il clique.
+-   Dévissez la plaque du stylet, exposant la batterie.
+-   Retirez la batterie AAA du stylet.
+-   Remplacez-la avec une nouvelle batterie AAA. **Vérifiez que la nouvelle batterie fonctionne dans un autre appareil avant.**
+-   Assurez-vous que les contacts positifs et négatifs sont bien placés dans le stylet. Il y a des marques indiquant quel endroit va où.
+-   Revissez la plaque.
+-   Appuyez sur le bouton à l'arrière (extrémité de la gomme) du stylet jusqu'à ce qu'il clique.
 
 Si la tablette fonctionne correctement, rapprocher le stylet de la tablette déplacera le curseur sur votre écran.
 
@@ -905,7 +905,7 @@ Sinon, contactez [store@ppy.sh](mailto:store@ppy.sh) pour plus d'assistance, nou
 
 #### Mon ordinateur ne détecte pas osu!go quand je le branche !
 
-**C'est un problème connu des tout premiers arrivages des clés USB *osu!go*, cela vient de l'appareil n'étant pas formaté de manière à ce qu'il fonctionne sur tous les PCs.**
+**C'est un problème connu des tout premiers arrivages des clés USB _osu!go_, cela vient de l'appareil n'étant pas formaté de manière à ce qu'il fonctionne sur tous les PCs.**
 
 Même si ça peut sembler complexe, c'est assez facile à corriger.
 
@@ -913,12 +913,12 @@ Tout d'abord, [téléchargez l'archive contenant les fichiers par défaut d'osu!
 
 #### Formatter osu!go sous Windows
 
-**Suivez les étapes suivantes pour préparer votre *osu!go* sous Windows:**
+**Suivez les étapes suivantes pour préparer votre _osu!go_ sous Windows:**
 
-1. Ouvrez le menu `Démarrer`.
-2. Écrivez `gestion des disques` dans la barre de recherche. Cela vos mènera à la section `Créer et formatter des partitions de disque dur` du Panneau de Contrôle.
-3. **Quand vous êtes dans la fenêtre Gestion des Disques, suivez ces instructions *à la lettre* et n'appliquez les changements qu'à osu!go.** Vous pourrez perdre des données si vous ne faites pas attention.
-4. Regardez dans quel état votre système reconnait osu!go.
+1.  Ouvrez le menu `Démarrer`.
+2.  Écrivez `gestion des disques` dans la barre de recherche. Cela vos mènera à la section `Créer et formatter des partitions de disque dur` du Panneau de Contrôle.
+3.  **Quand vous êtes dans la fenêtre Gestion des Disques, suivez ces instructions _à la lettre_ et n'appliquez les changements qu'à osu!go.** Vous pourrez perdre des données si vous ne faites pas attention.
+4.  Regardez dans quel état votre système reconnait osu!go.
 
 #### osu!go est présent, mais dans l'état "RAW".
 
@@ -938,13 +938,13 @@ Veuillez suivre [ce guide](https://tails.boum.org/doc/first_steps/reset/windows/
 
 **C'est presque fini !**
 
-Dézippez l'archive que nous vous avons demandé de télécharger plus tôt (osu!go.zip) dans votre *osu!go* et c'est bon !
+Dézippez l'archive que nous vous avons demandé de télécharger plus tôt (osu!go.zip) dans votre _osu!go_ et c'est bon !
 
 ##### Rien ne fonctionne !
 
 Si vous rencontrez des problèmes avec ces procédés, veuillez envoyer un e-mail à [store@ppy.sh](mailto:store@ppy.sh) et nous vous aiderons.
 
----
+* * *
 
 ## Diagnostic
 
@@ -958,14 +958,14 @@ Ces fichiers sont extrêmement utiles et peuvent aider à résoudre des problèm
 
 Si un membre du support vous en demande, voici comment les obtenir:
 
-1. Ouvrez *osu*.
-2. Allez dans le menu `Options` en cliquant sur le bouton dans le menu principal, ou en appuyant sur `CTRL+O`.
-3. Écrivez `release` dans la barre de recherche, ce qui vous mènera à la version que votre client utilise.
-4. Assurez-vous d'être en `Beta` ou `Cutting Edge (Experimental)`. Nous recommandons `Beta` pour de plus grandes chances de stabilité dans cette situation.
-5. Redémarrez le jeu si vous avez modifié le type de version.
-6. Entrez dans `Options`, et cliquez sur `Ouvrir le dossier d'osu!`.
-7. Trouvez le dossier `Logs` dans la fenêtre qui s'est ouverte.
-8. Sélectionnez le journal demandé (le membre du support vous dira lequel), et attachez-le à votre ticket ou envoyez-le dans un service de partage de fichiers public.
+1.  Ouvrez _osu_.
+2.  Allez dans le menu `Options` en cliquant sur le bouton dans le menu principal, ou en appuyant sur `CTRL+O`.
+3.  Écrivez `release` dans la barre de recherche, ce qui vous mènera à la version que votre client utilise.
+4.  Assurez-vous d'être en `Beta` ou `Cutting Edge (Experimental)`. Nous recommandons `Beta` pour de plus grandes chances de stabilité dans cette situation.
+5.  Redémarrez le jeu si vous avez modifié le type de version.
+6.  Entrez dans `Options`, et cliquez sur `Ouvrir le dossier d'osu!`.
+7.  Trouvez le dossier `Logs` dans la fenêtre qui s'est ouverte.
+8.  Sélectionnez le journal demandé (le membre du support vous dira lequel), et attachez-le à votre ticket ou envoyez-le dans un service de partage de fichiers public.
 
 #### Quelle est cette 'Bancho authentication error' que je n'arrête pas de recevoir ?
 

@@ -16,24 +16,24 @@ Makikita mo yung mga circles sa ibaba ng screen (Left), at sa taas ng screen ay 
 
 ### Paano maglaro?
 
-*Buong explenation (English): [osu! Standard](/wiki/Game_Modes/osu!)*
+_Buong explenation (English): [osu! Standard](/wiki/Game_Modes/osu!)_
 
 Habang ang iba ay walang touchscreen sa kanila, ang laro na ito ay pwede parin malaro ng normal na mouse, at ang iba pang input devices na pwede mong maisip. Iba ibang klase ng play style ay matagpuhan sa [Play Styles](/wiki/Play_Styles) na pahina. May mga kanta na tinutulak ang limitation ng normal na mouse (at tsaka ikaw), pero lahat ng (ranked at approved) na beatmaps ay na tested at (ilan lang ang) mapapasado gamit ng mouse lang.
 
 #### Game-play Basics
 
-*Tutorial: [(Yung naka-bundled na sa PC osu!) Orihinal na tutorial](https://osu.ppy.sh/beatmapsets/3756), [Ranked beatmap ng tutorial](https://osu.ppy.sh/beatmapsets/19928)*
+_Tutorial: [(Yung naka-bundled na sa PC osu!) Orihinal na tutorial](https://osu.ppy.sh/beatmapsets/3756), [Ranked beatmap ng tutorial](https://osu.ppy.sh/beatmapsets/19928)_
 
 Ang laro na ito ay nakasalalay sa iyong:
 
-- Pag-kasanay sa mabilis at mabilis na reaction (ito ay para sa mga hit-able na objects na lumalabas sa buong screen ng mabilis)
-- Pag-ka-intindi ng beat ng isang kanta at ng desenyo nito.
-- Ang pag-kontrol ng iyong mouse (o kaya'y ang iyong daliri/pag-pindot gamit ng pen kung gumagamit ka ng tablet)
-- Pag timing mo ng iyong click sa object na lumalabas sa screen.
-- Abilidad mo na mag spin ng mouse (ng iyong daliri/pen sa tablet) ng pabilog.
-- Ang iyong Physical Stamina (lalo na sa mga marathon songs)
-- Maayos na position ng mouse at hand-eye-coordination.
-- At ang lakas ng iyong hardware (lalo na sa iyong mouse/tablet).
+-   Pag-kasanay sa mabilis at mabilis na reaction (ito ay para sa mga hit-able na objects na lumalabas sa buong screen ng mabilis)
+-   Pag-ka-intindi ng beat ng isang kanta at ng desenyo nito.
+-   Ang pag-kontrol ng iyong mouse (o kaya'y ang iyong daliri/pag-pindot gamit ng pen kung gumagamit ka ng tablet)
+-   Pag timing mo ng iyong click sa object na lumalabas sa screen.
+-   Abilidad mo na mag spin ng mouse (ng iyong daliri/pen sa tablet) ng pabilog.
+-   Ang iyong Physical Stamina (lalo na sa mga marathon songs)
+-   Maayos na position ng mouse at hand-eye-coordination.
+-   At ang lakas ng iyong hardware (lalo na sa iyong mouse/tablet).
 
 Ito ang mga importanteng kakayahan na matutuklasan sa bawat progresso ng iyong pag-lalakbay para maging isang osu! rhythm master. Bago muna ikaw tumanaw sa pagiging rhythm master, kailangan mong matutunan ang basic (at theorya) ng mga hit-able objects.
 
@@ -41,49 +41,49 @@ Ito ang mga importanteng kakayahan na matutuklasan sa bawat progresso ng iyong p
 
 ![](/wiki/shared/osu_hitcircles.jpg)
 
-- Dito, makikita mo ang circles na kailangan mong pindutin.
-  - Yung manipis na circle sa labas ng isang hitcircle ay lumiliit at kailangan mong ma-hit yung nota ng exactong point na yung manipis na circle ay naka dikit na dun sa white border.
-- Para maintindihan ang natatagong sekreto ng hitcircles ay hindi mo lang dapat isalalay sa iyong kamalayan pero sa pag-iintindi din ng rhythm at tsaka beats ng isang beatmap sa pamamagitan ng iyong tenga. (pandinig)
+-   Dito, makikita mo ang circles na kailangan mong pindutin.
+    -   Yung manipis na circle sa labas ng isang hitcircle ay lumiliit at kailangan mong ma-hit yung nota ng exactong point na yung manipis na circle ay naka dikit na dun sa white border.
+-   Para maintindihan ang natatagong sekreto ng hitcircles ay hindi mo lang dapat isalalay sa iyong kamalayan pero sa pag-iintindi din ng rhythm at tsaka beats ng isang beatmap sa pamamagitan ng iyong tenga. (pandinig)
 
 ##### Sliders
 
 ![](/wiki/shared/osu_slider.jpg)
 
-- Dito, ito ang tinatawag na slider.
-  - Una, kailangan mong i-hit ito pag lumabas na sa screen, pero hindi pa dito nag-tatapos.
-  - May bola na mag-sla-slide sa simula ng slider.
-  - Dapat mong i-hold ang mouse/keyboard-button (o ang iyong daliri/pen sa tablet) at ilagay mo lang sa loob ng manipis na circle na ang kulay ay kahel na pinalilibutan ng bola habang ito ay gumagalaw.
-    - Hindi mo mako-kontrol ang galaw ng bola at ang kailangan mo lang gawin ay sundan ang galaw nito.
-  - Minsan, gaya ng nasa taas ng screenshot, kailangan mong ulit umatras sa huling landas.
-  - Malalaman mo ito pag nakita mo yung barigtad na arrow sa huling landas ng slider.
+-   Dito, ito ang tinatawag na slider.
+    -   Una, kailangan mong i-hit ito pag lumabas na sa screen, pero hindi pa dito nag-tatapos.
+    -   May bola na mag-sla-slide sa simula ng slider.
+    -   Dapat mong i-hold ang mouse/keyboard-button (o ang iyong daliri/pen sa tablet) at ilagay mo lang sa loob ng manipis na circle na ang kulay ay kahel na pinalilibutan ng bola habang ito ay gumagalaw.
+        -   Hindi mo mako-kontrol ang galaw ng bola at ang kailangan mo lang gawin ay sundan ang galaw nito.
+    -   Minsan, gaya ng nasa taas ng screenshot, kailangan mong ulit umatras sa huling landas.
+    -   Malalaman mo ito pag nakita mo yung barigtad na arrow sa huling landas ng slider.
 
 ##### Spinners
 
 ![](/wiki/shared/osu_spinner.jpg)
 
-- Ito ay isang spinner.
-  - Kailangan mo tong i-click at i-hold ang hit-button, at i-spin gamit ng mouse (clockwise or counter-clockwise) ng pabilog ng mabilis bago mawalan ng oras (yung asul na linya ang orasan).
-    - Yung mga bar sa labas ng spinner ay nag-sasabi kong gaano kana malapit pumasa.
-    - Yung maliit na bar sa ibaba ng spinner ang nagpapakita ng iyong spins per minute, ibig sabihin nito ay ang numero ng ilang spins na nagawa mo pag pinatuloy mo pa ang ganyang bilis sa pag spin ng isang minuto.
-    - Pag hindi mo hinold na kahit na anong hit-button kahit nag si-spin ka, hindi mo parin maiipon ang gauge.
-- Sa DS, itong ang mabuting paraan para ma scratch ang yong touchscreen (o kaya'y screen protectors), lalo na dun sa mga mahihirap na difficulties.
-  - Ang maximum na numero na makukuha sa pag-spin ay 477, ito rin ang rate na nakukuha ng Auto game modifier habang ang Spun Out game modifier ay mabagal ang spin na umaabot lang ng 287 spins per minute.
-- \[Mouse\]**Pag ang iyong cursor ay di nag spin pero gumagalaw parin ng konti kahit nag-si-spin ka ng mabilis, dapat mong alamin ang limitation ng iyong mouse o kaya'y kumuha ka ng maayos na mouse/mousepad**.
-  - May mga normal na mouse ay posibleng magkaroon ng ganitong issue, at maganda kung "'magsimula mag spin ng mabagal kesa sa pag spin ng mabilis kagad."' para ma-malaman ng mouse kung ano ang ginagawa mo.
+-   Ito ay isang spinner.
+    -   Kailangan mo tong i-click at i-hold ang hit-button, at i-spin gamit ng mouse (clockwise or counter-clockwise) ng pabilog ng mabilis bago mawalan ng oras (yung asul na linya ang orasan).
+        -   Yung mga bar sa labas ng spinner ay nag-sasabi kong gaano kana malapit pumasa.
+        -   Yung maliit na bar sa ibaba ng spinner ang nagpapakita ng iyong spins per minute, ibig sabihin nito ay ang numero ng ilang spins na nagawa mo pag pinatuloy mo pa ang ganyang bilis sa pag spin ng isang minuto.
+        -   Pag hindi mo hinold na kahit na anong hit-button kahit nag si-spin ka, hindi mo parin maiipon ang gauge.
+-   Sa DS, itong ang mabuting paraan para ma scratch ang yong touchscreen (o kaya'y screen protectors), lalo na dun sa mga mahihirap na difficulties.
+    -   Ang maximum na numero na makukuha sa pag-spin ay 477, ito rin ang rate na nakukuha ng Auto game modifier habang ang Spun Out game modifier ay mabagal ang spin na umaabot lang ng 287 spins per minute.
+-   \[Mouse]**Pag ang iyong cursor ay di nag spin pero gumagalaw parin ng konti kahit nag-si-spin ka ng mabilis, dapat mong alamin ang limitation ng iyong mouse o kaya'y kumuha ka ng maayos na mouse/mousepad**.
+    -   May mga normal na mouse ay posibleng magkaroon ng ganitong issue, at maganda kung "'magsimula mag spin ng mabagal kesa sa pag spin ng mabilis kagad."' para ma-malaman ng mouse kung ano ang ginagawa mo.
 
 #### In-Game Interface
 
 ![](/wiki/shared/Interface_osu.jpg)
 
-- Ito ang game style interface ng osu!
-- Sa kaliwang taas nandun ang "health" bar mo.
-  - Babawas to ng pakonte konte \[naka dependede sa beatmap difficulty na nilagay ng mapper(s)\], pero pwede mo silang punuin ulit pamamagitan ng pag hit ng notes sa tamang oras.
-  - Ang tamang timing sa pag hit ng notes (300 hit o kaya'y Geki Beat) ay mas lalong iipunin ang iyong health kesa sa maling timing ng pag hit. (50 hit)
-  - Ang pag miss sa mga nota ay malaki ang kukunin na health sayo.
-- Kasunod sa health bar (sa kanan) ay ang iyong score.
-- Sa ibaba ng score ay yun ang accuracy.
-- Yung bilog na katabi ng accuracy mo ay dun pinapakita ang timer bar, kung saan pinapakita ang haba ng kanta.
-- Ang numero sa kaliwang ibaba ay ang combo counter/score multiplier.
+-   Ito ang game style interface ng osu!
+-   Sa kaliwang taas nandun ang "health" bar mo.
+    -   Babawas to ng pakonte konte \[naka dependede sa beatmap difficulty na nilagay ng mapper(s)], pero pwede mo silang punuin ulit pamamagitan ng pag hit ng notes sa tamang oras.
+    -   Ang tamang timing sa pag hit ng notes (300 hit o kaya'y Geki Beat) ay mas lalong iipunin ang iyong health kesa sa maling timing ng pag hit. (50 hit)
+    -   Ang pag miss sa mga nota ay malaki ang kukunin na health sayo.
+-   Kasunod sa health bar (sa kanan) ay ang iyong score.
+-   Sa ibaba ng score ay yun ang accuracy.
+-   Yung bilog na katabi ng accuracy mo ay dun pinapakita ang timer bar, kung saan pinapakita ang haba ng kanta.
+-   Ang numero sa kaliwang ibaba ay ang combo counter/score multiplier.
 
 ## Mga Issues at Tanong
 
@@ -109,7 +109,7 @@ Pag may nakita ka na isang error o bug na hindi dapat nangyayari, Ireport ito sa
 
 "Bago magpost sa [Technical Support](https://osu.ppy.sh/community/forums/5), hanapin mo muna kung merong mga kaparehas na problema ng sa iyo."
 
-"Pwede ka rin pumunta sa \#help channel at magtanong tungkol sa problema mo."
+"Pwede ka rin pumunta sa #help channel at magtanong tungkol sa problema mo."
 
 ### Gumagana ba ang osu! sa OSX?
 

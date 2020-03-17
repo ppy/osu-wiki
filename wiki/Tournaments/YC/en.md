@@ -2,4 +2,4 @@
 
 Index page for all of the Yuri Cup series.
 
-- [Yuri Cup](1)
+-   [Yuri Cup](1)

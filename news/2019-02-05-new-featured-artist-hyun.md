@@ -12,11 +12,11 @@ Showcasing some of the rhythm gaming scene's freshest talent, we're proud to wel
 
 Sporting a more classical sound reminiscent of the earlier days of rhythm gaming, **HyuN** is by no means outdated, building on the time-tested framework of frantic speed, constantly evolving rhythms and broad melodic progression with a fresh new take from a variety of genres, all neatly bundled up into little bite-size pieces.
 
-Absolutely *perfect* for mapping, as the size of the new beatmap pack below can attest:
+Absolutely _perfect_ for mapping, as the size of the new beatmap pack below can attest:
 
 [![](/wiki/shared/news/2019-02-05-new-featured-artist-hyun/hyun.jpg)](https://assets.ppy.sh/beatmap-packs/MappersGuildHyuN.zip)
 
-*Click the image above to download the HyuN beatmap pack in full - finishing all the maps in that set will earn you a fiendishly attractive medal for your profile!*
+_Click the image above to download the HyuN beatmap pack in full - finishing all the maps in that set will earn you a fiendishly attractive medal for your profile!_
 
 Here's a set of small samples from the whopping **24** new tracks available over at [his Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/33):
 
@@ -54,7 +54,7 @@ All of these tracks and **MUCH MORE** are available over at [his Featured Artist
 
 As with all Featured Artist tracks, the works on **HyuN**'s listing are 100% free for use in mapping and modding, and come with a pre-timed base to help you get started.
 
-We'd also like to take a moment to share that this release will herald the end of the *exclusive* launch-accompanying beatmap releases from the Mappers' Guild, at least for now.
+We'd also like to take a moment to share that this release will herald the end of the _exclusive_ launch-accompanying beatmap releases from the Mappers' Guild, at least for now.
 
 The Guild's not going anywhere however, and we have a new system in the works to help encourage mapping circles (har har) of all kinds to get involved with the amazing work of our superbly talented Featured Artists.
 

@@ -15,11 +15,11 @@ You can watch the full record of the finals right here:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8uGcwFYfCJw" frameborder="0" allowfullscreen=""></iframe>
 
-- Team Japan wins 6 months of supporter status, some osu! merchandise of their choosing, a unique profile badge for each player, and will each receive the user title of "Taiko Champion" for 1 year.
+-   Team Japan wins 6 months of supporter status, some osu! merchandise of their choosing, a unique profile badge for each player, and will each receive the user title of "Taiko Champion" for 1 year.
 
-- Team Taiwan is awarded with 3 months of supporter status and a unique profile badge for each player.
+-   Team Taiwan is awarded with 3 months of supporter status and a unique profile badge for each player.
 
-- Team France receives a month of supporter status and a unique profile badge for each player.
+-   Team France receives a month of supporter status and a unique profile badge for each player.
 
 Congratulations again to the winners, and thanks to all participants for making this tournament so great. During the finals, over 1,000 viewers were recorded watching the live-stream, the highest view count that we have ever had broadcasting an osu! Taiko World Cup before!. We hope to see more players in the roster for next year's tournament, and are looking forward to broadcasting more awesome matches in the future!
 

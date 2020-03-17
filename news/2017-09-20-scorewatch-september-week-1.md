@@ -40,11 +40,9 @@ Amidst the controversy of touchscreen plays, someone has stepped up and taken a 
 
 ## SCORESHOW WITH ZSEIKIMATSU
 
-[ExGon](https://osu.ppy.sh/users/214187) takes on fellow Korean [[224]Hyperw7](https://osu.ppy.sh/users/4158549) on the Loved map [antiPLUR - Speed of Link](https://osu.ppy.sh/beatmapsets/374606)!
+[ExGon](https://osu.ppy.sh/users/214187) takes on fellow Korean [\[224\]Hyperw7](https://osu.ppy.sh/users/4158549) on the Loved map [antiPLUR - Speed of Link](https://osu.ppy.sh/beatmapsets/374606)!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/r5aKxRfTgw0" frameborder="0" allowfullscreen></iframe></br>
-
-
 
 Interested in having your say on what makes it into the weekly scorewatch posts? Join us in the [Scorewatch Lounge discord server](https://discordapp.com/invite/aFubwd4) to vote on what goes into both the score show as well as the weekly posts.
 

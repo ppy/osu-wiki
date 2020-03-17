@@ -10,7 +10,7 @@ outdated: true
 -   [Live Event Feed](https://osu.ppy.sh/community/forums/topics/9015)—A live feed of current player events.
     -   [Website](https://old.ppy.sh/p/events)
 -   [osu! (OS X)](https://osu.ppy.sh/community/forums/topics/56460)—osu! on OS X (results will vary).
-    -   [GitHub](https://github.com/ppy/osu-wine) | [Website](http://osuosx.tumblr.com)
+    -   [GitHub](https://github.com/ppy/osu-wine) \| [Website](http://osuosx.tumblr.com)
 -   [osu! Community Localisation Project](https://osu.ppy.sh/community/forums/topics/104342)—The osu! localisation project, localise your language into osu!.
 -   osu! framework—A game framework written with osu! in mind.
     -   [GitHub](https://github.com/ppy/osu-framework)
@@ -18,19 +18,19 @@ outdated: true
     -   [GitHub](https://github.com/ppy/osu-performance)
 -   [osu! Public Release (2007-09)](https://osu.ppy.sh/community/forums/topics/130144)—A release of the initial game client.
 -   [osu! wiki](https://osu.ppy.sh/community/forums/topics/68479)—Houses information about osu!.
-    -   [GitHub](https://github.com/ppy/osu-wiki) | [Website](/wiki/)
+    -   [GitHub](https://github.com/ppy/osu-wiki) \| [Website](/wiki/)
 -   osu! web—the browser-facing portion of osu!.
-    -   [GitHub](https://github.com/ppy/osu-web) | [Website](https://osu.ppy.sh/home)
+    -   [GitHub](https://github.com/ppy/osu-web) \| [Website](https://osu.ppy.sh/home)
 -   osu!lazer—The future of osu! and the beginning of an open era.
     -   [GitHub](https://github.com/ppy/osu)
 -   [osu!api](https://osu.ppy.sh/community/forums/topics/141240)—Public API for accessing osu! related data.
     -   [GitHub](https://github.com/ppy/osu-api)
 -   osu!stream—A different style of osu! for iPod Touch, iPhone, and iPad.
-    -   [Website](https://osustream.com) | [osu! wiki page](/wiki/osu!stream)
+    -   [Website](https://osustream.com) \| [osu! wiki page](/wiki/osu!stream)
 
 ## Community
 
-*Caution: Use at your own risk! The projects listed below are not endorsed by osu! nor have any support from the osu! team.*
+_Caution: Use at your own risk! The projects listed below are not endorsed by osu! nor have any support from the osu! team._
 
 Tools and/or services made by the osu! community. Feel free to add your own osu!-related projects to this list.
 
@@ -39,7 +39,7 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 ### Game Clients
 
 -   [opsu!](https://osu.ppy.sh/community/forums/topics/221726)—An unofficial osu! client written in Java.
-    -   [GitHub](https://github.com/itdelatrisu/opsu) | [Website](http://itdelatrisu.github.io/opsu/)
+    -   [GitHub](https://github.com/itdelatrisu/opsu) \| [Website](http://itdelatrisu.github.io/opsu/)
 -   [osu! python edition](https://osu.ppy.sh/community/forums/topics/688175)—Python clone of osu!
 -   [T-Aiko!](https://osu.ppy.sh/community/forums/topics/58640)—A free [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia") game that plays osu! beatmaps on your iPhone or Android device.
 -   osu!droid—An unofficial osu! client written for Android.
@@ -62,7 +62,7 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 #### osu!taiko
 
 -   [Wii Tatacon to USB Converter](https://osu.ppy.sh/community/forums/topics/258400)—A low cost Wii Tatacon to USB dongle to reduce input latency.
-    -   [GitHub](https://github.com/mon/TataconUSB) | [Website](https://mon.im/tatacon/)
+    -   [GitHub](https://github.com/mon/TataconUSB) \| [Website](https://mon.im/tatacon/)
 
 <!-- #### osu!catch -->
 
@@ -185,7 +185,7 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 
 ### Internet Relay Chat
 
-*See also: [Internet Relay Chat](/wiki/Internet_Relay_Chat)*
+_See also: [Internet Relay Chat](/wiki/Internet_Relay_Chat)_
 
 -   [irc4osu!](https://osu.ppy.sh/community/forums/topics/430741)—A cross-platform IRC client for osu!.
     -   [GitHub](https://github.com/arogan-group/irc4osu)
@@ -195,14 +195,14 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 -   [Bonus PP calculator](https://osu.ppy.sh/community/forums/topics/538470)—Calcuates how much bonus pp a user has.
     -   [GitHub](https://github.com/RoanH/osu-BonusPP)
 -   [osu! level calculator](https://osu.ppy.sh/community/forums/topics/199230)—Calculates the needed score to achieve a certain level.
-    -   [GitHub](https://github.com/thehowl/OsuLevelCalculator) | [Website](https://olc.howl.moe/)
+    -   [GitHub](https://github.com/thehowl/OsuLevelCalculator) \| [Website](https://olc.howl.moe/)
 -   [osu! Stats Watcher](https://osu.ppy.sh/community/forums/topics/269483)—Write player stats into a file, which can then be displayed using Open Broadcaster Software.
     -   [GitHub](https://github.com/albinohat/osu_stats_watcher)
 -   [osu!Skills](https://osu.ppy.sh/community/forums/topics/367283)—Expands pp into include other metrics such as stamina, reaction, and memory.
 -   [osu!Stats](https://osu.ppy.sh/community/forums/topics/51911)—Search scores and player statistics.
     -   [Website](https://osustats.ppy.sh/)
 -   [osu!track](https://osu.ppy.sh/community/forums/topics/212151)—A tool that allows players to track their progress in-game and see visually see their improvement over time.
-    -   [GitHub](https://github.com/Ameobea/osutrack_irc_v2/) | [Website](https://ameobea.me/osutrack)
+    -   [GitHub](https://github.com/Ameobea/osutrack_irc_v2/) \| [Website](https://ameobea.me/osutrack)
 -   [osu!track (IRC)](https://osu.ppy.sh/community/forums/topics/233167)—The in-game IRC bot for osu!track.
 -   [osu!widget](https://osu.ppy.sh/community/forums/topics/250902)—A desktop app that allows for the end user to keep track of their rank, accuracy, and play count.
 -   [RTPP Displayer](https://osu.ppy.sh/community/forums/topics/685031)—Calculates and displays earned pp while playing on the fly.

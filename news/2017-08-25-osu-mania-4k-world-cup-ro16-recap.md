@@ -18,7 +18,8 @@ However, every mappool has its fair share of non-favourites. The most banned map
 
 For more information regarding mappool statistics, you can find them [here](https://docs.google.com/spreadsheets/d/1qAbKpW3yCJ5U2qUoUoIob6qsmNW08LenxeL0FptdjxA/pubhtml#). Otherwise, it's time to move over to where the real excitement lies - the matches!
 
---------
+* * *
+
 The first match of the day saw the unseeded New Zealand facing off against the high seeded France. While the Kiwis did rather well in the Group Stage, the power of baguettes proved too strong. Overwhelmed by their Supairo consistency, they conceded the match 1 - 5.
 
 Next up was a match between two top seeded teams - Indonesia vs. China. Having lost to the aforementioned France in the Group Stage, things were not looking too favourable for China. This soon proved to be true, as Indonesia took point after point in a series of very close matches, quickly reaching 3-0. China saw a brief respite in taking a point back, but it would be short lived, as Indonesia bounced back immediately, securing the match 5 - 1.
@@ -41,7 +42,8 @@ The final two matches saw Poland vs. Chile and Sweden vs. United States. While b
 
 ![](/wiki/shared/news/2017-08-25-osu-mania-4k-world-cup-ro16-recap/SwedenUnitedStates_game3.jpg)
 
---------
+* * *
+
 And that's a wrap for the Round of 16! This coming weekend will mark the start of the Quarter Finals. Like last week, we will see a total of 8 exciting matches, but this time spread over the course of 2 days. Teams in the loser's bracket are now at risk of being eliminated, so the stakes are raised even higher! You can find out what the scheduled matches are on the [wiki page](https://osu.ppy.sh/help/wiki/Tournaments/MWC/2017_4K).
 
 Be sure to catch the start of the Quarter Finals stage at 19:00 UTC this Saturday, on the [osu!live twitch channel](https://www.twitch.tv/osulive)! The first match will see France squaring off against Chile - this is something you don't want to miss!

@@ -11,7 +11,7 @@ Hello everyone! Maps are becoming harder and harder, and 2012 mapping is very di
 
 Nowadays, people tend to space their objects farther and use more complex rhythms. Currently, mappers want to impress and achieve fame by making the best hard difficulties possible for their songs and often neglect their easier difficulties. In order to ensure your maps are enjoyable to players of all abilities, here are some tips for making beginner friendly easies.
 
----
+* * *
 
 ## Spinners
 

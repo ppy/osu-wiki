@@ -8,7 +8,7 @@ A new month is on the horizon, and with it arrives yet another mapping contest. 
 
 ![](/wiki/shared/news/banners/monthly-beatmapping-contest.png)
 
-For those uninitiated, the Monthly Beatmapping Contest (*MBC*) was revived for a new run in 2020. See the [Monthly Beatmapping Contest wiki article](/wiki/Contests/Monthly_Beatmapping_Contest) for a quick recap.
+For those uninitiated, the Monthly Beatmapping Contest (_MBC_) was revived for a new run in 2020. See the [Monthly Beatmapping Contest wiki article](/wiki/Contests/Monthly_Beatmapping_Contest) for a quick recap.
 
 ## Community Vote
 
@@ -24,10 +24,10 @@ Anyway, onto March's contest!
 
 As per usual, the timeline for this month's contest is as follows:
 
-- **Beatmapping (3 weeks, ends March 26th):** Contest is announced and beatmappers create their entries.
-- **Screening (1 week):** Entries are evaluated by experienced beatmappers.
-- **Voting (2 weeks):** Top entries from screening are published for the osu! community to vote on. This overlaps with the next month's beatmapping portion.
-- **Rewards:** Winners are announced and prizes are redeemed, including profile badges, osu!supporter, and the *Elite Mapper* user title!
+-   **Beatmapping (3 weeks, ends March 26th):** Contest is announced and beatmappers create their entries.
+-   **Screening (1 week):** Entries are evaluated by experienced beatmappers.
+-   **Voting (2 weeks):** Top entries from screening are published for the osu! community to vote on. This overlaps with the next month's beatmapping portion.
+-   **Rewards:** Winners are announced and prizes are redeemed, including profile badges, osu!supporter, and the _Elite Mapper_ user title!
 
 More details can be found on the [Monthly Beatmapping Contest wiki article](/wiki/Contests/Monthly_Beatmapping_Contest), as per usual.
 
@@ -41,7 +41,7 @@ This month's limitation: **no slider velocity changes**.
 
 Any inherited timing points (green lines in the editor) you use should be for hitsounding or kiai times only, and of course, BPM changes to adjust slider speed aren't allowed!
 
-Given how frequently maps nowadays change slider velocity, catering to this limitation may be a bit annoying. To make things *better* though, we've chosen songs that call for a significant amount of slider speed changes! Sorry to say, but your suffering just makes the contest more fun.
+Given how frequently maps nowadays change slider velocity, catering to this limitation may be a bit annoying. To make things _better_ though, we've chosen songs that call for a significant amount of slider speed changes! Sorry to say, but your suffering just makes the contest more fun.
 
 ### <a id="songs"></a>Songs
 
@@ -93,17 +93,17 @@ This month's artist is [**Sound Souler**](https://osu.ppy.sh/beatmaps/artists/70
 
 So how do you participate? Submissions must...
 
-- **follow the month's [beatmapping limitation](#limitation): *no slider velocity changes***
-- **be in `.osz` format.** This allows your entry to use custom hitsound files and a background of your choice, however storyboarded visuals will be removed from all submissions.
-- **be a single difficulty for one of the month's [selected songs](#songs).**
-- **be in the osu! game mode.** Other game modes will be considered after trialing this contest with osu! only.
-- **not be uploaded to the osu! website through the Beatmap Submission System (*BSS*).** All contest submissions are anonymous during the screening/voting phases to avoid bias. **DO NOT SHARE YOUR ENTRY!**
-- **be solely created by you.** Collaborations are not allowed.
-- **abide by the [ranking criteria](/wiki/Ranking_Criteria).** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be discarded.
+-   **follow the month's [beatmapping limitation](#limitation): _no slider velocity changes_**
+-   **be in `.osz` format.** This allows your entry to use custom hitsound files and a background of your choice, however storyboarded visuals will be removed from all submissions.
+-   **be a single difficulty for one of the month's [selected songs](#songs).**
+-   **be in the osu! game mode.** Other game modes will be considered after trialing this contest with osu! only.
+-   **not be uploaded to the osu! website through the Beatmap Submission System (_BSS_).** All contest submissions are anonymous during the screening/voting phases to avoid bias. **DO NOT SHARE YOUR ENTRY!**
+-   **be solely created by you.** Collaborations are not allowed.
+-   **abide by the [ranking criteria](/wiki/Ranking_Criteria).** While we can be forgiving for mistakes, submissions that could not be ranked without major changes will be discarded.
 
 Any entries breaking these rules will not be viable for the contest.
 
----
+* * *
 
 That'll do it for this month! If you plan on participating, head to the [contest listing](https://osu.ppy.sh/community/contests/91) when you're ready to submit your entry. You have **3 weeks** until submissions close.
 

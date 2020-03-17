@@ -1,6 +1,6 @@
 # How to make properly centered spinners in skins
 
-[*How to make spinners symmetrical* by: ziin](https://osu.ppy.sh/community/forums/topics/51502)
+[_How to make spinners symmetrical_ by: ziin](https://osu.ppy.sh/community/forums/topics/51502)
 
 This guide is probably hard to understand for people with little experience with gimp/photoshop. This guide assumes you know how to (and are able to) turn on/off layers, as well as find some things on your own. If you have questions, you can forum PM and I'll try to help. I'm no good at actually generating content, though, just editing someone else's work.
 
@@ -62,7 +62,7 @@ In this guide there won't be information how to make the edges pretty, or give i
 
 ## How to make spinner backgrounds which match the beatmap background
 
-If you want your spinner to have the same background as the actual map, it can be difficult because of a bug in osu! introduced by a gameplay change which was never fixed. First, we need to match up the background *in the game* and not *in the beatmap editor*. The beatmap puts storyboarded elements (background and video) 5 pixels higher on 1024x768 than the rest of the map.
+If you want your spinner to have the same background as the actual map, it can be difficult because of a bug in osu! introduced by a gameplay change which was never fixed. First, we need to match up the background _in the game_ and not _in the beatmap editor_. The beatmap puts storyboarded elements (background and video) 5 pixels higher on 1024x768 than the rest of the map.
 
 ### Don't worry if the spinner looks wrong in the editor
 

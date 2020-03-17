@@ -4,14 +4,14 @@ outdated: true
 
 # Galeri
 
-***[Maskotlar sayfasına dönmek için tıklayın](/wiki/Mascots)***
+**_[Maskotlar sayfasına dönmek için tıklayın](/wiki/Mascots)_**
 
 ## osu! Orijinaller
 
 ### Orijinal pippi (İdol kıyafeti)
 
 ![Sarumaru'dan pippi'nin konsept çizimi.](img/pippi-original-concept.jpg "Sarumaru'dan pippi'nin konsept çizimi.")
-![(eski) "osu!default by peppy" skininin kombo parıltıları.](img/pippi-original-comboburst.png "(eski) \"osu!default by peppy\" skininin kombo parıltıları.")
+![(eski) "osu!default by peppy" skininin kombo parıltıları.](img/pippi-original-comboburst.png '(eski) \"osu!default by peppy\" skininin kombo parıltıları.')
 ![Chibi-pippi (Başlık resmi).](img/pippi-original-header.jpg "Chibi-pippi (Başlık resmi).")
 ![404 hatası resmi](img/pippi-original-website-404.jpg "404 hatası resmi")
 ![Daru'dan pippi illüstrasyonu (osu!installer'da bulunabilir).](img/pippi-original-installer.jpg "pippi illustrated by Daru (Can be found on osu!installer).")
@@ -20,7 +20,7 @@ outdated: true
 ### Mevcut Pippi (DJ kıyafeti)
 
 ![pippi (Daru'nun yeni revizyonu ).](img/pippi-Daru-redesigned.png "pippi (Daru'nun yeni revizyonu).")
-!["osu! by peppy" skininin kombo parıltıları.](img/pippi-Daru-comboburst.png "\"osu! by peppy\" skininin kombo parıltıları.")
+!["osu! by peppy" skininin kombo parıltıları.](img/pippi-Daru-comboburst.png '\"osu! by peppy\" skininin kombo parıltıları.')
 ![404 hatası resmi.](img/pippi-Daru-404.png "404 hatası resmi.")
 
 ### Yuzu

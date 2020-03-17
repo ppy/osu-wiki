@@ -8,7 +8,7 @@ We're proud to announce the latest addition to the Featured Artist lineup — th
 
 ![](https://assets.ppy.sh/artists/64/header.jpg)
 
-You know him, you love him, now he's here to stay. From *Highscore* and *Immortal Flame* fame (featuring the stupendously talented [Panda Eyes](https://osu.ppy.sh/beatmaps/artists/55) as well), **Teminite** is a highly vaunted electronic music producer from the United Kingdom and has made waves across a bunch of big-name labels in recent years with his originals, remixes, and collaborative works.
+You know him, you love him, now he's here to stay. From _Highscore_ and _Immortal Flame_ fame (featuring the stupendously talented [Panda Eyes](https://osu.ppy.sh/beatmaps/artists/55) as well), **Teminite** is a highly vaunted electronic music producer from the United Kingdom and has made waves across a bunch of big-name labels in recent years with his originals, remixes, and collaborative works.
 
 We've managed to snag a whopping assortment of **48** new tracks for you to sink your creative teeth into, including most of his hit singles, and vast swathes of his album and EP releases.
 
@@ -48,7 +48,7 @@ Still not convinced? Give these a listen:
     <source src="https://assets.ppy.sh/artists/64/previews/1774.mp3" type="audio/mpeg">
 </audio>
 
----
+* * *
 
 All of the above and so, so much more is available **right now** over at [**Teminite**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/64), bundled up in pre-timed packages just waiting for you to impart your magnificent mapping magic on them.
 

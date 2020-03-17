@@ -12,7 +12,7 @@ It was once said by peppy himself that a game simply isn't a rhythm game unless 
 
 **Cranky** is such a major fixture of rhythm gaming music that we can't even really begin to do his legacy justice, so we'll just let his work speak for him.
 
-The musical genius behind countless entries in many other rhythm games, dating back as far as rhythm games go yet spanning to recent aracde hits like *SOUND VOLTEX*, *jubeat plus* and more, **Cranky**'s work is the very definition of diverse, spanning across dozens of genres and sounds while always retaining those core hits that help drive rhythm games as a whole.
+The musical genius behind countless entries in many other rhythm games, dating back as far as rhythm games go yet spanning to recent aracde hits like _SOUND VOLTEX_, _jubeat plus_ and more, **Cranky**'s work is the very definition of diverse, spanning across dozens of genres and sounds while always retaining those core hits that help drive rhythm games as a whole.
 
 [Don't take my word for it, visit his Featured Artist listing and check it out!](https://osu.ppy.sh/beatmaps/artists/23)
 

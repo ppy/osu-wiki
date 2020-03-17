@@ -5,7 +5,9 @@ needs_cleanup: true
 # Storyboarding
 
 <!-- This is a stub. Please write it like Beatmapping if possible. -->
+
 <!-- Two important links are wiki/Beatmap_Editor/Design (visual) and wiki/Storyboard_Scripting (manual coding done by KJ) -->
+
 <!-- Put notice for SGL tool or whatever you find here as a link for alternative way or something -->
 
 ## Creating a storyboard

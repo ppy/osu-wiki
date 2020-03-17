@@ -14,12 +14,10 @@ Precyzja to wartość określająca umiejętności gracza w śledzeniu rytmu. Te
 
 W trybie osu!standard wartości dla jednego obiektu są następujące:
 
-```
-300 -> 300 / 300 = 1   = 100.00%
-100 -> 100 / 300 = 1/3 =  33.00%
-50  ->  50 / 300 = 1/6 =  16.67%
-0   ->   0 / 300 = 0   =   0.00%
-```
+    300 -> 300 / 300 = 1   = 100.00%
+    100 -> 100 / 300 = 1/3 =  33.00%
+    50  ->  50 / 300 = 1/6 =  16.67%
+    0   ->   0 / 300 = 0   =   0.00%
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
@@ -27,11 +25,9 @@ W trybie osu!standard wartości dla jednego obiektu są następujące:
 
 W trybie osu!taiko wartości dla jednego obiektu są następujące:
 
-```
-GREAT (良) - 100%
-GOOD (可) - 50%
-MISS/BAD (不可) - 0%
-```
+    GREAT (良) - 100%
+    GOOD (可) - 50%
+    MISS/BAD (不可) - 0%
 
 Slidery i spinnery nie mają wpływu na precyzję.
 
@@ -41,7 +37,7 @@ Slidery i spinnery nie mają wpływu na precyzję.
 
 W trybie osu!catch wszystkie obiekty mają taką samą wartość oprócz bananów, które są częścią spinnera i nie mają wpływu na precyzję.
 
-*Ważne dla użytkowników API: Aby obliczyć precyzję w trybie osu!catch, liczba dropletów znajduje się pod `count50`, a liczba niezłapanych dropletów pod `countkatu`.*
+_Ważne dla użytkowników API: Aby obliczyć precyzję w trybie osu!catch, liczba dropletów znajduje się pod `count50`, a liczba niezłapanych dropletów pod `countkatu`._
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
@@ -55,11 +51,11 @@ Wzór na precyzję w trybie osu!mania jest podobny do wzoru w trybie [osu!standa
 
 Wykres wyniku to wykres ukazujący zmianę wartości punktów życia gracza w trakcie gry. Dodatkowe informacje wyświetlą się po najechaniu kursorem.
 
-*Uwaga: Dodatkowe informacje wyświetlą się tylko po zagraniu beatmapy lub obejrzeniu zapisanej wcześniej powtórki. Po wyjściu z [ekranu wyniku](/wiki/results_screen) informacje te nie zostaną zapisane.*
+_Uwaga: Dodatkowe informacje wyświetlą się tylko po zagraniu beatmapy lub obejrzeniu zapisanej wcześniej powtórki. Po wyjściu z [ekranu wyniku](/wiki/results_screen) informacje te nie zostaną zapisane._
 
 ### Precyzja
 
-Po najechaniu na wykres wyniku, wyświetli się etykieta z *zakresem błędu* i *wskaźnikiem dokładności*.
+Po najechaniu na wykres wyniku, wyświetli się etykieta z _zakresem błędu_ i _wskaźnikiem dokładności_.
 
 W przypadku użycia modyfikatora [DT](/wiki/DT) (Double Time) lub [HT](/wiki/HT) (Half Time), do wartości dla zakresu błędu i wskaźnika dokładności zostaną użyte te same wartości, jakie dany modyfikator stosuje do szybkości piosenki (mnożenie przez 1,5 dla DT oraz dzielenie przez 1,33 dla HT).
 
@@ -73,7 +69,7 @@ Wskaźnik dokładności określa powtarzalność gracza dla każdego trafienia, 
 
 ### Kręcenie spinnerami
 
-*Ważne: te wartości są dostępne tylko dla trybu [osu!standard](/wiki/Game_Modes/osu!) i nie są zachowywane po wyjściu z gry.*
+_Ważne: te wartości są dostępne tylko dla trybu [osu!standard](/wiki/Game_Modes/osu!) i nie są zachowywane po wyjściu z gry._
 
 W etykiecie wykresu wyniku znajduje się kilka informacji odnośnie kręcenia spinnerami na danej beatmapie.
 

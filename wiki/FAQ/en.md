@@ -8,33 +8,33 @@ needs_cleanup: true
 
 ### I've never played this "Ouendan" thing - what is it?
 
-*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* is a rhythm game for the *Nintendo DS*. The gameplay consists of only three elements: tapping circles on the touchscreen, dragging a ball across a fixed path and rotating a spinner very fast. All these elements are timed to (covers of) popular Japanese songs. It looks like this on the *DS*:
+_[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)_ is a rhythm game for the _Nintendo DS_. The gameplay consists of only three elements: tapping circles on the touchscreen, dragging a ball across a fixed path and rotating a spinner very fast. All these elements are timed to (covers of) popular Japanese songs. It looks like this on the _DS_:
 
 ![Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS](/wiki/shared/Ouendan.jpg "Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS")
 
-The gameplay circles can be seen on the bottom screen, and the story on the top screen. Each stage is basically a self-contained story about a person in trouble. That is where the *Ouendan* (Cheer squad) comes in. Through the magical power of male cheerleading, the player have to help the people in trouble.
+The gameplay circles can be seen on the bottom screen, and the story on the top screen. Each stage is basically a self-contained story about a person in trouble. That is where the _Ouendan_ (Cheer squad) comes in. Through the magical power of male cheerleading, the player have to help the people in trouble.
 
 ### How to play?
 
-*Full explanation: [osu!](/wiki/Game_Modes/osu!)*
+_Full explanation: [osu!](/wiki/Game_Modes/osu!)_
 
 While most players may not have a touchscreen at their disposal, the game was made to be playable with a normal mouse in mind, as well as any creative variations of input devices usage. Different play styles can be found in the [play styles](/wiki/Play_Styles) page. There are some songs which will push the limits of the normal mouse and the player, but all the (ranked and approved) beatmaps have been tested and (most can be) passable using only a mouse.
 
 #### Gameplay Basics
 
-*Tutorial: [osu! tutorial (new beginnings)](https://osu.ppy.sh/beatmapsets/1011011)*
+_Tutorial: [osu! tutorial (new beginnings)](https://osu.ppy.sh/beatmapsets/1011011)_
 
 The gameplay puts emphasis on:
 
-- Adaptability and reaction to stimuli (that is, the hittable objects appearing all over the screen at lightning speed).
-- Understanding of the song's beat and design.
-- Input device control.
-- Timing of hits on the object that appeared on the screen.
-- Ability to spin the mouse (or pen for tablet) on spinners.
-- Physical stamina and mental fortitude (especially longer, marathon-type songs).
-- Proper positioning and hand-eye coordination.
+-   Adaptability and reaction to stimuli (that is, the hittable objects appearing all over the screen at lightning speed).
+-   Understanding of the song's beat and design.
+-   Input device control.
+-   Timing of hits on the object that appeared on the screen.
+-   Ability to spin the mouse (or pen for tablet) on spinners.
+-   Physical stamina and mental fortitude (especially longer, marathon-type songs).
+-   Proper positioning and hand-eye coordination.
 
-These are some of the vital skills to become an *osu! rhythm master*. The first step to begin the journey is to learn the basics (and theories) of the hittable objects (referred as *hit objects* from here onwards).
+These are some of the vital skills to become an _osu! rhythm master_. The first step to begin the journey is to learn the basics (and theories) of the hittable objects (referred as _hit objects_ from here onwards).
 
 ##### Hit circles
 
@@ -56,13 +56,13 @@ Sometimes, as seen in the screenshot above, the ball may reverse its direction a
 
 ![Spinner](/wiki/shared/osu_spinner.jpg "osu! spinner")
 
-Hold on the mouse/keyboard-button (or keep the pen onto the tablet). From there, use the mouse (or pen) and spin the spinner in a circular motion (in either direction) until the spinner circle grows outwards completely. A *Clear* notice will appear to indicate that the spinner was completed. If the spinner was cleared early, continue spinning to collect score bonus and gain some health back.
+Hold on the mouse/keyboard-button (or keep the pen onto the tablet). From there, use the mouse (or pen) and spin the spinner in a circular motion (in either direction) until the spinner circle grows outwards completely. A _Clear_ notice will appear to indicate that the spinner was completed. If the spinner was cleared early, continue spinning to collect score bonus and gain some health back.
 
-The outer white circle shows how much time left to complete the spinner. This circle will turn red to notify that time is almost out. Older beatmaps, using *skin version 1.0*, will have a meter/gauge to indicate how close to clearing the spinner.
+The outer white circle shows how much time left to complete the spinner. This circle will turn red to notify that time is almost out. Older beatmaps, using _skin version 1.0_, will have a meter/gauge to indicate how close to clearing the spinner.
 
 The small box below the spinner shows spins per minute. The number inside that box translates to the number of spins possible, if to continue to spin the spinner at that speed for one minute. If mouse/keyboard-button was released (or pen did not touch the tablet) early during the spin, the spinner will stop reading the spin.
 
-On the *DS*, this is a good way to scratch the touchscreen (or screen protector), especially on the higher difficulties. In osu!, spinners have been toned down as to not be such a nuisance to complete. The maximum number of spins per minute achievable is 477 which is also the rate at which the [Auto](/wiki/Game_Modifiers) game modifier spins while the [Spun Out](/wiki/Game_Modifiers) game modifier spins slower at 287 spins per minute.
+On the _DS_, this is a good way to scratch the touchscreen (or screen protector), especially on the higher difficulties. In osu!, spinners have been toned down as to not be such a nuisance to complete. The maximum number of spins per minute achievable is 477 which is also the rate at which the [Auto](/wiki/Game_Modifiers) game modifier spins while the [Spun Out](/wiki/Game_Modifiers) game modifier spins slower at 287 spins per minute.
 
 #### In-Game Interface
 
@@ -76,8 +76,8 @@ On the right of the health bar is the total score. Below that is the accuracy. T
 
 The default controls for osu! are:
 
-| Mouse | Keyboard | Tablet/Touchscreen |
-| :-- | :-- | :-- |
+| Mouse                            | Keyboard          | Tablet/Touchscreen      |
+| :------------------------------- | :---------------- | :---------------------- |
 | Left click(M1) / Right click(M2) | `Z`(K1) / `X`(K2) | Touching the screen(M1) |
 
 The hit objects in osu! will accept any input from the input device, as long as each hit objects was tapped in time.
@@ -86,7 +86,7 @@ If [Relax](/wiki/Game_Modifiers) game modifer was used, only the in-game cursor 
 
 If [Auto Pilot](/wiki/Game_Modifiers) game modifier was used, only the input from the input device will work. Time the tap on the hit objects with automated cursor movement. Spinners will follow the [Spun Out](/wiki/Game_Modifiers) mod speed.
 
----
+* * *
 
 ## Alternative Game Modes
 
@@ -94,15 +94,15 @@ If [Auto Pilot](/wiki/Game_Modifiers) game modifier was used, only the input fro
 
 ![Mode change interface](/wiki/shared/Interface_mode.png "Mode toolbox in Song Selection (Solo)")
 
-Click on the `Mode` button to **open up a list of gameplay modes available on osu!**. Click on the desired gameplay mode, and osu! will switch to that gameplay mode style, along with relevant leaderboard change. Alternatively, press `Ctrl` key and `1` (![][osu! icon] *[osu!standard](/wiki/Game_Modes/osu!))* / `2` ( ![][osu!taiko icon] *[osu!taiko](/wiki/Game_Modes/osu!taiko)*) / `3` (![][osu!catch icon] *[osu!catch](/wiki/Game_Modes/osu!catch)*) / `4` (![][osu!mania icon] *[osu!mania](/wiki/Game_Modes/osu!mania)*) key on the keyboard to quickly switch to the desired gameplay mode.
+Click on the `Mode` button to **open up a list of gameplay modes available on osu!**. Click on the desired gameplay mode, and osu! will switch to that gameplay mode style, along with relevant leaderboard change. Alternatively, press `Ctrl` key and `1` (![][osu! icon] _[osu!standard](/wiki/Game_Modes/osu!))_ / `2` ( ![][osu!taiko icon] _[osu!taiko](/wiki/Game_Modes/osu!taiko)_) / `3` (![][osu!catch icon] _[osu!catch](/wiki/Game_Modes/osu!catch)_) / `4` (![][osu!mania icon] _[osu!mania](/wiki/Game_Modes/osu!mania)_) key on the keyboard to quickly switch to the desired gameplay mode.
 
 ### What is osu!taiko?
 
-*Full explanation: [osu!taiko](/wiki/Game_Modes/osu!taiko)*
+_Full explanation: [osu!taiko](/wiki/Game_Modes/osu!taiko)_
 
 ![osu!taiko Interface](/wiki/shared/Interface_taiko.jpg "In-game interface of osu!taiko")
 
-*[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)* is a taiko drum rhythm game made by *Namco* (now Namco Bandai). The game involves the simulation of playing the taiko drum to the beat of the music. In osu!, beatmaps can be played in the styling of *Taiko no Tatsujin* through the use of osu!taiko game mode.
+_[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)_ is a taiko drum rhythm game made by _Namco_ (now Namco Bandai). The game involves the simulation of playing the taiko drum to the beat of the music. In osu!, beatmaps can be played in the styling of _Taiko no Tatsujin_ through the use of osu!taiko game mode.
 
 #### Basic explanation
 
@@ -110,20 +110,20 @@ Click on the `Mode` button to **open up a list of gameplay modes available on os
 
 ![Taiko playfield](/wiki/shared/Taiko_playfield.jpg "In-game playfield interface of osu!taiko")
 
-For players with prior *Taiko no Tatsujin* experience:
+For players with prior _Taiko no Tatsujin_ experience:
 
-- No chibi dancers at the bottom (must be storyboarded)
-- The health bar must be at least 50% full to pass the song (which is not really obvious using the default skin; please look in the [Skin Compendium](https://osu.ppy.sh/community/forums/topics/686664) for a decent osu!taiko skin)
-- *Kiai Time* triggers the *"Go-Go Time"*
-  - Gameplay gimmicks like the hit balloons or forked paths are not implemented (only the barebone basics)
-- Background display difference
-  - osu!taiko-specific beatmap usually has its own custom background, leaving upper section empty
-  - A video or static background image-only beatmap will take the lower portion only
-  - If there is an element of storyboard, it will take over all the available screen space except the gameplay-important parts
+-   No chibi dancers at the bottom (must be storyboarded)
+-   The health bar must be at least 50% full to pass the song (which is not really obvious using the default skin; please look in the [Skin Compendium](https://osu.ppy.sh/community/forums/topics/686664) for a decent osu!taiko skin)
+-   _Kiai Time_ triggers the _"Go-Go Time"_
+    -   Gameplay gimmicks like the hit balloons or forked paths are not implemented (only the barebone basics)
+-   Background display difference
+    -   osu!taiko-specific beatmap usually has its own custom background, leaving upper section empty
+    -   A video or static background image-only beatmap will take the lower portion only
+    -   If there is an element of storyboard, it will take over all the available screen space except the gameplay-important parts
 
 For newcomers of osu!taiko mode, the screen is split to two different sections; the upper section contains the gameplay elements while the lower section contains an image or video for the beatmap. At the upper section, there is the health bar, which unlike other game modes, starts off empty and must be filled up to at least 50% full or half-full to pass the difficulty. At the top-middle part below the health bar, a taiko drum is located at the left-side and a moving conveyor belt which carries the hit objects from right to left passing through a double white circles which serves as judgement circle near the taiko drum. Above the taiko drum is the animated taiko mascot which will react based on judgement received along with upper background colour changes. Lastly, there is the usual score, accuracy, and timer of the beatmap at the upper-right.
 
-Please note that health drain is disabled in osu!taiko, so only the hit objects will affect the health bar. Combo will not break when playing on an empty field. Unlike osu!, the combo milestone celebration is every 50 consecutive hits. The base score will be boosted after obtaining a combo that is a multiple of 10, but stops at 100 (max combo limit for the boost). If the combo is broken, the boost resets back to the base score. During *Kiai Time*, every successful hit will give the player 20% more points over the current score amount. Score gained from a hit can be checked below the accuracy at the upper-right corner in red.
+Please note that health drain is disabled in osu!taiko, so only the hit objects will affect the health bar. Combo will not break when playing on an empty field. Unlike osu!, the combo milestone celebration is every 50 consecutive hits. The base score will be boosted after obtaining a combo that is a multiple of 10, but stops at 100 (max combo limit for the boost). If the combo is broken, the boost resets back to the base score. During _Kiai Time_, every successful hit will give the player 20% more points over the current score amount. Score gained from a hit can be checked below the accuracy at the upper-right corner in red.
 
 ##### Taiko notes
 
@@ -131,7 +131,7 @@ Please note that health drain is disabled in osu!taiko, so only the hit objects 
 
 Each taiko notes (or notes, for brevity) will appear as either a red or a pale-blue circle. Those coloured circles were named Don (red notes) and Katu (blue notes), respectively.
 
-If it is a small red note, press the button bound to the inner portion of the taiko drum or hit the large flat area (center) of the *TaTaCon*. If it is a small blue note, press the button bound to the outer ring of the taiko drum or hit the sides of the *TaTaCon*. If the note is a **LARGE** circle, press or hit both of either inner or outer drum depending on the colour of the note for double point (a single correct hit will give single point instead).
+If it is a small red note, press the button bound to the inner portion of the taiko drum or hit the large flat area (center) of the _TaTaCon_. If it is a small blue note, press the button bound to the outer ring of the taiko drum or hit the sides of the _TaTaCon_. If the note is a **LARGE** circle, press or hit both of either inner or outer drum depending on the colour of the note for double point (a single correct hit will give single point instead).
 
 The notes must be pressed or hit in the small white judgement circle next to the drum. Hitting the wrong colour, or both red and blue colours at the same time, will be considered a miss.
 
@@ -139,7 +139,7 @@ The notes must be pressed or hit in the small white judgement circle next to the
 
 ![Taiko drumroll](/wiki/shared/Taiko_drumroll.jpg "osu!taiko drumroll")
 
-Hit the inner (or outer) drum continuously for points until the end of the drumroll. For **LARGE** note, hit both buttons on the inner (or outer) drum simultaneously and continuously until it is done. Do note that drumrolls hits were hardcapped and only counted when hitting on the tiny hit circles, rather than drumrolling as fast as possible as in *Taiko no Tatsujin*.
+Hit the inner (or outer) drum continuously for points until the end of the drumroll. For **LARGE** note, hit both buttons on the inner (or outer) drum simultaneously and continuously until it is done. Do note that drumrolls hits were hardcapped and only counted when hitting on the tiny hit circles, rather than drumrolling as fast as possible as in _Taiko no Tatsujin_.
 
 Drumrolls can be ignored with no health penalty, as it does not recover the health bar at all. However, it will cost possible points gained from the drumroll. Each successful hit on the tiny hit circle gives a static 300 score.
 
@@ -155,24 +155,24 @@ It does not increment the combo counter, and does not recover the health bar in 
 
 The default controls for osu!taiko are:
 
-| Type | Mouse | Keyboard | TaTaCon |
-| :-- | :-- | :-- | :-- |
-| Red | Left click(L) | `X`(L) / `C`(R) | Flat surface of the drum |
+| Type | Mouse          | Keyboard        | TaTaCon                   |
+| :--- | :------------- | :-------------- | :------------------------ |
+| Red  | Left click(L)  | `X`(L) / `C`(R) | Flat surface of the drum  |
 | Blue | Right click(L) | `Z`(L) / `V`(R) | Outer surface of the drum |
 
 The placement of in-game cursor does not matter when playing.
 
 If [Relax](/wiki/Game_Modifiers) mod was used, the score judgement only account for hit timing only (automatically rectify wrong colour hit with correct colour).
 
-*TaTaCon* drum controller were primarily made for the home ports of *Taiko no Tatsujin* and *Taiko: Drum Master*.
+_TaTaCon_ drum controller were primarily made for the home ports of _Taiko no Tatsujin_ and _Taiko: Drum Master_.
 
 ### What is osu!catch?
 
-*Full explanation: [osu!catch](/wiki/Game_Modes/osu!catch)*
+_Full explanation: [osu!catch](/wiki/Game_Modes/osu!catch)_
 
 ![osu!catch Interface](/wiki/shared/Interface_ctb.jpg "In-game interface of osu!catch")
 
-osu!catch (formerly known as *Catch the Beat*) is the second game mode added to osu!, after the osu!taiko game mode.
+osu!catch (formerly known as _Catch the Beat_) is the second game mode added to osu!, after the osu!taiko game mode.
 
 Instead of tapping circles to the beat, move the catcher at the bottom of the screen while the fruits fall from above.
 
@@ -200,7 +200,7 @@ To catch these fruits, make sure it falls to the plate and not over the plate. C
 
 A typical fruit trail will contains two fruits (start and end), droplets (slider path), juice drop (slider ticks), and more fruits for each reverse arrow points along with a reversed slider path. Droplet gives 10 points each and treated as 50 in result screen. Juice drop gives 30 points each, increment combo by 1, and treated as 100 in result screen.
 
-Missing the juice drop will break the combo (as it is a slider tick), but missing the droplet will not break the combo. However, missed droplets will not be shown in the local result screen, but will be shown in the website's leaderboard as *Miss Droplet*, which notably affects accuracy (missed out the droplet, which is a 50) and score (10 points for each droplet missed).
+Missing the juice drop will break the combo (as it is a slider tick), but missing the droplet will not break the combo. However, missed droplets will not be shown in the local result screen, but will be shown in the website's leaderboard as _Miss Droplet_, which notably affects accuracy (missed out the droplet, which is a 50) and score (10 points for each droplet missed).
 
 ##### Bananas
 
@@ -208,7 +208,7 @@ Missing the juice drop will break the combo (as it is a slider tick), but missin
 
 Here, large bananas will rain down and shrink down to catch size as it falls down to the plate (or not). Each collected bananas will give a static score of 1,100 regardless of mod and combo multiplier.
 
-The bananas can be ignored with no health penalty. However, it can cost the extra points and health recovery from collecting the bananas. Notably, [Auto](/wiki/Game_Modifiers) mod will go above and beyond to catch *all* of the bananas without fail.
+The bananas can be ignored with no health penalty. However, it can cost the extra points and health recovery from collecting the bananas. Notably, [Auto](/wiki/Game_Modifiers) mod will go above and beyond to catch _all_ of the bananas without fail.
 
 ##### Hyperfruits
 
@@ -216,25 +216,25 @@ The bananas can be ignored with no health penalty. However, it can cost the extr
 
 Hyperfruits are special fruits that will appear to help the catcher to catch the next fruit when normal dash is considered impossible to catch it in a strict timespan allocated. All hyperfruits have a signature red colour surrounding the hyperfruit itself by default.
 
-Collecting the hyperfruit will make the catcher's dash upgraded to *hyperdash* (just fast enough to catch the next fruit), glows red, and leaves a temporary red *afterimage* at the collection point, until the next one fruit was caught or dropped, which the catcher will then be back to normal.
+Collecting the hyperfruit will make the catcher's dash upgraded to _hyperdash_ (just fast enough to catch the next fruit), glows red, and leaves a temporary red _afterimage_ at the collection point, until the next one fruit was caught or dropped, which the catcher will then be back to normal.
 
 #### Controlling the catcher
 
-- By default, the left `<-`(L) and right `->`(R) arrow keys to move the catcher.
-- Press and hold the `leftShift`(D) key with one of the arrow keys will make the catcher *dash* in that direction at x2.0 speed (indicated with a **bright glow** from the catcher).
-  - Alternatively, press and hold the Left Click(D) button on the mouse to trigger the dash.
+-   By default, the left `<-`(L) and right `->`(R) arrow keys to move the catcher.
+-   Press and hold the `leftShift`(D) key with one of the arrow keys will make the catcher _dash_ in that direction at x2.0 speed (indicated with a **bright glow** from the catcher).
+    -   Alternatively, press and hold the Left Click(D) button on the mouse to trigger the dash.
 
 The placement of in-game cursor does not matter when playing normally. If [Relax](/wiki/Game_Modifiers) mod was enabled, the control of the catcher will be the in-game cursor instead. However, the play unrankable when Relax mod was enabled (as it defeats the only challenge of osu!catch; fixed catcher speed and catcher plate control).
 
 ### What is osu!mania?
 
-*Full explanation: [osu!mania](/wiki/Game_Modes/osu!mania)*
+_Full explanation: [osu!mania](/wiki/Game_Modes/osu!mania)_
 
 ![osu!mania Interface](/wiki/shared/Interface_mania.jpg "In-game interface of osu!mania")
 
 osu!mania is the third game mode added to osu!, after osu!taiko and osu!catch game modes.
 
-The mode has been widely used in almost all of the major rhythm games. It require good hand and/or leg coordination where the notes (with their quantity depending on BPM and difficulty) move on a conveyer. The player will have to press the correct key for that specific note in time. Though the game mode was originally made as an imitation of the *Beatmania* style of playing, osu!mania allows changing the number of keys or vertically flipping the orientation of the playfield (this means that it can be made to look more like *Guitar Hero* \[5 keys\] or *Dance Dance Revolution* \[4 keys\] and so on).
+The mode has been widely used in almost all of the major rhythm games. It require good hand and/or leg coordination where the notes (with their quantity depending on BPM and difficulty) move on a conveyer. The player will have to press the correct key for that specific note in time. Though the game mode was originally made as an imitation of the _Beatmania_ style of playing, osu!mania allows changing the number of keys or vertically flipping the orientation of the playfield (this means that it can be made to look more like _Guitar Hero_ \[5 keys] or _Dance Dance Revolution_ \[4 keys] and so on).
 
 When converting a non-specific beatmap, the default key range would be around 4 to 7 keys.
 
@@ -272,116 +272,116 @@ Health bar regeneration occurs slowly while holding the hold note(s). Depending 
 
 ![Default Key layouts of osu!mania (Options->Input)](/wiki/shared/Mania_key_layouts.jpg "osu!mania key layout")
 
-There two different binding-styles, *Symmetrical* and *Left to Right*.
+There two different binding-styles, _Symmetrical_ and _Left to Right_.
 
-- *Symmetrical* style mimics the button placement of *DJMAX*, in which the center key is `Spacebar` to simulate a feeling of stepping the pedal similar to the arcade version.
-  - Centre key matches the middle column (odd numbered keys only) and the other column matches the keys in its corresponding place.
-- *Left to Right* style mimics the button placement of *Beatmania IIDX*, where the first column matches to the *key1*, then the second column matches the *key2* and so on.
+-   _Symmetrical_ style mimics the button placement of _DJMAX_, in which the center key is `Spacebar` to simulate a feeling of stepping the pedal similar to the arcade version.
+    -   Centre key matches the middle column (odd numbered keys only) and the other column matches the keys in its corresponding place.
+-   _Left to Right_ style mimics the button placement of _Beatmania IIDX_, where the first column matches to the _key1_, then the second column matches the _key2_ and so on.
 
-*Symmetrical* key binding (For *DJMAX* style)
+_Symmetrical_ key binding (For _DJMAX_ style)
 
-- For *left* hand buttons — (K1)`A`, (K2)`S`, (K3)`D`, (K4)`F`
-- For *right* hand buttons — (K6)`J`, (K7)`K`, (K8)`L`, (K9)`;`.
-- *Center* button — (K5)`Spacebar`. \[odd numbered keys only\]
-- The *Special* button — `leftShift` and `leftCtrl`.
+-   For _left_ hand buttons — (K1)`A`, (K2)`S`, (K3)`D`, (K4)`F`
+-   For _right_ hand buttons — (K6)`J`, (K7)`K`, (K8)`L`, (K9)`;`.
+-   _Center_ button — (K5)`Spacebar`. \[odd numbered keys only]
+-   The _Special_ button — `leftShift` and `leftCtrl`.
 
-| Key | L | C | R |
-| :-: | :-- | :-: | --: |
-| 4K | K3, K4 | - | K6, K7 |
-| 5K | K3, K4 | K5 | K6, K7 |
-| 6K | K2, K3, K4 | - | K6, K7, K8 |
-| 7K | K2, K3, K4 | K5 | K6, K7, K8 |
-| 8K | K1, K2, K3, K4 | - | K6, K7, K8, K9 |
+| Key | L              |  C  |              R |
+| :-: | :------------- | :-: | -------------: |
+|  4K | K3, K4         |  -  |         K6, K7 |
+|  5K | K3, K4         |  K5 |         K6, K7 |
+|  6K | K2, K3, K4     |  -  |     K6, K7, K8 |
+|  7K | K2, K3, K4     |  K5 |     K6, K7, K8 |
+|  8K | K1, K2, K3, K4 |  -  | K6, K7, K8, K9 |
 
-*Left to Right* key binding (For *Beatmania IIDX* style)
+_Left to Right_ key binding (For _Beatmania IIDX_ style)
 
-- From down to up then down to up again: (K1)`Z`, (K2)`S`, (K3)`X`, (K4)`D`, (K5)`C`, (K6)`F`, (K7)`V`, (K8)`G`, (K9)`B` \[K9 is not used\]
-- The *Special* button — `leftShift` and `leftCtrl`.
+-   From down to up then down to up again: (K1)`Z`, (K2)`S`, (K3)`X`, (K4)`D`, (K5)`C`, (K6)`F`, (K7)`V`, (K8)`G`, (K9)`B` \[K9 is not used]
+-   The _Special_ button — `leftShift` and `leftCtrl`.
 
-| Key | Bindings |
-| :-: | :-- |
-| 4K | K1, K2, -, K4, K5 |
-| 5K | K1, K2, K3, K4, K5 |
-| 6K | K1, K2, K3, K4, K5, K6 |
-| 7K | K1, K2, K3, K4, K5, K6, K7 |
-| 8K | K1, K2, K3, K4, K5, K6, K7, K8 |
+| Key | Bindings                       |
+| :-: | :----------------------------- |
+|  4K | K1, K2, -, K4, K5              |
+|  5K | K1, K2, K3, K4, K5             |
+|  6K | K1, K2, K3, K4, K5, K6         |
+|  7K | K1, K2, K3, K4, K5, K6, K7     |
+|  8K | K1, K2, K3, K4, K5, K6, K7, K8 |
 
----
+* * *
 
 ## Scoring
 
-*Detailed explanation of scoring can be found at the game style's own respective page or [the Score page](/wiki/Score)).*
+_Detailed explanation of scoring can be found at the game style's own respective page or [the Score page](/wiki/Score))._
 
-*Detailed explanation of accuracy calculation can be found at the game style's own respective page or [the Accuracy page](/wiki/Accuracy).*
+_Detailed explanation of accuracy calculation can be found at the game style's own respective page or [the Accuracy page](/wiki/Accuracy)._
 
 ### Grades
 
 #### ![][osu! icon] osu!
 
-| Grade | Condition |
-| :-: | :-- |
-| SS | 100% accuracy |
-| S | Over 90% 300s, less than 1% 50s and no misses |
-| A | Over 80% 300s and no misses **OR** over 90% 300s |
-| B | Over 70% 300s and no misses **OR** over 80% 300s |
-| C | Over 60% 300s |
-| D | Anything else |
+| Grade | Condition                                        |
+| :---: | :----------------------------------------------- |
+|   SS  | 100% accuracy                                    |
+|   S   | Over 90% 300s, less than 1% 50s and no misses    |
+|   A   | Over 80% 300s and no misses **OR** over 90% 300s |
+|   B   | Over 70% 300s and no misses **OR** over 80% 300s |
+|   C   | Over 60% 300s                                    |
+|   D   | Anything else                                    |
 
 #### ![][osu!taiko icon] osu!taiko
 
-| Grade | Condition |
-| :-: | :-- |
-| SS | 100% Accuracy. |
-| S | Over 95% Accuracy (90+% GREATs, or less than 1 GOOD for every 10 notes). |
-| A | Over 90% Accuracy (80+% GREATs, or less than 1 GOOD for every 5 notes). |
-| B | Over 80% Accuracy (70+% GREATs, or less than 1 GOOD for every 3.33 notes). |
+| Grade | Condition                                                                  |
+| :---: | :------------------------------------------------------------------------- |
+|   SS  | 100% Accuracy.                                                             |
+|   S   | Over 95% Accuracy (90+% GREATs, or less than 1 GOOD for every 10 notes).   |
+|   A   | Over 90% Accuracy (80+% GREATs, or less than 1 GOOD for every 5 notes).    |
+|   B   | Over 80% Accuracy (70+% GREATs, or less than 1 GOOD for every 3.33 notes). |
 
 #### ![][osu!catch icon] osu!catch
 
-| Grade | Condition |
-| :-: | :-- |
-| SS | 100.00% Accuracy |
-| S | 98.01% to 99.99% Accuracy (an 'S' rank is possible even with several misses, like in osu!mania). |
-| A | 94.01% to 98.00% Accuracy |
-| B | 90.01% to 94.00% Accuracy |
-| C | 85.01% to 90.00% Accuracy |
-| D | Any other accuracy under 85.00%. |
+| Grade | Condition                                                                                        |
+| :---: | :----------------------------------------------------------------------------------------------- |
+|   SS  | 100.00% Accuracy                                                                                 |
+|   S   | 98.01% to 99.99% Accuracy (an 'S' rank is possible even with several misses, like in osu!mania). |
+|   A   | 94.01% to 98.00% Accuracy                                                                        |
+|   B   | 90.01% to 94.00% Accuracy                                                                        |
+|   C   | 85.01% to 90.00% Accuracy                                                                        |
+|   D   | Any other accuracy under 85.00%.                                                                 |
 
 #### ![][osu!mania icon] osu!mania
 
-| Grade | Condition |
-| :-: | :-- |
-| SS | 100% Accuracy (only MAX and/or 300). |
-| S | Over 95% Accuracy (an 'S' rank is possible even with several misses, like in osu!catch). |
-| A | Over 90% Accuracy. |
-| B | Over 80% Accuracy. |
-| C | Over 70% Accuracy. |
-| D | Anything else. |
+| Grade | Condition                                                                                |
+| :---: | :--------------------------------------------------------------------------------------- |
+|   SS  | 100% Accuracy (only MAX and/or 300).                                                     |
+|   S   | Over 95% Accuracy (an 'S' rank is possible even with several misses, like in osu!catch). |
+|   A   | Over 90% Accuracy.                                                                       |
+|   B   | Over 80% Accuracy.                                                                       |
+|   C   | Over 70% Accuracy.                                                                       |
+|   D   | Anything else.                                                                           |
 
 #### All
 
 **Special grades:**
 
-- Silver SS (SSH) = Normal grade SS with *[Hidden](/wiki/Game_Modifiers)* and/or *[Flashlight](/wiki/Game_Modifiers)* mod.
-- Silver S (SH) = Normal grade S with *[Hidden](/wiki/Game_Modifiers)* and/or *[Flashlight](/wiki/Game_Modifiers)* mod.
+-   Silver SS (SSH) = Normal grade SS with _[Hidden](/wiki/Game_Modifiers)_ and/or _[Flashlight](/wiki/Game_Modifiers)_ mod.
+-   Silver S (SH) = Normal grade S with _[Hidden](/wiki/Game_Modifiers)_ and/or _[Flashlight](/wiki/Game_Modifiers)_ mod.
 
-**Regarding the *Ranks* in profile page:**
+**Regarding the _Ranks_ in profile page:**
 
-- Grades obtained will be set at the profile page under General->Ranks provided the in-game osu!account was still connected online with Bancho server when receiving the grade.
-  - **Offline play**, even with osu!account logged-in, **will not be counted**.
-- **Grades given for profile depends on ranked/approved top score grade for a beatmap's difficulty in that game mode, not as whole.**
-  - If a beatmap has three(3) ranked difficulties, and SS'ed all three of them in osu!catch; three(3) SS will be given for osu!catch's Ranks section, not just one(1) SS given.
-  - However, if a new highscore (from better spinner bonus or game modifiers) was achieved from replaying an SS'ed ranked difficulty but was an S grade, then the SS counter will decrement by one(1) and S counter increment by one(1) instead.
+-   Grades obtained will be set at the profile page under General->Ranks provided the in-game osu!account was still connected online with Bancho server when receiving the grade.
+    -   **Offline play**, even with osu!account logged-in, **will not be counted**.
+-   **Grades given for profile depends on ranked/approved top score grade for a beatmap's difficulty in that game mode, not as whole.**
+    -   If a beatmap has three(3) ranked difficulties, and SS'ed all three of them in osu!catch; three(3) SS will be given for osu!catch's Ranks section, not just one(1) SS given.
+    -   However, if a new highscore (from better spinner bonus or game modifiers) was achieved from replaying an SS'ed ranked difficulty but was an S grade, then the SS counter will decrement by one(1) and S counter increment by one(1) instead.
 
 ## Performance Points
 
-*Full explanation: [Performance Points](/wiki/Performance_Points)*
+_Full explanation: [Performance Points](/wiki/Performance_Points)_
 
 Performance points(pp) is a ranking metric aiming to be more contextually relevant to a continuous game like osu!. It aims to shift the focus from being on the amount of time played to the actual skill of the player. Performance points is heavily based on map difficulty, determined by a unique algorithm in every game mode. Based on this difficulty alone, each of the scores will be rated and assigned a pp value. Performance rank is predominantly based on performance on individual maps. The easiest way to improve it is to score high on difficult songs, and playing more songs. Do note that game modes are counted separately; playing osu!, osu!taiko, osu!catch, or osu!mania will raise the pp for the respective game mode.
 
 For any questions regarding pp, please refer to the [wiki page for pp first](/wiki/Performance_Points).
 
----
+* * *
 
 ## Common issues and questions
 
@@ -389,9 +389,9 @@ For any questions regarding pp, please refer to the [wiki page for pp first](/wi
 
 #### Where to find and get the beatmaps?
 
-*Detailed explanation of the beatmaps: [Beatmaps](/wiki/Beatmaps)*
+_Detailed explanation of the beatmaps: [Beatmaps](/wiki/Beatmaps)_
 
-The main page, under the name *[Beatmaps](https://osu.ppy.sh/beatmapsets)*. Just remember to login to the website with an *osu!account* beforehand to allow download of beatmaps from the site.
+The main page, under the name _[Beatmaps](https://osu.ppy.sh/beatmapsets)_. Just remember to login to the website with an _osu!account_ beforehand to allow download of beatmaps from the site.
 
 #### Can I disable Kiai Time?
 
@@ -425,27 +425,27 @@ Keep in mind that osu! has four game modes so you might be looking at the wrong 
 
 #### How do I change the default keyboard key input for my game mode of choice?
 
-*Full explanation: [Options](/wiki/Options)*
+_Full explanation: [Options](/wiki/Options)_
 
 ![Options sidebar with quickicons](/wiki/shared/Options_quickicons.jpg "Options quickicons")
 
-From the *Input* icon in the *Options* sidebar as shown above, under **Keyboard** section as shown below.
+From the _Input_ icon in the _Options_ sidebar as shown above, under **Keyboard** section as shown below.
 
 ![Options keyboard section](/wiki/shared/Options_keyboard.jpg "Options Input icon, Keyboard section")
 
 #### Game over? Where did I mess up?
 
-*Full explanation: [Replay](/wiki/Replay)*
+_Full explanation: [Replay](/wiki/Replay)_
 
-After failing a beatmap, press the `F1` key to replay the currently failed play. The replay ends when the screen darkens, with an osu!logo in the middle, rather than the game over screen. To rewatch the replay again, hold the custom default grave/tilde (\`/~) key (can be changed in Options sidebar; inside *Change keyboard bindings* as **Quick Retry (hold briefly)**) or `Ctrl`+`R` for a while.
+After failing a beatmap, press the `F1` key to replay the currently failed play. The replay ends when the screen darkens, with an osu!logo in the middle, rather than the game over screen. To rewatch the replay again, hold the custom default grave/tilde (\`/~) key (can be changed in Options sidebar; inside _Change keyboard bindings_ as **Quick Retry (hold briefly)**) or `Ctrl`+`R` for a while.
 
 Due to the non-standard replay screen, use the `Esc` key to return to Song Selection. Retrying the play (as in, actual play) of the beatmap in this state is not possible. It currently works in Solo mode only when given the game over screen. **This replay will not be saved nor allowed to be exported.** To record the failed replay, please use external third-party software for now since osu! has yet to have native export support for failed replay.
 
 #### Does osu! has keyboard shortcuts?
 
-*Full list: [Shortcut key reference](/wiki/Shortcut_key_reference)*
+_Full list: [Shortcut key reference](/wiki/Shortcut_key_reference)_
 
-Pressing the `Insert` key (in default keyboard setting) will hide, pause (if playing) and mute osu! into the *Windows* sidebar. Find the *osu!logo* in the *Windows* sidebar, and click on it to return osu! to the state before pressing the key. It is called the **Boss key**, and can be modified in `Change keyboard bindings` (in `Options`, under *Keyboard* section), located at the end of the *Universal* section.
+Pressing the `Insert` key (in default keyboard setting) will hide, pause (if playing) and mute osu! into the _Windows_ sidebar. Find the _osu!logo_ in the _Windows_ sidebar, and click on it to return osu! to the state before pressing the key. It is called the **Boss key**, and can be modified in `Change keyboard bindings` (in `Options`, under _Keyboard_ section), located at the end of the _Universal_ section.
 
 Another interesting shortcut is `Alt`+`Enter`. The shortcut toggles the fullscreen mode button in `Options`, but does not work during gameplay or in Multi.
 
@@ -455,7 +455,7 @@ The whole `osu!` folder, including hidden files, is the short answer. On the new
 
 #### Can I use osu! on my mobile device?
 
-*Full list: [Game Modes under External Ports section](/wiki/Game_Modes)*
+_Full list: [Game Modes under External Ports section](/wiki/Game_Modes)_
 
 The current osu! does not support any mobile platform.
 
@@ -463,12 +463,12 @@ However, there are other unofficial ports of osu! and a single official spin-off
 
 A few of the notable ports are:
 
-- ![][osu! icon] opsu! [Windows/OS X/Linux/Android]:
-  Java port of osu! chiefly done by **itdelatrisu** with **fluddokt** providing support for Android version.
-- ![][osu!taiko icon] T-Aiko! v2 [Android/iOS]:
-  osu!taiko mode ported by **low.moe (Guy-kun) team** with new daily ranked challenge and refined T-Aiko! leaderboard.
-- ![][osu! icon] osu!stream [iOS]:
-  Experience the new spin-off of the osu! game mode for the iOS developed by osu! team from grounds up.
+-   ![][osu! icon] opsu! [Windows/OS X/Linux/Android]&#x3A;
+    Java port of osu! chiefly done by **itdelatrisu** with **fluddokt** providing support for Android version.
+-   ![][osu!taiko icon] T-Aiko! v2 [Android/iOS]&#x3A;
+    osu!taiko mode ported by **low.moe (Guy-kun) team** with new daily ranked challenge and refined T-Aiko! leaderboard.
+-   ![][osu! icon] osu!stream [iOS]&#x3A;
+    Experience the new spin-off of the osu! game mode for the iOS developed by osu! team from grounds up.
 
 ### osu!
 
@@ -492,7 +492,7 @@ Slider ticks only appears inside its own slider path; if the slider ticks are to
 
 If miss the timing to tap the starting circle point, miss the slider ticks, or miss the reverse arrow points, combo will break (it should trigger a combo break sound when the combo is high enough) but it is not considered a miss. However, if miss the ending circle point, combo does not break and does not increment by one. It is also not considered a miss; instead, a 100 (or katu for end of the combo) will be given for the entire slider, assuming at least the slider starting circle point done properly, and completed all the slider ticks/reverse arrow points when given. Notably, [Sudden Death](/wiki/Game_Modifiers) game mod will not trigger its effect of immediate game over when missing the ending circle point (since the combo did not break, the Sudden Death effect was not triggered).
 
-These situations, caused by a slider, are collectively called **sliderbreak**. A max combo play can be known by checking the result screen for the *Perfect* notice on the performance graph; not having the *Perfect* notice, especially without any miss, usually means there is one or more sliderbreak occurred during play.
+These situations, caused by a slider, are collectively called **sliderbreak**. A max combo play can be known by checking the result screen for the _Perfect_ notice on the performance graph; not having the _Perfect_ notice, especially without any miss, usually means there is one or more sliderbreak occurred during play.
 
 [Answer source with test example in gaming section of stackexchange](https://gaming.stackexchange.com/questions/221663/i-fcd-a-song-why-is-my-combo-lower-than-people-on-the-high-scores)
 
@@ -504,39 +504,42 @@ The button only works if a folder named `taiko` (capitalisation does not matter)
 
 When enabled, it will use the `taiko` folder's skin elements when playing in osu!taiko, regardless of current skin's taiko elements. If the `taiko` folder was not found, or disabled, it will use the current skin's taiko elements when available; default if all/certain taiko skin element was not found.
 
-**Ancient trivia note:** `taiko` folder used to hold *[Taiko by LuiginHann](https://osu.ppy.sh/community/forums/topics/41319)* skin, which could be downloaded from the now-deprecated `osume.exe` (an osu! updater when osu! need to update) under Skin tab. As the button does not check whether the folder contains elements from *LuigiHann's skin*, it was quickly noted by the community and used as a personal global osu!taiko skin folder.
+**Ancient trivia note:** `taiko` folder used to hold _[Taiko by LuiginHann](https://osu.ppy.sh/community/forums/topics/41319)_ skin, which could be downloaded from the now-deprecated `osume.exe` (an osu! updater when osu! need to update) under Skin tab. As the button does not check whether the folder contains elements from _LuigiHann's skin_, it was quickly noted by the community and used as a personal global osu!taiko skin folder.
 
 ### Beatmapping
 
 #### "This beatmap you're trying to submit isn't owned by you!"
 
-*For unranked beatmaps only.*
+_For unranked beatmaps only._
 
 ![Example of an .osu file content](/wiki/shared/Beatmap_not_owned.png "Example of an .osu file content")
 
 Please follow these steps:
 
-1. Leave the editor (or close osu!) to make sure the changes apply properly
-2. Check the name of the beatmap's folder
-   - If it starts with numbers, remove them. Otherwise, osu! will treat it as BeatmapSetID
-3. Make sure that the `.mp3` does not start with numbers. Edit the filename in the `.osu` files if it does.
-4. Open all the `.osu` files with a text editor (*Notepad* will work)
-   - Set your name as creator (and replace it in the file name as well)
-   - Set the BeatmapID to 0
-   - Set the BeatmapSetID to -1
+1.  Leave the editor (or close osu!) to make sure the changes apply properly
+2.  Check the name of the beatmap's folder
+    -   If it starts with numbers, remove them. Otherwise, osu! will treat it as BeatmapSetID
+3.  Make sure that the `.mp3` does not start with numbers. Edit the filename in the `.osu` files if it does.
+4.  Open all the `.osu` files with a text editor (_Notepad_ will work)
+    -   Set your name as creator (and replace it in the file name as well)
+    -   Set the BeatmapID to 0
+    -   Set the BeatmapSetID to -1
 
 ## Credits
 
-- peppy's superseded web FAQ (`/p/faq/` which this page was based on; currently removed)
-- Pokebis's Beginner's Training [\[1\]](https://osu.ppy.sh/community/forums/topics/5456 "Beginner Training by Pokebis")
-- OnosakiHito's TBT Project [Training Manual For Taiko Beginner v2] [\[2\]](https://osu.ppy.sh/community/forums/topics/175867 "TBT Project \[Training Manual For Taiko Beginner v2\] by OnosakiHito")
-- Kingkevin30's CBT Project [\[3\]](https://osu.ppy.sh/community/forums/topics/131067 "CBT Project by Kingkevin30")
-- Entozer's osu!mania maps, sorted by difficulty [\[4\]](https://osu.ppy.sh/community/forums/topics/147552 "osu!mania maps, sorted by difficulty by Entozer")
-- Drace's \[GUIDE\] How to improve in osu!mania [\[5\]](https://osu.ppy.sh/community/forums/topics/147552 "\[GUIDE\] How to improve in osu!mania by Drace")
-- Rivenation's osu!search - Advanced beatmap searching [\[6\]](https://osu.ppy.sh/community/forums/topics/380485 "osu!search - Advanced beatmap searching by Rivenation")
-- Wikipedia [\[7\]](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [\[8\]](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
+-   peppy's superseded web FAQ (`/p/faq/` which this page was based on; currently removed)
+-   Pokebis's Beginner's Training [\[1\]](https://osu.ppy.sh/community/forums/topics/5456 "Beginner Training by Pokebis")
+-   OnosakiHito's TBT Project [Training Manual For Taiko Beginner v2][\[2\]](<https://osu.ppy.sh/community/forums/topics/175867> "TBT Project \[Training Manual For Taiko Beginner v2] by OnosakiHito")
+-   Kingkevin30's CBT Project [\[3\]](https://osu.ppy.sh/community/forums/topics/131067 "CBT Project by Kingkevin30")
+-   Entozer's osu!mania maps, sorted by difficulty [\[4\]](https://osu.ppy.sh/community/forums/topics/147552 "osu!mania maps, sorted by difficulty by Entozer")
+-   Drace's \[GUIDE] How to improve in osu!mania [\[5\]](https://osu.ppy.sh/community/forums/topics/147552 "\[GUIDE] How to improve in osu!mania by Drace")
+-   Rivenation's osu!search - Advanced beatmap searching [\[6\]](https://osu.ppy.sh/community/forums/topics/380485 "osu!search - Advanced beatmap searching by Rivenation")
+-   Wikipedia [\[7\]](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [\[8\]](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
 
 [osu! icon]: /wiki/shared/mode/osu.png
+
 [osu!taiko icon]: /wiki/shared/mode/taiko.png
+
 [osu!catch icon]: /wiki/shared/mode/catch.png
+
 [osu!mania icon]: /wiki/shared/mode/mania.png

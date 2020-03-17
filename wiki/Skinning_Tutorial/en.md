@@ -4,9 +4,9 @@ needs_cleanup: true
 
 # Skinning tutorial
 
-*See also: [Skinning](/wiki/Skinning)*
+_See also: [Skinning](/wiki/Skinning)_
 
-*For frequently answered skinning questions, see: [Skinning/FAQ](/wiki/Skinning/FAQ)*
+_For frequently answered skinning questions, see: [Skinning/FAQ](/wiki/Skinning/FAQ)_
 
 ## Getting Started
 
@@ -23,10 +23,10 @@ Once you have your own skinning folder in the `Skins/` folder, you will first ne
     -   [Paint.NET](https://www.getpaint.net) (Free)
     -   [Photoshop](https://www.adobe.com/products/photoshop.html) (Paid)
 -   Audio editors
-    - [Audacity](https://www.audacityteam.org) (Free)
-    - [FL Studio](https://www.image-line.com/flstudio/) (Free/Paid)
+    -   [Audacity](https://www.audacityteam.org) (Free)
+    -   [FL Studio](https://www.image-line.com/flstudio/) (Free/Paid)
 
----
+* * *
 
 The next thing you will need is a theme or an idea. You should have one in mind to create an objective for what you want your skin to look like. This is also to help yourself when you need to gather and/or create assets.
 

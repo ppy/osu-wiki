@@ -32,6 +32,6 @@ Only entries that follow all rules will be considered. There will be two grand p
 
 Let me know if anything needs clarifying, otherwise, post away!
 
-*Special thanks to awp, Cataku, beat_freak, sanilecious, and Vikktor, whose artwork I used in creating this contest banner.
+\*Special thanks to awp, Cataku, beat_freak, sanilecious, and Vikktor, whose artwork I used in creating this contest banner.
 
 —LuigiHann

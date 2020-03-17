@@ -14,22 +14,22 @@ In case you don't read the end of this post, be sure to submit suggestions for b
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+-   [osu!](#osu)
+-   [osu!taiko](#osutaiko)
+-   [osu!catch](#osucatch)
+-   [osu!mania](#osumania)
 
 ## <a name="osu" id="osu"></a>osu!
 
 osu! Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/users/4384207), [-Roxas](https://osu.ppy.sh/users/1986262), [BeasttrollMC](https://osu.ppy.sh/users/3171691), [Bubbleman](https://osu.ppy.sh/users/5182050) and [waywern2012](https://osu.ppy.sh/users/5870453)!
 
----
+* * *
 
 [![](/wiki/shared/news/2019-03-25-project-loved-week-of-march-24th/osu/squall.jpg)](https://osu.ppy.sh/community/forums/topics/885976)
 
 [Nekomata Master+ - squall](https://osu.ppy.sh/beatmapsets/92052#osu) by [RLC](https://osu.ppy.sh/users/1047883)  
 190 BPM, 2:05 | 5.83★  
-*written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)*
+_written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)_
 
 RLC is a name solidified in history, especially after the success of his map for Infected Mushroom's "The Pretender", but what's been seemingly lost in the process are many of his other maps that are also really fun and interesting to play. Joining us is one such example of this, RLC's take on Nekomata Master+'s "squall": a map almost forgotten to time, this is resurfacing today to participate in this week's round of Project Loved! It features movement that isn't for your average joe, with some patterns focusing a lot on vertical symmetry. Even some of the best players may struggle with catching the sliderends on this map. Experience what the era of 2013 mapping was like, and don't forget to vote for its place in Project Loved!
 
@@ -37,7 +37,7 @@ RLC is a name solidified in history, especially after the success of his map for
 
 [Araki - Chiisana Koi no Uta (Synth Rock Cover)](https://osu.ppy.sh/beatmapsets/613207#osu) by [Shishou](https://osu.ppy.sh/users/5249692) and [RVMathew](https://osu.ppy.sh/users/3718151)  
 220 BPM, 3:42 | 1.41★ – 8.31★  
-*written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)*
+_written by [BeasttrollMC](https://osu.ppy.sh/users/3171691)_
 
 Its 300+ favorites don't lie: especially among top players, this map has been extremely popular for its song and difficulty, with its highest star rating being over 8.3. But don't let this fact scare you away; this mapset by Shishou features eight total difficulties making a full spread, so any player of any skill range can take a stab at this song. Each difficulty starts off relatively easy for its star rating, but don't be fooled: they unleash their true forms in the final chorus, where the song takes a sudden surge in intensity. The top difficulties take this opportunity to incorporate high-spacing jumps and 240 BPM streams, so be sure to stay on your toes!
 
@@ -45,7 +45,7 @@ Its 300+ favorites don't lie: especially among top players, this map has been ex
 
 [S3RL - Catchit (Radio Edit)](https://osu.ppy.sh/beatmapsets/323302#osu) by [HML](https://osu.ppy.sh/users/2757424)  
 175 BPM, 3:19 | 5.86★, 6.76★  
-*written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
+_written by [DigitalHypno](https://osu.ppy.sh/users/4384207)_
 
 A new S3RL song has made its way to the gates of the Loved category! Fittingly named "Catchit", it's a catchy 175 BPM song mapped with a consistent and jumpy style. If 175 BPM is too slow for you, try the "NC" difficulty of the song that speeds things up to 210 BPM! If you've been fixing for a new S3RL map to satisfy your daily dose, check this one out and come back to drop your vote!
 
@@ -53,7 +53,7 @@ A new S3RL song has made its way to the gates of the Loved category! Fittingly n
 
 [Morgan Page - Fight For You (Culture Code Remix)](https://osu.ppy.sh/beatmapsets/502783#osu) by [PantyDev](https://osu.ppy.sh/users/5420543)  
 140 BPM, 3:42 | 6.49★  
-*written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
+_written by [DigitalHypno](https://osu.ppy.sh/users/4384207)_
 
 PantyDev's map of Culture Code's "Fight For You" remix takes this catchy dubstep song and expresses its motion with all the 1/3 jump bursts you could ever ask for. At around six and a half stars, this map is great for testing your aim consistency with frequent tap-jump patterns. Sounds like the type of map you've been looking for? Take it for a spin!
 
@@ -61,7 +61,7 @@ PantyDev's map of Culture Code's "Fight For You" remix takes this catchy dubstep
 
 [t+pazolite with Kabocha - Elder Dragon Legend](https://osu.ppy.sh/beatmapsets/365176#osu) by [Voli](https://osu.ppy.sh/users/2522275)  
 210 BPM, 3:26 | 6.73★  
-*written by [-Roxas](https://osu.ppy.sh/users/1986262)*
+_written by [-Roxas](https://osu.ppy.sh/users/1986262)_
 
 Who doesn't love some t+pazolite? Voli's "t+pazolite with Kabocha - Elder Dragon Legend" is definitely a map not to be overlooked. With the map exceeding 100 favorites, you know it's gonna be good and worth a play! Its star rating reaches 6.7 and it consists of fast 210 BPM jumps accompanied by 210 BPM streams, so this is a true test of your mechanical skill. Will you be able to take on the beast that is this map?
 
@@ -69,7 +69,7 @@ Who doesn't love some t+pazolite? Voli's "t+pazolite with Kabocha - Elder Dragon
 
 [Various Artists - Arphimigon Collection Three](https://osu.ppy.sh/beatmapsets/328641#osu) by [Arphimigon](https://osu.ppy.sh/users/5392762)  
 308 BPM, 3:10 | 5.22★ – 9.02★  
-*written by [-Roxas](https://osu.ppy.sh/users/1986262)*
+_written by [-Roxas](https://osu.ppy.sh/users/1986262)_
 
 Arphimigon's collection of maps here includes songs like Little Einsteins, Poinsettia and a theme from sonic the hedgehog (...sort of). The collection starts off at a low 5.2 stars, but as you work through through it, the difficulty spikes and ends with a whopping 9 stars! In addition, each map itself contains its own little attractions like hard jumps, fast streams, slider spam and cutstreams, so be sure to give each one a shot.
 
@@ -77,7 +77,7 @@ Arphimigon's collection of maps here includes songs like Little Einsteins, Poins
 
 [Within Temptation - In The Middle Of The Night (Speed Up Ver.)](https://osu.ppy.sh/beatmapsets/472946#osu) by [Sakura no Hana](https://osu.ppy.sh/users/5433546)  
 240 BPM, 4:08 | 8.12★  
-*written by [waywern2012](https://osu.ppy.sh/users/5870453)*
+_written by [waywern2012](https://osu.ppy.sh/users/5870453)_
 
 This high-difficulty 240 BPM map will surely test your aiming skills! It's made by Sakura no Hana, and it's a hard one. Although the difficulty is 8.12 stars, it is quite comfortable most of the time. At some times it gets quite spaced with the jumps while maintaining a good flow. The only thing left to do is practice your aim and tap away! Rocking in at around 100 favorites, this map is valued by the community. Just don't play this in the middle of the night! You might wake somebody up!
 
@@ -85,7 +85,7 @@ This high-difficulty 240 BPM map will surely test your aiming skills! It's made 
 
 [Ocelot - TSUBAKI](https://osu.ppy.sh/beatmapsets/336772#osu) by [kiddly](https://osu.ppy.sh/users/74937) et al.  
 160 BPM, 3:01 | 1.89★ – 6.80★  
-*written by [Bubbleman](https://osu.ppy.sh/users/5182050)*
+_written by [Bubbleman](https://osu.ppy.sh/users/5182050)_
 
 TSUBAKI is a song made infamous by the Hollow Wings set, but if you can't stand the technicality and gimmicks put forward by it, then this is the set for you. A full spread with a good difficulty curve, every map is a joy to play and represents the song well whilst still being approachable for those less tech-inclined. The song's innate quirks are well expressed in the mapping without the use of gimmicks, and Skystar's difficulty really begins to push your mechanics. Whatever you decide to try, kiddly's set has a challenge for everyone inside. Give it a go!
 
@@ -93,7 +93,7 @@ TSUBAKI is a song made infamous by the Hollow Wings set, but if you can't stand 
 
 [xi - Akasha](https://osu.ppy.sh/beatmapsets/291784#osu) by [Midge](https://osu.ppy.sh/users/2226436)  
 185 BPM, 4:15 | 6.97★  
-*written by [Bubbleman](https://osu.ppy.sh/users/5182050)*
+_written by [Bubbleman](https://osu.ppy.sh/users/5182050)_
 
 Midge, in my opinion, is one of the most criminally ignored mappers within osu!, full stop. He has a multitude of simply incredible maps, such as his take on Mazare Party and this, xi's Akasha. With a song you all will know but have never quite experienced before like this, Midge takes you through the ebb and flow of the lead instrument as it twists and winds its way along the notes on the stave, using techniques such as cut and accelerating streams to respond brilliantly to the pitches and rhythms of the song. Never played a Midge map? Do yourself a favour and try this one. You won't regret it.
 
@@ -101,13 +101,13 @@ Midge, in my opinion, is one of the most criminally ignored mappers within osu!,
 
 osu!taiko Loved candidates were chosen by [-Kazu-](https://osu.ppy.sh/users/920861), [iceOC](https://osu.ppy.sh/users/5482401), [jyake](https://osu.ppy.sh/users/9099822) and [nyanmi-1828](https://osu.ppy.sh/users/6866480)!
 
----
+* * *
 
 [![](/wiki/shared/news/2019-03-25-project-loved-week-of-march-24th/taiko/seventh-haven-mtell-remix.jpg)](https://osu.ppy.sh/community/forums/topics/885965)
 
 [SEVENTH SISTERS - SEVENTH HAVEN (Mtell Remix)](https://osu.ppy.sh/beatmapsets/829545#taiko) by [Shallty](https://osu.ppy.sh/users/6205471) et al.  
 175 BPM, 2:14 | 5.11★ – 7.84★  
-*written by [-Kazu-](https://osu.ppy.sh/users/920861)*
+_written by [-Kazu-](https://osu.ppy.sh/users/920861)_
 
 SEVENTH HAVEN stands out for me as a mapper due to how a group of six different mappers can have a completely different view of mapping and make difficulties that really feel like they have nothing to do with each other when it comes to patterning decisions. This is truly a gem that shows the craftsmanship of these great Japanese mappers.
 
@@ -115,7 +115,7 @@ SEVENTH HAVEN stands out for me as a mapper due to how a group of six different 
 
 [Camellia feat. Nanahira - Shakunetsu Candle Master Tomoshii](https://osu.ppy.sh/beatmapsets/349903#taiko) by [KinomiCandy](https://osu.ppy.sh/users/375143)  
 250 BPM, 4:17 | 5.41★  
-*written by [jyake](https://osu.ppy.sh/users/9099822)*
+_written by [jyake](https://osu.ppy.sh/users/9099822)_
 
 Following Moji-Code, we have another map by KinomiCandy. If you're a frequent multiplayer player, you might recognize this map, as it is quite popular there. If you're looking to improve your speed while having fun, definitely check this one out! The patterns are very true to the music while staying very comfortable throughout the map, not sacrificing any playability. Very nice work by KinomiCandy!
 
@@ -123,7 +123,7 @@ Following Moji-Code, we have another map by KinomiCandy. If you're a frequent mu
 
 [RoughSketch feat. DD "Nakata" Metal - Booths of Fighters (Camellia's "Barrage of Flurries" Remix)](https://osu.ppy.sh/beatmapsets/772836#taiko) by [Nwolf](https://osu.ppy.sh/users/1910766)  
 81 BPM, 5:05 | 8.47★  
-*written by [iceOC](https://osu.ppy.sh/users/5482401)*
+_written by [iceOC](https://osu.ppy.sh/users/5482401)_
 
 This year's osu!taiko World Cup season is coming soon. This week, I decided to pick the Tiebreaker of last year's TWC. This excellent map offers many challenges—difficult patterns, complex 1/6 and 1/8, streams, finishers and many gimmicks—all packed within five minutes, keeping the player entertained.
 
@@ -131,7 +131,7 @@ This year's osu!taiko World Cup season is coming soon. This week, I decided to p
 
 [Sakuzyo - Lie](https://osu.ppy.sh/beatmapsets/920188#taiko) by [komasy](https://osu.ppy.sh/users/1980256)  
 95 BPM, 2:26 | 1.09★ – 6.04★  
-*written by [nyanmi-1828](https://osu.ppy.sh/users/6866480)*
+_written by [nyanmi-1828](https://osu.ppy.sh/users/6866480)_
 
 Congratulations to komasy for #1 in Taiko Japanese Beatmap Contest #10! This excellent map, created by komasy, is so good. It almost blows away their previous maps—yes, like they were nothing. The art of "elegant spacing" is something so outstanding that mappers, including komasy, may never be able to replicate it. This map offers such a free, rich experience—I highly recommend giving this map a try!
 
@@ -139,13 +139,13 @@ Congratulations to komasy for #1 in Taiko Japanese Beatmap Contest #10! This exc
 
 osu!catch Loved candidates were chosen by [Sartan](https://osu.ppy.sh/users/4100941), [Ascendance](https://osu.ppy.sh/users/2931883), [Tenshichan](https://osu.ppy.sh/users/1101600) and [Wesley](https://osu.ppy.sh/users/2407265)!
 
----
+* * *
 
 [![](/wiki/shared/news/2019-03-25-project-loved-week-of-march-24th/catch/capturelip-lipps.jpg)](https://osu.ppy.sh/community/forums/topics/885960)
 
 [Various Artists - CapTurelip.LiPPS](https://osu.ppy.sh/beatmapsets/569602#fruits) by [Furely](https://osu.ppy.sh/users/853694)  
 154 BPM, 4:14 | 8.22★  
-*written by [Wesley](https://osu.ppy.sh/users/2407265)*
+_written by [Wesley](https://osu.ppy.sh/users/2407265)_
 
 Furely: who doesn't know this mapper? They are known for creating a fair amount of gimmicky maps like AVALON, JuJutsushi Gachi ver., IKUSUGI TRAP and so on. The map CapTurelip.LiPPS, on the other hand, isn't too gimmicky. It has several cool stream patterns and some form of zigzags which fits the music perfectly. With the circle size being only 3, it could be a fun challenge to try and get a nice combo going with HardRock enabled!
 
@@ -153,7 +153,7 @@ Furely: who doesn't know this mapper? They are known for creating a fair amount 
 
 [Nanahoshi Kangengakudan - Meikaruza (inst)](https://osu.ppy.sh/beatmapsets/316786#fruits) by [Badis](https://osu.ppy.sh/users/559308)  
 300 BPM, 3:38 | 6.83★, 6.83★, 6.83★  
-*written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
+_written by [Tenshichan](https://osu.ppy.sh/users/1101600)_
 
 Badis is known for being a mapper with a somewhat unconventional mapping style, which makes most of his maps something you usually don't see often. His map of the jazzy song Meikaruza is not an exception. It has a lot of fast-paced patterns mostly consisting of wiggles and snappy direction changes. However, sometimes hyperdashes are used, creating a few patterns you need to be very accurate and precise to catch. The map has a break in the middle of the map, which makes it less taxing for your hands and gives you a moment to relax. The mapset also comes with three versions of the same map which only differ in their AR, giving the player an opportunity to choose an AR they are more comfortable with. All in all, this is a very fun and exciting map. Enjoy the jazz!
 
@@ -161,7 +161,7 @@ Badis is known for being a mapper with a somewhat unconventional mapping style, 
 
 osu!mania Loved candidates were chosen by [Shoegazer](https://osu.ppy.sh/users/2520707), [Lenfried-](https://osu.ppy.sh/users/5314573), [Pope Gadget](https://osu.ppy.sh/users/2288341) and [Toaph Daddy](https://osu.ppy.sh/users/7616811)!
 
----
+* * *
 
 [![](/wiki/shared/news/2019-03-25-project-loved-week-of-march-24th/mania/architecture.jpg)](https://osu.ppy.sh/community/forums/topics/885957)
 
@@ -206,7 +206,7 @@ Coming in at 190.65 BPM, the map comes in with relatively simple chordstreaming 
 
 We have a new face for Project Loved and that would be Fiea and their map, Endless night. Filling in as the LN pick for this round, this map primarily has the O2Jam approach to charting. At 148 BPM, the chart gives a lot of visual flair with swapping between 1/4 and 1/8 LN lengths in its generally brackety chordstreams. The chart also presents some degree of short term  inversions and a very generous amount of shields and reverse shields. What sets this slightly apart from general O2Jam mapping conventions is that the difficulty throughout the chart is generally very consistent. The OD 5 is also something to watch out for, in contrast to the conventional usage of OD 0.
 
----
+* * *
 
 From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning beatmaps will hit the [Loved beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime next week and will be announced via [@osugame on Twitter](https://twitter.com/osugame).
 

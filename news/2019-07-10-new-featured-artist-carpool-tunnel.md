@@ -10,7 +10,7 @@ Splashing into osu! with its own brand of indie surf rock, [**Carpool Tunnel**](
 
 [**Carpool Tunnel**](https://osu.ppy.sh/beatmaps/artists/42)'s music strays from the usual genres heard from osu!'s Featured Artists. Based at the center of the indie rock scene, San Francisco, the band showcases a classical/alternative rock sound with fervent vocal delivery in each song.
 
-We're proud to present **11** tracks consisting of the group's *Getaway* EP and a variety of their single releases. No two songs are alike, so pick and choose whichever you find most enticing to beatmap from the [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/42)!
+We're proud to present **11** tracks consisting of the group's _Getaway_ EP and a variety of their single releases. No two songs are alike, so pick and choose whichever you find most enticing to beatmap from the [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/42)!
 
 Here's a few previews of what Carpool Tunnel has to offer:
 
@@ -44,11 +44,11 @@ Here's a few previews of what Carpool Tunnel has to offer:
     <source src="https://assets.ppy.sh/artists/42/previews/1005.mp3" type="audio/mpeg">
 </audio>
 
----------
+* * *
 
 These tracks and many more can be found with pre-timed beatmap templates over on [**Carpool Tunnel**'s Featured Artist page](https://osu.ppy.sh/beatmaps/artists/42). As with all Featured Artist tracks, these new tracks are all 100% free for use in mapping. Be sure to give each a listen!
 
-In other news, we'll be temporarily increasing the frequency of Featured Artist releases to *3 per month*, as suggested in some of our previous announcements. We've gotten a ton of new artists on board recently, so look out for more musical goodness in the coming weeks!
+In other news, we'll be temporarily increasing the frequency of Featured Artist releases to _3 per month_, as suggested in some of our previous announcements. We've gotten a ton of new artists on board recently, so look out for more musical goodness in the coming weeks!
 
 Stay tuned!
 

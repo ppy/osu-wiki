@@ -4,7 +4,7 @@ outdated: true
 
 # Mascotas
 
-*Véase también: [Galería de Mascotas](/wiki/Mascots/Gallery).*
+_Véase también: [Galería de Mascotas](/wiki/Mascots/Gallery)._
 
 Un vídeo de YouTube mostrando las mascotas de osu! puede verse en [Mascot Showcase](https://youtu.be/mJF2cAs_MrI).
 
@@ -18,7 +18,7 @@ pippi, estilizado con una "p" minúscula, es la mascota de osu!standard que se u
 
 ### Yuzu
 
-*Para la publicación en las noticias, véase: [Meet Yuzu](https://osu.ppy.sh/home/news/89483664163).*
+_Para la publicación en las noticias, véase: [Meet Yuzu](https://osu.ppy.sh/home/news/89483664163)._
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
@@ -26,7 +26,7 @@ Yuzu es la mascota de osu!catch que se unió en 2014-06-22. Nació en 2000-04-10
 
 ### Maria
 
-*Para la publicación en las noticias, véase: [Meet Maria - osu!mania’s new mascot!](https://osu.ppy.sh/home/news/2016-04-20-meet-maria-osumanias-new-mascot).*
+_Para la publicación en las noticias, véase: [Meet Maria - osu!mania’s new mascot!](https://osu.ppy.sh/home/news/2016-04-20-meet-maria-osumanias-new-mascot)._
 
 ![Maria](img/Maria.png "Maria")
 
@@ -34,7 +34,7 @@ Maria es la mascota de osu!mania que se unió en 2016-03-04. Su arte fue diseña
 
 ### Mocha
 
-*Para la publicación en las noticias, véase: [The new osu!taiko mascot is here!](https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here).*
+_Para la publicación en las noticias, véase: [The new osu!taiko mascot is here!](https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here)._
 
 ![Mocha](img/Mocha.png "Mocha")
 

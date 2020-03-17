@@ -13,4 +13,4 @@ Miej na uwadze, że dokumentacja zawarta na wiki osu!api nie jest w pełni kompl
 
 ## Zobacz także
 
-- Oryginalny wątek na forum: [osu!api open beta](https://osu.ppy.sh/community/forums/topics/141240) autorstwa [peppy](https://osu.ppy.sh/users/2)
+-   Oryginalny wątek na forum: [osu!api open beta](https://osu.ppy.sh/community/forums/topics/141240) autorstwa [peppy](https://osu.ppy.sh/users/2)

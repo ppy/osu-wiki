@@ -8,13 +8,13 @@ The results are in, and we have **15** glorious new seasonal backgrounds to cele
 
 ![](/wiki/shared/news/2019-06-03-spring-2019-fanart-contest-results/banner.jpg)
 
-Spring might've come a *little* late in osu! this year, but that has not deterred our incredible community artists from creating some wonderful pieces to celebrate everyone's bloomin' favorite season!
+Spring might've come a _little_ late in osu! this year, but that has not deterred our incredible community artists from creating some wonderful pieces to celebrate everyone's bloomin' favorite season!
 
 The voting turnout was fairly spectacular this time around as well, with over 10,000 people casting a vote for their favorite pieces, something typically only matched by our Halloween festivities! Crazy stuff.
 
 Without further ado, let's get stuck into the winning entries - which, might I remind you, are now featured in-game as the seasonal backgrounds for Spring 2019. Their stupendously talented artists also receive **2 months of osu!supporter** for their efforts!
 
-*By the by, you can click the little banners to be taken to a full-size, high quality download for each entry!*
+_By the by, you can click the little banners to be taken to a full-size, high quality download for each entry!_
 
 [![](/wiki/shared/news/2019-06-03-spring-2019-fanart-contest-results/tofumang.jpg)](https://assets.ppy.sh/contests/78/winners/tofumang.png)
 
@@ -100,9 +100,9 @@ There are times where Mocha's existence seems just too cute for this world, and 
 
 **2277** voters went for a walk with [**Phoebe Yu**](https://osu.ppy.sh/users/3607337)'s portrayal of a parasol pippi enjoying a walk along a sakura-rimmed path, complete with Taikonator accessory.
 
---------
+* * *
 
-*You can download an archive of all fifteen winning entries [here!](https://assets.ppy.sh/contests/78/winners/Spring2019-Winners.zip)*
+_You can download an archive of all fifteen winning entries [here!](https://assets.ppy.sh/contests/78/winners/Spring2019-Winners.zip)_
 
 Make sure to check out the [full voting details over at the Spring 2019 Fanart Contest listing](https://osu.ppy.sh/community/contests/78) as the competition was fierce for a placing spot towards the end, as always. 12 votes between 15th and 16th place should tell a huge story all on its own!
 
@@ -111,5 +111,3 @@ We'd like to offer a huge thank you to all the artists who chose to participate 
 From all of us here at the osu!team, we hope you enjoy(ed) your Spring this year, and look forward to the next! We'll be back with another seasonal Fan Art contest later on in the year.
 
 —Ephemeral
-
-

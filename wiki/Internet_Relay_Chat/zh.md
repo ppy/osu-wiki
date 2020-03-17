@@ -27,7 +27,7 @@ osu! 使用IRC协议进行[游戏内聊天](ZH:Chat_Console "wikilink")([英文:
 `* - You are required to authenticate before accessing this service.`
 `* - Please click the following link to complete this process:`
 
-点击链接中的URL，你会看到一个"Authorise IRC connection" 按钮，点击以后，你会完成认证并加入到 [\#osu](irc://cho.ppy.sh/osu).
+点击链接中的URL，你会看到一个"Authorise IRC connection" 按钮，点击以后，你会完成认证并加入到 [#osu](irc://cho.ppy.sh/osu).
 
 或者，将密码输入到你的IRC客户端中，完成认证。
 
@@ -37,12 +37,12 @@ osu! 使用IRC协议进行[游戏内聊天](ZH:Chat_Console "wikilink")([英文:
 
 # 基本的IRC命令
 
-| 描述                    | 操作               |
-|-------------------------|--------------------|
-| 加入频道 (例如 \#lobby) | /join \#频道名称   |
-| 离开频道l               | /part              |
+| 描述               | 操作            |
+| ---------------- | ------------- |
+| 加入频道 (例如 #lobby) | /join #频道名称   |
+| 离开频道l            | /part         |
 | 忽略某人的发言          | /ignore 那人的昵称 |
-| 做些动作                | /me 做些动作       |
+| 做些动作             | /me 做些动作      |
 
 # 停用加入/退出频道通知
 
@@ -51,24 +51,26 @@ osu! 使用IRC协议进行[游戏内聊天](ZH:Chat_Console "wikilink")([英文:
 `someuser has joined #somechannel`
 `someuser has quit #somechannel`
 
-尽管在某些低流量的频道中这不是什么，但对于\#osu频道来说，频繁的加入和退出通知会让用户难以追踪最近的消息。
+尽管在某些低流量的频道中这不是什么，但对于#osu频道来说，频繁的加入和退出通知会让用户难以追踪最近的消息。
 
 ## 操作方法
 
-| 客户端                                    | 操作                                                                                                                                                                                                                                                                     |
-|-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [HexChat](http://hexchat.github.io/)      | a. 右键单击某一频道，在设置子选单中，点击"Hide Join/Part Messages"  
+| 客户端                                  | 操作                                              |
+| ------------------------------------ | ----------------------------------------------- |
+| [HexChat](http://hexchat.github.io/) | a. 右键单击某一频道，在设置子选单中，点击"Hide Join/Part Messages" |
 
                                              b. 前往 Settings » Preferences, 在 Chatting » General中 , 勾选 "Hide join and part Messages"                                                                                                                                                                              |
-| [ircII](http://www.eterna.com.au/ircii/)  | /ignore \* crap                                                                                                                                                                                                                                                          |
-| [Irssi](http://www.irssi.org)             | /ignore -channels \#频道名称\* JOINS PARTS QUITS                                                                                                                                                                                                                         |
-| [Weechat](http://www.weechat.org)         | /filter add irc\_smart\_weechat irc.somename.\#频道名称l irc\_smart\_filter \*  
+
+\| [ircII](http://www.eterna.com.au/ircii/)  | /ignore \* crap                                                                                                                                                                                                                                                          |
+\| [Irssi](http://www.irssi.org)             | /ignore -channels #频道名称\* JOINS PARTS QUITS                                                                                                                                                                                                                         |
+\| [Weechat](http://www.weechat.org)         | /filter add irc_smart_weechat irc.somename.#频道名称l irc_smart_filter \*  
 
                                              **Note:** somename是你在Weechat中定义的irc服务器地址.                                                                                                                                                                                                                     |
-| [KVIrc](http://www.kvirc.net)             | 参阅[KVIrc论坛上的信息](http://www.kvirc.ru/forum/?topic=609.0) .                                                                                                                                                                                                        |
-| [mIRC](http://www.mirc.com/)              | Tools » Options » pick "IRC". Click the "Events..." button. Change the "joins", "parts", "quits", and "nicks" to your desired settings: "In Status" or "Hide" are good options [1](http://i.clintecker.com/disable-irc-msgs.html).                                       |
-| [Quassel IRC](http://www.quassel-irc.org) | 右键点击聊天窗口 ，选择Hide Events » Join/Part/Quit.                                                                                                                                                                                                                     |
-| [XChat](http://www.xchat.org)             | Right-click on the tab you want to change. In the submenu of the channelname, there's a toggle-item "Show join/part messages", simply turn this off. Or you type /set irc\_conf\_mode 1 [2](http://xchat.org/faq/#q211) to disable the messages throughout the channels. |
+
+\| [KVIrc](http://www.kvirc.net)             | 参阅[KVIrc论坛上的信息](http://www.kvirc.ru/forum/?topic=609.0) .                                                                                                                                                                                                        |
+\| [mIRC](http://www.mirc.com/)              | Tools » Options » pick "IRC". Click the "Events..." button. Change the "joins", "parts", "quits", and "nicks" to your desired settings: "In Status" or "Hide" are good options [1](http://i.clintecker.com/disable-irc-msgs.html).                                       |
+\| [Quassel IRC](http://www.quassel-irc.org) | 右键点击聊天窗口 ，选择Hide Events » Join/Part/Quit.                                                                                                                                                                                                                     |
+\| [XChat](http://www.xchat.org)             | Right-click on the tab you want to change. In the submenu of the channelname, there's a toggle-item "Show join/part messages", simply turn this off. Or you type /set irc_conf_mode 1 [2](http://xchat.org/faq/#q211) to disable the messages throughout the channels. |
 
 其他的IRC客户端用户可以参阅对应客户端的文档。
 
@@ -76,9 +78,9 @@ osu! 使用IRC协议进行[游戏内聊天](ZH:Chat_Console "wikilink")([英文:
 
 ## 发生了错误 "Bad Authentication Token". 我该怎么办?
 
-1. 检查你使用的密码是否和 [IRC Authentication](https://osu.ppy.sh/p/irc) 页面上的一致.
+1.  检查你使用的密码是否和 [IRC Authentication](https://osu.ppy.sh/p/irc) 页面上的一致.
 
-2. 如果你的用户名中有空格，用下划线替代它 (**This Username** 应该是 **This\_Username**)
+2.  如果你的用户名中有空格，用下划线替代它 (**This Username** 应该是 **This_Username**)
 
 ## 我能使用其他的昵称么?
 

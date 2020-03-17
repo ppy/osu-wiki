@@ -17,7 +17,7 @@ Scorewatch has spread its wings and liberated itself from the osu!weekly once an
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/LzdSz7nit7k" frameborder="0" allowfullscreen></iframe></center>
 
-[Angelsim](https://osu.ppy.sh/users/1777162) grabbed an 8.14* 99.94% FC on [GET IN THE RING - Moonscraper](https://osu.ppy.sh/beatmapsets/506618) live on stream, and this score would have been worth 619pp. Done with a tablet, this map consists of speedy jumps everywhere, and getting only 1 100 is very impressive. Check it out!
+[Angelsim](https://osu.ppy.sh/users/1777162) grabbed an 8.14\* 99.94% FC on [GET IN THE RING - Moonscraper](https://osu.ppy.sh/beatmapsets/506618) live on stream, and this score would have been worth 619pp. Done with a tablet, this map consists of speedy jumps everywhere, and getting only 1 100 is very impressive. Check it out!
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/kKL3ya5BnBs" frameborder="0" allowfullscreen></iframe></center>
 
@@ -29,9 +29,9 @@ Scorewatch has spread its wings and liberated itself from the osu!weekly once an
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/OEWCEvyPkvg" frameborder="0" allowfullscreen></iframe></center>
 
-#SCOREWATCH SCORE SHOW
+\#SCOREWATCH SCORE SHOW
 
-[ExGon](https://osu.ppy.sh/users/Exgon) takes on Sponge on the scary 19* map [Erehamonika remixed by kors k - Der Wald (kors k Remix)](https://osu.ppy.sh/beatmapsets/406881).
+[ExGon](https://osu.ppy.sh/users/Exgon) takes on Sponge on the scary 19\* map [Erehamonika remixed by kors k - Der Wald (kors k Remix)](https://osu.ppy.sh/beatmapsets/406881).
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/GXMCIk3ulbM" frameborder="0" allowfullscreen></iframe></center>
 

@@ -6,7 +6,7 @@ tags:
 
 # Texte de titre
 
-![Capture d'écran d'un gameplay osu! avec le titre visible](img/liquid-title-text.jpg "Le titre pour \"Rostik - Liquid (Paul Rosenthal Remix)\" est montré juste après le début de la map.")
+![Capture d'écran d'un gameplay osu! avec le titre visible](img/liquid-title-text.jpg 'Le titre pour \"Rostik - Liquid (Paul Rosenthal Remix)\" est montré juste après le début de la map.')
 
 **Le titre** apparaît en haut au milieu de l'écran quand vous jouez une beatmap. Le plus souvent, il montre l'artiste et le titre de la chanson au début de la map, mais le créateur de la map peut changer le texte et mettre ce qu'il lui plait. Le créateur peut aussi changer le format du texte et quand il apparaît.
 
@@ -26,26 +26,26 @@ Une nouvelle beatmap doit avoir son titre dans le format `[size:20,bold:0]Artist
 
 #### Options de formatage
 
-| Clé | Description | Valeur par défaut |
-| :-- | :-- | :-- |
-| `bold` | Indique si la ligne sera en gras ou non. La valeur 1 signifie que le texte sera en gras tandis que toute autre valeur signifie que le texte ne sera pas en gras. | 1 |
-| `colour` | La couleur de la ligne, au format `R.V.B`, où chaque composante de couleur est comprise entre 0 et 255. | 255.255.255 |
-| `hold` | Durée d'affichage de la ligne avant de commencer à disparaître, en millisecondes. | *Change à chaque lignes* |
-| `size` | La taille de police de la ligne, en [points](https://en.wikipedia.org/wiki/Point_(typography)). | 40 |
-| `time` | Le temps de la chanson quand cette ligne commence a apparaître, en millisecondes. | *Change à chaque lignes* |
-| `wait` | Un délai supplémentaire avant l'affichage de la ligne, en millisecondes. | 500 |
+| Clé      | Description                                                                                                                                                      | Valeur par défaut        |
+| :------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------- |
+| `bold`   | Indique si la ligne sera en gras ou non. La valeur 1 signifie que le texte sera en gras tandis que toute autre valeur signifie que le texte ne sera pas en gras. | 1                        |
+| `colour` | La couleur de la ligne, au format `R.V.B`, où chaque composante de couleur est comprise entre 0 et 255.                                                          | 255.255.255              |
+| `hold`   | Durée d'affichage de la ligne avant de commencer à disparaître, en millisecondes.                                                                                | _Change à chaque lignes_ |
+| `size`   | La taille de police de la ligne, en [points](https://en.wikipedia.org/wiki/Point_(typography)).                                                                  | 40                       |
+| `time`   | Le temps de la chanson quand cette ligne commence a apparaître, en millisecondes.                                                                                | _Change à chaque lignes_ |
+| `wait`   | Un délai supplémentaire avant l'affichage de la ligne, en millisecondes.                                                                                         | 500                      |
 
 Les valeurs par défaut de `time` et `hold` dépendent de l'état de la dernière ligne. Pour la première ligne, si rien n'est spécifié :
 
-- `time` est 200
-- `hold` est `3600 + 800n`, où  `n` est le nombre total de ligne dans le titre.
+-   `time` est 200
+-   `hold` est `3600 + 800n`, où  `n` est le nombre total de ligne dans le titre.
 
 Pour chaque nouvelle ligne, les options par défaut sont mise à jour :
 
-- `time` devient `(time de la ligne précédente) + (wait de la ligne précédente) + 200`
-- `hold` devient `(hold de la ligne précédente) - 200`
+-   `time` devient `(time de la ligne précédente) + (wait de la ligne précédente) + 200`
+-   `hold` devient `(hold de la ligne précédente) - 200`
 
-Chaque fois que `time` est spécifié explicitement,`hold` est défini sur `4000 + 800n`. Pour cette raison, il est important de toujours définir `time` *avant* `hold` si vous utilisez les deux dans la même ligne. Sinon, `hold` sera écrasé.
+Chaque fois que `time` est spécifié explicitement,`hold` est défini sur `4000 + 800n`. Pour cette raison, il est important de toujours définir `time` _avant_ `hold` si vous utilisez les deux dans la même ligne. Sinon, `hold` sera écrasé.
 
 #### Exemple
 

@@ -13,27 +13,28 @@ You can discuss this event and follow the most important changes in the **[offic
 
 ## Tournament Schedule
 
-+ Registration Phase: 2018-05-02/2018-05-16
-+ Drawings: 2018-06-02 (14:00 UTC)
-+ Group Stage: 2018-06-09/2018-06-10
-+ Round of 16: 2018-06-16/2018-06-17
-+ Quarterfinals: 2018-06-23/2018-06-24
-+ Semifinals: 2018-06-30/2018-07-01
-+ Finals: 2018-07-07/2018-07-08
-+ Grand Finals: 2018-07-14/2018-07-15
+-   Registration Phase: 2018-05-02/2018-05-16
+-   Drawings: 2018-06-02 (14:00 UTC)
+-   Group Stage: 2018-06-09/2018-06-10
+-   Round of 16: 2018-06-16/2018-06-17
+-   Quarterfinals: 2018-06-23/2018-06-24
+-   Semifinals: 2018-06-30/2018-07-01
+-   Finals: 2018-07-07/2018-07-08
+-   Grand Finals: 2018-07-14/2018-07-15
 
 ## Prizes
-+ **1st:** Profile badge, "osu!catch Champion" user title for one year
-+ **2nd:** Profile badge
-+ **3rd:** Profile badge
+
+-   **1st:** Profile badge, "osu!catch Champion" user title for one year
+-   **2nd:** Profile badge
+-   **3rd:** Profile badge
 
 _The rest of the prizes will be determined during the registration phase._
 
 ## How do I register?
 
-+ **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/15)**
-+ Do not create teams in advance! Teams will be formed by the country's team captain after the registration phase is concluded.
-+ Hand in your registration before the **16th of May.**
+-   **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/15)**
+-   Do not create teams in advance! Teams will be formed by the country's team captain after the registration phase is concluded.
+-   Hand in your registration before the **16th of May.**
 
 Please note that you may only participate if you are of a **osu!catch global ranking of #5000 or higher and have not violated the [osu! community rules](/wiki/Rules) in the past 12 months**.
 

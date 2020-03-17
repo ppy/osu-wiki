@@ -4,7 +4,7 @@ title: "New Featured Artist: Billain"
 date: 2019-08-20 10:40:00 +0000
 ---
 
-[**Billain**](https://osu.ppy.sh/beatmaps/artists/46) descends onto the scene as osu!'s latest Featured Artist, complete with a selection of tracks from his latest album, *Nomad's Revenge*!
+[**Billain**](https://osu.ppy.sh/beatmaps/artists/46) descends onto the scene as osu!'s latest Featured Artist, complete with a selection of tracks from his latest album, _Nomad's Revenge_!
 
 ![](https://assets.ppy.sh/artists/46/header.jpg)
 
@@ -14,7 +14,7 @@ His unique fusion of atmospheric, neurofunk-inspired sound design interwoven wit
 
 Some people have historically turned their brain off when confronted with tracks longer than two minutes long—but really, give them a shot! There's a reason almost all of the notable beatmaps people remember fondly are pretty long ones.
 
-We've managed to nab a selection of **18** tracks from his widely varied library, including five tracks from his latest release with *Renraku Global Media*, [*Nomad's Revenge*](https://renraku.bandcamp.com/album/nomads-revenge).
+We've managed to nab a selection of **18** tracks from his widely varied library, including five tracks from his latest release with _Renraku Global Media_, [_Nomad's Revenge_](https://renraku.bandcamp.com/album/nomads-revenge).
 
 Check them out:
 
@@ -48,7 +48,7 @@ Check them out:
     <source src="https://assets.ppy.sh/artists/46/previews/1184.mp3" type="audio/mpeg">
 </audio>
 
----------
+* * *
 
 You know the drill by now, all of the above tracks and **MORE** are available pre-timed and pre-packaged for your convenience over at [**Billain**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/46), all 100% free for use in mapping your wildest dreams.
 

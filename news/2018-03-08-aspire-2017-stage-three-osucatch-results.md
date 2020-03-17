@@ -20,17 +20,17 @@ Spectator's Superior Fox demonstrated a masterful command of 2B patterning, Slid
 
 With almost twice as many public votes as the runner-up, it would appear the community fell in love with it just as much as we did! [You can play Spectator's contest winning entry here!](https://osu.ppy.sh/beatmapsets/740242/#fruits/1561758)
 
---------
+* * *
 
 Heading the chasing pack was **Truthful Waxwing** by [-Ken](https://osu.ppy.sh/users/4430811), achieving a score of **46.9/80** and **128** unique public votes.
 
 <iframe width="100%" height="720" src="https://www.youtube.com/embed/5dkjsG_bUb8?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
--Ken's Truthful Waxwing got a chuckle out of us all with its initial storyboarding endeavours, but this merely foreshadowed a seriously impressive technical offering, featuring a vast array of hyperwalks, stacked notes and bizzare stream shapes. Placing second overall for Creativity and fourth in other criteria, our judges felt that some questionable structuring and a slight lack of variety were all that held this map back from being a contender for the top spot.
+\-Ken's Truthful Waxwing got a chuckle out of us all with its initial storyboarding endeavours, but this merely foreshadowed a seriously impressive technical offering, featuring a vast array of hyperwalks, stacked notes and bizzare stream shapes. Placing second overall for Creativity and fourth in other criteria, our judges felt that some questionable structuring and a slight lack of variety were all that held this map back from being a contender for the top spot.
 
 With favourable feedback from the judging panel and a sizeable chunk of the public vote, -Ken's entry deserves our hearty congratulations and was a worthy runner-up this time around. [I hope you will be all right by checking out -Ken's entry here!](https://osu.ppy.sh/beatmapsets/740051/#fruits/1561332)
 
---------
+* * *
 
 Missing out on the second place spot by the slimmest of margins was **Panicky Armadillo** by [-Sh1n1-](https://osu.ppy.sh/users/1957638), racking up **43.6/80** and **110** unique public votes.
 
@@ -40,7 +40,7 @@ Demonstrating excellent use of inter-connected and overlapping sliders and a hug
 
 Whilst the judging panel may have favoured this entry slightly over Truthful Waxwing, the community thought a little differently, and though this entry was by no means poorly received, it wasn't quite destined to snatch the number two spot here. [You can play two maps at the same time by checking out -Sh1n1-'s entry here!](https://osu.ppy.sh/beatmapsets/740372#fruits/1562030)
 
---------
+* * *
 
 Want to see the breakdown of scoring and the judges' comments in more detail? You can find results and judging evaluation for each of the final ten entries on the [Aspire Stage Three Results spreadsheet](https://docs.google.com/spreadsheets/d/16kjYC7k9ckXM3fgbv4SRd50GtoU7szZbj0ip-1YFo2g/edit#usp=sharing), and the community voting results can be found over at the [contest listing page](https://osu.ppy.sh/community/contests/51).
 

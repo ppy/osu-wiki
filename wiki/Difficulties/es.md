@@ -4,11 +4,11 @@ outdated: true
 
 # Dificultades
 
-*No debe confundirse con: [Beatmaps](/wiki/Beatmaps).*
+_No debe confundirse con: [Beatmaps](/wiki/Beatmaps)._
 
-*Ver también: [Criterios de clasificación § Mapset](/wiki/Ranking_Criteria#mapset).*
+_Ver también: [Criterios de clasificación § Mapset](/wiki/Ranking_Criteria#mapset)._
 
-La dificultad de un beatmap *describe* el nivel de habilidad necesario para completarlo.
+La dificultad de un beatmap _describe_ el nivel de habilidad necesario para completarlo.
 
 ## Clasificación por estrellas
 
@@ -16,11 +16,11 @@ La dificultad de un beatmap *describe* el nivel de habilidad necesario para comp
 
 Desde los [Criterios de clasificación](/wiki/Ranking_Criteria), una calificación por estrellas de:
 
-- 1.50 estrellas y menos es Easy ![Icono Easy](/wiki/shared/diff/easy-s.png "cono Easy")
-- 2.25 estrellas y menos es Normal ![Icono Normal](/wiki/shared/diff/normal-s.png "Icono Normal")
-- 3.75 estrellas y menos es Hard ![Ícono Hard](/wiki/shared/diff/hard-s.png "Ícono Hard")
-- 5.25 estrellas y menos Insane ![Ícono Insane](/wiki/shared/diff/insane-s.png "Ícono Insane")
-- 5.25 estrellas y más es Expert ![Icono de Expert](/wiki/shared/diff/expert-s.png "icono Expert")
+-   1.50 estrellas y menos es Easy ![Icono Easy](/wiki/shared/diff/easy-s.png "cono Easy")
+-   2.25 estrellas y menos es Normal ![Icono Normal](/wiki/shared/diff/normal-s.png "Icono Normal")
+-   3.75 estrellas y menos es Hard ![Ícono Hard](/wiki/shared/diff/hard-s.png "Ícono Hard")
+-   5.25 estrellas y menos Insane ![Ícono Insane](/wiki/shared/diff/insane-s.png "Ícono Insane")
+-   5.25 estrellas y más es Expert ![Icono de Expert](/wiki/shared/diff/expert-s.png "icono Expert")
 
 ### Iconos web
 
@@ -28,36 +28,36 @@ Los rangos de clasificación de estrellas determinan qué icono web se va a util
 
 ## Niveles de dificultad
 
-*Ver tambien: [Nombrar dificultades](/wiki/Ranking_Criteria/Difficulty_Naming).*
+_Ver tambien: [Nombrar dificultades](/wiki/Ranking_Criteria/Difficulty_Naming)._
 
 ### osu!
 
-- ![Icono Easy](/wiki/shared/diff/easy-s.png "cono Easy") Easy
-- ![Icono normal](/wiki/shared/diff/normal-s.png "Icono Normal") Normal
-- ![Icono Hard](/wiki/shared/diff/hard-s.png "Ícono Hard") Hard
-- ![Icono Insane](/wiki/shared/diff/insane-s.png "Ícono Insane") Insane
-- ![Icono de Expert](/wiki/shared/diff/expert-s.png "icono Expert") Expert
+-   ![Icono Easy](/wiki/shared/diff/easy-s.png "cono Easy") Easy
+-   ![Icono normal](/wiki/shared/diff/normal-s.png "Icono Normal") Normal
+-   ![Icono Hard](/wiki/shared/diff/hard-s.png "Ícono Hard") Hard
+-   ![Icono Insane](/wiki/shared/diff/insane-s.png "Ícono Insane") Insane
+-   ![Icono de Expert](/wiki/shared/diff/expert-s.png "icono Expert") Expert
 
 ### osu!taiko
 
-- ![Icono Kantan](/wiki/shared/diff/easy-t.png "Icono Kantan") Kantan
-- ![Icono Futsuu](/wiki/shared/diff/normal-t.png "Icono Futsuu") Futsuu
-- ![Icono Muzukashii](/wiki/shared/diff/hard-t.png "Icono Muzukashii") Muzukashii
-- ![Icono Oni](/wiki/shared/diff/insane-t.png "Icono Oni") Oni
-- ![Icono Ura Oni](/wiki/shared/diff/expert-t.png "Icono Ura Oni") Ura Oni (Aveces llamado *Inner Oni*)
+-   ![Icono Kantan](/wiki/shared/diff/easy-t.png "Icono Kantan") Kantan
+-   ![Icono Futsuu](/wiki/shared/diff/normal-t.png "Icono Futsuu") Futsuu
+-   ![Icono Muzukashii](/wiki/shared/diff/hard-t.png "Icono Muzukashii") Muzukashii
+-   ![Icono Oni](/wiki/shared/diff/insane-t.png "Icono Oni") Oni
+-   ![Icono Ura Oni](/wiki/shared/diff/expert-t.png "Icono Ura Oni") Ura Oni (Aveces llamado _Inner Oni_)
 
 ### osu!catch
 
-- ![Icono Cup](/wiki/shared/diff/easy-c.png "Icono Cup") Cup
-- ![Icono Salad](/wiki/shared/diff/normal-c.png "Icono Salad") Salad
-- ![Icono Platter](/wiki/shared/diff/hard-c.png "Icono Platter") Platter
-- ![Icono Rain](/wiki/shared/diff/insane-c.png "Icono Rain") Rain
-- ![Icono Overdose](/wiki/shared/diff/expert-c.png "Icono Overdose") Overdose
+-   ![Icono Cup](/wiki/shared/diff/easy-c.png "Icono Cup") Cup
+-   ![Icono Salad](/wiki/shared/diff/normal-c.png "Icono Salad") Salad
+-   ![Icono Platter](/wiki/shared/diff/hard-c.png "Icono Platter") Platter
+-   ![Icono Rain](/wiki/shared/diff/insane-c.png "Icono Rain") Rain
+-   ![Icono Overdose](/wiki/shared/diff/expert-c.png "Icono Overdose") Overdose
 
 ### osu!mania
 
-- ![Icono EZ](/wiki/shared/diff/easy-m.png "Icono EZ") EZ
-- ![Icono NM](/wiki/shared/diff/normal-m.png "Icono NM") NM
-- ![Icono HD](/wiki/shared/diff/hard-m.png "Icono HD") HD
-- ![Icono MX](/wiki/shared/diff/insane-m.png "Icono MX") MX
-- ![Icono SC](/wiki/shared/diff/expert-m.png "Icono SC") SC
+-   ![Icono EZ](/wiki/shared/diff/easy-m.png "Icono EZ") EZ
+-   ![Icono NM](/wiki/shared/diff/normal-m.png "Icono NM") NM
+-   ![Icono HD](/wiki/shared/diff/hard-m.png "Icono HD") HD
+-   ![Icono MX](/wiki/shared/diff/insane-m.png "Icono MX") MX
+-   ![Icono SC](/wiki/shared/diff/expert-m.png "Icono SC") SC

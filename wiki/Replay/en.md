@@ -2,32 +2,55 @@
 needs_cleanup: true
 outdated: true
 ---
+
 <!-- TODO: this is riddled with old client information and probably needs to be rewritten anyway. -->
 
 <!-- wiki -->
+
 <!-- [Auto wikilink]: /wiki/Game_Modifiers#-auto "Auto game modifier" -->
+
 [Auto wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Auto"
+
 [Cinema wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Cinema"
+
 [No Fail wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under No Fail"
+
 [Relax wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Relax"
+
 [Auto Pilot wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Auto Pilot"
+
 [Perfect wikilink]: /wiki/Game_Modifiers "more info can be found on Game Modifiers under Perfect"
+
 [osr wikilink]: /wiki/osu!_File_Formats/Osr_(file_format) ".osr file format"
+
 [Chat Console wikilink]: /wiki/Chat_Console "Chat Console"
+
 [Extended Chat Console wikilink]: /wiki/Chat_Console#extended-chat-console "more info can be found on Chat Console under Extended Chat Console"
+
 [Options#Keyboard wikilink]: /wiki/Options#keyboard "more info can be found on Options under Keyboard section"
 
 <!-- image -->
+
 [Replay Auto]: img/Replay_Auto.jpg "Replay with Auto, offline and online account play respectively"
+
 [Replay discussion]: img/Replay_discussion.jpg "Discussion button options during a replay"
+
 [Replay discussion comment]: img/Replay_discussion_comment.jpg "Making a comment"
+
 [Replay discussion example]: img/Replay_discussion_example.jpg "An example of comment flow"
+
 [Replay Solo]: img/Replay_Solo.jpg "A local replay"
+
 [Replay failed]: img/Replay_failed.jpg "Left is a regular game over screen and right is a failed replay game over screen"
+
 [Replay Multi]: img/Replay_Multi.jpg "Left is the original Multi play and right is an exported Multi replay"
+
 [Replay Multi fail]: img/Replay_Multi_fail.jpg "A failed Multi replay will still be played."
+
 [Replay Auto on]: img/Replay_Auto_on.jpg "Replay with Auto when connected to Bancho"
+
 [Replay server]: img/Replay_server.jpg "Left is downloading the server replay and right is the replay in question."
+
 [Replay preview result]: img/Replay_preview_result.jpg "An example of preview gameplay's result screen"
 
 # Replay
@@ -51,13 +74,13 @@ Press the `H` key to hide/show all elements of replay except the game mods used 
 
 A [Cinema][Cinema wikilink] replay will:-
 
-- hide all the replay options,
-- disable gameplay access,
-- hide all the skin elements of the game mode,
-- enable the background image/video,
-- play only the pass storyboard,
-- set to 0% background dim, and
-- play the hitsounds on timing points where the notes would be completed.
+-   hide all the replay options,
+-   disable gameplay access,
+-   hide all the skin elements of the game mode,
+-   enable the background image/video,
+-   play only the pass storyboard,
+-   set to 0% background dim, and
+-   play the hitsounds on timing points where the notes would be completed.
 
 To skip the starting/ending point of the play, press the `Spacebar` key.
 
@@ -127,10 +150,8 @@ _Full documentation regarding the `.osr` file format: [.osr file format][osr wik
 To export a replay, press `F2` in the results screen.
 Exported replay will have an `.osr` file extension with a clean filename format as shown below:-
 
-```
-Format : {LocalPlayerName} - {Artist} - {Title} [{Difficulty}] ({YYYY-MM-DD}) {GameMode}
-Example: dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS] (2013-08-12) OsuMania
-```
+    Format : {LocalPlayerName} - {Artist} - {Title} [{Difficulty}] ({YYYY-MM-DD}) {GameMode}
+    Example: dummytest1 - Loituma - Ievan Polkka [SPINNER-MADNESS] (2013-08-12) OsuMania
 
 Do note that an exported replay file will **not** work if the **difficulty/beatmap linked to the replay file was missing/not found**.
 Once opened, the exported replay data will be added to the local leaderboard and the file copied to the backend (specifically, in the hidden `Data/r` folder).
@@ -142,10 +163,8 @@ A white, hovering text from right-to-left, will be shown above the comments but 
 
 The format is shown below unless stated otherwise:-
 
-```
-Format : REPLAY MODE - Watching {PlayerName} play {ArtistName} - {BeatmapsetName} [{Difficulty}]
-Example: REPLAY MODE - Watching osu! play Peter Lambert - osu!tutorial [Gameplay Basics]
-```
+    Format : REPLAY MODE - Watching {PlayerName} play {ArtistName} - {BeatmapsetName} [{Difficulty}]
+    Example: REPLAY MODE - Watching osu! play Peter Lambert - osu!tutorial [Gameplay Basics]
 
 ### Local (Solo)
 
@@ -216,25 +235,21 @@ Do note that depending on the player's settings, the spectators' account name in
 
 A format and example is shown below for the player:-
 
-```
-Format :-
-Spectator list (#):
-{PlayerNameInNewlines}
+    Format :-
+    Spectator list (#):
+    {PlayerNameInNewlines}
 
-Example:-
-Spectator list (2):
-deadbeat
-ztrot
-```
+    Example:-
+    Spectator list (2):
+    deadbeat
+    ztrot
 
 A white, hovering text from right-to-left will be shown on top when watching a spectator's replay.
 
 The format and example is shown below:-
 
-```
-Format : SPECTATOR MODE - Watching {PlayerName} play {ArtistName} - {BeatmapsetName} [{Difficulty}]
-Example: SPECTATOR MODE - Watching peppy play Peter Lambert - osu!tutorial [Gameplay Basics]
-```
+    Format : SPECTATOR MODE - Watching {PlayerName} play {ArtistName} - {BeatmapsetName} [{Difficulty}]
+    Example: SPECTATOR MODE - Watching peppy play Peter Lambert - osu!tutorial [Gameplay Basics]
 
 ### Auto
 
@@ -268,7 +283,7 @@ The replay will be saved server-side.
 It can be exported, or downloaded and watched immediately by request.
 
 When watching a server-side replay (excluding exported replays), the player of the replay's profile will receive an increment of one(1) in the "Replays Watched by Others" counter.
-If a new top 50 global record was added, the previous holder for \#50 position's server-side replay will be removed.
+If a new top 50 global record was added, the previous holder for #50 position's server-side replay will be removed.
 
 To watch a server replay, an osu! account must be signed in and be connected to Bancho.
 At the _Song Selection_ screen in `Solo`, switch the leaderboard to `Global leaderboard` and click on the preferred player at the leaderboard to watch the replay.

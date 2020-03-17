@@ -6,7 +6,7 @@ outdated: true
 
 ![SB object/sprite call](img/SBS_Sprite.jpg "SB object/sprite call")
 
-*[osu!でのヒットオブジェクトに関しては](/wiki/Game_Modes/osu!)[Beatmappingと](/wiki/Beatmapping)[Hit Objects](/wiki/Hit_Objects)* を参照してください。
+_[osu!でのヒットオブジェクトに関しては](/wiki/Game_Modes/osu!)[Beatmappingと](/wiki/Beatmapping)[Hit Objects](/wiki/Hit_Objects)_ を参照してください。
 
 [SBでの](/wiki/Storyboards)**Objects** はSBを構成する動かすことができる画像、アニメーションのことを指します。 またSBとして追加するオーディオデータもオブジェクトに含められると考えられます。しかしここではわかりやすくするために[別のガイドを設けています](/wiki/Storyboard_Scripting/Audio)。
 
@@ -14,8 +14,8 @@ outdated: true
 
 .osbか.osuの`[Events]` のセクションに1行で記述することで、静止画やアニメーションを呼び出すことができます。
 
-| 基本画像 | 変化する画像 |
-| ----------- | ------------ |
+| 基本画像                                         | 変化する画像                                                                               |
+| -------------------------------------------- | ------------------------------------------------------------------------------------ |
 | Sprite,(layer),(origin),"(filepath)",(x),(y) | Animation,(layer),(origin),"(filepath)",(x),(y),(frameCount),(frameDelay),(looptype) |
 
 Where:
@@ -41,11 +41,12 @@ Where:
     -   アニメーションの読み取りに関しては末尾の数字は無視して参照します。なので"sample0.png"と"sample1.png"という2つの画像があるならば、数字を取り除いた記述、すなわち "sample.png"と記述してください。
     -   技術的補足として、もしファイルの名前やサブフォルダの名前にスペースが入っているならばそれも含めて記述してください。
 -   **(x)** と **(y)**は**XY座標がデフォルトでどこに置かれているかを設定します。** その参照方法は(origin)の記述内容に依存します。例えば640x480の画像をBGとしていれた場合、その記述によって以下のように変化をしていきます:
+
     -   origin = TopLeft, x = 0, y = 0
     -   origin = Centre, x = 320, y = 240
     -   origin = BottomRight, x = 640, y = 480
 
-        *等など*
+        _等など_
 
 **アニメーション限定**
 
@@ -55,12 +56,12 @@ Where:
     -   LoopForever (これを有効化するとデフォルトではアニメーションの最後のフレームが終わると最初のフレームに戻ります。)
     -   LoopOnce (こちらは最後のフレームが終わると停止し、最後の画像を表示させ続けます。)
 
-*オブジェクトが表示された時の指示はではない*ということには留意してください。それらは完全に[コマンドに依存します](/wiki/Storyboard_Scripting/Commands)。.osuもしくは.osbにきジュスされたオブジェクトの順番だけが重なりの状態を変化させることができます。*
+_オブジェクトが表示された時の指示はではない_ということには留意してください。それらは完全に[コマンドに依存します](/wiki/Storyboard_Scripting/Commands)。.osuもしくは.osbにきジュスされたオブジェクトの順番だけが重なりの状態を変化させることができます。\*
 
 ## 具体例
 
-| 基本画像 | 変化する画像 |
-| ----------- | ------------ |
+| 基本画像                                         | 変化する画像                                                                               |
+| -------------------------------------------- | ------------------------------------------------------------------------------------ |
 | Sprite,(layer),(origin),"(filepath)",(x),(y) | Animation,(layer),(origin),"(filepath)",(x),(y),(frameCount),(frameDelay),(looptype) |
 
 いくつかのオブジェクトの宣言例:
@@ -71,4 +72,4 @@ Where:
 
 `Animation,Fail,BottomCentre,"Other\Play3\explosion.png",418,108,12,31,LoopForever`
 
-これは"Other"フォルダの中にある"Play3"というフォルダの中に存在する"explosion0.png", "explosion1.png", ..., "explosion11.png" を対象として宣言しています。その画像はFailレイヤーに属し、BottomCentre、すなわちX軸的に見た時は中央でY軸的には画像の底辺を原点として取り、画面上の(418,108)に配置されます。そしてアニメーションとして"explosion0.png"を開始として12フレーム読み込まれ、1フレームにつき31ms表示され、1ループにつき31ms * 12フレーム= 372ms 表示されます。そして最後のフレームが31ms表示されると最初のフレームに戻り、オブジェクトが消えるまでループします。
+これは"Other"フォルダの中にある"Play3"というフォルダの中に存在する"explosion0.png", "explosion1.png", ..., "explosion11.png" を対象として宣言しています。その画像はFailレイヤーに属し、BottomCentre、すなわちX軸的に見た時は中央でY軸的には画像の底辺を原点として取り、画面上の(418,108)に配置されます。そしてアニメーションとして"explosion0.png"を開始として12フレーム読み込まれ、1フレームにつき31ms表示され、1ループにつき31ms \* 12フレーム= 372ms 表示されます。そして最後のフレームが31ms表示されると最初のフレームに戻り、オブジェクトが消えるまでループします。

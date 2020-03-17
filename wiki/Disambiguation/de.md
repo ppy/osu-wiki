@@ -4,7 +4,7 @@ Die Begriffserklärung ist ein Prozess der Lösung von Konflikten die entstehen 
 
 ## Auflistung uneindeutiger Artikeltitel
 
-- [Bancho](Bancho)
-- [Easy](Easy)
-- [EZ](EZ)
-- [Mod](Mod)
+-   [Bancho](Bancho)
+-   [Easy](Easy)
+-   [EZ](EZ)
+-   [Mod](Mod)

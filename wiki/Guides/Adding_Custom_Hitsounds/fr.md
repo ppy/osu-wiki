@@ -1,23 +1,23 @@
 # Ajouter des hitsounds personnalisés
 
-Du sujet: *[Comment ajouter des hitsounds personnalisés ? par: neonat](https://osu.ppy.sh/community/forums/posts/3215699)* (et modifié)
+Du sujet: _[Comment ajouter des hitsounds personnalisés ? par: neonat](https://osu.ppy.sh/community/forums/posts/3215699)_ (et modifié)
 
 ## Obtenir des hitsounds personnalisés
 
 Vous aurez dans un premier temps besoin de hitsounds ! Vous pouvez:
 
-- En trouver dans la [bibliothèque d'hitsounds personnalisés](/wiki/Guides/Custom_Hitsound_Library),
-- Les faire vous même
-  - Si vous décidez de les faire vous même, essayez de garder le format numérique `.wav` - c'est mieux pour les sampler ensuite.
+-   En trouver dans la [bibliothèque d'hitsounds personnalisés](/wiki/Guides/Custom_Hitsound_Library),
+-   Les faire vous même
+    -   Si vous décidez de les faire vous même, essayez de garder le format numérique `.wav` - c'est mieux pour les sampler ensuite.
 
 Une fois que vous les avez, déplacez les dans le dossier de la chanson. Si vous ne savez pas ou se trouve le dossier de la chanson, suivez ces étapes:
 
-1. Ouvrez osu!
-2. Editer
-3. Allez sur *votre beatmap* et ouvrez-la
-4. Fichiers (en haut a gauche de la fenêtre, dans la barre blanche)
-5. Ouvrir le dossier Songs
-6. *et collez les sons ici*
+1.  Ouvrez osu!
+2.  Editer
+3.  Allez sur _votre beatmap_ et ouvrez-la
+4.  Fichiers (en haut a gauche de la fenêtre, dans la barre blanche)
+5.  Ouvrir le dossier Songs
+6.  _et collez les sons ici_
 
 Maintenant que vous avez vos hitsounds dans le bon dossier, il est important de nommer les différents sons selon leur utilité. Par exemple, ils peuvent s'appeler "finish", "whistle", "clap", "normal hit", ou "loud noises".
 

@@ -32,9 +32,9 @@ Ten status jest charakterystyczny dla piosenek dłuższych w [całkowitej rozgry
 
 Te beatmapy przechodzą ostatni etap mapowania, jak i modowania. Na początku rozgrywki pojawi się komunikat mówiący, że obecny status beatmapy spowoduje:
 
-- brak przyznania [pp](/wiki/pp).
-- usunięcie wszystkich wyników po zmianie statusu.
-  - Jeżeli status zostanie zmieniony na rankingowy, zatwierdzony lub oczekujący, wszystkie wyniki zostaną usunięte!
+-   brak przyznania [pp](/wiki/pp).
+-   usunięcie wszystkich wyników po zmianie statusu.
+    -   Jeżeli status zostanie zmieniony na rankingowy, zatwierdzony lub oczekujący, wszystkie wyniki zostaną usunięte!
 
 Jeżeli beatmapa została zakwalifikowana, oznacza to, że jest zgodna z [kryteriami rankingowymi](/wiki/ranking_criteria) i została zatwierdzona przez dwóch [nominatorów](/wiki/Beatmap_Nominators). Kwalifikacja to ostatni etap, w którym mapa musi znajdować się przynajmniej tydzień, zanim otrzyma status [rankingowy](#ranked) lub [zatwierdzony](#approved).
 
@@ -44,10 +44,10 @@ Podczas tego tygodnia [członkowie zespołu QAT](/wiki/QAT) mają czas na sprawd
 
 ![Serce](/wiki/shared/status/loved.png) Na ekranie wyboru piosenek ulubione beatmapy społeczności są oznaczane sercem.
 
-Beatmapy tego typu mogą nie być zgodne z [kryteriami rankingowymi](/wiki/Ranking_Criteria), ale są *uwielbiane* przez społeczność. Są dodawane regularnie do tej kategorii na podstawie głosów w społeczności. Na początku rozgrywki pojawi się komunikat mówiący, że obecny status beatmapy spowoduje:
+Beatmapy tego typu mogą nie być zgodne z [kryteriami rankingowymi](/wiki/Ranking_Criteria), ale są _uwielbiane_ przez społeczność. Są dodawane regularnie do tej kategorii na podstawie głosów w społeczności. Na początku rozgrywki pojawi się komunikat mówiący, że obecny status beatmapy spowoduje:
 
-- brak przyznania [pp](/wiki/Performance_Points).
-- usunięcie wszystkich wyników po aktualizacji beatmapy przez twórcę.
+-   brak przyznania [pp](/wiki/Performance_Points).
+-   usunięcie wszystkich wyników po aktualizacji beatmapy przez twórcę.
 
 Ten status przyzna beatmapom tabele wyników.
 
@@ -55,7 +55,7 @@ Aby dowiedzieć się, jak beatmapa może uzyskać status ulubionej społecznośc
 
 ### Oczekujące
 
-*Zobacz także: [Proces zatwierdzania beatmapy](/wiki/Beatmap_ranking_procedure)*
+_Zobacz także: [Proces zatwierdzania beatmapy](/wiki/Beatmap_ranking_procedure)_
 
 ![Znak zapytania](/wiki/shared/status/pending.png) Na ekranie wyboru piosenek oczekujące beatmapy są oznaczane znakiem zapytania.
 

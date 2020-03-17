@@ -6,10 +6,8 @@ layout: main_page
 osu!에 관련된 다양한 정보를 담고 있는 osu! wiki에 어서오세요!
 </div>
 
-
 <div class="wiki-main-page__panels">
 <div class="wiki-main-page-panel">
-
 
 # 시작하기
 
@@ -18,14 +16,12 @@ osu!에 관련된 다양한 정보를 담고 있는 osu! wiki에 어서오세요
 </div>
 <div class="wiki-main-page-panel">
 
-
 # 게임플레이
 
 [FAQ](/wiki/FAQ) • [멀티 플레이](/wiki/Multi) • [게임 모드](/wiki/Game_Modes): ([osu!](/wiki/Game_Modes/osu!) • [osu!taiko](/wiki/Game_Modes/osu!taiko) • [osu!catch](/wiki/Game_Modes/osu!catch) • [osu!mania](/wiki/Game_Modes/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">
-
 
 # [비트맵 편집기](/wiki/Beatmap_Editor)
 
@@ -34,7 +30,6 @@ osu!에 관련된 다양한 정보를 담고 있는 osu! wiki에 어서오세요
 </div>
 <div class="wiki-main-page-panel">
 
-
 # 온라인 편집 및 랭킹
 
 [비트맵 제출](/wiki/Submission) • [비트맵 승인](/wiki/Beatmap_ranking_procedure) • [모딩](/wiki/Modding) • [랭크 기준](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
@@ -42,14 +37,12 @@ osu!에 관련된 다양한 정보를 담고 있는 osu! wiki에 어서오세요
 </div>
 <div class="wiki-main-page-panel">
 
-
 # osu의 세계!
 
 [용어](/wiki/Glossary) • [토너먼트](/wiki/Tournaments) • [스킨](/wiki/Skinning) • [프로젝트](/wiki/Projects)
 
 </div>
 <div class="wiki-main-page-panel">
-
 
 # 사람들
 

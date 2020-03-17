@@ -6,12 +6,12 @@ outdated: true
 
 ![MWC 2014 logo](logo.png)
 
-The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania organisé par [l'équipe d'Osu! en charge des tournois](https://osu.ppy.sh/groups/26). Il s'agit du premier tournoi mondial d'Osu!mania séparé en 4-keys et 7-keys.
+The **Osu!mania World Cup 2014** (**_MWC 2014_** ) est un tournoi d'Osu!mania organisé par [l'équipe d'Osu! en charge des tournois](https://osu.ppy.sh/groups/26). Il s'agit du premier tournoi mondial d'Osu!mania séparé en 4-keys et 7-keys.
 
 ## Calendrier
 
 | Event                   | Timestamp          |
-|-------------------------|--------------------|
+| ----------------------- | ------------------ |
 | Inscription des équipes | 1-20 Juilletl 2014 |
 | Tirages aux sorts       | 2 Août 2014        |
 | Phase de poules (4K)    | 9-10 Août 2014     |
@@ -24,22 +24,22 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
 ## Prix
 
 | Placing                                                    | Prize(s)                                                                                                                    |
-|------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | Statut de supporter pendant 6 mois, un badge sur le profil, produits dérivés d'osu!, titre personalisé "osu!mania champion" |
+| ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")     | Statut de supporter pendant 6 mois, un badge sur le profil, produits dérivés d'osu!, titre personalisé "osu!mania champion" |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Statut de supporter pendant 3 mois                                                                                          |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Statut de supporter pendant 1 mois                                                                                          |
 
 ## Organisation
 
-| Job                       | Person(s)                                                                                                                                                                                                                                                                                                                                     |
-|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Direction                 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)                                                                                                                                                  |
-| Séléction des beatmaps    | ![][flag_RU] [\[Shi-Ra\]](https://osu.ppy.sh/users/2008489) // ![][flag_CL] [Agka](https://osu.ppy.sh/users/64811)                                                                                                                                                                                                            |
-| Retransmission des matchs | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257)                                                                                                                                                 |
+| Job                       | Person(s)                                                                                                                                                                                                                                                                                             |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Direction                 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)                                                                                                                                  |
+| Séléction des beatmaps    | ![][flag_RU] [\[Shi-Ra\]](https://osu.ppy.sh/users/2008489) // ![][flag_CL] [Agka](https://osu.ppy.sh/users/64811)                                                                                                                                                                                    |
+| Retransmission des matchs | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257)                                                                                                                                 |
 | Commentaires              | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) // ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_IT] [Roxas](https://osu.ppy.sh/users/1041833) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) // ![][flag_RU] [\[Shi-Ra\]](https://osu.ppy.sh/users/2008489) |
-| Statistiques              | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665)                                                                                                                                                                                                                                                                                |
+| Statistiques              | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665)                                                                                                                                                                                                                                                |
 
-------------------------------------------------------------------------
+* * *
 
 ## Links
 
@@ -47,32 +47,43 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
 -   [Formulaire d'inscription](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY)
 -   [Topic de discussion](https://osu.ppy.sh/community/forums/topics/222100)
 
-------------------------------------------------------------------------
+* * *
 
 ## Réglement
 
 ### Règles du tournoi
 
 1.  L'osu!mania World cup est un tournoi, séparé en 4-keys et 7-keys avec une équipe par pays.
+
 2.  Les maps prévues pour chaque phase seront annoncées publiquement par l'équipe de sélection des beatmaps le dimanche précédent le début de chaque phase. Aucune autre beatmap ne peut être jouée durant les matchs.
     -   Une map, le tiebreaker, servira à départager deux équipes à égalité à la fin d'un match. Elle ne peut être utilisée pour une autre fin.
 
 3.  Les dates et horaires des matchs seront fixés par la direction (cf. rubrique « Planification des matchs »).
+
 4.  Si aucun membre de la direction ou aucun arbitre n'est présent à l'heure du match, celui-ci sera reporté à une date ultérieure.
+
 5.  En cas de Fail le score ne sera pas comptabilisé.
     -   Les revives (revenir d'un statut d'échec à un statut normal au sein d'une partie en remplissant la barre de vie au maximum) sont autorisés.
 
 6.  L'utilisation des Visual Settings est autorisée.
+
 7.  Une partie ne compte pas si les scores finaux des deux équipes sont identiques.
+
 8.  Si l'un des joueurs est déconnecté durant un match son score sera compté comme nul.
+
 9.  Une beatmap ne peut être jouée plus d'une fois au sein d'un match, sauf si la partie dans laquelle la beatmap a été jouée a été annulée.
+
 10. Si moins de deux joueurs sont présent à l'horaire prévue, le match pourra être reporté d'un maximum de 10 minutes.
+
 11. L'échange de joueurs au sein d'une équipe est autorisée.
     -   La limite est d'un échange maximum par partie et par équipe.
 
 12. Un « ralentissement » d'un PC ou un « lag » ne sont pas des excuses valables pour annuler une partie.
+
 13. Les victoires par forfait sont représentées par une victoire de 4 à 0 et un ratio de +1,0 pour l'équipe victorieuse.
+
 14. Les imprévus sont gérés par les arbitres. La décision d'un arbitre peut être annulée par la direction.
+
 15. Si les présentes règles venaient à être modifiées pendant le tournoi, un communiqué officiel sera diffusé.
 
 ### Inscription des équipes
@@ -85,10 +96,12 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
         2.  Si votre pays s'enregistre pour le tournoi 4K elle n'est pas obligée de s'inscrire aussi pour le tournoi 7K et vice-versa.
 
 2.  Chaque équipe doit représenter un pays. Les joueurs constituant l'équipe doivent provenir de ce pays.
+
 3.  L'inscription des équipes doit être réalisée par le biais de [ce formulaire](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY). Il est impératif de confirmer une équipe en [envoyant un message privé à Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) intitulé “MWC Registration”
     -   Les capitaines peuvent changer leurs équipes en [en informant la direction](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
 
 4.  Tous les participants d'une équipe sont soumis à un contrôle de sécurité par la direction avant d'être officiellement intégrés.
+
 5.  32 équipes maximum sont autorisées à participer dans chaque tournoi.
     -   Selon le nombre total d'inscription ce nombre maximum peut changer.
 
@@ -103,6 +116,7 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
     -   Ceci pouvant changer selon le nombre total d'équipes inscrites.
 
 2.  Une équipe d'un groupe joue successivement contre toutes les autres équipes de son groupe.
+
 3.  Le classement au sein d'un groupe est déterminé en fonction des critères suivants par ordre de priorité (plus le nombre obtenu pour chaque critère est élevé, mieux c'est) :
     1.  Nombre de matchs remportés,
     2.  Ratio `{(nombre de parties remportées) - (nombre de parties perdues)}`,
@@ -111,8 +125,10 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
     5.  Éventuel second match remporté.
 
 4.  Les deux premières équipes de chaque groupe sont qualifiées pour les huitièmes de finale.
+
 5.  Les matchs suivant sont tous à élimination directe. Cela signifique que l'équipe victorieuse passe au tour suivant alors que l'autre équipes est éliminée du tournoi.
-6.  *Conditions de victoire:*'
+
+6.  _Conditions de victoire:_'
     -   Durant la phase de Poules, Vous devez gagner 4 maps pour gagner un match. (Meilleur des 7)
     -   Durant les huitièmes et quart de finale, vous devez gagner 5 maps pour gagner un match. (Meilleur des 9)
     -   Durant les demi-finales et finale, vous devez gagner 6 maps pour gagner un match (Meilleur des 11)
@@ -125,6 +141,7 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
     3.  L'équipe mentionnée en premier dans le nom de la salle doit être l'équipe bleue ; l'autre équipe doit être l'équipe rouge.
 
 2.  Les joueurs ont la possibilité de s'échauffer sur une map de leur choix avant le début de la partie.
+
 3.  Les capitaines choisiront une beatmap à tour de rôle. Afin de déterminer lequel d'entre eux choisira en premier, ils utiliseront chacun la commande « !roll » dans le chat ; le plus grand nombre l'emporte.
     1.  Les capitaines peuvent choisir autant de beatmaps de la catégorie FreeMod qu'ils le souhaitent.
     2.  En cas d'égalité après un certain nombre de parties jouées (voir rubrique « Organisation des phases »), le tiebreaker doit être joué.
@@ -155,11 +172,19 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
 6.  Les capitaines sont tenus responsables de la disponibilité de leur équipe à l'heure du match. Le choix par la direction de permettre à un capitaine de recruter 3 autres joueurs dans son équipe plutôt que 1 a été justement fait en ce sens pour lui permettre une gestion plus souple de la disponibilité de son équipe. Si un capitaine ne peut présenter une équipe de 2 joueurs à l'heure du match (en plus du délai maximal accordé), son équipe sera considérée comme ayant déclaré forfait.
 
 [flag_AU]: /wiki/shared/flag/AU.gif
+
 [flag_CL]: /wiki/shared/flag/CL.gif
+
 [flag_DE]: /wiki/shared/flag/DE.gif
+
 [flag_ES]: /wiki/shared/flag/ES.gif
+
 [flag_FR]: /wiki/shared/flag/FR.gif
+
 [flag_IT]: /wiki/shared/flag/IT.gif
+
 [flag_PL]: /wiki/shared/flag/PL.gif
+
 [flag_RU]: /wiki/shared/flag/RU.gif
+
 [flag_US]: /wiki/shared/flag/US.gif

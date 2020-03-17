@@ -12,11 +12,11 @@ You can find this option in the [Options](..).
 You can use the slider given to adjust the universal offset, however, this requires you to know what the timing needs to be.
 Instead, you can use `Offset Wizard` for a more graphical representation of ticks.
 
-Unlike the local song offset (specific to that difficulty only), this offset affects *every* beatmap you play.
+Unlike the local song offset (specific to that difficulty only), this offset affects _every_ beatmap you play.
 If you received an online offset, you can manually adjust it yourself for the difficulty you are playing using `+` or `-` to increase or decrease, respectively, the beatmap's offset by 5 milliseconds.
 You can also hold `Alt` while pressing `+` or `-` will allow you to change the offset by 1 millisecond.
 
----
+* * *
 
 To access the offset wizard, open the Options sidebar and type `offset`.
 Then click on the `Offset wizard` button.

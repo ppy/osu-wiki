@@ -4,17 +4,17 @@ The [Loved](/wiki/Beatmaps#loved) beatmap category is currently managed by [Proj
 
 ## Feature request (Feb 2015)
 
-On 2015-02-02, the feature request *[New beatmap category for good unrankable mapsets](https://osu.ppy.sh/community/forums/topics/293841)* was posted. It detailed another way outside of the [ranking process](/wiki/Beatmap_ranking_procedure) for maps to have leaderboards, and quickly gained traction as players showed concern about the ranking process becoming too strict and not allowing for some maps to house competition.
+On 2015-02-02, the feature request _[New beatmap category for good unrankable mapsets](https://osu.ppy.sh/community/forums/topics/293841)_ was posted. It detailed another way outside of the [ranking process](/wiki/Beatmap_ranking_procedure) for maps to have leaderboards, and quickly gained traction as players showed concern about the ranking process becoming too strict and not allowing for some maps to house competition.
 
-Another reason this request became popular is that very unconventional or game-breaking maps could have never fit the [ranking criteria](/wiki/Ranking_Criteria). Players were interested in competition on some of these maps, such as ones featuring "2B" styles,<!-- TODO: would be nice if I could link to somewhere that explains this, like a glossary of mapping styles or something --> *[Aspire](/wiki/Glossary#aspire)*-like gameplay, or [TAG co-op](/wiki/Glossary#tag) elements.
+Another reason this request became popular is that very unconventional or game-breaking maps could have never fit the [ranking criteria](/wiki/Ranking_Criteria). Players were interested in competition on some of these maps, such as ones featuring "2B" styles,<!-- TODO: would be nice if I could link to somewhere that explains this, like a glossary of mapping styles or something --> _[Aspire](/wiki/Glossary#aspire)_-like gameplay, or [TAG co-op](/wiki/Glossary#tag) elements.
 
 By late 2016, this feature request held the second-most stars in the forum's history with nearly 13,000 priority.
 
 ## Community voting (Oct 2016 – Jan 2017)
 
-When [Loved was first created](https://osu.ppy.sh/home/news/2016-10-17-here-comes-the-love), it aimed to address everything in the feature request. Polls were opened by ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) on the forums where anyone could help decide which maps would become Loved. Details of the voting system were explained in the *[Show Your Love!](https://osu.ppy.sh/home/news/2016-10-21-show-your-love)* news post.
+When [Loved was first created](https://osu.ppy.sh/home/news/2016-10-17-here-comes-the-love), it aimed to address everything in the feature request. Polls were opened by ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) on the forums where anyone could help decide which maps would become Loved. Details of the voting system were explained in the _[Show Your Love!](https://osu.ppy.sh/home/news/2016-10-21-show-your-love)_ news post.
 
-The opening rounds of voting saw great success as the community enjoyed participating in this new feature. Unfortunately, it wasn't long before some important and difficult concerns came to light. By the [fourth round of voting](https://osu.ppy.sh/community/forums/topics/541452), a common complaint was that while the community could vote in the polls, it didn't feel like anyone had much influence in deciding *which* maps got to the polls in the first place. Many mentioned that the infrequency of the voting wasn't supportive of the idea behind Loved. It was also cause for concern that maps were effectively competing against each other in this voting, despite all of the maps being popularly praised in some way, and thus all apparently suitable for Loved.
+The opening rounds of voting saw great success as the community enjoyed participating in this new feature. Unfortunately, it wasn't long before some important and difficult concerns came to light. By the [fourth round of voting](https://osu.ppy.sh/community/forums/topics/541452), a common complaint was that while the community could vote in the polls, it didn't feel like anyone had much influence in deciding _which_ maps got to the polls in the first place. Many mentioned that the infrequency of the voting wasn't supportive of the idea behind Loved. It was also cause for concern that maps were effectively competing against each other in this voting, despite all of the maps being popularly praised in some way, and thus all apparently suitable for Loved.
 
 Following feedback received during the fourth round and in [a general poll about the state of Loved](https://osu.ppy.sh/community/forums/topics/529407) opened around a month before it, Ephemeral (and other members of the osu! team) decided that the votes in this format would not be sustainable in the long term. He strongly supported the idea of using favourites as a metric to decide which maps would be admitted to Loved.
 
@@ -30,7 +30,7 @@ Ephemeral posted some updates later on in his forum thread, but no action was ta
 
 ## Captain's pick and Project Loved (Sep 2017 – present)
 
-The [second episode of osu!'s *Coffee Hour* talk show](https://www.youtube.com/watch?v=JYLITcBYkC4) featured ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335), and ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) discussing the past and future of Loved. Near the end, Ephemeral suggested that the original community voting could be brought back in some form, since the community seemed to like it better than the star priority and favourites system, provided the selection of maps was good. The question of how to choose those maps was left unanswered in this show.
+The [second episode of osu!'s _Coffee Hour_ talk show](https://www.youtube.com/watch?v=JYLITcBYkC4) featured ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802), ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335), and ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) discussing the past and future of Loved. Near the end, Ephemeral suggested that the original community voting could be brought back in some form, since the community seemed to like it better than the star priority and favourites system, provided the selection of maps was good. The question of how to choose those maps was left unanswered in this show.
 
 By the end of September, ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) had collaborated with Ephemeral to create a new version of the community voting called [Loved Captain's Pick](https://osu.ppy.sh/home/news/2017-09-25-introducing-the-loved-captains-pick). At first, it was nearly identical to the old voting, with the exception that the maps in the polls were chosen by "captains", trusted community members that had a good sense of what the rest of the community wanted to see.
 
@@ -41,5 +41,7 @@ After a few rounds of this, Toy decided to use a slightly different voting forma
 [Project Loved](/wiki/Project_Loved) is the current system being used to move maps to Loved. More details and information about how to get beatmaps up for voting in Project Loved can be found in its wiki article.
 
 [flag_AU]: /wiki/shared/flag/AU.gif
+
 [flag_DE]: /wiki/shared/flag/DE.gif
+
 [flag_US]: /wiki/shared/flag/US.gif

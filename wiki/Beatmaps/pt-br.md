@@ -32,9 +32,9 @@ Beatmaps qualificados aparecem com o ícone qualificado (![Qualified icon](/wiki
 
 Esses beatmaps estão no último passo dos processos de beatmapping e modding. Antes que eles comecem, uma caixa de diálogo será mostrada alertando sobre o status do beatmap com as seguintes informações:
 
-- Nenhum [pp](/wiki/pp) será ganho.
-- Todas as pontuações serão excluídas assim que o status seja alterado.
-  - Caso o status seja alterado para ranqueado, aprovado ou volte a ser pendente, todos as pontuações serão permanentemente descartadas!
+-   Nenhum [pp](/wiki/pp) será ganho.
+-   Todas as pontuações serão excluídas assim que o status seja alterado.
+    -   Caso o status seja alterado para ranqueado, aprovado ou volte a ser pendente, todos as pontuações serão permanentemente descartadas!
 
 Quando um beatmap é qualificado, isso significa que ele conseguiu passar por todos os [critérios de ranqueamento](/wiki/ranking_criteria) e foi avaliado por dois [Beatmap Nominators](/wiki/Beatmap_Nominators). Qualificação representa o último passo na linha de chegada, já que eles precisam estar pelo menos uma semana nesse estado para que se tornem [ranqueados](#ranked) or [aprovados](#approved) permanentemente.
 
@@ -44,10 +44,10 @@ Durante a duração dessa semana, porém, é permitido que os [QATs](/wiki/QAT) 
 
 Os beatmaps amados aparecem com o ícone do coração (![Heart icon](/wiki/shared/status/loved.png)) na tela de seleção de músicas.
 
-Esses beatmaps podem não ter atendido aos [critérios de ranqueamento](/wiki/ranking_criteria), mas ainda assim são *amados* pela comunidade, sendo assim regularmente rotacionados com base nos votos da comunidade. Antes que eles comecem, uma caixa de diálogo será mostrada alertando sobre o status do beatmap com as seguintes informações:
+Esses beatmaps podem não ter atendido aos [critérios de ranqueamento](/wiki/ranking_criteria), mas ainda assim são _amados_ pela comunidade, sendo assim regularmente rotacionados com base nos votos da comunidade. Antes que eles comecem, uma caixa de diálogo será mostrada alertando sobre o status do beatmap com as seguintes informações:
 
-- Nenhum [pp](/wiki/pp) será ganho.
-- Todos as pontuações serão excluídas quando o criador atualizar o beatmap.
+-   Nenhum [pp](/wiki/pp) será ganho.
+-   Todos as pontuações serão excluídas quando o criador atualizar o beatmap.
 
 Esse status atribui aos beatmaps uma leaderboard.
 
@@ -55,7 +55,7 @@ Para tentar tornar um beatmap **Amado**, confira a postagem no fórum: [Get your
 
 ### Pendente
 
-*Veja também: [Procedimento de Ranqueamento de Beatmaps](/wiki/Beatmap_ranking_procedure)*
+_Veja também: [Procedimento de Ranqueamento de Beatmaps](/wiki/Beatmap_ranking_procedure)_
 
 Beatmaps pendentes aparecem com o ícone da interrogação (![Question mark icon](/wiki/shared/status/pending.png)) na tela de seleção de músicas.
 

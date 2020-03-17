@@ -21,11 +21,7 @@ Explaining symmetry in text form (like we are now) isn't as effective without th
 
 ### Horizontal Symmetry
 
-
-
 ### Vertical Symmetry
-
-
 
 ### Symmetry With Respect to the Origin
 

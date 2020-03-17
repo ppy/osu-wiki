@@ -5,21 +5,21 @@ outdated: true
 <img src="Intro_static.jpg" title="fig:Right|Layar perkenalan" alt="Right|Layar perkenalan" width="400" /> \_\_TOC\_\_
 =Menu Utama= <img src="Introscreen.jpg" title="fig:Menu utama" alt="Menu utama" width="280" />
 
--   \[1\] osu! logo berdetak sesuai dengan [BPM (Ketukan per Menit)](ID:Timing "wikilink") dari setiap lagu yang sedang diputar di layar awal. Jika tidak ada lagu yang sedang dimainkan, logo akan berdetak pada tingkat yang biasanya. Pintasan papan ketik terdapat dalam tanda kurung.
+-   \[1] osu! logo berdetak sesuai dengan [BPM (Ketukan per Menit)](ID:Timing "wikilink") dari setiap lagu yang sedang diputar di layar awal. Jika tidak ada lagu yang sedang dimainkan, logo akan berdetak pada tingkat yang biasanya. Pintasan papan ketik terdapat dalam tanda kurung.
 
 <!-- -->
 
--   \[2\] Klik Play (P) atau logo untuk beralih ke layar awal kedua.
--   \[3\] Klik Edit (E) untuk membuka layar pilihan lagu untuk [Penyunting](ID:Editor "wikilink").
--   \[4\] Klik Options (O) dan jendela [opsi](ID:Options "wikilink") akan terbuka.
--   \[5\] Klik Exit (Esc) untuk keluar osu!.
--   \[6\] Tips yang bermanfaat ditampilkan secara acak di bagian bawah menu.
--   \[7\] Di pojok kiri bawah adalah link ke situs osu! itu.
--   \[8\] Hasil Koneksi ke Bancho!
--   \[9\] Di pojok kanan bawah yaitu adalah kontrol [Konsol Obrolan](ID:Internet_Relay_Chat "wikilink") (pintasan: F8&F9 ).
--   \[10\] Di pojok kanan atas tersebut adalah osu!jukebox yang memainkan lagu secara acak.
--   \[11\] Sebelah userpanel tersebut, jumlah beatmaps, waktu berjalannya program hingga saat ini dan waktu jam komputer kamu.
--   \[12\] Di pojok kiri atas adalah panel pengguna kamu, klik di atasnya untuk menampilkan Pilihan Pengguna.
+-   \[2] Klik Play (P) atau logo untuk beralih ke layar awal kedua.
+-   \[3] Klik Edit (E) untuk membuka layar pilihan lagu untuk [Penyunting](ID:Editor "wikilink").
+-   \[4] Klik Options (O) dan jendela [opsi](ID:Options "wikilink") akan terbuka.
+-   \[5] Klik Exit (Esc) untuk keluar osu!.
+-   \[6] Tips yang bermanfaat ditampilkan secara acak di bagian bawah menu.
+-   \[7] Di pojok kiri bawah adalah link ke situs osu! itu.
+-   \[8] Hasil Koneksi ke Bancho!
+-   \[9] Di pojok kanan bawah yaitu adalah kontrol [Konsol Obrolan](ID:Internet_Relay_Chat "wikilink") (pintasan: F8&F9 ).
+-   \[10] Di pojok kanan atas tersebut adalah osu!jukebox yang memainkan lagu secara acak.
+-   \[11] Sebelah userpanel tersebut, jumlah beatmaps, waktu berjalannya program hingga saat ini dan waktu jam komputer kamu.
+-   \[12] Di pojok kiri atas adalah panel pengguna kamu, klik di atasnya untuk menampilkan Pilihan Pengguna.
 
 ==Pilihan Pengguna== <img src="useroptions1.png" title="fig:Pilihan Pengguna" alt="Pilihan Pengguna" width="280" />
 
@@ -40,7 +40,7 @@ Akses layar ini dengan mengklik panel pengguna kamu di bagian pojok kiri atas la
 
 ==Lobi Bermain Bersama==
 
-*Penjelasan lebih lanjut: [Bermain Bersama](ID:Multiplayer "wikilink")*
+_Penjelasan lebih lanjut: [Bermain Bersama](ID:Multiplayer "wikilink")_
 
 <img src="Multi-Play-2016.png" title="fig:Multi-Play-2016.png" alt="Multi-Play-2016.png" width="280" /> <img src="Multi play! (Host).jpg" title="fig:Multi play! (Host).jpg" alt="Multi play! (Host).jpg" width="280" />
 
@@ -59,7 +59,7 @@ Karena layar ini memiliki terlalu banyak elemen untuk diperhatikan oleh nomor ya
 <img src="soloplay2.jpeg" title="fig:soloplay2.jpeg" alt="soloplay2.jpeg" width="400" />
 Area ini menampilkan **informasi pada tingkat kesulitan beatmap yang sedang dipilih.** Biasanya, Beatmap yang terdengar di osu!jukebox dipilih secara otomatis ketika memasuki layar pemilihan. Nilai BPM yang tercantum adalah deviasi antara BPM tertinggi dan terendah yang terjadi pada Beatmap (perubahan bagian timing). "Objects" adalah jumlah keseluruhan [objek ketukan](ID:Hit_Objects "wikilink") sebuah beatmap. Sebuah simbol hati ![](heart.gif "fig:heart.gif") di pojok kiri atas menunjukkan beatmap tersebut telah ranked, sedangkan simbol api ![](fire.gif "fig:fire.gif") menunjukkan approved beatmap. Judul unicode akan digunakan jika [opsi "Utamakan aksara non-Latin untuk metadata" (allowed non-English metadata) pada bagian Umum (General)](ID:Options#Language "wikilink") dan beatmap tersebut memiliki judul/artis dalam bentuk unicode.
 
--   Bentuk: {Sumber} ({Artis}) - {Judul} \[{Tingkat kesulitan yang dipilih}\]
+-   Bentuk: {Sumber} ({Artis}) - {Judul} \[{Tingkat kesulitan yang dipilih}]
 
 ### Grup dan Pengurutan
 
@@ -102,8 +102,8 @@ Ketik dimanapun pada Layar Pemilihan Lagu ([Konsol Chat](ID:Chat_Console "wikili
 
 -   **Daftar beatmap hanya akan menampilkan map yang mengandung informasi** (Artis lagu, nama lagu, pembuat beatmap, nama tingkat kesulitan, label) **sesuai dengan apa yang kamu ketik**
 -   Menggunakan **Ctrl+Backspace** tidak menghilangkan karakter terakhir yang kamu ketik, melainkan kata terakhir yang kamu ketik
--   Terdapat beberapa **penyaring pencarian** yang akan menyaring hasil jika menggunakan =, &lt;, &gt;, &lt;=, &gt;=, != (tidak sama dengan), atau == (tepat sama dengan) dan sebuah nilai (contoh "od&gt;8", "bpm&gt;150", "mode=mania").
-    Penyaring dapat digunakan pula sebagai tambahan kata kunci pencarian atau penyaring lainnya. (contoh "fox bpm&gt;200 ar=10", "bms status=r bpm&gt;200 length&gt;180")
+-   Terdapat beberapa **penyaring pencarian** yang akan menyaring hasil jika menggunakan =, &lt;, >, &lt;=, >=, != (tidak sama dengan), atau == (tepat sama dengan) dan sebuah nilai (contoh "od>8", "bpm>150", "mode=mania").
+    Penyaring dapat digunakan pula sebagai tambahan kata kunci pencarian atau penyaring lainnya. (contoh "fox bpm>200 ar=10", "bms status=r bpm>200 length>180")
     -   **ar** - Approach rate (Tingkat capaian)
     -   **cs** - Circle size (Ukuran lingkaran)
     -   **od** - Overall difficulty (Tingkat kesulitan secara keseluruhan)
@@ -132,14 +132,14 @@ Ketik dimanapun pada Layar Pemilihan Lagu ([Konsol Chat](ID:Chat_Console "wikili
     -   Catatan: Skor multimu tidak akan disimpan di Peringkat Lokal.
 -   "Not yet uploaded (Belum diunggah sama sekali)" berarti itu beatmapmu belum diunggah sama sekali.
 
-| colspan=2|Tabel Peringkat     |
-|-------------------------------|
-| Nama                          |
-| Local Ranking                 |
-| Country Ranking               |
-| Global Ranking                |
-| Global Ranking (Selected Mod) |
-| Friend Ranking                |
+| colspan=2                     | Tabel Peringkat |
+| ----------------------------- | --------------- |
+| Nama                          |                 |
+| Local Ranking                 |                 |
+| Country Ranking               |                 |
+| Global Ranking                |                 |
+| Global Ranking (Selected Mod) |                 |
+| Friend Ranking                |                 |
 
 <img src="Quick_web_access.png" title="fig:Perintah Daring untuk sebuah beatmap (Memerlukan koneksi internet)" alt="Perintah Daring untuk sebuah beatmap (Memerlukan koneksi internet)" width="280" /> Klik ikon balon <img src="Word bubble.jpg" title="fig:Word bubble.jpg" alt="Word bubble.jpg" width="15" /> untuk memanggil layar **Akses Cepat Web** untuk beatmap yang dipilih:
 
@@ -160,7 +160,7 @@ Sementara Anda berada di Layar Akses Cepat Web, kamu tidak dapat mengakses obrol
 -   <span style="background-color:#00B8FF;">Biru Cerah</span>: Beatmap yang lain dalam set yang sama
 -   <span style="background-color:#fff;">Putih</span>: Beatmap ini sedang dipilih.
 
-Kamu dapat menavigasikan daftar beatmap menggunakan \[1\]roda mouse, \[2\]atas dan bawah tombol panah, \[3\]drag sambil menekan tombol mouse kiri atau \[4\]mengklik tombol kanan mouse (sebelumnya dikenal sebagai Pengguliran Absolut) yang akan bergulir berdasarkan penempatan kursormu sebelum mengklik. Klik kotak untuk memilih beatmap itu dan menampilkan informasi pada bagian kiri atas, nilai yang tinggi (jika ada) di sebelah kiri dan, jika kamu telah membersihkannya, huruf tingkat nilai tertinggi yang telah kamu capai. \[1\]Klik kotak lagi, \[2\]tekan "Enter" atau \[3\]klik osu! logo di bagian kanan bawah untuk mulai bermain beatmap tersebut. Jika kotak memiliki warna lebih terang, itu berarti bahwa kamu belum bermain yang tingkat kesulitan beatmap itu.
+Kamu dapat menavigasikan daftar beatmap menggunakan \[1]roda mouse, \[2]atas dan bawah tombol panah, \[3]drag sambil menekan tombol mouse kiri atau \[4]mengklik tombol kanan mouse (sebelumnya dikenal sebagai Pengguliran Absolut) yang akan bergulir berdasarkan penempatan kursormu sebelum mengklik. Klik kotak untuk memilih beatmap itu dan menampilkan informasi pada bagian kiri atas, nilai yang tinggi (jika ada) di sebelah kiri dan, jika kamu telah membersihkannya, huruf tingkat nilai tertinggi yang telah kamu capai. \[1]Klik kotak lagi, \[2]tekan "Enter" atau \[3]klik osu! logo di bagian kanan bawah untuk mulai bermain beatmap tersebut. Jika kotak memiliki warna lebih terang, itu berarti bahwa kamu belum bermain yang tingkat kesulitan beatmap itu.
 
 ### Kotak alat permainan
 
@@ -199,7 +199,7 @@ Ini adalah layar tingkat setelah Anda berhasil melewati Beatmap tersebut. Anda d
 
 **Catatan:** Skin Tingkat akan bervariasi oleh Skin yang digunakan.
 
-Accuracy\_osu!.jpg| osu! Taiko grade.jpg| Taiko (Taiko skin) Accuracy\_CtB.jpg| Catch the Beat Accuracy\_Mania.jpg| osu!mania Multi-play record.png| Pertandingan bermain bersama : Head-To-Head Multiplay Co-Op Grade.jpg| Pertandingan bermain bersama : Tag Coop Multiplay Team Grade.jpg| Pertandingan bermain bersama : Team Vs
+Accuracy_osu!.jpg| osu! Taiko grade.jpg| Taiko (Taiko skin) Accuracy_CtB.jpg| Catch the Beat Accuracy_Mania.jpg| osu!mania Multi-play record.png| Pertandingan bermain bersama : Head-To-Head Multiplay Co-Op Grade.jpg| Pertandingan bermain bersama : Tag Coop Multiplay Team Grade.jpg| Pertandingan bermain bersama : Team Vs
 
 ## Papan peringkat skor daring
 
@@ -210,10 +210,12 @@ Catatan: Motif utama transparan pada latar belakang berdasarkan mode yang kamu m
 <img src="Osu! Online score.png" title="fig:Right|Contoh dari skor daring osu!" alt="Right|Contoh dari skor daring osu!" width="350" /> Ini adalah papan skor daringmu. Kamu bisa pergi ke sini dengan menggulir ke bawah pada layar hasil. Papan skor lokalmu akan menampilkan nama dan skor seperti biasa.
 
 1.  Kamu dapat mengubah nama kamu di sini untuk dituliskan pada papan skor lokal.
+
 2.  Bar pemainmu. Ini menunjukkan apakah ppmu, peringkat pp, jumlah skor, dan akurasi meningkat atau berkurang. Bar level kamu akan meningkat berdasarkan nilai skormu.
+
 3.  Pilihanmu mengenai Beatmap.
     1.  Export Replay as .osr: Menyimpan replay yang dapat digunakan secara daring.
-    2.  Online Favourite: Memasukkan beatmap tersebut sebagai pilihan Daring Favoritmu. Ini akan ditampilkan pada profilmu pada bagian Beatmaps-&gt; Favourite Beatmaps
+    2.  Online Favourite: Memasukkan beatmap tersebut sebagai pilihan Daring Favoritmu. Ini akan ditampilkan pada profilmu pada bagian Beatmaps-> Favourite Beatmaps
 
 4.  Cukup jelas. Tidak akan muncul jika tidak sedang daring.
     1.  Map Rank: Peringkatmu di map. Ini akan dihitung bersama dengan skor dengan mod lainnya meskipun Anda tidak menggunakan mod.
@@ -224,9 +226,13 @@ Catatan: Motif utama transparan pada latar belakang berdasarkan mode yang kamu m
     6.  To Next Rank: Berapa banyak skor kamu perlukan untuk meningkatkan posisimu dalam sebuah peringkat map.
 
 5.  Sama seperti 4, tetapi disediakan untuk [Daftar Peringkat](https://osu.ppy.sh/p/chart) Bulanan
+
 6.  Pencapaian terbuka. Setiap pencapaian yang kamu buka akan ditampilkan di sini. Daftar lengkap pencapaian yang mungkin untuk dicapai dapat ditemukan di halaman [Pencapaian](ID:Achievements "wikilink")
+
 7.  Lagu Beatmap dengan sejarah dimainkan dan tingkat kelulusannya.
+
 8.  Penilaian Beatmap. Gunakan kebijaksanaan pribadimu berdasarkan pada apakah kamu menikmati Beatmap atau tidak. Lebih baik tinggalkan jika kamu tidak dapat menilainya.
+
 9.  Kembali ke Layar Pemilihan Lagu.
 
 Osu! Online score.png| osu! Daring Taiko Online.jpg| Taiko Daring CtB Online.png| Catch the Beat Daring

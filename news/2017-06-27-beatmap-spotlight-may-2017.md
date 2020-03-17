@@ -15,10 +15,10 @@ Each month, a selection of volunteers work alongside the Quality Assurance Team 
 
 First of all, congratulations to the winners of the April 2017 Spotlights. They receive one month of supporter status for their efforts!
 
-+ **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
-+ **osu!taiko:** [Katdon_donKat](https://osu.ppy.sh/users/8089664)
-+ **osu!catch:** [Crystal](https://osu.ppy.sh/users/1646397)
-+ **osu!mania:** [Hestia-](https://osu.ppy.sh/users/393151)
+-   **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
+-   **osu!taiko:** [Katdon_donKat](https://osu.ppy.sh/users/8089664)
+-   **osu!catch:** [Crystal](https://osu.ppy.sh/users/1646397)
+-   **osu!mania:** [Hestia-](https://osu.ppy.sh/users/393151)
 
 ## osu!
 
@@ -123,7 +123,7 @@ While this beatmap set may be harder than others in the spotlights so far, its c
 
 Alter Ego is definitely one of the harder songs around to map, but the people behind the set have done an excellent job of patterning their charts to fit it, and it is definitely something you should try and see for yourself.
 
---------
+* * *
 
 And that just about covers the Spotlights for this month. We hope you enjoy the new template graphics for each chart, and we hope you look forward to what we have in store next month as well!
 

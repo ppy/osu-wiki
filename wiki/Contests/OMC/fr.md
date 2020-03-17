@@ -6,4 +6,4 @@ no_native_review: true
 
 Page d'index pour tous les osu! Fan Cafe Mapping Contest.
 
-- [osu! Fan Cafe Mapping Contest #5](5)
+-   [osu! Fan Cafe Mapping Contest #5](5)

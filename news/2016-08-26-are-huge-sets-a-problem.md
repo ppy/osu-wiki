@@ -18,7 +18,7 @@ But first things first: many of you will probably remember the community outrage
 
 People with not-bubbled sets were asked to restructure their sets to obey these rules initially, which lead to massive community backlash due to the changes this would require for most contemporary sets, which e.g. commonly use for example 2 Hards (the more or less popular difficulty name Advanced comes to mind) or multiple difficulties of everything like Tokyo has. Structure-wise I will throw a few statements as hypotheses and arguments in here and then try to discuss these. Starting with:
 
-*When a difficulty is not necessarily required for a spread, all difficulties on around the same level will receive less plays overall.*
+_When a difficulty is not necessarily required for a spread, all difficulties on around the same level will receive less plays overall._
 
 What I mean with this is the following: Unless you are a really known mapper or your difficulty is a fundamentally different approach to the song, these Extras around the same difficulty level will be played based on popularity of the mapper and a few of them will get relatively low exposure in comparison to others.
 
@@ -45,13 +45,13 @@ Both of these examples feature difficulties which are vastly different takes on 
 
 The point of choosing one difficulty to play based on a spread still stands, because the difficulties being vastly different is not really visible from the map selection ingame, even if you write that on the thread / map description on the forums. However, once you figure out that each of the Extra or Insane difficulties are vastly different from each other, you may go back to choosing to play the difficulty which you like the most (this assumes your first choice does not depend on what SR skill level you are at). This is highly situational, but different approaches which are equally difficult might end up at different SR, mostly because one of the difficulties is using more jumps and the other one maps more streams, or other similar reasons which distort the SR-algorithm a bit.
 
-*So... is having multiple similarly difficult difficulties to choose from a good or a bad thing for players?* It probably is not too bad for players, since they can just ignore the additional diffs which they do not like and carry on with playing one of the difficulties which they like instead.
+_So... is having multiple similarly difficult difficulties to choose from a good or a bad thing for players?_ It probably is not too bad for players, since they can just ignore the additional diffs which they do not like and carry on with playing one of the difficulties which they like instead.
 
-*So... is this a good or a bad thing from a map-design standpoint?* It probably is posing a problem, since you end up giving people no real incentive to play any of the difficulties based on their individual skill level and progression through the spread. Basically design-wise these additional difficulties seem obsolete and could be moved to a set that actually would need them.
+_So... is this a good or a bad thing from a map-design standpoint?_ It probably is posing a problem, since you end up giving people no real incentive to play any of the difficulties based on their individual skill level and progression through the spread. Basically design-wise these additional difficulties seem obsolete and could be moved to a set that actually would need them.
 
-*So... are there other problems with having multiple difficulties of the same level?* The next problem that can arise with these difficulties is not entirely related to the "same difficulty level" argument already discussed above, but rather to the total amount of difficulties.
+_So... are there other problems with having multiple difficulties of the same level?_ The next problem that can arise with these difficulties is not entirely related to the "same difficulty level" argument already discussed above, but rather to the total amount of difficulties.
 
-*Sets with a lot of difficulties heavily distort the worth of a nomination.*
+_Sets with a lot of difficulties heavily distort the worth of a nomination._
 
 While getting a set bubbled is by no means a right, but rather a privilege, the worth of a bubble is varying vastly. An Easy/Normal spread on a 30 second song will require two people to nominate it, while on the other end of the spectrum Happy End of the World and Tokyo also require two nominations in order to get ranked. So the worth of one nomination varies anywhere between 30 difficulties of 6 minutes length to 2 difficulties of 30 seconds length. And a single difficulty of 5 minutes length needs three people to nominate it for it to be ranked.
 
@@ -67,9 +67,9 @@ It would impose further obstacles on people who are mapping 4 minute songs with 
 
 While no rules can fix any of those complaints (the argument of omitting parts of spread was being discussed on reddit, but that really is a weird option as it assumes your set does not have to stand on its own and beginners can just go and play other sets - which makes barely any sense from a map-design standpoint). Adding another restriction seems to only further discourage people from mapping more longer songs.
 
-*So... increase the amount of nominations based on amount of difficulties?* This is the same thing as the last argument, except that it ignores the drain time of a difficulty. While it would limit sets that have lots of similar difficulties, it would also impact mapsets that have a proper spread from Easy to - let's say - something around 7.5 stars and sets with generally small difficulty gaps but linear progression.
+_So... increase the amount of nominations based on amount of difficulties?_ This is the same thing as the last argument, except that it ignores the drain time of a difficulty. While it would limit sets that have lots of similar difficulties, it would also impact mapsets that have a proper spread from Easy to - let's say - something around 7.5 stars and sets with generally small difficulty gaps but linear progression.
 
-*So... limit the amount of difficulties, similar to what ztrot suggested?* While that would get rid of "similar difficulty level"-spam-sets completely, it would force an inappropriately large spread on difficult songs in the way ztrot suggested it. In my opinion the main flaw in the initial draft of it is, that it assumes that Expert = Expert.
+_So... limit the amount of difficulties, similar to what ztrot suggested?_ While that would get rid of "similar difficulty level"-spam-sets completely, it would force an inappropriately large spread on difficult songs in the way ztrot suggested it. In my opinion the main flaw in the initial draft of it is, that it assumes that Expert = Expert.
 
 Everything above 5.25 Star difficulty is labeled as Expert as its own difficulty range, but 5.25 star difficulties and - let's say - 6.3 star difficulties are for the majority of cases largely different. So are 6.3 star and 7.4 star difficulties and 7.4 star and let's say 8.4 star difficulties. For this reason, a strict limit on the number of difficulties seems to impact the upper level of difficulty for really intense songs. For songs that require highly difficult maps, this assumption that Expert = Expert screws up the entire proposal. Also, a strict limitation like this seems to cause major community backlash. Currently there is an existing discussion about this in the Feature Request subforum (which has been [originally denied](https://osu.ppy.sh/community/forums/topics/384918?start=4673579) 9 months ago), so if you are interested in this topic, join [there](https://osu.ppy.sh/community/forums/topics/468399?start=5245178).
 

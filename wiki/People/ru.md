@@ -6,5 +6,5 @@ outdated: true
 
 Заглавная страница для статей о людях и группах.
 
-- [Вносящие вклад члены сообщества](Community_Contributors)
-- [Команда](The_Team)
+-   [Вносящие вклад члены сообщества](Community_Contributors)
+-   [Команда](The_Team)

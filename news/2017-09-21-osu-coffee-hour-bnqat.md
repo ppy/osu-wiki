@@ -12,7 +12,7 @@ The osu! Coffee Hour's back for its third sitting, featuring everything **Beatma
 
 This week, we'll be going over the history of the **Beatmap Nominators** and the **Quality Assurance Team**, along with the systems that have accompanied them. Changes are on the horizon - where is this all going, and what can we expect from the future?
 
-To help me ([HappyStick](https://osu.ppy.sh/users/256802)) figure it all out, we'll be joined by the recently-voted QAT leaders, [JBHyperion](https://osu.ppy.sh/users/4879508) and [Okorin](https://osu.ppy.sh/users/1623405). [pishifat](https://osu.ppy.sh/users/3178418) will also be joining us again, using his keen interest in *osu!*'s history to provide perspective as we look forward.
+To help me ([HappyStick](https://osu.ppy.sh/users/256802)) figure it all out, we'll be joined by the recently-voted QAT leaders, [JBHyperion](https://osu.ppy.sh/users/4879508) and [Okorin](https://osu.ppy.sh/users/1623405). [pishifat](https://osu.ppy.sh/users/3178418) will also be joining us again, using his keen interest in _osu!_'s history to provide perspective as we look forward.
 
 ## Questions?
 

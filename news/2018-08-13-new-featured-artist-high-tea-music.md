@@ -16,7 +16,7 @@ Courtesy of the talented folks over at the Mappers' Guild, we also have **6** br
 
 [![](/wiki/shared/news/2018-08-13-new-featured-artist-high-tea-music/hightea.jpg)](https://assets.ppy.sh/beatmap-packs/MG3-BeatmapPack.zip)
 
-*Click the picture above to download the pack of all six!*
+_Click the picture above to download the pack of all six!_
 
 Completing all six will nab you a shiny medal for your efforts. Who doesn't like a shiny?
 

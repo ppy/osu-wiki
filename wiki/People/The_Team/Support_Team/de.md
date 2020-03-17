@@ -17,25 +17,32 @@ Wenn jemand Hilfe im Forum brauchen sollte, sind sie die erste Anschlusstelle f�
 
 ## Teammitglieder
 
-*Jedes Mitglied im Support Team kann Englisch und muss daher nicht vermerkt werden. [Seite der Support Team Gruppe](https://osu.ppy.sh/groups/22).*
+_Jedes Mitglied im Support Team kann Englisch und muss daher nicht vermerkt werden. [Seite der Support Team Gruppe](https://osu.ppy.sh/groups/22)._
 
-| Name | Zusätzlich gesprochene Sprachen |
-| :-- | :-- |
-| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | |
-| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | |
-| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | |
-| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Philippinisch |
-| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | |
-| ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Schwedisch, Spanisch |
-| ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | |
-| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Deutsch |
-| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Spanisch |
+| Name                                                          | Zusätzlich gesprochene Sprachen |
+| :------------------------------------------------------------ | :------------------------------ |
+| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450)        |                                 |
+| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |                                 |
+| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094)    |                                 |
+| ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078)    | Philippinisch                   |
+| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454)        |                                 |
+| ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506)         | Schwedisch, Spanisch            |
+| ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328)    |                                 |
+| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058)        | Deutsch                         |
+| ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385)       | Spanisch                        |
 
 [flag_AU]: /wiki/shared/flag/AU.gif
+
 [flag_CA]: /wiki/shared/flag/CA.gif
+
 [flag_DE]: /wiki/shared/flag/DE.gif
+
 [flag_ES]: /wiki/shared/flag/ES.gif
+
 [flag_NO]: /wiki/shared/flag/NO.gif
+
 [flag_PH]: /wiki/shared/flag/PH.gif
+
 [flag_SE]: /wiki/shared/flag/SE.gif
+
 [flag_US]: /wiki/shared/flag/US.gif

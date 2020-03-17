@@ -12,7 +12,7 @@ Um eine neue Beatmap zu erstellen, begib dich zuerst in den "Edit"-Modus und zie
 
 ### Song Setup
 
-*Siehe auch: [Song Setup](/wiki/Song_Setup)*
+_Siehe auch: [Song Setup](/wiki/Song_Setup)_
 
 Wenn du ein neues [Beatmapset](/wiki/Glossary) erstellst, siehst du diesen Dialog immer als allererstes.
 
@@ -22,7 +22,7 @@ Die anderen Optionen kannst du jetzt oder auch später verändern, das bleibt ga
 
 ### Timing
 
-*Siehe auch: [Timing](/wiki/Timing)*
+_Siehe auch: [Timing](/wiki/Timing)_
 
 **Das Timing ist extrem wichtig!** Maps mit falschem Timing können nicht gerankt werden. Du musst sicherstellen, dass dein Timing perfekt ist, bevor du das erste [Objekt](/wiki/Hit_Objects) platzierst.
 
@@ -30,12 +30,12 @@ Wenn du dir mit dem Timing nicht sicher bist, kontaktiere für Hilfe zuerst eine
 
 ### Komponieren
 
-*Siehe auch: [Komponieren](/wiki/Compose)*
+_Siehe auch: [Komponieren](/wiki/Compose)_
 
 Im "Compose"-Tab des Beatmapeditors wirst du wahrscheinlich den Großteil deiner Zeit beim Beatmapping verbringen. Dort kannst du nämlich Hitobjekte platzieren und deren [Hitsounds](/wiki/Glossary) verändern.
 
 ### Design
 
-*Siehe auch: [Design](/wiki/Design) und [Storyboarding](/wiki/Storyboarding)*
+_Siehe auch: [Design](/wiki/Design) und [Storyboarding](/wiki/Storyboarding)_
 
 Im "Design"-Tab des Beatmapeditors kannst du ein Hintergrundbild und -video zu deiner Beatmap hinzufügen. Außerdem kannst du ein grundlegendes Storyboard erstellen. Je nach deinem Ansatz zum Storyboarding verwendest du den "Design"-Tab häufig oder auch gar nicht (z.B. beim [SBS](/wiki/Storyoard_Scripting) ("Storyboard Scripting")).

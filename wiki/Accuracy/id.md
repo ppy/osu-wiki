@@ -12,12 +12,10 @@ Di osu!standard, akurasi dikalkulasi dengan menimbang penilaian yang diperoleh d
 
 Referensi untuk satu hit lingkaran:
 
-```
-300 -> 300 / 300 = 1   = 100.00%
-100 -> 100 / 300 = 1/3 =  33.00%
-50  ->  50 / 300 = 1/6 =  16.67%
-0   ->   0 / 300 = 0   =   0.00%
-```
+    300 -> 300 / 300 = 1   = 100.00%
+    100 -> 100 / 300 = 1/3 =  33.00%
+    50  ->  50 / 300 = 1/6 =  16.67%
+    0   ->   0 / 300 = 0   =   0.00%
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
@@ -31,7 +29,7 @@ Di osu!taiko, akurasi dikalkulasikan dengan mengambil jumlah akurasi not dibagi 
 
 Di osu!catch, akurasi dikalkulasi dengan mengambil jumlah hit objek tanpa spinner terambil dibagi dengan jumlah hit objek tanpa spinner. Semua hit objek mempunyai nilai sama, kecuali pisang, karena mereka merupakan bagian dari spinner.
 
-*Catatan untuk pengguna API: Untuk menghitung akurasi di osu!catch, Jumlah tetesan kecil terdapat dalam `count50` dan jumlah tetesan kecil terlewat terdapat dalam `countkatu`.*
+_Catatan untuk pengguna API: Untuk menghitung akurasi di osu!catch, Jumlah tetesan kecil terdapat dalam `count50` dan jumlah tetesan kecil terlewat terdapat dalam `countkatu`._
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
@@ -45,11 +43,11 @@ Di osu!mania, akurasi dikalkulasi mirip dengan [osu!standard](#osu!standard).
 
 Grafik performa adalah sebuah grafik yang menampilkan performa pemain (berdasarkan bar nyawa) selama bermain (waktu). Informasi tambahan dapat ditampilkan dengan menunjuk kursor dalam-game di atasnya.
 
-*Catatan: Informasi tambahan hanya dapat dilihat setelah bermain sebuah beatmap atau menonton sebuah putaran ulang terekspor. Setelah keluar dari [layar hasil](/wiki/results_screen), informasi ini tidak akan tersimpan.*
+_Catatan: Informasi tambahan hanya dapat dilihat setelah bermain sebuah beatmap atau menonton sebuah putaran ulang terekspor. Setelah keluar dari [layar hasil](/wiki/results_screen), informasi ini tidak akan tersimpan._
 
 ### Akurasi
 
-Saat menunjuk di atas grafik performa, sebuah tooltip akan ditampilkan dengan *kesalahan* dan *laju tidak stabil*.
+Saat menunjuk di atas grafik performa, sebuah tooltip akan ditampilkan dengan _kesalahan_ dan _laju tidak stabil_.
 
 Sebab saat mod [DT](/wiki/DT) (Double Time) dan [HT](/wiki/HT) (Half Time) diimplementasikan, nilai kesalahan dan laju tidak stabil akan dikalikan dengan faktor yang sama dengan lagu. Untuk mendapat nilai asli saat bermain DT, bagi hasil dengan 1.5. Sama halnya, kalikan hasil dengan 1.33 saat bermain HT.
 
@@ -63,7 +61,7 @@ Laju tidak stabil mewakili konsistensi penepatan dalam hit, dimana semakin kecil
 
 ### Spinner
 
-*Catatan: Sutaran hanya digunakan dalam [osu!standard](/wiki/Game_Modes/osu!).*
+_Catatan: Sutaran hanya digunakan dalam [osu!standard](/wiki/Game_Modes/osu!)._
 
 Sebagai tambahan akurasi, beberapa informasi mengenai spinner juga terdapat di tooltip yang sama.
 

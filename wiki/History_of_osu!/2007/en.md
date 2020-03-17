@@ -6,7 +6,7 @@ The following is some of the history of osu! since its beginning. Special thanks
 
 ## July
 
-osu! began as a proof-of-concept named "ouentest". The first version was released on 2007-07-01 to a small group of peppy's close friends and featured a very basic editor and play mode. The editor had no seeking or snapping functions, but could only make simple beatmaps. There were no sliders or spinners at this point, but basic scoring/combo counters were present. The first release took approximately 16 hours of coding time and was done in a *single all-nighter*. `pUpdater` was introduced (soon to be known as `osume`) to handle updating to the latest version.
+osu! began as a proof-of-concept named "ouentest". The first version was released on 2007-07-01 to a small group of peppy's close friends and featured a very basic editor and play mode. The editor had no seeking or snapping functions, but could only make simple beatmaps. There were no sliders or spinners at this point, but basic scoring/combo counters were present. The first release took approximately 16 hours of coding time and was done in a _single all-nighter_. `pUpdater` was introduced (soon to be known as `osume`) to handle updating to the latest version.
 
 ![](img/2007-07_01.jpg "Song Selection")
 
@@ -50,7 +50,7 @@ Gameplay was enhanced with the debut of [combo fire](/wiki/Combo_fire), the HP b
 
 ![](img/2007-09_02.jpg "Main Menu")
 
-![](img/2007-09_03.jpg "Spinner \(based on DS's official Ouendan\)")
+![](img/2007-09_03.jpg "Spinner (based on DS's official Ouendan)")
 
 ![](img/2007-09_04.jpg "Grading Screen")
 
@@ -78,11 +78,11 @@ The song selection screen saw improvements, with grouping of difficulties and mo
 
 A new SS rank was added to the ranking system, replacing S rank in cases where perfection was achieved. The [No Video](/wiki/NV) and [Hidden](/wiki/HD) mods were introduced, and the SH (sliver S) and SSH (sliver SS) ranks to go with it. For the first time, players could skin and assign normal and soft sample sets per timing section. `.osz` files could now be loaded by double-clicking them, or dragging them onto the osu! icon.
 
-![](img/no_video.png "No Video \(v1\)") ![](img/hidden.png "Hidden \(v1\)")
+![](img/no_video.png "No Video (v1)") ![](img/hidden.png "Hidden (v1)")
 
----
+* * *
 
-![](img/2007-11_01.jpg "Main Menu \(Flooded with stars\)")
+![](img/2007-11_01.jpg "Main Menu (Flooded with stars)")
 
 ![](img/2007-11_02.jpg "Sign-in screen")
 

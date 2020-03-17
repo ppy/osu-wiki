@@ -1,6 +1,6 @@
 # Storyboards
 
-***Artículo original aquí***
+**_Artículo original aquí_**
 
 El **Storyboard** (SB) es un fondo animado, hecho a medida en las resoluciones de 640x480 ó 1366x768 (por la reciente llegada de storyboarding en pantalla panorámica) que acompaña a un beatmap. Normalmente se ocupa para propósitos decorativos pero en algunos casos puede cambiar la experiencia de juego. Un storyboard puede estar compuesto por cualquier cosa, pero normalmente consiste de un conjunto de efectos visuales para hacer que el beatmap se vea estéticamente más agradable y distintivo para los jugadores. Los storyboards están inspirados de los fondos animados de Osu! Tatakae! Ouendan. Es posible ajustar el Storyboard según al rendimiento del jugador y mostrar diferentes cosas dependiendo de si el jugador falla o acierta. Los storyboards se guardan en archivos con la extensión de ".osb".
 

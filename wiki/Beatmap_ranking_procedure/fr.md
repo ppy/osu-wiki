@@ -14,9 +14,9 @@ Avant d'être nominés pour le classement, les beatmapsets doivent recevoir [hyp
 
 ## Nominations
 
-Les membres des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BNs*) sont des modders expérimentés qui sont capables de nommer des beatmapsets pour le classement. Leur rôle est de s'assurer qu'un beatmapset répond aux critères du [Ranking Criteria](/wiki/Ranking_Criteria) ainsi que leurs propres normes de qualité personnelles.
+Les membres des [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (_BNs_) sont des modders expérimentés qui sont capables de nommer des beatmapsets pour le classement. Leur rôle est de s'assurer qu'un beatmapset répond aux critères du [Ranking Criteria](/wiki/Ranking_Criteria) ainsi que leurs propres normes de qualité personnelles.
 
-Les membres de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (*NAT*) peuvent également nommer des maps, mais ce n'est pas leur rôle principal.
+Les membres de la [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) (_NAT_) peuvent également nommer des maps, mais ce n'est pas leur rôle principal.
 
 Il est recommandé de recevoir les mods avant de demander des nominations aux BN, cependant cinq hypes sont le seul pré-requis.
 

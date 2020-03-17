@@ -8,15 +8,15 @@ Energetic, emotional and enthralling, meet [**Wisp X**](https://osu.ppy.sh/beatm
 
 [![](https://assets.ppy.sh/artists/16/header.jpg?201708102)](https://osu.ppy.sh/beatmaps/artists/16)
 
-A fresh new take on some classic EDM and electronica staples, **Wisp X**'s sound has been making waves lately, having been featured on the popular *Waifu Wednesdays* promotional channel.
+A fresh new take on some classic EDM and electronica staples, **Wisp X**'s sound has been making waves lately, having been featured on the popular _Waifu Wednesdays_ promotional channel.
 
-Give one of their latest tracks, *Eventide* a listen and see for yourself:
+Give one of their latest tracks, _Eventide_ a listen and see for yourself:
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=323729686/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://wispx.bandcamp.com/track/eventide">Eventide by Wisp X</a></iframe>
 
 A multitude of styles and sounds reign supreme in **Wisp X**'s work, with tracks that range from raise-the-roof dancefloor hits to pensive and emotional journeys. We may say this every time, but there's absolutely bound to be something for everyone in **Wisp X**'s work.
 
-Don't believe it? Give *Mint* a listen, and experience a taste of their talent:
+Don't believe it? Give _Mint_ a listen, and experience a taste of their talent:
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2640945812/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://wispx.bandcamp.com/track/mint">Mint by Wisp X</a></iframe>
 

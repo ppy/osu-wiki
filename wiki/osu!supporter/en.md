@@ -4,11 +4,11 @@ needs_cleanup: true
 
 # osu!supporter
 
-*For the osu!supporter page from the website, see: [support the game](https://osu.ppy.sh/home/support)*
+_For the osu!supporter page from the website, see: [support the game](https://osu.ppy.sh/home/support)_
 
 ## Benefits
 
-*For a list of goodies from having osu!supporter, see: [support the game](https://osu.ppy.sh/home/support)*
+_For a list of goodies from having osu!supporter, see: [support the game](https://osu.ppy.sh/home/support)_
 
 In general, by buying osu!supporter tag, you will be directly supporting the game's developement while obtaining some extra goodies. It must be noted that the extra features from osu!supporter will never affect gameplay, performance, or score to your advantage in anyway.
 
@@ -38,8 +38,8 @@ When you are ready to make the purchase, go to your [shopping cart](https://osu.
 
 After the transaction is completed, the Recent Activity section in your account (if you had brought it your self) or the accounts you have gifted will say:
 
-- `{username} has become an osu! supporter - thanks for your generosity!` if it is the first time that account gets osu!supporter.
-- `{username} has once again chosen to support osu! - thanks for your generosity!` if the account has been an osu!supporter before.
+-   `{username} has become an osu! supporter - thanks for your generosity!` if it is the first time that account gets osu!supporter.
+-   `{username} has once again chosen to support osu! - thanks for your generosity!` if the account has been an osu!supporter before.
 
 ### Userpage and usercard
 
@@ -53,6 +53,6 @@ On the osu!web, the osu!supporter badge can be found next to the user avatar and
 
 ![osu!supporter tag with three months remaining](img/status.jpg "Three months left of osu!supporter tag")
 
-*Note: This section is only shown after you obtain osu!supporter.*
+_Note: This section is only shown after you obtain osu!supporter._
 
 To check your remaining osu!supporter tag status and total contributions and tag purchases, go to the [support the game](https://osu.ppy.sh/home/support) page and scroll down to see a section similar as pictured above.

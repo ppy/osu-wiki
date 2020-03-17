@@ -7,10 +7,8 @@ no_native_review: true
 欢迎来到osu!wiki，一个包含大量osu!相关信息的项目
 </div>
 
-
 <div class="wiki-main-page__panels">
 <div class="wiki-main-page-panel">
-
 
 # 入门
 
@@ -19,14 +17,12 @@ no_native_review: true
 </div>
 <div class="wiki-main-page-panel">
 
-
 # 游戏玩法
 
 [FAQ](/wiki/FAQ) • [多人](/wiki/Multi) • [游戏模式](/wiki/Game_Modes): ([osu!](/wiki/Game_Modes/osu!) • [osu!taiko](/wiki/Game_Modes/osu!taiko) • [osu!catch](/wiki/Game_Modes/osu!catch) • [osu!mania](/wiki/Game_Modes/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">
-
 
 # [谱面编辑](/wiki/Beatmap_Editor)
 
@@ -35,7 +31,6 @@ no_native_review: true
 </div>
 <div class="wiki-main-page-panel">
 
-
 # 编辑与Rank
 
 [提交](/wiki/Submission) • [谱面批准](/wiki/Beatmap_ranking_procedure) • [摸图](/wiki/Modding) • [Ranking指南](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
@@ -43,14 +38,12 @@ no_native_review: true
 </div>
 <div class="wiki-main-page-panel">
 
-
 # osu!世界
 
 [词汇表](/wiki/Glossary) • [锦标赛](/wiki/Tournaments) • [皮肤](/wiki/Skinning) • [项目](/wiki/Projects)
 
 </div>
 <div class="wiki-main-page-panel">
-
 
 # People
 

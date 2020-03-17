@@ -8,9 +8,9 @@ We're proud to welcome **Sound Souler** aboard as our latest Featured Artist!
 
 ![](https://assets.ppy.sh/artists/70/header.jpg)
 
-Featuring on projects from *Team Arcstar* and *Milkyway TRAXX*, you might be already be familiar with **Sound Souler** from titles like *Muse Dash*, *Arcaea* and *OverRapid*. Suffice to say, he knows rhythm game music well, and we're excited to see what creations the osu! community will undertake with his sound. We've managed to snag **19** stonking tracks for your mapping experiments too, so there's plenty of things to choose from.
+Featuring on projects from _Team Arcstar_ and _Milkyway TRAXX_, you might be already be familiar with **Sound Souler** from titles like _Muse Dash_, _Arcaea_ and _OverRapid_. Suffice to say, he knows rhythm game music well, and we're excited to see what creations the osu! community will undertake with his sound. We've managed to snag **19** stonking tracks for your mapping experiments too, so there's plenty of things to choose from.
 
-The Mappers' Guild have been hard at work creating fancy preview sets showcasing the kind of magnificence you can get up to with his varied, electronica-styled sound, so make sure to check them out to get a feel for things. You can find them linked below, and I *highly* recommend checking them out.
+The Mappers' Guild have been hard at work creating fancy preview sets showcasing the kind of magnificence you can get up to with his varied, electronica-styled sound, so make sure to check them out to get a feel for things. You can find them linked below, and I _highly_ recommend checking them out.
 
 Here's a brief preview of what's available:
 
@@ -50,7 +50,7 @@ Check out [this set](https://osu.ppy.sh/beatmapsets/980331#osu/2051545) from [ei
     <source src="https://assets.ppy.sh/artists/70/previews/1931.mp3" type="audio/mpeg">
 </audio>
 
----------
+* * *
 
 All of the above plus so much more are available right now over at [**Sound Souler**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/70), so head on over and sink your teeth in. As is the usual with these things, everything you see over there is 100% cleared for use in mapping, so worry less and map mmore!
 

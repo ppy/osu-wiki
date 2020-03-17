@@ -9,14 +9,14 @@ outdated: true
 
 ![TWC 2015 logo](logo.png)
 
-El **osu! Taiko World Cup 2015** (***TWC 2015***) es un torneo mundial organizado por los **Administradores del Torneo** ([Tournament Management](https://osu.ppy.sh/groups/26) ), ésta es su 5ta edición, la cual inicia el 12 de enero y finaliza el 15 de marzo del año en curso.
+El **osu! Taiko World Cup 2015** (**_TWC 2015_**) es un torneo mundial organizado por los **Administradores del Torneo** ([Tournament Management](https://osu.ppy.sh/groups/26) ), ésta es su 5ta edición, la cual inicia el 12 de enero y finaliza el 15 de marzo del año en curso.
 
 El país campeón del torneo anterior es **![][flag_JP] Japón**.
 
 ## Agenda del Torneo
 
 | Event                                | Timestamp                |
-|--------------------------------------|--------------------------|
+| ------------------------------------ | ------------------------ |
 | Fase de Registro                     | 12 de Enero - 22 Febrero |
 | Duelos en vivo                       | 28 Febrero 14:00 (UTC+0) |
 | Fase de grupos                       | 07-08 Marzo 2015         |
@@ -29,51 +29,64 @@ El país campeón del torneo anterior es **![][flag_JP] Japón**.
 ## Premios
 
 | Placing                                                    | Prizes                                                                                                                                                      |
-|------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | Un support de 6 meses para cada integrante del grupo campeón, Banner y titulo en perfil con la descripcion **Taiko Champion**, Articulos exclusivos de osu! |
+| ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")     | Un support de 6 meses para cada integrante del grupo campeón, Banner y titulo en perfil con la descripcion **Taiko Champion**, Articulos exclusivos de osu! |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Un support de 3 meses para cada integrante del grupo campeón, Banner con descripcion "2do Lugar"                                                            |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Un support de 1 mes para cada integrante del grupo campeón, Banner con descripcion "3er Lugar"                                                              |
 
 ## Organización
 
-| Job                        | Person                                                                                                                                                                                        |
-|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Job                        | Person                                                                                                                                                                |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Administradores del Torneo | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)  |
-| Seleccionador de Beatmaps  | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128)                                                                                                                           |
+| Seleccionador de Beatmaps  | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128)                                                                                                           |
 | Conductores (Video Stream) | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
-| Comentaristas              | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347)                                                               |
-| Estadistico                | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665)                                                                                                                                |
+| Comentaristas              | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347)                                                       |
+| Estadistico                | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665)                                                                                                                |
 
-------------------------------------------------------------------------
+* * *
 
 ## Links
 
 -   [Tema de Discusion (Solo en inglés)](https://osu.ppy.sh/community/forums/topics/279723)
 -   [osu! Taiko World Cup 2015 en Twitch](https://www.twitch.tv/osulive/)
 
-------------------------------------------------------------------------
+* * *
 
 ## Set de Reglas
 
 ### Reglas del Torneo
 
 1.  El osu! Taiko World Cup está basado en equipos por países.
+
 2.  Los beatmaps de cada fase serán elegidos por el **Seleccionador de Beatmaps** cada domingo antes de que la ronda a continuación tome lugar y solo podrán ser usados durante las respectivas fases.
     -   Un beatmap podrá ser usado como Desempate, solo en caso de que se presente un Empate.
     -   En los beatmaps se usarán los mod [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) y FreeMod.
 
 3.  Los horarios para las partidas serán organizadas por el **Administradores del Torneo** (Ver arriba).
+
 4.  Sino hay Referis (staff) para alguna de las partidas, la misma podrá ser pospuesta).
+
 5.  Los jugadores que fallen su partida no contarán sus scores junto a su equipo.
+
 6.  El uso de [Visual Settings](/wiki/Game_Modifiers) en Opciones será permitido.
+
 7.  Si el juego termina en empate podrá ser anulado.
+
 8.  Si un jugador se desconecta/abandona la partida, se contará como perdido.
+
 9.  Los beatmaps seleccionados para una partida no podrán ser usados para las siguientes partidas.
+
 10. Sino se presenta el mínimo requerido de jugadores en una partida, podrá posponerse hasta por 10 minutos, en caso contrario se decidirá si hay ganador por Default o anular la partida.
+
 11. El intercambio de jugadores durante las partidas es permitido.
+
 12. el **Lag** no es razón justificada para anular una partida/beatmap.
+
 13. En la Fase de Grupos, "Ganar por Default" se consideraría cuando se gana por 4:0, +1.0 por diferencia de scores.
+
 14. Incidencias no especificadas serán tratadas con los **Administradores del Torneo**.
+
 15. Cualquier modificación a las reglas serán anunciadas.
 
 ### Registro en el Torneo
@@ -97,6 +110,7 @@ El país campeón del torneo anterior es **![][flag_JP] Japón**.
     1.  El total de equipos dependerá del total de Registros recibidos y validos.
 
 5.  Todos los formatos completos podrán ser publicados despues de la Fase de Registro.
+
 6.  Los **Seleccionadores de Beatmaps** no podrán participar en este torneo.
 
 ### Instrucciones de Fases
@@ -105,6 +119,7 @@ El país campeón del torneo anterior es **![][flag_JP] Japón**.
     1.  Esto podrá ser cambiado de acuerdo al total de equipos registrados.
 
 2.  Todos los equipos de cada grupo se enfrentarán entre si.
+
 3.  El ranking de cada grupo será determinado por la organizacion de resultados por rendimiento de cada equipo siguiendo estas prioridades:
     1.  Mas partidas ganadas.
     2.  Tenga mas `{(El numero de beatmaps ganados) - (El numero de beatmaps perdidos)}`.
@@ -116,10 +131,11 @@ El país campeón del torneo anterior es **![][flag_JP] Japón**.
     1.  Esto podrá ser cambiado dependiendo del total de equipos
 
 5.  Las fases siguiente serán de Doble Eliminacion, Esto significa que los ganadores automaticamente irán a la siguiente fase y los que pierden serán movido a la zona de perdedores.
+
 6.  Basado en [este grafico](https://puu.sh/bUq5V/f1066103b0.png), Las fases están descritas de esta manera:
 
 | Stage              | Partida (Identificador) |
-|--------------------|-------------------------|
+| ------------------ | ----------------------- |
 | Ronda de 16avos    | A, B, C, D, E, F, G, H  |
 | Cuartos de Final   | I, J, K, L & R, S, T, U |
 | Semifinales        | M, N & V, W, X, Y, Z,AA |
@@ -141,11 +157,13 @@ El país campeón del torneo anterior es **![][flag_JP] Japón**.
     2.  Los equipos serán mencionados de acuerdo al color que usarán en esa partida.
 
 2.  Los jugadores tienen la libertad de seleccionar hasta 2 beatmaps como calentamiento, usar beatmaps con contenido Cuestionable está prohibido.
+
 3.  Cada capitán podrá vetar 2 beatmaps para ser seleccionado del sorteo, esos beatmaps no serán elegibles para ningún otro equipo en ninguna partida.
     1.  Ambos vetos podrán ser utilizados cuando se requiera.
 
 4.  La selección de beatmaps se alternarará entre cada capitán seleccionado un beatmap fuera del sorteo de mapas.
-5.  Cada capitan podrá usar el comando !roll en \#multiplayer.
+
+5.  Cada capitan podrá usar el comando !roll en #multiplayer.
     1.  El ganador del !roll podrá elegir primero el beatmap de la partida.
     2.  El perdedor del !roll empezará por vetar 1 o 2 beatmaps.
 
@@ -161,10 +179,15 @@ El país campeón del torneo anterior es **![][flag_JP] Japón**.
 <!-- -->
 
 1.  Cada categoría consiste de 5 mods: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) y modo Libre.
+
 2.  Cada categoría consiste de un total de 19 beatmaps
+
 3.  Cada categoría tendrá un beatmap para desempate
+
 4.  El NoMod se jugará sin mods activados.
+
 5.  En las partidas con Hidden, HarkRock, Doubletime se jugarán respectivamente
+
 6.  En modo Libre cada jugador podrá usar un mod de su preferencia sea Hidden o HardRock o Doubletime (en caso de que todos requieran este ultimo).
     1.  Los jugadores podrán seleccionar mas de 1 modo
     2.  Cuando se juegue en modo Libre, cada jugador debe tener al menos un mod activado.
@@ -173,6 +196,7 @@ El país campeón del torneo anterior es **![][flag_JP] Japón**.
     1.  Cuando se juegue en desempate, no será obligatorio tener un mod activado
 
 8.  El limite total de jugadores NoMod en una partida es de 6.
+
 9.  El limite de un mod-especifico será de 3 minimo en todas las fases
 
 ### Instrucciones sobre Horarios
@@ -184,9 +208,15 @@ El país campeón del torneo anterior es **![][flag_JP] Japón**.
 5.  Los capitanes son responsables de la disponibilidad de sus equipos. La idea de tener 6 jugadores por equipos es para asegurar que cada equipo pueda tener al menos 3 jugadores por cada partida. Si un equipo no cuenta con 3 jugadores, la partida sera considerada perdida.
 
 [flag_AU]: /wiki/shared/flag/AU.gif
+
 [flag_DE]: /wiki/shared/flag/DE.gif
+
 [flag_ES]: /wiki/shared/flag/ES.gif
+
 [flag_FR]: /wiki/shared/flag/FR.gif
+
 [flag_JP]: /wiki/shared/flag/JP.gif
+
 [flag_PL]: /wiki/shared/flag/PL.gif
+
 [flag_US]: /wiki/shared/flag/US.gif

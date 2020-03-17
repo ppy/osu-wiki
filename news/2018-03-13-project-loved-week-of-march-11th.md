@@ -14,18 +14,18 @@ Without further ado, let's begin!
 
 ### Navigation
 
-- [osu!](#osu)
-- [osu!taiko](#osutaiko)
-- [osu!catch](#osucatch)
-- [osu!mania](#osumania)
+-   [osu!](#osu)
+-   [osu!taiko](#osutaiko)
+-   [osu!catch](#osucatch)
+-   [osu!mania](#osumania)
 
 ## <a name="osu" id="osu"></a>osu!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/kY9EttSpJkY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
----
+* * *
 
-*osu! map descriptions written by [Kaifin](https://osu.ppy.sh/users/2596942)*
+_osu! map descriptions written by [Kaifin](https://osu.ppy.sh/users/2596942)_
 
 [![](/wiki/shared/news/2018-03-13-project-loved-week-of-march-11th/osu/assailant-in-the-night.jpg)](https://osu.ppy.sh/community/forums/topics/715019)
 
@@ -71,9 +71,9 @@ Finishing off our list is by far the most popular map this week, [Cyllinus](http
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/K2M6UySDXTg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
----
+* * *
 
-*osu!taiko map descriptions written by [Backfire](https://osu.ppy.sh/users/263110)*
+_osu!taiko map descriptions written by [Backfire](https://osu.ppy.sh/users/263110)_
 
 [![](/wiki/shared/news/2018-03-13-project-loved-week-of-march-11th/taiko/the-fate.jpg)](https://osu.ppy.sh/community/forums/topics/715043)
 
@@ -107,35 +107,35 @@ Finally! The arrival of the infamous [KinomiCandy](https://osu.ppy.sh/users/3751
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/gJ85pqQ2f6Q?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
----
+* * *
 
 [![](/wiki/shared/news/2018-03-13-project-loved-week-of-march-11th/catch/amphisbaena.jpg)](https://osu.ppy.sh/community/forums/topics/715055)
 
-*written by [Deif](https://osu.ppy.sh/users/318565)*
+_written by [Deif](https://osu.ppy.sh/users/318565)_
 
 A quite difficult challenge presented by one of the most memorable NoMod players. [Amphisbaena](https://osu.ppy.sh/beatmapsets/511738) alternates calm sections with complex hyperdash combinations that'll hopefully twist the mind of the most experienced players.
 
 [![](/wiki/shared/news/2018-03-13-project-loved-week-of-march-11th/catch/ice-angel.jpg)](https://osu.ppy.sh/community/forums/topics/715056)
 
-*written by [Sartan](https://osu.ppy.sh/users/4100941)*
+_written by [Sartan](https://osu.ppy.sh/users/4100941)_
 
 One of the most severly underrated and cleanest maps made by [Arthas](https://osu.ppy.sh/users/3414261) (now known as Razor Sharp) makes a comeback on the loved selection after having been left untouched for almost a year. [This map](https://osu.ppy.sh/beatmapsets/549286) is filled with very straightforward patterning which really compliments the beautiful song that Ice Angel is. It also serves to be quite a challenge to FC, especially when attempted with mods such as hardrock or hidden, so the replayability on this one is great as well. All in all: if you want to be Razor Sharp's little (ice) angel here, go vote!
 
 [![](/wiki/shared/news/2018-03-13-project-loved-week-of-march-11th/catch/eastward.jpg)](https://osu.ppy.sh/community/forums/topics/715057)
 
-*written by [JBHyperion](https://osu.ppy.sh/users/4879508)*
+_written by [JBHyperion](https://osu.ppy.sh/users/4879508)_
 
 Turning the clock back slightly to the 2016 osu!catch World Cup, [Deif](https://osu.ppy.sh/users/318565)'s rendition of [ginkiha's "eastward"](https://osu.ppy.sh/beatmapsets/365365) is an excellent combination of aesthetics and technicality. Crafting an outstanding balance between flowing streams, snappy jumps and clever wub rhythm usage, this map will serve as an exciting challenge to more experienced players seeking a rounded test of their skills.
 
 [![](/wiki/shared/news/2018-03-13-project-loved-week-of-march-11th/catch/touhou-last-boss-rush.jpg)](https://osu.ppy.sh/community/forums/topics/715058)
 
-*written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
+_written by [Tenshichan](https://osu.ppy.sh/users/1101600)_
 
 An [incredible marathon map](https://osu.ppy.sh/beatmapsets/286386) by [Kyuare](https://osu.ppy.sh/users/2705312) with over 20 minutes of content. By the length alone it is already obvious that a lot of work has been put into it. The difficulty is varying throughout the marathon, but overall it is very challenging to get an FC or close to an FC on this map due to the length and the consistency required. It is sad to see that such a big project has been in the graveyard for roughly 2 years now and it would certainly deserve to be put into the loved category.
 
 [![](/wiki/shared/news/2018-03-13-project-loved-week-of-march-11th/catch/no-title.jpg)](https://osu.ppy.sh/community/forums/topics/715059)
 
-*written by [Sartan](https://osu.ppy.sh/users/4100941)*
+_written by [Sartan](https://osu.ppy.sh/users/4100941)_
 
 Man, have we seen [this map](https://osu.ppy.sh/beatmapsets/230741) A LOT. And yet again here it is in the loved selection. This one has been used in a multitude of tournaments and has also been a very famous pick in multiplayer lobbies for as long as it has existed. The structure of this map is very much like you would imagine from [Spectator](https://osu.ppy.sh/users/702598): very clean, great emphasis on the musical changes throughout the song, no uncomfortable difficulty spikes and a calming, enjoyable song, with its replayability having been proven by the map's usage throughout various community activities. Even though we can't change the fact the song is called No title, perhaps you can help it become Yes entitled to being loved after voting!
 
@@ -143,35 +143,35 @@ Man, have we seen [this map](https://osu.ppy.sh/beatmapsets/230741) A LOT. And y
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ALwjwltXsDY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
----
+* * *
 
 [![](/wiki/shared/news/2018-03-13-project-loved-week-of-march-11th/mania/kan-construction.jpg)](https://osu.ppy.sh/community/forums/topics/715064)
 
-*written by [Shoegazer](https://osu.ppy.sh/users/2520707)*
+_written by [Shoegazer](https://osu.ppy.sh/users/2520707)_
 
 Resident shipgirl admirer/admiral [Daikyi](https://osu.ppy.sh/users/811832) gets his first nominated chart for the Loved section with [Kan-Construction](https://osu.ppy.sh/beatmapsets/487454). His charting tendencies are difficult to overlook: His music selection (which are usually dynamic sonic affairs) and slight playfulness are two of his idiosyncrasies, but he has this level of technical proficiency at capturing multiple levels of musical intensity that is hard to compare.
- 
+
 He does not hide his technical prowess in this chart. In this chart, Daikyi strings a myriad of patterns (e.g. fast jacks, long split jumptrills) that are typically seen as unconventional and uncomfortable to equally unconventional rhythms to create an end product. That end product can be interpreted as dynamic, methodical, complementary, and, above all, refreshing.  I consider this to be Daikyi's best chart, and his list of good charts is not small by any means. For any player who enjoys technical charts, this should be a definite staple in your catalogue. For its dynamic nature, community acceptance, and general novelty, it only makes sense for this chart to be a nominee for the Loved section.
 
 [![](/wiki/shared/news/2018-03-13-project-loved-week-of-march-11th/mania/in-black-and-white.jpg)](https://osu.ppy.sh/community/forums/topics/715065)
 
-*written by [Shoegazer](https://osu.ppy.sh/users/2520707)*
+_written by [Shoegazer](https://osu.ppy.sh/users/2520707)_
 
 Someone told me that we didn't have enough Camellia in the more recognised sections of osu!mania. I don't know if what he said is facetious or not, but here is another Camellia chart anyway.
- 
+
 [Lude](https://osu.ppy.sh/users/6974536) has been charting for a few years, but he is a charter that I feel is overlooked by many. He gets his first ever nominated chart with [In Black & White](https://osu.ppy.sh/beatmapsets/560464), a chart that nicely displays the modern charting meta today. The chart and song choice seems to be heavily inspired by charts such as [Glitch Nerds](https://osu.ppy.sh/beatmapsets/462748) and [PLANET//SHAPER](https://osu.ppy.sh/beatmapsets/376293); charts that utilise both heavy layering and heavy SV usage, but Lude throws in his own flair with very tasteful LN usage to complement the chart's already hectic structure. What you get is a chart that is not only memorable in its splendour, but also intricate in its approach.
- 
+
 Given the popularity of the aforementioned charts, there is going to be a considerable demand for charts like In Black & White. Tie that with the fact that In Black & White is solidly done, and it makes this chart a solid contender for the Loved section.
 
 [![](/wiki/shared/news/2018-03-13-project-loved-week-of-march-11th/mania/ooi.jpg)](https://osu.ppy.sh/community/forums/topics/715066)
 
-*written by [Shoegazer](https://osu.ppy.sh/users/2520707)*
+_written by [Shoegazer](https://osu.ppy.sh/users/2520707)_
 
-[LeiN-](https://osu.ppy.sh/users/2162939) gets another nominee for the Loved section with another old but gold chart. [Ooi \[Game Edit\]](https://osu.ppy.sh/beatmapsets/328084) is infectiously catchy, and the chart complements its infectious catchiness with an incredibly exhilarating chart structure. Heavy chordjacks, frenzied (but nuanced) 1/4 jumpstreams, tactful use of SVs, they're all there. The chart is very very simple in structure, but that is really all you need to capture the essence of something as visceral and forward as this track. I don't think that anyone can make a chart structure for Ooi \[Game Edit\] that is significantly different from LeiN-'s chart that is significantly better than his interpretation.
+[LeiN-](https://osu.ppy.sh/users/2162939) gets another nominee for the Loved section with another old but gold chart. [Ooi \[Game Edit\]](https://osu.ppy.sh/beatmapsets/328084) is infectiously catchy, and the chart complements its infectious catchiness with an incredibly exhilarating chart structure. Heavy chordjacks, frenzied (but nuanced) 1/4 jumpstreams, tactful use of SVs, they're all there. The chart is very very simple in structure, but that is really all you need to capture the essence of something as visceral and forward as this track. I don't think that anyone can make a chart structure for Ooi \[Game Edit] that is significantly different from LeiN-'s chart that is significantly better than his interpretation.
 
 [![](/wiki/shared/news/2018-03-13-project-loved-week-of-march-11th/mania/groundhog.jpg)](https://osu.ppy.sh/community/forums/topics/715067)
 
-*written by [Pope Gadget](https://osu.ppy.sh/users/2288341)*
+_written by [Pope Gadget](https://osu.ppy.sh/users/2288341)_
 
 How about a chart that's been praised by many for being consistently thrilling throughout - [Raspberriel](https://osu.ppy.sh/users/7690361)'s [Groundhog (Beat Juggle)](https://osu.ppy.sh/beatmapsets/591171) is a chart of the perhaps infamous DJ Hero track which has the Scratch Perverts transform Noisia's music into a concoction of insanely tricky patterning. Now imagine taking the DJ Hero chart's structure and throwing a few maniacal SVs into the mix; what you end up with is the paragon of absurdly fun experimentation.
 
@@ -181,17 +181,17 @@ Have you really met your match?
 
 [![](/wiki/shared/news/2018-03-13-project-loved-week-of-march-11th/mania/trickstarz.jpg)](https://osu.ppy.sh/community/forums/topics/715068)
 
-*written by [Shoegazer](https://osu.ppy.sh/users/2520707)*
+_written by [Shoegazer](https://osu.ppy.sh/users/2520707)_
 
 Stepmania? Stepmania.
- 
+
 Despite the highest difficulty being primarily used as a benchmark to assess a player's streaming ability, [hi19hi19](https://osu.ppy.sh/users/1014473)'s [Trickstarz](https://osu.ppy.sh/beatmapsets/349432) mapset has simple yet sound structures to go with their viability for skill assessment. The highest difficulty has blistering fast streams clocking at 354 BPM 1/4s (23.6 notes per second!) that only get longer as the song progresses complemented with chordjack patterns that are very prone to error. While the chart is certainly challenging, simplicity is very much beauty here; I see many players coming back to it due to how straight-forward and rewarding the chart can be.
- 
+
 Is the highest difficulty too difficult for you? That's no problem. There are 2 other difficulties present in the set, and those two difficulties have a similarly simple structure, albeit with slower streams and 1/4 patterns, which I am sure lower-level players will enjoy.
 
 [![](/wiki/shared/news/2018-03-13-project-loved-week-of-march-11th/mania/angelic-party.jpg)](https://osu.ppy.sh/community/forums/topics/715069)
 
-*written by [Kamikaze](https://osu.ppy.sh/users/2124783)*
+_written by [Kamikaze](https://osu.ppy.sh/users/2124783)_
 
 We're going into more MWC picks, hooray! Here's one of the most evil charts from MWC 7K 2017 Finals, a collaboration between [Jinjin](https://osu.ppy.sh/users/3360737) and [Evening](https://osu.ppy.sh/users/2193881), [Angelic Party](https://osu.ppy.sh/beatmapsets/560692)!
 
@@ -201,7 +201,7 @@ If you're not a fan on LNs, there's always [jakads](https://osu.ppy.sh/users/259
 
 [![](/wiki/shared/news/2018-03-13-project-loved-week-of-march-11th/mania/aragami.jpg)](https://osu.ppy.sh/community/forums/topics/715070)
 
-*written by [aitor98](https://osu.ppy.sh/users/3154852)*
+_written by [aitor98](https://osu.ppy.sh/users/3154852)_
 
 We all know [Blocko](https://osu.ppy.sh/users/4075092) for some reason, but this time we are bringing him here to talk about his map, [Aragami by xi](https://osu.ppy.sh/beatmapsets/344198). This map is pretty much straightforward, with a really calm start filled by a few single notes every now on then, but be careful, it jumps to the first kiai section with really harsh chordstreams afer the first 15 seconds with a few bursts in it that lasts for another 10 seconds. After that, we go back to a slow section with a few chords and single notes, which can work as a break time between kiai sections.  45 seconds in, it becomes a complete madness, with almost nonstop chordstreams with stuttering intersections, which might lead to combobreaks due to the density of the bursts that we can appreciate during these sections which will last until the end of the map.
 
@@ -209,15 +209,15 @@ This map has been used for a few tournaments already, such as MWC 7K 2018, MWC 7
 
 [![](/wiki/shared/news/2018-03-13-project-loved-week-of-march-11th/mania/flower-flag.jpg)](https://osu.ppy.sh/community/forums/topics/715071)
 
-*written by [aitor98](https://osu.ppy.sh/users/3154852)*
+_written by [aitor98](https://osu.ppy.sh/users/3154852)_
 
 Here we have [17VA](https://osu.ppy.sh/users/1895984), this time with [Flower Flag by FELT](https://osu.ppy.sh/beatmapsets/539088). This map does distinguish from others due to the length and complexity of the patterns. This map starts slowly, with a few chords followed by Long Notes but do not be fooled by this because it gets harder and harder as further you advance into the map until we reach the first kiai section. We can find patterns such as shields, jacks, Long Notes, unconditional Long Note releases and a few but light chordstreams during the intersections of such kiai section. The second kiai is basically the same as the first one but a little bit denser and streamy. After that, a really harsh inverse section comes along with the ending of the map. It does have 4 difficulties going from 1.99 stars to 5.95 so it becomes accessible to everyone.
- 
+
 Talking a little about 17VA, he has been mapping since 2014 and he has made 31 (submitted) beatmaps which all of those are Long Note based. His maps are really popular in the 7K mania community, with a lot of favorites and a few of them have actually been used for both unofficial and official tournaments. He also has 2 loved beatmaps so, why not another one? His mapping style is somewhat unique even though it's really o2jam based, the structure that he uses can be distinguishable from other maps. Definitely a map worth enough for Loved.
 
 [![](/wiki/shared/news/2018-03-13-project-loved-week-of-march-11th/mania/wind-god-girl.jpg)](https://osu.ppy.sh/community/forums/topics/715072)
 
-*written by [Kamikaze](https://osu.ppy.sh/users/2124783)*
+_written by [Kamikaze](https://osu.ppy.sh/users/2124783)_
 
 Next up we have [TBSM](https://osu.ppy.sh/users/4240472)'s monster of a chart, [Wind God Girl](https://osu.ppy.sh/beatmapsets/347113).
 
@@ -227,7 +227,7 @@ Good luck and don't break your fingers!
 
 [![](/wiki/shared/news/2018-03-13-project-loved-week-of-march-11th/mania/friend-shitai.jpg)](https://osu.ppy.sh/community/forums/topics/715073)
 
-*written by [Kamikaze](https://osu.ppy.sh/users/2124783)*
+_written by [Kamikaze](https://osu.ppy.sh/users/2124783)_
 
 And to finish this list off, we have something to help you relax and help you get your mood up if you're not having the best of days, [FrenzyLi](https://osu.ppy.sh/users/6256685)'s [Friend Shitai](https://osu.ppy.sh/beatmapsets/351766)!
 
@@ -235,7 +235,7 @@ It's a funny, uplifting song, and the mapset is keeping in theme, with various l
 
 Offering two keymodes, 4K and 9K with top difficulties made by [Reyzra](https://osu.ppy.sh/users/2684831) and [Shinzo-](https://osu.ppy.sh/users/4720038) respectively, the 9K chart focuses more on being an all round tester with a mix of streams, LNs and SVs, while the 9K focuses more on interesting and challenging stream patterning. Don't get lost!
 
----
+* * *
 
 From everyone on the Project Loved team, we hope you enjoy this week's selection, and look forward to the next! The winning maps will hit the [beatmap listing](https://osu.ppy.sh/beatmapsets?s=loved) sometime during the weekend and will be announced via the [osugame twitter](https://twitter.com/osugame).
 

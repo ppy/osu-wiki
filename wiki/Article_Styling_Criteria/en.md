@@ -1,6 +1,6 @@
 # Article styling criteria
 
-*For news posts, see: [News Styling Criteria](/wiki/News_Styling_Criteria)*
+_For news posts, see: [News Styling Criteria](/wiki/News_Styling_Criteria)_
 
 The Article Styling Criteria (ASC) serves as the osu! wiki's enforced styling standards to keep consistency in clarity, formatting, and layout in all articles.
 
@@ -16,39 +16,39 @@ The ASC only applies to files saved in the `wiki` directory.
 
 Listed below are the properly-supported locales for the osu! wiki. The file name is the two character language code ([ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes "Wikipedia")) followed by `.md`. If there is a country variance of a language, the file name is the two character language code ([ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes "Wikipedia")) followed by a hyphen (`-`), the two character country code ([ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 "Wikipedia")), then `.md`.
 
-| File Name | Locale Name | Native Script |
-| :-- | :-- | :-- |
-| `en.md` | English | English |
-| `be.md` | Belarusian | Беларуская мова |
-| `bg.md` | Bulgarian | Български |
-| `cs.md` | Czech | Česky |
-| `da.md` | Danish | Dansk |
-| `de.md` | German | Deutsch |
-| `gr.md` | Greek | Ελληνικά |
-| `es.md` | Spanish | Español |
-| `fi.md` | Finnish | Suomi |
-| `fr.md` | French | Français |
-| `hu.md` | Hungarian | Magyar |
-| `id.md` | Indonesian | Bahasa Indonesia |
-| `it.md` | Italian | Italiano |
-| `ja.md` | Japanese | 日本語 |
-| `ko.md` | Korean | 한국어 |
-| `nl.md` | Dutch | Nederlands |
-| `no.md` | Norwegian | Norsk |
-| `pl.md` | Polish | Polski |
-| `pt.md` | Portuguese | Português |
-| `pt-br.md` | Brazilian Portuguese | Português (Brasil) |
-| `ro.md` | Romanian | Română |
-| `ru.md` | Russian | Русский |
-| `sk.md` | Slovak | Slovenčina |
-| `sv.md` | Swedish | Svenska |
-| `th.md` | Thai | ไทย |
-| `tr.md` | Turkish | Türkçe |
-| `vi.md` | Vietnamese | Tiếng Việt |
-| `zh.md` | Chinese (Simplified) | 简体中文 |
-| `zh-tw.md` | Traditional Chinese (Taiwan) | 繁體中文（台灣） |
+| File Name  | Locale Name                  | Native Script      |
+| :--------- | :--------------------------- | :----------------- |
+| `en.md`    | English                      | English            |
+| `be.md`    | Belarusian                   | Беларуская мова    |
+| `bg.md`    | Bulgarian                    | Български          |
+| `cs.md`    | Czech                        | Česky              |
+| `da.md`    | Danish                       | Dansk              |
+| `de.md`    | German                       | Deutsch            |
+| `gr.md`    | Greek                        | Ελληνικά           |
+| `es.md`    | Spanish                      | Español            |
+| `fi.md`    | Finnish                      | Suomi              |
+| `fr.md`    | French                       | Français           |
+| `hu.md`    | Hungarian                    | Magyar             |
+| `id.md`    | Indonesian                   | Bahasa Indonesia   |
+| `it.md`    | Italian                      | Italiano           |
+| `ja.md`    | Japanese                     | 日本語                |
+| `ko.md`    | Korean                       | 한국어                |
+| `nl.md`    | Dutch                        | Nederlands         |
+| `no.md`    | Norwegian                    | Norsk              |
+| `pl.md`    | Polish                       | Polski             |
+| `pt.md`    | Portuguese                   | Português          |
+| `pt-br.md` | Brazilian Portuguese         | Português (Brasil) |
+| `ro.md`    | Romanian                     | Română             |
+| `ru.md`    | Russian                      | Русский            |
+| `sk.md`    | Slovak                       | Slovenčina         |
+| `sv.md`    | Swedish                      | Svenska            |
+| `th.md`    | Thai                         | ไทย                |
+| `tr.md`    | Turkish                      | Türkçe             |
+| `vi.md`    | Vietnamese                   | Tiếng Việt         |
+| `zh.md`    | Chinese (Simplified)         | 简体中文               |
+| `zh-tw.md` | Traditional Chinese (Taiwan) | 繁體中文（台灣）           |
 
-*Note: The osu! wiki will give readers their selected language's version of an article, but will fallback on the English version if it is not available.*
+_Note: The osu! wiki will give readers their selected language's version of an article, but will fallback on the English version if it is not available._
 
 If your language is not listed above, you can either append `?locale={langcode}` to the URL (where `{langcode}` is your language's two letter code in lowercase letters, e.g. `https://osu.ppy.sh/help/wiki/Welcome?locale=zh` will give you the Chinese version of the Welcome article regardless of the selected language) or help translate the [osu-web via Crowdin](https://crowdin.com/project/osu-web). If you need help translating the website or want to discuss translating decisions, you can discuss about it in the [osu!dev Discord](https://discord.gg/ppy) (`#osu-web` channel).
 
@@ -58,10 +58,10 @@ Translations are subject to strict content parity with their English article, in
 
 There are some cases where the content is allowed to differ:
 
-- Articles originally written in a language other than English (in this case, English should act as the translation)
-- Explanations of English words that are common terms in the osu! community
-- External links
-- Tags
+-   Articles originally written in a language other than English (in this case, English should act as the translation)
+-   Explanations of English words that are common terms in the osu! community
+-   External links
+-   Tags
 
 ### Metadata
 
@@ -79,7 +79,7 @@ needs_cleanup: true
 
 #### Outdated articles
 
-*Note to translators: The `outdated` mark must be removed after updating the translation of an article.*
+_Note to translators: The `outdated` mark must be removed after updating the translation of an article._
 
 Translated articles that are outdated must use the `outdated` mark when the English variant is updated. English articles may also become outdated when the content they contain is misleading or no longer relevant. For example:
 
@@ -114,19 +114,19 @@ Folder names must use sentence case and should match their English article title
 
 Folder names must not use URL reserved characters. They must only use these characters:
 
-- uppercase letters
-- lowercase letters
-- numbers
-- underscores (`_`)
-- exclamation marks (`!`)
+-   uppercase letters
+-   lowercase letters
+-   numbers
+-   underscores (`_`)
+-   exclamation marks (`!`)
 
 #### Percent encoding characters
 
 Folder names must not use characters that require percent encoding. Those characters may include, but are not limited to:
 
-- spaces
-  - all spaces must be changed to underscores (`_`)
-- apostrophes (`'`)
+-   spaces
+    -   all spaces must be changed to underscores (`_`)
+-   apostrophes (`'`)
 
 ### Article file names
 
@@ -162,13 +162,13 @@ HTML comments may be used for annotating text.
 
 <!-- YAML parsing will break and display as plain text if the file is using CRLF. -->
 
-*Notice: Uploading Markdown files using the `CRLF` (carriage return and line feed) line ending via GitHub will result in those files using `CRLF`. To prevent this, set the line ending to `LF` (line feed) before uploading.*
+_Notice: Uploading Markdown files using the `CRLF` (carriage return and line feed) line ending via GitHub will result in those files using `CRLF`. To prevent this, set the line ending to `LF` (line feed) before uploading._
 
 Markdown files must be checked in using the `LF` end of line sequence.
 
 #### Escaping
 
-*Notice: The title of an article must not be escaped. Titles are parsed as plain text.*
+_Notice: The title of an article must not be escaped. Titles are parsed as plain text._
 
 Escaping Markdown syntax should be used when needed.
 
@@ -238,7 +238,7 @@ For notices that target specific readers are similar to regular notices, but als
 
 ### Emphasising
 
-*Notice: Misuse of emphasis may reduce its effectiveness.*
+_Notice: Misuse of emphasis may reduce its effectiveness._
 
 Emphasised words should not use all uppercase letters, with exception. Instead, bold the word or the sentence or phrase.
 
@@ -260,7 +260,7 @@ Headings must not exceed a heading level of 5 and must not be used to style or f
 
 #### Titles
 
-*Notice: Article titles must not be escaped, as they are parsed as plain text.*
+_Notice: Article titles must not be escaped, as they are parsed as plain text._
 
 The first heading in all articles must be a level 1 heading, being the article's title. All headings afterwards must be [section headings](#sections). Title headings must not contain formatting, links, or images.
 
@@ -274,7 +274,7 @@ Section headings must use levels 2 to 5. The section heading proceeding the [tit
 
 Section headings must not skip a heading level (i.e. do not go from a level 2 heading to a level 4 heading) and must not contain formatting or links.
 
-*Note: In the osu! wiki, heading levels 4 and 5 will not appear in the table of contents and are not given the id attribute (these sections can not be linked to directly).*
+_Note: In the osu! wiki, heading levels 4 and 5 will not appear in the table of contents and are not given the id attribute (these sections can not be linked to directly)._
 
 ### Lists
 
@@ -347,7 +347,7 @@ The markup for code is a grave mark (`` ` ``). To put a grave mark in code, surr
 
 #### Keyboard keys
 
-*Notice: When denoting the letter itself, and not the keyboard key, use quotation marks instead.*
+_Notice: When denoting the letter itself, and not the keyboard key, use quotation marks instead._
 
 When denoting keyboard keys, use capital letters for single characters and title case for modifiers. For example:
 
@@ -393,7 +393,7 @@ To play osu!, double click the `osu!.exe` icon.
 
 #### File extensions
 
-*Notice: File formats (not to be confused with file extensions) must be written in capital letters without the prefixed fullstop (`.`).*
+_Notice: File formats (not to be confused with file extensions) must be written in capital letters without the prefixed fullstop (`.`)._
 
 File extensions must be prefixed with a fullstop (`.`) and be followed by the file extension in lowercase letters. For example:
 
@@ -437,7 +437,7 @@ The link text must not be the URL itself and should not use the word `here`.
 
 #### Internal links
 
-*Note: Internal links refer to links that stay inside the `https://osu.ppy.sh/` domain.*
+_Note: Internal links refer to links that stay inside the `https://osu.ppy.sh/` domain._
 
 ##### Wiki links
 
@@ -448,7 +448,7 @@ All links that point to an osu! wiki article must start with `/wiki/` followed b
 [pippi](/wiki/Mascots#-pippi)
 ```
 
----
+* * *
 
 Wiki links must not use redirects.
 
@@ -488,7 +488,7 @@ All beatmapset difficulty URLs looks like this: `https://osu.ppy.sh/beatmapsets/
 
 #### External links
 
-*Note: External links refers to links that go outside the `https://osu.ppy.sh/` domain.*
+_Note: External links refers to links that go outside the `https://osu.ppy.sh/` domain._
 
 <!-- ppy ruled no relative protocol links. in:#osu-wiki during:2017-02-11 from:ppy#0001 https -->
 
@@ -542,7 +542,7 @@ Where `<input>` is the file name to be compressed and `<output>` is the compress
 
 #### File names
 
-*Notice: File extensions must use lowercase letters, otherwise they will fail to load!*
+_Notice: File extensions must use lowercase letters, otherwise they will fail to load!_
 
 <!-- going with hyphens, see https://github.com/ppy/osu-wiki/issues/1996#issue-403476323 and https://github.com/ppy/osu-wiki/issues/1996#issuecomment-457861162 -->
 
@@ -570,9 +570,9 @@ All images should have alternate text. Title text may be used, but should be dif
 
 Images are automatically given captions if they fulfill these conditions:
 
-1. The image is by itself.
-2. The image is not inside a heading.
-3. The image has title text.
+1.  The image is by itself.
+2.  The image is not inside a heading.
+3.  The image has title text.
 
 Captions are assumed via the title text, which must be in plain text. Images with captions are also centred with the image on the website.
 
@@ -582,7 +582,7 @@ The osu! wiki gives every image a max-width, being the width of the article body
 
 #### Annotating images
 
-When annotating images, use *Exo 2 light*. For Chinese, Korean, Japanese characters, use *Microsoft YaHei*.
+When annotating images, use _Exo 2 light_. For Chinese, Korean, Japanese characters, use _Microsoft YaHei_.
 
 Limit annotating in images, as it is difficult for translators (and other editors) to edit them.
 
@@ -590,9 +590,9 @@ Limit annotating in images, as it is difficult for translators (and other editor
 
 When translating annotated images, the localised image version must be placed in the same directory as the original version (i.e. the English version). The filename of a localised image version must start with the original version's name, followed by a hyphen, followed by the locale name (in capital letters). For example:
 
-- `hardrock_mod_vs_easy_mod.jpg` (i.e. in English)
-- `hardrock_mod_vs_easy_mod-DE.jpg` (i.e. in German)
-- `hardrock_mod_vs_easy_mod-ZH-TW.jpg` (i.e. in Traditional Chinese)
+-   `hardrock_mod_vs_easy_mod.jpg` (i.e. in English)
+-   `hardrock_mod_vs_easy_mod-DE.jpg` (i.e. in German)
+-   `hardrock_mod_vs_easy_mod-ZH-TW.jpg` (i.e. in Traditional Chinese)
 
 #### Screenshots of gameplay
 
@@ -600,25 +600,25 @@ All screenshots of gameplay must be done in the stable build, unless it is for a
 
 ##### osu! client settings
 
-*Note: If you do not want to change your current settings for the osu! wiki, you can move your `osu!.<ComputerUser>.cfg` out of the osu! folder and move it back later.*
+_Note: If you do not want to change your current settings for the osu! wiki, you can move your `osu!.<ComputerUser>.cfg` out of the osu! folder and move it back later._
 
 You must set these settings before taking a screenshot of the osu! client (settings not stated below are assumed to be at their defaults):
 
-- Select language: `English`
-- Prefer metadata in original language: `Enabled`
-- Resolution: `1280x720`
-- Fullscreen mode: `Disabled`
-- Parallax: `Disabled`
-- Menu tips: `Disabled`
-- Seasonal backgrounds: `Never`
-- Always show key overlay: `Enabled`
-- Current skin: `Default` (first option)
+-   Select language: `English`
+-   Prefer metadata in original language: `Enabled`
+-   Resolution: `1280x720`
+-   Fullscreen mode: `Disabled`
+-   Parallax: `Disabled`
+-   Menu tips: `Disabled`
+-   Seasonal backgrounds: `Never`
+-   Always show key overlay: `Enabled`
+-   Current skin: `Default` (first option)
 
 #### Image links
 
 Images must not be part of a link text.
 
----
+* * *
 
 Flag icons next to user links must be separate from the username. For example:
 
@@ -628,7 +628,7 @@ Flag icons next to user links must be separate from the username. For example:
 
 #### Flag icons
 
-*For a list of flag icons, see: [issue \#328](https://github.com/ppy/osu-wiki/issues/328 "GitHub")*
+_For a list of flag icons, see: [issue #328](https://github.com/ppy/osu-wiki/issues/328 "GitHub")_
 
 The flag icons use the two letter code (in all capital letters) and end with `.gif`. When adding a flag inline, use this format:
 
@@ -648,14 +648,14 @@ Tables must not be beautified. They must have a vertical bar (`|`) on the left a
 
 The delimiter row (the row that separates the table head from the table body) must use only three characters per column (and be padded with a space on both sides), which must look like one of the following:
 
-- `---` (for left align)
-- `:--` (for left align)
-- `:-:` (for centre align)
-- `--:` (for right align)
+-   `---` (for left align)
+-   `:--` (for left align)
+-   `:-:` (for centre align)
+-   `--:` (for right align)
 
 The left align delimiter must be done consistently throughout the entire article.
 
----
+* * *
 
 For example:
 
@@ -677,9 +677,9 @@ Blockquotes is limited to quoting text from someone. It must not be used to form
 
 The thematic break (also known as the horizontal rule or line) should be used sparingly. A few uses of the thematic break may include (but is not limited to):
 
-- separating images from text
-- separating multiple images that follow one another
-- shifting the topic within a section
+-   separating images from text
+-   separating multiple images that follow one another
+-   shifting the topic within a section
 
 These must have an empty line before and after the markup. Thematic breaks must use only three hyphens, as depicted below:
 
@@ -695,43 +695,43 @@ All English articles must use plain English.
 
 British English spelling variants must be used when there are conflicting spellings of English words. For example, use:
 
-- `colour` instead of `color`
-- `centre` instead of `center`
-- `skilful` instead of `skillful`
-- `analyse` instead of `analyze`
+-   `colour` instead of `color`
+-   `centre` instead of `center`
+-   `skilful` instead of `skillful`
+-   `analyse` instead of `analyze`
 
 ### osu!
 
 The name of the game, osu!, must not be capitalised or italicised. The osu! official branding must not use any spaces. Examples include:
 
-- `osu!academy`
-- `osu!api`
-- `osu!catch`
-- `osu!direct`
-- `osu!keyboard`
-- `osu!mania`
-- `osu!store`
-- `osu!stream`
-- `osu!supporter`
-- `osu!tablet`
-- `osu!taiko`
-- `osu!talk`
-- `osu!tourney`
+-   `osu!academy`
+-   `osu!api`
+-   `osu!catch`
+-   `osu!direct`
+-   `osu!keyboard`
+-   `osu!mania`
+-   `osu!store`
+-   `osu!stream`
+-   `osu!supporter`
+-   `osu!tablet`
+-   `osu!taiko`
+-   `osu!talk`
+-   `osu!tourney`
 
 Other brandings that are not covered by the osu! official branding must use a space. Examples include:
 
-- `osu! tournaments`
-- `osu! community`
-- `osu! chat`
-- `osu! client`
-- `osu! wiki`
+-   `osu! tournaments`
+-   `osu! community`
+-   `osu! chat`
+-   `osu! client`
+-   `osu! wiki`
 
 User titles that include `osu!` as part of the title name must be capitalised. Examples include:
 
-- `osu! Alumni`
-- `osu! Champion`
+-   `osu! Alumni`
+-   `osu! Champion`
 
----
+* * *
 
 <!-- Ephemeral ruled to use a full stop. in:osu-wiki during:2018-05-30 from:ephemeralis#0001 stop -->
 
@@ -753,37 +753,37 @@ The [Chat Console](/wiki/Chat_Console) is where you go to chat, using IRC (Inter
 
 Game modifiers must have the word `mod` after the mod name to reduce ambiguity. These must be spelt as seen below (letter casing and spacing must match):
 
-- `Easy` or `EZ`
-- `No Fail` or `NF`
-- `Half Time` or `HT`
-- `Daycore` or `DC`
-- `Hard Rock` or `HR`
-- `Sudden Death` or `SD`
-- `Perfect` or `PF`
-- `Double Time` or `DT`
-- `Nightcore` or `NC`
-- `Fade In` or `FI`
-- `Hidden` or `HD`
-- `Flashlight` or `FL`
-- `Relax` or `RL`
-- `Autopilot` or `AP`
-- `Target Practice` or `TP`
-- `Spun Out` or `SO`
-- `1K`, `2K`, `3K`, `4K`, `5K`, `6K`, `7K`, `8K`, and `9K`
-  - If referring to the key mods collectively, use `xK`.
-- `Co-op` or `CO`
-- `Random` or `RD`
-- `Auto` or `AT`
-- `Cinema` or `CM`
-- `Touch Device` or `TD`
+-   `Easy` or `EZ`
+-   `No Fail` or `NF`
+-   `Half Time` or `HT`
+-   `Daycore` or `DC`
+-   `Hard Rock` or `HR`
+-   `Sudden Death` or `SD`
+-   `Perfect` or `PF`
+-   `Double Time` or `DT`
+-   `Nightcore` or `NC`
+-   `Fade In` or `FI`
+-   `Hidden` or `HD`
+-   `Flashlight` or `FL`
+-   `Relax` or `RL`
+-   `Autopilot` or `AP`
+-   `Target Practice` or `TP`
+-   `Spun Out` or `SO`
+-   `1K`, `2K`, `3K`, `4K`, `5K`, `6K`, `7K`, `8K`, and `9K`
+    -   If referring to the key mods collectively, use `xK`.
+-   `Co-op` or `CO`
+-   `Random` or `RD`
+-   `Auto` or `AT`
+-   `Cinema` or `CM`
+-   `Touch Device` or `TD`
 
----
+* * *
 
 Tournament articles are an exception and may use camel case (omit the space but keep the letter casing as seen above). For mappools with no or free mods, the game modifier name must be spelt as seen below (letter casing and spacing must match):
 
-- `No Mods`, `No Mod`, `NoMods`, `NoMod`, or `NM`
-- `Free Mods`, `Free Mod`, `FreeMods`, `FreeMod`, or `FM`
-- `Tiebreaker`
+-   `No Mods`, `No Mod`, `NoMods`, `NoMod`, or `NM`
+-   `Free Mods`, `Free Mod`, `FreeMods`, `FreeMod`, or `FM`
+-   `Tiebreaker`
 
 #### Gameplay elements
 
@@ -811,19 +811,19 @@ Dean Herbert (also known as peppy) created osu! back in 2007.
 
 #### Trademarks
 
-*For rules regarding osu!, see: [osu!](#osu!)*
+_For rules regarding osu!, see: [osu!](#osu!)_
 
 The following trademarks must be spelt as follows (letter casing must match):
 
-- `Discord`
-- `Facebook`
-- `GitHub`
-- `Google`
-- `Reddit`
-- `Skype`
-- `Twitch`
-- `Twitter`
-- `YouTube`
+-   `Discord`
+-   `Facebook`
+-   `GitHub`
+-   `Google`
+-   `Reddit`
+-   `Skype`
+-   `Twitch`
+-   `Twitter`
+-   `YouTube`
 
 Trademarks must not be followed by the trademark or registered trademark symbols.
 
@@ -833,16 +833,16 @@ Trademarks must not be followed by the trademark or registered trademark symbols
 
 Game modes must be written as follows:
 
-- `osu!standard` (unofficial, but used to prevent ambiguity)
-- `osu!taiko`
-- `osu!catch`
-- `osu!mania`
+-   `osu!standard` (unofficial, but used to prevent ambiguity)
+-   `osu!taiko`
+-   `osu!catch`
+-   `osu!mania`
 
-*Notice: `osu!standard` is used to maintain consistency when referring to the game mode. Folder names, however, must use `osu!` even if it is referring to the game mode.*
+_Notice: `osu!standard` is used to maintain consistency when referring to the game mode. Folder names, however, must use `osu!` even if it is referring to the game mode._
 
 Referring to the old game mode names (i.e. `Catch the Beat`, `Taiko`, and `Mania`) may be done if discussing about said game mode's previous name.
 
----
+* * *
 
 Articles such as the [Ranking Criteria](/wiki/Ranking_Criteria) may use `osu!` instead of `osu!standard`.
 
@@ -850,29 +850,29 @@ Articles such as the [Ranking Criteria](/wiki/Ranking_Criteria) may use `osu!` i
 
 These words must be spelt as follows (spacing must match):
 
-- `approach circle`
-- `game mode` (or `mode`)
-- `game mod` (or `mod`)
-- `gameplay`
-- `hit burst`
-- `hit circle`
-- `hitsound`
-- `in-game`
-- `playstyle`
-- `slider tick`
-- `slider ball`
-- `slider path`
+-   `approach circle`
+-   `game mode` (or `mode`)
+-   `game mod` (or `mod`)
+-   `gameplay`
+-   `hit burst`
+-   `hit circle`
+-   `hitsound`
+-   `in-game`
+-   `playstyle`
+-   `slider tick`
+-   `slider ball`
+-   `slider path`
 
----
+* * *
 
-- Use `beatmap` instead of `map`.
-- Use `creator` instead of `beatmapper` or `mapper`.
-- Use `mapped` instead of `beatmapped`.
-<!-- https://github.com/ppy/osu-wiki/pull/561#discussion_r132090032 -->
-- Use `BN` or `Beatmap Nominators` when referring to the *Beatmap Nominators*.
-- Use `sign in` instead of `log in`, unless the name of a button or link uses `log in`.
-- Use `sign out` instead of `log out`, unless the name of a button or link uses `log out`.
-- Use `register` instead of `sign up`, unless the name of a button or link uses `sign up`.
+-   Use `beatmap` instead of `map`.
+-   Use `creator` instead of `beatmapper` or `mapper`.
+-   Use `mapped` instead of `beatmapped`.
+    <!-- https://github.com/ppy/osu-wiki/pull/561#discussion_r132090032 -->
+-   Use `BN` or `Beatmap Nominators` when referring to the _Beatmap Nominators_.
+-   Use `sign in` instead of `log in`, unless the name of a button or link uses `log in`.
+-   Use `sign out` instead of `log out`, unless the name of a button or link uses `log out`.
+-   Use `register` instead of `sign up`, unless the name of a button or link uses `sign up`.
 
 ### Abbreviations, acronyms, and initialisms
 
@@ -884,16 +884,16 @@ The NC (Nightcore) mod is similar to the DT (Double Time) mod because both NC an
 
 Abbreviations, acronyms, and initialisms must be capitalised, with exception. For example:
 
-- `CS` for `Circle Size`
-- `AR` for `Approach Rate`
-- `DT` for `Double Time`
-- `SBS` for `Storyboard Scripting`
+-   `CS` for `Circle Size`
+-   `AR` for `Approach Rate`
+-   `DT` for `Double Time`
+-   `SBS` for `Storyboard Scripting`
 
----
+* * *
 
 Use `e.g.` for "for example" and `i.e.` for "that is".
 
----
+* * *
 
 Abbreviations, acronyms, and initialisms should not be pluralised. For example:
 
@@ -907,7 +907,7 @@ Do:    Members of the BN (Beatmap Nominators) can nominate your beatmapset.
 
 #### Date formatting
 
-*For date formatting, see [Wikipedia's Manual of Style on Date formatting](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Formats)*
+_For date formatting, see [Wikipedia's Manual of Style on Date formatting](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Formats)_
 
 Date formatting must be consistent throughout the entire article.
 
@@ -958,7 +958,7 @@ October 25, 2016 (11:45 UTC)
 
 ### Serial comma
 
-*Note: The serial comma is also known as the "Oxford comma" or the "Harvard comma".*
+_Note: The serial comma is also known as the "Oxford comma" or the "Harvard comma"._
 
 The serial comma must be used.
 

@@ -8,13 +8,13 @@ Illuminate your life with osu!'s latest addition to the Featured Artist lineup -
 
 [![](https://assets.ppy.sh/artists/37/header.jpg)](https://osu.ppy.sh/beatmaps/artists/37)
 
-Prominent among the VSRG scene with tracks like *Passage D* and the *Lawn Wake* series, [**The Flashbulb**](https://osu.ppy.sh/beatmaps/artists/37) has been a point of interest in the osu! community for many years, especially the osu!mania and osu!taiko side of things.
+Prominent among the VSRG scene with tracks like _Passage D_ and the _Lawn Wake_ series, [**The Flashbulb**](https://osu.ppy.sh/beatmaps/artists/37) has been a point of interest in the osu! community for many years, especially the osu!mania and osu!taiko side of things.
 
 Sporting [one of the earliest beatmaps to enter the revised Loved category](https://osu.ppy.sh/beatmapsets/400300#osu/1001757) and a regular presence in the osu!taiko and osu!mania World Cup mappools, it should be hardly surprising that an artist so widely acclaimed for his work has finally entered the lineup of Featured Artists.
 
 We're proud to present a selection of **30** tracks from over **11** albums from **The Flashbulb**'s incredibly varied sound, focusing mainly on his older works of the breakcore variety. Many of these are already timeless classics in the rhythm gaming scene, and we're excited to see what people can do with the rest!
 
-That being said, we have also acquired a small selection of his later works, which focus on more cinematic and pensive sounds, made popular by [Mismagius'](https://osu.ppy.sh/users/19048) sets for [*Hymn To The Unobtainable*](https://osu.ppy.sh/beatmapsets/539042) and [*Dead On The 4th Of July*](https://osu.ppy.sh/beatmapsets/347882) respectively.
+That being said, we have also acquired a small selection of his later works, which focus on more cinematic and pensive sounds, made popular by [Mismagius'](https://osu.ppy.sh/users/19048) sets for [_Hymn To The Unobtainable_](https://osu.ppy.sh/beatmapsets/539042) and [_Dead On The 4th Of July_](https://osu.ppy.sh/beatmapsets/347882) respectively.
 
 Check out a preview of a few tracks below - there's much, MUCH more over at [his Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/37):
 

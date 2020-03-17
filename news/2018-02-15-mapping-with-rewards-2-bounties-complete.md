@@ -16,11 +16,11 @@ Two rounds of mapping bounties were held: one in [September 2015](https://blog.p
 
 ### The Winners
 
-- Fright March: [Gero's rendition](https://osu.ppy.sh/beatmapsets/486142)
+-   Fright March: [Gero's rendition](https://osu.ppy.sh/beatmapsets/486142)
 
-- Moonlight Sonata: [Okoratu's rendition](https://osu.ppy.sh/beatmapsets/486535)
+-   Moonlight Sonata: [Okoratu's rendition](https://osu.ppy.sh/beatmapsets/486535)
 
-- Classic Pursuit: [-kevincela-'s rendition](https://osu.ppy.sh/beatmapsets/488238)
+-   Classic Pursuit: [-kevincela-'s rendition](https://osu.ppy.sh/beatmapsets/488238)
 
 Each of these winners were collectively decided by [Myxomatosis](https://osu.ppy.sh/users/2202645), [Mir](https://osu.ppy.sh/users/8688812), [-Mo-](https://osu.ppy.sh/users/2202163), [pishifat](https://osu.ppy.sh/users/3178418), and [Pentori](https://osu.ppy.sh/users/7452237). You can find more information about their judging [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vS34U2QDZTuggEIqCS4USZ2Ppq8yQk2CU_SUnI_ahJ2Dndm4S-wTD2Bhft1Say9PoRGOXDY_yCypMmO/pubhtml)!
 

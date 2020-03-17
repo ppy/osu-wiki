@@ -8,13 +8,13 @@ The Empress beckons. [**UNDEAD CORPORATION**](https://osu.ppy.sh/beatmaps/artist
 
 ![](https://assets.ppy.sh/artists/45/header.jpg)
 
-You know them, you love them. From timeless classics like *Everything will freeze* and *The Empress*, **UNDEAD CORPORATION** have held a dear spot in the osu! community's heart for the better part of a decade.
+You know them, you love them. From timeless classics like _Everything will freeze_ and _The Empress_, **UNDEAD CORPORATION** have held a dear spot in the osu! community's heart for the better part of a decade.
 
 And now, we are delighted to announce once and for all that it is finally official!
 
 **111** metal masterpieces await over at [their Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/45) for you to sink your teeth into, with many of these covering the considerable library of already ranked beatmaps that we're all familiar with.
 
-We've also managed to snag the full ensemble of their two original albums - *O.D* and *NO ANTIDOTE*. Be sure to check them out!
+We've also managed to snag the full ensemble of their two original albums - _O.D_ and _NO ANTIDOTE_. Be sure to check them out!
 
 In case you've forgotten, check out the samples below:
 
@@ -60,7 +60,7 @@ In case you've forgotten, check out the samples below:
     <source src="https://assets.ppy.sh/artists/45/previews/1177.mp3" type="audio/mpeg">
 </audio>
 
----------
+* * *
 
 As usual, all of these amazing tracks and a **HUGE** amount more are available right now over at [**UNDEAD CORPORATION**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/45), pre-timed for your convenience. These are 100% free for use in mapping, so get out there and get creating with them!
 

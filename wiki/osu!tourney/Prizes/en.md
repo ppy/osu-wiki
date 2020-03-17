@@ -8,7 +8,7 @@ needs_cleanup: true
 
 ## Profile Badges
 
-The osu!team may (at their discretion), provide a community-run tournament with a *profile badge*, a special reward that is visible on a player's profile.
+The osu!team may (at their discretion), provide a community-run tournament with a _profile badge_, a special reward that is visible on a player's profile.
 
 These badges typically display a player's skill and prowess in tournament play, and are thus regulated to ensure that they retain their worth and value.
 
@@ -16,11 +16,11 @@ These badges typically display a player's skill and prowess in tournament play, 
 
 We may award profile badges to any **first-place winners** of community-run tournaments that meet the following criteria:
 
-- The tournament is organized and run by an *experienced team of accomplished and reputable volunteers***¹** , **OR**, the tournament *has been run at least once before without receiving rewards*.
-- The badge request is made **well before** the tournament commences play. (*We suggest at least two to three weeks.*)
-- Any of the staff members involved in managing the tournament are **not** participating in the tournament themselves.
-- The tournament is run four or fewer times per year (seasonal).
-- The list of players within a given tournament has been screened by the Support Team and verified to be free of any suspicious players.
+-   The tournament is organized and run by an \*experienced team of accomplished and reputable volunteers**\*¹** , **OR**, the tournament _has been run at least once before without receiving rewards_.
+-   The badge request is made **well before** the tournament commences play. (_We suggest at least two to three weeks._)
+-   Any of the staff members involved in managing the tournament are **not** participating in the tournament themselves.
+-   The tournament is run four or fewer times per year (seasonal).
+-   The list of players within a given tournament has been screened by the Support Team and verified to be free of any suspicious players.
 
 **¹**: "Experienced" team members are loosely defined as someone who has contributed significantly to the successful running of at least **three** badge-receiving tournaments beforehand, or has been a part of the osu! World Cup team.
 
@@ -32,8 +32,8 @@ As part of awarding official support, promotion or other prizes, the Support Tea
 
 Tournament organizers will be expected to provide the following:
 
-- A comma separated list of player usernames, user ids and the 2 digit ISO code of their profile country
-- If the tournament is team based, this list must reflect the grouping of players in their teams of play, complete with any team name or other identifying marker
+-   A comma separated list of player usernames, user ids and the 2 digit ISO code of their profile country
+-   If the tournament is team based, this list must reflect the grouping of players in their teams of play, complete with any team name or other identifying marker
 
 Once the screening is complete, the Support Team will provide a list of all players from your lineup who are considered **ineligible** for supported tournament play, be it via severe account infringement, suspicion of account sharing, or having been the product of a recent ban appeal within the past 12 months.
 
@@ -49,12 +49,12 @@ Profile badges are expected to adhere to a few minimum standards before they are
 
 Please read these carefully - if your proposed badge violates any of these, it may be refused!
 
-- The badge image file MUST be either PNG or JPG/JPEG in format.
-    + If the badge design contains any transparency, it MUST be in PNG format instead.
-- The dimensions of the badge image file MUST NOT exceed 86x40, or 86x34 at the absolute minimum. (*86x40 is the preferred format for all badges and you will be questioned for using 86x34, and outright refused for anything smaller.*)
-- The badge image file MUST be below 50kb in size. (*We suggest using [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) if you're having trouble with this.*)
-- The badge MUST clearly display the logo or name of your tournament. (*You may substitute this for a visual motif or a theme so long as it is obvious enough.*)
-- The badge MUST be cleanly designed and of reasonable visual quality.
+-   The badge image file MUST be either PNG or JPG/JPEG in format.
+    -   If the badge design contains any transparency, it MUST be in PNG format instead.
+-   The dimensions of the badge image file MUST NOT exceed 86x40, or 86x34 at the absolute minimum. (_86x40 is the preferred format for all badges and you will be questioned for using 86x34, and outright refused for anything smaller._)
+-   The badge image file MUST be below 50kb in size. (_We suggest using [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) if you're having trouble with this._)
+-   The badge MUST clearly display the logo or name of your tournament. (_You may substitute this for a visual motif or a theme so long as it is obvious enough._)
+-   The badge MUST be cleanly designed and of reasonable visual quality.
 
 **We also require a 2x (or 'retina') version of your badge for display on the new website.** It is highly recommended to design your badge in 2x (aka: 172x80 resolution) and then downscale it to 1x (86x40) as listed above.
 
@@ -69,14 +69,14 @@ Badges that do not meet these standards will be refused with appropriate reasoni
 
 If your tournament meets the criteria listed above, and you have a design ready to be submitted, **please email tournaments@ppy.sh** and include the following information:
 
-- The name of your tournament
-- A brief description of your tournament, including its scoring type and any other appropriate features
-- A list of the players involved in running the tournament
-- Any applicable dates for your tournament
-- Any links to public off-site chatrooms or servers used for the event (Discord, etc)
-- A link to the forum thread on the osu!forum that announces/details your tournament
-- Any links to previous iterations of the same tournament (only where applicable)
-- Two badge images following the design criteria listed above, **at both 1x (86x40) and 2x/retina (172x80) sizes**.
+-   The name of your tournament
+-   A brief description of your tournament, including its scoring type and any other appropriate features
+-   A list of the players involved in running the tournament
+-   Any applicable dates for your tournament
+-   Any links to public off-site chatrooms or servers used for the event (Discord, etc)
+-   A link to the forum thread on the osu!forum that announces/details your tournament
+-   Any links to previous iterations of the same tournament (only where applicable)
+-   Two badge images following the design criteria listed above, **at both 1x (86x40) and 2x/retina (172x80) sizes**.
 
 Please allow at **least** a week for a response. We will try our best to handle all requests within a week, but we occasionally have large spikes in workload that can make this impossible.
 

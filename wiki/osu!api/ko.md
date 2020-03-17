@@ -13,4 +13,4 @@ osu!api 위키의 문서가 전부 완성되지 않았거나 광범위하게 적
 
 ## See also
 
-- 원본 포스트: [osu!api 오픈 베타](https://osu.ppy.sh/community/forums/topics/141240) by [peppy](https://osu.ppy.sh/users/2)
+-   원본 포스트: [osu!api 오픈 베타](https://osu.ppy.sh/community/forums/topics/141240) by [peppy](https://osu.ppy.sh/users/2)

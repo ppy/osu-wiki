@@ -12,9 +12,9 @@ outdated: true
 
 嗯，那么先来个说明吧。“应援团”是任天堂DS的音乐节奏游戏。基本玩法有三项，即：
 
-1. 点击银幕上的圈圈
-2. 在指定的“滑条”上拖着一粒球
-3. 快速旋转大轮盘
+1.  点击银幕上的圈圈
+2.  在指定的“滑条”上拖着一粒球
+3.  快速旋转大轮盘
 
 这个游戏的每个关卡，是架构在当下流行日文歌曲(的翻唱)的节奏内，以下为图片简介
 
@@ -120,35 +120,35 @@ outdated: true
 
 下列为增加combo值的条件:
 
-- 成功点击圈圈。
-- 成功点击滑条开端。
-- 成功完成滑条。
-- 成功越过滑条上的小豆豆。
-- 成功完成大轮盘。
+-   成功点击圈圈。
+-   成功点击滑条开端。
+-   成功完成滑条。
+-   成功越过滑条上的小豆豆。
+-   成功完成大轮盘。
 
 下列为combo值归零的条件:
 
-- 没有成功点击圈圈。
-- 没有成功点击滑条的开端，或者没有越过其中一个或几个小豆豆。
-- 没有成功完成大轮盘。
+-   没有成功点击圈圈。
+-   没有成功点击滑条的开端，或者没有越过其中一个或几个小豆豆。
+-   没有成功完成大轮盘。
 
 下列对combo值没有影响:
 
-- 没有成功越过滑条尾端。
-- 在大轮盘末端转出了更多的分数。
+-   没有成功越过滑条尾端。
+-   在大轮盘末端转出了更多的分数。
 
 #### 评分
 
 ##### ![](/wiki/shared/mode/osu.png) osu!
 
-| Grade | Condition |
-| :-: | :-- |
-| SS | 100% 准确度 |
-| S | 300 超过 90%，50 低于 1% 并且没有失误 |
-| A | 300 超过 80% 并且没有失误 **或** 300 超过 90% |
-| B | 300 超过 70% 并且没有失误 **或** 300 超过 80% |
-| C | 300 超过 60% |
-| D | 其它任何情况 |
+| Grade | Condition                          |
+| :---: | :--------------------------------- |
+|   SS  | 100% 准确度                           |
+|   S   | 300 超过 90%，50 低于 1% 并且没有失误         |
+|   A   | 300 超过 80% 并且没有失误 **或** 300 超过 90% |
+|   B   | 300 超过 70% 并且没有失误 **或** 300 超过 80% |
+|   C   | 300 超过 60%                         |
+|   D   | 其它任何情况                             |
 
 银色 S 或 SS 意味着玩家玩歌曲时，使用了 hidden 或 flashlight 难度调整器并达到了 S 或 SS 的要求。
 
@@ -158,16 +158,16 @@ outdated: true
 
 下列是生命值增加的条件:
 
-- 成功点击圈圈。(点击判定越好，所获得的生命增加会越高。点击颜色combo的尾端会给予较多的生命增加）
-- 成功点击滑条开端，越过滑条上的小豆豆，以及完成滑条。（判定越好，所获得的生命增加会越高）
-- 成功完成大轮盘。
+-   成功点击圈圈。(点击判定越好，所获得的生命增加会越高。点击颜色combo的尾端会给予较多的生命增加）
+-   成功点击滑条开端，越过滑条上的小豆豆，以及完成滑条。（判定越好，所获得的生命增加会越高）
+-   成功完成大轮盘。
 
 下列是生命值减少的条件:
 
-- 没有成功点击圈圈。
-- 没有成功点击滑条的开端，或者没有越过小豆豆。
-- 没有成功越过滑条尾端。
-- 没有成功完成大轮盘。
+-   没有成功点击圈圈。
+-   没有成功点击滑条的开端，或者没有越过小豆豆。
+-   没有成功越过滑条尾端。
+-   没有成功完成大轮盘。
 
 ## 其他特殊游戏模式
 
@@ -233,36 +233,36 @@ osu!mania是继太鼓和接水果模式后，第三个加入的特别模式
 
 ![](/wiki/shared/Mania_key_layouts.jpg)
 
-- *Symmetrical* style mimics the button placement of DJMAX, in which the center key is "spacebar", in which, created a feeling of "stepping" the pedal similar to the arcade version. Centre key matches the middle column (5K and 7K only) and the other column matches the keys in its corresponding place.
-- *Left to Right* style mimics the button placement of Beatmania IIDX, where the first column matches to the key1, then the second column matches the key2 and so on.
+-   _Symmetrical_ style mimics the button placement of DJMAX, in which the center key is "spacebar", in which, created a feeling of "stepping" the pedal similar to the arcade version. Centre key matches the middle column (5K and 7K only) and the other column matches the keys in its corresponding place.
+-   _Left to Right_ style mimics the button placement of Beatmania IIDX, where the first column matches to the key1, then the second column matches the key2 and so on.
 
-*Symmetrical* key binding (For DJMAX style)
+_Symmetrical_ key binding (For DJMAX style)
 
-- For *left* hand buttons — (K1)**A**, (K2)**S**, (K3)**D**, (K4)**F**
-- For *right* hand buttons — (K6)**J**, (K7)**K**, (K8)**L**, (K9)**semicolon ";"**.
-- *Center* button — (K5)**spacebar**. \[On 5K and 7K only\]
-- The *Special* button — **left SHIFT** and **left control "Ctrl"**.
+-   For _left_ hand buttons — (K1)**A**, (K2)**S**, (K3)**D**, (K4)**F**
+-   For _right_ hand buttons — (K6)**J**, (K7)**K**, (K8)**L**, (K9)**semicolon ";"**.
+-   _Center_ button — (K5)**spacebar**. \[On 5K and 7K only]
+-   The _Special_ button — **left SHIFT** and **left control "Ctrl"**.
 
-*Left to Right* key binding (For Beatmania IIDX style)
+_Left to Right_ key binding (For Beatmania IIDX style)
 
-- From down to up then down to up again: (K1)**Z**, (K2)**S**, (K3)**X**, (K4)**D**, (K5)**C**, (K6)**F**, (K7)**V**, (K8)**G**, (K9)**B** \[K9 is not used\]
-- The *Special* button — **left SHIFT** and **left control "Ctrl"**.
+-   From down to up then down to up again: (K1)**Z**, (K2)**S**, (K3)**X**, (K4)**D**, (K5)**C**, (K6)**F**, (K7)**V**, (K8)**G**, (K9)**B** \[K9 is not used]
+-   The _Special_ button — **left SHIFT** and **left control "Ctrl"**.
 
 | Key | Symmetrical binding |
-| :-: | :-: |
-| 4K | K3, K4 |
-| 5K | K3, K4 |
-| 6K | K2, K3, K4 |
-| 7K | K2, K3, K4 |
-| 8K | K1, K2, K3, K4 |
+| :-: | :-----------------: |
+|  4K |        K3, K4       |
+|  5K |        K3, K4       |
+|  6K |      K2, K3, K4     |
+|  7K |      K2, K3, K4     |
+|  8K |    K1, K2, K3, K4   |
 
-| Key | Left-To-Right binding |
-| :-: | :-: |
-| 4K | K1, K2 |
-| 5K | K1, K2, K3, K4, K5 |
-| 6K | K1, K2, K3, K4, K5, K6 |
-| 7K | K1, K2, K3, K4, K5, K6, K7 |
-| 8K | K1, K2, K3, K4, K5, K6, K7, K8 |
+| Key |      Left-To-Right binding     |
+| :-: | :----------------------------: |
+|  4K |             K1, K2             |
+|  5K |       K1, K2, K3, K4, K5       |
+|  6K |     K1, K2, K3, K4, K5, K6     |
+|  7K |   K1, K2, K3, K4, K5, K6, K7   |
+|  8K | K1, K2, K3, K4, K5, K6, K7, K8 |
 
 ## Common Issues
 
@@ -276,16 +276,16 @@ osu!mania是继太鼓和接水果模式后，第三个加入的特别模式
 
 举个例子，我在以下三个谱面里的不同难度取得了如下的分数：
 
-- BRANDY - The Festival of Ghosts 2
-  - Relaxing : 3,000,000
-  - DaRRi MIx : 5,000,000
-- ZZ - Samurai Blue
-  - Easy : 500,000
-  - Normal : 1,000,000
-  - Hard : 没有分数
-- Matchbox 20 - How Far We've Come
-  - Normal : 2,000,000
-  - Hard : 1,500,000
+-   BRANDY - The Festival of Ghosts 2
+    -   Relaxing : 3,000,000
+    -   DaRRi MIx : 5,000,000
+-   ZZ - Samurai Blue
+    -   Easy : 500,000
+    -   Normal : 1,000,000
+    -   Hard : 没有分数
+-   Matchbox 20 - How Far We've Come
+    -   Normal : 2,000,000
+    -   Hard : 1,500,000
 
 我在每张谱面取得的总的最高分数是5,000,000 + 1,000,000 + 2,000,000 = 8,000,000，这同时也是我的上榜总分数。
 
@@ -301,8 +301,8 @@ osu!mania是继太鼓和接水果模式后，第三个加入的特别模式
 
 可以，请：
 
-- 利用内置的“Background Dim”（背景变暗）功能。先进入游戏界面，然后在最开始或者暂停游戏时将鼠标移动到靠近游戏界面下边缘附近（会弹出**Visual Settings**），然后将Background Dim滑块移动至可接受的程度即可。这个选项的默认值是30%。这种方法是无法彻底清除背景图的。如果需要彻底清除背景图（虽然不建议这么做），请：
-- 使用其他的图片来覆盖歌曲文件夹中的背景图片文件。打开osu安装目录里面的Songs文件夹，然后找到歌曲，再把文件夹里面歌曲的背景图换掉就好了。如果看不出哪一张是背景图的话，打开预览来和osu!里面的图比较或者用记事本等文本编辑器来打开一个osz文件，然后找到**\[Events\]**里面的图片文件。
+-   利用内置的“Background Dim”（背景变暗）功能。先进入游戏界面，然后在最开始或者暂停游戏时将鼠标移动到靠近游戏界面下边缘附近（会弹出**Visual Settings**），然后将Background Dim滑块移动至可接受的程度即可。这个选项的默认值是30%。这种方法是无法彻底清除背景图的。如果需要彻底清除背景图（虽然不建议这么做），请：
+-   使用其他的图片来覆盖歌曲文件夹中的背景图片文件。打开osu安装目录里面的Songs文件夹，然后找到歌曲，再把文件夹里面歌曲的背景图换掉就好了。如果看不出哪一张是背景图的话，打开预览来和osu!里面的图比较或者用记事本等文本编辑器来打开一个osz文件，然后找到**\[Events]**里面的图片文件。
 
 #### 背景视频
 
@@ -335,7 +335,7 @@ Level是根据你在线时所累积的分数(及时你中途失败也会计算�
 
 级别的数目会在进度条旁显示。
 
-*注意：* 如果你要从 level 101 上升至 level 102，你必须要得到1,270,000,000分。
+_注意：_ 如果你要从 level 101 上升至 level 102，你必须要得到1,270,000,000分。
 
 ### 为什么我的rank和pp不一样(变少)了?!!!!
 
@@ -355,10 +355,10 @@ Level是根据你在线时所累积的分数(及时你中途失败也会计算�
 
 随着游戏的发展，游戏玩家中交流用的专用名词也出现了不少。下面是几个比较常用的名词：
 
-- 触手(神手)：指游戏技术十分高超的玩家
-- 沙包(初学者)：指各方面均不熟练的普通玩家
-- 纯鼠：即只使用鼠标进行游戏
-- 键鼠：使用鼠标移动，用键盘来点击
-- 纯板：只使用数位板进行游戏
-- 键板：使用数位板移动，用键盘来点击
-- 双刀：用键盘点击的同时，鼠标或数位板也承担一部分点击操作
+-   触手(神手)：指游戏技术十分高超的玩家
+-   沙包(初学者)：指各方面均不熟练的普通玩家
+-   纯鼠：即只使用鼠标进行游戏
+-   键鼠：使用鼠标移动，用键盘来点击
+-   纯板：只使用数位板进行游戏
+-   键板：使用数位板移动，用键盘来点击
+-   双刀：用键盘点击的同时，鼠标或数位板也承担一部分点击操作

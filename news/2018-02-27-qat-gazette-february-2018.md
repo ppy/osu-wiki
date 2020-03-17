@@ -32,7 +32,7 @@ Additionally, [Electoz](https://osu.ppy.sh/users/6485263) and [Gabe](https://osu
 
 ### Beatmap Nominator retirements
 
-Sadly time waits for no circle, drum, fruit or piano inspector, and whilst many are just beginning their journey, others are taking a well-deserved break. Please offer your appreciation to [Bonsai](https://osu.ppy.sh/users/987334), [Monstrata](https://osu.ppy.sh/users/2706438), [MrSergio](https://osu.ppy.sh/users/2581696), [Rizia](https://osu.ppy.sh/users/1367570), [sheela](https://osu.ppy.sh/users/1138027) and [Zero__wind](https://osu.ppy.sh/users/1822830) for the osu! game mode, as well as [OzzyOzrock](https://osu.ppy.sh/users/465153) for osu!taiko, [Halfsmashed](https://osu.ppy.sh/users/4847256) for osu!catch and [Litharrale](https://osu.ppy.sh/users/3189995) for osu!mania. Their hard work and lasting contributions have ensured players can enjoy a more varied and higher quality osu! experience for years to come.
+Sadly time waits for no circle, drum, fruit or piano inspector, and whilst many are just beginning their journey, others are taking a well-deserved break. Please offer your appreciation to [Bonsai](https://osu.ppy.sh/users/987334), [Monstrata](https://osu.ppy.sh/users/2706438), [MrSergio](https://osu.ppy.sh/users/2581696), [Rizia](https://osu.ppy.sh/users/1367570), [sheela](https://osu.ppy.sh/users/1138027) and [Zero\_\_wind](https://osu.ppy.sh/users/1822830) for the osu! game mode, as well as [OzzyOzrock](https://osu.ppy.sh/users/465153) for osu!taiko, [Halfsmashed](https://osu.ppy.sh/users/4847256) for osu!catch and [Litharrale](https://osu.ppy.sh/users/3189995) for osu!mania. Their hard work and lasting contributions have ensured players can enjoy a more varied and higher quality osu! experience for years to come.
 
 ### Changes to Beatmap Nominator applications
 
@@ -70,7 +70,7 @@ With the recent departure of our long standing osu!mania Quality Assurance Team 
 
 That's not all however, as I have also had the pleasure of welcoming **two returning members back to the QAT** in recent weeks: [Myxomatosis](https://osu.ppy.sh/users/2202645) and [Fycho](https://osu.ppy.sh/users/1876867)! The pair share a combined total of over four years' worth of prior experience in the Quality Assurance Team, and will undoubtably be of significant assistance as the osu! mapping and modding communities continue their current rapid expansion.
 
-Myxomatosis (who may be better known to some of you by his former alias *Desperate-kun*) has returned to take up an active role in checking Qualified osu! maps, whilst Fycho will provide a wealth of assistance to Doyak, Kurai and the now 10-person strong Metadata Helper team, in addition to helping out with checking Qualified map reports and evaluating Beatmap Nominator applications, also in the osu! game mode. Many thanks to both on their decision to return!
+Myxomatosis (who may be better known to some of you by his former alias _Desperate-kun_) has returned to take up an active role in checking Qualified osu! maps, whilst Fycho will provide a wealth of assistance to Doyak, Kurai and the now 10-person strong Metadata Helper team, in addition to helping out with checking Qualified map reports and evaluating Beatmap Nominator applications, also in the osu! game mode. Many thanks to both on their decision to return!
 
 ## Summary
 

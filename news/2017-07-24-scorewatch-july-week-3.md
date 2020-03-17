@@ -21,7 +21,7 @@ Remember [Recia](https://osu.ppy.sh/users/1787027)? Well, he has gone and set th
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/aKuLWtL-qNw" frameborder="0" allowfullscreen></iframe></br>
 
-[_yu68](https://osu.ppy.sh/users/6170507) pushes his limits further by beating out [shinchikuhome](https://osu.ppy.sh/users/3174184) on [DragonForce - Cry Thunder](https://osu.ppy.sh/beatmaps/1065704) with a crazy 99.90% DT FC to earn 623pp and sniping him for the number one spot. What else is there to say?
+[\_yu68](https://osu.ppy.sh/users/6170507) pushes his limits further by beating out [shinchikuhome](https://osu.ppy.sh/users/3174184) on [DragonForce - Cry Thunder](https://osu.ppy.sh/beatmaps/1065704) with a crazy 99.90% DT FC to earn 623pp and sniping him for the number one spot. What else is there to say?
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/2L_1pHPLq7g" frameborder="0" allowfullscreen></iframe></br>
 
@@ -37,7 +37,7 @@ In all of his extraordinary glory, [kablaze](https://osu.ppy.sh/users/3043603) d
 
 ## SCORESHOW WITH ZSEIKIMATSU
 
-[_yu68](https://osu.ppy.sh/users/6170507) and [shinchikuhome](https://osu.ppy.sh/users/3174184), the 2 greatest osu!taiko players, go on a DragonForce battle on [Symphony of the Night](https://osu.ppy.sh/beatmapsets/555073).
+[\_yu68](https://osu.ppy.sh/users/6170507) and [shinchikuhome](https://osu.ppy.sh/users/3174184), the 2 greatest osu!taiko players, go on a DragonForce battle on [Symphony of the Night](https://osu.ppy.sh/beatmapsets/555073).
 
 <iframe width="100%" height="315"
 src="https://www.youtube.com/embed/D37TPIuwPP8" frameborder="0" allowfullscreen></iframe></br>

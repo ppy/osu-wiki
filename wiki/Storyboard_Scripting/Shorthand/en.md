@@ -10,20 +10,16 @@ If you have several values for the same event that you want to appear right afte
 
 is treated as this:
 
-```
-_(event),(easing),(starttime_of_first),(endtime_of_first),(value(s)_1),(value(s)_2)
-_(event),(easing),((starttime_of_first) + (duration)),((endtime_of_first) + duration),(value(s)_2),(value(s)_3)
-_(event),(easing),((starttime_of_first) + 2 * (duration)),((endtime_of_first) + 2 * duration),(value(s)_3),(value(s)_4)
-```
+    _(event),(easing),(starttime_of_first),(endtime_of_first),(value(s)_1),(value(s)_2)
+    _(event),(easing),((starttime_of_first) + (duration)),((endtime_of_first) + duration),(value(s)_2),(value(s)_3)
+    _(event),(easing),((starttime_of_first) + 2 * (duration)),((endtime_of_first) + 2 * duration),(value(s)_3),(value(s)_4)
 
 where (duration) is equal to ((endtime_of_first) - (starttime_of_first)) (note that "value(s)" can be two numbers, as appropriate for the Move or Vector commands).
 
 E.g., to have an object fade from invisible to visible, then to half visible, then to fully visible, then back to invisible, each change taking one second, starting at time 51000:
 
-```
-Sprite,Pass,Centre,"Sample.png",320,240
-_F,0,51000,52000,0,1,0.5,1,0
-```
+    Sprite,Pass,Centre,"Sample.png",320,240
+    _F,0,51000,52000,0,1,0.5,1,0
 
 This can apply to as many values as you want (not just 4).
 
@@ -39,11 +35,9 @@ is treated as this:
 
 For instance, to have an image be scaled to half its width and twice its height for two seconds, as well as being 75% opaque, starting from time 1000:
 
-```
-Sprite,Pass,Centre,"Sample.png",320,240
-_V,0,1000,2000,0.5,2
-_F,0,1000,2000,0.75
-```
+    Sprite,Pass,Centre,"Sample.png",320,240
+    _V,0,1000,2000,0.5,2
+    _F,0,1000,2000,0.75
 
 ## Start and End Times are the Same
 
@@ -57,18 +51,14 @@ is treated as this:
 
 For instance, say you have a bunch of commands on an object that cause it to move around the screen, starting at time 1000. But wherever it appears, you always want the object to be 50% opaque. Therefore, you can make a single endpoint like so:
 
-```
-Sprite,Pass,Centre,"Sample.png",320,240
-_F,0,1000,,0.5
-_M,0,1000,2000,0,0,320,240
-// ... more M commands
-```
+    Sprite,Pass,Centre,"Sample.png",320,240
+    _F,0,1000,,0.5
+    _M,0,1000,2000,0,0,320,240
+    // ... more M commands
 
 Doing this multiple times will cause the object to quickly jump between values (i.e., no "Tweening", as enabled in the Storyboard Editor). For instance, this causes the image to jump to being fully opaque halfway through the move command
 
-```
-Sprite,Pass,Centre,"Sample.png",320,240
-_F,0,1000,,0.5
-_F,0,1500,,1
-_M,0,1000,2000,0,0,320,240
-```
+    Sprite,Pass,Centre,"Sample.png",320,240
+    _F,0,1000,,0.5
+    _F,0,1500,,1
+    _M,0,1000,2000,0,0,320,240
