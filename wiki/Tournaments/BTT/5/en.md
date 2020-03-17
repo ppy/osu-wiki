@@ -35,6 +35,8 @@ The **Beginner's Taiko Tournament 5** (***BTT5***) was a worldwide double-elimin
 
 ![](img/badge.png "BTT5 winner badge")
 
+Generous donations from ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098), ![][flag_GB] [OhDeMills](https://osu.ppy.sh/users/13592970), and ![][flag_US] [quadrillionaire](https://osu.ppy.sh/users/15139170) helped fund some of the prizes.
+
 ## Organisation
 
 The Beginner's Taiko Tournament 5 was run by various community members.
