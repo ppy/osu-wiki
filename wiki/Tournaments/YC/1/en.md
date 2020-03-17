@@ -106,6 +106,37 @@ The Yuri Cup is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here! (127 MB)](https://mega.nz/#!iAt1VYjZ!J0F0u5BGORbghwRkwmzR1tIV9aiX92wkyKJ2uyWFKWQ)**
+
+- NoMod
+  - [Amamiya Sora - Eternal (Mordred) \[New World\]](https://osu.ppy.sh/beatmapsets/815811#osu/1710926)
+  - [Toromaru - Enigma (Avena) \[Ultra\]](https://osu.ppy.sh/beatmapsets/460380#osu/986939)
+  - [YURRY CANON - Nadeshiko color Heart (kwk) \[Sakase\]](https://osu.ppy.sh/beatmapsets/682996#osu/1451733)
+  - [O2i3 - Capitalism Cannon (AMX) \[Dominance\]](https://osu.ppy.sh/beatmapsets/827791#osu/1734494)
+  - [The Ghost Of 3.13 - Forgotten (Blue Dragon) \[grumd\]](https://osu.ppy.sh/beatmapsets/55560#osu/169841)
+  - [Suda Keina - veil (Axarious) \[AR8\]](https://osu.ppy.sh/beatmapsets/1096386#osu/2291176)
+- Hidden
+  - [WSTR - Eastbound & Down (HanzeR) \[Irre \<3 HanzeR\]](https://osu.ppy.sh/beatmapsets/598677#osu/1271476)
+  - [TJ.Hangneil - Kamui (7odoa) \[SHD\]](https://osu.ppy.sh/beatmapsets/39017#osu/124664)
+  - [GHOSTEMANE - Mercury: Retrograde (Anishina Kodoku) \[Thelema\]](https://osu.ppy.sh/beatmapsets/838193#osu/1754868)
+- HardRock
+  - [SAVE THE QUEEN - EX-Termination (Jenny) \[Combustion\]](https://osu.ppy.sh/beatmapsets/50181#osu/156905)
+  - [Chroma - I (Kawashiro) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/880256#osu/1877959)
+  - [Lindsey Stirling - Crystallize (Nuvolina) \[Blind Collab\]](https://osu.ppy.sh/beatmapsets/947744#osu/1979407)
+- DoubleTime
+  - [Grynpyret - Boba Beach (VINXIS) \[Habanero\]](https://osu.ppy.sh/beatmapsets/327224#osu/726289)
+  - [DJ TOTTO feat. \*spiLa\* - illumina (handsome) \[insane\]](https://osu.ppy.sh/beatmapsets/349883#osu/779441)
+  - [Chris Brown Feat. Busta Rhymes & Lil Wayne - Look At Me Now (Mafiamaster) \[Insane\]](https://osu.ppy.sh/beatmapsets/29859#osu/99997)
+  - [KOTOKO - agony (K-S-O) \[Insane\]](https://bloodcat.com/osu/s/302)
+- FreeMod
+  - [DJKurara - Goodbye (EijiKuinbii) \[grumd's Extra\]](https://osu.ppy.sh/beatmapsets/866436#osu/1968486)
+  - [nobodyknows+ - Kokoro Odoru (toybot) \[bbj's Expert\]](https://osu.ppy.sh/beatmapsets/1020878#osu/2176407)
+  - [loos feat. Meramipop - Starlight Disco (ktgster) \[MASTER\]](https://osu.ppy.sh/beatmapsets/591801#osu/1252258)
+- Tiebreaker
+  - **[Niko - Made Of Fire (Extended Mix) (Mismagius) \[NO ONE CAN STOP ME\]](https://osu.ppy.sh/beatmapsets/1102510#osu/2303231)**
+
 ### Quarterfinals
 
 **[Download the mappack here! (166 MB)](https://mega.nz/#!aeBUQIxR!ubNS6YQKzc6TxYj52bS-2zpQuO3UD2Y8jBtCrv8snPc)**
