@@ -245,6 +245,34 @@ The Yuri Cup is run by various community members.
 
 ## Match results
 
+### Quarterfinals
+
+Saturday, 14 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **安倍-プーチン** | **6** | 3 | MeAqua | [#1](https://osu.ppy.sh/community/matches/59180224) |
+| 11:40 | 0 | **6** | **:flushed:** | [#1](https://osu.ppy.sh/community/matches/59181826) |
+| **Voprossoff Fanclub** | **6** | 4 | Stavros1435 | [#1](https://osu.ppy.sh/community/matches/59190702) |
+| **magblood debil** | **6** | 2 | Milk & Scissors | [#1](https://osu.ppy.sh/community/matches/59192806) |
+| **N** | **6** | 5 | team name #2 | [#1](https://osu.ppy.sh/community/matches/59198026) |
+| **Baguette Vodka Salo** | **6** | 5 | rooGya | [#1](https://osu.ppy.sh/community/matches/59198798) |
+| Yuritarded | 4 | **6** | **Suce** | [#1](https://osu.ppy.sh/community/matches/59201739) |
+| Urushihara Fan Club | 5 | **6** | **Ricky Montgomery** | [#1](https://osu.ppy.sh/community/matches/59203577) |
+
+Sunday, 15 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Voprossoff Fanclub** | **6** | 2 | :flushed: | [#1](https://osu.ppy.sh/community/matches/59218709) |
+| **Futon's Bunker** | **6** | 0 | Justice for Riko | [#1](https://osu.ppy.sh/community/matches/59219906) |
+| **a la verga** | **6** | 1 | Sakura Trick | [#1](https://osu.ppy.sh/community/matches/59222476) |
+| Dziadzia team | 5 | **6** | **Rtzero x Rtzer0** | [#1](https://osu.ppy.sh/community/matches/59223430) |
+| **安倍-プーチン** | **6** | 0 | Ricky Montgomery | [#1](https://osu.ppy.sh/community/matches/59225604) |
+| **N** | **6** | 0 | magblood debil | [#1](https://osu.ppy.sh/community/matches/59231330) |
+| Hyouri Ittai | 2 | **6** | **Corim's Bad Dream** | [#1](https://osu.ppy.sh/community/matches/59233174) |
+| Suce | 2 | **6** | **Baguette Vodka Salo** | [#1](https://osu.ppy.sh/community/matches/59234606) |
+
 ### Round of 16
 
 Saturday, 7 March 2020:
