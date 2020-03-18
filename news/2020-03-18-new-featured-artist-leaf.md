@@ -24,7 +24,7 @@ Check out this [Loved beatmap](https://osu.ppy.sh/beatmapsets/884669) by [Mr Hel
 
 ### Calamity Fortune
 
-Check out this [extremely popular classic beatmap](https://osu.ppy.sh/beatmapsets/65855) hosted by [Flower](https://osu.ppy.sh/users/1033017)!
+Check out this [extremely popular classic beatmap](https://osu.ppy.sh/beatmapsets/96103) hosted by [Flower](https://osu.ppy.sh/users/1033017)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/73/previews/1984.mp3" type="audio/mpeg">
