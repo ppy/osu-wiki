@@ -21,6 +21,7 @@ Cirklarna är på nedre skärmen, och en berättelse visas på övre skärmen. V
 *Tutorial: [osu! tutorial (new beginnings)](https://osu.ppy.sh/beatmapsets/1011011)*
 
 Spelet lägger betoning på:
+
 - Anpassning och reaktion till stimulering (med andra ord, de träffbara objekten som dyker upp överallt på skärmen mycket snabbt).
 - Förståelse för låtens rytm och design.
 - Hantering av inmatningsmetod.
@@ -59,7 +60,7 @@ Den lilla rutan nedanför spinnern visar varv per minut. Talet är alltså antal
 
 På ett *DS* är det lämpligt att rita cirklar på touch-skärmen (eller skärmskyddet), speciellt på högre svårighetsgrader. I osu! har spinners tonats ner för att inte vara så besvärliga att avklara. Det högsta möjliga antalet varv per minut är 477. Detta är också hur snabbt [Auto](/wiki/Game_Modifiers)-spelmodifieraren snurrar, medan [Spun Out](/wiki/Game_Modifiers)-spelmodifieraren snurrar i en lägre fart av 287 varv per minut.
 
-##### Spelets gränssnitt
+#### Spelets gränssnitt
 
 ![osu! interface](/wiki/shared/Interface_osu.jpg "Gränssnittet i osu!")
 
@@ -106,6 +107,7 @@ Klicka på `Mode`-knappen för att **öppna en lista på tillgängliga spelläge
 ![Taiko playfield](/wiki/shared/Taiko_playfield.jpg "Spelfältet i osu!taiko")
 
 För spelare med tidigare erfarenhet med *Taiko no Tatsujin*:
+
 - Inga chibi-dansare längst ner (måste vara storyboardat)
 - Det krävs minst 50% hälsa för att avklara låtar (vilket inte är riktigt uppbenbart med standard skin; var god se [Skin Compendium](https://osu.ppy.sh/community/forums/topics/686664) för ett bra osu!taiko-skin)
 - *Kiai Time* startar *"Go-Go Time"*
@@ -174,7 +176,7 @@ Istället för att trycka på cirklar till rytmen, kontrollera fångaren längst
 
 ##### Spelfältet
 
-![osu!catch playfield difference between CS2 and CS7](/wiki/shared/Catch_Playfield_27.jpg "skillnad i spelfältet i osu!catch baserat på CS")
+![osu!catch playfield difference between CS2 and CS7](/wiki/shared/Catch_Playfield_27.jpg "skillnad i spelfältet i osu!catch beroende på CS")
 
 Zoomnivån är baserad på CS (Cirkelstorlek) -inställning, där lägre CS betyder mer inzoomat och mindre yta, medan högre CS betyder mycket utzoomat och större spelfält.
 
@@ -297,9 +299,9 @@ Det finns två olika tangentbindningar, *Symmetrisk* och *Vänter till Höger*.
 
 ## Poängräkning
 
-*Detaljerad förklaring hittas i motsvarande artikel för spelläget eller i [the Score page](/wiki/Score)).*
+*Detaljerad förklaring för poängräkning hittas i spellägets motsvarande artikel eller i [the Score page](/wiki/Score).*
 
-*Detaljerad förklaring för beräkning av träffsäkerhet hittas i motsvarande artikel för spelläget eller i [the Accuracy page](/wiki/Accuracy).*
+*Detaljerad förklaring för beräkning av träffsäkerhet hittas i spellägets motsvarande artikel eller i [the Accuracy page](/wiki/Accuracy).*
 
 ### Rang
 
@@ -374,17 +376,17 @@ För frågor angående pp, var god läs [wiki-sidan för pp först](/wiki/Perfor
 
 ### Allmänt
 
-##### Varifrån laddar jag ner beatmaps?
+#### Varifrån laddar jag ner beatmaps?
 
 *Detaljerad förklaring av beatmaps: [Beatmaps](/wiki/Beatmaps)*
 
 I huvudsidan, under *[Beatmaps](https://osu.ppy.sh/beatmapsets)*. Kom ihåg att logga in i hemsidan med en *osu!konto* för att kunna ladda ner beatmaps från hemsidan.
 
-##### Kan jag stänga av Kiai Time?
+#### Kan jag stänga av Kiai Time?
 
 **Nej**, eftersom till skillnad från video är det integrerat i spelet (som en del av hitobjekt) och därmed kan inte stängas av.
 
-##### Mapparna är för svåra! Vart kan jag hitta enklare maps?
+#### Mapparna är för svåra! Vart kan jag hitta enklare maps?
 
 För osu! har **Pokebis** kompilerat en mängd beatmaps lämpliga för nybörjare. De kan hittas [här](https://osu.ppy.sh/community/forums/topics/5456).
 
