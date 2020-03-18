@@ -366,7 +366,7 @@ Det finns två olika tangentbindningar, *Symmetrisk* och *Vänter till Höger*.
 
 *Fullständig förklaring: [Performance Points](/wiki/Performance_Points)*
 
-Prestanda (pp) är ett prestationsmått med syfte till att vara relevant i context för ett kontinuöst spel som osu!. Dess målsättning är att skifta fokus från att vara antalet tid spelat till att reflektera den egentliga skickligheten hos spelaren. Prestanda baseras kraftigt på hur svår en beatmap är, beräknad av en unik algoritm för varje spelläge. Grundat på endast denna svårighetsgrad värderas varje prestation som sedan får ett pp-värde. Prestanda är i överlag baserad på prestationer i individuella beatmaps. Det enklaste sättet att förbättras är att få höga antal poäng på svåra låtar, och genom att spela genom flera låtar. Notera att spellägena räknas separat; att spela osu!, osu!taiko, osu!catch eller osu!mania höjer pp-värdet för respektive spelläge.
+Prestanda (pp) är ett prestationsmått med syfte till att vara relevant i kontext för ett kontinuöst spel som osu!. Dess målsättning är att skifta fokus från att vara antalet tid spelat till att reflektera den egentliga skickligheten hos spelaren. Prestanda baseras kraftigt på hur svår en beatmap är, beräknad av en unik algoritm för varje spelläge. Grundat på endast denna svårighetsgrad värderas varje prestation som sedan får ett pp-värde. Prestanda är i överlag baserad på prestationer i individuella beatmaps. Det enklaste sättet att förbättras är att få höga antal poäng på svåra låtar, och genom att spela genom flera låtar. Notera att spellägena räknas separat; att spela osu!, osu!taiko, osu!catch eller osu!mania höjer pp-värdet för respektive spelläge.
 
 För frågor angående pp, var god läs [wiki-sidan för pp först](/wiki/Performance_Points).
 
@@ -398,7 +398,7 @@ För osu!mania har **Entozer** kompilerat en hygglig lista sorterad efter svåri
 
 Alternativt går det med sökfältet på hemsidan att [sortera efter ökande svårighetsgrad](https://osu.ppy.sh/beatmapsets?sort=difficulty_asc). De enklaste mapparna är längst upp på listan.
 
-Slutligen har **Rivenation** gjort ett projekt [advancerad beatmap-sökning](https://osu.ppy.sh/community/forums/topics/380485), kallad [osu!search](http://osusearch.com), vilket har utöver hemsidans funktioner ytterligare funktioner som kan leta upp beatmaps med väldigt specifika krav. Detta inofficiella beatmap-sökvertyg kan hittas med [denna länk](https://osusearch.com).
+Slutligen har **Rivenation** gjort ett projekt för [advancerad beatmap-sökning](https://osu.ppy.sh/community/forums/topics/380485), kallad [osu!search](http://osusearch.com), vilket har utöver hemsidans funktioner ytterligare funktioner som kan leta upp beatmaps med väldigt specifika krav. Detta inofficiella beatmap-sökvertyg kan hittas med [denna länk](https://osusearch.com).
 
 #### Vad gör min Level, på profilen, egentligen?
 
@@ -485,11 +485,11 @@ Dessa situationer kallas tillsammans för **sliderbreak**. En *Perfect* på pres
 
 ### osu!taiko
 
-#### Vad gör `Använd Taiko skin för Taiko-läge`?
+#### Vad gör "Använd Taiko skin för Taiko-läge"?
 
 Denna inställning fungerar bara om det finns en mapp som heter `taiko` (versalisering spelar ingen roll) i `Skins`-mappen i `osu!`-mappen.
 
-När den är aktiverad, tar skin-element i `taiko`-mappen prioritet över aktuella skinnets taiko-element i osu!taiko-spelläget. Om `taiko`-mappen inte hittades, eller om inställningen inaktiveras, används aktuella skinnets taiko-element om de finns. Annars används standardet om alla/vissa taiko skin-element inte hittades.
+När den är aktiverad, tar skin-element i `taiko`-mappen prioritet över aktuella skinnets taiko-element i osu!taiko-spelläget. Om `taiko`-mappen inte hittades, eller inaktiverad, används aktuella skinnets taiko-element om de finns. Annars används standardet om alla/vissa taiko skin-element inte hittades.
 
 **Antik notis:** `taiko`-mappen brukade innehålla *[Taiko by LuiginHann](https://osu.ppy.sh/community/forums/topics/41319)*-skinnet, som kunde laddas ner från `osume.exe` (osu! uppdaterare för när osu! behövde uppdateras; numera används den inte) i Skin-fliken. Eftersom knappen inte kontrollerade om mappen innehöll element från *LuigiHann's skin*, märktes det snabbt att den kunde användas som en personlig global mapp för osu!taiko-skin.
 
