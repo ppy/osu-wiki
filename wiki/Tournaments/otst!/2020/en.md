@@ -215,7 +215,7 @@ Saturday, 14 March 2020:
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **= Y A H E** | **5** | 0 | STOOF CLONES | [#1](https://osu.ppy.sh/community/matches/59174978) |
-| nakapagpabagabag | 3 | 5 | **KasuLewd** | [#1](https://osu.ppy.sh/community/matches/59176904) |
+| nakapagpabagabag | 3 | **5** | **KasuLewd** | [#1](https://osu.ppy.sh/community/matches/59176904) |
 | **osim** | **6** | 5 | o!CLWS大学赛冬季2020 | [#1](https://osu.ppy.sh/community/matches/59176902) |
 | **Floating up** | **5** | 1 | WE LOVE LWMF! | [#1](https://osu.ppy.sh/community/matches/59181339) |
 | Morello crew | -1 | **0** | **Old & Irrelevant** | *win by default* |
@@ -230,7 +230,7 @@ Sunday, 15 March 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| china | 3 | 5 | **IshuzokuRebyuāzu** | [#1](https://osu.ppy.sh/community/matches/59211472) |
+| china | 3 | **5** | **IshuzokuRebyuāzu** | [#1](https://osu.ppy.sh/community/matches/59211472) |
 | Smile and wave | -1 | **0** | **BRATVA I KOLCO** | *win by default* |
 | **seusbruk** | **5** | 0 | Kangaroo | [#1](https://osu.ppy.sh/community/matches/59223212) |
 | **riuzaky homo** | **5** | 4 | Mirash Fanclub | [#1](https://osu.ppy.sh/community/matches/59231301) |
