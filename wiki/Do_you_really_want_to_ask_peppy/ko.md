@@ -8,7 +8,7 @@
 
 ## 일반적인 osu! 지원
 
-계정 문제, 결제 문제, 밴 및 그 후속 조치, 토너먼트에 관한 질문 및 **무엇이든지 osu!와 관련해서 도움이 필요하시다면**, [accounts@ppy.sh](mailto:accounts@ppy.sh)(계정 관련 문의) 혹은 [osu@ppy.sh](mailto:osu@ppy.sh)(기타 문의)로 메일을 주시기 바랍니다.
+계정 문제, 결제 문제, 밴 및 그 후속 조치, 토너먼트에 관한 질문 등 **무엇이든지 osu!와 관련해서 도움이 필요하시다면**, [accounts@ppy.sh](mailto:accounts@ppy.sh)(계정 관련 문의) 혹은 [osu@ppy.sh](mailto:osu@ppy.sh)(기타 문의)로 메일을 주시기 바랍니다.
 
 ## peppy에게 연락하기
 
