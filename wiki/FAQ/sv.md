@@ -512,7 +512,7 @@ Var god följ dessa steg:
    - Sätt BeatmapID:n till 0
    - Sätt BeatmapSetID till -1
 
-## Medverkande
+## Källor
 
 - Tidigare FAQ från peppy (`/p/faq/`, som denna sida var baserad på; numera borttaget)
 - Pokebis's Beginner's Training [\[1\]](https://osu.ppy.sh/community/forums/topics/5456 "Beginner Training by Pokebis")
