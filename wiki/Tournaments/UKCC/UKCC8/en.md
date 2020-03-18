@@ -111,10 +111,10 @@ UK is run by many wonderful people, this list doesn't fully represent how many a
 | Position | Member(s) |
 | :-- | :-- |
 | Host(s) | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972)  |
-| Referee | ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), *tba* |
-| Commentator | *tba* |
-| Streamer | ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), *tba* |
-| Mappooler | *tba* |
+| Referee | ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973), ![][flag_GB] [Domblade](https://osu.ppy.sh/users/6701945), ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_PL] [Marzale](https://osu.ppy.sh/users/5194043), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_DE] [TheHunter1](https://osu.ppy.sh/users/6496016), ![][flag_BE] [DraQeu](https://osu.ppy.sh/users/4425520), ![][flag_TW] [MuChin](https://osu.ppy.sh/users/9834516) |
+| Commentator | ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [majoreh](https://osu.ppy.sh/users/7959222), ![][flag_GB] [hlo](https://osu.ppy.sh/users/2232928), ![][flag_GB] [Best459](https://osu.ppy.sh/users/8185366), ![][flag_GB] [Gazzzaa](https://osu.ppy.sh/users/8624512), ![][flag_GB] [SteffoST](https://osu.ppy.sh/users/6566765), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147), ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761), ![][flag_US] [M I L E S](https://osu.ppy.sh/users/6036351), ![][flag_GB] [sut_son](https://osu.ppy.sh/users/9622163) |
+| Streamer | ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_GB] [Damarsh](https://osu.ppy.sh/users/7465147), ![][flag_GB] [Kingling](https://osu.ppy.sh/users/7010761) |
+| Mappooler | ![][flag_US] [\_p0ke\_](https://osu.ppy.sh/users/5434711), ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507) |
 | Statistician | ![][flag_NO] [Yokespai](https://osu.ppy.sh/users/6399568) |
 | Designer | ![][flag_GB] [Melonturtle](https://osu.ppy.sh/users/4775283) |
 
@@ -190,6 +190,16 @@ Please enjoy game 🙏
 *Written by ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972)*
 
 <!-- Assets -->
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
