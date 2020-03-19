@@ -2,7 +2,7 @@
 
 ## Introduktion till osu!
 
-### Jag har aldrig spelat denna "Ouendan" grejen - vad är det?
+### Jag har aldrig spelat den här "Ouendan" grejen - vad är det?
 
 *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* är ett rytmspel för *Nintendo DS*. Spelet går ut på att trycka på cirklar, dra en boll längs en bana och snurra på en spinner väldigt snabbt på en touch-skärm. Dessa är synkroniserade i takt med (covers av) populära japanska låtar. Så här ser det ut på ett DS:
 
@@ -44,7 +44,7 @@ För att förstå den dolda charmen av hit-cirklar, använd inte endast dina sin
 
 ![Sliders](/wiki/shared/osu_slider.jpg "osu! sliders")
 
-Tryck först på den vid rätt tillfälle. men det slutar inte där. En boll kommer att börja röra sig längs banan. Tryck och håll in mus- eller tangentbordsknappen (eller tryck på ritplattan med pennan) och följ bollen innanför den orangea cirkeln, som syns runt bollen, genom hela dess färd. Den yttre orangea cirkeln, så kallad follow-cirkel, syns då sliderns boll är nedtryckt, men försvinner när den släpps.
+Tryck först på den vid rätt tillfälle, men det slutar inte där. En boll kommer att börja röra sig längs banan. Tryck och håll in mus- eller tangentbordsknappen (eller tryck på ritplattan med pennan) och följ bollen innanför den orangea cirkeln, som syns runt bollen, genom hela dess färd. Den yttre orangea cirkeln, så kallad follow-cirkel, syns då sliderns boll är nedtryckt, men försvinner när den släpps.
 
 Ibland, såsom på bilden ovan, kan bollen vända om och börja gå i motsatt rikting. Då måste spelaren följa den tillbaka till början av slidern eller vice versa. Detta sker vid en vändningspil vid cirkeln i slutet/början av slidern.
 
