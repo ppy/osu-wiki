@@ -6,7 +6,6 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 
 | Name | Past roles |
 | :-- | :-- |
-| ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) | NAT |
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | BAT, GMT |
 | ![][flag_ID] [-SiN-](https://osu.ppy.sh/users/10560) | Chat Moderator |
 | ![][flag_HU] [[ Another ]](https://osu.ppy.sh/users/3416573) | Chat Moderator, GMT |
@@ -20,6 +19,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_CA] [An64fan](https://osu.ppy.sh/users/38836) | BAT |
 | ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599) | GMT |
 | ![][flag_IT] [Armin](https://osu.ppy.sh/users/105902) | BAT |
+| ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) | NAT |
 | ![][flag_FI] [Asphyxia](https://osu.ppy.sh/users/1715720) | BAT, GMT, QAT |
 | ![][flag_CN] [Atrue](https://osu.ppy.sh/users/1758523) | GMT |
 | ![][flag_CA] [awp](https://osu.ppy.sh/users/2650) | GMT |
