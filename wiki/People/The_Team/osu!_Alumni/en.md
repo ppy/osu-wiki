@@ -84,7 +84,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_JP] [Guy](https://osu.ppy.sh/users/91738) | BAT, Chat Moderator, QAT |
 | ![][flag_RU] [h3k1ru](https://osu.ppy.sh/users/291211) | GMT |
 | ![][flag_NL] [happy30](https://osu.ppy.sh/users/27767) | BAT |
-| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | GMT |
+| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Tournaments |
 | ![][flag_MY] [HeatKai](https://osu.ppy.sh/users/332555) | Chat Moderator |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | GMT |
 | ![][flag_US] [Hitoshirenu Shourai](https://osu.ppy.sh/users/602) | BAT |
