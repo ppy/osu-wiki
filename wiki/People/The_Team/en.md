@@ -31,6 +31,7 @@ The people listed below are the core of the **osu!team** and are chiefly respons
 | ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! developer, osu!mania lover, bug buster |
 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Project Loved manager, community advisor, Featured Artist outreach |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | General housekeeper, tournament assistant |
+| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | General housekeeper, tournament assistant, wiki maintainer |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Endangered species |
 
 ## User groups
@@ -88,3 +89,4 @@ The following are user groups which are made up of the osu! community members th
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
