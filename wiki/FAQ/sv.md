@@ -495,7 +495,7 @@ När den är aktiverad, tar skin-element i `taiko`-mappen prioritet över aktuel
 
 ### Beatmapping
 
-#### "This beatmap you're trying to submit isn't owned by you!"
+#### "Beatmapen du försöker ladda upp ägs inte av dig!"
 
 *Endast för orankade beatmaps.*
 
