@@ -11,7 +11,7 @@ tags:
 
 ![Introduction](img/intro.png)
 
-The **UK Community Cup 8** (***UKCC 7***) is the eigth edition of the bi-annual UK Community Cup, a tournament series for those who live in or are from the ![][flag_GB] UK or ![][flag_IE] Ireland. This edition is a 2v2.
+The **UK Community Cup 8** (***UKCC 8***) is the eigth edition of the bi-annual UK Community Cup, a tournament series for those who live in or are from the ![][flag_GB] UK or ![][flag_IE] Ireland. This edition is a 2v2.
 
 ## Links
 
@@ -29,7 +29,7 @@ The **UK Community Cup 8** (***UKCC 7***) is the eigth edition of the bi-annual 
 ![Rules](img/rules.png)
 
 - The structure of the tournament will be:
-  1. Groups
+  1. Qualifier
   2. Double Elimination Bracket
 - To be able to participate, players must have an **![][flag_GB] Great Britain or ![][flag_IE] Irish flag or be able to provide proof of residency to the hosts.**
 - The total rank of both players must not be below **1,000**. Any teams that do not meet this criteria will be removed from the tournament.
@@ -61,13 +61,14 @@ The **UK Community Cup 8** (***UKCC 7***) is the eigth edition of the bi-annual 
 
 ### Banning
 
-- Group Stage and RO32: teams will have ONE ban.
-- RO16 Onwards: teams will have TWO bans.
+- Qualifiers there are no bans.
+- RO32, teams will have **one** ban.
+- RO16 onwards, teams will have **two** bans.
 - Teams have 2 minutes to ban a map. Failure to ban a map within this time limit results in a lost ban.
 
 ### Warmups
 
-- There will be no warmups in Group Stage. After this, warmup maps must be a submitted beatmap, and have a drain time of 4 minutes or less.
+- There will be no warmups during the qualifiers. After this, warmup maps must be a submitted beatmap, and have a drain time of 4 minutes or less.
 
 ### Picking
 
@@ -84,7 +85,7 @@ The **UK Community Cup 8** (***UKCC 7***) is the eigth edition of the bi-annual 
 | --: | :-- |
 | Signups open | 2020-02-20 |
 | Signups close | 2020-03-15 |
-| Group stage | 2020-03-28/2020-03-29 |
+| Qualifier | 2020-03-28/2020-03-29 |
 | Round of 32 | 2020-04-04/2020-04-05 |
 | Round of 16 + losers round 1 | 2020-04-11/2020-04-12 |
 | Quarter finals + losers round 2/3 | 2020-04-18/2020-04-19 |
