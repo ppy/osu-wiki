@@ -6,6 +6,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 
 | Name | Past roles |
 | :-- | :-- |
+| ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) | NAT |
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | BAT, GMT |
 | ![][flag_ID] [-SiN-](https://osu.ppy.sh/users/10560) | Chat Moderator |
 | ![][flag_HU] [[ Another ]](https://osu.ppy.sh/users/3416573) | Chat Moderator, GMT |
