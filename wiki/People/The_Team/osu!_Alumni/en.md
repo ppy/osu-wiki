@@ -62,7 +62,7 @@ The [osu! Alumni group page](https://osu.ppy.sh/groups/16) lists all of the memb
 | ![][flag_AU] [Duoprism](https://osu.ppy.sh/users/7186) | BAT |
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | osu!dev |
 | ![][flag_US] [EiJi](https://osu.ppy.sh/users/2024) | BAT |
-| ![][flag_KR] [Endroll](https://osu.ppy.sh/users/1399551) | GMT |
+| ![][flag_KR] [Elfin](https://osu.ppy.sh/users/1399551) | GMT |
 | ![][flag_CO] [ErunamoJAZZ](https://osu.ppy.sh/users/1869764) | Chat Moderator, GMT |
 | ![][flag_FI] [ethox](https://osu.ppy.sh/users/441380) | Chat Moderator |
 | ![][flag_MY] [ExPew](https://osu.ppy.sh/users/665612) | QAT |
