@@ -36,7 +36,7 @@ Dessa är avgörande färdigheter för att bli en *osu! rytm-mästare*. Det för
 
 ![Hit circles](/wiki/shared/osu_hitcircles.jpg "osu! hit-cirklar")
 
-En tunn approach-cirkel med liknande färg utanpå hitcirkeln krymper ständigt med tiden. Tryck på noten precis då den vidrör den vita kanten av hit-cirkeln. Ett poängtal visas efteråt följd av ändring i hälsa beroende på hur noga noten träffades i takt med låten. Hit-cirkeln försvinner efter poängantalet.
+En tunn approach-cirkel med liknande färg utanpå hit-cirkeln krymper ständigt med tiden. Tryck på noten precis då den vidrör den vita kanten av hit-cirkeln. Ett poängtal visas efteråt följd av ändring i hälsa beroende på hur noga noten träffades i takt med låten. Hit-cirkeln försvinner efter poängantalet.
 
 För att förstå den dolda charmen av hit-cirklar, använd inte endast dina sinnen; känn beatmappens takt och rytm. Det kommer att hjälpa klara av några av de visuellt komplexa mönster av hit-cirklar som finns i högre svårighetsgrader.
 
@@ -44,19 +44,19 @@ För att förstå den dolda charmen av hit-cirklar, använd inte endast dina sin
 
 ![Sliders](/wiki/shared/osu_slider.jpg "osu! sliders")
 
-Tryck först på den vid rätt tillfälle, men det slutar inte där. En boll kommer att börja röra sig längs banan. Tryck och håll in mus- eller tangentbordsknappen (eller tryck på ritplattan med pennan) och följ bollen innanför den orangea cirkeln, som syns runt bollen, genom hela dess färd. Den yttre orangea cirkeln, så kallad follow-cirkel, syns då sliderns boll är nedtryckt, men försvinner när den släpps.
+Tryck först på den vid rätt tillfälle, men det slutar inte där. En boll kommer att börja röra sig längs banan. Tryck och håll in musknappen eller tangenten (eller tryck på ritplattan med pennan) och följ bollen innanför den orangea cirkeln, som syns runt bollen, genom hela dess färd. Den yttre orangea cirkeln, så kallad follow-cirkel, syns då sliderns boll är nedtryckt, men försvinner när den släpps.
 
-Ibland, såsom på bilden ovan, kan bollen vända om och börja gå i motsatt rikting. Då måste spelaren följa den tillbaka till början av slidern eller vice versa. Detta sker vid en vändningspil vid cirkeln i slutet/början av slidern.
+Ibland, såsom på bilden ovan, kan bollen vända om och börja gå i motsatt riktning. Då måste spelaren följa den tillbaka till början av slidern eller vice versa. Detta sker vid en vändningspil vid cirkeln i slutet/början av slidern.
 
 ##### Spinners
 
 ![Spinner](/wiki/shared/osu_spinner.jpg "osu! spinner")
 
-Tryck och håll in mus- eller tangentbordsknappen (eller tryck på ritplattan med pennan). Använd sedan musen (eller pennan) för att rotera muspekaren runt spinnerns mittpunkt åt valfri håll tills spinner-cirkeln har växt till fullständig storlek. En *Clear*-notis dyker då upp för att indikera att spinnern är avklarad. Ifall spinnern blev avklarad tidigt, fortsätt snurra för att få bonuspoäng och hälsa.
+Tryck och håll in musknappen eller tangenten (eller tryck på ritplattan med pennan). Använd sedan musen (eller pennan) för att rotera muspekaren runt spinnerns mittpunkt åt valfritt håll tills spinner-cirkeln har växt till fullständig storlek. En *Clear*-notis dyker då upp för att indikera att spinnern är avklarad. Ifall spinnern blev avklarad tidigt, fortsätt snurra för att få bonuspoäng och hälsa.
 
 Den yttre vita cirkeln visar hur mycket tid det finns kvar för att klara av spinnern. Den blir röd när tiden börjar rinna ut. Äldre beatmaps, som använder *skin version 1.0*, har istället en mätare som visar kvarstående tid.
 
-Den lilla rutan nedanför spinnern visar varv per minut. Talet är alltså antalet möjliga varv ifall spinnern snurras under en minut med nuvarande hastighet. Om mus- eller tangentbordsknappen släpps (eller pennan lyfts från ritplattan) för tidigt, slutar spinnern läsa av rotationen.
+Den lilla rutan nedanför spinnern visar varv per minut. Talet är alltså antalet möjliga varv ifall spinnern snurras under en minut med nuvarande hastighet. Om musknappen eller tangenten släpps (eller pennan lyfts från ritplattan) för tidigt, slutar spinnern läsa av rotationen.
 
 På ett *DS* är det lämpligt att rita cirklar på touch-skärmen (eller skärmskyddet), speciellt på högre svårighetsgrader. I osu! har spinners tonats ner för att inte vara så besvärliga att avklara. Det högsta möjliga antalet varv per minut är 477. Detta är också hur snabbt [Auto](/wiki/Game_Modifiers)-spelmodifieraren snurrar, medan [Spun Out](/wiki/Game_Modifiers)-spelmodifieraren snurrar i en lägre fart av 287 varv per minut.
 
@@ -80,7 +80,7 @@ Hitobjekt i osu! registrerar träffar från alla knappar på enheten, så länge
 
 Om [Relax](/wiki/Game_Modifiers)-spelmodifieraren används, fungerar bara muspekaren. Använd muspekaren för att följa hitobjekten som istället trycks automatiskt. Spinners måste fortfarande avklaras.
 
-Om [Auto Pilot](/wiki/Game_Modifiers)-spelmodifiearen används, fungerar endast knapparna. Muspekaren rör sig automatiskt till varje hitobjekt, som behövs bara tryckas i tid. Spinners kommer att automatiskt snurras i samma fart som [Spun Out](/wiki/Game_Modifiers)-spelmodifieraren.
+Om [Auto Pilot](/wiki/Game_Modifiers)-spelmodifieraren används, fungerar endast knapparna. Muspekaren rör sig automatiskt till varje hitobjekt, som behövs bara tryckas i tid. Spinners kommer att automatiskt snurras i samma fart som [Spun Out](/wiki/Game_Modifiers)-spelmodifieraren.
 
 ---
 
@@ -108,8 +108,8 @@ Klicka på `Mode`-knappen för att **öppna en lista på tillgängliga spelläge
 
 För spelare med tidigare erfarenhet med *Taiko no Tatsujin*:
 
-- Inga chibi-dansare längst ner (måste vara storyboardat)
-- Det krävs minst 50% hälsa för att avklara låtar (vilket inte är riktigt uppbenbart med standard skin; var god se [Skin Compendium](https://osu.ppy.sh/community/forums/topics/686664) för ett bra osu!taiko-skin)
+- Inga chibi-dansare längst ner (måste finnas i storyboard)
+- Det krävs minst 50% hälsa för att avklara låtar (vilket inte är riktigt uppenbart med standard skin; var god se [Skin Compendium](https://osu.ppy.sh/community/forums/topics/686664) för ett bra osu!taiko-skin)
 - *Kiai Time* startar *"Go-Go Time"*
   - Hit-ballonger eller splittade vägar är inte implementerat (bara det grundläggande)
 - Bakgrunder visas annorlunda
@@ -119,7 +119,7 @@ För spelare med tidigare erfarenhet med *Taiko no Tatsujin*:
 
 För nybörjare i osu!taiko: Skärmen är uppdelat i två delar. Den övre innehåller spel-element, medan den nedre innehåller en bild eller en video till beatmappen. I övre delen syns hälsan, vilket till skillnad från andra spellägen börjar tom och måste fyllas upp till minst 50% för att klara av låten. I mitten av övre delen, nedanför hälsan, finns en taiko-trumma på vänstra sidan av ett löpband. Hitobjekt rör sig längs löpbandet från höger till vänster genom en vit cirkel vid taiko-trumman, dom-cirkeln, där hitobjekten ska tryckas. Ovanför taiko-trumman står en animerad taiko-maskot som reagerar baserat på hur träffsäkert hitobjekten trycktes, tillsammans med färgändringar i bakgrunden. Slutligen visas poäng, träffsäkerhet och timer som vanligt i det övre högra hörnet.
 
-Notera att hälsan sjunker inte i osu!taiko, utan det är bara hitobjekt som påverkar hälsan. Kombon bryts inte när spelplanen är tom. Till skillnad från osu! händer milstolpar för kombon varje 50:e träff. Baspoängen multipliceras med tiotalet av kombot, men stannar på 100 (Maximal poängfaktor för poängboosten). Ifall kombot bryts, nollställs poängen till baspoängen. Under *Kiai Time* ger varje lyckad träff 20% mer poäng över dåvarande totala poäng. Poängen som fås syns under träffsäkerheten i rött.
+Notera att hälsan sjunker inte i osu!taiko, utan det är bara hitobjekt som påverkar hälsan. Kombon bryts inte när spelplanen är tom. Till skillnad från osu! händer milstolpar för kombon varje 50:e träff. Baspoängen multipliceras med tiotalet av kombon, men stannar på 100 (Maximal poängfaktor för poängboosten). Ifall kombon bryts, nollställs poängen till baspoängen. Under *Kiai Time* ger varje lyckad träff 20% mer poäng över dåvarande totala poäng. Poängen som fås syns under träffsäkerheten i rött.
 
 ##### Taiko-noter
 
@@ -143,7 +143,7 @@ Trumvirvlar kan ignoreras utan straff på hälsan, eftersom den ökar inte häls
 
 ![Taiko spinner](/wiki/shared/Taiko_spinner.jpg "osu!taiko spinner (denden)")
 
-Slå på inre och yttre delen av trumman **i varannan färg** (alltså röd, blå, röd, blå, röd, blå, ...) tills denden-countern når 0. Färgen i början spelar ingen roll (det går att börja med blå om det önskas). En misslyckad denden ger straff på hälsan, men bryter inte kombot. Denden-countern räknar inte ner ifall samma färg slås efter varandra, bara när den andra färgen slås.
+Slå på inre och yttre delen av trumman **i varannan färg** (alltså röd, blå, röd, blå, röd, blå, ...) tills denden-countern når 0. Färgen i början spelar ingen roll (det går att börja med blå om det önskas). En misslyckad denden ger straff på hälsan, men bryter inte kombon. Denden-countern räknar inte ner ifall samma färg slås efter varandra, bara när den andra färgen slås.
 
 Den ökar inte kombo och påverkar inte hälsan på något sätt. Varje lyckad denden-slag ger 300 poäng och en avklarad denden ger ett perfekt (GREAT) poängantal lika med en stor not.
 
@@ -182,7 +182,7 @@ Zoomnivån är baserad på CS (Cirkelstorlek) -inställning, där lägre CS bety
 
 Fångaren kan röra sig höger och vänster, medan frukter faller från uppifrån ner. Fångaren kan inte bortom väggarna på sidorna av spelfältet.
 
-Alla frukter samlas upp på tallriken tills kombot avslutas och frukterna studsar av. Timing och var de hamnar har ingen betydelse; antingen ges maximal poäng för lyckad fångst eller en miss.
+Alla frukter samlas upp på tallriken tills kombon avslutas och frukterna studsar av. Timing och var de hamnar har ingen betydelse; antingen ges maximal poäng för lyckad fångst eller en miss.
 
 ##### Fruktspår
 
@@ -190,7 +190,7 @@ Alla frukter samlas upp på tallriken tills kombot avslutas och frukterna studsa
 
 Ett typiskt fruktspår två frukter (början och slut), droppar (sliderbana), juicedroppar (sliderticks) och mer för varje vändningspil följd av en omvänd sliderbana. Droppar ger 10 poäng var och är behandlade som 50 på resultatskärmen. Juicedroppar ger 30 poäng var, ökar kombo med 1 och är behandlade som 100 på resultatskärmen.
 
-Kombot bryts ifall juicedroppen missas (eftersom det är en slidertick), men inte om droppar missas. Observera att missade droppar visas inte på den lokala resultatskärmen, men syns på webbsidans ledartavla som *Miss Droplet*, vilket påverkar träffsäkerhet (missad droppe, vilket är 50) och poäng (10 poäng för varje missad droppe).
+Kombon bryts ifall juicedroppen missas (eftersom det är en slidertick), men inte om droppar missas. Observera att missade droppar visas inte på den lokala resultatskärmen, men syns på webbsidans ledartavla som *Miss Droplet*, vilket påverkar träffsäkerhet (missad droppe, vilket är 50) och poäng (10 poäng för varje missad droppe).
 
 ##### Bananer
 
@@ -211,7 +211,7 @@ När hyperfrukten fångas blir fångarens dash en *hyperdash* (precis snabb nog 
 #### Kontroller för fångaren
 
 - Som standard används vänster `<-` (L) och höger pil `->` (R) för att röra fångaren.
-- Tryck och håll in `leftSkift` (D) -knappen med ett av piltangenterna för att genomföra en *dash* åt det hållet dubbelt så fort (indikerat av ett **ljust sken** från fångaren).
+- Tryck och håll in `leftSkift` (D) -knappen med ett av piltangenterna för att genomföra en *dash* åt det hållet dubbelt så fort (indikerat av ett **ljussken** från fångaren).
 
 Positionen av muspekaren har vanligtvis ingen betydelse. Om [Relax](/wiki/Game_Modifiers)-modifieraren används, kontrolleras fångaren med muspekaren istället. Däremot blir blir resultatet inte rankad (eftersom det tar bort svårigheten från osu!catch; fångarens konstanta hastighet och talrikskontroll).
 
@@ -239,7 +239,7 @@ Med [Co-Op](/wiki/Game_Modifiers)-spelmodifieraren delar spelfältet itu och anv
 
 Som standard faller noter uppifrån ner på löpbandet (pilen i början visar åt vilket håll), tangentkontrollerna finns längst ner och dom-linjen ovanför det. Riktningen kan ändras manuellt till nerifrån och upp istället genom `inställningarna`; tryck på `osu!manias utseende` för att välja tangentinställningarna och aktivera `Vänd spelfältet vertikalt (DDR-stil)`.
 
-Hälsan finns på höger sida av löpbandet. Var god notera att hälsan sjunker inte i osu!mania, alltså påverkar bara hitobjekten hälsa. Kombot bryts inte om man trycker på tangenter när det inte finns noter vid dom-linjen.
+Hälsan finns på höger sida av löpbandet. Var god notera att hälsan sjunker inte i osu!mania, alltså påverkar bara hitobjekten hälsa. Kombon bryts inte om man trycker på tangenter när det inte finns noter vid dom-linjen.
 
 **Noternas hastighet** kan ändras genom att trycka på `Ctrl` (eller `Skift`) och `+` (snabbare) / `-` (långsammare) eller bara `F3` (snabbare) / `F4` (långsammare).
 
@@ -247,7 +247,7 @@ Hälsan finns på höger sida av löpbandet. Var god notera att hälsan sjunker 
 
 ![osu!mania's notes](/wiki/shared/Mania_notes.jpg "osu!mania noter")
 
-Noter är hitcirklarna av osu!mania. De fallande noterna måste tryckas när de är över dom-linjen med rätt knapp beroende på vilken tangent den landar på. Flera noter på olika tangenter samtidigt måste också tryckas samtidigt. Poäng ges och visas på skärmen för varje korrekt tangent tryckt till korrekt not.
+Noter är hit-cirklarna av osu!mania. De fallande noterna måste tryckas när de är över dom-linjen med rätt knapp beroende på vilken tangent den landar på. Flera noter på olika tangenter samtidigt måste också tryckas samtidigt. Poäng ges och visas på skärmen för varje korrekt tangent tryckt till korrekt not.
 
 ##### Långa noter
 
@@ -255,13 +255,13 @@ Noter är hitcirklarna av osu!mania. De fallande noterna måste tryckas när de 
 
 Långa noter är motsvarigheten för sliders och spinners i osu!mania. När en lång not når dom-linjen, tryck på start-noten med korrekt tangent, håll in och släpp vid slut-noten av den långa noten.
 
-Hälsa fylls på långsamt under tiden när en lång not hålls itryckt. Beroende på kartläggning av låten är det möjligt att andra långa noter dyker upp medan en tidigare lång not är itryckt.
+Hälsa fylls på långsamt under tiden när en lång not hålls intryckt. Beroende på kartläggning av låten är det möjligt att andra långa noter dyker upp medan en tidigare lång not är intryckt.
 
 #### Kontroller
 
 ![Default Key layouts of osu!mania (Options->Input)](/wiki/shared/Mania_key_layouts.jpg "osu!mania tangentbordslayout")
 
-Det finns två olika tangentbindningar, *Symmetrisk* och *Vänter till Höger*.
+Det finns två olika tangentbindningar, *Symmetrisk* och *Vänster till Höger*.
 
 - *Symmetrisk* stil liknar tangent-layouten av *DJMAX*, där mittentangenten är `Mellanslag` för att likna känslan av att trampa på pedalen i arkadversioner.
   - Mittentangenten motsvarar mittenkolumnen (bara vid udda antal tangenter) och de andra kolumnerna motsvarar tangenterna på deras motsvarande positioner.
@@ -366,7 +366,7 @@ Det finns två olika tangentbindningar, *Symmetrisk* och *Vänter till Höger*.
 
 *Fullständig förklaring: [Performance Points](/wiki/Performance_Points)*
 
-Prestanda (pp) är ett prestationsmått med syfte till att vara relevant i kontext för ett kontinuöst spel som osu!. Dess målsättning är att skifta fokus från att vara antalet tid spelat till att reflektera den egentliga skickligheten hos spelaren. Prestanda baseras kraftigt på hur svår en beatmap är, beräknad av en unik algoritm för varje spelläge. Grundat på endast denna svårighetsgrad värderas varje prestation som sedan får ett pp-värde. Prestanda är i överlag baserad på prestationer i individuella beatmaps. Det enklaste sättet att förbättras är att få höga antal poäng på svåra låtar, och genom att spela genom flera låtar. Notera att spellägena räknas separat; att spela osu!, osu!taiko, osu!catch eller osu!mania höjer pp-värdet för respektive spelläge.
+Prestanda (pp) är ett prestationsmått med syfte till att vara relevant i kontext för ett kontinuerligt spel som osu!. Dess målsättning är att skifta fokus från att vara antalet tid spelat till att reflektera den egentliga skickligheten hos spelaren. Prestanda baseras kraftigt på hur svår en beatmap är, beräknad av en unik algoritm för varje spelläge. Grundat på endast denna svårighetsgrad värderas varje prestation som sedan får ett pp-värde. Prestanda är i överlag baserad på prestationer i individuella beatmaps. Det enklaste sättet att förbättras är att få höga antal poäng på svåra låtar, och genom att spela genom flera låtar. Notera att spellägena räknas separat; att spela osu!, osu!taiko, osu!catch eller osu!mania höjer pp-värdet för respektive spelläge.
 
 För frågor angående pp, var god läs [wiki-sidan för pp först](/wiki/Performance_Points).
 
@@ -398,7 +398,7 @@ För osu!mania har **Entozer** kompilerat en hygglig lista sorterad efter svåri
 
 Alternativt går det med sökfältet på hemsidan att [sortera efter ökande svårighetsgrad](https://osu.ppy.sh/beatmapsets?sort=difficulty_asc). De enklaste mapparna är längst upp på listan.
 
-Slutligen har **Rivenation** gjort ett projekt för [advancerad beatmap-sökning](https://osu.ppy.sh/community/forums/topics/380485), kallad [osu!search](http://osusearch.com), vilket har utöver hemsidans funktioner ytterligare funktioner som kan leta upp beatmaps med väldigt specifika krav. Detta inofficiella beatmap-sökvertyg kan hittas med [denna länk](https://osusearch.com).
+Slutligen har **Rivenation** gjort ett projekt för [advancerad beatmap-sökning](https://osu.ppy.sh/community/forums/topics/380485), kallad [osu!search](http://osusearch.com), vilket har utöver hemsidans funktioner ytterligare funktioner som kan leta upp beatmaps med väldigt specifika krav. Detta inofficiella beatmap-sökverktyg kan hittas med [denna länk](https://osusearch.com).
 
 #### Vad gör min Level, på profilen, egentligen?
 
@@ -428,13 +428,13 @@ Från ikonen för *Inmatning* i *Inställningar* visad ovan, under **Tangentbord
 
 Efter att en beatmap misslyckas, tryck på `F1` för att visa reprisen. Den slutar när skärmen mörknar och *osu!loggan* dyker upp i mitten, istället för att game-over-skärmen. Tryck på grave/tilde (\`/~) -knappen (kan ändras i inställningar: *Ändra tangentbindningar*->**Quick Retry (hold briefly)**) eller håll in `Ctrl` + `R` en kort stund, för att spela upp reprisen igen.
 
-På grund av den non-standarda reprisvyn, tryck på `Esc` för att gå tillbaka till låtlistan. I reprisvyn går det inte att försöka igen på beatmappen. För tillfället fungerar det bara i Solo-läge bara när game-over-skärmen dyker upp. **Denna repris kan inte exporteras.** För att spela in en misslyckad repris, var god använd externa program för tillfället, eftersom osu! har inget stöd för exportering av misslyckade repriser.
+På grund av den icke-standarda reprisvyn, tryck på `Esc` för att gå tillbaka till låtlistan. I reprisvyn går det inte att försöka igen på beatmappen. För tillfället fungerar det bara i Solo-läge bara när game-over-skärmen dyker upp. **Denna repris kan inte exporteras.** För att spela in en misslyckad repris, var god använd externa program för tillfället, eftersom osu! har inget stöd för exportering av misslyckade repriser.
 
 #### Har osu! kortkommandon?
 
 *Fullständig lista: [Shortcut key reference](/wiki/Shortcut_key_reference)*
 
-`Insert`-tangenten (med standard tangentbindning) pausar musiken (om det spelas), stänger av ljud från osu! och gömmer den i *Windows* sidpanel. Spelet återställs till precis hur den var med ett klick på ikonen i sidpanelen. Detta kallas för **Bosstangenten** och kan ändras från insällningarna (*Tangentbord*->*Ändra tangentbindningar*->*Universal*).
+`Insert`-tangenten (med standard tangentbindning) pausar musiken (om det spelas), stänger av ljud från osu! och gömmer den i *Windows* sidopanel. Spelet återställs till precis hur den var med ett klick på ikonen i sidopanelen. Detta kallas för **Bosstangenten** och kan ändras från inställningarna (*Tangentbord*->*Ändra tangentbindningar*->*Universal*).
 
 En annan intressant kortkommando är `Alt`+`Enter`. Den växlar fullskärmsläge i *Inställningar*, men fungerar inte inom en beatmap eller i Multi.
 
@@ -446,7 +446,7 @@ Hela `osu!`-mappen, till och med gömda filer, är det korta svaret. På en ny e
 
 *Fullständig lista: [Game Modes under External Ports section](/wiki/Game_Modes)*
 
-För tillfället har osu! officiellt inget stöd för mobilenheter.
+För tillfället har osu! officiellt inget stöd för mobila enheter.
 
 Det finns dock inofficiella versioner och ett spin-off spel för iOS med egen ledartavla.
 
@@ -455,7 +455,7 @@ Några av de mest notabla versionerna är:
 - ![][osu! icon] opsu! [Windows/OS X/Linux/Android]:
   Java-version av osu! främst gjort av **itdelatrisu** med **fluddokt**s som överförde den till Android.
 - ![][osu!taiko icon] T-Aiko! v2 [Android/iOS]:
-  osu!taiko-spelläget överfört till mobilenheter av **low.moe (Guy-kun) team** med dagliga utmaningar och en helt egen T-Aiko! ledartavla.
+  osu!taiko-spelläget överfört till mobila enheter av **low.moe (Guy-kun) team** med dagliga utmaningar och en helt egen T-Aiko! ledartavla.
 - ![][osu! icon] osu!stream [iOS]:
   Upplev en ny spin-off-version av osu!-spelläget för iOS skapat av osu!-teamet från grunden.
 
@@ -473,11 +473,11 @@ Se till att tangentbindningen för smoke/rök inte är samma som bindningen som 
 
 ![Image showing a slider with slider ticks, with top part during Edit and bottom part during play](/wiki/shared/Sliderticks.png "Slider med slidertick, där överst är under beatmapredigering och nederst är i spelfältet")
 
-En slider har en startcirkel, regelbundna små cirklar s.k. sliderticks, vändningspil (behandlas som en startcirkel; det blir en riktig slider åt motsatt håll), och en avslutande cirkel. Alla dessa delar av slidern ökar kombo. Notera att startcirkeln är värd 30 poäng, sliderticks är värda 10 poäng var, vändningspilar är värda 30 poäng var, och avslutningscirkeln är värd antingen 300 (eller geki), 100 (eller katu), eller 50 poäng beroende på hur bra slidern blev avklarad.
+En slider har en start-cirkel, regelbundna små cirklar s.k. sliderticks, vändningspil (behandlas som en start-cirkel; det blir en riktig slider åt motsatt håll), och en avslutande cirkel. Alla dessa delar av slidern ökar kombo. Notera att start-cirkeln är värd 30 poäng, sliderticks är värda 10 poäng var, vändningspilar är värda 30 poäng var, och avslutningscirkeln är värd antingen 300 (eller geki), 100 (eller katu), eller 50 poäng beroende på hur bra slidern blev avklarad.
 
-Slidertick dyker bara upp inom dess egna slider; om slidertick står för nära början eller slutet av slidern, såsom på bilden ovan, blir den dold av startcirkeln eller avslutningscirkeln. Dolda slidertick räknas fortfarande till kombo och ger poäng, och måste därför plockas upp tillsammans med synliga slidertick. De dyker upp igen om det finns en eller flera vändningspiler och måste återigen plockas upp, fast åt andra hållet.
+Slidertick dyker bara upp inom dess egna slider; om slidertick står för nära början eller slutet av slidern, såsom på bilden ovan, blir den dold av start-cirkeln eller avslutningscirkeln. Dolda slidertick räknas fortfarande till kombo och ger poäng, och måste därför plockas upp tillsammans med synliga slidertick. De dyker upp igen om det finns en eller flera vändningspiler och måste återigen plockas upp, fast åt andra hållet.
 
-Om spelaren missar startcirkeln, någon av slidertickarna eller vändningspunkterna, bryts kombot (ett ljud spelas för att indikera detta om kombot är högt nog) utan att räknas som en miss. Om spelaren emellertid missar avslutningscirkeln bryts kombot inte och den ökar inte, men räknas inte heller som en miss; istället ges 100 (eller katu) för hela slidern, förutsatt att startcirkeln och eventuella slidertick/vändningspilar klarades av. Märkvärdigt är att [Sudden Death](/wiki/Game_Modifiers)-spelmodifieraren tvingar inte en game over även om sliderns avslutningscirkel inte blev träffad (eftersom kombot inte bröts, aktiverades aldrig Sudden Death-effekten).
+Om spelaren missar start-cirkeln, någon av slidertickarna eller vändningspunkterna, bryts kombon (ett ljud spelas för att indikera detta om kombon är högt nog) utan att räknas som en miss. Om spelaren emellertid missar avslutningscirkeln bryts kombon inte och den ökar inte, men räknas inte heller som en miss; istället ges 100 (eller katu) för hela slidern, förutsatt att start-cirkeln och eventuella slidertick/vändningspilar klarades av. Märkvärdigt är att [Sudden Death](/wiki/Game_Modifiers)-spelmodifieraren tvingar inte en game over även om sliderns avslutningscirkel inte blev träffad (eftersom kombon inte bröts, aktiverades aldrig Sudden Death-effekten).
 
 Dessa situationer kallas tillsammans för **sliderbreak**. En *Perfect* på prestationsgrafen indikerar max kombo. Ifall den inte dyker upp, kan det betyda att en sliderbreak har hänt, speciellt om det inte fanns några missar.
 
@@ -497,7 +497,7 @@ När den är aktiverad, tar skin-element i `taiko`-mappen prioritet över aktuel
 
 #### "This beatmap you're trying to submit isn't owned by you!"
 
-*Endast för orankade beatmappar.*
+*Endast för orankade beatmaps.*
 
 ![Example of an .osu file content](/wiki/shared/Beatmap_not_owned.png "Exempel av innehållet i en .osu-fil")
 
