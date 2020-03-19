@@ -58,7 +58,7 @@ Den yttre vita cirkeln visar hur mycket tid det finns kvar för att klara av spi
 
 Den lilla rutan nedanför spinnern visar varv per minut. Talet är alltså antalet möjliga varv ifall spinnern snurras under en minut med nuvarande hastighet. Om musknappen eller tangenten släpps (eller pennan lyfts från ritplattan) för tidigt, slutar spinnern läsa av rotationen.
 
-På ett *DS* är det lämpligt att rita cirklar på touch-skärmen (eller skärmskyddet), speciellt på högre svårighetsgrader. I osu! har spinners tonats ner för att inte vara så besvärliga att avklara. Det högsta möjliga antalet varv per minut är 477. Detta är också hur snabbt [Auto](/wiki/Game_Modifiers)-spelmodifieraren snurrar, medan [Spun Out](/wiki/Game_Modifiers)-spelmodifieraren snurrar i en lägre fart av 287 varv per minut.
+På ett *DS* är det lämpligt att rita cirklar på touch-skärmen (eller skärmskyddet), speciellt på högre svårighetsgrader. I osu! har spinners tonats ner för att inte vara så besvärliga att avklara. Det högsta möjliga antalet varv per minut är 477. Detta är också hur snabbt [Auto](/wiki/Game_Modifiers)-modifieraren snurrar, medan [Spun Out](/wiki/Game_Modifiers)-modifieraren snurrar i en lägre fart av 287 varv per minut.
 
 #### Spelets gränssnitt
 
@@ -78,9 +78,9 @@ Standardkontrollerna i osu! är:
 
 Hitobjekt i osu! registrerar träffar från alla knappar på enheten, så länge varje hitobjekt är tryckta i tid.
 
-Om [Relax](/wiki/Game_Modifiers)-spelmodifieraren används, fungerar bara muspekaren. Använd muspekaren för att följa hitobjekten som istället trycks automatiskt. Spinners måste fortfarande avklaras.
+Om [Relax](/wiki/Game_Modifiers)-modifieraren används, fungerar bara muspekaren. Använd muspekaren för att följa hitobjekten som istället trycks automatiskt. Spinners måste fortfarande avklaras.
 
-Om [Auto Pilot](/wiki/Game_Modifiers)-spelmodifieraren används, fungerar endast knapparna. Muspekaren rör sig automatiskt till varje hitobjekt, som behövs bara tryckas i tid. Spinners kommer att automatiskt snurras i samma fart som [Spun Out](/wiki/Game_Modifiers)-spelmodifieraren.
+Om [Auto Pilot](/wiki/Game_Modifiers)-modifieraren används, fungerar endast knapparna. Muspekaren rör sig automatiskt till varje hitobjekt, som behövs bara tryckas i tid. Spinners kommer att automatiskt snurras i samma fart som [Spun Out](/wiki/Game_Modifiers)-modifieraren.
 
 ---
 
@@ -158,7 +158,7 @@ Standardkontrollerna för osu!taiko är:
 
 Positionen av muspekaren spelar ingen roll.
 
-Om [Relax](/wiki/Game_Modifiers)-spelmodifieraren används, räknas endast slag i rätt rytm (automatiskt korrigerar fel färg med korrekt färg).
+Om [Relax](/wiki/Game_Modifiers)-modifieraren används, räknas endast slag i rätt rytm (automatiskt korrigerar fel färg med korrekt färg).
 
 *TaTaCon*-trumcontroller gjordes i första hand för hem-versioner av *Taiko no Tatsujin* och *Taiko: Drum Master*.
 
@@ -227,9 +227,9 @@ Denna stil används i nästan alla populära rytmspel. Det kräver bra koordinat
 
 Vid konvertering av beatmaps är antalet tangenter mellan ungefär 4 till 7 som standard.
 
-Med the [xK](/wiki/Game_Modifiers)-spelmodifieraren kan spelaren själv välja antalet tangenter från 1 till 9, men med medföljande nedsänkt poängfaktor. Emellertid fungerar spelmodifieraren inte med osu!mania-specifika beatmaps.
+Med the [xK](/wiki/Game_Modifiers)-modifieraren kan spelaren själv välja antalet tangenter från 1 till 9, men med medföljande nedsänkt poängfaktor. Emellertid fungerar den inte med osu!mania-specifika beatmaps.
 
-Med [Co-Op](/wiki/Game_Modifiers)-spelmodifieraren delar spelfältet itu och använder Co-Op-kontroller, vilket tillåter 2 spelare att spela samtidigt med upp till 18 tangenter med en nedsänkt poängfaktor. Notera att ett specificerat antal tangenter fördubblas inte i osu!mania-specifika beatmaps, men spelfältet delas ändå upp på mitten (vänster sida får fler tangenter vid udda antal), använder Co-Op-kontroller och har ingen nedsänkt poängfaktor.
+Med [Co-Op](/wiki/Game_Modifiers)-modifieraren delar spelfältet itu och använder Co-Op-kontroller, vilket tillåter 2 spelare att spela samtidigt med upp till 18 tangenter med en nedsänkt poängfaktor. Notera att ett specificerat antal tangenter fördubblas inte i osu!mania-specifika beatmaps, men spelfältet delas ändå upp på mitten (vänster sida får fler tangenter vid udda antal), använder Co-Op-kontroller och har ingen nedsänkt poängfaktor.
 
 #### Enkel förklaring
 
@@ -351,8 +351,8 @@ Det finns två olika tangentbindningar, *Symmetrisk* och *Vänster till Höger*.
 
 **Speciella rang:**
 
-- Silver SS (SSH) = Vanligt SS-rang med *[Hidden](/wiki/Game_Modifiers)*- och/eller *[Flashlight](/wiki/Game_Modifiers)*-spelmodifierare.
-- Silver S (SH) = Vanligt S-rang med *[Hidden](/wiki/Game_Modifiers)*- och/eller *[Flashlight](/wiki/Game_Modifiers)*-spelmodifierare.
+- Silver SS (SSH) = Vanligt SS-rang med *[Hidden](/wiki/Game_Modifiers)*- och/eller *[Flashlight](/wiki/Game_Modifiers)*-modifierare.
+- Silver S (SH) = Vanligt S-rang med *[Hidden](/wiki/Game_Modifiers)*- och/eller *[Flashlight](/wiki/Game_Modifiers)*-modifierare.
 
 **Angående *Rang* i profilsidan:**
 
@@ -360,7 +360,7 @@ Det finns två olika tangentbindningar, *Symmetrisk* och *Vänster till Höger*.
   - **Offline-prestationer**, även inloggad i kontot, **räknas inte**.
 - **Rang** läggs till i profilsidan beroende på högsta prestation i en rankad/godkänd svårighetsgrad av en beatmap för det spelläget, inte som helhet.
   - Om en beatmap har tre(3) rankade svårighetsgrader och SS-rang uppnås i osu!catch, läggs till tre(3) SS-rang under Ranker av osu!catch-spelläget, inte bara en(1).
-  - Däremot om ett nytt rekord uppnås (genom fler bonuspoäng från spinners eller spelmodifierare) med S-rang på en rankad svårighetsgrad som tidigare avklarats med SS-rang, minskar antalet SS med ett(1) och antalet S ökar med ett(1) istället.
+  - Däremot om ett nytt rekord uppnås (genom fler bonuspoäng från spinners eller modifierare) med S-rang på en rankad svårighetsgrad som tidigare avklarats med SS-rang, minskar antalet SS med ett(1) och antalet S ökar med ett(1) istället.
 
 ## Prestanda
 
@@ -477,7 +477,7 @@ En slider har en start-cirkel, regelbundna små cirklar s.k. sliderticks, vändn
 
 Slidertick dyker bara upp inom dess egna slider; om slidertick står för nära början eller slutet av slidern, såsom på bilden ovan, blir den dold av start-cirkeln eller avslutningscirkeln. Dolda slidertick räknas fortfarande till kombo och ger poäng, och måste därför plockas upp tillsammans med synliga slidertick. De dyker upp igen om det finns en eller flera vändningspiler och måste återigen plockas upp, fast åt andra hållet.
 
-Om spelaren missar start-cirkeln, någon av slidertickarna eller vändningspunkterna, bryts kombon (ett ljud spelas för att indikera detta om kombon är högt nog) utan att räknas som en miss. Om spelaren emellertid missar avslutningscirkeln bryts kombon inte och den ökar inte, men räknas inte heller som en miss; istället ges 100 (eller katu) för hela slidern, förutsatt att start-cirkeln och eventuella slidertick/vändningspilar klarades av. Märkvärdigt är att [Sudden Death](/wiki/Game_Modifiers)-spelmodifieraren tvingar inte en game over även om sliderns avslutningscirkel inte blev träffad (eftersom kombon inte bröts, aktiverades aldrig Sudden Death-effekten).
+Om spelaren missar start-cirkeln, någon av slidertickarna eller vändningspunkterna, bryts kombon (ett ljud spelas för att indikera detta om kombon är högt nog) utan att räknas som en miss. Om spelaren emellertid missar avslutningscirkeln bryts kombon inte och den ökar inte, men räknas inte heller som en miss; istället ges 100 (eller katu) för hela slidern, förutsatt att start-cirkeln och eventuella slidertick/vändningspilar klarades av. Märkvärdigt är att [Sudden Death](/wiki/Game_Modifiers)-modifieraren tvingar inte en game over även om sliderns avslutningscirkel inte blev träffad (eftersom kombon inte bröts, aktiverades aldrig Sudden Death-effekten).
 
 Dessa situationer kallas tillsammans för **sliderbreak**. En *Perfect* på prestationsgrafen indikerar max kombo. Ifall den inte dyker upp, kan det betyda att en sliderbreak har hänt, speciellt om det inte fanns några missar.
 
