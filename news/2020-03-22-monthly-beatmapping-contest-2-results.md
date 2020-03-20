@@ -14,7 +14,7 @@ For those unfamiliar, the **Monthly Beatmapping Contest** (***MBC***) began its 
 
 Votes for all finalists can be found on the [contest's listing](https://osu.ppy.sh/community/contests/89). The main requirement for submissions was that **each could not exceed 4.00 stars.**
 
-**Community vote winner:** **[Voicians - Wolves](LINK)** by **[Aphestra](https://osu.ppy.sh/users/11949191)**, masked as Conspicuous Kite.
+**Community vote winner:** **[Voicians - Wolves](https://assets.ppy.sh/contests/89/entries/Voicians%20-%20Wolves%20(Conspicuous%20Kite).osz?2020)** by **[Aphestra](https://osu.ppy.sh/users/11949191)**, masked as Conspicuous Kite.
 
 Topping with **43** votes, Aphestra's submission made its way to the peak of the community vote poll and was deemed the winner of this month's contest! 
 
@@ -24,7 +24,7 @@ As a reward, Aphestra has earned Monthly Beatmapping Contest's first tier profil
 
 ![](/wiki/shared/news/2020-02-20-monthly-beatmapping-contest-1-results/mbc-badge-1.png)
 
-**Community vote runner-up:** **[Voicians - Wolves](LINK)** by **[UndeadCapulet](https://osu.ppy.sh/users/2523533)**, masked as Reckless Beaver.
+**Community vote runner-up:** **[Voicians - Wolves](https://assets.ppy.sh/contests/89/entries/Voicians%20-%20Wolves%20(Reckless%20Beaver).osz?2020)** by **[UndeadCapulet](https://osu.ppy.sh/users/2523533)**, masked as Reckless Beaver.
 
 Garnering **37** votes, UndeadCapulet's entry barely surpassed the third place entry by 1 vote to rise into second place!
 
