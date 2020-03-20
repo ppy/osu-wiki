@@ -15,6 +15,7 @@ If you’re experienced in mapping and have a desire to take those who are new u
 ---
 
 For this following cycle, the timeline is as follows (all opening and closing dates start and end at midnight UTC+0):
+
 - Mentor sign-ups will open on 2020-03-23 and close on 2020-03-30
 - Mentee sign-ups will open on 2020-04-19 and close on 2020-04-26
 - The 2020 Spring cycle will run from 2020-04-27 to 2020-07-27.
@@ -26,5 +27,3 @@ If any of this interests you or anyone you know, please go to our [forum announc
 We're looking forward to the future mappers of tomorrow!
 
 -yaspo
-
-
