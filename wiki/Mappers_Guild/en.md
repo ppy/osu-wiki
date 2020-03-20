@@ -24,7 +24,7 @@ The [Mappers' Guild website](https://mappersguild.com/) launched on March 1st, 2
 
 Mappers with 3 or more ranked maps can join the guild at any time via the [Mappers' Guild website](https://mappersguild.com/) by authenticating their osu! account. Anyone else is free to view the website's quest and mapping activities.
 
-Mappers can earn rewards by participating in the ranking process for featured artist maps that are connected to the Mappers' Guild. This primarily focuses on creating beatmaps, however rewards are also provided for users who contribute by modding, creating storyboards, and complete quests within the guild.
+Mappers can earn rewards by participating in the ranking process for featured artist maps that are connected to the Mappers' Guild. This primarily focuses on creating beatmaps, however rewards are also provided for users who contribute by modding, creating storyboards, and completing quests within the guild.
 
 ### Parties
 
@@ -36,7 +36,9 @@ Special quests require higher guild ranks to participate in. For a party to qual
 
 Quests reward mappers for following certain requirements when creating their featured artist maps. Usually quests involve creating a certain number of beatmaps for a new featured artist, however some quests involve small gimmicks.
 
-Each quest has its own party size specifications and deadline. Failing to meet a deadline or members leaving the party mid-way through can result in the quest being dropped, lowering a user's points earnings or even penalizing them.
+Each quest has its own party size/rank specifications, price to accept, and deadline. All members of a party must pay the listed price to accept the quest. Prices are usually higher for gimmicky quests and solo quests.
+
+Quests expire after 3 months of inactivity. Any user can re-open quests by spending their available pool of Mappers' Guild points.
 
 Quest participation is not required for members of the Mappers' Guild. If a user wants to, they may create beatmaps alone to earn rewards.
 
@@ -44,6 +46,8 @@ Quest participation is not required for members of the Mappers' Guild. If a user
 
 Rewards are distributed through a points system. When a user reaches a specified points threshold, they earn a different rank signified by a profile badge. There are three profile badge tiers at 100, 250, and 500 points respectively.
 
+Rewards are based on a user's total points. A user's available points are a subsection of their total points following the same model as osu!'s [kudosu](/wiki/Beatmap_Discussion#kudosu!) "total earned" and "available" pools.
+
 Points are earned for different mapping-related tasks. Earnings vary between tasks, though they are generally weighted according to the amount of time required. For example, mapping a `Hard` difficulty takes more time than mapping an `Easy` difficulty, so the first rewards more points than the second. 
 
-Difficulty creation tasks earn a user more points if the beatmap is associated with a quest. Completing a quest provides users with a pre-determined bonus that varies between each quest.
+Difficulty creation tasks earn a user more points if the beatmap is associated with a quest. Completing a quest before its deadline provides users with bonus points for each difficulty mapped and a flat bonus for all users involved in the quest. This flat bonus is lost after the deadline is passed, however difficulty bonuses are kept with diminishing returns after 0, 20 and 40 day increments beyond the deadline.

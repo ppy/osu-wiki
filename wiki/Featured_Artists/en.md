@@ -26,7 +26,7 @@ New featured artists are announced weekly on osu!'s news feed. Most announcement
 
 ## Community usage
 
-Beatmappers are encouraged to create maps for featured artist tracks. These tracks are provided with timing data and have no risk of DMCA takedowns, allowing a user to immediately jump into mapping without worry. The work-in-progress development build of osu!, dubbed [osu!lazer](https://github.com/ppy/osu/releases), will mark these maps prominently in-game.
+Beatmappers are encouraged to create maps for featured artist tracks. These tracks are provided with timing data and are already cleared for use within osu!, allowing a user to immediately jump into mapping without worry. The work-in-progress development build of osu!, dubbed [osu!lazer](https://github.com/ppy/osu/releases), will mark these maps prominently in-game.
 
 All mapping contests published on the [community contest listing](https://osu.ppy.sh/community/contests/), such as the [Monthly Beatmapping Contest](/wiki/Contests/Monthly_Beatmapping_Contest) and the [Mapping Olympiad](/wiki/Contests#osu!-mapping-olympiad), require participants to map featured artist songs. Some community-run contests utilize these songs as well.
 

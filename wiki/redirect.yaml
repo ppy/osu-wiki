@@ -205,9 +205,9 @@
 "blanket":                     "Glossary#blanket"
 "bn_glossary":                 "Glossary#bn"
 "beatmap_nominator_glossary":  "Glossary#bn"
-"bpm":                         "Glossary#bpm"
-"beat_per_minute":             "Glossary#bpm"
-"beats_per_minute":            "Glossary#bpm"
+"bpm":                         "Beatmapping/Beats_per_minute"
+"beat_per_minute":             "Beatmapping/Beats_per_minute"
+"beats_per_minute":            "Beatmapping/Beats_per_minute"
 "break":                       "Glossary#break"
 "breaks":                      "Glossary#break"
 "bss":                         "Glossary#bss"
@@ -1574,3 +1574,5 @@
 "mapper's_guild": "Mappers_Guild"
 "mappers'_guild": "Mappers_Guild"
 "mg":             "Mappers_Guild"
+
+"sitemap": "Sitemap"
