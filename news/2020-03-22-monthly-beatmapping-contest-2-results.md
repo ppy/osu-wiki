@@ -48,7 +48,7 @@ As per usual, all participants in February's contest received a message showing 
 
 To see a bit more engagement with next month's community vote, we're going to make things easier for you by limiting the finalists to the **top 5** and showcasing video previews for each of them. Let's see how things pan out!
 
-With all that said, we can finally conclude February's MBC. Remember that March's contest is about to end, so if you think you can create a quickly create a map without any slider velocity changes, give its [contest listing](https://osu.ppy.sh/community/contests/91) a peek.
+With all that said, we can finally conclude February's MBC. Remember that March's contest is about to end, so if you think you can quickly create a map without any slider velocity changes, give its [contest listing](https://osu.ppy.sh/community/contests/91) a peek.
 
 Until next month!
 
