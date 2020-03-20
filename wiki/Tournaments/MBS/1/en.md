@@ -52,6 +52,8 @@ The **Mania Beginner's Showdown** (***MBS***) was a worldwide 5 digits double-el
 
 ![](img/badge_low.png "MBS low division winner badge")
 
+Generous donations from ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098) and ![][flag_GB] [OhDeMills](https://osu.ppy.sh/users/13592970) helped fund some of the prizes.
+
 ## Organisation
 
 The Mania Beginner's Showdown was run by various community members.
@@ -66,7 +68,6 @@ The Mania Beginner's Showdown was run by various community members.
 | Designer | ![][flag_FR] [Ladygril](https://osu.ppy.sh/users/11989065), ![][flag_FR] [Soraga54](https://osu.ppy.sh/users/9920526) |
 | Statistician | ![][flag_FR] [Ladygril](https://osu.ppy.sh/users/11989065), ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517) |
 | Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
-| Contributor | ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098), ![][flag_GB] [OhDeMills](https://osu.ppy.sh/users/13592970) |
 
 ## Links
 
