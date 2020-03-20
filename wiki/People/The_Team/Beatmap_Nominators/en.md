@@ -149,8 +149,8 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
-| ![][flag_KR] [Affirmation](https://osu.ppy.sh/users/6186628) | <!-- TODO --> |
-| ![][flag_JP] [BaAR_Vendel](https://osu.ppy.sh/users/8679346) | <!-- TODO --> |
+| ![][flag_KR] [Affirmation](https://osu.ppy.sh/users/6186628) | Korean |
+| ![][flag_JP] [BaAR_Vendel](https://osu.ppy.sh/users/8679346) | Japanese |
 | ![][flag_RS] [MaridiuS](https://osu.ppy.sh/users/4496961) | Serbian |
 | ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
 | ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | Russian |

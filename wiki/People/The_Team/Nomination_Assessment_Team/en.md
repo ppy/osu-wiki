@@ -56,7 +56,7 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | :-- | :-- | :-- |
 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Cantonese, Chinese | Evaluation |
 | ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817) | German | Evaluation |
-| ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Thai | <!-- TODO --> |
+| ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Thai | Evaluation |
 
 ### osu!catch
 
