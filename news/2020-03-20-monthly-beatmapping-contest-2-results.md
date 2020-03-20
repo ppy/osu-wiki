@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Monthly Beatmapping Contest #1: Results"
-date: 2020-03-21 23:00:00 +0000
+title: "Monthly Beatmapping Contest #2: Results"
+date: 2020-03-20 23:00:00 +0000
 ---
 
 February's Monthly Beatmapping Contest has come to a close. Find out who wears the crown!
