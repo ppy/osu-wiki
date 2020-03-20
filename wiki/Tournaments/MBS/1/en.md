@@ -112,11 +112,21 @@ The Mania Beginner's Showdown was run by various community members.
 
 This competition has come to an end and resulted in the following podium:
 
+### High division
+
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_DE] [Malox](https://osu.ppy.sh/users/4516252) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_SE] [Davvyforte](https://osu.ppy.sh/users/10047413) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461) |
+
+### Low division
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_TH] [osu\_player420](https://osu.ppy.sh/users/13018880) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PH] [Wakeupat5](https://osu.ppy.sh/users/13311553) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_VE] [\_Vanslight\_](https://osu.ppy.sh/users/6031119) |
 
 ## Mappools
 
@@ -647,7 +657,9 @@ A player's registration will not count if they are in the top 10,000 of the osu!
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"
