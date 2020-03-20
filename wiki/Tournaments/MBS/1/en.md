@@ -90,6 +90,16 @@ The Mania Beginner's Showdown was run by various community members.
 | Unseeded | ![][flag_BY] [EVAST](https://osu.ppy.sh/users/8195163), ![][flag_BE] [SaitamaXD](https://osu.ppy.sh/users/10561392), ![][flag_FR] [Zulsramno](https://osu.ppy.sh/users/12563193), ![][flag_PL] [esemoka57](https://osu.ppy.sh/users/2272413), ![][flag_HR] [JumpingFox](https://osu.ppy.sh/users/4495778), ![][flag_NZ] [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208), ![][flag_TW] [toxicpie9](https://osu.ppy.sh/users/13376271), ![][flag_CA] [TwillieSparkle](https://osu.ppy.sh/users/8184715), ![][flag_LT] [irinas11](https://osu.ppy.sh/users/12459324) |
 | Eliminated | ![][flag_US] [SydraRose](https://osu.ppy.sh/users/10235283), ![][flag_NZ] [RecenityZ](https://osu.ppy.sh/users/13522010), ![][flag_NL] [Aureuszz](https://osu.ppy.sh/users/12200180), ![][flag_FR] [Raeigis](https://osu.ppy.sh/users/7017490), ![][flag_BR] [Bragaxtv](https://osu.ppy.sh/users/8432447), ![][flag_AU] [NotSparky](https://osu.ppy.sh/users/11853760), ![][flag_BE] [LoriaxLeBg](https://osu.ppy.sh/users/11331829), ![][flag_GB] [SirDuckyBoi](https://osu.ppy.sh/users/12376018), ![][flag_FR] [Soraga54](https://osu.ppy.sh/users/9920526), ![][flag_US] [jojo2020](https://osu.ppy.sh/users/12211556), ![][flag_PH] [\[OMG\] rinkatobi](https://osu.ppy.sh/users/14001102), ![][flag_BR] [Zbr4cker](https://osu.ppy.sh/users/13426529), ![][flag_AR] [Mariano](https://osu.ppy.sh/users/6371395), ![][flag_FR] [icemax123](https://osu.ppy.sh/users/11410252), ![][flag_LT] [kristoks](https://osu.ppy.sh/users/9425854), ![][flag_DE] [NekoEko](https://osu.ppy.sh/users/7761776) |
 
+### Low division
+
+| Seed | Members |
+| :-- | :-- |
+| Top | ![][flag_TH] [osu\_player420](https://osu.ppy.sh/users/13018880), ![][flag_PH] [Wakeupat5](https://osu.ppy.sh/users/13311553), ![][flag_CA] [Adorable Loli](https://osu.ppy.sh/users/7622460), ![][flag_FR] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_NL] [PainTensei](https://osu.ppy.sh/users/8036887), ![][flag_VE] [\_Vanslight\_](https://osu.ppy.sh/users/6031119), ![][flag_FR] [Blacky Design](https://osu.ppy.sh/users/11540165), ![][flag_DE] [antip0is0n](https://osu.ppy.sh/users/8576168) |
+| High | ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946), ![][flag_RU] [Saxarok](https://osu.ppy.sh/users/9619716), ![][flag_GB] [OhDeMills](https://osu.ppy.sh/users/13592970), ![][flag_CA] [Labib](https://osu.ppy.sh/users/4837894), ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_US] [Yeong Yuseong](https://osu.ppy.sh/users/8926244), ![][flag_GB] [Withered Lotus](https://osu.ppy.sh/users/3546931), ![][flag_DE] [YourSenpaiix3](https://osu.ppy.sh/users/8783676) |
+| Low | ![][flag_FR] [Kaho-Hinata](https://osu.ppy.sh/users/8903888), ![][flag_AU] [CherriZ](https://osu.ppy.sh/users/10059663), ![][flag_KR] [Pin\_Point](https://osu.ppy.sh/users/13340203), ![][flag_DE] [supimori](https://osu.ppy.sh/users/10972741), ![][flag_FR] [Skyzouu](https://osu.ppy.sh/users/5222842), ![][flag_PL] [B a i l a s](https://osu.ppy.sh/users/7530046), ![][flag_FR] [ChizuruNYA](https://osu.ppy.sh/users/8619849), ![][flag_UA] [Seridict13](https://osu.ppy.sh/users/12070235) |
+| Unseeded | ![][flag_GB] [Livvo](https://osu.ppy.sh/users/8884687), ![][flag_GT] [ERLIN ERGO](https://osu.ppy.sh/users/10606390), ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_PL] [Asasyn01](https://osu.ppy.sh/users/8013323), ![][flag_DE] [ImKeks](https://osu.ppy.sh/users/6510902) |
+| Eliminated | ![][flag_FR] [0rion125](https://osu.ppy.sh/users/8947731), ![][flag_RU] [creatiorHD](https://osu.ppy.sh/users/12445816), ![][flag_CZ] [Shiroomi707](https://osu.ppy.sh/users/10315265), ![][flag_FR] [Allie Furie](https://osu.ppy.sh/users/13078881), ![][flag_US] [Edwardidk](https://osu.ppy.sh/users/9959346), ![][flag_DE] [Kawaii Kaneki](https://osu.ppy.sh/users/3344333), ![][flag_FR] [Musclor](https://osu.ppy.sh/users/9637676) |
+
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
@@ -636,14 +646,17 @@ A player's registration will not count if they are in the top 10,000 of the osu!
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_BY]: /wiki/shared/flag/BY.gif "Belarus"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CZ]: /wiki/shared/flag/CZ.gif "Czech Republic"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_GT]: /wiki/shared/flag/GT.gif "Guatemala"
 [flag_HR]: /wiki/shared/flag/HR.gif "Croatia"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
@@ -655,7 +668,9 @@ A player's registration will not count if they are in the top 10,000 of the osu!
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
 [flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"
 [flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
