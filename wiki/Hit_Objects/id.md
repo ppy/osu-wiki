@@ -2,9 +2,9 @@
 
 Sebuah benda hit adalah elemen gameplay inti di osu!. Ada tiga jenis objek hit:
 
--   Hit Circle
--   Slider
--   Spinner
+- Hit Circle
+- Slider
+- Spinner
 
 Hit circles dan sliders yang ditemui secara teratur, sementara Spinner hanya muncul sesekali. Segala sesuatu yang Anda berinteraksi dengan selama Beatmap adalah objek hit.
 

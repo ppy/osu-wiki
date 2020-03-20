@@ -210,7 +210,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Beginners' Taiko Tournament Season 2 | 2017-05-04 | 2017-06-25 | Team Yiff | Midnight Demons | Ghostly Kangies |
 | Beginners' Taiko Tournament Season 3 | 2018-02-18 | 2018-04-22 | ![][flag_US] [Trilt](https://osu.ppy.sh/users/9292128) | ![][flag_PT] [Just2Gud](https://osu.ppy.sh/users/4430263) | ![][flag_FI] [Mara](https://osu.ppy.sh/users/194294) |
 | [Beginners' Taiko Tournament 4](BTT/4) | 2019-03-02 | 2019-04-13 | ![][flag_HK] [shikuro\_re](https://osu.ppy.sh/users/9338943) | ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891) | ![][flag_US] [LuriCookie](https://osu.ppy.sh/users/9517612) |
-| [Beginners' Taiko Tournament 5](BTT/5) | 2020-01-18 | 2020-03-08 | *TBD* | *TBD* | *TBD* |
+| [Beginners' Taiko Tournament 5](BTT/5) | 2020-01-25 | 2020-03-15 | ![][flag_DE] [Malox](https://osu.ppy.sh/users/4516252) | ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109) | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) |
 
 ### ![](/wiki/shared/mode/catch.png) Catch French Cup
 
