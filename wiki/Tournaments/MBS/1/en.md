@@ -940,69 +940,30 @@ Sunday, 30 June 2019:
 
 ## Ruleset
 
-### General rules
-
-1. This tournament uses double-elimination bracket and single-player format. There are no teams here.
-2. The score system used will be **Score V2**.
-3. The mapset will be announced **every Sunday**, and the categories are NoMod, Hidden, HardRock, DoubleTime, FreeMod, Tiebreaker.
-4. Match schedule is decided by the organisers. Players may ask for a reschedule if the current schedule does not work for them. Each stage of this tournament will last a weekend.
-5. If there are no referees available, the match can be postponed.
-6. If both players gets a tied score on the Tiebreaker, the Tiebreaker will be replayed.
-7. If a player disconnects from the game, the opponent wins the round. The only exception is if the player disconnects during the first ten seconds of the song, in which the round is restarted.
-8. Maps cannot be used twice in the same round.
-9. Players have 15 minutes to show up to their scheduled match. If the opponent doesn't show up, the player who was supposed to play automatically advances onwards.
-10. Any other rules changes or unexpected occurrences will be announced in the discussion thread.
-
-### Rank restrictions
-
-A player's registration will not count if they are in the top 10,000 of the osu!taiko game mode. This is meant to be a beginner's tournament, and many, if not all the maps are catered towards those who are below rank #10,000. We do not want unfair advantages! However, there are two exceptions to this rule:
-
-1. If a player joins the top 10,000 after registering, but remains below #9,000 until the tournament starts, they are still eligible to participate.
-2. If a player ranks up beyond #10,000 while the tournament is taking place, they will only be disqualified from the tournament if their rank goes significantly beyond #9,000. It is recommended to stay below #9,000.
-
-### Stage regulations
-
-1. There are eight stages to this tournament: Qualifiers, Group Stage, Round of 32, Round of 16, Quarterfinals, Semifinals, Finals and Grand Finals.
-2. Matches are seeded. This will happen in the seeding round (Qualifiers). More information about seeding can be accessed in the [seeding regulations](#seeding-regulations) section.
-3. The winning condition for each stage are listed below:
-   - Group Stage and Round of 32: Best of 7 (first to 4 points)
-   - Round of 16 and Quarterfinals: Best of 9 (first to 5 points)
-   - Semifinals: Best of 11 (first to 6 points)
-   - Finals and Grand Finals: Best of 13 (first to 7 points)
-4. After the Group Stage, only the top 2 players from each group will advance to the next stage.
-
-### Seeding regulations
-
-1. During the seeding round, there will be multiple lobbies available at various hours. Players will be free to sign up to the lobbies they please.
-2. This match is mainly used to weed out the no-shows, however it is also used to file in any backup players who may be called upon to take place of a no-show in the future.
-3. A private match will be created for all the players, and will be invited into their match when it is their time. Make sure that you are online at this time.
-4. There will be no warmup during this event, but rather all the players will play through a shorter mappool.
-5. Seeding will be made with the average rank of each player on each map.
-6. Maps will be played twice in a row during the lobby. However, players can ask for a break of 5 minutes between each run.
-7. Results will be announced on the Discord server after the end of the weekend.
-
-### Match regulations
-
-1. A private match will be created for your match, and both players will be invited into their match when it is their time. Make certain you are online at this time.
-2. Each player can request one warmup map, but it must be **below 4 minutes**.
-3. Here is how bans and picks will happen:
-   - The first person to ban will be the loser of the `!roll`, then they will alternate bans. (Loser -> Winner -> Loser -> Winner)
-   - The first person to pick will be the winner of the `!roll`, then they will alternate picks. (Winner -> Loser -> Winner -> Loser -> ...)
-4. A player cannot ban a map from the same category twice.
-5. In case of a tie, the tiebreaker will be played.
-6. Results will be displayed on the Challonge brackets, and will be announced by the referee.
-
-### Mappool regulations
-
-1. There are different kind of mapools in each stage of the tournament, becoming progressively harder.
-2. Tiebreaker will be played under FreeMod.
-
-### Scheduling regulations
-
-1. Every stage is held during the weekend to let players practice.
-2. Matches are allowed to overlap if referees are available.
-3. Players must complete their match at the designated time or both players are eliminated.
-4. However if both players can come up with a better time than what we have schedule for them, please inform the organisers for a reschedule. They will rearrange your match if the proposed reschedule is informed before the Thursday of the weekend.
+1. Please keep/change, your Discord name using your osu! name. This allows the referees to know who to ping when they'll be sending invites to.
+2. This tournament is a **1 versus 1 osu!mania 4K** tournament and will use **Score V2** as the scoring system.
+3. The tournament will use double-elimination bracket system.
+4. You lose your match automatically if you are 10 minutes late.
+5. Respect between each is expected of players and staff members.
+6. There is a rank buffer of 500 ranks up (#9,500) and down (#100,500) for registrations. This buffer goes up to 250 ranks for High Bracket and 2,500 ranks for Low Bracket each further stage. If you do not meet the rank range by the end of the tournament, we reserve the rights to disqualify you.
+7. Qualifiers maps will be played twice and will only count your best score over the 2 tries.
+8. If someone dies at the end of the map, its score will be 0. However, if he manages to revive, his score will be added back.
+9. Seeding for qualifiers will be based on the average rank you do on the maps (not the global rank, of course.)
+10. The mods allowed are: Flashlight, Hidden and Fade In.
+11. Warmups will be allowed after the qualifier stage. It must not have any explicit content and have its length less than 4 minutes.
+12. If both players have the same score on a map, it will be replayed.
+13. Pairings for brackets will go like this: if this is a RO32, it will match the 1st seed against the 32nd
+14. Players ban 2 maps per match (except in qualifiers in which they won't be able to ban any map at all), making 4 banned maps per match.
+15. You cannot ban two maps of the same category.
+16. Players will use the `!roll` command to decide the order of the picks and bans. The winner of the `!roll` will have the first pick, and the loser will have the first ban.
+17. Even during a tournament, osu! is just a game, please be fairplay.
+18. Reschedules will only be considered if both players agree to a time, this needs to be done and notified to the `#reschedules` text channel inside the Discord server **before Wednesday at 23:59 UTC+0** in that particular week when your match takes place.
+19. In the case of player disconnections, if it occurs within the first 30 seconds, or 25% of the song (whichever comes first) the map will be nullified and re-attempted. This only happens 1 time per match.
+20. Here are the BO for each round :
+    - Round of 64 and Round of 32: Best of 7 (first to 4 points)
+    - Round of 16 and Quarterfinals: Best of 9 (first to 5 points)
+    - Semifinals: Best of 11 (first to 6 points)
+    - Finals and Grand Finals: Best of 13 (first to 7 points)
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
