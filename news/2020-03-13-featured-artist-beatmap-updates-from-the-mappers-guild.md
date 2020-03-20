@@ -12,15 +12,27 @@ Since the [previous update](https://osu.ppy.sh/home/news/2019-11-29-featured-art
 
 For those who don't know yet, the Mappers' Guild is a way for mappers with three or more ranked beatmaps to earn rewards for creating beatmaps of songs from the Featured Artist library. If you're interested in the guild, be sure to look at the [Mappers' Guild wiki page](https://osu.ppy.sh/help/wiki/Mappers_Guild) for more information.
 
-Recently there has also been some new developments in the Mappers' Guild system! The first is that now anyone can view the website and keep up with what Mappers' Guild members are making, so be sure to check it out if you are curious about what the mappers are working on. Next, the guild now has solo quests available for members to take on by themselves, giving mappers the option to work alone if that's what they prefer. Lastly, with the return of the [Monthly Beatmapping Contests](https://osu.ppy.sh/help/wiki/Contests/Monthly_Beatmapping_Contest), guild members who participate can also earn points in the Mappers' Guild for doing so, which you can read more about on the linked wiki page.
-
-Today we'll be going over finished quests from the Mappers' Guild, featured artist beatmap pack  and medal updates, and a list of all ranked featured artist beatmaps since our last news post in late November. Now let's start going through all the quests completed since last update!
+Today we'll be going over Mappers' Guild development, finished quests, featured artist beatmap pack and medal updates, and a list of all ranked featured artist beatmaps since our last news post in late November. Now let's start going through all the changes since last update!
 
 ### Navigation
 
+- [Mappers' Guild system updates](#mappers-guild-system-updates)
 - [Finished quests](#finished-quests)
 - [Pack and medal updates](#pack-medal-updates)
 - [Ranked map updates](#ranked-map-updates)
+
+## <a id="mappers-guild-system-updates"></a>Mappers' Guild system updates
+
+Recently there has been quite a few developments in the Mappers' Guild system, as part of regular rebalancing and improving guild productivity!
+
+- **Anyone can view the website** - Before, it was limited to only members, but now anyone can check in and keep up with what Mappers' Guild members are making, so be sure to check it out if you are curious about what the mappers are working on. 
+- **Solo quests are now available** - This gives mappers the option to work on smaller projects if that is what they prefer.
+- **[Monthly Beatmapping Contests](https://osu.ppy.sh/help/wiki/Contests/Monthly_Beatmapping_Contest)** - Guild members who participate can also earn points in the Mappers' Guild for doing so, which you can read more about on the linked wiki page. Winners of the contest may also join the guild, bypassing the typical 3 ranked maps requirement.
+- **Guild points will now be spent on tasks** - Total points earned over time will still be logged, but now various functions such as accepting quests or extending deadlines and will have an associated point value that must be spent. For accepting quests, normal pack quests will be very cheap, such as 0 points, while solo quests or gimmicky ones (like the previous High Tempo pack) will have higher prices.
+- **Quests now expire 3 months after being created** - This means any quest that's still open will be moved to the "expired quests" section. All currently open quests that are older than 3 months will expire on April 2nd. To take quests after they have expired, additional guild points will need to be spent.
+- **Quest bonus points have been revised** - The old quest rewards (1-15 points for finishing a quest) no longer exist and focus has been shifted to the per-difficulty bonus points. Quests that are completed on time will get an additional bonus along with that. 
+
+A lot of the specific values for the points systems are still being worked on, so if you're a guild member and find it doesn't feel right, such as being too harsh or lenient, be sure to forward your feedback to [pishifat](https://osu.ppy.sh/users/3178418)!
 
 ## <a id="finished-quests"></a>Finished quests
 
@@ -78,11 +90,27 @@ This quest was completed by **[Faputa](https://osu.ppy.sh/users/845733)**, **[Cy
 - [False Noise - Serpentine](https://osu.ppy.sh/beatmapsets/1055536) by [Faputa](https://osu.ppy.sh/users/845733)
 - [False Noise - Distant Structures](https://osu.ppy.sh/beatmapsets/1057177) hosted by [Cynplytholowazy](https://osu.ppy.sh/users/3901754)
 
+![Frums header](https://assets.ppy.sh/artists/68/header.jpg)
+
+For the **Frums mini-pack (osu!taiko, osu!)** quest, the mappers had to create and rank at least 4 mapsets of songs by Frums, each hosted by a different user.
+
+This quest was completed by **[Nifty](https://osu.ppy.sh/users/4956097)**, **[Genjuro](https://osu.ppy.sh/users/3196091)**, **[\_DUSK\_](https://osu.ppy.sh/users/6092181)**, **[Vulkin](https://osu.ppy.sh/users/4901066)**, **[Ulqui](https://osu.ppy.sh/users/1263669)**, **[Nerova Riuz GX](https://osu.ppy.sh/users/1557955)** and **[Alchyr](https://osu.ppy.sh/users/4993032)**
+
+- [Frums - Options](https://osu.ppy.sh/beatmapsets/1049855) hosted by [Nerova Riuz GX](https://osu.ppy.sh/users/1557955) (hybrid)
+- [Frums - Star of the COME ON!!](https://osu.ppy.sh/beatmapsets/1108821#taiko/2317246) by [Nifty](https://osu.ppy.sh/users/4956097) (osu!taiko)
+- [Frums - Wavetapper](https://osu.ppy.sh/beatmapsets/1109137#taiko/2317828) hosted by [Ulqui](https://osu.ppy.sh/users/1263669) (osu!taiko)
+- [Frums - Flashbacklog](https://osu.ppy.sh/beatmapsets/1108885#taiko/2317366) hosted by [Genjuro](https://osu.ppy.sh/users/3196091) (osu!taiko)
+
 ![HyuN header](https://assets.ppy.sh/artists/33/header.jpg)
 
-For the **HyuN duo (osu!catch)** quest, the mappers had to create and rank 2 or more mapsets of songs by HyuN, each hosted by a different user.
+For the **HyuN duo** quests, the mappers had to create and rank 2 or more mapsets of songs by HyuN, each hosted by a different user.
 
-This quest was completed by **[MBomb](https://osu.ppy.sh/users/3071175)**, **[JBHyperion](https://osu.ppy.sh/users/4879508)**, **[Jemzuu](https://osu.ppy.sh/users/7890134)** and **[Absolute Zero](https://osu.ppy.sh/users/4847256)**
+The **osu!taiko** version of this quest was completed by **[Faputa](https://osu.ppy.sh/users/845733)**, **[Capu](https://osu.ppy.sh/users/2474015)**, **[[\_Chichinya\_]](https://osu.ppy.sh/users/2140739)** and **[Vulkin](https://osu.ppy.sh/users/4901066)**
+
+- [HyuN feat. YURI - Disorder](https://osu.ppy.sh/beatmapsets/1062977) by [Faputa](https://osu.ppy.sh/users/845733)
+- [HyuN - The Apocalypse](https://osu.ppy.sh/beatmapsets/1075603#taiko/2250660) hosted by [Capu](https://osu.ppy.sh/users/2474015)
+
+The **osu!catch** version of this quest was completed by **[MBomb](https://osu.ppy.sh/users/3071175)**, **[JBHyperion](https://osu.ppy.sh/users/4879508)**, **[Jemzuu](https://osu.ppy.sh/users/7890134)** and **[Absolute Zero](https://osu.ppy.sh/users/4847256)**
 
 - [HyuN - Infinity Heaven](https://osu.ppy.sh/beatmapsets/1074464#fruits/2248527) hosted by [Jemzuu](https://osu.ppy.sh/users/7890134)
 - [HyuN - Grin](https://osu.ppy.sh/beatmapsets/1065368) hosted by [Absolute Zero](https://osu.ppy.sh/users/4847256)
@@ -286,6 +314,7 @@ This list includes all of the very many beatmaps of featured artist tracks ranke
 ## <a id="osu"></a>osu!
 - [Becky - Less Than Three (Ricardo Autobahn Remix)](https://osu.ppy.sh/beatmapsets/1078502) by [Sonnyc](https://osu.ppy.sh/users/11771)
 - [Camellia - [diffraction]](https://osu.ppy.sh/beatmapsets/851430#osu/1779838) hosted by [PoNo](https://osu.ppy.sh/users/4610047)
+- [Camellia vs. Akira Complex - World Collapse (Introduction)](https://osu.ppy.sh/beatmapsets/1115140#osu/2329587) hosted by [Realazy](https://osu.ppy.sh/users/918297)
 - [Carpool Tunnel - Better Now](https://osu.ppy.sh/beatmapsets/1050477) by [Mocaotic](https://osu.ppy.sh/users/9487458)
 - [Carpool Tunnel - Hooked Again](https://osu.ppy.sh/beatmapsets/1050185) hosted by [-Aqua](https://osu.ppy.sh/users/7150015)
 - [Carpool Tunnel - Impressions](https://osu.ppy.sh/beatmapsets/1052846#osu/2200216) by [Hinsvar](https://osu.ppy.sh/users/1249323)
@@ -303,6 +332,7 @@ This list includes all of the very many beatmaps of featured artist tracks ranke
 - [ginkiha feat. TEA - Haruka](https://osu.ppy.sh/beatmapsets/1110461#osu/2320392) hosted by [Hinsvar](https://osu.ppy.sh/users/1249323)
 - [goreshit - broken promises/scattered dreams](https://osu.ppy.sh/beatmapsets/1079921#osu/2259381) by [Hinsvar](https://osu.ppy.sh/users/1249323)
 - [goreshit - game over](https://osu.ppy.sh/beatmapsets/986213#osu/2068571) hosted by [Hectic](https://osu.ppy.sh/users/6885942)
+- [goreshit - xenobeat](https://osu.ppy.sh/beatmapsets/1090113) hosted by [-Aqua](https://osu.ppy.sh/users/7150015)
 - [HyuN - Tokyo's Starlight](https://osu.ppy.sh/beatmapsets/1011055#osu/2116308) hosted by [Heilia](https://osu.ppy.sh/users/9823042)
 - [HyuN feat. Aerial - Exodus](http://osu.ppy.sh/beatmapsets/1069611#osu/2239032) by [Niva](https://osu.ppy.sh/users/197805)
 - [IAHN - Fly](https://osu.ppy.sh/beatmapsets/1019853#osu/2134006) hosted by [Ujimatsu Chiya](https://osu.ppy.sh/users/3789302)
@@ -348,10 +378,11 @@ This list includes all of the very many beatmaps of featured artist tracks ranke
 - [Teminite - Unstoppable](https://osu.ppy.sh/beatmapsets/1098207#osu/2294575) hosted by [Mao](https://osu.ppy.sh/users/2204515)
 - [Teminite feat. Jonah Hitchens - Step into the Light](https://osu.ppy.sh/beatmapsets/1089017) hosted by [hypercyte](https://osu.ppy.sh/users/9155377)
 - [Thaehan - 12151109](https://osu.ppy.sh/beatmapsets/1051408#osu/2197307) by [Leader](https://osu.ppy.sh/users/631530)
+- [Trial & Error - Sore ga Zenbu, Yume ni Tsunagaru](https://osu.ppy.sh/beatmapsets/1120862#osu/2342060) by [Agatsu](https://osu.ppy.sh/users/5579871)
 - [UNDEAD CORPORATION - Tengai](https://osu.ppy.sh/beatmapsets/1066545#osu/2233180) by [Lafayla](https://osu.ppy.sh/users/5312547)
 - [UNDEAD CORPORATION - Tokoyo Omohikane no Kami](https://osu.ppy.sh/beatmapsets/1067418) hosted by [Mirash](https://osu.ppy.sh/users/2841009)
 - [UNDEAD CORPORATION - Under the scarlet sky pt. 2](https://osu.ppy.sh/beatmapsets/1094419#osu/2287323) by [Seto Kousuke](https://osu.ppy.sh/users/2857314)
-- [VINXIS - Left Behind](https://osu.ppy.sh/beatmapsets/780372) hosted by [EririSawamura](https://osu.ppy.sh/users/8949714) \*
+- [VINXIS - Left Behind](https://osu.ppy.sh/beatmapsets/780372) by [EririSawamura](https://osu.ppy.sh/users/8949714) \*
 - [Wisp X - Crimson feat. Hatsune Miku (Radio Edit)](https://osu.ppy.sh/beatmapsets/1032163#osu/2158315) hosted by [Nao Tomori](https://osu.ppy.sh/users/5364763)
 - [Wisp X - Frozen Leaves](https://osu.ppy.sh/beatmapsets/871914#osu/1822068) by [greenhue](https://osu.ppy.sh/users/4967662)
 - [Wisp X - Hibiscus](https://osu.ppy.sh/beatmapsets/1040161#osu/2174050) by [Aeril](https://osu.ppy.sh/users/4334976)
@@ -366,19 +397,29 @@ This list includes all of the very many beatmaps of featured artist tracks ranke
 - [Akira Complex - World Collapse](https://osu.ppy.sh/beatmapsets/1062488) hosted by [rubies87](https://osu.ppy.sh/users/4949934) \*
 - [Camellia - dreamless wanderer](https://osu.ppy.sh/beatmapsets/1093959) hosted by [radar](https://osu.ppy.sh/users/7131099) \*
 - [Camellia - Kimi ga Shinu no o Nagamete Iru yo](https://osu.ppy.sh/beatmapsets/1033067) by [[_Chichinya_]](https://osu.ppy.sh/users/2140739)
+- [Camellia - Racemization](https://osu.ppy.sh/beatmapsets/1071559) by [Kbludoh](https://osu.ppy.sh/users/2543764) \*
 - [Camellia - Why do you hate me?](https://osu.ppy.sh/beatmapsets/1064873#taiko/2229591) by [Alchyr](https://osu.ppy.sh/users/4993032)
+- [Camellia feat. Nanahira - senpai, notice me!](https://osu.ppy.sh/beatmapsets/1062384) hosted by [Capu](https://osu.ppy.sh/users/2474015) \*
+- [Camellia feat. Nanahira - Versus!](https://osu.ppy.sh/beatmapsets/903542#taiko/1886198) hosted by [JarvisGaming](https://osu.ppy.sh/users/8601048)
 - [Cranky - T&J](https://osu.ppy.sh/beatmapsets/949737#taiko/1983172) by [[Zeth]](https://osu.ppy.sh/users/9912966)
 - [F-777 - Across The Waters](https://osu.ppy.sh/beatmapsets/1086985) by [Cynplytholowazy](https://osu.ppy.sh/users/3901754)
 - [False Noise - Distant Structures](https://osu.ppy.sh/beatmapsets/1057177) hosted by [Cynplytholowazy](https://osu.ppy.sh/users/3901754)
 - [False Noise - Serpentine](https://osu.ppy.sh/beatmapsets/1055536) by [Faputa](https://osu.ppy.sh/users/845733)
-- [Fractal Dreamers - Gardens Under A Spring Sky](https://osu.ppy.sh/beatmapsets/962862) hosted by [_Epreus](https://osu.ppy.sh/users/7342798) \*
+- [Fractal Dreamers - Gardens Under A Spring Sky](https://osu.ppy.sh/beatmapsets/962862) hosted by [\_Epreus](https://osu.ppy.sh/users/7342798) \*
 - [Fright Ranger - Oh Oh Oh Sexy Vampire (DJ Shimamura Remix)](https://osu.ppy.sh/beatmapsets/1051725#taiko/2197919) by [Alwaysyukaz](https://osu.ppy.sh/users/4999506)
 - [Frums - Flashbacklog](https://osu.ppy.sh/beatmapsets/1108885#taiko/2317366) hosted by [Genjuro](https://osu.ppy.sh/users/3196091)
+- [Frums - Star of the COME ON!!](https://osu.ppy.sh/beatmapsets/1108821#taiko/2317246) by [Nifty](https://osu.ppy.sh/users/4956097)
 - [Frums - Wavetapper](https://osu.ppy.sh/beatmapsets/1109137#taiko/2317828) hosted by [Ulqui](https://osu.ppy.sh/users/1263669)
 - [goreshit - waste](https://osu.ppy.sh/beatmapsets/1086346#taiko/2271784) by [Nepuri](https://osu.ppy.sh/users/6637817)
+- [Helblinde - The Solace of Oblivion](https://osu.ppy.sh/beatmapsets/778140) by [Kbludoh](https://osu.ppy.sh/users/2543764) \*
 - [Helblinde - Unconquered](https://osu.ppy.sh/beatmapsets/1052250#taiko/2199046) by [Capu](https://osu.ppy.sh/users/2474015)
+- [HyuN - The Apocalypse](https://osu.ppy.sh/beatmapsets/1075603#taiko/2250660) hosted by [Capu](https://osu.ppy.sh/users/2474015)
+- [HyuN feat. YURI - Disorder](https://osu.ppy.sh/beatmapsets/1062977) by [Faputa](https://osu.ppy.sh/users/845733)
+- [Inferi - Behold the Bearer of Light](https://osu.ppy.sh/beatmapsets/1047441) by [Nishizumi](https://osu.ppy.sh/users/2496768) \*
 - [James Landino & Kabuki - Birdsong](https://osu.ppy.sh/beatmapsets/1010367#taiko/2115020) by [Nifty](https://osu.ppy.sh/users/4956097)
 - [KNOWER - Overtime](https://osu.ppy.sh/beatmapsets/1035846#taiko/2165632) hosted by [radar](https://osu.ppy.sh/users/7131099)
+- [KNOWER - Overtime](https://osu.ppy.sh/beatmapsets/927890#taiko/1938084) by [Zetera](https://osu.ppy.sh/users/587737)
+- [Kola Kid - sniffing stardust on the dancefloor](https://osu.ppy.sh/beatmapsets/1120419) by [Nepuri](https://osu.ppy.sh/users/6637817)
 - [MYLK - Bubblegum](https://osu.ppy.sh/beatmapsets/1055143) hosted by [Cynplytholowazy](https://osu.ppy.sh/users/3901754)
 - [MYLK - Prism](https://osu.ppy.sh/beatmapsets/1051590#taiko/2197618) hosted by [salchow](https://osu.ppy.sh/users/9738159)
 - [MYLK - Smile](https://osu.ppy.sh/beatmapsets/1065517#taiko/2231210) hosted by [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
@@ -400,14 +441,16 @@ This list includes all of the very many beatmaps of featured artist tracks ranke
 - [Blue Stahli - Suit Up](https://osu.ppy.sh/beatmapsets/1061425/) by [MBomb](https://osu.ppy.sh/users/3071175)
 - [Blue Stahli and Nyzze Nyce - Run The Track](https://osu.ppy.sh/beatmapsets/1071229) hosted by [Sinnoh](https://osu.ppy.sh/users/4236057)
 - [Camellia - flying in the flow of deep-sea](https://osu.ppy.sh/beatmapsets/808574) by [Sinnoh](https://osu.ppy.sh/users/4236057)
+- [Camellia - Quaoar](https://osu.ppy.sh/beatmapsets/1082753#fruits/2264827) by [Sinnoh](https://osu.ppy.sh/users/4236057)
 - [Carpool Tunnel - Parade](https://osu.ppy.sh/beatmapsets/1036382#fruits/2166954) hosted by [Dapuluous](https://osu.ppy.sh/users/8140944)
 - [dark cat - ELINE](https://osu.ppy.sh/beatmapsets/1064394) hosted by [Absolute Zero](https://osu.ppy.sh/users/4847256)
 - [dark cat - hot chocolate](https://osu.ppy.sh/beatmapsets/1061800) hosted by [JBHyperion](https://osu.ppy.sh/users/4879508)
 - [dark cat - STARS ALIGN](https://osu.ppy.sh/beatmapsets/1055938#fruits/2235756) hosted by [wonjae](https://osu.ppy.sh/users/5032045)
 - [HyuN - Grin](https://osu.ppy.sh/beatmapsets/1065368) hosted by [Absolute Zero](https://osu.ppy.sh/users/4847256)
 - [HyuN - Infinity Heaven](https://osu.ppy.sh/beatmapsets/1074464#fruits/2248527) hosted by [Jemzuu](https://osu.ppy.sh/users/7890134)
-- [Imperial Circus Dead Decadence - Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo.](https://osu.ppy.sh/beatmapsets/1023806) hosted by [Daletto](https://osu.ppy.sh/users/7592136) \*
+- [Imperial Circus Dead Decadence - Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo.](https://osu.ppy.sh/beatmapsets/1023806) by [Daletto](https://osu.ppy.sh/users/7592136) \*
 - [KIRA - Circles (feat. GUMI) (Piano Version)](https://osu.ppy.sh/beatmapsets/1046346) by [MBomb](https://osu.ppy.sh/users/3071175)
+- [Kola Kid - sea shells](https://osu.ppy.sh/beatmapsets/1107581) hosted by [Dapuluous](https://osu.ppy.sh/users/8140944)
 - [nekodex - aureole](https://osu.ppy.sh/beatmapsets/1056354#fruits/2208034) hosted by [MBomb](https://osu.ppy.sh/users/3071175)
 - [Panda Eyes & Teminite - Immortal Flame (feat. Anna Yvette)](https://osu.ppy.sh/beatmapsets/1069737#fruits/2239249) by [Nelly](https://osu.ppy.sh/users/4741164)
 - [Ricky Montgomery - Snow](https://osu.ppy.sh/beatmapsets/1083491#fruits/2266121) by [-Joni-](https://osu.ppy.sh/users/9988837)
@@ -415,7 +458,9 @@ This list includes all of the very many beatmaps of featured artist tracks ranke
 
 ## <a id="mania"></a>osu!mania
 - [BilliumMoto - life flashes before weeb eyes](https://osu.ppy.sh/beatmapsets/985172#mania/2061252) hosted by [Unpredictable](https://osu.ppy.sh/users/7560872)
-- [Camellia - FM Synthesis Experiment](https://osu.ppy.sh/beatmapsets/914341) hosted by [Curiossity](https://osu.ppy.sh/users/6490035) \*
+- [Camellia - FM Synthesis Experiment](https://osu.ppy.sh/beatmapsets/914341) by [Curiossity](https://osu.ppy.sh/users/6490035) \*
+- [Camellia - POWA OF DA WILDANES](https://osu.ppy.sh/beatmapsets/1098578) by [Monheim](https://osu.ppy.sh/users/6814203) \*
+- [Camellia vs. Akira Complex - Railgun Roulette](https://osu.ppy.sh/beatmapsets/1041146) by [Dubstek](https://osu.ppy.sh/users/9555243) \*
 - [cYsmix - Classic Pursuit](https://osu.ppy.sh/beatmapsets/1044881) by [FAMoss](https://osu.ppy.sh/users/7707789)
 - [F-777 - Viking Arena](https://osu.ppy.sh/beatmapsets/1092856#mania/2284378) by [Feerum](https://osu.ppy.sh/users/4815717)
 - [Fractal Dreamers - Ad Astra](https://osu.ppy.sh/beatmapsets/1096683) hosted by [Keiga](https://osu.ppy.sh/users/6866022)
