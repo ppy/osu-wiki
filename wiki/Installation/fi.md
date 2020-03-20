@@ -1,33 +1,66 @@
----
-outdated: true
----
+# Asentaminen
 
-# Installation - Finnish
+*Katso myös: [Installation/macOS](/wiki/Installation/macOS)*
 
-Tässä on suurin osa yleisistä ongelmista kun yrittää käynnistää osu!:a.
+Tämä sivu kertoo miten saat osu!'n toimimaan Windows-tietokoneellesi. [osu!academiassa](/wiki/osu!academy) on englanninkielinen [video-opas](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ), joka selittää osu!'n asentaminen Windowsille.
 
-## Ongelmat
+## Järjestelmävaatimukset
 
-### Minä yritän käynnistää osu!:a ja minä saan virheen 'Initialization Error'
+- .NET framework 4+ (Asennusohjelma tulee kehottamaan sinua asentamaan sen. Voit myös [löytää sen täältä](https://www.microsoft.com/en-us/download/details.aspx?id=48130))
+- Kelvollinen grafiikkakortti.
 
-Varmista, että sinulla on [.NET Framework](http://www.microsoft.com/downloads/fi-fi/details.aspx?familyid=0856eacb-4362-4b0d-8edd-aab15c5e04f5&displaylang=fi) asennettuna.
+## osu!'n asentaminen
 
-### Miksen minä pääse beatmap-listalle?
+1. Lataa osu!'n asennusohjelma tietokoneellesi [lataussivulta](https://osu.ppy.sh/home/download).
+2. Löydä ja käynnistä asennusohjelma.
+3. Kun asennusohjelma on käynnissä, voit valita asennuksen sijainti kymmenen sekunnin ajan.
+   - Voit muuttaa sijainnin napsauttamalla `Hi!`-viestin alla olevaa tekstiä.
+   - osu! asentaa itsensä valittuun sijaintiin hetken päästä.
+4. osu! käynnistyy itsestään kun asennus on valmis ja käyttää osu!direct'iä ladatakseen muutamia beatmappiä.
+5. Kirjaudu sisään tai rekisteröidy.
+   - Jos sinulla on tili, kirjaudu sisään.
+   - Jos tarvitset rekisteröityä, mene [rekisteröitymissivulle](/wiki/Registration).
 
-Sinun täytyy rekistöröityä ensiksi keskustelupalstalle. Rekistöröityminen on ilmaista ja erittäin nopeaa, sekä antaa sinulle mahdollisuuden beatmap-latauksille. Tämän lisäksi rekistöröinti antaa sinulle sijoituksen verkkotulostaulukossa sekä chatin, jolla voit puhua muiden pelaajien kanssa pelin sisällä. Tämän takia ei ole syytä olla liittymättä!
+## Beatmapsettien lataaminen
 
-### Minä en voi pelata beatmappia jonka latasin!
+*Katso myös: [Beatmaps](/wiki/Beatmaps)*
 
-Lue ohjeet lataussivulta.
+Voit ladata beatmappijä kotisivulta tai osu!direct'in avulla (vaatii [osu!supporter](/wiki/osu!supporter)-merkinnän).
 
-### Jotain muuta pielessä?
+### Kotisivu
 
-Jos sinä kohtaat bugin tai virheen jota ei ole listattu ylempänä, käy [Help and Support-foorumilla](https://osu.ppy.sh/forum/viewforum.php?f=5) ja lähetä viestiä sinne (samanlaisten aiheiden etsiminen ensiksi on suositeltavaa!). Joku tulee varmasti auttamaan! Kannattaa ottaa huomioon myös osu!:n IRC-kanava.
+1. Mene [beatmappien listaussivulle](https://osu.ppy.sh/beatmapsets) ja kirjaudu sisään.
+2. Valitse jonkun beatmapin, jota haluat pelata.
+3. Napsauta `Lataa`-painiketta tallentaakseen beatmapsetin tietokoneellesi.
+4. Avaa beatmapset-tiedoston, sillä on `.osz` tiedostopäätteenä.
+   - Voit myös laittaa beatmapset-tiedoston `Songs`-kansioon osu!'n asennussijainnissa.
+5. osu! tekee loput automaattisesti ja avaa beatmapsetin.
+   - Jos jostain syystä et näe sitä, paina `F5`-näppäintä kun olet [Laulujen Valikossa](/wiki/Song_Selection) ladatakseen beatmapit uudelleen.
 
-### Voiko osu! pyöriä OS X:llä?
+### osu!direct
 
-Yes! [Read here](/wiki/Installation/macOS) to figure out how.
+*Huom.: Tarvitset osu!supporter-merkinnän ja internettiyhteyden käyttääkseen osu!directiä.*
 
-### Voiko osu! pyöriä Linuxilla?
+1. Käynnistä osu!'a ja napsauta oikealla puolella olevaa osu!direct-painiketta.
+2. Valitse jonkun beatmapin, jota haluat pelata.
+3. Lataa beatmapin kaksoisnapsauttamalla valitsevasi beatmappiä tai napsauttamalla oikealla puolella olevaa `Lataa`-painiketta.
+   - Jos ett halua beatmapin yhteen tulevaa videota, napsauta `Lataa ilman videota`.
+4. osu! lataa beatmapin automaattisesti.
+   - Jos jostain syystä et näe sitä, paina `F5`-näppäintä kun olet [Laulujen Valikossa](/wiki/Song_Selection) ladatakseen beatmapit uudelleen.
 
-On huomattu, että osu!:n voi saada pienen säätelyn avulla toimimaan winellä. Lisätietoja saat [täältä](https://osu.ppy.sh/forum/viewtopic.php?f=2&t=14614).
+## Ulkoasun vaihtaminen
+
+*Katso myös: [Skinning](/wiki/Skinning)*
+
+1. Mene [ulkoasujen foorumiin](https://osu.ppy.sh/community/forums/15) ja etsi tykkäämäsi ulkoasua.
+2. Kun löydät ulkoasun, lataa se.
+3. Joskus ulkoasut tulevat pakattuna tiedostona, jota pitää ensin purkaa.
+   - Jos ulkoasu käyttää `.osk`-tiedostopäätettä:
+     1. Avaa tai vedä tiedoston suoraan osu!-ikkunalle.
+     2. osu! käsittelee ja valitsee ulkoasun automaattisesti.
+   - Jos ulkoasu on pakattu (käyttäen `.7z`, `.rar`, `.zip`, jne.):
+     1. Pura se
+     2. Siirrä purattu kansio `Skins`-kansioon osu!'n asennussijainnissa.
+     3. Ulkoasu näkyy valikossa painamalla `Ctrl` + `Alt` + `Shift` + `S`, jos osu! oli jo käynnissä.
+     4. Etsi `Ulkoasu` osu!'n [Asetuksissa](/wiki/Options).
+     5. Vieritä alas `Valitse ulkoasu`-asetukseen asti ja valitse lataamasi ulkoasun.
