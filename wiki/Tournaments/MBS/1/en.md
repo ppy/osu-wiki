@@ -122,7 +122,7 @@ This competition has come to an end and resulted in the following podium:
 
 ## Mappools
 
-### High Division
+### High division
 
 #### Grand Finals
 
@@ -288,7 +288,7 @@ This competition has come to an end and resulted in the following podium:
   - [MAZO - EL SUPERIOR (\_Y u r i\_) \[Hard\]](https://osu.ppy.sh/beatmapsets/689146#mania/1458900)
   - [Kobaryo - Theme for Psychopath Justice (KH\_Supernova) \[Hyper\]](https://osu.ppy.sh/beatmapsets/833223#mania/1745357)
 
-### Low Division
+### Low division
 
 #### Grand Finals
 
