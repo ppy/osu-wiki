@@ -93,13 +93,7 @@ The Beginner's Taiko Tournament 5 was run by various community members.
 
 ## Podium
 
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Player |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_DE] [Malox](https://osu.ppy.sh/users/4516252) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) |
+![](img/podium.png "BTT5 podium")
 
 ## Mappools
 
