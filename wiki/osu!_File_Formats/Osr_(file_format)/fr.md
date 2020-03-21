@@ -25,10 +25,10 @@ Les Byte offsets ne sont pas inclus dans ce tableau à cause des valeurs à tail
 | Chaîne de caractère (string) | Nom du joueur ayant effectué ce replay |
 | Chaîne de caractère (string) | Hash de la beatmap en MD5 incluant des données du replay |
 | Court (short) | Nombre de 300 |
-| Court (short) | Nombre de 100 en osu!standard, de 150 en osu!taiko, de 100 en osu!catch, ou de 200 en osu!mania |
+| Court (short) | Nombre de 100 en osu!standard, de 150 en osu!taiko, de 100 en osu!catch, ou de 100 en osu!mania |
 | Court (short) | Nombre de 50 en osu!standard, petit fruits en osu!catch, ou de 50 en osu!mania |
 | Court (short) | Nombre de Gekis en osu!standard, ou de Max 300 en osu!mania |
-| Court (short) | Nombre de Katus en osu!standard, ou de 100 en osu!mania |
+| Court (short) | Nombre de Katus en osu!standard, ou de 200 en osu!mania |
 | Court (short) | Nombre de fautes (misses) |
 | Entier (int) | Score total |
 | Court (short) | Combo maximum effectué lors du replay |

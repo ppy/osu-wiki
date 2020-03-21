@@ -1,8 +1,8 @@
-# Installation
+# Installation (한국어)
 
 *참고 항목: [Installation/macOS](/wiki/Installation/macOS)*
 
-이 페이지에서는 Windows 환경에서 osu!를 설치하는 방법에 대해 설명할 것입니다. [osu!academy](/wiki/osu!academy)에는 이러한 설치 방법을 상세히 설명해주는 [튜토리얼 영상](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ)도 있으니 참고해보세요.
+이 페이지에서는 Windows 환경에서 osu!를 설치하는 방법에 대해 설명할 것입니다. [osu!academy](/wiki/osu!academy)에는 이러한 설치 방법을 상세히 설명해주는 [튜토리얼 영상](https://www.youtube.com/watch?v=0V5GwzmMhpU)도 있으니 참고해보세요.
 
 ## 최소 시스템 요구 사항
 
@@ -35,7 +35,7 @@
 4. 다운받은 비트맵 파일을 실행하세요. (`.osz` 파일)
    - 아니면 osu! 설치 경로의 `Songs` 폴더에 `.osz` 파일을 직접 넣을 수도 있습니다.
 5. 이제 osu!는 자동으로 비트맵 파일을 불러올 것입니다.
-   - 혹시 비트맵이 보이지 않는 경우, [곡 선택](/wiki/Song_Selection) 화면에서 `F5` 키를 눌러 비트맵 목록을 다시 불러올 수 있습니다.
+   - 혹시 비트맵이 보이지 않는 경우, [곡 선택](/wiki/Interface#song-selection-screen) 화면에서 `F5` 키를 눌러 비트맵 목록을 다시 불러올 수 있습니다.
 
 ### osu!direct
 
@@ -46,7 +46,7 @@
 3. 원하는 곡을 더블 클릭하거나, 한 번 클릭 후 우측 창의 `Download` 버튼을 클릭해 다운로드할 수 있습니다.
    - 비트맵에 포함된 영상 파일을 제외하고 다운로드하고 싶다면, `DL NoVideo` 버튼을 클릭하시면 됩니다.
 4. 다운로드가 끝나면, osu!는 자동으로 비트맵 파일을 불러올 것입니다.
-   - 혹시 비트맵이 보이지 않는 경우, [곡 선택](/wiki/Song_Selection) 화면에서 `F5` 키를 눌러 비트맵 목록을 다시 불러올 수 있습니다.
+   - 혹시 비트맵이 보이지 않는 경우, [곡 선택](/wiki/Interface#song-selection-screen) 화면에서 `F5` 키를 눌러 비트맵 목록을 다시 불러올 수 있습니다.
 
 ## 스킨 추가하기
 

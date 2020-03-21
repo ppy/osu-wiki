@@ -160,10 +160,10 @@ Cette base de données contient tous les scores réalisés localement.
 | Chaîne de caractère (string) | Nom du joueur |
 | Chaîne de caractère (string) | Replay chiffrée en MD5 |
 | Court (short) | Nombre de 300 |
-| Court (short) | Nombre de 100 en osu!standard, de 150 en osu!taiko, de 100 en osu!catch, et de 200 en osu!mania |
+| Court (short) | Nombre de 100 en osu!standard, de 150 en osu!taiko, de 100 en osu!catch, et de 100 en osu!mania |
 | Court (short) | Nombre de 50 en osu!standard, petit fruits en osu!catch, et de 50 en osu!mania |
 | Court (short) | Nombre de Gekis en osu!standard, et de Max 300 en osu!mania |
-| Court (short) | Nombre de Katus en osu!standard, et de 100 en osu!mania |
+| Court (short) | Nombre de Katus en osu!standard, et de 200 en osu!mania |
 | Court (short) | Nombre de fautes (misses) |
 | Entier (Int) | Score total |
 | Court (short) | Meilleur combo effectué |
