@@ -1,13 +1,15 @@
 ---
 tags:
   - MBS
+  - MBS1
+  - MBS 1
 ---
 
 # Mania Beginner's Showdown
 
 ![MBS logo](img/logo.png)
 
-The **Mania Beginner's Showdown** (***MBS***) was a worldwide 5 digits double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098) and ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517). The tournament had two divisions to separate the skillset between players: the high division consisted of players between #10,000 - #50,000 and low division consisted of players between #50,001 - #100,000 sorted by their osu!mania ranks. This was the first installment of the Mania Beginner's Showdown.
+The **Mania Beginner's Showdown** (***MBS***) was a worldwide double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098) and ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517). The tournament had two divisions to separate the skillset between players: the high division consisted of players ranked #10,000–#50,000, and the low division consisted of players ranked #50,001–#100,000. This was the first installment of the Mania Beginner's Showdown.
 
 ## Tournament schedule
 
@@ -48,9 +50,7 @@ The **Mania Beginner's Showdown** (***MBS***) was a worldwide 5 digits double-el
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
-![](img/badge_high.png "MBS high division winner badge")
-
-![](img/badge_low.png "MBS low division winner badge")
+![](img/badge_high.png "MBS high division winner badge") ![](img/badge_low.png "MBS low division winner badge")
 
 Generous donations from ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098) and ![][flag_GB] [OhDeMills](https://osu.ppy.sh/users/13592970) helped fund some of the prizes.
 
@@ -446,7 +446,7 @@ Saturday, 3 August 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Maou** ![][flag_DE] | **7** | 3 | ![][flag_US] Loopy542 | [#1](https://osu.ppy.sh/community/matches/53812911)
+| **Maou** ![][flag_DE] | **7** | 3 | ![][flag_US] Loopy542 | [#1](https://osu.ppy.sh/community/matches/53812911) |
 
 Sunday, 4 August 2019:
 
@@ -466,7 +466,7 @@ Sunday, 28 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Davvyforte** ![][flag_SE] | **7** | 0 | ![][flag_DE] Maou | [#1](https://osu.ppy.sh/community/matches/53662458)
+| **Davvyforte** ![][flag_SE] | **7** | 0 | ![][flag_DE] Maou | [#1](https://osu.ppy.sh/community/matches/53662458) |
 
 #### Semifinals
 
@@ -862,7 +862,7 @@ Monday, 8 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-**OhDeMills** ![][flag_GB] | **0** | -1 | ![][flag_FR] Kaho-Hinata | *win by default* |
+| **OhDeMills** ![][flag_GB] | **0** | -1 | ![][flag_FR] Kaho-Hinata | *win by default* |
 
 #### Round of 32
 
