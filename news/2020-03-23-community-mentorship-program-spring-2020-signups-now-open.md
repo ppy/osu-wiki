@@ -24,6 +24,6 @@ Throughout this active cycle time, the organisation team will host various event
 
 If any of this interests you or anyone you know, please go to our [forum announcement and rules thread](https://osu.ppy.sh/community/forums/topics/1038431) for more information.
 
-We're looking forward to the mappers of tomorrow!
+We're looking forward to the mappers and modders of tomorrow!
 
 -yaspo
