@@ -25,7 +25,6 @@ The rest of the team helps with quality control, maintenance, and organisation.
 - ![][flag_US] **[DigitalHypno](https://osu.ppy.sh/users/4384207)**
 - ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691)
 - ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)
-- ![][flag_PL] [fartownik](https://osu.ppy.sh/users/56917)
 - ![][flag_GB] [Ventus](https://osu.ppy.sh/users/1986262)
 - ![][flag_LV] [waywern2012](https://osu.ppy.sh/users/5870453)
 
@@ -60,15 +59,14 @@ The rest of the team helps with quality control, maintenance, and organisation.
 | ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) | General maintainer |
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) | Beatmap metadata expert |
 
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_LT]: /wiki/shared/flag/LT.gif
-[flag_LV]: /wiki/shared/flag/LV.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
+[flag_LV]: /wiki/shared/flag/LV.gif "Latvia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
