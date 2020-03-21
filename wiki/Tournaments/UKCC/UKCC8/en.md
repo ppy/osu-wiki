@@ -181,13 +181,13 @@ UK is run by many wonderful people, this list doesn't fully represent how many a
 
 ![Map pools](img/mappool.png)
 
-There are currently no map pools for UKCC 8
+*There are currently no map pools for UKCC 8.*
 
 ## Schedules / Match Results
 
 ![Schedules](img/schedule_no_number.png)
 
-Currently no matches have been played / scheduled for UKCC 8
+*Currently no matches have been played / scheduled for UKCC 8.*
 
 Please enjoy game 🙏
 
