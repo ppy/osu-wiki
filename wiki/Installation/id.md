@@ -39,7 +39,7 @@ Ada dua cara untuk menambahkan beatmap, melalui situs web atau osu!direct (memer
 4. Cari dan buka file beatmapset, file ini memiliki ekstensi `.osz`.
     - Sebagai alternatif, anda juga dapat menempatkan file beatmapset ke folder `Songs` pada direktori osu! anda.
 5. osu! secara otomatis akan menangani sisanya untuk anda dan memuat beatmapset.
-    - Jika, karena alasan apa pun, anda tidak dapat melihatnya, tekan `F5` dalam Mode [Solo](/wiki/Interface) untuk memproses kembali beatmap anda.
+    - Jika, karena alasan apa pun, anda tidak dapat melihatnya, tekan `F5` dalam Mode [Solo](/wiki/Interface#song-selection-screen) untuk memproses kembali beatmap anda.
 
 ### osu!direct
 
@@ -49,8 +49,8 @@ Ada dua cara untuk menambahkan beatmap, melalui situs web atau osu!direct (memer
 2. Cari lagu yang akan anda mainkan.
 3. Klik dua kali lagu pada daftar atau klik `Unduh` di sebelah kanan untuk mengunduhnya.
     - Jika anda tidak ingin mengunduh videonya, klik `DL NoVideo` sebagai gantinya.
-4. Saat osu! selesai mengunduh beatmapset, secara otomatis osu! akan memuatnya jika anda berada dalam Mode Solo, pada layar [Pemilihan Lagu](/wiki/Interface).
-    - Jika, karena alasan apa pun, anda tidak dapat melihatnya, tekan `F5` dalam Mode [Solo](/wiki/Interface) untuk memproses kembali beatmap anda.
+4. Saat osu! selesai mengunduh beatmapset, secara otomatis osu! akan memuatnya jika anda berada dalam Mode Solo, pada layar [Pemilihan Lagu](/wiki/Interface#song-selection-screen).
+    - Jika, karena alasan apa pun, anda tidak dapat melihatnya, tekan `F5` dalam Mode [Solo](/wiki/Interface#song-selection-screen) untuk memproses kembali beatmap anda.
 
 ## Menambahkan skins
 

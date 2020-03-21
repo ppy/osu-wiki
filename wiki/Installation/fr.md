@@ -39,7 +39,7 @@ Il existe deux manières d'ajouter des beatmaps, via le site Web ou osu!direct (
 4. Recherchez et ouvrez le fichier beatmapset, il possède l'extension `.osz` (normalement présent dans votre dossier "Téléchargement").
     - Vous pouvez également placer le fichier beatmapset dans le dossier `Songs` du dossier osu! (qui se situe dans votre dossier "AppData\Local" par défaut si vous n'aviez pas changé le dossier au début de l'installation).
 5. osu! se chargera automatiquement du reste et chargera la beatmap.
-    - Si, pour une raison quelconque, vous ne les voyez pas, pressez `F5` en [Mode Solo](/wiki/Interface) pour re-traiter vos beatmaps. *Ce processus prendra du temps si vous avez beaucoup de beatmaps.*
+    - Si, pour une raison quelconque, vous ne les voyez pas, pressez `F5` en [Mode Solo](/wiki/Interface#song-selection-screen) pour re-traiter vos beatmaps. *Ce processus prendra du temps si vous avez beaucoup de beatmaps.*
 
 ### osu!direct
 
@@ -49,9 +49,9 @@ Il existe deux manières d'ajouter des beatmaps, via le site Web ou osu!direct (
 2. Trouvez une chanson que vous aimeriez.
 3. Double-cliquez sur la chanson dans la liste ou cliquez sur `Télécharger` à droite pour la télécharger.
     - Si vous ne souhaitez pas télécharger la vidéo, cliquez sur `DL NoVideo` en jeu.
-4. Quand osu! a fini le téléchargement du beatmapset, il sera automatiquement chargé si vous êtes en mode solo, à l'écran [Song Selection](/wiki/Interface).
-    - Si, pour une raison quelconque, vous ne les voyez pas, pressez `F5` en [Mode Solo](/wiki/Interface) pour re-traiter vos beatmaps. *Ce processus prendra du temps si vous avez beaucoup de beatmaps.*
-  
+4. Quand osu! a fini le téléchargement du beatmapset, il sera automatiquement chargé si vous êtes en mode solo, à l'écran [Song Selection](/wiki/Interface#song-selection-screen).
+    - Si, pour une raison quelconque, vous ne les voyez pas, pressez `F5` en [Mode Solo](/wiki/Interface#song-selection-screen) pour re-traiter vos beatmaps. *Ce processus prendra du temps si vous avez beaucoup de beatmaps.*
+
 ## Ajout de skins
 
 *Voir également: [Skins](/wiki/Glossary#skin) et [Skinning](/wiki/Skinning)*
