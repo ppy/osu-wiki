@@ -1,5 +1,11 @@
 ---
 no_native_review: true
+tags:
+  - osu! staff
+  - osu!team
+  - osu! team
+  - staff
+  - team osu!
 ---
 # Teamet
 
