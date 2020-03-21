@@ -120,7 +120,7 @@ The osu!taiko World Cup 2020 is run by various community members.
   - [fallen shepherd feat. RabbiTon Strings - ENDYMION (Capu) \[Encore Extra Stage\]](https://osu.ppy.sh/beatmapsets/1078749#taiko/2257147)
   - [The Flashbulb - Creep (Greenshell) \[Nyctophobia\]](https://osu.ppy.sh/beatmapsets/966087#taiko/2100987)
   - [Hana to Onyx - Ariadne (Y O U T A) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/584627#taiko/2349068)
-  - [Noisia - Groundhog (Beat Juggle) (JarvisGaming) \[Taiko Master\]](https://osu.ppy.sh/beatmapsets/877901#taiko/1836115)
+  - [Noisia - Groundhog (Beat Juggle) (JarvisGaming) \[Crumbs (TWC 2020)\]](https://osu.ppy.sh/beatmapsets/877901#taiko/2351705)
 - Hidden
   - [Nekomata Master - Rengoku no Elfenia (Nwolf) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/743744#taiko/1568359)
   - [xi - Finder keepers (Mapper 31) \[Oni\]](https://osu.ppy.sh/beatmapsets/336183#taiko/744070)
