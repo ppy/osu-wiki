@@ -927,10 +927,13 @@
 "st":                              "People/The_Team/Support_Team"
 "str":                             "People/The_Team/Support_Team"
 
-"osu!team":  "People/The_Team"
-"osu!_team": "People/The_Team"
-"team":      "People/The_Team"
-"the_team":  "People/The_Team"
+"osu!_staff": "People/The_Team"
+"osu!team":   "People/The_Team"
+"osu!_team":  "People/The_Team"
+"staff"       "People/The_Team"
+"team":       "People/The_Team"
+"team_osu!"   "People/The_Team"
+"the_team":   "People/The_Team"
 
 "dev":       "People/The_Team/Developers"
 "devs":      "People/The_Team/Developers"
