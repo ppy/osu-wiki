@@ -30,7 +30,8 @@ The **UK Community Cup 8** (***UKCC 8***) is the eigth edition of the bi-annual 
 
 - The structure of the tournament will be:
   1. Qualifier
-  2. Double Elimination Bracket
+  2. Group stage (32 teams)
+  3. Double Elimination Bracket (16 teams)
 - To be able to participate, players must have an **![][flag_GB] Great Britain or ![][flag_IE] Irish flag or be able to provide proof of residency to the hosts.**
 - The total rank of both players must not be below **1,000**. Any teams that do not meet this criteria will be removed from the tournament.
 - Matches will be **Team VS** and **Score V2**
@@ -62,13 +63,14 @@ The **UK Community Cup 8** (***UKCC 8***) is the eigth edition of the bi-annual 
 ### Banning
 
 - Qualifiers there are no bans.
-- RO32, teams will have **one** ban.
+- In the group stage, teams will have **one** ban.
 - RO16 onwards, teams will have **two** bans.
 - Teams have 2 minutes to ban a map. Failure to ban a map within this time limit results in a lost ban.
 
 ### Warmups
 
-- There will be no warmups during the qualifiers. After this, warmup maps must be a submitted beatmap, and have a drain time of 4 minutes or less.
+- There will be no warmups during the qualifiers.
+- From the group stage onwards, each team can choose to pick a warmup. Warmup maps must be a submitted beatmap, and have a drain time of 4 minutes or less.
 
 ### Picking
 
@@ -86,12 +88,13 @@ The **UK Community Cup 8** (***UKCC 8***) is the eigth edition of the bi-annual 
 | Signups open | 2020-02-20 |
 | Signups close | 2020-03-15 |
 | Qualifier | 2020-03-28/2020-03-29 |
-| Round of 32 | 2020-04-04/2020-04-05 |
-| Round of 16 + losers round 1 | 2020-04-11/2020-04-12 |
-| Quarter finals + losers round 2/3 | 2020-04-18/2020-04-19 |
-| Semi finals + losers round 4/5 | 2020-04-25/2020-04-26 |
-| Winners finals + losers 6/semi final | 2020-05-02/2020-05-03 |
-| Losers final + grand finals | 2020-05-09/2020-05-10 |
+| Group stage week 1 | 2020-04-04/2020-04-05 |
+| Group stage week 2 | 2020-04-11/2020-04-12 |
+| Round of 16 + losers round 1 | 2020-04-18/2020-04-19 |
+| Quarter finals + losers round 2/3 | 2020-04-25/2020-04-26 |
+| Semi finals + losers round 4/5 | 2020-05-02/2020-05-03 |
+| Winners finals + losers 6/semi final | 2020-05-09/2020-05-10 |
+| Losers final + grand finals | 2020-05-16/2020-05-17 |
 
 ## Prizes
 
