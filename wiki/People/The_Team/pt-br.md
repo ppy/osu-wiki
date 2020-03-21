@@ -1,8 +1,9 @@
 ---
+no_native_review: true
 tags:
   - osu!team
+  - osu! team
   - staff
-no_native_review: true
 ---
 
 # A Equipe

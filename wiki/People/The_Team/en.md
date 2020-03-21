@@ -1,6 +1,7 @@
 ---
 tags:
   - osu!team
+  - osu! team
   - staff
 ---
 
