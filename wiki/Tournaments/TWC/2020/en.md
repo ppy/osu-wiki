@@ -374,7 +374,7 @@ The osu!taiko World Cup 2020 is run by various community members.
 7. The FreeMod bracket will have FreeMod activated. Every individual player can pick Hidden, HardRock or both.
    - Players **must** select different mod combinations. Both players using only NoMod, only Hidden, only HardRock or Hidden+HardRock is disallowed.
 8. The tiebreaker will be played under FreeMod conditions.
-   - When playing the tiebreaker, players can select same mod combinations.
+   - When playing the tiebreaker, no one needs to have a mod activated and players can select same mod combinations.
 9. The size of the NoMod bracket will be 4 in Group Stage, 5 in Round of 16 and Quarterfinals and 6 for Semifinals, Finals and Grand Finals.
 10. The size of the [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers) brackets will be 2 in all stages.
 11. The size of the FreeMod brackets will be 3 in all stages.
