@@ -236,7 +236,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 Samedi, 21 Mars 2020:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | **Fuka Pura** | **7** | 2 | Kaleesy Pura | [#1](https://osu.ppy.sh/community/matches/59441101) |
 
