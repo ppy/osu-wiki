@@ -397,7 +397,7 @@ Lunes, 27 Enero 2020:
 - Los resultados mas detallados de las qualifiers se pueden acceder en la [spreadsheet](https://docs.google.com/spreadsheets/d/1wGCrW2IdRmmnu_JKuAVEELSKvCm2zacyiLDLns0SwsM/edit#gid=1549366682)
 - El total de puntos se determina por `la posición Σ ganada al jugar el mappool de clasificaciones (en cada tier)`, cuanto más baja sea la puntuación mejor
 
-## Ruleset
+## Reglas
 
 ### Reglas generales
 
