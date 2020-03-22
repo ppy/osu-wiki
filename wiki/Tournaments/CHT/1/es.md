@@ -291,332 +291,209 @@ Coffee Hispanic Tournament fue realizado por varios miembros de la comunidad.
 - DoubleTime
   - [Nekomata Master feat. Hayashi Momoko - TWINKLING other side edition (bank78952) \[Kantan\]](https://osu.ppy.sh/beatmapsets/776049#taiko/1684690)
 
-## Match results
+## Resultado de las partidas
 
-### Grand Finals
+### Finales
 
-Sunday, 15 March 2020:
+Sábado, 15 Febrero 2020:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Equipo 1 |  |  | Equipo 2 | Link del match |
 | --: | :-: | :-: | :-- | :-- |
-| Maou ![][flag_DE] | 0 | **7** | ![][flag_DE] **Malox** | [#1](https://osu.ppy.sh/community/matches/59230042) |
-| **Malox** ![][flag_DE] | **7** | 2 | ![][flag_DE] Maou | [#1](https://osu.ppy.sh/community/matches/59232271) |
+| **Hallo y caspi** | **7** | 1 | Ladrillo | [#1](https://osu.ppy.sh/community/matches/58471366) |
 
-### Finals
+Lunes, 17 Febrero 2020:
 
-Saturday, 7 March 2020:
-
-| Player 1 |  |  | Player 2 | Match link |
+| Equipo 1 |  |  | Equipo 2 | Link del match |
 | --: | :-: | :-: | :-- | :-- |
-| awdse22 ![][flag_SG] | 4 | **7** | ![][flag_DE] **Malox** | [#1](https://osu.ppy.sh/community/matches/58997041) |
-| **Maou** ![][flag_DE] | **7** | 2 | ![][flag_SG] moosepi | [#1](https://osu.ppy.sh/community/matches/59006407) |
+| **United States** | **7** | 3 | Noveno Gaston | [#1](https://osu.ppy.sh/community/matches/58530443) |
 
-Sunday, 8 March 2020:
+### Semifinales
 
-| Player 1 |  |  | Player 2 | Match link |
+Viernes, 7 Febrero 2020:
+
+| Equipo 1 |  |  | Equipo 2 | Link del match |
 | --: | :-: | :-: | :-- | :-- |
-| moosepi ![][flag_SG] | 2 | **7** | ![][flag_DE] **Malox** | [#1](https://osu.ppy.sh/community/matches/59037109) |
+| Hallo y Caspi | 3 | **6** | **United States** | [#1](https://osu.ppy.sh/community/matches/58274385) |
 
-### Semifinals
+Domingo, 9 Febrero 2020:
 
-Saturday, 29 February 2020:
-
-| Player 1 |  |  | Player 2 | Match link |
+| Equipo 1 |  |  | Equipo 2 | Link del match |
 | --: | :-: | :-: | :-- | :-- |
-| squidstain ![][flag_MY] | -1 | **0** | ![][flag_NZ] **Blujae** | *win by default* |
-| **awdse22** ![][flag_SG] | **6** | 2 | ![][flag_DE] Kirross | [#1](https://osu.ppy.sh/community/matches/58816474) |
-| **helios44** ![][flag_SG] | **0** | -1 | ![][flag_FR] Champs de ble | *win by default* |
-| TLQ\_Yoshii ![][flag_FR] | 0 | **6** | ![][flag_DE] **Malox** | [#1](https://osu.ppy.sh/community/matches/58825826) |
-| **Maou** ![][flag_DE] | **6** | 0 | ![][flag_AR] Vaf | [#1](https://osu.ppy.sh/community/matches/58827425) |
+| **Noveno Gaston** | **6** | 4 | Ladrillo | [#1](https://osu.ppy.sh/community/matches/58333712) |
 
-Sunday, 1 March 2020:
+### Cuartos de Final
 
-| Player 1 |  |  | Player 2 | Match link |
+Viernes, 31 Enero 2020:
+
+| Equipo 1 |  |  | Equipo 2 | Link del match |
 | --: | :-: | :-: | :-- | :-- |
-| helios44 ![][flag_SG] | 1 | **6** | ![][flag_SG] **awdse22** | [#1](https://osu.ppy.sh/community/matches/58841473) |
-| Blujae ![][flag_NZ] | 4 | **6** | ![][flag_DE] **Malox** | [#1](https://osu.ppy.sh/community/matches/58846279) |
-| Olii ![][flag_GB] | 4 | **6** | ![][flag_SG] **moosepi** | [#1](https://osu.ppy.sh/community/matches/58853961) |
+| **hallo y caspi** | **5** | 2 | Radical | [#1](https://osu.ppy.sh/community/matches/58108351) |
 
-### Quarterfinals
+Domingo, 2 Febrero 2020:
 
-Friday, 21 February 2020:
-
-| Player 1 |  |  | Player 2 | Match link |
+| Equipo 1 |  |  | Equipo 2 | Link del match |
 | --: | :-: | :-: | :-- | :-- |
-| **moosepi** ![][flag_SG] | **5** | 1 | ![][flag_MY] squidstain | [#1](https://osu.ppy.sh/community/matches/58610936) |
+| **Noveno Gaston** | **0** | -1 | Geometry Dash | *win by default* |
 
-Saturday, 22 February 2020:
+Lunes, 3 Febrero 2020:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Equipo 1 |  |  | Equipo 2 | Link del match |
 | --: | :-: | :-: | :-- | :-- |
-| **Dartandr** ![][flag_RU] | **5** | 4 | ![][flag_RU] Vasyadogs | [#1](https://osu.ppy.sh/community/matches/58636770) |
-| Enohx ![][flag_DE] | 0 | **5** | ![][flag_NZ] **Blujae** | [#1](https://osu.ppy.sh/community/matches/58637846) |
-| **Malox** ![][flag_DE] | **5** | 1 | ![][flag_BY] DrDazzle | [#1](https://osu.ppy.sh/community/matches/58639367) |
-| **Maou** ![][flag_DE] | **5** | 1 | ![][flag_SG] awdse22 | [#1](https://osu.ppy.sh/community/matches/58640813) |
-| BadAimBoi ![][flag_PL] | 1 | **5** | ![][flag_IT] **Kozzo** | [#1](https://osu.ppy.sh/community/matches/58640808) |
-| **DrugManager** ![][flag_DE] | **5** | 1 | ![][flag_AR] Megafan | [#1](https://osu.ppy.sh/community/matches/58642456) |
-| ByTiger ![][flag_DE] | 0 | **5** | ![][flag_FR] **Champs de ble** | [#1](https://osu.ppy.sh/community/matches/58643984) |
-| **Champs de ble** ![][flag_FR] | **5** | 2 | ![][flag_DE] DrugManager | [#1](https://osu.ppy.sh/community/matches/58645499) |
-| **Boaz** ![][flag_NL] | **5** | 1 | ![][flag_HK] -Storm7- | [#1](https://osu.ppy.sh/community/matches/58648845) |
+| **Ladrillo** | **5** | 4 | Orgullo Peruano | [#1](https://osu.ppy.sh/community/matches/58170771) |
+| **United States** | **5** | 2 | Empanada | [#1](https://osu.ppy.sh/community/matches/58187610) |
 
-Sunday, 23 February 2020:
+### Octavos de Final
 
-| Player 1 |  |  | Player 2 | Match link |
+Sábado, 25 Enero 2020:
+
+| Equipo 1 |  |  | Equipo 2 | Link del match |
 | --: | :-: | :-: | :-- | :-- |
-| **Vaf** ![][flag_AR] | **5** | 1 | ![][flag_SG] helios44 | [#1](https://osu.ppy.sh/community/matches/58657219) |
-| **Blujae** ![][flag_NZ] | **5** | 1 | ![][flag_NL] Boaz | [#1](https://osu.ppy.sh/community/matches/58666520) |
-| Dartandr ![][flag_RU] | 0 | **5** | ![][flag_DE] **Malox** | [#1](https://osu.ppy.sh/mp/58667706) |
-| Loliezi1337 ![][flag_US] | -1 | **0** | ![][flag_DE] Kirross | *win by default* |
-| Kozzo ![][flag_IT] | 2 | **5** | ![][flag_DE] **Kirross** | [#1](https://osu.ppy.sh/community/matches/58674792) |
-| **Olii** ![][flag_GB] | **5** | 1 | ![][flag_FR] **TLQ\_Yoshii** | [#1](https://osu.ppy.sh/mp/58678216) |
+| **United States** | **5** | 4 | un equipo | [#1](https://osu.ppy.sh/community/matches/57976602) |
+| **Empanada** | **5** | 4 | Gaston Noveno | [#1](https://osu.ppy.sh/community/matches/57979635) |
 
-### Round of 16
+Domingo, 26 Enero 2020:
 
-Friday, 14 February 2020:
-
-| Player 1 |  |  | Player 2 | Match link |
+| Equipo 1 |  |  | Equipo 2 | Link del match |
 | --: | :-: | :-: | :-- | :-- |
-| Arbusion ![][flag_AU] | 0 | **5** | ![][flag_NZ] **Blujae** | [#1](https://osu.ppy.sh/mp/58433048) |
-| Malox ![][flag_DE] | 2 | **5** | ![][flag_DE] **Maou** | [#1](https://osu.ppy.sh/community/matches/58440442) |
+| **Noveno Gaston** | **5** | 3 | Jester S Rank | [#1](https://osu.ppy.sh/community/matches/57997604) |
+| **Hallo y Caspi** | **5** | 4 | TPIOBJRANMJ FC | [#1](https://osu.ppy.sh/community/matches/58000264) |
+| Perrito Billetudo | 4 | **5** | **Radical** | [#1](https://osu.ppy.sh/community/matches/57998997) |
+| **Ladrillo** | **5** | 0 | DOU | [#1](https://osu.ppy.sh/community/matches/58003787) |
 
-Saturday, 15 February 2020:
+Lunes, 27 Enero 2020:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Equipo 1 |  |  | Equipo 2 | Link del match |
 | --: | :-: | :-: | :-- | :-- |
-| zd101nb ![][flag_CN] | -1 | **0** | ![][flag_DE] **Kirross** | *win by default* |
-| **helios44** ![][flag_SG] | **5** | 2 | ![][flag_DE] Enohx | [#1](https://osu.ppy.sh/community/matches/58461271) |
-| **awdse22** ![][flag_SG] | **5** | 1 | ![][flag_RU] Dartandr | [#1](https://osu.ppy.sh/mp/58464162) |
-| Samoyed ![][flag_FI] | 2 | **5** | ![][flag_RU] **Vasyadogs** | [#1](https://osu.ppy.sh/community/matches/58464156) |
-| Santeri ![][flag_FI] | 0 | **5** | ![][flag_IT] **Kozzo** | [#1](https://osu.ppy.sh/community/matches/58465670) |
-| ByTiger ![][flag_DE] | 2 | **5** | ![][flag_MY] **squidstain** | [#1](https://osu.ppy.sh/community/matches/58465676) |
-| Katsumi ![][flag_DE] | 2 | **5** | ![][flag_AR] **Megafan** | [#1](https://osu.ppy.sh/community/matches/58467487) |
-| **Vaf** ![][flag_AR] | **5** | 0 | ![][flag_NL] Boaz | [#1](https://osu.ppy.sh/community/matches/58469338) |
-| SuperSquirrel51 ![][flag_CA] | 0 | **5** | ![][flag_FR] **Champs de ble** | [#1](https://osu.ppy.sh/community/matches/58476069) |
+| **Geometry Dash** | **5** | 1 | Equipo Trece | [#1](https://osu.ppy.sh/community/matches/58006943) |
+| **Orgullo Peruano** | **5** | 2 | Rivals | [#1](https://osu.ppy.sh/community/matches/58008265) |
 
-Sunday, 16 February 2020:
+### Eliminatorias
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| BadAimBoi ![][flag_PL] | 2 | **5** | ![][flag_FR] **TLQ_Yoshii** | [#1](https://osu.ppy.sh/community/matches/58496768) |
-| DrugManager ![][flag_DE] | 4 | **5** | ![][flag_SG] **moosepi** | [#1](https://osu.ppy.sh/community/matches/58499885) |
-| Yeong Yuseong ![][flag_US] | 2 | **5** | ![][flag_HK] **-Storm7-** | [#1](https://osu.ppy.sh/community/matches/58504436) |
-| Loliezi1337 ![][flag_US] | 1 | **5** | ![][flag_GB] **Olii** | [#1](https://osu.ppy.sh/community/matches/58507300) |
+#### Tier 1
 
-### Round of 32
+| Seed | Jugador | Total de puntos |
+| --: | :-- | --: |
+| #1 | ![][flag_ES] [ByYoshi14](https://osu.ppy.sh/users/4470553) | 33 |
+| #2 | ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761) | 42 |
+| #3 | ![][flag_PE] [Arnold24x24](https://osu.ppy.sh/users/2291265) | 52 |
+| #4 | ![][flag_MX] [-Hebel-](https://osu.ppy.sh/users/6169483) | 55 |
+| #5 | ![][flag_AR] [Mariano](https://osu.ppy.sh/users/6371395) | 64 |
+| #6 | ![][flag_AR] [Lexalia](https://osu.ppy.sh/users/1887616) | 68 |
+| #6 | ![][flag_PE] [Hoshinomori](https://osu.ppy.sh/users/4112621) | 68 |
+| #8 | ![][flag_MX] [Riot](https://osu.ppy.sh/users/4256461) | 69 |
+| #9 | ![][flag_AR] [Amuro](https://osu.ppy.sh/users/7119659) | 76 |
+| #10 | ![][flag_AR] [BossPlays](https://osu.ppy.sh/users/7341471) | 78 |
+| #11 | ![][flag_UY] [-PloX](https://osu.ppy.sh/users/6404583) | 80 |
+| #12 | ![][flag_CL] [Intercambing](https://osu.ppy.sh/users/2546001) | 84 |
+| #13 | ![][flag_MX] [-Wolfy-](https://osu.ppy.sh/users/4497582) | 86 |
+| #14 | ![][flag_ES] [RivenXLukario](https://osu.ppy.sh/users/9582556) | 90 |
+| #15 | ![][flag_CL] [Danidesu](https://osu.ppy.sh/users/2748187) | 135 |
+| #16 | ![][flag_CL] [Deruz](https://osu.ppy.sh/users/5386106) | 144 |
+| #17 | ![][flag_CL] [Fudy](https://osu.ppy.sh/users/4576295) | 153 |
+| #18 | ![][flag_CL] [Dylson](https://osu.ppy.sh/users/6315784) | 162 |
 
-Friday, 7 February 2020:
+#### Tier 2
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **squidstain** ![][flag_MY] | **4** | 3 | ![][flag_BY] DrDazzle | [#1](https://osu.ppy.sh/community/matches/58260960) |
-| Vasyadogs ![][flag_RU] | 0 | **4** | ![][flag_SG] **moosepi** | [#1](https://osu.ppy.sh/community/matches/58266217) |
+| Seed | Jugador | Total de puntos |
+| --: | :-- | --: |
+| #1 | ![][flag_AR] [Penguo](https://osu.ppy.sh/users/4389490) | 33 |
+| #2 | ![][flag_CL] [ign](https://osu.ppy.sh/users/9360528) | 35 |
+| #3 | ![][flag_DE] [Dreamless](https://osu.ppy.sh/users/10353773) | 36 |
+| #4 | ![][flag_AR] [juliancala](https://osu.ppy.sh/users/3272902) | 42 |
+| #4 | ![][flag_AR] [Rimi](https://osu.ppy.sh/users/5194834) | 42 |
+| #6 | ![][flag_CO] [GaaL](https://osu.ppy.sh/users/2374950) | 48 |
+| #7 | ![][flag_UY] [daanit](https://osu.ppy.sh/users/6159669) | 55 |
+| #8 | ![][flag_CL] [iPunqcake](https://osu.ppy.sh/users/6633574) | 84 |
+| #9 | ![][flag_RO] [Lisko](https://osu.ppy.sh/users/11948017) | 85 |
+| #10 | ![][flag_PA] [hammytr](https://osu.ppy.sh/users/11562243) | 91 |
+| #11 | ![][flag_ES] [GokuLook](https://osu.ppy.sh/users/7684497) | 92 |
+| #12 | ![][flag_CL] [\[- Wolfy -\]](https://osu.ppy.sh/users/2811909) | 92 |
+| #13 | ![][flag_ES] [Moewagon](https://osu.ppy.sh/users/5764169) | 93 |
+| #14 | ![][flag_CO] [Rushy](https://osu.ppy.sh/users/5281857) | 116 |
+| #15 | ![][flag_AR] [Cata](https://osu.ppy.sh/users/5958063) | 135 |
+| #16 | ![][flag_DO] [TheRealWillLITE](https://osu.ppy.sh/users/6677788) | 144 |
+| #17 | ![][flag_MX] [lokillo_999](https://osu.ppy.sh/users/5317898) | 153 |
+| #18 | ![][flag_ES] [sorangan](https://osu.ppy.sh/users/6961543) | 162 |
+| #19 | ![][flag_BO] [Frio\_](https://osu.ppy.sh/users/6771098) | 171 |
+| #20 | ![][flag_AR] [-Kao-](https://osu.ppy.sh/users/7807935) | 180 |
 
-Saturday, 8 February 2020:
+#### Tier 3
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **helios44** ![][flag_SG] | **4** | 3 | ![][flag_CN] zd101nb | [#1](https://osu.ppy.sh/community/matches/58285453) |
-| **Olii** ![][flag_GB] | **4** | 1 | ![][flag_NZ] Blujae | [#1](https://osu.ppy.sh/community/matches/58290286) |
-| **Maou** ![][flag_DE] | **0** | -1 | ![][flag_FR] Champs de ble | *win by default* |
-| Kirross ![][flag_DE] | 2 | **4** | ![][flag_DE] **Enohx** | [#1](https://osu.ppy.sh/community/matches/58291512) |
-| **awdse22** ![][flag_SG] | **4** | 2 | ![][flag_DE] Katsumi | [#1](https://osu.ppy.sh/community/matches/58292406) |
-| Kozzo ![][flag_IT] | 3 | **4** | ![][flag_NL] **Boaz** | [#1](https://osu.ppy.sh/community/matches/58293268) |
-| Megafan ![][flag_AR] | 0 | **4** | ![][flag_RU] **Dartandr** | [#1](https://osu.ppy.sh/community/matches/58295154) |
-| Santeri ![][flag_FI] | 2 | **4** | ![][flag_AR] **Vaf** | [#1](https://osu.ppy.sh/community/matches/58296811) |
-| **Malox** ![][flag_DE] | **4** | 0 | ![][flag_CA] SuperSquirrel51 | [#1](https://osu.ppy.sh/community/matches/58298366) |
+| Seed | Jugador | Total de puntos |
+| --: | :-- | --: |
+| #1 | ![][flag_ES] [AitorAmu](https://osu.ppy.sh/users/7781304) | 19 |
+| #2 | ![][flag_MX] [Viva Viva Happy](https://osu.ppy.sh/users/4269282) | 37 |
+| #3 | ![][flag_AR] [BTG4](https://osu.ppy.sh/users/10659233) | 46 |
+| #4 | ![][flag_AR] [StreamKey](https://osu.ppy.sh/users/7586334) | 47 |
+| #5 | ![][flag_AR] [-Birke-](https://osu.ppy.sh/users/3265658) | 55 |
+| #6 | ![][flag_AR] [Megafan](https://osu.ppy.sh/users/6632605) | 56 |
+| #7 | ![][flag_UY] [Rondro](https://osu.ppy.sh/users/9293124) | 60 |
+| #8 | ![][flag_CO] [Schwarze](https://osu.ppy.sh/users/6575153) | 72 |
+| #9 | ![][flag_ES] [NotHans](https://osu.ppy.sh/users/9551773) | 80 |
+| #10 | ![][flag_CL] [-Bowee-](https://osu.ppy.sh/users/3572699) | 89 |
+| #11 | ![][flag_PR] [Tepi20](https://osu.ppy.sh/users/9480554) | 93 |
+| #12 | ![][flag_HN] [- Nel -](https://osu.ppy.sh/users/7975986) | 96 |
+| #13 | ![][flag_AR] [NEDEAAAHHHH](https://osu.ppy.sh/users/65724) | 101 |
+| #14 | ![][flag_CL] [\[- J u l i e -\]](https://osu.ppy.sh/users/12211248) | 110 |
+| #15 | ![][flag_AR] [Miltoon](https://osu.ppy.sh/users/10582071) | 119 |
+| #16 | ![][flag_PE] [-Hasaki-](https://osu.ppy.sh/users/9037054) | 144 |
+| #17 | ![][flag_AR] [-Zeid-](https://osu.ppy.sh/users/2212950) | 153 |
 
-Sunday, 9 February 2020:
+#### Tier 4
 
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Loliezi1337** ![][flag_US] | **4** | 0 | ![][flag_AU] Arbusion | [#1](https://osu.ppy.sh/community/matches/58310043) |
-| **DrugManager** ![][flag_DE] | **4** | 1 | ![][flag_FI] Samoyed | [#1](https://osu.ppy.sh/community/matches/58320930) |
-| **ByTiger** ![][flag_DE] | **4** | 1 | ![][flag_FI] Pickxarro | [#1](https://osu.ppy.sh/community/matches/58325652) |
-| -Storm7- ![][flag_HK] | 3 | **4** | ![][flag_FR] **TLQ\_Yoshii** | [#1](https://osu.ppy.sh/community/matches/58325726) |
-| **BadAimBoi** ![][flag_PL] | **4** | 1 | ![][flag_US] Yeong Yuseong | [#1](https://osu.ppy.sh/community/matches/58328827) |
+| Seed | Jugador | Total de puntos |
+| --: | :-- | --: |
+| #1 | ![][flag_AR] [Shig](https://osu.ppy.sh/users/6117281) | 18 |
+| #2 | ![][flag_CL] [Barack](https://osu.ppy.sh/users/9402889) | 40 |
+| #3 | ![][flag_AR] [Vexiion](https://osu.ppy.sh/users/10361419) | 47 |
+| #4 | ![][flag_ES] [JoanaBob](https://osu.ppy.sh/users/10966302) | 50 |
+| #5 | ![][flag_CO] [ElMick33](https://osu.ppy.sh/users/5458323) | 54 |
+| #6 | ![][flag_AR] [Awus](https://osu.ppy.sh/users/1991253) | 56 |
+| #7 | ![][flag_ES] [caspi99](https://osu.ppy.sh/users/7610747) | 70 |
+| #8 | ![][flag_AR] [Umi Sonoda](https://osu.ppy.sh/users/6474451) | 73 |
+| #9 | ![][flag_AR] [\[Rin Hoshizora\]](https://osu.ppy.sh/users/11238108) | 83 |
+| #10 | ![][flag_AR] [Keyz](https://osu.ppy.sh/users/10408325) | 89 |
+| #11 | ![][flag_AR] [NaitsaGuin](https://osu.ppy.sh/users/2438483) | 91 |
+| #12 | ![][flag_ES] [MaTrihhh](https://osu.ppy.sh/users/5248352) | 96 |
+| #13 | ![][flag_ES] [marth0](https://osu.ppy.sh/users/6366060) | 101 |
+| #14 | ![][flag_PA] [luca -](https://osu.ppy.sh/users/12758218) | 119 |
+| #15 | ![][flag_MX] [Keversan](https://osu.ppy.sh/users/12134286) | 130 |
+| #16 | ![][flag_CL] [Nawala](https://osu.ppy.sh/users/8665990) | 131 |
+| #17 | ![][flag_CL] [Hide On 1-2](https://osu.ppy.sh/users/11020221) | 153 |
+| #18 | ![][flag_CL] [Plntote](https://osu.ppy.sh/users/7559996) | 165 |
+| #19 | ![][flag_ES] [AlexBiazzz](https://osu.ppy.sh/users/10514394) | 172 |
+| #20 | ![][flag_EC] [UnWeCualquiera](https://osu.ppy.sh/users/11783312) | 174 |
+| #21 | ![][flag_PY] [\_splenty](https://osu.ppy.sh/users/10966088) | 183 |
+| #22 | ![][flag_PE] [Leongf](https://osu.ppy.sh/users/9103105) | 192 |
+| #23 | ![][flag_PE] [Waynedude](https://osu.ppy.sh/users/9138491) | 211 |
 
-### Group Stage
-
-Friday, 31 January 2020:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Boaz** ![][flag_NL] | **4** | 1 | ![][flag_GB] 0CitrineQueen0 | [#1](https://osu.ppy.sh/community/matches/58096496) |
-| 0CitrineQueen0 ![][flag_GB] | -1 | **0** | ![][flag_SG] **moosepi** | *win by default* |
-| AhzekAhriman ![][flag_RU] | 0 | **4** | ![][flag_SG] **moosepi** | [#1](https://osu.ppy.sh/community/matches/58101908) |
-| **moosepi** ![][flag_SG] | **4** | 2 | ![][flag_NL] Boaz | [#1](https://osu.ppy.sh/community/matches/58103578) |
-| **Blujae** ![][flag_NZ] | **4** | 2 | ![][flag_FR] Champs de ble | [#1](https://osu.ppy.sh/community/matches/58103456) |
-| **Samoyed** ![][flag_FI] | **4** | 1 | ![][flag_CA] poing | [#1](https://osu.ppy.sh/community/matches/58105959) |
-| **Champs de ble** ![][flag_FR] | **4** | 0 | ![][flag_DE] DieButterStulle | [#1](https://osu.ppy.sh/community/matches/58106282) |
-| Geromu Keretem ![][flag_BG] | 0 | **4** | ![][flag_FR] **Champs de ble** | [#1](https://osu.ppy.sh/community/matches/58107442) |
-| **Olii** ![][flag_GB] | **4** | 1 | ![][flag_NZ] Erkfir | [#1](https://osu.ppy.sh/community/matches/58109802) |
-
-Saturday, 1 February 2020:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| TorreManias ![][flag_NI] | 3 | **4** | ![][flag_CA] SuperSquirrel51 | [#1](https://osu.ppy.sh/community/matches/58114105) |
-| SuperSquirrel51 ![][flag_CA] | 2 | **4** | ![][flag_AU] **Arbusion** | [#1](https://osu.ppy.sh/community/matches/58116230) |
-| **Arbusion** ![][flag_AU] | **4** | 0 | ![][flag_NI] TorreManias | [#1](https://osu.ppy.sh/community/matches/58117193) |
-| **helios44** ![][flag_SG] | **4** | 3 | ![][flag_NZ] NutAndGo | [#1](https://osu.ppy.sh/community/matches/58118807) |
-| Fre3Styl3r ![][flag_DE] | -1 | **0** | ![][flag_MY] **squidstain** | *win by default* |
-| wawrzyn9 ![][flag_PL] | -1 | **0**  | ![][flag_AU] **Arbusion** | *win by default* |
-| -\[GuiboxFR\]- ![][flag_FR] | 1 | **4** | ![][flag_SG] **helios44** | [#1](https://osu.ppy.sh/community/matches/58120726) |
-| NutAndGo ![][flag_NZ] | 1 | **4** | ![][flag_DE] **ByTiger** | [#1](https://osu.ppy.sh/community/matches/58121254) |
-| **Erkfir** ![][flag_NZ] | **4** | 2 | ![][flag_DE] HiddenDenki | [#1](https://osu.ppy.sh/community/matches/58121404) |
-| **DrDazzle** ![][flag_BY] | **4** | 3 | ![][flag_FR] Aidown | [#1](https://osu.ppy.sh/community/matches/58121255) |
-| Ullei ![][flag_PL] | 0 | **4** | ![][flag_CN] **zd101nb** | [#1](https://osu.ppy.sh/community/matches/58121264) |
-| BitDust ![][flag_ID] | 0 | **4** | ![][flag_DE] **Malox** | [#1](https://osu.ppy.sh/community/matches/58122084) |
-| zd101nb ![][flag_CN] | 3 | **4** | ![][flag_FI] **Pickxarro** | [#1](https://osu.ppy.sh/community/matches/58122146) |
-| **Dartandr** ![][flag_RU] | **4** | 1 | ![][flag_RU] poppasanas | [#1](https://osu.ppy.sh/community/matches/58122111) |
-| persik23 ![][flag_RU] | 0 | **4** | ![][flag_RU] **Vasyadogs** | [#1](https://osu.ppy.sh/community/matches/58121842) |
-| Ristpek ![][flag_FI] | -1 | **0** | ![][flag_FR] **TLQ\_Yoshii** | *win by default* |
-| **Pickxarro** ![][flag_FI] | **0** | -1 | ![][flag_GB] -jordan- | *win by default* |
-| Geromu Keretem ![][flag_BG] | 0 | **4** | ![][flag_NZ] **Blujae** | [#1](https://osu.ppy.sh/community/matches/58123200) |
-| **Pe6eHoK98** ![][flag_RU] | **4** | 1 | ![][flag_UA] claggole | [#1](https://osu.ppy.sh/community/matches/58123184) |
-| -\[GuiboxFR\]- ![][flag_FR] | -1 | **0** | ![][flag_NZ] **NutAndGo** | *win by default* |
-| **TLQ\_Yoshii** ![][flag_FR] | **4** | 3 | ![][flag_RU] Dartandr | [#1](https://osu.ppy.sh/community/matches/58124540) |
-| Enohx ![][flag_DE] | 3 | **4** | ![][flag_BY] **DrDazzle** | [#1](https://osu.ppy.sh/community/matches/58124569) |
-| squidstain ![][flag_MY] | 3 | **4** | ![][flag_DE] **Kirross** | [#1](https://osu.ppy.sh/community/matches/58124565) |
-| **Santeri** ![][flag_FI] | **4** | 0 | ![][flag_RU] Pe6eHoK98 | [#1](https://osu.ppy.sh/community/matches/58125917) |
-| **Maou** ![][flag_DE] | **4** | 1 | ![][flag_GB] Olii | [#1](https://osu.ppy.sh/community/matches/58125765) |
-| **Vasyadogs** ![][flag_RU] | **4** | 2 | ![][flag_US] yaityboi | [#1](https://osu.ppy.sh/community/matches/58125574) |
-| claggole ![][flag_UA] | 0 | **4** | ![][flag_DE] **DrugManager** | [#1](https://osu.ppy.sh/community/matches/58127512) |
-| **awdse22** ![][flag_SG] | **4** | 0 | ![][flag_PL] BadAimBoi | [#1](https://osu.ppy.sh/community/matches/58127418) |
-| Xellander ![][flag_PL] | 2 | **4** | ![][flag_FI] **Samoyed** | [#1](https://osu.ppy.sh/community/matches/58127440) |
-| **Vaf** ![][flag_AR] | **4** | 1 | ![][flag_PL] Xellander | [#1](https://osu.ppy.sh/community/matches/58128993) |
-| **Katsumi** ![][flag_DE] | **4** | 2 | ![][flag_CA] Senko-san | [#1](https://osu.ppy.sh/community/matches/58130287) |
-| shineasone ![][flag_CA] | 0 | **4** | ![][flag_DE] **Enohx** | [#1](https://osu.ppy.sh/community/matches/58132340) |
-| **Malox** ![][flag_DE] | **0** | -1 | ![][flag_US] Loliezi1337 | *win by default* |
-| HiddenDenki ![][flag_DE] | -1 | **0** | ![][flag_DE] **Maou** | *win by default* |
-| yaityboi ![][flag_US] | 1 | **4** | ![][flag_IT] **Kozzo** | [#1](https://osu.ppy.sh/community/matches/58135948) |
-| **Samoyed** ![][flag_FI] | **4** | 1 | ![][flag_AR] Vaf | [#1](https://osu.ppy.sh/community/matches/58139650) |
-| **Loliezi1337** ![][flag_US] | **4** | 2 | ![][flag_BR] Hanik | [#1](https://osu.ppy.sh/community/matches/58139318) |
-| -Storm7- ![][flag_HK] | 2 | **4** | ![][flag_AR] **Megafan** | [#1](https://osu.ppy.sh/community/matches/58139642) |
-
-Sunday, 2 February 2020:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Megafan** ![][flag_AR] | **4** | 2 | ![][flag_US] Dohland | [#1](https://osu.ppy.sh/community/matches/58142226) |
-| **Hanik** ![][flag_BR] | **4** | 1 | ![][flag_ID] BitDust | [#1](https://osu.ppy.sh/community/matches/58142673) |
-| BitDust ![][flag_ID] | 0 | **4** | ![][flag_US] **Loliezi1337** | [#1](https://osu.ppy.sh/community/matches/58144220) |
-| poing ![][flag_CA] | 0 | **4** | ![][flag_AR] **Vaf** | [#1](https://osu.ppy.sh/community/matches/58145249) |
-| **SergoM4444** ![][flag_RU] | **4** | 2 | ![][flag_PH] Lazereed | [#1](https://osu.ppy.sh/community/matches/58150751) |
-| ByTiger ![][flag_DE] | 1 | **4** | ![][flag_SG] **helios44** | [#1](https://osu.ppy.sh/community/matches/58151647) |
-| Lazereed ![][flag_PH] | 0 | **4** | ![][flag_PL] **BadAimBoi** | [#1](https://osu.ppy.sh/community/matches/58151611) |
-| **Kozzo** ![][flag_IT] | **4** | 1 | ![][flag_RU] persik23 | [#1](https://osu.ppy.sh/community/matches/58152528) |
-| Fre3Styl3r ![][flag_DE] | -1 | **0** | ![][flag_DE] **Kirross** | *win by default* |
-| Aidown ![][flag_FR] | 0 | **4** | ![][flag_DE] **Enohx** | [#1](https://osu.ppy.sh/community/matches/58153724) |
-| DieButterStulle ![][flag_DE] | 0 | **4** | ![][flag_NZ] **Blujae** | [#1](https://osu.ppy.sh/community/matches/58153737) |
-| Ullei ![][flag_PL] | 0 | **4** | ![][flag_FI] **Pickxarro** | [#1](https://osu.ppy.sh/community/matches/58155054) |
-| DieButterStulle ![][flag_DE] | 2 | **4** | ![][flag_BG] **Geromu Keretem** | [#1](https://osu.ppy.sh/community/matches/58155153) |
-| **Kirross** ![][flag_DE] | **4** | 1 | ![][flag_US] quadrillionaire | [#1](https://osu.ppy.sh/community/matches/58154907) |
-| poppasanas ![][flag_RU] | 2 | **4** | ![][flag_FR] **TLQ\_Yoshii** | [#1](https://osu.ppy.sh/community/matches/58155097) |
-| AhzekAhriman ![][flag_RU] | 0 | **4** | ![][flag_NL] **Boaz** | [#1](https://osu.ppy.sh/community/matches/58155017) |
-| **Kozzo** ![][flag_IT] | **4** | 1 | ![][flag_RU] Vasyadogs | [#1](https://osu.ppy.sh/community/matches/58155747) |
-| SergoM4444 ![][flag_RU] | -1 | **0** | ![][flag_SG] **awdse22** | *win by default* |
-| HiddenDenki ![][flag_DE] | 0 | **4** | ![][flag_GB] **Olii** | [#1](https://osu.ppy.sh/community/matches/58156682) |
-| quadrillionaire ![][flag_US] | 1 | **4** | ![][flag_MY] **squidstain** | [#1](https://osu.ppy.sh/community/matches/58158015) |
-| DrugManager ![][flag_DE] | 1 | **4** | ![][flag_FI] **Santeri** | [#1](https://osu.ppy.sh/community/matches/58157984) |
-| Zidyx ![][flag_FR] | 0 | **4** | ![][flag_HK] **-Storm7-** | [#1](https://osu.ppy.sh/community/matches/58159279) |
-| **ByTiger** ![][flag_DE] | **4** | 0 | ![][flag_FR] -\[GuiboxFR\]- | [#1](https://osu.ppy.sh/community/matches/58159354) |
-| Pe6eHoK98 ![][flag_RU] | 1 | **4** | ![][flag_DE] **DrugManager** | [#1](https://osu.ppy.sh/community/matches/58159685) |
-| Hanik ![][flag_BR] | 0 | **4** | ![][flag_DE] **Malox** | [#1](https://osu.ppy.sh/community/matches/58159428) |
-| **Dohland** ![][flag_US] | **4** | 0 | ![][flag_FR] Zidyx | [#1](https://osu.ppy.sh/community/matches/58160986) |
-| claggole ![][flag_UA] | 0 | **4** | ![][flag_FI] **Santeri** | [#1](https://osu.ppy.sh/community/matches/58161227) |
-| Corruptyouth ![][flag_US] | 0 | **4** | ![][flag_DE] **Katsumi** | [#1](https://osu.ppy.sh/community/matches/58160916) |
-| persik23 ![][flag_RU] | -1 | -1 | ![][flag_US] yaityboi | *nullified* |
-| **Aidown** ![][flag_FR] | **4** | 1 | ![][flag_CA] shineasone | [#1](https://osu.ppy.sh/community/matches/58162384) |
-| Zidyx ![][flag_FR] | 0 | **4** | ![][flag_AR] **Megafan** | [#1](https://osu.ppy.sh/community/matches/58162406) |
-| **quadrillionaire** ![][flag_US] | **4** | 0 | ![][flag_DE] Fre3Styl3r | [#1](https://osu.ppy.sh/community/matches/58162437) |
-| wawrzyn9 ![][flag_PL] | 0 | **4** | ![][flag_NI] **TorreManias** | [#1](https://osu.ppy.sh/community/matches/58162546) |
-| 0CitrineQueen0 ![][flag_GB] | -1 | -1 | ![][flag_RU] AhzekAhriman | *nullified* |
-| **BadAimBoi** ![][flag_PL] | **4** | 3 | ![][flag_RU] SergoM4444 | [#1](https://osu.ppy.sh/community/matches/58162402) |
-| **poing** ![][flag_CA] | **0** | -1 | ![][flag_PL] Xellander | *win by default* |
-| shineasone ![][flag_CA] | 0 | **4** | ![][flag_BY] **DrDazzle** | [#1](https://osu.ppy.sh/community/matches/58164297) |
-| **SuperSquirrel51** ![][flag_CA] | **4** | 2 | ![][flag_PL] wawrzyn9 | [#1](https://osu.ppy.sh/community/matches/58164091) |
-| Dohland ![][flag_US] | 1 | **4** | ![][flag_HK] **-Storm7-** | [#1](https://osu.ppy.sh/community/matches/58164084) |
-| **Yeong Yuseong** ![][flag_US] | **4** | 3 | ![][flag_DE] Katsumi | [#1](https://osu.ppy.sh/community/matches/58164057) |
-| **Senko-san** ![][flag_CA] | **4** | 0 | ![][flag_US] Corruptyouth | [#1](https://osu.ppy.sh/community/matches/58167329) |
-| Erkfir ![][flag_NZ] | 0 | **4** | ![][flag_DE] **Maou** | [#1](https://osu.ppy.sh/community/matches/58167317) |
-| Senko-san ![][flag_CA] | 0 | **4** | ![][flag_US] **Yeong Yuseong** | [#1](https://osu.ppy.sh/community/matches/58169352) |
+- Solo los mejores 8 de cada tier pueden pasan para asi formar un equipo de 2 y avanzar a la ronda de eliminatorias
+- Los resultados mas detallados de las qualifiers se pueden acceder en la [spreadsheet](https://docs.google.com/spreadsheets/d/1wGCrW2IdRmmnu_JKuAVEELSKvCm2zacyiLDLns0SwsM/edit#gid=1549366682)
+- El total de puntos se determina por `la posición Σ ganada al jugar el mappool de clasificaciones (en cada tier)`, cuanto más baja sea la puntuación mejor
 
 ## Ruleset
 
-### General rules
-
-1. This tournament uses double-elimination bracket and single-player format. There are no teams here.
-2. The score system used will be **Score V2**.
-3. The mapset will be announced **every Sunday**, and the categories are NoMod, Hidden, HardRock, DoubleTime, FreeMod, Tiebreaker.
-4. Match schedule is decided by the organisers. Players may ask for a reschedule if the current schedule does not work for them. Each stage of this tournament will last a weekend.
-5. If there are no referees available, the match can be postponed.
-6. If both players gets a tied score on the Tiebreaker, the Tiebreaker will be replayed.
-7. If a player disconnects from the game, the opponent wins the round. The only exception is if the player disconnects during the first ten seconds of the song, in which the round is restarted.
-8. Maps cannot be used twice in the same round.
-9. Players have 15 minutes to show up to their scheduled match. If the opponent doesn't show up, the player who was supposed to play automatically advances onwards.
-10. Any other rules changes or unexpected occurrences will be announced in the discussion thread.
-
-### Rank restrictions
-
-A player's registration will not count if they are in the top 10,000 of the osu!taiko game mode. This is meant to be a beginner's tournament, and many, if not all the maps are catered towards those who are below rank #10,000. We do not want unfair advantages! However, there are two exceptions to this rule:
-
-1. If a player joins the top 10,000 after registering, but remains below #9,000 until the tournament starts, they are still eligible to participate.
-2. If a player ranks up beyond #10,000 while the tournament is taking place, they will only be disqualified from the tournament if their rank goes significantly beyond #9,000. It is recommended to stay below #9,000.
-
-### Stage regulations
-
-1. There are eight stages to this tournament: Qualifiers, Group Stage, Round of 32, Round of 16, Quarterfinals, Semifinals, Finals and Grand Finals.
-2. Matches are seeded. This will happen in the seeding round (Qualifiers). More information about seeding can be accessed in the [seeding regulations](#seeding-regulations) section.
-3. The winning condition for each stage are listed below:
-   - Group Stage and Round of 32: Best of 7 (first to 4 points)
-   - Round of 16 and Quarterfinals: Best of 9 (first to 5 points)
-   - Semifinals: Best of 11 (first to 6 points)
-   - Finals and Grand Finals: Best of 13 (first to 7 points)
-4. After the Group Stage, only the top 2 players from each group will advance to the next stage.
-
-### Seeding regulations
-
-1. During the seeding round, there will be multiple lobbies available at various hours. Players will be free to sign up to the lobbies they please.
-2. This match is mainly used to weed out the no-shows, however it is also used to file in any backup players who may be called upon to take place of a no-show in the future.
-3. A private match will be created for all the players, and will be invited into their match when it is their time. Make sure that you are online at this time.
-4. There will be no warmup during this event, but rather all the players will play through a shorter mappool.
-5. Seeding will be made with the average rank of each player on each map.
-6. Maps will be played twice in a row during the lobby. However, players can ask for a break of 5 minutes between each run.
-7. Results will be announced on the Discord server after the end of the weekend.
-
-### Match regulations
-
-1. A private match will be created for your match, and both players will be invited into their match when it is their time. Make certain you are online at this time.
-2. Each player can request one warmup map, but it must be **below 4 minutes**.
-3. Here is how bans and picks will happen:
-   - The first person to ban will be the loser of the `!roll`, then they will alternate bans. (Loser -> Winner -> Loser -> Winner)
-   - The first person to pick will be the winner of the `!roll`, then they will alternate picks. (Winner -> Loser -> Winner -> Loser -> ...)
-4. A player cannot ban a map from the same category twice.
-5. In case of a tie, the tiebreaker will be played.
-6. Results will be displayed on the Challonge brackets, and will be announced by the referee.
-
-### Mappool regulations
-
-1. There are different kind of mapools in each stage of the tournament, becoming progressively harder.
-2. Tiebreaker will be played under FreeMod.
-
-### Scheduling regulations
-
-1. Every stage is held during the weekend to let players practice.
-2. Matches are allowed to overlap if referees are available.
-3. Players must complete their match at the designated time or both players are eliminated.
-4. However if both players can come up with a better time than what we have schedule for them, please inform the organisers for a reschedule. They will rearrange your match if the proposed reschedule is informed before the Thursday of the weekend.
-
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_BG]: /wiki/shared/flag/BG.gif "Bulgaria"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_BO]: /wiki/shared/flag/BO.gif "Bolivia"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canadá"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
-[flag_FR]: /wiki/shared/flag/FR.gif "French"
+[flag_DE]: /wiki/shared/flag/DE.gif "Alemania"
+[flag_DO]: /wiki/shared/flag/DO.gif "República Dominicana"
+[flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
+[flag_ES]: /wiki/shared/flag/ES.gif "España"
+[flag_FR]: /wiki/shared/flag/FR.gif "Francia"
+[flag_HN]: /wiki/shared/flag/HN.gif "Honduras"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_MX]: /wiki/shared/flag/MX.gif "México"
+[flag_PA]: /wiki/shared/flag/PA.gif "Panamá"
+[flag_PE]: /wiki/shared/flag/PE.gif "Perú"
+[flag_PR]: /wiki/shared/flag/PR.gif "Puerto Rico"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
-[flag_QA]: /wiki/shared/flag/QA.gif "Qatar"
+[flag_PY]: /wiki/shared/flag/PY.gif "Paraguay"
+[flag_QA]: /wiki/shared/flag/QA.gif "Catar"
+[flag_RO]: /wiki/shared/flag/RO.gif "Rumania"
 [flag_SV]: /wiki/shared/flag/SV.gif "El Salvador"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_US]: /wiki/shared/flag/US.gif "Estados Unidos"
+[flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"
