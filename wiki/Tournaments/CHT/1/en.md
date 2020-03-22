@@ -36,15 +36,15 @@ The Coffee Hispanic Tournament was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_FR] [Ladybug](https://osu.ppy.sh/users/4833654), ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098) |
-| Map selector | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015), ![][flag_FR] [Ladybug](https://osu.ppy.sh/users/4833654), ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098), ![][flag_FR] [ZeddaStake](https://osu.ppy.sh/users/8801844) |
-| Referee | ![][flag_HK] [Brown918](https://osu.ppy.sh/users/9805760), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_DE] [GinIkari](https://osu.ppy.sh/users/6083491), ![][flag_NL] [Krekker](https://osu.ppy.sh/users/8265940), ![][flag_FR] [Ladybug](https://osu.ppy.sh/users/4833654), ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098), ![][flag_RU] [Nozdormu](https://osu.ppy.sh/users/7169208), ![][flag_CH] [OverKurumi](https://osu.ppy.sh/users/9987378), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_DE] [Rymus](https://osu.ppy.sh/users/6449966), ![][flag_FR] [Satsukel](https://osu.ppy.sh/users/9066390), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715), ![][flag_US] [travis_ba](https://osu.ppy.sh/users/10822220), ![][flag_FR] [ZeddaStake](https://osu.ppy.sh/users/8801844) |
-| Streamer | ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_NL] [Krekker](https://osu.ppy.sh/users/8265940), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_NL] [oliebol](https://osu.ppy.sh/users/2756335), ![][flag_US] [Rukairi](https://osu.ppy.sh/users/6642597), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958) |
-| Commentator | ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ![][flag_NZ] [Blujae](https://osu.ppy.sh/users/10613885), ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/9536977), ![][flag_US] [DiggyDogg](https://osu.ppy.sh/users/5014664), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_DE] [Enohx](https://osu.ppy.sh/users/6375060), ![][flag_PL] [Finite](https://osu.ppy.sh/users/5385806), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_DE] [GinIkari](https://osu.ppy.sh/users/6083491), ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_US] [kb131313](https://osu.ppy.sh/users/11229259), ![][flag_FR] [Ladygril](https://osu.ppy.sh/users/11989065), ![][flag_DE] [Malox](https://osu.ppy.sh/users/4516252), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_US] [Rukairi](https://osu.ppy.sh/users/6642597), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
-| Designer | ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286) |
-| Statistician | ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992) |
+| Manager | ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
+| Administrator | ![][flag_ES] [AzuuuNyan](https://osu.ppy.sh/users/9349479), ![][flag_AR] [iNeuu\_Z](https://osu.ppy.sh/users/9112463), ![][flag_US] [Pundice](https://osu.ppy.sh/users/7940696), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811) |
+| Map selector | ![][flag_PT] [My Angel Maki](https://osu.ppy.sh/users/11610772), ![][flag_US] [stackerjoe](https://osu.ppy.sh/users/7279141) |
+| Referee | ![][flag_CA] [dqwed](https://osu.ppy.sh/users/9977100), ![][flag_ES] [Karma](https://osu.ppy.sh/users/7196989), ![][flag_AR] [Katsura Aimi](https://osu.ppy.sh/users/7102463), ![][flag_SV] [Loarca](https://osu.ppy.sh/users/4650246), ![][flag_AR] [-Nanahira-](https://osu.ppy.sh/users/6169195), ![][flag_BG] [Ted](https://osu.ppy.sh/users/9717848), ![][flag_CO] [TheAleboy](https://osu.ppy.sh/users/8921554), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_CO] [Vanilla Aiz](https://osu.ppy.sh/users/12261024), ![][flag_AR] [Yorumi-](https://osu.ppy.sh/users/7755726) |
+| Streamer | ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
+| Commentator | ![][flag_AR] [Amuro](https://osu.ppy.sh/users/7119659), ![][flag_AR] [BossPlays](https://osu.ppy.sh/users/7341471), ![][flag_AR] [juliancala](https://osu.ppy.sh/users/3272902), ![][flag_ES] [Silver Falco](https://osu.ppy.sh/users/6573997), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
+| Designer | ![][flag_CO] [Clippy](https://osu.ppy.sh/users/6385568), ![][flag_AR] [Viief](https://osu.ppy.sh/users/14020439) |
+| Statistician | ![][flag_QA] [Rimumu](https://osu.ppy.sh/users/5823005), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
 | Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
-| Developer | ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098), ![][flag_FR] [ZeddaStake](https://osu.ppy.sh/users/8801844) |
 
 ## Links
 
@@ -609,6 +609,14 @@ A player's registration will not count if they are in the top 10,000 of the osu!
 4. However if both players can come up with a better time than what we have schedule for them, please inform the organisers for a reschedule. They will rearrange your match if the proposed reschedule is informed before the Thursday of the weekend.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_BG]: /wiki/shared/flag/BG.gif "Bulgaria"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_FR]: /wiki/shared/flag/FR.gif "French"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
+[flag_QA]: /wiki/shared/flag/QA.gif "Qatar"
+[flag_SV]: /wiki/shared/flag/SV.gif "El Salvador"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
