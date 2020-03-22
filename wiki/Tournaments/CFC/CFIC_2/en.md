@@ -8,7 +8,7 @@ tags:
 
 ![CFIC 2 logo](img/logo.jpg)
 
-The **Catch French Intermediate Cup 2** (***CFIC 2***) is an intermediate French double-elimination 1v1 osu!catch tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). This is the second installment of the Catch French Intermediate Cup and part of the Catch French Cup series.
+The **Catch French Intermediate Cup 2** (***CFIC 2***) was an intermediate French double-elimination 1v1 osu!catch tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), and ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). This was the second installment of the Catch French Intermediate Cup and part of the Catch French Cup series.
 
 ## Tournament schedule
 
@@ -31,7 +31,7 @@ The **Catch French Intermediate Cup 2** (***CFIC 2***) is an intermediate French
 
 ## Organisation
 
-The Catch French Intermediate Cup 2 is run by various community members.
+The Catch French Intermediate Cup 2 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -230,6 +230,14 @@ Saturday, 21 March 2020:
   - [TiA - Ryuusei (Dangaard) \[Hard\]](https://osu.ppy.sh/beatmapsets/10960#fruits/42241)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 21 March 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Fuka Pura** | **7** | 2 | Kaleesy Pura | [#1](https://osu.ppy.sh/community/matches/59441101) |
 
 ### Finals
 
