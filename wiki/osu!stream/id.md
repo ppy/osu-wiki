@@ -104,7 +104,7 @@ Warna latarnya yaitu Hijau.
 <img src="Normal.jpg" title="fig:Right|Stream mode" alt="Right|Stream mode" width="200" /> **Tingkat Kesulitan: Easy ("Stream Down!" dari Normal) ~ Normal (titik permulaan) ~ Hard ("Stream Up!" dari Normal)**
 Mode Stream adalah penerapan gameplay baru yang dikhususkan untuk osu!stream. Pada mode ini, pemain akan memulai permainan dengan lifebar yang telah terisi setengah dengan tingkat kesulitan Normal. Pemain akan ditugaskan untuk mengisi lifebar untuk memicu "Stream Up!", yang pada dasarnya meningkatkan tingkat kesulitan pada beatmap tersebut (dengan objek yang dikenai menjadi lebih banyak) namun tidak sesulit mode Expert. Ketika pemain mendapatkan "Stream Up!", pemain akan mendapatkan lifebar (tahap 3/tahap 2) dan "Stream Down!" akan terjadi apabila lifebar (tahap 3/tahap 2) habis, lalu tingkat kesulitan akan menurun dan lifebar akan terisi setengah penuh. Singkatnya, kamu memulai permainan diantara Easy dan Hard.
 
-Perhatikan bahwa kamu **harus mendapatkan nilai A (akurasi &gt;80%) di mode ini untuk membuka mode Expert dari lagu tersebut**. Akurasi lebih rendah dari 80% akan dihitung sebagai B, walau kamu telah mendapatkan *full combo* (dalam kasus ini kamu akan mendapatkan B).
+Perhatikan bahwa kamu **harus mendapatkan nilai A (akurasi >80%) di mode ini untuk membuka mode Expert dari lagu tersebut**. Akurasi lebih rendah dari 80% akan dihitung sebagai B, walau kamu telah mendapatkan *full combo* (dalam kasus ini kamu akan mendapatkan B).
 
 Warna latarnya yaitu Hijau (Easy), Biru (Normal) dan Merah Keunguan (Hard).
 
