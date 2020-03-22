@@ -75,7 +75,7 @@ Coffee Hispanic Tournament fue realizado por varios miembros de la comunidad.
 | **un equipo** | **![][flag_AR] [Megafan](https://osu.ppy.sh/users/6632605)**, ![][flag_DE] [Dreamless](https://osu.ppy.sh/users/10353773) |
 | **United States** | **![][flag_CL] [Barack](https://osu.ppy.sh/users/9402889)**, ![][flag_PE] [Hoshinomori](https://osu.ppy.sh/users/4112621) |
 
-## Podium
+## Podio
 
 Este competencia ha llegado a su fin y los resultados se demuestran en ese podio:
 
