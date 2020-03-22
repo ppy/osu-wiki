@@ -5,30 +5,30 @@ tags:
 
 # Coffee Hispanic Tournament
 
-![CHT logo](img/logo.jpg)
+![Logo del CHT](img/logo.jpg)
 
-The **Coffee Hispanic Tournament** (***CHT***) was a hispanic single-elimination 2v2 osu! tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_AR] [iNeuu\_Z](https://osu.ppy.sh/users/9112463), and ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811). This was the first installment of the Coffee Hispanic Tournament.
+La **Coffee Hispanic Tournament** (***CHT***) fue un torneo hispano 2v2 de single-elimination hosteado por ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_AR] [iNeuu\_Z](https://osu.ppy.sh/users/9112463), y ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811). Esta fue la primer edicion de la Coffee Hispanic Tournament.
 
-## Tournament schedule
+## Horarios del torneo
 
-| Event | Timestamp |
+| Evento | Fechas |
 | --: | :-- |
-| Registration phase | 2019-12-22/2020-01-04 |
-| Qualifiers | 2020-01-17/2020-01-20 |
-| Round of 16 | 2020-01-25/2020-01-27 |
-| Quarterfinals | 2020-01-31/2020-02-03 |
-| Semifinals | 2020-02-07/2020-02-09 |
-| Finals | 2020-02-15/2020-02-17 |
+| Fase de registro | 2019-12-22/2020-01-04 |
+| Eliminatorias | 2020-01-17/2020-01-20 |
+| Octavos de Final | 2020-01-25/2020-01-27 |
+| Cuartos de Final | 2020-01-31/2020-02-03 |
+| Semifinales | 2020-02-07/2020-02-09 |
+| Finales | 2020-02-15/2020-02-17 |
 
-## Prizes
+## Premios
 
-| Placing | Prizes |
+| Puestos | Premios |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter tag for each team member |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag for each team member |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag for each team member |
+| ![Corona de Oro](/wiki/shared/crown-gold.png "1er lugar") | Medalla única de perfil, 4 meses de osu!supporter tag para ambos miembros del equipo |
+| ![Corona de Plata](/wiki/shared/crown-silver.png "2ndo lugar") | 2 meses de osu!supporter tag para ambos miembros del equipo |
+| ![Corona de Bronce](/wiki/shared/crown-bronze.png "3er lugar") | 1 mes de osu!supporter tag para ambos miembros del equipo |
 
-![](img/badge.png "CHT winner badge")
+![](img/badge.png "Medalla para el ganador de CHT")
 
 ## Organisation
 
@@ -609,6 +609,5 @@ A player's registration will not count if they are in the top 10,000 of the osu!
 4. However if both players can come up with a better time than what we have schedule for them, please inform the organisers for a reschedule. They will rearrange your match if the proposed reschedule is informed before the Thursday of the weekend.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
