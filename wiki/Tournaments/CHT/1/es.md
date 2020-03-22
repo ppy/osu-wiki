@@ -89,7 +89,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 ### Finales
 
-**[Download the mappack here! (128 MB)](https://www.mediafire.com/file/npyk3ttzwzx5fzh/finals_mappack.rar/file)**
+**[Descarga el paquete de mapas aquí! (128 MB)](https://www.mediafire.com/file/npyk3ttzwzx5fzh/finals_mappack.rar/file)**
 
 - NoMod
   - [Naoki Miki (CV: Takahashi Rie) & Ebisuzawa Kurumi (CV: Ozawa Ari) - Unhappy End World (Yasaija 714) \[kotachi's Happiness\]](https://osu.ppy.sh/beatmapsets/823259#osu/1725346)
@@ -120,7 +120,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 ### Semifinales
 
-**[Download the mappack here! (104 MB)](https://www.mediafire.com/file/yjzttfvins5eaph/SF_Mappool.rar/file)**
+**[Descarga el paquete de mapas aquí! (104 MB)](https://www.mediafire.com/file/yjzttfvins5eaph/SF_Mappool.rar/file)**
 
 - NoMod
   - [Nanahira - Shinchoku Doudesuka? (Misure) \[Shinchoku\]](https://osu.ppy.sh/beatmapsets/342263#osu/1110623)
@@ -149,7 +149,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 ### Cuartos de Final
 
-**[Download the mappack here! (96 MB)](https://www.mediafire.com/file/u4ca2pur4p2kkqa/QF_Mappool.rar/file)**
+**[Descarga el paquete de mapas aquí! (96 MB)](https://www.mediafire.com/file/u4ca2pur4p2kkqa/QF_Mappool.rar/file)**
 
 - NoMod
   - [Guilty Kiss - Strawberry Trapper (Asaiga) \[Collab in Dice\]](https://osu.ppy.sh/beatmapsets/496107#osu/1057469)
@@ -176,7 +176,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 ### Octavos de Final
 
-**[Download the mappack here! (83 MB)](https://www.mediafire.com/file/s2shtc345su8t5z/CHT_R016_Mappool.rar/file)**
+**[Descarga el paquete de mapas aquí! (83 MB)](https://www.mediafire.com/file/s2shtc345su8t5z/CHT_R016_Mappool.rar/file)**
 
 - NoMod
   - [Jin ft. LiSA - Headphone Actor (captin1) \[Survival\]](https://osu.ppy.sh/beatmapsets/217105#osu/509346)
@@ -201,7 +201,7 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 ### Eliminatorias
 
-**[Download the mappack here! (66 MB)](https://www.mediafire.com/file/wn4sqp2gdkdfpw7/CHT_Mappool.rar/file)**
+**[Descarga el paquete de mapas aquí! (66 MB)](https://www.mediafire.com/file/wn4sqp2gdkdfpw7/CHT_Mappool.rar/file)**
 
 - NoMod
   - [Yonezawa Madoka - Responsibility Response (ShiraKai) \[Phantom\]](https://osu.ppy.sh/beatmapsets/276997#osu/627765)
