@@ -399,6 +399,57 @@ Lunes, 27 Enero 2020:
 
 ## Ruleset
 
+### Reglas generales
+
+1. El Coffee Hispanic Tournament es un torneo de **2 contra 2 osu!** y usará el **Score V2** como sistema de puntuación.
+2. El torneo usará el sistema de bracket de **eliminación simple**, lo que significa que si pierdes, serás eliminado del torneo.
+3. Este es un torneo donde solamente players de países **[Hispanohablantes](https://en.wikipedia.org/wiki/Hispanic#Spanish-speaking_countries_and_regions)** podrán ingresar.En caso de tener bandera de otro país pero ser hispanohablante, deberás justificar conmigo o Neuu tu nacionalidad.
+4. Hay 4 tiers divididos por rangos de osu!, más detalles a continuación:
+   - Tier 1: Rango #1 - #1,100
+   - Tier 2: Rango #1,101 - #4,000
+   - Tier 3: Rango #4,001 - #8,000
+   - Tier 4: Rango #8,001 - #25,000
+5. Los jugadores formarán un equipo de 2 si **son uno de los 8 primeros de cada tier en las Clasificatorias**. La composición del equipo utilizará una fórmula fija:
+   - El tier 1 será emparejado con el tier 4 con las reglas de posición aplicadas.
+   - El tier 2 será emparejado con el tier 3 con las reglas de posición aplicadas.
+   - Ejemplo de composición del equipo:
+     - El 1er lugar en el tier 1 será emparejado con el 8º lugar en el tier 4.
+     - El 2nd lugar en el tier 2 será emparejado con el 7º lugar en el tier 3.
+     - El 3er lugar en el tier 3 será emparejado con el 6to lugar en el tier 2.
+     - El 4to lugar en el tier 4 será emparejado con el 5º lugar en el tier 1.
+6. Se permite a los jugadores estar por debajo de #25.000 en el rango cuando la fase de registro aún está abierta, pero cuando se cierran los jugadores deben estar dentro del rango de rango.
+7. Se puede acceder al registro a través del [formulario de Google](https://forms.gle/18TgJQ5hMgfnsAnS7) y al unirse al servidor de Discordia. En caso de no hacer ambas cosas, su registro no será tenido en cuenta.
+8. Una vez que entren en el servidor de Discordia, necesitan cambiar su nombre de usuario de Discordia por su nombre de usuario de osu!
+9. Todos los miembros de la organización no podían participar en el torneo, con la excepción del selector de mapas, el diseñador y el comentarista.
+10. En caso de cualquier registro sospechoso, el gerente tiene todos los derechos para rechazar la solicitud.
+11. Cualquier comportamiento tóxico excesivo en el partido/discoteca puede proceder a la descalificación del torneo.
+
+### Regulaciones de partida
+
+1. Los árbitros llegarán al vestíbulo y enviarán invitaciones 10 minutos antes de cada partido. Los jugadores también van a ser conectados a través de Discordia en caso de que estén actualmente fuera de línea en la osu!.
+2. El límite de tiempo para entrar en el vestíbulo/partido en las eliminatorias es de **10 minutos**. Si no pueden hacerlo después del límite de tiempo, se contará como un no show.
+3. Todos los equipos tienen permitido reprogramar. Sin embargo, tiene que ser por lo menos una hora antes del horario inicial, y en caso de no presentarse al partido se contará como un no show.
+4. Si se presenta más tarde en el vestíbulo de las eliminatorias (siempre y cuando no haya pasado el límite de tiempo de 10 minutos) podrá jugar los mapas que no pudo jugar preguntándole al árbitro cuando todos los mapas lleguen a su fin.
+5. El ganador de la tirada `!roll` puede elegir entre prohibir primero y elegir segundo o prohibir segundo y elegir primero.
+6. Sólo habrá **una prohibición** por equipo en los octavos de final. Sin embargo, desde los cuartos de final y en adelante, cada equipo tendrá **2 prohibiciones**.
+7. Cuando se juega a FreeMod, es necesario que al menos 1 jugador tenga que usar un mod in de cada equipo. Se permite usar más de 1 mod.
+8. El tiempo disponible para prohibir/elegir mapas es de **2 minutos**.
+9. Todos los mapas de calentamiento deben estar por debajo de las **4:00**.
+10. En caso de que un equipo no banee o elija entre el tiempo establecido, el ban/eliminación irá al otro equipo y se establecerá otro límite de tiempo.
+11. Los puntos fallidos se contarán en el marcador final.  Incluyendo las puntuaciones de los clasificatorios.
+12. Si un jugador se desconecta antes del 25% del mapa, el mapa será reproducido una vez más.  Sin embargo, si hay otra desconexión por el mismo jugador, el punto será concedido al otro equipo.
+13. Si un jugador se desconecta después del 25% de cualquier mapa, el punto se le dará automáticamente al oponente a menos que haya evidencia de que su puntuación fue más alta que la de su oponente (siempre y cuando no haya sido a propósito).
+14. Si un jugador se desconecta y no se vuelve a unir o da alguna señal de que el jugador está en línea en osu! o Discordia después de 10 minutos, entonces el partido será una victoria por defecto del equipo contrario.
+15. Cualquier Mod está permitido en el Tiebreaker aunque no son obligatorios.
+16. El mod EZ tiene un multiplicador de x2.
+
+### Instrucciones de horarios
+
+1. Todos los horarios van a estar en UTC+0 debido a que muchos países tienen diferentes zonas horarias y es más fácil de esta manera. La conversión de zonas horarias se puede hacer a través de este [sitio web](https://www.timeanddate.com/worldclock/converter.html).
+2. El mapa de los clasificatorios se jugará dos veces. Todos los jugadores pueden jugar una repetición en su propio vestíbulo o en otro vestíbulo de su preferencia.
+3. Todos los partidos serán transmitidos en vivo.
+4. La clasificación de estrellas del grupo será diferente en los 6 grupos de mapas del torneo. Habrá un grupo general para todos en la etapa de clasificación.
+
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_BG]: /wiki/shared/flag/BG.gif "Bulgaria"
 [flag_BO]: /wiki/shared/flag/BO.gif "Bolivia"

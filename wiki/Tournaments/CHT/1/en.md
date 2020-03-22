@@ -401,67 +401,54 @@ Monday, 27 January 2020:
 
 ### General rules
 
-1. This tournament uses double-elimination bracket and single-player format. There are no teams here.
-2. The score system used will be **Score V2**.
-3. The mapset will be announced **every Sunday**, and the categories are NoMod, Hidden, HardRock, DoubleTime, FreeMod, Tiebreaker.
-4. Match schedule is decided by the organisers. Players may ask for a reschedule if the current schedule does not work for them. Each stage of this tournament will last a weekend.
-5. If there are no referees available, the match can be postponed.
-6. If both players gets a tied score on the Tiebreaker, the Tiebreaker will be replayed.
-7. If a player disconnects from the game, the opponent wins the round. The only exception is if the player disconnects during the first ten seconds of the song, in which the round is restarted.
-8. Maps cannot be used twice in the same round.
-9. Players have 15 minutes to show up to their scheduled match. If the opponent doesn't show up, the player who was supposed to play automatically advances onwards.
-10. Any other rules changes or unexpected occurrences will be announced in the discussion thread.
+1. Coffee Hispanic Tournament is a **2 versus 2 osu!** tournament and will use **Score V2** as the scoring system.
+2. The tournament will use **single-elimination** bracket system, meanings single lose and you will be eliminated from the tournament.
+3. This is a tournament where only players from [Hispanic countries](https://en.wikipedia.org/wiki/Hispanic#Spanish-speaking_countries_and_regions) can enter. In case of having a non-hispanic flag but being Hispanic, players should justify with the manager regarding their nationality.
+4. There are 4 tiers splitted by osu! ranks, more details below:
+   - Tier 1: Rank #1 - #1,100
+   - Tier 2: Rank #1,101 - #4,000
+   - Tier 3: Rank #4,001 - #8,000
+   - Tier 4: Rank #8,001 - #25,000
+5. Players will form a team of 2 **if they are one of the top 8 from each tiers in Qualifiers**. The team composition will use a fixed formula:
+   - Tier 1 will be paired with Tier 4 with flipped position rules applied
+   - Tier 2 will be paired with Tier 3 with flipped position rules applied
+   - Team composition example:
+     - 1st place in tier 1 will be paired with 8th place in tier 4
+     - 2nd place in tier 2 will be paired with 7th place in tier 3
+     - 3rd place in tier 3 will be paired with 6th place in tier 2
+     - 4th place in tier 4 will be paired with 5th place in tier 1
+6. Players are allowed to be below #25,000 in rank when the registration phase are still open but when they close players must be within the rank range.
+7. Registration can be accessed through the [Google form](https://forms.gle/18TgJQ5hMgfnsAnS7) and by joining the Discord server. In case of not doing both, their registration won't be taken into account.
+8. Once they get into the Discord server, they need to change their Discord nickname to their osu! username.
+9. All members within the organisation couldn't participate in the tournament, with the exceptions of mappool selector, designer, and commentator.
+10. In case of any suspicious registrations, manager has all the rights to reject the application.
+11. Any excessive toxic behaviour in the match/discord may proceed to a disqualification from the tournament.
 
-### Rank restrictions
+### Match instructions
 
-A player's registration will not count if they are in the top 10,000 of the osu!taiko game mode. This is meant to be a beginner's tournament, and many, if not all the maps are catered towards those who are below rank #10,000. We do not want unfair advantages! However, there are two exceptions to this rule:
+1. Referees are going to make the lobby and send invitations 10 minutes prior to each match. Players are also going to be pinged through Discord in case they are currently offline on osu!.
+2. The time limit to enter the lobby/match in the qualifiers is **10 minutes**. If they can't make it after the time limit, it will be counted as a no show.
+3. Every team is allowed to reeschedule. However, it has to be at least 1 hour prior to the inital schedule, and in case of not showing to the match it will be counted as a no show.
+4. If you show up later to a Qualifiers lobby (As long as the 10 minute time limit hasn't gone through) you are able to play the maps you couldn't play by asking the referee when all maps come to an end.
+5. The winner of the `!roll` may choose between banning first and picking second or banning second and picking first.
+6. There will be only **1 ban** per team on the Round of 16. Nevertheless, from the Quarterfinals and forward, each team will have **2 bans**.
+7. When playing FreeMod, it's necessary that at least 1 player has to use a mod in from each team. Using more than 1 mod is allowed.
+8. Time available to banning/picking maps is **2 minutes**.
+9. All Warmup maps must be below **4:00**.
+10. In case that one team does not ban or pick between the time set, the ban/pick will go to the other team and another time limit will be established.
+11. Failed Scores will be counted on the final score. Including Qualifiers scores.
+12. If a player disconnects before the 25% of the map, the map will be replayed once again. However, if there is another disconnection by the same player then the point will be granted to the other team.
+13. If a player disconnects after the 25% of any map, the point will be automatically given to the opponent unless there is evidence that their score was higher than their opponent´s (as long as it was not on purpose).
+14. If a player disconnects and doesn't rejoin or give any sign that the player is online in osu! or Discord after 10 minutes, then the match will be a win by default by the opposing team.
+15. Any Mod is allowed on the Tiebreaker although they are not compulsory.
+16. EZ mod has a multiplier of x2
 
-1. If a player joins the top 10,000 after registering, but remains below #9,000 until the tournament starts, they are still eligible to participate.
-2. If a player ranks up beyond #10,000 while the tournament is taking place, they will only be disqualified from the tournament if their rank goes significantly beyond #9,000. It is recommended to stay below #9,000.
+### Scheduling instructions
 
-### Stage regulations
-
-1. There are eight stages to this tournament: Qualifiers, Group Stage, Round of 32, Round of 16, Quarterfinals, Semifinals, Finals and Grand Finals.
-2. Matches are seeded. This will happen in the seeding round (Qualifiers). More information about seeding can be accessed in the [seeding regulations](#seeding-regulations) section.
-3. The winning condition for each stage are listed below:
-   - Group Stage and Round of 32: Best of 7 (first to 4 points)
-   - Round of 16 and Quarterfinals: Best of 9 (first to 5 points)
-   - Semifinals: Best of 11 (first to 6 points)
-   - Finals and Grand Finals: Best of 13 (first to 7 points)
-4. After the Group Stage, only the top 2 players from each group will advance to the next stage.
-
-### Seeding regulations
-
-1. During the seeding round, there will be multiple lobbies available at various hours. Players will be free to sign up to the lobbies they please.
-2. This match is mainly used to weed out the no-shows, however it is also used to file in any backup players who may be called upon to take place of a no-show in the future.
-3. A private match will be created for all the players, and will be invited into their match when it is their time. Make sure that you are online at this time.
-4. There will be no warmup during this event, but rather all the players will play through a shorter mappool.
-5. Seeding will be made with the average rank of each player on each map.
-6. Maps will be played twice in a row during the lobby. However, players can ask for a break of 5 minutes between each run.
-7. Results will be announced on the Discord server after the end of the weekend.
-
-### Match regulations
-
-1. A private match will be created for your match, and both players will be invited into their match when it is their time. Make certain you are online at this time.
-2. Each player can request one warmup map, but it must be **below 4 minutes**.
-3. Here is how bans and picks will happen:
-   - The first person to ban will be the loser of the `!roll`, then they will alternate bans. (Loser -> Winner -> Loser -> Winner)
-   - The first person to pick will be the winner of the `!roll`, then they will alternate picks. (Winner -> Loser -> Winner -> Loser -> ...)
-4. A player cannot ban a map from the same category twice.
-5. In case of a tie, the tiebreaker will be played.
-6. Results will be displayed on the Challonge brackets, and will be announced by the referee.
-
-### Mappool regulations
-
-1. There are different kind of mapools in each stage of the tournament, becoming progressively harder.
-2. Tiebreaker will be played under FreeMod.
-
-### Scheduling regulations
-
-1. Every stage is held during the weekend to let players practice.
-2. Matches are allowed to overlap if referees are available.
-3. Players must complete their match at the designated time or both players are eliminated.
-4. However if both players can come up with a better time than what we have schedule for them, please inform the organisers for a reschedule. They will rearrange your match if the proposed reschedule is informed before the Thursday of the weekend.
+1. All schedules are going to be on UTC+0 due to the fact that many countries have different timezones and its easier this way. Timezone conversion can be done through this [website](https://www.timeanddate.com/worldclock/converter.html).
+2. The Qualifiers mappool will be played twice. All players are allowed to play a rerun in their own lobby or in other lobby of their preference.
+3. All matches are going to be livestreamed.
+4. Pool Star Rating will differ in the 6 mappools of the tournament. There will be 1 overall pool for everyone in the Qualifiers Stage.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_BG]: /wiki/shared/flag/BG.gif "Bulgaria"
