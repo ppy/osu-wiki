@@ -277,8 +277,6 @@
 "keys":                        "Glossary#keys"
 "key":                         "Glossary#keys"
 "kiai":                        "Glossary#kiai"
-"kudosu":                      "Glossary#kudosu!"
-"kudosu!":                     "Glossary#kudosu!"
 "lead-in":                     "Glossary#lead-in"
 "lead_in":                     "Glossary#lead-in"
 "lead-in_time":                "Glossary#lead-in"
@@ -927,12 +925,20 @@
 "st":                              "People/The_Team/Support_Team"
 "str":                             "People/The_Team/Support_Team"
 
-"the_team":                        "People/The_Team"
-"team":                            "People/The_Team"
-"dev":                             "People/The_Team"
-"devs":                            "People/The_Team"
-"osu!dev":                         "People/The_Team"
-"osu!devs":                        "People/The_Team"
+"osu!_staff": "People/The_Team"
+"osu!team":   "People/The_Team"
+"osu!_team":  "People/The_Team"
+"staff":      "People/The_Team"
+"team":       "People/The_Team"
+"team_osu!":  "People/The_Team"
+"the_team":   "People/The_Team"
+
+"dev":       "People/The_Team/Developers"
+"devs":      "People/The_Team/Developers"
+"osu!dev":   "People/The_Team/Developers"
+"osu!devs":  "People/The_Team/Developers"
+"osu!_dev":  "People/The_Team/Developers"
+"osu!_devs": "People/The_Team/Developers"
 
 "pp":                          "Performance_Points"
 "ppv2":                        "Performance_Points"
@@ -1569,4 +1575,19 @@
 # Renamed CFC 2 to CFC 2018
 "tournaments/cfc/2": "Tournaments/CFC/2018"
 
+# Shortcuts for Mappers' Guild
+"guild":          "Mappers_Guild"
+"mapper's_guild": "Mappers_Guild"
+"mappers'_guild": "Mappers_Guild"
+"mg":             "Mappers_Guild"
+
+# Sitemap isn't a real wiki page so this is necessary for the website to function when visiting /wiki/sitemap
 "sitemap": "Sitemap"
+
+# Kudosu shortcuts
+"kd":      "Modding/Kudosu"
+"kudosu":  "Modding/Kudosu"
+"kudosu!": "Modding/Kudosu"
+
+# Shortcut for Featured Artists
+"fa": "Featured_Artists"

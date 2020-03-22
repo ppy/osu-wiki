@@ -1,8 +1,7 @@
 # 2007
 
-*Página principal: [Historia de osu!](/wiki/HOO).*
-
 Lo mostrado a continuación es parte de la historia de osu! desde su comienzo. Agradecimientos especiales a [Sinistro](https://osu.ppy.sh/users/5530) por ayudar a reunir el contenido de 2007/2008.
+
 ![](img/2007.jpg)
 
 ## Julio
@@ -17,7 +16,7 @@ osu! comenzó como una prueba de concepto llamado "ouentest". La primera versió
 
 ![](img/2007-07_04.jpg "Círculos de golpeo")
 
-A finales de Julio, el sistema de menú fue cambiado para añadir un poco de estilo al juego. Se completó una implementación inicial de deslizadores, con una bola deslizante naranja no animada y algunas curvas relativamente feas. La sincronización de ritmo se agregó al editor, como una línea de tiempo y una interfaz de edición más robusta (muy similar a lo que ves en [Compose](/wiki/Compose) actualmente).
+A finales de Julio, el sistema de menú fue cambiado para añadir un poco de estilo al juego. Se completó una implementación inicial de deslizadores, con una bola deslizante naranja no animada y algunas curvas relativamente feas. La sincronización de ritmo se agregó al editor, como una línea de tiempo y una interfaz de edición más robusta (muy similar a lo que ves en [Compose](/wiki/Beatmap_Editor/Compose) actualmente).
 
 ![](img/2007-07_05.jpg "El editor")
 
@@ -35,7 +34,7 @@ El menú principal fue actualizado con un nuevo diseño, y el editor recibió un
 
 ![](img/2007-08_02.jpg "Evolucion de la explosión de golpe")
 
-La jugabilidad se vio mejorada con el debut de [Combo de fuego](/wiki/combo_fire), la barra de HP, estela del ratón, y mejores deslizadores. En este punto, osu! tenía una humilde colección de alrededor de 10 beatmaps diseñados por el equipo de prueba de alrededor de 5 personas.
+La jugabilidad se vio mejorada con el debut de [Combo de fuego](/wiki/Combo_fire), la barra de HP, estela del ratón, y mejores deslizadores. En este punto, osu! tenía una humilde colección de alrededor de 10 beatmaps diseñados por el equipo de prueba de alrededor de 5 personas.
 
 ![](img/2007-08_03.jpg "Selector de canciones para el modo editor")
 
@@ -45,7 +44,7 @@ La jugabilidad se vio mejorada con el debut de [Combo de fuego](/wiki/combo_fire
 
 ![](img/2007-09.jpg)
 
-2007-09-17 fue el nacimiento de osu! en lo que respecta al público. los foros que conocemos actualmente fueron establecidos, y alojados desde el dominio de origen de Peppy (`ppy.sh`). La atención se obtuvo a través de un anuncio de noticias en <http://www.bemanistyle.com>
+2007-09-17 fue el nacimiento de osu! en lo que respecta al público. los foros que conocemos actualmente fueron establecidos, y alojados desde el dominio de origen de Peppy (`ppy.sh`). La atención se obtuvo a través de un anuncio de noticias en [bemanistyle](http://www.bemanistyle.com)
 que atrajo a bastantes personas interesadas con experiencias anteriores en juegos de ritmo.
 
 ![](img/2007-09_01.jpg "Creación de deslizador en el editor")
@@ -74,7 +73,7 @@ La pantalla para seleccionar canciones vio mejoras, con agrupación de dificulta
 
 ![](img/2007-10_03.jpg "Mensaje de error")
 
-La versión 2 de `pUpdater` (`osume`) fue lanzada, soportando la descarga de paquetes opcionales. Esto incluyó hacer que los primeros skins hechos por el usuario estén disponibles para todos los jugadores a través del actualizador. El editor vio la implementación de [ajuste basado en distancia](/wiki/Distance_Snap), soporte de marcadores, múltiples tipos de curvas para los deslizadores, colores personalizados, juego de prueba, tiempo de entrada, y mucho más.
+La versión 2 de `pUpdater` (`osume`) fue lanzada, soportando la descarga de paquetes opcionales. Esto incluyó hacer que los primeros skins hechos por el usuario estén disponibles para todos los jugadores a través del actualizador. El editor vio la implementación de [ajuste basado en distancia](/wiki/Beatmap_Editor/Distance_Snap), soporte de marcadores, múltiples tipos de curvas para los deslizadores, colores personalizados, juego de prueba, tiempo de entrada, y mucho más.
 
 ## Noviembre
 
@@ -90,10 +89,10 @@ El rango SS fue agregado al sistema de calificaciones, reemplazando el resultado
 
 ![](img/2007-11_03.jpg "Testeando el uso de IRC")
 
-El [Sistema de envío de Beatmaps](/wiki/Beatmap_Submission_System) (BSS) se hizo público, permitiendo a los usuarios subir y compartir de forma sencilla sus creaciones. Esto introdujo Las secciones de mapas pendientes y mapas rankeados lo que ayudó a organizar la creciente y rápida colección de beatmaps subidos por los usuarios. Chat dentro del juego fue introducido, con un cliente IRC construido desde cero y conectado a un servidor IRC estándar (Aún no existe Bancho) El chat ampliado era visible. Avatars y estadísticas básicas se mostraban en el juego (usando una comunicación basada en http). Los controles de audio también se agregaron al menú principal, el cual ahora también reproduce una canción aleatoria al inicio. Las repeticiones podian ser vistas, tanto para los records locales como para los records subidos. Los jugadores pueden espectar a otros (¡Y los datos del espectador eran enviadas en bruto via IRC!).
+El [Sistema de envío de Beatmaps](/wiki/Glossary#bss) (BSS) se hizo público, permitiendo a los usuarios subir y compartir de forma sencilla sus creaciones. Esto introdujo Las secciones de mapas pendientes y mapas rankeados lo que ayudó a organizar la creciente y rápida colección de beatmaps subidos por los usuarios. Chat dentro del juego fue introducido, con un cliente IRC construido desde cero y conectado a un servidor IRC estándar (Aún no existe Bancho) El chat ampliado era visible. Avatars y estadísticas básicas se mostraban en el juego (usando una comunicación basada en http). Los controles de audio también se agregaron al menú principal, el cual ahora también reproduce una canción aleatoria al inicio. Las repeticiones podian ser vistas, tanto para los records locales como para los records subidos. Los jugadores pueden espectar a otros (¡Y los datos del espectador eran enviadas en bruto via IRC!).
 
 ## Diciembre
 
-Las canciones podían ser editadas al ser arrastradas a la venta de osu!. Información sobre herramientas fueron incluidas; explicando todos los diversos botones en el menú e interfaz del editor de osu!. Muchas skins de calidad fueron subidas por los primeros creadores de skins ([Holiday by LuigiHann](https://osu.ppy.sh/community/forums/topics/1139/start=0), [WindWaker by awp](https://osu.ppy.sh/community/forums/topics/761/start=0)). Nuevos métodos para ordenar fueron agregados en la pantalla de selección de canciones. Peppy podía ahora enviar anuncios universales a todos los jugadores de osu!. Se hicieron ajustes pequeños a la jugabilidad, como el oscurecimiento de círculo no activo.
+Las canciones podían ser editadas al ser arrastradas a la venta de osu!. Información sobre herramientas fueron incluidas; explicando todos los diversos botones en el menú e interfaz del editor de osu!. Muchas skins de calidad fueron subidas por los primeros creadores de skins ([Holiday by LuigiHann](https://osu.ppy.sh/community/forums/topics/1139), [WindWaker by awp](https://osu.ppy.sh/community/forums/topics/761)). Nuevos métodos para ordenar fueron agregados en la pantalla de selección de canciones. Peppy podía ahora enviar anuncios universales a todos los jugadores de osu!. Se hicieron ajustes pequeños a la jugabilidad, como el oscurecimiento de círculo no activo.
 
 ![](img/2007-12_01.jpg)

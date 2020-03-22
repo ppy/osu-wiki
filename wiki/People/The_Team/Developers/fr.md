@@ -1,5 +1,12 @@
 ---
 no_native_review: true
+tags:
+  - dev
+  - devs
+  - osu!dev
+  - osu!devs
+  - osu! dev
+  - osu! devs
 ---
 
 # Développeurs

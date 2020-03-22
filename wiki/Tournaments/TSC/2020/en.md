@@ -91,7 +91,69 @@ The Taiko Suiji Cup 2020 is run by various community members.
 | **The winner is the winner** | **![][flag_PL] [Acrith](https://osu.ppy.sh/users/389880)**, ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864), ![][flag_US] [driodx](https://osu.ppy.sh/users/9709548), ![][flag_CA] [beary605](https://osu.ppy.sh/users/2198070), ![][flag_ES] [Lunako](https://osu.ppy.sh/users/2041945), ![][flag_US] [Num5119](https://osu.ppy.sh/users/5198060) |
 | **Worldwide Bongo** | **![][flag_RU] [TwinT](https://osu.ppy.sh/users/9976154)**, ![][flag_NL] [Hypello](https://osu.ppy.sh/users/1594036), ![][flag_BR] [Kyoumo](https://osu.ppy.sh/users/8145223), ![][flag_PT] [Yumi\_Hideaki](https://osu.ppy.sh/users/10081162), ![][flag_HK] [LDator](https://osu.ppy.sh/users/9534414), ![][flag_US] [Yujki](https://osu.ppy.sh/users/14987094) |
 
+## Match schedule: Semifinals
+
+Saturday, 21 March 2020:
+
+| Match ID | Team 1 | Team 2 | Match time (UTC) |
+| :-: | --: | :-- | :-: |
+| #SF1 | #TeamTrees | plz Jeff | **00:00** |
+| #SF2 | Team 26 | Worldwide Bongo | **04:00** |
+| #SF4 | sunglasses emoji | The Shitmissers ft. zkane2 | **20:00** |
+| #SF3 | Spaghetti Protectors | 🍘 | **23:00** |
+
+Sunday, 22 March 2020:
+
+| Match ID | Team 1 | Team 2 | Match time (UTC) |
+| :-: | --: | :-- | :-: |
+| #SF5a¹ | Team 26 | Spaghetti Protectors | **11:00** |
+| #SF5b¹ | Team 26 | 🍘 | **21:00** |
+| #SF5c¹ | Worldwide Bongo | Spaghetti Protectors | **16:00** |
+| #SF5d¹ | Worldwide Bongo | 🍘 | **01:00** |
+| #SF6a² | #TeamTrees | sunglasses emoji | **09:00** |
+| #SF6b² | #TeamTrees | The Shitmissers ft. zkane2 | **23:00** |
+| #SF6c² | plz Jeff | sunglasses emoji | **20:00** |
+| #SF6d² | plz Jeff | The Shitmissers ft. zkane2 | **18:00** |
+
+¹ Encounter dependent on winner of Match #SF2 and Match #SF3  
+² Encounter dependent on winner of Match #SF1 and Match #SF4
+
 ## Mappools
+
+### Semifinals
+
+**[Download the mappack here! (77 MB)](https://mega.nz/#!twMWCIYY!xq_NirEU7Y3zCzEUXlj4hgF7ebmXY2pMRDV1MmvxBNc)**
+
+#### Mappool A
+
+- NoMod
+  - [SOUND HOLIC - Kowasareta Omamori (aabc271) \[Inner Oni++\]](https://osu.ppy.sh/beatmapsets/390789#taiko/851776)
+  - [sak - Inherited World (maziari1105) \[Oni\]](https://osu.ppy.sh/beatmapsets/675268#taiko/1428549)
+  - [xi - .357 Magnum (glalucard) \[Taiko\]](https://osu.ppy.sh/beatmapsets/89315#taiko/242880)
+  - [ARuFa - Boku no yume,Mechakuso mugenwaki (kitafuma) \[Mugen Dream\]](https://osu.ppy.sh/beatmapsets/1013147#taiko/2120688)
+- Hidden
+  - [Kikuo - Gangu Kyou Sou Kyoku -Shuuen- (Ulqui) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/927341#taiko/1937061)
+  - [NIKITA - SCARY BANQUET (YOUTAEES) \[YOUTA‘s Taiko\]](https://osu.ppy.sh/beatmapsets/379125#taiko/834153)
+- HardRock
+  - [Chito(CV:Inori Minase),Yuuri(CV:Yurika Kubo) - More One Night (Assertive Hardcore Bootleg) (Shallty) \[uone's tour\]](https://osu.ppy.sh/beatmapsets/709073#taiko/1909656)
+  - [DJ YOSHITAKA meets dj TAKA - Triple Counter (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/678445#taiko/1434526)
+- FreeMod
+  - [brz1128 - TRICKY TRIPPER (KitajimaYN) \[Offensive\]](https://osu.ppy.sh/beatmapsets/837824#taiko/1754178)
+  - [lapix - Future Raver feat. Numb'n'dub (Arrival) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/963997#taiko/2018209)
+
+#### Mappool B
+
+- Challenge
+  - [siqlo - pars/ey (HEKUSODASU) \[HEKUSO\]](https://osu.ppy.sh/beatmapsets/1063808#taiko/2227425)
+  - [t+pazolite - Good Night, Bad Luck (7\_7) \[Oni\]](https://osu.ppy.sh/beatmapsets/649105#taiko/1375226)
+- DoubleTime
+  - [TAKU1175 feat.Kanata.N - Din Don Dan (Fusion Remix) (maziari1105) \[Oni\]](https://osu.ppy.sh/beatmapsets/609906#taiko/1287911)
+- Easy
+  - [tarolabo - eth ken (\_yu68) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/530937#taiko/1125322)
+- Hidden+HardRock
+  - [t+pazolite - CENSORED!! (KitajimaYN) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/476520#taiko/1017812)
+- Tiebreaker
+  - **[HyuN - Ignis Heart (Konpaku Sariel) \[Ifrit\]](https://osu.ppy.sh/beatmapsets/1125510#taiko/2351641)**
 
 ### Quarterfinals
 
@@ -213,6 +275,30 @@ The Taiko Suiji Cup 2020 is run by various community members.
   - [Doma Umaru \[CV:Tanaka Aimi\] - Kakushinteki\*Metamaruphose! (Chiswell) \[UMR Oni\]](https://osu.ppy.sh/beatmapsets/345189#taiko/762526)
 
 ## Match results
+
+### Quarterfinals
+
+Saturday, 14 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Worldwide Bongo** | **6** | 3 | sunglasses emoji | [#1](https://osu.ppy.sh/community/matches/59181424) |
+| **4:3 gang** | **6** | 0 | IHATETAIKO | [#1](https://osu.ppy.sh/community/matches/59182774) |
+| **plz Jeff** | **6** | 4 | Spaghetti Protectors | [#1](https://osu.ppy.sh/community/matches/59182763) |
+| 🍘 | 5 | **6** | **#TeamTrees** | [#1](https://osu.ppy.sh/community/matches/59186591) |
+| Break4 | -1 | **0** | **t.** | *win by default* |
+| Team 5 | 3 | **6** | **Team 26** | [#1](https://osu.ppy.sh/community/matches/59188509) |
+| The winner is the winner | 2 | **6** | **The Shitmissers ft. zkane2** | [#1](https://osu.ppy.sh/community/matches/59188366) |
+
+Sunday, 15 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Team 6 | 3 | **6** | **chocobo** | [#1](https://osu.ppy.sh/community/matches/59208231) |
+| **sunglasses emoji** | **0** | -1 | 4:3 gang | *win by default* |
+| **Spaghetti Protectors** | **6** | 3 | t. | [#1](https://osu.ppy.sh/community/matches/59219832) |
+| Team 5 | -1 | **0** | **The Shitmissers ft. zkane2** | *win by default* |
+| **Rice Cracker** | **6** | 2 | chocobo | [#1](https://osu.ppy.sh/community/matches/59225333) |
 
 ### Round of 16
 

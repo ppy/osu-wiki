@@ -9,7 +9,7 @@ outdated: true
 ![](img/ow_MW.jpg "Full page screenshot of osu! wiki in MediaWiki, taken on 2017-02-17")
 
 | Date, Time | Description |
-| --- | --- |
+| :-- | :-- |
 | 2011-12-05T08:13Z | First edit of osu! wiki by Ephemeral. |
 | 2011-12-06 | [osu! wiki is now live!](https://osu.ppy.sh/community/forums/topics/68525). |
 | 2012-11 | osu! wiki now has 3 admins (Dellirium, Repflez). Previously, only peppy was the admin. |
@@ -24,8 +24,8 @@ outdated: true
 ## GitHub repository (2016 - present)
 
 | Date | Description |
-| --- | --- |
-| 2016-08-26 | [peppy created osu-wiki repository](https://github.com/ppy/osu-wiki/tree/3433cbeeda9303a470647cad1c338d43f4272a2e "osu-wiki repository"). craftu and Xyloo ported the MediaWiki content to the repository in a week. |
+| :-- | :-- |
+| 2016-08-26 | [peppy created osu-wiki repository](https://github.com/ppy/osu-wiki/tree/3433cbeeda9303a470647cad1c338d43f4272a2e). craftu and Xyloo ported the MediaWiki content to the repository in a week. |
 | 2016-09 | Most of the pages except the images are moved to the repository, with unsolved syntax-translation errors stemming from language differences between Markdown and MediaWiki. |
 | 2017-01 | osu!web support of osu! wiki done by nanaya. |
 | 2017-01-05 | [osu! wiki project suggested by Ephemeralis](https://github.com/ppy/osu-wiki/projects/1 "osu! wiki 2017 project by Ephemeralis"). |
