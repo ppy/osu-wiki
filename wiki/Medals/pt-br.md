@@ -41,7 +41,7 @@ Cada uma dessas seções atualmente tem 4 volumes.
 
 #### Curiosidades:
 
-- [Pacotes de beatmaps clássicos (2009 - 2016) antes da atualização de Stefan.](Beatmap_Packs_0916)
+- [Pacotes de beatmaps clássicos (2009 — 2016) antes da atualização de Stefan.](Beatmap_Packs_0916)
 
 ## Skill
 
