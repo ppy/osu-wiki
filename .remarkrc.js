@@ -1,4 +1,4 @@
-{
+module.exports = {
   "settings": {
     "commonmark": true,
     "emphasis": "*",
@@ -31,6 +31,7 @@
     ["lint-no-heading-content-indent"],
     ["lint-no-heading-indent"],
     ["lint-no-heading-like-paragraph"],
+    ["lint-no-html"],
     ["lint-no-missing-blank-lines", {"exceptTightLists": true}],
     ["lint-no-shortcut-reference-link", false],
     ["lint-no-tabs"],
