@@ -46,7 +46,7 @@
 
 3.  Vérifiez les paramètres. Réglez la méthode d'archivage en ".zip" (pas .7z, .rar) et renommez l'extension du dossier en .osz manuellement dans la boîte de dialogue.
 
-    Amigo Fiesta.zip -&gt; Amigo Fiesta.osz, Méthode d'archivage : ".zip"
+    Amigo Fiesta.zip -> Amigo Fiesta.osz, Méthode d'archivage : ".zip"
 
 4.  Laissez l'archivage se faire. Un fichier .osz sera produit avec l'icône distinctive d'osu! pour le fichier.
 5.  Faites de même pour d'autres archives. Pour le skinning, utilisez l'extension .osk.

@@ -86,7 +86,7 @@ Ils ne sont diffusés nulle part d'autre puisque nous encourageons les uilisateu
 | 2      | Ask Me Anything 2015    | [Charles445](https://osu.ppy.sh/users/85000), [deadbeat](https://osu.ppy.sh/users/128370), [Flanster](https://osu.ppy.sh/users/447818), [p3n](https://osu.ppy.sh/users/123703), et [ztrot](https://osu.ppy.sh/users/6347)  | [Lien](https://www.youtube.com/watch?v=a9An8cD18Co) |
 | 3      | 1 year anniversary      | [Charles445](https://osu.ppy.sh/users/85000), [deadbeat](https://osu.ppy.sh/users/128370), et [ztrot](https://osu.ppy.sh/users/6347)                                                                               | [Lien](https://www.youtube.com/watch?v=AHU7RgGCB50) |
 | 4      | Welcome back            | [deadbeat](https://osu.ppy.sh/users/128370), [Kyonko Hizara](https://osu.ppy.sh/users/444868), [Nyquill](https://osu.ppy.sh/users/682935), [Zak](https://osu.ppy.sh/users/1375955), [ztrot](https://osu.ppy.sh/users/6347) | [Lien](https://www.youtube.com/watch?v=mxXNNH5bnU4) |
-| 5      | Upcoming events Q&amp;A | [Kyonko Hizara](https://osu.ppy.sh/users/444868)et [ztrot](https://osu.ppy.sh/users/6347)                                                                                                                      | [Lien](https://www.youtube.com/watch?v=-f9hGuNC4Jg) |
+| 5      | Upcoming events Q&A | [Kyonko Hizara](https://osu.ppy.sh/users/444868)et [ztrot](https://osu.ppy.sh/users/6347)                                                                                                                      | [Lien](https://www.youtube.com/watch?v=-f9hGuNC4Jg) |
 
 ## Liens Externes
 

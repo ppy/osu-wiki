@@ -46,7 +46,7 @@
 
 3.  Jadikan format seperti ".zip" (jangan .7z, .rar) dan ubahlah format archive tersebut ke .osz.
 
-    DECO27 - Streaming Heart.zip -&gt; DECO27 - Streaming Heart.osz, Archive: ".zip"
+    DECO27 - Streaming Heart.zip -> DECO27 - Streaming Heart.osz, Archive: ".zip"
 
 4.  Tunggu beberapa saat memproses file .osz, akan muncul osu! icon jika sudah selesai.
 5.  Jika mau membuat file untuk skinning, pakailah format .osk.
