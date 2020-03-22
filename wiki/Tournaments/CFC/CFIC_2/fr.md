@@ -231,6 +231,14 @@ Samedi, 21 Mars 2020:
 
 ## Résultats des matches
 
+### Grandes Finales
+
+Samedi, 21 Mars 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Fuka Pura** | **7** | 2 | Kaleesy Pura | [#1](https://osu.ppy.sh/community/matches/59441101) |
+
 ### Finales
 
 Samedi, 14 Mars 2020:
