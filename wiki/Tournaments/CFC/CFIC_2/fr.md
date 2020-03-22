@@ -72,16 +72,15 @@ La Catch French Intermediate Cup 2 était gérée par différents membres de la 
 | C | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) | ![][flag_FR] [TomyLeFaux](https://osu.ppy.sh/users/9504653) | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) | ![][flag_FR] [NinjaCoktail](https://osu.ppy.sh/users/11431902) |
 | D | ![][flag_FR] [dracoV](https://osu.ppy.sh/users/7925725) | ![][flag_FR] [NoLimitFS](https://osu.ppy.sh/users/10411609) | ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990) | ![][flag_FR] [Oasix](https://osu.ppy.sh/users/6183012) |
 
-## Planning des matches: Grandes Finales
+## Podium
 
-Samedi, 21 Mars 2020:
+La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
-| ID du match | Joueur 1 |  |  | Joueur 2 | Horaire du match (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #1¹ | Fuka Pura | ![][flag_FR] | ![][flag_FR] | Kaleesy Pura | **15:00** |
-| #2¹ | Kaleesy Pura| ![][flag_FR] | ![][flag_FR] | Fuka Pura |  |
-
-¹ Le match commencera juste après le Match #1 et si le joueur 2 gagne le Match #1
+| Classement | Joueur |
+| :-: | :-- |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688) |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_FR] [Dask](https://osu.ppy.sh/users/4151397) |
 
 ## Liste des maps
 

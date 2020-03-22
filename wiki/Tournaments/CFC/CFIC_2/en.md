@@ -72,16 +72,15 @@ The Catch French Intermediate Cup 2 was run by various community members.
 | C | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) | ![][flag_FR] [TomyLeFaux](https://osu.ppy.sh/users/9504653) | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) | ![][flag_FR] [NinjaCoktail](https://osu.ppy.sh/users/11431902) |
 | D | ![][flag_FR] [dracoV](https://osu.ppy.sh/users/7925725) | ![][flag_FR] [NoLimitFS](https://osu.ppy.sh/users/10411609) | ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990) | ![][flag_FR] [Oasix](https://osu.ppy.sh/users/6183012) |
 
-## Match schedule: Grand Finals
+## Podium
 
-Saturday, 21 March 2020:
+This competition has come to an end and resulted in the following podium:
 
-| Match ID | Player 1 |  |  | Player 2 | Match time (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #1¹ | Fuka Pura | ![][flag_FR] | ![][flag_FR] | Kaleesy Pura | **15:00** |
-| #2¹ | Kaleesy Pura| ![][flag_FR] | ![][flag_FR] | Fuka Pura |  |
-
-¹ Match will take place right after Match #1 and if Player 2 wins Match #1
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Dask](https://osu.ppy.sh/users/4151397) |
 
 ## Mappools
 
