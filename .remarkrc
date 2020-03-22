@@ -16,7 +16,7 @@
     ["lint-final-definition", false],
     ["lint-final-newline"],
     ["lint-list-item-indent", "space"],
-    ["lint-list-item-spacing", {"checkBlanks": false}],
+    ["lint-list-item-spacing", {"checkBlanks": true}],
     ["lint-maximum-heading-length", false],
     ["lint-maximum-line-length", false],
     ["lint-no-file-name-outer-dashes", false],
