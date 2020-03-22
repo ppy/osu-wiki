@@ -1575,6 +1575,12 @@
 # Renamed CFC 2 to CFC 2018
 "tournaments/cfc/2": "Tournaments/CFC/2018"
 
+# Shortcuts for Mappers' Guild
+"guild":          "Mappers_Guild"
+"mapper's_guild": "Mappers_Guild"
+"mappers'_guild": "Mappers_Guild"
+"mg":             "Mappers_Guild"
+
 # Sitemap isn't a real wiki page so this is necessary for the website to function when visiting /wiki/sitemap
 "sitemap": "Sitemap"
 
@@ -1582,3 +1588,6 @@
 "kd":      "Modding/Kudosu"
 "kudosu":  "Modding/Kudosu"
 "kudosu!": "Modding/Kudosu"
+
+# Shortcut for Featured Artists
+"fa": "Featured_Artists"
