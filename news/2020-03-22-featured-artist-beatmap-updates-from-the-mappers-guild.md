@@ -40,7 +40,7 @@ A lot of the specific values for the points systems are still being worked on, s
 
 For the **Aether Realm mini-pack (osu!taiko)** quest, the mappers had to create and rank at least 3 mapsets of songs by Aether Realm, each hosted by a different user.
 
-This quest was completed by **[Raiden](https://osu.ppy.sh/users/2239480)**, **[Greenshell](https://osu.ppy.sh/users/8693851)**, **[LZD](https://osu.ppy.sh/users/224335)** and **[frukoyurdakul](https://osu.ppy.sh/users/7612550)**
+This quest was completed by **[Raiden](https://osu.ppy.sh/users/2239480)**, **[Greenshell](https://osu.ppy.sh/users/8693851)**, **[LZD](https://osu.ppy.sh/users/224335)** and **[frukoyurdakul](https://osu.ppy.sh/users/7612550)**!
 
 - [Aether Realm - Tarot](https://osu.ppy.sh/beatmapsets/1030740) by [Raiden](https://osu.ppy.sh/users/2239480)
 - [Aether Realm - The Devil](https://osu.ppy.sh/beatmapsets/1053572) by [LZD](https://osu.ppy.sh/users/224335)
@@ -50,15 +50,15 @@ This quest was completed by **[Raiden](https://osu.ppy.sh/users/2239480)**, **[G
 
 For the **Carpool Tunnel mini-pack** quests, the mappers had to create and rank at least 4 mapsets of songs by Carpool Tunnel, each hosted by a different user.
 
-The **osu!** version of this quest was completed by **[-Aqua](https://osu.ppy.sh/users/7150015)**, **[newton-](https://osu.ppy.sh/users/5875419)**, **[nextplay](https://osu.ppy.sh/users/7501935)**, **[domSaur](https://osu.ppy.sh/users/3806893)**, **[Mocaotic](https://osu.ppy.sh/users/9487458)**, **[Hinsvar](https://osu.ppy.sh/users/1249323)**, **[_Epreus](https://osu.ppy.sh/users/7342798)** and **[squirrelpascals](https://osu.ppy.sh/users/6151332)**
+The **osu!** version of this quest was completed by **[-Aqua](https://osu.ppy.sh/users/7150015)**, **[newton-](https://osu.ppy.sh/users/5875419)**, **[nextplay](https://osu.ppy.sh/users/7501935)**, **[domSaur](https://osu.ppy.sh/users/3806893)**, **[Mocaotic](https://osu.ppy.sh/users/9487458)**, **[Hinsvar](https://osu.ppy.sh/users/1249323)**, **[\_Epreus](https://osu.ppy.sh/users/7342798)** and **[squirrelpascals](https://osu.ppy.sh/users/6151332)**!
 
-- [Carpool Tunnel - Afterlight](https://osu.ppy.sh/beatmapsets/1001546) hosted by [_Epreus](https://osu.ppy.sh/users/7342798)
+- [Carpool Tunnel - Afterlight](https://osu.ppy.sh/beatmapsets/1001546) hosted by [\_Epreus](https://osu.ppy.sh/users/7342798)
 - [Carpool Tunnel - Hooked Again](https://osu.ppy.sh/beatmapsets/1050185) hosted by [-Aqua](https://osu.ppy.sh/users/7150015)
 - [Carpool Tunnel - Better Now](https://osu.ppy.sh/beatmapsets/1050477) by [Mocaotic](https://osu.ppy.sh/users/9487458)
 - [Carpool Tunnel - Impressions](https://osu.ppy.sh/beatmapsets/1052846) by [Hinsvar](https://osu.ppy.sh/users/1249323)
 - [Carpool Tunnel - Parade](https://osu.ppy.sh/beatmapsets/1058934) hosted by [domSaur](https://osu.ppy.sh/users/3806893)
 
-The **osu!catch** version of this quest was completed by **[Jemzuu](https://osu.ppy.sh/users/7890134)**, **[Crowley](https://osu.ppy.sh/users/6341006)**, **[JierYagtama](https://osu.ppy.sh/users/7483452)**, **[Du5t](https://osu.ppy.sh/users/6053071)** and **[Dapuluous](https://osu.ppy.sh/users/8140944)**
+The **osu!catch** version of this quest was completed by **[Jemzuu](https://osu.ppy.sh/users/7890134)**, **[Crowley](https://osu.ppy.sh/users/6341006)**, **[JierYagtama](https://osu.ppy.sh/users/7483452)**, **[Du5t](https://osu.ppy.sh/users/6053071)** and **[Dapuluous](https://osu.ppy.sh/users/8140944)**!
 
 - [Carpool Tunnel - San Francisco](https://osu.ppy.sh/beatmapsets/1033405) hosted by [Jemzuu](https://osu.ppy.sh/users/7890134)
 - [Carpool Tunnel - Getaway](https://osu.ppy.sh/beatmapsets/1032859) by [Crowley](https://osu.ppy.sh/users/6341006)
@@ -67,17 +67,17 @@ The **osu!catch** version of this quest was completed by **[Jemzuu](https://osu.
 
 ![F-777 header](https://assets.ppy.sh/artists/60/header.jpg)
 
-For the **F-777 solo** quests, each mapper had to create and rank 1 mapset in their mode of any song by F-777
+For the **F-777 solo** quests, each mapper had to create and rank 1 mapset in their mode of any song by F-777.
 
-The **osu!** version of this quest was completed by **[DTM9 Nowa](https://osu.ppy.sh/users/5428909)**
+The **osu!** version of this quest was completed by **[DTM9 Nowa](https://osu.ppy.sh/users/5428909)**!
 
 - [F-777 - Hydra](https://osu.ppy.sh/beatmapsets/1089683) by [DTM9 Nowa](https://osu.ppy.sh/users/5428909)
 
-The **osu!taiko** version of this quest was completed by **[Cynplytholowazy](https://osu.ppy.sh/users/3901754)**
+The **osu!taiko** version of this quest was completed by **[Cynplytholowazy](https://osu.ppy.sh/users/3901754)**!
 
 - [F-777 - Across The Waters](https://osu.ppy.sh/beatmapsets/1086985) by [Cynplytholowazy](https://osu.ppy.sh/users/3901754)
 
-The **osu!mania** version of this quest was completed by **[Feerum](https://osu.ppy.sh/users/4815717)**
+The **osu!mania** version of this quest was completed by **[Feerum](https://osu.ppy.sh/users/4815717)**!
 
 - [F-777 - Viking Arena](https://osu.ppy.sh/beatmapsets/1092856) by [Feerum](https://osu.ppy.sh/users/4815717)
 
@@ -85,7 +85,7 @@ The **osu!mania** version of this quest was completed by **[Feerum](https://osu.
 
 For the **False Noise duo (osu!taiko)** quest, the mappers had to create and rank at least 2 mapsets of songs by False Noise, each hosted by a different user.
 
-This quest was completed by **[Faputa](https://osu.ppy.sh/users/845733)**, **[Cynplytholowazy](https://osu.ppy.sh/users/3901754)** and **[[Zeth]](https://osu.ppy.sh/users/9912966)**
+This quest was completed by **[Faputa](https://osu.ppy.sh/users/845733)**, **[Cynplytholowazy](https://osu.ppy.sh/users/3901754)** and **[[Zeth]](https://osu.ppy.sh/users/9912966)**!
 
 - [False Noise - Serpentine](https://osu.ppy.sh/beatmapsets/1055536) by [Faputa](https://osu.ppy.sh/users/845733)
 - [False Noise - Distant Structures](https://osu.ppy.sh/beatmapsets/1057177) hosted by [Cynplytholowazy](https://osu.ppy.sh/users/3901754)
@@ -94,7 +94,7 @@ This quest was completed by **[Faputa](https://osu.ppy.sh/users/845733)**, **[Cy
 
 For the **Frums mini-pack (osu!taiko, osu!)** quest, the mappers had to create and rank at least 4 mapsets of songs by Frums, each hosted by a different user.
 
-This quest was completed by **[Nifty](https://osu.ppy.sh/users/4956097)**, **[Genjuro](https://osu.ppy.sh/users/3196091)**, **[\_DUSK\_](https://osu.ppy.sh/users/6092181)**, **[Vulkin](https://osu.ppy.sh/users/4901066)**, **[Ulqui](https://osu.ppy.sh/users/1263669)**, **[Nerova Riuz GX](https://osu.ppy.sh/users/1557955)** and **[Alchyr](https://osu.ppy.sh/users/4993032)**
+This quest was completed by **[Nifty](https://osu.ppy.sh/users/4956097)**, **[Genjuro](https://osu.ppy.sh/users/3196091)**, **[\_DUSK\_](https://osu.ppy.sh/users/6092181)**, **[Vulkin](https://osu.ppy.sh/users/4901066)**, **[Ulqui](https://osu.ppy.sh/users/1263669)**, **[Nerova Riuz GX](https://osu.ppy.sh/users/1557955)** and **[Alchyr](https://osu.ppy.sh/users/4993032)**!
 
 - [Frums - Options](https://osu.ppy.sh/beatmapsets/1049855) hosted by [Nerova Riuz GX](https://osu.ppy.sh/users/1557955) (hybrid)
 - [Frums - Star of the COME ON!!](https://osu.ppy.sh/beatmapsets/1108821) by [Nifty](https://osu.ppy.sh/users/4956097) (osu!taiko)
@@ -105,12 +105,12 @@ This quest was completed by **[Nifty](https://osu.ppy.sh/users/4956097)**, **[Ge
 
 For the **HyuN duo** quests, the mappers had to create and rank 2 or more mapsets of songs by HyuN, each hosted by a different user.
 
-The **osu!taiko** version of this quest was completed by **[Faputa](https://osu.ppy.sh/users/845733)**, **[Capu](https://osu.ppy.sh/users/2474015)**, **[[\_Chichinya\_]](https://osu.ppy.sh/users/2140739)** and **[Vulkin](https://osu.ppy.sh/users/4901066)**
+The **osu!taiko** version of this quest was completed by **[Faputa](https://osu.ppy.sh/users/845733)**, **[Capu](https://osu.ppy.sh/users/2474015)**, **[[\_Chichinya\_]](https://osu.ppy.sh/users/2140739)** and **[Vulkin](https://osu.ppy.sh/users/4901066)**!
 
 - [HyuN feat. YURI - Disorder](https://osu.ppy.sh/beatmapsets/1062977) by [Faputa](https://osu.ppy.sh/users/845733)
 - [HyuN - The Apocalypse](https://osu.ppy.sh/beatmapsets/1075603) hosted by [Capu](https://osu.ppy.sh/users/2474015)
 
-The **osu!catch** version of this quest was completed by **[MBomb](https://osu.ppy.sh/users/3071175)**, **[JBHyperion](https://osu.ppy.sh/users/4879508)**, **[Jemzuu](https://osu.ppy.sh/users/7890134)** and **[Absolute Zero](https://osu.ppy.sh/users/4847256)**
+The **osu!catch** version of this quest was completed by **[MBomb](https://osu.ppy.sh/users/3071175)**, **[JBHyperion](https://osu.ppy.sh/users/4879508)**, **[Jemzuu](https://osu.ppy.sh/users/7890134)** and **[Absolute Zero](https://osu.ppy.sh/users/4847256)**!
 
 - [HyuN - Infinity Heaven](https://osu.ppy.sh/beatmapsets/1074464) hosted by [Jemzuu](https://osu.ppy.sh/users/7890134)
 - [HyuN - Grin](https://osu.ppy.sh/beatmapsets/1065368) hosted by [Absolute Zero](https://osu.ppy.sh/users/4847256)
@@ -119,7 +119,7 @@ The **osu!catch** version of this quest was completed by **[MBomb](https://osu.p
 
 For the **IAHN mini-pack (osu!)** quest, the mappers had to create and rank at least 4 mapsets of songs by IAHN, each hosted by a different user.
 
-This quest was completed by **[Sonnyc](https://osu.ppy.sh/users/11771)**, **[Riana](https://osu.ppy.sh/users/1997633)**, **[Cellina](https://osu.ppy.sh/users/2490770)**, **[Reillia](https://osu.ppy.sh/users/4746949)**, **[Left](https://osu.ppy.sh/users/5062061)**, **[Beomsan](https://osu.ppy.sh/users/3626063)**, **[Ujimatsu Chiya](https://osu.ppy.sh/users/3789302)** and **[lolia](https://osu.ppy.sh/users/1596078)**
+This quest was completed by **[Sonnyc](https://osu.ppy.sh/users/11771)**, **[Riana](https://osu.ppy.sh/users/1997633)**, **[Cellina](https://osu.ppy.sh/users/2490770)**, **[Reillia](https://osu.ppy.sh/users/4746949)**, **[Left](https://osu.ppy.sh/users/5062061)**, **[Beomsan](https://osu.ppy.sh/users/3626063)**, **[Ujimatsu Chiya](https://osu.ppy.sh/users/3789302)** and **[lolia](https://osu.ppy.sh/users/1596078)**!
 
 - [IAHN - Summer Vacation (Original Mix)](https://osu.ppy.sh/beatmapsets/1017566) hosted by [Riana](https://osu.ppy.sh/users/1997633)
 - [IAHN - Melody of Heaven (Original Mix)](https://osu.ppy.sh/beatmapsets/1017579) by [Sonnyc](https://osu.ppy.sh/users/11771)
@@ -131,7 +131,7 @@ This quest was completed by **[Sonnyc](https://osu.ppy.sh/users/11771)**, **[Ria
 
 For the **KNOWER mini-pack (osu!, osu!taiko)** quest, the mappers had to create and rank at least 4 mapsets of songs by KNOWER, each hosted by a different user.
 
-This quest was completed by **[Pachiru](https://osu.ppy.sh/users/2850983)**, **[Gabe](https://osu.ppy.sh/users/654108)**, **[Irreversible](https://osu.ppy.sh/users/1287964)**, **[Imakuri](https://osu.ppy.sh/users/6100837)**, **[fieryrage](https://osu.ppy.sh/users/3533958)**, **[radar](https://osu.ppy.sh/users/7131099)**, **[Mismagius](https://osu.ppy.sh/users/19048)** and **[Nozhomi](https://osu.ppy.sh/users/2716981)**
+This quest was completed by **[Pachiru](https://osu.ppy.sh/users/2850983)**, **[Gabe](https://osu.ppy.sh/users/654108)**, **[Irreversible](https://osu.ppy.sh/users/1287964)**, **[Imakuri](https://osu.ppy.sh/users/6100837)**, **[fieryrage](https://osu.ppy.sh/users/3533958)**, **[radar](https://osu.ppy.sh/users/7131099)**, **[Mismagius](https://osu.ppy.sh/users/19048)** and **[Nozhomi](https://osu.ppy.sh/users/2716981)**!
 
 - [KNOWER - Overtime](https://osu.ppy.sh/beatmapsets/1035846) hosted by [radar](https://osu.ppy.sh/users/7131099) (osu!taiko)
 - [KNOWER - The Government Knows](https://osu.ppy.sh/beatmapsets/1075602) hosted by [Pachiru](https://osu.ppy.sh/users/2850983) (osu!)
@@ -142,7 +142,7 @@ This quest was completed by **[Pachiru](https://osu.ppy.sh/users/2850983)**, **[
 
 For the **Kola Kid short song mini-pack (osu!mania)** quest, the mappers had to create and rank one mapset for each Kola Kid songs with a length below 1:00, each hosted by a different user.
 
-This quest was completed by **[Unpredictable](https://osu.ppy.sh/users/7560872)**, **[Hydria](https://osu.ppy.sh/users/808176)** and **[Feerum](https://osu.ppy.sh/users/4815717)**
+This quest was completed by **[Unpredictable](https://osu.ppy.sh/users/7560872)**, **[Hydria](https://osu.ppy.sh/users/808176)** and **[Feerum](https://osu.ppy.sh/users/4815717)**!
 
 - [Kola Kid - sea shells](https://osu.ppy.sh/beatmapsets/1114940) hosted by [Feerum](https://osu.ppy.sh/users/4815717)
 - [Kola Kid - press start](https://osu.ppy.sh/beatmapsets/949646) by [Hydria](https://osu.ppy.sh/users/808176)
@@ -152,7 +152,7 @@ This quest was completed by **[Unpredictable](https://osu.ppy.sh/users/7560872)*
 
 For the **Loki's "Tales of the Mountains" (osu!)** quest, the mappers had to create and rank a mapset for each song in Loki's concept album "Tales of the Mountains", each hosted by a different user.
 
-This quest was completed by **[Cris-](https://osu.ppy.sh/users/6175280)**, **[walaowey](https://osu.ppy.sh/users/1475828)**, **[Minorsonek](https://osu.ppy.sh/users/5377178)**, **[Cosmolade](https://osu.ppy.sh/users/2172778)**, **[Gero](https://osu.ppy.sh/users/1467715)**, **[Tatan](https://osu.ppy.sh/users/5646529)**, **[Crissa](https://osu.ppy.sh/users/5405836)**, **[pkhg](https://osu.ppy.sh/users/343624)**, **[Seolv](https://osu.ppy.sh/users/8067876)** and **[TheShadowOfDark](https://osu.ppy.sh/users/5795337)**
+This quest was completed by **[Cris-](https://osu.ppy.sh/users/6175280)**, **[walaowey](https://osu.ppy.sh/users/1475828)**, **[Minorsonek](https://osu.ppy.sh/users/5377178)**, **[Cosmolade](https://osu.ppy.sh/users/2172778)**, **[Gero](https://osu.ppy.sh/users/1467715)**, **[Tatan](https://osu.ppy.sh/users/5646529)**, **[Crissa](https://osu.ppy.sh/users/5405836)**, **[pkhg](https://osu.ppy.sh/users/343624)**, **[Seolv](https://osu.ppy.sh/users/8067876)** and **[TheShadowOfDark](https://osu.ppy.sh/users/5795337)**!
 
 - [Loki - Quiet Village](https://osu.ppy.sh/beatmapsets/1050693) hosted by [Gero](https://osu.ppy.sh/users/1467715)
 - [Loki - Wizard's Tower](https://osu.ppy.sh/beatmapsets/1064248) hosted by [Minorsonek](https://osu.ppy.sh/users/5377178)
@@ -165,7 +165,7 @@ This quest was completed by **[Cris-](https://osu.ppy.sh/users/6175280)**, **[wa
 
 For the **Mystery Electronic mini-pack (osu!taiko)** quest, the mappers had to create and rank at least 3 mapsets of unpublished electronic songs by one of our unreleased featured artists. These maps were created in secret by guild members to accompany the [MYLK Featured Artist Announcement](https://osu.ppy.sh/home/news/2019-12-31-new-featured-artist-mylk) this past December.
 
-This quest was completed by **[tasuke912](https://osu.ppy.sh/users/2774767)**, **[salchow](https://osu.ppy.sh/users/9738159)**, **[HiroK](https://osu.ppy.sh/users/4050738)**, **[Nepuri](https://osu.ppy.sh/users/6637817)**, **[Cynplytholowazy](https://osu.ppy.sh/users/3901754)** and **[Nardoxyribonucleic](https://osu.ppy.sh/users/876419)**
+This quest was completed by **[tasuke912](https://osu.ppy.sh/users/2774767)**, **[salchow](https://osu.ppy.sh/users/9738159)**, **[HiroK](https://osu.ppy.sh/users/4050738)**, **[Nepuri](https://osu.ppy.sh/users/6637817)**, **[Cynplytholowazy](https://osu.ppy.sh/users/3901754)** and **[Nardoxyribonucleic](https://osu.ppy.sh/users/876419)**!
 
 - [MYLK - Let You Go](https://osu.ppy.sh/beatmapsets/1053583) hosted by [Nepuri](https://osu.ppy.sh/users/6637817)
 - [MYLK - Prism](https://osu.ppy.sh/beatmapsets/1051590) hosted by [salchow](https://osu.ppy.sh/users/9738159)
@@ -177,7 +177,7 @@ This quest was completed by **[tasuke912](https://osu.ppy.sh/users/2774767)**, *
 
 For the **Mystery Rock mini-pack (osu!, osu!taiko, osu!catch)** quest, the mappers had to create and rank at least 3 mapsets of unpublished rock songs by one of our unreleased featured artists. These maps were created in secret by guild members to accompany the [Blue Stahli Featured Artist Announcement](https://osu.ppy.sh/home/news/2020-01-22-new-featured-artist-blue-stahli) this past January.
 
-This quest was completed by **[fieryrage](https://osu.ppy.sh/users/3533958)**, **[Sinnoh](https://osu.ppy.sh/users/4236057)**, **[MBomb](https://osu.ppy.sh/users/3071175)**, **[Cynplytholowazy](https://osu.ppy.sh/users/3901754)**, **[idke](https://osu.ppy.sh/users/4650315)** and **[salchow](https://osu.ppy.sh/users/9738159)**
+This quest was completed by **[fieryrage](https://osu.ppy.sh/users/3533958)**, **[Sinnoh](https://osu.ppy.sh/users/4236057)**, **[MBomb](https://osu.ppy.sh/users/3071175)**, **[Cynplytholowazy](https://osu.ppy.sh/users/3901754)**, **[idke](https://osu.ppy.sh/users/4650315)** and **[salchow](https://osu.ppy.sh/users/9738159)**!
 
 - [Blue Stahli - Suit Up](https://osu.ppy.sh/beatmapsets/1061425/) by [MBomb](https://osu.ppy.sh/users/3071175) (osu!catch)
 - [Blue Stahli - Throw Away](https://osu.ppy.sh/beatmapsets/1061411) hosted by [fieryrage](https://osu.ppy.sh/users/3533958) (hybrid)
@@ -187,13 +187,13 @@ This quest was completed by **[fieryrage](https://osu.ppy.sh/users/3533958)**, *
 
 For the **Native Construct mini-pack** quests, the mappers had to create and rank at least 3 mapsets of songs by Native Construct. At least one mapset had to be for Chromatic Aberration.
 
-The **osu!** version of this quest was completed by **[Dendy](https://osu.ppy.sh/users/4589786)**, **[Daycore](https://osu.ppy.sh/users/5596337)** and **[piroshki](https://osu.ppy.sh/users/7645522)**
+The **osu!** version of this quest was completed by **[Dendy](https://osu.ppy.sh/users/4589786)**, **[Daycore](https://osu.ppy.sh/users/5596337)** and **[piroshki](https://osu.ppy.sh/users/7645522)**!
 
 - [Native Construct - Come Hell or High Water](https://osu.ppy.sh/beatmapsets/1051167) by [Daycore](https://osu.ppy.sh/users/5596337)
 - [Native Construct - Chromatic Aberration](https://osu.ppy.sh/beatmapsets/1062098) by [piroshki](https://osu.ppy.sh/users/7645522)
 - [Native Construct - Chromatic Lights](https://osu.ppy.sh/beatmapsets/1077275) by [Daycore](https://osu.ppy.sh/users/5596337)
 
-The **osu!taiko and osu!mania** version of this quest was completed by **[Faputa](https://osu.ppy.sh/users/845733)**, **[Cynplytholowazy](https://osu.ppy.sh/users/3901754)** and **[FAMoss](https://osu.ppy.sh/users/7707789)**
+The **osu!taiko and osu!mania** version of this quest was completed by **[Faputa](https://osu.ppy.sh/users/845733)**, **[Cynplytholowazy](https://osu.ppy.sh/users/3901754)** and **[FAMoss](https://osu.ppy.sh/users/7707789)**!
 
 - [Native Construct - Mute](https://osu.ppy.sh/beatmapsets/1053262) by [Faputa](https://osu.ppy.sh/users/845733) (osu!taiko)
 - [Native Construct - Come Hell or High Water](https://osu.ppy.sh/beatmapsets/1055375) by [FAMoss](https://osu.ppy.sh/users/7707789) (osu!mania)
@@ -201,9 +201,9 @@ The **osu!taiko and osu!mania** version of this quest was completed by **[Faputa
 
 ![Nekrogoblikon header](https://assets.ppy.sh/artists/53/header.jpg)
 
-For the **Nekrogoblikon mini-pack (osu!)** quest, the mappers had to create and rank at least 3 mapsets of songs by Nekrogoblikon
+For the **Nekrogoblikon mini-pack (osu!)** quest, the mappers had to create and rank at least 3 mapsets of songs by Nekrogoblikon.
 
-This quest was completed by **[LMT](https://osu.ppy.sh/users/7262798)**, **[Icekalt](https://osu.ppy.sh/users/5410645)**, **[Mun](https://osu.ppy.sh/users/6699165)**, **[Hectic](https://osu.ppy.sh/users/6885942)**, **[Nao Tomori](https://osu.ppy.sh/users/5364763)** and **[SILENCE PLAYER](https://osu.ppy.sh/users/6381153)**
+This quest was completed by **[LMT](https://osu.ppy.sh/users/7262798)**, **[Icekalt](https://osu.ppy.sh/users/5410645)**, **[Mun](https://osu.ppy.sh/users/6699165)**, **[Hectic](https://osu.ppy.sh/users/6885942)**, **[Nao Tomori](https://osu.ppy.sh/users/5364763)** and **[SILENCE PLAYER](https://osu.ppy.sh/users/6381153)**!
 
 - [Nekrogoblikon - Mold](https://osu.ppy.sh/beatmapsets/1061153) hosted by [Icekalt](https://osu.ppy.sh/users/5410645)
 - [Nekrogoblikon - The Skin Thief](https://osu.ppy.sh/beatmapsets/1061535) hosted by [LMT](https://osu.ppy.sh/users/7262798)
@@ -211,51 +211,51 @@ This quest was completed by **[LMT](https://osu.ppy.sh/users/7262798)**, **[Icek
 
 ![Panda Eyes header](https://assets.ppy.sh/artists/55/header.jpg)
 
-For the **On My Own (osu!taiko)** quest, the mappers had to create and rank beatmap for "On My Own" by Panda Eyes
+For the **On My Own (osu!taiko)** quest, the mappers had to create and rank beatmap for "On My Own" by Panda Eyes.
 
-This quest was completed by **[Cynplytholowazy](https://osu.ppy.sh/users/3901754)** and **[Faputa](https://osu.ppy.sh/users/845733)**
+This quest was completed by **[Cynplytholowazy](https://osu.ppy.sh/users/3901754)** and **[Faputa](https://osu.ppy.sh/users/845733)**!
 
 - [Panda Eyes - On My Own](https://osu.ppy.sh/beatmapsets/1065837) hosted by [Cynplytholowazy](https://osu.ppy.sh/users/3901754)
 
-For the **Panda Eyes solo** quests, each mapper had to create and rank 1 mapset in their mode of any song by Panda Eyes
+For the **Panda Eyes solo** quests, each mapper had to create and rank 1 mapset in their mode of any song by Panda Eyes.
 
-The **osu!** version of this quest was completed by **[Hazu-](https://osu.ppy.sh/users/4668230)**
+The **osu!** version of this quest was completed by **[Hazu-](https://osu.ppy.sh/users/4668230)**!
 
 - [Panda Eyes - Pump It Up](https://osu.ppy.sh/beatmapsets/1090677) by [Hazu-](https://osu.ppy.sh/users/4668230)
 
-The **osu!catch** version of this quest was completed by **[Nelly](https://osu.ppy.sh/users/4741164)**
+The **osu!catch** version of this quest was completed by **[Nelly](https://osu.ppy.sh/users/4741164)**!
 
 - [Panda Eyes & Teminite - Immortal Flame (feat. Anna Yvette)](https://osu.ppy.sh/beatmapsets/1069737) by [Nelly](https://osu.ppy.sh/users/4741164)
 
-The **osu!mania** version of this quest was completed by **[Leniane](https://osu.ppy.sh/users/7138602)**
+The **osu!mania** version of this quest was completed by **[Leniane](https://osu.ppy.sh/users/7138602)**!
 
 - [Panda Eyes & Teminite - Highscore](https://osu.ppy.sh/beatmapsets/1079712) by [Leniane](https://osu.ppy.sh/users/7138602)
 
 ![Ricky Montgomery header](https://assets.ppy.sh/artists/54/header.jpg)
 
-For the **Ricky Montgomery mini-pack (osu!)** quest, the mappers had to create and rank at least 3 mapsets of songs by Ricky Montgomery
+For the **Ricky Montgomery mini-pack (osu!)** quest, the mappers had to create and rank at least 3 mapsets of songs by Ricky Montgomery.
 
-This quest was completed by **[Trynna](https://osu.ppy.sh/users/2652951)** and **[eiri-](https://osu.ppy.sh/users/3388410)**
+This quest was completed by **[Trynna](https://osu.ppy.sh/users/2652951)** and **[eiri-](https://osu.ppy.sh/users/3388410)**!
 
 - [Ricky Montgomery - Cabo](https://osu.ppy.sh/beatmapsets/1081806) hosted by [Trynna](https://osu.ppy.sh/users/2652951)
 - [Ricky Montgomery - California](https://osu.ppy.sh/beatmapsets/1085943) hosted by [eiri-](https://osu.ppy.sh/users/3388410)
 - [Ricky Montgomery - Snow](https://osu.ppy.sh/beatmapsets/1086534) hosted by [eiri-](https://osu.ppy.sh/users/3388410)
 
-For the **Ricky Montgomery solo** quests, each mapper had to create and rank 1 mapset in their mode of any song by Ricky Montgomery
+For the **Ricky Montgomery solo** quests, each mapper had to create and rank 1 mapset in their mode of any song by Ricky Montgomery.
 
-The **osu!** version of this quest was completed by **[hypercyte](https://osu.ppy.sh/users/9155377)**
+The **osu!** version of this quest was completed by **[hypercyte](https://osu.ppy.sh/users/9155377)**!
 
 - [Ricky Montgomery - Line Without A Hook](https://osu.ppy.sh/beatmapsets/1062477) by [hypercyte](https://osu.ppy.sh/users/9155377)
 
-The **osu!taiko** version of this quest was completed by **[Faputa](https://osu.ppy.sh/users/845733)**
+The **osu!taiko** version of this quest was completed by **[Faputa](https://osu.ppy.sh/users/845733)**!
 
 - [Ricky Montgomery - Cabo](https://osu.ppy.sh/beatmapsets/1062285) by [Faputa](https://osu.ppy.sh/users/845733)
 
-The **osu!catch** version of this quest was completed by **[-Joni-](https://osu.ppy.sh/users/9988837)**
+The **osu!catch** version of this quest was completed by **[-Joni-](https://osu.ppy.sh/users/9988837)**!
 
 - [Ricky Montgomery - Snow](https://osu.ppy.sh/beatmapsets/1083491) by [-Joni-](https://osu.ppy.sh/users/9988837)
 
-The **osu!mania** version of this quest was completed by **[Feerum](https://osu.ppy.sh/users/4815717)**
+The **osu!mania** version of this quest was completed by **[Feerum](https://osu.ppy.sh/users/4815717)**!
 
 - [Ricky Montgomery - This December](https://osu.ppy.sh/beatmapsets/1067499) by [Feerum](https://osu.ppy.sh/users/4815717)
 
@@ -263,7 +263,7 @@ The **osu!mania** version of this quest was completed by **[Feerum](https://osu.
 
 For the **Wisp X mini-pack (osu!)** quest, the mappers had to create and rank at least 4 mapsets of songs by Wisp X, each hosted by a different user.
 
-This quest was completed by **[defiance](https://osu.ppy.sh/users/6816873)**, **[Aeril](https://osu.ppy.sh/users/4334976)**, **[yaspo](https://osu.ppy.sh/users/4945926)**, **[bor](https://osu.ppy.sh/users/4116573)**, **[greenhue](https://osu.ppy.sh/users/4967662)** and **[Nao Tomori](https://osu.ppy.sh/users/5364763)**
+This quest was completed by **[defiance](https://osu.ppy.sh/users/6816873)**, **[Aeril](https://osu.ppy.sh/users/4334976)**, **[yaspo](https://osu.ppy.sh/users/4945926)**, **[bor](https://osu.ppy.sh/users/4116573)**, **[greenhue](https://osu.ppy.sh/users/4967662)** and **[Nao Tomori](https://osu.ppy.sh/users/5364763)**!
 
 - [Wisp X - Crimson feat. Hatsune Miku (Radio Edit)](https://osu.ppy.sh/beatmapsets/1032163) hosted by [Nao Tomori](https://osu.ppy.sh/users/5364763)
 - [Wisp X - Melon Soda](https://osu.ppy.sh/beatmapsets/1033247) hosted by [bor](https://osu.ppy.sh/users/4116573)
@@ -274,7 +274,7 @@ This quest was completed by **[defiance](https://osu.ppy.sh/users/6816873)**, **
 
 For the **onumi mini-pack (osu!)** quest, the mappers had to create and rank at least 4 mapsets of songs by onumi, each hosted by a different user.
 
-This quest was completed by **[PandaHero](https://osu.ppy.sh/users/1233255)**, **[Hectic](https://osu.ppy.sh/users/6885942)**, **[Mirash](https://osu.ppy.sh/users/2841009)** and **[Leader](https://osu.ppy.sh/users/631530)**
+This quest was completed by **[PandaHero](https://osu.ppy.sh/users/1233255)**, **[Hectic](https://osu.ppy.sh/users/6885942)**, **[Mirash](https://osu.ppy.sh/users/2841009)** and **[Leader](https://osu.ppy.sh/users/631530)**!
 
 - [onumi - NOSTALGIA](https://osu.ppy.sh/beatmapsets/952393) hosted by [PandaHero](https://osu.ppy.sh/users/1233255)
 - [onumi - ARROGANCE](https://osu.ppy.sh/beatmapsets/940377) hosted by [Mirash](https://osu.ppy.sh/users/2841009)
