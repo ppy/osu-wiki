@@ -48,11 +48,11 @@ Coffee Hispanic Tournament fue realizado por varios miembros de la comunidad.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/994702)
-- [BTT Discord server](https://discord.gg/EYAqSWH)
-- [Livestream](https://twitch.tv/beginnerstaikotournament)
-- [Challonge brackets](https://challonge.com/BTTS5)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vR6QPdOsvVXvpXcjTrqOvaQESu0LpH3HAd9QxsYMbDa7xAatXc8X3hnmmDZSxfTLtAZz-WArFbTbm8_/pubhtml)**
+- [Foro de discusión](https://osu.ppy.sh/community/forums/topics/1000567)
+- [CHT servidor de Discord](https://discord.gg/AFFXMu)
+- [Livestream](https://twitch.tv/ivaf)
+- [Challonge brackets](https://challonge.com/es/2n84slw8)
+- **[Hoja de Estadísticas](https://docs.google.com/spreadsheets/d/1wGCrW2IdRmmnu_JKuAVEELSKvCm2zacyiLDLns0SwsM/edit#gid=1549366682)**
 
 ## Participants
 
