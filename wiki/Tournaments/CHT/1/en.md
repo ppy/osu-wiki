@@ -86,7 +86,13 @@ The Coffee Hispanic Tournament was run by various community members.
 
 ## Podium
 
-![](img/podium.png "CHT podium")
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | United States |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Noveno Gaston |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Hallo y caspi |
 
 ## Mappools
 
