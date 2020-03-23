@@ -113,6 +113,41 @@ Sunday, 29 March 2020:
 
 ## Mappools
 
+### Finals
+
+**[Download the mappack here! (77 MB)](https://mega.nz/#!k4kRVQCa!yeoJbBg4fqfMBBg_Qr439iE4SrrEkJK8afHeuJ5teVg)**
+
+#### Mappool A
+
+- NoMod
+  - [katagiri - Urushi (EJ\_\_) \[\_\_\_\]](https://osu.ppy.sh/beatmapsets/1112437#taiko/2359199)
+  - [BlackY - Euryale (glalucard) \[Oni\]](https://osu.ppy.sh/beatmapsets/68333#taiko/197824)
+  - [Kano - Sukisuki Zecchoushou (asuasu\_yura) \[Oni\]](https://osu.ppy.sh/beatmapsets/701907#taiko/1485323)
+  - [t+pazolite - Ka wa Taredoki no Yuuwaku (ekumea1123) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/749335#taiko/1578366)
+- Hidden
+  - [D.E.V. - Kikyo City (D.E.V.remix) (Charlotte) \[Poke\]](https://osu.ppy.sh/beatmapsets/317702#taiko/707700)
+  - [Nana Mizuki - Nageki no Hana(Slax Remix) -Speed Up ver.- (KitajimaYN) \[Lament\]](https://osu.ppy.sh/beatmapsets/1017622#taiko/2129775)
+- HardRock
+  - [Yu_Asahina - Ongaku -resolve- (-xNaCLx-) \[xN.taiCLx\]](https://osu.ppy.sh/beatmapsets/239082#taiko/552827)
+  - [Lime - Chronomia (Idealism) \[Temporal Oni\]](https://osu.ppy.sh/beatmapsets/931291#taiko/1944649)
+- FreeMod
+  - [I.O - Lv.0 (\[ TNTlealu \]) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/946156#taiko/1975661)
+  - [Yunomi feat. nicamoq - Robotic Girl (Srav3R Remix) (HEKUSODASU) \[KUSOni\]](https://osu.ppy.sh/beatmapsets/926306#taiko/1934886)
+
+#### Mappool B
+
+- Challenge
+  - [cosMo@BousouP - UltraHardAttacks of OddMusiK(cosmobsp-style) (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/304074#taiko/681296)
+  - [Remo Prototype[CV: Hanamori Yumiri] - Sendan Life (katagiri Bootleg) (Elfin) \[Prototype\]](https://osu.ppy.sh/beatmapsets/1088771#taiko/2276486)
+- DoubleTime
+  - [Onodera Kosaki (Hanazawa Kana) - Recover Decoration (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/303463#taiko/680075)
+- Easy
+  - [Camellia feat. Nanahira - Super-Slow-Internet-san (POCARI SWEAT) \[osoiyo -\_-\]](https://osu.ppy.sh/beatmapsets/1100578#taiko/2299451)
+- Hidden+HardRock
+  - [Nota - Ice Festival (Marm) \[HiroK's Inner Oni\]](https://osu.ppy.sh/beatmapsets/727434#taiko/1535797)
+- Tiebreaker
+  - **[USAO - Psychedelic Machine (HEKUSODASU) \[HEKiciting KTYN Machine Oni\]](https://osu.ppy.sh/beatmapsets/999278#taiko/2089980)**
+
 ### Semifinals
 
 **[Download the mappack here! (77 MB)](https://mega.nz/#!twMWCIYY!xq_NirEU7Y3zCzEUXlj4hgF7ebmXY2pMRDV1MmvxBNc)**
