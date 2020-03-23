@@ -474,3 +474,4 @@ Monday, 27 January 2020:
 [flag_SV]: /wiki/shared/flag/SV.gif "El Salvador"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
 [flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"
+[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"
