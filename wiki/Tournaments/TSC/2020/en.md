@@ -91,34 +91,62 @@ The Taiko Suiji Cup 2020 is run by various community members.
 | **The winner is the winner** | **![][flag_PL] [Acrith](https://osu.ppy.sh/users/389880)**, ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864), ![][flag_US] [driodx](https://osu.ppy.sh/users/9709548), ![][flag_CA] [beary605](https://osu.ppy.sh/users/2198070), ![][flag_ES] [Lunako](https://osu.ppy.sh/users/2041945), ![][flag_US] [Num5119](https://osu.ppy.sh/users/5198060) |
 | **Worldwide Bongo** | **![][flag_RU] [TwinT](https://osu.ppy.sh/users/9976154)**, ![][flag_NL] [Hypello](https://osu.ppy.sh/users/1594036), ![][flag_BR] [Kyoumo](https://osu.ppy.sh/users/8145223), ![][flag_PT] [Yumi\_Hideaki](https://osu.ppy.sh/users/10081162), ![][flag_HK] [LDator](https://osu.ppy.sh/users/9534414), ![][flag_US] [Yujki](https://osu.ppy.sh/users/14987094) |
 
-## Match schedule: Semifinals
+## Match schedule: Finals
 
-Saturday, 21 March 2020:
-
-| Match ID | Team 1 | Team 2 | Match time (UTC) |
-| :-: | --: | :-- | :-: |
-| #SF1 | #TeamTrees | plz Jeff | **00:00** |
-| #SF2 | Team 26 | Worldwide Bongo | **04:00** |
-| #SF4 | sunglasses emoji | The Shitmissers ft. zkane2 | **20:00** |
-| #SF3 | Spaghetti Protectors | 🍘 | **23:00** |
-
-Sunday, 22 March 2020:
+Saturday, 28 March 2020:
 
 | Match ID | Team 1 | Team 2 | Match time (UTC) |
 | :-: | --: | :-- | :-: |
-| #SF5a¹ | Team 26 | Spaghetti Protectors | **11:00** |
-| #SF5b¹ | Team 26 | 🍘 | **21:00** |
-| #SF5c¹ | Worldwide Bongo | Spaghetti Protectors | **16:00** |
-| #SF5d¹ | Worldwide Bongo | 🍘 | **01:00** |
-| #SF6a² | #TeamTrees | sunglasses emoji | **09:00** |
-| #SF6b² | #TeamTrees | The Shitmissers ft. zkane2 | **23:00** |
-| #SF6c² | plz Jeff | sunglasses emoji | **20:00** |
-| #SF6d² | plz Jeff | The Shitmissers ft. zkane2 | **18:00** |
+| #F1 | #TeamTrees | Worldwide Bongo | **06:00** |
+| #F2 | 🍘 | The Shitmissers ft. zkane2 | **20:00** |
 
-¹ Encounter dependent on winner of Match #SF2 and Match #SF3  
-² Encounter dependent on winner of Match #SF1 and Match #SF4
+Sunday, 29 March 2020:
+
+| Match ID | Team 1 | Team 2 | Match time (UTC) |
+| :-: | --: | :-- | :-: |
+| #F3a¹ | #TeamTrees | 🍘 | **16:00** |
+| #F3b¹ | #TeamTrees | The Shitmissers ft. zkane2 | **18:00** |
+| #F3c¹ | Worldwide Bongo | 🍘 | **15:30** |
+| #F3d¹ | Worldwide Bongo | The Shitmissers ft. zkane2 | **20:00** |
+
+¹ Encounter dependent on winner of Match #F2 and loser of Match #F1
 
 ## Mappools
+
+### Finals
+
+**[Download the mappack here! (77 MB)](https://mega.nz/#!k4kRVQCa!yeoJbBg4fqfMBBg_Qr439iE4SrrEkJK8afHeuJ5teVg)**
+
+#### Mappool A
+
+- NoMod
+  - [katagiri - Urushi (EJ\_\_) \[\_\_\_\]](https://osu.ppy.sh/beatmapsets/1112437#taiko/2359199)
+  - [BlackY - Euryale (glalucard) \[Oni\]](https://osu.ppy.sh/beatmapsets/68333#taiko/197824)
+  - [Kano - Sukisuki Zecchoushou (asuasu\_yura) \[Oni\]](https://osu.ppy.sh/beatmapsets/701907#taiko/1485323)
+  - [t+pazolite - Ka wa Taredoki no Yuuwaku (ekumea1123) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/749335#taiko/1578366)
+- Hidden
+  - [D.E.V. - Kikyo City (D.E.V.remix) (Charlotte) \[Poke\]](https://osu.ppy.sh/beatmapsets/317702#taiko/707700)
+  - [Nana Mizuki - Nageki no Hana(Slax Remix) -Speed Up ver.- (KitajimaYN) \[Lament\]](https://osu.ppy.sh/beatmapsets/1017622#taiko/2129775)
+- HardRock
+  - [Yu_Asahina - Ongaku -resolve- (-xNaCLx-) \[xN.taiCLx\]](https://osu.ppy.sh/beatmapsets/239082#taiko/552827)
+  - [Lime - Chronomia (Idealism) \[Temporal Oni\]](https://osu.ppy.sh/beatmapsets/931291#taiko/1944649)
+- FreeMod
+  - [I.O - Lv.0 (\[ TNTlealu \]) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/946156#taiko/1975661)
+  - [Yunomi feat. nicamoq - Robotic Girl (Srav3R Remix) (HEKUSODASU) \[KUSOni\]](https://osu.ppy.sh/beatmapsets/926306#taiko/1934886)
+
+#### Mappool B
+
+- Challenge
+  - [cosMo@BousouP - UltraHardAttacks of OddMusiK(cosmobsp-style) (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/304074#taiko/681296)
+  - [Remo Prototype[CV: Hanamori Yumiri] - Sendan Life (katagiri Bootleg) (Elfin) \[Prototype\]](https://osu.ppy.sh/beatmapsets/1088771#taiko/2276486)
+- DoubleTime
+  - [Onodera Kosaki (Hanazawa Kana) - Recover Decoration (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/303463#taiko/680075)
+- Easy
+  - [Camellia feat. Nanahira - Super-Slow-Internet-san (POCARI SWEAT) \[osoiyo -\_-\]](https://osu.ppy.sh/beatmapsets/1100578#taiko/2299451)
+- Hidden+HardRock
+  - [Nota - Ice Festival (Marm) \[HiroK's Inner Oni\]](https://osu.ppy.sh/beatmapsets/727434#taiko/1535797)
+- Tiebreaker
+  - **[USAO - Psychedelic Machine (HEKUSODASU) \[HEKiciting KTYN Machine Oni\]](https://osu.ppy.sh/beatmapsets/999278#taiko/2089980)**
 
 ### Semifinals
 
@@ -275,6 +303,24 @@ Sunday, 22 March 2020:
   - [Doma Umaru \[CV:Tanaka Aimi\] - Kakushinteki\*Metamaruphose! (Chiswell) \[UMR Oni\]](https://osu.ppy.sh/beatmapsets/345189#taiko/762526)
 
 ## Match results
+
+### Semifinals
+
+Saturday, 21 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| sunglasses emoji | 0 | **7** | **The Shitmissers ft. zkane2** | [#1](https://osu.ppy.sh/community/matches/59437426) |
+| Spaghetti Protectors | 3 | **7** | **🍘** | [#1](https://osu.ppy.sh/community/matches/59437520) |
+| **#TeamTrees** | **7** | 1 | plz Jeff | [#1](https://osu.ppy.sh/community/matches/59439076) |
+| Team 26 | 5 | **7** | **Worldwide Bongo** | [#1](https://osu.ppy.sh/community/matches/59444956) |
+
+Sunday, 22 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| plz Jeff | 3 | **7** | **The Shitmissers ft. zkane2** | [#1](https://osu.ppy.sh/community/matches/59478648) |
+| Team 26 | 2 | **7** | **Rice Cracker** | [#1](https://osu.ppy.sh/community/matches/59482449) |
 
 ### Quarterfinals
 
