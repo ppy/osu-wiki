@@ -72,7 +72,7 @@ The Coffee Hispanic Tournament was run by various community members.
 | **Radical** | **![][flag_ES] [AitorAmu](https://osu.ppy.sh/users/7781304)**, ![][flag_CL] [iPunqcake](https://osu.ppy.sh/users/6633574) |
 | **Rivals** | **![][flag_AR] [StreamKey](https://osu.ppy.sh/users/7586334)**, ![][flag_AR] [Rimi](https://osu.ppy.sh/users/5194834) |
 | **TPIOBJRANMJ FC** | **![][flag_AR] [Penguo](https://osu.ppy.sh/users/4389490)**, ![][flag_CO] [Schwarze](https://osu.ppy.sh/users/6575153) |
-| **un equipo** | **![][flag_AR] [Megafan](https://osu.ppy.sh/users/6632605)**, ![][flag_DE] [Dreamless](https://osu.ppy.sh/users/10353773) |
+| **un equipo** | **![][flag_AR] [Megafan](https://osu.ppy.sh/users/6632605)**, ![][flag_VE] [-Dreamless](https://osu.ppy.sh/users/4426728) |
 | **United States** | **![][flag_CL] [Barack](https://osu.ppy.sh/users/9402889)**, ![][flag_PE] [Hoshinomori](https://osu.ppy.sh/users/4112621) |
 
 ## Podium
@@ -324,7 +324,7 @@ Monday, 27 January 2020:
 | --: | :-- | --: |
 | #1 | ![][flag_AR] [Penguo](https://osu.ppy.sh/users/4389490) | 33 |
 | #2 | ![][flag_CL] [ign](https://osu.ppy.sh/users/9360528) | 35 |
-| #3 | ![][flag_DE] [Dreamless](https://osu.ppy.sh/users/10353773) | 36 |
+| #3 | ![][flag_VE] [-Dreamless](https://osu.ppy.sh/users/4426728) | 36 |
 | #4 | ![][flag_AR] [juliancala](https://osu.ppy.sh/users/3272902) | 42 |
 | #4 | ![][flag_AR] [Rimi](https://osu.ppy.sh/users/5194834) | 42 |
 | #6 | ![][flag_CO] [GaaL](https://osu.ppy.sh/users/2374950) | 48 |
