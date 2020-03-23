@@ -125,6 +125,29 @@ Sunday, 29 March 2020:
 
 ## Mappools
 
+### Finals Week 2
+
+**[Download the map pack here! (101 MB)](https://www.dropbox.com/s/w8i2vgeunb4iure/Grand%20Finals%20%284DM2%20IS%20GONE%29.zip?dl=0)**
+
+- FreeMod
+  - [Treyarch Sound - Archangel (Civilization) \[Detain\]](https://osu.ppy.sh/beatmapsets/828771#mania/1736352)
+  - [Silentroom - Primatrix (Xonica) \[Utopia\]](https://osu.ppy.sh/beatmapsets/931209#mania/1944488)
+  - [Nothing's Carved In Stone - Out of Control (Valedict) \[Crime Coefficient\]](https://osu.ppy.sh/beatmapsets/1097918#mania/2294006)
+  - [Fightstar - Floods (\[Crz\]Crysarlene) \[Uprising\]](https://osu.ppy.sh/beatmapsets/1130088#mania/2360664)
+  - [Rainbowdragoneyes - Midnight Massacre 2007 (HowToPlayLN) \[13 years later someone has mapped this x1.05\]](https://osu.ppy.sh/beatmapsets/1130026#mania/2360880)
+  - [YZYX - Dysnomia (Chrubble) \[Aphasia\]](https://osu.ppy.sh/beatmapsets/867111#mania/1812736)
+  - [Ras - TURNDOWN(gdbg edit) (-Rem-) \[remuther-\]](https://osu.ppy.sh/beatmapsets/912732#mania/2360648)
+  - [Camellia - This Future (we didn't expect) (Evening) \[btoa\]](https://osu.ppy.sh/beatmapsets/1086076#mania/2271109)
+  - [Sky\_delta - Crystal Clear and Nothing feat. Kanata.N (HowToPlayLN) \[arpia97 x Ticle Ionic Collab (edit)\]](https://osu.ppy.sh/beatmapsets/1130238#mania/2361007)
+  - [Camellia feat. Mayumi Morinaga - re:||BIRTH (\[Crz\]Crysarlene) \[end\]](https://osu.ppy.sh/beatmapsets/1130027#mania/2360556)
+  - [An - Catanoph (TheToaphster) \[Eternity\]](https://osu.ppy.sh/beatmapsets/696257#mania/1474927)
+  - [uno & D.watt (IOSYS TRAX) - #Endroll (ByeForNow) \[LN-VENLY\]](https://osu.ppy.sh/beatmapsets/759313#mania/2156119)
+  - [Hige Driver - Ukigumo (Turtwig) \[4DM IS BURNING (edit)\]](https://osu.ppy.sh/beatmapsets/1129799#mania/2360113)
+  - [Akira Complex - Ether Strike (Kamuy) \[SVoid\]](https://osu.ppy.sh/beatmapsets/1020073#mania/2134472)
+  - [Chroma - Strange Inventor (zero2snow) \[Snowy Blazing's unstable\]](https://osu.ppy.sh/beatmapsets/1130028#mania/2360558)
+- Tiebreaker
+  - [Camellia - overcomplexification ("Quaternion" Long ver.) (HowToPlayLN) \[RuleNote x Sere2snow Labyrinthine\]](https://osu.ppy.sh/beatmapsets/1130230#mania/2360991)
+
 ### Finals Week 1
 
 **[Download the map pack here! (116 MB)](https://www.dropbox.com/s/qngtsvfx96rpv4q/Finals%20Week%201.zip?dl=0)**
