@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Community Mentorship Program Spring 2020 Signups Now Open
-date: 2020-03-23 10:00:00 +0000
+date: 2020-03-26 08:00:00 +0000
 ---
 
 The 15th cycle of the Community Mentorship program is on its way! If you've ever found yourself wanting to expand your current knowledge and skills or help beginning mappers, this program will serve as a great opportunity for you!
@@ -16,7 +16,7 @@ If you're experienced in mapping and have a desire to take those who are new und
 
 For this following cycle, the timeline is as follows (all opening and closing dates start and end at midnight UTC+0):
 
-- Mentor signups will open on March 23rd and close on March 30th.
+- Mentor signups will open on March 26th and close on April 2nd.
 - Mentee signups will open on April 19th and close on April 26th.
 - The 2020 Spring cycle will run from April 27th to July 27th.
 
