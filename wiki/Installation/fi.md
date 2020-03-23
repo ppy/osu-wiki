@@ -43,8 +43,8 @@ Voit ladata beatmappejä kotisivulta tai osu!direct'in avulla (vaatii [osu!suppo
 
 1. Käynnistä osu!'a ja napsauta oikealla puolella olevaa osu!direct-painiketta.
 2. Valitse jonkun beatmapin, jota haluat pelata.
-3. Lataa beatmapin kaksoisnapsauttamalla valitsevasi beatmappiä tai napsauttamalla oikealla puolella olevaa `Lataa`-painiketta.
-   - Jos ett halua beatmapin yhteen tulevaa videota, napsauta `Lataa ilman videota`.
+3. Lataa beatmapin kaksoisnapsauttamalla valitsevasi beatmappiä tai napsauttamalla oikealla puolella olevaa `Download`-painiketta.
+   - Jos ett halua beatmapin yhteen tulevaa videota, napsauta `DL NoVideo`.
 4. osu! lataa beatmapin automaattisesti.
    - Jos jostain syystä et näe sitä, paina `F5`-näppäintä kun olet [Laulujen Valikossa](/wiki/Interface#song-selection-screen) ladatakseen beatmapit uudelleen.
 
