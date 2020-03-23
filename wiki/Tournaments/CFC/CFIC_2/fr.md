@@ -82,7 +82,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | :-: | :-- |
 | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688) |
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
-| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_FR] [Dask](https://osu.ppy.sh/users/4151397) |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_FR] [dracoV](https://osu.ppy.sh/users/7925725) |
 
 ## Liste des maps
 

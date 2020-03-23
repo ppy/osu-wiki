@@ -82,7 +82,7 @@ This competition has come to an end and resulted in the following podium:
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688) |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Dask](https://osu.ppy.sh/users/4151397) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [dracoV](https://osu.ppy.sh/users/7925725) |
 
 ## Mappools
 
