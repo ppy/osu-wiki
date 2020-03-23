@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Centre d'Aide
 
 Vous avez un problème avec quelque chose ? Nous sommes ici pour aider ! Consultez les solutions aux problèmes communs dans la barre latérale à gauche de votre écran.
