@@ -121,7 +121,7 @@ Sunday, 29 March 2020:
 | #30a¹ | United States | ![][flag_US] | ![][flag_PH] | Philippines | **02:00** |
 | #30b¹ | United States | ![][flag_US] | ![][flag_AR] | Argentina | **21:00** |
 
-¹ Encounter dependent on winner of Match #29. And if team 2 wins the match during Match #30, the bracket reset Grand Finals match will take place 30 minutes in advance.
+¹ Encounter dependent on winner of match #29. If team 2 wins match #30, the bracket reset Grand Finals match will take place 30 minutes in advance.
 
 ## Mappools
 
@@ -146,7 +146,7 @@ Sunday, 29 March 2020:
   - [Akira Complex - Ether Strike (Kamuy) \[SVoid\]](https://osu.ppy.sh/beatmapsets/1020073#mania/2134472)
   - [Chroma - Strange Inventor (zero2snow) \[Snowy Blazing's unstable\]](https://osu.ppy.sh/beatmapsets/1130028#mania/2360558)
 - Tiebreaker
-  - [Camellia - overcomplexification ("Quaternion" Long ver.) (HowToPlayLN) \[RuleNote x Sere2snow Labyrinthine\]](https://osu.ppy.sh/beatmapsets/1130230#mania/2360991)
+  - **[Camellia - overcomplexification ("Quaternion" Long ver.) (HowToPlayLN) \[RuleNote x Sere2snow Labyrinthine\]](https://osu.ppy.sh/beatmapsets/1130230#mania/2360991)**
 
 ### Finals Week 1
 
@@ -272,7 +272,7 @@ Sunday, 22 March 2020:
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **United States** ![][flag_US] | **6** | 1 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/59465465) |
-| **Argentina** ![][flag_SG] | **6** | 3 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/59478627) |
+| **Argentina** ![][flag_AR] | **6** | 3 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/59478627) |
 
 ### Semifinals
 
