@@ -269,6 +269,24 @@ Sunday, 29 March 2020:
 
 ## Match results
 
+### Semifinals
+
+Saturday, 21 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| sunglasses emoji | 0 | **7** | **The Shitmissers ft. zkane2** | [#1](https://osu.ppy.sh/community/matches/59437426) |
+| Spaghetti Protectors | 3 | **7** | **🍘** | [#1](https://osu.ppy.sh/community/matches/59437520) |
+| **#TeamTrees** | **7** | 1 | plz Jeff | [#1](https://osu.ppy.sh/community/matches/59439076) |
+| Team 26 | 5 | **7** | **Worldwide Bongo** | [#1](https://osu.ppy.sh/community/matches/59444956) |
+
+Sunday, 22 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| plz Jeff | 3 | **7** | **The Shitmissers ft. zkane2** | [#1](https://osu.ppy.sh/community/matches/59478648) |
+| Team 26 | 2 | **7** | **Rice Cracker** | [#1](https://osu.ppy.sh/community/matches/59482449) |
+
 ### Quarterfinals
 
 Saturday, 14 March 2020:
