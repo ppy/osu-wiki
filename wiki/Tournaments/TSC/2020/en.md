@@ -91,32 +91,25 @@ The Taiko Suiji Cup 2020 is run by various community members.
 | **The winner is the winner** | **![][flag_PL] [Acrith](https://osu.ppy.sh/users/389880)**, ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864), ![][flag_US] [driodx](https://osu.ppy.sh/users/9709548), ![][flag_CA] [beary605](https://osu.ppy.sh/users/2198070), ![][flag_ES] [Lunako](https://osu.ppy.sh/users/2041945), ![][flag_US] [Num5119](https://osu.ppy.sh/users/5198060) |
 | **Worldwide Bongo** | **![][flag_RU] [TwinT](https://osu.ppy.sh/users/9976154)**, ![][flag_NL] [Hypello](https://osu.ppy.sh/users/1594036), ![][flag_BR] [Kyoumo](https://osu.ppy.sh/users/8145223), ![][flag_PT] [Yumi\_Hideaki](https://osu.ppy.sh/users/10081162), ![][flag_HK] [LDator](https://osu.ppy.sh/users/9534414), ![][flag_US] [Yujki](https://osu.ppy.sh/users/14987094) |
 
-## Match schedule: Semifinals
+## Match schedule: Finals
 
-Saturday, 21 March 2020:
-
-| Match ID | Team 1 | Team 2 | Match time (UTC) |
-| :-: | --: | :-- | :-: |
-| #SF1 | #TeamTrees | plz Jeff | **00:00** |
-| #SF2 | Team 26 | Worldwide Bongo | **04:00** |
-| #SF4 | sunglasses emoji | The Shitmissers ft. zkane2 | **20:00** |
-| #SF3 | Spaghetti Protectors | 🍘 | **23:00** |
-
-Sunday, 22 March 2020:
+Saturday, 28 March 2020:
 
 | Match ID | Team 1 | Team 2 | Match time (UTC) |
 | :-: | --: | :-- | :-: |
-| #SF5a¹ | Team 26 | Spaghetti Protectors | **11:00** |
-| #SF5b¹ | Team 26 | 🍘 | **21:00** |
-| #SF5c¹ | Worldwide Bongo | Spaghetti Protectors | **16:00** |
-| #SF5d¹ | Worldwide Bongo | 🍘 | **01:00** |
-| #SF6a² | #TeamTrees | sunglasses emoji | **09:00** |
-| #SF6b² | #TeamTrees | The Shitmissers ft. zkane2 | **23:00** |
-| #SF6c² | plz Jeff | sunglasses emoji | **20:00** |
-| #SF6d² | plz Jeff | The Shitmissers ft. zkane2 | **18:00** |
+| #F1 | #TeamTrees | Worldwide Bongo | **06:00** |
+| #F2 | 🍘 | The Shitmissers ft. zkane2 | **20:00** |
 
-¹ Encounter dependent on winner of Match #SF2 and Match #SF3  
-² Encounter dependent on winner of Match #SF1 and Match #SF4
+Sunday, 29 March 2020:
+
+| Match ID | Team 1 | Team 2 | Match time (UTC) |
+| :-: | --: | :-- | :-: |
+| #F3a¹ | #TeamTrees | 🍘 | **16:00** |
+| #F3b¹ | #TeamTrees | The Shitmissers ft. zkane2 | **18:00** |
+| #F3c¹ | Worldwide Bongo | 🍘 | **15:30** |
+| #F3d¹ | Worldwide Bongo | The Shitmissers ft. zkane2 | **20:00** |
+
+¹ Encounter dependent on winner of Match #F2 and loser of Match #F1
 
 ## Mappools
 
