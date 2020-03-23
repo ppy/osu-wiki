@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 54b1a736fd22066529e0c7b169f74765a61652be
+---
+
 # Centre d'Aide
 
 Vous avez un problème avec quelque chose ? Nous sommes ici pour aider ! Consultez les solutions aux problèmes communs dans la barre latérale à gauche de votre écran.
