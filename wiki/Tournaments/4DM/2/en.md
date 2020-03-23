@@ -106,26 +106,22 @@ The 4 Digit osu!mania World Cup 2 is run by various community members.
 | **G** | ![][flag_RU] Russian Federation | ![][flag_CA] Canada | ![][flag_ES] Spain |
 | **H** | ![][flag_SG] Singapore | ![][flag_NZ] New Zealand | ![][flag_BE] Belgium |
 
-## Match schedule: Finals Week 1
+## Match schedule: Finals Week 2
 
-Saturday, 21 March 2020:
-
-| Match ID | Team 1 |  |  | Team 2 | Match time (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #26 | China | ![][flag_CN] | ![][flag_SG] | Singapore | **10:00** |
-| #25 | United Kingdom | ![][flag_GB] | ![][flag_AR] | Argentina | **16:00** |
-
-Sunday, 22 March 2020:
+Saturday, 28 March 2020:
 
 | Match ID | Team 1 |  |  | Team 2 | Match time (UTC) |
 | :-: | --: | :-: | :-: | :-- | :-: |
-| #28 | United States | ![][flag_US] | ![][flag_PH] | Philippines | **04:00** |
-| #27a¹ | United Kingdom | ![][flag_GB] | ![][flag_CN] | China | **12:00** |
-| #27b¹ | United Kingdom | ![][flag_GB] | ![][flag_SG] | Singapore | **12:00** |
-| #27c¹ | Argentina | ![][flag_AR] | ![][flag_CN] | China | **12:00** |
-| #27d¹ | Argentina | ![][flag_AR] | ![][flag_SG] | Singapore | **12:00** |
+| #29 | Philippines | ![][flag_PH] | ![][flag_AR] | Argentina | **14:00** |
 
-¹ Encounter dependent on winner of Match #25 and Match #26
+Sunday, 29 March 2020:
+
+| Match ID | Team 1 |  |  | Team 2 | Match time (UTC) |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| #30a¹ | United States | ![][flag_US] | ![][flag_PH] | Philippines | **02:00** |
+| #30b¹ | United States | ![][flag_US] | ![][flag_AR] | Argentina | **21:00** |
+
+¹ Encounter dependent on winner of Match #29. And if team 2 wins the match during Match #30, the bracket reset Grand Finals match will take place 30 minutes in advance.
 
 ## Mappools
 
