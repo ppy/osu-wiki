@@ -58,22 +58,22 @@ Coffee Hispanic Tournament fue realizado por varios miembros de la comunidad.
 
 | Equipo | Miembros |
 | :-- | :-- |
-| **DOU** | **![][flag_AR] [Shig](https://osu.ppy.sh/users/6117281)**, ![][flag_MX] [Riot](https://osu.ppy.sh/users/4256461) |
-| **Empanada** | **![][flag_AR] [Umi Sonoda](https://osu.ppy.sh/users/6474451)**, ![][flag_ES] [ByYoshi14](https://osu.ppy.sh/users/4470553) |
-| **Equipo Trece** | **![][flag_AR] [-Birke-](https://osu.ppy.sh/users/3265658)**, ![][flag_AR] [juliancala](https://osu.ppy.sh/users/3272902) |
-| **Gastón Noveno** | **![][flag_AR] [BTG4](https://osu.ppy.sh/users/10659233)**, ![][flag_CO] [GaaL](https://osu.ppy.sh/users/2374950) |
-| **Geometry Dash** | **![][flag_AR] [Vexiion](https://osu.ppy.sh/users/10361419)**, ![][flag_AR] [AxelOsu](https://osu.ppy.sh/users/1887616) |
-| **hallo y caspi** | **![][flag_ES] [caspi99](https://osu.ppy.sh/users/7610747)**, ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761) |
-| **Jester S rank** | **![][flag_MX] [Viva Viva Happy](https://osu.ppy.sh/users/4269282)**, ![][flag_UY] [daanit](https://osu.ppy.sh/users/6159669) |
-| **Ladrillo** | **![][flag_UY] [Rondro](https://osu.ppy.sh/users/9293124)**, ![][flag_CL] [ign](https://osu.ppy.sh/users/9360528) |
-| **Noveno Gastón** | **![][flag_ES] [JoanaBob](https://osu.ppy.sh/users/10966302)**, ![][flag_AR] [Mariano](https://osu.ppy.sh/users/6371395) |
-| **Orgullo Peruano** | **![][flag_AR] [Awus](https://osu.ppy.sh/users/1991253)**, ![][flag_PE] [Arnold24x24](https://osu.ppy.sh/users/2291265) |
-| **Perrito Billetudo** | **![][flag_CO] [ElMick33](https://osu.ppy.sh/users/5458323)**, ![][flag_MX] [-Hebel-](https://osu.ppy.sh/users/6169483) |
-| **Radical** | **![][flag_ES] [AitorAmu](https://osu.ppy.sh/users/7781304)**, ![][flag_CL] [iPunqcake](https://osu.ppy.sh/users/6633574) |
-| **Rivals** | **![][flag_AR] [StreamKey](https://osu.ppy.sh/users/7586334)**, ![][flag_AR] [Rimi](https://osu.ppy.sh/users/5194834) |
-| **TPIOBJRANMJ FC** | **![][flag_AR] [Penguo](https://osu.ppy.sh/users/4389490)**, ![][flag_CO] [Schwarze](https://osu.ppy.sh/users/6575153) |
-| **un equipo** | **![][flag_AR] [Megafan](https://osu.ppy.sh/users/6632605)**, ![][flag_VE] [-Dreamless](https://osu.ppy.sh/users/4426728) |
-| **United States** | **![][flag_CL] [Barack](https://osu.ppy.sh/users/9402889)**, ![][flag_PE] [Hoshinomori](https://osu.ppy.sh/users/4112621) |
+| **DOU** | ![][flag_AR] **[Shig](https://osu.ppy.sh/users/6117281)**, ![][flag_MX] [Riot](https://osu.ppy.sh/users/4256461) |
+| **Empanada** | ![][flag_AR] **[Umi Sonoda](https://osu.ppy.sh/users/6474451)**, ![][flag_ES] [ByYoshi14](https://osu.ppy.sh/users/4470553) |
+| **Equipo Trece** | ![][flag_AR] **[-Birke-](https://osu.ppy.sh/users/3265658)**, ![][flag_AR] [juliancala](https://osu.ppy.sh/users/3272902) |
+| **Gastón Noveno** | ![][flag_AR] **[BTG4](https://osu.ppy.sh/users/10659233)**, ![][flag_CO] [GaaL](https://osu.ppy.sh/users/2374950) |
+| **Geometry Dash** | ![][flag_AR] **[Vexiion](https://osu.ppy.sh/users/10361419)**, ![][flag_AR] [AxelOsu](https://osu.ppy.sh/users/1887616) |
+| **hallo y caspi** | ![][flag_ES] **[caspi99](https://osu.ppy.sh/users/7610747)**, ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761) |
+| **Jester S rank** | ![][flag_MX] **[Viva Viva Happy](https://osu.ppy.sh/users/4269282)**, ![][flag_UY] [daanit](https://osu.ppy.sh/users/6159669) |
+| **Ladrillo** | ![][flag_UY] **[Rondro](https://osu.ppy.sh/users/9293124)**, ![][flag_CL] [ign](https://osu.ppy.sh/users/9360528) |
+| **Noveno Gastón** | ![][flag_ES] **[JoanaBob](https://osu.ppy.sh/users/10966302)**, ![][flag_AR] [Mariano](https://osu.ppy.sh/users/6371395) |
+| **Orgullo Peruano** | ![][flag_AR] **[Awus](https://osu.ppy.sh/users/1991253)**, ![][flag_PE] [Arnold24x24](https://osu.ppy.sh/users/2291265) |
+| **Perrito Billetudo** | ![][flag_CO] **[ElMick33](https://osu.ppy.sh/users/5458323)**, ![][flag_MX] [-Hebel-](https://osu.ppy.sh/users/6169483) |
+| **Radical** | ![][flag_ES] **[AitorAmu](https://osu.ppy.sh/users/7781304)**, ![][flag_CL] [iPunqcake](https://osu.ppy.sh/users/6633574) |
+| **Rivals** | ![][flag_AR] **[StreamKey](https://osu.ppy.sh/users/7586334)**, ![][flag_AR] [Rimi](https://osu.ppy.sh/users/5194834) |
+| **TPIOBJRANMJ FC** | ![][flag_AR] **[Penguo](https://osu.ppy.sh/users/4389490)**, ![][flag_CO] [Schwarze](https://osu.ppy.sh/users/6575153) |
+| **un equipo** | ![][flag_AR] **[Megafan](https://osu.ppy.sh/users/6632605)**, ![][flag_VE] [-Dreamless](https://osu.ppy.sh/users/4426728) |
+| **United States** | ![][flag_CL] **[Barack](https://osu.ppy.sh/users/9402889)**, ![][flag_PE] [Hoshinomori](https://osu.ppy.sh/users/4112621) |
 
 ## Podio
 
