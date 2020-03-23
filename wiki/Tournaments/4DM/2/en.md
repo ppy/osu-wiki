@@ -21,7 +21,7 @@ The **4 Digit osu!mania World Cup 2** (***4DM2***) is a worldwide country-based 
 | Round of 16 | 2020-02-29/2020-03-01 |
 | Quarterfinals | 2020-03-07/2020-03-08 |
 | Semifinals | 2020-03-14/2020-03-15 |
-| Finals Week 1 | 2020-03-21/2020-03-22 |
+| Finals Week 1 | 2020-03-20/2020-03-22 |
 | Finals Week 2 | 2020-03-28/2020-03-29 |
 
 ## Prizes
@@ -229,6 +229,27 @@ Sunday, 29 March 2020:
   - [void feat. Gt. HAKKYOU-KUN - Never Escape (HowToPlayLN) \[Stage 4: Surrounded\]](https://osu.ppy.sh/beatmapsets/1105727#mania/2311135)
 
 ## Match results
+
+### Finals
+
+Friday, 20 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| United Kingdom ![][flag_GB] | 1 | **6** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/59413594) |
+
+Saturday, 21 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| China ![][flag_CN] | -1 | **0** | ![][flag_SG] **Singapore** | *nullified* |
+
+Sunday, 22 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States** ![][flag_US] | **6** | 1 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/59465465) |
+| **Argentina** ![][flag_SG] | **6** | 3 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/59478627) |
 
 ### Semifinals
 
