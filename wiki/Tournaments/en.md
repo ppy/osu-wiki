@@ -221,6 +221,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Catch French Cup 3](CFC/3) | 2018-09-08 | 2018-10-20 | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) |
 | [Catch French Intermediate Cup](CFC/CFIC_1) | 2019-03-01 | 2019-03-31 | ![][flag_FR] [Realmas](https://osu.ppy.sh/users/6567640) | ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) |
 | [Catch French Cup 4](CFC/4) | 2019-03-30 | 2019-04-28 | ![][flag_FR] [Alostis](https://osu.ppy.sh/users/2986875) | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
+| [Catch French Intermediate Cup 2](CFC/CFIC_2) | 2020-02-15 | 2020-03-21 | ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688) | ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) | ![][flag_FR] [Dask](https://osu.ppy.sh/users/4151397) |
 
 ### ![](/wiki/shared/mode/catch.png) Catch the Beat Indonesia Cup
 
