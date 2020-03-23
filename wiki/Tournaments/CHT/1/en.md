@@ -7,7 +7,7 @@ tags:
 
 ![CHT logo](img/logo.jpg)
 
-The **Coffee Hispanic Tournament** (***CHT***) was a hispanic single-elimination 2v2 osu! tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_AR] [iNeuu\_Z](https://osu.ppy.sh/users/9112463), and ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811). This was the first installment of the Coffee Hispanic Tournament.
+The **Coffee Hispanic Tournament** (***CHT***) was a single-elimination 2v2 osu! tournament hosted by ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_AR] [iNeuu\_Z](https://osu.ppy.sh/users/9112463), and ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811). The tournament was restricted to Spanish-speaking countries only. This was the first installment of the Coffee Hispanic Tournament.
 
 ## Tournament schedule
 
