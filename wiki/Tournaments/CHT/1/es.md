@@ -259,7 +259,7 @@ Domingo, 2 Febrero 2020:
 
 | Equipo 1 |  |  | Equipo 2 | Link del match |
 | --: | :-: | :-: | :-- | :-- |
-| **Noveno Gaston** | **0** | -1 | Geometry Dash | *win by default* |
+| **Noveno Gaston** | **0** | -1 | Geometry Dash | *victoria por default* |
 
 Lunes, 3 Febrero 2020:
 
