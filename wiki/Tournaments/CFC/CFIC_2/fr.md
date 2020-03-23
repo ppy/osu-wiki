@@ -122,7 +122,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
   - [DJ TOTTO feat. Enako - Precious \* Star (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/776495#fruits/1631467)
   - [REDALiCE vs. MASAKI - BUCHiGiRE Berserker (Bunnrei) \[INSANE\]](https://osu.ppy.sh/beatmapsets/1074448#fruits/2249908)
   - [sana - Miraizu (Lasse) \[Forever\]](https://osu.ppy.sh/beatmapsets/378196#fruits/890467)
-  - [toby fox - MEGALOVANIA (Kyshiro) \[Burn\]](https://osu.ppy.sh/beatmapsets/387700#fruits/846105)
+  - [toby fox - MEGALOVANIA (Kyshiro) \[Insane\]](https://osu.ppy.sh/beatmapsets/387700#fruits/847387)
   - [LeaF - Euphoric Orchid Dance (Zetera) \[Zetera's Super Hard\]](https://osu.ppy.sh/beatmapsets/431102#fruits/929941)
 - Hidden
   - [P\*Light - FUNKY SUMMER BEACH (alienflybot) \[Rain\]](https://osu.ppy.sh/beatmapsets/807977#fruits/1695597)
@@ -132,7 +132,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 - HardRock
   - [FOLiACETATE - Heterochromia Iridis (Deif) \[Platter\]](https://osu.ppy.sh/beatmapsets/833719#fruits/2170652)
   - [Ray - Nagi (mingmichael) \[Rain\]](https://osu.ppy.sh/beatmapsets/146008#fruits/361907)
-  - [Shimotsuki Haruka - Tsubasa o Motanai Shoujo (Dored) \[Blue Bird\]](https://osu.ppy.sh/beatmapsets/883825#fruits/1847491)
+  - [Shimotsuki Haruka - Tsubasa o Motanai Shoujo (Dored) \[Rio's Eztra\]](https://osu.ppy.sh/beatmapsets/883825#fruits/1866037)
   - [FF7 Original Soundtrack - Crazy Motorcycle Chase (James) \[Crazy!\]](https://osu.ppy.sh/beatmapsets/1961#fruits/18170)
 - DoubleTime
   - [Neru - Byoumei Wa Ai Datta (Ellyu) \[Rew's Platter\]](https://osu.ppy.sh/beatmapsets/684960#fruits/2203059)
