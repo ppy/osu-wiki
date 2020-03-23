@@ -244,15 +244,15 @@ Saturday, 21 March 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Rubber Conquest** | **6** | 0 | IshuzokuRebyuāzu | [#1](https://osu.ppy.sh/mp/59428783) |
+| **Rubber Conquest** | **6** | 0 | IshuzokuRebyuāzu | [#1](https://osu.ppy.sh/community/matches/59428783) |
 | **＝ＹＡＨＥ** | **6** | 0 | Old & Irrelevant | [#1](https://osu.ppy.sh/community/matches/59437383) |
-| **Kangaroo** | **6** | 0 | BRATVA I KOLCO | [#1](https://osu.ppy.sh/mp/59442860) |
+| **Kangaroo** | **6** | 0 | BRATVA I KOLCO | [#1](https://osu.ppy.sh/community/matches/59442860) |
 | WE LOVE LWMF! | 1 | **6** | **osim** | [#1](https://osu.ppy.sh/community/matches/59442778) |
 | **osu stonehenge** | **0** | -1 | Pocket Galaxy | *win by default* |
 | Mirash Fanclub | 4 | **6** | **Sutiire** | [#1](https://osu.ppy.sh/community/matches/59445143) |
 | **STOOF CLONES** | **7** | 6 | KasuLewd | [#1](https://osu.ppy.sh/community/matches/59445117) |
-| **will is 2** | **7** | 6 | seusbruk | [#1](https://osu.ppy.sh/mp/59447044) |
-| **china** | **6** | 2 | GrandMaineAngers | [#1](https://osu.ppy.sh/mp/59449247) |
+| **will is 2** | **7** | 6 | seusbruk | [#1](https://osu.ppy.sh/community/matches/59447044) |
+| **china** | **6** | 2 | GrandMaineAngers | [#1](https://osu.ppy.sh/community/matches/59449247) |
 | **Morello Crew** | **6** | 4 | Knuckles Batty | [#1](https://osu.ppy.sh/community/matches/59451720) |
 | **Couchers** | **7** | 5 | Pwzekaczkaòwó | [#1](https://osu.ppy.sh/community/matches/59453540) |
 
@@ -261,8 +261,8 @@ Sunday, 22 March 2020:
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Kangaroo** | **0** | -1 | Couchers | *win by default* |
-| **Floating up** | **6** | 2 | riuzaky homo | [#1](https://osu.ppy.sh/mp/59480324) |
-| Sutiire | 0 | 6 | **osim** | [#1](https://osu.ppy.sh/mp/59480416) |
+| **Floating up** | **6** | 2 | riuzaky homo | [#1](https://osu.ppy.sh/community/matches/59480324) |
+| Sutiire | 0 | **6** | **osim** | [#1](https://osu.ppy.sh/community/matches/59480416) |
 | **Morello crew** | **6** | 3 | STOOF CLONES | [#1](https://osu.ppy.sh/community/matches/59486399) |
 | china | 5 | **6** | osu stonehenge | [#1](https://osu.ppy.sh/community/matches/59488497) |
 
