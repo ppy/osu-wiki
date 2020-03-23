@@ -238,7 +238,7 @@ Saturday, 21 March 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Fuka Pura** ![][flag_FR] | **7** | ![][flag_FR] 2 | Kaleesy Pura | [#1](https://osu.ppy.sh/community/matches/59441101) |
+| **Fuka Pura** ![][flag_FR] | **7** | 2 | ![][flag_FR] Kaleesy Pura | [#1](https://osu.ppy.sh/community/matches/59441101) |
 
 ### Finals
 
