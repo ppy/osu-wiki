@@ -1,6 +1,6 @@
 # 难度命名
 
-难度命名的目的是告诉玩家一张谱面的难易程度。这篇文章列出了经常出现的难度名及其替代名称。这篇文章列出了多年来的通用约定和一些替代选择。然而，在具有描述性且清晰指示了一系列谱面间的相对难度的前提下，你可以选择任何想要的命名方式。
+难度命名的目的是告诉玩家一张谱面的难易程度。这篇文章列出了多年来的通用约定和一些替代选择。然而，在具有描述性且清晰指示了一系列谱面间的相对难度的前提下，你可以选择任何想要的命名方式。
 
 ## 默认
 
@@ -10,20 +10,20 @@
 
 ### ![osu!](/wiki/shared/mode/osu.png "osu!") osu!
 
-- ![](/wiki/shared/diff/easy-s.png) Easy
-- ![](/wiki/shared/diff/normal-s.png) Normal
-- ![](/wiki/shared/diff/hard-s.png) Hard
-- ![](/wiki/shared/diff/insane-s.png) Insane
-- ![](/wiki/shared/diff/expert-s.png) Expert
+- ![](/wiki/shared/diff/easy-s.png) Easy（简单）
+- ![](/wiki/shared/diff/normal-s.png) Normal（普通）
+- ![](/wiki/shared/diff/hard-s.png) Hard（困难）
+- ![](/wiki/shared/diff/insane-s.png) Insane（疯狂）
+- ![](/wiki/shared/diff/expert-s.png) Expert（专家）
 
 ### ![osu!taiko](/wiki/shared/mode/taiko.png "osu!taiko") osu!taiko
 
-- ![](/wiki/shared/diff/easy-t.png) Kantan
-- ![](/wiki/shared/diff/normal-t.png) Futsuu
-- ![](/wiki/shared/diff/hard-t.png) Muzukashii
-- ![](/wiki/shared/diff/insane-t.png) Oni
-- ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
-- ![](/wiki/shared/diff/expertplus-t.png) Outer/Hell Oni
+- ![](/wiki/shared/diff/easy-t.png) Kantan（简单）
+- ![](/wiki/shared/diff/normal-t.png) Futsuu（普通）
+- ![](/wiki/shared/diff/hard-t.png) Muzukashii（难）
+- ![](/wiki/shared/diff/insane-t.png) Oni（鬼）
+- ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni（里鬼）
+- ![](/wiki/shared/diff/expertplus-t.png) Outer/Hell Oni（地狱）
 
 ### ![osu!catch](/wiki/shared/mode/catch.png "osu!catch") osu!catch
 
