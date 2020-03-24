@@ -28,15 +28,13 @@ Beatmap Nominators 的成员主要负责 [Modding](/wiki/Modding) 那些[待处�
 
 BN 的新成员将从一个月的待定期开始。如果他们的提名和行为令人满意，他们将晋升为 BN 正式成员。 否则，他们将继续审核一个月或从团队中移除。
 
-
 当 BN 被置于待定期时，他们无法因为相同的原因再次被置入待定期。 比如：如果一名 BN 因为不良行为而被待定，如果他们再次表现出相同的不良行为，即使他们在正式成员名单中，也会被从团队内移除。
 
 ## 团队成员
 
-[Beatmap Nominators 团队成员页面](https://osu.ppy.sh/groups/28) 以及 [Beatmap Nominators(待定期) 团队成员页面](https://osu.ppy.sh/groups/32)列出了所有在任团队成员。
+[Beatmap Nominators 团队成员页面](https://osu.ppy.sh/groups/28) 以及 [Beatmap Nominators (待定期) 团队成员页面](https://osu.ppy.sh/groups/32)列出了所有在任团队成员。
 
-下表列出了全部游戏模式，其中每一位 Beatmap Nominator 都具有正式的提名资格。
-**小提示: 所有 BN 都能够熟练的使用英文进行交流，特别说明的除外。**
+下表列出了全部游戏模式，其中每一位 Beatmap Nominator 都具有正式的提名资格。**小提示: 所有 BN 都能够熟练的使用英文进行交流，特别说明的除外。**
 
 ### 正式成员
 

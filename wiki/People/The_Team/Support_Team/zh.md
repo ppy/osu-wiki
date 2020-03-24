@@ -1,13 +1,13 @@
 # Support Team
 
-用户组 **Support Team** (又称 **Support Team Redux**，为了不和账号的支持团队的概念混淆，我们一般称之为 "Support Team") 是 osu!Staff 成员，主要管理以下几个论坛版块：[Development](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (除了 [Tournaments](https://osu.ppy.sh/community/forums/55) 和 [Mapping Techniques](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Feature Requests](https://osu.ppy.sh/community/forums/4), 和 [Help](https://osu.ppy.sh/community/forums/5).
+用户组 **Support Team** (又称 **Support Team Redux**，为了不和账号的支持团队的概念混淆，我们一般称之为 "Support Team") 是 osu! staff 成员，主要管理以下几个论坛版块：[Development](https://osu.ppy.sh/community/forums/2), [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13) (除了 [Tournaments](https://osu.ppy.sh/community/forums/55) 和 [Mapping Techniques](https://osu.ppy.sh/community/forums/61)), [Skinning](https://osu.ppy.sh/community/forums/15), [Feature Requests](https://osu.ppy.sh/community/forums/4), 和 [Help](https://osu.ppy.sh/community/forums/5).
 
 ## 职责
 
 Support Team 主要负责:
 
-1.  测试并且确认漏洞报告，通知开发者以解决问题。
-2.  管理 [Feature Requests](https://osu.ppy.sh/community/forums/4) 和 [Technical Support](https://osu.ppy.sh/community/forums/5) 的帖子，并且用 **Resolved**, **Confirmed**, **Invalid**, **Duplicate** 以及 **Added** 标注。
+1. 测试并且确认漏洞报告，通知开发者以解决问题。
+2. 管理 [Feature Requests](https://osu.ppy.sh/community/forums/4) 和 [Technical Support](https://osu.ppy.sh/community/forums/5) 的帖子，并且用 **Resolved**, **Confirmed**, **Invalid**, **Duplicate** 以及 **Added** 标注。
 
 如果有人在这些板块中需要帮助，Support Team 成员可以提供第一手帮助。
 

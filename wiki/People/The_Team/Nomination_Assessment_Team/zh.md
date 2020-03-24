@@ -7,7 +7,6 @@ tags:
 
 **Nomination Assessment Team** (通常简称为 **NAT**) 是 [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (**BN**) 的管理者，同时也确保着 osu! 的谱面作图方面保持功能正常。
 
-
 NAT 成员通过其红色用户名和用户标题来区分。 就像 [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) (**GMT**) 一样，NAT 在游戏的聊天频道中拥有站点范围的审核权限和暗红色的用户名。
 
 ## 职责

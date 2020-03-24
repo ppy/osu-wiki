@@ -8,14 +8,14 @@ tags:
 
 *有关晋升和退休的列表，请参阅：[人员日志](/wiki/Staff_Log)*
 
-以下列出的玩家是 osu!team 的核心成员，并且致力于让这个游戏变得更有趣。
+以下列出的玩家是 **osu!team** 的核心成员，并且致力于让这个游戏变得更有趣。
 
 | 昵称 | 介绍 |
 | :-- | :-- |
 | ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)** | **项目领头人** |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | 摸图和作图圈的顾问 |
-| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |Moderation<!--NT--> 和社区顾问 |
-| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | 项目/社区的维护 & [精选艺术家](https://osu.ppy.sh/beatmaps/artists)推广 |
+| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Moderation<!--NT--> 和社区顾问 |
+| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | 项目/社区的维护 & 精选艺术家推广 |
 | ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | 首席设计师 & Creative Cloud 常任观察员 |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | 摸图和作图圈的顾问 |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | 世界杯的组织者和管理者 |
@@ -25,11 +25,11 @@ tags:
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | osu!web 开发者 & [官方 osu! 特色艺术家](https://osu.ppy.sh/beatmaps/artists/1) |
 | ![][flag_JP] [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web 开发者 |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | 摸图和作图圈的顾问 |
-| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | 摸图和作图圈的顾问 & Mappers' Guild 组织者 & [精选艺术家](https://osu.ppy.sh/beatmaps/artists)推广 |
+| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | 摸图和作图圈的顾问 & Mappers' Guild 组织者 & 精选艺术家推广 |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | 基本秩序维护 & wiki 维护 |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | 基本秩序维护 |
 | ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! 开发者 & osu!mania 爱好者 & bug 杀手 |
-| ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Project Loved 领导者 & 社区顾问 & [精选艺术家](https://osu.ppy.sh/beatmaps/artists)推广 |
+| ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Project Loved 领导者 & 社区顾问 & 精选艺术家推广 |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | 基本秩序维护 & 赛事助手 |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | 濒危物种 |
 
@@ -51,7 +51,7 @@ tags:
 
 | 昵称 | 介绍 |
 | :-- | :-- |
-| ![][flag_US] [awp](https://osu.ppy.sh/users/2650) | 基本秩序维护和帮助 & 游戏/网页上“Chibi”的美术设计 & [Barrel Roll Weekly](http://brw.twinkfish.com/) |
+| ![][flag_US] [awp](https://osu.ppy.sh/users/2650) | 基本秩序维护和帮助 & 游戏/网页上 “Chibi” 的美术设计 & [Barrel Roll Weekly](http://brw.twinkfish.com/) |
 | ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | 音频设计 & [官方 osu! 特色艺术家](https://osu.ppy.sh/beatmaps/artists/2) |
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | 世界杯的组织和管理者 |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | 基本秩序维护 & 社区管理 |
