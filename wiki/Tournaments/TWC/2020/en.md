@@ -50,8 +50,6 @@ The osu!taiko World Cup 2020 is run by various community members.
 - [Pick'ems page](https://pickem.hwchr.com/tournaments/26) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - **[Statistics sheet](https://bit.ly/2x46Mix)**
 
----
-
 ## Participants
 
 |  | Country | Members |
@@ -89,29 +87,62 @@ The osu!taiko World Cup 2020 is run by various community members.
 | ![][flag_GB] | **United Kingdom** | **[goheegy](https://osu.ppy.sh/users/8057655)**, [Horiiizon](https://osu.ppy.sh/users/8071438), [\_DUSK\_](https://osu.ppy.sh/users/6092181), [mangomizer](https://osu.ppy.sh/users/1893718), [Teezel](https://osu.ppy.sh/users/7528639) |
 | ![][flag_US] | **United States** | **[Loopy542](https://osu.ppy.sh/users/5468461)**, [3san](https://osu.ppy.sh/users/8050850), [cheese salad](https://osu.ppy.sh/users/6349821), [-Electro-](https://osu.ppy.sh/users/3251373), [HoopWheat](https://osu.ppy.sh/users/12177903) |
 
----
+## Match schedule: Semifinals
 
-## Match schedule: Quarterfinals
+Saturday, 28 March 2020:
 
-### Saturday, 21. March 2020
+| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| Germany | ![][flag_DE] | ![][flag_CN] | China | **13:00 UTC** | 14:00 UTC+01 | 21:00 UTC+08 | ² |
+| Italy | ![][flag_IT] | ![][flag_PL] | Poland | **14:30 UTC** | 15:30 UTC+01 | 15:30 UTC+01 | ² |
+| Sweden | ![][flag_SE] | ![][flag_BR] | Brazil | **16:00 UTC** | 17:00 UTC+01 | 13:00 UTC-03 | ² |
+| Canada | ![][flag_CA] | ![][flag_ES] | Spain | **17:30 UTC** | 12:30 UTC-05 | 18:30 UTC+01 | ² |
 
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Sweden | ![][flag_SE] | ![][flag_SG] | Singapore | **14:00 UTC** | 15:00 UTC+01 | 22:00 UTC+08 |
-| Germany | ![][flag_DE] | ![][flag_RU] | Russian Federation | **15:30 UTC** | 16:30 UTC+01 | 20:30 UTC+05 |
-| Italy | ![][flag_IT] | ![][flag_FR] | France | **17:00 UTC** | 18:00 UTC+01 | 18:00 UTC+01 |
-| United Kingdom | ![][flag_GB] | ![][flag_BR] | Brazil | **20:00 UTC** | 20:00 UTC | 17:00 UTC-03 |
-| United States | ![][flag_US] | ![][flag_CA] | Canada | **21:30 UTC** | 15:30 UTC-06 | 16:30 UTC-05 |
+Sunday, 29 March 2020:
 
-### Sunday, 22. March 2020
+| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| Japan | ![][flag_JP] | ![][flag_KR] | South Korea | **11:00 UTC** | 20:00 UTC+09 | 20:00 UTC+09 | ¹ |
+| Taiwan | ![][flag_TW] | ![][flag_GB] | United Kingdom | **12:30 UTC** | 20:30 UTC+08 | 12:30 UTC | ¹ |
+| China | ![][flag_CN] | ![][flag_IT] | Italy | **14:00 UTC** | 22:00 UTC+08 | 15:00 UTC+01 | ³ |
+| China | ![][flag_CN] | ![][flag_PL] | Poland | **14:00 UTC** | 22:00 UTC+08 | 15:00 UTC+01 | ³ |
+| Germany | ![][flag_DE] | ![][flag_IT] | Italy | **15:30 UTC** | 16:30 UTC+01 | 16:30 UTC+01 | ³ |
+| Germany | ![][flag_DE] | ![][flag_PL] | Poland | **15:30 UTC** | 16:30 UTC+01 | 16:30 UTC+01 | ³ |
+| Sweden | ![][flag_SE] | ![][flag_CA] | Canada | **17:00 UTC** | 18:00 UTC+01 | 12:00 UTC-05 | ³ |
+| Sweden | ![][flag_SE] | ![][flag_ES] | Spain | **17:00 UTC** | 18:00 UTC+01 | 18:00 UTC+01 | ³ |
+| Brazil | ![][flag_BR] | ![][flag_CA] | Canada | **17:00 UTC** | 14:00 UTC-03 | 12:00 UTC-05 | ³ |
+| Brazil | ![][flag_BR] | ![][flag_ES] | Spain | **17:00 UTC** | 14:00 UTC-03 | 18:00 UTC+01 | ³ |
 
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| China | ![][flag_CN] | ![][flag_KR] | South Korea | **11:00 UTC** | 19:00 UTC+08 | 20:00 UTC+09 |
-| Japan | ![][flag_JP] | ![][flag_PL] | Poland | **12:30 UTC** | 21:30 UTC+09 | 13:30 UTC+01 |
-| Spain | ![][flag_ES] | ![][flag_TW] | Taiwan | **14:00 UTC** | 15:00 UTC+01 | 22:00 UTC+08 |
+¹ Winner bracket encounter  
+² Loser bracket encounter  
+³ Encounter dependent on results of ²loser bracket encounter
 
 ## Mappools
+
+### Semifinals
+
+- NoMod
+  - [Jeff Williams - Time to say Goodbye (feat. Casey Lee Williams) (HiroK) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/806792#taiko/1693451)
+  - [M2U x NICODE - LUNE - Chiptune & Music Box Arrange Ver. (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/607963#taiko/1971187)
+  - [hsiu - all i have are words. (Drum Decimator) \[Nov 29\]](https://osu.ppy.sh/beatmapsets/998721#taiko/2088884)
+  - [shio - Hanabi no Saku Yoru (yea) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/685582#taiko/1451167)
+  - [Rahatt - Would Amenpunk is Impressed? (Mew) \[Mew's Taiko\]](https://osu.ppy.sh/beatmapsets/1074374#taiko/2248341)
+  - [a crowd of rebellion - -OOZE OUT- (-[ ix Ishida xi ]-) \[Sa n d'  s   T    a     i      k       o        O         n          i\]](https://osu.ppy.sh/beatmapsets/381901#taiko/835332)
+- Hidden
+  - [HyuN - The Apocalypse (Capu) \[Apocalyptic Oni\]](https://osu.ppy.sh/beatmapsets/1075603#taiko/2250660)
+  - [MYLK - Bubblegum (Cynplytholowazy) \[Bubble Pop\]](https://osu.ppy.sh/beatmapsets/1055143#taiko/2204735)
+- HardRock
+  - [Se-U-Ra - LOSHAXI -HACK- (Genjuro) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1094418#taiko/2287322)
+  - [Aether Realm - Tarot (Raiden) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1030740#taiko/2155553)
+- DoubleTime
+  - [TAKA respect for J.S.B. - No.13 (AngelHoney) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/33401#taiko/109504)
+  - [Cranky - Danger & Danger (Nofool) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/989596#taiko/2070102)
+- FreeMod
+  - [Sota Fujimori - polygon (Nwolf) \[Rhombicosidodecahedron\]](https://osu.ppy.sh/beatmapsets/955557#taiko/1995386)
+  - [Stratovarius - Stratofortress (Zetera) \[Mokujin Oni - ARISEN\]](https://osu.ppy.sh/beatmapsets/539208#taiko/2360332)
+  - [t+pazolite - Muzik Overload (incandescence) \[Overamplification\]](https://osu.ppy.sh/beatmapsets/752325#taiko/1583809)
+- Tiebreaker
+  - **[Ata - Doom Butterfly (AsaBen) \[Majin Oni\]](https://osu.ppy.sh/beatmapsets/938995#taiko/2206838)**
 
 ### Quarterfinals
 
@@ -120,7 +151,7 @@ The osu!taiko World Cup 2020 is run by various community members.
   - [fallen shepherd feat. RabbiTon Strings - ENDYMION (Capu) \[Encore Extra Stage\]](https://osu.ppy.sh/beatmapsets/1078749#taiko/2257147)
   - [The Flashbulb - Creep (Greenshell) \[Nyctophobia\]](https://osu.ppy.sh/beatmapsets/966087#taiko/2100987)
   - [Hana to Onyx - Ariadne (Y O U T A) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/584627#taiko/2349068)
-  - [Noisia - Groundhog (Beat Juggle) (JarvisGaming) \[Taiko Master\]](https://osu.ppy.sh/beatmapsets/877901#taiko/1836115)
+  - [Noisia - Groundhog (Beat Juggle) (JarvisGaming) \[Crumbs (TWC 2020)\]](https://osu.ppy.sh/beatmapsets/877901#taiko/2351705)
 - Hidden
   - [Nekomata Master - Rengoku no Elfenia (Nwolf) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/743744#taiko/1568359)
   - [xi - Finder keepers (Mapper 31) \[Oni\]](https://osu.ppy.sh/beatmapsets/336183#taiko/744070)
@@ -184,20 +215,42 @@ The osu!taiko World Cup 2020 is run by various community members.
 - Tiebreaker
   - **[Chroma - Dark Sheep (Midnaait) \[Hitsujin\]](https://osu.ppy.sh/beatmapsets/987588#taiko/2065913)**
 
----
-
 ## Match results
+
+### Quarterfinals
+
+Saturday, 21 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Sweden** ![][flag_SE] | **6** | 5 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/59440883) |
+| **Germany** ![][flag_DE] | **6** | 1 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/59443946) |
+| **Italy** ![][flag_IT] | **6** | 4 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/59446962) |
+| **United Kingdom** ![][flag_GB] | **6** | 3 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/59453425) |
+| United States ![][flag_US] | 4 | **6** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/59456812) |
+
+Sunday, 22 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| China ![][flag_CN] | 0 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/59473798) |
+| **Japan** ![][flag_JP] | **6** | 2 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/59475787) |
+| Spain ![][flag_ES] | 0 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/59478329) |
 
 ### Round of 16
 
-| Saturday, 2020-03-14 |  |  |  |  |
+Saturday, 14 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Singapore ![][flag_SG] | 1 | **6** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/59186154) |
 | **Spain** ![][flag_ES] | **6** | 3 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/59190551) |
 | Italy ![][flag_IT] | 2 | **6** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/59195050) |
 | France ![][flag_FR] | 4 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/59201725) |
 
-| Sunday, 2020-03-15 |  |  |  |  |
+Sunday, 15 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | United States ![][flag_US] | 1 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/59210475) |
 | **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/59211398) |
@@ -206,7 +259,9 @@ The osu!taiko World Cup 2020 is run by various community members.
 
 ### Group Stage
 
-| Saturday, 2020-03-07 |  |  |  |  |
+Saturday, 7 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **New Zealand** ![][flag_NZ] | **5** | 4 | ![][flag_GR] Greece | [#1](https://osu.ppy.sh/community/matches/58989241) |
 | **Poland** ![][flag_PL] | **5** | 0 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/58989346) |
@@ -233,7 +288,9 @@ The osu!taiko World Cup 2020 is run by various community members.
 | **Brazil** ![][flag_BR] | **5** | 0 | ![][flag_GR] Greece | *win by default* |
 | **Brazil** ![][flag_BR] | **5** | 0 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/59011775) |
 
-| Sunday, 2020-03-08 |  |  |  |  |
+Sunday, 8 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **United States** ![][flag_US] | **5** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/59013785) |
 | **Japan** ![][flag_JP] | **5** | 0 | ![][flag_AR] Argentina | *win by default* |
@@ -259,8 +316,6 @@ The osu!taiko World Cup 2020 is run by various community members.
 | **United Kingdom** ![][flag_GB] | **5** | 0 | ![][flag_CO] Colombia | *win by default* |
 | **Italy** ![][flag_IT] | **5** | 0 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/59033544) |
 | **Russian Federation** ![][flag_RU] | **5** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/59033519) |
-
----
 
 ## Ruleset
 
@@ -392,35 +447,35 @@ The osu!taiko World Cup 2020 is run by various community members.
    - **Do not ask for a reschedule unless it is absolutely needed. The tournament staff still has the right to decline the request.**
 7. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least two players for each match. If teams can not provide two players for a match, the match will be considered forfeited.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_CO]: /wiki/shared/flag/CO.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_GR]: /wiki/shared/flag/GR.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PT]: /wiki/shared/flag/PT.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_GR]: /wiki/shared/flag/GR.gif "Greece"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
