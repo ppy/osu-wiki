@@ -91,27 +91,64 @@ The osu!taiko World Cup 2020 is run by various community members.
 
 ---
 
-## Match schedule: Quarterfinals
+## Match schedule: Semifinals
 
-### Saturday, 21. March 2020
+### Saturday, 28. March 2020
 
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Sweden | ![][flag_SE] | ![][flag_SG] | Singapore | **14:00 UTC** | 15:00 UTC+01 | 22:00 UTC+08 |
-| Germany | ![][flag_DE] | ![][flag_RU] | Russian Federation | **15:30 UTC** | 16:30 UTC+01 | 20:30 UTC+05 |
-| Italy | ![][flag_IT] | ![][flag_FR] | France | **17:00 UTC** | 18:00 UTC+01 | 18:00 UTC+01 |
-| United Kingdom | ![][flag_GB] | ![][flag_BR] | Brazil | **20:00 UTC** | 20:00 UTC | 17:00 UTC-03 |
-| United States | ![][flag_US] | ![][flag_CA] | Canada | **21:30 UTC** | 15:30 UTC-06 | 16:30 UTC-05 |
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| Germany | ![][flag_DE] | ![][flag_CN] | China | **13:00 UTC** | 14:00 UTC+01 | 21:00 UTC+08 | ² |
+| Italy | ![][flag_IT] | ![][flag_PL] | Poland | **14:30 UTC** | 15:30 UTC+01 | 15:30 UTC+01 | ² |
+| Sweden | ![][flag_SE] | ![][flag_BR] | Brazil | **16:00 UTC** | 17:00 UTC+01 | 13:00 UTC-03 | ² |
+| Canada | ![][flag_CA] | ![][flag_ES] | Spain | **17:30 UTC** | 12:30 UTC-05 | 18:30 UTC+01 | ² |
 
-### Sunday, 22. March 2020
+### Sunday, 29. March 2020
 
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
-| --: | --: | :-- | :-- | :-: | :-: | :-: |
-| China | ![][flag_CN] | ![][flag_KR] | South Korea | **11:00 UTC** | 19:00 UTC+08 | 20:00 UTC+09 |
-| Japan | ![][flag_JP] | ![][flag_PL] | Poland | **12:30 UTC** | 21:30 UTC+09 | 13:30 UTC+01 |
-| Spain | ![][flag_ES] | ![][flag_TW] | Taiwan | **14:00 UTC** | 15:00 UTC+01 | 22:00 UTC+08 |
+| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| Japan | ![][flag_JP] | ![][flag_KR] | South Korea | **11:00 UTC** | 20:00 UTC+09 | 20:00 UTC+09 | ¹ |
+| Taiwan | ![][flag_TW] | ![][flag_GB] | United Kingdom | **12:30 UTC** | 20:30 UTC+08 | 12:30 UTC | ¹ |
+| China | ![][flag_CN] | ![][flag_IT] | Italy | **14:00 UTC** | 22:00 UTC+08 | 15:00 UTC+01 | ³ |
+| China | ![][flag_CN] | ![][flag_PL] | Poland | **14:00 UTC** | 22:00 UTC+08 | 15:00 UTC+01 | ³ |
+| Germany | ![][flag_DE] | ![][flag_IT] | Italy | **15:30 UTC** | 16:30 UTC+01 | 16:30 UTC+01 | ³ |
+| Germany | ![][flag_DE] | ![][flag_PL] | Poland | **15:30 UTC** | 16:30 UTC+01 | 16:30 UTC+01 | ³ |
+| Sweden | ![][flag_SE] | ![][flag_CA] | Canada | **17:00 UTC** | 18:00 UTC+01 | 12:00 UTC-05 | ³ |
+| Sweden | ![][flag_SE] | ![][flag_ES] | Spain | **17:00 UTC** | 18:00 UTC+01 | 18:00 UTC+01 | ³ |
+| Brazil | ![][flag_BR] | ![][flag_CA] | Canada | **17:00 UTC** | 14:00 UTC-03 | 12:00 UTC-05 | ³ |
+| Brazil | ![][flag_BR] | ![][flag_ES] | Spain | **17:00 UTC** | 14:00 UTC-03 | 18:00 UTC+01 | ³ |
+
+¹ Winner bracket encounter
+
+² Loser bracket encounter
+
+³ Encounter dependent on results of ²Loser bracket encounter
 
 ## Mappools
+
+### Semifinals
+
+- NoMod
+  - [Jeff Williams - Time to say Goodbye (feat. Casey Lee Williams) (HiroK) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/806792#taiko/1693451)
+  - [M2U x NICODE - LUNE - Chiptune & Music Box Arrange Ver. (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/607963#taiko/1971187)
+  - [hsiu - all i have are words. (Drum Decimator) \[Nov 29\]](https://osu.ppy.sh/beatmapsets/998721#taiko/2088884)
+  - [shio - Hanabi no Saku Yoru (yea) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/685582#taiko/1451167)
+  - [Rahatt - Would Amenpunk is Impressed? (Mew) \[Mew's Taiko\]](https://osu.ppy.sh/beatmapsets/1074374#taiko/2248341)
+  - [a crowd of rebellion - -OOZE OUT- (-[ ix Ishida xi ]-) \[Sa n d'  s   T    a     i      k       o        O         n          i\]](https://osu.ppy.sh/beatmapsets/381901#taiko/835332)
+- Hidden
+  - [HyuN - The Apocalypse (Capu) \[Apocalyptic Oni\]](https://osu.ppy.sh/beatmapsets/1075603#taiko/2250660)
+  - [MYLK - Bubblegum (Cynplytholowazy) \[Bubble Pop\]](https://osu.ppy.sh/beatmapsets/1055143#taiko/2204735)
+- HardRock
+  - [Se-U-Ra - LOSHAXI -HACK- (Genjuro) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1094418#taiko/2287322)
+  - [Aether Realm - Tarot (Raiden) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1030740#taiko/2155553)
+- DoubleTime
+  - [TAKA respect for J.S.B. - No.13 (AngelHoney) \[lepidon! - Taiko Oni\]](https://osu.ppy.sh/beatmapsets/33401#taiko/109504)
+  - [Cranky - Danger & Danger (Nofool) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/989596#taiko/2070102)
+- FreeMod
+  - [Sota Fujimori - polygon (Nwolf) \[Rhombicosidodecahedron\]](https://osu.ppy.sh/beatmapsets/955557#taiko/1995386)
+  - [Stratovarius - Stratofortress (Zetera) \[Mokujin Oni - ARISEN\]](https://osu.ppy.sh/beatmapsets/539208#taiko/2360332)
+  - [t+pazolite - Muzik Overload (incandescence) \[Overamplification\]](https://osu.ppy.sh/beatmapsets/752325#taiko/1583809)
+- Tiebreaker
+  - **[Ata - Doom Butterfly (AsaBen) \[Majin Oni\]](https://osu.ppy.sh/beatmapsets/938995#taiko/2206838)**
 
 ### Quarterfinals
 
@@ -187,6 +224,22 @@ The osu!taiko World Cup 2020 is run by various community members.
 ---
 
 ## Match results
+
+### Quarterfinals
+
+| Saturday, 2020-03-21 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| **Sweden** ![][flag_SE] | **6** | 5 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/59440883) |
+| **Germany** ![][flag_DE] | **6** | 1 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/59443946) |
+| **Italy** ![][flag_IT] | **6** | 4 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/59446962) |
+| **United Kingdom** ![][flag_GB] | **6** | 3 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/59453425) |
+| United States ![][flag_US] | 4 | **6** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/59456812) |
+
+| Sunday, 2020-03-22 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-- |
+| China ![][flag_CN] | 0 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/59473798) |
+| **Japan** ![][flag_JP] | **6** | 2 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/59475787) |
+| Spain ![][flag_ES] | 0 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/59478329) |
 
 ### Round of 16
 
