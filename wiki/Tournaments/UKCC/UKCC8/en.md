@@ -181,7 +181,23 @@ UK is run by many wonderful people, this list doesn't fully represent how many a
 
 ![Map pools](img/mappool.png)
 
-*There are currently no map pools for UKCC 8.*
+### Qualifiers
+
+**[Download the map pack here! (89.5MB)](https://mega.nz/#!ay5jmALT!7etd7RrLunC-4sgyEZHtMHKClAcvImAiqYQz3-jsgpE)**
+
+- Nomod
+  - [Feint - Snake Eyes (feat. CoMa) Full Vers. [yheja lamo]](https://osu.ppy.sh/beatmapsets/331643#osu/928642)
+  - [ZUTOMAYO - Kan Saete Kuyashiiwa [Luscent's Extra]](https://osu.ppy.sh/beatmapsets/1001507#osu/2167576)
+  - [Seiryu - Critical Crystal [wa's Extra]](https://osu.ppy.sh/beatmapsets/199535#osu/475805)
+- Hidden
+  - [Taku Inoue - Yoake made Ato 3 Byou [apaffy's Extra]](https://osu.ppy.sh/beatmapsets/768893#osu/1643448)
+  - [ONE OK ROCK - NO SCARED [Insane]](https://osu.ppy.sh/beatmapsets/119277#osu/306278)
+- Hard Rock
+  - [Arctic Monkeys - Still Take You Home [BOUYAAA's Insane]](https://osu.ppy.sh/beatmapsets/631466#osu/1491730)
+  - [DJ YOSHITAKA - Bloody Tears(IIDX EDITION) [Insane]](https://osu.ppy.sh/beatmapsets/6598#osu/29731)
+- Double Time
+  - [ITO KASHITARO - Boku no Hosomichi [Journey]](https://osu.ppy.sh/beatmapsets/394691#osu/859034)
+  - [Hana - Sakura no Uta [Light Insane]](https://osu.ppy.sh/beatmapsets/376552#osu/824390)
 
 ## Schedules / Match Results
 

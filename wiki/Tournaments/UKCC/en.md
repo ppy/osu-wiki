@@ -23,7 +23,7 @@
 
 #### In Progress
 
-- [UKCC 8 - Stage: SIGNUPS](UKCC8 "UK Community Cup 8th")
+- [UKCC 8](UKCC8 "UK Community Cup 8th")
 
 ### Links
 
