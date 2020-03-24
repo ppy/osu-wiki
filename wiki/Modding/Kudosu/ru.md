@@ -5,13 +5,3 @@
 В моддинге на форуме кудосу обменивались на [звёздный приоритет](/wiki/Glossary#star-priority).
 
 Слово *kudosu* — иногда стилизуемое, как *kudosu!* — образовалось от [слияния слов](https://ru.wikipedia.org/wiki/Словослияние) *kudos* и *osu!*.
-
-<!-- this is a stub -->
-<!-- TODO: forum modding, star priority? stubs-->
-<!-- TODO:
-  - something about the ranking at https://old.ppy.sh/p/kudosu
-  - history in general / forum modding usage
-  - "You could explain kudosu's usage in evaluating BN applications, its past usage in BN Ranking systems" -jbhyperion
-  - how it looks and works in beatmap discussions
-  - when is it appropriate to award kd
-->
