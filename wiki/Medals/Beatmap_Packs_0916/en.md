@@ -15,7 +15,7 @@ needs_cleanup: true
 
 ***[Click here to return to the "Achievements" page](..)***
 
-These are the legacy/original themed packs packed during osu! infancy years (2009) before being updated by [Stefan on 16 January 2016](https://osu.ppy.sh/news/137535031193).
+These are the legacy/original themed packs packed during osu! infancy years (2009) before being updated by [Stefan on 16 January 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44).
 Hence why the `0916` part is in the title.
 
 ## Anime Pack
