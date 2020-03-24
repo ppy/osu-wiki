@@ -4,10 +4,10 @@
 
 peppy mempertimbangkan kembali bahwa model bisnis yang ia terapkan saat ini tidak akan memberinya "osu! Jet G6" pribadinya dan dengan peresmian *[osu!coin](/wiki/osu!coin)* diharapkan ia dapat meningkatkan pendapatannya. Setiap pemain saat ini diberikan 10 osu!coin untuk awalan (dengan tarif 1 kali bermain = 1 osu!coin). Koin ini juga dapat diisi ulang setelah memperoleh kombo dari kelipatan 100. Atau instan dengan membeli, harga tersedia di bawah ini:
 
--   1 osu!coin = $1 USD
--   10 osu!coin = $10 USD
--   1000 osu!coin = $999USD (Menghemat 0,001%! PENJUALAN TERBAIK!)
--   Jumlah osu!coin yang tak terbatas = Seharga anak Anda yang akan lahir - osu! membutuhkan lebih banyak anggota tim, dan akan meminta anak Anda yang belum lahir untuk melunasi hutang Anda! :)
+- 1 osu!coin = $1 USD
+- 10 osu!coin = $10 USD
+- 1000 osu!coin = $999USD (Menghemat 0,001%! PENJUALAN TERBAIK!)
+- Jumlah osu!coin yang tak terbatas = Seharga anak Anda yang akan lahir - osu! membutuhkan lebih banyak anggota tim, dan akan meminta anak Anda yang belum lahir untuk melunasi hutang Anda! :)
 
 Tautan Terkait:
 
@@ -20,7 +20,7 @@ Keesokan harinya, setelah banyaknya permintaan yang berdatangan, peppy memutuska
 Tautan Terkait;
 
 - [komentar peppy mengenai osu!coin](https://disq.us/p/w2ydos)
-- [osu!next](http://osunext.tumblr.com/post/115384460628/the-super-early-ultra-alpha-buggy-read-only-of-the)
+- [osu!next](https://osunext.tumblr.com/post/115384460628/the-super-early-ultra-alpha-buggy-read-only-of-the)
 
 ## Mei
 

@@ -5,11 +5,13 @@ Dari thread: *[how to add custom hitsound? oleh: neonat](https://osu.ppy.sh/comm
 ## Mendapatkan Hitsound Kustom
 
 Sebelumnya, Anda akan memerlukan beberapa kustom hitsound! Anda bisa mendapatkannya dengan cara:
+
 - Anda bisa mengambil dari [Custom Hitsound Library](/wiki/Guides/Custom_Hitsound_Library),
 - atau membuat kustom hitsound sendiri
   - jika Anda membuat sendiri, pastikan format file tersebut adalah `.wav` - karena format inilah yang paling baik untuk berkas audio yang bersifat looping.
 
 Jika Anda sudah mendapatkannya, pindahkan semuanya ke folder beatmap itu sendiri. Jika Anda tidak tahu di mana letak folder beatmap tersebut, ikuti instruksi ini!:
+
 1. Buka osu!
 2. Edit
 3. Pilih *beatmap Anda* dan buka

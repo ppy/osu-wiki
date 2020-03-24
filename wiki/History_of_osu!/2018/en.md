@@ -6,7 +6,7 @@ outdated: true
 
 ## January
 
-After a six-month long hiatus, flyte posted on the [osu!next](http://osunext.tumblr.com) blog with some teaser pictures for the next website design. He explained that the current state of the website had many UX problems, from various functionality specs to user feedback, that wasn't considered at the time of designing. Since then, he had been taking some time to redesign the website's current design from scratch.
+After a six-month long hiatus, flyte posted on the [osu!next](https://osunext.tumblr.com) blog with some teaser pictures for the next website design. He explained that the current state of the website had many UX problems, from various functionality specs to user feedback, that wasn't considered at the time of designing. Since then, he had been taking some time to redesign the website's current design from scratch.
 
 The osu!mania 7K World Cup 2018 registrations opened. Community Choice 2017 (previously known as the "Best of" series) voting was opened.
 
@@ -22,7 +22,7 @@ peppy briefly opened a GitHub issue to discuss about *passive HP*.
 
 Links:
 
-- [osu!next](http://osunext.tumblr.com/post/169336245023/hi-its-been-6-months-since-my-last-post-rest)
+- [osu!next](https://osunext.tumblr.com/post/169336245023/hi-its-been-6-months-since-my-last-post-rest)
 - [osu!mania 7K World Cup 2018: Registrations now open!](https://osu.ppy.sh/home/news/2018-01-10-MWC7K-2018-registrations-open)
 - [Dean Herbert on Twitter](https://twitter.com/ppy/status/951884503122784257)
 - [Community Choice 2017](https://osu.ppy.sh/home/news/2018-01-18-community-choice-2017)
@@ -126,9 +126,9 @@ Thanks to nekodex, the osu!supporter status is now visible in the [support the g
 
 Links:
 
--   [ppy/osu-web#2906](https://github.com/ppy/osu-web/pull/2906)
--   [ppy/osu-web#2896](https://github.com/ppy/osu-web/pull/2896)
--   [ppy/osu-web#2984](https://github.com/ppy/osu-web/pull/2984)
--   [ppy/osu-web#3033](https://github.com/ppy/osu-web/pull/3033)
--   [ppy/osu-web#2984](https://github.com/ppy/osu-web/pull/2984)
--   [ppy/osu-web#3099](https://github.com/ppy/osu-web/pull/3099)
+- [ppy/osu-web#2906](https://github.com/ppy/osu-web/pull/2906)
+- [ppy/osu-web#2896](https://github.com/ppy/osu-web/pull/2896)
+- [ppy/osu-web#2984](https://github.com/ppy/osu-web/pull/2984)
+- [ppy/osu-web#3033](https://github.com/ppy/osu-web/pull/3033)
+- [ppy/osu-web#2984](https://github.com/ppy/osu-web/pull/2984)
+- [ppy/osu-web#3099](https://github.com/ppy/osu-web/pull/3099)

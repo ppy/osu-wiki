@@ -2,9 +2,9 @@
 
 Ein Hit-Objekt ist das Kernelement in osu!. Es gibt drei Arten von Hit-Objekten:
 
--   Hit Circle
--   Slider
--   Spinner
+- Hit Circle
+- Slider
+- Spinner
 
 Hitcircle und Slider kommen sehr häufig vor, während Spinner nur gelegentlich auftauchen. Alles, mit dem sie im Verlauf einer Beatmap interagieren, ist ein Hit-Objekt.
 

@@ -1,10 +1,8 @@
 # 2013
 
-*Halaman utama: [Sejarah osu!](/wiki/History_of_osu!).*
-
 ## Januari
 
-osu! sekarang mendukung widescreen di semua mode (termasuk editor juga)! Ukuran basis data telah berkurang sebanyak 10%. Fitur untuk mengatur ulang kunci kustom ke default telah ditambahkan. Masalah Hyperdash di [Catch the Beat](/wiki/Catch_the_Beat) hampir selesai. Gambar hak cipta di menu utama diperbarui pada 2013 tanpa menampilkan teks hak cipta. [Hasil untuk perayaan tahunan "Best of" telah keluar. (Best of 2012)](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdDRDSjNMN3o3Y1Z6UzA0QUpFNzdlNUE#gid=0).
+osu! sekarang mendukung widescreen di semua mode (termasuk editor juga)! Ukuran basis data telah berkurang sebanyak 10%. Fitur untuk mengatur ulang kunci kustom ke default telah ditambahkan. Masalah Hyperdash di [Catch the Beat](/wiki/Game_Modes/osu!catch) hampir selesai. Gambar hak cipta di menu utama diperbarui pada 2013 tanpa menampilkan teks hak cipta. [Hasil untuk perayaan tahunan "Best of" telah keluar. (Best of 2012)](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdDRDSjNMN3o3Y1Z6UzA0QUpFNzdlNUE#gid=0).
 
 Tautan Terkait:
 
@@ -15,7 +13,7 @@ Tautan Terkait:
 
 ## Februari
 
-Versi baru dari editor osu!mania sedang dalam pengembangan. Skinning mode Taiko sekarang memiliki bar "metadata" (judul lagu dan artis di bawah elemen playfield), playfield taiko tidak lagi transparan dan memudar saat memasuki waktu kiai. [FAQ](https://osu.ppy.sh/p/faq) asli yang lama telah digantikan oleh [osu! wiki](/wiki/FAQ).
+Versi baru dari editor osu!mania sedang dalam pengembangan. Skinning mode Taiko sekarang memiliki bar "metadata" (judul lagu dan artis di bawah elemen playfield), playfield taiko tidak lagi transparan dan memudar saat memasuki waktu kiai. FAQ asli yang lama telah digantikan oleh [osu! wiki](/wiki/FAQ).
 
 Seperangkat perintah `!faq` untuk BanchoBot telah dibuka untuk umum supaya dapat [diterjemahkan](https://docs.google.com/a/ppy.sh/spreadsheet/ccc?key=0AlsSAL_F7-xDdHhUUjNSa19QendtcTdYUjE2S2hnVHc#gid=24). [BanchoBot](/wiki/BanchoBot) yang legendaris akhirnya memiliki [profil tersendiri](https://osu.ppy.sh/users/3)! Tampilan panel pengguna sekarang menyesuaikan resolusi layar untuk menampilkan empat kolom pada semua mode widescreen.
 
@@ -55,7 +53,7 @@ Pembaruan bulan ini sebagian besar terdiri dari penambalan pembaruan utama sebel
 
 Anda sekarang dapat merubah mode game lebih mudah di menu pemilihan lagu dengan menggunakan `Ctrl` + `1`, `2`, `3` atau `4`. Sebuah mod baru ditambahkan khusus untuk osu!mania, bernamakan [Random](/wiki/RD). Beberapa modifikasi telah dilakukan pada tombol "Quick Join" di Multi supaya dapat mengarahkan Anda ke sebuah ruangan yang pp rata-rata pemain di dalamnya setara dengan pp rata-rata Anda.
 
-Untuk tayangan ulang beatmap, komentar yang sudah kedaluwarsa akan dialihkan menjadi gaya komentar [nico-style](http://en.wikipedia.org/wiki/Nico_Nico_Douga) dan warna komentar sekarang dapat dikustom (fitur khusus osu!supporter).
+Untuk tayangan ulang beatmap, komentar yang sudah kedaluwarsa akan dialihkan menjadi gaya komentar [nico-style](https://en.wikipedia.org/wiki/Nico_Nico_Douga) dan warna komentar sekarang dapat dikustom (fitur khusus osu!supporter).
 
 Di sisi beatmapping, semua anggota MAT dialihkan menjadi anggota BAT karena MAT secara resmi telah dibubarkan dengan alasan batas kekuatan antara anggota MAT dan BAT terlalu dekat satu sama lain.
 
@@ -71,13 +69,13 @@ Tautan Terkait:
 
 Nama-nama Mod telah dipersingkat (mis. "Hard Rock" menjadi "HR") untuk menghemat penggunaan ruang di menu. Sebagian besar tayangan ulang beatmap yang rusak di masa lalu telah diperbaiki. Sistem spektator baru yang dimana Anda dapat mengikuti target spektator jika mereka sedang menonton orang lain. Sistem pembaruan telah dikerjakan ulang, yang paling penting adalah tidak ada lagi pemaksaan restart klien, kecuali jika memang diperlukan.
 
-Selama pemutaran ulang beatmap, opsi untuk memperlambat kecepatan telah ditambahkan (setelah menekan `2x` Speed, maka Speed `0.5x` akan muncul). Playfield tidak akan memunculkan latar belakang pada keredupan (background dim) 100%. [Catch the Beat](/wiki/Catch_the_Beat) menerima dukungan joystick (Atas/Bawah: ganti lagu, Kanan: pilih, Kiri: keluar).
+Selama pemutaran ulang beatmap, opsi untuk memperlambat kecepatan telah ditambahkan (setelah menekan `2x` Speed, maka Speed `0.5x` akan muncul). Playfield tidak akan memunculkan latar belakang pada keredupan (background dim) 100%. [Catch the Beat](/wiki/Game_Modes/osu!catch) menerima dukungan joystick (Atas/Bawah: ganti lagu, Kanan: pilih, Kiri: keluar).
 
 [Sistem peringkat/modding baru sedang dikembangkan](https://osu.ppy.sh/community/forums/topics/129625) yang akan menggantikan sistem modding berbasis forum yang lama digunakan.
 
 Untuk mode Multi, pemain sekarang dapat menggunakan mod Special (Relax/Autopilot/SpunOut/ManiaKeys) saat opsi Free Mod diaktifkan oleh host. Di sisi skinning, sprite standar widescreen taiko (taiko @2x) telah ditambahkan. Favourites A/B telah dihapus sepenuhnya digantikan oleh Collections.
 
-Tiga [pencapaian](/wiki/achievements) baru "Dedication" untuk osu!mania telah dirilis (40.000/400.000/4.000.000 tombol ditekan). Desain profil pengguna telah dikerjakan ulang dan "kunjungan terakhir" Anda akan didasarkan pada koneksi ke Bancho (yaitu, login dalam game) daripada kunjungan ke forum. Akhirnya, osu! memiliki pencapaian baru dengan terhubungnya 10.000 pengguna secara bersamaan!
+Tiga [pencapaian](/wiki/Medals) baru "Dedication" untuk osu!mania telah dirilis (40.000/400.000/4.000.000 tombol ditekan). Desain profil pengguna telah dikerjakan ulang dan "kunjungan terakhir" Anda akan didasarkan pada koneksi ke Bancho (yaitu, login dalam game) daripada kunjungan ke forum. Akhirnya, osu! memiliki pencapaian baru dengan terhubungnya 10.000 pengguna secara bersamaan!
 
 - [osu! Versi (Rilisan Publik) (b20130509)](https://osu.ppy.sh/community/forums/topics/131611)
 - [May 2013 Highlights + Map of the Month](https://osu.ppy.sh/community/forums/posts/2334705)
@@ -86,7 +84,7 @@ Tiga [pencapaian](/wiki/achievements) baru "Dedication" untuk osu!mania telah di
 
 [osu! Beatmapping Contest \#4](https://osu.ppy.sh/community/forums/posts/2324098) telah dimulai. Sebagai bentuk tindakan pencegahan terhadap pemain yang membuat banyak akun, kejelasan pesan selama pendaftaran akun ditingkatkan dan infografis yang menunjukkan bahwa Anda tidak dapat mendaftar dari ponsel/tablet telah ditambahkan untuk mencegah pemain membuat lebih banyak akun karena alasan pribadi.
 
-Selain di sisi keamanan, sekarang pengguna dapat memilih mode game mana yang menjadi default di profil mereka (seperti [osu!mania](/wiki/osu!mania), [Taiko](/wiki/Taiko)) dan dukungan [last.fm](http://www.last.fm/) telah ditambahkan ke profil. Profil pengguna sekarang memiliki peringkat performa berdasarkan negara dan grafik pp juga diperbarui.
+Selain di sisi keamanan, sekarang pengguna dapat memilih mode game mana yang menjadi default di profil mereka (seperti [osu!mania](/wiki/osu!mania), [Taiko](/wiki/Game_Modes/osu!taiko)) dan dukungan [last.fm](https://www.last.fm) telah ditambahkan ke profil. Profil pengguna sekarang memiliki peringkat performa berdasarkan negara dan grafik pp juga diperbarui.
 
 Seputaran In-game, menu utama mendapat visualisasi baru, dengan suar menyala di sekitar simbol osu!, bergantung pada intensitas BPM lagu yang diputar. Kinerja telah dioptimalkan dalam pemilihan lagu dengan banyak (lebih dari sepuluh ribu) peta. Perbarui ketahanan dan kinerja telah ditingkatkan.
 
@@ -113,7 +111,7 @@ Tautan Terkait:
 
 [BATMANager regional baru](https://osu.ppy.sh/community/forums/topics/132667) memulai perekrutan besar pertama dari BAT baru ke dalam tim dengan [Summer 2013 NewBAT Applications](https://osu.ppy.sh/community/forums/topics/142864). Hal ini memberikan kesempatan bagi manajer baru untuk menangani aplikasi baru secara memadai. Manajer regional baru adalah [NatsumeRin](https://osu.ppy.sh/users/151679) yang mewakili Asia/Oceania, [Kurai](https://osu.ppy.sh/users/77089) mewakili Eropa, dan [Garven](https://osu.ppy.sh/users/244216) mewakili Amerika.
 
-Pada 2013-07-02, peppy membuat [osu!api](https://osu.ppy.sh/community/forums/topics/141240) terbuka untuk umum (sebelumnya hanya tersedia melalui permintaan langsung secara pribadi). Dengan ini, pengembang independen dapat membuat proyek layanan third party untuk osu!. Pada 2013-07-11, laman "forgot password" yang sebelumnya rusak telah diperbaiki. 2013-07-18 membawa pembaruan ke konektivitas fallback Bancho. Pada 2013-07-21, dukungan widescreen untuk storyboard ditambahkan dalam dialog pengaturan lagu. Dua In-game overlay baru ditambahkan untuk melacak akurasi saat Anda bermain atau menonton orang lain bermain. lihat laman [Options] untuk informasi lebih lanjut.
+Pada 2013-07-02, peppy membuat [osu!api](https://osu.ppy.sh/community/forums/topics/141240) terbuka untuk umum (sebelumnya hanya tersedia melalui permintaan langsung secara pribadi). Dengan ini, pengembang independen dapat membuat proyek layanan third party untuk osu!. Pada 2013-07-11, laman "forgot password" yang sebelumnya rusak telah diperbaiki. 2013-07-18 membawa pembaruan ke konektivitas fallback Bancho. Pada 2013-07-21, dukungan widescreen untuk storyboard ditambahkan dalam dialog pengaturan lagu. Dua In-game overlay baru ditambahkan untuk melacak akurasi saat Anda bermain atau menonton orang lain bermain. lihat laman [Options](/wiki/Options) untuk informasi lebih lanjut.
 
 ![](img/2013-07_01.jpg "Overlay Hit-error")
 
@@ -135,6 +133,6 @@ Salah satu topik hangat saat ini untuk diperdebatkan adalah bahwa peppy telah me
 Tautan Terkait:
 
 - [I will be in malaysia (December)](https://osu.ppy.sh/community/forums/topics/163121)
-- [Jadwal | Comic Fiesta 2013](http://comicfiesta.org/2013/info/event/schedule/)
+- [Jadwal | Comic Fiesta 2013](https://comicfiesta.org/2013/info/event/schedule/)
 - [New osu! mode announced on CF2013?](https://osu.ppy.sh/community/forums/topics/176000)
 - [Comic Fiesta 2013 Impressions & osu! Q&A Panel Session with peppy (ppy) | INFONOCHIKARA 「インフォノチカラ」 Blogotopia](https://infonochikara.wordpress.com/2013/12/30/comic-fiesta-2013-impressions-osu-qa-panel-session-with-peppy-ppy/)

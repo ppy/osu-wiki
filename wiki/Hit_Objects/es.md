@@ -2,9 +2,9 @@
 
 Un *hit object* (objetos de golpeo) es un elemento principal en osu!. Hay tres tipos de *hit objects*:
 
--   Hit Circle
--   Slider
--   Spinner
+- Hit Circle
+- Slider
+- Spinner
 
 Los *Hit circles* y *sliders* son encontrado frecuentemente, mientras que los *spinners* solo aparecen ocasionalmente. Todas las cosas con las que interactuas durante el curso de un beatmap es un *hit object*.
 

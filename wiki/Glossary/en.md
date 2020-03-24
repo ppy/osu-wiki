@@ -119,6 +119,8 @@ Used to refer to the group itself or one of its members.
 
 ### BPM
 
+*Main page: [Beats per minute](/wiki/Beatmapping/Beats_per_minute)*
+
 *Short for "beats per minute".*
 
 Represents the number of whole beats in a minute.
@@ -424,7 +426,7 @@ Keep in mind that overuse or misuse of kiai can be disorienting! Thus [creators]
 
 ### Kudosu!
 
-*For a guide on rewarding kudosu!, see: [Beatmap Discussion/Kudosu!](/wiki/Beatmap_Discussion#kudosu!)
+*For a guide on rewarding kudosu!, see: [Beatmap Discussion/Kudosu!](/wiki/Beatmap_Discussion#kudosu!)*
 
 ![Kudosu Durp](img/Kudosu-Durp.png "Kudosu Durp")
 

@@ -6,9 +6,9 @@ needs_cleanup: true
 
 A hit object is the core gameplay element in osu!. There are three types of hit objects:
 
--   Hit Circle
--   Slider
--   Spinner
+- Hit Circle
+- Slider
+- Spinner
 
 Hit circles and sliders are encountered frequently, while spinners typically only appear occasionally. Everything you interact with during the course of a beatmap is a hit object.
 
