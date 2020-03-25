@@ -56,6 +56,6 @@ Jika Anda memiliki pertanyaan atau komentar, Anda bisa mengirimnya kepada [ztrot
 
 ## Pranala Luar
 
-- [Sumber](https://news.ppy.sh/post/70504430082/introducing-the-osu-academy)
+- [Sumber](https://osu.ppy.sh/home/news/2013-12-19-introducing-the-osu-academy)
 - [Channel YouTube resmi](https://www.youtube.com/user/osuacademy/videos)
 - [Forum diskusi resmi](https://osu.ppy.sh/community/forums/topics/169707)

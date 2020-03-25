@@ -20,21 +20,21 @@ outdated: true
 
 | 编号 | 谱面 | 模式 | 获胜者 | 结果界面 | 成绩 |
 | :-: | :-- | :-: | :-- | :-- | :-- |
-| 1 | [Rostik - Liquid (Paul Rosenthal Remix)](https://osu.ppy.sh/beatmapsets/123593) | ![osu!standard][o!s] | [Charles445](https://osu.ppy.sh/users/85000) | [Results](https://osu.ppy.sh/news/64561724273) | [Score #1](https://osu.ppy.sh/p/contestresults?c=7) |
-| 2 | [cYsmix feat. Emmy - Tear Rain](https://osu.ppy.sh/beatmapsets/140662) | ![osu!standard][o!s] | [jonathanlfj](https://osu.ppy.sh/users/270377) | [Results](https://osu.ppy.sh/news/72422807506) | [Score #2](https://osu.ppy.sh/p/contestresults?c=8) |
-| 3 | [Chasers - Lost](https://osu.ppy.sh/beatmapsets/151878) | ![osu!standard][o!s] | [ktgster](https://osu.ppy.sh/users/53378) | [Results](https://osu.ppy.sh/news/77183675009) | [Score #3](https://osu.ppy.sh/p/contestresults?c=9) |
-| 4 | [Kuba Oms - My Love](https://osu.ppy.sh/beatmapsets/163112) | ![osu!standard][o!s] | [W h i t e](https://osu.ppy.sh/users/685229) | [Results](https://osu.ppy.sh/news/84122008873) | [Score #4](https://osu.ppy.sh/p/contestresults?c=10) |
-| 5 | [Rameses B - Flaklypa](https://osu.ppy.sh/beatmapsets/190390) | ![osu!standard][o!s] | [-kevincela-](https://osu.ppy.sh/users/266596) | [Results](https://osu.ppy.sh/news/91735660223) | [Score #5](https://osu.ppy.sh/p/contestresults?c=11) |
-| 6（创意作图）| [LeaF - Evanescent](https://osu.ppy.sh/beatmapsets/227126) | ![osu!standard][o!s] | [Charles445](https://osu.ppy.sh/users/85000) | [Results](https://osu.ppy.sh/news/102534475143) | [Score #6](https://osu.ppy.sh/p/contestresults?c=12) |
-| 7.1 | [Soleily - Renatus](https://osu.ppy.sh/beatmapsets/241526) | ![osu!standard][o!s] | [Gamu](https://osu.ppy.sh/users/611174) | [Results](https://osu.ppy.sh/news/112654662093) | [Score #7.1](https://osu.ppy.sh/p/contestresults?c=13) |
-| 7.2 | [Soleily - Renatus](https://osu.ppy.sh/beatmapsets/241526) | ![osu!taiko][o!t] | [MMzz](https://osu.ppy.sh/users/128993) | [Results](https://osu.ppy.sh/news/112654662093) | [Score #7.2](https://osu.ppy.sh/p/contestresults?c=14) |
-| 7.3 | [Soleily - Renatus](https://osu.ppy.sh/beatmapsets/241526) | ![osu!catch][o!c] | [Deif](https://osu.ppy.sh/users/318565) | [Results](https://osu.ppy.sh/news/112654662093) | [Score #7.3](https://osu.ppy.sh/p/contestresults?c=15) |
-| 7.4 | [Soleily - Renatus](https://osu.ppy.sh/beatmapsets/241526) | ![osu!mania][o!m] | [ExPew](https://osu.ppy.sh/users/665612) | [Results](https://osu.ppy.sh/news/112654662093) | [Score #7.4](https://osu.ppy.sh/p/contestresults?c=16) |
-| 8 | [raja_ffm - the light](https://osu.ppy.sh/beatmaps/671412) | ![osu!standard][o!s] | [Damnae](https://osu.ppy.sh/users/989377) | [Results](https://osu.ppy.sh/news/115885774698) | [Score #8](https://osu.ppy.sh/p/contestresults?c=17) |
-| 9 | [Furries in a Blender - Storm World](https://osu.ppy.sh/beatmapsets/319473) | ![osu!taiko][o!t] | [Firce777](https://osu.ppy.sh/users/274072) | [Results](https://osu.ppy.sh/news/122549062138) | [Score #9](https://osu.ppy.sh/p/contestresults?c=18) |
-| 10 | [Hylian Lemon - Foresight Is for Losers](https://osu.ppy.sh/beatmapsets/342751) | ![osu!catch][o!c] | [ZiRoX](https://osu.ppy.sh/users/200768) | [Results](https://osu.ppy.sh/news/126037472723) | [Score #10](https://osu.ppy.sh/p/contestresults?c=19) |
-| 11 | [Freedom Planet - Dragon Valley (Toni Leys Remix feat. Esteban Bellucci)](https://osu.ppy.sh/beatmapsets/385056) | ![osu!mania][o!m] | [LordRaika](https://osu.ppy.sh/users/3265023) | [Results](https://osu.ppy.sh/news/134459652408) | [Score #11](https://osu.ppy.sh/p/contestresults?c=20) |
-| 12 | [IAHN - Candy Luv](https://osu.ppy.sh/beatmapsets/456054) | ![osu!standard][o!s] | [Taeyang](https://osu.ppy.sh/users/2732340) | [Results](https://osu.ppy.sh/news/144933230753) | [Score #12](https://osu.ppy.sh/p/contestresults?c=21) |
+| 1 | [Rostik - Liquid (Paul Rosenthal Remix)](https://osu.ppy.sh/beatmapsets/123593) | ![osu!standard][o!s] | [Charles445](https://osu.ppy.sh/users/85000) | [Results](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) | [Score #1](https://osu.ppy.sh/p/contestresults?c=7) |
+| 2 | [cYsmix feat. Emmy - Tear Rain](https://osu.ppy.sh/beatmapsets/140662) | ![osu!standard][o!s] | [jonathanlfj](https://osu.ppy.sh/users/270377) | [Results](https://osu.ppy.sh/home/news/2014-01-06-monthly-beatmapping-contest-2-results) | [Score #2](https://osu.ppy.sh/p/contestresults?c=8) |
+| 3 | [Chasers - Lost](https://osu.ppy.sh/beatmapsets/151878) | ![osu!standard][o!s] | [ktgster](https://osu.ppy.sh/users/53378) | [Results](https://osu.ppy.sh/home/news/2014-02-19-monthly-beatmapping-contest-3-results) | [Score #3](https://osu.ppy.sh/p/contestresults?c=9) |
+| 4 | [Kuba Oms - My Love](https://osu.ppy.sh/beatmapsets/163112) | ![osu!standard][o!s] | [W h i t e](https://osu.ppy.sh/users/685229) | [Results](https://osu.ppy.sh/home/news/2014-04-28-monthly-beatmapping-contest-4-results) | [Score #4](https://osu.ppy.sh/p/contestresults?c=10) |
+| 5 | [Rameses B - Flaklypa](https://osu.ppy.sh/beatmapsets/190390) | ![osu!standard][o!s] | [-kevincela-](https://osu.ppy.sh/users/266596) | [Results](https://osu.ppy.sh/home/news/2014-07-14-monthly-beatmapping-contest-5-results) | [Score #5](https://osu.ppy.sh/p/contestresults?c=11) |
+| 6（创意作图）| [LeaF - Evanescent](https://osu.ppy.sh/beatmapsets/227126) | ![osu!standard][o!s] | [Charles445](https://osu.ppy.sh/users/85000) | [Results](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results) | [Score #6](https://osu.ppy.sh/p/contestresults?c=12) |
+| 7.1 | [Soleily - Renatus](https://osu.ppy.sh/beatmapsets/241526) | ![osu!standard][o!s] | [Gamu](https://osu.ppy.sh/users/611174) | [Results](https://osu.ppy.sh/home/news/2015-03-04-monthly-beatmapping-contest-7-results) | [Score #7.1](https://osu.ppy.sh/p/contestresults?c=13) |
+| 7.2 | [Soleily - Renatus](https://osu.ppy.sh/beatmapsets/241526) | ![osu!taiko][o!t] | [MMzz](https://osu.ppy.sh/users/128993) | [Results](https://osu.ppy.sh/home/news/2015-03-04-monthly-beatmapping-contest-7-results) | [Score #7.2](https://osu.ppy.sh/p/contestresults?c=14) |
+| 7.3 | [Soleily - Renatus](https://osu.ppy.sh/beatmapsets/241526) | ![osu!catch][o!c] | [Deif](https://osu.ppy.sh/users/318565) | [Results](https://osu.ppy.sh/home/news/2015-03-04-monthly-beatmapping-contest-7-results) | [Score #7.3](https://osu.ppy.sh/p/contestresults?c=15) |
+| 7.4 | [Soleily - Renatus](https://osu.ppy.sh/beatmapsets/241526) | ![osu!mania][o!m] | [ExPew](https://osu.ppy.sh/users/665612) | [Results](https://osu.ppy.sh/home/news/2015-03-04-monthly-beatmapping-contest-7-results) | [Score #7.4](https://osu.ppy.sh/p/contestresults?c=16) |
+| 8 | [raja_ffm - the light](https://osu.ppy.sh/beatmaps/671412) | ![osu!standard][o!s] | [Damnae](https://osu.ppy.sh/users/989377) | [Results](https://osu.ppy.sh/home/news/2015-04-08-monthly-beatmapping-contest-8-results) | [Score #8](https://osu.ppy.sh/p/contestresults?c=17) |
+| 9 | [Furries in a Blender - Storm World](https://osu.ppy.sh/beatmapsets/319473) | ![osu!taiko][o!t] | [Firce777](https://osu.ppy.sh/users/274072) | [Results](https://osu.ppy.sh/home/news/2015-06-27-monthly-beatmapping-contest-9-results) | [Score #9](https://osu.ppy.sh/p/contestresults?c=18) |
+| 10 | [Hylian Lemon - Foresight Is for Losers](https://osu.ppy.sh/beatmapsets/342751) | ![osu!catch][o!c] | [ZiRoX](https://osu.ppy.sh/users/200768) | [Results](https://osu.ppy.sh/home/news/2015-08-06-monthly-beatmap-contest-10-results-ctb) | [Score #10](https://osu.ppy.sh/p/contestresults?c=19) |
+| 11 | [Freedom Planet - Dragon Valley (Toni Leys Remix feat. Esteban Bellucci)](https://osu.ppy.sh/beatmapsets/385056) | ![osu!mania][o!m] | [LordRaika](https://osu.ppy.sh/users/3265023) | [Results](https://osu.ppy.sh/home/news/2015-12-03-monthly-beatmapping-contest-11-results) | [Score #11](https://osu.ppy.sh/p/contestresults?c=20) |
+| 12 | [IAHN - Candy Luv](https://osu.ppy.sh/beatmapsets/456054) | ![osu!standard][o!s] | [Taeyang](https://osu.ppy.sh/users/2732340) | [Results](https://osu.ppy.sh/home/news/2016-05-26-monthly-beatmapping-contest-12-results) | [Score #12](https://osu.ppy.sh/p/contestresults?c=21) |
 | 13 | BilliumMoto - HDHR | ![osu!standard][o!s] | 待发布 | 待发布 | 待发布 |
 | 2017年3月 | nanobii - HYPER★DRIVE | ![osu!catch][o!c] | 待发布 | 待发布 | 待发布 |
 | 2017年4月 | cYsmix - Breeze | ![osu!mania][o!m] | 待发布 | 待发布 | 待发布 |
@@ -50,8 +50,8 @@ outdated: true
 
 | 编号 | 谱面 | 模式 | 获胜者 | 结果界面 | 成绩 |
 | :-: | :-- | :-: | :-- | :-- | :-- |
-| Aspire 2016 | [IAHN - Transform (Original Mix)](https://osu.ppy.sh/beatmapsets/484689) | ![osu!standard][o!s] | [Monstrata](https://osu.ppy.sh/users/2706438) | [Results](https://osu.ppy.sh/news/147838862138) | [Score #1](https://osu.ppy.sh/p/contestresults?c=22) |
-| Aspire 2017 Stage One | [Helblinde - The Solace of Oblivion](https://osu.ppy.sh/beatmapsets/594751) | ![osu!standard][o!s] | [ProfessionalBox](https://osu.ppy.sh/users/3250792) | [Results](https://osu.ppy.sh/news/159160085153) | [Score #2](https://osu.ppy.sh/community/contests/43) |
+| Aspire 2016 | [IAHN - Transform (Original Mix)](https://osu.ppy.sh/beatmapsets/484689) | ![osu!standard][o!s] | [Monstrata](https://osu.ppy.sh/users/2706438) | [Results](https://osu.ppy.sh/home/news/2016-07-23-aspire-2-concludes-winners-announced) | [Score #1](https://osu.ppy.sh/p/contestresults?c=22) |
+| Aspire 2017 Stage One | [Helblinde - The Solace of Oblivion](https://osu.ppy.sh/beatmapsets/594751) | ![osu!standard][o!s] | [ProfessionalBox](https://osu.ppy.sh/users/3250792) | [Results](https://osu.ppy.sh/home/news/2017-04-03-aspire-2017-stage-one-concludes) | [Score #2](https://osu.ppy.sh/community/contests/43) |
 | Aspire 2017 Stage Two | Function Phantom - Algebra | ![osu!taiko][o!t] | 待发布 | 待发布 | 待发布 |
 | Aspire 2017 Stage Three | OISHII - ONIGIRI FREEWAY | ![osu!catch][o!c] | 待发布 | 待发布 | 待发布 |
 
@@ -73,7 +73,7 @@ outdated: true
 
 | 编号 | 标题 | 需求 | 胜者 | 新闻 | 结果 |
 | :-: | :-- | :-: | :-- | :-- | :-- |
-| 1 | osu! Beatmap Blueprints Contest | osu! Beatmap Blueprints ("Beatmap anywhere") | (WIN) | [News](https://osu.ppy.sh/news/114095906408) | N/A |
+| 1 | osu! Beatmap Blueprints Contest | osu! Beatmap Blueprints ("Beatmap anywhere") | (WIN) | [News](https://osu.ppy.sh/home/news/2015-03-20-osu-beatmap-blueprints-available-contest) | N/A |
 
 ## osu!爱抖露 (osu!idol)
 
@@ -88,8 +88,8 @@ osu!爱抖露 是一项由多个阶段组成的歌唱竞赛，参赛者独唱或
 | 季军 | [MissTitannia](https://osu.ppy.sh/users/4490361) - *未知曲目* | *未知艺术家* |
 
 - [全阶段成绩表格（点击标签切换阶段）](https://docs.google.com/spreadsheets/d/1XEL-Zb_ldV0l4jpv7IAWzER-LV-uoo9pE2nIb7PI23Y/edit?pli=1#gid=1003675360)
-- [新闻页面](https://osu.ppy.sh/news/95662228778)
-- [结果页面](https://osu.ppy.sh/news/106902823593)
+- [新闻页面](https://osu.ppy.sh/home/news/2014-08-24-osuidol-sign-ups-now-open)
+- [结果页面](https://osu.ppy.sh/home/news/2015-01-02-osuidol-2014-results)
 - [论坛页面](https://osu.ppy.sh/community/forums/topics/234545)
 
 ### 2015
@@ -101,8 +101,8 @@ osu!爱抖露 是一项由多个阶段组成的歌唱竞赛，参赛者独唱或
 | 季军 | [yealina](https://osu.ppy.sh/users/139551) - [Hyadain no Kakakata☆Kataomoi](http://flan.s-ul.eu/8w5u4phq) | [Hyadain](https://www.youtube.com/watch?v=WhQvgHM_Nd4) |
 
 - [全阶段成绩表格（点击标签切换阶段）](https://docs.google.com/spreadsheets/d/1oqy5nZFQK7Npx2jRVDxaa2zPjDPgtdh5IdWNGrR-qns/edit?pli=1#gid=3048429)
-- [新闻页面](https://osu.ppy.sh/news/125447383718)
-- [结果页面](https://osu.ppy.sh/news/134589253878)
+- [新闻页面](https://osu.ppy.sh/home/news/2015-07-30-osuidol-2015-sign-ups-are-live)
+- [结果页面](https://osu.ppy.sh/home/news/2015-12-05-osuidol-2015-results)
 - [论坛页面](https://osu.ppy.sh/community/forums/topics/352608)
 
 ### 2016
@@ -114,8 +114,8 @@ osu!爱抖露 是一项由多个阶段组成的歌唱竞赛，参赛者独唱或
 | 季军 | [MissTitannia](https://osu.ppy.sh/users/139551) - [Vixx](http://flan.s-ul.eu/tYzf45Nk) | *未知艺术家* |
 
 - [全阶段成绩表格（点击标签切换阶段）](https://docs.google.com/spreadsheets/d/1oqy5nZFQK7Npx2jRVDxaa2zPjDPgtdh5IdWNGrR-qns/edit?pli=1#gid=3048429)
-- [新闻页面](https://osu.ppy.sh/news/145357306703)
-- [结果页面](https://osu.ppy.sh/news/152901340878)
+- [新闻页面](https://osu.ppy.sh/home/news/2016-06-03-osuidol-2016-registrations-open)
+- [结果页面](https://osu.ppy.sh/home/news/2016-11-08-osuidol-2016-final-results)
 - [论坛页面](https://osu.ppy.sh/community/forums/topics/448842)
 
 ### 2017
