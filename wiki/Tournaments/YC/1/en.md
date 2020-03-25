@@ -104,6 +104,27 @@ The Yuri Cup is run by various community members.
 | **Yuritarded** | **![][flag_US] [Raoul](https://osu.ppy.sh/users/9924405)**, ![][flag_US] [mode](https://osu.ppy.sh/users/4580287), ![][flag_CA] [Rijrya](https://osu.ppy.sh/users/11186709), ![][flag_CA] [iyxe](https://osu.ppy.sh/users/9653938), ![][flag_US] [Yeong Yuseong](https://osu.ppy.sh/users/8926244), ![][flag_CL] [ign](https://osu.ppy.sh/users/9360528), ![][flag_CA] [boncuss](https://osu.ppy.sh/users/2305984), ![][flag_US] [Tuco](https://osu.ppy.sh/users/11706350) |
 | **安倍-プーチン** | **![][flag_RU] [z0mbir](https://osu.ppy.sh/users/4939107)**, ![][flag_JP] [Lege](https://osu.ppy.sh/users/7350684), ![][flag_JP] [katatakatata](https://osu.ppy.sh/users/3540294), ![][flag_JP] [\_tottoko\_](https://osu.ppy.sh/users/8354698), ![][flag_JP] [Valtz](https://osu.ppy.sh/users/5911299), ![][flag_RU] [DrakonLong](https://osu.ppy.sh/users/4411044), ![][flag_JP] [Reey](https://osu.ppy.sh/users/3773119), ![][flag_RU] [HardLifeNH](https://osu.ppy.sh/users/11009393) |
 
+## Match schedule: Finals
+
+Saturday, 28 March 2020:
+
+| Match ID | Team 1 | Team 2 | Match time (UTC) |
+| :-: | --: | :-- | :-: |
+| #58 | Rtzero x Rtzer0 | Sakura Trick | **10:00** |
+| #57 | Futon's Bunker | Dziadzia team | **13:00** |
+
+Sunday, 29 March 2020:
+
+| Match ID | Team 1 | Team 2 | Match time (UTC) |
+| :-: | --: | :-- | :-: |
+| #59a¹ | Futon's Bunker | Rtzero x Rtzer0 | **11:00** |
+| #59b¹ | Futon's Bunker | Sakura Trick | **11:00** |
+| #59c¹ | Dziadzia team | Rtzero x Rtzer0 | **13:00** |
+| #59d¹ | Dziadzia team | Sakura Trick | **13:00** |
+| #60 | Corim's Bad Dream | a la verga | **19:00** |
+
+¹ Encounter dependent on winner of Match #57 and Match #58
+
 ## Mappools
 
 ### Finals
