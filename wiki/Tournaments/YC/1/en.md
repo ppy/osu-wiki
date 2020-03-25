@@ -245,6 +245,26 @@ The Yuri Cup is run by various community members.
 
 ## Match results
 
+### Semifinals
+
+Saturday, 21 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Sakura Trick** | **6** | 1 | Voprossoff Fanclub | [#1](https://osu.ppy.sh/community/matches/59435218) |
+| **Hyouri Ittai** | **6** | 0 | 安倍-プーチン | [#1](https://osu.ppy.sh/community/matches/59439202) |
+| Rtzero x Rtzer0 | 3 | **6** | **Corim's Bad Dream** | [#1](https://osu.ppy.sh/community/matches/59440912) |
+| **Dziadzia team** | **6** | 3 | N | [#1](https://osu.ppy.sh/community/matches/59444898) |
+| Justice for Riko | 3 | **6** | **Baguette Vodka Salo** | [#1](https://osu.ppy.sh/community/matches/59447131) |
+
+Sunday, 22 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Baguette Vodka Salo | 2 | **6** | **Sakura Trick** | [#1](https://osu.ppy.sh/community/matches/59472828) |
+| **a la verga** | **6** | 3 | Futon's Bunker | [#1](https://osu.ppy.sh/community/matches/59476790) |
+| Hyouri Ittai | 2 | **6** | **Dziadzia team** | [#1](https://osu.ppy.sh/community/matches/59482739) |
+
 ### Quarterfinals
 
 Saturday, 14 March 2020:
