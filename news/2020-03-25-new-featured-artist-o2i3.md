@@ -54,6 +54,6 @@ All of the above plus a few more are available right now over at [**O2i3**'s Fea
 
 The hint tweet arrived fashionably late this week, but that didn't stop tweeters @Kaeldori, @Daykeyboard, @Qauland and @idealismosu (plus others who arrived similarly late) from guessing correctly. Good job!
 
-I think everybody all knows by now what will happen for next week's release, but in case you don't, check in with the [@osugame Twitter](https://twitter.com/osugame) throughout for hints, tidbits and other stuff you'll probably like. See you then!
+I think everybody knows by now what's on the cards for next week's release, but in case you don't, check in with the [@osugame Twitter](https://twitter.com/osugame) throughout for hints, tidbits and other stuff you'll probably like. See you then!
 
 —Ephemeral
