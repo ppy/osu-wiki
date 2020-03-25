@@ -1,6 +1,10 @@
 ---
 tags:
+  - devs
   - osu!dev
+  - osu!devs
+  - osu! dev
+  - osu! devs
 ---
 
 # 开发者

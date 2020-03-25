@@ -56,12 +56,12 @@ NAT 会长期关注潜在的 NAT 候选人，并偶尔进行讨论已决定是�
 | :-- | :-- | :-- |
 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | 粤语, 中文 | 评估 |
 | ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817) | 德语 | 评估 |
+| ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | 泰语 | 评估 |
 
 ### osu!catch
 
 | 名字 | 语言 | 主要任务 |
 | :-- | :-- | :-- |
-| ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) |  | 评估, 管理 |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)| 西班牙语, 德语 | 评估, 管理 |
 | ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | 荷兰语 | 评估 |
 
@@ -81,4 +81,5 @@ NAT 会长期关注潜在的 NAT 候选人，并偶尔进行讨论已决定是�
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_US]: /wiki/shared/flag/US.gif "United States"

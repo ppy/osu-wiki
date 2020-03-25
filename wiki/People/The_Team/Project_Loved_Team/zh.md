@@ -60,15 +60,15 @@ The Project Loved 主要由每个[游戏模式](/wiki/Game_Modes)的**队长**�
 | ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) | 常规维护 |
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) | 谱面 metadata 专家 |
 
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_LT]: /wiki/shared/flag/LT.gif
-[flag_LV]: /wiki/shared/flag/LV.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
+[flag_LV]: /wiki/shared/flag/LV.gif "Latvia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_US]: /wiki/shared/flag/US.gif "United States"

@@ -47,7 +47,6 @@ BN 的新成员将从一个月的待定期开始。如果他们的提名和行�
 | ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | 俄语 |
 | ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599) | 意大利语 |
 | ![][flag_KR] [Beomsan](https://osu.ppy.sh/users/3626063) | 韩语 |
-| ![][flag_US] [Bibbity Bill](https://osu.ppy.sh/users/4446810) |  |
 | ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437) | 中文 |
 | ![][flag_CA] [celerih](https://osu.ppy.sh/users/4696296) | 法语 |
 | ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970) |  |
@@ -67,11 +66,11 @@ BN 的新成员将从一个月的待定期开始。如果他们的提名和行�
 | ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | 西班牙语 |
 | ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | 俄语 |
 | ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | 德语 |
-| ![][flag_US] [Mun](https://osu.ppy.sh/users/6699165) |  |
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | 德语 |
 | ![][flag_EE] [Namki](https://osu.ppy.sh/users/5248582) | 爱沙尼亚语, 俄语 |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | 中文 |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  |
+| ![][flag_GR] [Nikakis](https://osu.ppy.sh/users/4351739) | 希腊语 |
 | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | 法语 |
 | ![][flag_IT] [Nuvolina](https://osu.ppy.sh/users/10974170) | 意大利语 |
 | ![][flag_HK] [Petal](https://osu.ppy.sh/users/7354729) | 中文, 粤语 |
@@ -80,15 +79,16 @@ BN 的新成员将从一个月的待定期开始。如果他们的提名和行�
 | ![][flag_FR] [Realazy](https://osu.ppy.sh/users/918297) | 法语 |
 | ![][flag_KR] [Riana](https://osu.ppy.sh/users/1997633) | 韩语 |
 | ![][flag_NZ] [Rizen](https://osu.ppy.sh/users/3056732) |  |
+| ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | 中文 |
 | ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057) |  |
 | ![][flag_DE] [Smokeman](https://osu.ppy.sh/users/2140676) | 德语 |
+| ![][flag_KR] [Sonnyc](https://osu.ppy.sh/users/11771) | 韩语 |
 | ![][flag_CA] [Sparhten](https://osu.ppy.sh/users/7601720) |  |
 | ![][flag_GB] [spoes](https://osu.ppy.sh/users/9505704) |  |
-| ![][flag_EG] [Teky](https://osu.ppy.sh/users/10520912) | 阿拉伯语 |
+| ![][flag_BE] [Stack](https://osu.ppy.sh/users/6122935) | 荷兰语 |
 | ![][flag_FI] [TheKingHenry](https://osu.ppy.sh/users/5128277) | 芬兰语 |
 | ![][flag_TH] [timemon](https://osu.ppy.sh/users/2072005) | 泰语 |
 | ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | 西班牙语, 法语 |
-| ![][flag_ID] [Uta](https://osu.ppy.sh/users/9439796) | 印度尼西亚语 |
 | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) | 波兰语 |
 | ![][flag_US] [Yahuri](https://osu.ppy.sh/users/4682629) |  |
 | ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834) | 中文, 日语 |
@@ -98,14 +98,22 @@ BN 的新成员将从一个月的待定期开始。如果他们的提名和行�
 
 | 名字 | 语言 |
 | :-- | :-- |
+| ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | 德语 |
 | ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | 中文, 粤语 |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | 西班牙语 |
 | ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | 土耳其语 |
+| ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | 葡萄牙语, 西班牙语 |
+| ![][flag_KR] [Hoshikuz](https://osu.ppy.sh/users/9892196) | 韩语, 日语 |
+| ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | 部分西班牙语 |
+| ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | 日语, 粤语, 中文 |
 | ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | 中文, 粤语 |
+| ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | 中文 |
 | ![][flag_US] [radar](https://osu.ppy.sh/users/7131099) |  |
-| ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | 泰语 |
+| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | 德语, 塞尔维亚语 |
+| ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) | 日语 |
 | ![][flag_ID] [Volta](https://osu.ppy.sh/users/4154071) | 印度尼西亚语 |
 | ![][flag_CL] [Vulkin](https://osu.ppy.sh/users/4901066) | 西班牙语 |
+| ![][flag_FR] [Yales](https://osu.ppy.sh/users/2377881) | 法语, 日语 |
 
 #### osu!catch
 
@@ -117,6 +125,7 @@ BN 的新成员将从一个月的待定期开始。如果他们的提名和行�
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | 菲律宾语 |
 | ![][flag_RU] [Lacrima](https://osu.ppy.sh/users/4915649) | 俄语 |
 | ![][flag_GB] [MBomb](https://osu.ppy.sh/users/3071175) |  |
+| ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |
 | ![][flag_ID] [Xinely](https://osu.ppy.sh/users/1521445) | 印度尼西亚语, 部分中文 |
 
 #### osu!mania
@@ -128,9 +137,8 @@ BN 的新成员将从一个月的待定期开始。如果他们的提名和行�
 | ![][flag_US] [Kamuy](https://osu.ppy.sh/users/7439226) | 部分韩语 |
 | ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | 韩语 |
 | ![][flag_AU] [Keiga](https://osu.ppy.sh/users/6866022) | 中文 |
-| ![][flag_ID] [MEGAtive](https://osu.ppy.sh/users/3094101) | 印度尼西亚语 |
 | ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | 中文, 粤语 |
-| ![][flag_ID] [Rivals\_7](https://osu.ppy.sh/users/4610379) | 印度尼西亚语 |
+| ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | 印度尼西亚语 |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | 阿拉伯语, 法语 |
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
 | ![][flag_ID] [Voxa](https://osu.ppy.sh/users/9229539) | 印度尼西亚语 |
@@ -141,34 +149,25 @@ BN 的新成员将从一个月的待定期开始。如果他们的提名和行�
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ![][flag_MX] [Gero](https://osu.ppy.sh/users/1467715) | 西班牙语 |
-| ![][flag_GR] [Nikakis](https://osu.ppy.sh/users/4351739) | 希腊语 |
-| ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | 中文 |
+| ![][flag_KR] [Affirmation](https://osu.ppy.sh/users/6186628) | 韩语 |
+| ![][flag_JP] [BaAR_Vendel](https://osu.ppy.sh/users/8679346) | 日语 |
+| ![][flag_RS] [MaridiuS](https://osu.ppy.sh/users/4496961) | 塞尔维亚语 |
+| ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
 | ![][flag_RU] [SMOKELIND](https://osu.ppy.sh/users/9327302) | 俄语 |
-| ![][flag_KR] [Sonnyc](https://osu.ppy.sh/users/11771) | 韩语 |
-| ![][flag_BE] [Stack](https://osu.ppy.sh/users/6122935) | 荷兰语 |
+| ![][flag_ID] [Uta](https://osu.ppy.sh/users/9439796) | 印度尼西亚语 |
 
 #### osu!taiko
-<!-- neonat is a full nominator for standard, and on probation for taiko. So he won't show on the PBN user list, but will be listed this way on the wiki page for some clarity. -->
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | 德语 |
-| ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | 葡萄牙语, 西班牙语 |
-| ![][flag_KR] [Hoshikuz](https://osu.ppy.sh/users/9892196) | 韩语, 日语 |
-| ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | 部分西班牙语 |
-| ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | 日语, 粤语, 中文 |
-| ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | 中文 |
-| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | 德语, 塞尔维亚语 |
-| ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) | 日语 |
-| ![][flag_FR] [Yales](https://osu.ppy.sh/users/2377881) | 法语, 日语 |
+| ![][flag_ID] [Roger](https://osu.ppy.sh/users/1538223) | 印度尼西亚语, 部分日语 |
 
 #### osu!catch
 
 | 名字 | 语言 |
 | :-- | :-- |
+| ![][flag_AT] [Daletto](https://osu.ppy.sh/users/7592136) | 德语 |
 | ![][flag_ID] [Dapuluous](https://osu.ppy.sh/users/8140944) | 印度尼西亚语 |
-| ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) |  |
 
 #### osu!mania
 
@@ -190,7 +189,6 @@ BN 的新成员将从一个月的待定期开始。如果他们的提名和行�
 [flag_DZ]: /wiki/shared/flag/DZ.gif "Algeria"
 [flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
 [flag_EE]: /wiki/shared/flag/EE.gif "Estonia"
-[flag_EG]: /wiki/shared/flag/EG.gif "Egypt"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
@@ -200,12 +198,12 @@ BN 的新成员将从一个月的待定期开始。如果他们的提名和行�
 [flag_IT]: /wiki/shared/flag/IT.gif "Italy"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_RS]: /wiki/shared/flag/RS.gif "Serbia"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"

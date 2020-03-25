@@ -1,7 +1,10 @@
 ---
 tags:
+  - osu! staff
   - osu!team
+  - osu! team
   - staff
+  - team osu!
 ---
 
 # 团队
@@ -31,6 +34,7 @@ tags:
 | ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! 开发者 & osu!mania 爱好者 & bug 杀手 |
 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Project Loved 领导者 & 社区顾问 & 精选艺术家推广 |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | 基本秩序维护 & 赛事助手 |
+| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | 基本秩序维护 & 赛事助手 & wiki 维护 |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | 濒危物种 |
 
 ## 用户组
@@ -75,16 +79,17 @@ tags:
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_GR]: /wiki/shared/flag/GR.gif "Greece"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
