@@ -5,6 +5,9 @@ tags:
   - osu! team
   - staff
   - team osu!
+  - 工作人员
+  - osu! 团队
+  - osu!团队
 ---
 
 # 团队
