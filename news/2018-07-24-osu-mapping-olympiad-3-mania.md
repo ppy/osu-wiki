@@ -42,7 +42,7 @@ Dictate's *Scavenger* is a song with a very unorthodox structure. This masterpie
 - **Hitsounding (5 pts)**: How well the entry utilizes hitsounds to add to overall chart expression.
 - **Difficulty Spread (5 pts)**: How well concepts are introduced in lower difficulties and developed in higher difficulties.
 
-**We are looking for capable judges! If you are interested, please make a post in the [Judging Call Thread](https://osu.ppy.sh/community/forums/posts/6737869) or send a message to [Protastic101](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=6712747). Please be aware that we can only accept people who have the resources (knowledge, time, reliability) to properly judge the entries.**
+**We are looking for capable judges! If you are interested, please make a post in the [Judging Call Thread](https://osu.ppy.sh/community/forums/posts/6737869) or send a message to [Protastic101](https://osu.ppy.sh/home/messages/users/6712747). Please be aware that we can only accept people who have the resources (knowledge, time, reliability) to properly judge the entries.**
  
 ## Prizes
 After the entries are judged and the results are finalized, the top three entries will receive the following prizes:

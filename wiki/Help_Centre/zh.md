@@ -699,7 +699,7 @@ osu! 会自动保存你的所有成绩在 osu! 安装目录的 `/Data/r` 文件�
 
 **屏蔽发送给你的所有私信，[在 UCP 中设置你的过滤规则](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options)。**
 
-1. 在 [UCP](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=options) 中设置私信过滤规则。
+1. 在 [UCP](ucp.php?i=pm&mode=options) 中设置私信过滤规则。
 2. 在页面的顶部，找到名为 `Add new Rule` 的一栏。
 3. 点击第一个下拉菜单（ 默认值是 `Subjcet` ），将它修改为 `Sender` ，然后点击 Next 。
 4. 再次点击第一个下拉菜单，将它的值从 `is like` 改为 `is`（ 列表中的第三个选项 ），然后点击 Next 。

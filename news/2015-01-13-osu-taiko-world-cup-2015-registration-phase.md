@@ -40,7 +40,7 @@ For more details, refer to the [osu! Taiko World Cup 2015 wiki article](https://
 
 ## How do I register?
 
-- **Send a [PM to Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled "TWC Registration" containing your local time zone.**
+- **Send a [PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled "TWC Registration" containing your local time zone.**
 - Do not found teams in advance! **Register individually, if you wish to join this competition**. Teams will be formed after registration phase concluded by country's team captains!
 - Hand in your registration before **22 Feb 2015 at 23:59:59 UTC+0.**
 - You can only participate if you are of a **Taiko global ranking of #8000 or higher** and **did not violate the [osu! community rules](https://osu.ppy.sh/wiki/Rules) in the past 12 months**.

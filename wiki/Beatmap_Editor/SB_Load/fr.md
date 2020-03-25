@@ -9,7 +9,7 @@ Sans aucun storyboarding, cette valeur est de 1x (car l'espace 640x480 doit êtr
 
 Il est préférable qu'une carte ne dépasse jamais 5x la charge SB. Cela permet de s'assurer que la carte est visible par la plupart des joueurs sans causer de stress excessif au matériel graphique.
 
-[Message original du forum](https://osu.ppy.sh/forum/viewtopic.php?p=525077#p525077)
+[Message original du forum](https://osu.ppy.sh/community/forums/posts/525077)
 
 ## Où il est affiché
 
