@@ -106,6 +106,39 @@ The Yuri Cup is run by various community members.
 
 ## Mappools
 
+### Finals
+
+- NoMod
+  - [Feryquitous feat. Aitsuki Nakuru - Ether (Acyl) \[Moecho's Empyrean Quintessence\]](https://osu.ppy.sh/beatmapsets/902425#osu/2117380)
+  - [SOUND HOLIC Vs. T.Kakuta feat. YURiCa - TOXIC VIBRATION (extend ver.) (Musty) \[NiNo's Extra\]](https://osu.ppy.sh/beatmapsets/521184#osu/1389624)
+  - [Beatdrop - Phase 1 (rustbell) \[HD\]](https://osu.ppy.sh/beatmapsets/526397#osu/1116977)
+  - [Silentroom - Nhelv (Nyxa) \[iniquitatem\]](https://osu.ppy.sh/beatmapsets/917915#osu/2009432)
+  - [goreshit - MATZcore (\_LRJ\_) \[Lolicore AR9.7\]](https://puu.sh/FoAb5/95a87b53e9.osz)
+  - [sasakure.UK - Good Bye, Mr. Jack (Xilver15) \[ReMiX\]](https://osu.ppy.sh/beatmapsets/586425#osu/1241924)
+- Hidden
+  - [Akatsuki Records - WARNING x WARNING x WARNING (Hailie) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/755619#osu/1593262)
+  - [P\*Light - 2 MINUTES FIGHTERS (Line-) \[Line-'s\]](https://osu.ppy.sh/beatmapsets/389311#osu/848950)
+  - [BRZion - Game Brain (Zapy) \[Extra\]](https://osu.ppy.sh/beatmapsets/31224#osu/102736)
+  - [yuikonnu - Ghost Rule (Len) \[Sonnyc's Insane\]](https://osu.ppy.sh/beatmapsets/440650#osu/1573659)
+- HardRock
+  - [Warak - Slow Motion (feat. DongGeyoung) (NeonLights) \[Walk away in slow motion\]](https://osu.ppy.sh/beatmapsets/1014716#osu/2123641)
+  - [UNDEAD CORPORATION - Embraced by the Flame (English ver) (PoNo) \[Xenok's Extra\]](https://osu.ppy.sh/beatmapsets/783213#osu/1644648)
+  - [Nanaki feat.GUMI - Mousou Kajitsu (Natsu) \[Climax\]](https://osu.ppy.sh/beatmapsets/524966#osu/1114132)
+  - [Hiroyuki Sawano feat. Mika Kobayashi - Bios (goodbye) \[LKs' Another\]](https://osu.ppy.sh/beatmapsets/43674#osu/137766)
+- DoubleTime
+  - [Hanatan - Friction (kakifly) \[Insane\]](https://osu.ppy.sh/beatmapsets/281749#osu/637279)
+  - [Festa - Lemuria (QuiescentRabbit) \[Insane\]](https://osu.ppy.sh/beatmapsets/835474#osu/1815526)
+  - [Poppy - I'm Poppy (Myxomatosis) \[Insane\]](https://osu.ppy.sh/beatmapsets/838383#osu/1755267)
+  - [Trans-Siberian Orchestra - Wizards In Winter (Echo49) \[Impossible\]](https://osu.ppy.sh/beatmapsets/132#osu/296)
+  - [Big Gigantic - The Little Things (Kasbo Remix) (Axarious) \[life that i fear\]](https://osu.ppy.sh/beatmapsets/521691#osu/1108029)
+- FreeMod
+  - [Kairiki bear - Shippaisaku Shoujo (RLC) \[X\]](https://osu.ppy.sh/beatmapsets/1088005#osu/2275111)
+  - [PSYQUI feat. Such - Hysteric Night Girl (Awakening) (Livia) \[AR9.3\]](https://osu.ppy.sh/beatmapsets/924989#osu/1948655)
+  - [Guiano - Superhero (Shanipika) \[Because you are you\]](https://osu.ppy.sh/beatmapsets/775014#osu/1628717)
+  - [Susumu Hirasawa - Aurora 2 (NachoPiggy) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/10978#osu/49206)
+- Tiebreaker
+  - **[The Queenstons - What You Do (Fullmix) (Mismagius) \[Coldblooded\]](https://osu.ppy.sh/beatmapsets/801506#osu/1682424)**
+
 ### Semifinals
 
 **[Download the mappack here! (127 MB)](https://mega.nz/#!iAt1VYjZ!J0F0u5BGORbghwRkwmzR1tIV9aiX92wkyKJ2uyWFKWQ)**
