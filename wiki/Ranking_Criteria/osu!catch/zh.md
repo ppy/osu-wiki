@@ -32,9 +32,9 @@
 - **Higher-snapped dash/hyperdash（短时跳/红果跳）：** 时间短于最小允许时间间隔两倍的跳或红果跳。
 - **Antiflow（反向梗）：** 与自然移动相比强烈的方向或速度变化。
 
-## 整体
+## 总体
 
-整体规定和指南适用于所有 osu!catch 谱面。节奏相关的指南适用于 180 BPM 左右的 4/4 拍谱面。如果你的歌曲的 BPM 比 180 快很多或者慢很多，一些数值会不一样，[缩放 BPM](/wiki/Ranking_Criteria/Scaling_BPM)中有更详细的介绍。
+总体规定和指南适用于所有 osu!catch 谱面。节奏相关的指南适用于 180 BPM 左右的 4/4 拍谱面。如果你的歌曲的 BPM 比 180 快很多或者慢很多，一些数值会不一样，[缩放 BPM](/wiki/Ranking_Criteria/Scaling_BPM)中有更详细的介绍。
 
 ### 通用
 
