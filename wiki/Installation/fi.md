@@ -6,7 +6,7 @@ Tämä sivu kertoo miten saat osu!'n toimimaan Windows-tietokoneellesi. [osu!aka
 
 ## Järjestelmävaatimukset
 
-- .NET framework 4+ (Asennusohjelma tulee kehottamaan sinua asentamaan sen. Voit myös [löytää sen täältä](https://www.microsoft.com/en-us/download/details.aspx?id=48130))
+- .NET framework 4+ (Asennusohjelma tulee kehottamaan sinua asentamaan sen. Voit myös [löytää sen täältä](https://www.microsoft.com/fi-FI/download/details.aspx?id=48130))
 - Kelvollinen grafiikkakortti.
 
 ## osu!'n asentaminen
