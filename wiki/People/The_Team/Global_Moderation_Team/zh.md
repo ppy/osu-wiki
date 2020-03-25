@@ -3,6 +3,8 @@ tags:
   - GMT
   - moderator
   - moderators
+  - 管理员
+  - 版主
 ---
 
 # Global Moderation Team
