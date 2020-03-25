@@ -15,7 +15,7 @@ tags:
 
 ## 如何成为 GMT
 
-要成为 **Global Moderation Team** 的成员是一个颇为困难及错综复杂的过程。一个潜在成员经常因愿意帮助其他用户，社区内的活动和良好行为而受到关注且因为他拥有精通第二语言的能力而能够被提拔。最后通过一系列的团队讨论以及检查后决定他们能否成为正式成员。GMT 潜在成员的惯例筛选往往始于 **Chat Moderators** 。
+要成为 **Global Moderation Team** 的成员是一个颇为困难及错综复杂的过程。一个潜在成员经常因愿意帮助其他用户，社区内的活动和良好行为而受到关注且因为他拥有精通第二语言的能力而能够被提拔。最后通过一系列的团队讨论以及检查后决定他们能否成为正式成员。GMT 潜在成员的惯例筛选往往始于 **Chat Moderators**(聊天室管理) 。
 
 ### 如何为别人着想
 
@@ -70,7 +70,7 @@ tags:
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | 荷兰语 | 聊天室管理, 论坛管理 |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | 菲律宾语 | 聊天室管理, 论坛管理, 技术支持, 谱面管理 |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | 法语 | 聊天室管理 |
-| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | 德语 | Ranking Criteria, 论坛管理, 聊天室管理, 谱面管理 |
+| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | 德语 | 《Ranking 准则》维护, 论坛管理, 聊天室管理, 谱面管理 |
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | 官方团队 |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | 德语 | 比赛, 谱面管理 |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | 法语 | 聊天室管理, 论坛管理 |
@@ -109,7 +109,7 @@ tags:
 | `#chinese` | [中文](https://osu.ppy.sh/community/forums/25) | ![][flag_MY] [- [bibitaru] -](https://osu.ppy.sh/users/4482419), ![][flag_TW] [Loneight](https://osu.ppy.sh/users/663131), ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326), ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) |
 | `#czechoslovak` |  |  |
 | `#dutch` | [Nederlands](https://osu.ppy.sh/community/forums/69) | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) |
-| `#english` |  | *All moderators* |
+| `#english` |  | **全员** |
 | `#filipino` | [Tagalog](https://osu.ppy.sh/community/forums/76) | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078), ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) |
 | `#finnish` | [Suomi](https://osu.ppy.sh/community/forums/24) |  |
 | `#french` | [Français](https://osu.ppy.sh/community/forums/34) | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108), ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089), ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059), ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983), ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005), ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) |
