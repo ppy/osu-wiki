@@ -150,7 +150,7 @@ UK is run by many wonderful people, this list doesn't fully represent how many a
 
 *Currently no matches have been played / scheduled for UKCC 8.*
 
-## Rules
+## Ruleset
 
 ![Rules](img/rules.png)
 
