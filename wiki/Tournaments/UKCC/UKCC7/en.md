@@ -24,68 +24,6 @@ The **UK Community Cup 7** (***UKCC 7***) was the seventh edition of the bi-annu
 - [Pick'em predictions website](https://pickem.hwchr.com/tournaments/15)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1ubY1Oci0HaH-rny6IKbqlRszPzquwSm9n4fwwnqn5yA/edit?usp=sharing)**
 
-## Rules
-
-![Rules](img/rules.png)
-
-- In the event there is 128 signups, those with the lowest global rank will be unable to participate (unless we expand the tournament)
-- The structure of the tournament will be:
-  - Two qualifications rounds - 32 players progress
-  - Group Stage - 16 players progress
-  - Double Elimination Bracket
-- To be able to participate, players must have an **UK or Irish flag or be able to provide proof of residency to the hosts.**
-- Matches will be **Head to Head** and **Score V2**
-- Ranks and Qualifications placements are used to calculate seeding. Once the tournament starts, your rank is locked and will not affect your seed.
-- All staff (apart from the Hosts, Mappool Selectors and Referees) are allowed to participate in the tournament.
-- All players are to treat staff and other participants with a high level of respect. Any kind of mistreatment on the discord server or during matches (this includes homophobia, racism and toxicity) will result in a **BAN** and will be **BLACKLISTED** from participating from future UKCC tournaments.
-- ***Where rules do not prevail, common sense shall. The administration has explicit discretion to apply their judgement on this as they see fit.***
-- Players are **REQUIRED** to join the public discord so that they are contactable by other players and staff. If a player can’t be contacted or is not responding to messages, through discord, ingame messages or forum pms, contact the staff.
-- Mappools are to be released the Monday before a stage is due to happen
-
-### Reschedules
-
-- Schedules for the next round are released on the Monday before a stage is due to happen and **ALL** matches will be scheduled for the weekend. You can reschedule for weekdays at the staffs discretion.
-- In order to reschedule, you must contact your opponents, agree on a time and be able to provide **PROOF** (by form of a screenshot/image) of the agreed reschedule to the Hosts.
-- In effort to ensure as many matches take place as possible, reschedules are allowed up to **1 HOUR BEFORE YOUR MATCH IS DUE TO BE PLAYED**. However, your opponent holds the right to **refuse a reschedule if asked less than 24 hours from the scheduled time**
-- If it is impossible to find a time to reschedule to that suits both players, both players should talk to the Hosts (Bae- or Yazzehh) and we will attempt to sort something out.
-- Matches that are uncertain to happen (for example, losers’ bracket matches) will still appear on the schedule. They are to be rescheduled if needed in the same way as confirmed matches.
-- If a match needs rescheduling to a time after a related losers’ bracket match, the matches relying on the outcome of the rescheduled match will be rescheduled by staff and 24 hours will be given for rescheduling them, if needed.
-
-- Referees will create the lobby approximately **10 minutes** before the match is due to start.
-- Players have a 10 minute grace period after their scheduled match time to join the lobby. If a player fails to join the lobby in this time, then the default win will go to the other player. If both players do not show up, both players will recieve losses.
-- We take no-shows seriously, if you fail to show up to your match without valid reason, you may forfeit your right to future UKCC tournaments.
-- The referee cannot play during the match.
-
-### __**NEW**: Qualifying Rounds__
-
-- New to UKCC 7 is the introduction of two qualifying rounds
-- There will be 4 No Mod, 1 Hidden, 1 Hardrock and 1 Double Time map in round 1.
-- There will be 3 No Mod, 2 Hidden, 2 Hardrock and 2 Double Time maps in round 2.
-- Your scores on each map will be added together giving you a total score
-- The top 64 players will progress from the first qualifier
-- The top 32 players will progress from the second qualifier
-- Seeding for groups will be determined from your seed based on your osu! rank (as of signup close) and your overall position in the RO64 qualifer, eg 3rd seed + 15th in qualifier = 18 points
-
-### Rolling
-
-- When both players are in the lobby and ready, the referee will ask the players to !roll. The order of picks of bans is decided using the [UKCC 4 roll system](img/ukcc_roll_system.png).
-
-### Banning
-
-- From the Group Stage onwards players will have **TWO** bans.
-- Players have **2 minutes** to ban a map. Failure to ban a map within this time limit results in a lost ban.
-
-### Warmups
-
-- There will be no warmups in Qualification rounds. After this, warmup maps must be a submitted beatmap, and have a drain time of 4 minutes or less
-
-### Picking
-
-- Players have **2 minutes** to pick a map. Failure to pick a map within this time limit results in pick choice being passed to the opposing player.
-- For Freemod picks, players must select any combination of the following mods: **Hidden, HardRock**
-- **NEW** - Failed scores WILL count
-- Tiebreakers are Freemod, however No Mod can be used.
-
 ## Tournament schedule
 
 ![Schedules](img/schedules.png)
@@ -161,7 +99,7 @@ UKCC 7 concluded on the 27th October 2019.
 
 *Note: Map packs may no longer be available due to age.*
 
-### Losers Final + Grand Final
+### Grand Finals
 
 **[Download the map pack here! (148.0MB)](https://mega.nz/#!TmhgUK5K!7kkYZPdolGvJbuCezRBj1SFJe6J-qZRu0B4qXTwXwzU)**
 
@@ -192,7 +130,7 @@ UKCC 7 concluded on the 27th October 2019.
 - Tiebreaker
   - **[Ata - Euphoria [Delusion]](https://osu.ppy.sh/beatmaps/1705819)**
 
-### Winners Final + Losers Round 6/SF
+### Finals
 
 **[Download the map pack here! (165.6MB)](https://mega.nz/#!7ux0kKbD!aBqtZjDCQnxb4nvianpVv_2eOUl4aEeMa6TmZH-w5so)**
 
@@ -223,7 +161,7 @@ UKCC 7 concluded on the 27th October 2019.
 - Tiebreaker
   - **[Demetori - Eastern Dream ~ The Introduction / Kamisabita Kosenjou \~ Suwa Foughten Field [Stage 6]](https://osu.ppy.sh/beatmaps/1362265)**
 
-### Semi Final + Losers Round 4/5
+### Semifinals
 
 **[Download the map pack here! (128.7MB)](https://mega.nz/#!S7p2QShR!ugelC74o3C1Xc3ECMHCb7EWzhvuZh75UuGs9_nznR44)**
 
@@ -254,7 +192,7 @@ UKCC 7 concluded on the 27th October 2019.
 - Tiebreaker
   - **[USAO - Showdown [Calamity]](https://osu.ppy.sh/beatmaps/1456429)**
 
-### Quarter Final + Losers Round 2/3
+### Quarterfinals
 
 **[Download the map pack here! (141.7MB)](https://mega.nz/#!37BHiSQa!_YCHsfzKe3AqxPboSBa2Uuyf0_chbWqYVTpd5QNj9WA)**
 
@@ -284,7 +222,7 @@ UKCC 7 concluded on the 27th October 2019.
 - Tiebreaker
   - **[Diao Ye Zong feat. Meramipop - Gensou Roman Kikou (is the limit.) [Flower Dance]](https://osu.ppy.sh/beatmaps/1519282)**
 
-### RO16 + Losers Round 1
+### Round of 16
 
 **[Download the map pack here! (163.5MB)](https://mega.nz/#!qqA2nCSa!zCQWppNn47REZtWCPLk9aVguEF9rGuO9h6BwHQGVqUk)**
 
@@ -314,7 +252,7 @@ UKCC 7 concluded on the 27th October 2019.
 - Tiebreaker
   - **[Demetori - Youyoumu \~ The Woman Who Sold the Moon [Phantasm]](https://osu.ppy.sh/beatmaps/1562486)**
 
-### RO32
+### Round of 32
 
 **[Download the map pack here! (114.6MB)](https://mega.nz/#!OvQhmAiS!PT1qpuu5XGjnvX9Ra9w8flaEZsL_CCW47scekuARt7Y)**
 
@@ -344,7 +282,7 @@ UKCC 7 concluded on the 27th October 2019.
 - Tiebreaker
   - **[FELT - Lies in Reality [Albatross]](https://osu.ppy.sh/beatmaps/1205981)**
 
-### Qualifying Round 2
+### Qualifying round 2
 
 **[Download the map pack here! (86.8MB)](https://mega.nz/#!f3ASAA7T!umH3bN99cnuYe1ZFsOiXauUBFQRrW0n-_Zr4V8gE9ZA)**
 
@@ -364,7 +302,7 @@ UKCC 7 concluded on the 27th October 2019.
 
 *Note: Maps were played in the order: NM3, HR2, DT2, HD2, HR1, NM2, DT1, NM1, HD1.*
 
-### Qualifying Round 1
+### Qualifying round 1
 
 **[Download the map pack here! (46.7MB)](https://mega.nz/#!T6RjDY7S!0PbquOystkS4v2-byiBC0b_KMEZA8lECFhMqjYKDm_A)**
 
@@ -380,11 +318,11 @@ UKCC 7 concluded on the 27th October 2019.
 - Double Time
   - [T.M.Revolution x Mizuki Nana - Preserved Roses [Collab Hard]](https://osu.ppy.sh/beatmaps/522135)
 
-## Schedules / Match Results
+## Match schedules and results
 
 ![Schedules](img/schedule_no_number.png)
 
-### Losers Final + Grand Final
+### Grand Finals
 
 Wednesday, 23 October 2019
 
@@ -399,7 +337,7 @@ Wednesday, 27 October 2019
 | Spare ![][flag_GB] | 3 | **7** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/55854629) |
 | Spare ![][flag_GB] | 0 | **7** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/55856320) |
 
-### Winners Final + Losers Round 6 / Semi Final
+### Finals
 
 Saturday, 19 October 2019
 
@@ -425,7 +363,7 @@ Monday, 22 October 2019
 | --: | :-: | :-: | :-- | :-- |
 | Harpy ![][flag_GB] | 4 | **6** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/55738843) |
 
-### Semi Final + Losers Round 4 / 5
+### Semifinals
 
 Friday, 11 October 2019
 
@@ -465,7 +403,7 @@ Thursday, 17 October 2019
 | --: | :-: | :-: | :-- | :-- |
 | Kingling ![][flag_GB] | 3 | **6** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/55620137) |
 
-### Quarter Final + Losers Round 2 / 3
+### Quarterfinals
 
 Monday, 2019-9-30
 
@@ -513,7 +451,7 @@ Friday, 11 October 2019
 | --: | :-: | :-: | :-- | :-- |
 | Kerantina ![][flag_GB] | 0 | **5** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/55477017) |
 
-### RO16 + Losers Round 1
+### Round of 16
 
 Friday, 27 September 2019
 
@@ -556,7 +494,7 @@ Thursday, 3 October 2019
 | --: | :-: | :-: | :-- | :-- |
 | Appilesh ![][flag_GB] | 0 | **5** | ![][flag_GB] **Zyphox** | [#1](https://osu.ppy.sh/community/matches/55296385) |
 
-### RO32
+### Round of 32
 
 Friday, 20 September 2019
 
@@ -599,7 +537,7 @@ Wednesday, 25 September 2019
 | --: | :-: | :-: | :-- | :-- |
 | **Ventus** ![][flag_GB] | **5** | 4 | ![][flag_GB] Summer Solstice | [#1](https://osu.ppy.sh/community/matches/55103447) |
 
-### Qualifier Round 2
+### Qualifier round 2
 
 [Full results](https://docs.google.com/spreadsheets/d/1ubY1Oci0HaH-rny6IKbqlRszPzquwSm9n4fwwnqn5yA/edit#gid=1213327055)  
 ![Qualifier 2 Results table](https://i.imgur.com/XlM1Pr9.png)
@@ -608,6 +546,68 @@ Wednesday, 25 September 2019
 
 [Full results](https://docs.google.com/spreadsheets/d/1ubY1Oci0HaH-rny6IKbqlRszPzquwSm9n4fwwnqn5yA/edit#gid=1010206758)  
 ![Qualifier 1 Results table](https://i.imgur.com/pOTBzTC.png)
+
+## Ruleset
+
+![Rules](img/rules.png)
+
+- In the event there is 128 signups, those with the lowest global rank will be unable to participate (unless we expand the tournament)
+- The structure of the tournament will be:
+  - Two qualifications rounds - 32 players progress
+  - Group Stage - 16 players progress
+  - Double Elimination Bracket
+- To be able to participate, players must have an **UK or Irish flag or be able to provide proof of residency to the hosts.**
+- Matches will be **Head to Head** and **Score V2**
+- Ranks and Qualifications placements are used to calculate seeding. Once the tournament starts, your rank is locked and will not affect your seed.
+- All staff (apart from the Hosts, Mappool Selectors and Referees) are allowed to participate in the tournament.
+- All players are to treat staff and other participants with a high level of respect. Any kind of mistreatment on the discord server or during matches (this includes homophobia, racism and toxicity) will result in a **BAN** and will be **BLACKLISTED** from participating from future UKCC tournaments.
+- ***Where rules do not prevail, common sense shall. The administration has explicit discretion to apply their judgement on this as they see fit.***
+- Players are **REQUIRED** to join the public discord so that they are contactable by other players and staff. If a player can’t be contacted or is not responding to messages, through discord, ingame messages or forum pms, contact the staff.
+- Mappools are to be released the Monday before a stage is due to happen
+
+### Reschedules
+
+- Schedules for the next round are released on the Monday before a stage is due to happen and **ALL** matches will be scheduled for the weekend. You can reschedule for weekdays at the staffs discretion.
+- In order to reschedule, you must contact your opponents, agree on a time and be able to provide **PROOF** (by form of a screenshot/image) of the agreed reschedule to the Hosts.
+- In effort to ensure as many matches take place as possible, reschedules are allowed up to **1 HOUR BEFORE YOUR MATCH IS DUE TO BE PLAYED**. However, your opponent holds the right to **refuse a reschedule if asked less than 24 hours from the scheduled time**
+- If it is impossible to find a time to reschedule to that suits both players, both players should talk to the Hosts (Bae- or Yazzehh) and we will attempt to sort something out.
+- Matches that are uncertain to happen (for example, losers’ bracket matches) will still appear on the schedule. They are to be rescheduled if needed in the same way as confirmed matches.
+- If a match needs rescheduling to a time after a related losers’ bracket match, the matches relying on the outcome of the rescheduled match will be rescheduled by staff and 24 hours will be given for rescheduling them, if needed.
+
+- Referees will create the lobby approximately **10 minutes** before the match is due to start.
+- Players have a 10 minute grace period after their scheduled match time to join the lobby. If a player fails to join the lobby in this time, then the default win will go to the other player. If both players do not show up, both players will recieve losses.
+- We take no-shows seriously, if you fail to show up to your match without valid reason, you may forfeit your right to future UKCC tournaments.
+- The referee cannot play during the match.
+
+### __**NEW**: Qualifying Rounds__
+
+- New to UKCC 7 is the introduction of two qualifying rounds
+- There will be 4 No Mod, 1 Hidden, 1 Hardrock and 1 Double Time map in round 1.
+- There will be 3 No Mod, 2 Hidden, 2 Hardrock and 2 Double Time maps in round 2.
+- Your scores on each map will be added together giving you a total score
+- The top 64 players will progress from the first qualifier
+- The top 32 players will progress from the second qualifier
+- Seeding for groups will be determined from your seed based on your osu! rank (as of signup close) and your overall position in the RO64 qualifer, eg 3rd seed + 15th in qualifier = 18 points
+
+### Rolling
+
+- When both players are in the lobby and ready, the referee will ask the players to !roll. The order of picks of bans is decided using the [UKCC 4 roll system](img/ukcc_roll_system.png).
+
+### Banning
+
+- From the Group Stage onwards players will have **TWO** bans.
+- Players have **2 minutes** to ban a map. Failure to ban a map within this time limit results in a lost ban.
+
+### Warmups
+
+- There will be no warmups in Qualification rounds. After this, warmup maps must be a submitted beatmap, and have a drain time of 4 minutes or less
+
+### Picking
+
+- Players have **2 minutes** to pick a map. Failure to pick a map within this time limit results in pick choice being passed to the opposing player.
+- For Freemod picks, players must select any combination of the following mods: **Hidden, HardRock**
+- **NEW** - Failed scores WILL count
+- Tiebreakers are Freemod, however No Mod can be used.
 
 Cya next time 👋
 
