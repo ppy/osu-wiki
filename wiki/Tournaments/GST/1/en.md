@@ -86,7 +86,13 @@ The Great Singapore Tournament was run by various community members.
 
 ## Podium
 
-![](img/podium.png "BTT5 podium")
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Tom and Jerry |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Broken Family |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Ranked Score |
 
 ## Mappools
 
