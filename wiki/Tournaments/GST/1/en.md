@@ -20,7 +20,7 @@ The **Great Singapore Tournament** (***GST***) was a Singaporean double-eliminat
 | Quarterfinals | 2019-07-10/2019-07-15 |
 | Semifinals | 2019-07-16/2019-07-23 |
 | Finals | 2019-07-26/2019-07-29 |
-| Grand Finals | 2019-08-02/2019-08-04 |
+| Grand Finals | 2019-08-03/2019-08-04 |
 
 ## Prizes
 
@@ -295,252 +295,295 @@ The Great Singapore Tournament was run by various community members.
 
 ### Grand Finals
 
-Sunday, 15 March 2020:
+Saturday, 3 August 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Maou ![][flag_DE] | 0 | **7** | ![][flag_DE] **Malox** | [#1](https://osu.ppy.sh/community/matches/59230042) |
-| **Malox** ![][flag_DE] | **7** | 2 | ![][flag_DE] Maou | [#1](https://osu.ppy.sh/community/matches/59232271) |
+| **Tom and Jerry** | **7** | 2 | Ranked Score | [#1](https://osu.ppy.sh/community/matches/53782971) |
+
+Sunday, 4 August 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Broken Family | 0 | **7** | **Tom and Jerry** | [#1](https://osu.ppy.sh/mp/53831236) |
+| **Tom and Jerry** | **0** | -1 | Broken Family | *win by default* |
 
 ### Finals
 
-Saturday, 7 March 2020:
+Friday, 26 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| awdse22 ![][flag_SG] | 4 | **7** | ![][flag_DE] **Malox** | [#1](https://osu.ppy.sh/community/matches/58997041) |
-| **Maou** ![][flag_DE] | **7** | 2 | ![][flag_SG] moosepi | [#1](https://osu.ppy.sh/community/matches/59006407) |
+| **5N9N1994J3T** | **6** | 1 | bring back 2014 | [#1](https://osu.ppy.sh/community/matches/53614158) |
 
-Sunday, 8 March 2020:
+Saturday, 27 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| moosepi ![][flag_SG] | 2 | **7** | ![][flag_DE] **Malox** | [#1](https://osu.ppy.sh/community/matches/59037109) |
+| Team Cleveland | 2 | **6** | **Ranked Score** | [#1](https://osu.ppy.sh/community/matches/53637678) |
+
+Sunday, 28 July 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Tom and Jerry | 5 | **6** | **Broken Family** | [#1](https://osu.ppy.sh/community/matches/53639797) |
+
+Monday, 29 July 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| 5N9N1994J3T | 3 | **6** | **Ranked Score** | [#1](https://osu.ppy.sh/community/matches/53687176) |
 
 ### Semifinals
 
-Saturday, 29 February 2020:
+Tuesday, 16 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| squidstain ![][flag_MY] | -1 | **0** | ![][flag_NZ] **Blujae** | *win by default* |
-| **awdse22** ![][flag_SG] | **6** | 2 | ![][flag_DE] Kirross | [#1](https://osu.ppy.sh/community/matches/58816474) |
-| **helios44** ![][flag_SG] | **0** | -1 | ![][flag_FR] Champs de ble | *win by default* |
-| TLQ\_Yoshii ![][flag_FR] | 0 | **6** | ![][flag_DE] **Malox** | [#1](https://osu.ppy.sh/community/matches/58825826) |
-| **Maou** ![][flag_DE] | **6** | 0 | ![][flag_AR] Vaf | [#1](https://osu.ppy.sh/community/matches/58827425) |
+| **Banana Bread** | **0** | -1 | Workers' Party | *win by default* |
 
-Sunday, 1 March 2020:
+Saturday, 20 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| helios44 ![][flag_SG] | 1 | **6** | ![][flag_SG] **awdse22** | [#1](https://osu.ppy.sh/community/matches/58841473) |
-| Blujae ![][flag_NZ] | 4 | **6** | ![][flag_DE] **Malox** | [#1](https://osu.ppy.sh/community/matches/58846279) |
-| Olii ![][flag_GB] | 4 | **6** | ![][flag_SG] **moosepi** | [#1](https://osu.ppy.sh/community/matches/58853961) |
+| SeeL | 3 | **6** | **Darlie 黑人牙膏** | [#1](https://osu.ppy.sh/community/matches/53470636) |
+| **Team Cleveland** | **6** | 1 | youi is homosexual | [#1](https://osu.ppy.sh/community/matches/53473621) |
+| **5N9N1994J3T** | **6** | 0 | We are going to win | [#1](https://osu.ppy.sh/community/matches/53473835), [#2](https://osu.ppy.sh/community/matches/53474849) |
+
+Sunday, 21 July 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Darlie 黑人牙膏 | 0 | **6** | **5N9N1994J3T** | [#1](https://osu.ppy.sh/community/matches/53490469) |
+| **Team Cleveland** | **6** | 2 | Banana Bread | [#1](https://osu.ppy.sh/community/matches/53493460) |
+| **Tom and Jerry** | **6** | 5 | Ranked Score | [#1](https://osu.ppy.sh/community/matches/53499246) |
+
+Tuesday, 23 July 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Broken Family** | **6** | 1 | bring back 2014 | [#1](https://osu.ppy.sh/community/matches/53543814) |
 
 ### Quarterfinals
 
-Friday, 21 February 2020:
+Wednesday, 10 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **moosepi** ![][flag_SG] | **5** | 1 | ![][flag_MY] squidstain | [#1](https://osu.ppy.sh/community/matches/58610936) |
+| nico nico REEEEEEE | -1 | **0** | **`https:/discord.gg/kCfW4Jw`** | *win by default* |
 
-Saturday, 22 February 2020:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Dartandr** ![][flag_RU] | **5** | 4 | ![][flag_RU] Vasyadogs | [#1](https://osu.ppy.sh/community/matches/58636770) |
-| Enohx ![][flag_DE] | 0 | **5** | ![][flag_NZ] **Blujae** | [#1](https://osu.ppy.sh/community/matches/58637846) |
-| **Malox** ![][flag_DE] | **5** | 1 | ![][flag_BY] DrDazzle | [#1](https://osu.ppy.sh/community/matches/58639367) |
-| **Maou** ![][flag_DE] | **5** | 1 | ![][flag_SG] awdse22 | [#1](https://osu.ppy.sh/community/matches/58640813) |
-| BadAimBoi ![][flag_PL] | 1 | **5** | ![][flag_IT] **Kozzo** | [#1](https://osu.ppy.sh/community/matches/58640808) |
-| **DrugManager** ![][flag_DE] | **5** | 1 | ![][flag_AR] Megafan | [#1](https://osu.ppy.sh/community/matches/58642456) |
-| ByTiger ![][flag_DE] | 0 | **5** | ![][flag_FR] **Champs de ble** | [#1](https://osu.ppy.sh/community/matches/58643984) |
-| **Champs de ble** ![][flag_FR] | **5** | 2 | ![][flag_DE] DrugManager | [#1](https://osu.ppy.sh/community/matches/58645499) |
-| **Boaz** ![][flag_NL] | **5** | 1 | ![][flag_HK] -Storm7- | [#1](https://osu.ppy.sh/community/matches/58648845) |
-
-Sunday, 23 February 2020:
+Friday, 12 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Vaf** ![][flag_AR] | **5** | 1 | ![][flag_SG] helios44 | [#1](https://osu.ppy.sh/community/matches/58657219) |
-| **Blujae** ![][flag_NZ] | **5** | 1 | ![][flag_NL] Boaz | [#1](https://osu.ppy.sh/community/matches/58666520) |
-| Dartandr ![][flag_RU] | 0 | **5** | ![][flag_DE] **Malox** | [#1](https://osu.ppy.sh/mp/58667706) |
-| Loliezi1337 ![][flag_US] | -1 | **0** | ![][flag_DE] Kirross | *win by default* |
-| Kozzo ![][flag_IT] | 2 | **5** | ![][flag_DE] **Kirross** | [#1](https://osu.ppy.sh/community/matches/58674792) |
-| **Olii** ![][flag_GB] | **5** | 1 | ![][flag_FR] **TLQ\_Yoshii** | [#1](https://osu.ppy.sh/mp/58678216) |
+| wo bu ke yi jiang hua yi | -1 | **0** | **HR SUCKS** | *win by default* |
+
+Saturday, 13 July 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **shun ren is ugly** | **5** | 1 | 404WinNotFound | [#1](https://osu.ppy.sh/community/matches/53287746) |
+| parkinson's patients | 0 | **5** | **Darlie 黑人牙膏** | [#1](https://osu.ppy.sh/community/matches/53306114) |
+| **Darlie 黑人牙膏** | **0** | -1 | HR SUCKS | *win by default* |
+| mintychewinggum | -1 | **0** | **We are going to win** | *win by default* |
+| Banana Bread | 2 | **5** | **bring back 2014** | [#1](https://osu.ppy.sh/community/matches/53307698) |
+| **Tryhards** | **0** | -1 | dos idiots | *win by default* |
+| **Workers' Party** | **5** | 1 | Insomnia | [#1](https://osu.ppy.sh/community/matches/53311825) |
+
+Sunday, 14 July 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Team Cleveland | 2 | **5** | **Broken Family** | [#1](https://osu.ppy.sh/community/matches/53328588) |
+| **youi is homosexual** | **5** | 0 | @miumiu1343 | [#1](https://osu.ppy.sh/community/matches/53329993) |
+| **We are going to win** | **5** | 1 | shun ren is ugly | [#1](https://osu.ppy.sh/community/matches/53333273) |
+| Tryhards | 3 | **5** | **youi is homosexual** | [#1](https://osu.ppy.sh/community/matches/53334254) |
+| **Tom and Jerry** | **5** | 0 | SeeL | [#1](https://osu.ppy.sh/community/matches/53335514) |
+| **Workers' Party** | **5** | 2 | `https://discord.gg/kCfW4Jw` | [#1](https://osu.ppy.sh/community/matches/53335532) |
+
+Monday, 15 July 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Ranked Score** | **5** | 3 | 5N9N1994J3T | [#1](https://osu.ppy.sh/community/matches/53357081) |
 
 ### Round of 16
 
-Friday, 14 February 2020:
+Friday, 5 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Arbusion ![][flag_AU] | 0 | **5** | ![][flag_NZ] **Blujae** | [#1](https://osu.ppy.sh/mp/58433048) |
-| Malox ![][flag_DE] | 2 | **5** | ![][flag_DE] **Maou** | [#1](https://osu.ppy.sh/community/matches/58440442) |
+| handsome’s Master | -1 | **0** | **404WinNotFound** | *win by default* |
 
-Saturday, 15 February 2020:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| zd101nb ![][flag_CN] | -1 | **0** | ![][flag_DE] **Kirross** | *win by default* |
-| **helios44** ![][flag_SG] | **5** | 2 | ![][flag_DE] Enohx | [#1](https://osu.ppy.sh/community/matches/58461271) |
-| **awdse22** ![][flag_SG] | **5** | 1 | ![][flag_RU] Dartandr | [#1](https://osu.ppy.sh/mp/58464162) |
-| Samoyed ![][flag_FI] | 2 | **5** | ![][flag_RU] **Vasyadogs** | [#1](https://osu.ppy.sh/community/matches/58464156) |
-| Santeri ![][flag_FI] | 0 | **5** | ![][flag_IT] **Kozzo** | [#1](https://osu.ppy.sh/community/matches/58465670) |
-| ByTiger ![][flag_DE] | 2 | **5** | ![][flag_MY] **squidstain** | [#1](https://osu.ppy.sh/community/matches/58465676) |
-| Katsumi ![][flag_DE] | 2 | **5** | ![][flag_AR] **Megafan** | [#1](https://osu.ppy.sh/community/matches/58467487) |
-| **Vaf** ![][flag_AR] | **5** | 0 | ![][flag_NL] Boaz | [#1](https://osu.ppy.sh/community/matches/58469338) |
-| SuperSquirrel51 ![][flag_CA] | 0 | **5** | ![][flag_FR] **Champs de ble** | [#1](https://osu.ppy.sh/community/matches/58476069) |
-
-Sunday, 16 February 2020:
+Saturday, 6 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| BadAimBoi ![][flag_PL] | 2 | **5** | ![][flag_FR] **TLQ_Yoshii** | [#1](https://osu.ppy.sh/community/matches/58496768) |
-| DrugManager ![][flag_DE] | 4 | **5** | ![][flag_SG] **moosepi** | [#1](https://osu.ppy.sh/community/matches/58499885) |
-| Yeong Yuseong ![][flag_US] | 2 | **5** | ![][flag_HK] **-Storm7-** | [#1](https://osu.ppy.sh/community/matches/58504436) |
-| Loliezi1337 ![][flag_US] | 1 | **5** | ![][flag_GB] **Olii** | [#1](https://osu.ppy.sh/community/matches/58507300) |
+| mintychewinggum | -1 | **0** | **Banana Bread** | *win by default* |
+| **Broken Family** | **0** | -1 | wo bu ke yi jiang hua yi | *win by default* |
+| **SeeL** | **5** | 2 | youi is homosexual | [#1](https://osu.ppy.sh/community/matches/53143078) |
+| **`https://discord.gg/kCfW4Jw`** | **0** | -1 | "aMAAAYYYz1ng!" | *win by default* |
+| forsenE | -1 | **0** | **dos idiots** | *win by default* |
+| **Insomnia** | **5** | 0 | WoBuZeDao | [#1](https://osu.ppy.sh/community/matches/53148806) |
 
-### Round of 32
-
-Friday, 7 February 2020:
-
-| Player 1 |  |  | Player 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **squidstain** ![][flag_MY] | **4** | 3 | ![][flag_BY] DrDazzle | [#1](https://osu.ppy.sh/community/matches/58260960) |
-| Vasyadogs ![][flag_RU] | 0 | **4** | ![][flag_SG] **moosepi** | [#1](https://osu.ppy.sh/community/matches/58266217) |
-
-Saturday, 8 February 2020:
+Sunday, 7 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **helios44** ![][flag_SG] | **4** | 3 | ![][flag_CN] zd101nb | [#1](https://osu.ppy.sh/community/matches/58285453) |
-| **Olii** ![][flag_GB] | **4** | 1 | ![][flag_NZ] Blujae | [#1](https://osu.ppy.sh/community/matches/58290286) |
-| **Maou** ![][flag_DE] | **0** | -1 | ![][flag_FR] Champs de ble | *win by default* |
-| Kirross ![][flag_DE] | 2 | **4** | ![][flag_DE] **Enohx** | [#1](https://osu.ppy.sh/community/matches/58291512) |
-| **awdse22** ![][flag_SG] | **4** | 2 | ![][flag_DE] Katsumi | [#1](https://osu.ppy.sh/community/matches/58292406) |
-| Kozzo ![][flag_IT] | 3 | **4** | ![][flag_NL] **Boaz** | [#1](https://osu.ppy.sh/community/matches/58293268) |
-| Megafan ![][flag_AR] | 0 | **4** | ![][flag_RU] **Dartandr** | [#1](https://osu.ppy.sh/community/matches/58295154) |
-| Santeri ![][flag_FI] | 2 | **4** | ![][flag_AR] **Vaf** | [#1](https://osu.ppy.sh/community/matches/58296811) |
-| **Malox** ![][flag_DE] | **4** | 0 | ![][flag_CA] SuperSquirrel51 | [#1](https://osu.ppy.sh/community/matches/58298366) |
+| **bring back 2014** | **5** | 4 | shun ren is ugly | [#1](https://osu.ppy.sh/community/matches/53150236) |
+| **5N9N1994J3T** | **5** | 0 | nico nico REEEEEEE | [#1](https://osu.ppy.sh/community/matches/53150948) |
+| Too poor to go jewel | 2 | **5** | **HR SUCKS** | [#1](https://osu.ppy.sh/community/matches/53168286) |
+| **Team Cleveland** | **5** | 0 | parkinson's patients | [#1](https://osu.ppy.sh/community/matches/53169168) |
+| **@miumiu1343** | **5** | 1 | low ranked scrub | [#1](https://osu.ppy.sh/community/matches/53169880) |
+| **We are going to win** | **5** | 3 | Team Kaya Toast | [#1](https://osu.ppy.sh/community/matches/53171138) |
+| **Ranked Score** | **5** | 1 | Workers' Party | [#1](https://osu.ppy.sh/community/matches/53172376) |
+| **Darlie 黑人牙膏** | **5** | 0 | Double McSpicy add chese | [#1](https://osu.ppy.sh/community/matches/53172382) |
 
-Sunday, 9 February 2020:
+Monday, 8 July 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Loliezi1337** ![][flag_US] | **4** | 0 | ![][flag_AU] Arbusion | [#1](https://osu.ppy.sh/community/matches/58310043) |
-| **DrugManager** ![][flag_DE] | **4** | 1 | ![][flag_FI] Samoyed | [#1](https://osu.ppy.sh/community/matches/58320930) |
-| **ByTiger** ![][flag_DE] | **4** | 1 | ![][flag_FI] Pickxarro | [#1](https://osu.ppy.sh/community/matches/58325652) |
-| -Storm7- ![][flag_HK] | 3 | **4** | ![][flag_FR] **TLQ\_Yoshii** | [#1](https://osu.ppy.sh/community/matches/58325726) |
-| **BadAimBoi** ![][flag_PL] | **4** | 1 | ![][flag_US] Yeong Yuseong | [#1](https://osu.ppy.sh/community/matches/58328827) |
+| **Tom and Jerry** | **5** | 1 | Tryhards | [#1](https://osu.ppy.sh/community/matches/53192429) |
 
 ### Group Stage
 
-Friday, 31 January 2020:
+Tuesday, 18 June 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Boaz** ![][flag_NL] | **4** | 1 | ![][flag_GB] 0CitrineQueen0 | [#1](https://osu.ppy.sh/community/matches/58096496) |
-| 0CitrineQueen0 ![][flag_GB] | -1 | **0** | ![][flag_SG] **moosepi** | *win by default* |
-| AhzekAhriman ![][flag_RU] | 0 | **4** | ![][flag_SG] **moosepi** | [#1](https://osu.ppy.sh/community/matches/58101908) |
-| **moosepi** ![][flag_SG] | **4** | 2 | ![][flag_NL] Boaz | [#1](https://osu.ppy.sh/community/matches/58103578) |
-| **Blujae** ![][flag_NZ] | **4** | 2 | ![][flag_FR] Champs de ble | [#1](https://osu.ppy.sh/community/matches/58103456) |
-| **Samoyed** ![][flag_FI] | **4** | 1 | ![][flag_CA] poing | [#1](https://osu.ppy.sh/community/matches/58105959) |
-| **Champs de ble** ![][flag_FR] | **4** | 0 | ![][flag_DE] DieButterStulle | [#1](https://osu.ppy.sh/community/matches/58106282) |
-| Geromu Keretem ![][flag_BG] | 0 | **4** | ![][flag_FR] **Champs de ble** | [#1](https://osu.ppy.sh/community/matches/58107442) |
-| **Olii** ![][flag_GB] | **4** | 1 | ![][flag_NZ] Erkfir | [#1](https://osu.ppy.sh/community/matches/58109802) |
+| **SeeL** | **4** | -1 | Kallang Hawker Centre | *win by default* |
 
-Saturday, 1 February 2020:
+Thursday, 20 June 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| TorreManias ![][flag_NI] | 3 | **4** | ![][flag_CA] SuperSquirrel51 | [#1](https://osu.ppy.sh/community/matches/58114105) |
-| SuperSquirrel51 ![][flag_CA] | 2 | **4** | ![][flag_AU] **Arbusion** | [#1](https://osu.ppy.sh/community/matches/58116230) |
-| **Arbusion** ![][flag_AU] | **4** | 0 | ![][flag_NI] TorreManias | [#1](https://osu.ppy.sh/community/matches/58117193) |
-| **helios44** ![][flag_SG] | **4** | 3 | ![][flag_NZ] NutAndGo | [#1](https://osu.ppy.sh/community/matches/58118807) |
-| Fre3Styl3r ![][flag_DE] | -1 | **0** | ![][flag_MY] **squidstain** | *win by default* |
-| wawrzyn9 ![][flag_PL] | -1 | **0**  | ![][flag_AU] **Arbusion** | *win by default* |
-| -\[GuiboxFR\]- ![][flag_FR] | 1 | **4** | ![][flag_SG] **helios44** | [#1](https://osu.ppy.sh/community/matches/58120726) |
-| NutAndGo ![][flag_NZ] | 1 | **4** | ![][flag_DE] **ByTiger** | [#1](https://osu.ppy.sh/community/matches/58121254) |
-| **Erkfir** ![][flag_NZ] | **4** | 2 | ![][flag_DE] HiddenDenki | [#1](https://osu.ppy.sh/community/matches/58121404) |
-| **DrDazzle** ![][flag_BY] | **4** | 3 | ![][flag_FR] Aidown | [#1](https://osu.ppy.sh/community/matches/58121255) |
-| Ullei ![][flag_PL] | 0 | **4** | ![][flag_CN] **zd101nb** | [#1](https://osu.ppy.sh/community/matches/58121264) |
-| BitDust ![][flag_ID] | 0 | **4** | ![][flag_DE] **Malox** | [#1](https://osu.ppy.sh/community/matches/58122084) |
-| zd101nb ![][flag_CN] | 3 | **4** | ![][flag_FI] **Pickxarro** | [#1](https://osu.ppy.sh/community/matches/58122146) |
-| **Dartandr** ![][flag_RU] | **4** | 1 | ![][flag_RU] poppasanas | [#1](https://osu.ppy.sh/community/matches/58122111) |
-| persik23 ![][flag_RU] | 0 | **4** | ![][flag_RU] **Vasyadogs** | [#1](https://osu.ppy.sh/community/matches/58121842) |
-| Ristpek ![][flag_FI] | -1 | **0** | ![][flag_FR] **TLQ\_Yoshii** | *win by default* |
-| **Pickxarro** ![][flag_FI] | **0** | -1 | ![][flag_GB] -jordan- | *win by default* |
-| Geromu Keretem ![][flag_BG] | 0 | **4** | ![][flag_NZ] **Blujae** | [#1](https://osu.ppy.sh/community/matches/58123200) |
-| **Pe6eHoK98** ![][flag_RU] | **4** | 1 | ![][flag_UA] claggole | [#1](https://osu.ppy.sh/community/matches/58123184) |
-| -\[GuiboxFR\]- ![][flag_FR] | -1 | **0** | ![][flag_NZ] **NutAndGo** | *win by default* |
-| **TLQ\_Yoshii** ![][flag_FR] | **4** | 3 | ![][flag_RU] Dartandr | [#1](https://osu.ppy.sh/community/matches/58124540) |
-| Enohx ![][flag_DE] | 3 | **4** | ![][flag_BY] **DrDazzle** | [#1](https://osu.ppy.sh/community/matches/58124569) |
-| squidstain ![][flag_MY] | 3 | **4** | ![][flag_DE] **Kirross** | [#1](https://osu.ppy.sh/community/matches/58124565) |
-| **Santeri** ![][flag_FI] | **4** | 0 | ![][flag_RU] Pe6eHoK98 | [#1](https://osu.ppy.sh/community/matches/58125917) |
-| **Maou** ![][flag_DE] | **4** | 1 | ![][flag_GB] Olii | [#1](https://osu.ppy.sh/community/matches/58125765) |
-| **Vasyadogs** ![][flag_RU] | **4** | 2 | ![][flag_US] yaityboi | [#1](https://osu.ppy.sh/community/matches/58125574) |
-| claggole ![][flag_UA] | 0 | **4** | ![][flag_DE] **DrugManager** | [#1](https://osu.ppy.sh/community/matches/58127512) |
-| **awdse22** ![][flag_SG] | **4** | 0 | ![][flag_PL] BadAimBoi | [#1](https://osu.ppy.sh/community/matches/58127418) |
-| Xellander ![][flag_PL] | 2 | **4** | ![][flag_FI] **Samoyed** | [#1](https://osu.ppy.sh/community/matches/58127440) |
-| **Vaf** ![][flag_AR] | **4** | 1 | ![][flag_PL] Xellander | [#1](https://osu.ppy.sh/community/matches/58128993) |
-| **Katsumi** ![][flag_DE] | **4** | 2 | ![][flag_CA] Senko-san | [#1](https://osu.ppy.sh/community/matches/58130287) |
-| shineasone ![][flag_CA] | 0 | **4** | ![][flag_DE] **Enohx** | [#1](https://osu.ppy.sh/community/matches/58132340) |
-| **Malox** ![][flag_DE] | **0** | -1 | ![][flag_US] Loliezi1337 | *win by default* |
-| HiddenDenki ![][flag_DE] | -1 | **0** | ![][flag_DE] **Maou** | *win by default* |
-| yaityboi ![][flag_US] | 1 | **4** | ![][flag_IT] **Kozzo** | [#1](https://osu.ppy.sh/community/matches/58135948) |
-| **Samoyed** ![][flag_FI] | **4** | 1 | ![][flag_AR] Vaf | [#1](https://osu.ppy.sh/community/matches/58139650) |
-| **Loliezi1337** ![][flag_US] | **4** | 2 | ![][flag_BR] Hanik | [#1](https://osu.ppy.sh/community/matches/58139318) |
-| -Storm7- ![][flag_HK] | 2 | **4** | ![][flag_AR] **Megafan** | [#1](https://osu.ppy.sh/community/matches/58139642) |
+| **SeeL** | **4** | 2 | dos idiots | [#1](https://osu.ppy.sh/community/matches/52764699) |
 
-Sunday, 2 February 2020:
+Friday, 21 June 2019:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Megafan** ![][flag_AR] | **4** | 2 | ![][flag_US] Dohland | [#1](https://osu.ppy.sh/community/matches/58142226) |
-| **Hanik** ![][flag_BR] | **4** | 1 | ![][flag_ID] BitDust | [#1](https://osu.ppy.sh/community/matches/58142673) |
-| BitDust ![][flag_ID] | 0 | **4** | ![][flag_US] **Loliezi1337** | [#1](https://osu.ppy.sh/community/matches/58144220) |
-| poing ![][flag_CA] | 0 | **4** | ![][flag_AR] **Vaf** | [#1](https://osu.ppy.sh/community/matches/58145249) |
-| **SergoM4444** ![][flag_RU] | **4** | 2 | ![][flag_PH] Lazereed | [#1](https://osu.ppy.sh/community/matches/58150751) |
-| ByTiger ![][flag_DE] | 1 | **4** | ![][flag_SG] **helios44** | [#1](https://osu.ppy.sh/community/matches/58151647) |
-| Lazereed ![][flag_PH] | 0 | **4** | ![][flag_PL] **BadAimBoi** | [#1](https://osu.ppy.sh/community/matches/58151611) |
-| **Kozzo** ![][flag_IT] | **4** | 1 | ![][flag_RU] persik23 | [#1](https://osu.ppy.sh/community/matches/58152528) |
-| Fre3Styl3r ![][flag_DE] | -1 | **0** | ![][flag_DE] **Kirross** | *win by default* |
-| Aidown ![][flag_FR] | 0 | **4** | ![][flag_DE] **Enohx** | [#1](https://osu.ppy.sh/community/matches/58153724) |
-| DieButterStulle ![][flag_DE] | 0 | **4** | ![][flag_NZ] **Blujae** | [#1](https://osu.ppy.sh/community/matches/58153737) |
-| Ullei ![][flag_PL] | 0 | **4** | ![][flag_FI] **Pickxarro** | [#1](https://osu.ppy.sh/community/matches/58155054) |
-| DieButterStulle ![][flag_DE] | 2 | **4** | ![][flag_BG] **Geromu Keretem** | [#1](https://osu.ppy.sh/community/matches/58155153) |
-| **Kirross** ![][flag_DE] | **4** | 1 | ![][flag_US] quadrillionaire | [#1](https://osu.ppy.sh/community/matches/58154907) |
-| poppasanas ![][flag_RU] | 2 | **4** | ![][flag_FR] **TLQ\_Yoshii** | [#1](https://osu.ppy.sh/community/matches/58155097) |
-| AhzekAhriman ![][flag_RU] | 0 | **4** | ![][flag_NL] **Boaz** | [#1](https://osu.ppy.sh/community/matches/58155017) |
-| **Kozzo** ![][flag_IT] | **4** | 1 | ![][flag_RU] Vasyadogs | [#1](https://osu.ppy.sh/community/matches/58155747) |
-| SergoM4444 ![][flag_RU] | -1 | **0** | ![][flag_SG] **awdse22** | *win by default* |
-| HiddenDenki ![][flag_DE] | 0 | **4** | ![][flag_GB] **Olii** | [#1](https://osu.ppy.sh/community/matches/58156682) |
-| quadrillionaire ![][flag_US] | 1 | **4** | ![][flag_MY] **squidstain** | [#1](https://osu.ppy.sh/community/matches/58158015) |
-| DrugManager ![][flag_DE] | 1 | **4** | ![][flag_FI] **Santeri** | [#1](https://osu.ppy.sh/community/matches/58157984) |
-| Zidyx ![][flag_FR] | 0 | **4** | ![][flag_HK] **-Storm7-** | [#1](https://osu.ppy.sh/community/matches/58159279) |
-| **ByTiger** ![][flag_DE] | **4** | 0 | ![][flag_FR] -\[GuiboxFR\]- | [#1](https://osu.ppy.sh/community/matches/58159354) |
-| Pe6eHoK98 ![][flag_RU] | 1 | **4** | ![][flag_DE] **DrugManager** | [#1](https://osu.ppy.sh/community/matches/58159685) |
-| Hanik ![][flag_BR] | 0 | **4** | ![][flag_DE] **Malox** | [#1](https://osu.ppy.sh/community/matches/58159428) |
-| **Dohland** ![][flag_US] | **4** | 0 | ![][flag_FR] Zidyx | [#1](https://osu.ppy.sh/community/matches/58160986) |
-| claggole ![][flag_UA] | 0 | **4** | ![][flag_FI] **Santeri** | [#1](https://osu.ppy.sh/community/matches/58161227) |
-| Corruptyouth ![][flag_US] | 0 | **4** | ![][flag_DE] **Katsumi** | [#1](https://osu.ppy.sh/community/matches/58160916) |
-| persik23 ![][flag_RU] | -1 | -1 | ![][flag_US] yaityboi | *nullified* |
-| **Aidown** ![][flag_FR] | **4** | 1 | ![][flag_CA] shineasone | [#1](https://osu.ppy.sh/community/matches/58162384) |
-| Zidyx ![][flag_FR] | 0 | **4** | ![][flag_AR] **Megafan** | [#1](https://osu.ppy.sh/community/matches/58162406) |
-| **quadrillionaire** ![][flag_US] | **4** | 0 | ![][flag_DE] Fre3Styl3r | [#1](https://osu.ppy.sh/community/matches/58162437) |
-| wawrzyn9 ![][flag_PL] | 0 | **4** | ![][flag_NI] **TorreManias** | [#1](https://osu.ppy.sh/community/matches/58162546) |
-| 0CitrineQueen0 ![][flag_GB] | -1 | -1 | ![][flag_RU] AhzekAhriman | *nullified* |
-| **BadAimBoi** ![][flag_PL] | **4** | 3 | ![][flag_RU] SergoM4444 | [#1](https://osu.ppy.sh/community/matches/58162402) |
-| **poing** ![][flag_CA] | **0** | -1 | ![][flag_PL] Xellander | *win by default* |
-| shineasone ![][flag_CA] | 0 | **4** | ![][flag_BY] **DrDazzle** | [#1](https://osu.ppy.sh/community/matches/58164297) |
-| **SuperSquirrel51** ![][flag_CA] | **4** | 2 | ![][flag_PL] wawrzyn9 | [#1](https://osu.ppy.sh/community/matches/58164091) |
-| Dohland ![][flag_US] | 1 | **4** | ![][flag_HK] **-Storm7-** | [#1](https://osu.ppy.sh/community/matches/58164084) |
-| **Yeong Yuseong** ![][flag_US] | **4** | 3 | ![][flag_DE] Katsumi | [#1](https://osu.ppy.sh/community/matches/58164057) |
-| **Senko-san** ![][flag_CA] | **4** | 0 | ![][flag_US] Corruptyouth | [#1](https://osu.ppy.sh/community/matches/58167329) |
-| Erkfir ![][flag_NZ] | 0 | **4** | ![][flag_DE] **Maou** | [#1](https://osu.ppy.sh/community/matches/58167317) |
-| Senko-san ![][flag_CA] | 0 | **4** | ![][flag_US] **Yeong Yuseong** | [#1](https://osu.ppy.sh/community/matches/58169352) |
+| **shun ren is ugly** | **4** | 0 | Too poor to go jewel | [#1](https://osu.ppy.sh/community/matches/52793684) |
+| Darlie 黑人牙膏 | 2 | **4** | **Workers' Party** | [#1](https://osu.ppy.sh/community/matches/52793251) |
+| **Ranked Score** | **4** | 0 | shun ren is ugly | [#1](https://osu.ppy.sh/community/matches/52794770) |
+
+Saturday, 22 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| handsome’s Master | -1 | **0** | **Tryhards** | *win by default* |
+| Insomnia | 1 | **4** | **Banana Bread** | [#1](https://osu.ppy.sh/community/matches/52814207) |
+| **404WinNotFound** | **4** | 3 | Majulah PPAP | [#1](https://osu.ppy.sh/community/matches/52817042) |
+| King of One-Two | -1 | **0** | **Banana Bread** | *win by default* |
+| dogerinoo fan club | -1 | **0** | **Tom and Jerry** | *win by default* |
+| @miumiu1343 | 3 | **4** | **roflmaolol** | [#1](https://osu.ppy.sh/community/matches/52820901) |
+| **Too poor to go jewel** | **4** | 2 | Double McSpicy add chese | [#1](https://osu.ppy.sh/community/matches/52820371) |
+| Sliderbits | 0 | **4** | **shun ren is ugly** | [#1](https://osu.ppy.sh/community/matches/52822416) |
+| shang a lang a lang a lang | 1 | **4** | **forsenE** | [#1](https://osu.ppy.sh/community/matches/52822365) |
+
+Sunday, 23 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Majulah PPAP | 2 | **4** | **We are going to win** | [#1](https://osu.ppy.sh/community/matches/52822210) |
+| **shun ren is ugly** | **4** | 1 | Double McSpicy add chese | [#1](https://osu.ppy.sh/community/matches/52823255) |
+| King of One-Two | -1 | **0** | **"aMAAAYYYz1ng!"** | *win by default* |
+| **handsome’s Master** | **4** | 1 | dogerinoo fan club | [#1](https://osu.ppy.sh/community/matches/52839908) |
+| **Insomnia** | **0** | -1 | King of One-Two | *win by default* |
+| **Team Cleveland** | **4** | 0 | Darlie 黑人牙膏 | [#1](https://osu.ppy.sh/community/matches/52840627) |
+| BCP | 0 | **4** | **Team Cleveland** | [#1](https://osu.ppy.sh/community/matches/52841413) |
+| WoBuZeDao | 0 | **4** | **Team Cleveland** | [#1](https://osu.ppy.sh/community/matches/52842292) |
+| **Broken Family** | **4** | 0 | We are going to win | [#1](https://osu.ppy.sh/community/matches/52844197) |
+| **We are going to win** | **4** | 1 | 404WinNotFound | [#1](https://osu.ppy.sh/community/matches/52845364) |
+| Banana Bread | 0 | **4** | **5N9N1994J3T** | [#1](https://osu.ppy.sh/community/matches/52845984) |
+| Majulah PPAP | 0 | **4** | **Broken Family** | [#1](https://osu.ppy.sh/community/matches/52846686) |
+| Sliderbits | 0 | **4** | **Ranked Score** | [#1](https://osu.ppy.sh/community/matches/52846560) |
+| WoBuZeDao | 0 | **4** | **Darlie 黑人牙膏** | [#1](https://osu.ppy.sh/community/matches/52846690) |
+| Tryhards | 1 | **4** | **HR SUCKS** | [#1](https://osu.ppy.sh/community/matches/52846555) |
+| low ranked scrub | 0 | **4** | **bring back 2014** | [#1](https://osu.ppy.sh/community/matches/52847912) |
+| 5N9N1994J3T | **4** | 0 | Insomnia | [#1](https://osu.ppy.sh/community/matches/52848049) |
+| **Darlie 黑人牙膏** | **4** | 0 | BCP | [#1](https://osu.ppy.sh/community/matches/52848730) |
+
+Monday, 24 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **youi is homosexual** | **4** | 0 | @miumiu1343 | [#1](https://osu.ppy.sh/community/matches/52849606) |
+| dogerinoo fan club | 3 | **4** | **Tryhards** | [#1](https://osu.ppy.sh/community/matches/52849604) |
+| **404WinNotFound** | **4** | 1 | nico nico REEEEEEE | [#1](https://osu.ppy.sh/community/matches/52850828) |
+| **Workers' Party** | **4** | 0 | WoBuZeDao | [#1](https://osu.ppy.sh/community/matches/52865818) |
+| **Team Cleveland** | **4** | 0 | Workers' Party | [#1](https://osu.ppy.sh/community/matches/52866419) |
+
+Tuesday, 25 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Tom and Jerry** | **4** | 0 | HR SUCKS | [#1](https://osu.ppy.sh/community/matches/52893529) |
+
+Wednesday, 26 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| roflmaolol | 2 | **4** | **youi is homosexual** | [#1](https://osu.ppy.sh/community/matches/52911317) |
+| "aMAAAYYYz1ng!" | 3 | **4** | **Insomnia** | [#1](https://osu.ppy.sh/community/matches/52917447) |
+
+Thursday, 27 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Workers' Party** | **4** | 0 | BCP | [#1](https://osu.ppy.sh/community/matches/52935077) |
+| HR SUCKS | 0 | **4** | **handsome’s Master** | [#1](https://osu.ppy.sh/community/matches/52940336) |
+
+Friday, 28 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **nico nico REEEEEEE** | **4** | 0 | Majulah PPAP | [#1](https://osu.ppy.sh/community/matches/52957396) |
+| "aMAAAYYYz1ng!" | 0 | **4** | **5N9N1994J3T** | [#1](https://osu.ppy.sh/community/matches/52958376) |
+| **parkinson's patients** | **4** | 1 | shang a lang a lang a lang | [#1](https://osu.ppy.sh/community/matches/52958374) |
+
+Saturday, 29 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Banana Bread** | **0** | -1 | "aMAAAYYYz1ng!" | *win by default* |
+| roflmaolol | 0 | **4** | **mintychewinggum** | [#1](https://osu.ppy.sh/community/matches/52981232) |
+| **youi is homosexual** | **4** | 0 | Team Kaya Toast | [#1](https://osu.ppy.sh/community/matches/52981675) |
+| **HR SUCKS** | **0** | -1 | dogerinoo fan club | *win by default* |
+| Team Kaya Toast | 2 | **4** | **@miumiu1343** | [#1](https://osu.ppy.sh/community/matches/52985054) |
+| dos idiots | **0** | -1 | Kallang Hawker Centre | *win by default* |
+| **Broken Family** | **0** | -1 | 404WinNotFound | *win by default* |
+| **bring back 2014** | **4** | 0 | parkinson's patients | [#1](https://osu.ppy.sh/community/matches/52986139) |
+| **wo bu ke yi jiang hua yi** | **4** | 1 | `https։//discord.gg/kCfW4Jw` | [#1](https://osu.ppy.sh/community/matches/52985035) |
+| `https։//discord.gg/kCfW4Jw` | 0 | **4** | **SeeL** | [#1](https://osu.ppy.sh/community/matches/52987474) |
+| **@miumiu1343** | **4** | 3 | mintychewinggum | [#1](https://osu.ppy.sh/community/matches/52987526) |
+
+Sunday, 30 June 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| wo bu ke yi jiang hua yi | 3 | **4** | **SeeL** | [#1](https://osu.ppy.sh/community/matches/52988712) |
+| nico nico REEEEEEE | 2 | **4** | **Broken Family** | [#1](https://osu.ppy.sh/community/matches/52988704) |
+| **5N9N1994J3T** | **0** | -1 | King of One-Two | *win by default* |
+| **`https://discord.gg/kCfW4Jw`** | **4** | 0 | dos idiots | [#1](https://osu.ppy.sh/community/matches/52989941) |
+| Kallang Hawker Centre | 0 | **4** | **wo bu ke yi jiang hua yi** | [#1](https://osu.ppy.sh/community/matches/52992306) |
+| **low ranked scrub** | **4** | 0 | shang a lang a lang a lang | [#1](https://osu.ppy.sh/community/matches/53004085) |
+| **Team Kaya Toast** | **0** | -1 | roflmaolol | *win by default* |
+| Kallang Hawker Centre | 0 | **4** | **`https։//discord.gg/kCfW4Jw`** | [#1](https://osu.ppy.sh/community/matches/53005445) |
+| **parkinson's patients** | **4** | 3 | low ranked scrub | [#1](https://osu.ppy.sh/community/matches/53005596) |
+| BCP | 2 | **4** | **WoBuZeDao** | [#1](https://osu.ppy.sh/community/matches/53005612) |
+| forsenE | 2 | **4** | **parkinson's patients** | [#1](https://osu.ppy.sh/community/matches/53006219) |
+| **forsenE** | **4** | 1 | low ranked scrub | [#1](https://osu.ppy.sh/community/matches/53007160) |
+| **Ranked Score** | **4** | 0 | Too poor to go jewel | [#1](https://osu.ppy.sh/community/matches/53007740) |
+| **Too poor to go jewel** | **0** | -1 | Sliderbits | *win by default* |
+| **Tom and Jerry** | **0** | -1 | handsome’s Master | *win by default* |
+| **bring back 2014** | **4** | 1 | forsenE | [#1](https://osu.ppy.sh/community/matches/53009039) |
+| **mintychewinggum** | **4** | 3 | Team Kaya Toast | [#1](https://osu.ppy.sh/community/matches/53009081) |
+| **Double McSpicy add chese** | **0** | -1 | Sliderbits | *win by default* |
+| shang a lang a lang a lang | 0 | **4** | **bring back 2014** | [#1](https://osu.ppy.sh/community/matches/53010233) |
+| **mintychewinggum** | **4** | 3 | youi is homosexual | [#1](https://osu.ppy.sh/community/matches/53010196) |
+| Double McSpicy add chese | 0 | **4** | **Ranked Score** | [#1](https://osu.ppy.sh/community/matches/53012588) |
+| We are going to win | 1 | **4** | **nico nico REEEEEEE** | [#1](https://osu.ppy.sh/community/matches/53012645) |
 
 ## Ruleset
 
