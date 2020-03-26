@@ -58,7 +58,7 @@ The **UK Community Cup 8** (***UKCC 8***) is the eigth edition of the bi-annual 
 
 ### Rolling
 
-- When both players are in the lobby and ready, the referee will ask the players to !roll. The order of picks of bans is decided using the [UKCC 4 Roll System](https://i.imgur.com/S0VIvni.png).
+- When both players are in the lobby and ready, the referee will ask the players to !roll. The order of picks of bans is decided using the [UKCC 4 roll system](img/ukcc_roll_system.png).
 
 ### Banning
 

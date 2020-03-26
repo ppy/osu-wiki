@@ -68,7 +68,7 @@ The **UK Community Cup 7** (***UKCC 7***) was the seventh edition of the bi-annu
 
 ### Rolling
 
-- When both players are in the lobby and ready, the referee will ask the players to !roll. The order of picks of bans is decided using the [UKCC Roll System](https://i.imgur.com/S0VIvni.png).
+- When both players are in the lobby and ready, the referee will ask the players to !roll. The order of picks of bans is decided using the [UKCC 4 roll system](img/ukcc_roll_system.png).
 
 ### Banning
 
