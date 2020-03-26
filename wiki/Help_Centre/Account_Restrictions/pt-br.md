@@ -15,9 +15,6 @@ As seguintes funções são desativadas para contas restritas:
 
 ## Minha conta foi restrita! O que eu faço?
 
-*Atenção para usuários restritos: Todas as comunicações feitas com os membros da equipe do osu! **devem ser estritamente feitas em Inglês***
-<!--This is a disclaimer not found in the English version, translating to: "Warning for restricted users: All communications with the osu!staff have to be strictly made in English-->
-
 Se sua conta foi restrita, não entre em pânico. Por favor siga esses passos:
 
 - **Espere 24 horas.** Algumas restrições são parte de resultados de processos automatizados. Como nós checamos cada nova restrição diariamente, por favor espere 24 horas - se sua restrição foi errônea, ela esperançosamente irá ser removida dentro desse tempo.
