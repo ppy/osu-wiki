@@ -47,7 +47,7 @@ Die "Fail" und "Pass" Ebenen werden nie gleichzeitig angezeigt, mit Ausnahme im 
 
 -   Objects that overlap in different layers will be drawn in the order described above (e.g., any object in the Foreground layer will always be visible in front of any object in the Background, Fail, or Pass layers).
 -   Objekte, die sich auf der selben Ebene überlappen, werden in der Reihenfolge, in der sie spezifieziert werden (z. B. wenn Objekt-1 als erstes in der .osb oder .osu Datei spezifiziert wird und Objekt-2 danach, erscheinen beide Elemente in der selben Ebene und Objekt-2 wird über Objekt-1 gelegen), gezeichnet.
--   Befehle aus der .osb Datei haben Vorrang gegenüber den aus der .osu Datei innerhalb der Ebenen, so als wären die Befehle aus der .osb Datei an das Ende der Befehle in der .osu Datei angehängt worden. Die Prioritäten der vier Ebenen werden jedoch dadurch nicht außer Kraft gesetzt. [Beispiel](https://osu.ppy.sh/forum/viewtopic.php?p=469997#p469997).
+-   Befehle aus der .osb Datei haben Vorrang gegenüber den aus der .osu Datei innerhalb der Ebenen, so als wären die Befehle aus der .osb Datei an das Ende der Befehle in der .osu Datei angehängt worden. Die Prioritäten der vier Ebenen werden jedoch dadurch nicht außer Kraft gesetzt. [Beispiel](https://osu.ppy.sh/community/forums/topics/1869?start=469997).
 
 ### Spielstatus
 

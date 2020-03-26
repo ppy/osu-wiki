@@ -320,8 +320,8 @@ A Copa do Mundo do osu! 2013 (em inglês, osu! World Cup 2013), também conhecid
     2.  Você deverá especificar um capitão para representar a equipe.
 
 2.  Cada equipe representa uma nação. Você deverá formar uma equipe com jogadores do mesmo país.
-3.  Para inscrição de equipes,[preencha este formulário](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). Então, verifique sua inscrição [enviando uma PM para o Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) entitulada “OWC Registration”
-    -   Capitães podem mudar o esquema do time [avisando a Administração](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
+3.  Para inscrição de equipes,[preencha este formulário](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). Então, verifique sua inscrição [enviando uma PM para o Loctav](https://osu.ppy.sh/home/messages/users/71366) entitulada “OWC Registration”
+    -   Capitães podem mudar o esquema do time [avisando a Administração](https://osu.ppy.sh/home/messages/users/71366).
 
 4.  Qualquer inscrição de mudança será checada pela Administração do Torneio antes de ser aceita e adicionada à lista de participantes.
 5.  O número de equipes será de 32. Quem chegar primeiro, fica com a vaga.
