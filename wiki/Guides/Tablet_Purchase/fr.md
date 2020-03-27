@@ -32,25 +32,25 @@ La HUION H430P (4096) est similaire aux tablettes osu! (en fait il est commercia
 
 ### Wacom
 
-Wacom est la "marque" des tablettes. Elle ne fabrique que des tablettes et est reconnue (par les artistes) pour produire des tablette de très bonne qualité et très fiables. Certains recommanderait d'acheter des tablettes Wacon grâce à leur réputation de producteur de tablette de très haute qualité en tant que leader du marché des tablettes. Ils produisent trois gammes principales : 
+Wacom est la "marque" des tablettes. Elle ne fabrique que des tablettes et est reconnue (par les artistes) pour produire des tablette de très bonne qualité et très fiables. Certains recommanderait d'acheter des tablettes Wacon grâce à leur réputation de producteur de tablette de très haute qualité en tant que leader du marché des tablettes. Ils produisent trois gammes principales :
 
--   Cintiq - "Dessinez directement sur l'écran", ces tablettes sont utilisées dans des applications professionnelles très haut de gamme et coûtent très cher.
--   Intuos - La gamme de tablettes professionel offre des fonctionnalités bien au-delà de la gamme Bamboo, mais n’a pas d’écran.
--   Bamboo - La gamme de tablettes grand public, celles-ci sont bon marché avec toutes les fonctionnalités dont vous avez besoin pour débuter en tant qu'amateur.
+- Cintiq - "Dessinez directement sur l'écran", ces tablettes sont utilisées dans des applications professionnelles très haut de gamme et coûtent très cher.
+- Intuos - La gamme de tablettes professionel offre des fonctionnalités bien au-delà de la gamme Bamboo, mais n’a pas d’écran.
+- Bamboo - La gamme de tablettes grand public, celles-ci sont bon marché avec toutes les fonctionnalités dont vous avez besoin pour débuter en tant qu'amateur.
 
-Wacom produit d'autres gammes, comme les tablettes Graphire ou Volito, mais ces noms ont été abandonnés, remplacés par les gammes ci-dessus. 
+Wacom produit d'autres gammes, comme les tablettes Graphire ou Volito, mais ces noms ont été abandonnés, remplacés par les gammes ci-dessus.
 
 Pour osu !, il est très peu probable que vous ayez besoin d’un Cintiq ou d’un Intuos. Ces deux gammes répondent aux besoins des professionnels en graphisme et illustration, et coûtent bien plus que les tablettes de la gamme Bamboo. Ils offrent une sensibilité accrue à la pression, un logiciel graphique plus complet et des fonctionnalités avancées telles que la sensibilité à la rotation ou la sensibilité à l’inclinaison. Ceux-ci ne signifient rien dans osu !, n'achetez-en donc que si vous envisagez d'utiliser votre tablette pour un travail de conception graphique sérieux en dehors d'osu !.
 
 Au moment de la rédaction, il existe trois versions du Bamboo, toutes confondues sous le même surnom de "Bamboo" (la gamme Intuos se distinguent par leur numéro, Intuos5 étant la plus récente au moment de la rédaction). Certains recommandent d'acheter des Bamboos de deuxième ou de troisième génération. Les tablettes Bamboo de première génération portaient des boutons supplémentaires sur le dessus de la tablette plutôt que sur le côté, ce qui les rend difficiles à utiliser dans osu !.
 
-![](img/gen1.jpg  "Bamboo de première génération (Pen and Touch, Touch, and Fun - Bamboo Fun shown)")
+![](img/gen1.jpg "Bamboo de première génération (Pen and Touch, Touch, and Fun - Bamboo Fun shown)")
 
 ![](https://puu.sh/dlQH "Bamboo de seconde génération (Pen and Touch, Pen, Touch, Fun, and Craft - Bamboo Pen and Touch shown)")
 
 ![](https://puu.sh/dlQi "Bamboo de troisième génération (Connect, Capture, Create - Connect shown)")
 
-Évitez les tablettes Bamboo Touch, elles ne comportent pas de stylet, elles ne sont que des trackpads multitouch pour votre ordinateur. Franchement, [Apple a fait mieux](http://www.apple.com/magictrackpad/).
+Évitez les tablettes Bamboo Touch, elles ne comportent pas de stylet, elles ne sont que des trackpads multitouch pour votre ordinateur. Franchement, [Apple a fait mieux](https://apple.com/magictrackpad).
 
 Les autres modèles Bamboo sont disponibles en deux tailles, petite et grande. Pour la deuxième génération, Bamboo Touch, Pen, et Pen and Touch étaient les "petites", alors que les Fun et Craft étaient les "grandes". Pour la troisième génération, Connect et Capture sont les "petites", alors que le Create est la "grande".
 
@@ -64,10 +64,10 @@ Pour faire court, Wacom est la marque recommandée pour les joueurs les plus sé
 
 Veuillez trouver ci-dessous quelques liens pour acheter les derniers modèles de tablette.
 
-- [Amazon - Tablette Wacom Bamboo Splash Pen (CTL471)](http://a.co/fCXqteP)
-- [Amazon - Tablette Wacom Bamboo Capture Pen and Touch (CTH470)](http://a.co/b4GpKXt)
-- [Huion - HUION H430P (4096)](https://www.huiontablet.com/all-products/graphic-tablets/huion-h430p-4096.html)
-  - [Amazon - Tablette pour OSU Huion Inspiroy H430P Graphics Drawing](http://a.co/6uDGhXL)
+- [Amazon - Tablette Wacom Bamboo Splash Pen (CTL471)](https://a.co/fCXqteP)
+- [Amazon - Tablette Wacom Bamboo Capture Pen and Touch (CTH470)](https://a.co/b4GpKXt)
+- [Huion - HUION H430P (4096)](https://huiontablet.com/all-products/graphic-tablets/huion-h430p-4096.html)
+  - [Amazon - Tablette pour OSU Huion Inspiroy H430P Graphics Drawing](https://a.co/6uDGhXL)
 
 ## Conclusion
 

@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 <img src="Performancepoints.png" title="fig:PP的计算方法" alt="PP的计算方法" width="300" />Performance Points (pp)是一种针对一个要求连续性的游戏的技能量化评定标准。这种量化评定标准更专注于用户的真实水平而不是用户的游戏时间。
 
 # 历史
@@ -8,7 +12,7 @@ PP这一评定方式是在2012年4月以**???**的形式公测的，然后在201
 
 # 位置
 
-PP的排名可以在[这里](https://osu.ppy.sh/p/pp)查看，同时也可以在游戏用户信息框中查看。 或是在網站上方導覽列可以找到(Rankings -&gt; Performance)
+PP的排名可以在[这里](https://osu.ppy.sh/p/pp)查看，同时也可以在游戏用户信息框中查看。 或是在網站上方導覽列可以找到(Rankings -> Performance)
 
 # 计算方式
 

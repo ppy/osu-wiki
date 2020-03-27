@@ -15,9 +15,9 @@ La competición ha concluido con el siguiente podio:
 
 | Place                                                      | Country                                          |
 |------------------------------------------------------------|--------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | ![][flag_KR] **Corea del Sur** |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_DE] **Alemania**      |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_SE] **Suecia**        |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | ![][flag_KR] **Corea del Sur** |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_DE] **Alemania**      |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_SE] **Suecia**        |
 
 ## Calendario
 
@@ -35,9 +35,9 @@ La competición ha concluido con el siguiente podio:
 
 | Place                                                      | Premios                                                    |
 |------------------------------------------------------------|------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 meses de support, placa para el perfil, osu! merchandise |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 meses de support                                         |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 mes de support                                           |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 6 meses de support, placa para el perfil, osu! merchandise |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 meses de support                                         |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 mes de support                                           |
 
 ## Organización
 
@@ -416,8 +416,8 @@ La competición ha concluido con el siguiente podio:
     2.  Tienes que especificar un capitán que representará al equipo.
 
 2.  Cada equipo representa a un país. Tienes que formar un equipo con jugadores del mismo país.
-3.  Para inscribirse [llena esta forma](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI/edit). Después, verifica tu registro [enviándole un PM a Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) títulado “CWC Registration”
-    -   Los capitanes pueden cambiar el equipo [notificando a la organización](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
+3.  Para inscribirse [llena esta forma](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI/edit). Después, verifica tu registro [enviándole un PM a Loctav](https://osu.ppy.sh/home/messages/users/71366) títulado “CWC Registration”
+    -   Los capitanes pueden cambiar el equipo [notificando a la organización](https://osu.ppy.sh/home/messages/users/71366).
     -   Recibirás una confirmación en caso de que tu registro haya sido enviado exitosamente. Tu registro queda pendiente entonces.
 
 4.  Para asegurarse de que los registros son válidos y serios, cada uno será controlado por la organización del torneo.

@@ -6,13 +6,13 @@
 
 *Главная страница: [Маппинг](/wiki/Beatmapping)*
 
-- [Добавление кастомных хитсаундов](Adding_Custom_Hit_Sounds)
+- [Добавление кастомных хитсаундов](Adding_Custom_Hitsounds)
 - [Редактирование аудио](Audio_Editing)
 - [Изменение исполнителя или названия](Changing_the_Artist_or_Title)
 - [Смена текста заголовка](/wiki/Beatmaps/Title_Text#changing-title-text)
 - [Информация о коллабах](Collab_Information)
 - [Сжатие файлов](Compressing_Files)
-- [Библиотека кастомных хитсаундов](Custom_Hit_Sound_Library)
+- [Библиотека кастомных хитсаундов](Custom_Hitsound_Library)
 - [Нестандартные хитсаунты](Custom_Sample_Overrides)
 - [Получение песен из игр](Getting_Songs_From_Video_Games)
 - [Настройки тайминга](How_to_Time_Songs)
@@ -27,12 +27,11 @@
 *Главная страница: [Моддинг](/wiki/Modding)*
 
 - [Как получить мод на вашу карту](Getting_Your_Map_Modded)
-- [Как получить ранк для вашей карты](How_To_Get_Your_Map_Ranked)
 
 ## Игра
 
 - [Обучение для новичков](Beginner's_Tutorial)
-- [Проблемы с поддержкой GL](GL_Support_Issues)
+- [Проблемы с поддержкой GL](OpenGL_Support_Issues)
 - [Как играть в osu!mania](How_to_Play_osu!mania)
 - [Как использовать настройщик оффсета](How_to_Use_the_Offset_Wizard)
 - [Запись osu!](Recording_osu!)

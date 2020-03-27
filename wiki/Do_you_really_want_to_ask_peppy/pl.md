@@ -1,6 +1,6 @@
 # Czy naprawdę chcesz skontaktować się z peppym?
 
-Cześć. Ja ([peppy](https://osu.ppy.sh/users/2)) rozumiem twoją chęć do prywatnego skontaktowania się ze mną, ale musisz najpierw zrozumieć, że to **nie** jest miejsce,  gdzie możesz mnie poprosić o pomoc. Oddzielam pomoc techniczną dla osu! od prywatnych wiadomości, a samo nadążanie za tymi drugimi jest już wystarczająco trudne i męczące. W związku z tym pragnę przyciągnąć twoją uwagę do poniższych opcji. Skorzystaj z tej, która najbardziej odpowiada twojemu problemowi.
+Cześć. Ja ([peppy](https://osu.ppy.sh/users/2)) rozumiem twoją chęć do prywatnego skontaktowania się ze mną, ale musisz najpierw zrozumieć, że to **nie** jest miejsce, gdzie możesz mnie poprosić o pomoc. Oddzielam pomoc techniczną dla osu! od prywatnych wiadomości, a samo nadążanie za tymi drugimi jest już wystarczająco trudne i męczące. W związku z tym pragnę przyciągnąć twoją uwagę do poniższych opcji. Skorzystaj z tej, która najbardziej odpowiada twojemu problemowi.
 
 ## Pomoc techniczna
 

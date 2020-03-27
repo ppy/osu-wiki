@@ -1,4 +1,4 @@
-# osu! Ranking Criteria
+# osu! ranking criteria
 
 The **osu! Ranking Criteria** are rules and guidelines that apply to the creation of osu!-specific difficulties. In order to get an osu!-specific difficulty ranked, it is mandatory that the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be ignored under exceptional circumstances. These exceptional circumstances must be justified by an exhaustive explanation as of why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
 
@@ -8,7 +8,7 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 
 ### Difficulty names
 
-*Main article: [Difficulty Naming](../Difficulty_Naming)*
+*Main article: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
 - ![](/wiki/shared/diff/easy-s.png) Easy
 - ![](/wiki/shared/diff/normal-s.png) Normal
@@ -35,7 +35,7 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 - **Spinner recovery time:** The time between the end of a spinner and the following hit object.
 - **Time-distance equality:** Spacing between hit objects is proportional to the duration of time between them. Also known as using a constant distance spacing.
 - **Hit object/Note density:** The average timeline gaps between hit objects expressed in fractions of a beat (such as 1/1 for one beat, 1/2 for half a beat).
-- **Key sounding:** Hit sounding using samples extremely similar or directly from the song in their respective places. This method of hit sounding usually provides low feedback to the player.
+- **Keysounding:** Hitsounding using samples extremely similar or directly from the song in their respective places. This method of hitsounding usually provides low feedback to the player.
 - **Spaced stream:** A stream with circles that do not overlap.
 - **Difficulty spike:** A sudden increase in difficulty that misrepresents the song's intensity relative to the rest of the beatmap.
 
@@ -51,8 +51,8 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm-rela
 - **Spinners must be long enough for Auto to achieve 1000 bonus score.** Shorter spinners do not allow adequate spin time.
 - **Each beatmap must use at least two different custom combo colours unless the default skin is forced.** The combo colours must not blend with the beatmap's background/storyboard/video in any case. This is so hit objects are always visible to the player and custom skin's combo colours do not blend with the background accidentally.
 - **Every slider must have a clear and visible path to follow from start to end.** Sliders that overlap themselves without straightforward slider borders and sliders whose individual sections are unreadable cannot be used. A slider's end position must be clear under the assumption that a player has a skin which makes slider end circles fully transparent.
-- **Do not use key sounds without hitnormal support.** Players do not receive enough feedback otherwise.
-- **If a hit sound is used as hitnormal, ensure it does not blend with the song.** Players do not receive enough feedback otherwise.
+- **Do not use keysounds without hitnormal support.** Players do not receive enough feedback otherwise.
+- **If a hitsound is used as hitnormal, ensure it does not blend with the song.** Players do not receive enough feedback otherwise.
 - **Difficulties must convert to other game modes without breaking star rating/performance points.** In certain cases, a `.osu` file can be formatted improperly, causing converted difficulties to incorrectly display star rating and reward inaccurate performance points.
 
 #### Guidelines
@@ -62,9 +62,8 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm-rela
 - **Slider tick rate should be set according to the song.** For example if your song contains a section that uses 1/3 snapping only, using tick rate 2 would not be fitting for the entire beatmap. In such cases, tick rate 1 should be used.
 - **Avoid using combo colours, slider borders or hitcircleoverlays with ~50 luminosity or lower.** Dark colours like these impact readability of approach circles with low background dim and the other elements partially give up their functions as borders.
 - **Avoid using combo colours with ~220 luminosity or higher during kiai times.** They create bright pulses which can be unpleasant to the eyes.
-- **Spinner ends, slider ends, and slider reverses should have hit sound feedback.** If these are used to represent a held sound and do not align with a distinct sound, having no feedback is acceptable.
-- **Avoid using sound samples for sliderslide, sliderwhistle, and spinnerspin which do not naturally loop.** These hit sounds are continuous, meaning that their files play from start to end and loop as one continuous sound for the length of the object, so using sound files with a clear impact for them might lead to unwanted side effects.
-- **Avoid replacing the hit finish in soft/normal samplesets with frequently used custom hit sound samples.** Using these finishes to represent snare/bass drums or a song's melody can sound obnoxious for anyone disabling beatmap hit sounds. Replacing hit whistles/claps is recommended because those samples are used more often.
+- **Spinner ends, slider ends, and slider reverses should have hitsound feedback.** If these are used to represent a held sound and do not align with a distinct sound, having no feedback is acceptable.
+- **Avoid using sound samples for sliderslide, sliderwhistle, and spinnerspin which do not naturally loop.** These hitsounds are continuous, meaning that their files play from start to end and loop as one continuous sound for the length of the object, so using sound files with a clear impact for them might lead to unwanted side effects.
 - **Avoid unjustified difficulty spikes.** Difficulty should be representative of the song's intensity.
 
 ### Skinning
@@ -164,7 +163,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 - **Note density should consist of mostly 1/2, occasional 1/4, or slower rhythms.**
 - **Avoid streams made of more than 5 notes.** Short reversing sliders can be used in exchange for these when the song supports it.
 - **Avoid visually similar spacing for different rhythms.** Spacing variation through jumps on points of emphasis are encouraged, but only if these jumps are recognizably different from other rhythm gaps.
-- **Slider tick hit sounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hit sounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
+- **Slider tick hitsounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hitsounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
 - **Avoid spinners less than 2 beats.** Players need time to recognize that they have to begin spinning.
 - **Avoid fully covering slider reverse arrows with hit objects within 2 beats of the reverse arrow being reached.** This gives players enough time to recognize the reverse arrow.
 - **Avoid perfectly overlapping slider bodies within 2 beats of each other.** Doing so can cause sliders to be misread as a circle due to obscuring the slider body.
@@ -181,13 +180,13 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 - **Objects 1/4 of a beat apart or less should not overlap perfectly,** especially on simpler Insane difficulties.
 - **Avoid cross screen jumps and spaced streams.** These are beatmapping techniques primarily reserved for Expert level difficulties.
-- **Slider tick hit sounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hit sounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
+- **Slider tick hitsounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hitsounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
 - **Avoid fully covering slider reverse arrows with circles, slider heads, or slider tails within a 1/2 beat of the reverse arrow being reached.** This gives players enough time to recognize the reverse arrow.
 - **Avoid perfectly overlapping slider bodies within a 1/2 beat of each other.** Doing so can cause sliders to be misread as a circle due to obscuring the slider body.
 
 #### Difficulty setting guidelines
 
-- Approach Rate should be between 7 and 9.3
+- Approach Rate should be between 7 and 9.3.
 - Overall Difficulty should be between 7 and 9.
 - HP Drain Rate should be between 5 and 8.
 
@@ -195,7 +194,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 #### Guidelines
 
-- **Slider tick hit sounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hit sounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
+- **Slider tick hitsounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hitsounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
 
 #### Difficulty setting guidelines
 

@@ -1,3 +1,12 @@
+---
+tags:
+  - osu! staff
+  - osu!team
+  - osu! team
+  - staff
+  - team osu!
+---
+
 # The Team
 
 *For a list of promotions and retirements, see: [Staff Log](/wiki/Staff_Log)*
@@ -25,6 +34,7 @@ The people listed below are the core of the **osu!team** and are chiefly respons
 | ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! developer, osu!mania lover, bug buster |
 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Project Loved manager, community advisor, Featured Artist outreach |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | General housekeeper, tournament assistant |
+| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | General housekeeper, tournament assistant, wiki maintainer |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Endangered species |
 
 ## User groups
@@ -69,16 +79,17 @@ The following are user groups which are made up of the osu! community members th
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_GR]: /wiki/shared/flag/GR.gif "Greece"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_US]: /wiki/shared/flag/US.gif "United States"

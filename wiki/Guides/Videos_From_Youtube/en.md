@@ -2,22 +2,23 @@
 needs_cleanup: true
 ---
 
-# Videos from YouTube
+# How to download videos from YouTube
 
-[*The Painless Add Video To Beatmap Process walkthrough.* by: Gilrad](https://osu.ppy.sh/community/forums/topics/639/)
+*[The Painless Add Video To Beatmap Process walkthrough. by: Gilrad](https://osu.ppy.sh/community/forums/topics/639)*
+
 This tutorial is intended for those who **can not** find the video elsewhere but YouTube.
 
 ## How to download videos from YouTube
 
 ### YouTube
 
-[YouTube](https://www.youtube.com/)
+[YouTube](https://youtube.com)
 
 - It's really an awesome resource. If the song has a music video, it will be on YouTube, and probably compressed at that golden point where the video looks decent but won't be a b\*\*\*\* to download.
 
 #### Download the video
 
-[noTube](https://notube.net/) (there are many, many, MANY more out there but this one is listed).
+[noTube](https://notube.net) (there are many, many, MANY more out there but this one is listed).
 
 ### Loading video in osu!
 

@@ -1,10 +1,10 @@
-# Beatmap Editor
+# Beatmap editor
 
 The **beatmap editor** is osu!'s in-game graphical interface for creating [beatmaps](/wiki/Beatmaps). It is separated into four parts:
 
 - [Compose](Compose): The place where a majority of beatmapping happens. This is where you place circles, sliders, and spinners.
 - [Design](Design): The editor for where Storyboards are made; however, most mappers only use the "Background Image/Video" button here.
-- [Timing](Timing): The second place of where all new beatmaps begin. This controls the BPM (Beats Per Minute), Timing Points, hit sounds, and hit sound volume.
+- [Timing](Timing): The second place of where all new beatmaps begin. This controls the BPM (Beats Per Minute), Timing Points, hitsounds, and hitsound volume.
 - [Song Setup](Song_Setup): The first place of where all new beatmaps begin. This sets the values regarding the title, artist, version name, difficulty, combo colours, and more.
 
 Other components of the beatmap editor include:

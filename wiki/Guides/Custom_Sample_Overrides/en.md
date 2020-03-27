@@ -1,4 +1,4 @@
-# Custom Sample Overrides
+# Custom sample overrides
 
 At the moment, per-beatmap and per-skin sample-sets can be implemented.
 
@@ -60,5 +60,5 @@ The following three samples are additive, meaning when you hit a whistle you wil
 
 See also:
 
-- [Custom Hitsound Library](../Custom_Hit_Sound_Library)
-- [Skinning/Sounds](/wiki/Skinning/Sounds/)
+- [Custom Hitsound Library](/wiki/Guides/Custom_Hitsound_Library)
+- [Skinning/Sounds](/wiki/Skinning/Sounds)

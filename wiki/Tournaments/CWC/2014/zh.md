@@ -30,9 +30,9 @@ outdated: true
 
 | Place                                                      | 奖励                             |
 |------------------------------------------------------------|--------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 六个月的Supporter，个人资料标签以及osu!相关礼品 |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 三个月的Supporter                  |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 一个月的Supporter                  |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 六个月的Supporter，个人资料标签以及osu!相关礼品 |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 三个月的Supporter                  |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 一个月的Supporter                  |
 
 ## 主办方
 
@@ -269,8 +269,8 @@ outdated: true
 2.  同时，需要指定一名队长（最好会英语）。
 
 2.  每个队伍代表一个国家/地区。确保你的队员都来自同一个国家/地区。
-3.  如果需要注册，[请先填写这个表格](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI/edit)（英文），然后[向Loctav私信](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366)，发送一个标题为“CWC Registration”的确认信息。
--   如果需要修改队员，请联系[Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
+3.  如果需要注册，[请先填写这个表格](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI/edit)（英文），然后[向Loctav私信](https://osu.ppy.sh/home/messages/users/71366)，发送一个标题为“CWC Registration”的确认信息。
+-   如果需要修改队员，请联系[Loctav](https://osu.ppy.sh/home/messages/users/71366).
 -   在注册成功的时候，你会收到一个确认信息，以确认你的队员。
 
 4.  为了确保注册的队伍的准确性， 赛事管理会进行任何的改动检查。

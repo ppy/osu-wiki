@@ -13,7 +13,7 @@ Bem-vindo ao osu! wiki, um projeto que contém uma ampla variedade de informaç�
 
 # Introdução
 
-[Bem-vindo](/wiki/Welcome) • [Registro](/wiki/Registration) • [Instalação](/wiki/Installation) • [Interface](/wiki/Interface) • [Opções do Jogo](/wiki/Options) • [Teclas de Atalho](/wiki/Shortcut_Key_Reference) • [Mapa do Site](/wiki/Sitemap) • [Guias](/wiki/Guides) • [Central de Ajuda](/wiki/Help_Centre)
+[Bem-vindo](/wiki/Welcome) • [Registro](/wiki/Registration) • [Instalação](/wiki/Installation) • [Interface](/wiki/Interface) • [Opções do Jogo](/wiki/Options) • [Teclas de Atalho](/wiki/Shortcut_key_reference) • [Mapa do Site](/wiki/Sitemap) • [Guias](/wiki/Guides) • [Central de Ajuda](/wiki/Help_Centre)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -37,7 +37,7 @@ Seções: ([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Ed
 
 # Edição online e Aprovação
 
-[Submissão](/wiki/Submission) • [Aprovação de Beatmaps](/wiki/Submission/Beatmap_Ranking_Procedure) • [Modding](/wiki/Modding) • [Ranking Criteria](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) •[osu!mania](/wiki/Ranking_Criteria/osu!mania))
+[Submissão](/wiki/Submission) • [Aprovação de Beatmaps](/wiki/Beatmap_ranking_procedure) • [Modding](/wiki/Modding) • [Ranking Criteria](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) •[osu!mania](/wiki/Ranking_Criteria/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -45,7 +45,7 @@ Seções: ([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Ed
 
 # Mundo de osu!
 
-[Glossario](/wiki/Glossary) • [Torneios](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projetos](/wiki/Projects)
+[Glossário](/wiki/Glossary) • [Torneios](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projetos](/wiki/Projects)
 
 </div>
 <div class="wiki-main-page-panel">

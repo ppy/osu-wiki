@@ -117,7 +117,7 @@ Quite a familiar sound. For those of you that recall KAC 2012 ULTIMATE MEDLEY -H
 
 Spy? Space Time? How can I not? Well, it's a DIFFERENT Space Time, and one that is much more pleasurable to play. KAIROS IN THE SPACE TIME is a very short, sweet, and simple 4K set -- running only at 55 seconds. Between the two of the three highest difficulties, there are exactly three sliders between both sets. If you wanted an accuracy war for the mania players, you've got it here. The structure is simple, featuring some streams with numerous jumps interlaced in them, as well as the occasional 1/6 burst. The patterns are very smooth overall. 1,000,000 point scores incoming?
 
-+ [Rita - Little Busters!](https://osu.ppy.sh/beatmapsets/180923) by [Bruce]( https://osu.ppy.sh/users/2300597)
++ [Rita - Little Busters!](https://osu.ppy.sh/beatmapsets/180923) by [Bruce](https://osu.ppy.sh/users/2300597)
 
 One of the shorter choices in this pool, Little Busters! is a five difficulty, 7-key, mania-only mapset. One of the things that I grew fond of testing this map out for the pools was the congruence and general cleanliness of the structure of the highest difficulty, which managed to appeal to me as someone who is still learning the game mode. It flows really nicely, and carries a reasonable amount of pattern deviation that provides enough of a scoring difficulty to be replayable. Lots of LNs, some bursts, strong accented layering, the works... it's all here. It is rather friendly to newer players as a whole set, with three of the five difficulties hanging below the 3 star range.
 

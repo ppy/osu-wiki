@@ -31,9 +31,9 @@ outdated: true
 
 | Place                                                      | 奖励                             |
 |------------------------------------------------------------|--------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 六个月的Supporter，个人资料标签以及osu!相关礼品 |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 三个月的Supporter                  |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 一个月的Supporter                  |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 六个月的Supporter，个人资料标签以及osu!相关礼品 |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 三个月的Supporter                  |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 一个月的Supporter                  |
 
 ## 主办方
 
@@ -449,7 +449,7 @@ Sunday, 10\. May 2015
     2.  预选选手有 Catch the Beat 世界排名高于 \#5000 的最低资格要求。
     3.  预选选手的另一资格要求是在过去12个月之内没有违反过任何 osu! [规则](/wiki/Rules)。
 
-3.  想报名的玩家请用「CWC Registration」作为标题, 向 [Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) 发出私信。
+3.  想报名的玩家请用「CWC Registration」作为标题, 向 [Loctav](https://osu.ppy.sh/home/messages/users/71366) 发出私信。
     1.  在注册成功的时候，你会收到一个确认信息，确认你的报名已经在审理中。
 
 4.  成功注册的队伍将会在注册阶段结束之后公布出来。

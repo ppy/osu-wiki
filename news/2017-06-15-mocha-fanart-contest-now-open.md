@@ -5,7 +5,7 @@ date: 2017-06-14 18:00:50 +0900
 tumblr_url: http://osunews.tumblr.com/post/161820062513/mocha-fanart-contest-now-open
 ---
 
-With [our newest osu! mascot](https://osu.ppy.sh/news/161051842473) stealing everyone's hearts, what better way to celebrate her arrival is there than a brand new fan art contest?
+With [our newest osu! mascot](https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here) stealing everyone's hearts, what better way to celebrate her arrival is there than a brand new fan art contest?
 
 [![](https://assets.ppy.sh/contests/48/header.jpg)](https://osu.ppy.sh/community/contests/48)
  

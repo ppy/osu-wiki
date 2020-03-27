@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # .osr 文件
 
 **.osr** 是一种包含osu!回放信息的文件格式。想要使用它，回放所指定的地图必须存在于 "Songs"文件夹。
@@ -25,10 +29,10 @@
 | String | 玩家名称 |
 | String | 回放文件的 MD5 hash (包含回放的确定属性) |
 | Short | “300”判定的数量 |
-| Short | “100”判定（osu!standard），“150”判定（Taiko），“100”判定（CTB），“200”判定（osu!mania）的数量 |
+| Short | “100”判定（osu!standard），“150”判定（Taiko），“100”判定（CTB），“100”判定（osu!mania）的数量 |
 | Short | “50”判定（osu!standard），小水果（CTB），“50”判定（osu!mania）的数量 |
 | Short | Number of Gekis in standard, Max 300s in mania“激”判定（osu!standard），彩色“300”判定（osu!mania）的数量 |
-| Short | Number of Katus in standard, 100s in mania“喝”判定（osu!standard），“100”判定（osu!mania）的数量 |
+| Short | Number of Katus in standard, 200s in mania“喝”判定（osu!standard），“200”判定（osu!mania）的数量 |
 | Short | Miss的数量 |
 | Integer | 结算界面显示的总分 |
 | Short | 结算界面显示的最大连击数 |

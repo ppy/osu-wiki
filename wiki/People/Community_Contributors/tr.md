@@ -6,7 +6,7 @@ outdated: true
 
 ![Contributor Badge](/wiki/shared/contributor.jpg "İştirakçı Rozeti")
 
-**Topluluk İştirakçıları** [osu!](/wiki/Glossary/#osu) topluluğuna kendilerinden fedakârlıklar yaparak hizmet sağlayan - çoğumuzun bugün kıymetini bilmediği aletler yapan - kimselerdir. Bu kullanıcılara tüm topluluk için kayda değer işler yaptıklarını belirten bir rozet verilir.
+**Topluluk İştirakçıları** [osu!](/wiki/Glossary#osu) topluluğuna kendilerinden fedakârlıklar yaparak hizmet sağlayan - çoğumuzun bugün kıymetini bilmediği aletler yapan - kimselerdir. Bu kullanıcılara tüm topluluk için kayda değer işler yaptıklarını belirten bir rozet verilir.
 
 Eskiden osu!takım üyeleri olan ([GMT](/wiki/People/Global_Moderation_Team), [QAT](/wiki/People/Quality_Assurance_Team), vs.) ama artık emekli olan [osu! Alumni](/wiki/People/osu!_Alumni) ile karıştırılmamalıdır. Topluluk İştirakçısı rozetleri kendilerini aşıp osu! ve topluluk ortamını iyileştirmek için bir şeyler yapanlara verilir.
 
@@ -44,7 +44,7 @@ _Ayrıca bakınız: [osu! topluluk iştirakçıları](https://osu.ppy.sh/communi
 
 ## Ocak 2016
 
-_Ayrıca bakınız: [Topluluk İştirakçıları Rozetleri (Ocak 2016)](https://osu.ppy.sh/news/136976187198) bildiri gönderisi._
+_Ayrıca bakınız: [Topluluk İştirakçıları Rozetleri (Ocak 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016) bildiri gönderisi._
 
 | Kullanıcı | Katkıları |
 | ---- | ------------- |
@@ -59,7 +59,7 @@ _Ayrıca bakınız: [Topluluk İştirakçıları Rozetleri (Ocak 2016)](https://
 
 ## Mart 2016
 
-_Ayrıca bakınız: [osu!weekly #53](https://osu.ppy.sh/news/141509444448) bildiri gönderisi._
+_Ayrıca bakınız: [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53) bildiri gönderisi._
 
 | Kullanıcı | Katkıları |
 | ---- | ------------- |
@@ -67,7 +67,7 @@ _Ayrıca bakınız: [osu!weekly #53](https://osu.ppy.sh/news/141509444448) bildi
 
 ## Kasım 2016
 
-_Ayrıca bakınız [Recognising the Best of the Best](https://osu.ppy.sh/news/152637359823) bildirim gönderisi._
+_Ayrıca bakınız [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best) bildirim gönderisi._
 
 | Kullanıcı | Katkıları |
 | ---- | ------------- |

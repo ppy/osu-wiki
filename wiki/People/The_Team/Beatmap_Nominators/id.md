@@ -9,7 +9,7 @@ outdated: true
 
 *Lihat juga: [Peraturan Beatmap Nominator](/wiki/Beatmap_Nominator_Rules) dan [Informasi Umum untuk Beatmap Nominator](/wiki/Beatmap_Nominator_General_Information).*
 
-Beatmap Nominator, dikenal juga dengan *BN*, adalah kelompok yang bertanggung jawab atas [penominasian beatmap](/wiki/Submissions/Beatmap_Ranking_Procedure). Sejak 2014-08-22 Beatmap Nominator telah dipisahkan dari bagian staff. Perubahan ini meliputi pencabutan hak moderasi di chat in-game, nama merah di in-game, dan di dalam forum. Pada 2015-02-01, nama kelompok berubah dari *Beatmap Appreciation Team* menjadi *Beatmap Nominators*. Saat ini, mereka memiliki warna ungu pada nama mereka di forum.
+Beatmap Nominator, dikenal juga dengan *BN*, adalah kelompok yang bertanggung jawab atas [penominasian beatmap](/wiki/Submissions/Beatmap_ranking_procedure). Sejak 2014-08-22 Beatmap Nominator telah dipisahkan dari bagian staff. Perubahan ini meliputi pencabutan hak moderasi di chat in-game, nama merah di in-game, dan di dalam forum. Pada 2015-02-01, nama kelompok berubah dari *Beatmap Appreciation Team* menjadi *Beatmap Nominators*. Saat ini, mereka memiliki warna ungu pada nama mereka di forum.
 
 ## Peran dan Tanggung Jawab
 
@@ -23,7 +23,7 @@ Dengan perombakan team pada Agustus 2014 lalu, bergabung menjadi Beatmap Nominat
 
 Modder yang ingin menjadi Beatmap Nominator harus memenuhi kriteria berikut:
 + Harus aktif dalam modding setidaknya 3 bulan sebelum pendaftaran diumumkan.
-+ Mempunyai kurang lebih 50 [Kudosu](/wiki/Glossary/#kudosu) dari total yang sudah diakumulasi.
++ Mempunyai kurang lebih 50 [Kudosu](/wiki/Glossary#kudosu) dari total yang sudah diakumulasi.
 + Memberikan 2 hingga 4 mod agar memenuhi syarat untuk menjadi bagian dari Beatmap Nominator.
 
 ### Apa yang Dapat Dianggap sebagai Mod Post

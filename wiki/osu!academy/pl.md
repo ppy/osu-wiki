@@ -1,10 +1,14 @@
+---
+outdated: true
+---
+
 # Akademia osu!
 
 ![osu!academy's logo](img/osu!academy-logo.jpg "osu!academy logo")
 
 ## Wprowadzenie
 
-Źródło: <https://news.ppy.sh/post/70504430082/introducing-the-osu-academy>
+Źródło: <https://osu.ppy.sh/home/news/2013-12-19-introducing-the-osu-academy>
 Oficjalny kanał YouTube: <https://www.youtube.com/user/osuacademy/videos>
 Oficjalny wątek: <https://osu.ppy.sh/community/forums/topics/169707>
 

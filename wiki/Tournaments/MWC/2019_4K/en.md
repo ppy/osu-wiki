@@ -31,9 +31,9 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $150 per team member, profile badge, "osu!mania Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $80 per team member, profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $40 per team member, profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | $150 per team member, profile badge, "osu!mania Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, profile badge |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, profile badge |
 
 ## Organisation
 

@@ -1,10 +1,10 @@
-# Changing the Map's Artist or Title
+# How to change a map's artist or title
 
-[*Full Submission with Title/Artist Change -- Mistakes* by NoHitter (hijacked by peppy)](https://osu.ppy.sh/community/forums/topics/24443)
+*[Full Submission with Title/Artist Change -- Mistakes by NoHitter (hijacked by peppy)](https://osu.ppy.sh/community/forums/topics/24443)*
 
 When changing the **title or artist** in a map, a problem may occur in which you may not be able to submit it without making a duplicate map.
 
-**DO NOT SUBMIT IF THE EDITOR "WEB" MENU IS DISABLED. YOUR MAP WILL DUPLICATE.**
+**Do not submit if the editor "Web" menu is disabled. Your map will duplicate.**
 
 To fix a duplicating map, do the following:
 
@@ -26,4 +26,4 @@ To fix a duplicating map, do the following:
   7. Use `File` > `Open...` to change the Artist/Title in other difficulties.
   8. Full Submit.
 
-If you have any duplicated maps, please contact a member of the [NAT](/wiki/People/Nomination_Assessment_Team) for resolution.
+If you have any duplicated maps, please contact a member of the [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) for resolution.

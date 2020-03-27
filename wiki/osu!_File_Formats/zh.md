@@ -43,7 +43,7 @@
     - 你也可以选择打开压缩软件然后将文件夹拖拽进去
 
 3.  检查设置，把压缩格式设为 ".zip" (而不是 .7z, .rar) 然后手动把文件扩展名改成 .osz
-    - Amigo Fiesta.zip -&gt; Amigo Fiesta.osz, 压缩方式: ".zip"
+    - Amigo Fiesta.zip -> Amigo Fiesta.osz, 压缩方式: ".zip"
 
 4.  点击确认，产生了一个带有 osu! 图标的 .osz 文件
 5.  你可以重复这个操作来产生新文件

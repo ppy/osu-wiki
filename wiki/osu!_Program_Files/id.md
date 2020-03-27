@@ -5,7 +5,7 @@ outdated_since: cf41ce8611b21171619b93d9c57aa61f95270db7
 
 # Berkas Program osu!
 
-![File aturcara osu! secara keseluruhan](Osu!sys.jpg "File aturcara osu! secara keseluruhan")
+![File aturcara osu! secara keseluruhan](img/osu!-program-files.png "File aturcara osu! secara keseluruhan")
 
 ## Lokasi
 

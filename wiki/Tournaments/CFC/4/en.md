@@ -1,22 +1,21 @@
 ---
 tags:
-- Catch French Cup 4
-- CFC 4
-- CFC4
+  - CFC
+  - CFC4
 ---
 
 # Catch French Cup 4
 
-![CFC 4 Logo](img/logo.png)
+![CFC 4 logo](img/logo.png)
 
 The **Catch French Cup 4** (***CFC 4***) was a one-on-one French osu!catch tournament hosted by ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) and ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the fourth installment of the Catch French Cup.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-02-24/2019-03-17 |
-| Live Drawings | 2019-03-24 (20:00 UTC+1) |
+| Registration phase | 2019-02-24/2019-03-17 |
+| Live drawings | 2019-03-24 (20:00 UTC+1) |
 | Group Stage | 2019-03-30/2019-03-31 |
 | Quarterfinals | 2019-04-06/2019-04-07 |
 | Semifinals | 2019-04-20/2019-04-23 |
@@ -26,24 +25,24 @@ The **Catch French Cup 4** (***CFC 4***) was a one-on-one French osu!catch tourn
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
-![CFC 4 Winner Badge](img/badge.png)
+![CFC 4 winner badge](img/badge.png)
 
 ## Organisation
 
-The Catch French Cup 4 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The Catch French Cup 4 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Map Selector | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Commentator | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/138728), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467), ![][flag_FR] [Tbotas](https://osu.ppy.sh/users/2084568), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_FR] [\_Manyura](https://osu.ppy.sh/users/8335913) |
+| Map selector | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
+| Referee | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172) |
 | Streamer | ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133) |
+| Commentator | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [redjiii](https://osu.ppy.sh/users/138728), ![][flag_FR] [FulgurentKille](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467), ![][flag_FR] [Tbotas](https://osu.ppy.sh/users/2084568), ![][flag_FR] [TLQ_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_FR] [\_Manyura](https://osu.ppy.sh/users/8335913) |
 | Designer | ![][flag_FR] [Lotchidych](https://osu.ppy.sh/users/8375240) |
 | Statistician | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Referee | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Ryumi](https://osu.ppy.sh/users/6596270), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [Mimir](https://osu.ppy.sh/users/7382734), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172) |
-| Wiki Editor | ![][flag_ID] [Naruk](https://osu.ppy.sh/users/7100002) |
+| Wiki editor | ![][flag_ID] [Naruk](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -65,7 +64,7 @@ The Catch French Cup 4 was run by various community members by distributing the 
 
 ## Groups
 
-| Group | Top Seed | High Seed | Low Seed | Unseeded |
+| Group | Top seed | High seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
 | **A** | ![][flag_FR] [Tbotas](https://osu.ppy.sh/users/2084568) | ![][flag_RE] [Sounny](https://osu.ppy.sh/users/7326109) | ![][flag_FR] [Noctalium](https://osu.ppy.sh/users/6488167) | ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
 | **B** | ![][flag_FR] [Alostis](https://osu.ppy.sh/users/2986875) | ![][flag_FR] [Holloh](https://osu.ppy.sh/users/7612994) | ![][flag_FR] [dracoV](https://osu.ppy.sh/users/7925725) | ![][flag_FR] [Dask](https://osu.ppy.sh/users/4151397) |
@@ -78,11 +77,11 @@ The Catch French Cup 4 was run by various community members by distributing the 
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Team(s) |
+| Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_FR] [Alostis](https://osu.ppy.sh/users/2986875) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FR] [Alostis](https://osu.ppy.sh/users/2986875) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
 
 ---
 
@@ -193,67 +192,85 @@ This competition has come to an end and resulted in the following podium:
 
 ---
 
-## Match Results
+## Match results
 
 ### Finals
 
-| Saturday, 2019-04-27 |  |  |  |  |
+Saturday, 27 April 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Noulayfe ![][flag_FR] | 1 | **7** | ![][flag_FR] **Alostis** | [#1](https://osu.ppy.sh/community/matches/51332651) |
-| **-Ken** ![][flag_TN] | **7** | 0 | ![][flag_FR] Sounny | -win by default- |
+| **-Ken** ![][flag_TN] | **7** | 0 | ![][flag_FR] Sounny | *win by default* |
 | Noulayfe ![][flag_FR] | 3 | **7** | ![][flag_TN] **-Ken** |[#1](https://osu.ppy.sh/community/matches/51344482) |
 
-| Sunday, 2019-04-28 |  |  |  |  |
+Sunday, 28 April 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Alostis** ![][flag_FR] | **7** | 5 | ![][flag_TN] -Ken | [#1](https://osu.ppy.sh/community/matches/51363253) |
 
 ### Semifinals
 
-| Saturday, 2019-04-20 |  |  |  |  |
+Saturday, 20 April 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Tbotas ![][flag_FR] | 1 | **6** | ![][flag_FR] **Noulayfe** | [#1](https://osu.ppy.sh/community/matches/51155796) |
 | **Alostis** ![][flag_FR] | **6** | 0 | ![][flag_FR] Boros | [#1](https://osu.ppy.sh/community/matches/51154360) |
 
-| Sunday, 2019-04-21 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-- |
-| Tbotas ![][flag_FR] | 0 | **6** | ![][flag_FR] **Sounny** | -win by default- |
+Sunday, 21 April 2019:
 
-| Tuesday, 2019-04-23 |  |  |  |  |
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Tbotas ![][flag_FR] | 0 | **6** | ![][flag_FR] **Sounny** | *win by default* |
+
+Tuesday, 23 April 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Boros** ![][flag_FR] | **6** | 3 | ![][flag_TN] -Ken | [#1](https://osu.ppy.sh/community/matches/51234133) |
 
 ### Quarterfinals
 
-| Saturday, 2019-04-06 |  |  |  |  |
+Saturday, 6 April 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Tbotas** ![][flag_FR] | **5** | 0 | ![][flag_FR] Holloh | [#1](https://osu.ppy.sh/community/matches/50793781) |
 | AAAAAAAAAAAAHHH ![][flag_FR] | 2 | **5** | ![][flag_FR] **Boros** | [#1](https://osu.ppy.sh/community/matches/50797019) |
 | -Ken ![][flag_TN] | 1 | **5** | ![][flag_FR] **Noulayfe** | [#1](https://osu.ppy.sh/community/matches/50801266) |
 
-| Sunday, 2019-04-07 |  |  |  |  |
+Sunday, 7 April 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Holloh ![][flag_FR] | 1 | **5** | ![][flag_TN] **-Ken** | [#1](https://osu.ppy.sh/community/matches/50826612) |
-| Sounny ![][flag_RE] | 0 | **5** | ![][flag_FR] **Alostis** | -win by default- |
-| **Sounny** ![][flag_RE] | **5** | 0 | ![][flag_FR] AAAAAAAAAAAAHHH | -win by default- |
+| Sounny ![][flag_RE] | 0 | **5** | ![][flag_FR] **Alostis** | *win by default* |
+| **Sounny** ![][flag_RE] | **5** | 0 | ![][flag_FR] AAAAAAAAAAAAHHH | *win by default* |
 
 ### Group Stage
 
-| Saturday, 2019-03-30 |  |  |  |  |
+Saturday, 30 March 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | YANOO123 ![][flag_FR] | 0 | **3** | ![][flag_RE] **Sounny** | [#1](https://osu.ppy.sh/community/matches/50634173) |
 | YANOO123 ![][flag_FR] | 0 | **3** | ![][flag_FR] **Tbotas** | [#1](https://osu.ppy.sh/community/matches/50634799) |
 | **Holloh** ![][flag_FR] | **3** | 0 | ![][flag_FR] dracoV | [#1](https://osu.ppy.sh/community/matches/50635325) |
-| Dask ![][flag_FR] | 0 | **3** | ![][flag_FR] **Alostis** | -win by default- |
+| Dask ![][flag_FR] | 0 | **3** | ![][flag_FR] **Alostis** | *win by default* |
 | **Tbotas** ![][flag_FR] | **3** | 2 | ![][flag_RE] Sounny | [#1](https://osu.ppy.sh/community/matches/50636114) |
 | **Alostis** ![][flag_FR] | **3** | 0 | ![][flag_FR] Holloh | [#1](https://osu.ppy.sh/community/matches/50636538) |
-| Noctalium ![][flag_FR] | 0 | **3** | ![][flag_FR] **YANOO123** | -win by default- |
-| **dracoV** ![][flag_FR] | **3** | 0 | ![][flag_FR] Dask | -win by default- |
-| **Sounny** ![][flag_RE] | **3** | 0 | ![][flag_FR] Noctalium | -win by default- |
+| Noctalium ![][flag_FR] | 0 | **3** | ![][flag_FR] **YANOO123** | *win by default* |
+| **dracoV** ![][flag_FR] | **3** | 0 | ![][flag_FR] Dask | *win by default* |
+| **Sounny** ![][flag_RE] | **3** | 0 | ![][flag_FR] Noctalium | *win by default* |
 | dracoV ![][flag_FR] | 0 | **3** | ![][flag_FR] **Alostis** | [#1](https://osu.ppy.sh/community/matches/50637487) |
-| Noctalium ![][flag_FR] | 0 | **3** | ![][flag_FR] **Tbotas** | -win by default- |
-| Dask ![][flag_FR] | 0 | **3** | ![][flag_FR] **Holloh** | -win by default- |
+| Noctalium ![][flag_FR] | 0 | **3** | ![][flag_FR] **Tbotas** | *win by default* |
+| Dask ![][flag_FR] | 0 | **3** | ![][flag_FR] **Holloh** | *win by default* |
 
-| Sunday, 2019-03-31 |  |  |  |  |
+Sunday, 31 March 2019:
+
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Noulayfe** ![][flag_FR] | **3** | 2 | ![][flag_FR] Julo | [#1](https://osu.ppy.sh/community/matches/50662396) |
 | **Boros** ![][flag_FR] | **3** | 1 | ![][flag_FR] Noulayfe | [#1](https://osu.ppy.sh/community/matches/50663325) |
@@ -266,13 +283,13 @@ This competition has come to an end and resulted in the following podium:
 | Tantei B ![][flag_FR] | 0 | **3** | ![][flag_FR] **Zard** | [#1](https://osu.ppy.sh/community/matches/50668487) |
 | Zard ![][flag_FR] | 0 | **3** | ![][flag_FR] **AAAAAAAAAAAAHHH** | [#1](https://osu.ppy.sh/community/matches/50669095) |
 | Tantei B ![][flag_FR] | 0 | **3** | ![][flag_TN] **-Ken** | [#1](https://osu.ppy.sh/community/matches/50668487) |
-| **Julo** ![][flag_FR] | **3** | 0 | ![][flag_FR] Sageru | -win by default- |
+| **Julo** ![][flag_FR] | **3** | 0 | ![][flag_FR] Sageru | *win by default* |
 
 ---
 
 ## Ruleset
 
-### General Rules
+### General rules
 
 1. The tournament will be held in 1v1 double elimination format with traditional seeding.
 2. The tournament will be held over seven weekends. The matches will be played under **Score V2** and **Head to Head** settings.
@@ -280,7 +297,7 @@ This competition has come to an end and resulted in the following podium:
 4. Joining the Discord server is mandatory at least for the duration of the tournament.
 5. First and second weekend matches will be best-of-5, third weekend matches best-of-7, forth weekend matches are best-of-9, fifth weekend matches are best-of-11, and finally sixth and seventh weekend matches will be best-of-13.
 
-### Match Instructions
+### Match instructions
 
 1. The referee will create the room and invite the players in.
 2. The players will `!roll` to determine the order of picking warmups and beatmaps.

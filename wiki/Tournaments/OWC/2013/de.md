@@ -14,9 +14,9 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 
 | Placing                                                    | Country                                     |
 |------------------------------------------------------------|---------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | ![][flag_KR] **Südkorea** |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_TW] **Taiwan**   |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_PL] **Polen**    |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | ![][flag_KR] **Südkorea** |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TW] **Taiwan**   |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PL] **Polen**    |
 
 ## Turnierzeitplan
 
@@ -34,9 +34,9 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 
 | Placing                                                    | Prize(s)                                                                                        |
 |------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 Monate Supporter Tag, Profilabzeichen, OWC Trophäe, [osu!tablet](https://osu.ppy.sh/community/forums/topics/169139) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 Monate Supporter Tag                                                                          |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 Monat Supporter Tag                                                                           |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 6 Monate Supporter Tag, Profilabzeichen, OWC Trophäe, [osu!tablet](https://osu.ppy.sh/community/forums/topics/169139) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 Monate Supporter Tag                                                                          |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 Monat Supporter Tag                                                                           |
 
 ## Organisation
 
@@ -448,8 +448,8 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
     2.  Es muss ein Kapitän angegeben werden, der das Team representieren wird.
 
 2.  Jedes Team representiert eine Nation. Sie müssen ein Team zusammenstellen mit Spieler aus demselben Land und daher dieselbe Flagge im Profil haben.
-3.  Für die Teamanmeldungen [müssen Sie dieses Formular ausfüllen](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). Danach verifizieren Sie Ihre Registrierung, in dem Sie [eine persönliche Nachricht an Loctav schicken](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) mit dem Titel “OWC Registration”.
-    -   Kapitäne können ihre Aufstellung durch [das Benachrichtigen ans Management](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) ändern.
+3.  Für die Teamanmeldungen [müssen Sie dieses Formular ausfüllen](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). Danach verifizieren Sie Ihre Registrierung, in dem Sie [eine persönliche Nachricht an Loctav schicken](https://osu.ppy.sh/home/messages/users/71366) mit dem Titel “OWC Registration”.
+    -   Kapitäne können ihre Aufstellung durch [das Benachrichtigen ans Management](https://osu.ppy.sh/home/messages/users/71366) ändern.
 
 4.  Jede Registrierung und Änderung wird vom Turnier Management überprüft, bevor sie akzeptiert und zur Liste der Teilnehmer hinzugefügt werden.
 5.  Die maximale Anzahl an Teams liegt bei 32.

@@ -12,9 +12,9 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
 
 | Placing                                                    | Country                                 |
 |------------------------------------------------------------|-----------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | ![][flag_KR] **한국**  |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_TW] **대만**  |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_PL] **폴란드** |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | ![][flag_KR] **한국**  |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TW] **대만**  |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PL] **폴란드** |
 
 ## 전체 대회일정
 
@@ -32,9 +32,9 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
 
 | Placing                                                    | Prize(s)                                                        |
 |------------------------------------------------------------|-----------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 서포터 6개월, 프로필 뱃지, OWC 우승 트로피, [타블렛](https://osu.ppy.sh/community/forums/topics/169139) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 서포터 3개월                                                         |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 서포터 1개월                                                         |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 서포터 6개월, 프로필 뱃지, OWC 우승 트로피, [타블렛](https://osu.ppy.sh/community/forums/topics/169139) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 서포터 3개월                                                         |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 서포터 1개월                                                         |
 
 ## 운영 위원
 
@@ -444,8 +444,8 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
     2.  팀을 대표할 주장이 반드시 선발해야 합니다.
 
 2.  각 팀은 그 나라를 대표하게 됩니다. 모든 선수들이 같은 나라의 선수들인지 확인해 주십시오.
-3.  참가신청은 [**구글폼**](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform) 을 통해 제출한 다음, [Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) 에게 “OWC Registration” 라는 제목으로 PM을 보내 재확인을 부탁하면 됩니다.
-    -   각 팀 주장은 선수 등록에 변동사항이 있을 경우 [운영위원](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366)에게 알려주셔야 합니다.
+3.  참가신청은 [**구글폼**](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform) 을 통해 제출한 다음, [Loctav](https://osu.ppy.sh/home/messages/users/71366) 에게 “OWC Registration” 라는 제목으로 PM을 보내 재확인을 부탁하면 됩니다.
+    -   각 팀 주장은 선수 등록에 변동사항이 있을 경우 [운영위원](https://osu.ppy.sh/home/messages/users/71366)에게 알려주셔야 합니다.
 
 4.  모든 등록과 변경은 운영위원들의 확인을 거쳐 반영될 것입니다.
 5.  총 32팀의 신청을 받습니다. 선착순입니다.

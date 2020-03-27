@@ -14,9 +14,9 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 
 | Placing                                                    | Country                                        |
 |------------------------------------------------------------|------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | ![][flag_JP] **Japan**       |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_PL] **Polen**       |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_DE] **Deutschland** |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | ![][flag_JP] **Japan**       |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PL] **Polen**       |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_DE] **Deutschland** |
 
 ## Turnierzeitplan
 
@@ -36,9 +36,9 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 
 | Placing                                                    | Prizes                                                                                |
 |------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 Monate Supporter Tag, Profilabzeichen, Benutzertitel als "osu! Champion", osu! Ware |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 Monate Supporter Tag                                                                |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 Monat Supporter Tag                                                                 |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 6 Monate Supporter Tag, Profilabzeichen, Benutzertitel als "osu! Champion", osu! Ware |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 Monate Supporter Tag                                                                |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 Monat Supporter Tag                                                                 |
 
 ## Organisation
 
@@ -457,8 +457,8 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
         1.  Wir unterscheiden nicht zwischen Kern- und Reservespieler.
 
 2.  Jedes Team representiert eine Nation. Sie müssen ein Team zusammenstellen mit Spieler aus demselben Land und daher dieselbe Flagge im Profil haben.
-3.  Für die Teamanmeldungen [müssen Sie dieses Formular ausfüllen](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). Danach verifizieren Sie Ihre Registrierung, in dem Sie [eine persönliche Nachricht an Loctav schicken](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) mit dem Titel “OWC Registration”.
-    -   Kapitäne können ihre Aufstellung durch [das Benachrichtigen ans Management](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) ändern.
+3.  Für die Teamanmeldungen [müssen Sie dieses Formular ausfüllen](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). Danach verifizieren Sie Ihre Registrierung, in dem Sie [eine persönliche Nachricht an Loctav schicken](https://osu.ppy.sh/home/messages/users/71366) mit dem Titel “OWC Registration”.
+    -   Kapitäne können ihre Aufstellung durch [das Benachrichtigen ans Management](https://osu.ppy.sh/home/messages/users/71366) ändern.
     -   Sie bekommen eine Bestätigungsantwort, welches Ihnen mitteilen soll, dass Ihre Anmeldung erfolgreich angekommen ist. Die Registrierung ist dann in Bearbeitung.
 
 4.  Um gültige und ernsthafte Registrierungen zu gewährleisten, wird jede Registrierung und Änderung vom Turnier Management geprüft.

@@ -8,7 +8,7 @@ Die meisten der technischen Probleme können durch das Suchen oder Posten im [Te
 
 ## Allgemeiner osu! Support
 
-Bei Accountproblemen, Bezahlungen, Sperrfristen, Anfragen zu Turnieren **und alles andere, das mit osu! in Verbindung steht**, kannst du eine E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh) (Accountabfragen) oder [osu@ppy.sh](mailto:osu@ppy.sh) (alles andere) senden. Wenn ein Supportmitglied gerade online ist, kannst du auch den unten zu sehenden kleinen "?"-Button benutzen von der Seite, die du gerade besuchst.
+Bei Accountproblemen, Bezahlungen, Sperrfristen, Anfragen zu Turnieren **und alles andere, das mit osu! in Verbindung steht**, kannst du eine E-Mail an [accounts@ppy.sh](mailto:accounts@ppy.sh) (Accountabfragen) oder [osu@ppy.sh](mailto:osu@ppy.sh) (alles andere) senden.
 
 ## peppy kontaktieren
 

@@ -2,7 +2,7 @@
 needs_cleanup: true
 ---
 
-# Tournament Drawings
+# Tournament drawings
 
 The tournament drawings screen is used to livestream the sorting of teams into groups that will compete in the group stages for a tournament. It is only available in the [osu!lazer](https://github.com/ppy/osu/releases) client.
 
@@ -21,7 +21,7 @@ The drawings screen is now ready to be previewed. It is important to understand 
 ### Usage
 
 From the main menu, press `Ctrl + Shift + D` to access the drawings screen. The following should appear:
-![](main-screen.png "The main drawings screen")
+![](img/main-screen.png "The main drawings screen")
 
 There are two sections to this screen - the main section on the left with the world map as a background, and the control panel section on the right. Please **avoid** livestreaming the control panel.
 
@@ -70,7 +70,7 @@ This line has three sections separated by a colon (`:`):
 - The full team name is displayed in the centre of the screen when a team is selected through the scrolling process.
 - The team acronym is displayed in the group boxes.
 
-![](drawings-txt-visual.png "Visual representation of the drawings.txt elements")
+![](img/drawings-txt-visual.png "Visual representation of the drawings.txt elements")
 
 A valid `drawings.txt` file with multiple countries as teams is:
 ```
@@ -80,8 +80,7 @@ IT : Italy : IT
 US : United States of America : USA
 ```
 
-To define a custom flag, go back to the osu! folder containing the `drawings.ini` file, create the folder `Drawings`, and inside it create the folder `Flags` such that the folder hierarchy `osu/Drawings/Flags/` is created.  
-Custom flag image files can be placed inside the Flags folder. For example if the file `my-flag-file.png` was placed inside the Flags folder, then a valid line that can be added to the `drawings.txt` file is:  
+To define a custom flag, go back to the osu! folder containing the `drawings.ini` file and inside it create the folder `Flags`. Custom flag image files can be placed inside the Flags folder. For example if the file `my-flag-file.png` was placed inside the Flags folder, then a valid line that can be added to the `drawings.txt` file is:  
 `my-flag-file : My Team : MT`
 
 The optimal resolution for flag images is 70x47 pixels (or the same aspect ratio).

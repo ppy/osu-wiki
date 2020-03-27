@@ -11,11 +11,11 @@ needs_cleanup: true
 [media-rhythm-vol-3]: https://www.mediafire.com/?781tio8fge7y7d2
 [media-rhythm-vol-4]: https://www.mediafire.com/?6hc29ws6j36dcag
 
-# Beatmap Packs 0916
+# Beatmap packs 0916
 
-***[Click here to return to the "Achievements" page](../)***
+***[Click here to return to the "Achievements" page](..)***
 
-These are the legacy/original themed packs packed during osu! infancy years (2009) before being updated by [Stefan on 16 January 2016](https://osu.ppy.sh/news/137535031193).
+These are the legacy/original themed packs packed during osu! infancy years (2009) before being updated by [Stefan on 16 January 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44).
 Hence why the `0916` part is in the title.
 
 ## Anime Pack

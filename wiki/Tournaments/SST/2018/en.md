@@ -1,13 +1,13 @@
 # SS Tournament 2018
 
-![SS Tournament 2018](Banner.jpg)
+![SS Tournament 2018](img/Banner.jpg)
 
 SS Tournament 2018 is a osu!standard tournament organized and ran by ![][flag_CA] [Sparhten](https://osu.ppy.sh/users/7601720), ![][flag_US] [NeonLights](https://osu.ppy.sh/users/5277199), and ![][flag_DE] [FrozenPheonix](https://osu.ppy.sh/users/9696149).
 It is an open rank 3v3 tournament with rosters of 3 - 4 players held semi-annually.
 
 SS Tournament's most up to date information can be found on its most recent [forum post](https://osu.ppy.sh/community/forums/topics/684960) or in its [Google document](https://docs.google.com/document/d/1-e2ridrfOywb47ef0T196cbnXKW6IIqyDDxZgKyWj4E/edit?usp=sharing).
 
-![SS Tournament 2018](Badge.jpg "SS Tournament 2018 Badge")
+![SS Tournament 2018](img/Badge.jpg "SS Tournament 2018 Badge")
 
 ## Schedule
 
@@ -92,7 +92,7 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
 
 ### Qualifiers
 
-![Qualifiers Mappool](Qaulifiers.jpg)
+![Qualifiers Mappool](img/Qaulifiers.jpg)
 
 - NoMod
   - [Ceui - COLORFUL DAYS!!](https://osu.ppy.sh/beatmaps/203315) [Insane]
@@ -110,7 +110,7 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
 
 ### Group Stage
 
-![Group Stage Mappool](Group.jpg)
+![Group Stage Mappool](img/Group.jpg)
 
 - NoMod
   - [GARNiDELiA - ambiguous](https://osu.ppy.sh/beatmaps/680886) [Insane]
@@ -140,7 +140,7 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
 
 ### Round Of 16
 
-![Round Of 16 Mappool](Round.jpg)
+![Round Of 16 Mappool](img/Round.jpg)
 
  - NoMod
    - [Eiko Shimamiya - Higurashi no Naku Koro ni](https://osu.ppy.sh/beatmaps/738088) [Extra]
@@ -170,7 +170,7 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
 
 ### Quarter Finals
 
-![Quarter Finals Mappool](Qaurter.jpg)
+![Quarter Finals Mappool](img/Qaurter.jpg)
 
 - NoMod
   - [Suzuki Konomi - Blow out](https://osu.ppy.sh/beatmaps/1303641) [Meg's Another]
@@ -197,10 +197,10 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
   - [Yousei Teikoku - Hades: The rise](https://osu.ppy.sh/beatmaps/1403588) [Extra]
 - Tiebreaker
   - [LiSA - Rising Hope (LU-I Remix)](https://osu.ppy.sh/beatmaps/1420353) [Irregularity]
-  
+
 ### Semi Finals
 
-![Semi Finals Mappool](Semifinals.jpg)
+![Semi Finals Mappool](img/Semifinals.jpg)
 
 - NoMod
   - [Shinigiwa Satellite - Nenten Puranetto](https://osu.ppy.sh/beatmaps/1279068) [A World Without Form]
@@ -230,7 +230,7 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
 
 ### Finals
 
-![Finals Mappool](Finals.jpg)
+![Finals Mappool](img/Finals.jpg)
 
 - NoMod
   - [nano - Bull's Eye](https://osu.ppy.sh/beatmaps/823710) [Aria]
@@ -257,38 +257,38 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
   - [sasakure.UK - Jack-the-Ripper](https://osu.ppy.sh/beatmaps/94264) [ReMiX]
 - Tiebreaker
   - [Ariabl'eyeS - Kegare Naki Bara Juuji](https://osu.ppy.sh/beatmaps/1003565) [Twin-Renatic]
- 
- 
+
+
 ### Tournament Brackets and standings
 
-![SS Tournament 2018](Medals.jpg)
+![SS Tournament 2018](img/Medals.jpg)
 
-![SS Tournament 2018](Brackets.jpg)
+![SS Tournament 2018](img/Brackets.jpg)
 
 ## Teams and players
 
-| Team Name                 | Members  
+| Team Name                 | Members
 |---------------------------|-----------------------------------------------------------------------------------------
 | !roll                     | ![][flag_IL] [Xilver](https://osu.ppy.sh/users/3099689), ![][flag_CA] [Toke](https://osu.ppy.sh/users/2601166), ![][flag_CA] [Kaifin](https://osu.ppy.sh/users/2596942), ![][flag_US] [Ritzeh](https://osu.ppy.sh/users/1028387)
 | Content is Hot            | ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445), ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013), ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689), ![][flag_JP] [Cookiezi](https://osu.ppy.sh/users/124493)
-| Anime was a mistake       | ![][flag_PL] [Ayke](https://osu.ppy.sh/users/6384590), ![][flag_PL] [Alien](https://osu.ppy.sh/users/4743869), ![][flag_DE] [- Tanakimaru -](https://osu.ppy.sh/users/7233153), ![][flag_PL] [Nexo C17H17Cl2n](https://osu.ppy.sh/users/6951719)           
+| Anime was a mistake       | ![][flag_PL] [Ayke](https://osu.ppy.sh/users/6384590), ![][flag_PL] [Alien](https://osu.ppy.sh/users/4743869), ![][flag_DE] [- Tanakimaru -](https://osu.ppy.sh/users/7233153), ![][flag_PL] [Nexo C17H17Cl2n](https://osu.ppy.sh/users/6951719)
 | Happy New YEAR            | ![][flag_FR] [Clamati](https://osu.ppy.sh/users/9049282), ![][flag_FR] [Vakeros](https://osu.ppy.sh/users/5224889), ![][flag_FR] [Kaishen](https://osu.ppy.sh/users/7742208)
 | Cool Grills               | ![][flag_CL] [[-Neon-]](https://osu.ppy.sh/users/6064382), ![][flag_CL] [Yumbtah](https://osu.ppy.sh/users/2784663), ![][flag_US] [Megatron is bad](https://osu.ppy.sh/users/2570828), ![][flag_NL] [Lazer](https://osu.ppy.sh/users/1799925)
-| 333333333333333333333333  | ![][flag_US][Squilly](https://osu.ppy.sh/users/4681578), ![][flag_US] [Aireu](https://osu.ppy.sh/users/4681578), ![][flag_US][he rack](https://osu.ppy.sh/users/2644828), ![][flag_US] [fieryerage](https://osu.ppy.sh/users/3533958)               
-| Lexion Fanboys            | ![][flag_HU][Lexion](https://osu.ppy.sh/users/5271371), ![][flag_HU] [RatinA0](https://osu.ppy.sh/users/3436625), ![][flag_HU] [csaba21123](https://osu.ppy.sh/users/7764237), ![][flag_HU] [Jugment](https://osu.ppy.sh/users/3727686)               
+| 333333333333333333333333  | ![][flag_US][Squilly](https://osu.ppy.sh/users/4681578), ![][flag_US] [Aireu](https://osu.ppy.sh/users/4681578), ![][flag_US][he rack](https://osu.ppy.sh/users/2644828), ![][flag_US] [fieryerage](https://osu.ppy.sh/users/3533958)
+| Lexion Fanboys            | ![][flag_HU][Lexion](https://osu.ppy.sh/users/5271371), ![][flag_HU] [RatinA0](https://osu.ppy.sh/users/3436625), ![][flag_HU] [csaba21123](https://osu.ppy.sh/users/7764237), ![][flag_HU] [Jugment](https://osu.ppy.sh/users/3727686)
 | ReedBestPlayerAndNoobTeam | ![][flag_SE] [Reedkatt](https://osu.ppy.sh/users/8335950), ![][flag_US] [Its Wicked](https://osu.ppy.sh/users/7250583), ![][flag_US] [Mercyremix](https://osu.ppy.sh/users/9145865)
 | Free Flowing Gongs        | ![][flag_GB] [meltz](https://osu.ppy.sh/users/6741042), ![][flag_GB] [Morbid](https://osu.ppy.sh/users/6963690), ![][flag_GB] [Obese](https://osu.ppy.sh/users/3937808)
-| Holy Saints               | ![][flag_RU] [beyondpb](https://osu.ppy.sh/users/9903584) ![][flag_RU] [OnePixel1](https://osu.ppy.sh/users/7124962), ![][flag_RU] [Stevci](https://osu.ppy.sh/users/8601136), ![][flag_RU] [Peastro](https://osu.ppy.sh/users/8283149)              
+| Holy Saints               | ![][flag_RU] [beyondpb](https://osu.ppy.sh/users/9903584) ![][flag_RU] [OnePixel1](https://osu.ppy.sh/users/7124962), ![][flag_RU] [Stevci](https://osu.ppy.sh/users/8601136), ![][flag_RU] [Peastro](https://osu.ppy.sh/users/8283149)
 | Kotyatki                  | ![][flag_RU] [kTN](https://osu.ppy.sh/users/7050137), ![][flag_RU] [SadnessWillSear](https://osu.ppy.sh/users/6591496), ![][flag_UA] [LimyY](https://osu.ppy.sh/users/7855006), ![][flag_RU] [Avernus](https://osu.ppy.sh/users/4405325)
 | CaptainKiznaryTech        | ![][flag_EE] [Kizmah](https://osu.ppy.sh/users/8325847), ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/9536977), ![][flag_GB] [Binarytech](https://osu.ppy.sh/users/9801778)
 | EROLOLI                   | ![][flag_CA] [[ Haruka-chan ]](https://osu.ppy.sh/users/2445727), ![][flag_CA] [erOL0liSENSei](https://osu.ppy.sh/users/2077668), ![][flag_US] [Poofin](https://osu.ppy.sh/users/2237979)
-| mode is a loli            | ![][flag_US] [- M o D e -](https://osu.ppy.sh/users/4580287), ![][flag_US] [-Tynamo](https://osu.ppy.sh/users/3638962), ![][flag_US] [trey-](https://osu.ppy.sh/users/8784747), ![][flag_US] [conradmittn](https://osu.ppy.sh/users/8208289)               
+| mode is a loli            | ![][flag_US] [- M o D e -](https://osu.ppy.sh/users/4580287), ![][flag_US] [-Tynamo](https://osu.ppy.sh/users/3638962), ![][flag_US] [trey-](https://osu.ppy.sh/users/8784747), ![][flag_US] [conradmittn](https://osu.ppy.sh/users/8208289)
 | Yaong Futomomo            | ![][flag_KR] [Yaong](https://osu.ppy.sh/users/1883865), ![][flag_JP] [Shirasaka Koume](https://osu.ppy.sh/users/3062998), ![][flag_JP] [Angel Arrow](https://osu.ppy.sh/users/1970239), ![][flag_JP] [benki](https://osu.ppy.sh/users/1021944)
 | Triple A                  | ![][flag_PL] [WubWoofWolf](https://osu.ppy.sh/users/39828), ![][flag_PL] [Rafis](https://osu.ppy.sh/users/2558286), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050)
 | arth is babysitting       | ![][flag_US] [arth](https://osu.ppy.sh/users/3600549), ![][flag_US] [chezbananas](https://osu.ppy.sh/users/7941423), ![][flag_US] [explosionboom](https://osu.ppy.sh/users/4681410), ![][flag_US] [[Xenon]](https://osu.ppy.sh/users/3638099)
 | odeio nxgxxs              | ![][flag_BR] [favela](https://osu.ppy.sh/users/5295743), ![][flag_BR] [Texats](https://osu.ppy.sh/users/1638293), ![][flag_IL] [MrPotato](https://osu.ppy.sh/users/2787415), ![][flag_NL] [GiraffekNuL](https://osu.ppy.sh/users/3506793)
 | Dream XD                  | ![][flag_CL] [-Natezi](https://osu.ppy.sh/users/5990099), ![][flag_CL] [Lasseh](https://osu.ppy.sh/users/4881251), ![][flag_CL] [Crissa](https://osu.ppy.sh/users/5405836)
-| HalfPing                  | ![][flag_AU] [GranDSenpai](https://osu.ppy.sh/users/3997580), ![][flag_AU] [Ezipie](https://osu.ppy.sh/users/5978907), ![][flag_AU] [TheOmyNomy](https://osu.ppy.sh/users/4241054), ![][flag_AU] [Rairiku](https://osu.ppy.sh/users/4945688)              
+| HalfPing                  | ![][flag_AU] [GranDSenpai](https://osu.ppy.sh/users/3997580), ![][flag_AU] [Ezipie](https://osu.ppy.sh/users/5978907), ![][flag_AU] [TheOmyNomy](https://osu.ppy.sh/users/4241054), ![][flag_AU] [Rairiku](https://osu.ppy.sh/users/4945688)
 | Sleeping Accommodation    | ![][flag_TW] [Flask](https://osu.ppy.sh/users/959763), ![][flag_CN] [Totoki](https://osu.ppy.sh/users/557197), ![][flag_FR] [Flaven](https://osu.ppy.sh/users/3213239), ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
 | Sad Nibba Association     | ![][flag_EG] [Alfonso](https://osu.ppy.sh/users/7522642), ![][flag_EG] [ScrimShaw5](https://osu.ppy.sh/users/6534461), ![][flag_EG] [Joeeey](https://osu.ppy.sh/users/8784360)
 | Vladimir Putin            | ![][flag_RU] [koteyka20](https://osu.ppy.sh/users/7665175), ![][flag_RU] [YaVOR](https://osu.ppy.sh/users/3235892), ![][flag_RU] [Byrilo](https://osu.ppy.sh/users/5347067), ![][flag_RU] [Chayokkofeyok](https://osu.ppy.sh/users/9199948)
@@ -300,7 +300,7 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
 | nada                      | ![][flag_MX] [Trooper-](https://osu.ppy.sh/users/7301672), ![][flag_GB] [-Kisaki](https://osu.ppy.sh/users/7305067), ![][flag_US] [Butlergunner](https://osu.ppy.sh/users/6031237), ![][flag_US] [Frost](https://osu.ppy.sh/users/4182788)
 | carpal tunnels            | ![][flag_US] [IBhop](https://osu.ppy.sh/users/8222901)
 | very nice                 | ![][flag_US] [-Revoh](https://osu.ppy.sh/users/8165181), ![][flag_US] [Tommicrayon](https://osu.ppy.sh/users/4090133), ![][flag_FR] [Carbone](https://osu.ppy.sh/users/5783315)
-| Floating up               | ![][flag_KR] [Gomo Pslvarh](https://osu.ppy.sh/users/1206417), ![][flag_KR] [Pring](https://osu.ppy.sh/users/3478883), ![][flag_KR] [Pray](https://osu.ppy.sh/users/2190336), ![][flag_KR] [Neta](https://osu.ppy.sh/users/832084)               
+| Floating up               | ![][flag_KR] [Gomo Pslvarh](https://osu.ppy.sh/users/1206417), ![][flag_KR] [Pring](https://osu.ppy.sh/users/3478883), ![][flag_KR] [Pray](https://osu.ppy.sh/users/2190336), ![][flag_KR] [Neta](https://osu.ppy.sh/users/832084)
 | $100 no give me           | ![][flag_SG][Nakano-](https://osu.ppy.sh/users/1893953), ![][flag_SG] [Elegant Loli](https://osu.ppy.sh/users/3010281), ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106), ![][flag_HK] [Koltay](https://osu.ppy.sh/users/4787843)
 | Acchu ma Seishun          | ![][flag_BE] [5joshi](https://osu.ppy.sh/users/4279650), ![][flag_BE] [Jodehh-](https://osu.ppy.sh/users/6471366), ![][flag_BE] [Bastia](https://osu.ppy.sh/users/3355362), ![][flag_NO] [- Markus -](https://osu.ppy.sh/users/8414284)
 | Los Sudacas #GAMERS       | ![][flag_PE] [Arnold24x24](https://osu.ppy.sh/users/2291265), ![][flag_CL] [Kumagai Eri](https://osu.ppy.sh/users/5339515), ![][flag_CO] [Fiorela](https://osu.ppy.sh/users/8065626), ![][flag_CO] [crisco13](https://osu.ppy.sh/users/3562488)

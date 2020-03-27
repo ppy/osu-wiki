@@ -25,10 +25,10 @@ Byte offsets are not included in this table due to variable length values.
 | String | Player name |
 | String | osu! replay MD5 hash (includes certain properties of the replay) |
 | Short | Number of 300s |
-| Short | Number of 100s in standard, 150s in Taiko, 100s in CTB, 200s in mania |
+| Short | Number of 100s in standard, 150s in Taiko, 100s in CTB, 100s in mania |
 | Short | Number of 50s in standard, small fruit in CTB, 50s in mania |
 | Short | Number of Gekis in standard, Max 300s in mania |
-| Short | Number of Katus in standard, 100s in mania |
+| Short | Number of Katus in standard, 200s in mania |
 | Short | Number of misses |
 | Integer | Total score displayed on the score report |
 | Short | Greatest combo displayed on the score report |

@@ -11,9 +11,9 @@ Cette compétition est terminée et a abouti au podium suivant :
 
 | Placing                                                    | Country                                         |
 |------------------------------------------------------------|-------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | ![][flag_KR] **Corée du Sud** |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_TW] **Taïwan**       |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_PL] **Pologne**      |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | ![][flag_KR] **Corée du Sud** |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TW] **Taïwan**       |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PL] **Pologne**      |
 
 ## Calendrier
 
@@ -33,9 +33,9 @@ Pour chaque participant :
 
 | Placing                                                    | Prize(s)                                                                                                                                                                  |
 |------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | Statut de supporter pendant 6 mois + un badge sur le profil + un trophée physique à l'effigie de l'OWC + une tablette graphique [osu!tablet](https://osu.ppy.sh/community/forums/topics/169139) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Statut de supporter pendant 3 mois                                                                                                                                        |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Statut de supporter pendant 1 mois                                                                                                                                        |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | Statut de supporter pendant 6 mois + un badge sur le profil + un trophée physique à l'effigie de l'OWC + une tablette graphique [osu!tablet](https://osu.ppy.sh/community/forums/topics/169139) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Statut de supporter pendant 3 mois                                                                                                                                        |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Statut de supporter pendant 1 mois                                                                                                                                        |
 
 ## Organisateurs
 
@@ -444,8 +444,8 @@ Le graphique suivant montre les équipes qui se sont qualifiées pour les huiti�
     2.  Le responsable d'une équipe, le *capitaine*, doit être spécifié.
 
 2.  Chaque équipe doit représenter un pays. Les joueurs constituant l'équipe doivent provenir de ce pays.
-3.  L'inscription des équipes doit être réalisée par le biais de [ce formulaire](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). Il est impératif de confirmer une équipe en [envoyant un message privé à Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) avec, pour sujet, « OWC Registration ».
-    -   Les capitaines ont la possibilité de modifier leur équipe pendant la phase d'inscription ; il est alors nécessaire de [prévenir la direction](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
+3.  L'inscription des équipes doit être réalisée par le biais de [ce formulaire](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). Il est impératif de confirmer une équipe en [envoyant un message privé à Loctav](https://osu.ppy.sh/home/messages/users/71366) avec, pour sujet, « OWC Registration ».
+    -   Les capitaines ont la possibilité de modifier leur équipe pendant la phase d'inscription ; il est alors nécessaire de [prévenir la direction](https://osu.ppy.sh/home/messages/users/71366).
 
 4.  Tous les participants d'une équipe sont soumis à un contrôle de sécurité par la direction avant d'être officiellement intégrés.
 5.  32 équipes maximum sont autorisées à participer. L'ordre des inscriptions suit la règle du « premier arrivé, premier servi ».

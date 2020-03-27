@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+<!-- TODO: new options exist and haven't been added to this article yet -->
 
 # Options
 
@@ -18,7 +19,7 @@ This section is about your account, language settings, and what updates you want
 
 ### Sign-in
 
-If you are not signed in to the game client, it will automatically open the options menu, prompting you to sign in. You can ignore this by pressing `Esc`, clicking on the back button, or navigating to the song selection screen. By not signing in, the game client will mark you as a "Guest" and you will not be able to fetch online scores, submit scores, or play [Multi](wiki/Multi).
+If you are not signed in to the game client, it will automatically open the options menu, prompting you to sign in. You can ignore this by pressing `Esc`, clicking on the back button, or navigating to the song selection screen. By not signing in, the game client will mark you as a "Guest" and you will not be able to fetch online scores, submit scores, or play [Multi](/wiki/Multi).
 
 If you are a guest, these options will be shown:
 
@@ -236,7 +237,7 @@ This section is about audio related things.
 | --- | --- | --- | --- |
 | `Master` | Controls all aspects. | Slider | `100%` |
 | `Music` | Affects only the music. | Slider | `80%` |
-| `Effect` | Affects things such as hit sounds and in-game sounds. | Slider | `80%` |
+| `Effect` | Affects things such as hitsounds and in-game sounds. | Slider | `80%` |
 | `Ignore beatmap hitsounds` | Favor hitsounds supplied by the current skin instead of the beatmap's included hitsounds. | Button | `Disabled` |
 
 The master, music, and effect volume can be changed elsewhere by pressing `Alt` and scrolling up or down or by pressing `Alt` and pressing `Up` or `Down`.
@@ -323,7 +324,7 @@ If you open the dropdown list for `Confine mouse cursor`, you will be presented 
 
 ![Editor icon](img/editor.jpg "Editor icon")
 
-This section is about the [beatmap editor](/wiki/Beatmap_Editor/).
+This section is about the [beatmap editor](/wiki/Beatmap_Editor).
 
 These options only affect while working inside the beatmap editor or in test mode (test playing a beatmap).
 
@@ -369,8 +370,8 @@ This section is about chat, spectators, multi, and osu!direct.
 | `Discord Rich Presence` | Provides [rich presence data to Discord](/wiki/Guides/Discord_Rich_Presence). | Checkbox | `Enabled` |
 | `Integrate with Yahoo! status display` | Your Yahoo! messenger will show the song you are currently playing or listening to. This needs to be set from the website. | Checkbox | `Disabled` |
 | `Integrate with MSN Live status display` | Your Windows Live Messenger will show the song you are currently playing or listening to. | Checkbox | `Disabled` |
-| `Automatically start osu!direct downloads` | For [osu!supporters](/wiki/osu!supporter/) only. When spectating or multiplaying, the beatmap will be downloaded automatically. | Checkbox | `Enabled` |
-| `Prefer no-video downloads` | For [osu!supporters](/wiki/osu!supporter/) only. osu!direct downloads will be confined to no-video versions of beatmaps. | Checkbox | `Disabled` |
+| `Automatically start osu!direct downloads` | For [osu!supporters](/wiki/osu!supporter) only. When spectating or multiplaying, the beatmap will be downloaded automatically. | Checkbox | `Enabled` |
+| `Prefer no-video downloads` | For [osu!supporters](/wiki/osu!supporter) only. osu!direct downloads will be confined to no-video versions of beatmaps. | Checkbox | `Disabled` |
 
 ### In-Game Chat
 

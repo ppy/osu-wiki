@@ -119,6 +119,8 @@ Used to refer to the group itself or one of its members.
 
 ### BPM
 
+*Main page: [Beats per minute](/wiki/Beatmapping/Beats_per_minute)*
+
 *Short for "beats per minute".*
 
 Represents the number of whole beats in a minute.
@@ -238,6 +240,8 @@ The last object in a comboset can help give the player a little health boost if 
 In osu!catch, once a comboset is completed, the fruit will jump off of the plate.
 
 ### Cookie
+
+*For cookie usage guidelines, see: [Brand identity guidelines](/wiki/Brand_identity_guidelines)*
 
 ![Screenshot of the main menu](img/Intro_static.jpg "The cookie is typically used to describe the circular osu! logo which appears at the very start of the game, and refers to its shape.")
 
@@ -367,20 +371,24 @@ More than one guest creator is allowed to contribute to a beatmapset, including 
 
 ## H
 
-### Hit Sound
+### Hitsound
 
-Hit sounds are the sounds that osu! plays in response to user input when completing one of the hit objects in the game. This is in contrast to the underlying music and sounds created by the user interface.
+Hitsounds are the sounds that osu! plays in response to user input when completing one of the hit objects in the game. This is in contrast to the underlying music and sounds created by the user interface.
 
-Hit sounds are used to provide an auditory feedback mechanism to the player to help them judge their timing. These are complementary to approach circles and spacing which are the visual mechanisms used to communicate timing information.
+Hitsounds are used to provide an auditory feedback mechanism to the player to help them judge their timing. These are complementary to approach circles and spacing which are the visual mechanisms used to communicate timing information.
 
-There are 4 types of hit sounds:
+There are 4 types of hitsounds:
 
 - *(normal)* (used when none of the below are used)
 - whistle
 - clap
 - finish
 
-These are added to make the hit sounds sound more expressive and let the player feel more like they are part of the music. osu! provides a wide array of hit sounds (eight in the stable release, since upgraded to twelve). Though, creators can go further add up to 24 more. Sliders also have ambient sound effects when they are being performed successfully, including a recurrent ticking sound which matches the beat.
+These are added to make the hitsounds sound more expressive and let the player feel more like they are part of the music. osu! provides a wide array of hitsounds (eight in the stable release, since upgraded to twelve). Though, creators can go further add up to 24 more. Sliders also have ambient sound effects when they are being performed successfully, including a recurrent ticking sound which matches the beat.
+
+### Hype
+
+Unranked beatmaps gain exposure by receiving `Hype` posts on their discussion threads. These posts can only be made in the `General (All difficulties)` tab of a [beatmap discussion](/wiki/Beatmap_Discussion). A beatmap needs 5 hypes before it is elligible for nomination.
 
 ## I
 
@@ -418,7 +426,7 @@ Keep in mind that overuse or misuse of kiai can be disorienting! Thus [creators]
 
 ### Kudosu!
 
-*For a guide on rewarding kudosu!, see: [Beatmap Discussion/Kudosu!](/wiki/Beatmap_Discussion#kudosu!)
+*For a guide on rewarding kudosu!, see: [Beatmap Discussion/Kudosu!](/wiki/Beatmap_Discussion#kudosu!)*
 
 ![Kudosu Durp](img/Kudosu-Durp.png "Kudosu Durp")
 
@@ -524,7 +532,7 @@ Activities are shown either at [Works In Progress/Help](https://osu.ppy.sh/commu
 NC has two meanings:
 
 1. Short for *new combo*, a modding term to suggest that a beat needs to be the start of a new combo.
-2. An abbreviation for the [Nightcore mod](//wiki/Game_Modifiers#nightcore), a variant of the [Double Time mod](/wiki/Game_Modifiers#double-time) but increases the pitch of the music and adds in a consistent bass drum beat to the music.
+2. An abbreviation for the [Nightcore mod](/wiki/Game_Modifiers#nightcore), a variant of the [Double Time mod](/wiki/Game_Modifiers#double-time) but increases the pitch of the music and adds in a consistent bass drum beat to the music.
 
 ### NM
 
@@ -719,7 +727,7 @@ These are categorized under three names:
 - Soft
 - Drum
 
-Inside each categories has these four hit sounds:
+Inside each categories has these four hitsounds:
 
 - *(normal)* (the sound when none of the below is used)
 - whistle

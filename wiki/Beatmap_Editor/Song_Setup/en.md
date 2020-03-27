@@ -1,4 +1,4 @@
-# Song Setup
+# Song setup window
 
 Song Setup is the fourth section of the [Beatmap Editor](/wiki/Beatmap_Editor). It contains metadata and general beatmap configuration settings.
 
@@ -78,9 +78,9 @@ The common notation to represent a difficulty setting and its value is the setti
 
 HP Drain Rate, commonly abbreviated as HP, determines the rate of health recovery from good hit scores and health punishment from bad hit scores. The value ranges from 0 to 10; higher HP values will give lower health recovery with higher health punishment.
 
-In osu!standard and osu!catch, this also affects the [Passive HP](/wiki/Passive_HP) (the constant rate at which HP decreases, except during the [Breaks](/wiki/Breaks).
+In osu!standard and osu!catch, this also affects the [Passive HP](/wiki/Glossary#life-bar) (the constant rate at which HP decreases, except during the [Breaks](/wiki/Breaks).
 
-*Note: More HP is recovered with [Geki and Katu](/wiki/Score/#osu) hit scores, which can be given from the last hit object in a combo.*
+*Note: More HP is recovered with [Geki and Katu](/wiki/Score#osu) hit scores, which can be given from the last hit object in a combo.*
 
 ### Circle Size
 
@@ -152,15 +152,15 @@ While Half Time and Double Time do not change the actual OD value, the speed's e
 
 ## Audio
 
-![Two screenshots of the Audio tab. They vary based on defined hit sound and volume settings.](img/SS_Audio.jpg "The Audio section. The right is shown if the beatmap contains custom timing on volume settings.")
+![Two screenshots of the Audio tab. They vary based on defined hitsound and volume settings.](img/SS_Audio.jpg "The Audio section. The right is shown if the beatmap contains custom timing on volume settings.")
 
 ### Default Sample Settings
 
-Configuration for hit sounds. Using this will apply globally over the entire beatmap; however, using the [timing](/wiki/Timing) sections (`F6`), the creator can change both hit sound sets or volume individually through timing points. `Sample Set Selection` and the `Sample Set Volume` will be inaccessible if there are any timing-sensitive volume adjustments used in the beatmap. Clicking on the `Reset Settings` button will remove all the custom timing volume adjustments.
+Configuration for hitsounds. Using this will apply globally over the entire beatmap; however, using the [timing](/wiki/Timing) sections (`F6`), the creator can change both hitsound sets or volume individually through timing points. `Sample Set Selection` and the `Sample Set Volume` will be inaccessible if there are any timing-sensitive volume adjustments used in the beatmap. Clicking on the `Reset Settings` button will remove all the custom timing volume adjustments.
 
 #### Sample Set Selection
 
-Select to use the `Normal`, `Soft`, or `Drum` built-in sample sets globally. It is possible to [enable custom overrides](/wiki/custom_sample_overrides) to use hit sound files inside the beatmap's folder first for custom hit sounds.
+Select to use the `Normal`, `Soft`, or `Drum` built-in sample sets globally. It is possible to [enable custom overrides](/wiki/custom_sample_overrides) to use hitsound files inside the beatmap's folder first for custom hitsounds.
 
 #### Sample Set Volume
 
@@ -172,7 +172,7 @@ Clicking on those buttons to test out how the sample set sounds. Four buttons ar
 
 ### Misc. Toggles
 
-The `Samples match playback rate (for fully-hitsounded maps)` checkbox will adjust the hit sounds' pitch accordingly to match the speed modifiers (both in the editor and in-game). Unchecking this will allow the hit sounds to play at its own preset pitch.
+The `Samples match playback rate (for fully-hitsounded maps)` checkbox will adjust the hitsounds' pitch accordingly to match the speed modifiers (both in the editor and in-game). Unchecking this will allow the hitsounds to play at its own preset pitch.
 
 ## Colours
 
@@ -235,7 +235,7 @@ You can, however, include the skin elements inside the beatmap folder. As most c
 
 In osu!standard, hit objects will automatically stack if they are both placed in the same spot while being close in-time. This is to help players see hit objects that overlap each other.
 
-Moving the slider towards the right will space out the "closeness" of hit objects in-time before stacking will occur. [Rules](/wiki/rc_osu!/#gameplay) dictate that if `Stack Leniency` is set so that stacking no longer occurs, the creator must manually offset the hit objects. This option is best left as is to its default value of `7`.
+Moving the slider towards the right will space out the "closeness" of hit objects in-time before stacking will occur. [Rules](/wiki/rc_osu!#gameplay) dictate that if `Stack Leniency` is set so that stacking no longer occurs, the creator must manually offset the hit objects. This option is best left as is to its default value of `7`.
 
 *Notice: Stacked hit circles in osu!standard will move towards the point where the stacking occurs.*
 

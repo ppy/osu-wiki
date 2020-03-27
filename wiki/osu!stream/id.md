@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 <img src="Osu!stream.jpeg" title="osu!stream" alt="osu!stream" width="300" />
 
 # Perkenalan
@@ -100,7 +104,7 @@ Warna latarnya yaitu Hijau.
 <img src="Normal.jpg" title="fig:Right|Stream mode" alt="Right|Stream mode" width="200" /> **Tingkat Kesulitan: Easy ("Stream Down!" dari Normal) ~ Normal (titik permulaan) ~ Hard ("Stream Up!" dari Normal)**
 Mode Stream adalah penerapan gameplay baru yang dikhususkan untuk osu!stream. Pada mode ini, pemain akan memulai permainan dengan lifebar yang telah terisi setengah dengan tingkat kesulitan Normal. Pemain akan ditugaskan untuk mengisi lifebar untuk memicu "Stream Up!", yang pada dasarnya meningkatkan tingkat kesulitan pada beatmap tersebut (dengan objek yang dikenai menjadi lebih banyak) namun tidak sesulit mode Expert. Ketika pemain mendapatkan "Stream Up!", pemain akan mendapatkan lifebar (tahap 3/tahap 2) dan "Stream Down!" akan terjadi apabila lifebar (tahap 3/tahap 2) habis, lalu tingkat kesulitan akan menurun dan lifebar akan terisi setengah penuh. Singkatnya, kamu memulai permainan diantara Easy dan Hard.
 
-Perhatikan bahwa kamu **harus mendapatkan nilai A (akurasi &gt;80%) di mode ini untuk membuka mode Expert dari lagu tersebut**. Akurasi lebih rendah dari 80% akan dihitung sebagai B, walau kamu telah mendapatkan *full combo* (dalam kasus ini kamu akan mendapatkan B).
+Perhatikan bahwa kamu **harus mendapatkan nilai A (akurasi >80%) di mode ini untuk membuka mode Expert dari lagu tersebut**. Akurasi lebih rendah dari 80% akan dihitung sebagai B, walau kamu telah mendapatkan *full combo* (dalam kasus ini kamu akan mendapatkan B).
 
 Warna latarnya yaitu Hijau (Easy), Biru (Normal) dan Merah Keunguan (Hard).
 
@@ -216,7 +220,7 @@ Tidak seperti osu! standar, sistem lifebar di osu!stream memiliki aturan yang be
 
 Pada mode Easy, **lifebar tidak digunakan sama sekali**.
 
-<img src="STREAM UP!.jpg" title="fig:Contoh &quot;Stream Up! dari Normal" alt="Contoh &quot;Stream Up! dari Normal" width="200" /> Pada **Mode Stream** , pemain diberikan **tiga lifebar dan pemain memulai dengan lifebar tahap 2 yang terisi setengah penuh**. Lifebar pemain akan (turun/naik) ke tahap berikutnya dengan cara mendapatkan (Stream Up!/Stream Down!) dengan (mengisi penuh lifebar/mengosongkan lifebar). Setelah tulisan ditampilkan, permainan akan menampilkan animasi di latar yang akan (menaikkan/menurukan) tingkat kesulitan dan kamu akan menapatkan lifebar terisi setengah penuh pada tahap baru. Apabila pemain mendapatkan "Stream Down!", pemain akan diberikan kekebalan sementara (dikarenakan lifebar pada tahap tersebut sudah kosong) sampai animasi penurunan tingkat kesulitan ditampilkan dan lifebar tersebut akan digantikan dengan lifebar (setengah penuh) baru.
+<img src="STREAM UP!.jpg" title="fig:Contoh Stream Up! dari Normal" alt="Contoh Stream Up! dari Normal" width="200" /> Pada **Mode Stream** , pemain diberikan **tiga lifebar dan pemain memulai dengan lifebar tahap 2 yang terisi setengah penuh**. Lifebar pemain akan (turun/naik) ke tahap berikutnya dengan cara mendapatkan (Stream Up!/Stream Down!) dengan (mengisi penuh lifebar/mengosongkan lifebar). Setelah tulisan ditampilkan, permainan akan menampilkan animasi di latar yang akan (menaikkan/menurukan) tingkat kesulitan dan kamu akan menapatkan lifebar terisi setengah penuh pada tahap baru. Apabila pemain mendapatkan "Stream Down!", pemain akan diberikan kekebalan sementara (dikarenakan lifebar pada tahap tersebut sudah kosong) sampai animasi penurunan tingkat kesulitan ditampilkan dan lifebar tersebut akan digantikan dengan lifebar (setengah penuh) baru.
 
 Pada mode Expert **pemain hanya menggunakan 1 lifebar**.
 

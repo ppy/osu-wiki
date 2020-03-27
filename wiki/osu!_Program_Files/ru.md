@@ -5,7 +5,7 @@ outdated_since: cf41ce8611b21171619b93d9c57aa61f95270db7
 
 # osu! Program Files
 
-![Содержимое папки osu!](Osu!sys.jpg "Содержимое папки osu!")
+![Содержимое папки osu!](img/osu!-program-files.png "Содержимое папки osu!")
 
 ## Расположение
 
@@ -145,7 +145,7 @@ outdated_since: cf41ce8611b21171619b93d9c57aa61f95270db7
 
 3.  Осмотрите настройки. Выберите тип архивации ".zip" (не .7z, .rar) и переименуйте вручную расширение папки в .osz.
 
-    Amigo Fiesta.zip -&gt; Amigo Fiesta.osz, метод архивации: ".zip"
+    Amigo Fiesta.zip -> Amigo Fiesta.osz, метод архивации: ".zip"
 
 4.  Запустите архивацию. Будет создан файл .osz с отличительным значком osu!.
 5.  Смыть, повторить. Для скинов используйте расширение .osk.

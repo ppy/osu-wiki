@@ -18,7 +18,7 @@ In osu!standard, accuracy is calculated by weighting the judgement gained from e
 
 Reference for one hit circle:
 
-```text
+```
 300 -> 300 / 300 = 1   = 100.00%
 100 -> 100 / 300 = 1/3 =  33.00%
 50  ->  50 / 300 = 1/6 =  16.67%

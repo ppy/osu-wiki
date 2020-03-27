@@ -2,7 +2,7 @@
 needs_cleanup: true
 ---
 
-# Help Centre
+# Help centre
 
 Having trouble with something? We're here to help! Check out some solutions to common issues in the sidebar to the left of your screen.
 
@@ -76,6 +76,7 @@ If you remember your account's attached email address, or think you do, try visi
 If you have lost your account's password and are not receiving any password recovery emails, or you really cannot remember what email address you were using, please contact us at [accounts@ppy.sh](mailto:accounts@ppy.sh). Any information you have about your account (your username, any screenshots that show you signed in to the client, past transactions through the store or supporter payments, etc.) will be helpful!
 
 Lastly, we are aware that some providers do not accept automated emails from us. If you are using any of these providers, please contact us by mail and we'll change your email address for you:
+
 - `att.net`
 - `bellsouth.net`
 - `free.fr`
@@ -102,7 +103,7 @@ If you are only after minor capitalization or grammar/spelling changes, you can 
 
 If a player has not signed in for at least 6 months and has no plays, their username may be reclaimed via the [osu!store player name change page](https://osu.ppy.sh/store/products/32) for a standard fee associated with username changes.
 
-For every 500 plays an account has across all game modes, an additional year (365 days) will be added to the time before that user's name becomes available. This is to prevent people from stealing the usernames of active or recently retired players.
+If that player does have any plays across all game modes, a [non-linear function](https://www.desmos.com/calculator/b89siyv9j8 "Desmos graph") is used to calculate how much extra time is added to those 6 months. This is to prevent people from stealing the usernames of active or recently retired players.
 
 #### Is it possible to change my name back or revert to my old username?
 
@@ -254,13 +255,12 @@ If you see this error when you try to open osu! or its updater, it means you del
 
 Here is a collection of common fonts used in different versions of Windows and across the web which should help:
 
-- [Microsoft core web fonts](http://web.nickshanks.com/fonts/microsoft-core-web-fonts) (especially Arial, Times New Roman, Trebuchet MS, and Verdana)
-- [Tahoma](http://www.boldfonts.com/fonts/Tahoma/)
-- [Windows Live Essentials](http://explore.live.com/windows-live-essentials?os=other) (Segoe UI)
-- [Powerpoint 2007 Viewer](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=048dc840-14e1-467d-8dca-19d2a8fd7485&displaylang=en&pf=true) (Cleartype family--Calibri, Consolas, Corbel, ... Nothing in osu! or your system depends on these, but these fonts are awesome! Download now gogo!)
-- [Microsoft JhengHei](http://www.microsoft.com/download/en/details.aspx?DisplayLang=en&id=12072) (微軟正黑體) (Traditional Chinese UI font)
+- [Microsoft core web fonts](https://web.archive.org/web/20020124085641/http://www.microsoft.com/typography/fontpack/default.htm) (especially Arial, Times New Roman, Trebuchet MS, and Verdana)
+- [Tahoma](https://freefontsfamily.com/tahoma-font-free)
+- [Windows Live Essentials](https://support.microsoft.com/en-us/help/2434419/windows-live-essentials-2011) (Segoe UI)
+- [Microsoft JhengHei](https://microsoft.com/en-us/download/details.aspx?&id=12072) (微軟正黑體) (Traditional Chinese UI font)
 
-See [this topic](http://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a) in Microsoft Answers for some more detailed advice, and other options on getting them back.
+See [this topic](https://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a) in Microsoft Answers for some more detailed advice, and other options on getting them back.
 
 #### Some of my beatmaps are missing!
 
@@ -312,7 +312,7 @@ Playing the game or doing something else will let the client catch up in the bac
 
 #### What is this white trail or smoke-like line behind my cursor?
 
-**This is a special feature called _smoke_ and can be used to doodle on your playfield for fun. Anyone who is spectating you can see the things you draw as well.**
+**This is a special feature called *smoke* and can be used to doodle on your playfield for fun. Anyone who is spectating you can see the things you draw as well.**
 
 The default keybinding for this feature is `C`, and it will work for as long as you hold the button down. You can rebind it at any time in the `osu! Standard Mode` section of the `Change keyboard bindings` options dialog.
 
@@ -368,7 +368,7 @@ If you were denied a score due to technical reasons or whatever else, the best y
 
 #### The notes seem out of sync or out of time with the music!
 
-**This can be due to sound processing software running on your machine, such as _Razer Surround Audio_. It could also be due to your `Universal Offset` being set incorrectly.**
+**This can be due to sound processing software running on your machine, such as *Razer Surround Audio*. It could also be due to your `Universal Offset` being set incorrectly.**
 
 Try closing any extra programs which alter or influence the sound coming out of your computer. If this doesn't help, you could try to adjust your `Universal Offset`.
 
@@ -416,7 +416,7 @@ An easy solution to this is to try unplugging your USB hub briefly. If your lag 
 
 ##### Are you running osu! in windowed or borderless mode?
 
-**Both windowed and borderless mode introduce a _considerable_ amount of input delay. Fullscreen is optimal for the smoothest gameplay experience.**
+**Both windowed and borderless mode introduce a *considerable* amount of input delay. Fullscreen is optimal for the smoothest gameplay experience.**
 
 ##### Does your game freeze up for only a moment or so?
 
@@ -440,7 +440,7 @@ This is a completely harmless (albeit ugly!) effect that happens because the gam
 
 You can also try playing in Windowed or Borderless mode, which will use your operating system's native VSync instead.
 
-Turning on VSync or playing in Windowed or Borderless mode will introduce a _slight_ amount of input lag, unfortunately. For most people, this will not cause significant issue.
+Turning on VSync or playing in Windowed or Borderless mode will introduce a *slight* amount of input lag, unfortunately. For most people, this will not cause significant issue.
 
 Later NVidia graphics cards have a global option in the NVidia Control Panel to set the global refresh rate to a setting called 'Fast', which will also fix this issue.
 
@@ -567,7 +567,7 @@ Ghosting is a somewhat complex topic, but essentially boils down to issues with 
 
 Most newer keyboards will allow up to **6** keys to be held down at once, albeit in random combinations.
 
-You can test your keyboard's ghosting limits by using [Microsoft's Anti-Ghosting utility](http://www.microsoft.com/appliedsciences/content/projects/AntiGhostingExplained.aspx).
+You can test your keyboard's ghosting limits by using [drakeirving's Anti-Ghosting utility](https://drakeirving.github.io/MultiKeyDisplay).
 
 While the Ranking Criteria for osu!mania tries to alleviate the issue of ghosting by not allowing more than 6 notes to be active at any one time, you may encounter this issue if your keyboard is older.
 
@@ -602,7 +602,7 @@ To enable raw input, follow these steps:
 
 On most Wacom tablets, this is done via the `Mapping` tab of the `Wacom Tablet Properties` application.
 
-![Wacom Tablet Properties screen showing Mapping options](Tabarea.png "Interface for changing tablet area on Wacom devices")
+![Wacom Tablet Properties screen showing Mapping options](img/Tabarea.png "Interface for changing tablet area on Wacom devices")
 
 You will need to consult your tablet's manufacturer to find out how to set your tablet area for your particular peripheral.
 
@@ -622,13 +622,15 @@ You may also wish to check for any jammed or damaged buttons on your peripherals
 
 **You will need to extract the pack into your Songs directory.**
 
-Most beatmap packs come in a `.rar` file format, which means they are a compressed archive of beatmap files. You will need to extract them using your utility of choice (we recommend [7-Zip](http://www.7-zip.org/)) to your Songs directory first.
+Most beatmap packs come in a `.rar` file format, which means they are a compressed archive of beatmap files. You will need to extract them using your utility of choice (we recommend [7-Zip](https://7-zip.org)) to your Songs directory first.
 
 Once all of the `.osz` files within the pack are in the Songs directory, hitting `F5` at the song selection menu will refresh the game's beatmap cache and load your new songs into the game.
 
 ---
 
 ## Website
+
+### Common issues
 
 #### I have not received a reply to my support ticket and it's been over 2 weeks!
 
@@ -660,7 +662,7 @@ In the event that another user is harassing you via private messages either on t
 
 1. Click the Options menu button in-game
 2. Type 'ignore' to filter the options listing to the "Chat Ignore List" section.
-3. Add the offending user's username to the list, separating each new user with a space, and replacing any spaces in their name with underscores (A user called _The Gatekeeper_ becomes _The\_Gatekeeper_ for example).
+3. Add the offending user's username to the list, separating each new user with a space, and replacing any spaces in their name with underscores (A user called *The Gatekeeper* becomes *The\_Gatekeeper* for example).
 4. You are done!
 
 You'll no longer see public chat messages from any users on that list, or receive private messages from them.
@@ -738,7 +740,7 @@ If you have been inactive for a lengthy period of time and your statistics are s
 
 **Simply click **`Download`** in the top bar of any page on the [official osu! website](https://osu.ppy.sh/home).**
 
-Alternatively, [click here](https://osu.ppy.sh/p/download) for a direct link to the download page.
+Alternatively, [click here](https://osu.ppy.sh/home/download) for a direct link to the download page.
 
 #### The game installer throws an error or does not work when I use it!
 
@@ -751,7 +753,7 @@ Alternatively, [click here](https://osu.ppy.sh/p/download) for a direct link to 
 
 **Try to install the 64-bit version of the Microsoft .NET Framework.**
 
-This should come with the osu! installer, but in case it doesn't, [download it here](http://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe).
+This should come with the osu! installer, but in case it doesn't, [download it here](https://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe).
 
 ### Registration
 
@@ -778,6 +780,8 @@ Tor or networks associated with the Tor relay will not connect to the game serve
 ---
 
 ## Beatmapping and Editor
+
+### Common issues
 
 #### How do I upload/update my map?
 
@@ -904,7 +908,7 @@ Otherwise, please contact [store@ppy.sh](mailto:store@ppy.sh) for further assist
 
 #### My computer doesn't recognize the osu!go when I plug it in!
 
-**This is a known issue with one of the very first shipments of the _osu!go_ USB sticks, and comes down to the device not being formatted in a manner that works with all PCs.**
+**This is a known issue with one of the very first shipments of the *osu!go* USB sticks, and comes down to the device not being formatted in a manner that works with all PCs.**
 
 Despite how complex this may sound, it's actually very easy to fix.
 
@@ -912,11 +916,11 @@ First off, [download the package containing the osu!go default files](https://as
 
 ##### Formatting the osu!go under Windows
 
-**Follow these steps to prepare your _osu!go_ device under Windows:**
+**Follow these steps to prepare your *osu!go* device under Windows:**
 
 1. Open the `Start` menu.
 2. Type `disk management` into the search bar. This will bring up the `Create and manage hard disk partitions` section of the Control Panel.
-3. **While in the Disk Management view, make sure to follow these instructions _VERY_ closely and ONLY apply them to the osu!go device.** You can potentially lose data if you fiddle around in this dialog.
+3. **While in the Disk Management view, make sure to follow these instructions *VERY* closely and ONLY apply them to the osu!go device.** You can potentially lose data if you fiddle around in this dialog.
 4. Check to see what state your computer recognizes the device as being in.
 
 #### The osu!go device is present, but in a "RAW" state.
@@ -931,13 +935,13 @@ To fix this, ensure you have the osu!go device selected, and right click on the 
 
 **You will need to partition the device from scratch.**
 
-Please follow [this guide](https://tails.boum.org/doc/first_steps/reset/windows/index.en.html) for details on how to do that.
+Please follow [this guide](https://staging.tails.boum.org/doc/first_steps/reset/windows.en.html) for details on how to do that.
 
 #### I've reformatted the osu!go device and it now shows up in Disk Management.
 
 **You're almost done!**
 
-Unzip the archive we asked you to download earlier (osu!go.zip) into the _osu!go_ drive and you're done!
+Unzip the archive we asked you to download earlier (osu!go.zip) into the *osu!go* drive and you're done!
 
 ##### None of this worked!
 
@@ -946,6 +950,8 @@ If you encounter any issues with this process, please send an email to [store@pp
 ---
 
 ## Troubleshooting
+
+### Common issues
 
 #### What are 'log files' and how do I make them?
 

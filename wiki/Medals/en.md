@@ -2,6 +2,7 @@
 needs_cleanup: true
 outdated: true
 ---
+<!-- TODO: new types of medals have been added but aren't listed here yet -->
 
 # Medals
 
@@ -33,7 +34,7 @@ The **Skill** medals are currently divided into three groups: Combo, High Ranker
 
 The Combo medals can be obtained by gaining a specific [combo](/wiki/combo) in osu!standard and can be completed with any one song. Achieving the same combo count in [osu!taiko](/wiki/osu!taiko), [osu!catch](/wiki/osu!catch), or [osu!mania](/wiki/osu!mania) mode will not result in getting the medal.
 
-For the 1,000 and 2,000 combo medals, you should find approved beatmaps instead of ranked beatmaps. However, **do not search for or play unapproved beatmaps!**
+For the 1,000 and 2,000 combo medals, you should look for sufficiently long beatmaps. **If the beatmap is not in the Ranked or Approved state, the medals will not be granted.**
 
 ---
 
@@ -41,7 +42,7 @@ The High Ranker medals can be obtained by reaching a certain global ranking posi
 
 ---
 
-The Star-based achivements are split into two groups, *Pass* and *S*. The *Pass* medals can be obtained by passing any map of a certain star difficulty. The *S* medals will be obtained if you pass the map with a S ranking whilst also having an [FC](/wiki/FC). The difficulty of the map will round to the nearest star difficulty and will give the medal for what it rounds to. You can pass or get a S on a map with difficulty increasing mods or difficulty decreasing mods. The map must also be ranked to be able to earn a medal.
+The star-based medals are split into two groups, *Pass* and *S*. The *Pass* medals can be obtained by passing a beatmap of a certain star difficulty (excluding EZ/NF/HT). The *S* medals will be granted if you meet the conditions of the *Pass* medal with a *S* ranking whilst also having an [FC](/wiki/FC). The difficulty of the beatmap will be rounded to the nearest star difficulty and will grant the medal for what it is rounded to. For example, if you have not earned the 6/7 star medals but cleared 7.8 stars difficulty, you will only receive a 7 star medal. You can also use difficulty increasing mods, such as HR/DT (based on increased stars). The beatmap must also be in the Ranked state to grant a medal.
 
 ## Dedication
 

@@ -1,6 +1,6 @@
-# Objects
+# Storyboard objects
 
-![SB object/sprite call](SBS_Sprite.jpg "SB object/sprite call")
+![SB object/sprite call](img/SBS_Sprite.jpg "SB object/sprite call")
 
 *For objects in [osu!standard](/wiki/Game_Modes/osu!) and [Beatmapping](/wiki/Beatmapping), see: [Hit Objects](/wiki/Hit_Objects)*
 

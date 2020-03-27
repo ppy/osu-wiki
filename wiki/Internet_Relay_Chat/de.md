@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Was ist IRC?
 
 [IRC](http://de.wikipedia.org/wiki/Internet_Relay_Chat) ist ein Chat-System, dem es einen möglich macht, mit anderen Usern sich in einem Channel zu unterhalten. Hierfür gibt es verschiedene Applikationen und Add-Ons.<img src="Example-irc-client.png" title="fig:Example-irc-client.png" alt="Example-irc-client.png" width="700" />
@@ -51,7 +55,7 @@ In Channels mit wenigeren Usern sind diese Meldungen nicht sonderlich bemerkbar,
 
 | Client                                    | Kommandos                                                                                                                                                                                                                                                                            |
 |-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| AndChat (Android App)                     | "Settings" -&gt; "Messages & Rooms" -&gt; "Hide join/part/quit Messages" aktivieren                                                                                                                                                                                                  |
+| AndChat (Android App)                     | "Settings" -> "Messages & Rooms" -> "Hide join/part/quit Messages" aktivieren                                                                                                                                                                                                  |
 | [HexChat](http://hexchat.github.io/)      | a. Rechtsklick auf den Channel, den ihr ändern wollt, dann unter Einstellungen "Hide Join/Part Messages"  
 
                                              b. Geht zu den Einstellungen unter » Preferences, under Chatting » General, danach auf "Hide join and part Messages" klicken.                                                                                                                                                         |

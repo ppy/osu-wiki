@@ -1,4 +1,4 @@
-# Scaling BPM on the Ranking Criteria
+# Scaling BPM on the ranking criteria
 
 The Ranking Criteria's rules and guidelines are based around songs of 180 BPM with 4/4 time signatures. This guide clarifies how that scaling works!
 

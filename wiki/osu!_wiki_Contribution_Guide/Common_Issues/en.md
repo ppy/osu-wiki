@@ -1,4 +1,4 @@
-# Common Issues
+# Common issues for wiki contributors
 
 ## Someone told me to use meaningful commit messages!
 

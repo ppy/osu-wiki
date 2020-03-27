@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Global Moderation Team
 
 **GMT** 로 흔히 알려져 있는 **Global Moderation Team** (이전에 Global Mod Team, Administrators 또는 "GreenBAT" 등으로 불려짐)은 주로 플레이어에 대한 중재, 관리자들과 커뮤니티에 관련된 사안에 중점을 두고 활동하는 멤버들로 이루어진 팀입니다.

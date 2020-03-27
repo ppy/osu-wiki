@@ -1,7 +1,5 @@
 # 2008
 
-*Halaman utama: [Sejarah osu!](/wiki/History_of_osu!).*
-
 ![](img/2008.jpg)
 
 ## Januari
@@ -30,7 +28,7 @@ Bukan lelucon, Bancho sudah selesai dan siap digunakan bulan ini, dan begitu jug
 
 ![](img/taiko.png "Taiko Mod")
 
-Mode [Taiko](/wiki/Taiko) pertama kali memperlihatkan eksistensinya di bulan ini, beserta tambahan utama lainnya, dukungan skrip storyboard `.osb`. Multi-part slider dan pesan pribadi dalam obrolan juga tersedia.
+Mode [Taiko](/wiki/Game_Modes/osu!taiko) pertama kali memperlihatkan eksistensinya di bulan ini, beserta tambahan utama lainnya, dukungan skrip storyboard `.osb`. Multi-part slider dan pesan pribadi dalam obrolan juga tersedia.
 
 ## Juni
 
@@ -38,7 +36,7 @@ Pencapaian utama dalam sejarah osu! dicapai dengan penambahan mode permainan [Mu
 
 ## Juli
 
-Editor, multiplayer, storyboarding, opsi grafis, dan konsol obrolan (chat console) semuanya menerima banyak peningkatan pada bulan ini. Layar opsi menerima layout baru, dan [pengaturan kunci kustom (custom key bindings)](/wiki/Keyboard_Bindings) diperkenalkan.
+Editor, multiplayer, storyboarding, opsi grafis, dan konsol obrolan (chat console) semuanya menerima banyak peningkatan pada bulan ini. Layar opsi menerima layout baru, dan [pengaturan kunci kustom (custom key bindings)](/wiki/Options/Keyboard_Bindings) diperkenalkan.
 
 ## Agustus
 
@@ -46,7 +44,7 @@ Melanjutkan tren yang ditetapkan pada bulan Juli, akan sulit sekali menemukan as
 
 Skor pribadi online terbaik (Personal online best scores) ditambahkan ke menu pemilihan lagu, permintaan jangka panjang yang akhirnya terpenuhi. Proses ini membutuhkan beberapa pengoptimalan database yang cukup besar. Perbaikan grafis dilakukan untuk layar peringkat, dan berbagai elemen skin bawaan, dengan tujuan untuk membuat skin lebih bersih, jernih, dan rapih dari sebelumnya. Tampilan slider tick sprite (10/30) diimplementasikan. Perombakan terlihat dalam pengaturan pertandingan multiplayer, yang memungkinkan kontrol host (pembuat ruang) dapat ditransfer kepadap pemain lain. Banyak perintah obrolan baru ditambahkan demi kenyamanan pengguna.
 
-Status peringkat baru "![](img/fire.gif) [approved](/wiki/approved)" ditambahkan untuk map yang memiliki kualitas tinggi tetapi melebihi panjang maksimum lagu atau tingkat kesulitan (atau lainnya) dalam beberapa cara. Map yang memiliki status ini tidak menambah skor pemain, tetapi tetap memiliki papan peringkat (scoreboard) dan bertindak sama seperti map yang berstatus ![](img/heart.gif) [ranked](/ranked).
+Status peringkat baru "![](img/fire.gif) [approved](/wiki/Approved)" ditambahkan untuk map yang memiliki kualitas tinggi tetapi melebihi panjang maksimum lagu atau tingkat kesulitan (atau lainnya) dalam beberapa cara. Map yang memiliki status ini tidak menambah skor pemain, tetapi tetap memiliki papan peringkat (scoreboard) dan bertindak sama seperti map yang berstatus ![](img/heart.gif) [ranked](/wiki/Ranked).
 
 ## September
 
@@ -62,7 +60,7 @@ Kemajuan pertama tercatat dengan pengimplementasian OpenGL dan debut mode permai
 
 ![](img/fruit_ryuuta.png "Catcher mode Catch the Beat")
 
-Bulan November, kita dapat melihat pengenalan mode permainan baru, [Catch the Beat](/wiki/Catch_the_Beat). Dukungan OpenGL juga memulai debutnya di bulan ini, implementasi ini memungkinkan osu! untuk berjalan di sebagian besar sistem. Fitur baru lainnya dalam pembaruan ini termasuk dukungan daftar teman dalam game, tab pesan pribadi, panduan tutorial/[offset wizard](/wiki/Options/Offset_Wizard), dan osu!direct, sebuah pengunduh beatmap dalam game untuk osu!supporter.
+Bulan November, kita dapat melihat pengenalan mode permainan baru, [Catch the Beat](/wiki/Game_Modes/osu!catch). Dukungan OpenGL juga memulai debutnya di bulan ini, implementasi ini memungkinkan osu! untuk berjalan di sebagian besar sistem. Fitur baru lainnya dalam pembaruan ini termasuk dukungan daftar teman dalam game, tab pesan pribadi, panduan tutorial/[offset wizard](/wiki/Options/Offset_Wizard), dan osu!direct, sebuah pengunduh beatmap dalam game untuk osu!supporter.
 
 Karena pemain yang memiliki beatmap dalam jumlah besar selalu mengeluhkan tentang waktu muat osu!, peppy menghabiskan hari-harinya untuk mengoptimalkan apa pun yang dapat ia optimalkan, hasilnya peningkatkan kinerja yang hampir tak terukir dalam skala (let's just say somewhere over 9,000). Waktu muat lebih dari satu menit telah dioptimalkan menjadi hanya sekian milidetik.
 
@@ -72,7 +70,7 @@ Bulan terakhir di tahun 2008, banyak pengembangan terjadi di osu!. Pada Natal ke
 
 Pratinjau thumbanail dan audio ditambahkan ke daftar beatmap online, membuat penelurusan beatmap yang ingin Anda mainkan jauh lebih mudah.
 
-Peristiwa lain yang patut diperhatikan adalah skor Catch the Beat [dihapuskan](https://osu.ppy.sh/forum/viewtopic.php?f=9&t=7996) selama bulan ini. Sejak itu, jumlah pengali dari mod (score multiplier) telah diubah dalam mode Catch the Beat juga.
+Peristiwa lain yang patut diperhatikan adalah skor Catch the Beat [dihapuskan](https://osu.ppy.sh/community/forums/topics/7996) selama bulan ini. Sejak itu, jumlah pengali dari mod (score multiplier) telah diubah dalam mode Catch the Beat juga.
 
 ## Pesan untuk Masa Depan
 

@@ -161,10 +161,10 @@ This database contains the scores achieved locally.
 | String | Player name |
 | String | Replay MD5 hash |
 | Short | Number of 300's |
-| Short | Number of 100's in osu!Standard, 150's in Taiko, 100's in CTB, 200's in Mania |
+| Short | Number of 100's in osu!Standard, 150's in Taiko, 100's in CTB, 100's in Mania |
 | Short | Number of 50's in osu!Standard, small fruit in CTB, 50's in Mania |
 | Short | Number of Gekis in osu!Standard, Max 300's in Mania |
-| Short | Number of Katus in osu!Standard, 100's in Mania |
+| Short | Number of Katus in osu!Standard, 200's in Mania |
 | Short | Number of misses |
 | Int | Replay score |
 | Short | Max Combo |

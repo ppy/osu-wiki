@@ -28,9 +28,9 @@ outdated: true
 
 | Placing                                                    | Prizes                                                                                |
 |------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | Саппорт на 6 месяцев, иконка в профиле, титул "Taiko Champion", приз от администрации |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Саппорт на 3 месяца                                                                   |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Саппорт на 1 месяц                                                                    |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | Саппорт на 6 месяцев, иконка в профиле, титул "Taiko Champion", приз от администрации |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Саппорт на 3 месяца                                                                   |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Саппорт на 1 месяц                                                                    |
 
 ## Персонал
 
@@ -90,7 +90,7 @@ outdated: true
         -   Ваш глобальный ранк в тайко должен быть выше \#8000.
         -   За вами не должно числиться нарушения [правил сообщества](/wiki/Rules) за последние 12 месяцев.
 
-3.  Для регистрации, [отправьте Локтаву сообщение](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) с заголовком "TWC Registration".
+3.  Для регистрации, [отправьте Локтаву сообщение](https://osu.ppy.sh/home/messages/users/71366) с заголовком "TWC Registration".
     1.  В сообщении укажите свой часовой пояс.
     2.  Если ваша заявка одобрена, вы получите подтверждение.
 
