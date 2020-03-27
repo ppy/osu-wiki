@@ -93,7 +93,7 @@ Os seguintes atalhos funcionam em qualquer lugar dentro do jogo:
 
 *Página principal: [Game modifiers](/wiki/Game_Modifiers)*
 
-*Nota: Pressionar o atalho irá ativar ou desativar-los. Você precisa estar dentro do menu dos modificadores de jogo para utilizar esses atalhos*
+*Nota: Pressionar o atalho irá ativar ou desativar-los. Você precisa estar dentro do menu dos modificadores de jogo para utilizar esses atalhos.*
 
 *Nota: Target practice (osu!standard), 1K e 2K (osu!mania), Co-op (osu!mania), e Mirror (osu!mania) não possuem atalhos.*
 
@@ -129,7 +129,7 @@ Os seguintes atalhos funcionam em qualquer lugar dentro do jogo:
 | `Shift` + `Tab` | Mostra ou some com a inferface in-game. |
 | `H` | Mostra ou esconde o placar e a interface do replay (quando estiver vendo um replay ou assistindo outra pessoa via spectate). |
 | `F3` ou `F4` | Ajusta a velocidade do osu!mania (pode ser utilizado perto do começo da gameplay). |
-| `Ctrl` + `R` ou `` ' `` | Tem que ser segurado ligeiramente. Dê um quick retry/recomece o mapa novamente (pula a intro quando recomeçar). |
+| `Ctrl` + `R` ou `` ` `` | Tem que ser segurado ligeiramente. Dê um quick retry/recomece o mapa novamente (pula a intro quando recomeçar). |
 
 ## Modo de replay
 

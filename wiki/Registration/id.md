@@ -10,7 +10,7 @@
    - Untuk kolom username, ada batas maksimal 15 karakter; yang hanya dapat diisi dengan karakter alfanumerik (`a-z`, `A-Z`, `0-9`), garis bawah (`_`), tanda kurung siku (`[` dan `]`), tanda hubung (`-`), dan spasi (` `).
    - Untuk kolom email address, gunakan alamat surel kamu. Alamat surel ini akan digunakan untuk mengatur ulang kata sandi kamu dan mengirimkan kode verifikasi saat diperlukan, jadi pastikan untuk menggunakan alamat surel utama kamu.
    - Untuk kolom password, gunakan kata sandi yang panjangnya minimal 8 karakter.
-3. Setelah mengisi formulir, klik `1. Create my account`. Dan kamu akan secara otomatis masuk menggunakan akun baru yang baru saja kamu buat.
+3. Setelah mengisi formulir, klik `1. Create my account!`. Dan kamu akan secara otomatis masuk menggunakan akun baru yang baru saja kamu buat.
 
 ## Selanjutnya apa?
 
