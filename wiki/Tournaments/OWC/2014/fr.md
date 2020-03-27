@@ -449,8 +449,8 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
         -   Il n'existe aucune distinction joueurs « permanents » / joueurs « remplaçants ».
 
 2.  Chaque équipe doit représenter un pays. Tous les joueurs constituant l'équipe doivent provenir de ce pays, comme doivent l'attester leurs drapeaux dans leur pages de profil.
-3.  L'inscription des équipes doit être réalisée par le biais de [ce formulaire](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). Il est impératif de confirmer une équipe en [envoyant un message privé à Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) avec, pour sujet, « OWC Registration ».
-    -   Les capitaines ont la possibilité de modifier leur équipe pendant la phase d'inscription ; il est alors nécessaire de [prévenir la direction](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
+3.  L'inscription des équipes doit être réalisée par le biais de [ce formulaire](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). Il est impératif de confirmer une équipe en [envoyant un message privé à Loctav](https://osu.ppy.sh/home/messages/users/71366) avec, pour sujet, « OWC Registration ».
+    -   Les capitaines ont la possibilité de modifier leur équipe pendant la phase d'inscription ; il est alors nécessaire de [prévenir la direction](https://osu.ppy.sh/home/messages/users/71366).
     -   Les capitaines recevront un message de confirmation si leur inscription a bien été reçue. Les équipes sont alors placées dans une liste d'attente.
 
 4.  Pour assurer la présence d'équipes sérieuses au sein de la compétition, tous les participants d'une équipe sont soumis à un contrôle de sécurité par la direction avant d'être officiellement intégrés. Ainsi, la direction se réserve le droit de refuser des inscriptions si :

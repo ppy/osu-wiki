@@ -81,7 +81,7 @@ Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taik
     2.  Das Turnier Management wird abhängig von den eingegangen Anmeldungen die Teams erstellen und einen Kapitän eigenständig ernennen, jedoch nur temporär.
     3.  Das zusammengestellte Team kann unter sich entscheiden, wer der Kapitän später werden soll.
 
-2.  Um sich anzumelden, [senden Sie eine PM an Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) mit dem Titel “TWC Registration”.
+2.  Um sich anzumelden, [senden Sie eine PM an Loctav](https://osu.ppy.sh/home/messages/users/71366) mit dem Titel “TWC Registration”.
     1.  Fügen Sie Ihre lokale Zeitzone zum Registrierungs-PM hinzu.
     2.  Sie erhalten eine Bestätigung, dass Ihre Anmeldung erfolgreich angekommen ist. Ihre Anmeldung ist dann in Bearbeitung.
 

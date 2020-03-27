@@ -408,8 +408,8 @@ The osu! World Cup 2014 was run by various community members by distributing the
 3. You must specify a captain who will represent the team.
 4. We do not differ between core players and back-up players
 5. Each team represents a nation. You must form a team with players from the same country and therefore with the same flags on the user profiles.
-6. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “OWC Registration”
-   - Captains may change their setup by [notifying the management](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
+6. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “OWC Registration”
+   - Captains may change their setup by [notifying the management](https://osu.ppy.sh/home/messages/users/71366).
    - You get a confirmation reply in case your registration successfully arrived. Your registration is in pending then.
 7. To ensure valid and serious registrations, any registration and change will be checked by the Tournament Management.
 8. The Tournament Management may reject registrations due to insufficient gameplay abilities.

@@ -457,8 +457,8 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
         1.  Wir unterscheiden nicht zwischen Kern- und Reservespieler.
 
 2.  Jedes Team representiert eine Nation. Sie müssen ein Team zusammenstellen mit Spieler aus demselben Land und daher dieselbe Flagge im Profil haben.
-3.  Für die Teamanmeldungen [müssen Sie dieses Formular ausfüllen](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). Danach verifizieren Sie Ihre Registrierung, in dem Sie [eine persönliche Nachricht an Loctav schicken](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) mit dem Titel “OWC Registration”.
-    -   Kapitäne können ihre Aufstellung durch [das Benachrichtigen ans Management](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) ändern.
+3.  Für die Teamanmeldungen [müssen Sie dieses Formular ausfüllen](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). Danach verifizieren Sie Ihre Registrierung, in dem Sie [eine persönliche Nachricht an Loctav schicken](https://osu.ppy.sh/home/messages/users/71366) mit dem Titel “OWC Registration”.
+    -   Kapitäne können ihre Aufstellung durch [das Benachrichtigen ans Management](https://osu.ppy.sh/home/messages/users/71366) ändern.
     -   Sie bekommen eine Bestätigungsantwort, welches Ihnen mitteilen soll, dass Ihre Anmeldung erfolgreich angekommen ist. Die Registrierung ist dann in Bearbeitung.
 
 4.  Um gültige und ernsthafte Registrierungen zu gewährleisten, wird jede Registrierung und Änderung vom Turnier Management geprüft.

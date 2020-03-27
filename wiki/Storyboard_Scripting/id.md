@@ -10,7 +10,7 @@
 
 ## Spesifikasi Lengkap
 
-Secara garis besar, spesifikasi ini dibuat berdasarkan pada [Spesifikasi Resmi](https://osu.ppy.sh/forum/viewtopic.php?p=12468#p12468) dan pengalaman saat membuat SB yang besar. Ini **bukanlah petunjuk langkah-demi-langkah**, meskipun contoh sederhana telah disediakan. Ini dimaksudkan untuk memberikan penjelasan mendalam mengenai bagaimana SBS diinterpretasikan menjadi berbagai aksi tertentu pada layar osu!
+Secara garis besar, spesifikasi ini dibuat berdasarkan pada [Spesifikasi Resmi](https://osu.ppy.sh/community/forums/topics/1869) dan pengalaman saat membuat SB yang besar. Ini **bukanlah petunjuk langkah-demi-langkah**, meskipun contoh sederhana telah disediakan. Ini dimaksudkan untuk memberikan penjelasan mendalam mengenai bagaimana SBS diinterpretasikan menjadi berbagai aksi tertentu pada layar osu!
 
 [Tolong baca peraturan sebelum membuat SBS.](/wiki/Storyboard_Scripting/General_Rules) Peraturan tersebut akan membantu Anda agar tidak menghadapi kesulitan ke depannya. [Untuk spesifikasi sprite/objek](/wiki/Storyboard_Scripting/Objects) dan [moveset](/wiki/Storyboard_Scripting/Commands).
 
