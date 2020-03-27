@@ -1,6 +1,5 @@
 ---
 layout: main_page
-no_native_review: true
 ---
 
 <div class="wiki-main-page__blurb">
@@ -46,7 +45,7 @@ Seções: ([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Ed
 
 # Mundo de osu!
 
-[Glossario](/wiki/Glossary) • [Torneios](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projetos](/wiki/Projects)
+[Glossário](/wiki/Glossary) • [Torneios](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projetos](/wiki/Projects)
 
 </div>
 <div class="wiki-main-page-panel">

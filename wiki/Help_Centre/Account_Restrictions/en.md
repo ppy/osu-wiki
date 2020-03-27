@@ -90,11 +90,11 @@ There are several reasons why an appeal might be denied.
 
 | Restriction reason | Cooldown duration | Appeal notes |
 | :-- | :-- | :-- |
-| Judgement Error | No cooldown | If found erroneous, no impact on the account. |
+| Judgement error | No cooldown | If found erroneous, no impact on the account. |
 | Multi-account | Permanent (multis) | Main account will be left unrestricted, possibly silenced. |
 | Excessive multi-accounting | 3 months | Appeal terms apply, 1 year tournament ban |
 | Account sharing | 3 months | Appeal terms apply, 1 year tournament ban, and partial rollback |
 | Cheating | 3 months | Appeal terms apply, 1 year tournament ban, and full rollback |
 | Excessive misconduct | Variable | Appeal terms apply. Cooldown will depend on history. |
-| Cheating/Sharing for a tournament | 6 months | Appeal terms apply, appropriate rollback, permanent tournament ban |
+| Cheating/sharing for a tournament | 6 months | Appeal terms apply, appropriate rollback, permanent tournament ban |
 | Subsequent offences | 6 months | Appeal terms apply, appropriate rollback, tournament ban 1 year per offence|
