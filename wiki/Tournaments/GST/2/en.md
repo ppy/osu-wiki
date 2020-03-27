@@ -43,11 +43,13 @@ The Great Singapore Tournament 2 was run by various community members.
 | Organiser | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
 | Administrator | ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498), ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
 | Map selector | ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_US] [Tekkito](https://osu.ppy.sh/users/7075211), ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
-| Referee | ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_KR] [Nopekjk](https://osu.ppy.sh/users/4585186), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608), ![][flag_DK] [Plaiceholder](https://osu.ppy.sh/users/11910867), ![][flag_PH] [samosita](https://osu.ppy.sh/users/6090289), ![][flag_ID] [smh](https://osu.ppy.sh/users/1629553), ![][flag_US] [spaghetti cat](https://osu.ppy.sh/users/8457202), ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
+| Map tester | ![][flag_US] [Tekkito](https://osu.ppy.sh/users/7075211) |
+| Referee | ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498), ![][flag_HK] [Cindergoat](https://osu.ppy.sh/users/10168682), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_TW] [Saisu Riku](https://osu.ppy.sh/users/9834516), ![][flag_US] [moof](https://osu.ppy.sh/users/8457202), ![][flag_KR] [Nopekjk](https://osu.ppy.sh/users/4585186), ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_PL] [zibi](https://osu.ppy.sh/users/11301620) |
 | Streamer | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
-| Commentator | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
+| Commentator | ![][flag_MY] [FaithInOsu](https://osu.ppy.sh/users/10178187), ![][flag_SG] [Loslite](https://osu.ppy.sh/users/6398160), ![][flag_US] [moof](https://osu.ppy.sh/users/8457202), ![][flag_SG] [SeeL](https://osu.ppy.sh/users/5104320), ![][flag_SG] [Wolpis](https://osu.ppy.sh/users/8497340), ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
 | Designer | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
 | Statistician | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
+| Pick'em Developer | ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264) |
 | Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
@@ -630,9 +632,13 @@ Sunday, 30 June 2019:
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
