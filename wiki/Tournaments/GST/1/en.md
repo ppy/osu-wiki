@@ -35,7 +35,7 @@ The Great Singapore Tournament was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
+| Organiser | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
 | Administrator | ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498), ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
 | Map selector | ![][flag_SG] [Ayucchi](https://osu.ppy.sh/users/7823498), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264), ![][flag_US] [Tekkito](https://osu.ppy.sh/users/7075211), ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
 | Referee | ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_KR] [Nopekjk](https://osu.ppy.sh/users/4585186), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608), ![][flag_DK] [Plaiceholder](https://osu.ppy.sh/users/11910867), ![][flag_PH] [samosita](https://osu.ppy.sh/users/6090289), ![][flag_ID] [smh](https://osu.ppy.sh/users/1629553), ![][flag_US] [spaghetti cat](https://osu.ppy.sh/users/8457202), ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
@@ -576,67 +576,51 @@ Sunday, 30 June 2019:
 
 ### General rules
 
-1. This tournament uses double-elimination bracket and single-player format. There are no teams here.
-2. The score system used will be **Score V2**.
-3. The mapset will be announced **every Sunday**, and the categories are NoMod, Hidden, HardRock, DoubleTime, FreeMod, Tiebreaker.
-4. Match schedule is decided by the organisers. Players may ask for a reschedule if the current schedule does not work for them. Each stage of this tournament will last a weekend.
-5. If there are no referees available, the match can be postponed.
-6. If both players gets a tied score on the Tiebreaker, the Tiebreaker will be replayed.
-7. If a player disconnects from the game, the opponent wins the round. The only exception is if the player disconnects during the first ten seconds of the song, in which the round is restarted.
-8. Maps cannot be used twice in the same round.
-9. Players have 15 minutes to show up to their scheduled match. If the opponent doesn't show up, the player who was supposed to play automatically advances onwards.
-10. Any other rules changes or unexpected occurrences will be announced in the discussion thread.
+1. Great Singapore Tournament uses double-elimination bracket and is a 2v2 osu! tournament.
+2. Only players with the country flag of ![][flag_SG] Singapore may participate.
+3. Teams can only have 2 players, this means no substitution.
+4. The score system used will be **Score V2**.
+5. There is no solo rank range. However there is a team rank range. (No BWS will be used)
+6. The 2 players must have an **average rank of #1,000 - #99,999**.
+7. Maximum team registration is 40 teams.
+   - If there are over 40 teams, the top 40 teams based off average pp will play.
+8. If there are group stages, brackets will be seeded based off performance.
+9. Otherwise, teams will be seeded by average pp.
+10. The bracket stage will be seeded as follows: 1st vs 16th, 2nd vs 15th, etc.
+11. Grand Finals will have a **bracket reset** if the team coming from loser's bracket wins the first match.
+12. Match schedules and mappools **will be released on the Monday** before those matches should be played.
+13. Match schedules will be written in UTC+8.
+14. Staff members are **not** allowed to play in the tournament, other than streamers and commentators.
 
-### Rank restrictions
+### Match instructions
 
-A player's registration will not count if they are in the top 10,000 of the osu!taiko game mode. This is meant to be a beginner's tournament, and many, if not all the maps are catered towards those who are below rank #10,000. We do not want unfair advantages! However, there are two exceptions to this rule:
+1. The match lobby will be created by the referee, and all four players will be invited.
+2. Teams have a strict 15 minute grace period to have both players available to play the match. If 15 minutes pass and a team does not have enough players to play the match, the other team will receive a win by default.
+3. The referee can give host to the players for warmups only. The referee will have host for the entire match after warmups. A team will select a map by naming the map in the multiplayer chat for the referee to select.
+4. The referee is not allowed to play in the match.
+5. Once both teams are in the lobby, both captains will `!roll`. The higher number rolling captain can select 1st ban 2nd pick, or 1st pick 2nd ban.
+6. Each team is allowed 2 bans per match, except for Group Stage, having one ban per team. Banned maps are effectively removed from the mappool for the duration of the match and are not allowed to be picked. A team is allowed to ban 2 maps from the same mod pool.
+7. Teams have 2 minutes to select a map
+   - If they fail to choose in the allotted time, the map choice will pass to the other team. This will have no effect on the order of picks afterward.
+8. Teams may pick maps freely from any mod, barring the maps that have been banned.
+9. Once the map choice is locked in, players will have 90 seconds to ready up. The referee will start the match when all players are ready. If the 90 second timer ends, the referee will force an !mp start 15 command, and the match will start with whoever is in the lobby.
+10. In the case of a FreeMod being chosen, **all players** will have to choose a mod. Mods allowed: Hidden, Hard Rock, Flashlight, Easy. (Scores with Easy are mutliplied by 1.5x)
+11. The winner of a map is determined by which team's scores add up to a higher number. Basically, that just means failed scores count.
+12. If all players on a team are failing at the same time (team fail), common sense will be applied:
+    - If the team that failed was clearly (very obviously) going to win the map, they will get the point;
+    - If it is at all ambiguous, the other team will get the point
+    - If the fail occurred in the first few seconds, the map will be replayed.
+13. In the case of a disconnection, common sense will be applied
+    - If proof exists of the disconnected player's score (or a rough estimate of their hypothetical score if they finished the map), it will be added to their team's total score
+    - If it is at all ambiguous, the other team will get the point
+    - If the disconnection occurred in the first few seconds, the map will be replayed.
 
-1. If a player joins the top 10,000 after registering, but remains below #9,000 until the tournament starts, they are still eligible to participate.
-2. If a player ranks up beyond #10,000 while the tournament is taking place, they will only be disqualified from the tournament if their rank goes significantly beyond #9,000. It is recommended to stay below #9,000.
+### Winning conditions
 
-### Stage regulations
-
-1. There are eight stages to this tournament: Qualifiers, Group Stage, Round of 32, Round of 16, Quarterfinals, Semifinals, Finals and Grand Finals.
-2. Matches are seeded. This will happen in the seeding round (Qualifiers). More information about seeding can be accessed in the [seeding regulations](#seeding-regulations) section.
-3. The winning condition for each stage are listed below:
-   - Group Stage and Round of 32: Best of 7 (first to 4 points)
-   - Round of 16 and Quarterfinals: Best of 9 (first to 5 points)
-   - Semifinals: Best of 11 (first to 6 points)
-   - Finals and Grand Finals: Best of 13 (first to 7 points)
-4. After the Group Stage, only the top 2 players from each group will advance to the next stage.
-
-### Seeding regulations
-
-1. During the seeding round, there will be multiple lobbies available at various hours. Players will be free to sign up to the lobbies they please.
-2. This match is mainly used to weed out the no-shows, however it is also used to file in any backup players who may be called upon to take place of a no-show in the future.
-3. A private match will be created for all the players, and will be invited into their match when it is their time. Make sure that you are online at this time.
-4. There will be no warmup during this event, but rather all the players will play through a shorter mappool.
-5. Seeding will be made with the average rank of each player on each map.
-6. Maps will be played twice in a row during the lobby. However, players can ask for a break of 5 minutes between each run.
-7. Results will be announced on the Discord server after the end of the weekend.
-
-### Match regulations
-
-1. A private match will be created for your match, and both players will be invited into their match when it is their time. Make certain you are online at this time.
-2. Each player can request one warmup map, but it must be **below 4 minutes**.
-3. Here is how bans and picks will happen:
-   - The first person to ban will be the loser of the `!roll`, then they will alternate bans. (Loser -> Winner -> Loser -> Winner)
-   - The first person to pick will be the winner of the `!roll`, then they will alternate picks. (Winner -> Loser -> Winner -> Loser -> ...)
-4. A player cannot ban a map from the same category twice.
-5. In case of a tie, the tiebreaker will be played.
-6. Results will be displayed on the Challonge brackets, and will be announced by the referee.
-
-### Mappool regulations
-
-1. There are different kind of mapools in each stage of the tournament, becoming progressively harder.
-2. Tiebreaker will be played under FreeMod.
-
-### Scheduling regulations
-
-1. Every stage is held during the weekend to let players practice.
-2. Matches are allowed to overlap if referees are available.
-3. Players must complete their match at the designated time or both players are eliminated.
-4. However if both players can come up with a better time than what we have schedule for them, please inform the organisers for a reschedule. They will rearrange your match if the proposed reschedule is informed before the Thursday of the weekend.
+1. In the Group Stage, team needs to win 4 beatmaps to win a match. (Best-of-7)
+2. In the Round of 16 and Quarterfinals, team needs to win 5 beatmaps to win a match. (Best-of-9)
+3. In the Semifinals and Finals, team needs to win 6 beatmaps to win a match. (Best-of-11)
+4. In the Grand Finals, team needs to win 7 beatmaps to win a match. (Best-of-13)
 
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
