@@ -599,12 +599,13 @@ Sunday, 30 June 2019:
 3. The referee can give host to the players for warmups only. The referee will have host for the entire match after warmups. A team will select a map by naming the map in the multiplayer chat for the referee to select.
 4. The referee is not allowed to play in the match.
 5. Once both teams are in the lobby, both captains will `!roll`. The higher number rolling captain can select 1st ban 2nd pick, or 1st pick 2nd ban.
-6. Each team is allowed 2 bans per match, except for Group Stage, having one ban per team. Banned maps are effectively removed from the mappool for the duration of the match and are not allowed to be picked. A team is allowed to ban 2 maps from the same mod pool.
+6. Each team is allowed 2 bans per match, **except for Group Stage**, having one ban per team. Banned maps are effectively removed from the mappool for the duration of the match and are not allowed to be picked. A team is allowed to ban 2 maps from the same mod pool.
 7. Teams have 2 minutes to select a map
    - If they fail to choose in the allotted time, the map choice will pass to the other team. This will have no effect on the order of picks afterward.
 8. Teams may pick maps freely from any mod, barring the maps that have been banned.
-9. Once the map choice is locked in, players will have 90 seconds to ready up. The referee will start the match when all players are ready. If the 90 second timer ends, the referee will force an !mp start 15 command, and the match will start with whoever is in the lobby.
-10. In the case of a FreeMod being chosen, **all players** will have to choose a mod. Mods allowed: Hidden, Hard Rock, Flashlight, Easy. (Scores with Easy are mutliplied by 1.5x)
+9. Once the map choice is locked in, players will have 90 seconds to ready up. The referee will start the match when all players are ready.
+    - If the 90 second timer ends, the referee will force an `!mp start 15` command, and the match will start with whoever is in the lobby.
+10. In the case of a FreeMod being chosen, **all players** will have to choose a mod. Mods allowed: Hidden, HardRock, Flashlight, Easy. (Scores with Easy are mutliplied by 1.5x)
 11. The winner of a map is determined by which team's scores add up to a higher number. Basically, that just means failed scores count.
 12. If all players on a team are failing at the same time (team fail), common sense will be applied:
     - If the team that failed was clearly (very obviously) going to win the map, they will get the point;

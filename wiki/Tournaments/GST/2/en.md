@@ -577,15 +577,16 @@ Sunday, 15 December 2019:
 4. The score system used will be **Score V2**.
 5. There is no solo rank range. However there is a team rank range. (No BWS will be used)
 6. The 2 players must have an **average rank of #1,000 - #99,999**.
-7. Maximum team registration is 40 teams.
-   - If there are over 40 teams, the top 40 teams based off average pp will play.
-8. If there are group stages, brackets will be seeded based off performance.
-9. Otherwise, teams will be seeded by average pp.
-10. The bracket stage will be seeded as follows: 1st vs 16th, 2nd vs 15th, etc.
-11. Grand Finals will have a **bracket reset** if the team coming from loser's bracket wins the first match.
-12. Match schedules and mappools **will be released on the Monday** before those matches should be played.
-13. Match schedules will be written in UTC+8.
-14. Staff members are **not** allowed to play in the tournament, other than streamers and commentators.
+7. Teams will be seeded by average pp.
+8. Top 16 performing teams in Winner's Bracket, the rest 16 teams will start competing in Loser's Bracket.
+9. The bracket stage will be seeded as follows: 1st vs 16th, 2nd vs 15th, etc.
+10. Grand Finals will have a **bracket reset** if the team coming from loser's bracket wins the first match.
+11. Match schedules and mappools **will be released on the Monday** before those matches should be played.
+12. Match schedules will be written in UTC+8.
+13. Staff members are **not** allowed to play in the tournament, other than streamers and commentators.
+14. There will be a **watch list** in effect.
+    - Players inside the watch list will be watched during the duration of the tournament if they choose to participate, and will be disqualified if they are to walk over any matches without notification.
+15. There will be pickems available **internationally** for anyone to have a chance to earn a prize, even if they aren't local.
 
 ### Match instructions
 
@@ -593,22 +594,25 @@ Sunday, 15 December 2019:
 2. Teams have a strict 15 minute grace period to have both players available to play the match. If 15 minutes pass and a team does not have enough players to play the match, the other team will receive a win by default.
 3. The referee can give host to the players for warmups only. The referee will have host for the entire match after warmups. A team will select a map by naming the map in the multiplayer chat for the referee to select.
 4. The referee is not allowed to play in the match.
-5. Once both teams are in the lobby, both captains will `!roll`. The higher number rolling captain can select 1st ban 2nd pick, or 1st pick 2nd ban.
-6. Each team is allowed 2 bans per match, except for Group Stage, having one ban per team. Banned maps are effectively removed from the mappool for the duration of the match and are not allowed to be picked. A team is allowed to ban 2 maps from the same mod pool.
-7. Teams have 2 minutes to select a map
+5. Once both teams are in the lobby, both captains will `!roll`. The higher number rolling captain can select first ban second pick, or first pick second ban.
+6. Teams are **not** allowed to ban out a mod pool, but are allowed to ban from the same mod pool as long as there is at least one map in that mod pool left.
+7. Each team is allowed 2 bans per match, **except for Group Stage**, having one ban per team. Banned maps are effectively removed from the mappool for the duration of the match and are not allowed to be picked. A team is allowed to ban 2 maps from the same mod pool.
+8. Teams have 2 minutes to select a map
    - If they fail to choose in the allotted time, the map choice will pass to the other team. This will have no effect on the order of picks afterward.
-8. Teams may pick maps freely from any mod, barring the maps that have been banned.
-9. Once the map choice is locked in, players will have 90 seconds to ready up. The referee will start the match when all players are ready. If the 90 second timer ends, the referee will force an !mp start 15 command, and the match will start with whoever is in the lobby.
-10. In the case of a FreeMod being chosen, **all players** will have to choose a mod. Mods allowed: Hidden, Hard Rock, Flashlight, Easy. (Scores with Easy are mutliplied by 1.5x)
-11. The winner of a map is determined by which team's scores add up to a higher number. Basically, that just means failed scores count.
-12. If all players on a team are failing at the same time (team fail), common sense will be applied:
+9. Teams may pick maps freely from any mod, barring the maps that have been banned.
+10. Once the map choice is locked in, players will have 90 seconds to ready up. The referee will start the match when all players are ready.
+    - If the 90 second timer ends, the referee will force an `!mp start 15` command, and the match will start with whoever is in the lobby.
+11. In the case of a FreeMod being chosen, **all players** will have to choose a mod. Mods allowed: Hidden, HardRock, Flashlight, Easy. (Scores with Easy are mutliplied by 1.5x)
+12. The winner of a map is determined by which team's scores add up to a higher number. Basically, that just means **failed scores count**.
+13. If all players on a team are failing at the same time (team fail), common sense will be applied:
     - If the team that failed was clearly (very obviously) going to win the map, they will get the point;
     - If it is at all ambiguous, the other team will get the point
     - If the fail occurred in the first few seconds, the map will be replayed.
-13. In the case of a disconnection, common sense will be applied
+14. In the case of a disconnection, common sense will be applied
     - If proof exists of the disconnected player's score (or a rough estimate of their hypothetical score if they finished the map), it will be added to their team's total score
     - If it is at all ambiguous, the other team will get the point
     - If the disconnection occurred in the first few seconds, the map will be replayed.
+15. Teams are allowed to reschedule their match up to **15 minutes after the match time**, when their grace period ends. A new confirmed schedule is required in such cases.
 
 ### Winning conditions
 
