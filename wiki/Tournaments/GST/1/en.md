@@ -49,7 +49,7 @@ The Great Singapore Tournament was run by various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/915163)
 - [GST Discord server](https://discord.gg/kCfW4Jw)
-- [Livestream](https://twitch.tv/sgosucommunity)
+- [Livestream](https://twitch.tv/osusg)
 - Statistics sheet
   - **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1nlp7NOyQWiI8FKTuRfLTQ6oIo1ah0CZvQyPY5bAzgTs/edit?usp=sharing)**
   - [Mappools spreadsheet](https://docs.google.com/spreadsheets/d/1kCsL4FusayuQMfW80UE3Jubh6VJ5cukdAUuATh6jWK0/edit?usp=sharing)

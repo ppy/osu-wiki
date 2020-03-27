@@ -54,12 +54,11 @@ The Great Singapore Tournament 2 was run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/915163)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/983074)
 - [GST Discord server](https://discord.gg/kCfW4Jw)
-- [Livestream](https://twitch.tv/sgosucommunity)
-- Statistics sheet
-  - **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1nlp7NOyQWiI8FKTuRfLTQ6oIo1ah0CZvQyPY5bAzgTs/edit?usp=sharing)**
-  - [Mappools spreadsheet](https://docs.google.com/spreadsheets/d/1kCsL4FusayuQMfW80UE3Jubh6VJ5cukdAUuATh6jWK0/edit?usp=sharing)
+- [Livestream](https://twitch.tv/osusg)
+- [Pick'em predictions website](https://pickem.hwchr.com/tournaments/20)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1rPNEsq4I_vuVHSccLjgZ5HucIgnAWTuUfgiYFRAkBOI/edit?usp=sharing)**
 
 ## Participants
 
