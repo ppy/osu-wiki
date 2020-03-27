@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Guias
 
 Abaixo se encontra uma lista ordenada de guias criados por membros da comunidade do osu!; onde a maioria foi originada dos fórums do osu! e foram trazidas de lá para a wiki do osu!

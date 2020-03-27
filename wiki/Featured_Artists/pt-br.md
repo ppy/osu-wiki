@@ -1,3 +1,9 @@
+---
+no_native_review: true
+outdated: true
+outdated_since: 84df5a5c33bb4256a47c830bc67b6f3bb7636846
+---
+
 # Artistas em destaque
 
 **Artistas em destaque** são músicos que trabalharam junto ao osu! para fazer uma seleção de suas próprias músicas disponíveis para uso irrestrito na comunidade. Alguns desses artistas em destaque também comporam músicas específicamente para o osu! e lançaram elas como exclusivas do osu!

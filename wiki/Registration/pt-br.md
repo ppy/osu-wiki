@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Registro
 
 *Aviso: Ter mais de uma conta de usuário por pessoa no osu! em qualquer momento é uma infração gravíssima as [regras do osu!](/wiki/Rules)!*
