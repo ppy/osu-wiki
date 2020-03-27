@@ -70,7 +70,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Dutch | Chat moderation, forum moderation |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino | Chat moderation, forum moderation, technical support, beatmap moderation |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | French | Chat moderation |
-| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | German | Ranking Criteria, forum moderation, chat moderation, beatmap moderation |
+| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | German | Forum moderation, chat moderation, beatmap moderation |
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Official team presence |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | German | Tournaments, beatmap moderation |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | French | Chat moderation, forum moderation |

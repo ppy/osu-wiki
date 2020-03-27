@@ -48,7 +48,7 @@ outdated: true
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | 菲律宾语 | 聊天室管理, 论坛管理, 技术支持 |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | 法语 | 聊天室管理 |
 | ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | | osu! 开发, Mappers' Guild 组织者 |
-| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | 德语 | Ranking Criteria, 论坛管理, 聊天室管理 |
+| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | 德语 | 论坛管理, 聊天室管理 |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | 德语 | 比赛 |
 | ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | | 聊天室管理, 技术支持 |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | 葡萄牙语 | 聊天室管理 |

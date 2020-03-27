@@ -48,7 +48,7 @@ I Global Moderation Team sono responsabili del benessere della chat/forum e si p
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino | Moderazione della chat, Moderazione del forum, Supporto Tecnico |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Francese | Moderazione della chat |
 | ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | | osu! development, Mappers' Guild organisation |
-| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Tedesco | Ranking Criteria, Moderazione del forum, Moderazione della chat |
+| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Tedesco | Moderazione del forum, Moderazione della chat |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Tedesco | Tornei |
 | ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | | Moderazione della chat, Supporto Tecnico |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portoghese | Moderazione della chat |
