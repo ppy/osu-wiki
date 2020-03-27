@@ -109,14 +109,14 @@ The Great Singapore Tournament 2 was run by various community members.
 
 | Group | Top seed | High seed | Mid seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- | :-- |
-| **A** | wo bu ke yi jiang hua yi | `https://discord.gg/kCfW4Jw` | SeeL | dos idiots | Kallang Hawker Centre |
-| **B** | Ranked Score | shun ren is ugly | Too poor to go jewel | Double McSpicy add chese | Sliderbits |
-| **C** | Tom and Jerry | HR SUCKS | handsome’s Master | dogerinoo fan club | Tryhards |
-| **D** | 5N9N1994J3T | Insomnia | King of One-Two | Banana Bread | "aMAAAYYYz1ng!" |
-| **E** | bring back 2014 | forsenE | parkinson's patients | low ranked scrub | shang a lang a lang a lang |
-| **F** | Broken Family | We are going to win | 404WinNotFound | nico nico REEEEEEE | Majulah PPAP |
-| **G** | Team Cleveland | Darlie 黑人牙膏 | Workers' Party | BCP | WoBuZeDao |
-| **H** | mintychewinggum | youi is homosexual | Team Kaya Toast | @miumiu1343 | roflmaolol |
+| **A** | Tom and Jerry | dogerinoofanclub | \[ Jg \] | Abused 24/7 | Kafuu Chino |
+| **B** | tamade | fail screening | self ref | feeding scrubs | fausion foodclub |
+| **C** | Here for last | salakau | bishan jc | free pmds | hsc thots |
+| **D** | raining lanjiao | advanced math | JC Big Scam | Mahjulah big gay | dos idiots v2 |
+| **E** | 50% fARmErS | totallynotfarmer | #sobafanclub | Cute Aim Live! | TheCatFanClub |
+| **F** | a)ii)no scenario | FrogChamp | twitch.tv/(-->) | Rainbow Centre | Ang Soon Tong |
+| **G** | Mahathir bin Moh | Left Palms DownFijsdejjwsxjfjdd | We can't read EZ | Left Palms Down | fulap |
+| **H** | double tap | PAP | Section 377A | Fortnite? | Kokujin |
 
 ## Podium
 
