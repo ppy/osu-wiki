@@ -49,7 +49,7 @@ The Great Singapore Tournament 2 was run by various community members.
 | Commentator | ![][flag_MY] [FaithInOsu](https://osu.ppy.sh/users/10178187), ![][flag_SG] [Loslite](https://osu.ppy.sh/users/6398160), ![][flag_US] [moof](https://osu.ppy.sh/users/8457202), ![][flag_SG] [SeeL](https://osu.ppy.sh/users/5104320), ![][flag_SG] [Wolpis](https://osu.ppy.sh/users/8497340), ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
 | Designer | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
 | Statistician | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
-| Pick'em Developer | ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264) |
+| Pick'em developer | ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761), ![][flag_NL] [nik](https://osu.ppy.sh/users/10077264) |
 | Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
