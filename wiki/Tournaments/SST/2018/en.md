@@ -268,7 +268,7 @@ Blue BAN Red BAN  Blue BAN Red BAN : Red MAP Blue MAP Red MAP Blue MAP …
 ## Teams and players
 
 | Team Name                 | Members
-| :-- |-----------------------------------------------------------------------------------------
+| :-- | :--
 | !roll                     | ![][flag_IL] [Xilver](https://osu.ppy.sh/users/3099689), ![][flag_CA] [Toke](https://osu.ppy.sh/users/2601166), ![][flag_CA] [Kaifin](https://osu.ppy.sh/users/2596942), ![][flag_US] [Ritzeh](https://osu.ppy.sh/users/1028387)
 | Content is Hot            | ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445), ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013), ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689), ![][flag_JP] [Cookiezi](https://osu.ppy.sh/users/124493)
 | Anime was a mistake       | ![][flag_PL] [Ayke](https://osu.ppy.sh/users/6384590), ![][flag_PL] [Alien](https://osu.ppy.sh/users/4743869), ![][flag_DE] [- Tanakimaru -](https://osu.ppy.sh/users/7233153), ![][flag_PL] [Nexo C17H17Cl2n](https://osu.ppy.sh/users/6951719)

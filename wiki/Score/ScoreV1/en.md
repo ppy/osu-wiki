@@ -28,7 +28,7 @@ The score given by each hit circle and end of a slider is calculated with the fo
 `Score = Hit Value + (Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25))`
 
 Term | Meaning
-:---:|:---
+:-: | :--
 **Hit Value**             | The hit circle judgement (50, 100 or 300), any slider ticks and spinner's bonus
 **Combo multiplier**      | (Combo before this hit - 1) or 0; whichever is higher
 **Difficulty multiplier** | The difficulty setting for the beatmap (see next header)
@@ -47,7 +47,7 @@ The **Difficulty multiplier** was calculated based on each map's star rating (th
 The accumulated _difficulty points_ affect the **Difficulty multiplier** as so:-
 
 Difficulty points range | Difficulty multiplier
-:---:|:---
+:-: | :--
 **0 - 5**   | 2x multiplier
 **6 - 12**  | 3x multiplier
 **13 - 17** | 4x multiplier
@@ -94,7 +94,7 @@ Additionally, all hit notes gain a 1.2x score multiplier, long yellow notes (dru
 In short: `Score = {ScoreValue + [min(RoundDown(Combo / 10), 10) * RoundDown(taiko score multiplier * raw mod multiplier)]} * Kiai Time`
 
 Term | Meaning
-:---:|:---
+:-: | :--
 **ScoreValue**             | The Score Value gained from the hit (300/600, 150/300, or 0/0).
 **Combo**                  | (Combo before this hit - 1) or 0; whichever is higher
 **taiko score multiplier** | \[Depends on difficulty rating\] Possible values are: 32, 48, 64, 80, 96
@@ -123,7 +123,7 @@ Combo will not be lost for missing droplets (considered as _Miss Droplet_ in ser
 `Score = Hit Value + [Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25)]`
 
 Term | Meaning
-:---:|:---
+:-: | :--
 **Hit Value**             | The hit circle judgement (50, 100 or 300), any slider ticks, and spinner's bonus
 **Combo multiplier**      | (Combo before this hit - 1) or 0; whichever is higher
 **Difficulty multiplier** | The difficulty setting for the beatmap

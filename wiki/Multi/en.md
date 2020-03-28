@@ -98,7 +98,7 @@ At the top contains the filter options at the left and the jukebox at the right.
 The filter options provided are shown below; reading from left-to-right, top-to-bottom:-
 
 Title | Description
-:---: | :---
+:-: | :--
 `All`/`osu!`/`osu!taiko`/`osu!catch`/ `osu!mania` | Self-explanatory; show only Match Setup with the **currently specified game mode**.
 `Owned Beatmaps` | Show only Match Setup which the player **has the beatmap** when enabled.
 `Show Full`      | Show Match Setup with **full slots**. Do note that the Match Setup cannot be entered as long as there are no available slots in the Match Setup.
@@ -136,7 +136,7 @@ Alternatively, the player can request an invite from the Match Setup's host dire
 The three buttons above the Chat Console are special commands a player can use while in the Lobby, reading from left-to-right:-
 
 Title | Description
-:---: | :---
+:-: | :--
 `Back to Menu` | Self-explanatory; **leave the lobby and return to the main menu**.
 `New Game`     | **Preparation to create a new Match Setup**
 `Quick Join`   | Place the player to an **available Match Setup** _randomly_ based on **current pp rank range**.
@@ -148,7 +148,7 @@ The [Chat Console][Chat Console wikilink] will be available at the bottom of the
 ![New Game setup screen][Multi_new_game image]
 
 Title | Description
-:---: | :---
+:-: | :--
 **Game Name**   | **Name of the Match Setup.** Default to `{accountname}`'s game. To make the Match Setup private, enable the `Require Password to join` button.
 **Password**    | **Password to enter the Match Setup.** Only appears if the `Require Password to join` button was enabled. Match Setup game mode symbol will be shown with a lock.
 **Max players** | **Total number of players allowed to join the Match Setup.** Default to 8 players, with range from 2 to a total of 16 players, including the player as host. It can be adjusted later by locking/unlocking the slots.
@@ -196,7 +196,7 @@ For the host side, the host can transfer its host rights to one of the players, 
 There are four important states to take note of:-
 
 Colour (State) | Description
----|---
+:-- | :--
 **Red (No Map)**         | **The player does not have the beatmap**. A `[no map]` notice will be appended at the end of player's name until the beatmap was downloaded, extracted, and ready to play (which the player will enter to white state). All players will enter this state or White (Not Ready) state when the host changed the beatmap. This player will not be affected by the Force Start effect.
 **White (Not Ready)**    | **The player has the beatmap but does not click the Ready button**. Game modifiers can be changed in this state, and must be confirmed for the game modifier change to take effect. All players will enter this state or Red (No Map) state when the host changed the beatmap. This player will be affected by the Force Start effect regardless of Ready state.
 **Green (Ready)**        | **The player is ready**. Game modifiers cannot be changed in this state. A player can press Not Ready button to return to white state but for a host, it is usually a one-way trip unless there were no players except the host, which a return to white state by pressing the Not Ready button will be allowed.
@@ -229,7 +229,7 @@ When not hovered over, the beatmap will show the image, game mode symbol, the ti
 If the player does not have the beatmap, some information will be shown, and one of these will occur:-
 
 Beatmap status | Effect
----|---
+:-- | :--
 **Ranked/Approved/Pending/Graveyard** | The player will be directed to the **beatmap page by player's default web browser** on click. If the player has **osu!direct**, it will be **downloaded and extracted automatically upon click**.
 **Not uploaded or not up-to-date**    | The player will **not be linked to the beatmap page** on click. The host should find the link (in the Beatmap Listing) for the player if the issue persists.
 **Cannot update the beatmap**         | The [host is probably playing a modified version.][modified version link]
@@ -255,7 +255,7 @@ The lower right section will shows how the beatmap will be played in the match (
 Team Mode contains four ways of how a match will be played:-
 
 Team Mode | Description
----|---
+:-- | :--
 `Head to Head` | Compete against each other to reach the top spot of the match leaderboard.
 `Team Vs`      | Compete against Red/Blue team for match supremacy.
 `Tag Coop` [osu! only, UNRANKED]    | Team up to complete the beatmap, one combo at a time together.
@@ -268,7 +268,7 @@ Team Mode | Description
 Win Condition contains four ways of how a match will be decided:-
 
 Title | Description
-:---:|:---
+:-: | :--
 `Score`    | Player with **highest score** wins.
 `Accuracy` | Player with the **highest accuracy** wins. If there are two players with 100.00%, the player with the highest score (from spinners) wins. Unconfirmed, if there were no spinners.
 `Combo`    | Player with the **highest combo count** _at the end of the beatmap_ wins. If combo count is the same, player with the highest score wins. **Maximum combo not counted**.
@@ -291,7 +291,7 @@ For the blue button, it can change depending on action taken and host/player pri
 The different effects of the blue button can be seen below:-
 
 Title | Description
-:---:|:---
+:-: | :--
 `Ready!`                   | Click to **enter Ready state (green state)**. Button will change to `Not Ready` for players; either `Start Game!` or `Force Start Game!` for host if there are players in the Match Setup, `Not Ready` otherwise.
 `Not Ready`                | Click to **return to Not Ready state (white state)**. Button will change to `Ready!`
 `Start Game!`              | Host-only button; **starts the match**. Appears with a distinctive ring when all players in the Match Setup in Ready! state (green state) including the host. Will switch to `Force Start Game!` when at least one player pressed the `Not Ready` button or new players coming in.
@@ -363,7 +363,7 @@ A failed or quitted player will be placed at the bottom of the leaderboard separ
 <!-- Special player box note: Skipped (has its own special callout), Failed (red text), and Quit (red text with [Quit] appended) -->
 
 Status/Colour | Description
-:---:|:---
+:-: | :--
 **Normal/Blue**       | **Player has _more_ than half of health**, usually at full. The concentration of blue colour will grow brighter if the player's health bar is increasing to full and bleed to red by losing the health bar more than half of the health bar length.
 **Danger/Purple-Red** | **Player has _less_ than half of health**. The concentration of red colour will grow brighter if the player's health bar is decreasing to empty and diminished to blue by filling the health bar more than half the health bar length.
 **Failed/Grey**       | **Player unable to reserve the final sliver of health/no health left in the health bar**. The player can continue playing and if [Sudden Death (SD)][Sudden Death wikilink]/[Perfect (PF)][Perfect wikilink] was not used, refilling the health bar completely will "revive" the player from the failed status to normal. Also, score will not be contributed towards the team score at this state. Text colour will be changed from white to red.
