@@ -65,13 +65,13 @@ Par exemple (4K étant le nombre de colonnes inférieur et 7K le nombre de colon
 
 Ce pattern est constitué d'une suite très rapide de notes placées sur une colonne. Il ressemble à ça :
 
-    | :-- |
+    |----|
     |o---|
     |o---|
     |o---|
     |o---|
     |o---|
-    | :-- |
+    |----|
 
 Ceci est appelé un jackhammer. Vous devez littéralement presser de façon rapide et frénétique votre clavier en vibrant le poignet ou le bras pour jouer. Cela peut rendre la map très difficile. Il est également possible d'éprouver certaines douleurs après un effort prolongé.
 
