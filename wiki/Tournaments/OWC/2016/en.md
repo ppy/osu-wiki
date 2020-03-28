@@ -445,7 +445,7 @@ The osu! World Cup 2016 was run by various community members by distributing the
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
 
 | Stage | Match ID |
-|-----------------|--------------------------|
+| :-- | :-- |
 | Round of 16 | A, B, C, D, E, F, G, H |
 | Quarter-finals | I, J, K, L & R, S, T, U |
 | Semi-finals | M, N & V, W, X, Y, Z, AA |

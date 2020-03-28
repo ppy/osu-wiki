@@ -21,7 +21,7 @@ Setelah Anda memiliki klien, Anda perlu mengatur pengaturan server.
 
 ## Perintah Dasar IRC
 | Perintah             | Deskripsi                                          |
-| -------------------- | -------------------------------------              |
+| :-- | :-- |
 | `/join <#channel>`   | Bergabung ke channel                                 |
 | `/part <#channel>`   | Meninggalkan channel                                 |
 | `/me <action>`       | Mengirim pesan aksi                                |
@@ -44,7 +44,7 @@ Mengetahui pemain yang masuk atau meninggalkan adalah hal baik, namun jika kanal
 
 ### Menonaktifkan Pemberitahuan Masuk/Meninggalkan Pada Klien IRC
 | Klien IRC                                 | Deskripsi   |
-| ----------------------------------------- | ----------- |
+| :-- | :-- |
 | [HexChat](http://hexchat.github.io/)      | Buka Pengaturan - Pengaturan, di bawah Obrolan - Umum, centang "Sembunyikan pesan gabung dan pisah" |
 | [ircII](http://www.eterna.com.au/ircii/)  | Ketik `/ignore * crap` |
 | [Irssi](http://www.irssi.org)             | Ketik `/ignore -channels #somechannel * JOINS PARTS QUITS` |

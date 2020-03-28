@@ -40,7 +40,7 @@ Aby nie musieć klikać tego przycisku przy każdorazowym połączeniu, należy 
 # Podstawowe komendy IRC
 
 | Opis                            | Komenda          |
-|---------------------------------|------------------|
+| :-- | :-- |
 | Dołącza do kanału (np. \#lobby) | /join \#kanał    |
 | Opuszcza kanał                  | /part            |
 | Ignoruje kogoś                  | /ignore nick     |
@@ -58,7 +58,7 @@ Na mniejszych kanałach nie jest to zazwyczaj uciążliwe, natomiast zalew infor
 ## Ukrywanie wiadomości o dołączaniu lub wychodzeniu w najczęściej używanych klientach IRC
 
 | Klient                                    | Komenda                                                                                                                                                                                                                                                                  |
-|-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | [HexChat](http://hexchat.github.io/)      | a. Kliknąć prawym przyciskiem na kanał na którym chce się dokonać zmiany (pod menu Settings) i zaznaczyć „Hide Join/Part Messages”  
 
                                              b. Settings » Preferences, (pod Chatting) » General i zaznaczyć „Hide join and part Messages”                                                                                                                                                                             |

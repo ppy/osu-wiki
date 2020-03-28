@@ -16,7 +16,7 @@ These aren't live streamed anywhere as we'd rather encourage users to join in an
 ## Episodes
 
 | EP No. | Interviewees                                                   | Profession                       | Link                                                                |
-|--------|----------------------------------------------------------------|----------------------------------|---------------------------------------------------------------------|
+| :-- | :-- | :-- | :-- |
 | 1      | [Charles445](https://osu.ppy.sh/users/85000)                       | GMT/BN                           | [Link](https://www.youtube.com/watch?v=e8lhBtcPbjw)                 |
 | 2      | [MMzz](https://osu.ppy.sh/users/128993)                            | QAT                              | [Link](https://www.youtube.com/watch?v=fBBQ4bwNZcY)                 |
 | 3      | [Loctav](https://osu.ppy.sh/users/71366)                           | Community and Tournament Manager | [Link](https://www.youtube.com/watch?v=gxZtxmUvDoQ)                 |
@@ -64,7 +64,7 @@ These aren't live streamed anywhere as we'd rather encourage users to join in an
 ## Discussions
 
 | EP No. | Topics                                   | Profession                                                                                                                                                                                                                                                      | Link                                                |
-|--------|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
+| :-- | :-- | :-- | :-- |
 | 1      | Staff Rework                             | [Charles445](https://osu.ppy.sh/users/85000), [Ephemeral](https://osu.ppy.sh/users/102335), [deadbeat](https://osu.ppy.sh/users/128370), and [OnosakiHito](https://osu.ppy.sh/users/290128)                                                                                     | [Link](https://www.youtube.com/watch?v=c10Jiq1xZus) |
 | 2      | Overmapping                              | [Kyonko Hizara](https://osu.ppy.sh/users/444868), [Loctav](https://osu.ppy.sh/users/71366), [MMzz](https://osu.ppy.sh/users/128993), and [OnosakiHito](https://osu.ppy.sh/users/290128)                                                                                         | [Link](https://www.youtube.com/watch?v=RepSYE3hN3A) |
 | 3      | Moderation                               | [Charles445](https://osu.ppy.sh/users/85000), [deadbeat](https://osu.ppy.sh/users/128370), [Flanster](https://osu.ppy.sh/users/447818) and [Kitokofox](https://osu.ppy.sh/users/1815420)                                                                                        | [Link](https://www.youtube.com/watch?v=C1hvpnW5A7k) |
@@ -81,7 +81,7 @@ These aren't live streamed anywhere as we'd rather encourage users to join in an
 ## Specials
 
 | EP No. | Topics                  | Profession                                                                                                                                                                                             | Link                                                |
-|--------|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
+| :-- | :-- | :-- | :-- |
 | 1      | Ask Me Anything         | [deadbeat](https://osu.ppy.sh/users/128370) and [ztrot](https://osu.ppy.sh/users/6347)                                                                                                                         | [Link](https://www.youtube.com/watch?v=A0xqa-vBPgY) |
 | 2      | Ask Me Anything 2015    | [Charles445](https://osu.ppy.sh/users/85000), [deadbeat](https://osu.ppy.sh/users/128370), [Flanster](https://osu.ppy.sh/users/447818), [p3n](https://osu.ppy.sh/users/123703), and [ztrot](https://osu.ppy.sh/users/6347) | [Link](https://www.youtube.com/watch?v=a9An8cD18Co) |
 | 3      | 1 year anniversary      | [Charles445](https://osu.ppy.sh/users/85000), [deadbeat](https://osu.ppy.sh/users/128370), and [ztrot](https://osu.ppy.sh/users/6347)                                                                              | [Link](https://www.youtube.com/watch?v=AHU7RgGCB50) |

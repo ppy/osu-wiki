@@ -134,7 +134,7 @@ Some commands only accept a boolean value (a `true` or a `false` value). When sk
 Here is a classic example:
 
 | `SliderBallFlip: 0`        | `SliderBallFlip: 1`        |
-|:--------------------------:|:--------------------------:|
+| :-: | :-: |
 | ![](img/Sliderball_flip-0.gif) | ![](img/Sliderball_flip-1.gif) |
 
 Note that Reisen, the sliderball, does **not** flip when `0` is used. However, Reisen does flip when a `1` is used. Depending on what spite is used, you will either get a moonwalking sliderball, or one that turns around.

@@ -5,14 +5,14 @@ Este artículo enlista a los países que han participado en los variados torneos
 **Ten en cuenta:** algunos torneos no están enlistados aquí porque permitían más de dos países en un mismo equipo o los equipos no representaban ningún país.
 
 | Mark | Explantation |
-|:-----:|--------------------|
+| :-: | :-- |
 | ![][true] | Participó       |
 | ![][false] | No participó |
 
 ## Posiciones de países en todos los modos
 
 | Rank | País                     | Oro | Plata | Bronce |
-|:----:|-----------------------------|:----:|:------:|:------:|
+| :-: | :-- | :-: | :-: | :-: |
 | 1    | ![][flag_KR] Corea del Sur    | 7    | 1      | 2      |
 | 2    | ![][flag_JP] Japón          | 6    | 4      | 2      |
 | 3    | ![][flag_TW] Taiwán         | 3    | 5      | 1      |
@@ -41,7 +41,7 @@ Este artículo enlista a los países que han participado en los variados torneos
 #### Posiciones de países
 
 | Rank | País                    | Oro | Plata | Bronce |
-|:----:|----------------------------|:----:|:------:|:------:|
+| :-: | :-- | :-: | :-: | :-: |
 | 1    | ![][flag_KR] Corea del Sur   | 3    |        | 2      |
 | 2    | ![][flag_US] Estados Unidos | 2    |        |        |
 | 3    | ![][flag_JP] Japón         | 1    | 2      |        |
@@ -55,7 +55,7 @@ Este artículo enlista a los países que han participado en los variados torneos
 #### Asistencia
 
 | País                         | #1              | #2              | #3              | 2013            | 2014             | 2015            | 2016            |
-|---------------------------------|-----------------|-----------------|-----------------|-----------------|------------------|-----------------|-----------------|
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | ![][flag_AR] Argentina          | ![][true]       | ![][true]       | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
 | ![][flag_AU] Australia          | ![][false]      | ![][true]       | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
 | ![][flag_AT] Austria            | ![][true]       | ![][true]       | ![][false]      | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
@@ -110,7 +110,7 @@ Este artículo enlista a los países que han participado en los variados torneos
 #### Posiciones de países
 
 | Rank | País                    | Oro | Plata | Bronce |
-|:----:|----------------------------|:----:|:------:|:------:|
+| :-: | :-- | :-: | :-: | :-: |
 | 1    | ![][flag_JP] Japón         | 5    | 1      | 2      |
 | 2    | ![][flag_TW] Taiwán |      | 2    | 3      |        |
 | 3    | ![][flag_HK] Hong Kong     |      | 3      | 1      |
@@ -121,7 +121,7 @@ Este artículo enlista a los países que han participado en los variados torneos
 #### Asistencia
 
 | País                     | 2011          | 2012                 | \#3              | 2014          | 2015          | 2016          | 2017          |
-|-----------------------------|---------------|----------------------|------------------|---------------|---------------|---------------|---------------|
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | ![][flag_AR] Argentina      | ![][false]    | ![][false]           | ![][true]        | ![][true]     | ![][true]     | ![][true]     | ![][true]     |
 | ![][flag_AU] Australia      | ![][false]    | ![][false]           | ![][false]       | ![][false]    | ![][true]     | ![][true]     | ![][true]     |
 | ![][flag_AT] Austria        | ![][false]    | ![][true]            | ![][false]       | ![][false]    | ![][false]    | ![][false]    | ![][false]    |
@@ -163,7 +163,7 @@ Este artículo enlista a los países que han participado en los variados torneos
 #### Posiciones de países
 
 | Rank | País                  | Oro | Plata | Bronce |
-|:----:|:------------------------:|:----:|:------:|:------:|
+| :-: | :-: | :-: | :-: | :-: |
 | 1    | ![][flag_KR] Corea del Sur | 2    |        |        |
 | 2    | ![][flag_CN] China       | 1    | 1      |        |
 | 3    | ![][flag_CL] Chile       | 1    |        |        |
@@ -177,7 +177,7 @@ Este artículo enlista a los países que han participado en los variados torneos
 #### Asistencia
 
 | País                         | 2013             | 2014          | 2015          | 2016          |
-|---------------------------------|------------------|---------------|---------------|---------------|
+| :-- | :-- | :-- | :-- | :-- |
 | ![][flag_AR] Argentina          | ![][true] 3rd ½  | ![][true]     | ![][true]     | ![][true]     |
 | ![][flag_AU] Australia          | ![][false]       | ![][false]    | ![][true]     | ![][true]     |
 | ![][flag_AT] Austria            | ![][true]        | ![][true]     | ![][true]     | ![][false]    |
@@ -228,7 +228,7 @@ Este artículo enlista a los países que han participado en los variados torneos
 #### Posiciones por países
 
 | Rank | País                    | Oro | Plata | Bronce |
-|:----:|----------------------------|:----:|:------:|:------:|
+| :-: | :-- | :-: | :-: | :-: |
 | 1    | ![][flag_KR] Corea del Sur   | 3    | 1      |        |
 | 2    | ![][flag_US] Estados Unidos | 1    |        | 1      |
 | 3    | ![][flag_CN] China         | 1    |        |        |
@@ -242,7 +242,7 @@ Este artículo enlista a los países que han participado en los variados torneos
 #### Asistencia
 
 | País                         | 2014 4K       | 2014 7K       | 2015 4K       | 2016 7K       | 2016 4K       | 2017 7K    |
-|---------------------------------|---------------|---------------|---------------|---------------|---------------|------------|
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | ![][flag_AR] Argentina          | ![][true]     | ![][false]    | ![][true]     | ![][false]    | ![][true]     | ![][true]  |
 | ![][flag_AU] Australia          | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][true]  |
 | ![][flag_BE] Bélgica           | ![][false]    | ![][false]    | ![][false]    | ![][false]    | ![][true]     | ![][false] |

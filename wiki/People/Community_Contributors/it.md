@@ -15,7 +15,7 @@ Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 ### 8 Agosto 2013
 
 | Utente | Contributi |
-| ---- | ------------- |
+| :-- | :-- |
 | [Darkimmortal](https://osu.ppy.sh/users/10886) | Ha sviluppato e mantenuto attivo il [servizio osu!record](https://osu.ppy.sh/community/forums/topics/108092) (da .osr a Video su YouTube.) |
 | [nanashiRei](https://osu.ppy.sh/users/807630) | Hosta e mantiene uno dei più duraturi [mirror di beatmap](http://osu.yas-online.net/). |
 | [RBRat3](https://osu.ppy.sh/users/307202) | Numerosi (incalcolabili) contributi grafici al client di gioco e tutto il resto. |
@@ -36,7 +36,7 @@ le chart. |
 ### Marzo 2015
 
 | Utente | Contributi |
-| ---- | ------------- |
+| :-- | :-- |
 | [Repflez](https://osu.ppy.sh/users/201392) | Straordinario Contributo alla osu! wiki. |
 | [RaikireHiuduo](https://osu.ppy.sh/users/1570014) | Straordinario Contributo alla osu! wiki. |
 | [givenameplz](https://osu.ppy.sh/users/947499) | Ha sviluppato osu!Rank e osu!Post |
@@ -44,7 +44,7 @@ le chart. |
 ### Gennaio 2016
 
 | Utente | Contributi |
-| ---- | ------------- |
+| :-- | :-- |
 | [ztrot](https://osu.ppy.sh/users/6347) | Ha fondato la osu!academy. |
 | [Tasha](https://osu.ppy.sh/users/1031958) | Collaboratore di osu!weekly e delle notizie. |
 | [Flanster](https://osu.ppy.sh/users/447818) | Straordinaria presenza come moderatore (Più di 10000 silence). |

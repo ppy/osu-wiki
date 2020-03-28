@@ -19,7 +19,7 @@ Wir hoffen dadurch, dass die neuen Spieler diese Videos informativ finden und ih
 ## Episoden
 
 | # | Episoden (alle auf Englisch)                                                                                       |
-|-----|--------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | 1   | [Installation/Account-Erstellung (4:51)](https://www.youtube.com/watch?v=mOl2QgJ13OQ)                                    |
 | 2   | [Standard Gameplay/Einstellungen bearbeiten (4:39)](https://www.youtube.com/watch?v=CLDMuyNZj3M)                         |
 | 3   | [osu!mania Keylayouts/Gameplay mit Loliflan (4:24)](https://www.youtube.com/watch?v=dw0Ey2HtcYk)                         |

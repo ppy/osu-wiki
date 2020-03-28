@@ -7,7 +7,7 @@
 ### Windows
 
 | Chemin par défaut actuel | Ancien chemin de l'installateur |
-| ------------------------ | ---------------------- |
+| :-- | :-- |
 | `C:\Users\<Username>\AppData\Local\osu!` | `C:\Program Files\osu!` / `C:\Program Files(x86)\osu!` (pour 7 64-bit ou 8) |
 > `C:` est le disque dur sur lequel osu est installé.
 

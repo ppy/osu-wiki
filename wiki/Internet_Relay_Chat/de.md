@@ -34,7 +34,7 @@ Sofern ihr keine Lust darauf habt, jedes Mal auf die Seite zu gehen, um euch üb
 # Grundlegende IRC Kommandos
 
 | Aktion                             | Kommando                   |
-|------------------------------------|----------------------------|
+| :-- | :-- |
 | Channel beitreten (z. B. \#german) | /join \#somechannel        |
 | Channel verlassen                  | /part                      |
 | Jemanden ignorieren                | /ignore <Name>             |
@@ -54,7 +54,7 @@ In Channels mit wenigeren Usern sind diese Meldungen nicht sonderlich bemerkbar,
 ## Join/Part Nachrichten in bekannten Clients deaktivieren
 
 | Client                                    | Kommandos                                                                                                                                                                                                                                                                            |
-|-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | AndChat (Android App)                     | "Settings" -> "Messages & Rooms" -> "Hide join/part/quit Messages" aktivieren                                                                                                                                                                                                  |
 | [HexChat](http://hexchat.github.io/)      | a. Rechtsklick auf den Channel, den ihr ändern wollt, dann unter Einstellungen "Hide Join/Part Messages"  
 

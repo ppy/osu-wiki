@@ -38,7 +38,7 @@ Se você não deseja fazer essa autenticação toda vez que se conecta você pod
 # Comandos Básicos do IRC
 
 | Descrição                              | Comando                 |
-|----------------------------------------|-------------------------|
+| :-- | :-- |
 | Se juntar a um canal (Exemplo \#lobby) | /join \#nomedocanal     |
 | Sair de um canal                       | /part                   |
 | Ignorar nick                           | /ignore nome do jogador |
@@ -57,7 +57,7 @@ Caso esteja em canais com poucas pessoas isso não é incomodo, mas pessoas entr
 ## Desativando mensagens de Join/Part nos clientes externos mais populares
 
 | Client                                    | Comandos                                                                                                                                                                                                                                                               |
-|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | [HexChat](http://hexchat.github.io/)      | a. Clique com o direito do mouse no canal que você quer configurar, abaixa do submenu de configurações, cheque "Hide Join/Part Messages" (Mensagens de Entrada/Saída)  
 
                                              b. Vá para Configurações » Preferências, abaixo de Conversa » Geral, cheque "Hide join and part Messages" (Mensagens de Entrada/Saída)                                                                                                                                  |

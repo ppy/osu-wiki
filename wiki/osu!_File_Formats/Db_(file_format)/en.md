@@ -14,7 +14,7 @@ Currently the only ones are osu!.db, scores.db, collection.db, and presence.db.
 To ease the description of the format of each .db file, the following names for data types will be used. Unless otherwise specified, all numerical types are stored little-endian. Integer values, including bytes, are all unsigned. UTF-8 characters are stored in their canonical form, with the higher-order byte first.
 
 | Name | Number of bytes | Description |
-| ---- | --------------- | ----------- |
+| :-- | :-- | :-- |
 | Byte | 1 | integer |
 | Short | 2 | integer |
 | Int | 4 | integer |
@@ -34,7 +34,7 @@ To ease the description of the format of each .db file, the following names for 
 Some data types specific to osu!.db are defined below.
 
 | Name | Number of bytes | Description |
-| ---- | --------------- | ----------- |
+| :-- | :-- | :-- |
 | Int-Double pair | 14 | The first byte is 0x08, followed by an Int, then 0x0d, followed by a Double. These extraneous bytes are presumably flags to signify different data types in these slots, though in practice no other such flags have been seen. Currently the purpose of this data type is unknown. |
 | Timing point | 17 | Consists of a Double, signifying the BPM, another Double, signifying the offset into the song, in milliseconds, and a Boolean; if false, then this timing point is inherited. See [Osu (file format)][Osu Link] for more information regarding timing points. |
 | DateTime | 8 | A 64-bit number of ticks representing a date and time. Ticks are the amount of 100-nanosecond intervals since midnight, January 1, 0001 UTC. See [.NET framework documentation on ticks](https://docs.microsoft.com/en-us/dotnet/api/system.datetime.ticks?view=netframework-4.7.2) for more information. |
@@ -42,7 +42,7 @@ Some data types specific to osu!.db are defined below.
 ### osu!.db format
 
 | Data type | Description |
-| --------- | ----------- |
+| :-- | :-- |
 | Int | osu! version (e.g. 20150203) |
 | Int | Folder Count |
 | Bool | AccountUnlocked (only false when the account is locked or banned in any way) |
@@ -55,7 +55,7 @@ Some data types specific to osu!.db are defined below.
 ### Beatmap Information
 
 | Data type | Description |
-| --------- | ----------- |
+| :-- | :-- |
 | Int | Size in bytes of the beatmap entry. Only present if version is less than 20191106. |
 | String | Artist name |
 | String | Artist name, in Unicode |
@@ -119,14 +119,14 @@ Some data types specific to osu!.db are defined below.
 ### collection.db format
 
 | Data type | Description |
-| --------- | ----------- |
+| :-- | :-- |
 | Int | Version (e.g. 20150203) |
 | Int | Number of collections |
 
 The following will be repeated for the total number of collections.
 
 | Data type | Description |
-| --------- | ----------- |
+| :-- | :-- |
 | String | Name of the collection |
 | Int | Number of beatmaps in the collection |
 | String* | Beatmap MD5 hash. Repeated for as many beatmaps as are in the collection. |
@@ -138,7 +138,7 @@ This database contains the scores achieved locally.
 ### scores.db format
 
 | Data type | Description |
-| --------- | ----------- |
+| :-- | :-- |
 | Int | Version (e.g. 20150204) |
 | Int | Number of beatmaps |
 | Beatmaps* | Aforementioned beatmaps |
@@ -146,7 +146,7 @@ This database contains the scores achieved locally.
 ### Individual beatmap format
 
 | Data type | Description |
-| --------- | ----------- |
+| :-- | :-- |
 | String | Beatmap MD5 hash |
 | Int | Number of scores on this beatmap |
 | Score* | Aforementioned scores |
@@ -154,7 +154,7 @@ This database contains the scores achieved locally.
 ### Individual score format
 
 | Data type | Description |
-| --------- | ----------- |
+| :-- | :-- |
 | Byte | osu! gameplay mode (0x00 = osu!Standard, 0x01 = Taiko, 0x02 = CTB, 0x03 = Mania) |
 | Int | Version of this score/replay (e.g. 20150203) |
 | String | Beatmap MD5 hash |

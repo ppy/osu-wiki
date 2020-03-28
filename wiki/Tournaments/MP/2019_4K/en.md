@@ -65,7 +65,7 @@ The prize pool was crowdfunded through the [tipanddonation](https://tipanddonati
 ### Qualified Participants
 
 | Seed | Users |
-| --- | --- |
+| :-- | :-- |
 | Top (#1 - #8) | ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282), ![][flag_PL] [Nick Wilde](https://osu.ppy.sh/users/8550320), ![][flag_PL] [Arkitev](https://osu.ppy.sh/users/6905790), ![][flag_PL] [Triksu](https://osu.ppy.sh/users/7233032), ![][flag_PL] [PoweR\_LendzeR](https://osu.ppy.sh/users/2894654), ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750), ![][flag_PL] [TheFalek](https://osu.ppy.sh/users/10214260) |
 | High (#9 - #16) | ![][flag_PL] [Moskas](https://osu.ppy.sh/users/1934077), ![][flag_PL] [Miq](https://osu.ppy.sh/users/2424440), ![][flag_PL] [Hvb3rt](https://osu.ppy.sh/users/7749033), ![][flag_PL] [arfuk0134](https://osu.ppy.sh/users/13618563), ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [Eclipse-](https://osu.ppy.sh/users/8493070), ![][flag_PL] [Archaic84](https://osu.ppy.sh/users/8611177), ![][flag_PL] [Justin14p](https://osu.ppy.sh/users/8461297) |
 | Mid (#17 - #24) | ![][flag_PL] [EWGF](https://osu.ppy.sh/users/8422748), ![][flag_PL] [Felix27](https://osu.ppy.sh/users/7447943), ![][flag_PL] [PIayer69](https://osu.ppy.sh/users/10694850), ![][flag_PL] [C18-H27-NO3](https://osu.ppy.sh/users/8682644), ![][flag_PL] [Shadow Cultist](https://osu.ppy.sh/users/3827078), ![][flag_PL] [Marqez](https://osu.ppy.sh/users/9579664), ![][flag_PL] [m666](https://osu.ppy.sh/users/8623171), ![][flag_PL] [klodaa](https://osu.ppy.sh/users/10584535) |
@@ -74,7 +74,7 @@ The prize pool was crowdfunded through the [tipanddonation](https://tipanddonati
 ### Groups
 
 | Group | Top | High | Mid | Low |
-| :-: | --- | --- | --- | --- |
+| :-: | :-- | :-- | :-- | :-- |
 | **A** | ![][flag_PL] Arkitev | ![][flag_PL] capsafangirl | ![][flag_PL] EWGF | ![][flag_PL] ricoMeister |
 | **B** | ![][flag_PL] Triksu | ![][flag_PL] arfuk0134 | ![][flag_PL] Marqez | ![][flag_PL] Kush-kun |
 | **C** | ![][flag_PL] PoweR\_LendzeR | ![][flag_PL] Moskas | ![][flag_PL] C18-H27-NO3 | ![][flag_PL] Otis1204 |

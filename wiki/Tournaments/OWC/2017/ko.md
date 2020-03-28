@@ -7,7 +7,7 @@
 ## 대회 일정
  
 | 경기 | 날짜 |
-| ---: | :--- |
+| --: | :-- |
 | 참가 신청 기간 | 2017년 10월 13일 - 29일 |
 | 조 편성 | 2017년 11월 12일 오후 9시 (UTC +9) |
 | 그룹 스테이지 | 2017년 11월 18일 - 19일 |
@@ -21,7 +21,7 @@
 월드컵에는 매년 달라지는 특별한 상품들이 있습니다.
  
 | 등수 | 상품 |
-| --- | :--- |
+| :-- | :-- |
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 인당 300달러, OWC 텀블러와 뱃지, 프로필 뱃지, osu! Champion 타이틀 |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 인당 160달러, OWC 텀블러와 뱃지, 프로필 뱃지 |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 인당 80달러, OWC 텀블러와 뱃지, 프로필 뱃지 |
@@ -31,7 +31,7 @@
 osu! World Cup 2017은 커뮤니티의 여러 구성원들에 의해 운영됩니다.
  
 | 역할 | 멤버 |
-| ------------ | -------------- |
+| :-- | :-- |
 | 관리자 | [![][flag_DE] Loctav](https://osu.ppy.sh/users/71366), [![][flag_DE] p3n](https://osu.ppy.sh/users/123703), [![][flag_ES] Deif](https://osu.ppy.sh/users/318565), [![][flag_FR] shARPII](https://osu.ppy.sh/users/776257) |
 | 맵풀 셀렉터 | [![][flag_JP] Delis](https://osu.ppy.sh/users/1603923), [![][flag_DE] Okorin](https://osu.ppy.sh/users/1623405), [![][flag_KR] ToGlette](https://osu.ppy.sh/users/1076236) |
 | 해설 | [![][flag_HK] - G I D Z -](https://osu.ppy.sh/users/2286528), [![][flag_AU] Bauxe](https://osu.ppy.sh/users/1881685), [![][flag_GB] Doomsday](https://osu.ppy.sh/users/18983), [![][flag_CA] Evrien](https://osu.ppy.sh/users/791660), [![][flag_US] HappyStick](https://osu.ppy.sh/users/256802), [![][flag_AU] Kano](https://osu.ppy.sh/users/3036203), [![][flag_AT] Omgforz](https://osu.ppy.sh/users/578943), [![][flag_FI] ProfessionalBox](https://osu.ppy.sh/users/3250792), [![][flag_US] ztrot](https://osu.ppy.sh/users/6347) |
@@ -50,7 +50,7 @@ osu! World Cup 2017은 커뮤니티의 여러 구성원들에 의해 운영됩�
 ### 확정된 팀
 
 | | 국가 | 선수 |
-| ---: | :---: | :--- |
+| --: | :-: | :-- |
 | ![][flag_AR] | **아르헨티나** | **[Pein](https://osu.ppy.sh/users/2212941)**, [Lexalia](https://osu.ppy.sh/users/1887616), [Serena](https://osu.ppy.sh/users/756068), [benjacala](https://osu.ppy.sh/users/1625740), [Toushi](https://osu.ppy.sh/users/2367825), [-Urushihara-](https://osu.ppy.sh/users/6169195), [Glazbom](https://osu.ppy.sh/users/608277), [zaqlev](https://osu.ppy.sh/users/3188703) |
 | ![][flag_AU] | **오스트레일리아** | **[Bauxe](https://osu.ppy.sh/users/1881685)**, [Dumii](https://osu.ppy.sh/users/3068044), [uyghti](https://osu.ppy.sh/users/3641404), [Lunirs](https://osu.ppy.sh/users/2118945), [Blobby3000](https://osu.ppy.sh/users/6916774), [ithgyu](https://osu.ppy.sh/users/5113781), [GranDSenpai](https://osu.ppy.sh/users/3997580), [Weber](https://osu.ppy.sh/users/6410432) |
 | ![][flag_AT] | **오스트리아** | **[Akane-Yuki](https://osu.ppy.sh/users/3656589)**, [Fedora Goose](https://osu.ppy.sh/users/2323131), [BlueFlame](https://osu.ppy.sh/users/3506191), [Spark-desu](https://osu.ppy.sh/users/4601608), [Kizan](https://osu.ppy.sh/users/3074197), [Teppichreini](https://osu.ppy.sh/users/1371974), [Myst1k](https://osu.ppy.sh/users/5302223), [Tomadoi](https://osu.ppy.sh/users/5712451) |
@@ -86,7 +86,7 @@ osu! World Cup 2017은 커뮤니티의 여러 구성원들에 의해 운영됩�
 만약 월드컵 참가 신청을 한 경우, 목록에 적혀 있는 임시 주장에게 가능한 한 빨리 연락을 취하도록 합니다.
 
 | | 국가 | 임시 주장 |
-| ---: | :---: | :--- |
+| --: | :-: | :-- |
 | ![][flag_FR] | **프랑스** | [Musty](https://osu.ppy.sh/users/251683) |
 | ![][flag_PH] | **필리핀** | [HaruTachi-](https://osu.ppy.sh/users/6244066) |
 | ![][flag_US] | **미국** | [Toy](https://osu.ppy.sh/users/2757689) |
@@ -173,7 +173,7 @@ osu! World Cup 2017은 커뮤니티의 여러 구성원들에 의해 운영됩�
 6. [이 이미지](https://puu.sh/bUq5V/f1066103b0.png)를 기반으로 하며 스테이지는 다음과 같이 나누어집니다:
 
 | 스테이지 | 경기 ID |
-| -----: | -------- |
+| --: | :-- |
 | 16강 |  A, B, C, D, E, F, G, H |
 | 8강 | I, J, K, L & R, S, T, U |
 | 준결승 | M, N & V, W, X, Y, Z, AA |

@@ -11,7 +11,7 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 ## Calendario
 
 | Event               | Timestamp      |
-|---------------------|----------------|
+| :-- | :-- |
 | Inscripciones       | 1-20 Jul 2014  |
 | Sorteos             | 2 Ago 2014     |
 | Fase de grupos (4K) | 9-10 Ago 2014  |
@@ -24,7 +24,7 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 ## Premios
 
 | Placing                                                    | Prize(s)                                                                                              |
-|------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 6 meses de support, placa para el perfil, merchandise de osu!, título de usuario «osu!mania Champion» |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 meses de support                                                                                    |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 mes de support                                                                                      |
@@ -32,7 +32,7 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 ## Organización
 
 | Job                | Person(s)                                                                                                                                                                                                                                                                                                                                     |
-|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | Administración     | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)                                                                                                                                                  |
 | Selección de mapas | ![][flag_RU] [\[Shi-Ra\]](https://osu.ppy.sh/users/2008489) // ![][flag_CL] [Agka](https://osu.ppy.sh/users/64811)                                                                                                                                                                                                            |
 | Stream             | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257)                                                                                                                                                 |
@@ -46,7 +46,7 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 **Viernes, 15 de Agosto de 2014**
 
 | Equipo A                                | Equipo B                                      | UTC             | Hora Local A        | Hora Local B        |
-|-----------------------------------------|-----------------------------------------------|-----------------|---------------------|---------------------|
+| :-- | :-- | :-- | :-- | :-- |
 | Polanda  ![][flag_PL] | ![][flag_RU] Rusia          | **18.00 (6pm)** | 20.00 (8pm) UTC +2  | 22.00 (10pm) UTC +4 |
 | Portugal ![][flag_PT] | ![][flag_FR] Francia        | **18.00 (6pm)** | 19.00 (7pm) UTC +1  | 20.00 (8pm) UTC +2  |
 | Noruega  ![][flag_NO] | ![][flag_GB] Reino Unido    | **19.00 (7pm)** | 21.00 (9pm) UTC +2  | 20.00 (8pm) UTC +1  |
@@ -57,7 +57,7 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 **Sábado, 16 de Agosto de 2014**
 
 | Equipo A                                     | Equipo B                                      | UTC            | Hora Local A        | Hora Local B                |
-|----------------------------------------------|-----------------------------------------------|----------------|---------------------|-----------------------------|
+| :-- | :-- | :-- | :-- | :-- |
 | Indonesia ![][flag_ID]     | ![][flag_CL] Chile          | **3.00 (3am)** | 10.00 (10am) UTC +7 | 23.00 (11pm) (Fri.) UTC -4  |
 | Filipinas ![][flag_PH]     | ![][flag_MY] Malasia        | **3.00 (3am)** | 11.00 (11am) UTC +8 | 11.00 (11am) UTC +8         |
 | Australia ![][flag_AU]     | ![][flag_US] Estados Unidos | **3.00 (3am)** | 13.00 (1pm) UTC +10 | 20.00 (8pm) (Fri.) UTC -7   |
@@ -100,7 +100,7 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 ## Participantes
 
 | Country                                        | Grupo 4K Members                                                                                                                                                |
-|------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | ![][flag_AR] Argentina       | **[juankristal](https://osu.ppy.sh/users/443656)**, [Icaruz](https://osu.ppy.sh/users/2605137), [Euroe](https://osu.ppy.sh/users/3633019)                                                     |
 | ![][flag_AU] Australia       | **[Envisionise](https://osu.ppy.sh/users/2853195)**, [\-X Y Z\-](https://osu.ppy.sh/users/1610833), [MasterSonic10](https://osu.ppy.sh/users/1249224), [Combinatorix](https://osu.ppy.sh/users/3174286) |
 | ![][flag_CA] Canadá          | **[Bites](https://osu.ppy.sh/users/1671598)**, [ca25nada](https://osu.ppy.sh/users/103255)                                                                                          |
@@ -123,7 +123,7 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 | ![][flag_US] Estados Unidos  | **[Ayaya](https://osu.ppy.sh/users/3088679)**, [Zyph](https://osu.ppy.sh/users/1600432), [Ziergdsx18](https://osu.ppy.sh/users/869702), [RemiFlan](https://osu.ppy.sh/users/3061151)                    |
 
 | Country                                       | Grupo 7K Members                                                                                                                                           |
-|-----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | ![][flag_AU] Australia      | **[zKskita](https://osu.ppy.sh/users/457515)**, [Envisionise](https://osu.ppy.sh/users/2853195), [Tornspirit](https://osu.ppy.sh/users/1338883), [ApocaZumbee](https://osu.ppy.sh/users/3431615)   |
 | ![][flag_CL] Chile          | --- disuelto ---                                                                                                                                           |
 | ![][flag_CN] China          | **[spro](https://osu.ppy.sh/users/227717)**, [zfloveys](https://osu.ppy.sh/users/89545), [Fate\_Yakumo](https://osu.ppy.sh/users/2660480), [innocentfake](https://osu.ppy.sh/users/85797)          |
@@ -150,7 +150,7 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 ### Grupo 4K
 
 | Grupo A                                  | Grupo B                                        | Grupo C                                      | Grupo D                                |
-|------------------------------------------|------------------------------------------------|----------------------------------------------|----------------------------------------|
+| :-- | :-- | :-- | :-- |
 | ![][flag_AR] Argentina | ![][flag_CZ] República Checa | ![][flag_RU] Rusia         | ![][flag_PL] Polanda |
 | ![][flag_ES] España    | ![][flag_AU] Australia       | ![][flag_JP] Japón         | ![][flag_CA] Canadá  |
 | ![][flag_TW] Taiwan    | ![][flag_ID] Indonesia       | ![][flag_NZ] Nueva Zelanda | ![][flag_CL] Chile   |
@@ -160,7 +160,7 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 ### Grupo 7K
 
 | Grupo A                                       | Grupo B                                  | Grupo C                                  | Grupo D                                      |
-|-----------------------------------------------|------------------------------------------|------------------------------------------|----------------------------------------------|
+| :-- | :-- | :-- | :-- |
 | ![][flag_AU] Australia      | ![][flag_ES] España    | ![][flag_ID] Indonesia | ![][flag_KR] Corea del Sur |
 | ![][flag_PH] Filipinas      | ![][flag_PL] Polanda   | ![][flag_PT] Portugal  | ![][flag_NO] Noruega       |
 | ![][flag_MY] Malasia        | ![][flag_HK] Hong Kong | ![][flag_CL] Chile     | ![][flag_TH] Tailandia     |
@@ -210,7 +210,7 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 ### Fase de Grupos (4K)
 
 | Equipo A                                       | Equipo B      | Historia                                          |                               |
-|------------------------------------------------|---------------|---------------------------------------------------|-------------------------------|
+| :-- | :-- | :-- | :-- |
 | ![][flag_AU] **Australia**   | **4** - 0     | Indonesia ![][flag_ID]          | [#1](https://osu.ppy.sh/community/matches/8429133) |
 | ![][flag_RU] **Rusia**       | **4** - 3     | Nueva Zelanda ![][flag_NZ]      | [#1](https://osu.ppy.sh/community/matches/8429172) |
 | ![][flag_JP] **Japón**       | **4** - 0     | Nueva Zelanda ![][flag_NZ]      | [#1](https://osu.ppy.sh/community/matches/8429927) |

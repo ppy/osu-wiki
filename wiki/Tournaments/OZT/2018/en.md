@@ -30,7 +30,7 @@ The **osu! Z-Tournament 2018**, is a 4v4 international osu!standard tournament, 
 ## Tournament schedule
 
 | Event | Timestamp (YYYY-MM-DD) |
-| ---: | :--- |
+| --: | :-- |
 | Registration Phase | 2018-04-23 / 2018-05-25 |
 | Group Drawings | 2018-05-27 |
 | Qualifiers | 2018-06-02 / 2018-06-03 |
@@ -45,7 +45,7 @@ The **osu! Z-Tournament 2018**, is a 4v4 international osu!standard tournament, 
 - The prizes are subject to change throughout the tournament.
 
 | Place | Prize |
-| ---: | :--- |
+| --: | :-- |
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Profile Badge |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | TBD |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | TBD |
@@ -66,7 +66,7 @@ Be aware that becoming a free agent will **not guarantee a spot for playing in t
 
 ## Staff
 | Role | Member(s) |
-| ---: | :--- |
+| --: | :-- |
 | Host | ![][flag_US] [BearZyo](https://osu.ppy.sh/users/6116759) |
 | Co-Host | ![][flag_NZ] [Div](https://osu.ppy.sh/users/3751116) |
 | Spreadsheet management | ![][flag_CA] [Meow Mix](https://osu.ppy.sh/users/3021634)

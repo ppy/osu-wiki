@@ -19,7 +19,7 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 *Ver también el hilo del foro: [Colaboradores de la comunidad de osu!](https://osu.ppy.sh/community/forums/posts/2489459).*
 
 | Usuario | Contribución |
-| ---- | ------------- |
+| :-- | :-- |
 | [Darkimmortal](https://osu.ppy.sh/users/10886) | Desarrollar y mantener el [servicio de replays de osu!](https://osu.ppy.sh/community/forums/topics/108092) (reproducir `.osr` a archivo de video). |
 | [nanashiRei](https://osu.ppy.sh/users/807630) | Alojando y manteniendo una de las ejecuciones más largas de [mirror de Beatmaps](https://osu.yas-online.net/) de osu! . |
 | [RBRat3](https://osu.ppy.sh/users/307202) | Numerosas contribuciones gráficas (más allá del recuento) para el cliente del juego y todo lo demás. |
@@ -41,7 +41,7 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 ### Marzo
 
 | Usuario | Contribución |
-| ---- | ------------- |
+| :-- | :-- |
 | [Repflez](https://osu.ppy.sh/users/201392) | Contribución excepcional a la wiki de osu! |
 | [RaikireHiuduo](https://osu.ppy.sh/users/1570014) | Contribución excepcional a la wiki de osu! |
 | [givenameplz](https://osu.ppy.sh/users/947499) | Desarrolo del osu!Rank y osu!Post |
@@ -53,7 +53,7 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 *Ver también la publicación del anuncio: [Medallas de Colaboradores de la comunidad (Enero 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016).*
 
 | Usuario | Contribución |
-| ---- | ------------- |
+| :-- | :-- |
 | [ztrot](https://osu.ppy.sh/users/6347) | Fundando la [osu!academy](/wiki/osu!academy) |
 | [Tasha](https://osu.ppy.sh/users/1031958) | osu!weekly + Nuevas contribuciones |
 | [Flanster](https://osu.ppy.sh/users/447818) | Destacada presencia de moderación (+10k asesinatos). |
@@ -68,7 +68,7 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 *Ver también la publicación del anuncio: [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53).*
 
 | Usuario | Contribución |
-| ---- | ------------- |
+| :-- | :-- |
 | [Charles445](https://osu.ppy.sh/users/85000) | Años de mantener y mejorar la calidad del mapping, proporcionando asistencia en muchas ocasiones para ayudar a resolver diversos problemas en la comunidad. |
 
 ### Noviembre
@@ -76,7 +76,7 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 *Ver también la publicación del anuncio: [Reconociendo lo mejor de lo mejor](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best).*
 
 | Usuario | Contribución |
-| ---- | ------------- |
+| :-- | :-- |
 | [pishifat](https://osu.ppy.sh/users/3178418) | Rendimiento ejemplar en la creación de beatmaps y en la enseñanza sobre ellos |
 | [Okorin](https://osu.ppy.sh/users/1623405) | Excepcional liderazgo en los asuntos de gestión de beatmap |
 | [IamKwaN](https://osu.ppy.sh/users/1856463) | Sobresaliente presencia de moderación y contribución global |
@@ -92,7 +92,7 @@ Los usuarios actuales con esta insignia se indican en esta tabla:
 *Ver también la publicación del anuncio: [Colaboradores de la Comunidad: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017).*
 
 | Usuario | Contribución |
-| ---- | ------------- |
+| :-- | :-- |
 | [OnosakiHito](https://osu.ppy.sh/users/290128) | Trabajo sobresaliente en la formación de la comunidad temprana de osu!taiko, varios años de permanencia en el BAT/QAT |
 | [Deif](https://osu.ppy.sh/users/318565) | Contribución excepcional a la comunidad de osu!catch, revisión de criterios de clasificación y torneos |
 | [deadbeat](https://osu.ppy.sh/users/128370) | Contribución excepcional a innumerables proyectos de medios, torneos y un mandato a largo plazo en el GMT |
