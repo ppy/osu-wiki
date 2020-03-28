@@ -85,8 +85,8 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
         2.  Si votre pays s'enregistre pour le tournoi 4K elle n'est pas obligée de s'inscrire aussi pour le tournoi 7K et vice-versa.
 
 2.  Chaque équipe doit représenter un pays. Les joueurs constituant l'équipe doivent provenir de ce pays.
-3.  L'inscription des équipes doit être réalisée par le biais de [ce formulaire](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY). Il est impératif de confirmer une équipe en [envoyant un message privé à Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) intitulé “MWC Registration”
-    -   Les capitaines peuvent changer leurs équipes en [en informant la direction](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
+3.  L'inscription des équipes doit être réalisée par le biais de [ce formulaire](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY). Il est impératif de confirmer une équipe en [envoyant un message privé à Loctav](https://osu.ppy.sh/home/messages/users/71366) intitulé “MWC Registration”
+    -   Les capitaines peuvent changer leurs équipes en [en informant la direction](https://osu.ppy.sh/home/messages/users/71366).
 
 4.  Tous les participants d'une équipe sont soumis à un contrôle de sécurité par la direction avant d'être officiellement intégrés.
 5.  32 équipes maximum sont autorisées à participer dans chaque tournoi.

@@ -21,7 +21,7 @@ The **4 Digit osu!mania World Cup 2** (***4DM2***) is a worldwide country-based 
 | Round of 16 | 2020-02-29/2020-03-01 |
 | Quarterfinals | 2020-03-07/2020-03-08 |
 | Semifinals | 2020-03-14/2020-03-15 |
-| Finals Week 1 | 2020-03-21/2020-03-22 |
+| Finals Week 1 | 2020-03-20/2020-03-22 |
 | Finals Week 2 | 2020-03-28/2020-03-29 |
 
 ## Prizes
@@ -106,36 +106,68 @@ The 4 Digit osu!mania World Cup 2 is run by various community members.
 | **G** | ![][flag_RU] Russian Federation | ![][flag_CA] Canada | ![][flag_ES] Spain |
 | **H** | ![][flag_SG] Singapore | ![][flag_NZ] New Zealand | ![][flag_BE] Belgium |
 
-## Match schedule: Semifinals
+## Match schedule: Finals Week 2
 
-Saturday, 14 March 2020:
-
-| Match ID | Team 1 |  |  | Team 2 | Match time (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #24 | Philippines | ![][flag_PH] | ![][flag_CN] | China | **10:00** |
-| #20 | Russian Federation | ![][flag_RU] | ![][flag_KR] | South Korea | **11:00** |
-| #17 | Thailand | ![][flag_TH] | ![][flag_SG] | Singapore | **12:00** |
-| #18 | France | ![][flag_FR] | ![][flag_BR] | Brazil | **17:00** |
-| #19 | Argentina | ![][flag_AR] | ![][flag_CA] | Canada | **20:00** |
-
-Sunday, 15 March 2020:
+Saturday, 28 March 2020:
 
 | Match ID | Team 1 |  |  | Team 2 | Match time (UTC) |
 | :-: | --: | :-: | :-: | :-- | :-: |
-| #21a¹ | France | ![][flag_FR] | ![][flag_TH] | Thailand | **12:00** |
-| #21b¹ | France | ![][flag_FR] | ![][flag_SG] | Singapore | **12:00** |
-| #21c¹ | Brazil | ![][flag_BR] | ![][flag_TH] | Thailand | **12:00** |
-| #21d¹ | Brazil | ![][flag_BR] | ![][flag_SG] | Singapore | **12:00** |
-| #22a² | Russian Federation | ![][flag_RU] | ![][flag_AR] | Argentina | **13:00** |
-| #22b² | Russian Federation | ![][flag_RU] | ![][flag_CA] | Canada | **13:00** |
-| #22c² | South Korea | ![][flag_KR] | ![][flag_AR] | Argentina | **13:00** |
-| #22d² | South Korea | ![][flag_KR] | ![][flag_CA] | Canada | **13:00** |
-| #23 | United Kingdom | ![][flag_GB] | ![][flag_US] | United States | **18:00** |
+| #29 | Philippines | ![][flag_PH] | ![][flag_AR] | Argentina | **14:00** |
 
-¹ Encounter dependent on winner of Match #17 and Match #18  
-² Encounter dependent on winner of Match #19 and Match #20
+Sunday, 29 March 2020:
+
+| Match ID | Team 1 |  |  | Team 2 | Match time (UTC) |
+| :-: | --: | :-: | :-: | :-- | :-: |
+| #30a¹ | United States | ![][flag_US] | ![][flag_PH] | Philippines | **02:00** |
+| #30b¹ | United States | ![][flag_US] | ![][flag_AR] | Argentina | **21:00** |
+
+¹ Encounter dependent on winner of match #29. If team 2 wins match #30, the bracket reset Grand Finals match will take place 30 minutes in advance.
 
 ## Mappools
+
+### Finals Week 2
+
+**[Download the map pack here! (101 MB)](https://www.dropbox.com/s/w8i2vgeunb4iure/Grand%20Finals%20%284DM2%20IS%20GONE%29.zip?dl=0)**
+
+- FreeMod
+  - [Treyarch Sound - Archangel (Civilization) \[Detain\]](https://osu.ppy.sh/beatmapsets/828771#mania/1736352)
+  - [Silentroom - Primatrix (Xonica) \[Utopia\]](https://osu.ppy.sh/beatmapsets/931209#mania/1944488)
+  - [Nothing's Carved In Stone - Out of Control (Valedict) \[Crime Coefficient\]](https://osu.ppy.sh/beatmapsets/1097918#mania/2294006)
+  - [Fightstar - Floods (\[Crz\]Crysarlene) \[Uprising\]](https://osu.ppy.sh/beatmapsets/1130088#mania/2360664)
+  - [Rainbowdragoneyes - Midnight Massacre 2007 (HowToPlayLN) \[13 years later someone has mapped this x1.05\]](https://osu.ppy.sh/beatmapsets/1130026#mania/2360880)
+  - [YZYX - Dysnomia (Chrubble) \[Aphasia\]](https://osu.ppy.sh/beatmapsets/867111#mania/1812736)
+  - [Ras - TURNDOWN(gdbg edit) (-Rem-) \[remuther-\]](https://osu.ppy.sh/beatmapsets/912732#mania/2360648)
+  - [Camellia - This Future (we didn't expect) (Evening) \[btoa\]](https://osu.ppy.sh/beatmapsets/1086076#mania/2271109)
+  - [Sky\_delta - Crystal Clear and Nothing feat. Kanata.N (HowToPlayLN) \[arpia97 x Ticle Ionic Collab (edit)\]](https://osu.ppy.sh/beatmapsets/1130238#mania/2361007)
+  - [Camellia feat. Mayumi Morinaga - re:||BIRTH (\[Crz\]Crysarlene) \[end\]](https://osu.ppy.sh/beatmapsets/1130027#mania/2360556)
+  - [An - Catanoph (TheToaphster) \[Eternity\]](https://osu.ppy.sh/beatmapsets/696257#mania/1474927)
+  - [uno & D.watt (IOSYS TRAX) - #Endroll (ByeForNow) \[LN-VENLY\]](https://osu.ppy.sh/beatmapsets/759313#mania/2156119)
+  - [Hige Driver - Ukigumo (Turtwig) \[4DM IS BURNING (edit)\]](https://osu.ppy.sh/beatmapsets/1129799#mania/2360113)
+  - [Akira Complex - Ether Strike (Kamuy) \[SVoid\]](https://osu.ppy.sh/beatmapsets/1020073#mania/2134472)
+  - [Chroma - Strange Inventor (zero2snow) \[Snowy Blazing's unstable\]](https://osu.ppy.sh/beatmapsets/1130028#mania/2360558)
+- Tiebreaker
+  - **[Camellia - overcomplexification ("Quaternion" Long ver.) (HowToPlayLN) \[RuleNote x Sere2snow Labyrinthine\]](https://osu.ppy.sh/beatmapsets/1130230#mania/2360991)**
+
+### Finals Week 1
+
+**[Download the map pack here! (116 MB)](https://www.dropbox.com/s/qngtsvfx96rpv4q/Finals%20Week%201.zip?dl=0)**
+
+- FreeMod
+  - [Le Dos-on - A (Elekton) \[ex\]](https://osu.ppy.sh/beatmapsets/585451#mania/1240177)
+  - [3L - Endless Night (Gekido-) \[Eternal\]](https://osu.ppy.sh/beatmapsets/956232#mania/2001931)
+  - [Tenacious D - Master Exploder (Valedict) \[BLOW YA MIND\]](https://osu.ppy.sh/beatmapsets/980802#mania/2052615)
+  - [Team Grimoire - TiamaT:F minor (zero2snow) \[Beginner(220.4bpm edit)\]](https://osu.ppy.sh/beatmapsets/1125267#mania/2351117)
+  - [Terminal 11 - Counter Clockwise Chant Pattern (Phil) \[Xaywise\]](https://osu.ppy.sh/beatmapsets/659039#mania/1395854)
+  - [Primary - in the Garden (Tamaki Iroha) \[Garden \[1.15x Rate\] (edit)\]](https://osu.ppy.sh/beatmapsets/1077579#mania/2349764)
+  - [Camellia - epimerization (Chrubble) \[catalyst\]](https://osu.ppy.sh/beatmapsets/907828#mania/1894490)
+  - [Camellia feat. Nanahira - Ska-sh All Neurons!! (HowToPlayLN) \[Re-forward !!\]](https://osu.ppy.sh/beatmapsets/1122764#mania/2349915)
+  - [P\*Light feat. mow\*2 - OVERDRIVERS (inteliser) \[OVERFLOW \[LN\]\]](https://osu.ppy.sh/beatmapsets/578558#mania/1224999)
+  - [Hino Isuka - #be\_fortunate (HowToPlayLN) \[#be\_edited\]](https://osu.ppy.sh/beatmapsets/1099229#mania/2349916)
+  - [Umeri - paranoia (Raveille) \[who are you\]](https://osu.ppy.sh/beatmapsets/997300#mania/2086120)
+  - [Snails & Pegboard Nerds - Deep in the Night (Barely Alive Remix) (-\[DaNieL\_TH\]-) \[KILLA IN THE NIGHT\]](https://osu.ppy.sh/beatmapsets/1098856#mania/2295767)
+  - [Akira Complex - BLACK JACKAL (MAD HOLIC) \[Stage 1 : Equality\]](https://osu.ppy.sh/beatmapsets/1109412#mania/2318366)
+- Tiebreaker
+  - **[Camellia - Luin Of Celtchar (\[GS\]Logan) \[Penguinosity's Rupture (edit)\]](https://osu.ppy.sh/beatmapsets/1125395#mania/2351425)**
 
 ### Semifinals
 
@@ -220,6 +252,47 @@ Sunday, 15 March 2020:
   - [void feat. Gt. HAKKYOU-KUN - Never Escape (HowToPlayLN) \[Stage 4: Surrounded\]](https://osu.ppy.sh/beatmapsets/1105727#mania/2311135)
 
 ## Match results
+
+### Finals
+
+Friday, 20 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| United Kingdom ![][flag_GB] | 1 | **6** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/59413594) |
+
+Saturday, 21 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| China ![][flag_CN] | -1 | **0** | ![][flag_SG] **Singapore** | *nullified* |
+
+Sunday, 22 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States** ![][flag_US] | **6** | 1 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/59465465) |
+| **Argentina** ![][flag_AR] | **6** | 3 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/59478627) |
+
+### Semifinals
+
+Saturday, 14 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Argentina** ![][flag_AR] | **6** | 0 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/59168868) |
+| **Philippines** ![][flag_PH] | **6** | 3 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/59184618) |
+| **Russian Federation** ![][flag_RU] | **6** | 5 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/59185982) |
+| **France** ![][flag_FR] | **6** | 2 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/59193185) |
+| United Kingdom ![][flag_GB] | 0 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/59196872) |
+
+Sunday, 15 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Thailand ![][flag_TH] | 4 | **6** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/59216125) |
+| Russian Federation ![][flag_RU] | 2 | **6** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/59223440) |
+| France ![][flag_FR] | 5 | **6** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/59225586) |
 
 ### Quarterfinals
 

@@ -435,7 +435,7 @@ This competition has come to an end and resulted in the following podium:
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, you have to ensure that your global Taiko performace ranking is above \#8000.
    - To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
-3. For signing up, [send a PM to Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “TWC Registration”.
+3. For signing up, [send a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “TWC Registration”.
    - Add your local time zone to the registration PM.
    - You get a confirmation reply if your registration successfully arrived. Your registration is in pending then.
 4. The total amount of teams is 32.

@@ -106,6 +106,66 @@ The osu! TV Size Tournament 2020 is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here! (114 MB)](https://drive.google.com/file/d/1bxHpQLc6RKX1TP7XAgW9J08LDBzjAg1g/view)**
+
+- NoMod
+  - [Shiggy Jr. - oyasumi (Jval93700) \[-Hwangbo's Kimochi\]](https://osu.ppy.sh/beatmapsets/832247#osu/1761351)
+  - [Hazuki - Legend of Millennium (Syph) \[BMD's Expert\]](https://osu.ppy.sh/beatmapsets/785703#osu/1660602)
+  - [3R2 - Kitty Attack (Settia) \[Extra\]](https://osu.ppy.sh/beatmapsets/700476#osu/1483226)
+  - [P4koo - Feelings of fake (feat. Tsuyuri Karin) (Heilia) \[Skymin's Expert\]](https://osu.ppy.sh/beatmapsets/921855#osu/1961615)
+- Hidden
+  - [Nanawo Akari - One Room Sugar Life (TV Size) (Garden) \[ak74's Extra\]](https://osu.ppy.sh/beatmapsets/814033#osu/1714827)
+  - [chano & 40mP - Natsukoi Hanabi (Lasse) \[Expert\]](https://osu.ppy.sh/beatmapsets/650427#osu/1378899)
+  - [MC Lynn - EkiBEN2000 (arken1015) \[Insane\]](https://osu.ppy.sh/beatmapsets/9782#osu/42793)
+- HardRock
+  - [Ryu\* - Mind Mapping (kors k mix) (wring) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/47199#osu/146583)
+  - [Nekomata Master - Echoes (Beomsan) \[EX\]](https://osu.ppy.sh/beatmapsets/1054456#osu/2203226)
+  - [Inspector K - Disconnected Hardkore (CanBlaster Remix) (7odoa) \[Insane\]](https://osu.ppy.sh/beatmapsets/30485#osu/100627)
+- DoubleTime
+  - [ALiCE'S EMOTiON - Evening Steps (TicClick) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/270457#osu/615227)
+  - [ZUN - Kyouki no Hitomi ~ Invisible Full Moon (Leader) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/974523#osu/2039818)
+  - [Eru - Heian no Alien (Vass_Bass) \[Vass-RJ's Insane\]](https://osu.ppy.sh/beatmapsets/116669#osu/300923)
+- FreeMod
+  - [Morimori Atsushi - Tits or get the fuck out!! (Regou) \[FreeSongs' Extra!!\]](https://osu.ppy.sh/beatmapsets/455022#osu/995932)
+  - [Halozy - Staggering Spirit, Keine's Staggering Song (Card N'FoRcE) \[Absurd\]](https://osu.ppy.sh/beatmapsets/25338#osu/85816)
+  - [kamome sano Electric Orchestra - FIN4LE \~Shuushisen no Kanata e\~ (R3m) \[Mordred's INFINITE\]](https://osu.ppy.sh/beatmapsets/742031#osu/1682831)
+- Tiebreaker
+  - **[Denkishiki Karen Ongaku Shuudan - Yakata Mawari (Dored) \[Yugu's Transmigration\]](https://osu.ppy.sh/beatmapsets/834127#osu/1761412)**
+  - **[onoken - Quinine -A2D SIDE- (Matrix) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/932298#osu/1946518)**
+  - **[Camellia - Chirality (LowAccuracySS) \[Sing's Expert\]](https://osu.ppy.sh/beatmapsets/743310#osu/1572583)**
+
+### Quarterfinals
+
+**[Download the mappack here! (84 MB)](https://drive.google.com/file/d/13ZPRDcUtZX-ePwOIFQ8aqB9G2nxK_Usw/view)**
+
+- NoMod
+  - [BUTA-OTOME - Heisei Kaisei Dottenshan (BarkingMadDog) \[SHOOTING STAR\]](https://osu.ppy.sh/beatmapsets/724942#osu/1530772)
+  - [wa. - Black Lotus (Realazy) \[Loli's Extra\]](https://osu.ppy.sh/beatmapsets/679918#osu/1455320)
+  - [DJ TOTTO - Douwa Kairou (Yusomi) \[Another\]](https://osu.ppy.sh/beatmapsets/913314#osu/1927613)
+  - [fang - Intro (Realazy) \[Psychotomimetic\]](https://osu.ppy.sh/beatmapsets/945380#osu/1974177)
+- Hidden
+  - [Blend A - Bon Appetit S (TV Size ver) (Underforest) \[Left's Sadistic\]](https://osu.ppy.sh/beatmapsets/678593#osu/1434844)
+  - [bbn - Identic Conflict (Myxo) \[Black Another\]](https://osu.ppy.sh/beatmapsets/1020429#osu/2135058)
+  - [SHK - Violet Perfume (ktgster) \[SHD\]](https://osu.ppy.sh/beatmapsets/1010865#osu/2115970)
+- HardRock
+  - [Trial & Error - Tokoyami no keiyaku KEGARETA-SHOUJO feat. GUMI (Short Ver.) (ailv) \[Expert\]](https://osu.ppy.sh/beatmapsets/746625#osu/1573521)
+  - [Nekomata Master+ - Proof of the existence (Alheak) \[Expert\]](https://osu.ppy.sh/beatmapsets/427864#osu/923589)
+  - [Nekomata Master+ - encounter (Realazy) \[Kotori's Extreme\]](https://osu.ppy.sh/beatmapsets/815758#osu/1710847)
+- DoubleTime
+  - [ani feat. moco - Light up My Love (popner) \[Hyper\]](https://osu.ppy.sh/beatmapsets/83572#osu/230692)
+  - [Suda Keina - veil (TV Size) (Fixxis) \[Senseabel's Insane\]](https://osu.ppy.sh/beatmapsets/1004116#osu/2102445)
+  - [Chata - min (Net0) \[Insane\]](https://osu.ppy.sh/beatmapsets/777322#osu/1633045)
+- FreeMod
+  - [BlackY vs. Yooh - HAVOX (Realazy) \[Sulfur's GRAVITY\]](https://osu.ppy.sh/beatmapsets/823616#osu/1760861)
+  - [Kajiura Yuki - crossing a dangerous bridge (Mordred) \[Expert\]](https://osu.ppy.sh/beatmapsets/1019198#osu/2132761)
+  - [KISIDA KYODAN & THE AKEBOSI ROCKETS - Stray (TV Size) (SMOKELIND) \[Kill or be killed!\]](https://osu.ppy.sh/beatmapsets/974386#osu/2039589)
+- Tiebreaker
+  - **[Qrispy Joybox - licca (Priti) \[Ultra\]](https://osu.ppy.sh/beatmapsets/307837#osu/688568)**
+  - **[seiya-murai feat.ALT - Sumidagawa Karenka (kiddly) \[Extra\]](https://osu.ppy.sh/beatmapsets/28796#osu/96095)**
+  - **[lapix - Nothing but Theory (azr8) \[ultra jazzfunktion\]](https://osu.ppy.sh/beatmapsets/914146#osu/1924570)**
+
 ### Round of 16
 
 **[Download the mappack here! (96 MB)](https://drive.google.com/file/d/16zDfpKcdpQYaBQonxeQOpfWB_Ih3ck1d/view)**
@@ -177,6 +237,62 @@ The osu! TV Size Tournament 2020 is run by various community members.
   - [Primastella - Koigokoro (Luerxa) \[Delis' Insane\]](https://osu.ppy.sh/beatmapsets/127712#osu/323875)
 
 ## Match results
+
+### Quarterfinals
+
+Saturday, 21 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Rubber Conquest** | **6** | 0 | IshuzokuRebyuāzu | [#1](https://osu.ppy.sh/community/matches/59428783) |
+| **＝ＹＡＨＥ** | **6** | 0 | Old & Irrelevant | [#1](https://osu.ppy.sh/community/matches/59437383) |
+| **Kangaroo** | **6** | 0 | BRATVA I KOLCO | [#1](https://osu.ppy.sh/community/matches/59442860) |
+| WE LOVE LWMF! | 1 | **6** | **osim** | [#1](https://osu.ppy.sh/community/matches/59442778) |
+| **osu stonehenge** | **0** | -1 | Pocket Galaxy | *win by default* |
+| Mirash Fanclub | 4 | **6** | **Sutiire** | [#1](https://osu.ppy.sh/community/matches/59445143) |
+| **STOOF CLONES** | **7** | 6 | KasuLewd | [#1](https://osu.ppy.sh/community/matches/59445117) |
+| **will is 2** | **7** | 6 | seusbruk | [#1](https://osu.ppy.sh/community/matches/59447044) |
+| **china** | **6** | 2 | GrandMaineAngers | [#1](https://osu.ppy.sh/community/matches/59449247) |
+| **Morello Crew** | **6** | 4 | Knuckles Batty | [#1](https://osu.ppy.sh/community/matches/59451720) |
+| **Couchers** | **7** | 5 | Pwzekaczkaòwó | [#1](https://osu.ppy.sh/community/matches/59453540) |
+
+Sunday, 22 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Kangaroo** | **0** | -1 | Couchers | *win by default* |
+| **Floating up** | **6** | 2 | riuzaky homo | [#1](https://osu.ppy.sh/community/matches/59480324) |
+| Sutiire | 0 | **6** | **osim** | [#1](https://osu.ppy.sh/community/matches/59480416) |
+| **Morello crew** | **6** | 3 | STOOF CLONES | [#1](https://osu.ppy.sh/community/matches/59486399) |
+| china | 5 | **6** | osu stonehenge | [#1](https://osu.ppy.sh/community/matches/59488497) |
+
+### Round of 16
+
+Saturday, 14 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **= Y A H E** | **5** | 0 | STOOF CLONES | [#1](https://osu.ppy.sh/community/matches/59174978) |
+| nakapagpabagabag | 3 | **5** | **KasuLewd** | [#1](https://osu.ppy.sh/community/matches/59176904) |
+| **osim** | **6** | 5 | o!CLWS大学赛冬季2020 | [#1](https://osu.ppy.sh/community/matches/59176902) |
+| **Floating up** | **5** | 1 | WE LOVE LWMF! | [#1](https://osu.ppy.sh/community/matches/59181339) |
+| Morello crew | -1 | **0** | **Old & Irrelevant** | *win by default* |
+| Fruteria Manoli | 0 | **5** | **Knuckles Batty** | [#1](https://osu.ppy.sh/community/matches/59188567) |
+| San Lorenzo | 0 | **5** | **Sutiire** | [#1](https://osu.ppy.sh/community/matches/59190683) |
+| **Rubber Conquest** | **5** | 0 | osu stonehenge | [#1](https://osu.ppy.sh/community/matches/59196345) |
+| **Pwzekaczkaòwó** | **5** | 4 | Laburar | [#1](https://osu.ppy.sh/community/matches/59195030) |
+| Washingamers | 2 | **5** | **Pocket Galaxy** | [#1](https://osu.ppy.sh/community/matches/59197549) |
+| **will is 2** | **5** | 0 | Couchers | [#1](https://osu.ppy.sh/community/matches/59199388) |
+
+Sunday, 15 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| china | 3 | **5** | **IshuzokuRebyuāzu** | [#1](https://osu.ppy.sh/community/matches/59211472) |
+| Smile and wave | -1 | **0** | **BRATVA I KOLCO** | *win by default* |
+| **seusbruk** | **5** | 0 | Kangaroo | [#1](https://osu.ppy.sh/community/matches/59223212) |
+| **riuzaky homo** | **5** | 4 | Mirash Fanclub | [#1](https://osu.ppy.sh/community/matches/59231301) |
+| Mahloola | 5 | **6** | **GrandMaineAngers** | [#1](https://osu.ppy.sh/community/matches/59233803) |
 
 ### Round of 32
 

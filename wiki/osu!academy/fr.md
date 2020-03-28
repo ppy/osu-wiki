@@ -52,6 +52,6 @@ Si vous avez des questions ou des commentaires, veuillez les envoyer à [ztrot](
 
 ## Liens externes
 
-- [Source](https://news.ppy.sh/post/70504430082/introducing-the-osu-academy)
+- [Source](https://osu.ppy.sh/home/news/2013-12-19-introducing-the-osu-academy)
 - [Chaîne YouTube officielle](https://www.youtube.com/user/osuacademy/videos)
 - [Fil officiel](https://osu.ppy.sh/community/forums/topics/169707)

@@ -12,7 +12,7 @@ PP这一评定方式是在2012年4月以**???**的形式公测的，然后在201
 
 # 位置
 
-PP的排名可以在[这里](https://osu.ppy.sh/p/pp)查看，同时也可以在游戏用户信息框中查看。 或是在網站上方導覽列可以找到(Rankings -&gt; Performance)
+PP的排名可以在[这里](https://osu.ppy.sh/p/pp)查看，同时也可以在游戏用户信息框中查看。 或是在網站上方導覽列可以找到(Rankings -> Performance)
 
 # 计算方式
 

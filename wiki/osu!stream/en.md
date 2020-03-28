@@ -191,7 +191,7 @@ Stream mode is a new implementation specially for osu!stream. In this mode, play
 
 In short, the player start in between Easy and Hard.
 
-Do note the player **must score at least A (&gt;80% accuracy) rank in this mode in order to unlock the Expert mode of the song**. Accuracy lower than 80% even if full-combo does not count as A (it will be counted as B as usual).
+Do note the player **must score at least A (>80% accuracy) rank in this mode in order to unlock the Expert mode of the song**. Accuracy lower than 80% even if full-combo does not count as A (it will be counted as B as usual).
 
 The background colour is Green (Easy), Blue (Normal) and Pink (Hard).
 

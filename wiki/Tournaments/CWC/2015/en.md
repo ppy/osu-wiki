@@ -416,7 +416,7 @@ The osu! Catch the Beat World Cup 2015 was run by various community members by d
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, you have to ensure that your global Catch the Beat performace ranking is above \#5000.
    - To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
-3. For signing up, [send a PM to Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “CWC Registration”.
+3. For signing up, [send a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “CWC Registration”.
    - You get a confirmation reply if your registration successfully arrived. Your registration is in pending then.
 4. All successfully formed teams will be published after the Registration Phase.
 5. Mapset selectors may not participate as a player in this tournament.

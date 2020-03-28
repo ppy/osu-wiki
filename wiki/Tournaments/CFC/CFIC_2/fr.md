@@ -8,7 +8,7 @@ tags:
 
 ![CFIC 2 logo](img/logo.jpg)
 
-La **Catch French Intermediate Cup 2** (***CFIC 2***) est un tournoi 1v1 français intermédiaire en osu!catch organisé par ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), et ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). C'en est la deuxième édition et une nouvelle branche de la Catch French Cup.
+La **Catch French Intermediate Cup 2** (***CFIC 2***) était un tournoi 1v1 français intermédiaire en osu!catch organisé par ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565), et ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133). C'en était la deuxième édition et une nouvelle branche de la Catch French Cup.
 
 ## Planning du tournoi
 
@@ -25,13 +25,15 @@ La **Catch French Intermediate Cup 2** (***CFIC 2***) est un tournoi 1v1 frança
 
 ## Récompenses
 
-| Classement | Récompenses |
+| Classement | Récompense |
 | :-: | :-- |
 | ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | Badge sur le profil |
 
+![](img/badge.png "Badge du gagnant du CFIC 2")
+
 ## Organisation
 
-La Catch French Intermediate Cup 2 est gérée par différents membres de la communauté.
+La Catch French Intermediate Cup 2 était gérée par différents membres de la communauté.
 
 | Poste | Membre(s) |
 | :-- | :-- |
@@ -72,27 +74,46 @@ La Catch French Intermediate Cup 2 est gérée par différents membres de la com
 | C | ![][flag_FR] [Electr0o](https://osu.ppy.sh/users/9484428) | ![][flag_FR] [TomyLeFaux](https://osu.ppy.sh/users/9504653) | ![][flag_FR] [Zard](https://osu.ppy.sh/users/6277626) | ![][flag_FR] [NinjaCoktail](https://osu.ppy.sh/users/11431902) |
 | D | ![][flag_FR] [dracoV](https://osu.ppy.sh/users/7925725) | ![][flag_FR] [NoLimitFS](https://osu.ppy.sh/users/10411609) | ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990) | ![][flag_FR] [Oasix](https://osu.ppy.sh/users/6183012) |
 
-## Planning des matches: Finals
+## Podium
 
-Samedi, 14 Mars 2020:
+La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
-| ID du match | Joueur 1 |  |  | Joueur 2 | Horaire du match (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #1 | Fuka Pura | ![][flag_FR] | ![][flag_FR] | dracoV | **15:00** |
-| #2 | Dask | ![][flag_FR] | ![][flag_FR] | Kaleesy Pura | **17:00** |
-
-Dimanche, 15 Mars 2020:
-
-| ID du match | Joueur 1 |  |  | Joueur 2 | Horaire du match (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #3a¹ | Fuka Pura | ![][flag_FR] | ![][flag_FR] | Dask | **15:00** |
-| #3b¹ | Fuka Pura | ![][flag_FR] | ![][flag_FR] | Kaleesy Pura | **15:00** |
-| #3c¹ | dracoV | ![][flag_FR] | ![][flag_FR] | Dask | **15:00** |
-| #3d¹ | dracoV | ![][flag_FR] | ![][flag_FR] | Kaleesy Pura | **15:00** |
-
-¹ Confrontation dépendant du gagnant du Match #2 et perdant du Match #1
+| Classement | Joueur |
+| :-: | :-- |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688) |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_FR] [dracoV](https://osu.ppy.sh/users/7925725) |
 
 ## Liste des maps
+
+### Grandes Finales
+
+**[Download the mappack here! (109 MB)](https://mega.nz/#!RdgDjC6B!XEZDuiV1BJnS-8Id5CGiK_79OI1rOLAScZk54BA_c0Y)**
+
+- NoMod
+  - [Konuko - Toumei Elegy (Sinnoh) \[Overdose\]](https://osu.ppy.sh/beatmapsets/658896#fruits/1395516)
+  - [D.watt(OTAKU-ELITE Recordings) - Opium and Purple haze (CLSW) \[INFINITE\]](https://osu.ppy.sh/beatmapsets/596519#fruits/1261323)
+  - [Kuroneko Dungeon - Ryoushi no Umi no Lindwurm (\[\_-Kukkai-\_\]) \[Overdose\]](https://osu.ppy.sh/beatmapsets/857537#fruits/1830273)
+  - [Nardis - Cosmo Memory (Shiirn) \[Entelecheia\]](https://osu.ppy.sh/beatmapsets/517598#fruits/1099759)
+  - [Ryu\* - Sakura Reflection (MYTK Remix) (Leader) \[Another\]](https://osu.ppy.sh/beatmapsets/288486#fruits/650610)
+  - [Caravan Palace - Dragons (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/46733#fruits/145361)
+- Hidden
+  - [Function Phantom - Neuronecia (Minato Yukina) \[Rain\]](https://osu.ppy.sh/beatmapsets/1054925#fruits/2204221)
+  - [Clown Core - Hell (Sinnoh) \[Rain\]](https://osu.ppy.sh/beatmapsets/925638#fruits/1933443)
+  - [Said The Sky - For You (Ft. Melissa Hayes) (Bearizm) \[Insane\]](https://osu.ppy.sh/beatmapsets/847645#fruits/1773226)
+  - [ZUN - Old Yuanshen (Parachute) \[\Para's Lunatic\]](https://osu.ppy.sh/beatmapsets/71800#fruits/208208)
+- HardRock
+  - [nmk - sola (-Sh1n1-) \[MBomb's Rain\]](https://osu.ppy.sh/beatmapsets/595972#fruits/1274343)
+  - [Orange Lounge - Marmalade Reverie (-Ken) \[Paradis (CFIC)\]](https://osu.ppy.sh/beatmapsets/1125533#fruits/2351771)
+  - [Hanatan - Kitsune no Yomeiri (Ryafuka) \[Kitsuneko\]](https://osu.ppy.sh/beatmapsets/46070#fruits/144387)
+  - [Yasunori Mitsuda - Battle with Magus (AdvanceBoy) \[Darkness\]](https://osu.ppy.sh/beatmapsets/37332#fruits/120119)
+- DoubleTime
+  - [Cranky - EMPEROR (JBHyperion) \[PLATTER\]](https://osu.ppy.sh/beatmapsets/979438#fruits/2054224)
+  - [Memme - Force of Ra (Deif) \[Platter\]](https://osu.ppy.sh/beatmapsets/573479#fruits/1214850)
+  - [Senya - Kodokutsuki (y u z u k i) \[gow's insane\]](https://osu.ppy.sh/beatmapsets/24706#fruits/83968)
+  - [Duca - Zettai Darli'n (Little) \[Insane\]](https://osu.ppy.sh/beatmapsets/414709#fruits/898884)
+- Tiebreaker
+  - **[Chata - enn (Spectator) \[The Melody of Wish, Desires\]](https://osu.ppy.sh/beatmapsets/692979#fruits/1466362)**
 
 ### Finales
 
@@ -101,7 +122,7 @@ Dimanche, 15 Mars 2020:
   - [DJ TOTTO feat. Enako - Precious \* Star (Spectator) \[Overdose\]](https://osu.ppy.sh/beatmapsets/776495#fruits/1631467)
   - [REDALiCE vs. MASAKI - BUCHiGiRE Berserker (Bunnrei) \[INSANE\]](https://osu.ppy.sh/beatmapsets/1074448#fruits/2249908)
   - [sana - Miraizu (Lasse) \[Forever\]](https://osu.ppy.sh/beatmapsets/378196#fruits/890467)
-  - [toby fox - MEGALOVANIA (Kyshiro) \[Burn\]](https://osu.ppy.sh/beatmapsets/387700#fruits/846105)
+  - [toby fox - MEGALOVANIA (Kyshiro) \[Insane\]](https://osu.ppy.sh/beatmapsets/387700#fruits/847387)
   - [LeaF - Euphoric Orchid Dance (Zetera) \[Zetera's Super Hard\]](https://osu.ppy.sh/beatmapsets/431102#fruits/929941)
 - Hidden
   - [P\*Light - FUNKY SUMMER BEACH (alienflybot) \[Rain\]](https://osu.ppy.sh/beatmapsets/807977#fruits/1695597)
@@ -111,7 +132,7 @@ Dimanche, 15 Mars 2020:
 - HardRock
   - [FOLiACETATE - Heterochromia Iridis (Deif) \[Platter\]](https://osu.ppy.sh/beatmapsets/833719#fruits/2170652)
   - [Ray - Nagi (mingmichael) \[Rain\]](https://osu.ppy.sh/beatmapsets/146008#fruits/361907)
-  - [Shimotsuki Haruka - Tsubasa o Motanai Shoujo (Dored) \[Blue Bird\]](https://osu.ppy.sh/beatmapsets/883825#fruits/1847491)
+  - [Shimotsuki Haruka - Tsubasa o Motanai Shoujo (Dored) \[Rio's Eztra\]](https://osu.ppy.sh/beatmapsets/883825#fruits/1866037)
   - [FF7 Original Soundtrack - Crazy Motorcycle Chase (James) \[Crazy!\]](https://osu.ppy.sh/beatmapsets/1961#fruits/18170)
 - DoubleTime
   - [Neru - Byoumei Wa Ai Datta (Ellyu) \[Rew's Platter\]](https://osu.ppy.sh/beatmapsets/684960#fruits/2203059)
@@ -210,6 +231,29 @@ Dimanche, 15 Mars 2020:
   - [TiA - Ryuusei (Dangaard) \[Hard\]](https://osu.ppy.sh/beatmapsets/10960#fruits/42241)
 
 ## Résultats des matches
+
+### Grandes Finales
+
+Samedi, 21 Mars 2020:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| **Fuka Pura** ![][flag_FR] | **7** | 2 | ![][flag_FR] Kaleesy Pura | [#1](https://osu.ppy.sh/community/matches/59441101) |
+
+### Finales
+
+Samedi, 14 Mars 2020:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| **Fuka Pura** ![][flag_FR] | **7** | 1 | ![][flag_FR] dracoV | [#1](https://osu.ppy.sh/community/matches/59186168) |
+
+Dimanche, 15 Mars 2020:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| Dask ![][flag_FR] | 3 | **7** | ![][flag_FR] **Kaleesy Pura** | [#1](https://osu.ppy.sh/community/matches/59219870) |
+| dracoV ![][flag_FR] | 2 | **7** | ![][flag_FR] **Kaleesy Pura** | [#1](https://osu.ppy.sh/community/matches/59223133) |
 
 ### Demi-finales
 

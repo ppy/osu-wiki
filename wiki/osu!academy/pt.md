@@ -8,7 +8,7 @@ outdated: true
 
 ## Introdução
 
-Fonte: <https://news.ppy.sh/post/70504430082/introducing-the-osu-academy>
+Fonte: <https://osu.ppy.sh/home/news/2013-12-19-introducing-the-osu-academy>
 Canal Oficial do Youtube: <https://www.youtube.com/user/osuacademy/videos>
 Forum oficial: <https://osu.ppy.sh/community/forums/topics/169707>
 

@@ -10,7 +10,7 @@
 
 ## 仕様について
 
-これは[公式の仕様](https://osu.ppy.sh/forum/viewtopic.php?p=12468#p12468)と大規模なSBの作成に基づいています。 これは**順を追うタイプのガイドではありません。** それはSBSがosu!のスクリーンに影響する詳細についてだけを網羅していることを意味します。
+これは[公式の仕様](https://osu.ppy.sh/community/forums/topics/1869)と大規模なSBの作成に基づいています。 これは**順を追うタイプのガイドではありません。** それはSBSがosu!のスクリーンに影響する詳細についてだけを網羅していることを意味します。
 
 [SBSを弄る前にここを読んでください。それをすることで後で起こるかもしれない面倒事を回避することができるかもしれません](/wiki/Storyboard_Scripting/General_Rules)。 [スプライトとオブジェクトの仕様についてと](/wiki/Storyboard_Scripting/Objects)[動作させるコマンドについて](/wiki/Storyboard_Scripting/Commands).
 

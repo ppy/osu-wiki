@@ -447,8 +447,8 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
     2.  你必须选择一位队长代表队伍.
 
 2.  每个队伍代表一个国家. 队员必须来自同一个国家.
-3.  报名步骤为, [填写该表](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). 然后[给Loctav发送确认PM](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366), 标题为“OWC Registration”
-    1.  队长可以[通知比赛委员会](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366)来更改队员组成.
+3.  报名步骤为, [填写该表](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). 然后[给Loctav发送确认PM](https://osu.ppy.sh/home/messages/users/71366), 标题为“OWC Registration”
+    1.  队长可以[通知比赛委员会](https://osu.ppy.sh/home/messages/users/71366)来更改队员组成.
 
 4.  所有报名信息及其修改请求由比赛委员会审核后加入参赛者名单.
 5.  队伍总数为32. 先到先报名.

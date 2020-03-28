@@ -10,7 +10,7 @@ In addition to using the [Storyboard Editor](/wiki/Beatmap_Editor/Design)(Design
 
 ## Full specification
 
-It is primarily based on [the official specifications](https://osu.ppy.sh/forum/viewtopic.php?p=12468#p12468) and experience in making large SBs. This is **not a step-by-step guide**, although simple examples are provided. It is meant to exhaustively detail how SBS translates into actions on-screen in osu!.
+It is primarily based on [the official specifications](https://osu.ppy.sh/community/forums/topics/1869) and experience in making large SBs. This is **not a step-by-step guide**, although simple examples are provided. It is meant to exhaustively detail how SBS translates into actions on-screen in osu!.
 
 [Please read the rule before doing SBS.](/wiki/Storyboard_Scripting/General_Rules) It will save you the hassle later on. [For sprite/object spec.](/wiki/Storyboard_Scripting/Objects) and [their moveset](/wiki/Storyboard_Scripting/Commands).
 
