@@ -259,6 +259,26 @@ Sunday, 5 April 2020:
 
 ## Match results
 
+### Semifinals
+
+Saturday, 28 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| IshuzokuRebyuāzu | 4 | **6** | **Kangaroo** | [#1](https://osu.ppy.sh/mp/59698971) |
+| Old & Irrelevant | 0 | **6** | **osim** | [#1](https://osu.ppy.sh/community/matches/59707557) |
+| osu stonehenge | 0 | **6** | **seusbruk** | [#1](https://osu.ppy.sh/community/matches/59713993) |
+| **riuzaky homo** | **6** | 4 | Morello crew | [#1](https://osu.ppy.sh/mp/59718180) |
+
+Sunday, 29 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Rubber Conquest** | **6** | 0 | ＝ＹＡＨＥ | [#1](https://osu.ppy.sh/community/matches/59730638) |
+| **osim** | **6** | 3 | Kangaroo | [#1](https://osu.ppy.sh/mp/59737706) |
+| will is 2 | 1 | **6** | **Floating up** | [#1](https://osu.ppy.sh/mp/59742702) |
+| **seusbruk** | **6** | 0 | riuzaky homo | [#1](https://osu.ppy.sh/community/matches/59749127) |
+
 ### Quarterfinals
 
 Saturday, 21 March 2020:
