@@ -26,9 +26,9 @@ The **Great Singapore Tournament** (***GST***) was a Singaporean double-eliminat
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | S$40 |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | S$20 |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | S$10 |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | S$40 per player |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | S$20 per player |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | S$10 per player |
 
 ## Organisation
 
