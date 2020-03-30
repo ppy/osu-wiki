@@ -124,8 +124,8 @@ outdated: true
     2.  リストへの追加を認められるには、太鼓ppランキングが世界8000位以上でなければいけません。
     3.  リストへの追加を認められるには、この12ヶ月間[osu! community rulesに違反していてはいけません](/wiki/Rules)。
 
-3.  For signing up, [send a PM to Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “TWC Registration”.
-4.  登録を申し込むには、"TWC Registration"というタイトルのforum PMをLoctavに送ってください[forum PMをLoctavに送ってください](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366)。
+3.  For signing up, [send a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “TWC Registration”.
+4.  登録を申し込むには、"TWC Registration"というタイトルのforum PMをLoctavに送ってください[forum PMをLoctavに送ってください](https://osu.ppy.sh/home/messages/users/71366)。
     1.  登録PMにローカルタイムゾーンを追記してください。（日本の場合はUTC、GMT共に+9になります。）
     2.  登録申請が問題なく届いた場合、確認の返事が届きます。そのとき申請は承認待ちの状態です。
 

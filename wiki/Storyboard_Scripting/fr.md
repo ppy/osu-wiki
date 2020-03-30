@@ -10,7 +10,7 @@ En plus d'utiliser l'[éditeur de Storyboard](/wiki/Beatmap_Editor/Design)(Desig
 
 ## Spécifications complètes
 
-Il est principalement basé sur [les spécifications officielles](https://osu.ppy.sh/forum/viewtopic.php?p=12468#p12468) et l'expérience dans la fabrication de gros Storyboards. Ce n'est **pas un guide étape par étape**, bien que des exemples simples soient fournis. Il est destiné à détailler de manière exhaustive comment SBS se traduit en actions à l'écran dans osu!.
+Il est principalement basé sur [les spécifications officielles](https://osu.ppy.sh/community/forums/topics/1869) et l'expérience dans la fabrication de gros Storyboards. Ce n'est **pas un guide étape par étape**, bien que des exemples simples soient fournis. Il est destiné à détailler de manière exhaustive comment SBS se traduit en actions à l'écran dans osu!.
 
 [S'il vous plaît lisez les règles avant de faire du SBS.](/wiki/Storyboard_Scripting/General_Rules) Cela vous évitera des soucis plus tard. [Pour les spécifications sprite/objet.](/wiki/Storyboard_Scripting/Objects) et [leur moveset](/wiki/Storyboard_Scripting/Commands).
 

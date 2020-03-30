@@ -11,7 +11,7 @@
 
 ***[Clique aqui para retornar à página "Conquistas"](..)***
 
-Pacotes temáticos clássicos/originais durante os anos de infância do osu! (2009) antes de serem atualizados por [Stefan em 16 de janeiro de 2016](https://osu.ppy.sh/news/137535031193).
+Pacotes temáticos clássicos/originais durante os anos de infância do osu! (2009) antes de serem atualizados por [Stefan em 16 de janeiro de 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44).
 
 ## Pacote Anime
 ### Volume 1

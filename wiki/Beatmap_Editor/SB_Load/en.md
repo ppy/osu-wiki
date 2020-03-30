@@ -6,7 +6,7 @@ Without any storyboarding, this value is 1x (as the 640x480 space needs to be dr
 
 It's best if a map never exceeds 5x SB Load. This ensures that the map is viewable to most players without causing undue stress on graphics hardware.
 
-[Original Forum Post](https://osu.ppy.sh/forum/viewtopic.php?p=525077#p525077)
+[Original Forum Post](https://osu.ppy.sh/community/forums/posts/525077)
 
 ## Where It's Displayed
 

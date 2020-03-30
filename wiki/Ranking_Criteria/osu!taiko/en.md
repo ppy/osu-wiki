@@ -99,7 +99,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Rules
 
-- **If a 1/3 pattern is used, the patterns must stay simplistic and be followed by a rest moment.** Finisher notes must not be used in patterns as such.
+- **If a 1/3 pattern is used, the patterns must stay simplistic.** Finisher notes must not be used in patterns as such.
 - **Patterns on snaps faster than 1/3 are disallowed.** These patterns are too complex for beginner players.
 
 If a Futsuu difficulty is required and used as the *lowest difficulty* of a beatmapset, it must also abide by these rules:
@@ -108,7 +108,7 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 
 #### Guidelines
 
-- **1/3 patterns should not be longer than two notes.** Anything longer is very situational and usually too complex for newer players. Patterns like these should be followed by a rest moment.
+- **1/3 patterns should not be longer than two notes.** Anything longer is very situational and usually too complex for newer players. Patterns like these should be followed by a rest moment within 2/1 and not contain any 1/2 or faster patterns within that time.
 - **1/2  patterns should not be longer than seven notes.** Anything longer is likely to be too straining for beginners.
 - **Main snapping should consist of mostly 1/1, 2/1 or slower rhythms.** Occasionally using 1/2 rhythms is acceptable.
 - **There should be at least 1/2 distance between a spinner and its preceding note.** This is to ensure they do not overlap substantially and assure readability.

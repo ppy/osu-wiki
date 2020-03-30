@@ -95,8 +95,8 @@ Saturday, 28 March 2020:
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
 | Germany | ![][flag_DE] | ![][flag_CN] | China | **13:00 UTC** | 14:00 UTC+01 | 21:00 UTC+08 | ² |
 | Italy | ![][flag_IT] | ![][flag_PL] | Poland | **14:30 UTC** | 15:30 UTC+01 | 15:30 UTC+01 | ² |
-| Sweden | ![][flag_SE] | ![][flag_BR] | Brazil | **16:00 UTC** | 17:00 UTC+01 | 13:00 UTC-03 | ² |
 | Canada | ![][flag_CA] | ![][flag_ES] | Spain | **17:30 UTC** | 12:30 UTC-05 | 18:30 UTC+01 | ² |
+| Sweden | ![][flag_SE] | ![][flag_BR] | Brazil | **19:00 UTC** | 20:00 UTC+01 | 16:00 UTC-03 | ² |
 
 Sunday, 29 March 2020:
 

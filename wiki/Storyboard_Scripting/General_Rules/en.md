@@ -47,7 +47,7 @@ The "Fail" and "Pass" layers are never on-screen simultaneously, unlike in Desig
 
 -   Objects that overlap in different layers will be drawn in the order described above (e.g., any object in the Foreground layer will always be visible in front of any object in the Background, Fail, or Pass layers).
 -   Objects that overlap in the same layer will be drawn in the order in which they are specified (e.g., if Object 1 is specified first in the .osb or .osu file, and then Object 2 is as well, but they are both in the same layer, Object 2 will appear in front of Object 1).
--   Commands from the .osb file take precedence over those from the .osu file within the layers, as if the commands from the .osb were appended to the end of the .osu commands. This does not overrule the four layers mentioned above. [Example](https://osu.ppy.sh/forum/viewtopic.php?p=469997#p469997).
+-   Commands from the .osb file take precedence over those from the .osu file within the layers, as if the commands from the .osb were appended to the end of the .osu commands. This does not overrule the four layers mentioned above. [Example](https://osu.ppy.sh/community/forums/topics/1869?start=469997).
 
 ### Game State
 

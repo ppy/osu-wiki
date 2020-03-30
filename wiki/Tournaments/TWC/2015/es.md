@@ -83,7 +83,7 @@ El país campeón del torneo anterior es **![][flag_JP] Japón**.
     2.  Los **Adminstradores del Torneo** podrán enfocar los equipos dependiendo de los registros obtenidos y uno podrá ser asignado como Capitán, Aunque temporalmente.
     3.  Los equipos enfocados podrán decidir quien entre ellos puede ser capitán despues.
 
-2.  Para registrarte tienes que mandar un [Mensaje Privado a Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) con el asunto **TWC Registration**.
+2.  Para registrarte tienes que mandar un [Mensaje Privado a Loctav](https://osu.ppy.sh/home/messages/users/71366) con el asunto **TWC Registration**.
     1.  No olvides agregar el Horario de Zona de tu país en el Mensaje Privado (Formato GMT -00:00) - (Mexico = GMT -06:00).
     2.  Recibirás un correo de confirmacion cuando tu registro ha sido exitoso, Tu registro estará pendiente entonces.
 

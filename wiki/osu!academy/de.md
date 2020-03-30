@@ -8,7 +8,7 @@ outdated: true
 
 ![osu!academy's logo](img/osu!academy-logo.jpg "osu!academy logo")
 
-Quelle: <https://news.ppy.sh/post/70504430082/introducing-the-osu-academy>
+Quelle: <https://osu.ppy.sh/home/news/2013-12-19-introducing-the-osu-academy>
 - Offizielles Youtube Kanal: <https://www.youtube.com/user/osuacademy/videos>
 - Offizielles Thread: <https://osu.ppy.sh/community/forums/topics/169707>
 

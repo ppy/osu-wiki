@@ -526,8 +526,8 @@ This competition has come to an end and resulted in the following podium:
       - When signing up for both brackets, both rosters do not need to be identical.
       - If your country signs up for the 4K Bracket, it does not need to form a 7K bracket and vica versa.
 2. Each team represents a nation. You must form a team with players from the same country and therefore with the same flags on the user profiles.
-3. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “MWC Registration”
-    - Captains may change their setup by [notifying the management](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
+3. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “MWC Registration”
+    - Captains may change their setup by [notifying the management](https://osu.ppy.sh/home/messages/users/71366).
     - You get a confirmation reply in case your registration successfully arrived. Your registration is in pending then.
 4. To ensure valid and serious registrations, any registration and change will be checked by the Tournament Management.
 5. The total amount of teams is 32 per bracket.

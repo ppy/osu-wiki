@@ -8,7 +8,7 @@ tags:
 
 ![4DM2 logo](img/logo.jpg)
 
-The **4 Digit osu!mania World Cup 2** (***4DM2***) is a worldwide country-based double-elimination 3v3 osu!mania 4K tournament hosted by ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) and ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095). This is the second installment of the 4 Digit osu!mania World Cup.
+The **4 Digit osu!mania World Cup 2** (***4DM2***) was a worldwide country-based double-elimination 3v3 osu!mania 4K tournament hosted by ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) and ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095). This was the second installment of the 4 Digit osu!mania World Cup.
 
 ## Tournament schedule
 
@@ -22,7 +22,7 @@ The **4 Digit osu!mania World Cup 2** (***4DM2***) is a worldwide country-based 
 | Quarterfinals | 2020-03-07/2020-03-08 |
 | Semifinals | 2020-03-14/2020-03-15 |
 | Finals Week 1 | 2020-03-20/2020-03-22 |
-| Finals Week 2 | 2020-03-28/2020-03-29 |
+| Finals Week 2 | 2020-03-28 |
 
 ## Prizes
 
@@ -39,14 +39,14 @@ Generous donations from ![][flag_DO] [Antalf](https://osu.ppy.sh/users/8793773) 
 
 ## Organisation
 
-The 4 Digit osu!mania World Cup 2 is run by various community members.
+The 4 Digit osu!mania World Cup 2 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
 | Map selector | ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_TH] [RuleBlazing](https://osu.ppy.sh/users/7312402), ![][flag_HK] [zero2snow](https://osu.ppy.sh/users/7751516) |
 | Map tester | ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763), ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_PE] [DaZeRo5](https://osu.ppy.sh/users/6114633), ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414) |
-| Referee | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_TH] [-\[DaNieL\_TH\]-](https://osu.ppy.sh/users/6456531), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_ES] [IDontUnderstood](https://osu.ppy.sh/users/8608903), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_PH] [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_TH] [TNKSTC](https://osu.ppy.sh/users/6037121), ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414), ![][flag_ID] [Yangga](https://osu.ppy.sh/users/12143152) |
+| Referee | ![][flag_CL] [\[GS\]Myuka](https://osu.ppy.sh/users/10072733), ![][flag_TH] [-\[DaNieL\_TH\]-](https://osu.ppy.sh/users/6456531), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_AU] [nonamegohst](https://osu.ppy.sh/users/4384859), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_PH] [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133), ![][flag_TH] [TNKSTC](https://osu.ppy.sh/users/6037121), ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414), ![][flag_ID] [Yangga](https://osu.ppy.sh/users/12143152) |
 | Streamer | ![][flag_US] [\[GS\]Ery](https://osu.ppy.sh/users/9872668), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_US] [-Lethal-](https://osu.ppy.sh/users/5125822), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_NL] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Commentator | ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_US] [\[GS\]Antunder](https://osu.ppy.sh/users/10416995), ![][flag_AU] [\[GS\]Choccy](https://osu.ppy.sh/users/13111686), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_MY] [cheewee10](https://osu.ppy.sh/users/4477497), ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_US] [furret osu](https://osu.ppy.sh/users/11952501), ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_PH] [Silhoueska Elze](https://osu.ppy.sh/users/11517895), ![][flag_US] [Unholy](https://osu.ppy.sh/users/7672414), ![][flag_NZ] [WhiteWeebWolf](https://osu.ppy.sh/users/8927299) |
 | Designer | ![][flag_US] [Logan636](https://osu.ppy.sh/users/9423766) |
@@ -59,7 +59,6 @@ The 4 Digit osu!mania World Cup 2 is run by various community members.
 - [4DM Discord server](https://discord.gg/NzYtsxV)
 - [4DM YouTube channel](https://youtube.com/channel/UC9mLxo8frxAJCf1vrASEFDg)
 - [Livestream](https://twitch.tv/4digitmwc)
-- [Map suggestion form](https://forms.gle/BjLjtUSAVDLhhQ368)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1cT1BLBuG3XGyDvPWFTGJO_TOpRkdKQaH6shstbJcauc/edit?usp=sharing)**
 
 ## Participants
@@ -106,22 +105,15 @@ The 4 Digit osu!mania World Cup 2 is run by various community members.
 | **G** | ![][flag_RU] Russian Federation | ![][flag_CA] Canada | ![][flag_ES] Spain |
 | **H** | ![][flag_SG] Singapore | ![][flag_NZ] New Zealand | ![][flag_BE] Belgium |
 
-## Match schedule: Finals Week 2
+## Podium
 
-Saturday, 28 March 2020:
+This competition has come to an end and resulted in the following podium:
 
-| Match ID | Team 1 |  |  | Team 2 | Match time (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #29 | Philippines | ![][flag_PH] | ![][flag_AR] | Argentina | **14:00** |
-
-Sunday, 29 March 2020:
-
-| Match ID | Team 1 |  |  | Team 2 | Match time (UTC) |
-| :-: | --: | :-: | :-: | :-- | :-: |
-| #30a¹ | United States | ![][flag_US] | ![][flag_PH] | Philippines | **02:00** |
-| #30b¹ | United States | ![][flag_US] | ![][flag_AR] | Argentina | **21:00** |
-
-¹ Encounter dependent on winner of match #29. If team 2 wins match #30, the bracket reset Grand Finals match will take place 30 minutes in advance.
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] United States |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_AR] Argentina |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PH] Philippines |
 
 ## Mappools
 
@@ -253,6 +245,15 @@ Sunday, 29 March 2020:
 
 ## Match results
 
+### Grand Finals
+
+Saturday, 28 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Philippines ![][flag_PH] | 6 | **7** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/59707572) |
+| **United States** ![][flag_US] | **7** | 2 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/59759491) |
+
 ### Finals
 
 Friday, 20 March 2020:
@@ -312,7 +313,7 @@ Sunday, 8 March 2020:
 | **Canada** ![][flag_CA] | **5** | 0 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/59012904) |
 | **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/59027342) |
 | Russian Federation ![][flag_RU] | 1 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/59027346) |
-| France ![][flag_FR] | 2 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/mp/59035639) |
+| France ![][flag_FR] | 2 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/59035639) |
 
 ### Round of 16
 
@@ -331,7 +332,7 @@ Sunday, 1 March 2020:
 | --: | :-: | :-: | :-- | :-- |
 | **Argentina** ![][flag_AR] | **5** | 2 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/58832795) |
 | Singapore ![][flag_SG] | 3 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/58844085) |
-| **Russian Federation** ![][flag_RU] | **5** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/mp/58851567) |
+| **Russian Federation** ![][flag_RU] | **5** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/58851567) |
 | **France** ![][flag_FR] | **5** | 2 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/58853975) |
 
 ### Group Stage
