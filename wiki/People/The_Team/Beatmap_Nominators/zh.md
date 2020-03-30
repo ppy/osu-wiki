@@ -12,27 +12,27 @@ Beatmap Nominators 通常缩写为 *BN*, 是负责[提名谱面](/wiki/Beatmap_r
 
 ## 角色与责任
 
-Beatmap Nominators 的成员主要负责 [Modding](/wiki/Modding) 那些[待处理谱面](/wiki/Beatmaps)使其进入 Rank 周期。BN 是寻找任何与作图或摸图相关的建议或要求的人。Beatmap Nominators 的成员分为正式成员和待定成员。 如果任何 BN 认为提名的地图存在必须解决的问题，而这些问题并非直接违反《Ranking 准则》，则他们可以执行[谱面否决权](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto)。
+Beatmap Nominators 的成员主要负责 [Modding](/wiki/Modding) 那些[待处理谱面](/wiki/Beatmaps)使其进入 Rank 周期。BN 是寻找任何与作图或摸图相关的建议或要求的人。Beatmap Nominators 的成员分为正式成员和见习成员。 如果任何 BN 认为提名的地图存在必须解决的问题，而这些问题并非直接违反 [Ranking 准则](/wiki/Ranking_Criteria/zh.md)，则他们可以执行[谱面否决权](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto)。
 
 ### 正式成员
 
 除了常规的谱面摸图和 Rank 外，Beatmap Nominators 的正式成员还负责取消在合格阶段中发现有问题的谱面的资格。如果 BN 正式成员有兴趣将来加入 Nomination Assessment Team，他们也可以提交 NAT 的评估申请。
 
-大约每三个月，BN 正式成员的提名活动以及质量将由 Nomination Assessment Team 进行评估。如果他们的提名由于必不可少的原因而经常被重置，或者他们的行为令人无法接受，那么他们可能会转到待定成员当中。
+大约每三个月，BN 正式成员的提名活动以及质量将由 Nomination Assessment Team 进行评估。如果他们的提名由于必不可少的原因而经常被重置，或者他们的行为令人无法接受，那么他们可能会转到见习成员当中。
 
-低于最低提名标准的正式成员将不会进入待定期，但是如果他们没有做出改善，他们将会被从团队中移除。
+低于最低提名标准的正式成员将不会进入见习期，但是如果他们没有做出改善，他们将会被从团队中移除。
 
-### 待定成员
+### 见习成员
 
-待定期是一种可以用于监视新的 BN 或者可以更密切地关注 BN 的方式。作为待定 BN 成员时，他们的主要工作是通过通过在 Rank 系统中来专门推广谱面，来建立 BN 的基础。每个谱面 Rank 过程中必须至少有一位正式 BN 参与，因此待定成员不能将第二提名权交给一个只收到其他待定成员提名的谱面上。他们也不能提名谱面集。
+见习期是一种可以用于监视新的 BN 或者可以更密切地关注 BN 的方式。作为见习 BN 成员时，他们的主要工作是通过通过在 Rank 系统中来专门推广谱面，来建立 BN 的基础。每个谱面 Rank 过程中必须至少有一位正式 BN 参与，因此见习成员不能将第二提名权交给一个只收到其他见习成员提名的谱面上。他们也不能提名谱面集。
 
-BN 的新成员将从一个月的待定期开始。如果他们的提名和行为令人满意，他们将晋升为 BN 正式成员。 否则，他们将继续审核一个月或从团队中移除。
+BN 的新成员将从一个月的见习期开始。如果他们的提名和行为令人满意，他们将晋升为 BN 正式成员。 否则，他们将继续审核一个月或从团队中移除。
 
-当 BN 被置于待定期时，他们无法因为相同的原因再次被置入待定期。 比如：如果一名 BN 因为不良行为而被待定，如果他们再次表现出相同的不良行为，即使他们在正式成员名单中，也会被从团队内移除。
+当 BN 被置于见习期时，他们无法因为相同的原因再次被置入见习期。 比如：一名 BN 因为不良行为而被置入见习期，如果他们再次表现出相同的不良行为，即使他们在正式成员名单中，也会被直接从团队内移除。
 
 ## 团队成员
 
-[Beatmap Nominators 团队成员页面](https://osu.ppy.sh/groups/28) 以及 [Beatmap Nominators (待定期) 团队成员页面](https://osu.ppy.sh/groups/32)列出了所有在任团队成员。
+[Beatmap Nominators 团队成员页面](https://osu.ppy.sh/groups/28) 以及 [Beatmap Nominators (见习期) 团队成员页面](https://osu.ppy.sh/groups/32)列出了所有在任团队成员。
 
 下表列出了全部游戏模式，其中每一位 Beatmap Nominator 都具有正式的提名资格。**小提示: 所有 BN 都能够熟练地使用英文进行交流，特别说明的除外。**
 
@@ -143,7 +143,7 @@ BN 的新成员将从一个月的待定期开始。如果他们的提名和行�
 | ![][flag_US] [Unpredictable](https://osu.ppy.sh/users/7560872) |  |
 | ![][flag_ID] [Voxa](https://osu.ppy.sh/users/9229539) | 印度尼西亚语 |
 
-### 待定成员
+### 见习成员
 
 #### osu!standard
 
