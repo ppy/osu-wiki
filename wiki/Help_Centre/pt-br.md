@@ -6,7 +6,7 @@ Está tendo problemas com algo? Estamos aqui para lhe ajudar! Verifique as solu�
 
 ### Supporter
 
-#### Eu paguei uma supporter tag, mas ainda não a recebi!
+#### Eu paguei por uma supporter tag, mas ainda não a recebi!
 
 **Dependendo de que tipo de serviço de pagamento que você usou (Paypal ou Xsolla), é possível que tenha um pequeno atraso no processamento de seu pagamento antes que ele chegue até nós.**
 
@@ -47,7 +47,7 @@ Boas informações para se incluir nesse email seriam:
 
 **Tente utilizar [a página de recuperação de senha](https://osu.ppy.sh/home/password-reset) para ver se o email de sua conta ainda é válido.**
 
-Se isso der certo, você irá conseguir resetar sua própria senha sem a ajuda da equipe de suporte.
+Se isso der certo, você irá conseguir resetar sua própria senha sem a ajuda da equipe do suporte.
 
 Se isso não funcionar para você, por favor nos envie um ticket imediatamente para [accounts@ppy.sh](mailto:accounts@ppy.sh) com o máximo de informação que te identifique o possível que irá nos ajudar a estabelecer você como o proprietário da sua conta.
 
@@ -71,7 +71,7 @@ Se você lembra o endereço de email de sua conta, ou acha que lembra, tente vis
 
 Se você perdeu a senha de sua conta e não está recebendo nenhum email de recuperação de senha, ou você realmente não consegue se lembrar de qual email você estava usando, por favor entre em contato conosco em [accounts@ppy.sh](mailto:accounts@ppy.sh). Qualquer informação que você tenha sobre sua conta (seu usuário, qualquer captura de tela que mostre você conectado no cliente do jogo, transações passadas feitas pela loja ou pagamentos de supporter, etc.) será útil!
 
-Por fim, estamos cientes de que alguns provedores não aceitam emails automatizados de nós. Se você está utilizando algum desses provedores, pro favor nos contate via email e iremos mudar o seu endereço de email:
+Por fim, estamos cientes de que alguns provedores não aceitam emails automatizados de nós. Se você está utilizando algum desses provedores, por favor nos contate via email e iremos mudar o seu endereço de email:
 
 - `att.net`
 - `bellsouth.net`
@@ -91,21 +91,21 @@ Se você comprou (ou recebeu de presente) uma [supporter tag](https://osu.ppy.sh
 
 Em qualquer ponto depois disso, você poderá comprar uma mudança de username para mudar seu nome para qualquer um que deseja. Contudo, cada mudança irá se tornar progressivamente mais cara - a segunda irá custar $8 dólares, a terceira $16 dólares, e assim vai, até o máximo de $100 dólares. Fazemos isso para prevenir as pessoas de abusar do sistema para mudar os seus nomes em rápida sucessão.
 
-Se você está interessado em apenas pequenas mudanças como capitalização ou gramática/ortografia, você pode enviar um email para [accounts@ppy.sh](mailto:accounts@ppy.sh) para requerer uma troca de nome de graça para consertar esses problemas. Nós não iremos te cobrar por esses tipos de troca de nome, mas você **DEVE** fazer-las através de um email de suporte. Tenha em mente que nós iremos realizar isso apenas algumas vezes, então tenha certeza de que realmente quer essa mudança!
+Se você está interessado em apenas pequenas mudanças como capitalização ou correção de gramática/ortografia, você pode enviar um email para [accounts@ppy.sh](mailto:accounts@ppy.sh) para requerer uma troca de nome de graça para consertar esses problemas. Nós não iremos te cobrar por esses tipos de troca de nome, mas você **DEVE** fazer-las através de um email de suporte. Tenha em mente que nós iremos realizar isso apenas algumas vezes, então tenha certeza de que realmente quer essa mudança!
 
-#### Posso pegar o username de outro jogador?
+#### Posso pegar o nome de usuário de outro jogador?
 
 **Sim, mas apenas em certas circunstâncias.**
 
 Se um jogador não entrou por pelo menos 6 meses e não tem nenhuma play, o nome de usuário dele poderá ser pego via a [página de troca de nome de usuário da osu!store](https://osu.ppy.sh/store/products/32) por uma taxa padrão associada com trocas de nome de usuário.
 
-Se o jogador tem qualquer play através todos os modos de jogo, uma [função não-linear](https://www.desmos.com/calculator/b89siyv9j8 "Gráfico Desmos") é utilizado para calcular quanto tempo extra é adicionado a esses 6 meses. Isso é para prevenir as pessoas de roubarem nomes de usuário de jogadores ativos ou recentemente aposentados.
+Se o jogador tem qualquer play através de todos os modos de jogo, uma [função não-linear](https://www.desmos.com/calculator/b89siyv9j8 "Gráfico Desmos") é utilizado para calcular quanto tempo extra é adicionado a esses 6 meses. Isso é para prevenir as pessoas de roubarem nomes de usuário de jogadores ativos ou recentemente aposentados.
 
 #### É possível mudar meu nome de volta ou revertir para meu antigo nome de usuário?
 
 **Sim, mas apenas em certas circunstâncias.**
 
-Nós apenas concedemos reversões para o antigo nome de usuário anterior ao atual de um jogador (o que é mostrado por passar por cima de seu nome no perfil). Mudanças para quaisquer outros nomes prévios devem ser [comprados pela loja](https://osu.ppy.sh/store/products/32). Simplesmente entre em contato com accounts@ppy.sh e requira que a sua troca de nome seja revertida.
+Nós apenas concedemos reversões para o antigo nome de usuário anterior ao atual de um jogador (o que é mostrado por último ao passar por cima de seu nome no perfil). Mudanças para quaisquer outros nomes prévios devem ser [comprados pela loja](https://osu.ppy.sh/store/products/32). Simplesmente entre em contato com accounts@ppy.sh e requira que a sua troca de nome seja revertida.
 
 Nós apenas concedemos isso uma vez por conta, então por favor considere com cuidado antes de requerer!
 
@@ -135,7 +135,7 @@ Se você criou sua conta enquanto estava de férias nos Estados Unidos, sua cont
 
 A equipe do suporte pode felizmente mudar o país de sua conta após um requerimento, **mas apenas se você está ativamente vivendo naquele país no momento do requerimento.**
 
-Para confirmar isso, a equipe irá te pedir por um comprovante e residência - seja um passaporte apropriado, carteira de motorista para seu país, ou alguma outra forma de identificação. Isso deve ser apresentado em uma foto perto de seu monitor com o cliente do osu! aberto e conectado em sua conta.
+Para confirmar isso, a equipe irá te pedir por um comprovante de residência - seja um passaporte apropriado, carteira de motorista para seu país, ou alguma outra forma de identificação. Isso deve ser apresentado em uma foto perto de seu monitor com o cliente do osu! aberto e conectado em sua conta.
 
 Nós nunca iremos mostrar essa informação para ninguém mais, e nós encorajamos você cobrir qualquer informação pessoal (que não irá de outra forma fazer com que seja impossível determinar de que país o documento é originatário!) se você estiver preocupado com sua privacidade.
 
@@ -145,9 +145,9 @@ Nós nunca iremos mostrar essa informação para ninguém mais, e nós encorajam
 
 Se nós fossemos deixar todo mundo criar e jogar em múltiplas contas, as classificações ranqueadas seriam praticamente inúteis!
 
-Outros jogos tem bastante esse tipo de problema com o que são comumente conhecidas como "smurfs" - contas com tempo de jogo baixos e totais que inflam os rankings e previnem outros usuários de jogarem competitivamente.
+Outros jogos tem bastante esse tipo de problema com o que são comumente conhecidas como "smurfs" - contas com tempo de jogo baixos e estatísticas totais que inflam os rankings e previnem outros usuários de jogarem competitivamente.
 
-No osu!, nos somos realmente contra os usuários possuírem múltiplas contas, e nós impomos uma regra rigorosa de apenas uma conta por pessoa, para sempre.
+No osu!, nós realmente somos contra os usuários possuírem múltiplas contas, e nós impomos uma regra rigorosa de apenas uma conta por pessoa, para sempre.
 
 Você poderá jogar na primeira conta que você registrou conosco e é isso!
 
@@ -157,11 +157,11 @@ Você poderá jogar na primeira conta que você registrou conosco e é isso!
 
 Nós estamos considerando compras extras de 'reset de pontuação' na osu!store para os jogadores realmente barra pesada que não desejam nada além de perfeição nas suas estatísticas, mas no momento, não podemos limpar as estatísticas de uma conta para você.
 
-Isso não significa que você possa criar uma nova conta para fazer o mesmo! Ter múltiplas contas é fortemente desaprovado na nossa comunidade e nós iremos desativar quaisquer tipos de contas desse tipo que chamem nossa atenção.
+Isso não significa que você possa criar uma nova conta para fazer o mesmo! Ter múltiplas contas é fortemente desaprovado na nossa comunidade e nós iremos desativar quaisquer contas desse tipo que chamem nossa atenção.
 
 #### Posso jogar em um computador que outro usuário do osu! já tenha utilizado?
 
-**Sim, definitivamente. Isso inclúi PCs compartilhados como cibercafés ou lan houses.**
+**Sim, definitivamente. Isso inclui PCs compartilhados como cibercafés ou lan houses.**
 
 Desde que você esteja jogando somente na sua própria conta, você pode jogar osu! em qualquer lugar.
 
@@ -173,9 +173,9 @@ Se você estiver jogando em um lugar público, tenha certeza de ficar de olho na
 
 **Se você tem uma supporter tag ativa**, você ver todos os mapas que você tem uma pontuação enviada indo na sessão Beatmap, e clicando no filtro "Ranked (Jogado)". Alternativamente, você pode utilizar [esse link](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) para acessar diretamente a pagina filtrada.
 
-No novo site, esse filtro pode ser encontrado clicando em "mais opções de busca" na [página de listagem de beatmap](https://osu.ppy.sh/beatmapsets) e então "Jogado" na sessão "JOGADO". Alternativamente, você pode utilizar [esse link](https://osu.ppy.sh/beatmapsets?played=played) para acessar diretamente a pagina filtrada.
+No novo site, esse filtro pode ser encontrado clicando em "mais opções de busca" na [página de listagem de beatmap](https://osu.ppy.sh/beatmapsets) e então "Jogado" na sessão "Jogado". Alternativamente, você pode utilizar [esse link](https://osu.ppy.sh/beatmapsets?played=played) para acessar diretamente a pagina filtrada.
 
-Infelizmente, não registramos todos os mapas que um usuário já baixou, então é impossível conseguir uma lista de todos. O mais próximo que você pode chegar disso é utilizando o filtro préviamente mencionado para recuperar pelo menos os mapas que você já jogou antes.
+Infelizmente, não registramos todos os mapas que um usuário já baixou, então é impossível conseguir uma lista de todos. O mais próximo que você pode chegar disso é utilizando o filtro previamente mencionado para recuperar pelo menos os mapas que você já jogou anteriormente.
 
 ---
 
@@ -208,7 +208,7 @@ Para checar, tente os seguintes passos (no Windows 8 e acima):
 
 1. Abre o menu Iniciar.
 2. Digite `padrão` na barra de pesquisa no menu Iniciar.
-3. Se você ver uma opção chamada `Aplicativos padrão`, clique nela. Se você não ver, pesquise por `Aplicativos padrão`.
+3. Se você ver uma opção chamada `Aplicativos padrão`, clique nela. Se você não achar, pesquise por `Aplicativos padrão`.
 4. Procure pela opção chamada `Navegador da Web` e verifique que um navegador que você instalou está propriamente definido.
 
 ##### Meu jogo não está atualizando corretamente!
@@ -217,7 +217,7 @@ Para checar, tente os seguintes passos (no Windows 8 e acima):
 
 osu! geralmente se mantém atualizado sem ajuda alguma, mas as vezes as coisas podem dar errado.
 
-Nós recomendamos reiniciar seu PC como primeira opção. Isso irá resolver mais problemas do que você espera, considerando computadores, e o osu! não é diferente.
+Nós recomendamos reiniciar seu PC como primeira opção. Isso irá resolver mais problemas do que você espera, considerando computadores em geral, e o osu! não é diferente.
 
 Tenha certeza de que sua taxa de atualizações esteja em estável nas opções do jogo.
 
@@ -251,7 +251,7 @@ Se você ver esse erro quando você tenta abrir o osu! ou seu atualizador, signi
 
 Aqui está uma coleção de fontes comuns que são utilizadas em versões diferentes do Windows que devam lhe ajudar:
 
-- [Fontes web core da Microsoft](https://web.archive.org/web/20020124085641/http://www.microsoft.com/typography/fontpack/default.htm) (especialmente Arial, Times New Roman, Trebuchet MS, and Verdana)
+- [Fontes web core da Microsoft](https://web.archive.org/web/20020124085641/http://www.microsoft.com/typography/fontpack/default.htm) (especialmente Arial, Times New Roman, Trebuchet MS, e Verdana)
 - [Tahoma](https://freefontsfamily.com/tahoma-font-free)
 - [Windows Live Essentials](https://support.microsoft.com/en-us/help/2434419/windows-live-essentials-2011) (Segoe UI)
 - [Microsoft JhengHei](https://microsoft.com/en-us/download/details.aspx?&id=12072) (微軟正黑體) (fonte Chinês Tradicional UI)
@@ -282,7 +282,7 @@ Tem algumas razões do porque isso possa acontecer. Leia abaixo!
 
 Essas infelzmente, se foram.
 
-As pontuações que você submitou online ainda estão lá, entretanto - simplesmente re-baixe qualquer música que você jogou antes, e sua pontuação irá reaparecer.
+As pontuações que você enviou online ainda estão lá, apesar disso - simplesmente re-baixe qualquer música que você jogou antes, e sua pontuação irá reaparecer.
 
 Dicazinha - se você for um osu!supporter, você pode usar o filtro `Ranked (Jogado)` no painel do osu!direct dentro do jogo ou via a [página de listagem de beatmap](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) para achar quaisquer mapas que você tenha pontuações no passado.
 
@@ -326,7 +326,7 @@ Por favor note que se nenhum replay foi salvo para a pontuação você não irá
 
 **É hora de um upgrade! Versões muito antigas do jogo não são permitidas a enviar novas pontuações, então você terá que forçar uma atualização indo em `Opções` -> `Geral` -> `Executar o atualizador do osu!`**
 
-Se isso não funcionar, você pode fechar o osu! e reiniciar o osu.eze enquanto estiver segurando a tecla `Shift`. Isso irá te fornecer com algumas opções de atualização e reparação, uma delas é de atualizar a versão do seu jogo para a última versão.
+Se isso não funcionar, você pode fechar o osu! e reiniciar o osu.exe enquanto estiver segurando a tecla `Shift`. Isso irá te fornecer com algumas opções de atualização e reparação, uma delas é de atualizar a versão do seu jogo para a última versão.
 
 #### Minhas pontuações não estão sendo enviadas!
 
@@ -352,7 +352,7 @@ Tente fechar quaisquer programas extras antes de jogar osu! se você percebeu qu
 
 ##### Os servidores de envio de pontuações estão online?
 
-**A resposta é quase sempre sim, mas cheque o [osu! server status](https://status.ppy.sh) ou o [@osustatus Twitter](https://twitter.com/osustatus) para ter certeza de que tudo está funcionando tranquilamente no nosso lado.**
+**A resposta é quase sempre sim, mas cheque o [status de servidor do osu!](https://status.ppy.sh) ou o [@osustatus Twitter](https://twitter.com/osustatus) para ter certeza de que tudo está funcionando tranquilamente no nosso lado.**
 
 Se os servidores estiverem offline, não feche o osu! até que consertemos os problemas e os servidores voltem a funcionar, e então o jogo irá tentar enviar sua pontuação novamente até uma hora após antes que desista.
 
@@ -382,27 +382,27 @@ O valor padrão funciona para a maioria das pessoas, mas se você perceber que n
 
 ##### Você tem muitos programas abertos ao mesmo tempo enquanto joga osu!?
 
-**Alguns processos em segundo plano podem lutar com o osu! por recursos e tornar o jogo muito desagradável de se jogar.**
+**Alguns processos em segundo plano podem competir com o osu! por recursos e tornar o jogo muito desagradável de se jogar.**
 
 Tente fechar alguns programas que você não precisa que estejam abertos enquanto joga.
 
 ##### O seu computador é seguro?
 
-**Vírus, spyware, malware ou outros tipos de software indesejados podem causar sérios problemas de performance até para computadores de alto desempenho.**
+**Vírus, spyware, malware ou outros tipos de software indesejados podem causar sérios problemas de performance até em computadores de alto desempenho.**
 
 Mantenha seu computador limpo e seguro e você talvez note uma melhoria.
 
 ##### O quão antigo é seu computador?
 
-**Computadores bem antigos que utilizam ainda mais arcáicos chipsets de gráficos Integrados da Intel podem não ser potentes o suficiente para aguentar o osu! de nenhuma forma, nem nas piores opções.**
+**Computadores bem antigos que utilizam ainda mais arcaicos chipsets de gráficos Integrados da Intel podem não ser potentes o suficiente para aguentar o osu! de nenhuma forma, nem nas piores opções.**
 
-O único jeito de se lidar com esse aqui é dar um upgrade no seu computador!
+O único jeito de se lidar com esse aqui é dar uma tunada no seu computador!
 
 ##### Os seus drivers estão atualizados?
 
 **Drivers antigos podem causar sérios problemas de perfomance. Verifique-se que todos os seus drivers estejam atualizados sempre que possível.**
 
-Drivers de placa de vídeo são particularmente importante para o osu!, assim como drivers de placa de som.
+Drivers de placa de vídeo são particularmente importantes para o osu!, assim como drivers de placa de som.
 
 ##### Você está usando um hub USB para conectar vários dispositivos USB através de um cabo USB?
 
@@ -416,7 +416,7 @@ Uma solução fácil para isso é tentar remover seu hub USB por um pouco. Se se
 
 ##### O seu jogo trava apenas por um momento de vez em quando?
 
-**As vezes processos em segundo plano ou outros aplicativos em seu computador podem enviar grandes requerimentos por recursos de uma vez, o que irá fazer sua máquina sofrer.**
+**As vezes processos em segundo plano ou outros aplicativos em seu computador podem enviar grandes requerimentos por recursos de uma vez, o que irá fazer sua máquina engasgar.**
 
 Isso geralmente se resolve depois de fechar qualquer coisa não essencial antes de jogar osu!. Software de torrent é um grande culpado por isso, especialmente se ele compartilha do mesmo disco do que o osu! está instalado.
 
@@ -424,7 +424,7 @@ Isso geralmente se resolve depois de fechar qualquer coisa não essencial antes 
 
 **As vezes depois de uma atualização de jogo, o cliente pode engasgar por aparentemente nenhum motivo.**
 
-Se você tiver muitos beatmaps, for favor espere pelo menos 10-15 minutos antes de culpar o lap na atualização. O cliente do osu! pode estar reprocessando seus mapas para calcular a dificuldade.
+Se você tiver muitos beatmaps, for favor espere pelo menos 10-15 minutos antes de culpar o lag na atualização. O cliente do osu! pode estar reprocessando seus mapas para calcular a dificuldade.
 
 Se não se resolver, reiniciar as vezes pode ajudar.
 
@@ -476,9 +476,9 @@ Por favor consulte as [instruções oficiais do McAfee nesse tópico](https://se
 
 ##### Eu permiti o osu! no meu firewall mas eu ainda não consigo conectar no jogo!
 
-**Nós iremos precisar de informação adicional de você para podermos te ajudar nisso.**
+**Nós iremos precisar de informações adicionais de você para podermos te ajudar nisso.**
 
-Se você ainda está tendo problemas conectando com os nossos servidores, por favor envie um ticket de suporte para o email [accounts@ppy.sh](mailto:accounts@ppy.sh). A seguinte informação irá nos ajudar a resolver seu problema rapidamente:
+Se você ainda está tendo problemas em conectar com os nossos servidores, por favor envie um ticket de suporte para o email [accounts@ppy.sh](mailto:accounts@ppy.sh). A seguinte informação irá nos ajudar a resolver seu problema rapidamente:
 
 - Um log de resultado do rastreio de rotas (trace route) do comando `tracert` para os servidores `cho.ppy.sh`, `osu.ppy.sh` e `m1.ppy.sh` (veja abaixo para instruções)
 - O arquivo `network.log` na pasta `Logs` no diretório de instalação do seu osu!
@@ -491,13 +491,13 @@ Você pode executar um rastreamento de rotas abrindo o Prompt de Comando e execu
 
 Para abrir o Prompt de Comando, pressione e segure a tecla `Windows` key e pressione `R`, e então digite `cmd` e clique `OK`. [Para mais informações, veja esse artigo na database de ajuda do Windows](https://support.microsoft.com/en-us/kb/314868).
 
-Você pode então digitar o comando de rastrear rotas. Por exemplo, o comando `tracert cho.ppy.sh` irá verificar como seu computador se conecta com o servidor do jogo pela internet. Rastrear rotas leva um pouco de tempo, as vezes um minot ou mais dependendo da sua conexão.
+Você pode então digitar o comando de rastrear rotas. Por exemplo, o comando `tracert cho.ppy.sh` irá verificar como seu computador se conecta com o servidor do jogo pela internet. Rastrear rotas leva um pouco de tempo, as vezes um minuto ou mais dependendo da sua conexão.
 
 Nós iremos precisar dos resultados de um comando de rastreamento de rotas dos seguintes servidores: `cho.ppy.sh`, `osu.ppy,sh` e `m1.ppy.sh`.
 
 Para copiar os resultados do comando, simplesmente clique e arraste do fim dos resultados de volta até o começo para fazer toda a informação ficar branca, e então clique com o botão direito para instantâneamente copiar para sua área de transferência.
 
-#### Eu mudei as minhas configurações, e agora não consigo abrir o osu! ou ele trava.
+#### Eu mudei as minhas configurações, e agora não consigo abrir o osu! ou ele trava
 
 **Resetar o osu! de volta para as configurações padrões irá resolver esse problema na maioria das vezes.**
 
@@ -535,19 +535,19 @@ Nós recomendamos usar `VSync` em situações onde o problema é de sobreaquecim
 
 Você pode também desejar olhar em utilidades que lhe permitam controlar a velocidade das ventoinhas de sua placa de vídeo e processador manualmente.
 
-#### My PC reboots while playing osu!
+#### Meu PC reinicia enquanto jogando osu!
 
 **Na maioria dos casos, isso é por conta do sobreaquecimento de algum componente de seu computador, geralmente sua placa de vídeo ou processador.**
 
 Para descobrir o que possa estar causando isso, nós recomendamos utilizar um monitor de temperatura de GPU/CPU e que fique de olho nele enquanto joga o osu! de fundo. Uma boa escolha de programa para utilizar para isso seria o [Piriform Speccy](https://www.piriform.com/speccy).
 
-Se você notar que tanto sua GPU ou CPU exceder uma temperatura de 90C ou 194F, seu computador está rodando em uma temperatura extremamente quente e está perigosamente perto do limite automático que desliga o computador.
+Se você notar que tanto sua GPU ou CPU exceder uma temperatura de 90C ou 194F, seu computador está rodando em uma temperatura extremamente quente e está perigosamente perto do limite que desliga o computador automaticamente.
 
 ##### Meu computador não está sobreaquecendo, mas o jogo ainda faz o meu computador reiniciar!
 
-**A causa mais comum de reinicializações forçadas depois de problemas de sobreaquecimento é problemas na placa de som, seguidos de periféricos defeituosos anexados ao seu computador.**
+**A causa mais comum de reinicializações forçadas depois de problemas de sobreaquecimento são problemas na placa de som, seguidos de periféricos defeituosos anexados ao seu computador.**
 
-Drivers de placa de som antigos ou software podem causar problemas com o osu!, mas isso não é um problema pra maioria das pessoas. Tente atualizar os drivers da sua placa de som ou da placa mãe.
+Drivers de placa de som antigos ou software podem causar problemas com o osu!, mas isso não é um problema para a maioria das pessoas. Tente atualizar os drivers da sua placa de som ou da placa mãe.
 
 Você também provavelmente irá querer tentar remover alguns periféricos anexados em seu computador via USB, especialmente se eles interagirem com som em qualquer forma. Fones de ouvido ou placas de som USB podem também as vezes causar problemas se a porta que estiverem conectados começar a parar de funcionar direito.
 
@@ -555,17 +555,17 @@ Você também provavelmente irá querer tentar remover alguns periféricos anexa
 
 Se nada disso te ajudar, por favor mande um ticket de suporte para [accounts@ppy.sh](mailto:accounts@ppy.sh) com mais informação do problema - incluindo as especificações técnicas de seu computador, modelo (se apropriado) e qualquer outra informação que você acha que irá nos ajudar a descobrir a causa de seu problema.
 
-#### Eu não consigo segurar mais do que algumas teclas enquanto jogo osu!mania.
+#### Eu não consigo segurar mais do que algumas teclas enquanto jogo osu!mania
 
 **Isso é por conta de um problema comum de hardware chamado *ghosting*.**
 
-Ghosting é meio que um tópico complicado, mas essencialmente se resume na maneira que seu teclado é feito que previne-o de mandar mais do que algumas teclas pressionadas ao mesmo tempo em certas partes do todo.
+Ghosting é um tópico meio que complicado, mas essencialmente se resume na maneira que seu teclado é feito que previne-o de mandar mais do que algumas teclas pressionadas ao mesmo tempo em certas partes do todo.
 
 A maioria dos teclados mais novos irão permitir até um total de **6** teclas a serem seguradas ao mesmo tempo, embora em combinações aleatórias.
 
-Você pode testar os limites de ghosting do seu teclado utilizando a ferramente [drakeirving's Anti-Ghosting utility](https://drakeirving.github.io/MultiKeyDisplay).
+Você pode testar os limites de ghosting do seu teclado utilizando a ferramenta [drakeirving's Anti-Ghosting utility](https://drakeirving.github.io/MultiKeyDisplay).
 
-Enquanto a Ranking Criteria do osu!mania tenta amenizar o problema de ghosting não deixando mais de 6 notas serem ativa ao mesmo momento, você ainda pode encontrar esse problema se seu teclado é mais antigo.
+Enquanto a Ranking Criteria do osu!mania tenta amenizar o problema de ghosting não deixando mais de 6 notas serem ativas ao mesmo momento, você ainda pode encontrar esse problema se seu teclado é mais antigo.
 
 A única solução é realmente comprar um teclado que lhe permita pressionar mais teclas ao mesmo tempo, nesse caso. Você talvez queira procurar por uma função chamada *n-key rollover* (ou *NKRO*). Teclados NKRO não tem problemas com ghosting em geral, mas são geralmente bem caros.
 
@@ -583,7 +583,7 @@ Nós também recomendamos verificar que seus periféricos estejam limpos e livre
 
 ##### O que é entrada padrão, e como eu a ativo?
 
-**A entrada padrão força o jogo a usar um método mais limpo e direto para acessar a informação de seus periféricos. Isso geralmente aumenta o resultado de precisão do dispositivo.**
+**A entrada padrão força o jogo a usar um método mais limpo e direto para acessar a informação de seus periféricos. Isso geralmente aumenta a precisão do dispositivo.**
 
 Para ativar a entrada padrão, siga os seguinte passos:
 
@@ -618,7 +618,7 @@ Você também talvez queira verificar por botões presos ou danificados em seus 
 
 **Você irá precisar extrair o pacote dentro da sua pasta Songs.**
 
-A maior parte dos pacotes de beatmap vem em um formato `.rar`, o que significa que eles são um ficheiro de arquivos comapctado. Você irá precisar extrair-los utilizando a utilidade de sua escolha (recomendamos o) [7-Zip](https://7-zip.org)) para o diretório Songs primeiramente.
+A maior parte dos pacotes de beatmap vem em um formato `.rar`, o que significa que eles são um ficheiro de arquivos compactado. Você irá precisar extrair-los utilizando a utilidade de sua escolha (recomendamos o) [7-Zip](https://7-zip.org)) para o diretório Songs primeiramente.
 
 Depois que todos os arquivos `.osz` dentro do pacote estiverem dentro da pasta Songs, apertar `F5` no menu de seleção de música irá atualizar o cache de beatmap do jogo e irá carregar suas novas músicas em seu jogo.
 
@@ -628,7 +628,7 @@ Depois que todos os arquivos `.osz` dentro do pacote estiverem dentro da pasta S
 
 ### Problemas comuns
 
-#### Eu não recebi uma resposta pro meu ticket de suporte e já se passaram mais de 2 semanas!
+#### Eu não recebi uma resposta para o meu ticket de suporte e já se passaram mais de 2 semanas!
 
 **A maior parte do tempo, isso é por conta de uma imensa quantidade de tickets vindo para o nosso sistema ao mesmo tempo.**
 
@@ -722,7 +722,7 @@ Se você ficou inativo por um bom período de tempo e suas estatísticas realmen
 
 #### Como eu baixo o osu!?
 
-**Simplesmente clique **`Baixar`** na página [oficial do site do osu!](https://osu.ppy.sh/home).**
+**Simplesmente clique **Baixar** na página [oficial do site do osu!](https://osu.ppy.sh/home).**
 
 Alternativamente, [clique aqui](https://osu.ppy.sh/home/download) para um link direto para a página de download.
 
@@ -743,7 +743,7 @@ Isso deve vir junto do instalador do osu!, mas caso não venha, [baixe-o aqui](h
 
 #### Where do I register for osu!?
 
-**Simplesmente clique **`conectar-se`** no canto superior direito de qualquer página corner of any page do site do osu!, ou visite diretamente através [desse link](https://osu.ppy.sh/p/register).**
+**Simplesmente clique **conectar-se** no canto superior direito de qualquer página do site do osu!, ou visite diretamente através [desse link](https://osu.ppy.sh/p/register).**
 
 Nós não pedimos pelo seu email na criação de conta, mas nós realmente te recomendamos a atrelar um email a sua conta para ter certeza que ela irá ficar salva das limpezas diárias e manter sua conta o mais seguro possível.
 
@@ -773,13 +773,13 @@ Tor ou redes relacionadas com a Tor relay não irão conectar nos servidores do 
 
 Para enviar seu beatmap, vá para o editor e clique `File` > `Upload Beatmap`.
 
-Isso irá fazer co mque seu beatmap fique disponível para os outros baixarem no site e criarem uma thread para discussão. Atualizar um mapa é o mesmo processo para um mapa que já foi enviado.
+Isso irá fazer com que seu beatmap fique disponível para os outros baixarem no site e criarem uma thread para discussão. Atualizar um mapa é o mesmo processo para um mapa que já foi enviado.
 
 Cada usuário tem um número limitado de mapas que eles podem enviar simultaneamente. Deixar um mapa inativo por um mês (por não atualizar-lo ou não postar em sua thread) irá fazer com que ele seja enviado para o Cemitério de Beatmaps. Para atualizar um beatmap que está no cemitério, você precisa ressucitar-lo primeiramente.
 
 ##### O editor está me dizendo que o beatmap que você está tentando enviar não é seu!
 
-**This can happen if the creator of the beatmap is not properly set within the beatmap files.**
+**Isso pode acontecer se o criador do beatmap não está propriamente definido nos arquivos do beatmap.**
 
 No editor, clique `File` no menu, e então `Open .osu file in Notepad`. Verifique a linha `Creator:` e tenha certeza de que está com o seu exato nome de usuário, capitalização inclusa.
 
@@ -791,7 +791,7 @@ Se realmente não é o seu, mude manualmente para todas as dificuldades em seu s
 
 Por padrão, cada usuário tem 2 slots. Um slot é adicionada por cada mapa ranqueado que ele possui, até um total de 8 slots. Ser um supporter te concede mais 2 slots, de 4 (sem mapas ranqueados) até um total de 10.
 
-#### How can I delete my map?
+#### Como posso deletar meu mapa?
 
 **A equipe não leva em consideração requisições para manualmente deletar beatmaps enviados.**
 
@@ -907,7 +907,7 @@ Primeiramente, [baixe o pacote contendo os arquivos padrões do osu!go](https://
 3. **Enquanto na tela de Gerenciamento de Disco, tenha certeza de seguir essas instruções com *extremo* cuidado e APENAS aplique-as ao seu dispositivo osu!go.** Você pode potencialmente perder data se você cutucar por aí nesse diálogo.
 4. Verifique para ver qual estado que seu computador identifica o dispositivo em.
 
-#### O dispositivo osu!go está presente, mas está em um estado "RAW".
+#### O dispositivo osu!go está presente, mas está em um estado "RAW"
 
 **Isso irá aparecer [assim](https://puu.sh/nktuJ/05791b6fc1.png) na janela de Gerenciamento de Disco.**
 
@@ -915,13 +915,13 @@ Para consertar isso, tenha certeza de selecionar o seu dispositivo osu!go, e cli
 
 `exFAT` irá funcionar com mais dispositivos, mas é razoavelmente mais devagar.
 
-#### O dispositivo osu!go não aparece no Gerenciamento de Disco.
+#### O dispositivo osu!go não aparece no Gerenciamento de Disco
 
 **Você irá precisar particionar o dispositivo do zero.**
 
 Por favor siga [esse guia](https://staging.tails.boum.org/doc/first_steps/reset/windows.en.html) para mais detalhes em como fazer isso.
 
-#### Eu formatei o dispositivo osu!go e agora ele aparece no Gerenciamento de Disco.
+#### Eu formatei o dispositivo osu!go e agora ele aparece no Gerenciamento de Disco
 
 **Você está quase lá!**
 
