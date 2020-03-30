@@ -22,7 +22,7 @@ The **4 Digit osu!mania World Cup 2** (***4DM2***) was a worldwide country-based
 | Quarterfinals | 2020-03-07/2020-03-08 |
 | Semifinals | 2020-03-14/2020-03-15 |
 | Finals Week 1 | 2020-03-20/2020-03-22 |
-| Finals Week 2 | 2020-03-28/2020-03-29 |
+| Finals Week 2 | 2020-03-28 |
 
 ## Prizes
 
@@ -235,6 +235,15 @@ The 4 Digit osu!mania World Cup 2 was run by various community members.
   - [void feat. Gt. HAKKYOU-KUN - Never Escape (HowToPlayLN) \[Stage 4: Surrounded\]](https://osu.ppy.sh/beatmapsets/1105727#mania/2311135)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 28 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Philippines ![][flag_PH] | 6 | **7** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/59707572) |
+| **United States** ![][flag_US] | **7** | 2 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/59759491) |
 
 ### Finals
 
