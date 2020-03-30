@@ -313,7 +313,7 @@ Sunday, 8 March 2020:
 | **Canada** ![][flag_CA] | **5** | 0 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/59012904) |
 | **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/59027342) |
 | Russian Federation ![][flag_RU] | 1 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/59027346) |
-| France ![][flag_FR] | 2 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/mp/59035639) |
+| France ![][flag_FR] | 2 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/59035639) |
 
 ### Round of 16
 
@@ -332,7 +332,7 @@ Sunday, 1 March 2020:
 | --: | :-: | :-: | :-- | :-- |
 | **Argentina** ![][flag_AR] | **5** | 2 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/58832795) |
 | Singapore ![][flag_SG] | 3 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/58844085) |
-| **Russian Federation** ![][flag_RU] | **5** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/mp/58851567) |
+| **Russian Federation** ![][flag_RU] | **5** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/58851567) |
 | **France** ![][flag_FR] | **5** | 2 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/58853975) |
 
 ### Group Stage
