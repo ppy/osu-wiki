@@ -59,7 +59,6 @@ The 4 Digit osu!mania World Cup 2 was run by various community members.
 - [4DM Discord server](https://discord.gg/NzYtsxV)
 - [4DM YouTube channel](https://youtube.com/channel/UC9mLxo8frxAJCf1vrASEFDg)
 - [Livestream](https://twitch.tv/4digitmwc)
-- [Map suggestion form](https://forms.gle/BjLjtUSAVDLhhQ368)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1cT1BLBuG3XGyDvPWFTGJO_TOpRkdKQaH6shstbJcauc/edit?usp=sharing)**
 
 ## Participants
