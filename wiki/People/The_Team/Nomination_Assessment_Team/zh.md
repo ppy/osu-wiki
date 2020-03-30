@@ -62,14 +62,14 @@ NAT 会长期关注潜在的 NAT 候选人，并偶尔进行讨论已决定是�
 
 | 名字 | 语言 | 主要任务 |
 | :-- | :-- | :-- |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)| 西班牙语, 德语 | 评估, 管理 |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | 西班牙语, 德语 | 评估, 管理 |
 | ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | 荷兰语 | 评估 |
 
 ### osu!mania
 
 | 名字 | 语言 | 主要任务 |
 | :-- | :-- | :-- |
-| ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717)| 德语, 波兰语 | 评估 |
+| ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | 德语, 波兰语 | 评估 |
 | ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | 荷兰语 | 评估, 管理 |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "比利时"
