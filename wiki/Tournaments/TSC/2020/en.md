@@ -295,6 +295,21 @@ Saturday, 4 April 2020:
 
 ## Match results
 
+### Finals
+
+Saturday, 28 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| 🍘 | 6 | **7** | **The Shitmissers ft. zkane2** | [#1](https://osu.ppy.sh/community/matches/59705551) |
+| **#TeamTrees** | **7** | 2 | Worldwide Bongo | [#1](https://osu.ppy.sh/community/matches/59709552) |
+
+Sunday, 29 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Worldwide Bongo | 1 | **7** | **The Shitmissers ft. zkane2** | [#1](https://osu.ppy.sh/community/matches/59744805) |
+
 ### Semifinals
 
 Saturday, 21 March 2020:
