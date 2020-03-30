@@ -106,6 +106,16 @@ The 4 Digit osu!mania World Cup 2 was run by various community members.
 | **G** | ![][flag_RU] Russian Federation | ![][flag_CA] Canada | ![][flag_ES] Spain |
 | **H** | ![][flag_SG] Singapore | ![][flag_NZ] New Zealand | ![][flag_BE] Belgium |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] United States |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_AR] Argentina |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PH] Philippines |
+
 ## Mappools
 
 ### Finals Week 2
