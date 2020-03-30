@@ -160,6 +160,13 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Coffee Hispanic Tournament](CHT/1) | 2020-01-17 | 2020-02-17 | United States | Noveno Gaston | hallo y caspi |
 
+### ![](/wiki/shared/mode/osu.png) Great Singapore Tournament
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Great Singapore Tournament](GST/1) | 2019-06-18 | 2019-08-04 | Tom and Jerry | Broken Family | Ranked Score |
+| [Great Singapore Tournament 2](GST/2) | 2019-11-29 | 2020-01-19 | tamade | Mahathir bin Moh | Tom and Jerry |
+
 ### ![](/wiki/shared/mode/taiko.png) Asian-Oceanian Taiko Showdown
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
