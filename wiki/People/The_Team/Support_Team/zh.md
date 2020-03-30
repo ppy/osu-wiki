@@ -36,11 +36,11 @@ Support Team 主要负责:
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | 德语 |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | 西班牙语 |
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
+[flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
+[flag_DE]: /wiki/shared/flag/DE.gif "德国"
+[flag_ES]: /wiki/shared/flag/ES.gif "西班牙"
+[flag_NO]: /wiki/shared/flag/NO.gif "挪威"
+[flag_PH]: /wiki/shared/flag/PH.gif "菲律宾"
+[flag_SE]: /wiki/shared/flag/SE.gif "瑞典"
+[flag_US]: /wiki/shared/flag/US.gif "美国"
