@@ -104,7 +104,58 @@ The osu! TV Size Tournament 2020 is run by various community members.
 | **WE LOVE LWMF!** | **![][flag_AT] [TiltBoi](https://osu.ppy.sh/users/6311630)**, ![][flag_AT] [Pandadesu](https://osu.ppy.sh/users/2167069), ![][flag_AT] [LWMF](https://osu.ppy.sh/users/3632402), ![][flag_AT] [Snajper](https://osu.ppy.sh/users/4211027), ![][flag_AT] [FeeDyy](https://osu.ppy.sh/users/8123308), ![][flag_AT] [goosefedora](https://osu.ppy.sh/users/2323131), ![][flag_AT] [Teppi](https://osu.ppy.sh/users/1371974), ![][flag_DE] [Bakugo-](https://osu.ppy.sh/users/4990127) |
 | **will is 2** | **![][flag_GB] [Voss](https://osu.ppy.sh/users/7657761)**, ![][flag_US] [WillCookie](https://osu.ppy.sh/users/6404488), ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808), ![][flag_PL] [Bartek22830](https://osu.ppy.sh/users/6404027), ![][flag_GB] [Ventus](https://osu.ppy.sh/users/1986262), ![][flag_PL] [twoja stara](https://osu.ppy.sh/users/8170186), ![][flag_PL] [twoj stary](https://osu.ppy.sh/users/3543130), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
 
+## Match schedule: Finals
+
+Saturday, 4 April 2020:
+
+| Match ID | Team 1 | Team 2 | Match time (UTC) |
+| :-: | --: | :-- | :-: |
+| #L58 | osim | will is 2 | **10:00** |
+| #L57 | ＝ＹＡＨＥ | seusbruk | **14:00** |
+
+Sunday, 5 April 2020:
+
+| Match ID | Team 1 | Team 2 | Match time (UTC) |
+| :-: | --: | :-- | :-: |
+| #L59a¹ | will is 2 | seusbruk | **16:00** |
+| #L59b¹ | will is 2 | ＝ＹＡＨＥ | **12:00** |
+| #L59c¹ | osim | seusbruk | **14:00** |
+| #L59d¹ | osim | ＝ＹＡＨＥ | **12:00** |
+| #W60 | Rubber Conquest | floating up | **15:00** |
+
+¹ Encounter dependent on winner of match #L57 and match #L58
+
 ## Mappools
+
+### Finals
+
+**[Download the mappack here! (86 MB)](https://drive.google.com/file/d/1gWsKDGdbG8oW7cusmnvdngBiLa4pgkSh/view)**
+
+- NoMod
+  - [toby fox - Spider Dance (Fatfan Kolek) \[Kyshiro's Genocide\]](https://osu.ppy.sh/beatmapsets/750458#osu/1587275)
+  - [xi - Garyou Tensei (fartownik) \[Hello\]](https://osu.ppy.sh/beatmapsets/344371#osu/760779)
+  - [Kuroneko Dungeon - Ryoushi no Umi no Lindwurm (P o M u T a) \[ignore's EXTREME\]](https://osu.ppy.sh/beatmapsets/372850#osu/820336)
+  - [Zekk - Calling (NeilPerry) \[Iridescent\]](https://osu.ppy.sh/beatmapsets/673878#osu/1426038)
+- Hidden
+  - [Nekomata Master+ - POINT ZERO (Beomsan) \[Black Another\]](https://osu.ppy.sh/beatmapsets/1020276#osu/2134823)
+  - [P\*Light - 2 MINUTES FIGHTERS (Flask) \[Dailycare's INFINITE\]](https://osu.ppy.sh/beatmapsets/424088#osu/1109972)
+  - [Tachibana Miya - Miya to Tengoku to Jigoku (AngelHoney) \[Hentai\]](https://osu.ppy.sh/beatmapsets/17450#osu/62269)
+- HardRock
+  - [a\_hisaxChicking - The Navigator's Hope (Rohit6) \[Endurance of the Seafarer\]](https://osu.ppy.sh/beatmapsets/439225#osu/945304)
+  - [Co shu Nie - asura (DeviousPanda) \[semaphore's Extra\]](https://osu.ppy.sh/beatmapsets/986422#osu/2164160)
+  - [xi - Last Resort (Kroytz) \[1112's EXHAUST\]](https://osu.ppy.sh/beatmapsets/800102#osu/1679782)
+- DoubleTime
+  - [DJ TOTTO feat.3L - Youkakushi -Ayakashi Kakushi- (jonathanlfj) \[Trust's Lunatic\]](https://osu.ppy.sh/beatmapsets/516454#osu/1132800)
+  - [Pastel\*Palettes - Happy Synthesizer (ktgster) \[Special\]](https://osu.ppy.sh/beatmapsets/932654#osu/1947213)
+  - [ZAQ - Alteration (Creamy Candy) \[Insane\]](https://osu.ppy.sh/beatmapsets/1038233#osu/2170966)
+- FreeMod
+  - [Mediks - Outbreak (Strategas) \[Doomsday\]](https://osu.ppy.sh/beatmapsets/527082#osu/1118311)
+  - [Hyadain - Chocobo (mtmcl) \[Gold\]](https://osu.ppy.sh/beatmapsets/4392#osu/24023)
+  - [Lite Show Magic (t+pazolite vs C-Show) - Crack Traxxxx (Fatfan Kolek) \[Nathan's Ultra\]](https://osu.ppy.sh/beatmapsets/139525#osu/679943)
+- Tiebreaker
+  - **[P\*Light - Innocent Floor (-Famous-) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/396147#osu/1193758)**
+  - **[M2U - Mare Maris (PaRaDogi) \[Deppy's EXpert\]](https://osu.ppy.sh/beatmapsets/1100029#osu/2318400)**
+  - **[Getty vs. DJ DiA - DropZ-Line- (Realazy) \[1112's Extra\]](https://osu.ppy.sh/beatmapsets/727049#osu/1536579)**
 
 ### Semifinals
 
@@ -237,6 +288,26 @@ The osu! TV Size Tournament 2020 is run by various community members.
   - [Primastella - Koigokoro (Luerxa) \[Delis' Insane\]](https://osu.ppy.sh/beatmapsets/127712#osu/323875)
 
 ## Match results
+
+### Semifinals
+
+Saturday, 28 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| IshuzokuRebyuāzu | 4 | **6** | **Kangaroo** | [#1](https://osu.ppy.sh/community/matches/59698971) |
+| Old & Irrelevant | 0 | **6** | **osim** | [#1](https://osu.ppy.sh/community/matches/59707557) |
+| osu stonehenge | 0 | **6** | **seusbruk** | [#1](https://osu.ppy.sh/community/matches/59713993) |
+| **riuzaky homo** | **6** | 4 | Morello crew | [#1](https://osu.ppy.sh/community/matches/59718180) |
+
+Sunday, 29 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Rubber Conquest** | **6** | 0 | ＝ＹＡＨＥ | [#1](https://osu.ppy.sh/community/matches/59730638) |
+| **osim** | **6** | 3 | Kangaroo | [#1](https://osu.ppy.sh/community/matches/59737706) |
+| will is 2 | 1 | **6** | **Floating up** | [#1](https://osu.ppy.sh/community/matches/59742702) |
+| **seusbruk** | **6** | 0 | riuzaky homo | [#1](https://osu.ppy.sh/community/matches/59749127) |
 
 ### Quarterfinals
 
