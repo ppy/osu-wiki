@@ -104,6 +104,41 @@ Saturday, 4 April 2020:
 
 ## Mappools
 
+### Grand Finals
+
+**[Download the mappack here! (75 MB)](https://mega.nz/#!c1dj3Y7C!ui7a0oGxH_Apeze70ObF9vV0yjpQ55TZzmBABuhlpJQ)**
+
+#### Mappool A
+
+- NoMod
+  - [sakuzyo - StrayedCatz (D o t) \[.'s Taiko\]](https://osu.ppy.sh/beatmapsets/772767#taiko/1624338)
+  - [Kobaryo - Vicious Heroism (Harry\_TW\_ada) \[Yuemiao's Inner Oni\]](https://osu.ppy.sh/beatmapsets/951022#taiko/2193691)
+  - [98shiki SenkaiKikanju - (Foot/Mash)core (applerss) \[(Inner/Foot)oni\]](https://osu.ppy.sh/beatmapsets/1090566#taiko/2279880)
+  - [SHIKI - Pure Ruby (Konpaku Sariel) \[Scarlet\]](https://osu.ppy.sh/beatmapsets/1123527#taiko/2347774)
+- Hidden
+  - [lapix - Kill The Beat (HiroK) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/986572#taiko/2063920)
+  - [7\_7 - Waga Na ha Gorori (7\_7) \[43213444223 hassha\~\]](https://osu.ppy.sh/beatmapsets/833150#taiko/1745206)
+- HardRock
+  - [SON OF KICK - Hours ft. Lady Leshurr & Paigey Cakey (Irreversible) \[Nwolf's Oni\]](https://osu.ppy.sh/beatmapsets/274111#taiko/667471)
+  - [REDALiCE - Dead or Die (Konpaku Sariel) \[nyan\]](https://osu.ppy.sh/beatmapsets/1117942#taiko/2366161)
+- FreeMod
+  - [Rairyu - ra'am (glalucard) \[Taiko\]](https://osu.ppy.sh/beatmapsets/224900#taiko/524961)
+  - [Eity - M1R4CL3 M1M1K4 (7_7) \[M1R4CL3 PE2\]](https://osu.ppy.sh/beatmapsets/742391#taiko/1571153)
+
+#### Mappool B
+
+- Challenge
+  - [Rissyuu feat.Choko - Punai Punai Gensou \~Punai Punai in Wonderland\~ (KitajimaYN) \[7oni\]](https://osu.ppy.sh/beatmapsets/1048939#taiko/2196403)
+  - [The Flashbulb - Ninedump (Arrival) \[tasuke's Perilous\]](https://osu.ppy.sh/beatmapsets/984361#taiko/2059692)
+- DoubleTime
+  - [P\*Light - NINJA IS DEAD IIDX ver. (Tofu1222) \[aabc's Oni\]](https://osu.ppy.sh/beatmapsets/590032#taiko/1689752)
+- Easy
+  - [sakuraburst - serotonin (tasuke912) \[C10H12N2O\]](https://osu.ppy.sh/beatmapsets/786779#taiko/1651498)
+- Hidden+HardRock
+  - [uma vs. Morimori Atsushi - Kibou no Hoshi ha Seishou ni Noboru (uma vs. Morimori Atsushi Remix) (Ozu) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1121012#taiko/2342312)
+- Tiebreaker
+  - **[Gram VS Camellia - Ragnarok (yassu-) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/812048#taiko/1703338)**
+
 ### Finals
 
 **[Download the mappack here! (77 MB)](https://mega.nz/#!k4kRVQCa!yeoJbBg4fqfMBBg_Qr439iE4SrrEkJK8afHeuJ5teVg)**
