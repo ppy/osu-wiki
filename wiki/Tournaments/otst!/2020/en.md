@@ -127,6 +127,36 @@ Sunday, 5 April 2020:
 
 ## Mappools
 
+### Finals
+
+**[Download the mappack here! (86 MB)](https://drive.google.com/file/d/1gWsKDGdbG8oW7cusmnvdngBiLa4pgkSh/view)**
+
+- NoMod
+  - [toby fox - Spider Dance (Fatfan Kolek) \[Kyshiro's Genocide\]](https://osu.ppy.sh/beatmapsets/750458#osu/1587275)
+  - [xi - Garyou Tensei (fartownik) \[Hello\]](https://osu.ppy.sh/beatmapsets/344371#osu/760779)
+  - [Kuroneko Dungeon - Ryoushi no Umi no Lindwurm (P o M u T a) \[ignore's EXTREME\]](https://osu.ppy.sh/beatmapsets/372850#osu/820336)
+  - [Zekk - Calling (NeilPerry) \[Iridescent\]](https://osu.ppy.sh/beatmapsets/673878#osu/1426038)
+- Hidden
+  - [Nekomata Master+ - POINT ZERO (Beomsan) \[Black Another\]](https://osu.ppy.sh/beatmapsets/1020276#osu/2134823)
+  - [P\*Light - 2 MINUTES FIGHTERS (Flask) \[Dailycare's INFINITE\]](https://osu.ppy.sh/beatmapsets/424088#osu/1109972)
+  - [Tachibana Miya - Miya to Tengoku to Jigoku (AngelHoney) \[Hentai\]](https://osu.ppy.sh/beatmapsets/17450#osu/62269)
+- HardRock
+  - [a\_hisaxChicking - The Navigator's Hope (Rohit6) \[Endurance of the Seafarer\]](https://osu.ppy.sh/beatmapsets/439225#osu/945304)
+  - [Co shu Nie - asura (DeviousPanda) \[semaphore's Extra\]](https://osu.ppy.sh/beatmapsets/986422#osu/2164160)
+  - [xi - Last Resort (Kroytz) \[1112's EXHAUST\]](https://osu.ppy.sh/beatmapsets/800102#osu/1679782)
+- DoubleTime
+  - [DJ TOTTO feat.3L - Youkakushi -Ayakashi Kakushi- (jonathanlfj) \[Trust's Lunatic\]](https://osu.ppy.sh/beatmapsets/516454#osu/1132800)
+  - [Pastel\*Palettes - Happy Synthesizer (ktgster) \[Special\]](https://osu.ppy.sh/beatmapsets/932654#osu/1947213)
+  - [ZAQ - Alteration (Creamy Candy) \[Insane\]](https://osu.ppy.sh/beatmapsets/1038233#osu/2170966)
+- FreeMod
+  - [Mediks - Outbreak (Strategas) \[Doomsday\]](https://osu.ppy.sh/beatmapsets/527082#osu/1118311)
+  - [Hyadain - Chocobo (mtmcl) \[Gold\]](https://osu.ppy.sh/beatmapsets/4392#osu/24023)
+  - [Lite Show Magic (t+pazolite vs C-Show) - Crack Traxxxx (Fatfan Kolek) \[Nathan's Ultra\]](https://osu.ppy.sh/beatmapsets/139525#osu/679943)
+- Tiebreaker
+  - **[P\*Light - Innocent Floor (-Famous-) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/396147#osu/1193758)**
+  - **[M2U - Mare Maris (PaRaDogi) \[Deppy's EXpert\]](https://osu.ppy.sh/beatmapsets/1100029#osu/2318400)**
+  - **[Getty vs. DJ DiA - DropZ-Line- (Realazy) \[1112's Extra\]](https://osu.ppy.sh/beatmapsets/727049#osu/1536579)**
+
 ### Semifinals
 
 **[Download the mappack here! (114 MB)](https://drive.google.com/file/d/1bxHpQLc6RKX1TP7XAgW9J08LDBzjAg1g/view)**
