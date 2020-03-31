@@ -68,7 +68,7 @@ The audio bitrate determines a lot about the size of the audio file. Anything ab
 
 1. Import the audio file into Audacity.
 
-	![Importing audio into Audacity](img/t10.png "Importing audio into Audacity")
+	![Importing audio into Audacity](img/t9.png "Importing audio into Audacity")
 	
 2. Export the audio but change the export options to help compress your file. Use Variable and select the Quality as "145-185 kbps". If you want, you can enter in the meta data in the next dialog. If you don't want to, just click OK.
 
