@@ -95,7 +95,7 @@ Saturday, 4 April 2020:
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
 | South Korea | ![][flag_KR] | ![][flag_CA] | Canada | **03:00 UTC** | 12:00 UTC+09 | 22:00 (Fri.) UTC-05 | ² |
 | Taiwan | ![][flag_TW] | ![][flag_IT] | Italy | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 | ² |
-| Canada | ![][flag_CA] | ![][flag_IT] | Italy | **19:00 UTC** | 22:00 (Sat.) UTC-05 | 21:00 UTC+02 | ³ |
+| Canada | ![][flag_CA] | ![][flag_IT] | Italy | **19:00 UTC** | 14:00 UTC-05 | 21:00 UTC+02 | ³ |
 | Canada | ![][flag_CA] | ![][flag_TW] | Taiwan | **03:00 UTC** | 22:00 (Sat.) UTC-05 | 11:00 UTC+08 | ³ |
 
 Sunday, 5 April 2020:
