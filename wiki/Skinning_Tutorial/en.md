@@ -1,7 +1,3 @@
----
-needs_cleanup: true
----
-
 # Skinning tutorial
 
 *See also: [Skinning](/wiki/Skinning)*

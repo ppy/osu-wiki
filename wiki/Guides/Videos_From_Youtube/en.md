@@ -1,6 +1,7 @@
 ---
 needs_cleanup: true
 ---
+<!-- TODO: rewrite, and recommend newer FOSS. youtube-dl is nice -->
 
 # How to download videos from YouTube
 

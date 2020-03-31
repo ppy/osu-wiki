@@ -1,6 +1,7 @@
 ---
 needs_cleanup: true
 ---
+<!-- TODO: some of these descriptions are terrible and the whole thing needs a decent review. -->
 
 <!-- wikilink -->
 [osu!stream wikilink]: /wiki/Game_Modes/External_Ports/osu!stream "osu!stream by osu! team"

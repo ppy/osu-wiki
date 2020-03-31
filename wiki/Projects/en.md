@@ -1,6 +1,8 @@
 ---
 outdated: true
 ---
+<!-- TODO: plenty to add, and some of these are now completely dead or unusable -->
+<!-- TODO: it might be a good idea to link these somewhere in the osu!dev discord server so people can find other projects to work on -->
 
 # Projects
 
