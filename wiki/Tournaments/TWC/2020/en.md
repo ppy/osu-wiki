@@ -87,37 +87,55 @@ The osu!taiko World Cup 2020 is run by various community members.
 | ![][flag_GB] | **United Kingdom** | **[goheegy](https://osu.ppy.sh/users/8057655)**, [Horiiizon](https://osu.ppy.sh/users/8071438), [\_DUSK\_](https://osu.ppy.sh/users/6092181), [mangomizer](https://osu.ppy.sh/users/1893718), [Teezel](https://osu.ppy.sh/users/7528639) |
 | ![][flag_US] | **United States** | **[Loopy542](https://osu.ppy.sh/users/5468461)**, [3san](https://osu.ppy.sh/users/8050850), [cheese salad](https://osu.ppy.sh/users/6349821), [-Electro-](https://osu.ppy.sh/users/3251373), [HoopWheat](https://osu.ppy.sh/users/12177903) |
 
-## Match schedule: Semifinals
+## Match schedule: Finals
 
-Saturday, 28 March 2020:
-
-| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Germany | ![][flag_DE] | ![][flag_CN] | China | **13:00 UTC** | 14:00 UTC+01 | 21:00 UTC+08 | ² |
-| Italy | ![][flag_IT] | ![][flag_PL] | Poland | **14:30 UTC** | 15:30 UTC+01 | 15:30 UTC+01 | ² |
-| Canada | ![][flag_CA] | ![][flag_ES] | Spain | **17:30 UTC** | 12:30 UTC-05 | 18:30 UTC+01 | ² |
-| Sweden | ![][flag_SE] | ![][flag_BR] | Brazil | **19:00 UTC** | 20:00 UTC+01 | 16:00 UTC-03 | ² |
-
-Sunday, 29 March 2020:
+Saturday, 4 April 2020:
 
 | Team A |  |  | Team B | Match time | Local time A | Local time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Japan | ![][flag_JP] | ![][flag_KR] | South Korea | **11:00 UTC** | 20:00 UTC+09 | 20:00 UTC+09 | ¹ |
-| Taiwan | ![][flag_TW] | ![][flag_GB] | United Kingdom | **12:30 UTC** | 20:30 UTC+08 | 12:30 UTC | ¹ |
-| China | ![][flag_CN] | ![][flag_IT] | Italy | **14:00 UTC** | 22:00 UTC+08 | 15:00 UTC+01 | ³ |
-| China | ![][flag_CN] | ![][flag_PL] | Poland | **14:00 UTC** | 22:00 UTC+08 | 15:00 UTC+01 | ³ |
-| Germany | ![][flag_DE] | ![][flag_IT] | Italy | **15:30 UTC** | 16:30 UTC+01 | 16:30 UTC+01 | ³ |
-| Germany | ![][flag_DE] | ![][flag_PL] | Poland | **15:30 UTC** | 16:30 UTC+01 | 16:30 UTC+01 | ³ |
-| Sweden | ![][flag_SE] | ![][flag_CA] | Canada | **17:00 UTC** | 18:00 UTC+01 | 12:00 UTC-05 | ³ |
-| Sweden | ![][flag_SE] | ![][flag_ES] | Spain | **17:00 UTC** | 18:00 UTC+01 | 18:00 UTC+01 | ³ |
-| Brazil | ![][flag_BR] | ![][flag_CA] | Canada | **17:00 UTC** | 14:00 UTC-03 | 12:00 UTC-05 | ³ |
-| Brazil | ![][flag_BR] | ![][flag_ES] | Spain | **17:00 UTC** | 14:00 UTC-03 | 18:00 UTC+01 | ³ |
+| South Korea | ![][flag_KR] | ![][flag_CA] | Canada | **03:00 UTC** | 12:00 UTC+09 | 22:00 (Fri.) UTC-05 | ² |
+| Taiwan | ![][flag_TW] | ![][flag_IT] | Italy | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 | ² |
+| Canada | ![][flag_CA] | ![][flag_IT] | Italy | **19:00 UTC** | 14:00 UTC-05 | 21:00 UTC+02 | ³ |
+
+Sunday, 5 April 2020:
+
+| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| Canada | ![][flag_CA] | ![][flag_TW] | Taiwan | **03:00 UTC** | 22:00 (Sat.) UTC-05 | 11:00 UTC+08 | ³ |
+| South Korea | ![][flag_KR] | ![][flag_TW] | Taiwan | **11:00 UTC** | 20:00 UTC+09 | 19:00 UTC+08 | ³ |
+| South Korea | ![][flag_KR] | ![][flag_IT] | Italy | **11:00 UTC** | 20:00 UTC+09 | 13:00 UTC+02 | ³ |
+| Japan | ![][flag_JP] | ![][flag_GB] | United Kingdom | **12:30 UTC** | 21:30 UTC+09 | 13:30 UTC+01 | ¹ |
 
 ¹ Winner bracket encounter  
 ² Loser bracket encounter  
 ³ Encounter dependent on results of ²loser bracket encounter
 
 ## Mappools
+
+### Finals
+
+- NoMod
+  - [Freezer - No Items, At Endpoint (7_7) \[Oni\]](https://osu.ppy.sh/beatmapsets/752556#taiko/1584249)
+  - [antiPLUR - Clockwork Spooks (coed) \[Stamina Oni\]](https://osu.ppy.sh/beatmapsets/1099495#taiko/2296988)
+  - [Terminal 11 - Counter Clockwise Chant Pattern (Xay) \[Chronotropic Taiko\]](https://osu.ppy.sh/beatmapsets/1065707#taiko/2231614)
+  - [Rib - Seisou Bakuretsu Boy (Drum Decimator) \[Nov 29 (Bad End?)\]](https://osu.ppy.sh/beatmapsets/1135258#taiko/2370983)
+  - [The Ghost of 3.13 - Daydream (yea) \[Disappearance III\]](https://osu.ppy.sh/beatmapsets/775425#taiko/1629468)
+  - [AAAA + Umeboshi Chazuke - Sayonara Cosmonaut (karterfreak) \[Inner Oni Collab [TWC Edit]\]](https://osu.ppy.sh/beatmapsets/752320#taiko/2370745)
+- Hidden
+  - [MisoilePunch~Takenoko Shounen~ - Staring at star (Axer) \[Starlight Anthem\]](https://osu.ppy.sh/beatmapsets/922035#taiko/1925469)
+  - [Polyphia - O.D. (Mew) \[6.4\]](https://osu.ppy.sh/beatmapsets/1131016#taiko/2362483)
+- HardRock
+  - [Hiro - VERTeX (Nwolf) \[Apex\]](https://osu.ppy.sh/beatmapsets/856990#taiko/1790210)
+  - [The Flashbulb - Lawn Wake II (tasuke912) \[TAIKO-HOLIC\]](https://osu.ppy.sh/beatmapsets/364724#taiko/800560)
+- DoubleTime
+  - [tofubeats - CANDYYYLAND feat. LIZ (Pa's Lam System Remix) (Myckoll) \[Myruki's Sweet\]](https://osu.ppy.sh/beatmapsets/724269#taiko/1529288)
+  - [Caravan Palace - Lone Digger (Grimbow) \[<|°\_°|>\]](https://osu.ppy.sh/beatmapsets/619354#taiko/2367636)
+- FreeMod
+  - [Sakuzyo - Fracture Ray (tasuke912) \[Upheaval\]](https://osu.ppy.sh/beatmapsets/995013#taiko/2081247)
+  - [Masahiro 'Godspeed' Aoki - Gate of Doom (roufou) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/1022478#taiko/2139150)
+  - [Hatito - Express 0805 (Katagiri Mashup Remix) (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/927802#taiko/1937923)
+- Tiebreaker
+  - **[Venetian Snares - Frictional Nevada (Raiden) \[Frozen Wasteland\]](https://osu.ppy.sh/beatmapsets/1131123#taiko/2362691)**
 
 ### Semifinals
 
@@ -216,6 +234,26 @@ Sunday, 29 March 2020:
   - **[Chroma - Dark Sheep (Midnaait) \[Hitsujin\]](https://osu.ppy.sh/beatmapsets/987588#taiko/2065913)**
 
 ## Match results
+
+### Semifinals
+
+Saturday, 28 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Germany** ![][flag_DE] | **7** | 1 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/59703426) |
+| **Italy** ![][flag_IT] | **7** | 4 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/59706270) |
+| **Canada** ![][flag_CA] | **7** | 4 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/59712616) |
+| Sweden ![][flag_SE] | 2 | **7** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/59716476) |
+
+Sunday, 29 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Japan** ![][flag_JP] | **7** | 5 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/59739806) |
+| Taiwan ![][flag_TW] | 5 | **7** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/59741818) |
+| Germany ![][flag_DE] | 2 | **7** | ![][flag_IT] **Italy** | [#1](https://osu.ppy.sh/community/matches/59747665) |
+| Brazil ![][flag_BR] | 5 | **7** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/59750846) |
 
 ### Quarterfinals
 
