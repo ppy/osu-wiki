@@ -93,10 +93,10 @@ Saturday, 4 April 2020:
 
 | Team A |  |  | Team B | Match time | Local time A | Local time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| South Korea | ![][flag_KR] | ![][flag_CA] | Canada | **03:00 UTC** | 12:00 UTC+09 | 02:00 UTC-05 | ² |
+| South Korea | ![][flag_KR] | ![][flag_CA] | Canada | **03:00 UTC** | 12:00 UTC+09 | 22:00 (Fri.) UTC-05 | ² |
 | Taiwan | ![][flag_TW] | ![][flag_IT] | Italy | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 | ² |
 | Canada | ![][flag_CA] | ![][flag_IT] | Italy | **19:00 UTC** | 14:00 UTC-05 | 21:00 UTC+02 | ³ |
-| Canada | ![][flag_CA] | ![][flag_TW] | Taiwan | **03:00 UTC** | 02:00 UTC-05 | 11:00 UTC+08 | ³ |
+| Canada | ![][flag_CA] | ![][flag_TW] | Taiwan | **03:00 UTC** | 22:00 (Sat.) UTC-05 | 11:00 UTC+08 | ³ |
 
 Sunday, 5 April 2020:
 
@@ -104,7 +104,7 @@ Sunday, 5 April 2020:
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
 | South Korea | ![][flag_KR] | ![][flag_TW] | Taiwan | **11:00 UTC** | 20:00 UTC+09 | 19:00 UTC+08 | ³ |
 | South Korea | ![][flag_KR] | ![][flag_IT] | Italy | **11:00 UTC** | 20:00 UTC+09 | 13:00 UTC+02 | ³ |
-| Japan | ![][flag_JP] | ![][flag_GB] | United Kingdom | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 | ¹ |
+| Japan | ![][flag_JP] | ![][flag_GB] | United Kingdom | **12:30 UTC** | 21:30 UTC+09 | 13:30 UTC+01 | ¹ |
 
 ¹ Winner bracket encounter  
 ² Loser bracket encounter  
