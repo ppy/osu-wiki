@@ -54,10 +54,10 @@ The rest of the team helps with quality control, maintenance, and organisation.
 
 | Name | Responsibility |
 | :-- | :-- |
-| ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) | Writes news and forum posts |
-| ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) | Maintains public spreadsheets |
-| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) | Fixes beatmap metadata |
-| ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Oversees the direction of the project (he created it!) |
+| ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) | Writing news and forum posts |
+| ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) | Maintaining public spreadsheets |
+| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) | Fixing beatmap metadata |
+| ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Overseeing the direction of the project (he created it!) |
 
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
