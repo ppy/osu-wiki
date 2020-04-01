@@ -40,7 +40,7 @@ We proudly present to you, a selection of some of the finest music you'll ever h
     <source src="https://assets.ppy.sh/artists/727/previews/2014.mp3" type="audio/mpeg">
 </audio>
 
-### There's Gold Beneath Your Waltzing Rainbow
+### There's Gold Beneath Your Waltzing Rainbow (feat. [Mismagius](https://osu.ppy.sh/users/19048))
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/727/previews/shish.mp3" type="audio/mpeg">
