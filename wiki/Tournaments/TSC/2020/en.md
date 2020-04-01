@@ -97,7 +97,7 @@ Saturday, 4 April 2020:
 
 | Match ID | Team 1 | Team 2 | Match time (UTC) |
 | :-: | --: | :-- | :-: |
-| #GF1 | #TeamTrees | The Shitmissers ft. zkane2 |  |
+| #GF1 | #TeamTrees | The Shitmissers ft. zkane2 | **14:00** |
 | #GF2¹ | The Shitmissers ft. zkane2 | #TeamTrees |  |
 
 ¹ If team 2 wins match #GF1, the bracket reset Grand Finals match will take place 30 minutes in advance.
