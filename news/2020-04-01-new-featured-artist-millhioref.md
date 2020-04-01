@@ -48,7 +48,7 @@ We proudly present to you, a selection of some of the finest music you'll ever h
 
 ---
 
-As usual, all of the above are available right now from [**MillhioreF**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/727), pre-timed and ready for you to fail miserably in replicating [the objective brilliance that made him popular in the first place](https://osu.ppy.sh/beatmapsets/733480), which by the way, is now Loved. People like to say 'it never hurts to try' but really, you're only going to hurt yourself if you try in this case, so don't bother.
+As usual, all of the above are available right now from [**MillhioreF**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/727), pre-timed and ready for you to fail miserably in replicating [the objective brilliance that made him popular in the first place](https://osu.ppy.sh/beatmapsets/73348), which by the way, is now Loved. People like to say 'it never hurts to try' but really, you're only going to hurt yourself if you try in this case, so don't bother.
 
 The hint guessing game this time was... astonishing, to say the least. Avid tweeter @jehlpxyz attempted some reality-warping investigative juju that nearly turned our beloved **MillhioreF** into an award-winning British power metal band, but this was stopped just in time by one of our twenty-seven interns tweeting out the counter-chant. Lucky save! 
 
