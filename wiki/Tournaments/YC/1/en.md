@@ -295,6 +295,22 @@ Sunday, 5 April 2020:
 
 ## Match results
 
+### Finals
+
+Saturday, 28 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Rtzero x Rtzer0** | **7** | 2 | Sakura Trick | [#1](https://osu.ppy.sh/community/matches/59699521) |
+| **Futon's Bunker** | **7** | 6 | Dziadzia team | [#1](https://osu.ppy.sh/community/matches/59702151) |
+| Corim's Bad Dream | 6 | **7** | **a la verga** | [#1](https://osu.ppy.sh/community/matches/59717509) |
+
+Sunday, 29 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Futon's Bunker | 6 | **7** | **Rtzero x Rtzer0** | [#1](https://osu.ppy.sh/community/matches/59740324) |
+
 ### Semifinals
 
 Saturday, 21 March 2020:
