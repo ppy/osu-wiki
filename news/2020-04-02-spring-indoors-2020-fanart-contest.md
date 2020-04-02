@@ -4,7 +4,7 @@ title: "Spring Indoors 2020 Fanart Contest"
 date: 2020-04-02 08:00:00 +0000
 ---
 
-Spring is here, and though most of us are currently stuck indoors for the most part, we're not going to let that dampen our artistic spirit!
+Spring is here, and though a lot of us are currently stuck indoors for the most part, we're not going to let that dampen our artistic spirit!
 
 ![](https://assets.ppy.sh/contests/92/header.jpg)
 
