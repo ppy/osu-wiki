@@ -75,16 +75,16 @@
 
 ### 术语
 
-- **正式来源**：作者所发布的媒体，如官方网站，CD 扫描，或者官方上传到的网站如 Bandcamp、YouTube、SoundCloud 等。第三方网站如百科、数据库、音乐服务等，不被看作正式来源。
-- **vs.**：versus 与
-- **feat./ft.**：featuring 以……为特色，一般用于表示合作的歌手
-- **CV**：character voice，通常用来指虚构人物的配音演员。
-- **星号（asterisk）**：`*`
-- **元音变音（umlauts）**：`ü`，`ö`，`ä` 和 `ß`
-- **空白**：字符间的可视间隔，不一定总是空格字符。方块（全宽）文字中不使用空白。
-- **TV Size**：在电视节目、Web 或直接在视频系列中使用特定版本的歌曲，如开头、结尾或插入曲。独立音乐 / 同人音乐系列不在此列。
-- **平文式罗马字 改（Modified Hepburn Romanisation）**：参阅[这篇文章](https://zh.wikipedia.org/wiki/平文式罗马字#转写规则)了解更多。
-- **逐字符罗马化（Character-by-character romanisation）**：每一个中文字符必须罗马化为拼音，用空格分割开，并且首字母大写。
+- **正式来源：** 作者所发布的媒体，如官方网站，CD 扫描，或者官方上传到的网站如 Bandcamp、YouTube、SoundCloud 等。第三方网站如百科、数据库、音乐服务等，不被看作正式来源。
+- **vs.：** versus 与
+- **feat./ft.：** featuring 以……为特色，一般用于表示合作的歌手
+- **CV：** character voice，通常用来指虚构人物的配音演员。
+- **星号（asterisk）：** `*`
+- **元音变音（umlauts）：** `ü`，`ö`，`ä` 和 `ß`
+- **空白：** 字符间的可视间隔，不一定总是空格字符。方块（全宽）文字中不使用空白。
+- **TV Size：** 在电视节目、Web 或直接在视频系列中使用特定版本的歌曲，如开头、结尾或插入曲。独立音乐 / 同人音乐系列不在此列。
+- **平文式罗马字 改（Modified Hepburn Romanisation）：** 参阅[这篇文章](https://zh.wikipedia.org/wiki/平文式罗马字#转写规则)了解更多。
+- **逐字符罗马化（Character-by-character romanisation）：** 每一个中文字符必须罗马化为拼音，用空格分割开，并且首字母大写。
 
 ### 规定
 
