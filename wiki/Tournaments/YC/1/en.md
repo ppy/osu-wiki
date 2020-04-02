@@ -123,6 +123,42 @@ Sunday, 5 April 2020:
 
 ## Mappools
 
+### Grand Finals
+
+**[Download the mappack here! (135 MB)](https://mega.nz/#!GVNmxaRb!VSDzR0f_swSZ-XCa2NY0uaGDIfD72uU7EeH917jylZo)**
+
+- NoMod
+  - [System Of A Down - Toxicity (Icekalt) \[Disorder\]](https://osu.ppy.sh/beatmapsets/1041151#osu/2176046)
+  - [goreshit - toromi hearts 2 (Elcheer) \[I Can't Come Up With A Difficulty Name Yet\]](https://osu.ppy.sh/beatmapsets/853027#osu/1897638)
+  - [Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - ito (Lasse) \[Petal\]](https://osu.ppy.sh/beatmapsets/1077982#osu/2255709)
+  - [xi - Last Resort (Kroytz) \[Loli's INFINITE\]](https://osu.ppy.sh/beatmapsets/800102#osu/1679788)
+  - [Camellia - WHAT THE CAT!? (Akali) \[Procatstination (Meowzerrin Style)\]](https://osu.ppy.sh/beatmapsets/588018#osu/1245003)
+  - [Azuna Riko - Kimi ni Furete (TV size) (Aery) \[yuri cup\]](https://osu.ppy.sh/beatmapsets/1134849#osu/2370203)
+  - [Ancient Remains Arranged 20 Beats - Shirayama Hime no Kami (rustbell) \[Rush\]](https://osu.ppy.sh/beatmapsets/818813#osu/1716795)
+- Hidden
+  - [Renard - Rainbow Dash Likes Girls (Stay Gay Pony Girl) (Kuron-kun) \[Holy Shit! It's Rainbow Dash... Again!\]](https://osu.ppy.sh/beatmapsets/777586#osu/1633520)
+  - [xi - over the top (Kroytz) \[beyond the heavens\]](https://osu.ppy.sh/beatmapsets/479215#osu/1023355)
+  - [lapix - Carry Me Away (Alden) \[Nigber1's Blazing Extra\]](https://osu.ppy.sh/beatmapsets/696800#osu/2361968)
+  - [CLIFF EDGE feat. Nakamura Maiko - The Distance (handsome) \[Master\]](https://osu.ppy.sh/beatmapsets/580375#osu/1228840)
+- HardRock
+  - [Nekomata Master - Despair of Elferia (-Tochi) \[ANIMUM DESPONDEO\]](https://osu.ppy.sh/beatmapsets/1069504#osu/2238810)
+  - [LowFat x Onyu - DAYBREAK FRONTLINE (Anmiy) \[GO AHEAD !!!\]](https://osu.ppy.sh/beatmapsets/545417#osu/1155547)
+  - [RYO - Shuffle Heaven (AngelHoney) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/30682#osu/118971)
+  - [Memme - %S(M) (P o M u T a) \[EX\]](https://osu.ppy.sh/beatmapsets/296393#osu/665509)
+- DoubleTime
+  - [Taylor Swift - ...Ready For It? (Syph) \[Extra\]](https://puu.sh/Fru9p/84d01bdba5.osz)
+  - [bibuko - Crayon (val0108) \[Insane\]](https://osu.ppy.sh/beatmapsets/49455#osu/152463)
+  - [Stan SB - Let This Go (Kyshiro) \[Gone\]](https://osu.ppy.sh/beatmapsets/89912#osu/244230)
+  - [Culprate & Joe Ford - Gaucho (ScubDomino) \[Kalibe x LCFC's Insane\]](https://osu.ppy.sh/beatmapsets/847776#osu/1772924)
+  - [Fred Roettcher - Cha-La Head Cha-La (Suissie) \[Deramok\]](https://osu.ppy.sh/beatmapsets/947114#osu/2130383)
+- FreeMod
+  - [Crush 40 - City Escape - Modern (Hobbes2) \[Ultimate\]](https://osu.ppy.sh/beatmapsets/706935#osu/1494630)
+  - [FLOOR BABA - WIGGLE CORE (Skymin) \[TAP\]](https://osu.ppy.sh/beatmapsets/769708#osu/1618417)
+  - [Denkishiki Karen Ongaku Shuudan - Lily Toxicity (Short Ver.) (LMT) \[A Little Piece of Heaven\]](https://osu.ppy.sh/beatmapsets/1066325#osu/2232812)
+  - [paranoid void - Utsukushii Kodoku (dsco) \[Escapism\]](https://osu.ppy.sh/beatmapsets/777597#osu/1633534)
+- Tiebreaker
+  - **[Dimrain47 - Operation: Evolution (Yukiyo) \[Darwinism\]](https://osu.ppy.sh/beatmapsets/938921#osu/1961263)**
+
 ### Finals
 
 - NoMod
