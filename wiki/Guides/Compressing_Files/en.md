@@ -49,11 +49,11 @@ This section will show you how to compress the video in the file.
 3. Change the Constant Quality to something around 20 or 25. Smaller values mean smaller files but you will lose quality. Higher values on the other hand create bigger files but have higher quality.
 
 ![Change Constant Quality](img/t3.png  "Change Constant Quality")
-	
+
 4. Change the Framerate to 30.
 
 ![Change Framerate](img/t4.png  "Change Framerate")
-	
+
 5. To resize the image of the video file, go to Dimensions and change the Width to "1280" and change the Height to "720".
 
 ![Change image dimensions](img/t5.png  "Change image dimensions")
