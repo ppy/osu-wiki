@@ -78,7 +78,7 @@
 
 #### 指南
 
--  **不建议使用新风格转盘。** 它只能用在首选皮肤为默认皮肤的时候。使用 SpinnerBackground 的皮肤会改变 spinner-background.png 的颜色并且这将对转盘的外观产生负面影响。这一设置无法通过编辑 `.osu` 文件中的 `[Colours]` 来修改。
+- **不建议使用新风格转盘。** 它只能用在首选皮肤为默认皮肤的时候。使用 SpinnerBackground 的皮肤会改变 spinner-background.png 的颜色并且这将对转盘的外观产生负面影响。这一设置无法通过编辑 `.osu` 文件中的 `[Colours]` 来修改。
 
 ## 具体难度
 
