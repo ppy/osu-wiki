@@ -20,7 +20,7 @@ Check it all out:
 
 ### Nova
 
-Check out [this solo set osu!catch from the Mappers' Guild](https://osu.ppy.sh/beatmapsets/1102115) by [JBHyperion](https://osu.ppy.sh/users/4879508)!
+Check out [this solo osu!catch set from the Mappers' Guild](https://osu.ppy.sh/beatmapsets/1102115) by [JBHyperion](https://osu.ppy.sh/users/4879508)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/75/previews/2032.mp3" type="audio/mpeg">
@@ -34,10 +34,12 @@ Check out [this osu!catch set from the Mappers' Guild](https://osu.ppy.sh/beatma
     <source src="https://assets.ppy.sh/artists/75/previews/2017.mp3" type="audio/mpeg">
 </audio>
 
-### Velocity
+### Etude Op. 25, No. 12 (meganeko Remix)
+
+Check out [this osu!catch set from the Mappers' Guild](https://osu.ppy.sh/beatmapsets/1115500) hosted by [WildOne94](https://osu.ppy.sh/users/3482692)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/75/previews/2038.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/75/previews/2016.mp3" type="audio/mpeg">
 </audio>
 
 ### Empyrean
