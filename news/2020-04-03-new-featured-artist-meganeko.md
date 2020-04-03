@@ -34,6 +34,14 @@ Check out [this osu!catch set from the Mappers' Guild](https://osu.ppy.sh/beatma
     <source src="https://assets.ppy.sh/artists/75/previews/2017.mp3" type="audio/mpeg">
 </audio>
 
+### Chopin - Etude Op. 25, No. 12 (meganeko Remix)
+
+Check out [this osu!catch set from the Mappers' Guild](https://osu.ppy.sh/beatmapsets/1115500) hosted by [WildOne94](https://osu.ppy.sh/users/3482692)!
+
+<audio controls>
+    <source src="https://assets.ppy.sh/artists/75/previews/2016.mp3" type="audio/mpeg">
+</audio>
+
 ### Velocity
 
 <audio controls>
@@ -44,12 +52,6 @@ Check out [this osu!catch set from the Mappers' Guild](https://osu.ppy.sh/beatma
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/75/previews/2022.mp3" type="audio/mpeg">
-</audio>
-
-### Feral
-
-<audio controls>
-    <source src="https://assets.ppy.sh/artists/75/previews/2023.mp3" type="audio/mpeg">
 </audio>
 
 ---
