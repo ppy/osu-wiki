@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # FAQ
 
 ## Introduktion till osu!
