@@ -40,7 +40,6 @@ Check out [this osu!catch set from the Mappers' Guild](https://osu.ppy.sh/beatma
     <source src="https://assets.ppy.sh/artists/75/previews/2038.mp3" type="audio/mpeg">
 </audio>
 
-
 ### Empyrean
 
 <audio controls>
