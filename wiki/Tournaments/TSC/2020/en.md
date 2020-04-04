@@ -30,6 +30,8 @@ The **Taiko Suiji Cup 2020** (***TSC 2020***) was an international randomised th
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
+![](img/badge.png "TSC 2020 winner badge")
+
 ## Organisation
 
 The Taiko Suiji Cup 2020 was run by various community members.
