@@ -1,5 +1,6 @@
 ---
 layout: main_page
+no_native_review: true
 ---
 
 <!-- Do not add any empty lines inside this div. -->
