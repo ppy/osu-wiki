@@ -39,7 +39,7 @@ Given the frequency of the MBC, we like to keep things fresh by forcing mappers 
 
 This month's limitation: **sliders must have reverses**.
 
-Throw everything you know about rhythm choice out the window — it's not going to help you. This is likely the most difficult limitation the MBC has had so far, and we hope to see some unusual entries because of it!
+Throw everything you know about rhythm choice out the window — you're not allowed to use sliders *unless* they have a reverse arrow. This is likely the most difficult limitation the MBC has had so far, and we hope to see some unusual entries because of it!
 
 For clarification, circles are still permitted in this contest, though a circle-only map is likely not going to pass the screening stage. Aim to use slider reverses (or repeats, whatever you want to call them) to their maximum potential.
 
