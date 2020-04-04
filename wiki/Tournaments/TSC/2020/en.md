@@ -332,6 +332,15 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
+### Grand Finals
+
+Saturday, 4 April 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| #TeamTrees | 1 | **7** | **The Shitmissers ft. zkane2** | [#1](https://osu.ppy.sh/community/matches/59983428) |
+| **The Shitmissers ft. zkane2** | **0** | -1 | #TeamTrees | *win by default* |
+
 ### Finals
 
 Saturday, 28 March 2020:
