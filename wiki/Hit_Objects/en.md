@@ -1,6 +1,5 @@
----
-needs_cleanup: true
----
+<!-- TODO: should also have articles for each hit object -->
+<!-- TODO: other games modes? =( -->
 
 # Hit objects
 

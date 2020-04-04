@@ -1,6 +1,4 @@
----
-needs_cleanup: true
----
+<!-- TODO: get rid of this ASAP. we have articles, redirects, and tags systems to replace this. -->
 
 # Glossary
 

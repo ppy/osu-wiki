@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+<!-- TODO: the interface has changed quite a bit. this whole article should be rechecked to make sure it all makes sense still -->
 
 # Beatmap discussion
 

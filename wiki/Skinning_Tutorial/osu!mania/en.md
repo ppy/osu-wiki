@@ -1,7 +1,3 @@
----
-needs_cleanup: true
----
-
 # osu!mania skinning tutorial
 
 This tutorial uses [skin version](/wiki/skin.ini#versions) `2.5`. Since the skin configuration heavily affects osu!mania skinning, this tutorial will discuss both cases: using the default values (henceforth referred to as "basic") and modifying the skin configuration (henceforth referred to as "advanced").

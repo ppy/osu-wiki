@@ -1,6 +1,7 @@
 ---
 needs_cleanup: true
 ---
+<!-- TODO: more like "history of beatmap packs"... this article shouldn't exist as-is -->
 
 [media-anime-vol-1]: https://www.mediafire.com/?9n65pm9fp8yp5bn
 [media-anime-vol-2]: https://www.mediafire.com/?722os55j52ikylq

@@ -1,6 +1,7 @@
 ---
 needs_cleanup: true
 ---
+<!-- TODO: needs a thorough review for writing style and organisation, this is one of the more awkward articles on the site -->
 
 <!--Wiki links used-->
 [osu!academy wikilink]: /wiki/osu!academy "osu!academy"

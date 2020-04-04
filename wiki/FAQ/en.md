@@ -1,6 +1,11 @@
 ---
 needs_cleanup: true
 ---
+<!-- when editing this article, you should try to get in touch with GMT members and see how they've been using it. they should be able to link here to answer FAQs, if necessary -->
+<!-- TODO:
+- dated/misleading info in many sections
+- this article has so many sections that it's basically useless, besides in search results or direct section links. we probably want to break it up into articles with proper categorization in the spirit of https://github.com/ppy/osu-wiki/issues/3143
+-->
 
 # FAQ
 

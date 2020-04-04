@@ -1,6 +1,4 @@
----
-needs_cleanup: true
----
+<!-- TODO: needs a grammar/style check -->
 
 # osu!catch
 
