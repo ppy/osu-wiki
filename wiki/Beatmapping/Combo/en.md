@@ -1,22 +1,22 @@
 ---
 tags:
-    - Combo Color
-    - Colorhaxing
-    - Colourhaxing
-    - Color Haxing
-    - Colour Haxing
-    - NC
+  - Combo Color
+  - Colorhaxing
+  - Colourhaxing
+  - Color Haxing
+  - Colour Haxing
+  - NC
 ---
 
 # Combo
 
-*For the element refered to as 'combo' in gameplay, see: [Score Multiplier](/wiki/Score)*
+*Not to be confused with [Score Multiplier](/wiki/Score).*
 
 Combos refer to groupings of [hit objects](/wiki/Hit_Objects) done according to musical representation. Groupings are most commonly done according to verses, measures, vocal phrases and/or instrument scripts. Different combos are separated by **New Combos**, or ***NCs***. New combos are made with the `New Combo` button (or the shortcut `Q`) on the right of the `Design` tab in the [beatmap editor](/wiki/Beatmap_Editor). How combos are displayed in gameplay depends on the currently enabled [gamemode](/wiki/Game_Modes).
 
-## Combo Colour
+## Combo colour
 
-*For regulations surrounding combo colours, see [Ranking Criteria](/wiki/Ranking_Criteria)*
+*For regulations surrounding combo colours, see: [Ranking Criteria](/wiki/Ranking_Criteria)*
 
 When a new combo is started, the current combo colour changes. Combo colours are colours defined by a beatmapper, and apply to all hit objects in a beatmap. Combo colouring is an important aspect to a beatmap's aesthetic value, as it is one of the only ways to change the visuals of a beatmap besides [storyboarding](/wiki/Storyboard_Scripting) and [skinning](/wiki/Skinning). Combo colours can be set in the [Song Setup](/wiki/Beatmap_Editor/Song_Setup) panel, with a minimum of 2 and a maximum of 8 combo colours. Combo colours defined in a skin will only be used when a beatmapper does **not** define any combo colours, or when the player overrides it in their settings.
 
