@@ -159,15 +159,7 @@ On the contrary, a reverse choke is when the player combobreaks at the beginning
 
 ### Collab
 
-*Short for "collaboration".*
-
-Collab has two meanings:
-
-1. The work of multiple [creators](#creator) creating a single [beatmap](/wiki/Beatmaps); usually a [marathon](#marathon) beatmap.
-   - When collaborating on a beatmap, the creator must map a majority (at least half) of the beatmap. This is to ensure that the creator has done enough to upload the map under their username.
-2. The mapset containing [guest difficulties](#guest-difficulty).
-
-Collab may sometimes be used in [difficulty](/wiki/Difficulties) version names.
+Short for [collaboration](/wiki/Beatmaps/Beatmap_collaborations).
 
 ### Combo
 
