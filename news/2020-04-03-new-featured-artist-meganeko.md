@@ -20,7 +20,7 @@ Check it all out:
 
 ### Nova
 
-Check out [this solo set osu!catch from the Mappers' Guild](https://osu.ppy.sh/beatmapsets/1102115) by [JBHyperion](https://osu.ppy.sh/users/4879508)!
+Check out [this solo osu!catch set from the Mappers' Guild](https://osu.ppy.sh/beatmapsets/1102115) by [JBHyperion](https://osu.ppy.sh/users/4879508)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/75/previews/2032.mp3" type="audio/mpeg">
