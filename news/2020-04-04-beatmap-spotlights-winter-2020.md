@@ -6,7 +6,7 @@ date: 2020-04-04 10:00:00 +0000
 
 ![](/wiki/shared/news/2020-04-04-beatmap-spotlights-winter-2020/header.png)
 
-Even though it's already geting warmer outside, we still have a collection of cool beatmaps for you to enjoy these sunny days. Be sure to check them out and earn a fancy medal for playing them all!
+Even though it's already getting warmer outside, we still have a collection of cool beatmaps for you to enjoy these sunny days. Be sure to check them out and earn a fancy medal for playing them all!
 
 The beatmap charts for the Winter Spotlights can be found [here](https://osu.ppy.sh/rankings/osu/charts?spotlight=275). Their respective packs are available at the [Beatmap Pack listing](https://osu.ppy.sh/beatmaps/packs?type=chart) for easier access. The Winter 2020 Spotlights rankings will end on the 15th of June, 2020.
 
