@@ -94,16 +94,15 @@ The Taiko Suiji Cup 2020 was run by various community members.
 | **The winner is the winner** | **![][flag_PL] [Acrith](https://osu.ppy.sh/users/389880)**, ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864), ![][flag_US] [driodx](https://osu.ppy.sh/users/9709548), ![][flag_CA] [beary605](https://osu.ppy.sh/users/2198070), ![][flag_ES] [Lunako](https://osu.ppy.sh/users/2041945), ![][flag_US] [Num5119](https://osu.ppy.sh/users/5198060) |
 | **Worldwide Bongo** | **![][flag_RU] [TwinT](https://osu.ppy.sh/users/9976154)**, ![][flag_NL] [Hypello](https://osu.ppy.sh/users/1594036), ![][flag_BR] [Kyoumo](https://osu.ppy.sh/users/8145223), ![][flag_PT] [Yumi\_Hideaki](https://osu.ppy.sh/users/10081162), ![][flag_HK] [LDator](https://osu.ppy.sh/users/9534414), ![][flag_US] [Yujki](https://osu.ppy.sh/users/14987094) |
 
-## Match schedule: Grand Finals
+## Podium
 
-Saturday, 4 April 2020:
+This competition has come to an end and resulted in the following podium:
 
-| Match ID | Team 1 | Team 2 | Match time (UTC) |
-| :-: | --: | :-- | :-: |
-| #GF1 | #TeamTrees | The Shitmissers ft. zkane2 | **14:00** |
-| #GF2¹ | The Shitmissers ft. zkane2 | #TeamTrees |  |
-
-¹ If team 2 wins match #GF1, the bracket reset Grand Finals match will take place 30 minutes in advance.
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | The Shitmissers ft. zkane2 |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | #TeamTrees |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Worldwide Bongo |
 
 ## Mappools
 
