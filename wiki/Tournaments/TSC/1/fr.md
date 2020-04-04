@@ -1,21 +1,20 @@
 ---
 tags:
-- Taiko Suiji Cup
-- TSC
+  - TSC
 ---
 
 # Taiko Suiji Cup
 
-![TSC Logo](img/logo.png)
+![TSC logo](img/logo.png)
 
-Le **Taiko Suiji Cup(***TSC***)** est un tournoi 3vs3 avec des équipes formées aléatoirement d'osu!taiko organisé par ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110). C'est la première édition du Taiko Suiji Cup.
+Le **Taiko Suiji Cup** (***TSC***) était un tournoi 3vs3 avec des équipes formées aléatoirement d'osu!taiko organisé par ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110). C'était la première édition du Taiko Suiji Cup.
 
 ## Planning du tournoi
 
 | Évènement | Dates |
 | --: | :-- |
 | Phase d'inscription | 2018-08-01/2018-08-25 |
-| Tirage au sort en direct | 2018-08-25 12:30:00 UTC |
+| Tirage au sort en direct | 2018-08-25 (12:30 UTC) |
 | 32èmes de finale | 2018-09-01/2018-09-02 |
 | 16èmes de finale | 2018-09-08/2018-09-09 |
 | Quarts-de-finale | 2018-09-15/2018-09-16 |
@@ -25,26 +24,26 @@ Le **Taiko Suiji Cup(***TSC***)** est un tournoi 3vs3 avec des équipes formées
 
 ## Récompenses
 
-Dans chaque tournoi, les joueurs qui remportent une place sur le podium sont éligibles à recevoir des prix uniques crées spécialement pour les gagnants de la Taiko Suiji Cup. Il est possible que ces prix changent avec chaque édition de la Taiko Suiji Cup.
-
-| Classement | Récompenses |
+| Classement | Récompense |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
+
+![](img/badge.png "Badge du gagnant du TSC")
 
 ## Organisation
 
-Le Taiko Suiji Cup est géré par divers membres de la communauté d'osu!taiko.
+Le Taiko Suiji Cup était géré par divers membres de la communauté d'osu!taiko.
 
 | Poste | Membre(s) |
 | :-- | :-- |
 | Organisateur | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) |
 | Sélectionneur de map | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Commentateurs | ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [Das](https://osu.ppy.sh/users/3165416), ![][flag_PT] [BabySnakes](https://osu.ppy.sh/users/4669728), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) |
-| Streamers | ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035), ![][flag_DE] [\[TaikoTori\]](https://osu.ppy.sh/users/1074143) |
-| Designers | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_DE] [Reo](https://osu.ppy.sh/users/2249297) |
-| Statisticiens | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787) |
-| Arbitres | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_RU] [-dragon67](https://osu.ppy.sh/users/4328734), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_CA] [390](https://osu.ppy.sh/users/7622460), ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035) |
-| Wiki | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172) |
+| Arbitre | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_US] [JDrago14](https://osu.ppy.sh/users/7690078), ![][flag_RU] [-dragon67](https://osu.ppy.sh/users/4328734), ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_CA] [390](https://osu.ppy.sh/users/7622460), ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035) |
+| Streamer | ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035), ![][flag_DE] [\[TaikoTori\]](https://osu.ppy.sh/users/1074143) |
+| Commentateur | ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [Das](https://osu.ppy.sh/users/3165416), ![][flag_PT] [BabySnakes](https://osu.ppy.sh/users/4669728), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) |
+| Designer | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_DE] [Reo](https://osu.ppy.sh/users/2249297) |
+| Statisticien | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787) |
+| Éditeur de wiki | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172) |
 
 ## Liens
 
@@ -52,46 +51,42 @@ Le Taiko Suiji Cup est géré par divers membres de la communauté d'osu!taiko.
 - [Livestream](https://www.twitch.tv/osutaikolive)
 - **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/e/2PACX-1vT4mX-oPxTW6kHLxYF-dk3dYqRNI0c9KnpGO9VZQIR9HKjB2xIM0JrZjsaknY0drLfVk55wjxf9a2M5/pubhtml)**
 
------------------------
-
 ## Participants
 
 | Équipe | Membres |
 | :-- | :-- |
-| **The Tasuke Train** | ![][flag_JP] **[tasuke912](https://osu.ppy.sh/users/2774767)**, ![][flag_JP] [AngelRemm](https://osu.ppy.sh/users/5567221), ![][flag_PL] [Wolfgang](https://osu.ppy.sh/users/7184324), ![][flag_CN] [kknegative](https://osu.ppy.sh/users/2349769), ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/9536977) |
-| **jakpat** | ![][flag_NL] **[aEoNNzR-](https://osu.ppy.sh/users/1594036)**, ![][flag_JP] [Toorun12](https://osu.ppy.sh/users/10349712), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742), ![][flag_AR] [Jintsuu](https://osu.ppy.sh/users/7165127), ![][flag_SK] [Ayumi-chan](https://osu.ppy.sh/users/6269547), ![][flag_VN] [KonaeAkira](https://osu.ppy.sh/users/7129011) |
-| **Hentaiko** | ![][flag_GB] **[\_DUSK\_](https://osu.ppy.sh/users/6092181)**, ![][flag_MY] [\[Zeth\]](https://osu.ppy.sh/users/9912966), ![][flag_RU] [lolphis](https://osu.ppy.sh/users/4961687), ![][flag_DE] [Leafeon](https://osu.ppy.sh/users/5217800), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), ![][flag_PL] [bernard351](https://osu.ppy.sh/users/9511518) |
-| **hello we play taiko** | ![][flag_AR] **[TrolloCat](https://osu.ppy.sh/users/9228032)**, ![][flag_JP] [nananass](https://osu.ppy.sh/users/7231722), ![][flag_HK] [JarvisGaming](https://osu.ppy.sh/users/8601048), ![][flag_KR] [kane K hiku](https://osu.ppy.sh/users/341056), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_US] [Trilt](https://osu.ppy.sh/users/9292128) |
-| **MIStaikon** | ![][flag_SG] **[Element118](https://osu.ppy.sh/users/2283992)**, ![][flag_MY] [Xeltic Rival](https://osu.ppy.sh/users/7500364), ![][flag_US] [Shyguy](https://osu.ppy.sh/users/178038), ![][flag_IT] [Gulmion](https://osu.ppy.sh/users/2257645), ![][flag_US] [ThatTaikoGuy](https://osu.ppy.sh/users/4640844), ![][flag_RU] [Voenkom](https://osu.ppy.sh/users/10168328) |
-| **Ooyama Shota** | ![][flag_JP] **[isobe](https://osu.ppy.sh/users/8047347)**, ![][flag_JP] [IAvocaloid](https://osu.ppy.sh/users/2543097), ![][flag_FR] [\_Infected\_](https://osu.ppy.sh/users/7432095), ![][flag_KR] [Ryoko](https://osu.ppy.sh/users/2660111), ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171) |
-| **Team Semen** | ![][flag_JP] **[I-ShiR4Nu1](https://osu.ppy.sh/users/6403385)**, ![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773), ![][flag_BR] [Lazarento](https://osu.ppy.sh/users/3224958), ![][flag_MX] [Ammy](https://osu.ppy.sh/users/4183406), ![][flag_RU] [Sirikid](https://osu.ppy.sh/users/7911519), ![][flag_CO] [AbstractStep](https://osu.ppy.sh/users/6260841) |
-| **Pißwasser** | ![][flag_DE] **[jleste](https://osu.ppy.sh/users/8275687)**, ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864), ![][flag_JP] [KILI3343](https://osu.ppy.sh/users/11233651), ![][flag_ID] [Kaemz](https://osu.ppy.sh/users/8494233), ![][flag_CA] [beary605](https://osu.ppy.sh/users/2198070), ![][flag_US] [the_robot](https://osu.ppy.sh/users/5066659) |
-| **aあاㄚɐაಅअ@ᵃ아አאₐ** | ![][flag_US] **[Alchyr](https://osu.ppy.sh/users/4993032)**, ![][flag_ID] [pmriva](https://osu.ppy.sh/users/2180885), ![][flag_FR] [Mayline](https://osu.ppy.sh/users/3040937), ![][flag_JP] [sagu\_samidare](https://osu.ppy.sh/users/9048806), ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774), ![][flag_ES] [Apopaino](https://osu.ppy.sh/users/8428186) |
-| **i like grosses baguettes** | ![][flag_FR] **[Yona la loutre](https://osu.ppy.sh/users/7930622)**, ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120), ![][flag_PH] [jmeh07](https://osu.ppy.sh/users/2852269), ![][flag_SK] [Deathwing1306](https://osu.ppy.sh/users/7491210), ![][flag_US] [Bauregaurd](https://osu.ppy.sh/users/2598555), ![][flag_CA] [Vmannnn](https://osu.ppy.sh/users/10942577) |
-| **not a taiko team xd** | ![][flag_CH] **[Oui](https://osu.ppy.sh/users/5538419)**, ![][flag_UA] [Don Omar](https://osu.ppy.sh/users/689414), ![][flag_CL] [perro chocapic](https://osu.ppy.sh/users/3701211), ![][flag_JP] [owatanimal](https://osu.ppy.sh/users/5769293), ![][flag_RU] [night\_fPerdant](https://osu.ppy.sh/users/11574707), ![][flag_MX] [GodEater7x](https://osu.ppy.sh/users/6911992) |
-| **Team 7** | ![][flag_US] **[Loopy542](https://osu.ppy.sh/users/5468461)**, ![][flag_JP] [xpokn](https://osu.ppy.sh/users/5115345), ![][flag_DE] [lukili846](https://osu.ppy.sh/users/6278008), ![][flag_US] [Brames](https://osu.ppy.sh/users/6417190), ![][flag_NL] [Cristo](https://osu.ppy.sh/users/4507667), ![][flag_PL] [Tetsurio](https://osu.ppy.sh/users/2044810) |
+| **:)** | ![][flag_US] **[Das](https://osu.ppy.sh/users/3165416)**, ![][flag_US] [dhn](https://osu.ppy.sh/users/8987388), ![][flag_BR] [Berg](https://osu.ppy.sh/users/8097465), ![][flag_US] [closed](https://osu.ppy.sh/users/5116922), ![][flag_CL] [\[ TaiDex \]](https://osu.ppy.sh/users/3880845), ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850) |
 | **♂ Drum ♂ Spanking ♂ Festival ♂** | ![][flag_IT] **[Ikkun](https://osu.ppy.sh/users/1059945)**, ![][flag_FI] [duski](https://osu.ppy.sh/users/6506484), ![][flag_PH] [Rimazii](https://osu.ppy.sh/users/3831514), ![][flag_CL] [-F1-](https://osu.ppy.sh/users/5810867), ![][flag_FR] [DwarfSpykerr](https://osu.ppy.sh/users/8453742), ![][flag_AU] [raii](https://osu.ppy.sh/users/7410165) |
-| **TaikOwO** | ![][flag_NZ] **[sparxe](https://osu.ppy.sh/users/5750235)**, ![][flag_SG] [Lalamomo4](https://osu.ppy.sh/users/7609510), ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480), ![][flag_BR] [Coryn](https://osu.ppy.sh/users/2828556), ![][flag_JP] [monnhann869](https://osu.ppy.sh/users/4733750), ![][flag_RU] [-Rmdy](https://osu.ppy.sh/users/1933816) |
-| **Foda-se** | ![][flag_BR] **[HiroK](https://osu.ppy.sh/users/4050738)**, ![][flag_US] [Protonori](https://osu.ppy.sh/users/6049990), ![][flag_BR] [Kyoumo](https://osu.ppy.sh/users/8145223), ![][flag_CL] [Myckoll](https://osu.ppy.sh/users/554976), ![][flag_IT] [il\_sandwich](https://osu.ppy.sh/users/1752776), ![][flag_BR] [Omega Ranger](https://osu.ppy.sh/users/3234628) |
-| **E=mc^2** | ![][flag_BR] **[Skull Kid](https://osu.ppy.sh/users/3044264)**, ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401), ![][flag_CZ] [Salimen](https://osu.ppy.sh/users/10126927), ![][flag_BR] [Kbludoh](https://osu.ppy.sh/users/2543764), ![][flag_PL] [JustMax](https://osu.ppy.sh/users/7540346), ![][flag_CR] [Titovare](https://osu.ppy.sh/users/7375505) |
-| **Low Accuracy SS** | ![][flag_PL] **[Acrith](https://osu.ppy.sh/users/389880)**, ![][flag_BR] [Bombrilho2](https://osu.ppy.sh/users/4115718), ![][flag_DE] [dudetm](https://osu.ppy.sh/users/7323979), ![][flag_GB] [\_Faithful\_](https://osu.ppy.sh/users/8628814), ![][flag_AT] [Amane](https://osu.ppy.sh/users/6821436), ![][flag_RU] [momgi](https://osu.ppy.sh/users/8477303) |
+| **69% acc** | ![][flag_HK] **[MTDex](https://osu.ppy.sh/users/9468283)**, ![][flag_HK] [Consified](https://osu.ppy.sh/users/6502903), ![][flag_DE] [Minekuchi](https://osu.ppy.sh/users/9584873), ![][flag_NL] [Halzyn](https://osu.ppy.sh/users/156349), ![][flag_CO] [Juanisimo](https://osu.ppy.sh/users/9050875), ![][flag_BR] [Korkk](https://osu.ppy.sh/users/11227442) |
+| **aあاㄚɐაಅअ@ᵃ아አאₐ** | ![][flag_US] **[Alchyr](https://osu.ppy.sh/users/4993032)**, ![][flag_ID] [pmriva](https://osu.ppy.sh/users/2180885), ![][flag_FR] [Mayline](https://osu.ppy.sh/users/3040937), ![][flag_JP] [sagu\_samidare](https://osu.ppy.sh/users/9048806), ![][flag_AU] [Blobby3000](https://osu.ppy.sh/users/6916774), ![][flag_ES] [Apopaino](https://osu.ppy.sh/users/8428186) |
+| **BabySnakes is Dumb** | ![][flag_PT] **[BabySnakes](https://osu.ppy.sh/users/4669728)**, ![][flag_BR] [Ppus](https://osu.ppy.sh/users/5918857), ![][flag_JP] [kazu0611](https://osu.ppy.sh/users/3784062), ![][flag_MY] [CrabCow](https://osu.ppy.sh/users/9755504), ![][flag_GB] [Ali161102](https://osu.ppy.sh/users/7582420), ![][flag_CA] [rubies87](https://osu.ppy.sh/users/4949934) |
 | **Barely Legal** | ![][flag_CA] **[janitoreihil](https://osu.ppy.sh/users/3307897)**, ![][flag_JP] [Noko\_BSF](https://osu.ppy.sh/users/3811831), ![][flag_HK] [Akali393394](https://osu.ppy.sh/users/9686628), ![][flag_JP] [Bola](https://osu.ppy.sh/users/1119463), ![][flag_FI] [gevbiivi5](https://osu.ppy.sh/users/7140680), ![][flag_PL] [Agresywny Arbuz](https://osu.ppy.sh/users/7056658) |
+| **DON'T KAT** | ![][flag_PT] **[MeovvCAT](https://osu.ppy.sh/users/5905091)**, ![][flag_HK] [sing216](https://osu.ppy.sh/users/6096445), ![][flag_SE] [Eiuh](https://osu.ppy.sh/users/4653213), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_US] [\[-TSG-\]](https://osu.ppy.sh/users/6395930), ![][flag_US] [Kotu776](https://osu.ppy.sh/users/8494571) |
+| **E=mc^2** | ![][flag_BR] **[Skull Kid](https://osu.ppy.sh/users/3044264)**, ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401), ![][flag_CZ] [Salimen](https://osu.ppy.sh/users/10126927), ![][flag_BR] [Kbludoh](https://osu.ppy.sh/users/2543764), ![][flag_PL] [JustMax](https://osu.ppy.sh/users/7540346), ![][flag_CR] [Titovare](https://osu.ppy.sh/users/7375505) |
+| **ERROR 404: Team Name Not Found** | ![][flag_JP] **[uone](https://osu.ppy.sh/users/5321719)**, ![][flag_VE] [\[\_Chichinya\_\]](https://osu.ppy.sh/users/2140739), ![][flag_AU] [eterpay](https://osu.ppy.sh/users/1918404), ![][flag_VN] [\_Kuroni\_](https://osu.ppy.sh/users/6159305), ![][flag_CN] [ensan71714](https://osu.ppy.sh/users/2062410), ![][flag_VN] [Taiko_VN12](https://osu.ppy.sh/users/10072828) |
+| **Foda-se** | ![][flag_BR] **[HiroK](https://osu.ppy.sh/users/4050738)**, ![][flag_US] [Protonori](https://osu.ppy.sh/users/6049990), ![][flag_BR] [Kyoumo](https://osu.ppy.sh/users/8145223), ![][flag_CL] [Myckoll](https://osu.ppy.sh/users/554976), ![][flag_IT] [il\_sandwich](https://osu.ppy.sh/users/1752776), ![][flag_BR] [Omega Ranger](https://osu.ppy.sh/users/3234628) |
 | **Fun Assurance Team** | ![][flag_GB] **[goheegy](https://osu.ppy.sh/users/8057655)**, ![][flag_CL] [-Kazu-](https://osu.ppy.sh/users/920861), ![][flag_KR] [DDM](https://osu.ppy.sh/users/7910282), ![][flag_FR] [maximaxiU](https://osu.ppy.sh/users/4069690), ![][flag_VE] [Acetylcholine](https://osu.ppy.sh/users/4159873), ![][flag_AR] [ARGENTINE DREAM](https://osu.ppy.sh/users/1981781) |
-| **Taiko Time** | ![][flag_JP] **[Fahrenheit7](https://osu.ppy.sh/users/3439745)**, ![][flag_ID] [Lightning Wyvern](https://osu.ppy.sh/users/1533122), ![][flag_RU] [DayzeekFeed](https://osu.ppy.sh/users/5009970), ![][flag_KR] [Tsuki\_yura](https://osu.ppy.sh/users/9262355), ![][flag_VN] [phucdtd](https://osu.ppy.sh/users/5467865), ![][flag_PH] [Kyoren](https://osu.ppy.sh/users/1266303) |
+| **hello we play taiko** | ![][flag_AR] **[TrolloCat](https://osu.ppy.sh/users/9228032)**, ![][flag_JP] [nananass](https://osu.ppy.sh/users/7231722), ![][flag_HK] [JarvisGaming](https://osu.ppy.sh/users/8601048), ![][flag_KR] [kane K hiku](https://osu.ppy.sh/users/341056), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_US] [Trilt](https://osu.ppy.sh/users/9292128) |
+| **Hentaiko** | ![][flag_GB] **[\_DUSK\_](https://osu.ppy.sh/users/6092181)**, ![][flag_MY] [\[Zeth\]](https://osu.ppy.sh/users/9912966), ![][flag_RU] [lolphis](https://osu.ppy.sh/users/4961687), ![][flag_DE] [Leafeon](https://osu.ppy.sh/users/5217800), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), ![][flag_PL] [bernard351](https://osu.ppy.sh/users/9511518) |
+| **i like grosses baguettes** | ![][flag_FR] **[Yona la loutre](https://osu.ppy.sh/users/7930622)**, ![][flag_TW] [Smallwu](https://osu.ppy.sh/users/2512120), ![][flag_PH] [jmeh07](https://osu.ppy.sh/users/2852269), ![][flag_SK] [Deathwing1306](https://osu.ppy.sh/users/7491210), ![][flag_US] [Bauregaurd](https://osu.ppy.sh/users/2598555), ![][flag_CA] [Vmannnn](https://osu.ppy.sh/users/10942577) |
+| **jakpat** | ![][flag_NL] **[aEoNNzR-](https://osu.ppy.sh/users/1594036)**, ![][flag_JP] [Toorun12](https://osu.ppy.sh/users/10349712), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742), ![][flag_AR] [Jintsuu](https://osu.ppy.sh/users/7165127), ![][flag_SK] [Ayumi-chan](https://osu.ppy.sh/users/6269547), ![][flag_VN] [KonaeAkira](https://osu.ppy.sh/users/7129011) |
+| **Low Accuracy SS** | ![][flag_PL] **[Acrith](https://osu.ppy.sh/users/389880)**, ![][flag_BR] [Bombrilho2](https://osu.ppy.sh/users/4115718), ![][flag_DE] [dudetm](https://osu.ppy.sh/users/7323979), ![][flag_GB] [\_Faithful\_](https://osu.ppy.sh/users/8628814), ![][flag_AT] [Amane](https://osu.ppy.sh/users/6821436), ![][flag_RU] [momgi](https://osu.ppy.sh/users/8477303) |
+| **Magnolia** | ![][flag_GB] **[Horiiizon](https://osu.ppy.sh/users/8071438)**, ![][flag_TH] [Rhytoly](https://osu.ppy.sh/users/8121109), ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817), ![][flag_FR] [Yoshi-GH](https://osu.ppy.sh/users/3317042), ![][flag_RU] [Nozdormu](https://osu.ppy.sh/users/7169208), ![][flag_JP] [miyavi\_0611](https://osu.ppy.sh/users/4670948) |
+| **MIStaikon** | ![][flag_SG] **[Element118](https://osu.ppy.sh/users/2283992)**, ![][flag_MY] [Xeltic Rival](https://osu.ppy.sh/users/7500364), ![][flag_US] [Shyguy](https://osu.ppy.sh/users/178038), ![][flag_IT] [Gulmion](https://osu.ppy.sh/users/2257645), ![][flag_US] [ThatTaikoGuy](https://osu.ppy.sh/users/4640844), ![][flag_RU] [Voenkom](https://osu.ppy.sh/users/10168328) |
 | **Nihongo Wakaranai** | ![][flag_ID] **[Alwaysyukaz](https://osu.ppy.sh/users/4999506)**, ![][flag_JP] [haga1115](https://osu.ppy.sh/users/6574823), ![][flag_JP] [drumchanon](https://osu.ppy.sh/users/5006818), ![][flag_ID] [apaajaboleh10](https://osu.ppy.sh/users/5151647), ![][flag_AU] [Tsubasa2](https://osu.ppy.sh/users/6835183), ![][flag_CL] [ArmoredReaper](https://osu.ppy.sh/users/6276709) |
+| **not a taiko team xd** | ![][flag_CH] **[Oui](https://osu.ppy.sh/users/5538419)**, ![][flag_UA] [Don Omar](https://osu.ppy.sh/users/689414), ![][flag_CL] [perro chocapic](https://osu.ppy.sh/users/3701211), ![][flag_JP] [owatanimal](https://osu.ppy.sh/users/5769293), ![][flag_RU] [night\_flower](https://osu.ppy.sh/users/11574707), ![][flag_MX] [GodEater7x](https://osu.ppy.sh/users/6911992) |
+| **Ooyama Shota** | ![][flag_JP] **[isobe](https://osu.ppy.sh/users/8047347)**, ![][flag_JP] [IAvocaloid](https://osu.ppy.sh/users/2543097), ![][flag_FR] [\_Infected\_](https://osu.ppy.sh/users/7432095), ![][flag_KR] [Ryoko](https://osu.ppy.sh/users/2660111), ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171) |
+| **Pißwasser** | ![][flag_DE] **[jleste](https://osu.ppy.sh/users/8275687)**, ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864), ![][flag_JP] [KILI3343](https://osu.ppy.sh/users/11233651), ![][flag_ID] [Kaemz](https://osu.ppy.sh/users/8494233), ![][flag_CA] [beary605](https://osu.ppy.sh/users/2198070), ![][flag_US] [the_robot](https://osu.ppy.sh/users/5066659) |
+| **pneumonoultramicroscopicsilicovolcanoconiosis** | ![][flag_KR] **[R-18](https://osu.ppy.sh/users/4637369)**, ![][flag_VE] [Colorojo12](https://osu.ppy.sh/users/5136821), ![][flag_US] [hikiko-](https://osu.ppy.sh/users/6512678), ![][flag_JP] [Lix\_0101](https://osu.ppy.sh/users/11320798), ![][flag_CL] [lineqtxz](https://osu.ppy.sh/users/989542), ![][flag_US] [DiggyDogg](https://osu.ppy.sh/users/5014664) |
+| **Press F for Ayachi** | ![][flag_CL] **[Ulqui](https://osu.ppy.sh/users/1263669)**, ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_SG] [FarawayOtaku](https://osu.ppy.sh/users/10767070), ![][flag_NZ] [Ayachi Meme](https://osu.ppy.sh/users/4636461), ![][flag_US] [Voltaeyx](https://osu.ppy.sh/users/2715118), ![][flag_MY] [Minisora](https://osu.ppy.sh/users/9627666) |
+| **Samurai Pizza Cats** | ![][flag_US] **[Catgirl](https://osu.ppy.sh/users/2771995)**, ![][flag_FR] [Romainnoda](https://osu.ppy.sh/users/8814218), ![][flag_HK] [iamdicky000](https://osu.ppy.sh/users/4409670), ![][flag_BR] [Mikudayo](https://osu.ppy.sh/users/5235718), ![][flag_EE] [Troll Face](https://osu.ppy.sh/users/8325847), ![][flag_CO] [samel12](https://osu.ppy.sh/users/9744218) |
 | **Taco Monsters** | ![][flag_BR] **[Foxerus](https://osu.ppy.sh/users/7479684)**, ![][flag_JP] [asuasu\_yura](https://osu.ppy.sh/users/2875968), ![][flag_JP] [ma\_r1n](https://osu.ppy.sh/users/9950613), ![][flag_HU] [\_verto\_](https://osu.ppy.sh/users/2015300), ![][flag_US] [Tsred](https://osu.ppy.sh/users/2737667), ![][flag_VN] [Kiv x Monster](https://osu.ppy.sh/users/7428114) |
 | **Tai-KO** | ![][flag_US] **[Garpo](https://osu.ppy.sh/users/4097035)**, ![][flag_TW] [-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910), ![][flag_PL] [ZimnyGrzejnik](https://osu.ppy.sh/users/884838), ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733), ![][flag_AU] [Cactie](https://osu.ppy.sh/users/5592409), ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) |
-| **:)** | ![][flag_US] **[Das](https://osu.ppy.sh/users/3165416)**, ![][flag_US] [dhn](https://osu.ppy.sh/users/8987388), ![][flag_BR] [Berg](https://osu.ppy.sh/users/8097465), ![][flag_US] [closed](https://osu.ppy.sh/users/5116922), ![][flag_CL] [\[ TaiDex \]](https://osu.ppy.sh/users/3880845), ![][flag_FI] [Lefafel](https://osu.ppy.sh/users/2295850) |
-| **69% acc** | ![][flag_HK] **[MTDex](https://osu.ppy.sh/users/9468283)**, ![][flag_HK] [Consified](https://osu.ppy.sh/users/6502903), ![][flag_DE] [Minekuchi](https://osu.ppy.sh/users/9584873), ![][flag_NL] [Halzyn](https://osu.ppy.sh/users/156349), ![][flag_CO] [Juanisimo](https://osu.ppy.sh/users/9050875), ![][flag_BR] [Korkk](https://osu.ppy.sh/users/11227442) |
-| **ERROR 404: Team Name Not Found** | ![][flag_JP] **[uone](https://osu.ppy.sh/users/5321719)**, ![][flag_VE] [\[\_Chichinya\_\]](https://osu.ppy.sh/users/2140739), ![][flag_AU] [eterpay](https://osu.ppy.sh/users/1918404), ![][flag_VN] [\_Kuroni\_](https://osu.ppy.sh/users/6159305), ![][flag_CN] [ensan71714](https://osu.ppy.sh/users/2062410), ![][flag_VN] [Taiko_VN12](https://osu.ppy.sh/users/10072828) |
-| **DON'T KAT** | ![][flag_PT] **[MeovvCAT](https://osu.ppy.sh/users/5905091)**, ![][flag_HK] [sing216](https://osu.ppy.sh/users/6096445), ![][flag_SE] [Eiuh](https://osu.ppy.sh/users/4653213), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_US] [\[-TSG-\]](https://osu.ppy.sh/users/6395930), ![][flag_US] [Kotu776](https://osu.ppy.sh/users/8494571) |
-| **pneumonoultramicroscopicsilicovolcanoconiosis** | ![][flag_KR] **[R-18](https://osu.ppy.sh/users/4637369)**, ![][flag_VE] [Colorojo12](https://osu.ppy.sh/users/5136821), ![][flag_US] [hikiko-](https://osu.ppy.sh/users/6512678), ![][flag_JP] [Lix\_0101](https://osu.ppy.sh/users/11320798), ![][flag_CL] [lineqtxz](https://osu.ppy.sh/users/989542), ![][flag_US] [DiggyDogg](https://osu.ppy.sh/users/5014664) |
-| **BabySnakes is Dumb** | ![][flag_PT] **[BabySnakes](https://osu.ppy.sh/users/4669728)**, ![][flag_BR] [Ppus](https://osu.ppy.sh/users/5918857), ![][flag_JP] [kazu0611](https://osu.ppy.sh/users/3784062), ![][flag_MY] [CrabCow](https://osu.ppy.sh/users/9755504), ![][flag_GB] [Ali161102](https://osu.ppy.sh/users/7582420), ![][flag_CA] [rubies87](https://osu.ppy.sh/users/4949934) |
-| **Samurai Pizza Cats** | ![][flag_US] **[Catgirl](https://osu.ppy.sh/users/2771995)**, ![][flag_FR] [Romainnoda](https://osu.ppy.sh/users/8814218), ![][flag_HK] [iamdicky000](https://osu.ppy.sh/users/4409670), ![][flag_BR] [Mikudayo](https://osu.ppy.sh/users/5235718), ![][flag_EE] [Troll Face](https://osu.ppy.sh/users/8325847), ![][flag_CO] [samel12](https://osu.ppy.sh/users/9744218) |
-| **Press F for Ayachi** | ![][flag_CL] **[Ulqui](https://osu.ppy.sh/users/1263669)**, ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_SG] [FarawayOtaku](https://osu.ppy.sh/users/10767070), ![][flag_NZ] [Ayachi Meme](https://osu.ppy.sh/users/4636461), ![][flag_US] [Voltaeyx](https://osu.ppy.sh/users/2715118), ![][flag_MY] [Minisora](https://osu.ppy.sh/users/9627666) |
-| **Magnolia** | ![][flag_GB] **[Horiiizon](https://osu.ppy.sh/users/8071438)**, ![][flag_TH] [Rhytoly](https://osu.ppy.sh/users/8121109), ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817), ![][flag_FR] [Yoshi-GH](https://osu.ppy.sh/users/3317042), ![][flag_RU] [Nozdormu](https://osu.ppy.sh/users/7169208), ![][flag_JP] [miyavi\_0611](https://osu.ppy.sh/users/4670948) |
-
------------------------
+| **TaikOwO** | ![][flag_NZ] **[sparxe](https://osu.ppy.sh/users/5750235)**, ![][flag_SG] [Lalamomo4](https://osu.ppy.sh/users/7609510), ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480), ![][flag_BR] [Coryn](https://osu.ppy.sh/users/2828556), ![][flag_JP] [monnhann869](https://osu.ppy.sh/users/4733750), ![][flag_RU] [-Rmdy](https://osu.ppy.sh/users/1933816) |
+| **Taiko Time** | ![][flag_JP] **[Fahrenheit7](https://osu.ppy.sh/users/3439745)**, ![][flag_ID] [Lightning Wyvern](https://osu.ppy.sh/users/1533122), ![][flag_RU] [DayzeekFeed](https://osu.ppy.sh/users/5009970), ![][flag_KR] [Tsuki\_yura](https://osu.ppy.sh/users/9262355), ![][flag_VN] [phucdtd](https://osu.ppy.sh/users/5467865), ![][flag_PH] [Kyoren](https://osu.ppy.sh/users/1266303) |
+| **Team 7** | ![][flag_JP] **[I-ShiR4Nu1](https://osu.ppy.sh/users/6403385)**, ![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773), ![][flag_BR] [Lazarento](https://osu.ppy.sh/users/3224958), ![][flag_MX] [Ammy](https://osu.ppy.sh/users/4183406), ![][flag_RU] [Sirikid](https://osu.ppy.sh/users/7911519), ![][flag_CO] [AbstractStep](https://osu.ppy.sh/users/6260841) |
+| **Team Seven** | ![][flag_US] **[Loopy542](https://osu.ppy.sh/users/5468461)**, ![][flag_JP] [xpokn](https://osu.ppy.sh/users/5115345), ![][flag_DE] [lukili846](https://osu.ppy.sh/users/6278008), ![][flag_US] [Brames](https://osu.ppy.sh/users/6417190), ![][flag_NL] [Cristo](https://osu.ppy.sh/users/4507667), ![][flag_PL] [Tetsurio](https://osu.ppy.sh/users/2044810) |
+| **The Tasuke Train** | ![][flag_JP] **[tasuke912](https://osu.ppy.sh/users/2774767)**, ![][flag_JP] [AngelRemm](https://osu.ppy.sh/users/5567221), ![][flag_PL] [Wolfgang](https://osu.ppy.sh/users/7184324), ![][flag_CN] [kknegative](https://osu.ppy.sh/users/2349769), ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/9536977) |
 
 ## Podium
 
@@ -99,11 +94,9 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 | Classement | Équipe |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | jakpat |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | i like grosses baguettes |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | BabySnakes is Dumb |
-
------------------------
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | jakpat |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | i like grosses baguettes |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | BabySnakes is Dumb |
 
 ## Liste des maps
 
@@ -317,42 +310,51 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 - Tiebreaker
   - **[PSYQUI - Hype feat. Such (Nifty) \[Adrenaline\]](https://osu.ppy.sh/beatmapsets/817980#taiko/1715195)**
 
-------------------------------------------------------------------------
-
 ## Résultats des matches
 
 ### Grandes finales
 
-| Saturday, 2018-10-06 |  |  |  |  |
+Samedi, 6 Octobre 2018:
+
+| Équipe 1 |  |  | Équipe 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | **jakpat** | **7** | 5 | BabySnakes is Dumb | [#1](https://osu.ppy.sh/community/matches/46519821) |
 
-| Sunday, 2018-10-07 |  |  |  |  |
+Dimanche, 7 Octobre 2018:
+
+| Équipe 1 |  |  | Équipe 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | i like grosses baguettes | 3 | **7** | **jakpat** | [#1](https://osu.ppy.sh/community/matches/46533762) |
 
-
 ### Finales
 
-| Samedi, 2018-09-29 |  |  |  |  |
+Samedi, 29 Septembre 2018:
+
+| Équipe 1 |  |  | Équipe 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | MIStaikon | 3 | **7** | **hello we play taiko** | [#1](https://osu.ppy.sh/community/matches/46326384) |
 
-| Dimanche, 2018-09-30 |  |  |  |  |
+Dimanche, 30 Septembre 2018:
+
+| Équipe 1 |  |  | Équipe 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
-| Samurai Pizza Cats | 0 | **7** | **BabySnakes is Dumb** | -win by default- |
+| Samurai Pizza Cats | -1 | **0** | **BabySnakes is Dumb** | *win by default* |
 | **i like grosses baguettes** | **7** | 6 | jakpat | [#1](https://osu.ppy.sh/community/matches/46359023) |
 | hello we play taiko | 4 | **7** | **BabySnakes is Dumb** | [#1](https://osu.ppy.sh/community/matches/46359727) |
 
 ### Demi-finales
 
-| Samedi, 2018-09-22 |  |  |  |  |
+Samedi, 22 Septembre 2018:
+
+| Équipe 1 |  |  | Équipe 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | pneumonoultramicroscopicsilicovolcanoconiosis | 0 | **6** | **Hentaiko** | [#1](https://osu.ppy.sh/community/matches/46143098) |
 | **♂ Drum ♂ Spanking ♂ Festival ♂** | **6** | 2 | The Tasuke Train | [#1](https://osu.ppy.sh/community/matches/46151551) |
 | **i like grosses baguettes** | **6** | 2 | Samurai Pizza Cats | [#1](https://osu.ppy.sh/community/matches/46152831) |
 
-| Dimanche, 2018-09-23 |  |  |  |  |
+Dimanche, 23 Septembre 2018:
+
+| Équipe 1 |  |  | Équipe 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | Pißwasser | 1 | **6** | **BabySnakes is Dumb** | [#1](https://osu.ppy.sh/community/matches/46174499) |
 | Foda-se | 0 | **6** | **hello we play taiko** | [#1](https://osu.ppy.sh/community/matches/46176869) |
@@ -362,19 +364,23 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Quarts-de-finale
 
-| Samedi, 2018-09-15 |  |  |  |  |
+Samedi, 15 Septembre 2018:
+
+| Équipe 1 |  |  | Équipe 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | **Nihongo Wakaranai** | **6** | 4 | Magnolia | [#1](https://osu.ppy.sh/community/matches/45971075) |
 | Low Accuracy SS | 5 | **6** | **The Tasuke Train** | [#1](https://osu.ppy.sh/community/matches/45972388) |
-| Ooyama Shota | 0 | **6** | **BabySnakes is Dumb** | -win by default- |
+| Ooyama Shota | -1 | **0** | **BabySnakes is Dumb** | *win by default* |
 | Barely Legal | 0 | **6** | **hello we play taiko** | [#1](https://osu.ppy.sh/community/matches/45976028) |
-| **Hentaiko** | **6** | 0 | aあاㄚɐაಅअ@ᵃ아 | -win by default- |
+| **Hentaiko** | **0** | -1 | aあاㄚɐაಅअ@ᵃ아 | *win by default* |
 | 69% acc | 1 | **6** | **Press F for Ayachi** | [#1](https://osu.ppy.sh/community/matches/45979112) |
 | **TaikOwO** | **6** | 0 | DON'T KAT | [#1](https://osu.ppy.sh/community/matches/45981570) |
 | **i like grosses baguettes** | **6** | 0 | Foda-se | [#1](https://osu.ppy.sh/community/matches/45983052) |
 | **not a taiko team xd** | **6** | 3 | Fun Assurance Team | [#1](https://osu.ppy.sh/community/matches/45983714) |
 
-| Dimanche, 2018-09-16 |  |  |  |  |
+Dimanche, 16 Septembre 2018:
+
+| Équipe 1 |  |  | Équipe 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | **BabySnakes is Dumb** | **6** | 5 | TaikOwO | [#1](https://osu.ppy.sh/community/matches/45996362) ||
 | pneumonoultramicroscopicsilicovolcanoconiosis | 0 | **6** | **Samurai Pizza Cats** | [#1](https://osu.ppy.sh/community/matches/46001430) |
@@ -386,7 +392,9 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### 16èmes de finale
 
-| Samedi, 2018-09-08 |  |  |  |  |
+Samedi, 8 Septembre 2018:
+
+| Équipe 1 |  |  | Équipe 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | Taco Monsters | 0 | **5** | **Press F for Ayachi** | [#1](https://osu.ppy.sh/community/matches/45781089) |
 | **MIStaikon** | **5** | 3 | not a taiko team xd | [#1](https://osu.ppy.sh/community/matches/45791945) |
@@ -394,9 +402,11 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | Barely Legal | 4 | **5** | **Pißwasser** | [#1](https://osu.ppy.sh/community/matches/45800048) |
 | **Foda-se** | **5** | 2 | Ooyama Shota | [#1](https://osu.ppy.sh/community/matches/45800293) |
 
-| Dimanche, 2018-09-09 |  |  |  |  |
+Dimanche, 9 September 2018:
+
+| Équipe 1 |  |  | Équipe 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
-| :) | 0 | **5** | **DON'T KAT** | -win by default- |
+| :) | -1 | **0** | **DON'T KAT** | *win by default* |
 | Nihongo Wakaranai | 2 | **5** | **Samurai Pizza Cats** | [#1](https://osu.ppy.sh/community/matches/45827234) |
 | Taiko Time | 3 | **5** | **aあاㄚɐაಅअ@ᵃ아** | [#1](https://osu.ppy.sh/community/matches/45828648) |
 | Hentaiko | 1 | **5** | **♂ Drum ♂ Spanking ♂ Festival ♂** | [#1](https://osu.ppy.sh/community/matches/45830995) |
@@ -405,16 +415,20 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | **jakpat** | **5** | 0 | 69% acc | [#1](https://osu.ppy.sh/community/matches/45833075) |
 | **BabySnakes is Dumb** | **5** | 3 | E=mc^2 | [#1](https://osu.ppy.sh/community/matches/45834255) |
 | **Fun Assurance Team** | **5** | 1 | ERROR 404: Team Name Not Found | [#1](https://osu.ppy.sh/community/matches/45834432) |
-| TaikOwO | 0 | **5** | **pneumonoultramicroscopicsilicovolcanoconiosis** | -win by default- |
-| **The Tasuke Train** | **5** | 0 | Team 7 | -win by default- |
+| TaikOwO | -1 | **0** | **pneumonoultramicroscopicsilicovolcanoconiosis** | *win by default* |
+| **The Tasuke Train** | **0** | -1 | Team 7 | *win by default* |
 
 ### 32èmes de finale
 
-| Vendredi, 2018-08-31 |  |  |  |  |
+Vendredi, 31 Août 2018:
+
+| Équipe 1 |  |  | Équipe 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | Press F for Ayachi | 3 | **5** | **Ooyama Shota** | [#1](https://osu.ppy.sh/community/matches/45591544) |
 
-| Samedi, 2018-09-01 |  |  |  |  |
+Samedi, 1 Septembre 2018:
+
+| Équipe 1 |  |  | Équipe 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | Magnolia | 2 | **5** | **MIStaikon** | [#1](https://osu.ppy.sh/community/matches/45603361) |
 | ERROR 404: Team Name Not Found | 3 | **5** | **Samurai Pizza Cats** | [#1](https://osu.ppy.sh/community/matches/45606910) |
@@ -423,7 +437,9 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | DON'T KAT | 2 | **5** | **♂ Drum ♂ Spanking ♂ Festival ♂** | [#1](https://osu.ppy.sh/community/matches/45611363) |
 | :) | 0 | **5** | **Hentaiko** | [#1](https://osu.ppy.sh/community/matches/45613117) |
 
-| Dimanche, 2018-09-02 |  |  |  |  |
+Dimanche, 2 Septembre 2018:
+
+| Équipe 1 |  |  | Équipe 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | **Nihongo Wakaranai** | **5** | 4 | Fun Assurance Team | [#1](https://osu.ppy.sh/community/matches/45627499) |
 | Taco Monsters | 0 | **5** | **Foda-se** | [#1](https://osu.ppy.sh/community/matches/45627625) |
@@ -433,9 +449,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | Taiko Time | 1 | **5** | TaikOwO | [#1](https://osu.ppy.sh/community/matches/45640401) |
 | **not a taiko team xd** | **5** | 1 | Tai-KO | [#1](https://osu.ppy.sh/community/matches/45641056) |
 | **69% acc** | **5** | 3 | E=mc^2 | [#1](https://osu.ppy.sh/community/matches/45641816) |
-| Team 7 | 0 | **5** | **Pißwasser** | -win by default- |
-
-------------------------------------------------------------------------
+| Team 7 | -1 | **0** | **Pißwasser** | *win by default* |
 
 ## Règlement
 
@@ -459,44 +473,44 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 - Le gagnant de la map est déterminé par l'équipe avec le plus grand score.
 - Dans le cas d'une déconnexion, un rematch va être effectué seulement si la déconnexion est arrivée dans les 30 premières secondes de la map. Cela peut être déterminé par le lien mp. Si un joueur déconnecte après que 30 secondes de map sont passées, leur score ne va pas être pris en compte.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_CO]: /wiki/shared/flag/CO.gif
-[flag_CR]: /wiki/shared/flag/CR.gif
-[flag_CZ]: /wiki/shared/flag/CZ.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_EC]: /wiki/shared/flag/EC.gif
-[flag_EE]: /wiki/shared/flag/EE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_HU]: /wiki/shared/flag/HU.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PT]: /wiki/shared/flag/PT.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_SK]: /wiki/shared/flag/SK.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_UA]: /wiki/shared/flag/UA.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
-[flag_VN]: /wiki/shared/flag/VN.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentine"
+[flag_AT]: /wiki/shared/flag/AT.gif "Autriche"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brésil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CH]: /wiki/shared/flag/CH.gif "Suisse"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
+[flag_CN]: /wiki/shared/flag/CN.gif "Chine"
+[flag_CO]: /wiki/shared/flag/CO.gif "Colombie"
+[flag_CR]: /wiki/shared/flag/CR.gif "Costa Rica"
+[flag_CZ]: /wiki/shared/flag/CZ.gif "République tchèque"
+[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
+[flag_EC]: /wiki/shared/flag/EC.gif "Équateur"
+[flag_EE]: /wiki/shared/flag/EE.gif "Estonie"
+[flag_ES]: /wiki/shared/flag/ES.gif "Espagne"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finlande"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "Royaume-Uni"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_HU]: /wiki/shared/flag/HU.gif "Hongrie"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italie"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japon"
+[flag_KR]: /wiki/shared/flag/KR.gif "Corée du Sud"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexique"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaisie"
+[flag_NL]: /wiki/shared/flag/NL.gif "Pays-Bas"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "Nouvelle-Zélande"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Pologne"
+[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russie"
+[flag_SE]: /wiki/shared/flag/SE.gif "Suède"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapour"
+[flag_SK]: /wiki/shared/flag/SK.gif "Slovaquie"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thaïlande"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
+[flag_US]: /wiki/shared/flag/US.gif "États-Unis"
+[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"
+[flag_VN]: /wiki/shared/flag/VN.gif "Viêt Nam"
