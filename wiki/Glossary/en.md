@@ -123,7 +123,7 @@ Used to refer to the group itself or one of its members.
 
 Represents the number of whole beats in a minute.
 
-Higher-BPM music may be associated with a higher [approach rate](/wiki/Beatmap_Editor/Song_Setup#approach-rate) value and vice versa.
+Higher-BPM music may be associated with a higher [approach rate](/wiki/Beatmapping/Approach_rate) value and vice versa.
 
 ### Break
 
