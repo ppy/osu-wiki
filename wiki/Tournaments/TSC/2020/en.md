@@ -8,7 +8,7 @@ tags:
 
 ![TSC 2020 logo](img/logo.jpg)
 
-The **Taiko Suiji Cup 2020** (***TSC 2020***) is an international randomised three-on-three double-elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). Each participant must register individually and then will be assigned to a random team in order to compete with others. This is the second installment of the Taiko Suiji Cup.
+The **Taiko Suiji Cup 2020** (***TSC 2020***) was an international randomised three-on-three double-elimination osu!taiko tournament hosted by ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). Each participant must register individually and then will be assigned to a random team in order to compete with others. This was the second installment of the Taiko Suiji Cup.
 
 ## Tournament schedule
 
@@ -32,7 +32,7 @@ The **Taiko Suiji Cup 2020** (***TSC 2020***) is an international randomised thr
 
 ## Organisation
 
-The Taiko Suiji Cup 2020 is run by various community members.
+The Taiko Suiji Cup 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
