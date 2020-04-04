@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Asentaminen
 
 *Katso myös: [Installation/macOS](/wiki/Installation/macOS)*
