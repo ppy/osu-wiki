@@ -10,7 +10,7 @@ no_native_review: true
 
 *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* är ett rytmspel för *Nintendo DS*. Spelet går ut på att trycka på cirklar, dra en boll längs en bana och snurra på en spinner väldigt snabbt på en touch-skärm. Dessa är synkroniserade i takt med (covers av) populära japanska låtar. Så här ser det ut på ett DS:
 
-![Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS](/wiki/shared/Ouendan.jpg "Gameplay-exempel av Osu! Tatakae! Ouendan på Nintendo DS")
+![Gameplay-exempel av Osu! Tatakae! Ouendan på Nintendo DS](/wiki/shared/Ouendan.jpg "Gameplay-exempel av Osu! Tatakae! Ouendan på Nintendo DS")
 
 Cirklarna är på nedre skärmen, och en berättelse visas på övre skärmen. Varje bana är kort sagt en egen berättelse om en person i trubbel. Det är här *Ouendan*-teamet (Hejarklack) kommer in. Genom den magiska kraften av manlig hejarklack, måste spelaren hjälpa personerna i trubbel.
 
@@ -22,7 +22,7 @@ Cirklarna är på nedre skärmen, och en berättelse visas på övre skärmen. V
 
 #### Spelets grunder
 
-*Tutorial: [osu! tutorial (new beginnings)](https://osu.ppy.sh/beatmapsets/1011011)*
+*Handledning: [osu! tutorial (new beginnings)](https://osu.ppy.sh/beatmapsets/1011011)*
 
 Spelet lägger betoning på:
 
@@ -38,7 +38,7 @@ Dessa är avgörande färdigheter för att bli en *osu! rytm-mästare*. Det för
 
 ##### Hit-cirklar
 
-![Hit circles](/wiki/shared/osu_hitcircles.jpg "osu! hit-cirklar")
+![Hit-cirklar](/wiki/shared/osu_hitcircles.jpg "osu! hit-cirklar")
 
 En tunn approach-cirkel med liknande färg utanpå hit-cirkeln krymper ständigt med tiden. Tryck på noten precis då den vidrör den vita kanten av hit-cirkeln. Ett poängtal visas efteråt följd av ändring i hälsa beroende på hur noga noten träffades i takt med låten. Hit-cirkeln försvinner efter poängantalet.
 
@@ -46,7 +46,7 @@ För att förstå den dolda charmen av hit-cirklar, använd inte endast dina sin
 
 ##### Sliders
 
-![Sliders](/wiki/shared/osu_slider.jpg "osu! sliders")
+![Slider](/wiki/shared/osu_slider.jpg "osu! slider")
 
 Tryck först på den vid rätt tillfälle, men det slutar inte där. En boll kommer att börja röra sig längs banan. Tryck och håll in musknappen eller tangenten (eller tryck på ritplattan med pennan) och följ bollen innanför den orangea cirkeln, som syns runt bollen, genom hela dess färd. Den yttre orangea cirkeln, så kallad follow-cirkel, syns då sliderns boll är nedtryckt, men försvinner när den släpps.
 
@@ -66,7 +66,7 @@ På ett *DS* är det lämpligt att rita cirklar på touch-skärmen (eller skärm
 
 #### Spelets gränssnitt
 
-![osu! interface](/wiki/shared/Interface_osu.jpg "Gränssnittet i osu!")
+![osu! Gränssnitt](/wiki/shared/Interface_osu.jpg "Gränssnittet i osu!")
 
 Den ifyllda linjen i det övre vänstra hörnet visar hälsan, som stadigt minskar (i en fart beroende på beatmappens svårighetsinställing), men kan fyllas på genom att träffa noter vid rätt tillfälle eller genom att snurra på spinnern. En perfekt träff (en 300 eller Geki) ger mer hälsa än en för sen eller tidig träff (50). En miss tar bort en bit av hälsan.
 
@@ -92,7 +92,7 @@ Om [Auto Pilot](/wiki/Game_Modifiers)-modifieraren används, fungerar endast kna
 
 ### Ändra spelläget
 
-![Mode change interface](/wiki/shared/Interface_mode.png "Inställning för att ändra spelläge")
+![Gränssnitt för ändring av spelläge](/wiki/shared/Interface_mode.png "Inställning för att ändra spelläge")
 
 Klicka på `Mode`-knappen för att **öppna en lista på tillgängliga spellägen i osu!**. Klicka på önskad spelläge och osu! kommer att byta till det spelläget och dess ledartavla. Alternativt går det att trycka på `Ctrl` och `1` (![][osu! icon] *[osu!standard](/wiki/Game_Modes/osu!))* / `2` ( ![][osu!taiko icon] *[osu!taiko](/wiki/Game_Modes/osu!taiko)*) / `3` (![][osu!catch icon] *[osu!catch](/wiki/Game_Modes/osu!catch)*) / `4` (![][osu!mania icon] *[osu!mania](/wiki/Game_Modes/osu!mania)*) på tangentbordet för att snabbt byta spelläge.
 
@@ -100,7 +100,7 @@ Klicka på `Mode`-knappen för att **öppna en lista på tillgängliga spelläge
 
 *Fullständig förklaring: [osu!taiko](/wiki/Game_Modes/osu!taiko)*
 
-![osu!taiko Interface](/wiki/shared/Interface_taiko.jpg "Gränssnittet i osu!taiko")
+![osu!taiko Gränssnitt](/wiki/shared/Interface_taiko.jpg "Gränssnittet i osu!taiko")
 
 *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)* är ett rytmspel gjort av *Namco* (numera Namco Bandai). I spelet används en taiko-trumma för att spela i takt med musiken. I osu! kan beatmaps spelas i stil med *Taiko no Tatsujin* genom osu!taiko-spelläget.
 
@@ -108,7 +108,7 @@ Klicka på `Mode`-knappen för att **öppna en lista på tillgängliga spelläge
 
 ##### Spelfältet
 
-![Taiko playfield](/wiki/shared/Taiko_playfield.jpg "Spelfältet i osu!taiko")
+![Taiko spelfält](/wiki/shared/Taiko_playfield.jpg "Spelfältet i osu!taiko")
 
 För spelare med tidigare erfarenhet med *Taiko no Tatsujin*:
 
@@ -127,7 +127,7 @@ Notera att hälsan sjunker inte i osu!taiko, utan det är bara hitobjekt som på
 
 ##### Taiko-noter
 
-![Taiko hit circles](/wiki/shared/Taiko_hitcircles.jpg "osu!taiko noter i olika färger och storlekar")
+![Taiko hit-cirkel](/wiki/shared/Taiko_hitcircles.jpg "osu!taiko noter i olika färger och storlekar")
 
 Varje taiko-not (eller noter, kort uttryckt) syns som antingen en röd eller en blek blå cirkel. De kallas för Don (röda noter) och Katu (blåa noter) respektivt.
 
@@ -137,7 +137,7 @@ Noterna måste bli slagna när de är på den vita dom-cirkeln bredvid trumman. 
 
 ##### Trumvirvlar
 
-![Taiko drumroll](/wiki/shared/Taiko_drumroll.jpg "osu!taiko trumvirvel")
+![Taiko trumvirvel](/wiki/shared/Taiko_drumroll.jpg "osu!taiko trumvirvel")
 
 Tryck på inre (eller yttre) delen av trumman kontinuerligt ända tills slutet av trumvirveln. För **STORA** noter, tryck på båda knapparna på inre (eller yttre) delen av trumman tillsammans och kontinuerligt ända fram till slutet. Notera att slagen i trumvirvlar registreras bara när man träffar de små hit-cirklarna, istället för att slå så snabbt som möjligt såsom i *Taiko no Tatsujin*.
 
@@ -147,7 +147,7 @@ Trumvirvlar kan ignoreras utan straff på hälsan, eftersom den ökar inte häls
 
 ![Taiko spinner](/wiki/shared/Taiko_spinner.jpg "osu!taiko spinner (denden)")
 
-Slå på inre och yttre delen av trumman **i varannan färg** (alltså röd, blå, röd, blå, röd, blå, ...) tills denden-countern når 0. Färgen i början spelar ingen roll (det går att börja med blå om det önskas). En misslyckad denden ger straff på hälsan, men bryter inte kombon. Denden-countern räknar inte ner ifall samma färg slås efter varandra, bara när den andra färgen slås.
+Slå på inre och yttre delen av trumman **i varannan färg** (alltså röd, blå, röd, blå, röd, blå, ...) tills denden-räknaren når 0. Färgen i början spelar ingen roll (det går att börja med blå om det önskas). En misslyckad denden ger straff på hälsan, men bryter inte kombon. Denden-räknaren räknar inte ner ifall samma färg slås efter varandra, bara när den andra färgen slås.
 
 Den ökar inte kombo och påverkar inte hälsan på något sätt. Varje lyckad denden-slag ger 300 poäng och en avklarad denden ger ett perfekt (GREAT) poängantal lika med en stor not.
 
@@ -170,7 +170,7 @@ Om [Relax](/wiki/Game_Modifiers)-modifieraren används, räknas endast slag i r�
 
 *Fullständig förklaring: [osu!catch](/wiki/Game_Modes/osu!catch)*
 
-![osu!catch Interface](/wiki/shared/Interface_ctb.jpg "Gränssnittet i osu!catch")
+![osu!catch Gränssnitt](/wiki/shared/Interface_ctb.jpg "Gränssnittet i osu!catch")
 
 osu!catch (tidigare kallad *Catch the Beat*) är det andra spelläget tillagt i osu!, efter osu!taiko.
 
@@ -180,7 +180,7 @@ Istället för att trycka på cirklar till rytmen, kontrollera fångaren längst
 
 ##### Spelfältet
 
-![osu!catch playfield difference between CS2 and CS7](/wiki/shared/Catch_Playfield_27.jpg "skillnad i spelfältet i osu!catch beroende på CS")
+![Skillnad i spelfältet i osu!catch mellan CS2 och CS7](/wiki/shared/Catch_Playfield_27.jpg "Skillnad i spelfältet i osu!catch beroende på CS")
 
 Zoomnivån är baserad på CS (Cirkelstorlek) -inställning, där lägre CS betyder mer inzoomat och mindre yta, medan högre CS betyder mycket utzoomat och större spelfält.
 
@@ -190,7 +190,7 @@ Alla frukter samlas upp på tallriken tills kombon avslutas och frukterna studsa
 
 ##### Fruktspår
 
-![Fruit trails](/wiki/shared/Catch_trails.jpg "osu!catch fruktspår")
+![Fruktspår](/wiki/shared/Catch_trails.jpg "osu!catch fruktspår")
 
 Ett typiskt fruktspår två frukter (början och slut), droppar (sliderbana), juicedroppar (sliderticks) och mer för varje vändningspil följd av en omvänd sliderbana. Droppar ger 10 poäng var och är behandlade som 50 på resultatskärmen. Juicedroppar ger 30 poäng var, ökar kombo med 1 och är behandlade som 100 på resultatskärmen.
 
@@ -198,7 +198,7 @@ Kombon bryts ifall juicedroppen missas (eftersom det är en slidertick), men int
 
 ##### Bananer
 
-![Bananas](/wiki/shared/Catch_bananas.jpg "osu!catch bananer")
+![Bananer](/wiki/shared/Catch_bananas.jpg "osu!catch bananer")
 
 Stora bananer regnar ner och krymper tills de landar på tallriken (eller inte). Varje uppfångad banan ger 1 100 poäng oavsett modifierare och poängfaktorer.
 
@@ -206,7 +206,7 @@ Bananerna kan ignoreras utan straff på hälsan. Däremot går de möjliga poän
 
 ##### Hyperfrukter
 
-![Hyperfruits, and catcher hyperdashing from collecting previous hyperfruit](/wiki/shared/Catch_hyperfruits.jpg "osu!catch hyperfrukter")
+![Hyperfrukter, och en fångare som hyperdashar från att ha fångat tidigare hyperfrukt](/wiki/shared/Catch_hyperfruits.jpg "osu!catch hyperfrukter")
 
 Hyperfrukter är speciella frukter som dyker upp för att hjälpa fångaren att fånga nästa frukt när en vanlig dash omöjligen kan hinna fram till den i tid. Alla hyperfrukter har en stark röd färg runt dem som standard.
 
@@ -223,7 +223,7 @@ Positionen av muspekaren har vanligtvis ingen betydelse. Om [Relax](/wiki/Game_M
 
 *Fullständig förklaring: [osu!mania](/wiki/Game_Modes/osu!mania)*
 
-![osu!mania Interface](/wiki/shared/Interface_mania.jpg "Gränssnittet i osu!mania")
+![osu!mania Gränssnitt](/wiki/shared/Interface_mania.jpg "Gränssnittet i osu!mania")
 
 osu!mania är den tredje spelläget tillagt i osu!, efter osu!taiko och osu!catch.
 
@@ -239,7 +239,7 @@ Med [Co-Op](/wiki/Game_Modifiers)-modifieraren delar spelfältet itu och använd
 
 ##### Spelfältet
 
-![osu!mania playfield](/wiki/shared/Mania_playfield.jpg "In-game playfield interface of osu!mania")
+![osu!mania spelfält](/wiki/shared/Mania_playfield.jpg "In-game playfield interface of osu!mania")
 
 Som standard faller noter uppifrån ner på löpbandet (pilen i början visar åt vilket håll), tangentkontrollerna finns längst ner och dom-linjen ovanför det. Riktningen kan ändras manuellt till nerifrån och upp istället genom `inställningarna`; tryck på `osu!manias utseende` för att välja tangentinställningarna och aktivera `Vänd spelfältet vertikalt (DDR-stil)`.
 
@@ -249,13 +249,13 @@ Hälsan finns på höger sida av löpbandet. Var god notera att hälsan sjunker 
 
 ##### Noter
 
-![osu!mania's notes](/wiki/shared/Mania_notes.jpg "osu!mania noter")
+![Noter i osu!mania](/wiki/shared/Mania_notes.jpg "osu!mania noter")
 
 Noter är hit-cirklarna av osu!mania. De fallande noterna måste tryckas när de är över dom-linjen med rätt knapp beroende på vilken tangent den landar på. Flera noter på olika tangenter samtidigt måste också tryckas samtidigt. Poäng ges och visas på skärmen för varje korrekt tangent tryckt till korrekt not.
 
 ##### Långa noter
 
-![osu!mania's hold notes](/wiki/shared/Mania_holdnotes.jpg "osu!mania långa noter")
+![Långa noter i osu!mania](/wiki/shared/Mania_holdnotes.jpg "osu!mania långa noter")
 
 Långa noter är motsvarigheten för sliders och spinners i osu!mania. När en lång not når dom-linjen, tryck på start-noten med korrekt tangent, håll in och släpp vid slut-noten av den långa noten.
 
@@ -263,20 +263,20 @@ Hälsa fylls på långsamt under tiden när en lång not hålls intryckt. Beroen
 
 #### Kontroller
 
-![Default Key layouts of osu!mania (Options->Input)](/wiki/shared/Mania_key_layouts.jpg "osu!mania tangentbordslayout")
+![Standard tangentbordslayout i osu!mania (Inställningar->Inmatning)](/wiki/shared/Mania_key_layouts.jpg "osu!mania tangentbordslayout")
 
 Det finns två olika tangentbindningar, *Symmetrisk* och *Vänster till Höger*.
 
-- *Symmetrisk* stil liknar tangent-layouten av *DJMAX*, där mittentangenten är `Mellanslag` för att likna känslan av att trampa på pedalen i arkadversioner.
-  - Mittentangenten motsvarar mittenkolumnen (bara vid udda antal tangenter) och de andra kolumnerna motsvarar tangenterna på deras motsvarande positioner.
+- *Symmetrisk* stil liknar tangent-layouten av *DJMAX*, där centertangenten är `Mellanslag` för att likna känslan av att trampa på pedalen i arkadversioner.
+  - Mittangenten motsvarar mittenkolumnen (bara vid udda antal tangenter) och de andra kolumnerna motsvarar tangenterna på deras motsvarande positioner.
 - *Vänster till Höger*-stilen liknar tangent-layouten av *Beatmania IIDX*, där första kolumnen motsvarar *key1*, den andra *key2* osv.
 
 *Symmetrisk* tangentbindning (för *DJMAX*-stil)
 
 - Tangenter för *vänster* hand — (K1)`A`, (K2)`S`, (K3)`D`, (K4)`F`
 - Tangenter för *höger* hand — (K6)`J`, (K7)`K`, (K8)`L`, (K9)`;`.
-- *Mittentangenten* — (K5)`Mellanslag`. \[endast för udda antal tangenter\]
-- *Special*-tangenten — `leftSkift` and `leftCtrl`.
+- *Mittangenten* — (K5)`Mellanslag`. \[endast för udda antal tangenter\]
+- *Special*-tangenten — `leftSkift` och `leftCtrl`.
 
 | Key | L | C | R |
 | :-: | :-- | :-: | --: |
@@ -303,9 +303,9 @@ Det finns två olika tangentbindningar, *Symmetrisk* och *Vänster till Höger*.
 
 ## Poängräkning
 
-*Detaljerad förklaring för poängräkning hittas i spellägets motsvarande artikel eller i [the Score page](/wiki/Score).*
+*Detaljerad förklaring för poängräkning hittas i spellägets motsvarande artikel eller i [Poäng-artikeln](/wiki/Score).*
 
-*Detaljerad förklaring för beräkning av träffsäkerhet hittas i spellägets motsvarande artikel eller i [the Accuracy page](/wiki/Accuracy).*
+*Detaljerad förklaring för beräkning av träffsäkerhet hittas i spellägets motsvarande artikel eller i [artikeln om Träffsäkerhet](/wiki/Accuracy).*
 
 ### Rang
 
@@ -363,8 +363,8 @@ Det finns två olika tangentbindningar, *Symmetrisk* och *Vänster till Höger*.
 - Uppnådda rang läggs till i profilsidan under Allmänt->Ranker, såvida kontot är kopplat till Bancho-servern när rangen uppnås.
   - **Offline-prestationer**, även inloggad i kontot, **räknas inte**.
 - **Rang** läggs till i profilsidan beroende på högsta prestation i en rankad/godkänd svårighetsgrad av en beatmap för det spelläget, inte som helhet.
-  - Om en beatmap har tre(3) rankade svårighetsgrader och SS-rang uppnås i osu!catch, läggs till tre(3) SS-rang under Ranker av osu!catch-spelläget, inte bara en(1).
-  - Däremot om ett nytt rekord uppnås (genom fler bonuspoäng från spinners eller modifierare) med S-rang på en rankad svårighetsgrad som tidigare avklarats med SS-rang, minskar antalet SS med ett(1) och antalet S ökar med ett(1) istället.
+  - Om en beatmap har tre(3) rankade svårighetsgrader och SS-rang uppnås i osu!catch, läggs till tre(3) SS-rang under Ranker av osu!catch-spelläget, inte bara en (1).
+  - Däremot om ett nytt rekord uppnås (genom fler bonuspoäng från spinners eller modifierare) med S-rang på en rankad svårighetsgrad som tidigare avklarats med SS-rang, minskar antalet SS med ett (1) och antalet S ökar med ett (1) istället.
 
 ## Prestanda
 
@@ -390,7 +390,7 @@ I huvudsidan, under *[Beatmaps](https://osu.ppy.sh/beatmapsets)*. Kom ihåg att 
 
 **Nej**, eftersom till skillnad från video är det integrerat i spelet (som en del av hitobjekt) och därmed kan inte stängas av.
 
-#### Mapparna är för svåra! Vart kan jag hitta enklare maps?
+#### Mapparna är för svåra! Var kan jag hitta enklare beatmaps?
 
 För osu! har **Pokebis** kompilerat en mängd beatmaps lämpliga för nybörjare. De kan hittas [här](https://osu.ppy.sh/community/forums/topics/5456).
 
@@ -416,15 +416,15 @@ Tänk på att osu! har fyra spellägen, se alltså till att inte titta på fel s
 
 ![Profile_Mode_Buttons](img/Profile_mode_buttons.gif "Knappar till olika spellägen i profilsidan")
 
-#### Hur ändrar jag standard tangentbindningarna?
+#### Hur ändrar jag tangentbindningarna?
 
 *Fullständig förklaring: [Options](/wiki/Options)*
 
-![Options sidebar with quickicons](/wiki/shared/Options_quickicons.jpg "Inställningar med ikoner")
+![Inställningarnas sidofält med ikoner](/wiki/shared/Options_quickicons.jpg "Inställningar med ikoner")
 
 Från ikonen för *Inmatning* i *Inställningar* visad ovan, under **Tangentbord** visad nedan.
 
-![Options keyboard section](/wiki/shared/Options_keyboard.jpg "Inställningar->Inmatning->Tangentbord")
+![Tangentbordsavdelningen i inställningar](/wiki/shared/Options_keyboard.jpg "Inställningar->Inmatning->Tangentbord")
 
 #### Game over? Vad gjorde jag för fel?
 
@@ -469,13 +469,13 @@ Några av de mest notabla versionerna är:
 
 Se till att tangentbindningen för smoke/rök inte är samma som bindningen som används för att klicka på hitobjekt.
 
-![osu! smoke effect](/wiki/shared/osu_smoke.jpg "Användning av smoke")
+![osu! smoke-effekt](/wiki/shared/osu_smoke.jpg "Användning av smoke")
 
-![osu! smoke settings](/wiki/shared/osu_smoke_set.jpg "Smoke i tangentbindningarna")
+![osu! smoke-inställningar](/wiki/shared/osu_smoke_set.jpg "Smoke i tangentbindningarna")
 
 #### Varför får jag inte högsta kombo utan att ens ha missat?
 
-![Image showing a slider with slider ticks, with top part during Edit and bottom part during play](/wiki/shared/Sliderticks.png "Slider med slidertick, där överst är under beatmapredigering och nederst är i spelfältet")
+![Slider med slidertick, där överst är under beatmapredigering och nederst är i spelfältet](/wiki/shared/Sliderticks.png "Slider med slidertick, där överst är under beatmapredigering och nederst är i spelfältet")
 
 En slider har en start-cirkel, regelbundna små cirklar s.k. sliderticks, vändningspil (behandlas som en start-cirkel; det blir en riktig slider åt motsatt håll), och en avslutande cirkel. Alla dessa delar av slidern ökar kombo. Notera att start-cirkeln är värd 30 poäng, sliderticks är värda 10 poäng var, vändningspilar är värda 30 poäng var, och avslutningscirkeln är värd antingen 300 (eller geki), 100 (eller katu), eller 50 poäng beroende på hur bra slidern blev avklarad.
 
@@ -503,7 +503,7 @@ När den är aktiverad, tar skin-element i `taiko`-mappen prioritet över aktuel
 
 *Endast för orankade beatmaps.*
 
-![Example of an .osu file content](/wiki/shared/Beatmap_not_owned.png "Exempel av innehållet i en .osu-fil")
+![Exempel av innehållet i en .osu-fil](/wiki/shared/Beatmap_not_owned.png "Exempel av innehållet i en .osu-fil")
 
 Var god följ dessa steg:
 
@@ -520,11 +520,11 @@ Var god följ dessa steg:
 
 - Tidigare FAQ från peppy (`/p/faq/`, som denna sida var baserad på; numera borttaget)
 - Pokebis's Beginner's Training [\[1\]](https://osu.ppy.sh/community/forums/topics/5456 "Beginner Training by Pokebis")
-- OnosakiHito's TBT Project [Training Manual For Taiko Beginner v2] [\[2\]](https://osu.ppy.sh/community/forums/topics/175867 "TBT Project \[Training Manual For Taiko Beginner v2\] by OnosakiHito")
-- Kingkevin30's CBT Project [\[3\]](https://osu.ppy.sh/community/forums/topics/131067 "CBT Project by Kingkevin30")
-- Entozer's osu!mania maps, sorted by difficulty [\[4\]](https://osu.ppy.sh/community/forums/topics/147552 "osu!mania maps, sorted by difficulty by Entozer")
-- Drace's \[GUIDE\] How to improve in osu!mania [\[5\]](https://osu.ppy.sh/community/forums/topics/147552 "\[GUIDE\] How to improve in osu!mania by Drace")
-- Rivenation's osu!search - Advanced beatmap searching [\[6\]](https://osu.ppy.sh/community/forums/topics/380485 "osu!search - Advanced beatmap searching by Rivenation")
+- TBT Projekt av OnosakiHito [Training Manual For Taiko Beginner v2] [\[2\]](https://osu.ppy.sh/community/forums/topics/175867 "TBT Project \[Training Manual For Taiko Beginner v2\] by OnosakiHito")
+- CBT Projekt av Kingkevin30 [\[3\]](https://osu.ppy.sh/community/forums/topics/131067 "CBT Project by Kingkevin30")
+- osu!mania maps av Entozer, sorterade efter svårighetsgrad [\[4\]](https://osu.ppy.sh/community/forums/topics/147552 "osu!mania maps, sorted by difficulty by Entozer")
+- \[GUIDE\] av Drace - How to improve in osu!mania [\[5\]](https://osu.ppy.sh/community/forums/topics/147552 "\[GUIDE\] How to improve in osu!mania by Drace")
+- osu!search av Rivenation - Advanced beatmap searching [\[6\]](https://osu.ppy.sh/community/forums/topics/380485 "osu!search - Advanced beatmap searching by Rivenation")
 - Wikipedia [\[7\]](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [\[8\]](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
 
 [osu! icon]: /wiki/shared/mode/osu.png
