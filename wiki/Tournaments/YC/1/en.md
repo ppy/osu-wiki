@@ -104,28 +104,60 @@ The Yuri Cup is run by various community members.
 | **Yuritarded** | **![][flag_US] [Raoul](https://osu.ppy.sh/users/9924405)**, ![][flag_US] [mode](https://osu.ppy.sh/users/4580287), ![][flag_CA] [Rijrya](https://osu.ppy.sh/users/11186709), ![][flag_CA] [iyxe](https://osu.ppy.sh/users/9653938), ![][flag_US] [Yeong Yuseong](https://osu.ppy.sh/users/8926244), ![][flag_CL] [ign](https://osu.ppy.sh/users/9360528), ![][flag_CA] [boncuss](https://osu.ppy.sh/users/2305984), ![][flag_US] [Tuco](https://osu.ppy.sh/users/11706350) |
 | **安倍-プーチン** | **![][flag_RU] [z0mbir](https://osu.ppy.sh/users/4939107)**, ![][flag_JP] [Lege](https://osu.ppy.sh/users/7350684), ![][flag_JP] [katatakatata](https://osu.ppy.sh/users/3540294), ![][flag_JP] [\_tottoko\_](https://osu.ppy.sh/users/8354698), ![][flag_JP] [Valtz](https://osu.ppy.sh/users/5911299), ![][flag_RU] [DrakonLong](https://osu.ppy.sh/users/4411044), ![][flag_JP] [Reey](https://osu.ppy.sh/users/3773119), ![][flag_RU] [HardLifeNH](https://osu.ppy.sh/users/11009393) |
 
-## Match schedule: Finals
+## Match schedule: Grand Finals
 
-Saturday, 28 March 2020:
-
-| Match ID | Team 1 | Team 2 | Match time (UTC) |
-| :-: | --: | :-- | :-: |
-| #58 | Rtzero x Rtzer0 | Sakura Trick | **10:00** |
-| #57 | Futon's Bunker | Dziadzia team | **13:00** |
-
-Sunday, 29 March 2020:
+Saturday, 4 April 2020:
 
 | Match ID | Team 1 | Team 2 | Match time (UTC) |
 | :-: | --: | :-- | :-: |
-| #59a¹ | Futon's Bunker | Rtzero x Rtzer0 | **11:00** |
-| #59b¹ | Futon's Bunker | Sakura Trick | **11:00** |
-| #59c¹ | Dziadzia team | Rtzero x Rtzer0 | **13:00** |
-| #59d¹ | Dziadzia team | Sakura Trick | **13:00** |
-| #60 | Corim's Bad Dream | a la verga | **19:00** |
+| #61 | Corim's Bad Dream | Rtzero x Rtzer0 | **15:00** |
 
-¹ Encounter dependent on winner of Match #57 and Match #58
+Sunday, 5 April 2020:
+
+| Match ID | Team 1 | Team 2 | Match time (UTC) |
+| :-: | --: | :-- | :-: |
+| #62a¹ | a la verga | Corim's Bad Dream | **19:00** |
+| #62b¹ | a la verga | Rtzero x Rtzer0 | **14:00** |
+
+¹ Encounter dependent on winner of match #61. If team 2 wins match #62, the bracket reset Grand Finals match will take place approximately 30 minutes in advance.
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here! (135 MB)](https://mega.nz/#!GVNmxaRb!VSDzR0f_swSZ-XCa2NY0uaGDIfD72uU7EeH917jylZo)**
+
+- NoMod
+  - [System Of A Down - Toxicity (Icekalt) \[Disorder\]](https://osu.ppy.sh/beatmapsets/1041151#osu/2176046)
+  - [goreshit - toromi hearts 2 (Elcheer) \[I Can't Come Up With A Difficulty Name Yet\]](https://osu.ppy.sh/beatmapsets/853027#osu/1897638)
+  - [Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - ito (Lasse) \[Petal\]](https://osu.ppy.sh/beatmapsets/1077982#osu/2255709)
+  - [xi - Last Resort (Kroytz) \[Loli's INFINITE\]](https://osu.ppy.sh/beatmapsets/800102#osu/1679788)
+  - [Camellia - WHAT THE CAT!? (Akali) \[Procatstination (Meowzerrin Style)\]](https://osu.ppy.sh/beatmapsets/588018#osu/1245003)
+  - [Azuna Riko - Kimi ni Furete (TV size) (Aery) \[yuri cup\]](https://osu.ppy.sh/beatmapsets/1134849#osu/2370203)
+  - [Ancient Remains Arranged 20 Beats - Shirayama Hime no Kami (rustbell) \[Rush\]](https://osu.ppy.sh/beatmapsets/818813#osu/1716795)
+- Hidden
+  - [Renard - Rainbow Dash Likes Girls (Stay Gay Pony Girl) (Kuron-kun) \[Holy Shit! It's Rainbow Dash... Again!\]](https://osu.ppy.sh/beatmapsets/777586#osu/1633520)
+  - [xi - over the top (Kroytz) \[beyond the heavens\]](https://osu.ppy.sh/beatmapsets/479215#osu/1023355)
+  - [lapix - Carry Me Away (Alden) \[Nigber1's Blazing Extra\]](https://osu.ppy.sh/beatmapsets/696800#osu/2361968)
+  - [CLIFF EDGE feat. Nakamura Maiko - The Distance (handsome) \[Master\]](https://osu.ppy.sh/beatmapsets/580375#osu/1228840)
+- HardRock
+  - [Nekomata Master - Despair of Elferia (-Tochi) \[ANIMUM DESPONDEO\]](https://osu.ppy.sh/beatmapsets/1069504#osu/2238810)
+  - [LowFat x Onyu - DAYBREAK FRONTLINE (Anmiy) \[GO AHEAD !!!\]](https://osu.ppy.sh/beatmapsets/545417#osu/1155547)
+  - [RYO - Shuffle Heaven (AngelHoney) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/30682#osu/118971)
+  - [Memme - %S(M) (P o M u T a) \[EX\]](https://osu.ppy.sh/beatmapsets/296393#osu/665509)
+- DoubleTime
+  - [Taylor Swift - ...Ready For It? (Syph) \[Extra\]](https://puu.sh/Fru9p/84d01bdba5.osz)
+  - [bibuko - Crayon (val0108) \[Insane\]](https://osu.ppy.sh/beatmapsets/49455#osu/152463)
+  - [Stan SB - Let This Go (Kyshiro) \[Gone\]](https://osu.ppy.sh/beatmapsets/89912#osu/244230)
+  - [Culprate & Joe Ford - Gaucho (ScubDomino) \[Kalibe x LCFC's Insane\]](https://osu.ppy.sh/beatmapsets/847776#osu/1772924)
+  - [Fred Roettcher - Cha-La Head Cha-La (Suissie) \[Deramok\]](https://osu.ppy.sh/beatmapsets/947114#osu/2130383)
+- FreeMod
+  - [Crush 40 - City Escape - Modern (Hobbes2) \[Ultimate\]](https://osu.ppy.sh/beatmapsets/706935#osu/1494630)
+  - [FLOOR BABA - WIGGLE CORE (Skymin) \[TAP\]](https://osu.ppy.sh/beatmapsets/769708#osu/1618417)
+  - [Denkishiki Karen Ongaku Shuudan - Lily Toxicity (Short Ver.) (LMT) \[A Little Piece of Heaven\]](https://osu.ppy.sh/beatmapsets/1066325#osu/2232812)
+  - [paranoid void - Utsukushii Kodoku (dsco) \[Escapism\]](https://osu.ppy.sh/beatmapsets/777597#osu/1633534)
+- Tiebreaker
+  - **[Dimrain47 - Operation: Evolution (Yukiyo) \[Darwinism\]](https://osu.ppy.sh/beatmapsets/938921#osu/1961263)**
 
 ### Finals
 
@@ -298,6 +330,22 @@ Sunday, 29 March 2020:
   - [senya - Kimi to Dareka no Yasashisa ni (kakifly) \[Affection\]](https://osu.ppy.sh/beatmapsets/250337#osu/596161)
 
 ## Match results
+
+### Finals
+
+Saturday, 28 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Rtzero x Rtzer0** | **7** | 2 | Sakura Trick | [#1](https://osu.ppy.sh/community/matches/59699521) |
+| **Futon's Bunker** | **7** | 6 | Dziadzia team | [#1](https://osu.ppy.sh/community/matches/59702151) |
+| Corim's Bad Dream | 6 | **7** | **a la verga** | [#1](https://osu.ppy.sh/community/matches/59717509) |
+
+Sunday, 29 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Futon's Bunker | 6 | **7** | **Rtzero x Rtzer0** | [#1](https://osu.ppy.sh/community/matches/59740324) |
 
 ### Semifinals
 

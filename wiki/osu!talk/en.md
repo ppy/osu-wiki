@@ -1,6 +1,7 @@
 ---
-needs_cleanup: true
+outdated: true
 ---
+<!-- TODO: more episodes -->
 
 # osu!talk
 

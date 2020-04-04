@@ -1,6 +1,7 @@
 ---
-needs_cleanup: true
+outdated: true
 ---
+<!-- TODO: lazer updated tournaments since this article was written -->
 
 # Tournament drawings
 

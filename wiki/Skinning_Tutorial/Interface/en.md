@@ -1,7 +1,3 @@
----
-needs_cleanup: true
----
-
 # Interface skinning tutorial
 
 ## Welcome Screen

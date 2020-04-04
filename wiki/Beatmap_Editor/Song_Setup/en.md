@@ -102,6 +102,8 @@ Checking the `Co-op mode` checkbox will double the currently selected amount (fr
 
 ### Approach Rate
 
+*Main page: [Approach rate](/wiki/Beatmapping/Approach_rate)*
+
 ![Detailed AR chart](/wiki/shared/ARTable.jpg "Detailed AR chart")
 
 *Note: This option is visible in osu!taiko and osu!mania, but it does not do anything that affects gameplay. This is mainly because both use a scroll speed, which is based on BPM (beats per minute).*

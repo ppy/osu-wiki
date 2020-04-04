@@ -1,6 +1,4 @@
----
-needs_cleanup: true
----
+<!-- TODO: some updates and needs a proper end of life message. it's also open source now -->
 
 <!-- wikilink -->
 [Song List]: Song_List "Song list"

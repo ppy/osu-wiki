@@ -1,6 +1,4 @@
----
-needs_cleanup: true
----
+<!-- TODO: check grammar/style -->
 
 # osu!taiko
 

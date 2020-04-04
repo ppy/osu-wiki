@@ -1,6 +1,4 @@
----
-needs_cleanup: true
----
+<!-- TODO: strange descriptions in many places and unhelpful order if you're trying to see what this game mode is all about. -->
 
 # osu! (game mode)
 

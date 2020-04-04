@@ -1,6 +1,7 @@
 ---
 needs_cleanup: true
 ---
+<!-- TODO: same deal as FAQ. this should be split up into appropriate articles and only written as guides where necessary. right now this page is only useful for people linking directly to sections of it -->
 
 # Help centre
 
