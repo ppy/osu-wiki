@@ -60,12 +60,12 @@ Here's a great map for those of you wishing there were more genuine TAG4 maps in
 
 [![](/wiki/shared/news/2020-04-05-project-loved-week-of-april-5th/osu/4-lovely-girls-anthem-cobalt-green-eurobeatremix.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
-[Natsuko Aso - Lovely Girls Anthem (cobalt green EuroBeatRemix)](https://osu.ppy.sh/beatmapsets/199084#osu) by [Midge](https://osu.ppy.sh/users/2226436) and [cRyo[iceeicee]](https://osu.ppy.sh/users/835998)  
+[Natsuko Aso - Lovely Girls Anthem (cobalt green EuroBeatRemix)](https://osu.ppy.sh/beatmapsets/199084#osu) by [Midge](https://osu.ppy.sh/users/2226436) and [cRyo\[iceeicee\]](https://osu.ppy.sh/users/835998)  
 152 BPM, 4:09 | 4.64★, 5.23★  
-The [Easy], [Hard] and [Normal] difficulties are *not* being nominated for Loved.  
+The \[Easy\], \[Hard\] and \[Normal\] difficulties are *not* being nominated for Loved.  
 *description written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
 
-This lovely 152 BPM eurobeat remix of *Lovely Girls Anthem* is nothing short of catchy, and when paired with either of these maps by Midge and cRyo[iceeicee], it's nothing short of enjoyable. This mapset is overall super cozy to play, and it makes for a great map to practice with! Between the two difficulties in this mapset, there's fun to be had with every mod combination, so no matter what kind of player you are, be sure not to skip this one!
+This lovely 152 BPM eurobeat remix of *Lovely Girls Anthem* is nothing short of catchy, and when paired with either of these maps by Midge and cRyo\[iceeicee\], it's nothing short of enjoyable. This mapset is overall super cozy to play, and it makes for a great map to practice with! Between the two difficulties in this mapset, there's fun to be had with every mod combination, so no matter what kind of player you are, be sure not to skip this one!
 
 [![](/wiki/shared/news/2020-04-05-project-loved-week-of-april-5th/osu/5-frozen-gear.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -146,43 +146,43 @@ osu!mania Loved candidates were chosen by [lenpai](https://osu.ppy.sh/users/5314
 [![](/wiki/shared/news/2020-04-05-project-loved-week-of-april-5th/mania/1-arche.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [Camellia - Arche](https://osu.ppy.sh/beatmapsets/1047817#mania) by [-mint-](https://osu.ppy.sh/users/8976576) and [Kamuy](https://osu.ppy.sh/users/7439226)  
-200 BPM, 5:09 | [4K] 5.43★
+200 BPM, 5:09 | \[4K\] 5.43★
 
 The opener for the osu!mania Loved section's return is a highlight on more than one front. A curator for hype through a multitude of qualities, even a beauty in many respects, and an overall enjoyable time brought by -mint- and Kamuy, it is their chart for *Arche*. Camellia songs are sure to bring the hype, and *Arche* is certainly no exception to that rule. The chart also backs this up beautifully, with many difficult sections covering a vast array of skill sets. Given it was made as a tiebreaker for this past year's osu!mania 4K World Cup, it's no wonder that -mint- and Kamuy made it this way, including speedy bursts, some tech-jacks, minor SVs, and a brutal LN section coming in during the second half, culminating in an extremely all-rounded chart that can appeal to a wide audience. The two's goals were met and more, leading to an overall very positive reception from MWC and beyond, giving it a very fitting place among the Loved nominations.
 
 [![](/wiki/shared/news/2020-04-05-project-loved-week-of-april-5th/mania/2-der-wald-kors-k-remix.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [Eleharmonica remixed by kors k - Der Wald (kors k Remix)](https://osu.ppy.sh/beatmapsets/482832#mania) by [snoverpk](https://osu.ppy.sh/users/3595196)  
-170 BPM, 1:59 | [4K] 6.03★
+170 BPM, 1:59 | \[4K\] 6.03★
 
 snoverpk, as many high level players know, has his fair share of extremely difficult charts, like *Angel Dust* and *EXILE*, made to test the very limits of the capabilities of the best of the best StepMania and osu!mania players. *Der Wald* is a prime example of one of these charts, with some of the fastest light jumpstreams in the game, clocking in at a blistering 340 BPM, with some small snap changes to throw it off just a bit. This is all without mentioning the brutal patterning in these streams along with the middle section containing a couple of *510 BPM* bursts, blowing almost any other chart in the game out of the water in terms of pure speed and difficulty. This extreme speed that is tested in this chart has made many a top player flock to it, being very commonly used as a practice chart for the very best. This makes it notorious and very well-known through the community, and makes it very deserving of a Loved nomination.
 
 [![](/wiki/shared/news/2020-04-05-project-loved-week-of-april-5th/mania/3-jumpstream-of-fighters-vol-2b.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [(Various Artists) - Jumpstream Of Fighters Vol. 2B](https://osu.ppy.sh/beatmapsets/547215#mania) by [Leo137](https://osu.ppy.sh/users/1177817), [Manwon](https://osu.ppy.sh/users/4129020), [swiftwinter](https://osu.ppy.sh/users/3453387), [AZVW_2](https://osu.ppy.sh/users/6328227) and [blazziken](https://osu.ppy.sh/users/2544313)  
-200 BPM, 14:19 | [4K], 4.74★ – 6.02★  
-The [(Marathon) - Delete Upon Download] difficulty is *not* being nominated for Loved.
+200 BPM, 14:19 | \[4K\], 4.74★ – 6.02★  
+The \[(Marathon) - Delete Upon Download\] difficulty is *not* being nominated for Loved.
 
 There's some more StepMania coming your way with about half of a very popular pack released back in late 2016, being the *Jumpstream Of Fighters 2* pack! As the name is likely to tell you, the pack is themed around a range of jumpstream difficulties. This is not all that the pack has to offer, including some easier jack-based gameplay in the Medium chart for *satori de pon!* and the dump streams and tech found in *Live Nor Die*. With many of the charts having relatively simplistic structure and straightforward gameplay, the pack gained immense popularity among the StepMania players it was released for at the time, and of course has maintained a level of recognition and popularity in osu!mania for similar reasons. This is a callback to some of the charting styles used a few years ago, and a shoe-in for the Loved section.
 
 [![](/wiki/shared/news/2020-04-05-project-loved-week-of-april-5th/mania/4-the-everlasting-guilty-crown.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [EGOIST - The Everlasting Guilty Crown](https://osu.ppy.sh/beatmapsets/789040#mania) by [eZmmR](https://osu.ppy.sh/users/8647138), [upan](https://osu.ppy.sh/users/5214397) and [-Muses-](https://osu.ppy.sh/users/9705896)  
-172 BPM, 5:18 | [4K] 6.35★
+172 BPM, 5:18 | \[4K\] 6.35★
 
 eZmmR and upan are back in the Loved nominations with a new face, -Muses-, presenting their collab for *The Everlasting Guilty Crown*! eZmmR fans will immediately know what's up with this pick, and given his and his friends' past endeavors, the style should be more than well known to the community. Very difficult and varying LN patterns, including LN streams, release play, inverse of course, and even the occasional rolly stream to spice things up just a bit. Transitioning between these different skills, whether it's just from normal LN streams to inverse or an entire switch-up in mapping style between eZmmr, upan, and -Muses-, can be very difficult, but it is always satisfying to play and hit properly. The training potential that many of eZmmR's maps share is through the roof, and the fun factor is of course up there too, making it no wonder that they have become the powerhouse in LN charting that they are. *The Everlasting Guilty Crown* proves to be more than a fitting return for eZmmR in the Loved section.
 
 [![](/wiki/shared/news/2020-04-05-project-loved-week-of-april-5th/mania/5-sudden-romance.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [void - Sudden Romance](https://osu.ppy.sh/beatmapsets/759647#mania) by [\_underjoy](https://osu.ppy.sh/users/2235750) and [anti-](https://osu.ppy.sh/users/758406)  
-152 BPM, 4:39 | [7K] 6.98★, [7K] 7.44★, [7K] 8.42★, [7K] 5.84★, [7K] 6.63★
+152 BPM, 4:39 | \[7K\] 6.98★, \[7K\] 7.44★, \[7K\] 8.42★, \[7K\] 5.84★, \[7K\] 6.63★
 
 Description
 
 [![](/wiki/shared/news/2020-04-05-project-loved-week-of-april-5th/mania/6-polygon.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [Sota Fujimori - polygon](https://osu.ppy.sh/beatmapsets/1066137#mania) by [Player0](https://osu.ppy.sh/users/3662205)  
-174 BPM, 1:54 | [7K] 3.25★
+174 BPM, 1:54 | \[7K\] 3.25★
 
 Description
 
