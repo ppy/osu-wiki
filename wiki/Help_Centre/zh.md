@@ -1,6 +1,7 @@
----
-needs_cleanup: true
----
+
+
+
+
 
 # 帮助中心
 
@@ -76,6 +77,7 @@ needs_cleanup: true
 如果你忘记了你账号的密码，并且你没有收到任何密码找回确认邮件，或者你确实忘记了你所绑定的邮箱，那么请联系支持团队 [accounts@ppy.sh](mailto:accounts@ppy.sh) 。关于你的信息（如你的用户名，你登录游戏时的截屏，你所有的 osu!store 订单等等）越多，你求助的成功率越高。
 
 还有，我们知道一些邮件服务并不接受我们的自动发送邮件。如果你在使用以下所列出的邮件服务之一，请立即联系我们帮你更换绑定的邮箱地址：
+
 - `att.net`
 - `bellsouth.net`
 - `free.fr`
@@ -257,7 +259,6 @@ osu! 通常可以自动更新，但有时也会出现错误。
 - [Microsoft 网页核心字体](http://web.nickshanks.com/fonts/microsoft-core-web-fonts) （ 包含 Arial ，Times New Roman ，Trebuchet MS 和 Verdana ）
 - [Tahoma](http://www.boldfonts.com/fonts/Tahoma/)
 - [Windows Live Essentials](http://explore.live.com/windows-live-essentials?os=other) （ Segoe UI ）
-- [Powerpoint 2007 Viewer](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=048dc840-14e1-467d-8dca-19d2a8fd7485&displaylang=en&pf=true) （ 这里包含着大多数 ClearType 字体 —— Calibri ，Consolas ，Corbel ... 你的系统和 osu! 基本上不需要这些字体，但这些字体都很棒！赶快下载试试吧！）
 - [Microsoft 正黑体 / Microsoft 正黑體](http://www.microsoft.com/download/en/details.aspx?DisplayLang=en&id=12072) （ 正体中文界面字体 ）
 
 [这里](http://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a)有一些的具体建议和找回字体的其他方法。
@@ -630,6 +631,8 @@ osu! 会自动保存你的所有成绩在 osu! 安装目录的 `/Data/r` 文件�
 
 ## 网站
 
+### MISSING_HEADING
+
 #### 离我发送求助邮件已经过去两周，我还没有收到回复！
 
 **绝大部分时候，这是因为我们的系统一次性收到了大量的求助邮件。**
@@ -775,9 +778,11 @@ osu! 安装程序自带有 .NET 框架，为了以防万一，你可以[在这�
 
 大部分洋葱网络（Tor）或者其他与它有关的网络无法连接游戏服务器。这是为了避免恶意使用。
 
-----------------------------------------------------------------------------
+---
 
 ## 谱面制作与编辑
+
+### MISSING_HEADING
 
 #### 如何上传/更新我的谱面？
 
@@ -811,7 +816,7 @@ osu! 安装程序自带有 .NET 框架，为了以防万一，你可以[在这�
 
 一旦你的谱面进入 Graveyard 状态，你通过在网页上点击谱面链接右边的 `删除` 按钮来删除它。
 
-----------------------------------------------------------------------------
+---
 
 ## osu! 商店和商品
 
@@ -943,9 +948,11 @@ osu! 安装程序自带有 .NET 框架，为了以防万一，你可以[在这�
 
 如果你在过程中有任何问题，请发邮件给 [store@ppy.sh](mailto:store@ppy.sh)，我们很乐意帮助你。
 
-----------------------------------------------------------------------------
+---
 
 ## 诊断问题
+
+### MISSING_HEADING
 
 #### 什么是“日志文件”，我应该如何使用他们？
 
