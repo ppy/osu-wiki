@@ -2,22 +2,11 @@
 outdated: true
 ---
 
-<!-- wikilink -->
-[osu!stream wikilink]: /wiki/Game_Modes/External_Ports/osu!stream "osu!stream by osu! team"
-
-<!-- shared image -->
-[osu! icon link]: /wiki/shared/mode/osu.png "osu! icon"
-[osu!taiko icon link]: /wiki/shared/mode/taiko.png "osu!taiko icon"
-[osu!catch icon link]: /wiki/shared/mode/catch.png "osu!catch icon"
-[osu!mania icon link]: /wiki/shared/mode/mania.png "osu!mania icon"
-
-[osu!tablet image]: /wiki/shared/Osu!tablet.jpg "osu!tablet"
-
 # Estilos de Juego
 
 En esta página puedes conocer las diferentes formas en las que se puede jugar en cada modo de juego.
 
-## ![osu! icon][osu! icon link] osu!
+## ![](/wiki/shared/mode/osu.png) osu!
 
 ### Solo con el ratón
 
@@ -32,7 +21,7 @@ En pantalla, los clics con el botón izquierdo y derecho se muestran como `M1` y
 
 Un jugador puede utilizar un segundo ratón, de modo que use uno de ellos para hacer clic y otro para mover el cursor por la pantalla.
 
-Se consideraba un estilo de juego _ridículo_ hasta que ![Canadian Flag](/wiki/shared/flag/CA.gif "Canadian Flag") [Azer](https://osu.ppy.sh/users/2155578) empezó a obtener grandes puntuaciones usando este estilo de juego en mapas como [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691 "Hatsune Miku - With a Dance Number (val0108)") and [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823 "The Quick Brown Fox - The Big Black (Blue Dragon)").
+Se consideraba un estilo de juego _ridículo_ hasta que ![](/wiki/shared/flag/CA.gif "Canada") [Azer](https://osu.ppy.sh/users/2155578) empezó a obtener grandes puntuaciones usando este estilo de juego en mapas como [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691 "Hatsune Miku - With a Dance Number (val0108)") and [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823 "The Quick Brown Fox - The Big Black (Blue Dragon)").
 
 Es común que los jugadores que juegan con dos ratones dejen fijado a la mesa el ratón que van a usar para hacer clic.
 
@@ -46,9 +35,7 @@ En pantalla, las pulsaciones del teclado se muestran como `K1` y `K2`.
 
 ### Solo con tableta gráfica
 
-![osu!tablet][osu!tablet image]
-
-_osu!tablet_
+![](/wiki/shared/Osu!tablet.jpg "osu!tablet")
 
 Un estilo de juego para jugadores con una tableta gráfica o digitalizadora.
 
@@ -69,7 +56,7 @@ Como los jugadores de ratón y teclado, algunos jugadores solo usan el teclado p
 Un modo de juego disponible para todos aquellos que tengan un monitor táctil.
 
 Los jugadores tocan la pantalla sobre los hitcircles, sliders y spinners sin necesidad de mover ningún cursor.
-Este estilo de juego puede parecerse a jugar a [osu!stream](/wiki/Game_Modes/External_Ports/osu!stream).
+Este estilo de juego puede parecerse a jugar a [osu!stream](/wiki/osu!stream).
 
 Todas las pulsaciones sobre la pantalla se muestran como `M1`.
 
@@ -84,9 +71,9 @@ Si la pantalla táctil lo admite, se puede usar un lápiz sobre ella, volviéndo
 La mayoría de los jugadores solo usan el trackpad para navegar los menús del juego.
 - **Joystick**: Una forma creativa de controlar el cursor es utilizar un Joystick para mover el cursor y utilizar el gatillo o botones incluidos en él o un teclado para _hacer clic_.
 A no ser que el jugador ya domine de antemano el uso del Joystick, mover el cursor con él requerirá mucho más tiempo de aprendizaje que el resto de periféricos mencionados anteriormente.
-- **Placas metálicas**: Una manera muy especial de reemplazar un teclado, introducida por el jugador ![USA Flag](/wiki/shared/flag/US.gif "USA Flag") [geckogates](https://osu.ppy.sh/users/geckogates), que requiere cierto conocimiento de electrónica para preparar: se usan unas placas metálicas conectadas al circuito del teclado para usarlas en lugar de las teclas.
+- **Placas metálicas**: Una manera muy especial de reemplazar un teclado, introducida por el jugador ![](/wiki/shared/flag/US.gif "United States of America") [geckogates](https://osu.ppy.sh/users/geckogates), que requiere cierto conocimiento de electrónica para preparar: se usan unas placas metálicas conectadas al circuito del teclado para usarlas en lugar de las teclas.
 
-## ![osu!taiko][osu!taiko icon link] osu!taiko
+## ![](/wiki/shared/mode/taiko.png) osu!taiko
 
 ### Teclado
 
@@ -108,7 +95,7 @@ La mayoría de los tambores pueden ser conectados vía Bluetooth sin necesidad d
 
 - **Mando**: Otro de los posibles estilos de juego es utilizar un mando de consola, como ocurre en las entregas para consola de Taiko no Tatsujin.
 
-## ![osu!catch][osu!catch icon link] osu!catch
+## ![](/wiki/shared/mode/catch.png) osu!catch
 
 ### Teclado
 
@@ -133,7 +120,7 @@ Se utiliza el Joystick para mover al catcher y el botón incluido en el Joystick
 
 Quienes se sientan cómodos con un mando de consola pueden utilizar las flechas o el Joystick de un mando para mover al catcher y un botón para activar el _Dash_.
 
-## ![osu!mania][osu!mania icon link] osu!mania
+## ![](/wiki/shared/mode/mania.png) osu!mania
 
 ### Teclado
 

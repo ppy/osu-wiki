@@ -3,22 +3,11 @@ needs_cleanup: true
 ---
 <!-- TODO: some of these descriptions are terrible and the whole thing needs a decent review. -->
 
-<!-- wikilink -->
-[osu!stream wikilink]: /wiki/Game_Modes/External_Ports/osu!stream "osu!stream by osu! team"
-
-<!-- shared image -->
-[osu! icon link]: /wiki/shared/mode/osu.png "osu! icon"
-[osu!taiko icon link]: /wiki/shared/mode/taiko.png "osu!taiko icon"
-[osu!catch icon link]: /wiki/shared/mode/catch.png "osu!catch icon"
-[osu!mania icon link]: /wiki/shared/mode/mania.png "osu!mania icon"
-
-[osu!tablet image]: /wiki/shared/Osu!tablet.jpg "osu!tablet"
-
 # Play styles
 
 This page will detail the various different ways in which players can choose to play in their respective game modes.
 
-## ![osu! icon][osu! icon link] osu!
+## ![](/wiki/shared/mode/osu.png) osu!
 
 ### Mouse-only
 
@@ -33,7 +22,7 @@ The key overlay shows left/right click as `M1` and `M2`.
 
 Dual Mouse is a play style in which a player has a mouse in each hand; using one mouse to tap and another one mouse to aim/move.
 
-It is used to be considered a _joke_ play style to most players until May 2013 when a Canadian player named ![Canadian Flag](/wiki/shared/flag/CA.gif "Canadian Flag") [Azer](https://osu.ppy.sh/users/2155578) starting getting scores on maps such as [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691 "Hatsune Miku - With a Dance Number (val0108)") and [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823 "The Quick Brown Fox - The Big Black (Blue Dragon)") whilst playing Dual Mouse.
+It is used to be considered a _joke_ play style to most players until May 2013 when a Canadian player named ![](/wiki/shared/flag/CA.gif "Canada") [Azer](https://osu.ppy.sh/users/2155578) starting getting scores on maps such as [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691 "Hatsune Miku - With a Dance Number (val0108)") and [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823 "The Quick Brown Fox - The Big Black (Blue Dragon)") whilst playing Dual Mouse.
 It is also common for Dual Mouse players to tape the tapping mouse to the desk.
 
 ### Mouse + Keyboard
@@ -47,9 +36,7 @@ The key overlay shows keyboard presses as `K1` and `K2`.
 
 ### Tablet tap (or Tablet-only)
 
-![osu!tablet][osu!tablet image]
-
-_osu!tablet_
+![](/wiki/shared/Osu!tablet.jpg "osu!tablet")
 
 A play style for players with a graphics tablet (Digitizer).
 
@@ -72,7 +59,7 @@ To stream as a Tablet-only player, the player should alternate between tapping t
 A possible play style for players who own a touch-enabled monitor, laptop screen or tablet.
 
 Players touch the screen to instantaneously navigate and tap to the beat.
-This play style may feel slightly similar to playing [osu!stream][osu!stream wikilink] by touching the screen directly rather than by hardware support (mouse, graphic tablet).
+This play style may feel slightly similar to playing [osu!stream](/wiki/osu!stream) by touching the screen directly rather than by hardware support (mouse, graphic tablet).
 Some players may opt for this play style when available or when they do not own a graphic tablet.
 
 The key overlay shows touch input as `M1`.
@@ -87,9 +74,9 @@ The play style can be similar to Tablet + Keyboard as some monitors allows for a
 
 - **Laptop touchpad/trackpad**: While being theoretically possible, most players prefer not to use a trackpad because of the extreme difficulty involved (specifically, controlling the cursor movement on the limited space of the laptop touchpad/trackpad). The trackpad is used (instead of a mouse) to navigate the in-game cursor.
 - **Joystick**: A creative way to control osu!cursor. Player hold and move the joystick around to move the osu!cursor and taps on the trigger/face buttons (depending on player's joystick design) or keyboard keys to register the beats. It is least preferred because the skill required to control the joystick movement and most don't own it unless they also play other games ([World of Warplanes](https://wikipedia.org/wiki/World_of_Warplanes) for example).
-- **Metal plate**: A special way to replace the keyboard for tapping beats. This method was introduced by ![USA Flag](/wiki/shared/flag/US.gif "USA Flag") [geckogates](https://osu.ppy.sh/users/geckogates) and requires some wiring and electronic knowledge to build. The player will attach a wire to the clicking fingers (connected to keyboard's circuit for `Z` and `X`) and will touch the metal plates to register beats.
+- **Metal plate**: A special way to replace the keyboard for tapping beats. This method was introduced by ![](/wiki/shared/flag/US.gif "United States of America") [geckogates](https://osu.ppy.sh/users/geckogates) and requires some wiring and electronic knowledge to build. The player will attach a wire to the clicking fingers (connected to keyboard's circuit for `Z` and `X`) and will touch the metal plates to register beats.
 
-## ![osu!taiko][osu!taiko icon link] osu!taiko
+## ![](/wiki/shared/mode/taiko.png) osu!taiko
 
 ### Keyboard
 
@@ -115,7 +102,7 @@ Most Taiko controllers connect to the computer by using Bluetooth connector shou
 
 - **Gamepad**: One of the possible play-style in console variation of Taiko no Tatsujin series (including Taiko Drum Master). Players register Don/Katu by pressing the face (Right Don, or Right Red), arrow (Left Don, or Left Red) and upper buttons (Left/Right Katu, or Left/Right Blue).
 
-## ![osu!catch][osu!catch icon link] osu!catch
+## ![](/wiki/shared/mode/catch.png) osu!catch
 
 ### Keyboard
 
@@ -143,7 +130,7 @@ A possible play-style for players comfortable playing with a gamepad.
 
 Players press the left/right arrow of the gamepad to move the catcher left/right and press then hold the face button to trigger the _Dash!_ effect.
 
-## ![osu!mania][osu!mania icon link] osu!mania
+## ![](/wiki/shared/mode/mania.png) osu!mania
 
 ### Keyboard
 
