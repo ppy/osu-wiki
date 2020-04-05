@@ -24,7 +24,7 @@ H.264 is a very good codec to use but like most video codecs, it is lossy. So do
 
 #### Removing audio from video
 
-This section will show you how to remove audio from videos using Handbrake to reduce the file size of the video file.
+This section will show you how to remove audio from videos using [Handbrake](https://handbrake.fr/) to reduce the file size of the video file.
 
 1. Open Handbrake and import your video file. You can drag and drop your file into Handbrake or manually import by clicking the File option.
 
