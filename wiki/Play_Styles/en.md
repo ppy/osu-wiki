@@ -22,7 +22,7 @@ The key overlay shows left/right click as `M1` and `M2`.
 
 Dual Mouse is a play style in which a player has a mouse in each hand; using one mouse to tap and another one mouse to aim/move.
 
-It is used to be considered a _joke_ play style to most players until May 2013 when a Canadian player named ![](/wiki/shared/flag/CA.gif "Canada") [Azer](https://osu.ppy.sh/users/2155578) starting getting scores on maps such as [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691 "Hatsune Miku - With a Dance Number (val0108)") and [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823 "The Quick Brown Fox - The Big Black (Blue Dragon)") whilst playing Dual Mouse.
+It is used to be considered a _joke_ play style to most players until May 2013 when a Canadian player named ![](/wiki/shared/flag/CA.gif "Canada") [Azer](https://osu.ppy.sh/users/2155578) starting getting scores on maps such as [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691) and [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823) whilst playing Dual Mouse.
 It is also common for Dual Mouse players to tape the tapping mouse to the desk.
 
 ### Mouse + Keyboard

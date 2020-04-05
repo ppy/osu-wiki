@@ -21,7 +21,7 @@ En pantalla, los clics con el botón izquierdo y derecho se muestran como `M1` y
 
 Un jugador puede utilizar un segundo ratón, de modo que use uno de ellos para hacer clic y otro para mover el cursor por la pantalla.
 
-Se consideraba un estilo de juego _ridículo_ hasta que ![](/wiki/shared/flag/CA.gif "Canada") [Azer](https://osu.ppy.sh/users/2155578) empezó a obtener grandes puntuaciones usando este estilo de juego en mapas como [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691 "Hatsune Miku - With a Dance Number (val0108)") and [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823 "The Quick Brown Fox - The Big Black (Blue Dragon)").
+Se consideraba un estilo de juego _ridículo_ hasta que ![](/wiki/shared/flag/CA.gif "Canada") [Azer](https://osu.ppy.sh/users/2155578) empezó a obtener grandes puntuaciones usando este estilo de juego en mapas como [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691) and [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823).
 
 Es común que los jugadores que juegan con dos ratones dejen fijado a la mesa el ratón que van a usar para hacer clic.
 
