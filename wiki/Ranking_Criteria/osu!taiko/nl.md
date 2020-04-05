@@ -1,6 +1,6 @@
 # osu!taiko Ranking Criteria
 
-De osu!taiko ranking criteria zijn regels en richtlijnen die van toepassing zijn op het mappen van osu!taiko-specifieke moeilijkheidsgraden. Om een osu!taiko specifieke moeilijkheidsgraad ranked te krijgen, is het verplicht dat de creatie voldoet aan de genoemde criteria. Hoewel **alle regels onder alle omstandigheden moeten worden nageleefd**, mogen richtlijnen onder uitzonderlijke omstandigheden worden genegeerd. Deze uitzonderlijke omstandigheden moeten worden gerechtvaardigd door een uitgebreide uitleg over waarom de richtlijn is genegeerd en over waarom het niet negeren van deze richtlijn de algemene kwaliteit van de beatmap zal verstoren.
+De **osu!taiko ranking criteria** zijn regels en richtlijnen die van toepassing zijn op het mappen van osu!taiko-specifieke moeilijkheidsgraden. Om een osu!taiko specifieke moeilijkheidsgraad ranked te krijgen, is het verplicht dat de creatie voldoet aan de genoemde criteria. Hoewel **alle regels onder alle omstandigheden moeten worden nageleefd**, mogen richtlijnen onder uitzonderlijke omstandigheden worden genegeerd. Deze uitzonderlijke omstandigheden moeten worden gerechtvaardigd door een uitgebreide uitleg over waarom de richtlijn is genegeerd en over waarom het niet negeren van deze richtlijn de algemene kwaliteit van de beatmap zal verstoren.
 
 Over deze regels en richtlijnen is gediscussieerd in het [Ranking Criteria subforum](https://osu.ppy.sh/community/forums/87). Nieuwe regels en richtlijnen kunnen gesuggereerd worden in hetzelfde forum. Deze pagina zal worden geüpdatet als de discussie tot een akkoord komt.
 
@@ -36,11 +36,13 @@ Over deze regels en richtlijnen is gediscussieerd in het [Ranking Criteria subfo
 - **Improvisatie:** Wanneer er meer noten in een beatmap zijn dan in de eigenlijke muziek.
 - **Taiko sjabloonachtergrond *(Taiko template background)*:** Achtergrondafbeeldingen die de authentieke Taiko no Tatsujin gameplay simuleren. Ze bevatten doorgaans een zwarte balk die de artiest en de titel van het liedje in het wit onder het speelveld toont.
 
-## Algemeen
+## Globaal
 
-Algemene regels en richtlijnen zijn van toepassing op elke osu!taiko moeilijkheidsgraad. Ritme-gerelateerde regels en richtlijnen zijn van toepassing op beatmaps met ongeveer 180 BPM en met 4/4 maatsoort. Als jouw muziek veel sneller of trager is, zullen sommige variabelen anders zijn, zoals aangegeven in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM).
+Globale regels en richtlijnen zijn van toepassing op elke osu!taiko moeilijkheidsgraad. Ritme-gerelateerde regels en richtlijnen zijn van toepassing op beatmaps met ongeveer 180 BPM en met 4/4 maatsoort. Als jouw muziek veel sneller of trager is, zullen sommige variabelen anders zijn, zoals aangegeven in [Scaling BPM on the Ranking Criteria](/wiki/Ranking_Criteria/Scaling_BPM).
 
-### Regels
+### Algemeen
+
+#### Regels
 
 De regels zijn wat ze zijn: **regels**. Het zijn **geen** richtlijnen, en mogen onder **geen enkele** omstandigheid worden gebroken.
 
@@ -50,7 +52,7 @@ De regels zijn wat ze zijn: **regels**. Het zijn **geen** richtlijnen, en mogen 
 - **Taiko sjabloonachtergronden mogen niet worden gebruikt.** Omdat er verschillende schermresoluties voorkomen, werken ze niet zoals ze oorspronkelijk bedoeld waren.
 - **Slidereindes (*sliderends*) mogen niet ten onrechte worden gesnapt om ontbrekende slider ticks te corrigeren.** Dit gedrag is onbedoeld en zal in de toekomst worden gecorrigeerd.
 
-### Richtlijnen
+#### Richtlijnen
 
 Richtlijnen mogen onder **uitzonderlijke** omstandigheden worden genegeerd. Deze uitzonderlijke omstandigheden moeten worden gerechtvaardigd door een uitgebreide uitleg over waarom de richtlijn is genegeerd en over waarom het niet negeren van deze richtlijn de algemene kwaliteit van de map zal verstoren.
 
