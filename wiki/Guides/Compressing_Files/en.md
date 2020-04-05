@@ -64,7 +64,7 @@ This section will show you how to compress the video in the file.
 
 ## Audio
 
-The audio bitrate determines a lot about the size of the audio file. Anything above 192kbps or under 128kbps is not allowed. You can use Audacity to change the bitrate of your audio files.
+The audio bitrate determines a lot about the size of the audio file. Anything above 192kbps or under 128kbps is not allowed. You can use [Audacity](https://www.audacityteam.org/) to change the bitrate of your audio files.
 
 1. Import the audio file into Audacity.
 
