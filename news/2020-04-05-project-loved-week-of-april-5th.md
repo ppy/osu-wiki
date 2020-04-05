@@ -62,7 +62,6 @@ Here's a great map for those of you wishing there were more genuine TAG4 maps in
 
 [Natsuko Aso - Lovely Girls Anthem (cobalt green EuroBeatRemix)](https://osu.ppy.sh/beatmapsets/199084#osu) by [Midge](https://osu.ppy.sh/users/2226436) and [cRyo\[iceeicee\]](https://osu.ppy.sh/users/835998)  
 152 BPM, 4:09 | 4.64★, 5.23★  
-The \[Easy\], \[Hard\] and \[Normal\] difficulties are *not* being nominated for Loved.  
 *description written by [DigitalHypno](https://osu.ppy.sh/users/4384207)*
 
 This lovely 152 BPM eurobeat remix of *Lovely Girls Anthem* is nothing short of catchy, and when paired with either of these maps by Midge and cRyo\[iceeicee\], it's nothing short of enjoyable. This mapset is overall super cozy to play, and it makes for a great map to practice with! Between the two difficulties in this mapset, there's fun to be had with every mod combination, so no matter what kind of player you are, be sure not to skip this one!
@@ -135,7 +134,7 @@ In Spring one sleeps, unaware of dawn; everywhere one hears crowing birds. The m
 170 BPM, 3:53 | 15.79★  
 *description written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
 
-Description
+It has been a while, so let's start the new Project Loved rotation with a bang. This is a collab between two of the most iconic players of osu!catch: ExGon and DakkyChan. If you are familiar with the history of Project Loved, then you are aware that those names are not unknown to our selection of maps. *At the Speed of Light* for example is a previous ExGon and DakkyChan collab that has been Loved. One of their trademarks in mapping is that they make their maps unforgivingly hard. *The Flawless Wings of Yatagarasu* is no exception. Like most of their other creations, this map has a lot of unique and creative patterns that are, despite their difficulty, really fun to play. If you are looking for a tough challenge, then this map should be right up your alley. Definitely make sure to give it a try!
 
 ## <a id="mania"></a>osu!mania
 
@@ -177,14 +176,14 @@ eZmmR and upan are back in the Loved nominations with a new face, -Muses-, prese
 [void - Sudden Romance](https://osu.ppy.sh/beatmapsets/759647#mania) by [\_underjoy](https://osu.ppy.sh/users/2235750) and [anti-](https://osu.ppy.sh/users/758406)  
 152 BPM, 4:39 | \[7K\] 6.98★, \[7K\] 7.44★, \[7K\] 8.42★, \[7K\] 5.84★, \[7K\] 6.63★
 
-Description
+Chordjack-oriented charts are definitely a rarity in osu!mania 7K, but *Sudden Romance* takes this pattern into full force. Presenting three different levels of difficulties, two of which have short versions, *Sudden Romance* provides 152 BPM 1/3rd chordjack action. Ranging from consistent triples on the lowest diff to continuous 5-note chords with 7-note presses on the top diff, this set should serve as a decent challenge and practice for anyone looking forward to smashing some chords.
 
 [![](/wiki/shared/news/2020-04-05-project-loved-week-of-april-5th/mania/6-polygon.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [Sota Fujimori - polygon](https://osu.ppy.sh/beatmapsets/1066137#mania) by [Player0](https://osu.ppy.sh/users/3662205)  
 174 BPM, 1:54 | \[7K\] 3.25★
 
-Description
+*polygon* is probably one of the most innovative storyboard charts we have to date. Throwing away the visual bounds of 7K, *polygon* manages to deliver something new to the table with visual gimmicks like that seen in VOEZ. Changing keycounts? Moving lanes? Notes going off-lane with variable speeds? This has it! Major props to Player0 for setting the bar and also revealing what can be done with storyboard notecharting for osu!mania. For non-7K or osu!mania players out there, even just watching this an autoplay is worth the effort and this is something definitely worth seeing.
 
 ---
 
