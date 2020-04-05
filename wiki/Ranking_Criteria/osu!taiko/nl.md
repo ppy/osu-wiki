@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # osu!taiko Ranking Criteria
 
 De **osu!taiko ranking criteria** zijn regels en richtlijnen die van toepassing zijn op het mappen van osu!taiko-specifieke moeilijkheidsgraden. Om een osu!taiko specifieke moeilijkheidsgraad ranked te krijgen, is het verplicht dat de creatie voldoet aan de genoemde criteria. Hoewel **alle regels onder alle omstandigheden moeten worden nageleefd**, mogen richtlijnen onder uitzonderlijke omstandigheden worden genegeerd. Deze uitzonderlijke omstandigheden moeten worden gerechtvaardigd door een uitgebreide uitleg over waarom de richtlijn is genegeerd en over waarom het niet negeren van deze richtlijn de algemene kwaliteit van de beatmap zal verstoren.
