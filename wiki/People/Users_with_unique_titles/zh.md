@@ -155,9 +155,7 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 
 ### 名人堂
 
-<!-- Same translation as osu!Alumni so add some comment -->
-*这里的名人堂所指的不是 [osu!Alumni](/wiki/People/osu!_Alumni)*
-<!-- 与 osu!Alumni 翻译相同故添加注释 -->
+*这里的名人堂所指的不是 [osu!Alumni](/wiki/People/osu!_Alumni)*<!-- Same translation as osu!Alumni so add some comment -->
 
 这三位玩家被授予 **osu! Hall of Famer** 头衔，作为高水平玩家在社区还未成熟时协助社区发展。
 
