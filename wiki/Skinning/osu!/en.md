@@ -1,6 +1,3 @@
-[true]: /wiki/shared/true.png
-[false]: /wiki/shared/false.png
-
 # osu! skinning
 
 *See also: [Skinning osu! Tutorial](/wiki/Skinning_osu!_Tutorial)*
@@ -763,3 +760,6 @@ Notes:
 
 - `hit300.png` must be skinned.
 - This element is used for `hit300`, `hit300g`, and `hit300k`.
+
+[true]: /wiki/shared/true.png
+[false]: /wiki/shared/false.png

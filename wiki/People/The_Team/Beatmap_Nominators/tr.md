@@ -2,9 +2,6 @@
 outdated: true
 ---
 
-[false]: /wiki/shared/false.png "No"
-[true]: /wiki/shared/true.png "Yes"
-
 # Beatmap Nomination Group (Beatmap Aday Gösterme Grubu)
 
 **Beatmap Nomination Group (Beatmap Aday Gösterme Grubu)**, yaygın adıyla BNG, [beatmap aday gösterme](/wiki/Beatmap_ranking_procedure) ile ilgilenen bir gruptur. Gruptaki bireyler tekil olarak genellikle Beatmap Nominator (Aday Gösterici), ya da BN olarak çağırılır.
@@ -181,3 +178,6 @@ Ayrıca not: oyun modları kolonları kullanıcın hangi oyun moduna odaklandı�
 | [Leniane](https://osu.ppy.sh/users/7138602) | Dutch |
 | [MEGAtive](https://osu.ppy.sh/users/3094101)          | Indonesian               |
 | [Rivals_7](https://osu.ppy.sh/users/4610379)          | Indonesian               |
+
+[false]: /wiki/shared/false.png "No"
+[true]: /wiki/shared/true.png "Yes"

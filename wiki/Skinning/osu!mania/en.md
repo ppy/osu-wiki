@@ -1,6 +1,3 @@
-[true]: /wiki/shared/true.png
-[false]: /wiki/shared/false.png
-
 # osu!mania skinning
 
 *See also: [Skinning osu!mania Tutorial](/wiki/Skinning_osu!mania_Tutorial)*
@@ -565,3 +562,6 @@ Notes:
 - This element is the lighting for the single notes (and tail notes).
 - This image is flipped horizontally if the stage is upside down.
 - This element is positioned where the centre of the judgement line crosses the centre of a lane.
+
+[true]: /wiki/shared/true.png
+[false]: /wiki/shared/false.png

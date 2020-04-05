@@ -3,9 +3,6 @@ needs_cleanup: true
 ---
 <!-- TODO: needs explanation -->
 
-[true]: /wiki/shared/true.png
-[false]: /wiki/shared/false.png
-
 # Skinning history
 
 The skinning elements listed here are no longer in use.
@@ -259,3 +256,6 @@ Notes:
 - This element was removed with the Stable (Fallback) stream.
 - Exclusively for Stable (Fallback) stream.
 - Must be enabled in the [options](/wiki/options) to see.
+
+[true]: /wiki/shared/true.png
+[false]: /wiki/shared/false.png
