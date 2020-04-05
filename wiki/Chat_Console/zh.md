@@ -1,7 +1,3 @@
----
-needs_cleanup: true
----
-
 # 聊天面板
 
 在 osu! 的绝大多数界面中，你都可以按下 `F8` 或者点击屏幕右下角的 `Show Chat` 按钮，聊天面板将会叠加在屏幕的下方。
@@ -74,7 +70,7 @@ needs_cleanup: true
 
 ## 命令列表
 
-### 帮助（输入 `/help`）
+### 帮助（输入 /help）
 
 | 命令 | 作用 | 示例 | BanchoBot 的回复 |
 | :-- | :-- | :-- | :-- |
@@ -97,7 +93,7 @@ needs_cleanup: true
 | `/nopm` | 设置允许所有人的私信，或仅允许好友的私信。 | `/nopm` | （ 屏幕将弹出一个横幅，显示你允许来自所有人的还是仅好友的私信 ） |
 | `/invite [玩家]` | 给 `[玩家]` 发送一个链接以将其邀请到你所在的房间。 | `/invite Nathanael` | * Nathanael has been invited to the game. *Nathanael 已被邀请至你所在的房间。* |
 
-### 按键功能（输入 `/keys`）
+### 按键功能（输入 /keys）
 
 | 键盘按键 | 作用 |
 | :-- | :-- |
