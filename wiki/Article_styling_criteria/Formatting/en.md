@@ -59,7 +59,7 @@ Front matter must be placed at the very top of the file. It is written in [YAML]
 
 The `needs_cleanup` tag may be added to articles that need rewriting or formatting help. It is also acceptable to open an issue on GitHub for this purpose.
 
-*Notice to translators: This tag is only needed if your translation needs rewriting or formatting help. This tag must not be copied over from the English article.*
+*Notice to translators: English articles with this tag should be avoided. This tag applies when the translation needs its own clean up and must not be blindly copied over from the English article.*
 
 For example:
 
@@ -71,15 +71,15 @@ When marking articles with this, [comments](#comments) should accompany this to 
 
 ### Outdated articles
 
-*Notice to translators: The `outdated` mark must be removed after updating the translation of an article.*
+*Notice to translators: English articles with this tag should be avoided.*
 
 Translated articles that are outdated must use the `outdated` mark when the English variant is updated. English articles may also become outdated when the content they contain is misleading or no longer relevant. For example:
-
-*Note: If the English article has this tag, all translations must have this tag as well.*
 
 ```yaml
 outdated: true
 ```
+
+*Note: If the English article has this tag, all translations must have this tag as well.*
 
 When marking articles with this, [comments](#comments) may accompany this to explain what content is outdated.
 
@@ -104,15 +104,15 @@ Sometimes, translations are added to the wiki without review from other native s
 no_native_review: true
 ```
 
-*Note to translators: Wiki maintainers will add this mark before merging.*
+*Note to translators: Wiki maintainers will determine and apply this mark prior to merging.*
 
-## Directory and file structure
+## Folder and file structure
 
 ### Folder names
 
 Folder names must be in English and use sentence case. They should match their English article titles as well.
 
-Folder names must not use URL reserved characters and must only use these characters:
+Folder names must only use these characters:
 
 - uppercase letters
 - lowercase letters
@@ -158,6 +158,12 @@ Bad example:
 HTML comments <!-- TODO explain what HTML comments are --> should be used for marking to-dos, but may also be used to annotate text. These should be on there own line.
 ```
 
+Okay example (take note of the spacing):
+
+```markdown
+HTML comments<!-- TODO explain what HTML comments are --> should be used for marking to-dos, but may also be used to annotate text. These should be on there own line.
+```
+
 Good example:
 
 ```markdown
@@ -185,7 +191,7 @@ Escaping Markdown syntax should be used when needed.
 
 <!-- Reference Discord; from:ppy#0001 during:2017-07-12 in:osu-wiki paragraph -->
 
-Each paragraph must be followed with one empty line.
+Each paragraph must be followed by one empty line.
 
 ## Hatnotes
 
