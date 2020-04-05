@@ -1,7 +1,3 @@
----
-needs_cleanup: true
----
-
 # 安装
 
 *另请参见：[安装 / macOS](/wiki/Installation/macOS)*
