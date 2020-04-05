@@ -160,7 +160,8 @@ snoverpk, as many high level players know, has his fair share of extremely diffi
 [![](/wiki/shared/news/2020-04-05-project-loved-week-of-april-5th/mania/3-jumpstream-of-fighters-vol-2b.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [(Various Artists) - Jumpstream Of Fighters Vol. 2B](https://osu.ppy.sh/beatmapsets/547215#mania) by [Leo137](https://osu.ppy.sh/users/1177817), [Manwon](https://osu.ppy.sh/users/4129020), [swiftwinter](https://osu.ppy.sh/users/3453387), [AZVW_2](https://osu.ppy.sh/users/6328227) and [blazziken](https://osu.ppy.sh/users/2544313)  
-200 BPM, 22:41 | [4K], 0.04★ – 6.02★
+200 BPM, 14:19 | [4K], 4.74★ – 6.02★  
+The [(Marathon) - Delete Upon Download] difficulty is *not* being nominated for Loved.
 
 There's some more StepMania coming your way with about half of a very popular pack released back in late 2016, being the *Jumpstream Of Fighters 2* pack! As the name is likely to tell you, the pack is themed around a range of jumpstream difficulties. This is not all that the pack has to offer, including some easier jack-based gameplay in the Medium chart for *satori de pon!* and the dump streams and tech found in *Live Nor Die*. With many of the charts having relatively simplistic structure and straightforward gameplay, the pack gained immense popularity among the StepMania players it was released for at the time, and of course has maintained a level of recognition and popularity in osu!mania for similar reasons. This is a callback to some of the charting styles used a few years ago, and a shoe-in for the Loved section.
 
