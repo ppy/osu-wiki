@@ -12,7 +12,7 @@
 
 *参见论坛帖子： [osu! community contributors](https://osu.ppy.sh/community/forums/posts/2489459)*
 
-| User | Contributions |
+| 玩家 | 贡献 |
 | :-- | :-- |
 | ![][flag_GB] [Darkimmortal](https://osu.ppy.sh/users/10886) | 开发了 [osu! 回放系统](https://osu.ppy.sh/community/forums/topics/108092) (将 .osr 回放文件录制成视频) |
 | ![][flag_DE] [nanashiRei](https://osu.ppy.sh/users/807630) | 建立并运行着 osu! 相关的时间最长的一个项目 [osu.yas-online.net 谱面镜像下载站](http://osu.yas-online.net/) |
@@ -34,7 +34,7 @@
 
 ### 三月
 
-| User | Contributions |
+| 玩家 | 贡献 |
 | :-- | :-- |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | 对 osu! wiki 的杰出贡献 |
 | ![][flag_MY] [RaikireHiuduo](https://osu.ppy.sh/users/1570014) | 对 osu! wiki 的杰出贡献 |
@@ -46,7 +46,7 @@
 
 *参见新闻报道： [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016)*
 
-| User | Contributions |
+| 玩家 | 贡献 |
 | :-- | :-- |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | 建立 [osu!学院](/wiki/osu!academy) |
 | ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958) | 帮助撰写 osu!weekly 和新闻 |
@@ -61,7 +61,7 @@
 
 *参见新闻报道： [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53)*
 
-| User | Contributions |
+| 玩家 | 贡献 |
 | :-- | :-- |
 | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) | 多年坚持并提高作图绘制质量，在许多场合提供了帮助，以帮助解决社区中的各种问题。 |
 
@@ -69,7 +69,7 @@
 
 *参见新闻报道： [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best)*
 
-| User | Contributions |
+| 玩家 | 贡献 |
 | :-- | :-- |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | 在作图指导方面起到模范作用 |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | 谱面管理事务中表现卓越 |
@@ -87,7 +87,7 @@
 
 *参见新闻报道：[Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017)*
 
-| User | Contributions |
+| 玩家 | 贡献 |
 | :-- | :-- |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | 常年担任 BAT/QAT，并在建立 osu!taiko 社区中做出了杰出贡献   |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | 在建立 osu!catch 社区，Ranking Criteria 重写及比赛事务中做出了杰出贡献 |
@@ -116,7 +116,7 @@
 
 *参见新闻报道：[Community Contributors: February 2019](https://osu.ppy.sh/home/news/2019-02-22-community-contributors-february-2019)*
 
-| User | Contributions |
+| 玩家 | 贡献 |
 | :-- | :-- |
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | 世界杯组织者 & osu! Coffee Hour 主办 |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | 对世界杯组织和其他锦标赛做出了杰出贡献 |
@@ -148,7 +148,7 @@
 
 *参见新闻报道：[Community Contributors: 2019](https://osu.ppy.sh/home/news/2020-02-07-community-contributors-2019)*
 
-| User | Contributions |
+| 玩家 | 贡献 |
 | :-- | :-- |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | 对社区事务，活动和锦标赛的杰出贡献 |
 | ![][flag_SG] [hehe](https://osu.ppy.sh/users/2123087) | 对作图场景，活动和锦标赛的杰出贡献 |
