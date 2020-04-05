@@ -1,47 +1,6 @@
-<!-- wikilink -->
-[osu!stream wikilink]: /wiki/osu!stream "osu!stream"
-
-<!-- img -->
-<!-- get me links -->
-[SL]: /wiki/osu!stream/img/Os-SL.jpg "Song List"
-[SI]: /wiki/osu!stream/img/Os-SI.png "Song Information"
-[Store]: /wiki/osu!stream/img/Os-Store.jpg "Store screen"
-
-[Demo load]: img/Os-Demo_Load.jpg "Loading Preview"
-[Demo song]: img/Os-Demo_Song.jpg "Preview Song Information"
-[Demo SU]: img/Os-Demo_SU.jpg "Preview Stream Up to Expert (Note: Does not occur in actual gameplay)"
-[Demo]: img/Os-Demo.jpg "Preview of Expert play"
-
-[dif2]: img/dif2.png "1"
-[dif3]: img/dif3.png "1.5"
-[dif4]: img/dif4.png "2"
-[dif5]: img/dif5.png "2.5"
-[dif6]: img/dif6.png "3"
-[dif7]: img/dif7.png "3.5"
-[dif8]: img/dif8.png "4"
-[dif9]: img/dif9.png "4.5"
-
-<!-- link -->
-[Sushi]: https://osu.ppy.sh/users/Sushi "Sushi"
-[RandomJibberish]: https://osu.ppy.sh/users/RandomJibberish "RandomJibberish"
-[mm201]: https://osu.ppy.sh/users/mm201 "mm201"
-[Gens]: https://osu.ppy.sh/users/Gens "Gens"
-[jericho2442]: https://osu.ppy.sh/users/jericho2442 "jericho2442"
-[IceBeam]: https://osu.ppy.sh/users/IceBeam "IceBeam"
-[Xgor]: https://osu.ppy.sh/users/Xgor "Xgor"
-[Samah]: https://osu.ppy.sh/users/Samah "Samah"
-[D33d]: https://osu.ppy.sh/users/D33d "D33d"
-[m980]: https://osu.ppy.sh/users/m980 "m980"
-[Krisom]: https://osu.ppy.sh/users/Krisom "Krisom"
-[Larto]: https://osu.ppy.sh/users/12328 "Larto"
-[Mashley]: https://osu.ppy.sh/users/Mashley "Mashley"
-[ouranhshc]: https://osu.ppy.sh/users/ouranhshc "ouranhshc"
-[Lybydose]: https://osu.ppy.sh/users/Lybydose "Lybydose"
-[Nakagawa-Kanon]: https://osu.ppy.sh/users/Nakagawa-Kanon "Nakagawa-Kanon"
-
 # osu!stream song list
 
-***[Click here to go back to osu!stream][osu!stream wikilink]***
+***[Click here to go back to osu!stream](/wiki/osu!stream)***
 
 - Most of the songs are original.
 - At the Store page, click on the bundle and preview the beatmaps inside before buying the pack. Song preview will be played.
@@ -55,10 +14,10 @@ Price: **Free**
 
 **Packlist:-**
 
-- [Haru☆ - March Handyman](https://osu.ppy.sh/beatmapsets/7850) - [Sushi][Sushi] - ![2][dif4]
+- [Haru☆ - March Handyman](https://osu.ppy.sh/beatmapsets/7850) - [Sushi](https://osu.ppy.sh/users/Sushi) - ![2](img/dif4.png "2")
   - http://viotex.matrix.jp/
   - http://skatepunkscafe.blog117.fc2.com/
-- Garbled Waves - Apatisk - [RandomJibberish][RandomJibberish] - ![3][dif6]
+- Garbled Waves - Apatisk - [RandomJibberish](https://osu.ppy.sh/users/RandomJibberish) - ![3](img/dif6.png "3")
   - http://soundcloud.com/garbled-waves/
   - [@GarbledWaves](https://twitter.com/GarbledWaves)
 
@@ -68,10 +27,10 @@ Price: **Free**
 
 **Packlist:-**
 
-- nekodex - Liquid Future - [mm201][mm201] - ![3.5][dif7]
+- nekodex - Liquid Future - [mm201](https://osu.ppy.sh/users/mm201) - ![3.5](img/dif7.png "3.5")
   - http://soundcloud.com/nekodex/
   - [@nekodex](https://twitter.com/nekodex)
-- [tieff & Natteke - Endless Tower](https://osu.ppy.sh/beatmapsets/17076) - [RandomJibberish][RandomJibberish] - ![1][dif2]
+- [tieff & Natteke - Endless Tower](https://osu.ppy.sh/beatmapsets/17076) - [RandomJibberish](https://osu.ppy.sh/users/RandomJibberish) - ![1](img/dif2.png "1")
   - https://osu.ppy.sh/users/natteke
   - https://osu.ppy.sh/users/tieff
   - [@Nattekee](https://twitter.com/Nattekee)
@@ -82,9 +41,9 @@ Price: **Free**
 
 **Packlist:-**
 
-- SkyMarshall - Hitchhikers - [Gens][Gens] - ![1.5][dif3]
+- SkyMarshall - Hitchhikers - [Gens](https://osu.ppy.sh/users/Gens) - ![1.5](img/dif3.png "1.5")
   - http://www.skymarshallarts.com/
-- [tieff & Natteke - Sunrise](https://osu.ppy.sh/beatmapsets/34430) - [jericho2442][jericho2442] - ![2][dif4]
+- [tieff & Natteke - Sunrise](https://osu.ppy.sh/beatmapsets/34430) - [jericho2442](https://osu.ppy.sh/users/jericho2442) - ![2](img/dif4.png "2")
   - https://osu.ppy.sh/users/natteke
   - https://osu.ppy.sh/users/tieff
   - [@Nattekee](https://twitter.com/Nattekee)
@@ -95,10 +54,10 @@ Price: **USD$1.99**
 
 **Packlist:-**
 
-- Cranky - 1970 - [IceBeam][IceBeam] - ![2][dif4]
-- Cranky - Crocus - [Xgor][Xgor] - ![2][dif4]
-- Cranky - Into the Unknown - [Samah][Samah] - ![4][dif8]
-- Cranky - Dee Dee Cee - [D33d][D33d] - ![4.5][dif9]
+- Cranky - 1970 - [IceBeam](https://osu.ppy.sh/users/IceBeam) - ![2](img/dif4.png "2")
+- Cranky - Crocus - [Xgor](https://osu.ppy.sh/users/Xgor) - ![2](img/dif4.png "2")
+- Cranky - Into the Unknown - [Samah](https://osu.ppy.sh/users/Samah) - ![4](img/dif8.png "4")
+- Cranky - Dee Dee Cee - [D33d](https://osu.ppy.sh/users/D33d) - ![4.5](img/dif9.png "4.5")
 
 **Source:-**
 
@@ -110,10 +69,10 @@ Price: **USD$1.99**
 
 **Packlist:-**
 
-- OK Go - All Is Not Lost - [mm201][mm201] - ![2.5][dif5]
-- OK Go - End Love - [RandomJibberish][RandomJibberish] - ![1.5][dif3]
-- [OK Go - This Too Shall Pass](https://osu.ppy.sh/beatmapsets/16424) - [m980][m980] - ![3.5][dif7]
-- [OK Go - WTF](https://osu.ppy.sh/beatmapsets/20159) - Team STREAM - ![3][dif6]
+- OK Go - All Is Not Lost - [mm201](https://osu.ppy.sh/users/mm201) - ![2.5](img/dif5.png "2.5")
+- OK Go - End Love - [RandomJibberish](https://osu.ppy.sh/users/RandomJibberish) - ![1.5](img/dif3.png "1.5")
+- [OK Go - This Too Shall Pass](https://osu.ppy.sh/beatmapsets/16424) - [m980](https://osu.ppy.sh/users/m980) - ![3.5](img/dif7.png "3.5")
+- [OK Go - WTF](https://osu.ppy.sh/beatmapsets/20159) - Team STREAM - ![3](img/dif6.png "3")
 
 **Source:-**
 
@@ -125,11 +84,11 @@ Price: **USD$2.99**
 
 **Packlist:-**
 
-- Koizumi UNDERGROUND - Get Back! - [D33d][D33d] - ![3.5][dif7]
-  - Koizumi Zehetbauer - Get Back! - [D33d][D33d] - ![3.5][dif7]
-- samplingmasters Koizumi - With Me - [D33d][D33d] - ![2][dif4]
-- samplingmasters Koizumi - Love is a Danger Zone - [D33d][D33d] - ![3][dif6]
-- samplingmasters Koizumi - Infinity Loop - [D33d][D33d] - ![3.5][dif7]
+- Koizumi UNDERGROUND - Get Back! - [D33d](https://osu.ppy.sh/users/D33d) - ![3.5](img/dif7.png "3.5")
+  - Koizumi Zehetbauer - Get Back! - [D33d](https://osu.ppy.sh/users/D33d) - ![3.5](img/dif7.png "3.5")
+- samplingmasters Koizumi - With Me - [D33d](https://osu.ppy.sh/users/D33d) - ![2](img/dif4.png "2")
+- samplingmasters Koizumi - Love is a Danger Zone - [D33d](https://osu.ppy.sh/users/D33d) - ![3](img/dif6.png "3")
+- samplingmasters Koizumi - Infinity Loop - [D33d](https://osu.ppy.sh/users/D33d) - ![3.5](img/dif7.png "3.5")
 
 **Source:-**
 
@@ -143,9 +102,9 @@ Price: **Free**
 
 **Packlist:-**
 
-- Bomb Boy - Ignition, Set, GO! - [D33d][D33d] - ![4][dif8]
+- Bomb Boy - Ignition, Set, GO! - [D33d](https://osu.ppy.sh/users/D33d) - ![4](img/dif8.png "4")
   - [@BomuBoi](https://twitter.com/BomuBoi)
-- [daniwellP - Nekomimi Switch](https://osu.ppy.sh/beatmapsets/12892) - Team STREAM - ![3.5][dif7]
+- [daniwellP - Nekomimi Switch](https://osu.ppy.sh/beatmapsets/12892) - Team STREAM - ![3.5](img/dif7.png "3.5")
   - http://dic.nicovideo.jp/a/daniwellp/
   - [@daniwell_aidn](https://twitter.com/daniwell_aidn)
 
@@ -155,13 +114,13 @@ Price: **USD$0.99**
 
 **Packlist:-**
 
-- Kenneth Nilsen - Space Music - [jericho2442][jericho2442] - ![3][dif6]
+- Kenneth Nilsen - Space Music - [jericho2442](https://osu.ppy.sh/users/jericho2442) - ![3](img/dif6.png "3")
   - http://soundcloud.com/keosni391
-- Kenneth Nilsen - Woohoo! - [Krisom][Krisom] - ![4][dif8]
+- Kenneth Nilsen - Woohoo! - [Krisom](https://osu.ppy.sh/users/Krisom) - ![4](img/dif8.png "4")
   - http://soundcloud.com/keosni391
-- NIGHTkilla - Fracture - [jericho2442][jericho2442] - ![3.5][dif7]
+- NIGHTkilla - Fracture - [jericho2442](https://osu.ppy.sh/users/jericho2442) - ![3.5](img/dif7.png "3.5")
   - http://soundcloud.com/qbiq-nightkilla
-- SkyMarshall - It's True - [jericho2442][jericho2442] - ![4][dif8]
+- SkyMarshall - It's True - [jericho2442](https://osu.ppy.sh/users/jericho2442) - ![4](img/dif8.png "4")
   - http://www.skymarshallarts.com/
 
 ## Odyssey Pack
@@ -170,10 +129,10 @@ Price: **USD$0.99**
 
 **Packlist:-**
 
-- Odyssey - Wings of Burning Love - [Larto][Larto] - ![3.5][dif7]
-- Odyssey - Cherry Blossoms (2010 Mix) - [Mashley][Mashley] - ![2.5][dif5]
-- Mortimer - River - [ouranhshc][ouranhshc] - ![2.5][dif5]
-- Travis Stebbins - Magnetic Love - [mm201][mm201] - ![1.5][dif3]
+- Odyssey - Wings of Burning Love - [Larto](https://osu.ppy.sh/users/12328) - ![3.5](img/dif7.png "3.5")
+- Odyssey - Cherry Blossoms (2010 Mix) - [Mashley](https://osu.ppy.sh/users/Mashley) - ![2.5](img/dif5.png "2.5")
+- Mortimer - River - [ouranhshc](https://osu.ppy.sh/users/ouranhshc) - ![2.5](img/dif5.png "2.5")
+- Travis Stebbins - Magnetic Love - [mm201](https://osu.ppy.sh/users/mm201) - ![1.5](img/dif3.png "1.5")
 
 **Source:-**
 
@@ -185,7 +144,7 @@ Price: **Free**
 
 **Packlist:-**
 
-- [Aperture Science - Want You Gone](https://osu.ppy.sh/beatmapsets/29296) - [Larto][Larto] - ![3.5][dif7]
+- [Aperture Science - Want You Gone](https://osu.ppy.sh/beatmapsets/29296) - [Larto](https://osu.ppy.sh/users/12328) - ![3.5](img/dif7.png "3.5")
   - http://thinkwithportals.com/
   - http://www.thinkwithportals.com/music.php (Volume 3)
   - [@portal2news](https://twitter.com/portal2news)
@@ -196,10 +155,10 @@ Price: **USD$0.99**
 
 **Packlist:-**
 
-- [Souleye - Positive Force](https://osu.ppy.sh/beatmapsets/12952) - [RandomJibberish][RandomJibberish] - ![2.5][dif5]
-- [Souleye - Pressure Cooker](https://osu.ppy.sh/beatmapsets/24271) - [Xgor][Xgor] - ![3][dif6]
-- Souleye - Potential for Anything - [Larto][Larto] - ![3.5][dif7]
-- Souleye - Passion for Exploring - [mm201][mm201] - ![1.5][dif3]
+- [Souleye - Positive Force](https://osu.ppy.sh/beatmapsets/12952) - [RandomJibberish](https://osu.ppy.sh/users/RandomJibberish) - ![2.5](img/dif5.png "2.5")
+- [Souleye - Pressure Cooker](https://osu.ppy.sh/beatmapsets/24271) - [Xgor](https://osu.ppy.sh/users/Xgor) - ![3](img/dif6.png "3")
+- Souleye - Potential for Anything - [Larto](https://osu.ppy.sh/users/12328) - ![3.5](img/dif7.png "3.5")
+- Souleye - Passion for Exploring - [mm201](https://osu.ppy.sh/users/mm201) - ![1.5](img/dif3.png "1.5")
 
 **Source:-**
 
@@ -211,10 +170,10 @@ Price: **USD$1.99**
 
 **Packlist:-**
 
-- [SHIKI - Lapis](https://osu.ppy.sh/beatmapsets/19230 ) - Team STREAM - ![2.5][dif5]
-- [SHIKI - Pure Ruby](https://osu.ppy.sh/beatmaps/82604) - [Lybydose][Lybydose] - ![4.5][dif9]
-- [SHIKI - BABYLON](https://osu.ppy.sh/beatmapsets/31373) - [Xgor][Xgor] - ![4][dif8]
-- [SHIKI - Jade Star](https://osu.ppy.sh/beatmapsets/19221) - [Nakagawa-Kanon][Nakagawa-Kanon] - ![3.5][dif7]
+- [SHIKI - Lapis](https://osu.ppy.sh/beatmapsets/19230 ) - Team STREAM - ![2.5](img/dif5.png "2.5")
+- [SHIKI - Pure Ruby](https://osu.ppy.sh/beatmaps/82604) - [Lybydose](https://osu.ppy.sh/users/Lybydose) - ![4.5](img/dif9.png "4.5")
+- [SHIKI - BABYLON](https://osu.ppy.sh/beatmapsets/31373) - [Xgor](https://osu.ppy.sh/users/Xgor) - ![4](img/dif8.png "4")
+- [SHIKI - Jade Star](https://osu.ppy.sh/beatmapsets/19221) - [Nakagawa-Kanon](https://osu.ppy.sh/users/Nakagawa-Kanon) - ![3.5](img/dif7.png "3.5")
 
 **Source:-**
 
@@ -224,44 +183,28 @@ Price: **USD$1.99**
 
 ---
 
-![Song List][SL]
-
-_Song List_
+![Song List](/wiki/osu!stream/img/Os-SL.jpg "Song List")
 
 ---
 
-![Song Information][SI]
-
-_Song Information_
+![Song Information](/wiki/osu!stream/img/Os-SI.png "Song Information")
 
 ---
 
-![Store screen][Store]
-
-_Store screen_
+![Store screen](/wiki/osu!stream/img/Os-Store.jpg "Store screen")
 
 ---
 
-![Loading Preview][Demo load]
-
-_Loading Preview_
+![Loading Preview](img/Os-Demo_Load.jpg "Loading Preview")
 
 ---
 
-![Preview Song Information][Demo song]
-
-_Preview Song Information_
+![Preview Song Information](img/Os-Demo_Song.jpg "Preview Song Information")
 
 ---
 
-![Preview Stream Up to Expert (Note: Does not occur in actual gameplay)][Demo SU]
-
-_Preview Stream Up to Expert (Note: Does not occur in actual gameplay)_
+![Preview Stream Up to Expert (Note: Does not occur in actual gameplay)](img/Os-Demo_SU.jpg "Preview Stream Up to Expert \(Note: Does not occur in actual gameplay\)")
 
 ---
 
-![Preview of Expert play][Demo]
-
-_Preview of Expert play_
-
----
+![Preview of Expert play](img/Os-Demo.jpg "Preview of Expert play")
