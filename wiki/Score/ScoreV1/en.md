@@ -4,22 +4,11 @@ needs_cleanup: true
 
 <!-- TODO: might be a useless article -->
 
-<!-- wiki -->
-[Score main wikilink]: .. "Score"
-[osu! wikilink]: /wiki/Game_Modes/osu! "osu!"
-<!-- [osu!taiko wikilink]: /wiki/Game_Modes/osu!taiko "osu!taiko" -->
-[osu!catch wikilink]: /wiki/Game_Modes/osu!catch "osu!catch"
-<!-- [osu!mania wikilink]: /wiki/Game_Modes/osu!mania "osu!mania" -->
-
-[CS wikilink]: /wiki/Beatmap_Editor/Song_Setup "more info can be found on Song Setup under Circle Size"
-[HP wikilink]: /wiki/Beatmap_Editor/Song_Setup "more info can be found on Song Setup under HP Drain"
-[OD wikilink]: /wiki/Beatmap_Editor/Song_Setup "more info can be found on Song Setup under Overall Difficulty"
-
 # ScoreV1
 
 **This page archive the old Score formula used before the implementation of ScoreV2 since 2007 (the birth of osu!)**
 
-**[Click here to return to the main Score page][Score main wikilink]**
+**[Click here to return to the main Score page](/wiki/Score)**
 
 ## osu!
 
@@ -42,7 +31,7 @@ Additional bonus of 1,000 points given for each spin of a spinner after the spin
 
 The **Difficulty multiplier** was calculated based on each map's star rating (the old one, before the introduction of performance points), which factored in object density, and was affected by the difficulty settings of the map as follows.
 
-[Circle Size (CS)][CS wikilink], [HP Drain (HP)][HP wikilink] and [Overall Difficulty (OD)][OD wikilink] each give a tick on _difficulty point_.
+[Circle Size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), [HP Drain (HP)](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) and [Overall Difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) each give a tick on _difficulty point_.
 
 The accumulated _difficulty points_ affect the **Difficulty multiplier** as so:-
 
@@ -81,7 +70,7 @@ For 4 - 4.5 star difficulties, _n_ is equal to 64 in which the maximum score per
 In the hardest case, _n_ is equal to 96 in which the maximum score per hit is 1,260/2,520.
 There are lower value of _n_ for even easier difficulties.
 
-Unlike [osu!standard][osu! wikilink]/[osu!catch][osu!catch wikilink], a miss in osu!taiko will not cause a _drastic_ score difference from the maximum possible score (in osu!standard/osu!catch, score deviation damage from a miss grows _wider_ the higher the maximum combo and especially breaking in around half combo of the maximum combo).
+Unlike [osu!standard](/wiki/Game_Modes/osu!)/[osu!catch](/wiki/Game_Modes/osu!catch), a miss in osu!taiko will not cause a _drastic_ score difference from the maximum possible score (in osu!standard/osu!catch, score deviation damage from a miss grows _wider_ the higher the maximum combo and especially breaking in around half combo of the maximum combo).
 Instead, a constant score of _n_ (explained above) is reduced per miss if each miss is separated by more than 100 combos.
 With the existence of shaker and large notes, score loss would be larger.
 
@@ -110,7 +99,7 @@ Exceptions:-
 
 ## osu!catch
 
-Scoring for osu!catch follows the same multiplier as in [osu!standard][osu! wikilink].
+Scoring for osu!catch follows the same multiplier as in [osu!standard](/wiki/Game_Modes/osu!).
 However, the fruit that adds up the score is different from osu!standard.
 
 - A regular sized fruit gives a score of 300 times the multiplier.
