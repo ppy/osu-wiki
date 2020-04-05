@@ -280,13 +280,13 @@ Do note that this does not apply to Tag Coop and Tag Team Vs (both are unrankabl
 
 The leaderboard now shows the players in the match with live changes based on Win Condition as shown below:-
 
-**Head to Head / Team Vs:-**
+**Head to Head / Team Vs:*
 
 - If Score/Score v2: Score, hit score and combo multiplier are shown in real-time.
 - If Accuracy: Accuracy, hit score and combo multiplier are shown in real-time.
 - If Combo: Combo count are shown in real-time. Maximum combo count not shown.
 
-**Tag Coop / Tag Team Vs:-**
+**Tag Coop / Tag Team Vs:*
 
 - If Score/Score v2: Team's score and hit score are shown in real-time.
 - If Accuracy: Team's accuracy percentage and hit score are shown in real-time.

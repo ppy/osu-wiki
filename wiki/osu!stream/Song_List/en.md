@@ -12,7 +12,7 @@
 
 Price: **Free**
 
-**Packlist:-**
+**Packlist:*
 
 - [Haru☆ - March Handyman](https://osu.ppy.sh/beatmapsets/7850) - [Sushi](https://osu.ppy.sh/users/Sushi) - ![2](img/dif4.png "2")
   - http://viotex.matrix.jp/
@@ -25,7 +25,7 @@ Price: **Free**
 
 Price: **Free**
 
-**Packlist:-**
+**Packlist:*
 
 - nekodex - Liquid Future - [mm201](https://osu.ppy.sh/users/mm201) - ![3.5](img/dif7.png "3.5")
   - http://soundcloud.com/nekodex/
@@ -39,7 +39,7 @@ Price: **Free**
 
 Price: **Free**
 
-**Packlist:-**
+**Packlist:*
 
 - SkyMarshall - Hitchhikers - [Gens](https://osu.ppy.sh/users/Gens) - ![1.5](img/dif3.png "1.5")
   - http://www.skymarshallarts.com/
@@ -52,14 +52,14 @@ Price: **Free**
 
 Price: **USD$1.99**
 
-**Packlist:-**
+**Packlist:*
 
 - Cranky - 1970 - [IceBeam](https://osu.ppy.sh/users/IceBeam) - ![2](img/dif4.png "2")
 - Cranky - Crocus - [Xgor](https://osu.ppy.sh/users/Xgor) - ![2](img/dif4.png "2")
 - Cranky - Into the Unknown - [Samah](https://osu.ppy.sh/users/Samah) - ![4](img/dif8.png "4")
 - Cranky - Dee Dee Cee - [D33d](https://osu.ppy.sh/users/D33d) - ![4.5](img/dif9.png "4.5")
 
-**Source:-**
+**Source:*
 
 - http://www.rave-slave.com/
 
@@ -67,14 +67,14 @@ Price: **USD$1.99**
 
 Price: **USD$1.99**
 
-**Packlist:-**
+**Packlist:*
 
 - OK Go - All Is Not Lost - [mm201](https://osu.ppy.sh/users/mm201) - ![2.5](img/dif5.png "2.5")
 - OK Go - End Love - [RandomJibberish](https://osu.ppy.sh/users/RandomJibberish) - ![1.5](img/dif3.png "1.5")
 - [OK Go - This Too Shall Pass](https://osu.ppy.sh/beatmapsets/16424) - [m980](https://osu.ppy.sh/users/m980) - ![3.5](img/dif7.png "3.5")
 - [OK Go - WTF](https://osu.ppy.sh/beatmapsets/20159) - Team STREAM - ![3](img/dif6.png "3")
 
-**Source:-**
+**Source:*
 
 - http://okgo.net/
 
@@ -82,7 +82,7 @@ Price: **USD$1.99**
 
 Price: **USD$2.99**
 
-**Packlist:-**
+**Packlist:*
 
 - Koizumi UNDERGROUND - Get Back! - [D33d](https://osu.ppy.sh/users/D33d) - ![3.5](img/dif7.png "3.5")
   - Koizumi Zehetbauer - Get Back! - [D33d](https://osu.ppy.sh/users/D33d) - ![3.5](img/dif7.png "3.5")
@@ -90,7 +90,7 @@ Price: **USD$2.99**
 - samplingmasters Koizumi - Love is a Danger Zone - [D33d](https://osu.ppy.sh/users/D33d) - ![3](img/dif6.png "3")
 - samplingmasters Koizumi - Infinity Loop - [D33d](https://osu.ppy.sh/users/D33d) - ![3.5](img/dif7.png "3.5")
 
-**Source:-**
+**Source:*
 
 - http://tsundererecordings.bandcamp.com/
 - http://koizumi.teknolust.org/
@@ -100,7 +100,7 @@ Price: **USD$2.99**
 
 Price: **Free**
 
-**Packlist:-**
+**Packlist:*
 
 - Bomb Boy - Ignition, Set, GO! - [D33d](https://osu.ppy.sh/users/D33d) - ![4](img/dif8.png "4")
   - [@BomuBoi](https://twitter.com/BomuBoi)
@@ -112,7 +112,7 @@ Price: **Free**
 
 Price: **USD$0.99**
 
-**Packlist:-**
+**Packlist:*
 
 - Kenneth Nilsen - Space Music - [jericho2442](https://osu.ppy.sh/users/jericho2442) - ![3](img/dif6.png "3")
   - http://soundcloud.com/keosni391
@@ -127,14 +127,14 @@ Price: **USD$0.99**
 
 Price: **USD$0.99**
 
-**Packlist:-**
+**Packlist:*
 
 - Odyssey - Wings of Burning Love - [Larto](https://osu.ppy.sh/users/12328) - ![3.5](img/dif7.png "3.5")
 - Odyssey - Cherry Blossoms (2010 Mix) - [Mashley](https://osu.ppy.sh/users/Mashley) - ![2.5](img/dif5.png "2.5")
 - Mortimer - River - [ouranhshc](https://osu.ppy.sh/users/ouranhshc) - ![2.5](img/dif5.png "2.5")
 - Travis Stebbins - Magnetic Love - [mm201](https://osu.ppy.sh/users/mm201) - ![1.5](img/dif3.png "1.5")
 
-**Source:-**
+**Source:*
 
 - http://odysseymusic.bandcamp.com/
 
@@ -142,7 +142,7 @@ Price: **USD$0.99**
 
 Price: **Free**
 
-**Packlist:-**
+**Packlist:*
 
 - [Aperture Science - Want You Gone](https://osu.ppy.sh/beatmapsets/29296) - [Larto](https://osu.ppy.sh/users/12328) - ![3.5](img/dif7.png "3.5")
   - http://thinkwithportals.com/
@@ -153,14 +153,14 @@ Price: **Free**
 
 Price: **USD$0.99**
 
-**Packlist:-**
+**Packlist:*
 
 - [Souleye - Positive Force](https://osu.ppy.sh/beatmapsets/12952) - [RandomJibberish](https://osu.ppy.sh/users/RandomJibberish) - ![2.5](img/dif5.png "2.5")
 - [Souleye - Pressure Cooker](https://osu.ppy.sh/beatmapsets/24271) - [Xgor](https://osu.ppy.sh/users/Xgor) - ![3](img/dif6.png "3")
 - Souleye - Potential for Anything - [Larto](https://osu.ppy.sh/users/12328) - ![3.5](img/dif7.png "3.5")
 - Souleye - Passion for Exploring - [mm201](https://osu.ppy.sh/users/mm201) - ![1.5](img/dif3.png "1.5")
 
-**Source:-**
+**Source:*
 
 - http://www.souleye.se/
 
@@ -168,14 +168,14 @@ Price: **USD$0.99**
 
 Price: **USD$1.99**
 
-**Packlist:-**
+**Packlist:*
 
 - [SHIKI - Lapis](https://osu.ppy.sh/beatmapsets/19230 ) - Team STREAM - ![2.5](img/dif5.png "2.5")
 - [SHIKI - Pure Ruby](https://osu.ppy.sh/beatmaps/82604) - [Lybydose](https://osu.ppy.sh/users/Lybydose) - ![4.5](img/dif9.png "4.5")
 - [SHIKI - BABYLON](https://osu.ppy.sh/beatmapsets/31373) - [Xgor](https://osu.ppy.sh/users/Xgor) - ![4](img/dif8.png "4")
 - [SHIKI - Jade Star](https://osu.ppy.sh/beatmapsets/19221) - [Nakagawa-Kanon](https://osu.ppy.sh/users/Nakagawa-Kanon) - ![3.5](img/dif7.png "3.5")
 
-**Source:-**
+**Source:*
 
 - http://shiki2.sakura.ne.jp/
 

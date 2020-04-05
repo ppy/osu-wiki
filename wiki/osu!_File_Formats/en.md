@@ -29,7 +29,7 @@
 
 ### From an archiver
 
-**Software needed:-**
+**Software needed:*
 
 -   File archiver (WinRAR, 7zip)
 -   osu! (For testing purpose and osu! icon)
@@ -59,7 +59,7 @@
 
 ### From the game
 
-**Software needed:-**
+**Software needed:*
 
 -   osu! (and nothing else, since the game can make .osz/.osk files)
 
