@@ -382,12 +382,12 @@ Dimanche, 16 Septembre 2018:
 
 | Équipe 1 |  |  | Équipe 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
-| **BabySnakes is Dumb** | **6** | 5 | TaikOwO | [#1](https://osu.ppy.sh/community/matches/45996362) ||
+| **BabySnakes is Dumb** | **6** | 5 | TaikOwO | [#1](https://osu.ppy.sh/community/matches/45996362) |
 | pneumonoultramicroscopicsilicovolcanoconiosis | 0 | **6** | **Samurai Pizza Cats** | [#1](https://osu.ppy.sh/community/matches/46001430) |
 | Nihongo Wakaranai | 5 | **6** | **The Tasuke Train** | [#1](https://osu.ppy.sh/community/matches/46004109) |
 | **jakpat** | **6** | 5 | ♂ Drum ♂ Spanking ♂ Festival ♂ | [#1](https://osu.ppy.sh/community/matches/46010398) |
 | **hello we play taiko** | **6** | 2 | not a taiko team xd | [#1](https://osu.ppy.sh/community/matches/46011967) |
-| **Hentaiko** | **6** | 4 | Press F for Ayachi | [#1](https://osu.ppy.sh/community/matches/46012877)
+| **Hentaiko** | **6** | 4 | Press F for Ayachi | [#1](https://osu.ppy.sh/community/matches/46012877) |
 | **MIStaikon** | **6** | 5 | Pißwasser | [#1](https://osu.ppy.sh/community/matches/46016090) |
 
 ### 16èmes de finale
