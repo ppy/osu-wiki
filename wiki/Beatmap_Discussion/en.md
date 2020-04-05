@@ -38,11 +38,11 @@ Mode selection changes the [game mode](/wiki/Game_mode) you are modding. It is o
 
 ## Beatmap header
 
+*For information about setting metadata, see: [Ranking Criteria § Metadata](/wiki/Ranking_Criteria#metadata)*
+
 ![](img/beatmap-header.jpg "Beatmap header")
 
 The beatmap header displays the title and artist provided in the [beatmap editor](/wiki/Beatmap_Editor). Clicking the beatmap header will navigate back to the info page.
-
-*For information about setting metadata, see: [Ranking Criteria § Metadata](/wiki/Ranking_Criteria#metadata)*
 
 ## Difficulty menu
 
@@ -106,9 +106,9 @@ The `Beatmap Page` button will navigate to a beatmap's info page. This can also 
 
 Modding happens through three tabs, which separate posts of different types and split them up into readable formats. Additionally, a fourth tab logs all changes. The number beside each tab describes the amount of posts in it.
 
-`General(All difficulties)` shows posts that apply to all difficulties. Common posts in this tab include metadata, notes and discussion on the beatmapset as a whole.
+`General (All difficulties)` shows posts that apply to all difficulties. Common posts in this tab include metadata, notes and discussion on the beatmapset as a whole.
 
-`General(This difficulty)` shows posts that only apply to the currently selected difficulty. Common posts in this tab include beatmap settings, recurring issues and general discussion on the selected difficulty.
+`General (This difficulty)` shows posts that only apply to the currently selected difficulty. Common posts in this tab include beatmap settings, recurring issues and general discussion on the selected difficulty.
 
 `Timeline` shows posts at specific points of a difficulty according to the first timestamp placed. Every post in this tab must include a timestamp to be posted. Any timestamps later on will have no influence on post order.
 
@@ -146,13 +146,13 @@ The timeline to the left of a discussion shows the timestamp the post addresses.
 
 ### Tags
 
-Tags display [important roles](/wiki/People/The_Team) below a users name. Only roles relevant for the beatmap discussion are shown. These include `MAPPER`, `BN`, `NAT`, `GMT` & `DEV` members who have more options than a regular user looking at a discussion page.
+Tags display [important roles](/wiki/People/The_Team) below a users name. Only roles relevant for the beatmap discussion are shown. These include `MAPPER`, `BN`, `NAT`, `GMT`, and `DEV` members who have more options than a regular user looking at a discussion page.
 
 ### Formatting tools
 
 Owners of a post on a discussion page can use formatting tools to make usage more painless. This includes permalinks, edits and deletions.
 
-`Permalink` grabs a direct link to a post. This will show up as a reference number `#1234567` to other users, which can be clicked to quickly move to the referenced post. This is especially useful when referencing issues across modposts.
+`Permalink` grabs a direct link to a post. This will show up as a reference number (e.g. `#1234567`) to other users, which can be clicked to quickly move to the referenced post. This is especially useful when referencing issues across modposts.
 
 `Edit` allows a user to edit their submission in case of mistakes. This is not intended to be used for replying to messages. Create a new reply instead.
 
