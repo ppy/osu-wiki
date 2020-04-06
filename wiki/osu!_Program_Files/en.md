@@ -118,14 +118,16 @@ The .dll files are components of osu!.exe so ignore it.
 -   avutil-49.dll
 -   bass.dll
 -   bass_fx.dll
--   d3dx9_31.dll
+-   d3dcompiler_47.dll
+-   libEGL.dll
+-   libGLESv2.dll
 -   Microsoft.Ink.dll
--   Microsoft.Xna.Framework.dll
+-   OpenTK.dll
 -   pthreadGC2.dll
--   x3daudio1_1.dll
 
 **osu! components**
 
 -   osu!gameplay.dll
+-   osu!seasonal.dll
 -   osu!ui.dll
 -   osu.dll
