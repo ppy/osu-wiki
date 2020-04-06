@@ -159,7 +159,7 @@ The osu!catch World Cup 2020 is run by various community members by distributing
 3. Each mappool consists of 16 maps in total.
 4. Each mappool has one tiebreaker.
 5. The NoMod bracket will be played with no mods activated.
-6. The Hidden, HardRock and DoubleTime bracket will be played with the respective modes activated.
+6. The Hidden, HardRock and DoubleTime bracket will be played with the respective mods activated.
    - When playing a map from the HardRock or DoubleTime pool, Hidden can be used optionally by any player.
 7. The tiebreaker will be played with no mods selected or with the Hidden mod.
 8. There will be 6 maps in the NoMod bracket for all stages.
