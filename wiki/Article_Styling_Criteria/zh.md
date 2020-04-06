@@ -592,7 +592,6 @@ JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
 
 *关于撰写英文文章的语法要求，请见：[文章风格规范(Englsih)/Grammar](/wiki/Article_Styling_Criteria?locale=en#Grammar)*
 
-
 ### osu!
 
 游戏名称 `osu!` ，及其官方名称不得使用大写或是斜体，并不使用任何空格。
