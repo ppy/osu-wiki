@@ -1,7 +1,7 @@
 ---
-outdated: true
+needs_cleanup: true
 ---
-<!-- TODO: outdated because there have been small changes to the program files, also seems to be missing seasonal assets -->
+<!-- TODO: lots of incomplete sentences and conflicting formatting -->
 
 # osu! program files
 
@@ -109,7 +109,7 @@ osu!.exe (Start-up osu!)
 
 #### .dll (application extension)
 
-These .dll files are components of osu!
+These .dll files are components of osu!.
 
 **Base components**
 
