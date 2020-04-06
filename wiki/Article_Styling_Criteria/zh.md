@@ -1,35 +1,115 @@
----
-outdated: true
----
-
 # 文章风格规范
 
-*相关文章：[文章风格规范——新闻篇](/wiki/ASC/News)*
+*相关文章：[文章风格规范——新闻篇](/wiki/News_Styling_Criteria)*
 
 文章风格规范（ASC）通过硬性规定来确保 osu!wiki 的文章通俗易懂，格式统一。
 
 所有的文章都应该力图做到无语病，无笔误，并提供准确的信息。记住，审稿人（Reviewer）会对你试图提交的文章进行审核并提出修改建议。一个好的 osu!wiki 作者应该阅读他们的修改建议并据此提高文章的整体质量，以确保读者能有更好的阅读体验。
 
+如果你对文章风格规范有任何建议，请在 Github 的 osu!wiki 仓库中 [发起 issue](https://github.com/ppy/osu-wiki/issues/new)。
+
 ## 仓库（Repository）文件夹
 
 本节的规则仅适用于 `wiki/` 下的文章。
 
-### 本地化
+## 本地化
 
-下面是 osu!wiki 允许的语言列表。如果你的语言不在此列，请在 [osu-web 仓库](https://github.com/ppy/osu-web/issues) 中提出这个问题（Issue）！
+下面是 osu!wiki 允许的语言列表。文件名是两个字符的语言代码 ([ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes "Wikipedia"))，扩展名为`.md`，如`zh.md`。如果语言在不同国家/地区存在差异，则文件名是两个字符的语言代码 ([ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes "Wikipedia"))，后跟一个连字号 (`-`)，两个字符的国家/地区代码 ([ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 "Wikipedia"))，扩展名为`.md`，如`zh-tw.md`。
 
 | 文件名 | 中文写法 | 当地写法 |
 | :-- | :-- | :-- |
 | `en.md` | 英语 | English |
+| `be.md` | 白俄罗斯语 | Беларуская мова |
+| `bg.md` | 保加利亚语 | Български |
+| `cs.md` | 捷克语 | Česky |
+| `da.md` | 丹麦语 | Dansk |
+| `de.md` | 德语 | Deutsch |
+| `gr.md` | 希腊语 | Ελληνικά |
 | `es.md` | 西班牙语 | Español |
+| `fi.md` | 芬兰语 | Suomi |
 | `fr.md` | 法语 | Français |
-| `it.md` | 印度语 | Italiano |
+| `hu.md` | 匈牙利语 | Magyar |
+| `id.md` | 印尼语 | Bahasa Indonesia |
+| `it.md` | 意大利语 | Italiano |
+| `ja.md` | 日本语 | 日本語 |
 | `ko.md` | 韩语 | 한국어 |
 | `nl.md` | 荷兰语 | Nederlands |
+| `no.md` | 挪威语 | Norsk |
 | `pl.md` | 波兰语 | Polski |
+| `pt.md` | 葡萄牙语 | Português |
 | `pt-br.md` | 葡萄牙语（巴西） | Português (Brasil) |
+| `ro.md` | 罗马尼亚语 | Română |
 | `ru.md` | 俄语 | Русский |
-| `zh.md` | 中文 | 中文 |
+| `sk.md` | 斯洛伐克语 | Slovenčina |
+| `sv.md` | 瑞典语 | Svenska |
+| `th.md` | 泰语 | ไทย |
+| `tr.md` | 土耳其语 | Türkçe |
+| `vi.md` | 越南语 | Tiếng Việt |
+| `zh.md` | 简体中文 | 简体中文 |
+| `zh-tw.md` | 繁体中文（台湾） | 繁體中文（台灣） |
+
+*请注意：osu!wiki 会为读者提供文章的所选语言版本，如果没有，会显示英文版本、*
+
+如果你的语言未在上面列出，则可以在 URL 后面附加 `?locale={langcode}` to the URL (其中 `{langcode}` 是你语言的两个小写字母的语言代码，列如 `https://osu.ppy.sh/help/wiki/Welcome?locale=zh` 无论选择哪种语言，都会为你提供欢迎文章的中文版) 或者在 [Crowdin 上协助翻译 osu-web](https://crowdin.com/project/osu-web)。如果你需要翻译网站的帮助或想要讨论翻译结果，你可以加入 [osu!dev Discord 服务器](https://discord.gg/ppy) 在 `#osu-web` 频道中讨论。
+
+### 内容均等
+
+从语法和句子结构上来说，翻译必须具有与原文相同的信息，这意味着翻译必须与英语文章严格地在内容上相等。对译文任何更改都必须与英文文章的含义相同。
+
+但在某些情况下，允许内容有所不同:
+
+- 最初以英语以外的其他语言撰写的文章（但在这种情况下，应以英语为被译文）。
+- 对在 osu! 社区中常见的英语单词的解释。
+- 外部链接
+- 标签
+
+### 元数据
+
+元数据（有些时候也被称为“前言”）必须放置在文件的最顶部。 他由 [YAML](https://baike.baidu.com/item/YAML/1067697 "YAML 百度百科条目") 编写，并描述了有关该文章的其他信息。元数据必须在其上下两行用三个连字符（`---`）包围，并且在其后必须有一行空行。
+
+#### 需要整理帮助的文章
+
+将 `needs_cleanup` 标记添加到需要重写或格式化帮助的文章中。为此，也可以在GitHub上发布问题（issue）。
+
+举个例子：
+
+```yaml
+needs_cleanup: true
+```
+
+#### 过期文章
+
+*请译者注意：更新文章翻译后，必须删除 `outdated` 标记。*
+
+当英语版本更新时，过时的翻译文章必须使用 `outdated` 标记，当英文文章包含的内容具有误导性或不再相关时，它们也可能会过期。
+
+再举个例子：
+
+```yaml
+outdated: true
+```
+
+#### 给文章添加标签
+
+标签可帮助网站的搜索引擎更好地寻找文章，因此尽可能的让标签与文章相关。标签应使用与文章相同的语言。
+
+例如，一篇名为“作图教程”的文章可能包含以下标记：
+
+```yaml
+tags:
+  - 教程
+  - 作图
+```
+
+#### 没有校对的翻译
+
+有时，一篇翻译文章因为各种原因没有经过母语校对而被添加到 wiki 中，在这种情况下，将添加 `no_native_review` 标记，以使将来的翻译者知道可能需要再次对其进行检查。
+
+举个例子：
+
+```yaml
+no_native_review: true
+```
 
 ### 文件夹名
 
@@ -41,6 +121,14 @@ outdated: true
 - 0 - 9 （数字）
 - `_` （下划线）
 - `!` （感叹号）
+
+#### 百分号编码
+
+文件夹名称不能使用需要百分比编码的字符。这些字符可能包括但不限于：
+
+- 空格
+  - 所有空格必须使用下划线代替 (`_`)
+- 撇号 (`'`)
 
 ### 文章的文件名
 
@@ -54,68 +142,83 @@ outdated: true
 
 索引页 **必须且只能** 链接到它的子文件夹，并且应该简短介绍它所链接到的文章。
 
+### 消歧义文章
+
+[消歧义](/wiki/Disambiguation)文章必须放在 `/wiki/Disambiguation` 目录下。主页必须进行更新包含消歧义的文章。比如：[Disambiguation/Mod](/wiki/Disambiguation/Mod)
+
+重定向必须进行更新，以使消歧义关键字重定向到消歧义文章。
+
 ## Markdown
 
 本节规则适用于全部文章。
+
 快速入门请参考[中文 Markdown 指南](http://www.appinn.com/markdown/)，下列内容仅说明如何正确使用。
-
-### GFM（GitHub Markdown 方言）
-
-GFM 是 osu!wiki 所支持的标记语言。
-
-GFM 的标记很少，以至于 **任何人** 都能在几分钟之内学会它！然而不要指望 Markdown 能做什么特别的东西，因为它只是一个轻量级的标记语言。
 
 #### HTML
 
+<!-- ppy说不让用HTML。 来自:ppy#0001 日期:2017-06-26 in:osu-wiki markdown -->
+
 **禁止使用 HTML 标签。** 如果你认为有必要使用 HTML ，请重新考虑你的排版方案。
 
-### 编辑源文件
+#### 注释
 
-在编辑源文件时，多个句子应该并作一行，而不是一句一行。
+HTML 注释可以用于注释文本。
 
-错误做法：
+### 编辑
 
-```
-osu!lazer 是开发中的 osu! 新版本。
-它将在未来取代现在的 osu!client 。
-如果你没有协助开发的意向，请 **不要** 报告你所遇到的问题，因为它仍处于开发阶段。
-```
+#### 行尾序列
 
-正确做法：
+<!-- 如果文件使用CRLF，则YAML解析将中断并显示为纯文本。 -->
 
-```
-osu!lazer 是开发中的 osu! 新版本。它将在未来取代现在的 osu!client 。如果你没有协助开发的意向，请 **不要** 报告你所遇到的问题，因为它仍处于开发阶段。
-```
+*请注意：在 Github 中上传以 `CRLF` 行尾的 Markdown 文件将导致这些文件使用 `CRLF`。为防止这种情况，请在上传前将行尾设置为 `LF`（换行）。*
+
+Markdown 文件必须使用 `LF` 行尾序列。
 
 #### 转义
 
-任何不用于 Markdown 标记的 Markdown 符号都应该进行转义，除非它们位于[代码](#代码)或[代码块](#代码块)中。
+*请注意：文章标题不得转义，标题解析为纯文本。*
 
-```
-osu!taiko 的冠军是 [\_yu68](https://osu.ppy.sh/users/6170507)。 \_yu68 是目前日本 osu!taiko 玩家排行榜的 \#1 。
-```
+必要时应转义 Markdown 语法。
 
 Markdown 中的转义字符是反斜杠（`\`）。若要使用反斜杠，应该使用 `\\` 。
+
+#### Paragraphs
+
+<!-- ppy ruled soft breaks are not allowed. from:ppy#0001 during:2017-07-12 in:osu-wiki paragraph -->
+
+每个段落后面必须有一个空行。
+
+### Hatnotes
+
+*请参见：[Hatnote 的维基百科](https://en.wikipedia.org/wiki/Wikipedia:Hatnote)*
+
+Hatnotes 是放在文章顶部（但在标题下方）或部分下方的简短注释。必须加斜体，不能以句号（`。`）结尾，并且必须紧跟标题或标题之后。 多个 Hatnotes 必须位于单独的行中，并以空行分隔。
+
+*关于撰写英文文章的 Hatnotes，请见：[文章风格规范(Englsih)/Hatnotes](/wiki/Article_Styling_Criteria?locale=en#hatnotes)*
 
 ### 强调
 
 **记住：过度强调会有反作用！**
 
-#### 粗体
+#### 加粗
 
-当你需要标注重点时，使用粗体。
+当你需要标注重点时，使用粗体。粗体必须使用双星号（`**`）。
 
-使用粗体的标记时，由于 CJK 文字的特殊性，标记两头需要空格才能正确解析。
+#### 斜体
+
+<!-- 不要用斜体标注"osu!"。 in:#osu-wiki from:ephemeralis#0001 during:2018-02-11 anymore -->
+
+在标注视频、游戏或作品名称时必须使用斜体。但不要把 `osu!` 用斜体标注。斜体必须使用单个星号（`*`）。
 
 ### 标题
 
-最高只能使用五级标题。
+在标题前后必须空一行，虽然不是必须的，但是这样能在编辑时方便地区分标题和内容。如果标题在整个文件的第一行时除外。
 
-如果你使用的是井号（`#`）风格的标记，确保标题文字和 `#` 间有一个空格，以保证 GFM 能正确解析。
-
-此外，在标题后空一行，虽然不是必须的，但是这样能在编辑时方便地区分标题和内容。
+最高只能使用五级标题，并且不得设置文字样式或格式。
 
 #### 文章标题
+
+*请注意：不得将文章标题转义，因为它们被解析为纯文本。*
 
 **每篇文章都应该有一个标题，并使用一级标题。**
 
@@ -131,17 +234,9 @@ Markdown 中的转义字符是反斜杠（`\`）。若要使用反斜杠，应�
 
 与文章标题不同，小节标题允许使用小图标。
 
-每节 **必须** 包含一些内容，即使它的标题已经概括了它的子章节。例如：
+每节 **必须** 包含一些内容，即使它的标题已经概括了它的子章节。
 
-```
-## 游戏模式
-
-*另见：[游戏模式]/wiki/game_modes)。*
-
-### ![](/wiki/shared/Osu.gif) osu!
-
-osu! is a frustrating but fun circle-clicking simulator.
-```
+*请注意：在 osu!wiki 中，四级标题和五级标题不会出现在目录中，且无法直接进行跳转。*
 
 ### 列表
 
@@ -153,53 +248,195 @@ osu! is a frustrating but fun circle-clicking simulator.
 
 当列表顺序重要时，使用数字风格。此时数字最好是递增的，尽管 Markdown 语法对此没有要求。
 
+请确保项目符号或数字与其父列表的内容对齐。
+
+错误示范：
+
+```markdown
+1. 游戏模式
+  - osu!standard
+  - osu!taiko
+  - osu!catch
+  - osu!mania
+```
+
+正确示范
+
+```markdown
+1. 游戏模式
+   - osu!standard
+   - osu!taiko
+   - osu!catch
+   - osu!mania
+```
+
+#### 项目列表
+
+项目列表必须使用连字符（`-`）或加号（`+`）。整篇文章中使用的符号必须一致。必须在这些符号后跟一个空格。例如：
+
+```markdown
+- osu!standard
+  - Hit circle
+    - Combo number
+    - Approach circle
+  - Slider
+    - Hit circles
+    - Slider body
+    - Slider ticks
+  - Spinner
+- osu!taiko
+```
+
+#### 编号列表
+
+<!-- 解析器检查编号列表中的起始编号。如果存在某些东西（例如图像，代码块）将列表分开，则编号可能会混乱。 -->
+
+编号列表中的数字必须按顺序排序。
+
+```markdown
+1. 下载 osu! 安装程序。
+2. 运行安装程序。
+   1. 要更改安装位置，请单击进度条下方的文本。
+   2. 安装程序将提示您选择新位置。
+3. osu! 安装完成后会自动启动。
+4. 登陆。
+```
+
+#### 混合列表
+
+项目列表和编号列表的混合列表应尽量减少。
+
+```markdown
+1. 从论坛下载皮肤。
+2. 将皮肤文件加载到 osu! 中。
+   - 如果文件是 `.zip`，将其解压缩并将其内容移至 `Skins/` 文件夹（可在 osu! 安装文件夹中找到）。
+   - 如果文件是 `.osk`，请在您的文件夹中将其打开或将其拖放到游戏客户端中。
+3. 打开 osu!（如果你还没打开），然后在选项中选择皮肤。
+   - 如果您打开 `.osk` 文件或将其拖放到游戏客户端中，则会自动启用皮肤。
+```
+
 ### 代码
 
-使用反括号(`` ` ``)将代码包裹。
+使用反引号（`` ` ``）将代码包裹。
 
-以下几种情况需要使用它：（使用原文）
+#### 键盘按键
 
-- 键盘按键
-- 按钮或菜单上的文字
-- 文件名、文件夹名、目录名、扩展名、命令
-- 聊天频道名
+*请注意：当表示的是字母本身而不是键盘按键时，请使用引号。*
+
+表示单个按键时请将其大写，特殊按键请将第一个符号大写，列如：
+
+```markdown
+按下 `Ctrl` + `O` 打开的对话框。
+```
+
+空格键请用 `` `空格键` `` 表示。
+
+#### 按钮和菜单文字
+
+从菜单或按钮复制文本时，应按显示的字母大小写进行复制。例如：
+
+```markdown
+如果您是 osu!supporter，则可以在菜单右侧看到 `osu!direct` 按键。
+```
+
+#### 文件夹和目录名称
+
+复制文件夹或目录的名称时，应按显示的字母大小写进行复制，但尽可能使用小写路径。目录路径不能是绝对路径（即，不要从驱动器号或根文件夹开始复制目录名称）。
+
+举个例子：
+
+```markdown
+osu! 的默认安装路径是 `AppData/Local`，但你可以在安装之前手动修改它。
+```
+
+#### 关键词和命令
+
+复制关键字或命令时，应按它显示的字幕大小写进行复制（如果适用，最好使用小写字母）。
+
+举个例子：
+
+```markdown
+到目前为止，(`skin.ini`) 中的 `Name` 和 `Author` 参数没有任何用处。
+```
+
+#### 文件名称
+
+复制文件名时，应按显示的字母大小写进行复制。
+
+```markdown
+双击 `osu!.exe` 图标打开游戏。
+```
+
+#### 文件扩展名
+
+*请注意：文件格式（不要与文件扩展名混淆）必须以大写字母书写，且不带英文句号（.）。*
+
+文件扩展名必须以英文句号（`.`）为前缀，后跟小写字母的文件扩展名。
+
+举个例子：
+
+```markdown
+JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
+```
+
+#### 聊天频道
+
+复制聊天频道的名称时，请以井号（＃）开头，然后是小写字母频道名称
+
+举个例子：
+
+```markdown
+`#lobby` 是您可以宣传多人游戏房间的地方。
+```
 
 ### 代码块
 
-在 osu!wiki 中不需要使用代码高亮的语法。
+代码块必须使用三重反引号（`` ``` ``）。如果需要，可以将代码块设置为特定语言以启用语法突出显示。但是，网站上尚未实现代码块的语法高亮显示。
 
 ### 链接
 
-当某个链接需要多次使用的时候，例如国旗的链接，使用关联式链接（Reference links）以缩短文章实际长度。如果只使用了一两次，使用内联式链接（Inline links）即可。
+链接有两种类型，一种是普通风格，另一种是赋值风格。
 
-如果使用关联式链接，将关联对放在文章的开头。
+**普通风格：**
 
-#### 内部链接
-
-内部链接仅能用于链接 osu-wiki 内的文件！记住：相对链接的根目录是 osu-wiki 仓库，并且链接到文章时不需要指定文件名！
-
-不要使用类似“点击此处”的文字作为链接文字，应该使用它的文章标题。
-
-##### 重定向
-
-为了简便， osu!wiki 提供了一套重定向系统。
-
-所有的重定向对可以在 [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) 中找到，左边的是重定向缩写，右边的是它在 `/wiki/` 文件夹下所对应的文件夹。
-
-用法：
-对于这样的一对关联对：
-
-```
-"asc":      "Article_Styling_Criteria"
+```markdown
+[Game Modifiers](/wiki/Game_Modifiers)
 ```
 
-你可以这样使用：`[文章风格规范](/wiki/ASC)`。这样写等同于`[文章风格规范](/wiki/Article_Styling_Criteria)` ，因为重定向对大小写不敏感。
+**赋值风格：**
 
-#### 外部链接
+```markdown
+[Game Modifiers][game mods link]
 
-优先使用 `https` 协议，并且不要使用任何的协议链接，例如 `//example.com` 。
+[game mods link]: /wiki/Game_Modifiers
+```
 
-外部链接必须直接链接到它对应的资源，并使用它的标题作为链接文字。
+如果链接仅被引用一次，则必须使用前者。而后者必须把变量赋值放在文章的结尾处。
+
+链接文本不能是 URL 本身，也不能使用英语单词 `here`。
+
+#### 内部连结
+
+*内部链接是指位于 `https://osu.ppy.sh/` 域名内的链接。*
+
+##### 维基链接
+
+所有指向 osu!wiki 文章的链接都必须以 `/wiki/` 开头，后跟指向的文章的路径。
+
+举个例子：
+
+```markdown
+[欢迎](/wiki/Welcome)
+[pippi](/wiki/Mascots#-pippi)
+```
+
+---
+
+维基链接不得使用重定向。
+
+##### 其他 osu! 网页
+
+链接到其他 osu! 网页时，应使用浏览器地址栏中的URL。网址中的 `https://osu.ppy.sh` 部分必须保留。
 
 ##### 个人资料
 
@@ -247,32 +484,93 @@ osu! is a frustrating but fun circle-clicking simulator.
 
 此时链接格式应该为： `https://osu.ppy.sh/beatmapsets/{谱面集 ID}` 。
 
+#### 外部链接
+
+*外部链接是指位于 `https://osu.ppy.sh/` 域名以外的链接。*
+
+<!-- ppy ruled no relative protocol links. in:#osu-wiki during:2017-02-11 from:ppy#0001 https -->
+
+优先使用 `https` 协议，并且不要使用任何的协议链接，例如 `//example.com` 。
+
+<!-- 建议将外部站点名称放在标题文本中。 in:osu-wiki during:2018-06-24 from:TPGPL#9098 hover -->
+
+外部链接必须直接链接到它对应的资源，并使用它的标题作为链接文字。
+
+列如：
+
+```markdown
+*关于 Music theory 的更多信息，请见：[Music theory](https://en.wikipedia.org/wiki/Music_theory "Wikipedia")*
+```
+
+#### 重定向
+
+为了简便， osu!wiki 提供了一套重定向系统。
+
+所有的重定向对可以在 [`redirect.yaml`](https://github.com/ppy/osu-wiki/blob/master/wiki/redirect.yaml) 中找到，左边的是重定向缩写，右边的是它在 `/wiki/` 文件夹下所对应的文件夹。
+
+用法：
+对于这样的一对关联对：
+
+```
+"asc":      "Article_Styling_Criteria"
+```
+
+你可以这样使用：`[文章风格规范](/wiki/ASC)`。这样写等同于`[文章风格规范](/wiki/Article_Styling_Criteria)` ，因为重定向对大小写不敏感。
+
 ### 图片
 
-*参见: [文章风格规范——图片篇](/wiki/Article_Styling_Criteria/Images).*
+图片也有两种类型：
 
-建议为图片建立独立的一个文件夹（例如 `img/` 文件夹）。当某个图片需要多个文章使用的时候，将它放到 `/wiki/shared/` 文件夹下。
+**普通风格：**
+
+```markdown
+![](/wiki/shared/flag/AU.gif)
+```
+
+**赋值风格：**
+
+```markdown
+![][flag_AU]
+
+[flag_AU]: /wiki/shared/flag/AU.gif
+```
+
+如果图片仅被引用一次，则必须使用前者。而后者必须把变量赋值放在文章的结尾处。
+
+*关于撰写英文文章的图片要求，请见：[文章风格规范(Englsih)/Images](/wiki/Article_Styling_Criteria?locale=en#Images)*
 
 ### 表格
 
-表格使用 GFM 语法来建立，如果你感觉非要使用 HTML 来实现某些 GFM表格 所不支持的特性，请重新组织文字。
+在 osu!wiki 中，表格标题仅支持显示在第一行。
 
-这是一个可视化的表格生成工具:
+表格**不能**被美化。它们的左右两侧都必须有一个竖线（`|`），并且每个单元格的文本两侧必须用一个空格填充。空单元格使用竖线（`|`），后接两个空格，然后再使用另一个竖线（`|`）。
 
-- [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables)
+定界符行（将表头与表体分隔开的行）每列必须仅使用三个字符（并在两侧填充空格），其外观必须类似于以下之一：
 
-#### 美化表格
+- `---` (左对齐)
+- `:--` (左对齐)
+- `:-:` (居中)
+- `--:` (右对齐)
 
-是否需要美化表格取决于你。
+在整篇文章中，左对齐定界符必须始终保持一致。
 
-美化的表格会有利于编辑，但是对于启用了自动折行的编辑者来说，它们会一团糟。此外，美化表格带来的后果是编辑某行会需要你重新美化整个表格。
+---
 
-下面是一些美化表格工具：
+举个例子
 
-- VS Code 的 Native Beautifier
-  - 你需要使用 [VS Code](https://code.visualstudio.com/) 。
-- [Markdown Table Formatter](http://markdowntable.com/)
-  - 对齐语法标记（`:`）不能正确解析。
+```markdown
+| 红队 | 分数 | 蓝队 | 谱面平均难度 |
+| :-- | :-: | --: | :-- |
+| **peppy** | 5 - 2 | pippi | 9.3 |
+| Aiko | 1 - 6 | **Alisa** | 4.2 |
+| Ryūta | 3 - 4 | **Yuzu** | 5.1 |
+| **Taikonator** | 7 - 0 | Tama | 13.37 |
+| Maria | 没有进行比赛 | Mocha |  |
+```
+
+### 引用
+
+引用仅限于引用某人的文本。
 
 ### 分割线
 
@@ -282,8 +580,211 @@ osu! is a frustrating but fun circle-clicking simulator.
 
 - 将图片与文字分开
 - 分割每段
+- 转移话题
 
-使用分割线的时候，其上下的一行必须为空行，否则会被解析为二级标题。
+使用分割线的时候，其上下的一行必须为空行，否则会被解析为二级标题。如下所示：
+
+```markdown
+---
+```
+
+## 语法
+
+*关于撰写英文文章的语法要求，请见：[文章风格规范(Englsih)/Grammar](/wiki/Article_Styling_Criteria?locale=en#Grammar)*
+
+
+### osu!
+
+游戏名称 `osu!` ，及其官方名称不得使用大写或是斜体，并不使用任何空格。
+
+- `osu!academy`
+- `osu!api`
+- `osu!catch`
+- `osu!direct`
+- `osu!keyboard`
+- `osu!mania`
+- `osu!store`
+- `osu!stream`
+- `osu!supporter`
+- `osu!tablet`
+- `osu!taiko`
+- `osu!talk`
+- `osu!tourney`
+
+其他非官方名称必须添加空格。
+
+- `osu! tournaments`
+- `osu! community`
+- `osu! chat`
+- `osu! client`
+- `osu! wiki`
+
+包括 `osu!` 的用户头衔也需要添加空格，且在开头大写。
+
+- `osu! Alumni`
+- `osu! Champion`
+
+---
+
+<!-- Ephemeral要求使用句号. in:osu-wiki during:2018-05-30 from:ephemeralis#0001 stop -->
+
+`osu!` 不能放在结尾，如果因为各种原因必须放在结尾，请使用句号（`.`）结尾（如果合适也可以使用问号（`？`））。比如：`osu!。` 或 `osu!？`
+
+但 `osu!` 不允许以叹号（`!`）结尾。比如：`osu!！`
+
+### 拼写
+
+*关于撰写英文文章的拼写要求，请见：[文章风格规范(Englsih)/Capitalisation](/wiki/Article_Styling_Criteria?locale=en#Capitalisation)*
+
+#### 游戏 Mod
+
+它们的拼写必须如下所示（字母大小写和间距必须与下方相同）：
+
+- `Easy` 或 `EZ`
+- `No Fail` 或 `NF`
+- `Half Time` 或 `HT`
+- `Daycore` 或 `DC`
+- `Hard Rock` 或 `HR`
+- `Sudden Death` 或 `SD`
+- `Perfect` 或 `PF`
+- `Double Time` 或 `DT`
+- `Nightcore` 或 `NC`
+- `Fade In` 或 `FI`
+- `Hidden` 或 `HD`
+- `Flashlight` 或 `FL`
+- `Relax` 或 `RL`
+- `Autopilot` 或 `AP`
+- `Target Practice` 或 `TP`
+- `Spun Out` 或 `SO`
+- `1K`，`2K`，`3K`，`4K`，`5K`，`6K`，`7K`，`8K`，和 `9K`
+  - 如有以上未提及的键位请使用 `xK`。
+- `Co-op` 或 `CO`
+- `Random` 或 `RD`
+- `Auto` 或 `AT`
+- `Cinema` 或 `CM`
+- `Touch Device` 或 `TD`
+
+---
+
+比赛文章是个例外，对于不使用 Mod 的地图池，它们的拼写必须如下所示（字母大小写和间距必须与下方相同）：
+
+- `No Mods`，`No Mod`，`NoMods`，`NoMod`，或 `NM`
+- `Free Mods`，`Free Mod`，`FreeMods`，`FreeMod`，或 `FM`
+- `Tiebreaker`
+
+#### 专有名字（英文）
+
+专有名词必须首字母大写。例如：
+
+```markdown
+Dean Herbert（也就是 peppy）在2007年创造了osu。
+```
+
+#### 商标
+
+*关于 osu! 的商标，请见：[osu!](#osu!)*
+
+如果没有官方翻译，以下商标必须拼写如下（字母大小写必须匹配）：
+
+- `Discord`
+- `Facebook`
+- `GitHub`
+- `Google`
+- `Reddit`
+- `Skype`
+- `Twitch`
+- `Twitter`
+- `YouTube`
+
+商标后不得带有商标或注册商标符号。
+
+### 游戏模式
+
+<!-- ppy 规定 std 的名字继续使用 osu!standard，直到创造了一个新名词。 in:#osu-wiki from:ppy#0001 during:2017-07-12 osu!standard -->
+
+游戏模式必须拼写如下：
+
+- `osu!standard` (非官方，用于防止歧义)
+- `osu!taiko`
+- `osu!catch`
+- `osu!mania`
+
+*注意：`osu!standard` 用于保持游戏模式名字的一致性。但是如果文件夹名称指的是游戏模式，也必须使用 `osu!` 而不是 `osu!standard`。*
+
+如果需要使用游戏的旧名称，则游戏模式必须拼写如下：
+
+ - `Catch the Beat`
+ - `Taiko`
+ - `Mania`
+
+---
+
+诸如 [Ranking Criteria](/wiki/Ranking_Criteria) 类似的文章使用 `osu!` 代替 `osu!standard`。
+
+### 缩写
+
+*关于撰写英文文章的缩写，请见：[文章风格规范(Englsih)/Abbreviations, acronyms, and initialisms](/wiki/Article_Styling_Criteria?locale=en#abbreviations,-acronyms,-and-initialisms)*
+
+缩写必须大写，例如：
+
+- `CS` > `Circle Size`
+- `AR` > `Approach Rate`
+- `DT` > `Double Time`
+- `SBS` > `Storyboard Scripting`
+- `BN` > `Beatmap Nominators`
+
+### 日期和时间
+
+#### 日期格式
+
+*有关日期格式的信息，请见：[维基百科的日期格式样式](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Formats)*
+
+日期格式在整篇文章中必须保持一致。
+
+#### 时间格式
+
+时间格式必须使用以下格式进行：
+
+```markdown
+HH:MM TIMEZONE
+```
+
+时间以 24 小时制，任何单位数字必须以零开头。时区跟随在最后，使用 `UTC` 代替 `GMT`，如果是全球活动，请使用 `UTC+0`。
+
+错误做法:
+
+```markdown
+3:30 PM UTC
+22:30 (UTC+7)
+11:30
+```
+
+正确做法:
+
+```markdown
+15:30 UTC
+22:30 UTC+7
+11:30 UTC-4
+```
+
+`UTC` 等同于 `UTC+0`。但如果偏移值不等于0，请使用（`UTC+X`）。
+
+#### 日期和时间格式
+
+当日期和时间一起使用时，必须先写日期，再写时间。时间必须在圆括号（`(`和`)`）之间。例如：
+
+错误做法:
+
+```markdown
+October 25, 2016 at 11:45 UTC
+October 25, 2016 11:45 UTC
+```
+
+正确做法:
+
+```markdown
+October 25, 2016 (11:45 UTC)
+```
 
 ## 中文相关
 
@@ -344,6 +845,8 @@ osu! is a frustrating but fun circle-clicking simulator.
 
 在一个句子中枚举词语时，使用顿号分隔。
 
+例如：
+
 - osu! 的游戏模式有: osu!standard 、 osu!taiko 、 osu!catch 和 osu!mania 。
 
 #### 英文标点
@@ -353,16 +856,19 @@ osu! is a frustrating but fun circle-clicking simulator.
 ### 中英混用
 
 如果英文单词需要在中文句子中出现，那么在单词两头空格。
+
 例如：
 
 - 游戏的名称 `osu!` **永远不大写**，即使是在句子的开头。
 
 如果英文单词出现在句子开头，则不需要在单词前面空格。
+
 如果英文单词出现在句子结尾，那么同样需要两头空格并正确使用终结符。
 
 ### 首行缩进
 
 在书写时，大部分人习惯开头空两格，但是在 osu!wiki ，这是不允许的。
+
 空两格的目的是为了区分每段，由于 wiki 在段之间已经留出了足够多的空间，所以不允许首行缩进。
 
 ### 部分翻译规范
