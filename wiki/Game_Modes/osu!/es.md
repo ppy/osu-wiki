@@ -122,7 +122,7 @@ En otras palabras: `Precisión = Puntos totales de golpe / (Número total de gol
 | Termino | Formula |
 | :-: | :-- |
 | **Puntos totales de golpes** | `(50 s * 50 p) + (100 s * 100 p) + (300 s * 300 p)` |
-| **Número total de golpes** | `(Fallos + 50s + 100s + 300s) * 300` |
+| **Número total de golpes** | `Fallos + 50s + 100s + 300s` |
 | **s** | Número de |
 | **p** | Puntos |
 
