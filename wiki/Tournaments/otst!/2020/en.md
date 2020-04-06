@@ -285,6 +285,22 @@ Sunday, 12 April 2020:
 
 ## Match results
 
+### Finals
+
+Saturday, 4 April 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ＝ＹＡＨＥ | 3 | **7** | **seusbruk** | [#1](https://osu.ppy.sh/community/matches/59983820) |
+| osim | 0 | **7** | **will is 2** | [#1](https://osu.ppy.sh/community/matches/59988159) |
+| **Rubber Conquest** | **8** | 7 | floating up | [#1](https://osu.ppy.sh/community/matches/59991769) |
+
+Sunday, 5 April 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| will is 2 | 1 | **6** | **seusbruk** | [#1](https://osu.ppy.sh/community/matches/60030302) |
+
 ### Semifinals
 
 Saturday, 28 March 2020:
