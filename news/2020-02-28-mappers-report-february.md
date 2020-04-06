@@ -139,7 +139,9 @@ For the avid fruit catchers of the world, the **6th osu! Mapping Olympiad** has 
 
 The fantastic Chinese community organized tournament **Newspaper Cup** has made its yearly appearance and has now begun! This will be the contest's 6th yearly installment, making it one of the longest standing community organized mapping contests. All of the relevant information can be found [in this forum post](https://osu.ppy.sh/community/forums/topics/1023671) in both Chinese and English. You have until **March 15th** to submit your entries for one or more of the 4 available songs. Good luck to those planning on entering their creations into the contest!
 
-## <a id="conclusion"></a>Conclusion
+<a id="conclusion"></a>
+
+---
 
 Make sure to tune in to the next NAT Meeting on March 1st in the [osu!dev Discord Server](https://discord.gg/ppy) and to do your best on all those fantastic mapping contests open for your submissions! Thank you for your time reading this quite hefty article. As this is our first installment of the Mappers' Report, any feedback is appreciated, as we are still working hard on setting this up. The next installments should be a bit smaller since we had a lot to cover this time. We hope the information will prove itself useful to you!
 
