@@ -1,6 +1,3 @@
-[true]: /wiki/shared/true.png
-[false]: /wiki/shared/false.png
-
 # osu!catch skinning
 
 *See also: [Skinning osu!catch Tutorial](/wiki/Skinning_osu!catch_Tutorial)*
@@ -295,3 +292,6 @@ Notes:
 
 - This element is not used in the ranking screen.
 - This element is shown during a "slider"; overlaying `fruit-drop.png`
+
+[true]: /wiki/shared/true.png
+[false]: /wiki/shared/false.png
