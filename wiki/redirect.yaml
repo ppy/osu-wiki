@@ -1565,8 +1565,9 @@
 "tournaments/ophn/4k_2019": "Tournaments/oPHN/2019_4K"
 
 # Moved Beatmap ranking procedure and deleted related guide that was outdated
-"guides/how_to_get_your_map_ranked":    "Beatmap_ranking_procedure"
-"submission/beatmap_ranking_procedure": "Beatmap_ranking_procedure"
+"guides/how_to_get_your_map_ranked":     "Beatmap_ranking_procedure"
+"submission/beatmap_ranking_procedure":  "Beatmap_ranking_procedure"
+"submissions/beatmap_ranking_procedure": "Beatmap_ranking_procedure"
 
 # Grouped osu! UCI tournaments
 "tournaments/zotcade":      "Tournaments/osu!_UCI"

@@ -220,7 +220,7 @@ The background colour is Purple and the lights will darken depending on current 
 
 ## Song list
 
-**_[Click for full list](/wiki/Song_List)_**
+**_[Click for full list](Song_List)_**
 
 ## Scoring
 

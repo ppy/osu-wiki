@@ -45,7 +45,7 @@ Image | Name | Effect
 
 Image | Name | Effect
 :---:|:---:|:---
-![](/wiki/Skinning/osu!mania/img/mania-hit300g-0.png "Rainbow 300") | Rainbow 300 (MAX) | Perfect hit of the note or hold. Comparing to 300, getting this mark required dead-on accuracy to get it. Otherwise, a regular 300 will be given. Completing the beatmap with just this score will give the maximum 1,000,000 score (1 million score limit). This is equivalent to _Marvelous_ in DDR term.
+![](/wiki/Skinning/osu!mania/img/mania-hit300g.gif "Rainbow 300") | Rainbow 300 (MAX) | Perfect hit of the note or hold. Comparing to 300, getting this mark required dead-on accuracy to get it. Otherwise, a regular 300 will be given. Completing the beatmap with just this score will give the maximum 1,000,000 score (1 million score limit). This is equivalent to _Marvelous_ in DDR term.
 ![](/wiki/Skinning/osu!mania/img/mania-hit300.png "300") | 300 | Almost perfect hit of the note or hold. Maximum score limit cannot be achieved if this score was given.
 ![](/wiki/Skinning/osu!mania/img/mania-hit200.png "200") | 200 | Slightly early or slightly late hit or hold. New players may get this mark a lot until they got accustomed to the mechanism of the conveyor, speed, buttons and the judgement area.
 ![](/wiki/Skinning/osu!mania/img/mania-hit100.png "100") | 100 | Early or late hit or hold. It does not affect the HP bar at all.
