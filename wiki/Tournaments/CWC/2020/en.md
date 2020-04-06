@@ -31,8 +31,6 @@ The **osu!catch World Cup 2020** (***CWC 2020***) is a country-based osu!catch t
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, Unique profile badge |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, Unique profile badge |
 
-![CWC 2019 Winner Badge](img/badge.png)
-
 ## Organisation
 
 The osu!catch World Cup 2019 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
