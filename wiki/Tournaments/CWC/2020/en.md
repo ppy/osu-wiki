@@ -33,7 +33,7 @@ The **osu!catch World Cup 2020** (***CWC 2020***) is a country-based osu!catch t
 
 ## Organisation
 
-The osu!catch World Cup 2019 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The osu!catch World Cup 2020 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Members |
 | :-- | :-- |
@@ -60,7 +60,7 @@ The osu!catch World Cup 2019 was run by various community members by distributin
 2. Map scoring will use Score V2.
 3. The maps for each round will be announced by the mapset selectors in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
    - There will be a [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and a [DoubleTime](/wiki/Game_Modifiers) bracket.
-   - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
+   - One map will be given as a tiebreaker map. This map will only be played in case of a tie at match point.
 4. Match schedule will be settled by the Tournament Management (see below).
 5. If no staff or referee is available, the match will be postponed.
 6. Failed players' scores do not get added to the team score.
@@ -149,7 +149,7 @@ The osu!catch World Cup 2019 was run by various community members by distributin
 6. Captains may pick freely from any bracket.
    - In case of a tie, the tiebreaker map must be played.
 7. Teams will have 2 minutes to pick a beatmap and 2 minutes to get ready.
-   - In case a team takes more than 2 minutes to pick a map, they will recieve a warning from the referee, if that happens again the referee will pick a random map available from the mappool.
+   - In case a team takes more than 2 minutes to pick a map, they will recieve a warning from the referee, on subsequent occurrences the referee will pick a random map available to pick from the mappool using `!roll X`, where X is the number of available maps to pick in the mappool.
 8. Results of the Group Stage will be published via a Statistics sheet.
 
 ### Mappool Instructions
