@@ -102,7 +102,7 @@ Sunday, 12 April 2020:
 | Japan | ![][flag_JP] | ![][flag_KR] | South Korea | **12:00 UTC** | 21:00 UTC+09 | 21:00 UTC+09 | ² |
 | Japan | ![][flag_JP] | ![][flag_GB] | United Kingdom | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 | ² |
 
-¹ 3rd place match
+¹ 3rd place match  
 ² Encounter dependent on results of ²3rd place match
 
 ## Mappools
