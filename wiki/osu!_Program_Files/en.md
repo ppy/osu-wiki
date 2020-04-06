@@ -87,10 +87,10 @@ The .db files are beatmaps' data which only osu!.exe/osu!test.exe can utilise. N
 
 **osu! database**
 
--   collection.db (Your "Collections" in-game. You can post it to forum for others to check out your "Collections". Actual beatmaps not provided.)
--   osu!.db (osu! beatmaps' cache. You know, that long start-up loading screen before you see Song Selection?)
--   presence.db (Cache of osu!players @ Chat Console)
--   scores.db (Stores historical Local scores)
+- collection.db (Your "Collections" in-game. You can post it to forum for others to check out your "Collections". Actual beatmaps not provided.)
+- osu!.db (osu! beatmaps' cache. You know, that long start-up loading screen before you see Song Selection?)
+- presence.db (Cache of osu!players @ Chat Console)
+- scores.db (Stores historical Local scores)
 
 ### .cfg (Configuration files)
 
@@ -109,25 +109,25 @@ osu!.exe (Start-up osu!)
 
 #### .dll (application extension)
 
-The .dll files are components of osu!.exe so ignore it.
+These .dll files are components of osu!
 
-**Base components** (For Microsoft .NET)
+**Base components**
 
--   avcodec-51.dll
--   avformat-52.dll
--   avutil-49.dll
--   bass.dll
--   bass_fx.dll
--   d3dcompiler_47.dll
--   libEGL.dll
--   libGLESv2.dll
--   Microsoft.Ink.dll
--   OpenTK.dll
--   pthreadGC2.dll
+- avcodec-51.dll
+- avformat-52.dll
+- avutil-49.dll
+- bass.dll
+- bass_fx.dll
+- d3dcompiler_47.dll
+- libEGL.dll
+- libGLESv2.dll
+- Microsoft.Ink.dll
+- OpenTK.dll
+- pthreadGC2.dll
 
 **osu! components**
 
--   osu!gameplay.dll
--   osu!seasonal.dll
--   osu!ui.dll
--   osu.dll
+- osu!gameplay.dll
+- osu!seasonal.dll
+- osu!ui.dll
+- osu.dll
