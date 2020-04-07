@@ -2,7 +2,7 @@
 outdated: true
 ---
 
-# IRC
+# 互联网中继聊天
 
 [互联网中继聊天](https://zh.wikipedia.org/wiki/IRC), 简称IRC, 是一种用于群体聊天的协议.
 
