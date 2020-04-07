@@ -12,7 +12,7 @@ The beatmap charts for the Winter Spotlights can be found [here](https://osu.ppy
 
 ## Autumn Spotlights results
 
-First of all, congratulations to the winners of the Seasonal Spotlights: Autumn 2019. They will receive 3, 2, and 1 month of supporter for 1st, 2nd, and 3rd place respectively for their efforts!
+First of all, congratulations to the winners of the Seasonal Spotlights: Autumn 2019. They will receive 3, 2, and 1 month of osu!supporter for 1st, 2nd, and 3rd place respectively for their efforts!
 
 - **osu!:** [Arraxey](https://osu.ppy.sh/users/6752116), [Apraxia](https://osu.ppy.sh/users/4194445), and [superCreper](https://osu.ppy.sh/users/9325507)
 - **osu!taiko:** [Gra](https://osu.ppy.sh/users/13852925), [Nishizumi](https://osu.ppy.sh/users/2496768), and [A-40](https://osu.ppy.sh/users/14510301)
@@ -52,7 +52,7 @@ This map has only 4.84* as its star rating, which means it can be enjoyed by the
 
 [![](/wiki/shared/news/2020-04-04-beatmap-spotlights-winter-2020/osu/xaaa.jpg)](https://osu.ppy.sh/beatmapsets/999260)
 
-Harrowing and unsettling are just two terms to describe this set, some might even call it cursed or creepy! [Hey lululu](https://osu.ppy.sh/users/4086497) has created a complete experience from storyboard to custom skin for XaaaCi. by Mitose Noriko with an expressive artistic style which will leave an impact in the dark of night when you are trying to sleep. The mapping takes its roots from the elements surrounding it in a unsettlingly odd manner, just to throw you off even more!
+Harrowing and unsettling are just two terms to describe this set, some might even call it cursed or creepy! [Hey lululu](https://osu.ppy.sh/users/4086497) has created a complete experience from storyboard to custom skin for XaaaCi. by Mitose Noriko with an expressive artistic style which will leave an impact in the dark of night when you are trying to sleep. The mapping takes its roots from the elements surrounding it in an unsettlingly odd manner, just to throw you off even more!
 
 To maximize the effect of this map, make sure to enable everything in the set, from the storyboard and hitsounds to the custom skin. Player discretion is advised and we take no responsibility for any lasting psychological damage!
 
@@ -96,7 +96,7 @@ No parachutes attached.
 
 *written by [Smokeman](https://osu.ppy.sh/users/2140676)*
 
-[![](/wiki/shared/news/2020-04-04-beatmap-spotlights-winter-2020/osu/haryo)](https://osu.ppy.sh/beatmapsets/576232)
+[![](/wiki/shared/news/2020-04-04-beatmap-spotlights-winter-2020/osu/haryo.jpg)](https://osu.ppy.sh/beatmapsets/576232)
 
 Being a slightly too early bird, [milr_](https://osu.ppy.sh/users/4485933) has created a wonderful mapset for Azu’s Haryu, the song of the dragon of spring (not winter).
 
@@ -120,7 +120,7 @@ In this map specifically, a lot of the complexity comes from blue tick rhythms a
 
 In second place, we have [IceOC](https://osu.ppy.sh/users/5482401)'s take on sakuraburst - dungeon music. This is an outstanding SV map that can be a tough challenge for any player despite its simplicity and low star rating.
 
-IceOC shows how much details this map has with variations from x0.13 to x10.00 slider velocity, applied on high-speed ninja finishers, extremely slow sections and tricky patterns, everything attached to an exceptional representation of music in an entertaining and interesting way. Such uniqueness and clean execution make this a well-deserved spotlight.
+IceOC shows how much detail this map has with variations from x0.13 to x10.00 slider velocity, applied on high-speed ninja finishers, extremely slow sections and tricky patterns, everything attached to an exceptional representation of music in an entertaining and interesting way. Such uniqueness and clean execution make this a well-deserved spotlight.
 
 *written by [Ulqui](https://osu.ppy.sh/users/1263669)*
 
@@ -148,7 +148,7 @@ The map starts off with the first half being deceivingly calm, until the drop hi
 
 Spring is coming, wanna play a map with spring flavour? 'hot chocolate' by [JBHyperion](https://osu.ppy.sh/users/4879508) should be one of the best choices here. Needless to say, the high-quality mapping style is always a mark for featured artist maps, this map is no exception.
 
-Despite the extraordinarily clean and fresh flows, the mapper also tried some new features here - extending sliders and 1/8 hyperdashes. These innovative patterns bring the map to the next level and make the map stands out as well. Please make a cup of hot chocolate and enjoy this fantastic map!
+Despite the extraordinarily clean and fresh flows, the mapper also tried some new features here - extending sliders and 1/8 hyperdashes. These innovative patterns bring the map to the next level and make the map stand out as well. Please make a cup of hot chocolate and enjoy this fantastic map!
 
 *written by [Yumeno Himiko](https://osu.ppy.sh/users/1806962)*
 
@@ -172,9 +172,7 @@ Slower parts of the song keep things interesting with varied rhythm and patterns
 
 Starting from the bottom we have Cup, Salad and Platter all made by Sorcerer, and they lead the player through the learning stages of the streams and jumps. Platter introduces Hyperjumps and even more advanced stream patterns.
 
-Next up we have two Rain to choose from, one from the mapper of the previous three and one guest difficulty from ZiRoX. Dispite their similar star ratings there is a clear difference in them. ZiRoX decided to use less Hyperjump during the stream parts but instead use stair patterns, which are not necessarily easier to handle though. Meanwhile Sorcerer decided to step up from Platter and make his Hyperjump streams even more deadly for the player with more experience.
-
-Next up we have two Rain to choose from, one from the mapper of the previous three and one guest difficulty from ZiRoX. Despite their similar star ratings, there is a clear difference in them. ZiRoX uses less Hyperjump during the stream parts but went for stair patterns and some quick 1/4 slider jump pattern later on. Meanwhile, Sorcerer decided to step up from Platter and make his Hyperjump streams even more deadly for the player with more experience.
+Next up we have two Rain to choose from, one from the mapper of the previous three and one guest difficulty from ZiRoX. Despite their similar star ratings, there is a clear difference in them. ZiRoX uses less Hyperjump during the stream parts but went for stair patterns and some quick 1/4 slider jump patterns later on. Meanwhile, Sorcerer decided to step up from Platter and make his Hyperjump streams even more deadly for the player with more experience.
 
 And for last we have a Sweet Overdose which has short slider Hyperdashes to follow the melody. It also uses the same reverse slider pattern from rain to temporarily stop the player's movement. The flow is usually straightforward, but sometimes you might find some antiflow pattern. The sweetness flew away and only Raining fruits remained. Prepare your umbrella and get ready to catch 'em all!
 
