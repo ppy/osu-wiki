@@ -1,6 +1,5 @@
 ---
-outdated: true
-outdated_since: abc38b81368f22f2c02e0feda3b7d5c14fba8ead
+no_native_review: true
 ---
 
 # Registrazione

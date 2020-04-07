@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Regels
 
 Deze regels zijn de basis waarmee we ervoor zorgen dat de osu! community een leuke en gastvrije plek voor iedereen blijft.
@@ -14,9 +18,9 @@ Deze regels zijn de basis waarmee we ervoor zorgen dat de osu! community een leu
 ## Chat regels voor in het spel
 
 1. **Wees respectvol, denk aan anderen in het kanaal en vermijd spammen.** Eén persoon die het halve scherm tegelijk inneemt is irritant, dus vermijd dit wanneer mogelijk. Andere mensen proberen ook te praten!
-2. **Laat de moderators problemen in de chat oplossen.** Je kan dingen aan ze aangeven met het `!report ` commando en zij doen de rest.
+2. **Laat de moderators problemen in de chat oplossen.** Je kan dingen aan ze aangeven met het `!report` commando en zij doen de rest.
 3. **Als iemand getime-out, gelimiteerd of het zwijgen opgelegd wordt, laat ze voor wat ze zijn en ga niet over ze praten.** Als iemand gelimiteerd is, gaan hun zaken alleen hen en de administratie aan - absoluut niemand anders!
-4. **Moedig eerlijk spel aan, en geef geen aandacht aan valsspelers of andere gemene gebruikers.** Deze mensen bestaan helaas, en het kan ze aanmoedigen om door te gaan als je ze aandacht geeft, of anderen uit te dagen dit te doen. Geef ze aan via het `!report ` commando of de knoppen op hun profiel pagina en ga verder met wat je aan het doen was.
+4. **Moedig eerlijk spel aan, en geef geen aandacht aan valsspelers of andere gemene gebruikers.** Deze mensen bestaan helaas, en het kan ze aanmoedigen om door te gaan als je ze aandacht geeft, of anderen uit te dagen dit te doen. Geef ze aan via het `!report` commando of de knoppen op hun profiel pagina en ga verder met wat je aan het doen was.
 5. **Houd de chat schoon en geschikt voor een alle leeftijden gemeenschap, en vermijd 18+ onderwerpen waar mogelijk.** 18+ dingen zijn echt niet geschikt voor een community voor alle leeftijden. Doe wat je wil in privé berichten (tot op zekere hoogte) maar houd de openbare kanalen brandschoon voor alle anderen.
 6. **Pas op met wat je deelt met anderen, vooral als de inhoud potentieel schokkend of grafisch is.** Als je twee keer moet nadenken over of iets geschikt is om te linken, is het dat waarschijnlijk niet. Vermijd dingen met snel, stroboscopische lichten, verwondingen, afbeeldingen van misbruik of ander grafisch materiaal.
 7. **Houd links bij relevante en legale websites.** Bootleg stream websites (websites met officiële licenties zoals Animelab en Crunchyroll zijn oké) en alles gerelateerd aan "warez" of illegaal gekopieerde software van elk soort zijn niet oké, en we willen ze niet in onze chat. Twitch links adverteren voor andere video games is oké, maar ALLEEN in `#videogames`.
@@ -37,12 +41,12 @@ Deze regels zijn de basis waarmee we ervoor zorgen dat de osu! community een leu
 
 *Opmerking: Deze regels zijn van toepassing op **alle ingezonden maps**, niet alleen ranked maps. Voor meer gedetailleerde regels bij het maken van een beatmap, bekijk de [Rang Criteria](/wiki/Ranking_Criteria).*
 
-Deze regels zijn strikt van toepassing op beatmaps ingezonden via het in-game [Beatmap Inzend Systeem](/wiki/Glossary#bss). Deze threads/discussies worden gemaakt via het osu! programma wanneer een beatmap wordt ingezonden via de [editor](/wiki/editor).
+Deze regels zijn strikt van toepassing op beatmaps ingezonden via het in-game [Beatmap Inzend Systeem](/wiki/Glossary#bss). Deze threads/discussies worden gemaakt via het osu! programma wanneer een beatmap wordt ingezonden via de [editor](/wiki/Beatmap_Editor).
 
 1. **Zorg ervoor dat je toestemming hebt om alle inhoud betrokken bij je beatmap te gebruiken.** Dit is inclusief liedjes, video's, geluiden, beelden, en alle andere inhoud dat je niet zelf hebt gemaakt. Als je niet zeker weet waar je inhoud kan vinden dat gratis te gebruiken is: we hebben een groeiende bibliotheek met liedjes beschikbaar op de [Uitgelichte Artiesten](https://osu.ppy.sh/beatmaps/artists/) lijst, allemaal met 100% licenties voor gebruik in osu!.
 2. **Blijf bij het onderwerp in beatmap discussies.** Deze threads/discussies gaan over de beatmap in kwestie, en niets anders. Als je een probleem hebt met iets dat niet direct te maken heeft met de beatmap, zet het in het geschikte forum.
 3. **Pleeg geen plagiaat en steel het werk van anderen niet.** Upload ook niet andermans werk zonder hun expliciete toestemming (inclusief, maar niet gelimiteerd tot, skins en gast moeilijkheden).
-4. **Volg de [Regels voor Muziekcontent](https://github.com/ppy/osu-wiki/blob/master/wiki/Rules/Song_Content_Rules) en de [Inschikkelijkheid voor Visuele Inhoud](https://github.com/ppy/osu-wiki/blob/master/wiki/Rules/Visual_Content_Considerations).**
+4. **Volg de [Regels voor Muziekcontent](Song_Content_Rules) en de [Inschikkelijkheid voor Visuele Inhoud](Visual_Content_Considerations).**
 
 ## Wat gebeurt er als ik de regels verbreek?
 
@@ -50,10 +54,10 @@ Als je onze community regels overtreedt, gebeuren er slechte dingen.
 
 Deze slechte dingen zijn onder andere (*maar niet gelimiteerd tot*):
 
-* Het weghalen van je mogelijkheid om te chatten voor een onbepaalde periode (ook wel het zwijgen opleggen)
-* Het weghalen van inhoud op je gebruikers pagina, profiel of geüploade beatmaps.
-* Het verliezen van privileges om je gebruikers pagina of profiel aan te passen.
-* Het verliezen van privileges om deel te nemen of te kwalificeren voor gehoste toernooien.
+- Het weghalen van je mogelijkheid om te chatten voor een onbepaalde periode (ook wel het zwijgen opleggen)
+- Het weghalen van inhoud op je gebruikers pagina, profiel of geüploade beatmaps.
+- Het verliezen van privileges om je gebruikers pagina of profiel aan te passen.
+- Het verliezen van privileges om deel te nemen of te kwalificeren voor gehoste toernooien.
 
 Zwijgen opleggen en andere overtredingen nemen **automatisch** bijna exponentieel toe. Moderators hebben geen controle over de lengte waarmee je het zwijgen bent opgelegd voor een overtreding - herhaaldelijk overtreders zullen uitgesloten worden van het spel voor toenemend langere periodes.
 
@@ -61,6 +65,6 @@ Sommige overtredingen hebben een minimum tijd (meestal 48 uur of meer) als ze er
 
 Als, na herhaaldelijke overtredingen, je nog steeds de regels verbreekt, kan je account permanent en onherroepelijk gelimiteerd worden.
 
-Gelimiteerde accounts kunnen niet online spelen, scores zetten, met andere gebruikers chatten en zijn voor alle doeleinden 'verbannen' van interactie met de gemeenschap. Restrictie voor het verbreken gemeenschap regels kan alleen verwijderd worden na in beroep te zijn gegaan, als drie maanden gepasseerd zijn ([meer voorwaarden kunnen van toepassing zijn](https://github.com/ppy/osu-wiki/blob/master/wiki/Help_Centre/Account_Restrictions#common-restriction-reasons-and-cooldowns)).
+Gelimiteerde accounts kunnen niet online spelen, scores zetten, met andere gebruikers chatten en zijn voor alle doeleinden 'verbannen' van interactie met de gemeenschap. Restrictie voor het verbreken gemeenschap regels kan alleen verwijderd worden na in beroep te zijn gegaan, als drie maanden gepasseerd zijn ([meer voorwaarden kunnen van toepassing zijn](/wiki/Help_Centre/Account_Restrictions#common-restriction-reasons-and-cooldowns)).
 
 Ernstige overtredingen die ver buiten onze strekking van regels gaan en in jurisdictie van illegaal materiaal als per internationaal gemeenschappelijke wetten zal resulteren in het per direct beëindigen van je account. Dit is van toepassing op bijna uitsluitend extreem grafisch of anders weerzinwekkende overtredingen, zoals het verspreiden van kinderpornografie of ander materiaal van misbruik.
