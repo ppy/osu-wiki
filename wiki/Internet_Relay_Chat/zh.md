@@ -8,7 +8,7 @@ outdated: true
 
 # osu! 聊天
 
-osu! 使用IRC协议进行[游戏内聊天](ZH:Chat_Console "wikilink")([英文:Chat Console](Chat_Console "wikilink"). 通过其他的IRC客户端,你可以不打开osu!即可和你的好友聊天. 注意osu! Bancho使用的IRC协议并不是标准的IRC协议,因此某些IRC客户端在osu! Bancho上可能无法正常运行.
+osu! 使用IRC协议进行[游戏内聊天](/wiki/Chat_Console)([英文:Chat Console](/wiki/Chat_Console). 通过其他的IRC客户端,你可以不打开osu!即可和你的好友聊天. 注意osu! Bancho使用的IRC协议并不是标准的IRC协议,因此某些IRC客户端在osu! Bancho上可能无法正常运行.
 
 **注意: 已知[HexChat](http://hexchat.github.io/)连接osu! Bancho时会发生一些问题 .**([这里是Github上的issue](http://github.com/hexchat/hexchat/issues/818)), 如果这个问题很恼人的话,考虑换一个客户端.
 

@@ -8,7 +8,7 @@ outdated: true
 
 ## osu! Chat
 
-osu! usa o protocolo IRC para o [chat do jogo](PT:Chat_Console "wikilink"). Você pode se conectar com um cliente externo e conversar com seus osu!amigos mesmo quando não está jogando. Note que o osu! Bancho usa uma implementação personalizada do protocolo IRC, e não possui todas as funcionalidades conhecidas; Nem todas as ferramentas do seu cliente IRC externo vão funcionar corretamente.
+osu! usa o protocolo IRC para o [chat do jogo](/wiki/Chat_Console). Você pode se conectar com um cliente externo e conversar com seus osu!amigos mesmo quando não está jogando. Note que o osu! Bancho usa uma implementação personalizada do protocolo IRC, e não possui todas as funcionalidades conhecidas; Nem todas as ferramentas do seu cliente IRC externo vão funcionar corretamente.
 
 **Observação: [HexChat](http://hexchat.github.io/) é conhecido por ter problemas com o IRC do osu!** ([histórico de bugs do HexChat's no GitHub](http://github.com/hexchat/hexchat/issues/818)), considere usar outro cliente caso isso te incomode.
 

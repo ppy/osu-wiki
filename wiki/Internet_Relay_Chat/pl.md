@@ -8,7 +8,7 @@ outdated: true
 
 ## Czat osu!
 
-osu! używa protokołu IRC dla [czatu wewnętrznego](PL:Chat_Console "wikilink"). Możesz połączyć się za pomocą własnego klienta IRC i rozmawiać ze swoimi znajomymi, nawet jeżeli nie masz samej gry. Należy zwrócić uwagę, że Bancho używa własnej implementacji protokołu IRC i nie zawiera w sobie wszystkich jego cech. Nie powinno się w tym wypadku spodziewać poprawnej obsługi wszystkich funkcji twojego klienta IRC.
+osu! używa protokołu IRC dla [czatu wewnętrznego](/wiki/Chat_Console). Możesz połączyć się za pomocą własnego klienta IRC i rozmawiać ze swoimi znajomymi, nawet jeżeli nie masz samej gry. Należy zwrócić uwagę, że Bancho używa własnej implementacji protokołu IRC i nie zawiera w sobie wszystkich jego cech. Nie powinno się w tym wypadku spodziewać poprawnej obsługi wszystkich funkcji twojego klienta IRC.
 
 **Uwaga: Wiadomo, że [HexChat](http://hexchat.github.io/) ma pewne problemy z protokołem IRC osu!** ([raport błędu z GitHuba HexChatu](http://github.com/hexchat/hexchat/issues/818)), zaleca się użycie innego klienta IRC jeżeli nagminnie przysparza to kłopotów.
 
