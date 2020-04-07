@@ -1,12 +1,13 @@
+outdated: true # missing gmt.all_mods, untranslated "osu!idol hosting", missing NAT info
 gmt:
-  areas_of_focus:
-    beatmap_moderation: Moderacja beatmap
-    chat_moderation: Moderacja czatu
-    forum_moderation: Moderacja forum
-    official_team_presence: Oficjalny profil zespołu gry
-    osu!_development: Rozwój gry
-    player_support: Zarządzanie społecznością
-    ranking_criteria: Zarządzanie kryteriami rankingowymi
-    technical_support: Pomoc techniczna
-    tournament_organisation: Organizowanie turniejów
-    wiki_administration: Zarządzanie wiki osu!
+  areas:
+    - Moderacja beatmap
+    - Moderacja czatu
+    - Moderacja forum
+    - Oficjalny profil zespołu gry
+    - Rozwój gry
+    - osu!idol hosting
+    - Zarządzanie społecznością
+    - Pomoc techniczna
+    - Organizowanie turniejów
+    - Zarządzanie wiki osu!

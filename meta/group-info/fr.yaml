@@ -1,12 +1,13 @@
+outdated: true # missing gmt.all_mods, untranslated "osu!idol hosting", missing NAT info
 gmt:
-  areas_of_focus:
-    beatmap_moderation: Modération du beatmaps
-    chat_moderation: Modération du chat
-    forum_moderation: Modération du forum
-    official_team_presence: Équipe officielle
-    osu!_development: Développement d'osu!
-    player_support: Support du joueur
-    ranking_criteria: Ranking Criteria
-    technical_support: Support technique
-    tournament_organisation: Organisation de tournois
-    wiki_administration: Administration du wiki
+  areas:
+    - Modération du beatmaps
+    - Modération du chat
+    - Modération du forum
+    - Équipe officielle
+    - Développement d'osu!
+    - osu!idol hosting
+    - Support du joueur
+    - Support technique
+    - Organisation de tournois
+    - Administration du wiki

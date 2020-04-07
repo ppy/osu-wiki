@@ -1,12 +1,19 @@
 gmt:
-  areas_of_focus:
-    beatmap_moderation: Beatmap moderation
-    chat_moderation: Chat moderation
-    forum_moderation: Forum moderation
-    official_team_presence: Official team presence
-    osu!_development: osu! development
-    player_support: Player support
-    ranking_criteria: Ranking Criteria
-    technical_support: Technical support
-    tournament_organisation: Tournament organisation
-    wiki_administration: Wiki administration
+  all_mods: All moderators
+  areas:
+    - Beatmap moderation
+    - Chat moderation
+    - Forum moderation
+    - Official team presence
+    - osu! development
+    - osu!idol hosting
+    - Player support
+    - Technical support
+    - Tournaments
+    - Wiki administration
+nat:
+  areas:
+    - Communication
+    - Evaluation
+    - Moderation
+    - Structural

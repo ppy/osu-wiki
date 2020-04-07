@@ -1,13 +1,13 @@
-outdated: true
+outdated: true # missing gmt.all_mods, some untranslated gmt.areas, missing NAT info
 gmt:
-  areas_of_focus:
-    beatmap_moderation: 비트맵 관리
-    chat_moderation: 채팅 관리
-    forum_moderation: 포럼 관리
-    official_team_presence: Official team presence
-    osu!_development: osu! development
-    player_support: 플레이어 지원
-    ranking_criteria: Ranking Criteria
-    technical_support: 기술 지원
-    tournament_organisation: 대회 관리
-    wiki_administration: Wiki 관리
+  areas:
+    - 비트맵 관리
+    - 채팅 관리
+    - 포럼 관리
+    - Official team presence
+    - osu! development
+    - osu!idol hosting
+    - 플레이어 지원
+    - 기술 지원
+    - 대회 관리
+    - Wiki 관리
