@@ -40,9 +40,9 @@ As said previously, the Ranking Criteria is a never ending process. Everyone can
 For all modes:
 - **[Unofficial Cuts/Mixes of Songs must be Specific](https://osu.ppy.sh/community/forums/topics/917043)**
 - **[General RC Change regarding CS Values](https://osu.ppy.sh/community/forums/topics/1020515)**
+- **[Conflicting commands working as intended](https://osu.ppy.sh/community/forums/topics/1044301)**
 
 For osu!:
-- **[Proposal for Easy/Normal Specific Guideline: Spinner Approach](https://osu.ppy.sh/community/forums/topics/1010191)**
 - **[Intuitive Reverse Arrow Movement](https://osu.ppy.sh/community/forums/topics/1033709)**
 
 For osu!catch:
@@ -53,7 +53,7 @@ For osu!mania:
 
 These and many others are currently discussed and need more input. So head right over to the Ranking Criteria Forum and be part of the changes which will affect the future of mapping!
 
-## <a id=”nat-meetings”></a>NAT Meetings
+## <a id="nat-meetings"></a>NAT Meetings
 
 As mentioned in the past issue of the Mappers’ Report we were holding regular meetings, and the past several weeks were no exception. With these two meetings we also managed to go through all pending discussion points we had, meaning meetings will be less frequent going forward.
 
@@ -77,7 +77,7 @@ For the RC subforum topic, the meeting reviewed the current status and hashed ou
 
 The date the NAT will host this meeting has not been yet determined, but will be announced very soon in #modding on the osu!dev Discord server. This meeting will discuss revising the website’s current genre system, primarily what genres should be added to help make the website’s genre system more useful than it is now.
 
-## <a id=”within-bn-nat”></a>Within the Beatmap Nominators and NAT
+## <a id="within-bn-nat"></a>Within the Beatmap Nominators and NAT
 
 Just as last month, the BNG never rests. We always have new additions and retirements. This month is no exception! 
 
@@ -101,7 +101,7 @@ Good news everyone! We have a new person in the team. For osu!taiko, **[Tyistian
 
 Just as we had a new addition with **[Tyistiana](https://osu.ppy.sh/users/1421452)**,  we had to say farewell to **[Ascendance](https://osu.ppy.sh/users/2931883)**. After one year of duty as a NAT he decided to take his leave. Ascendance served well in osu!catch and helped bring back life into the osu!taiko BNG with his care package. Thank you Ascendance for all your work and we wish you all the best in the future!
 
-## <a id=”mappers-showcase”></a>Mappers’ Showcase
+## <a id="mappers-showcase"></a>Mappers’ Showcase
 
 Mappers' Report never disappoints in bringing you fresh content! This month's addition is the Mappers' Showcase - a new section for overlooked or upcoming mappers, whose skills in the osu!editor's canvas are a force to be reckoned with. For March's report, we would like to introduce two osu! mappers who have shown what they are capable of!
 
@@ -115,7 +115,7 @@ An inspiration to many new mappers should be **[KnightC0re](https://osu.ppy.sh/u
 
 Even though the Mappers' Showcase starts off with osu!standard, each month will showcase a different gamemode. That means next month will be feataturing osu!taiko. So stay tuned! 
 
-## <a id=”mapping-contests”></a>Mapping Contests
+## <a id="mapping-contests"></a>Mapping Contests
 
 In addition to summarizing upcoming contests, we will also use this space to highlight recent wins or ongoing contests.
 
@@ -133,7 +133,7 @@ We’d like to congratulate [Aphestra](https://osu.ppy.sh/users/11949191) on the
 
 Another month, another monthly beatmapping contest! Head over to the [news post](https://osu.ppy.sh/home/news/2020-04-04-monthly-beatmapping-contest-april) to find out all about this month’s restrictions! Additionally the community voting phase of the March beatmap contest has started so be sure to go vote on the [contest listing](https://osu.ppy.sh/community/contests/93)!
 
-## <a id=”around-community”></a>Around the Community
+## <a id="around-community"></a>Around the Community
 
 Another new section this month! All around the community. Whenever something interesting happens in the community which does not fit into any category above we will include that here. Should you have/know about something interesting that’s happening within the mapping community, do not hesitate to let [Feerum](https://osu.ppy.sh/users/4815717) or [Noffy](https://osu.ppy.sh/users/1541323) know about it! 
 
@@ -145,7 +145,7 @@ Starting up 2 months ago, there’s been a new podcast series hosted by [Cinnabu
 
 Previously announced in [another news post](https://osu.ppy.sh/home/news/2020-03-23-community-mentorship-program-spring-2020-signups-now-open), the Spring 2020 round of Community Mentorship is coming soon! Hosted regularly throughout the year, the mentorship program helps to nurture newer mappers in the community by pairing them up with Mentors. The applications to become a Mentor are already closed, but the Mentee applications will be opening on **April 19th**, so give applying a try if you’re passionate and interested in learning more about mapping!
 
-<a id=”conclusion”></a>
+<a id="conclusion"></a>
 
 ---
 
