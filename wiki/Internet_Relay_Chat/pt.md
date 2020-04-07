@@ -37,11 +37,11 @@ Se você não deseja fazer essa autenticação toda vez que se conecta você pod
 
 | Descrição                              | Comando                 |
 |----------------------------------------|-------------------------|
-| Se juntar a um canal (Exemplo \#lobby) | /join \#nomedocanal     |
-| Sair de um canal                       | /part                   |
-| Ignorar nick                           | /ignore nome do jogador |
-| Mudar nickname                         | /nick novo nome         |
-| Executar ações                         | /me faz alguma coisa    |
+| Se juntar a um canal (Exemplo \#lobby) | `/join #nomedocanal`     |
+| Sair de um canal                       | `/part`                   |
+| Ignorar nick                           | `/ignore nome do jogador` |
+| Mudar nickname                         | `/nick novo nome`         |
+| Executar ações                         | `/me faz alguma coisa`    |
 
 ## Desativando mensagens de Join/Part
 
@@ -59,12 +59,12 @@ Caso esteja em canais com poucas pessoas isso não é incomodo, mas pessoas entr
 | Client                                    | Comandos                                                                                                                                                                                                                                                               |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [HexChat](https://hexchat.github.io/)      | Clique com o direito do mouse no canal que você quer configurar, abaixa do submenu de configurações, cheque "Hide Join/Part Messages" (Mensagens de Entrada/Saída). Vá para Configurações » Preferências, abaixo de Conversa » Geral, cheque "Hide join and part Messages" (Mensagens de Entrada/Saída)                                                                                                                                  |
-| [ircII](http://www.eterna.com.au/ircii/)  | /ignore                                                                                                                                                                                                                                                                |
-| [Irssi](https://irssi.org)             | /ignore -channels \#nomedocal \* JOINS PARTS SAIU                                                                                                                                                                                                                      |
-| [Weechat](https://weechat.org/)         | /filter add irc\_smart\_weechat irc.algumnome.\#filtro\_inteligente\_irc dealgumcanal \*. **Note:** algumnome é o nome que você escolheu quando adicionou o sevidor IRC ao Weechat.                                                                                                                                                                               |
+| [ircII](http://www.eterna.com.au/ircii/)  | `/ignore`                                                                                                                                                                                                                                                                |
+| [Irssi](https://irssi.org)             | `/ignore -channels #nomedocal * JOINS PARTS SAIU`                                                                                                                                                                                                                      |
+| [Weechat](https://weechat.org/)         | `/filter add irc_smart_weechat irc.algumnome.#filtro_inteligente_irc dealgumcanal *`. **Note:** algumnome é o nome que você escolheu quando adicionou o sevidor IRC ao Weechat.                                                                                                                                                                               |
 | [KVIrc](https://www.kvirc.net/)             | Consulte [this thread](http://www.kvirc.ru/forum/?topic=609.0) nos forums oficiais do KVIrc.                                                                                                                                                                           |
 | [mIRC](https://www.mirc.com/)              | Ferramentas » Opções » selecione "IRC". Clique no botão"Events...". Mude "joins", "parts", "quits", e "nicks" para as configurações desejadas: "No Status" ou "Esconder" são boas opções [1](http://web.archive.org/web/20160304201229/http://i.clintecker.com/disable-irc-msgs.html).                           |
 | [Quassel IRC](https://quassel-irc.org/) | Clique com o direito na janela de conversa, então escolha Esconder Eventos » Join/Part/Quit.                                                                                                                                                                           |
-| [XChat](http://xchat.org/)             | Clique com o direito na aba que quer mudar. No submenu do nome do canal, tem uma caixa de seleção "Show join/part messages", simplesmente desmarque isso. Ou digite/set irc\_conf\_mode 1 [2](http://xchat.org/faq/#q211) para desativar mensagens de todos os canais. |
+| [XChat](http://xchat.org/)             | Clique com o direito na aba que quer mudar. No submenu do nome do canal, tem uma caixa de seleção "Show join/part messages", simplesmente desmarque isso. Ou digite `/set irc_conf_mode 1` [2](http://xchat.org/faq/#q211) para desativar mensagens de todos os canais. |
 
 Se seu cliente externo não está listado aqui então confira sua documentação, a maioria dos clientes externos possuem uma forma de fazer isso.

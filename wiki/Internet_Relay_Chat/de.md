@@ -35,12 +35,12 @@ Sofern ihr keine Lust darauf habt, jedes Mal auf die Seite zu gehen, um euch üb
 
 | Aktion                             | Kommando                   |
 |------------------------------------|----------------------------|
-| Channel beitreten (z. B. \#german) | /join \#somechannel        |
-| Channel verlassen                  | /part                      |
-| Jemanden ignorieren                | /ignore <Name>             |
-| Nickname ändern                    | /nick <Name>               |
-| Etwas machen                       | /me <Text>                 |
-| Nachricht senden an                | /msg <Benutzername> <Text> |
+| Channel beitreten (z. B. \#german) | `/join #somechannel`        |
+| Channel verlassen                  | `/part`                      |
+| Jemanden ignorieren                | `/ignore <Name>`             |
+| Nickname ändern                    | `/nick <Name>`               |
+| Etwas machen                       | `/me <Text>`                 |
+| Nachricht senden an                | `/msg <Benutzername> <Text>` |
 
 ## Join/Part Nachrichten deaktivieren
 
@@ -59,11 +59,11 @@ In Channels mit wenigeren Usern sind diese Meldungen nicht sonderlich bemerkbar,
 |-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | AndChat (Android App)                     | "Settings" -> "Messages & Rooms" -> "Hide join/part/quit Messages" aktivieren                                                                                                                                                                                                  |
 | [HexChat](https://hexchat.github.io/)      | Rechtsklick auf den Channel, den ihr ändern wollt, dann unter Einstellungen "Hide Join/Part Messages". Geht zu den Einstellungen unter » Preferences, under Chatting » General, danach auf "Hide join and part Messages" klicken.                                                                                                                                                         |
-| [ircII](http://www.eterna.com.au/ircii/)  | /ignore \* crap                                                                                                                                                                                                                                                                      |
-| [Irssi](https://irssi.org)             | /ignore -channels \#somechannel \* JOINS PARTS QUITS                                                                                                                                                                                                                                 |
+| [ircII](http://www.eterna.com.au/ircii/)  | `/ignore * crap`                                                                                                                                                                                                                                                                      |
+| [Irssi](https://irssi.org)             | `/ignore -channels #somechannel * JOINS PARTS QUITS`                                                                                                                                                                                                                                 |
 | [KVIrc](https://www.kvirc.net/)             | Holt euch die Informationen in [diesem Thread](http://www.kvirc.ru/forum/?topic=609.0) vom offiziellen KVIrc Forum.                                                                                                                                                                  |
 | [mIRC](https://www.mirc.com/)              | Tools » Options » wählt "IRC". Klickt auf den "Events..." Button. Ändert die "joins", "parts", "quits", und "nicks" zu der jeweiligen Einstellung: "In Status" oder "Hide" sind gute Optionen. [1](http://web.archive.org/web/20160304201229/http://i.clintecker.com/disable-irc-msgs.html).                                   |
 | [Quassel IRC](https://quassel-irc.org/) | Rechtsklick auf das Fenster worin ihr chattet, wählt dann "Hide Events" » "Join/Part/Quit".                                                                                                                                                                                          |
-| [XChat](http://xchat.org/)             | Rechtsklick auf den Tab, den ihr ändern wollt. Im Untermenu der Channel Namen, könnt ihr "Show join/part messages" ein- und ausschalten. Oder ihr gibt /set irc\_conf\_mode 1 ein [2](http://xchat.org/faq/#q211), um diese Nachrichten über alle Channels hindurch zu deaktivieren. |
+| [XChat](http://xchat.org/)             | Rechtsklick auf den Tab, den ihr ändern wollt. Im Untermenu der Channel Namen, könnt ihr "Show join/part messages" ein- und ausschalten. Oder ihr gibt `/set irc_conf_mode 1` ein [2](http://xchat.org/faq/#q211), um diese Nachrichten über alle Channels hindurch zu deaktivieren. |
 
 Sofern euer IRC Client nicht verzeichnet ist, könnt ihr diese hier hinzufügen und wie es bei diesen funktioniert.

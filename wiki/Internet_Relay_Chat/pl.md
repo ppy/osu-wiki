@@ -39,10 +39,10 @@ Aby nie musieć klikać tego przycisku przy każdorazowym połączeniu, należy 
 
 | Opis                            | Komenda          |
 |---------------------------------|------------------|
-| Dołącza do kanału (np. \#lobby) | /join \#kanał    |
-| Opuszcza kanał                  | /part            |
-| Ignoruje kogoś                  | /ignore nick     |
-| Wypisuje czynność               | /me robi kanapkę |
+| Dołącza do kanału (np. \#lobby) | `/join #kanał`    |
+| Opuszcza kanał                  | `/part`            |
+| Ignoruje kogoś                  | `/ignore nick`     |
+| Wypisuje czynność               | `/me robi kanapkę` |
 
 ## Ukrywanie wiadomości o dołączaniu lub wychodzeniu
 
@@ -60,13 +60,13 @@ Na mniejszych kanałach nie jest to zazwyczaj uciążliwe, natomiast zalew infor
 | Klient                                    | Komenda                                                                                                                                                                                                                                                                  |
 |-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [HexChat](https://hexchat.github.io/)      | Kliknąć prawym przyciskiem na kanał na którym chce się dokonać zmiany (pod menu Settings) i zaznaczyć „Hide Join/Part Messages”. Settings » Preferences, (pod Chatting) » General i zaznaczyć „Hide join and part Messages”                                                                                                                                                                             |
-| [ircII](http://www.eterna.com.au/ircii/)  | /ignore \* crap                                                                                                                                                                                                                                                          |
-| [Irssi](https://irssi.org)             | /ignore -channels \#kanał \* JOINS PARTS QUITS                                                                                                                                                                                                                           |
-| [Weechat](https://weechat.org/)         | /filter add irc\_smart\_weechat irc.nick.\#kanał irc\_smart\_filter \*. **Notka:** nick to nazwa podana przy dodawaniu serwera IRC do WeeChat.                                                                                                                                                                                                    |
+| [ircII](http://www.eterna.com.au/ircii/)  | `/ignore * crap`                                                                                                                                                                                                                                                          |
+| [Irssi](https://irssi.org)             | `/ignore -channels #kanał * JOINS PARTS QUITS`                                                                                                                                                                                                                           |
+| [Weechat](https://weechat.org/)         | `/filter add irc_smart_weechat irc.nick.#kanał irc_smart_filter *`. **Notka:** nick to nazwa podana przy dodawaniu serwera IRC do WeeChat.                                                                                                                                                                                                    |
 | [KVIrc](https://www.kvirc.net/)             | Należy odnieść się do [tego wątku](http://www.kvirc.ru/forum/?topic=609.0) na oficjalnym forum KVIrc                                                                                                                                                                     |
 | [mIRC](https://www.mirc.com/)              | Tools » Options » „IRC”. Kliknąć przycisk „Events...”, po czym zmienić „joins”, „parts”, „quits”, and „nicks” na pożądane opcje: „In Status” lub „Hide” są rekomendowanymi ustawieniami [1](http://web.archive.org/web/20160304201229/http://i.clintecker.com/disable-irc-msgs.html).                              |
 | [Quassel IRC](https://quassel-irc.org/) | Klikniąć prawym przyciskiem myszy okienko czatu, a następnie wybrać Hide Events » Join/Part/Quit.                                                                                                                                                                        |
-| [XChat](http://xchat.org/)             | Kliknąć prawym przyciskiem myszy na zakładkę na której chce się zmiany. W podmenu z nazwą kanału znajduje się przełączalna „Show join/part messages”. Można też napisać „/set irc\_conf\_mode 1” [2](http://xchat.org/faq/#q211), by wyłączyć powiadomienia na kanałach. |
+| [XChat](http://xchat.org/)             | Kliknąć prawym przyciskiem myszy na zakładkę na której chce się zmiany. W podmenu z nazwą kanału znajduje się przełączalna „Show join/part messages”. Można też napisać `/set irc_conf_mode 1` [2](http://xchat.org/faq/#q211), by wyłączyć powiadomienia na kanałach. |
 
 Jeżeli używany klient nie został tutaj podany, należy odnieść się bezpośrednio do jego dokumentacji. Większość klientów posiada sposób na ukrycie tych powiadomień.
 
