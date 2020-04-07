@@ -10,7 +10,7 @@ where:
 
 -   _ can be a space instead of an underscore.
 -   (event) is a letter/pair of letters, corresponding to one of the commands below.
--   (easing) indicates if the command should "accelerate". See http://easings.net. Valid values are:
+-   (easing) indicates if the command should "accelerate". See [Easing Functions Cheat Sheet](http://easings.net). Valid values are:
     -   0 - Linear: no easing
     -   1 - Easing Out: the changes happen fast at first, but then slow down toward the end
     -   2 - Easing In: the changes happen slowly at first, but then speed up toward the end
