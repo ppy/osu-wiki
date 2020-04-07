@@ -87,30 +87,50 @@ The osu!taiko World Cup 2020 is run by various community members.
 | ![][flag_GB] | **United Kingdom** | **[goheegy](https://osu.ppy.sh/users/8057655)**, [Horiiizon](https://osu.ppy.sh/users/8071438), [\_DUSK\_](https://osu.ppy.sh/users/6092181), [mangomizer](https://osu.ppy.sh/users/1893718), [Teezel](https://osu.ppy.sh/users/7528639) |
 | ![][flag_US] | **United States** | **[Loopy542](https://osu.ppy.sh/users/5468461)**, [3san](https://osu.ppy.sh/users/8050850), [cheese salad](https://osu.ppy.sh/users/6349821), [-Electro-](https://osu.ppy.sh/users/3251373), [HoopWheat](https://osu.ppy.sh/users/12177903) |
 
-## Match schedule: Finals
+## Match schedule: Grand Finals
 
-Saturday, 4 April 2020:
-
-| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| South Korea | ![][flag_KR] | ![][flag_CA] | Canada | **03:00 UTC** | 12:00 UTC+09 | 22:00 (Fri.) UTC-05 | ² |
-| Taiwan | ![][flag_TW] | ![][flag_IT] | Italy | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 | ² |
-| Canada | ![][flag_CA] | ![][flag_IT] | Italy | **19:00 UTC** | 14:00 UTC-05 | 21:00 UTC+02 | ³ |
-
-Sunday, 5 April 2020:
+Saturday, 11 April 2020:
 
 | Team A |  |  | Team B | Match time | Local time A | Local time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Canada | ![][flag_CA] | ![][flag_TW] | Taiwan | **03:00 UTC** | 22:00 (Sat.) UTC-05 | 11:00 UTC+08 | ³ |
-| South Korea | ![][flag_KR] | ![][flag_TW] | Taiwan | **11:00 UTC** | 20:00 UTC+09 | 19:00 UTC+08 | ³ |
-| South Korea | ![][flag_KR] | ![][flag_IT] | Italy | **11:00 UTC** | 20:00 UTC+09 | 13:00 UTC+02 | ³ |
-| Japan | ![][flag_JP] | ![][flag_GB] | United Kingdom | **12:30 UTC** | 21:30 UTC+09 | 13:30 UTC+01 | ¹ |
+| South Korea | ![][flag_KR] | ![][flag_GB] | United Kingdom | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 | ¹ |
 
-¹ Winner bracket encounter  
-² Loser bracket encounter  
-³ Encounter dependent on results of ²loser bracket encounter
+Sunday, 12 April 2020:
+
+| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| Japan | ![][flag_JP] | ![][flag_KR] | South Korea | **12:00 UTC** | 21:00 UTC+09 | 21:00 UTC+09 | ² |
+| Japan | ![][flag_JP] | ![][flag_GB] | United Kingdom | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 | ² |
+
+¹ 3rd place match  
+² Encounter dependent on results of ²3rd place match
 
 ## Mappools
+
+### Grand Finals
+
+- NoMod
+  - [Niko - Made of Fire (Raphalge) \[comfortable hands (SV Edit)\]](https://osu.ppy.sh/beatmapsets/1114599#taiko/2380784)
+  - [Camellia - Rampage Rag (incandescence) \[Rampage!!\]](https://osu.ppy.sh/beatmapsets/824729#taiko/1757172)
+  - [Terminal 11 - Adcar (Ulqui) \[hate\]](https://osu.ppy.sh/beatmapsets/972116#taiko/2035456)
+  - [Rings Of Saturn - Senseless Massacre (frukoyurdakul) \[Merciless Oni\]](https://osu.ppy.sh/beatmapsets/640511#taiko/1358398)
+  - [sakuzyo - PANDORA PARADOXXX (Firce777) \[Firce777's Taiko\]](https://osu.ppy.sh/beatmapsets/1016525#taiko/2127607)
+  - [Yuuyu - Scrap Syndrome (Short cut.) (Nwolf) \[Digital Dog Oni\]](https://osu.ppy.sh/beatmapsets/261311#taiko/2381930)
+- Hidden
+  - [Katsuro Tajima - Charlie Dash! (Midnaait) \[Tatsujin!\]](https://osu.ppy.sh/beatmapsets/1100294#taiko/2318034)
+  - [The Flashbulb - DIDJ PVC (tasuke912) \[Nardo's Inner Oni\]](https://osu.ppy.sh/beatmapsets/965178#taiko/2069366)
+- HardRock
+  - [SOOOO - iiillluuuvvvUUU (Backfire) \[iiihhhaaattteeeUUU\]](https://osu.ppy.sh/beatmapsets/835436#taiko/1749761)
+  - [UNDEAD CORPORATION - END NEVER END (Greenshell) \[Metalshell\]](https://osu.ppy.sh/beatmapsets/832980#taiko/1744910)
+- DoubleTime
+  - [goreshit - o'er the flood (grumd) \[MM's Taiko Oni\]](https://osu.ppy.sh/beatmapsets/51972#taiko/176895)
+  - [Nekomata Master+ - Good-bye Chalon (\_DUSK\_) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/999585#taiko/2090721)
+- FreeMod
+  - [kamome sano - Prepared Improvisation (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/556358#taiko/1177487)
+  - [BilliumMoto - four veiled stars (Nifty) \[Bitter Winter\]](https://osu.ppy.sh/beatmapsets/972301#taiko/2037584)
+  - [DJ Sharpnel - Over The Fullereneshift (Hana Hayashi) \[HEXACARBON\]](https://osu.ppy.sh/beatmapsets/1102340#taiko/2382125)
+- Tiebreaker
+  - **[kyou1110 VS Stellabee - RomanesqueBreaker (Drum Decimator) \[Drum Decimator\]](https://osu.ppy.sh/beatmapsets/1140484#taiko/2382208)**
 
 ### Finals
 
@@ -234,6 +254,22 @@ Sunday, 5 April 2020:
   - **[Chroma - Dark Sheep (Midnaait) \[Hitsujin\]](https://osu.ppy.sh/beatmapsets/987588#taiko/2065913)**
 
 ## Match results
+
+### Finals
+
+Saturday, 4 April 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ![][flag_KR] | **7** | 0 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/59967676) |
+| **Taiwan** ![][flag_TW] | **7** | 0 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/59981245) |
+
+Sunday, 5 April 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ![][flag_KR] | **7** | 2 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/60018994) |
+| **Japan** ![][flag_JP] | **7** | 1 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/60021326) |
 
 ### Semifinals
 
