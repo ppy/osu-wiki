@@ -14,7 +14,7 @@ osu! usa o protocolo IRC para o [chat do jogo](PT:Chat_Console "wikilink"). Voc�
 
 ## Como Se Conectar
 
-Uma vez que você instalou um cliente externo você precisa se conectar usando seu nome de usuário do osu! em [cho.ppy.sh](irc://cho.ppy.sh) OU [irc.ppy.sh](irc://irc.ppy.sh) (ambos destinam-se para o mesmo host) na porta <b>6667</b> (a porta padrão do IRC).
+Uma vez que você instalou um cliente externo você precisa se conectar usando seu nome de usuário do osu! em [cho.ppy.sh](irc://cho.ppy.sh) OU [irc.ppy.sh](irc://irc.ppy.sh) (ambos destinam-se para o mesmo host) na porta **6667** (a porta padrão do IRC).
 
 ## Autenticando-se no Bancho
 

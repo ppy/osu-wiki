@@ -14,7 +14,7 @@ osu! używa protokołu IRC dla [czatu wewnętrznego](PL:Chat_Console "wikilink")
 
 ## Jak się połączyć?
 
-Po przygotowaniu klienta IRC, należy użyć swojej nazwy użytkownika jako nicku i połączyć się do [cho.ppy.sh](irc://cho.ppy.sh) LUB [irc.ppy.sh](irc://irc.ppy.sh) (oba łączą się do tego samego hosta) na porcie <b>6667</b> (domyślny port IRC).
+Po przygotowaniu klienta IRC, należy użyć swojej nazwy użytkownika jako nicku i połączyć się do [cho.ppy.sh](irc://cho.ppy.sh) LUB [irc.ppy.sh](irc://irc.ppy.sh) (oba łączą się do tego samego hosta) na porcie **6667** (domyślny port IRC).
 
 ## Autoryzacja BanchoBot
 
