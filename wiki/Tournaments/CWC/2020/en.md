@@ -1,21 +1,21 @@
 ---
 tags:
-- CWC 2020
-- CWC2020
+  - CWC
+  - CWC2020
 ---
 
 # osu!catch World Cup 2020
 
-![CWC 2020 Logo](img/logo.jpg)
+![CWC 2020 logo](img/logo.jpg)
 
 The **osu!catch World Cup 2020** (***CWC 2020***) is a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 9th installment of the osu!catch World Cup.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2020-04-07/2020-04-21 |
-| Live Drawings | 2020-05-02 (14:00 UTC) |
+| Registration phase | 2020-04-07/2020-04-21 |
+| Live drawings | 2020-05-02 (14:00 UTC) |
 | Group Stage | 2020-05-09/2020-05-10 |
 | Round of 16 | 2020-05-16/2020-05-17 |
 | Quarterfinals | 2020-05-23/2020-05-24 |
@@ -26,19 +26,19 @@ The **osu!catch World Cup 2020** (***CWC 2020***) is a country-based osu!catch t
 ## Prizes
 
 | Placing | Prize(s) |
-| :-: | :--- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | $150 per team member, unique profile badge, "osu!catch Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, Unique profile badge |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, Unique profile badge |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | $150 per team member, unique profile badge, *osu!catch Champion* user title for one year |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, unique profile badge |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, unique profile badge |
 
 ## Organisation
 
-The osu!catch World Cup 2020 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) and various community members.
 
 | Position | Members |
 | :-- | :-- |
 | Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
-| Map Selector | *to be announced* |
+| Map selector | *to be announced* |
 | Commentator | *to be announced* |
 | Referee | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102) ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
@@ -47,13 +47,11 @@ The osu!catch World Cup 2020 is run by various community members by distributing
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1046500)
 - [Livestream](https://www.twitch.tv/osulive)
-- **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/24)**
-
----
+- **[Registration page](https://osu.ppy.sh/community/tournaments/24)**
 
 ## Ruleset
 
-### Tournament Rules
+### Tournament rules
 
 1. The osu!catch World Cup is a country-based team tournament, played on the osu!catch game mode.
    - While this competition is planned as a 3 versus 3 setup, this might change depending on the amount of incoming registrations.
@@ -89,7 +87,7 @@ The osu!catch World Cup 2020 is run by various community members by distributing
     - Disqualification from the current and future official tournaments until appealed
     - Any modification of these rules will be announced.
 
-### Tournament Registration
+### Tournament registration
 
 1. Every user interested in joining their country's team signs up individually.
    - Tournament Management will create a list of potential candidates for a country's team.
@@ -99,12 +97,12 @@ The osu!catch World Cup 2020 is run by various community members by distributing
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, you have to ensure that your global osu!catch performance ranking is above 5000.
    - To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
-3. All successfully formed teams will be published after the Registration Phase.
+3. All successfully formed teams will be published after the registration phase.
 4. Only the 32 potentially strongest countries will participate. The potential strength of a country is determined by the online statistics of all valid candidates.
    - If the amount of registered countries is below 32, the number might be reduced to 24, 20 or 16. The aim is always to let as many countries participate as possible!
 5. Mapset selectors may not participate as a player in this tournament.
 
-### Stage Instructions
+### Stage instructions
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
    - This may change depending on how many teams are accepted into the competition at the end.
@@ -122,20 +120,21 @@ The osu!catch World Cup 2020 is run by various community members by distributing
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 6. Based on [this image](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
 
-| Stage | Match ID |
-| --: | :-- |
-| Round of 16 |  A, B, C, D, E, F, G, H |
-| Quarterfinals | I, J, K, L & R, S, T, U |
-| Semifinals | M, N & V, W, X, Y, Z, AA |
-| Finals | O & AB, AC, AD |
-| Grand Finals | AE, P, Q |
+   | Stage | Match ID |
+   | --: | :-- |
+   | Round of 16 | A, B, C, D, E, F, G, H |
+   | Quarterfinals | I, J, K, L & R, S, T, U |
+   | Semifinals | M, N & V, W, X, Y, Z, AA |
+   | Finals | O & AB, AC, AD |
+   | Grand Finals | AE, P, Q |
 
-**Winning conditions:**
-   - In Group Stage, you need to win 5 maps to win a match. (Best-of-9)
-   - In the Round of 16 and the Quarterfinals, you need to win 6 maps to win a match. (Best-of-11)
-   - In the **Semifinals, Finals and Grand Finals**, you need to win 7 maps to win the match. (Best-of-13)
+#### Winning conditions
 
-### Match Instructions
+- In Group Stage, you need to win 5 maps to win a match (best of 9).
+- In the Round of 16 and Quarterfinals, you need to win 6 maps to win a match (best of 11).
+- In the Semifinals, Finals, and Grand Finals, you need to win 7 maps to win the match (best of 13).
+
+### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
    - Room settings are osu!catch, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "CWC 2020: (TeamRed) vs (TeamBlue)".
@@ -152,10 +151,10 @@ The osu!catch World Cup 2020 is run by various community members by distributing
    - In case a team takes more than 2 minutes to pick a map, they will recieve a warning from the referee, on subsequent occurrences the referee will pick a random map available to pick from the mappool using `!roll X`, where X is the number of available maps to pick in the mappool.
 8. Results of the Group Stage will be published via a Statistics sheet.
 
-### Mappool Instructions
+### Mappool instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Round of 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals, 1 mappool for the Finals and 1 mappool for the Grand Finals.
-2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers).
+2. Each mappool consists of 4 brackets: NoMod, [Hidden](/wiki/Game_Modifiers#hidden), [HardRock](/wiki/Game_Modifiers#hard-rock) and [DoubleTime](/wiki/Game_Modifiers#double-time).
 3. Each mappool consists of 16 maps in total.
 4. Each mappool has one tiebreaker.
 5. The NoMod bracket will be played with no mods activated.
@@ -163,7 +162,7 @@ The osu!catch World Cup 2020 is run by various community members by distributing
    - When playing a map from the HardRock or DoubleTime pool, Hidden can be used optionally by any player.
 7. The tiebreaker will be played with no mods selected or with the Hidden mod.
 8. There will be 6 maps in the NoMod bracket for all stages.
-9. The size of the [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers) and [DoubleTime](/wiki/Game_Modifiers) brackets will be 3 in all stages.
+9. The size of the [Hidden](/wiki/Game_Modifiers#hidden), [HardRock](/wiki/Game_Modifiers#hard-rock) and [DoubleTime](/wiki/Game_Modifiers#double-time) brackets will be 3 in all stages.
 
 ### Scheduling instructions
 
@@ -177,12 +176,12 @@ The osu!catch World Cup 2020 is run by various community members by distributing
    - **Do not ask for a reschedule unless it is absolutely needed. The tournament staff still has the right to decline the request.**
 7. Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least two players for each match. If teams can not provide two players for a match, the match will be considered forfeited.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
