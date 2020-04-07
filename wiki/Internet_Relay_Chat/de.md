@@ -4,7 +4,7 @@ outdated: true
 
 # Internet Relay Chat
 
-[IRC](http://de.wikipedia.org/wiki/Internet_Relay_Chat) ist ein Chat-System, dem es einen möglich macht, mit anderen Usern sich in einem Channel zu unterhalten. Hierfür gibt es verschiedene Applikationen und Add-Ons.
+[IRC](https://de.wikipedia.org/wiki/Internet_Relay_Chat) ist ein Chat-System, dem es einen möglich macht, mit anderen Usern sich in einem Channel zu unterhalten. Hierfür gibt es verschiedene Applikationen und Add-Ons.
 
 ## osu! Chat
 
@@ -58,14 +58,14 @@ In Channels mit wenigeren Usern sind diese Meldungen nicht sonderlich bemerkbar,
 | Client                                    | Kommandos                                                                                                                                                                                                                                                                            |
 |-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | AndChat (Android App)                     | "Settings" -> "Messages & Rooms" -> "Hide join/part/quit Messages" aktivieren                                                                                                                                                                                                  |
-| [HexChat](http://hexchat.github.io/)      | a. Rechtsklick auf den Channel, den ihr ändern wollt, dann unter Einstellungen "Hide Join/Part Messages"  
+| [HexChat](https://hexchat.github.io/)      | a. Rechtsklick auf den Channel, den ihr ändern wollt, dann unter Einstellungen "Hide Join/Part Messages"  
 
                                              b. Geht zu den Einstellungen unter » Preferences, under Chatting » General, danach auf "Hide join and part Messages" klicken.                                                                                                                                                         |
 | [ircII](http://www.eterna.com.au/ircii/)  | /ignore \* crap                                                                                                                                                                                                                                                                      |
-| [Irssi](http://www.irssi.org)             | /ignore -channels \#somechannel \* JOINS PARTS QUITS                                                                                                                                                                                                                                 |
-| [KVIrc](http://www.kvirc.net)             | Holt euch die Informationen in [diesem Thread](http://www.kvirc.ru/forum/?topic=609.0) vom offiziellen KVIrc Forum.                                                                                                                                                                  |
-| [mIRC](http://www.mirc.com/)              | Tools » Options » wählt "IRC". Klickt auf den "Events..." Button. Ändert die "joins", "parts", "quits", und "nicks" zu der jeweiligen Einstellung: "In Status" oder "Hide" sind gute Optionen. [1](http://i.clintecker.com/disable-irc-msgs.html).                                   |
-| [Quassel IRC](http://www.quassel-irc.org) | Rechtsklick auf das Fenster worin ihr chattet, wählt dann "Hide Events" » "Join/Part/Quit".                                                                                                                                                                                          |
-| [XChat](http://www.xchat.org)             | Rechtsklick auf den Tab, den ihr ändern wollt. Im Untermenu der Channel Namen, könnt ihr "Show join/part messages" ein- und ausschalten. Oder ihr gibt /set irc\_conf\_mode 1 ein [2](http://xchat.org/faq/#q211), um diese Nachrichten über alle Channels hindurch zu deaktivieren. |
+| [Irssi](https://irssi.org)             | /ignore -channels \#somechannel \* JOINS PARTS QUITS                                                                                                                                                                                                                                 |
+| [KVIrc](https://www.kvirc.net/)             | Holt euch die Informationen in [diesem Thread](http://www.kvirc.ru/forum/?topic=609.0) vom offiziellen KVIrc Forum.                                                                                                                                                                  |
+| [mIRC](https://www.mirc.com/)              | Tools » Options » wählt "IRC". Klickt auf den "Events..." Button. Ändert die "joins", "parts", "quits", und "nicks" zu der jeweiligen Einstellung: "In Status" oder "Hide" sind gute Optionen. [1](http://web.archive.org/web/20160304201229/http://i.clintecker.com/disable-irc-msgs.html).                                   |
+| [Quassel IRC](https://quassel-irc.org/) | Rechtsklick auf das Fenster worin ihr chattet, wählt dann "Hide Events" » "Join/Part/Quit".                                                                                                                                                                                          |
+| [XChat](http://xchat.org/)             | Rechtsklick auf den Tab, den ihr ändern wollt. Im Untermenu der Channel Namen, könnt ihr "Show join/part messages" ein- und ausschalten. Oder ihr gibt /set irc\_conf\_mode 1 ein [2](http://xchat.org/faq/#q211), um diese Nachrichten über alle Channels hindurch zu deaktivieren. |
 
 Sofern euer IRC Client nicht verzeichnet ist, könnt ihr diese hier hinzufügen und wie es bei diesen funktioniert.

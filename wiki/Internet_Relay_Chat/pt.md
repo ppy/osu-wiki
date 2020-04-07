@@ -4,13 +4,13 @@ outdated: true
 
 # Internet Relay Chat
 
-[IRC](http://en.wikipedia.org/wiki/Internet_Relay_Chat) é um protocolo de comunicação para bate-papo com muitos clientes disponíveis para se conectar.
+[IRC](https://pt.wikipedia.org/wiki/Internet_Relay_Chat) é um protocolo de comunicação para bate-papo com muitos clientes disponíveis para se conectar.
 
 ## osu! Chat
 
 osu! usa o protocolo IRC para o [chat do jogo](/wiki/Chat_Console). Você pode se conectar com um cliente externo e conversar com seus osu!amigos mesmo quando não está jogando. Note que o osu! Bancho usa uma implementação personalizada do protocolo IRC, e não possui todas as funcionalidades conhecidas; Nem todas as ferramentas do seu cliente IRC externo vão funcionar corretamente.
 
-**Observação: [HexChat](http://hexchat.github.io/) é conhecido por ter problemas com o IRC do osu!** ([histórico de bugs do HexChat's no GitHub](http://github.com/hexchat/hexchat/issues/818)), considere usar outro cliente caso isso te incomode.
+**Observação: [HexChat](https://hexchat.github.io/) é conhecido por ter problemas com o IRC do osu!** ([histórico de bugs do HexChat's no GitHub](https://github.com/hexchat/hexchat/issues/818)), considere usar outro cliente caso isso te incomode.
 
 ### Como Se Conectar
 
@@ -58,17 +58,17 @@ Caso esteja em canais com poucas pessoas isso não é incomodo, mas pessoas entr
 
 | Client                                    | Comandos                                                                                                                                                                                                                                                               |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [HexChat](http://hexchat.github.io/)      | a. Clique com o direito do mouse no canal que você quer configurar, abaixa do submenu de configurações, cheque "Hide Join/Part Messages" (Mensagens de Entrada/Saída)  
+| [HexChat](https://hexchat.github.io/)      | a. Clique com o direito do mouse no canal que você quer configurar, abaixa do submenu de configurações, cheque "Hide Join/Part Messages" (Mensagens de Entrada/Saída)  
 
                                              b. Vá para Configurações » Preferências, abaixo de Conversa » Geral, cheque "Hide join and part Messages" (Mensagens de Entrada/Saída)                                                                                                                                  |
 | [ircII](http://www.eterna.com.au/ircii/)  | /ignore                                                                                                                                                                                                                                                                |
-| [Irssi](http://www.irssi.org)             | /ignore -channels \#nomedocal \* JOINS PARTS SAIU                                                                                                                                                                                                                      |
-| [Weechat](http://www.weechat.org)         | /filter add irc\_smart\_weechat irc.algumnome.\#filtro\_inteligente\_irc dealgumcanal \*  
+| [Irssi](https://irssi.org)             | /ignore -channels \#nomedocal \* JOINS PARTS SAIU                                                                                                                                                                                                                      |
+| [Weechat](https://weechat.org/)         | /filter add irc\_smart\_weechat irc.algumnome.\#filtro\_inteligente\_irc dealgumcanal \*  
 
                                              **Note:** algumnome é o nome que você escolheu quando adicionou o sevidor IRC ao Weechat.                                                                                                                                                                               |
-| [KVIrc](http://www.kvirc.net)             | Consulte [this thread](http://www.kvirc.ru/forum/?topic=609.0) nos forums oficiais do KVIrc.                                                                                                                                                                           |
-| [mIRC](http://www.mirc.com/)              | Ferramentas » Opções » selecione "IRC". Clique no botão"Events...". Mude "joins", "parts", "quits", e "nicks" para as configurações desejadas: "No Status" ou "Esconder" são boas opções [1](http://i.clintecker.com/disable-irc-msgs.html).                           |
-| [Quassel IRC](http://www.quassel-irc.org) | Clique com o direito na janela de conversa, então escolha Esconder Eventos » Join/Part/Quit.                                                                                                                                                                           |
-| [XChat](http://www.xchat.org)             | Clique com o direito na aba que quer mudar. No submenu do nome do canal, tem uma caixa de seleção "Show join/part messages", simplesmente desmarque isso. Ou digite/set irc\_conf\_mode 1 [2](http://xchat.org/faq/#q211) para desativar mensagens de todos os canais. |
+| [KVIrc](https://www.kvirc.net/)             | Consulte [this thread](http://www.kvirc.ru/forum/?topic=609.0) nos forums oficiais do KVIrc.                                                                                                                                                                           |
+| [mIRC](https://www.mirc.com/)              | Ferramentas » Opções » selecione "IRC". Clique no botão"Events...". Mude "joins", "parts", "quits", e "nicks" para as configurações desejadas: "No Status" ou "Esconder" são boas opções [1](http://web.archive.org/web/20160304201229/http://i.clintecker.com/disable-irc-msgs.html).                           |
+| [Quassel IRC](https://quassel-irc.org/) | Clique com o direito na janela de conversa, então escolha Esconder Eventos » Join/Part/Quit.                                                                                                                                                                           |
+| [XChat](http://xchat.org/)             | Clique com o direito na aba que quer mudar. No submenu do nome do canal, tem uma caixa de seleção "Show join/part messages", simplesmente desmarque isso. Ou digite/set irc\_conf\_mode 1 [2](http://xchat.org/faq/#q211) para desativar mensagens de todos os canais. |
 
 Se seu cliente externo não está listado aqui então confira sua documentação, a maioria dos clientes externos possuem uma forma de fazer isso.

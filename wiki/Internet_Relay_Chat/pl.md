@@ -4,13 +4,13 @@ outdated: true
 
 # Internet Relay Chat
 
-[Internet Relay Chat](http://en.wikipedia.org/wiki/Internet_Relay_Chat), znany także jako IRC, jest ugruntowanym, standaryzowanym protokołem do czatu z wieloma klientami naraz.
+[Internet Relay Chat](https://pl.wikipedia.org/wiki/Internet_Relay_Chat), znany także jako IRC, jest ugruntowanym, standaryzowanym protokołem do czatu z wieloma klientami naraz.
 
 ## Czat osu!
 
 osu! używa protokołu IRC dla [czatu wewnętrznego](/wiki/Chat_Console). Możesz połączyć się za pomocą własnego klienta IRC i rozmawiać ze swoimi znajomymi, nawet jeżeli nie masz samej gry. Należy zwrócić uwagę, że Bancho używa własnej implementacji protokołu IRC i nie zawiera w sobie wszystkich jego cech. Nie powinno się w tym wypadku spodziewać poprawnej obsługi wszystkich funkcji twojego klienta IRC.
 
-**Uwaga: Wiadomo, że [HexChat](http://hexchat.github.io/) ma pewne problemy z protokołem IRC osu!** ([raport błędu z GitHuba HexChatu](http://github.com/hexchat/hexchat/issues/818)), zaleca się użycie innego klienta IRC jeżeli nagminnie przysparza to kłopotów.
+**Uwaga: Wiadomo, że [HexChat](https://hexchat.github.io/) ma pewne problemy z protokołem IRC osu!** ([raport błędu z GitHuba HexChatu](https://github.com/hexchat/hexchat/issues/818)), zaleca się użycie innego klienta IRC jeżeli nagminnie przysparza to kłopotów.
 
 ### Jak się połączyć?
 
@@ -59,18 +59,18 @@ Na mniejszych kanałach nie jest to zazwyczaj uciążliwe, natomiast zalew infor
 
 | Klient                                    | Komenda                                                                                                                                                                                                                                                                  |
 |-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [HexChat](http://hexchat.github.io/)      | a. Kliknąć prawym przyciskiem na kanał na którym chce się dokonać zmiany (pod menu Settings) i zaznaczyć „Hide Join/Part Messages”  
+| [HexChat](https://hexchat.github.io/)      | a. Kliknąć prawym przyciskiem na kanał na którym chce się dokonać zmiany (pod menu Settings) i zaznaczyć „Hide Join/Part Messages”  
 
                                              b. Settings » Preferences, (pod Chatting) » General i zaznaczyć „Hide join and part Messages”                                                                                                                                                                             |
 | [ircII](http://www.eterna.com.au/ircii/)  | /ignore \* crap                                                                                                                                                                                                                                                          |
-| [Irssi](http://www.irssi.org)             | /ignore -channels \#kanał \* JOINS PARTS QUITS                                                                                                                                                                                                                           |
-| [Weechat](http://www.weechat.org)         | /filter add irc\_smart\_weechat irc.nick.\#kanał irc\_smart\_filter \*  
+| [Irssi](https://irssi.org)             | /ignore -channels \#kanał \* JOINS PARTS QUITS                                                                                                                                                                                                                           |
+| [Weechat](https://weechat.org/)         | /filter add irc\_smart\_weechat irc.nick.\#kanał irc\_smart\_filter \*  
 
                                              **Notka:** nick to nazwa podana przy dodawaniu serwera IRC do WeeChat.                                                                                                                                                                                                    |
-| [KVIrc](http://www.kvirc.net)             | Należy odnieść się do [tego wątku](http://www.kvirc.ru/forum/?topic=609.0) na oficjalnym forum KVIrc                                                                                                                                                                     |
-| [mIRC](http://www.mirc.com/)              | Tools » Options » „IRC”. Kliknąć przycisk „Events...”, po czym zmienić „joins”, „parts”, „quits”, and „nicks” na pożądane opcje: „In Status” lub „Hide” są rekomendowanymi ustawieniami [1](http://i.clintecker.com/disable-irc-msgs.html).                              |
-| [Quassel IRC](http://www.quassel-irc.org) | Klikniąć prawym przyciskiem myszy okienko czatu, a następnie wybrać Hide Events » Join/Part/Quit.                                                                                                                                                                        |
-| [XChat](http://www.xchat.org)             | Kliknąć prawym przyciskiem myszy na zakładkę na której chce się zmiany. W podmenu z nazwą kanału znajduje się przełączalna „Show join/part messages”. Można też napisać „/set irc\_conf\_mode 1” [2](http://xchat.org/faq/#q211), by wyłączyć powiadomienia na kanałach. |
+| [KVIrc](https://www.kvirc.net/)             | Należy odnieść się do [tego wątku](http://www.kvirc.ru/forum/?topic=609.0) na oficjalnym forum KVIrc                                                                                                                                                                     |
+| [mIRC](https://www.mirc.com/)              | Tools » Options » „IRC”. Kliknąć przycisk „Events...”, po czym zmienić „joins”, „parts”, „quits”, and „nicks” na pożądane opcje: „In Status” lub „Hide” są rekomendowanymi ustawieniami [1](http://web.archive.org/web/20160304201229/http://i.clintecker.com/disable-irc-msgs.html).                              |
+| [Quassel IRC](https://quassel-irc.org/) | Klikniąć prawym przyciskiem myszy okienko czatu, a następnie wybrać Hide Events » Join/Part/Quit.                                                                                                                                                                        |
+| [XChat](http://xchat.org/)             | Kliknąć prawym przyciskiem myszy na zakładkę na której chce się zmiany. W podmenu z nazwą kanału znajduje się przełączalna „Show join/part messages”. Można też napisać „/set irc\_conf\_mode 1” [2](http://xchat.org/faq/#q211), by wyłączyć powiadomienia na kanałach. |
 
 Jeżeli używany klient nie został tutaj podany, należy odnieść się bezpośrednio do jego dokumentacji. Większość klientów posiada sposób na ukrycie tych powiadomień.
 

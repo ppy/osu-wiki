@@ -10,7 +10,7 @@ IRCとしても知られる[Internet Relay Chat](https://ja.wikipedia.org/wiki/I
 
 osu!BanchoはIRC（ゲーム内チャット）アクセス用のゲートウェイを提供します。ゲームクライアントを使用せずに、自分のクライアントに接続して他の人とチャットできます。このIRCプロトコルは変更されているため、クライアントの機能が正常に動作することを期待しないでください。
 
-**注意: [HexChat](http://hexchat.github.io/)はosu!のIRCに問題があることが知られています** ([HexChatのGitHubのバグレポート](http://github.com/hexchat/hexchat/issues/818))、気になる場合は別のクライアントの使用を検討してみてください。
+**注意: [HexChat](https://hexchat.github.io/)はosu!のIRCに問題があることが知られています** ([HexChatのGitHubのバグレポート](https://github.com/hexchat/hexchat/issues/818))、気になる場合は別のクライアントの使用を検討してみてください。
 
 ## 接続方法
 
@@ -51,14 +51,14 @@ osu!BanchoはIRC（ゲーム内チャット）アクセス用のゲートウェ�
 
 | IRCクライアント | 説明 |
 | :-- | :-- |
-| [HexChat](http://hexchat.github.io/) | Settings - Preferences に移動し、Chatting - Generalで"Hide join and part messages"をオンにする |
+| [HexChat](https://hexchat.github.io/) | Settings - Preferences に移動し、Chatting - Generalで"Hide join and part messages"をオンにする |
 | [ircII](http://www.eterna.com.au/ircii/) | `/ignore * crap` を入力 |
-| [Irssi](http://www.irssi.org) | `/ignore -channels #somechannel * JOINS PARTS QUITS` を入力 |
-| [Weechat](http://www.weechat.org) | `/filter add irc_smart_weechat irc.username.#channel irc_smart_filter *` を入力<br> **注意:** **ユーザー名** をあなたのosu!ユーザー名に置き換えてください！
-| [KVIrc](http://www.kvirc.net) | 公式KVIrcフォーラムの[このスレッド](http://www.kvirc.ru/forum/?topic=609.0)にアクセスしてください。 |
-| [mIRC](http://www.mirc.com/) | mIRCオプション(Tools - Options / Alt + O)に移動し、IRCツリーで"Events..."ボタンをクリックして、JoinsとPartsを"Hide"に変更します。 |
-| [Quassel IRC](http://www.quassel-irc.org) | チャットウィンドウを右クリックして、Hide Events » Join/Part/Quit を選択します。 |
-| [XChat](http://www.xchat.org) | `/set irc_conf_mode 1`を入力 (または[2](http://xchat.org/faq/#q211)でチャンネル全体のメッセージを無効にします)。 |
+| [Irssi](https://irssi.org) | `/ignore -channels #somechannel * JOINS PARTS QUITS` を入力 |
+| [Weechat](https://weechat.org/) | `/filter add irc_smart_weechat irc.username.#channel irc_smart_filter *` を入力<br> **注意:** **ユーザー名** をあなたのosu!ユーザー名に置き換えてください！
+| [KVIrc](https://www.kvirc.net/) | 公式KVIrcフォーラムの[このスレッド](http://www.kvirc.ru/forum/?topic=609.0)にアクセスしてください。 |
+| [mIRC](https://www.mirc.com/) | mIRCオプション(Tools - Options / Alt + O)に移動し、IRCツリーで"Events..."ボタンをクリックして、JoinsとPartsを"Hide"に変更します。 |
+| [Quassel IRC](https://quassel-irc.org/) | チャットウィンドウを右クリックして、Hide Events » Join/Part/Quit を選択します。 |
+| [XChat](http://xchat.org/) | `/set irc_conf_mode 1`を入力 (または[2](http://xchat.org/faq/#q211)でチャンネル全体のメッセージを無効にします)。 |
 
 クライアントがここにリストされていない場合、そのドキュメントを参照してください。ほとんどのクライアントにはこれを行う方法があります。
 

@@ -57,7 +57,7 @@ someuser은 #somechannel을 퇴장 했습니다.
 
 | 클라이언트 | 명령어                                                                                                                                                                                                         |
 |------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| mIRC       | 보기 => 옵션 => "IRC" 찾아서. "이벤트..." 버튼을 클릭. "접속", "parts", "퇴장", 그리고 "닉네임" 의 세팅을 바꾸세요: "상태" 또는 "숨기기" 는 좋은 옵션 [1](http://i.clintecker.com/disable-irc-msgs.html) |
+| mIRC       | 보기 => 옵션 => "IRC" 찾아서. "이벤트..." 버튼을 클릭. "접속", "parts", "퇴장", 그리고 "닉네임" 의 세팅을 바꾸세요: "상태" 또는 "숨기기" 는 좋은 옵션 [1](http://web.archive.org/web/20160304201229/http://i.clintecker.com/disable-irc-msgs.html) |
 | XChat      | 오른쪽 클릭해서 바꿀수 있습니다. 채널명의 하위메뉴에서, 토글로 "보기 접속/퇴장 messages", 을 꺼버리세요. 또는 /set irc\_conf\_mode 1 [2](http://xchat.org/faq/#q211)                                           |
 | ircII      | /ignore \* crap                                                                                                                                                                                                |
 | Irssi      | /ignore -channels \#somechannel \* JOINS PARTS QUITS                                                                                                                                                           |

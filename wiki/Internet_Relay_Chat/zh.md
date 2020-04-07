@@ -4,13 +4,13 @@ outdated: true
 
 # IRC
 
-[互联网中继聊天](http://zh.wikipedia.org/wiki/IRC), 简称IRC, 是一种用于群体聊天的协议.
+[互联网中继聊天](https://zh.wikipedia.org/wiki/IRC), 简称IRC, 是一种用于群体聊天的协议.
 
 # osu! 聊天
 
 osu! 使用IRC协议进行[游戏内聊天](/wiki/Chat_Console)([英文:Chat Console](/wiki/Chat_Console). 通过其他的IRC客户端,你可以不打开osu!即可和你的好友聊天. 注意osu! Bancho使用的IRC协议并不是标准的IRC协议,因此某些IRC客户端在osu! Bancho上可能无法正常运行.
 
-**注意: 已知[HexChat](http://hexchat.github.io/)连接osu! Bancho时会发生一些问题 .**([这里是Github上的issue](http://github.com/hexchat/hexchat/issues/818)), 如果这个问题很恼人的话,考虑换一个客户端.
+**注意: 已知[HexChat](https://hexchat.github.io/)连接osu! Bancho时会发生一些问题 .**([这里是Github上的issue](https://github.com/hexchat/hexchat/issues/818)), 如果这个问题很恼人的话,考虑换一个客户端.
 
 ## 如何连接
 
@@ -59,18 +59,18 @@ someuser has quit #somechannel
 
 | 客户端                                    | 操作                                                                                                                                                                                                                                                                     |
 |-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [HexChat](http://hexchat.github.io/)      | a. 右键单击某一频道，在设置子选单中，点击"Hide Join/Part Messages"  
+| [HexChat](https://hexchat.github.io/)      | a. 右键单击某一频道，在设置子选单中，点击"Hide Join/Part Messages"  
 
                                              b. 前往 Settings » Preferences, 在 Chatting » General中 , 勾选 "Hide join and part Messages"                                                                                                                                                                              |
 | [ircII](http://www.eterna.com.au/ircii/)  | /ignore \* crap                                                                                                                                                                                                                                                          |
-| [Irssi](http://www.irssi.org)             | /ignore -channels \#频道名称\* JOINS PARTS QUITS                                                                                                                                                                                                                         |
-| [Weechat](http://www.weechat.org)         | /filter add irc\_smart\_weechat irc.somename.\#频道名称l irc\_smart\_filter \*  
+| [Irssi](https://irssi.org)             | /ignore -channels \#频道名称\* JOINS PARTS QUITS                                                                                                                                                                                                                         |
+| [Weechat](https://weechat.org/)         | /filter add irc\_smart\_weechat irc.somename.\#频道名称l irc\_smart\_filter \*  
 
                                              **Note:** somename是你在Weechat中定义的irc服务器地址.                                                                                                                                                                                                                     |
-| [KVIrc](http://www.kvirc.net)             | 参阅[KVIrc论坛上的信息](http://www.kvirc.ru/forum/?topic=609.0) .                                                                                                                                                                                                        |
-| [mIRC](http://www.mirc.com/)              | Tools » Options » pick "IRC". Click the "Events..." button. Change the "joins", "parts", "quits", and "nicks" to your desired settings: "In Status" or "Hide" are good options [1](http://i.clintecker.com/disable-irc-msgs.html).                                       |
-| [Quassel IRC](http://www.quassel-irc.org) | 右键点击聊天窗口 ，选择Hide Events » Join/Part/Quit.                                                                                                                                                                                                                     |
-| [XChat](http://www.xchat.org)             | Right-click on the tab you want to change. In the submenu of the channelname, there's a toggle-item "Show join/part messages", simply turn this off. Or you type /set irc\_conf\_mode 1 [2](http://xchat.org/faq/#q211) to disable the messages throughout the channels. |
+| [KVIrc](https://www.kvirc.net/)             | 参阅[KVIrc论坛上的信息](http://www.kvirc.ru/forum/?topic=609.0) .                                                                                                                                                                                                        |
+| [mIRC](https://www.mirc.com/)              | Tools » Options » pick "IRC". Click the "Events..." button. Change the "joins", "parts", "quits", and "nicks" to your desired settings: "In Status" or "Hide" are good options [1](http://web.archive.org/web/20160304201229/http://i.clintecker.com/disable-irc-msgs.html).                                       |
+| [Quassel IRC](https://quassel-irc.org/) | 右键点击聊天窗口 ，选择Hide Events » Join/Part/Quit.                                                                                                                                                                                                                     |
+| [XChat](http://xchat.org/)             | Right-click on the tab you want to change. In the submenu of the channelname, there's a toggle-item "Show join/part messages", simply turn this off. Or you type /set irc\_conf\_mode 1 [2](http://xchat.org/faq/#q211) to disable the messages throughout the channels. |
 
 其他的IRC客户端用户可以参阅对应客户端的文档。
 
