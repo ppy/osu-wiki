@@ -8,7 +8,7 @@ outdated: true
 
 ## Introduzione
 
-Maggiori informazioni e fonti al [link](https://osu.ppy.sh/home/support)
+Maggiori informazioni e fonti al link: <https://osu.ppy.sh/home/support>
 
 Nota bene: le donazioni servono per sostenere tutti i costi di osu! nel complesso.
 

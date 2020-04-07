@@ -8,7 +8,7 @@ outdated: true
 
 ## Introductie
 
-Verwijzing naar de [link](https://osu.ppy.sh/home/support)
+Verwijzing naar de link: <https://osu.ppy.sh/home/support>
 
 In het kort: Donaties worden gebruikt om osu! draaiend te houden.
 

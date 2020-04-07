@@ -6,7 +6,7 @@ outdated: true
 
 ![主页上的 osu!supporter 链接](img/store-product.jpg "主页上的 osu!supporter 链接")
 
-[请参见](https://osu.ppy.sh/home/support)
+请参见：<https://osu.ppy.sh/home/support>
 
 简而言之：赞助 osu! 可以从各方面帮助我们。
 

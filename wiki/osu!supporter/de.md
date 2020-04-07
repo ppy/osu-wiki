@@ -8,7 +8,7 @@ outdated: true
 
 ## Einleitung
 
-Übergeleitet von [diesem Link](https://osu.ppy.sh/home/support)
+Übergeleitet von diesem Link: <https://osu.ppy.sh/home/support>
 
 Kurz gefasst: Die Unterstützungen tragen dazu bei, dass osu! am Laufen ist, ohne dabei für das Spiel selber zahlen zu müssen.
 

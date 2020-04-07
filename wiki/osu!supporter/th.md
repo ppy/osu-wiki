@@ -8,7 +8,7 @@ outdated: true
 
 ## มันคืออะไร
 
-[จากลิงค์](https://osu.ppy.sh/home/support)
+จากลิงค์: <https://osu.ppy.sh/home/support>
 
 สั้นๆ: คือการบริจาคเงินส่วนหนึ่งเพื่อให้ osu! อยู่รอดได้
 
