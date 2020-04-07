@@ -50,7 +50,7 @@ Une fois que vous avez choisi votre client IRC, vous devez configurer les param�
 | [HexChat](https://hexchat.github.io/) | Allez dans Settings - Preferences, sous Chatting - General, cochez la case "Hide join and part messages". |
 | [ircII](http://www.eterna.com.au/ircii/) | Taper `/ignore * crap` |
 | [Irssi](https://irssi.org) | Taper `/ignore -channels #somechannel * JOINS PARTS QUITS` |
-| [Weechat](https://weechat.org/) | Taper `/filter add irc_smart_weechat irc.username.#channel irc_smart_filter *` <br> **Note:** Remplacez **nom d'utilisateur** par votre nom d'utilisateur osu! .
+| [Weechat](https://weechat.org/) | Taper `/filter add irc_smart_weechat irc.username.#channel irc_smart_filter *`. **Note:** Remplacez **nom d'utilisateur** par votre nom d'utilisateur osu! .
 | [KVIrc](https://www.kvirc.net/) | Visitez [ce fil de discussions](http://www.kvirc.ru/forum/?topic=609.0) sur les forums officiels de KVIrc. |
 | [mIRC](https://www.mirc.com/) | Allez dans les options mIRC ((Tools - Options / Alt + O), sous l’arborescence IRC, cliquez sur le bouton "Events..." et changez Join/Quit par "Hide". |
 | [Quassel IRC](https://quassel-irc.org/) | Faites un clic droit sur la fenêtre de discussion, puis choisissez Masquer les événements » Join/Part/Quit. |

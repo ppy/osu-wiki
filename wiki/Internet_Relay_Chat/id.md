@@ -53,7 +53,7 @@ Mengetahui pemain yang masuk atau meninggalkan adalah hal baik, namun jika kanal
 | [HexChat](https://hexchat.github.io/)      | Buka Pengaturan - Pengaturan, di bawah Obrolan - Umum, centang "Sembunyikan pesan gabung dan pisah" |
 | [ircII](http://www.eterna.com.au/ircii/)  | Ketik `/ignore * crap` |
 | [Irssi](https://irssi.org)             | Ketik `/ignore -channels #somechannel * JOINS PARTS QUITS` |
-| [Weechat](https://weechat.org/)         | Ketik `/filter add irc_smart_weechat irc.username.#channel irc_smart_filter *` <br> **Catatan:** Ganti **username** dengan nama pengguna osu! anda.
+| [Weechat](https://weechat.org/)         | Ketik `/filter add irc_smart_weechat irc.username.#channel irc_smart_filter *`. **Catatan:** Ganti **username** dengan nama pengguna osu! anda.
 | [KVIrc](https://www.kvirc.net/)             | Kunjungi [utas ini](http://www.kvirc.ru/forum/?topic=609.0) di forum resmi KVIrc |
 | [mIRC](https://www.mirc.com/)              | Buke Pengaturan mIRC (Tools - Options / Alt + O), di bawah IRC, klik tombol "Events..." dan ganti Joins and Parts menjadi "Hide" |
 | [Quassel IRC](https://quassel-irc.org/) | Klik kanan di jendela obrolan, lalu pilih Hide Events » Join/Part/Quit. |
