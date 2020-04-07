@@ -21,21 +21,21 @@ This month's issue of the Mappers' Report contains following topics:
 
 ## <a id="rc-changes"></a>Ranking Criteria Changes
 
-The Ranking Criteria. For one a blessing, for others a curse. And it’s changing all the time. This month we didn’t have many changes in the Ranking Criteria, that’s why we had a great idea. From now on we will also list ongoing discussions in the Mappers’ Report to give them a bit more of attention. The Ranking Criteria affects *all* mappers, and everyone should be aware of what is going on or what is going to happen. So let’s start right away with the changes we had this month. 
+The Ranking Criteria. For some a blessing, for others a curse. On top of that, it’s changing all the time. This month we didn’t have many changes in the Ranking Criteria, that’s why we had a great idea. From now on we will also list ongoing discussions in the Mappers’ Report to give them a bit more of attention. The Ranking Criteria affects *all* mappers, and everyone should be aware of what is going on or what is going to happen. So let’s start right away with this month's Ranking Criteria changes. 
 
 ### All modes
 
-- **[Applause File and Passive Hitsounds](https://osu.ppy.sh/help/wiki/Ranking_Criteria#guidelines.4):** Previously a Rule, this got now moved to the Guidelines. Applause files and passive hitsounds should use .mp3 or .ogg files. The only exception of this is when using a .wav file will result in smaller file size.
+- **[Applause File and Passive Hitsounds](https://osu.ppy.sh/help/wiki/Ranking_Criteria#guidelines.4):** Previously a Rule, this has now been changed to a Guideline. Applause files and passive hitsounds should use .mp3 or .ogg files. The only exception of this is when using a .wav file will result in smaller file size.
 
-- **[Generalised Mode-Specific Guidelines about Custom Hitsounds](https://osu.ppy.sh/help/wiki/Ranking_Criteria#guidelines.4):** Previously split between the General and osu!catch Ranking Criteria, this guideline exist only in the general Ranking Criteria now. The hit finish in soft and normal sample sets should not be replaced with frequently used hitsounds because these can sound obnoxious for anyone disabling beatmap hitsounds. osu!taiko has an exception of this Guideline because of own mode specific hitsound sample guideline. 
+- **[Generalised Mode-Specific Guidelines about Custom Hitsounds](https://osu.ppy.sh/help/wiki/Ranking_Criteria#guidelines.4):** Previously found in the osu! and osu!catch Ranking Criterias, this guideline has now been modified and moved to the general Ranking Criteria. The hit finish in soft and normal sample sets should not be replaced with frequently used hitsounds because these can sound obnoxious for anyone disabling beatmap hitsounds. osu!taiko beatmaps are exempt from this Guideline because the mode has its own mode-specific hitsound sample guideline. 
 
 ### osu!taiko 
 
-- **[1/3 Pattern in Futsuu](https://osu.ppy.sh/help/wiki/Ranking_Criteria/osu!taiko#-futsuu):** A change to the Rule and Guideline regarding 1/3 pattern was made. The clause about the rest moment was moved to the Guideline. 
+- **[1/3 Patterns in Futsuu](https://osu.ppy.sh/help/wiki/Ranking_Criteria/osu!taiko#-futsuu):** The osu!taiko Futsuu difficulty Rule and Guideline regarding 1/3 pattern has been modified. The clause about rest moments was moved from the Rule to the Guideline. 
 
 ## Open Ranking Criteria Proposals 
 
-As said previously, the Ranking Criteria is a never ending process. Everyone can suggest changes to it and there are currently a lot of proposals which need more input from the community! Every proposal can be found in the [Ranking Criteria Forum](https://osu.ppy.sh/community/forums/87). Here a small list of the most important and longest open one:
+As said previously, the Ranking Criteria is a never ending process. Everyone can suggest changes to it and there are currently a lot of proposals which need more input from the community! Every proposal can be found in the [Ranking Criteria Forum](https://osu.ppy.sh/community/forums/87). Here a small list of the most important and longest open proposals:
 
 For all modes:
 - **[Unofficial Cuts/Mixes of Songs must be Specific](https://osu.ppy.sh/community/forums/topics/917043)**
@@ -55,9 +55,9 @@ These and many others are currently discussed and need more input. So head right
 
 ## <a id=”nat-meetings”></a>NAT Meetings
 
-As mentioned in the past issue of the Mappers’ Report we were holding regular meetings. This month was no exception of it. With these two meetings we also managed to go through all pending discussion points we had, and meetings will not be held less regular, means only when we have something important to discuss.
+As mentioned in the past issue of the Mappers’ Report we were holding regular meetings, and the past several weeks were no exception. With these two meetings we also managed to go through all pending discussion points we had, meaning meetings will be less frequent going forward.
 
-If you have any topic which should be discussed in future meetings, please do not hesitate to contact any NAT member about it. If it’s about smaller things you can reach out to them right away. If it’s about something bigger, please consider to make a proposal first and post this one to a NAT member. 
+If you have any topics which should be discussed in future meetings, please do not hesitate to contact any NAT members about it For smaller things you can reach out to them right away. If it’s about something bigger, please consider making a proposal first to present to a NAT member. 
 
 Once enough topics are gathered, future NAT meeting dates will be announced in further Mappers’ Report issues, in #modding on the [osu!dev Discord server](https://discord.gg/ppy) and in the forum!
 
@@ -68,7 +68,9 @@ In the Cultivating BNs meeting, we discussed the State of BN subdivisions, Mento
 ### [Mar 22nd, 2020 - State of QAH + misc](https://osu.ppy.sh/community/forums/topics/1040456)
 
 This meeting discussed the current state of the Quality Assurance Helpers (QAH) and Ranking Criteria subforum engagement as its main topics. 
+
 For the QAH topic, we revisited the current state of the QAH and focused on evaluating the new changes made since the previous meeting about this topic in early December.  The meeting helped to gather information about what features the BN website is currently missing that could help make QAH work better. Additionally, the NAT has decided that QAH activity will count as 1/4th of a nomination for BN activity, although this number may be adjusted in the future.
+
 For the RC subforum topic, the meeting reviewed the current status and hashed out a plan going forward. Whenever possible, Ranking Criteria topics will be mentioned in both the osu!dev modding channel and this Mappers’ Report you’re reading to help give proposals more visibility. If you didn’t see it yet, you can find the proposals in the section above!
 
 ### Upcoming - Genre and Language Settings
@@ -77,7 +79,7 @@ The date the NAT will host this meeting has not been yet determined, but will be
 
 ## <a id=”within-bn-nat”></a>Within the Beatmap Nominators and NAT
 
-Just as last month, the BNG never rests. We always have new additions and old people retire. And this month is no exception! 
+Just as last month, the BNG never rests. We always have new additions and retirements. This month is no exception! 
 
 ### BN Additions
 
@@ -86,18 +88,18 @@ Just as last month, the BNG never rests. We always have new additions and old pe
 - **osu!catch:** [Daletto](https://osu.ppy.sh/users/7592136) & [Sinnoh](https://osu.ppy.sh/users/4236057)
 - **osu!mania:** [dudehacker](https://osu.ppy.sh/users/748722)
 
-### BN Removals
+### BN Resignations
 
 - **osu!:** [-Aqua](https://osu.ppy.sh/u/7150015), [Bibbity Bill](https://osu.ppy.sh/users/4446810), [Gero](https://osu.ppy.sh/users/1467715) & [Teky](https://osu.ppy.sh/users/10520912)
 - **osu!catch:** [wonjae](https://osu.ppy.sh/users/5032045)
 
 ### NAT Additions
 
-Good news everyone! We have a new person in the team. For osu!taiko, **[Tyistiana](https://osu.ppy.sh/users/1421452)** joined the NAT! After over one year of work as a Beatmap Nominator, and recently receiving the title of Elite Nominator, Tyistiana will not support Nepuri and Faputa with the Beatmap Nominator evaluations. Once again, welcome to the team!
+Good news everyone! We have a new person in the team. For osu!taiko, **[Tyistiana](https://osu.ppy.sh/users/1421452)** joined the NAT! After over one year of work as a Beatmap Nominator, and recently receiving the title of Elite Nominator, Tyistiana will now support Nepuri and Faputa with the osu!taiko Beatmap Nominator evaluations. Once again, welcome to the team!
 
 ### NAT Retirement 
 
-Just as we had a new addition with **[Tyistiana](https://osu.ppy.sh/users/1421452)**,  we had to say farewell to **[Ascendance](https://osu.ppy.sh/users/2931883)**. After one year of duty as a NAT he decided to take his leave. Ascendance served well in osu!catch and helped bring back life into the osu!taiko BNG with his care package. Thanks for all your work and we wish you all the best in the future!
+Just as we had a new addition with **[Tyistiana](https://osu.ppy.sh/users/1421452)**,  we had to say farewell to **[Ascendance](https://osu.ppy.sh/users/2931883)**. After one year of duty as a NAT he decided to take his leave. Ascendance served well in osu!catch and helped bring back life into the osu!taiko BNG with his care package. Thank you Ascendance for all your work and we wish you all the best in the future!
 
 ## <a id=”mappers-showcase”></a>Mappers’ Showcase
 
@@ -115,9 +117,7 @@ Even though the Mappers' Showcase starts off with osu!standard, each month will 
 
 ## <a id=”mapping-contests”></a>Mapping Contests
 
-While not currently announced, the April edition of the Monthly Beatmapping Contest should rear its head soon enough, so keep your eyes peeled at the front page where a news post should make its appearance shortly.
-
-There is a current drought in upcoming community run mapping contests, so we’d like to take this space to highlight recent wins or ongoing contests.
+In addition to summarizing upcoming contests, we will also use this space to highlight recent wins or ongoing contests.
 
 ### King of Catch Mapping Contest
 
@@ -139,7 +139,7 @@ Another new section this month! All around the community. Whenever something int
 
 ### The osu! Map Cast
 
-Starting up 2 months ago, there’s been a new podcast series hosted by [Cinnabun](https://osu.ppy.sh/users/11868659) titled the **osu! Map Cast**. This podcast is a series hosted on YouTube where Cinnabun talks with mappers, BNs, and NATs about their views on mapping, modding, and other related topics. With 8 episodes out and new episodes released weekly it will only further grow from here. In the episodes released so far, they’ve talked to the guests about osu! as well as their own personal experiences, so be sure to check it out if you want to learn something new or just want to listen to something osu! related. You can find out more about the osu! Map Cast [here](https://osu.ppy.sh/community/forums/topics/1043221)!
+Starting up 2 months ago, there’s been a new podcast series hosted by [Cinnabun](https://osu.ppy.sh/users/11868659) titled the **osu! Map Cast**. This podcast is a series hosted on YouTube where Cinnabun talks with mappers, BNs, and NATs about their views on mapping, modding, and other related topics. With 9 episodes out and new episodes released weekly it will only further grow from here. In the episodes released so far, they’ve talked to the guests about osu! as well as their own personal experiences, so be sure to check it out if you want to learn something new or just want to listen to something osu! related. You can find out more about the osu! Map Cast [here](https://osu.ppy.sh/community/forums/topics/1043221)!
 
 ### Community Mentorship
 
@@ -149,7 +149,7 @@ Previously announced in [another news post](https://osu.ppy.sh/home/news/2020-03
 
 ---
 
-And that’s it for this month! We thought our news post might be a bit shorter this time but we were proven wrong. Thanks to all the new content! Make sure to keep an eye out for the next NAT meeting announcement in the #modding channel on the [osu!dev Discord Server](https://discord.gg/ppy). Thank you for reading, stay safe and healthy!
+And that’s it for this month! We thought our news post might be a bit shorter this time but we were proven wrong thanks to all the new content! Make sure to keep an eye out for the next NAT meeting announcement in the #modding channel on the [osu!dev Discord Server](https://discord.gg/ppy). Thank you for reading, stay safe and healthy!
 
 See you next month!
 
