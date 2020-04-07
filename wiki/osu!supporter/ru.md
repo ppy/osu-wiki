@@ -8,7 +8,7 @@ outdated: true
 
 ## Введение
 
-Посмотрите эту ссылку: <https://osu.ppy.sh/home/support>
+Посмотрите [эту ссылку](https://osu.ppy.sh/home/support)
 
 Вкратце: пожертвования используются для поддержания osu! в целом.
 

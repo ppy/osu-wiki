@@ -8,11 +8,11 @@ outdated: true
 
 ## Вступление
 
-Источник: <https://osu.ppy.sh/home/news/2013-12-19-introducing-the-osu-academy>
-Официальный канал на Youtube: <https://www.youtube.com/user/osuacademy/videos>
-[Трейлер канала](https://www.youtube.com/watch?v=z5gy34k3RI0&featur).
-Официальный тред: <https://osu.ppy.sh/community/forums/topics/169707>
-Создатель: [ztrot](https://osu.ppy.sh/users/6347)
+- [Источник](https://osu.ppy.sh/home/news/2013-12-19-introducing-the-osu-academy)
+- [Официальный канал на Youtube](https://www.youtube.com/user/osuacademy/videos)
+- [Трейлер канала](https://www.youtube.com/watch?v=z5gy34k3RI0&featur).
+- [Официальный тред](https://osu.ppy.sh/community/forums/topics/169707)
+- Создатель: [ztrot](https://osu.ppy.sh/users/6347)
 
 **Академия osu!** — это твой гид в мир osu!, который доходчиво расскажет об аспектах игры, маппинга и всего, что с этим связано.
 

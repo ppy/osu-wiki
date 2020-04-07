@@ -8,9 +8,9 @@ outdated: true
 
 ## Wprowadzenie
 
-Źródło: <https://osu.ppy.sh/home/news/2013-12-19-introducing-the-osu-academy>
-Oficjalny kanał YouTube: <https://www.youtube.com/user/osuacademy/videos>
-Oficjalny wątek: <https://osu.ppy.sh/community/forums/topics/169707>
+- [Źródło](https://osu.ppy.sh/home/news/2013-12-19-introducing-the-osu-academy)
+- [Oficjalny kanał YouTube](https://www.youtube.com/user/osuacademy/videos)
+- [Oficjalny wątek](https://osu.ppy.sh/community/forums/topics/169707)
 
 **Akademia osu!** ma na celu wszechstronne ukazanie wszystkich aspektów osu!, od rozgrywki do mapowania i wszystkiego pomiędzy.
 

@@ -90,5 +90,5 @@ Ils ne sont diffusés nulle part d'autre puisque nous encourageons les uilisateu
 
 ## Liens Externes
 
-- Chaîne Youtube Officielle: <https://www.youtube.com/user/osuacademy/videos>
-- Thread Officiel: <https://osu.ppy.sh/community/forums/topics/225111>
+- [Chaîne Youtube Officielle](https://www.youtube.com/user/osuacademy/videos)
+- [Thread Officiel](https://osu.ppy.sh/community/forums/topics/225111)

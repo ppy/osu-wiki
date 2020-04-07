@@ -8,8 +8,9 @@ outdated: true
 
 ## Introdução
 
-Canal Oficial do YouTube: <https://www.youtube.com/user/osuacademy/videos>
-Fórum Oficial: <https://osu.ppy.sh/community/forums/topics/225111>
+- [Canal Oficial do YouTube](https://www.youtube.com/user/osuacademy/videos)
+- [Fórum Oficial](https://osu.ppy.sh/community/forums/topics/225111)
+
 **osu!talk** é uma serie de áudio digital apresentada por [ztrot](https://osu.ppy.sh/users/ztrot), e [deadbeat](https://osu.ppy.sh/users/deadbeat) como co-apresentador. A série tem como foco entrevistar varias pessoas da comunidade do osu!. Porém algumas vezes arranjam uma discussão em grupo sobre coisas diferentes acontecendo pela comunidade como mudanças na staff, ou problemas a longo prazo discutidos frequentemente como overmapping. A serie de áudio digital é feita de forma com que qualquer um possa se juntar a sessão e fazer perguntas durante o bloco "[Perguntas e Respostas](https://en.wikipedia.org/wiki/Q%26A)" do episódio.
 
 ## Episódios

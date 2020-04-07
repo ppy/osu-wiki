@@ -8,8 +8,9 @@ outdated: true
 
 ## Introduzione
 
-Canale YouTube Ufficiale: <https://www.youtube.com/user/osuacademy/videos>
-Thread Ufficiale: <https://osu.ppy.sh/community/forums/topics/225111>
+- [Canale YouTube Ufficiale](https://www.youtube.com/user/osuacademy/videos)
+- [Thread Ufficiale](https://osu.ppy.sh/community/forums/topics/225111)
+
 **osu!talk** è una serie podcast ospitata da [ztrot](https://osu.ppy.sh/users/ztrot), con [deadbeat](https://osu.ppy.sh/users/deadbeat) come secondo ospite. La serie si concentra nell'intervistare molte persone attorno alla communità di osu!. Comunque a volte organizziamo un grupo di discussione su diverse cose che succedono attorno alla comunità come cambiamenti nello staff, o problemi di lunga durata spesso discussi come l'overmapping. La serie podcast è impostata in modo che tutti possano entrare nella sessione in diretta e fare domande durante la parte [Q&A](https://it.wikipedia.org/wiki/Q%26A) dell'episodio. non si può vedere da nessuna parte la diretta perchè vorremmo incoraggiare gli utenti ad entrare e a partecipare.
 
 ## Episodi

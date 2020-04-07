@@ -8,7 +8,7 @@ outdated: true
 
 ## Introductie
 
-Verwijzing naar de link: <https://osu.ppy.sh/home/support>
+Verwijzing naar de [link](https://osu.ppy.sh/home/support)
 
 In het kort: Donaties worden gebruikt om osu! draaiend te houden.
 
@@ -22,7 +22,7 @@ In het kort: Donaties worden gebruikt om osu! draaiend te houden.
   - Iets specifieker; `menu-background.jpg` (Main Menu); `matchsetup-background.png` (Multi); `search-background.png` (osu!direct); `triangle.jpg` (Triangles); `welcome.wav` (Welcome Sound); `seeya.wav` (Exiting Sound)
 - [Feature Requests](https://osu.ppy.sh/community/forums/4): Extra stemmen voor Feature Requests (2 per maand).
 - [Song Selection](/wiki/Interface): De mogelijkheid om de rankings van een beatmap van jouw land / vrienden / mods te bekijken in-game.
-- Your Profile: <https://osu.ppy.sh/users/>
+- Your Profile: `https://osu.ppy.sh/users/`
   - Je kan een userpage aan je profiel toevoegen.
     - Je userpage verdwijnt niet als je osu!supporter is afgelopen.
   - De eenmalige mogelijkheid om je username te veranderen (één keer per account. Je kan je username hierna niet meer veranderen, uitzonderingen worden zeer zelden gemaakt).

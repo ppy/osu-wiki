@@ -8,7 +8,7 @@ outdated: true
 
 ## Einleitung
 
-Übergeleitet von diesem Link: <https://osu.ppy.sh/home/support>
+Übergeleitet von [diesem Link](https://osu.ppy.sh/home/support)
 
 Kurz gefasst: Die Unterstützungen tragen dazu bei, dass osu! am Laufen ist, ohne dabei für das Spiel selber zahlen zu müssen.
 
@@ -22,7 +22,7 @@ Kurz gefasst: Die Unterstützungen tragen dazu bei, dass osu! am Laufen ist, ohn
   - Genauer gesagt, `menu-background.jpg` (Hauptmenü); `matchsetup-background.png` (Multiplayer); `search-background.png` (osu!direct)
 - [Feature Requests](https://osu.ppy.sh/community/forums/4): Zusätzliche Votes für das Feature Requests Forum (Zwei Stück pro Monat).
 - [Songauswahl](/wiki/Interface): Die Möglichkeit, bei Beatmap Rankings nach Land, Freunden und mod-spezifischen Scores zu filtern.
-- Dein Profil: <https://osu.ppy.sh/users/>
+- Dein Profil: `https://osu.ppy.sh/users/`
   - Du kannst deine eigene individuelle Userpage aktivieren.
     - Dieser wird nie deaktiviert, selbst wenn du kein osu!supporter mehr bist.
   - Die Möglichkeit, einmalig deinen Username zu ändern (sobald dieser Versuch aufgebraucht ist, ist es dir nicht gestattet, noch einmal diesen zu ändern).

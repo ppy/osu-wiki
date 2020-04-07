@@ -6,7 +6,7 @@ outdated: true
 
 ![主页上的 osu!supporter 链接](img/store-product.jpg "主页上的 osu!supporter 链接")
 
-请参见：<https://osu.ppy.sh/home/support>
+[请参见](https://osu.ppy.sh/home/support)
 
 简而言之：赞助 osu! 可以从各方面帮助我们。
 
@@ -20,7 +20,7 @@ outdated: true
   - 具体包括：`menu-background.jpg`（主菜单）；`triangle.jpg`（三角形）；`welcome.wav`（欢迎音乐）；`seeya.wav`（退出音效）
 - [新功能需求](https://osu.ppy.sh/community/forums/4)：新功能需求的额外投票（每月 2 票，未赞助时每月 1 票）。
 - [歌曲选择](/wiki/Interface)：能在游戏中查看你所在国家/朋友/mod 特定排名。
-- 个人主页：<https://osu.ppy.sh/users/>
+- 个人主页：`https://osu.ppy.sh/users/`
   - 你可以在你的个人主页上添加个人介绍。
     - 即使你的 osu!supporter 到期了，你的个人介绍也不会被删除。
   - 你可以更改用户名。
