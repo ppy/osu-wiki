@@ -29,7 +29,7 @@
 
 ### Dari archiver
 
-**Software yang dibutuhkan:-**
+**Software yang dibutuhkan:*
 
 -   File archiver (WinRAR, 7zip)
 -   osu!
@@ -59,7 +59,7 @@
 
 ### Membuat file di game
 
-**Software yang dibutuhkan:-**
+**Software yang dibutuhkan:*
 
 -   osu!
 

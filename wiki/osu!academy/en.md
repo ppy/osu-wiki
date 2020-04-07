@@ -1,6 +1,8 @@
 ---
 needs_cleanup: true
+outdated: true
 ---
+<!-- TODO: new videos and branding -->
 
 # osu!academy
 

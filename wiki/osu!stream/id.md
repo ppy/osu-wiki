@@ -94,7 +94,7 @@ Os Easy.png|Easy Os Normal.png|Normal Os Hard.png|Hard Osu!stream Example.jpg|Ex
 
 #### Mode Easy
 
-<img src="Easy.jpg" title="fig:Right|Easy mode" alt="Right|Easy mode" width="300" /> **Tingkat Kesulitan: Easy + [NoFail](ID:NF "wikilink")**
+<img src="Easy.jpg" title="fig:Right|Easy mode" alt="Right|Easy mode" width="300" /> **Tingkat Kesulitan: Easy + [NoFail](/wiki/Game_Modifiers#no-fail)**
 Mode Easy dikhususkan untuk pemula agar dapat membiasakan gameplay dari osu!stream. Gameplaynya didesain dengan kelajuan yang lambat, agar pemain dapat mengerti alur dan timingnya. Tidak ada lifebar di mode ini dan memainkan mode Easy tidak akan membuka Mode Expert walau kamu telah mendapatkan akurasi 100% pada mode ini.
 
 Warna latarnya yaitu Hijau.
@@ -113,7 +113,7 @@ Os SU.png|Stream Up! Os SD.png|Stream Down! Os Zero1.png|Health Point Kriris Os 
 #### Mode Expert
 
 <img src="Expert.jpg" title="fig:Right|Expert mode" alt="Right|Expert mode" width="200" /> **Difficulty: Expert**
-Terkunci pada awalnya, dan hanya dapat dibuka dengan mendapatkan nilai A atau lebih pada mode Stream. Mode Expert dikhususkan untuk pemain yang membutuhkan tantangan lebih. Di mode ini, pemain diberikan lifebar yang terisi penuh dan pemain ditugaskan untuk menjaganya agar lifebar tidak habis sampai di akhir lagu. Menyelesaikan mode ini tidak akan membuka apapun, namun tentunya kamu akan merasa hebat, bukan? ![](Smiley_wink.gif "fig:Smiley_wink.gif")
+Terkunci pada awalnya, dan hanya dapat dibuka dengan mendapatkan nilai A atau lebih pada mode Stream. Mode Expert dikhususkan untuk pemain yang membutuhkan tantangan lebih. Di mode ini, pemain diberikan lifebar yang terisi penuh dan pemain ditugaskan untuk menjaganya agar lifebar tidak habis sampai di akhir lagu. Menyelesaikan mode ini tidak akan membuka apapun, namun tentunya kamu akan merasa hebat, bukan?
 
 Warna latarnya yaitu ungu dan tingkat kecerahan layar bergantung pada HP yang kamu miliki.
 
@@ -123,13 +123,13 @@ Os MM.png|Menu utama Osu!stream SONG.jpg|Daftar pilihan lagu Os store.jpg|Layar 
 
 ## Song list
 
-***Buka [laman ini untuk daftar lagunya](ID:Osu!stream/Song_list "wikilink")***.
+***Buka [laman ini untuk daftar lagunya](Song_List)***.
 
 ## Penilaian
 
 ### Akurasi
 
-[`Akurasi`](ID:Accuracy "wikilink")` = HitValue / (PerfectHitValue)`
+[`Akurasi`](/wiki/Accuracy)` = HitValue / (PerfectHitValue)`
 
 `HitValue = (Jumlah `*`miss`*` * 0 + Jumlah 50 * 1 + Jumlah 100 * 2 + Jumlah 300 * 4)`
 `PerfectHitValue = (Jumlah `*`miss`*` + Jumlah 50 + Jumlah 100 + Jumlah 300) * 4`
@@ -263,7 +263,7 @@ HP tidak akan berkurang apabila:
 
 ## Siapa saja yang ikut berkontribusi dalam pembuatan osu!stream?
 
--   [Klik disini.](Media:Os_C.jpg "wikilink")
+![](img/Os-Credit.jpg)
 
 # Tautan
 

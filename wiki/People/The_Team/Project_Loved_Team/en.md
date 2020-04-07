@@ -6,7 +6,7 @@ tags:
 
 # Project Loved Team
 
-The **Project Loved Team** are members of the osu! community who manage [Project Loved](/wiki/Project_Loved), the voting platform that promotes beatmaps to the [Loved](/wiki/Beatmaps#loved) category.
+The **Project Loved Team** are members of the osu! community who manage [Project Loved](/wiki/Project_Loved), the voting platform that promotes [beatmaps](/wiki/Beatmaps) to the [Loved](/wiki/Beatmaps#loved) category.
 
 ## Roles and responsibilities
 
@@ -16,9 +16,9 @@ The rest of the team helps with quality control, maintenance, and organisation.
 
 ## Team members
 
-*Note: There is a Project Loved user group on the website with group ID 31, but the listing is not public. It is only used for management purposes.*
+<!-- TODO: should probably document old team members, since they aren't credited on the osu! Alumni page -->
 
-![][flag_US] **[Toy](https://osu.ppy.sh/users/2757689)** manages Project Loved and coordinates most of its activities.
+*Note: There is a Project Loved user group on the website with group ID 31, but the listing is not public. It is only used for management purposes.*
 
 ### osu!standard captains
 
@@ -32,9 +32,7 @@ The rest of the team helps with quality control, maintenance, and organisation.
 ### osu!taiko captains
 
 - ![][flag_CL] **[-Kazu-](https://osu.ppy.sh/users/920861)**
-- ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401)
 - ![][flag_US] [jyake](https://osu.ppy.sh/users/9099822)
-- ![][flag_CL] [lineqtxz](https://osu.ppy.sh/users/989542)
 - ![][flag_JP] [nyanmi-1828](https://osu.ppy.sh/users/6866480)
 - ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669)
 
@@ -54,11 +52,12 @@ The rest of the team helps with quality control, maintenance, and organisation.
 
 ### Other roles
 
-| Name | Role |
+| Name | Responsibility |
 | :-- | :-- |
-| ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) | General maintainer |
-| ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) | General maintainer |
-| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) | Beatmap metadata expert |
+| ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) | Writing news and forum posts |
+| ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) | Maintaining public spreadsheets |
+| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) | Fixing beatmap metadata |
+| ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Overseeing the direction of the project (he created it!) |
 
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"

@@ -122,7 +122,7 @@ En d'autres termes: `Précision = Total de points de hits / (Nombre total de hit
 | Terme | Formule |
 | :-: | :-- |
 | **Total de points de hits** | `(50s * 50p) + (100s * 100p) + (300s * 300p)` |
-| **Nombre total de hits** | `(Misses + 50s + 100s + 300s) * 300` |
+| **Nombre total de hits** | `Misses + 50s + 100s + 300s` |
 | **s** | Nombre de |
 | **p** | points |
 

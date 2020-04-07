@@ -122,7 +122,7 @@ Em outras palavras: `Precisão = Pontuação total dos hits / (Quantidade total 
 | Termo | Fórmula |
 | :-: | :-- |
 | **Pontuação total dos hits** | `(Quantidade de 50s x 50) + (Quantidade de 100s x 100) + (Quantidade de 300s x 300)` |
-| **Quantidade total de hits** | `(Misses + 50s + 100s + 300s) * 300` |
+| **Quantidade total de hits** | `Misses + 50s + 100s + 300s` |
 
 Clarificando ainda mais, cada *miss* conta como 0 pontos; cada *50* conta como 50 pontos; cada *100* conta como 100 pontos e cada *300* conta como 300 pontos.
 

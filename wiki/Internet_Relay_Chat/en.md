@@ -1,6 +1,7 @@
 ---
 needs_cleanup: true
 ---
+<!-- TODO: awkward terminology, some parts link to dated info, client-specific help should be updated with modern clients -->
 
 # What is Internet Relay Chat?
 

@@ -1,6 +1,4 @@
----
-needs_cleanup: true
----
+<!-- TODO: some formatting issues, and I think it's odd that most of this article is a tutorial. feels like there should be a separate guide article. -->
 
 # Beatmapping
 

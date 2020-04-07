@@ -1,7 +1,3 @@
----
-needs_cleanup: true
----
-
 # Sounds skinning
 
 `.wav`, `.mp3`, and/or `.ogg` are valid formats for sounds.

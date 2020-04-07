@@ -1,9 +1,7 @@
 ---
 needs_cleanup: true
 ---
-
-[true]: /wiki/shared/true.png
-[false]: /wiki/shared/false.png
+<!-- TODO: needs explanation -->
 
 # Skinning history
 
@@ -258,3 +256,6 @@ Notes:
 - This element was removed with the Stable (Fallback) stream.
 - Exclusively for Stable (Fallback) stream.
 - Must be enabled in the [options](/wiki/options) to see.
+
+[true]: /wiki/shared/true.png
+[false]: /wiki/shared/false.png
