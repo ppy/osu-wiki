@@ -41,14 +41,14 @@ For all modes:
 - **[Unofficial Cuts/Mixes of Songs must be Specific](https://osu.ppy.sh/community/forums/topics/917043)**
 - **[General RC Change regarding CS Values](https://osu.ppy.sh/community/forums/topics/1020515)**
 
-For osu! game mode:
+For osu!:
 - **[Proposal for Easy/Normal Specific Guideline: Spinner Approach](https://osu.ppy.sh/community/forums/topics/1010191)**
 - **[Intuitive Reverse Arrow Movement](https://osu.ppy.sh/community/forums/topics/1033709)**
 
-For osu!catch game mode:
+For osu!catch:
 - **[Dashes and Higher-Snapped Dashes on Rain difficulties](https://osu.ppy.sh/community/forums/topics/1033696)**
 
-For osu!mania game mode:
+For osu!mania:
 - **[Implementing Key-Mode Specific Ranking Criterias for every Key-Mode](https://osu.ppy.sh/community/forums/topics/1009849)**
 
 These and many others are currently discussed and need more input. So head right over to the Ranking Criteria Forum and be part of the changes which will affect the future of mapping!
