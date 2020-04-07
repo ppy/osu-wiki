@@ -6,8 +6,6 @@ outdated: true
 
 [IRC](http://en.wikipedia.org/wiki/Internet_Relay_Chat) é um protocolo de comunicação para bate-papo com muitos clientes disponíveis para se conectar.
 
-<center>
-</center>
 # osu! Chat
 
 osu! usa o protocolo IRC para o [chat do jogo](PT:Chat_Console "wikilink"). Você pode se conectar com um cliente externo e conversar com seus osu!amigos mesmo quando não está jogando. Note que o osu! Bancho usa uma implementação personalizada do protocolo IRC, e não possui todas as funcionalidades conhecidas; Nem todas as ferramentas do seu cliente IRC externo vão funcionar corretamente.

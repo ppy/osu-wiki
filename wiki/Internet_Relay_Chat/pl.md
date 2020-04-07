@@ -6,8 +6,6 @@ outdated: true
 
 [Internet Relay Chat](http://en.wikipedia.org/wiki/Internet_Relay_Chat), znany także jako IRC, jest ugruntowanym, standaryzowanym protokołem do czatu z wieloma klientami naraz.
 
-<center>
-</center>
 # Czat osu!
 
 osu! używa protokołu IRC dla [czatu wewnętrznego](PL:Chat_Console "wikilink"). Możesz połączyć się za pomocą własnego klienta IRC i rozmawiać ze swoimi znajomymi, nawet jeżeli nie masz samej gry. Należy zwrócić uwagę, że Bancho używa własnej implementacji protokołu IRC i nie zawiera w sobie wszystkich jego cech. Nie powinno się w tym wypadku spodziewać poprawnej obsługi wszystkich funkcji twojego klienta IRC.

@@ -6,8 +6,6 @@ outdated: true
 
 [互联网中继聊天](http://zh.wikipedia.org/wiki/IRC), 简称IRC, 是一种用于群体聊天的协议.
 
-<center>
-</center>
 # osu! 聊天
 
 osu! 使用IRC协议进行[游戏内聊天](ZH:Chat_Console "wikilink")([英文:Chat Console](Chat_Console "wikilink"). 通过其他的IRC客户端,你可以不打开osu!即可和你的好友聊天. 注意osu! Bancho使用的IRC协议并不是标准的IRC协议,因此某些IRC客户端在osu! Bancho上可能无法正常运行.
