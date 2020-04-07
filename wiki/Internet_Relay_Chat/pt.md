@@ -22,10 +22,12 @@ Uma vez que você instalou um cliente externo você precisa se conectar usando s
 
 Quando você se conecta ao bancho você recebe uma mensagem assim:
 
-`* Welcome to osu!bancho. (Bem vindo ao osu!bancho)`
-`* -`
-`* - You are required to authenticate before accessing this service. (Faça uma autenticação para acessar esse serviço)`
-`* - Please click the following link to complete this process: (Clique no link abaixo para completar esse processo)`
+```
+* Welcome to osu!bancho. (Bem vindo ao osu!bancho)
+* -
+* - You are required to authenticate before accessing this service. (Faça uma autenticação para acessar esse serviço)
+* - Please click the following link to complete this process: (Clique no link abaixo para completar esse processo)
+```
 
 Quando você entrar no endereço informado você verá uma tela com a opção "Authorise IRC connection" (Autorizar conexão IRC). Ao simplesmente clicar nesse botão você estará autenticado e será conectado automaticamente em [\#osu](irc://cho.ppy.sh/osu).
 
@@ -47,8 +49,10 @@ Se você não deseja fazer essa autenticação toda vez que se conecta você pod
 
 Toda vez que alguém entra ou sai do canal, uma mensagem assim aparece:
 
-`nomedojogador has joined #algumcanal`
-`nomedojogador has quit #algumcanal`
+```
+nomedojogador has joined #algumcanal
+nomedojogador has quit #algumcanal
+```
 
 Caso esteja em canais com poucas pessoas isso não é incomodo, mas pessoas entram e saem do \#osu constantemente tornando difícil acompanhar o chat.
 

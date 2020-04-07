@@ -22,10 +22,12 @@ outdated: true
 
 После первого подключения вы увидите такое сообщение:
 
-`* Welcome to osu!bancho.`
-`* -`
-`* - You are required to authenticate before accessing this service.`
-`* - Please click the following link to complete this process:`
+```
+* Welcome to osu!bancho.
+* -
+* - You are required to authenticate before accessing this service.
+* - Please click the following link to complete this process:
+```
 
 Перейдя по ссылке, обращаем внимание на пароль от сервера, который будет в последней строчке. Копируйте его в соответствующее поле настроек сервера. Теперь вы можете подключится к чату!
 
@@ -46,8 +48,10 @@ outdated: true
 
 Каждый раз, когда кто-то будет подключаться или отключаться от канала, вы будете видеть это:
 
-`someuser has joined #somechannel`
-`someuser has quit #somechannel`
+```
+someuser has joined #somechannel
+someuser has quit #somechannel
+```
 
 Если канал малопосещаемый, то это не бросается в глаза. Но если это, например, \#osu или \#russian, то постоянные сообщения о пришедших или ушедших посетителях, порой, мешают общаться.
 

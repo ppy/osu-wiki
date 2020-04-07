@@ -22,10 +22,12 @@ Po przygotowaniu klienta IRC, należy użyć swojej nazwy użytkownika jako nick
 
 Następująca wiadomość pojawi się przy pierwszym połączeniu:
 
-`* Welcome to osu!bancho.`
-`* -`
-`* - You are required to authenticate before accessing this service.`
-`* - Please click the following link to complete this process:`
+```
+* Welcome to osu!bancho.
+* -
+* - You are required to authenticate before accessing this service.
+* - Please click the following link to complete this process:
+```
 
 Na stronie podanej w otrzymanej wiadomości znajduje się przycisk „Authorise IRC connection”. Naciśnięcie go umożliwia czatowanie z innymi, a następnie automatycznie dołącza użytkownika do kanału [\#osu](irc://cho.ppy.sh/osu).
 
@@ -48,8 +50,10 @@ Aby nie musieć klikać tego przycisku przy każdorazowym połączeniu, należy 
 
 Za każdym razem gdy ktoś dołącza lub opuszcza kanał, zostaje wyświetlona następująca wiadomość:
 
-`użytkownik has joined #kanał`
-`użytkownik has quit #kanał`
+```
+użytkownik has joined #kanał
+użytkownik has quit #kanał
+```
 
 Na mniejszych kanałach nie jest to zazwyczaj uciążliwe, natomiast zalew informacji o użytkownikach dołączających lub opuszczających kanał \#osu, sprawia, że czat nie nadaje się do czytania.
 

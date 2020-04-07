@@ -20,10 +20,12 @@ Falls ihr einen Client habt und über diesen euch verbinden wollt, verbindet euc
 
 Sobald ihr euch verbunden habt, werdet ihr als Startnachricht folgendes bekommen:
 
-`* Welcome to osu!bancho.`
-`* -`
-`* - You are required to authenticate before accessing this service.`
-`* - Please click the following link to complete this process:`
+```
+* Welcome to osu!bancho.
+* -
+* - You are required to authenticate before accessing this service.
+* - Please click the following link to complete this process:
+```
 
 Wenn ihr die URL anklickt, werden ihr auf eine Seite gebracht, wo ein großer Button mit der Beschriftung "Authorise IRC connection" ist. Einmal draufklicken und schon werdet ihr authentisiert und könnt euch zu [\#osu](irc://cho.ppy.sh/osu) verbinden.
 
@@ -46,8 +48,10 @@ Sofern ihr keine Lust darauf habt, jedes Mal auf die Seite zu gehen, um euch üb
 
 Jedes Mal wenn jemand dem Channel betretet oder verlässt, kommt folgende Nachricht:
 
-`someuser has joined #somechannel`
-`someuser has quit #somechannel`
+```
+someuser has joined #somechannel
+someuser has quit #somechannel
+```
 
 In Channels mit wenigeren Usern sind diese Meldungen nicht sonderlich bemerkbar, allerdings werden diese bei größeren Channels wie \#osu oder \#lobby deutlich bemerkbar und machen es einem schwer, dem zu folgen. Daher wird empfohlen, diese Meldungen zu deaktivieren.
 

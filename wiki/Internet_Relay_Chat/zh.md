@@ -20,10 +20,12 @@ osu! 使用IRC协议进行[游戏内聊天](ZH:Chat_Console "wikilink")([英文:
 
 当你连接上时会弹出下面的消息.
 
-`* Welcome to osu!bancho.`
-`* -`
-`* - You are required to authenticate before accessing this service.`
-`* - Please click the following link to complete this process:`
+```
+* Welcome to osu!bancho.
+* -
+* - You are required to authenticate before accessing this service.
+* - Please click the following link to complete this process:
+```
 
 点击链接中的URL，你会看到一个"Authorise IRC connection" 按钮，点击以后，你会完成认证并加入到 [\#osu](irc://cho.ppy.sh/osu).
 
@@ -46,8 +48,10 @@ osu! 使用IRC协议进行[游戏内聊天](ZH:Chat_Console "wikilink")([英文:
 
 当有人加入或退出频道时，你会收到这样的通知:
 
-`someuser has joined #somechannel`
-`someuser has quit #somechannel`
+```
+someuser has joined #somechannel
+someuser has quit #somechannel
+```
 
 尽管在某些低流量的频道中这不是什么，但对于\#osu频道来说，频繁的加入和退出通知会让用户难以追踪最近的消息。
 
