@@ -2,21 +2,21 @@
 outdated: true
 ---
 
-# O que é IRC?
+# Internet Relay Chat
 
 [IRC](http://en.wikipedia.org/wiki/Internet_Relay_Chat) é um protocolo de comunicação para bate-papo com muitos clientes disponíveis para se conectar.
 
-# osu! Chat
+## osu! Chat
 
 osu! usa o protocolo IRC para o [chat do jogo](PT:Chat_Console "wikilink"). Você pode se conectar com um cliente externo e conversar com seus osu!amigos mesmo quando não está jogando. Note que o osu! Bancho usa uma implementação personalizada do protocolo IRC, e não possui todas as funcionalidades conhecidas; Nem todas as ferramentas do seu cliente IRC externo vão funcionar corretamente.
 
 **Observação: [HexChat](http://hexchat.github.io/) é conhecido por ter problemas com o IRC do osu!** ([histórico de bugs do HexChat's no GitHub](http://github.com/hexchat/hexchat/issues/818)), considere usar outro cliente caso isso te incomode.
 
-## Como Se Conectar
+### Como Se Conectar
 
 Uma vez que você instalou um cliente externo você precisa se conectar usando seu nome de usuário do osu! em [cho.ppy.sh](irc://cho.ppy.sh) OU [irc.ppy.sh](irc://irc.ppy.sh) (ambos destinam-se para o mesmo host) na porta **6667** (a porta padrão do IRC).
 
-## Autenticando-se no Bancho
+### Autenticando-se no Bancho
 
 Quando você se conecta ao bancho você recebe uma mensagem assim:
 
@@ -33,7 +33,7 @@ Se você não deseja fazer essa autenticação toda vez que se conecta você pod
 
 `Para autorizar seu cliente permanentemente, mude a autenticação do servidor para: XXXXXXX`
 
-# Comandos Básicos do IRC
+## Comandos Básicos do IRC
 
 | Descrição                              | Comando                 |
 |----------------------------------------|-------------------------|
@@ -43,7 +43,7 @@ Se você não deseja fazer essa autenticação toda vez que se conecta você pod
 | Mudar nickname                         | /nick novo nome         |
 | Executar ações                         | /me faz alguma coisa    |
 
-# Desativando mensagens de Join/Part
+## Desativando mensagens de Join/Part
 
 Toda vez que alguém entra ou sai do canal, uma mensagem assim aparece:
 
@@ -54,7 +54,7 @@ nomedojogador has quit #algumcanal
 
 Caso esteja em canais com poucas pessoas isso não é incomodo, mas pessoas entram e saem do \#osu constantemente tornando difícil acompanhar o chat.
 
-## Desativando mensagens de Join/Part nos clientes externos mais populares
+### Desativando mensagens de Join/Part nos clientes externos mais populares
 
 | Client                                    | Comandos                                                                                                                                                                                                                                                               |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

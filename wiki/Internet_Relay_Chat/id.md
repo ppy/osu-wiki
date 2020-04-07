@@ -1,14 +1,16 @@
-# Apa itu Internet Relay Chat?
+# Internet Relay Chat
 
 [Internet Relay Chat](http://en.wikipedia.org/wiki/Internet_Relay_Chat), dikenal juga sebagai IRC, adalah sebuah protokol standar yang sering digunakan untuk mengobrol dengan banyak pengguna lain yang tersedia.
 
 ## osu!Bancho
+
 osu!Bancho menyediakan gateway untuk mengakses IRC (obrolan dalam game). Anda dapat terhubung dengan klien anda sendiri dan mulai obrolan dengan orang lain tanpa harus menggunakan klien osu!. Mohon perhatikan bahwa prokotol IRC ini telah dimodifikasi oleh karena itu jangan harap fitur klien anda berfungsi dengan benar.
 
 **Pemberitahuan: [HexChat](http://hexchat.github.io/) diketahui memiliki masalah dengan IRC osu!** ([laporan bug dari GitHub HexChat](http://github.com/hexchat/hexchat/issues/818)), jika hal ini mengganggu anda, pertimbangkan untuk menggunakan klien lain .
 
 
 ## Cara Menghubungkan
+
 Setelah Anda memiliki klien, Anda perlu mengatur pengaturan server.
 
 - **Server:**  `irc.ppy.sh`
@@ -20,6 +22,7 @@ Setelah Anda memiliki klien, Anda perlu mengatur pengaturan server.
 
 
 ## Perintah Dasar IRC
+
 | Perintah             | Deskripsi                                          |
 | -------------------- | -------------------------------------              |
 | `/join <#channel>`   | Bergabung ke channel                                 |
@@ -29,6 +32,7 @@ Setelah Anda memiliki klien, Anda perlu mengatur pengaturan server.
 
 
 ## Menonaktifkan Pemberitahuan Masuk/Meninggalkan
+
 Mengetahui pemain yang masuk atau meninggalkan adalah hal baik, namun jika kanalnya sangat ramai seperti `#osu`, anda akan menerima pemberitahuan masuk/meninggalkan terus menerus dan tidak dapat mengikuti percakapan. Oleh karena itu, biasanya pesan-pesan ini lebih disarankan untuk disembunyikan.
 
 ```
@@ -43,6 +47,7 @@ Mengetahui pemain yang masuk atau meninggalkan adalah hal baik, namun jika kanal
 ```
 
 ### Menonaktifkan Pemberitahuan Masuk/Meninggalkan Pada Klien IRC
+
 | Klien IRC                                 | Deskripsi   |
 | ----------------------------------------- | ----------- |
 | [HexChat](http://hexchat.github.io/)      | Buka Pengaturan - Pengaturan, di bawah Obrolan - Umum, centang "Sembunyikan pesan gabung dan pisah" |
@@ -59,14 +64,17 @@ Jika klien yang anda pakai tidak tercantum di sini, ikuti dokumentasi yang terse
 ## Pertanyaan yang Sering Diajukan
 
 ### Saya mendapat kesalahan "Token Otentikasi Salah".
+
 1. Pastikan anda menggunakan kata sandi dari halaman [Otentikasi IRC](https://osu.ppy.sh/p/irc).
 2. Jika nama pengguna osu! anda memiliki spasi, ganti dengan garis bawah (misalnya **This Username** menjadi **This_Username**)
 
 
 ### Dapatkah saya menggunakan nama pengguna lain?
+
 Tidak. Anda hanya dapat menggunakan nama pengguna osu! anda.
 
 ### Apa fungsi status suara yang saya miliki ini? Saya juga melihat beberapa orang memilikinya.
+
 Semua pengguna dengan *status suara* terhubung menggunakan klien IRC, kecuali moderator chat yang selalu memiliki status *operator (+o)* terlepas dari klien apapun yang mereka gunakan.
 
 Pengguna yang tidak memiliki status, terhubung menggunakan klien osu!.

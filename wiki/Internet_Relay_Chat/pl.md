@@ -2,21 +2,21 @@
 outdated: true
 ---
 
-# Czym jest Internet Relay Chat?
+# Internet Relay Chat
 
 [Internet Relay Chat](http://en.wikipedia.org/wiki/Internet_Relay_Chat), znany także jako IRC, jest ugruntowanym, standaryzowanym protokołem do czatu z wieloma klientami naraz.
 
-# Czat osu!
+## Czat osu!
 
 osu! używa protokołu IRC dla [czatu wewnętrznego](PL:Chat_Console "wikilink"). Możesz połączyć się za pomocą własnego klienta IRC i rozmawiać ze swoimi znajomymi, nawet jeżeli nie masz samej gry. Należy zwrócić uwagę, że Bancho używa własnej implementacji protokołu IRC i nie zawiera w sobie wszystkich jego cech. Nie powinno się w tym wypadku spodziewać poprawnej obsługi wszystkich funkcji twojego klienta IRC.
 
 **Uwaga: Wiadomo, że [HexChat](http://hexchat.github.io/) ma pewne problemy z protokołem IRC osu!** ([raport błędu z GitHuba HexChatu](http://github.com/hexchat/hexchat/issues/818)), zaleca się użycie innego klienta IRC jeżeli nagminnie przysparza to kłopotów.
 
-## Jak się połączyć?
+### Jak się połączyć?
 
 Po przygotowaniu klienta IRC, należy użyć swojej nazwy użytkownika jako nicku i połączyć się do [cho.ppy.sh](irc://cho.ppy.sh) LUB [irc.ppy.sh](irc://irc.ppy.sh) (oba łączą się do tego samego hosta) na porcie **6667** (domyślny port IRC).
 
-## Autoryzacja BanchoBot
+### Autoryzacja BanchoBot
 
 Następująca wiadomość pojawi się przy pierwszym połączeniu:
 
@@ -35,7 +35,7 @@ Aby nie musieć klikać tego przycisku przy każdorazowym połączeniu, należy 
 
 **POD ŻADNYM POZOREM NIE NALEŻY DAWAĆ NIKOMU SWOJEGO HASŁA IRC**.
 
-# Podstawowe komendy IRC
+## Podstawowe komendy IRC
 
 | Opis                            | Komenda          |
 |---------------------------------|------------------|
@@ -44,7 +44,7 @@ Aby nie musieć klikać tego przycisku przy każdorazowym połączeniu, należy 
 | Ignoruje kogoś                  | /ignore nick     |
 | Wypisuje czynność               | /me robi kanapkę |
 
-# Ukrywanie wiadomości o dołączaniu lub wychodzeniu
+## Ukrywanie wiadomości o dołączaniu lub wychodzeniu
 
 Za każdym razem gdy ktoś dołącza lub opuszcza kanał, zostaje wyświetlona następująca wiadomość:
 
@@ -55,7 +55,7 @@ użytkownik has quit #kanał
 
 Na mniejszych kanałach nie jest to zazwyczaj uciążliwe, natomiast zalew informacji o użytkownikach dołączających lub opuszczających kanał \#osu, sprawia, że czat nie nadaje się do czytania.
 
-## Ukrywanie wiadomości o dołączaniu lub wychodzeniu w najczęściej używanych klientach IRC
+### Ukrywanie wiadomości o dołączaniu lub wychodzeniu w najczęściej używanych klientach IRC
 
 | Klient                                    | Komenda                                                                                                                                                                                                                                                                  |
 |-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -74,19 +74,19 @@ Na mniejszych kanałach nie jest to zazwyczaj uciążliwe, natomiast zalew infor
 
 Jeżeli używany klient nie został tutaj podany, należy odnieść się bezpośrednio do jego dokumentacji. Większość klientów posiada sposób na ukrycie tych powiadomień.
 
-# Często zadawane pytania (FAQ)
+## Często zadawane pytania (FAQ)
 
-## Pojawia się błąd „Bad Authentication Token”. Co robić?
+### Pojawia się błąd „Bad Authentication Token”. Co robić?
 
 1. Upewnić się że używa się hasła podanego na stronie [Autoryzacji IRC](https://osu.ppy.sh/p/irc).
 
 2. Jeżeli twój pseudonim ma spację, zastąp ją podkreślnikiem (np. **Ten pseudonim** na **Ten\_pseudonim**).
 
-## Czy można użyć innego pseudonimu?
+### Czy można użyć innego pseudonimu?
 
 Nie. Jedynym dozwolonym pseudonimem jest ten posiadany w grze.
 
-## Czym jest status +v? Widać także innych ludzi, którzy go mają.
+### Czym jest status +v? Widać także innych ludzi, którzy go mają.
 
 Użytkownicy ze statusem głosowym (przedrostek +) są połączeni za pomocą klienta IRC (nie wliczając w to moderatorów czatu, którzy mają *status operatora (przedrostek @)*.
 

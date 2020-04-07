@@ -2,19 +2,19 @@
 outdated: true
 ---
 
-# Was ist IRC?
+# Internet Relay Chat
 
 [IRC](http://de.wikipedia.org/wiki/Internet_Relay_Chat) ist ein Chat-System, dem es einen möglich macht, mit anderen Usern sich in einem Channel zu unterhalten. Hierfür gibt es verschiedene Applikationen und Add-Ons.
 
-# osu! Chat
+## osu! Chat
 
 In osu! ist es möglich mit dem eigenen IRC Client sich zu dem Chat-Server zu verbinden, um über diesen Weg in den Channels mit anderen Usern zu schreiben. Selbst dann, wenn bei euch osu! nicht im Hintergrund läuft. Allerdings fehlen ein paar Funktionen, da Bancho eigene Einstellungen verwendet, daher könnten wohlmöglich ein paar Funktionen des eigenen IRC Clients entfallen.
 
-## Zum Server verbinden
+### Zum Server verbinden
 
 Falls ihr einen Client habt und über diesen euch verbinden wollt, verbindet euch zu [cho.ppy.sh](irc://cho.ppy.sh) oder [irc.ppy.sh](irc://irc.ppy.sh) (beide sind verwendbar) zum Port **6667** (dem Standard IRC Port).
 
-## Authentifizieren zu Bancho
+### Authentifizieren zu Bancho
 
 Sobald ihr euch verbunden habt, werdet ihr als Startnachricht folgendes bekommen:
 
@@ -31,7 +31,7 @@ Sofern ihr keine Lust darauf habt, jedes Mal auf die Seite zu gehen, um euch üb
 
 `Um euch dauerhaft zu authentisieren, ändert euer IRC Passwort (Server Passwort) zu: XXXXXXX`
 
-# Grundlegende IRC Kommandos
+## Grundlegende IRC Kommandos
 
 | Aktion                             | Kommando                   |
 |------------------------------------|----------------------------|
@@ -42,7 +42,7 @@ Sofern ihr keine Lust darauf habt, jedes Mal auf die Seite zu gehen, um euch üb
 | Etwas machen                       | /me <Text>                 |
 | Nachricht senden an                | /msg <Benutzername> <Text> |
 
-# Join/Part Nachrichten deaktivieren
+## Join/Part Nachrichten deaktivieren
 
 Jedes Mal wenn jemand dem Channel betretet oder verlässt, kommt folgende Nachricht:
 
@@ -53,7 +53,7 @@ someuser has quit #somechannel
 
 In Channels mit wenigeren Usern sind diese Meldungen nicht sonderlich bemerkbar, allerdings werden diese bei größeren Channels wie \#osu oder \#lobby deutlich bemerkbar und machen es einem schwer, dem zu folgen. Daher wird empfohlen, diese Meldungen zu deaktivieren.
 
-## Join/Part Nachrichten in bekannten Clients deaktivieren
+### Join/Part Nachrichten in bekannten Clients deaktivieren
 
 | Client                                    | Kommandos                                                                                                                                                                                                                                                                            |
 |-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
