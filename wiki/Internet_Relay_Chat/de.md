@@ -12,9 +12,7 @@ In osu! ist es möglich mit dem eigenen IRC Client sich zu dem Chat-Server zu ve
 
 ## Zum Server verbinden
 
-Falls ihr einen Client habt und über diesen euch verbinden wollt, verbindet euch zu
-
-` `[`cho.ppy.sh`](irc://cho.ppy.sh)` oder `[`irc.ppy.sh`](irc://irc.ppy.sh)` (beide sind verwendbar) zum Port `<b>`6667`</b>` (dem Standard IRC Port)`
+Falls ihr einen Client habt und über diesen euch verbinden wollt, verbindet euch zu [cho.ppy.sh](irc://cho.ppy.sh) oder [irc.ppy.sh](irc://irc.ppy.sh) (beide sind verwendbar) zum Port <b>6667</b> (dem Standard IRC Port).
 
 ## Authentifizieren zu Bancho
 
