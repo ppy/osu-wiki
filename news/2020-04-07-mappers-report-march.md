@@ -97,7 +97,7 @@ Good news everyone! We have a new person in the team. For osu!taiko, **[Tyistian
 
 ### NAT Retirement 
 
-Just as we had a new addition with [Tyistiana](https://osu.ppy.sh/users/1421452),  we had to say farewell to [Ascendance](https://osu.ppy.sh/users/2931883). After one year of duty as a NAT he decided to take his leave. Ascendance served well in osu!catch and helped bring back life into the osu!taiko BNG with his care package. Thanks for all your work and we wish you all the best in the future!
+Just as we had a new addition with **[Tyistiana](https://osu.ppy.sh/users/1421452)**,  we had to say farewell to **[Ascendance](https://osu.ppy.sh/users/2931883)**. After one year of duty as a NAT he decided to take his leave. Ascendance served well in osu!catch and helped bring back life into the osu!taiko BNG with his care package. Thanks for all your work and we wish you all the best in the future!
 
 ## <a id=”mappers-showcase”></a>Mappers’ Showcase
 
