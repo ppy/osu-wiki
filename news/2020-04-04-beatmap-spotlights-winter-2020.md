@@ -70,7 +70,7 @@ This masterfully designed map is an experience that you don’t want to miss!
 
 [![](/wiki/shared/news/2020-04-04-beatmap-spotlights-winter-2020/osu/sealer.jpg)](https://osu.ppy.sh/beatmapsets/1067056)
 
-[celerih](https://osu.ppy.sh/users/4696296)'s idiosyncratic take on free-form mapping has always stood out from the ocean of ''flow-oriented'' maps, and this rendition of Zektbach - The Sealer ~A Milia to Milia no Min~ encapsulates this philosophy while showcasing one of their boldest palette collections yet. 
+[celerih](https://osu.ppy.sh/users/4696296)'s idiosyncratic take on free-form mapping has always stood out from the ocean of ''flow-oriented'' maps, and this rendition of Zektbach - The Sealer \~A Milia to Milia no Min\~ encapsulates this philosophy while showcasing one of their boldest palette collections yet. 
 
 A concise mapset content-wise, the folkish ballet is designed with engaging rhythms and cutting edge patterns with meticulous attention to feedback, all to synthesize a delightful experience of a dance and a strong, cohesive character that one will scarcely discover from a map.
 
