@@ -73,9 +73,9 @@ For the QAH topic, we revisited the current state of the QAH and focused on eval
 
 For the RC subforum topic, the meeting reviewed the current status and hashed out a plan going forward. Whenever possible, Ranking Criteria topics will be mentioned in both the osu!dev modding channel and this Mappers’ Report you’re reading to help give proposals more visibility. If you didn’t see it yet, you can find the proposals in the section above!
 
-### Upcoming - Genre and Language Settings
+### Apr 11th, 2020 - Genre and Language Settings
 
-The date the NAT will host this meeting has not been yet determined, but will be announced very soon in #modding on the osu!dev Discord server. This meeting will discuss revising the website’s current genre system, primarily what genres should be added to help make the website’s genre system more useful than it is now.
+This meeting will be held on ** Saturday April 11th, 18:00-20:00 UTC** (that's tomorrow!). This meeting will discuss revising the website’s current genre system, primarily what genres should be added to help make the website’s genre system more useful than it is now.
 
 ## <a id="within-bn-nat"></a>Within the Beatmap Nominators and NAT
 
