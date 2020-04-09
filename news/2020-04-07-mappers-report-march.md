@@ -149,7 +149,7 @@ Previously announced in [another news post](https://osu.ppy.sh/home/news/2020-03
 
 ---
 
-And that’s it for this month! We thought our news post might be a bit shorter this time but we were proven wrong thanks to all the new content! Make sure to keep an eye out for the next NAT meeting announcement in the #modding channel on the [osu!dev Discord Server](https://discord.gg/ppy). Thank you for reading, stay safe and healthy!
+And that’s it for this month! We thought our news post might be a bit shorter this time but we were proven wrong thanks to all the new content! Make sure to tune in for the next NAT meeting in the #modding channel on the [osu!dev Discord Server](https://discord.gg/ppy). Thank you for reading, stay safe and healthy!
 
 See you next month!
 
