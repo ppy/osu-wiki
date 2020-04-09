@@ -276,22 +276,22 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 ### Grand Finals
 
 | Saturday, 2018-12-15 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | **United Kingdom** ![][flag_GB] | **7** | 4 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/48120274) |
 
 | Sunday, 2018-12-16 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | United States ![][flag_US] | 6 | **7** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/48146823) |
 | United Kingdom ![][flag_GB] | 4 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/48149847) |
 
 ### Finals
 
 | Saturday, 2018-12-08 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | **Russian Federation** ![][flag_RU] | **7** | 5 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/47967031) |
 
 | Sunday, 2018-12-09 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | **Germany** ![][flag_DE] | **7** | 1 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/47985556) |
 | Russian Federation ![][flag_RU] | 4 | **7** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/47989805) |
 | United Kingdom ![][flag_GB] | 5 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/47998102) |
@@ -299,14 +299,14 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 ### Semifinals
 
 | Saturday, 2018-12-01 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Hong Kong ![][flag_HK] | 3 | **7** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/47795151) |
 | **Germany** ![][flag_DE] | **7** | 4 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/47796992) |
 | South Korea ![][flag_KR] | 4 | **7** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/47799551) |
 | **Russian Federation** ![][flag_RU] | **7** | 4 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/47802651) |
 
 | Sunday, 2018-12-02 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Japan ![][flag_JP] | 2 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/47822484) |
 | Taiwan ![][flag_TW] | 2 | **7** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/47830929) |
 | **Germany** ![][flag_DE] | **7** | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/47836633) |
@@ -315,13 +315,13 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 ### Quarterfinals
 
 | Saturday, 2018-11-24 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Norway ![][flag_NO] | 1 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/47644041) |
 | Netherlands ![][flag_NL] | 4 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/47646337) |
 | **Canada** ![][flag_CA] | **6** | 5 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/47648923) |
 
 | Sunday, 2018-11-25 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Taiwan ![][flag_TW] | 0 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/47665462) |
 | **South Korea** ![][flag_KR] | **6** | 3 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/47666758) |
 | **Russian Federation** ![][flag_RU] | **6** | 2 | ![][flag_RO] Romania | [#1](https://osu.ppy.sh/community/matches/47675513) |
@@ -331,13 +331,13 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 ### Round of 16
 
 | Saturday, 2018-11-17 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | **Japan** ![][flag_JP] | **6** | 3 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/47484224) |
 | **Taiwan** ![][flag_TW] | **6** | 4 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/47486476) |
 | Hong Kong ![][flag_HK] | 3 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/47489590) |
 
 | Sunday, 2018-11-18 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | China ![][flag_CN] | 0 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/47507818) |
 | **Australia** ![][flag_AU] | **6** | 3 | ![][flag_RO] Romania | [#1](https://osu.ppy.sh/community/matches/47514469) |
 | **Norway** ![][flag_NO] | **6** | 5 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/47516309) |
@@ -347,7 +347,7 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 ### Group Stage
 
 | Saturday, 2018-11-10 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Norway ![][flag_NO] | 0 | **5** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/47325334) |
 | Belgium ![][flag_BE] | 1 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/47326358) |
 | Sweden ![][flag_SE] | 2 | **5** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/47326352) |
@@ -372,7 +372,7 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 | Netherlands ![][flag_NL] | 2 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/47341108) |
 
 | Sunday, 2018-11-11 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Argentina ![][flag_AR] | 1 | **5** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/47348571) |
 | Thailand ![][flag_TH] | 1 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/47349547) |
 | **Hong Kong** ![][flag_HK] | **5** | 2 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/47350506) |
@@ -474,7 +474,7 @@ The osu! World Cup 2018 is run by various community members by distributing the 
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
 
 | Stage | Match ID |
-| -----: | -------- |
+| --: | :-- |
 | Round of 16 |  A, B, C, D, E, F, G, H |
 | Quarterfinals | I, J, K, L & R, S, T, U |
 | Semifinals | M, N & V, W, X, Y, Z, AA |

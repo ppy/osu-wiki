@@ -19,7 +19,7 @@ outdated: true
 *参见论坛帖子： [osu! community contributors](https://osu.ppy.sh/community/forums/posts/2489459) 。*
 
 | 用户名                          | 授予原因                                                                                                         |
-|:--------------------------------|:-----------------------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | [Darkimmortal](https://osu.ppy.sh/users/10886)    | 开发了 [osu! 回放系统](https://osu.ppy.sh/community/forums/topics/108092) (将 .osr 回放文件录制成视频)                            |
 | [nanashiRei](https://osu.ppy.sh/users/807630)     | 建立并运行着 osu! 相关的时间最长的一个项目 [osu.yas-online.net 谱面镜像下载站](http://osu.yas-online.net/)       |
 | [RBRat3](https://osu.ppy.sh/users/307202)         | 无数的客户端图像设计贡献及其它                                                                                   |
@@ -41,7 +41,7 @@ outdated: true
 ### 三月
 
 | 用户名                          | 授予原因                    |
-|:--------------------------------|:----------------------------|
+| :-- | :-- |
 | [Repflez](https://osu.ppy.sh/users/201392)        | 对 osu! wiki 的杰出贡献      |
 | [RaikireHiuduo](https://osu.ppy.sh/users/1570014) | 对 osu! wiki 的杰出贡献      |
 | [givenameplz](https://osu.ppy.sh/users/947499)    | osu!Rank 和 osu!Post 的开发 |
@@ -53,7 +53,7 @@ outdated: true
 *参见新闻报道： [Community Contributor Badges (January 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016) 。*
 
 | 用户名                      | 授予原因                                                     |
-|:----------------------------|:-------------------------------------------------------------|
+| :-- | :-- |
 | [ztrot](https://osu.ppy.sh/users/6347)        | 建立 [osu!学院](/wiki/osu!academy) 。          |
 | [Tasha](https://osu.ppy.sh/users/1031958)     | 帮助撰写 osu!weekly 和新闻。                                 |
 | [Flanster](https://osu.ppy.sh/users/447818)   | 杰出摸图贡献（10k+ 次）                                      |
@@ -68,7 +68,7 @@ outdated: true
 *参见新闻报道： [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53) 。*
 
 | 用户名                     | 授予原因                                                                         |
-|:---------------------------|:---------------------------------------------------------------------------------|
+| :-- | :-- |
 | [Charles445](https://osu.ppy.sh/users/85000) | 多年来以高要求维持并不断改善作图质量的水准，并在社区的许多相关问题上提供了协助。 |
 
 ### 十一月
@@ -76,7 +76,7 @@ outdated: true
 *参见新闻报道： [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best) 。*
 
 | 用户名                     | 授予原因                                     |
-|:---------------------------|:---------------------------------------------|
+| :-- | :-- |
 | [pishifat](https://osu.ppy.sh/users/3178418) | 在作图指导方面起到模范作用                   |
 | [Okorin](https://osu.ppy.sh/users/1623405)   | 谱面管理事务中表现卓越                       |
 | [IamKwaN](https://osu.ppy.sh/users/1856463)  | 在摸图和许多方面做出了杰出贡献               |
@@ -92,7 +92,7 @@ outdated: true
 *参见新闻报道： [Community Contributors: 2017](https://osu.ppy.sh/home/news/2017-12-24-community-contributors-2017) 。*
 
 | User                           | Contributions                                                                               |
-|:-------------------------------|:--------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | [OnosakiHito](https://osu.ppy.sh/users/290128)   | 常年担任 BAT/QAT ，并在建立 osu!taiko 社区中做出了杰出贡献                                  |
 | [Deif](https://osu.ppy.sh/users/318565)          | 在建立 osu!catch 社区，Ranking Criteria 重写及比赛事务中做出了杰出贡献                      |
 | [deadbeat](https://osu.ppy.sh/users/128370)      | 长期担任 GMT，并在比赛事务和大量的媒体计划中做出了杰出贡献                                  |

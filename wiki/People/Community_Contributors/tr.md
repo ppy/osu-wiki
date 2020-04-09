@@ -17,7 +17,7 @@ Bu tabloda bu rozete sahip mevcut kullanıcılar listelenmiştir:
 _Ayrıca bakınız: [osu! topluluk iştirakçıları](https://osu.ppy.sh/community/forums/posts/2489459) forum başlığı._
 
 | Kullanıcı | Katkıları |
-| ---- | ------------- |
+| :-- | :-- |
 | [Darkimmortal](https://osu.ppy.sh/users/10886) | [osu!record hizmetini geliştiren ve sürdüren kişi](https://osu.ppy.sh/community/forums/topics/108092) (tekrar `.osr`'sinden video dosyasına) |
 | [nanashiRei](https://osu.ppy.sh/users/807630) | osu!'nun çalışan en büyük alternatif beatmap arşivinin sahibi ve bakıcısı. [Alternatif beatmap arşivi](https://osu.yas-online.net/). |
 | [RBRat3](https://osu.ppy.sh/users/307202) | Oyun istemcisi ve geri kalan her şeye (saymakla bitmez) grafik katısı. |
@@ -37,7 +37,7 @@ _Ayrıca bakınız: [osu! topluluk iştirakçıları](https://osu.ppy.sh/communi
 ## Mart 2015
 
 | Kullanıcı | Katkıları |
-| ---- | ------------- |
+| :-- | :-- |
 | [Repflez](https://osu.ppy.sh/users/201392) | osu! wiki'ye üstün katkı. |
 | [RaikireHiuduo](https://osu.ppy.sh/users/1570014) | osu! wiki'ye üstün katkı |
 | [givenameplz](https://osu.ppy.sh/users/947499) | osu!Rank & osu!Post geliştiriciliği. |
@@ -47,7 +47,7 @@ _Ayrıca bakınız: [osu! topluluk iştirakçıları](https://osu.ppy.sh/communi
 _Ayrıca bakınız: [Topluluk İştirakçıları Rozetleri (Ocak 2016)](https://osu.ppy.sh/home/news/2016-01-09-community-contributor-badges-january-2016) bildiri gönderisi._
 
 | Kullanıcı | Katkıları |
-| ---- | ------------- |
+| :-- | :-- |
 | [ztrot](https://osu.ppy.sh/users/6347) |  [osu!academy](/wiki/osu!academy) kurucusu |
 | [Tasha](https://osu.ppy.sh/users/1031958) | osu!weekly + Haber iştircakçısı |
 | [Flanster](https://osu.ppy.sh/users/447818) | Üstün modersayon varlığı (10k+ öldürme). |
@@ -62,7 +62,7 @@ _Ayrıca bakınız: [Topluluk İştirakçıları Rozetleri (Ocak 2016)](https://
 _Ayrıca bakınız: [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osuweekly-53) bildiri gönderisi._
 
 | Kullanıcı | Katkıları |
-| ---- | ------------- |
+| :-- | :-- |
 | [Charles445](https://osu.ppy.sh/users/85000) | Yıllar boyunca maplama kalitseini geliştirme ve yüksekte tutma, topluluk içinde çeşitli sorunları çözmek konusunda pek çok durumda yardımda bulunma. |
 
 ## Kasım 2016
@@ -70,7 +70,7 @@ _Ayrıca bakınız: [osu!weekly #53](https://osu.ppy.sh/home/news/2016-03-22-osu
 _Ayrıca bakınız [Recognising the Best of the Best](https://osu.ppy.sh/home/news/2016-11-02-recognising-the-best-of-the-best) bildirim gönderisi._
 
 | Kullanıcı | Katkıları |
-| ---- | ------------- |
+| :-- | :-- |
 | [pishifat](https://osu.ppy.sh/users/3178418) | Beatmap yapımı ve eğitiminde örnek performans. |
 | [Okorin](https://osu.ppy.sh/users/1623405) | Beatmap yönetimi ilişkilerinde üstün liderlik. |
 | [IamKwaN](https://osu.ppy.sh/users/1856463) | Üstün moderasyon varlığı ve genel katkı. |

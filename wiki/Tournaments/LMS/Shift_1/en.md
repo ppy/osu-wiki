@@ -26,7 +26,7 @@ The **Taiko LMS: Shift Cup** is a 3 on 3, 1v1 knock-out style osu!taiko tourname
 ## Prizes
 
 | Placing | Prize(s) |
-| --- | :-- |
+| :-- | :-- |
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Special profile badge |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Userpage banner |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Userpage banner |
@@ -36,7 +36,7 @@ The **Taiko LMS: Shift Cup** is a 3 on 3, 1v1 knock-out style osu!taiko tourname
 The Taiko LMS: Shift Cup is run by various osu!taiko community members.
 
 | Position | Members |
-| --- | --- |
+| :-- | :-- |
 | Manager | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_CA] [FlamingRok](https://osu.ppy.sh/users/2015353), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787) |
 | Map Selector | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_PT] [babysnakes](https://osu.ppy.sh/users/4669728), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787) |
 | Commentator | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110), ![][flag_GB] [Grimbow](https://osu.ppy.sh/users/1387762), ![][flag_US] [Binsu](https://osu.ppy.sh/users/6236911), ![][flag_HK] [akali393394](https://osu.ppy.sh/users/9686628), ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550), ![][flag_AU] [Jaye](https://osu.ppy.sh/users/4841352) |
@@ -94,7 +94,7 @@ The Taiko LMS: Shift Cup is run by various osu!taiko community members.
 This competition has come to an end and resulted in the following podium:
 
 | Placing | Team(s) |
-| --- | :-- |
+| :-- | :-- |
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | V E R Y S T R O N G T E A M |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | あ |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Ｆａｓｔ　＆　Ｃｈｉｌｌ 早く |

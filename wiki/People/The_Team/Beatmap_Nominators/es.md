@@ -53,7 +53,7 @@ También ten en cuenta que la columna de modos de juego de la tabla aquí abajo 
 ### osu!standard
 
 | Name                                                  | Additional Languages     |
-|-------------------------------------------------------|--------------------------|
+| :-- | :-- |
 | [- Matha -](https://osu.ppy.sh/users/7354729) | Chino, Cantonés |
 | [\_Epreus](https://osu.ppy.sh/users/7342798) | Coreano |
 | [Agatsu](https://osu.ppy.sh/users/5579871) |  |
@@ -124,7 +124,7 @@ También ten en cuenta que la columna de modos de juego de la tabla aquí abajo 
 ### osu!taiko
 
 | Nombre                                                | Lenguajes adicionales    |
-|-------------------------------------------------------|--------------------------|
+| :-- | :-- |
 | [-GN Junior](https://osu.ppy.sh/users/3901754) | Chino, Cantonés |
 | [\_WWWWWW_WWWWWW_](https://osu.ppy.sh/users/1981781)   | Portugués, Español, Català, Japonés |
 | [Faputa](https://osu.ppy.sh/users/845733)             | Cantonés, Chino          |
@@ -144,7 +144,7 @@ También ten en cuenta que la columna de modos de juego de la tabla aquí abajo 
 ### osu!catch
 
 | Nombre                                                | Lenguajes adicionales    |
-|-------------------------------------------------------|--------------------------|
+| :-- | :-- |
 | [-Luminate](https://osu.ppy.sh/users/4778689)         | Tailandés                |
 | [alienflybot](https://osu.ppy.sh/users/636114)        | Cantonés, Chino          |
 | [Ascendance](https://osu.ppy.sh/users/2931883)        |                          |
@@ -160,7 +160,7 @@ También ten en cuenta que la columna de modos de juego de la tabla aquí abajo 
 ### osu!mania
 
 | Nombre                                                | Lenguajes adicionales    |
-|-------------------------------------------------------|--------------------------|
+| :-- | :-- |
 | [-MysticEyes](https://osu.ppy.sh/users/6253266)       |                          |
 | [\_Stan](https://osu.ppy.sh/users/1653229)            | Chino                    |
 | [Arzenvald](https://osu.ppy.sh/users/3027421)         | Indonesio                |

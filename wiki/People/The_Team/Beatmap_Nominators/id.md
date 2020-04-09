@@ -72,7 +72,7 @@ Tabel yang tercantum di bawah menunjukkan gamemode di mana setiap Beatmap Nomina
 ### osu!standard
 
 | Nama                                                  | Tambahan Bahasa     |
-|-------------------------------------------------------|--------------------------|
+| :-- | :-- |
 | [- Matha -](https://osu.ppy.sh/users/7354729) | Chinese, Cantonese |
 | [\_Epreus](https://osu.ppy.sh/users/7342798) | Korean |
 | [Agatsu](https://osu.ppy.sh/users/5579871) |  |
@@ -143,7 +143,7 @@ Tabel yang tercantum di bawah menunjukkan gamemode di mana setiap Beatmap Nomina
 ### osu!taiko
 
 | Nama                                                  | Tambahan Bahasa     |
-|-------------------------------------------------------|--------------------------|
+| :-- | :-- |
 | [-GN Junior](https://osu.ppy.sh/users/3901754) | Chinese, Cantonese |
 | [\_WWWWWW_WWWWWW_](https://osu.ppy.sh/users/1981781)   | Portuguese, Spanish, Japanese|
 | [Faputa](https://osu.ppy.sh/users/845733)             | Cantonese, Chinese       |
@@ -163,7 +163,7 @@ Tabel yang tercantum di bawah menunjukkan gamemode di mana setiap Beatmap Nomina
 ### osu!catch
 
 | Nama                                                  | Tambahan Bahasa     |
-|-------------------------------------------------------|--------------------------|
+| :-- | :-- |
 | [-Luminate](https://osu.ppy.sh/users/4778689)         | Thai                     |
 | [alienflybot](https://osu.ppy.sh/users/636114)        | Cantonese, Chinese       |
 | [Ascendance](https://osu.ppy.sh/users/2931883)        |                          |
@@ -180,7 +180,7 @@ Tabel yang tercantum di bawah menunjukkan gamemode di mana setiap Beatmap Nomina
 ### osu!mania
 
 | Nama                                                  | Tambahan Bahasa     |
-|-------------------------------------------------------|--------------------------|
+| :-- | :-- |
 | [-MysticEyes](https://osu.ppy.sh/users/6253266)       |                          |
 | [\_Stan](https://osu.ppy.sh/users/1653229)            | Chinese                  |
 | [Arzenvald](https://osu.ppy.sh/users/3027421)         | Indonesian               |

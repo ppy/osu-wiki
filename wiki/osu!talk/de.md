@@ -16,7 +16,7 @@ outdated: true
 ## Episoden
 
 | \#         | Episoden (alle auf Englisch)                                                                          |
-|------------|-------------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | Episode 01 | [mit Charles445 - BATmanager (10:27)](https://www.youtube.com/watch?v=e8lhBtcPbjw)                          |
 | Episode 02 | [mit MMzz - BAT (14.22)](https://www.youtube.com/watch?v=fBBQ4bwNZcY)                                       |
 | Episode 03 | [mit Loctav - Eventmanager (14:02)](https://www.youtube.com/watch?v=gxZtxmUvDoQ)                            |
@@ -39,7 +39,7 @@ outdated: true
 ## Spezialfolgen
 
 | \#              | Spezialfolgen (alle auf Englisch)                                                                                 |
-|-----------------|-------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | Spezialfolge 01 | [mit Ephemeral, deadbeat und OnosakiHito - Personalüberarbeitung (52:34)](https://www.youtube.com/watch?v=c10Jiq1xZus)  |
 | Spezialfolge 02 | [mit Kyonko Hizara, Loctav, MMzz und OnosakiHito - Over-Mapping (1:08:03)](https://www.youtube.com/watch?v=RepSYE3hN3A) |
 | Spezialfolge 03 | [mit deadbeat, LoliFlan und Kitokofox - Moderation (1:09:33)](https://www.youtube.com/watch?v=C1hvpnW5A7k)              |

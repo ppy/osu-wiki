@@ -27,7 +27,7 @@ Les règles énoncées ci-dessous sont tenues d'être respectées en toutes circ
 Par exemple (imaginons que les exemples énoncées sont situés dans une mesure de 4 temps) :
 
 | Note 1:           | Note 2:           | O/N | Raison                                                                                                                                                                                                        |
-|--------------------------|--------------------------|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- | :-- | :-- |
 | 1er temps - **2e temps** | **2e temps** - 3e temps  | Non | Demande un temps de réaction extrêmement rapide afin d'appuyer sur la seconde note après avoir relâché la première car la fin de la 1ere note se situe au même endroit que le début de la seconde (2e temps). |
 | **1er temps** - 3e temps | **1er temps - 2e temps** | Non | Il y a un Hold dans un Hold.                                                                                                                                                                                  |
 | **1er temps** - 3e temps | **2e temps**             | Non | Il y a un Hit dans un Hold.                                                                                                                                                                                   |

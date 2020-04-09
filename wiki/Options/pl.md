@@ -19,7 +19,7 @@ Jeżeli nie zalogujesz się w kliencie gry, nakładka opcji zostanie otworzona a
 Jako gość otrzymasz następujące opcje:
 
 | Nazwa | Opis | Typ | Domyślnie |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | `Nazwa użytkownika` | Wprowadź tutaj swoją nazwę użytkownika. | Pole tekstowe | *(puste)* |
 | `Hasło` | Wprowadź tutaj swoje hasło. | Hasło | *(puste)* |
 | `Zapamiętaj nazwę użytkownika` | Zapamiętuje wprowadzoną nazwę użytkownika w kliencie gry. | Pole wyboru | `Włączone` |
@@ -32,7 +32,7 @@ Jako gość otrzymasz następujące opcje:
 Po zalogowaniu zobaczysz:
 
 | Nazwa | Opis | Typ |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | `Zalogowano jako {nazwa użytkownika}` | Wyświetla menu użytkownika (zobacz poniżej). | Przycisk |
 
 ---
@@ -40,7 +40,7 @@ Po zalogowaniu zobaczysz:
 Jeżeli klikniesz na napis `Zalogowano jako {nazwa użytkownika}`, zostanie wyświetlone menu użytkownika z następującymi opcjami:
 
 | Nazwa | Opis | Typ |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | `1. Zobacz profil` | Otwiera kartę z profilem użytkownika w przeglądarce. | Przycisk |
 | `2. Wyloguj się` | Wylogowuje cię z klienta gry. | Przycisk |
 | `3. Zmień awatar` | Otwiera kartę z ustawieniami konta w przeglądarce. | Przycisk |
@@ -51,7 +51,7 @@ Aby otworzyć menu użytkownika, możesz kliknąć na swoją kartę, jeżeli jes
 ### Język
 
 | Nazwa | Opis | Typ | Domyślnie |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | `Wybierz język` | Wyświetla listę dostępnych języków. | Rozwijane menu |  |
 | `Stosuj oryginalne nazewnictwo` | Na ekranie wyboru utworu informacje o beatmapie będą zawierały oryginalne lub nieprzetłumaczone metadane, jeżeli są one dostępne. | Pole wyboru | `Wyłączone` |
 | `Użyj alternatywnej czcionki dla czatu` | Używa starej czcionki (Tahoma) zamiast obecnej (Aller) do wyświetlania wiadomości na [czacie](/wiki/chat_console). | Pole wyboru | `Wyłączone` |
@@ -59,7 +59,7 @@ Aby otworzyć menu użytkownika, możesz kliknąć na swoją kartę, jeżeli jes
 ### Aktualizacje
 
 | Nazwa | Opis | Typ | Domyślnie |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | `Wersja osu!` | Wyświetla listę dostępnych kompilacji osu!. | Rozwijane menu | `Stabilna` |
 | `Wersja osu! jest aktualna!` | Kliknij, aby sprawdzić, czy dostępne są aktualizacje, i je zainstalować. | Przycisk |  |
 | `Otwórz folder osu!` | Otwiera folder lokalny osu!, w którym znajdują się twoje beatmapy, skórki itd. | Przycisk |  |
@@ -69,7 +69,7 @@ Aby otworzyć menu użytkownika, możesz kliknąć na swoją kartę, jeżeli jes
 Jeżeli rozwiniesz listę dla `Wersja osu!`, zobaczysz następujące opcje:
 
 | Nazwa | Opis |
-| --- | --- |
+| :-- | :-- |
 | `Stabilna` | Stabilna kompilacja. |
 | `Beta` | Kompilacja eksperymentalna - wczesny dostęp do niedostępnych funkcji, może zawierać błędy. |
 | `Eksperymentalna` | Kompilacja eksperymentalna - jeszcze wcześniejszy dostęp do niedostępnych funkcji, może zawierać znacznie więcej błędów. |
@@ -83,7 +83,7 @@ Ta sekcja jest poświęcona wyglądowi klienta gry i jego wydajności.
 ### Renderowanie
 
 | Nazwa | Opis | Typ | Domyślnie |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | `Limit klatek` | Ustawia ograniczenie klatek na sekundę. Sprawdź poniżej, aby dowiedzieć się więcej. | Rozwijane menu | `120fps` |
 | `Pokazuj licznik FPS` | Wyświetla licznik klatek na sekundę w prawym dolnym rogu ekranu. | Pole wyboru | `Wyłączone` |
 | `Tryb kompatybilności` | Używa starego programu do renderowania grafiki dla osu! (wymaga zrestartowania klienta gry). | Pole wyboru | `Wyłączone` |
@@ -99,7 +99,7 @@ Ta sekcja jest poświęcona wyglądowi klienta gry i jego wydajności.
 Jeżeli rozwiniesz listę dla `Limit klatek`, zobaczysz następujące opcje:
 
 | Nazwa | Opis |
-| --- | --- |
+| :-- | :-- |
 | `Synchronizacja pionowa` | Ustawia ograniczenie klatek dla klienta gry na częstotliwość odświeżania twojego monitora. Sprawdź poniżej, aby dowiedzieć się więcej. |
 | `120fps` | Ustawia ograniczenie klatek dla klienta gry na 120fps. |
 | `240fps` | Ustawia ograniczenie klatek dla klienta gry na 240fps. |
@@ -114,7 +114,7 @@ Jeżeli rozwiniesz listę dla `Limit klatek`, zobaczysz następujące opcje:
 ### Rozdzielczość
 
 | Nazwa | Opis | Typ | Domyślnie |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | `Rozdzielczość` | Ustawia rozdzielczość klienta gry. Elementy listy zależą od wymiarów monitora. | Rozwijane menu |  |
 | `Tryb pełnoekranowy` | Uruchamia grę w trybie pełnoekranowym (zazwyczaj zmniejsza opóźnienie kursora). | Pole wyboru | `Włączone` |
 | `Letterboxing` | Uruchamia grę w trybie pełnoekranowym (zazwyczaj zmniejsza opóźnienie kursora) z określoną rozdzielczością. Reszta ekranu będzie pokryta czarnymi paskami. | Pole wyboru | `Włączone` |
@@ -126,7 +126,7 @@ Jeżeli rozwiniesz listę dla `Limit klatek`, zobaczysz następujące opcje:
 ### Detale
 
 | Nazwa | Opis | Typ | Domyślnie |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | `Rozwijane slidery` | Slidery będą „rozwijać się” z położenia początkowego. | Pole wyboru | `Włączone` |
 | `Wideo w tle` | Wyświetla wideo w tle beatmapy. | Pole wyboru | `Włączone` |
 | `Scenorysy` | Wyświetla scenorys w tle beatmapy. | Pole wyboru | `Włączone` |
@@ -139,7 +139,7 @@ Jeżeli rozwiniesz listę dla `Limit klatek`, zobaczysz następujące opcje:
 ### Menu główne
 
 | Nazwa | Opis | Typ | Domyślnie |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | `Wizualizacja śniegu` | Tworzy wizualizację śniegu w menu głównym (automatycznie włączona w trakcie zimy). | Pole wyboru | `Wyłączone` |
 | `Efekt paralaksy` | Tworzy mały efekt paralaksy zależny od obecnej pozycji kursora (nie występuje podczas rozgrywki). | Pole wyboru | `Włączone` |
 | `Wyświetlaj wskazówki w menu głównym` | Wyświetla wskazówki dot. gry w menu głównym (podpowiedzi nie są wyświetlane w eksperymentalnej wersji gry). | Pole wyboru | `Włączone` |
@@ -152,7 +152,7 @@ Jeżeli rozwiniesz listę dla `Limit klatek`, zobaczysz następujące opcje:
 Jeżeli rozwiniesz listę dla `Tła sezonowe`, zobaczysz następujące opcje:
 
 | Nazwa | Opis |
-| --- | --- |
+| :-- | :-- |
 | `Czasami` | Wyświetla tła sezonowe przez pierwsze kilka tygodni każdego sezonu. Twórca gry wybiera, kiedy tła sezonowe zaczynają pojawiać się coraz rzadziej. |
 | `Nigdy` | Nigdy nie wyświetla teł sezonowych (nie będzie żadnego animu). |
 | `Zawsze` | Zawsze wyświetla tła sezonowe w menu głównym. |
@@ -160,7 +160,7 @@ Jeżeli rozwiniesz listę dla `Tła sezonowe`, zobaczysz następujące opcje:
 ### Wybór utworu
 
 | Nazwa | Opis | Typ | Domyślnie |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | `Pokazuj miniaturki` | Wyświetla podgląd tła dla każdej beatmapy. Ta opcja wymaga wersji skórki 2.2 lub wyższej. | Pole wyboru | `Włączone` |
 
 ## Rozgrywka
@@ -172,7 +172,7 @@ Ta sekcja poświęcona jest rozgrywce w osu!.
 ### Ogólne
 
 | Nazwa | Opis | Typ | Domyślnie |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | `Przyciemnienie tła` | Dostosowuje poziom efektu przyciemniania nakładanego na tło i scenorys podczas gry. | Suwak | `30%` |
 | `Nie zmieniaj przyciemniania tła podczas przerw` | Wyłącza zmniejszenie poziomu przyciemniania podczas przerw. | Przycisk | `Wyłączone` |
 | `Rodzaj wykresu postępu` | Ustawia miejsce i sposób wyświetlania wykresu postępu. Sprawdź poniżej, aby dowiedzieć się więcej. | Rozwijane menu | `Prawy górny róg (koło)` |
@@ -188,7 +188,7 @@ Ta sekcja poświęcona jest rozgrywce w osu!.
 Jeżeli rozwiniesz listę dla `Rodzaj wykresu postępu`, zobaczysz następujące opcje:
 
 | Nazwa | Opis |
-| --- | --- |
+| :-- | :-- |
 | `Prawy górny róg (koło)` | Wyświetla postęp do końca beatmapy jako wykres kołowy po lewej stronie celności. |
 | `Prawy górny róg (pasek)` | Wyświetla postęp do końca beatmapy jako poziomy pasek pod wynikiem i nad celnością. |
 | `Prawy dolny (pasek)` | Wyświetla postęp do końca beatmapy jako poziomy pasek w prawym dolnym rogu ekranu. |
@@ -199,7 +199,7 @@ Jeżeli rozwiniesz listę dla `Rodzaj wykresu postępu`, zobaczysz następujące
 Jeżeli rozwiniesz listę dla `Rodzaj paska błędu`, zobaczysz następujące opcje:
 
 | Nazwa | Opis |
-| --- | --- |
+| :-- | :-- |
 | `Wyłączony` | Nie wyświetla żadnego paska określającego celność gracza. |
 | `Wynik trafień` | Używa kolorowych bloków do określenia celności gracza. |
 | `Nierówność trafień` | Używa wykresu nierówności do określenia celności gracza. (przy grze w trybie osu!catch, zostanie wyświetlony pasek `Wynik trafień`) |
@@ -207,7 +207,7 @@ Jeżeli rozwiniesz listę dla `Rodzaj paska błędu`, zobaczysz następujące op
 ### Wybór utworu
 
 | Nazwa | Opis | Typ | Domyślnie |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | `Wyświetlaj beatmapy od` | Określa **minimalną** liczbę gwiazdek, od której będą wyświetlane beatmapy. | Suwak | `0` |
 | `do` | Określa **maksymalną** liczbę gwiazdek, do której będą wyświetlane beatmapy. | Suwak | `10` |
 
@@ -220,13 +220,13 @@ Ta sekcja jest poświęcona dźwiękowi w grze.
 ### Urządzenia
 
 | Nazwa | Opis | Typ | Domyślnie |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | `Urządzenie wyjścia` | Wybierz z listy urządzenie, które ma odbierać dźwięk. (lista urządzeń jest pobierana z systemu). | Rozwijane menu | `Domyślne` |
 
 ### Głośność
 
 | Nazwa | Opis | Typ | Domyślnie |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | `Ogólna` | Oddziałuje na wszystkie dźwięki w grze. | Suwak | `100%` |
 | `Muzyka` | Oddziałuje wyłącznie na muzykę. | Suwak | `80%` |
 | `Efekty` | Oddziałuje na efekty dźwiękowe. | Suwak | `80%` |
@@ -237,7 +237,7 @@ Głośność w kliencie gry możesz zmienić również poprzez naciśnięcie `Al
 ### Opóźnienie
 
 | Nazwa | Opis | Typ | Domyślnie |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | `Globalne opóźnienie` | Ustawia opóźnienie (w milisekundach) dla wszystkich beatmap (nie wpływa na opóźnienie lokalne). | Suwak | `0ms` |
 | `Kalibrator opóźnienia` | Uruchamia kalibrator opóźnienia. | Przycisk |  |
 
@@ -253,7 +253,7 @@ Ta sekcja poświęcona jest skórkom i rzeczom z nimi związanymi.
 ### Skórka
 
 | Nazwa | Opis | Typ | Domyślnie |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | `Elementy skórki` | Wyświetla różne elementy z obecnie wybranej skórki. Kliknij, aby zmienić wyświetlane elementy. | Przycisk |  |
 | `Wybierz skórkę` | Zmienia skórkę. Elementy z rozwijanej listy to nazwy folderów z katalogu `osu!/Skins` | Rozwijane menu | `Domyślna` |
 | `Podgląd rozgrywki` | Uruchamia idealne przejście losowej beatmapy jako podgląd obecnie wybranej skórki. Tryb gry zależy od trybu wybranego na ekranie wyboru utworu. | Przycisk |  |
@@ -276,7 +276,7 @@ Ta sekcja jest poświęcona sterowaniu w grze.
 ### Mysz
 
 | Nazwa | Opis | Typ | Domyślnie |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | `Czułość` | Dostosowuje czułość kursora myszy. Zmiana tej opcji automatycznie aktywuje opcję `Odczyt bezpośredni`. | Suwak | `1x` |
 | `Odczyt bezpośredni` | Odczytuje nieprzetworzoną przez system pozycję myszy lub tabletu bezpośrednio z urządzenia (zapobiega akceleracji). | Przycisk | `Wyłączone` |
 | `Mapuj odczyt bezpośredni do wielkości okna osu!` | Proporcjonalnie dostosowuje odczyt bezpośredni urządzenia do wielkości klienta gry. | Przycisk | `Wyłączone` |
@@ -293,7 +293,7 @@ Ta sekcja jest poświęcona sterowaniu w grze.
 Jeżeli rozwiniesz listę dla `Ograniczaj kursor myszy`, zobaczysz następujące opcje:
 
 | Nazwa | Opis |
-| --- | --- |
+| :-- | :-- |
 | `Nigdy` | Nigdy nie zapobiega wychodzeniu kursora myszy poza okno klienta gry. |
 | `Tylko w trybie pełnoekranowym` | Zapobiega wychodzeniu kursora myszy poza okno klienta gry wyłącznie w trybie pełnoekranowym. |
 | `Zawsze` | Zawsze zapobiega wychodzeniu kursora myszy poza okno klienta gry. |
@@ -301,14 +301,14 @@ Jeżeli rozwiniesz listę dla `Ograniczaj kursor myszy`, zobaczysz następujące
 ### Klawiatura
 
 | Nazwa | Opis | Typ |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | `Ustawienia klawiatury` | Otwiera nakładkę z ustawieniami klawiatury. Sprawdź [ten artykuł](/wiki/Keyboard_Bindings), aby dowiedzieć się więcej. | Przycisk |
 | `Styl osu!mania` | Otwiera nakładkę z ustawieniami sterowania w trybie osu!mania. Sprawdź [ten artykuł](/wiki/Game_Modes/osu!mania), aby dowiedzieć się więcej. | Przycisk |
 
 ### Inne
 
 | Nazwa | Opis | Typ | Domyślnie |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | `Wymuś obsługę TabletPC` | Poprawia obsługę tabletów graficznych i tabletów PC. | Pole wyboru | `Wyłączone` |
 | `Wymuś obsługę Wiimote i bębenków TaTaCon` | Włącza obsługę bębenków Taiko Drum i kontrolerów Wiimotes od Nintendo. Sparuj urządzenie przez Bluetooth, zanim włączysz tę opcję. | Pole wyboru | `Wyłączone` |
 
@@ -323,7 +323,7 @@ Te opcje oddziałują wyłącznie na edytor beatmap i tryb testowania beatmapy.
 ### Ogólne
 
 | Nazwa | Opis | Typ | Domyślnie |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | `Wideo w tle` | Odtwarza wideo w tle podczas edytowania beatmapy. | Pole wyboru | `Wyłączone` |
 | `Używaj domyślnej skórki` | Używa domyślnej skórki osu! podczas edytowania beatmap. | Pole wyboru | `Wyłączone` |
 | `Rozwijane slidery` | Slidery będą stopniowo rozwijać się również w edytorze. | Pole wyboru | `Włączone` |
@@ -342,7 +342,7 @@ Ta sekcja jest poświęcona czatowi, liście widzów, trybowi wieloosobowemu ora
 ### Powiadomienia i prywatność
 
 | Nazwa | Opis | Typ | Domyślnie |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | `Pokazuj pasek czatu` | Wyświetla nowe wiadomości w dolnej części ekranu. Wiadomości są wyświetlane z aktualnie przeglądanego klanału. | Pole wyboru | `Wyłączone` |
 | `Automatycznie ukrywaj czat podczas rozgrywki` | Jeżeli czat jest otwarty w czasie przerwy lub w menu gry, klient gry automatycznie go ukryje, gdy rozpocznie się rozgrywka. | Pole wyboru | `Włączone` |
 | `Pokazuj powiadomienie, gdy ktoś wspomni cię na czacie` | Wyświetla powiadomienie, gdy ktokolwiek wspomni twoją nazwę użytkownika na czacie. | Pole wyboru | `Włączone` |
@@ -358,7 +358,7 @@ Ta sekcja jest poświęcona czatowi, liście widzów, trybowi wieloosobowemu ora
 ### Integracja
 
 | Nazwa | Opis | Typ | Domyślnie |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | `Discord Rich Presence` | Udostępnia [dane rich presence Discordowi](/wiki/Guides/Discord_Rich_Presence) | Pole wyboru | `Włączone` |
 | `Zintegruj ze statusem Yahoo!` | Twój Yahoo! Messenger będzie wyświetlać utwór, który obecnie grasz lub którego słuchasz. Musisz ustawić to z poziomu strony internetowej osu!. | Pole wyboru | `Wyłączone` |
 | `Zintegruj ze statusem MSN Live` | Twój Windows Live Messenger będzie wyświetlać utwór, który obecnie grasz lub którego słuchasz. | Pole wyboru | `Wyłączone` |
@@ -368,7 +368,7 @@ Ta sekcja jest poświęcona czatowi, liście widzów, trybowi wieloosobowemu ora
 ### Czat w grze
 
 | Nazwa | Opis | Typ | Domyślnie |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | `Filtruj wulgaryzmy` | Filtruje z czatu nieodpowiednie słowa i wulgaryzmy. | Przycisk | `Wyłączone` |
 | `Filtruj obce znaki` | Ukrywa wszystkie znaki spoza systemu ASCII. | Przycisk | `Wyłączone` |
 | `Automatycznie zapisuj wiadomości prywatne` | Prywatne wiadomości będą zapisywane w folderze `osu!/Logs`. | Przycisk | `Wyłączone` |
@@ -385,7 +385,7 @@ Ta sekcja jest poświęcona zarządzaniu beatmapami i aktualizacjom.
 ### Ogólne
 
 | Nazwa | Opis | Typ |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | `Usuń wszystkie nierankingowe beatmapy` | Usuwa wszystkie nierankingowe beatmapy z folderu gry. | Przycisk |
 | `Napraw uprawnienia folderu` | Nadaje klientowi gry uprawnienia do odczytu i zapisu, aby miał on dostęp do plików osu! (ta czynność wymaga potwierdzenia od administratora komputera). | Przycisk |
 | `Oznacz wszystkie beatmapy jako zagrane` | Oznacza wszystkie beatmapy jako zagrane”. | Przycisk |

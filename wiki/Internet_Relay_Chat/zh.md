@@ -38,7 +38,7 @@ osu! 使用IRC协议进行[游戏内聊天](/wiki/Chat_Console)([英文:Chat Con
 ## 基本的IRC命令
 
 | 描述                    | 操作               |
-|-------------------------|--------------------|
+| :-- | :-- |
 | 加入频道 (例如 \#lobby) | `/join #频道名称`   |
 | 离开频道l               | `/part`              |
 | 忽略某人的发言          | `/ignore 那人的昵称` |
@@ -58,7 +58,7 @@ someuser has quit #somechannel
 ### 操作方法
 
 | 客户端                                    | 操作                                                                                                                                                                                                                                                                     |
-|-------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | [HexChat](https://hexchat.github.io/)      | 右键单击某一频道，在设置子选单中，点击"Hide Join/Part Messages"。 前往 Settings » Preferences, 在 Chatting » General中 , 勾选 "Hide join and part Messages"                                                                                                                                                                              |
 | [ircII](http://www.eterna.com.au/ircii/)  | `/ignore * crap`                                                                                                                                                                                                                                                          |
 | [Irssi](https://irssi.org)             | `/ignore -channels #频道名称 * JOINS PARTS QUITS`                                                                                                                                                                                                                         |

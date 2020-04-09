@@ -43,7 +43,7 @@ Notes:
 ![](img/selection-selectoptions.png)
 
 | Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
+| :-: | :-: |
 | ![No][false] | ![No][false]      |
 
 Notes:
@@ -58,7 +58,7 @@ Notes:
 ![](img/selection-selectoptions-over.png)
 
 | Animatable   | Beatmap Skinnable |
-|:------------:|:-----------------:|
+| :-: | :-: |
 | ![No][false] | ![No][false]      |
 
 Notes:

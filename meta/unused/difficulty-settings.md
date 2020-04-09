@@ -36,7 +36,7 @@ In osu!mania mode, *CircleSize* is the number of columns.
 The width of the hit window is defined by the following table:
 
 | Score | Hit Window |
-| --- | --- |
+| :-- | :-- |
 | 50 | `150ms + 50ms * (5 - OD) / 5` |
 | 100 | `100ms + 40ms * (5 - OD) / 5` |
 | 300 | `50ms + 30ms * (5 - OD) / 5` |

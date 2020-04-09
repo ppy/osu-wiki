@@ -16,7 +16,7 @@ outdated: true
 **注意：除非特别注明，所有时间都是基于UTC+0**
 
 | Event     | Timestamp        |
-|-----------|------------------|
+| :-- | :-- |
 | 注册        | 2015年4月2日-19日    |
 | 抽签        | 2015年5月2日 下午2点   |
 | 小组赛       | 2015年5月9日-10日    |
@@ -30,7 +30,7 @@ outdated: true
 ## 奖励
 
 | Place                                                      | 奖励                             |
-|------------------------------------------------------------|--------------------------------|
+| :-- | :-- |
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 六个月的Supporter，个人资料标签以及osu!相关礼品 |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 三个月的Supporter                  |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 一个月的Supporter                  |
@@ -38,7 +38,7 @@ outdated: true
 ## 主办方
 
 | Job               | Person(s)                                                                                                                                                                                                                                                                                                                                                                                               |
-|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | 赛事管理              | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257)                                                                                                                    |
 | beatmap选择团队       | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) // ![][flag_VE] [Orihime chan](https://osu.ppy.sh/users/708258) // ![][flag_KR] [CLSW](https://osu.ppy.sh/users/531253)                                                                                                                                                                               |
 | 在线直播              | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665)                                                                                                                                                                                                                                                                              |
@@ -50,28 +50,28 @@ outdated: true
 ## 参赛者
 
 | Flag                           | Country     | Group A Members                                                                                                                                                                                                                  |
-|--------------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- | :-- |
 | ![][flag_CA] | Canada      | **[Sumaki](https://osu.ppy.sh/users/207916)**, [jeubach](https://osu.ppy.sh/users/3406015), [Affinity](https://osu.ppy.sh/users/3922569), [Yoshi_green](https://osu.ppy.sh/users/1035891), [Mysterious](https://osu.ppy.sh/users/2615240), [- ShadowZ -](https://osu.ppy.sh/users/2884415)   |
 | ![][flag_MY] | Malaysia    | **[Shadow Fear](https://osu.ppy.sh/users/635485)**, [QHideaki13](https://osu.ppy.sh/users/733998), [Kagari](https://osu.ppy.sh/users/3366264), [Future_miku95](https://osu.ppy.sh/users/2351567), [Xanus](https://osu.ppy.sh/users/4011799), [murutattack](https://osu.ppy.sh/users/4480237) |
 | ![][flag_PH] | Philippines | **[osu_gangster](https://osu.ppy.sh/users/829284)**, [-Hakuto-](https://osu.ppy.sh/users/3066582), [Hi_Hello](https://osu.ppy.sh/users/2984583)                                                                                                                |
 | ![][flag_FR] | France      | **[Ttobas](https://osu.ppy.sh/users/2084568)**, [Badis](https://osu.ppy.sh/users/559308), [Alostis](https://osu.ppy.sh/users/2986875), [CelegaS](https://osu.ppy.sh/users/1552429), [_Loli](https://osu.ppy.sh/users/2326688), [Kyuare](https://osu.ppy.sh/users/2705312)                    |
 
 | Flag                           | Country       | Group B Members                                                                                                                                                                                               |
-|--------------------------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- | :-- |
 | ![][flag_BR] | Brazil        | **[vini9204](https://osu.ppy.sh/users/199136)**, [LuckySonicGHz](https://osu.ppy.sh/users/3949268), [Michael Jordan](https://osu.ppy.sh/users/4099041), [Luciano Yoshiharu](https://osu.ppy.sh/users/2054788)                                         |
 | ![][flag_BE] | Belgium       | **[[ Zorua ]](https://osu.ppy.sh/users/3112563)**, [Ichidy](https://osu.ppy.sh/users/1019596), [eldersmot](https://osu.ppy.sh/users/4044159)                                                                                                |
 | ![][flag_AR] | Argentina     | **[Manuxz](https://osu.ppy.sh/users/1740102)**, [Zai](https://osu.ppy.sh/users/2572228), [Tadashi](https://osu.ppy.sh/users/4027910), [koliron](https://osu.ppy.sh/users/4632730), [em1R-](https://osu.ppy.sh/users/1915210), [[Force]](https://osu.ppy.sh/users/1617217) |
 | ![][flag_US] | United States | **[Zak](https://osu.ppy.sh/users/1375955)**, [Minky](https://osu.ppy.sh/users/1978891), [Storm-](https://osu.ppy.sh/users/2427813), [Cemetery](https://osu.ppy.sh/users/3438241), [-Del-](https://osu.ppy.sh/users/2996241), [-Kurisu-](https://osu.ppy.sh/users/500696)  |
 
 | Flag                           | Country     | Group C Members                                                                                                                                                                                                                  |
-|--------------------------------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- | :-- |
 | ![][flag_AT] | Austria     | **[[ K a z u ]](https://osu.ppy.sh/users/1902480)**, [Aiju AT](https://osu.ppy.sh/users/4934314), [Kuzumi-kun](https://osu.ppy.sh/users/3575682)                                                                                                               |
 | ![][flag_ES] | Spain       | **[SK Eternal](https://osu.ppy.sh/users/588046)**, [sarkras](https://osu.ppy.sh/users/709625), [Pistoler](https://osu.ppy.sh/users/3115050), [TheStickman](https://osu.ppy.sh/users/4820133), [Ratulfox](https://osu.ppy.sh/users/4414709), [kikones34](https://osu.ppy.sh/users/911816)     |
 | ![][flag_NL] | Netherlands | **[Nebux](https://osu.ppy.sh/users/2342051)**, [slimmecodo1](https://osu.ppy.sh/users/1800103), [Givralii](https://osu.ppy.sh/users/2466879), [wesley221](https://osu.ppy.sh/users/2407265), [CakeAndBanana](https://osu.ppy.sh/users/1981424), [- Yuri -](https://osu.ppy.sh/users/3212806) |
 | ![][flag_KR] | South Korea | **[Spectator](https://osu.ppy.sh/users/702598)**, [Frobe](https://osu.ppy.sh/users/670365), [224dj](https://osu.ppy.sh/users/3313041), [No492_Shaymin](https://osu.ppy.sh/users/566276), [ExGon](https://osu.ppy.sh/users/214187), [mjj741](https://osu.ppy.sh/users/1459769)                |
 
 | Flag                           | Country            | Group D Members                                                                                                                                                                                                              |
-|--------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- | :-- |
 | ![][flag_DK] | Denmark            | **[-Crab-](https://osu.ppy.sh/users/2563435)**, [Only1Magma](https://osu.ppy.sh/users/3922957), [DragonsDungeon](https://osu.ppy.sh/users/4134819), [dinidini4000](https://osu.ppy.sh/users/1582264)                                                                 |
 | ![][flag_RU] | Russian Federation | **[MeGl](https://osu.ppy.sh/users/1126814)**, [VagaNNN](https://osu.ppy.sh/users/1260040), [Zlocktar](https://osu.ppy.sh/users/2882387), [spider_yoba](https://osu.ppy.sh/users/1912659), [MayFlit](https://osu.ppy.sh/users/1651627)                                          |
 | ![][flag_SG] | Singapore          | **[He Ang Erika](https://osu.ppy.sh/users/2451381)**, [Mung](https://osu.ppy.sh/users/1018228), [geraldwch](https://osu.ppy.sh/users/2923441), [chibipingers](https://osu.ppy.sh/users/1756003), [Accel](https://osu.ppy.sh/users/1169796), [Kagayane](https://osu.ppy.sh/users/1777691) |
@@ -79,28 +79,28 @@ outdated: true
 
 
 | Flag                           | Country   | Group E Members                                                                                                                                                                                                                   |
-|--------------------------------|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- | :-- |
 | ![][flag_FI] | Finland   | **[MrSake](https://osu.ppy.sh/users/264729)**, [Mianki](https://osu.ppy.sh/users/39658), [SonJosh](https://osu.ppy.sh/users/3373175)                                                                                                                            |
 | ![][flag_AU] | Australia | **[Pew](https://osu.ppy.sh/users/597692)**, [CrimsonPlez](https://osu.ppy.sh/users/3743985), [- Magic Girl -](https://osu.ppy.sh/users/3095784), [Zeverage](https://osu.ppy.sh/users/237550), [MappyTurtle](https://osu.ppy.sh/users/4391653), [Grayswandir](https://osu.ppy.sh/users/440107) |
 | ![][flag_MX] | Mexico    | **[messi](https://osu.ppy.sh/users/1600437)**, [Jusenkyo](https://osu.ppy.sh/users/1237535), [daxeroz](https://osu.ppy.sh/users/1170156), [CrimsonAvenger](https://osu.ppy.sh/users/1690328), [THMGames](https://osu.ppy.sh/users/1836673), [Lostty](https://osu.ppy.sh/users/2118519)        |
 | ![][flag_CN] | China     | **[Dusk](https://osu.ppy.sh/users/533210)**, [Intensity](https://osu.ppy.sh/users/3072921), [Sakurano Kurimu](https://osu.ppy.sh/users/1338103), [- N a g i -](https://osu.ppy.sh/users/2956936), [xingcccc](https://osu.ppy.sh/users/1959675), [-Google-](https://osu.ppy.sh/users/3281474)  |
 
 | Flag                           | Country        | Group F Members                                                                                                                                                                                                                            |
-|--------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- | :-- |
 | ![][flag_SE] | Sweden         | **[Yukiteru Amano](https://osu.ppy.sh/users/1894511)**, [Toggeni](https://osu.ppy.sh/users/3555166), [Gurre Gurka](https://osu.ppy.sh/users/4872039), [Faayne](https://osu.ppy.sh/users/2363871)                                                                                   |
 | ![][flag_GB] | United Kingdom | **[- Magic Bomb -](https://osu.ppy.sh/users/3071175)**, [destructor966](https://osu.ppy.sh/users/2667584), [TomTheWizard](https://osu.ppy.sh/users/1913190), [Martin22](https://osu.ppy.sh/users/4209402), [Withered Lotus](https://osu.ppy.sh/users/3546931), [Bubbz](https://osu.ppy.sh/users/86414) |
 | ![][flag_HK] | Hong Kong      | **[alienflybot](https://osu.ppy.sh/users/636114)**, [insaneplayer](https://osu.ppy.sh/users/3240418), [XXXZ](https://osu.ppy.sh/users/1226238), [SakaNa](https://osu.ppy.sh/users/1784164)                                                                                         |
 | ![][flag_ID] | Indonesia      | **[Deceitful](https://osu.ppy.sh/users/1396447)**, [ExRei](https://osu.ppy.sh/users/1929336), [-Necrophilia-](https://osu.ppy.sh/users/3222638), [Ddraigon-](https://osu.ppy.sh/users/1380645), [Time-](https://osu.ppy.sh/users/2917987), [Shurelia](https://osu.ppy.sh/users/3807986)                |
 
 | Flag                           | Country | Group G Members                                                                                                                                                                                                                         |
-|--------------------------------|---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- | :-- |
 | ![][flag_HU] | Hungary | **[Kurokami](https://osu.ppy.sh/users/260933)**, [kisbee](https://osu.ppy.sh/users/1505264), [sudosu](https://osu.ppy.sh/users/1262095), [tomaszto](https://osu.ppy.sh/users/2373553), [_verto_](https://osu.ppy.sh/users/2015300)                                                        |
 | ![][flag_CL] | Chile   | **[lineqtxz](https://osu.ppy.sh/users/989542)**, [[Nico]](https://osu.ppy.sh/users/1011240), [Keleron](https://osu.ppy.sh/users/1902918), [Th3-Latios](https://osu.ppy.sh/users/3544660), [HoneyH](https://osu.ppy.sh/users/4614599), [ShilenoPro](https://osu.ppy.sh/users/1166619)                |
 | ![][flag_JP] | Japan   | **[giru HD](https://osu.ppy.sh/users/707456)**, [ririkun](https://osu.ppy.sh/users/318357), [noraRcat](https://osu.ppy.sh/users/883939), [Nucoin](https://osu.ppy.sh/users/1089803), [Molqus](https://osu.ppy.sh/users/1927193), [T e d](https://osu.ppy.sh/users/538717)                           |
 | ![][flag_DE] | Germany | **[NoteKuroi](https://osu.ppy.sh/users/186642)**, [Kingkevin30](https://osu.ppy.sh/users/564334), [- Flutter -](https://osu.ppy.sh/users/4202284), [Nyan-Zapo](https://osu.ppy.sh/users/480676), [- Yaeger -](https://osu.ppy.sh/users/2417394), [TheWaterBottle](https://osu.ppy.sh/users/4382588) |
 
 | Flag                           | Country  | Group H Members                                                                                                                                                                                                               |
-|--------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- | :-- |
 | ![][flag_TW] | Taiwan   | --- disqualified ---                                                                                                                                                                                                          |
 | ![][flag_NO] | Norway   | **[Azeidith](https://osu.ppy.sh/users/2819676)**, [K i u i](https://osu.ppy.sh/users/1794766), [LeneKn](https://osu.ppy.sh/users/3400701), [Cameragod](https://osu.ppy.sh/users/4974088), [lanki33](https://osu.ppy.sh/users/2535200), [BennyBananas](https://osu.ppy.sh/users/4023183)   |
 | ![][flag_TH] | Thailand | **[bank78952](https://osu.ppy.sh/users/1443297)**, [ZeroEightOne](https://osu.ppy.sh/users/1054016), [Boom](https://osu.ppy.sh/users/1090858)                                                                                                               |
@@ -277,7 +277,7 @@ outdated: true
 Sunday, 14\. June 2015
 
 | Team A                                         | Score     | Team B                               | History                        |
-|:-----------------------------------------------|:---------:|-------------------------------------:|--------------------------------|
+| :-- | :-: | --: | :-- |
 | ![][flag_KR] **South Korea** | **6** - 2 | China ![][flag_CN] | [#1](https://osu.ppy.sh/community/matches/16799312) |
 
 ### 决赛: 第一周
@@ -285,7 +285,7 @@ Sunday, 14\. June 2015
 Saturday, 6\. June 2015
 
 | Team A                                   | Score     | Team B                                         | History                        |
-|:-----------------------------------------|:---------:|-----------------------------------------------:|--------------------------------|
+| :-- | :-: | --: | :-- |
 | ![][flag_CN] China     | 0 - **6** | **South Korea** ![][flag_KR] | [#1](https://osu.ppy.sh/community/matches/16615953) |
 | ![][flag_ID] Indonesia | 5 - **6** | **Chile** ![][flag_CL]       | [#1](https://osu.ppy.sh/community/matches/16618288) |
 | ![][flag_PL] Poland    | 3 - **6** | **Germany** ![][flag_DE]     | [#1](https://osu.ppy.sh/community/matches/16621174) |
@@ -294,7 +294,7 @@ Saturday, 6\. June 2015
 Sunday, 7\. June 2015
 
 | Team A                                   | Score     | Team B                                 | History                        |
-|:-----------------------------------------|:---------:|---------------------------------------:|--------------------------------|
+| :-- | :-: | --: | :-- |
 | ![][flag_CN] **China** | **6** - 1 | Germany ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/16644793) |
 
 ### 半决赛
@@ -302,7 +302,7 @@ Sunday, 7\. June 2015
 Saturday, 30\. May 2015
 
 | Team A                                     | Score     | Team B                                       | History                        |
-|:-------------------------------------------|:---------:|---------------------------------------------:|--------------------------------|
+| :-- | :-: | --: | :-- |
 | ![][flag_FR] France      | 4 - **6** | **Taiwan** ![][flag_TW]    | [#1](https://osu.ppy.sh/community/matches/16464581) |
 | ![][flag_NL] Netherlands | 4 - **6** | **Malaysia** ![][flag_MY]  | [#1](https://osu.ppy.sh/community/matches/16465888) |
 | ![][flag_AR] Argentina   | 1 - **6** | **Germany** ![][flag_DE]   | [#1](https://osu.ppy.sh/community/matches/16467528) |
@@ -311,7 +311,7 @@ Saturday, 30\. May 2015
 Sunday, 31\. May 2015
 
 | Team A                                     | Score     | Team B                                     | History                        |
-|:-------------------------------------------|:---------:|-------------------------------------------:|--------------------------------|
+| :-- | :-: | --: | :-- |
 | ![][flag_PL] Poland      | 0 - **6** | South Korea ![][flag_KR] | [#1](https://osu.ppy.sh/community/matches/16489320) |
 | ![][flag_ID] Indonesia   | 1 - **6** | China ![][flag_CN]       | [#1](https://osu.ppy.sh/community/matches/16490631) |
 | ![][flag_DE] **Germany** | **6** - 0 | Taiwan ![][flag_TW]      | - Win by default -             |
@@ -322,7 +322,7 @@ Sunday, 31\. May 2015
 Saturday, 23\. May 2015
 
 | Team A                                            | Score     | Team B                                           | History                        |
-|:--------------------------------------------------|:---------:|-------------------------------------------------:|--------------------------------|
+| :-- | :-: | --: | :-- |
 | ![][flag_AR] **Argentina**      | **5** - 3 | Australia ![][flag_AU]         | [#1](https://osu.ppy.sh/community/matches/16309081) |
 | ![][flag_HK] Hong Kong          | 2 - **5** | **Taiwan** ![][flag_TW]        | [#1](https://osu.ppy.sh/community/matches/16310471) |
 | ![][flag_IT] Italy              | 1 - **5** | **Netherlands** ![][flag_NL]   | [#1](https://osu.ppy.sh/community/matches/16313352) |
@@ -331,7 +331,7 @@ Saturday, 23\. May 2015
 Sunday, 24\. May 2015
 
 | Team A                                         | Score     | Team B                                       | History                        |
-|:-----------------------------------------------|:---------:|---------------------------------------------:|--------------------------------|
+| :-- | :-: | --: | :-- |
 | ![][flag_KR] **South Korea** | **5** - 0 | Malaysia ![][flag_MY]      | [#1](https://osu.ppy.sh/community/matches/16335352) |
 | ![][flag_CN] **China**       | **5** - 2 | Germany ![][flag_DE]       | [#1](https://osu.ppy.sh/community/matches/16336420) |
 | ![][flag_FR] France          | 3 - **5** | **Indonesia** ![][flag_ID] | [#1](https://osu.ppy.sh/community/matches/16337429) |
@@ -342,7 +342,7 @@ Sunday, 24\. May 2015
 Saturday, 16\. May 2015
 
 | Team A                                                | Score     | Team B                                           | History                        |
-|:------------------------------------------------------|:---------:|-------------------------------------------------:|--------------------------------|
+| :-- | :-: | --: | :-- |
 | ![][flag_AU] Australia              | 4 - **5** | **Poland** ![][flag_PL]        | [#1](https://osu.ppy.sh/community/matches/16155689) |
 | ![][flag_HK] Hong Kong              | 0 - **5** | **South Korea** ![][flag_KR]   | [#1](https://osu.ppy.sh/community/matches/16156834) |
 | ![][flag_TW] Taiwan                 | 0 - **5** | **Malaysia** ![][flag_MY]      | [#1](https://osu.ppy.sh/community/matches/16157935) |
@@ -357,7 +357,7 @@ Saturday, 16\. May 2015
 Saturday, 9\. May 2015
 
 | Team A                                                | Score         | Team B                                            | History                        |
-|:------------------------------------------------------|:-------------:|--------------------------------------------------:|--------------------------------|
+| :-- | :-: | --: | :-- |
 | ![][flag_MY] **Malaysia**           | **4** - 1     | Philippines ![][flag_PH]        | [#1](https://osu.ppy.sh/community/matches/15999657) |
 | ![][flag_HK] Hong Kong              | 1     - **4** | **Indonesia** ![][flag_ID]      | [#1](https://osu.ppy.sh/community/matches/15999675) |
 | ![][flag_IT] **Italy**              | **4** - 2     | Thailand ![][flag_TH]           | [#1](https://osu.ppy.sh/community/matches/15999681) |
@@ -386,7 +386,7 @@ Saturday, 9\. May 2015
 Sunday, 10\. May 2015
 
 | Team A                                        | Score          | Team B                                                | History                        |
-|:----------------------------------------------|:--------------:|------------------------------------------------------:|--------------------------------|
+| :-- | :-: | --: | :-- |
 | ![][flag_AU] **Australia**  | **4**  - 3     | Mexico ![][flag_MX]                 | [#1](https://osu.ppy.sh/community/matches/16021554) |
 | ![][flag_CA] Canada         | 2      - **4** | **Malaysia** ![][flag_MY]           | [#1](https://osu.ppy.sh/community/matches/16021560) |
 | ![][flag_MX] Mexico         | 0      - **4** | **China**  ![][flag_CN]             | - Win by default -             |
@@ -475,7 +475,7 @@ Sunday, 10\. May 2015
 6.  基于[此表](https://puu.sh/bUq5V/f1066103b0.png)，比赛分成下面的阶段：
 
 | 阶段       | 比赛ID                  |
-|------------|-------------------------|
+| :-- | :-- |
 | 16强       | A, B, C, D, E, F, G, H  |
 | 1/4决赛    | I, J, K, L & R, S, T, U |
 | 半决赛     | M, N & V, W, X, Y, Z,AA |
