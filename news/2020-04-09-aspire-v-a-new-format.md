@@ -76,17 +76,20 @@ If you are interested in being a judge and categorising the entries, please cont
 The prizes for this contest are as follows:
 
 **Grand Aspire Award** - Awarded to the winner of the Grand Aspire category.
+
 - “Elite Mapper: Aspirant” title (or special increment for existing Elite Mappers)
 - “Aspire V Grand Award” badge
 - 1 year supporter
 - Entry added to Loved category*
 
 **Aspire Award** - Awarded to the winner of an Aspire V category.
+
 - “Aspire V Winner” Badge
 - 6 months supporter
 - Entry added to Loved category*
 
 **Runner Up** - Awarded to the runner up of an Aspire V category.
+
 - “Aspire V Runner up” badge
 - 3 months supporter
 - Entry added to Loved category*
