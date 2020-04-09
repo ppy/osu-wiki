@@ -247,7 +247,6 @@ osu! World Cup 2017은 커뮤니티의 여러 구성원들에 의해 운영됩�
 [flag_KR]: /wiki/shared/flag/KR.gif
 [flag_CN]: /wiki/shared/flag/CN.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
 [flag_HU]: /wiki/shared/flag/HU.gif
 [flag_JP]: /wiki/shared/flag/JP.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
@@ -256,18 +255,15 @@ osu! World Cup 2017은 커뮤니티의 여러 구성원들에 의해 운영됩�
 [flag_PL]: /wiki/shared/flag/PL.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
 [flag_MY]: /wiki/shared/flag/MY.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
 [flag_SE]: /wiki/shared/flag/SE.gif
 [flag_SG]: /wiki/shared/flag/SG.gif
 [flag_FI]: /wiki/shared/flag/FI.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
 [flag_MX]: /wiki/shared/flag/MX.gif
 [flag_NO]: /wiki/shared/flag/NO.gif
 [flag_RU]: /wiki/shared/flag/RU.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
 [flag_NL]: /wiki/shared/flag/NL.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
 [flag_IL]: /wiki/shared/flag/IL.gif
