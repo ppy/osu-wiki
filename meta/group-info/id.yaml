@@ -1,13 +1,11 @@
-outdated: true # missing gmt.all_mods, some untranslated gmt.areas, missing NAT info
+outdated: true # missing entries
+separator: ", "
 gmt:
   areas:
-    - Moderasi beatmap
-    - Moderasi chat
-    - Moderasi forum
-    - Official team presence
-    - osu! development
-    - osu!idol hosting
-    - Bantuan pemain
-    - Dukungan teknis
-    - Turnamen
-    - Administrasi wiki
+    beatmap: Moderasi beatmap
+    chat: Moderasi chat
+    forum: Moderasi forum
+    player: Bantuan pemain
+    support: Dukungan teknis
+    tournaments: Turnamen
+    wiki: Administrasi wiki
