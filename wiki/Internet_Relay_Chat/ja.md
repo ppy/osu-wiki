@@ -54,7 +54,7 @@ osu!BanchoはIRC（ゲーム内チャット）アクセス用のゲートウェ�
 | [HexChat](https://hexchat.github.io/) | Settings - Preferences に移動し、Chatting - Generalで"Hide join and part messages"をオンにする |
 | [ircII](http://www.eterna.com.au/ircii/) | `/ignore * crap` を入力 |
 | [Irssi](https://irssi.org) | `/ignore -channels #somechannel * JOINS PARTS QUITS` を入力 |
-| [Weechat](https://weechat.org/) | `/filter add irc_smart_weechat irc.username.#channel irc_smart_filter *` を入力。 **注意:** **ユーザー名** をあなたのosu!ユーザー名に置き換えてください！
+| [Weechat](https://weechat.org/) | `/filter add irc_smart_weechat irc.username.#channel irc_smart_filter *` を入力。 **注意:** **ユーザー名** をあなたのosu!ユーザー名に置き換えてください！ |
 | [KVIrc](https://www.kvirc.net/) | 公式KVIrcフォーラムの[このスレッド](http://www.kvirc.ru/forum/?topic=609.0)にアクセスしてください。 |
 | [mIRC](https://www.mirc.com/) | mIRCオプション(Tools - Options / Alt + O)に移動し、IRCツリーで"Events..."ボタンをクリックして、JoinsとPartsを"Hide"に変更します。 |
 | [Quassel IRC](https://quassel-irc.org/) | チャットウィンドウを右クリックして、Hide Events » Join/Part/Quit を選択します。 |

@@ -75,7 +75,6 @@ Jeżeli używany klient nie został tutaj podany, należy odnieść się bezpoś
 ### Pojawia się błąd „Bad Authentication Token”. Co robić?
 
 1. Upewnić się że używa się hasła podanego na stronie [Autoryzacji IRC](https://osu.ppy.sh/p/irc).
-
 2. Jeżeli twój pseudonim ma spację, zastąp ją podkreślnikiem (np. **Ten pseudonim** na **Ten\_pseudonim**).
 
 ### Czy można użyć innego pseudonimu?

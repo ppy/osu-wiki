@@ -55,7 +55,7 @@ Knowing players who joins or parts is a good thing, however in very crowded such
 | [HexChat](https://hexchat.github.io/) | Go to Settings - Preferences, under Chatting - General, check "Hide join and part messages" |
 | [ircII](http://www.eterna.com.au/ircii/) | Type `/ignore * crap` |
 | [Irssi](https://irssi.org) | Type `/ignore -channels #somechannel * JOINS PARTS QUITS` |
-| [Weechat](https://weechat.org/) | Type `/filter add irc_smart_weechat irc.username.#channel irc_smart_filter *`. **Note:** Replace **username** to your osu! username.
+| [Weechat](https://weechat.org/) | Type `/filter add irc_smart_weechat irc.username.#channel irc_smart_filter *`. **Note:** Replace **username** to your osu! username. |
 | [KVIrc](https://www.kvirc.net/) | Visit [this thread](http://www.kvirc.ru/forum/?topic=609.0) in the official KVIrc forums. |
 | [mIRC](https://www.mirc.com/) | Go to mIRC Options (Tools - Options / Alt + O), under IRC tree, click "Events..." button and change Joins and Parts to "Hide" |
 | [Quassel IRC](https://quassel-irc.org/) | Right click on the chatting window, then choose Hide Events » Join/Part/Quit. |

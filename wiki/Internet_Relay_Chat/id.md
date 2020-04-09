@@ -8,18 +8,16 @@ osu!Bancho menyediakan gateway untuk mengakses IRC (obrolan dalam game). Anda da
 
 **Pemberitahuan: [HexChat](https://hexchat.github.io/) diketahui memiliki masalah dengan IRC osu!** ([laporan bug dari GitHub HexChat](https://github.com/hexchat/hexchat/issues/818)), jika hal ini mengganggu anda, pertimbangkan untuk menggunakan klien lain .
 
-
 ## Cara Menghubungkan
 
 Setelah Anda memiliki klien, Anda perlu mengatur pengaturan server.
 
-- **Server:**  `irc.ppy.sh`
+- **Server:** `irc.ppy.sh`
 - **Port:** `6667` (standar)
 - **Username:** Nama pengguna osu! anda (ganti spasi dengan garis bawah)
 - **Password:** Dapatkan di [Otentikasi IRC](https://osu.ppy.sh/p/irc).
 
 *Kata sandi IRC anda berbeda dengan kata sandi akun osu! anda. **Jangan dibagikan kepada orang lain**.*
-
 
 ## Perintah Dasar IRC
 
@@ -29,7 +27,6 @@ Setelah Anda memiliki klien, Anda perlu mengatur pengaturan server.
 | `/part <#channel>`   | Meninggalkan channel                                 |
 | `/me <action>`       | Mengirim pesan aksi                                |
 | `/ignore <username>` | Mengabaikan pengguna (menyembunyikan pesan mereka) |
-
 
 ## Menonaktifkan Pemberitahuan Masuk/Meninggalkan
 
@@ -53,7 +50,7 @@ Mengetahui pemain yang masuk atau meninggalkan adalah hal baik, namun jika kanal
 | [HexChat](https://hexchat.github.io/)      | Buka Pengaturan - Pengaturan, di bawah Obrolan - Umum, centang "Sembunyikan pesan gabung dan pisah" |
 | [ircII](http://www.eterna.com.au/ircii/)  | Ketik `/ignore * crap` |
 | [Irssi](https://irssi.org)             | Ketik `/ignore -channels #somechannel * JOINS PARTS QUITS` |
-| [Weechat](https://weechat.org/)         | Ketik `/filter add irc_smart_weechat irc.username.#channel irc_smart_filter *`. **Catatan:** Ganti **username** dengan nama pengguna osu! anda.
+| [Weechat](https://weechat.org/)         | Ketik `/filter add irc_smart_weechat irc.username.#channel irc_smart_filter *`. **Catatan:** Ganti **username** dengan nama pengguna osu! anda. |
 | [KVIrc](https://www.kvirc.net/)             | Kunjungi [utas ini](http://www.kvirc.ru/forum/?topic=609.0) di forum resmi KVIrc |
 | [mIRC](https://www.mirc.com/)              | Buke Pengaturan mIRC (Tools - Options / Alt + O), di bawah IRC, klik tombol "Events..." dan ganti Joins and Parts menjadi "Hide" |
 | [Quassel IRC](https://quassel-irc.org/) | Klik kanan di jendela obrolan, lalu pilih Hide Events » Join/Part/Quit. |
@@ -67,7 +64,6 @@ Jika klien yang anda pakai tidak tercantum di sini, ikuti dokumentasi yang terse
 
 1. Pastikan anda menggunakan kata sandi dari halaman [Otentikasi IRC](https://osu.ppy.sh/p/irc).
 2. Jika nama pengguna osu! anda memiliki spasi, ganti dengan garis bawah (misalnya **This Username** menjadi **This_Username**)
-
 
 ### Dapatkah saya menggunakan nama pengguna lain?
 
