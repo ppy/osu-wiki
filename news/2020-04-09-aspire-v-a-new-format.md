@@ -61,9 +61,9 @@ Any entries that break these rules may be disqualified from the contest.
 
 # Judging and Voting
 
-The contest will rely on a panel of judges to first categories the entries before allowing the community to vote for the winner of each category.
+The contest will rely on a panel of judges to first categorize the entries before allowing the community to vote for the winner of each one.
 
-After the entry phase of the contest closes, entries will be anonymised and the panel of judges will view each entry and place beatmaps into categories of no more than 5 beatmaps with a common theme. The way these beatmaps will be categorised will be based solely on the opinions of the judges, they will not be asked to give a score to each entry. Not all entries may make it into a category.
+After the entry phase of the contest closes, entries will be anonymised and the panel of judges will view each entry and place beatmaps into categories of no more than 5, all sharing a common theme. The way these beatmaps will be categorised will be based solely on the opinions of the judges, they will not be asked to give a score to each entry. Not all entries may make it into a category.
 
 After the judges have completed their work, the categorised entries will be released to the public for the first round of voting, and members of the community will vote for their favourite entry of each category. Voting will be open for two weeks, during this time users are encouraged to download and play each entry in each category. 
 
