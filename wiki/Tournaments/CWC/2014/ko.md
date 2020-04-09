@@ -93,6 +93,7 @@ outdated: true
 
 | Flag                           | Country | Group D Members                                                                                                                                                                                               |
 | :-- | :-- | :-- |
+| ![][flag_AT] | 오스트리아   | **[\[ K a z u \]](https://osu.ppy.sh/u/1902480), [Raaban](https://osu.ppy.sh/users/1569025), [xXMarcelXx](https://osu.ppy.sh/users/2355698), [Zuyanta](https://osu.ppy.sh/users/2772759)                                                        |
 | ![][flag_AT] | 오스트리아   | **[\[ K a z u \]](https://osu.ppy.sh/**u/1902480), [Raaban](https://osu.ppy.sh/users/1569025), [xXMarcelXx](https://osu.ppy.sh/users/2355698), [Zuyanta](https://osu.ppy.sh/users/2772759)                                                        |
 | ![][flag_FR] | 프랑스     | --- disbanded ---                                                                                                                                                                                             |
 | ![][flag_MY] | 말레이시아   | **[-Rin](https://osu.ppy.sh/users/1202101)**, [Shadow Fear](https://osu.ppy.sh/users/635485), [Rick--](https://osu.ppy.sh/users/950241), [QHideaki13](https://osu.ppy.sh/users/733998), [kho keng chung](https://osu.ppy.sh/users/369045)                       |

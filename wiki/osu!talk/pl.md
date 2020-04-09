@@ -8,8 +8,9 @@ outdated: true
 
 ## Wprowadzenie
 
-Oficjalny kanał YouTube: <https://www.youtube.com/user/osuacademy/videos>
-Oficjalny wątek na forum: <https://osu.ppy.sh/community/forums/topics/225111>
+- [Oficjalny kanał YouTube](https://www.youtube.com/user/osuacademy/videos)
+- [Oficjalny wątek na forum](https://osu.ppy.sh/community/forums/topics/225111)
+
 **osu!talk** to seria podcastowa prowadzona przez [ztrota](https://osu.ppy.sh/users/ztrot) i [deadbeata](https://osu.ppy.sh/users/deadbeat). Seria składa się głównie z wywiadów z osobami ze społeczności osu!. Jednakże, czasami dyskutujemy w większej grupie o rzeczach dziejących się w społeczności osu! (są to np. zmiany w załodze czy długotrwałe błędy takie jak przesadzone mapowanie). Seria podkastów jest zorganizowana tak, by każdy mógł swobodnie dołączyć w trakcie sesji na żywo i zadawać pytania podczas bloku pytań i odpowiedzi każdego odcinka. Odcinki nie są nigdzie strumieniowane/nadawane, ponieważ staramy się zachęcić graczy, by dołączali i sami brali w nich udział.
 
 ## Odcinki

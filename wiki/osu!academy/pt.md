@@ -8,9 +8,9 @@ outdated: true
 
 ## Introdução
 
-Fonte: <https://osu.ppy.sh/home/news/2013-12-19-introducing-the-osu-academy>
-Canal Oficial do Youtube: <https://www.youtube.com/user/osuacademy/videos>
-Forum oficial: <https://osu.ppy.sh/community/forums/topics/169707>
+- [Fonte](https://osu.ppy.sh/home/news/2013-12-19-introducing-the-osu-academy)
+- [Canal Oficial do Youtube](https://www.youtube.com/user/osuacademy/videos)
+- [Forum oficial](https://osu.ppy.sh/community/forums/topics/169707)
 
 Essa nova serie chamada de **osu!academy** (Academia do osu!) pretende dar uma visão abrangente de todos os aspectos do jogo, de jogar para o mapeamento e tudo relacionado
 

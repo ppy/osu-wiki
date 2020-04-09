@@ -15,10 +15,10 @@ Price: **Free**
 **Packlist:*
 
 - [Haru☆ - March Handyman](https://osu.ppy.sh/beatmapsets/7850) - [Sushi](https://osu.ppy.sh/users/Sushi) - ![2](img/dif4.png "2")
-  - http://viotex.matrix.jp/
-  - http://skatepunkscafe.blog117.fc2.com/
+  - [Haru☆'s website](http://viotex.matrix.jp/)
+  - [Haru☆'s blog](http://skatepunkscafe.blog117.fc2.com/)
 - Garbled Waves - Apatisk - [RandomJibberish](https://osu.ppy.sh/users/RandomJibberish) - ![3](img/dif6.png "3")
-  - http://soundcloud.com/garbled-waves/
+  - [Garbled Waves' Soundcloud](https://soundcloud.com/garbled-waves/)
   - [@GarbledWaves](https://twitter.com/GarbledWaves)
 
 ## Bundled Songs (currently bundled)
@@ -28,11 +28,11 @@ Price: **Free**
 **Packlist:*
 
 - nekodex - Liquid Future - [mm201](https://osu.ppy.sh/users/mm201) - ![3.5](img/dif7.png "3.5")
-  - http://soundcloud.com/nekodex/
+  - [nekodex's Soundcloud](https://soundcloud.com/nekodex/)
   - [@nekodex](https://twitter.com/nekodex)
 - [tieff & Natteke - Endless Tower](https://osu.ppy.sh/beatmapsets/17076) - [RandomJibberish](https://osu.ppy.sh/users/RandomJibberish) - ![1](img/dif2.png "1")
-  - https://osu.ppy.sh/users/natteke
-  - https://osu.ppy.sh/users/tieff
+  - [natteke's osu! profile](https://osu.ppy.sh/users/natteke)
+  - [tieff's osu! profile](https://osu.ppy.sh/users/tieff)
   - [@Nattekee](https://twitter.com/Nattekee)
 
 ## Bundled Songs
@@ -42,10 +42,10 @@ Price: **Free**
 **Packlist:*
 
 - SkyMarshall - Hitchhikers - [Gens](https://osu.ppy.sh/users/Gens) - ![1.5](img/dif3.png "1.5")
-  - http://www.skymarshallarts.com/
+  - [SkyMarshall's website](https://hafskjold.net/skymarshallarts/)
 - [tieff & Natteke - Sunrise](https://osu.ppy.sh/beatmapsets/34430) - [jericho2442](https://osu.ppy.sh/users/jericho2442) - ![2](img/dif4.png "2")
-  - https://osu.ppy.sh/users/natteke
-  - https://osu.ppy.sh/users/tieff
+  - [natteke's osu! profile](https://osu.ppy.sh/users/natteke)
+  - [tieff's osu! profile](https://osu.ppy.sh/users/tieff)
   - [@Nattekee](https://twitter.com/Nattekee)
 
 ## Cranky Pack Vol. 1
@@ -61,7 +61,7 @@ Price: **USD$1.99**
 
 **Source:*
 
-- http://www.rave-slave.com/
+- [Cranky's website](https://www.feline-groove.com/)
 
 ## OK Go Vol. 1
 
@@ -76,7 +76,7 @@ Price: **USD$1.99**
 
 **Source:*
 
-- http://okgo.net/
+- [OK Go's website](https://okgo.net/)
 
 ## Koizumi Vol. 1
 
@@ -92,8 +92,8 @@ Price: **USD$2.99**
 
 **Source:*
 
-- http://tsundererecordings.bandcamp.com/
-- http://koizumi.teknolust.org/
+- [Koizumi's Bandicamp](https://tsundererecordings.bandcamp.com/)
+- [Koizumi's website](http://koizumi.teknolust.org/)
 - [@sosayaze](https://twitter.com/sosayaze)
 
 ## Free Pack 2
@@ -105,7 +105,7 @@ Price: **Free**
 - Bomb Boy - Ignition, Set, GO! - [D33d](https://osu.ppy.sh/users/D33d) - ![4](img/dif8.png "4")
   - [@BomuBoi](https://twitter.com/BomuBoi)
 - [daniwellP - Nekomimi Switch](https://osu.ppy.sh/beatmapsets/12892) - Team STREAM - ![3.5](img/dif7.png "3.5")
-  - http://dic.nicovideo.jp/a/daniwellp/
+  - [daniwellP's niconico profile](https://dic.nicovideo.jp/a/daniwellp/)
   - [@daniwell_aidn](https://twitter.com/daniwell_aidn)
 
 ## Electronic Pack Vol. 1
@@ -115,13 +115,13 @@ Price: **USD$0.99**
 **Packlist:*
 
 - Kenneth Nilsen - Space Music - [jericho2442](https://osu.ppy.sh/users/jericho2442) - ![3](img/dif6.png "3")
-  - http://soundcloud.com/keosni391
+  - [Kenneth Nilsen's Soundcloud](https://soundcloud.com/keosni391)
 - Kenneth Nilsen - Woohoo! - [Krisom](https://osu.ppy.sh/users/Krisom) - ![4](img/dif8.png "4")
-  - http://soundcloud.com/keosni391
+  - [Kenneth Nilsen's Soundcloud](https://soundcloud.com/keosni391)
 - NIGHTkilla - Fracture - [jericho2442](https://osu.ppy.sh/users/jericho2442) - ![3.5](img/dif7.png "3.5")
-  - http://soundcloud.com/qbiq-nightkilla
+  - [NIGHTkilla's Soundcloud](https://soundcloud.com/qbiq-nightkilla)
 - SkyMarshall - It's True - [jericho2442](https://osu.ppy.sh/users/jericho2442) - ![4](img/dif8.png "4")
-  - http://www.skymarshallarts.com/
+  - [SkyMarshall's website](https://hafskjold.net/skymarshallarts/)
 
 ## Odyssey Pack
 
@@ -136,7 +136,7 @@ Price: **USD$0.99**
 
 **Source:*
 
-- http://odysseymusic.bandcamp.com/
+- [Odyssey's Bandicamp](https://odysseymusic.bandcamp.com/)
 
 ## Free Pack 1.5
 
@@ -145,8 +145,8 @@ Price: **Free**
 **Packlist:*
 
 - [Aperture Science - Want You Gone](https://osu.ppy.sh/beatmapsets/29296) - [Larto](https://osu.ppy.sh/users/12328) - ![3.5](img/dif7.png "3.5")
-  - http://thinkwithportals.com/
-  - http://www.thinkwithportals.com/music.php (Volume 3)
+  - [Portal 2's website](http://thinkwithportals.com/)
+  - [Portal 2's soundtrack](http://www.thinkwithportals.com/music.php) (Volume 3)
   - [@portal2news](https://twitter.com/portal2news)
 
 ## VVVVVV Pack Vol. 1
@@ -162,7 +162,7 @@ Price: **USD$0.99**
 
 **Source:*
 
-- http://www.souleye.se/
+- [Souleye's website](http://magnuspalsson.com/)
 
 ## SHIKI Pack Vol. 1
 
@@ -177,7 +177,7 @@ Price: **USD$1.99**
 
 **Source:*
 
-- http://shiki2.sakura.ne.jp/
+- [SHIKI's website](http://shiki2.sakura.ne.jp/)
 
 ## Images
 
