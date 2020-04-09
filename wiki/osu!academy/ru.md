@@ -8,11 +8,11 @@ outdated: true
 
 ## Вступление
 
-Источник: <https://osu.ppy.sh/home/news/2013-12-19-introducing-the-osu-academy>
-Официальный канал на Youtube: <https://www.youtube.com/user/osuacademy/videos>
-[Трейлер канала](https://www.youtube.com/watch?v=z5gy34k3RI0&featur).
-Официальный тред: <https://osu.ppy.sh/community/forums/topics/169707>
-Создатель: [ztrot](https://osu.ppy.sh/users/6347)
+- [Источник](https://osu.ppy.sh/home/news/2013-12-19-introducing-the-osu-academy)
+- [Официальный канал на Youtube](https://www.youtube.com/user/osuacademy/videos)
+- [Трейлер канала](https://www.youtube.com/watch?v=z5gy34k3RI0&featur).
+- [Официальный тред](https://osu.ppy.sh/community/forums/topics/169707)
+- Создатель: [ztrot](https://osu.ppy.sh/users/6347)
 
 **Академия osu!** — это твой гид в мир osu!, который доходчиво расскажет об аспектах игры, маппинга и всего, что с этим связано.
 
@@ -25,7 +25,7 @@ outdated: true
 Нажмите на картинку, чтобы посмотреть эпизод.
 
 | Эпизод                                                                                         | Описание                                                                                 |
-|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | [![](img/Academy_1.png)](https://www.youtube.com/watch?v=cz522ZAs5aQ "Эпизод 1")     | В этом эпизоде мы узнаем, как установить osu! и создать аккаунт!                         |
 | [![](img/Academy_2.png)](https://www.youtube.com/watch?v=mswLEXK0eDk "Эпизод 2")     | В этом эпизоде мы рассмотрим стандартный стиль игры, а также несколько игровых настроек! |
 | [![](img/Academy_3.png)](https://www.youtube.com/watch?v=UAomychlbic "Эпизод 3")     | В этом эпизоде LoliFlan расскажет нам о таком режиме игры, как osu!mania!                |

@@ -2,9 +2,6 @@
 outdated: true
 ---
 
-[false]: /wiki/shared/false.png "No"
-[true]: /wiki/shared/true.png "Yes"
-
 # Beatmap Nomination Group (Beatmap Aday Gösterme Grubu)
 
 **Beatmap Nomination Group (Beatmap Aday Gösterme Grubu)**, yaygın adıyla BNG, [beatmap aday gösterme](/wiki/Beatmap_ranking_procedure) ile ilgilenen bir gruptur. Gruptaki bireyler tekil olarak genellikle Beatmap Nominator (Aday Gösterici), ya da BN olarak çağırılır.
@@ -59,7 +56,7 @@ Ayrıca not: oyun modları kolonları kullanıcın hangi oyun moduna odaklandı�
 ### osu!standard
 
 | İsim                                                  | Ek diller     |
-|-------------------------------------------------------|--------------------------|
+| :-- | :-- |
 | [- Matha -](https://osu.ppy.sh/users/7354729) | Chinese, Cantonese |
 | [\_Epreus](https://osu.ppy.sh/users/7342798) | Korean |
 | [Agatsu](https://osu.ppy.sh/users/5579871) |  |
@@ -130,7 +127,7 @@ Ayrıca not: oyun modları kolonları kullanıcın hangi oyun moduna odaklandı�
 ### osu!taiko
 
 | İsim                                                  | Ek diller     |
-|-------------------------------------------------------|--------------------------|
+| :-- | :-- |
 | [-GN Junior](https://osu.ppy.sh/users/3901754) | Chinese, Cantonese |
 | [\_WWWWWW_WWWWWW_](https://osu.ppy.sh/users/1981781)   | Portuguese, Spanish, Japanese|
 | [Faputa](https://osu.ppy.sh/users/845733)             | Cantonese, Chinese       |
@@ -150,7 +147,7 @@ Ayrıca not: oyun modları kolonları kullanıcın hangi oyun moduna odaklandı�
 ### osu!catch
 
 | İsim                                                  | Ek diller     |
-|-------------------------------------------------------|--------------------------|
+| :-- | :-- |
 | [-Luminate](https://osu.ppy.sh/users/4778689)         | Thai                     |
 | [alienflybot](https://osu.ppy.sh/users/636114)        | Cantonese, Chinese       |
 | [Ascendance](https://osu.ppy.sh/users/2931883)        |                          |
@@ -167,7 +164,7 @@ Ayrıca not: oyun modları kolonları kullanıcın hangi oyun moduna odaklandı�
 ### osu!mania
 
 | İsim                                                  | Ek diller     |
-|-------------------------------------------------------|--------------------------|
+| :-- | :-- |
 | [-MysticEyes](https://osu.ppy.sh/users/6253266)       |                          |
 | [\_Stan](https://osu.ppy.sh/users/1653229)            | Chinese                  |
 | [Arzenvald](https://osu.ppy.sh/users/3027421)         | Indonesian               |

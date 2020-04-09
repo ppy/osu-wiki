@@ -13,7 +13,7 @@ outdated: true
 ## 토너먼트 일정
 
 | Event      | Timestamp                |
-|------------|--------------------------|
+| :-- | :-- |
 | 참가 신청 기간   | 02-26 Oct 2014           |
 | 조 추첨 (생방송) | 1 Nov 2014 14.00 (UTC+0) |
 | 조별 예선      | 8-9 Nov 2014             |
@@ -26,7 +26,7 @@ outdated: true
 ## 우승 상품
 
 | Placing                                                    | Prizes                               |
-|------------------------------------------------------------|--------------------------------------|
+| :-- | :-- |
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 서포터 6개월, 프로필 뱃지, OWC 우승 트로피, osu! 상품 |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 서포터 3개월                              |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 서포터 1개월                              |
@@ -34,7 +34,7 @@ outdated: true
 ## 운영 위원
 
 | Job     | Person(s)                                                                                                                                                                                                                                                    |
-|---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | 토너먼트 관리 | ![][flag_DE][Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE][p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES][Deif](https://osu.ppy.sh/users/318565)                                                                    |
 | 비트맵 선별  | ![][flag_NL][GladiOol](https://osu.ppy.sh/users/23326) // ![][flag_KR][ToGlette](https://osu.ppy.sh/users/1076236)                                                                                                                           |
 | 방송      | ![][flag_AU][peppy](https://osu.ppy.sh/users/2) // ![][flag_PL][Marcin](https://osu.ppy.sh/users/722665) // ![][flag_FR][shARPII](https://osu.ppy.sh/users/776257)                                                                   |
@@ -115,7 +115,7 @@ outdated: true
 6.  Based on [this graphic](https://puu.sh/bUq5V/f1066103b0.png), the stages are splitted up the following:
 
 | Stage          | Match ID                |
-|----------------|-------------------------|
+| :-- | :-- |
 | 16강           | A, B, C, D, E, F, G, H  |
 | 8강            | I, J, K, L & R, S, T, U |
 | 준결승전       | M, N & V, W, X, Y, Z,AA |

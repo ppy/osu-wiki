@@ -5,7 +5,7 @@ Un fichier **.osr** contient toutes les informations à propos d'un replay. Pour
 ## Les types de données
 
 | Nom (nom anglais) | Nombre d'octets | Description |
-| ---- | ----- | ----------- |
+| :-- | :-- | :-- |
 | Octet (byte) | 1 | nombre entier |
 | Court (short) | 2 | nombre entier |
 | Entier (int) | 4 | nombre entier |
@@ -18,7 +18,7 @@ Un fichier **.osr** contient toutes les informations à propos d'un replay. Pour
 Les Byte offsets ne sont pas inclus dans ce tableau à cause des valeurs à taille variable.
 
 | Type de donnée | Description |
-| --------- | ----------- |
+| :-- | :-- |
 | Octet (byte) | Mode de jeu du replay (0 = osu!standard, 1 = osu!taiko, 2 = osu!catch, 3 = osu!mania) |
 | Entier (int) | Version du jeu du replay (exemple: 20131216) |
 | Chaîne de caractère (string) | Hash de la beatmap en MD5 |
@@ -45,7 +45,7 @@ Il y a encore d'autres données comme le mouvement de la souris et des touches a
 Une fois décompressé, le texte contient des données séparées par des virgules. Chacune présente des actions présentées par 4 nombres: `w | x | y | z`.
 
 | Variable | Type de donnée | Description |
-| ---- | --------- | ----------- |
+| :-- | :-- | :-- |
 | w | Long (long) | Temps en millisecondes du temps qui sépare cette action de la précédente |
 | x | Flottante (float) | Valeur de l'abscisse (x) de la position du curseur (de 0 à 512) |
 | y | Flottante (float) | Valeur de l'ordonnée (y) de la position du curseur (de 0 à 384) |
@@ -56,7 +56,7 @@ Une fois décompressé, le texte contient des données séparées par des virgul
 Comme décrit dans l'[API osu!](https://github.com/peppy/osu-api/wiki#mods)
 
 | Mod            | Valeur (BitOffset) | Commentaire                                                   |
-|----------------|--------------------|---------------------------------------------------------------|
+| :-- | :-- | :-- |
 | None           | 0                  |                                                               |
 | NoFail         | 1 (0)              |                                                               |
 | Easy           | 2 (1)              |                                                               |

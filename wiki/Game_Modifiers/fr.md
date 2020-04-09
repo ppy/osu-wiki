@@ -37,7 +37,7 @@ Dans le mode [Multi](/wiki/Multi), l'effet des " vies " ne fonctionnera pas dans
 
 - Réduit la difficulté globale - cercles plus grands, drain HP plus indulgent, moins de précision requise.
 
-Dans le mode de jeu [osu!standard](/wiki/Game_Modes/osu!), le mode Easy diminue [circle size](/wiki/Beatmap_Editor/Song_Setup#circle-size), [approach rate](/wiki/Beatmap_Editor/Song_Setup#approach-rate) (AR), [overall difficulty](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) (OD) de même que [HP drain](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) (HP); chacun d'entre eux par une quantité énorme (la moitié de la quantité actuelle fixée).
+Dans le mode de jeu [osu!standard](/wiki/Game_Modes/osu!), le mode Easy diminue [circle size](/wiki/Beatmap_Editor/Song_Setup#circle-size), [approach rate](/wiki/Beatmapping/Approach_rate) (AR), [overall difficulty](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) (OD) de même que [HP drain](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) (HP); chacun d'entre eux par une quantité énorme (la moitié de la quantité actuelle fixée).
 
 ![La facilité diminue la difficulté de plusieurs façons.](img/GM_EZ1.jpg "La facilité diminue la difficulté de plusieurs façons.")
 
@@ -133,7 +133,7 @@ Comme ce mod augmente la difficulté de façon énorme par rapport aux deux autr
 
 ---
 
-Dans le mode de jeu [osu!mania](/wiki/Game_Modes/osu!mania) seulement la difficulté de jugement (OD) et les valeurs de [approach rate](/wiki/Beatmap_Editor/Song_Setup#approach-rate) (AR) sont augmentées.
+Dans le mode de jeu [osu!mania](/wiki/Game_Modes/osu!mania) seulement la difficulté de jugement (OD) et les valeurs de [approach rate](/wiki/Beatmapping/Approach_rate) (AR) sont augmentées.
 
 Le mod Hard Rock n'affectera pas le placement des notes. Pour les mods qui modifient le placement des notes, voir [Random](#random) mod sous Spécial.
 

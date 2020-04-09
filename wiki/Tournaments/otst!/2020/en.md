@@ -104,28 +104,55 @@ The osu! TV Size Tournament 2020 is run by various community members.
 | **WE LOVE LWMF!** | **![][flag_AT] [TiltBoi](https://osu.ppy.sh/users/6311630)**, ![][flag_AT] [Pandadesu](https://osu.ppy.sh/users/2167069), ![][flag_AT] [LWMF](https://osu.ppy.sh/users/3632402), ![][flag_AT] [Snajper](https://osu.ppy.sh/users/4211027), ![][flag_AT] [FeeDyy](https://osu.ppy.sh/users/8123308), ![][flag_AT] [goosefedora](https://osu.ppy.sh/users/2323131), ![][flag_AT] [Teppi](https://osu.ppy.sh/users/1371974), ![][flag_DE] [Bakugo-](https://osu.ppy.sh/users/4990127) |
 | **will is 2** | **![][flag_GB] [Voss](https://osu.ppy.sh/users/7657761)**, ![][flag_US] [WillCookie](https://osu.ppy.sh/users/6404488), ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808), ![][flag_PL] [Bartek22830](https://osu.ppy.sh/users/6404027), ![][flag_GB] [Ventus](https://osu.ppy.sh/users/1986262), ![][flag_PL] [twoja stara](https://osu.ppy.sh/users/8170186), ![][flag_PL] [twoj stary](https://osu.ppy.sh/users/3543130), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
 
-## Match schedule: Finals
+## Match schedule: Grand Finals
 
-Saturday, 4 April 2020:
-
-| Match ID | Team 1 | Team 2 | Match time (UTC) |
-| :-: | --: | :-- | :-: |
-| #L58 | osim | will is 2 | **10:00** |
-| #L57 | ＝ＹＡＨＥ | seusbruk | **14:00** |
-
-Sunday, 5 April 2020:
+Saturday, 11 April 2020:
 
 | Match ID | Team 1 | Team 2 | Match time (UTC) |
 | :-: | --: | :-- | :-: |
-| #L59a¹ | will is 2 | seusbruk | **16:00** |
-| #L59b¹ | will is 2 | ＝ＹＡＨＥ | **12:00** |
-| #L59c¹ | osim | seusbruk | **14:00** |
-| #L59d¹ | osim | ＝ＹＡＨＥ | **12:00** |
-| #W60 | Rubber Conquest | floating up | **15:00** |
+| #L61 | Floating Up | seusbruk | **14:00** |
 
-¹ Encounter dependent on winner of match #L57 and match #L58
+Sunday, 12 April 2020:
+
+| Match ID | Team 1 | Team 2 | Match time (UTC) |
+| :-: | --: | :-- | :-: |
+| #L62a¹ | Rubber conquest | Floating Up | **04:00** |
+| #L62b¹ | Rubber conquest | seusbruk | **19:00** |
+
+¹ Encounter dependent on winner of match #L61. If team 2 wins match #62, the bracket reset Grand Finals match will take place approximately 30 minutes in advance.
 
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here! (76 MB)](https://drive.google.com/file/d/1FRGj76LSac4v5hgAS6mW7cTpNTLJR0BH/view)**
+
+- NoMod
+  - [DJ TOTTO - Shoujo alice to hakoniwa gensou concerto (lahphnya) \[Ar9.5\]](https://osu.ppy.sh/beatmapsets/568321#osu/1204535)
+  - [xi - over the top (Shrukaghn) \[Exceed\]](https://osu.ppy.sh/beatmapsets/846561#osu/1770552)
+  - [3R2 - Sudden Death (Settia) \[Novice\]](https://osu.ppy.sh/beatmapsets/605109#osu/2320454)
+  - [Sota Fujimori - polygon (Kaifin) \[Incrementally Hi-Speed Extreme\]](https://osu.ppy.sh/beatmapsets/559097#osu/1234400)
+  - [antiPLUR - Speed of Link (ktgster) \[200 000 000m/s\]](https://osu.ppy.sh/beatmapsets/359173#osu/792989)
+- Hidden
+  - [The Flashbulb - DIDJ PVC (Irreversible) \[Zetera's EX II\]](https://osu.ppy.sh/beatmapsets/966078#osu/2061815)
+  - [Kabocha - EmbryO (Kawashiro) \[yf's Extreme\]](https://osu.ppy.sh/beatmapsets/947018#osu/2011173)
+  - [Ochiai Yurika - Koibumi2000 (arken1015) \[Oni(Futsuu)\]](https://osu.ppy.sh/beatmapsets/10539#osu/46298)
+- HardRock
+  - [sawawa - Koishi Circulation (SakiZ) \[Demon Tale Sonata\]](https://osu.ppy.sh/beatmapsets/641707#osu/1360652)
+  - [yak_won - Sinus \~Secret Heart\~ (ktgster) \[Extreme\]](https://osu.ppy.sh/beatmapsets/736694#osu/1554713)
+  - [sasakure.UK - Atropos (Cellina) \[Rose's Fates\]](https://osu.ppy.sh/beatmapsets/838536#osu/1853800)
+- DoubleTime
+  - [ShockOne - Polygon (feat. Reija Lee) (Secretpipe) \[Asphyxia's Insane\]](https://osu.ppy.sh/beatmapsets/194188#osu/475364)
+  - [Gentle Stick X M2U - Ineffabilis (buhei) \[Yuki's Extra\]](https://osu.ppy.sh/beatmapsets/340903#osu/766528)
+  - [Amidst - Phantasy (ZLOdeuka-) \[NYA?!\]](https://osu.ppy.sh/beatmapsets/724594#osu/1530025)
+- FreeMod
+  - [Black Hole - Pluto (7odoa) \[Challenge\]](https://osu.ppy.sh/beatmapsets/45074#osu/146957)
+  - [t+pazolite - Luv-Lab-Poison 22ate! (Xgor) \[Xtreme\]](https://osu.ppy.sh/beatmapsets/9029#osu/38426)
+  - [Kobaryo - Sulyvahn [feat. USAO] (Testo) \[DUBSTEP\]](https://osu.ppy.sh/beatmapsets/787583#osu/1652992)
+- Tiebreaker
+  - **[Umeboshi Chazuke - Bison Charge (Nao Tomori) \[Extreme\]](https://osu.ppy.sh/beatmapsets/894701#osu/1869619)**
+  - **[Roselia - Bad Apple!! feat. nomico (Deppyforce) \[Special Phantasm!! Tournament ver.\]](https://osu.ppy.sh/beatmapsets/1137809#osu/2381331)**
+  - **[Getty vs. DJ DiA - Ops:Code-Rapture- (Seolv) \[Moecho's Glitched Reality\]](https://osu.ppy.sh/beatmapsets/1075064#osu/2326463)**
 
 ### Finals
 
@@ -288,6 +315,22 @@ Sunday, 5 April 2020:
   - [Primastella - Koigokoro (Luerxa) \[Delis' Insane\]](https://osu.ppy.sh/beatmapsets/127712#osu/323875)
 
 ## Match results
+
+### Finals
+
+Saturday, 4 April 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ＝ＹＡＨＥ | 3 | **7** | **seusbruk** | [#1](https://osu.ppy.sh/community/matches/59983820) |
+| osim | 0 | **7** | **will is 2** | [#1](https://osu.ppy.sh/community/matches/59988159) |
+| **Rubber Conquest** | **8** | 7 | floating up | [#1](https://osu.ppy.sh/community/matches/59991769) |
+
+Sunday, 5 April 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| will is 2 | 1 | **6** | **seusbruk** | [#1](https://osu.ppy.sh/community/matches/60030302) |
 
 ### Semifinals
 

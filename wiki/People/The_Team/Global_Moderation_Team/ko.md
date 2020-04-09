@@ -131,7 +131,6 @@ Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임�
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
 [flag_HM]: /wiki/shared/flag/HM.gif
-[flag_HU]: /wiki/shared/flag/HU.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
 [flag_IT]: /wiki/shared/flag/IT.gif
 [flag_JP]: /wiki/shared/flag/JP.gif

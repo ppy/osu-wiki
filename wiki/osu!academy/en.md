@@ -1,6 +1,8 @@
 ---
 needs_cleanup: true
+outdated: true
 ---
+<!-- TODO: new videos and branding -->
 
 # osu!academy
 
@@ -16,7 +18,7 @@ If you have any questions or comments, please forward them to [ztrot](https://os
 ## Episodes
 
 | Episode Thumbnail                                        | Link                                                                     | Description                                                                                                                                                       |
-|----------------------------------------------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- | :-- |
 | ![](img/Academy_1.png)   | [Episode 1](https://www.youtube.com/watch?v=cz522ZAs5aQ "Episode 1")     | In this episode, we will cover installing the game and account creation!                                                                                          |
 | ![](img/Academy_2.png)   | [Episode 2](https://www.youtube.com/watch?v=mswLEXK0eDk "Episode 2")     | In this episode, we will be going over standard gameplay and how to customize playstyle settings!                                                                 |
 | ![](img/Academy_3.png)   | [Episode 3](https://www.youtube.com/watch?v=UAomychlbic "Episode 3")     | In this episode, we will be going over the game mode osu!mania featuring LoliFlan!                                                                                |

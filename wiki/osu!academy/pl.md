@@ -8,9 +8,9 @@ outdated: true
 
 ## Wprowadzenie
 
-Źródło: <https://osu.ppy.sh/home/news/2013-12-19-introducing-the-osu-academy>
-Oficjalny kanał YouTube: <https://www.youtube.com/user/osuacademy/videos>
-Oficjalny wątek: <https://osu.ppy.sh/community/forums/topics/169707>
+- [Źródło](https://osu.ppy.sh/home/news/2013-12-19-introducing-the-osu-academy)
+- [Oficjalny kanał YouTube](https://www.youtube.com/user/osuacademy/videos)
+- [Oficjalny wątek](https://osu.ppy.sh/community/forums/topics/169707)
 
 **Akademia osu!** ma na celu wszechstronne ukazanie wszystkich aspektów osu!, od rozgrywki do mapowania i wszystkiego pomiędzy.
 
@@ -23,7 +23,7 @@ Mamy nadzieję, że filmiki te przekażą potrzebne informacje nowym graczom ora
 Kliknij na obrazek aby zostać zabranym do odpowiedniego odcinka.
 
 | Odcinek                                                                                         | Opis                                                                                                             |
-|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | [![](img/Academy_1.png)](https://www.youtube.com/watch?v=cz522ZAs5aQ "Odcinek 1")     | W tym odcinku, zajmiemy się instalacją gry i tworzeniem konta                                                    |
 | [![](img/Academy_2.png)](https://www.youtube.com/watch?v=mswLEXK0eDk "Odcinek 2")     | W tym odcinku, weźmiemy pod lupę rozgrywkę trybu osu!standard i dostosowanie różnych stylów gry                  |
 | [![](img/Academy_3.png)](https://www.youtube.com/watch?v=UAomychlbic "Odcinek 3")     | W tym odcinku wraz z LoliFlan, zajmiemy się trybem gry osu!mania                                                 |

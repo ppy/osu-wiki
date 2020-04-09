@@ -571,7 +571,6 @@ Sunday, 17 November 2019:
 [flag_SE]: /wiki/shared/flag/SE.gif
 [flag_SG]: /wiki/shared/flag/SG.gif
 [flag_SK]: /wiki/shared/flag/SK.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_US]: /wiki/shared/flag/US.gif

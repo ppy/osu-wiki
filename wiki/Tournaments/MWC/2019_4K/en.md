@@ -492,4 +492,3 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 [flag_TW]: /wiki/shared/flag/TW.gif
 [flag_US]: /wiki/shared/flag/US.gif
 [flag_VE]: /wiki/shared/flag/VE.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif

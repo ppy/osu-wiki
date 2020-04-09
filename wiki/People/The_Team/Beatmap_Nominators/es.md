@@ -2,9 +2,6 @@
 outdated: true
 ---
 
-[false]: /wiki/shared/false.png "No"
-[true]: /wiki/shared/true.png "Yes"
-
 # Beatmap Nomination Group
 
 El **Beatmap Nomination Group**, mas comúnmente referido como BNG, es un grupo a cargo de [nominar beatmaps](/wiki/Beatmap_ranking_procedure). Este grupo ha sufrido muchos cambios, especialmente el 22 de agosto del 2014, día en el cual se declaró que ya no formarían parte del staff, revocándoles así sus atributos de moderadores de chat y sus nombres en rojo tanto en el juego como en el foro. El más reciente cambio ocurrió el 1 de febrero de 2015, cuando el nombre del grupo fue cambiado de *Beatmap Appreciation Team o BAT* (Equipo de Apreciación de Beatmaps), a *Beatmap Nominator Group o BNG* (Grupo Nominador de Beatmaps).
@@ -56,7 +53,7 @@ También ten en cuenta que la columna de modos de juego de la tabla aquí abajo 
 ### osu!standard
 
 | Name                                                  | Additional Languages     |
-|-------------------------------------------------------|--------------------------|
+| :-- | :-- |
 | [- Matha -](https://osu.ppy.sh/users/7354729) | Chino, Cantonés |
 | [\_Epreus](https://osu.ppy.sh/users/7342798) | Coreano |
 | [Agatsu](https://osu.ppy.sh/users/5579871) |  |
@@ -127,7 +124,7 @@ También ten en cuenta que la columna de modos de juego de la tabla aquí abajo 
 ### osu!taiko
 
 | Nombre                                                | Lenguajes adicionales    |
-|-------------------------------------------------------|--------------------------|
+| :-- | :-- |
 | [-GN Junior](https://osu.ppy.sh/users/3901754) | Chino, Cantonés |
 | [\_WWWWWW_WWWWWW_](https://osu.ppy.sh/users/1981781)   | Portugués, Español, Català, Japonés |
 | [Faputa](https://osu.ppy.sh/users/845733)             | Cantonés, Chino          |
@@ -147,7 +144,7 @@ También ten en cuenta que la columna de modos de juego de la tabla aquí abajo 
 ### osu!catch
 
 | Nombre                                                | Lenguajes adicionales    |
-|-------------------------------------------------------|--------------------------|
+| :-- | :-- |
 | [-Luminate](https://osu.ppy.sh/users/4778689)         | Tailandés                |
 | [alienflybot](https://osu.ppy.sh/users/636114)        | Cantonés, Chino          |
 | [Ascendance](https://osu.ppy.sh/users/2931883)        |                          |
@@ -163,7 +160,7 @@ También ten en cuenta que la columna de modos de juego de la tabla aquí abajo 
 ### osu!mania
 
 | Nombre                                                | Lenguajes adicionales    |
-|-------------------------------------------------------|--------------------------|
+| :-- | :-- |
 | [-MysticEyes](https://osu.ppy.sh/users/6253266)       |                          |
 | [\_Stan](https://osu.ppy.sh/users/1653229)            | Chino                    |
 | [Arzenvald](https://osu.ppy.sh/users/3027421)         | Indonesio                |

@@ -1,7 +1,3 @@
----
-needs_cleanup: true
----
-
 # skin.ini tutorial
 
 *See also: [skin.ini](/wiki/Skinning/skin.ini) and [Skinning](/wiki/Skinning)*

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Storyboard Showcase: Sound Horizon - Yield"
-date: 2014-10-31 00:00:00 +0000
+date: 2013-10-31 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/65571250251/storyboard-showcase-sound-horizon-yield
 ---
 

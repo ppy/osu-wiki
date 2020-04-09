@@ -12,7 +12,7 @@ Si vous avez des questions ou des commentaires, veuillez les envoyer à [ztrot](
 ## Épisodes
 
 | Vignette d'épisode                                      | Lien                                                                     | Description                                                                                                                                                     |
-|----------------------------------------------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- | :-- |
 | ![](img/Academy_1.png)   | [Épisode 1](https://www.youtube.com/watch?v=cz522ZAs5aQ "Épisode 1")     | Dans cet épisode, nous allons couvrir l’installation du jeu et la création du compte!                                                                                         |
 | ![](img/Academy_2.png)   | [Épisode 2](https://www.youtube.com/watch?v=mswLEXK0eDk "Épisode 2")     | Dans cet épisode, nous allons passer en revue le gameplay standard et comment personnaliser les paramètres de style de jeu !                                                                 |
 | ![](img/Academy_3.png)   | [Épisode 3](https://www.youtube.com/watch?v=UAomychlbic "Épisode 3")     | Dans cet épisode, nous allons passer en revue le mode de jeu osu!mania avec LoliFlan!                                                                               |

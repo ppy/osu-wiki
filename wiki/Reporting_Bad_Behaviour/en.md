@@ -1,6 +1,7 @@
 ---
 needs_cleanup: true
 ---
+<!-- TODO: FAQ-like things and overall it doesn't do a good job of describing the report system first. -->
 
 # Reporting bad behaviour
 

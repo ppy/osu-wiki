@@ -20,7 +20,7 @@ En resumen: las donaciones son usadas en su totalidad para mantener osu!
   - Específicamente, `menu-background.jpg` (Menú Principal); `matchsetup-background.png` (Multi); `search-background.png` (osu!direct); `triangle.jpg` (Triángulos); `welcome.wav` (Sonido de Bienvenida); `seeya.wav` (Sonido de Despedida).
 - [Solicitudes de características](https://osu.ppy.sh/community/forums/4): Votos extra en las [solicitudes de caracterísiticas](https://osu.ppy.sh/community/forums/4) (2 por mes en vez de 1 por mes).
 - [Selección de Canción](/wiki/Interface): La posibilidad de ver en el juego entre el ranking nacional / amigos / por mods-específicos de los beatmaps.
-- En tu perfil: <https://osu.ppy.sh/users/>
+- En tu perfil: `https://osu.ppy.sh/users/`
   - Puedes agregar una página de usuario a tu perfil.
     - Tu página de usuario no será borrado cuando tu osu!supporter expire.
   - La posibilidad de cambiar tu nombre de usuario (una vez por cuenta. No podrás volver a utilizarlos una vez cambiado, puede haber algunas excepciones).

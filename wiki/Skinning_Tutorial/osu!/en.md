@@ -1,7 +1,3 @@
----
-needs_cleanup: true
----
-
 # osu! skinning tutorial
 
 The main point of skinning.

@@ -202,6 +202,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Taiko Suiji Cup](TSC/1) | 2018-09-01 | 2018-10-07 | jakpat | i like grosses baguettes | BabySnakes is Dumb |
+| [Taiko Suiji Cup 2020](TSC/2020) | 2020-02-22 | 2020-04-04 | The Shitmissers ft. zkane2 | #TeamTrees | Worldwide Bongo |
 
 ### ![](/wiki/shared/mode/taiko.png) Taiko Wars
 
@@ -371,7 +372,6 @@ Unofficial tournaments/competitions hosted by the communities.
 [GCrown]: /wiki/shared/crown-gold.png "1st place"
 [SCrown]: /wiki/shared/crown-silver.png "2nd place"
 [BCrown]: /wiki/shared/crown-bronze.png "3rd place"
-[flag___]: /wiki/shared/flag/__.gif
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"

@@ -1,6 +1,4 @@
----
-needs_cleanup: true
----
+<!-- TODO: dated images and links, formatting problems, writing could be done better instead of all these lists. I removed the `needs_cleanup` tag because this still details the Chat Console pretty well. -->
 
 # Chat console
 

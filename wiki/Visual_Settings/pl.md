@@ -11,7 +11,7 @@ _Ważne:_ Zmiany w ustawieniach wizualnych są zapisywane osobno dla każdej bea
 ## Dostępne opcje
 
 | Nazwa | Efekt | Adnotacje |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | Przyciemnienie tła | Przyciemnia obszar gry. | W zależności od ustawionej wartości bazowej, tło podczas przerw zostaje przyciemnione do ok. 30% lub nie jest przyciemniane wcale. Przy ustawieniu wartości na 100% elementy scenorysu są całkowicie przyciemnione. |
 | Wyłącz storyboard | Usuwa wszystkie elementy scenorysu. Nie ma wpływu na czas kiai ani na wideo w tle. | Włączenie tej opcji jest zalecane dla beatmap z ostrzeżeniem dot. epilepsji. Opcja ta zostanie automatycznie wyłączona, jeżeli beatmapa nie posiada scenorysu. |
 | Ignoruj skórkę beatmapy | Ignoruje elementy skórki beatmapy, jeżeli owe występują. W takiej sytuacji zostaną użyte elementy ze skórki użytkownika. | Aby ta opcja zadziałała, należy zrestartować beatmapę. |
