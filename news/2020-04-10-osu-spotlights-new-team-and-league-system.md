@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu! Spotlights: New Team and League System"
-date: 2020-04-10 08:00:00 +0000
+date: 2020-04-13 08:00:00 +0000
 ---
 
 With our latest [Spotlight season] released very recently, we are underway reworking the osu! Spotlights from grounds up, starting with a brand new team and adding a whole new league system.
