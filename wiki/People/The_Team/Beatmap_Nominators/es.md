@@ -174,6 +174,3 @@ También ten en cuenta que la columna de modos de juego de la tabla aquí abajo 
 | [Leniane](https://osu.ppy.sh/users/7138602) | Holandés |
 | [MEGAtive](https://osu.ppy.sh/users/3094101)          | Indonesio                |
 | [Rivals_7](https://osu.ppy.sh/users/4610379)          | Indonesio                |
-
-[false]: /wiki/shared/false.png "No"
-[true]: /wiki/shared/true.png "Yes"

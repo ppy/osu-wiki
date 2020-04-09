@@ -430,8 +430,6 @@ This competition has come to an end and resulted in the following podium:
 [flag_EC]: /wiki/shared/flag/EC.gif
 [flag_FI]: /wiki/shared/flag/FI.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_GR]: /wiki/shared/flag/GR.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
 [flag_IE]: /wiki/shared/flag/IE.gif

@@ -491,10 +491,8 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
 - A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the grace period mentioned in [Protocol](#protocol) will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
 - Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
 
-[flag_BE]: /wiki/shared/flag/BE.gif
 [flag_CL]: /wiki/shared/flag/CL.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
 [flag_MY]: /wiki/shared/flag/MY.gif
 [flag_PL]: /wiki/shared/flag/PL.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
-[flag_RU]: /wiki/shared/flag/RU.gif

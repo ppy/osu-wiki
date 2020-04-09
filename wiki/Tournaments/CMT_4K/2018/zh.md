@@ -367,10 +367,5 @@ tags:
 
 [CN]: /wiki/shared/flag/CN.gif "中国"
 [US]: /wiki/shared/flag/US.gif "美国"
-[UK]: /wiki/shared/flag/GB.gif "英国"
-[TW]: /wiki/shared/flag/TW.gif "台湾"
-[MY]: /wiki/shared/flag/MY.gif "马来西亚"
 [AU]: /wiki/shared/flag/AU.gif "澳大利亚"
 [SG]: /wiki/shared/flag/SG.gif "新加坡"
-[HK]: /wiki/shared/flag/HK.gif "香港"
-[CA]: /wiki/shared/flag/CA.gif "加拿大"

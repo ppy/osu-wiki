@@ -194,6 +194,3 @@ Tabel yang tercantum di bawah menunjukkan gamemode di mana setiap Beatmap Nomina
 | [Leniane](https://osu.ppy.sh/users/7138602) | Dutch |
 | [MEGAtive](https://osu.ppy.sh/users/3094101)          | Indonesian               |
 | [Rivals_7](https://osu.ppy.sh/users/4610379)          | Indonesian               |
-
-[false]: /wiki/shared/false.png "No"
-[true]: /wiki/shared/true.png "Yes"
