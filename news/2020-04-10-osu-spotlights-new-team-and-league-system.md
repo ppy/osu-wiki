@@ -8,7 +8,7 @@ With our latest [Spotlight season] released very recently, we are underway rewor
 
 ![](image)
 
-Since March 2017, osu! Spotlights work in their current shape and form. While many mappers and players already love the idea of beatmaps being put on a pedestal, we want to expand on the idea and give the curation and participation in the spotlights a whole new twist.
+Since March 2017 osu! Spotlights work in their current shape and form. While many mappers and players already love the idea of beatmaps being put on a pedestal, we want to expand on the idea and give the curation and participation in the spotlights a whole new twist.
 While we want to keep recommending beatmaps to you, we also want to add a whole new competitive and seasonal league closely attached to the recommended beatmaps. With this you and your friends will have even more reason to delve deep into the best creations osu! has to offer.
 
 We are still working on the details on how this league will work in detail, but here are some aspects we _plan_ to do:
@@ -25,6 +25,6 @@ For this, we also want to revamp the Spotlight Team as a whole. For that, we are
 
 We are also still looking for a good name for the league we want to add. You can leave your ideas in the comments below.
 
-With that, we hope that you like the new idea and that you can shape the new Spotlights together with us. **[Join us at our Discord server](https://discord.gg/DtQrzyV)** to help us with this project onwards!
+With that, we hope that you like the new idea and that you can shape the new Spotlights together with us. **[Join us at our Discord server](https://discord.gg/DtQrzyV)** or visit the `#osu-spotlights` channel of osu!dev to help us with this project onwards!
 
 —Loctav & Kurokami
