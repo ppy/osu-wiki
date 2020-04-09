@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mapping Analysis #1 - Flow"
-date: 2014-09-15 00:00:00 +0000
+date: 2013-09-15 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/61334266941/mapping-analysis-1-flow
 ---
 
