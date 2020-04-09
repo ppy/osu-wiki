@@ -1,3 +1,8 @@
+---
+no_native_review: true
+---
+<!-- TODO: the beginning doesn't match en.md exactly, but close enough to not get outdated tag -->
+
 # 社区贡献者
 
 ![社区贡献者名牌](/wiki/shared/contributor.jpg "社区贡献者名牌")
@@ -10,7 +15,7 @@
 
 ### 八月
 
-*参见论坛帖子： [osu! community contributors](https://osu.ppy.sh/community/forums/posts/2489459)*
+*参见论坛帖子： [osu! community contributors](https://osu.ppy.sh/community/forums/topics/147919)*
 
 | 玩家 | 贡献 |
 | :-- | :-- |

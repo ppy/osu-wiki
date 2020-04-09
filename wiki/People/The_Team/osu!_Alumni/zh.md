@@ -1,6 +1,5 @@
 ---
 tags:
-  - Alumni
   - 名人堂
   - osu!名人堂
   - osu! 名人堂

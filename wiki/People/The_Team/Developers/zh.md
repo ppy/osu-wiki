@@ -5,7 +5,6 @@ tags:
   - osu!devs
   - osu! dev
   - osu! devs
-  - 开发者
   - 开发团队
   - osu!开发者
   - osu!开发团队
@@ -55,7 +54,7 @@ osu! 的开发工作由 osu! 的创始人 ![][flag_AU] **[peppy](https://osu.ppy
 
 - ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397)
 
-[flag___]: /wiki/shared/flag/__.gif ""
+[flag___]: /wiki/shared/flag/__.gif
 [flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
 [flag_DE]: /wiki/shared/flag/DE.gif "德国"
 [flag_FR]: /wiki/shared/flag/FR.gif "法国"

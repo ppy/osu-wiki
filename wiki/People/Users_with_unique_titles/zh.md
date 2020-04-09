@@ -1,12 +1,17 @@
+---
+no_native_review: true
+---
+<!-- TODO: some of the formatting here doesn't match en.md -->
+
 # 拥有特殊头衔的玩家
 
-玩家的头衔通常与 [用户组](/wiki/People/The_Team#user-groups) 相关联，但是出于其他原因，为以下列出的用户提供了特殊头衔。大多数头衔是对贡献或成就的奖励，其余则是有标志性或有趣的 osu! 历史的标志。
+玩家的头衔通常与 [用户组](/wiki/People/The_Team#用户组) 相关联，但是出于其他原因，为以下列出的用户提供了特殊头衔。大多数头衔是对贡献或成就的奖励，其余则是有标志性或有趣的 osu! 历史的标志。
 
 ## 按类别及其原因排序
 
 ### 世界杯冠军
 
-授予 [官方世界杯](/wiki/Tournaments#official-world-cups) 第一名冠军获得者的奖项，这个头衔会持续存在一年。
+授予 [官方世界杯](/wiki/Tournaments#官方世界杯) 第一名冠军获得者的奖项，这个头衔会持续存在一年。
 
 拥有 **osu! Champion** 头衔的 OWC 2019 冠军：
 
@@ -120,9 +125,7 @@ osu!remix 大赛将 **osu!mixer** 作为冠军头衔。
 
 拥有 osu! 账户的 [精选艺术家](/wiki/Featured_Artists) 将会授予 **Featured Artist** 头衔来证明他们的存在。
 
-![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) 和 ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) 为 osu! 的声音设计和官方主题曲的早期贡献而被授予 **osu!musician** 头衔。
-
-![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) 成为精选艺术家时他选择保留 **osu!mixer** 来作为自己的头衔。
+![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) 和 ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) 为 osu! 的声音设计和官方主题曲的早期贡献而被授予 **osu!musician** 头衔。 ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) 成为精选艺术家时他选择保留 **osu!mixer** 来作为自己的头衔。
 
 | 用户 | 艺术家 |
 | :-- | :-- |
@@ -143,23 +146,19 @@ osu!remix 大赛将 **osu!mixer** 作为冠军头衔。
 
 ### 吉祥物设计大赛获奖者
 
-osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重新设计游戏的某些吉祥物。
-
-这些比赛的优胜者，以及最终将其设计用作正式艺术作品的人都被授予了 **osu!artist** 头衔。
+osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重新设计游戏的某些吉祥物。这些比赛的优胜者，以及最终将其设计用作正式艺术作品的人都被授予了 **osu!artist** 头衔。
 
 | 用户 | 原因 |
 | :-- | :-- |
 | ![][flag_US] [Crowie](https://osu.ppy.sh/users/6894067) | 设计了 **Mocha** 并帮助创作了许多其他 osu! 艺术作品。 |
 | ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) | [Fan Art 6: osu!taiko 吉祥物](https://osu.ppy.sh/community/contests/2) 大赛冠军。 |
-| ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) |  重新设计了 **Yuzu**。 |
+| ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) | 重新设计了 **Yuzu**。 |
 
 ### 名人堂
 
 *这里的名人堂所指的不是 [osu!Alumni](/wiki/People/osu!_Alumni)*<!-- Same translation as osu!Alumni so add some comment -->
 
 这三位玩家被授予 **osu! Hall of Famer** 头衔，作为高水平玩家在社区还未成熟时协助社区发展。
-
-<!-- TODO: reasons -->
 
 - ![][flag_US] [Cyclone](https://osu.ppy.sh/users/18589)
 - ![][flag_PH] [James](https://osu.ppy.sh/users/5728)
@@ -181,18 +180,16 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 | :-- | :-- | :-- |
 | ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | 在 [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) 上获得了第一个 NoMod FC。 |
 | ![][flag_AU] [Drum Decimator](https://osu.ppy.sh/users/4841352) | Drum Decimator | 截至 2019 年 11 月 3 日， FC 了全部 8841 张 Ranked osu!taiko 谱面。 |
-| ![][flag_NL] [Shirotora](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | *待补充* <!-- TODO: a reference to TWEWY's 104 building, because he got to rank #104 in a certain amt of time.. need to investigate further --> |
+| ![][flag_NL] [Shirotora](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | *待补充* |
 | ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | 截至 2019 年 4 月 27 日，游玩了全部 Ranked osu!standard 谱面。 |
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) 冠军 |
 
 ### 贡献者
 
-<!-- TODO: reasons -->
-
 | 用户 | 头衔 |
 | :-- | :-- |
-| ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | osu!painter <!-- achievements and some other graphics --> |
-| ![][flag_US] [Daru](https://osu.ppy.sh/users/32480) | osu!painter <!-- maria and yuzu and a bunch of artwork for old site --> |
+| ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | osu!painter |
+| ![][flag_US] [Daru](https://osu.ppy.sh/users/32480) | osu!painter |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch Paragon |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Resident Skinner |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | Pro Tester |
@@ -204,13 +201,11 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 
 ### 其他
 
-<!-- TODO: reasons -->
-
 | 用户 | 头衔 |
 | :-- | :-- |
 | ![][flag_SH] [BanchoBot](https://osu.ppy.sh/users/3) | w00t p00t |
-| ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | COOL DUDE <!-- old forum meme --> |
-| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Popcorn Fairy <!-- movie threater pictures in staff chats, or something --> |
+| ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | COOL DUDE |
+| ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Popcorn Fairy |
 | ![][flag_AU] [phill_old](https://osu.ppy.sh/users/53) | ¿ |
 | ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | Boats |
 

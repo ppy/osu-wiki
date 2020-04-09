@@ -4,6 +4,7 @@ tags:
   - osu!team
   - osu! team
   - staff
+  - team
   - team osu!
   - 工作人员
   - osu! 团队
@@ -49,7 +50,7 @@ tags:
 | [Beatmap Nominators](Beatmap_Nominators) | 使你的图能够上架的玩家 |
 | [Developers](Developers) | 通过添加新功能并修复 Bugs 来使游戏更加有趣 |
 | [Global Moderation Team](Global_Moderation_Team) | 管理论坛和聊天室 |
-| [Nomination Assessment Team](Nomination_Assessment_Team) | 负责管理 [Beatmap Nominators](Beatmap_Nominators) |
+| [Nomination Assessment Team](Nomination_Assessment_Team) | 负责管理 Beatmap Nominators |
 | [osu! Alumni](osu!_Alumni) | 曾经为社区做出了杰出贡献 |
 | [Project Loved Team](Project_Loved_Team) | 辨认社区最喜欢的谱面 |
 | [Support Team](Support_Team) | 处理**帮助**/**新功能请求**的助手 |

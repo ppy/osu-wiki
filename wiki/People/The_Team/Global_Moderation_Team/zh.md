@@ -17,7 +17,7 @@ tags:
 
 ## 如何成为 GMT
 
-要成为 **Global Moderation Team** 的成员是一个颇为困难及错综复杂的过程。一个潜在成员经常因愿意帮助其他用户，社区内的活动和良好行为而受到关注且因为他拥有精通第二语言的能力而能够被提拔。最后通过一系列的团队讨论以及检查后决定他们能否成为正式成员。GMT 潜在成员的惯例筛选往往始于 **Chat Moderators**(聊天室管理) 。
+要成为 **Global Moderation Team** 的成员是一个颇为困难及错综复杂的过程。一个潜在成员经常因愿意帮助其他用户，社区内的活动和良好行为而受到关注且因为他拥有精通第二语言的能力而能够被提拔。最后通过一系列的团队讨论以及检查后决定他们能否成为正式成员。GMT 潜在成员的惯例筛选往往始于 **Chat Moderators** (聊天室管理)。
 
 ### 如何为别人着想
 
@@ -25,8 +25,8 @@ tags:
 
 1. 通过礼貌和尊重其他使用者等表现良好的行为。确保您的帐户没有任何严重的禁言或问题。
 2. 通过参与聊天或论坛中的活动。通过举报系统举报任何不当行为和问题。回答问题并协助他人解决问题。
-3. 对[规则](/wiki/Rules)以及如何运用有适当的了解。重要的是要知道在osu!中什么可以被接受，什么不可以。
-4. 要有耐心。 GMT 不会添加仅贡献了几天的成员。GMT 需要花费时间来评估某人——他们的个性、他们可以提供的帮助、他们的活动等。
+3. 对[规则](/wiki/Rules)以及如何运用有适当的了解。重要的是要知道在 osu! 中什么可以被接受，什么不可以。
+4. 要有耐心。GMT 不会添加仅贡献了几天的成员。GMT 需要花费时间来评估某人——他们的个性、他们可以提供的帮助、他们的活动等。
 
 通常，团队会观察数周，以确保他们对团队有价值。请耐心等待，不要过火。随时向 GMT 的任何人询问有关规则、举报用户以及任何其他问题。
 
@@ -72,7 +72,7 @@ tags:
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | 荷兰语 | 聊天室管理, 论坛管理 |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | 菲律宾语 | 聊天室管理, 论坛管理, 技术支持, 谱面管理 |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | 法语 | 聊天室管理 |
-| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | 德语 | 《Ranking 准则》维护, 论坛管理, 聊天室管理, 谱面管理 |
+| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | 德语 | 论坛管理, 聊天室管理, 谱面管理 |
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | 官方团队 |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | 德语 | 比赛, 谱面管理 |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | 法语 | 聊天室管理, 论坛管理 |
@@ -96,7 +96,7 @@ tags:
 | ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | 波兰语 | 聊天室管理 |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | 西班牙语 | 聊天室管理, 比赛, wiki 管理, 论坛管理 |
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | 波兰语 | 聊天室管理 |
-| ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | <!-- TODO --> | 聊天室管理 |
+| ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | 聊天室管理 |
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | 德语 | 聊天室管理 |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | 土耳其语 | 聊天室管理 |
 
