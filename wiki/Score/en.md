@@ -12,7 +12,7 @@ Most of the time, combo plays a major part in the scoring system since it serves
 ### osu!
 
 Image | Name | Effect
-:---:|:---:|:---
+:-: | :-: | :--
 ![](/wiki/Skinning/Interface/img/hit300.png "300") | 300 | A possible score when tapping a hit circle precisely on time, completing a Slider and keeping the cursor over every tick, or completing a Spinner with the Spinner Metre full. A score of 300 appears in an blue score by default. Scoring nothing except 300s in a beatmap will award the player with the SS or SSH grade.
 ![](/wiki/Skinning/Interface/img/hit300g.png "Geki") | (激) Geki | A term from Ouendan, called Elite Beat! in EBA. Appears when playing the last element in a combo in which the player has scored only 300s. Getting a Geki will give a sizable boost to the Life Bar. By default, it is blue.
 ![](/wiki/Skinning/Interface/img/hit100.png "100") | 100 | A possible score one can get when tapping a Hit Object slightly late or early, completing a Slider and missing a number of ticks, or completing a Spinner with the Spinner Meter almost full. A score of 100 appears in a green score by default. When very skilled players test a beatmap and they get a lot of 100s, this may mean that the beatmap does not have correct timing.
@@ -23,7 +23,7 @@ Image | Name | Effect
 ### osu!taiko
 
 Image | Name | Effect
-:---:|:---:|:---
+:-: | :-: | :--
 ![](/wiki/Skinning/osu!taiko/img/taiko-hit300k.png "GREAT") ![](/wiki/Skinning/osu!taiko/img/taiko-hit300g.png "GREAT") ![](/wiki/Skinning/osu!taiko/img/taiko-hit300.png "GREAT") | (良) Great | A possible score one can get when hitting the note exactly on the hit area in correct colour. Picture: [1 and 2] Large Note [3] Small Note
 ![](/wiki/Skinning/osu!taiko/img/taiko-hit100k.png "GOOD") ![](/wiki/Skinning/osu!taiko/img/taiko-hit100.png "GOOD") | (可) Good | A possible score one can get when hitting the note slightly early or late on the hit area in correct colour. Picture: [1] Large Note [2] Small Note.
 ![](/wiki/Skinning/osu!taiko/img/taiko-hit0.png "MISS") | (不可) Miss | A possible score one can get for not hitting the note or hitting the note in wrong colour.
@@ -33,7 +33,7 @@ Image | Name | Effect
 ![](/wiki/shared/Catch_trails.jpg "osu!catch fruit trails")
 
 Image | Name | Effect
-:---:|:---:|:---
+:-: | :-: | :--
 ![](img/catch-300.jpg "Fruit") | Fruit | A large fruit which is equivalent to normal Hit-circle or Slider's starting, repeating and ending point. Catching it is equivalent to perfect hit (shown as 300 on multiplayer and result).
 ![](img/catch-100.jpg "Juice Drop") | Juice Drops (Slider Tick) | These large droplets signifies Slider's ticks, similar to the dots (slider ticks) inside the sliders. It is compulsory to catch for combo. It is twice the size of Droplet (Slider Trails). 30pt for successful capture (shown as 100 on multiplayer and result).
 ![](img/catch-50.jpg "Droplet") | Droplets (Slider Trail) | These small droplets are slider trails. They form the trails of the slider and are smaller comparatively to Juice Drops. 10pt for each Droplets. It would decrease accuracy for not capturing but does not break combo count (shown as 50 on multiplayer and result)
@@ -44,7 +44,7 @@ Image | Name | Effect
 ### osu!mania
 
 Image | Name | Effect
-:---:|:---:|:---
+:-: | :-: | :--
 ![](/wiki/Skinning/osu!mania/img/mania-hit300g.gif "Rainbow 300") | Rainbow 300 (MAX) | Perfect hit of the note or hold. Comparing to 300, getting this mark required dead-on accuracy to get it. Otherwise, a regular 300 will be given. Completing the beatmap with just this score will give the maximum 1,000,000 score (1 million score limit). This is equivalent to _Marvelous_ in DDR term.
 ![](/wiki/Skinning/osu!mania/img/mania-hit300.png "300") | 300 | Almost perfect hit of the note or hold. Maximum score limit cannot be achieved if this score was given.
 ![](/wiki/Skinning/osu!mania/img/mania-hit200.png "200") | 200 | Slightly early or slightly late hit or hold. New players may get this mark a lot until they got accustomed to the mechanism of the conveyor, speed, buttons and the judgement area.
@@ -87,7 +87,7 @@ The score given by each hit circle and end of a slider is calculated with the fo
 `Score = Hit Value + (Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25))`
 
 Term | Meaning
-:---:|:---
+:-: | :--
 **Hit Value**             | The hit circle judgement (50, 100 or 300), any slider ticks and spinner's bonus
 **Combo multiplier**      | (Combo before this hit - 1) or 0; whichever is higher
 **Difficulty multiplier** | The difficulty setting for the beatmap (see next header)
@@ -104,7 +104,7 @@ Additional bonus of 1,000 points given for each spin of a spinner after the spin
 The accumulated _difficulty points_ affect the **Difficulty multiplier** as so:-
 
 Difficulty points range | Difficulty multiplier
-:---:|---
+:-: | :--
 0 - 5   | 2x multiplier
 6 - 12  | 3x multiplier
 13 - 17 | 4x multiplier
@@ -149,7 +149,7 @@ Additionally, all hit notes gain a 1.2x score multiplier, long yellow notes (dru
 In short: `Score = {ScoreValue + [min(RoundDown(Combo / 10), 10) * RoundDown(taiko score multiplier * raw mod multiplier)]} * Kiai Time`
 
 Term | Meaning
-:---:|:---
+:-: | :--
 **ScoreValue**             | The Score Value gained from the hit (300/600, 150/300, or 0/0).
 **Combo**                  | (Combo before this hit - 1) or 0; whichever is higher
 **taiko score multiplier** | \[Depends on difficulty rating\] Possible values are: 32, 48, 64, 80, 96
@@ -178,7 +178,7 @@ Combo will not be lost for missing droplets (considered as _Miss Droplet_ in ser
 `Score = Hit Value + [Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25)]`
 
 Term | Meaning
-:---:|:---
+:-: | :--
 **Hit Value**             | The hit circle judgement (50, 100 or 300), any slider ticks, and spinner's bonus
 **Combo multiplier**      | (Combo before this hit - 1) or 0; whichever is higher
 **Difficulty multiplier** | The difficulty setting for the beatmap

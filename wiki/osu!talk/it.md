@@ -16,7 +16,7 @@ outdated: true
 ## Episodi
 
 | EP\#  | Interviste                                               | Profession                             | [Link]                                                        |
-|-------|----------------------------------------------------------|----------------------------------------|---------------------------------------------------------------|
+| :-- | :-- | :-- | :-- |
 | #1    | [Charles445](https://osu.ppy.sh/users/85000)                       | GMT/BN                                 | [Link](https://www.youtube.com/watch?v=e8lhBtcPbjw)                 |
 | #2    | [MMzz](https://osu.ppy.sh/users/128993)                            | QAT                                    | [Link](https://www.youtube.com/watch?v=fBBQ4bwNZcY)                 |
 | #3    | [Loctav](https://osu.ppy.sh/users/71366)                           | Manager dello staff                    | [Link](https://www.youtube.com/watch?v=gxZtxmUvDoQ)                 |
@@ -64,7 +64,7 @@ outdated: true
 ## Discussions
 
 | EP\# | Topics                                     | Interviste                                                                                                                                                                                                                  | [Link]                                        |
-|------|--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| :-- | :-- | :-- | :-- |
 | #1   | Staff Rework                               | [Charles445](https://osu.ppy.sh/users/85000), [Ephemeral](https://osu.ppy.sh/users/102335), [deadbeat](https://osu.ppy.sh/users/128370), and [OnosakiHito](https://osu.ppy.sh/users/290128)                                                                         | [Link](https://www.youtube.com/watch?v=c10Jiq1xZus) |
 | #2   | Overmapping                                | [Kyonko Hizara](https://osu.ppy.sh/users/444868), [Loctav](https://osu.ppy.sh/users/71366), [MMzz](https://osu.ppy.sh/users/128993), and [OnosakiHito](https://osu.ppy.sh/users/290128)                                                                             | [Link](https://www.youtube.com/watch?v=RepSYE3hN3A) |
 | #3   | Moderazione                                | [Charles445](https://osu.ppy.sh/users/85000), [deadbeat](https://osu.ppy.sh/users/128370), [Flanster](https://osu.ppy.sh/users/447818) and [Kitokofox](https://osu.ppy.sh/users/1815420)                                                                            | [Link](https://www.youtube.com/watch?v=C1hvpnW5A7k) |
@@ -84,7 +84,7 @@ outdated: true
 ### Taiko World Cup 2015
 
 | Type           | Interviste                                 | [Lien]                                             |
-|----------------|--------------------------------------------|----------------------------------------------------|
+| :-- | :-- | :-- |
 | Group Stage    | deadbeat, Tasha, tiamus et ztrot           | [Lien](https://www.youtube.com/watch?v=-T9xDo7Y8Fo) |
 | Round of 16    | deadbeat, FLANKs, Tasha et ztrot           | [Lien](https://www.youtube.com/watch?v=Y8IHcukw9Dw) |
 | Quarter Finals | _Gezo_, deadbeat, Nashmun et Tasha         | [Lien](https://www.youtube.com/watch?v=W76U6woLvHA) |
@@ -95,7 +95,7 @@ outdated: true
 ### Catch the Beat World Cup 2015
 
 | Type           | Interviste               | [Lien]                                             |
-|----------------|--------------------------|----------------------------------------------------|
+| :-- | :-- | :-- |
 | Round of 16    | Skipped                  | N/A                                                |
 | Quarter Finals | deadbeat, Tasha et ztrot | [Lien](https://www.youtube.com/watch?v=lagFdqHqVHA) |
 | Semi Finals    | deadbeat, Tasha et ztrot | [Lien](https://www.youtube.com/watch?v=n6X5fZEEpRA) |
@@ -104,7 +104,7 @@ outdated: true
 ## Specials
 
 | EP\# | Eventi                  | Interviste                                                                                                                                                               | [Link]                                        |
-|------|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| :-- | :-- | :-- | :-- |
 | #1   | Chiedimi di tutto       | [deadbeat](https://osu.ppy.sh/users/128370) and [ztrot](https://osu.ppy.sh/users/6347)                                                                                                       | [Link](https://www.youtube.com/watch?v=A0xqa-vBPgY) |
 | #2   | Chiedimi di tutto 2015  | [Charles445](https://osu.ppy.sh/users/85000), [deadbeat](https://osu.ppy.sh/users/128370), [Flanster](https://osu.ppy.sh/users/447818), [p3n](https://osu.ppy.sh/users/123703), and [ztrot](https://osu.ppy.sh/users/6347) | [Link](https://www.youtube.com/watch?v=a9An8cD18Co) |
 | #3   | Anniversario (1° anno)  | [Charles445](https://osu.ppy.sh/users/85000), [deadbeat](https://osu.ppy.sh/users/128370), and [ztrot](https://osu.ppy.sh/users/6347)                                                                  | [Link](https://www.youtube.com/watch?v=AHU7RgGCB50) |

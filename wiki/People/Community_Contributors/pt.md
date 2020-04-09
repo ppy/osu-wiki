@@ -15,7 +15,7 @@ Usuários que atualmente possuem o emblema:
 ### 8 de Agosto de 2013
 
 | Usuário | Notavel por ter feito |
-| ---- | ------------- |
+| :-- | :-- |
 | [Darkimmortal](https://osu.ppy.sh/users/10886) | Desenvolvimento e manutenção do [osu!record](https://osu.ppy.sh/community/forums/topics/108092) (replay .osr para arquivo de Vídeo.) |
 | [nanashiRei](https://osu.ppy.sh/users/807630) | Hospedando e administrando um dos maiores servidores secundários de [download de beatmaps](http://osu.yas-online.net/). |
 | [RBRat3](https://osu.ppy.sh/users/307202) | Incontáveis contribuições gráficas para o cliente do jogo entre outras. |

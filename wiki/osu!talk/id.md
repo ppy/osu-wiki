@@ -16,7 +16,7 @@ outdated: true
 ## Episode
 
 | EP\#  | Orang yang diwawancarai                                  | Profesi                          | [Tautan]                                                        |
-|-------|----------------------------------------------------------|----------------------------------|-----------------------------------------------------------------|
+| :-- | :-- | :-- | :-- |
 | #1    | [Charles445](https://osu.ppy.sh/users/85000)                       | GMT/BN                           | [Tautan](https://www.youtube.com/watch?v=e8lhBtcPbjw)                 |
 | #2    | [MMzz](https://osu.ppy.sh/users/128993)                            | QAT                              | [Tautan](https://www.youtube.com/watch?v=fBBQ4bwNZcY)                 |
 | #3    | [Loctav](https://osu.ppy.sh/users/71366)                           | Community and Tournament Manager | [Tautan](https://www.youtube.com/watch?v=gxZtxmUvDoQ)                 |
@@ -64,7 +64,7 @@ outdated: true
 ## Diskusi
 
 | EP\# | Topik                                     | Orang yang diwawancara                                                                                                                                                                                                      | [Tautan]                                        |
-|------|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| :-- | :-- | :-- | :-- |
 | #1   | Pengerjaan Ulang Staff                    | [Charles445](https://osu.ppy.sh/users/85000), [Ephemeral](https://osu.ppy.sh/users/102335), [deadbeat](https://osu.ppy.sh/users/128370), and [OnosakiHito](https://osu.ppy.sh/users/290128)                                                                         | [Tautan](https://www.youtube.com/watch?v=c10Jiq1xZus) |
 | #2   | Overmapping                               | [Kyonko Hizara](https://osu.ppy.sh/users/444868), [Loctav](https://osu.ppy.sh/users/71366), [MMzz](https://osu.ppy.sh/users/128993), and [OnosakiHito](https://osu.ppy.sh/users/290128)                                                                             | [Tautan](https://www.youtube.com/watch?v=RepSYE3hN3A) |
 | #3   | Moderasi                                  | [Charles445](https://osu.ppy.sh/users/85000), [deadbeat](https://osu.ppy.sh/users/128370), [Flanster](https://osu.ppy.sh/users/447818) and [Kitokofox](https://osu.ppy.sh/users/1815420)                                                                            | [Tautan](https://www.youtube.com/watch?v=C1hvpnW5A7k) |
@@ -84,7 +84,7 @@ outdated: true
 ### Taiko World Cup 2015
 
 | Tipe           | Orang yang diwawancara                      | [Tautan]                                             |
-|----------------|---------------------------------------------|------------------------------------------------------|
+| :-- | :-- | :-- |
 | Tahapan Grup   | deadbeat, Tasha, tiamus and ztrot           | [Tautan](https://www.youtube.com/watch?v=-T9xDo7Y8Fo) |
 | Ronde ke- 16   | deadbeat, FLANKs, Tasha and ztrot           | [Tautan](https://www.youtube.com/watch?v=Y8IHcukw9Dw) |
 | Quarter Finals | _Gezo_, deadbeat, Nashmun and Tasha         | [Tautan](https://www.youtube.com/watch?v=W76U6woLvHA) |
@@ -95,7 +95,7 @@ outdated: true
 ### Catch the Beat World Cup 2015
 
 | Tipe           | Interviewés               | [Tautan]                                             |
-|----------------|---------------------------|------------------------------------------------------|
+| :-- | :-- | :-- |
 | Ronde ke- 16   | Dilewat                   | N/A                                                  |
 | Quarter Finals | deadbeat, Tasha and ztrot | [Tautan](https://www.youtube.com/watch?v=lagFdqHqVHA) |
 | Semi Finals    | deadbeat, Tasha and ztrot | [Tautan](https://www.youtube.com/watch?v=n6X5fZEEpRA) |
@@ -104,7 +104,7 @@ outdated: true
 ## Spesial
 
 | EP\# | Acara                      | Orang yang diwawancara                                                                                                                                                   | [Tautan]                                        |
-|------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|
+| :-- | :-- | :-- | :-- |
 | #1   | Silahkan Tanya Apapun      | [deadbeat](https://osu.ppy.sh/users/128370) and [ztrot](https://osu.ppy.sh/users/6347)                                                                                                       | [Tautan](https://www.youtube.com/watch?v=A0xqa-vBPgY) |
 | #2   | Silahkan Tanya Apapun 2015 | [Charles445](https://osu.ppy.sh/users/85000), [deadbeat](https://osu.ppy.sh/users/128370), [Flanster](https://osu.ppy.sh/users/447818), [p3n](https://osu.ppy.sh/users/123703), and [ztrot](https://osu.ppy.sh/users/6347) | [Tautan](https://www.youtube.com/watch?v=a9An8cD18Co) |
 | #3   | Perayaan 1 tahun           | [Charles445](https://osu.ppy.sh/users/85000), [deadbeat](https://osu.ppy.sh/users/128370), and [ztrot](https://osu.ppy.sh/users/6347)                                                                  | [Tautan](https://www.youtube.com/watch?v=AHU7RgGCB50) |

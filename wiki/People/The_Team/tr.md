@@ -7,13 +7,13 @@ outdated: true
 ## Yaratıcı
 
 | İsim | Açıklama |
-| ---- | ----------- |
+| :-- | :-- |
 | [peppy](https://osu.ppy.sh/users/2) | Proje başı |
 
 ## Aktif
 
 | İsim | Açıklama |
-| ---- | ----------- |
+| :-- | :-- |
 | [Ephemeral](https://osu.ppy.sh/users/102335) | Oyuncu desteği, Meganekko sekreter |
 | [flyte](https://osu.ppy.sh/users/3103765), [osu!next](https://next.ppy.sh/) | Baş tasarımcı |
 | [Loctav](https://osu.ppy.sh/users/71366) | Resmi Turnuva Organizasyonu, Ekip ve topluluk yönetimi |
@@ -28,7 +28,7 @@ outdated: true
 ## İnaktif
 
 | İsim | Açıklama |
-| ---- | ----------- |
+| :-- | :-- |
 | [awp](https://osu.ppy.sh/users/2650) ([Barrel Roll Weekly](http://brw.twinkfish.com/)) | Genel housekeeping, oyun/site içi chibi sanatı |
 | [Derekku](https://osu.ppy.sh/users/91341) | Genel housekeeping, Topluluk yönetimi |
 | [Echo](https://osu.ppy.sh/users/431) ([blog](http://blog.echo.sh/)) | osu! geliştirici takımı, Oyun içi sohbetin IRC entegrasyonu, Site bakımı |
@@ -47,7 +47,7 @@ outdated: true
 Aşağıda belirtilenler osu!'yu ayakta tutan osu!topluluk üyeleri tarafından oluşmuş kullanıcı gruplarıdır. Bu üye gruplarının çoğuna forum ismi renkleri, oyun-içi sohbet renkleri ve/veya profil rozetleri verilir.
 
 | İsim | Açıklama |
-| ---- | ----------- |
+| :-- | :-- |
 | [Global Moderasyon Takımı (GMT)](/wiki/People/Global_Moderation_Team) | Forumlarda ve oyun-içi sohbette göz kulak olurlar |
 | [Beatmap Aday Gösterme Grubu (BNG)](/wiki/People/Beatmap_Nomination_Group) | Maplarınız dereceli olsun diye elinden geleni ardına koymayan kullanıcılar |
 | [Geliştiriciler](https://osu.ppy.sh/groups/11) | Oyuna yeni özellikler ekleyip bugları kaldırarak oyunu harika yaparlar. |

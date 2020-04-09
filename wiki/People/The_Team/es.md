@@ -9,13 +9,13 @@ Las personas que nombradas a continuación son el núcleo del equipo de osu!, y 
 ## Creador
 
 | Nombre | Descripción |
-| ---- | ----------- |
+| :-- | :-- |
 | [![][flag_AU] peppy](https://osu.ppy.sh/users/2) | Lider del Proyecto |
 
 ## Activos
 
 | Nombre | Descripción |
-| ---- | ----------- |
+| :-- | :-- |
 | ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | Diseñador de audio y [Artista destacado oficial de osu!](https://osu.ppy.sh/beatmaps/artists/2) |
 | ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Encargado de los medios, divulgador de artistas destacados, secretario Meganekko |
 | ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Diseñador encargado de [osu!next](https://next.ppy.sh/) |
@@ -33,7 +33,7 @@ Las personas que nombradas a continuación son el núcleo del equipo de osu!, y 
 ## Inactivos
 
 | Nombre | Descripción |
-| ---- | ----------- |
+| :-- | :-- |
 | ![][flag_US] [awp](https://osu.ppy.sh/users/2650) | Administrador general y de ayuda, creador del arte chibi del juego/pagina, ([Barrel Roll Weekly](http://brw.twinkfish.com/)) |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | Administrador general, administrador comunitario |
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) ([blog](http://blog.echo.sh/)) | Equipo de desarrollo osu!, integrador IRC del chat en el juego, mantenedor del sitio |
@@ -54,7 +54,7 @@ Las personas que nombradas a continuación son el núcleo del equipo de osu!, y 
 Los siguientes son grupos de usuarios compuestos por miembros de la comunidad que ayudan a mantener osu! La mayoría de estos grupos de usuarios reciben distintivos colores en el nombre dentro del foro, colores de chat en el juego y/o de perfil.
 
 | Nombre | Descripción |
-| ---- | ----------- |
+| :-- | :-- |
 | [Global Moderation Team](/wiki/People/Global_Moderation_Team) | Vigilando los foros y el chat en el juego |
 | [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group) | Encargados de la calificación de beatmaps |
 | [Developers](https://osu.ppy.sh/groups/11) | Haciendo que el juego sea impresionante al agregar nuevas funciones y corregir los errores |

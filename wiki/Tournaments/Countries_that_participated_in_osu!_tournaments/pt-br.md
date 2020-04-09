@@ -5,14 +5,14 @@ Este artigo lista os países que participaram dos vários torneios de osu!, Taik
 **Note que:** alguns torneios não são listados aqui porque permitiram mais de 2 países em um único time ou os respectivos times não representaram países.
 
 | Mark | Explantation |
-|:-----:|--------------------|
+| :-: | :-- |
 | ![][true] | Participou       |
 | ![][false] | Não participou |
 
 ## Classificação nacional de todos os modos
 
 | Posição | País                     | Ouro | Prata | Bronze |
-|:----:|-----------------------------|:----:|:------:|:------:|
+| :-: | :-- | :-: | :-: | :-: |
 | 1    | ![][flag_KR] Coréia do Sul    | 7    | 1      | 2      |
 | 2    | ![][flag_JP] Japão          | 6    | 4      | 2      |
 | 3    | ![][flag_TW] Taiwan         | 3    | 5      | 1      |
@@ -42,7 +42,7 @@ Este artigo lista os países que participaram dos vários torneios de osu!, Taik
 #### Classificação nacional
 
 | Posição | País                    | Ouro | Prata | Bronze |
-|:----:|----------------------------|:----:|:------:|:------:|
+| :-: | :-- | :-: | :-: | :-: |
 | 1    | ![][flag_KR] Coréia do Sul   | 3    |        | 2      |
 | 2    | ![][flag_US] Estados Unidos | 2    |        |        |
 | 3    | ![][flag_JP] Japão         | 1    | 2      |        |
@@ -56,7 +56,7 @@ Este artigo lista os países que participaram dos vários torneios de osu!, Taik
 #### Presença
 
 | País                         | #1              | #2              | #3              | 2013            | 2014             | 2015            | 2016            |
-|---------------------------------|-----------------|-----------------|-----------------|-----------------|------------------|-----------------|-----------------|
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | ![][flag_AR] Argentina          | ![][true]       | ![][true]       | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
 | ![][flag_AU] Australia          | ![][false]      | ![][true]       | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
 | ![][flag_AT] Austria            | ![][true]       | ![][true]       | ![][false]      | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
@@ -111,7 +111,7 @@ Este artigo lista os países que participaram dos vários torneios de osu!, Taik
 #### Classificação nacional
 
 | Posição | País                    | Ouro | Prata | Bronze |
-|:----:|----------------------------|:----:|:------:|:------:|
+| :-: | :-- | :-: | :-: | :-: |
 | 1    | ![][flag_JP] Japão         | 5    | 1      | 2      |
 | 2    | ![][flag_TW] Taiwan |      | 2    | 3      |        |
 | 3    | ![][flag_HK] Hong Kong     |      | 3      | 1      |
@@ -122,7 +122,7 @@ Este artigo lista os países que participaram dos vários torneios de osu!, Taik
 #### Presença
 
 | País                     | 2011          | 2012                 | \#3              | 2014          | 2015          | 2016          | 2017          |
-|-----------------------------|---------------|----------------------|------------------|---------------|---------------|---------------|---------------|
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | ![][flag_AR] Argentina      | ![][false]    | ![][false]           | ![][true]        | ![][true]     | ![][true]     | ![][true]     | ![][true]     |
 | ![][flag_AU] Australia      | ![][false]    | ![][false]           | ![][false]       | ![][false]    | ![][true]     | ![][true]     | ![][true]     |
 | ![][flag_AT] Austria        | ![][false]    | ![][true]            | ![][false]       | ![][false]    | ![][false]    | ![][false]    | ![][false]    |
@@ -164,7 +164,7 @@ Este artigo lista os países que participaram dos vários torneios de osu!, Taik
 #### Classificação nacional
 
 | Posição | País                  | Ouro | Prata | Bronze |
-|:----:|:------------------------:|:----:|:------:|:------:|
+| :-: | :-: | :-: | :-: | :-: |
 | 1    | ![][flag_KR] Coréia do Sul | 2    |        |        |
 | 2    | ![][flag_CN] China       | 1    | 1      |        |
 | 3    | ![][flag_CL] Chile       | 1    |        |        |
@@ -178,7 +178,7 @@ Este artigo lista os países que participaram dos vários torneios de osu!, Taik
 #### Presença
 
 | País                         | 2013             | 2014          | 2015          | 2016          |
-|---------------------------------|------------------|---------------|---------------|---------------|
+| :-- | :-- | :-- | :-- | :-- |
 | ![][flag_AR] Argentina          | ![][true] 3rd ½  | ![][true]     | ![][true]     | ![][true]     |
 | ![][flag_AU] Australia          | ![][false]       | ![][false]    | ![][true]     | ![][true]     |
 | ![][flag_AT] Austria            | ![][true]        | ![][true]     | ![][true]     | ![][false]    |
@@ -229,7 +229,7 @@ Este artigo lista os países que participaram dos vários torneios de osu!, Taik
 #### Classificação nacional
 
 | Posição | País                    | Ouro | Prata | Bronze |
-|:----:|----------------------------|:----:|:------:|:------:|
+| :-: | :-- | :-: | :-: | :-: |
 | 1    | ![][flag_KR] Coréia do Sul   | 3    | 1      |        |
 | 2    | ![][flag_US] Estados Unidos | 1    |        | 1      |
 | 3    | ![][flag_CN] China         | 1    |        |        |
@@ -243,7 +243,7 @@ Este artigo lista os países que participaram dos vários torneios de osu!, Taik
 #### Presença
 
 | País                         | 2014 4K       | 2014 7K       | 2015 4K       | 2016 7K       | 2016 4K       | 2017 7K    |
-|---------------------------------|---------------|---------------|---------------|---------------|---------------|------------|
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | ![][flag_AR] Argentina          | ![][true]     | ![][false]    | ![][true]     | ![][false]    | ![][true]     | ![][true]  |
 | ![][flag_AU] Australia          | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][true]  |
 | ![][flag_BE] Belgium            | ![][false]    | ![][false]    | ![][false]    | ![][false]    | ![][true]     | ![][false] |

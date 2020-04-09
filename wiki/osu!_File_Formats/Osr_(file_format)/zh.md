@@ -9,7 +9,7 @@ outdated: true
 ## 数据类型
 
 | 名称 | 字节数 | 描述 |
-| ---- | ----- | ----------- |
+| :-- | :-- | :-- |
 | Byte | 1 | 一个单独的8bit值。 |
 | Short | 2 | 一个 2-byte 大的 little endian 值。 |
 | Integer | 4 | A一个 4-byte 大的 little endian 值。 |
@@ -22,7 +22,7 @@ outdated: true
 由于长度可变，字节偏移不包含在此表中。 （原文：Byte offsets are not included in this table due to variable length values. ）
 
 | 数据类型 | 描述 |
-| --------- | ----------- |
+| :-- | :-- |
 | Byte | 该回放的游戏模式(0 = osu! Standard, 1 = Taiko, 2 = Catch the Beat, 3 = osu!mania) |
 | Integer | 创建该回放文件的游戏版本 (例. 20131216) |
 | String | 该地图的MD5 hash |
@@ -48,7 +48,7 @@ outdated: true
 解压缩之后，文本包括一些用逗号分隔的数据。每一块数据反映了一个动作，表现在4个数字在下面的表格里：`w | x | y | z.`
 
 | 部分 | 数据类型 | 描述                                                   |
-|------|----------|--------------------------------------------------------|
+| :-- | :-- | :-- |
 | w    | Long     | 距离上个动作的时间（毫秒）                             |
 | x    | Float    | 鼠标的X坐标（从0到512）                                |
 | y    | Float    | 鼠标的Y坐标（从0到384）                                |
@@ -59,7 +59,7 @@ outdated: true
 可见于 [osu! API](https://github.com/peppy/osu-api/wiki#mods).
 
 | Mod            | 值 (BitOffset) | 注释                               |
-|----------------|----------------|------------------------------------|
+| :-- | :-- | :-- |
 | None           | 0              |                                    |
 | NoFail         | 1 (0)          |                                    |
 | Easy           | 2 (1)          |                                    |

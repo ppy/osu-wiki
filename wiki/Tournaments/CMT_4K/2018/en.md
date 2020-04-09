@@ -369,10 +369,5 @@ Check **[statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)** for mo
 
 [CN]: /wiki/shared/flag/CN.gif "China"
 [US]: /wiki/shared/flag/US.gif "United States"
-[UK]: /wiki/shared/flag/GB.gif "United Kingdom"
-[TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [AU]: /wiki/shared/flag/AU.gif "Australia"
 [SG]: /wiki/shared/flag/SG.gif "Singapore"
-[HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[CA]: /wiki/shared/flag/CA.gif "Canada"

@@ -58,7 +58,7 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 ## Participants
 
 | | Country | Members |
-| ---: | :---: | :--- |
+| --: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[lxLucasxl](https://osu.ppy.sh/users/3632846)**, [BubShish](https://osu.ppy.sh/users/7110363), [Fisk-](https://osu.ppy.sh/users/5748843), [A b y s s](https://osu.ppy.sh/users/4585260), [VorticalEx](https://osu.ppy.sh/users/9513273), [Bossplays_02](https://osu.ppy.sh/users/7341471) |
 | ![][flag_AU] | **Australia** | **[Lusty Platypus](https://osu.ppy.sh/users/2956184)**, [Spartan-](https://osu.ppy.sh/users/2145124), [Rek](https://osu.ppy.sh/users/4018184), [PotassiumF](https://osu.ppy.sh/users/4247722), [AngeLItchysick](https://osu.ppy.sh/users/9527845), [\[Crz\]Yukikaze-](https://osu.ppy.sh/users/8832989) |
 | ![][flag_BR] | **Brazil** | **[Lothus](https://osu.ppy.sh/users/9530019)**, [SillyFangirl](https://osu.ppy.sh/users/2288363), [FelipeLink](https://osu.ppy.sh/users/4917435), [andreymc](https://osu.ppy.sh/users/5691061), [Shedin](https://osu.ppy.sh/users/4794096), [Lazarento](https://osu.ppy.sh/users/3224958) |
@@ -213,17 +213,17 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 ### Grand Finals
 
 | Saturday, 2018-10-06 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | United States ![][flag_US] | 7 | 5 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/46485848) |
 
 | Sunday, 2018-10-07 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | South Korea ![][flag_KR] | 7 | 2 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/46519536) |
 
 ### Finals
 
 | Sunday, 2018-09-30 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | United States ![][flag_US] | 5 | 7 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/46346213) |
 | Malaysia ![][flag_MY] | 0 | 7 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/46348238) |
 | China ![][flag_CN] | 7 | 1 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/46357233) |
@@ -232,7 +232,7 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 ### Semifinals
 
 | Saturday, 2018-09-22 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Canada ![][flag_CA] | 0 | 7 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/46141725) |
 | Japan ![][flag_JP] | 7 | 2 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/46148838) |
 | France ![][flag_FR] | 5 | 7 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/46151447) |
@@ -240,7 +240,7 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 | United States ![][flag_US] | 7 | 6 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/46171663) |
 
 | Sunday, 2018-09-23 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Indonesia ![][flag_ID] | 5 | 7 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/46178984) |
 | Malaysia ![][flag_MY] | 7 | 2 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/46181664) |
 | United Kingdom ![][flag_GB] | 1 | 7 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/46186189) |
@@ -249,13 +249,13 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 ### Quarterfinals
 
 | Saturday, 2018-09-15 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | South Korea ![][flag_KR] | 6 | 0 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/45972328) |
 | Sweden ![][flag_SE] | 0 | 6 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/45974312) |
 | Canada ![][flag_CA] | 6 | 5 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/45976813) |
 
 | Sunday, 2018-09-16 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Argentina ![][flag_AR] | 6 | 3 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/45996195) |
 | United States ![][flag_US] | 6 | 0 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/45997665) |
 | Singapore ![][flag_SG] | 0 | 6 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/46011254) |
@@ -266,14 +266,14 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 
 
 | Saturday, 2018-09-08 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | China ![][flag_CN] | 6 | 0 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/45793199) |
 | Malaysia ![][flag_MY] | 6 | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/45795336) |
 | Argentina ![][flag_AR] | 0 | 6 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/45798208) |
 | United States ![][flag_US] | 6 | 1 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/45815842) |
 
 | Sunday, 2018-09-09 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Japan ![][flag_JP] | 3 | 6 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/45817326) |
 | Chile ![][flag_CL] | 1 | 6 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/45819186) |
 | Australia ![][flag_AU] | 1 | 6 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/45829590) |
@@ -282,7 +282,7 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 ### Group Stage
 
 | Saturday, 2018-09-01 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Switzerland ![][flag_CH] | 1 | 5 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/45603340) |
 | Taiwan ![][flag_TW] | 0 | 5 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/45603346) |
 | Finland ![][flag_FI] | 0 | 5 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/45604490) |
@@ -307,7 +307,7 @@ The osu!mania 4K World Cup 2018 is run by various community members by distribut
 | Venezuela ![][flag_VE] | 1 | 5 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/45617244) |
 
 | Sunday, 2018-09-02 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Peru ![][flag_PE] | 0 | 5 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/45630013) |
 | Venezuela ![][flag_VE] | 0 | 5 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/45629995) |
 | Hong Kong ![][flag_HK] | 0 | 5 | ![][flag_BR] Brazil | -Win by Default- |

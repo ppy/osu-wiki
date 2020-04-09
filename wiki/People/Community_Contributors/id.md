@@ -15,7 +15,7 @@ Para pengguna dengan lencana yang sekarang berada di dalam tabel berikut:
 ### 8 Agustus 2013
 
 | User | Kontributor |
-| ---- | ------------- |
+| :-- | :-- |
 | [Darkimmortal](https://osu.ppy.sh/users/10886) | Mengembangkan dan menjaga pelayanan [osu!record](https://osu.ppy.sh/community/forums/topics/108092) (penayangan ulang .osr ke file video) |
 | [nanashiRei](https://osu.ppy.sh/users/807630) | Menyelenggarakan dan menjaga salah satu [mirror beatmap](http://osu.yas-online.net/) yang berjalan paling lama. |
 | [RBRat3](https://osu.ppy.sh/users/307202) | Berbagai kontribusi grafis terhadap klien game dan yang lainnya (diluar hitungan). |
@@ -35,7 +35,7 @@ Para pengguna dengan lencana yang sekarang berada di dalam tabel berikut:
 ### Maret 2015
 
 | User | Kontributor |
-| ---- | ------------- |
+| :-- | :-- |
 | [Repflez](https://osu.ppy.sh/users/201392) | Memberikan kontribusi yang sangat bagus untuk osu! wiki |
 | [RaikireHiuduo](https://osu.ppy.sh/users/1570014) | Memberikan kontribusi yang sangat bagus untuk osu! wiki |
 | [givenameplz](https://osu.ppy.sh/users/947499) | Pengembang osu!rank dan osu!post. |
@@ -43,7 +43,7 @@ Para pengguna dengan lencana yang sekarang berada di dalam tabel berikut:
 ### January 2016
 
 | User | Kontributor |
-| ---- | ------------- |
+| :-- | :-- |
 | [ztrot](https://osu.ppy.sh/users/6347) | Penemu osu!akademi |
 | [Tasha](https://osu.ppy.sh/users/1031958) | osu!mingguan + berita kontributor. |
 | [Flanster](https://osu.ppy.sh/users/447818) | Kehadiran moderasi luar biasa (10 ribu + membunuh). |
@@ -56,5 +56,5 @@ Para pengguna dengan lencana yang sekarang berada di dalam tabel berikut:
 ### Maret 2016
 
 | User | Kontributor |
-| ---- | ------------- |
+| :-- | :-- |
 | [Charles445](https://osu.ppy.sh/users/85000) | Bertahun-tahun menegakkan dan meningkatkan kualitas pemetaan, memberikan bantuan pada banyak kesempatan untuk membantu menyelesaikan berbagai masalah di dalam komunitas. |

@@ -9,7 +9,7 @@ Here, you can change reassign keyboard keys with the listed actions.
 ## osu! Standard Mode
 
 | Name        | Default |
-|-------------|---------|
+| :-- | :-- |
 | Left Click  | `Z`     |
 | Right Click | `X`     |
 | Smoke       | `C`     |
@@ -17,7 +17,7 @@ Here, you can change reassign keyboard keys with the listed actions.
 ## Taiko Mode
 
 | Name                | Default |
-|---------------------|---------|
+| :-- | :-- |
 | Drum Centre (Left)  | `X`     |
 | Drum Centre (Right) | `C`     |
 | Drum Rim (Left)     | `Z`     |
@@ -27,7 +27,7 @@ Here, you can change reassign keyboard keys with the listed actions.
 ## Catch the Beat Mode
 
 | Name                      | Default       |
-|---------------------------|---------------|
+| :-- | :-- |
 | Move Left                 | `Left Arrow`  |
 | Move Right                | `Right Arrow` |
 | Dash! (2x movement speed) | `Left Shift`  |
@@ -35,7 +35,7 @@ Here, you can change reassign keyboard keys with the listed actions.
 ## osu! Mania Mode
 
 | Name           | Default |
-|----------------|---------|
+| :-- | :-- |
 | Increase Speed | `F3`    |
 | Decrease Speed | `F4`    |
 
@@ -47,7 +47,7 @@ Here, you can change reassign keyboard keys with the listed actions.
 ## In-Game
 
 | Name                       | Default     |
-|----------------------------|-------------|
+| :-- | :-- |
 | Game Pause                 | `Esc`       |
 | Skip Cutscene              | `Space`     |
 | Toggle Scoreboard          | `Tab`       |
@@ -63,7 +63,7 @@ Here, you can change reassign keyboard keys with the listed actions.
 ## Universal
 
 | Name                   | Default      |
-|------------------------|--------------|
+| :-- | :-- |
 | Toggle Framerate Limit | `F7`         |
 | Toggle Chat            | `F8`         |
 | Toggle Extended Chat   | `F9`         |
@@ -82,7 +82,7 @@ Here, you can change reassign keyboard keys with the listed actions.
 ## Editor
 
 | Name                   | Default      |
-|------------------------|--------------|
+| :-- | :-- |
 | Select tool            | `1`          |
 | Normal tool            | `2`          |
 | Slider tool            | `3`          |
@@ -109,7 +109,7 @@ Here, you can change reassign keyboard keys with the listed actions.
 ## Mod Select
 
 | Name         | Default |
-|--------------|---------|
+| :-- | :-- |
 | Easy         | `Q`     |
 | No Fail      | `W`     |
 | Half Time    | `E`     |

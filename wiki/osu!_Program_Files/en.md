@@ -12,7 +12,7 @@ needs_cleanup: true
 ### Windows
 
 | Current default filepath | Old installer filepath |
-| ------------------------ | ---------------------- |
+| :-- | :-- |
 | `C:\Users\<Username>\AppData\Local\osu!` | `C:\Program Files\osu!` / `C:\Program Files(x86)\osu!` (for 7 64-bit or 8) |
 > `C:` is your harddisk with osu! installed.
 
