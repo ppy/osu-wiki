@@ -8,7 +8,7 @@ tags:
 
 ![RDOC 2019 logo](img/logo.png)
 
-The **Royal Danish osu!Cup 2019** (***RDOC 2019***) is an ongoing Danish 1v1 double-elimination osu! tournament hosted by ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), and ![][flag_DK] [MASQQ](https://osu.ppy.sh/users/5351497). It is the fifth installment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2019** (***RDOC 2019***) was a Danish 1v1 double-elimination osu! tournament hosted by ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), and ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048). It is the fifth installment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 
@@ -35,18 +35,18 @@ The **Royal Danish osu!Cup 2019** (***RDOC 2019***) is an ongoing Danish 1v1 dou
 
 ## Organisation
 
-The Royal Danish osu!Cup 2019 is run by various community members.
+The Royal Danish osu!Cup 2019 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [MASQQ](https://osu.ppy.sh/users/5351497) |
-| Map selector | ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_ES] [CapoeiraDoMorte](https://osu.ppy.sh/users/6141330), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548) |
-| Referee | ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [MASQQ](https://osu.ppy.sh/users/5351497), ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_DK] [I eat ass 47](https://osu.ppy.sh/users/5323224), ![][flag_US] [moss-](https://osu.ppy.sh/users/9918921), ![][flag_DK] [My Aim Zogs](https://osu.ppy.sh/users/3722715), ![][flag_DK] [Captain](https://osu.ppy.sh/users/2563435), ![][flag_DK] [Power Supply](https://osu.ppy.sh/users/7091513) |
-| Streamer | ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_DK] [My Aim Zogs](https://osu.ppy.sh/users/3722715), ![][flag_DK] [P3RS3X](https://osu.ppy.sh/users/9469362), ![][flag_DK] [Power Supply](https://osu.ppy.sh/users/7091513) |
-| Commentator | ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_IE] [ez sucks](https://osu.ppy.sh/users/13681283), ![][flag_DK] [RyuXO](https://osu.ppy.sh/users/9450032), ![][flag_DK] [Vandabe](https://osu.ppy.sh/users/7050754), ![][flag_DK] [P3RS3X](https://osu.ppy.sh/users/9469362), ![][flag_DK] [Tikzyy](https://osu.ppy.sh/users/11380904), ![][flag_DK] [Zakura](https://osu.ppy.sh/users/3053599), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
+| Manager | ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) |
+| Map selector | ![][flag_ES] [CapoeiraDoMorte](https://osu.ppy.sh/users/6141330), ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) |
+| Referee | ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_DK] [Captain](https://osu.ppy.sh/users/2563435), ![][flag_DK] [I eat ass 47](https://osu.ppy.sh/users/5323224), ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [MASQQ](https://osu.ppy.sh/users/5351497), ![][flag_US] [moss-](https://osu.ppy.sh/users/9918921), ![][flag_DK] [My Aim Zogs](https://osu.ppy.sh/users/3722715), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [Power Supply](https://osu.ppy.sh/users/7091513) |
+| Streamer | ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [My Aim Zogs](https://osu.ppy.sh/users/3722715), ![][flag_DK] [Power Supply](https://osu.ppy.sh/users/7091513), ![][flag_DK] [Tenaxzity](https://osu.ppy.sh/users/7395529) |
+| Commentator | ![][flag_DK] [ADanishWaffle](https://osu.ppy.sh/users/8117977), ![][flag_DK] [Arche-](https://osu.ppy.sh/users/2143311), ![][flag_MX] [Baskest](https://osu.ppy.sh/users/3963408), ![][flag_DK] [Chrv123](https://osu.ppy.sh/users/9125328), ![][flag_IE] [ez sucks](https://osu.ppy.sh/users/13681283), ![][flag_DK] [Haikuna](https://osu.ppy.sh/users/3786974), ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), ![][flag_DK] [Peperonni](https://osu.ppy.sh/users/7392020), ![][flag_DK] [PolleSving](https://osu.ppy.sh/users/13218204), ![][flag_DK] [Power Supply](https://osu.ppy.sh/users/7091513), ![][flag_DK] [Tenaxzity](https://osu.ppy.sh/users/7395529), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048), ![][flag_DK] [Vitalia](https://osu.ppy.sh/users/9450032), ![][flag_DK] [Zakura](https://osu.ppy.sh/users/3053599) |
 | Designer | ![][flag_FI] [Micro](https://osu.ppy.sh/users/4801080), ![][flag_BR] [Hana Fubuki](https://osu.ppy.sh/users/4761039) |
 | Wiki editor | ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) |
-| Donator | ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) |
+| Donator | ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048), ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) |
 
 ## Links
 
