@@ -69,7 +69,7 @@ The Royal Danish osu!Cup 2019 was run by various community members.
 | #7 | ![][flag_DK] [OwOMarco](https://osu.ppy.sh/users/10650901) | 7987699 |
 | #8 | ![][flag_DK] [Contaminate](https://osu.ppy.sh/users/4694589) | 7673671 |
 | #9 | ![][flag_DK] [Tmunken](https://osu.ppy.sh/users/5176984) | 7157621 |
-| #10 | ![][flag_DK] [pallerik](https://osu.ppy.sh/users/9303652) | 6918882 |
+| #10 | ![][flag_DK] [Pallerik](https://osu.ppy.sh/users/9303652) | 6918882 |
 | #11 | ![][flag_DK] [Lothjon](https://osu.ppy.sh/users/7369323) | 6865290 |
 | #12 | ![][flag_DK] [Tenaxzity](https://osu.ppy.sh/users/7395529) | 6724674 |
 | #13 | ![][flag_DK] [Malach](https://osu.ppy.sh/users/9364696) | 6506580 |
@@ -122,6 +122,145 @@ This competition has come to an end and resulted in the following podium:
 - DoubleTime
   - [Yasuda Rei - Mirror -TV edit- [Insane]](https://osu.ppy.sh/beatmapsets/211036#osu/496376)
   - [BoA - MASAYUME CHASING [Insane]](https://osu.ppy.sh/beatmapsets/176805#osu/425707)
+
+## Match results
+
+### Grand Finals
+
+Sunday, 2020-04-05:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| UB | **Spork Lover** ![][flag_DK] | **7** | 0 | ![][flag_DK] Vandabe |
+
+Saturday, 2020-04-04:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| LB | **Vandabe** ![][flag_DK] | **7** | FF | ![][flag_DK] Tikzyy |
+
+### Finals
+
+Sunday, 2020-03-29:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| LB | **Tikzyy** ![][flag_DK] | **7** | 0 | ![][flag_DK] Lothjon |
+| LB | **Tikzyy** ![][flag_DK] | **7** | 3 | ![][flag_DK] Contaminate |
+
+Saturday, 2020-03-28:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| UB | **Spork Lover** ![][flag_DK] | **7** | 1 | ![][flag_DK] Vandabe |
+| LB | Pablohh ![][flag_DK] | FF | **7** | ![][flag_DK] **Lothjon** |
+
+### Semifinals
+
+Sunday, 2020-03-22:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| LB | **Lothjon** ![][flag_DK] | **6** | 5 | ![][flag_DK] Zakura |
+| UB | Tikzyy ![][flag_DK] | 5 | **6** | ![][flag_DK] **Vandabe** |
+| LB | Tenaxzity ![][flag_DK] | 3 | **6** | ![][flag_DK] **Contaminate** |
+| LB | **Lothjon** ![][flag_DK] | **6** | 3 | ![][flag_DK] Arche- |
+
+Saturday, 2020-03-21:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| LB | **Tenaxzity** ![][flag_DK] | **6** | 4 | ![][flag_DK] teamplayer51 |
+| LB | **Contaminate** ![][flag_DK] | **6** | 0 | ![][flag_DK] Drayko |
+| LB | OwOMarco ![][flag_DK] | 2 | **6** | ![][flag_DK] **Zakura** |
+| UB | **Spork Lover** ![][flag_DK] | **6** | FF | ![][flag_DK] Pablohh |
+
+### Quarterfinals
+
+Sunday, 2020-03-15:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| LB | Sagon ![][flag_DK] | 3 | **5** | ![][flag_DK] **Drayko** |
+| UB | **Spork Lover** ![][flag_DK] | **5** | 0 | ![][flag_DK] Contaminate |
+| LB | **Zakura** ![][flag_DK] | **5** | 2 | ![][flag_DK] PolleSving |
+| LB | **teamplayer51** ![][flag_DK] | **5** | 2 | ![][flag_DK] Haikuna |
+| UB | **Vandabe** ![][flag_DK] | **5** | 0 | ![][flag_DK] Lothjon |
+| LB | Tmunken ![][flag_DK] | 0 | **5** | ![][flag_DK] **Zakura** |
+| UB | **Tikzyy** ![][flag_DK] | **5** | 0 | ![][flag_DK] OwOMarco |
+| LB | **Arche-** ![][flag_DK] | **5** | 0 | ![][flag_DK] Morrighan |
+| LB | **Arche-** ![][flag_DK] | **5** | 0 | ![][flag_DK] Micropose |
+
+Saturday, 2020-03-14:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| LB | Pallerik ![][flag_DK] | 2 | **5** | ![][flag_DK] **Sagon** |
+| LB | **Haikuna** ![][flag_DK] | **5** | 2 | ![][flag_DK] kim1998 |
+| LB | **Drayko** ![][flag_DK] | **5** | 4 | ![][flag_DK] FeelDaTonneh |
+| LB | Malach ![][flag_DK] | 0 | **5** | ![][flag_DK] **Morrighan** |
+| LB | [THEDUCK] ![][flag_DK] | 2 | **5** | ![][flag_DK] **PolleSving** |
+| UB | **Pablohh** ![][flag_DK] | **5** | 2 | ![][flag_DK] Tenaxzity |
+| LB | **teamplayer51** ![][flag_DK] | **5** | 3 | ![][flag_DK] Arild |
+
+### Round of 16
+
+Sunday, 2020-03-08:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| LB | Slayco ![][flag_DK] | 0 | **5** | ![][flag_DK] **Zakura** |
+| UB | **Contaminate** ![][flag_DK] | **5** | 1 | ![][flag_DK] Tmunken |
+| UB | **Spork Lover** ![][flag_DK] | **5** | 0 | ![][flag_DK] [THEDUCK] |
+| UB | **OwOMarco** ![][flag_DK] | **5** | 0 | ![][flag_DK] Pallerik |
+| UB | **Tikzyy** ![][flag_DK] | **5** | 0 | ![][flag_DK] Drayko |
+| UB | **Vandabe** ![][flag_DK] | **5** | 0 | ![][flag_DK] Haikuna |
+| UB | **Pablohh** ![][flag_DK] | **5** | 0 | ![][flag_DK] Malach |
+| UB | teamplayer51 ![][flag_DK] | 0 | **5** | ![][flag_DK] **Lothjon** |
+| LB | Tr0nixCS ![][flag_DK] | 0 | **5** | ![][flag_DK] **PolleSving** |
+
+Saturday, 2020-03-07:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| UB | Arche- ![][flag_DK] | 3 | **5** | ![][flag_DK] **Tenaxzity** |
+| LB | LiquidMinds ![][flag_DK] | 0 | **5** | ![][flag_DK] **Micropose** |
+| LB | **Morrighan** ![][flag_DK] | **5** | 1 | ![][flag_DK] Decrescendo |
+| LB | Dralle ![][flag_DK] | 0 | **5** | ![][flag_DK] **FeelDaTonneh** |
+| LB | NoSync ![][flag_DK] | 0 | **5** | ![][flag_DK] **Sagon** |
+| LB | Cittasnaf ![][flag_DK] | 4 | **5** | ![][flag_DK] **kim1998** |
+
+### Round of 32
+
+Sunday, 2020-03-01:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| UB | **Contaminate** ![][flag_DK] | **4** | 0 | ![][flag_DK] Cittasnaf |
+| UB | **teamplayer51** ![][flag_DK] | **4** | 0 | ![][flag_DK] Tr0nixCS |
+| UB | Arild ![][flag_DK] | 1 | **4** | ![][flag_DK] **[THEDUCK]** |
+| UB | **Vandabe** ![][flag_DK] | **4** | 0 | ![][flag_DK] Slayco |
+| UB | **Pallerik** ![][flag_DK] | **4** | 0 | ![][flag_DK] Decrescendo |
+| UB | **OwOMarco** ![][flag_DK] | **4** | 0 | ![][flag_DK] Morrighan |
+| UB | **Lothjon** ![][flag_DK] | **4** | 0 | ![][flag_DK] PolleSving |
+
+Saturday, 2020-02-29:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| UB | **Tenaxzity** ![][flag_DK] | **4** | 1 | ![][flag_DK] FeelDaTonneh |
+| UB | **Arche-** ![][flag_DK] | **4** | 0 | ![][flag_DK] Dralle |
+| UB | **Pablohh** ![][flag_DK] | **4** | 0 | ![][flag_DK] NoSync |
+| UB | **Tmunken** ![][flag_DK] | **4** | 1 | ![][flag_DK] kim1998 |
+| UB | **Drayko** ![][flag_DK] | **4** | 2 | ![][flag_DK] Micropose |
+| UB | **Tikzyy** ![][flag_DK] | **4** | 0 | ![][flag_DK] LiquidMinds |
+
+Friday, 2020-02-28:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| UB | **Malach** ![][flag_DK] | **4** | 1 | ![][flag_DK] Sagon |
+| UB | Zakura ![][flag_DK] | 3 | **4** | ![][flag_DK] **Haikuna** |
 
 ## Ruleset
 
