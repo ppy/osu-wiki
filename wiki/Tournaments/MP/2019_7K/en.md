@@ -81,13 +81,13 @@ The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2
 
 ### Friday, 6 December 2019
 
-| Player 1 |  |  | Player 2 | Match time | Local time |  |
+| Player 1 | | | Player 2 | Match time | Local time | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | -Maus- | ![][flag_PL] | ![][flag_PL] | Kamikaze | **20:00 UTC** | 21:00 UTC+1 | ¹ |
 
 ### Saturday, 7 December 2019
 
-| Player 1 |  |  | Player 2 | Match time | Local time |  |
+| Player 1 | | | Player 2 | Match time | Local time | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | -Karen-chan- | ![][flag_PL] | ![][flag_PL] | Alicejoy | **14:00 UTC** | 15:00 UTC+1 | ² |
 | EWGF | ![][flag_PL] | ![][flag_PL] | TheFalek | **15:30 UTC** | 16:30 UTC+1 | ² |
@@ -96,7 +96,7 @@ The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2
 
 ### Sunday, 8 December 2019
 
-| Player 1 |  |  | Player 2 | Match time | Local time |  |
+| Player 1 | | | Player 2 | Match time | Local time | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | PanzerRaymanPL | ![][flag_PL] | ![][flag_PL] | Yamakazi | **11:00 UTC** | 12:00 UTC+1 | ² |
 | EWGF | ![][flag_PL] | ![][flag_PL] | -Karen-chan- | **11:45 UTC** | 12:45 UTC+1 | ³ |

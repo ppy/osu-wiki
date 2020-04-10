@@ -56,7 +56,7 @@ The osu! World Cup 2019 was run by various community members.
 
 ## Participants
 
-|  | Country | Members |
+| | Country | Members |
 | :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[SlowBurn](https://osu.ppy.sh/users/3608846)**, [AxelOsu](https://osu.ppy.sh/users/1887616), [Cata](https://osu.ppy.sh/users/5958063), [juliancala](https://osu.ppy.sh/users/3272902), [Penguo](https://osu.ppy.sh/users/4389490), [Rimi](https://osu.ppy.sh/users/5194834), [Zaqlev](https://osu.ppy.sh/users/3188703), [Ceja](https://osu.ppy.sh/users/4185921) |
 | ![][flag_AU] | **Australia** | **[GranDSenpai](https://osu.ppy.sh/users/3997580)**, [ASecretBox](https://osu.ppy.sh/users/7341183), [Jordan The Bear](https://osu.ppy.sh/users/7477458), [Lunirs](https://osu.ppy.sh/users/2118945), [Monk Gyatso](https://osu.ppy.sh/users/4012086), [Rairiku](https://osu.ppy.sh/users/4945688), [Shiroha](https://osu.ppy.sh/users/3068044), [uyghti](https://osu.ppy.sh/users/3641404) |

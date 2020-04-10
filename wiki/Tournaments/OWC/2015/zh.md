@@ -6,36 +6,36 @@
 
 ## 比赛日程
 
-| Event  | Timestamp                  |
+| Event | Timestamp |
 | :-- | :-- |
-| 报名     | 01-18日 十月 2015年            |
-| 抽签     | 1日 十一月 2015年 14.00 (UTC+0) |
-| 小组赛    | 7-8日 十一月 2015年             |
-| 十六强    | 14-15日 十一月 2015年           |
-| 四分之一决赛 | 21-22日 十一月 2015年           |
-| 半决赛    | 28-29日 十一月 2015年           |
-| 决赛第一周  | 5-6日 十二月 2015年             |
-| 决赛第二周  | 12-13日 十二月 2015年           |
+| 报名 | 01-18日 十月 2015年 |
+| 抽签 | 1日 十一月 2015年 14.00 (UTC+0) |
+| 小组赛 | 7-8日 十一月 2015年 |
+| 十六强 | 14-15日 十一月 2015年 |
+| 四分之一决赛 | 21-22日 十一月 2015年 |
+| 半决赛 | 28-29日 十一月 2015年 |
+| 决赛第一周 | 5-6日 十二月 2015年 |
+| 决赛第二周 | 12-13日 十二月 2015年 |
 
 ## 奖项
 
 我们有最少$5000现金的奖池给这次世界杯。 你可以通过 **[购买Banner](https://osu.ppy.sh/store/products/38)** 来支持它。
 
-| Placing                                                    | Prizes                                      |
+| Placing | Prizes |
 | :-- | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 50% 奖池, profile badge, "osu! Champion" 用户标题 |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 38% 奖池, profile badge                       |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 12% 奖池l, profile badge                      |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 50% 奖池, profile badge, "osu! Champion" 用户标题 |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 38% 奖池, profile badge |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 12% 奖池l, profile badge |
 
 ## 比赛组织
 
-| Job          | Persons                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Job | Persons |
 | :-- | :-- |
-| 竞赛管理         | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257)                                                                                                                                                                                                                                                                                           |
-| 地图选择         | ![][flag_FR] [Cherry Blossom](https://osu.ppy.sh/users/1156742) // ![][flag_HK] [Skystar](https://osu.ppy.sh/users/873961) // ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236)                                                                                                                                                                                                                                                                                                                                           |
-| 直播           | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665)                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| 解说           | ![][flag_US] [Chippy](https://osu.ppy.sh/users/2314115) // ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) // ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) // ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) // ![][flag_GB] [Raiku](https://osu.ppy.sh/users/1525538) // ![][flag_US] [rfandomization](https://osu.ppy.sh/users/3716999) // ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
-| Statistician | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| 竞赛管理 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
+| 地图选择 | ![][flag_FR] [Cherry Blossom](https://osu.ppy.sh/users/1156742) // ![][flag_HK] [Skystar](https://osu.ppy.sh/users/873961) // ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
+| 直播 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
+| 解说 | ![][flag_US] [Chippy](https://osu.ppy.sh/users/2314115) // ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) // ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) // ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) // ![][flag_GB] [Raiku](https://osu.ppy.sh/users/1525538) // ![][flag_US] [rfandomization](https://osu.ppy.sh/users/3716999) // ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
+| Statistician | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
 ------------------------------------------------------------------------
 
@@ -59,16 +59,16 @@
 
 ## 参加者
 
-| Top Seed                                          | High Seed                                     | Low Seed                                 | No Seed                                    |
+| Top Seed | High Seed | Low Seed | No Seed |
 | :-- | :-- | :-- | :-- |
-| ![][flag_CN] China              | ![][flag_AU] Australia      | ![][flag_AR] Argentina | ![][flag_GR] Greece      |
-| ![][flag_FR] France             | ![][flag_AT] Austria        | ![][flag_JP] Japan     | ![][flag_IT] Italy       |
-| ![][flag_DE] Germany            | ![][flag_BR] Brazil         | ![][flag_LV] Latvia    | ![][flag_MX] Mexico      |
-| ![][flag_PL] Poland             | ![][flag_CA] Canada         | ![][flag_LT] Lithuania | ![][flag_NZ] New Zealand |
-| ![][flag_RU] Russian Federation | ![][flag_FI] Finland        | ![][flag_MY] Malaysia  | ![][flag_PH] Philippines |
-| ![][flag_KR] South Korea        | ![][flag_HK] Hong Kong      | ![][flag_NO] Norway    | ![][flag_PT] Portugal    |
-| ![][flag_TW] Taiwan             | ![][flag_NL] Netherlands    | ![][flag_SE] Sweden    | ![][flag_SG] Singapore   |
-| ![][flag_US] United States      | ![][flag_GB] United Kingdom | ![][flag_TH] Thailand  | ![][flag_UA] Ukraine     |
+| ![][flag_CN] China | ![][flag_AU] Australia | ![][flag_AR] Argentina | ![][flag_GR] Greece |
+| ![][flag_FR] France | ![][flag_AT] Austria | ![][flag_JP] Japan | ![][flag_IT] Italy |
+| ![][flag_DE] Germany | ![][flag_BR] Brazil | ![][flag_LV] Latvia | ![][flag_MX] Mexico |
+| ![][flag_PL] Poland | ![][flag_CA] Canada | ![][flag_LT] Lithuania | ![][flag_NZ] New Zealand |
+| ![][flag_RU] Russian Federation | ![][flag_FI] Finland | ![][flag_MY] Malaysia | ![][flag_PH] Philippines |
+| ![][flag_KR] South Korea | ![][flag_HK] Hong Kong | ![][flag_NO] Norway | ![][flag_PT] Portugal |
+| ![][flag_TW] Taiwan | ![][flag_NL] Netherlands | ![][flag_SE] Sweden | ![][flag_SG] Singapore |
+| ![][flag_US] United States | ![][flag_GB] United Kingdom | ![][flag_TH] Thailand | ![][flag_UA] Ukraine |
 
 ### Group A
 
@@ -152,40 +152,40 @@
 
 **[在这里下载图包](https://www.mediafire.com/download/22q8exrnwiyxfn1/OWC_2015_Finals.rar)**
 
-| NoMod                                                                                             |
+| NoMod |
 | :-- |
-| [Reol - Asymmetry (Skystar) \[Asphewin's Expert\]](https://osu.ppy.sh/beatmaps/698249)                         |
-| [Rohi - Kakuzetsu Thanatos (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmaps/215238)                           |
-| [Megpoid GUMI - Rubik's Cube (wcx19911123) \[Cube\]](https://osu.ppy.sh/beatmaps/132466)                       |
+| [Reol - Asymmetry (Skystar) \[Asphewin's Expert\]](https://osu.ppy.sh/beatmaps/698249) |
+| [Rohi - Kakuzetsu Thanatos (NatsumeRin) \[Rin\]](https://osu.ppy.sh/beatmaps/215238) |
+| [Megpoid GUMI - Rubik's Cube (wcx19911123) \[Cube\]](https://osu.ppy.sh/beatmaps/132466) |
 | [Hitori Tori - perthed again (yambabom remix) (Asphyxia) \[Zapy's Extra\]](https://osu.ppy.sh/beatmaps/611753) |
-| [FOLiACETATE - Heterochromia Iridis (ktgster) \[Terror\]](https://osu.ppy.sh/beatmaps/279481)                  |
-| [xi - FREEDOM DiVE (Nakagawa-Kanon) \[Another\]](https://osu.ppy.sh/beatmaps/126645)                           |
+| [FOLiACETATE - Heterochromia Iridis (ktgster) \[Terror\]](https://osu.ppy.sh/beatmaps/279481) |
+| [xi - FREEDOM DiVE (Nakagawa-Kanon) \[Another\]](https://osu.ppy.sh/beatmaps/126645) |
 
-| Hidden                                                                                          |
+| Hidden |
 | :-- |
 | [Pierce The Veil - King For A Day (feat Kellin Quinn) (pishifat) \[Ex\]](https://osu.ppy.sh/beatmaps/684163) |
-| [Foreground Eclipse - To The Terminus (Giralda) \[Skystar's Extra\]](https://osu.ppy.sh/beatmaps/628755)     |
-| [DJ Sharpnel - IVALTEK (happy30) \[HappyMiX\]](https://osu.ppy.sh/beatmaps/154988)                           |
+| [Foreground Eclipse - To The Terminus (Giralda) \[Skystar's Extra\]](https://osu.ppy.sh/beatmaps/628755) |
+| [DJ Sharpnel - IVALTEK (happy30) \[HappyMiX\]](https://osu.ppy.sh/beatmaps/154988) |
 
-| HardRock                                                                              |
+| HardRock |
 | :-- |
-| [yanaginagi - Muteki no Soldier (BinJip) \[Invincible\]](https://osu.ppy.sh/beatmaps/182001)       |
-| [Qrispy Joybox - licca (Minakami Yuki) \[Skystar's Expert\]](https://osu.ppy.sh/beatmaps/690608)   |
+| [yanaginagi - Muteki no Soldier (BinJip) \[Invincible\]](https://osu.ppy.sh/beatmaps/182001) |
+| [Qrispy Joybox - licca (Minakami Yuki) \[Skystar's Expert\]](https://osu.ppy.sh/beatmaps/690608) |
 | [Glamour of the Kill - A Hope in Hell (ykcarrot) \[Hopeless\]](https://osu.ppy.sh/beatmaps/104389) |
 
-| DoubleTime                                                                                    |
+| DoubleTime |
 | :-- |
-| [kaztora, eba, Misaki Nakajima - Messiah (Shinxyn) \[Insane\]](https://osu.ppy.sh/beatmaps/75689)          |
-| [Tristam - Once Again (grumd) \[Collab\]](https://osu.ppy.sh/beatmaps/502418)                              |
+| [kaztora, eba, Misaki Nakajima - Messiah (Shinxyn) \[Insane\]](https://osu.ppy.sh/beatmaps/75689) |
+| [Tristam - Once Again (grumd) \[Collab\]](https://osu.ppy.sh/beatmaps/502418) |
 | [Matsumoto Sara - Ito Hakanaki Hikari no Gotoku (Mixagji) \[Lunatic\]](https://osu.ppy.sh/beatmaps/308350) |
 
-| FreeMod                                                                                          |
+| FreeMod |
 | :-- |
-| [Morimori Atsushi - PUPA (Cherry Blossom) \[Butterfly\]](https://osu.ppy.sh/beatmaps/523376)                  |
-| [LEAF XCEED Music Division - YuYu Metal (DoKoLP) \[DoKo\]](https://osu.ppy.sh/beatmaps/142145)                |
+| [Morimori Atsushi - PUPA (Cherry Blossom) \[Butterfly\]](https://osu.ppy.sh/beatmaps/523376) |
+| [LEAF XCEED Music Division - YuYu Metal (DoKoLP) \[DoKo\]](https://osu.ppy.sh/beatmaps/142145) |
 | [Suzumu - Kakumeisei ousama densenbyou (tutuhaha) \[AngelHoney's Extra\]](https://osu.ppy.sh/beatmaps/701528) |
 
-| Tiebreaker                                                                             |
+| Tiebreaker |
 | :-- |
 | [gmtn. (witch's slave) - furioso melodia (Alumetorz) \[Wrath\]](https://osu.ppy.sh/beatmaps/633993) |
 
@@ -193,40 +193,40 @@
 
 **[在这里下载图包](https://www.mediafire.com/download/rm2w6we4i90dhc5/OWC_2015_Semifinals.rar)**
 
-| NoMod                                                                        |
+| NoMod |
 | :-- |
-| [Reol - Streaming Heart (sukiNathan) \[Extra\]](https://osu.ppy.sh/beatmaps/760466)       |
-| [Hatsuki Yura - Yoiyami Hanabi (Lan wings) \[Lan\]](https://osu.ppy.sh/beatmaps/297463)   |
+| [Reol - Streaming Heart (sukiNathan) \[Extra\]](https://osu.ppy.sh/beatmaps/760466) |
+| [Hatsuki Yura - Yoiyami Hanabi (Lan wings) \[Lan\]](https://osu.ppy.sh/beatmaps/297463) |
 | [Nanahoshi Kangengakudan - Meikaruza (pkk) \[Extra\]](https://osu.ppy.sh/beatmaps/701033) |
 | [Function Phantom - Algebra (Bonzi) \[Incomputable\]](https://osu.ppy.sh/beatmaps/673275) |
-| [Igorrr - Tout Petit Moineau (fergas) \[Extra\]](https://osu.ppy.sh/beatmaps/517308)      |
-| [t+pazolite - cheatreal (caren\_sk) \[Extra\]](https://osu.ppy.sh/beatmaps/240488)        |
+| [Igorrr - Tout Petit Moineau (fergas) \[Extra\]](https://osu.ppy.sh/beatmaps/517308) |
+| [t+pazolite - cheatreal (caren\_sk) \[Extra\]](https://osu.ppy.sh/beatmaps/240488) |
 
-| Hidden                                                                                                |
+| Hidden |
 | :-- |
-| [BoA - Kiseki (Hinsvar) \[Miracle\]](https://osu.ppy.sh/beatmaps/370612)                                           |
+| [BoA - Kiseki (Hinsvar) \[Miracle\]](https://osu.ppy.sh/beatmaps/370612) |
 | [Demetori - Furuki Yuanxian ~ Death Echo (jonathanlfj) \[Extra Stage Collab\]](https://osu.ppy.sh/beatmaps/656385) |
-| [sasakure.UK - Jack-the-Ripper (Sprosive) \[JackHasCome!\]](https://osu.ppy.sh/beatmaps/81560)                     |
+| [sasakure.UK - Jack-the-Ripper (Sprosive) \[JackHasCome!\]](https://osu.ppy.sh/beatmaps/81560) |
 
-| HardRock                                                         |
+| HardRock |
 | :-- |
-| [Memme - Starving Days (Gamu) \[Extra\]](https://osu.ppy.sh/beatmaps/625507)  |
+| [Memme - Starving Days (Gamu) \[Extra\]](https://osu.ppy.sh/beatmaps/625507) |
 | [EGOIST - Fallen (jonathanlfj) \[Extra\]](https://osu.ppy.sh/beatmaps/538930) |
-| [cranky - R176 (taka1235) \[Another\]](https://osu.ppy.sh/beatmaps/103102)    |
+| [cranky - R176 (taka1235) \[Another\]](https://osu.ppy.sh/beatmaps/103102) |
 
-| DoubleTime                                                               |
+| DoubleTime |
 | :-- |
-| [Meg & Dia - Black Wedding (Larto) \[Crazy!\]](https://osu.ppy.sh/beatmaps/101115)    |
+| [Meg & Dia - Black Wedding (Larto) \[Crazy!\]](https://osu.ppy.sh/beatmaps/101115) |
 | [yanaginagi - landscape (\[Vincent\]) \[Insane\]](https://osu.ppy.sh/beatmaps/563370) |
-| [Tsunamaru - paranoia (Chewin) \[RLC\]](https://osu.ppy.sh/beatmaps/226563)           |
+| [Tsunamaru - paranoia (Chewin) \[RLC\]](https://osu.ppy.sh/beatmaps/226563) |
 
-| FreeMod                                                                             |
+| FreeMod |
 | :-- |
-| [Renard - Banned Forever (Blue Dragon) \[Lesjuh\]](https://osu.ppy.sh/beatmaps/64266)            |
+| [Renard - Banned Forever (Blue Dragon) \[Lesjuh\]](https://osu.ppy.sh/beatmaps/64266) |
 | [Cutline - Die For You (Shock One Remix) (Regou) \[Insane\]](https://osu.ppy.sh/beatmaps/404550) |
-| [HoneyWorks - Akatsuki Zukuyo (Fast) \[Twilight\]](https://osu.ppy.sh/beatmaps/736729)           |
+| [HoneyWorks - Akatsuki Zukuyo (Fast) \[Twilight\]](https://osu.ppy.sh/beatmaps/736729) |
 
-| Tiebreaker                                                                   |
+| Tiebreaker |
 | :-- |
 | [Ohka - Nanairo Anniversary (Rizia) \[Kaleidoscope\]](https://osu.ppy.sh/beatmaps/541044) |
 
@@ -328,25 +328,25 @@
 
 **星期日 13日 十二月 2015年**
 
-| 队 A                                              | Score           | 队 B                                              | History                        |
+| 队 A | Score | 队 B | History |
 | :-- | :-: | --: | :-- |
-| ![][flag_CN] China             | 2       - **7** | **United States** ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/20910697) |
-| ![][flag_US] **United States** | **7**   - 6     | China ![][flag_CN]             | [#1](https://osu.ppy.sh/community/matches/20912739) |
+| ![][flag_CN] China | 2       - **7** | **United States** ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/20910697) |
+| ![][flag_US] **United States** | **7**   - 6 | China ![][flag_CN] | [#1](https://osu.ppy.sh/community/matches/20912739) |
 
 ### 决赛第一周
 
 **星期六 5日 十二月 2015年**
 
-| 队 A                                          | Score          | 队 B                                            | History                        |
+| 队 A | Score | 队 B | History |
 | :-- | :-: | --: | :-- |
-| ![][flag_US] United States | 3      - **6** | **China** ![][flag_CN]       | [#1](https://osu.ppy.sh/community/matches/20711754) |
-| ![][flag_HK] Hong Kong     | 0      - **6** | **South Korea** ![][flag_KR] | [#1](https://osu.ppy.sh/community/matches/20713615) |
-| ![][flag_DE] Germany       | 2      - **6** | **Poland** ![][flag_PL]      | [#1](https://osu.ppy.sh/community/matches/20717055) |
-| ![][flag_PL] **Poland**    | **6**  - 3     | South Korea ![][flag_KR]     | [#1](https://osu.ppy.sh/community/matches/20719563) |
+| ![][flag_US] United States | 3      - **6** | **China** ![][flag_CN] | [#1](https://osu.ppy.sh/community/matches/20711754) |
+| ![][flag_HK] Hong Kong | 0      - **6** | **South Korea** ![][flag_KR] | [#1](https://osu.ppy.sh/community/matches/20713615) |
+| ![][flag_DE] Germany | 2      - **6** | **Poland** ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/20717055) |
+| ![][flag_PL] **Poland** | **6**  - 3 | South Korea ![][flag_KR] | [#1](https://osu.ppy.sh/community/matches/20719563) |
 
 **周日 6日 十二月 2015年**
 
-| 队 A                                              | Score      | 队 B                                   | History                        |
+| 队 A | Score | 队 B | History |
 | :-- | :-: | --: | :-- |
 | ![][flag_US] **United States** | **6**  - 3 | Poland ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/20762171) |
 
@@ -354,19 +354,19 @@
 
 **星期六 28日 十一月 2015年**
 
-| 队 A                                              | Score         | 队 B                                          | History                        |
+| 队 A | Score | 队 B | History |
 | :-- | :-: | --: | :-- |
-| ![][flag_US] **United States** | **6** - 2     | South Korea ![][flag_KR]   | [#1](https://osu.ppy.sh/community/matches/20553676) |
-| ![][flag_TH] Thailand          | 2     - **6** | **Hong Kong** ![][flag_HK] | [#1](https://osu.ppy.sh/community/matches/20555273) |
-| ![][flag_CN] **China**         | **6** - 2     | Poland ![][flag_PL]        | [#1](https://osu.ppy.sh/community/matches/20556916) |
-| ![][flag_DE] **Germany**       | **6** - 2     | France ![][flag_FR]        | [#1](https://osu.ppy.sh/community/matches/20558712) |
-| ![][flag_NO] **Norway**        | **6** - 2     | Brazil ![][flag_BR]        | [#1](https://osu.ppy.sh/community/matches/20561290) |
-| ![][flag_DE] **Germany**       | **6** - 3     | Norway ![][flag_NO]        | [#1](https://osu.ppy.sh/community/matches/20570952) |
-| ![][flag_CA] Canada            | 5     - **6** | **Austria** ![][flag_AT]   | [#1](https://osu.ppy.sh/community/matches/20574246) |
+| ![][flag_US] **United States** | **6** - 2 | South Korea ![][flag_KR] | [#1](https://osu.ppy.sh/community/matches/20553676) |
+| ![][flag_TH] Thailand | 2     - **6** | **Hong Kong** ![][flag_HK] | [#1](https://osu.ppy.sh/community/matches/20555273) |
+| ![][flag_CN] **China** | **6** - 2 | Poland ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/20556916) |
+| ![][flag_DE] **Germany** | **6** - 2 | France ![][flag_FR] | [#1](https://osu.ppy.sh/community/matches/20558712) |
+| ![][flag_NO] **Norway** | **6** - 2 | Brazil ![][flag_BR] | [#1](https://osu.ppy.sh/community/matches/20561290) |
+| ![][flag_DE] **Germany** | **6** - 3 | Norway ![][flag_NO] | [#1](https://osu.ppy.sh/community/matches/20570952) |
+| ![][flag_CA] Canada | 5     - **6** | **Austria** ![][flag_AT] | [#1](https://osu.ppy.sh/community/matches/20574246) |
 
 **Sunday, 29. November 2015**
 
-| 队 A                                    | Score          | 队 B                                          | History                        |
+| 队 A | Score | 队 B | History |
 | :-- | :-: | --: | :-- |
 | ![][flag_AT] Austria | 4      - **6** | **Hong Kong** ![][flag_HK] | [#1](https://osu.ppy.sh/community/matches/20591359) |
 
@@ -374,96 +374,96 @@
 
 **星期六 21日 十一月 2015年**
 
-| 队 A                                              | Score     | 队 B                                   | History                        |
+| 队 A | Score | 队 B | History |
 | :-- | :-: | --: | :-- |
 | ![][flag_US] **United States** | **5** - 2 | Brazil ![][flag_BR] | [#1](https://osu.ppy.sh/community/matches/20411352) |
 
 **星期日 22日 十一月 2015年**
 
-| 队 A                                            | Score          | 队 B                                         | History                        |
+| 队 A | Score | 队 B | History |
 | :-- | :-: | --: | :-- |
-| ![][flag_TW] Taiwan          | 4      - **5** | **Canada** ![][flag_CA]   | [#1](https://osu.ppy.sh/community/matches/20423117) |
-| ![][flag_HK] Hong Kong       | 2      - **5** | **China** ![][flag_CN]    | [#1](https://osu.ppy.sh/community/matches/20424826) |
-| ![][flag_KR] **South Korea** | **5**  - 3     | France ![][flag_FR]       | [#1](https://osu.ppy.sh/community/matches/20426594) |
-| ![][flag_NO] **Norway**      | **5**  - 2     | Malaysia ![][flag_MY]     | [#1](https://osu.ppy.sh/community/matches/20427714) |
-| ![][flag_GB] United Kingdom  | 3      - **5** | **Thailand** ![][flag_TH] | [#1](https://osu.ppy.sh/community/matches/20429267) |
-| ![][flag_DE] **Germany**     | **5**  - 1     | Finland ![][flag_FI]      | [#1](https://osu.ppy.sh/community/matches/20430864) |
-| ![][flag_PL] **Poland**      | **5**  - 0     | Austria ![][flag_AT]      | [#1](https://osu.ppy.sh/community/matches/20432995) |
+| ![][flag_TW] Taiwan | 4      - **5** | **Canada** ![][flag_CA] | [#1](https://osu.ppy.sh/community/matches/20423117) |
+| ![][flag_HK] Hong Kong | 2      - **5** | **China** ![][flag_CN] | [#1](https://osu.ppy.sh/community/matches/20424826) |
+| ![][flag_KR] **South Korea** | **5**  - 3 | France ![][flag_FR] | [#1](https://osu.ppy.sh/community/matches/20426594) |
+| ![][flag_NO] **Norway** | **5**  - 2 | Malaysia ![][flag_MY] | [#1](https://osu.ppy.sh/community/matches/20427714) |
+| ![][flag_GB] United Kingdom | 3      - **5** | **Thailand** ![][flag_TH] | [#1](https://osu.ppy.sh/community/matches/20429267) |
+| ![][flag_DE] **Germany** | **5**  - 1 | Finland ![][flag_FI] | [#1](https://osu.ppy.sh/community/matches/20430864) |
+| ![][flag_PL] **Poland** | **5**  - 0 | Austria ![][flag_AT] | [#1](https://osu.ppy.sh/community/matches/20432995) |
 
 ### 十六强
 
 **星期日 15日 十一月2015 年**
 
-| 队 A                                              | Score          | 队 B                                            | History                        |
+| 队 A | Score | 队 B | History |
 | :-- | :-: | --: | :-- |
-| ![][flag_US] **United States** | **5**  - 4     | Taiwan ![][flag_TW]          | [#1](https://osu.ppy.sh/community/matches/20269690) |
-| ![][flag_FI] Finland           | 0      - **5** | **China** ![][flag_CN]       | [#1](https://osu.ppy.sh/community/matches/20273790) |
-| ![][flag_AT] **Austria**       | **5**  - 0     | Malaysia ![][flag_MY]        | [#1](https://osu.ppy.sh/community/matches/20275097) |
-| ![][flag_HK] **Hong Kong**     | **5**  - 3     | Germany ![][flag_DE]         | [#1](https://osu.ppy.sh/community/matches/20276700) |
-| ![][flag_GB] United Kingdom    | 2      - **5** | **South Korea** ![][flag_KR] | [#1](https://osu.ppy.sh/community/matches/20278584) |
-| ![][flag_TH] Thailand          | 2      - **5** | **France** ![][flag_FR]      | [#1](https://osu.ppy.sh/community/matches/20280529) |
-| ![][flag_NO] Norway            | 0      - **5** | **Poland** ![][flag_PL]      | [#1](https://osu.ppy.sh/community/matches/20285332) |
-| ![][flag_CA] Canada            | 1      - **5** | **Brazil** ![][flag_BR]      | [#1](https://osu.ppy.sh/community/matches/20287601) |
+| ![][flag_US] **United States** | **5**  - 4 | Taiwan ![][flag_TW] | [#1](https://osu.ppy.sh/community/matches/20269690) |
+| ![][flag_FI] Finland | 0      - **5** | **China** ![][flag_CN] | [#1](https://osu.ppy.sh/community/matches/20273790) |
+| ![][flag_AT] **Austria** | **5**  - 0 | Malaysia ![][flag_MY] | [#1](https://osu.ppy.sh/community/matches/20275097) |
+| ![][flag_HK] **Hong Kong** | **5**  - 3 | Germany ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/20276700) |
+| ![][flag_GB] United Kingdom | 2      - **5** | **South Korea** ![][flag_KR] | [#1](https://osu.ppy.sh/community/matches/20278584) |
+| ![][flag_TH] Thailand | 2      - **5** | **France** ![][flag_FR] | [#1](https://osu.ppy.sh/community/matches/20280529) |
+| ![][flag_NO] Norway | 0      - **5** | **Poland** ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/20285332) |
+| ![][flag_CA] Canada | 1      - **5** | **Brazil** ![][flag_BR] | [#1](https://osu.ppy.sh/community/matches/20287601) |
 
 ### 小组赛
 
 **星期六 8日 十一月 2015年**
 
-| 队 A                                           | Score         | 队 B                                                   | History                        |
+| 队 A | Score | 队 B | History |
 | :-- | :-: | --: | :-- |
-| ![][flag_AT] **Austria**    | **4** - 1     | Taiwan ![][flag_TW]                 | [#1](https://osu.ppy.sh/community/matches/20091839) |
-| ![][flag_NZ] New Zealand    | 3     - **4** | **Finland** ![][flag_FI]            | [#1](https://osu.ppy.sh/community/matches/20091841) |
-| ![][flag_MY] **Malaysia**   | **4** - 1     | Australia ![][flag_AU]              | [#1](https://osu.ppy.sh/community/matches/20091844) |
-| ![][flag_PH] Philippines    | 1     - **4** | **Japan** ![][flag_JP]              | [#1](https://osu.ppy.sh/community/matches/20091847) |
-| ![][flag_SG] Singapore      | 0     - **4** | **Germany** ![][flag_DE]            | [#1](https://osu.ppy.sh/community/matches/20092909) |
-| ![][flag_TH] Thailand       | 1     - **4** | **Netherlands** ![][flag_NL]        | [#1](https://osu.ppy.sh/community/matches/20092910) |
-| ![][flag_GB] United Kingdom | 1     - **4** | **China** ![][flag_CN]              | [#1](https://osu.ppy.sh/community/matches/20092912) |
-| ![][flag_LT] Lithuania      | 1     - **4** | **France** ![][flag_FR]             | [#1](https://osu.ppy.sh/community/matches/20094037) |
-| ![][flag_IT] Italy          | 1     - **4** | **Hong Kong** ![][flag_HK]          | [#1](https://osu.ppy.sh/community/matches/20094040) |
-| ![][flag_PT] Portugal       | 3     - **4** | **Taiwan** ![][flag_TW]             | [#1](https://osu.ppy.sh/community/matches/20094042) |
-| ![][flag_SG] Singapore      | 3     - **4** | **Thailand** ![][flag_TH]           | [#1](https://osu.ppy.sh/community/matches/20095460) |
-| ![][flag_PH] Philippines    | 0     - **4** | **United Kingdom** ![][flag_GB]     | [#1](https://osu.ppy.sh/community/matches/20095461) |
-| ![][flag_AR] Argentina      | 0     - **4** | **South Korea** ![][flag_KR]        | [#1](https://osu.ppy.sh/community/matches/20095462) |
-| ![][flag_GR] Greece         | 0     - **4** | **Russian Federation** ![][flag_RU] | [#1](https://osu.ppy.sh/community/matches/20105876) |
-| ![][flag_CA] Canada         | 0     - **4** | **Poland** ![][flag_PL]             | [#1](https://osu.ppy.sh/community/matches/20105877) |
-| ![][flag_PT] Portugal       | 1     - **4** | **Austria** ![][flag_AT]            | [#1](https://osu.ppy.sh/community/matches/20105878) |
-| ![][flag_UA] **Ukraine**    | **4** - 1     | Latvia ![][flag_LV]                 | [#1](https://osu.ppy.sh/community/matches/20107684) |
-| ![][flag_AR] Argentina      | 3     - **4** | **Finland** ![][flag_FI]            | [#1](https://osu.ppy.sh/community/matches/20107685) |
-| ![][flag_NO] Norway         | 2     - **4** | **Brazil** ![][flag_BR]             | [#1](https://osu.ppy.sh/community/matches/20109708) |
-| ![][flag_SE] Sweden         | 2     - **4** | **Austria** ![][flag_AT]            | [#1](https://osu.ppy.sh/community/matches/20109709) |
+| ![][flag_AT] **Austria** | **4** - 1 | Taiwan ![][flag_TW] | [#1](https://osu.ppy.sh/community/matches/20091839) |
+| ![][flag_NZ] New Zealand | 3     - **4** | **Finland** ![][flag_FI] | [#1](https://osu.ppy.sh/community/matches/20091841) |
+| ![][flag_MY] **Malaysia** | **4** - 1 | Australia ![][flag_AU] | [#1](https://osu.ppy.sh/community/matches/20091844) |
+| ![][flag_PH] Philippines | 1     - **4** | **Japan** ![][flag_JP] | [#1](https://osu.ppy.sh/community/matches/20091847) |
+| ![][flag_SG] Singapore | 0     - **4** | **Germany** ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/20092909) |
+| ![][flag_TH] Thailand | 1     - **4** | **Netherlands** ![][flag_NL] | [#1](https://osu.ppy.sh/community/matches/20092910) |
+| ![][flag_GB] United Kingdom | 1     - **4** | **China** ![][flag_CN] | [#1](https://osu.ppy.sh/community/matches/20092912) |
+| ![][flag_LT] Lithuania | 1     - **4** | **France** ![][flag_FR] | [#1](https://osu.ppy.sh/community/matches/20094037) |
+| ![][flag_IT] Italy | 1     - **4** | **Hong Kong** ![][flag_HK] | [#1](https://osu.ppy.sh/community/matches/20094040) |
+| ![][flag_PT] Portugal | 3     - **4** | **Taiwan** ![][flag_TW] | [#1](https://osu.ppy.sh/community/matches/20094042) |
+| ![][flag_SG] Singapore | 3     - **4** | **Thailand** ![][flag_TH] | [#1](https://osu.ppy.sh/community/matches/20095460) |
+| ![][flag_PH] Philippines | 0     - **4** | **United Kingdom** ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/20095461) |
+| ![][flag_AR] Argentina | 0     - **4** | **South Korea** ![][flag_KR] | [#1](https://osu.ppy.sh/community/matches/20095462) |
+| ![][flag_GR] Greece | 0     - **4** | **Russian Federation** ![][flag_RU] | [#1](https://osu.ppy.sh/community/matches/20105876) |
+| ![][flag_CA] Canada | 0     - **4** | **Poland** ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/20105877) |
+| ![][flag_PT] Portugal | 1     - **4** | **Austria** ![][flag_AT] | [#1](https://osu.ppy.sh/community/matches/20105878) |
+| ![][flag_UA] **Ukraine** | **4** - 1 | Latvia ![][flag_LV] | [#1](https://osu.ppy.sh/community/matches/20107684) |
+| ![][flag_AR] Argentina | 3     - **4** | **Finland** ![][flag_FI] | [#1](https://osu.ppy.sh/community/matches/20107685) |
+| ![][flag_NO] Norway | 2     - **4** | **Brazil** ![][flag_BR] | [#1](https://osu.ppy.sh/community/matches/20109708) |
+| ![][flag_SE] Sweden | 2     - **4** | **Austria** ![][flag_AT] | [#1](https://osu.ppy.sh/community/matches/20109709) |
 
 **星期日 9日 十一月 2015年**
 
-| 队 A                                            | Score          | 队 B                                               | History                        |
+| 队 A | Score | 队 B | History |
 | :-- | :-: | --: | :-- |
-| ![][flag_NZ] **New Zealand** | **4**  - 0     | Argentina ![][flag_AR]          | [#1](https://osu.ppy.sh/community/matches/20115243) |
-| ![][flag_MX] Mexico          | 1      - **4** | **Australia** ![][flag_AU]      | [#1](https://osu.ppy.sh/community/matches/20114985) |
-| ![][flag_MY] Malaysia        | 1      - **4** | **United States** ![][flag_US]  | [#1](https://osu.ppy.sh/community/matches/20116482) |
-| ![][flag_JP] Japan           | 1      - **4** | **China** ![][flag_CN]          | [#1](https://osu.ppy.sh/community/matches/20116483) |
-| ![][flag_NZ] New Zealand     | 1      - **4** | **South Korea** ![][flag_KR]    | [#1](https://osu.ppy.sh/community/matches/20117565) |
-| ![][flag_MX] Mexico          | 0      - **4** | **Malaysia** ![][flag_MY]       | [#1](https://osu.ppy.sh/community/matches/20117566) |
-| ![][flag_AU] Australia       | 1      - **4** | **United States** ![][flag_US]  | [#1](https://osu.ppy.sh/community/matches/20117569) |
-| ![][flag_SE] Sweden          | 1      - **4** | **Taiwan** ![][flag_TW]         | [#1](https://osu.ppy.sh/community/matches/20125092) |
-| ![][flag_PH] Philippines     | 1      - **4** | **China** ![][flag_CN]          | [#1](https://osu.ppy.sh/community/matches/20125093) |
-| ![][flag_HK] Hong Kong       | 2      - **4** | **France** ![][flag_FR]         | [#1](https://osu.ppy.sh/community/matches/20126344) |
-| ![][flag_FI] Finland         | 1      - **4** | **South Korea** ![][flag_KR]    | [#1](https://osu.ppy.sh/community/matches/20126352) |
-| ![][flag_TH] **Thailand**    | **4**  - 0     | Germany ![][flag_DE]            | [#1](https://osu.ppy.sh/community/matches/20126358) |
-| ![][flag_JP] Japan           | 0      - **4** | **United Kingdom** ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/20127886) |
-| ![][flag_UA] Ukraine         | 0      - **4** | **Poland** ![][flag_PL]         | [#1](https://osu.ppy.sh/community/matches/20127887) |
-| ![][flag_SG] Singapore       | 2      - **4** | **Netherlands** ![][flag_NL]    | [#1](https://osu.ppy.sh/community/matches/20127888) |
-| ![][flag_LT] Lithuania       | 2      - **4** | **Hong Kong** ![][flag_HK]      | [#1](https://osu.ppy.sh/community/matches/20129481) |
-| ![][flag_PT] **Portugal**    | **4**  - 3     | Sweden ![][flag_SE]             | [#1](https://osu.ppy.sh/community/matches/20129484) |
-| ![][flag_IT] Italy           | 2      - **4** | **France** ![][flag_FR]         | [#1](https://osu.ppy.sh/community/matches/20133656) |
-| ![][flag_GR] Greece          | 0      - **4** | **Brazil** ![][flag_BR]         | [#1](https://osu.ppy.sh/community/matches/20133657) |
-| ![][flag_NO] **Norway**      | **4**  - 2     | Russian Federation ![][flag_RU] | [#1](https://osu.ppy.sh/community/matches/20133658) |
-| ![][flag_NL] Netherlands     | 0      - **4** | **Germany** ![][flag_DE]        | [#1](https://osu.ppy.sh/community/matches/20135079) |
-| ![][flag_LV] Latvia          | 1      - **4** | **Canada** ![][flag_CA]         | [#1](https://osu.ppy.sh/community/matches/20135084) |
-| ![][flag_IT] Italy           | 3      - **4** | **Lithuania** ![][flag_LT]      | [#1](https://osu.ppy.sh/community/matches/20136741) |
-| ![][flag_BR] **Brazil**      | **4**  - 3     | Russian Federation ![][flag_RU] | [#1](https://osu.ppy.sh/community/matches/20136742) |
-| ![][flag_GR] Greece          | 0      - **4** | **Norway** ![][flag_NO]         | [#1](https://osu.ppy.sh/community/matches/20136743) |
-| ![][flag_MX] Mexico          | 0      - **4** | **United States** ![][flag_US]  | [#1](https://osu.ppy.sh/community/matches/20138453) |
-| ![][flag_UA] Ukraine         | 1      - **4** | **Canada** ![][flag_CA]         | [#1](https://osu.ppy.sh/community/matches/20138457) |
-| ![][flag_LV] Latvia          | 0      - **4** | **Poland** ![][flag_PL]         | [#1](https://osu.ppy.sh/community/matches/20138460) |
+| ![][flag_NZ] **New Zealand** | **4**  - 0 | Argentina ![][flag_AR] | [#1](https://osu.ppy.sh/community/matches/20115243) |
+| ![][flag_MX] Mexico | 1      - **4** | **Australia** ![][flag_AU] | [#1](https://osu.ppy.sh/community/matches/20114985) |
+| ![][flag_MY] Malaysia | 1      - **4** | **United States** ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/20116482) |
+| ![][flag_JP] Japan | 1      - **4** | **China** ![][flag_CN] | [#1](https://osu.ppy.sh/community/matches/20116483) |
+| ![][flag_NZ] New Zealand | 1      - **4** | **South Korea** ![][flag_KR] | [#1](https://osu.ppy.sh/community/matches/20117565) |
+| ![][flag_MX] Mexico | 0      - **4** | **Malaysia** ![][flag_MY] | [#1](https://osu.ppy.sh/community/matches/20117566) |
+| ![][flag_AU] Australia | 1      - **4** | **United States** ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/20117569) |
+| ![][flag_SE] Sweden | 1      - **4** | **Taiwan** ![][flag_TW] | [#1](https://osu.ppy.sh/community/matches/20125092) |
+| ![][flag_PH] Philippines | 1      - **4** | **China** ![][flag_CN] | [#1](https://osu.ppy.sh/community/matches/20125093) |
+| ![][flag_HK] Hong Kong | 2      - **4** | **France** ![][flag_FR] | [#1](https://osu.ppy.sh/community/matches/20126344) |
+| ![][flag_FI] Finland | 1      - **4** | **South Korea** ![][flag_KR] | [#1](https://osu.ppy.sh/community/matches/20126352) |
+| ![][flag_TH] **Thailand** | **4**  - 0 | Germany ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/20126358) |
+| ![][flag_JP] Japan | 0      - **4** | **United Kingdom** ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/20127886) |
+| ![][flag_UA] Ukraine | 0      - **4** | **Poland** ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/20127887) |
+| ![][flag_SG] Singapore | 2      - **4** | **Netherlands** ![][flag_NL] | [#1](https://osu.ppy.sh/community/matches/20127888) |
+| ![][flag_LT] Lithuania | 2      - **4** | **Hong Kong** ![][flag_HK] | [#1](https://osu.ppy.sh/community/matches/20129481) |
+| ![][flag_PT] **Portugal** | **4**  - 3 | Sweden ![][flag_SE] | [#1](https://osu.ppy.sh/community/matches/20129484) |
+| ![][flag_IT] Italy | 2      - **4** | **France** ![][flag_FR] | [#1](https://osu.ppy.sh/community/matches/20133656) |
+| ![][flag_GR] Greece | 0      - **4** | **Brazil** ![][flag_BR] | [#1](https://osu.ppy.sh/community/matches/20133657) |
+| ![][flag_NO] **Norway** | **4**  - 2 | Russian Federation ![][flag_RU] | [#1](https://osu.ppy.sh/community/matches/20133658) |
+| ![][flag_NL] Netherlands | 0      - **4** | **Germany** ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/20135079) |
+| ![][flag_LV] Latvia | 1      - **4** | **Canada** ![][flag_CA] | [#1](https://osu.ppy.sh/community/matches/20135084) |
+| ![][flag_IT] Italy | 3      - **4** | **Lithuania** ![][flag_LT] | [#1](https://osu.ppy.sh/community/matches/20136741) |
+| ![][flag_BR] **Brazil** | **4**  - 3 | Russian Federation ![][flag_RU] | [#1](https://osu.ppy.sh/community/matches/20136742) |
+| ![][flag_GR] Greece | 0      - **4** | **Norway** ![][flag_NO] | [#1](https://osu.ppy.sh/community/matches/20136743) |
+| ![][flag_MX] Mexico | 0      - **4** | **United States** ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/20138453) |
+| ![][flag_UA] Ukraine | 1      - **4** | **Canada** ![][flag_CA] | [#1](https://osu.ppy.sh/community/matches/20138457) |
+| ![][flag_LV] Latvia | 0      - **4** | **Poland** ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/20138460) |
 
 ------------------------------------------------------------------------
 
@@ -539,13 +539,13 @@
 5.  Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 6.  Based on [this graphic](https://puu.sh/bUq5V/f1066103b0.png), the stages are splitted up the following:
 
-| Stage           | Match ID                |
+| Stage | Match ID |
 | :-- | :-- |
-| Round of 16     | A, B, C, D, E, F, G, H  |
-| Quarter-finals  | I, J, K, L & R, S, T, U |
-| Semi-finals     | M, N & V, W, X, Y, Z,AA |
-| Finals - Week 1 | O & AB, AC, AD, AE      |
-| Finals - Week 2 | P, Q                    |
+| Round of 16 | A, B, C, D, E, F, G, H |
+| Quarter-finals | I, J, K, L & R, S, T, U |
+| Semi-finals | M, N & V, W, X, Y, Z,AA |
+| Finals - Week 1 | O & AB, AC, AD, AE |
+| Finals - Week 2 | P, Q |
 
 1.  **Winning Conditions:**
     -   In Group Stage, you need to win 4 maps to win a match. (Best-of-7)

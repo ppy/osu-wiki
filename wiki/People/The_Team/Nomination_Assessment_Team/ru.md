@@ -18,14 +18,14 @@ outdated: true
 
 | Имя | Дополнительные языки |
 | :-- | :-- |
-| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  |
+| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Кантонский, китайский |
-| ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  |
+| ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) | |
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | Немецкий |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Немецкий |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Шведский |
-| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  |
-| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  |
+| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) | |
+| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | |
 | ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Португальский |
 | ![][flag_BE] [Stack](https://osu.ppy.sh/users/6122935) | Нидерландский |
 
@@ -41,7 +41,7 @@ outdated: true
 
 | Имя | Дополнительные языки |
 | :-- | :-- |
-| ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) |  |
+| ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) | |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)| Испанский, немецкий |
 
 ### osu!mania

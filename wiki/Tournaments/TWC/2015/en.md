@@ -54,7 +54,7 @@ The osu! Taiko World Cup 2015 was run by various community members by distributi
 
 ## Participants
 
-|  | Country | Members |
+| | Country | Members |
 | :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[Pollotuc](https://osu.ppy.sh/users/42440)**, [Nearex](https://osu.ppy.sh/users/1893238), [cyntuu mirandaa](https://osu.ppy.sh/users/724230) |
 | ![][flag_AU] | **Australia** | **[Slaybelle](https://osu.ppy.sh/users/3084044)**, [dajayeway](https://osu.ppy.sh/users/4841352), [Fideliant](https://osu.ppy.sh/users/2200052), [Pew](https://osu.ppy.sh/users/597692) |
@@ -268,33 +268,33 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-| Sunday, 2015-04-12 |  |  |  |  |
+| Sunday, 2015-04-12 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **Japan** ![][flag_JP] | **6** | 3 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/15407376) |
 
 ### Finals
 
-| Saturday, 2015-04-04 |  |  |  |  |
+| Saturday, 2015-04-04 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **Taiwan** ![][flag_TW] | **6** | 4 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/15204870) |
 | ![][flag_KR] South Korea | 0 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/15206617) |
 | ![][flag_JP] **Japan** | **6** | 2 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/15210189) |
 | ![][flag_FR] France | 1 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/15239715) |
 
-| Sunday, 2015-04-05 |  |  |  |  |
+| Sunday, 2015-04-05 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **Taiwan** ![][flag_TW] | **6** | 0 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/15233261) |
 
 ### Semifinals
 
-| Saturday, 2015-03-28 |  |  |  |  |
+| Saturday, 2015-03-28 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Poland ![][flag_PL] | 1 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/15037749) |
 | Argentina ![][flag_AR] | 2 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/15040695) |
 | **Canada** ![][flag_CA] | **6** | 4 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/15044042) |
 | Finland ![][flag_FI] | 1 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/15047132) |
 
-| Sunday, 2015-03-29 |  |  |  |  |
+| Sunday, 2015-03-29 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Canada ![][flag_CA] | 2 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/15060059) |
 | China ![][flag_CN] | 4 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/15062240) |
@@ -303,14 +303,14 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-| Saturday, 2015-03-21 |  |  |  |  |
+| Saturday, 2015-03-21 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | ![][flag_FI] **Finland** | **5** | 0 | Ukraine ![][flag_UA] | -win by default- |
 | ![][flag_PH] Philippines | 0 | **5** | **Poland** ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/14871909) |
 | ![][flag_ES] Spain | 1 | **5** | **Argentina** ![][flag_AR] | [#1](https://osu.ppy.sh/community/matches/14876376) |
 | ![][flag_ID] Indonesia | 0 | **5** | **Canada** ![][flag_CA] | [#1](https://osu.ppy.sh/community/matches/14878188) |
 
-| Sunday, 2015-03-22 |  |  |  |  |
+| Sunday, 2015-03-22 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Hong Kong ![][flag_HK] | 2 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/14901856) |
 | **South Korea** ![][flag_KR] | **5** | 1 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/14903787) |
@@ -319,7 +319,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-| Saturday, 2015-03-14 |  |  |  |  |
+| Saturday, 2015-03-14 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Finland ![][flag_FI] | 1 | **5** | **Hong Kong** ![][flag_HK] | [#1](https://osu.ppy.sh/community/matches/14707422) |
 | Ukraine ![][flag_UA] | 0 | **5** | **Japan** ![][flag_JP] | [#1](https://osu.ppy.sh/community/matches/14708468) |
@@ -327,7 +327,7 @@ This competition has come to an end and resulted in the following podium:
 | **Germany** ![][flag_DE] | **5** | 1 | Argentina ![][flag_AR] | [#1](https://osu.ppy.sh/community/matches/14711069) |
 | **France** ![][flag_FR] | **5** | 0 | Poland ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/14712960) |
 
-| Sunday, 2015-03-15 |  |  |  |  |
+| Sunday, 2015-03-15 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Canada ![][flag_CA] | 3 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/14731480) |
 | ![][flag_US] **United States** | **5** | 0 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/14732731) |
@@ -335,15 +335,15 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-| Saturday, 2015-03-07 |  |  |  |  |
+| Saturday, 2015-03-07 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Australia ![][flag_AU] | 2 | **4** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/14545441) |
-| Singapore ![][flag_SG] | 0 | **4** |  ![][flag_PH] **Philippines** | -win by default- |
+| Singapore ![][flag_SG] | 0 | **4** | ![][flag_PH] **Philippines** | -win by default- |
 | Indonesia ![][flag_ID] | 1 | **4** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/14545446) |
 | Singapore ![][flag_SG] | 0 | **4** | ![][flag_FI] **Finland** | -win by default- |
 | Ukraine ![][flag_UA] | 2 | **4** | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/14546205) |
 | South Korea ![][flag_KR] | 1 | **4** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/14546208) |
-| Australia ![][flag_AU] | 0 | **4** |  ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/14546210) |
+| Australia ![][flag_AU] | 0 | **4** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/14546210) |
 | Germany ![][flag_DE] | 1 | **4** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/14547310) |
 | Finland ![][flag_FI] | 0 | **4** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/14547314) |
 | Italy ![][flag_IT] | 0 | **4** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/14547317) |
@@ -369,7 +369,7 @@ This competition has come to an end and resulted in the following podium:
 | Canada ![][flag_CA] | 0 | **4** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/14565653) |
 | Hungary ![][flag_HU] | 0 | **4** | ![][flag_US] **United States** | -win by default- |
 
-| Sunday, 2015-03-08 |  |  |  |  |
+| Sunday, 2015-03-08 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Indonesia ![][flag_ID] | 0 | **4** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/14569915) |
 | Argentina ![][flag_AR] | 0 | **4** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/14569921) |

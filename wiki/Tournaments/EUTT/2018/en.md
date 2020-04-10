@@ -252,36 +252,36 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-| Friday, 2018-02-07 |  |  |  |  |
+| Friday, 2018-02-07 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **Ikkun** ![][flag_IT] | **6** | 3 | ![][flag_ES] AlvaroYL | [#1](https://osu.ppy.sh/community/matches/47942813) |
 
-| Sunday, 2018-02-09 |  |  |  |  |
+| Sunday, 2018-02-09 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **goheegy** ![][flag_GB] | **6** | 0 | ![][flag_IT] Ikkun | [#1](https://osu.ppy.sh/community/matches/47995456) |
 
 ### Finals
 
-| Saturday, 2018-12-01 |  |  |  |  |
+| Saturday, 2018-12-01 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **goheegy** ![][flag_GB] | **6** | 2 | ![][flag_IT] Ikkun | [#1](https://osu.ppy.sh/community/matches/47806853) |
 | **AlvaroYL** ![][flag_ES] | **6** | 1 | ![][flag_FR] Yona la loutre | [#1](https://osu.ppy.sh/community/matches/47804859) |
 | **BabySnakes** ![][flag_PT] | **6** | 1 | ![][flag_TR] frukoyurdakul | [#1](https://osu.ppy.sh/community/matches/47812555) |
 
-| Sunday, 2018-12-02 |  |  |  |  |
+| Sunday, 2018-12-02 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **AlvaroYL** ![][flag_ES] | **6** | 2 | ![][flag_PT] BabySnakes | [#1](https://osu.ppy.sh/community/matches/47838607) |
 
 ### Semifinals
 
-| Saturday, 2018-11-24 |  |  |  |  |
+| Saturday, 2018-11-24 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **Yona la loutre** ![][flag_FR] | **5** | 4 | ![][flag_PL] Acrith | [#1](https://osu.ppy.sh/community/matches/47643110) |
 | D3kuu ![][flag_IT] | 0 | **5** | ![][flag_RU] **DayzeekFeed** | -win by default- |
 | **BabySnakes** ![][flag_PT] | **5** | 0 | ![][flag_DE] Zetera | [#1](https://osu.ppy.sh/community/matches/47647975) |
 | **Horiiizon** ![][flag_GB] | **5** | 0 | ![][flag_GB] Lno | -win by default- |
 
-| Sunday, 2018-11-25 |  |  |  |  |
+| Sunday, 2018-11-25 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **Yona la loutre** ![][flag_FR] | **5** | 3 | ![][flag_RU] DayzeekFeed | [#1](https://osu.ppy.sh/community/matches/47673741) |
 | frukoyurdakul ![][flag_TR] | 4 | **5** | ![][flag_GB] **goheegy** | [#1](https://osu.ppy.sh/community/matches/47676655) |
@@ -290,7 +290,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-| Saturday, 2018-11-17 |  |  |  |  |
+| Saturday, 2018-11-17 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Yona la loutre ![][flag_FR] | 0 | **5** | ![][flag_GB] **goheegy** | -win by default- |
 | Horiiizon ![][flag_GB] | 1 | **5** | ![][flag_IT] **Ikkun** | [#1](https://osu.ppy.sh/community/matches/47489874) |
@@ -302,7 +302,7 @@ This competition has come to an end and resulted in the following podium:
 | **Lno** ![][flag_GB] | **5** | 1 | ![][flag_GB] Grimbow | [#1](https://osu.ppy.sh/community/matches/47493556) |
 | **-Leafeon** ![][flag_DE] | **5** | 3 | ![][flag_RU] night\_flower | [#1](https://osu.ppy.sh/community/matches/47493638) |
 
-| Sunday, 2018-11-18 |  |  |  |  |
+| Sunday, 2018-11-18 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | D3kuu ![][flag_IT] | 2 | **5** | ![][flag_TR] **frukoyurdakul** | [#1](https://osu.ppy.sh/community/matches/47520607) |
 | BabySnakes ![][flag_PT] | 4 | **5** | ![][flag_ES] **AlvaroYL** | [#1](https://osu.ppy.sh/community/matches/47521716) |
@@ -315,7 +315,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-| Saturday, 2018-11-10 |  |  |  |  |
+| Saturday, 2018-11-10 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **D3kuu** ![][flag_IT] | **4** | 0 | ![][flag_DE] -Leafeon | [#1](https://osu.ppy.sh/community/matches/47332883) |
 | **frukoyurdakul** ![][flag_TR] | **4** | 0 | ![][flag_GB] Lno | -win by default- |
@@ -333,13 +333,13 @@ This competition has come to an end and resulted in the following podium:
 | alexinet232 ![][flag_ES] | 0 | **4** | ![][flag_GB] Grimbow | [#1](https://osu.ppy.sh/community/matches/47331393) |
 | ControlPro ![][flag_GB] | 1 | **4** | ![][flag_RU] night\_flower | [#1](https://osu.ppy.sh/community/matches/47332907) |
 
-| Sunday, 2018-11-11 |  |  |  |  |
+| Sunday, 2018-11-11 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **AlvaroYL** ![][flag_ES] | **4** | 0 | ![][flag_DE] lukili846 | [#1](https://osu.ppy.sh/community/matches/47356264) |
 
 ### Round of 32
 
-| Saturday, 2018-11-03 |  |  |  |  |
+| Saturday, 2018-11-03 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **D3kuu** ![][flag_IT] | **4** | 0 | ![][flag_PL] Agresywny Arbuz | [#1](https://osu.ppy.sh/community/matches/47173837) |
 | animexamera ![][flag_AT] | 0 | **4** | ![][flag_DE] **-Leafeon** | [#1](https://osu.ppy.sh/community/matches/47183611) |
@@ -350,7 +350,7 @@ This competition has come to an end and resulted in the following podium:
 | **goheegy** ![][flag_GB] | **4** | 0 | ![][flag_GB] Ali161102 | [#1](https://osu.ppy.sh/community/matches/47173854) |
 | **Don Omar** ![][flag_UA] | **4** | 2 | ![][flag_FR] Chernobog | [#1](https://osu.ppy.sh/community/matches/47175042) |
 
-| Sunday, 2018-11-04 |  |  |  |  |
+| Sunday, 2018-11-04 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **Horiiizon** ![][flag_GB] | **4** | 0 | ![][flag_PL] \_SC0RP10N | [#1](https://osu.ppy.sh/community/matches/47204200) |
 | jleste ![][flag_DE] | 1 | **4** | ![][flag_RU] **DayzeekFeed** | [#1](https://osu.ppy.sh/community/matches/47205657) |

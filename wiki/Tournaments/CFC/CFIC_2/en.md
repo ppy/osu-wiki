@@ -236,7 +236,7 @@ This competition has come to an end and resulted in the following podium:
 
 Saturday, 21 March 2020:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Fuka Pura** ![][flag_FR] | **7** | 2 | ![][flag_FR] Kaleesy Pura | [#1](https://osu.ppy.sh/community/matches/59441101) |
 
@@ -244,13 +244,13 @@ Saturday, 21 March 2020:
 
 Saturday, 14 March 2020:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Fuka Pura** ![][flag_FR] | **7** | 1 | ![][flag_FR] dracoV | [#1](https://osu.ppy.sh/community/matches/59186168) |
 
 Sunday, 15 March 2020:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Dask ![][flag_FR] | 3 | **7** | ![][flag_FR] **Kaleesy Pura** | [#1](https://osu.ppy.sh/community/matches/59219870) |
 | dracoV ![][flag_FR] | 2 | **7** | ![][flag_FR] **Kaleesy Pura** | [#1](https://osu.ppy.sh/community/matches/59223133) |
@@ -259,13 +259,13 @@ Sunday, 15 March 2020:
 
 Saturday, 7 March 2020:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Fuka Pura** ![][flag_FR] | **0** | -1 | ![][flag_FR] Electr0o | *win by default* |
 
 Sunday, 8 March 2020:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Dask ![][flag_FR] | 3 | **6** | ![][flag_FR] **dracoV** | [#1](https://osu.ppy.sh/community/matches/59027737) |
 | Electr0o ![][flag_FR] | -1 | **0** | ![][flag_FR] **Kaleesy Pura** | *win by default* |
@@ -275,14 +275,14 @@ Sunday, 8 March 2020:
 
 Saturday, 29 February 2020:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Fuka Pura** ![][flag_FR] | **5** | 2 | ![][flag_FR] Pizu | [#1](https://osu.ppy.sh/community/matches/58813792) |
 | **Dask** ![][flag_FR] | **5** | 3 | ![][flag_FR] NinjaCoktail | [#1](https://osu.ppy.sh/community/matches/58816562) |
 
 Sunday, 1 March 2020:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Electr0o** ![][flag_FR] | **5** | 2 | ![][flag_FR] Khalemm | [#1](https://osu.ppy.sh/community/matches/58847129) |
 | **dracoV** ![][flag_FR] | **5** | 4 | ![][flag_FR] Kaleesy Pura | [#1](https://osu.ppy.sh/community/matches/58847906) |
@@ -293,7 +293,7 @@ Sunday, 1 March 2020:
 
 Saturday, 22 February 2020:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Fuka Pura** ![][flag_FR] | **4** | 2 | ![][flag_FR] YANOO123 | [#1](https://osu.ppy.sh/community/matches/58638242) |
 | NoLimitFS ![][flag_FR] | 1 | **4** | ![][flag_FR] **dracoV** | [#1](https://osu.ppy.sh/community/matches/58639370) |
@@ -305,7 +305,7 @@ Saturday, 22 February 2020:
 
 Sunday, 23 February 2020:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Oasix ![][flag_FR] | 0 | **4** | ![][flag_FR] **dracoV** | [#1](https://osu.ppy.sh/community/matches/58664569) |
 | TomyLeFaux ![][flag_FR] | -1 | **0** | ![][flag_FR] **Zard** | *win by default* |

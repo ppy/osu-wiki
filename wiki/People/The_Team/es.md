@@ -37,12 +37,12 @@ Las personas que nombradas a continuación son el núcleo del equipo de osu!, y 
 | ![][flag_US] [awp](https://osu.ppy.sh/users/2650) | Administrador general y de ayuda, creador del arte chibi del juego/pagina, ([Barrel Roll Weekly](http://brw.twinkfish.com/)) |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | Administrador general, administrador comunitario |
 | ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) ([blog](http://blog.echo.sh/)) | Equipo de desarrollo osu!, integrador IRC del chat en el juego, mantenedor del sitio |
-| ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) |Equipo de desarrollo osu!, soporte osz2/p2p  |
-| [][flag_US] Jim ([Brand New Games](http://www.bravegamer.com/)) |  Diseñador original del sitio |
+| ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) |Equipo de desarrollo osu!, soporte osz2/p2p |
+| [][flag_US] Jim ([Brand New Games](http://www.bravegamer.com/)) | Diseñador original del sitio |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Organizador y administrador de la Copa del Mundo, lider y administrador comunitario del QAT|
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) ([LuigiHann@Deviantart](https://luigihann.deviantart.com/)) | Diseñador de skins épica, contribuciones a la skin y al conjunto de iconos predeterminados |
 | ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) |Equipo de desarrollo osu!, deslizadores mm |
-| ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | Desarrollo osu! iPhone  |
+| ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | Desarrollo osu! iPhone |
 | ![][flag_US] Phil | Trabajador de diseño del foro |
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427)  ([Sarumaru@deviantART.com](https://sarumaru.deviantart.com/)) | Diseñador original del concepto y el artwork de pippi |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Administrador y lider temprano de la comunidad, Meeting minutes, contribuciones a preguntas frecuentes |

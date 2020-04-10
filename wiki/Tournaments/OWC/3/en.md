@@ -55,7 +55,7 @@ The osu! World Cup #3 was run by various community members by distributing the m
 
 ## Participants
 
-|  | Country | Members |
+| | Country | Members |
 | :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **Metro**, Darksonic, Glazbom, Fabi, Hernan, Salvage, RocknRolla, druidxd |
 | ![][flag_AU] | **Australia** | **JappyBabes**, TimmyTimTims, kamiyo-sama, flow, Evanlet, ampzz, Copter-kun, LaVolpe024 |

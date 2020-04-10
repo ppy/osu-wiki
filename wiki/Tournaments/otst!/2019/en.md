@@ -273,13 +273,13 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 
 Saturday, 13 April 2019:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Rubber Conquest** | **7** | 2 | #arsecrackers | [#1](https://osu.ppy.sh/community/matches/50969219) |
 
 Sunday, 14 April 2019:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Floating up** | **7** | 4 | Rubber Conquest | [#1](https://osu.ppy.sh/community/matches/51001074) |
 
@@ -287,20 +287,20 @@ Sunday, 14 April 2019:
 
 Friday, 5 April 2019:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **#arsecrackers** | **7** | 0 | osu | [#1](https://osu.ppy.sh/community/matches/50772401) |
 
 Saturday, 6 April 2019:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | la profanacion | 0 | **7** | **=yahe** | [#1](https://osu.ppy.sh/community/matches/50785429) |
 | Rubber Conquest | 6 | **7** | **Floating up** | [#1](https://osu.ppy.sh/community/matches/50797248) |
 
 Sunday, 7 April 2019:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **#arsecrackers** | **7** | 1 | =yahe | [#1](https://osu.ppy.sh/community/matches/50825991) |
 
@@ -308,7 +308,7 @@ Sunday, 7 April 2019:
 
 Saturday, 30 March 2019:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Hotel for Lolis | 0 | **6** | **HDcarryEmertxE** | *win by default* |
 | **=yahe** | **6** | 2 | BRATVA I KOLCO | [#1](https://osu.ppy.sh/community/matches/50634229) |
@@ -319,7 +319,7 @@ Saturday, 30 March 2019:
 
 Sunday, 31 March 2019:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Riven small PP | 5 | **6** | **=yahe** | [#1](https://osu.ppy.sh/community/matches/50656022) |
 | **osu** | **6** | 4 | HDcarryEmertxE | [#1](https://osu.ppy.sh/community/matches/50669409) |
@@ -328,7 +328,7 @@ Sunday, 31 March 2019:
 
 Saturday, 23 March 2019:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | =yahe | 2 | **6** | **Rubber Conquest** | [#1](https://osu.ppy.sh/community/matches/50460029) |
 | osu | 3 | **6** | **Floating up** | [#1](https://osu.ppy.sh/community/matches/50470080) |
@@ -338,7 +338,7 @@ Saturday, 23 March 2019:
 
 Sunday, 24 March 2019:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **canvas garden** | **6** | 0 | bruh | *win by default* |
 | **BRATVA I KOLCO** | **6** | 0 | Roselia | *win by default* |
@@ -348,7 +348,7 @@ Sunday, 24 March 2019:
 
 Saturday, 16 March 2019:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **=yahe** | **5** | 1 | canvas garden | [#1](https://osu.ppy.sh/community/matches/50300937) |
 | **Rubber Conquest** | **5** | 1 | bruh | [#1](https://osu.ppy.sh/community/matches/50304223) |
@@ -357,7 +357,7 @@ Saturday, 16 March 2019:
 
 Sunday, 17 March 2019:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **#arsecrackers** | **5** | 3 | Valhalla | [#1](https://osu.ppy.sh/community/matches/50333220) |
 | **Floating up** | **5** | 0 | Roselia | [#1](https://osu.ppy.sh/community/matches/50339271) |
@@ -368,18 +368,18 @@ Sunday, 17 March 2019:
 
 Saturday, 2 March 2019:
 
-| Group | Team 1 |  |  | Team 2 | Match link |
+| Group | Team 1 | | | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | A | **=yahe** | **4** | 0 | all waifu hero | [#1](https://osu.ppy.sh/community/matches/49966533) |
 | B | **BRATVIA I KOLCO** | **4** | 3 | budget aussies | [#1](https://osu.ppy.sh/community/matches/49960437) |
 | A | our angel kodama | 3 | **4** | **all waifu hero** | [#1](https://osu.ppy.sh/community/matches/49970014) |
-| B | **BRATVA I KOLCO**  | **4** | 0 | ok\_hand osu | [#1](https://osu.ppy.sh/community/matches/49973489) |
+| B | **BRATVA I KOLCO** | **4** | 0 | ok\_hand osu | [#1](https://osu.ppy.sh/community/matches/49973489) |
 | B | **Rubber Conquest** | **4** | 0 | BRATVA I KOLCO | [#1](https://osu.ppy.sh/community/matches/49975294) |
 | B | **Rubber Conquest** | **4** | 0 | ok\_hand osu | [#1](https://osu.ppy.sh/community/matches/49977263) |
 
 Sunday, 3 March 2019:
 
-| Group | Team 1 |  |  | Team 2 | Match link |
+| Group | Team 1 | | | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | C | **Riven small PP** | **4** | 0 | RNG Game | [#1](https://osu.ppy.sh/community/matches/49977155) |
 | A | **Roselia** | **4** | 1 | our angel kodama | [#1](https://osu.ppy.sh/community/matches/49980847) |
@@ -397,7 +397,7 @@ Sunday, 3 March 2019:
 
 Monday, 4 March 2019:
 
-| Group | Team 1 |  |  | Team 2 | Match link |
+| Group | Team 1 | | | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | C | **Riven small PP** | **4** | 1 | Raise My PeePee | [#1](https://osu.ppy.sh/community/matches/50009003) |
 | D | **la profanacion** | **4** | 0 | Gay Squad | [#1](https://osu.ppy.sh/community/matches/50012995) |
@@ -406,7 +406,7 @@ Monday, 4 March 2019:
 
 Saturday, 9 March 2019:
 
-| Group | Team 1 |  |  | Team 2 | Match link |
+| Group | Team 1 | | | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | E | derust | 1 | **4** | **Restricted Mode** | [#1](https://osu.ppy.sh/community/matches/50128761) |
 | F | Viva Franc0 | 0 | **4** | **HDcarryEmertxE** | [#1](https://osu.ppy.sh/community/matches/50139948) |
@@ -421,7 +421,7 @@ Saturday, 9 March 2019:
 
 Sunday, 10 March 2019:
 
-| Group | Team 1 |  |  | Team 2 | Match link |
+| Group | Team 1 | | | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | F | **Hotel for Lolis** | **4** | 0 | we are bad | [#1](https://osu.ppy.sh/community/matches/50159916) |
 | H | **Gruuuu** | **4** | 0 | Farmers | *win by default* |

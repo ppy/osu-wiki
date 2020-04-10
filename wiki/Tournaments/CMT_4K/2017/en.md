@@ -277,12 +277,12 @@ TB:
 | NED_Q | ![][CN] | 0 : 4 | ![][CN] | [Crz]MemoryI | | [Crz]MemoryI | ![][CN] | 4 : 0 | ![][HK] | Opean |
 | hly200 | ![][CN] | 3 : 4 | ![][CN] | NED_Q | | [Crz]MemoryI | ![][CN] | 0 : 4 | ![][CN] | hly200 |
 | ***Group E*** | | | | | | | | |
-| Neokje | ![][MY] | 4 : 0 | ![][CN] |  - Xiaoluoli - | | qiluo | ![][CN] | 4 : 1 | ![][CN] | spensll |
+| Neokje | ![][MY] | 4 : 0 | ![][CN] | - Xiaoluoli - | | qiluo | ![][CN] | 4 : 1 | ![][CN] | spensll |
 | Neokje | ![][MY] | 4 : 0 | ![][CN] | spensll | | qiluo | ![][CN] | 4 : 1 | ![][CN] | - Xiaoluoli - |
 | Neokje | ![][MY] | 4 : 1 | ![][CN] | qiluo | | spensll | ![][CN] | 4 : 0 | ![][CN] | - Xiaoluoli - |
 | ***Group F*** | | | | | | | | |
 | [Crz]Riri | ![][CN] | 4 : 1 | ![][AU] | [Crz]Yukikaze- | | [Crz]Riri | ![][CN] | 4 : 0 | ![][CN] | prelude8792916 |
-| WF Night | ![][CN] | 0 : 4 | ![][AU] | [Crz]Yukikaze- | | [Crz]Riri | ![][CN] | 4 : 0 | ![][CN] |  WF Night |
+| WF Night | ![][CN] | 0 : 4 | ![][AU] | [Crz]Yukikaze- | | [Crz]Riri | ![][CN] | 4 : 0 | ![][CN] | WF Night |
 | [Crz]Yukikaze- | ![][AU] | 4 : 0 | ![][CN] | prelude8792916 | | WF Night | ![][CN] | 0 : 0 | ![][CN] | prelude8792916 |
 | ***Group G*** | | | | | | | | |
 | AnLs | ![][HK] | 0 : 4 | ![][TW] | - Choma - | | Luv Letter | ![][CN] | 0 : 4 | ![][CN] | [Crz]Mix0130 |
@@ -371,13 +371,13 @@ TB:
 6. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing player gets moved to the Loser bracket.
 7. The stages are split up into the following:
 
-   | Stage | Match ID |
-   | --: | :-- |
-   | Round of 16 | A, B, C, D, E, F, G, H |
-   | Quarter-finals | I, J, K, L & R, S, T, U |
-   | Semi-finals | M, N & V, W, X, Y, Z,AA |
-   | Finals - Week 1 | O & AB, AC, AD |
-   | Finals - Week 2 | P & AE |
+ | Stage | Match ID |
+ | --: | :-- |
+ | Round of 16 | A, B, C, D, E, F, G, H |
+ | Quarter-finals | I, J, K, L & R, S, T, U |
+ | Semi-finals | M, N & V, W, X, Y, Z,AA |
+ | Finals - Week 1 | O & AB, AC, AD |
+ | Finals - Week 2 | P & AE |
 
 8. **Winning condition**:
    - In the Qualification stage, the **32** highest players will qualify next stage.

@@ -12,15 +12,15 @@ The **osu! World Cup 2013** (***OWC 2013***) is a country-based osu! tournament 
 
 ## Tournament Schedule
 
-| Event | Timestamp  |
+| Event | Timestamp |
 | --: | :-- |
 | Registration Phase | 2013-10-15/2013-10-28 |
-| Live Drawings  | 2013-10-31 (16:00 UTC+0) |
+| Live Drawings | 2013-10-31 (16:00 UTC+0) |
 | Group Stage | 2013-11-08/2013-11-10 |
 | Round of 16 | 2013-11-16/2013-11-17 |
-| Quarterfinals  | 2013-11-23/2013-11-24 |
-| Semifinals  | 2013-11-30/2013-12-01 |
-| Finals  | 2013-12-07/2013-12-08 |
+| Quarterfinals | 2013-11-23/2013-11-24 |
+| Semifinals | 2013-11-30/2013-12-01 |
+| Finals | 2013-12-07/2013-12-08 |
 
 ## Prizes
 
@@ -58,7 +58,7 @@ The osu! World Cup 2013 was run by various community members by distributing the
 | :-: | :-: | :-- |
 | ![][flag_AR] | Argentina | **Metro**, Glazbom, Salvage, Hernan, Fabi, druidxd, CBA-ES-CAB, Mikumiku97 |
 | ![][flag_AU] | Australia | **JappyBabes**, kamiyo-sama, flow, TimmyTimTims, Lach, Bauxe, Melt3dCheeze, smoogipooo |
-| ![][flag_AT] | Austria  | **Omgforz**, WhitePhoenixLP, M3tr01d, Alumetorz, Jin\_Back7, SunBurn |
+| ![][flag_AT] | Austria | **Omgforz**, WhitePhoenixLP, M3tr01d, Alumetorz, Jin\_Back7, SunBurn |
 | ![][flag_BE] | Belgium | **DrakRainbow**, GoldenWolf, Sakisan, larshmellow, Friendzone King, KinkehW, Mithrane |
 | ![][flag_BR] | Brazil | **fabriciorby**, Blue Dragon, shoTt, nouk, Ghost Princess, powerstream89, AdRon Zh3Ro, antsu |
 | ![][flag_BG] | Bulgaria | **Scrublord**, Defacer, b1o, -Arthus-, Supbads, Angeloid\_Alpha, Hardatyou |
@@ -288,103 +288,103 @@ The osu! World Cup 2013 was run by various community members by distributing the
 
 | Saturday, 2013-12-07 | | | | |
 | --: | :-: | :-: | :-- | :-- |
-| **Korea** ![][flag_KR] | **6** | 5 |![][flag_TW] Taiwan  | [#1](https://osu.ppy.sh/community/matches/3233030) |
+| **Korea** ![][flag_KR] | **6** | 5 |![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/3233030) |
 
 
 | Sunday, 2013-12-08 | | | | |
 | --: | :-: | :-: | :-- | :-- |
-|  United Kingdom ![][flag_GB] | 1 | **6** |![][flag_PL] **Poland**  | [#1](https://osu.ppy.sh/community/matches/3272199) |
+| United Kingdom ![][flag_GB] | 1 | **6** |![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/3272199) |
 
 ### Semifinals
 
 | Saturday, 2013-11-30 | | | | |
 | --: | :-: | :-: | :-- | :-- |
-|  **Korea** ![][flag_KR] | **6** | 1 |![][flag_GB] United Kingdom  | [#1](https://osu.ppy.sh/community/matches/3088440) |
-|  **Taiwan** ![][flag_TW]| **6** | 0 |![][flag_PL] Poland  | [#1](https://osu.ppy.sh/community/matches/3091169) |
+| **Korea** ![][flag_KR] | **6** | 1 |![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/3088440) |
+| **Taiwan** ![][flag_TW]| **6** | 0 |![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/3091169) |
 
 ### Quarterfinals
 
 | Sunday, 2013-11-24 | | | | |
 | --: | :-: | :-: | :-- | :-- |
-|  Japan ![][flag_JP]| 2 | **5** |![][flag_TW] **Taiwan**  | [#1](https://osu.ppy.sh/community/matches/2962477) |
-|  **Korea** ![][flag_KR] | **5** | 2 |![][flag_AT] Austria   | [#1](https://osu.ppy.sh/community/matches/2964278) |
-|  China ![][flag_CN]| 4 | **5** |![][flag_PL] **Poland**  | [#1](https://osu.ppy.sh/community/matches/2966197) |
-| **United Kingdom** ![][flag_GB] | **5** | 3 |![][flag_DE] Germany   | [#1](https://osu.ppy.sh/community/matches/2969031) [#A](https://puu.sh/5rT5F/9b2a7bfa74.jpg) |
+| Japan ![][flag_JP]| 2 | **5** |![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/2962477) |
+| **Korea** ![][flag_KR] | **5** | 2 |![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/2964278) |
+| China ![][flag_CN]| 4 | **5** |![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/2966197) |
+| **United Kingdom** ![][flag_GB] | **5** | 3 |![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/2969031) [#A](https://puu.sh/5rT5F/9b2a7bfa74.jpg) |
 
 ### Round of 16
 
 | Saturday, 2013-11-16 | | | | |
 | --: | :-: | :-: | :-- | :-- |
-|  **Korea** ![][flag_KR] | **5** | 0 |![][flag_RU] Russian Federation  | [#1](https://osu.ppy.sh/community/matches/2778204) |
-|  Hong Kong  ![][flag_HK]| 3  | **5** |![][flag_DE] **Germany**   | [#1](https://osu.ppy.sh/community/matches/2780657) |
-|  **United Kingdom** ![][flag_GB]| **5** | 1 |![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/2783657) |
+| **Korea** ![][flag_KR] | **5** | 0 |![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/2778204) |
+| Hong Kong  ![][flag_HK]| 3 | **5** |![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/2780657) |
+| **United Kingdom** ![][flag_GB]| **5** | 1 |![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/2783657) |
 
 
 | Sunday, 2013-11-17 | | | | |
 | --: | :-: | :-: | :-- | :-- |
-|  **China** ![][flag_CN]| **5** | 2 |![][flag_US] United States  | [#1](https://osu.ppy.sh/community/matches/2805329) [#A](https://osu.ppy.sh/ss/1107405) [#B](https://osu.ppy.sh/ss/1107418) |
-|  **Japan** ![][flag_JP]| **5** | 1 |![][flag_NL] Netherlands  | [#1](https://osu.ppy.sh/community/matches/2811659) |
-|  **Taiwan** ![][flag_TW] | **5** | 0 |![][flag_BR] Brazil   | [#1](https://osu.ppy.sh/community/matches/2814063) |
-|  France ![][flag_FR] | 4  | **5** |![][flag_PL] **Poland**   | [#1](https://osu.ppy.sh/community/matches/2817324) |
-|  **Austria** ![][flag_AT] | **5** | 0 |![][flag_LV] Latvia   | [#1](https://osu.ppy.sh/community/matches/2820030)  |
+| **China** ![][flag_CN]| **5** | 2 |![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/2805329) [#A](https://osu.ppy.sh/ss/1107405) [#B](https://osu.ppy.sh/ss/1107418) |
+| **Japan** ![][flag_JP]| **5** | 1 |![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/2811659) |
+| **Taiwan** ![][flag_TW] | **5** | 0 |![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/2814063) |
+| France ![][flag_FR] | 4 | **5** |![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/2817324) |
+| **Austria** ![][flag_AT] | **5** | 0 |![][flag_LV] Latvia | [#1](https://osu.ppy.sh/community/matches/2820030) |
 
 ### Group Stage
 
 | Friday, 2013-11-08 | | | | |
 | --: | :-: | :-: | :-- | :-- |
-|  **Taiwan** ![][flag_TW]| **4** | 0 |![][flag_ID] Indonesia   | [#1](https://osu.ppy.sh/community/matches/2581408) |
-|  **Poland** ![][flag_PL]| **4** | 0 |![][flag_RU] Russian Federation  | [#1](https://osu.ppy.sh/community/matches/2587307) |
-|  **Finland**  ![][flag_FI]| **4** | 0 |![][flag_EE] Estonia  | [#1](https://osu.ppy.sh/community/matches/2588205) |
-|  **Germany** ![][flag_DE] | **4** | 1 |![][flag_BR] Brazil   | [#1](https://osu.ppy.sh/community/matches/2589515) |
-| **United Kingdom** ![][flag_GB] | **4** | 1 |![][flag_BE] Belgium  | [#1](https://osu.ppy.sh/community/matches/2590563) |
-|  Argentina  ![][flag_AR]| 2  | **4** |![][flag_NL] **Netherlands**   | [#1](https://osu.ppy.sh/community/matches/2592453) |
+| **Taiwan** ![][flag_TW]| **4** | 0 |![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/2581408) |
+| **Poland** ![][flag_PL]| **4** | 0 |![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/2587307) |
+| **Finland**  ![][flag_FI]| **4** | 0 |![][flag_EE] Estonia | [#1](https://osu.ppy.sh/community/matches/2588205) |
+| **Germany** ![][flag_DE] | **4** | 1 |![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/2589515) |
+| **United Kingdom** ![][flag_GB] | **4** | 1 |![][flag_BE] Belgium | [#1](https://osu.ppy.sh/community/matches/2590563) |
+| Argentina  ![][flag_AR]| 2 | **4** |![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/2592453) |
 
 
 | Saturday, 2013-11-09 | | | | |
 | --: | :-: | :-: | :-- | :-- |
-| **Indonesia** ![][flag_ID]  | **4** | 0 |![][flag_VE] Venezuela   | [#1](https://osu.ppy.sh/community/matches/2597698) |
-|  **Japan** ![][flag_JP]| **4** | 1 |![][flag_CA] Canada  | [#1](https://osu.ppy.sh/community/matches/2598602) |
-| **Korea** ![][flag_KR] | **4** | 0 |![][flag_NO] Norway  | [#1](https://osu.ppy.sh/community/matches/2605519) |
-|  **Latvia** ![][flag_LV] | **4** | 0 |![][flag_NZ] New Zealand   | [#1](https://osu.ppy.sh/community/matches/2606800) |
-|  **Sweden** ![][flag_SE] | **4** | 3 |![][flag_PH] Philippines   | [#1](https://osu.ppy.sh/community/matches/2606823) |
-|  **Germany** ![][flag_DE] | **4** | 0 |![][flag_AU] Australia   | [#1](https://osu.ppy.sh/community/matches/2608440) [#2](https://osu.ppy.sh/community/matches/2607511)  |
-|  China ![][flag_CN]| 3  | **4** |![][flag_AT] **Austria**   | [#1](https://osu.ppy.sh/community/matches/2607534) [#2](https://osu.ppy.sh/community/matches/2608373)  |
-|  **Taiwan**  ![][flag_TW]| **4** | 0 |![][flag_HK] Hong Kong   | [#1](https://osu.ppy.sh/community/matches/2609074) |
-|  **Japan** ![][flag_JP]| **4** | 0 |![][flag_GB] United Kingdom  | [#1](https://osu.ppy.sh/community/matches/2609048) |
-|  **Korea** ![][flag_KR]| **4** | 1 |![][flag_FR] France  | [#1](https://osu.ppy.sh/community/matches/2610159) [#2](https://osu.ppy.sh/community/matches/2612373)  |
-|  **Norway** ![][flag_NO] | **4** | 1 |![][flag_CL] Chile   | [#1](https://osu.ppy.sh/community/matches/2612443) |
-|  **Argentina** ![][flag_AR] | **4** | 0 |![][flag_SG] Singapore   | [#1](https://osu.ppy.sh/community/matches/2614072) |
-| **Austria**  ![][flag_AT]| **4** | 0 |![][flag_PH] Philippines   | [#1](https://osu.ppy.sh/community/matches/2614095) |
-|  **Thailand** ![][flag_TH]| **4** | 1 |![][flag_NL] Netherlands   | [#1](https://osu.ppy.sh/community/matches/2618739) [#A](https://puu.sh/5dh2n/b90be32a79.jpg) |
-| **Hong Kong** ![][flag_HK]  | **4** | 0 |![][flag_VE] Venezuela   | -win by default- |
-|  **Russian Federation** ![][flag_RU]| **4** | 0 |![][flag_EE] Estonia   | [#1](https://osu.ppy.sh/community/matches/2617238) |
-|  **United States** ![][flag_US] | **4** | 1 |![][flag_LV] Latvia  | [#1](https://osu.ppy.sh/community/matches/2621519) |
-|  **Brazil**  ![][flag_BR]| **4** | 0 |![][flag_BG] Bulgaria  | [#1](https://osu.ppy.sh/community/matches/2622522) |
-|  **Poland** ![][flag_PL] | **4** | 0 |![][flag_FI] Finland   | [#1](https://osu.ppy.sh/community/matches/2624015) |
+| **Indonesia** ![][flag_ID] | **4** | 0 |![][flag_VE] Venezuela | [#1](https://osu.ppy.sh/community/matches/2597698) |
+| **Japan** ![][flag_JP]| **4** | 1 |![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/2598602) |
+| **Korea** ![][flag_KR] | **4** | 0 |![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/2605519) |
+| **Latvia** ![][flag_LV] | **4** | 0 |![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/2606800) |
+| **Sweden** ![][flag_SE] | **4** | 3 |![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/2606823) |
+| **Germany** ![][flag_DE] | **4** | 0 |![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/2608440) [#2](https://osu.ppy.sh/community/matches/2607511) |
+| China ![][flag_CN]| 3 | **4** |![][flag_AT] **Austria** | [#1](https://osu.ppy.sh/community/matches/2607534) [#2](https://osu.ppy.sh/community/matches/2608373) |
+| **Taiwan**  ![][flag_TW]| **4** | 0 |![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/2609074) |
+| **Japan** ![][flag_JP]| **4** | 0 |![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/2609048) |
+| **Korea** ![][flag_KR]| **4** | 1 |![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/2610159) [#2](https://osu.ppy.sh/community/matches/2612373) |
+| **Norway** ![][flag_NO] | **4** | 1 |![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/2612443) |
+| **Argentina** ![][flag_AR] | **4** | 0 |![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/2614072) |
+| **Austria**  ![][flag_AT]| **4** | 0 |![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/2614095) |
+| **Thailand** ![][flag_TH]| **4** | 1 |![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/2618739) [#A](https://puu.sh/5dh2n/b90be32a79.jpg) |
+| **Hong Kong** ![][flag_HK] | **4** | 0 |![][flag_VE] Venezuela | -win by default- |
+| **Russian Federation** ![][flag_RU]| **4** | 0 |![][flag_EE] Estonia | [#1](https://osu.ppy.sh/community/matches/2617238) |
+| **United States** ![][flag_US] | **4** | 1 |![][flag_LV] Latvia | [#1](https://osu.ppy.sh/community/matches/2621519) |
+| **Brazil**  ![][flag_BR]| **4** | 0 |![][flag_BG] Bulgaria | [#1](https://osu.ppy.sh/community/matches/2622522) |
+| **Poland** ![][flag_PL] | **4** | 0 |![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/2624015) |
 
 
 | Sunday, 2013-11-10 | | | | |
 | --: | :-: | :-: | :-- | :-- |
-|  **Thailand** ![][flag_TH]| **4** | 0 |![][flag_SG] Singapore  | [#1](https://osu.ppy.sh/community/matches/2644383) |
-|  **China** ![][flag_CN]| **4** | 1 |![][flag_PH] Philippines  | [#1](https://osu.ppy.sh/community/matches/2642702) [#2](https://osu.ppy.sh/community/matches/2644022) [#3](https://osu.ppy.sh/community/matches/2644544) |
-|  **Australia** ![][flag_AU] | **4** | 0 |![][flag_BG] Bulgaria   | [#1](https://osu.ppy.sh/community/matches/2645416) |
-| **Italy** ![][flag_IT]| **4** | 0 |![][flag_NZ] New Zealand  | [#1](https://osu.ppy.sh/community/matches/2645639) |
-|  **Hong Kong**  ![][flag_HK]| **4** | 1 |![][flag_ID] Indonesia  | [#1](https://osu.ppy.sh/community/matches/2646208) |
-|  **Japan** ![][flag_JP]| **4** | 0 |![][flag_BE] Belgium  | [#1](https://osu.ppy.sh/community/matches/2647505) |
-|  **China** ![][flag_CN]| **4** | 1 |![][flag_SE] Sweden   | [#1](https://osu.ppy.sh/community/matches/2648351) |
-|  **Latvia**  ![][flag_LV]| **4** | 3 |![][flag_IT] Italy  | [#1](https://osu.ppy.sh/community/matches/2648523) |
-|  **Taiwan** ![][flag_TW]| **4** | 0 |![][flag_VE] Venezuela  | -win by default- |
-|  Norway ![][flag_NO]| 0 | **4** |![][flag_FR] **France**   | [#1](https://osu.ppy.sh/community/matches/2651081) |
-|  **Netherlands** ![][flag_NL] | **4** | 0 |![][flag_SG] Singapore  | [#1](https://osu.ppy.sh/community/matches/2649765) |
-|  **Thailand** ![][flag_TH]| **4** | 0 |![][flag_AR] Argentina  | [#1](https://osu.ppy.sh/community/matches/2652001) |`
-|  **Russian Federation** ![][flag_RU]| **4** | 0 |![][flag_FI] Finland  | [#1](https://osu.ppy.sh/community/matches/2653645) |
-|  **Germany** ![][flag_DE]| **4** | 0 |![][flag_BG] Bulgaria   | [#1](https://osu.ppy.sh/community/matches/2655599) |
-| **Poland** ![][flag_PL]  | **4** | 0 |![][flag_EE] Estonia  | [#1](https://osu.ppy.sh/community/matches/2656900) |
-|  **France** ![][flag_FR] | **4** | 1 |![][flag_CL] Chile  | [#1](https://osu.ppy.sh/community/matches/2660496) |
-|  **United Kingdom** ![][flag_GB] | **4** | 2 |![][flag_CA] Canada   | [#1](https://osu.ppy.sh/community/matches/2660446) |
-|  Sweden ![][flag_SE] | 2  | **4** |![][flag_AT] **Austria**  | [#1](https://osu.ppy.sh/community/matches/2661584) |
-|  **Korea** ![][flag_KR]| **4** | 2 |![][flag_CL] Chile  | [#1](https://osu.ppy.sh/community/matches/2662493) |
-|  Australia ![][flag_AU] | 1  | **4** |![][flag_BR] **Brazil**  | [#1](https://osu.ppy.sh/community/matches/2767400) |
+| **Thailand** ![][flag_TH]| **4** | 0 |![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/2644383) |
+| **China** ![][flag_CN]| **4** | 1 |![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/2642702) [#2](https://osu.ppy.sh/community/matches/2644022) [#3](https://osu.ppy.sh/community/matches/2644544) |
+| **Australia** ![][flag_AU] | **4** | 0 |![][flag_BG] Bulgaria | [#1](https://osu.ppy.sh/community/matches/2645416) |
+| **Italy** ![][flag_IT]| **4** | 0 |![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/2645639) |
+| **Hong Kong**  ![][flag_HK]| **4** | 1 |![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/2646208) |
+| **Japan** ![][flag_JP]| **4** | 0 |![][flag_BE] Belgium | [#1](https://osu.ppy.sh/community/matches/2647505) |
+| **China** ![][flag_CN]| **4** | 1 |![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/2648351) |
+| **Latvia**  ![][flag_LV]| **4** | 3 |![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/2648523) |
+| **Taiwan** ![][flag_TW]| **4** | 0 |![][flag_VE] Venezuela | -win by default- |
+| Norway ![][flag_NO]| 0 | **4** |![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/2651081) |
+| **Netherlands** ![][flag_NL] | **4** | 0 |![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/2649765) |
+| **Thailand** ![][flag_TH]| **4** | 0 |![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/2652001) |`
+| **Russian Federation** ![][flag_RU]| **4** | 0 |![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/2653645) |
+| **Germany** ![][flag_DE]| **4** | 0 |![][flag_BG] Bulgaria | [#1](https://osu.ppy.sh/community/matches/2655599) |
+| **Poland** ![][flag_PL] | **4** | 0 |![][flag_EE] Estonia | [#1](https://osu.ppy.sh/community/matches/2656900) |
+| **France** ![][flag_FR] | **4** | 1 |![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/2660496) |
+| **United Kingdom** ![][flag_GB] | **4** | 2 |![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/2660446) |
+| Sweden ![][flag_SE] | 2 | **4** |![][flag_AT] **Austria** | [#1](https://osu.ppy.sh/community/matches/2661584) |
+| **Korea** ![][flag_KR]| **4** | 2 |![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/2662493) |
+| Australia ![][flag_AU] | 1 | **4** |![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/2767400) |
 
 ------------------------------------------------------------------------
 

@@ -217,48 +217,48 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-| Saturday, 2019-05-04 |  |  |  |  |
+| Saturday, 2019-05-04 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **wonder5193** ![][flag_KR] | **7** | 1 | ![][flag_ID] \[Crz\]Crysarlene | [#1](https://osu.ppy.sh/community/matches/51517020) |
 
 ### Finals
 
-| Saturday, 2019-04-27 |  |  |  |  |
+| Saturday, 2019-04-27 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Amascite ![][flag_GB] | 0 | **7** | ![][flag_KR] **wonder5193** | [#1](https://osu.ppy.sh/community/matches/51332041) |
 | Rem- ![][flag_ID] | 1 | **7** | ![][flag_ID] **\[Crz\]Crysarlene** | [#1](https://osu.ppy.sh/community/matches/51332053) |
 
-| Sunday, 2019-04-28 |  |  |  |  |
+| Sunday, 2019-04-28 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Amascite ![][flag_GB] | 0 | **7** | ![][flag_ID] **\[Crz\]Crysarlene** | [#1](https://osu.ppy.sh/community/matches/51366632) |
 
 ### Semifinals
 
-| Friday, 2019-04-19 |  |  |  |  |
+| Friday, 2019-04-19 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | arge- ![][flag_PH] | 5 | **6** | ![][flag_FR] **AuraahDono** | [#1](https://osu.ppy.sh/community/matches/51128627) |
 
-| Saturday, 2019-04-20 |  |  |  |  |
+| Saturday, 2019-04-20 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **wonder5193** ![][flag_KR] | **6** | 1 | ![][flag_ID] \[Crz\]Crysarlene | [#1](https://osu.ppy.sh/community/matches/51151259) |
 | **andreymc** ![][flag_BR] | **6** | 0 | ![][flag_KR] NKEYBOARD | [#1](https://osu.ppy.sh/community/matches/51154245) |
 | **Amascite** ![][flag_GB] | **6** | 3 | ![][flag_ID] -Rem- | [#1](https://osu.ppy.sh/community/matches/51158284) |
 | andreymc ![][flag_BR] | 3 | **6** | ![][flag_ID] **\[Crz\]Crysarlene** | [#1](https://osu.ppy.sh/community/matches/51158307) |
 
-| Sunday, 2019-04-21 |  |  |  |  |
+| Sunday, 2019-04-21 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | AuraahDono ![][flag_FR] | 3 | **6** | ![][flag_ID] **-Rem-** | [#1](https://osu.ppy.sh/community/matches/51178754) |
 
 ### Quarterfinals
 
-| Saturday, 2019-04-13 |  |  |  |  |
+| Saturday, 2019-04-13 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **-Rem-** ![][flag_ID] | **5** | 4 | ![][flag_TH] basicmaime | [#1](https://osu.ppy.sh/community/matches/50961847) |
 | DaDarkDragon ![][flag_PL] | 0 | **5** | ![][flag_KR] **wonder5193** | -win by default- |
 | **\[Crz\]Crysarlene** ![][flag_ID] | **5** | 0 | ![][flag_PH] arge- | [#1](https://osu.ppy.sh/community/matches/50962595) |
 | **Amascite** ![][flag_GB] | **5** | 1 | ![][flag_BY] mvq | [#1](https://osu.ppy.sh/community/matches/50973498) |
 
-| Sunday, 2019-04-14 |  |  |  |  |
+| Sunday, 2019-04-14 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **arge-** ![][flag_PH] | **5** | 0 | ![][flag_PH] Shiyui- | -win by default- |
 | mvq ![][flag_BY] | 1 | **5** | ![][flag_KR] **NKEYBOARD** | [#1](https://osu.ppy.sh/community/matches/50996431) |
@@ -267,11 +267,11 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-| Friday, 2019-04-05 |  |  |  |  |
+| Friday, 2019-04-05 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **-Rem-** ![][flag_ID] | **4** | 0 | ![][flag_RU] YaLTeR | [#1](https://osu.ppy.sh/community/matches/50764875) |
 
-| Saturday, 2019-04-06 |  |  |  |  |
+| Saturday, 2019-04-06 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | NKEYBOARD ![][flag_KR] | 1 | 4 | ![][flag_PH] **arge-** | [#1](https://osu.ppy.sh/community/matches/50790559) |
 | **basicmaime** ![][flag_TH] | **4** | 1 | ![][flag_FR] AuraahDono | [#1](https://osu.ppy.sh/community/matches/50793099) |
@@ -279,7 +279,7 @@ This competition has come to an end and resulted in the following podium:
 | Shiyui- ![][flag_PH] | 1 | **4** | ![][flag_BY] **mvq** | [#1](https://osu.ppy.sh/community/matches/50800700) |
 | MillaMaxwelle ![][flag_FR] | 0 | **4** | ![][flag_PL] **DaDarkDragon** | -win by default- |
 
-| Sunday, 2019-04-07 |  |  |  |  |
+| Sunday, 2019-04-07 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **wonder5193** ![][flag_KR] | **4** | 0 | ![][flag_BR] andreymc | [#1](https://osu.ppy.sh/community/matches/50816542) |
 | 2fast4you98 ![][flag_NL] | 0 | **4** | ![][flag_ID] **\[Crz\]Crysarlene** | [#1](https://osu.ppy.sh/community/matches/50822823) |
@@ -290,11 +290,11 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-| Group | Friday, 2019-03-22 |  |  |  |  |
+| Group | Friday, 2019-03-22 | | | | |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | B | **Koiidex** ![][flag_FR] | **4** | 0 | ![][flag_PL] Arkitev | [#1](https://osu.ppy.sh/community/matches/50448197) |
 
-| Group | Saturday, 2019-03-23 |  |  |  |  |
+| Group | Saturday, 2019-03-23 | | | | |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | B | - SLAYER - ![][flag_TH] | 0 | **4** | ![][flag_PL] **DaDarkDragon** | [#1](https://osu.ppy.sh/community/matches/50463854) |
 | A | Raveille ![][flag_SG] | 0 | **4** | ![][flag_GB] **Amascite** | [#1](https://osu.ppy.sh/community/matches/50464782) |
@@ -306,7 +306,7 @@ This competition has come to an end and resulted in the following podium:
 | B | **Arkitev** ![][flag_PL] | **4** | 0 | ![][flag_PL] DaDarkDragon | -win by default- |
 | D | X\_Devil ![][flag_RU] | 0 | **4** | ![][flag_BR] **andreymc** | [#1](https://osu.ppy.sh/community/matches/50488377) |
 
-| Group | Sunday, 2019-03-24 |  |  |  |  |
+| Group | Sunday, 2019-03-24 | | | | |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | D | X\_Devil ![][flag_RU] | 0 | **4** | ![][flag_BR] **andreymc** | [#1](https://osu.ppy.sh/community/matches/50488377) |
 | C | **Shiyui-** ![][flag_PH] | **4** | 0 | ![][flag_KR] wonder5193 | -win by default- |
@@ -321,12 +321,12 @@ This competition has come to an end and resulted in the following podium:
 | D | **Mage** ![][flag_RU] | 4 | 2 | ![][flag_RU] X\_Devil | [#1](https://osu.ppy.sh/community/matches/50504850) |
 | D | **andreymc** ![][flag_BR] | **4** | 2 | ![][flag_BY] mvq | [#1](https://osu.ppy.sh/community/matches/50504826) |
 
-| Group | Friday, 2019-03-29 |  |  |  |  |
+| Group | Friday, 2019-03-29 | | | | |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | E | **-Rem-** ![][flag_ID] | **4** | 0 | ![][flag_AU] PotassiumF | [#1](https://osu.ppy.sh/community/matches/50604149) |
 | E | DifficultIV ![][flag_TH] | 0 | **4** | ![][flag_ID] **-Rem-** | -win by default- |
 
-| Group | Saturday, 2019-03-30 |  |  |  |  |
+| Group | Saturday, 2019-03-30 | | | | |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | F | Lenfried- ![][flag_PH] | 1 | **4** | ![][flag_HK] **zero2snow** | [#1](https://osu.ppy.sh/community/matches/50626956) |
 | E | **PotassiumF** ![][flag_AU] | **4** | 0 | ![][flag_TH] DifficultIV | [#1](https://osu.ppy.sh/community/matches/50630712) |
@@ -343,7 +343,7 @@ This competition has come to an end and resulted in the following podium:
 | B | **DaDarkDragon** ![][flag_PL] | **4** | 0 | ![][flag_FR] Koiidex | [#1](https://osu.ppy.sh/community/matches/50641559) |
 | F | zero2snow ![][flag_HK] | 0 | **4** | ![][flag_RU] **YaLTeR** | -win by default- |
 
-| Group | Sunday, 2019-03-31 |  |  |  |  |
+| Group | Sunday, 2019-03-31 | | | | |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | F | **\[Crz\]Crysarlene** ![][flag_ID] | **4** | 1 | ![][flag_HK] zero2snow | [#1](https://osu.ppy.sh/community/matches/50656905) |
 | G | NKEYBOARD ![][flag_KR] | 0 | **4** | ![][flag_TH] **basicmaime** | -win by default- |

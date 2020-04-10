@@ -55,7 +55,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 ### Samedi 2 septembre 2017
 
-| Équipe A |  |  | Équipe B | Heure du match (UTC) | Heure locale A | Heure locale B | |
+| Équipe A | | | Équipe B | Heure du match (UTC) | Heure locale A | Heure locale B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | - |
 | Suède | ![][flag_SE] | ![][flag_JP] | Japon | **11h00 UTC** | 13h00 UTC +2 | 20h00 UTC +9 | ² |
 | Chine | ![][flag_CN] | ![][flag_FR] | France | **12h30 UTC** | 20h30 UTC +8 | 14h30 UTC +2 | ² |
@@ -67,7 +67,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 ### Dimanche 3 septembre 2017
 
-| Équipe A |  |  | Équipe B | Heure du match (UTC) | Heure locale A | Heure locale B | |
+| Équipe A | | | Équipe B | Heure du match (UTC) | Heure locale A | Heure locale B | |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | - |
 | Suède | ![][flag_SE] | ![][flag_PL] | Pologne | **12h30 UTC** | 14h30 UTC +2 | 14h30 UTC +2 | ³ |
 | Suède | ![][flag_SE] | ![][flag_ID] | Indonésie | **12h30 UTC** | 14h30 UTC +2 | 19h30 UTC +7 | ³ |
@@ -105,7 +105,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 | ![][flag_ID] | **Indonésie** | **[Fiea](https://osu.ppy.sh/users/3183277)**, [lpddemon](https://osu.ppy.sh/users/5101276), [LovelySerenade](https://osu.ppy.sh/users/5492871), [reyss](https://osu.ppy.sh/users/4557440), [RemFangirl](https://osu.ppy.sh/users/5767941), [Nixeria-sama](https://osu.ppy.sh/users/6045757) |
 | ![][flag_IT] | **Italie** | **[jutte](https://osu.ppy.sh/users/6946682)**, [Mura7797](https://osu.ppy.sh/users/3244389), [Cribob](https://osu.ppy.sh/users/8485394), [Saibel](https://osu.ppy.sh/users/2727928) |
 | ![][flag_JP] | **Japon** | **[inteliser](https://osu.ppy.sh/users/1824775)**, [PiraTom](https://osu.ppy.sh/users/1847698), [C-light](https://osu.ppy.sh/users/7955738), [_vA](https://osu.ppy.sh/users/5626441), [mach_jp](https://osu.ppy.sh/users/8679066), [iskr312](https://osu.ppy.sh/users/2885412) |
-| ![][flag_MY] | **Malaisie** |  **[Neokje](https://osu.ppy.sh/users/7727987)**, [lisw1230](https://osu.ppy.sh/users/9249305), [watarakisah](https://osu.ppy.sh/users/6237337), [kaname-san92](https://osu.ppy.sh/users/764535), [Midori Carrot](https://osu.ppy.sh/users/6308090), [HunterproX](https://osu.ppy.sh/users/1343562) |
+| ![][flag_MY] | **Malaisie** | **[Neokje](https://osu.ppy.sh/users/7727987)**, [lisw1230](https://osu.ppy.sh/users/9249305), [watarakisah](https://osu.ppy.sh/users/6237337), [kaname-san92](https://osu.ppy.sh/users/764535), [Midori Carrot](https://osu.ppy.sh/users/6308090), [HunterproX](https://osu.ppy.sh/users/1343562) |
 | ![][flag_MX] | **Mexique** | **[\_Mytros\_](https://osu.ppy.sh/users/6507028)**, [Daybreak](https://osu.ppy.sh/users/3072763), [Sida](https://osu.ppy.sh/users/6031847), [Ray271](https://osu.ppy.sh/users/9008042), [Zetscythe](https://osu.ppy.sh/users/3360499) |
 | ![][flag_NL] | **Pays-Bas** | **[mrdawn2](https://osu.ppy.sh/users/1098581)**, [2fast4you98](https://osu.ppy.sh/users/5183940), [Obligerator](https://osu.ppy.sh/users/7452877), [Boots](https://osu.ppy.sh/users/2827823), [KloKat](https://osu.ppy.sh/users/6637728), [mijkolsmith](https://osu.ppy.sh/users/4307765) |
 | ![][flag_NO] | **Norvège** | **[Staiain](https://osu.ppy.sh/users/86188)**, [Jesen](https://osu.ppy.sh/users/9000473), [Bizarrely_F4st](https://osu.ppy.sh/users/7676585), [Glass Bottle](https://osu.ppy.sh/users/4988688), [KarlF](https://osu.ppy.sh/users/3494742), [Hjeg](https://osu.ppy.sh/users/2764122) |
@@ -389,7 +389,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 | Étape | ID du match |
 | --: | :-- |
-| Huitièmes de finale |  A, B, C, D, E, F, G, H |
+| Huitièmes de finale | A, B, C, D, E, F, G, H |
 | Quarts de finale | I, J, K, L & R, S, T, U |
 | Demi-finales | M, N & V, W, X, Y, Z, AA |
 | Finales - Semaine 1 | O & AB, AC, AD, AE |

@@ -57,7 +57,7 @@ The osu!mania 7K World Cup 2017 is run by various community members by distribut
 
 ## Participants
 
-|  | Country | Members |
+| | Country | Members |
 | --: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[lxLucasxl](https://osu.ppy.sh/users/3632846)**, [Euroe](https://osu.ppy.sh/users/3633019), [Feravel](https://osu.ppy.sh/users/1276617), [aluuu](https://osu.ppy.sh/users/4585260), [pablodinakinsito](https://osu.ppy.sh/users/2052925), [wtfamidoing](https://osu.ppy.sh/users/2034976) |
 | ![][flag_AU] | **Australia** | **[Pew](https://osu.ppy.sh/users/597692)**, [sankansuki](https://osu.ppy.sh/users/2877926), [Shirinisu](https://osu.ppy.sh/users/4922584), [Evios](https://osu.ppy.sh/users/2058022), [ApocaZumbee](https://osu.ppy.sh/users/3431615), [Alchalyne](https://osu.ppy.sh/users/3999031) |
@@ -183,26 +183,26 @@ The osu!mania 7K World Cup 2017 is run by various community members by distribut
 
 ### Grand Finals
 
-| Sunday, 2017-02-12 |  |  |  |  |
+| Sunday, 2017-02-12 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **South Korea** ![][flag_KR] | **7** | 1 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/31033827) |
 
 ### Finals
 
-| Saturday, 2017-02-04 |  |  |  |  |
+| Saturday, 2017-02-04 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | United States ![][flag_US] | 2 | **6** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/30827217) |
 | China ![][flag_CN] | 0 | **6** | ![][flag_KR] **South Korea** | -win by default- |
 | Thailand ![][flag_TH] | 4 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/30830208) |
 
-| Sunday, 2017-02-05 |  |  |  |  |
+| Sunday, 2017-02-05 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **Indonesia** ![][flag_ID] | **6** | 0 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/30858348) |
 | **China** ![][flag_CN] | **6** | 0 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/30861745) |
 
 ### Semifinals
 
-| Sunday, 2017-01-29 |  |  |  |  |
+| Sunday, 2017-01-29 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Indonesia ![][flag_ID] | 0 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/30699733) |
 | Philippines ![][flag_PH] | 0 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/30701653) |
@@ -211,7 +211,7 @@ The osu!mania 7K World Cup 2017 is run by various community members by distribut
 
 ### Quarterfinals
 
-| Saturday, 2017-01-21 |  |  |  |  |
+| Saturday, 2017-01-21 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/30507247) |
 | **China** ![][flag_CN] | **5** | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/30508461) |
@@ -220,7 +220,7 @@ The osu!mania 7K World Cup 2017 is run by various community members by distribut
 
 ### Group Stage
 
-| Saturday, 2017-01-14 |  |  |  |  |
+| Saturday, 2017-01-14 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Indonesia ![][flag_ID] | 1 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/30338922) |
 | Philippines ![][flag_PH] | 0 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/30338925) |
@@ -236,7 +236,7 @@ The osu!mania 7K World Cup 2017 is run by various community members by distribut
 | Russian Federation ![][flag_RU] | 2 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/30348061) |
 | Chile ![][flag_CL] | 4 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/30350044) |
 
-| Sunday, 2017-01-15 |  |  |  |  |
+| Sunday, 2017-01-15 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Australia ![][flag_AU] | 0 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/30362455) |
 | **United States** ![][flag_US] | **5** | 1 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/30363554) |

@@ -223,13 +223,13 @@ This competition has come to an end and resulted in the following podium:
 
 Saturday, 15 February 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Hallo y caspi** | **7** | 1 | Ladrillo | [#1](https://osu.ppy.sh/community/matches/58471366) |
 
 Monday, 17 February 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **United States** | **7** | 3 | Noveno Gaston | [#1](https://osu.ppy.sh/community/matches/58530443) |
 
@@ -237,13 +237,13 @@ Monday, 17 February 2020:
 
 Friday, 7 February 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Hallo y Caspi | 3 | **6** | **United States** | [#1](https://osu.ppy.sh/community/matches/58274385) |
 
 Sunday, 9 February 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Noveno Gaston** | **6** | 4 | Ladrillo | [#1](https://osu.ppy.sh/community/matches/58333712) |
 
@@ -251,19 +251,19 @@ Sunday, 9 February 2020:
 
 Friday, 31 January 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **hallo y caspi** | **5** | 2 | Radical | [#1](https://osu.ppy.sh/community/matches/58108351) |
 
 Sunday, 2 February 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Noveno Gaston** | **0** | -1 | Geometry Dash | *win by default* |
 
 Monday, 3 February 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Ladrillo** | **5** | 4 | Orgullo Peruano | [#1](https://osu.ppy.sh/community/matches/58170771) |
 | **United States** | **5** | 2 | Empanada | [#1](https://osu.ppy.sh/community/matches/58187610) |
@@ -272,14 +272,14 @@ Monday, 3 February 2020:
 
 Saturday, 25 January 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **United States** | **5** | 4 | un equipo | [#1](https://osu.ppy.sh/community/matches/57976602) |
 | **Empanada** | **5** | 4 | Gaston Noveno | [#1](https://osu.ppy.sh/community/matches/57979635) |
 
 Sunday, 26 January 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Noveno Gaston** | **5** | 3 | Jester S Rank | [#1](https://osu.ppy.sh/community/matches/57997604) |
 | **Hallo y Caspi** | **5** | 4 | TPIOBJRANMJ FC | [#1](https://osu.ppy.sh/community/matches/58000264) |
@@ -288,7 +288,7 @@ Sunday, 26 January 2020:
 
 Monday, 27 January 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Geometry Dash** | **5** | 1 | Equipo Trece | [#1](https://osu.ppy.sh/community/matches/58006943) |
 | **Orgullo Peruano** | **5** | 2 | Rivals | [#1](https://osu.ppy.sh/community/matches/58008265) |

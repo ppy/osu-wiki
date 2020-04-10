@@ -181,14 +181,14 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
 
 ### Finals - Week 2
 
-| PlayerBlue |  |  | PlayerRed |
+| PlayerBlue | | | PlayerRed |
 | --: | :-: | :-: | :-- |
 | ByeForNow | 4 | 7 | \[Crz\]Murasame |
 | \[Crz\]Murasame | 0 | 7 | cheewee10 |
 
 ### Finals - Week 1
 
-| PlayerBlue |  |  | PlayerRed |
+| PlayerBlue | | | PlayerRed |
 | --: | :-: | :-: | :-- |
 | cheewee10 | 6 | 1 | ByeForNow |
 | Orangejuice | 0 | 0 | HDRoop_7 |
@@ -196,7 +196,7 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
 
 ### Semifinals
 
-| PlayerBlue |  |  | PlayerRed |
+| PlayerBlue | | | PlayerRed |
 | --: | :-: | :-: | :-- |
 | **CaOH2** | **6** | 1 | Sakaki |
 | Stink God | 5 | **6** | **zero2snow** |
@@ -209,7 +209,7 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
 
 ### Quarterfinals
 
-| PlayerBlue |  |  | PlayerRed |
+| PlayerBlue | | | PlayerRed |
 | --: | :-: | :-: | :-- |
 | zero2snow | 3 | **5** | **ByeForNow** |
 | Sakaki | 0 | **5** | **HDRoop\_7** |
@@ -222,7 +222,7 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
 
 ### Round of 16
 
-| PlayerBlue |  |  | PlayerRed |
+| PlayerBlue | | | PlayerRed |
 | --: | :-: | :-: | :-- |
 | **zero2snow** | **5** | 0 | alisi |
 | **ByeForNow** | **5** | 4 | CaOH2 |
@@ -235,24 +235,24 @@ The Chinese osu!mania 4K Tournament 2018 is run by various community members by 
 
 ### Group Stage
 
-| Group | Players |  |  |  |
+| Group | Players | | | |
 | :-: | :-: | :-: | :-: | :-: |
 | A | **CaOH2** | **Sakaki** | hero\_jeff | \[Crz\]MY |
-|  | **7** | **9** | -10 | -6 |
+| | **7** | **9** | -10 | -6 |
 | B | \[MY\]xRay | **HDRoop\_7** | **alisi** | murorachi |
-|  | -12 | **12** | **4** | -4 |
+| | -12 | **12** | **4** | -4 |
 | C | **\[Crz\]Murasame** | 704661982 | Pureforever | YoSa\_o |
-|  | **12** | **2** | -2 | -12 |
+| | **12** | **2** | -2 | -12 |
 | D | **cheewee10** | **w a d u** | GODsBEATs | IA daisuki |
-|  | **12** | **2** | -4 | -10 |
+| | **12** | **2** | -4 | -10 |
 | E | **\[Crz\]Minato** | PHILIPPE YMT | **yin xiaosong** | Toki 0w0 |
-|  | **12** | -3 | **2** | -11 |
+| | **12** | -3 | **2** | -11 |
 | F | **Orangejuice** | **C Eru** | Remilia\_HY | JunFish |
-|  | **4** | **11** | -3 | -12 |
+| | **4** | **11** | -3 | -12 |
 | G | **zero2snow** | **Stink God** | tangjinxi | FDXiaoQian |
-|  | **9** | **4** | -1 | -12 |
+| | **9** | **4** | -1 | -12 |
 | H | **ByeForNow** | **AradORiOn\_MMM** | PiaoD | idqoos123 |
-|  | **12** | **4** | -4 | -12 |
+| | **12** | **4** | -4 | -12 |
 
 ### Qualification Stage
 

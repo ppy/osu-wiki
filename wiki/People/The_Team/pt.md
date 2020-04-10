@@ -33,7 +33,7 @@ outdated: true
 | [Derekku](https://osu.ppy.sh/users/91341) | General housekeeping, Gerenciamento da Comunidade |
 | [Echo](https://osu.ppy.sh/users/431) ([blog](http://blog.echo.sh/)) | osu! dev team, Integração do IRC do chat in-game, Manutenção do site |
 | [Intermezzo](https://osu.ppy.sh/users/136842) | osu! dev team, osz2/p2p backend |
-| Jim ([Brand New Games](http://www.bravegamer.com/)) |  Designer original do site |
+| Jim ([Brand New Games](http://www.bravegamer.com/)) | Designer original do site |
 | [LuigiHann](https://osu.ppy.sh/users/1079) ([LuigiHann@Deviantart](http://luigihann.deviantart.com/)) | Designer de skins, Contribuições para a skin padrão e conjunto de icones |
 | [mm201](https://osu.ppy.sh/users/30655) | osu! dev team, mm sliders |
 | [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone dev |

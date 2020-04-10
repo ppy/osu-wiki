@@ -134,7 +134,7 @@ AiMod termine généralement son analyse de la beatmap en moins d'une minute et 
 
 | Message | Précisions | Solution |
 | :-- | :-- | :-- |
-| L'artiste est en conflit avec la différence {0}  | | |
+| L'artiste est en conflit avec la différence {0} | | |
 | Le fichier audio est en conflit avec la différence {0}. | | |
 | Le compte à rebours est en conflit avec la différence {0}. | | |
 | L'entrée audio est en conflit avec la différence {0}. | | |

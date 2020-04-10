@@ -236,24 +236,24 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-| Sunday, 2019-11-03 |  |  |  |  |
+| Sunday, 2019-11-03 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **Dusk** ![][flag_CN] | **7** | 1 | ![][flag_IT] Karym | [#1](https://osu.ppy.sh/community/matches/56012271) |
 
 ### Finals
 
-| Saturday, 2019-10-26 |  |  |  |  |
+| Saturday, 2019-10-26 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **Dusk** ![][flag_CN] | **7** | 0 | ![][flag_IT] Karym | -win by default- |
 | **NachoL** ![][flag_CL] | **7** | 0 | ![][flag_FR] Boros | -win by default- |
 
-| Sunday, 2019-10-27 |  |  |  |  |
+| Sunday, 2019-10-27 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **Karym** ![][flag_IT] | **7** | 3 | ![][flag_CL] NachoL | [#1](https://osu.ppy.sh/community/matches/55850620) |
 
 ### Semifinals
 
-| Saturday, 2019-10-19 |  |  |  |  |
+| Saturday, 2019-10-19 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **Dusk** ![][flag_CN] | **6** | 0 | ![][flag_PH] Roido | -win by default- |
 | **Karym** ![][flag_IT] | **6** | 5 | ![][flag_US] -Kurisu- | [#1](https://osu.ppy.sh/community/matches/55665712) |
@@ -261,13 +261,13 @@ This competition has come to an end and resulted in the following podium:
 | Cxlucha ![][flag_MX] | 2 | **6** | ![][flag_CL] **NachoL** | [#1](https://osu.ppy.sh/community/matches/55676309) |
 | -Kurisu- ![][flag_US] | 0 | **6** | ![][flag_CL] **NachoL** | [#1](https://osu.ppy.sh/community/matches/55678968) |
 
-| Sunday, 2019-10-20 |  |  |  |  |
+| Sunday, 2019-10-20 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Roido ![][flag_PH] | 0 | **6** | ![][flag_FR] **Boros** | -win by default- |
 
 ### Quarterfinals
 
-| Saturday, 2019-10-12 |  |  |  |  |
+| Saturday, 2019-10-12 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **Dusk** ![][flag_CN] | **5** | 0 | ![][flag_CL] NachoL | -win by default- |
 | **forgottentaco** ![][flag_FI] | **5** | 2 | ![][flag_AU] chickennando | [#1](https://osu.ppy.sh/community/matches/55499845) |
@@ -278,7 +278,7 @@ This competition has come to an end and resulted in the following podium:
 | -Boltic- ![][flag_PE] | 0 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/55518676) |
 | **Noulayfe** ![][flag_FR] | **5** | 3 | ![][flag_FR] Shyeart | [#1](https://osu.ppy.sh/community/matches/55520182) |
 
-| Sunday, 2019-10-13 |  |  |  |  |
+| Sunday, 2019-10-13 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **NachoL** ![][flag_CL] | **5** | 2 | ![][flag_BR] Hanik | [#1](https://osu.ppy.sh/community/matches/55524487) |
 | **forgottentaco** ![][flag_FI] | **5** | 1 | ![][flag_FR] AAAAAAAAAAAAHHH | [#1](https://osu.ppy.sh/community/matches/55539324) |
@@ -287,7 +287,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-| Saturday, 2019-10-05 |  |  |  |  |
+| Saturday, 2019-10-05 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Jemzuu ![][flag_PH] | 0 | **5** | ![][flag_FR] **Boros** | -win by default- |
 | **Roido** ![][flag_PH] | **5** | 1 | ![][flag_FI] forgottentaco | [#1](https://osu.ppy.sh/community/matches/55336840) |
@@ -297,7 +297,7 @@ This competition has come to an end and resulted in the following podium:
 | **Cxlucha** ![][flag_MX] | **5** | 4 | ![][flag_CL] lineqtxz | [#1](https://osu.ppy.sh/community/matches/55353499) |
 | Noulayfe ![][flag_FR] | 4 | **5** | ![][flag_CL] **NachoL** | [#1](https://osu.ppy.sh/community/matches/55354970) |
 
-| Sunday, 2019-10-06 |  |  |  |  |
+| Sunday, 2019-10-06 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | lineqtxz ![][flag_CL] | 2 | **5** | ![][flag_AU] **chickennando** | [#1](https://osu.ppy.sh/community/matches/55357143) |
 | Jemzuu ![][flag_PH] | 0 | **5** | ![][flag_BR] **Hanik** | -win by default- |
@@ -311,7 +311,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-| Saturday, 2019-09-28 |  |  |  |  |
+| Saturday, 2019-09-28 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Aryssiel ![][flag_CL] | 0 | **4** | ![][flag_PH] **Jemzuu** | -win by default- |
 | chickennando ![][flag_AU] | 1 | **4** | ![][flag_ID] **Galaxi** | [#1](https://osu.ppy.sh/community/matches/55160792) |
@@ -330,7 +330,7 @@ This competition has come to an end and resulted in the following podium:
 | **Shyeart** ![][flag_FR] | **4** | 0 | ![][flag_US] Kisetsunotori | -win by default- |
 | **-Kurisu-** ![][flag_US] | **4** | 0 | ![][flag_AU] KWYJIBO | [#1](https://osu.ppy.sh/community/matches/55186308) |
 
-| Sunday, 2019-09-29 |  |  |  |  |
+| Sunday, 2019-09-29 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | KWYJIBO ![][flag_AU] | 0 | **4** | ![][flag_TH] **Blackbear** | [#1](https://osu.ppy.sh/community/matches/55194369) |
 | **Saaya** ![][flag_VN] | **4** | 0 | ![][flag_RU] MeeeDBeD | -win by default- |

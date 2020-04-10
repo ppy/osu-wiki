@@ -24,9 +24,9 @@ The following content is separated into sections, indicated by section titles in
 <!-- TODO: this is missing some functional options that are leftover from very old file formats -->
 | Option | Value type | Description | Default value |
 | :-- | :-- | :-- | :-- |
-| `AudioFilename` | String | Location of the audio file relative to the current folder |  |
+| `AudioFilename` | String | Location of the audio file relative to the current folder | |
 | `AudioLeadIn` | Integer | Milliseconds of silence before the audio starts playing | 0 |
-| `AudioHash` | String | *Deprecated* |  |
+| `AudioHash` | String | *Deprecated* | |
 | `PreviewTime` | Integer | Time in milliseconds when the audio preview should start | -1 |
 | `Countdown` | Integer | Speed of the countdown before the first hit object (`0` = no countdown, `1` = normal, `2` = half, `3` = double) | 1 |
 | `SampleSet` | String | Sample set that will be used if timing points do not override it (`Normal`, `Soft`, `Drum`) | Normal |
@@ -37,7 +37,7 @@ The following content is separated into sections, indicated by section titles in
 | `UseSkinSprites` | 0 or 1 | Whether or not the storyboard can use the user's skin images | 0 |
 | `AlwaysShowPlayfield` | 0 or 1 | *Deprecated* | 0 |
 | `OverlayPosition` | String | Draw order of hit circle overlays compared to hit numbers (`NoChange` = use skin setting, `Below` = draw overlays under numbers, `Above` = draw overlays on top of numbers) | NoChange |
-| `SkinPreference` | String | Preferred skin to use during gameplay |  |
+| `SkinPreference` | String | Preferred skin to use during gameplay | |
 | `EpilepsyWarning` | 0 or 1 | Whether or not a warning about flashing colours should be shown at the beginning of the map | 0 |
 | `CountdownOffset` | Integer | Time in beats that the countdown starts before the first hit object | 0 |
 | `SpecialStyle` | 0 or 1 | Whether or not the "N+1" style key layout is used for osu!mania | 0 |

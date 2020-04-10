@@ -666,7 +666,7 @@ For example:
 | Aiko | 1 - 6 | **Alisa** | 4.2 stars |
 | Ryūta | 3 - 4 | **Yuzu** | 5.1 stars |
 | **Taikonator** | 7 - 0 | Tama | 13.37 stars |
-| Maria | No Contest | Mocha |  |
+| Maria | No Contest | Mocha | |
 ```
 
 ### Blockquotes

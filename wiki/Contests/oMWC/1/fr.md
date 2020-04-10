@@ -50,7 +50,7 @@ L'osu ! Mapping World Cup est géré par différents membres de la communauté e
 
 ## Participants
 
-|  | Pays | Membres |
+| | Pays | Membres |
 | :-: | :-: | :-- |
 | ![][flag_AU] ![][flag_NZ] | **Australia - New Zealand** | **[xLolicore-](https://osu.ppy.sh/users/4525153)**, [Flower](https://osu.ppy.sh/users/1033017), [GranDSenpai](https://osu.ppy.sh/users/3997580), [my angel yayoi](https://osu.ppy.sh/users/3878832), [Pentori](https://osu.ppy.sh/users/7452237), [Rizen](https://osu.ppy.sh/users/3056732), [sahuang](https://osu.ppy.sh/users/5318910) |
 | ![][flag_BR] | **Brazil** | **[Kuron-kun](https://osu.ppy.sh/users/2697284)**, [Ataraxia](https://osu.ppy.sh/users/4077912), [Kalindraz](https://osu.ppy.sh/users/2313166), [Seto Kousuke](https://osu.ppy.sh/users/2857314), [Tarrasky](https://osu.ppy.sh/users/4098393), [Trynna](https://osu.ppy.sh/users/2652951) |

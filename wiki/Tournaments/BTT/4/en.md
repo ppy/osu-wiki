@@ -259,42 +259,42 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-| Sunday, 2019-04-20 |  |  |  |  |
+| Sunday, 2019-04-20 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | \_demo ![][flag_PL] | 1 | **7** | ![][flag_HK] **shikuro\_re** | [#1](https://osu.ppy.sh/community/matches/51151919) |
 | **shikuro\_re** ![][flag_HK] | **7** | 0 | ![][flag_PL] \_demo | -win by default- |
 
 ### Finals
 
-| Saturday, 2019-04-06 |  |  |  |  |
+| Saturday, 2019-04-06 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **\_demo** ![][flag_PL] | **7** | 3 | ![][flag_US] LuriCookie | [#1](https://osu.ppy.sh/community/matches/50796962) |
 
-| Sunday, 2019-04-07 |  |  |  |  |
+| Sunday, 2019-04-07 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **shikuro_re** ![][flag_HK] | **7** | 1 | ![][flag_FR] Trypha | [#1](https://osu.ppy.sh/community/matches/50822741) |
 | LuriCookie ![][flag_US] | 3 | **7** | ![][flag_HK] **shikuro\_re** | [#1](https://osu.ppy.sh/community/matches/50827604) |
 
 ### Semifinals
 
-| Friday, 2019-03-29 |  |  |  |  |
+| Friday, 2019-03-29 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | TLQ\_Yoshii ![][flag_FR] | 0 | **6** | ![][flag_FR] **Trypha** | [#1](https://osu.ppy.sh/community/matches/50617119) |
 
-| Saturday, 2019-03-30 |  |  |  |  |
+| Saturday, 2019-03-30 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | LoliVoiceASMR ![][flag_ID] | 3 | **6** | ![][flag_PL] **\_demo** | [#1](https://osu.ppy.sh/community/matches/50632555) |
 | **shikuro\_re** ![][flag_HK] | **6** | 4 | ![][flag_EC] Mik3gam3r7919 | [#1](https://osu.ppy.sh/community/matches/50636709) |
 | **LuriCookie** ![][flag_US] | **6** | 4 | ![][flag_NL] MasterForcer | [#1](https://osu.ppy.sh/community/matches/50643510) |
 
-| Sunday, 2019-03-31 |  |  |  |  |
+| Sunday, 2019-03-31 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | LoliVoiceASMR ![][flag_ID] | 4 | **6** | ![][flag_FR] **Trypha** | [#1](https://osu.ppy.sh/community/matches/50662993) |
 | MasterForcer ![][flag_NL] | 0 | **6** | ![][flag_HK] **shikuro\_re** | [#1](https://osu.ppy.sh/community/matches/50665146) |
 
 ### Quarterfinals
 
-| Saturday, 2019-03-23 |  |  |  |  |
+| Saturday, 2019-03-23 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **LoliVoiceASMR** ![][flag_ID] | **5** | 1 | ![][flag_PL] Xellander | [#1](https://osu.ppy.sh/community/matches/50465903) |
 | shikuro\_re ![][flag_HK] | 4 | **5** | ![][flag_PL] **\_demo** | [#1](https://osu.ppy.sh/community/matches/50468558) |
@@ -305,7 +305,7 @@ This competition has come to an end and resulted in the following podium:
 | Sinaeb ![][flag_CA] | 2 | **5** | ![][flag_EC] **Mik3gam3r7919** | [#1](https://osu.ppy.sh/community/matches/50482981) |
 | james2998 ![][flag_US] | 0 | **5** | ![][flag_FR] **TLQ\_Yoshii** | [#1](https://osu.ppy.sh/community/matches/50484563) |
 
-| Sunday, 2019-03-24 |  |  |  |  |
+| Sunday, 2019-03-24 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Heartswimm ![][flag_FR] | 2 | **5** | ![][flag_FR] **TLQ\_Yoshii** | [#1](https://osu.ppy.sh/community/matches/50499159) |
 | **shikuro\_re** ![][flag_HK] | **5** | 0 | ![][flag_SE] Noercy | -win by default- |
@@ -314,7 +314,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-| Saturday, 2019-03-16 |  |  |  |  |
+| Saturday, 2019-03-16 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **LoliVoiceASMR** ![][flag_ID] | **4** | 0 | ![][flag_RU] \_Suzuha | -win by default- |
 | TLQ\_Yoshii ![][flag_FR] | 0 | **4** | ![][flag_HK] **shikuro\_re** | [#1](https://osu.ppy.sh/community/matches/50302619) |
@@ -325,7 +325,7 @@ This competition has come to an end and resulted in the following podium:
 | GinIkari ![][flag_DE] | 0 | **4** | ![][flag_NL] **MasterForcer** | [#1](https://osu.ppy.sh/community/matches/50315499) |
 | **TLQ\_Yoshii** ![][flag_FR] | **4** | 0 | ![][flag_EC] Reo09 | -win by default- |
 
-| Sunday, 2019-03-17 |  |  |  |  |
+| Sunday, 2019-03-17 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Neppy5000 ![][flag_AU] | 0 | **4** | ![][flag_EC] **Mik3gam3r7919** | -win by default- |
 | \[ M e a k u \] ![][flag_SE] | 2 | **4** | ![][flag_SE] **Noercy** | [#1](https://osu.ppy.sh/community/matches/50334534) |
@@ -338,7 +338,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-| Saturday, 2019-03-09 |  |  |  |  |
+| Saturday, 2019-03-09 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | soliderror ![][flag_AU] | 0 | **4** | ![][flag_DE] **GinIkari** | -win by default- |
 | **Xellander** ![][flag_PL] | **4** | 0 | ![][flag_DE] HiddenDenki | -win by default- |
@@ -356,7 +356,7 @@ This competition has come to an end and resulted in the following podium:
 | **LuriCookie** ![][flag_US] | **4** | 2 | ![][flag_US] james2998 | [#1](https://osu.ppy.sh/community/matches/50153572) |
 | **Trypha** ![][flag_FR] | **4** | 0 | ![][flag_EC] Reo09 | -win by default- |
 
-| Sunday, 2019-03-10 |  |  |  |  |
+| Sunday, 2019-03-10 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **shikuro\_re** ![][flag_HK] | **4** | 0 | ![][flag_CA] Sinaeb | [#1](https://osu.ppy.sh/community/matches/50157663) |
 | soliderror ![][flag_AU] | 0 | **4** | ![][flag_IE] **GamingHamster** | -win by default- |

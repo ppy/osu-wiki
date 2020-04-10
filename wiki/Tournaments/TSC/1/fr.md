@@ -316,13 +316,13 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 Samedi, 6 Octobre 2018:
 
-| Équipe 1 |  |  | Équipe 2 | Lien de match |
+| Équipe 1 | | | Équipe 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | **jakpat** | **7** | 5 | BabySnakes is Dumb | [#1](https://osu.ppy.sh/community/matches/46519821) |
 
 Dimanche, 7 Octobre 2018:
 
-| Équipe 1 |  |  | Équipe 2 | Lien de match |
+| Équipe 1 | | | Équipe 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | i like grosses baguettes | 3 | **7** | **jakpat** | [#1](https://osu.ppy.sh/community/matches/46533762) |
 
@@ -330,13 +330,13 @@ Dimanche, 7 Octobre 2018:
 
 Samedi, 29 Septembre 2018:
 
-| Équipe 1 |  |  | Équipe 2 | Lien de match |
+| Équipe 1 | | | Équipe 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | MIStaikon | 3 | **7** | **hello we play taiko** | [#1](https://osu.ppy.sh/community/matches/46326384) |
 
 Dimanche, 30 Septembre 2018:
 
-| Équipe 1 |  |  | Équipe 2 | Lien de match |
+| Équipe 1 | | | Équipe 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | Samurai Pizza Cats | -1 | **0** | **BabySnakes is Dumb** | *win by default* |
 | **i like grosses baguettes** | **7** | 6 | jakpat | [#1](https://osu.ppy.sh/community/matches/46359023) |
@@ -346,7 +346,7 @@ Dimanche, 30 Septembre 2018:
 
 Samedi, 22 Septembre 2018:
 
-| Équipe 1 |  |  | Équipe 2 | Lien de match |
+| Équipe 1 | | | Équipe 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | pneumonoultramicroscopicsilicovolcanoconiosis | 0 | **6** | **Hentaiko** | [#1](https://osu.ppy.sh/community/matches/46143098) |
 | **♂ Drum ♂ Spanking ♂ Festival ♂** | **6** | 2 | The Tasuke Train | [#1](https://osu.ppy.sh/community/matches/46151551) |
@@ -354,7 +354,7 @@ Samedi, 22 Septembre 2018:
 
 Dimanche, 23 Septembre 2018:
 
-| Équipe 1 |  |  | Équipe 2 | Lien de match |
+| Équipe 1 | | | Équipe 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | Pißwasser | 1 | **6** | **BabySnakes is Dumb** | [#1](https://osu.ppy.sh/community/matches/46174499) |
 | Foda-se | 0 | **6** | **hello we play taiko** | [#1](https://osu.ppy.sh/community/matches/46176869) |
@@ -366,7 +366,7 @@ Dimanche, 23 Septembre 2018:
 
 Samedi, 15 Septembre 2018:
 
-| Équipe 1 |  |  | Équipe 2 | Lien de match |
+| Équipe 1 | | | Équipe 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | **Nihongo Wakaranai** | **6** | 4 | Magnolia | [#1](https://osu.ppy.sh/community/matches/45971075) |
 | Low Accuracy SS | 5 | **6** | **The Tasuke Train** | [#1](https://osu.ppy.sh/community/matches/45972388) |
@@ -380,7 +380,7 @@ Samedi, 15 Septembre 2018:
 
 Dimanche, 16 Septembre 2018:
 
-| Équipe 1 |  |  | Équipe 2 | Lien de match |
+| Équipe 1 | | | Équipe 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | **BabySnakes is Dumb** | **6** | 5 | TaikOwO | [#1](https://osu.ppy.sh/community/matches/45996362) |
 | pneumonoultramicroscopicsilicovolcanoconiosis | 0 | **6** | **Samurai Pizza Cats** | [#1](https://osu.ppy.sh/community/matches/46001430) |
@@ -394,7 +394,7 @@ Dimanche, 16 Septembre 2018:
 
 Samedi, 8 Septembre 2018:
 
-| Équipe 1 |  |  | Équipe 2 | Lien de match |
+| Équipe 1 | | | Équipe 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | Taco Monsters | 0 | **5** | **Press F for Ayachi** | [#1](https://osu.ppy.sh/community/matches/45781089) |
 | **MIStaikon** | **5** | 3 | not a taiko team xd | [#1](https://osu.ppy.sh/community/matches/45791945) |
@@ -404,7 +404,7 @@ Samedi, 8 Septembre 2018:
 
 Dimanche, 9 September 2018:
 
-| Équipe 1 |  |  | Équipe 2 | Lien de match |
+| Équipe 1 | | | Équipe 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | :) | -1 | **0** | **DON'T KAT** | *win by default* |
 | Nihongo Wakaranai | 2 | **5** | **Samurai Pizza Cats** | [#1](https://osu.ppy.sh/community/matches/45827234) |
@@ -422,13 +422,13 @@ Dimanche, 9 September 2018:
 
 Vendredi, 31 Août 2018:
 
-| Équipe 1 |  |  | Équipe 2 | Lien de match |
+| Équipe 1 | | | Équipe 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | Press F for Ayachi | 3 | **5** | **Ooyama Shota** | [#1](https://osu.ppy.sh/community/matches/45591544) |
 
 Samedi, 1 Septembre 2018:
 
-| Équipe 1 |  |  | Équipe 2 | Lien de match |
+| Équipe 1 | | | Équipe 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | Magnolia | 2 | **5** | **MIStaikon** | [#1](https://osu.ppy.sh/community/matches/45603361) |
 | ERROR 404: Team Name Not Found | 3 | **5** | **Samurai Pizza Cats** | [#1](https://osu.ppy.sh/community/matches/45606910) |
@@ -439,7 +439,7 @@ Samedi, 1 Septembre 2018:
 
 Dimanche, 2 Septembre 2018:
 
-| Équipe 1 |  |  | Équipe 2 | Lien de match |
+| Équipe 1 | | | Équipe 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | **Nihongo Wakaranai** | **5** | 4 | Fun Assurance Team | [#1](https://osu.ppy.sh/community/matches/45627499) |
 | Taco Monsters | 0 | **5** | **Foda-se** | [#1](https://osu.ppy.sh/community/matches/45627625) |

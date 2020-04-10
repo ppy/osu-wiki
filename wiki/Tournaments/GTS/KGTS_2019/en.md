@@ -145,7 +145,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Week 2
 
-| Saturday, 2019-10-12 |  |  |  |  |
+| Saturday, 2019-10-12 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **AlvaroYL** ![][flag_ES] | **6** | 2 | ![][flag_TW] seanhappy8520 | [#1](https://osu.ppy.sh/community/matches/55499753) |
 | **Maitgon** ![][flag_ES] | **6** | 0 | ![][flag_BR] Foxeru | [#1](https://osu.ppy.sh/community/matches/55503556) |
@@ -154,7 +154,7 @@ This competition has come to an end and resulted in the following podium:
 | cheese salad ![][flag_US] | 0 | **4** | ![][flag_ES] **AlvaroYL** | -win by default- |
 | Foxeru ![][flag_BR] | 0 | **4** | ![][flag_CA] **janitoreihil** | -win by default- |
 
-| Sunday, 2019-10-13 |  |  |  |  |
+| Sunday, 2019-10-13 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | AlvaroYL ![][flag_ES] | 3 | **7** | ![][flag_CA] **janitoreihil** | [#1](https://osu.ppy.sh/community/matches/55534955) |
 | **Ikkun** ![][flag_IT] | **7** | 4 | ![][flag_ES] Maitgon | [#1](https://osu.ppy.sh/community/matches/55537726) |
@@ -164,7 +164,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Week 1
 
-| Saturday, 2019-10-05 |  |  |  |  |
+| Saturday, 2019-10-05 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **janitoreihil** ![][flag_CA] | **4** | 0 | ![][flag_JP] Saikoro | [#1](https://osu.ppy.sh/community/matches/55327557) |
 | **Ikkun** ![][flag_IT] | **4** | 0 | ![][flag_MY] imnoobatosuosu | [#1](https://osu.ppy.sh/community/matches/55334605) |
@@ -180,7 +180,7 @@ This competition has come to an end and resulted in the following podium:
 | **AlvaroYL** ![][flag_ES] | **4** | 1 | ![][flag_BR] Skull Kid | [#1](https://osu.ppy.sh/community/matches/55347205) |
 | **Skull Kid** ![][flag_BR] | **4** | 0 | ![][flag_FR] maximaxiU | [#1](https://osu.ppy.sh/community/matches/55351516) |
 
-| Sunday, 2019-10-06 |  |  |  |  |
+| Sunday, 2019-10-06 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Kyoumo ![][flag_BR] | 2 | **4** | ![][flag_JP] **Saikoro** | [#1](https://osu.ppy.sh/community/matches/55358888) |
 | **cheese salad** ![][flag_US] | **4** | 3 | ![][flag_CA] janitoreihil | [#1](https://osu.ppy.sh/community/matches/55359856) |

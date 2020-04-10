@@ -56,7 +56,7 @@ The Intermediate Global Taiko Showdown 2018 is run by various osu!taiko communit
 
 ## Participants
 
-|  | Country | Members |
+| | Country | Members |
 | :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[un-plugged](https://osu.ppy.sh/users/8959673)**, [Kliu](https://osu.ppy.sh/users/7409391) |
 | ![][flag_AU] | **Australia** | **[mhyykl](https://osu.ppy.sh/users/7012650)**, [Zuikaku](https://osu.ppy.sh/users/4180857), [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), [Spearmint](https://osu.ppy.sh/users/5199710) |
@@ -261,29 +261,29 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-| Saturday, 2018-09-15 |  |  |  |  |
+| Saturday, 2018-09-15 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **Malaysia** ![][flag_MY] | **7** | 2 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/45981007) |
 
-| Sunday, 2018-09-16 |  |  |  |  |
+| Sunday, 2018-09-16 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Netherlands ![][flag_NL] | 0 | **7** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/46004124) |
 | **Malaysia** ![][flag_MY] | **7** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/46005358) |
 
 ### Finals
 
-| Saturday, 2018-09-08 |  |  |  |  |
+| Saturday, 2018-09-08 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Malaysia ![][flag_MY] | 1 | **6** | ![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/45826179) |
 | **United States** ![][flag_US] | **6** | 3 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/45811926) |
 
 ### Semifinals
 
-| Saturday, 2018-09-01 |  |  |  |  |
+| Saturday, 2018-09-01 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Japan ![][flag_JP] | 2 | **5** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/45601494) |
 
-| Sunday, 2018-09-02 |  |  |  |  |
+| Sunday, 2018-09-02 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Germany ![][flag_DE] | 4 | **5** | ![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/45616018) |
 | Canada ![][flag_CA] | 3 | **5** | ![][flag_EC] **Ecuador** | [#1](https://osu.ppy.sh/community/matches/45626417) |
@@ -293,18 +293,18 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-| Friday, 2018-08-24 |  |  |  |  |
+| Friday, 2018-08-24 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **Netherlands** ![][flag_NL] | **5** | 0 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/45369844) |
 
-| Saturday, 2018-08-25 |  |  |  |  |
+| Saturday, 2018-08-25 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **Japan** ![][flag_JP] | **5** | 2 | ![][flag_EC] Ecuador | [#1](https://osu.ppy.sh/community/matches/45385434) |
 | Russia ![][flag_RU] | 2 | **5** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/45392371) |
 | **Germany** ![][flag_DE] | **5** | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/45397375) |
 | Singapore ![][flag_SG] | 1 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/45402951) |
 
-| Sunday, 2018-08-26 |  |  |  |  |
+| Sunday, 2018-08-26 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | France ![][flag_FR] | 2 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/45434990) |
 | Russia ![][flag_RU] | 1 | **5** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/45431679) |
@@ -312,7 +312,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 1 (Lower Bracket)
 
-| Saturday, 2018-08-18 |  |  |  |  |
+| Saturday, 2018-08-18 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **United States** ![][flag_US] | **5** | 0 | ![][flag_HK] Hong Kong | -win by default- |
 | Indonesia ![][flag_ID] | 2 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/45187249) |
@@ -321,7 +321,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-| Group | Saturday, 2018-08-04 |  |  |  |  |
+| Group | Saturday, 2018-08-04 | | | | |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | C | Portugal ![][flag_PT] | 2 | **4** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/44759949) |
 | C | **Russia** ![][flag_RU] | **4** | 1 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/44760724) |
@@ -331,7 +331,7 @@ This competition has come to an end and resulted in the following podium:
 | A | **United States** ![][flag_US] | **4** | 1 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/44768946) |
 | B | **Germany** ![][flag_DE] | **4** | 0 | ![][flag_VE] Venezuela | -win by default- |
 
-| Group | Sunday, 2018-08-05 |  |  |  |  |
+| Group | Sunday, 2018-08-05 | | | | |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | B | **Ecuador** ![][flag_EC] | **4** | 0 | ![][flag_HK] Hong Kong | -win by default- |
 | A | Argentina ![][flag_AR] | 1 | **4** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/44784450) |
@@ -347,7 +347,7 @@ This competition has come to an end and resulted in the following podium:
 | B | **Chile** ![][flag_CL] | **4** | 0 | ![][flag_CR] Costa Rica | -win by default- |
 | B | Ecuador ![][flag_EC] | 0 | **4** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/44803677) |
 
-| Group | Saturday, 2018-08-11 |  |  |  |  |
+| Group | Saturday, 2018-08-11 | | | | |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | A | United States ![][flag_US] | 0 | **4** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/44956962) |
 | A | **United States** ![][flag_US] | **4** | 3 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/44957651) |
@@ -358,7 +358,7 @@ This competition has come to an end and resulted in the following podium:
 | A | United States ![][flag_US] | 2 | **4** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/44978315) |
 | B | **Ecuador** ![][flag_EC] | **4** | 0 | ![][flag_VE] Venezuela | -win by default- |
 
-| Group | Sunday, 2018-08-12 |  |  |  |  |
+| Group | Sunday, 2018-08-12 | | | | |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | B | Hong Kong ![][flag_HK] | 0 | 0 | ![][flag_VE] Venezuela | -lose by default- |
 | C | **Singapore** ![][flag_SG] | **4** | 1 | ![][flag_CO] Colombia | [#1](https://osu.ppy.sh/community/matches/44992938) |

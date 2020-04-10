@@ -54,7 +54,7 @@ The osu! Catch the Beat World Cup 2013 was run by various community members by d
 
 ## Participants
 
-|  | Country | Members |
+| | Country | Members |
 | --: | :-: | :-- |
 | ![][flag_AR] ![][flag_CO] | **Argentina/Colombia** | **VelperK**, NightWar, k4mm3r, LZJKE |
 | ![][flag_AT] | **Austria** | **Stefan**, Winkekatze, coldsoup, Stafy |
@@ -277,53 +277,53 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-| Friday, 2013-03-08 |  |  |  |
+| Friday, 2013-03-08 | | | |
 | --: | :-: | :-: | :-- |
 | Chile A ![][flag_CL] | **6** | 2 | ![][flag_TW] Taiwan A |
 
-| Saturday, 2013-03-09 |  |  |  |
+| Saturday, 2013-03-09 | | | |
 | --: | :-: | :-: | :-- |
 | **Argentina/Colombia** ![][flag_AR] ![][flag_CO] | **6** | 1 | ![][flag_FI] Finland |
 
 ### Semifinals
 
-| Saturday, 2013-03-02 |  |  |  |
+| Saturday, 2013-03-02 | | | |
 | --: | :-: | :-: | :-- |
 | Argentina/Colombia ![][flag_AR] ![][flag_CO] | 3 | **5** | ![][flag_CL] **Chile A**
 
-| Sunday, 2013-03-03 |  |  |  |
+| Sunday, 2013-03-03 | | | |
 | --: | :-: | :-: | :-- |
 | Finland ![][flag_FI] | 1 | **5** | ![][flag_TW] **Taiwan A** |
 
 ### Quarterfinals
 
-| Saturday, 2013-03-23 |  |  |  |
+| Saturday, 2013-03-23 | | | |
 | --: | :-: | :-: | :-- |
 | South Korea ![][flag_KR] | 2 | **4** | ![][flag_TW] Taiwan A |
 | Russian Federation/Ukraine ![][flag_RU] ![][flag_UA] | 0 | **4** | ![][flag_CL] **Chile A** |
 
-| Sunday, 2013-03-24 |  |  |  |
+| Sunday, 2013-03-24 | | | |
 | --: | :-: | :-: | :-- |
 | China ![][flag_CN] | 2 | **4** | ![][flag_AR] ![][flag_CO] Argentina/Colombia |
 | Germany A ![][flag_DE] | 2 | **4** | ![][flag_FI] **Finland** |
 
 ### Round of 16
 
-| Friday, 2013-03-15 |  |  |  |
+| Friday, 2013-03-15 | | | |
 | --: | :-: | :-: | :-- |
 | **South Korea** ![][flag_KR] | **4** | 0 | ![][flag_HK] Hong Kong |
 
-| Saturday, 2013-03-16 |  |  |  |
+| Saturday, 2013-03-16 | | | |
 | --: | :-: | :-: | :-- |
 | **Germany A** ![][flag_DE] | **4** | 3 | ![][flag_CA] Canada A |
 
-| Sunday, 2013-03-17 |  |  |  |
+| Sunday, 2013-03-17 | | | |
 | --: | :-: | :-: | :-- |
 | United States ![][flag_US] | 0 | 4 | ![][flag_CL] Chile A |
 | **Taiwan A** ![][flag_TW] | **4** | 1 | ![][flag_TW] Taiwan B |
 | **Russian Federation/Ukraine** ![][flag_RU] ![][flag_UA] | **4** | 1 | ![][flag_TH] Thailand |
 
-| Monday, 2013-03-18 |  |  |  |
+| Monday, 2013-03-18 | | | |
 | --: | :-: | :-: | :-- |
 | **Argentina/Colombia** ![][flag_AR] ![][flag_CO] | **4** | 3 | ![][flag_IT] Italy A |
 

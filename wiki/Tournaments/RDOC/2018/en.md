@@ -258,13 +258,13 @@ This competition has come to an end and resulted in the following podium:
 
 Saturday, 2018-10-27:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | LB | **Spork Lover** ![][flag_DK] | **7** | 4 | ![][flag_DK] raser1234 |
 
 Sunday, 2018-10-28:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | **Spork Lover** ![][flag_DK] | **7** | 5 | ![][flag_DK] Cerkie |
 | UB | Cerkie ![][flag_DK] | 2 | **7** | ![][flag_DK] **Spork Lover** |
@@ -273,14 +273,14 @@ Sunday, 2018-10-28:
 
 Saturday, 2018-10-20:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | LB | **Spork Lover** ![][flag_DK] | **6** | 3 | ![][flag_DK] Vandabe |
 | LB | Space Potato ![][flag_DK] | 0 | **6** | ![][flag_DK] **Telomere** |
 
 Sunday, 2018-10-21:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | LB | **Spork Lover** ![][flag_DK] | **6** | 4 | ![][flag_DK] Telomere |
 | UB | raser1234 ![][flag_DK] | 0 | **6** | ![][flag_DK] **Cerkie** |
@@ -289,25 +289,25 @@ Sunday, 2018-10-21:
 
 Wednesday, 2018-10-10:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | LB | **Telomere** ![][flag_DK] | **6** | 0 | ![][flag_DK] Katachi |
 
 Thursday, 2018-10-11:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | LB | **My Aim Zogs** ![][flag_DK] | **6** | 1 | ![][flag_DK] eLLezH |
 
 Friday, 2018-10-12:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | Space Potato ![][flag_DK] | 1 | **6** | ![][flag_DK] **raser1234** |
 
 Saturday, 2018-10-13:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | **Cerkie** ![][flag_DK] | **6** | 2 | ![][flag_DK] Spork Lover |
 | LB | **Vandabe** ![][flag_DK] | **6** | 0 | ![][flag_DK] Pallerik |
@@ -315,7 +315,7 @@ Saturday, 2018-10-13:
 
 Sunday, 2018-10-14:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | LB | My Aim Zogs ![][flag_DK] | 4 | **6** | ![][flag_DK] **Vandabe** |
 | LB | waefwerf ![][flag_DK] | 3 | **6** | ![][flag_DK] **Telomere** |
@@ -324,13 +324,13 @@ Sunday, 2018-10-14:
 
 Thursday, 2018-10-04:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | LB | **waefwerf** ![][flag_DK] | **6** | 0 | ![][flag_DK] Contaminate |
 
 Saturday, 2018-10-06:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | My Aim Zogs ![][flag_DK] | 0 | **6** | ![][flag_DK] **Space Potato** |
 | UB | Vandabe ![][flag_DK] | 1 | **6** | ![][flag_DK] **raser1234** |
@@ -338,7 +338,7 @@ Saturday, 2018-10-06:
 
 Sunday, 2018-10-07:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | **Cerkie** ![][flag_DK] | **6** | 3 | ![][flag_DK] Telomere |
 | LB | Boje ![][flag_DK] | 5 | **6** | ![][flag_DK] **Pallerik** |
@@ -349,7 +349,7 @@ Sunday, 2018-10-07:
 
 Saturday, 2018-09-29:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | **Space Potato** ![][flag_DK] | **5** | 2 | ![][flag_DK] waefwerf |
 | UB | **My Aim Zogs** ![][flag_DK] | **5** | 0 | ![][flag_DK] Contaminate |
@@ -358,7 +358,7 @@ Saturday, 2018-09-29:
 
 Sunday, 2018-09-30:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | Boje ![][flag_DK] | 1 | **5** | ![][flag_DK] **Telomere** |
 | UB | eLLezH ![][flag_DK] | 1 | **5** | ![][flag_DK] **Spork Lover** |
@@ -369,7 +369,7 @@ Sunday, 2018-09-30:
 
 Saturday, 2018-09-15:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | A | **Boje** ![][flag_DK] | **4** | 0 | ![][flag_DK] ZestorTK |
 | A | **Space Potato** ![][flag_DK] | **4** | 0 | ![][flag_DK] ZestorTK |
@@ -388,7 +388,7 @@ Saturday, 2018-09-15:
 
 Sunday, 2018-09-16:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | G | **RipG** ![][flag_DK] | **4** | 3 | ![][flag_DK] Power Supply |
 | G | **raser1234** ![][flag_DK] | **4** | 0 | ![][flag_DK] RipG |
@@ -408,7 +408,7 @@ Sunday, 2018-09-16:
 
 Saturday, 2018-09-22:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | B | **waefwerf** ![][flag_DK] | **4** | 0 | ![][flag_DK] \_Alex |
 | C | Pallerik ![][flag_DK] | 0 | **4** | ![][flag_DK] **My Aim Zogs** |
@@ -420,7 +420,7 @@ Saturday, 2018-09-22:
 
 Sunday, 2018-09-23:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | B | **Syncopate** ![][flag_DK] | **4** | 0 | ![][flag_DK] \_Alex |
 | E | **Vandabe** ![][flag_DK] | **4** | 0 | ![][flag_DK] Kinety |

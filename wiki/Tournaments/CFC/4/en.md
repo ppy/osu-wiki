@@ -198,7 +198,7 @@ This competition has come to an end and resulted in the following podium:
 
 Saturday, 27 April 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Noulayfe ![][flag_FR] | 1 | **7** | ![][flag_FR] **Alostis** | [#1](https://osu.ppy.sh/community/matches/51332651) |
 | **-Ken** ![][flag_TN] | **7** | 0 | ![][flag_FR] Sounny | *win by default* |
@@ -206,7 +206,7 @@ Saturday, 27 April 2019:
 
 Sunday, 28 April 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Alostis** ![][flag_FR] | **7** | 5 | ![][flag_TN] -Ken | [#1](https://osu.ppy.sh/community/matches/51363253) |
 
@@ -214,20 +214,20 @@ Sunday, 28 April 2019:
 
 Saturday, 20 April 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Tbotas ![][flag_FR] | 1 | **6** | ![][flag_FR] **Noulayfe** | [#1](https://osu.ppy.sh/community/matches/51155796) |
 | **Alostis** ![][flag_FR] | **6** | 0 | ![][flag_FR] Boros | [#1](https://osu.ppy.sh/community/matches/51154360) |
 
 Sunday, 21 April 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Tbotas ![][flag_FR] | 0 | **6** | ![][flag_FR] **Sounny** | *win by default* |
 
 Tuesday, 23 April 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Boros** ![][flag_FR] | **6** | 3 | ![][flag_TN] -Ken | [#1](https://osu.ppy.sh/community/matches/51234133) |
 
@@ -235,7 +235,7 @@ Tuesday, 23 April 2019:
 
 Saturday, 6 April 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Tbotas** ![][flag_FR] | **5** | 0 | ![][flag_FR] Holloh | [#1](https://osu.ppy.sh/community/matches/50793781) |
 | AAAAAAAAAAAAHHH ![][flag_FR] | 2 | **5** | ![][flag_FR] **Boros** | [#1](https://osu.ppy.sh/community/matches/50797019) |
@@ -243,7 +243,7 @@ Saturday, 6 April 2019:
 
 Sunday, 7 April 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Holloh ![][flag_FR] | 1 | **5** | ![][flag_TN] **-Ken** | [#1](https://osu.ppy.sh/community/matches/50826612) |
 | Sounny ![][flag_RE] | 0 | **5** | ![][flag_FR] **Alostis** | *win by default* |
@@ -253,7 +253,7 @@ Sunday, 7 April 2019:
 
 Saturday, 30 March 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | YANOO123 ![][flag_FR] | 0 | **3** | ![][flag_RE] **Sounny** | [#1](https://osu.ppy.sh/community/matches/50634173) |
 | YANOO123 ![][flag_FR] | 0 | **3** | ![][flag_FR] **Tbotas** | [#1](https://osu.ppy.sh/community/matches/50634799) |
@@ -270,7 +270,7 @@ Saturday, 30 March 2019:
 
 Sunday, 31 March 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Noulayfe** ![][flag_FR] | **3** | 2 | ![][flag_FR] Julo | [#1](https://osu.ppy.sh/community/matches/50662396) |
 | **Boros** ![][flag_FR] | **3** | 1 | ![][flag_FR] Noulayfe | [#1](https://osu.ppy.sh/community/matches/50663325) |

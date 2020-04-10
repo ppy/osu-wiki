@@ -254,14 +254,14 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 
 #### Grand Finals
 
-| Player 1 |  |  | Player 2 | Notes |
+| Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
 | **Darin on osu** ![][flag_US] | **1** | 0 | ![][flag_US] Kenny | Forfeit (left early) |
 | **Mathyu** ![][flag_US] | **7** | 1 | ![][flag_US] Darin on osu | [Multiplayer match](https://osu.ppy.sh/community/matches/49192152) |
 
 #### Finals
 
-| Player 1 |  |  | Player 2 | Notes |
+| Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
 | **R Y A N** ![][flag_US] | **6** | 1 | ![][flag_US] Riku on osu | [Multiplayer match](https://osu.ppy.sh/community/matches/49191321) |
 | **Kenny** ![][flag_US] | **6** | 4 | ![][flag_US] clayton | [Multiplayer match](https://osu.ppy.sh/community/matches/49191330) |
@@ -270,7 +270,7 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 
 #### Semifinals
 
-| Player 1 |  |  | Player 2 | Notes |
+| Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
 | J_8579 ![][flag_US] | 0 | **4** | ![][flag_US] **GiraffeMidget** | [Multiplayer match](https://osu.ppy.sh/community/matches/49190507) |
 | **Riku on osu** ![][flag_US] | **4** | 0 | ![][flag_US] andrew22r | [Multiplayer match](https://osu.ppy.sh/community/matches/49190193) |
@@ -283,7 +283,7 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 
 #### Quarterfinals
 
-| Player 1 |  |  | Player 2 | Notes |
+| Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
 | **andrew22r** ![][flag_US] | **3** | 0 | ![][flag_US] MyAngelNeptune | [Multiplayer match](https://osu.ppy.sh/community/matches/49189563) |
 | MaidenofSorrow ![][flag_US] | 0 | **4** | ![][flag_US] **Ikeda Chizuru** | <!-- match link lost --> |
@@ -294,7 +294,7 @@ The Most Amazing LAN Ever was run by various osu! community members at UCR.
 
 #### Round of 16
 
-| Player 1 |  |  | Player 2 | Notes |
+| Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
 | GiraffeMidget ![][flag_US] | 0 | **4** | ![][flag_US] **death grips** | <!-- match link lost --> |
 | **R Y A N** ![][flag_US] | **4** | 0 | ![][flag_US] andrew22r | <!-- match link lost --> |
@@ -308,13 +308,13 @@ The bracket was cut off early due to time concerns, so later matches switched to
 
 #### Finals
 
-| Player 1 |  |  | Player 2 |
+| Player 1 | | | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Zushen** ![][flag_US] | **4** | 0 | ![][flag_US] Ecal | <!-- match link lost -->
 
 #### Losers bracket (not used)
 
-| Player 1 |  |  | Player 2 | Notes |
+| Player 1 | | | Player 2 | Notes |
 | --: | :-: | :-: | :-- | :-- |
 | **Ouchiee** ![][flag_US] | **1** | 0 | ![][flag_US] Riku on osu | Forfeit |
 | **Giraffle** ![][flag_US] | **3** | 2 | ![][flag_US] MintyYumi | <!-- match link lost --> |
@@ -322,7 +322,7 @@ The bracket was cut off early due to time concerns, so later matches switched to
 
 #### Round of 6
 
-| Player 1 |  |  | Player 2 |
+| Player 1 | | | Player 2 |
 | --: | :-: | :-: | :-- |
 | **Giraffle** ![][flag_US] | **3** | 0 | ![][flag_US] Riku on osu | <!-- match link lost -->
 | **Ouchiee** ![][flag_US] | **3** | 0 | ![][flag_US] MintyYumi | <!-- match link lost -->

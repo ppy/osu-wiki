@@ -33,7 +33,7 @@ outdated: true
 | [Derekku](https://osu.ppy.sh/users/91341) | Genel housekeeping, Topluluk yönetimi |
 | [Echo](https://osu.ppy.sh/users/431) ([blog](http://blog.echo.sh/)) | osu! geliştirici takımı, Oyun içi sohbetin IRC entegrasyonu, Site bakımı |
 | [Intermezzo](https://osu.ppy.sh/users/136842) | osu! geliştirici takımı, osz2/p2p backend |
-| Jim ([Brand New Games](http://www.bravegamer.com/)) |  Orijinal site tasarımı |
+| Jim ([Brand New Games](http://www.bravegamer.com/)) | Orijinal site tasarımı |
 | [LuigiHann](https://osu.ppy.sh/users/1079) ([LuigiHann@Deviantart](https://luigihann.deviantart.com/)) | Epik skin tasarımı, Varsayılan skin ve ikon setine katkılar |
 | [mm201](https://osu.ppy.sh/users/30655) | osu! dev team, mm sliderları |
 | [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone geliştiricisi |

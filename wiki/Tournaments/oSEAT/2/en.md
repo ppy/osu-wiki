@@ -286,7 +286,7 @@ This competition has come to an end and resulted in the following podium:
 
 Sunday, 27 January 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | GSBlank ![][flag_SG] | 2 | **8** | ![][flag_ID] **Skydiver** | [#1](https://osu.ppy.sh/community/matches/49167390) |
 
@@ -294,19 +294,19 @@ Sunday, 27 January 2019:
 
 Friday, 18 January 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Crezz ![][flag_ID] | 1 | **7** | ![][flag_SG] **GSBlank** | [#1](https://osu.ppy.sh/community/matches/48940594) |
 
 Saturday, 19 January 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Raindrop** ![][flag_SG] | **7** | 6 | ![][flag_SG] SeeL | [#1](https://osu.ppy.sh/community/matches/48967140) |
 
 Sunday, 20 January 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **SeeL** ![][flag_SG] | **7** | 4 | ![][flag_ID] Crezz | [#1](https://osu.ppy.sh/community/matches/48994166) |
 | Rexeez ![][flag_ID] | 4 | **7** | ![][flag_ID] **Skydiver** | [#1](https://osu.ppy.sh/community/matches/48995392) |
@@ -316,7 +316,7 @@ Sunday, 20 January 2019:
 
 Friday, 11 January 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | ShaneLiang ![][flag_MY] | 0 | **7** | ![][flag_MY] **TequilaWolf** | *win by default* |
 | MioMilo ![][flag_PH] | 4 | **7** | ![][flag_SG] **GSBlank** | [#1](https://osu.ppy.sh/community/matches/48769481) |
@@ -324,13 +324,13 @@ Friday, 11 January 2019:
 
 Saturday, 12 January 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **SeeL** ![][flag_SG] | **7** | 6 | ![][flag_SG] M4-K1 | [#1](https://osu.ppy.sh/community/matches/48801520) |
 
 Sunday, 13 January 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Crezz ![][flag_ID] | 1 | **7** | ![][flag_ID] **Skydiver** | [#1](https://osu.ppy.sh/community/matches/48822893) |
 | **SeeL** ![][flag_SG] | **7** | 6 | ![][flag_MY] wuhua | [#1](https://osu.ppy.sh/community/matches/48824654) |
@@ -341,7 +341,7 @@ Sunday, 13 January 2019:
 
 Friday, 4 January 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **M4-K1** ![][flag_SG] | **6** | 3 | ![][flag_SG] woahsia | [#1](https://osu.ppy.sh/community/matches/48604448) |
 | SeeL ![][flag_SG] | 5 | **6** | ![][flag_ID] **Crezz** | [#1](https://osu.ppy.sh/community/matches/48606911) |
@@ -351,7 +351,7 @@ Friday, 4 January 2019:
 
 Saturday, 5 January 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | san-lotso ![][flag_TH] | 0 | **6** | ![][flag_SG] **Lunarsol** | *win by default* |
 | dunois ![][flag_CA] | 0 | **6** | ![][flag_MY] **Zygody** | *win by default* |
@@ -363,7 +363,7 @@ Saturday, 5 January 2019:
 
 Sunday, 6 January 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Skydiver** ![][flag_ID] | **6** | 2 | ![][flag_MY] wuhua | [#1](https://osu.ppy.sh/community/matches/48656093) |
 | **TequilaWolf** ![][flag_MY] | **6** | 5 | ![][flag_SG] Demonical | [#1](https://osu.ppy.sh/community/matches/48659324) |
@@ -371,7 +371,7 @@ Sunday, 6 January 2019:
 
 Monday, 7 January 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Zygody ![][flag_MY] | 0 | **6** | ![][flag_SG] **M4-K1** | [#1](https://osu.ppy.sh/community/matches/48684949) |
 
@@ -379,19 +379,19 @@ Monday, 7 January 2019:
 
 Wednesday, 26 December 2018:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **UnitedNovel** ![][flag_VN] | **6** | 1 | ![][flag_VN] Mayukaki | [#1](https://osu.ppy.sh/community/matches/48381333) |
 
 Thursday, 27 December 2018:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | UltimaticCatz ![][flag_TH] | 1 | **6** | ![][flag_ID] **-Reuto-** | [#1](https://osu.ppy.sh/community/matches/48402325) |
 
 Friday, 28 December 2018:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Dcyte ![][flag_TH] | 0 | **6** | ![][flag_ID] **phizh** | *win by default* |
 | **Shironi** ![][flag_VN] | **6** | 2 | ![][flag_MY] Agagak | [#1](https://osu.ppy.sh/community/matches/48430991) |
@@ -401,7 +401,7 @@ Friday, 28 December 2018:
 
 Saturday, 29 December 2018:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **wuhua** ![][flag_MY] | **6** | 1 | ![][flag_MY] TequilaWolf | [#1](https://osu.ppy.sh/community/matches/48453888) |
 | **haruchi** ![][flag_MY] | **6** | 1 | ![][flag_MY] squidstain | [#1](https://osu.ppy.sh/community/matches/48454378) |
@@ -420,7 +420,7 @@ Saturday, 29 December 2018:
 
 Sunday, 30 December 2018:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Applause** ![][flag_TH] | **6** | 2 | ![][flag_MY] Computer Badger | [#1](https://osu.ppy.sh/community/matches/48485016) |
 | **Zygody** ![][flag_MY] | **6** | 5 | ![][flag_MY] haruchi | [#1](https://osu.ppy.sh/community/matches/48485071) |
@@ -433,19 +433,19 @@ Sunday, 30 December 2018:
 
 Monday, 31 December 2018:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Demonical** ![][flag_SG] | **6** | 1 | ![][flag_ID] -Reuto- | [#1](https://osu.ppy.sh/community/matches/48513392) |
 
 Tuesday, 1 January 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | M4-K1 ![][flag_SG] | 1 | **6** | ![][flag_ID] **Rexeez** | [#1](https://osu.ppy.sh/community/matches/48537518) |
 
 Wednesday, 2 January 2019:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | dunois ![][flag_CA] | 0 | **6** | ![][flag_PH] **MioMilo** | *win by default* |
 
@@ -453,14 +453,14 @@ Wednesday, 2 January 2019:
 
 Wednesday, 19 December 2018:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Raindrop** ![][flag_SG] | **6** | 3 | ![][flag_SG] Loslite | [#1](https://osu.ppy.sh/community/matches/48202764) |
 | yumesaki-hikari ![][flag_MY] | 2 | **6** | ![][flag_TH] **san-lotso** | [#1](https://osu.ppy.sh/community/matches/48207149) |
 
 Thursday, 20 December 2018:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Agagak** ![][flag_MY] | **6** | 2 | ![][flag_ID] GtaDestroyer | [#1](https://osu.ppy.sh/community/matches/48225236) |
 | **GSBlank** ![][flag_SG] | **6** | 1 | ![][flag_TH] Applause | [#1](https://osu.ppy.sh/community/matches/48227119) |
@@ -468,7 +468,7 @@ Thursday, 20 December 2018:
 
 Friday, 21 December 2018:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Jeffrey** ![][flag_MY] | **6** | 1 | ![][flag_VN] UnitedNovel | [#1](https://osu.ppy.sh/community/matches/48243076) |
 | **Rayhan Hamil** ![][flag_ID] | **6** | 0 | ![][flag_ID] \[-Kazumine-\] | *win by default* |
@@ -485,7 +485,7 @@ Friday, 21 December 2018:
 
 Saturday, 22 December 2018:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **moosepi** ![][flag_SG] | **6** | 3 | ![][flag_SG] Lunarsol | [#1](https://osu.ppy.sh/community/matches/48270056) |
 | **dunois** ![][flag_CA] | **6** | 5 | ![][flag_VN] Shironi | [#1](https://osu.ppy.sh/community/matches/48274688) |
@@ -493,7 +493,7 @@ Saturday, 22 December 2018:
 
 Sunday, 23 December 2018:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | 121Brian121 ![][flag_ID] | 3 | **6** | ![][flag_TH] **Vignette-** | [#1](https://osu.ppy.sh/community/matches/48300780) |
 | **Crezz** ![][flag_ID] | **6** | 5 | ![][flag_SG] Rtzero | [#1](https://osu.ppy.sh/community/matches/48303897) |
@@ -505,20 +505,20 @@ Sunday, 23 December 2018:
 
 Monday, 24 December 2018:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **praguzz** ![][flag_ID] | **6** | 5 | ![][flag_SG] CryingWaff | [#1](https://osu.ppy.sh/community/matches/48313478) |
 | **Tzero** ![][flag_MY] | **6** | 3 | ![][flag_SG] youi | [#1](https://osu.ppy.sh/community/matches/48333910) |
 
 Tuesday, 25 December 2018:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **TequilaWolf** ![][flag_MY] | **6** | 0 | ![][flag_MY] haruchi | *win by default* |
 
 Wednesday, 26 December 2018:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Xidorn ![][flag_PH] | 2 | **6** | ![][flag_ID] **Kurosaki** | [#1](https://osu.ppy.sh/community/matches/48376875) |
 | - Phantasma - ![][flag_TH] | 0 | **6** | ![][flag_ID] **Rexeez** | *win by default* |
@@ -527,7 +527,7 @@ Wednesday, 26 December 2018:
 
 Friday, 7 December 2018:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Tuon** ![][flag_VN] | **5** | 1 | ![][flag_ID] DifSec- | [#1](https://osu.ppy.sh/community/matches/47934326) |
 | **Tzero** ![][flag_MY] | **5** | 0 | ![][flag_ID] ELNabhan | [#1](https://osu.ppy.sh/community/matches/47935317) |
@@ -541,7 +541,7 @@ Friday, 7 December 2018:
 
 Saturday, 8 December 2018:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **dunois** ![][flag_CA] | **5** | 0 | ![][flag_MY] haruchi | [#1](https://osu.ppy.sh/community/matches/47951939) |
 | **hyoketsujuukyu** ![][flag_ID] | **5** | 0 | ![][flag_BN] Fused1376 | [#1](https://osu.ppy.sh/community/matches/47953689) |
@@ -583,7 +583,7 @@ Saturday, 8 December 2018:
 
 Sunday, 9 December 2018:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **moosepi** ![][flag_SG] | **5** | 0 | ![][flag_ID] phizh | [#1](https://osu.ppy.sh/community/matches/47967054) |
 | **Rexeez** ![][flag_ID] | **5** | 1 | ![][flag_ID] hyoketsujuukyu | [#1](https://osu.ppy.sh/community/matches/47981276) |
@@ -623,26 +623,26 @@ Sunday, 9 December 2018:
 
 Monday, 10 December 2018:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **dika312** ![][flag_ID] | **5** | 1 | ![][flag_MY] Agagak | [#1](https://osu.ppy.sh/community/matches/48007098) |
 | **Tzero** ![][flag_MY] | **5** | 0 | ![][flag_VN] Mayukaki | [#1](https://osu.ppy.sh/community/matches/48010210) |
 
 Tuesday, 11 December 2018:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Applause** ![][flag_TH] | **5** | 3 | ![][flag_VN] Mayukaki | [#1](https://osu.ppy.sh/community/matches/48028246), [#2](https://osu.ppy.sh/community/matches/48028805) |
 
 Thursday, 13 December 2018:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **haruchi** ![][flag_MY] | **5** | 3 | ![][flag_ID] Rayhan Hamil | [#1](https://osu.ppy.sh/community/matches/48063619) |
 
 Friday, 14 December 2018:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Jeffrey** ![][flag_MY] | **5** | 0 | ![][flag_TH] Ultimatic Catz | [#1](https://osu.ppy.sh/community/matches/48082361) |
 | **MioMilo** ![][flag_PH] | **5** | 4 | ![][flag_MY] Zygody | [#1](https://osu.ppy.sh/community/matches/48082525) |
@@ -666,7 +666,7 @@ Friday, 14 December 2018:
 
 Saturday, 15 December 2018:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **ShaneLiang** ![][flag_MY] | **5** | 1 | ![][flag_ID] GtaDestroyer | [#1](https://osu.ppy.sh/community/matches/48100943) |
 | **Portador0409** ![][flag_VN] | **5** | 0 | ![][flag_ID] DifSec- | *win by default* |
@@ -695,7 +695,7 @@ Saturday, 15 December 2018:
 
 Sunday, 16 December 2018:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Seaweed ![][flag_TH] | 0 | **5** | ![][flag_TH] **Seaweed** | *win by default* |
 | **wuhua** ![][flag_MY] | **5** | 0 | ![][flag_SG] feces | [#1](https://osu.ppy.sh/community/matches/48117021) |
@@ -729,13 +729,13 @@ Sunday, 16 December 2018:
 
 Monday, 17 December 2018:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **- Phantasma -** ![][flag_TH] | **5** | 1 | ![][flag_SG] woahsia | [#1](https://osu.ppy.sh/community/matches/48145272) |
 
 Tuesday, 18 December 2018:
 
-| Player 1 |  |  | Player 2 | Match link |
+| Player 1 | | | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **woahsia** ![][flag_SG] | **5** | 0 | ![][flag_SG] babypliggy | *win by default* |
 
@@ -809,18 +809,18 @@ Tuesday, 18 December 2018:
 | 4 | Landegre- | SEA RRT 2nd |
 | 5 | GSBlank | SEA RRT 3rd, SEAT 1 4th |
 | 6 | Elegant Loli | SEAT 1 3rd |
-|  | Dunois | osu! Philippines Summer Tournament 1st |
+| | Dunois | osu! Philippines Summer Tournament 1st |
 | 8 | M4-K1 | SEA RRT 4th |
 | 9 | ShaneLiang | osu! Malaysia Tournament 2018 2nd, SEA RRT 7th-8th |
 | 10 | Skydiver | SEAT 1 5th-6th |
-|  | Rtyzen | SEAT 1 5th-6th |
-|  | - Phantasma - | SEA RRT 5th-6th |
-|  | Cleveland | SEA RRT 5th-6th |
-|  | -Marika | osu! Philippines Summer Tournament 2nd |
+| | Rtyzen | SEAT 1 5th-6th |
+| | - Phantasma - | SEA RRT 5th-6th |
+| | Cleveland | SEA RRT 5th-6th |
+| | -Marika | osu! Philippines Summer Tournament 2nd |
 | 15 | Tzero | SEAT 1 7th-8th, osu! Malaysia Tournament 3rd |
 | 16 | SkyArrow | SEAT 1 7th-8th |
-|  | NazzzF | SEA RRT 7th-8th |
-|  | Rexeez | osu! Indonesia Tournament 2018 3rd |
+| | NazzzF | SEA RRT 7th-8th |
+| | Rexeez | osu! Indonesia Tournament 2018 3rd |
 
 2. This list is sorted by highest achievement, followed by 2nd highest achievement (if any). Country-based tournaments are treated as equivalent to a 3rd place regional finish for 1st, 5th-6th place regional finish for 2nd, and 7th-8th regional finish for 3rd (if applicable).
 3. The top 8 priority players that sign up will not play qualifiers. They will be guaranteed places in Group Stage as top seeds. In addition, to ensure that the top priority players do not meet each other until as late as possible, they will be placed in the following groups (in order, starting from highest seed): A, P, H, M, I, D, L, E.

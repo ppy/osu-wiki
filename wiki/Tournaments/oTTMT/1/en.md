@@ -176,19 +176,19 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-| Sunday, 2009-09-06 |  |  |  |
+| Sunday, 2009-09-06 | | | |
 | --: | :-: | :-: | :-- |
 | Lubimy Ponczgi! | 1 | **3** | **Animalz D:** |
 
 ### Semifinals
 
-|  |  |  |  |
+| | | | |
 | --: | :-: | :-: | :-- |
 | MINMIrox | ? | **3** | **Lubimy Ponczgi!** |
 
 ### Round 3
 
-|  |  |  |  |  |
+| | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | fagboat | 0 | **2** | **MINMIrox** | -disqualified- |
 | two noobs | 1 | **2** | **Lubimy Ponczgi!** |
@@ -196,7 +196,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 2
 
-|  |  |  |  |  |
+| | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Does it matter? | 1 | **2** | **fagboat** |
 | huge cocks | 0 | **2** | **MINMIrox** | -disqualified- |
@@ -207,7 +207,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round 1
 
-|  |  |  |  |  |
+| | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **Does it matter?** | **2** | 1 | Less QQ more PEWPEW |
 | **fagboat** | **2** | 0 | Mlekołaki |

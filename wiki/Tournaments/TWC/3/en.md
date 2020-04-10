@@ -56,7 +56,7 @@ The Taiko World Cup #3 was run by various community members by distributing the 
 
 ## Participants
 
-|  | Country | Members |
+| | Country | Members |
 | :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[Nearex](https://osu.ppy.sh/users/1893238)**, [Sujeto 97](https://osu.ppy.sh/users/1331132), [Ariel](https://osu.ppy.sh/users/1065794), [Pollotuc](https://osu.ppy.sh/users/42440) |
 | ![][flag_CA] | **Canada A** | **[Tasha](https://osu.ppy.sh/users/1031958)**, [hipster3000](https://osu.ppy.sh/users/1307688), [kenny388](https://osu.ppy.sh/users/1098972) |

@@ -264,12 +264,12 @@ TB:
 | NED_Q | ![][CN] | 0 : 4 | ![][CN] | [Crz]MemoryI | | [Crz]MemoryI | ![][CN] | 4 : 0 | ![][HK] | Opean |
 | hly200 | ![][CN] | 3 : 4 | ![][CN] | NED_Q | | [Crz]MemoryI | ![][CN] | 0 : 4 | ![][CN] | hly200 |
 | ***E组*** | | | | | | | | |
-| Neokje | ![][MY] | 4 : 0 | ![][CN] |  - Xiaoluoli - | | qiluo | ![][CN] | 4 : 1 | ![][CN] | spensll |
+| Neokje | ![][MY] | 4 : 0 | ![][CN] | - Xiaoluoli - | | qiluo | ![][CN] | 4 : 1 | ![][CN] | spensll |
 | Neokje | ![][MY] | 4 : 0 | ![][CN] | spensll | | qiluo | ![][CN] | 4 : 1 | ![][CN] | - Xiaoluoli - |
 | Neokje | ![][MY] | 4 : 1 | ![][CN] | qiluo | | spensll | ![][CN] | 4 : 0 | ![][CN] | - Xiaoluoli - |
 | ***F组*** | | | | | | | | |
 | [Crz]Riri | ![][CN] | 4 : 1 | ![][AU] | [Crz]Yukikaze- | | [Crz]Riri | ![][CN] | 4 : 0 | ![][CN] | prelude8792916 |
-| WF Night | ![][CN] | 0 : 4 | ![][AU] | [Crz]Yukikaze- | | [Crz]Riri | ![][CN] | 4 : 0 | ![][CN] |  WF Night |
+| WF Night | ![][CN] | 0 : 4 | ![][AU] | [Crz]Yukikaze- | | [Crz]Riri | ![][CN] | 4 : 0 | ![][CN] | WF Night |
 | [Crz]Yukikaze- | ![][AU] | 4 : 0 | ![][CN] | prelude8792916 | | WF Night | ![][CN] | 0 : 0 | ![][CN] | prelude8792916 |
 | ***G组*** | | | | | | | | |
 | AnLs | ![][HK] | 0 : 4 | ![][TW] | - Choma - | | Luv Letter | ![][CN] | 0 : 4 | ![][CN] | [Crz]Mix0130 |
@@ -372,7 +372,7 @@ TB:
 | 1/4决赛 | I, J, K, L & R, S, T, U |
 | 半决赛 | M, N & V, W, X, Y, Z,AA |
 | 决赛第**1**周 | O & AB, AC, AD |
-| 决赛第**2**周 | P & AE |  
+| 决赛第**2**周 | P & AE | 
 
 ## 比赛程序说明
 

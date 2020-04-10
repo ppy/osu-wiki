@@ -320,7 +320,7 @@ Sunday, 12 April 2020:
 
 Saturday, 4 April 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | ＝ＹＡＨＥ | 3 | **7** | **seusbruk** | [#1](https://osu.ppy.sh/community/matches/59983820) |
 | osim | 0 | **7** | **will is 2** | [#1](https://osu.ppy.sh/community/matches/59988159) |
@@ -328,7 +328,7 @@ Saturday, 4 April 2020:
 
 Sunday, 5 April 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | will is 2 | 1 | **6** | **seusbruk** | [#1](https://osu.ppy.sh/community/matches/60030302) |
 
@@ -336,7 +336,7 @@ Sunday, 5 April 2020:
 
 Saturday, 28 March 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | IshuzokuRebyuāzu | 4 | **6** | **Kangaroo** | [#1](https://osu.ppy.sh/community/matches/59698971) |
 | Old & Irrelevant | 0 | **6** | **osim** | [#1](https://osu.ppy.sh/community/matches/59707557) |
@@ -345,7 +345,7 @@ Saturday, 28 March 2020:
 
 Sunday, 29 March 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Rubber Conquest** | **6** | 0 | ＝ＹＡＨＥ | [#1](https://osu.ppy.sh/community/matches/59730638) |
 | **osim** | **6** | 3 | Kangaroo | [#1](https://osu.ppy.sh/community/matches/59737706) |
@@ -356,7 +356,7 @@ Sunday, 29 March 2020:
 
 Saturday, 21 March 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Rubber Conquest** | **6** | 0 | IshuzokuRebyuāzu | [#1](https://osu.ppy.sh/community/matches/59428783) |
 | **＝ＹＡＨＥ** | **6** | 0 | Old & Irrelevant | [#1](https://osu.ppy.sh/community/matches/59437383) |
@@ -372,7 +372,7 @@ Saturday, 21 March 2020:
 
 Sunday, 22 March 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Kangaroo** | **0** | -1 | Couchers | *win by default* |
 | **Floating up** | **6** | 2 | riuzaky homo | [#1](https://osu.ppy.sh/community/matches/59480324) |
@@ -384,7 +384,7 @@ Sunday, 22 March 2020:
 
 Saturday, 14 March 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **= Y A H E** | **5** | 0 | STOOF CLONES | [#1](https://osu.ppy.sh/community/matches/59174978) |
 | nakapagpabagabag | 3 | **5** | **KasuLewd** | [#1](https://osu.ppy.sh/community/matches/59176904) |
@@ -400,7 +400,7 @@ Saturday, 14 March 2020:
 
 Sunday, 15 March 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | china | 3 | **5** | **IshuzokuRebyuāzu** | [#1](https://osu.ppy.sh/community/matches/59211472) |
 | Smile and wave | -1 | **0** | **BRATVA I KOLCO** | *win by default* |
@@ -412,7 +412,7 @@ Sunday, 15 March 2020:
 
 Saturday, 7 March 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **IshuzokuRebyuāzu** | **4** | 1 | o!CLWS大学赛冬季2020 | [#1](https://osu.ppy.sh/community/matches/58985571) |
 | **Kangaroo** | **4** | 0 | KasuLewd | [#1](https://osu.ppy.sh/community/matches/58986437) |
@@ -426,7 +426,7 @@ Saturday, 7 March 2020:
 
 Sunday, 8 March 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | osim | 1 | **4** | **china** | [#1](https://osu.ppy.sh/community/matches/59017026) |
 | **= Y A H E** | **4** | 1 | Smile and wave | [#1](https://osu.ppy.sh/community/matches/59018380) |

@@ -54,7 +54,7 @@ The osu!taiko World Cup 2019 was run by various community members by distributin
 
 ## Participants
 
-|  | Country | Members |
+| | Country | Members |
 | :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[gaston\_2199](https://osu.ppy.sh/users/5938161)**, [Jintsuu](https://osu.ppy.sh/users/7165127), [Axer](https://osu.ppy.sh/users/7299864), [BossPlays](https://osu.ppy.sh/users/7341471), [TrolloCat](https://osu.ppy.sh/users/9228032) |
 | ![][flag_AU] | **Australia** | **[Fuel](https://osu.ppy.sh/users/5155081)**, [remii](https://osu.ppy.sh/users/2913584), [Jaye](https://osu.ppy.sh/users/4841352), [Ceryuia](https://osu.ppy.sh/users/5253213), [rango](https://osu.ppy.sh/users/7728466) |
@@ -251,33 +251,33 @@ The osu!taiko World Cup 2019 was run by various community members by distributin
 
 ### Grand Finals
 
-| Sunday, 2019-05-26 |  |  |  |  |
+| Sunday, 2019-05-26 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **Taiwan** ![][flag_TW] | **7** | 6 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/52105527) |
 | **Japan** ![][flag_JP] | **7** | 2 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/52107329) |
 
 ### Finals
 
-| Saturday, 2019-05-18 |  |  |  |  |
+| Saturday, 2019-05-18 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Hong Kong ![][flag_HK] | 1 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/51892392) |
 | **Canada** ![][flag_CA] | **7** | 3 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/51909730) |
 
-| Sunday, 2019-05-19 |  |  |  |  |
+| Sunday, 2019-05-19 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Canada ![][flag_CA] | 4 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/51917485) |
 | **Japan** ![][flag_JP] | **7** | 3 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/51924396) |
 
 ### Semifinals
 
-| Saturday, 2019-05-11 |  |  |  |  |
+| Saturday, 2019-05-11 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Poland ![][flag_PL] | 6 | **7** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/51701077) |
 | **Hong Kong** ![][flag_HK] | **7** | 4 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/51703619) |
 | **Canada** ![][flag_CA] | **7** | 0 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/51709679) |
 | **Brazil** ![][flag_BR] | **7** | 2 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/51715624) |
 
-| Sunday, 2019-05-12 |  |  |  |  |
+| Sunday, 2019-05-12 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **Canada** ![][flag_CA] | **7** | 6 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/51725919) |
 | United States ![][flag_US] | 5 | **7** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/51728069) |
@@ -286,7 +286,7 @@ The osu!taiko World Cup 2019 was run by various community members by distributin
 
 ### Quarterfinals
 
-| Saturday, 2019-05-04 |  |  |  |  |
+| Saturday, 2019-05-04 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **Australia** ![][flag_AU] | **6** | 2 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/51512356) |
 | **Taiwan** ![][flag_TW] | **6** | 2 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/51517084) |
@@ -295,14 +295,14 @@ The osu!taiko World Cup 2019 was run by various community members by distributin
 | **Germany** ![][flag_DE] | **6** | 5 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/51531420) |
 | **United States** ![][flag_US] | **6** | 3 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/51534760) |
 
-| Sunday, 2019-05-05 |  |  |  |  |
+| Sunday, 2019-05-05 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Canada ![][flag_CA] | 2 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/51542733) |
 | Poland ![][flag_PL] | 1 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/51552462) |
 
 ### Round of 16
 
-| Saturday, 2019-04-27 |  |  |  |  |
+| Saturday, 2019-04-27 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/51329705) |
 | **Poland** ![][flag_PL] | **6** | 3 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/51332255) |
@@ -310,7 +310,7 @@ The osu!taiko World Cup 2019 was run by various community members by distributin
 | Germany ![][flag_DE] | 2 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/51339196) |
 | Chile ![][flag_CL] | 2 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/51342269) |
 
-| Sunday, 2019-04-28 |  |  |  |  |
+| Sunday, 2019-04-28 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Australia ![][flag_AU] | 3 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/51359304) |
 | Singapore ![][flag_SG] | 1 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/51361043) |
@@ -318,7 +318,7 @@ The osu!taiko World Cup 2019 was run by various community members by distributin
 
 ### Group Stage
 
-| Saturday, 2019-04-20 |  |  |  |  |
+| Saturday, 2019-04-20 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | China ![][flag_CN] | 3 | **5** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/51149005) |
 | New Zealand ![][flag_NZ] | 0 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/51149009) |
@@ -343,7 +343,7 @@ The osu!taiko World Cup 2019 was run by various community members by distributin
 | United Kingdom ![][flag_GB] | 0 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/51162759) |
 | Netherlands ![][flag_NL] | 2 | **5** | ![][flag_VE] **Venezuela** | [#1](https://osu.ppy.sh/community/matches/51166257) |
 
-| Sunday, 2019-04-21 |  |  |  |  |
+| Sunday, 2019-04-21 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | New Zealand ![][flag_NZ] | 0 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/51171557) |
 | Argentina ![][flag_AR] | 0 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/51171569) |

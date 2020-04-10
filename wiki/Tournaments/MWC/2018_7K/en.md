@@ -59,7 +59,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 ## Participants
 
-|  | Country | Members |
+| | Country | Members |
 | :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[lxLucasxl](https://osu.ppy.sh/users/3632846)**, [Somnium-](https://osu.ppy.sh/users/2037798), [\_\_Yu](https://osu.ppy.sh/users/6253228) |
 | ![][flag_AU] | **Australia** | **[Kites](https://osu.ppy.sh/users/4922584)**, [Evios](https://osu.ppy.sh/users/2058022), [sankansuki](https://osu.ppy.sh/users/2877926), [PotassiumF](https://osu.ppy.sh/users/4247722) |
@@ -205,14 +205,14 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 ### Grand Finals
 
-| Saturday, 2018-03-18 |  |  |  |  |
+| Saturday, 2018-03-18 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | China ![][flag_CN] | 4 | **7** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/40933215) |
 | **South Korea** ![][flag_KR] | **7** | 1 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/40936075) |
 
 ### Finals
 
-| Saturday, 2018-03-11 |  |  |  |  |
+| Saturday, 2018-03-11 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **Brazil** ![][flag_BR] | **7** | 6 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/40743246) |
 | Philippines ![][flag_PH] | 0 | **7** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/40745201) |
@@ -221,7 +221,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 ### Semifinals
 
-| Saturday, 2018-03-03 |  |  |  |  |
+| Saturday, 2018-03-03 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Australia ![][flag_AU] | 0 | **6** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/40518173) |
 | **United States** ![][flag_US] | **6** | 5 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/40519477) |
@@ -231,13 +231,13 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 | France ![][flag_FR] | 0 | **6** | ![][flag_BR] **Brazil** | -win by default- |
 | **Brazil** ![][flag_BR] | **6** | 1 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/40544245) |
 
-| Sunday, 2018-03-04 |  |  |  |  |
+| Sunday, 2018-03-04 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Chile ![][flag_CL] | 3 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/40554885) |
 
 ### Quarterfinals
 
-| Saturday, 2018-02-24 |  |  |  |  |
+| Saturday, 2018-02-24 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **China** ![][flag_CN] | **5** | 0 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/40337357) |
 | **Australia** ![][flag_AU] | **5** | 2 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/40338527) |
@@ -246,14 +246,14 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 | **Singapore** ![][flag_SG] | **5** | 2 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/40365467) |
 | United States ![][flag_US] | 3 | **5** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/40366912) |
 
-| Sunday, 2018-02-25 |  |  |  |  |
+| Sunday, 2018-02-25 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **Italy** ![][flag_IT] | **5** | 0 | ![][flag_AR] Argentina | -win by default- |
 | Canada ![][flag_CA] | 0 | **5** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/40386907) |
 
 ### Round of 16
 
-| Sunday, 2018-02-18 |  |  |  |  |
+| Sunday, 2018-02-18 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Canada ![][flag_CA] | 0 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/40172677) |
 | **United States** ![][flag_US] | **5** | 0 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/40173698) |
@@ -266,7 +266,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 
 ### Group Stage
 
-| Saturday, 2018-02-10 |  |  |  |  |
+| Saturday, 2018-02-10 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Thailand ![][flag_TH] | 0 | **4** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/39954578) |
 | Switzerland ![][flag_CH] | 0 | **4** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/39954590) |
@@ -280,7 +280,7 @@ The osu!mania 7K World Cup 2018 is run by various community members by distribut
 | Canada ![][flag_CA] | 3 | **4** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/39967317) |
 | Australia ![][flag_AU] | 0 | **4** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/39979395) |
 
-| Sunday, 2018-02-11 |  |  |  |  |
+| Sunday, 2018-02-11 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Japan ![][flag_JP] | 2 | **4** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/39979434) |
 | Russian Federation ![][flag_RU] | 1 | **4** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/39988692) |

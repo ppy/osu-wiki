@@ -229,7 +229,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 Samedi, 31 Mars 2019:
 
-| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| Joueur 1 | | | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | **Realmas** ![][flag_FR] | **7** | 5 | ![][flag_FR] Yruama | [#1](https://osu.ppy.sh/community/matches/50666336) |
 
@@ -237,13 +237,13 @@ Samedi, 31 Mars 2019:
 
 Samedi, 23 Mars 2019:
 
-| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| Joueur 1 | | | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | Yruama ![][flag_FR] | 1 | **7** | ![][flag_FR] **Realmas** | [#1](https://osu.ppy.sh/community/matches/50470090) |
 
 Dimanche, 24 Mars 2019:
 
-| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| Joueur 1 | | | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | **Zard** ![][flag_FR] | **7** | 0 | ![][flag_FR] Khalemm | [#1](https://osu.ppy.sh/community/matches/50473685) |
 | **Yruama** ![][flag_FR] | **7** | 2 | ![][flag_FR] Zard | [#1](https://osu.ppy.sh/community/matches/50505194) |
@@ -252,20 +252,20 @@ Dimanche, 24 Mars 2019:
 
 Samedi, 16 Mars 2019:
 
-| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| Joueur 1 | | | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | **Yruama** ![][flag_FR] | **6** | 4 | ![][flag_FR] redjiii | [#1](https://osu.ppy.sh/community/matches/50300973) |
 | YANOO123 ![][flag_FR] | 0 | **6** | ![][flag_FR] **Realmas** | [#1](https://osu.ppy.sh/community/matches/50313411) |
 
 Dimanche, 17 Mars 2019:
 
-| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| Joueur 1 | | | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | YANOO123 ![][flag_FR] | 5 | **6** | ![][flag_FR] **Zard** | [#1](https://osu.ppy.sh/community/matches/50333394) |
 
 Lundi, 18 Mars 2019:
 
-| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| Joueur 1 | | | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | redjiii ![][flag_FR] | 2 | **6** | ![][flag_FR] **Khalemm** | [#1](https://osu.ppy.sh/community/matches/50361978) |
 
@@ -273,7 +273,7 @@ Lundi, 18 Mars 2019:
 
 Samedi, 9 Mars 2019:
 
-| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| Joueur 1 | | | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | Aequo3 ![][flag_FR] | 0 | **4** | ![][flag_FR] **Yruama** | *win by default* |
 | **redjiii** ![][flag_FR] | **5** | 3 | ![][flag_FR] Zard | [#1](https://osu.ppy.sh/community/matches/50137587) |
@@ -282,7 +282,7 @@ Samedi, 9 Mars 2019:
 
 Dimanche, 10 Mars 2019:
 
-| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| Joueur 1 | | | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | Aequo3 ![][flag_FR] | 0 | **5** | ![][flag_FR] **Zard** | *win by default* |
 | pierreCHT ![][flag_FR] | 1 | **5** | ![][flag_FR] **Khalemm** | [#1](https://osu.ppy.sh/community/matches/50174435) |
@@ -291,13 +291,13 @@ Dimanche, 10 Mars 2019:
 
 Vendredi, 1 Mars 2019:
 
-| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| Joueur 1 | | | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | **Aequo3** ![][flag_FR] | **4** | 3 | ![][flag_FR] pierreCHT | [#1](https://osu.ppy.sh/community/matches/49939088) |
 
 Samedi, 2 Mars 2019:
 
-| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| Joueur 1 | | | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | **pierreCHT** ![][flag_FR] | **4** | 1 | ![][flag_FR] 4L-Chan 3 Porte | [#1](https://osu.ppy.sh/community/matches/49963696) |
 | ACinfr ![][flag_FR] | 3 | **4** | ![][flag_FR] **Aequo3** | [#1](https://osu.ppy.sh/community/matches/49964492) |
@@ -315,7 +315,7 @@ Samedi, 2 Mars 2019:
 
 Dimanche, 3 Mars 2019:
 
-| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| Joueur 1 | | | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | Rizhen- ![][flag_FR] | 0 | **4** | ![][flag_FR] **Sageru** | *win by default* |
 | **Realmas** ![][flag_FR] | **4** | 0 | ![][flag_FR] Rizhen- | *win by default* |
@@ -329,7 +329,7 @@ Dimanche, 3 Mars 2019:
 
 Lundi, 4 Mars 2019:
 
-| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| Joueur 1 | | | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | 4L-Chan 3 Porte ![][flag_FR] | 0 | **4** | ![][flag_FR] **Aequo3** | [#1](https://osu.ppy.sh/community/matches/50018480) |
 

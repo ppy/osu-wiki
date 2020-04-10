@@ -58,7 +58,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 
 ## Participants
 
-|  | Country | Members |
+| | Country | Members |
 | :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[jLuyalb](https://osu.ppy.sh/users/7093698)**, [repoz](https://osu.ppy.sh/users/6719880), [BossPlays](https://osu.ppy.sh/users/7341471), [Carlos Menem](https://osu.ppy.sh/users/9817140), [Spktr](https://osu.ppy.sh/users/9856089), [aluuu](https://osu.ppy.sh/users/4585260) |
 | ![][flag_AU] | **Australia** | **[PotassiumF](https://osu.ppy.sh/users/4247722)**, [anim girl](https://osu.ppy.sh/users/6378800), [anim gril](https://osu.ppy.sh/users/9527845), [Water is anim](https://osu.ppy.sh/users/8222416), [Lusty Platypus](https://osu.ppy.sh/users/2956184), [ExVeemon](https://osu.ppy.sh/users/1249224) |

@@ -224,7 +224,7 @@ The Royal Danish osu!Cup 2017 was run by various community members.
 
 Sunday, 2018-10-27:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | **raser1234** ![][flag_DK] | **7** | 4 | ![][flag_DK] iamVill |
 | LB | **raser1234** ![][flag_DK] | **7** | 2 | ![][flag_DK] waefwerf |
@@ -233,7 +233,7 @@ Sunday, 2018-10-27:
 
 Saturday, 2018-10-20:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | **iamVill** ![][flag_DK] | **7** | 3 | ![][flag_DK] waefwerf |
 | LB | teamplayer51 ![][flag_DK] | 2 | **7** | ![][flag_DK] **raser1234** |
@@ -244,34 +244,34 @@ Saturday, 2018-10-20:
 
 Friday, 2018-03-31:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | LB | **Zakura** ![][flag_DK] | **6** | 0 | ![][flag_DK] Kawatta |
 | LB | Zog ![][flag_DK] | 4 | **6** | ![][flag_DK] **Kazutakee** |
 
 Saturday, 2018-04-01:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | **waefwerf** ![][flag_DK] | **6** | 4 | ![][flag_DK] raser1234 |
 | LB | Crylizhy ![][flag_DK] | 3 | **6** | ![][flag_DK] **Vandabe** |
 
 Sunday, 2018-04-02:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | LB | LedoodeNiginz ![][flag_DK] | 1 | **6** | ![][flag_DK] **teamplayer51** |
 | LB | **teamplayer51** ![][flag_DK] | **6** | 1 | ![][flag_DK] Kazutakee |
 
 Monday, 2018-04-03:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | LB | **Vandabe** ![][flag_DK] | **6** | 2 | ![][flag_DK] Zakura |
 
 Thursday, 2018-04-06:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | Hudda ![][flag_DK] | 1 | **6** | ![][flag_DK] **iamVill** |
 
@@ -279,7 +279,7 @@ Thursday, 2018-04-06:
 
 Saturday, 2018-03-25:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | **raser1234** ![][flag_DK] | **5** | 2 | ![][flag_DK] Zog |
 | UB | Crylizhy ![][flag_DK] | 3 | **5** | ![][flag_DK] **Hudda** |
@@ -288,7 +288,7 @@ Saturday, 2018-03-25:
 
 Sunday, 2018-03-26:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | LB | \[ Pennek \] ![][flag_DK] | 2 | **5** | ![][flag_DK] **Vandabe** |
 | LB | **Kazutakee** ![][flag_DK] | **6** | 0 | ![][flag_DK] Asymmetry Echo |
@@ -299,20 +299,20 @@ Sunday, 2018-03-26:
 
 Friday, 2017-03-17:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | Power Supply ![][flag_DK] | 0 | **5** | ![][flag_DK] **Hudda** |
 
 Saturday, 2018-03-18:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | \[ Pennek \] ![][flag_DK] | 1 | **5** | ![][flag_DK] **waefwerf** |
 | UB | **Crylizhy** ![][flag_DK] | **5** | 1 | ![][flag_DK] LedoodeNiginz |
 
 Sunday, 2018-03-19:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | Vandabe ![][flag_DK] | 3 | **5** | ![][flag_DK] **teamplayer51** |
 | UB | **Zog** ![][flag_DK] | **5** | 2 | ![][flag_DK] Zakura |
@@ -320,13 +320,13 @@ Sunday, 2018-03-19:
 
 Monday, 2018-03-20:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | **Kawatta** ![][flag_DK] | **5** | 3 | ![][flag_DK] Kazutakee |
 
 Tuesday, 2018-03-21:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | **iamVill** ![][flag_DK] | **5** | 1 | ![][flag_DK] Asymmetry Echo |
 
@@ -334,7 +334,7 @@ Tuesday, 2018-03-21:
 
 Saturday, 2017-03-04:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | A | **Kawatta** ![][flag_DK] | **4** | 1 | ![][flag_DK] \_Adolfin\_ |
 | A | **\[ Pennek \]** ![][flag_DK] | **4** | 3 | ![][flag_DK] Emub |
@@ -351,7 +351,7 @@ Saturday, 2017-03-04:
 
 Sunday, 2017-03-05:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | E | **Zog** ![][flag_DK] | **4** | 1 | ![][flag_DK] DragonsDungeon |
 | E | **Crylizhy** ![][flag_DK] | **4** | 2 | ![][flag_DK] DragonsDungeon |
@@ -365,7 +365,7 @@ Sunday, 2017-03-05:
 
 Friday, 2017-03-10:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | G | Gudafild ![][flag_DK] | 2 | **4** | ![][flag_DK] **Hudda** |
 | G | **Hudda** ![][flag_DK] | **4** | 3 | ![][flag_DK] StevenDANK |
@@ -376,7 +376,7 @@ Friday, 2017-03-10:
 
 Saturday, 2017-03-11:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | D | **Vandabe** ![][flag_DK] | **4** | 2 | ![][flag_DK] TheFancyPikachu |
 | D | **Asymmetry Echo** ![][flag_DK] | **4** | 1 | ![][flag_DK] ZzcortezZ |
@@ -390,7 +390,7 @@ Saturday, 2017-03-11:
 
 Sunday, 2017-03-12:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | B | **waefwerf** ![][flag_DK] | **4** | 0 | ![][flag_DK] seb2110 |
 | B | **Kazutakee** ![][flag_DK] | **4** | 2 | ![][flag_DK] Xanoxe |

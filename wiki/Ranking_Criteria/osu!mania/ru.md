@@ -22,7 +22,7 @@ outdated: true
 
 ### Игровые элементы и концепции
 
-| Элемент                  | Описание                                                    |
+| Элемент | Описание |
 | :-- | :-- |
 | Особый, или степ-столбец | Центральный столбец, а также левый столбец в сложностях 8K. |
 
@@ -68,31 +68,31 @@ outdated: true
 
 1K, 2K, 3K, 9K не рекомендуются к маппингу, поскольку находятся в экспериментальной стадии разработки.
 
-| Число клавиш (CS) | Игра                                                                            |
+| Число клавиш (CS) | Игра |
 | :-- | :-- |
-| 1K                | Vuvu Hero                                                                       |
-| 2K                | O2Jam U (2K)                                                                    |
-| 3K                | TapTap, FreQuency/Amplitude                                                     |
-| 4K                | Dance Dance Revolution/Stepmania (Single), EZ2ON (RubyMix), O2Jam U (4K)        |
-| 5K                | pop'n music (5K), O2Jam U (5K), Pump it Up (Single)                             |
-| 6K                | EZ2ON (StreetMix)                                                               |
-| 6K (L)            | beatmania (P1)                                                                  |
-| 6K (R)            | beatmania (P2)                                                                  |
-| 7K                | O2Jam, pop'n music (7K)                                                         |
-| 8K                | Dance Dance Revolution/Stepmania (Double), EZ2ON (SpaceMix)                     |
-| 8K (L)            | beatmaniaIIDX (P1)                                                              |
-| 8K (R)            | beatmaniaIIDX (P2)                                                              |
-| 9K                | pop'n music, E5 - Dancing Super Station (Single).                               |
-| 12K               | Keyboardmania (Light)                                                           |
-| 14K               |                                                                                 |
-| 16K               | beatmaniaIIDX (Double)                                                          |
-| 18K               | E5 - Dancing Super Station (Double).                                            |
+| 1K | Vuvu Hero |
+| 2K | O2Jam U (2K) |
+| 3K | TapTap, FreQuency/Amplitude |
+| 4K | Dance Dance Revolution/Stepmania (Single), EZ2ON (RubyMix), O2Jam U (4K) |
+| 5K | pop'n music (5K), O2Jam U (5K), Pump it Up (Single) |
+| 6K | EZ2ON (StreetMix) |
+| 6K (L) | beatmania (P1) |
+| 6K (R) | beatmania (P2) |
+| 7K | O2Jam, pop'n music (7K) |
+| 8K | Dance Dance Revolution/Stepmania (Double), EZ2ON (SpaceMix) |
+| 8K (L) | beatmaniaIIDX (P1) |
+| 8K (R) | beatmaniaIIDX (P2) |
+| 9K | pop'n music, E5 - Dancing Super Station (Single). |
+| 12K | Keyboardmania (Light) |
+| 14K | |
+| 16K | beatmaniaIIDX (Double) |
+| 18K | E5 - Dancing Super Station (Double). |
 
 ### Удалённые из osu!mania и неподдерживаемые режимы
 
-| Число клавиш (CS) | Игра                         |
+| Число клавиш (CS) | Игра |
 | :-- | :-- |
-| 10K               | MuziBox, Pump It Up (Double) |
-| 20K               |                              |
-| 24K               | Keyboardmania (Light+, Real) |
-| 48K               | Keyboardmania (Double)       |
+| 10K | MuziBox, Pump It Up (Double) |
+| 20K | |
+| 24K | Keyboardmania (Light+, Real) |
+| 48K | Keyboardmania (Double) |

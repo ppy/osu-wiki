@@ -71,22 +71,22 @@ Dieser Bereich zeigt ihnen **Informationen zu der Beatmap und der ausgewählten 
 
 Klick auf eines der Tabs, **um deine Songliste nach gewissen Kriterien zu sortieren.**
 
-| Gruppe               | Sortierung           |
+| Gruppe | Sortierung |
 | :-- | :-- |
-| Nach Künstler        | Nach Künstler        |
-| Nach BPM             | Nach BPM             |
-| Nach Ersteller       | Nach Ersteller       |
-| Nach Importdatum     | Nach Importdatum     |
-| Nach Schwierigkeit   | Nach Schwierigkeit   |
-| Nach Länge           | Nach Länge           |
-| Nach Modus           | Nach erreichtem Rang |
-| Nach erreichtem Rang | Nach Titel           |
-| Nach Titel           |
-| Sammlungen           |
-| Favoriten            |
-| Meine Maps           |
-| Ranked-Status        |
-| Zuletzt gespielt     |
+| Nach Künstler | Nach Künstler |
+| Nach BPM | Nach BPM |
+| Nach Ersteller | Nach Ersteller |
+| Nach Importdatum | Nach Importdatum |
+| Nach Schwierigkeit | Nach Schwierigkeit |
+| Nach Länge | Nach Länge |
+| Nach Modus | Nach erreichtem Rang |
+| Nach erreichtem Rang | Nach Titel |
+| Nach Titel |
+| Sammlungen |
+| Favoriten |
+| Meine Maps |
+| Ranked-Status |
+| Zuletzt gespielt |
 
 ![](img/Soloplay5.jpg)
 

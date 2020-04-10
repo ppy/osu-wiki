@@ -84,7 +84,7 @@ The Yuri Cup is run by various community members.
 | **MeAqua** | **![][flag_TW] [\[ Yui BOT \]](https://osu.ppy.sh/users/3812276)**, ![][flag_TW] [EthanTC](https://osu.ppy.sh/users/9539163), ![][flag_TW] [Imokora](https://osu.ppy.sh/users/2472609), ![][flag_TW] [Sakurai-Momoka](https://osu.ppy.sh/users/8165722), ![][flag_TW] [Spinesnight](https://osu.ppy.sh/users/4519494), ![][flag_TW] [Cookievi](https://osu.ppy.sh/users/2317789), ![][flag_TW] [Odiz](https://osu.ppy.sh/users/9632700), ![][flag_TW] [SugiuraAyano](https://osu.ppy.sh/users/2529213) |
 | **Milk & Scissors** | **![][flag_DK] [Lothjon](https://osu.ppy.sh/users/7369323)**, ![][flag_TR] [Mr\_Ege](https://osu.ppy.sh/users/9542170), ![][flag_SE] [ExLuck](https://osu.ppy.sh/users/10448438), ![][flag_CA] [xenonius](https://osu.ppy.sh/users/7426260), ![][flag_MY] [blufir\_](https://osu.ppy.sh/users/11134301), ![][flag_GB] [JiruPiru](https://osu.ppy.sh/users/4284926), ![][flag_VN] [TouchTouchKing](https://osu.ppy.sh/users/10415491), ![][flag_VN] [Jungko3k](https://osu.ppy.sh/users/10659339) |
 | **Murlocs** | **![][flag_RU] [\_Dead\_Push\_](https://osu.ppy.sh/users/10472893)**, ![][flag_RU] [DonnieGG](https://osu.ppy.sh/users/11673059), ![][flag_RU] [Asatopskii](https://osu.ppy.sh/users/7321790), ![][flag_UA] [-Kouko](https://osu.ppy.sh/users/11288681) |
-| **N** |  **![][flag_RO] [Lisko](https://osu.ppy.sh/users/11948017)**, ![][flag_PL] [Zhizha PEZDA](https://osu.ppy.sh/users/2629617), ![][flag_NL] [Orangebanana](https://osu.ppy.sh/users/4382220), ![][flag_BR] [gilherme boulos](https://osu.ppy.sh/users/3618773), ![][flag_PL] [Tomasz Gimaggi](https://osu.ppy.sh/users/9275586), ![][flag_NO] [Markus](https://osu.ppy.sh/users/8414284), ![][flag_PL] [-Sylvari](https://osu.ppy.sh/users/3493804), ![][flag_US] [SoupAPlayer](https://osu.ppy.sh/users/7396542) |
+| **N** | **![][flag_RO] [Lisko](https://osu.ppy.sh/users/11948017)**, ![][flag_PL] [Zhizha PEZDA](https://osu.ppy.sh/users/2629617), ![][flag_NL] [Orangebanana](https://osu.ppy.sh/users/4382220), ![][flag_BR] [gilherme boulos](https://osu.ppy.sh/users/3618773), ![][flag_PL] [Tomasz Gimaggi](https://osu.ppy.sh/users/9275586), ![][flag_NO] [Markus](https://osu.ppy.sh/users/8414284), ![][flag_PL] [-Sylvari](https://osu.ppy.sh/users/3493804), ![][flag_US] [SoupAPlayer](https://osu.ppy.sh/users/7396542) |
 | **Nosu** | **![][flag_GB] [\[TIW\]syndicator](https://osu.ppy.sh/users/11617315)**, ![][flag_IE] [Impossabear](https://osu.ppy.sh/users/10278329), ![][flag_US] [vikala](https://osu.ppy.sh/users/2848604), ![][flag_GB] [Kitley](https://osu.ppy.sh/users/12737507), ![][flag_CN] [Explosive](https://osu.ppy.sh/users/245276), ![][flag_GB] [squarercube](https://osu.ppy.sh/users/5385017), ![][flag_US] [Shift](https://osu.ppy.sh/users/12658914), ![][flag_US] [TelemakosRed](https://osu.ppy.sh/users/11770672) |
 | **ptdrlol** | **![][flag_BE] [steen](https://osu.ppy.sh/users/9441958)**, ![][flag_BE] [LoriaxLeBg](https://osu.ppy.sh/users/11331829), ![][flag_BE] [BertGry](https://osu.ppy.sh/users/6547790), ![][flag_BE] [XirU](https://osu.ppy.sh/users/4710482), ![][flag_BE] [Mornis](https://osu.ppy.sh/users/6479616), ![][flag_BE] [Dia1](https://osu.ppy.sh/users/10265171), ![][flag_BE] [Himegamiii](https://osu.ppy.sh/users/12442240), ![][flag_BE] [Spookiezi](https://osu.ppy.sh/users/4277118) |
 | **retarded ass trash team** | **![][flag_SE] [Nikoo](https://osu.ppy.sh/users/10040477)**, ![][flag_NL] [Ashmar](https://osu.ppy.sh/users/6961736), ![][flag_CH] [Sil](https://osu.ppy.sh/users/7924600), ![][flag_CH] [scoof](https://osu.ppy.sh/users/7507126), ![][flag_UA] [GodSyndrome](https://osu.ppy.sh/users/9186492), ![][flag_DE] [Kumi430](https://osu.ppy.sh/users/7507315), ![][flag_CH] [TsukasaZero](https://osu.ppy.sh/users/10880200), ![][flag_IT] [GAViFEDE](https://osu.ppy.sh/users/6563358) |
@@ -335,7 +335,7 @@ Sunday, 5 April 2020:
 
 Saturday, 28 March 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Rtzero x Rtzer0** | **7** | 2 | Sakura Trick | [#1](https://osu.ppy.sh/community/matches/59699521) |
 | **Futon's Bunker** | **7** | 6 | Dziadzia team | [#1](https://osu.ppy.sh/community/matches/59702151) |
@@ -343,7 +343,7 @@ Saturday, 28 March 2020:
 
 Sunday, 29 March 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Futon's Bunker | 6 | **7** | **Rtzero x Rtzer0** | [#1](https://osu.ppy.sh/community/matches/59740324) |
 
@@ -351,7 +351,7 @@ Sunday, 29 March 2020:
 
 Saturday, 21 March 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Sakura Trick** | **6** | 1 | Voprossoff Fanclub | [#1](https://osu.ppy.sh/community/matches/59435218) |
 | **Hyouri Ittai** | **6** | 0 | 安倍-プーチン | [#1](https://osu.ppy.sh/community/matches/59439202) |
@@ -361,7 +361,7 @@ Saturday, 21 March 2020:
 
 Sunday, 22 March 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Baguette Vodka Salo | 2 | **6** | **Sakura Trick** | [#1](https://osu.ppy.sh/community/matches/59472828) |
 | **a la verga** | **6** | 3 | Futon's Bunker | [#1](https://osu.ppy.sh/community/matches/59476790) |
@@ -371,7 +371,7 @@ Sunday, 22 March 2020:
 
 Saturday, 14 March 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **安倍-プーチン** | **6** | 3 | MeAqua | [#1](https://osu.ppy.sh/community/matches/59180224) |
 | 11:40 | 0 | **6** | **:flushed:** | [#1](https://osu.ppy.sh/community/matches/59181826) |
@@ -384,7 +384,7 @@ Saturday, 14 March 2020:
 
 Sunday, 15 March 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Voprossoff Fanclub** | **6** | 2 | :flushed: | [#1](https://osu.ppy.sh/community/matches/59218709) |
 | **Futon's Bunker** | **6** | 0 | Justice for Riko | [#1](https://osu.ppy.sh/community/matches/59219906) |
@@ -399,7 +399,7 @@ Sunday, 15 March 2020:
 
 Saturday, 7 March 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Urushihara Fan Club | -1 | **0** | **Futon's Bunker** | *win by default* |
 | **:flushed:** | **6** | 3 | Donne moi une minute | [#1](https://osu.ppy.sh/community/matches/58990906) |
@@ -410,7 +410,7 @@ Saturday, 7 March 2020:
 
 Sunday, 8 March 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **MeAqua** | **6** | 4 | yayo | [#1](https://osu.ppy.sh/community/matches/59016020) |
 | **Justice for Riko** | **6** | 4 | 安倍-プーチン | [#1](https://osu.ppy.sh/community/matches/59027206) |
@@ -427,13 +427,13 @@ Sunday, 8 March 2020:
 
 Thursday, 27 February 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | MeAqua | 4 | **5** | **11:40** | [#1](https://osu.ppy.sh/community/matches/58760885) |
 
 Saturday, 29 February 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | comfkuehlesblondes | 4 | **5** | **Baguette Vodka Salo** | [#1](https://osu.ppy.sh/community/matches/58816973) |
 | **Voprossoff Fanclub** | **5** | 4 | SS Squad (and ruyu) | [#1](https://osu.ppy.sh/community/matches/58820338) |
@@ -443,7 +443,7 @@ Saturday, 29 February 2020:
 
 Sunday, 1 March 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Milk & Scissors | 0 | **5** | **Yuritarded** | [#1](https://osu.ppy.sh/community/matches/58836051) |
 | Alligator Space Jam | -1 | **0** | **Sakura Trick** | *win by default* |

@@ -174,7 +174,7 @@ osu! World Cup 2017은 커뮤니티의 여러 구성원들에 의해 운영됩�
 
 | 스테이지 | 경기 ID |
 | --: | :-- |
-| 16강 |  A, B, C, D, E, F, G, H |
+| 16강 | A, B, C, D, E, F, G, H |
 | 8강 | I, J, K, L & R, S, T, U |
 | 준결승 | M, N & V, W, X, Y, Z, AA |
 | 결승 | O & AB, AC, AD, AE, P, Q |

@@ -241,7 +241,7 @@ This competition has come to an end and resulted in the following podium:
 
 Wednesday, 2016-02-17:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | **waefwerf** ![][flag_DK] | **7** | 5 | ![][flag_DK] Zog |
 | LB | **waefwerf** ![][flag_DK] | **7** | 3 | ![][flag_DK] Crylizhy |
@@ -250,20 +250,20 @@ Wednesday, 2016-02-17:
 
 Saturday, 2016-02-13:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | LB | **Emub** ![][flag_DK] | **6** | 2 | ![][flag_DK] Only1Magma |
 | LB | KaHLK ![][flag_DK] | 0 | **6** | ![][flag_DK] **waefwerf** |
 
 Sunday, 2016-02-14:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | LB | Emub ![][flag_DK] | 5 | **6** | ![][flag_DK] **waefwerf** |
 
 Wednesday, 2016-02-17:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | **Zog** ![][flag_DK] | **7** | 5 | ![][flag_DK] Crylizhy |
 
@@ -271,7 +271,7 @@ Wednesday, 2016-02-17:
 
 Saturday, 2016-02-06:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | LB | **Kazutakee** ![][flag_DK] | **5** | 0 | ![][flag_DK] Arild |
 | LB | John Cena ![][flag_DK] | 3 | **5** | ![][flag_DK] **Emub** |
@@ -281,7 +281,7 @@ Saturday, 2016-02-06:
 
 Sunday, 2016-02-07:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | **Zog** ![][flag_DK] | **5** | 3 | ![][flag_DK] waefwerf |
 | LB | **KaHLK** ![][flag_DK] | **5** | 4 | ![][flag_DK] Zakdawg |
@@ -291,7 +291,7 @@ Sunday, 2016-02-07:
 
 Saturday, 2016-01-30:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | **Only1Magma** ![][flag_DK] | **4** | 2 | ![][flag_DK] Zakdawg |
 | UB | -Tochi ![][flag_DK] | 1 | **4** | ![][flag_DK] **Crylizhy** |
@@ -300,7 +300,7 @@ Saturday, 2016-01-30:
 
 Sunday, 2016-01-31:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | LB | **Emub** ![][flag_DK] | **4** | 2 | ![][flag_DK] Hudda |
 | LB | **Kazutakee** ![][flag_DK] | **4** | 2 | ![][flag_DK] TheFancyPikachu |
@@ -311,7 +311,7 @@ Sunday, 2016-01-31:
 
 Saturday, 2016-01-23:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | Hudda ![][flag_DK] | 0 | **4** | ![][flag_DK] **-Tochi** |
 | UB | TheFancyPikachu ![][flag_DK] | 0 | **4** | ![][flag_DK] **Only1Magma** |
@@ -320,7 +320,7 @@ Saturday, 2016-01-23:
 
 Sunday, 2016-01-24:
 
-| Group | Player 1 |  |  | Player 2 |
+| Group | Player 1 | | | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | Kazutakee ![][flag_DK] | 3 | **4** | ![][flag_DK] **Zakdawg** |
 | UB | Emub ![][flag_DK] | 3 | **4** | ![][flag_DK] **Crylizhy** |

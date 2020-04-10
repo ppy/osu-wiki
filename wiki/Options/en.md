@@ -29,8 +29,8 @@ If you are a guest, these options will be shown:
 | `Password` | Sign in input for your password. | Password | *(empty)* |
 | `Remember Username` | If checked, the game client will remember the entered username. | Checkbox | `Enabled` |
 | `Remember Password` | If checked, the game client will remember the entered password. This will also keep you signed in to the game client. | Checkbox | `Disabled` |
-| `Sign In` | Sign in to osu! with the given credentials. Pressing `Enter` in the username or password forms also works. | Button |  |
-| `Create an account` | Opens the [account registration](/wiki/Registration) screen. | Button |  |
+| `Sign In` | Sign in to osu! with the given credentials. Pressing `Enter` in the username or password forms also works. | Button | |
+| `Create an account` | Opens the [account registration](/wiki/Registration) screen. | Button | |
 
 
 ---
@@ -58,7 +58,7 @@ You can access this menu by clicking on your player card where available.
 
 | Name | Description | Type | Default |
 | :-- | :-- | :-- | :-- |
-| `Select language` | Display a list of languages to select. | Dropdown |  |
+| `Select language` | Display a list of languages to select. | Dropdown | |
 | `Prefer metadata in original language` | In the song select screen, beatmaps will display their original or untranslated metadata, if available. | Checkbox | `Disabled` |
 | `Use alternative font for chat display` | Uses the old font (Tahoma) instead of the current font (Aller) in the [chat console](/wiki/chat_console). | Checkbox | `Disabled` |
 
@@ -67,8 +67,8 @@ You can access this menu by clicking on your player card where available.
 | Name | Description | Type | Default |
 | :-- | :-- | :-- | :-- |
 | `Release stream` | Display a list of builds that you want to use. | Dropdown | `Stable` |
-| `osu! is up-to-date!` | Click to force the game client to check for updates again and download them, if any. | Button |  |
-| `Open osu! folder` | Open the local osu! folder, which contains your skins, beatmaps, etc. | Button |  |
+| `osu! is up-to-date!` | Click to force the game client to check for updates again and download them, if any. | Button | |
+| `Open osu! folder` | Open the local osu! folder, which contains your skins, beatmaps, etc. | Button | |
 
 ---
 
@@ -123,7 +123,7 @@ If you open the dropdown list for `Frame Limiter`, you will be presented with th
 
 | Name | Description | Type | Default |
 | :-- | :-- | :-- | :-- |
-| `Resolution` | Set the game client resolution. The listed resolutions differ per monitor. | Dropdown |  |
+| `Resolution` | Set the game client resolution. The listed resolutions differ per monitor. | Dropdown | |
 | `Fullscreen mode` | Run the game client in fullscreen (usually decreases input latency). | Checkbox | `Enabled` |
 | `Letterboxing` | Run the game client in fullscreen (usually decreases input latency) with the selected the given resolution and confine the game to a smaller portion of the screen using black borders. | Checkbox | `Enabled` |
 | `Horizontal position` | Adjust horizontal offset for letterboxing mode. Only appears if `Letterboxing` is enabled. | Slider | `0%` |
@@ -247,7 +247,7 @@ The master, music, and effect volume can be changed elsewhere by pressing `Alt` 
 | Name | Description | Type | Default |
 | :-- | :-- | :-- | :-- |
 | `Universal offset` | The offset (in milliseconds) that all beatmaps will use (in addition to the local offset). | Slider | `0ms` |
-| `Offset wizard` | Opens the offset wizard. | Button |  |
+| `Offset wizard` | Opens the offset wizard. | Button | |
 
 - For details about the offset wizard, see [Offset Wizard](/wiki/Offset_Wizard).
 - For details on using the offset wizard, see [How to use Offset Wizard](/wiki/How_to_use_the_Offset_Wizard).
@@ -262,11 +262,11 @@ This section is about skin related things.
 
 | Name | Description | Type | Default |
 | :-- | :-- | :-- | :-- |
-| `Skin sample image` | Display various gameplay elements from the selected skin. Click to cycle through different element sets. | Button |  |
+| `Skin sample image` | Display various gameplay elements from the selected skin. Click to cycle through different element sets. | Button | |
 | `Current skin` | Change the skin. Items in dropdown is based on what is in the `osu!/Skins` folder. (Names are based on folder name.) | Dropdown | `Default` |
-| `Preview gameplay` | Preview the skin by playing a random beatmap with auto mod. Mode is determined on what was selected in song selection. | Button |  |
-| `Open current skin folder` | Open the selected skin folder. | Button |  |
-| `Export as .osk` | Export the current skin as a `.osk` file to share. Once your game client is done exporting, it will the directory containing the `.osk` file. | Button |  |
+| `Preview gameplay` | Preview the skin by playing a random beatmap with auto mod. Mode is determined on what was selected in song selection. | Button | |
+| `Open current skin folder` | Open the selected skin folder. | Button | |
+| `Export as .osk` | Export the current skin as a `.osk` file to share. Once your game client is done exporting, it will the directory containing the `.osk` file. | Button | |
 | `Ignore all beatmap skins` | Favor the selected skin over the beatmap's included skin. This does not include hitsounds (see next option below). | Checkbox | `Disabled` |
 | `Use skin's sound samples` | Always use the selected skin's hitsounds instead of the beatmap's included hitsounds. | Checkbox | `Enabled` |
 | `Use Taiko skin for Taiko mode` | Use osu!taiko-specific skin elements, if supplied by the selected skin. See [Skinning/osu!taiko](/wiki/Skinning/osu!taiko) for details. | Checkbox | `Disabled` |

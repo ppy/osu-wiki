@@ -249,7 +249,7 @@ This competition has come to an end and resulted in the following podium:
 
 Saturday, 28 March 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Philippines ![][flag_PH] | 6 | **7** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/59707572) |
 | **United States** ![][flag_US] | **7** | 2 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/59759491) |
@@ -258,19 +258,19 @@ Saturday, 28 March 2020:
 
 Friday, 20 March 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | United Kingdom ![][flag_GB] | 1 | **6** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/59413594) |
 
 Saturday, 21 March 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | China ![][flag_CN] | -1 | **0** | ![][flag_SG] **Singapore** | *nullified* |
 
 Sunday, 22 March 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **United States** ![][flag_US] | **6** | 1 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/59465465) |
 | **Argentina** ![][flag_AR] | **6** | 3 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/59478627) |
@@ -279,7 +279,7 @@ Sunday, 22 March 2020:
 
 Saturday, 14 March 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Argentina** ![][flag_AR] | **6** | 0 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/59168868) |
 | **Philippines** ![][flag_PH] | **6** | 3 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/59184618) |
@@ -289,7 +289,7 @@ Saturday, 14 March 2020:
 
 Sunday, 15 March 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Thailand ![][flag_TH] | 4 | **6** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/59216125) |
 | Russian Federation ![][flag_RU] | 2 | **6** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/59223440) |
@@ -299,7 +299,7 @@ Sunday, 15 March 2020:
 
 Saturday, 7 March 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **United Kingdom** ![][flag_GB] | **5** | 3 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/58991843) |
 | Chile ![][flag_CL] | -1 | **0** | ![][flag_SG] **Singapore** | *win by default* |
@@ -307,7 +307,7 @@ Saturday, 7 March 2020:
 
 Sunday, 8 March 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Brazil** ![][flag_BR] | **5** | 1 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/59012301) |
 | **Canada** ![][flag_CA] | **5** | 0 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/59012904) |
@@ -319,7 +319,7 @@ Sunday, 8 March 2020:
 
 Saturday, 29 February 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **United States A** ![][flag_US] | **5** | 0 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/58805762) |
 | South Korea ![][flag_KR] | 3 | **5** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/58813692) |
@@ -328,7 +328,7 @@ Saturday, 29 February 2020:
 
 Sunday, 1 March 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Argentina** ![][flag_AR] | **5** | 2 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/58832795) |
 | Singapore ![][flag_SG] | 3 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/58844085) |
@@ -339,7 +339,7 @@ Sunday, 1 March 2020:
 
 Saturday, 22 February 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Australia ![][flag_AU] | 0 | **4** | ![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/58634132) |
 | Switzerland ![][flag_CH] | 0 | **4** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/58635800) |
@@ -353,7 +353,7 @@ Saturday, 22 February 2020:
 
 Sunday, 23 February 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | South Korea ![][flag_KR] | 3 | **4** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/58656163) |
 | **United States** ![][flag_US] | **4** | 0 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/58658942) |
@@ -370,13 +370,13 @@ Sunday, 23 February 2020:
 
 Monday, 24 February 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Spain ![][flag_ES] | 0 | **4** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/58697212) |
 
 Tuesday, 25 February 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Team 1 | | | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Malaysia ![][flag_MY] | 2 | **4** | ![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/58717706) |
 | Netherlands ![][flag_NL] | 1 | **4** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/58726479) |
@@ -404,7 +404,7 @@ Tuesday, 25 February 2020:
 | #17 | ![][flag_BE] Belgium | 16.5 |
 | #18 | ![][flag_CL] Chile | 17.5 |
 | #19 | ![][flag_ES] Spain | 18.3 |
-| #20 | ![][flag_KR] South Korea |  19.3 |
+| #20 | ![][flag_KR] South Korea | 19.3 |
 | #20 | ![][flag_MY] Malaysia | 19.3 |
 | #22 | ![][flag_PL] Poland | 21.5 |
 | #23 | ![][flag_IT] Italy | 22.8 |
