@@ -11,7 +11,7 @@ With our latest Spotlight season released very recently, we are underway reworki
 Since March 2017, osu! Spotlights have worked in their current shape and form. While many mappers and players already love the idea of beatmaps being put on a pedestal, we want to expand on the idea by giving the curation and participation in osu! Spotlights a whole new twist.
 While we want to keep recommending beatmaps to you, we also want to add a whole new competitive and seasonal league closely attached to the recommended beatmaps. With this, you and your friends will have even more reason to delve deep into the best creations osu! has to offer.
 
-We are still working on the details on how this league will work in detail, but here are some aspects we *plan* to do:
+We are still working on the details on how this league will work, but here are some aspects we *plan* to do:
 
 - **We want to host weekly timeshift lobbies**, using osu!lazer's recently implemented feature, by having people compete actively on a portion of the beatmaps we have selected for the Spotlights.
 - With hosting weekly multiplayer lobbies, **we will release our recommendations little by little**. To keep things fresh, maps being played in the lobby will change every week. Because of this, we will only publish portions of the whole Beatmap Spotlights every week.
