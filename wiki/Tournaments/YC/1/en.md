@@ -335,7 +335,7 @@ Sunday, 5 April 2020:
 
 Saturday, 28 March 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Rtzero x Rtzer0** | **7** | 2 | Sakura Trick | [#1](https://osu.ppy.sh/community/matches/59699521) |
 | **Futon's Bunker** | **7** | 6 | Dziadzia team | [#1](https://osu.ppy.sh/community/matches/59702151) |
@@ -343,7 +343,7 @@ Saturday, 28 March 2020:
 
 Sunday, 29 March 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Futon's Bunker | 6 | **7** | **Rtzero x Rtzer0** | [#1](https://osu.ppy.sh/community/matches/59740324) |
 
@@ -351,7 +351,7 @@ Sunday, 29 March 2020:
 
 Saturday, 21 March 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Sakura Trick** | **6** | 1 | Voprossoff Fanclub | [#1](https://osu.ppy.sh/community/matches/59435218) |
 | **Hyouri Ittai** | **6** | 0 | 安倍-プーチン | [#1](https://osu.ppy.sh/community/matches/59439202) |
@@ -361,7 +361,7 @@ Saturday, 21 March 2020:
 
 Sunday, 22 March 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Baguette Vodka Salo | 2 | **6** | **Sakura Trick** | [#1](https://osu.ppy.sh/community/matches/59472828) |
 | **a la verga** | **6** | 3 | Futon's Bunker | [#1](https://osu.ppy.sh/community/matches/59476790) |
@@ -371,7 +371,7 @@ Sunday, 22 March 2020:
 
 Saturday, 14 March 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **安倍-プーチン** | **6** | 3 | MeAqua | [#1](https://osu.ppy.sh/community/matches/59180224) |
 | 11:40 | 0 | **6** | **:flushed:** | [#1](https://osu.ppy.sh/community/matches/59181826) |
@@ -384,7 +384,7 @@ Saturday, 14 March 2020:
 
 Sunday, 15 March 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Voprossoff Fanclub** | **6** | 2 | :flushed: | [#1](https://osu.ppy.sh/community/matches/59218709) |
 | **Futon's Bunker** | **6** | 0 | Justice for Riko | [#1](https://osu.ppy.sh/community/matches/59219906) |
@@ -399,7 +399,7 @@ Sunday, 15 March 2020:
 
 Saturday, 7 March 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Urushihara Fan Club | -1 | **0** | **Futon's Bunker** | *win by default* |
 | **:flushed:** | **6** | 3 | Donne moi une minute | [#1](https://osu.ppy.sh/community/matches/58990906) |
@@ -410,7 +410,7 @@ Saturday, 7 March 2020:
 
 Sunday, 8 March 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **MeAqua** | **6** | 4 | yayo | [#1](https://osu.ppy.sh/community/matches/59016020) |
 | **Justice for Riko** | **6** | 4 | 安倍-プーチン | [#1](https://osu.ppy.sh/community/matches/59027206) |
@@ -427,13 +427,13 @@ Sunday, 8 March 2020:
 
 Thursday, 27 February 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | MeAqua | 4 | **5** | **11:40** | [#1](https://osu.ppy.sh/community/matches/58760885) |
 
 Saturday, 29 February 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | comfkuehlesblondes | 4 | **5** | **Baguette Vodka Salo** | [#1](https://osu.ppy.sh/community/matches/58816973) |
 | **Voprossoff Fanclub** | **5** | 4 | SS Squad (and ruyu) | [#1](https://osu.ppy.sh/community/matches/58820338) |
@@ -443,7 +443,7 @@ Saturday, 29 February 2020:
 
 Sunday, 1 March 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Milk & Scissors | 0 | **5** | **Yuritarded** | [#1](https://osu.ppy.sh/community/matches/58836051) |
 | Alligator Space Jam | -1 | **0** | **Sakura Trick** | *win by default* |

@@ -354,7 +354,7 @@ This competition has come to an end and resulted in the following podium:
 
 Sunday, 16 February 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | LoidKun ![][flag_ID] | 1 | **7** | ![][flag_SG] **Rtyzen** | [#1](https://osu.ppy.sh/community/matches/58493519), [#2](https://osu.ppy.sh/community/matches/58497423) |
 | **Skydiver** ![][flag_ID] | **7** | 0 | ![][flag_SG] Rtyzen | [#1](https://osu.ppy.sh/community/matches/58498398) |
@@ -363,14 +363,14 @@ Sunday, 16 February 2020:
 
 Saturday, 8 February 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Rtyzen** ![][flag_SG] | **7** | 1 | ![][flag_MY] Tzero | [#1](https://osu.ppy.sh/community/matches/58293456) |
 | **Skydiver** ![][flag_ID] | **7** | 5 | ![][flag_ID] LoidKun | [#1](https://osu.ppy.sh/community/matches/58291987) |
 
 Sunday, 9 February 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | GSBlank ![][flag_MY] | 6 | **7** | ![][flag_PH] **MioMilo** | [#1](https://osu.ppy.sh/community/matches/58294546) |
 | Tzero ![][flag_MY] | -1 | **0** | ![][flag_MY] **GSBlank** | *win by default* |
@@ -380,32 +380,32 @@ Sunday, 9 February 2020:
 
 Sunday, 26 January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Tzero** ![][flag_MY] | **7** | 4 | ![][flag_ID] Rexeez | [#1](https://osu.ppy.sh/community/matches/57996209) |
 
 Monday, 27 January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | k\_1tty ![][flag_SG] | 5 | **7** | ![][flag_ID] **Fuma** | [#1](https://osu.ppy.sh/community/matches/58017371) |
 
 Wednesday, 29 January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Tzero** ![][flag_MY] | **7** | 6 | ![][flag_ID] Fuma | [#1](https://osu.ppy.sh/community/matches/58056299) |
 
 Saturday, 1 February 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Raindrop ![][flag_SG] | 0 | **7** | ![][flag_PH] **MioMilo** | [#1](https://osu.ppy.sh/community/matches/58124637) |
 | **Skydiver** ![][flag_ID] | **7** | 1 | ![][flag_SG] Rtyzen | [#1](https://osu.ppy.sh/community/matches/58127618) |
 
 Sunday, 2 February 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **JianHaoTan** ![][flag_SG] | **7** | 4 | ![][flag_VN] Tuon | [#1](https://osu.ppy.sh/community/matches/58131061) |
 | JianHaoTan ![][flag_SG] | -1 | **0** | ![][flag_PH] **MioMilo** | *win by default* |
@@ -415,13 +415,13 @@ Sunday, 2 February 2020:
 
 Wednesday, 15 January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Rexeez** ![][flag_ID] | **6** | 0 | ![][flag_ID] dika312 | [#1](https://osu.ppy.sh/community/matches/57737664) |
 
 Friday, 17 January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | k\_1tty ![][flag_SG] | 3 | **6** | ![][flag_MY] **GSBlank** | [#1](https://osu.ppy.sh/community/matches/57777852) |
 | Deppyforce ![][flag_TH] | 0 | **6** | ![][flag_ID] **Gatyaa420** | [#1](https://osu.ppy.sh/community/matches/57779071) |
@@ -431,7 +431,7 @@ Friday, 17 January 2020:
 
 Saturday, 18 January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Chorus ![][flag_TH] | 4 | **6** | ![][flag_VN] **Tuon** | [#1](https://osu.ppy.sh/community/matches/57801776) |
 | ShaneLiang ![][flag_MY] | -1 | **0** | ![][flag_VN] **realshin** | *win by default* |
@@ -440,7 +440,7 @@ Saturday, 18 January 2020:
 
 Sunday, 19 January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **MioMilo** ![][flag_PH] | **6** | 0 | ![][flag_PH] konawiki | [#1](https://osu.ppy.sh/community/matches/57819862) |
 | Ascaveth ![][flag_ID] | 4 | **6** | ![][flag_ID] **Rexeez** | [#1](https://osu.ppy.sh/community/matches/57833283) |
@@ -449,7 +449,7 @@ Sunday, 19 January 2020:
 
 Monday, 20 January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **MioMilo** ![][flag_PH] | **6** | 0 | ![][flag_VN] realshin | [#1](https://osu.ppy.sh/community/matches/57858251) |
 
@@ -457,14 +457,14 @@ Monday, 20 January 2020:
 
 Friday, 10 January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Fre ![][flag_ID] | 3 | **6** | ![][flag_MY] **not\_aweeb** | [#1](https://osu.ppy.sh/community/matches/57616959) |
 | Moltenfury ![][flag_SG] | 4 | **6** | ![][flag_ID] **dika312** | [#1](https://osu.ppy.sh/community/matches/57618365) |
 
 Saturday, 11 January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Ascaveth** ![][flag_ID] | **6** | 1 | ![][flag_ID] phizh | [#1](https://osu.ppy.sh/community/matches/57641099) |
 | F4UZ4N ![][flag_ID] | 2 | **6** | ![][flag_ID] **gunadharika** | [#1](https://osu.ppy.sh/community/matches/57641102) |
@@ -485,7 +485,7 @@ Saturday, 11 January 2020:
 
 Sunday, 12 January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Skydiver** ![][flag_ID] | **6** | 1 | ![][flag_ID] Fuma | [#1](https://osu.ppy.sh/community/matches/57652913) |
 | **Ascaveth** ![][flag_ID] | **6** | 3 | ![][flag_ID] gunadharika | [#1](https://osu.ppy.sh/community/matches/57670514) |
@@ -502,7 +502,7 @@ Sunday, 12 January 2020:
 
 Monday, 13 January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Raindrop** ![][flag_SG] | **6** | 1 | ![][flag_SG] woahsia | [#1](https://osu.ppy.sh/community/matches/57699318) |
 
@@ -510,13 +510,13 @@ Monday, 13 January 2020:
 
 Thursday, 2 January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Deppyforce** ![][flag_TH] | **6** | 2 | ![][flag_MY] Zygody | [#1](https://osu.ppy.sh/community/matches/57437443) |
 
 Friday, 3 January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **ExLuck** ![][flag_SE] | **6** | 1 | ![][flag_MY] mickeyparm | [#1](https://osu.ppy.sh/community/matches/57457650) |
 | **Rtyzen** ![][flag_SG] | **6** | 1 | ![][flag_VN] Hoaq | [#1](https://osu.ppy.sh/community/matches/57458434) |
@@ -525,7 +525,7 @@ Friday, 3 January 2020:
 
 Saturday, 4 January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **gunadharika** ![][flag_ID] | **6** | 0 | ![][flag_MY] KrispyKrep | [#1](https://osu.ppy.sh/community/matches/57479602) |
 | **k\_1tty** ![][flag_SG] | **0** | -1 | ![][flag_MY] Sano | *win by default* |
@@ -542,7 +542,7 @@ Saturday, 4 January 2020:
 
 Sunday, 5 January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | konawiki ![][flag_PH] | 1 | **6** | ![][flag_SG] **JianHao Tan** | [#1](https://osu.ppy.sh/community/matches/57506707) |
 | LongExistence ![][flag_ID] | -1 | **0** | ![][flag_MY] **Agagak** | *win by default* |
@@ -564,19 +564,19 @@ Sunday, 5 January 2020:
 
 Tuesday, 17 December 2019:
 
-| Group | Player 1 | | | Player 2 | Match link |
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | I1 | **Agagak** ![][flag_MY] | **5** | 0 | ![][flag_MY] Its not Marvin | [#1](https://osu.ppy.sh/community/matches/57038147) |
 
 Wednesday, 18 December 2019:
 
-| Group | Player 1 | | | Player 2 | Match link |
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | I3 | **Rexeez** ![][flag_ID] | **5** | 1 | ![][flag_MY] Agagak | [#1](https://osu.ppy.sh/community/matches/57060559) |
 
 Thursday, 19 December 2019:
 
-| Group | Player 1 | | | Player 2 | Match link |
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | M2 | **kezo** ![][flag_VN] | **5** | 0 | ![][flag_ID] FzoneBlue | [#1](https://osu.ppy.sh/community/matches/57080712) |
 | A1 | **phizh** ![][flag_ID] | **5** | 0 | ![][flag_TH] -Plubby- | [#1](https://osu.ppy.sh/community/matches/57084087) |
@@ -586,7 +586,7 @@ Thursday, 19 December 2019:
 
 Friday, 20 December 2019:
 
-| Group | Player 1 | | | Player 2 | Match link |
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | K1 | **xidorn** ![][flag_PH] | **5** | 1 | ![][flag_MY] Judicious | [#1](https://osu.ppy.sh/community/matches/57101390) |
 | O2 | **Chiyuu** ![][flag_MY] | **5** | 0 | ![][flag_ID] D-Rain | [#1](https://osu.ppy.sh/community/matches/57104587) |
@@ -605,7 +605,7 @@ Friday, 20 December 2019:
 
 Saturday, 21 December 2019:
 
-| Group | Player 1 | | | Player 2 | Match link |
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | M1 | **Lunarsol** ![][flag_SG] | **5** | 1 | ![][flag_VN] Hifivem8 | [#1](https://osu.ppy.sh/community/matches/57129401) |
 | I2 | **Moltenfury** ![][flag_SG] | **5** | 0 | ![][flag_PH] -Flux | [#1](https://osu.ppy.sh/community/matches/57130909) |
@@ -634,7 +634,7 @@ Saturday, 21 December 2019:
 
 Sunday, 22 December 2019:
 
-| Group | Player 1 | | | Player 2 | Match link |
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | E2 | **Computer Badger** ![][flag_MY] | **5** | 0 | ![][flag_TH] BruTal Osu Game | [#1](https://osu.ppy.sh/community/matches/57157590) |
 | C4 | **Zeph2003** ![][flag_MY] | **5** | 0 | ![][flag_ID] gunadharika | [#1](https://osu.ppy.sh/community/matches/57158336) |
@@ -650,7 +650,7 @@ Sunday, 22 December 2019:
 
 Monday, 23 December 2019:
 
-| Group | Player 1 | | | Player 2 | Match link |
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | I9 | Gatyaa420 ![][flag_ID] | -1 | **0** | ![][flag_SG] **Moltenfury** | *win by default* |
 | F4 | -- Arata -- ![][flag_TH] | 0 | **5** | ![][flag_ID] **LoidKun** | [#1](https://osu.ppy.sh/community/matches/57188961) |
@@ -662,14 +662,14 @@ Monday, 23 December 2019:
 
 Tuesday, 24 December 2019:
 
-| Group | Player 1 | | | Player 2 | Match link |
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | H4 | **Zygody** ![][flag_MY] | **5** | 0 | ![][flag_ID] Tazkiz | [#1](https://osu.ppy.sh/community/matches/57213854) |
 | I5 | **Rexeez** ![][flag_ID] | **5** | 4 | ![][flag_ID] Gatyaa420 | [#1](https://osu.ppy.sh/community/matches/57214667) |
 
 Wednesday, 25 December 2019:
 
-| Group | Player 1 | | | Player 2 | Match link |
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | B2 | **MilkyCoffee-** ![][flag_MY] | **5** | 0 | ![][flag_SG] eFrostBite | [#1](https://osu.ppy.sh/community/matches/57232564) |
 | H6 | **\[AmPhyze\]** ![][flag_TH] | **5** | 0 | ![][flag_TH] minec456 | [#1](https://osu.ppy.sh/community/matches/57234903) |
@@ -681,7 +681,7 @@ Wednesday, 25 December 2019:
 
 Thursday, 26 December 2019:
 
-| Group | Player 1 | | | Player 2 | Match link |
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | E6 | **OppaiSuki** ![][flag_SG] | **5** | 0 | ![][flag_TH] BruTal Osu Game | [#1](https://osu.ppy.sh/community/matches/57254220) |
 | A7 | **phizh** ![][flag_ID] | **5** | 2 | ![][flag_PH] fixedbyglue | [#1](https://osu.ppy.sh/community/matches/57254553) |
@@ -691,7 +691,7 @@ Thursday, 26 December 2019:
 
 Friday, 27 December 2019:
 
-| Group | Player 1 | | | Player 2 | Match link |
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | N6 | **NoVaLian** ![][flag_ID] | **0** | -1 | ![][flag_TH] AkiYotoki | *win by default* |
 | A6 | **-Plubby-** ![][flag_TH] | **5** | 0 | ![][flag_VN] NamSPro | [#1](https://osu.ppy.sh/community/matches/57280256) |
@@ -705,7 +705,7 @@ Friday, 27 December 2019:
 
 Saturday, 28 December 2019:
 
-| Group | Player 1 | | | Player 2 | Match link |
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | M6 | **Hifiveme8** ![][flag_VN] | **0** | -1 | ![][flag_ID] FzoneBlue | *win by default* |
 | K6 | **Judicious** ![][flag_MY] | **5** | 0 | ![][flag_TH] ben333ki | [#1](https://osu.ppy.sh/community/matches/57304803) |
@@ -737,7 +737,7 @@ Saturday, 28 December 2019:
 
 Sunday, 29 December 2019:
 
-| Group | Player 1 | | | Player 2 | Match link |
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | G5 | dika312 ![][flag_ID] | 0 | **5** | ![][flag_TH] **Deppyforce** | [#1](https://osu.ppy.sh/community/matches/57330938) |
 | C6 | **- Sheep -** ![][flag_VN] | **5** | 2 | ![][flag_TH] Kafie-kun | [#1](https://osu.ppy.sh/community/matches/57331753) |
@@ -763,7 +763,7 @@ Sunday, 29 December 2019:
 
 Monday, 30 December 2019:
 
-| Group | Player 1 | | | Player 2 | Match link |
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | C8 | **gunadharika** ![][flag_ID] | **5** | 1 | ![][flag_VN] - Sheep - | [#1](https://osu.ppy.sh/community/matches/57362608) |
 | G9 | dika312 ![][flag_ID] | 2 | **5** | ![][flag_SG] **Rtzero** | [#1](https://osu.ppy.sh/community/matches/57363754) |
@@ -773,7 +773,7 @@ Monday, 30 December 2019:
 
 Wednesday, 1 December 2019:
 
-| Group | Player 1 | | | Player 2 | Match link |
+| Group | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | M8 | **kezo** ![][flag_VN] | **0** | -1 | ![][flag_VN] Hifivem8 | *win by default* |
 

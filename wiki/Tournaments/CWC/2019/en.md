@@ -54,7 +54,7 @@ The osu!catch World Cup 2019 was run by various community members by distributin
 
 ## Participants
 
-| | Country | Members |
+|  | Country | Members |
 | :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[\[Force\]](https://osu.ppy.sh/users/1617217)**, [VelperK](https://osu.ppy.sh/users/348467), [NachOx](https://osu.ppy.sh/users/3971534), [warning dark](https://osu.ppy.sh/users/5040981), [jerem1as](https://osu.ppy.sh/users/6117864), [Ambition-](https://osu.ppy.sh/users/6960376) |
 | ![][flag_AU] | **Australia** | **[chickennando](https://osu.ppy.sh/users/5818665)**, [yennibear](https://osu.ppy.sh/users/3874176), [Jaye](https://osu.ppy.sh/users/4841352), [die Eisdiele](https://osu.ppy.sh/users/7155262), [KWYJIBO](https://osu.ppy.sh/users/7178386) |
@@ -276,18 +276,18 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-| Saturday, 2019-08-03 | | | | |
+| Saturday, 2019-08-03 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **China** ![][flag_CN] | **7** | 1 | ![][flag_CL] | [#1](https://osu.ppy.sh/community/matches/53809297) |
 
-| Sunday, 2019-08-04 | | | | |
+| Sunday, 2019-08-04 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | South Korea ![][flag_KR] | 4 | **7** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/53828395) |
 | China ![][flag_CN] | 3 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/53830712) |
 
 ### Finals
 
-| Saturday, 2019-07-27 | | | | |
+| Saturday, 2019-07-27 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | China ![][flag_CN] | 2 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/53636548) |
 | **Chile** ![][flag_CL] | **7** | 1 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/53643053) |
@@ -296,7 +296,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-| Saturday, 2019-07-20 | | | | |
+| Saturday, 2019-07-20 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Taiwan ![][flag_TW] | 5 | **7** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/53472837) |
 | **South Korea** ![][flag_KR] | **7** | 2 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/53473820) |
@@ -304,7 +304,7 @@ This competition has come to an end and resulted in the following podium:
 | Finland ![][flag_FI] | 0 | **7** | ![][flag_MX] **Mexico** | -win by default- |
 | **United States** ![][flag_US] | **7** | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/53486183) |
 
-| Sunday, 2019-07-21 | | | | |
+| Sunday, 2019-07-21 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Chile ![][flag_CL] | 2 | **7** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/53490373) |
 | Philippines ![][flag_PH] | 5 | **7** | ![][flag_MX] **Mexico** | [#1](https://osu.ppy.sh/community/matches/53491250) |
@@ -312,7 +312,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-| Saturday, 2019-07-13 | | | | |
+| Saturday, 2019-07-13 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Hong Kong** ![][flag_HK] | **6** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/53145753) |
 | Netherlands ![][flag_NL] | 3 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/53147363) |
@@ -321,14 +321,14 @@ This competition has come to an end and resulted in the following podium:
 | Sweden ![][flag_SE] | 3 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/53153172) |
 | United States ![][flag_US] | 2 | **6** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/53169340) |
 
-| Sunday, 2019-07-14 | | | | |
+| Sunday, 2019-07-14 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Philippines ![][flag_PH] | 0 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/53145753) |
 | **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/53147363) |
 
 ### Round of 16
 
-| Saturday, 2019-07-06 | | | | |
+| Saturday, 2019-07-06 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Netherlands ![][flag_NL] | 0 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/53145753) |
 | **China** ![][flag_CN] | **6** | 3 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/53147363) |
@@ -336,7 +336,7 @@ This competition has come to an end and resulted in the following podium:
 | Poland ![][flag_PL] | 1 | **6** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/53151416) |
 | **Chile** ![][flag_CL] | **6** | 1 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/53153172) |
 
-| Sunday, 2019-07-07 | | | | |
+| Sunday, 2019-07-07 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Philippines** ![][flag_PH] | **6** | 1 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/53169340) |
 | **Taiwan** ![][flag_TW] | **6** | 3 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/53170971) |
@@ -344,7 +344,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-| Saturday, 2019-06-29 | | | | |
+| Saturday, 2019-06-29 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Hong Kong ![][flag_HK] | 2 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/52984011) |
 | Japan ![][flag_JP] | 0 | **5** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/52983995) |
@@ -375,7 +375,7 @@ This competition has come to an end and resulted in the following podium:
 | Brazil ![][flag_BR] | 0 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/52996265) |
 | Mexico ![][flag_MX] | 3 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/52997527) |
 
-| Sunday, 2019-06-30 | | | | |
+| Sunday, 2019-06-30 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Australia ![][flag_AU] | 2 | **5** | ![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/53006976) |
 | Thailand ![][flag_TH] | 0 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/53006979) |

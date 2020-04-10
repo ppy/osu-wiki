@@ -33,12 +33,12 @@ The **{TOURNAMENT_NAME}** (***{ABBR}***) is a country-based {MODE} tournament ho
 | --: | :-- |
 | Registration Phase | 2018-01-01/2018-01-28 |
 | Live Drawings | 2018-01-29 {DRAW_TIME} |
-| Group Stage | |
-| Round of 16 | |
-| Quarterfinals | |
-| Semifinals | |
-| Finals - Week 1 | |
-| Finals - Week 2 | |
+| Group Stage |  |
+| Round of 16 |  |
+| Quarterfinals |  |
+| Semifinals |  |
+| Finals - Week 1 |  |
+| Finals - Week 2 |  |
 
 <!-- Use YYYY-MM-DD Format for dates e.g. 2018-01-01
 Use (HH:MM) format for {DRAW_TIME} e.g. (12:00 UTC)
@@ -50,9 +50,9 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") |  |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") |  |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") |  |
 
 ## Organisation
 
@@ -61,13 +61,13 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 | Position | Member(s) |
 | :-- | :-- |
 | Example; delete this line | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_AU] [BanchoBot](https://osu.ppy.sh/users/3) |
-| Manager | |
-| Map Selector | |
+| Manager |  |
+| Map Selector |  |
 | Streamer |
-| Commentator | |
+| Commentator |  |
 | Designer |
 | Referee |
-| Statistician | |
+| Statistician |  |
 
 ## Links
 
@@ -77,10 +77,10 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 
 ## Participants
 
-| | Country | Members |
+|  | Country | Members |
 | :-: | :-: | :-- |
 | ![][flag_AU] | **Australia** | [peppy](https://osu.ppy.sh/users/2), [BanchoBot](https://osu.ppy.sh/users/3) |
-| | | |
+|  |  |  |
 
 ## Groups
 
@@ -128,8 +128,8 @@ The {TOURNAMENT_NAME} is run by various community members by distributing the mu
 
 Day, date:
 
-| Blue team | | | Red team | Match link |
-<!-- For solo tournaments, replace table header with: | Player 1 | | | Player 2 | Match link | -->
+| Blue team |  |  | Red team | Match link |
+<!-- For solo tournaments, replace table header with: | Player 1 |  |  | Player 2 | Match link | -->
 | --: | :-: | :-: | :-- | :-- |
 | **WINNER** ![][flag] | **SCORE** | SCORE | ![][flag] LOSER | [#1](MATCH_LINK) |
 | LOSER ![][flag] | -1 <!-- It's convention to write "-1" for forfeits, but this isn't required --> | **0** | ![][flag] **WINNER** | *win by default* |

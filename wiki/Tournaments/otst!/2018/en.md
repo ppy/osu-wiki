@@ -329,7 +329,7 @@ This competition has come to an end and resulted in the following podium:
 
 Sunday, 15 April 2018:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Rubber Conquest** | **7** | 0 | Floating up | [#1](https://osu.ppy.sh/community/matches/41674456) |
 
@@ -337,14 +337,14 @@ Sunday, 15 April 2018:
 
 Saturday, 31 March 2018:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | OwO | 2 | **6** | **GOMEN JEFFREY** | [#1](https://osu.ppy.sh/community/matches/41279760) |
 | **shen mapo** | **6** | 4 | Azer | [#1](https://osu.ppy.sh/community/matches/41281118) |
 
 Sunday, 1 April 2018:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Rubber Conquest** | **7** | 0 | Floating up | [#1](https://osu.ppy.sh/community/matches/41302761) |
 | **Shigure Lovers** | **6** | 0 | GOMEN JEFFREY | [#1](https://osu.ppy.sh/community/matches/41312707) |
@@ -352,7 +352,7 @@ Sunday, 1 April 2018:
 
 Saturday, 7 April 2018:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **black dogleg** | **7** | 5 | Shigure Lovers | [#1](https://osu.ppy.sh/community/matches/41475308) |
 | **Floating up** | **7** | 5 | black dogleg | [#1](https://osu.ppy.sh/community/matches/41492413) |
@@ -361,7 +361,7 @@ Saturday, 7 April 2018:
 
 Saturday, 24 March 2018:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Gekidan PIKORI** | **6** | 3 | Sexy Snowmen | [#1](https://osu.ppy.sh/community/matches/41082092) |
 | no gugu | 2 | **6** | **Sayuri best girl** | [#1](https://osu.ppy.sh/community/matches/41085298) |
@@ -372,7 +372,7 @@ Saturday, 24 March 2018:
 
 Sunday, 25 March 2018:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | black dogleg | 2 | **6** | **Floating up** | [#1](https://osu.ppy.sh/community/matches/41108342) |
 | **Azer** | **6** | 0 | Sayuri best girl | [#1](https://osu.ppy.sh/community/matches/41117934) |
@@ -385,7 +385,7 @@ Sunday, 25 March 2018:
 
 Saturday, 17 March 2018:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **no gugu** | **6** | 0 | Yomi yori kikoyu | *win by default* |
 | **Shigure Lovers** | **6** | 3 | Azer | [#1](https://osu.ppy.sh/community/matches/40908357) |
@@ -395,7 +395,7 @@ Saturday, 17 March 2018:
 
 Sunday, 18 March 2018:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Rubber Conquest** | **6** | 0 | shen mapo | [#1](https://osu.ppy.sh/community/matches/40926538) |
 | ANGERY JEFFREY | 1 | **6** | **hotel for lolis** | [#1](https://osu.ppy.sh/community/matches/40927694) |
@@ -409,7 +409,7 @@ Sunday, 18 March 2018:
 
 Saturday, 10 March 2018:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Floating up** | **5** | 0 | lotus top 1 br | [#1](https://osu.ppy.sh/community/matches/40718635) |
 | GOMEN JEFFREY | 4 | **5** | **shen mapo** | [#1](https://osu.ppy.sh/community/matches/40718778) |
@@ -420,7 +420,7 @@ Saturday, 10 March 2018:
 
 Sunday, 11 March 2018:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Shigure Lovers** | **5** | 0 | nvnvnvnvn | [#1](https://osu.ppy.sh/community/matches/40726425) |
 | **black dogleg** | **5** | 0 | Sayuri best girl | [#1](https://osu.ppy.sh/community/matches/40732922) |
@@ -432,7 +432,7 @@ Sunday, 11 March 2018:
 
 Saturday, 3 March 2018:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Shigure Lovers** | **5** | 0 | Yomi yori kikoyu | [#1](https://osu.ppy.sh/community/matches/40532109) |
 | **Gekidan PIKORI** | **5** | 1 | cringepeek | [#1](https://osu.ppy.sh/community/matches/40534186) |
@@ -443,7 +443,7 @@ Saturday, 3 March 2018:
 
 Sunday, 4 March 2018:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **black dogleg** | **5** | 0 | hotel for lolis | [#1](https://osu.ppy.sh/community/matches/40556183) |
 | hotel for dogs | 2 | **5** | **no gugu** | [#1](https://osu.ppy.sh/community/matches/40557149) |
@@ -460,7 +460,7 @@ Sunday, 4 March 2018:
 
 Saturday, 17 February 2018:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Doki-Doki Osu Club** | **4** | 0 | LemmeTeachDaWey | [#1](https://osu.ppy.sh/community/matches/40145386) |
 | **azur lane** | **4** | 0 | dab on haters | *win by default* |
@@ -483,7 +483,7 @@ Saturday, 17 February 2018:
 
 Sunday, 18 February 2018:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Cauldron Bois V2** | **4** | 1 | The Fine Ladies | [#1](https://osu.ppy.sh/community/matches/40164247) |
 | **hotel for dogs** | **4** | 1 | Teamcito II | [#1](https://osu.ppy.sh/community/matches/40166029) |
@@ -517,7 +517,7 @@ Sunday, 18 February 2018:
 
 Saturday, 24 February 2018:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **ANGRY JEFFREY** | **4** | 0 | Prob a drug ring | [#1](https://osu.ppy.sh/community/matches/40329694) |
 | **Gekidan PIKORI** | **4** | 0 | Accuracy^ | [#1](https://osu.ppy.sh/community/matches/40336529) |
@@ -539,7 +539,7 @@ Saturday, 24 February 2018:
 
 Sunday, 25 February 2018:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Teamcito II** | **4** | 0 | Lolicops | [#1](https://osu.ppy.sh/community/matches/40356045) |
 | **Sexy Snowmen** | **4** | 0 | The Leftovers | [#1](https://osu.ppy.sh/community/matches/40357523) |

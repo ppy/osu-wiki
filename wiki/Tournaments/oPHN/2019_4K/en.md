@@ -185,11 +185,11 @@ The **osu! Philippines Nationals 2019 (osu!mania 4K)** (***PHN4K 2019***) is a o
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRjtQACfYU88yQ746ZJ-UY-kbdn_3_gtF6ewz6xtp6OoeB1Jh1zZ8DIMgxM3kvyfB6o-leJjjOqm08I/pubhtml)
 
-| Saturday, 2019-06-29 | | | | |
+| Saturday, 2019-06-29 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **windrush123** | **6** | 3 | nathan on mania | [#1](https://osu.ppy.sh/community/matches/52986554) |
 
-| Saturday, 2019-06-30 | | | | |
+| Saturday, 2019-06-30 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Silhoueska Elze** | **6** | 1 | Swarmsii | [#1](https://osu.ppy.sh/community/matches/53004365) |
 | **Koibenii** | **6** | 5 | - Kura - | [#1](https://osu.ppy.sh/community/matches/53005937) |
@@ -199,11 +199,11 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTPGzvuwEUIjD0cORSXGf_jnYMOy6AZB-a8LrUUVGjur5XcPPoAeTt3mulsYl6GZU0u7Ndftu922CTB/pubhtml)
 
-| Saturday, 2019-06-22 | | | | |
+| Saturday, 2019-06-22 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **- Kura -** | **6** | 5 | realqarp | [#1](https://osu.ppy.sh/community/matches/52819151) |
 
-| Sunday, 2019-06-23 | | | | |
+| Sunday, 2019-06-23 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Koibenii** | **6** | 2 | Arccat | [#1](https://osu.ppy.sh/community/matches/52840309) |
 | nathan on mania | 4 | **6** | **Swarmsii** | [#1](https://osu.ppy.sh/community/matches/52844221) |
@@ -213,18 +213,18 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSdgCT4CH9eo8qFgAWTBj5AafXFJXyaL9FLxxQvuC-TSDaOXy5n4_sSc4jDyNtGI3KoZSZPk4w4Dmzx/pubhtml)
 
-| Thursday, 2019-06-13 | | | | |
+| Thursday, 2019-06-13 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Swarmsii** | **5** | 2 | vincent4399 | [#1](https://osu.ppy.sh/community/matches/52582100) |
 
-| Friday, 2019-06-14 | | | | |
+| Friday, 2019-06-14 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **ChristsuGaming** | **5** | 1 | vincent4399 | [#1](https://osu.ppy.sh/community/matches/52606297) |
 | **windrush123** | **5** | 2 | Arccat | [#1](https://osu.ppy.sh/community/matches/52606070) |
 | realqarp | 3 | **5** | **nathan on mania** | [#1](https://osu.ppy.sh/community/matches/52606332) |
 | **- Kura -** | **5** | 1 | vincent4399 | [#1](https://osu.ppy.sh/community/matches/52608617) |
 
-| Saturday, 2019-06-15 | | | | |
+| Saturday, 2019-06-15 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Arccat** | **5** | 0 | PotatoPresser | [#1](https://osu.ppy.sh/community/matches/52630036) |
 | **windrush123** | **5** | 0 | PotatoPresser | [#1](https://osu.ppy.sh/community/matches/52632922) |
@@ -236,7 +236,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 | **Silhoueska Elze** | **5** | 0 | bananacake304 | [#1](https://osu.ppy.sh/community/matches/52638906) |
 | **Shiyui-** | **5** | 1 | PotatoPresser | [#1](https://osu.ppy.sh/community/matches/52639494) |
 
-| Sunday, 2019-06-16 | | | | |
+| Sunday, 2019-06-16 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Lordie09** | **5** | 1 | Chez | [#1](https://osu.ppy.sh/community/matches/52657820) |
 | **realqarp** | **5** | 1 | Chez | [#1](https://osu.ppy.sh/community/matches/52658913) |
@@ -253,12 +253,12 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSvo5Nn4awVWc7jCwnLXH1cMMUGAYwghXnlxIUFq5iA32yLKQOS5nKyVgh16Zv3G8ZyUgl-G1TTOj9b/pubhtml)
 
-| Friday, 2019-06-07 | | | | |
+| Friday, 2019-06-07 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | notapplicable | 0 | **4** | **vincent4399** | -win by default- |
 | **Lordie09** | **4** | 2 | MiekoYanagi | [#1](https://osu.ppy.sh/community/matches/52429092) |
 
-| Saturday, 2019-06-08 | | | | |
+| Saturday, 2019-06-08 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Chez** | **4** | 1 | Batujitsu | [#1](https://osu.ppy.sh/community/matches/52451521) |
 | didgey | 1 | **4** | **Hues** | [#1](https://osu.ppy.sh/community/matches/52451866) |
@@ -269,7 +269,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 | Neoskiie | 0 | **4** | **Chiaki-chan** | [#1](https://osu.ppy.sh/community/matches/52457281) |
 | **GTXCZE** | **4** | 0 | Edison | [#1](https://osu.ppy.sh/community/matches/52458503) |
 
-| Sunday, 2019-06-09 | | | | |
+| Sunday, 2019-06-09 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Captain Cusheen | 0 | **4** | **PotatoPresser** | -win by default- |
 | **Arccat** | **4** | 0 | Hues | [#1](https://osu.ppy.sh/community/matches/52479270) |

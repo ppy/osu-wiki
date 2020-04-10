@@ -75,33 +75,33 @@ Tabel yang tercantum di bawah menunjukkan gamemode di mana setiap Beatmap Nomina
 | :-- | :-- |
 | [- Matha -](https://osu.ppy.sh/users/7354729) | Chinese, Cantonese |
 | [\_Epreus](https://osu.ppy.sh/users/7342798) | Korean |
-| [Agatsu](https://osu.ppy.sh/users/5579871) | |
-| [ailv](https://osu.ppy.sh/users/6933054) | |
+| [Agatsu](https://osu.ppy.sh/users/5579871) |  |
+| [ailv](https://osu.ppy.sh/users/6933054) |  |
 | [Andrea](https://osu.ppy.sh/users/33599) | Italian |
-| [Arf](https://osu.ppy.sh/users/3716999) | |
+| [Arf](https://osu.ppy.sh/users/3716999) |  |
 | [Beomsan](https://osu.ppy.sh/users/3626063) | Korean |
-| [Bibbity Bill](https://osu.ppy.sh/users/4446810) | |
+| [Bibbity Bill](https://osu.ppy.sh/users/4446810) |  |
 | [bossandy](https://osu.ppy.sh/users/360437) | Chinese |
 | [celerih](https://osu.ppy.sh/users/4696296) | French |
 | [Cris-](https://osu.ppy.sh/users/6175280) | Spanish |
 | [Crissa](https://osu.ppy.sh/users/5405836) | Spanish |
-| [Doormat](https://osu.ppy.sh/users/3230571) | |
+| [Doormat](https://osu.ppy.sh/users/3230571) |  |
 | [DTM9 Nowa](https://osu.ppy.sh/users/5428909) | Finnish |
 | [eiri-](https://osu.ppy.sh/users/3388410) | Spanish |
 | [Electoz](https://osu.ppy.sh/users/6485263) | Thai |
 | [Error-](https://osu.ppy.sh/users/3378391) | Indonesian |
-| [fieryrage](https://osu.ppy.sh/users/3533958) | |
+| [fieryrage](https://osu.ppy.sh/users/3533958) |  |
 | [Gero](https://osu.ppy.sh/users/1467715) | Spanish |
-| [Hailie](https://osu.ppy.sh/users/5226970) | |
-| [Hanasaka Yui](https://osu.ppy.sh/users/6443117) | |
+| [Hailie](https://osu.ppy.sh/users/5226970) |  |
+| [Hanasaka Yui](https://osu.ppy.sh/users/6443117) |  |
 | [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonesian |
-| [hypercyte](https://osu.ppy.sh/users/9155377) | |
+| [hypercyte](https://osu.ppy.sh/users/9155377) |  |
 | [IceKalt](https://osu.ppy.sh/users/5410645) | German |
 | [jonathanlfj](https://osu.ppy.sh/users/270377) | Chinese, some French |
 | [Kaitjuh](https://osu.ppy.sh/users/2225327) | Dutch |
 | [Kalibe](https://osu.ppy.sh/users/3376777) | Polish |
 | [Krfawy](https://osu.ppy.sh/users/1478292) | Polish |
-| [Lafayla](https://osu.ppy.sh/users/5312547) | |
+| [Lafayla](https://osu.ppy.sh/users/5312547) |  |
 | [LMT](https://osu.ppy.sh/users/7262798) | Vietnamese |
 | [MaridiuS](https://osu.ppy.sh/users/4496961) | Serbian |
 | [Mirash](https://osu.ppy.sh/users/2841009) | Russian |
@@ -111,30 +111,30 @@ Tabel yang tercantum di bawah menunjukkan gamemode di mana setiap Beatmap Nomina
 | [NeilPerry](https://osu.ppy.sh/users/841391) | Russian |
 | [neonat](https://osu.ppy.sh/users/1561995) | Chinese |
 | [NEVlR](https://osu.ppy.sh/users/8339126) | French |
-| [Nevo](https://osu.ppy.sh/users/7451883) | |
+| [Nevo](https://osu.ppy.sh/users/7451883) |  |
 | [Nikakis](https://osu.ppy.sh/users/4351739) | Greek |
 | [Nozhomi](https://osu.ppy.sh/users/2716981) | French |
 | [Okoratu](https://osu.ppy.sh/users/1623405) | German |
 | [pimpG](https://osu.ppy.sh/users/328615) | Portuguese |
 | [Realazy](https://osu.ppy.sh/users/918297) | French |
-| [Rizen](https://osu.ppy.sh/users/3056732) | |
+| [Rizen](https://osu.ppy.sh/users/3056732) |  |
 | [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Chinese |
 | [Serizawa Haruki](https://osu.ppy.sh/users/6642617) | German, Italian |
 | [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portuguese |
-| [Sinnoh](https://osu.ppy.sh/users/4236057) | |
-| [squirrelpascals](https://osu.ppy.sh/users/6151332) | |
+| [Sinnoh](https://osu.ppy.sh/users/4236057) |  |
+| [squirrelpascals](https://osu.ppy.sh/users/6151332) |  |
 | [Sotarks](https://osu.ppy.sh/users/4452992) | French |
-| [Sparhten](https://osu.ppy.sh/users/7601720) | |
-| [spoes](https://osu.ppy.sh/users/9505704) | |
+| [Sparhten](https://osu.ppy.sh/users/7601720) |  |
+| [spoes](https://osu.ppy.sh/users/9505704) |  |
 | [Testo](https://osu.ppy.sh/users/5200881) | Russian |
 | [TheKingHenry](https://osu.ppy.sh/users/5128277) | Finnish |
 | [timemon](https://osu.ppy.sh/users/2072005) | Thai |
-| [Ultima Fox](https://osu.ppy.sh/users/3198109) | |
-| [UndeadCapulet](https://osu.ppy.sh/users/2523533) | |
+| [Ultima Fox](https://osu.ppy.sh/users/3198109) |  |
+| [UndeadCapulet](https://osu.ppy.sh/users/2523533) |  |
 | [Uta](https://osu.ppy.sh/users/9439796) | Indonesian |
 | [Venix](https://osu.ppy.sh/users/5999631) | Polish |
-| [Yahuri](https://osu.ppy.sh/users/4682629) | |
-| [yaspo](https://osu.ppy.sh/users/4945926) | |
+| [Yahuri](https://osu.ppy.sh/users/4682629) |  |
+| [yaspo](https://osu.ppy.sh/users/4945926) |  |
 | [Yugu](https://osu.ppy.sh/users/3161834) | Chinese, Japanese |
 | [Yuii-](https://osu.ppy.sh/users/2935923) | Spanish, Portuguese |
 | [Yukiyo](https://osu.ppy.sh/users/4541873) | German |
@@ -166,31 +166,31 @@ Tabel yang tercantum di bawah menunjukkan gamemode di mana setiap Beatmap Nomina
 | :-- | :-- |
 | [-Luminate](https://osu.ppy.sh/users/4778689) | Thai |
 | [alienflybot](https://osu.ppy.sh/users/636114) | Cantonese, Chinese |
-| [Ascendance](https://osu.ppy.sh/users/2931883) | |
+| [Ascendance](https://osu.ppy.sh/users/2931883) |  |
 | [AJamez](https://osu.ppy.sh/users/7890134) | Filipino |
 | [Benny-](https://osu.ppy.sh/users/4023183) | Norwegian |
-| [chickenbible](https://osu.ppy.sh/users/2306637) | |
+| [chickenbible](https://osu.ppy.sh/users/2306637) |  |
 | [IDu5t](https://osu.ppy.sh/users/6053071) | German |
-| [MBomb](https://osu.ppy.sh/users/3071175) | |
+| [MBomb](https://osu.ppy.sh/users/3071175) |  |
 | [Nokashi](https://osu.ppy.sh/users/5431196) | Greek |
-| [Sinnoh](https://osu.ppy.sh/users/4236057) | |
-| [wonjae](https://osu.ppy.sh/users/5032045) | |
+| [Sinnoh](https://osu.ppy.sh/users/4236057) |  |
+| [wonjae](https://osu.ppy.sh/users/5032045) |  |
 
 
 ### osu!mania
 
 | Nama | Tambahan Bahasa |
 | :-- | :-- |
-| [-MysticEyes](https://osu.ppy.sh/users/6253266) | |
+| [-MysticEyes](https://osu.ppy.sh/users/6253266) |  |
 | [\_Stan](https://osu.ppy.sh/users/1653229) | Chinese |
 | [Arzenvald](https://osu.ppy.sh/users/3027421) | Indonesian |
-| [Asherz007](https://osu.ppy.sh/users/9014047) | |
+| [Asherz007](https://osu.ppy.sh/users/9014047) |  |
 | [Critical_Star](https://osu.ppy.sh/users/3793196) | Chinese |
 | [Dellvangel](https://osu.ppy.sh/users/5186244) | Indonesian |
 | [DoNotMess](https://osu.ppy.sh/users/1596318) | Indonesian |
 | [K a b i -](https://osu.ppy.sh/users/6209713) | Chinese |
 | [Kawawa](https://osu.ppy.sh/users/4647754) | Korean |
-| [KeppSado](https://osu.ppy.sh/users/11085809) | |
+| [KeppSado](https://osu.ppy.sh/users/11085809) |  |
 | [Leniane](https://osu.ppy.sh/users/7138602) | Dutch |
 | [MEGAtive](https://osu.ppy.sh/users/3094101) | Indonesian |
 | [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonesian |

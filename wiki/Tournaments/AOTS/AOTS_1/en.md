@@ -259,30 +259,30 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-| Saturday, 2019-09-14 | | | | |
+| Saturday, 2019-09-14 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Smallwu** ![][flag_TW] | **7** | 2 | ![][flag_HK] MTDex | [#1](https://osu.ppy.sh/community/matches/54840722) |
 
-| Sunday, 2019-09-15 | | | | |
+| Sunday, 2019-09-15 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Saikoro ![][flag_JP] | 1 | **7** | ![][flag_TW] **Smallwu** | [#1](https://osu.ppy.sh/community/matches/54866050)
 | **Smallwu** ![][flag_TW] | **7** | 2 | ![][flag_JP] Saikoro | [#1](https://osu.ppy.sh/community/matches/54867371) |
 
 ### Finals
 
-| Saturday, 2019-09-07 | | | | |
+| Saturday, 2019-09-07 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Roger ![][flag_ID] | 0 | **7** | ![][flag_HK] **MTDex** | -win by default- |
 | **Noko\_BSF** ![][flag_JP] | **7** | 3 | ![][flag_KR] Tsuki\_yura | [#1](https://osu.ppy.sh/community/matches/54667936) |
 
-| Sunday, 2019-09-08 | | | | |
+| Sunday, 2019-09-08 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **MTDex** ![][flag_HK] | **7** | 4 | ![][flag_JP] Noko\_BSF | [#1](https://osu.ppy.sh/community/matches/54698287) |
 | **Saikoro** ![][flag_JP] | **7** | 4 | ![][flag_TW] Smallwu | [#1](https://osu.ppy.sh/community/matches/54700566) |
 
 ### Semifinals
 
-| Saturday, 2019-08-31 | | | | |
+| Saturday, 2019-08-31 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | ayomikasa ![][flag_ID] | 3 | **6** | ![][flag_KR] **Tsuki\_yura** | [#1](https://osu.ppy.sh/community/matches/54494916) |
 | Briesmas ![][flag_JP] | 1 | **6** | ![][flag_TW] **TS\_LewisLuo** | [#1](https://osu.ppy.sh/community/matches/54498388) |
@@ -290,40 +290,40 @@ This competition has come to an end and resulted in the following podium:
 | **Saikoro** ![][flag_JP] | **6** | 0 | ![][flag_ID] Roger | -win by default- |
 | Nozdormu ![][flag_RU] | 4 | **6** | ![][flag_KR] **Tsuki\_yura** | [#1](https://osu.ppy.sh/community/matches/54498388) |
 
-| Sunday, 2019-09-01 | | | | |
+| Sunday, 2019-09-01 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Dayzeek ![][flag_RU] | 1 | **6** | ![][flag_HK] **MTDex** | [#1](https://osu.ppy.sh/community/matches/54508129) |
 | **Smallwu** ![][flag_TW] | **6** | 2 | ![][flag_JP] Noko\_BSF | [#1](https://osu.ppy.sh/community/matches/54531477) |
 
 ### Quarterfinals
 
-| Saturday, 2019-08-24 | | | | |
+| Saturday, 2019-08-24 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | BamgoeSN ![][flag_KR] | 2 | **5** | ![][flag_ID] **Roger** | [#1](https://osu.ppy.sh/community/matches/54312543) |
 | **Smallwu** ![][flag_TW] | **5** | 0 | ![][flag_RU] Dayzeek | [#1](https://osu.ppy.sh/community/matches/54314621) |
 | Laby ![][flag_KR] | 4 | **5** | ![][flag_KR] **Tsuki\_yura** | [#1](https://osu.ppy.sh/community/matches/54317388) |
 | **TS\_LewisLuo** ![][flag_TW] | **5** | 2 | ![][flag_RU] Naninub | [#1](https://osu.ppy.sh/community/matches/54320473) |
 
-| Sunday, 2019-08-25 | | | | |
+| Sunday, 2019-08-25 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | pavlukivan ![][flag_RU] | 1 | **5** | ![][flag_HK] **MTDex** | [#1](https://osu.ppy.sh/community/matches/54342639) |
 | **Noko\_BSF** ![][flag_JP] | **5** | 0 | ![][flag_JP] Briesmas | [#1](https://osu.ppy.sh/community/matches/54345544) |
 | **Saikoro** ![][flag_JP] | **5** | 2 | ![][flag_ID] ayomikasa | [#1](https://osu.ppy.sh/community/matches/54346824) |
 
-| Monday, 2019-08-26 | | | | |
+| Monday, 2019-08-26 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Xin Leviathan ![][flag_JP] | 4 | **5** | ![][flag_RU] **Nozdormu** | [#1](https://osu.ppy.sh/community/matches/54352375) |
 
 ### Round of 16
 
-| Saturday, 2019-08-17 | | | | |
+| Saturday, 2019-08-17 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Tsuki\_yura ![][flag_KR] | 2 | **5** | ![][flag_JP] **Briesmas** | [#1](https://osu.ppy.sh/community/matches/54139118) |
 | Laby ![][flag_KR] | 3 | **5** | ![][flag_JP] **Noko\_BSF** | [#1](https://osu.ppy.sh/community/matches/54142546) |
 | **Roger** ![][flag_ID] | **5** | 1 | ![][flag_HK] MTDex | [#1](https://osu.ppy.sh/community/matches/54145225) |
 | **Dayzeek** ![][flag_RU] | **5** | 2 | ![][flag_RU] Nozdormu | [#1](https://osu.ppy.sh/community/matches/54147814) |
 
-| Sunday, 2019-08-18 | | | | |
+| Sunday, 2019-08-18 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **ayomikasa** ![][flag_ID] | **5** | 3 | ![][flag_RU] Naninub | [#1](https://osu.ppy.sh/community/matches/54166064) |
 | TS\_LewisLuo ![][flag_TW] | 3 | **5** | ![][flag_JP] **Saikoro** | [#1](https://osu.ppy.sh/community/matches/54167946) |
@@ -332,12 +332,12 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-| Group | Friday, 2019-08-09 | | | | |
+| Group | Friday, 2019-08-09 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | B | **Saikoro** ![][flag_JP] | **4** | 0 | ![][flag_AU] Tsubasa2 | [#1](https://osu.ppy.sh/community/matches/53944103) |
 | B | **Smallwu** ![][flag_TW] | **4** | 3 | ![][flag_JP] Saikoro | [#1](https://osu.ppy.sh/community/matches/53945214) |
 
-| Group | Saturday, 2019-08-10 | | | | |
+| Group | Saturday, 2019-08-10 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | F | **Noko\_BSF** ![][flag_JP] | **4** | 3 | ![][flag_ID] Viewland | [#1](https://osu.ppy.sh/community/matches/53951899) |
 | A | **TS\_LewisLuo** ![][flag_TW] | **4** | 2 | ![][flag_JP] Xin Leviathan | [#1](https://osu.ppy.sh/community/matches/53965199) |
@@ -351,7 +351,7 @@ This competition has come to an end and resulted in the following podium:
 | D | **Nozdormu** ![][flag_RU] | **4** | 1 | ![][flag_MY] Bedwyr Aorta | [#1](https://osu.ppy.sh/community/matches/53972230) |
 | D | **Naninub** ![][flag_RU] | **4** | 1 | ![][flag_MY] Bedwyr Aorta | [#1](https://osu.ppy.sh/community/matches/53973675) |
 
-| Group | Sunday, 2019-08-11 | | | | |
+| Group | Sunday, 2019-08-11 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | A | **Xin Leviathan** ![][flag_JP] | **4** | 2 | ![][flag_AU] Beat43210 | [#1](https://osu.ppy.sh/community/matches/53989955) |
 | G | **Roger** ![][flag_ID] | **4** | 0 | ![][flag_SG] Kekneko | -win by default- |
@@ -363,7 +363,7 @@ This competition has come to an end and resulted in the following podium:
 | F | **pavlukivan** ![][flag_RU] | **4** | 0 | ![][flag_ID] Viewland | [#1](https://osu.ppy.sh/community/matches/53995118) |
 | F | **Noko\_BSF** ![][flag_JP] | **4** | 1 | ![][flag_RU] pavlukivan | [#1](https://osu.ppy.sh/community/matches/53997519) |
 
-| Group | Monday, 2019-08-12 | | | | |
+| Group | Monday, 2019-08-12 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | E | **Laby** ![][flag_KR] | **4** | 0 | ![][flag_MY] Minisora | [#1](https://osu.ppy.sh/community/matches/54020603) |
 | E | BamgoeSN ![][flag_KR] | 1 | **4** | ![][flag_FR] **Laby** | [#1](https://osu.ppy.sh/community/matches/54022655) |

@@ -336,7 +336,7 @@ This competition has come to an end and resulted in the following podium:
 
 Saturday, 4 April 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | #TeamTrees | 1 | **7** | **The Shitmissers ft. zkane2** | [#1](https://osu.ppy.sh/community/matches/59983428) |
 | **The Shitmissers ft. zkane2** | **0** | -1 | #TeamTrees | *win by default* |
@@ -345,14 +345,14 @@ Saturday, 4 April 2020:
 
 Saturday, 28 March 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | 🍘 | 6 | **7** | **The Shitmissers ft. zkane2** | [#1](https://osu.ppy.sh/community/matches/59705551) |
 | **#TeamTrees** | **7** | 2 | Worldwide Bongo | [#1](https://osu.ppy.sh/community/matches/59709552) |
 
 Sunday, 29 March 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Worldwide Bongo | 1 | **7** | **The Shitmissers ft. zkane2** | [#1](https://osu.ppy.sh/community/matches/59744805) |
 
@@ -360,7 +360,7 @@ Sunday, 29 March 2020:
 
 Saturday, 21 March 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | sunglasses emoji | 0 | **7** | **The Shitmissers ft. zkane2** | [#1](https://osu.ppy.sh/community/matches/59437426) |
 | Spaghetti Protectors | 3 | **7** | **🍘** | [#1](https://osu.ppy.sh/community/matches/59437520) |
@@ -369,7 +369,7 @@ Saturday, 21 March 2020:
 
 Sunday, 22 March 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | plz Jeff | 3 | **7** | **The Shitmissers ft. zkane2** | [#1](https://osu.ppy.sh/community/matches/59478648) |
 | Team 26 | 2 | **7** | **Rice Cracker** | [#1](https://osu.ppy.sh/community/matches/59482449) |
@@ -378,7 +378,7 @@ Sunday, 22 March 2020:
 
 Saturday, 14 March 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Worldwide Bongo** | **6** | 3 | sunglasses emoji | [#1](https://osu.ppy.sh/community/matches/59181424) |
 | **4:3 gang** | **6** | 0 | IHATETAIKO | [#1](https://osu.ppy.sh/community/matches/59182774) |
@@ -390,7 +390,7 @@ Saturday, 14 March 2020:
 
 Sunday, 15 March 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Team 6 | 3 | **6** | **chocobo** | [#1](https://osu.ppy.sh/community/matches/59208231) |
 | **sunglasses emoji** | **0** | -1 | 4:3 gang | *win by default* |
@@ -402,7 +402,7 @@ Sunday, 15 March 2020:
 
 Saturday, 7 March 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Spaghetti Protectors** | **5** | 4 | 4:3 gang | [#1](https://osu.ppy.sh/community/matches/58990563) |
 | **plz Jeff** | **5** | 1 | IHATETAIKO | [#1](https://osu.ppy.sh/community/matches/58995567) |
@@ -414,7 +414,7 @@ Saturday, 7 March 2020:
 
 Sunday, 8 March 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Beat Laser | 2 | **5** | **Team 6** | [#1](https://osu.ppy.sh/community/matches/59014798) |
 | **chocobo** | **5** | 2 | Donjinshi | [#1](https://osu.ppy.sh/community/matches/59017370) |
@@ -429,13 +429,13 @@ Sunday, 8 March 2020:
 
 Friday, 28 February 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | bacon | 0 | **5** | **beat laser** | [#1](https://osu.ppy.sh/community/matches/58799641) |
 
 Saturday, 29 February 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **sunglasses emoji** | **5** | 0 | The Shitmissers ft. zkane2 | [#1](https://osu.ppy.sh/community/matches/58801435) |
 | **IHATETAIKO** | **5** | 4 | Team 6 | [#1](https://osu.ppy.sh/community/matches/58804703) |
@@ -454,7 +454,7 @@ Saturday, 29 February 2020:
 
 Sunday, 1 March 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Froot Loopy** | **0** | -1 | bacon | *win by default* |
 | **t.** | **5** | 1 | The winner is the winner | [#1](https://osu.ppy.sh/community/matches/58834316) |

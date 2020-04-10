@@ -264,7 +264,7 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d16lPxdt
 
 Saturday, 25 January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **andreymc** ![][flag_BR] | **8** | 0 | ![][flag_MY] cheewee10 | *win by default* |
 | **bojii** ![][flag_PH] | **8** | 0 | ![][flag_BR] andreymc | [#1](https://osu.ppy.sh/community/matches/57957542) |
@@ -273,20 +273,20 @@ Saturday, 25 January 2020:
 
 Friday, 17 January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | -\[DaNieL\_TH\]- ![][flag_TH] | 3 | **7** | ![][flag_PH] **swarmsii** | [#1](https://osu.ppy.sh/community/matches/57777717) |
 | SillyFangirl ![][flag_BR] | 0 | **7** | ![][flag_BR] **andreymc** | *win by default* |
 
 Saturday, 18 January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **andreymc** ![][flag_BR] | **7** | 4 | ![][flag_PH] swarmsii | [#1](https://osu.ppy.sh/community/matches/57805057) |
 
 Monday, 20th January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | cheewee10 ![][flag_MY] | 5 | **7** | ![][flag_PH] **bojii** | [#1](https://osu.ppy.sh/community/matches/57856996) |
 
@@ -294,14 +294,14 @@ Monday, 20th January 2020:
 
 Friday, 10 January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | -\[DaNieL\_TH\]- ![][flag_TH] | 0 | **7** | ![][flag_MY] **cheewee10** | [#1](https://osu.ppy.sh/community/matches/57617790) |
 | **andreymc** ![][flag_BR] | **7** | 4 | ![][flag_PE] DazeRo5 | [#1](https://osu.ppy.sh/community/matches/57630703) |
 
 Saturday, 11 January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | stupud man ![][flag_US] | 0 | **7** | ![][flag_US] **HeZeus** | *win by default* |
 | **AngeloLagusa** ![][flag_RU] | **7** | 0 | ![][flag_PH] Cohue | [#1](https://osu.ppy.sh/community/matches/57641417) |
@@ -309,7 +309,7 @@ Saturday, 11 January 2020:
 
 Sunday, 12 January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | SillyFangirl ![][flag_BR] | 0 | **7** | ![][flag_PH] **bojii** | *win by default* |
 | **swarmsii** ![][flag_PH] | **7** | 0 | ![][flag_US] HeZeuS | [#1](https://osu.ppy.sh/community/matches/57678190) |
@@ -319,13 +319,13 @@ Sunday, 12 January 2020:
 
 Friday, 3 January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **-\[DaNieL\_TH\]-** ![][flag_TH] | **6** | 3 | ![][flag_RU] AngeloLagusa | [#1](https://osu.ppy.sh/community/matches/57460102) |
 
 Saturday, 4 January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Kyut** ![][flag_BR] | **6** | 1 | ![][flag_AU] \[Crz\]Lochie | [#1](https://osu.ppy.sh/community/matches/57475542) |
 | realqarp ![][flag_PH] | 0 | **6** | ![][flag_US] **Unholy** | *win by default* |
@@ -339,7 +339,7 @@ Saturday, 4 January 2020:
 
 Sunday, 5 January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | swarmsii ![][flag_PH] | 3 | **6** | ![][flag_PH] **bojii** | [#1](https://osu.ppy.sh/community/matches/57436122) |
 | Lerck ![][flag_RU] | 0 | **6** | ![][flag_PE] **DaZero5** | [#1](https://osu.ppy.sh/community/matches/57513758) |
@@ -349,7 +349,7 @@ Sunday, 5 January 2020:
 
 Monday, 6 January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | AW ZERO ![][flag_TW] | 3 | **6** | ![][flag_US] **HeZeuS** | [#1](https://osu.ppy.sh/community/matches/57528585) |
 
@@ -357,14 +357,14 @@ Monday, 6 January 2020:
 
 Friday, 20 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **-\[DaNieL\_TH\]-** ![][flag_TH] | **6** | 1 | ![][flag_BR] Gabi Kamui | [#1](https://osu.ppy.sh/community/matches/57107480) |
 | Unholy ![][flag_US] | 4 | **6** | ![][flag_PH] **Swarmsii** | [#1](https://osu.ppy.sh/community/matches/57119952) |
 
 Saturday, 21 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | DaZeRo5 ![][flag_PE] | 0 | **6** | ![][flag_PH] bojii | [#1](https://osu.ppy.sh/community/matches/57125852) |
 | **Cohue** ![][flag_PH] | **6** | 2 | ![][flag_VN] MashedPotato | [#1](https://osu.ppy.sh/community/matches/57126911) |
@@ -376,7 +376,7 @@ Saturday, 21 December 2019:
 
 Sunday, 22 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **SillyFangirl** ![][flag_BR] | **6** | 0 | ![][flag_US] Logan636 | [#1](https://osu.ppy.sh/community/matches/57152346) |
 | **dhn** ![][flag_US] | **6** | 0 | ![][flag_KR] NKEYBOARD | *win by default* |
@@ -390,13 +390,13 @@ Sunday, 22 December 2019:
 
 Friday, 13 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Swarmsii** ![][flag_PH] | **5** | 4 | ![][flag_US] dhn | [#1](https://osu.ppy.sh/community/matches/56956932) |
 
 Saturday, 14 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **bojii** ![][flag_PH] | **5** | 3 | ![][flag_US] HeZeuS | [#1](https://osu.ppy.sh/community/matches/56956932) |
 | Strachy ![][flag_FI] | 0 | **5** | ![][flag_MY] **cheewee10** | *win by default* |
@@ -407,7 +407,7 @@ Saturday, 14 December 2019:
 
 Sunday, 15 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **AW ZERO** ![][flag_TW] | **5** | 1 | ![][flag_US] Trainer- | [#1](https://osu.ppy.sh/community/matches/56986838) |
 | **\[Crz\]Lochie** ![][flag_AU] | **5** | 2 | ![][flag_CA] loafusofbread | [#1](https://osu.ppy.sh/community/matches/56988588) |
@@ -423,13 +423,13 @@ Sunday, 15 December 2019:
 
 Friday, 29 November 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **-\[DaNieL\_TH\]-** ![][flag_TH] | **4** | 0 | ![][flag_US] Playboi Carti | [#1](https://osu.ppy.sh/community/matches/56602623) |
 
 Saturday, 30 November 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **realqarp** ![][flag_PH] | **4** | 0 | ![][flag_TW] AW ZERO | [#1](https://osu.ppy.sh/community/matches/56625858) |
 | **bojii** ![][flag_PH] | **4** | 0 | ![][flag_RU] AngeloLagusa | *win by default* |
@@ -452,7 +452,7 @@ Saturday, 30 November 2019:
 
 Sunday, 01 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **HeZeuS** ![][flag_US] | **4** | 2 | ![][flag_ID] StyxFearNite | [#1](https://osu.ppy.sh/community/matches/56652124) |
 | **NKEYBOARD** ![][flag_KR] | **4** | 0 | ![][flag_TH] Monkerzaza | [#1](https://osu.ppy.sh/community/matches/56656536) |
@@ -480,7 +480,7 @@ Sunday, 01 December 2019:
 
 Friday, 06 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Lights ![][flag_US] | 0 | **4** | ![][flag_US] **dhn** | [#1](https://osu.ppy.sh/community/matches/56773044) |
 | Cansta ![][flag_CO] | 0 | **4** | ![][flag_US] **dhn** | [#1](https://osu.ppy.sh/community/matches/56776709) |
@@ -488,7 +488,7 @@ Friday, 06 December 2019:
 
 Saturday, 07 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Antalf ![][flag_DO] | 1 | **4** | ![][flag_US] **Trainer-** | [#1](https://osu.ppy.sh/community/matches/56785903) |
 | Nikolayio ![][flag_ES] | 0 | **4** | ![][flag_US] **Trainer-** | [#1](https://osu.ppy.sh/community/matches/56788166) |
@@ -527,7 +527,7 @@ Saturday, 07 December 2019:
 
 Sunday, 08 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **cheewee10** ![][flag_MY] | **4** | 0 | ![][flag_US] Trainer- | [#1](https://osu.ppy.sh/community/matches/56820814) |
 | Ping36 ![][flag_FR] | 0 | 0 | ![][flag_RU] AsyaKys | *neither player was present* |

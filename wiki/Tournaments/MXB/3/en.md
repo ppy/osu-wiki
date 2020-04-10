@@ -61,7 +61,7 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 ## Participants
 
-| | | | |
+|  |  |  |  |
 | :-: | :-: | :-: | :-: |
 | [525426806](https://osu.ppy.sh/users/10194722) | [H-Shjie](https://osu.ppy.sh/users/11109612) | [Star0v0](https://osu.ppy.sh/users/3675841) | [wuzhin](https://osu.ppy.sh/users/11722256) |
 | [Anonie](https://osu.ppy.sh/users/13725543) | [shizehao](https://osu.ppy.sh/users/4928674) | [biIibiIi-\_-](https://osu.ppy.sh/users/13859478) | [s\_w\_w](https://osu.ppy.sh/users/12192069) |
@@ -69,11 +69,11 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 | [\[xiao ba\]](https://osu.ppy.sh/users/12451181) | [Chinese\_Psy](https://osu.ppy.sh/users/11049989) | [qiuzhilin](https://osu.ppy.sh/users/11192692) | [Earnestlyqq](https://osu.ppy.sh/users/10637430) |
 | [a794151336](https://osu.ppy.sh/users/9912076) | [A M D](https://osu.ppy.sh/users/5321112) | [bouquetww](https://osu.ppy.sh/users/13007770) | [KaffuCchino](https://osu.ppy.sh/users/13461151) |
 | [yuki hirahira](https://osu.ppy.sh/users/11740840) | [HerrySun](https://osu.ppy.sh/users/13235020) | [Blue\_Potion](https://osu.ppy.sh/users/13094831) | [magical Sao](https://osu.ppy.sh/users/13235020) |
-| [1ess__](https://osu.ppy.sh/users/10823750) | | | |
+| [1ess__](https://osu.ppy.sh/users/10823750) |  |  |  |
 
 ## Groups
 
-| Group | Players | | | |
+| Group | Players |  |  |  |
 | :-: | :-: | :-: | :-: | :-: |
 | A | H-ShJie | KirigayaSnow | yuki hirahira | 1ess\_\_ |
 | B | Anonie | magical Sao | HerrySun | shizehao |
@@ -211,16 +211,16 @@ Prizes for this tournament are sponsored by [IA daisuki](https://osu.ppy.sh/user
 
 ### Group Stage
 
-| Group | Players | | | |
+| Group | Players |  |  |  |
 | :-: | :-: | :-: | :-: | :-: |
 | A | H-ShJie | **KirigayaSnow** | yuki hirahira | **1ess\_\_** |
-| | 0 | **6** | 2 | **9** |
+|  | 0 | **6** | 2 | **9** |
 | B | Anonie | magical Sao | **HerrySun** | **shizehao** |
-| | 1 | 0 | **5** | **9** |
+|  | 1 | 0 | **5** | **9** |
 | C | bouquetww | a794151336 | **s\_w\_w** | **Yutto007** |
-| | 4 | 2 | **9** | **9** |
+|  | 4 | 2 | **9** | **9** |
 | D | **\[xiao ba\]** | Star0v0 | RW233 | **A M D** |
-| | **7** | 1 | 4 | **12** |
+|  | **7** | 1 | 4 | **12** |
 
 ### Qualification Stage
 

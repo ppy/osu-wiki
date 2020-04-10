@@ -316,46 +316,46 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-| Wednesday, 2019-09-18 | | | | |
+| Wednesday, 2019-09-18 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | 과로사 | 5 | **7** | **黃建智** | [#1](https://osu.ppy.sh/community/matches/54931397) |
 
-| Sunday, 2019-09-22 | | | | |
+| Sunday, 2019-09-22 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **進撃のバブルティー** | **7** | 4 | 黃建智 | [#1](https://osu.ppy.sh/community/matches/55033460) |
 
 ### Finals
 
-| Wednesday, 2019-09-04 | | | | |
+| Wednesday, 2019-09-04 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **黃建智** | **7** | 5 | babote | [#1](https://osu.ppy.sh/community/matches/54600184) |
 
-| Saturday, 2019-09-07 | | | | |
+| Saturday, 2019-09-07 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **reyuza ganteng** | **7** | 2 | The Big Dilfs | [#1](https://osu.ppy.sh/community/matches/54674050) |
 
-| Sunday, 2019-09-08 | | | | |
+| Sunday, 2019-09-08 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | 과로사 | 3 | **7** | **進撃のバブルティー** | [#1](https://osu.ppy.sh/community/matches/54700350) |
 
-| Friday, 2019-09-13 | | | | |
+| Friday, 2019-09-13 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | reyuza ganteng | 2 | **7** | **黃建智** | [#1](https://osu.ppy.sh/community/matches/54810712) |
 
 ### Semifinals
 
-| Friday, 2019-08-30 | | | | |
+| Friday, 2019-08-30 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **panda is not justice** | **7** | 0 | osu attack on titan | [#1](https://osu.ppy.sh/community/matches/54471182) |
 | **Bin Boys** | **7** | 1 | Operation Bathroom | [#1](https://osu.ppy.sh/community/matches/54472737) |
 
-| Saturday, 2019-08-31 | | | | |
+| Saturday, 2019-08-31 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **babote** | **7** | 0 | No Tryhard | [#1](https://osu.ppy.sh/community/matches/54504303) |
 | reyuza ganteng | 5 | **7** | **과로사** | [#1](https://osu.ppy.sh/community/matches/54506770) |
 | **babote** | **7** | 4 | Bin Boys | [#1](https://osu.ppy.sh/community/matches/54506789) |
 
-| Sunday, 2019-09-01 | | | | |
+| Sunday, 2019-09-01 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **The Big Dilfs** | **7** | 3 | 모모니나 | [#1](https://osu.ppy.sh/community/matches/54527046) |
 | 黃建智 | 0 | **7** | **進撃のバブルティー** | -win by default- |
@@ -363,12 +363,12 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-| Saturday, 2019-08-24 | | | | |
+| Saturday, 2019-08-24 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Operation Bathroom** | **6** | 0 | okguysweneedaname | -win by default- |
 | **reyuza ganteng** | **6** | 1 | Bin Boys | [#1](https://osu.ppy.sh/community/matches/54315815) |
 
-| Sunday, 2019-08-25 | | | | |
+| Sunday, 2019-08-25 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | FYP 228922 | 0 | **6** | **모모니나** | -win by default- |
 | **osu attack on titan** | **6** | 1 | bus girls | [#1](https://osu.ppy.sh/community/matches/54344319) |
@@ -379,12 +379,12 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-| Saturday, 2019-08-17 | | | | |
+| Saturday, 2019-08-17 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | 모모니나 | 4 | **6** | **Bin Boys** | [#1](https://osu.ppy.sh/community/matches/54138982) |
 | **黃建智** | **6** | 4 | any ideas | [#1](https://osu.ppy.sh/community/matches/54144951) |
 
-| Sunday, 2019-08-18 | | | | |
+| Sunday, 2019-08-18 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **과로사** | **6** | 1 | bus girls | [#1](https://osu.ppy.sh/community/matches/54166136) |
 | okguysweneedaname | 2 | **6** | **進撃のバブルティー** | [#1](https://osu.ppy.sh/community/matches/54166945) |
@@ -395,7 +395,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-| Group | Friday, 2019-08-02 | | | | |
+| Group | Friday, 2019-08-02 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | E | **babote** | **5** | 0 | 12 jobs a month | [#1](https://osu.ppy.sh/community/matches/53777408) |
 | F | **Operation Bathroom** | **5** | 2 | osu attack on titan | [#1](https://osu.ppy.sh/community/matches/53779062) |
@@ -404,7 +404,7 @@ This competition has come to an end and resulted in the following podium:
 | G | **과로사** | **5** | 0 | okguysweneedaname | -win by default- |
 | C | **모모니나** | **5** | 1 | an unlikely alliance | [#1](https://osu.ppy.sh/community/matches/53799799) |
 
-| Group | Saturday, 2019-08-03 | | | | |
+| Group | Saturday, 2019-08-03 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | B | **FYP 228922** | **5** | 0 | No title | -win by default- |
 | E | **babote** | **5** | 1 | The Big Dilfs | [#1](https://osu.ppy.sh/community/matches/53801400) |
@@ -415,7 +415,7 @@ This competition has come to an end and resulted in the following podium:
 | D | **panda is not justice** | **5** | 1 | Nov 14th | [#1](https://osu.ppy.sh/community/matches/53805394) |
 | A | **黃建智** | **5** | 0 | Sutiire | [#1](https://osu.ppy.sh/community/matches/53806415) |
 
-| Group | Sunday, 2019-08-04 | | | | |
+| Group | Sunday, 2019-08-04 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | C | **an unlikely alliance** | **5** | 0 | Simple | [#1](https://osu.ppy.sh/community/matches/53824575)
 | F | **osu attack on titan** | **5** | 0 | wat | -win by default- |
@@ -426,14 +426,14 @@ This competition has come to an end and resulted in the following podium:
 | C | **모모니나** | **5** | 0 | Simple | [#1](https://osu.ppy.sh/community/matches/53828443) |
 | A | HoChRaPi | 0 | **5** | **Sutiire** | [#1](https://osu.ppy.sh/community/matches/53830471) |
 
-| Group | Friday, 2019-08-09 | | | | |
+| Group | Friday, 2019-08-09 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | B | **any ideas** | **5** | 0 | matsuyoku-rotsoforce | [#1](https://osu.ppy.sh/community/matches/53945342) |
 | D | **panda is not justice** | **5** | 0 | Bin Boys | [#1](https://osu.ppy.sh/community/matches/53945127) |
 | F | **osu attack on titan** | **5** | 0 | tim jago strim | -win by default- |
 | H | **進撃のバブルティー** | **5** | 0 | Chicken Biriyani | [#1](https://osu.ppy.sh/community/matches/53948031) |
 
-| Group | Saturday, 2019-08-10 | | | | |
+| Group | Saturday, 2019-08-10 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | C | **No Tryhard** | **5** | 0 | Simple | [#1](https://osu.ppy.sh/community/matches/53967598) |
 | E | **babote** | **5** | 0 | Team Smead | [#1](https://osu.ppy.sh/community/matches/53968367) |
@@ -447,7 +447,7 @@ This competition has come to an end and resulted in the following podium:
 | G | **艾莉皮肤店** | **5** | 1 | Hot Loli(s) | [#1](https://osu.ppy.sh/community/matches/53973352) |
 | A | **reyuza ganteng** | **5** | 1 | Sutiire | [#1](https://osu.ppy.sh/community/matches/53976528) |
 
-| Group | Sunday, 2019-08-11 | | | | |
+| Group | Sunday, 2019-08-11 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | E | 12 jobs a month | 0 | 0 | Team Smead | -nullified- |
 | C | **No Tryhard** | **5** | 3 | an unlikely alliance | [#1](https://osu.ppy.sh/community/matches/53991507) |

@@ -173,14 +173,14 @@ The osu!mania Asian's Champions 2019 was run by various community members.
 
 ### Finals: Week 2
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- | :-- |
 | xxxxxx2800 | 0 | **7** | **\[Crz\]FolAH1217** |
 | **\[ R o a d \]** | **7** | 2 | \[Crz\]FolAH1217 |
 
 ### Finals: Week 1
 
-| Player 1 | | | Player 2 |
+| Player 1 |  |  | Player 2 |
 | --: | :-: | :-: | :-- | :-- |
 | **NKEYBOARD** | **7** | 4 | watarakisah |
 | **xxxxxx2800** | **7** | 1 | rlarkgus |
@@ -189,41 +189,41 @@ The osu!mania Asian's Champions 2019 was run by various community members.
 
 ### Semifinals
 
-| Player 1 | | | Player 2 | Note |
+| Player 1 |  |  | Player 2 | Note |
 | --: | :-: | :-: | :-- | :-- |
-| NKEYBOARD | 1 | **6** | **\[Crz\]FolAH1217** | |
-| xxxxxx2800 | 0 | **6** | **\[ R o a d \]** | |
-| **AHHHHHHHHHHHHHH** | **6** | 4 | basicmaime | |
+| NKEYBOARD | 1 | **6** | **\[Crz\]FolAH1217** |  |
+| xxxxxx2800 | 0 | **6** | **\[ R o a d \]** |  |
+| **AHHHHHHHHHHHHHH** | **6** | 4 | basicmaime |  |
 | \[Aqours Ruby\] | 0 | **0** | **watarakisah** | *forfeit* |
-| popomon | 0 | **0** | **rlarkgus** | |
-| Nagareboshi | 1 | **6** | **SharpKunG1412** | |
+| popomon | 0 | **0** | **rlarkgus** |  |
+| Nagareboshi | 1 | **6** | **SharpKunG1412** |  |
 | AHHHHHHHHHHHHHH | 0 | **0** | **watarakisah** | *forfeit* |
-| **rlarkgus** | **6** | 4 | SharpKunG1412 | |
+| **rlarkgus** | **6** | 4 | SharpKunG1412 |  |
 
 ### Quarterfinals
 
-| Player 1 | | | Player 2 | Note |
+| Player 1 |  |  | Player 2 | Note |
 | --: | :-: | :-: | :-- | :-- |
-| Nagareboshi | 3 | **6** | **NKEYBOARD** | |
-| popomon | 0 | **6** | **\[Crz\]FolAH1217** | |
+| Nagareboshi | 3 | **6** | **NKEYBOARD** |  |
+| popomon | 0 | **6** | **\[Crz\]FolAH1217** |  |
 | **xxxxxx2800** | **0** | 0 | \[Aqours Ruby\] | *win by default* |
-| **\[ R o a d \]** | **6** | 2 | AHHHHHHHHHHHHHH | |
-| SHOKO - | 1 | 6 | **basicmaime** | |
-| **watarakisah** | **6** | 0 | kdj8381 | |
-| YanYannn | 0 | **6** | **rlarkgus** | |
-| **SharpKunG1412** | **6** | 0 | gosy777 | |
+| **\[ R o a d \]** | **6** | 2 | AHHHHHHHHHHHHHH |  |
+| SHOKO - | 1 | 6 | **basicmaime** |  |
+| **watarakisah** | **6** | 0 | kdj8381 |  |
+| YanYannn | 0 | **6** | **rlarkgus** |  |
+| **SharpKunG1412** | **6** | 0 | gosy777 |  |
 
 ### Round of 16
 
-| Player 1 | | | Player 2 | Note |
+| Player 1 |  |  | Player 2 | Note |
 | --: | :-: | :-: | :-- | :-- |
-| SHOKO - | 4 | **5** | **Nagareboshi** | |
-| basicmaime | 3 | **5** | **NKEYBOARD** | |
-| **popomon** | **5** | 3 | watarakisah | |
+| SHOKO - | 4 | **5** | **Nagareboshi** |  |
+| basicmaime | 3 | **5** | **NKEYBOARD** |  |
+| **popomon** | **5** | 3 | watarakisah |  |
 | **\[Crz\]FolAH1217** | **0** | 0 | kdj8381 | *forfeit* |
 | YanYannn | 0 | **0** | **xxxxxx2800** | *forfeit* |
 | rlarkgus | 0 | **0** | **\[Aqours Ruby\]** | *forfeit* |
-| SharpKunG1412 | 0 | **5** | **\[ R o a d \]** | |
+| SharpKunG1412 | 0 | **5** | **\[ R o a d \]** |  |
 | gosy777 | 0 | **0** | **AHHHHHHHHHHHHHH** | *win by default* |
 
 ## Ruleset

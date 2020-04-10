@@ -16,23 +16,23 @@ Este artículo enlista a los países que han participado en los variados torneos
 | 1 | ![][flag_KR] Corea del Sur | 7 | 1 | 2 |
 | 2 | ![][flag_JP] Japón | 6 | 4 | 2 |
 | 3 | ![][flag_TW] Taiwán | 3 | 5 | 1 |
-| 4 | ![][flag_US] Estados Unidos | 3 | | |
+| 4 | ![][flag_US] Estados Unidos | 3 |  |  |
 | 5 | ![][flag_CN] China | 1 | 3 | 1 |
-| 6 | ![][flag_CL] Chile | 1 | | |
-| 7 | ![][flag_HK] Hong Kong | | 3 | 1 |
-| 8 | ![][flag_DE] Alemania | | 1 | 2 |
-| 8 | ![][flag_PL] Polonia | | 1 | 2 |
-| 9 | ![][flag_NL] Países Bajos | | 1 | |
-| 9 | ![][flag_PH] Filipinas | | 1 | |
-| 9 | ![][flag_TH] Tailandia | | 1 | |
-| 10 | ![][flag_MY] Malasia | | | 3 |
-| 11 | ![][flag_FR] Francia | | | 2 |
-| 12 | ![][flag_AR] Argentina | | | 1 |
-| 12 | ![][flag_BR] Brasil | | | 1 |
-| 12 | ![][flag_CA] Canadá | | | 1 |
-| 12 | ![][flag_CO] Colombia | | | 1 |
-| 12 | ![][flag_SE] Suecia | | | 1 |
-| 12 | ![][flag_GB] Reino Unido | | | 1 |
+| 6 | ![][flag_CL] Chile | 1 |  |  |
+| 7 | ![][flag_HK] Hong Kong |  | 3 | 1 |
+| 8 | ![][flag_DE] Alemania |  | 1 | 2 |
+| 8 | ![][flag_PL] Polonia |  | 1 | 2 |
+| 9 | ![][flag_NL] Países Bajos |  | 1 |  |
+| 9 | ![][flag_PH] Filipinas |  | 1 |  |
+| 9 | ![][flag_TH] Tailandia |  | 1 |  |
+| 10 | ![][flag_MY] Malasia |  |  | 3 |
+| 11 | ![][flag_FR] Francia |  |  | 2 |
+| 12 | ![][flag_AR] Argentina |  |  | 1 |
+| 12 | ![][flag_BR] Brasil |  |  | 1 |
+| 12 | ![][flag_CA] Canadá |  |  | 1 |
+| 12 | ![][flag_CO] Colombia |  |  | 1 |
+| 12 | ![][flag_SE] Suecia |  |  | 1 |
+| 12 | ![][flag_GB] Reino Unido |  |  | 1 |
 
 ## Por modo
 
@@ -42,15 +42,15 @@ Este artículo enlista a los países que han participado en los variados torneos
 
 | Rank | País | Oro | Plata | Bronce |
 | :-: | :-- | :-: | :-: | :-: |
-| 1 | ![][flag_KR] Corea del Sur | 3 | | 2 |
-| 2 | ![][flag_US] Estados Unidos | 2 | | |
-| 3 | ![][flag_JP] Japón | 1 | 2 | |
+| 1 | ![][flag_KR] Corea del Sur | 3 |  | 2 |
+| 2 | ![][flag_US] Estados Unidos | 2 |  |  |
+| 3 | ![][flag_JP] Japón | 1 | 2 |  |
 | 4 | ![][flag_TW] Taiwán | 1 | 1 | 1 |
-| 5 | ![][flag_CN] China | | 2 | |
-| 6 | ![][flag_PL] Polonia | | 1 | 2 |
-| 7 | ![][flag_NL] Países Bajos | | 1 | |
-| 8 | ![][flag_BR] Brasil | | | 1 |
-| 8 | ![][flag_DE] Alemania | | | 1 |
+| 5 | ![][flag_CN] China |  | 2 |  |
+| 6 | ![][flag_PL] Polonia |  | 1 | 2 |
+| 7 | ![][flag_NL] Países Bajos |  | 1 |  |
+| 8 | ![][flag_BR] Brasil |  |  | 1 |
+| 8 | ![][flag_DE] Alemania |  |  | 1 |
 
 #### Asistencia
 
@@ -112,11 +112,11 @@ Este artículo enlista a los países que han participado en los variados torneos
 | Rank | País | Oro | Plata | Bronce |
 | :-: | :-- | :-: | :-: | :-: |
 | 1 | ![][flag_JP] Japón | 5 | 1 | 2 |
-| 2 | ![][flag_TW] Taiwán | | 2 | 3 | |
-| 3 | ![][flag_HK] Hong Kong | | 3 | 1 |
-| 4 | ![][flag_FR] Francia | | | 2 |
-| 5 | ![][flag_CA] Canadá | | | 1 |
-| 5 | ![][flag_CN] China | | | 1 |
+| 2 | ![][flag_TW] Taiwán |  | 2 | 3 |  |
+| 3 | ![][flag_HK] Hong Kong |  | 3 | 1 |
+| 4 | ![][flag_FR] Francia |  |  | 2 |
+| 5 | ![][flag_CA] Canadá |  |  | 1 |
+| 5 | ![][flag_CN] China |  |  | 1 |
 
 #### Asistencia
 
@@ -164,15 +164,15 @@ Este artículo enlista a los países que han participado en los variados torneos
 
 | Rank | País | Oro | Plata | Bronce |
 | :-: | :-: | :-: | :-: | :-: |
-| 1 | ![][flag_KR] Corea del Sur | 2 | | |
-| 2 | ![][flag_CN] China | 1 | 1 | |
-| 3 | ![][flag_CL] Chile | 1 | | |
-| 4 | ![][flag_DE] Alemania | | 1 | 2 |
-| 5 | ![][flag_ID] Indonesia | | 1 | |
-| 5 | ![][flag_TW] Taiwán | | 1 | |
-| 6 | ![][flag_AR] Argentina | | | 1 |
-| 6 | ![][flag_CO] Colombia | | | 1 |
-| 6 | ![][flag_SE] Suecia | | | 1 |
+| 1 | ![][flag_KR] Corea del Sur | 2 |  |  |
+| 2 | ![][flag_CN] China | 1 | 1 |  |
+| 3 | ![][flag_CL] Chile | 1 |  |  |
+| 4 | ![][flag_DE] Alemania |  | 1 | 2 |
+| 5 | ![][flag_ID] Indonesia |  | 1 |  |
+| 5 | ![][flag_TW] Taiwán |  | 1 |  |
+| 6 | ![][flag_AR] Argentina |  |  | 1 |
+| 6 | ![][flag_CO] Colombia |  |  | 1 |
+| 6 | ![][flag_SE] Suecia |  |  | 1 |
 
 #### Asistencia
 
@@ -229,15 +229,15 @@ Este artículo enlista a los países que han participado en los variados torneos
 
 | Rank | País | Oro | Plata | Bronce |
 | :-: | :-- | :-: | :-: | :-: |
-| 1 | ![][flag_KR] Corea del Sur | 3 | 1 | |
-| 2 | ![][flag_US] Estados Unidos | 1 | | 1 |
-| 3 | ![][flag_CN] China | 1 | | |
-| 4 | ![][flag_BR] Brasil | | 1 | |
-| 4 | ![][flag_JP] Japón | | 1 | |
-| 4 | ![][flag_PH] Filipinas | | 1 | |
-| 4 | ![][flag_TH] Tailandia | | 1 | |
-| 5 | ![][flag_MY] Malasia | | | 3 |
-| 6 | ![][flag_GB] Reino Unido| | | 1 |
+| 1 | ![][flag_KR] Corea del Sur | 3 | 1 |  |
+| 2 | ![][flag_US] Estados Unidos | 1 |  | 1 |
+| 3 | ![][flag_CN] China | 1 |  |  |
+| 4 | ![][flag_BR] Brasil |  | 1 |  |
+| 4 | ![][flag_JP] Japón |  | 1 |  |
+| 4 | ![][flag_PH] Filipinas |  | 1 |  |
+| 4 | ![][flag_TH] Tailandia |  | 1 |  |
+| 5 | ![][flag_MY] Malasia |  |  | 3 |
+| 6 | ![][flag_GB] Reino Unido|  |  | 1 |
 
 #### Asistencia
 

@@ -190,99 +190,99 @@ TB:
 
 ### 决赛第二周
 
-| 日期 | 蓝队 | | 比分 | | 红队 | 附 |
+| 日期 | 蓝队 |  | 比分 |  | 红队 | 附 |
 | :-: | --: | --: | :-: | :-- | :-- | :-: |
 | 8月5日 | [Crz]ScSolAr | ![][CN] | 0 : 7 | ![][TW] | - Choma - | 缺席 |
 | 8月6日 | - Choma - | ![][TW] | 7 : 0 | ![][CN] | [Crz]MemoryI | 缺席 |
 
 ### 决赛第一周
 
-| 日期 | 蓝队 | | 比分| | 红队 | 附 |
+| 日期 | 蓝队 |  | 比分|  | 红队 | 附 |
 | :-: | --: | --: | :-: | :-- | :-- | :-: |
 | 7月29日 | [Crz]Riri | ![][CN] | 0 : 6 | ![][TW] | - Choma - | [记录](https://osu.ppy.sh/community/matches/34872032) |
-| | [Crz]MemoryI | ![][CN] | 6 : 0 | ![][CN] | [Crz]ScSolAr | 缺席 |
-| | pikechu | ![][CN] | 2 : 6 | ![][MY] | Neokje | [记录](https://osu.ppy.sh/community/matches/34873568) |
+|  | [Crz]MemoryI | ![][CN] | 6 : 0 | ![][CN] | [Crz]ScSolAr | 缺席 |
+|  | pikechu | ![][CN] | 2 : 6 | ![][MY] | Neokje | [记录](https://osu.ppy.sh/community/matches/34873568) |
 | 7月30日 | - Choma - | ![][TW] | 6 : 5 | ![][MY] | Neokje | [记录](https://osu.ppy.sh/community/matches/34893510) |
 
 ### 半决赛
 
-| 日期 | 蓝队 | | 比分| | 红队 | 附 |
+| 日期 | 蓝队 |  | 比分|  | 红队 | 附 |
 | :-: | --: | --: | :-: | :-- | :-- | :-: |
 | 7月22日 | NED_Q | ![][CN] | 6 : 0 | ![][AU] | [Crz]Yukikaze | 缺席 |
-| | drunkenstein | ![][HK] | 0 : 6 | ![][CN] | pikechu | 缺席 |
-| | - Choma - | ![][TW] | 6 : 0 | ![][CN] | - ZedXD - | [记录](https://osu.ppy.sh/community/matches/34703556) |
-| | [Crz]Liusecy | ![][CN] | 2 : 6 | ![][CN] | Stink God | [记录](https://osu.ppy.sh/community/matches/34706159) |
-| | [Crz]Riri | ![][CN] | 2 : 6 | ![][CN] | [Crz]MemoryI | [记录](https://osu.ppy.sh/community/matches/34771665) |
+|  | drunkenstein | ![][HK] | 0 : 6 | ![][CN] | pikechu | 缺席 |
+|  | - Choma - | ![][TW] | 6 : 0 | ![][CN] | - ZedXD - | [记录](https://osu.ppy.sh/community/matches/34703556) |
+|  | [Crz]Liusecy | ![][CN] | 2 : 6 | ![][CN] | Stink God | [记录](https://osu.ppy.sh/community/matches/34706159) |
+|  | [Crz]Riri | ![][CN] | 2 : 6 | ![][CN] | [Crz]MemoryI | [记录](https://osu.ppy.sh/community/matches/34771665) |
 | 7月23日 | - Choma - | ![][CA] | 6 : 0 | ![][CN] | Stink God | 缺席 |
-| | Neokje | ![][MY] | 2 : 6 | ![][CN] | [Crz]ScSolAr | [记录](https://osu.ppy.sh/community/matches/34731835) |
-| | NED_Q | ![][CN] | 0 : 6 | ![][CN] | pikechu | 缺席 |
+|  | Neokje | ![][MY] | 2 : 6 | ![][CN] | [Crz]ScSolAr | [记录](https://osu.ppy.sh/community/matches/34731835) |
+|  | NED_Q | ![][CN] | 0 : 6 | ![][CN] | pikechu | 缺席 |
 
 ### 四分之一决赛
 
-| 日期 | 蓝队 | | 比分 | | 红队 | 附 |
+| 日期 | 蓝队 |  | 比分 |  | 红队 | 附 |
 | :-: | --: | --: | :-: | :-- | :-- | :-: |
 | 7月15日 | drunkenstein | ![][HK] | 0 : 5 | ![][CN] | [Crz]Riri | [记录](https://osu.ppy.sh/community/matches/34542511) |
-| | - ZedXD - | ![][CN] | 5 : 0 | ![][CN] | spensll | [记录](https://osu.ppy.sh/community/matches/34543141) |
-| | wjh123 | ![][CN] | 0 : 5 | ![][CN] | Stink God | 缺席 |
-| | NED_Q | ![][CN] | 3 : 5 | ![][CN] | [Crz]MemoryI | [记录](https://osu.ppy.sh/community/matches/34547424) |
+|  | - ZedXD - | ![][CN] | 5 : 0 | ![][CN] | spensll | [记录](https://osu.ppy.sh/community/matches/34543141) |
+|  | wjh123 | ![][CN] | 0 : 5 | ![][CN] | Stink God | 缺席 |
+|  | NED_Q | ![][CN] | 3 : 5 | ![][CN] | [Crz]MemoryI | [记录](https://osu.ppy.sh/community/matches/34547424) |
 | 7月16日 | Murasame | ![][CA] | 0 : 5 | ![][AU] | [Crz]Yukikaze- | 缺席 |
-| | pikechu | ![][CN] | 5 : 1 | ![][CN] | [Crz]Mix0130 | [记录](https://osu.ppy.sh/community/matches/34566588) |
-| | [Crz]Liusecy | ![][CN] | 0 : 5 | ![][MY] | Neokje | [记录](https://osu.ppy.sh/community/matches/34570396) |
-| | - Choma - | ![][TW] | 2 : 5 | ![][CN] | [Crz]ScSolAr | [记录](https://osu.ppy.sh/community/matches/34571413) |
+|  | pikechu | ![][CN] | 5 : 1 | ![][CN] | [Crz]Mix0130 | [记录](https://osu.ppy.sh/community/matches/34566588) |
+|  | [Crz]Liusecy | ![][CN] | 0 : 5 | ![][MY] | Neokje | [记录](https://osu.ppy.sh/community/matches/34570396) |
+|  | - Choma - | ![][TW] | 2 : 5 | ![][CN] | [Crz]ScSolAr | [记录](https://osu.ppy.sh/community/matches/34571413) |
 
 ### 16强
 
-| 日期 | 蓝队 | | 比分 | | 红队 | 附 |
+| 日期 | 蓝队 |  | 比分 |  | 红队 | 附 |
 | :-: | --: | --: | :-: | :-- | :-- | :-: |
 | 7月8日 | drunkenstein | ![][HK] | 5 : 1 | ![][CN] | - ZedXD - | [记录](https://osu.ppy.sh/community/matches/34380098) |
-| | [Crz]Riri | ![][CN] | 5 : 0 | ![][CN] | spensll | [记录](https://osu.ppy.sh/community/matches/34380710) |
-| | NED_Q | ![][CN] | 5 : 0 | ![][CN] | wjh123 | [记录](https://osu.ppy.sh/community/matches/34384012) |
-| | Stink God | ![][CN] | 1 : 5 | ![][CN] | [Crz]MemoryI | [记录](https://osu.ppy.sh/community/matches/34385381) |
+|  | [Crz]Riri | ![][CN] | 5 : 0 | ![][CN] | spensll | [记录](https://osu.ppy.sh/community/matches/34380710) |
+|  | NED_Q | ![][CN] | 5 : 0 | ![][CN] | wjh123 | [记录](https://osu.ppy.sh/community/matches/34384012) |
+|  | Stink God | ![][CN] | 1 : 5 | ![][CN] | [Crz]MemoryI | [记录](https://osu.ppy.sh/community/matches/34385381) |
 | 7月9日 | [Crz]Liusecy | ![][CN] | 5 : 0 | ![][CA] | Murasame | 缺席 |
-| | Neokje | ![][MY] | 5 : 0 | ![][AU] | [Crz]Yukikaze- | 缺席 |
-| | - Choma - | ![][TW] | 5 : 0 | ![][CN] | pikechu | [记录](https://osu.ppy.sh/community/matches/34404265) |
-| | [Crz]ScSolAr | ![][CN] | 5 : 0 | ![][CN] | [Crz]Mix0130 | [记录](https://osu.ppy.sh/community/matches/34407900) |
+|  | Neokje | ![][MY] | 5 : 0 | ![][AU] | [Crz]Yukikaze- | 缺席 |
+|  | - Choma - | ![][TW] | 5 : 0 | ![][CN] | pikechu | [记录](https://osu.ppy.sh/community/matches/34404265) |
+|  | [Crz]ScSolAr | ![][CN] | 5 : 0 | ![][CN] | [Crz]Mix0130 | [记录](https://osu.ppy.sh/community/matches/34407900) |
 
 ### 小组赛
 
-| 蓝队 | | 比分 | | 红队 | | 蓝队 | | 比分 | | 红队 |
+| 蓝队 |  | 比分 |  | 红队 |  | 蓝队 |  | 比分 |  | 红队 |
 | --: | --: | :-: | :-- | :-- | :-: | --: | --: | :-: | :-- | :-- |
-| ***A組*** | | | | | | | | |
-| Pridra Yinda | ![][CN] | 0 : 4 | ![][MY] | [Xiiao]Ray | | drunkenstein | ![][HK] | 4 : 0 | ![][CN] | Pridra Yinda |
-| Murasame | ![][CA] | 4 : 0 | ![][CN] | Pridra Yinda | | Murasame | ![][CA] | 0 : 4 | ![][MY] | [Xiiao]Ray |
-| drunkenstein | ![][HK] | 4 : 0 | ![][CA] | Murasame | | drunkenstein | ![][HK] | 4 : 0 | ![][MY] | [Xiiao]Ray |
-| ***B组*** | | | | | | | | |
-| [Crz]Liusecy | ![][CN] | 2 : 4 | ![][CN] | - ZedXD - | | fgdg858 | ![][CN] | 4 : 0 | ![][MY] | Chizuru Shinkai |
-| - ZedXD - | ![][CN] | 1 : 4 | ![][CN] | fgdg858 | | [Crz]Liusecy | ![][CN] | 1 : 4 | ![][CN] | fgdg858 |
-| - ZedXD - | ![][CN] | 4 : 0 | ![][MY] | Chizuru Shinkai | | [Crz]Liusecy | ![][CN] | 0 : 4 | ![][MY] | Chizuru Shinkai |
-| ***C组*** | | | | | | | | |
-| BDXiaoQian | ![][SG] | 0 : 4 | ![][CN] | Stink God | | zero2snow | ![][HK] | 0 : 0 | ![][CN] | Stink God |
-| zero2snow | ![][HK] | 0 : 4 | ![][CN] | wjh123 | | zero2snow | ![][HK] | 0 : 4 | ![][SG] | BDXiaoQian |
-| BDXiaoQian | ![][SG] | 2 : 4 | ![][CN] | wjh123 | | wjh123 | ![][CN] | 3 : 4 | ![][CN] | Stink God |
-| ***D组*** | | | | | | | | |
-| NED_Q | ![][CN] | 4 : 0 | ![][HK] | Opean | | hly200 | ![][CN] | 4 : 0 | ![][HK] | Opean |
-| NED_Q | ![][CN] | 0 : 4 | ![][CN] | [Crz]MemoryI | | [Crz]MemoryI | ![][CN] | 4 : 0 | ![][HK] | Opean |
-| hly200 | ![][CN] | 3 : 4 | ![][CN] | NED_Q | | [Crz]MemoryI | ![][CN] | 0 : 4 | ![][CN] | hly200 |
-| ***E组*** | | | | | | | | |
-| Neokje | ![][MY] | 4 : 0 | ![][CN] | - Xiaoluoli - | | qiluo | ![][CN] | 4 : 1 | ![][CN] | spensll |
-| Neokje | ![][MY] | 4 : 0 | ![][CN] | spensll | | qiluo | ![][CN] | 4 : 1 | ![][CN] | - Xiaoluoli - |
-| Neokje | ![][MY] | 4 : 1 | ![][CN] | qiluo | | spensll | ![][CN] | 4 : 0 | ![][CN] | - Xiaoluoli - |
-| ***F组*** | | | | | | | | |
-| [Crz]Riri | ![][CN] | 4 : 1 | ![][AU] | [Crz]Yukikaze- | | [Crz]Riri | ![][CN] | 4 : 0 | ![][CN] | prelude8792916 |
-| WF Night | ![][CN] | 0 : 4 | ![][AU] | [Crz]Yukikaze- | | [Crz]Riri | ![][CN] | 4 : 0 | ![][CN] | WF Night |
-| [Crz]Yukikaze- | ![][AU] | 4 : 0 | ![][CN] | prelude8792916 | | WF Night | ![][CN] | 0 : 0 | ![][CN] | prelude8792916 |
-| ***G组*** | | | | | | | | |
-| AnLs | ![][HK] | 0 : 4 | ![][TW] | - Choma - | | Luv Letter | ![][CN] | 0 : 4 | ![][CN] | [Crz]Mix0130 |
-| [Crz]Mix0130 | ![][CN] | 4 : 0 | ![][CN] | AnLs | | - Choma - | ![][TW] | 4 : 0 | ![][HK] | AnLs |
-| [Crz]Mix0130 | ![][CN] | 0 : 4 | ![][TW] | - Choma - | | AnLs | ![][HK] | 4 : 0 | ![][CN] | Luv Letter |
-| ***H组*** | | | | | | | | |
-| Banshasan | ![][CN] | 0 : 4 | ![][CN] | [Crz]ScSolAr | | [M1nzzZ] | ![][CN] | 0 : 4 | ![][CN] | pikechu |
-| [M1nzzZ] | ![][CN] | 0 : 4 | ![][CN] | Banshasan | | [Crz]ScSolAr | ![][CN] | 4 : 1 | ![][CN] | pikechu |
-| [Crz]ScSolAr | ![][CN] | 0 : 0 | ![][CN] | [M1nzzZ] | | pikechu | ![][CN] | 4 : 1 | ![][CN] | Banshasan |
+| ***A組*** |  |  |  |  |  |  |  |  |
+| Pridra Yinda | ![][CN] | 0 : 4 | ![][MY] | [Xiiao]Ray |  | drunkenstein | ![][HK] | 4 : 0 | ![][CN] | Pridra Yinda |
+| Murasame | ![][CA] | 4 : 0 | ![][CN] | Pridra Yinda |  | Murasame | ![][CA] | 0 : 4 | ![][MY] | [Xiiao]Ray |
+| drunkenstein | ![][HK] | 4 : 0 | ![][CA] | Murasame |  | drunkenstein | ![][HK] | 4 : 0 | ![][MY] | [Xiiao]Ray |
+| ***B组*** |  |  |  |  |  |  |  |  |
+| [Crz]Liusecy | ![][CN] | 2 : 4 | ![][CN] | - ZedXD - |  | fgdg858 | ![][CN] | 4 : 0 | ![][MY] | Chizuru Shinkai |
+| - ZedXD - | ![][CN] | 1 : 4 | ![][CN] | fgdg858 |  | [Crz]Liusecy | ![][CN] | 1 : 4 | ![][CN] | fgdg858 |
+| - ZedXD - | ![][CN] | 4 : 0 | ![][MY] | Chizuru Shinkai |  | [Crz]Liusecy | ![][CN] | 0 : 4 | ![][MY] | Chizuru Shinkai |
+| ***C组*** |  |  |  |  |  |  |  |  |
+| BDXiaoQian | ![][SG] | 0 : 4 | ![][CN] | Stink God |  | zero2snow | ![][HK] | 0 : 0 | ![][CN] | Stink God |
+| zero2snow | ![][HK] | 0 : 4 | ![][CN] | wjh123 |  | zero2snow | ![][HK] | 0 : 4 | ![][SG] | BDXiaoQian |
+| BDXiaoQian | ![][SG] | 2 : 4 | ![][CN] | wjh123 |  | wjh123 | ![][CN] | 3 : 4 | ![][CN] | Stink God |
+| ***D组*** |  |  |  |  |  |  |  |  |
+| NED_Q | ![][CN] | 4 : 0 | ![][HK] | Opean |  | hly200 | ![][CN] | 4 : 0 | ![][HK] | Opean |
+| NED_Q | ![][CN] | 0 : 4 | ![][CN] | [Crz]MemoryI |  | [Crz]MemoryI | ![][CN] | 4 : 0 | ![][HK] | Opean |
+| hly200 | ![][CN] | 3 : 4 | ![][CN] | NED_Q |  | [Crz]MemoryI | ![][CN] | 0 : 4 | ![][CN] | hly200 |
+| ***E组*** |  |  |  |  |  |  |  |  |
+| Neokje | ![][MY] | 4 : 0 | ![][CN] | - Xiaoluoli - |  | qiluo | ![][CN] | 4 : 1 | ![][CN] | spensll |
+| Neokje | ![][MY] | 4 : 0 | ![][CN] | spensll |  | qiluo | ![][CN] | 4 : 1 | ![][CN] | - Xiaoluoli - |
+| Neokje | ![][MY] | 4 : 1 | ![][CN] | qiluo |  | spensll | ![][CN] | 4 : 0 | ![][CN] | - Xiaoluoli - |
+| ***F组*** |  |  |  |  |  |  |  |  |
+| [Crz]Riri | ![][CN] | 4 : 1 | ![][AU] | [Crz]Yukikaze- |  | [Crz]Riri | ![][CN] | 4 : 0 | ![][CN] | prelude8792916 |
+| WF Night | ![][CN] | 0 : 4 | ![][AU] | [Crz]Yukikaze- |  | [Crz]Riri | ![][CN] | 4 : 0 | ![][CN] | WF Night |
+| [Crz]Yukikaze- | ![][AU] | 4 : 0 | ![][CN] | prelude8792916 |  | WF Night | ![][CN] | 0 : 0 | ![][CN] | prelude8792916 |
+| ***G组*** |  |  |  |  |  |  |  |  |
+| AnLs | ![][HK] | 0 : 4 | ![][TW] | - Choma - |  | Luv Letter | ![][CN] | 0 : 4 | ![][CN] | [Crz]Mix0130 |
+| [Crz]Mix0130 | ![][CN] | 4 : 0 | ![][CN] | AnLs |  | - Choma - | ![][TW] | 4 : 0 | ![][HK] | AnLs |
+| [Crz]Mix0130 | ![][CN] | 0 : 4 | ![][TW] | - Choma - |  | AnLs | ![][HK] | 4 : 0 | ![][CN] | Luv Letter |
+| ***H组*** |  |  |  |  |  |  |  |  |
+| Banshasan | ![][CN] | 0 : 4 | ![][CN] | [Crz]ScSolAr |  | [M1nzzZ] | ![][CN] | 0 : 4 | ![][CN] | pikechu |
+| [M1nzzZ] | ![][CN] | 0 : 4 | ![][CN] | Banshasan |  | [Crz]ScSolAr | ![][CN] | 4 : 1 | ![][CN] | pikechu |
+| [Crz]ScSolAr | ![][CN] | 0 : 0 | ![][CN] | [M1nzzZ] |  | pikechu | ![][CN] | 4 : 1 | ![][CN] | Banshasan |
 
 ### 资格赛
 
-| | ID | 分数 | | ID | 分数 | | ID | 分数 |
+|  | ID | 分数 |  | ID | 分数 |  | ID | 分数 |
 | --: | :-- | :-: | --: | :-- | :-: | --: | :-- | :-: |
 | ![][HK] | zero2snow | 3,952,107 | ![][HK] | drunkenstein | 3,849,131 | ![][CN] | spensll | 3,724,897 |
 | ![][MY] | [Xiiao]Ray | 3,932,611 | ![][CN] | Stink God | 3,843,568 | ![][HK] | Opean | 3,722,732 |
@@ -295,11 +295,11 @@ TB:
 | ![][CN] | [Crz]Mix0130 | 3,881,972 | ![][CN] | [M1nzzZ] | 3,739,376 | ![][CN] | - Xiaoluoli - | 3,600,070 |
 | ![][CN] | pikechu | 3,879,190 | ![][CN] | Luv Letter | 3,737,152 | ![][CN] | Banshasan | 3,385,012 |
 | ![][TW] | - Choma - | 3,870,458 | ![][CA] | Murasame | 3,735,205 | ![][CN] | Chizuru Shinkai | 1,686,985 |
-| ![][AU] | [Crz]Yukikaze- | 3,853,597 | | | | | | |
+| ![][AU] | [Crz]Yukikaze- | 3,853,597 |  |  |  |  |  |  |
 
 ### 测试赛
 
-| 2017年6月18日 星期六 | | | | |
+| 2017年6月18日 星期六 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | 元老队 | 5 | 7 | 新锐队 | [比赛记录](https://osu.ppy.sh/community/matches/33910571) |
 

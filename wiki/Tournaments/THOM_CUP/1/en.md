@@ -253,60 +253,60 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-| Saturday, 2018-07-14 | | | | |
+| Saturday, 2018-07-14 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Skalim ![][flag_CL] | 2 | **7** | ![][flag_IT] **Yomiel** | [#1](https://osu.ppy.sh/community/matches/44166950) |
 
-| Sunday, 2018-07-15 | | | | |
+| Sunday, 2018-07-15 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **aitor98** ![][flag_ES] | **7** | 2 | ![][flag_IT] Yomiel | [#1](https://osu.ppy.sh/community/matches/44194101) |
 
 ### Finals
 
-| Saturday, 2018-07-07 | | | | |
+| Saturday, 2018-07-07 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Keweft ![][flag_BR] | 0 | **7** | ![][flag_IT] **Yomiel** | [#1](https://osu.ppy.sh/community/matches/43968717) |
 | **aitor98** ![][flag_ES] | **7** | 1 | ![][flag_CL] Skalim | [#1](https://osu.ppy.sh/community/matches/43977039) |
 | Lothus ![][flag_BR] | 0 | **7** | ![][flag_US] **Gekido-** | -Win by Default- |
 
-| Sunday, 2018-07-08 | | | | |
+| Sunday, 2018-07-08 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Yomiel** ![][flag_IT] | **7** | 0 | ![][flag_US] Gekido- | -Win by Default- |
 
 ### Semifinals
 
-| Friday, 2018-06-29 | | | | |
+| Friday, 2018-06-29 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **robby250** ![][flag_RO] | **6** | 0 | ![][flag_GB] Hayabusa | -Win by Default- |
 | **Gamer97** ![][flag_CH] | **6** | 1 | ![][flag_RU] Daleenie | [#1](https://osu.ppy.sh/community/matches/43759850) |
 
-| Saturday, 2018-06-30 | | | | |
+| Saturday, 2018-06-30 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Yomiel** ![][flag_IT] | **6** | 0 | ![][flag_FR] Elementaires | -Win by Default- |
 | SillyFangirl ![][flag_BR] | 0 | **6** | ![][flag_US] **Gekido-** | -Win by Default- |
 | **Skalim** ![][flag_CL] | **6** | 2 | ![][flag_BR] Lothus | [#1](https://osu.ppy.sh/community/matches/43791757) |
 
-| Sunday, 2018-07-01 | | | | |
+| Sunday, 2018-07-01 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **aitor98** ![][flag_ES] | **6** | 0 | ![][flag_BR] Keweft | [#1](https://osu.ppy.sh/community/matches/43813280) |
 | Gamer97 ![][flag_CH] | 5 | **6** | ![][flag_US] **Gekido-** | [#1](https://osu.ppy.sh/community/matches/43815651) |
 
-| Monday, 2018-07-02 | | | | |
+| Monday, 2018-07-02 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Yomiel** ![][flag_IT] | **6** | 0 | ![][flag_RO] robby250 | [#1](https://osu.ppy.sh/community/matches/43835514) |
 
 ### Quarterfinals
 
-| Friday, 2018-06-22 | | | | |
+| Friday, 2018-06-22 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Daleenie** ![][flag_RU] | **6** | 0 | ![][flag_DK] Jole | [#1](https://osu.ppy.sh/community/matches/43564735) |
 
-| Saturday, 2018-06-23 | | | | |
+| Saturday, 2018-06-23 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Mage ![][flag_RU] | 0 | **6** | ![][flag_FR] **Elementaires** | [#1](https://osu.ppy.sh/community/matches/43592644) |
 | **Skalim** ![][flag_CL] | **6** | 1 | ![][flag_RO] robby250 | [#1](https://osu.ppy.sh/community/matches/43594452) |
 
-| Sunday, 2018-06-24 | | | | |
+| Sunday, 2018-06-24 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Gekido-** ![][flag_US] | **6** | 0 | ![][flag_DE] rohen04 | [#1](https://osu.ppy.sh/community/matches/43623915) |
 | **aitor98** ![][flag_ES] | **6** | 0 | ![][flag_BR] SillyFangirl | [#1](https://osu.ppy.sh/community/matches/43625367) |
@@ -316,7 +316,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-| Sunday, 2018-05-17 | | | | |
+| Sunday, 2018-05-17 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **aitor98** ![][flag_ES] | **5** | 0 | ![][flag_RU] Mage | [#1](https://osu.ppy.sh/community/matches/43421756) |
 | **robby250** ![][flag_RO] | **5** | 1 | ![][flag_DK] Jole | [#1](https://osu.ppy.sh/community/matches/43423366) |
@@ -329,7 +329,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-| Saturday, 2018-05-09 | | | | |
+| Saturday, 2018-05-09 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Benzopirene ![][flag_PL] | 4 | **5** | ![][flag_BR] **Lazarento** | [#1](https://osu.ppy.sh/community/matches/43191024) |
 | **aitor98** ![][flag_ES] | **5** | 0 | ![][flag_PL] -Karen-chan- | [#1](https://osu.ppy.sh/community/matches/43196021) |
@@ -353,7 +353,7 @@ This competition has come to an end and resulted in the following podium:
 | **Skalim** ![][flag_CL] | **5** | 1 | ![][flag_BR] andreymc | [#1](https://osu.ppy.sh/community/matches/43209919) |
 | **Alternater** ![][flag_US] | **5** | 1 | ![][flag_US] dewero | [#1](https://osu.ppy.sh/community/matches/43211295) |
 
-| Sunday, 2018-05-10 | | | | |
+| Sunday, 2018-05-10 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Gekido-** ![][flag_US] | **5** | 1 | ![][flag_BR] CALCIO01 | [#1](https://osu.ppy.sh/community/matches/43212349) |
 | **UrsoManso** ![][flag_BR] | **5** | 0 | ![][flag_CL] Asagaki | -Win by Default- |
@@ -382,13 +382,13 @@ This competition has come to an end and resulted in the following podium:
 | **Elementaires** ![][flag_FR] | **5** | 0 | ![][flag_US] Teggom | -Win by Default- |
 | **Yomiel** ![][flag_IT] | **5** | 0 | ![][flag_US] afrono | -Win by Default- |
 
-| Tuesday, 2018-05-12 | | | | |
+| Tuesday, 2018-05-12 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Yomiel** ![][flag_IT] | **5** | 0 | ![][flag_RU] Kivicat | [#1](https://osu.ppy.sh/community/matches/43284727) |
 
 ### Playoffs
 
-| Saturday, 2018-05-26 | | | | |
+| Saturday, 2018-05-26 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Kivicat** ![][flag_RU] | **4** | 0 | ![][flag_SE] Sadcat | [#1](https://osu.ppy.sh/community/matches/42785051) |
 | **PhobosX** ![][flag_RU] | **4** | 3 | ![][flag_PL] Brunosky | [#1](https://osu.ppy.sh/community/matches/42788074) |
@@ -398,7 +398,7 @@ This competition has come to an end and resulted in the following podium:
 | **Freek** ![][flag_NL] | **4** | 0 | ![][flag_BR] coldloops | [#1](https://osu.ppy.sh/community/matches/42792596) |
 | **PikachuNick** ![][flag_GB] | **4** | 0 | ![][flag_CL] Chamelforito | -Win by Default- |
 
-| Sunday, 2018-05-26 | | | | |
+| Sunday, 2018-05-26 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Gamer97** ![][flag_CH] | **4** | 2 | ![][flag_PL] Hentu | [#1](https://osu.ppy.sh/community/matches/42812924) |
 | capsafangirl ![][flag_PL] | 0 | **4** | ![][flag_CL] **Matiias** | [#1](https://osu.ppy.sh/community/matches/42819421) |
@@ -408,7 +408,7 @@ This competition has come to an end and resulted in the following podium:
 | **SillyFangirl** ![][flag_BR] | **4** | 1 | ![][flag_BR] LothusFangirl | [#1](https://osu.ppy.sh/community/matches/42826881) |
 | **Asagaki** ![][flag_CL] | **4** | 1 | ![][flag_BR] Kiki-chan | [#1](https://osu.ppy.sh/community/matches/42831183) |
 
-| Saturday, 2018-06-02 | | | | |
+| Saturday, 2018-06-02 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Hayabusa** ![][flag_GB] | **4** | 0 | ![][flag_RU] PhobosX | -Win by Default- |
 | **Daleenie** ![][flag_RU] | **4** | 1 | ![][flag_DE] ReTLoM | [#1](https://osu.ppy.sh/community/matches/42996812) |
@@ -418,7 +418,7 @@ This competition has come to an end and resulted in the following podium:
 | Userbacker ![][flag_ES] | 1 | **4** | ![][flag_US] **Teggom** | [#1](https://osu.ppy.sh/community/matches/43001476) |
 | -Squishy ![][flag_US] | 0 | **4** | ![][flag_US] **afrono** | -Win by Default- |
 
-| Sunday, 2018-06-03 | | | | |
+| Sunday, 2018-06-03 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **dewero** ![][flag_US] | **4** | 1 | ![][flag_GT] Lude | [#1](https://osu.ppy.sh/community/matches/43008528) |
 | **Craig** ![][flag_US] | **4** | 0 | ![][flag_DE] playin14 | [#1](https://osu.ppy.sh/community/matches/43015220) |

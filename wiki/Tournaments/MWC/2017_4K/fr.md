@@ -55,7 +55,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 ### Samedi 2 septembre 2017
 
-| Équipe A | | | Équipe B | Heure du match (UTC) | Heure locale A | Heure locale B | |
+| Équipe A |  |  | Équipe B | Heure du match (UTC) | Heure locale A | Heure locale B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | - |
 | Suède | ![][flag_SE] | ![][flag_JP] | Japon | **11h00 UTC** | 13h00 UTC +2 | 20h00 UTC +9 | ² |
 | Chine | ![][flag_CN] | ![][flag_FR] | France | **12h30 UTC** | 20h30 UTC +8 | 14h30 UTC +2 | ² |
@@ -67,7 +67,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 ### Dimanche 3 septembre 2017
 
-| Équipe A | | | Équipe B | Heure du match (UTC) | Heure locale A | Heure locale B | |
+| Équipe A |  |  | Équipe B | Heure du match (UTC) | Heure locale A | Heure locale B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | - |
 | Suède | ![][flag_SE] | ![][flag_PL] | Pologne | **12h30 UTC** | 14h30 UTC +2 | 14h30 UTC +2 | ³ |
 | Suède | ![][flag_SE] | ![][flag_ID] | Indonésie | **12h30 UTC** | 14h30 UTC +2 | 19h30 UTC +7 | ³ |
@@ -89,7 +89,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 ### Équipes confirmées
 
-| | Pays | Membres |
+|  | Pays | Membres |
 | --: | :-: | :-- |
 | ![][flag_AR] | **Argentine** | **[lxLucasxl](https://osu.ppy.sh/users/3632846)**, [BossPlays_02](https://osu.ppy.sh/users/7341471), [aluuu](https://osu.ppy.sh/users/4585260), [Ezze](https://osu.ppy.sh/users/2887427), [Fisk-](https://osu.ppy.sh/users/5748843), [Juanvidrio](https://osu.ppy.sh/users/2628463) |
 | ![][flag_AU] | **Australie** | **[Kites](https://osu.ppy.sh/users/4922584)**, [Melt3dCheeze](https://osu.ppy.sh/users/634837), [PotassiumF](https://osu.ppy.sh/users/4247722), [Lusty Platypus](https://osu.ppy.sh/users/2956184), [Rek](https://osu.ppy.sh/users/4018184), [Zeppy-lin](https://osu.ppy.sh/users/7675859) |
@@ -222,13 +222,13 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 ### Quarts de finale
 
-| Samedi 26 août 2017 | | | | |
+| Samedi 26 août 2017 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | France ![][flag_FR] | 4 | 5 | ![][flag_CL] Chili | [#1](https://osu.ppy.sh/community/matches/35585664) |
 | Argentine ![][flag_AR] | 1 | 5 | ![][flag_GB] Royaume-Uni | [#1](https://osu.ppy.sh/community/matches/35588367) |
 | Canada ![][flag_CA] | 0 | 5 | ![][flag_US] États-Unis | [#1](https://osu.ppy.sh/community/matches/35590366) |
 
-| Dimanche 27 août 2017 | | | | |
+| Dimanche 27 août 2017 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Corée du Sud ![][flag_KR] | 5 | 0 | ![][flag_JP] Japon | [#1](https://osu.ppy.sh/community/matches/35601021) |
 | Nouvelle-Zélande ![][flag_NZ] | 0 | 5 | ![][flag_PL] Pologne | [#1](https://osu.ppy.sh/community/matches/35602514) |
@@ -238,7 +238,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 ### Huitièmes de finale
 
-| Dimanche 20 août 2017 | | | | |
+| Dimanche 20 août 2017 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Nouvelle-Zélande ![][flag_NZ] | 1 | 5 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/35418105) |
 | Indonésie ![][flag_ID] | 5 | 1 | ![][flag_CN] Chine | [#1](https://osu.ppy.sh/community/matches/35419189) |
@@ -251,7 +251,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 
 ### Phases de poules
 
-| Samedi 12 août 2017 | | | | |
+| Samedi 12 août 2017 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Taïwan ![][flag_TW] | 2 | 4 | ![][flag_AU] Australie | [#1](https://osu.ppy.sh/community/matches/35209765) |
 | Fédération de Russie ![][flag_RU] | 0 | 4 | ![][flag_KR] Corée du Sud | [#1](https://osu.ppy.sh/community/matches/35209716) |
@@ -281,7 +281,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
 | Mexique ![][flag_MX] | 0 | 4 | ![][flag_AR] Argentine | [#1](https://osu.ppy.sh/community/matches/35219934) |
 | Suisse ![][flag_CH] | 0 | 4 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/35219940) |
 
-| Dimanche 13 août 2017 | | | | |
+| Dimanche 13 août 2017 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Nouvelle-Zélande ![][flag_NZ] | 4 | 2 | ![][flag_ES] Espagne | [#1](https://osu.ppy.sh/community/matches/35236072) |
 | Italie ![][flag_IT] | 0 | 4 | ![][flag_ID] Indonésie | [#1](https://osu.ppy.sh/community/matches/35236074) |

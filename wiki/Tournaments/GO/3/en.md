@@ -371,57 +371,57 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-| Sunday, 2019-04-28 | | | | |
+| Sunday, 2019-04-28 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Bubbleman ![][flag_GB] | 5 | **7** | ![][flag_US] **Vaxei** | [#1](https://osu.ppy.sh/community/matches/51375022) |
 | **Vaxei** ![][flag_US] | **7** | 4 | ![][flag_GB] Bubbleman | [#1](https://osu.ppy.sh/community/matches/51376894) |
 
 ### Finals
 
-| Saturday, 2019-04-27 | | | | |
+| Saturday, 2019-04-27 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | DenierNezzar ![][flag_HK] | 5 | **7** | ![][flag_FR] **Musty** | [#1](https://osu.ppy.sh/community/matches/51336254) |
 | **Bubbleman** ![][flag_GB] | **7** | 6 | ![][flag_US] idke | [#1](https://osu.ppy.sh/community/matches/51340598) |
 | WubWoofWolf ![][flag_PL] | 3 | **7** | ![][flag_US] **Vaxei** | [#1](https://osu.ppy.sh/community/matches/51345216) |
 | **Vaxei** ![][flag_US] | **7** | 0 | ![][flag_FR] Musty | [#1](https://osu.ppy.sh/community/matches/51347082) |
 
-| Sunday, 2019-04-28 | | | | |
+| Sunday, 2019-04-28 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | idke ![][flag_US] | 3 | **7** | ![][flag_US] **Vaxei** | [#1](https://osu.ppy.sh/community/matches/51371651) |
 
-| Monday, 2019-05-06 | | | | |
+| Monday, 2019-05-06 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | WubWoofWolf ![][flag_PL] | 0 | **7** | ![][flag_HK] **DenierNezzar** | -win by default- |
 
 ### Semifinals
 
-| Friday, 2019-04-19 | | | | |
+| Friday, 2019-04-19 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Koba ![][flag_IT] | 3 | **6** | ![][flag_US] **Apraxia** | [#1](https://osu.ppy.sh/community/matches/51131272) |
 
-| Saturday, 2019-04-20 | | | | |
+| Saturday, 2019-04-20 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **WalkingTuna** ![][flag_KR] | **6** | 5 | ![][flag_PL] MrBooM | [#1](https://osu.ppy.sh/community/matches/51155889) |
 | **Musty** ![][flag_FR] | **6** | 2 | ![][flag_FR] NerO | [#1](https://osu.ppy.sh/community/matches/51159057) |
 
-| Sunday, 2019-04-21 | | | | |
+| Sunday, 2019-04-21 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | DigitalHypno ![][flag_US] | 0 | **6** | ![][flag_US] **Vaxei** | [#1](https://osu.ppy.sh/community/matches/51170756) |
 | **idke** ![][flag_US] | **6** | 1 | ![][flag_HK] DenierNezzar | [#1](https://osu.ppy.sh/community/matches/51172579) |
 | WalkingTuna ![][flag_KR] | 0 | **6** | ![][flag_FR] **Musty** | -win by default- |
 | Apraxia ![][flag_US] | 2 | **6** | ![][flag_US] **Vaxei** | [#1](https://osu.ppy.sh/community/matches/51193033) |
 
-| Wednesday, 2019-04-24 | | | | |
+| Wednesday, 2019-04-24 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | WubWoofWolf ![][flag_PL] | 5 | **6** | ![][flag_GB] **Bubbleman** | [#1](https://osu.ppy.sh/community/matches/51261158) |
 
 ### Quarterfinals
 
-| Tuesday, 2019-04-11 | | | | |
+| Tuesday, 2019-04-11 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | WalkingTuna ![][flag_KR] | 2 | **6** | ![][flag_PL] **WubWoofWolf** | [#1](https://osu.ppy.sh/community/matches/50914466) |
 
-| Saturday, 2019-04-13 | | | | |
+| Saturday, 2019-04-13 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Apraxia** ![][flag_US] | **6** | 3 | ![][flag_RO] Chamosiala | [#1](https://osu.ppy.sh/community/matches/50972880) |
 | trev rasher ![][flag_CA] | 0 | **6** | ![][flag_PL] **Mastasz** | -win by default- |
@@ -431,7 +431,7 @@ This competition has come to an end and resulted in the following podium:
 | **MrBooM** ![][flag_PL] | **6** | 0 | ![][flag_FR] ThePooN | -win by default- |
 | **RyuK** ![][flag_CA] | **6** | 0 | ![][flag_SG] Demonical | -win by default- |
 
-| Sunday, 2019-04-14 | | | | |
+| Sunday, 2019-04-14 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | DigitalHypno ![][flag_US] | 2 | **6** | ![][flag_HK] **DenierNezzar** | [#1](https://osu.ppy.sh/community/matches/50997691) |
 | -raizen- ![][flag_FR] | 1 | **6** | ![][flag_FR] **NerO** | [#1](https://osu.ppy.sh/community/matches/50999328) |
@@ -441,23 +441,23 @@ This competition has come to an end and resulted in the following podium:
 | **idke** ![][flag_US] | **6** | 0 | ![][flag_IT] Koba | [#1](https://osu.ppy.sh/community/matches/51007580) |
 | Mastasz ![][flag_PL] | 0 | **6** | ![][flag_US] **Apraxia** | [#1](https://osu.ppy.sh/community/matches/51007543) |
 
-| Monday, 2019-04-15 | | | | |
+| Monday, 2019-04-15 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | -Roxas ![][flag_GB] | 5 | **6** | ![][flag_FR] **NerO** | [#1](https://osu.ppy.sh/community/matches/51031676) |
 
 ### Round of 16
 
-| Thursday, 2019-04-04 | | | | |
+| Thursday, 2019-04-04 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Apraxia ![][flag_US] | 3 | **5** | ![][flag_FR] **Musty** | [#1](https://osu.ppy.sh/community/matches/50754987) |
 
-| Friday, 2019-04-05 | | | | |
+| Friday, 2019-04-05 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Vaxei ![][flag_US] | 3 | **5** | ![][flag_PL] **WubWoofWolf** | [#1](https://osu.ppy.sh/community/matches/50771250) |
 | -Roxas ![][flag_GB] | 3 | **5** | ![][flag_IT] **Koba** | [#1](https://osu.ppy.sh/community/matches/50772551) |
 | fieryrage ![][flag_US] | 1 | **5** | ![][flag_NL] **Viveliam** | [#1](https://osu.ppy.sh/community/matches/50776297) |
 
-| Saturday, 2019-04-06 | | | | |
+| Saturday, 2019-04-06 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Varvalian** ![][flag_JP] | **5** | 0 | ![][flag_PR] Unexpected | [#1](https://osu.ppy.sh/community/matches/50786166) |
 | Ansol ![][flag_KR] | 3 | **5** | ![][flag_MY] **Rampax** | [#1](https://osu.ppy.sh/community/matches/50790357) |
@@ -474,7 +474,7 @@ This competition has come to an end and resulted in the following podium:
 | **Rafis** ![][flag_PL] | **5** | 3 | ![][flag_US] lain | [#1](https://osu.ppy.sh/community/matches/50804752) |
 | **Aden** ![][flag_RU] | **5** | 2 | ![][flag_US] Mathyu | [#1](https://osu.ppy.sh/community/matches/50808975) |
 
-| Sunday, 2019-04-07 | | | | |
+| Sunday, 2019-04-07 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | RyuK ![][flag_CA] | 2 | **5** | ![][flag_HK] **DenierNezzar** | [#1](https://osu.ppy.sh/community/matches/50819331) |
 | **DigitalHypno** ![][flag_US] | **5** | 4 | ![][flag_PL] MrBooM | [#1](https://osu.ppy.sh/community/matches/50827776) |
@@ -490,22 +490,22 @@ This competition has come to an end and resulted in the following podium:
 | Viveliam ![][flag_NL] | 4 | **5** | ![][flag_FR] **NerO** | [#1](https://osu.ppy.sh/community/matches/50838354) |
 | **idke** ![][flag_US] | **5** | 0 | ![][flag_FR] -raizen- | [#1](https://osu.ppy.sh/community/matches/50839786) |
 
-| Monday, 2019-04-08 | | | | |
+| Monday, 2019-04-08 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Mastasz** ![][flag_PL] | **5** | 0 | ![][flag_GB] Spare | [#1](https://osu.ppy.sh/community/matches/50854223) |
 
 ### Round of 32
 
-| Wednesday, 2019-03-27 | | | | |
+| Wednesday, 2019-03-27 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Spare ![][flag_GB] | 4 | **5** | ![][flag_HK] **DenierNezzar** | [#1](https://osu.ppy.sh/community/matches/50567799) |
 
-| Friday, 2019-03-29 | | | | |
+| Friday, 2019-03-29 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Varvalian ![][flag_JP] | 4 | **5** | ![][flag_IT] **Koba** | [#1](https://osu.ppy.sh/community/matches/50607754) |
 | not very smart ![][flag_US] | 2 | **5** | ![][flag_FR] **NerO** | [#1](https://osu.ppy.sh/community/matches/50616124) |
 
-| Saturday, 2019-03-30 | | | | |
+| Saturday, 2019-03-30 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Bubbleman** ![][flag_GB] | **5** | 1 | ![][flag_SG] Demonical | [#1](https://osu.ppy.sh/community/matches/50636598) |
 | **FlyingTuna** ![][flag_KR] | **5** | 1 | ![][flag_US] fieryrage | [#1](https://osu.ppy.sh/community/matches/50638810) |
@@ -520,7 +520,7 @@ This competition has come to an end and resulted in the following podium:
 | **RyuK** ![][flag_CA] | **5** | 2 | ![][flag_PL] Mastasz | [#1](https://osu.ppy.sh/community/matches/50648948) |
 | **Doomsday** ![][flag_GB] | **5** | 1 | ![][flag_US] he rack | [#1](https://osu.ppy.sh/community/matches/50649378) |
 
-| Sunday, 2019-03-31 | | | | |
+| Sunday, 2019-03-31 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Apraxia** ![][flag_US] | **5** | 4 | ![][flag_AU] Jordan The Bear | [#1](https://osu.ppy.sh/community/matches/50655862) |
 | nickerdead3 ![][flag_AU] | 4 | **5** | ![][flag_US] **Mathyu** | [#1](https://osu.ppy.sh/community/matches/50657460) |
@@ -538,17 +538,17 @@ This competition has come to an end and resulted in the following podium:
 | **Lilily** ![][flag_NL] | **5** | 0 | ![][flag_US] Im a fancy lad | -win by default- |
 | **lain** ![][flag_US] | **5** | 2 | ![][flag_US] kablaze | [#1](https://osu.ppy.sh/community/matches/50678470) |
 
-| Monday, 2019-04-01 | | | | |
+| Monday, 2019-04-01 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **WubWoofWolf** ![][flag_PL] | **5** | 1 | ![][flag_IL] Xilver15 | [#1](https://osu.ppy.sh/community/matches/50690504) |
 
 ### Round of 64
 
-| Friday, 2019-03-22 | | | | |
+| Friday, 2019-03-22 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **ThePooN** ![][flag_FR] | **4** | 1 | ![][flag_GR] Riven | [#1](https://osu.ppy.sh/community/matches/50446144) |
 
-| Saturday, 2019-03-23 | | | | |
+| Saturday, 2019-03-23 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **DigitalHypno** ![][flag_US] | **4** | 3 | ![][flag_US] Tj7223 | [#1](https://osu.ppy.sh/community/matches/50460840) |
 | **RyuK** ![][flag_CA] | **4** | 0 | ![][flag_US] not very smart | [#1](https://osu.ppy.sh/community/matches/50461471) |
@@ -575,7 +575,7 @@ This competition has come to an end and resulted in the following podium:
 | GladiOol ![][flag_NL] | 1 | **4** | ![][flag_US] **fieryrage** | [#1](https://osu.ppy.sh/community/matches/50481010) |
 | **Apraxia** ![][flag_US] | **4** | 1 | ![][flag_AU] GranDSenpai | [#1](https://osu.ppy.sh/community/matches/50484488) |
 
-| Sunday, 2019-03-24 | | | | |
+| Sunday, 2019-03-24 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Unexpected ![][flag_PR] | 3 | **4** | ![][flag_AU] **Jordan The Bear** | [#1](https://osu.ppy.sh/community/matches/50489515) |
 | **Vaxei** ![][flag_US] | **4** | 0 | ![][flag_ID] Rexeez | [#1](https://osu.ppy.sh/community/matches/50491738) |

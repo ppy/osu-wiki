@@ -62,7 +62,7 @@ Advanced Global Taiko Showdown 2019は様々なコミュニティメンバーが
 
 ## 参加者
 
-| | 国 | メンバー |
+|  | 国 | メンバー |
 | :-: | :-: | :-- |
 | ![][flag_AR] | **アルゼンチン** | **[Pollotuc](https://osu.ppy.sh/users/42440)**, [juanilp4evr](https://osu.ppy.sh/users/6413125), [Atreevete](https://osu.ppy.sh/users/2615199), [warning dark](https://osu.ppy.sh/users/5040981) |
 | ![][flag_AU] | **オーストラリア** | **[Beat43210](https://osu.ppy.sh/users/5664171)**, [Tsubasa2](https://osu.ppy.sh/users/6835183), [richy2001](https://osu.ppy.sh/users/11499467), [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046) |
@@ -289,30 +289,30 @@ Advanced Global Taiko Showdown 2019は様々なコミュニティメンバーが
 
 ### グランドファイナル
 
-| 土曜日, 2019-09-14 | | | | |
+| 土曜日, 2019-09-14 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **日本** ![][flag_JP] | **7** | 1 | ![][flag_CA] カナダ | [#1](https://osu.ppy.sh/community/matches/54839968) |
 
 ### 決勝
 
-| 土曜日, 2019-09-07 | | | | |
+| 土曜日, 2019-09-07 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **日本** ![][flag_JP] | **7** | 1 | ![][flag_RU] ロシアA | [#1](https://osu.ppy.sh/community/matches/54674122) |
 
-| 日曜日, 2019-09-08 | | | | |
+| 日曜日, 2019-09-08 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | 韓国 ![][flag_KR] | 4 | **7** | ![][flag_CA] **カナダ** | [#1](https://osu.ppy.sh/community/matches/54691282) |
 | ロシアA ![][flag_RU] | 2 | **7** | ![][flag_CA] **カナダ** | [#1](https://osu.ppy.sh/community/matches/54706574) |
 
 ### 準決勝
 
-| 土曜日, 2019-08-31 | | | | |
+| 土曜日, 2019-08-31 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | インドネシアA ![][flag_ID] | 4 | **7** | ![][flag_JP] **日本** | [#1](https://osu.ppy.sh/community/matches/54504410) |
 | **ロシアA** ![][flag_RU] | **7** | 2 | ![][flag_TW] 台湾 | [#1](https://osu.ppy.sh/community/matches/54507108) |
 | アルゼンチン ![][flag_AR] | 4 | **7** | ![][flag_CA] **カナダ** | [#1](https://osu.ppy.sh/community/matches/54515229) |
 
-| 日曜日, 2019-09-01 | | | | |
+| 日曜日, 2019-09-01 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | 台湾 ![][flag_TW] | 1 | **7** | ![][flag_CA] **カナダ** | [#1](https://osu.ppy.sh/community/matches/54521624) |
 | オランダ ![][flag_NL] | 6 | **7** | ![][flag_KR] **韓国** | [#1](https://osu.ppy.sh/community/matches/54530786) |
@@ -320,7 +320,7 @@ Advanced Global Taiko Showdown 2019は様々なコミュニティメンバーが
 
 ### 準々決勝
 
-| 土曜日, 2019-08-24 | | | | |
+| 土曜日, 2019-08-24 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | アルゼンチン ![][flag_AR] | 5 | **6** | ![][flag_TW] **台湾** | [#1](https://osu.ppy.sh/community/matches/54305260) |
 | ドイツA ![][flag_DE] | 0 | **6** | ![][flag_ID] **インドネシアA** | [#1](https://osu.ppy.sh/community/matches/54317268) |
@@ -329,7 +329,7 @@ Advanced Global Taiko Showdown 2019は様々なコミュニティメンバーが
 | カナダ ![][flag_CA] | 4 | **6** | ![][flag_JP] **日本** | [#1](https://osu.ppy.sh/community/matches/54318662) |
 | ポーランド ![][flag_PL] | 1 | **6** | ![][flag_ID] **インドネシアA** | [#1](https://osu.ppy.sh/community/matches/54320532) | **カナダ** ![][flag_CA] | **6** | 1 | ![][flag_RU] ロシアB | [#1](https://osu.ppy.sh/community/matches/54322599) |
 
-| 日曜日, 2019-08-25 | | | | |
+| 日曜日, 2019-08-25 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | 韓国 ![][flag_KR] | 3 | **6** | ![][flag_TW] **台湾** | [#1](https://osu.ppy.sh/community/matches/54334906) |
 | オランダ ![][flag_NL] | 2 | **6** | ![][flag_RU] **ロシアA** | [#1](https://osu.ppy.sh/community/matches/54346880) |
@@ -339,7 +339,7 @@ Advanced Global Taiko Showdown 2019は様々なコミュニティメンバーが
 
 ### グループステージ
 
-| Group | 土曜日, 2019-08-17 | | | | |
+| Group | 土曜日, 2019-08-17 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | C4 | メキシコ ![][flag_MX] | 2 | **5** | ![][flag_TW] **台湾** | [#1](https://osu.ppy.sh/community/matches/54132793) |
 | D6 | アメリカ合衆国B ![][flag_US] | 1 | **5** | ![][flag_US] **アメリカ合衆国A** | [#1](https://osu.ppy.sh/community/matches/54133753) |
@@ -356,7 +356,7 @@ Advanced Global Taiko Showdown 2019は様々なコミュニティメンバーが
 | B5 | チリ ![][flag_CL] | 0 | **5** | ![][flag_AR] **アルゼンチン** | [#1](https://osu.ppy.sh/community/matches/54153575) |
 | C3 | **カナダ** ![][flag_CA] | **5** | 0 | ![][flag_GB] ![][flag_PT] イギリス/ポルトガル | [#1](https://osu.ppy.sh/community/matches/54153517) |
 
-| Group | 日曜日, 2019-08-18 | | | | |
+| Group | 日曜日, 2019-08-18 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | F6 | インドネシアA ![][flag_ID] | 3 | **5** | ![][flag_CA] **カナダ** | [#1](https://osu.ppy.sh/community/matches/54159212) |
 | B2 | チリ ![][flag_CL] | 0 | **5** | ![][flag_JP] **日本** | [#1](https://osu.ppy.sh/community/matches/54160233) |

@@ -55,7 +55,7 @@ The osu! World Cup 2015 was run by various community members by distributing the
 
 ## Participants
 
-| | Country | Members |
+|  | Country | Members |
 | :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[GaTu](https://osu.ppy.sh/users/3583351 "GaTu")**, [Enhu](https://osu.ppy.sh/users/2840499 "Enhu"), [Graphite Edge](https://osu.ppy.sh/users/825712 "Graphite Edge"), [benjacala](https://osu.ppy.sh/users/1625740 "benjacala"), [Fr0th](https://osu.ppy.sh/users/3458870 "Fr0th"), [Peingod](https://osu.ppy.sh/users/2212941 "Peingod"), [chucentry](https://osu.ppy.sh/users/2498731 "chucentry"), [Dreamcast](https://osu.ppy.sh/users/1565577 "Dreamcast") |
 | ![][flag_AU] | **Australia** | **[Bauxe](https://osu.ppy.sh/users/1881685 "Bauxe")**, [Tokichii](https://osu.ppy.sh/users/557197 "Tokichii"), [JappyBabes](https://osu.ppy.sh/users/697783 "JappyBabes"), [Meowt3dCheeze](https://osu.ppy.sh/users/634837 "Meowt3dCheeze"), [[ ZhengS ]](https://osu.ppy.sh/users/2671317 "[ ZhengS ]"), [Hexicate](https://osu.ppy.sh/users/2171562 "Hexicate"), [Jaybladezz](https://osu.ppy.sh/users/3725492 "Jaybladezz"), [Aloha](https://osu.ppy.sh/users/792176 "Aloha") |
@@ -274,27 +274,27 @@ The osu! World Cup 2015 was run by various community members by distributing the
 
 ### Grand Finals
 
-| Sunday, 2015-12-13 | | | | |
+| Sunday, 2015-12-13 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | China ![][flag_CN] | 2 | **7** |![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/20910697) |
 | **United States** ![][flag_US]| **7** | 6 |![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/20912739) |
 
 ### Finals
 
-| Saturday, 2015-12-05 | | | | |
+| Saturday, 2015-12-05 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | United States ![][flag_US]| 3 | **6** |![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/20711754) |
 | Hong Kong ![][flag_HK] | 0 | **6** |![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/20713615) |
 | Germany ![][flag_DE] | 2 | **6** |![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/20717055) |
 | **Poland** ![][flag_PL] | **6** | 3 |![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/20719563) |
 
-| Sunday, 2015-12-06 | | | | |
+| Sunday, 2015-12-06 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **United States** ![][flag_US]| **6** | 3 |![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/20762171) |
 
 ### Semifinals
 
-| Saturday, 2015-11-28 | | | | |
+| Saturday, 2015-11-28 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **United States** ![][flag_US]| **6** | 2 |![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/20553676) |
 | Thailand ![][flag_TH] | 2 | **6** |![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/20555273) |
@@ -304,17 +304,17 @@ The osu! World Cup 2015 was run by various community members by distributing the
 | **Germany** ![][flag_DE] | **6** | 3 |![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/20570952) |
 | Canada ![][flag_CA] | 5 | **6** |![][flag_AT] **Austria** | [#1](https://osu.ppy.sh/community/matches/20574246) |
 
-| Sunday, 2015-11-29 | | | | |
+| Sunday, 2015-11-29 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Austria ![][flag_AT]| 4 | **6** |![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/20591359) |
 
 ### Quarterfinals
 
-| Saturday, 2015-11-21 | | | | |
+| Saturday, 2015-11-21 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **United States** ![][flag_US]| **5** | 2 |![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/20411352) |
 
-| Sunday, 2015-11-22 | | | | |
+| Sunday, 2015-11-22 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Taiwan ![][flag_TW] | 4 | **5** |![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/20423117) |
 | Hong Kong ![][flag_HK] | 2 | **5** |![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/20424826) |
@@ -326,7 +326,7 @@ The osu! World Cup 2015 was run by various community members by distributing the
 
 ### Round of 16
 
-| Sunday, 2015-11-15 | | | | |
+| Sunday, 2015-11-15 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **United States** ![][flag_US]| **5** | 4 |![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/20269690) |
 | Finland ![][flag_FI] | 0 | **5** |![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/20273790) |
@@ -339,7 +339,7 @@ The osu! World Cup 2015 was run by various community members by distributing the
 
 ### Group Stage
 
-| Saturday, 2015-11-08 | | | | |
+| Saturday, 2015-11-08 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Austria** ![][flag_AT] | **4** | 1 |![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/20091839) |
 | New Zealand ![][flag_NZ] | 3 | **4** |![][flag_FI] **Finland** | [#1](https://osu.ppy.sh/community/matches/20091841) |
@@ -362,7 +362,7 @@ The osu! World Cup 2015 was run by various community members by distributing the
 | Norway ![][flag_NO] | 2 | **4** |![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/20109708) |
 | Sweden ![][flag_SE] | 2 | **4** |![][flag_AT] **Austria** | [#1](https://osu.ppy.sh/community/matches/20109709) |
 
-| Sunday, 2015-11-09 | | | | |
+| Sunday, 2015-11-09 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **New Zealand** ![][flag_NZ]| **4** | 0 |![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/20115243) |
 | Mexico ![][flag_MX] | 1 | **4** |![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/20114985) |

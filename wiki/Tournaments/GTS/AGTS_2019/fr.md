@@ -62,7 +62,7 @@ L'Advanced Global Taiko Showdown 2019 était organisée par plusieurs membres de
 
 ## Participants
 
-| | Pays | Membres |
+|  | Pays | Membres |
 | :-: | :-: | :-- |
 | ![][flag_DE] | **Allemagne A** | **[Capu](https://osu.ppy.sh/users/2474015)**, [\[TaikoTori\]](https://osu.ppy.sh/users/1074143), [QEpicAce](https://osu.ppy.sh/users/9489153), [Siegmund99](https://osu.ppy.sh/users/5168596), [xBourbon\_Kid](https://osu.ppy.sh/users/645775) |
 | ![][flag_DE] | **Allemagne B** | **[Aninoss](https://osu.ppy.sh/users/7364706)**, [Sayira](https://osu.ppy.sh/users/7253958), [JanteSmith](https://osu.ppy.sh/users/371772), [Naugustogi](https://osu.ppy.sh/users/6803970) |
@@ -289,30 +289,30 @@ Cette compétition est maintenant terminée, voici le classement final:
 
 ### Grande Finale
 
-| Samedi, 2019-09-14 | | | | |
+| Samedi, 2019-09-14 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Japon** ![][flag_JP] | **7** | 1 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/54839968) |
 
 ### Finales
 
-| Samedi, 2019-09-07 | | | | |
+| Samedi, 2019-09-07 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Japon** ![][flag_JP] | **7** | 1 | ![][flag_RU] Russie A | [#1](https://osu.ppy.sh/community/matches/54674122) |
 
-| Dimanche, 2019-09-08 | | | | |
+| Dimanche, 2019-09-08 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Corée du Sud ![][flag_KR] | 4 | **7** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/54691282) |
 | Russie A ![][flag_RU] | 2 | **7** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/54706574) |
 
 ### Demi-finales
 
-| Samedi, 2019-08-31 | | | | |
+| Samedi, 2019-08-31 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Indonésie A ![][flag_ID] | 4 | **7** | ![][flag_JP] **Japon** | [#1](https://osu.ppy.sh/community/matches/54504410) |
 | **Russie A** ![][flag_RU] | **7** | 2 | ![][flag_TW] Taïwan | [#1](https://osu.ppy.sh/community/matches/54507108) |
 | Argentine ![][flag_AR] | 4 | **7** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/54515229) |
 
-| Dimanche, 2019-09-01 | | | | |
+| Dimanche, 2019-09-01 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Taïwan ![][flag_TW] | 1 | **7** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/54521624) |
 | Pays-Bas ![][flag_NL] | 6 | **7** | ![][flag_KR] **Corée du Sud** | [#1](https://osu.ppy.sh/community/matches/54530786) |
@@ -320,7 +320,7 @@ Cette compétition est maintenant terminée, voici le classement final:
 
 ### Quarts de finale
 
-| Samedi, 2019-08-24 | | | | |
+| Samedi, 2019-08-24 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Argentine ![][flag_AR] | 5 | **6** | ![][flag_TW] **Taïwan** | [#1](https://osu.ppy.sh/community/matches/54305260) |
 | Allemagne A ![][flag_DE] | 0 | **6** | ![][flag_ID] **Indonésie A** | [#1](https://osu.ppy.sh/community/matches/54317268) |
@@ -329,7 +329,7 @@ Cette compétition est maintenant terminée, voici le classement final:
 | Canada ![][flag_CA] | 4 | **6** | ![][flag_JP] **Japon** | [#1](https://osu.ppy.sh/community/matches/54318662) |
 | Pologne ![][flag_PL] | 1 | **6** | ![][flag_ID] **Indonésie A** | [#1](https://osu.ppy.sh/community/matches/54320532) | **Canada** ![][flag_CA] | **6** | 1 | ![][flag_RU] Russie B | [#1](https://osu.ppy.sh/community/matches/54322599) |
 
-| Dimanche, 2019-08-25 | | | | |
+| Dimanche, 2019-08-25 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Corée du Sud ![][flag_KR] | 3 | **6** | ![][flag_TW] **Taïwan** | [#1](https://osu.ppy.sh/community/matches/54334906) |
 | Pays-Bas ![][flag_NL] | 2 | **6** | ![][flag_RU] **Russie A** | [#1](https://osu.ppy.sh/community/matches/54346880) |
@@ -339,7 +339,7 @@ Cette compétition est maintenant terminée, voici le classement final:
 
 ### Phases de poules
 
-| Groupe | Samedi, 2019-08-17 | | | | |
+| Groupe | Samedi, 2019-08-17 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | C4 | Mexique ![][flag_MX] | 2 | **5** | ![][flag_TW] **Taïwan** | [#1](https://osu.ppy.sh/community/matches/54132793) |
 | D6 | États-Unis B ![][flag_US] | 1 | **5** | ![][flag_US] **États-Unis A** | [#1](https://osu.ppy.sh/community/matches/54133753) |
@@ -356,7 +356,7 @@ Cette compétition est maintenant terminée, voici le classement final:
 | B5 | Chili ![][flag_CL] | 0 | **5** | ![][flag_AR] **Argentine** | [#1](https://osu.ppy.sh/community/matches/54153575) |
 | C3 | **Canada** ![][flag_CA] | **5** | 0 | ![][flag_GB] ![][flag_PT] Royaume-Uni/Portugal | [#1](https://osu.ppy.sh/community/matches/54153517) |
 
-| Groupe | Dimanche, 2019-08-18 | | | | |
+| Groupe | Dimanche, 2019-08-18 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | F6 | Indonésie A ![][flag_ID] | 3 | **5** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/54159212) |
 | B2 | Chili ![][flag_CL] | 0 | **5** | ![][flag_JP] **Japon** | [#1](https://osu.ppy.sh/community/matches/54160233) |

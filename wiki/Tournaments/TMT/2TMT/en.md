@@ -250,22 +250,22 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-| Friday, 2018-12-21 | | | | |
+| Friday, 2018-12-21 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | PolytETral | 1 | **7** | **La pancit bois** | [#1](https://osu.ppy.sh/community/matches/48251480) |
 
-| Saturday, 2018-12-22 | | | | |
+| Saturday, 2018-12-22 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | 3 argentos y medio | 1 | **7** | **La pancit bois** | [#1](https://osu.ppy.sh/community/matches/48280054) |
 | **La pancit bois** | **7** | 4 | 3 argentos y medio | [#1](https://osu.ppy.sh/community/matches/48282582) |
 
 ### Finals
 
-| Saturday, 2018-12-15 | | | | |
+| Saturday, 2018-12-15 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **3 argentos y medio** | **6** | 0 | Team Loli | -win by default- |
 
-| Sunday, 2018-12-16 | | | | |
+| Sunday, 2018-12-16 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **nmsl** | **6** | 5 | fucking weebs | [#1](https://osu.ppy.sh/community/matches/48134025) |
 | KABITE BOIZ and baltz | 0 | **6** | **Fanklub Mariusza Pudzianowskiego** | -win by default- |
@@ -274,11 +274,11 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-| Friday, 2018-12-07 | | | | |
+| Friday, 2018-12-07 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **3 Argentos y Medio** | **6** | 4 | La pancit bois | [#1](https://osu.ppy.sh/community/matches/47938858) |
 
-| Saturday, 2018-12-08 | | | | |
+| Saturday, 2018-12-08 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Team Loli** | **6** | 0 | PolytETral | [#1](https://osu.ppy.sh/community/matches/47962270) |
 | **SUOMI PERKELE** | **6** | 3 | La secta de Stratos | [#1](https://osu.ppy.sh/community/matches/47968602) |
@@ -286,7 +286,7 @@ This competition has come to an end and resulted in the following podium:
 | **we don't know** | **6** | 5 | Late Night Afro Bakers | [#1](https://osu.ppy.sh/community/matches/47971830) |
 | Bongos | 0 | **6** | **RIL** | [#1](https://osu.ppy.sh/community/matches/47976639) |
 
-| Sunday, 2018-12-09 | | | | |
+| Sunday, 2018-12-09 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **fucking weebs** | **6** | 1 | Bongos | [#1](https://osu.ppy.sh/community/matches/47981472) |
 | **nmsl** | **6** | 1 | we don't know | [#1](https://osu.ppy.sh/community/matches/47981964) |
@@ -295,7 +295,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-| Saturday, 2018-12-01 | | | | |
+| Saturday, 2018-12-01 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Team Loli** | **5** | 0 | Fanklub Mariusza Pudzianowskiego | [#1](https://osu.ppy.sh/community/matches/47801175) |
 | **PolytETral** | **5** | 2 | KABITE BOIZ and baltz | [#1](https://osu.ppy.sh/community/matches/47803037) |
@@ -305,7 +305,7 @@ This competition has come to an end and resulted in the following podium:
 | **RIL** | **5** | 0 | The EH Team | [#1](https://osu.ppy.sh/community/matches/47816331) |
 | **Bongos** | **5** | 0 | Trip la prostata | [#1](https://osu.ppy.sh/community/matches/47817949) |
 
-| Sunday, 2018-12-02 | | | | |
+| Sunday, 2018-12-02 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **3 argentos y medio** | **5** | 3 | fucking weebs | [#1](https://osu.ppy.sh/community/matches/47821527), [#2](https://osu.ppy.sh/community/matches/47822286) |
 | **Late Night Afro Bakers** | **5** | 3 | Queue | [#1](https://osu.ppy.sh/community/matches/47826149) |
@@ -315,7 +315,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-| Saturday, 2018-11-24 | | | | |
+| Saturday, 2018-11-24 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Henmenumai | 0 | **5** | **The EH Team** | -win by default- |
 | 7k Masterrace | 0 | **5** | **Lamp memes aren't funny** | -win by default- |
@@ -325,7 +325,7 @@ This competition has come to an end and resulted in the following podium:
 | **UKhile** | **5** | 0 | Chamelfornikowo | -win by default- |
 | Tojas Team | 0 | **5** | **rip la prostata** | -win by default- |
 
-| Sunday, 2018-11-25 | | | | |
+| Sunday, 2018-11-25 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **nmsl** | **5** | 0 | Crawling in my skin | [#1](https://osu.ppy.sh/community/matches/47664183) |
 | **Team Loli** | **5** | 4 | RIL | [#1](https://osu.ppy.sh/community/matches/47665948) |
@@ -337,7 +337,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 32
 
-| Saturday, 2018-11-17 | | | | |
+| Saturday, 2018-11-17 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **La pancit bois** | **4** | 0 | Tojas Team | -win by default- |
 | **nmsl** | **4** | 0 | Henmenumai | -win by default- |
@@ -349,7 +349,7 @@ This competition has come to an end and resulted in the following podium:
 | **Crawling in my skin** | **4** | 3 | The EH team | [#1](https://osu.ppy.sh/community/matches/47498279) |
 | **La secta de Stratos** | **4** | 0 | rip la prostata | -win by default- |
 
-| Sunday, 2018-11-18 | | | | |
+| Sunday, 2018-11-18 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **KABITE BOIZ and Baltz** | **4** | 0 | UKhile | -win by default- |
 | **Accu Rassie** | **4** | 2 | Queue | [#1](https://osu.ppy.sh/community/matches/47517673) |

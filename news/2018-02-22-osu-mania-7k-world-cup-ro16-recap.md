@@ -95,7 +95,7 @@ That concludes all the matches for this weekend! Good luck to all the remaining 
 
 ### Saturday, 24. February 2018
 
-| Team A | | | Team B | Match Time (UTC) |
+| Team A |  |  | Team B | Match Time (UTC) |
 | ---: | ---: | :--- | :--- | :---: |
 | China | ![][flag_CN] | ![][flag_PH] | Philippines | **10:00 UTC** |
 | Australia | ![][flag_AU] | ![][flag_DE] | Germany | **11:00 UTC** |
@@ -103,7 +103,7 @@ That concludes all the matches for this weekend! Good luck to all the remaining 
 
 ### Sunday, 25. February 2018
 
-| Team A | | | Team B | Match Time (UTC) |
+| Team A |  |  | Team B | Match Time (UTC) |
 | ---: | ---: | :--- | :--- | :---: |
 | South Korea | ![][flag_KR] | ![][flag_BR] | Brazil | **2:00 UTC** |
 | Singapore | ![][flag_SG] | ![][flag_CL] | Chile | **3:00 UTC** |

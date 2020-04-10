@@ -16,23 +16,23 @@ Este artigo lista os países que participaram nos vários torneios de osu!, Taik
 | 1 | ![][flag_KR] Coreia do Sul | 7 | 1 | 2 |
 | 2 | ![][flag_JP] Japão | 6 | 4 | 2 |
 | 3 | ![][flag_TW] Taiwan | 3 | 5 | 1 |
-| 4 | ![][flag_US] United States | 3 | | |
+| 4 | ![][flag_US] United States | 3 |  |  |
 | 5 | ![][flag_CN] China | 1 | 3 | 1 |
-| 6 | ![][flag_CL] Chile | 1 | | |
-| 7 | ![][flag_HK] Hong Kong | | 3 | 1 |
-| 8 | ![][flag_DE] Alemanha | | 1 | 2 |
-| 8 | ![][flag_PL] Polônia | | 1 | 2 |
-| 9 | ![][flag_NL] Netherlands | | 1 | |
-| 9 | ![][flag_PH] Filipinas | | 1 | |
-| 9 | ![][flag_TH] Tailândia | | 1 | |
-| 10 | ![][flag_MY] Malásia | | | 3 |
-| 11 | ![][flag_FR] França | | | 2 |
-| 12 | ![][flag_AR] Argentina | | | 1 |
-| 12 | ![][flag_BR] Brasil | | | 1 |
-| 12 | ![][flag_CA] Canada | | | 1 |
-| 12 | ![][flag_CO] Colômbia | | | 1 |
-| 12 | ![][flag_SE] Suécia | | | 1 |
-| 12 | ![][flag_GB] United Kingdom | | | 1 |
+| 6 | ![][flag_CL] Chile | 1 |  |  |
+| 7 | ![][flag_HK] Hong Kong |  | 3 | 1 |
+| 8 | ![][flag_DE] Alemanha |  | 1 | 2 |
+| 8 | ![][flag_PL] Polônia |  | 1 | 2 |
+| 9 | ![][flag_NL] Netherlands |  | 1 |  |
+| 9 | ![][flag_PH] Filipinas |  | 1 |  |
+| 9 | ![][flag_TH] Tailândia |  | 1 |  |
+| 10 | ![][flag_MY] Malásia |  |  | 3 |
+| 11 | ![][flag_FR] França |  |  | 2 |
+| 12 | ![][flag_AR] Argentina |  |  | 1 |
+| 12 | ![][flag_BR] Brasil |  |  | 1 |
+| 12 | ![][flag_CA] Canada |  |  | 1 |
+| 12 | ![][flag_CO] Colômbia |  |  | 1 |
+| 12 | ![][flag_SE] Suécia |  |  | 1 |
+| 12 | ![][flag_GB] United Kingdom |  |  | 1 |
 
 
 ## Por modo
@@ -43,15 +43,15 @@ Este artigo lista os países que participaram nos vários torneios de osu!, Taik
 
 | Rank | País | Ouro | Prata | Bronze |
 | :-: | :-- | :-: | :-: | :-: |
-| 1 | ![][flag_KR] Coreia do Sul | 3 | | 2 |
-| 2 | ![][flag_US] United States | 2 | | |
-| 3 | ![][flag_JP] Japão | 1 | 2 | |
+| 1 | ![][flag_KR] Coreia do Sul | 3 |  | 2 |
+| 2 | ![][flag_US] United States | 2 |  |  |
+| 3 | ![][flag_JP] Japão | 1 | 2 |  |
 | 4 | ![][flag_TW] Taiwan | 1 | 1 | 1 |
-| 5 | ![][flag_CN] China | | 2 | |
-| 6 | ![][flag_PL] Polônia | | 1 | 2 |
-| 7 | ![][flag_NL] Netherlands | | 1 | |
-| 8 | ![][flag_BR] Brasil | | | 1 |
-| 8 | ![][flag_DE] Alemanha | | | 1 |
+| 5 | ![][flag_CN] China |  | 2 |  |
+| 6 | ![][flag_PL] Polônia |  | 1 | 2 |
+| 7 | ![][flag_NL] Netherlands |  | 1 |  |
+| 8 | ![][flag_BR] Brasil |  |  | 1 |
+| 8 | ![][flag_DE] Alemanha |  |  | 1 |
 
 #### Comparecimento
 
@@ -113,11 +113,11 @@ Este artigo lista os países que participaram nos vários torneios de osu!, Taik
 | Rank | País | Ouro | Prata | Bronze |
 | :-: | :-- | :-: | :-: | :-: |
 | 1 | ![][flag_JP] Japão | 5 | 1 | 2 |
-| 2 | ![][flag_TW] Taiwan | | 2 | 3 | |
-| 3 | ![][flag_HK] Hong Kong | | 3 | 1 |
-| 4 | ![][flag_FR] França | | | 2 |
-| 5 | ![][flag_CA] Canada | | | 1 |
-| 5 | ![][flag_CN] China | | | 1 |
+| 2 | ![][flag_TW] Taiwan |  | 2 | 3 |  |
+| 3 | ![][flag_HK] Hong Kong |  | 3 | 1 |
+| 4 | ![][flag_FR] França |  |  | 2 |
+| 5 | ![][flag_CA] Canada |  |  | 1 |
+| 5 | ![][flag_CN] China |  |  | 1 |
 
 #### Comparecimento
 
@@ -165,15 +165,15 @@ Este artigo lista os países que participaram nos vários torneios de osu!, Taik
 
 | Rank | País | Ouro | Prata | Bronze |
 | :-: | :-: | :-: | :-: | :-: |
-| 1 | ![][flag_KR] Coreia do Sul | 2 | | |
-| 2 | ![][flag_CN] China | 1 | 1 | |
-| 3 | ![][flag_CL] Chile | 1 | | |
-| 4 | ![][flag_DE] Alemanha | | 1 | 2 |
-| 5 | ![][flag_ID] Indonesia | | 1 | |
-| 5 | ![][flag_TW] Taiwan | | 1 | |
-| 6 | ![][flag_AR] Argentina | | | 1 |
-| 6 | ![][flag_CO] Colômbia | | | 1 |
-| 6 | ![][flag_SE] Suécia | | | 1 |
+| 1 | ![][flag_KR] Coreia do Sul | 2 |  |  |
+| 2 | ![][flag_CN] China | 1 | 1 |  |
+| 3 | ![][flag_CL] Chile | 1 |  |  |
+| 4 | ![][flag_DE] Alemanha |  | 1 | 2 |
+| 5 | ![][flag_ID] Indonesia |  | 1 |  |
+| 5 | ![][flag_TW] Taiwan |  | 1 |  |
+| 6 | ![][flag_AR] Argentina |  |  | 1 |
+| 6 | ![][flag_CO] Colômbia |  |  | 1 |
+| 6 | ![][flag_SE] Suécia |  |  | 1 |
 
 #### Comparecimento
 
@@ -230,15 +230,15 @@ Este artigo lista os países que participaram nos vários torneios de osu!, Taik
 
 | Rank | País | Ouro | Prata | Bronze |
 | :-: | :-- | :-: | :-: | :-: |
-| 1 | ![][flag_KR] Coreia do Sul | 3 | 1 | |
-| 2 | ![][flag_US] United States | 1 | | 1 |
-| 3 | ![][flag_CN] China | 1 | | |
-| 4 | ![][flag_BR] Brasil | | 1 | |
-| 4 | ![][flag_JP] Japão | | 1 | |
-| 4 | ![][flag_PH] Filipinas | | 1 | |
-| 4 | ![][flag_TH] Tailândia | | 1 | |
-| 5 | ![][flag_MY] Malásia | | | 3 |
-| 6 | ![][flag_GB] United Kingdom | | | 1 |
+| 1 | ![][flag_KR] Coreia do Sul | 3 | 1 |  |
+| 2 | ![][flag_US] United States | 1 |  | 1 |
+| 3 | ![][flag_CN] China | 1 |  |  |
+| 4 | ![][flag_BR] Brasil |  | 1 |  |
+| 4 | ![][flag_JP] Japão |  | 1 |  |
+| 4 | ![][flag_PH] Filipinas |  | 1 |  |
+| 4 | ![][flag_TH] Tailândia |  | 1 |  |
+| 5 | ![][flag_MY] Malásia |  |  | 3 |
+| 6 | ![][flag_GB] United Kingdom |  |  | 1 |
 
 #### Comparecimento
 

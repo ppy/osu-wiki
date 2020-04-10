@@ -209,7 +209,7 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 
 ### Fase de Grupos (4K)
 
-| Equipo A | Equipo B | Historia | |
+| Equipo A | Equipo B | Historia |  |
 | :-- | :-- | :-- | :-- |
 | ![][flag_AU] **Australia** | **4** - 0 | Indonesia ![][flag_ID] | [#1](https://osu.ppy.sh/community/matches/8429133) |
 | ![][flag_RU] **Rusia** | **4** - 3 | Nueva Zelanda ![][flag_NZ] | [#1](https://osu.ppy.sh/community/matches/8429172) |

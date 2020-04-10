@@ -24,8 +24,8 @@ Jako gość otrzymasz następujące opcje:
 | `Hasło` | Wprowadź tutaj swoje hasło. | Hasło | *(puste)* |
 | `Zapamiętaj nazwę użytkownika` | Zapamiętuje wprowadzoną nazwę użytkownika w kliencie gry. | Pole wyboru | `Włączone` |
 | `Zapamiętaj hasło` | Zapamiętuje wprowadzone hasło w kliencie gry i nie będzie wylogowywać użytkownika przy wyjściu z gry. | Pole wyboru | `Wyłączone` |
-| `Zaloguj się` | Loguje się do osu! z podanymi powyżej danymi. Naciśnięcie klawisza `Enter` w polu z nazwą użytkownika czy hasłem zadziała tak samo. | Przycisk | |
-| `Utwórz konto` | Otwiera ekran [rejestracji konta](/wiki/Registration). | Przycisk | |
+| `Zaloguj się` | Loguje się do osu! z podanymi powyżej danymi. Naciśnięcie klawisza `Enter` w polu z nazwą użytkownika czy hasłem zadziała tak samo. | Przycisk |  |
+| `Utwórz konto` | Otwiera ekran [rejestracji konta](/wiki/Registration). | Przycisk |  |
 
 ---
 
@@ -52,7 +52,7 @@ Aby otworzyć menu użytkownika, możesz kliknąć na swoją kartę, jeżeli jes
 
 | Nazwa | Opis | Typ | Domyślnie |
 | :-- | :-- | :-- | :-- |
-| `Wybierz język` | Wyświetla listę dostępnych języków. | Rozwijane menu | |
+| `Wybierz język` | Wyświetla listę dostępnych języków. | Rozwijane menu |  |
 | `Stosuj oryginalne nazewnictwo` | Na ekranie wyboru utworu informacje o beatmapie będą zawierały oryginalne lub nieprzetłumaczone metadane, jeżeli są one dostępne. | Pole wyboru | `Wyłączone` |
 | `Użyj alternatywnej czcionki dla czatu` | Używa starej czcionki (Tahoma) zamiast obecnej (Aller) do wyświetlania wiadomości na [czacie](/wiki/chat_console). | Pole wyboru | `Wyłączone` |
 
@@ -61,8 +61,8 @@ Aby otworzyć menu użytkownika, możesz kliknąć na swoją kartę, jeżeli jes
 | Nazwa | Opis | Typ | Domyślnie |
 | :-- | :-- | :-- | :-- |
 | `Wersja osu!` | Wyświetla listę dostępnych kompilacji osu!. | Rozwijane menu | `Stabilna` |
-| `Wersja osu! jest aktualna!` | Kliknij, aby sprawdzić, czy dostępne są aktualizacje, i je zainstalować. | Przycisk | |
-| `Otwórz folder osu!` | Otwiera folder lokalny osu!, w którym znajdują się twoje beatmapy, skórki itd. | Przycisk | |
+| `Wersja osu! jest aktualna!` | Kliknij, aby sprawdzić, czy dostępne są aktualizacje, i je zainstalować. | Przycisk |  |
+| `Otwórz folder osu!` | Otwiera folder lokalny osu!, w którym znajdują się twoje beatmapy, skórki itd. | Przycisk |  |
 
 ---
 
@@ -115,7 +115,7 @@ Jeżeli rozwiniesz listę dla `Limit klatek`, zobaczysz następujące opcje:
 
 | Nazwa | Opis | Typ | Domyślnie |
 | :-- | :-- | :-- | :-- |
-| `Rozdzielczość` | Ustawia rozdzielczość klienta gry. Elementy listy zależą od wymiarów monitora. | Rozwijane menu | |
+| `Rozdzielczość` | Ustawia rozdzielczość klienta gry. Elementy listy zależą od wymiarów monitora. | Rozwijane menu |  |
 | `Tryb pełnoekranowy` | Uruchamia grę w trybie pełnoekranowym (zazwyczaj zmniejsza opóźnienie kursora). | Pole wyboru | `Włączone` |
 | `Letterboxing` | Uruchamia grę w trybie pełnoekranowym (zazwyczaj zmniejsza opóźnienie kursora) z określoną rozdzielczością. Reszta ekranu będzie pokryta czarnymi paskami. | Pole wyboru | `Włączone` |
 | `Pozycja pozioma` | Dostosowuje pozycję poziomą w trybie letterboxing (dostępne jedynie przy włączonym letterboxingu). | Suwak | `0%` |
@@ -239,7 +239,7 @@ Głośność w kliencie gry możesz zmienić również poprzez naciśnięcie `Al
 | Nazwa | Opis | Typ | Domyślnie |
 | :-- | :-- | :-- | :-- |
 | `Globalne opóźnienie` | Ustawia opóźnienie (w milisekundach) dla wszystkich beatmap (nie wpływa na opóźnienie lokalne). | Suwak | `0ms` |
-| `Kalibrator opóźnienia` | Uruchamia kalibrator opóźnienia. | Przycisk | |
+| `Kalibrator opóźnienia` | Uruchamia kalibrator opóźnienia. | Przycisk |  |
 
 - Po więcej informacji nt. kalibratora opóźnienia, sprawdź [ten artykuł](/wiki/Offset_Wizard).
 - Po więcej informacji nt. korzystania z kalibratora opóźnienia, sprawdź [ten poradnik](/wiki/How_to_use_the_Offset_Wizard).
@@ -254,11 +254,11 @@ Ta sekcja poświęcona jest skórkom i rzeczom z nimi związanymi.
 
 | Nazwa | Opis | Typ | Domyślnie |
 | :-- | :-- | :-- | :-- |
-| `Elementy skórki` | Wyświetla różne elementy z obecnie wybranej skórki. Kliknij, aby zmienić wyświetlane elementy. | Przycisk | |
+| `Elementy skórki` | Wyświetla różne elementy z obecnie wybranej skórki. Kliknij, aby zmienić wyświetlane elementy. | Przycisk |  |
 | `Wybierz skórkę` | Zmienia skórkę. Elementy z rozwijanej listy to nazwy folderów z katalogu `osu!/Skins` | Rozwijane menu | `Domyślna` |
-| `Podgląd rozgrywki` | Uruchamia idealne przejście losowej beatmapy jako podgląd obecnie wybranej skórki. Tryb gry zależy od trybu wybranego na ekranie wyboru utworu. | Przycisk | |
-| `Otwórz folder skórki` | Otwiera folder obecnie wybranej skórki. | Przycisk | |
-| `Eksportuj jako .osk` | Eksportuje obecnie wybraną skórkę do pliku `.osk`. Gdy proces eksportowania zakończy się, zostanie otworzony folder zawierający plik `.osk`. | Przycisk | |
+| `Podgląd rozgrywki` | Uruchamia idealne przejście losowej beatmapy jako podgląd obecnie wybranej skórki. Tryb gry zależy od trybu wybranego na ekranie wyboru utworu. | Przycisk |  |
+| `Otwórz folder skórki` | Otwiera folder obecnie wybranej skórki. | Przycisk |  |
+| `Eksportuj jako .osk` | Eksportuje obecnie wybraną skórkę do pliku `.osk`. Gdy proces eksportowania zakończy się, zostanie otworzony folder zawierający plik `.osk`. | Przycisk |  |
 | `Ignoruj skórki beatmap` | Ignoruje elementy graficzne dołączone do beatmap (nie dotyczy dźwięków - sprawdź opcję poniżej). | Pole wyboru | `Wyłączone` |
 | `Używaj dźwięków skórek` | Ignoruje efekty dźwiękowe dołączone do beatmap. | Pole wyboru | `Włączone` |
 | `Używaj osobnych elementów skórki dla osu!taiko` | Używa elementów przeznaczonych dla trybu osu!taiko, jeżeli występują one w obecnie wybranej skórce. Sprawdź [ten artykuł](/wiki/Skinning/osu!taiko), aby dowiedzieć się więcej. | Pole wyboru | `Wyłączone` |

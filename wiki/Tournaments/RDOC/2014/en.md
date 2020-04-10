@@ -187,7 +187,7 @@ This competition has come to an end and resulted in the following podium:
 
 Sunday, 2014-02-23:
 
-| Group | Player 1 | | | Player 2 |
+| Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | **TimG** ![][flag_DK] | **5** | 1 | ![][flag_DK] Tropians |
 | LB | **TimG** ![][flag_DK] | **5** | 1 | ![][flag_DK] Broniel |
@@ -196,7 +196,7 @@ Sunday, 2014-02-23:
 
 Saturday, 2014-02-22:
 
-| Group | Player 1 | | | Player 2 |
+| Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | LB | Tonarinototoro ![][flag_DK] | 3 | **4** | ![][flag_DK] **TimG** |
 | LB | **PlasticSmoothie** ![][flag_DK] | **4** | 3 | ![][flag_DK] Gupply |
@@ -204,7 +204,7 @@ Saturday, 2014-02-22:
 
 Sunday, 2014-02-23:
 
-| Group | Player 1 | | | Player 2 |
+| Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | LB | PlasticSmoothie ![][flag_DK] | 2 | **5** | ![][flag_DK] **TimG** |
 
@@ -212,7 +212,7 @@ Sunday, 2014-02-23:
 
 Saturday, 2014-02-22:
 
-| Group | Player 1 | | | Player 2 |
+| Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | LB | **Gupply** ![][flag_DK] | **4** | 0 | ![][flag_DK] Kazutakee |
 | LB | **Tonarinototoro** ![][flag_DK] | **4** | 0 | ![][flag_DK] Kozhler |
@@ -227,7 +227,7 @@ Saturday, 2014-02-22:
 
 Friday, 2014-02-21:
 
-| Group | Player 1 | | | Player 2 |
+| Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | Shiryuu ![][flag_DK] | 1 | **3** | ![][flag_DK] **Broniel** |
 | UB | Maltahl ![][flag_DK] | 0 | **3** | ![][flag_DK] **TimG** |
@@ -250,7 +250,7 @@ Friday, 2014-02-21:
 
 Friday, 2014-02-21:
 
-| Group | Player 1 | | | Player 2 |
+| Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | Tonarinototoro ![][flag_DK] | 0 | **3** | ![][flag_DK] **Broniel** |
 | UB | **Shiryuu** ![][flag_DK] | **3** | 0 | ![][flag_DK] Ximadi |
@@ -272,7 +272,7 @@ Friday, 2014-02-21:
 
 Friday, 2014-02-21:
 
-| Group | Player 1 | | | Player 2 |
+| Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | powerupgm ![][flag_DK] | 0 | **3** | ![][flag_DK] **Broniel** |
 | UB | **Shiryuu** ![][flag_DK] | **3** | 0 | ![][flag_DK] powerupgm |

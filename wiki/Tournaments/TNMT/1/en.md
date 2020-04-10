@@ -227,19 +227,19 @@ All prizes are sponsored by **![][flag_CN] [hans1999](https://osu.ppy.sh/users/6
 
 ### Group Stage
 
-| Group A | Score | | Group B | Score | | Group C | Score | | Group D | Score |
+| Group A | Score |  | Group B | Score |  | Group C | Score |  | Group D | Score |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| **Maou** | **12** | | **Horou** | **11** | | **Davvyforte** | **12** | | **Ladylag** | **12** |
-| **edisonhello** | **9** | | **NestleiFan** | **9** | | **BITONIC** | **8** | | **NutAndGo** | **9** |
-| TNKSTC | 7 | | ReanimateS | 8 | | [xiao ba] | 6 | | GodYeeKung | 4 |
-| - Blue Bell - | 0 | | JunFish | 3 | | Katsumi | 4 | | Blujae | 5 |
+| **Maou** | **12** |  | **Horou** | **11** |  | **Davvyforte** | **12** |  | **Ladylag** | **12** |
+| **edisonhello** | **9** |  | **NestleiFan** | **9** |  | **BITONIC** | **8** |  | **NutAndGo** | **9** |
+| TNKSTC | 7 |  | ReanimateS | 8 |  | [xiao ba] | 6 |  | GodYeeKung | 4 |
+| - Blue Bell - | 0 |  | JunFish | 3 |  | Katsumi | 4 |  | Blujae | 5 |
 
-| Group E | Score | | Group F | Score | | Group G | Score | | Group H | Score |
+| Group E | Score |  | Group F | Score |  | Group G | Score |  | Group H | Score |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| **Yukina-** | **12** | | **palmEuEi** | **12** | | **Halo-** | **12** | | **mewmew** | **12** |
-| **HD_AdreNaline** | **11** | | **Antalf** | **9** | | **EDTA233** | **8** | | **vincent4399** | **8** |
-| Kasumii-sama | 4 | | xyxyxy091 | 4 | | Loily | 5 | | Yozomi | 6 |
-| -[ GuiboxFR ]- | 6 | | OumiOVO | 5 | | XxTheJKxX | 4 | | DrugManager | 0 |
+| **Yukina-** | **12** |  | **palmEuEi** | **12** |  | **Halo-** | **12** |  | **mewmew** | **12** |
+| **HD_AdreNaline** | **11** |  | **Antalf** | **9** |  | **EDTA233** | **8** |  | **vincent4399** | **8** |
+| Kasumii-sama | 4 |  | xyxyxy091 | 4 |  | Loily | 5 |  | Yozomi | 6 |
+| -[ GuiboxFR ]- | 6 |  | OumiOVO | 5 |  | XxTheJKxX | 4 |  | DrugManager | 0 |
 
 ## Ruleset
 

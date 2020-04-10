@@ -497,7 +497,7 @@ This competition has come to an end and resulted in the following podium:
 
 Sunday, 2 February 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Asia** | **7** | 2 | Europe | [#1](https://osu.ppy.sh/community/matches/58155031) |
 
@@ -505,7 +505,7 @@ Sunday, 2 February 2020:
 
 Sunday, 19 January 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Oceania/South East Asia | 2 | **7** | **North America** | [#1](https://osu.ppy.sh/community/matches/57827483) |
 | **Asia** | **7** | 2 | Europe | [#1](https://osu.ppy.sh/community/matches/57834207) |
@@ -515,14 +515,14 @@ Sunday, 19 January 2020:
 
 Saturday, 11 January 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Oceania/South East Asia** | **7** | 1 | South America | [#1](https://osu.ppy.sh/community/matches/57646946) |
 | **Europe** | **7** | 0 | North America | [#1](https://osu.ppy.sh/community/matches/57648516) |
 
 Sunday, 12 January 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Asia** | **7** | 1 | Oceania/South East Asia | [#1](https://osu.ppy.sh/community/matches/57672041) |
 | **North America** | **7** | 2 | South America | [#1](https://osu.ppy.sh/community/matches/57682937) |
@@ -533,7 +533,7 @@ Sunday, 12 January 2020:
 
 Saturday, 14 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | vladyushko ![][flag_CA] | 3 | **7** | ![][flag_CA] **janitoreihil** | [#1](https://osu.ppy.sh/community/matches/56953118) |
 | **Blerargh** ![][flag_SG] | **7** | 2 | ![][flag_SG] Element118 | [#1](https://osu.ppy.sh/community/matches/56964072) |
@@ -541,7 +541,7 @@ Saturday, 14 December 2019:
 
 Sunday, 15 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Ulqui** ![][flag_CL] | **7** | 4 | ![][flag_BR] HiroK | [#1](https://osu.ppy.sh/community/matches/56985759) |
 | **uone** ![][flag_JP] | **7** | 2 | ![][flag_JP] iceOC | [#1](https://osu.ppy.sh/community/matches/56989593) |
@@ -550,7 +550,7 @@ Sunday, 15 December 2019:
 
 Saturday, 7 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | janitoreihil ![][flag_CA] | 6 | **7** | ![][flag_CA] **vladyushko** | [#1](https://osu.ppy.sh/community/matches/56784656) |
 | **cheese salad** ![][flag_US] | **7** | 5 | ![][flag_US] Whulf | [#1](https://osu.ppy.sh/community/matches/56786667) |
@@ -564,7 +564,7 @@ Saturday, 7 December 2019:
 
 Sunday, 8 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Ppus ![][flag_BR] | 3 | **7** | ![][flag_BR] **HiroK** | [#1](https://osu.ppy.sh/community/matches/56815523) |
 | **janitoreihil** ![][flag_CA] | **7** | 2 | ![][flag_US] cheese salad | [#1](https://osu.ppy.sh/community/matches/56819803) |
@@ -576,13 +576,13 @@ Sunday, 8 December 2019:
 
 Friday, 29 November 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Alepat ![][flag_CL] | 2 | **7** | ![][flag_CL] **Ulqui** | [#1](https://osu.ppy.sh/community/matches/56611326) |
 
 Saturday, 30 November 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **janitoreihil** ![][flag_CA] | **0** | -1 | ![][flag_US] cheese salad | *win by default* |
 | **vladyushko** ![][flag_CA] | **7** | 2 | ![][flag_US] Whulf | [#1](https://osu.ppy.sh/community/matches/56620976) |
@@ -600,7 +600,7 @@ Saturday, 30 November 2019:
 
 Sunday, 1 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Element118** ![][flag_SG] | **7** | 1 | ![][flag_AU] Tsubasa2 | [#1](https://osu.ppy.sh/community/matches/56650283) |
 | R J ![][flag_US] | 2 | **7** | ![][flag_US] **closed** | [#1](https://osu.ppy.sh/community/matches/56650277) |
@@ -619,14 +619,14 @@ Sunday, 1 December 2019:
 
 Friday, 22 November 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | 3san ![][flag_US] | 5 | **6** | ![][flag_US] **Whulf** | [#1](https://osu.ppy.sh/community/matches/56427911) |
 | **Pochacco** ![][flag_PH] | **6** | 0 | ![][flag_MY] growATMfarmz | [#1](https://osu.ppy.sh/community/matches/56437809) |
 
 Saturday, 23 November 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **janitoreihil** ![][flag_CA] | **6** | 3 | ![][flag_US] closed | [#1](https://osu.ppy.sh/community/matches/56455858) |
 | **closed** ![][flag_US] | **6** | 1 | ![][flag_US] Cychloryn | [#1](https://osu.ppy.sh/community/matches/56460427) |
@@ -646,7 +646,7 @@ Saturday, 23 November 2019:
 
 Sunday, 24 November 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Blerargh** ![][flag_MY] | **0** | -1 | ![][flag_AU] Tsubasa2 | *win by default* |
 | R J ![][flag_US] | 2 | **6** | ![][flag_US] **cheese salad** | [#1](https://osu.ppy.sh/community/matches/56485892) |
@@ -669,14 +669,14 @@ Sunday, 24 November 2019:
 
 Friday, 15 November 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | kazelone ![][flag_CA] | 0 | **5** | ![][flag_US] **closed** | [#1](https://osu.ppy.sh/community/matches/56286101) |
 | **cheese salad** ![][flag_US] | **5** | 0 | ![][flag_US] CaptainEChan | [#1](https://osu.ppy.sh/community/matches/56289019) |
 
 Saturday, 16 November 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **janitoreihil** ![][flag_CA] | **5** | 0 | ![][flag_MX] ZaveryK | [#1](https://osu.ppy.sh/community/matches/56291270) |
 | **3san** ![][flag_US] | **5** | 0 | ![][flag_US] Voltaeyx | [#1](https://osu.ppy.sh/community/matches/56291818) |
@@ -707,7 +707,7 @@ Saturday, 16 November 2019:
 
 Sunday, 17 November 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Hotman ![][flag_CR] | 3 | **5** | ![][flag_US] **CaptainEChan** | [#1](https://osu.ppy.sh/community/matches/56320802) |
 | **Blerargh** ![][flag_SG] | **0** | -1 | ![][flag_MY] newme96 | *win by default* |
@@ -736,7 +736,7 @@ Sunday, 17 November 2019:
 
 Saturday, 9 November 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **AlvaroYL** ![][flag_ES] | **5** | 0 | ![][flag_NO] Mills | [#1](https://osu.ppy.sh/community/matches/56136672) |
 | **Acrith** ![][flag_PL] | **5** | 0 | ![][flag_RU] Dayzeek | [#1](https://osu.ppy.sh/community/matches/56138197) |
@@ -757,7 +757,7 @@ Saturday, 9 November 2019:
 
 Sunday, 10 November 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | TwinT ![][flag_RU] | 0 | **5** | ![][flag_FR] **-Akitai-** | [#1](https://osu.ppy.sh/community/matches/56168714) |
 | mammasutter ![][flag_DK] | 3 | **5** | ![][flag_RU] **pavlukivan** | [#1](https://osu.ppy.sh/community/matches/56169983) |

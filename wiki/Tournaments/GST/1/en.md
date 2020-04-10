@@ -285,13 +285,13 @@ This competition has come to an end and resulted in the following podium:
 
 Saturday, 3 August 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Tom and Jerry** | **7** | 2 | Ranked Score | [#1](https://osu.ppy.sh/community/matches/53782971) |
 
 Sunday, 4 August 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Broken Family | 0 | **7** | **Tom and Jerry** | [#1](https://osu.ppy.sh/mp/53831236) |
 | **Tom and Jerry** | **0** | -1 | Broken Family | *win by default* |
@@ -300,25 +300,25 @@ Sunday, 4 August 2019:
 
 Friday, 26 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **5N9N1994J3T** | **6** | 1 | bring back 2014 | [#1](https://osu.ppy.sh/community/matches/53614158) |
 
 Saturday, 27 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Team Cleveland | 2 | **6** | **Ranked Score** | [#1](https://osu.ppy.sh/community/matches/53637678) |
 
 Sunday, 28 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Tom and Jerry | 5 | **6** | **Broken Family** | [#1](https://osu.ppy.sh/community/matches/53639797) |
 
 Monday, 29 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | 5N9N1994J3T | 3 | **6** | **Ranked Score** | [#1](https://osu.ppy.sh/community/matches/53687176) |
 
@@ -326,13 +326,13 @@ Monday, 29 July 2019:
 
 Tuesday, 16 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Banana Bread** | **0** | -1 | Workers' Party | *win by default* |
 
 Saturday, 20 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | SeeL | 3 | **6** | **Darlie 黑人牙膏** | [#1](https://osu.ppy.sh/community/matches/53470636) |
 | **Team Cleveland** | **6** | 1 | youi is homosexual | [#1](https://osu.ppy.sh/community/matches/53473621) |
@@ -340,7 +340,7 @@ Saturday, 20 July 2019:
 
 Sunday, 21 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Darlie 黑人牙膏 | 0 | **6** | **5N9N1994J3T** | [#1](https://osu.ppy.sh/community/matches/53490469) |
 | **Team Cleveland** | **6** | 2 | Banana Bread | [#1](https://osu.ppy.sh/community/matches/53493460) |
@@ -348,7 +348,7 @@ Sunday, 21 July 2019:
 
 Tuesday, 23 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Broken Family** | **6** | 1 | bring back 2014 | [#1](https://osu.ppy.sh/community/matches/53543814) |
 
@@ -356,19 +356,19 @@ Tuesday, 23 July 2019:
 
 Wednesday, 10 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | nico nico REEEEEEE | -1 | **0** | **`https:/discord.gg/kCfW4Jw`** | *win by default* |
 
 Friday, 12 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | wo bu ke yi jiang hua yi | -1 | **0** | **HR SUCKS** | *win by default* |
 
 Saturday, 13 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **shun ren is ugly** | **5** | 1 | 404WinNotFound | [#1](https://osu.ppy.sh/community/matches/53287746) |
 | parkinson's patients | 0 | **5** | **Darlie 黑人牙膏** | [#1](https://osu.ppy.sh/community/matches/53306114) |
@@ -380,7 +380,7 @@ Saturday, 13 July 2019:
 
 Sunday, 14 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Team Cleveland | 2 | **5** | **Broken Family** | [#1](https://osu.ppy.sh/community/matches/53328588) |
 | **youi is homosexual** | **5** | 0 | @miumiu1343 | [#1](https://osu.ppy.sh/community/matches/53329993) |
@@ -391,7 +391,7 @@ Sunday, 14 July 2019:
 
 Monday, 15 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Ranked Score** | **5** | 3 | 5N9N1994J3T | [#1](https://osu.ppy.sh/community/matches/53357081) |
 
@@ -399,13 +399,13 @@ Monday, 15 July 2019:
 
 Friday, 5 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | handsome’s Master | -1 | **0** | **404WinNotFound** | *win by default* |
 
 Saturday, 6 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | mintychewinggum | -1 | **0** | **Banana Bread** | *win by default* |
 | **Broken Family** | **0** | -1 | wo bu ke yi jiang hua yi | *win by default* |
@@ -416,7 +416,7 @@ Saturday, 6 July 2019:
 
 Sunday, 7 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **bring back 2014** | **5** | 4 | shun ren is ugly | [#1](https://osu.ppy.sh/community/matches/53150236) |
 | **5N9N1994J3T** | **5** | 0 | nico nico REEEEEEE | [#1](https://osu.ppy.sh/community/matches/53150948) |
@@ -429,7 +429,7 @@ Sunday, 7 July 2019:
 
 Monday, 8 July 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Tom and Jerry** | **5** | 1 | Tryhards | [#1](https://osu.ppy.sh/community/matches/53192429) |
 
@@ -437,19 +437,19 @@ Monday, 8 July 2019:
 
 Tuesday, 18 June 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **SeeL** | **4** | -1 | Kallang Hawker Centre | *win by default* |
 
 Thursday, 20 June 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **SeeL** | **4** | 2 | dos idiots | [#1](https://osu.ppy.sh/community/matches/52764699) |
 
 Friday, 21 June 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **shun ren is ugly** | **4** | 0 | Too poor to go jewel | [#1](https://osu.ppy.sh/community/matches/52793684) |
 | Darlie 黑人牙膏 | 2 | **4** | **Workers' Party** | [#1](https://osu.ppy.sh/community/matches/52793251) |
@@ -457,7 +457,7 @@ Friday, 21 June 2019:
 
 Saturday, 22 June 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | handsome’s Master | -1 | **0** | **Tryhards** | *win by default* |
 | Insomnia | 1 | **4** | **Banana Bread** | [#1](https://osu.ppy.sh/community/matches/52814207) |
@@ -471,7 +471,7 @@ Saturday, 22 June 2019:
 
 Sunday, 23 June 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Majulah PPAP | 2 | **4** | **We are going to win** | [#1](https://osu.ppy.sh/community/matches/52822210) |
 | **shun ren is ugly** | **4** | 1 | Double McSpicy add chese | [#1](https://osu.ppy.sh/community/matches/52823255) |
@@ -494,7 +494,7 @@ Sunday, 23 June 2019:
 
 Monday, 24 June 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **youi is homosexual** | **4** | 0 | @miumiu1343 | [#1](https://osu.ppy.sh/community/matches/52849606) |
 | dogerinoo fan club | 3 | **4** | **Tryhards** | [#1](https://osu.ppy.sh/community/matches/52849604) |
@@ -504,27 +504,27 @@ Monday, 24 June 2019:
 
 Tuesday, 25 June 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Tom and Jerry** | **4** | 0 | HR SUCKS | [#1](https://osu.ppy.sh/community/matches/52893529) |
 
 Wednesday, 26 June 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | roflmaolol | 2 | **4** | **youi is homosexual** | [#1](https://osu.ppy.sh/community/matches/52911317) |
 | "aMAAAYYYz1ng!" | 3 | **4** | **Insomnia** | [#1](https://osu.ppy.sh/community/matches/52917447) |
 
 Thursday, 27 June 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Workers' Party** | **4** | 0 | BCP | [#1](https://osu.ppy.sh/community/matches/52935077) |
 | HR SUCKS | 0 | **4** | **handsome’s Master** | [#1](https://osu.ppy.sh/community/matches/52940336) |
 
 Friday, 28 June 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **nico nico REEEEEEE** | **4** | 0 | Majulah PPAP | [#1](https://osu.ppy.sh/community/matches/52957396) |
 | "aMAAAYYYz1ng!" | 0 | **4** | **5N9N1994J3T** | [#1](https://osu.ppy.sh/community/matches/52958376) |
@@ -532,7 +532,7 @@ Friday, 28 June 2019:
 
 Saturday, 29 June 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Banana Bread** | **0** | -1 | "aMAAAYYYz1ng!" | *win by default* |
 | roflmaolol | 0 | **4** | **mintychewinggum** | [#1](https://osu.ppy.sh/community/matches/52981232) |
@@ -548,7 +548,7 @@ Saturday, 29 June 2019:
 
 Sunday, 30 June 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | wo bu ke yi jiang hua yi | 3 | **4** | **SeeL** | [#1](https://osu.ppy.sh/community/matches/52988712) |
 | nico nico REEEEEEE | 2 | **4** | **Broken Family** | [#1](https://osu.ppy.sh/community/matches/52988704) |

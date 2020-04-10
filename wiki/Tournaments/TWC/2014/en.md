@@ -52,7 +52,7 @@ The **osu! Taiko World Cup 2014** (***TWC 2014***) was a country-based osu!taiko
 
 ## Participants
 
-| | Country | Members |
+|  | Country | Members |
 | :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[whosthebox](https://osu.ppy.sh/u/1451311)**, [Nearex](https://osu.ppy.sh/users/1893238), [Pollotuc](https://osu.ppy.sh/users/42440), [Chillet](https://osu.ppy.sh/users/1236632), [cyntuu mirandaa](https://osu.ppy.sh/users/724230), [Lost The Lights](https://osu.ppy.sh/users/1255920) |
 | ![][flag_BR] | **Brazil** | **[Kolbe](https://osu.ppy.sh/users/1254286)**, [Yuki-chan](https://osu.ppy.sh/users/93687), [- T i g e r -](https://osu.ppy.sh/users/1381781), [suyama-chan](https://osu.ppy.sh/users/928298), [lubask](https://osu.ppy.sh/users/1897332), [Wolf](https://osu.ppy.sh/users/555855) |

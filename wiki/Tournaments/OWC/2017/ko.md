@@ -49,7 +49,7 @@ osu! World Cup 2017은 커뮤니티의 여러 구성원들에 의해 운영됩�
 
 ### 확정된 팀
 
-| | 국가 | 선수 |
+|  | 국가 | 선수 |
 | --: | :-: | :-- |
 | ![][flag_AR] | **아르헨티나** | **[Pein](https://osu.ppy.sh/users/2212941)**, [Lexalia](https://osu.ppy.sh/users/1887616), [Serena](https://osu.ppy.sh/users/756068), [benjacala](https://osu.ppy.sh/users/1625740), [Toushi](https://osu.ppy.sh/users/2367825), [-Urushihara-](https://osu.ppy.sh/users/6169195), [Glazbom](https://osu.ppy.sh/users/608277), [zaqlev](https://osu.ppy.sh/users/3188703) |
 | ![][flag_AU] | **오스트레일리아** | **[Bauxe](https://osu.ppy.sh/users/1881685)**, [Dumii](https://osu.ppy.sh/users/3068044), [uyghti](https://osu.ppy.sh/users/3641404), [Lunirs](https://osu.ppy.sh/users/2118945), [Blobby3000](https://osu.ppy.sh/users/6916774), [ithgyu](https://osu.ppy.sh/users/5113781), [GranDSenpai](https://osu.ppy.sh/users/3997580), [Weber](https://osu.ppy.sh/users/6410432) |
@@ -85,7 +85,7 @@ osu! World Cup 2017은 커뮤니티의 여러 구성원들에 의해 운영됩�
 
 만약 월드컵 참가 신청을 한 경우, 목록에 적혀 있는 임시 주장에게 가능한 한 빨리 연락을 취하도록 합니다.
 
-| | 국가 | 임시 주장 |
+|  | 국가 | 임시 주장 |
 | --: | :-: | :-- |
 | ![][flag_FR] | **프랑스** | [Musty](https://osu.ppy.sh/users/251683) |
 | ![][flag_PH] | **필리핀** | [HaruTachi-](https://osu.ppy.sh/users/6244066) |

@@ -28,7 +28,7 @@
 
 *Note: Ce tableau s'applique uniquement aux beatmaps converties à partir d'osu!standard vers osu!mania par le jeu, et pas aux beatmaps créés spécifiquement pour osu!mania.*
 
-| | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
+|  | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
 | :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
 | 4K | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
 | 5K | 0.74 | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 |
@@ -41,7 +41,7 @@
 
 Le Co-Op mod n'applique **aucune** pénalité sur les beatmaps spécifiquement créés pour osu!mania.
 
-| | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
+|  | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
 | :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
 | 4K | 0.82 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
 | 5K | 0.78 | 0.86 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |

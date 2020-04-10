@@ -84,7 +84,7 @@ outdated: true
 | 8K (R) | beatmaniaIIDX (P2) |
 | 9K | pop'n music, E5 - Dancing Super Station (Single). |
 | 12K | Keyboardmania (Light) |
-| 14K | |
+| 14K |  |
 | 16K | beatmaniaIIDX (Double) |
 | 18K | E5 - Dancing Super Station (Double). |
 
@@ -93,6 +93,6 @@ outdated: true
 | Число клавиш (CS) | Игра |
 | :-- | :-- |
 | 10K | MuziBox, Pump It Up (Double) |
-| 20K | |
+| 20K |  |
 | 24K | Keyboardmania (Light+, Real) |
 | 48K | Keyboardmania (Double) |

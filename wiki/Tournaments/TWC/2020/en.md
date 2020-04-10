@@ -52,7 +52,7 @@ The osu!taiko World Cup 2020 is run by various community members.
 
 ## Participants
 
-| | Country | Members |
+|  | Country | Members |
 | :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[gaston_2199](https://osu.ppy.sh/users/5938161)**, [BossPlays](https://osu.ppy.sh/users/7341471), [Axer](https://osu.ppy.sh/users/7299864), [EniAyuwoki](https://osu.ppy.sh/users/10956624) |
 | ![][flag_AU] | **Australia** | **[soliderror](https://osu.ppy.sh/users/10630542)**, [acid](https://osu.ppy.sh/users/2913584), [Tsubasa2](https://osu.ppy.sh/users/6835183), [richy2001](https://osu.ppy.sh/users/11499467), [Beat43210](https://osu.ppy.sh/users/5664171) |
@@ -91,13 +91,13 @@ The osu!taiko World Cup 2020 is run by various community members.
 
 Saturday, 11 April 2020:
 
-| Team A | | | Team B | Match time | Local time A | Local time B | |
+| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
 | South Korea | ![][flag_KR] | ![][flag_GB] | United Kingdom | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 | ¹ |
 
 Sunday, 12 April 2020:
 
-| Team A | | | Team B | Match time | Local time A | Local time B | |
+| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
 | Japan | ![][flag_JP] | ![][flag_KR] | South Korea | **12:00 UTC** | 21:00 UTC+09 | 21:00 UTC+09 | ² |
 | Japan | ![][flag_JP] | ![][flag_GB] | United Kingdom | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 | ² |
@@ -259,14 +259,14 @@ Sunday, 12 April 2020:
 
 Saturday, 4 April 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **South Korea** ![][flag_KR] | **7** | 0 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/59967676) |
 | **Taiwan** ![][flag_TW] | **7** | 0 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/59981245) |
 
 Sunday, 5 April 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **South Korea** ![][flag_KR] | **7** | 2 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/60018994) |
 | **Japan** ![][flag_JP] | **7** | 1 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/60021326) |
@@ -275,7 +275,7 @@ Sunday, 5 April 2020:
 
 Saturday, 28 March 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Germany** ![][flag_DE] | **7** | 1 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/59703426) |
 | **Italy** ![][flag_IT] | **7** | 4 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/59706270) |
@@ -284,7 +284,7 @@ Saturday, 28 March 2020:
 
 Sunday, 29 March 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Japan** ![][flag_JP] | **7** | 5 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/59739806) |
 | Taiwan ![][flag_TW] | 5 | **7** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/59741818) |
@@ -295,7 +295,7 @@ Sunday, 29 March 2020:
 
 Saturday, 21 March 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Sweden** ![][flag_SE] | **6** | 5 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/59440883) |
 | **Germany** ![][flag_DE] | **6** | 1 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/59443946) |
@@ -305,7 +305,7 @@ Saturday, 21 March 2020:
 
 Sunday, 22 March 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | China ![][flag_CN] | 0 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/59473798) |
 | **Japan** ![][flag_JP] | **6** | 2 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/59475787) |
@@ -315,7 +315,7 @@ Sunday, 22 March 2020:
 
 Saturday, 14 March 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Singapore ![][flag_SG] | 1 | **6** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/59186154) |
 | **Spain** ![][flag_ES] | **6** | 3 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/59190551) |
@@ -324,7 +324,7 @@ Saturday, 14 March 2020:
 
 Sunday, 15 March 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | United States ![][flag_US] | 1 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/59210475) |
 | **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/59211398) |
@@ -335,7 +335,7 @@ Sunday, 15 March 2020:
 
 Saturday, 7 March 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **New Zealand** ![][flag_NZ] | **5** | 4 | ![][flag_GR] Greece | [#1](https://osu.ppy.sh/community/matches/58989241) |
 | **Poland** ![][flag_PL] | **5** | 0 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/58989346) |
@@ -364,7 +364,7 @@ Saturday, 7 March 2020:
 
 Sunday, 8 March 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **United States** ![][flag_US] | **5** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/59013785) |
 | **Japan** ![][flag_JP] | **5** | 0 | ![][flag_AR] Argentina | *win by default* |

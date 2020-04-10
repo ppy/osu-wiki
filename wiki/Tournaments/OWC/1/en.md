@@ -50,7 +50,7 @@ The osu! World Cup #1 was run by various community members by distributing the m
 
 ## Participants
 
-| | Country | Members |
+|  | Country | Members |
 | :-: | :-: | :-- |
 | ![][flag_AT] | **Austria** | **TouhouNerd**, Snowball, Hanyuu, Nharox, unbelievable |
 | ![][flag_AR] | **Argentina** | **Wishy22**, RocknRolla, Grisuh, Vivere, lota78, violentt |

@@ -31,12 +31,12 @@ Selain kolom komentar ini, jangan lupa untuk menghapus semua kolom komentar yang
 | --: | :-- |
 | Tahap Registrasi | 2018-01-01/2018-01-28 |
 | Pengundian | 2018-01-29 {DRAW_TIME} |
-| Babak Grup | |
-| Babak 16 Besar | |
-| Perempat Final | |
-| Semifinal | |
-| Final - Minggu 1 | |
-| Final - Minggu 2 | |
+| Babak Grup |  |
+| Babak 16 Besar |  |
+| Perempat Final |  |
+| Semifinal |  |
+| Final - Minggu 1 |  |
+| Final - Minggu 2 |  |
 
 <!-- Gunakan format tanggal YYYY-MM-DD misalnya 2018-01-01
 Gunakan format (HH:MM) untuk mengisi {DRAW_TIME} misalnya (19:00 UTC +7)
@@ -48,9 +48,9 @@ Dalam setiap turnamen, peserta yang memenangkan turnamen berhak naik ke podium d
 
 | Posisi | Hadiah |
 | :-: | :-- |
-| ![Mahkota Emas](/wiki/shared/crown-gold.png "Juara satu") | |
-| ![Mahkota Perak](/wiki/shared/crown-silver.png "Juara dua") | |
-| ![Mahkota Perunggu](/wiki/shared/crown-bronze.png "Juara tiga") | |
+| ![Mahkota Emas](/wiki/shared/crown-gold.png "Juara satu") |  |
+| ![Mahkota Perak](/wiki/shared/crown-silver.png "Juara dua") |  |
+| ![Mahkota Perunggu](/wiki/shared/crown-bronze.png "Juara tiga") |  |
 
 ## Staf Turnamen
 
@@ -59,13 +59,13 @@ Dalam setiap turnamen, peserta yang memenangkan turnamen berhak naik ke podium d
 | Posisi | Anggota |
 | :-- | :-- |
 | Contoh; hapus baris ini | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_AU] [BanchoBot](https://osu.ppy.sh/users/3) |
-| Penyelenggara | |
-| Pemilih Map | |
+| Penyelenggara |  |
+| Pemilih Map |  |
 | Penyiar |
-| Komentator | |
+| Komentator |  |
 | Designer |
 | Wasit |
-| Ahli Statistik | |
+| Ahli Statistik |  |
 
 ## Tautan
 
@@ -75,10 +75,10 @@ Dalam setiap turnamen, peserta yang memenangkan turnamen berhak naik ke podium d
 
 ## Peserta
 
-| | Negara | Anggota |
+|  | Negara | Anggota |
 | :-: | :-: | :-- |
 | ![][flag_AU] | **Australia** | [peppy](https://osu.ppy.sh/users/2), [BanchoBot](https://osu.ppy.sh/users/3) |
-| | | |
+|  |  |  |
 
 ## Grup
 
@@ -121,7 +121,7 @@ Dalam setiap turnamen, peserta yang memenangkan turnamen berhak naik ke podium d
 
 ### Final - Minggu 2
 
-| Hari, tanggal | | | | |
+| Hari, tanggal |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | TEAM_A ![][flag] | SKOR | SKOR | ![][flag] TEAM_B | [#1](TAUTAN_PERTANDINGAN) |
 | TEAM_C ![][flag] | SKOR | SKOR | ![][flag] TEAM_D | -win by default- |

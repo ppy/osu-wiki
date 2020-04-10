@@ -300,7 +300,7 @@ This competition has come to an end and resulted in the following podium:
 
 Sunday, 19 January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Mahathir bin Moh** | **7** | 5 | Tom and Jerry | [#1](https://osu.ppy.sh/community/matches/57808324) |
 | **tamade** | **7** | 2 | Mahathir bin Moh | [#1](https://osu.ppy.sh/community/matches/57826652) |
@@ -309,20 +309,20 @@ Sunday, 19 January 2020:
 
 Friday, 10 January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Tom and Jerry** | **6** | 2 | a)ii)no scenario | [#1](https://osu.ppy.sh/community/matches/57614475) |
 
 Saturday, 11 January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **raining lanjiao** | **6** | 3 | advanced math | [#1](https://osu.ppy.sh/community/matches/57619772) |
 | **Tom and Jerry** | **6** | 3 | raining lanjiao | [#1](https://osu.ppy.sh/community/matches/57621612) |
 
 Sunday, 12 January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **tamade** | **6** | 1 | Mahathir bin Moh | [#1](https://osu.ppy.sh/community/matches/57649651) |
 
@@ -330,7 +330,7 @@ Sunday, 12 January 2020:
 
 Saturday, 4 January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **FrogChamp** | **6** | 0 | Abused 24/7 | [#1](https://osu.ppy.sh/community/matches/57485836) |
 | Tom and Jerry | 3 | **6** | **Mahathir bin Moh** | [#1](https://osu.ppy.sh/community/matches/57485717) |
@@ -339,7 +339,7 @@ Saturday, 4 January 2020:
 
 Sunday, 5 January 2020:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **double tap** | **6** | 0 | #sobafanclub | [#1](https://osu.ppy.sh/community/matches/57487339) |
 | raining lanjiao | 1 | **6** | **tamade** | [#1](https://osu.ppy.sh/community/matches/57488755) |
@@ -350,13 +350,13 @@ Sunday, 5 January 2020:
 
 Friday, 27 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **self ref** | **5** | 4 | Fijsdejjwsxjfjdd | [#1](https://osu.ppy.sh/community/matches/57261257) |
 
 Saturday, 28 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | double tap | 1 | **5** | **tamade** | [#1](https://osu.ppy.sh/community/matches/57301414) |
 | **a)ii)no scenario** | **5** | 3 | 50% fARmErS | [#1](https://osu.ppy.sh/community/matches/57303034) |
@@ -368,7 +368,7 @@ Saturday, 28 December 2019:
 
 Sunday, 29 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **#sobafanclub** | **5** | 1 | Fortnite? | [#1](https://osu.ppy.sh/community/matches/57336724) |
 | **salakau** | **5** | 4 | twitch<!---->.tv/(-->) | [#1](https://osu.ppy.sh/community/matches/57336754) |
@@ -378,14 +378,14 @@ Sunday, 29 December 2019:
 
 Monday, 30 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **raining lanjiao** | **5** | 0 | PAP | [#1](https://osu.ppy.sh/community/matches/57340772) |
 | **a)ii)no scenario** | **5** | 0 | totallynotfarmer | [#1](https://osu.ppy.sh/community/matches/57362787) |
 
 Tuesday, 31 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | self ref | 4 | **5** | **advanced math** | [#1](https://osu.ppy.sh/community/matches/57365392) |
 
@@ -393,13 +393,13 @@ Tuesday, 31 December 2019:
 
 Wednesday, 18 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **twitch.<!---->tv/(-->)** | **5** | 1 | fulap | [#1](https://osu.ppy.sh/community/matches/57062539) |
 
 Thursday, 19 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Cute Aim Live! | 1 | **5** | **FrogChamp** | [#1](https://osu.ppy.sh/community/matches/57081603) |
 | free pmds | 0 | **5** | **totallynotfarmer** | [#1](https://osu.ppy.sh/community/matches/57081975) |
@@ -407,13 +407,13 @@ Thursday, 19 December 2019:
 
 Friday, 20 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Ranked Score** | **5** | 4 | Loved Score | [#1](https://osu.ppy.sh/community/matches/57108760) |
 
 Saturday, 21 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **raining lanjiao** | **0** | -1 | bishan jc | *win by default* |
 | Kokujin | 0 | **5** | **Fijsdejjwsxjfjdd** | [#1](https://osu.ppy.sh/community/matches/57134222) |
@@ -421,7 +421,7 @@ Saturday, 21 December 2019:
 
 Sunday, 22 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Mahathir bin Moh** | **5** | 0 | #sobafanclub | [#1](https://osu.ppy.sh/community/matches/57136981) |
 | **double tap** | **5** | 4 | self ref | [#1](https://osu.ppy.sh/community/matches/57138526) |
@@ -431,7 +431,7 @@ Sunday, 22 December 2019:
 
 Monday, 23 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Section 377A** | **5** | 0 | TheCatFanClub | [#1](https://osu.ppy.sh/community/matches/57166532) |
 | a)ii)no scenario | 2 | **5** | **Tom and Jerry** | [#1](https://osu.ppy.sh/community/matches/57185231) |
@@ -441,13 +441,13 @@ Monday, 23 December 2019:
 
 Friday, 29 November 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | totallynotfarmer | 0 | **4** | **#sobafanclub** | [#1](https://osu.ppy.sh/community/matches/56603514) |
 
 Saturday, 30 November 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **We can't read EZ** | **4** | 0 | Left Palms Down | [#1](https://osu.ppy.sh/community/matches/56630815) |
 | **twitch<!---->.tv/(-->)** | **4** | 0 | Ang Soon Tong | [#1](https://osu.ppy.sh/community/matches/56632438) |
@@ -455,7 +455,7 @@ Saturday, 30 November 2019:
 
 Sunday, 1 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Tom and Jerry** | **4** | 0 | \[ Jg \] | [#1](https://osu.ppy.sh/community/matches/56634095) |
 | **bishan jc** | **4** | 0 | free pmds | [#1](https://osu.ppy.sh/community/matches/56660283) |
@@ -465,7 +465,7 @@ Sunday, 1 December 2019:
 
 Monday, 2 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Abused 24/7** | **4** | 0 | Tom and Jerry | [#1](https://osu.ppy.sh/community/matches/56665979) |
 | Kafuu Chino | -1 | **0** | **Tom and Jerry** | *win by default* |
@@ -473,20 +473,20 @@ Monday, 2 December 2019:
 
 Tuesday, 3 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **JC Big Scam** | **4** | 2 | Mahjulah big gay | [#1](https://osu.ppy.sh/community/matches/56686134) |
 | **twitch<!---->.tv/(-->)** | **4** | 1 | Rainbow Centre | [#1](https://osu.ppy.sh/community/matches/56704179) |
 
 Thursday, 5 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Fijsdejjwsxjfjdd | 3 | **4** | **We can't read EZ** | [#1](https://osu.ppy.sh/community/matches/56744387) |
 
 Friday, 6 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | fulap | 0 | 4 | **Fijsdejjwsxjfjdd** | [#1](https://osu.ppy.sh/community/matches/56767315) |
 | **raining lanjiao** | **4** | 1 | advanced math | [#1](https://osu.ppy.sh/community/matches/56768586) |
@@ -496,7 +496,7 @@ Friday, 6 December 2019:
 
 Saturday, 7 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Fijsdejjwsxjfjdd** | **4** | 0 | Left Palms Down | [#1](https://osu.ppy.sh/community/matches/56770173) |
 | **a)ii)no scenario** | **4** | 0 | FrogChamp | [#1](https://osu.ppy.sh/community/matches/56791531) |
@@ -512,7 +512,7 @@ Saturday, 7 December 2019:
 
 Sunday, 8 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | \[ Jg \] | 2 | **4** | **Kafuu Chino** | [#1](https://osu.ppy.sh/community/matches/56801970) |
 | **salakau** | **4** | 1 | free pmds | [#1](https://osu.ppy.sh/community/matches/56802831) |
@@ -527,28 +527,28 @@ Sunday, 8 December 2019:
 
 Monday, 9 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | \[ Jg \] | 3 | **4** | **Abused 24/7** | [#1](https://osu.ppy.sh/community/matches/56831666) |
 | **PAP** | **4** | 0 | Fortnite? | [#1](https://osu.ppy.sh/community/matches/56833005) |
 
 Tuesday, 10 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Rainbow Centre** | **4** | 0 | Ang Soon Tong | [#1](https://osu.ppy.sh/community/matches/56854376) |
 | **salakau** | **4** | 0 | bishan jc | [#1](https://osu.ppy.sh/community/matches/56872845) |
 
 Friday, 13 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Fortnite? | 1 | **4** | **double tap** | [#1](https://osu.ppy.sh/community/matches/56937409) |
 | Kokujin | 0 | **4** | **double tap** | [#1](https://osu.ppy.sh/community/matches/56938808) |
 
 Saturday, 14 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | TheCatFanClub | 2 | **4** | **50% fARmErS** | [#1](https://osu.ppy.sh/community/matches/56959710) |
 | 50% fARmErS | 1 | **4** | **#sobafanclub** | [#1](https://osu.ppy.sh/community/matches/56961895) |
@@ -560,7 +560,7 @@ Saturday, 14 December 2019:
 
 Sunday, 15 December 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Cute Aim Live!** | **4** | 0 | 50% fARmErS | [#1](https://osu.ppy.sh/community/matches/56992905) |
 | **Section 377A** | **4** | 0 | Kokujin | [#1](https://osu.ppy.sh/community/matches/56997085) |

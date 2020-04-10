@@ -54,7 +54,7 @@ The osu!taiko World Cup 2017 was run by various community members by distributin
 
 ## Participants
 
-| | Country | Members |
+|  | Country | Members |
 | :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[Pollotuc](https://osu.ppy.sh/users/42440)**, [Midnaait](https://osu.ppy.sh/users/1506011), [Arnon](https://osu.ppy.sh/users/5332868), [gaston\_2199](https://osu.ppy.sh/users/5938161), [Laut1G](https://osu.ppy.sh/users/7286821), [Axer](https://osu.ppy.sh/users/7299864) |
 | ![][flag_AU] | **Australia** | **[Jaye](https://osu.ppy.sh/users/4841352)**, [RollingDango](https://osu.ppy.sh/users/7728466), [Ceryuia](https://osu.ppy.sh/users/5253213), [andrew000000](https://osu.ppy.sh/users/122174), [Aloda](https://osu.ppy.sh/users/1190127), [SpiritsUnite](https://osu.ppy.sh/users/1198002) |
@@ -233,33 +233,33 @@ The osu!taiko World Cup 2017 was run by various community members by distributin
 
 ### Grand Finals
 
-| Saturday, 2017-04-15 | | | | |
+| Saturday, 2017-04-15 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Japan** ![][flag_JP] | **7** | 1 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/32485603) |
 
 ### Finals
 
-| Saturday, 2017-04-08 | | | | |
+| Saturday, 2017-04-08 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Hong Kong** ![][flag_HK] | **6** | 0 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/32317619) |
 | Taiwan ![][flag_TW] | 0 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/32319543) |
 | Germany ![][flag_DE] | 0 | **6** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/32334385) |
 
-| Sunday, 2017-04-09 | | | | |
+| Sunday, 2017-04-09 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Hong Kong** ![][flag_HK] | **6** | 4 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/32346874) |
 | **Taiwan** ![][flag_TW] | **6** | 0 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/32355825) |
 
 ### Semifinals
 
-| Saturday, 2017-04-01 | | | | |
+| Saturday, 2017-04-01 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | France ![][flag_FR] | 3 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/32166125) |
 | Poland ![][flag_PL] | 0 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/32168039) |
 | **Chile** ![][flag_CL] | **6** | 3 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/32169879) |
 | Spain ![][flag_ES] | 0 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/32172525) |
 
-| Sunday, 2017-04-02 | | | | |
+| Sunday, 2017-04-02 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Canada ![][flag_CA] | 0 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/32189359) |
 | **Taiwan** ![][flag_TW] | **6** | 2 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/32190652) |
@@ -268,12 +268,12 @@ The osu!taiko World Cup 2017 was run by various community members by distributin
 
 ### Quarterfinals
 
-| Saturday, 2017-03-25 | | | | |
+| Saturday, 2017-03-25 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Spain** ![][flag_ES] | **5** | 2 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/32018493) |
 | **Chile** ![][flag_CL] | **5** | 2 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/32021588) |
 
-| Sunday, 2017-03-26 | | | | |
+| Sunday, 2017-03-26 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **United States** ![][flag_US] | **5** | 1 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/32028776) |
 | **Canada** ![][flag_CA] | **5** | 1 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/32030302) |
@@ -284,7 +284,7 @@ The osu!taiko World Cup 2017 was run by various community members by distributin
 
 ### Round of 16
 
-| Sunday, 2017-03-19 | | | | |
+| Sunday, 2017-03-19 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Taiwan** ![][flag_TW] | **5** | 0 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/31875417) |
 | **Germany** ![][flag_DE] | **5** | 2 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/31876394) |
@@ -297,7 +297,7 @@ The osu!taiko World Cup 2017 was run by various community members by distributin
 
 ### Group Stage
 
-| Saturday, 2017-03-11 | | | | |
+| Saturday, 2017-03-11 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Poland** ![][flag_PL] | **4** | 0 | ![][flag_CN] China | -win by default- |
 | **Hong Kong** ![][flag_HK] | **4** | 0 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/31674432) |
@@ -314,7 +314,7 @@ The osu!taiko World Cup 2017 was run by various community members by distributin
 | **Australia** ![][flag_AU] | **4** | 0 | ![][flag_VE] Venezuela | [#1](https://osu.ppy.sh/community/matches/31696708) |
 | **United States** ![][flag_US] | **4** | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/31696713) |
 
-| Sunday, 2017-03-12 | | | | |
+| Sunday, 2017-03-12 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Canada** ![][flag_CA] | **4** | 0 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/31698275) |
 | **South Korea** ![][flag_KR] | **4** | 3 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/31710151) |

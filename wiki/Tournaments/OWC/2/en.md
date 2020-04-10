@@ -41,7 +41,7 @@ The osu! World Cup #2 was run by various community members by distributing the m
 
 ## Participants
 
-| | Country | Members |
+|  | Country | Members |
 | :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **Wishy22**, [Metro](https://osu.ppy.sh/users/306737), Ever17, [Darksonic](https://osu.ppy.sh/users/570042), [Salvage](https://osu.ppy.sh/users/242119), [Glazbom](https://osu.ppy.sh/users/608277) |
 | ![][flag_AU] | **Australia** | **Mizorex**, damiaanzx, [Hark](https://osu.ppy.sh/users/43265), [Frankcons](https://osu.ppy.sh/users/594006), [Mikey](https://osu.ppy.sh/users/979780), [Neko_Lover](https://osu.ppy.sh/users/596535) |

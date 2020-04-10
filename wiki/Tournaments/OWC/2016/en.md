@@ -55,7 +55,7 @@ The osu! World Cup 2016 was run by various community members by distributing the
 
 ## Participants
 
-| | Country | Members |
+|  | Country | Members |
 | :-: | :-: | :-- |
 | ![][flag_AR] | Argentina | **[Glazbom](https://osu.ppy.sh/users/608277 "Glazbom")**, [GaTu](https://osu.ppy.sh/users/3583351 "GaTu"), [Pein](https://osu.ppy.sh/users/2212941 "Pein"), [benjacala](https://osu.ppy.sh/users/1625740 "benjacala"), [Enhu](https://osu.ppy.sh/users/2840499 "Enhu"), [nicogame14](https://osu.ppy.sh/users/3812213 "nicogame14"), [Catalysis](https://osu.ppy.sh/users/5958063 "Catalysis"), [Toushi](https://osu.ppy.sh/users/2367825 "Toushi") |
 | ![][flag_AU] | Australia | **[Bauxe](https://osu.ppy.sh/users/1881685 "Bauxe")**, [uyghti](https://osu.ppy.sh/users/3641404 "uyghti"), [ithgyu](https://osu.ppy.sh/users/5113781 "ithgyu"), [Dumii](https://osu.ppy.sh/users/3068044 "Dumii"), [Korilak](https://osu.ppy.sh/users/7260014 "Korilak"), [Weber](https://osu.ppy.sh/users/6410432 "Weber"), [Lunirs](https://osu.ppy.sh/users/2118945 "Lunirs"), [Peekamoo](https://osu.ppy.sh/users/2337263 "Peekamoo") |
@@ -259,27 +259,27 @@ The osu! World Cup 2016 was run by various community members by distributing the
 
 ### Grand Finals
 
-| Sunday, 2016-12-18 | | | | |
+| Sunday, 2016-12-18 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | United States ![][flag_US]| 2 | **7** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/29702438) |
 | China ![][flag_CN] | 4 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/29704086) |
 
 ### Finals
 
-| Saturday, 2016-12-10 | | | | |
+| Saturday, 2016-12-10 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **United States** ![][flag_US] | **6** | 4 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/29524076) |
 | **United Kingdom** ![][flag_GB] | **6** | 4 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/29530355) |
 | Germany ![][flag_DE] | 2 | **6** | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/29531576) |
 | **China** ![][flag_CN] | **4** | 2 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/29533696) |
 
-| Sunday, 2016-12-11 | | | | |
+| Sunday, 2016-12-11 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **China** ![][flag_CN]| **6** | 2 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/29560336) |
 
 ### Semifinals
 
-| Saturday, 2016-12-03 | | | | |
+| Saturday, 2016-12-03 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **South Korea** ![][flag_KR] | **6** | 2 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/29379804) |
 | Russian Federation ![][flag_RU]| 5 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/29381511) |
@@ -288,14 +288,14 @@ The osu! World Cup 2016 was run by various community members by distributing the
 | **United Kingdom** ![][flag_GB] | **6** | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/29388879) |
 | Canada ![][flag_CA] | 0 | **6** | ![][flag_BR] **Poland** | [#1](https://osu.ppy.sh/community/matches/29391121) |
 
-| Sunday, 2016-12-04 | | | | |
+| Sunday, 2016-12-04 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | France ![][flag_FR]| 2 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/29413616) |
 | Poland ![][flag_PL]| 4 | **6** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/29415472) |
 
 ### Quarterfinals
 
-| Saturday, 2016-11-26 | | | | |
+| Saturday, 2016-11-26 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Australia ![][flag_AU] | 1 | **5** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/29236130) |
 | **South Korea** ![][flag_KR] | **5** | 2 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/29237189) |
@@ -308,7 +308,7 @@ The osu! World Cup 2016 was run by various community members by distributing the
 
 ### Round of 16
 
-| Saturday, 2016-11-19 | | | | |
+| Saturday, 2016-11-19 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **China** ![][flag_CN] | **5** | 2 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/29093549) |
 | Italy ![][flag_IT] | 1 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/29094300) |
@@ -321,7 +321,7 @@ The osu! World Cup 2016 was run by various community members by distributing the
 
 ### Group Stage
 
-| Saturday, 2016-11-12 | | | | |
+| Saturday, 2016-11-12 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **New Zealand** ![][flag_NZ] | **4** | 1 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/28949962) |
 | **South Korea** ![][flag_KR] | **4** | 0 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/28949969) |
@@ -349,7 +349,7 @@ The osu! World Cup 2016 was run by various community members by distributing the
 | Mexico ![][flag_MX] | 2 | **4** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/28964826) |
 | **United Kingdom** ![][flag_GB] | **4** | 1 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/28964827) |
 
-| Sunday, 2016-11-13 | | | | |
+| Sunday, 2016-11-13 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Taiwan** ![][flag_TW] | **4** | 3 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/28973717) |
 | **China** ![][flag_CN] | **4** | 3 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/28973718) |

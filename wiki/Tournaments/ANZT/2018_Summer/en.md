@@ -263,27 +263,27 @@ Results of the main bracket can be found on the Challonge page linked above.
 
 ### Qualifiers
 
-| Player | Total | | Player | Total | | Player | Total |
+| Player | Total |  | Player | Total |  | Player | Total |
 | :-- | :-: | :-- | :-- | :-: | :-- | :-- | :-: |
-| ![][flag_AU] Noobsicle | 3,739,471 | | ![][flag_AU] Kooleyy | 2,594,783 | | ![][flag_AU] hieepN | 1,968,412 |
-| ![][flag_AU] Lunirs | 3,457,504 | | ![][flag_AU] Ezipie | 2,560,847 | | ![][flag_AU] FknRhythmGames | 1,931,796 |
-| ![][flag_AU] Blobby3000 | 3,401,484 | | ![][flag_NZ] smead | 2,503,472 | | ![][flag_AU] kobeblue | 1,898,007 |
-| ![][flag_NZ] Mousiini | 3,307,314 | | ![][flag_AU] Kano | 2,471,276 | | ![][flag_AU] Prosal | 1,822,210 |
-| ![][flag_AU] Doginator | 3,268,215 | | ![][flag_AU] Athrun | 2,405,741 | | ![][flag_AU] Panzer911 | 1,742,809 |
-| ![][flag_AU] GranDSenpai | 3,234,433 | | ![][flag_AU] Dumi | 2,387,565 | | ![][flag_NZ] Feyyy | 1,716,655 |
-| ![][flag_AU] Ampharos | 3,232,387 | | ![][flag_AU] robo50211 | 2,373,184 | | ![][flag_AU] HolyJesus | 1,698,760 |
-| ![][flag_AU] overcomplexifii | 3,115,706 | | ![][flag_NZ] Kurume | 2,345,589 | | ![][flag_AU] PHzN | 1,680,255 |
-| ![][flag_AU] TheOmyNomy | 3,095,541 | | ![][flag_AU] ibrocky | 2,313,679 | | ![][flag_AU] owo 6821 | 1,675,811 |
-| ![][flag_AU] Rivastyx | 3,048,637 | | ![][flag_AU] Elusive | 2,291,940 | | ![][flag_NZ] Ayachi Meme | 1,666,351 |
-| ![][flag_AU] suffix wizard | 2,998,500 | | ![][flag_AU] Rik0 | 2,289,206 | | ![][flag_AU] pewdekz | 1,554,213 |
-| ![][flag_AU] Jordan The Bear | 2,919,404 | | ![][flag_AU] killerfox123 | 2,267,533 | | ![][flag_NZ] proftroutington | 1,523,916 |
-| ![][flag_AU] aska | 2,878,480 | | ![][flag_AU] Illkryn | 2,258,987 | | ![][flag_AU] Kor3ry3-Kun | 1,512,161 |
-| ![][flag_AU] Drox- | 2,783,913 | | ![][flag_AU] Monk Gyatso | 2,231,082 | | ![][flag_AU] yay | 1,220,883 |
-| ![][flag_AU] TTG | 2,723,686 | | ![][flag_AU] Barhunga | 2,184,927 | | ![][flag_AU] PudIsTrash | 720,513 |
-| ![][flag_AU] Onyaga | 2,716,867 | | ![][flag_AU] Levidia | 2,148,252 | | ![][flag_AU] Xinks | 708,732 |
-| ![][flag_NZ] Kukukoke | 2,711,872 | | ![][flag_NZ] TCN | 2,129,781 | | ![][flag_AU] BranOtaku | 583,931 |
-| ![][flag_AU] Peekamoo | 2,621,808 | | ![][flag_AU] turretxbuddy | 2,038,525 | | ![][flag_AU] Beat43210 | 237,618 |
-| ![][flag_NZ] Morrowind | 2,616,206 | | ![][flag_AU] kuur0 | 2,010,812 | | ![][flag_NZ] Particlex | 0 |
+| ![][flag_AU] Noobsicle | 3,739,471 |  | ![][flag_AU] Kooleyy | 2,594,783 |  | ![][flag_AU] hieepN | 1,968,412 |
+| ![][flag_AU] Lunirs | 3,457,504 |  | ![][flag_AU] Ezipie | 2,560,847 |  | ![][flag_AU] FknRhythmGames | 1,931,796 |
+| ![][flag_AU] Blobby3000 | 3,401,484 |  | ![][flag_NZ] smead | 2,503,472 |  | ![][flag_AU] kobeblue | 1,898,007 |
+| ![][flag_NZ] Mousiini | 3,307,314 |  | ![][flag_AU] Kano | 2,471,276 |  | ![][flag_AU] Prosal | 1,822,210 |
+| ![][flag_AU] Doginator | 3,268,215 |  | ![][flag_AU] Athrun | 2,405,741 |  | ![][flag_AU] Panzer911 | 1,742,809 |
+| ![][flag_AU] GranDSenpai | 3,234,433 |  | ![][flag_AU] Dumi | 2,387,565 |  | ![][flag_NZ] Feyyy | 1,716,655 |
+| ![][flag_AU] Ampharos | 3,232,387 |  | ![][flag_AU] robo50211 | 2,373,184 |  | ![][flag_AU] HolyJesus | 1,698,760 |
+| ![][flag_AU] overcomplexifii | 3,115,706 |  | ![][flag_NZ] Kurume | 2,345,589 |  | ![][flag_AU] PHzN | 1,680,255 |
+| ![][flag_AU] TheOmyNomy | 3,095,541 |  | ![][flag_AU] ibrocky | 2,313,679 |  | ![][flag_AU] owo 6821 | 1,675,811 |
+| ![][flag_AU] Rivastyx | 3,048,637 |  | ![][flag_AU] Elusive | 2,291,940 |  | ![][flag_NZ] Ayachi Meme | 1,666,351 |
+| ![][flag_AU] suffix wizard | 2,998,500 |  | ![][flag_AU] Rik0 | 2,289,206 |  | ![][flag_AU] pewdekz | 1,554,213 |
+| ![][flag_AU] Jordan The Bear | 2,919,404 |  | ![][flag_AU] killerfox123 | 2,267,533 |  | ![][flag_NZ] proftroutington | 1,523,916 |
+| ![][flag_AU] aska | 2,878,480 |  | ![][flag_AU] Illkryn | 2,258,987 |  | ![][flag_AU] Kor3ry3-Kun | 1,512,161 |
+| ![][flag_AU] Drox- | 2,783,913 |  | ![][flag_AU] Monk Gyatso | 2,231,082 |  | ![][flag_AU] yay | 1,220,883 |
+| ![][flag_AU] TTG | 2,723,686 |  | ![][flag_AU] Barhunga | 2,184,927 |  | ![][flag_AU] PudIsTrash | 720,513 |
+| ![][flag_AU] Onyaga | 2,716,867 |  | ![][flag_AU] Levidia | 2,148,252 |  | ![][flag_AU] Xinks | 708,732 |
+| ![][flag_NZ] Kukukoke | 2,711,872 |  | ![][flag_NZ] TCN | 2,129,781 |  | ![][flag_AU] BranOtaku | 583,931 |
+| ![][flag_AU] Peekamoo | 2,621,808 |  | ![][flag_AU] turretxbuddy | 2,038,525 |  | ![][flag_AU] Beat43210 | 237,618 |
+| ![][flag_NZ] Morrowind | 2,616,206 |  | ![][flag_AU] kuur0 | 2,010,812 |  | ![][flag_NZ] Particlex | 0 |
 
 ---
 

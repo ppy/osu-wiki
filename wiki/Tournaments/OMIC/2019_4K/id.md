@@ -199,49 +199,49 @@ tags:
 
 ### Grand Final
 
-| Minggu, 25 Agustus 2019 | | | | |
+| Minggu, 25 Agustus 2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 **[-\[ChoKy\]-](https://osu.ppy.sh/users/4691146)** ![][flag_ID] | **7** | 1 | ![][flag_ID] [ChocoCoki-](https://osu.ppy.sh/users/3565870) | [#1](https://osu.ppy.sh/community/matches/54171320) |
 **[Kevin-sama](https://osu.ppy.sh/users/6991664)** ![][flag_ID] | **7** | 1 | ![][flag_ID] [-\[ChoKy\]-](https://osu.ppy.sh/users/4691146) | [#1](https://osu.ppy.sh/community/matches/54345380) |
 
 ### Final
 
-| Minggu, 18 Agustus 2019 | | | | |
+| Minggu, 18 Agustus 2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 **[Kevin-sama](https://osu.ppy.sh/users/6991664)** ![][flag_ID] | **7** | 2 | ![][flag_ID] [-\[ChoKy\]-](https://osu.ppy.sh/users/4691146) | [#1](https://osu.ppy.sh/community/matches/54166162) |
 [\_claidheamh](https://osu.ppy.sh/users/4686520) ![][flag_ID] | 5 | **7** | ![][flag_ID] **[ChocoCoki-](https://osu.ppy.sh/users/3565870)** | [#1](https://osu.ppy.sh/community/matches/54171320) |
 
 ### Semi Final
 
-| Sabtu, 3 Agustus 2019 | | | | |
+| Sabtu, 3 Agustus 2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 **[\_claidheamh](https://osu.ppy.sh/users/4686520)** ![][flag_ID] | **6** | 5 | ![][flag_ID] [Yangga](https://osu.ppy.sh/users/12143152) | [#1](https://osu.ppy.sh/community/matches/53799475) |
 [\[KonG-69\]](https://osu.ppy.sh/users/8847412) ![][flag_ID] | 3 | **6** | ![][flag_ID] **[Proxae](https://osu.ppy.sh/users/8410575)** | [#1](https://osu.ppy.sh/community/matches/53802393) |
 **[ChocoCoki-](https://osu.ppy.sh/users/3565870)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [Slowless](https://osu.ppy.sh/users/10053987) | [#1](https://osu.ppy.sh/community/matches/53805517) |
 
-| Minggu, 4 Agustus 2019 | | | | |
+| Minggu, 4 Agustus 2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 [Heriza-](https://osu.ppy.sh/users/8911771) ![][flag_ID] | 0 | **6** | ![][flag_ID] **[Kevin-sama](https://osu.ppy.sh/users/6991664)** | -win by default- |
 
-| Sabtu, 10 Agustus 2019 | | | | |
+| Sabtu, 10 Agustus 2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 [Yamada Kitaro](https://osu.ppy.sh/users/7670805) ![][flag_ID] | 5 | **6** | ![][flag_ID] **[Fyl](https://osu.ppy.sh/users/10069307)** | [#1](https://osu.ppy.sh/community/matches/53967434) |
 **[-\[ChoKy\]-](https://osu.ppy.sh/users/4691146)** ![][flag_ID] | **6** | 1 | ![][flag_ID] [reyss](https://osu.ppy.sh/users/4557440) | [#1](https://osu.ppy.sh/community/matches/53968412) |
 **[ChocoCoki-](https://osu.ppy.sh/users/3565870)** ![][flag_ID] | **6** | 2 | ![][flag_ID] [Proxae](https://osu.ppy.sh/users/8410575) | [#1](https://osu.ppy.sh/community/matches/53971409) |
 
-| Minggu, 11 Agustus 2019 | | | | |
+| Minggu, 11 Agustus 2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 **[\_claidheamh](https://osu.ppy.sh/users/4686520)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) | -win by default- |
 
 ### Perempat Final
 
-| Sabtu, 27 Juli 2019 | | | | |
+| Sabtu, 27 Juli 2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 [\[KonG-69\]](https://osu.ppy.sh/users/8847412) ![][flag_ID] | 1 | **5** | ![][flag_ID] **[Heriza-](https://osu.ppy.sh/users/8911771)** | [#1](https://osu.ppy.sh/community/matches/53632020) |
 **[Kevin-sama](https://osu.ppy.sh/users/6991664)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [ChocoCoki-](https://osu.ppy.sh/users/3565870) | [#1](https://osu.ppy.sh/community/matches/53633296) |
 **[reyss](https://osu.ppy.sh/users/4557440)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [\_claidheamh](https://osu.ppy.sh/users/4686520) | [#1](https://osu.ppy.sh/community/matches/53636930) |
 
-| Minggu, 28 Juli 2019 | | | | |
+| Minggu, 28 Juli 2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 [alvinrainbow](https://osu.ppy.sh/users/4783042) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[Yangga](https://osu.ppy.sh/users/12143152)** | [#1](https://osu.ppy.sh/community/matches/53655829) |
 **[Proxae](https://osu.ppy.sh/users/8410575)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Merlinch](https://osu.ppy.sh/users/4901971) | -win by default- |
@@ -251,13 +251,13 @@ tags:
 
 ### Babak 16 Besar
 
-| Sabtu, 20 Juli 2019 | | | | |
+| Sabtu, 20 Juli 2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 **[Kevin-sama](https://osu.ppy.sh/users/6991664)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) | [#1](https://osu.ppy.sh/community/matches/53470726) |
 **[Heriza-](https://osu.ppy.sh/users/8911771)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [Yangga](https://osu.ppy.sh/users/12143152) | [#1](https://osu.ppy.sh/community/matches/53474229) |
 **[ChocoCoki-](https://osu.ppy.sh/users/3565870)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [2ndlegend](https://osu.ppy.sh/users/7621604) | [#1](https://osu.ppy.sh/community/matches/53475726) |
 
-| Minggu, 21 Juli 2019 | | | | |
+| Minggu, 21 Juli 2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 [Merlinch](https://osu.ppy.sh/users/4901971) ![][flag_ID] | 1 | **5** | ![][flag_ID] **[\_claidheamh](https://osu.ppy.sh/users/4686520)** | [#1](https://osu.ppy.sh/community/matches/53491947) |
 **[\[KonG-69\]](https://osu.ppy.sh/users/8847412)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [alvinrainbow](https://osu.ppy.sh/users/4783042) | [#1](https://osu.ppy.sh/community/matches/53493068) |
@@ -267,7 +267,7 @@ tags:
 
 ### Penyisihan Grup
 
-| Sabtu, 6 Juli 2019 | | | | |
+| Sabtu, 6 Juli 2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 [Artem1s](https://osu.ppy.sh/users/12561379) ![][flag_ID] | 0 | **4** | ![][flag_ID] **[alvinrainbow](https://osu.ppy.sh/users/4783042)** | -win by default- |
 **[\[KonG-69\]](https://osu.ppy.sh/users/8847412)** ![][flag_ID] | **4** | 0 | ![][flag_ID] [\[ID\]Catalyst-](https://osu.ppy.sh/users/8810018) | -win by default- |
@@ -281,7 +281,7 @@ tags:
 [Its A Name](https://osu.ppy.sh/users/8724363) ![][flag_ID] | 0 | **4** | ![][flag_ID] **[\[-TiaZark-\]](https://osu.ppy.sh/users/14294140)** | [#1](https://osu.ppy.sh/community/matches/53148808) |
 [Onii\_ue](https://osu.ppy.sh/users/12471868) ![][flag_ID] | 0 | **4** | ![][flag_ID] **[Fyl](https://osu.ppy.sh/users/10069307)** | [#1](https://osu.ppy.sh/community/matches/53143001) |
 
-| Minggu, 7 Juli 2019 | | | | |
+| Minggu, 7 Juli 2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 **[reyss](https://osu.ppy.sh/users/4557440)** ![][flag_ID] | **4** | 0 | ![][flag_ID] [FelixSpade](https://osu.ppy.sh/users/2651304) | [#1](https://osu.ppy.sh/community/matches/53164790) |
 **[alvinrainbow](https://osu.ppy.sh/users/4783042)** ![][flag_ID] | **4** | 0 | ![][flag_ID] [Zero\[13\]](https://osu.ppy.sh/users/13942350) | -win by default- |
@@ -296,7 +296,7 @@ tags:
 [2ndlegend](https://osu.ppy.sh/users/7621604) ![][flag_ID] | 1 | **4** | ![][flag_ID] **[\_claidheamh](https://osu.ppy.sh/users/4686520)** | [#1](https://osu.ppy.sh/community/matches/53172560) |
 [Noch Einen](https://osu.ppy.sh/users/12668735) ![][flag_ID] | 3 | **4** | ![][flag_ID] **[Proxae](https://osu.ppy.sh/users/8410575)** | [#1](https://osu.ppy.sh/community/matches/53172596) |
 
-| Sabtu, 13 Juli 2019 | | | | |
+| Sabtu, 13 Juli 2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 [Fyl](https://osu.ppy.sh/users/10069307) ![][flag_ID] | 0 | **4** | ![][flag_ID] **[reyss](https://osu.ppy.sh/users/4557440)** | [#1](https://osu.ppy.sh/community/matches/53303113) |
 **[\_claidheamh](https://osu.ppy.sh/users/4686520)** ![][flag_ID] | **4** | 0 | ![][flag_ID] [kebannedanjg](https://osu.ppy.sh/users/12971540) | [#1](https://osu.ppy.sh/community/matches/53302756) |
@@ -314,7 +314,7 @@ tags:
 [Neptunia-chan](https://osu.ppy.sh/users/11608122) ![][flag_ID] | 0 | **4** | ![][flag_ID] **[ChocoCoki-](https://osu.ppy.sh/users/3565870)** | -win by default- |
 **[\_claidheamh](https://osu.ppy.sh/users/4686520)** ![][flag_ID] | **4** | 0 | ![][flag_ID] [StyxFearNite](https://osu.ppy.sh/users/8390933) | -win by default- |
 
-| Minggu, 14 Juli 2019 | | | | |
+| Minggu, 14 Juli 2019 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 [Sadatsuka-Chan](https://osu.ppy.sh/users/9670957) ![][flag_ID] | 0 | **4** | ![][flag_ID] **[alvinrainbow](https://osu.ppy.sh/users/4783042)** | -win by default- |
 [Sadatsuka-Chan](https://osu.ppy.sh/users/9670957) ![][flag_ID] | 0 | **4** | ![][flag_ID] **[Artem1s](https://osu.ppy.sh/users/12561379)** | -win by default- |
@@ -329,14 +329,14 @@ tags:
 
 ### Babak 56 Besar
 
-| Sabtu, 29 Juni 2019 | | |
+| Sabtu, 29 Juni 2019 |  |  |
 | :-: | :-- | :-: |
 | **Grup A** | ![][flag_ID] [2ndlegend](https://osu.ppy.sh/users/7621604) (14 Poin), ![][flag_ID] [Onii\_ue](https://osu.ppy.sh/users/12471868) (13 Poin), ![][flag_ID] [World_Disaster](https://osu.ppy.sh/users/10666064) (5 Poin), ![][flag_ID] [XnoxID](https://osu.ppy.sh/users/13605876) (4 Poin), ![][flag_ID] [CrashOOF](https://osu.ppy.sh/users/13788391) (0 Poin) | [#1](https://osu.ppy.sh/community/matches/52988947) |
 | **Grup B** | ![][flag_ID] [Zero\[13\]](https://osu.ppy.sh/users/13942350) (14 Poin), ![][flag_ID] [FelixSpade](https://osu.ppy.sh/users/2651304) (7 Poin, Memenangkan Tiebreaker), ![][flag_ID] [Fazurey](https://osu.ppy.sh/users/6548973) (7 Poin), ![][flag_ID] [JintanSama](https://osu.ppy.sh/users/12652371) (4 Poin), ![][flag_ID] [BIMZ](https://osu.ppy.sh/users/9037581) (4 Poin) | [#1](https://osu.ppy.sh/community/matches/53011613) |
 | **Grup C** | ![][flag_ID] [\[KonG-69\]](https://osu.ppy.sh/users/8847412) (14 Poin), ![][flag_ID] [rizki20](https://osu.ppy.sh/users/6523286) (12 Poin), ![][flag_ID] [-MyLoveIka-](https://osu.ppy.sh/users/12039798) (6 Poin), ![][flag_ID] [Vels](https://osu.ppy.sh/users/5319494) (3 Poin), ![][flag_ID] [ElinLYPK](https://osu.ppy.sh/users/5198950) (1 Poin) | [#1](https://osu.ppy.sh/community/matches/52985075) |
 | **Grup D** | ![][flag_ID] [StyxFearNite](https://osu.ppy.sh/users/8390933) (15 Poin), ![][flag_ID] [budiex112](https://osu.ppy.sh/users/8867693) (14 Poin), ![][flag_ID] [agung0210](https://osu.ppy.sh/users/4663559) (7 Poin), ![][flag_ID] [Kawaisou-](https://osu.ppy.sh/users/11248741) (0 Poin), ![][flag_ID] [Ihram-San](https://osu.ppy.sh/users/9908055) (0 Poin) | [#1](https://osu.ppy.sh/community/matches/52987435) |
 
-| Minggu, 30 Juni 2019 | | |
+| Minggu, 30 Juni 2019 |  |  |
 | :-: | :-- | :-: |
 | **Grup E** | ![][flag_ID] [MATEH ON](https://osu.ppy.sh/users/8136810) (13 Poin), ![][flag_ID] [Noch Einen](https://osu.ppy.sh/users/12668735) (13 Poin), ![][flag_ID] [Yuusha006](https://osu.ppy.sh/users/11214161) (10 Poin), ![][flag_ID] [THEmpire](https://osu.ppy.sh/users/12142847) (0 Poin), ![][flag_ID] [PetrikPintar](https://osu.ppy.sh/users/13489565) (0 Poin) | [#1](https://osu.ppy.sh/community/matches/53010360) |
 | **Grup F** | ![][flag_ID] [Merlinch](https://osu.ppy.sh/users/4901971) (13 Poin), ![][flag_ID] [Its A Name](https://osu.ppy.sh/users/8724363) (11 Poin), ![][flag_ID] [Kurami](https://osu.ppy.sh/users/10184990) (10 Poin), ![][flag_ID] [Felter](https://osu.ppy.sh/users/5865319) (2 Poin), ![][flag_ID] [Fathan2Gaming](https://osu.ppy.sh/users/11982790) (0 Poin) | [#1](https://osu.ppy.sh/community/matches/53006427) |

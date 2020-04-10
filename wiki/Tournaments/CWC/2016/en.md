@@ -54,7 +54,7 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 
 ## Participants
 
-| | Country | Members |
+|  | Country | Members |
 | --: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[\[Force\]](https://osu.ppy.sh/users/1617217)**, [VelperK](https://osu.ppy.sh/users/348467), [Retz](https://osu.ppy.sh/users/5095790), [koliron](https://osu.ppy.sh/users/4632730), [Danti](https://osu.ppy.sh/users/4785841), [Tadashi](https://osu.ppy.sh/users/4027910) |
 | ![][flag_AU] | **Australia** | **[Zeverage](https://osu.ppy.sh/users/237550)**, [chickennando](https://osu.ppy.sh/users/5818665), [Seiga](https://osu.ppy.sh/users/4403718), [Janga](https://osu.ppy.sh/users/3917884), [EL-S](https://osu.ppy.sh/users/5385123), [tachima](https://osu.ppy.sh/users/3420156) |
@@ -261,27 +261,27 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 
 ### Grand Finals
 
-| Sunday, 2016-06-26 | | | | |
+| Sunday, 2016-06-26 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Indonesia ![][flag_ID] | 1 | **7** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/25901098) |
 | **China** ![][flag_CN] | **7** | 3 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/25902982) |
 
 ### Finals
 
-| Saturday, 2016-06-18 | | | | |
+| Saturday, 2016-06-18 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Germany ![][flag_DE] | 3 | **6** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/25701298) |
 | **South Korea** ![][flag_KR] | **6** | 1 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/25703145) |
 | **China** ![][flag_CN] | **6** | 1 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/25705167) |
 
-| Sunday, 2016-06-19 | | | | |
+| Sunday, 2016-06-19 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | South Korea ![][flag_KR] | 2 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/25729938) |
 | **China** ![][flag_CN] | **6** | 4 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/25731784) |
 
 ### Semifinals
 
-| Saturday, 2016-06-11 | | | | |
+| Saturday, 2016-06-11 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **South Korea** ![][flag_KR] | **6** | 1 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/25527622) |
 | **Singapore** ![][flag_SG] | **6** | 1 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/25528861) |
@@ -290,14 +290,14 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 | Argentina ![][flag_AR] | 5 | **6** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/25534617) |
 | **Germany** ![][flag_DE] | **6** | 4 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/25537230) |
 
-| Sunday, 2016-06-12 | | | | |
+| Sunday, 2016-06-12 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **South Korea** ![][flag_KR] | **6** | 1 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/25559066) |
 | France ![][flag_FR] | 1 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/25560625) |
 
 ### Quarterfinals
 
-| Saturday, 2016-06-05 | | | | |
+| Saturday, 2016-06-05 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Singapore** ![][flag_SG] | **5** | 0 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/25351351) |
 | Mexico ![][flag_MX] | 2 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/25352347) |
@@ -310,7 +310,7 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 
 ### Round of 16
 
-| Saturday, 2016-05-28 | | | | |
+| Saturday, 2016-05-28 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | South Korea ![][flag_KR] | 4 | **5** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/25185568) |
 | Singapore ![][flag_SG] | 2 | **5** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/25186841) |
@@ -323,7 +323,7 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 
 ### Group Stage
 
-| Saturday, 2016-05-21 | | | | |
+| Saturday, 2016-05-21 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | New Zealand ![][flag_NZ] | 0 | **4** | ![][flag_DE] **Germany** | - win by default -|
 | United Kingdom ![][flag_GB] | 0 | **4** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/25018104) |
@@ -347,7 +347,7 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 | Mexico ![][flag_MX] | 3 | **4** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/25031395) |
 | Hungary ![][flag_HU] | 2 | **4** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/25031396) |
 
-| Sunday, 2016-05-22 | | | | |
+| Sunday, 2016-05-22 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Canada ![][flag_CA] | 0 | **4** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/25039064) |
 | **Japan** ![][flag_JP] | **4** | 3 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/25039065) |

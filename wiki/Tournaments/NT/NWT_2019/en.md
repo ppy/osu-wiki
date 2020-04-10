@@ -224,42 +224,42 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-| Saturday, 2019-03-02 | | | | |
+| Saturday, 2019-03-02 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Fish-** ![][flag_US] | **7** | 0 | ![][flag_DE] \[Lucky\] | [#1](https://osu.ppy.sh/community/matches/49975374) |
 
-| Sunday, 2019-03-03 | | | | |
+| Sunday, 2019-03-03 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **loveleft** ![][flag_AU] | **7** | 3 | ![][flag_RU] Liswiera | [#1](https://osu.ppy.sh/community/matches/49993367) |
 
-| Saturday, 2019-03-09 | | | | |
+| Saturday, 2019-03-09 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | \[Lucky\] ![][flag_DE] | 1 | **7** | ![][flag_AU] **loveleft** | [#1](https://osu.ppy.sh/community/matches/50138167) |
 
-| Sunday, 2019-03-10 | | | | |
+| Sunday, 2019-03-10 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Fish-** ![][flag_US] | **7** | 3 | ![][flag_AU] loveleft | [#1](https://osu.ppy.sh/community/matches/50184333) |
 
 ### Semifinals
 
-| Saturday, 2019-02-23 | | | | |
+| Saturday, 2019-02-23 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **\[Lucky\]** ![][flag_DE] | **6** | 0 | ![][flag_AU] loveleft | -win by default- |
 | **\_kyuu** ![][flag_TW] | **6** | 2 | ![][flag_PL] lokser | [#1](https://osu.ppy.sh/community/matches/49798965) |
 | **Fish-** ![][flag_US] | **6** | 4 | ![][flag_RU] Liswiera | [#1](https://osu.ppy.sh/community/matches/49802732) |
 | **YoshiLover456** ![][flag_US] | **6** | 2 | ![][flag_PL] bart6003 | [#1](https://osu.ppy.sh/community/matches/49806211) |
 
-| Sunday, 2019-02-24 | | | | |
+| Sunday, 2019-02-24 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **loveleft** ![][flag_AU] | **6** | 5 | ![][flag_TW] \_kyuu | [#1](https://osu.ppy.sh/community/matches/49823110) |
 
-| Saturday, 2019-03-02 | | | | |
+| Saturday, 2019-03-02 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Liswiera** ![][flag_RU] | **6** | 4 | ![][flag_US] YoshiLover456 | [#1](https://osu.ppy.sh/community/matches/49939657) |
 
 ### Quarterfinals
 
-| Saturday, 2019-02-16 | | | | |
+| Saturday, 2019-02-16 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Tuco ![][flag_US] | 2 | **5** | ![][flag_DE] **Menty** | [#1](https://osu.ppy.sh/community/matches/49605900) |
 | **Fish-** ![][flag_US] | **5** | 1 | ![][flag_TW] \_kyuu | [#1](https://osu.ppy.sh/community/matches/49622148) |
@@ -270,7 +270,7 @@ This competition has come to an end and resulted in the following podium:
 | lahwraN ![][flag_US] | 4 | **5** | ![][flag_US] **Raoul** | [#1](https://osu.ppy.sh/community/matches/49639492) |
 | **loveleft** ![][flag_AU] | **5** | 1 | ![][flag_PL] bart6003 | [#1](https://osu.ppy.sh/community/matches/49644911) |
 
-| Sunday, 2019-02-17 | | | | |
+| Sunday, 2019-02-17 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **\_kyuu** ![][flag_TW] | **5** | 2 | ![][flag_DE] Menty | [#1](https://osu.ppy.sh/community/matches/49663701) |
 | San Diego ![][flag_US] | 1 | **5** | ![][flag_PL] **lokser** | [#1](https://osu.ppy.sh/community/matches/49665235) |
@@ -279,11 +279,11 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-| Monday, 2019-01-29 | | | | |
+| Monday, 2019-01-29 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Fish-** ![][flag_US] | **4** | 0 | ![][flag_US] Raoul | -win by default- |
 
-| Saturday, 2019-02-02 | | | | |
+| Saturday, 2019-02-02 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Tuco** ![][flag_US] | **5** | 1 | ![][flag_CA] Xeli | [#1](https://osu.ppy.sh/community/matches/49295482) |
 | **YoshiLover456** ![][flag_US] | **5** | 4 | ![][flag_US] themaster156 | [#1](https://osu.ppy.sh/community/matches/49298642) |
@@ -292,7 +292,7 @@ This competition has come to an end and resulted in the following podium:
 | **lahwraN** ![][flag_US] | **5** | 0 | ![][flag_RU] Nentse | [#1](https://osu.ppy.sh/community/matches/49314408) |
 | DeSconTent ![][flag_RU] | 0 | **5** | ![][flag_PL] **bart6003** | [#1](https://osu.ppy.sh/community/matches/49316500) |
 
-| Sunday, 2019-02-03 | | | | |
+| Sunday, 2019-02-03 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | \_p0ke\_ ![][flag_US] | 2 | **5** | ![][flag_US] **San Diego** | [#1](https://osu.ppy.sh/community/matches/49326174) |
 | **deflateddolphin** ![][flag_CA] | **5** | 4 | ![][flag_KR] pseudophilia | [#1](https://osu.ppy.sh/community/matches/49326850) |
@@ -303,34 +303,34 @@ This competition has come to an end and resulted in the following podium:
 | **loveleft** ![][flag_AU] | **5** | 0 | ![][flag_DE] Menty | [#1](https://osu.ppy.sh/community/matches/49337622) |
 | **\[Lucky\]** ![][flag_DE] | **5** | 0 | ![][flag_PL] lokser | [#1](https://osu.ppy.sh/community/matches/49340098) |
 
-| Monday, 2019-02-04 | | | | |
+| Monday, 2019-02-04 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Kawaii Kaneki ![][flag_DE] | 0 | **5** | ![][flag_UA] **Zertus** | -win by default- |
 | Defectum ![][flag_NO] | 5 | **4** | ![][flag_KR] **woobin5004** | -win by default- |
 
-| Friday, 2019-02-08 | | | | |
+| Friday, 2019-02-08 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Menty** ![][flag_DE] | **5** | 2 | ![][flag_KR] woobin5004 | [#1](https://osu.ppy.sh/community/matches/49441997) |
 
-| Saturday, 2019-02-09 | | | | |
+| Saturday, 2019-02-09 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | DeSconTent ![][flag_RU] | 3 | **5** | ![][flag_US] **Tuco** | [#1](https://osu.ppy.sh/community/matches/49446157) |
 | **\_p0ke\_** ![][flag_US] | **5** | 0 | ![][flag_UA] Zertus | [#1](https://osu.ppy.sh/community/matches/49449482) |
 | themaster156 ![][flag_US] | 0 | **5** | ![][flag_US] **F1shbowl** | [#1](https://osu.ppy.sh/community/matches/49459554) |
 | **lokser** ![][flag_PL] | **5** | 2 | ![][flag_AU] Pictures | [#1](https://osu.ppy.sh/community/matches/49464388) |
 
-| Sunday, 2019-02-10 | | | | |
+| Sunday, 2019-02-10 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Snajper** ![][flag_AT] | **5** | 2 | ![][flag_FI] Roba | [#1](https://osu.ppy.sh/community/matches/49474191) |
 
-| Monday, 2019-02-11 | | | | |
+| Monday, 2019-02-11 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Raoul** ![][flag_US] | **5** | 0 | ![][flag_CA] deflateddolphin | [#1](https://osu.ppy.sh/community/matches/49504744) |
 | Proioxis ![][flag_IT] | 3 | **5** | ![][flag_US] **lahwraN** | [#1](https://osu.ppy.sh/community/matches/49505992) |
 
 ### Round of 32
 
-| Saturday, 2019-01-26 | | | | |
+| Saturday, 2019-01-26 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **lokser** ![][flag_PL] | **4** | 0 | ![][flag_US] lahwraN | [#1](https://osu.ppy.sh/community/matches/49122983) |
 | **bart6003** ![][flag_PL] | **4** | 0 | ![][flag_UA] Zertus | [#1](https://osu.ppy.sh/community/matches/49123006) |
@@ -341,7 +341,7 @@ This competition has come to an end and resulted in the following podium:
 | **Snajper** ![][flag_AT] | **4** | 0 | ![][flag_KR] woobin5004 | [#1](https://osu.ppy.sh/community/matches/49144094) |
 | **Liswiera** ![][flag_RU] | **4** | 1 | ![][flag_NO] Defectum | [#1](https://osu.ppy.sh/community/matches/49145618) |
 
-| Sunday, 2019-01-27 | | | | |
+| Sunday, 2019-01-27 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **\[Lucky\]** ![][flag_DE] | **4** | 0 | ![][flag_RU] Nentse | [#1](https://osu.ppy.sh/community/matches/49150866) |
 | **Menty** ![][flag_DE] | **4** | 0 | ![][flag_ID] Xicyte | [#1](https://osu.ppy.sh/community/matches/49150859) |

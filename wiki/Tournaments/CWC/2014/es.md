@@ -67,7 +67,7 @@ La competición ha concluido con el siguiente podio:
 
 ## Participantes
 
-| Flag | Grupo A Members | |
+| Flag | Grupo A Members |  |
 | :-- | :-- | :-- |
 | ![][flag_PH] | Filipinas | --- disbanded --- |
 | ![][flag_GB] | Reino Unido | **[destructor966](https://osu.ppy.sh/users/2667584)**, [Nanomight](https://osu.ppy.sh/users/160439), [bubbz](https://osu.ppy.sh/users/86414), [Phlo10](https://osu.ppy.sh/users/2643155), [DarkKanaki](https://osu.ppy.sh/users/2614160) |

@@ -40,13 +40,13 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
-| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | | Evaluation, Moderation |
+| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | Evaluation, Moderation |
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | Cantonese, Chinese | Evaluation |
-| ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) | | Evaluation |
+| ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | Evaluation |
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | German | Evaluation |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | Swedish | Structural, Communication |
-| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) | | Evaluation, Structural, Communication |
-| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | | Structural |
+| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | Evaluation, Structural, Communication |
+| ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | Structural |
 | ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | Portuguese | Evaluation, Structural, Communication |
 | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | Dutch | Evaluation |
 

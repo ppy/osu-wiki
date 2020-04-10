@@ -65,7 +65,7 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 
 ## 참가자
 
-| | 국가 | 팀원 |
+|  | 국가 | 팀원 |
 | :-: | :-: | :-- |
 | ![][flag_IE] | **아일랜드** | **[Kawaii-lili](https://osu.ppy.sh/users/13816802)**, [-WizardyNinja-](https://osu.ppy.sh/users/2607778) |
 | ![][flag_AR] | **아르헨티나** | **[\_MMMMMM\_MMMMMM\_](https://osu.ppy.sh/users/8959673)**, [Sikei-](https://osu.ppy.sh/users/1543133), [ChronosRark1st](https://osu.ppy.sh/users/12020859), [Kliu](https://osu.ppy.sh/users/7409391) |
@@ -345,7 +345,7 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 
 ### 최종 결승
 
-| 토요일, 2019-07-13 | | | | |
+| 토요일, 2019-07-13 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | 미국 A ![][flag_US] | 5 | **7** | ![][flag_HK] **홍콩** | [#1](https://osu.ppy.sh/community/matches/53299127) |
 | **홍콩** ![][flag_HK] | **7** | 4 | ![][flag_US] 미국 A | [#1](https://osu.ppy.sh/community/matches/53300693) |
@@ -354,24 +354,24 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 
 ### 결승
 
-| 토요일, 2019-07-06 | | | | |
+| 토요일, 2019-07-06 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **홍콩** ![][flag_HK] | **7** | 2 | ![][flag_FR] 프랑스 A | [#1](https://osu.ppy.sh/community/matches/53143747) |
 | **미국 A** ![][flag_US] | **7** | 3 | ![][flag_CL] 칠레 | [#1](https://osu.ppy.sh/community/matches/53159685) |
 
-| 일요일, 2019-07-07 | | | | |
+| 일요일, 2019-07-07 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | 칠레 ![][flag_CL] | 1 | **7** | ![][flag_HK] **홍콩** | [#1](https://osu.ppy.sh/community/matches/53162196) |
 
 ### 4강
 
-| 토요일, 2019-06-29 | | | | |
+| 토요일, 2019-06-29 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **미국 A** ![][flag_US] | **7** | 4 | ![][flag_PH] 필리핀 | [#1](https://osu.ppy.sh/community/matches/52977372) |
 | **칠레** ![][flag_CL] | **7** | 5 | ![][flag_CN] 중국 | [#1](https://osu.ppy.sh/community/matches/52987753) |
 | **홍콩** ![][flag_HK] | **7** | 1 | ![][flag_AR] 아르헨티나 | [#1](https://osu.ppy.sh/community/matches/52987594) |
 
-| 일요일, 2019-06-30 | | | | |
+| 일요일, 2019-06-30 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **프랑스 A** ![][flag_FR] | **7** | 6 | ![][flag_JP] 일본 | [#1](https://osu.ppy.sh/community/matches/53005399) |
 | 필리핀 ![][flag_PH] | 6 | **7** | ![][flag_HK] **홍콩** | [#1](https://osu.ppy.sh/community/matches/53005654) |
@@ -379,7 +379,7 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 
 ### 8강
 
-| 토요일, 2019-06-22 | | | | |
+| 토요일, 2019-06-22 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | 인도네시아 A ![][flag_ID] | 0 | **6** | ![][flag_US] **미국 A** | -win by default- |
 | 프랑스 A ![][flag_FR] | 4 | **6** | ![][flag_PH] **필리핀** | [#1](https://osu.ppy.sh/community/matches/52814381) |
@@ -387,7 +387,7 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 | **칠레** ![][flag_CL] | **6** | 1 | ![][flag_SG] 싱가포르 | [#1](https://osu.ppy.sh/community/matches/52820880) |
 | 대만 ![][flag_TW] | 0 | **6** | ![][flag_HK] **홍콩** | [#1](https://osu.ppy.sh/community/matches/52820731) |
 
-| 일요일, 2019-06-23 | | | | |
+| 일요일, 2019-06-23 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | 인도네시아 A ![][flag_ID] | 2 | **6** | ![][flag_JP] **일본** | [#1](https://osu.ppy.sh/community/matches/52845363) |
 | 싱가포르 ![][flag_SG] | 5 | **6** | ![][flag_AR] **아르헨티나** | [#1](https://osu.ppy.sh/community/matches/52848092) |
@@ -395,7 +395,7 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 
 ### 16강
 
-| 토요일, 2019-06-15 | | | | |
+| 토요일, 2019-06-15 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **중국** ![][flag_CN] | **6** | 1 | ![][flag_JP] 일본 | [#1](https://osu.ppy.sh/community/matches/52630781) |
 | 대만 ![][flag_TW] | 3 | **6** | ![][flag_PL] **폴란드 B** | [#1](https://osu.ppy.sh/community/matches/52636109) |
@@ -406,21 +406,21 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 | 폴란드 A ![][flag_PL] | 0 | **6** | ![][flag_CL] **칠레** | [#1](https://osu.ppy.sh/community/matches/52647239) |
 | **미국 A** ![][flag_US] | **6** | 0 | ![][flag_EC] 에콰도르 | [#1](https://www.twitch.tv/videos/439630298) |
 
-| 일요일, 2019-06-16 | | | | |
+| 일요일, 2019-06-16 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **홍콩** ![][flag_HK] | **6** | 2 | ![][flag_EC] 에콰도르 | [#1](https://osu.ppy.sh/community/matches/52657012) |
 | 일본 ![][flag_JP] | 2 | **6** | ![][flag_TW] **대만** | [#1](https://osu.ppy.sh/community/matches/52661179) |
 | 폴란드 A ![][flag_PL] | 1 | **6** | ![][flag_MX] **멕시코** | [#1](https://osu.ppy.sh/community/matches/52673843) |
 | **아르헨티나** ![][flag_AR] | **6** | 4 | ![][flag_BR] 브라질 | [#1](https://osu.ppy.sh/community/matches/52676942) |
 
-| 토요일, 2019-06-22 | | | | |
+| 토요일, 2019-06-22 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **대만** ![][flag_TW] | **6** | 1 | ![][flag_PL] 폴란드 B | [#1](https://osu.ppy.sh/community/matches/52815977) |
 | **일본** ![][flag_JP] | **6** | 0 | ![][flag_PL] 폴란드 B | -win by default- |
 
 ### 조별 예선
 
-| 시드 | 토요일, 2019-06-08 | | | | |
+| 시드 | 토요일, 2019-06-08 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | F3 | **미국 A** ![][flag_US] | **5** | 0 | ![][flag_CN] 중국 | [#1](https://osu.ppy.sh/community/matches/52446671) |
 | G5 | 페루 ![][flag_PE] | 0 | **5** | ![][flag_CL] **칠레** | [#1](https://osu.ppy.sh/community/matches/52446788) |
@@ -447,7 +447,7 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 | E3 | 미국 B ![][flag_US] | 2 | **5** | ![][flag_MX] **멕시코** | [#1](https://osu.ppy.sh/community/matches/52460665) |
 | E6 | **아르헨티나** ![][flag_AR] | **5** | 1 | ![][flag_US] 미국 B | [#1](https://osu.ppy.sh/community/matches/52498726) |
 
-| Group | 일요일, 2019-06-09 | | | | |
+| Group | 일요일, 2019-06-09 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | F6 | 캐나다 ![][flag_CA] | 3 | **5** | ![][flag_US] **미국 A** | [#1](https://osu.ppy.sh/community/matches/52474938) |
 | G3 | 브라질 ![][flag_BR] | 2 | **5** | ![][flag_CL] **칠레** | [#1](https://osu.ppy.sh/community/matches/52475794) |

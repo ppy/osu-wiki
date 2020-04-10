@@ -228,7 +228,7 @@ This competition has come to an end and resulted in the following podium:
 
 Sunday, 31 March 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Realmas** ![][flag_FR] | **7** | 5 | ![][flag_FR] Yruama | [#1](https://osu.ppy.sh/community/matches/50666336) |
 
@@ -236,13 +236,13 @@ Sunday, 31 March 2019:
 
 Saturday, 23 March 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Yruama ![][flag_FR] | 1 | **7** | ![][flag_FR] **Realmas** | [#1](https://osu.ppy.sh/community/matches/50470090) |
 
 Sunday, 24 March 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Zard** ![][flag_FR] | **7** | 0 | ![][flag_FR] Khalemm | [#1](https://osu.ppy.sh/community/matches/50473685) |
 | **Yruama** ![][flag_FR] | **7** | 2 | ![][flag_FR] Zard | [#1](https://osu.ppy.sh/community/matches/50505194) |
@@ -251,20 +251,20 @@ Sunday, 24 March 2019:
 
 Saturday, 16 March 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Yruama** ![][flag_FR] | **6** | 4 | ![][flag_FR] redjiii | [#1](https://osu.ppy.sh/community/matches/50300973) |
 | YANOO123 ![][flag_FR] | 0 | **6** | ![][flag_FR] **Realmas** | [#1](https://osu.ppy.sh/community/matches/50313411) |
 
 Sunday, 17 March 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | YANOO123 ![][flag_FR] | 5 | **6** | ![][flag_FR] **Zard** | [#1](https://osu.ppy.sh/community/matches/50333394) |
 
 Monday, 18 March 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | redjiii ![][flag_FR] | 2 | **6** | ![][flag_FR] **Khalemm** | [#1](https://osu.ppy.sh/community/matches/50361978) |
 
@@ -272,7 +272,7 @@ Monday, 18 March 2019:
 
 Saturday, 9 March 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Aequo3 ![][flag_FR] | 0 | **4** | ![][flag_FR] **Yruama** | *win by default* |
 | **redjiii** ![][flag_FR] | **5** | 3 | ![][flag_FR] Zard | [#1](https://osu.ppy.sh/community/matches/50137587) |
@@ -281,7 +281,7 @@ Saturday, 9 March 2019:
 
 Sunday, 10 March 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Aequo3 ![][flag_FR] | 0 | **5** | ![][flag_FR] **Zard** | *win by default* |
 | pierreCHT ![][flag_FR] | 1 | **5** | ![][flag_FR] **Khalemm** | [#1](https://osu.ppy.sh/community/matches/50174435) |
@@ -290,13 +290,13 @@ Sunday, 10 March 2019:
 
 Friday, 1 March 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Aequo3** ![][flag_FR] | **4** | 3 | ![][flag_FR] pierreCHT | [#1](https://osu.ppy.sh/community/matches/49939088) |
 
 Saturday, 2 March 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **pierreCHT** ![][flag_FR] | **4** | 1 | ![][flag_FR] 4L-Chan 3 Porte | [#1](https://osu.ppy.sh/community/matches/49963696) |
 | ACinfr ![][flag_FR] | 3 | **4** | ![][flag_FR] **Aequo3** | [#1](https://osu.ppy.sh/community/matches/49964492) |
@@ -314,7 +314,7 @@ Saturday, 2 March 2019:
 
 Sunday, 3 March 2019
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Rizhen- ![][flag_FR] | 0 | **4** | ![][flag_FR] **Sageru** | *win by default* |
 | **Realmas** ![][flag_FR] | **4** | 0 | ![][flag_FR] Rizhen- | *win by default* |
@@ -328,7 +328,7 @@ Sunday, 3 March 2019
 
 Monday, 4 March 2019:
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | 4L-Chan 3 Porte ![][flag_FR] | 0 | **4** | ![][flag_FR] **Aequo3** | [#1](https://osu.ppy.sh/community/matches/50018480) |
 

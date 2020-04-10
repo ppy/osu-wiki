@@ -261,7 +261,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 Samedi, 20 Octobre 2018:
 
-| Joueur 1 | | | Joueur 2 | Lien de match |
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | **-Ken** ![][flag_TN] | **7** | 6 | ![][flag_FR] Noulayfe | [#1](https://osu.ppy.sh/community/matches/46842396) |
 
@@ -269,7 +269,7 @@ Samedi, 20 Octobre 2018:
 
 Samedi, 13 Octobre 2018:
 
-| Joueur 1 | | | Joueur 2 | Lien de match |
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | **-Ken** ![][flag_TN] | **7** | 3 | ![][flag_FR] Noulayfe | [#1](https://osu.ppy.sh/community/matches/46670175) |
 | **Boros** ![][flag_FR] | **7** | 0 | ![][flag_FR] AAAAAAAAAAAAHHH | [#1](https://osu.ppy.sh/community/matches/46673460) |
@@ -279,7 +279,7 @@ Samedi, 13 Octobre 2018:
 
 Samedi, 6 Octobre 2018:
 
-| Joueur 1 | | | Joueur 2 | Lien de match |
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | AAAAAAAAAAAAHHH ![][flag_FR] | 5 | **6** | ![][flag_FR] **Noulayfe** | [#1](https://osu.ppy.sh/community/matches/46497617) |
 | floflim ![][flag_FR] | 0 | **6** | ![][flag_FR] **Julo** | *win by default* |
@@ -288,7 +288,7 @@ Samedi, 6 Octobre 2018:
 
 Dimanche, 7 Octobre 2018:
 
-| Joueur 1 | | | Joueur 2 | Lien de match |
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | Electr0o ![][flag_FR] | 0 | **6** | ![][flag_FR] **Boros** | [#1](https://osu.ppy.sh/community/matches/46530564) |
 | **AAAAAAAAAAAAHHH** ![][flag_FR] | **6** | 4 | ![][flag_FR] Julo | [#1](https://osu.ppy.sh/community/matches/46536947) |
@@ -297,7 +297,7 @@ Dimanche, 7 Octobre 2018:
 
 Samedi, 29 Septembre 2018:
 
-| Joueur 1 | | | Joueur 2 | Lien de match |
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | **-Ken** ![][flag_TN] | **5** | 0 | ![][flag_FR] Julo | [#1](https://osu.ppy.sh/community/matches/46322875) |
 | **Electr0o** ![][flag_FR] | **5** | 1 | ![][flag_FR] Astreachan | [#1](https://osu.ppy.sh/community/matches/46323746) |
@@ -306,7 +306,7 @@ Samedi, 29 Septembre 2018:
 
 Dimanche, 30 Septembre 2018:
 
-| Joueur 1 | | | Joueur 2 | Lien de match |
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | **Boros** ![][flag_FR] | **5** | 1 | ![][flag_FR] Orazeit | [#1](https://osu.ppy.sh/community/matches/46357124) |
 | **Holloh** ![][flag_FR] | **5** | 0 | ![][flag_FR] dracoV | [#1](https://osu.ppy.sh/community/matches/46358676) |
@@ -317,7 +317,7 @@ Dimanche, 30 Septembre 2018:
 
 Samedi, 22 Septembre 2018:
 
-| Joueur 1 | | | Joueur 2 | Lien de match |
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | **-Ken** ![][flag_TN] | **4** | 0 | ![][flag_FR] 07th Loli | [#1](https://osu.ppy.sh/community/matches/46150000) |
 | **Boros** ![][flag_FR] | **4** | 2 | ![][flag_FR] Sounny | [#1](https://osu.ppy.sh/community/matches/46150122) |
@@ -330,7 +330,7 @@ Samedi, 22 Septembre 2018:
 
 Dimanche, 23 Septembre 2018:
 
-| Joueur 1 | | | Joueur 2 | Lien de match |
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | 07th Loli ![][flag_FR] | 0 | **4** | ![][flag_FR] **Orazeit** | [#1](https://osu.ppy.sh/community/matches/46184845) |
 | **floflim** ![][flag_FR] | **4** | 1 | ![][flag_CA] Sinaeb | [#1](https://osu.ppy.sh/community/matches/46187781) |
@@ -338,7 +338,7 @@ Dimanche, 23 Septembre 2018:
 
 Mardi, 25 Septembre 2018:
 
-| Joueur 1 | | | Joueur 2 | Lien de match |
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
 | **dracoV** ![][flag_FR] | **4** | 0 | ![][flag_FR] Libegon | *win by default* |
 
@@ -346,7 +346,7 @@ Mardi, 25 Septembre 2018:
 
 Samedi, 8 Septembre 2018:
 
-| Groupe | Joueur 1 | | | Joueur 2 | Lien de match |
+| Groupe | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | A | SkaylleexSamaFR ![][flag_FR] | 0 | **3** | ![][flag_FR] **floflim** | *win by default* |
 | B | Noctalium ![][flag_FR] | 0 | **3** | ![][flag_FR] **07th Loli** | *win by default* |
@@ -370,7 +370,7 @@ Samedi, 8 Septembre 2018:
 
 Dimanche, 9 Septembre 2018:
 
-| Groupe | Joueur 1 | | | Joueur 2 | Lien de match |
+| Groupe | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | D | **Julo** ![][flag_FR] | **3** | 1 | ![][flag_FR] \[Haku\] | [#1](https://osu.ppy.sh/community/matches/45829507) |
 | D | **Holloh** ![][flag_FR] | **3** | 2 | ![][flag_FR] Julo | [#1](https://osu.ppy.sh/community/matches/45830577) |
@@ -384,21 +384,21 @@ Dimanche, 9 Septembre 2018:
 
 Lundi, 10 Septembre 2018:
 
-| Groupe | Joueur 1 | | | Joueur 2 | Lien de match |
+| Groupe | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | D | \[Haku\] ![][flag_FR] | 0 | **3** | ![][flag_FR] **Fanther** | [#1](https://osu.ppy.sh/community/matches/45863085) |
 | E | CaptainAlexis ![][flag_FR] | 0 | **3** | ![][flag_FR] **Boros** | [#1](https://osu.ppy.sh/community/matches/45864499) |
 
 Mercredi, 12 Septembre 2018:
 
-| Groupe | Joueur 1 | | | Joueur 2 | Lien de match |
+| Groupe | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | F | dracoV ![][flag_FR] | 1 | **3** | ![][flag_FR] **Sounny** | [#1](https://osu.ppy.sh/community/matches/45903381) |
 | A | **floflim** ![][flag_FR] | **3** | 0 | ![][flag_FR] Chernobog | [#1](https://osu.ppy.sh/community/matches/45905966) |
 
 Samedi, 15 Septembre 2018:
 
-| Groupe | Joueur 1 | | | Joueur 2 | Lien de match |
+| Groupe | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | A | Chernobog ![][flag_FR] | 0 | **3** | ![][flag_TN] **-Ken** | [#1](https://osu.ppy.sh/community/matches/45973053) |
 | F | tutiflo ![][flag_FR] | 0 | **3** | ![][flag_FR] **dracoV** | *win by default* |
@@ -416,7 +416,7 @@ Samedi, 15 Septembre 2018:
 
 Dimanche, 16 Septembre 2018:
 
-| Groupe | Joueur 1 | | | Joueur 2 | Lien de match |
+| Groupe | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | H | Mnemosyne ![][flag_FR] | 0 | **3** | ![][flag_FR] **Aequo3** | *win by default* |
 | H | Aequo3 ![][flag_FR] | 0 | **3** | ![][flag_FR] **Astreachan** | [#1](https://osu.ppy.sh/community/matches/46011327) |

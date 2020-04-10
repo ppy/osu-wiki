@@ -62,7 +62,7 @@ Advanced Global Taiko Showdown 2019 był prowadzony przez różnych członków s
 
 ## Uczestnicy
 
-| | Kraj | Członkowie |
+|  | Kraj | Członkowie |
 | :-: | :-: | :-- |
 | ![][flag_AR] | **Argentyna** | **[Pollotuc](https://osu.ppy.sh/users/42440)**, [juanilp4evr](https://osu.ppy.sh/users/6413125), [Atreevete](https://osu.ppy.sh/users/2615199), [warning dark](https://osu.ppy.sh/users/5040981) |
 | ![][flag_AU] | **Australia** | **[Beat43210](https://osu.ppy.sh/users/5664171)**, [Tsubasa2](https://osu.ppy.sh/users/6835183), [richy2001](https://osu.ppy.sh/users/11499467), [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046) |
@@ -289,30 +289,30 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 
 ### Wielkie Finały
 
-| Sobota, 2019-09-14 | | | | |
+| Sobota, 2019-09-14 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Japonia** ![][flag_JP] | **7** | 1 | ![][flag_CA] Kanada | [#1](https://osu.ppy.sh/community/matches/54839968) |
 
 ### Finały
 
-| Sobota, 2019-09-07 | | | | |
+| Sobota, 2019-09-07 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Japonia** ![][flag_JP] | **7** | 1 | ![][flag_RU] Rosja A | [#1](https://osu.ppy.sh/community/matches/54674122) |
 
-| Niedziela, 2019-09-08 | | | | |
+| Niedziela, 2019-09-08 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Korea Południowa ![][flag_KR] | 4 | **7** | ![][flag_CA] **Kanada** | [#1](https://osu.ppy.sh/community/matches/54691282) |
 | Rosja A ![][flag_RU] | 2 | **7** | ![][flag_CA] **Kanada** | [#1](https://osu.ppy.sh/community/matches/54706574) |
 
 ### Półfinały
 
-| Sobota, 2019-08-31 | | | | |
+| Sobota, 2019-08-31 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Indonezja A ![][flag_ID] | 4 | **7** | ![][flag_JP] **Japonia** | [#1](https://osu.ppy.sh/community/matches/54504410) |
 | **Rosja A** ![][flag_RU] | **7** | 2 | ![][flag_TW] Tajwan | [#1](https://osu.ppy.sh/community/matches/54507108) |
 | Argentyna ![][flag_AR] | 4 | **7** | ![][flag_CA] **Kanada** | [#1](https://osu.ppy.sh/community/matches/54515229) |
 
-| Niedziela, 2019-09-01 | | | | |
+| Niedziela, 2019-09-01 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Tajwan ![][flag_TW] | 1 | **7** | ![][flag_CA] **Kanada** | [#1](https://osu.ppy.sh/community/matches/54521624) |
 | Holandia ![][flag_NL] | 6 | **7** | ![][flag_KR] **Korea Południowa** | [#1](https://osu.ppy.sh/community/matches/54530786) |
@@ -320,7 +320,7 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 
 ### Ćwierćfinały
 
-| Sobota, 2019-08-24 | | | | |
+| Sobota, 2019-08-24 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Argentyna ![][flag_AR] | 5 | **6** | ![][flag_TW] **Tajwan** | [#1](https://osu.ppy.sh/community/matches/54305260) |
 | Niemcy A ![][flag_DE] | 0 | **6** | ![][flag_ID] **Indonezja A** | [#1](https://osu.ppy.sh/community/matches/54317268) |
@@ -329,7 +329,7 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 | Kanada ![][flag_CA] | 4 | **6** | ![][flag_JP] **Japonia** | [#1](https://osu.ppy.sh/community/matches/54318662) |
 | Polska ![][flag_PL] | 1 | **6** | ![][flag_ID] **Indonezja A** | [#1](https://osu.ppy.sh/community/matches/54320532) | **Kanada** ![][flag_CA] | **6** | 1 | ![][flag_RU] Rosja B | [#1](https://osu.ppy.sh/community/matches/54322599) |
 
-| Niedziela, 2019-08-25 | | | | |
+| Niedziela, 2019-08-25 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Korea Południowa ![][flag_KR] | 3 | **6** | ![][flag_TW] **Tajwan** | [#1](https://osu.ppy.sh/community/matches/54334906) |
 | Holandia ![][flag_NL] | 2 | **6** | ![][flag_RU] **Rosja A** | [#1](https://osu.ppy.sh/community/matches/54346880) |
@@ -339,7 +339,7 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 
 ### Faza Grupowa
 
-| Grupa | Sobota, 2019-08-17 | | | | |
+| Grupa | Sobota, 2019-08-17 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | C4 | Meksyk ![][flag_MX] | 2 | **5** | ![][flag_TW] **Tajwan** | [#1](https://osu.ppy.sh/community/matches/54132793) |
 | D6 | Stany Zjednoczone B ![][flag_US] | 1 | **5** | ![][flag_US] **Stany Zjednoczone A** | [#1](https://osu.ppy.sh/community/matches/54133753) |
@@ -356,7 +356,7 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 | B5 | Chile ![][flag_CL] | 0 | **5** | ![][flag_AR] **Argentyna** | [#1](https://osu.ppy.sh/community/matches/54153575) |
 | C3 | **Kanada** ![][flag_CA] | **5** | 0 | ![][flag_GB] ![][flag_PT] Wielka Brytania/Portugalia | [#1](https://osu.ppy.sh/community/matches/54153517) |
 
-| Group | Niedziela, 2019-08-18 | | | | |
+| Group | Niedziela, 2019-08-18 |  |  |  |  |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | F6 | Indonezja A ![][flag_ID] | 3 | **5** | ![][flag_CA] **Kanada** | [#1](https://osu.ppy.sh/community/matches/54159212) |
 | B2 | Chile ![][flag_CL] | 0 | **5** | ![][flag_JP] **Japonia** | [#1](https://osu.ppy.sh/community/matches/54160233) |

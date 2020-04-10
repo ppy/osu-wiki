@@ -83,9 +83,9 @@ Note: 1K, 2K, 3K und 10K wurden eingefügt, sind momentan jedoch NICHT Rankable 
 | 9K | pop'n music, E5 - Dancing Super Station (Single). |
 | 10K | MuziBox, Pump It Up (Double) |
 | 12K | Keyboardmania (Light) |
-| 14K | |
+| 14K |  |
 | 16K | beatmaniaIIDX (Double) |
 | 18K | E5 - Dancing Super Station (Double). |
-| 20K | |
+| 20K |  |
 
 Beinhaltet nicht: Keyboardmania (Light+, Real) \[24K\] und (Double) \[48K\].

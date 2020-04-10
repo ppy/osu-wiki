@@ -23,23 +23,23 @@ This article lists the countries that participated in the various osu!, osu!taik
 | 1 | ![][flag_KR] South Korea | 7 | 1 | 2 |
 | 2 | ![][flag_JP] Japan | 6 | 4 | 2 |
 | 3 | ![][flag_TW] Taiwan | 3 | 5 | 1 |
-| 4 | ![][flag_US] United States | 3 | | |
+| 4 | ![][flag_US] United States | 3 |  |  |
 | 5 | ![][flag_CN] China | 1 | 3 | 1 |
-| 6 | ![][flag_CL] Chile | 1 | | |
-| 7 | ![][flag_HK] Hong Kong | | 3 | 1 |
-| 8 | ![][flag_DE] Germany | | 1 | 2 |
-| 8 | ![][flag_PL] Poland | | 1 | 2 |
-| 9 | ![][flag_NL] Netherlands | | 1 | |
-| 9 | ![][flag_PH] Philippines | | 1 | |
-| 9 | ![][flag_TH] Thailand | | 1 | |
-| 10 | ![][flag_MY] Malaysia | | | 3 |
-| 11 | ![][flag_FR] France | | | 2 |
-| 12 | ![][flag_AR] Argentina | | | 1 |
-| 12 | ![][flag_BR] Brazil | | | 1 |
-| 12 | ![][flag_CA] Canada | | | 1 |
-| 12 | ![][flag_CO] Colombia | | | 1 |
-| 12 | ![][flag_SE] Sweden | | | 1 |
-| 12 | ![][flag_GB] United Kingdom | | | 1 |
+| 6 | ![][flag_CL] Chile | 1 |  |  |
+| 7 | ![][flag_HK] Hong Kong |  | 3 | 1 |
+| 8 | ![][flag_DE] Germany |  | 1 | 2 |
+| 8 | ![][flag_PL] Poland |  | 1 | 2 |
+| 9 | ![][flag_NL] Netherlands |  | 1 |  |
+| 9 | ![][flag_PH] Philippines |  | 1 |  |
+| 9 | ![][flag_TH] Thailand |  | 1 |  |
+| 10 | ![][flag_MY] Malaysia |  |  | 3 |
+| 11 | ![][flag_FR] France |  |  | 2 |
+| 12 | ![][flag_AR] Argentina |  |  | 1 |
+| 12 | ![][flag_BR] Brazil |  |  | 1 |
+| 12 | ![][flag_CA] Canada |  |  | 1 |
+| 12 | ![][flag_CO] Colombia |  |  | 1 |
+| 12 | ![][flag_SE] Sweden |  |  | 1 |
+| 12 | ![][flag_GB] United Kingdom |  |  | 1 |
 
 
 ## Per mode
@@ -50,15 +50,15 @@ This article lists the countries that participated in the various osu!, osu!taik
 
 | Rank | Country | Gold | Silver | Bronze |
 | :-: | :-- | :-: | :-: | :-: |
-| 1 | ![][flag_KR] South Korea | 3 | | 2 |
-| 2 | ![][flag_US] United States | 2 | | |
-| 3 | ![][flag_JP] Japan | 1 | 2 | |
+| 1 | ![][flag_KR] South Korea | 3 |  | 2 |
+| 2 | ![][flag_US] United States | 2 |  |  |
+| 3 | ![][flag_JP] Japan | 1 | 2 |  |
 | 4 | ![][flag_TW] Taiwan | 1 | 1 | 1 |
-| 5 | ![][flag_CN] China | | 2 | |
-| 6 | ![][flag_PL] Poland | | 1 | 2 |
-| 7 | ![][flag_NL] Netherlands | | 1 | |
-| 8 | ![][flag_BR] Brazil | | | 1 |
-| 8 | ![][flag_DE] Germany | | | 1 |
+| 5 | ![][flag_CN] China |  | 2 |  |
+| 6 | ![][flag_PL] Poland |  | 1 | 2 |
+| 7 | ![][flag_NL] Netherlands |  | 1 |  |
+| 8 | ![][flag_BR] Brazil |  |  | 1 |
+| 8 | ![][flag_DE] Germany |  |  | 1 |
 
 #### Attendance
 
@@ -120,11 +120,11 @@ This article lists the countries that participated in the various osu!, osu!taik
 | Rank | Country | Gold | Silver | Bronze |
 | :-: | :-- | :-: | :-: | :-: |
 | 1 | ![][flag_JP] Japan | 5 | 1 | 2 |
-| 2 | ![][flag_TW] Taiwan | | 2 | 3 | |
-| 3 | ![][flag_HK] Hong Kong | | 3 | 1 |
-| 4 | ![][flag_FR] France | | | 2 |
-| 5 | ![][flag_CA] Canada | | | 1 |
-| 5 | ![][flag_CN] China | | | 1 |
+| 2 | ![][flag_TW] Taiwan |  | 2 | 3 |  |
+| 3 | ![][flag_HK] Hong Kong |  | 3 | 1 |
+| 4 | ![][flag_FR] France |  |  | 2 |
+| 5 | ![][flag_CA] Canada |  |  | 1 |
+| 5 | ![][flag_CN] China |  |  | 1 |
 
 #### Attendance
 
@@ -172,15 +172,15 @@ This article lists the countries that participated in the various osu!, osu!taik
 
 | Rank | Country | Gold | Silver | Bronze |
 | :-: | :-: | :-: | :-: | :-: |
-| 1 | ![][flag_KR] South Korea | 2 | | |
-| 2 | ![][flag_CN] China | 1 | 1 | |
-| 3 | ![][flag_CL] Chile | 1 | | |
-| 4 | ![][flag_DE] Germany | | 1 | 2 |
-| 5 | ![][flag_ID] Indonesia | | 1 | |
-| 5 | ![][flag_TW] Taiwan | | 1 | |
-| 6 | ![][flag_AR] Argentina | | | 1 |
-| 6 | ![][flag_CO] Colombia | | | 1 |
-| 6 | ![][flag_SE] Sweden | | | 1 |
+| 1 | ![][flag_KR] South Korea | 2 |  |  |
+| 2 | ![][flag_CN] China | 1 | 1 |  |
+| 3 | ![][flag_CL] Chile | 1 |  |  |
+| 4 | ![][flag_DE] Germany |  | 1 | 2 |
+| 5 | ![][flag_ID] Indonesia |  | 1 |  |
+| 5 | ![][flag_TW] Taiwan |  | 1 |  |
+| 6 | ![][flag_AR] Argentina |  |  | 1 |
+| 6 | ![][flag_CO] Colombia |  |  | 1 |
+| 6 | ![][flag_SE] Sweden |  |  | 1 |
 
 #### Attendance
 
@@ -237,15 +237,15 @@ This article lists the countries that participated in the various osu!, osu!taik
 
 | Rank | Country | Gold | Silver | Bronze |
 | :-: | :-- | :-: | :-: | :-: |
-| 1 | ![][flag_KR] South Korea | 3 | 1 | |
-| 2 | ![][flag_US] United States | 1 | | 1 |
-| 3 | ![][flag_CN] China | 1 | | |
-| 4 | ![][flag_BR] Brazil | | 1 | |
-| 4 | ![][flag_JP] Japan | | 1 | |
-| 4 | ![][flag_PH] Philippines | | 1 | |
-| 4 | ![][flag_TH] Thailand | | 1 | |
-| 5 | ![][flag_MY] Malaysia | | | 3 |
-| 6 | ![][flag_GB] United Kingdom | | | 1 |
+| 1 | ![][flag_KR] South Korea | 3 | 1 |  |
+| 2 | ![][flag_US] United States | 1 |  | 1 |
+| 3 | ![][flag_CN] China | 1 |  |  |
+| 4 | ![][flag_BR] Brazil |  | 1 |  |
+| 4 | ![][flag_JP] Japan |  | 1 |  |
+| 4 | ![][flag_PH] Philippines |  | 1 |  |
+| 4 | ![][flag_TH] Thailand |  | 1 |  |
+| 5 | ![][flag_MY] Malaysia |  |  | 3 |
+| 6 | ![][flag_GB] United Kingdom |  |  | 1 |
 
 #### Attendance
 

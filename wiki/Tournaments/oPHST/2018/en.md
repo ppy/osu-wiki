@@ -766,67 +766,67 @@ All results are compiled for public viewing via [this link](https://docs.google.
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTp38QY9JuZqTR8rIDW__--qNpzDKfD8ny_HvtNovgr6nD8DGFbYtpbv8sdaIQ_OivaQxWcWpvGcIVo/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | :-- | :-: | :-: | --: | :-: |--|
-| 4 | -Marika | 2 | **7** | **Dunois** | 2 | |
+| 4 | -Marika | 2 | **7** | **Dunois** | 2 |  |
 
 #### Semifinals
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZ_ABri2Y11RKBJ1jRgumW0xtaN9NzyPmHgvr8Zl5ZLCLFM4_IxNUJvtMNKpETs36mzPD41GGD2RjR/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | :-- | :-: | :-: | --: | :-: |--|
-| 9 | TyrantsEye2014 | 3 | **7** | **-Marika** | 4 | |
-| 2 | **Dunois** | **7** | 2 | Varsagus | 3 | |
+| 9 | TyrantsEye2014 | 3 | **7** | **-Marika** | 4 |  |
+| 2 | **Dunois** | **7** | 2 | Varsagus | 3 |  |
 
 #### Quarterfinals
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQXngKCiU2GDs5m1sJ8zWUkfBf1KO3rayxja95OiKq1GRq79GJVIrXGqhPEyIeLpyd6oz2hvj-yq22W/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | :-- | :-: | :-: | --: | :-: |--|
-| 16 | Eboryte | 0 | **6** | **TyrantsEye2014** | 9 | |
-| 4 | **-Marika** | **6** | 1 | Nezol | 12 | |
-| 2 | **Dunois** | **6** | 0 | PhasiconN | 7 | |
-| 3 | **Varsagus** | **6** | 3 | Xidorn | 11 | |
+| 16 | Eboryte | 0 | **6** | **TyrantsEye2014** | 9 |  |
+| 4 | **-Marika** | **6** | 1 | Nezol | 12 |  |
+| 2 | **Dunois** | **6** | 0 | PhasiconN | 7 |  |
+| 3 | **Varsagus** | **6** | 3 | Xidorn | 11 |  |
 
 #### Round of 16
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQFYgXyCLIdpzaRLLB1uw0JnSaJKBHRi-Z8nDH1ZuoSwVaxfEeukQLGz7SGdHrq4mIWlBEAmcY3iaU9/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | :-- | :-: | :-: | --: | :-: | :-- |
-| 32 | Afireee | 1 | **5** | **Eboryte** | 16 | |
-| 8 | - Neon - | 2 | **5** | **TyrantsEye2014** | 9 | |
-| 4 | **-Marika** | **5** | 0 | xX_MusicMan_Xx | 13 | |
+| 32 | Afireee | 1 | **5** | **Eboryte** | 16 |  |
+| 8 | - Neon - | 2 | **5** | **TyrantsEye2014** | 9 |  |
+| 4 | **-Marika** | **5** | 0 | xX_MusicMan_Xx | 13 |  |
 | 5 | Fraye | 0 | **5** | **Nezol** | 12 | WBD |
-| 2 | **Dunois** | **5** | 1 | Natsume- | 18 | |
-| 7 | **PhasiconN** | **5** | 1 | Oooodriiin | 10 | |
-| 3 | **Varsagus** | **5** | 1 | \[Vik\] | 14 | |
-| 6 | fixedbyglue | 4 | **5** | **Xidorn** | 11 | |
+| 2 | **Dunois** | **5** | 1 | Natsume- | 18 |  |
+| 7 | **PhasiconN** | **5** | 1 | Oooodriiin | 10 |  |
+| 3 | **Varsagus** | **5** | 1 | \[Vik\] | 14 |  |
+| 6 | fixedbyglue | 4 | **5** | **Xidorn** | 11 |  |
 
 #### Round of 32
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRKeADebYufYGDAWV_WSrbaRLEmaiASQz4Nr1lGS4eH_YqHeePLB_3lbe06JPVVdByR-pGdPndjI4My/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | :-- | :-: | :-: | --: | :-: | :-- |
 | 1 | HaruTachi- | 0 | **4** | **Afireee** | 32 | WBD |
-| 16 | **Eboryte** | **4** | 3 | NepNep- | 17 | |
+| 16 | **Eboryte** | **4** | 3 | NepNep- | 17 |  |
 | 8 | **- Neon -** | **4** | 0 | CloudBlaze | 25 | WBD |
-| 9 | **TyrantsEye2014** | **4** | 0 | SkyLifeHope | 24 | |
-| 4 | **-Marika** | **4** | 0 | Aharu | 29 | |
-| 13 | **xX_MusicMan_Xx** | **4** | 2 | xchan | 20 | |
+| 9 | **TyrantsEye2014** | **4** | 0 | SkyLifeHope | 24 |  |
+| 4 | **-Marika** | **4** | 0 | Aharu | 29 |  |
+| 13 | **xX_MusicMan_Xx** | **4** | 2 | xchan | 20 |  |
 | 5 | **Fraye** | **4** | 0 | [Paradoxum] | 28 | WBD |
-| 12 | **Nezol** | **4** | 1 | CharlesMoveOn | 21 | |
-| 2 | **Dunois** | **4** | 0 | Itsvet | 31 | |
+| 12 | **Nezol** | **4** | 1 | CharlesMoveOn | 21 |  |
+| 2 | **Dunois** | **4** | 0 | Itsvet | 31 |  |
 | 15 | NymphSan05 | 0 | **4** | **Natsume-** | 18 | WBD |
-| 7 | **PhasiconN** | **4** | 0 | Awishi | 26 | |
-| 10 | **Oooodriiin** | **4** | 0 | Caernarvon725 | 23 | |
-| 3 | **Varsagus** | **4** | 0 | Mietzu | 30 | |
+| 7 | **PhasiconN** | **4** | 0 | Awishi | 26 |  |
+| 10 | **Oooodriiin** | **4** | 0 | Caernarvon725 | 23 |  |
+| 3 | **Varsagus** | **4** | 0 | Mietzu | 30 |  |
 | 14 | **[Vik]** | **4** | 0 | Marika | 19 | WBD |
-| 6 | **fixedbyglue** | **4** | 0 | Scylz | 27 | |
-| 11 | **Xidorn** | **4** | 2 | Rimazii | 22 | |
+| 6 | **fixedbyglue** | **4** | 0 | Scylz | 27 |  |
+| 11 | **Xidorn** | **4** | 2 | Rimazii | 22 |  |
 
 #### Qualifiers
 
@@ -838,64 +838,64 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 #### Finals Week 2
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | :-- | :-: | :-: | --: | :-: | :-- |
-| 2 | **-Nicotine** | **7** | 3 | KaganimeRin | 8 | |
+| 2 | **-Nicotine** | **7** | 3 | KaganimeRin | 8 |  |
 | 1 | **Roido** | **7** | 0 | Nicotine | 2 | WBD |
 
 #### Finals Week 1
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTZ3x-2RIbl6iO9ArNrsf4sS3V_iCWMHDs2Y1DbxTBdyd9jx6xW8y-BoH1Ez1SOUhiLI-GjfHRjZORf/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | :-- | :-: | :-: | --: | :-: | :-- |
-| 5 | **-MomoX** | **7** | 2 | Laqure | 6 | |
+| 5 | **-MomoX** | **7** | 2 | Laqure | 6 |  |
 | 3 | - Kielzu - | 0 | **7** | **KaganimeRin** | 8 | WBD |
-| 5 | -MomoX | 3 | **7** | **KaganimeRin** | 8 | |
-| 1 | **Roido** | **7** | 2 | -Nicotine | 2 | |
+| 5 | -MomoX | 3 | **7** | **KaganimeRin** | 8 |  |
+| 1 | **Roido** | **7** | 2 | -Nicotine | 2 |  |
 
 #### Semifinals and Loser's Bracket Round 2 and 3
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTFFcGTzqw3MhFpMiePVhY0UcfL6wi7_ZMdpS-MEkUvK12A3FE4WOeI_mZQnWoWi4XYd3cJ1WRpUYV3/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | :-- | :-: | :-: | --: | :-: | :-- |
 | 8 | **KaganimeRin** | **6** | 0 | Contingent | 11 | WBD |
 | 4 | **Crowley** | **6** | 0 | princealbert10 | 15 | WBD |
 | 10 | **AJamez** | **6** | 0 | Weazle | 13 | WBD |
 | 6 | **Laqure** | **6** | 0 | JeirYagtama | 9 | WBD |
-| 4 | Crowley | 4 | **6** | **KaganimeRin** | 8 | |
+| 4 | Crowley | 4 | **6** | **KaganimeRin** | 8 |  |
 | 6 | **Laqure** | **6** | 0 | AJamez | 10 | WBD |
-| 1 | **Roido** | **6** | 3 | -MomoX | 5 | |
-| 2 | **-Nicotine** | **6** | 3 | * Kielzu - | 3 | |
+| 1 | **Roido** | **6** | 3 | -MomoX | 5 |  |
+| 2 | **-Nicotine** | **6** | 3 | * Kielzu - | 3 |  |
 
 #### Quarterfinals and Loser's Bracket Round 1
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRxaDJMcbyDDibbLrg3hbrMkNxrdj7ZdULGp5xPsNCBPEcokxjSwIIUXPUns5dJ2PBnlyKwuR0KjTHc/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | :-- | :-: | :-: | --: | :-: | :-- |
-| 16 | justin1709 | 0 | **5** | **JeirYagtama** | 9 | |
-| 13 | **Weazle** | **5** | 1 | kaarin | 12 | |
+| 16 | justin1709 | 0 | **5** | **JeirYagtama** | 9 |  |
+| 13 | **Weazle** | **5** | 1 | kaarin | 12 |  |
 | 15 | **princealbert10** | **5** | 0 | Kuya Frex | 7 | WBD |
 | 14 | oSuTroop3r | 0 | **5** | **Contingent** | 11 | WBD |
-| 1 | **Roido** | **5** | 3 | KaganimeRin | 8 | |
-| 4 | Crowley | 2 | **5** | **-MomoX** | 5 | |
+| 1 | **Roido** | **5** | 3 | KaganimeRin | 8 |  |
+| 4 | Crowley | 2 | **5** | **-MomoX** | 5 |  |
 | 2 | **-Nicotine** | **5** | 0 | AJamez | 10 | WBD |
-| 3 | **- Kielzu -** | **5** | 1 | Laqure | 6 | |
+| 3 | **- Kielzu -** | **5** | 1 | Laqure | 6 |  |
 
 #### Round of 16
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR_9weiuICWN7Owh9dGCiPw21e4-TP97P8eubdz-dl0NOl0ZO-O0mQ0D7guR7Yfd2ONa4iVvWD9mX_C/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | :-- | :-: | :-: | --: | :-: | :-- |
-| 1 | **Roido** | **4** | 0 | justin1709 | 16 | |
+| 1 | **Roido** | **4** | 0 | justin1709 | 16 |  |
 | 8 | **KaganimeRin** | **4** | 0 | JeirYagtama | 9 | WBD |
-| 4 | **Crowley** | **4** | 0 | Weazle | 13 | |
-| 5 | **-MomoX** | **4** | 0 | kaarin | 12 | |
+| 4 | **Crowley** | **4** | 0 | Weazle | 13 |  |
+| 5 | **-MomoX** | **4** | 0 | kaarin | 12 |  |
 | 2 | **-Nicotine** | **4** | 0 | princealbert10 | 15 | WBD |
-| 7 | Kuya Frex | 0 | **4** | **AJamez** | 10 | |
+| 7 | Kuya Frex | 0 | **4** | **AJamez** | 10 |  |
 | 3 | **- Kielzu -** | **4** | 0 | oSuTroop3r | 14 | WBD |
 | 6 | **Laqure** | **4** | 0 | Contingent | 11 | WBD |
 
@@ -905,97 +905,97 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTL3xtDauofeIZD8Di_nwMYVmxFevlfDkJhX_E0JNdQbcp3oWiu6e88csHkBA0G7yznhOwUkabOPcwW/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | :-- | :-: | :-: | --: | :-: |--|
-| 3 | Vigne Tsukinose | 2 | **7** | **exodia3000** | 8 | |
-| 1 | **joseee-** | **7** | 6 | exodia3000 | 8 | |
+| 3 | Vigne Tsukinose | 2 | **7** | **exodia3000** | 8 |  |
+| 1 | **joseee-** | **7** | 6 | exodia3000 | 8 |  |
 
 #### Finals Week 1
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vReiIXEklSaiJKTPXmDMqwx1VHUh-kpJu6tOc1IADpOuOoas6c58_P-kcNZXYuFa4Qq_vadjJJYn1px/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | :-- | :-: | :-: | --: | :-: | :-- |
-| 4 | **Toyohime-** | **7** | 6 | MapleSyrup- | 2 | |
-| 7 | Mk3605 | 3 | **7** | **exodia3000** | 8 | |
-| 8 | **exodia3000** | **7** | 1 | Toyohime- | 4 | |
+| 4 | **Toyohime-** | **7** | 6 | MapleSyrup- | 2 |  |
+| 7 | Mk3605 | 3 | **7** | **exodia3000** | 8 |  |
+| 8 | **exodia3000** | **7** | 1 | Toyohime- | 4 |  |
 | 1 | **joseee-** | **7** | 0 | Vigne Tsukinose | 3 | WBD |
 
 #### Semifinals and Loser's Bracket Round 1
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTOVn9X9r6DT6XxvK0-gwvIvsx_pomDt6xzTcucbqTsU2ID5deCtRox8BN-YIqGZ17tJ-y1T5Xywoys/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | :-- | :-: | :-: | --: | :-: | :-- |
-| 8 | **exodia3000** | **6** | 0 | windrush123 | 5 | |
+| 8 | **exodia3000** | **6** | 0 | windrush123 | 5 |  |
 | 2 | **MapleSyrup-** | **6** | 0 | nyx- | 6 | WBD |
-| 1 | **joseee-** | **6** | 0 | Toyohime- | 4 | |
-| 7 | Mk3605 | 2 | **6** | **Vigne Tsukinose** | 3 | |
+| 1 | **joseee-** | **6** | 0 | Toyohime- | 4 |  |
+| 7 | Mk3605 | 2 | **6** | **Vigne Tsukinose** | 3 |  |
 
 #### Quarterfinals
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRFEzcUVlpMMYroSYsEwsiaop5BnH_1JCUZGPk-EALl4BxAWL0FyIbISaio8QdCEMi1A_2HRxOiX-gl/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | :-- | :-: | :-: | --: | :-: |--|
-| 1 | **joseee-** | **5** | 2 | exodia3000 | 8 | |
-| 4 | **Toyohime-** | **5** | 4 | windrush123 | 5 | |
-| 2 | MapleSyrup- | 1 | **5** | **Mk3605** | 7 | |
-| 3 | **Vigne Tsukinose** | **5** | 1 | nyx- | 6 | |
+| 1 | **joseee-** | **5** | 2 | exodia3000 | 8 |  |
+| 4 | **Toyohime-** | **5** | 4 | windrush123 | 5 |  |
+| 2 | MapleSyrup- | 1 | **5** | **Mk3605** | 7 |  |
+| 3 | **Vigne Tsukinose** | **5** | 1 | nyx- | 6 |  |
 
 #### Group Stage
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-wQqRLZwP2JtjMxRgTv455loKhumRDKNMbAT0GAUEIsI42MRykzbroO_mLV2ZNGMiGvPRGdaH7Fup/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | :-- | :-: | :-: | --: | :-: | :-- |
 | 4 | **nyx-** | **4** | 0 | Nelvin\_27 | 7 | WBD |
-| 4 | nyx- | 3 | **4** | **Vigne Tsukinose** | 12 | |
-| 4 | **nyx-** | **4** | 3 | GTXCZE | 14 | |
+| 4 | nyx- | 3 | **4** | **Vigne Tsukinose** | 12 |  |
+| 4 | **nyx-** | **4** | 3 | GTXCZE | 14 |  |
 | 7 | Nelvin\_27 | 0 | **4** | **Vigne Tsukinose** | 12 | WBD |
 | 7 | Nelvin\_27 | 0 | **4** | **GTXCZE** | 14 | WBD |
-| 12 | **Vigne Tsukinose** | **4** | 1 | GTXCZE | 14 | |
-| 2 | **MapleSyrup-** | **4** | 3 | TheArge | 5 | |
-| 2 | **MapleSyrup-** | **4** | 1 | Trainer- | 9 | |
-| 2 | **MapleSyrup-** | **4** | 0 | exodia3000 | 13 | |
+| 12 | **Vigne Tsukinose** | **4** | 1 | GTXCZE | 14 |  |
+| 2 | **MapleSyrup-** | **4** | 3 | TheArge | 5 |  |
+| 2 | **MapleSyrup-** | **4** | 1 | Trainer- | 9 |  |
+| 2 | **MapleSyrup-** | **4** | 0 | exodia3000 | 13 |  |
 | 5 | **TheArge** | **4** | 0 | Trainer- | 9 | WBD |
 | 5 | TheArge | 0 | **4** | **exodia3000** | 13 | WBD |
-| 9 | Trainer- | 3 | **4** | **exodia3000** | 13 | |
-| 3 | **windrush123** | **4** | 0 | FeveredNickel | 8 | |
-| 3 | windrush123 | 3 | **4** | **Toyohime-** | 11 | |
-| 3 | **windrush123** | **4** | 0 | Baltz | 15 | |
-| 8 | FeveredNickel | 1 | **4** | **Toyohime-** | 11 | |
-| 8 | FeveredNickel | 1 | **4** | **Baltz** | 15 | |
-| 11 | **Toyohime-** | **4** | 2 | Baltz | 15 | |
-| 1 | **joseee-** | **4** | 0 | Mk3605 | 6 | |
+| 9 | Trainer- | 3 | **4** | **exodia3000** | 13 |  |
+| 3 | **windrush123** | **4** | 0 | FeveredNickel | 8 |  |
+| 3 | windrush123 | 3 | **4** | **Toyohime-** | 11 |  |
+| 3 | **windrush123** | **4** | 0 | Baltz | 15 |  |
+| 8 | FeveredNickel | 1 | **4** | **Toyohime-** | 11 |  |
+| 8 | FeveredNickel | 1 | **4** | **Baltz** | 15 |  |
+| 11 | **Toyohime-** | **4** | 2 | Baltz | 15 |  |
+| 1 | **joseee-** | **4** | 0 | Mk3605 | 6 |  |
 | 1 | **joseee-** | **4** | 0 | \_Shirayukihime\_ | 10 | WBD |
-| 1 | **joseee-** | **4** | 0 | Mentai Cosmic | 17 | |
+| 1 | **joseee-** | **4** | 0 | Mentai Cosmic | 17 |  |
 | 6 | **Mk3605** | **4** | 0 | \_Shirayukihime\_ | 10 | WBD |
-| 6 | **Mk3605** | **4** | 1 | Mentai Cosmic | 17 | |
+| 6 | **Mk3605** | **4** | 1 | Mentai Cosmic | 17 |  |
 | 10 | **\_Shirayukihime\_** | **4** | 0 | Mentai Cosmic | 17 | WBD |
 
 #### Post-qualification Play-offs
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vT5UEDpcOlrZaEhANSMyb5CiDN72HXwNCrhhwqRUk6WFr0tXTHyol1aPywoxmGqls_usg8bXP8TMa4K/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | :-- | :-: | :-: | --: | :-: | :-- |
 | 16 | inverselina | 0 | **4** | **Mentai Cosmic** | 17 | WBD |
-| 15 | **Baltz** | **4** | 0 | \[\_blank-\] | 18 | |
-| 14 | **GTXCZE** | **4** | 0 | EikiShiki60 | 19 | |
-| 13 | **exodia3000** | **4** | 1 | Kaleiodo | 20 | |
-| 12 | **Vigne Tsukinose** | **4** | 1 | takedown411 | 21 | |
-| 11 | **Toyohime-** | **4** | 0 | Chez | 22 | |
-| 10 | **\_Shirayukihime\_** | **4** | 0 | Hezekiah- | 23 | |
-| 9 | **Trainer-** | **4** | 0 | Victoria Artois | 24 | |
+| 15 | **Baltz** | **4** | 0 | \[\_blank-\] | 18 |  |
+| 14 | **GTXCZE** | **4** | 0 | EikiShiki60 | 19 |  |
+| 13 | **exodia3000** | **4** | 1 | Kaleiodo | 20 |  |
+| 12 | **Vigne Tsukinose** | **4** | 1 | takedown411 | 21 |  |
+| 11 | **Toyohime-** | **4** | 0 | Chez | 22 |  |
+| 10 | **\_Shirayukihime\_** | **4** | 0 | Hezekiah- | 23 |  |
+| 9 | **Trainer-** | **4** | 0 | Victoria Artois | 24 |  |
 | 28 | szc19 | 0 | **4** | **Inoariusu** | 29 | WBD |
 | 27 | **Batujitsu** | **4** | 0 | lord_waker | 30 | WBD |
-| 26 | Lordie09 | 2 | **4** | **vincent4399** | 31 | |
-| 25 | **Otaku_Gamer_INF** | **4** | 3 | Altertis | 32 | |
-| 5 | **TheArge** | **4** | 1 | Inoariusu | 29 | |
-| 6 | **Mk3605** | **4** | 0 | Batujitsu | 27 | |
-| 7 | **Nelvin\_27** | **4** | 2 | vincent4399 | 31 | |
-| 8 | **FeveredNickel** | **4** | 2 | Otaku\_Gamer\_INF | 25 | |
+| 26 | Lordie09 | 2 | **4** | **vincent4399** | 31 |  |
+| 25 | **Otaku_Gamer_INF** | **4** | 3 | Altertis | 32 |  |
+| 5 | **TheArge** | **4** | 1 | Inoariusu | 29 |  |
+| 6 | **Mk3605** | **4** | 0 | Batujitsu | 27 |  |
+| 7 | **Nelvin\_27** | **4** | 2 | vincent4399 | 31 |  |
+| 8 | **FeveredNickel** | **4** | 2 | Otaku\_Gamer\_INF | 25 |  |
 
 #### Qualifiers
 
@@ -1007,40 +1007,40 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR4mnYFhlk2JVzBkuX8RSQALKapivzDKcSUHO8cLek9GirnEQIYvOvbVOrlCr3eYStHA7PdJv2S8C7N/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | :-- | :-: | :-: | --: | --: |--|
-| 1 | MapleSyrup | 0 | **7** | **Vigne Tsukinose** | 3 | |
-| 2 | **cieloday05** | **7** | 1 | Vigne Tsukinose | 3 | |
+| 1 | MapleSyrup | 0 | **7** | **Vigne Tsukinose** | 3 |  |
+| 2 | **cieloday05** | **7** | 1 | Vigne Tsukinose | 3 |  |
 
 #### Finals Week 1
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSplxfSSoM7zta57Xa_IlqoEqHZb8lZq3RVa0yVaD5SsfLaJfAcEYetuHkQAqgxgCH6ETJkX-DaVmL1/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | :-- | :-: | :-: | --: | :-: | :-- |
 | 5 | **LackPoints** | **7** | 0 | joseee- | 6 | WBD |
 | 3 | **Vigne Tsukinose** | **7** | 0 | - Kura - | 4 | WBD |
-| 3 | **Vigne Tsukinose** | **7** | 0 | LackPoints | 5 | |
-| 1 | MapleSyrup- | 0 | **7** | **cieloday05** | 2 | |
+| 3 | **Vigne Tsukinose** | **7** | 0 | LackPoints | 5 |  |
+| 1 | MapleSyrup- | 0 | **7** | **cieloday05** | 2 |  |
 
 #### Semifinals and Loser's Bracket Round 1
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vS08AT5AhFzU2mnfm5wQwIHo_tkO2sjiME79G3KqdCVPRbI1qL_7P78ahehfhZE5k1GJc-fwa5zZ85U/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | :-- | :-: | :-: | --: | :-: | :-- |
 | 8 | nyx- | 0 | **6** | **- Kura -** | 4 | WBD |
 | 7 | Tots | 0 | **6** | **joseee-** | 6 | WBD |
-| 1 | **MapleSyrup-** | **6** | 0 | LackPoints | 5 | |
-| 2 | **cieloday05** | **6** | 0 | Vigne Tsukinose | 3 | |
+| 1 | **MapleSyrup-** | **6** | 0 | LackPoints | 5 |  |
+| 2 | **cieloday05** | **6** | 0 | Vigne Tsukinose | 3 |  |
 
 #### Quarterfinals
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTvCCksLFHwERSX-QL_ICRv8SptBrnlt-bjzlxQgk40gADlWlPWV9RDIOAisFC83wOseSvTkuHirYHY/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | :-- | :-: | :-: | --: | :-: | :-- |
-| 1 | **MapleSyrup-** | **5** | 0 | nyx- | 8 | |
+| 1 | **MapleSyrup-** | **5** | 0 | nyx- | 8 |  |
 | 4 | - Kura - | 0 | **5** | **LackPoints** | 5 | WBD |
 | 2 | **cieloday05** | **5** | 0 | Tots | 7 | WBD |
 | 3 | **Vigne Tsukinose** | **5** | 0 | joseee- | 6 | WBD |
@@ -1049,29 +1049,29 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRTkPkZCdLOxPrTGnbO7exfnZ9JfCy4EACUbBZa1L_n6MmJK45LL7-dWw1NdAw6xK1j-w7l7pZ83dSl/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | :-- | :-: | :-: | --: | :-: | :-- |
-| 3 | **cieloday05** | **4** | 1 | joseee- | 6 | |
+| 3 | **cieloday05** | **4** | 1 | joseee- | 6 |  |
 | 3 | **cieloday05** | **4** | 0 | FeveredNickel | 9 | WBD |
 | 3 | **cieloday05** | **4** | 0 | DrawdeX | 14 | WBD |
-| 6 | **joseee-** | **4** | 0 | FeveredNickel | 9 | |
-| 6 | **joseee-** | **4** | 0 | DrawdeX | 14 | |
+| 6 | **joseee-** | **4** | 0 | FeveredNickel | 9 |  |
+| 6 | **joseee-** | **4** | 0 | DrawdeX | 14 |  |
 | 9 | **FeveredNickel** | **4** | 0 | DrawdeX | 14 | WBD |
-| 2 | **- Kura -** | **4** | 2 | LackPoints | 5 | |
-| 2 | **- Kura -** | **4** | 1 | windrush123 | 12 | |
+| 2 | **- Kura -** | **4** | 2 | LackPoints | 5 |  |
+| 2 | **- Kura -** | **4** | 1 | windrush123 | 12 |  |
 | 2 | **- Kura -** | **4** | 0 | Chez | 13 | WBD |
-| 5 | **LackPoints** | **4** | 0 | windrush123 | 12 | |
+| 5 | **LackPoints** | **4** | 0 | windrush123 | 12 |  |
 | 5 | **LackPoints** | **4** | 0 | Chez | 13 | WBD |
 | 12 | **windrush123** | **4** | 0 | Chez | 13 | WBD |
-| 1 | **MapleSyrup-** | **4** | 1 | Tots | 8 | |
+| 1 | **MapleSyrup-** | **4** | 1 | Tots | 8 |  |
 | 1 | **MapleSyrup-** | **4** | 0 | \_Shirayukihime\_ | 11 | WBD |
-| 1 | **MapleSyrup-** | **4** | 0 | - Aries - | 15 | |
+| 1 | **MapleSyrup-** | **4** | 0 | - Aries - | 15 |  |
 | 8 | **Tots** | **4** | 0 | \_Shirayukihime\_ | 11 | WBD |
 | 8 | **Tots** | **4** | 0 | - Aries - | 15 | WBD |
 | 11 | **\_Shirayukihime\_** | **4** | 0 | - Aries - | 15 | WBD |
-| 4 | **Vigne Tsukinose** | **4** | 1 | fer789 | 7 | |
-| 4 | **Vigne Tsukinose** | **4** | 0 | nyx- | 10 | |
-| 7 | fer789 | 2 | **4** | **nyx-** | 10 | |
+| 4 | **Vigne Tsukinose** | **4** | 1 | fer789 | 7 |  |
+| 4 | **Vigne Tsukinose** | **4** | 0 | nyx- | 10 |  |
+| 7 | fer789 | 2 | **4** | **nyx-** | 10 |  |
 
 #### Qualifiers
 
