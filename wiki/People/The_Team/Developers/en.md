@@ -50,9 +50,9 @@ The osu! development effort is lead by ![][flag_AU] **[peppy](https://osu.ppy.sh
 - ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397)
 
 [flag___]: /wiki/shared/flag/__.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
