@@ -80,7 +80,7 @@
 | ![][flag_ID] 印度尼西亚 | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] |
 | ![][flag_IL] 以色列 | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
 | ![][flag_IT] 意大利 | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_JP] 日本 | ![][true] | ![][true] (2nd) | ![][true] (2nd) | ![][true] | ![][true]  (1st) | ![][true] | ![][false] |
+| ![][flag_JP] 日本 | ![][true] | ![][true] (2nd) | ![][true] (2nd) | ![][true] | ![][true] (1st) | ![][true] | ![][false] |
 | ![][flag_LV] 拉脱维亚 | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] |
 | ![][flag_LT] 立陶宛 | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] |
 | ![][flag_MO] 澳门 | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] |

@@ -45,7 +45,7 @@ This also serves as the third edition of the annual **osu!mania Philippines Summ
 | --: | :-- |
 | Registration Phase | 2018-04-01/2018-04-15 |
 | Qualifiers (4K) | 2018-04-28/2018-04-29 |
-| Play-offs  (4K) | 2018-05-05/2018-05-06 |
+| Play-offs (4K) | 2018-05-05/2018-05-06 |
 | Qualifiers (7K) | 2018-05-05/2018-05-06 |
 | Group Stage (Week 1) | 2018-05-12/2018-05-13 |
 | Group Stage (Week 2) | 2018-05-19/2018-05-20 |

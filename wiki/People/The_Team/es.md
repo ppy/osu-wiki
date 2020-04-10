@@ -44,7 +44,7 @@ Las personas que nombradas a continuación son el núcleo del equipo de osu!, y 
 | ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) |Equipo de desarrollo osu!, deslizadores mm |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | Desarrollo osu! iPhone |
 | ![][flag_US] Phil | Trabajador de diseño del foro |
-| ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427)  ([Sarumaru@deviantART.com](https://sarumaru.deviantart.com/)) | Diseñador original del concepto y el artwork de pippi |
+| ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) ([Sarumaru@deviantART.com](https://sarumaru.deviantart.com/)) | Diseñador original del concepto y el artwork de pippi |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Administrador y lider temprano de la comunidad, Meeting minutes, contribuciones a preguntas frecuentes |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | Equipo de desarrollo osu!, Desarrollador del modo osu!mania |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Profesor de [osu!academy](/wiki/osu!academy), Diseñador de medios/personajes |

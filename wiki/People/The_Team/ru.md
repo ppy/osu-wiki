@@ -38,7 +38,7 @@ outdated: true
 | [mm201](https://osu.ppy.sh/users/30655) | Разработчик osu!, ~ с л а й д е р ы ~ |
 | [nuudles](https://osu.ppy.sh/users/21312) | Автор порта osu! на iPhone |
 | Phil | Дизайн форума |
-| [Sarumaru](https://osu.ppy.sh/users/9427)  ([Sarumaru@deviantART.com](http://sarumaru.deviantart.com/)) | Оригинальный концепт pippi и арты |
+| [Sarumaru](https://osu.ppy.sh/users/9427) ([Sarumaru@deviantART.com](http://sarumaru.deviantart.com/)) | Оригинальный концепт pippi и арты |
 | [Sinistro](https://osu.ppy.sh/users/5530) | Организатор встреч, Значительный вклад в FAQ |
 | [woc2006](https://osu.ppy.sh/users/1105845) | Разработчик osu!, Разработчик osu!mania |
 

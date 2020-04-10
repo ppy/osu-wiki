@@ -275,40 +275,40 @@ outdated: true
 
 | Team A | Scores | Team B | History |
 | :-- | :-: | --: | :-- |
-| ![][flag_AT] 오스트리아 | 0     - **4** | **일본** ![][flag_JP] | [#1](https://osu.ppy.sh/community/matches/6655525) |
+| ![][flag_AT] 오스트리아 | 0 - **4** | **일본** ![][flag_JP] | [#1](https://osu.ppy.sh/community/matches/6655525) |
 | ![][flag_KR] **한국** | **4** - 0 | 볼리비아 ![][flag_BO] | [#1](https://osu.ppy.sh/community/matches/6655395) |
-| ![][flag_CN] 중국 | 0     - **4** | **우루과이** ![][flag_UY] | Win by default |
-| ![][flag_TH] 타이 | 0     - **4** | **미국** ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/6653614) |
-| ![][flag_GB] 영국 | 0     - **4** | **타이** ![][flag_TH] | [#1](https://osu.ppy.sh/community/matches/6657824) |
+| ![][flag_CN] 중국 | 0 - **4** | **우루과이** ![][flag_UY] | Win by default |
+| ![][flag_TH] 타이 | 0 - **4** | **미국** ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/6653614) |
+| ![][flag_GB] 영국 | 0 - **4** | **타이** ![][flag_TH] | [#1](https://osu.ppy.sh/community/matches/6657824) |
 | ![][flag_TW] **타이완** | **4** - 2 | 싱가포르 ![][flag_SG] | [#1](https://osu.ppy.sh/community/matches/6657864) |
-| ![][flag_AR] 아르헨티나 | 0     - **4** | **인도네시아** ![][flag_ID] | [#1](https://osu.ppy.sh/community/matches/6657850) |
+| ![][flag_AR] 아르헨티나 | 0 - **4** | **인도네시아** ![][flag_ID] | [#1](https://osu.ppy.sh/community/matches/6657850) |
 | ![][flag_PL] **폴란드** | **4** - 0 | 에스토니아 ![][flag_EE] | [#1](https://osu.ppy.sh/community/matches/6657969) |
-| ![][flag_DK] 덴마크 | 0     - **4** | **스웨덴** ![][flag_SE] | [#1](https://osu.ppy.sh/community/matches/6658911) |
+| ![][flag_DK] 덴마크 | 0 - **4** | **스웨덴** ![][flag_SE] | [#1](https://osu.ppy.sh/community/matches/6658911) |
 | ![][flag_NL] **네덜란드** | **4** - 2 | 노르웨이 ![][flag_NO] | [#1](https://osu.ppy.sh/community/matches/6658927) |
 | ![][flag_DE] **독일** | **4** - 0 | 볼리비아 ![][flag_BO] | Win by default |
 | ![][flag_ES] **스페인** | **4** - 0 | 핀란드 ![][flag_FI] | [#1](https://osu.ppy.sh/community/matches/6659024) |
 | ![][flag_DE] **독일** | **4** - 1 | 캐나다 ![][flag_CA] | [#1](https://osu.ppy.sh/community/matches/6662031) |
 | ![][flag_ES] **스페인** | **4** - 0 | 크로아티아 ![][flag_HR] | [#1](https://osu.ppy.sh/community/matches/6661946) |
-| ![][flag_MX] 멕시코 | 1     - **4** | **스웨덴** ![][flag_SE] | [#1](https://osu.ppy.sh/community/matches/6662038) |
-| ![][flag_AR] 아르헨티나 | 0     - **4** | **우루과이** ![][flag_UY] | [#1](https://osu.ppy.sh/community/matches/6662109) |
-| ![][flag_GB] 영국 | 0     - **4** | **미국** ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/6667279) |
+| ![][flag_MX] 멕시코 | 1 - **4** | **스웨덴** ![][flag_SE] | [#1](https://osu.ppy.sh/community/matches/6662038) |
+| ![][flag_AR] 아르헨티나 | 0 - **4** | **우루과이** ![][flag_UY] | [#1](https://osu.ppy.sh/community/matches/6662109) |
+| ![][flag_GB] 영국 | 0 - **4** | **미국** ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/6667279) |
 | ![][flag_MX] **멕시코** | **4** - 0 | 뉴질랜드 ![][flag_NZ] | [#1](https://osu.ppy.sh/community/matches/6667239) |
 | ![][flag_CA] **캐나다** | **4** - 0 | 볼리비아 ![][flag_BO] | Win by default |
 | ![][flag_KR] **한국** | **4** - 2 | 독일 ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/6680444) |
 | ![][flag_CN] **중국** | **4** - 3 | 인도네시아 ![][flag_ID] | [#1](https://osu.ppy.sh/community/matches/6680664) |
-| ![][flag_NZ] 뉴질랜드 | 0     - **4** | **스웨덴** ![][flag_SE] | Win by default |
-| ![][flag_MY] 말레이시아 | 1     - **4** | **일본** ![][flag_JP] | [#1](https://osu.ppy.sh/community/matches/6681641) |
-| ![][flag_DK] 덴마크 | 0     - 0 | 뉴질랜드 ![][flag_NZ] | No match |
+| ![][flag_NZ] 뉴질랜드 | 0 - **4** | **스웨덴** ![][flag_SE] | Win by default |
+| ![][flag_MY] 말레이시아 | 1 - **4** | **일본** ![][flag_JP] | [#1](https://osu.ppy.sh/community/matches/6681641) |
+| ![][flag_DK] 덴마크 | 0 - 0 | 뉴질랜드 ![][flag_NZ] | No match |
 | ![][flag_TW] **타이완** | **4** - 0 | 네덜란드 ![][flag_NL] | [#1](https://osu.ppy.sh/community/matches/6681780) |
 | ![][flag_ID] **인도네시아** | **4** - 0 | 우루과이 ![][flag_UY] | [#1](https://osu.ppy.sh/community/matches/6682737) |
 | ![][flag_HK] **홍콩** | **4** - 3 | 폴란드 ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/6682744) |
 | ![][flag_SG] **싱가포르** | **4** - 2 | 노르웨이 ![][flag_NO] | [#1](https://osu.ppy.sh/community/matches/6682800) |
 | ![][flag_TW] **타이완** | **4** - 2 | 노르웨이 ![][flag_NO] | [#1](https://osu.ppy.sh/community/matches/6683945) |
-| ![][flag_AT] 오스트리아 | 0     - **4** | **말레이시아** ![][flag_MY] | [#1](https://osu.ppy.sh/community/matches/6683957) |
-| ![][flag_AR] 아르헨티나 | 0     - **4** | **캐나다** ![][flag_CA] | Win by default |
+| ![][flag_AT] 오스트리아 | 0 - **4** | **말레이시아** ![][flag_MY] | [#1](https://osu.ppy.sh/community/matches/6683957) |
+| ![][flag_AR] 아르헨티나 | 0 - **4** | **캐나다** ![][flag_CA] | Win by default |
 | ![][flag_KR] **한국** | **4** - 0 | 캐나다 ![][flag_CA] | Win by default |
 | ![][flag_FI] **핀란드** | **4** - 0 | 크로아티아 ![][flag_HR] | [#1](https://osu.ppy.sh/community/matches/6685074) |
-| ![][flag_NL] 네덜란드 | 1     - **4** | **싱가포르** ![][flag_SG] | [#1](https://osu.ppy.sh/community/matches/6685076) |
+| ![][flag_NL] 네덜란드 | 1 - **4** | **싱가포르** ![][flag_SG] | [#1](https://osu.ppy.sh/community/matches/6685076) |
 | ![][flag_MX] **멕시코** | **4** - 0 | 덴마크 ![][flag_DK] | Win by default |
 | ![][flag_HK] **홍콩** | **4** - 0 | 에스토니아 ![][flag_EE] | [#1](https://osu.ppy.sh/community/matches/6685082) |
 
@@ -316,23 +316,23 @@ outdated: true
 
 | Team A | Scores | Team B | History |
 | :-- | :-: | --: | :-- |
-| ![][flag_GB] 영국 | 0     - **5** | **핀란드**   ![][flag_FI] | [#1](https://osu.ppy.sh/community/matches/6808334) |
-| ![][flag_SE] **스웨덴** | **5** - 0 | 말레이시아      ![][flag_MY] | [#1](https://osu.ppy.sh/community/matches/6808918) |
-| ![][flag_ES] 스페인 | 2     - **5** | **싱가포르** ![][flag_SG] | [#1](https://osu.ppy.sh/community/matches/6810811) |
-| ![][flag_ID] **인도네시아** | **5** - 0 | 타이           ![][flag_TH] | [#1](https://osu.ppy.sh/community/matches/6835441) |
-| ![][flag_KR] **한국** | **5** - 1 | 폴란드        ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/6837116) |
-| ![][flag_HK] 홍콩 | 1     - **5** | **독일**   ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/6838919) |
-| ![][flag_JP] **일본** | **5** - 1 | 멕시코        ![][flag_MX] | [#1](https://osu.ppy.sh/community/matches/6840792) |
-| ![][flag_US] **미국** | **5** - 4 | 우루과이       ![][flag_UY] | [#1](https://osu.ppy.sh/community/matches/6842138) |
+| ![][flag_GB] 영국 | 0 - **5** | **핀란드** ![][flag_FI] | [#1](https://osu.ppy.sh/community/matches/6808334) |
+| ![][flag_SE] **스웨덴** | **5** - 0 | 말레이시아 ![][flag_MY] | [#1](https://osu.ppy.sh/community/matches/6808918) |
+| ![][flag_ES] 스페인 | 2 - **5** | **싱가포르** ![][flag_SG] | [#1](https://osu.ppy.sh/community/matches/6810811) |
+| ![][flag_ID] **인도네시아** | **5** - 0 | 타이 ![][flag_TH] | [#1](https://osu.ppy.sh/community/matches/6835441) |
+| ![][flag_KR] **한국** | **5** - 1 | 폴란드 ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/6837116) |
+| ![][flag_HK] 홍콩 | 1 - **5** | **독일** ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/6838919) |
+| ![][flag_JP] **일본** | **5** - 1 | 멕시코 ![][flag_MX] | [#1](https://osu.ppy.sh/community/matches/6840792) |
+| ![][flag_US] **미국** | **5** - 4 | 우루과이 ![][flag_UY] | [#1](https://osu.ppy.sh/community/matches/6842138) |
 
 ## 8강
 
 | Team A | Scores | Team B | History |
 | :-- | :-: | --: | :-- |
-| ![][flag_FI] 핀란드 | 4     - **5** | **일본**   ![][flag_JP] | [#1](https://osu.ppy.sh/community/matches/6972405) |
-| ![][flag_KR] **한국** | **5** - 2 | 인도네시아   ![][flag_ID] | [#1](https://osu.ppy.sh/community/matches/6974337) |
-| ![][flag_SE] **스웨덴** | **5** - 4 | 싱가포르   ![][flag_SG] | [#1](https://osu.ppy.sh/community/matches/6975640) |
-| ![][flag_US] 미국 | 1     - **5** | **독일** ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/6977532) |
+| ![][flag_FI] 핀란드 | 4 - **5** | **일본** ![][flag_JP] | [#1](https://osu.ppy.sh/community/matches/6972405) |
+| ![][flag_KR] **한국** | **5** - 2 | 인도네시아 ![][flag_ID] | [#1](https://osu.ppy.sh/community/matches/6974337) |
+| ![][flag_SE] **스웨덴** | **5** - 4 | 싱가포르 ![][flag_SG] | [#1](https://osu.ppy.sh/community/matches/6975640) |
+| ![][flag_US] 미국 | 1 - **5** | **독일** ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/6977532) |
 
 ------------------------------------------------------------------------
 

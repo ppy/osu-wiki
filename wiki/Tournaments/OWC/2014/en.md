@@ -273,14 +273,14 @@ The osu! World Cup 2014 was run by various community members by distributing the
 | **Japan** ![][flag_JP]| **6** | 0|![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/10950205) |
 | **South Korea** ![][flag_KR]| **6** | 1 |![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/10954577) |
 | South Korea ![][flag_KR]| 5 | **6** |![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/10955976) |
-| Germany  ![][flag_DE]| 3 | **6** |![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/10966299) |
+| Germany ![][flag_DE]| 3 | **6** |![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/10966299) |
 
 ### Semifinals
 
 | Saturday, 2014-11-29 | | | | |
 | --: | :-: | :-: | :-- | :-- |
 | Russian Federation ![][flag_RU] | 5 | **6** |![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/10799208) |
-| **Japan**  ![][flag_JP] | **6** | 0|![][flag_UA] Ukraine | [#1](https://osu.ppy.sh/community/matches/10800808) |
+| **Japan** ![][flag_JP] | **6** | 0|![][flag_UA] Ukraine | [#1](https://osu.ppy.sh/community/matches/10800808) |
 | Sweden ![][flag_SE]| 3 | **6** |![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/10801986) |
 | **Netherlands** ![][flag_NL] | **6** | 0|![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/10803221) |
 
@@ -297,14 +297,14 @@ The osu! World Cup 2014 was run by various community members by distributing the
 | --: | :-: | :-: | :-- | :-- |
 | **Russian Federation** ![][flag_RU] | **5** | 1|![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/10635177) |
 | **Taiwan** ![][flag_TW]| **5** | 2|![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/10636683) |
-| France  ![][flag_FR]| 1 | **5** |![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/10637580) |
+| France ![][flag_FR]| 1 | **5** |![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/10637580) |
 | Argentina ![][flag_AR]| 0 | **5** |![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/10638992) |
 
 | Sunday, 2014-11-23| | | | |
 | --: | :-: | :-: | :-- | :-- |
 | **Poland** ![][flag_PL] | **5** | 2|![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/10669681) |
 | **Germany** ![][flag_DE]| **5** | 4|![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/10671115) |
-| Ukraine  ![][flag_UA] | 0| **5** |![][flag_AT] **Austria** | [#1](https://osu.ppy.sh/community/matches/10672689) |
+| Ukraine ![][flag_UA] | 0| **5** |![][flag_AT] **Austria** | [#1](https://osu.ppy.sh/community/matches/10672689) |
 | **United States** ![][flag_US] | **5** | 4|![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/10674065) |
 
 ### Round of 16
@@ -331,7 +331,7 @@ The osu! World Cup 2014 was run by various community members by distributing the
 | Hong Kong ![][flag_HK] | 0| **4** |![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/10317030) |
 | Singapore ![][flag_SG] | 3| **4** |![][flag_FI] **Finland** | [#1](https://osu.ppy.sh/community/matches/10318242) |
 | Denmark ![][flag_DK]| 1| **4** |![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/10318251) |
-| Portugal  ![][flag_PT] | 0| **4** |![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/10318259) |
+| Portugal ![][flag_PT] | 0| **4** |![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/10318259) |
 | **Argentina** ![][flag_AR] | **4** | 3|![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/10319701) |
 | Hong Kong ![][flag_HK] | 0| **4** |![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/10319710) |
 | **Denmark** ![][flag_DK] | **4** | 1|![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/10321204) |
@@ -339,12 +339,12 @@ The osu! World Cup 2014 was run by various community members by distributing the
 | Portugal ![][flag_PT] | 0| **4** |![][flag_IT] **Italy** | [#1](https://osu.ppy.sh/community/matches/10321241) |
 | Finland ![][flag_FI]| 1| **4** |![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/10328581) |
 | Lithuania ![][flag_LT] | 1| **4** |![][flag_NO] **Norway** | [#1](https://osu.ppy.sh/community/matches/10328584) |
-| Canada  ![][flag_CA] | 0| **4** |![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/10328588) |
+| Canada ![][flag_CA] | 0| **4** |![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/10328588) |
 | Chile ![][flag_CL]| 1| **4** |![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/10330980) |
 | Canada ![][flag_CA]| 2| **4** |![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/10330997) |
 | **Ukraine** ![][flag_UA] | **4** | 2|![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/10331007) |
 | Finland ![][flag_FI]| 0| **4** |![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/10331027) |
-| Argentina  ![][flag_AR] | 3| **4** |![][flag_AT] **Austria** | [#1](https://osu.ppy.sh/community/matches/10332923) |
+| Argentina ![][flag_AR] | 3| **4** |![][flag_AT] **Austria** | [#1](https://osu.ppy.sh/community/matches/10332923) |
 | Mexico ![][flag_MX]| 0| **4** |![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/10332927) |
 | Norway ![][flag_NO]| 1| **4** |![][flag_SE] **Sweden** | [#1](https://osu.ppy.sh/community/matches/10332930) |
 | Italy ![][flag_IT] | 3| **4** |![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/10332931) |
@@ -359,20 +359,20 @@ The osu! World Cup 2014 was run by various community members by distributing the
 | New Zealand ![][flag_NZ]| 0| **4** |![][flag_AT] **Austria** | [#1](https://osu.ppy.sh/community/matches/10348353) |
 | Indonesia ![][flag_ID]| 2| **4** |![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/10348356) |
 | South Korea ![][flag_KR]| 3| **4** |![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/10349347) |
-| Brazil  ![][flag_BR] | 0| **4** |![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/10349350) |
+| Brazil ![][flag_BR] | 0| **4** |![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/10349350) |
 | **France** ![][flag_FR]| **4** | 0|![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/10350503) |
 | Singapore ![][flag_SG]| 0| **4** |![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/10350506) |
 | Lithuania ![][flag_LT] | 2| **4** |![][flag_SE] **Sweden** | [#1](https://osu.ppy.sh/community/matches/10350508) |
 | Malaysia ![][flag_MY]| 2| **4** |![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/10350512) |
 | Portugal ![][flag_PT]| 0| **4** |![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/10352331) |
-| Italy  ![][flag_IT] | 2| **4** |![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/10352168) |
+| Italy ![][flag_IT] | 2| **4** |![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/10352168) |
 | Ukraine ![][flag_UA] | 1| **4** |![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/10352111) |
 | Philippines ![][flag_PH] | 0| **4** |![][flag_AT] **Austria** | [#1](https://osu.ppy.sh/community/matches/10352118) |
 | Sweden ![][flag_SE] | 1| **4** |![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/10353334) |
 | **Indonesia** ![][flag_ID] | **4** | 0|![][flag_CL] Chile | -win by default- |
 | Denmark ![][flag_DK] | 1| **4** |![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/10353345) |
 | **Netherlands** ![][flag_NL]| **4** | 2|![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/10353347) |
-| Mexico  ![][flag_MX] | 2| **4** |![][flag_UA] **Ukraine** | [#1](https://osu.ppy.sh/community/matches/10355079) |
+| Mexico ![][flag_MX] | 2| **4** |![][flag_UA] **Ukraine** | [#1](https://osu.ppy.sh/community/matches/10355079) |
 | Hong Kong ![][flag_HK] | 3| **4** |![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/10355083) |
 | Singapore ![][flag_SG]| 1| **4** |![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/10355087) |
 

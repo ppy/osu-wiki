@@ -307,40 +307,40 @@ La competición ha concluido con el siguiente podio:
 
 | Equipo A | Scores | Equipo B | Historial |
 | :-- | :-: | --: | :-- |
-| ![][flag_AT] Austria | 0     - **4** | **Japón** ![][flag_JP] | [#1](https://osu.ppy.sh/community/matches/6655525) |
+| ![][flag_AT] Austria | 0 - **4** | **Japón** ![][flag_JP] | [#1](https://osu.ppy.sh/community/matches/6655525) |
 | ![][flag_KR] **Corea del Sur** | **4** - 0 | Bolivia ![][flag_BO] | [#1](https://osu.ppy.sh/community/matches/6655395) |
-| ![][flag_CN] China | 0     - **4** | **Uruguay** ![][flag_UY] | Victoria por default |
-| ![][flag_TH] Tailandia | 0     - **4** | **Estados Unidos** ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/6653614) |
-| ![][flag_GB] Reino Unido | 0     - **4** | **Tailandia** ![][flag_TH] | [#1](https://osu.ppy.sh/community/matches/6657824) |
+| ![][flag_CN] China | 0 - **4** | **Uruguay** ![][flag_UY] | Victoria por default |
+| ![][flag_TH] Tailandia | 0 - **4** | **Estados Unidos** ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/6653614) |
+| ![][flag_GB] Reino Unido | 0 - **4** | **Tailandia** ![][flag_TH] | [#1](https://osu.ppy.sh/community/matches/6657824) |
 | ![][flag_TW] **Taiwán** | **4** - 2 | Singapur ![][flag_SG] | [#1](https://osu.ppy.sh/community/matches/6657864) |
-| ![][flag_AR] Argentina | 0     - **4** | **Indonesia** ![][flag_ID] | [#1](https://osu.ppy.sh/community/matches/6657850) |
+| ![][flag_AR] Argentina | 0 - **4** | **Indonesia** ![][flag_ID] | [#1](https://osu.ppy.sh/community/matches/6657850) |
 | ![][flag_PL] **Polonia** | **4** - 0 | Estonia ![][flag_EE] | [#1](https://osu.ppy.sh/community/matches/6657969) |
-| ![][flag_DK] Dinamarca | 0     - **4** | **Suecia** ![][flag_SE] | [#1](https://osu.ppy.sh/community/matches/6658911) |
+| ![][flag_DK] Dinamarca | 0 - **4** | **Suecia** ![][flag_SE] | [#1](https://osu.ppy.sh/community/matches/6658911) |
 | ![][flag_NL] **Países Bajos** | **4** - 2 | Noruega ![][flag_NO] | [#1](https://osu.ppy.sh/community/matches/6658927) |
 | ![][flag_DE] **Alemania** | **4** - 0 | Bolivia ![][flag_BO] | Victoria por default |
 | ![][flag_ES] **España** | **4** - 0 | Finlandia ![][flag_FI] | [#1](https://osu.ppy.sh/community/matches/6659024) |
 | ![][flag_DE] **Alemania** | **4** - 1 | Canadá ![][flag_CA] | [#1](https://osu.ppy.sh/community/matches/6662031) |
 | ![][flag_ES] **España** | **4** - 0 | Croacia ![][flag_HR] | [#1](https://osu.ppy.sh/community/matches/6661946) |
-| ![][flag_MX] México | 1     - **4** | **Suecia** ![][flag_SE] | [#1](https://osu.ppy.sh/community/matches/6662038) |
-| ![][flag_AR] Argentina | 0     - **4** | **Uruguay** ![][flag_UY] | [#1](https://osu.ppy.sh/community/matches/6662109) |
-| ![][flag_GB] Reino Unido | 0     - **4** | **Estados Unidos** ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/6667279) |
+| ![][flag_MX] México | 1 - **4** | **Suecia** ![][flag_SE] | [#1](https://osu.ppy.sh/community/matches/6662038) |
+| ![][flag_AR] Argentina | 0 - **4** | **Uruguay** ![][flag_UY] | [#1](https://osu.ppy.sh/community/matches/6662109) |
+| ![][flag_GB] Reino Unido | 0 - **4** | **Estados Unidos** ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/6667279) |
 | ![][flag_MX] **México** | **4** - 0 | Nueva Zelanda ![][flag_NZ] | [#1](https://osu.ppy.sh/community/matches/6667239) |
 | ![][flag_CA] **Canadá** | **4** - 0 | Bolivia ![][flag_BO] | Victoria por default |
 | ![][flag_KR] **Corea del Sur** | **4** - 2 | Alemania ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/6680444) |
 | ![][flag_CN] **China** | **4** - 3 | Indonesia ![][flag_ID] | [#1](https://osu.ppy.sh/community/matches/6680664) |
-| ![][flag_NZ] Nueva Zelanda | 0     - **4** | **Suecia** ![][flag_SE] | Victoria por default |
-| ![][flag_MY] Malasia | 1     - **4** | **Japón** ![][flag_JP] | [#1](https://osu.ppy.sh/community/matches/6681641) |
-| ![][flag_DK] Dinamarca | 0     - 0 | Nueva Zelanda ![][flag_NZ] | No jugado |
+| ![][flag_NZ] Nueva Zelanda | 0 - **4** | **Suecia** ![][flag_SE] | Victoria por default |
+| ![][flag_MY] Malasia | 1 - **4** | **Japón** ![][flag_JP] | [#1](https://osu.ppy.sh/community/matches/6681641) |
+| ![][flag_DK] Dinamarca | 0 - 0 | Nueva Zelanda ![][flag_NZ] | No jugado |
 | ![][flag_TW] **Taiwán** | **4** - 0 | Países Bajos ![][flag_NL] | [#1](https://osu.ppy.sh/community/matches/6681780) |
 | ![][flag_ID] **Indonesia** | **4** - 0 | Uruguay ![][flag_UY] | [#1](https://osu.ppy.sh/community/matches/6682737) |
 | ![][flag_HK] **Hong Kong** | **4** - 3 | Polonia ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/6682744) |
 | ![][flag_SG] **Singapur** | **4** - 2 | Noruega ![][flag_NO] | [#1](https://osu.ppy.sh/community/matches/6682800) |
 | ![][flag_TW] **Taiwán** | **4** - 2 | Noruega ![][flag_NO] | [#1](https://osu.ppy.sh/community/matches/6683945) |
-| ![][flag_AT] Austria | 0     - **4** | **Malasia** ![][flag_MY] | [#1](https://osu.ppy.sh/community/matches/6683957) |
-| ![][flag_AR] Argentina | 0     - **4** | **Canadá** ![][flag_CA] | Victoria por default |
+| ![][flag_AT] Austria | 0 - **4** | **Malasia** ![][flag_MY] | [#1](https://osu.ppy.sh/community/matches/6683957) |
+| ![][flag_AR] Argentina | 0 - **4** | **Canadá** ![][flag_CA] | Victoria por default |
 | ![][flag_KR] **Corea del Sur** | **4** - 0 | Canadá ![][flag_CA] | Victoria por default |
 | ![][flag_FI] **Finlandia** | **4** - 0 | Croacia ![][flag_HR] | [#1](https://osu.ppy.sh/community/matches/6685074) |
-| ![][flag_NL] Países Bajos | 1     - **4** | **Singapur** ![][flag_SG] | [#1](https://osu.ppy.sh/community/matches/6685076) |
+| ![][flag_NL] Países Bajos | 1 - **4** | **Singapur** ![][flag_SG] | [#1](https://osu.ppy.sh/community/matches/6685076) |
 | ![][flag_MX] **México** | **4** - 0 | Dinamarca ![][flag_DK] | Victoria por default |
 | ![][flag_HK] **Hong Kong** | **4** - 0 | Estonia ![][flag_EE] | [#1](https://osu.ppy.sh/community/matches/6685082) |
 
@@ -348,36 +348,36 @@ La competición ha concluido con el siguiente podio:
 
 | Equipo A | Scores | Equipo B | Historial |
 | :-- | :-: | --: | :-- |
-| ![][flag_GB] Reino Unido | 0     - **5** | **Finlandia**   ![][flag_FI] | [#1](https://osu.ppy.sh/community/matches/6808334) |
-| ![][flag_SE] **Suecia** | **5** - 0 | Malasia      ![][flag_MY] | [#1](https://osu.ppy.sh/community/matches/6808918) |
-| ![][flag_ES] España | 2     - **5** | **Singapur** ![][flag_SG] | [#1](https://osu.ppy.sh/community/matches/6810811) |
-| ![][flag_ID] **Indonesia** | **5** - 0 | Tailandia      ![][flag_TH] | [#1](https://osu.ppy.sh/community/matches/6835441) |
-| ![][flag_KR] **Corea del Sur** | **5** - 1 | Polonia        ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/6837116) |
-| ![][flag_HK] Hong Kong | 1     - **5** | **Alemania**   ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/6838919) |
-| ![][flag_JP] **Japón** | **5** - 1 | México        ![][flag_MX] | [#1](https://osu.ppy.sh/community/matches/6840792) |
-| ![][flag_US] **Estados Unidos** | **5** - 4 | Uruguay       ![][flag_UY] | [#1](https://osu.ppy.sh/community/matches/6842138) |
+| ![][flag_GB] Reino Unido | 0 - **5** | **Finlandia** ![][flag_FI] | [#1](https://osu.ppy.sh/community/matches/6808334) |
+| ![][flag_SE] **Suecia** | **5** - 0 | Malasia ![][flag_MY] | [#1](https://osu.ppy.sh/community/matches/6808918) |
+| ![][flag_ES] España | 2 - **5** | **Singapur** ![][flag_SG] | [#1](https://osu.ppy.sh/community/matches/6810811) |
+| ![][flag_ID] **Indonesia** | **5** - 0 | Tailandia ![][flag_TH] | [#1](https://osu.ppy.sh/community/matches/6835441) |
+| ![][flag_KR] **Corea del Sur** | **5** - 1 | Polonia ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/6837116) |
+| ![][flag_HK] Hong Kong | 1 - **5** | **Alemania** ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/6838919) |
+| ![][flag_JP] **Japón** | **5** - 1 | México ![][flag_MX] | [#1](https://osu.ppy.sh/community/matches/6840792) |
+| ![][flag_US] **Estados Unidos** | **5** - 4 | Uruguay ![][flag_UY] | [#1](https://osu.ppy.sh/community/matches/6842138) |
 
 ### Cuartos de final
 
 | Equipo A | Scores | Equipo B | Historial |
 | :-- | :-: | --: | :-- |
-| ![][flag_FI] Finlandia | 4     - **5** | **Japón**   ![][flag_JP] | [#1](https://osu.ppy.sh/community/matches/6972405) |
-| ![][flag_KR] **Corea del Sur** | **5** - 2 | Indonesia   ![][flag_ID] | [#1](https://osu.ppy.sh/community/matches/6974337) |
-| ![][flag_SE] **Suecia** | **5** - 4 | Singapur   ![][flag_SG] | [#1](https://osu.ppy.sh/community/matches/6975640) |
-| ![][flag_US] Estados Unidos | 1     - **5** | **Alemania** ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/6977532) |
+| ![][flag_FI] Finlandia | 4 - **5** | **Japón** ![][flag_JP] | [#1](https://osu.ppy.sh/community/matches/6972405) |
+| ![][flag_KR] **Corea del Sur** | **5** - 2 | Indonesia ![][flag_ID] | [#1](https://osu.ppy.sh/community/matches/6974337) |
+| ![][flag_SE] **Suecia** | **5** - 4 | Singapur ![][flag_SG] | [#1](https://osu.ppy.sh/community/matches/6975640) |
+| ![][flag_US] Estados Unidos | 1 - **5** | **Alemania** ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/6977532) |
 
 ### Semifinales
 
 | Equipo A | Scores | Equipo B | Historial |
 | :-- | :-: | --: | :-- |
-| ![][flag_SE] Suecia | 2     - **6** | **Corea del Sur** ![][flag_KR] | [#1](https://osu.ppy.sh/community/matches/7127415) |
-| ![][flag_DE] **Alemania** | **6** - 1 | Japón           ![][flag_JP] | [#1](https://osu.ppy.sh/community/matches/7128373) |
+| ![][flag_SE] Suecia | 2 - **6** | **Corea del Sur** ![][flag_KR] | [#1](https://osu.ppy.sh/community/matches/7127415) |
+| ![][flag_DE] **Alemania** | **6** - 1 | Japón ![][flag_JP] | [#1](https://osu.ppy.sh/community/matches/7128373) |
 
 ### Final / Tercer puesto
 
 | Equipo A | Scores | Equipo B | Historial |
 | :-- | :-: | --: | :-- |
-| ![][flag_SE] **Suecia** | **6** - 5 | Japón             ![][flag_JP] | [#1](https://osu.ppy.sh/community/matches/7314303) |
+| ![][flag_SE] **Suecia** | **6** - 5 | Japón ![][flag_JP] | [#1](https://osu.ppy.sh/community/matches/7314303) |
 | ![][flag_DE] Alemania | 3 - **6** | **Corea del Sur** ![][flag_KR] | [#1](https://osu.ppy.sh/community/matches/7317343) |
 
 ------------------------------------------------------------------------

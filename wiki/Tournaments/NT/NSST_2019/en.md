@@ -674,7 +674,7 @@ This competition has come to an end and resulted in the following podium:
 | **fuduhasio** ![][flag_US] | **4** | 0 | ![][flag_FR] Okatsu\_k | [#1](https://osu.ppy.sh/community/matches/51752366) |
 | **Neon Pegasus** ![][flag_US] | **4** | 0 | ![][flag_AR] -Nanahira- | [#1](https://osu.ppy.sh/mp/51752534) |
 | **im a fancy lad** ![][flag_US] | **4** | 1 | ![][flag_US] Tohru | [#1](https://osu.ppy.sh/community/matches/51755478) |
-| Eddie-  ![][flag_CA] | 0 | **4** | ![][flag_AR] **Penguo** | -win by default- |
+| Eddie- ![][flag_CA] | 0 | **4** | ![][flag_AR] **Penguo** | -win by default- |
 
 | Sunday, 2019-05-17 | | | | |
 | --: | :-: | :-: | :-- | :-- |

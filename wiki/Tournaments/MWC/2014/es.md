@@ -47,10 +47,10 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 
 | Equipo A | Equipo B | UTC | Hora Local A | Hora Local B |
 | :-- | :-- | :-- | :-- | :-- |
-| Polanda  ![][flag_PL] | ![][flag_RU] Rusia | **18.00 (6pm)** | 20.00 (8pm) UTC +2 | 22.00 (10pm) UTC +4 |
+| Polanda ![][flag_PL] | ![][flag_RU] Rusia | **18.00 (6pm)** | 20.00 (8pm) UTC +2 | 22.00 (10pm) UTC +4 |
 | Portugal ![][flag_PT] | ![][flag_FR] Francia | **18.00 (6pm)** | 19.00 (7pm) UTC +1 | 20.00 (8pm) UTC +2 |
-| Noruega  ![][flag_NO] | ![][flag_GB] Reino Unido | **19.00 (7pm)** | 21.00 (9pm) UTC +2 | 20.00 (8pm) UTC +1 |
-| Chile    ![][flag_CL] | ![][flag_FR] Francia | **19.00 (7pm)** | 15.00 (3pm) UTC -4 | 21.00 (9pm) UTC +2 |
+| Noruega ![][flag_NO] | ![][flag_GB] Reino Unido | **19.00 (7pm)** | 21.00 (9pm) UTC +2 | 20.00 (8pm) UTC +1 |
+| Chile ![][flag_CL] | ![][flag_FR] Francia | **19.00 (7pm)** | 15.00 (3pm) UTC -4 | 21.00 (9pm) UTC +2 |
 | Alemania ![][flag_DE] | ![][flag_US] Estados Unidos | **20.00 (8pm)** | 22.00 (10pm) UTC +2 | 13.00 (1pm) UTC -7 |
 | Portugal ![][flag_PT] | ![][flag_CL] Chile | **20.00 (8pm)** | 21.00 (9pm) UTC +1 | 16.00 (4pm) UTC -4 |
 
@@ -214,42 +214,42 @@ La **osu!mania World Cup 2014** (***MWC 2014***) es un torneo por países de osu
 | ![][flag_AU] **Australia** | **4** - 0 | Indonesia ![][flag_ID] | [#1](https://osu.ppy.sh/community/matches/8429133) |
 | ![][flag_RU] **Rusia** | **4** - 3 | Nueva Zelanda ![][flag_NZ] | [#1](https://osu.ppy.sh/community/matches/8429172) |
 | ![][flag_JP] **Japón** | **4** - 0 | Nueva Zelanda ![][flag_NZ] | [#1](https://osu.ppy.sh/community/matches/8429927) |
-| ![][flag_RU] Rusia | 0     - **4** | **Malasia** ![][flag_MY] | [#1](https://osu.ppy.sh/community/matches/8429937) |
-| ![][flag_CZ] República Checa | 0     - **4** | **Australia** ![][flag_AU] | Ganó por default |
+| ![][flag_RU] Rusia | 0 - **4** | **Malasia** ![][flag_MY] | [#1](https://osu.ppy.sh/community/matches/8429937) |
+| ![][flag_CZ] República Checa | 0 - **4** | **Australia** ![][flag_AU] | Ganó por default |
 | ![][flag_TW] **Taiwan** | **4** - 2 | Alemania ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/8430093) |
 | ![][flag_JP] **Japón** | **4** - 0 | Reino Unido ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/8430512) |
-| ![][flag_ID] Indonesia | 0     - **4** | **Corea del Sur** ![][flag_KR] | [#1](https://osu.ppy.sh/community/matches/8430718) |
-| ![][flag_TW] Taiwan | 3     - **4** | **Filipinas** ![][flag_PH] | [#1](https://osu.ppy.sh/community/matches/8430762) |
-| ![][flag_CA] Canadá | 0     - **4** | **Francia** ![][flag_FR] | Ganó por default |
-| ![][flag_GB] Reino Unido | 0     - **4** | **Malasia** ![][flag_MY] | [#1](https://osu.ppy.sh/community/matches/8432035) |
-| ![][flag_ES] España | 1     - **4** | **Filipinas** ![][flag_PH] | [#1](https://osu.ppy.sh/community/matches/8432001) |
-| ![][flag_CZ] República Checa | 0     - **4** | **Corea del Sur** ![][flag_KR] | Ganó por default |
+| ![][flag_ID] Indonesia | 0 - **4** | **Corea del Sur** ![][flag_KR] | [#1](https://osu.ppy.sh/community/matches/8430718) |
+| ![][flag_TW] Taiwan | 3 - **4** | **Filipinas** ![][flag_PH] | [#1](https://osu.ppy.sh/community/matches/8430762) |
+| ![][flag_CA] Canadá | 0 - **4** | **Francia** ![][flag_FR] | Ganó por default |
+| ![][flag_GB] Reino Unido | 0 - **4** | **Malasia** ![][flag_MY] | [#1](https://osu.ppy.sh/community/matches/8432035) |
+| ![][flag_ES] España | 1 - **4** | **Filipinas** ![][flag_PH] | [#1](https://osu.ppy.sh/community/matches/8432001) |
+| ![][flag_CZ] República Checa | 0 - **4** | **Corea del Sur** ![][flag_KR] | Ganó por default |
 | ![][flag_PL] **Polanda** | **4** - 0 | Noruega ![][flag_NO] | [#1](https://osu.ppy.sh/community/matches/8431527) |
 | ![][flag_AR] **Argentina** | **4** - 0 | España ![][flag_ES] | [#1](https://osu.ppy.sh/community/matches/8432861) |
-| ![][flag_CL] Chile | 0     - **4** | **Francia** ![][flag_FR] | Ganó por default |
-| ![][flag_ID] Indonesia | 0     - **4** | **Estados Unidos** ![][flag_US] | Ganó por default |
-| ![][flag_AR] Argentina | 0     - **4** | **Taiwan** ![][flag_TW] | [#1](https://osu.ppy.sh/community/matches/8434391) |
-| ![][flag_CL] Chile | 0     - **4** | **Noruega** ![][flag_NO] | Ganó por default |
+| ![][flag_CL] Chile | 0 - **4** | **Francia** ![][flag_FR] | Ganó por default |
+| ![][flag_ID] Indonesia | 0 - **4** | **Estados Unidos** ![][flag_US] | Ganó por default |
+| ![][flag_AR] Argentina | 0 - **4** | **Taiwan** ![][flag_TW] | [#1](https://osu.ppy.sh/community/matches/8434391) |
+| ![][flag_CL] Chile | 0 - **4** | **Noruega** ![][flag_NO] | Ganó por default |
 | ![][flag_PL] **Polanda** | **4** - 3 | Canadá ![][flag_CA] | [#1](https://osu.ppy.sh/community/matches/8434796) |
-| ![][flag_NZ] Nueva Zelanda | 0     - **4** | **Malasia** ![][flag_MY] | [#1](https://osu.ppy.sh/community/matches/8454627) |
-| ![][flag_RU] Rusia | 0     - **4** | **Japón** ![][flag_JP] | [#1](https://osu.ppy.sh/community/matches/8454720) |
-| ![][flag_NZ] Nueva Zelanda | 1     - **4** | **Reino Unido** ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/8455468) |
-| ![][flag_JP] Japón | 3     - **4** | **Malasia** ![][flag_MY] | [#1](https://osu.ppy.sh/community/matches/8455514) |
+| ![][flag_NZ] Nueva Zelanda | 0 - **4** | **Malasia** ![][flag_MY] | [#1](https://osu.ppy.sh/community/matches/8454627) |
+| ![][flag_RU] Rusia | 0 - **4** | **Japón** ![][flag_JP] | [#1](https://osu.ppy.sh/community/matches/8454720) |
+| ![][flag_NZ] Nueva Zelanda | 1 - **4** | **Reino Unido** ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/8455468) |
+| ![][flag_JP] Japón | 3 - **4** | **Malasia** ![][flag_MY] | [#1](https://osu.ppy.sh/community/matches/8455514) |
 | ![][flag_PH] **Filipinas** | **4** - 0 | Alemania ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/8455568) |
-| ![][flag_AU] Australia | 1     - **4** | **Corea del Sur** ![][flag_KR] | [#1](https://osu.ppy.sh/community/matches/8455602) |
-| ![][flag_CZ] República Checa | 0     - **4** | **Indonesia** ![][flag_ID] | Ganó por default |
-| ![][flag_RU] Rusia | 0     - **4** | **Reino Unido** ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/8456621) |
-| ![][flag_AR] Argentina | 0     - **4** | **Filipinas** ![][flag_PH] | [#1](https://osu.ppy.sh/community/matches/8457365) |
-| ![][flag_NO] Noruega | 0     - **4** | **Francia** ![][flag_FR] | [#1](https://osu.ppy.sh/community/matches/8457430) |
-| ![][flag_US] Estados Unidos | 1     - **4** | **Corea del Sur** ![][flag_KR] | [#1](https://osu.ppy.sh/community/matches/8457534) |
-| ![][flag_ES] España | 1     - **4** | **Taiwan** ![][flag_TW] | [#1](https://osu.ppy.sh/community/matches/8458504) |
-| ![][flag_CA] Canadá | 0     - **4** | **Noruega** ![][flag_NO] | Ganó por default |
+| ![][flag_AU] Australia | 1 - **4** | **Corea del Sur** ![][flag_KR] | [#1](https://osu.ppy.sh/community/matches/8455602) |
+| ![][flag_CZ] República Checa | 0 - **4** | **Indonesia** ![][flag_ID] | Ganó por default |
+| ![][flag_RU] Rusia | 0 - **4** | **Reino Unido** ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/8456621) |
+| ![][flag_AR] Argentina | 0 - **4** | **Filipinas** ![][flag_PH] | [#1](https://osu.ppy.sh/community/matches/8457365) |
+| ![][flag_NO] Noruega | 0 - **4** | **Francia** ![][flag_FR] | [#1](https://osu.ppy.sh/community/matches/8457430) |
+| ![][flag_US] Estados Unidos | 1 - **4** | **Corea del Sur** ![][flag_KR] | [#1](https://osu.ppy.sh/community/matches/8457534) |
+| ![][flag_ES] España | 1 - **4** | **Taiwan** ![][flag_TW] | [#1](https://osu.ppy.sh/community/matches/8458504) |
+| ![][flag_CA] Canadá | 0 - **4** | **Noruega** ![][flag_NO] | Ganó por default |
 | ![][flag_AR] **Argentina** | **4** - 3 | Alemania ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/8458561) |
 | ![][flag_PL] **Polanda** | **4** - 0 | Chile ![][flag_CL] | Ganó por default |
 | ![][flag_AU] **Australia** | **4** - 0 | Estados Unidos ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/8458616) |
-| ![][flag_CZ] República Checa | 0     - **4** | **Estados Unidos** ![][flag_US] | Ganó por default |
+| ![][flag_CZ] República Checa | 0 - **4** | **Estados Unidos** ![][flag_US] | Ganó por default |
 | ![][flag_CA] **Canadá** | **4** - 0 | Chile ![][flag_CL] | Ganó por default |
-| ![][flag_ES] España | 0     - **4** | **Alemania** ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/8459866) |
+| ![][flag_ES] España | 0 - **4** | **Alemania** ![][flag_DE] | [#1](https://osu.ppy.sh/community/matches/8459866) |
 | ![][flag_PL] **Polanda** | **4** - 2 | Francia ![][flag_FR] | [#1](https://osu.ppy.sh/community/matches/8459894) |
 
 

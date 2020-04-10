@@ -54,7 +54,7 @@ Ici, vous pouvez assigner de nouveaux raccourcis clavier avec les actions listé
 | :-- | :-- |
 | Mettre le jeu en pause | `Echap` |
 | Passer la Cutscene | `Space` |
-| Cacher/Montrer  le tableau de score | `Tab` |
+| Cacher/Montrer le tableau de score | `Tab` |
 | Augmente l'offset local de la chanson | `+` (plus) |
 | Augmente l'offset local de la chanson | `-` (moins) |
 | Réessayer rapidement (a maintenir brièvement | `~` (tilde) |

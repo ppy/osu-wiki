@@ -77,7 +77,7 @@ Im diesen Artikel werden alle Länder gelistet, die an offizielen Turnieren teil
 | ![][flag_ID] Indonesien | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] |
 | ![][flag_IL] Israel | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
 | ![][flag_IT] Italien | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_JP] Japan | ![][true] | ![][true] (2nd) | ![][true] (2nd) | ![][true] | ![][true]  (1st) | ![][true] | ![][false] |
+| ![][flag_JP] Japan | ![][true] | ![][true] (2nd) | ![][true] (2nd) | ![][true] | ![][true] (1st) | ![][true] | ![][false] |
 | ![][flag_LV] Lettland | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] |
 | ![][flag_LT] Litauen | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] |
 | ![][flag_MO] Macau | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] |

@@ -85,7 +85,7 @@ This article lists the countries that participated in the various osu!, osu!taik
 | ![][flag_ID] Indonesia | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] |
 | ![][flag_IL] Israel | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] |
 | ![][flag_IT] Italy | ![][true] | ![][false] | ![][true] | ![][true] | ![][true] | ![][true] | ![][true] |
-| ![][flag_JP] Japan | ![][true] | ![][true] (2nd) | ![][true] (2nd) | ![][true] | ![][true]  (1st) | ![][true] | ![][false] |
+| ![][flag_JP] Japan | ![][true] | ![][true] (2nd) | ![][true] (2nd) | ![][true] | ![][true] (1st) | ![][true] | ![][false] |
 | ![][flag_LV] Latvia | ![][false] | ![][true] | ![][true] | ![][true] | ![][false] | ![][true] | ![][true] |
 | ![][flag_LT] Lithuania | ![][false] | ![][false] | ![][false] | ![][false] | ![][true] | ![][true] | ![][false] |
 | ![][flag_MO] Macau | ![][true] | ![][false] | ![][true] | ![][false] | ![][false] | ![][false] | ![][false] |

@@ -38,7 +38,7 @@ outdated: true
 | [mm201](https://osu.ppy.sh/users/30655) | osu! dev team, mm sliderları |
 | [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone geliştiricisi |
 | Phil | Forum tasarımı işi |
-| [Sarumaru](https://osu.ppy.sh/users/9427)  ([Sarumaru@deviantART.com](https://sarumaru.deviantart.com/)) | Orijinal pippi konsept ve son tasarımı |
+| [Sarumaru](https://osu.ppy.sh/users/9427) ([Sarumaru@deviantART.com](https://sarumaru.deviantart.com/)) | Orijinal pippi konsept ve son tasarımı |
 | [Sinistro](https://osu.ppy.sh/users/5530) | Toplantı notları, SSS'ye büyük katkılar |
 | [woc2006](https://osu.ppy.sh/users/1105845) | osu! geliştirici takımı, osu!mania geliştiricisi |
 

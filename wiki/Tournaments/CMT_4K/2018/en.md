@@ -349,7 +349,7 @@ Check **[statistics sheet](https://docs.qq.com/sheet/DSHZVSUJ3TGFRY3Fj)** for mo
 
 1. There will be **1** mappool for the Qualification Stage, **1** mappool for the Group Stage, **1** mappool for Round of 16, **1** mappool for the Quarterfinals, **1** mappool for the Semifinals and **1** mappool for the Finals.
 2. Mappool size varies depending on the stage:
-     - **4** maps in the Qualification Stage.
+ - **4** maps in the Qualification Stage.
      - **10** maps in the Group Stage.
      - **12** maps in both Round of 16 and Quarter-finals.
      - **14** maps in both Semi-finals and Finals.
