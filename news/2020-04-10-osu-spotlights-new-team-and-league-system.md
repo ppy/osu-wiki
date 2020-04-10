@@ -6,7 +6,7 @@ date: 2020-04-13 08:00:00 +0000
 
 With our latest [Spotlight season] released very recently, we are underway reworking the osu! Spotlights from grounds up, starting with a brand new team and adding a whole new league system.
 
-![](image)
+![](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
 Since March 2017 osu! Spotlights work in their current shape and form. While many mappers and players already love the idea of beatmaps being put on a pedestal, we want to expand on the idea and give the curation and participation in the spotlights a whole new twist.
 While we want to keep recommending beatmaps to you, we also want to add a whole new competitive and seasonal league closely attached to the recommended beatmaps. With this you and your friends will have even more reason to delve deep into the best creations osu! has to offer.
