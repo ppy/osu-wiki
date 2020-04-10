@@ -94,6 +94,16 @@ The Royal Danish osu!Cup 2019 was run by various community members.
 
 Due to 6 no-shows in Qualifiers we're down to 31 players. #1 seed has been given a bye into Round of 16 to make brackets work.
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_DK] [Vandabe](https://osu.ppy.sh/users/7050754) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_DK] [Tikzyy](https://osu.ppy.sh/users/11380904) |
+
 ## Mappools
 
 ### Qualifiers
