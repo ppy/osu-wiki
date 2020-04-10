@@ -120,13 +120,13 @@ The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) an
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 6. Based on [this image](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
 
- | Stage | Match ID |
- | --: | :-- |
- | Round of 16 | A, B, C, D, E, F, G, H |
- | Quarterfinals | I, J, K, L & R, S, T, U |
- | Semifinals | M, N & V, W, X, Y, Z, AA |
- | Finals | O & AB, AC, AD |
- | Grand Finals | AE, P, Q |
+   | Stage | Match ID |
+   | --: | :-- |
+   | Round of 16 | A, B, C, D, E, F, G, H |
+   | Quarterfinals | I, J, K, L & R, S, T, U |
+   | Semifinals | M, N & V, W, X, Y, Z, AA |
+   | Finals | O & AB, AC, AD |
+   | Grand Finals | AE, P, Q |
 
 #### Winning conditions
 

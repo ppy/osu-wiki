@@ -123,18 +123,18 @@ Your skin folder:
 ```
 Skins/
 +-- My Skin/
-| +-- mania/
-| | +-- keyC.png
-| | +-- keyCD.png
-| | +-- keyD.png
-| | +-- keyDD.png
-| | +-- keyL.png
-| | +-- keyLD.png
-| | +-- keyU.png
-| | +-- keyUD.png
-| | +-- keyR.png
-| | +-- keyRD.png
-| +-- skin.ini
+|   +-- mania/
+|   |   +-- keyC.png
+|   |   +-- keyCD.png
+|   |   +-- keyD.png
+|   |   +-- keyDD.png
+|   |   +-- keyL.png
+|   |   +-- keyLD.png
+|   |   +-- keyU.png
+|   |   +-- keyUD.png
+|   |   +-- keyR.png
+|   |   +-- keyRD.png
+|   +-- skin.ini
 ```
 
 Your skin configuration:
@@ -195,33 +195,33 @@ Your skin folder:
 ```
 Skins/
 +-- My Skin/
-| +-- mania/
-| | +-- left/
-| | | +-- note-0.png
-| | | +-- note-1.png
-| | | +-- note-2.png
-| | | +-- note-3.png
-| | +-- down/
-| | | +-- note-0.png
-| | | +-- note-1.png
-| | | +-- note-2.png
-| | | +-- note-3.png
-| | +-- middle/
-| | | +-- note-0.png
-| | | +-- note-1.png
-| | | +-- note-2.png
-| | | +-- note-3.png
-| | +-- up/
-| | | +-- note-0.png
-| | | +-- note-1.png
-| | | +-- note-2.png
-| | | +-- note-3.png
-| | +-- right/
-| | | +-- note-0.png
-| | | +-- note-1.png
-| | | +-- note-2.png
-| | | +-- note-3.png
-| +-- skin.ini
+|   +-- mania/
+|   |   +-- left/
+|   |   |   +-- note-0.png
+|   |   |   +-- note-1.png
+|   |   |   +-- note-2.png
+|   |   |   +-- note-3.png
+|   |   +-- down/
+|   |   |   +-- note-0.png
+|   |   |   +-- note-1.png
+|   |   |   +-- note-2.png
+|   |   |   +-- note-3.png
+|   |   +-- middle/
+|   |   |   +-- note-0.png
+|   |   |   +-- note-1.png
+|   |   |   +-- note-2.png
+|   |   |   +-- note-3.png
+|   |   +-- up/
+|   |   |   +-- note-0.png
+|   |   |   +-- note-1.png
+|   |   |   +-- note-2.png
+|   |   |   +-- note-3.png
+|   |   +-- right/
+|   |   |   +-- note-0.png
+|   |   |   +-- note-1.png
+|   |   |   +-- note-2.png
+|   |   |   +-- note-3.png
+|   +-- skin.ini
 ```
 
 Your skin configuration:
@@ -276,52 +276,52 @@ Your skin folder:
 ```
 Skins/
 +-- My Skin/
-| +-- mania/
-| | +-- hold/
-| | | +-- left/
-| | | | +-- long-0.png
-| | | | +-- long-1.png
-| | | | +-- note-0.png
-| | | | +-- note-1.png
-| | | | +-- note-2.png
-| | | | +-- note-3.png
-| | | +-- down/
-| | | | +-- head-0.png
-| | | | +-- head-1.png
-| | | | +-- head-2.png
-| | | | +-- head-3.png
-| | | | +-- long-0.png
-| | | | +-- long-1.png
-| | | | +-- tail-0.png
-| | | | +-- tail-1.png
-| | | | +-- tail-2.png
-| | | | +-- tail-3.png
-| | | +-- middle/
-| | | | +-- long-0.png
-| | | | +-- long-1.png
-| | | | +-- note-0.png
-| | | | +-- note-1.png
-| | | | +-- note-2.png
-| | | | +-- note-3.png
-| | | +-- up/
-| | | | +-- head-0.png
-| | | | +-- head-1.png
-| | | | +-- head-2.png
-| | | | +-- head-3.png
-| | | | +-- long-0.png
-| | | | +-- long-1.png
-| | | | +-- tail-0.png
-| | | | +-- tail-1.png
-| | | | +-- tail-2.png
-| | | | +-- tail-3.png
-| | | +-- right/
-| | | | +-- long-0.png
-| | | | +-- long-1.png
-| | | | +-- note-0.png
-| | | | +-- note-1.png
-| | | | +-- note-2.png
-| | | | +-- note-3.png
-| +-- skin.ini
+|   +-- mania/
+|   |   +-- hold/
+|   |   |   +-- left/
+|   |   |   |   +-- long-0.png
+|   |   |   |   +-- long-1.png
+|   |   |   |   +-- note-0.png
+|   |   |   |   +-- note-1.png
+|   |   |   |   +-- note-2.png
+|   |   |   |   +-- note-3.png
+|   |   |   +-- down/
+|   |   |   |   +-- head-0.png
+|   |   |   |   +-- head-1.png
+|   |   |   |   +-- head-2.png
+|   |   |   |   +-- head-3.png
+|   |   |   |   +-- long-0.png
+|   |   |   |   +-- long-1.png
+|   |   |   |   +-- tail-0.png
+|   |   |   |   +-- tail-1.png
+|   |   |   |   +-- tail-2.png
+|   |   |   |   +-- tail-3.png
+|   |   |   +-- middle/
+|   |   |   |   +-- long-0.png
+|   |   |   |   +-- long-1.png
+|   |   |   |   +-- note-0.png
+|   |   |   |   +-- note-1.png
+|   |   |   |   +-- note-2.png
+|   |   |   |   +-- note-3.png
+|   |   |   +-- up/
+|   |   |   |   +-- head-0.png
+|   |   |   |   +-- head-1.png
+|   |   |   |   +-- head-2.png
+|   |   |   |   +-- head-3.png
+|   |   |   |   +-- long-0.png
+|   |   |   |   +-- long-1.png
+|   |   |   |   +-- tail-0.png
+|   |   |   |   +-- tail-1.png
+|   |   |   |   +-- tail-2.png
+|   |   |   |   +-- tail-3.png
+|   |   |   +-- right/
+|   |   |   |   +-- long-0.png
+|   |   |   |   +-- long-1.png
+|   |   |   |   +-- note-0.png
+|   |   |   |   +-- note-1.png
+|   |   |   |   +-- note-2.png
+|   |   |   |   +-- note-3.png
+|   +-- skin.ini
 ```
 
 Your skin configuration:
@@ -405,15 +405,15 @@ Your skin folder:
 ```
 Skins/
 +-- My Skin/
-| +-- mania/
-| | +-- 4K/
-| | | +-- arrow.png
-| | | +-- bottom.png
-| | | +-- hint.png
-| | | +-- left.png
-| | | +-- light.png
-| | | +-- right.png
-| +-- skin.ini
+|   +-- mania/
+|   |   +-- 4K/
+|   |   |   +-- arrow.png
+|   |   |   +-- bottom.png
+|   |   |   +-- hint.png
+|   |   |   +-- left.png
+|   |   |   +-- light.png
+|   |   |   +-- right.png
+|   +-- skin.ini
 ```
 
 Your skin configuration:
@@ -458,27 +458,27 @@ Your skin folder:
 ```
 Skins/
 +-- My Skin/
-| +-- mania/
-| | +-- 4K/
-| | | +-- hit0-0.png
-| | | +-- hit0-1.png
-| | | +-- hit0-2.png
-| | | +-- hit50-0.png
-| | | +-- hit50-1.png
-| | | +-- hit50-2.png
-| | | +-- hit100-0.png
-| | | +-- hit100-1.png
-| | | +-- hit100-2.png
-| | | +-- hit200-0.png
-| | | +-- hit200-1.png
-| | | +-- hit200-2.png
-| | | +-- hit300-0.png
-| | | +-- hit300-1.png
-| | | +-- hit300-2.png
-| | | +-- hit300g-0.png
-| | | +-- hit300g-1.png
-| | | +-- hit300g-2.png
-| +-- skin.ini
+|   +-- mania/
+|   |   +-- 4K/
+|   |   |   +-- hit0-0.png
+|   |   |   +-- hit0-1.png
+|   |   |   +-- hit0-2.png
+|   |   |   +-- hit50-0.png
+|   |   |   +-- hit50-1.png
+|   |   |   +-- hit50-2.png
+|   |   |   +-- hit100-0.png
+|   |   |   +-- hit100-1.png
+|   |   |   +-- hit100-2.png
+|   |   |   +-- hit200-0.png
+|   |   |   +-- hit200-1.png
+|   |   |   +-- hit200-2.png
+|   |   |   +-- hit300-0.png
+|   |   |   +-- hit300-1.png
+|   |   |   +-- hit300-2.png
+|   |   |   +-- hit300g-0.png
+|   |   |   +-- hit300g-1.png
+|   |   |   +-- hit300g-2.png
+|   +-- skin.ini
 ```
 
 Your skin configuration:
