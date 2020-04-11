@@ -182,7 +182,7 @@ Markdown 文件必须使用 `LF` 行尾序列。
 
 Markdown 中的转义字符是反斜杠（`\`）。若要使用反斜杠，应该使用 `\\` 。
 
-#### Paragraphs
+#### 段落
 
 <!-- ppy ruled soft breaks are not allowed. from:ppy#0001 during:2017-07-12 in:osu-wiki paragraph -->
 
