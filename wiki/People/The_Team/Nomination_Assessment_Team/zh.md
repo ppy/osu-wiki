@@ -3,7 +3,7 @@ tags:
   - NAT
 ---
 
-# Nomination Assessment 团队
+# Nomination Assessment Team
 
 **Nomination Assessment Team** (通常简称为 **NAT**) 是 [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (**BN**) 的管理者，同时也确保着 osu! 的谱面作图方面保持功能正常。
 
@@ -32,7 +32,7 @@ NAT 会长期关注潜在的 NAT 候选人，并偶尔进行讨论已决定是�
 
 ## 团队成员 
 
-[Nomination Assessment 团队成员页面](https://osu.ppy.sh/groups/7)列出了所有在任团队成员。
+[Nomination Assessment Team 成员页面](https://osu.ppy.sh/groups/7)列出了所有在任团队成员。
 
 *小提示：除非特殊说明，所有 NAT 成员除了下列语言以外还可以使用英语进行交流。*
 
