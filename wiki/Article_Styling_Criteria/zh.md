@@ -52,7 +52,7 @@
 
 如果你的语言未在上面列出，则可以在 URL 后面附加 `?locale={langcode}`（其中 `{langcode}` 是该语言的两个小写字母语言代码，例如访问 `https://osu.ppy.sh/help/wiki/Welcome?locale=zh`，无论选择哪种语言，都会为你提供欢迎文章的中文版）或者在 [Crowdin 上协助翻译 osu-web](https://crowdin.com/project/osu-web)。如果你需要翻译网站的帮助或想要讨论翻译结果，你可以加入 [osu!dev Discord 服务器](https://discord.gg/ppy) 在 `#osu-web` 频道中讨论。
 
-### 内容均等
+### 内容对等
 
 从语法和句子结构上来说，翻译必须具有与原文相同的信息，这意味着翻译必须与英语文章严格地在内容上相等。对译文任何更改都必须与英文文章的含义相同。
 
