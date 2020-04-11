@@ -27,9 +27,9 @@ The **TAG2 Tournament 2019** (***T2T 2019***) was an international Tag Team VS. 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 6 months of osu!supporter tag, profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, profile badge |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
 ## Organisation
 
@@ -79,7 +79,7 @@ The TAG2 Tournament 2019 was run by various community members by distributing th
 |**tikkayes** | ![][flag_FI] [tikkanen](https://osu.ppy.sh/users/7341081), ![][flag_FI] [Yes](https://osu.ppy.sh/users/6567244) |
 |**osu! schmosu!** | ![][flag_GB] [-Roxas](https://osu.ppy.sh/users/1986262), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
 |**KATIUSZA** | ![][flag_RU] [\_NotSoFast\_](https://osu.ppy.sh/users/4663676), ![][flag_PL] [Zabijaka](https://osu.ppy.sh/users/3526708), ![][flag_PL] [ZBUKU](https://osu.ppy.sh/users/3669758) |
-|**https://puu.sh/CML6I/8e0e9c5219.png** | ![][flag_DE] [Veth](https://osu.ppy.sh/users/1715441), ![][flag_DE] [okinamo](https://osu.ppy.sh/users/3765989), ![][flag_DE] [Knalli](https://osu.ppy.sh/users/8147403) |
+|**https:/<!---->/puu.sh/CML6I/8e0e9c5219.png** | ![][flag_DE] [Veth](https://osu.ppy.sh/users/1715441), ![][flag_DE] [okinamo](https://osu.ppy.sh/users/3765989), ![][flag_DE] [Knalli](https://osu.ppy.sh/users/8147403) |
 |**Pats** | ![][flag_PL] [Hedzio](https://osu.ppy.sh/users/8028264), ![][flag_PL] [Reazen](https://osu.ppy.sh/users/3053670), ![][flag_PL] [Pawlyk here](https://osu.ppy.sh/users/2095976) |
 |**Fat sack of cat crap** | ![][flag_NZ] [HashBrownDoyler](https://osu.ppy.sh/users/5975025), ![][flag_US] [asneakyfatcat](https://osu.ppy.sh/users/5458499) |
 |**big gem slappers** | ![][flag_LT] [shineroo](https://osu.ppy.sh/users/4360718), ![][flag_NL] [Lazer](https://osu.ppy.sh/users/1799925) |

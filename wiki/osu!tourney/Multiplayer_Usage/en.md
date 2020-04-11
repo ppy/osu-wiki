@@ -1,7 +1,3 @@
----
-needs_cleanup: true
----
-
 # osu!tourney multiplayer usage
 
 ## Match creation
@@ -12,7 +8,7 @@ The template shown consists of:
 `Acronym_in_tournament.cfg: (Team Name 1) vs (Team Name 2)`
 
 `Acronym_in_tournament.cfg` gets entirely replaced with the value of `acronym` in the `tournament.cfg` file from the [setup guide](/wiki/osu!tourney/Setup).
-If the value is defined as `Test Tourney`, the template will apear as `Test Tourney: (Team Name 1) vs (Team Name 2)`.
+If the value is defined as `Test Tourney`, the template will appear as `Test Tourney: (Team Name 1) vs (Team Name 2)`.
 
 The team names (`Team Name 1` and `Team Name 2`) can be replaced with any team name, **but keep the brackets `()` around them**.
 

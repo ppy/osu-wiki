@@ -11,7 +11,7 @@ In [Storyboarding](/wiki/Storyboards), **Objects** are sprites or animations tha
 To call an instance of a sprite (a still image) or an animation, use a single line in the `[Events]` section of an .osb or .osu file.
 
 | Basic image | Moving image |
-| ----------- | ------------ |
+| :-- | :-- |
 | Sprite,(layer),(origin),"(filepath)",(x),(y) | Animation,(layer),(origin),"(filepath)",(x),(y),(frameCount),(frameDelay),(looptype) |
 
 Where:
@@ -58,7 +58,7 @@ Take note that *there is no indication of when the object should appear*. That i
 ## Examples
 
 | Basic image | Moving image |
-| ----------- | ------------ |
+| :-- | :-- |
 | Sprite,(layer),(origin),"(filepath)",(x),(y) | Animation,(layer),(origin),"(filepath)",(x),(y),(frameCount),(frameDelay),(looptype) |
 
 Some examples of object declarations:

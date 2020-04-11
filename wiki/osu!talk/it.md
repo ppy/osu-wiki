@@ -8,14 +8,15 @@ outdated: true
 
 ## Introduzione
 
-Canale YouTube Ufficiale: <https://www.youtube.com/user/osuacademy/videos>
-Thread Ufficiale: <https://osu.ppy.sh/community/forums/topics/225111>
+- [Canale YouTube Ufficiale](https://www.youtube.com/user/osuacademy/videos)
+- [Thread Ufficiale](https://osu.ppy.sh/community/forums/topics/225111)
+
 **osu!talk** è una serie podcast ospitata da [ztrot](https://osu.ppy.sh/users/ztrot), con [deadbeat](https://osu.ppy.sh/users/deadbeat) come secondo ospite. La serie si concentra nell'intervistare molte persone attorno alla communità di osu!. Comunque a volte organizziamo un grupo di discussione su diverse cose che succedono attorno alla comunità come cambiamenti nello staff, o problemi di lunga durata spesso discussi come l'overmapping. La serie podcast è impostata in modo che tutti possano entrare nella sessione in diretta e fare domande durante la parte [Q&A](https://it.wikipedia.org/wiki/Q%26A) dell'episodio. non si può vedere da nessuna parte la diretta perchè vorremmo incoraggiare gli utenti ad entrare e a partecipare.
 
 ## Episodi
 
 | EP\#  | Interviste                                               | Profession                             | [Link]                                                        |
-|-------|----------------------------------------------------------|----------------------------------------|---------------------------------------------------------------|
+| :-- | :-- | :-- | :-- |
 | #1    | [Charles445](https://osu.ppy.sh/users/85000)                       | GMT/BN                                 | [Link](https://www.youtube.com/watch?v=e8lhBtcPbjw)                 |
 | #2    | [MMzz](https://osu.ppy.sh/users/128993)                            | QAT                                    | [Link](https://www.youtube.com/watch?v=fBBQ4bwNZcY)                 |
 | #3    | [Loctav](https://osu.ppy.sh/users/71366)                           | Manager dello staff                    | [Link](https://www.youtube.com/watch?v=gxZtxmUvDoQ)                 |
@@ -63,7 +64,7 @@ Thread Ufficiale: <https://osu.ppy.sh/community/forums/topics/225111>
 ## Discussions
 
 | EP\# | Topics                                     | Interviste                                                                                                                                                                                                                  | [Link]                                        |
-|------|--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| :-- | :-- | :-- | :-- |
 | #1   | Staff Rework                               | [Charles445](https://osu.ppy.sh/users/85000), [Ephemeral](https://osu.ppy.sh/users/102335), [deadbeat](https://osu.ppy.sh/users/128370), and [OnosakiHito](https://osu.ppy.sh/users/290128)                                                                         | [Link](https://www.youtube.com/watch?v=c10Jiq1xZus) |
 | #2   | Overmapping                                | [Kyonko Hizara](https://osu.ppy.sh/users/444868), [Loctav](https://osu.ppy.sh/users/71366), [MMzz](https://osu.ppy.sh/users/128993), and [OnosakiHito](https://osu.ppy.sh/users/290128)                                                                             | [Link](https://www.youtube.com/watch?v=RepSYE3hN3A) |
 | #3   | Moderazione                                | [Charles445](https://osu.ppy.sh/users/85000), [deadbeat](https://osu.ppy.sh/users/128370), [Flanster](https://osu.ppy.sh/users/447818) and [Kitokofox](https://osu.ppy.sh/users/1815420)                                                                            | [Link](https://www.youtube.com/watch?v=C1hvpnW5A7k) |
@@ -83,7 +84,7 @@ Thread Ufficiale: <https://osu.ppy.sh/community/forums/topics/225111>
 ### Taiko World Cup 2015
 
 | Type           | Interviste                                 | [Lien]                                             |
-|----------------|--------------------------------------------|----------------------------------------------------|
+| :-- | :-- | :-- |
 | Group Stage    | deadbeat, Tasha, tiamus et ztrot           | [Lien](https://www.youtube.com/watch?v=-T9xDo7Y8Fo) |
 | Round of 16    | deadbeat, FLANKs, Tasha et ztrot           | [Lien](https://www.youtube.com/watch?v=Y8IHcukw9Dw) |
 | Quarter Finals | _Gezo_, deadbeat, Nashmun et Tasha         | [Lien](https://www.youtube.com/watch?v=W76U6woLvHA) |
@@ -94,7 +95,7 @@ Thread Ufficiale: <https://osu.ppy.sh/community/forums/topics/225111>
 ### Catch the Beat World Cup 2015
 
 | Type           | Interviste               | [Lien]                                             |
-|----------------|--------------------------|----------------------------------------------------|
+| :-- | :-- | :-- |
 | Round of 16    | Skipped                  | N/A                                                |
 | Quarter Finals | deadbeat, Tasha et ztrot | [Lien](https://www.youtube.com/watch?v=lagFdqHqVHA) |
 | Semi Finals    | deadbeat, Tasha et ztrot | [Lien](https://www.youtube.com/watch?v=n6X5fZEEpRA) |
@@ -103,9 +104,9 @@ Thread Ufficiale: <https://osu.ppy.sh/community/forums/topics/225111>
 ## Specials
 
 | EP\# | Eventi                  | Interviste                                                                                                                                                               | [Link]                                        |
-|------|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| :-- | :-- | :-- | :-- |
 | #1   | Chiedimi di tutto       | [deadbeat](https://osu.ppy.sh/users/128370) and [ztrot](https://osu.ppy.sh/users/6347)                                                                                                       | [Link](https://www.youtube.com/watch?v=A0xqa-vBPgY) |
 | #2   | Chiedimi di tutto 2015  | [Charles445](https://osu.ppy.sh/users/85000), [deadbeat](https://osu.ppy.sh/users/128370), [Flanster](https://osu.ppy.sh/users/447818), [p3n](https://osu.ppy.sh/users/123703), and [ztrot](https://osu.ppy.sh/users/6347) | [Link](https://www.youtube.com/watch?v=a9An8cD18Co) |
 | #3   | Anniversario (1° anno)  | [Charles445](https://osu.ppy.sh/users/85000), [deadbeat](https://osu.ppy.sh/users/128370), and [ztrot](https://osu.ppy.sh/users/6347)                                                                  | [Link](https://www.youtube.com/watch?v=AHU7RgGCB50) |
 | #4   | Welcome back            | [deadbeat](https://osu.ppy.sh/users/128370), [Kyonko Hizara](https://osu.ppy.sh/users/444868), [Nyquill](https://osu.ppy.sh/users/682935), [Zak](https://osu.ppy.sh/users/1375955), [ztrot](https://osu.ppy.sh/users/6347) | [Link](https://www.youtube.com/watch?v=mxXNNH5bnU4) |
-| #5   | Upcoming events Q&amp;A | [Kyonko Hizara](https://osu.ppy.sh/users/444868)and [ztrot](https://osu.ppy.sh/users/6347)                                                                                                   | [Link](https://www.youtube.com/watch?v=-f9hGuNC4Jg) |
+| #5   | Upcoming events Q&A | [Kyonko Hizara](https://osu.ppy.sh/users/444868)and [ztrot](https://osu.ppy.sh/users/6347)                                                                                                   | [Link](https://www.youtube.com/watch?v=-f9hGuNC4Jg) |

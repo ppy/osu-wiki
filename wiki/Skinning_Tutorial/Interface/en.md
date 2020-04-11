@@ -1,7 +1,3 @@
----
-needs_cleanup: true
----
-
 # Interface skinning tutorial
 
 ## Welcome Screen
@@ -11,7 +7,7 @@ These skinning elements are found on the welcome screen (the first screen you se
 ### Menu Background
 
 This is the background image in the main menu.
-**This part is only loaded/available for [osu!supporter](/wiki/osu!supporter/).**
+**This part is only loaded/available for [osu!supporter](/wiki/osu!supporter).**
 You will also see it in beatmaps without backgrounds, multiplayer lobby, multiplayer match background and osu!direct background.
 
 This is the only skin element that must be in `JPG` format. You can easily change it by just dragging a picture and dropping it in main menu window, it will create/replace menu-background in you current skin. If you have created picture of size 1366x768, it will be cut from left side at lower width resolutions.
@@ -42,7 +38,7 @@ _Cookiezi's Skin Mix_
 ### Welcome Text
 
 The Welcome text is the image that appears as you open osu!, this layer can be edited and it's name is "welcome_text.png".
-**This part is only loaded/available for [osu!supporter](/wiki/osu!supporter/).**
+**This part is only loaded/available for [osu!supporter](/wiki/osu!supporter).**
 
 [![](pr/welcome_text_0.png)](fs/welcome_text_0.png "Click to view full size")
 _Default skin_
@@ -572,7 +568,7 @@ The Input Overlay is displayed on the right-hand side of the play screen.
 This is only seen in the osu!standard and osu!catch modes.
 This shows how many times each keybinding has been pressed in the duration of that song.
 
-Note that this can be disabled in the [options](/wiki/Options/)!
+Note that this can be disabled in the [options](/wiki/Options)!
 
 ![](fs/input-overlay_0.png)
 _Default skin_
@@ -588,7 +584,7 @@ However, the default is `0,0,0` (black).
 The input overlay comes in two parts:
 
 | File Name                   | Description                                                         | Resolution (BxH) | @2x Resolution (BxH) |
-|-----------------------------|---------------------------------------------------------------------|------------------|----------------------|
+| :-- | :-- | :-- | :-- |
 | inputoverlay-background.png | Defines the overall background for the input overlay                | 193x90           | 386x180              |
 | inputoverlay-key.png        | Defines the "key" image for each of the 4 keys in the input overlay | 46x46            | 92x92                |
 
@@ -602,7 +598,7 @@ There are many parts inside the ranking screen, so below is the brake-up of what
 Using the image above, here are the meanings:
 
 | \# on image | Name                           | Description                                                                                                                                                                                                                                                                                                                                                                                   |
-|-------------|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- | :-- |
 | 1           | Ranking Letters                | It's not hard to do them. Just don't make them freaking huge. Remember: `ranking-X` = SS, `ranking-SH` = Silver S, `ranking-XH` = Silver SS.                                                                                                                                                                                                                                                  |
 | 2           | Retry, Replay button           | Depending on your Version in the skin.ini, either ranking-retry.png/ranking-replay.png (Version: 1.0) or pause-retry.png/pause-replay.png (Version: 2.0 or above) will be used. Retry - play the map one more time. Replay - watch your amazing play.                                                                                                                                         |
 | 3           | Ranking-accuracy and max combo | As the name says. Personally I recommend to make them blank and add "Max Combo" and "Accuracy" by yourself on raking-panel. It's just easier to position them.                                                                                                                                                                                                                                |

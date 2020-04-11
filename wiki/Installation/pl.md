@@ -6,11 +6,11 @@ outdated: true
 
 *Zobacz także: [Instalacja/macOS](/wiki/Installation/macOS)*
 
-Ten artykuł przybliży ci proces instalacji osu! na urządzenia z systemem Windows. [Akademia osu!](/wiki/osu!academy) podjęła ten temat w swoim [poradniku wideo](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ).
+Ten artykuł przybliży ci proces instalacji osu! na urządzenia z systemem Windows. [Akademia osu!](/wiki/osu!academy) podjęła ten temat w swoim [poradniku wideo](https://www.youtube.com/watch?v=0V5GwzmMhpU).
 
 ## Minimalne wymagania systemowe
 
-- .NET Framework 4+ (możesz znaleźć go [tutaj](https://www.microsoft.com/en-us/download/details.aspx?id=48130); instalator powininen automatycznie powiadomić cię o potrzebie zainstalowania tej platformy)
+- .NET Framework 4+ (możesz znaleźć go [tutaj](https://www.microsoft.com/pl-pl/download/details.aspx?id=48130); instalator powininen automatycznie powiadomić cię o potrzebie zainstalowania tej platformy)
 - Przyzwoita karta graficzna
 
 ## Instalowanie osu!
@@ -27,7 +27,7 @@ Ten artykuł przybliży ci proces instalacji osu! na urządzenia z systemem Wind
 
 ## Dodawanie zestawów beatmap
 
-*Zobacz także: [Beatmapy](/wiki/Beatmaps) oraz [Zestawy beatmap](/wiki/Beatmapsets)*
+*Zobacz także: [Beatmapy](/wiki/Beatmaps) oraz [Zestawy beatmap](/wiki/Glossary#beatmapset)*
 
 Możesz dodawać beatmapy na dwa sposoby - poprzez stronę internetową oraz poprzez osu!direct (wymaga aktywnego [statusu donatora osu!](/wiki/osu!supporter)).
 
@@ -54,7 +54,7 @@ Możesz dodawać beatmapy na dwa sposoby - poprzez stronę internetową oraz pop
 
 ## Dodawanie skórek
 
-*Zobacz także: [Skórki](/wiki/Skins) oraz [Tworzenie skórek](/wiki/Skinning)*
+*Zobacz także: [Skórki](/wiki/Glossary#skin) oraz [Tworzenie skórek](/wiki/Skinning)*
 
 1. Przejdź do [podforum dot. skórek](https://osu.ppy.sh/community/forums/15) i znajdź skórkę, która ci się spodoba.
 2. Pobierz skórkę, która ci się podoba.

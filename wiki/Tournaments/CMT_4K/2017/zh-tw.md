@@ -7,7 +7,7 @@
 ## 比賽時間表
 
 | 階段 | 時間 |
-| ---: | :--- |
+| --: | :-- |
 | 報名 | 6月4日至6月18日 |
 | 資格賽 | 6月24日至6月25日 |
 | 小組抽籤 | 6月25日(20:00 UTC+8) |
@@ -21,14 +21,14 @@
 ## 比賽獎品
 
 本次比賽獎品由音游網和漢斯共同贊助，鍵盤由 CrazyBoard 提供。  
-![](/wiki/shared/GCrown.png) 3個月 osu!支持者，主頁訂製勳章，CrazyBoard Mark One 鍵盤；   
-![](/wiki/shared/SCrown.png) 2個月 osu!支持者；  
-![](/wiki/shared/BCrown.png) 1個月 osu!支持者。
+![](/wiki/shared/crown-gold.png) 3個月 osu!支持者，主頁訂製勳章，CrazyBoard Mark One 鍵盤；   
+![](/wiki/shared/crown-silver.png) 2個月 osu!支持者；  
+![](/wiki/shared/crown-bronze.png) 1個月 osu!支持者。
 
 ## 比賽主辦團隊
 
 | 團隊 | 人員 |
-| ---: | :--- |
+| --: | :-- |
 | 比賽經理 | ![][CN] [hans1999](https://osu.ppy.sh/users/6679329)、![][CN] [Scslag](https://osu.ppy.sh/users/6705256) |
 | 比賽監督 | ![][CN] [SSV Normandy](https://osu.ppy.sh/users/6475977) |
 | 圖池管理團隊 | ![][UK] [Imperial Wolf](https://osu.ppy.sh/users/9080296)、![][TW] [Spy](https://osu.ppy.sh/users/1217122)、![][CN] [hans1999](https://osu.ppy.sh/users/6679329) |
@@ -191,14 +191,14 @@ TB:
 ### 決賽第二周
 
 | 日期 | 藍隊 | | 比分 | | 紅隊 | 附 |
-| :--: | ---: | ---: | :--: | :--- | :--- | :--: |
+| :-: | --: | --: | :-: | :-- | :-- | :-: |
 | 8月5日 | [Crz]ScSolAr | ![][CN] | 0 : 7 | ![][TW] | - Choma - | 缺席 |
 | 8月6日 | - Choma - | ![][TW] | 7 : 0 | ![][CN] | [Crz]MemoryI | 缺席 |
 
 ### 決賽第一周
 
 | 日期 | 藍隊 | | 比分| | 紅隊 | 附 |
-| :--: | ---: | ---: | :--: | :--- | :--- | :--: |
+| :-: | --: | --: | :-: | :-- | :-- | :-: |
 | 7月29日 | [Crz]Riri | ![][CN] | 0 : 6 | ![][TW] | - Choma - | [記錄](https://osu.ppy.sh/community/matches/34872032) |
 | | [Crz]MemoryI | ![][CN] | 6 : 0 | ![][CN] | [Crz]ScSolAr | 缺席 |
 | | pikechu | ![][CN] | 2 : 6 | ![][MY] | Neokje | [記錄](https://osu.ppy.sh/community/matches/34873568) |
@@ -207,7 +207,7 @@ TB:
 ### 半決賽
 
 | 日期 | 藍隊 | | 比分| | 紅隊 | 附 |
-| :--: | ---: | ---: | :--: | :--- | :--- | :--: |
+| :-: | --: | --: | :-: | :-- | :-- | :-: |
 | 7月22日 | NED_Q | ![][CN] | 6 : 0 | ![][AU] | [Crz]Yukikaze | 缺席 |
 | | drunkenstein | ![][HK] | 0 : 6 | ![][CN] | pikechu | 缺席 |
 | | - Choma - | ![][TW] | 6 : 0 | ![][CN] | - ZedXD - | [記錄](https://osu.ppy.sh/community/matches/34703556) |
@@ -220,7 +220,7 @@ TB:
 ### 四分之一決賽
 
 | 日期 | 藍隊 | | 比分 | | 紅隊 | 附 |
-| :--: | ---: | ---: | :--: | :--- | :--- | :--: |
+| :-: | --: | --: | :-: | :-- | :-- | :-: |
 | 7月15日 | drunkenstein | ![][HK] | 0 : 5 | ![][CN] | [Crz]Riri | [記錄](https://osu.ppy.sh/community/matches/34542511) |
 | | - ZedXD - | ![][CN] | 5 : 0 | ![][CN] | spensll | [記錄](https://osu.ppy.sh/community/matches/34543141) |
 | | wjh123 | ![][CN] | 0 : 5 | ![][CN] | Stink God | 缺席 |
@@ -233,7 +233,7 @@ TB:
 ### 16強
 
 | 日期 | 藍隊 | | 比分 | | 藍隊 | 附 |
-| :--: | ---: | ---: | :--: | :--- | :--- | :--: |
+| :-: | --: | --: | :-: | :-- | :-- | :-: |
 | 7月8日 | drunkenstein | ![][HK] | 5 : 1 | ![][CN] | - ZedXD - | [記錄](https://osu.ppy.sh/community/matches/34380098) |
 | | [Crz]Riri | ![][CN] | 5 : 0 | ![][CN] | spensll | [記錄](https://osu.ppy.sh/community/matches/34380710) |
 | | NED_Q | ![][CN] | 5 : 0 | ![][CN] | wjh123 | [記錄](https://osu.ppy.sh/community/matches/34384012) |
@@ -247,7 +247,7 @@ TB:
 ### 小組賽
 
 | 藍隊 | | 比分 | | 紅隊 | | 藍隊 | | 比分 | | 紅隊 |
-| ---: | ---: | :--: | :--- | :--- | :--: | ---: | ---: | :--: | :--- | :--- |
+| --: | --: | :-: | :-- | :-- | :-: | --: | --: | :-: | :-- | :-- |
 | ***A組*** | | | | | | | | |
 | Pridra Yinda | ![][CN] | 0 : 4 | ![][MY] | [Xiiao]Ray | | drunkenstein | ![][HK] | 4 : 0 | ![][CN] | Pridra Yinda |
 | Murasame | ![][CA] | 4 : 0 | ![][CN] | Pridra Yinda | | Murasame | ![][CA] | 0 : 4 | ![][MY] | [Xiiao]Ray |
@@ -284,7 +284,7 @@ TB:
 ### 資格賽
 
 | | ID | 分數 | | ID | 分數 | | ID | 分數 |
-| ---: | :--- | :--: | ---: | :--- | :--: | ---: | :--- |:--: |
+| --: | :-- | :-: | --: | :-- | :-: | --: | :-- | :-: |
 | ![][HK] | zero2snow | 3,952,107 | ![][HK] | drunkenstein | 3,849,131 | ![][CN] | spensll | 3,724,897 |
 | ![][MY] | [Xiiao]Ray | 3,932,611 | ![][CN] | Stink God | 3,843,568 | ![][HK] | Opean | 3,722,732 |
 | ![][CN] | [Crz] Luna | 3,924,151 | ![][CN] | hly200 | 3,812,688 | ![][CN] | wjh123 | 3,714,831 |
@@ -301,7 +301,7 @@ TB:
 ### 測試賽
 
 | 2017年6月18日 星期六 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | 元老隊 | 5 | 7 | 新銳隊 | [比賽記錄](https://osu.ppy.sh/community/matches/33910571) |
 
 ## 規則
@@ -368,7 +368,7 @@ TB:
 8. 根據賽程安排，這些賽事的編排如下：
 
 | 賽事 | 比賽編號 |
-| ---: | :--- |
+| --: | :-- |
 | 16強 | A, B, C, D, E, F, G, H |
 | 1/4決賽 | I, J, K, L & R, S, T, U |
 | 半決賽 | M, N & V, W, X, Y, Z,AA |

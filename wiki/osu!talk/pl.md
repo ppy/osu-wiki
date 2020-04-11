@@ -8,14 +8,15 @@ outdated: true
 
 ## Wprowadzenie
 
-Oficjalny kanał YouTube: <https://www.youtube.com/user/osuacademy/videos>
-Oficjalny wątek na forum: <https://osu.ppy.sh/community/forums/topics/225111>
+- [Oficjalny kanał YouTube](https://www.youtube.com/user/osuacademy/videos)
+- [Oficjalny wątek na forum](https://osu.ppy.sh/community/forums/topics/225111)
+
 **osu!talk** to seria podcastowa prowadzona przez [ztrota](https://osu.ppy.sh/users/ztrot) i [deadbeata](https://osu.ppy.sh/users/deadbeat). Seria składa się głównie z wywiadów z osobami ze społeczności osu!. Jednakże, czasami dyskutujemy w większej grupie o rzeczach dziejących się w społeczności osu! (są to np. zmiany w załodze czy długotrwałe błędy takie jak przesadzone mapowanie). Seria podkastów jest zorganizowana tak, by każdy mógł swobodnie dołączyć w trakcie sesji na żywo i zadawać pytania podczas bloku pytań i odpowiedzi każdego odcinka. Odcinki nie są nigdzie strumieniowane/nadawane, ponieważ staramy się zachęcić graczy, by dołączali i sami brali w nich udział.
 
 ## Odcinki
 
 | Odc.  | Osoba udzielająca wywiadu                                | Funkcja                                          | [Odnośnik]                                                        |
-|-------|----------------------------------------------------------|--------------------------------------------------|-------------------------------------------------------------------|
+| :-- | :-- | :-- | :-- |
 | #1    | [Charles445](https://osu.ppy.sh/users/85000)                       | Moderator/Nominator Beatmap                      | [Odnośnik](https://www.youtube.com/watch?v=e8lhBtcPbjw)                 |
 | #2    | [MMzz](https://osu.ppy.sh/users/128993)                            | Zespół zapewniania jakości                       | [Odnośnik](https://www.youtube.com/watch?v=fBBQ4bwNZcY)                 |
 | #3    | [Loctav](https://osu.ppy.sh/users/71366)                           | Staff turniejowy                                 | [Odnośnik](https://www.youtube.com/watch?v=gxZtxmUvDoQ)                 |
@@ -63,7 +64,7 @@ Oficjalny wątek na forum: <https://osu.ppy.sh/community/forums/topics/225111>
 ## Dyskusje
 
 | Odc. | Temat                                        | Uczestnicy                                                                                                                                                                                                                  | [Odnośnik]                                        |
-|------|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
+| :-- | :-- | :-- | :-- |
 | #1   | Zmiany w załodze                             | [Charles445](https://osu.ppy.sh/users/85000), [Ephemeral](https://osu.ppy.sh/users/102335), [deadbeat](https://osu.ppy.sh/users/128370), and [OnosakiHito](https://osu.ppy.sh/users/290128)                                                                         | [Odnośnik](https://www.youtube.com/watch?v=c10Jiq1xZus) |
 | #2   | Przesadzone mapowanie                        | [Kyonko Hizara](https://osu.ppy.sh/users/444868), [Loctav](https://osu.ppy.sh/users/71366), [MMzz](https://osu.ppy.sh/users/128993), and [OnosakiHito](https://osu.ppy.sh/users/290128)                                                                             | [Odnośnik](https://www.youtube.com/watch?v=RepSYE3hN3A) |
 | #3   | Moderacja                                    | [Charles445](https://osu.ppy.sh/users/85000), [deadbeat](https://osu.ppy.sh/users/128370), [Flanster](https://osu.ppy.sh/users/447818) and [Kitokofox](https://osu.ppy.sh/users/1815420)                                                                            | [Odnośnik](https://www.youtube.com/watch?v=C1hvpnW5A7k) |
@@ -84,7 +85,7 @@ Oficjalny wątek na forum: <https://osu.ppy.sh/community/forums/topics/225111>
 ### Mistrzostwa Świata w Taiko 2015
 
 | Typ          | Uczestnicy                                   | [Odnośnik]                                             |
-|--------------|----------------------------------------------|--------------------------------------------------------|
+| :-- | :-- | :-- |
 | Etap grupowy | deadbeat, Tasha, tiamus oraz ztrot           | [Odnośnik](https://www.youtube.com/watch?v=-T9xDo7Y8Fo) |
 | Faza 1/16    | deadbeat, FLANKs, Tasha oraz ztrot           | [Odnośnik](https://www.youtube.com/watch?v=Y8IHcukw9Dw) |
 | Ćwierćfinały | _Gezo_, deadbeat, Nashmun oraz Tasha         | [Odnośnik](https://www.youtube.com/watch?v=W76U6woLvHA) |
@@ -95,7 +96,7 @@ Oficjalny wątek na forum: <https://osu.ppy.sh/community/forums/topics/225111>
 ### Mistrzostwa Świata w Catch The Beat 2015
 
 | Typ          | Uczestnicy                 | [Odnośnik]                                             |
-|--------------|----------------------------|--------------------------------------------------------|
+| :-- | :-- | :-- |
 | Faza 1/16    | Pominięte                  | Brak                                                   |
 | Ćwierćfinały | deadbeat, Tasha oraz ztrot | [Odnośnik](https://www.youtube.com/watch?v=lagFdqHqVHA) |
 | Półfinały    | deadbeat, Tasha oraz ztrot | [Odnośnik](https://www.youtube.com/watch?v=n6X5fZEEpRA) |
@@ -104,9 +105,9 @@ Oficjalny wątek na forum: <https://osu.ppy.sh/community/forums/topics/225111>
 ## Odcinki specjalne
 
 | Odc. | Wydarzenia              | Uczestnicy                                                                                                                                                               | [Odnośnik]                                        |
-|------|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
+| :-- | :-- | :-- | :-- |
 | #1   | Pytaj o co chcesz       | [deadbeat](https://osu.ppy.sh/users/128370) and [ztrot](https://osu.ppy.sh/users/6347)                                                                                                       | [Odnośnik](https://www.youtube.com/watch?v=A0xqa-vBPgY) |
 | #2   | Pytaj o co chcesz 2015  | [Charles445](https://osu.ppy.sh/users/85000), [deadbeat](https://osu.ppy.sh/users/128370), [Flanster](https://osu.ppy.sh/users/447818), [p3n](https://osu.ppy.sh/users/123703), and [ztrot](https://osu.ppy.sh/users/6347) | [Odnośnik](https://www.youtube.com/watch?v=a9An8cD18Co) |
 | #3   | Jubileusz osu!talk      | [Charles445](https://osu.ppy.sh/users/85000), [deadbeat](https://osu.ppy.sh/users/128370), and [ztrot](https://osu.ppy.sh/users/6347)                                                                  | [Odnośnik](https://www.youtube.com/watch?v=AHU7RgGCB50) |
 | #4   | Welcome back            | [deadbeat](https://osu.ppy.sh/users/128370), [Kyonko Hizara](https://osu.ppy.sh/users/444868), [Nyquill](https://osu.ppy.sh/users/682935), [Zak](https://osu.ppy.sh/users/1375955), [ztrot](https://osu.ppy.sh/users/6347) | [Odnośnik](https://www.youtube.com/watch?v=mxXNNH5bnU4) |
-| #5   | Upcoming events Q&amp;A | [Kyonko Hizara](https://osu.ppy.sh/users/444868)and [ztrot](https://osu.ppy.sh/users/6347)                                                                                                   | [Odnośnik](https://www.youtube.com/watch?v=-f9hGuNC4Jg) |
+| #5   | Upcoming events Q&A | [Kyonko Hizara](https://osu.ppy.sh/users/444868)and [ztrot](https://osu.ppy.sh/users/6347)                                                                                                   | [Odnośnik](https://www.youtube.com/watch?v=-f9hGuNC4Jg) |

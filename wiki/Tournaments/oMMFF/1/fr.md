@@ -69,9 +69,9 @@ L'**osu! Multi Mode French Fiesta** ***(oMMFF)*** est un tournoi 1v1 français e
 
 | Classement | Récompenses |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | Badge sur le profil, 4 mois de supporter, un clavier [AUKEY KM-G9](https://www.aukey.com/products/87-key-mechanical-keyboard-km-g9/), 10€ sur Amazon/PayPal, trophée physique |
-| ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | 2 mois de supporter, 10€ PayPal/Amazon balance |
-| ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | 1 mois de supporter, 10€ PayPal/Amazon balance |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | Badge sur le profil, 4 mois de supporter, un clavier [AUKEY KM-G9](https://www.aukey.com/products/87-key-mechanical-keyboard-km-g9/), 10€ sur Amazon/PayPal, trophée physique |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | 2 mois de supporter, 10€ PayPal/Amazon balance |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | 1 mois de supporter, 10€ PayPal/Amazon balance |
 
 ![oMMFF Winner Badge - osu!](img/badge-std.png) ![oMMFF Winner Badge - osu!taiko](img/badge-tko.png) ![oMMFF Winner Badge - osu!catch](img/badge-ctb.png) ![oMMFF Winner Badge - osu!mania](img/badge-mna.png)
 
@@ -162,33 +162,33 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 | Classement | Joueur |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) |
-| ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![][flag_FR] [NerO](https://osu.ppy.sh/users/1545031) |
-| ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | ![][flag_FR] [Flaven](https://osu.ppy.sh/users/3213239) |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![][flag_FR] [NerO](https://osu.ppy.sh/users/1545031) |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_FR] [Flaven](https://osu.ppy.sh/users/3213239) |
 
 ### Division osu!taiko
 
 | Classement | Joueur |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![][flag_FR] [TimmyAkmed](https://osu.ppy.sh/users/1799973) |
-| ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![][flag_FR] [Romainnoda](https://osu.ppy.sh/users/8814218) |
-| ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | ![][flag_FR] [Yona la loutre](https://osu.ppy.sh/users/7930622) |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![][flag_FR] [TimmyAkmed](https://osu.ppy.sh/users/1799973) |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![][flag_FR] [Romainnoda](https://osu.ppy.sh/users/8814218) |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_FR] [Yona la loutre](https://osu.ppy.sh/users/7930622) |
 
 ### Division osu!catch
 
 | Classement | Joueur |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
-| ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) |
-| ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![][flag_TN] [-Ken](https://osu.ppy.sh/users/4430811) |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![][flag_FR] [Boros](https://osu.ppy.sh/users/5490623) |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_FR] [Noulayfe](https://osu.ppy.sh/users/4316542) |
 
 ### Division osu!mania
 
 | Classement | Joueur |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![][flag_FR] [Azubeur](https://osu.ppy.sh/users/1594604) |
-| ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![][flag_FR] [PatouZ](https://osu.ppy.sh/users/7306522) |
-| ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | ![][flag_FR] [DemonWaves](https://osu.ppy.sh/users/3909293) |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![][flag_FR] [Azubeur](https://osu.ppy.sh/users/1594604) |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![][flag_FR] [PatouZ](https://osu.ppy.sh/users/7306522) |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_FR] [DemonWaves](https://osu.ppy.sh/users/3909293) |
 
 -----------------------
 
@@ -727,11 +727,11 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 **[Télécharge le mappack ici! (49 MB)](https://mega.nz/#!o9MChIxJ!BtKgqPuqV0xZChiPzoOYNJz8DAs8XXVYeFLBmJc5lHo)**
 
 - FreeMod
-  - [Ian Davecore - Katyusha (Laibus) \[Bounce\]](https://osu.ppy.sh/beatmapsets/849009/#mania/1775369)
+  - [Ian Davecore - Katyusha (Laibus) \[Bounce\]](https://osu.ppy.sh/beatmapsets/849009#mania/1775369)
   - [Celldweller - Senorita Bonita (Duboyy) \[Hard \[SV play\]\]](https://osu.ppy.sh/beatmapsets/541579#mania/1148320)
   - [Reol - MONSTER (puxtu) \[puxtu's MX\]](https://osu.ppy.sh/beatmapsets/415350#mania/1021002)
   - [Hommarju - Get back here (Fresh Chicken) \[ADVANCED\]](https://osu.ppy.sh/beatmapsets/488369#mania/1041168)
-  - [LiSA - Empty MERMAiD -MUSIC CLIP Short Ver.- (SpectorDG) \[SpectorDG's 4K ULTRA\]](https://osu.ppy.sh/beatmapsets/351846/#mania/775411)
+  - [LiSA - Empty MERMAiD -MUSIC CLIP Short Ver.- (SpectorDG) \[SpectorDG's 4K ULTRA\]](https://osu.ppy.sh/beatmapsets/351846#mania/775411)
   - [M2U feat. Guriri - Magnolia (juankristal) \[Stage 3: Enlightenment\]](https://osu.ppy.sh/beatmapsets/706898#mania/1494548)
   - [AAAA Chazuke - Hop Step Adventure\* (Musty) \[MX\*\]](https://osu.ppy.sh/beatmapsets/487632#mania/1039605)
   - [knot - cold planet (Kamikaze) \[for stepmania\]](https://osu.ppy.sh/beatmapsets/793200#mania/1697652)

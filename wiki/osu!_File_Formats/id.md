@@ -5,7 +5,7 @@
 ### Archive
 
 | File format                                 | Kegunaan                                                                                            |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | [.osz][Osz Link]       | beatmap file.                                                                                             |
 | [.osk][Osk Link]       | skin file.                                                                                                |
 | [.db][Db Link]        | Informasi Cache/Database.                                                                                 |
@@ -13,14 +13,14 @@
 ### Beatmap Editor
 
 | File format                                 | Kegunaan                                                                                            |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | [.osu][Osu Link]       | [Compose](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Song Setup](/wiki/Beatmap_Editor/Song_Setup). |
 | [.osb][Osb Link]        | [Design](/wiki/Beatmap_Editor/Design).                                                                           |
 
 ### Replay
 
 | File format                                 | Kegunaan                                                                                            |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | [.osr][Osr Link]        | replay file (tidak bisa decompress).                                                                      |
 
 ## Membuat file .osz/.osk
@@ -29,7 +29,7 @@
 
 ### Dari archiver
 
-**Software yang dibutuhkan:-**
+**Software yang dibutuhkan:*
 
 -   File archiver (WinRAR, 7zip)
 -   osu!
@@ -46,7 +46,7 @@
 
 3.  Jadikan format seperti ".zip" (jangan .7z, .rar) dan ubahlah format archive tersebut ke .osz.
 
-    DECO27 - Streaming Heart.zip -&gt; DECO27 - Streaming Heart.osz, Archive: ".zip"
+    DECO27 - Streaming Heart.zip -> DECO27 - Streaming Heart.osz, Archive: ".zip"
 
 4.  Tunggu beberapa saat memproses file .osz, akan muncul osu! icon jika sudah selesai.
 5.  Jika mau membuat file untuk skinning, pakailah format .osk.
@@ -59,7 +59,7 @@
 
 ### Membuat file di game
 
-**Software yang dibutuhkan:-**
+**Software yang dibutuhkan:*
 
 -   osu!
 

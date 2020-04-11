@@ -1,6 +1,10 @@
 ---
 tags:
+  - devs
   - osu!dev
+  - osu!devs
+  - osu! dev
+  - osu! devs
 ---
 
 # Developers
@@ -46,13 +50,9 @@ The osu! development effort is lead by ![][flag_AU] **[peppy](https://osu.ppy.sh
 - ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397)
 
 [flag___]: /wiki/shared/flag/__.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_SH]: /wiki/shared/flag/SH.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_US]: /wiki/shared/flag/US.gif "United States"

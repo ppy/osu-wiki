@@ -8,4 +8,4 @@ The following are toggles that can be added to .osu (and in some cases, .osb fil
 
 `UseSkinSprites: 1`
 
-Allows storyboards to refer to the player's current skin's sprites by their filenames. This is pointless if you're already forcing a skin (simply include the needed files) or have a map-specific skin in use. [Source](https://osu.ppy.sh/forum/viewtopic.php?p=141760#p141760)
+Allows storyboards to refer to the player's current skin's sprites by their filenames. This is pointless if you're already forcing a skin (simply include the needed files) or have a map-specific skin in use. [Source](https://osu.ppy.sh/community/forums/topics/1869?start=141760)

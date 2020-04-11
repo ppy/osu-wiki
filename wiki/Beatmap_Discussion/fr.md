@@ -87,7 +87,7 @@ Le train Hype est similaire au précédent système de priorité des étoiles.
 
 <!-- *Note : Les joueurs doivent jouer à travers une difficulté dans le beatmapset afin d'ajouter Hype à un beatmap.* -->
 
-Il faut faire l'éloge dans la section générale `(Toutes les difficultés)' pour ajouter Hype. Cela ne fonctionnera pas dans les onglets `Général` ou `Ligne de temps`.
+Il faut faire l'éloge dans la section générale `(Toutes les difficultés)` pour ajouter Hype. Cela ne fonctionnera pas dans les onglets `Général` ou `Ligne de temps`.
 
 ### Nomination
 

@@ -1,7 +1,5 @@
 # 2007
 
-*Halaman utama: [Sejarah osu!](/wiki/History_of_osu!).*
-
 Berikut ini adalah beberapa sejarah osu! sejak awal. Terima kasih khusus kepada [Sinistro](https://osu.ppy.sh/users/5530) telah membantu menyusun konten 2007/2008.
 
 ![](img/2007.jpg)
@@ -18,7 +16,7 @@ osu! dimulai dengan nama konsep awalnya bernama "ouentest". Versi pertama dirili
 
 ![](img/2007-07_04.jpg "Hit circle")
 
-Pada akhir Juli, sistem menu dirombak untuk menambahkan sedikit sentuhan desain pada game. Implementasi awal slider telah selesai, dengan bola slider berwarna jingga yang belum memiliki animasi dan beberapa lekukan yang relatif jelek. Beat snapping juga ditambahkan ke editor, selain itu timeline dan editor antarmuka yang lebih kuat (tampilannya sangat mirip dengan apa yang Anda lihat dalam tampilan [Compose](/wiki/Compose) hari ini).
+Pada akhir Juli, sistem menu dirombak untuk menambahkan sedikit sentuhan desain pada game. Implementasi awal slider telah selesai, dengan bola slider berwarna jingga yang belum memiliki animasi dan beberapa lekukan yang relatif jelek. Beat snapping juga ditambahkan ke editor, selain itu timeline dan editor antarmuka yang lebih kuat (tampilannya sangat mirip dengan apa yang Anda lihat dalam tampilan [Compose](/wiki/Beatmap_Editor/Compose) hari ini).
 
 ![](img/2007-07_05.jpg "Editor")
 
@@ -46,7 +44,7 @@ Peningkatan gameplay lebih baik dengan hadirnya combo fire, bar HP, mouse trail,
 
 ![](img/2007-09.jpg)
 
-2007-09-17 adalah tanggal kelahiran publik osu!. Forum-forum yang kita kenal sekarang dibentuk pada saat itu, dan dihosting menggunakan domain rumahan peppy (`ppy.sh`). osu! mulai mendapat perhatian saat disorot melalui pengumuman berita di <http://www.bemanistyle.com>, menarik beberapa orang yang memiliki pengalaman game ritme sebelumnya.
+2007-09-17 adalah tanggal kelahiran publik osu!. Forum-forum yang kita kenal sekarang dibentuk pada saat itu, dan dihosting menggunakan domain rumahan peppy (`ppy.sh`). osu! mulai mendapat perhatian saat disorot melalui pengumuman berita di [bemanistyle](http://www.bemanistyle.com), menarik beberapa orang yang memiliki pengalaman game ritme sebelumnya.
 
 ![](img/2007-09_01.jpg "Pembuatan slider dalam editor")
 
@@ -74,7 +72,7 @@ Layar pemilihan lagu mulai mendapat perhatian, dengan pengelompokan tingkat kesu
 
 ![](img/2007-10_03.jpg "Pesan eror")
 
-`pUpdater` (`osume`) versi 2 dirilis, mendukung unduhan paket opsional. Dengan ini, pengguna sekarang dapat membuat skin yang dapat digunakan oleh semua pemain pertama kalinya tersedia melalui updater. Editor mulai memperlihatkan perkembangan kembali dengan penambahan [distance-based snapping](/wiki/Distance_Snap), dukungan bookmark, beberapa jenis kurva slider, warna kustom, pengujian map (play-testing), waktu tunggu (lead-in time), dan banyak lagi.
+`pUpdater` (`osume`) versi 2 dirilis, mendukung unduhan paket opsional. Dengan ini, pengguna sekarang dapat membuat skin yang dapat digunakan oleh semua pemain pertama kalinya tersedia melalui updater. Editor mulai memperlihatkan perkembangan kembali dengan penambahan [distance-based snapping](/wiki/Beatmap_Editor/Distance_Snap), dukungan bookmark, beberapa jenis kurva slider, warna kustom, pengujian map (play-testing), waktu tunggu (lead-in time), dan banyak lagi.
 
 ## November
 
@@ -90,7 +88,7 @@ Peringkat baru, SS, ditambahkan ke sistem peringkat, menggantikan peringkat S da
 
 ![](img/2007-11_03.jpg "Pengujian Penggunaan IRC")
 
-[Sistem Pengajuan Beatmap](/wiki/Beatmap_Submission_System) (Beatmap Submission System) dipublikasikan, memungkinkan pengguna dengan mudah mengunggah dan membagikan kreasi merka. Bersamaan dengan ini, map juga sekarang memiliki status pending dan ranked dan membantu mengatur koleksi beatmap yang dikirim oleh pengguna. Obrolan dalam game telah ditambahkan, menggunakan klien IRC yang dibangun dari nol dan terhubung ke server IRC standar (belum ada bancho). Obrolan yang diperluas terlihat. Avatar dan statistik dasar ditampilkan dalam game (menggunakan komunkasi berbasis http). Kontrol audio juga ditambahkan ke menu utama, yang juga sekarang memainkan lagu acak saat masuk game (startup). Tayangan ulang map dapat ditonton untuk skor lokal dan permainan online. Pemain dapat melihat pemain lainnya (dan data penonton dikirim melalu IRC!).
+[Sistem Pengajuan Beatmap](/wiki/Glossary#bss) (Beatmap Submission System) dipublikasikan, memungkinkan pengguna dengan mudah mengunggah dan membagikan kreasi merka. Bersamaan dengan ini, map juga sekarang memiliki status pending dan ranked dan membantu mengatur koleksi beatmap yang dikirim oleh pengguna. Obrolan dalam game telah ditambahkan, menggunakan klien IRC yang dibangun dari nol dan terhubung ke server IRC standar (belum ada bancho). Obrolan yang diperluas terlihat. Avatar dan statistik dasar ditampilkan dalam game (menggunakan komunkasi berbasis http). Kontrol audio juga ditambahkan ke menu utama, yang juga sekarang memainkan lagu acak saat masuk game (startup). Tayangan ulang map dapat ditonton untuk skor lokal dan permainan online. Pemain dapat melihat pemain lainnya (dan data penonton dikirim melalu IRC!).
 
 ## Desember
 

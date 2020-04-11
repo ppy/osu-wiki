@@ -5,7 +5,7 @@
 ### Archiwum
 
 | Format                                         | Korzystanie                                                                                                            |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | [.osz][Osz Link]        | Uruchamialny plik z beatmapą.                                                                                          |
 | [.osk][Osk Link]       | Uruchamialny plik ze skórką.                                                                                           |
 | [.db][Db Link]          | Plik bazy danych. (Nie dotykać!)                                                                                       |
@@ -13,14 +13,14 @@
 ### Edytor beatmap
 
 | Format                                         | Korzystanie                                                                                                            |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | [.osu][Osu Link]       | [Kompozycja](/wiki/Beatmap_Editor/Compose), [Rytmika](/wiki/Beatmap_Editor/Timing), [Ustawienia piosenki](/wiki/Beatmap_Editor/Song_Setup). |
 | [.osb][Osb Link]        | [Projekt](/wiki/Beatmap_Editor/Design).                                                                                       |
 
 ### Powtórka
 
 | Format                                         | Korzystanie                                                                                                            |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | [.osr][Osr Link]        | Uruchamialny plik z powtórką (nie może zostać zdekompresowany).                                                        |
 
 ## Tworzenie pliku .osz/.osk
@@ -46,7 +46,7 @@ Plik .osz/.osk to rozszerzenie pliku dopasowane specjalnie dla osu!.exe. Po otwo
 
 3.  Przejrzyj ustawienia. Ustaw metodę archiwizacji jako ".zip" (nie .7z, .rar) i zmień ręcznie rozszerzenie foldera na .osz w polu tekstowym.
 
-    Amigo Fiesta.zip -&gt; Amigo Fiesta.osz, Metoda archiwizacji: ".zip"
+    Amigo Fiesta.zip -> Amigo Fiesta.osz, Metoda archiwizacji: ".zip"
 
 4.  Umożliw proces archiwizacji. Plik .osz będzie wyprodukowany jako produkt końcy wraz z charakterystyczną ikonką osu!.
 5.  Powtarzaj dla nowych kopii. Dla tworzenia skórek, użyj rozszerzenia .osk.

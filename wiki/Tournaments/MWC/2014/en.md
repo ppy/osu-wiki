@@ -33,9 +33,9 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 6 months of osu!supporter tag, profile badge, osu! merchandise, "osu!mania Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, profile badge, osu! merchandise, "osu!mania Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
 ## Organisation
 
@@ -142,9 +142,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | 4K Bracket | 7K Bracket |
 | :-: | :-- | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_KR] **South Korea** | ![][flag_KR] **South Korea** |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_PH] **Philippines** | ![][flag_TH] **Thailand** |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_MY] **Malaysia** | ![][flag_MY] **Malaysia** |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] **South Korea** | ![][flag_KR] **South Korea** |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PH] **Philippines** | ![][flag_TH] **Thailand** |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_MY] **Malaysia** | ![][flag_MY] **Malaysia** |
 
 ------------------------------------------------------------------------
 
@@ -526,8 +526,8 @@ This competition has come to an end and resulted in the following podium:
       - When signing up for both brackets, both rosters do not need to be identical.
       - If your country signs up for the 4K Bracket, it does not need to form a 7K bracket and vica versa.
 2. Each team represents a nation. You must form a team with players from the same country and therefore with the same flags on the user profiles.
-3. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “MWC Registration”
-    - Captains may change their setup by [notifying the management](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
+3. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “MWC Registration”
+    - Captains may change their setup by [notifying the management](https://osu.ppy.sh/home/messages/users/71366).
     - You get a confirmation reply in case your registration successfully arrived. Your registration is in pending then.
 4. To ensure valid and serious registrations, any registration and change will be checked by the Tournament Management.
 5. The total amount of teams is 32 per bracket.

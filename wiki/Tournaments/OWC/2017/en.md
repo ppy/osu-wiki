@@ -28,9 +28,9 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $300 per team member, exclusive osu! tumbler and pins, profile badge, "osu! Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $160 per team member, exclusive osu! tumbler and pins , profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $80 per team member, exclusive osu! tumbler and pins, profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | $300 per team member, exclusive osu! tumbler and pins, profile badge, "osu! Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | $160 per team member, exclusive osu! tumbler and pins , profile badge |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | $80 per team member, exclusive osu! tumbler and pins, profile badge |
 
 ## Organisation
 
@@ -434,7 +434,7 @@ The osu! World Cup 2017 was run by various community members by distributing the
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
 
 | Stage | Match ID |
-| -----: | -------- |
+| --: | :-- |
 | Round of 16 |  A, B, C, D, E, F, G, H |
 | Quarterfinals | I, J, K, L & R, S, T, U |
 | Semifinals | M, N & V, W, X, Y, Z, AA |
@@ -500,7 +500,6 @@ The osu! World Cup 2017 was run by various community members by distributing the
 [flag_KR]: /wiki/shared/flag/KR.gif
 [flag_CN]: /wiki/shared/flag/CN.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
 [flag_HU]: /wiki/shared/flag/HU.gif
 [flag_JP]: /wiki/shared/flag/JP.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
@@ -509,18 +508,15 @@ The osu! World Cup 2017 was run by various community members by distributing the
 [flag_PL]: /wiki/shared/flag/PL.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
 [flag_MY]: /wiki/shared/flag/MY.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
 [flag_CA]: /wiki/shared/flag/CA.gif
 [flag_SE]: /wiki/shared/flag/SE.gif
 [flag_SG]: /wiki/shared/flag/SG.gif
 [flag_FI]: /wiki/shared/flag/FI.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
 [flag_MX]: /wiki/shared/flag/MX.gif
 [flag_NO]: /wiki/shared/flag/NO.gif
 [flag_RU]: /wiki/shared/flag/RU.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
 [flag_NL]: /wiki/shared/flag/NL.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
 [flag_IL]: /wiki/shared/flag/IL.gif

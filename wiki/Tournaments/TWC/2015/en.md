@@ -27,9 +27,9 @@ The **osu! Taiko World Cup 2015** (***TWC 2015***) was a country-based osu!taiko
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 6 months of osu!supporter tag, unique profile badge, "Taiko Champion" user title for one year, osu! merchandise |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 months of osu!supporter tag, unique profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag, unique profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, unique profile badge, "Taiko Champion" user title for one year, osu! merchandise |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag, unique profile badge |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag, unique profile badge |
 
 ![TWC 2015 Winner Badge](img/badge.png) ![TWC 2015 2nd Place Badge](img/badge2.png) ![TWC 2015 3rd Place Badge](img/badge3.png)
 
@@ -100,9 +100,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_JP] Japan |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_TW] Taiwan |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] France |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_JP] Japan |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TW] Taiwan |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] France |
 
 ![TWC 2015 Bracket](img/bracket.jpg)
 
@@ -435,7 +435,7 @@ This competition has come to an end and resulted in the following podium:
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, you have to ensure that your global Taiko performace ranking is above \#8000.
    - To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
-3. For signing up, [send a PM to Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “TWC Registration”.
+3. For signing up, [send a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “TWC Registration”.
    - Add your local time zone to the registration PM.
    - You get a confirmation reply if your registration successfully arrived. Your registration is in pending then.
 4. The total amount of teams is 32.

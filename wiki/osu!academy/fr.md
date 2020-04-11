@@ -12,7 +12,7 @@ Si vous avez des questions ou des commentaires, veuillez les envoyer à [ztrot](
 ## Épisodes
 
 | Vignette d'épisode                                      | Lien                                                                     | Description                                                                                                                                                     |
-|----------------------------------------------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- | :-- |
 | ![](img/Academy_1.png)   | [Épisode 1](https://www.youtube.com/watch?v=cz522ZAs5aQ "Épisode 1")     | Dans cet épisode, nous allons couvrir l’installation du jeu et la création du compte!                                                                                         |
 | ![](img/Academy_2.png)   | [Épisode 2](https://www.youtube.com/watch?v=mswLEXK0eDk "Épisode 2")     | Dans cet épisode, nous allons passer en revue le gameplay standard et comment personnaliser les paramètres de style de jeu !                                                                 |
 | ![](img/Academy_3.png)   | [Épisode 3](https://www.youtube.com/watch?v=UAomychlbic "Épisode 3")     | Dans cet épisode, nous allons passer en revue le mode de jeu osu!mania avec LoliFlan!                                                                               |
@@ -52,6 +52,6 @@ Si vous avez des questions ou des commentaires, veuillez les envoyer à [ztrot](
 
 ## Liens externes
 
-- [Source](https://news.ppy.sh/post/70504430082/introducing-the-osu-academy)
+- [Source](https://osu.ppy.sh/home/news/2013-12-19-introducing-the-osu-academy)
 - [Chaîne YouTube officielle](https://www.youtube.com/user/osuacademy/videos)
 - [Fil officiel](https://osu.ppy.sh/community/forums/topics/169707)

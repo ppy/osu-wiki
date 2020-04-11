@@ -41,9 +41,9 @@ The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) was a worldwide
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge for each team member, US$32 or 1 year and 2 months of osu!supporter tag for each player, exclusive team banner |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | US$12 or 4 months of osu!supporter tag for each player, exclusive team banner |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | US$8 or 2 months of osu!supporter tag for each player, exclusive team banner |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge for each team member, US$32 or 1 year and 2 months of osu!supporter tag for each player, exclusive team banner |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$12 or 4 months of osu!supporter tag for each player, exclusive team banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$8 or 2 months of osu!supporter tag for each player, exclusive team banner |
 
 ![CGTS 2019 winner badge](img/badge.png)
 
@@ -51,9 +51,9 @@ The **Continental Global Taiko Showdown 2019** (***CGTS 2019***) was a worldwide
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | US$16 or 6 months of osu!supporter tag, exclusive 1st place banner |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | US$12 or 4 months of osu!supporter tag, exclusive 2nd place banner |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | US$8 or 2 months of osu!supporter tag, exclusive 3rd place banner |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | US$16 or 6 months of osu!supporter tag, exclusive 1st place banner |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$12 or 4 months of osu!supporter tag, exclusive 2nd place banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$8 or 2 months of osu!supporter tag, exclusive 3rd place banner |
 
 ## Organisation
 
@@ -153,9 +153,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Continent |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | Asia |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | Europe |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | North America |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Asia |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Europe |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | North America |
 
 ### Regional
 
@@ -163,41 +163,41 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401) |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_JP] [asuasu\_yura](https://osu.ppy.sh/users/2875968) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_JP] [asuasu\_yura](https://osu.ppy.sh/users/2875968) |
 
 #### Europe
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655) |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_ES] [AlvaroYL](https://osu.ppy.sh/users/6333166) |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_GB] [goheegy](https://osu.ppy.sh/users/8057655) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_ES] [AlvaroYL](https://osu.ppy.sh/users/6333166) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) |
 
 #### North America
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773) |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CA] [vladyushko](https://osu.ppy.sh/users/4908773) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821) |
 
 #### Oceania/South East Asia
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_SG] [Blerargh](https://osu.ppy.sh/users/7609510) |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992) |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_SG] [Blerargh](https://osu.ppy.sh/users/7609510) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742) |
 
 #### South America
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_BR] [HiroK](https://osu.ppy.sh/users/4050738) |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_BR] [Ppus](https://osu.ppy.sh/users/5918857) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_BR] [HiroK](https://osu.ppy.sh/users/4050738) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_BR] [Ppus](https://osu.ppy.sh/users/5918857) |
 
 ## Mappools
 

@@ -9,16 +9,16 @@ Sans aucun storyboarding, cette valeur est de 1x (car l'espace 640x480 doit êtr
 
 Il est préférable qu'une carte ne dépasse jamais 5x la charge SB. Cela permet de s'assurer que la carte est visible par la plupart des joueurs sans causer de stress excessif au matériel graphique.
 
-[Message original du forum](https://osu.ppy.sh/forum/viewtopic.php?p=525077#p525077)
+[Message original du forum](https://osu.ppy.sh/community/forums/posts/525077)
 
 ## Où il est affiché
 
--   Tester dans [Beatmap Editor](/wiki/Beatmap_Editor).
--   [Storyboard Editor](/wiki/Beatmap_Editor/Design), bien que les chiffres puissent ne pas être aussi précis.
+- Tester dans [Beatmap Editor](/wiki/Beatmap_Editor).
+- [Storyboard Editor](/wiki/Beatmap_Editor/Design), bien que les chiffres puissent ne pas être aussi précis.
 
 ## Suggestions de réduction
 
-De [Reducing SB Load](https://osu.ppy.sh/forum/viewtopic.php?f=20&t=55177) :
+De [Reducing SB Load](https://osu.ppy.sh/community/forums/topics/55177) :
 
 Voici quelques suggestions importantes pour réduire la pression qu'un scénarimage peut exercer sur l'ordinateur d'un joueur. Je m'excuse que ce soit un peu verbeux, les idées réelles ne sont pas si compliquées, je parle juste beaucoup. Je vais mettre en gras les parties importantes.
 
@@ -44,19 +44,19 @@ Et c'est tout ! Votre arrière-plan sera remplacé par un mur noir solide, qui n
 
 Pour chaque png que vous utilisez dans votre storyboard,osu! doit dessiner le tout. Même les pixels transparents doivent être "dessinés", donc les images avec beaucoup d'espace vide imposent un stress inutile à l'ordinateur. C'est un problème facile à régler, en général :
 
--   **Photoshop a en fait un outil qui le fera pour vous.** Il suffit d'appuyer sur Image -&gt ; Trim et il vous donnera quelques options pour recadrer l'espace vide autour de vos bords.
--   **Utilisez les différentes options "d'origine" que vous offre le storyboard.** Disons que vous avez un sprite d'un personnage dont la tête bouge de haut en bas. Dans la plupart des cadres, il y a un gros espace vide en haut du sprite, parce que vous voulez que tous les cadres soient alignés, n'est-ce pas ? Mais si vous réglez l'origine sur BottomCentre, alors la hauteur du sprite n'aura pas d'importance, il sera toujours aligné à partir du bas. Ainsi vous pouvez éliminer l'espace vide en haut.
--   **Multiples petites images peuvent être mieux qu'une grande image.** Cela peut être assez spécifique à la situation, mais disons que vous avez un grand sprite qui a juste cinq petites étoiles dedans. En coupant ce sprite, vous pourriez laisser un tas d'espace vide au milieu. Casser le sprite en un tas de petits sprites peut sembler inefficace, mais puisque la contrainte d'osu vient du nombre de pixels plutôt que du nombre de fichiers, cela peut en fait être une grande amélioration.
-    -   De même, si vous avez une image "cadre" plein écran, avec une grande fenêtre ou un écran qui regarde le reste de votre SB, pensez à la couper en 4 images, une pour le côté gauche, une pour le côté droit, une pour le haut et une pour le bas. Maintenant, au lieu de dessiner presque un plein écran de pixels clairs, votre espace vide est en fait vide, car seule la bordure est dessinée. Vous voulez probablement avoir juste un peu de chevauchement dans les coins pour éviter que des espaces vides n'apparaissent lorsque la carte est jouée à certaines résolutions, mais essayez de garder le chevauchement aussi mince que possible.
+- **Photoshop a en fait un outil qui le fera pour vous.** Il suffit d'appuyer sur Image -> Trim et il vous donnera quelques options pour recadrer l'espace vide autour de vos bords.
+- **Utilisez les différentes options "d'origine" que vous offre le storyboard.** Disons que vous avez un sprite d'un personnage dont la tête bouge de haut en bas. Dans la plupart des cadres, il y a un gros espace vide en haut du sprite, parce que vous voulez que tous les cadres soient alignés, n'est-ce pas ? Mais si vous réglez l'origine sur BottomCentre, alors la hauteur du sprite n'aura pas d'importance, il sera toujours aligné à partir du bas. Ainsi vous pouvez éliminer l'espace vide en haut.
+- **Multiples petites images peuvent être mieux qu'une grande image.** Cela peut être assez spécifique à la situation, mais disons que vous avez un grand sprite qui a juste cinq petites étoiles dedans. En coupant ce sprite, vous pourriez laisser un tas d'espace vide au milieu. Casser le sprite en un tas de petits sprites peut sembler inefficace, mais puisque la contrainte d'osu vient du nombre de pixels plutôt que du nombre de fichiers, cela peut en fait être une grande amélioration.
+  - De même, si vous avez une image "cadre" plein écran, avec une grande fenêtre ou un écran qui regarde le reste de votre SB, pensez à la couper en 4 images, une pour le côté gauche, une pour le côté droit, une pour le haut et une pour le bas. Maintenant, au lieu de dessiner presque un plein écran de pixels clairs, votre espace vide est en fait vide, car seule la bordure est dessinée. Vous voulez probablement avoir juste un peu de chevauchement dans les coins pour éviter que des espaces vides n'apparaissent lorsque la carte est jouée à certaines résolutions, mais essayez de garder le chevauchement aussi mince que possible.
 
 ### N'oubliez pas que vous pouvez recolorer les images en utilisant le codage SB
 
-Je le mentionne juste parce que je ne vois pas cet effet utilisé beaucoup dans les story-boards, mais **vérifiez le "[colour](/wiki/Storyboard_Scripting/Commands/#color---colour--c--command)" dans le fil de discussion des scripts**. Vous pouvez faire des effets sympas en créant un sprite en niveaux de gris ou de couleur claire, et en y superposant différentes couleurs pendant votre SB. Dans certains cas, il se peut que vous fassiez un fondu dans une image d'arrière-plan séparée alors que vous pourriez simplement changer la couleur de cette façon, pour le ciel et d'autres choses. C'est juste une chose à considérer.
+Je le mentionne juste parce que je ne vois pas cet effet utilisé beaucoup dans les story-boards, mais **vérifiez le "[colour](/wiki/Storyboard_Scripting/Commands#color---colour--c--command)" dans le fil de discussion des scripts**. Vous pouvez faire des effets sympas en créant un sprite en niveaux de gris ou de couleur claire, et en y superposant différentes couleurs pendant votre SB. Dans certains cas, il se peut que vous fassiez un fondu dans une image d'arrière-plan séparée alors que vous pourriez simplement changer la couleur de cette façon, pour le ciel et d'autres choses. C'est juste une chose à considérer.
 
 Nous espérons que ces conseils seront utiles aux gens. Je sais que beaucoup de gens ne connaissent pas la fonction de désactivation de l'arrière-plan, alors faites passer le mot, surtout si vous voyez quelqu'un utiliser une grande image noire vide pour cacher son image d'arrière-plan.
 
 ### Autres conseils
 
--   Assurez-vous que les images n'ont pas de couches presque invisibles alors qu'elles devraient être complètement invisibles.
+- Assurez-vous que les images n'ont pas de couches presque invisibles alors qu'elles devraient être complètement invisibles.
 - Si une image comporte une grande quantité de pixels transparents, divisez-la en plusieurs images et connectez-les dans le moteur.
 - Si une scène est compliquée (beaucoup de chevauchements), essayez de n'en faire qu'une seule image dans GIMP/Photoshop et de n'afficher que cela (faites attention, car en faire trop pourrait entraîner des tailles de fichiers plus importantes).

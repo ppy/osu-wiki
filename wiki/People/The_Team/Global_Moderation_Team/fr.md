@@ -54,7 +54,7 @@ La [page du groupe de l'équipe de modération globale](https://osu.ppy.sh/group
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino | Modération du Chat, Modération du Forum, Support technique |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Français | Modération du Chat |
 | ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) |  | osu! development, Mappers' Guild organisation |
-| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Allemand | Ranking Criteria, Modération du Forum, Modération du Chat |
+| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Allemand | Modération du Forum, Modération du Chat |
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Équipe officielle |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Allemand | Organisation de tournois |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Français | Modération du chat et du forum |
@@ -131,7 +131,6 @@ La [page du groupe de l'équipe de modération globale](https://osu.ppy.sh/group
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
 [flag_HM]: /wiki/shared/flag/HM.gif
-[flag_HU]: /wiki/shared/flag/HU.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
 [flag_IT]: /wiki/shared/flag/IT.gif
 [flag_JP]: /wiki/shared/flag/JP.gif

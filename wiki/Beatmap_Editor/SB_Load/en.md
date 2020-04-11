@@ -6,7 +6,7 @@ Without any storyboarding, this value is 1x (as the 640x480 space needs to be dr
 
 It's best if a map never exceeds 5x SB Load. This ensures that the map is viewable to most players without causing undue stress on graphics hardware.
 
-[Original Forum Post](https://osu.ppy.sh/forum/viewtopic.php?p=525077#p525077)
+[Original Forum Post](https://osu.ppy.sh/community/forums/posts/525077)
 
 ## Where It's Displayed
 
@@ -15,7 +15,7 @@ It's best if a map never exceeds 5x SB Load. This ensures that the map is viewab
 
 ## Suggestions for Reduction
 
-From [Reducing SB Load](https://osu.ppy.sh/forum/viewtopic.php?f=20&t=55177):
+From [Reducing SB Load](https://osu.ppy.sh/community/forums/topics/55177):
 
 Here are some important suggestions for reducing the strain that a storyboard can put on a player's computer. I apologize that this is a bit wordy, the actual ideas aren't that complicated, I just talk a lot. I'll bold the important bits.
 
@@ -48,7 +48,7 @@ For every png that you use in your storyboard, osu! has to draw the entire thing
 
 ### Don't forget that you can recolour images using SB coding
 
-I'm just mentioning this because I don't see this effect used much in storyboards, but **check out the "[colour](/wiki/Storyboard_Scripting/Commands/#color---colour--c--command)" event code in the Scripting thread**. You can make cool effects by making a grayscale or light-coloured sprite, and overlaying different colours onto it during your SB. There might be some cases where you're fading in a whole separate background image when you could just change the colour this way, for skies and stuff. Just something to consider.
+I'm just mentioning this because I don't see this effect used much in storyboards, but **check out the "[colour](/wiki/Storyboard_Scripting/Commands#color---colour--c--command)" event code in the Scripting thread**. You can make cool effects by making a grayscale or light-coloured sprite, and overlaying different colours onto it during your SB. There might be some cases where you're fading in a whole separate background image when you could just change the colour this way, for skies and stuff. Just something to consider.
 
 Hopefully these tips are of some use to people. I know a lot of people don't know about the background disable feature, so please spread the word, especially if you see somebody using a big empty black image to hide their background image.
 
