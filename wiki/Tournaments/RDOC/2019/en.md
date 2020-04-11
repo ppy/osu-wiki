@@ -8,7 +8,7 @@ tags:
 
 ![RDOC 2019 logo](img/logo.png)
 
-The **Royal Danish osu!Cup 2019** (***RDOC 2019***) was a Danish 1v1 double-elimination osu! tournament hosted by ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742), and ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048). It is the fifth installment of the Royal Danish osu!Cup.
+The **Royal Danish osu!Cup 2019** (***RDOC 2019***) was a Danish 1v1 double-elimination osu! tournament hosted by ![][flag_DK] [Pennek](https://osu.ppy.sh/users/3723742) and ![][flag_DK] [MadX](https://osu.ppy.sh/users/3295048). It was the fifth installment of the Royal Danish osu!Cup.
 
 ## Tournament schedule
 
@@ -92,7 +92,7 @@ The Royal Danish osu!Cup 2019 was run by various community members.
 | #30 | ![][flag_DK] [Slayco](https://osu.ppy.sh/users/9449330) | 1284564 |
 | #31 | ![][flag_DK] [Liquidminds](https://osu.ppy.sh/users/13438435) | 751992 |
 
-Due to 6 no-shows in Qualifiers we're down to 31 players. #1 seed has been given a bye into Round of 16 to make brackets work.
+Due to 6 no-shows in Qualifiers, only 31 players participated in the tournament. The #1 seed was given a bye into Round of 16 to make brackets work.
 
 ## Podium
 
@@ -131,7 +131,7 @@ This competition has come to an end and resulted in the following podium:
   - [Reol - +Danshi [HW]](https://osu.ppy.sh/beatmapsets/178550#osu/431717)
   - [Nekrogoblikon - The Skin Thief [SILENCE PLAYER & Hectic's Extra]](https://osu.ppy.sh/beatmapsets/1061535#osu/2279004)
 - Tiebreaker
-  - [FELT - Lost My Way [Journey's End]](https://osu.ppy.sh/beatmapsets/817516#osu/1714350)
+  - **[FELT - Lost My Way [Journey's End]](https://osu.ppy.sh/beatmapsets/817516#osu/1714350)**
 
 ### Finals
 
@@ -158,7 +158,7 @@ This competition has come to an end and resulted in the following podium:
   - [A.SAKA - Nanatsu Issenzakura [Ayaya's Expert]](https://osu.ppy.sh/beatmapsets/513731#osu/1493332)
   - [Aso Natsuko - Perfect-area complete! [yf's Expert]](https://osu.ppy.sh/beatmapsets/927758#osu/1992475)
 - Tiebreaker
-  - [Reol - Asymmetry [cRyo[Skystar]'s Farewell]](https://osu.ppy.sh/beatmapsets/310499#osu/771496)
+  - **[Reol - Asymmetry [cRyo[Skystar]'s Farewell]](https://osu.ppy.sh/beatmapsets/310499#osu/771496)**
 
 ### Semifinals
 
@@ -185,7 +185,7 @@ This competition has come to an end and resulted in the following podium:
   - [BUTAOTOME - Towa no Maigo [It was all a dream]](https://osu.ppy.sh/beatmapsets/1069288#osu/2238398)
   - [AAAA - carnation [black another]](https://osu.ppy.sh/beatmapsets/677687#osu/1433158)
 - Tiebreaker
-  - [Halozy - Masshiro na Yuki [White Eternity]](https://osu.ppy.sh/beatmapsets/820259#osu/1939883)
+  - **[Halozy - Masshiro na Yuki [White Eternity]](https://osu.ppy.sh/beatmapsets/820259#osu/1939883)**
 
 ### Quarterfinals
 
@@ -212,7 +212,7 @@ This competition has come to an end and resulted in the following podium:
   - [Hatsune Miku - Cruel Clocks [Full Revolution]](https://osu.ppy.sh/beatmapsets/47608#osu/147656)
   - [Pandize - Stratos [Another Insane]](https://osu.ppy.sh/beatmapsets/717623#osu/1515987)
 - Tiebreaker
-  - [Nitta Emi - White Eternity (Soleily & Epsilon Remix) [Yuuki]](https://osu.ppy.sh/beatmapsets/517402#osu/1099369)
+  - **[Nitta Emi - White Eternity (Soleily & Epsilon Remix) [Yuuki]](https://osu.ppy.sh/beatmapsets/517402#osu/1099369)**
 
 ### Round of 16
 
@@ -234,7 +234,7 @@ This competition has come to an end and resulted in the following podium:
   - [The Chainsmokers & Coldplay - Something Just Like This [Regou's Insane]](https://osu.ppy.sh/beatmapsets/611301#osu/1312787)
   - [Zektbach - Turii ~Panta rhei~ [Insane]](https://osu.ppy.sh/beatmapsets/800638#osu/1680864)
 - Tiebreaker
-  - [LU-I - wistaria [Salvation]](https://osu.ppy.sh/beatmapsets/391617#osu/852986)
+  - **[LU-I - wistaria [Salvation]](https://osu.ppy.sh/beatmapsets/391617#osu/852986)**
 
 ### Round of 32
 
@@ -256,7 +256,7 @@ This competition has come to an end and resulted in the following podium:
   - [sana - Kotonoha Clinic [Moroi]](https://osu.ppy.sh/beatmapsets/419189#osu/907200)
   - [orangentle - HAELEQUIN [Momoko's Insane]](https://osu.ppy.sh/beatmapsets/291495#osu/659423)
 - Tiebreaker
-  - [Birdy - Wings (Nu:Logic Remix) [Freedom]](https://osu.ppy.sh/beatmapsets/319375#osu/710881)
+  - **[Birdy - Wings (Nu:Logic Remix) [Freedom]](https://osu.ppy.sh/beatmapsets/319375#osu/710881)**
 
 ### Qualifiers
 
@@ -279,19 +279,26 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
+Saturday, 2020-04-04:
+
+| Group | Player 1 |  |  | Player 2 |
+| :-: | --: | :-: | :-: | :-- |
+| LB | **Vandabe** ![][flag_DK] | **7** | *forfeit* | ![][flag_DK] Tikzyy |
+
 Sunday, 2020-04-05:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
 | UB | **Spork Lover** ![][flag_DK] | **7** | 0 | ![][flag_DK] Vandabe |
 
-Saturday, 2020-04-04:
+### Finals
+
+Saturday, 2020-03-28:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| LB | **Vandabe** ![][flag_DK] | **7** | FF | ![][flag_DK] Tikzyy |
-
-### Finals
+| UB | **Spork Lover** ![][flag_DK] | **7** | 1 | ![][flag_DK] Vandabe |
+| LB | Pablohh ![][flag_DK] | *forfeit* | **7** | ![][flag_DK] **Lothjon** |
 
 Sunday, 2020-03-29:
 
@@ -300,14 +307,16 @@ Sunday, 2020-03-29:
 | LB | **Tikzyy** ![][flag_DK] | **7** | 0 | ![][flag_DK] Lothjon |
 | LB | **Tikzyy** ![][flag_DK] | **7** | 3 | ![][flag_DK] Contaminate |
 
-Saturday, 2020-03-28:
+### Semifinals
+
+Saturday, 2020-03-21:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| UB | **Spork Lover** ![][flag_DK] | **7** | 1 | ![][flag_DK] Vandabe |
-| LB | Pablohh ![][flag_DK] | FF | **7** | ![][flag_DK] **Lothjon** |
-
-### Semifinals
+| LB | **Tenaxzity** ![][flag_DK] | **6** | 4 | ![][flag_DK] teamplayer51 |
+| LB | **Contaminate** ![][flag_DK] | **6** | 0 | ![][flag_DK] Drayko |
+| LB | OwOMarco ![][flag_DK] | 2 | **6** | ![][flag_DK] **Zakura** |
+| UB | **Spork Lover** ![][flag_DK] | **6** | *forfeit* | ![][flag_DK] Pablohh |
 
 Sunday, 2020-03-22:
 
@@ -318,16 +327,19 @@ Sunday, 2020-03-22:
 | LB | Tenaxzity ![][flag_DK] | 3 | **6** | ![][flag_DK] **Contaminate** |
 | LB | **Lothjon** ![][flag_DK] | **6** | 3 | ![][flag_DK] Arche- |
 
-Saturday, 2020-03-21:
+### Quarterfinals
+
+Saturday, 2020-03-14:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| LB | **Tenaxzity** ![][flag_DK] | **6** | 4 | ![][flag_DK] teamplayer51 |
-| LB | **Contaminate** ![][flag_DK] | **6** | 0 | ![][flag_DK] Drayko |
-| LB | OwOMarco ![][flag_DK] | 2 | **6** | ![][flag_DK] **Zakura** |
-| UB | **Spork Lover** ![][flag_DK] | **6** | FF | ![][flag_DK] Pablohh |
-
-### Quarterfinals
+| LB | Pallerik ![][flag_DK] | 2 | **5** | ![][flag_DK] **Sagon** |
+| LB | **Haikuna** ![][flag_DK] | **5** | 2 | ![][flag_DK] kim1998 |
+| LB | **Drayko** ![][flag_DK] | **5** | 4 | ![][flag_DK] FeelDaTonneh |
+| LB | Malach ![][flag_DK] | 0 | **5** | ![][flag_DK] **Morrighan** |
+| LB | \[THEDUCK\] ![][flag_DK] | 2 | **5** | ![][flag_DK] **PolleSving** |
+| UB | **Pablohh** ![][flag_DK] | **5** | 2 | ![][flag_DK] Tenaxzity |
+| LB | **teamplayer51** ![][flag_DK] | **5** | 3 | ![][flag_DK] Arild |
 
 Sunday, 2020-03-15:
 
@@ -343,19 +355,18 @@ Sunday, 2020-03-15:
 | LB | **Arche-** ![][flag_DK] | **5** | 0 | ![][flag_DK] Morrighan |
 | LB | **Arche-** ![][flag_DK] | **5** | 0 | ![][flag_DK] Micropose |
 
-Saturday, 2020-03-14:
+### Round of 16
+
+Saturday, 2020-03-07:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| LB | Pallerik ![][flag_DK] | 2 | **5** | ![][flag_DK] **Sagon** |
-| LB | **Haikuna** ![][flag_DK] | **5** | 2 | ![][flag_DK] kim1998 |
-| LB | **Drayko** ![][flag_DK] | **5** | 4 | ![][flag_DK] FeelDaTonneh |
-| LB | Malach ![][flag_DK] | 0 | **5** | ![][flag_DK] **Morrighan** |
-| LB | \[THEDUCK\] ![][flag_DK] | 2 | **5** | ![][flag_DK] **PolleSving** |
-| UB | **Pablohh** ![][flag_DK] | **5** | 2 | ![][flag_DK] Tenaxzity |
-| LB | **teamplayer51** ![][flag_DK] | **5** | 3 | ![][flag_DK] Arild |
-
-### Round of 16
+| UB | Arche- ![][flag_DK] | 3 | **5** | ![][flag_DK] **Tenaxzity** |
+| LB | LiquidMinds ![][flag_DK] | 0 | **5** | ![][flag_DK] **Micropose** |
+| LB | **Morrighan** ![][flag_DK] | **5** | 1 | ![][flag_DK] Decrescendo |
+| LB | Dralle ![][flag_DK] | 0 | **5** | ![][flag_DK] **FeelDaTonneh** |
+| LB | NoSync ![][flag_DK] | 0 | **5** | ![][flag_DK] **Sagon** |
+| LB | Cittasnaf ![][flag_DK] | 4 | **5** | ![][flag_DK] **kim1998** |
 
 Sunday, 2020-03-08:
 
@@ -371,30 +382,14 @@ Sunday, 2020-03-08:
 | UB | teamplayer51 ![][flag_DK] | 0 | **5** | ![][flag_DK] **Lothjon** |
 | LB | Tr0nixCS ![][flag_DK] | 0 | **5** | ![][flag_DK] **PolleSving** |
 
-Saturday, 2020-03-07:
-
-| Group | Player 1 |  |  | Player 2 |
-| :-: | --: | :-: | :-: | :-- |
-| UB | Arche- ![][flag_DK] | 3 | **5** | ![][flag_DK] **Tenaxzity** |
-| LB | LiquidMinds ![][flag_DK] | 0 | **5** | ![][flag_DK] **Micropose** |
-| LB | **Morrighan** ![][flag_DK] | **5** | 1 | ![][flag_DK] Decrescendo |
-| LB | Dralle ![][flag_DK] | 0 | **5** | ![][flag_DK] **FeelDaTonneh** |
-| LB | NoSync ![][flag_DK] | 0 | **5** | ![][flag_DK] **Sagon** |
-| LB | Cittasnaf ![][flag_DK] | 4 | **5** | ![][flag_DK] **kim1998** |
-
 ### Round of 32
 
-Sunday, 2020-03-01:
+Friday, 2020-02-28:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| UB | **Contaminate** ![][flag_DK] | **4** | 0 | ![][flag_DK] Cittasnaf |
-| UB | **teamplayer51** ![][flag_DK] | **4** | 0 | ![][flag_DK] Tr0nixCS |
-| UB | Arild ![][flag_DK] | 1 | **4** | ![][flag_DK] **\[THEDUCK\]** |
-| UB | **Vandabe** ![][flag_DK] | **4** | 0 | ![][flag_DK] Slayco |
-| UB | **Pallerik** ![][flag_DK] | **4** | 0 | ![][flag_DK] Decrescendo |
-| UB | **OwOMarco** ![][flag_DK] | **4** | 0 | ![][flag_DK] Morrighan |
-| UB | **Lothjon** ![][flag_DK] | **4** | 0 | ![][flag_DK] PolleSving |
+| UB | **Malach** ![][flag_DK] | **4** | 1 | ![][flag_DK] Sagon |
+| UB | Zakura ![][flag_DK] | 3 | **4** | ![][flag_DK] **Haikuna** |
 
 Saturday, 2020-02-29:
 
@@ -407,12 +402,17 @@ Saturday, 2020-02-29:
 | UB | **Drayko** ![][flag_DK] | **4** | 2 | ![][flag_DK] Micropose |
 | UB | **Tikzyy** ![][flag_DK] | **4** | 0 | ![][flag_DK] LiquidMinds |
 
-Friday, 2020-02-28:
+Sunday, 2020-03-01:
 
 | Group | Player 1 |  |  | Player 2 |
 | :-: | --: | :-: | :-: | :-- |
-| UB | **Malach** ![][flag_DK] | **4** | 1 | ![][flag_DK] Sagon |
-| UB | Zakura ![][flag_DK] | 3 | **4** | ![][flag_DK] **Haikuna** |
+| UB | **Contaminate** ![][flag_DK] | **4** | 0 | ![][flag_DK] Cittasnaf |
+| UB | **teamplayer51** ![][flag_DK] | **4** | 0 | ![][flag_DK] Tr0nixCS |
+| UB | Arild ![][flag_DK] | 1 | **4** | ![][flag_DK] **\[THEDUCK\]** |
+| UB | **Vandabe** ![][flag_DK] | **4** | 0 | ![][flag_DK] Slayco |
+| UB | **Pallerik** ![][flag_DK] | **4** | 0 | ![][flag_DK] Decrescendo |
+| UB | **OwOMarco** ![][flag_DK] | **4** | 0 | ![][flag_DK] Morrighan |
+| UB | **Lothjon** ![][flag_DK] | **4** | 0 | ![][flag_DK] PolleSving |
 
 ## Ruleset
 
@@ -482,7 +482,6 @@ Friday, 2020-02-28:
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_FO]: /wiki/shared/flag/FO.gif "Faroe Islands"
 [flag_GL]: /wiki/shared/flag/GL.gif "Greenland"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
