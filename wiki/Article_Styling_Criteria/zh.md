@@ -71,7 +71,7 @@
 
 将 `needs_cleanup` 标记添加到需要重写或格式化帮助的文章中。为此，也可以在GitHub上发布问题（issue）。
 
-举个例子：
+例如：
 
 ```yaml
 needs_cleanup: true
