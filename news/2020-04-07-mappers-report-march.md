@@ -25,9 +25,7 @@ The Ranking Criteria. For some a blessing, for others a curse. On top of that, i
 ### All modes
 
 - **[Applause File and Passive Hitsounds](https://osu.ppy.sh/help/wiki/Ranking_Criteria#guidelines.4):** Previously a Rule, this has now been changed to a Guideline. Applause files and passive hitsounds should use .mp3 or .ogg files. The only exception of this is when using a .wav file will result in smaller file size.
-
-- **[Generalised Mode-Specific Guidelines about Custom Hitsounds](https://osu.ppy.sh/help/wiki/Ranking_Criteria#guidelines.4):** Previously found in the osu! and osu!catch Ranking Criterias, this guideline has now been modified and moved to the general Ranking Criteria. The hit finish in soft and normal sample sets should not be replaced with frequently used hitsounds because these can sound obnoxious for anyone disabling beatmap hitsounds. osu!taiko beatmaps are exempt from this Guideline because the mode has its own mode-specific hitsound sample guideline. 
-
+- **[Generalised Mode-Specific Guidelines about Custom Hitsounds](https://osu.ppy.sh/help/wiki/Ranking_Criteria#guidelines.4):** Previously found in the osu! and osu!catch Ranking Criterias, this guideline has now been modified and moved to the general Ranking Criteria. The hit finish in soft and normal sample sets should not be replaced with frequently used hitsounds because these can sound obnoxious for anyone disabling beatmap hitsounds. osu!taiko beatmaps are exempt from this Guideline because the mode has its own mode-specific hitsound sample guideline.
 - **[Storyboarding Conflicting Commands Guideline](https://osu.ppy.sh/help/wiki/Ranking_Criteria#guidelines.6):** The existing guideline **Avoid illogical, conflicting and obsolete commands** has had its description improved to clarify that commands of the same type with overlapping intervals should be fixed to no longer overlap.
 
 ### osu!taiko 
@@ -39,13 +37,16 @@ The Ranking Criteria. For some a blessing, for others a curse. On top of that, i
 As said previously, the Ranking Criteria is a never ending process. Everyone can suggest changes to it and there are currently a lot of proposals which need more input from the community! Every proposal can be found in the [Ranking Criteria Forum](https://osu.ppy.sh/community/forums/87). Here a small list of the most important and longest open proposals:
 
 For all modes:
+
 - **[Unofficial Cuts/Mixes of Songs must be Specific](https://osu.ppy.sh/community/forums/topics/917043)**
 - **[General RC Change regarding CS Values](https://osu.ppy.sh/community/forums/topics/1020515)**
 
 For osu!:
+
 - **[Intuitive Reverse Arrow Movement](https://osu.ppy.sh/community/forums/topics/1033709)**
 
 For osu!catch:
+
 - **[Dashes and Higher-Snapped Dashes on Rain difficulties](https://osu.ppy.sh/community/forums/topics/1033696)**
 
 These and many others are currently discussed and need more input. So head right over to the Ranking Criteria Forum and be part of the changes which will affect the future of mapping!
