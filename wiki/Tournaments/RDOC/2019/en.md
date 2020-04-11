@@ -76,7 +76,7 @@ The Royal Danish osu!Cup 2019 was run by various community members.
 | #14 | ![][flag_DK] [Zakura](https://osu.ppy.sh/users/3053599) | 6251613 |
 | #15 | ![][flag_DK] [Drayko](https://osu.ppy.sh/users/11485703) | 5975658 |
 | #16 | ![][flag_DK] [Arild](https://osu.ppy.sh/users/3089925) | 5615289 |
-| #17 | ![][flag_DK] [[THEDUCK]](https://osu.ppy.sh/users/6080866) | 5234905 |
+| #17 | ![][flag_DK] [\[THEDUCK\]](https://osu.ppy.sh/users/6080866) | 5234905 |
 | #18 | ![][flag_DK] [Micropose](https://osu.ppy.sh/users/11140740) | 4973815 |
 | #19 | ![][flag_DK] [Haikuna](https://osu.ppy.sh/users/3786974) | 4795629 |
 | #20 | ![][flag_DK] [Sagon](https://osu.ppy.sh/users/11775933) | 4724424 |
@@ -351,7 +351,7 @@ Saturday, 2020-03-14:
 | LB | **Haikuna** ![][flag_DK] | **5** | 2 | ![][flag_DK] kim1998 |
 | LB | **Drayko** ![][flag_DK] | **5** | 4 | ![][flag_DK] FeelDaTonneh |
 | LB | Malach ![][flag_DK] | 0 | **5** | ![][flag_DK] **Morrighan** |
-| LB | [THEDUCK] ![][flag_DK] | 2 | **5** | ![][flag_DK] **PolleSving** |
+| LB | \[THEDUCK\] ![][flag_DK] | 2 | **5** | ![][flag_DK] **PolleSving** |
 | UB | **Pablohh** ![][flag_DK] | **5** | 2 | ![][flag_DK] Tenaxzity |
 | LB | **teamplayer51** ![][flag_DK] | **5** | 3 | ![][flag_DK] Arild |
 
@@ -363,7 +363,7 @@ Sunday, 2020-03-08:
 | :-: | --: | :-: | :-: | :-- |
 | LB | Slayco ![][flag_DK] | 0 | **5** | ![][flag_DK] **Zakura** |
 | UB | **Contaminate** ![][flag_DK] | **5** | 1 | ![][flag_DK] Tmunken |
-| UB | **Spork Lover** ![][flag_DK] | **5** | 0 | ![][flag_DK] [THEDUCK] |
+| UB | **Spork Lover** ![][flag_DK] | **5** | 0 | ![][flag_DK] \[THEDUCK\] |
 | UB | **OwOMarco** ![][flag_DK] | **5** | 0 | ![][flag_DK] Pallerik |
 | UB | **Tikzyy** ![][flag_DK] | **5** | 0 | ![][flag_DK] Drayko |
 | UB | **Vandabe** ![][flag_DK] | **5** | 0 | ![][flag_DK] Haikuna |
@@ -390,7 +390,7 @@ Sunday, 2020-03-01:
 | :-: | --: | :-: | :-: | :-- |
 | UB | **Contaminate** ![][flag_DK] | **4** | 0 | ![][flag_DK] Cittasnaf |
 | UB | **teamplayer51** ![][flag_DK] | **4** | 0 | ![][flag_DK] Tr0nixCS |
-| UB | Arild ![][flag_DK] | 1 | **4** | ![][flag_DK] **[THEDUCK]** |
+| UB | Arild ![][flag_DK] | 1 | **4** | ![][flag_DK] **\[THEDUCK\]** |
 | UB | **Vandabe** ![][flag_DK] | **4** | 0 | ![][flag_DK] Slayco |
 | UB | **Pallerik** ![][flag_DK] | **4** | 0 | ![][flag_DK] Decrescendo |
 | UB | **OwOMarco** ![][flag_DK] | **4** | 0 | ![][flag_DK] Morrighan |
