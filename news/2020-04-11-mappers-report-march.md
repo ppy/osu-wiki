@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Mappers' Report: March"
-date: 2020-04-11 20:00:00 +0000
+date: 2020-04-11 18:00:00 +0000
 ---
 
 Another month passed and that means it’s time for another Mappers’ Report! Full of news about the Ranking Criteria, meetings and the Beatmap Nominators! Additionally, this month we are ready to introduce the Mappers’ Showcase as well as other community news! So let’s jump right into it!
