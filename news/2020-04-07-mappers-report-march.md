@@ -29,6 +29,8 @@ The Ranking Criteria. For some a blessing, for others a curse. On top of that, i
 
 - **[Generalised Mode-Specific Guidelines about Custom Hitsounds](https://osu.ppy.sh/help/wiki/Ranking_Criteria#guidelines.4):** Previously found in the osu! and osu!catch Ranking Criterias, this guideline has now been modified and moved to the general Ranking Criteria. The hit finish in soft and normal sample sets should not be replaced with frequently used hitsounds because these can sound obnoxious for anyone disabling beatmap hitsounds. osu!taiko beatmaps are exempt from this Guideline because the mode has its own mode-specific hitsound sample guideline. 
 
+- **[Storyboarding Conflicting Commands Guideline](https://osu.ppy.sh/help/wiki/Ranking_Criteria#guidelines.6):** The existing guideline **Avoid illogical, conflicting and obsolete commands** has had its description improved to clarify that commands of the same type with overlapping intervals should be fixed to no longer overlap.
+
 ### osu!taiko 
 
 - **[1/3 Patterns in Futsuu](https://osu.ppy.sh/help/wiki/Ranking_Criteria/osu!taiko#-futsuu):** The osu!taiko Futsuu difficulty Rule and Guideline regarding 1/3 pattern has been modified. The clause about rest moments was moved from the Rule to the Guideline. 
@@ -40,16 +42,12 @@ As said previously, the Ranking Criteria is a never ending process. Everyone can
 For all modes:
 - **[Unofficial Cuts/Mixes of Songs must be Specific](https://osu.ppy.sh/community/forums/topics/917043)**
 - **[General RC Change regarding CS Values](https://osu.ppy.sh/community/forums/topics/1020515)**
-- **[Conflicting commands working as intended](https://osu.ppy.sh/community/forums/topics/1044301)**
 
 For osu!:
 - **[Intuitive Reverse Arrow Movement](https://osu.ppy.sh/community/forums/topics/1033709)**
 
 For osu!catch:
 - **[Dashes and Higher-Snapped Dashes on Rain difficulties](https://osu.ppy.sh/community/forums/topics/1033696)**
-
-For osu!mania:
-- **[Implementing Key-Mode Specific Ranking Criterias for every Key-Mode](https://osu.ppy.sh/community/forums/topics/1009849)**
 
 These and many others are currently discussed and need more input. So head right over to the Ranking Criteria Forum and be part of the changes which will affect the future of mapping!
 
