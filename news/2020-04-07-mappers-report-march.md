@@ -4,8 +4,7 @@ title: "The Mappers' Report: March"
 date: 2020-04-10 20:00:00 +0000
 ---
 
-Another month passed and that means it’s time for another Mappers’ Report! Full of news about the Ranking Criteria, meetings and the Beatmap Nominators! Additionally, this month we are ready to introduce the Mappers’ Showcase as well as other community news! 
-So let’s jump right into it!
+Another month passed and that means it’s time for another Mappers’ Report! Full of news about the Ranking Criteria, meetings and the Beatmap Nominators! Additionally, this month we are ready to introduce the Mappers’ Showcase as well as other community news! So let’s jump right into it!
 
 ![](/wiki/shared/news/banners/the-mappers-report.jpg)
 
@@ -73,7 +72,7 @@ For the RC subforum topic, the meeting reviewed the current status and hashed ou
 
 ### Apr 11th, 2020 - Genre and Language Settings
 
-This meeting will be held on ** Saturday April 11th, 18:00-20:00 UTC** (that's tomorrow!). This meeting will discuss revising the website’s current genre system, primarily what genres should be added to help make the website’s genre system more useful than it is now.
+This meeting will be held on **Saturday April 11th, 18:00-20:00 UTC**. This meeting will discuss revising the website’s current genre system, primarily what genres should be added to help make the website’s genre system more useful than it is now.
 
 ## <a id="within-bn-nat"></a>Within the Beatmap Nominators and NAT
 
@@ -88,7 +87,7 @@ Just as last month, the BNG never rests. We always have new additions and retire
 
 ### BN Resignations
 
-- **osu!:** [-Aqua](https://osu.ppy.sh/u/7150015), [Bibbity Bill](https://osu.ppy.sh/users/4446810), [Gero](https://osu.ppy.sh/users/1467715) & [Teky](https://osu.ppy.sh/users/10520912)
+- **osu!:** [-Aqua](https://osu.ppy.sh/u/7150015), [Bibbity Bill](https://osu.ppy.sh/users/4446810), [Gero](https://osu.ppy.sh/users/1467715), [Teky](https://osu.ppy.sh/users/10520912) & [Petal](https://osu.ppy.sh/users/7354729)
 - **osu!catch:** [wonjae](https://osu.ppy.sh/users/5032045)
 
 ### NAT Additions
