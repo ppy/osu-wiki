@@ -13,7 +13,7 @@ tags:
 
 In osu!standard [beatmaps](/wiki/Beatmaps), circle size changes the size of circles and sliders; with higher values creating smaller hit objects. Spinners are unaffected by circle size. Circle size is derived through the following formula:
 
-`r = 32 * (1 - 0.7 * (CS - 5) / 5)`
+`r = 54.4 - 4.48 * CS`
 
 Where `r` is the radius measured in osu!pixels, and `CS` is the numerical circle size value.
 <!-- multiplied by 1.00041 in the end to account for some bug in old replays -->
