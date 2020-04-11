@@ -25,22 +25,6 @@ The value of *CircleSize* for ranked beatmaps must stand at from 2 to 7, inclusi
 
 In osu!mania mode, *CircleSize* is the number of columns.
 
-### Overall Difficulty
-
-*OverallDifficulty* (OD) is the harshness of the hit window and the difficulty of spinners.
-
-- When OD < 5: `spins_per_second = 5 - 2 * (5 - OD) / 5`
-- When OD = 5: `spins_per_second = 5`
-- When OD > 5: `spins_per_second = 5 + 2.5 * (OD - 5) / 5`
-
-The width of the hit window is defined by the following table:
-
-| Score | Hit Window |
-| :-- | :-- |
-| 50 | `150ms + 50ms * (5 - OD) / 5` |
-| 100 | `100ms + 40ms * (5 - OD) / 5` |
-| 300 | `50ms + 30ms * (5 - OD) / 5` |
-
 ### Sliders
 
 ```
