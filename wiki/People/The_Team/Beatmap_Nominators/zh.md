@@ -34,7 +34,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 
 [Beatmap Nominators 团队成员页面](https://osu.ppy.sh/groups/28) 以及 [Beatmap Nominators (见习期) 团队成员页面](https://osu.ppy.sh/groups/32)列出了所有在任团队成员。
 
-下表列出了全部游戏模式，其中每一位 Beatmap Nominator 都具有正式的提名资格。*小提示: 所有 BN 都能够熟练地使用英文进行交流，特别说明的除外。*
+下表列出了全部游戏模式，其中每一位 Beatmap Nominator 都具有正式的提名资格。*小提示：除非特殊说明，所有 BN 除了下列语言以外还可以使用英语进行交流。*
 
 ### 正式成员
 

@@ -12,7 +12,7 @@ Não os confunda com [osu!Alumni](/wiki/People/osu!_Alumni) que são membros de 
 
 Usuários que atualmente possuem o emblema:
 
-### 8 de Agosto de 2013
+## 8 de Agosto de 2013
 
 | Usuário | Notavel por ter feito |
 | :-- | :-- |
