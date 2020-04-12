@@ -85,7 +85,7 @@ Voici un exemple comportant des jackhammers : [MENDES Black Another](https://www
 Ces informations sont importantes et devraient être suivis par la plupart des mappers. Cependant, ce ne sont pas des règles, ce qui veut dire qu'un mapper peut choisir de les ignorer sous certaines circonstances. Si vous êtes sur le point d'ignorer un conseil, posez vous des questions : "Est-ce que ce que je m'apprête à apporter quelque chose de positif à ma map ?" Soyez certain de ce que vous faites.
 
 -   **Le HP Drain de la map devrait être placé à 7 si vous souhaitez en avoir un équivalent à *IIDX*.**
--   **L'Overall Difficulty devrait être réglé sur :\***
+-   **L'Overall Difficulty devrait être réglé sur :**
     - 9 ou 10 pour une map composée presque exclusivement de Hits.
     - 7 ou 8 pour une map composée de Holds et de Hits de façon équilibrée.
     - 5 ou 6 pour une map composée de nombreux Holds, telles que les maps Insane des jeux O2.
