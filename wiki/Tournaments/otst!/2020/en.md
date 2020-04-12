@@ -111,7 +111,7 @@ This competition has come to an end and resulted in the following podium:
 | Placing | Team |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Rubber Conquest |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Floating Up |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Floating up |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | seusbruk |
 
 ## Mappools
@@ -321,7 +321,7 @@ Sunday, 12 April 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Rubber Conquest** | **7** | 5 | Floating Up | [#1](https://osu.ppy.sh/community/matches/60303401) |
+| **Rubber Conquest** | **7** | 5 | Floating up | [#1](https://osu.ppy.sh/community/matches/60303401) |
 
 ### Finals
 
