@@ -32,7 +32,6 @@ Par exemple (imaginons que les exemples énoncées sont situés dans une mesure 
 | **1er temps** - 3e temps | **1er temps - 2e temps** | Non | Il y a un Hold dans un Hold. |
 | **1er temps** - 3e temps | **2e temps** | Non | Il y a un Hit dans un Hold. |
 | 1er temps - 2e temps | 3e temps - 4e temps | Oui | Il y a un espace d'un temps pour réagir. Il est aussi possible de réduire cet espace, généralement jusqu'à 1/4 de temps. |
-||
 
 -   **Il est recommendé de désactiver l'option *letterbox* dans l'onglet Design de la map.**
 
