@@ -31,6 +31,8 @@ The **osu! TV Size Tournament 2020** (***otst! 2020***) was an international fou
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag for each team member |
 
+![](img/badge.png "otst! 2020 winner badge")
+
 ## Organisation
 
 The osu! TV Size Tournament 2020 was run by various community members.
