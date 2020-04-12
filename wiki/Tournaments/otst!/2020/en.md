@@ -104,22 +104,15 @@ The osu! TV Size Tournament 2020 is run by various community members.
 | **WE LOVE LWMF!** | **![][flag_AT] [TiltBoi](https://osu.ppy.sh/users/6311630)**, ![][flag_AT] [Pandadesu](https://osu.ppy.sh/users/2167069), ![][flag_AT] [LWMF](https://osu.ppy.sh/users/3632402), ![][flag_AT] [Snajper](https://osu.ppy.sh/users/4211027), ![][flag_AT] [FeeDyy](https://osu.ppy.sh/users/8123308), ![][flag_AT] [goosefedora](https://osu.ppy.sh/users/2323131), ![][flag_AT] [Teppi](https://osu.ppy.sh/users/1371974), ![][flag_DE] [Bakugo-](https://osu.ppy.sh/users/4990127) |
 | **will is 2** | **![][flag_GB] [Voss](https://osu.ppy.sh/users/7657761)**, ![][flag_US] [WillCookie](https://osu.ppy.sh/users/6404488), ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808), ![][flag_PL] [Bartek22830](https://osu.ppy.sh/users/6404027), ![][flag_GB] [Ventus](https://osu.ppy.sh/users/1986262), ![][flag_PL] [twoja stara](https://osu.ppy.sh/users/8170186), ![][flag_PL] [twoj stary](https://osu.ppy.sh/users/3543130), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
 
-## Match schedule: Grand Finals
+## Podium
 
-Saturday, 11 April 2020:
+This competition has come to an end and resulted in the following podium:
 
-| Match ID | Team 1 | Team 2 | Match time (UTC) |
-| :-: | --: | :-- | :-: |
-| #L61 | Floating Up | seusbruk | **14:00** |
-
-Sunday, 12 April 2020:
-
-| Match ID | Team 1 | Team 2 | Match time (UTC) |
-| :-: | --: | :-- | :-: |
-| #L62a¹ | Rubber conquest | Floating Up | **04:00** |
-| #L62b¹ | Rubber conquest | seusbruk | **19:00** |
-
-¹ Encounter dependent on winner of match #L61. If team 2 wins match #62, the bracket reset Grand Finals match will take place approximately 30 minutes in advance.
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Rubber Conquest |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Floating Up |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | seusbruk |
 
 ## Mappools
 
