@@ -12,7 +12,7 @@ Nie należy ich mylić z [osu! Alumni](/wiki/People/osu!_Alumni) którzy są daw
 
 Osoby posiadające obecnie Znak Zasłużonego:
 
-### 8 sierpnia 2013
+## 8 sierpnia 2013
 
 | Użytkownik | Wkład |
 | :-- | :-- |
@@ -32,7 +32,7 @@ Osoby posiadające obecnie Znak Zasłużonego:
 | [Sinistro](https://osu.ppy.sh/users/5530) | Bycie pierwszym improwizowanym globalnym moderatorem i zarządcą społeczności, który narzucił wysoką poprzeczkę dla [GMT](/wiki/People/Global_Moderation_Team) |
 | [Ivalset](https://osu.ppy.sh/users/827) | Bycie pierwszym zarządcą staffu oraz BAT, a także stworzenie elitarnego zespołu mapperów. |
 
-### Marzec 2015
+## Marzec 2015
 
 | Użytkownik | Wkład |
 | :-- | :-- |
@@ -40,7 +40,7 @@ Osoby posiadające obecnie Znak Zasłużonego:
 | [RaikireHiuduo](https://osu.ppy.sh/users/1570014) | Nieopisana pomoc z wiki. |
 | [givenameplz](https://osu.ppy.sh/users/947499) | Stworzenie osu!Rank i osu!Post |
 
-### Styczeń 2016
+## Styczeń 2016
 
 | Użytkownik | Wkład |
 | :-- | :-- |
@@ -53,7 +53,7 @@ Osoby posiadające obecnie Znak Zasłużonego:
 | [Hatsu](https://osu.ppy.sh/users/322480) | Stworzenie plugina do osu! - Mikuia.tv. |
 | [Tillerino](https://osu.ppy.sh/users/2070907) | Stworzenie bota sugerującego mapy do zagrania |
 
-### Marzec 2016
+## Marzec 2016
 
 | Użytkownik | Wkład |
 | :-- | :-- |
