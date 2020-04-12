@@ -12,7 +12,7 @@ Non devono essere confusi con gli [osu! Alumni](/wiki/People/osu!_Alumni) che er
 
 Gli utenti attuali che hanno questo badge sono inseriti in questa tabella:
 
-### 8 Agosto 2013
+## 8 Agosto 2013
 
 | Utente | Contributi |
 | :-- | :-- |
@@ -33,7 +33,7 @@ le chart. |
 | [Sinistro](https://osu.ppy.sh/users/5530) | E' stato il primo gestore della comunità e moderatore globale, che ha impostato standard alti da seguire per i [GMT](/wiki/People/Global_Moderation_Team). |
 | [Ivalset](https://osu.ppy.sh/users/827) | E' stato il primo gestore dello staff e gestore dei BAT e ha creato un team di moderazione beatmap d'elite dal nulla. |
 
-### Marzo 2015
+## Marzo 2015
 
 | Utente | Contributi |
 | :-- | :-- |
@@ -41,7 +41,7 @@ le chart. |
 | [RaikireHiuduo](https://osu.ppy.sh/users/1570014) | Straordinario Contributo alla osu! wiki. |
 | [givenameplz](https://osu.ppy.sh/users/947499) | Ha sviluppato osu!Rank e osu!Post |
 
-### Gennaio 2016
+## Gennaio 2016
 
 | Utente | Contributi |
 | :-- | :-- |

@@ -12,7 +12,7 @@ Dabei sollten diese nicht mit den [osu! Alumni](/wiki/People/osu!_Alumni) verwec
 
 Derzeitig tragen folgende User dieses Abzeichen:
 
-### August 8 2013
+## August 8 2013
 
 | User | Bekannt durch |
 | :-- | :-- |

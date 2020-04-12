@@ -12,7 +12,7 @@ Berbeda dari [osu! Alumni](/wiki/People/osu!_Alumni) yang merupakan anggota osu!
 
 Para pengguna dengan lencana yang sekarang berada di dalam tabel berikut:
 
-### 8 Agustus 2013
+## 8 Agustus 2013
 
 | User | Kontributor |
 | :-- | :-- |
@@ -32,7 +32,7 @@ Para pengguna dengan lencana yang sekarang berada di dalam tabel berikut:
 | [Sinistro](https://osu.ppy.sh/users/5530) | Menjadi manajer komunitas dan moderator global pertama, yang mengatur bar yang teramat tinggi untuk diikuti oleh [Admin/Tim Moderasi Global](/wiki/People/Global_Moderation_Team). |
 | [Ivalset](https://osu.ppy.sh/users/827) | Menjadi staff manajer pertama, manajer BAT pertama, dan orang pertama yang satu-satunya membentuk tim moderasi beatmap elit yang semulanya bukan apa-apa. |
 
-### Maret 2015
+## Maret 2015
 
 | User | Kontributor |
 | :-- | :-- |
@@ -40,7 +40,7 @@ Para pengguna dengan lencana yang sekarang berada di dalam tabel berikut:
 | [RaikireHiuduo](https://osu.ppy.sh/users/1570014) | Memberikan kontribusi yang sangat bagus untuk osu! wiki |
 | [givenameplz](https://osu.ppy.sh/users/947499) | Pengembang osu!rank dan osu!post. |
 
-### January 2016
+## January 2016
 
 | User | Kontributor |
 | :-- | :-- |
@@ -53,7 +53,7 @@ Para pengguna dengan lencana yang sekarang berada di dalam tabel berikut:
 | [Hatsu](https://osu.ppy.sh/users/322480) | Mikuia.tv - bot osu!twich pengembangan perangkat |
 | [Tillerino](https://osu.ppy.sh/users/2070907) | Bot pengembangan rekomendasi beatmap |
 
-### Maret 2016
+## Maret 2016
 
 | User | Kontributor |
 | :-- | :-- |
