@@ -22,7 +22,7 @@ The **osu! TV Size Tournament 2020** (***otst! 2020***) was an international fou
 | Quarterfinals | 2020-03-21/2020-03-22 |
 | Semifinals | 2020-03-28/2020-03-29 |
 | Finals | 2020-04-04/2020-04-05 |
-| Grand Finals | 2020-04-11 |
+| Grand Finals | 2020-04-11/2020-04-12 |
 
 ## Prizes
 
@@ -308,6 +308,20 @@ This competition has come to an end and resulted in the following podium:
   - [Primastella - Koigokoro (Luerxa) \[Delis' Insane\]](https://osu.ppy.sh/beatmapsets/127712#osu/323875)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 11 April 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Floating Up** | **7** | 1 | seusbruk | [#1](https://osu.ppy.sh/mp/60274542) |
+
+Sunday, 12 April 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Rubber Conquest** | **7** | 5 | Floating Up | [#1](https://osu.ppy.sh/community/matches/60303401) |
 
 ### Finals
 
