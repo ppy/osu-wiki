@@ -346,7 +346,7 @@ La **section gauche** est la **liste des fichiers son que vous avez dans le doss
 
 #### Exemple de liste d'événements
 
-**Actual storyboarding**. Cliquez sur "Sample list" pour ouvrir une autre fenêtre (à droite de l'image) appelée "Sample event list", qui est la suivante Les deux boutons devraient être explicites (Supprimer = Supprimer l'événement sélectionné. Fermer = Fermer la fenêtre). Ces éléments du storyboard iront dans le fichier `.osu` (la difficulté sélectionnée) '''
+**Actual storyboarding**. Cliquez sur "Sample list" pour ouvrir une autre fenêtre (à droite de l'image) appelée "Sample event list", qui est la suivante Les deux boutons devraient être explicites (Supprimer = Supprimer l'événement sélectionné. Fermer = Fermer la fenêtre). Ces éléments du storyboard iront dans le fichier `.osu` (la difficulté sélectionnée)
 
 Le codage est `MM:SS:XXX` `{Fichier_Son}@{Volume}` où MM:SS:XXX sont respectivement Minutes:Secondes:Millisecondes.
 

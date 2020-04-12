@@ -18,7 +18,7 @@ osu!stream tidak mendukung beatmap osu! versi PC. Sebagai gantinya, beatmap osu!
 
 ### Melalui App Store
 
-'''Ini adalah metode yang direkomendasikan. Pastikan perangkat iOS-mu dapat terhubung ke Internet (menggunakan Wi-FI atau data seluler).
+Ini adalah metode yang direkomendasikan. Pastikan perangkat iOS-mu dapat terhubung ke Internet (menggunakan Wi-FI atau data seluler).
 
 -   Buka "App Store" di perangkat iOS kamu
 -   Cari "osu!stream" di kotak pencarian.
