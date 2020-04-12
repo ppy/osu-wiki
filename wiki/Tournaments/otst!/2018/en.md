@@ -159,7 +159,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**This mappool was played in Finals and Grand Finals.**
+*This mappool was played in Finals and Grand Finals.*
 
 **[Download the mappack here! (100 MB)](https://i.patyye.me/OTST-Finals-Mappool.zip)**
 

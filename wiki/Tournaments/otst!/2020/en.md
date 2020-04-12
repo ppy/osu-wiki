@@ -317,7 +317,7 @@ Saturday, 11 April 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Floating Up** | **7** | 1 | seusbruk | [#1](https://osu.ppy.sh/mp/60274542) |
+| **Floating Up** | **7** | 1 | seusbruk | [#1](https://osu.ppy.sh/community/matches/60274542) |
 
 Sunday, 12 April 2020:
 
