@@ -1,0 +1,16 @@
+---
+tags:
+- slider speed
+- sv
+---
+
+# Slider velocity
+
+*Slider velocity* is a number which desribes how far a [slider](/wiki/Hit_Objects/Slider) will travel in one full beat. It is measured as *hundreds of [osupixels](/wiki/Glossary#osupixel) per beat,* so a slider with a velocity of 1.00 will travel 100 osupixels (or, 100 pixels at 640x480 resolution) in one full beat. Since velocity is dependent on the length of a beat it means that sliders with the same velocity setting will travel faster with higher BPM.
+
+Slider velocity can be assigned through the `Timing` tab in the [beatmap editor](/wiki/Beatmap_Editor) from the main window. A multiplier to this value can then be set for different sections by adding inheriting [timing sections](/wiki/Beatmap_Editor/Timing) and changing the multliplication value.
+
+An old mapping technique uses slider velocities which are multiples of 0.16 (for instance, 1.60, 1.76, 1.92, etc.). This has the effect of lining up the endpoint of straight sliders with osu!'s grid when sliders use 1/1 or 1/2 snapping.
+
+<!-- This is a stub-->
+<!-- TODO: Add links and images-->
