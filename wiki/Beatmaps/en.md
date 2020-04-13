@@ -10,11 +10,11 @@ You can also find beatmaps in [beatmap packs](https://osu.ppy.sh/beatmaps/packs)
 
 Beatmaps are split into 5 categories depending on their recent activity, nomination status, or favorites. The categories are:
 
-- Graveyard
-- Work in Progress/Pending
-- Qualified
-- Ranked
-- Loved
+  - Graveyard
+  - Work in Progress/Pending
+  - Qualified
+  - Ranked
+  - Loved
 
 ### Graveyard
 
