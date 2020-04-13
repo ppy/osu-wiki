@@ -9,6 +9,7 @@ On the heels of the Winter 2020 Spotlights, we're announcing a brand new revamp 
 ![](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
 Since March 2017, the osu! Spotlights have worked in their current shape and form. While many mappers and players already love the idea of beatmaps being put on a pedestal and showcased for their excellence, we want to expand on the idea by making our choices meaningful to both players and mappers alike.
+
 As such, we intend to create **a new competitive and seasonal league** based on spotlighted maps. With this, you and your friends will have even more reason to delve into some of the best creations that osu! has to offer.
 
 To accomplish this, a revamp of the Spotlights Team will be necessary. As such, we are now looking for anyone from the community that is both willing and capable of selecting the best of the best from the mapping scene. Those who sign up will be responsible for helping to build this new competitive league from the ground up.
