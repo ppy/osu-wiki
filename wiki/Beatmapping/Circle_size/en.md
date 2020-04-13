@@ -1,22 +1,22 @@
 ---
 tags:
   - CS
+  - key count
 ---
 
 # Circle size
 
-*For regulations surrounding circle size, see: [Ranking Criteria](/wiki/Ranking_Criteria)*
+*For regulations surrounding circle size, see: [Ranking criteria](/wiki/Ranking_Criteria)*
 
-**Circle size** or *CS*, is a difficulty setting which has a number of different effects depending on the currently selected [game mode](/wiki/Game_Modes). Circle size values range from 0 to 10, but only values from 2 to 7 can be chosen through the [Beatmap Editor](/wiki/Beatmap_Editor). Other values can be used by manually editing the [.osu file](/wiki/osu!_File_Formats/Osu_(file_format)).
+**Circle size** (***CS***) is a [beatmap](/wiki/Beatmaps) difficulty setting that affects the size of [hit objects](/wiki/Hit_Objects). Circle size values range from 0 to 10, but only values from 2 to 7 can be chosen in the [beatmap editor](/wiki/Beatmap_Editor). Other values can be used by manually editing the [.osu file](/wiki/osu!_File_Formats/Osu_(file_format)) of a map.
 
 ## osu!standard
 
-In osu!standard [beatmaps](/wiki/Beatmaps), circle size changes the size of circles and sliders; with higher values creating smaller hit objects. Spinners are unaffected by circle size. Circle size is derived through the following formula:
+In osu!standard, circle size changes the size of hit circles and sliders, with higher values creating smaller hit objects. Spinners are unaffected by circle size. Circle size is derived through the following formula:
 
-`r = 54.4 - 4.48 * CS`
+`r = 54.4 - 4.48 * CS`<!-- multiplied by 1.00041 in the end to account for some bug in old replays -->
 
-Where `r` is the radius measured in osu!pixels, and `CS` is the numerical circle size value.
-<!-- multiplied by 1.00041 in the end to account for some bug in old replays -->
+Where `r` is the radius measured in osu!pixels, and `CS` is the circle size value.
 
 ## osu!taiko
 
@@ -28,6 +28,6 @@ In osu!catch, circle size determines the size of the catcher and the fruit.
 
 ## osu!mania
 
-In osu!mania, circle size refers to the total number of columns on a beatmap.
+In osu!mania, circle size refers to the key count.
 
 <!--TODO: Insert links -->
