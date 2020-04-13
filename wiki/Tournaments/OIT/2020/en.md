@@ -1,72 +1,70 @@
 ---
 tags:
-- OIT2020
-- OIT 2020
+  - OIT2020
+  - OIT 2020
 ---
 
 # osu! Indonesia Tournament #10 (2020)
 
-![](img/dLogo.jpg "osu! Indonesia Tournament 2020 Logo")
+![OIT 2020 logo](img/logo.jpg)
 
-**osu! Indonesia Tournament #10 (2020)**, also commonly known by its abbreviation **OIT 2020**, is an Indonesian double-elimination 1v1 osu!standard tournament hosted by ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548) and co-hosted by ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368), and ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825). It is the 10th iteration of the tournament series.
+The **osu! Indonesia Tournament #10 (2020)** (***OIT 2020***) was an Indonesian double-elimination 1v1 osu!standard tournament hosted by ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548) and co-hosted by ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368), and ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825). It was the 10th iteration of the tournament series.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2020-02-03/2020-02-16 |
-| Screening Phase | 2020-02-17/2020-02-23 |
+| Registration phase | 2020-02-03/2020-02-16 |
+| Screening phase | 2020-02-17/2020-02-23 |
 | Qualifiers | 2020-02-24/2020-03-01 |
 | Round of 32 | 2020-03-02/2020-03-08 |
 | Round of 16 | 2020-03-09/2020-03-15 |
 | Quarterfinals | 2020-03-16/2020-03-22 |
 | Semifinals | 2020-03-23/2020-03-29 |
-| Finals Week 1 | 2020-03-30/2020-04-05 |
-| Finals Week 2 | 2020-04-06/2020-04-12 |
+| Finals week 1 | 2020-03-30/2020-04-05 |
+| Finals week 2 | 2020-04-06/2020-04-12 |
 
 ## Prizes
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 50% of the raised prize pool, 6 months of osu!supporter, Unique profile badge |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the raised prize pool, 4 months of osu!supporter |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the raised prize pool, 2 months of osu!supporter |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 50% of the raised prize pool, 6 months of osu!supporter, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 30% of the raised prize pool, 4 months of osu!supporter |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the raised prize pool, 2 months of osu!supporter |
 
-![Badge](img/Badge.jpg)
+![Profile badge](img/badge.jpg)
 
 ## Organization
 
-osu! Indonesia Tournament #10 (2020) is run by various Indonesian osu! community members.
+The OIT 2020 was run by various Indonesian osu! community members.
 
 | Position | Members |
 | :-- | :-- |
 | Host | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548) |
-| Co-Host | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368), ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825) |
-| Map Selector | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496) |
+| Co-host | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368), ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825) |
+| Map selector | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496) |
 | Streamer | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Alice Pi](https://osu.ppy.sh/users/8787324), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869) |
 | Commentator | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [Remuru](https://osu.ppy.sh/users/3654220), ![][flag_ID] [Ascaveth](https://osu.ppy.sh/users/3245206), ![][flag_ID] [Kirinagi](https://osu.ppy.sh/users/5937545), ![][flag_ID] [Akebono](https://osu.ppy.sh/users/1815316), ![][flag_ID] [MasterfulNote5](https://osu.ppy.sh/users/7247988), ![][flag_ID] [Velstadt](https://osu.ppy.sh/users/6209095), ![][flag_ID] [thefarrel007](https://osu.ppy.sh/users/2429128), ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) |
 | Referee | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [Remuru](https://osu.ppy.sh/users/3654220), ![][flag_ID] [Ascaveth](https://osu.ppy.sh/users/3245206), ![][flag_ID] [Extinction666](https://osu.ppy.sh/users/5472877), ![][flag_ID] [NoVaLian](https://osu.ppy.sh/users/6459827), ![][flag_ID] [Fayn](https://osu.ppy.sh/users/5390495), ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773) |
-| Graphic Designer | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174), ![][flag_ID] [Nexa-](https://osu.ppy.sh/users/6155896) |
-| Wiki Editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825) |
+| Graphic designer | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174), ![][flag_ID] [Nexa-](https://osu.ppy.sh/users/6155896) |
+| Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825) |
 
 ## Links
 
-- **[Master Spreadsheet](https://docs.google.com/spreadsheets/d/12dU5oFb_vdfn5YHXMC6cvQZr7VeQV4hPU_WWzxYZiWg/edit#gid=1811776910)**
-- [Forum Thread](https://osu.ppy.sh/community/forums/topics/1003216)
-- [Discord Server](https://discordapp.com/invite/CHRFffH)
-- [Primary Livestream Channel](https://www.twitch.tv/osuindonesia)
-- [Secondary Livestream Channel](https://www.twitch.tv/osuindonesiab)
-- [Challonge Brackets](https://challonge.com/OIT2020)
+- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/12dU5oFb_vdfn5YHXMC6cvQZr7VeQV4hPU_WWzxYZiWg/edit#gid=1811776910)**
+- [Forum thread](https://osu.ppy.sh/community/forums/topics/1003216)
+- [Discord server](https://discordapp.com/invite/CHRFffH)
+- [Primary livestream channel](https://www.twitch.tv/osuindonesia)
+- [Secondary livestream channel](https://www.twitch.tv/osuindonesiab)
+- [Challonge brackets](https://challonge.com/OIT2020)
 
----
+## Podium
 
-![](img/Podium.jpg "osu! Indonesia Tournament 2020 Podium")
-
----
+![Champion: Skydiver, 2nd place: Fuma, 3rd place: Rexeez](img/podium.jpg)
 
 ## Mappools
 
-### Finals Week 2
+### Finals week 2
 
 **[Download the mappack here! (188 MB)](https://drive.google.com/file/d/1ooSskA_Q2pbYDkrXmRW2GKamWRWdv1Ky/view)**
 
@@ -97,7 +95,7 @@ osu! Indonesia Tournament #10 (2020) is run by various Indonesian osu! community
 - Tiebreaker
   - **[Amuro vs Killer - Mei (Camellia's "Yomigae' Remix) (RLC) \[Resurrection\]](https://osu.ppy.sh/beatmapsets/1123064#osu/2346860)**
 
-### Finals Week 1
+### Finals week 1
 
 **[Download the mappack here! (145 MB)](https://drive.google.com/file/d/1DrYx1aVN9ht6rqi_EnCeZoEdDEB23rw1/view)**
 
@@ -126,11 +124,11 @@ osu! Indonesia Tournament #10 (2020) is run by various Indonesian osu! community
   - [KOTOKO - Light My Fire (Dada) \[Vintage\]](https://osu.ppy.sh/beatmapsets/935912#osu/1955207)
   - [HujuniseikouyuuP - Talent Shredder (val0108) \[Lesjuh style\]](https://osu.ppy.sh/beatmapsets/47710#osu/153857)
 - Tiebreaker
-  - **[RoughSketch + DD"Nakata"Metal - Booths of Fighters (Camellia's "Barrage of Flurries" Remix) (Sheepcraft) \[UNSTABLE CLOCKWORK\]](https://osu.ppy.sh/beatmapsets/694725#osu/1469680)** 
+  - **[RoughSketch + DD"Nakata"Metal - Booths of Fighters (Camellia's "Barrage of Flurries" Remix) (Sheepcraft) \[UNSTABLE CLOCKWORK\]](https://osu.ppy.sh/beatmapsets/694725#osu/1469680)**
 
 ### Semifinals
 
-**[Download the mappack here! (141 MB)](https://drive.google.com/file/d/1HOwmJjSsaIGkSjN33qha7dAB2qFT8TKy/view?usp=sharing)**
+**[Download the mappack here! (141 MB)](https://drive.google.com/file/d/1HOwmJjSsaIGkSjN33qha7dAB2qFT8TKy/view)**
 
 - NoMod
   - [Kitamura Eri - STARLET SEEKER (CoLouRed GlaZeE) \[Delis' Extreme\]](https://osu.ppy.sh/beatmapsets/1085124#osu/2269187)
@@ -157,7 +155,7 @@ osu! Indonesia Tournament #10 (2020) is run by various Indonesian osu! community
   - [ZUN - Solar Sect of Mystic Wisdom ~ Nuclear Fusion (pieguy1372) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/22697#osu/78166)
   - [Takanashi Yasuharu - Tetsuryu -Kurogane- (\_Kiva) \[Hard\]](https://osu.ppy.sh/beatmapsets/116849#osu/301344)
 - Tiebreaker
-  - **[Yooh - Divinity (greenhue) \[Ascendance\]](https://osu.ppy.sh/beatmapsets/1120245#osu/2340789)** 
+  - **[Yooh - Divinity (greenhue) \[Ascendance\]](https://osu.ppy.sh/beatmapsets/1120245#osu/2340789)**
 
 ### Quarterfinals
 
@@ -188,7 +186,7 @@ osu! Indonesia Tournament #10 (2020) is run by various Indonesian osu! community
   - [Kinjishi - Nageki no Ki (Matrix) \[Insane\]](https://osu.ppy.sh/beatmapsets/1017760#osu/2130349)
   - [Eye_XY feat. Yoneko - Knight of Firmament (Pho) \[Sanctum\]](https://osu.ppy.sh/beatmapsets/317749#osu/707802)
 - Tiebreaker
-  - **[Kumagai Eri (cv.Seto Asami) - Winteright (Matidesh) \[Eri (OIT Edit)\]](https://osu.ppy.sh/beatmapsets/1126786#osu/2354263)** 
+  - **[Kumagai Eri (cv.Seto Asami) - Winteright (Matidesh) \[Eri (OIT Edit)\]](https://osu.ppy.sh/beatmapsets/1126786#osu/2354263)**
 
 ### Round of 16
 
@@ -214,7 +212,7 @@ osu! Indonesia Tournament #10 (2020) is run by various Indonesian osu! community
   - [mafumafu feat. IA - Adagaeshi Syndrome (DJ Lucky) \[RLC's Extra\]](https://osu.ppy.sh/beatmapsets/938437#osu/2054203)
   - [syatten remixed celas - Bird Sprite -Awakening of Light- (Reiji-RJ) \[Another\]](https://osu.ppy.sh/beatmapsets/43999#osu/137943)
 - Tiebreaker
-  - **[FELT - Lies in Reality (Frostings) \[Albatross\]](https://osu.ppy.sh/beatmapsets/568845#osu/1205981)** 
+  - **[FELT - Lies in Reality (Frostings) \[Albatross\]](https://osu.ppy.sh/beatmapsets/568845#osu/1205981)**
 
 ### Round of 32
 
@@ -240,7 +238,7 @@ osu! Indonesia Tournament #10 (2020) is run by various Indonesian osu! community
   - [Shintani Ryoko - Wonderful World (Laurier) \[Insane\]](https://osu.ppy.sh/beatmapsets/45306#osu/141525)
   - [IOSYS - CAMELLIA! \~Dangerous Camellia Vacation\~ (DJPop) \[Insane\]](https://osu.ppy.sh/beatmapsets/18879#osu/66684)
 - Tiebreaker
-  - **[AliA - AliVe \[Promises\] (ailv)](https://osu.ppy.sh/beatmapsets/1034823#osu/2163531)** 
+  - **[AliA - AliVe (ailv) \[Promises\]](https://osu.ppy.sh/beatmapsets/1034823#osu/2163531)**
 
 ### Qualifiers
 
@@ -261,149 +259,185 @@ osu! Indonesia Tournament #10 (2020) is run by various Indonesian osu! community
   - [EastNewSound - Sadistic Paranoia (TicClick) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/100931#osu/267657)
   - [senya - Koakuma Apple (EUROBEAT Remix) (Chocopikel) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/44300#osu/138816)
 
----
+## Match results
 
-## Match Results
+### Finals week 2
 
-### Finals Week 2
+Friday, 10 April 2020:
 
-| Grand Final | Sunday, 2020-04-12 |  |  |  |  |
+| Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** | **7** | 3 | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | [#1](https://osu.ppy.sh/community/matches/60320111) |
+| Lower | [Rexeez](https://osu.ppy.sh/users/1987591) ![][flag_ID] | 5 | **7** | ![][flag_ID] **[Fuma](https://osu.ppy.sh/users/1501956)** | [#1](https://osu.ppy.sh/community/matches/60231448) |
 
-| Bracket | Friday, 2020-04-10 |  |  |  |  |
+Sunday, 12 April 2020, Grand Final:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) | 5 | **7** | ![][flag_ID] **[Fuma](https://osu.ppy.sh/users/1501956)** | [#1](https://osu.ppy.sh/community/matches/60231448) |
+| Grand Final | **[Skydiver](https://osu.ppy.sh/users/4750008)** ![][flag_ID] | **7** | 3 | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | [#1](https://osu.ppy.sh/community/matches/60320111) |
 
-### Finals Week 1
+### Finals week 1
 
-| Bracket | Friday, 2020-04-03 |  |  |  |  |
+Friday, 3 April 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | ![][flag_ID] **[Fuma](https://osu.ppy.sh/users/1501956)** | **7** | 2 | ![][flag_ID] [-Reuto-](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/59942214) |
+| Lower | **[Fuma](https://osu.ppy.sh/users/1501956)** ![][flag_ID] | **7** | 2 | ![][flag_ID] [-Reuto-](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/59942214) |
 
-| Bracket | Saturday, 2020-04-04 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | ![][flag_ID] **[Gatyaa420](https://osu.ppy.sh/users/984132)** | **7** | 1 | ![][flag_ID] [Alan-](https://osu.ppy.sh/users/8937198) | [#1](https://osu.ppy.sh/community/matches/59979426) |
-| Upper | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** | **7** | 1 | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/984132) | [#1](https://osu.ppy.sh/community/matches/59979413) |
+Saturday, 4 April 2020:
 
-| Bracket | Monday, 2020-04-06 |  |  |  |  |
+| Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | ![][flag_ID] **[Fuma](https://osu.ppy.sh/users/1501956)** | **7** | 4 | ![][flag_ID] [Gatyaa420](https://osu.ppy.sh/users/984132) | [#1](https://osu.ppy.sh/community/matches/60064553) |
+| Lower | **[Gatyaa420](https://osu.ppy.sh/users/984132)** ![][flag_ID] | **7** | 1 | ![][flag_ID] [Alan-](https://osu.ppy.sh/users/8937198) | [#1](https://osu.ppy.sh/community/matches/59979426) |
+| Upper | **[Skydiver](https://osu.ppy.sh/users/4750008)** ![][flag_ID] | **7** | 1 | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/984132) | [#1](https://osu.ppy.sh/community/matches/59979413) |
+
+Monday, 6 April 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[Fuma](https://osu.ppy.sh/users/1501956)** ![][flag_ID] | **7** | 4 | ![][flag_ID] [Gatyaa420](https://osu.ppy.sh/users/984132) | [#1](https://osu.ppy.sh/community/matches/60064553) |
 
 ### Semifinals
 
-| Bracket | Saturday, 2020-03-28 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | ![][flag_ID] [Somay 287](https://osu.ppy.sh/users/4314559) | 1 | **6** | ![][flag_ID] **[F4UZ4N](https://osu.ppy.sh/users/11070577)** | [#1](https://osu.ppy.sh/community/matches/59700836) |
-| Lower | ![][flag_ID] **[-Reuto-](https://osu.ppy.sh/users/10717635)** | **6** | 2 | ![][flag_ID] [RealViolence](https://osu.ppy.sh/users/5638585) | [#1](https://osu.ppy.sh/community/matches/59703425) |
-| Upper | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** | **6** | 3 | ![][flag_ID] [Gatyaa420](https://osu.ppy.sh/users/984132) | [#1](https://osu.ppy.sh/community/matches/59703469) |
-| Lower | ![][flag_ID] [Skitzor](https://osu.ppy.sh/users/3353314) | 5 | **6** | ![][flag_ID] **[Alan-](https://osu.ppy.sh/users/8937198)** | [#1](https://osu.ppy.sh/community/matches/59745036) |
-| Lower | ![][flag_ID] **[Walfrid](https://osu.ppy.sh/users/6600809)** | **6** | 0 | ![][flag_ID] [\[fry\]](https://osu.ppy.sh/users/49176045) | *win by default* |
+Saturday, 28 March 2020:
 
-| Bracket | Sunday, 2020-03-29 |  |  |  |  |
+| Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | ![][flag_ID] [Walfrid](https://osu.ppy.sh/users/6600809) | 5 | **6** | ![][flag_ID] **[-Reuto-](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/59736433) |
-| Lower | ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577) | 4 | **6** | ![][flag_ID] **[Alan-](https://osu.ppy.sh/users/8937198)** | [#1](https://osu.ppy.sh/community/matches/59741370) |
-| Upper | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | 1 | **6** | ![][flag_ID] **[Rexeez](https://osu.ppy.sh/users/984132)** | [#1](https://osu.ppy.sh/community/matches/59745036) |
+| Lower | [Somay 287](https://osu.ppy.sh/users/4314559) ![][flag_ID] | 1 | **6** | ![][flag_ID] **[F4UZ4N](https://osu.ppy.sh/users/11070577)** | [#1](https://osu.ppy.sh/community/matches/59700836) |
+| Lower | **[-Reuto-](https://osu.ppy.sh/users/10717635)** ![][flag_ID] | **6** | 2 | ![][flag_ID] [RealViolence](https://osu.ppy.sh/users/5638585) | [#1](https://osu.ppy.sh/community/matches/59703425) |
+| Upper | **[Skydiver](https://osu.ppy.sh/users/4750008)** ![][flag_ID] | **6** | 3 | ![][flag_ID] [Gatyaa420](https://osu.ppy.sh/users/984132) | [#1](https://osu.ppy.sh/community/matches/59703469) |
+| Lower | [Skitzor](https://osu.ppy.sh/users/3353314) ![][flag_ID] | 5 | **6** | ![][flag_ID] **[Alan-](https://osu.ppy.sh/users/8937198)** | [#1](https://osu.ppy.sh/community/matches/59745036) |
+| Lower | **[Walfrid](https://osu.ppy.sh/users/6600809)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [\[fry\]](https://osu.ppy.sh/users/49176045) | *win by default* |
+
+Sunday, 29 March 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Walfrid](https://osu.ppy.sh/users/6600809) ![][flag_ID] | 5 | **6** | ![][flag_ID] **[-Reuto-](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/59736433) |
+| Lower | [F4UZ4N](https://osu.ppy.sh/users/11070577) ![][flag_ID] | 4 | **6** | ![][flag_ID] **[Alan-](https://osu.ppy.sh/users/8937198)** | [#1](https://osu.ppy.sh/community/matches/59741370) |
+| Upper | [Fuma](https://osu.ppy.sh/users/1501956) ![][flag_ID] | 1 | **6** | ![][flag_ID] **[Rexeez](https://osu.ppy.sh/users/984132)** | [#1](https://osu.ppy.sh/community/matches/59745036) |
 
 ### Quarterfinals
 
-| Bracket | Wednesday, 2020-03-18 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | ![][flag_ID] [Walfrid](https://osu.ppy.sh/users/6600809) | 2 | **6** | ![][flag_ID] **[Gatyaa420](https://osu.ppy.sh/users/984132)** | [#1](https://osu.ppy.sh/community/matches/59329311) |
-| Upper | ![][flag_ID] **[Fuma](https://osu.ppy.sh/users/1501956)** | **6** | 3 | ![][flag_ID] [Somay 287](https://osu.ppy.sh/users/4314559) | [#1](https://osu.ppy.sh/community/matches/59331034) |
+Wednesday, 18 March 2020:
 
-| Bracket | Friday, 2020-03-20 |  |  |  |  |
+| Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** | **6** | 0 | ![][flag_ID] [-Reuto-](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/59402350) |
+| Upper | [Walfrid](https://osu.ppy.sh/users/6600809) ![][flag_ID] | 2 | **6** | ![][flag_ID] **[Gatyaa420](https://osu.ppy.sh/users/984132)** | [#1](https://osu.ppy.sh/community/matches/59329311) |
+| Upper | **[Fuma](https://osu.ppy.sh/users/1501956)** ![][flag_ID] | **6** | 3 | ![][flag_ID] [Somay 287](https://osu.ppy.sh/users/4314559) | [#1](https://osu.ppy.sh/community/matches/59331034) |
 
-| Bracket | Saturday, 2020-03-21 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | ![][flag_ID] [Firia](https://osu.ppy.sh/users/9730262) | 1 | **6** | ![][flag_ID] **[F4UZ4N](https://osu.ppy.sh/users/11070577)** | [#1](https://osu.ppy.sh/community/matches/59432370) |
-| Lower | ![][flag_ID] [sumippe](https://osu.ppy.sh/users/1929336) | 3 | **6** | ![][flag_ID] **[MasterfulNote5](https://osu.ppy.sh/users/7247988)** | [#1](https://osu.ppy.sh/community/matches/59433967) |
-| Lower | ![][flag_ID] [Takaichi](https://osu.ppy.sh/users/909745) | 3 | **6** | ![][flag_ID] **[Skitzor](https://osu.ppy.sh/users/3353314)** | [#1](https://osu.ppy.sh/community/matches/59436345) |
-| Lower | ![][flag_ID] **[OTWGE](https://osu.ppy.sh/users/11759284)** | **6** | 1 | ![][flag_ID] [121Brian121](https://osu.ppy.sh/users/6192975) | [#1](https://osu.ppy.sh/community/matches/59437575) |
-| Lower | ![][flag_ID] [Vvn-](https://osu.ppy.sh/users/3204677) | 5 | **6** | ![][flag_ID] **[Seox](https://osu.ppy.sh/users/3793938)** | [#1](https://osu.ppy.sh/community/matches/59439101) |
-| Lower | ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174) | 2 | **6** | ![][flag_ID] **[RealViolence](https://osu.ppy.sh/users/5638585)** | [#1](https://osu.ppy.sh/community/matches/59441278) |
-| Lower | ![][flag_ID] **[\[fry\]](https://osu.ppy.sh/users/49176045)** | **6** | 0 | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | *win by default* |
-| Lower | ![][flag_ID] **[SpitzerFam](https://osu.ppy.sh/users/12965045)** | **6** | 0 | ![][flag_ID] [Xicyte](https://osu.ppy.sh/users/10212581) | *win by default* |
+Friday, 20 March 2020:
 
-| Bracket | Sunday, 2020-03-22 |  |  |  |  |
+| Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | ![][flag_ID] [SpitzerFam](https://osu.ppy.sh/users/12965045) | 3 | **6** | ![][flag_ID] **[\[fry\]](https://osu.ppy.sh/users/49176045)** | [#1](https://osu.ppy.sh/community/matches/59468793) |
-| Lower | ![][flag_ID] [MasterfulNote5](https://osu.ppy.sh/users/7247988) | 1 | **6** | ![][flag_ID] **[F4UZ4N](https://osu.ppy.sh/users/11070577)** | [#1](https://osu.ppy.sh/community/matches/59741370) |
-| Lower | ![][flag_ID] [OTWGE](https://osu.ppy.sh/users/11759284) | 5 | **6** | ![][flag_ID] **[Skitzor](https://osu.ppy.sh/users/3353314)** | [#1](https://osu.ppy.sh/community/matches/59472832) |
-| Lower | ![][flag_ID] **[RealViolence](https://osu.ppy.sh/users/5638585)** | **6** | 5 | ![][flag_ID] [Seox](https://osu.ppy.sh/users/3793938) | [#1](https://osu.ppy.sh/community/matches/59476799) |
-| Upper | ![][flag_ID] **[Rexeez](https://osu.ppy.sh/users/1987591)** | **6** | 0 | ![][flag_ID] [Alan-](https://osu.ppy.sh/users/8937198) | [#1](https://osu.ppy.sh/community/matches/59477669) |
+| Upper | **[Skydiver](https://osu.ppy.sh/users/4750008)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [-Reuto-](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/59402350) |
+
+Saturday, 21 March 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [Firia](https://osu.ppy.sh/users/9730262) ![][flag_ID] | 1 | **6** | ![][flag_ID] **[F4UZ4N](https://osu.ppy.sh/users/11070577)** | [#1](https://osu.ppy.sh/community/matches/59432370) |
+| Lower | [sumippe](https://osu.ppy.sh/users/1929336) ![][flag_ID] | 3 | **6** | ![][flag_ID] **[MasterfulNote5](https://osu.ppy.sh/users/7247988)** | [#1](https://osu.ppy.sh/community/matches/59433967) |
+| Lower | [Takaichi](https://osu.ppy.sh/users/909745) ![][flag_ID] | 3 | **6** | ![][flag_ID] **[Skitzor](https://osu.ppy.sh/users/3353314)** | [#1](https://osu.ppy.sh/community/matches/59436345) |
+| Lower | **[OTWGE](https://osu.ppy.sh/users/11759284)** ![][flag_ID] | **6** | 1 | ![][flag_ID] [121Brian121](https://osu.ppy.sh/users/6192975) | [#1](https://osu.ppy.sh/community/matches/59437575) |
+| Lower | [Vvn-](https://osu.ppy.sh/users/3204677) ![][flag_ID] | 5 | **6** | ![][flag_ID] **[Seox](https://osu.ppy.sh/users/3793938)** | [#1](https://osu.ppy.sh/community/matches/59439101) |
+| Lower | [Tama-desu](https://osu.ppy.sh/users/3813174) ![][flag_ID] | 2 | **6** | ![][flag_ID] **[RealViolence](https://osu.ppy.sh/users/5638585)** | [#1](https://osu.ppy.sh/community/matches/59441278) |
+| Lower | **[\[fry\]](https://osu.ppy.sh/users/49176045)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | *win by default* |
+| Lower | **[SpitzerFam](https://osu.ppy.sh/users/12965045)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [Xicyte](https://osu.ppy.sh/users/10212581) | *win by default* |
+
+Sunday, 22 March 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | [SpitzerFam](https://osu.ppy.sh/users/12965045) ![][flag_ID] | 3 | **6** | ![][flag_ID] **[\[fry\]](https://osu.ppy.sh/users/49176045)** | [#1](https://osu.ppy.sh/community/matches/59468793) |
+| Lower | [MasterfulNote5](https://osu.ppy.sh/users/7247988) ![][flag_ID] | 1 | **6** | ![][flag_ID] **[F4UZ4N](https://osu.ppy.sh/users/11070577)** | [#1](https://osu.ppy.sh/community/matches/59741370) |
+| Lower | [OTWGE](https://osu.ppy.sh/users/11759284) ![][flag_ID] | 5 | **6** | ![][flag_ID] **[Skitzor](https://osu.ppy.sh/users/3353314)** | [#1](https://osu.ppy.sh/community/matches/59472832) |
+| Lower | **[RealViolence](https://osu.ppy.sh/users/5638585)** ![][flag_ID] | **6** | 5 | ![][flag_ID] [Seox](https://osu.ppy.sh/users/3793938) | [#1](https://osu.ppy.sh/community/matches/59476799) |
+| Upper | **[Rexeez](https://osu.ppy.sh/users/1987591)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [Alan-](https://osu.ppy.sh/users/8937198) | [#1](https://osu.ppy.sh/community/matches/59477669) |
 
 ### Round of 16
 
-| Bracket | Wednesday, 2020-03-11 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | ![][flag_ID] **[Fuma](https://osu.ppy.sh/users/1501956)** | **5** | 0 | ![][flag_ID] [Vvn](https://osu.ppy.sh/users/3204677) | [#1](https://osu.ppy.sh/community/matches/59101316) |
+Wednesday, 11 March 2020:
 
-| Bracket | Friday, 2020-03-13 |  |  |  |  |
+| Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** | **5** | 0 | ![][flag_ID] [Firia](https://osu.ppy.sh/users/9730262) | [#1](https://osu.ppy.sh/community/matches/59150256) |
-| Upper | ![][flag_ID] [sumippe](https://osu.ppy.sh/users/1929336) | 1 | **5** | ![][flag_ID] **[-Reuto-](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/59150273) |
-| Upper | ![][flag_ID] [CubeixID200](https://osu.ppy.sh/users/10678919) | 1 | **5** | ![][flag_ID] **[F4UZ4N](https://osu.ppy.sh/users/11070577)** | [#1](https://osu.ppy.sh/community/matches/59150333) |
+| Upper | **[Fuma](https://osu.ppy.sh/users/1501956)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Vvn](https://osu.ppy.sh/users/3204677) | [#1](https://osu.ppy.sh/community/matches/59101316) |
 
-| Bracket | Saturday, 2020-03-14 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | ![][flag_ID] [fnayR](https://osu.ppy.sh/users/2800253) | 0 | **5** | ![][flag_ID] **[Xicyte](https://osu.ppy.sh/users/10212581)** | [#1](https://osu.ppy.sh/community/matches/59176753) |
-| Lower | ![][flag_ID] **[dika312](https://osu.ppy.sh/users/741613)** | **5** | 3 | ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354) | [#1](https://osu.ppy.sh/community/matches/59180327) |
-| Upper | ![][flag_ID] **[Gatyaa420](https://osu.ppy.sh/users/984132)** | **5** | 1 | ![][flag_ID] [OTWGE](https://osu.ppy.sh/users/11759284) | [#1](https://osu.ppy.sh/community/matches/59184312) |
-| Upper | ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174) | 1 | **5** | ![][flag_ID] **[Somay 287](https://osu.ppy.sh/users/4314559)** | [#1](https://osu.ppy.sh/community/matches/59184410) |
-| Lower | ![][flag_ID] [Pr0ximate](https://osu.ppy.sh/users/9919268) | 0 | **5** | ![][flag_ID] **[MasterfulNote5](https://osu.ppy.sh/users/7247988)** | [#1](https://osu.ppy.sh/community/matches/59186516) |
-| Lower | ![][flag_ID] [Veltlion](https://osu.ppy.sh/users/10999079) | 0 | **5** | ![][flag_ID] **[Seox](https://osu.ppy.sh/users/3793938)** | *win by default* |
+Friday, 13 March 2020:
 
-| Bracket | Sunday, 2020-03-15 |  |  |  |  |
+| Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | ![][flag_ID] **[Rexeez](https://osu.ppy.sh/users/1987591)** | **5** | 1 | ![][flag_ID] [\[fry\]](https://osu.ppy.sh/users/4917604) | [#1](https://osu.ppy.sh/community/matches/59214418) |
-| Upper | ![][flag_ID] **[Walfrid](https://osu.ppy.sh/users/6600809)** | **5** | 1 | ![][flag_ID] [Takaichi](https://osu.ppy.sh/users/909745) | [#1](https://osu.ppy.sh/community/matches/59216674) |
-| Lower | ![][flag_ID] [DigiM](https://osu.ppy.sh/users/2659328) | 0 | **5** | ![][flag_ID] **[121Brian121](https://osu.ppy.sh/users/6192975)** | [#1](https://osu.ppy.sh/community/matches/59223534) |
-| Upper | ![][flag_ID] **[Alan-](https://osu.ppy.sh/users/8937198)** | **5** | 3 | ![][flag_ID] [SpitzerFam](https://osu.ppy.sh/users/12965045) | [#1](https://osu.ppy.sh/community/matches/59223517) |
+| Upper | **[Skydiver](https://osu.ppy.sh/users/4750008)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Firia](https://osu.ppy.sh/users/9730262) | [#1](https://osu.ppy.sh/community/matches/59150256) |
+| Upper | [sumippe](https://osu.ppy.sh/users/1929336) ![][flag_ID] | 1 | **5** | ![][flag_ID] **[-Reuto-](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/59150273) |
+| Upper | [CubeixID200](https://osu.ppy.sh/users/10678919) ![][flag_ID] | 1 | **5** | ![][flag_ID] **[F4UZ4N](https://osu.ppy.sh/users/11070577)** | [#1](https://osu.ppy.sh/community/matches/59150333) |
 
-| Bracket | Monday, 2020-03-16 |  |  |  |  |
+Saturday, 14 March 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | ![][flag_ID] **[Skitzor](https://osu.ppy.sh/users/3353314)** | **5** | 0 | ![][flag_ID] [AnzewVix](https://osu.ppy.sh/users/8621203) | [#1](https://osu.ppy.sh/community/matches/59256421) |
-| Lower | ![][flag_ID] [Medseba](https://osu.ppy.sh/users/5638585) | 3 | **5** | ![][flag_ID] **[RealViolence](https://osu.ppy.sh/users/5638585)** | [#1](https://osu.ppy.sh/community/matches/59260873) |
+| Lower | [fnayR](https://osu.ppy.sh/users/2800253) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[Xicyte](https://osu.ppy.sh/users/10212581)** | [#1](https://osu.ppy.sh/community/matches/59176753) |
+| Lower | **[dika312](https://osu.ppy.sh/users/741613)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354) | [#1](https://osu.ppy.sh/community/matches/59180327) |
+| Upper | **[Gatyaa420](https://osu.ppy.sh/users/984132)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [OTWGE](https://osu.ppy.sh/users/11759284) | [#1](https://osu.ppy.sh/community/matches/59184312) |
+| Upper | [Tama-desu](https://osu.ppy.sh/users/3813174) ![][flag_ID] | 1 | **5** | ![][flag_ID] **[Somay 287](https://osu.ppy.sh/users/4314559)** | [#1](https://osu.ppy.sh/community/matches/59184410) |
+| Lower | [Pr0ximate](https://osu.ppy.sh/users/9919268) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[MasterfulNote5](https://osu.ppy.sh/users/7247988)** | [#1](https://osu.ppy.sh/community/matches/59186516) |
+| Lower | [Veltlion](https://osu.ppy.sh/users/10999079) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[Seox](https://osu.ppy.sh/users/3793938)** | *win by default* |
+
+Sunday, 15 March 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[Rexeez](https://osu.ppy.sh/users/1987591)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [\[fry\]](https://osu.ppy.sh/users/4917604) | [#1](https://osu.ppy.sh/community/matches/59214418) |
+| Upper | **[Walfrid](https://osu.ppy.sh/users/6600809)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [Takaichi](https://osu.ppy.sh/users/909745) | [#1](https://osu.ppy.sh/community/matches/59216674) |
+| Lower | [DigiM](https://osu.ppy.sh/users/2659328) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[121Brian121](https://osu.ppy.sh/users/6192975)** | [#1](https://osu.ppy.sh/community/matches/59223534) |
+| Upper | **[Alan-](https://osu.ppy.sh/users/8937198)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [SpitzerFam](https://osu.ppy.sh/users/12965045) | [#1](https://osu.ppy.sh/community/matches/59223517) |
+
+Monday, 16 March 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Lower | **[Skitzor](https://osu.ppy.sh/users/3353314)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [AnzewVix](https://osu.ppy.sh/users/8621203) | [#1](https://osu.ppy.sh/community/matches/59256421) |
+| Lower | [Medseba](https://osu.ppy.sh/users/5638585) ![][flag_ID] | 3 | **5** | ![][flag_ID] **[RealViolence](https://osu.ppy.sh/users/5638585)** | [#1](https://osu.ppy.sh/community/matches/59260873) |
 
 ### Round of 32
 
-| Bracket | Friday, 2020-03-06 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | ![][flag_ID] **[Alan-](https://osu.ppy.sh/users/8937198)** | **5** | 3 | ![][flag_ID] [CubeixID200](https://osu.ppy.sh/users/10678919) | [#1](https://osu.ppy.sh/community/matches/58961660) |
-| Upper | ![][flag_ID] **[Fuma](https://osu.ppy.sh/community/matches/58963886)** | **5** | 0 | ![][flag_ID] [DigiM](https://osu.ppy.sh/users/2659328) | [#1](https://osu.ppy.sh/community/matches/58963886) |
+Friday, 6 March 2020:
 
-| Bracket | Saturday, 2020-03-07 |  |  |  |  |
+| Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | ![][flag_ID] **[Firia](https://osu.ppy.sh/users/9730262)** | **5** | 4 | ![][flag_ID] [Xicyte](https://osu.ppy.sh/users/10212581) | [#1](https://osu.ppy.sh/community/matches/58991934) |
-| Upper | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** | **5** | 0 | ![][flag_ID] [fnayR](https://osu.ppy.sh/users/2800253) | [#1](https://osu.ppy.sh/community/matches/58986406) |
-| Upper | ![][flag_ID] **[sumippe](https://osu.ppy.sh/users/1929336)** | **5** | 2 | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | [#1](https://osu.ppy.sh/community/matches/58988281) |
-| Upper | ![][flag_ID] **[Walfrid](https://osu.ppy.sh/users/6600809)** | **5** | 0 | ![][flag_ID] [Medseba](https://osu.ppy.sh/users/9000010) | [#1](https://osu.ppy.sh/community/matches/58991189) |
-| Upper | ![][flag_ID] **[Gatyaa420](https://osu.ppy.sh/users/984132)** | **5** | 0 | ![][flag_ID] [Veltlion](https://osu.ppy.sh/users/10999079) | [#1](https://osu.ppy.sh/community/matches/58993650) |
-| Upper | ![][flag_ID] **[Somay 287](https://osu.ppy.sh/users/4314559)** | **5** | 2 | ![][flag_ID] [AnzewVix](https://osu.ppy.sh/users/8621203) | [#1](https://osu.ppy.sh/community/matches/58995162) |
+| Upper | **[Alan-](https://osu.ppy.sh/users/8937198)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [CubeixID200](https://osu.ppy.sh/users/10678919) | [#1](https://osu.ppy.sh/community/matches/58961660) |
+| Upper | **[Fuma](https://osu.ppy.sh/community/matches/58963886)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [DigiM](https://osu.ppy.sh/users/2659328) | [#1](https://osu.ppy.sh/community/matches/58963886) |
 
-| Bracket | Sunday, 2020-03-08 |  |  |  |  |
+Saturday, 7 March 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577) | 1 | **5** | ![][flag_ID] **[SpitzerFam](https://osu.ppy.sh/users/12965045)** | [#1](https://osu.ppy.sh/community/matches/59019128) |
-| Upper | ![][flag_ID] **[\[fry\]](https://osu.ppy.sh/users/4917604)** | **5** | 3 | ![][flag_ID] [MasterfulNote5](https://osu.ppy.sh/users/7247988) | [#1](https://osu.ppy.sh/community/matches/59020372) |
-| Upper | ![][flag_ID] [121Brian121](https://osu.ppy.sh/users/6192975) | 3 | **5** | ![][flag_ID] **[Vvn](https://osu.ppy.sh/users/3204677)** | [#1](https://osu.ppy.sh/community/matches/59021427) |
-| Upper | ![][flag_ID] **[Rexeez](https://osu.ppy.sh/users/1987591)** | **5** | 0 | ![][flag_ID] [Pr0ximate](https://osu.ppy.sh/users/9919268) | [#1](https://osu.ppy.sh/community/matches/59025123) |
-| Upper | ![][flag_ID] **[OTWGE](https://osu.ppy.sh/users/11759284)** | **5** | 1 | ![][flag_ID] [Seox](https://osu.ppy.sh/users/3793938) | [#1](https://osu.ppy.sh/community/matches/59027003) |
-| Upper | ![][flag_ID] **[Takaichi](https://osu.ppy.sh/users/909745)** | **5** | 2 | ![][flag_ID] [RealViolence](https://osu.ppy.sh/users/5638585) | [#1](https://osu.ppy.sh/community/matches/59027071) |
-| Upper | ![][flag_ID] [Skitzor](https://osu.ppy.sh/users/3353314) | 0 | **5** | ![][flag_ID] **[Tama-desu](https://osu.ppy.sh/users/3813174)** | *win by default* |
+| Upper | **[Firia](https://osu.ppy.sh/users/9730262)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Xicyte](https://osu.ppy.sh/users/10212581) | [#1](https://osu.ppy.sh/community/matches/58991934) |
+| Upper | **[Skydiver](https://osu.ppy.sh/users/4750008)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [fnayR](https://osu.ppy.sh/users/2800253) | [#1](https://osu.ppy.sh/community/matches/58986406) |
+| Upper | **[sumippe](https://osu.ppy.sh/users/1929336)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | [#1](https://osu.ppy.sh/community/matches/58988281) |
+| Upper | **[Walfrid](https://osu.ppy.sh/users/6600809)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Medseba](https://osu.ppy.sh/users/9000010) | [#1](https://osu.ppy.sh/community/matches/58991189) |
+| Upper | **[Gatyaa420](https://osu.ppy.sh/users/984132)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Veltlion](https://osu.ppy.sh/users/10999079) | [#1](https://osu.ppy.sh/community/matches/58993650) |
+| Upper | **[Somay 287](https://osu.ppy.sh/users/4314559)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [AnzewVix](https://osu.ppy.sh/users/8621203) | [#1](https://osu.ppy.sh/community/matches/58995162) |
 
-| Bracket | Monday, 2020-03-09 |  |  |  |  |
+Sunday, 8 March 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | ![][flag_ID] **[-Reuto-](https://osu.ppy.sh/users/10717635)** | **5** | 0 | ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354) | [#1](https://osu.ppy.sh/community/matches/59050687) |
+| Upper | [F4UZ4N](https://osu.ppy.sh/users/11070577) ![][flag_ID] | 1 | **5** | ![][flag_ID] **[SpitzerFam](https://osu.ppy.sh/users/12965045)** | [#1](https://osu.ppy.sh/community/matches/59019128) |
+| Upper | **[\[fry\]](https://osu.ppy.sh/users/4917604)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [MasterfulNote5](https://osu.ppy.sh/users/7247988) | [#1](https://osu.ppy.sh/community/matches/59020372) |
+| Upper | [121Brian121](https://osu.ppy.sh/users/6192975) ![][flag_ID] | 3 | **5** | ![][flag_ID] **[Vvn](https://osu.ppy.sh/users/3204677)** | [#1](https://osu.ppy.sh/community/matches/59021427) |
+| Upper | **[Rexeez](https://osu.ppy.sh/users/1987591)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Pr0ximate](https://osu.ppy.sh/users/9919268) | [#1](https://osu.ppy.sh/community/matches/59025123) |
+| Upper | **[OTWGE](https://osu.ppy.sh/users/11759284)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [Seox](https://osu.ppy.sh/users/3793938) | [#1](https://osu.ppy.sh/community/matches/59027003) |
+| Upper | **[Takaichi](https://osu.ppy.sh/users/909745)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [RealViolence](https://osu.ppy.sh/users/5638585) | [#1](https://osu.ppy.sh/community/matches/59027071) |
+| Upper | [Skitzor](https://osu.ppy.sh/users/3353314) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[Tama-desu](https://osu.ppy.sh/users/3813174)** | *win by default* |
 
----
+Monday, 9 March 2020:
+
+| Bracket | Player 1 |  |  | Player 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| Upper | **[-Reuto-](https://osu.ppy.sh/users/10717635)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354) | [#1](https://osu.ppy.sh/community/matches/59050687) |
 
 ## Ruleset
 
-### General Rules
+### General rules
 
 1. Map scoring is based on **Score V2.**
 2. The mapsets for each round will be announced by the Tournament Management in advance before the actual matches take place.
@@ -423,17 +457,17 @@ osu! Indonesia Tournament #10 (2020) is run by various Indonesian osu! community
     - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment of OIT.
     - If there is anyone try to play as the participants, their account will be blacklisted in the next installment of OIT for both participant and the helper.
 
-### Qualifier Rules
+### Qualifier rules
 
 1. Each participant will have to sign up to one of the eight Qualifier lobbies that has been scheduled and prepared by the Tournament Management in advance.
 2. In the lobby, participants will have to consecutively play all of the ten Qualifier maps in the order of NM1 -> NM2 -> NM3 -> NM4 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
 3. Participants **are not allowed** to ban any maps in the Qualifiers.
 4. Participants **are not allowed** to join in (or register for) more than one Qualifier lobbies.
-5. 32 participants with the **highest average rank combined from each individual Qualifier beatmaps** will advance to the knock-out stages. 
+5. 32 participants with the **highest average rank combined from each individual Qualifier beatmaps** will advance to the knock-out stages.
    - If there are two (or more) participants who share the same average rank, the participant that holds the higher total score combined from all ten Qualifier beatmaps will be placed in the higher seed.
 6. Failure to attend in any of the eight Qualifier lobbies will result in an instant elimination from the tournament.
 
-### Knock-Out Stage Rules
+### Knock-out stage rules
 
 1. The 32 participants who managed to get through from the Qualifiers will be matched to each other based on their Qualifiers seeding.
 2. Participants will compete against each other using the Double Elimination system.
@@ -448,7 +482,7 @@ osu! Indonesia Tournament #10 (2020) is run by various Indonesian osu! community
    - Participants who Win By Default.
    - If there are participants who experience disqualification during the match.
 
-### Match Regulations
+### Match regulations
 
 1. Each player must use `!roll` once in #multiplayer in order to determine the banning and picking order.
    - The winner of the `!roll` gets to decide the second and third ban as well as the first pick of the match.
@@ -463,4 +497,4 @@ osu! Indonesia Tournament #10 (2020) is run by various Indonesian osu! community
    - Playing a FreeMod pick without any mods applied is not allowed.
 5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has concluded by the responsible referees.
 
-[flag_ID]: /wiki/shared/flag/ID.gif
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
