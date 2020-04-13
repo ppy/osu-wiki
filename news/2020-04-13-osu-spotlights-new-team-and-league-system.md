@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu! Spotlights: Recruiting New Team"
-date: 2020-04-13 08:00:00 +0000
+date: 2020-04-13 12:30:00 +0000
 ---
 
 On the heels of the Winter 2020 Spotlights, we're announcing a brand new revamp of the Beatmap Spotlights from the ground up, including a new recruitment drive and experimentation with a competitive league for the players!
