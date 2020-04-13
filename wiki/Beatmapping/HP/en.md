@@ -1,7 +1,7 @@
 ---
 tags:
-  - HP
-  - Health
+- HP
+- Health
 ---
 
 # HP

@@ -1,8 +1,8 @@
 ---
 tags:
-  - Health Drain
-  - HP Drain
-  - Passive Drain
+- Health Drain
+- HP Drain
+- Passive Drain
 ---
 
 # Health drain

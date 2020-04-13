@@ -1,8 +1,8 @@
 ---
 tags:
-  - Health Drain
-  - HP Drain
-  - Passive Drain
+- Health Drain
+- HP Drain
+- Passive Drain
 ---
 
 # Health
@@ -13,23 +13,23 @@ tags:
 
 In osu!standard health will decrease at a steady rate called [health drain](/wiki/Beatmapping/Health_drain), but can be replenished by tapping notes at the right time or spinning spinners.
 
-Score bursts will appear after tapping hit circles, changing score and health values depending on the accuracy of the hit. A perfectly timed hit (300) will recover more health more than a badly timed hit (50). Players also receive larger boosts if they achieve a [katu](#katu) or a [geki](#geki) at the end of a combo. A miss will drain health instead. If spinners are cleared early, continuing to spin will gain additional health back. For an overview of health recovery and health loss see below:
+Score bursts will appear after tapping hit circles, changing score and health values depending on the accuracy of the hit. A perfectly timed hit (300) will recover more health than a badly timed hit (50). Players also receive larger boosts if they achieve a [katu](#katu) or a [geki](#geki) at the end of a combo. A miss will drain health instead. If spinners are cleared early, continuing to spin will gain additional health back. For an overview of health recovery and health loss see below:
 
 Health recovery:
 
-- A successful tap on the hit circle (better judgement leads to more health gain; the last hit circle in a colour combo awards more health).
-- A successful tap on a slider start.
-- The slider ball collected a slider tick successfully.
-- The slider ball touched the slider end or a reverse arrow successfully (better judgement at the end tick leads to more health gain).
-- Completing a spinner and continuing to spin (better judgement at the end of the spinner leads to more health gain).
+  - A successful tap on the hit circle (better judgement leads to more health gain; the last hit circle in a colour combo awards more health).
+  - A successful tap on a slider start.
+  - The slider ball collected a slider tick successfully.
+  - The slider ball touched the slider end or a reverse arrow successfully (better judgement at the end tick leads to more health gain).
+  - Completing a spinner and continuing to spin (better judgement at the end of the spinner leads to more health gain).
 
 Health loss:
 
-- Health drain.
-- Missing a hit circle.
-- Tapping a slider head early.
-- Missing a slider tick, or slider reverse arrow.
-- Failed to achieve at least a 50 on a spinner.
+  - Health drain.
+  - Missing a hit circle.
+  - Tapping a slider head early.
+  - Missing a slider tick, or slider reverse arrow.
+  - Failed to achieve at least a 50 on a spinner.
 
 Health reserved:
 
@@ -58,7 +58,7 @@ No effect:
 - Completing Dendens.
 - Completing Shakers.
 
-_(Note: It is entirely possible for a beatmap to never pass by design due to it only containing drumrolls and/or dendens/shakers.)_
+*(Note: It is entirely possible for a beatmap to never pass by design due to it only containing drumrolls and/or dendens/shakers.)*
 
 ## osu!catch
 
