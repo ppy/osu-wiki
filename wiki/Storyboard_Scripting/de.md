@@ -10,7 +10,7 @@ Als Zusatz zur Benutzung des [Storyboard Editors](/wiki/Beatmap_Editor/Design), 
 
 ## Vollständige Beschreibung
 
-Es basiert grundsätzlich auf [die offizielen Spezifikationen](https://osu.ppy.sh/forum/viewtopic.php?p=12468#p12468) und Erfahrungen, bei der Erstellung von langen Storyboards. Dies hier ist **kein Schritt-für-Schritt Anleitung**, jedoch sind einfache Beispiele vorhanden. Dies dient dazu osu! genau zu beschreiben, wie der SBS in Aktionen übersetzt werden soll.
+Es basiert grundsätzlich auf [die offizielen Spezifikationen](https://osu.ppy.sh/community/forums/topics/1869) und Erfahrungen, bei der Erstellung von langen Storyboards. Dies hier ist **kein Schritt-für-Schritt Anleitung**, jedoch sind einfache Beispiele vorhanden. Dies dient dazu osu! genau zu beschreiben, wie der SBS in Aktionen übersetzt werden soll.
 
 [Lies dir bitte erst die Regeln durch, bevor du mit dem SBS anfängst.](/wiki/Storyboard_Scripting/General_Rules) Klicke [hier](/wiki/Storyboard_Scripting/Objects) für Sprite/Objekt spezifische Elemente und [hier](/wiki/Storyboard_Scripting/Commands) für Befehle, um deren Bewegungabläufe festlegen zu können.
 

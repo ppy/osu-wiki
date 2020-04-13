@@ -652,7 +652,6 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 [flag_CA]: /wiki/shared/flag/CA.gif
 [flag_CH]: /wiki/shared/flag/CH.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
 [flag_GR]: /wiki/shared/flag/GR.gif

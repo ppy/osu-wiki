@@ -36,7 +36,6 @@ Beatmap Nominators possess the tools to nominate beatmaps and shape the world of
 
 ### Disqualification
 
-- **Beatmaps qualified in modding v1 that need to be disqualified must be brought to the attention of the NAT.**
 - **Only full members may disqualify beatmaps, regardless of reason.** Probation members may however still participate in such discussions and report beatmaps like everyone else.
 - **Disqualifications should primarily be done for beatmaps with unrankable issues, or if the beatmapset owner requests it.**
 - **Disqualification requests by the beatmapset owner can be applied immediately.** This includes yourself, in case you want to self-dq.

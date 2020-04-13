@@ -15,7 +15,7 @@ tags:
 ## Tournament Schedule
 
 | Event | Timestamp |
-|---:|---|
+| --: | :-- |
 | Registration Phase   | 2018-01-19/2018-02-09 |
 | Qualifiers           | 2018-02-17/2018-02-18 |
 | Playoffs - Week 1    | 2018-02-24/2018-02-25 |
@@ -32,7 +32,7 @@ tags:
 ## Prizes
 
 | Placing | Prize(s) |
-| :---: | :--- |
+| :-: | :-- |
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Profile badge and 9 months of osu!supporter |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu!supporter |
@@ -42,7 +42,7 @@ tags:
 ## Organization
 
 | Position | Member |
-| ------------ | -------------- |
+| :-- | :-- |
 | Host | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) |
 | Coordinator | ![][flag_GB] [-Konner-](https://osu.ppy.sh/users/6108644), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) |
 | Map Selector | ![][flag_US] [Gekido-](https://osu.ppy.sh/users/4693052), ![][flag_BR] [Guilhermeziat](https://osu.ppy.sh/users/3661387), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) |
@@ -63,7 +63,7 @@ tags:
 ### Qualified Participants
 
 | Seed | Users |
-| --- | --- |
+| :-- | :-- |
 | Top (#1 - #16) | ![][flag_US] [TheToaphster](https://osu.ppy.sh/users/7616811), ![][flag_CA] [Dawt](https://osu.ppy.sh/users/2747704), ![][flag_US] [-Electro-](https://osu.ppy.sh/users/3251373), ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019), ![][flag_JP] [inteliser](https://osu.ppy.sh/users/1824775), ![][flag_SE] [Couil](https://osu.ppy.sh/users/6872025), ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_ID] [RemFangirl](https://osu.ppy.sh/users/5767941), ![][flag_MX] [\_Mytros\_](https://osu.ppy.sh/users/6507028), ![][flag_FR] [Azubeur](https://osu.ppy.sh/users/1594604), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282), ![][flag_GB] [Pipper](https://osu.ppy.sh/users/4168230), ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061), ![][flag_ES] [aitor98](https://osu.ppy.sh/users/3154852), ![][flag_MY] [Minisora](https://osu.ppy.sh/users/9627666), ![][flag_SE] [\[ Vento \]](https://osu.ppy.sh/users/1612580) |
 | High (#17 - #32) | ![][flag_US] [Chrubble](https://osu.ppy.sh/users/2594280), ![][flag_CA] [Panshow](https://osu.ppy.sh/users/5872899), ![][flag_CL] [Rythze](https://osu.ppy.sh/users/469808), ![][flag_US] [DJKhaled](https://osu.ppy.sh/users/1718717), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_US] [HeZeus](https://osu.ppy.sh/users/7387788), ![][flag_PH] [MapleSyrup-](https://osu.ppy.sh/users/1192936), ![][flag_RU] [Mage](https://osu.ppy.sh/users/5527957), ![][flag_US] [RemiFlan](https://osu.ppy.sh/users/3061151), ![][flag_GB] [Traps Are Cute](https://osu.ppy.sh/users/3359035), ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341), ![][flag_CN] [DawnX](https://osu.ppy.sh/users/8534840), ![][flag_JP] [3KO3](https://osu.ppy.sh/users/8107835), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_BE] [NightNarumi](https://osu.ppy.sh/users/4381142), ![][flag_GB] [xSnaggles](https://osu.ppy.sh/users/3799946) |
 | Low (#33 - #96) | ![][flag_BE] [yetified](https://osu.ppy.sh/users/6914714), ![][flag_FR] [Elementaires](https://osu.ppy.sh/users/2284328), ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750), ![][flag_TH] [floodlord](https://osu.ppy.sh/users/2772110), ![][flag_PH] [SurfChu85](https://osu.ppy.sh/users/4469895), ![][flag_PH] [joseee-](https://osu.ppy.sh/users/10083439), ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_CA] [CommandoBlack](https://osu.ppy.sh/users/7025841), ![][flag_CN] [\[Crz\]ScSolAr](https://osu.ppy.sh/users/1591215), ![][flag_JP] [sleetgirl](https://osu.ppy.sh/users/10745260), ![][flag_TH] [- \[ Yuki \] -](https://osu.ppy.sh/users/7440728), ![][flag_FR] [Cunu](https://osu.ppy.sh/users/7190228), ![][flag_JP] [AMDuskia1996](https://osu.ppy.sh/users/10242062), ![][flag_AU] [Lusty Platypus](https://osu.ppy.sh/users/2956184), ![][flag_PL] [Arkitev](https://osu.ppy.sh/users/6905790), ![][flag_CN] [pikechu](https://osu.ppy.sh/users/6511662), ![][flag_US] [dhn](https://osu.ppy.sh/users/8987388), ![][flag_DE] [LastExceed](https://osu.ppy.sh/users/6232245), ![][flag_US] [Neuro-](https://osu.ppy.sh/users/7687954), ![][flag_US] [2dw](https://osu.ppy.sh/users/9331760), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_FI] [-Oreo-](https://osu.ppy.sh/users/5099222), ![][flag_FR] [DemonWaves](https://osu.ppy.sh/users/3909293), ![][flag_TH] [Phoenix530](https://osu.ppy.sh/users/9633611), ![][flag_BR] [SillyFangirl](https://osu.ppy.sh/users/2288363), ![][flag_PL] [Cyan\_Star](https://osu.ppy.sh/users/8679184), ![][flag_PH] [Lenfried-](https://osu.ppy.sh/users/5314573), ![][flag_CA] [Kengy](https://osu.ppy.sh/users/8864630), ![][flag_PL] [DaDarkDragon](https://osu.ppy.sh/users/8902097), ![][flag_AU] [PotassiumF](https://osu.ppy.sh/users/4247722), ![][flag_PL] [Hlimak](https://osu.ppy.sh/users/1340272), ![][flag_FR] [Koiidex](https://osu.ppy.sh/users/5193488), ![][flag_US] [Psychodic](https://osu.ppy.sh/users/4380139), ![][flag_PL] [Miq](https://osu.ppy.sh/users/2424440), ![][flag_CA] [arpia97](https://osu.ppy.sh/users/6363008), ![][flag_FR] [Adri](https://osu.ppy.sh/users/4579132), ![][flag_ES] [Userbacker](https://osu.ppy.sh/users/1872307), ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_FR] [Tantei B](https://osu.ppy.sh/users/6063108), ![][flag_MY] [\[Xiiao\]Ray](https://osu.ppy.sh/users/8287005), ![][flag_MY] [Kaname-san92](https://osu.ppy.sh/users/764535), ![][flag_GB] [lazer09909](https://osu.ppy.sh/users/6222691), ![][flag_PH] [nyx-](https://osu.ppy.sh/users/9883834), ![][flag_TH] [TheNewBungping](https://osu.ppy.sh/users/6291395), ![][flag_PL] [Nick Wilde](https://osu.ppy.sh/users/8902097), ![][flag_ID] [Lafreniere](https://osu.ppy.sh/users/4247722), ![][flag_DE] [Malox](https://osu.ppy.sh/users/4516252), ![][flag_MY] [never214](https://osu.ppy.sh/users/11332742), ![][flag_SE] [YoShiZoRi](https://osu.ppy.sh/users/5045509), ![][flag_FI] [princesswell](https://osu.ppy.sh/users/4789005), ![][flag_TH] [SharpKunG1412](https://osu.ppy.sh/users/6535376), ![][flag_AU] [AngeLItchysick](https://osu.ppy.sh/users/9527845), ![][flag_SE] [Craty](https://osu.ppy.sh/users/3918056), ![][flag_AU] [-Xenovia-](https://osu.ppy.sh/users/5259743), ![][flag_FR] [\_dk](https://osu.ppy.sh/users/4592369), ![][flag_PL] [ArchGMSati](https://osu.ppy.sh/users/5508623), ![][flag_NL] [2fast4you98](https://osu.ppy.sh/users/5183940), ![][flag_BR] [Zergh](https://osu.ppy.sh/users/3181281), ![][flag_AR] [Fisk-](https://osu.ppy.sh/users/5748843), ![][flag_US] [afrono](https://osu.ppy.sh/users/1320102), ![][flag_GB] [SleepyDarkrai](https://osu.ppy.sh/users/5063207), ![][flag_PH] [TheArge](https://osu.ppy.sh/users/9919550), ![][flag_ZA] [Cyrosu](https://osu.ppy.sh/users/7748432) |
@@ -72,7 +72,7 @@ tags:
 ### Groups
 
 | Group | Top | High | Low | Bottom |
-| :---: | --- | --- | --- | --- |
+| :-: | :-- | :-- | :-- | :-- |
 | **A** | ![][flag_CA] Dawt         | ![][flag_US] RemiFlan       | ![][flag_PH] SurfChu85       | ![][flag_FR] Tantei B       |
 | **B** | ![][flag_GB] Pipper       | ![][flag_GB] Pope Gadget    | ![][flag_SG] Polytetral      | ![][flag_BR] SillyFangirl   |
 | **C** | ![][flag_MY] Minisora     | ![][flag_BE] yetified       | ![][flag_PH] joseee-         | ![][flag_ID] Lafreniere     |
@@ -97,7 +97,7 @@ tags:
 This competition has come to an end and resulted in the following podium:
 
 | Placing | User |
-|:---:|---|
+| :-: | :-- |
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | ![][flag_BR] [**Lothus**](https://osu.ppy.sh/users/9530019) |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_JP] [**inteliser**](https://osu.ppy.sh/users/1824775) |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [**TheToaphster**](https://osu.ppy.sh/users/7616811)    |
@@ -283,11 +283,11 @@ This competition has come to an end and resulted in the following podium:
 Detailed results of the Grand Finals stage can be found [here](https://goo.gl/wvJcRV).
 
 | Saturday, 2018-04-28 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | **Lothus** ![][flag_BR] | **7** | 1 | ![][flag_US] TheToaphster |
 
 | Sunday, 2018-04-29 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | inteliser ![][flag_JP]  | 3 | **7** | ![][flag_BR] **Lothus** | |
 | **Lothus** ![][flag_BR] | **7** | 2 | ![][flag_JP] inteliser  | |
 
@@ -296,12 +296,12 @@ Detailed results of the Grand Finals stage can be found [here](https://goo.gl/wv
 Detailed results of the Finals stage can be found [here](https://goo.gl/TQAKDv).
 
 | Saturday, 2018-04-21 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Lothus ![][flag_BR]  | 6 | **7** | ![][flag_JP] **inteliser** | |
 | aitor98 ![][flag_ES] | 3 | **7** | ![][flag_CA] **Dawt**      | |
 
 | Sunday, 2018-04-22 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | **TheToaphster** ![][flag_US] | **7** | 0 | ![][flag_BR] andreymc         | |
 | Dawt ![][flag_CA]             | 2 | **7** | ![][flag_US] **TheToaphster** | |
 
@@ -310,14 +310,14 @@ Detailed results of the Finals stage can be found [here](https://goo.gl/TQAKDv).
 Detailed results of the Semifinals stage can be found [here](https://goo.gl/hmSMka).
 
 | Saturday, 2018-04-14 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | **andreymc** ![][flag_BR] | **6** | 5 | ![][flag_JP] AMDuskia1996  | |
 | TheToaphster ![][flag_US] | 1 | **6** | ![][flag_BR] **Lothus**    | |
 | Tidek ![][flag_PL]        | 2 | **6** | ![][flag_US] **-Electro-** | |
 | **Dawt** ![][flag_CA]     | **6** | 1 | ![][flag_US] Chrubble      | |
 
 | Sunday, 2018-04-15 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | **Panshow** ![][flag_CA] | **6** | 0 | ![][flag_MY] Minisora      | |
 | aitor98 ![][flag_ES]     | 0 | **6** | ![][flag_JP] **inteliser** | WBD |
 | -Electro- ![][flag_US]   | 0 | **6** | ![][flag_BR] **andreymc**  | WBD |
@@ -328,11 +328,11 @@ Detailed results of the Semifinals stage can be found [here](https://goo.gl/hmSM
 Detailed results of the Quarterfinals stage can be found [here](https://goo.gl/LevsDD).
 
 | Friday, 2018-04-06 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | RemFangirl ![][flag_ID] | 2 | **6** | ![][flag_MY] **Minisora** | |
 
 | Saturday, 2018-04-07 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Azubeur ![][flag_FR]    | 0 | **6** | ![][flag_GB] **Traps Are Cute** | WBD |
 | **HeZeus** ![][flag_US] | **6** | 1 | ![][flag_BE] NightNarumi        | |
 | Rythze ![][flag_CL]     | 0 | **6** | ![][flag_PL] **Arkitev**        | WBD |
@@ -341,7 +341,7 @@ Detailed results of the Quarterfinals stage can be found [here](https://goo.gl/L
 | SitekX ![][flag_PL]     | 0 | **6** | ![][flag_US] **Chrubble**       | WBD |
 
 | Sunday, 2018-04-08 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | PotassiumF ![][flag_AU]       | 0 | **6** | ![][flag_US] **-Electro-**    | |
 | **AMDuskia1996** ![][flag_JP] | **6** | 3 | ![][flag_GB] Pope Gadget      | |
 | **Minisora** ![][flag_MY]     | **6** | 0 | ![][flag_PL] Arkitev          | |
@@ -357,14 +357,14 @@ Detailed results of the Quarterfinals stage can be found [here](https://goo.gl/L
 Detailed results of the Round of 16 stage can be found [here](https://goo.gl/jbctVe).
 
 | Saturday, 2018-03-31 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | arpia97 ![][flag_CA]      | 1 | **5** | ![][flag_GB] **Traps Are Cute** | |
 | Couil ![][flag_SE]        | 2 | **5** | ![][flag_MX] **\_Mytros\_**     | |
 | **Arkitev** ![][flag_PL]  | **5** | 0 | ![][flag_US] DJKhaled           | WBD |
 | **Chrubble** ![][flag_US] | **5** | 1 | ![][flag_US] Neuro-             | |
 
 | Sunday, 2018-04-01 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | **Panshow** ![][flag_CA]      | **5** | 1 | ![][flag_AU] PotassiumF      | |
 | RemiFlan ![][flag_US]         | 0 | **5** | ![][flag_MY] **Minisora**    | |
 | joseee- ![][flag_PH]          | 0 | **5** | ![][flag_US] **-Electro-**   | WBD |
@@ -383,7 +383,7 @@ Detailed results of the Round of 16 stage can be found [here](https://goo.gl/jbc
 Detailed results of the Round of 32 stage can be found [here](https://goo.gl/XUjUy4).
 
 | Saturday, 2018-03-24 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | **inteliser** ![][flag_JP] | **5** | 0 | ![][flag_SE] Couil      | |
 | **aitor98** ![][flag_ES]   | **5** | 0 | ![][flag_PH] joseee-    | |
 | **Tidek** ![][flag_PL]     | **5** | 1 | ![][flag_CL] WalterToro | |
@@ -393,7 +393,7 @@ Detailed results of the Round of 32 stage can be found [here](https://goo.gl/XUj
 | \_Mytros\_ ![][flag_MX]    | 3 | **5** | ![][flag_CL] **Rythze** | |
 
 | Sunday, 2018-03-25 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | -Electro- ![][flag_US]        | 3 | **5** | ![][flag_US] **HeZeus**       | |
 | **Panshow** ![][flag_CA]      | **5** | 0 | ![][flag_ID] lombit           | |
 | **PotassiumF** ![][flag_AU]   | **5** | 1 | ![][flag_BE] NightNarumi      | |
@@ -409,11 +409,11 @@ Detailed results of the Round of 32 stage can be found [here](https://goo.gl/XUj
 Detailed results of the Group Stage can be found [here](https://goo.gl/FfQfZi).
 
 | Friday, 2018-03-09 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | **NightNarumi** ![][flag_BE] | **4** | 0 | ![][flag_US] 2dw | |
 
 | Saturday, 2018-03-10 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | **2dw** ![][flag_US]             | **4** | 0 | ![][flag_AU] AngeLItchysick   | WBD |
 | **SitekX** ![][flag_PL]          | **4** | 0 | ![][flag_AU] AngeLItchysick   | |
 | **NightNarumi** ![][flag_BE]     | **4** | 0 | ![][flag_AU] AngeLItchysick   | |
@@ -435,7 +435,7 @@ Detailed results of the Group Stage can be found [here](https://goo.gl/FfQfZi).
 | **RemiFlan** ![][flag_US]        | **4** | 2 | ![][flag_FR] Tantei B         | |
 
 | Sunday, 2018-03-11 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | **-Electro-** ![][flag_US]      | **4** | 1 | ![][flag_CA] arpia97          | |
 | **-Electro-** ![][flag_US]      | **4** | 2 | ![][flag_JP] 3KO3             | |
 | **floodlord** ![][flag_TH]      | **4** | 3 | ![][flag_CA] arpia97          | |
@@ -460,7 +460,7 @@ Detailed results of the Group Stage can be found [here](https://goo.gl/FfQfZi).
 | **Dawt** ![][flag_CA]           | **4** | 1 | ![][flag_US] RemiFlan         | |
 
 | Saturday, 2018-03-17 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | **SurfChu85** ![][flag_PH]     | **4** | 0 | ![][flag_FR] Tantei B           | WBD |
 | **Minisora** ![][flag_MY]      | **4** | 0 | ![][flag_ID] Lafreniere         | WBD |
 | **Minisora** ![][flag_MY]      | **4** | 1 | ![][flag_PH] joseee-            | |
@@ -492,7 +492,7 @@ Detailed results of the Group Stage can be found [here](https://goo.gl/FfQfZi).
 | **TheToaphster** ![][flag_US]  | **4** | 0 | ![][flag_AU] Lusty Platypus     | |
 
 | Sunday, 2018-03-18 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | **Neuro-** ![][flag_US]       | **4** | 0 | ![][flag_AU] -Xenovia-        | |
 | **HeZeus** ![][flag_US]       | **4** | 2 | ![][flag_CA] CommandoBlack    | |
 | Rythze ![][flag_CL]           | 0 | **4** | ![][flag_AU] **PotassiumF**   | WBD |
@@ -524,11 +524,11 @@ Detailed results of the Group Stage can be found [here](https://goo.gl/FfQfZi).
 Detailed results of the Playoffs can be found [here](https://goo.gl/CGgypm).
 
 | Wednesday, 2018-02-21 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | **Arkitev** ![][flag_PL] | **4** | 1 | ![][flag_SE] YoShiZoRi | |
 
 | Saturday, 2018-02-24 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | sleetgirl ![][flag_JP]          | 0 | **4** | ![][flag_AU] **-Xenovia-** | |
 | **pikechu** ![][flag_CN]        | **4** | 2 | ![][flag_MY] never214      | |
 | **\[Crz\]ScSolAr** ![][flag_CN] | **4** | 0 | ![][flag_FR] \_dk          | WBD |
@@ -543,7 +543,7 @@ Detailed results of the Playoffs can be found [here](https://goo.gl/CGgypm).
 | BlankPxl ![][flag_GB]           | 2 | **4** | ![][flag_AR] **BubShish**  | |
 
 | Sunday, 2018-02-25 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | **SurfChu85** ![][flag_PH]       | **4** | 1 | ![][flag_AR] Fisk-              | |
 | **Framps** ![][flag_AU]          | **4** | 2 | ![][flag_CA] loafusofbread      | |
 | **Shedin** ![][flag_BR]          | **4** | 0 | ![][flag_AU] Spartan-           | WBD |
@@ -564,11 +564,11 @@ Detailed results of the Playoffs can be found [here](https://goo.gl/CGgypm).
 | Daybreak ![][flag_MX]            | 0 | **4** | ![][flag_AR] **JotaCe**         | WBD |
 
 | Friday, 2018-03-02 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Hlimak ![][flag_PL] | 1 | **4** | ![][flag_FR] **Koiidex** | |
 
 | Saturday, 2018-03-03 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | **PotassiumF** ![][flag_AU]     | **4** | 2 | ![][flag_US] Psychodic      | |
 | **2dw** ![][flag_US]            | **4** | 2 | ![][flag_TH] TheNewBungping | |
 | Phoenix530 ![][flag_TH]         | 3 | **4** | ![][flag_FR] **Tantei B**   | |
@@ -587,7 +587,7 @@ Detailed results of the Playoffs can be found [here](https://goo.gl/CGgypm).
 | **DJKhaled** ![][flag_US]       | **4** | 0 | ![][flag_US] Fizzy          | WBD |
 
 | Sunday, 2018-03-04 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| --: | :-: | :-: | :-- | :-: |
 | Kengy ![][flag_CA]            | 0 | **4** | ![][flag_CA] **arpia97**    | |
 | **RemiFlan** ![][flag_US]     | **4** | 0 | ![][flag_BR] Shedin         | |
 | **HeZeus** ![][flag_US]       | **4** | 0 | ![][flag_ID] twistedclever  | WBD |

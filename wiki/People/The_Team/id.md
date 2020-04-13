@@ -1,3 +1,12 @@
+---
+tags:
+  - osu! staff
+  - osu!team
+  - osu! team
+  - staff
+  - team osu!
+---
+
 # Tim
 
 *Untuk daftar pengguna yang dipromosikan atau telah pensiun, lihat: [Staff Log](/wiki/Staff_Log)*

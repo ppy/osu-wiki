@@ -1,21 +1,13 @@
 ---
 needs_cleanup: true
 ---
-
-[media-anime-vol-1]: https://www.mediafire.com/?9n65pm9fp8yp5bn
-[media-anime-vol-2]: https://www.mediafire.com/?722os55j52ikylq
-[media-anime-vol-3]: https://www.mediafire.com/?tky7bjc58hcno6b
-[media-anime-vol-4]: https://www.mediafire.com/?j5b5b6bimr5ahdv
-[media-rhythm-vol-1]: https://www.mediafire.com/?87n2agcrcgmwxob
-[media-rhythm-vol-2]: https://www.mediafire.com/?axvxrnx637767ls
-[media-rhythm-vol-3]: https://www.mediafire.com/?781tio8fge7y7d2
-[media-rhythm-vol-4]: https://www.mediafire.com/?6hc29ws6j36dcag
+<!-- TODO: more like "history of beatmap packs"... this article shouldn't exist as-is -->
 
 # Beatmap packs 0916
 
 ***[Click here to return to the "Achievements" page](..)***
 
-These are the legacy/original themed packs packed during osu! infancy years (2009) before being updated by [Stefan on 16 January 2016](https://osu.ppy.sh/news/137535031193).
+These are the legacy/original themed packs packed during osu! infancy years (2009) before being updated by [Stefan on 16 January 2016](https://osu.ppy.sh/home/news/2016-01-18-osuweekly-44).
 Hence why the `0916` part is in the title.
 
 ## Anime Pack
@@ -26,7 +18,7 @@ Hence why the `0916` part is in the title.
 
 Download:
 
-- [MediaFire][media-anime-vol-1]
+- [MediaFire](https://www.mediafire.com/?9n65pm9fp8yp5bn)
 
 Maps:
 
@@ -50,7 +42,7 @@ Maps:
 
 Download:
 
-- [MediaFire][media-anime-vol-2]
+- [MediaFire](https://www.mediafire.com/?722os55j52ikylq)
 
 Maps:
 
@@ -74,7 +66,7 @@ Maps:
 
 Download:
 
-- [MediaFire][media-anime-vol-3]
+- [MediaFire](https://www.mediafire.com/?tky7bjc58hcno6b)
 
 Maps:
 
@@ -98,7 +90,7 @@ Maps:
 
 Download:
 
-- [MediaFire][media-anime-vol-4]
+- [MediaFire](https://www.mediafire.com/?j5b5b6bimr5ahdv)
 
 Maps:
 
@@ -224,7 +216,7 @@ Maps:
 
 Download:
 
-- [MediaFire][media-rhythm-vol-1]
+- [MediaFire](https://www.mediafire.com/?87n2agcrcgmwxob)
 
 Maps:
 
@@ -248,7 +240,7 @@ Maps:
 
 Download:
 
-- [MediaFire][media-rhythm-vol-2]
+- [MediaFire](https://www.mediafire.com/?axvxrnx637767ls)
 
 Maps:
 
@@ -272,7 +264,7 @@ Maps:
 
 Download:
 
-- [MediaFire][media-rhythm-vol-3]
+- [MediaFire](https://www.mediafire.com/?781tio8fge7y7d2)
 
 Maps:
 
@@ -296,7 +288,7 @@ Maps:
 
 Download:
 
-- [MediaFire][media-rhythm-vol-4]
+- [MediaFire](https://www.mediafire.com/?6hc29ws6j36dcag)
 
 Maps:
 

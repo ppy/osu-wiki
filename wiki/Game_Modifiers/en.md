@@ -38,7 +38,7 @@ In [Multi](/wiki/Multi) mode, the effect of "lives" will not work in [Tag Coop /
 
 - Reduces overall difficulty - larger circles, more forgiving HP drain, less accuracy required.
 
-In [osu!standard](/wiki/Game_Modes/osu!) mode, the Easy mod decreases [circle size](/wiki/Beatmap_Editor/Song_Setup#circle-size), [approach rate](/wiki/Beatmap_Editor/Song_Setup#approach-rate) (AR), [overall difficulty](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) (OD) as well as [HP drain](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) (HP); each of these by a huge amount (half of the current amount set).
+In [osu!standard](/wiki/Game_Modes/osu!) mode, the Easy mod decreases [circle size](/wiki/Beatmap_Editor/Song_Setup#circle-size), [approach rate](/wiki/Beatmapping/Approach_rate) (AR), [overall difficulty](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) (OD) as well as [HP drain](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) (HP); each of these by a huge amount (half of the current amount set).
 
 ![Easy decreases the difficulty in many ways.](img/GM_EZ1.jpg "Easy decreases the difficulty in many ways.")
 
@@ -134,7 +134,7 @@ As this mod increases difficulty in a huge way compared to the other two modes, 
 
 ---
 
-In [osu!mania](/wiki/Game_Modes/osu!mania) mode, only the judgement difficulty (OD) and the [approach rate](/wiki/Beatmap_Editor/Song_Setup#approach-rate) (AR) values are increased.
+In [osu!mania](/wiki/Game_Modes/osu!mania) mode, only the judgement difficulty (OD) and the [approach rate](/wiki/Beatmapping/Approach_rate) (AR) values are increased.
 
 Hard Rock mod will not affect the note placement. For mod that will change the note placement, see [Random](#random) mod under Special.
 

@@ -25,7 +25,7 @@ Geben Sie einfach ein, wonach Sie suchen möchten. Der Text in der Suchleiste wi
 ##### Gast
 
 | Name | Effekt |
-| --- | --- |
+| :-- | :-- |
 | Benutzername | Geben Sie hier Ihren registrierten Benutzernamen ein |
 | Passwort | Das Passwort zu Ihrem Benutzernamen. |
 | Benutzername speichern | Lassen Sie Ihren Benutzernamen von osu! speichern.{Benutzername} |
@@ -40,7 +40,7 @@ Als {Benutzername} anmeldet.
 Klicke Sie darauf, um auf gewisse Funktionen zuzugreifen.
 
 | Name | Effekt |
-| --- | --- |
+| :-- | :-- |
 | 1. Profil anzeigen | Sehen Sie sich Ihren Profil auf der osu! Website an. |
 | 2. Ausloggen | Loggen Sie sich aus dem Spiel aus. |
 | 3. Avatar ändern | Ändern Sie Ihren Profilbild. |
@@ -49,7 +49,7 @@ Klicke Sie darauf, um auf gewisse Funktionen zuzugreifen.
 #### Sprache
 
 | Name | Effekt |
-| --- | --- |
+| :-- | :-- |
 | Sprache wählen | Wählen Sie Ihre bevorzugte Sprache aus. osu! wird das Sprachpaket downloaden und zu der ausgewählten Sprache wechseln. Standard ist Englisch. Um dazu beizutragen: [Forum Link](https://osu.ppy.sh/community/forums/topics/104342/) (alter Link) |
 | Metadaten in Originalsprache | Beatmaps, die über Unicode Metadaten verfügen, werden statt der üblichen ASCII Metadaten in der Originalsprache angezeigt. **Beispiel:** Wenn ausgewählt, wird sich der Titel der Beatmap von "Night of Feifan Brother" zu "非凡哥之夜" ändern, falls der Mapper Unicode Daten für seine/ihre Beatmap angegeben hat. Hier ist [Beatmap](https://osu.ppy.sh/beatmapsets/44443#osu/139221) aus dem Beispiel. |
 | Alternative Schriftart im Chat | Wenn Sie die alte Schriftart (Tahoma) lieber als die derzeitige (Aller) im Chat verwenden möchten. |
@@ -57,7 +57,7 @@ Klicke Sie darauf, um auf gewisse Funktionen zuzugreifen.
 #### Updates
 
 | Name | Effekt |
-| --- | --- |
+| :-- | :-- |
 | UpdatequelleUpdatequelle | **Stable:** Public build. ****Cutting Edge:** osu!test build (Multi nur als Supporter zugänglich). **Anmerkung:** Online Verbindung ist notwendig, um zwischen diesen zu wechseln. |
 | osu!-Ordner öffnen | osu!-Ordner öffnen. |
 
@@ -70,7 +70,7 @@ Klicke Sie darauf, um auf gewisse Funktionen zuzugreifen.
 `Neustart erforderlich.`
 
 | Name | Effekt |
-| --- | --- |
+| :-- | :-- |
 | OpenGL | Benutze diesen, wenn Sie \[1\] keine Shaderunterstützung haben, \[2\] extreme Lags oder sehr niedrige FPS haben, \[3\] eine alte oder eine DirectX inkompatible Grafikkarte benutzen. |
 | DirectX (Default) | Benutzt Shader, um die Performance zu verbessern, kann sich aber schlecht auf *sehr* alten Geräten auswirken. |
 | Frame Limiter | 60fps (vsync), 60fps (low latency), 120fps \[Standard\], 240fps, Unbegrenzt (Gameplay), Unbegrenzt |
@@ -84,7 +84,7 @@ Anmerkung: Für Laptop Benutzer wird empfohlen die FPS zu limitieren, um Überhi
 ##### Auflösung wählen:
 
 | Eigenschaften | Auflösung im Fenstermodus | Auflösung im Vollbildmodus |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | Standard | 800 x 600, 1024 x 768 | 800 x 600, 1024 x 768 |
 | Breitbild | 1024 x 600, _Ihre Bildschirmauflösung_ (Randlos) \[Standard\] | _Ihre Bildschirmauflösung_ (native) \[Standard\] |
 
@@ -93,7 +93,7 @@ Anmerkung: Für Laptop Benutzer wird empfohlen die FPS zu limitieren, um Überhi
 #### Grafikeinstellungen
 
 | Name | Effekt |
-| --- | --- |
+| :-- | :-- |
 | Animierte Slider | Slider von der Startposition aus aufklappen lassen, anstatt sie von Anfang an komplett anzuzeigen. Dies sollte keine Probleme bereiten, außer man besitzt einen schwachen PC. |
 | Hintergrund Video | Aktiviert das Abspielen von Hintergrundvideos. Wenn Maps mit Videos für Sie unspielbar sind, deaktivieren Sie diese Option. Kann vorübergehend in den Visual Settings deaktiviert werden. |
 | Storyboards | Zeige Storyboards im Hintergrund von Beatmaps. Sie enthalten meistens Storyelemente, Songtexte oder Spezialeffekte. Kann ebenfalls vorübergehend in den Visual Settings deaktiviert werden. |
@@ -105,14 +105,14 @@ Anmerkung: Für Laptop Benutzer wird empfohlen die FPS zu limitieren, um Überhi
 ##### Screenshot Format (Dateiformat von Screenshots)
 
 | Name | Effekt |
-| --- | --- |
+| :-- | :-- |
 | PNG (Verlustfrei) | Hohe Dateigröße, aber unkomprimierte Qualität. |
 | JPEG (Web-geeignet) \[Default\] | Kompakte Dateigröße. Mühelos zu laden. Kann beim Reinzoomen verpixelt wirken. |
 
 #### Hauptmenü
 
 | Name | Effekt |
-| --- | --- |
+| :-- | :-- |
 | Schneeanimation | Kleine Icons des derzeit ausgewählten Spielmodus fallen als Schnee Symbole im Hauptmenü vom Himmel. Erstellt für Weihnachten 2013 und Rückkehr dank großer Nachfrage. |
 | Parallaxeneffekt | Der Bildschirm bewegt sich mit Ihrem osu!cursor mit. Funktioniert nicht während des Gameplays. |
 | Tipps | Zeigt eine Menge interessanter Tipps an, jedes mal wenn man das Hauptmenü besucht. Diese befinden sich unter dem riesigen osu! Symbol. |
@@ -122,7 +122,7 @@ Anmerkung: Für Laptop Benutzer wird empfohlen die FPS zu limitieren, um Überhi
 #### Songauswahl
 
 | Name | Effekt |
-| --- | --- |
+| :-- | :-- |
 | Vorschaubilder | Zeigt eine Vorschau des Hintergrundbildes in der Songauswahl an. Voraussetzung ist ein kompatibler Skin (Version 2.2+). |
 
 ### Gameplay
@@ -132,7 +132,7 @@ Anmerkung: Für Laptop Benutzer wird empfohlen die FPS zu limitieren, um Überhi
 #### Allgemein
 
 | Name | Effekt |
-| --- | --- |
+| :-- | :-- |
 | Hintergrund-Dimmer | Alle Beatmaps werden gezwungen den Wert des Dimmers anzunehmen. |
 | Position der Fortschrittsleiste (stellt die Darstellung und die Position der Fortschrittsleiste fest) | Rechts oben (Kreis) \[Standard\], Top-Right (Balken), Rechts unten {Ähnlich wie bei osu!droid}, Unterer Bildschirmrand (langer Balken) {Ähnlich wie bei osu!stream} |
 | Genauigkeitsmeter (stellt die Erscheinung des Genauigkeitsmessers am unteren Bildschirmrand fest). | **Aus:** Zeigt keinen Genauigkeitsmeter, **Farbe:** Zeigt voherige Hitwerte an (basiert an den Farben vom Standardskin für die 300/100/50/Miss), **Abweichung \[Standard\]:** Zeigt Ihnen präzise, wie akkurat Sie bei jedem Hit sind. Die Länge der einzelnen Bereiche hängen von der OD ab. Links - Mitte - Rechts = zu früh - Perfekt – zu spät |
@@ -153,7 +153,7 @@ The volume controls allow one to change the volume in-game.
 - Effekte: Beeinflusst die Lautstärke der Hitsounds, sowie andere Soundeffekte.
 
 | Name | Effekt |
-| --- | --- |
+| :-- | :-- |
 | Beatmaps Hitsounds ignorieren | Hitsounds, die einer Beatmap beigefügt worden sind, werden ignoriert. |
 
 #### Universeller Audio-Offset
@@ -181,7 +181,7 @@ Hinweis: Das derzeitig abgespielte Lied in der Jukebox wird dazu verwendet.
 #### Skin
 
 | Name | Effekt |
-| --- | --- |
+| :-- | :-- |
 | (Bilder vom Skin) | Bilder vom Skin. Zeigt den Spinner nicht. **Set 1:** Hitcircleset, hit50.png, hit100.png, hit300.png, **Set 2:** hit0.png, hit100k.png, hit300g.png, **Set 3:** Combozahlen, **Set 4:** Scorezahlen |
 | Skin auswählen | Zeigt den aktuell benutzten Skin an. Der Standardskin von osu! wird immer als erstes gelistet. |
 | Skinordner öffnen | Schneller Zugriff auf den aktuellen Skin. Funktioniert jedoch nicht mit dem Standardskin von osu! |
@@ -199,7 +199,7 @@ Hinweis: Das derzeitig abgespielte Lied in der Jukebox wird dazu verwendet.
 #### Maus
 
 | Name | Effekt |
-| --- | --- |
+| :-- | :-- |
 | Mausgeschwindigkeit | Die Standardeinstellung entspricht der des Desktops. |
 | Raw Input | Raw Input umgeht die Datenverarbeitung in Windows und fragt die Eingabedaten direkt von der Hardware ab. |
 | Absoluten Raw Input aufs osu! Fenster abbilden | Eingabegeräte mit absoluter Positionierung, z.B. Tablets, betreffen normalerweise den kompletten Bildschirm. Diese Option erlaubt solch Geräten ausschließlich auf das osu! Fenster zu wirken. |
@@ -214,7 +214,7 @@ Hinweis: Das derzeitig abgespielte Lied in der Jukebox wird dazu verwendet.
 Tasteneinstellung für die jeweilige Spalte. **Drück die Taste für die jeweilige Spalte.** Ansonsten wird die [Standardtasteneinstellung](/wiki/Game_Modes/osu!mania) für osu!mania verwendet.
 
 | Name | Effekt |
-| --- | --- |
+| :-- | :-- |
 | Tastenanzahl | Einstellungen für 1K - 10K. |
 | Column Style \[nur 6K und 8K\] | **Normal:** `Z S X D C F` (6K), `Z S X D C F V G` (8K); **Right:** `Z S X D C *F*` (6K), `Z S X D C F V *LShift*` (8K); **Left:** `*Z* S X D C F` (6K), `*LShift* Z S X D C F V` (8K); |
 | Vertikal gespiegeltes Spielfeld (DDR-Stil) | Das Spielfeld wird vertikal gespiegelt, wodurch die Tasten am oberen Bildschrirmrand sind und die Noten sich von unten nach oben bewegen. Das Design sowie die Tastenbelegung bleibt unverändert. |
@@ -223,7 +223,7 @@ Tasteneinstellung für die jeweilige Spalte. **Drück die Taste für die jeweili
 #### Sonstiges
 
 | Name | Effekt |
-| --- | --- |
+| :-- | :-- |
 | TabletPC-Unterstützung erzwingen | Aktiviere diese Option, wenn Sie einen Tablet-PC oder ein Grafiktablett benutzen und Probleme mit der Eingabe haben. |
 | Joystick-Unterstück aktivieren | Aktiviere dies, wenn Sie osu!mania mit einem Joystick oder Controller spielen. |
 | Wiimote-/TaTaCon-Unterstützung aktivieren | Aktiviert Unterstützung für den Wii-Taiko-Controller und Wiimote (noch nicht unterstützt). Stellen Sie sicher, dass Sie Ihren Wiimote mit Bluetooth verbunden haben, bevor Sie diese Option aktivieren! |
@@ -235,7 +235,7 @@ Tasteneinstellung für die jeweilige Spalte. **Drück die Taste für die jeweili
 #### Allgemein
 
 | Name | Effekt |
-| --- | --- |
+| :-- | :-- |
 | Hintergrundvideo | Hintergrundvideo im Editor zeigen. |
 | Standardskin verwenden | Ignoriert benutzerdefinierte Skins im Editor. Der Standardskin wird für das Editieren empfohlen, um Überlappungen etc. zu vermeiden. |
 | Rückgängig-Funktion deaktivieren | Beim Editieren von sehr langen Marathon-Maps kann das Speichern aller vorgenommenen Änderungen für die Rückgängig-/Wiederholen-Funktion die Perfomance beeinträchtigen. Diese Option ist nur für solche Randfälle gedacht. Benutzung auf eigene Gefahr. |
@@ -247,7 +247,7 @@ Tasteneinstellung für die jeweilige Spalte. **Drück die Taste für die jeweili
 #### Meldungen und Privatsphäre
 
 | Name | Effekt |
-| --- | --- |
+| :-- | :-- |
 | Chat Ticker | Neue Chatnachrichten werden am unteren Bildschirmrand angezeigt, wenn das Chatfenster ausgeblendet ist. |
 | Chat automatisch ausblenden | Wenn aktiviert, wird der Chat während des Spielens automatisch ausgeblendet. Er wird dann nur noch während den Pausen, dem Intro und dem Outro angezeigt. |
 | Bei Highlight Hinweis-Popup anzeigen | Eine Nachricht wird am unteren Teil deines Bildschirms erscheinen (auch während des Spielens), wenn jemand Ihren Namen oder ein Highlight-Wort im Chat erwähnt. |
@@ -260,7 +260,7 @@ Tasteneinstellung für die jeweilige Spalte. **Drück die Taste für die jeweili
 #### Integration
 
 | Name | Effekt |
-| --- | --- |
+| :-- | :-- |
 | In die Yahoo-Statusanzeige integrieren | Dein Yahoo Messenger wird den Song anzeigen, den Sie gerade hören oder spielst. |
 | In die MSN-Live-Statusanzeige integrieren | Dein Windows Live Messenger wird den Song anzeigen, den Sie gerade spielen oder hören. |
 | osu!direct-Downloads automatisch starten | osu!supporter wird zum Aktivieren vom osu!direct benötigt. Im Multiplayer oder beim Zuschauen werden Beatmaps automatisch heruntergeladen. |
@@ -268,7 +268,7 @@ Tasteneinstellung für die jeweilige Spalte. **Drück die Taste für die jeweili
 #### In-Game Chat
 
 | Name | Effekt |
-| --- | --- |
+| :-- | :-- |
 | Anstößige Wörter filtern | Versucht Wörter zu entfernen, die für bestimmte Kulturen oder jüngere Personen anstößig sein könnten. |
 | Ausländische Zeichen filtern | Entfernt alle Zeichen außerhalb der Standard-ASCII-Zeichenkodierung (Englisch). Nützlich, wenn diese Zeichen Ruckeln verursachen. |
 | Private Nachrichten automatisch speichern | Wenn Sie dies aktiveren, werden Ihre privaten Gespräche automatisch im "Chat"-Ordner im txt-Format gespeichert. |
@@ -283,7 +283,7 @@ Tasteneinstellung für die jeweilige Spalte. **Drück die Taste für die jeweili
 #### Allgemein
 
 | Name | Effekt |
-| --- | --- |
+| :-- | :-- |
 | Alle nicht gerankten Maps löschen | Lösche alle nicht gerankten Maps aus dem Song-Ordner. osu! wird Ihnen danach mitteilen, wie viele Maps gelöscht werden, bevor Sie die Anfrage akzeptieren. |
 | Ordnerberechtigungen erzwingen | Erzwingt die Ordnerberechtigungen für osu!s Ordnern. Useful for Vista users with User Account Control (UAC) enabled. |
 | Alle Maps als "Gespielt" markieren | Markiert alle Maps als "Gespielt". Nicht für Spieler empfohlen, die noch wissen wollen, welche Maps sie noch nicht gespielt haben. |

@@ -8,7 +8,7 @@ tags:
 
 ![otst! 2020 logo](img/logo.jpg)
 
-The **osu! TV Size Tournament 2020** (***otst! 2020***) is an international four-on-four double-elimination osu! tournament hosted by ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214). It features a variety of TV-sized (usually 90 seconds in length) maps in its mappools. This is the fourth installment of the osu! TV Size Tournament.
+The **osu! TV Size Tournament 2020** (***otst! 2020***) was an international four-on-four double-elimination osu! tournament hosted by ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214). It featured a variety of TV-sized (usually 90 seconds in length) maps in its mappools. This was the fourth installment of the osu! TV Size Tournament.
 
 ## Tournament schedule
 
@@ -22,7 +22,7 @@ The **osu! TV Size Tournament 2020** (***otst! 2020***) is an international four
 | Quarterfinals | 2020-03-21/2020-03-22 |
 | Semifinals | 2020-03-28/2020-03-29 |
 | Finals | 2020-04-04/2020-04-05 |
-| Grand Finals | 2020-04-11 |
+| Grand Finals | 2020-04-11/2020-04-12 |
 
 ## Prizes
 
@@ -31,17 +31,19 @@ The **osu! TV Size Tournament 2020** (***otst! 2020***) is an international four
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag for each team member |
 
+![](img/badge.png "otst! 2020 winner badge")
+
 ## Organisation
 
-The osu! TV Size Tournament 2020 is run by various community members.
+The osu! TV Size Tournament 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214) |
 | Map selector | ![][flag_DE] [Chriz](https://osu.ppy.sh/users/2355080), ![][flag_AU] [Kazuma](https://osu.ppy.sh/users/10642837), ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214) |
-| Referee | ![][flag_DE] [ChaotiX](https://osu.ppy.sh/users/4236576), ![][flag_HK] [Cindergoat](https://osu.ppy.sh/users/10168682), ![][flag_TH] [Deppyforce](https://osu.ppy.sh/users/5286213), ![][flag_BR] [DizzyH](https://osu.ppy.sh/users/9896172), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_BG] [Geromu Keretem](https://osu.ppy.sh/users/9404532), ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_US] [moss-](https://osu.ppy.sh/users/9918921), ![][flag_DE] [real cute](https://osu.ppy.sh/users/9172811), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_CA] [Senko-san](https://osu.ppy.sh/users/2065771), ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899), ![][flag_NL] [Stan](https://osu.ppy.sh/users/11212255) |
-| Commentator | ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_VN] [Yaezaki](https://osu.ppy.sh/users/11254509) |
-| Streamer | ![][flag_PL] [Borsuk664](https://osu.ppy.sh/users/3075673), ![][flag_HK] [Cindergoat](https://osu.ppy.sh/users/10168682), ![][flag_TH] [Deppyforce](https://osu.ppy.sh/users/5286213), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
+| Referee | ![][flag_DE] [ChaotiX](https://osu.ppy.sh/users/4236576), ![][flag_TH] [Deppyforce](https://osu.ppy.sh/users/5286213), ![][flag_BR] [DizzyH](https://osu.ppy.sh/users/9896172), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_BG] [Geromu Keretem](https://osu.ppy.sh/users/9404532), ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_US] [moss-](https://osu.ppy.sh/users/9918921), ![][flag_DE] [real cute](https://osu.ppy.sh/users/9172811), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899), ![][flag_NL] [Stan](https://osu.ppy.sh/users/11212255) |
+| Commentator | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_VN] [Yaezaki](https://osu.ppy.sh/users/11254509) |
+| Streamer | ![][flag_PL] [Borsuk664](https://osu.ppy.sh/users/3075673), ![][flag_TH] [Deppyforce](https://osu.ppy.sh/users/5286213), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
 | Designer | ![][flag_US] [Celsea](https://osu.ppy.sh/users/7464885) |
 | Statistician | ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_VN] [steve04](https://osu.ppy.sh/users/10852911), ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568) |
 | Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
@@ -104,7 +106,138 @@ The osu! TV Size Tournament 2020 is run by various community members.
 | **WE LOVE LWMF!** | **![][flag_AT] [TiltBoi](https://osu.ppy.sh/users/6311630)**, ![][flag_AT] [Pandadesu](https://osu.ppy.sh/users/2167069), ![][flag_AT] [LWMF](https://osu.ppy.sh/users/3632402), ![][flag_AT] [Snajper](https://osu.ppy.sh/users/4211027), ![][flag_AT] [FeeDyy](https://osu.ppy.sh/users/8123308), ![][flag_AT] [goosefedora](https://osu.ppy.sh/users/2323131), ![][flag_AT] [Teppi](https://osu.ppy.sh/users/1371974), ![][flag_DE] [Bakugo-](https://osu.ppy.sh/users/4990127) |
 | **will is 2** | **![][flag_GB] [Voss](https://osu.ppy.sh/users/7657761)**, ![][flag_US] [WillCookie](https://osu.ppy.sh/users/6404488), ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808), ![][flag_PL] [Bartek22830](https://osu.ppy.sh/users/6404027), ![][flag_GB] [Ventus](https://osu.ppy.sh/users/1986262), ![][flag_PL] [twoja stara](https://osu.ppy.sh/users/8170186), ![][flag_PL] [twoj stary](https://osu.ppy.sh/users/3543130), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Rubber Conquest |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Floating up |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | seusbruk |
+
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here! (76 MB)](https://drive.google.com/file/d/1FRGj76LSac4v5hgAS6mW7cTpNTLJR0BH/view)**
+
+- NoMod
+  - [DJ TOTTO - Shoujo alice to hakoniwa gensou concerto (lahphnya) \[Ar9.5\]](https://osu.ppy.sh/beatmapsets/568321#osu/1204535)
+  - [xi - over the top (Shrukaghn) \[Exceed\]](https://osu.ppy.sh/beatmapsets/846561#osu/1770552)
+  - [3R2 - Sudden Death (Settia) \[Novice\]](https://osu.ppy.sh/beatmapsets/605109#osu/2320454)
+  - [Sota Fujimori - polygon (Kaifin) \[Incrementally Hi-Speed Extreme\]](https://osu.ppy.sh/beatmapsets/559097#osu/1234400)
+  - [antiPLUR - Speed of Link (ktgster) \[200 000 000m/s\]](https://osu.ppy.sh/beatmapsets/359173#osu/792989)
+- Hidden
+  - [The Flashbulb - DIDJ PVC (Irreversible) \[Zetera's EX II\]](https://osu.ppy.sh/beatmapsets/966078#osu/2061815)
+  - [Kabocha - EmbryO (Kawashiro) \[yf's Extreme\]](https://osu.ppy.sh/beatmapsets/947018#osu/2011173)
+  - [Ochiai Yurika - Koibumi2000 (arken1015) \[Oni(Futsuu)\]](https://osu.ppy.sh/beatmapsets/10539#osu/46298)
+- HardRock
+  - [sawawa - Koishi Circulation (SakiZ) \[Demon Tale Sonata\]](https://osu.ppy.sh/beatmapsets/641707#osu/1360652)
+  - [yak_won - Sinus \~Secret Heart\~ (ktgster) \[Extreme\]](https://osu.ppy.sh/beatmapsets/736694#osu/1554713)
+  - [sasakure.UK - Atropos (Cellina) \[Rose's Fates\]](https://osu.ppy.sh/beatmapsets/838536#osu/1853800)
+- DoubleTime
+  - [ShockOne - Polygon (feat. Reija Lee) (Secretpipe) \[Asphyxia's Insane\]](https://osu.ppy.sh/beatmapsets/194188#osu/475364)
+  - [Gentle Stick X M2U - Ineffabilis (buhei) \[Yuki's Extra\]](https://osu.ppy.sh/beatmapsets/340903#osu/766528)
+  - [Amidst - Phantasy (ZLOdeuka-) \[NYA?!\]](https://osu.ppy.sh/beatmapsets/724594#osu/1530025)
+- FreeMod
+  - [Black Hole - Pluto (7odoa) \[Challenge\]](https://osu.ppy.sh/beatmapsets/45074#osu/146957)
+  - [t+pazolite - Luv-Lab-Poison 22ate! (Xgor) \[Xtreme\]](https://osu.ppy.sh/beatmapsets/9029#osu/38426)
+  - [Kobaryo - Sulyvahn [feat. USAO] (Testo) \[DUBSTEP\]](https://osu.ppy.sh/beatmapsets/787583#osu/1652992)
+- Tiebreaker
+  - **[Umeboshi Chazuke - Bison Charge (Nao Tomori) \[Extreme\]](https://osu.ppy.sh/beatmapsets/894701#osu/1869619)**
+  - **[Roselia - Bad Apple!! feat. nomico (Deppyforce) \[Special Phantasm!! Tournament ver.\]](https://osu.ppy.sh/beatmapsets/1137809#osu/2381331)**
+  - **[Getty vs. DJ DiA - Ops:Code-Rapture- (Seolv) \[Moecho's Glitched Reality\]](https://osu.ppy.sh/beatmapsets/1075064#osu/2326463)**
+
+### Finals
+
+**[Download the mappack here! (86 MB)](https://drive.google.com/file/d/1gWsKDGdbG8oW7cusmnvdngBiLa4pgkSh/view)**
+
+- NoMod
+  - [toby fox - Spider Dance (Fatfan Kolek) \[Kyshiro's Genocide\]](https://osu.ppy.sh/beatmapsets/750458#osu/1587275)
+  - [xi - Garyou Tensei (fartownik) \[Hello\]](https://osu.ppy.sh/beatmapsets/344371#osu/760779)
+  - [Kuroneko Dungeon - Ryoushi no Umi no Lindwurm (P o M u T a) \[ignore's EXTREME\]](https://osu.ppy.sh/beatmapsets/372850#osu/820336)
+  - [Zekk - Calling (NeilPerry) \[Iridescent\]](https://osu.ppy.sh/beatmapsets/673878#osu/1426038)
+- Hidden
+  - [Nekomata Master+ - POINT ZERO (Beomsan) \[Black Another\]](https://osu.ppy.sh/beatmapsets/1020276#osu/2134823)
+  - [P\*Light - 2 MINUTES FIGHTERS (Flask) \[Dailycare's INFINITE\]](https://osu.ppy.sh/beatmapsets/424088#osu/1109972)
+  - [Tachibana Miya - Miya to Tengoku to Jigoku (AngelHoney) \[Hentai\]](https://osu.ppy.sh/beatmapsets/17450#osu/62269)
+- HardRock
+  - [a\_hisaxChicking - The Navigator's Hope (Rohit6) \[Endurance of the Seafarer\]](https://osu.ppy.sh/beatmapsets/439225#osu/945304)
+  - [Co shu Nie - asura (DeviousPanda) \[semaphore's Extra\]](https://osu.ppy.sh/beatmapsets/986422#osu/2164160)
+  - [xi - Last Resort (Kroytz) \[1112's EXHAUST\]](https://osu.ppy.sh/beatmapsets/800102#osu/1679782)
+- DoubleTime
+  - [DJ TOTTO feat.3L - Youkakushi -Ayakashi Kakushi- (jonathanlfj) \[Trust's Lunatic\]](https://osu.ppy.sh/beatmapsets/516454#osu/1132800)
+  - [Pastel\*Palettes - Happy Synthesizer (ktgster) \[Special\]](https://osu.ppy.sh/beatmapsets/932654#osu/1947213)
+  - [ZAQ - Alteration (Creamy Candy) \[Insane\]](https://osu.ppy.sh/beatmapsets/1038233#osu/2170966)
+- FreeMod
+  - [Mediks - Outbreak (Strategas) \[Doomsday\]](https://osu.ppy.sh/beatmapsets/527082#osu/1118311)
+  - [Hyadain - Chocobo (mtmcl) \[Gold\]](https://osu.ppy.sh/beatmapsets/4392#osu/24023)
+  - [Lite Show Magic (t+pazolite vs C-Show) - Crack Traxxxx (Fatfan Kolek) \[Nathan's Ultra\]](https://osu.ppy.sh/beatmapsets/139525#osu/679943)
+- Tiebreaker
+  - **[P\*Light - Innocent Floor (-Famous-) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/396147#osu/1193758)**
+  - **[M2U - Mare Maris (PaRaDogi) \[Deppy's EXpert\]](https://osu.ppy.sh/beatmapsets/1100029#osu/2318400)**
+  - **[Getty vs. DJ DiA - DropZ-Line- (Realazy) \[1112's Extra\]](https://osu.ppy.sh/beatmapsets/727049#osu/1536579)**
+
+### Semifinals
+
+**[Download the mappack here! (114 MB)](https://drive.google.com/file/d/1bxHpQLc6RKX1TP7XAgW9J08LDBzjAg1g/view)**
+
+- NoMod
+  - [Shiggy Jr. - oyasumi (Jval93700) \[-Hwangbo's Kimochi\]](https://osu.ppy.sh/beatmapsets/832247#osu/1761351)
+  - [Hazuki - Legend of Millennium (Syph) \[BMD's Expert\]](https://osu.ppy.sh/beatmapsets/785703#osu/1660602)
+  - [3R2 - Kitty Attack (Settia) \[Extra\]](https://osu.ppy.sh/beatmapsets/700476#osu/1483226)
+  - [P4koo - Feelings of fake (feat. Tsuyuri Karin) (Heilia) \[Skymin's Expert\]](https://osu.ppy.sh/beatmapsets/921855#osu/1961615)
+- Hidden
+  - [Nanawo Akari - One Room Sugar Life (TV Size) (Garden) \[ak74's Extra\]](https://osu.ppy.sh/beatmapsets/814033#osu/1714827)
+  - [chano & 40mP - Natsukoi Hanabi (Lasse) \[Expert\]](https://osu.ppy.sh/beatmapsets/650427#osu/1378899)
+  - [MC Lynn - EkiBEN2000 (arken1015) \[Insane\]](https://osu.ppy.sh/beatmapsets/9782#osu/42793)
+- HardRock
+  - [Ryu\* - Mind Mapping (kors k mix) (wring) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/47199#osu/146583)
+  - [Nekomata Master - Echoes (Beomsan) \[EX\]](https://osu.ppy.sh/beatmapsets/1054456#osu/2203226)
+  - [Inspector K - Disconnected Hardkore (CanBlaster Remix) (7odoa) \[Insane\]](https://osu.ppy.sh/beatmapsets/30485#osu/100627)
+- DoubleTime
+  - [ALiCE'S EMOTiON - Evening Steps (TicClick) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/270457#osu/615227)
+  - [ZUN - Kyouki no Hitomi ~ Invisible Full Moon (Leader) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/974523#osu/2039818)
+  - [Eru - Heian no Alien (Vass_Bass) \[Vass-RJ's Insane\]](https://osu.ppy.sh/beatmapsets/116669#osu/300923)
+- FreeMod
+  - [Morimori Atsushi - Tits or get the fuck out!! (Regou) \[FreeSongs' Extra!!\]](https://osu.ppy.sh/beatmapsets/455022#osu/995932)
+  - [Halozy - Staggering Spirit, Keine's Staggering Song (Card N'FoRcE) \[Absurd\]](https://osu.ppy.sh/beatmapsets/25338#osu/85816)
+  - [kamome sano Electric Orchestra - FIN4LE \~Shuushisen no Kanata e\~ (R3m) \[Mordred's INFINITE\]](https://osu.ppy.sh/beatmapsets/742031#osu/1682831)
+- Tiebreaker
+  - **[Denkishiki Karen Ongaku Shuudan - Yakata Mawari (Dored) \[Yugu's Transmigration\]](https://osu.ppy.sh/beatmapsets/834127#osu/1761412)**
+  - **[onoken - Quinine -A2D SIDE- (Matrix) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/932298#osu/1946518)**
+  - **[Camellia - Chirality (LowAccuracySS) \[Sing's Expert\]](https://osu.ppy.sh/beatmapsets/743310#osu/1572583)**
+
+### Quarterfinals
+
+**[Download the mappack here! (84 MB)](https://drive.google.com/file/d/13ZPRDcUtZX-ePwOIFQ8aqB9G2nxK_Usw/view)**
+
+- NoMod
+  - [BUTA-OTOME - Heisei Kaisei Dottenshan (BarkingMadDog) \[SHOOTING STAR\]](https://osu.ppy.sh/beatmapsets/724942#osu/1530772)
+  - [wa. - Black Lotus (Realazy) \[Loli's Extra\]](https://osu.ppy.sh/beatmapsets/679918#osu/1455320)
+  - [DJ TOTTO - Douwa Kairou (Yusomi) \[Another\]](https://osu.ppy.sh/beatmapsets/913314#osu/1927613)
+  - [fang - Intro (Realazy) \[Psychotomimetic\]](https://osu.ppy.sh/beatmapsets/945380#osu/1974177)
+- Hidden
+  - [Blend A - Bon Appetit S (TV Size ver) (Underforest) \[Left's Sadistic\]](https://osu.ppy.sh/beatmapsets/678593#osu/1434844)
+  - [bbn - Identic Conflict (Myxo) \[Black Another\]](https://osu.ppy.sh/beatmapsets/1020429#osu/2135058)
+  - [SHK - Violet Perfume (ktgster) \[SHD\]](https://osu.ppy.sh/beatmapsets/1010865#osu/2115970)
+- HardRock
+  - [Trial & Error - Tokoyami no keiyaku KEGARETA-SHOUJO feat. GUMI (Short Ver.) (ailv) \[Expert\]](https://osu.ppy.sh/beatmapsets/746625#osu/1573521)
+  - [Nekomata Master+ - Proof of the existence (Alheak) \[Expert\]](https://osu.ppy.sh/beatmapsets/427864#osu/923589)
+  - [Nekomata Master+ - encounter (Realazy) \[Kotori's Extreme\]](https://osu.ppy.sh/beatmapsets/815758#osu/1710847)
+- DoubleTime
+  - [ani feat. moco - Light up My Love (popner) \[Hyper\]](https://osu.ppy.sh/beatmapsets/83572#osu/230692)
+  - [Suda Keina - veil (TV Size) (Fixxis) \[Senseabel's Insane\]](https://osu.ppy.sh/beatmapsets/1004116#osu/2102445)
+  - [Chata - min (Net0) \[Insane\]](https://osu.ppy.sh/beatmapsets/777322#osu/1633045)
+- FreeMod
+  - [BlackY vs. Yooh - HAVOX (Realazy) \[Sulfur's GRAVITY\]](https://osu.ppy.sh/beatmapsets/823616#osu/1760861)
+  - [Kajiura Yuki - crossing a dangerous bridge (Mordred) \[Expert\]](https://osu.ppy.sh/beatmapsets/1019198#osu/2132761)
+  - [KISIDA KYODAN & THE AKEBOSI ROCKETS - Stray (TV Size) (SMOKELIND) \[Kill or be killed!\]](https://osu.ppy.sh/beatmapsets/974386#osu/2039589)
+- Tiebreaker
+  - **[Qrispy Joybox - licca (Priti) \[Ultra\]](https://osu.ppy.sh/beatmapsets/307837#osu/688568)**
+  - **[seiya-murai feat.ALT - Sumidagawa Karenka (kiddly) \[Extra\]](https://osu.ppy.sh/beatmapsets/28796#osu/96095)**
+  - **[lapix - Nothing but Theory (azr8) \[ultra jazzfunktion\]](https://osu.ppy.sh/beatmapsets/914146#osu/1924570)**
 
 ### Round of 16
 
@@ -177,6 +310,112 @@ The osu! TV Size Tournament 2020 is run by various community members.
   - [Primastella - Koigokoro (Luerxa) \[Delis' Insane\]](https://osu.ppy.sh/beatmapsets/127712#osu/323875)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 11 April 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Floating Up** | **7** | 1 | seusbruk | [#1](https://osu.ppy.sh/community/matches/60274542) |
+
+Sunday, 12 April 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Rubber Conquest** | **7** | 5 | Floating up | [#1](https://osu.ppy.sh/community/matches/60303401) |
+
+### Finals
+
+Saturday, 4 April 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ＝ＹＡＨＥ | 3 | **7** | **seusbruk** | [#1](https://osu.ppy.sh/community/matches/59983820) |
+| osim | 0 | **7** | **will is 2** | [#1](https://osu.ppy.sh/community/matches/59988159) |
+| **Rubber Conquest** | **8** | 7 | floating up | [#1](https://osu.ppy.sh/community/matches/59991769) |
+
+Sunday, 5 April 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| will is 2 | 1 | **6** | **seusbruk** | [#1](https://osu.ppy.sh/community/matches/60030302) |
+
+### Semifinals
+
+Saturday, 28 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| IshuzokuRebyuāzu | 4 | **6** | **Kangaroo** | [#1](https://osu.ppy.sh/community/matches/59698971) |
+| Old & Irrelevant | 0 | **6** | **osim** | [#1](https://osu.ppy.sh/community/matches/59707557) |
+| osu stonehenge | 0 | **6** | **seusbruk** | [#1](https://osu.ppy.sh/community/matches/59713993) |
+| **riuzaky homo** | **6** | 4 | Morello crew | [#1](https://osu.ppy.sh/community/matches/59718180) |
+
+Sunday, 29 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Rubber Conquest** | **6** | 0 | ＝ＹＡＨＥ | [#1](https://osu.ppy.sh/community/matches/59730638) |
+| **osim** | **6** | 3 | Kangaroo | [#1](https://osu.ppy.sh/community/matches/59737706) |
+| will is 2 | 1 | **6** | **Floating up** | [#1](https://osu.ppy.sh/community/matches/59742702) |
+| **seusbruk** | **6** | 0 | riuzaky homo | [#1](https://osu.ppy.sh/community/matches/59749127) |
+
+### Quarterfinals
+
+Saturday, 21 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Rubber Conquest** | **6** | 0 | IshuzokuRebyuāzu | [#1](https://osu.ppy.sh/community/matches/59428783) |
+| **＝ＹＡＨＥ** | **6** | 0 | Old & Irrelevant | [#1](https://osu.ppy.sh/community/matches/59437383) |
+| **Kangaroo** | **6** | 0 | BRATVA I KOLCO | [#1](https://osu.ppy.sh/community/matches/59442860) |
+| WE LOVE LWMF! | 1 | **6** | **osim** | [#1](https://osu.ppy.sh/community/matches/59442778) |
+| **osu stonehenge** | **0** | -1 | Pocket Galaxy | *win by default* |
+| Mirash Fanclub | 4 | **6** | **Sutiire** | [#1](https://osu.ppy.sh/community/matches/59445143) |
+| **STOOF CLONES** | **7** | 6 | KasuLewd | [#1](https://osu.ppy.sh/community/matches/59445117) |
+| **will is 2** | **7** | 6 | seusbruk | [#1](https://osu.ppy.sh/community/matches/59447044) |
+| **china** | **6** | 2 | GrandMaineAngers | [#1](https://osu.ppy.sh/community/matches/59449247) |
+| **Morello Crew** | **6** | 4 | Knuckles Batty | [#1](https://osu.ppy.sh/community/matches/59451720) |
+| **Couchers** | **7** | 5 | Pwzekaczkaòwó | [#1](https://osu.ppy.sh/community/matches/59453540) |
+
+Sunday, 22 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Kangaroo** | **0** | -1 | Couchers | *win by default* |
+| **Floating up** | **6** | 2 | riuzaky homo | [#1](https://osu.ppy.sh/community/matches/59480324) |
+| Sutiire | 0 | **6** | **osim** | [#1](https://osu.ppy.sh/community/matches/59480416) |
+| **Morello crew** | **6** | 3 | STOOF CLONES | [#1](https://osu.ppy.sh/community/matches/59486399) |
+| china | 5 | **6** | osu stonehenge | [#1](https://osu.ppy.sh/community/matches/59488497) |
+
+### Round of 16
+
+Saturday, 14 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **= Y A H E** | **5** | 0 | STOOF CLONES | [#1](https://osu.ppy.sh/community/matches/59174978) |
+| nakapagpabagabag | 3 | **5** | **KasuLewd** | [#1](https://osu.ppy.sh/community/matches/59176904) |
+| **osim** | **6** | 5 | o!CLWS大学赛冬季2020 | [#1](https://osu.ppy.sh/community/matches/59176902) |
+| **Floating up** | **5** | 1 | WE LOVE LWMF! | [#1](https://osu.ppy.sh/community/matches/59181339) |
+| Morello crew | -1 | **0** | **Old & Irrelevant** | *win by default* |
+| Fruteria Manoli | 0 | **5** | **Knuckles Batty** | [#1](https://osu.ppy.sh/community/matches/59188567) |
+| San Lorenzo | 0 | **5** | **Sutiire** | [#1](https://osu.ppy.sh/community/matches/59190683) |
+| **Rubber Conquest** | **5** | 0 | osu stonehenge | [#1](https://osu.ppy.sh/community/matches/59196345) |
+| **Pwzekaczkaòwó** | **5** | 4 | Laburar | [#1](https://osu.ppy.sh/community/matches/59195030) |
+| Washingamers | 2 | **5** | **Pocket Galaxy** | [#1](https://osu.ppy.sh/community/matches/59197549) |
+| **will is 2** | **5** | 0 | Couchers | [#1](https://osu.ppy.sh/community/matches/59199388) |
+
+Sunday, 15 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| china | 3 | **5** | **IshuzokuRebyuāzu** | [#1](https://osu.ppy.sh/community/matches/59211472) |
+| Smile and wave | -1 | **0** | **BRATVA I KOLCO** | *win by default* |
+| **seusbruk** | **5** | 0 | Kangaroo | [#1](https://osu.ppy.sh/community/matches/59223212) |
+| **riuzaky homo** | **5** | 4 | Mirash Fanclub | [#1](https://osu.ppy.sh/community/matches/59231301) |
+| Mahloola | 5 | **6** | **GrandMaineAngers** | [#1](https://osu.ppy.sh/community/matches/59233803) |
 
 ### Round of 32
 

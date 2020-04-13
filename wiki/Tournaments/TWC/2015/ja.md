@@ -14,7 +14,7 @@ outdated: true
 ## トーナメント日程
 
 | Event       | Timestamp                |
-|-------------|--------------------------|
+| :-- | :-- |
 | 登録段階        | 2015年1月12日~2月22日         |
 | 抽選会         | 2015年2月28日 (14:00 UTC+0) |
 | グループステージ    | 2015年3月7日~8日             |
@@ -27,7 +27,7 @@ outdated: true
 ## 賞品
 
 | Placing                                                    | Prize(s)                                                    |
-|------------------------------------------------------------|-------------------------------------------------------------|
+| :-- | :-- |
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | supporter tag 6ヶ月、プロフィールバッジ、ユーザータイトル"Taiko Champion"、osu!商品 |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | supporter tag 3ヶ月、プロフィールバッジ                                 |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | supporter tag 1ヶ月、プロフィールバッジ                                 |
@@ -35,7 +35,7 @@ outdated: true
 ## 構成
 
 | Job   | Person                                                                                                                                                                                        |
-|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | 大会運営者 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)  |
 | ビートマップ選択者 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128)                                                                                                                           |
 | 配信者   | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
@@ -47,7 +47,7 @@ outdated: true
 ## 参加者
 
 | Country                                    | Group A Members                                                                                                                                                                                                                                          |
-|--------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | ![][flag_AU] Australia   | **[Slaybelle](https://osu.ppy.sh/users/3084044)**, [dajayeway](https://osu.ppy.sh/users/4841352), [Fideliant](https://osu.ppy.sh/users/2200052), [Pew](https://osu.ppy.sh/users/597692)                                                                                                          |
 | ![][flag_SG] Singapore   | **[taikoplayer123](https://osu.ppy.sh/users/3580055)**, [SilverSufuru](https://osu.ppy.sh/users/3769280), [xKwan](https://osu.ppy.sh/users/403397)                                                                                                                                     |
 | ![][flag_FI] Finland     | **[DarkSylarn](https://osu.ppy.sh/users/4266840)**, [zheep](https://osu.ppy.sh/users/1889827), [Pelaaja_X](https://osu.ppy.sh/users/3543051)                                                                                                                                           |
@@ -56,7 +56,7 @@ outdated: true
 | ![][flag_TW] Taiwan      | **[-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910)**, [jordan\_sur](https://osu.ppy.sh/users/2960947), [zx\_baka\_0502442](https://osu.ppy.sh/users/457766), [howar5041](https://osu.ppy.sh/users/584411), [monkeydluffy3u4](https://osu.ppy.sh/users/2277798), [mliencheng](https://osu.ppy.sh/users/586659) |
 
 | Country                                | Group B Members                                                                                                                                                                                                              |
-|----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | ![][flag_NO] Norway  | **[agu](https://osu.ppy.sh/users/1109122)**, [K i u i](https://osu.ppy.sh/users/1794766), [Yukizo](https://osu.ppy.sh/users/2345079)                                                                                                                       |
 | ![][flag_DK] Denmark | **[Zheant](https://osu.ppy.sh/users/708656)**, [TraxieChan](https://osu.ppy.sh/users/455552), [Broder](https://osu.ppy.sh/users/2507101), [Only1Magma](https://osu.ppy.sh/users/3922957)                                                                             |
 | ![][flag_UA] Ukraine | **[Anny](https://osu.ppy.sh/users/249094)**, [Aka](https://osu.ppy.sh/users/1307553), [gavnono](https://osu.ppy.sh/users/1625581)                                                                                                                          |
@@ -65,7 +65,7 @@ outdated: true
 | ![][flag_CN] China   | **[yys428](https://osu.ppy.sh/users/1061175)**, [HimemiyaChikane](https://osu.ppy.sh/users/3672537), [Shiki\_nyan](https://osu.ppy.sh/users/345364), [moe moe moe](https://osu.ppy.sh/users/1804904)                                                                 |
 
 | Country                                  | Group C Members                                                                                                                                                                                                                  |
-|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | ![][flag_IT] Italy     | **[Ikkun](https://osu.ppy.sh/users/1059945)**, [Earine](https://osu.ppy.sh/users/2485549), [Jey](https://osu.ppy.sh/users/2480153), [DuBisk](https://osu.ppy.sh/users/3371035), [Morshu](https://osu.ppy.sh/users/166169), [LinkerWTF](https://osu.ppy.sh/users/1407595)                     |
 | ![][flag_SE] Sweden    | **[Bnyuu](https://osu.ppy.sh/users/2290294)**, [boat](https://osu.ppy.sh/users/276074), [Tanaka](https://osu.ppy.sh/users/1897905), [WilleGO97](https://osu.ppy.sh/users/3880756)                                                                                        |
 | ![][flag_CA] Canada    | **[Tasha](https://osu.ppy.sh/users/1031958)**, [Fudgyking](https://osu.ppy.sh/users/3802922), [janitoreihil](https://osu.ppy.sh/users/3307897), [Wheelcakes](https://osu.ppy.sh/users/3513722), [Ilfri-chan](https://osu.ppy.sh/users/2518210), [IControl](https://osu.ppy.sh/users/2307285) |
@@ -74,7 +74,7 @@ outdated: true
 | ![][flag_JP] Japan     | **[sobatsuyu100](https://osu.ppy.sh/users/2076374)**, [tasuke912](https://osu.ppy.sh/users/2774767), [cagalin](https://osu.ppy.sh/users/2586173), [Rydan72261](https://osu.ppy.sh/users/5309575), [coDMo2ooo](https://osu.ppy.sh/users/3644233), [1RoHa\_](https://osu.ppy.sh/users/4632503) |
 
 | Country                                      | Group D Members                                                                                                                                                                                                                        |
-|----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | ![][flag_HU] Hungary       | **[\_verto\_](https://osu.ppy.sh/users/2015300)**, [-Arp-](https://osu.ppy.sh/users/3027305), [lussy\_6](https://osu.ppy.sh/users/226128)                                                                                                                            |
 | ![][flag_ID] Indonesia     | **[Lightning Wyvern](https://osu.ppy.sh/users/1533122)**, [\_Destroyer\_](https://osu.ppy.sh/users/3185598), [aika357](https://osu.ppy.sh/users/2488637), [kpokol12](https://osu.ppy.sh/users/3577322), [Niko-nyan](https://osu.ppy.sh/users/906991), [Senritsu](https://osu.ppy.sh/users/1165368) |
 | ![][flag_CL] Chile         | **[-Anhedonia-](https://osu.ppy.sh/users/920861)**, [-[Kuroha]-](https://osu.ppy.sh/users/4193212), [MikuWRS](https://osu.ppy.sh/users/1619547), [Pohm](https://osu.ppy.sh/users/2083934)                                                                                      |
@@ -124,8 +124,8 @@ outdated: true
     2.  リストへの追加を認められるには、太鼓ppランキングが世界8000位以上でなければいけません。
     3.  リストへの追加を認められるには、この12ヶ月間[osu! community rulesに違反していてはいけません](/wiki/Rules)。
 
-3.  For signing up, [send a PM to Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “TWC Registration”.
-4.  登録を申し込むには、"TWC Registration"というタイトルのforum PMをLoctavに送ってください[forum PMをLoctavに送ってください](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366)。
+3.  For signing up, [send a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “TWC Registration”.
+4.  登録を申し込むには、"TWC Registration"というタイトルのforum PMをLoctavに送ってください[forum PMをLoctavに送ってください](https://osu.ppy.sh/home/messages/users/71366)。
     1.  登録PMにローカルタイムゾーンを追記してください。（日本の場合はUTC、GMT共に+9になります。）
     2.  登録申請が問題なく届いた場合、確認の返事が届きます。そのとき申請は承認待ちの状態です。
 
@@ -155,7 +155,7 @@ outdated: true
 6.  [この図](https://puu.sh/bUq5V/f1066103b0.png)を基にして、ステージは以下のように分けられます:
 
 | ステージ         | 試合 ID                 |
-|------------------|-------------------------|
+| :-- | :-- |
 | 決勝トーナメント | A, B, C, D, E, F, G, H  |
 | 準々決勝         | I, J, K, L & R, S, T, U |
 | 準決勝           | M, N & V, W, X, Y, Z,AA |

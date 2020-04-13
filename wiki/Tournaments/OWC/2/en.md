@@ -309,7 +309,6 @@ Changes in the rules aside from [OWC #1](/wiki/Tournaments/OWC/1).
 [flag_DK]: /wiki/shared/flag/DK.gif
 [flag_FI]: /wiki/shared/flag/FI.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
 [flag_HU]: /wiki/shared/flag/HU.gif
 [flag_ID]: /wiki/shared/flag/ID.gif

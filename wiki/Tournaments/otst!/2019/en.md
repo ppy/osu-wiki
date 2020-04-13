@@ -25,7 +25,7 @@ The **osu! TV Size Tournament 2019** (***otst! 2019***) was a double-elimination
 
 ## Prizes
 
-| Placing | Prize(s) |
+| Placing | Prize |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
@@ -52,8 +52,6 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 - [otst! Discord server](https://discord.gg/YHyqz4x)
 - [Livestream](https://twitch.tv/osu_otst)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1COneF_D_UM6ApTJx2Bw5P7WVXLQca0WH2Sun5aeaQgs/edit?usp=sharing)**
-
----
 
 ## Participants
 
@@ -105,8 +103,6 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 | **G** | osu | bruh | AGO DIMENSIONS | Lux Aeterna |
 | **H** | Floating up | Gruuuu | canvas garden | Farmers |
 
----
-
 ## Podium
 
  This competition has come to an end and resulted in the following podium:
@@ -116,8 +112,6 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Floating up |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Rubber Conquest |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | #arsecrackers |
-
----
 
 ## Mappools
 
@@ -264,8 +258,6 @@ The osu! TV Size Tournament 2019 was run by various osu! community members.
   - **[Memme - China Dress (Guy) \[Guy's Extra\]](https://osu.ppy.sh/beatmapsets/149749#osu/369981)**
   - **[EGOIST - The Everlasting Guilty Crown (TV Size) (Pata-Mon) \[Pata-Mon's Another\]](https://osu.ppy.sh/beatmapsets/622109#osu/1584207)**
   - **[Camellia - Towards The Horizon (Nerova Riuz GX) \[A Tale from the Wayfarer\]](https://osu.ppy.sh/beatmapsets/578445#osu/1224754)**
-
----
 
 ## Match results
 
@@ -438,8 +430,6 @@ Sunday, 10 March 2019:
 | G | **bruh** | **4** | 0 | Lux Aeterna | [#1](https://osu.ppy.sh/community/matches/50180722) |
 | G | **osu** | **4** | 0 | Lux Aeterna | [#1](https://osu.ppy.sh/community/matches/50182185) |
 | G | **osu** | **4** | 0 | bruh | [#1](https://osu.ppy.sh/community/matches/50183431) |
-
----
 
 ## Ruleset
 

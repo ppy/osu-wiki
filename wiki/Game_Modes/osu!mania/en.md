@@ -1,6 +1,4 @@
----
-needs_cleanup: true
----
+<!-- TODO: check grammar/style, probably rewrite the intro to be more relevant to osu!mania right away -->
 
 # osu!mania
 

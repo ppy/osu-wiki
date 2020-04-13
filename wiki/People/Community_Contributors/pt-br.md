@@ -19,7 +19,7 @@ Não para ser confundido com os [osu! Alumni](/wiki/People/osu!_Alumni), que sã
 | Usuário | Contribuições |
 | :-- | :-- |
 | ![][flag_GB] [Darkimmortal](https://osu.ppy.sh/users/10886) | Desenvolvendo e mantendo o [serviço do osu!record](https://osu.ppy.sh/community/forums/topics/108092) (replay `.osr` para arquivo de vídeo). |
-| ![][flag_DE] [nanashiRei](https://osu.ppy.sh/users/807630) | Hosteando e mantendo um dos mais antigos [beatmap mirrors] do osu!(https://osu.yas-online.net/). |
+| ![][flag_DE] [nanashiRei](https://osu.ppy.sh/users/807630) | Hosteando e mantendo um dos mais antigos [beatmap mirrors](https://osu.yas-online.net/) do osu!. |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | Numerosas (além da conta) contribuições gráficas para o cliente do jogo e tudo mais. |
 | ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | Trabalho de arte de [Achievement](/wiki/Achievements). |
 | ![][flag_US] [akrolsmir](https://osu.ppy.sh/users/576800) | Desenvolvendo e mantendo [AIBat](https://osu.ppy.sh/community/forums/topics/55305), a mais popular ferramenta de terceiros para modding de beatmap já feita pela maioria das pessoas da comunidade. |

@@ -244,7 +244,6 @@ The osu!mania Asian's Champions 2019 was run by various community members.
 
 [flag_CN]: /wiki/shared/flag/CN.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
 [flag_KR]: /wiki/shared/flag/KR.gif
 [flag_LV]: /wiki/shared/flag/LV.gif

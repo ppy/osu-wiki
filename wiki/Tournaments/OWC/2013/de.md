@@ -13,7 +13,7 @@ Der vorherige Titelträger ist **![][flag_KR] Südkorea**.
 Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 
 | Placing                                                    | Country                                     |
-|------------------------------------------------------------|---------------------------------------------|
+| :-- | :-- |
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | ![][flag_KR] **Südkorea** |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TW] **Taiwan**   |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PL] **Polen**    |
@@ -21,7 +21,7 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 ## Turnierzeitplan
 
 | Event                         | Timestamp                 |
-|-------------------------------|---------------------------|
+| :-- | :-- |
 | Registrierungsphase           | 15.-28. Okt. 2013         |
 | Live Ziehungen                | 31. Okt. 2013 16:00 UTC+0 |
 | Gruppenphase                  | 08.-10. Nov. 2013         |
@@ -33,7 +33,7 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 ## Preise
 
 | Placing                                                    | Prize(s)                                                                                        |
-|------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 6 Monate Supporter Tag, Profilabzeichen, OWC Trophäe, [osu!tablet](https://osu.ppy.sh/community/forums/topics/169139) |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 Monate Supporter Tag                                                                          |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 Monat Supporter Tag                                                                           |
@@ -41,7 +41,7 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 ## Organisation
 
 | Job                | Person(s)                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | Turnier Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [dkun](https://osu.ppy.sh/users/154400)                                                                                                                                                                                                                                                                               |
 | Map Wähler         | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_AR] [Wishy](https://osu.ppy.sh/users/495477), ![][flag_IT] [Chewin](https://osu.ppy.sh/users/617323)                                                                                                                                                                                                                                                                       |
 | Streamer           | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55), ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935), ![][flag_US] [Makar](https://osu.ppy.sh/users/686389)                                                                                                                                                                                                                  |
@@ -63,7 +63,7 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 ### Top-platzierte
 
 | Country                                      | Members                                                                                                                                                                                                                                                                                                                                         |
-|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | ![][flag_CN] China         | **[Furudo\_Erika](https://osu.ppy.sh/users/169878)**, [wobeinimacao](https://osu.ppy.sh/users/350723), [N a n o](https://osu.ppy.sh/users/694114), [5231\_Kinoko](https://osu.ppy.sh/users/181057), [GGBY](https://osu.ppy.sh/users/629717), [Dsan](https://osu.ppy.sh/users/1266166), [InabaTewi](https://osu.ppy.sh/users/1078004), [GunS\_N\_Rose](https://osu.ppy.sh/users/1349849) |
 | ![][flag_DE] Germany       | **[ShadowSoul](https://osu.ppy.sh/users/494970)**, [CookEasy](https://osu.ppy.sh/users/453226), [Michi](https://osu.ppy.sh/users/932342), [Dustice](https://osu.ppy.sh/users/754565), [BDDav](https://osu.ppy.sh/users/1164526), [cptnXn](https://osu.ppy.sh/users/495272), [Imamoto](https://osu.ppy.sh/users/1201224), [dukambe](https://osu.ppy.sh/users/880002)                     |
 | ![][flag_JP] Japan         | **[Karuta](https://osu.ppy.sh/users/360552)**, [rrtyui](https://osu.ppy.sh/users/352328), [Potofu](https://osu.ppy.sh/users/657404), [serea](https://osu.ppy.sh/users/371961), [mugio3](https://osu.ppy.sh/users/491522), [Homura-](https://osu.ppy.sh/users/482120), [Gokuri](https://osu.ppy.sh/users/343865), [doctorindark](https://osu.ppy.sh/users/609227)                        |
@@ -76,7 +76,7 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 ### Hoch-platzierte
 
 | Country                                           | Members                                                                                                                                                                                                                                                                                                                     |
-|---------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | ![][flag_AR] Argentina          | **[Metro](https://osu.ppy.sh/users/306737)**, [Glazbom](https://osu.ppy.sh/users/608277), [Salvage](https://osu.ppy.sh/users/242119), [Hernan](https://osu.ppy.sh/users/516680), [Fabi](https://osu.ppy.sh/users/173114), [druidxd](https://osu.ppy.sh/users/841441), [CBA-ES-CAB](https://osu.ppy.sh/users/1875237), [Mikumiku97](https://osu.ppy.sh/users/503749) |
 | ![][flag_BR] Brazil             | **fabriciorby**, Blue Dragon, shoTt, nouk, Ghost Princess, powerstream89, AdRon Zh3Ro, antsu                                                                                                                                                                                                                                |
 | ![][flag_HK] Hong Kong          | **SilviZ**, Akiko-, HineX, K47, Fir3k0, galen1922, Yakumo Yukarin, auweichun                                                                                                                                                                                                                                                |
@@ -89,7 +89,7 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 ### Schwach-platzierte
 
 | Country                                    | Members                                                                                |
-|--------------------------------------------|----------------------------------------------------------------------------------------|
+| :-- | :-- |
 | ![][flag_AU] Australia   | **JappyBabes**, kamiyo-sama, flow, TimmyTimTims, Lach, Bauxe, Melt3dCheeze, smoogipooo |
 | ![][flag_AT] Austria     | **Omgforz**, WhitePhoenixLP, M3tr01d, Alumetorz, Jin\_Back7, SunBurn                   |
 | ![][flag_CA] Canada      | **Azer**, FunOrange, Hoozimajiget, Erotik, Mariya, mochi, Layne, Kairi                 |
@@ -102,7 +102,7 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 ### Schlecht-platzierte
 
 | Country                                    | Members                                                                                |
-|--------------------------------------------|----------------------------------------------------------------------------------------|
+| :-- | :-- |
 | ![][flag_BE] Belgium     | **DrakRainbow**, GoldenWolf, Sakisan, larshmellow, Friendzone King, KinkehW, Mithrane  |
 | ![][flag_BG] Bulgaria    | **Scrublord**, Defacer, b1o, -Arthus-, Supbads, Angeloid\_Alpha, Hardatyou             |
 | ![][flag_CL] Chile       | **Innocent** Steps, Neab, coflA, Cristian, BoopMos, Mesita, SwENeMbO, Revengexsoyah    |
@@ -301,13 +301,13 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 **07\. Dez. 2013 (Samstag)**
 
 | Team A                                   | Score      | Team B                                | History                             |
-|:-----------------------------------------|:----------:|--------------------------------------:|-------------------------------------|
+| :-- | :-: | --: | :-- |
 | ![][flag_KR] **Korea** | **6**  - 5 | Taiwan ![][flag_TW] | [#1](https://osu.ppy.sh/community/matches/3233030) |
 
 **08\. Dez. 2013 (Sonntag)**
 
 | Team A                                        | Score       | Team B                                    | History                             |
-|:----------------------------------------------|:-----------:|------------------------------------------:|-------------------------------------|
+| :-- | :-: | --: | :-- |
 | ![][flag_GB] United Kingdom | 1   - **6** | **Poland** ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/3272199) |
 
 ### Halbfinale
@@ -315,7 +315,7 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 **30\. Nov 2013 (Samstag)**
 
 | Team A                                    | Score      | Team B                                        | History                            |
-|:------------------------------------------|:----------:|----------------------------------------------:|------------------------------------|
+| :-- | :-: | --: | :-- |
 | ![][flag_KR] **Korea**  | **6**  - 1 | United Kingdom ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/3088440) |
 | ![][flag_TW] **Taiwan** | **6**  - 0 | Poland ![][flag_PL]         | [#1](https://osu.ppy.sh/community/matches/3091169) |
 
@@ -324,7 +324,7 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 **24\. Nov 2013 (Sonntag)**
 
 | Team A                                            | Score     | Team B                                    | History                                                                     |
-|:--------------------------------------------------|:---------:|------------------------------------------:|-----------------------------------------------------------------------------|
+| :-- | :-: | --: | :-- |
 | ![][flag_JP] Japan              | 2 - **5** | **Taiwan** ![][flag_TW] | [#1](https://osu.ppy.sh/community/matches/2962477)                                          |
 | ![][flag_KR] **Korea**          | **5** - 2 | Austria ![][flag_AT]    | [#1](https://osu.ppy.sh/community/matches/2964278)                                          |
 | ![][flag_CN] China              | 4 - **5** | **Poland** ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/2966197)                                          |
@@ -335,7 +335,7 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 **16\. Nov 2013 (Samstag)**
 
 | Team A                                            | Score          | Team B                                            | History                            |
-|:--------------------------------------------------|:--------------:|--------------------------------------------------:|------------------------------------|
+| :-- | :-: | --: | :-- |
 | ![][flag_KR] **Korea**          | **5**  - 0     | Russian Federation ![][flag_RU] | [#1](https://osu.ppy.sh/community/matches/2778204) |
 | ![][flag_HK] Hong Kong          | 3      - **5** | **Germany** ![][flag_DE]        | [#1](https://osu.ppy.sh/community/matches/2780657) |
 | ![][flag_GB] **United Kingdom** | **5**  - 1     | Thailand ![][flag_TH]           | [#1](https://osu.ppy.sh/community/matches/2783657) |
@@ -343,7 +343,7 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 **17\. Nov 2013 (Sonntag)**
 
 | Team A                                     | Score          | Team B                                       | History                                                                                                  |
-|:-------------------------------------------|:--------------:|---------------------------------------------:|----------------------------------------------------------------------------------------------------------|
+| :-- | :-: | --: | :-- |
 | ![][flag_CN] **China**   | **5**  - 2     | United States ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/2805329) [#A](https://osu.ppy.sh/ss/1107405) [#B](https://osu.ppy.sh/ss/1107418) |
 | ![][flag_JP] **Japan**   | **5**  - 1     | Netherlands ![][flag_NL]   | [#1](https://osu.ppy.sh/community/matches/2811659)                                                                       |
 | ![][flag_TW] **Taiwan**  | **5**  - 0     | Brazil ![][flag_BR]        | [#1](https://osu.ppy.sh/community/matches/2814063)                                                                       |
@@ -355,7 +355,7 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 **8\. Nov 2013 (Freitag)**
 
 | Team A                                            | Score          | Team B                                            | History                             |
-|:--------------------------------------------------|:--------------:|--------------------------------------------------:|-------------------------------------|
+| :-- | :-: | --: | :-- |
 | ![][flag_TW] **Taiwan**         | **4**  - 0     | Indonesia ![][flag_ID]          | [#1](https://osu.ppy.sh/community/matches/2581408) |
 | ![][flag_PL] **Poland**         | **4**  - 0     | Russian Federation ![][flag_RU] | [#1](https://osu.ppy.sh/community/matches/2587307) |
 | ![][flag_FI] **Finland**        | **4**  - 0     | Estonia ![][flag_EE]            | [#1](https://osu.ppy.sh/community/matches/2588205) |
@@ -366,7 +366,7 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 **9\. Nov 2013 (Samstag)**
 
 | Team A                                                | Score          | Team B                                        | History                                                                      |
-|:------------------------------------------------------|:--------------:|----------------------------------------------:|------------------------------------------------------------------------------|
+| :-- | :-: | --: | :-- |
 | ![][flag_ID] **Indonesia**          | **4**  - 0     | Venezuela ![][flag_VE]      | [#1](https://osu.ppy.sh/community/matches/2597698)                                          |
 | ![][flag_JP] **Japan**              | **4**  - 1     | Canada ![][flag_CA]         | [#1](https://osu.ppy.sh/community/matches/2598602)                                          |
 | ![][flag_KR] **Korea**              | **4**  - 0     | Norway ![][flag_NO]         | [#1](https://osu.ppy.sh/community/matches/2605519)                                          |
@@ -390,7 +390,7 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 **10\. Nov 2013 (Sonntag)**
 
 | Team A                                                | Score          | Team B                                     | History                                                                                                     |
-|:------------------------------------------------------|:--------------:|-------------------------------------------:|-------------------------------------------------------------------------------------------------------------|
+| :-- | :-: | --: | :-- |
 | ![][flag_TH] **Thailand**           | **4**  - 0     | Singapore ![][flag_SG]   | [#1](https://osu.ppy.sh/community/matches/2644383)                                                                         |
 | ![][flag_CN] **China**              | **4**  - 1     | Philippines ![][flag_PH] | [#1](https://osu.ppy.sh/community/matches/2642702) [#2](https://osu.ppy.sh/community/matches/2644022) [#3](https://osu.ppy.sh/community/matches/2644544) |
 | ![][flag_AU] **Australia**          | **4**  - 0     | Bulgaria ![][flag_BG]    | [#1](https://osu.ppy.sh/community/matches/2645416)                                                                         |
@@ -448,8 +448,8 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
     2.  Es muss ein Kapitän angegeben werden, der das Team representieren wird.
 
 2.  Jedes Team representiert eine Nation. Sie müssen ein Team zusammenstellen mit Spieler aus demselben Land und daher dieselbe Flagge im Profil haben.
-3.  Für die Teamanmeldungen [müssen Sie dieses Formular ausfüllen](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). Danach verifizieren Sie Ihre Registrierung, in dem Sie [eine persönliche Nachricht an Loctav schicken](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) mit dem Titel “OWC Registration”.
-    -   Kapitäne können ihre Aufstellung durch [das Benachrichtigen ans Management](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) ändern.
+3.  Für die Teamanmeldungen [müssen Sie dieses Formular ausfüllen](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). Danach verifizieren Sie Ihre Registrierung, in dem Sie [eine persönliche Nachricht an Loctav schicken](https://osu.ppy.sh/home/messages/users/71366) mit dem Titel “OWC Registration”.
+    -   Kapitäne können ihre Aufstellung durch [das Benachrichtigen ans Management](https://osu.ppy.sh/home/messages/users/71366) ändern.
 
 4.  Jede Registrierung und Änderung wird vom Turnier Management überprüft, bevor sie akzeptiert und zur Liste der Teilnehmer hinzugefügt werden.
 5.  Die maximale Anzahl an Teams liegt bei 32.

@@ -104,7 +104,124 @@ The Yuri Cup is run by various community members.
 | **Yuritarded** | **![][flag_US] [Raoul](https://osu.ppy.sh/users/9924405)**, ![][flag_US] [mode](https://osu.ppy.sh/users/4580287), ![][flag_CA] [Rijrya](https://osu.ppy.sh/users/11186709), ![][flag_CA] [iyxe](https://osu.ppy.sh/users/9653938), ![][flag_US] [Yeong Yuseong](https://osu.ppy.sh/users/8926244), ![][flag_CL] [ign](https://osu.ppy.sh/users/9360528), ![][flag_CA] [boncuss](https://osu.ppy.sh/users/2305984), ![][flag_US] [Tuco](https://osu.ppy.sh/users/11706350) |
 | **安倍-プーチン** | **![][flag_RU] [z0mbir](https://osu.ppy.sh/users/4939107)**, ![][flag_JP] [Lege](https://osu.ppy.sh/users/7350684), ![][flag_JP] [katatakatata](https://osu.ppy.sh/users/3540294), ![][flag_JP] [\_tottoko\_](https://osu.ppy.sh/users/8354698), ![][flag_JP] [Valtz](https://osu.ppy.sh/users/5911299), ![][flag_RU] [DrakonLong](https://osu.ppy.sh/users/4411044), ![][flag_JP] [Reey](https://osu.ppy.sh/users/3773119), ![][flag_RU] [HardLifeNH](https://osu.ppy.sh/users/11009393) |
 
+## Match schedule: Grand Finals
+
+Saturday, 4 April 2020:
+
+| Match ID | Team 1 | Team 2 | Match time (UTC) |
+| :-: | --: | :-- | :-: |
+| #61 | Corim's Bad Dream | Rtzero x Rtzer0 | **15:00** |
+
+Sunday, 5 April 2020:
+
+| Match ID | Team 1 | Team 2 | Match time (UTC) |
+| :-: | --: | :-- | :-: |
+| #62a¹ | a la verga | Corim's Bad Dream | **19:00** |
+| #62b¹ | a la verga | Rtzero x Rtzer0 | **14:00** |
+
+¹ Encounter dependent on winner of match #61. If team 2 wins match #62, the bracket reset Grand Finals match will take place approximately 30 minutes in advance.
+
 ## Mappools
+
+### Grand Finals
+
+**[Download the mappack here! (135 MB)](https://mega.nz/#!GVNmxaRb!VSDzR0f_swSZ-XCa2NY0uaGDIfD72uU7EeH917jylZo)**
+
+- NoMod
+  - [System Of A Down - Toxicity (Icekalt) \[Disorder\]](https://osu.ppy.sh/beatmapsets/1041151#osu/2176046)
+  - [goreshit - toromi hearts 2 (Elcheer) \[I Can't Come Up With A Difficulty Name Yet\]](https://osu.ppy.sh/beatmapsets/853027#osu/1897638)
+  - [Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - ito (Lasse) \[Petal\]](https://osu.ppy.sh/beatmapsets/1077982#osu/2255709)
+  - [xi - Last Resort (Kroytz) \[Loli's INFINITE\]](https://osu.ppy.sh/beatmapsets/800102#osu/1679788)
+  - [Camellia - WHAT THE CAT!? (Akali) \[Procatstination (Meowzerrin Style)\]](https://osu.ppy.sh/beatmapsets/588018#osu/1245003)
+  - [Azuna Riko - Kimi ni Furete (TV size) (Aery) \[yuri cup\]](https://osu.ppy.sh/beatmapsets/1134849#osu/2370203)
+  - [Ancient Remains Arranged 20 Beats - Shirayama Hime no Kami (rustbell) \[Rush\]](https://osu.ppy.sh/beatmapsets/818813#osu/1716795)
+- Hidden
+  - [Renard - Rainbow Dash Likes Girls (Stay Gay Pony Girl) (Kuron-kun) \[Holy Shit! It's Rainbow Dash... Again!\]](https://osu.ppy.sh/beatmapsets/777586#osu/1633520)
+  - [xi - over the top (Kroytz) \[beyond the heavens\]](https://osu.ppy.sh/beatmapsets/479215#osu/1023355)
+  - [lapix - Carry Me Away (Alden) \[Nigber1's Blazing Extra\]](https://osu.ppy.sh/beatmapsets/696800#osu/2361968)
+  - [CLIFF EDGE feat. Nakamura Maiko - The Distance (handsome) \[Master\]](https://osu.ppy.sh/beatmapsets/580375#osu/1228840)
+- HardRock
+  - [Nekomata Master - Despair of Elferia (-Tochi) \[ANIMUM DESPONDEO\]](https://osu.ppy.sh/beatmapsets/1069504#osu/2238810)
+  - [LowFat x Onyu - DAYBREAK FRONTLINE (Anmiy) \[GO AHEAD !!!\]](https://osu.ppy.sh/beatmapsets/545417#osu/1155547)
+  - [RYO - Shuffle Heaven (AngelHoney) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/30682#osu/118971)
+  - [Memme - %S(M) (P o M u T a) \[EX\]](https://osu.ppy.sh/beatmapsets/296393#osu/665509)
+- DoubleTime
+  - [Taylor Swift - ...Ready For It? (Syph) \[Extra\]](https://puu.sh/Fru9p/84d01bdba5.osz)
+  - [bibuko - Crayon (val0108) \[Insane\]](https://osu.ppy.sh/beatmapsets/49455#osu/152463)
+  - [Stan SB - Let This Go (Kyshiro) \[Gone\]](https://osu.ppy.sh/beatmapsets/89912#osu/244230)
+  - [Culprate & Joe Ford - Gaucho (ScubDomino) \[Kalibe x LCFC's Insane\]](https://osu.ppy.sh/beatmapsets/847776#osu/1772924)
+  - [Fred Roettcher - Cha-La Head Cha-La (Suissie) \[Deramok\]](https://osu.ppy.sh/beatmapsets/947114#osu/2130383)
+- FreeMod
+  - [Crush 40 - City Escape - Modern (Hobbes2) \[Ultimate\]](https://osu.ppy.sh/beatmapsets/706935#osu/1494630)
+  - [FLOOR BABA - WIGGLE CORE (Skymin) \[TAP\]](https://osu.ppy.sh/beatmapsets/769708#osu/1618417)
+  - [Denkishiki Karen Ongaku Shuudan - Lily Toxicity (Short Ver.) (LMT) \[A Little Piece of Heaven\]](https://osu.ppy.sh/beatmapsets/1066325#osu/2232812)
+  - [paranoid void - Utsukushii Kodoku (dsco) \[Escapism\]](https://osu.ppy.sh/beatmapsets/777597#osu/1633534)
+- Tiebreaker
+  - **[Dimrain47 - Operation: Evolution (Yukiyo) \[Darwinism\]](https://osu.ppy.sh/beatmapsets/938921#osu/1961263)**
+
+### Finals
+
+- NoMod
+  - [Feryquitous feat. Aitsuki Nakuru - Ether (Acyl) \[Moecho's Empyrean Quintessence\]](https://osu.ppy.sh/beatmapsets/902425#osu/2117380)
+  - [SOUND HOLIC Vs. T.Kakuta feat. YURiCa - TOXIC VIBRATION (extend ver.) (Musty) \[NiNo's Extra\]](https://osu.ppy.sh/beatmapsets/521184#osu/1389624)
+  - [Beatdrop - Phase 1 (rustbell) \[HD\]](https://osu.ppy.sh/beatmapsets/526397#osu/1116977)
+  - [Silentroom - Nhelv (Nyxa) \[iniquitatem\]](https://osu.ppy.sh/beatmapsets/917915#osu/2009432)
+  - [goreshit - MATZcore (\_LRJ\_) \[Lolicore AR9.7\]](https://puu.sh/FoAb5/95a87b53e9.osz)
+  - [sasakure.UK - Good Bye, Mr. Jack (Xilver15) \[ReMiX\]](https://osu.ppy.sh/beatmapsets/586425#osu/1241924)
+- Hidden
+  - [Akatsuki Records - WARNING x WARNING x WARNING (Hailie) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/755619#osu/1593262)
+  - [P\*Light - 2 MINUTES FIGHTERS (Line-) \[Line-'s\]](https://osu.ppy.sh/beatmapsets/389311#osu/848950)
+  - [BRZion - Game Brain (Zapy) \[Extra\]](https://osu.ppy.sh/beatmapsets/31224#osu/102736)
+  - [yuikonnu - Ghost Rule (Len) \[Sonnyc's Insane\]](https://osu.ppy.sh/beatmapsets/440650#osu/1573659)
+- HardRock
+  - [Warak - Slow Motion (feat. DongGeyoung) (NeonLights) \[Walk away in slow motion\]](https://osu.ppy.sh/beatmapsets/1014716#osu/2123641)
+  - [UNDEAD CORPORATION - Embraced by the Flame (English ver) (PoNo) \[Xenok's Extra\]](https://osu.ppy.sh/beatmapsets/783213#osu/1644648)
+  - [Nanaki feat.GUMI - Mousou Kajitsu (Natsu) \[Climax\]](https://osu.ppy.sh/beatmapsets/524966#osu/1114132)
+  - [Hiroyuki Sawano feat. Mika Kobayashi - Bios (goodbye) \[LKs' Another\]](https://osu.ppy.sh/beatmapsets/43674#osu/137766)
+- DoubleTime
+  - [Hanatan - Friction (kakifly) \[Insane\]](https://osu.ppy.sh/beatmapsets/281749#osu/637279)
+  - [Festa - Lemuria (QuiescentRabbit) \[Insane\]](https://osu.ppy.sh/beatmapsets/835474#osu/1815526)
+  - [Poppy - I'm Poppy (Myxomatosis) \[Insane\]](https://osu.ppy.sh/beatmapsets/838383#osu/1755267)
+  - [Trans-Siberian Orchestra - Wizards In Winter (Echo49) \[Impossible\]](https://osu.ppy.sh/beatmapsets/132#osu/296)
+  - [Big Gigantic - The Little Things (Kasbo Remix) (Axarious) \[life that i fear\]](https://osu.ppy.sh/beatmapsets/521691#osu/1108029)
+- FreeMod
+  - [Kairiki bear - Shippaisaku Shoujo (RLC) \[X\]](https://osu.ppy.sh/beatmapsets/1088005#osu/2275111)
+  - [PSYQUI feat. Such - Hysteric Night Girl (Awakening) (Livia) \[AR9.3\]](https://osu.ppy.sh/beatmapsets/924989#osu/1948655)
+  - [Guiano - Superhero (Shanipika) \[Because you are you\]](https://osu.ppy.sh/beatmapsets/775014#osu/1628717)
+  - [Susumu Hirasawa - Aurora 2 (NachoPiggy) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/10978#osu/49206)
+- Tiebreaker
+  - **[The Queenstons - What You Do (Fullmix) (Mismagius) \[Coldblooded\]](https://osu.ppy.sh/beatmapsets/801506#osu/1682424)**
+
+### Semifinals
+
+**[Download the mappack here! (127 MB)](https://mega.nz/#!iAt1VYjZ!J0F0u5BGORbghwRkwmzR1tIV9aiX92wkyKJ2uyWFKWQ)**
+
+- NoMod
+  - [Amamiya Sora - Eternal (Mordred) \[New World\]](https://osu.ppy.sh/beatmapsets/815811#osu/1710926)
+  - [Toromaru - Enigma (Avena) \[Ultra\]](https://osu.ppy.sh/beatmapsets/460380#osu/986939)
+  - [YURRY CANON - Nadeshiko color Heart (kwk) \[Sakase\]](https://osu.ppy.sh/beatmapsets/682996#osu/1451733)
+  - [O2i3 - Capitalism Cannon (AMX) \[Dominance\]](https://osu.ppy.sh/beatmapsets/827791#osu/1734494)
+  - [The Ghost Of 3.13 - Forgotten (Blue Dragon) \[grumd\]](https://osu.ppy.sh/beatmapsets/55560#osu/169841)
+  - [Suda Keina - veil (Axarious) \[AR8\]](https://osu.ppy.sh/beatmapsets/1096386#osu/2291176)
+- Hidden
+  - [WSTR - Eastbound & Down (HanzeR) \[Irre \<3 HanzeR\]](https://osu.ppy.sh/beatmapsets/598677#osu/1271476)
+  - [TJ.Hangneil - Kamui (7odoa) \[SHD\]](https://osu.ppy.sh/beatmapsets/39017#osu/124664)
+  - [GHOSTEMANE - Mercury: Retrograde (Anishina Kodoku) \[Thelema\]](https://osu.ppy.sh/beatmapsets/838193#osu/1754868)
+- HardRock
+  - [SAVE THE QUEEN - EX-Termination (Jenny) \[Combustion\]](https://osu.ppy.sh/beatmapsets/50181#osu/156905)
+  - [Chroma - I (Kawashiro) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/880256#osu/1877959)
+  - [Lindsey Stirling - Crystallize (Nuvolina) \[Blind Collab\]](https://osu.ppy.sh/beatmapsets/947744#osu/1979407)
+- DoubleTime
+  - [Grynpyret - Boba Beach (VINXIS) \[Habanero\]](https://osu.ppy.sh/beatmapsets/327224#osu/726289)
+  - [DJ TOTTO feat. \*spiLa\* - illumina (handsome) \[insane\]](https://osu.ppy.sh/beatmapsets/349883#osu/779441)
+  - [Chris Brown Feat. Busta Rhymes & Lil Wayne - Look At Me Now (Mafiamaster) \[Insane\]](https://osu.ppy.sh/beatmapsets/29859#osu/99997)
+  - [KOTOKO - agony (K-S-O) \[Insane\]](https://bloodcat.com/osu/s/302)
+- FreeMod
+  - [DJKurara - Goodbye (EijiKuinbii) \[grumd's Extra\]](https://osu.ppy.sh/beatmapsets/866436#osu/1968486)
+  - [nobodyknows+ - Kokoro Odoru (toybot) \[bbj's Expert\]](https://osu.ppy.sh/beatmapsets/1020878#osu/2176407)
+  - [loos feat. Meramipop - Starlight Disco (ktgster) \[MASTER\]](https://osu.ppy.sh/beatmapsets/591801#osu/1252258)
+- Tiebreaker
+  - **[Niko - Made Of Fire (Extended Mix) (Mismagius) \[NO ONE CAN STOP ME\]](https://osu.ppy.sh/beatmapsets/1102510#osu/2303231)**
 
 ### Quarterfinals
 
@@ -213,6 +330,70 @@ The Yuri Cup is run by various community members.
   - [senya - Kimi to Dareka no Yasashisa ni (kakifly) \[Affection\]](https://osu.ppy.sh/beatmapsets/250337#osu/596161)
 
 ## Match results
+
+### Finals
+
+Saturday, 28 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Rtzero x Rtzer0** | **7** | 2 | Sakura Trick | [#1](https://osu.ppy.sh/community/matches/59699521) |
+| **Futon's Bunker** | **7** | 6 | Dziadzia team | [#1](https://osu.ppy.sh/community/matches/59702151) |
+| Corim's Bad Dream | 6 | **7** | **a la verga** | [#1](https://osu.ppy.sh/community/matches/59717509) |
+
+Sunday, 29 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Futon's Bunker | 6 | **7** | **Rtzero x Rtzer0** | [#1](https://osu.ppy.sh/community/matches/59740324) |
+
+### Semifinals
+
+Saturday, 21 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Sakura Trick** | **6** | 1 | Voprossoff Fanclub | [#1](https://osu.ppy.sh/community/matches/59435218) |
+| **Hyouri Ittai** | **6** | 0 | 安倍-プーチン | [#1](https://osu.ppy.sh/community/matches/59439202) |
+| Rtzero x Rtzer0 | 3 | **6** | **Corim's Bad Dream** | [#1](https://osu.ppy.sh/community/matches/59440912) |
+| **Dziadzia team** | **6** | 3 | N | [#1](https://osu.ppy.sh/community/matches/59444898) |
+| Justice for Riko | 3 | **6** | **Baguette Vodka Salo** | [#1](https://osu.ppy.sh/community/matches/59447131) |
+
+Sunday, 22 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Baguette Vodka Salo | 2 | **6** | **Sakura Trick** | [#1](https://osu.ppy.sh/community/matches/59472828) |
+| **a la verga** | **6** | 3 | Futon's Bunker | [#1](https://osu.ppy.sh/community/matches/59476790) |
+| Hyouri Ittai | 2 | **6** | **Dziadzia team** | [#1](https://osu.ppy.sh/community/matches/59482739) |
+
+### Quarterfinals
+
+Saturday, 14 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **安倍-プーチン** | **6** | 3 | MeAqua | [#1](https://osu.ppy.sh/community/matches/59180224) |
+| 11:40 | 0 | **6** | **:flushed:** | [#1](https://osu.ppy.sh/community/matches/59181826) |
+| **Voprossoff Fanclub** | **6** | 4 | Stavros1435 | [#1](https://osu.ppy.sh/community/matches/59190702) |
+| **magblood debil** | **6** | 2 | Milk & Scissors | [#1](https://osu.ppy.sh/community/matches/59192806) |
+| **N** | **6** | 5 | team name #2 | [#1](https://osu.ppy.sh/community/matches/59198026) |
+| **Baguette Vodka Salo** | **6** | 5 | rooGya | [#1](https://osu.ppy.sh/community/matches/59198798) |
+| Yuritarded | 4 | **6** | **Suce** | [#1](https://osu.ppy.sh/community/matches/59201739) |
+| Urushihara Fan Club | 5 | **6** | **Ricky Montgomery** | [#1](https://osu.ppy.sh/community/matches/59203577) |
+
+Sunday, 15 March 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Voprossoff Fanclub** | **6** | 2 | :flushed: | [#1](https://osu.ppy.sh/community/matches/59218709) |
+| **Futon's Bunker** | **6** | 0 | Justice for Riko | [#1](https://osu.ppy.sh/community/matches/59219906) |
+| **a la verga** | **6** | 1 | Sakura Trick | [#1](https://osu.ppy.sh/community/matches/59222476) |
+| Dziadzia team | 5 | **6** | **Rtzero x Rtzer0** | [#1](https://osu.ppy.sh/community/matches/59223430) |
+| **安倍-プーチン** | **6** | 0 | Ricky Montgomery | [#1](https://osu.ppy.sh/community/matches/59225604) |
+| **N** | **6** | 0 | magblood debil | [#1](https://osu.ppy.sh/community/matches/59231330) |
+| Hyouri Ittai | 2 | **6** | **Corim's Bad Dream** | [#1](https://osu.ppy.sh/community/matches/59233174) |
+| Suce | 2 | **6** | **Baguette Vodka Salo** | [#1](https://osu.ppy.sh/community/matches/59234606) |
 
 ### Round of 16
 

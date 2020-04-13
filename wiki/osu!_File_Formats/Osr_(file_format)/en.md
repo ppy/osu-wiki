@@ -5,7 +5,7 @@
 ## Data Types
 
 | Name | Bytes | Description |
-| ---- | ----- | ----------- |
+| :-- | :-- | :-- |
 | Byte | 1 | A single 8 bit value. |
 | Short | 2 | A 2-byte little endian value. |
 | Integer | 4 | A 4-byte little endian value. |
@@ -18,17 +18,17 @@
 Byte offsets are not included in this table due to variable length values.
 
 | Data Type | Description |
-| --------- | ----------- |
+| :-- | :-- |
 | Byte | Game mode of the replay (0 = osu! Standard, 1 = Taiko, 2 = Catch the Beat, 3 = osu!mania) |
 | Integer | Version of the game when the replay was created (ex. 20131216) |
 | String | osu! beatmap MD5 hash |
 | String | Player name |
 | String | osu! replay MD5 hash (includes certain properties of the replay) |
 | Short | Number of 300s |
-| Short | Number of 100s in standard, 150s in Taiko, 100s in CTB, 200s in mania |
+| Short | Number of 100s in standard, 150s in Taiko, 100s in CTB, 100s in mania |
 | Short | Number of 50s in standard, small fruit in CTB, 50s in mania |
 | Short | Number of Gekis in standard, Max 300s in mania |
-| Short | Number of Katus in standard, 100s in mania |
+| Short | Number of Katus in standard, 200s in mania |
 | Short | Number of misses |
 | Integer | Total score displayed on the score report |
 | Short | Greatest combo displayed on the score report |
@@ -52,7 +52,7 @@ The remaining data contains information about mouse movement and key presses in 
 When decompressed, the text contains data separated by commas. Each piece denotes an action, represented by 4 numbers in the form: `w | x | y | z.`
 
 | Part | Data Type | Description |
-| ---- | --------- | ----------- |
+| :-- | :-- | :-- |
 | w | Long | Time in milliseconds since the previous action |
 | x | Float | x-coordinate of the cursor from 0 - 512 |
 | y | Float | y-coordinate of the cursor from 0 - 384 |
@@ -65,7 +65,7 @@ On replays set on version `20130319` or later, the 32-bit integer RNG seed used 
 As seen on the [osu! API](https://github.com/peppy/osu-api/wiki#mods).
 
 | Mod            | Value (BitOffset) | Comment                              |
-|----------------|-------------------|--------------------------------------|
+| :-- | :-- | :-- |
 | None           | 0                 |                                      |
 | NoFail         | 1 (0)             |                                      |
 | Easy           | 2 (1)             |                                      |

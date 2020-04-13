@@ -57,7 +57,7 @@ The osu! Catch the Beat World Cup 2014 was run by various community members by d
 |  | Country | Members |
 | --: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[NightWar](https://osu.ppy.sh/users/1209167)**, [Litooo](https://osu.ppy.sh/users/1170107), [Gundisalv](https://osu.ppy.sh/users/1160340), [musicguy007](https://osu.ppy.sh/users/2159777) |
-| ![][flag_AT] | **Austria** | **[\[ K a z u \]](https://osu.ppy.sh/**u/1902480)**, [Raaban](https://osu.ppy.sh/users/1569025), [xXMarcelXx](https://osu.ppy.sh/users/2355698), [Zuyanta](https://osu.ppy.sh/users/2772759) |
+| ![][flag_AT] | **Austria** | **[\[ K a z u \]](https://osu.ppy.sh/u/1902480)**, [Raaban](https://osu.ppy.sh/users/1569025), [xXMarcelXx](https://osu.ppy.sh/users/2355698), [Zuyanta](https://osu.ppy.sh/users/2772759) |
 | ![][flag_BO] | **Bolivia** | **[donjuan\_217](https://osu.ppy.sh/users/2169426)**, [brian\_rqc](https://osu.ppy.sh/users/3710738), [gakupoXD](https://osu.ppy.sh/users/871103), [Zen Youkai](https://osu.ppy.sh/users/3364257) |
 | ![][flag_CA] | **Canada** | **[Kitokofox](https://osu.ppy.sh/users/1815420)**, [Sumaki](https://osu.ppy.sh/users/207916), [Kitsunemimi](https://osu.ppy.sh/users/100037) |
 | ![][flag_CL] | **Chile** | - disbanded - |
@@ -402,8 +402,8 @@ This competition has come to an end and resulted in the following podium:
    - The maximum team size is 6.
    - You must specify a captain who will represent the team.
 2. Each team represents a nation. You must form a team with players from the same country.
-3. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI/edit). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “CWC Registration”
-   - Captains may change their setup by [notifying the management](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
+3. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI/edit). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “CWC Registration”
+   - Captains may change their setup by [notifying the management](https://osu.ppy.sh/home/messages/users/71366).
    - You get a confirmation reply in case your registration successfully arrived. Your registration is in pending then.
 4. To ensure valid and serious registrations, any registration and change will be checked by the Tournament Management.
 5. The total amount of teams is 32.

@@ -1,7 +1,3 @@
----
-needs_cleanup: true
----
-
 # Interface skinning tutorial
 
 ## Welcome Screen
@@ -588,7 +584,7 @@ However, the default is `0,0,0` (black).
 The input overlay comes in two parts:
 
 | File Name                   | Description                                                         | Resolution (BxH) | @2x Resolution (BxH) |
-|-----------------------------|---------------------------------------------------------------------|------------------|----------------------|
+| :-- | :-- | :-- | :-- |
 | inputoverlay-background.png | Defines the overall background for the input overlay                | 193x90           | 386x180              |
 | inputoverlay-key.png        | Defines the "key" image for each of the 4 keys in the input overlay | 46x46            | 92x92                |
 
@@ -602,7 +598,7 @@ There are many parts inside the ranking screen, so below is the brake-up of what
 Using the image above, here are the meanings:
 
 | \# on image | Name                           | Description                                                                                                                                                                                                                                                                                                                                                                                   |
-|-------------|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- | :-- |
 | 1           | Ranking Letters                | It's not hard to do them. Just don't make them freaking huge. Remember: `ranking-X` = SS, `ranking-SH` = Silver S, `ranking-XH` = Silver SS.                                                                                                                                                                                                                                                  |
 | 2           | Retry, Replay button           | Depending on your Version in the skin.ini, either ranking-retry.png/ranking-replay.png (Version: 1.0) or pause-retry.png/pause-replay.png (Version: 2.0 or above) will be used. Retry - play the map one more time. Replay - watch your amazing play.                                                                                                                                         |
 | 3           | Ranking-accuracy and max combo | As the name says. Personally I recommend to make them blank and add "Max Combo" and "Accuracy" by yourself on raking-panel. It's just easier to position them.                                                                                                                                                                                                                                |

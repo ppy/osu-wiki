@@ -7,7 +7,7 @@ no_native_review: true
 
 *另见：[安装/macOS](/wiki/Installation/macOS)*
 
-该页面会简要地告诉你怎么让 osu! 在 Windows 上运行。[osu!academy](/wiki/osu!academy) 制作了一个[视频教程](https://www.bilibili.com/video/av90868810/)来解释怎么在 Windows 上面安装 osu!。
+该页面会简要地告诉你怎么让 osu! 在 Windows 上运行。[osu!academy](/wiki/osu!academy) 制作了一个[视频教程](https://www.bilibili.com/video/av90868810)来解释怎么在 Windows 上面安装 osu!。
 
 ## 最低系统要求
 

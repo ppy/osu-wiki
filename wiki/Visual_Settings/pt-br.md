@@ -8,7 +8,7 @@
 ## Opções Disponíveis
 
 | Nome | Efeito | Descrições |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | Escuridão do plano de fundo | Escurece o campo de jogo. | Durante uma pausa, a escuridão é reduzida em 30% do valor ou fica em 0%. Efeitos especiais e elementos do storyboard não aparecem com 100% de escuridão. |
 | Desabilitar storyboard | Remove todos os elementos do storyboard. Não afeta Kiai Time ou vídeo de fundo. | É recomendado para jogadores epilépticos em mapas com aviso de epilepsia. Essa opção é descartada se não existir storyboard. |
 | Ignorar a skin do beatmap | Caso exista uma skin específica para o beatmap, não a use. A skin escolhida pelo jogador (ativa) será usada no seu lugar. | Requer o reinício da tentativa para ter efeito. |

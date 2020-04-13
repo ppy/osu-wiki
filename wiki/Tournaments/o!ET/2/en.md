@@ -594,7 +594,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Sunday, 2019-03-24 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **Makeshift Winners** | **7** | 3 | singletap is braindead | [#1](https://osu.ppy.sh/community/matches/50505230), [#2](https://osu.ppy.sh/community/matches/50505230+https://osu.ppy.sh/community/matches/50506296) |
+| **Makeshift Winners** | **7** | 3 | singletap is braindead | [#1](https://osu.ppy.sh/community/matches/50505230), [#2](https://osu.ppy.sh/community/matches/50506296) |
 
 #### Low Bracket
 

@@ -1,6 +1,7 @@
 ---
 needs_cleanup: true
 ---
+<!-- TODO: needs better descriptions for each mode, and the intro should say something about what a "game mode" is in the first place -->
 
 # Game modes
 

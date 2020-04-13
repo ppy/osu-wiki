@@ -1,6 +1,4 @@
----
-needs_cleanup: true
----
+<!-- TODO: get rid of this ASAP. we have articles, redirects, and tags systems to replace this. -->
 
 # Glossary
 
@@ -125,7 +123,7 @@ Used to refer to the group itself or one of its members.
 
 Represents the number of whole beats in a minute.
 
-Higher-BPM music may be associated with a higher [approach rate](/wiki/Beatmap_Editor/Song_Setup#approach-rate) value and vice versa.
+Higher-BPM music may be associated with a higher [approach rate](/wiki/Beatmapping/Approach_rate) value and vice versa.
 
 ### Break
 
@@ -159,15 +157,7 @@ On the contrary, a reverse choke is when the player combobreaks at the beginning
 
 ### Collab
 
-*Short for "collaboration".*
-
-Collab has two meanings:
-
-1. The work of multiple [creators](#creator) creating a single [beatmap](/wiki/Beatmaps); usually a [marathon](#marathon) beatmap.
-   - When collaborating on a beatmap, the creator must map a majority (at least half) of the beatmap. This is to ensure that the creator has done enough to upload the map under their username.
-2. The mapset containing [guest difficulties](#guest-difficulty).
-
-Collab may sometimes be used in [difficulty](/wiki/Difficulties) version names.
+Short for [collaboration](/wiki/Beatmaps/Beatmap_collaborations).
 
 ### Combo
 
@@ -426,7 +416,7 @@ Keep in mind that overuse or misuse of kiai can be disorienting! Thus [creators]
 
 ### Kudosu!
 
-*For a guide on rewarding kudosu!, see: [Beatmap Discussion/Kudosu!](/wiki/Beatmap_Discussion#kudosu!)
+*For a guide on rewarding kudosu!, see: [Beatmap Discussion/Kudosu!](/wiki/Beatmap_Discussion#kudosu!)*
 
 ![Kudosu Durp](img/Kudosu-Durp.png "Kudosu Durp")
 

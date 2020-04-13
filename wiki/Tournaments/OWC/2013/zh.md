@@ -11,7 +11,7 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 比赛已经结束，以下是前三名：
 
 | Placing                                                    | Country                               |
-|------------------------------------------------------------|---------------------------------------|
+| :-- | :-- |
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | ![][flag_KR] **韩国** |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TW] **台湾** |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_PL] **波兰** |
@@ -19,7 +19,7 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 ## 比赛日程
 
 | Event  | Timestamp             |
-|--------|-----------------------|
+| :-- | :-- |
 | 注册     | 2013年10月15日 - 28日     |
 | 抽签     | 2013年10月31日 16:00 UTC |
 | 小组赛    | 2013年11月8日 - 10日      |
@@ -31,7 +31,7 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 ## 奖励
 
 | Placing                                                    | Prize(s)                                                                  |
-|------------------------------------------------------------|---------------------------------------------------------------------------|
+| :-- | :-- |
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 6个月的supporter标签, 个人页面徽章, OWC奖杯, [osu!tablet](https://osu.ppy.sh/community/forums/topics/169139) |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3个月的supporter标签                                                           |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1个月的supporter标签                                                           |
@@ -39,7 +39,7 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 ## 主办方
 
 | Job   | Person(s)                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | 赛事管理  | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [dkun](https://osu.ppy.sh/users/154400)                                                                                                                                                                                                                                                                               |
 | Map选择 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_AR] [Wishy](https://osu.ppy.sh/users/495477), ![][flag_IT] [Chewin](https://osu.ppy.sh/users/617323)                                                                                                                                                                                                                                                                       |
 | 直播    | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55), ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935), ![][flag_US] [Makar](https://osu.ppy.sh/users/686389)                                                                                                                                                                                                                  |
@@ -62,7 +62,7 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 ### 第一档种子队
 
 | Country                                      | Members                                                                                                                                                                                                                                                                                                                                         |
-|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | ![][flag_CN] China         | **[Furudo\_Erika](https://osu.ppy.sh/users/169878)**, [wobeinimacao](https://osu.ppy.sh/users/350723), [N a n o](https://osu.ppy.sh/users/694114), [5231\_Kinoko](https://osu.ppy.sh/users/181057), [GGBY](https://osu.ppy.sh/users/629717), [Dsan](https://osu.ppy.sh/users/1266166), [InabaTewi](https://osu.ppy.sh/users/1078004), [GunS\_N\_Rose](https://osu.ppy.sh/users/1349849) |
 | ![][flag_DE] Germany       | **[ShadowSoul](https://osu.ppy.sh/users/494970)**, [CookEasy](https://osu.ppy.sh/users/453226), [Michi](https://osu.ppy.sh/users/932342), [Dustice](https://osu.ppy.sh/users/754565), [BDDav](https://osu.ppy.sh/users/1164526), [cptnXn](https://osu.ppy.sh/users/495272), [Imamoto](https://osu.ppy.sh/users/1201224), [dukambe](https://osu.ppy.sh/users/880002)                     |
 | ![][flag_JP] Japan         | **[Karuta](https://osu.ppy.sh/users/360552)**, [rrtyui](https://osu.ppy.sh/users/352328), [Potofu](https://osu.ppy.sh/users/657404), [serea](https://osu.ppy.sh/users/371961), [mugio3](https://osu.ppy.sh/users/491522), [Homura-](https://osu.ppy.sh/users/482120), [Gokuri](https://osu.ppy.sh/users/343865), [doctorindark](https://osu.ppy.sh/users/609227)                        |
@@ -75,7 +75,7 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 ### 第二档种子队
 
 | Country                                           | Members                                                                                                                                                                                                                                                                                                                     |
-|---------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | ![][flag_AR] Argentina          | **[Metro](https://osu.ppy.sh/users/306737)**, [Glazbom](https://osu.ppy.sh/users/608277), [Salvage](https://osu.ppy.sh/users/242119), [Hernan](https://osu.ppy.sh/users/516680), [Fabi](https://osu.ppy.sh/users/173114), [druidxd](https://osu.ppy.sh/users/841441), [CBA-ES-CAB](https://osu.ppy.sh/users/1875237), [Mikumiku97](https://osu.ppy.sh/users/503749) |
 | ![][flag_BR] Brazil             | **fabriciorby**, Blue Dragon, shoTt, nouk, Ghost Princess, powerstream89, AdRon Zh3Ro, antsu                                                                                                                                                                                                                                |
 | ![][flag_HK] Hong Kong          | **SilviZ**, Akiko-, HineX, K47, Fir3k0, galen1922, Yakumo Yukarin, auweichun                                                                                                                                                                                                                                                |
@@ -88,7 +88,7 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 ### 第三档种子队
 
 | Country                                    | Members                                                                                |
-|--------------------------------------------|----------------------------------------------------------------------------------------|
+| :-- | :-- |
 | ![][flag_AU] Australia   | **JappyBabes**, kamiyo-sama, flow, TimmyTimTims, Lach, Bauxe, Melt3dCheeze, smoogipooo |
 | ![][flag_AT] Austria     | **Omgforz**, WhitePhoenixLP, M3tr01d, Alumetorz, Jin\_Back7, SunBurn                   |
 | ![][flag_CA] Canada      | **Azer**, FunOrange, Hoozimajiget, Erotik, Mariya, mochi, Layne, Kairi                 |
@@ -101,7 +101,7 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 ### 非种子队
 
 | Country                                    | Members                                                                                |
-|--------------------------------------------|----------------------------------------------------------------------------------------|
+| :-- | :-- |
 | ![][flag_BE] Belgium     | **DrakRainbow**, GoldenWolf, Sakisan, larshmellow, Friendzone King, KinkehW, Mithrane  |
 | ![][flag_BG] Bulgaria    | **Scrublord**, Defacer, b1o, -Arthus-, Supbads, Angeloid\_Alpha, Hardatyou             |
 | ![][flag_CL] Chile       | **Innocent** Steps, Neab, coflA, Cristian, BoopMos, Mesita, SwENeMbO, Revengexsoyah    |
@@ -300,13 +300,13 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 **2013年12月7日（六）**
 
 | Team A                                   | Score      | Team B                                | History                             |
-|:-----------------------------------------|:----------:|--------------------------------------:|-------------------------------------|
+| :-- | :-: | --: | :-- |
 | ![][flag_KR] **Korea** | **6**  - 5 | Taiwan ![][flag_TW] | [#1](https://osu.ppy.sh/community/matches/3233030) |
 
 **2013年12月8日（日）**
 
 | Team A                                        | Score       | Team B                                    | History                             |
-|:----------------------------------------------|:-----------:|------------------------------------------:|-------------------------------------|
+| :-- | :-: | --: | :-- |
 | ![][flag_GB] United Kingdom | 1   - **6** | **Poland** ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/3272199) |
 
 ### 半决赛
@@ -314,7 +314,7 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 **2013年11月30日（六）**
 
 | Team A                                    | Score      | Team B                                        | History                            |
-|:------------------------------------------|:----------:|----------------------------------------------:|------------------------------------|
+| :-- | :-: | --: | :-- |
 | ![][flag_KR] **Korea**  | **6**  - 1 | United Kingdom ![][flag_GB] | [#1](https://osu.ppy.sh/community/matches/3088440) |
 | ![][flag_TW] **Taiwan** | **6**  - 0 | Poland ![][flag_PL]         | [#1](https://osu.ppy.sh/community/matches/3091169) |
 
@@ -323,7 +323,7 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 **2013年11月24日（日）**
 
 | Team A                                            | Score     | Team B                                    | History                                                                     |
-|:--------------------------------------------------|:---------:|------------------------------------------:|-----------------------------------------------------------------------------|
+| :-- | :-: | --: | :-- |
 | ![][flag_JP] Japan              | 2 - **5** | **Taiwan** ![][flag_TW] | [#1](https://osu.ppy.sh/community/matches/2962477)                                          |
 | ![][flag_KR] **Korea**          | **5** - 2 | Austria ![][flag_AT]    | [#1](https://osu.ppy.sh/community/matches/2964278)                                          |
 | ![][flag_CN] China              | 4 - **5** | **Poland** ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/2966197)                                          |
@@ -334,7 +334,7 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 **2013年11月16日（六）**
 
 | Team A                                            | Score          | Team B                                            | History                            |
-|:--------------------------------------------------|:--------------:|--------------------------------------------------:|------------------------------------|
+| :-- | :-: | --: | :-- |
 | ![][flag_KR] **Korea**          | **5**  - 0     | Russian Federation ![][flag_RU] | [#1](https://osu.ppy.sh/community/matches/2778204) |
 | ![][flag_HK] Hong Kong          | 3      - **5** | **Germany** ![][flag_DE]        | [#1](https://osu.ppy.sh/community/matches/2780657) |
 | ![][flag_GB] **United Kingdom** | **5**  - 1     | Thailand ![][flag_TH]           | [#1](https://osu.ppy.sh/community/matches/2783657) |
@@ -342,7 +342,7 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 **2013年11月17日（日）**
 
 | Team A                                     | Score          | Team B                                       | History                                                                                                  |
-|:-------------------------------------------|:--------------:|---------------------------------------------:|----------------------------------------------------------------------------------------------------------|
+| :-- | :-: | --: | :-- |
 | ![][flag_CN] **China**   | **5**  - 2     | United States ![][flag_US] | [#1](https://osu.ppy.sh/community/matches/2805329) [#A](https://osu.ppy.sh/ss/1107405) [#B](https://osu.ppy.sh/ss/1107418) |
 | ![][flag_JP] **Japan**   | **5**  - 1     | Netherlands ![][flag_NL]   | [#1](https://osu.ppy.sh/community/matches/2811659)                                                                       |
 | ![][flag_TW] **Taiwan**  | **5**  - 0     | Brazil ![][flag_BR]        | [#1](https://osu.ppy.sh/community/matches/2814063)                                                                       |
@@ -354,7 +354,7 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 **2013年11月8日（五）**
 
 | Team A                                            | Score          | Team B                                            | History                             |
-|:--------------------------------------------------|:--------------:|--------------------------------------------------:|-------------------------------------|
+| :-- | :-: | --: | :-- |
 | ![][flag_TW] **Taiwan**         | **4**  - 0     | Indonesia ![][flag_ID]          | [#1](https://osu.ppy.sh/community/matches/2581408) |
 | ![][flag_PL] **Poland**         | **4**  - 0     | Russian Federation ![][flag_RU] | [#1](https://osu.ppy.sh/community/matches/2587307) |
 | ![][flag_FI] **Finland**        | **4**  - 0     | Estonia ![][flag_EE]            | [#1](https://osu.ppy.sh/community/matches/2588205) |
@@ -365,7 +365,7 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 **2013年11月9日（六）**
 
 | Team A                                                | Score          | Team B                                        | History                                                                      |
-|:------------------------------------------------------|:--------------:|----------------------------------------------:|------------------------------------------------------------------------------|
+| :-- | :-: | --: | :-- |
 | ![][flag_ID] **Indonesia**          | **4**  - 0     | Venezuela ![][flag_VE]      | [#1](https://osu.ppy.sh/community/matches/2597698)                                          |
 | ![][flag_JP] **Japan**              | **4**  - 1     | Canada ![][flag_CA]         | [#1](https://osu.ppy.sh/community/matches/2598602)                                          |
 | ![][flag_KR] **Korea**              | **4**  - 0     | Norway ![][flag_NO]         | [#1](https://osu.ppy.sh/community/matches/2605519)                                          |
@@ -389,7 +389,7 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 **2013年11月10日（日）**
 
 | Team A                                                | Score          | Team B                                     | History                                                                                                     |
-|:------------------------------------------------------|:--------------:|-------------------------------------------:|-------------------------------------------------------------------------------------------------------------|
+| :-- | :-: | --: | :-- |
 | ![][flag_TH] **Thailand**           | **4**  - 0     | Singapore ![][flag_SG]   | [#1](https://osu.ppy.sh/community/matches/2644383)                                                                         |
 | ![][flag_CN] **China**              | **4**  - 1     | Philippines ![][flag_PH] | [#1](https://osu.ppy.sh/community/matches/2642702) [#2](https://osu.ppy.sh/community/matches/2644022) [#3](https://osu.ppy.sh/community/matches/2644544) |
 | ![][flag_AU] **Australia**          | **4**  - 0     | Bulgaria ![][flag_BG]    | [#1](https://osu.ppy.sh/community/matches/2645416)                                                                         |
@@ -447,8 +447,8 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
     2.  你必须选择一位队长代表队伍.
 
 2.  每个队伍代表一个国家. 队员必须来自同一个国家.
-3.  报名步骤为, [填写该表](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). 然后[给Loctav发送确认PM](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366), 标题为“OWC Registration”
-    1.  队长可以[通知比赛委员会](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366)来更改队员组成.
+3.  报名步骤为, [填写该表](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). 然后[给Loctav发送确认PM](https://osu.ppy.sh/home/messages/users/71366), 标题为“OWC Registration”
+    1.  队长可以[通知比赛委员会](https://osu.ppy.sh/home/messages/users/71366)来更改队员组成.
 
 4.  所有报名信息及其修改请求由比赛委员会审核后加入参赛者名单.
 5.  队伍总数为32. 先到先报名.

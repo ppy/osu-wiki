@@ -1,6 +1,4 @@
----
-needs_cleanup: true
----
+<!-- TODO: strange descriptions in many places and unhelpful order if you're trying to see what this game mode is all about. -->
 
 # osu! (game mode)
 
@@ -126,7 +124,7 @@ In other words: `Accuracy = Total points of hits / (Total number of hits * 300p)
 | Term | Formula |
 | :-: | :-- |
 | **Total points of hits** | `(50s * 50p) + (100s * 100p) + (300s * 300p)` |
-| **Total number of hits** | `(Misses + 50s + 100s + 300s) * 300` |
+| **Total number of hits** | `Misses + 50s + 100s + 300s` |
 | **s** | Number of |
 | **p** | points |
 

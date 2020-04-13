@@ -16,9 +16,9 @@ outdated: true
 **注意：除非特别注明，所有时间都是基于UTC+0**
 
 | Event     | Timestamp          |
-|-----------|--------------------|
+| :-- | :-- |
 | 注册        | 2014年4月11日-20日     |
-| '''抽签 ''' | **2014年5月3日 下午2点** |
+| **抽签** | **2014年5月3日 下午2点** |
 | 小组赛       | 2014年5月10日-11日     |
 | 16强比赛     | 2014年5月17日-18日     |
 | 1/4决赛（8强） | 2014年5月24日-25日     |
@@ -29,7 +29,7 @@ outdated: true
 ## 奖励
 
 | Place                                                      | 奖励                             |
-|------------------------------------------------------------|--------------------------------|
+| :-- | :-- |
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 六个月的Supporter，个人资料标签以及osu!相关礼品 |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 三个月的Supporter                  |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 一个月的Supporter                  |
@@ -37,7 +37,7 @@ outdated: true
 ## 主办方
 
 | Job          | Person(s)                                                                                                                                                                                                                                                                      |
-|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | 赛事管理         | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703)                                                                                                                                                   |
 | beatmap选择    | ![][flag_KR] [CLSW](https://osu.ppy.sh/users/531253) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) // ![][flag_FR] [Drafura](https://osu.ppy.sh/users/326099)                                                                                |
 | Streamers    | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257)                                                                                                                                                    |
@@ -63,7 +63,7 @@ outdated: true
 **星期六, 2014年5月31日**
 
 | 蓝队                                | 红队                                      | UTC +0           | 蓝队的当地时间             | 红队的当地时间             |
-|-----------------------------------|-----------------------------------------|------------------|---------------------|---------------------|
+| :-- | :-- | :-- | :-- | :-- |
 | 芬兰 ![][flag_FI] | ![][flag_JP] 日本       | **12.00 (12pm)** | 15.00 (3pm) UTC +3  | 21.00 (9pm) UTC +9  |
 | 韩国 ![][flag_KR] | ![][flag_ID] 印度尼西亚/印尼 | **13.00 (1pm)**  | 22.00 (10pm) UTC +9 | 20.00 (8pm) UTC +7  |
 | 瑞典 ![][flag_SE] | ![][flag_SG] 新加坡      | **14.00 (2pm)**  | 16.00 (4pm) UTC +2  | 22.00 (10pm) UTC +8 |
@@ -74,56 +74,56 @@ outdated: true
 ## 参赛者
 
 | Flag                           | Country | Group A Members                                                                                                                                                                                                      |
-|--------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- | :-- |
 | ![][flag_PH] | 菲律宾     | --- disbanded ---                                                                                                                                                                                                    |
 | ![][flag_GB] | 英国      | **[destructor966](https://osu.ppy.sh/users/2667584)**, [Nanomight](https://osu.ppy.sh/users/160439), [bubbz](https://osu.ppy.sh/users/86414), [Phlo10](https://osu.ppy.sh/users/2643155), [DarkKanaki](https://osu.ppy.sh/users/2614160)                               |
 | ![][flag_TH] | 泰国      | **[boomngong](https://osu.ppy.sh/users/1090858)**, [Nansugumi](https://osu.ppy.sh/users/795915), [0814587134](https://osu.ppy.sh/users/1054016)                                                                                                    |
 | ![][flag_US] | 美国      | **[Zak](https://osu.ppy.sh/users/1375955)**, [-itsy_v2-](https://osu.ppy.sh/users/2815946), [-Kurisu-](https://osu.ppy.sh/users/500696), [Minky](https://osu.ppy.sh/users/1978891), [TenguKing9](https://osu.ppy.sh/users/1637716), [-Ryuuji-](https://osu.ppy.sh/users/2107523) |
 
 | Flag                           | Country | Group B Members                                                                                                                                                                 |
-|--------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- | :-- |
 | ![][flag_HK] | 香港      | **[alienflybot](https://osu.ppy.sh/users/636114)**, [XXXZ](https://osu.ppy.sh/users/1226238), [[_NaGI]](https://osu.ppy.sh/users/788406), [HineX](https://osu.ppy.sh/users/13854), [longkitang](https://osu.ppy.sh/users/1744806) |
 | ![][flag_PL] | 波兰      | **[WujekGrzyb](https://osu.ppy.sh/users/258289)**, [wampir](https://osu.ppy.sh/users/261497), [Kosmit](https://osu.ppy.sh/users/1749173), [Scorpionek](https://osu.ppy.sh/users/149730)                                 |
 | ![][flag_CL] | 智力      | --- disbanded ---                                                                                                                                                               |
 | ![][flag_EE] | 爱沙尼亚    | **[fanatik](https://osu.ppy.sh/users/913992)**, [warstape](https://osu.ppy.sh/users/1133783), [KostjaSun](https://osu.ppy.sh/users/2450912)                                                                   |
 
 | Flag                           | Country | Group C Members                                                                                                                                                                          |
-|--------------------------------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- | :-- |
 | ![][flag_TW] | 台灣      | --- disqualified ---                                                                                                                                                                     |
 | ![][flag_NL] | 荷兰      | **[Givralii](https://osu.ppy.sh/users/2466879)**, [Nebux](https://osu.ppy.sh/users/2342051), [Greaper](https://osu.ppy.sh/users/2369776), [CakeAndBanana](https://osu.ppy.sh/users/1981424), [wesley221](https://osu.ppy.sh/users/2407265) |
 | ![][flag_SG] | 新加坡     | **[Accel](https://osu.ppy.sh/users/1169796)**, [Kagayane](https://osu.ppy.sh/users/1777691), [He Ang Erika](https://osu.ppy.sh/users/2451381), [Otaku_MQ](https://osu.ppy.sh/users/2650135), [Ridicule](https://osu.ppy.sh/users/3473425)  |
 | ![][flag_NO] | 挪威      | **[Kiwikun](https://osu.ppy.sh/users/1794766)**, [Azeidith](https://osu.ppy.sh/users/2819676), [lanki33](https://osu.ppy.sh/users/2535200), [Zerzxes](https://osu.ppy.sh/users/2094253), [Hakkun](https://osu.ppy.sh/users/2179438)        |
 
 | Flag                           | Country  | Group D Members                                                                                                                                                                                               |
-|--------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- | :-- |
 | ![][flag_AT] | 奥地利  | **[\[ K a z u \]](https://osu.ppy.sh/users/1902480)**, [Raaban](https://osu.ppy.sh/users/1569025), [xXMarcelXx](https://osu.ppy.sh/users/2355698), [Zuyanta](https://osu.ppy.sh/users/2772759)                                                        |
 | ![][flag_FR] | 法国   | --- disbanded ---                                                                                                                                                                                             |
 | ![][flag_MY] | 马来西亚 | **[-Rin](https://osu.ppy.sh/users/1202101)**, [Shadow Fear](https://osu.ppy.sh/users/635485), [Rick--](https://osu.ppy.sh/users/950241), [QHideaki13](https://osu.ppy.sh/users/733998), [kho keng chung](https://osu.ppy.sh/users/369045)                       |
 | ![][flag_JP] | 日本    | **[uppia](https://osu.ppy.sh/users/1513301)**, [rullu](https://osu.ppy.sh/users/595140), [sekirei](https://osu.ppy.sh/users/1643335), [giru HD](https://osu.ppy.sh/users/707456), [Magiyu](https://osu.ppy.sh/users/1667470), [Lafollia](https://osu.ppy.sh/users/827985) |
 
 | Flag                           | Country     | Group E Members                                                                                                                                                                          |
-|--------------------------------|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- | :-- |
 | ![][flag_MX] | 墨西哥      | **[Lostty](https://osu.ppy.sh/users/2118519)**, [ChibiOzed](https://osu.ppy.sh/users/1690328), [blacklotus](https://osu.ppy.sh/users/2115337)                                                                          |
 | ![][flag_DK] | 丹麦     | **[-Crab-](https://osu.ppy.sh/users/2563435)**, [TheCo0k1e](https://osu.ppy.sh/users/3386472), [jacoblemming12](https://osu.ppy.sh/users/3593786), [FlowHomie](https://osu.ppy.sh/users/2831095)                                 |
 | ![][flag_NZ] | 纽西兰/新西兰 | **[IQ166](https://osu.ppy.sh/users/1452911)**, [Nibble147](https://osu.ppy.sh/users/3866541), [JakeCC](https://osu.ppy.sh/users/88973)                                                                                 |
 | ![][flag_SE] | 瑞典      | **[Yukiteru Amano](https://osu.ppy.sh/users/1894511)**, [Walterx8](https://osu.ppy.sh/users/1993041), [Negri_sk](https://osu.ppy.sh/users/2231396), [-Airi-](https://osu.ppy.sh/users/2546340), [Suzuki](https://osu.ppy.sh/users/2960209) |
 
 | Flag                           | Country | Group F Members                                                                                                                                                                       |
-|--------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- | :-- |
 | ![][flag_ES] | 西班牙     | **[SK Eternal](https://osu.ppy.sh/users/588046)**, [Raimon](https://osu.ppy.sh/users/609627), [RAMONLINKK](https://osu.ppy.sh/users/843155), [Nokeru-Chan](https://osu.ppy.sh/users/602315), [sarkras](https://osu.ppy.sh/users/709625) |
 | ![][flag_PE] | 秘鲁      | --- disbanded ---                                                                                                                                                                     |
 | ![][flag_FI] | 芬兰      | **[YERTI](https://osu.ppy.sh/users/1490757)**, [Static Noise Bird](https://osu.ppy.sh/users/826132), [MrSake](https://osu.ppy.sh/users/264729), [Mianki](https://osu.ppy.sh/users/39658)                                      |
 | ![][flag_HR] | 克罗地亚    | **[Meikyuuiri Tsumi](https://osu.ppy.sh/users/404314)**, [Animewolf](https://osu.ppy.sh/users/949513), [TinTin](https://osu.ppy.sh/users/2227976)                                                                   |
 
 | Flag                           | Country | Group G Members                                                                                                                                                                  |
-|--------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- | :-- |
 | ![][flag_KR] | 韩国      | **[Spectator](https://osu.ppy.sh/users/702598)**, [dae6254](https://osu.ppy.sh/users/563262), [Frobe](https://osu.ppy.sh/users/670365), [Kuzino](https://osu.ppy.sh/users/158552), [Last Bubble](https://osu.ppy.sh/users/1302259) |
 | ![][flag_DE] | 德国      | **[DeathXHunter](https://osu.ppy.sh/users/405326)**, [NoteKuroi](https://osu.ppy.sh/users/186642), [Nyan-Zapo](https://osu.ppy.sh/users/480676)                                                                |
 | ![][flag_CA] | 加拿大     | **[Kitokofox](https://osu.ppy.sh/users/1815420)**, [Sumaki](https://osu.ppy.sh/users/207916), [Kitsunemimi](https://osu.ppy.sh/users/100037)                                                                   |
 | ![][flag_BO] | 玻利维亚    | **[donjuan_217](https://osu.ppy.sh/users/2169426)**, [brian_rqc](https://osu.ppy.sh/users/3710738), [gakupoXD](https://osu.ppy.sh/users/871103), [Zen Youkai](https://osu.ppy.sh/users/3364257)                          |
 
 | Flag                           | Country  | Group H Members                                                                                                                                                                               |
-|--------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- | :-- |
 | ![][flag_AR] | 阿根廷      | **[NightWar](https://osu.ppy.sh/users/1209167)**, [Litooo](https://osu.ppy.sh/users/1170107), [Gundisalv](https://osu.ppy.sh/users/1160340), [musicguy007](https://osu.ppy.sh/users/2159777)                                          |
 | ![][flag_CN] | 中国       | **[Dusk](https://osu.ppy.sh/users/533210)**, [hy1hy1hy](https://osu.ppy.sh/users/243877), [MisakaMikoto](https://osu.ppy.sh/users/434917), [Ibuki Suika](https://osu.ppy.sh/users/290249)                                             |
 | ![][flag_UY] | 乌拉圭      | **[Themaster155](https://osu.ppy.sh/users/1850067)**, [quique95](https://osu.ppy.sh/users/472924), [Truxxxton](https://osu.ppy.sh/users/1379428), [S3B4](https://osu.ppy.sh/users/3437784)                                            |
@@ -269,8 +269,8 @@ outdated: true
 2.  同时，需要指定一名队长（最好会英语）。
 
 2.  每个队伍代表一个国家/地区。确保你的队员都来自同一个国家/地区。
-3.  如果需要注册，[请先填写这个表格](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI/edit)（英文），然后[向Loctav私信](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366)，发送一个标题为“CWC Registration”的确认信息。
--   如果需要修改队员，请联系[Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
+3.  如果需要注册，[请先填写这个表格](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI/edit)（英文），然后[向Loctav私信](https://osu.ppy.sh/home/messages/users/71366)，发送一个标题为“CWC Registration”的确认信息。
+-   如果需要修改队员，请联系[Loctav](https://osu.ppy.sh/home/messages/users/71366).
 -   在注册成功的时候，你会收到一个确认信息，以确认你的队员。
 
 4.  为了确保注册的队伍的准确性， 赛事管理会进行任何的改动检查。

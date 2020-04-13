@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 84df5a5c33bb4256a47c830bc67b6f3bb7636846
+---
+
 # Artistes associés
 
 **Les artistes associés** sont des musiciens ayant collaboré avec osu! pour faire une sélection de leurs compositions afin que n'importe qui dans la communauté osu! puisse les utiliser. Certains des artistes présentés ont également composé des pistes spécialement pour osu! et sont répertoriées en tant qu'exclusivités.
