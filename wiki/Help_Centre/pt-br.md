@@ -602,7 +602,7 @@ Para ativar a entrada padrão, siga os seguinte passos:
 
 Na maior parte das mesas gráficas Wacom, isso é feito na aba de `Mapping` no aplicativo `Wacom Tablet Properties`.
 
-![Wacom Tablet Properties screen showing Mapping options](img/Tabarea.png "Interface para mudança de área ativa da tablet em dispositivos Wacom")
+![Tela de Propriedades da Tablet Wacom mostrando as opções de Mapeamento](img/Tabarea.png "Interface para mudança de área ativa da tablet em dispositivos Wacom")
 
 Você poderá consultar com a fabricante de sua tablet para descobrir como definir sua área para seu periférico em específico.
 
