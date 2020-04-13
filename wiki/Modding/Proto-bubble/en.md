@@ -1,13 +1,13 @@
 ---
 tags:
-  - Pubble
   - protobubble
+  - pubble
 ---
 
 # Proto-bubble
 
-The **proto-bubble** (or *pubble*) was an icon used by members of the [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (_MAT_) in previous iterations of the [Beatmap Ranking process](/wiki/Beatmap_ranking_procedure). It was designed to indicate beatmaps believed to be of a suitably high quality for Ranking by members of the [Beatmap Appreciation Team](/wiki/Modding/BAT) (_BAT_), who could then place a full bubble icon if the beatmap met their approval.
+The **proto-bubble** (***pubble***) was a forum post icon used by members of the [Mapping Assistance Team](/wiki/Modding/Mapping_Assistance_Team) (*MAT*) in previous iterations of the [beatmap ranking process](/wiki/Beatmap_ranking_procedure). It was designed to indicate [beatmaps](/wiki/Beatmaps) believed to be of a suitably high quality for [ranking](/wiki/Beatmaps#ranked) by members of the [Beatmap Appreciation Team](/wiki/Modding/Beatmap_Appreciation_Team) (*BAT*), who could then place a full bubble<!-- TODO: bubble stub --> icon if the beatmap met their approval.
 
-The proto-bubble icon was retired on the 23rd of April, 2013, following the dissolution of the Mapping Assistance Team and the promotion of all current team members to the Beatmap Appreciation Team.
+The proto-bubble was retired on the 23rd of April, 2013, with the dissolution of the MAT and the promotion of all current team members to the BAT.
 
 <!-- this is a stub -->
