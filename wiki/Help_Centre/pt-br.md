@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Central de ajuda
 
 Está tendo problemas com algo? Estamos aqui para lhe ajudar! Verifique as soluções para alguns problemas comuns na barra de canto a esquerda de sua tela.
@@ -950,7 +954,7 @@ Se um membro da equipe do suporte te pediu esses arquivos, aqui está como pegar
 3. Digite `release` na barra de pesquisa rápida. Isso irá te mandar diretamente para a taxa de atualização que seu cliente está usando atualmente.
 4. Tenha certeza de que esteja ou em `Beta` ou `Cutting Edge (Experimental)`. Nós recomendamos o `Beta` para a melhor chance de estabilidade nessa situação.
 5. Reinicie o cliente do jogo se você fez alguma mudança na taxa de atualização para poder salvar a opção.
-6. Reinicie o jogo, Entre em `Opções`, e clique `Abrir pasta do osu!`. 
+6. Reinicie o jogo, Entre em `Opções`, e clique `Abrir pasta do osu!`.
 7. Ache a pasta `Logs` na janela que aparece.
 8. Selecione o arquivo de log (o representativo do suporte irá te dizer qual), e anexe ele no seu ticket ou upe num compartilhamento de arquivos público.
 
