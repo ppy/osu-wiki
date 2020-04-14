@@ -23,13 +23,13 @@ Vencedores da OWC 2019 com o título de **osu! Champion**:
 - ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689)
 - ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150)
 
-Vencedores da TWC 2019 com o título de **osu!taiko Champion**:
+Vencedores da TWC 2020 com o título de **osu!taiko Champion**:
 
 - ![][flag_JP] [ekumea1123](https://osu.ppy.sh/users/9119501)
 - ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401)
-- ![][flag_JP] [isobe](https://osu.ppy.sh/users/8047347)
+- ![][flag_JP] [kiyozi11](https://osu.ppy.sh/users/9551196)
+- ![][flag_JP] [Seren58](https://osu.ppy.sh/users/15252950)
 - ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719)
-- ![][flag_JP] [v2fax](https://osu.ppy.sh/users/7739269)
 
 Vencedores da CWC 2019 com o título de **osu!catch Champion**:
 
