@@ -30,4 +30,11 @@ In osu!catch, circle size determines the size of the catcher and the fruit.
 
 In osu!mania, circle size refers to the key count.
 
+## Mod effects
+
+There are two mods that alter circle size when activated:
+
+- [Easy](/wiki/Game_Modifiers#easy): Halves the CS value.
+- [Hard Rock](/wiki/Game_Modifiers#hard-rock): Multiplies the CS value by 1.3, up to a maximum of 10.
+
 <!--TODO: Insert links -->
