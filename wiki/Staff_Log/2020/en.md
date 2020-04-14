@@ -113,6 +113,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-03-09: Added [MaridiuS](https://osu.ppy.sh/users/4496961) to **Probationary BN**
 - 2020-03-09: Added [Daletto](https://osu.ppy.sh/users/7592136) to **Probationary BN**
 - 2020-03-17: Added [BaAR_Vendel](https://osu.ppy.sh/users/8679346) to **Probationary BN**
+- 2020-03-22: Added [wafer](https://osu.ppy.sh/users/9416836) to **Probationary BN**
 
 #### Moves
 
@@ -126,6 +127,8 @@ Abbreviations for user groups are used throughout this log:
 - 2020-03-19: Moved [Ryuusei Aika](https://osu.ppy.sh/users/7777875) from **Probationary BN** to **BN**
 - 2020-03-19: Moved [Sonnyc](https://osu.ppy.sh/users/11771) from **Probationary BN** to **BN**
 - 2020-03-19: Moved [Uta](https://osu.ppy.sh/users/9439796) from **BN** to **Probationary BN**
+- 2020-03-26: Moved [UnluckyCroco](https://osu.ppy.sh/users/9461160) from **Probationary BN** to **BN**
+- 2020-03-26: Moved [Amiichii](https://osu.ppy.sh/users/9228569) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -133,5 +136,29 @@ Abbreviations for user groups are used throughout this log:
 - 2020-03-04: Removed [Bibbity Bill](https://osu.ppy.sh/users/4446810) from **BN**
 - 2020-03-06: Removed [Gero](https://osu.ppy.sh/users/1467715) from **Probationary BN**
 - 2020-03-20: Removed [Tyistiana](https://osu.ppy.sh/users/1421452) from **BN**
+- 2020-03-25: Removed [greenhue](https://osu.ppy.sh/users/4967662) from **BN**
+- 2020-03-30: Removed [wonjae](https://osu.ppy.sh/users/5032045) from **BN**
 
-<!-- last update: 2020-03-20 9UTC removed tyistiana bn -->
+## April
+
+### Beatmap Nominators
+
+#### Additions
+
+- 2020-04-01: Added [dudehacker](https://osu.ppy.sh/users/748722) to **Probationary BN**
+- 2020-04-03: Added [Raiden](https://osu.ppy.sh/users/2239480) to **Probationary BN**
+
+#### Moves
+
+- 2020-04-06: Moved [Vulkin](https://osu.ppy.sh/users/4901066) from **BN** to **Probationary BN**
+- 2020-04-07: Moved [Roger](https://osu.ppy.sh/users/1538223) from **Probationary BN** to **BN**
+- 2020-04-09: Moved [SMOKELIND](https://osu.ppy.sh/users/9327302) from **Probationary BN** to **BN**
+- 2020-04-12: Moved [Nao Tomori](https://osu.ppy.sh/users/5364763) from **Probationary BN** to **BN**
+
+#### Removals
+
+- 2020-04-02: Removed [-Aqua](https://osu.ppy.sh/users/7150015) from **BN**
+- 2020-04-10: Removed [Petal](https://osu.ppy.sh/users/7354729) from **BN**
+- 2020-04-12: Removed [Vulkin](https://osu.ppy.sh/users/4901066) from **Probationary BN**
+
+<!-- last update: 2020-04-14 19UTC removed vulkin from probationary bn -->
