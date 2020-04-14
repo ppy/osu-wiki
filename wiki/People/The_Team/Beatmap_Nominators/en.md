@@ -112,7 +112,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | German, Serbian |
 | ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) | Japanese |
 | ![][flag_ID] [Volta](https://osu.ppy.sh/users/4154071) | Indonesian |
-| ![][flag_CL] [Vulkin](https://osu.ppy.sh/users/4901066) | Spanish |
 | ![][flag_FR] [Yales](https://osu.ppy.sh/users/2377881) | French, Japanese |
 
 #### osu!catch
