@@ -85,7 +85,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | French, Spanish | Chat moderation |
 | ![][flag_ID] [Shurelia](https://osu.ppy.sh/users/3807986) | Indonesian | Chat moderation |
 | ![][flag_TW] [spboxer3](https://osu.ppy.sh/users/197974) | Chinese | Chat moderation |
-| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | German | Chat moderation, forum moderation |
+| ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | German, Serbian | Chat moderation, forum moderation |
 | ![][flag_CH] [TicClick](https://osu.ppy.sh/users/672931) | Russian | Chat moderation |
 | ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) | Korean | Chat moderation |
 | ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) | French | Chat moderation |
