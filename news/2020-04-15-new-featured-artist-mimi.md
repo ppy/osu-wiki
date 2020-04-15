@@ -56,7 +56,7 @@ As per the usual, all of the above are available right now over at [**MIMI**'s F
 
 The hint for this week came on short notice, but a fair people people guessed this one correctly! Congratulations to @nathankogal, @waferosu, @jimmyfung172 and @DedPiranha for being the first on the draw.
 
-Fun fact, did you know that we have weekly releases stacked up now until the start of 2021? That's over 36 new artists waiting in the wings, and an official marker that 2020 will be the first year in which we exceed 100 total Featured Artists.
+Fun fact, did you know that we have weekly releases stacked up now until the start of 2021? That's over 25 new artists waiting in the wings, and an official marker that 2020 will be the first year in which we exceed 100 total Featured Artists.
 
 Make of it what you will, the train continues onwards regardless! Check the [@osugame Twitter](https://twitter.com/osugame) mid-way through the week for more hints and news that might interest you. With Aspire V in full swing and rumors of a big new mapping tournament making the rounds, it's going to be a great couple of months to spend some of that stuck-at-home energy on making maps to wicked tracks.
 
