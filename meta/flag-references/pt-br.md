@@ -66,7 +66,7 @@
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlândia"
 [flag_FJ]: /wiki/shared/flag/FJ.gif "Fiji"
 [flag_FK]: /wiki/shared/flag/FK.gif "Ilhas Malvinas"
-[flag_FM]: /wiki/shared/flag/FM.gif " Micronésia, Estados Federados da"
+[flag_FM]: /wiki/shared/flag/FM.gif "Micronésia, Estados Federados da"
 [flag_FO]: /wiki/shared/flag/FO.gif "Ilhas Faroé"
 [flag_FR]: /wiki/shared/flag/FR.gif "França"
 [flag_GA]: /wiki/shared/flag/GA.gif "Gabão"
