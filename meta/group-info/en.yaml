@@ -19,7 +19,7 @@ nat:
     moderation: Moderation
     structural: Structural
 languages:
-  partial: some <language>
+  partial: Some <language>
   ar: Arabic
   bg: Bulgarian
   ca: Catalan

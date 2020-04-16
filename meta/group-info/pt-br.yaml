@@ -19,7 +19,7 @@ nat:
     moderation: Moderação
     structural: Estrutural
 languages:
-  partial: um pouco de <language>
+  partial: Um pouco de <language>
   ar: Arábico
   bg: Búlgaro
   ca: Catalão
