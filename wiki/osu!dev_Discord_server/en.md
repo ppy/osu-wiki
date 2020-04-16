@@ -17,7 +17,7 @@ New members of the server aren't allowed to send messages by default. If they wa
 
 Each main development discussed in the server has its own channel:
 
-| Project | Channels |
+| Project | Channel |
 | :-- | :-- |
 | [osu!lazer](https://github.com/ppy/osu "ppy/osu on GitHub") | `#osu-lazer` |
 | [osu!framework](https://github.com/ppy/osu-framework "ppy/osu-framework on GitHub") | `#osu-framework` |
