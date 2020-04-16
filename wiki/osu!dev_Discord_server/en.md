@@ -17,14 +17,17 @@ New members of the server aren't allowed to send messages by default. If they wa
 
 Each main development discussed in the server has its own channel:
 
-| Channel | Project |
+| Project | Channels |
 | :-- | :-- |
-| `#osu-lazer` | [osu!lazer](https://github.com/ppy/osu "ppy/osu on GitHub") |
-| `#osu-framework` | [osu!framework](https://github.com/ppy/osu-framework "ppy/osu-framework on GitHub") |
-| `#osu-web` | [osu!web](https://github.com/ppy/osu-web "ppy/osu-web on GitHub") |
-| `Difficulty` category | [Star rating](/wiki/Beatmapping/Star_rating) and [performance points](/wiki/Performance_Points) |
-| `#osu-spotlights` | Beatmap Spotlights<!-- TODO: link me --> |
-| `#osu-wiki` | [osu! wiki](https://github.com/ppy/osu-wiki "ppy/osu-wiki on GitHub") |
-| `#osu-loved` | [Project Loved](/wiki/Project_Loved) |
-| `#modding` | [Modding](/wiki/Modding) discussion and [NAT meetings](/wiki/Modding/NAT_meetings) |
-| `#mappers-guild` | [Mappers' Guild](/wiki/Mappers_Guild) |
+| [osu!lazer](https://github.com/ppy/osu "ppy/osu on GitHub") | `#osu-lazer` |
+| [osu!framework](https://github.com/ppy/osu-framework "ppy/osu-framework on GitHub") | `#osu-framework` |
+| [osu!web](https://github.com/ppy/osu-web "ppy/osu-web on GitHub") | `#osu-web` |
+| [osu!standard](/wiki/Game_Modes/osu!) [star rating](/wiki/Beatmapping/Star_rating) and [performance points](/wiki/Performance_Points) | `#difficulty-osu` |
+| [osu!taiko](/wiki/Game_Modes/osu!taiko) star rating and performance points | `#difficulty-taiko` |
+| [osu!catch](/wiki/Game_Modes/osu!catch) star rating and performance points | `#difficulty-catch` |
+| [osu!mania](/wiki/Game_Modes/osu!mania) star rating and performance points | `#difficulty-mania` |
+| Beatmap Spotlights<!-- TODO: link me --> | `#osu-spotlights` |
+| [osu! wiki](https://github.com/ppy/osu-wiki "ppy/osu-wiki on GitHub") | `#osu-wiki` |
+| [Project Loved](/wiki/Project_Loved) | `#osu-loved` |
+| [Modding](/wiki/Modding) discussion and [NAT meetings](/wiki/Modding/NAT_meetings) | `#modding` |
+| [Mappers' Guild](/wiki/Mappers_Guild) | `#mappers-guild` |
