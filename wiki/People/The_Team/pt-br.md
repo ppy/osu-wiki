@@ -10,7 +10,7 @@ tags:
 
 # A Equipe
 
-*Para uma lista de of promoções e aposentamentos, veja: [Staff Log](/wiki/Staff_Log)*
+*Para uma lista de promoções e aposentamentos, veja: [Staff Log](/wiki/Staff_Log)*
 
 As pessoas listadas abaixo são o núcleo do **osu!team** e são principalmente responsáveis em ajudar a fazer o jogo incrível para todo mundo.
 
@@ -74,7 +74,7 @@ Os seguintes são grupos de usuário que são feitos de membros da comunidade do
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Gerente e líder da comunidade emergente, contribuidor de meeting minutes e FAQ |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Desenvolvedor do osu! e do pp|
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | Desenvolvedor do osu!, desenvolvedor do modo osu!mania |
-| ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | [osu!store](https://osu.ppy.sh/store/listing) manager |
+| ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | Gerente da [osu!store](https://osu.ppy.sh/store/listing)|
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Professor da [osu!academy](/wiki/osu!academy), designer de mídia e personagem |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
