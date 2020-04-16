@@ -94,8 +94,6 @@ Since 2020, [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators)' and 
 - ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)
 - ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134)
 - ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097)
-- ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452)
-- ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045)
 
 ### Aspire mapping contest winners
 
@@ -250,7 +248,6 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_SE] [Helblinde](https://osu.ppy.sh/users/48053) | Featured Artist |
 | ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401) | osu!taiko Champion |
 | ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | osu! Champion |
-| ![][flag_JP] [isobe](https://osu.ppy.sh/users/8047347) | osu!taiko Champion |
 | ![][flag_KR] [Jakads](https://osu.ppy.sh/users/259972) | osu!mania Champion |
 | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | osu! Hall of Famer |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch Paragon |
@@ -259,6 +256,7 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | Elite Mapper |
 | ![][flag_KR] [Kalkai](https://osu.ppy.sh/users/10790649) | osu!mania champion |
 | ![][flag_DE] [KIRA](https://osu.ppy.sh/users/2138310) | Featured Artist |
+| ![][flag_JP] [kiyozi11](https://osu.ppy.sh/users/9551196) | osu!taiko Champion |
 | ![][flag_CA] [ktgster](https://osu.ppy.sh/users/53378) | Elite Mapper |
 | ![][flag_FR] [Kurokotei](https://osu.ppy.sh/users/398275) | Featured Artist |
 | ![][flag_NL] [Kyshiro](https://osu.ppy.sh/users/640611) | Elite Mapper |
@@ -292,6 +290,7 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_MY] [RyoKazuka](https://osu.ppy.sh/users/6258586) | Elite Mapper |
 | ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Elite Mapper |
 | ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | osu! Hall of Famer |
+| ![][flag_JP] [Seren58](https://osu.ppy.sh/users/15252950) | osu!taiko Champion |
 | ![][flag_NL] [Shirotora](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game |
 | ![][flag_SG] [Shoegazer](https://osu.ppy.sh/users/2520707) | osu!mania Paragon |
 | ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057) | Elite Mapper |
@@ -308,14 +307,11 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_RU] [tieff](https://osu.ppy.sh/users/89619) | Featured Artist |
 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | osu! Champion |
 | ![][flag_KR] [Transcendence](https://osu.ppy.sh/users/903155) | osu!mania Champion |
-| ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Elite Nominator |
 | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) | osu!taiko Champion |
-| ![][flag_JP] [v2fax](https://osu.ppy.sh/users/7739269) | osu!taiko Champion |
 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) | osu! Champion |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | Featured Artist |
 | ![][flag_KR] [W h i t e](https://osu.ppy.sh/users/685229) | Elite Mapper |
 | ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029) | osu!mania Champion |
-| ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045) | Elite Nominator |
 | ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist |
 | ![][flag_SE] [Xgor](https://osu.ppy.sh/users/98661) | Elite Mapper |
 | ![][flag_KR] [Yeoul](https://osu.ppy.sh/users/4698728) | osu!mania champion |
@@ -348,6 +344,5 @@ These players earned their titles through either a crazy gameplay achievement or
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_SH]: /wiki/shared/flag/SH.gif "Saint Helena"
-[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
