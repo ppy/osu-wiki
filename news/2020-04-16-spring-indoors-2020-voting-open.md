@@ -25,3 +25,4 @@ Check out a quick preview video of all the entries before you dig in, set to the
 Voting will be open for a full week (7 days) from the date of this post, so make sure to get in early and help us decide!
 
 —Ephemeral
+
