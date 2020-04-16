@@ -141,6 +141,8 @@ Abbreviations for user groups are used throughout this log:
 
 ## April
 
+- 2020-04-15: Removed [Shoegazer](https://osu.ppy.sh/users/2520707) from **Project Loved Team**
+
 ### Beatmap Nominators
 
 #### Additions
@@ -154,11 +156,13 @@ Abbreviations for user groups are used throughout this log:
 - 2020-04-07: Moved [Roger](https://osu.ppy.sh/users/1538223) from **Probationary BN** to **BN**
 - 2020-04-09: Moved [SMOKELIND](https://osu.ppy.sh/users/9327302) from **Probationary BN** to **BN**
 - 2020-04-12: Moved [Nao Tomori](https://osu.ppy.sh/users/5364763) from **Probationary BN** to **BN**
+- 2020-04-14: Moved [Dapuluous](https://osu.ppy.sh/users/8140944) from **Probationary BN** to **BN**
 
 #### Removals
 
 - 2020-04-02: Removed [-Aqua](https://osu.ppy.sh/users/7150015) from **BN**
 - 2020-04-10: Removed [Petal](https://osu.ppy.sh/users/7354729) from **BN**
 - 2020-04-12: Removed [Vulkin](https://osu.ppy.sh/users/4901066) from **Probationary BN**
+- 2020-04-14: Removed [Daletto](https://osu.ppy.sh/users/7592136) from **Probationary BN**
 
-<!-- last update: 2020-04-14 19UTC removed vulkin from probationary bn -->
+<!-- last update: 2020-04-16 3UTC removed daletto from probationary bn -->
