@@ -5,7 +5,7 @@ needs_cleanup: true
 
 # osu! program files
 
-![osu! Program Files in nutshell](img/osu!-program-files.png "osu! Program Files in nutshell")
+![osu! Program Files in a nutshell](img/osu!-program-files.png "osu! Program Files in a nutshell")
 
 ## Location
 
@@ -14,7 +14,7 @@ needs_cleanup: true
 | Current default filepath | Old installer filepath |
 | :-- | :-- |
 | `C:\Users\<Username>\AppData\Local\osu!` | `C:\Program Files\osu!` / `C:\Program Files(x86)\osu!` (for 7 64-bit or 8) |
-> `C:` is your harddisk with osu! installed.
+> `C:` is your drive with osu! installed.
 
 ## Folders
 
