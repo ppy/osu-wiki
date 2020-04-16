@@ -25,5 +25,5 @@ Each main development discussed in the server has its own channel:
 | `Difficulty` category | [Star rating](/wiki/Beatmapping/Star_rating) and [performance points](/wiki/Performance_Points) |
 | `#osu-wiki` | [osu! wiki](https://github.com/ppy/osu-wiki "ppy/osu-wiki on GitHub") |
 | `#osu-loved` | [Project Loved](/wiki/Project_Loved) |
-| `#modding` | [Modding](/wiki/Modding) discussion and NAT meetings<!-- TODO: link me --> |
+| `#modding` | [Modding](/wiki/Modding) discussion and [NAT meetings](/wiki/Modding/NAT_meetings) |
 | `#mappers-guild` | [Mappers' Guild](/wiki/Mappers_Guild) |
