@@ -23,6 +23,7 @@ Each main development discussed in the server has its own channel:
 | `#osu-framework` | [osu!framework](https://github.com/ppy/osu-framework "ppy/osu-framework on GitHub") |
 | `#osu-web` | [osu!web](https://github.com/ppy/osu-web "ppy/osu-web on GitHub") |
 | `Difficulty` category | [Star rating](/wiki/Beatmapping/Star_rating) and [performance points](/wiki/Performance_Points) |
+| `#osu-spotlights` | Beatmap Spotlights<!-- TODO: link me --> |
 | `#osu-wiki` | [osu! wiki](https://github.com/ppy/osu-wiki "ppy/osu-wiki on GitHub") |
 | `#osu-loved` | [Project Loved](/wiki/Project_Loved) |
 | `#modding` | [Modding](/wiki/Modding) discussion and [NAT meetings](/wiki/Modding/NAT_meetings) |
