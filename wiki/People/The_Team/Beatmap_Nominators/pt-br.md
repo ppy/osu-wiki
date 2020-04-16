@@ -12,23 +12,23 @@ Os Nomeadores de Beatmap, frequentemente abreviados como *BN*, são um grupo no 
 
 ## Funções e responsibilidades
 
-Membros dos Nomeadores de Beatmap são responsáveis primáriamente por [modding](/wiki/Modding) e [beatmaps pendentes](/wiki/Beatmaps) no ciclo de ranqueamento. Nominadores de Beatmap são as pessoas para se perguntar por dicas ou requerimentos sobre qualquer coisa relacionada a modding ou mapping. Membros dos Nomeadores de Beatmap são divididos entre subgrupos de membros fixos e membros em teste. Qualquer nomeador de beatmap pode colocar uma [vetagem de beatmap](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) se eles sentirem que um mapa nomeado tem problemas que devem ser consertados que não são violações diretas da Critéria de Ranqueamento.
+Membros dos Nomeadores de Beatmap são responsáveis primáriamente por [modding](/wiki/Modding) e [beatmaps pendentes](/wiki/Beatmaps) no ciclo de ranqueamento. Nomeadores de Beatmap são as pessoas para se perguntar por dicas ou requerimentos sobre qualquer coisa relacionada a modding ou mapping. Membros dos Nomeadores de Beatmap são divididos entre subgrupos de membros fixos e membros em teste. Qualquer nomeador de beatmap pode colocar uma [vetagem de beatmap](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) se eles sentirem que um mapa nomeado tem problemas que devem ser consertados que não são violações diretas da Critéria de Ranqueamento.
 
 ### Nomeadores de Beatmap Fixos
 
 Em adição ao modding e ranqueamento regular de beatmap, membros fixos dos Nomeadores de Beatmap são responsáveis por desqualificar beatmaps na sessão qualificada que forem encontrados com problema. Nomeadores de Beatmap Fixos também podem participar em uma avaliação de Aplicação de Nomeadores de Beatmap se eles tiverem interesse en se juntar á Equipe de Avaliação de Nomeação no futuro.
 
-Aproximadamente a cada três meses, Nomeadores de Beatmap Fixos tem seu comportamento e ativilidade/qualidade de nomeação avaliada pela Equipe de Avaliação de Nomeação. Se os nomeadores forem resetados frequentemente por razões notáveis ou por comportamento inaceitável, eles podem ser movidos para os Nomeadores de Beatmap em Teste.
+Aproximadamente a cada três meses, Nomeadores de Beatmap Fixos tem seu comportamento e atividade/qualidade de nomeação avaliada pela Equipe de Avaliação de Nomeação. Se os nomeadores forem resetados frequentemente por razões notáveis ou por comportamento inaceitável, eles podem ser movidos para os Nomeadores de Beatmap em Teste.
 
 Nomeadores de Beatmap Fixos com atividade de nomeação inferior a mínima não serão movidos para o grupo em teste, ao invés disso eles serão removidos do grupo se a atividade deles não melhorar.
 
 ### Nomeadores de Beatmap em Teste
 
-Probation is used to monitor new or concerning Beatmap Nominators more closely. The main role for probationary Beatmap Nominators is to establish a foundation as a Beatmap Nominator through exclusively promoting beatmaps in the ranking process. At least one full nominator must be involved in the ranking process for each beatmap, so probationary members cannot give the final nomination to a beatmap which has only received nominations from other probationary members. They also cannot nominate hybrid beatmapsets.
+O Teste é utilizado para monitorar Nomeadores de Beatmap novos ou preocupantes mais de perto. A função principal de um Nomeador de Beatmap em Teste é estabelecer uma fundação como um Nomeador de Beatmap exclusivamente através da promoção de beatmaps no processo de ranqueamento. Pelo menos um nomeador fixo deve estar envolvido no processo de ranqueamento de cada beatmap, então membros em teste não podem dar a nomeação final para um beatmap que só tenha recebido nomeações de outros membros em teste. Eles também não podem nomear mapsets híbridos.
 
-New members of the Beatmap Nominators begin with a one month long probation period. If their nominations and behavior are satisfactory, they will be promoted to the full Beatmap Nominators. Otherwise, they will remain on probation for another month or be removed from the Beatmap Nominators.
+Novos membros dos Nomeadores de Beatmap irão começar com período de teste de um mês. Se as nomeações e comportamento são satisfatórias, eles irão ser promovidos para o grupo fixo de Nomeadores de Beatmap. Caso contrário, eles continuarão em teste por mais um mês ou serão removidos dos Nomeadores de Beatmap.
 
-When a Beatmap Nominator is placed on probation, they cannot be placed on probation again for the same reason. For example, if a Beatmap Nominator is placed on probation for poor behavior, they will be removed from the Beatmap Nominators if they exhibit the same poor behavior again, even if they are a full Beatmap Nominator during the second infringement.
+Quando um Nomeador de Beatmap é colocado em teste, eles não podem ser colocados em teste novamente pela mesma razão. Por exemplo, se um Nomeador de Beatmap for colocado em test por mau comportamento, ele será removido dos Nomeadores de Beatmap se eles demonstrarem o mesmo mau comportamento novamente, mesmo se eles são Nomeadores de Beatmap Fixos durante a segunda violação.
 
 ## Membros da equipe
 

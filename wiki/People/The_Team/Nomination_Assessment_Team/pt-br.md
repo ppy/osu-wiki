@@ -24,13 +24,13 @@ Membros do NAT primariamente contribuindo para a subcategoria de Avaliação tam
 
 ## Promoção para o NAT
 
-Antes de se juntar para o NAT, um usuário deve ser um membro estabelecido dos Nomeadores de Beatmap. A maioria dos candidatos para o NAT são inicialmente considerados baseado em seu compromentimento em ajudar a comunidade de mapping e modding, e demonstrem a mais sua habilidade em contribuir para todas as quatro subcategorias das responsabilidades dos NAT é geralmente a base para ser promovido.
+Antes de se juntar para o NAT, um usuário deve ser um membro fixo dos Nomeadores de Beatmap. A maioria dos candidatos para o NAT são inicialmente considerados baseado em seu compromentimento em ajudar a comunidade de mapping e modding, e demonstrem a mais sua habilidade em contribuir para todas as quatro subcategorias das responsabilidades dos NAT é geralmente a base para ser promovido.
 
-Já que a maioria dos novos membros do NAT irão ajudar com a avaliação dos BN, é importante que os candidatos do NAT sejam BNs bem proficientes e saibam avaliar a proficiência dos outros. BNs estabelecidos tem a opção de fazer avaliações simuladas junto das verdadeiras dos NAT, criando assim uma oportunidade para praticarem. Um candidato do NAT tem uma chance maior ainda de ser promovido se suas avaliações são minuciosas e tenham conclusões similares as dos NATs (ou tenha um raciocínio solidário de outra forma).
+Já que a maioria dos novos membros do NAT irão ajudar com a avaliação dos BN, é importante que os candidatos do NAT sejam BNs bem proficientes e saibam avaliar a proficiência dos outros. BNs fixos tem a opção de fazer avaliações simuladas junto das verdadeiras dos NAT, criando assim uma oportunidade para praticarem. Um candidato do NAT tem uma chance maior ainda de ser promovido se suas avaliações são minuciosas e tenham conclusões similares as dos NATs (ou tenha um raciocínio solidário de outra forma).
 
 Os NAT ficam de olho em candidatos NAT em potencial por longos períodos de tempo, e ocasionalmente se juntam para decidir se um candidato deve ser promovido, similar como as avaliações de BN são feitas. BNs também são permitidos perguntar a se juntar aos NATs se desejam receber feedback e ter certeza de que eles estão sendo considerados. Porém, dependendo da atividade e habilidades dos NAT atuais, talvez há a possibilidade de não precisar de novos membros. NATs novos irão ser promovidos apenas quando os membros atuais começam a ficar mais inativos, ou se há mais trabalho requerendo novos membros, etc.
 
-## Membros da Equipe
+## Membros da equipe
 
 A [página do grupo de usuário da Equipe de Avaliação de Nomeação](https://osu.ppy.sh/groups/7) lista todos os membros da equipe.
 

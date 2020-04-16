@@ -6,7 +6,7 @@ tags:
 
 # Equipe Project Loved
 
-A **Equipe Project Loved** são membros da comunidade do osu! que gerenciam o [Project Loved](/wiki/Project_Loved), a plataforma de voto que promove [beatmaps](/wiki/Beatmaps) para a categoria [Loved](/wiki/Beatmaps#loved).
+A **Equipe Project Loved** são membros da comunidade do osu! que gerenciam o [Project Loved](/wiki/Project_Loved), uma plataforma de votação que promove [beatmaps](/wiki/Beatmaps) para a categoria [Loved](/wiki/Beatmaps#loved).
 
 ## Funções e responsibilidades
 

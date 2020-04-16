@@ -13,7 +13,7 @@ Se alguém precisa de alguma ajuda nesses subforums, membros dessa equipe estão
 
 ## Membros da equipe
 
-A [Página de grupo da Equipe de Suporte](https://osu.ppy.sh/groups/22) lista todos os membros da equipe.
+A [página de grupo da Equipe de Suporte](https://osu.ppy.sh/groups/22) lista todos os membros da equipe.
 
 *Nota: Todos os membros da Equipe de Suporte falam Inglês junto das línguas listadas abaixo, a não ser se mencionado ao contrário.*
 

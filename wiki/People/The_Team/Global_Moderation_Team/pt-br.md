@@ -37,7 +37,7 @@ Geralmente, a equipe irá observar as pessoas por várias semanas para ter certe
 
 ## Membros da equipe
 
-A [Página de grupo da Equipe de Moderação Global](https://osu.ppy.sh/groups/4) lista todos os membros da equipe.
+A [página de grupo da Equipe de Moderação Global](https://osu.ppy.sh/groups/4) lista todos os membros da equipe.
 
 *Nota: Todos os membros do GMT falam Inglês junto das línguas listadas abaixo, a não ser se mencionado ao contrário.*
 
