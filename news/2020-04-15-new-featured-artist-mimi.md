@@ -61,4 +61,3 @@ Fun fact, did you know that we have weekly releases stacked up now until the sta
 Make of it what you will, the train continues onwards regardless! Check the [@osugame Twitter](https://twitter.com/osugame) mid-way through the week for more hints and news that might interest you. With Aspire V in full swing and rumors of a big new mapping tournament making the rounds, it's going to be a great couple of months to spend some of that stuck-at-home energy on making maps to wicked tracks.
 
 —Ephemeral
-
