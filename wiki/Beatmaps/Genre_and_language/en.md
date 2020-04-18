@@ -7,7 +7,7 @@ tags:
 
 # Genre and language
 
-![A screenshot of Source, Genre, Language, and Tags on a beatmap page](img/beatmap-info.png "Genre and language are listed on beatmap pages.")
+![A screenshot of source, genre, language, and tags on a beatmap page](img/beatmap-info.png "Genre and language are listed on beatmap pages.")
 
 [Beatmaps](/wiki/Beatmaps) submitted to the website have **genre** and **language** fields to help categorise songs. They default to `Unspecified` and `Other` respectively, and can be edited by [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) and [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) members. Mapset owners are also able to set the genre and language of their beatmaps as long as the beatmap's status is WIP<!-- TODO: link -->, [Pending](/wiki/Beatmaps#pending), or [Graveyard](/wiki/Beatmaps#graveyard).
 
