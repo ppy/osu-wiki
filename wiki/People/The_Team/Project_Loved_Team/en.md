@@ -45,10 +45,11 @@ The rest of the team helps with quality control, maintenance, and organisation.
 
 ### osu!mania captains
 
-- ![][flag_SG] **[Shoegazer](https://osu.ppy.sh/users/2520707)**
+- ![][flag_US] **[Toaph Daddy](https://osu.ppy.sh/users/7616811)**
+- ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576)
+- ![][flag_SG] [Abraxos](https://osu.ppy.sh/users/5025064)
 - ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573)
 - ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341)
-- ![][flag_US] [Toaph Daddy](https://osu.ppy.sh/users/7616811)
 
 ### Other roles
 
