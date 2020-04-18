@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Установка
 
 *См. также: [Установка на macOS](/wiki/Installation/macOS)*
