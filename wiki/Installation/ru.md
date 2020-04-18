@@ -1,6 +1,6 @@
 # Установка
 
-*См. также: [Установка/macOS](/wiki/Installation/macOS)*
+*См. также: [Установка на macOS](/wiki/Installation/macOS)*
 
 Данная страница расскажет вам, как заставить osu! работать на своём Windows-устройстве. В [osu!academy](/wiki/osu!academy) есть [видео-туториал](https://www.youtube.com/watch?v=0V5GwzmMhpU), объясняющий процесс установки osu! на Windows.
 
