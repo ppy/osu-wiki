@@ -9,9 +9,9 @@ tags:
 
 ![A screenshot of Source, Genre, Language, and Tags on a beatmap page](img/beatmap-info.png "Genre and language are listed on beatmap pages.")
 
-[Beatmaps](/wiki/Beatmaps) submitted to the website have **genre** and **language** fields to help categorise songs. They default to `Unspecified` and `Other` respectively, and can be edited by mapset owners, [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) members, and [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) members.
+[Beatmaps](/wiki/Beatmaps) submitted to the website have **genre** and **language** fields to help categorise songs. They default to `Unspecified` and `Other` respectively, and can be edited by [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) and [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) members. Mapset owners are also able to set the genre and language of their beatmaps as long as the beatmap's status is WIP<!-- TODO: link -->, [Pending](/wiki/Beatmaps#pending), or [Graveyard](/wiki/Beatmaps#graveyard).
 
-They have no function in the game, but will be available as search options in osu!lazer<!-- TODO: link me -->.
+Genre and language have no function in the game, but will be available as search options in osu!lazer<!-- TODO: link me -->.
 
 ## Beatmap listing
 
