@@ -171,7 +171,7 @@
 
 - Approach Rate должен быть между 6 и 8.
 - Overall Difficulty должен быть между 5 и 7.
-- HP Drain Rate should должен быть между 4 и 6.
+- HP Drain Rate должен быть между 4 и 6.
 
 ### ![](/wiki/shared/diff/insane-s.png) Insane
 
