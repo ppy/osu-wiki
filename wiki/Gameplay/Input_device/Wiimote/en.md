@@ -1,10 +1,13 @@
+---
+stub: true
+---
+
 # Wiimote
 
-The **Wiimote** is the primary game controller for the Nintendo Wii console. 
-osu! supports using the Wiimote as an input device. 
-The Wiimote can be used to aim in osu! using the sensor bar and to click using ???. 
-To use the Wiimote in osu! you need to first enable support for it in the osu! options. 
+**Wiimote** is the primary game controller for Nintendo [Wii](https://en.wikipedia.org/wiki/Wii "Wikipedia"). Although seen as mostly gimmicky or silly, the Wiimote can be used in osu!standard to aim the cursor by using the sensor bar. You can rebind any button to click in the osu! options.
 
-![Wiimote support option in osu!](img/1.jpg "Wiimote support option in osu!")
+The Wiimote may also be used to control [Taiko](/wiki/Game_mode/osu!taiko) drum hits via motion controls or buttons on the Wiimote itself. However, this may require some more advanced knowledge of software and Wiimotes in order to get it working.
 
-<!-- this is a stub, article in progress..-->
+![Wiimote support option in osu!](img/wiimotesupportoption.jpg "Wiimote support option in osu!")
+
+![Wiimote](img/wiimote.jpg "Wiimote")
