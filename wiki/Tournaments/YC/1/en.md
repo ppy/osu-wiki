@@ -7,7 +7,7 @@ tags:
 
 ![YC logo](img/logo.jpg)
 
-The **Yuri Cup** (***YC***) was an international 4-digit 4v4 double-elimination osu! tournament hosted by ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519) and ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970). Each team consisted of 8 players will battle against other teams from around the globe. This was the first installment of the Yuri Cup.
+The **Yuri Cup** (***YC***) was an international 4-digit 4v4 double-elimination osu! tournament hosted by ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519) and ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970). Each team consisted of 8 players battled against other teams from around the globe. This was the first installment of the Yuri Cup.
 
 ## Tournament schedule
 
@@ -29,13 +29,15 @@ The **Yuri Cup** (***YC***) was an international 4-digit 4v4 double-elimination 
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
+![](img/badge.png "YC winner badge")
+
 ## Organisation
 
 The Yuri Cup was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970) |
+| Organiser | ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970) |
 | Map selector | ![][flag_US] [bor](https://osu.ppy.sh/users/4116573), ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970), ![][flag_US] [Cindelluna](https://osu.ppy.sh/users/3039847), ![][flag_US] [Izzz](https://osu.ppy.sh/users/6725659), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_US] [Mayflower](https://osu.ppy.sh/users/10302848), ![][flag_PT] [My Angel Maki](https://osu.ppy.sh/users/11610772), ![][flag_US] [squirrelpascals](https://osu.ppy.sh/users/6151332) |
 | Referee | ![][flag_HK] [Cindergoat](https://osu.ppy.sh/users/10168682), ![][flag_NO] [Ferretface](https://osu.ppy.sh/users/9703202), ![][flag_NL] [iepie122](https://osu.ppy.sh/users/12235433), ![][flag_US] [moof](https://osu.ppy.sh/users/8457202), ![][flag_US] [sriracha rice](https://osu.ppy.sh/users/11922986), ![][flag_NL] [Stan](https://osu.ppy.sh/users/11212255), ![][flag_AU] [Thunderbird](https://osu.ppy.sh/users/3026554), ![][flag_FR] [Yorumi](https://osu.ppy.sh/users/2458399) |
 | Commentator | ![][flag_CA] [BlastTheKidd](https://osu.ppy.sh/users/3988240), ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_NL] [iepie122](https://osu.ppy.sh/users/12235433), ![][flag_GR] [JackPaX](https://osu.ppy.sh/users/11226645), ![][flag_US] [moof](https://osu.ppy.sh/users/8457202), ![][flag_PL] [Shymshym](https://osu.ppy.sh/users/8631683) |
