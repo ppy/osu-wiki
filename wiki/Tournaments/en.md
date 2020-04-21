@@ -359,7 +359,7 @@ Unofficial tournaments/competitions hosted by the communities.
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| osu!mania Asian's Champions 2019 | 2019-09-28 | 2019-11-10 | ![][flag_KR] [\[ R o a d \]](https://osu.ppy.sh/users/6535926) | ![][flag_TW] [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) | ![][flag_MY] [xxxxxx2800](https://osu.ppy.sh/users/4084853) |
+| [osu!mania Asian's Champions 2019](o!mAC/2019) | 2019-09-28 | 2019-11-10 | ![][flag_KR] [\[ R o a d \]](https://osu.ppy.sh/users/6535926) | ![][flag_TW] [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) | ![][flag_MY] [xxxxxx2800](https://osu.ppy.sh/users/4084853) |
 
 ### ![](/wiki/shared/mode/osu.png) Royal Danish osu!Cup
 
