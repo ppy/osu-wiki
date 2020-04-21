@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+<!-- TODO: outdated because the numbers haven't accounted for any recent tournaments. not sure if this article should exist anymore... -->
 
 # Countries that participated in osu! tournaments
 
@@ -11,14 +12,14 @@ This article lists the countries that participated in the various osu!, osu!taik
 **Marks used in the Attendance sections**
 
 | Mark | Explantation |
-|:-----:|--------------------|
+| :-: | :-- |
 | ![][true] | Participated       |
 | ![][false] | Didn't participate |
 
 ## All-modes country ranking
 
 | Rank | Country                     | Gold | Silver | Bronze |
-|:----:|-----------------------------|:----:|:------:|:------:|
+| :-: | :-- | :-: | :-: | :-: |
 | 1    | ![][flag_KR] South Korea    | 7    | 1      | 2      |
 | 2    | ![][flag_JP] Japan          | 6    | 4      | 2      |
 | 3    | ![][flag_TW] Taiwan         | 3    | 5      | 1      |
@@ -48,7 +49,7 @@ This article lists the countries that participated in the various osu!, osu!taik
 #### Country ranking
 
 | Rank | Country                    | Gold | Silver | Bronze |
-|:----:|----------------------------|:----:|:------:|:------:|
+| :-: | :-- | :-: | :-: | :-: |
 | 1    | ![][flag_KR] South Korea   | 3    |        | 2      |
 | 2    | ![][flag_US] United States | 2    |        |        |
 | 3    | ![][flag_JP] Japan         | 1    | 2      |        |
@@ -62,7 +63,7 @@ This article lists the countries that participated in the various osu!, osu!taik
 #### Attendance
 
 | Country                         | #1              | #2              | #3              | 2013            | 2014             | 2015            | 2016            |
-|---------------------------------|-----------------|-----------------|-----------------|-----------------|------------------|-----------------|-----------------|
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | ![][flag_AR] Argentina          | ![][true]       | ![][true]       | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
 | ![][flag_AU] Australia          | ![][false]      | ![][true]       | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
 | ![][flag_AT] Austria            | ![][true]       | ![][true]       | ![][false]      | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
@@ -117,7 +118,7 @@ This article lists the countries that participated in the various osu!, osu!taik
 #### Country ranking
 
 | Rank | Country                    | Gold | Silver | Bronze |
-|:----:|----------------------------|:----:|:------:|:------:|
+| :-: | :-- | :-: | :-: | :-: |
 | 1    | ![][flag_JP] Japan         | 5    | 1      | 2      |
 | 2    | ![][flag_TW] Taiwan |      | 2    | 3      |        |
 | 3    | ![][flag_HK] Hong Kong     |      | 3      | 1      |
@@ -128,7 +129,7 @@ This article lists the countries that participated in the various osu!, osu!taik
 #### Attendance
 
 | Country                     | 2011          | 2012                 | \#3              | 2014          | 2015          | 2016          | 2017          |
-|-----------------------------|---------------|----------------------|------------------|---------------|---------------|---------------|---------------|
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | ![][flag_AR] Argentina      | ![][false]    | ![][false]           | ![][true]        | ![][true]     | ![][true]     | ![][true]     | ![][true]     |
 | ![][flag_AU] Australia      | ![][false]    | ![][false]           | ![][false]       | ![][false]    | ![][true]     | ![][true]     | ![][true]     |
 | ![][flag_AT] Austria        | ![][false]    | ![][true]            | ![][false]       | ![][false]    | ![][false]    | ![][false]    | ![][false]    |
@@ -170,7 +171,7 @@ This article lists the countries that participated in the various osu!, osu!taik
 #### Country Ranking
 
 | Rank | Country                  | Gold | Silver | Bronze |
-|:----:|:------------------------:|:----:|:------:|:------:|
+| :-: | :-: | :-: | :-: | :-: |
 | 1    | ![][flag_KR] South Korea | 2    |        |        |
 | 2    | ![][flag_CN] China       | 1    | 1      |        |
 | 3    | ![][flag_CL] Chile       | 1    |        |        |
@@ -184,7 +185,7 @@ This article lists the countries that participated in the various osu!, osu!taik
 #### Attendance
 
 | Country                         | 2013             | 2014          | 2015          | 2016          |
-|---------------------------------|------------------|---------------|---------------|---------------|
+| :-- | :-- | :-- | :-- | :-- |
 | ![][flag_AR] Argentina          | ![][true] 3rd ½  | ![][true]     | ![][true]     | ![][true]     |
 | ![][flag_AU] Australia          | ![][false]       | ![][false]    | ![][true]     | ![][true]     |
 | ![][flag_AT] Austria            | ![][true]        | ![][true]     | ![][true]     | ![][false]    |
@@ -235,7 +236,7 @@ This article lists the countries that participated in the various osu!, osu!taik
 #### Country Ranking
 
 | Rank | Country                    | Gold | Silver | Bronze |
-|:----:|----------------------------|:----:|:------:|:------:|
+| :-: | :-- | :-: | :-: | :-: |
 | 1    | ![][flag_KR] South Korea   | 3    | 1      |        |
 | 2    | ![][flag_US] United States | 1    |        | 1      |
 | 3    | ![][flag_CN] China         | 1    |        |        |
@@ -249,7 +250,7 @@ This article lists the countries that participated in the various osu!, osu!taik
 #### Attendance
 
 | Country                         | 2014 4K       | 2014 7K       | 2015 4K       | 2016 7K       | 2016 4K       | 2017 7K    |
-|---------------------------------|---------------|---------------|---------------|---------------|---------------|------------|
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | ![][flag_AR] Argentina          | ![][true]     | ![][false]    | ![][true]     | ![][false]    | ![][true]     | ![][true]  |
 | ![][flag_AU] Australia          | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][true]  |
 | ![][flag_BE] Belgium            | ![][false]    | ![][false]    | ![][false]    | ![][false]    | ![][true]     | ![][false] |

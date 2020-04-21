@@ -7,13 +7,13 @@ outdated: true
 ## Creatore
 
 | Nome | Descrizione |
-| ---- | ----------- |
+| :-- | :-- |
 | [peppy](https://osu.ppy.sh/users/2) | Leader del progetto |
 
 ## Attivi
 
 | Nome | Descrizione |
-| ---- | ----------- |
+| :-- | :-- |
 | [Ephemeral](https://osu.ppy.sh/users/102335) | Supporto del giocatore, Meganekko secretary |
 | [flyte](https://osu.ppy.sh/users/3103765), [osu!next](https://next.ppy.sh/) | Leader del desing |
 | [Loctav](https://osu.ppy.sh/users/71366) | Organizzatore dei tornei ufficiali, Staff and community management |
@@ -28,7 +28,7 @@ outdated: true
 ## Inattivi
 
 | Nome | Descrizione |
-| ---- | ----------- |
+| :-- | :-- |
 | [awp](https://osu.ppy.sh/users/2650) ([Barrel Roll Weekly](http://brw.twinkfish.com/)) | Pulizie generali e aiuto, artwork nel gioco/sito |
 | [Derekku](https://osu.ppy.sh/users/91341) | Pulizie Generali, Gestione community |
 | [Echo](https://osu.ppy.sh/users/431) ([blog](http://blog.echo.sh/)) | Team sviluppatori di osu!, Integrazione del IRC nella chat dentro al gioco, manutenzione del sito |
@@ -45,7 +45,7 @@ outdated: true
 ## Gruppi Utente
 
 | Nome | Descrizione |
-| ---- | ----------- |
+| :-- | :-- |
 | [Global Moderation Team](/wiki/People/Global_Moderation_Team) | Controllano il forum e la chat nel gioco |
 | [Beatmap Nomination Group](/wiki/People/Beatmap_Nomination_Group) | Gli utenti che vanno oltre il dovere per assicurare che le tue mappe siano qualificate |
 | [Sviluppatori](https://osu.ppy.sh/groups/11) | Rendono il gioco eccellente aggiungendo nuove funzioni e correggendo i bug |

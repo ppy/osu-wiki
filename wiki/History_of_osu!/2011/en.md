@@ -1,4 +1,4 @@
-# 2011
+# History of osu! 2011
 
 ## December
 

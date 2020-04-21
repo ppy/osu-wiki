@@ -7,7 +7,7 @@ tumblr_url: http://osunews.tumblr.com/post/141144403708/february-2016-ranking-ch
 
 The Ranking Charts for February 2016 have just been released and [can be found here](https://osu.ppy.sh/p/chart?ch=MONTH1602)!
 
-This month [Blue Dragon](https://osu.ppy.sh/users/19048), [Lost The Lights](hhttps://osu.ppy.sh/users/1255920), [Kurokami](https://osu.ppy.sh/users/260933) and [iJinjin](https://osu.ppy.sh/users/3360737) picked the maps for the Monthly Ranking Charts.
+This month [Blue Dragon](https://osu.ppy.sh/users/19048), [Lost The Lights](https://osu.ppy.sh/users/1255920), [Kurokami](https://osu.ppy.sh/users/260933) and [iJinjin](https://osu.ppy.sh/users/3360737) picked the maps for the Monthly Ranking Charts.
 
 ## Ranking Charts Creation
 

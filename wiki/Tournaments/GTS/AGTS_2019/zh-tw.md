@@ -27,9 +27,9 @@ tags:
 
 | 排名 | 獎品 |
 | :-: | :-- |
-| ![金冠](/wiki/shared/GCrown.png "第一名") | 獨特的檔案徽章，獨特的團隊橫幅 |
-| ![銀冠](/wiki/shared/SCrown.png "第二名") | 獨特的團隊橫幅 |
-| ![銅冠](/wiki/shared/BCrown.png "第三名") | 獨特的團隊橫幅 |
+| ![金冠](/wiki/shared/crown-gold.png "第一名") | 獨特的檔案徽章，獨特的團隊橫幅 |
+| ![銀冠](/wiki/shared/crown-silver.png "第二名") | 獨特的團隊橫幅 |
+| ![銅冠](/wiki/shared/crown-bronze.png "第三名") | 獨特的團隊橫幅 |
 
 ![AGTS 2019 Winner Badge](img/badge.png)
 
@@ -114,9 +114,9 @@ tags:
 
 | 排名 | 國家 |
 | :-: | :-- |
-| ![金冠](/wiki/shared/GCrown.png "第一名") | ![][flag_JP] |
-| ![銀冠](/wiki/shared/SCrown.png "第二名") | ![][flag_CA] |
-| ![銅冠](/wiki/shared/BCrown.png "第三名") | ![][flag_RU] |
+| ![金冠](/wiki/shared/crown-gold.png "第一名") | ![][flag_JP] |
+| ![銀冠](/wiki/shared/crown-silver.png "第二名") | ![][flag_CA] |
+| ![銅冠](/wiki/shared/crown-bronze.png "第三名") | ![][flag_RU] |
 
 ---
 

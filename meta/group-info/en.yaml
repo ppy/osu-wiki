@@ -1,12 +1,48 @@
+separator: ", "
 gmt:
-  areas_of_focus:
-    beatmap_moderation: Beatmap moderation
-    chat_moderation: Chat moderation
-    forum_moderation: Forum moderation
-    official_team_presence: Official team presence
-    osu!_development: osu! development
-    player_support: Player support
-    ranking_criteria: Ranking Criteria
-    technical_support: Technical support
-    tournament_organisation: Tournament organisation
-    wiki_administration: Wiki administration
+  all_mods: All moderators
+  areas:
+    beatmap: Beatmap moderation
+    chat: Chat moderation
+    forum: Forum moderation
+    team: Official team presence
+    dev: osu! development
+    osu_idol: osu!idol hosting
+    player: Player support
+    support: Technical support
+    tournaments: Tournaments
+    wiki: Wiki administration
+nat:
+  areas:
+    communication: Communication
+    evaluation: Evaluation
+    moderation: Moderation
+    structural: Structural
+languages:
+  partial: Some <language>
+  ar: Arabic
+  bg: Bulgarian
+  ca: Catalan
+  de: German
+  el: Greek
+  es: Spanish
+  et: Estonian
+  fi: Finnish
+  fil: Filipino
+  fr: French
+  hu: Hungarian
+  id: Indonesian
+  it: Italian
+  ja: Japanese
+  ko: Korean
+  ms: Malay
+  nl: Dutch
+  pl: Polish
+  pt: Portuguese
+  ru: Russian
+  sr: Serbian
+  sv: Swedish
+  th: Thai
+  tr: Turkish
+  yue: Cantonese
+  zh: Chinese

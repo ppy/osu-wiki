@@ -30,9 +30,9 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge, exclusive osu! merchandise, "osu!mania Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Profile badge, exclusive osu! merchandise |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Profile badge, exclusive osu! merchandise |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, exclusive osu! merchandise, "osu!mania Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Profile badge, exclusive osu! merchandise |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Profile badge, exclusive osu! merchandise |
 
 ## Organisation
 
@@ -58,7 +58,7 @@ The osu!mania 7K World Cup 2017 is run by various community members by distribut
 ## Participants
 
 |  | Country | Members |
-| --: | :---: | :-- |
+| --: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[lxLucasxl](https://osu.ppy.sh/users/3632846)**, [Euroe](https://osu.ppy.sh/users/3633019), [Feravel](https://osu.ppy.sh/users/1276617), [aluuu](https://osu.ppy.sh/users/4585260), [pablodinakinsito](https://osu.ppy.sh/users/2052925), [wtfamidoing](https://osu.ppy.sh/users/2034976) |
 | ![][flag_AU] | **Australia** | **[Pew](https://osu.ppy.sh/users/597692)**, [sankansuki](https://osu.ppy.sh/users/2877926), [Shirinisu](https://osu.ppy.sh/users/4922584), [Evios](https://osu.ppy.sh/users/2058022), [ApocaZumbee](https://osu.ppy.sh/users/3431615), [Alchalyne](https://osu.ppy.sh/users/3999031) |
 | ![][flag_BR] | **Brazil** | **[spoonguy](https://osu.ppy.sh/users/932381)**, [Guilhermeziat](https://osu.ppy.sh/users/3661387), [Keweft](https://osu.ppy.sh/users/75777), [SillyFangirl](https://osu.ppy.sh/users/2288363), [Lazarento](https://osu.ppy.sh/users/3224958), [Shinora-](https://osu.ppy.sh/users/5828575) |

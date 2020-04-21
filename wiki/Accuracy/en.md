@@ -1,6 +1,4 @@
----
-needs_cleanup: true
----
+<!-- TODO: needs to be combined with /wiki/Gameplay/Accuracy in some way -->
 
 # Accuracy
 

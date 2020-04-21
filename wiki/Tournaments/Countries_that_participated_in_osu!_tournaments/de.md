@@ -5,14 +5,14 @@ Im diesen Artikel werden alle Länder gelistet, die an offizielen Turnieren teil
 **Hinweis:** Einige Turniere sind hier nicht gelistet, da Spieler aus verschiedenen Ländern ein Team gebildet haben, und das Team daher nicht zu einem einzigen Land zugehörig ist.
 
 | Mark | Explantation |
-|:-----:|--------------------|
+| :-: | :-- |
 | ![][true] | Teilgenommen       |
 | ![][false] | Nicht teilgenommen |
 
 ## Länderranking von allen Spielmodi
 
 | Rang | Land                     | Gold | Silber | Bronze |
-|:----:|-----------------------------|:----:|:------:|:------:|
+| :-: | :-- | :-: | :-: | :-: |
 | 1    | ![][flag_KR] Südkorea    | 7    | 1      | 2      |
 | 2    | ![][flag_JP] Japan          | 6    | 4      | 2      |
 | 3    | ![][flag_TW] Taiwan         | 3    | 5      | 1      |
@@ -41,7 +41,7 @@ Im diesen Artikel werden alle Länder gelistet, die an offizielen Turnieren teil
 #### Länderanking
 
 | Rang | Land                    | Gold | Silber | Bronze |
-|:----:|----------------------------|:----:|:------:|:------:|
+| :-: | :-- | :-: | :-: | :-: |
 | 1    | ![][flag_KR] Südkorea   | 3    |        | 2      |
 | 2    | ![][flag_US] United States | 2    |        |        |
 | 3    | ![][flag_JP] Japan         | 1    | 2      |        |
@@ -55,7 +55,7 @@ Im diesen Artikel werden alle Länder gelistet, die an offizielen Turnieren teil
 #### Teilnahme
 
 | Land                         | #1              | #2              | #3              | 2013            | 2014             | 2015            | 2016            |
-|---------------------------------|-----------------|-----------------|-----------------|-----------------|------------------|-----------------|-----------------|
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | ![][flag_AR] Argentinien          | ![][true]       | ![][true]       | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
 | ![][flag_AU] Australien          | ![][false]      | ![][true]       | ![][true]       | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
 | ![][flag_AT] Austria            | ![][true]       | ![][true]       | ![][false]      | ![][true]       | ![][true]        | ![][true]       | ![][true]       |
@@ -110,7 +110,7 @@ Im diesen Artikel werden alle Länder gelistet, die an offizielen Turnieren teil
 #### Länderanking
 
 | Rang | Land                    | Gold | Silber | Bronze |
-|:----:|----------------------------|:----:|:------:|:------:|
+| :-: | :-- | :-: | :-: | :-: |
 | 1    | ![][flag_JP] Japan         | 5    | 1      | 2      |
 | 2    | ![][flag_TW] Taiwan        | 2    | 3      |        |
 | 3    | ![][flag_HK] Hong Kong     |      | 3      | 1      |
@@ -121,7 +121,7 @@ Im diesen Artikel werden alle Länder gelistet, die an offizielen Turnieren teil
 #### Teilnahme
 
 | Land                     | 2011          | 2012                 | \#3              | 2014          | 2015          | 2016          | 2017          |
-|-----------------------------|---------------|----------------------|------------------|---------------|---------------|---------------|---------------|
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | ![][flag_AR] Argentinien      | ![][false]    | ![][false]           | ![][true]        | ![][true]     | ![][true]     | ![][true]     | ![][true]     |
 | ![][flag_AU] Australien      | ![][false]    | ![][false]           | ![][false]       | ![][false]    | ![][true]     | ![][true]     | ![][true]     |
 | ![][flag_AT] Austria        | ![][false]    | ![][true]            | ![][false]       | ![][false]    | ![][false]    | ![][false]    | ![][false]    |
@@ -163,7 +163,7 @@ Im diesen Artikel werden alle Länder gelistet, die an offizielen Turnieren teil
 #### Länderanking
 
 | Rang | Land                  | Gold | Silber | Bronze |
-|:----:|:------------------------:|:----:|:------:|:------:|
+| :-: | :-: | :-: | :-: | :-: |
 | 1    | ![][flag_KR] Südkorea | 2    |        |        |
 | 2    | ![][flag_CN] China       | 1    | 1      |        |
 | 3    | ![][flag_CL] Chile       | 1    |        |        |
@@ -177,7 +177,7 @@ Im diesen Artikel werden alle Länder gelistet, die an offizielen Turnieren teil
 #### Teilnahme
 
 | Land                         | 2013             | 2014          | 2015          | 2016          |
-|---------------------------------|------------------|---------------|---------------|---------------|
+| :-- | :-- | :-- | :-- | :-- |
 | ![][flag_AR] Argentinien          | ![][true] 3rd ½  | ![][true]     | ![][true]     | ![][true]     |
 | ![][flag_AU] Australien          | ![][false]       | ![][false]    | ![][true]     | ![][true]     |
 | ![][flag_AT] Austria            | ![][true]        | ![][true]     | ![][true]     | ![][false]    |
@@ -228,7 +228,7 @@ Im diesen Artikel werden alle Länder gelistet, die an offizielen Turnieren teil
 #### Länderanking
 
 | Rang | Land                    | Gold | Silber | Bronze |
-|:----:|----------------------------|:----:|:------:|:------:|
+| :-: | :-- | :-: | :-: | :-: |
 | 1    | ![][flag_KR] Südkorea   | 3    | 1      |        |
 | 2    | ![][flag_US] United States | 1    |        | 1      |
 | 3    | ![][flag_CN] China         | 1    |        |        |
@@ -242,7 +242,7 @@ Im diesen Artikel werden alle Länder gelistet, die an offizielen Turnieren teil
 #### Teilnahme
 
 | Land                         | 2014 4K       | 2014 7K       | 2015 4K       | 2016 7K       | 2016 4K       | 2017 7K    |
-|---------------------------------|---------------|---------------|---------------|---------------|---------------|------------|
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | ![][flag_AR] Argentinien          | ![][true]     | ![][false]    | ![][true]     | ![][false]    | ![][true]     | ![][true]  |
 | ![][flag_AU] Australien          | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][true]     | ![][true]  |
 | ![][flag_BE] Belgien            | ![][false]    | ![][false]    | ![][false]    | ![][false]    | ![][true]     | ![][false] |

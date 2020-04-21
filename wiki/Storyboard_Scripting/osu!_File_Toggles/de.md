@@ -8,4 +8,4 @@ Siehe auch [skin.ini](/wiki/Skinning/Skin.ini)
 
 UseSkinSprites: 1
 
-Ermöglicht Storyboards, den Sprites vom ausgewählten Skin des Spielers anhand der Dateinamen zu verwenden. Das ist jedoch sinnlos, wenn Sie schon ein Skin aufzwingen oder ein map-spezifischen Skin verwenden. [Quelle](https://osu.ppy.sh/forum/viewtopic.php?p=141760#p141760)
+Ermöglicht Storyboards, den Sprites vom ausgewählten Skin des Spielers anhand der Dateinamen zu verwenden. Das ist jedoch sinnlos, wenn Sie schon ein Skin aufzwingen oder ein map-spezifischen Skin verwenden. [Quelle](https://osu.ppy.sh/community/forums/topics/1869?start=141760)

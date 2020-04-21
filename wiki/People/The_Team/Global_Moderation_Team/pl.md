@@ -48,7 +48,7 @@ Zespół GMT monitoruje i utrzymuje porządek w interakcjach wśród społeczno�
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipiński | Moderacja czatu oraz forum, Pomoc techniczna |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Francuski | Moderacja czatu |
 | ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | | osu! development, Mappers' Guild organisation |
-| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Niemiecki | Ranking Criteria, Moderacja Forum oraz czatu |
+| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Niemiecki | Moderacja Forum oraz czatu |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Niemiecki | Organizacja turniejów |
 | ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | | Moderacja czatu, Pomoc techniczna |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portugalski | Moderacja czatu |

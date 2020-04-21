@@ -27,9 +27,9 @@ O **Advanced Global Taiko Showdown 2019** (***AGTS 2019***) foi um torneio 2 vs 
 
 | Colocação | Prêmio(s) |
 | :-: | :-- |
-| ![Coroa de ouro](/wiki/shared/GCrown.png "1º colocado") | Badge único do perfil, banner exclusivo do time |
-| ![Coroa de prata](/wiki/shared/SCrown.png "2º colocado") | Banner exclusivo do time |
-| ![Coroa de bronze](/wiki/shared/BCrown.png "3º colocado") | Banner exclusivo do time |
+| ![Coroa de ouro](/wiki/shared/crown-gold.png "1º colocado") | Badge único do perfil, banner exclusivo do time |
+| ![Coroa de prata](/wiki/shared/crown-silver.png "2º colocado") | Banner exclusivo do time |
+| ![Coroa de bronze](/wiki/shared/crown-bronze.png "3º colocado") | Banner exclusivo do time |
 
 ![Badge dos Vencedores do AGTS 2019](img/badge.png)
 
@@ -79,7 +79,7 @@ O Advanced Global Taiko Showdown 2019 foi realizado por vários membros da comun
 | ![][flag_US] | **Estados Unidos A** | **[Backfire](https://osu.ppy.sh/users/263110)**, [ChurroChef](https://osu.ppy.sh/users/9258564), [CaptainEChan](https://osu.ppy.sh/users/9536977), [dragonworm](https://osu.ppy.sh/users/11464752) |
 | ![][flag_US] | **Estados Unidos B** | **[driodx](https://osu.ppy.sh/users/9709548)**, [Shindamama](https://osu.ppy.sh/users/12780046), [R J](https://osu.ppy.sh/users/6490509), [DiggyDogg](https://osu.ppy.sh/users/5014664) |
 | ![][flag_PH] | **Filipinas** | **[yuki\_momoiro722](https://osu.ppy.sh/users/7186791)**, [Niro-](https://osu.ppy.sh/users/6443899), [A i r](https://osu.ppy.sh/users/10363380), [Yron8](https://osu.ppy.sh/users/1537747) |
-| ![][flag_FR] | **França** | **[maximaxiU](https://osu.ppy.sh/users/4069690)**, [Chernobog](https://osu.ppy.sh/users/3317042), [Gintoki8](https://osu.ppy.sh/users/2239411), [ALISTAR033009](https:/osu.ppy.sh/users/9819975), [ZeddaStake](https://osu.ppy.sh/users/8801844) |
+| ![][flag_FR] | **França** | **[maximaxiU](https://osu.ppy.sh/users/4069690)**, [Chernobog](https://osu.ppy.sh/users/3317042), [Gintoki8](https://osu.ppy.sh/users/2239411), [ALISTAR033009](https://osu.ppy.sh/users/9819975), [ZeddaStake](https://osu.ppy.sh/users/8801844) |
 | ![][flag_HK] | **Hong Kong** | **[Brown918](https://osu.ppy.sh/users/9805760)**, [Cynplytholowazy](https://osu.ppy.sh/users/3901754), [\[\_isolated\_\]](https://osu.ppy.sh/users/6187838) |
 | ![][flag_ID] | **Indonésia A** | **[Mikurio](https://osu.ppy.sh/users/10734140)**, [misaki_tk](https://osu.ppy.sh/users/3866964), [steven1](https://osu.ppy.sh/users/3090416), [Volta](https://osu.ppy.sh/users/4154071) |
 | ![][flag_ID] | **Indonésia B** | **[Viewland](https://osu.ppy.sh/users/6250135)**, [Shirai-](https://osu.ppy.sh/users/4221845), [Alwaysyukaz](https://osu.ppy.sh/users/4999506), [ImChro](https://osu.ppy.sh/users/7280717), [Ahmad Haris](https://osu.ppy.sh/users/6048245) |
@@ -114,9 +114,9 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 
 | Colocação | País |
 | :-: | :-- |
-| ![Coroa de ouro](/wiki/shared/GCrown.png "1º colocado") | ![][flag_JP] Japão |
-| ![Coroa de prata](/wiki/shared/SCrown.png "2º colocado") | ![][flag_CA] Canadá |
-| ![Coroa de bronze](/wiki/shared/BCrown.png "3º colocado") | ![][flag_RU] Rússia A |
+| ![Coroa de ouro](/wiki/shared/crown-gold.png "1º colocado") | ![][flag_JP] Japão |
+| ![Coroa de prata](/wiki/shared/crown-silver.png "2º colocado") | ![][flag_CA] Canadá |
+| ![Coroa de bronze](/wiki/shared/crown-bronze.png "3º colocado") | ![][flag_RU] Rússia A |
 
 ---
 

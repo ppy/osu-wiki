@@ -29,9 +29,9 @@ In every World Cup, people conquering a place on the podium are eligible to rece
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | exclusive and unique merchandise, profile badge, "osu! Champion" user title |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | exclusive and unique merchandise, profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | exclusive and unique merchandise, profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | exclusive and unique merchandise, profile badge, "osu! Champion" user title |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | exclusive and unique merchandise, profile badge |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | exclusive and unique merchandise, profile badge |
 
 ## Organisation
 
@@ -445,7 +445,7 @@ The osu! World Cup 2016 was run by various community members by distributing the
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
 
 | Stage | Match ID |
-|-----------------|--------------------------|
+| :-- | :-- |
 | Round of 16 | A, B, C, D, E, F, G, H |
 | Quarter-finals | I, J, K, L & R, S, T, U |
 | Semi-finals | M, N & V, W, X, Y, Z, AA |

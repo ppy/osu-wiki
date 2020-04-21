@@ -18,9 +18,9 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 months of osu!supporter tag, special profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 6 months of osu!supporter tag, special profile badge |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
 ## Organisation
 
@@ -309,7 +309,6 @@ Changes in the rules aside from [OWC #1](/wiki/Tournaments/OWC/1).
 [flag_DK]: /wiki/shared/flag/DK.gif
 [flag_FI]: /wiki/shared/flag/FI.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
 [flag_HU]: /wiki/shared/flag/HU.gif
 [flag_ID]: /wiki/shared/flag/ID.gif

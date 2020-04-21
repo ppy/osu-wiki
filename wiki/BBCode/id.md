@@ -334,7 +334,7 @@ Gambar dapat diperoleh dari sumber manapun, selama gambar tersedia dan memiliki 
 
 **Jangan link gambar langsung dari lokal pc!** Menggunakan `C:\Users\Name\Pictures\image.jpg` **tidak akan bisa digunakan**.
 
-Tolong unggah gambar ke website yang terpercaya seperti [imgur](https://imgur.com/ "imgur") atau [puush](https://puush.me/ "puush"). Setelah gambar diunggah berhasil, salin dan tempel tautan yang berisikan gambar. Tidak semua website memberikan tautan langsung pada gambar yang diunggah (atau biasa disebut *hotlinks*). Situs berbagi gambar, seperti ada yang diatas, sangat diperbolehkan menggunakan tautan langsung pada gambar karena mereka adalah situs berbagi gambar.
+Tolong unggah gambar ke website yang terpercaya seperti [imgur](https://imgur.com) atau [puush](https://puush.me). Setelah gambar diunggah berhasil, salin dan tempel tautan yang berisikan gambar. Tidak semua website memberikan tautan langsung pada gambar yang diunggah (atau biasa disebut *hotlinks*). Situs berbagi gambar, seperti ada yang diatas, sangat diperbolehkan menggunakan tautan langsung pada gambar karena mereka adalah situs berbagi gambar.
 
 - Tombol khusus: ![Tombol Image](img/image.png)
 - Catatan:

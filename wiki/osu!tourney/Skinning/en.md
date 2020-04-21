@@ -1,10 +1,6 @@
----
-needs_cleanup: true
----
+# osu!tourney skinning
 
-# Skinning
-
-![The client can be customized in various ways](Osutourneycustom.png)
+![The client can be customized in various ways](img/Osutourneycustom.png)
 
 The client supports various modifications so you can customize it for the tournament. To do so, you will need to create the folder structure `/Skins/User/tournament` in the client's installation directory. The skin elements can be placed in this folder and support `.jpg` and `.png` file extensions.
 
@@ -16,7 +12,7 @@ The following elements are skinnable:
 - `tourney-title` (optional) - the image that is displayed at the bottom of the client, on top of the background
   - This can be used to show e.g. a logo of the tournament.
 
-![Team icons can be displayed beside the team names](Osutourneyicons.png)
+![Team icons can be displayed beside the team names](img/Osutourneyicons.png)
 
 The client will display icons located in the path `/Skins/User/tournament/icons` beside the team names. These may be used to show e.g. country flags or avatars.
 

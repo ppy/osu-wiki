@@ -27,9 +27,9 @@ tags:
 
 | Miejsce | Nagroda(y) |
 | :-: | :-- |
-| ![Złota Korona](/wiki/shared/GCrown.png "1 miejsce") | Unikalna odznaka profilu, ekskluzywny baner |
-| ![Srebrna Korona](/wiki/shared/SCrown.png "2 miejsce") | Ekskluzywny baner |
-| ![Brązowa Korona](/wiki/shared/BCrown.png "3 miejsce") | Ekskluzywny baner |
+| ![Złota Korona](/wiki/shared/crown-gold.png "1 miejsce") | Unikalna odznaka profilu, ekskluzywny baner |
+| ![Srebrna Korona](/wiki/shared/crown-silver.png "2 miejsce") | Ekskluzywny baner |
+| ![Brązowa Korona](/wiki/shared/crown-bronze.png "3 miejsce") | Ekskluzywny baner |
 
 ![AGTS 2019 Odznaka Zwycięzcy](img/badge.png)
 
@@ -114,9 +114,9 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 
 | Miejsce | Kraj |
 | :-: | :-- |
-| ![Złota Korona](/wiki/shared/GCrown.png "1 miejsce") | ![][flag_JP] Japonia |
-| ![Srebrna Korona](/wiki/shared/SCrown.png "2 miejsce") | ![][flag_CA] Kanada |
-| ![Brązowa Korona](/wiki/shared/BCrown.png "3 miejsce") | ![][flag_RU] Rosja A |
+| ![Złota Korona](/wiki/shared/crown-gold.png "1 miejsce") | ![][flag_JP] Japonia |
+| ![Srebrna Korona](/wiki/shared/crown-silver.png "2 miejsce") | ![][flag_CA] Kanada |
+| ![Brązowa Korona](/wiki/shared/crown-bronze.png "3 miejsce") | ![][flag_RU] Rosja A |
 
 ---
 

@@ -1,10 +1,17 @@
 ---
 needs_cleanup: true
 ---
+<!-- TODO:
+- the writing is needlessly verbose sometimes
+- sections shouldn't be questions
+- too many / too short paragraphs break up the reading
+- needs links to other wiki pages
+- the order of sections/paragraphs doesn't lend itself to explaining what pp actually is
+- outdated in some minor ways (links to old changelogs, details about the algorithm itself are from years ago)
+- should link to the ppv1 page
+-->
 
-<!-- probably outdated too -->
-
-# Performance Points
+# Performance points
 
 The Performance Points system is a ranking metric that aims to be more contextually relevant to a player's progression in a continuous game like osu!.
 

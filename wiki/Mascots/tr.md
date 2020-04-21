@@ -2,11 +2,13 @@
 outdated: true
 ---
 
-# osu! Maskotları
+# Mascots (Türkçe)
+
+## osu! Maskotları
 
 [Maskotlar hakkında bir video](https://www.youtube.com/watch?v=mJF2cAs_MrI)
 
-## Pippi
+### Pippi
 
 ![Pippi](img/pippi.png "Pippi")
 
@@ -45,7 +47,7 @@ Dişi
 #### Biyoveri
 (Eklenecek)
 
-## Yuzu
+### Yuzu
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
@@ -80,7 +82,7 @@ Erkek
 #### Biyoveri
 [Tanıtım](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu)
 
-## Maria
+### Maria
 
 ![Maria](img/Maria.png "Maria")
 
@@ -114,9 +116,9 @@ Cinsiyet
 #### Biyoveri
 [Tanıtım](https://osu.ppy.sh/home/news/2016-04-20-meet-maria-osumanias-new-mascot)
 
-# Konuklar
+## Konuklar
 
-## Ryūta Ippongi
+### Ryūta Ippongi
 
 ![Ryuuta](img/Ryuuta.png "Ryuuta")
 
@@ -153,7 +155,7 @@ Erkek
 #### Biyoveri
 Moral takımının sıcak kanlı lideri. İyi bir kalbi vardır ve etrafındakiler zor duruma düştüğünde onların yanında savaşır!
 
-## Agent J
+### Agent J
 
 ![Agent J](img/Agent_J.png "Agent J")
 
@@ -188,7 +190,7 @@ Male
 #### Biyoveri
 Hip-hop'tan baleye, pek çok dans stilinde uzman olan J, yaşayan herkesi etkisi altına alabilir.
 
-## Don
+### Don
 
 ![Don](img/Don.png "Don")
 
@@ -224,6 +226,6 @@ Mayıs 2008
 #### Biyoveri
 Don Taiko no Tatsujin serisinin ana karakteri. Kendisi beyaz kenarlı, kırmızı suratlı ve açık mavi vücütlu 4 bacaklı bir taiko davuludur. Don'un rüyası Taiko'nun güzelliğini dünya ile paylaşmaktır. Wada House'a taşındığından beri 3 yıl geçti, ve şehirde oldukça popüler oldu. Korkunç bir iştahı vardır ve sonu kötü bitebilecek pahalı alışverişler yapar. Cümlelerini genellikle Japoncada "Ba-dum" anlamına gelen "Ta-don" ile bitirir.
 
-# Resim Galerisi
+## Resim Galerisi
 
 [Galeriye gitmek için buraya tıklayın tıklayın.](/wiki/Mascots/Gallery)

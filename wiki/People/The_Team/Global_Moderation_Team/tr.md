@@ -48,7 +48,7 @@ Global Moderasyon Takımı oyun-içi sohbetin/forumların sağlığından soruml
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino | Sohbet Moderasyonu, Forum Moderasyonu, Teknik Destek |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | French | Sohbet Moderasyonu |
 | ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | | osu! development, Mappers' Guild organisation |
-| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | German | Ranking Criteria, Forum Moderasyonu, Sohbet Moderasyonu |
+| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | German | Forum Moderasyonu, Sohbet Moderasyonu |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | German | Turnuvalar |
 | ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | | Sohbet Moderasyonu, Teknik Destek |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portuguese | Sohbet Moderasyonu |

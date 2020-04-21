@@ -16,7 +16,7 @@ Tautan Terkait:
 
 ## Oktober
 
-Seperti biasa, banyak hal baru ditambahkan ke osu!. Salah satunya adalah layar ketika masuk sudah diperbarui. Hal lain yang baru adalah sistem *scrolling* dalam [mania](/wiki/mania). Sistem baru ini berdasarkan pada bpm beatmap daripada *scroll* yang sudah ditetapkan! Intro dan outro baru ketika memasuki game, daripada langsung memainkan musik beatmap saat memasuki game, tema lagu yang luar biasa telah ditambahkan ke osu!. Dan kebanyakan orang mengucapkan osu! sebagai \\oss!\\, bukan \\osU!\\.
+Seperti biasa, banyak hal baru ditambahkan ke osu!. Salah satunya adalah layar ketika masuk sudah diperbarui. Hal lain yang baru adalah sistem *scrolling* dalam [osu!mania](/wiki/Game_Modes/osu!mania). Sistem baru ini berdasarkan pada bpm beatmap daripada *scroll* yang sudah ditetapkan! Intro dan outro baru ketika memasuki game, daripada langsung memainkan musik beatmap saat memasuki game, tema lagu yang luar biasa telah ditambahkan ke osu!. Dan kebanyakan orang mengucapkan osu! sebagai \\oss!\\, bukan \\osU!\\.
 
 Terakhir, mengarah pada peppy membuat keputusan yang sulit untuk merilis *osu!text.exe* (sekarang *osu!cuttingedge*) dapat digunakan **siapa saja**. Hal ini memungkinkan pemain yang tidak memiliki osu!supporter untuk melakukan *debug* pada osu! di mana osu! akan diperbarui ke klien mana pun. Itu pun, jika mereka ingin menggunakan fitur eksperimental yang kurang stabil. Setiap fungsi yang ada diberikan di osu!cuttingedge **kecuali** fitur multiplayer (membutuhkan osu!supporter).
 

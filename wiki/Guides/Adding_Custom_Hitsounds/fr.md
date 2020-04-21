@@ -1,15 +1,17 @@
-# Ajouter des hitsounds personnalisés 
+# Ajouter des hitsounds personnalisés
 
 Du sujet: *[Comment ajouter des hitsounds personnalisés ? par: neonat](https://osu.ppy.sh/community/forums/posts/3215699)* (et modifié)
 
 ## Obtenir des hitsounds personnalisés
 
 Vous aurez dans un premier temps besoin de hitsounds ! Vous pouvez:
-- En trouver dans la [bibliothèque d'hitsounds personnalisés](../Custom_Hitsound_Library/),
+
+- En trouver dans la [bibliothèque d'hitsounds personnalisés](/wiki/Guides/Custom_Hitsound_Library),
 - Les faire vous même
   - Si vous décidez de les faire vous même, essayez de garder le format numérique `.wav` - c'est mieux pour les sampler ensuite.
 
 Une fois que vous les avez, déplacez les dans le dossier de la chanson. Si vous ne savez pas ou se trouve le dossier de la chanson, suivez ces étapes:
+
 1. Ouvrez osu!
 2. Editer
 3. Allez sur *votre beatmap* et ouvrez-la
@@ -23,7 +25,7 @@ En fonction de quel hitsound vous souhaitez mettre dans la beatmap, commencez le
 
 Vous décidez ensuite de quel son sera le normal hit, le clap, le whistle ou encore le finish.
 
-![Tutorial Image 1](ACH_01.png "Tutorial Image 1")
+![Tutorial Image 1](img/ACH_01.png "Tutorial Image 1")
 
 ### Exemple 1
 
@@ -39,4 +41,4 @@ Comme `normal-hitclap2.wav` ou encore comme `soft-hitfinish3.wav`
 
 N'oubliez pas d'aller dans le menu de configuration du timing et changer le choix d'hitsound vers Custom, et correspondant au bon nombre.
 
-![Tutorial Image 2](ACH_02.png "Tutorial Image 2")
+![Tutorial Image 2](img/ACH_02.png "Tutorial Image 2")

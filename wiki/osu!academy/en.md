@@ -1,6 +1,8 @@
 ---
 needs_cleanup: true
+outdated: true
 ---
+<!-- TODO: new videos and branding -->
 
 # osu!academy
 
@@ -16,7 +18,7 @@ If you have any questions or comments, please forward them to [ztrot](https://os
 ## Episodes
 
 | Episode Thumbnail                                        | Link                                                                     | Description                                                                                                                                                       |
-|----------------------------------------------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- | :-- |
 | ![](img/Academy_1.png)   | [Episode 1](https://www.youtube.com/watch?v=cz522ZAs5aQ "Episode 1")     | In this episode, we will cover installing the game and account creation!                                                                                          |
 | ![](img/Academy_2.png)   | [Episode 2](https://www.youtube.com/watch?v=mswLEXK0eDk "Episode 2")     | In this episode, we will be going over standard gameplay and how to customize playstyle settings!                                                                 |
 | ![](img/Academy_3.png)   | [Episode 3](https://www.youtube.com/watch?v=UAomychlbic "Episode 3")     | In this episode, we will be going over the game mode osu!mania featuring LoliFlan!                                                                                |
@@ -56,6 +58,6 @@ If you have any questions or comments, please forward them to [ztrot](https://os
 
 ## External Links
 
-- [Source](https://news.ppy.sh/post/70504430082/introducing-the-osu-academy)
+- [Source](https://osu.ppy.sh/home/news/2013-12-19-introducing-the-osu-academy)
 - [Official YouTube channel](https://www.youtube.com/user/osuacademy/videos)
 - [Official thread](https://osu.ppy.sh/community/forums/topics/169707)

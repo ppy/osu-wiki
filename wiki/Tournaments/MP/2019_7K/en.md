@@ -29,9 +29,9 @@ The **Mistrzostwa Polski w 7K 2019** (***MP7K 2019***, *7K Polish Championship 2
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 150 PLN |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 90 PLN |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 60 PLN |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 150 PLN |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 90 PLN |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 60 PLN |
 
 ## Organisation
 

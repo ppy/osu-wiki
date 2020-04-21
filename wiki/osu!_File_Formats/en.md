@@ -1,11 +1,11 @@
-# osu! File Formats
+# osu! file formats
 
 ## osu!-specific file format
 
 ### Archive
 
 | File format                                 | Usage                                                                                            |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | [.osz][Osz Link]       | Executable beatmap file.                                                                         |
 | [.osk][Osk Link]       | Executable skin file.                                                                            |
 | [.db][Db Link]         | Cached information.                                                                              |
@@ -13,14 +13,14 @@
 ### Beatmap Editor
 
 | File format                                 | Usage                                                                                            |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | [.osu][Osu Link]       | [Compose](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Song Setup](/wiki/Beatmap_Editor/Song_Setup). |
 | [.osb][Osb Link]        | [Design](/wiki/Beatmap_Editor/Design).                                                                     |
 
 ### Replay
 
 | File format                                 | Usage                                                                                            |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | [.osr][Osr Link]       | Executable replay file (cannot be decompressed).                                                 |
 
 ## Creating .osz/.osk file
@@ -29,7 +29,7 @@
 
 ### From an archiver
 
-**Software needed:-**
+**Software needed:*
 
 -   File archiver (WinRAR, 7zip)
 -   osu! (For testing purpose and osu! icon)
@@ -59,7 +59,7 @@
 
 ### From the game
 
-**Software needed:-**
+**Software needed:*
 
 -   osu! (and nothing else, since the game can make .osz/.osk files)
 

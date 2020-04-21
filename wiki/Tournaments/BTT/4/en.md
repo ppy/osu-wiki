@@ -29,9 +29,9 @@ The **Beginners' Taiko Tournament 4** (***BTT 4***) was a double elimination one
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 4 months of osu!supporter tag, unique profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 months of osu!supporter tag |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter tag, unique profile badge |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 months of osu!supporter tag |
 
 ![BTT 4 Winner Badge](img/badge.png)
 
@@ -73,9 +73,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_HK] [shikuro\_re](https://osu.ppy.sh/users/9338943) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] [LuriCookie](https://osu.ppy.sh/users/9517612) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_HK] [shikuro\_re](https://osu.ppy.sh/users/9338943) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [LuriCookie](https://osu.ppy.sh/users/9517612) |
 
 ## Mappools
 
@@ -430,8 +430,6 @@ This competition has come to an end and resulted in the following podium:
 [flag_EC]: /wiki/shared/flag/EC.gif
 [flag_FI]: /wiki/shared/flag/FI.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_GR]: /wiki/shared/flag/GR.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
 [flag_IE]: /wiki/shared/flag/IE.gif

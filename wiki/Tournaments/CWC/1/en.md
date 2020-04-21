@@ -27,9 +27,9 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 6 months of osu!supporter tag |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
 *Note: 1 month of osu!supporter tag was also given to the backup member of the winning team.*
 
@@ -94,9 +94,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_CN] China |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_TW] half manual player team |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_CL] Chile |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_CN] China |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TW] half manual player team |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CL] Chile |
 
 ---------------------------
 
