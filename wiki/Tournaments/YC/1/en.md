@@ -104,22 +104,15 @@ The Yuri Cup was run by various community members.
 | **Yuritarded** | **![][flag_US] [Raoul](https://osu.ppy.sh/users/9924405)**, ![][flag_US] [mode](https://osu.ppy.sh/users/4580287), ![][flag_CA] [Rijrya](https://osu.ppy.sh/users/11186709), ![][flag_CA] [iyxe](https://osu.ppy.sh/users/9653938), ![][flag_US] [Yeong Yuseong](https://osu.ppy.sh/users/8926244), ![][flag_CL] [ign](https://osu.ppy.sh/users/9360528), ![][flag_CA] [boncuss](https://osu.ppy.sh/users/2305984), ![][flag_US] [Tuco](https://osu.ppy.sh/users/11706350) |
 | **安倍-プーチン** | **![][flag_RU] [z0mbir](https://osu.ppy.sh/users/4939107)**, ![][flag_JP] [Lege](https://osu.ppy.sh/users/7350684), ![][flag_JP] [katatakatata](https://osu.ppy.sh/users/3540294), ![][flag_JP] [\_tottoko\_](https://osu.ppy.sh/users/8354698), ![][flag_JP] [Valtz](https://osu.ppy.sh/users/5911299), ![][flag_RU] [DrakonLong](https://osu.ppy.sh/users/4411044), ![][flag_JP] [Reey](https://osu.ppy.sh/users/3773119), ![][flag_RU] [HardLifeNH](https://osu.ppy.sh/users/11009393) |
 
-## Match schedule: Grand Finals
+## Podium
 
-Saturday, 4 April 2020:
+This competition has come to an end and resulted in the following podium:
 
-| Match ID | Team 1 | Team 2 | Match time (UTC) |
-| :-: | --: | :-- | :-: |
-| #61 | Corim's Bad Dream | Rtzero x Rtzer0 | **15:00** |
-
-Sunday, 5 April 2020:
-
-| Match ID | Team 1 | Team 2 | Match time (UTC) |
-| :-: | --: | :-- | :-: |
-| #62a¹ | a la verga | Corim's Bad Dream | **19:00** |
-| #62b¹ | a la verga | Rtzero x Rtzer0 | **14:00** |
-
-¹ Encounter dependent on winner of match #61. If team 2 wins match #62, the bracket reset Grand Finals match will take place approximately 30 minutes in advance.
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Corim's Bad Dream |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | a la verga |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Rtzero x Rtzer0 |
 
 ## Mappools
 
