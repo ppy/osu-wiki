@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest #3: Results"
-date: 2020-04-20 23:00:00 +0000
+date: 2020-04-21 09:00:00 +0000
 ---
 
 Check out the winning submissions from the third monthly beatmapping contest!
@@ -26,7 +26,7 @@ Gathering **83** votes, [hypercyte](https://osu.ppy.sh/users/9155377)'s submissi
 
 That's not all he achieved in this contest though! MBC entries each month are screened by experienced mappers to determine which reach the voting stage. 10 of 13 screeners this month included hypercyte's entry in their top 5, making hypercyte the **screening crew's favorite!**
 
-Tons of screeners noted how different slider shapes helped convey the song in place of slider velocity changes, so give the map a play if that's your cup of tea!
+The screening crew almost universally noted how different slider shapes helped convey the song in place of slider velocity changes in this set, so check it out if that's your cup of tea!
 
 ## Rewards
 
