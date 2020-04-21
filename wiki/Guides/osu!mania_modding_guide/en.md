@@ -157,7 +157,7 @@ Once figured out, add the suggestion via the modding discussion. To start, copy/
 
 After adding the timing, add the suggestion. First of all, point out what is wrong, and do it short in one sentence, like a summary. Next, write out the suggestion in full. The best way is to write down every change made compared to the current patterns/notes. Posting several extra timestamps can help guide the mapper if notes have been moved or deleted. An example is provided below:
 
-`00:52:299 - These pattern feels pretty weird while playing as there is a bias on the left hand, as well as a long anchor. You can solve that problem by moving 00:52:459 (52459|0) - this note to 3, 00:52:618 (52618|3) - this one to 2 and maybe remove 00:52:858 (52858|1) - because it causes a jack with the next hand pattern.`
+> 00:52:299 - These pattern feels pretty weird while playing as there is a bias on the left hand, as well as a long anchor. You can solve that problem by moving 00:52:459 (52459|0) - this note to 3, 00:52:618 (52618|3) - this one to 2 and maybe remove 00:52:858 (52858|1) - because it causes a jack with the next hand pattern.
 
 As seen, the format followed the guide above by first posting the timestamp and then describing the problem, finishing with a suggestion on how to fix it.
 
@@ -165,7 +165,7 @@ Continue doing this process for the entire map. As mentioned earlier, if somethi
 
 When giving a problem/suggestion towards a larger section of the beatmap, use two timestamps, one to start and one to end, and then describe the problem in this section, finishing with a suggestion on how to solve it. An example would be:
 
-`00:53:416 - to 00:58:682 - The usage of the 1st column here causes too many anchors which is really awkward to play alongside notes in the 2nd column. I'd suggest moving every other note (00:53:691 - , 00:53:966 - , 00:54:241 - , etc.) to a different column to alleviate the left hand bias in the map.`
+> 00:53:416 - to 00:58:682 - The usage of the 1st column here causes too many anchors which is really awkward to play alongside notes in the 2nd column. I'd suggest moving every other note (00:53:691 - , 00:53:966 - , 00:54:241 - , etc.) to a different column to alleviate the left hand bias in the map.
 
 There are many ways how to mod a beatmap. The more practice given, the more experience earned and styles start to form with familiarity.
 
