@@ -324,6 +324,21 @@ This competition has come to an end and resulted in the following podium:
 
 ## Match results
 
+### Grand Finals
+
+Saturday, 4 April 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Corim's Bad Dream** | **0** | -1 | Rtzero x Rtzer0 | *win by default* |
+
+Sunday, 5 April 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| a la verga | 6 | **7** | **Corim's Bad Dream** | *missing mp link* |
+| **Corim's Bad Dream** | **7** | 6 | a la verga | [#1](https://osu.ppy.sh/community/matches/60035243) |
+
 ### Finals
 
 Saturday, 28 March 2020:
