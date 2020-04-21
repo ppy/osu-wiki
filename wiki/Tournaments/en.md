@@ -168,6 +168,22 @@ Unofficial tournaments/competitions hosted by the communities.
 | [Great Singapore Tournament](GST/1) | 2019-06-18 | 2019-08-04 | Tom and Jerry | Broken Family | Ranked Score |
 | [Great Singapore Tournament 2](GST/2) | 2019-11-29 | 2020-01-19 | tamade | Mahathir bin Moh | Tom and Jerry |
 
+### ![](/wiki/shared/mode/osu.png) Royal Danish osu!Cup
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Royal Danish osu!Cup 2014](RDOC/2014) | 2014-01-16 | 2014-02-23 | ![][flag_DK] [TimG](https://osu.ppy.sh/users/1879963) | ![][flag_DK] [Tropians](https://osu.ppy.sh/users/2536611) | ![][flag_DK] [Broniel](https://osu.ppy.sh/users/3175330) |
+| [Royal Danish osu!Cup 2016](RDOC/2016) | 2016-01-09 | 2016-02-17 | ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653) | ![][flag_DK] [Zog](https://osu.ppy.sh/users/3722715) | ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138) |
+| [Royal Danish osu!Cup 2017](RDOC/2017) | 2017-02-03 | 2017-04-09 |![][flag_DK] [raser1234](https://osu.ppy.sh/users/2527887) | ![][flag_DK] [iamVill](https://osu.ppy.sh/users/6295380) | ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653) |
+| [Royal Danish osu!Cup 2018](RDOC/2018) | 2018-09-15 | 2018-10-28 | ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469) | ![][flag_DK] [Cerkie](https://osu.ppy.sh/users/2533400) | ![][flag_DK] [raser1234](https://osu.ppy.sh/users/2527887) |
+| [Royal Danish osu!Cup 2019](RDOC/2019) | 2020-02-22 | 2020-04-05 | ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469) | ![][flag_DK] [Vandabe](https://osu.ppy.sh/users/7050754) | ![][flag_DK] [Tikzyy](https://osu.ppy.sh/users/11380904) |
+
+### ![](/wiki/shared/mode/osu.png) Yuri Cup
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Yuri Cup](YC/1) | 2020-02-22 | 2020-04-05 | Corim's Bad Dream | a la verga | Rtzero x Rtzer0 |
+
 ### ![](/wiki/shared/mode/taiko.png) Asian-Oceanian Taiko Showdown
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
@@ -288,6 +304,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | :thonking: Mania Tournament | 2018-06-09 | 2018-07-15 | YaLTeR | narip | Keishii |
 | [2v2 :thonking: Mania Tournament](TMT/2TMT) | 2018-11-10 | 2018-12-23 | La pancit bois | 3 argentos y medio | PolytETral |
 
+### ![](/wiki/shared/mode/mania.png) osu!mania Asian's Champions
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu!mania Asian's Champions 2019](o!mAC/2019) | 2019-09-28 | 2019-11-10 | ![][flag_KR] [\[ R o a d \]](https://osu.ppy.sh/users/6535926) | ![][flag_TW] [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) | ![][flag_MY] [xxxxxx2800](https://osu.ppy.sh/users/4084853) |
+
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/catch.png) ![](/wiki/shared/mode/mania.png) osu!Philippines Summer Tournament
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
@@ -348,22 +370,6 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- |
 | [The iDOL@NSTER: Irvine Spring Stage](osu!_UCI/iDOL@NSTER) | 2019-05-19 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) (osu!), ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760) (osu!mania) | ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231) (osu!), ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) (osu!mania) |
 | [Night Fall LAN](osu!_UCI/NFL) | 2020-01-18 | ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150) (osu!), ![][flag_US] [-mint-](https://osu.ppy.sh/users/8976576) (osu!mania) | ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013) (osu!), ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) (osu!mania) | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) (osu!), ![][flag_CA] [Dark lord bob](https://osu.ppy.sh/users/4588299) (osu!mania) |
-
-### ![](/wiki/shared/mode/mania.png) osu!mania Asian's Champions
-
-| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| osu!mania Asian's Champions 2019 | 2019-09-28 | 2019-11-10 | ![][flag_KR] [\[ R o a d \]](https://osu.ppy.sh/users/6535926) | ![][flag_TW] [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) | ![][flag_MY] [xxxxxx2800](https://osu.ppy.sh/users/4084853) |
-
-### ![](/wiki/shared/mode/osu.png) Royal Danish osu!Cup
-
-| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Royal Danish osu!Cup 2014](RDOC/2014) | 2014-01-16 | 2014-02-23 | ![][flag_DK] [TimG](https://osu.ppy.sh/users/1879963) | ![][flag_DK] [Tropians](https://osu.ppy.sh/users/2536611) | ![][flag_DK] [Broniel](https://osu.ppy.sh/users/3175330) |
-| [Royal Danish osu!Cup 2016](RDOC/2016) | 2016-01-09 | 2016-02-17 | ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653) | ![][flag_DK] [Zog](https://osu.ppy.sh/users/3722715) | ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138) |
-| [Royal Danish osu!Cup 2017](RDOC/2017) | 2017-02-03 | 2017-04-09 |![][flag_DK] [raser1234](https://osu.ppy.sh/users/2527887) | ![][flag_DK] [iamVill](https://osu.ppy.sh/users/6295380) | ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653) |
-| [Royal Danish osu!Cup 2018](RDOC/2018) | 2018-09-15 | 2018-10-28 | ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469) | ![][flag_DK] [Cerkie](https://osu.ppy.sh/users/2533400) | ![][flag_DK] [raser1234](https://osu.ppy.sh/users/2527887) |
-| [Royal Danish osu!Cup 2019](RDOC/2019) | 2020-02-22 | 2020-04-05 | ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469) | ![][flag_DK] [Vandabe](https://osu.ppy.sh/users/7050754) | ![][flag_DK] [Tikzyy](https://osu.ppy.sh/users/11380904) |
 
 ## See also
 
