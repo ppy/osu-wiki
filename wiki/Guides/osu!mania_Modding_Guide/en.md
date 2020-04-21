@@ -21,7 +21,7 @@ The discussion page is filled with a lot of buttons, which are all explained bel
 
 First, let's start with the following row of buttons:
 
-![](img/diffs.jpg)
+![](img/difficulties.jpg)
 
 - **\[#K\] *Difficulty name*:** This opens a list of difficulties to choose from to mod. The x represents the amount of columns the map has.
 - **Mine:** Only your (the modder) posts will be displayed.
