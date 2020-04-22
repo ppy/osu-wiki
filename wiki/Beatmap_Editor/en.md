@@ -1,8 +1,6 @@
----
-needs_cleanup: true
----
-
 # Beatmap editor
+
+<!-- TODO: needs to be revisited when the articles under Beatmap editor no longer match what's written here -->
 
 *For beatmap editor shortcuts, see: [Shortcut key reference § Beatmap editor](/wiki/Shortcut_key_reference#beatmap-editor)*
 
