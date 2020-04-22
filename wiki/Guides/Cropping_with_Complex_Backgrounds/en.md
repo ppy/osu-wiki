@@ -1,4 +1,4 @@
-# Cropping with Complex Backgrounds
+# How to crop images with complex backgrounds
 
 ## Step \#1
 

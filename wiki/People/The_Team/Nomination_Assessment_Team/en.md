@@ -1,3 +1,8 @@
+---
+tags:
+  - NAT
+---
+
 # Nomination Assessment Team
 
 The **Nomination Assessment Team** (***NAT***) are the moderators of the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) (*BN*) and ensure the beatmapping side of osu! stays functional.
@@ -16,6 +21,14 @@ The NAT are responsible for a variety of mapping-related tasks that can be separ
 A member of the NAT can engage with any tasks within any subcategory that they choose, despite what their primary responsibilities may be listed as. For example, if a member of the NAT prioritizes the Structural subcategory, they are not responsible for all tasks within the subcategory and they can still help with tasks from any other subcategory.
 
 Members of the NAT primarily contributing to the evaluation subcategory are also responsible for modding at least 3 beatmaps per month. This guarantees the NAT are up to date with the modding community when evaluating Beatmap Nominators. Members who fail to meet modding activity requirements will be given a warning. If their activity does not improve within the next month, they will be removed from the NAT. Members of the NAT working on other mapping-related projects may be exempt from modding requirements on a case-by-case basis.
+
+## Promotion to the NAT
+
+Before joining the NAT, a user must be a full member of the Beatmap Nominators. Most NAT candidates are initially considered based on their commitment to helping the mapping and modding community, and further demonstration of their ability to contribute to all four subcategories of NAT responsibilities is usually the basis for being promoted.
+
+Since the majority of new NAT members will help with BN evaluation, it's important that NAT candidates are very proficient BNs and know how to assess the proficiency of others. Full BNs have the option to do mock evaluations alongside the NAT's real ones, giving them an opportunity to practice. An NAT candidate has a much better chance of being promoted if their evaluations are thorough and come to similar conclusions as the NAT's (or have supportive reasoning otherwise).
+
+The NAT keep tabs on potential NAT candidates over long periods of time, and occasionally convene to decide if a candidate should be promoted, similar to how BN evaluations are done. BNs are also allowed to ask about joining the NAT if they want to receive feedback and make sure they're being considered. However, depending on the activity and skillset of the current NAT, there may not be a need for new members. New NAT will likely be promoted only when one of the current members is becoming less active, or there are new workloads requiring more members, etc.
 
 ## Team members
 
@@ -43,12 +56,12 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 | :-- | :-- | :-- |
 | ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | Cantonese, Chinese | Evaluation |
 | ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817) | German | Evaluation |
+| ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | Thai | Evaluation |
 
 ### osu!catch
 
 | Name | Additional languages | Primary responsibilities |
 | :-- | :-- | :-- |
-| ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883) |  | Evaluation, Moderation |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)| Spanish, German | Evaluation, Moderation |
 | ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | Dutch | Evaluation |
 
@@ -68,4 +81,5 @@ The [Nomination Assessment Team group page](https://osu.ppy.sh/groups/7) lists a
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_US]: /wiki/shared/flag/US.gif "United States"

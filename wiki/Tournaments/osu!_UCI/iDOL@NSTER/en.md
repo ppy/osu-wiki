@@ -2,23 +2,21 @@
 tags:
   - 2019
   - iDOLANSTER
-  - Irvine
   - LAN
   - osu! UCI
-  - 'The iDOL@NSTER: Irvine Spring Stage'
   - UCI
   - Zotcade
 ---
 
-# iDOL@NSTER
+# The iDOL@NSTER: Irvine Spring Stage
 
 ![iDOL@NSTER Logo](img/logo.png)
 
-The **iDOL@NSTER** was an osu! and osu!mania BYOC LAN tournament hosted by [osu! UCI](/wiki/Organisations/osu!_UCI) in coordination with [The Association of Gamers at UC Irvine](https://www.facebook.com/TAGatUCI/). It took place during *Zotcade 2019*, a gaming festival held at the University of California, Irvine (*UCI*). This was osu! UCI's fourth installment of yearly LAN tournaments at Zotcade.
+**The iDOL@NSTER: Irvine Spring Stage** was an osu! and osu!mania BYOC LAN tournament hosted by [osu! UCI](/wiki/Organisations/osu!_UCI) in coordination with [The Association of Gamers at UC Irvine](https://www.facebook.com/TAGatUCI/). It took place during *Zotcade 2019*, a gaming festival held at the University of California, Irvine (*UCI*). This was osu! UCI's fourth installment of yearly LAN tournaments at Zotcade.
 
 ## Event Details
 
-![Map of the Student Center showing Moss Cove](img/student-center-map.png "Moss Cove in the Student Center")
+![Map of the Student Center showing Moss Cove](/wiki/shared/UCI-Moss-Cove-map.png "Moss Cove in the Student Center")
 
 The tournament took place on Sunday, May 19, 2019 from roughly 12 to 10 p.m. It was located in the UCI Student Center (full address: 311 W Peltason Dr, Irvine, CA 92697), room Moss Cove AB.
 
@@ -32,9 +30,9 @@ The osu!standard Loser's Finals and Grand Finals matches were livestreamed to th
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge, HyperX Cloud Alpha Headset |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | HyperX Alloy Core RGB Keyboard |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | HyperX Pulsefire FPS Mouse |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, HyperX Cloud Alpha Headset |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | HyperX Alloy Core RGB Keyboard |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | HyperX Pulsefire FPS Mouse |
 
 A special prize was rewarded to the player who held the highest aggregate score on songs from *THE iDOLM@STER: Cinderella Girls*. They received a poster card for *Anastasia*, one of the idols featured in the game.
 
@@ -42,9 +40,9 @@ A special prize was rewarded to the player who held the highest aggregate score 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge, $15 iTunes gift card, Logitech G Pro Mouse |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Logitech G Pro Mouse |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Logitech G Pro Mouse |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Profile badge, $15 iTunes gift card, Logitech G Pro Mouse |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Logitech G Pro Mouse |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Logitech G Pro Mouse |
 
 ## Organisation
 
@@ -55,7 +53,7 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
 | Map Selector | ![][flag_IE] [[KoKo]](https://osu.ppy.sh/users/5322953), ![][flag_US] [_Breeze](https://osu.ppy.sh/users/9726582), ![][flag_US] [jlin_02](https://osu.ppy.sh/users/13192092), ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459), ![][flag_US] [migin](https://osu.ppy.sh/users/11118735), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659) |
 | Streamer | ![][flag_US] [iShipxx](https://osu.ppy.sh/users/7546335), ![][flag_US] [R34pling](https://osu.ppy.sh/users/7662172) |
 | Commentator | ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459), ![][flag_US] [MyAngelNeptune](https://osu.ppy.sh/users/5290308), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659) |
-| Designer | ![][flag_US] [Skydendrin](https://skydendrin.carrd.co) |
+| Designer | ![][flag___] Skydendrin ([Carrd profile](https://skydendrin.carrd.co)) |
 | Referee | ![][flag_US] [_Breeze](https://osu.ppy.sh/users/9726582), ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350), ![][flag_US] [ilalalayou](https://osu.ppy.sh/users/3144766), ![][flag_US] [iShipxx](https://osu.ppy.sh/users/7546335), ![][flag_US] [jlin_02](https://osu.ppy.sh/users/13192092), ![][flag_US] [Kenny](https://osu.ppy.sh/users/1225459), ![][flag_US] [phamitsu](https://osu.ppy.sh/users/13045418), ![][flag_US] [Riku on osu](https://osu.ppy.sh/users/3071659) |
 
 ## Links
@@ -101,9 +99,9 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] [Mathyu](https://osu.ppy.sh/users/6303313) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [death grips](https://osu.ppy.sh/users/4829231) |
 
 ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) also won the special *iDOLM@STER* prize.
 
@@ -111,9 +109,9 @@ The iDOL@NSTER was run by various osu! community members at UCI or visiting for 
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] [Crescendo PiaNo](https://osu.ppy.sh/users/8798383) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] [Trainer-](https://osu.ppy.sh/users/9331760) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [Ouchiee](https://osu.ppy.sh/users/6310052) |
 
 ## Mappools
 
@@ -504,5 +502,6 @@ Both tournaments will use a standard double-elimination format for playoffs.
 3. Players will have their computers inspected prior to the beginning of matches to ensure that there are no illegal programs running at the time.
 4. Under no circumstances are players allowed to touch the peripherals or computer of another without explicit permission.
 
-[flag_IE]: /wiki/shared/flag/IE.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag___]: /wiki/shared/flag/__.gif
+[flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
+[flag_US]: /wiki/shared/flag/US.gif "United States"

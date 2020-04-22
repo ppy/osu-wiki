@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu! Monthly Beatmapping Contest #1"
-date: 2014-09-06 00:00:00 +0000
+date: 2013-09-06 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/60440803370/osu-monthly-beatmapping-contest-1
 ---
 
@@ -299,7 +299,7 @@ Aufruf an alle Mapper! Zeig uns dein Können und erhalte die Chance, dass deine 
 
 ## Правила
 
-*   Все мапсеты и их сложности должны удовлетворять [критериям ранкинга](https://t.umblr.com/redirect?z=http%3A%2F%2Fosu.ppy.sh%2Fwiki%2FRU%3ARanking_Criteria&t=YmUwMTgzYjMyMGVlMGJkNDM1ZTNjMzc2Y2YzMjc2MzNjODliNzIxNix2NklEdVhMbw%3D%3D&b=t%3AIzBfiACgMyVf9sEXdmjc5g&p=http%3A%2F%2Fosunews.tumblr.com%2Fpost%2F60440803370%2Fosu-monthly-beatmapping-contest-1&m=1).
+*   Все мапсеты и их сложности должны удовлетворять [критериям ранкинга](/wiki/Ranking_Criteria).
 *   Все мапсеты должны содержать **4 сложности (набор ENHI _обязателен_).**
 *   Все сложности должны быть замапаны для **стандартного режима игры**.
 *   Коллабы и гостевые сложности разрешены, но имена участников не указываются (никаких "x's Hard" и тому подобных названий).

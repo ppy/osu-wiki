@@ -27,9 +27,9 @@ tags:
 
 | 등수 | 상품 |
 | :-: | :-- |
-| ![금메달](/wiki/shared/GCrown.png "1등") | 프로필 배지, 팀 배너 |
-| ![은메달](/wiki/shared/SCrown.png "2등") | 팀 배너 |
-| ![동메달](/wiki/shared/BCrown.png "3등") | 팀 배너 |
+| ![금메달](/wiki/shared/crown-gold.png "1등") | 프로필 배지, 팀 배너 |
+| ![은메달](/wiki/shared/crown-silver.png "2등") | 팀 배너 |
+| ![동메달](/wiki/shared/crown-bronze.png "3등") | 팀 배너 |
 
 ![AGTS 2019 우승자 배지](img/badge.png)
 
@@ -114,9 +114,9 @@ AGTS 2019는 여러 국적의 커뮤니티 사람들이 서로 역할을 나누�
 
 | 등수 | 국가 |
 | :-: | :-- |
-| ![금메달](/wiki/shared/GCrown.png "1등") | ![][flag_JP] 일본 |
-| ![은메달](/wiki/shared/SCrown.png "2등") | ![][flag_CA] 캐나다 |
-| ![동메달](/wiki/shared/BCrown.png "3등") | ![][flag_RU] 러시아 A |
+| ![금메달](/wiki/shared/crown-gold.png "1등") | ![][flag_JP] 일본 |
+| ![은메달](/wiki/shared/crown-silver.png "2등") | ![][flag_CA] 캐나다 |
+| ![동메달](/wiki/shared/crown-bronze.png "3등") | ![][flag_RU] 러시아 A |
 
 ---
 

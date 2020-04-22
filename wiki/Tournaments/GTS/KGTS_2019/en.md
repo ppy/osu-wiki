@@ -24,7 +24,7 @@ The **Katacheh Global Taiko Showdown 2019** (***KGTS 2019***) was a double-elimi
 
 | Placing | Prize |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
 ![KGTS 2019 Winner Badge](img/badge.png)
 
@@ -70,9 +70,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_ES] [Maitgon](https://osu.ppy.sh/users/4875451) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_ES] [Maitgon](https://osu.ppy.sh/users/4875451) |
 
 ---
 

@@ -28,9 +28,9 @@ The **osu! World Cup 2019** (***OWC 2019***) was a country-based osu! tournament
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/GCrown.png "1st place") | US$300 per team member, exclusive single-run merch, profile badge, "osu! Champion" user title for one year |
-| ![Silver crown](/wiki/shared/SCrown.png "2nd place") | US$160 per team member, exclusive single-run merch, profile badge |
-| ![Bronze crown](/wiki/shared/BCrown.png "3rd place") | US$80 per team member, exclusive single-run merch, profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | US$300 per team member, exclusive single-run merch, profile badge, "osu! Champion" user title for one year |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$160 per team member, exclusive single-run merch, profile badge |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$80 per team member, exclusive single-run merch, profile badge |
 
 ![OWC 2019 winner badge](img/badge.png) ![OWC 2019 2nd place badge](img/badge2.png) ![OWC 2019 3rd place badge](img/badge3.png)
 
@@ -571,7 +571,6 @@ Sunday, 17 November 2019:
 [flag_SE]: /wiki/shared/flag/SE.gif
 [flag_SG]: /wiki/shared/flag/SG.gif
 [flag_SK]: /wiki/shared/flag/SK.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_US]: /wiki/shared/flag/US.gif

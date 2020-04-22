@@ -1,8 +1,8 @@
-# Music Theory
+# Music theory guide
 
-[Original guide by ziin](https://osu.ppy.sh/forum/viewtopic.php?f=56&t=58959)
+*[Original guide by ziin](https://osu.ppy.sh/community/forums/topics/58959)*
 
-Osu! is primarily a music game, and beatmaps are usually created with the idea that they fit the music, rather than fitting a certain BPM. In this short essay I will be discussing music theory as it applies to an osu! beatmap, as well as explaining why certain things sound bad (at least to me). In no way can the matters discussed even be considered “guidelines”. Instead, think of it as theory. Most of the time they will apply to some parts of songs, but there are many exceptions. Everything I say here is personal opinion based upon 12+ years of concert band experience or taken directly from Wikipedia. It can’t be applied to all forms of music, especially avant garde stuff and most Touhou music (so, half of osu?)
+osu! is primarily a music game, and beatmaps are usually created with the idea that they fit the music, rather than fitting a certain BPM. In this short essay I will be discussing music theory as it applies to an osu! beatmap, as well as explaining why certain things sound bad (at least to me). In no way can the matters discussed even be considered “guidelines”. Instead, think of it as theory. Most of the time they will apply to some parts of songs, but there are many exceptions. Everything I say here is personal opinion based upon 12+ years of concert band experience or taken directly from Wikipedia. It can’t be applied to all forms of music, especially avant garde stuff and most Touhou music (so, half of osu?)
 
 ## Part 1: Breakdown of common time and techniques
 
@@ -10,17 +10,15 @@ Osu! is primarily a music game, and beatmaps are usually created with the idea t
 
 ### Downbeat, onbeat
 
--   From Wikipedia
-    -   The downbeat is the impulse that occurs at the beginning of a bar in measured music. Its name is derived from the downward stroke of the director or conductor's baton on the first beat of each measure. It frequently carries the strongest accent of the rhythmic cycle.
+The downbeat is the impulse that occurs at the beginning of a bar in measured music. Its name is derived from the downward stroke of the director or conductor's baton on the first beat of each measure. It frequently carries the strongest accent of the rhythmic cycle.
 
 ### Backbeat, upbeat, sometimes called offbeat
 
--   From Wikipedia
-    -   A back beat, or backbeat, is a syncopated accentuation on the "off" beat. In a simple 4/4 rhythm these are beats 2 and 4… In today's popular music the snare drum is typically used to play the backbeat pattern. This is why putting claps on beats 2 and 4 *sounds good*. Most contemporary music uses a snare backbeat. Some songs will add a kick to the backbeat by moving the second beat up by half a beat (so beats 2 and 3.5).
+A back beat, or backbeat, is a syncopated accentuation on the "off" beat. In a simple 4/4 rhythm these are beats 2 and 4… In today's popular music the snare drum is typically used to play the backbeat pattern. This is why putting claps on beats 2 and 4 *sounds good*. Most contemporary music uses a snare backbeat. Some songs will add a kick to the backbeat by moving the second beat up by half a beat (so beats 2 and 3.5).
 
 ### Dropping the beat
 
--   This is where the downbeat (usually) is omitted, or dropped. By dropping the beat in a faster song, tension is usually created. Often times only one particular instrument will drop the beat, when others play as normal. Dropping the beat can be an interesting way to make up a rhythm, but should not be overused. Another way to simulate this is by using upbeat or offbeat sliders.
+This is where the downbeat (usually) is omitted, or dropped. By dropping the beat in a faster song, tension is usually created. Often times only one particular instrument will drop the beat, when others play as normal. Dropping the beat can be an interesting way to make up a rhythm, but should not be overused. Another way to simulate this is by using upbeat or offbeat sliders.
 
 ## Part 2: Sliders
 
@@ -76,13 +74,13 @@ Songs which only use onbeat sliders are destined to be boring, so make sure you 
 
 My definition of [overmapping](/wiki/Glossary) is placing a note or slider end where no note exists in the background. There are a few reasons to overmap:
 
--   The rhythm is too difficult for normal/fun play.
-    -   This often happens with songs which use triplets in 1/6 snap, and the mapper simplifies it to 1/4th.
--   The background music is rushing or slowing down and differs from where it obviously should be.
-    -   This doesn’t usually happen, and usually you shouldn’t map parts that are not snapped correctly
--   The song is in a swing time signature, but the mapper hates 1/6.
-    -   I don’t consider this a valid excuse and will vote 1 automatically.
--   The song is boring and needs some made up rhythms to keep in interesting.
+- The rhythm is too difficult for normal/fun play.
+  - This often happens with songs which use triplets in 1/6 snap, and the mapper simplifies it to 1/4th.
+- The background music is rushing or slowing down and differs from where it obviously should be.
+  - This doesn’t usually happen, and usually you shouldn’t map parts that are not snapped correctly
+- The song is in a swing time signature, but the mapper hates 1/6.
+  - I don’t consider this a valid excuse and will vote 1 automatically.
+- The song is boring and needs some made up rhythms to keep in interesting.
 
 Chances are you’re mapping it wrong then.
 

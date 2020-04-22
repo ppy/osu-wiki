@@ -1,4 +1,4 @@
-# Article Styling Criteria
+# Article styling criteria
 
 *For news posts, see: [News Styling Criteria](/wiki/News_Styling_Criteria)*
 
@@ -17,7 +17,7 @@ The ASC only applies to files saved in the `wiki` directory.
 Listed below are the properly-supported locales for the osu! wiki. The file name is the two character language code ([ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes "Wikipedia")) followed by `.md`. If there is a country variance of a language, the file name is the two character language code ([ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes "Wikipedia")) followed by a hyphen (`-`), the two character country code ([ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 "Wikipedia")), then `.md`.
 
 | File Name | Locale Name | Native Script |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | `en.md` | English | English |
 | `be.md` | Belarusian | Беларуская мова |
 | `bg.md` | Bulgarian | Български |

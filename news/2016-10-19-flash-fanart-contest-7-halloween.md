@@ -9,7 +9,7 @@ Halloween draws near. A time of spooks and thrills, and most of all - a new FLAS
 
 Given the tremendous reception to the last fanart contest, we're excited to host another one, this time with the theme being **'the mascots in Halloween'**. To spice things up a bit, **this also includes the community-submitted mascots for the previous contests**, even the ones that didn't win. If you've forgotten them already (how could you?), head on over to the [fanart contest #6 page](https://osu.ppy.sh/community/contests/2) and refresh your memory.
 
-Unlike the other contest though, this one's a *flash* contest, meaning that we totally didn't get lost in organizing this [due to the hype surrounding a certain new ranking mode](https://osu.ppy.sh/news/151925254083) or anything. Instead, the contest is going to happen very quickly.
+Unlike the other contest though, this one's a *flash* contest, meaning that we totally didn't get lost in organizing this [due to the hype surrounding a certain new ranking mode](https://osu.ppy.sh/home/news/2016-10-17-here-comes-the-love) or anything. Instead, the contest is going to happen very quickly.
 
 What this actually means is that from the date of this post, the contest will only be open for **7 days, until October 26 23:59:59 NYC.**
 

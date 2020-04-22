@@ -3,7 +3,7 @@ outdated: true
 ---
 <!-- TODO: there are more relevant guides these days. -->
 
-# Guides and Important Threads
+# Skinning guides and important threads
 
 List of guides and important threads, created by the community.
 
@@ -29,7 +29,7 @@ List of guides and important threads, created by the community.
 ## Collections
 
 - [Skinnable files list](https://osu.ppy.sh/community/forums/topics/186787) by [Haskorion](https://osu.ppy.sh/users/3252321)
-- [(pro) Players skin compendium](https://osu.ppy.sh/community/forums/topics/87675) by [fartownik](/ttps://osu.ppy.sh/users/56917)
+- [(pro) Players skin compendium](https://osu.ppy.sh/community/forums/topics/87675) by [fartownik](https://osu.ppy.sh/users/56917)
 - [Completed skins compendium](https://osu.ppy.sh/community/forums/topics/686664 ) by [RockRoller](https://osu.ppy.sh/users/8388854)
 - [Custom taiko characters](https://osu.ppy.sh/community/forums/topics/36001) by [Roga-don](https://osu.ppy.sh/users/159997)
 - [Custom catch the beat characters](https://osu.ppy.sh/community/forums/topics/16155) by [Rolled](https://osu.ppy.sh/users/5243)

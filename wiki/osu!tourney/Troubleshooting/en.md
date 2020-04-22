@@ -1,8 +1,9 @@
 ---
 needs_cleanup: true
 ---
+<!-- TODO: same problem as FAQ page. organizing articles with only questions renders it useless beyond direct section links -->
 
-# Troubleshooting
+# osu!tourney troubleshooting
 
 ## How do I create a fresh osu! installation without uninstalling the current game?
 

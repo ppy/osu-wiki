@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # osu! Alumni
 
 **osu! Alumni**는 게임에 기여를 하고 떠나간 사람들입니다. 돈만 충분하다면 마을 광장에 동상을 하나 세웠을 거에요.
@@ -258,7 +262,6 @@
 [flag_PE]: /wiki/shared/flag/PE.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
 [flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PT]: /wiki/shared/flag/PT.gif
 [flag_RU]: /wiki/shared/flag/RU.gif
 [flag_SE]: /wiki/shared/flag/SE.gif
 [flag_SG]: /wiki/shared/flag/SG.gif

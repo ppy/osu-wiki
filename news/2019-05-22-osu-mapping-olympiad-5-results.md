@@ -11,7 +11,7 @@ The results for the second osu!standard Mapping Olympiad contest are in! See who
 This installment of the Mapping Olympiad contest challenged mappers to create a pair of difficulties for *[Virtual Self](https://osu.ppy.sh/beatmaps/artists/28)*'s EON BREAK. As an additional challenge, participants were asked to showcase different mapping styles between the two entries to demonstrate their creativity, in reference to the two personas 'Pathselector' and 'technic-Angel' that make up *Virtual Self*. Below are the results: 
 
 | Rank | Username             | Entry Name             | Musical Relevance (40) | Creativity (60) | Technique (40) | Impression (40) | Hitsounding (20) | Score |
-|------|----------------------|------------------------|------------------------|-----------------|----------------|-----------------|------------------|-------|
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | #1   | Necho & Ryuusei Aika | Casual Vole            | 34.5                   | 48.5            | 35             | 36              | 14               | **168**   |
 | #2   | yaspo                | Resilient Bufflehead   | 31.5                   | 52              | 27.5           | 34              | 16.5             | **161.5** |
 | #3   | J1_ & how2miss       | Contemptible Crocodile | 32.5                   | 45              | 35             | 33              | 11.5             | **157**   |

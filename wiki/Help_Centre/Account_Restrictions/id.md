@@ -21,7 +21,7 @@ Jika akun Anda telah dibatasi, jangan panik. Silakan ikuti langkah-langkah di ba
 - **Hubungi tim dukungan kami.** Jika akun Anda tetap dibatasi setelah melewati 1x24 jam, silakan kirim email ke [accounts@ppy.sh](mailto:accounts@ppy.sh) **menggunakan alamat email yang digunakan saat membuat akun Anda** untuk meminta rincian pembatasan Anda. Pastikan Anda memasukkan nama pengguna Anda, disertai dengan setiap rincian yang dapat Anda berikan mengenai apa yang mungkin membuat akun Anda dibatasi. Semakin banyak Anda memberi tahu kami, semakin mudah bagi kami untuk menyelesaikan masalah.
 - Jika menurut Anda pembatasan yang Anda terima merupakan kekeliruan, mohon hubungi kami secepatnya supaya kasus Anda bisa dibicarakan.
 
-Jika akun Anda dibatasi karena telah melanggar [peraturan osu!](/wiki/rules), akan diterapkan masa tunggu selama tiga bulan sebelum Anda diizinkan mengirimkan naik banding.
+Jika akun Anda dibatasi karena telah melanggar [peraturan osu!](/wiki/Rules), akan diterapkan masa tunggu selama tiga bulan sebelum Anda diizinkan mengirimkan naik banding.
 
 Jika akun asli Anda tidak dibatasi, Anda dapat masuk dan terus bermain seperti biasa. Tetapi pastikan untuk tidak masuk menggunakan akun lain yang Anda miliki, karena dapat berujung ke sanksi yang lebih berat.
 

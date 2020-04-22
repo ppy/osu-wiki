@@ -1,4 +1,4 @@
-# Making Properly Centered Spinners
+# How to make properly centered spinners in skins
 
 [*How to make spinners symmetrical* by: ziin](https://osu.ppy.sh/community/forums/topics/51502)
 
@@ -8,7 +8,7 @@ This guide is probably hard to understand for people with little experience with
 
 It's tiring to see wobbly spinners. Please, if you want to make a spinner, make sure it's perfectly centered.
 
-First open up your image editor, in this guide [GIMP](http://www.gimp.org/) will be used, since it's free.
+First open up your image editor, in this guide [GIMP](https://gimp.org) will be used, since it's free.
 
 Make a new document. The template skin is 666x666, and while it's safe to go over that limit, **spinners can cause lots of lag on slow computers, so it's best to make it under that limit**. Make the document 664x664, so that when we are done, we can pad the edges with transparency, which lets osu! know that it can anti-alias the border, rather than make it a straight edge.
 

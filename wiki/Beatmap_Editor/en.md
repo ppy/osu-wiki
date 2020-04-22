@@ -2,9 +2,9 @@
 needs_cleanup: true
 ---
 
-# Beatmap Editor
+# Beatmap editor
 
-*For Beatmap Editor shortcuts, see: [Shortcut key reference § Beatmap editor](/wiki/Shortcut_key_reference#beatmap-editor)*
+*For beatmap editor shortcuts, see: [Shortcut key reference § Beatmap editor](/wiki/Shortcut_key_reference#beatmap-editor)*
 
 The **beatmap editor** is osu!'s in-game graphical interface for creating [beatmaps](/wiki/Beatmaps). [Beatmapping](/wiki/Beatmapping) is the act of creating levels for osu!.
 

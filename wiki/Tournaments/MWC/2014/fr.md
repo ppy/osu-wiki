@@ -11,7 +11,7 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
 ## Calendrier
 
 | Event                   | Timestamp          |
-|-------------------------|--------------------|
+| :-- | :-- |
 | Inscription des équipes | 1-20 Juilletl 2014 |
 | Tirages aux sorts       | 2 Août 2014        |
 | Phase de poules (4K)    | 9-10 Août 2014     |
@@ -24,15 +24,15 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
 ## Prix
 
 | Placing                                                    | Prize(s)                                                                                                                    |
-|------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | Statut de supporter pendant 6 mois, un badge sur le profil, produits dérivés d'osu!, titre personalisé "osu!mania champion" |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Statut de supporter pendant 3 mois                                                                                          |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | Statut de supporter pendant 1 mois                                                                                          |
+| :-- | :-- |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | Statut de supporter pendant 6 mois, un badge sur le profil, produits dérivés d'osu!, titre personalisé "osu!mania champion" |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Statut de supporter pendant 3 mois                                                                                          |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Statut de supporter pendant 1 mois                                                                                          |
 
 ## Organisation
 
 | Job                       | Person(s)                                                                                                                                                                                                                                                                                                                                     |
-|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- |
 | Direction                 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)                                                                                                                                                  |
 | Séléction des beatmaps    | ![][flag_RU] [\[Shi-Ra\]](https://osu.ppy.sh/users/2008489) // ![][flag_CL] [Agka](https://osu.ppy.sh/users/64811)                                                                                                                                                                                                            |
 | Retransmission des matchs | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257)                                                                                                                                                 |
@@ -85,8 +85,8 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
         2.  Si votre pays s'enregistre pour le tournoi 4K elle n'est pas obligée de s'inscrire aussi pour le tournoi 7K et vice-versa.
 
 2.  Chaque équipe doit représenter un pays. Les joueurs constituant l'équipe doivent provenir de ce pays.
-3.  L'inscription des équipes doit être réalisée par le biais de [ce formulaire](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY). Il est impératif de confirmer une équipe en [envoyant un message privé à Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) intitulé “MWC Registration”
-    -   Les capitaines peuvent changer leurs équipes en [en informant la direction](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
+3.  L'inscription des équipes doit être réalisée par le biais de [ce formulaire](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY). Il est impératif de confirmer une équipe en [envoyant un message privé à Loctav](https://osu.ppy.sh/home/messages/users/71366) intitulé “MWC Registration”
+    -   Les capitaines peuvent changer leurs équipes en [en informant la direction](https://osu.ppy.sh/home/messages/users/71366).
 
 4.  Tous les participants d'une équipe sont soumis à un contrôle de sécurité par la direction avant d'être officiellement intégrés.
 5.  32 équipes maximum sont autorisées à participer dans chaque tournoi.

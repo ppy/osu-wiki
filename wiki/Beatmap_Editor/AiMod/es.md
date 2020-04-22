@@ -8,30 +8,19 @@ Después de que AiMod revise su mapa de ritmo (debería tomar menos de un minuto
 
 ## Pestañas
 
-**All**
-
--   Recopila los elementos de las otras pestañas.
-
-**Compose**
-
-- Estos generalmente son problemas con la colocación de objetos.
-    -   Es posible que tengas que marcar la casilla  "Check distance snap" para que aparezcan estas advertencias (mientras escanea se podria producir lag, dependiento del tamaño/longitud del beatmap)
-
-**Design**
-
--   Estos suelen ser algunos de los problemas de interfaz, como el fondo, storyboard, etc.
-
-**Timing**
-
--   Cuando aparecen estos problemas, verifica la línea de tiempo porque es probable que algo esté mal colocado.
-
-**Meta**
-
--   Cuando aparezcan estos problemas, revisa la configuración de la canción.
-
-**Mapset**
-
--   Estos problemas afectan al mapset en su conjunto.
+- **All**
+  - Recopila los elementos de las otras pestañas.
+- **Compose**
+  - Estos generalmente son problemas con la colocación de objetos.
+    - Es posible que tengas que marcar la casilla  "Check distance snap" para que aparezcan estas advertencias (mientras escanea se podria producir lag, dependiento del tamaño/longitud del beatmap)
+- **Design**
+  - Estos suelen ser algunos de los problemas de interfaz, como el fondo, storyboard, etc.
+- **Timing**
+  - Cuando aparecen estos problemas, verifica la línea de tiempo porque es probable que algo esté mal colocado.
+- **Meta**
+  - Cuando aparezcan estos problemas, revisa la configuración de la canción.
+- **Mapset**
+  - Estos problemas afectan al mapset en su conjunto.
 
 ## Mensajes
 
@@ -42,32 +31,30 @@ Después de que AiMod revise su mapa de ritmo (debería tomar menos de un minuto
 #### All
 
 | Mensaje | Explicación| Solución |
-| ------ | ------------- | --------|
+| :-- | :-- | :-- |
 | ¡No se encontraron problemas en este mapa! | ¡AiMod no pudo encontrar ningun problema con tu mapa! | Podrias subir tu beatmap usando BSS para permitir que los osu!modders encuentren otros errores y problemas con tu beatmap. |
 
 #### Meta
 
-|Mensaje | Explicación | Solución |
-| ------ | ------------- | -------- |
+| Mensaje | Explicación | Solución |
+| :-- | :-- | :-- |
 | Se recomienda que la tasa de HP para Fácil/Normal sea como mínimo 4. | ¡Mapas de osu!mania solamente! | Ve a "Song Settings" y configura la velocidad de HP en 4 o superior |
 | Se recomienda que la tasa de HP para Difícil y superior sea de al menos 7. | ¡Mapas de osu!mania solamente! | Ve a "Song Settings" y configura la frecuencia de HP en 7 o superior |
 | Se sugiere que la tasa de OD para mapas con pocos sliders sea al menos 7. | ¡Mapas de osu!mania solamente! | Ve a "Song Settings" y configura la tasa de OD en 7 o más |
 | La velocidad del control deslizante debe ser 1.40 o 1.60. | ¡Mapas de osu!taiko solamente! | Ve a la pestaña "Timing" y cambia la Velocidad de los sliders a 1.40 o 1.60 |
-
-
 
 ### Errors
 
 #### Compose
 
 | Mensaje | Explicación | Solución |
-| ------ | ------------- | -------- |
+| :-- | :-- | :-- |
 | ¡Estos dos objetos están a menos de 10ms de distancia! | Dos objetos están muy cerca uno del otro. Esto significa que el jugador tendrá que hacer clic a una velocidad imposible. | Encuentra los dos objetos, muévelos o elimínalos. |
 
 #### Design
 
 | Mensaje | Explicación | Solución |
-| ------ | ------------- | -------- |
+| :-- | :-- | :-- |
 | Tu beatmap no tiene una imagen de fondo. | ¡La dificultad actual no tiene una imagen de fondo! Ten en cuenta que los videos no cuentan como imágenes de fondo porque no es necesario que el usuario los descargue | Encuentra una imagen adecuada y úsala como imagen de fondo. |
 
 ### Warnings
@@ -75,7 +62,7 @@ Después de que AiMod revise su mapa de ritmo (debería tomar menos de un minuto
 #### Compose
 
 | Mensaje | Explicación | Solución |
-| ------ | ------------- | -------- |
+| :-- | :-- | :-- |
 | Este control deslizante se mueve de forma anormal. | | |
 | Este combo es muy largo. Considera dividirlo. | La duración de los combos puede afectar la dificultad del mapa, así como la cantidad de frutas que se apilarán en el plato del receptor. | Ve a "offending combos" y decide dónde comenzar el nuevo combo. (Se prefiere que la duración de los combos sea, como máximo 15-18) |
 | Esta ruleta aparece en la pantalla más tarde que los objetos que lo siguen. | Los objetos aparecen mientras la ruleta está activa. Esto podría ser causado por tener baja AR y/o colocar objetos demasiado cerca (en el tiempo) a la ruleta. | Cambia la longitud de la ruleta y/o elimina los siguientes objetos |
@@ -96,7 +83,7 @@ Después de que AiMod revise su mapa de ritmo (debería tomar menos de un minuto
 #### Design
 
 | Mensaje | Explicación | Solución |
-| ------ | ------------- | -------- |
+| :-- | :-- | :-- |
 | La imagen de fondo es más grande que 1366x768. | | |
 | Este mapa puede necesitar una advertencia de epilepsia, ya que contiene storyboard con frecuencias cambiantes. | | |
 | Falta archivo: | | |
@@ -107,7 +94,7 @@ Después de que AiMod revise su mapa de ritmo (debería tomar menos de un minuto
 #### Timing
 
 | Mensaje | Explicación | Solución |
-| ------ | ------------- | -------- |
+| :-- | :-- | :-- |
 | Todas las secciones de tiempo tienen un volumen por debajo del 5%. | | |
 | Este beatmap tiene más de 6 minutos de duración. Considera acortarlo si no es un mapa de estilo maratón. | | |
 | Su beatmap es más corto que 45 segundos. Considera hacerlo más largo. | | |
@@ -134,7 +121,7 @@ Después de que AiMod revise su mapa de ritmo (debería tomar menos de un minuto
 #### Meta
 
 | Mensaje | Explicación | Solución |
-| ------ | ------------- | -------- |
+| :-- | :-- | :-- |
 | La acumulación en pilas es mayor que 0,9 o menor que 0,3. | | |
 | El artista romanizado contiene unicode. | | |
 | El título romanizado contiene unicode. | | |
@@ -149,7 +136,7 @@ Después de que AiMod revise su mapa de ritmo (debería tomar menos de un minuto
 #### Mapset
 
 | Mensaje | Explicación | Solución |
-| ------ | ------------- | -------- |
+| :-- | :-- | :-- |
 | El artista entra en conflicto con la dificultad {0}. | | |
 | El archivo de audio entra en conflicto con la dificultad {0}. | | |
 | La cuenta regresiva está en conflicto con la dificultad {0}. | | |

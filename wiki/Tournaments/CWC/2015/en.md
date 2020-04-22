@@ -29,9 +29,9 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 6 months of osu!supporter tag, unique profile badge, special user title, osu! merchandise |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 months of osu!supporter tag, unique profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag, unique profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, unique profile badge, special user title, osu! merchandise |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag, unique profile badge |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag, unique profile badge |
 
 ## Organisation
 
@@ -416,7 +416,7 @@ The osu! Catch the Beat World Cup 2015 was run by various community members by d
    - Every registered user will be assigned to their respective country's candidate list.
    - To be successfully accepted on the list, you have to ensure that your global Catch the Beat performace ranking is above \#5000.
    - To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
-3. For signing up, [send a PM to Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “CWC Registration”.
+3. For signing up, [send a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “CWC Registration”.
    - You get a confirmation reply if your registration successfully arrived. Your registration is in pending then.
 4. All successfully formed teams will be published after the Registration Phase.
 5. Mapset selectors may not participate as a player in this tournament.

@@ -67,7 +67,7 @@ Richtlinien sind wichtig und sollten für alle Beatmaps möglichst befolgt werde
 Note: 1K, 2K, 3K und 10K wurden eingefügt, sind momentan jedoch NICHT Rankable Alles ab 10K kann nur im Co-Op Modus gespielt werden.
 
 | Keys (CS)                                              | Game                                                                            |
-|--------------------------------------------------------|---------------------------------------------------------------------------------|
+| :-- | :-- |
 | 1K                                                     | Vuvu Hero                                                                       |
 | 2K                                                     | O2Jam U (2K)                                                                    |
 | 3K                                                     | TapTap                                                                          |

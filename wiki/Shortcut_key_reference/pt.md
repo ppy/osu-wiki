@@ -141,7 +141,7 @@ outdated: true
 -   **J/K**: Move notas para divisória anterior/seguinte
 -   **G**: Alterna o nível de grade de colocação de notas (grid)
 -   **Ctrl+1-4**: Níveis de Grade (tiny,small,medium,large)
--   **Ctrl+ &lt;,&gt;**: Giro de 180 graus para a Esquerda/Direita
+-   **Ctrl+ <,>**: Giro de 180 graus para a Esquerda/Direita
 -   **Ctrl+H,J**: Giro Horizontal/Vertical
 
 #### Modo Timing

@@ -1,4 +1,4 @@
-# osu!mania Mapping Guide
+# osu!mania mapping guide
 
 ## Prologue
 
@@ -34,7 +34,7 @@ As stated, the editor allows a customizable amount of columns. For simplicity, t
 
 **7. Beat Snap Divisor**: Using the slider, you can select the beat snap you wish to map in. The slider goes from 1/1 to 1/16, most mappers commonly use 1/4.
 
-Specifics on what snaps should be used for ranking are detailed in the [osu!mania ranking criteria](https://osu.ppy.sh/help/wiki/Ranking_Criteria/osu!mania).
+Specifics on what snaps should be used for ranking are detailed in the [osu!mania ranking criteria](/wiki/Ranking_Criteria/osu!mania).
 
 *Shortcut:* `Ctrl + MouseScrollWheel`
 
@@ -55,12 +55,12 @@ Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new ma
 ![Song Setup](img/Song_Setup.png "Song Setup")
 
 | Name | Description |
-| ---- | ----------- |
+| :-- | :-- |
 | Artist: | Here you'll have to add the original name of your songs Artist. No matter if it is Japanese, German or Russian. If the name of the artist has at least one special character you must add it here! As an example: If your artist name is "Die Ärzte" you must add it here because of the "Ä". |
 | Romanised Artist: | Here you have to add the romanised artist name, which translates to the original artist name in Roman (Latin) script. With our example used earlier, it would be "Die Aerzte" because the "Ä" is translated to "Ae". If your artist name does not include any special characters in its name, this field will be filled out automatically. |
 | Title & Romanised Title: | Exactly the same thing as with artist, but with the title of the song. |
 | Beatmap Creator: | This field is automatically filled out with your name when you are signed in into osu!. If you are not online at the time of creating the beatmap, add your name there. |
-| Difficulty: | [**Ranking Criteria Difficulty Naming Rules**](https://osu.ppy.sh/help/wiki/Ranking_Criteria#beatmapset) You specify the difficulty's name here. As a guide, the standard difficulty names for osu!mania are "Easy", "Normal", "Hard", "Insane" and "Expert". If your song is from an other game you can use the difficulty names of that game! For example Sound Voltex, which uses the following names for their respective difficulties: "BASIC", "NOVICE", "ADVANCED", "EXHAUST", "INFINITE", "GRAVITY".  For custom names, refer to the ranking criteria linked above. |
+| Difficulty: | [**Ranking Criteria Difficulty Naming Rules**](/wiki/Ranking_Criteria#beatmapset) You specify the difficulty's name here. As a guide, the standard difficulty names for osu!mania are "Easy", "Normal", "Hard", "Insane" and "Expert". If your song is from an other game you can use the difficulty names of that game! For example Sound Voltex, which uses the following names for their respective difficulties: "BASIC", "NOVICE", "ADVANCED", "EXHAUST", "INFINITE", "GRAVITY".  For custom names, refer to the ranking criteria linked above. |
 | Source: | Here, you have to add where your song comes from. Is it from another game? Or an anime? Perhaps a TV-show? Add it here! For example: If your song comes from Sound Voltex, you have to add it here. Keep in mind that it has to be the exact name of the game! |
 | Tags: | You can add additional information about your song here. For example, album names or producers. Everything that helps to find your song in the beatmap listing. You also have to add the names of every osu! mapper who made a difficulty in your mapset as well.  Tags are separated by spaces.|
 
@@ -69,7 +69,7 @@ Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new ma
 ![Difficulty tab](img/Difficulty.png "Difficulty tab")
 
 | Name | Description |
-| ---- | ----------- |
+| :-- | :-- |
 | HP Drain Rate (HP): | A higher value means a more punishing drain and a lower recovery, vice versa. A commonly used HP value would be **7** *Note: Only 50 or Misses will drain HP*|
 | Key Count: | Here you have to set the key count in which you want to map. In this Guide I will use 4K. Note that only 4K, 5K, 6K, 7K, 8K and 9K maps are rankable. The checkbox "Co-Op" can be selected when you choose 5K and above,  doubling the keycount. This allows you to play with a friend on one keyboard. |
 | Approach Rate: | This point is not used in osu!mania and you can ignore it. |
@@ -80,7 +80,7 @@ Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new ma
 ![Design tab](img/Design.png "Design tab")
 
 | Name | Description |
-| ---- | ----------- |
+| :-- | :-- |
 | Countdown: | Here you can set a countdown for your map. It is not recommended to enable it. |
 | Widescreen Support: | This box should only be enabled when your map has a widescreen storyboard. |
 | Display Epilepsy Warning: | Should you use a storyboard with rapidly flashing lights, it's very important to enable this box! This warns the player about the storyboard so he can disable it or increase the Background Dim. |
@@ -91,7 +91,7 @@ Alright! Let's drag the `.mp3` of the song we want to map into osu! and a new ma
 ![Advanced tab](img/Advanced.png "Advanced tab")
 
 | Name | Description |
-| ---- | ----------- |
+| :-- | :-- |
 | Stacking: | This point has no effect for osu!mania so no need to change anything here. |
 | Allowed Modes: | With this point, you change the mode of the editor to the one you want to use for your map. This guide is about osu!mania so we use "osu!mania" of course. Should you choose "All", your editor will be set to osu!standard.  **Changing this option while in an existing osu!mania map will overwrite the map.** |
 | Use special Style (N+1 style) for osu!mania: | If you map in a keymode which uses a special key (5K and 8K) you can enable this point. This allows the player to swap the **special column** to their left or right depending on their settings. Known in "BMS" as the "Scratch Column", it is commonly used in 7+1K (8K) osu!mania. Mapping 7+1K is akin to mapping a 7K map, but an extra **special column** is generated for the mapper's discretion. |
@@ -101,43 +101,51 @@ The point **Colours** is not used in osu!mania so we don't need to change anythi
 The point **Audio** will be explained in the part "Hitsounds"
 
 ### Timing
+
 Once we finished our song setup we need to time our song. The timing set must be accurate to the song's beat, else it'll be hard to map accurately.
 
 #### Finding the BPM
+
 First you need to listen closely to your song to get a feeling of the rhythm. Once you think you can hear the rhythm, start pressing "T" to the beat until the editor displays a value. You can tap longer to get a more accurate BPM, but most songs have integer BPM values, that is, they don't have decimals.
 
 There should be a ticking sound indicating the BPM set, if it's not present, check if your **Effects** volume high enough.
 
 #### Verifying the Offset
+
 Most of the time, your offset will be slightly off, that is, the ticking will sound consistently late, or early. Nudge the value until it sounds perfect on the beat.
 
 #### Verifying the BPM
+
 Usually, the initial BPM found will be slightly off, you will need to verify the BPM is correct.
 
-*Note that bad offsets are different from bad BPMs*
+*Note that bad offsets are different from bad BPMs.*
 
 For inaccurate BPM values, the ticking will *sway* it gets **more prominent** the further away you get from the **red line** in the timeline (at the bottom of the editor). This is a telltale sign that your BPM is inaccurate. Try adjusting it by +1 or -1.
 
 If all else fails, you can ask for help in the `#osu` or `#osumania` channel.
 
 #### Finding the First Offset
+
 The first offset is the first beat of your current BPM. Go to the point of your song where you can hear the first beat, press F6, click on the timing point and press "Use current time". Now the timing point should be on the current offset, the first beat.
 
 Should it be right, your song is finally timed!
 
 #### MixMeister BPM Analyzer
-I also would like to show you a little program that can be really helpful to find the right BPM really fast. It is called ***MixMeister BPM Analyzer***. This program will show you the average BPM of your song. It has just one weak point. It can not show you multiple BPMs. It will show you the average BPM of all BPM points in your song. To say it simple: It helps with single BPM only. You can search for it on Google or just click [here](https://www.dropbox.com/s/m4pjenvo4n65943/bpmanalyzer.zip?dl=0). Don't try to use it to time every map of you. You will never learn how to time songs when you let this program time everything for you. Use it to compare it with your BPM to check if you got the right one!
+
+I also would like to show you a little program that can be really helpful to find the right BPM really fast. It is called ***MixMeister BPM Analyzer***. This program will show you the average BPM of your song. It has just one weak point. It can not show you multiple BPMs. It will show you the average BPM of all BPM points in your song. To say it simple: It helps with single BPM only. You can search for it on Google or just click [here](https://dropbox.com/s/m4pjenvo4n65943/bpmanalyzer.zip?dl=0). Don't try to use it to time every map of you. You will never learn how to time songs when you let this program time everything for you. Use it to compare it with your BPM to check if you got the right one!
 
 #### Multiple BPMs
+
 A lot of songs don't have a constant BPM. For those, you need to add another BPM point on the point of change.
 
 Go to the point where the BPM changes, press F6 to open the Timing panel, add another timing point by clicking on the green "plus" and adjust it to the BPM change while listening to the metronome again. You can also press Ctrl + P to set a BPM point at the time stamp you are currently at. Do this for every BPM change in your Map!
 
 #### Timing Setup Panel
+
 ![Timing Setup](/wiki/Beatmap_Editor/Timing/img/TimingSetup.jpg "Timing Setup")
 
 | Name | Description |
-| ---- | ----------- |
+| :-- | :-- |
 | Timing Point: | The timing point or "Red Line" is there to time your song. Without it you can't start mapping. Refer to above on steps to [**Timing**](#timing) your song |
 | Inherited Point: | The inherited point or "Green Line" is used to add "effects" to your map. With these, you can change the volume, the sample set, the slider velocity (SV) and you can add a [Kiai-Time](/wiki/Beatmap_Editor/Kiai_Time). |
 | Kiai: | The Kiai can be selected in "Style" and can be added between two inherited points. The Kiai Time is normally used in the chorus of your Song. It'll spawn star fountains on both sides of the screen and is used to emphasize a section of the map. |
@@ -356,7 +364,7 @@ As mentioned before, the osu!mania community consists of players from different 
 
 While every person who's mapping has his own style, there some basic features on which you can recognize the other games mapping styles.
 
-**Stepmania Style**
+#### Stepmania Style
 
 Stepmania has one of the largest communities for VSRG Games. Therefore it also has a large mapping community!
 
