@@ -22,12 +22,12 @@ Check out [this showcase set](https://osu.ppy.sh/beatmapsets/1143814) by [Noffy]
     <source src="https://assets.ppy.sh/artists/78/previews/2086.mp3" type="audio/mpeg">
 </audio>
 
-### Copycat
+### Goodbye
 
 Check out [this classic set](https://osu.ppy.sh/beatmapsets/251269) by [neonat](https://osu.ppy.sh/users/1561995)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/78/previews/2087.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/78/previews/2089.mp3" type="audio/mpeg">
 </audio>
 
 ### Lie
