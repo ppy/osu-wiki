@@ -72,7 +72,7 @@ Access this screen by clicking your profile at the top left of the main menu. Yo
 
 ![](img/Soloplay1.jpg "Song Selection")
 
-You can identify the current mode selected by either looking at the icon in the bottom right, above Mode, or by looking at the transparent icon in the center of the screen. These are the four you will see:
+You can identify the current mode selected by either looking at the icon in the bottom left, above Mode, or by looking at the transparent icon in the center of the screen. These are the four you will see:
 
 - ![](/wiki/shared/mode/osu.png) is [osu!](/wiki/Game_Modes/osu!)
 - ![](/wiki/shared/mode/taiko.png) is [osu!taiko](/wiki/Game_Modes/osu!taiko)
@@ -114,7 +114,7 @@ Click on one of the tabs to **sort your song list according to the selected crit
 - `Collections` - This will show the collections you have created. *Note that this will hide beatmaps not listed in a collection!*
 - `By BPM` - Beatmaps will be grouped according to BPM in multiples of 60, starting at 120.
 - `By Creator` - Beatmaps will be grouped by the beatmap creator's name's first character.
-- `By Date` Added - Beatmaps will be grouped according to when they were added, from today to 4+ months ago.
+- `By Date Added` - Beatmaps will be grouped according to when they were added, from today to 4+ months ago.
 - `By Length` - Beatmaps will be grouped according to their length: 1 minute or less, 2 minutes or less, 3, 4, 5, and 10.
 - `By Mode` - Beatmaps will be grouped according to their game mode.
 - `By Rank Achieved` - Beatmaps will be sorted by the highest rank achieved on them.
@@ -203,9 +203,8 @@ These are the view settings:
 Click the word bubble icon to call up the **Quick Web Access** screen for the selected beatmap:
 
 - Press `1` or click the `Beatmap Listing/Scores` button and your default internet browser will pull up the Beatmap Listing and score page of the beatmap set the selected beatmap belongs to.
-- Press `2` or click `Beatmap Topic` and your default itnternet browser will pull up the forum thread of the beatmap set the selected beatmap belongs to.
-- Press `3` or click `Quick Reply` and your default internet browser will pull up a page where you can compose a reply to the forum thread of the beatmap set the selected beatmap belongs to.
-- Press `4` or `Esc` or click `Cancel` to return to the Song Selection Screen.
+- Press `2` or click `Beatmap Modding` and your default internet browser will pull up the modding page of the beatmap set the selected beatmap belongs to.
+- Press `3` or `Esc` or click `Cancel` to return to the Song Selection Screen.
 
 While you are on the Quick Web Access Screen, you cannot access the Chat and Extended Chat Consoles.
 
@@ -251,7 +250,7 @@ Click the `Random` button or press `F2` to have the game **randomly scroll throu
 
 ![](img/Soloplay9.jpg "Possible commands for a beatmap")
 
-Click the `Beatmap Options` button or press `F3` or right-click from mouse to call up the **Beatmap Options Menu for options on the currently selected beatmap**.
+Click the `Beatmap Options` button, press `F3` or right-click yuor mouse while hovering over te beatmap to call up the **Beatmap Options Menu for options on the currently selected beatmap**.
 
 - Press `1` or click the `Manage Collections` button to bring up the Collections screen - here, you can manage pre-existing collections, as well as add or remove the currently selected beatmap or mapset to or from a collection.
 - Press `2` or click `Delete...` to delete the \[1\] currently selected mapset, \[2\] delete the currently selected beatmap, or \[3\] delete all beatmaps. The last option is a joke; clicking it will cause the game to notify you that you can't delete all of your beatmaps at once.
@@ -273,7 +272,7 @@ Click the **[osu!cookie](/wiki/Glossary#cookie)** to **start playing the selecte
 
 This is the grade screen shown after you have successfully passed the beatmap. You can access your online results by scrolling down or pressing the obvious button.
 
-**Note:** The grade skin will vary by skin used.
+**Note:** The grade screen will vary by skin used.
 
 Below are the grade screens of the other game modes.
 

@@ -43,7 +43,7 @@ There are two ways to add beatmaps, via the website or osu!direct (requires [osu
 
 1. Open osu!, and click the osu!direct button on the right side of the main screen.
 2. Find a song that you would like to play.
-3. Double click the the song on the list or click `Download` on the right to download it.
+3. Double click the song on the list or click `Download` on the right to download it.
    - If you don't want to download the video that comes along with the beatmapset, click `DL NoVideo` instead.
 4. When osu! is done downloading the beatmapset, it will automatically load it.
    - If, for any reason, you do not see them, press `F5` in [Song Selection](/wiki/Interface#song-selection-screen) to re-process your beatmaps.
