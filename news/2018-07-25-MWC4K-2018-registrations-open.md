@@ -14,7 +14,7 @@ You can discuss this event and follow the most important changes in the **[offic
 ## Tournament Schedule
 
 | Event              | Timestamp               |
-| -----------------: | :---------------------- |
+| --: | :-- |
 | Registration Phase | 2018-07-25/2018-08-08   |
 | Live Drawings      | 2018-08-18 (14:00 UTC)  |
 | Group Stage        | 2018-08-25/2018-08-26   |

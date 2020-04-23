@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu! World Cup 2013 - Results"
-date: 2014-12-08 00:00:00 +0000
+date: 2013-12-08 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/69421249436/osu-world-cup-2013-results
 ---
 

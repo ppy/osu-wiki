@@ -22,7 +22,7 @@ Seu hospedeiro do [servidor de chat do osu!](/wiki/Internet_Relay_Chat).
 #### Comandos Padrões (!Comando)
 
 | Comando | Efeito | Exemplo | Resposta do BanchoBot |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | WHERE (usuário) | Mostra a localização do jogador especificado | !where John | John is in USA |
 | STATS (usuário) | Mostra o status do jogador especificado (baseado no chat atual aberto) | !stats John | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%. |
 | FAQ (palavra chave) (list) | Uso variado. \[list\] Lista de Comandos | !faq wiki / !faq ru:wiki | The osu! Wiki - Make it awesome! / Примите участие в заполнении вики! |

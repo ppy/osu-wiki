@@ -20,13 +20,13 @@ Si l'utilisateur a un espace dans son nom d'utilisateur, il doit être remplacé
 
 Les reports ne sont pas sensibles à la casse. Vous pouvez donc utiliser des lettres minuscules comme ``this_user_name``.
 
-![Exemple d'utilisation de la commande !report](./img/Report-command.png "Exemple d'utilisation de la commande !report")
+![Exemple d'utilisation de la commande !report](img/Report-command.png "Exemple d'utilisation de la commande !report")
 
 ### Utiliser le bouton de report dans le jeu
 
 Signaler l’utilisateur de cette manière n’a besoin que d’un type de motif et du texte personnalisé, contrairement à la commande `!report`.
 
-![Cliquez sur le bouton report](./img/Report-user-1.png "Cliquez sur le bouton report")
+![Cliquez sur le bouton report](img/Report-user-1.png "Cliquez sur le bouton report")
 
 ![N'oubliez pas d'ajouter une raison ici !](img/Report-user-2.png "N'oubliez pas d'ajouter une raison ici !")
 

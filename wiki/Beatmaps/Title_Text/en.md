@@ -4,7 +4,7 @@ tags:
   - display title
 ---
 
-# Title Text
+# Beatmap title text
 
 <!-- This article was based off of [*Changing the Title Text : The Guide* by: Ekaru](https://osu.ppy.sh/community/forums/topics/14513), but a lot of the content has been changed/updated, so I'm just leaving the link here as a reference. It's not worth linking to from the wiki because it contains incorrect info at some points -->
 

@@ -57,7 +57,7 @@ For the record, these include the recent changes made [from the discussion forum
 ## ?K 参考用
 
 | Keys(CS) | Game                               |
-|----------|------------------------------------|
+| :-- | :-- |
 | 4K       | Dance Dance Revolution (Single)    |
 | 5K       | pop'n music (5K)                   |
 | 6K       |                                    |

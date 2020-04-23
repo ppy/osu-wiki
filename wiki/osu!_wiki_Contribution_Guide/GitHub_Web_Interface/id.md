@@ -46,7 +46,7 @@
 
 3\. Klik `Create new file`.
 
-4\. Masukkan lokasi dan/atau name file dari artikel yang anda buat. Jalur harus dimulai dengan `wiki/`, diikuti oleh judul artikel, lalu nama locale (dalam huruf kecil) diikuti oleh `.md`. Untuk daftar locale, anda bisa mengunjungi [Kriteria Penyusunan Artikel](/wiki/ASC/#locales).
+4\. Masukkan lokasi dan/atau name file dari artikel yang anda buat. Jalur harus dimulai dengan `wiki/`, diikuti oleh judul artikel, lalu nama locale (dalam huruf kecil) diikuti oleh `.md`. Untuk daftar locale, anda bisa mengunjungi [Kriteria Penyusunan Artikel](/wiki/ASC#locales).
 
 5\. Lanjutkan ke [Menyimpan dan melakukan commit](#saving-and-committing).
 
@@ -102,4 +102,4 @@
 
 ## Penyelesaian
 
-Anda sekarang dapat kembali ke [Panduan Kontribusi osu! wiki](/wiki/owcg/#finishing) untuk bagian terakhir informasi mengenai pull request dan perubahan anda.
+Anda sekarang dapat kembali ke [Panduan Kontribusi osu! wiki](/wiki/owcg#finishing) untuk bagian terakhir informasi mengenai pull request dan perubahan anda.

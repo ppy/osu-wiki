@@ -2,11 +2,13 @@
 outdated: true
 ---
 
-# Mascotes do osu!
+# Mascotes
+
+## Mascotes do osu!
 
 [Vídeo sobre os mascotes](https://www.youtube.com/watch?v=mJF2cAs_MrI)
 
-## Pippi
+### Pippi
 
 ![Pippi](img/pippi.png "Pippi")
 
@@ -45,7 +47,7 @@ Feminino
 #### Curiosidades
 (indisponível no momento)
 
-## Yuzu
+### Yuzu
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
@@ -80,7 +82,7 @@ Masculino
 #### Curiosidades
 [Introdução](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu)
 
-## Maria
+### Maria
 
 ![Maria](img/Maria.png "Maria")
 
@@ -114,9 +116,9 @@ Feminino
 #### Curiosidades
 [Introdução](https://osu.ppy.sh/home/news/2016-04-20-meet-maria-osumanias-new-mascot)
 
-# Cameos
+## Cameos
 
-## Ryūta Ippongi
+### Ryūta Ippongi
 
 ![Ryuuta](img/Ryuuta.png "Ryuuta")
 
@@ -153,7 +155,7 @@ Masculino
 #### Curiosidades
 Ele é o lider de Sangue-Quente do esquadrao de torcedores. Tem um bom coração e ajuda as pessoas a sua volta que passam por dificuldade tentando motivalos e lutando por eles!
 
-## Agent J
+### Agent J
 
 ![Agent J](img/Agent_J.png "Agent J")
 
@@ -188,7 +190,7 @@ Masculino
 #### Curiosidades
 Um expert em vários estilos de dança desde hip-hop até balé, J pode hipnotizar qualquer ser vivo.
 
-## Don
+### Don
 
 ![Don](img/Don.png "Don")
 
@@ -224,6 +226,6 @@ May 2008
 #### Curiosidades
 Don é o protagonista da série Taiko no Tatsujin. Ele é um tambor Taiko com a lateral branca e quatro pernas, a cara vermelha (que parece ser meio alaranjada), e um corpo azul claro. O sonho dele é compartilhar a beleza de Taiko com o mundo. Três anos se passaram desde que ele se mudou para a Wada House, e ele se tornou bastante popular em torno da cidade. Ele tem um apetite monstruoso e, por vezes, faz compras caras na Wada House, que pode acabar em confusão. Ele normalmente termina suas frases com "Ta-don", que significa "Ba-dum" em japonês.
 
-# Galeria de Imagens
+## Galeria de Imagens
 
 [Clique aqui para ir para a Galeria de Imagens.](/wiki/Mascots/Gallery)

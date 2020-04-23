@@ -1,5 +1,12 @@
 ---
 no_native_review: true
+tags:
+  - dev
+  - devs
+  - osu!dev
+  - osu!devs
+  - osu! dev
+  - osu! devs
 ---
 
 # Développeurs
@@ -45,13 +52,9 @@ Le développement d'osu! est dirigé par ![][flag_AU] **[peppy](https://osu.ppy.
 - ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397)
 
 [flag___]: /wiki/shared/flag/__.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_SH]: /wiki/shared/flag/SH.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australie"
+[flag_DE]: /wiki/shared/flag/DE.gif "Allemagne"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japon"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norvège"
+[flag_US]: /wiki/shared/flag/US.gif "États-Unis"

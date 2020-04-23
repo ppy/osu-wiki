@@ -2,8 +2,7 @@
 
 ![La caja de edición en los foros](img/editor.jpg)
 
-BBCode es un lenguaje de marcado que se utiliza en los foros de osu! y, en mayor medida, en la gran mayoría de los foros de Internet para permitir el formato de texto enriquecido.
-Se compone de etiquetas que rodean el texto para enriquecer y, en ocasiones, dar atributos al mismo.
+BBCode es un lenguaje de marcado que se utiliza en los foros de osu! y, en mayor medida, en la gran mayoría de los foros de Internet para permitir el formato de texto enriquecido. Se compone de etiquetas que rodean el texto para enriquecer y, en ocasiones, dar atributos al mismo.
 
 En la web de osu!, BBCode se utiliza en los mensajes del foro, las firmas y las páginas de usuario.
 
@@ -351,7 +350,7 @@ Las imágenes se pueden obtener desde cualquier página, siempre y cuando la ima
 
 **No vincules la imagen directamente desde un directorio local**. Usar `C:\Users\Name\Pictures\image.jpg` **no funcionará.**
 
-Por favor, sube la imagen a sitios de intercambio de imágenes de buena reputación como [imgur](https://imgur.com/ "imgur") o [puush](https://puush.me/ "puush"). Una vez que la imagen se cargue correctamente, copia y pega el vínculo directo proporcionado entre las etiquetas de imagen.
+Por favor, sube la imagen a sitios de intercambio de imágenes de buena reputación como [imgur](https://imgur.com) o [puush](https://puush.me). Una vez que la imagen se cargue correctamente, copia y pega el vínculo directo proporcionado entre las etiquetas de imagen.
 
 También ten en cuenta que algunos sitios web no aceptan los enlaces directos a sus imágenes (también conocidos como *hotlinks*). Los sitios de intercambio de imágenes, como los mencionados anteriormente, son más adecuados con enlaces directos, ya que son sitios de intercambio de imágenes.
 

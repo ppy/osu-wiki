@@ -1,4 +1,4 @@
-# Song Setup
+# Song setup window
 
 Song Setup is the fourth section of the [Beatmap Editor](/wiki/Beatmap_Editor). It contains metadata and general beatmap configuration settings.
 
@@ -78,9 +78,9 @@ The common notation to represent a difficulty setting and its value is the setti
 
 HP Drain Rate, commonly abbreviated as HP, determines the rate of health recovery from good hit scores and health punishment from bad hit scores. The value ranges from 0 to 10; higher HP values will give lower health recovery with higher health punishment.
 
-In osu!standard and osu!catch, this also affects the [Passive HP](/wiki/Passive_HP) (the constant rate at which HP decreases, except during the [Breaks](/wiki/Breaks).
+In osu!standard and osu!catch, this also affects the [Passive HP](/wiki/Glossary#life-bar) (the constant rate at which HP decreases, except during the [Breaks](/wiki/Breaks).
 
-*Note: More HP is recovered with [Geki and Katu](/wiki/Score/#osu) hit scores, which can be given from the last hit object in a combo.*
+*Note: More HP is recovered with [Geki and Katu](/wiki/Score#osu) hit scores, which can be given from the last hit object in a combo.*
 
 ### Circle Size
 
@@ -101,6 +101,8 @@ Key Count, also known as Keys, replaces the [Circle Size](#circle-size) metric f
 Checking the `Co-op mode` checkbox will double the currently selected amount (from 5 onwards), leading to a total of 10K (5), 12K (6), 14K (7), 16K (8), and 18K (9).
 
 ### Approach Rate
+
+*Main page: [Approach rate](/wiki/Beatmapping/Approach_rate)*
 
 ![Detailed AR chart](/wiki/shared/ARTable.jpg "Detailed AR chart")
 
@@ -235,7 +237,7 @@ You can, however, include the skin elements inside the beatmap folder. As most c
 
 In osu!standard, hit objects will automatically stack if they are both placed in the same spot while being close in-time. This is to help players see hit objects that overlap each other.
 
-Moving the slider towards the right will space out the "closeness" of hit objects in-time before stacking will occur. [Rules](/wiki/rc_osu!/#gameplay) dictate that if `Stack Leniency` is set so that stacking no longer occurs, the creator must manually offset the hit objects. This option is best left as is to its default value of `7`.
+Moving the slider towards the right will space out the "closeness" of hit objects in-time before stacking will occur. [Rules](/wiki/rc_osu!#gameplay) dictate that if `Stack Leniency` is set so that stacking no longer occurs, the creator must manually offset the hit objects. This option is best left as is to its default value of `7`.
 
 *Notice: Stacked hit circles in osu!standard will move towards the point where the stacking occurs.*
 

@@ -1,4 +1,4 @@
-# 2007
+# History of osu! 2007
 
 The following is some of the history of osu! since its beginning. Special thanks to [Sinistro](https://osu.ppy.sh/users/5530) for helping in compiling the 2007/2008 content.
 
@@ -16,7 +16,7 @@ osu! began as a proof-of-concept named "ouentest". The first version was release
 
 ![](img/2007-07_04.jpg "Hit circles")
 
-By the end of July, the menu system was changed to add a bit of style to the game. An initial implementation of sliders was completed, with a non-animated orange slider ball and some relatively ugly curves. Beat snapping was added to the editor, as was a timeline and a more robust editor interface (quite similar to what you see in [Compose](/wiki/Compose) view today).
+By the end of July, the menu system was changed to add a bit of style to the game. An initial implementation of sliders was completed, with a non-animated orange slider ball and some relatively ugly curves. Beat snapping was added to the editor, as was a timeline and a more robust editor interface (quite similar to what you see in [Compose](/wiki/Beatmap_Editor/Compose) view today).
 
 ![](img/2007-07_05.jpg "The editor")
 
@@ -34,7 +34,7 @@ The main menu was updated with a new look, and the editor received a lot of new 
 
 ![](img/2007-08_02.jpg "Evolution of the hit bursts")
 
-Gameplay was enhanced with the debut of [combo fire](/wiki/combo_fire), the HP bar, mouse trails, and better looking sliders. By this point, osu! had a humble collection of around 10 beatmaps made by the testing team of around 5 people.
+Gameplay was enhanced with the debut of [combo fire](/wiki/Combo_fire), the HP bar, mouse trails, and better looking sliders. By this point, osu! had a humble collection of around 10 beatmaps made by the testing team of around 5 people.
 
 ![](img/2007-08_03.jpg "Song Selection for Edit Mode")
 
@@ -44,7 +44,7 @@ Gameplay was enhanced with the debut of [combo fire](/wiki/combo_fire), the HP b
 
 ![](img/2007-09.jpg)
 
-2007-09-17 was the birth of osu! as far as the public was concerned. The forums as we know them today were established, and hosted from peppy's home domain (`ppy.sh`). Attention was gained via a news announcement on [bemanistyle](http://www.bemanistyle.com) which drew quite a few interested people with previous rhythm game experience.
+2007-09-17 was the birth of osu! as far as the public was concerned. The forums as we know them today were established, and hosted from peppy's home domain (`ppy.sh`). Attention was gained via a news announcement on [bemanistyle](http://bemanistyle.com) which drew quite a few interested people with previous rhythm game experience.
 
 ![](img/2007-09_01.jpg "Slider creation in the editor")
 
@@ -72,7 +72,7 @@ The song selection screen saw improvements, with grouping of difficulties and mo
 
 ![](img/2007-10_03.jpg "Error message")
 
-`pUpdater` (`osume`) version 2 was released, supporting optional package downloads. This included making the first user-made skins available to all players via the updater. The editor saw the addition of [distance-based snapping](/wiki/Distance_Snap), bookmark support, multiple slider curve types, custom colours, play-testing, lead-in time, and much more.
+`pUpdater` (`osume`) version 2 was released, supporting optional package downloads. This included making the first user-made skins available to all players via the updater. The editor saw the addition of [distance-based snapping](/wiki/Beatmap_Editor/Distance_Snap), bookmark support, multiple slider curve types, custom colours, play-testing, lead-in time, and much more.
 
 ## November
 
@@ -88,10 +88,10 @@ A new SS rank was added to the ranking system, replacing S rank in cases where p
 
 ![](img/2007-11_03.jpg "Testing IRC usage")
 
-The [Beatmap Submission System](/wiki/Beatmap_Submission_System) (BSS) was made public, allowing users to easily upload and share their creations. This introduced the status of pending and ranked maps and helped organise the rapidly growing collection of user-submitted beatmaps. In-game chat was added, as an IRC client built from scratch and connected to a standard IRC server (no bancho yet). Extended chat was visible. Avatars and basic stats were displayed in game (using an http-based communication). Audio controls were also added to the main menu, which also now plays a random song on startup. Replays could be watched for both local scores and online plays. Players could spectate other players (and spectator data was sent raw over IRC!).
+The [Beatmap Submission System](/wiki/Glossary#bss) (BSS) was made public, allowing users to easily upload and share their creations. This introduced the status of pending and ranked maps and helped organise the rapidly growing collection of user-submitted beatmaps. In-game chat was added, as an IRC client built from scratch and connected to a standard IRC server (no bancho yet). Extended chat was visible. Avatars and basic stats were displayed in game (using an http-based communication). Audio controls were also added to the main menu, which also now plays a random song on startup. Replays could be watched for both local scores and online plays. Players could spectate other players (and spectator data was sent raw over IRC!).
 
 ## December
 
-Songs could be edited by dragging them into the osu! window. Tooltips were added; explaining all the various buttons in the osu! menus and editor interface. Many new quality skins were submitted by early skinners ([Holiday by LuigiHann](https://osu.ppy.sh/community/forums/topics/1139/start=0), [WindWaker by awp](https://osu.ppy.sh/community/forums/topics/761/start=0)). New sorting methods were added to the song selection screen. peppy could now send universal announcements to all osu! players. Minor tweaks were made to gameplay, such as non-active circle dimming.
+Songs could be edited by dragging them into the osu! window. Tooltips were added; explaining all the various buttons in the osu! menus and editor interface. Many new quality skins were submitted by early skinners ([Holiday by LuigiHann](https://osu.ppy.sh/community/forums/topics/1139), [WindWaker by awp](https://osu.ppy.sh/community/forums/topics/761)). New sorting methods were added to the song selection screen. peppy could now send universal announcements to all osu! players. Minor tweaks were made to gameplay, such as non-active circle dimming.
 
 ![](img/2007-12_01.jpg)

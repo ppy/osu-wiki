@@ -4,7 +4,7 @@ no_native_review: true
 
 # Raccourcis clavier 
 
-Pour accéder à cette fenêtre de dialogue, ouvrez les [Options](/wiki/Options/), tapez dans  `change` puis cliquez sur `Change keyboard bindings`.
+Pour accéder à cette fenêtre de dialogue, ouvrez les [Options](/wiki/Options), tapez dans  `change` puis cliquez sur `Change keyboard bindings`.
 
 Ici, vous pouvez assigner de nouveaux raccourcis clavier avec les actions listées.
 
@@ -13,7 +13,7 @@ Ici, vous pouvez assigner de nouveaux raccourcis clavier avec les actions listé
 ## Mode standard d'osu! 
 
 | Nom        | Par défaut |
-|-------------|---------|
+| :-- | :-- |
 | Clic Gauche  | `Z`     |
 | Clic Droit  | `X`     |
 | Fumée       | `C`     |
@@ -21,7 +21,7 @@ Ici, vous pouvez assigner de nouveaux raccourcis clavier avec les actions listé
 ## Mode Taiko
 
 | Nom                | Par défaut |
-|---------------------|---------|
+| :-- | :-- |
 | Centre du tambour (Gauche)  | `X`     |
 | Centre du tambour (Droite) | `C`     |
 | Bord du tambour (Gauche)     | `Z`     |
@@ -31,7 +31,7 @@ Ici, vous pouvez assigner de nouveaux raccourcis clavier avec les actions listé
 ## Mode Catch the Beat
 
 | Nom                      | Par défaut       |
-|---------------------------|---------------|
+| :-- | :-- |
 | Bouger vers la gauche           | `Left Arrow`  |
 | Bouger vers la droite                | `Right Arrow` |
 | Dash! (2x la vitesse de déplacement) | `Left Shift`  |
@@ -39,7 +39,7 @@ Ici, vous pouvez assigner de nouveaux raccourcis clavier avec les actions listé
 ## Mode osu!Mania
 
 | Nom           | Par défaut |
-|----------------|---------|
+| :-- | :-- |
 | Augmente la vitesse | `F3`    |
 | Diminue la vitesse  | `F4`    |
 
@@ -51,7 +51,7 @@ Ici, vous pouvez assigner de nouveaux raccourcis clavier avec les actions listé
 ## En jeux
 
 | Nom                       | Par défaut     |
-|----------------------------|-------------|
+| :-- | :-- |
 | Mettre le jeu en pause                 | `Echap`       |
 | Passer la Cutscene               | `Space`     |
 | Cacher/Montrer  le tableau de score          | `Tab`       |
@@ -67,7 +67,7 @@ Ici, vous pouvez assigner de nouveaux raccourcis clavier avec les actions listé
 ## Universel
 
 | Nom                   | Par défaut     |
-|------------------------|--------------|
+| :-- | :-- |
 | Augmenter/Réduire la limite de framerate | `F7`         |
 | Cacher/Montrer le chat            | `F8`         |
 | Cacher/Montrer le chat étendu    | `F9`         |
@@ -86,7 +86,7 @@ Ici, vous pouvez assigner de nouveaux raccourcis clavier avec les actions listé
 ## Editeur
 
 | Nom                   | Par défaut     |
-|------------------------|--------------|
+| :-- | :-- |
 | Outil sélectionné            | `1`          |
 | Outil normal            | `2`          |
 | Outil pour slider            | `3`          |
@@ -113,7 +113,7 @@ Ici, vous pouvez assigner de nouveaux raccourcis clavier avec les actions listé
 ## Sélection de Mod
 
 | Nom        | Par défaut |
-|--------------|---------|
+| :-- | :-- |
 | Easy         | `Q`     |
 | No Fail      | `W`     |
 | Half Time    | `E`     |

@@ -1,4 +1,4 @@
-# Beginner
+# Tutorial for beginners
 
 Welcome to the osu! beginner tutorial. The world of osu! can sometimes be a very competitive place. Whether you are looking for an extra push to help lift off your career, wanting to be competitive in osu!, or simply hoping to improve yourself to enjoy the game more, this is for you! This guide will span everything you need to get off the ground and soar around the world of osu!.
 
@@ -8,10 +8,10 @@ Welcome to the osu! beginner tutorial. The world of osu! can sometimes be a very
 
 By default, a lot of players will start out with the mouse, since it's often the quickest available aiming tool by far. But there are actually multiple means of input to control the cursor and pop the circles:
 
--   Mouse
--   Tablet
--   Touch Screen
--   Keyboard Clicking
+- Mouse
+- Tablet
+- Touch Screen
+- Keyboard Clicking
 
 There are other ways you can control the cursor (Wiimote, motion sensor, etc.) but for the purpose of the guide, we will focus on the four bulleted points.
 
@@ -19,34 +19,34 @@ There are other ways you can control the cursor (Wiimote, motion sensor, etc.) b
 
 If you are going to stick to use the mouse, it's suggested to get a mouse with a cord for stability, as wireless mice can disconnect or stutter. Any mouse can work just fine, though; some people use mice from a dollar store! It also helps to continue using the same mouse for a long time, so try and get one that will last you a good while! Mouse play tends to excel at:
 
--   Jumping, especially in right angles or straight angles.
--   Stability and aim, making it easier to click "smaller" circles.
+- Jumping, especially in right angles or straight angles.
+- Stability and aim, making it easier to click "smaller" circles.
 
 Mouse play tends to struggle with:
 
--   Jumping back and forth in succession.
+- Jumping back and forth in succession.
 
 ### Tablet Play
 
-If you are going to use a tablet, you should try and pick an area on the tablet that you can comfortably play with. If you are going to buy a tablet to play osu! with, you should check out the [Tablet purchase](/wiki/Guides/Tablet_purchase/ "Tablet purchase by Daru") guide. Additionally, buy some spare nibs, as you never know when you will need another one since they tend to wear out quickly, especially in highly active play. While you can use the tablet itself to tap the circles, most players prefer using a keyboard which we'll cover a bit later on. Tablet play tends to excel at:
+If you are going to use a tablet, you should try and pick an area on the tablet that you can comfortably play with. If you are going to buy a tablet to play osu! with, you should check out the [Tablet purchase](/wiki/Guides/Tablet_Purchase) guide. Additionally, buy some spare nibs, as you never know when you will need another one since they tend to wear out quickly, especially in highly active play. While you can use the tablet itself to tap the circles, most players prefer using a keyboard which we'll cover a bit later on. Tablet play tends to excel at:
 
--   No cursor drift.
--   Precise movement and speed.
+- No cursor drift.
+- Precise movement and speed.
 
 Tablet play tends to struggle with:
 
--   Jumping in right angles.
+- Jumping in right angles.
 
 ### Touchscreen Play
 
 Although rare, quite a few users play on a touchscreen. You should try not to press too hard on the touchscreen or find one that is quite sensitive to your tapping on the fingers, and better yet one that has a low latency. This should help increase the longevity of the screen you are using. Touchscreen tends to excel at:
 
--   Streaming long periods of notes and stamina.
--   Jumping long distances, especially corner to corner.
+- Streaming long periods of notes and stamina.
+- Jumping long distances, especially corner to corner.
 
 Touchscreen tends to struggle with:
 
--   Aim, especially with smaller notes.
+- Aim, especially with smaller notes.
 
 ### Keyboard Tapping
 
@@ -84,11 +84,11 @@ Don't be afraid to practise something that always makes you miss for one reason 
 
 ### Global Offset
 
-*Main page: [How to use the Offset Wizard](/wiki/Guides/How_to_use_the_Offset_Wizard)*
+*Main page: [How to use the Offset Wizard](/wiki/Guides/How_to_Use_the_Offset_Wizard)*
 
-Depending on the devices you use to play osu! with, you may find that the hit circles aren't quite on beat with the music. To correct this, you can change the global offset value in the [Settings](/wiki/Options/) menu. Global offset will change when the first note appears on beatmaps (either earlier or later than default), which in turn delays the rest of the notes by the same amount. A negative offset value will make notes appear slightly later, and a positive value will make them appear earlier.
+Depending on the devices you use to play osu! with, you may find that the hit circles aren't quite on beat with the music. To correct this, you can change the global offset value in the [Settings](/wiki/Options) menu. Global offset will change when the first note appears on beatmaps (either earlier or later than default), which in turn delays the rest of the notes by the same amount. A negative offset value will make notes appear slightly later, and a positive value will make them appear earlier.
 
-In the [Offset Wizard](/wiki/Options/Universal_Offset), which you can access from the [Settings](/wiki/Options/) menu, a sample song will play with a metronome beat on top. Adjust the offset gradually using the up/down arrow keys or your mouse wheel until the beats of the metronome match when the bars cross the centre line.
+In the [Offset Wizard](/wiki/Options/Offset_Wizard), which you can access from the [Settings](/wiki/Options) menu, a sample song will play with a metronome beat on top. Adjust the offset gradually using the up/down arrow keys or your mouse wheel until the beats of the metronome match when the bars cross the centre line.
 
 When you are playing a beatmap you will notice the Hit Error graph at the bottom of the screen. Hitting a note causes a white line to appear somewhere along it depending on how accurate you were. If all of your hits are to the left of the centre, try increasing your global offset slightly. If they are all on the right side, try decreasing it.
 
@@ -96,7 +96,7 @@ Adjust your global offset until you are happy with it. Getting the right value w
 
 ### Raw Input
 
-*See also: [Options](/wiki/Options/#mouse)*
+*See also: [Options](/wiki/Options#mouse)*
 
 A commonly overlooked feature of the game is the Raw Input function. This allows for direct reading of your input device into osu! itself. You may use this too if you don't like how Windows handles your mouse cursor, or especially recommended if you use a tablet. Give it a try and play a few maps with it, you might find yourself a lot more comfortable with it!
 
@@ -114,39 +114,39 @@ Try giving these maps a go. They are ordered from the easiest to the most diffic
 
 You can begin your adventure with these maps!
 
--   [GReeeeN - Ai Uta (Taiko Cut) (arken1015) \[Kantan\]](https://osu.ppy.sh/beatmaps/57281)(0.83 Stars)
--   [TOKINE - Soko ni Aru Mono (xierbaliti) \[Easy\]](https://osu.ppy.sh/beatmaps/67008)(0.99 Stars)
--   [Rammstein - Mein erz brennt (Piano Instrumental) (Sieg) \[Easy\]](https://osu.ppy.sh/beatmaps/250553)(1.00 Stars)
--   [fripSide - a little christmas time (Darksonic) \[Easy\]](https://osu.ppy.sh/beatmaps/191008)(1.03 Stars)
--   [Yoko Shimomura - A Twinkle in the Sky (MoodyRPG) \[Easy\]](https://osu.ppy.sh/beatmaps/220650)(1.05 Stars)
--   [Sean Paul - She Doesn't Mind (Daniel Ngo Remix) (BounceBabe) \[Easy\]](https://osu.ppy.sh/beatmaps/158917)(1.08 Stars)
--   [Anamanaguchi - This is the End (Kurai) \[Average Joe\]](https://osu.ppy.sh/beatmaps/74686)(1.09 Stars)
--   [Infected Mushroom - The Pretender (Nemis) \[Easy\]](https://osu.ppy.sh/beatmaps/240979)(1.10 Stars)
--   [Do As Infinity - Fukai Mori (Andrea) \[Easy Dan\]](https://osu.ppy.sh/beatmaps/49478)(1.11 Stars)
--   [Nishiura Tomohito - Shop (samplefish) \[Easy\]](https://osu.ppy.sh/beatmaps/404645)(1.13 Stars)
--   [Angela Chang - Aurora (Pasha_Khvan97) \[Easy\]](https://osu.ppy.sh/beatmaps/397975)(1.14 Stars)
+- [GReeeeN - Ai Uta (Taiko Cut) (arken1015) \[Kantan\]](https://osu.ppy.sh/beatmaps/57281)(0.83 Stars)
+- [TOKINE - Soko ni Aru Mono (xierbaliti) \[Easy\]](https://osu.ppy.sh/beatmaps/67008)(0.99 Stars)
+- [Rammstein - Mein erz brennt (Piano Instrumental) (Sieg) \[Easy\]](https://osu.ppy.sh/beatmaps/250553)(1.00 Stars)
+- [fripSide - a little christmas time (Darksonic) \[Easy\]](https://osu.ppy.sh/beatmaps/191008)(1.03 Stars)
+- [Yoko Shimomura - A Twinkle in the Sky (MoodyRPG) \[Easy\]](https://osu.ppy.sh/beatmaps/220650)(1.05 Stars)
+- [Sean Paul - She Doesn't Mind (Daniel Ngo Remix) (BounceBabe) \[Easy\]](https://osu.ppy.sh/beatmaps/158917)(1.08 Stars)
+- [Anamanaguchi - This is the End (Kurai) \[Average Joe\]](https://osu.ppy.sh/beatmaps/74686)(1.09 Stars)
+- [Infected Mushroom - The Pretender (Nemis) \[Easy\]](https://osu.ppy.sh/beatmaps/240979)(1.10 Stars)
+- [Do As Infinity - Fukai Mori (Andrea) \[Easy Dan\]](https://osu.ppy.sh/beatmaps/49478)(1.11 Stars)
+- [Nishiura Tomohito - Shop (samplefish) \[Easy\]](https://osu.ppy.sh/beatmaps/404645)(1.13 Stars)
+- [Angela Chang - Aurora (Pasha_Khvan97) \[Easy\]](https://osu.ppy.sh/beatmaps/397975)(1.14 Stars)
 
 ### Novice
 
 After you play a bit, try these maps out.
 
--   [Mutsuhiko Izumi - Russian Snowy Dance (Chocopikel) \[Easy\]](https://osu.ppy.sh/beatmaps/124348)(1.21 Stars)
--   [goreshit - o'er the flood (grumd) \[Easy\]](https://osu.ppy.sh/beatmaps/177139)(1.22 Stars)
--   [Hatsune Miku - Electric Love (Short Ver.) (KayeSara) \[Easy\]](https://osu.ppy.sh/beatmaps/141749)(1.25 Stars)
--   [DJ YOSHITAKA feat. Hoshino Kanako - MAX LOVE (Mythol) \[Easy\]](https://osu.ppy.sh/beatmaps/186601)(1.28 Stars)
--   [Akcent feat. Edward Maya - That's My Name (Barney Stinson) \[Easy\]](https://osu.ppy.sh/beatmaps/132838)(1.28 Stars)
--   [Hatsune Miku - Do-re-mi-fa Rondo (Sylphi) \[Easy\]](https://osu.ppy.sh/beatmaps/163457)(1.28 Stars)
+- [Mutsuhiko Izumi - Russian Snowy Dance (Chocopikel) \[Easy\]](https://osu.ppy.sh/beatmaps/124348)(1.21 Stars)
+- [goreshit - o'er the flood (grumd) \[Easy\]](https://osu.ppy.sh/beatmaps/177139)(1.22 Stars)
+- [Hatsune Miku - Electric Love (Short Ver.) (KayeSara) \[Easy\]](https://osu.ppy.sh/beatmaps/141749)(1.25 Stars)
+- [DJ YOSHITAKA feat. Hoshino Kanako - MAX LOVE (Mythol) \[Easy\]](https://osu.ppy.sh/beatmaps/186601)(1.28 Stars)
+- [Akcent feat. Edward Maya - That's My Name (Barney Stinson) \[Easy\]](https://osu.ppy.sh/beatmaps/132838)(1.28 Stars)
+- [Hatsune Miku - Do-re-mi-fa Rondo (Sylphi) \[Easy\]](https://osu.ppy.sh/beatmaps/163457)(1.28 Stars)
 
 ### Challenge
 
 Want to push yourself and take on a challenge? Try these!
 
--   [DJ Fresh - Gold Dust (galvenize) \[Easy\]](https://osu.ppy.sh/beatmaps/96042)(1.32 Stars)
--   [Kyary Pamyu Pamyu - Ninjya Re Bang Bang (IchiGUN) \[Easy\]](https://osu.ppy.sh/beatmaps/230174)(1.36 Stars)
--   [Carly Rae Jepsen - Call Me Maybe (Nightcore Mix) (Bakari) \[Easy\]](https://osu.ppy.sh/beatmaps/172736)(1.36 Stars)
--   [Kicks N Licks Feat. Nicole Millar - Own The Night (MitiS DnB Remix) (Ami) \[Easy\]](https://osu.ppy.sh/beatmaps/368307)(1.45 Stars)
--   [Gentle Stick X M2U - Hades in the Heaven (AngelHoney) \[Easy\]](https://osu.ppy.sh/beatmaps/318994)(1.46 Stars)
+- [DJ Fresh - Gold Dust (galvenize) \[Easy\]](https://osu.ppy.sh/beatmaps/96042)(1.32 Stars)
+- [Kyary Pamyu Pamyu - Ninjya Re Bang Bang (IchiGUN) \[Easy\]](https://osu.ppy.sh/beatmaps/230174)(1.36 Stars)
+- [Carly Rae Jepsen - Call Me Maybe (Nightcore Mix) (Bakari) \[Easy\]](https://osu.ppy.sh/beatmaps/172736)(1.36 Stars)
+- [Kicks N Licks Feat. Nicole Millar - Own The Night (MitiS DnB Remix) (Ami) \[Easy\]](https://osu.ppy.sh/beatmaps/368307)(1.45 Stars)
+- [Gentle Stick X M2U - Hades in the Heaven (AngelHoney) \[Easy\]](https://osu.ppy.sh/beatmaps/318994)(1.46 Stars)
 
 ## Going Beyond
 
-Once you have exhausted the difficulty of the beatmaps listed here, don't stop there. Keep on going, and find some maps of a higher difficulty rating. Try even searching for beatmaps based on [difficulty suggestion](https://osu.ppy.sh/p/beatmaplist?s=3&o=-1&m=0&r=0&g=0&la=0&ra), as it will help you get an idea of where you need to go next. Don't be afraid to ask other users about improving, as mostly they will be nice and share you a pretty fun map to play that they also enjoyed, where their osu! world adventure begun. Lastly, but most importantly, have fun!
+Once you have exhausted the difficulty of the beatmaps listed here, don't stop there. Keep on going, and find some maps of a higher difficulty rating. Try even searching for beatmaps based on [difficulty suggestion](https://osu.ppy.sh/beatmapsets?c=recommended), as it will help you get an idea of where you need to go next. Don't be afraid to ask other users about improving, as mostly they will be nice and share you a pretty fun map to play that they also enjoyed, where their osu! world adventure begun. Lastly, but most importantly, have fun!

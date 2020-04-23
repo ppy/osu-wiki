@@ -9,7 +9,7 @@ The Ranking Charts for August 2016 have been just released and [can be found her
 
 ## Ranking Charts Creation
 
-The charts have [previously](https://osu.ppy.sh/news/150551685358) been created by letting the Quality Assurance Team select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
+The charts have [previously](https://osu.ppy.sh/home/news/2016-09-17-july-2016-ranking-charts-changes) been created by letting the Quality Assurance Team select the most noteworthy maps of this month. We also reward the top beatmap in each category by providing **1 month of supporter status** to the mapper.
 
 ### osu!
 

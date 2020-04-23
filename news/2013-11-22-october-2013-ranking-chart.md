@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "October 2013 Ranking Chart"
-date: 2014-11-22 00:00:00 +0000
+date: 2013-11-22 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/67739299984/october-2013-ranking-chart
 ---
 
@@ -11,14 +11,14 @@ Congratulations to last month's winners!
 
 **osu! standard**
 
-1.  [Delis](https://t.umblr.com/redirect?z=https%3A%2F%2Fosu.ppy.sh%2Fu%2FDelis&t=NGMyMjgxYTk2MmViODkzYjc0MWNhYTNmOTViNjI5Nzg3NGZjMDM0ZixraWhJQ3VlSg%3D%3D&b=t%3AIzBfiACgMyVf9sEXdmjc5g&p=http%3A%2F%2Fosunews.tumblr.com%2Fpost%2F67739299984%2Foctober-2013-ranking-chart&m=1) \- 1 month of supporter
-2.  [Michi](https://osu.ppy.sh/users/Delis)
+1.  [Delis](https://osu.ppy.sh/users/1603923) \- 1 month of supporter
+2.  [Michi](https://osu.ppy.sh/users/932342)
 3.  [Raiku](https://osu.ppy.sh/users/Raiku)
 
 **Taiko**
 
-1.  [Midnaait](https://t.umblr.com/redirect?z=https%3A%2F%2Fosu.ppy.sh%2Fu%2FMidnaait&t=MWNmY2Q2N2UyYTc1Yjk3YmRhZDhkMWQ4Yzc1NmMzYmVhZTI5NzY2OCxraWhJQ3VlSg%3D%3D&b=t%3AIzBfiACgMyVf9sEXdmjc5g&p=http%3A%2F%2Fosunews.tumblr.com%2Fpost%2F67739299984%2Foctober-2013-ranking-chart&m=1) \- 1 month of supporter
-2.  [Konpaku Sariel](https://osu.ppy.sh/users/Midnaait)
+1.  [Midnaait](https://osu.ppy.sh/users/1506011) \- 1 month of supporter
+2.  [Konpaku Sariel](https://osu.ppy.sh/users/533502)
 3.  [Nashmun](https://osu.ppy.sh/users/Nashmun)
 
 **Catch the Beat**

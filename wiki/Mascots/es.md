@@ -18,7 +18,7 @@ pippi, estilizado con una "p" minúscula, es la mascota de osu!standard que se u
 
 ### Yuzu
 
-*Para la publicación en las noticias, véase: [Meet Yuzu](https://osu.ppy.sh/home/news/89483664163).*
+*Para la publicación en las noticias, véase: [Meet Yuzu](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu).*
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 

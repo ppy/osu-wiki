@@ -1,4 +1,4 @@
-# Rules
+# Rules for Beatmap Nominators
 
 The rules listed here affect what [Beatmap Nominators](/wiki/People/Beatmap_Nominators) can and cannot do when nominating beatmaps as well as set the tone for the general conduct expected from them. These rules are the result of discussion within the [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) and have taken into account feedback from the Beatmap Nominators upon their proposal.
 
@@ -36,7 +36,6 @@ Beatmap Nominators possess the tools to nominate beatmaps and shape the world of
 
 ### Disqualification
 
-- **Beatmaps qualified in modding v1 that need to be disqualified must be brought to the attention of the NAT.**
 - **Only full members may disqualify beatmaps, regardless of reason.** Probation members may however still participate in such discussions and report beatmaps like everyone else.
 - **Disqualifications should primarily be done for beatmaps with unrankable issues, or if the beatmapset owner requests it.**
 - **Disqualification requests by the beatmapset owner can be applied immediately.** This includes yourself, in case you want to self-dq.
@@ -45,6 +44,8 @@ Beatmap Nominators possess the tools to nominate beatmaps and shape the world of
 - **Do not disqualify beatmaps of game modes you are not formally qualified for.** This does not apply to disqualifications regarding audio, backgrounds, or other content that does not directly pertain to the beatmap's game mode.
 
 ### Veto
+
+Please see the [beatmap veto](/wiki/People/The_Team/Beatmap_Nominators/Beatmap_Veto) page for full information on the veto process.
 
 - **Do not veto beatmaps of game modes you are not formally qualified for.** You are not allowed to nominate them so blocking a nomination without the ability to renominate the beatmap makes no sense. This does not apply to vetoes regarding audio, backgrounds, or other content that does not directly pertain to the beatmap's game mode.
 - **You can veto a nominated/qualified beatmapset by posting the issues you think need to be addressed before reaching Ranked status in the form of problems in the respective modding discussion.** This will reset all nominations the beatmapset has received and thereby stop it from proceeding to Ranked. Other nominators will be unable to nominate it again until the veto is lifted. The veto post must include a clear problem and reasoning for stopping the ranking process of the beatmapset. You must participate in the resulting discussion and attempt to reach a mutual agreement.

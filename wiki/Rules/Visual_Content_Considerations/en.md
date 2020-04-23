@@ -1,4 +1,4 @@
-# Visual Content Considerations
+# Visual content considerations
 
 As per [Community Rule 5](/wiki/Rules#community-rules), all visual content within any submitted beatmap must be considered as appropriate for an all-ages game. This includes things like beatmap background, skinning elements, storyboarded assets and more.
 
@@ -26,7 +26,7 @@ Any imagery that portrays gore, mutilation, maiming, severe wounding or graphica
 
 ### Sexual innuendo
 
-This refers to the mimicry of sexual acts or soliciting in a lascivious or lewd manner. Content of this nature in the anime context is often referred to as 'ecchi'.
+This refers to the mimicry of sexual acts or soliciting in a lascivious or lewd manner. Content of this nature in the anime context is often referred to as "ecchi".
 
 Any imagery that imitates sexual acts or involves objects or mannerisms that mimic or reference any genitalia (such as phallic objects) is not allowed.
 
@@ -40,7 +40,7 @@ This also applies to "accidental" posturing, such as imagery depicting character
 
 If a character's age is not immediately obvious in their depiction by virtue of their physical presentation (for example, secondary sexual characteristics not being present heavily infers an underage character), any content that could conceivably and reasonably be perceived as sexual is completely disallowed.
 
-This includes questionable depictions of characters drawn in the 'loli' style, regardless of their established narrative age.
+This includes questionable depictions of characters drawn in the "loli" style, regardless of their established narrative age.
 
 Depiction of minors in a sexual context within any medium is considered highly illegal in most places in the world, and as such, it is explicitly forbidden.
 
@@ -56,9 +56,9 @@ Additionally, this extends to entire pieces of artwork wherein the airs can be -
 
 This includes portrayals of use or the presence of drug-oriented paraphernalia such as bongs, coke spoons, used needles or any other widely established tools used in the context of administering illicit drugs.
 
-Drugs with any sort of inconsistent scheduling worldwide (such as marijuana) are also considered as 'illicit' for the sake of this rule. Imagery pertinent these drugs and their associated usage communities is also not allowed.
+Drugs with any sort of inconsistent scheduling worldwide (such as marijuana) are also considered as "illicit" for the sake of this rule. Imagery pertinent these drugs and their associated usage communities is also not allowed.
 
-In the event of a specific sort of drug abuse terminology or iconography is referenced without that drug being explicitly illegal or scheduled in most countries (such as syrup/lean/promethazine abuse), it is also considered 'illicit' for the sake of this rule.
+In the event of a specific sort of drug abuse terminology or iconography is referenced without that drug being explicitly illegal or scheduled in most countries (such as syrup/lean/promethazine abuse), it is also considered "illicit" for the sake of this rule.
 
 Depictions of alcohol and tobacco use are allowed sparingly where such things are not portrayed in unreasonable or destructive excess.
 
@@ -90,7 +90,7 @@ Scenes involving active combat, fighting or any other physical activity that may
 
 Any depiction of classical artwork or the rendition of the human form where the portrayal of partial nudity is done in a strictly artistic and non-sexual context may be allowed upon review from the GMT.
 
-However, said artistic nudity must possess some contextual relevance to the other content it is associated with in order for this exception to apply. 
+However, said artistic nudity must possess some contextual relevance to the other content it is associated with in order for this exception to apply.
 
 An example of proper application of this rule would be for content using the *Immersion* band cover from Pendulum, which features a naked man and woman pressing their hands together in a sidelong shot in the center of the piece. The icon is relatively small, understated, but discernible, and is considered allowed due to its non-sexual nature and contextual relevance to tracks from that album as a whole.
 
@@ -102,7 +102,7 @@ This also includes "flirty" depictions which are - in good faith - considered as
 
 ## Further considerations
 
-The anecdotal 'rule of thumb' is that one should generally be comfortable with their family members or other judgemental authority figure viewing the content and be capable of adequately explaining what is going on in it. 
+The anecdotal "rule of thumb" is that one should generally be comfortable with their family members or other judgemental authority figure viewing the content and be capable of adequately explaining what is going on in it.
 
 This is by no means a strict requirement, but it is a good way to help inform your decisions on what is and isn't appropriate.
 

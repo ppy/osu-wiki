@@ -5,11 +5,13 @@ Dari thread: *[how to add custom hitsound? oleh: neonat](https://osu.ppy.sh/comm
 ## Mendapatkan Hitsound Kustom
 
 Sebelumnya, Anda akan memerlukan beberapa kustom hitsound! Anda bisa mendapatkannya dengan cara:
-- Anda bisa mengambil dari [Custom Hitsound Library](../Custom_Hitsound_Library/),
+
+- Anda bisa mengambil dari [Custom Hitsound Library](/wiki/Guides/Custom_Hitsound_Library),
 - atau membuat kustom hitsound sendiri
   - jika Anda membuat sendiri, pastikan format file tersebut adalah `.wav` - karena format inilah yang paling baik untuk berkas audio yang bersifat looping.
 
 Jika Anda sudah mendapatkannya, pindahkan semuanya ke folder beatmap itu sendiri. Jika Anda tidak tahu di mana letak folder beatmap tersebut, ikuti instruksi ini!:
+
 1. Buka osu!
 2. Edit
 3. Pilih *beatmap Anda* dan buka
@@ -23,7 +25,7 @@ Tergantung jenis hitsound mana yang Anda inginkan, Anda harus menamai file terse
 
 Kemudian Anda harus memutuskan untuk menjadikannya normal hit, clap, whistle atau finish.
 
-![Tutorial Image 1](ACH_01.png "Tutorial Image 1")
+![Tutorial Image 1](img/ACH_01.png "Tutorial Image 1")
 
 ### Contoh 1
 
@@ -39,4 +41,4 @@ Seperti `normal-hitclap2.wav` atau `soft-hitfinish3.wav`
 
 Jangan lupa buka timing setup dan ubah hitsound ke *Custom*, dan pilih nomor yang lebih spesifik.
 
-![Tutorial Image 2](ACH_02.png "Tutorial Image 2")
+![Tutorial Image 2](img/ACH_02.png "Tutorial Image 2")

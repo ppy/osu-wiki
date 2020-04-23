@@ -2,9 +2,6 @@
 outdated: true
 ---
 
-[false]: /wiki/shared/false.png "No"
-[true]: /wiki/shared/true.png "Yes"
-
 # Beatmap Nomination Group
 
 El **Beatmap Nomination Group**, mas comúnmente referido como BNG, es un grupo a cargo de [nominar beatmaps](/wiki/Beatmap_ranking_procedure). Este grupo ha sufrido muchos cambios, especialmente el 22 de agosto del 2014, día en el cual se declaró que ya no formarían parte del staff, revocándoles así sus atributos de moderadores de chat y sus nombres en rojo tanto en el juego como en el foro. El más reciente cambio ocurrió el 1 de febrero de 2015, cuando el nombre del grupo fue cambiado de *Beatmap Appreciation Team o BAT* (Equipo de Apreciación de Beatmaps), a *Beatmap Nominator Group o BNG* (Grupo Nominador de Beatmaps).
@@ -22,11 +19,11 @@ El [Quality Assurance Team](https://osu.ppy.sh/groups/7) escribirá un anuncio p
 ### Criterios básicos
 Los modders que buscan inscribirse para ser Beatmap Nominator deben cumplir con los siguientes requisitos:
 + Han modeado beatmaps de forma activa durante al menos 3 meses previamente al anuncio.
-+ Han acumulado al menos 50 [Kudosu](/wiki/Glossary/#kudosu) en total.
++ Han acumulado al menos 50 [Kudosu](/wiki/Glossary#kudosu) en total.
 + Envíen de 3 a 5 mods suyos que crean que los cualifique para ser Beatmap Nominator.
 
 ### ¿Qué cualifica un post como Mod?
-+ Al inscribirse se te pedirá que incluyas el número total de [Kudosu](/wiki/Glossary/#kudosu) además del número de mod posts en los últimos 3 meses. Si el anuncio se hace en abril, los mod posts de enero, febrero y marzo serán los relevantes. Los meses relevantes serán visibles en el formulario.
++ Al inscribirse se te pedirá que incluyas el número total de [Kudosu](/wiki/Glossary#kudosu) además del número de mod posts en los últimos 3 meses. Si el anuncio se hace en abril, los mod posts de enero, febrero y marzo serán los relevantes. Los meses relevantes serán visibles en el formulario.
 + Un post será tratado como mod si ha recibido Kudosu y ha sido creado durante la franja de tiempo indicada en el formulario.
 + El modo de juego (osu!, osu!taiko, osu!catch, osu!mania) en el que hayas modeado los beatmaps no importa, ya que tu actividad en la comunidad de modeo se mide de forma global y no en un modo de juego específico.
 + La fecha y hora en la que te dieron el Kudosu a tu post no importa, la única información relevante es la fecha y hora del post en sí, además del hecho de que haya sido recompensado con Kudosu.
@@ -56,7 +53,7 @@ También ten en cuenta que la columna de modos de juego de la tabla aquí abajo 
 ### osu!standard
 
 | Name                                                  | Additional Languages     |
-|-------------------------------------------------------|--------------------------|
+| :-- | :-- |
 | [- Matha -](https://osu.ppy.sh/users/7354729) | Chino, Cantonés |
 | [\_Epreus](https://osu.ppy.sh/users/7342798) | Coreano |
 | [Agatsu](https://osu.ppy.sh/users/5579871) |  |
@@ -127,7 +124,7 @@ También ten en cuenta que la columna de modos de juego de la tabla aquí abajo 
 ### osu!taiko
 
 | Nombre                                                | Lenguajes adicionales    |
-|-------------------------------------------------------|--------------------------|
+| :-- | :-- |
 | [-GN Junior](https://osu.ppy.sh/users/3901754) | Chino, Cantonés |
 | [\_WWWWWW_WWWWWW_](https://osu.ppy.sh/users/1981781)   | Portugués, Español, Català, Japonés |
 | [Faputa](https://osu.ppy.sh/users/845733)             | Cantonés, Chino          |
@@ -147,7 +144,7 @@ También ten en cuenta que la columna de modos de juego de la tabla aquí abajo 
 ### osu!catch
 
 | Nombre                                                | Lenguajes adicionales    |
-|-------------------------------------------------------|--------------------------|
+| :-- | :-- |
 | [-Luminate](https://osu.ppy.sh/users/4778689)         | Tailandés                |
 | [alienflybot](https://osu.ppy.sh/users/636114)        | Cantonés, Chino          |
 | [Ascendance](https://osu.ppy.sh/users/2931883)        |                          |
@@ -163,7 +160,7 @@ También ten en cuenta que la columna de modos de juego de la tabla aquí abajo 
 ### osu!mania
 
 | Nombre                                                | Lenguajes adicionales    |
-|-------------------------------------------------------|--------------------------|
+| :-- | :-- |
 | [-MysticEyes](https://osu.ppy.sh/users/6253266)       |                          |
 | [\_Stan](https://osu.ppy.sh/users/1653229)            | Chino                    |
 | [Arzenvald](https://osu.ppy.sh/users/3027421)         | Indonesio                |

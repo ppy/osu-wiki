@@ -1,6 +1,7 @@
 ---
 needs_cleanup: true
 ---
+<!-- TODO: the format of this article is just annoying to read. too many notes and useless wording -->
 
 # BanchoBot
 

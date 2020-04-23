@@ -1,4 +1,4 @@
-# osu!mania Ranking Criteria
+# osu!mania ranking criteria
 
 The **osu!mania Ranking Criteria** are rules and guidelines that apply to the creation of osu!mania-specific difficulties. In order to get an osu!mania-specific difficulty ranked, it is mandatory that the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be ignored under exceptional circumstances. These exceptional circumstances must be justified by an exhaustive explanation as of why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
 
@@ -8,7 +8,7 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 
 ### Difficulty names
 
-*Main article: [Difficulty Naming](../Difficulty_Naming)*
+*Main article: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
 - ![](/wiki/shared/diff/easy-m.png) Easy
 - ![](/wiki/shared/diff/normal-m.png) Normal
@@ -60,7 +60,7 @@ Overall rules and guidelines apply to every kind of osu!mania difficulty. Rhythm
 - **There must not be more than 6 notes pressed at any given moment in Insane or lower difficulties.** Using more than 6 notes must also follow a reasonable spread to the next lower difficulty. This rule does not apply to ends of long notes, as they are released, not pressed.
 - **Beatmaps can only use 4 to 9 keys.** Anything else is not supported for the Ranked section.
 - **Each key mode in a beatmap set requires its own spread.** For example, a 4 key beatmap would require its own Normal/Hard/Insane in order to create a proper spread, independent of any other key modes present in the beatmap set.
-- **If multiple key modes are present in a single beatmap set, the key mode must be denoted in the difficulty name.**
+- **If multiple key modes are present in a single beatmap set, the key mode must be denoted in all difficulty names. Otherwise, the key mode must not be denoted.**
 
 ### Guidelines
 
@@ -151,7 +151,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 - **HP and OD values should not be higher than 8.**
 - **Note snappings of consecutive 1/8 and higher should not be used.** These can be too physically demanding for players of this level. An exception to this guideline would be the usage of 3 grace notes that are at higher-end snaps (1/8, 1/12 and 1/16) as they are only used to accentuate gracing sounds.
 - **Long streams of 1/4 notes should include, at minimum, a 1/2 pause where natural to implement after every musical phrase.** These can be too physically demanding for players of this level.
-- **Chords within 1/4 streams should be used sparingly.** The density of these patterns is often too difficult for players of this skill level.
+- **Chords within 1/4 streams should be at least 1/1 beat apart from each other.** More dense usage of chords is too difficult for players of this skill level.
 - **Avoid using chords in the middle of 1/6 streams.** However, Using a chord at the beginning or end of a stream is fine.
 - **1/4 Jack usage is discouraged.** These can be too physically demanding for players of this level. Minijacks with ample rest time in between may be acceptable.
 - **Avoid using more than 9 consecutive notes in a trill.** The coordination and hand balance required for this pattern is too difficult for players at this skill level.

@@ -1,26 +1,25 @@
----
-needs_cleanup: true
----
+<!-- TODO: should also have articles for each hit object -->
+<!-- TODO: other games modes? =( -->
 
-# Hit Objects
+# Hit objects
 
 A hit object is the core gameplay element in osu!. There are three types of hit objects:
 
--   Hit Circle
--   Slider
--   Spinner
+- Hit Circle
+- Slider
+- Spinner
 
 Hit circles and sliders are encountered frequently, while spinners typically only appear occasionally. Everything you interact with during the course of a beatmap is a hit object.
 
 ## Hit Circle
 
-![A hit circle in the default skin.](Hit_circle.png "A hit circle in the default skin.")
+![A hit circle in the default skin.](img/Hit_circle.png "A hit circle in the default skin.")
 
 Hit circles, or "hit markers" in the DS games, are coloured circles with a number on them that shows its place in a combo. These are outlined with another circle (the approach circle) shrinking around it. Once the approach circle outline overlaps the hit circle's border, the player should click on/tap the hit circle, earning a set number of points (50, 100, or 300) based on how accurate they were (e.g. if they clicked too early, their points would be reduced). Tapping regular hit circles gives a very small boost to the life bar, and at the end of a combo a bigger boost will be awarded if the player did well in that combo.
 
 ## Slider
 
-![A slider in the default skin.](Slider2.jpg "A slider in the default skin.")
+![A slider in the default skin.](img/Slider2.jpg "A slider in the default skin.")
 
 A slider consists of two hit circles with a track between them that can be either straight, angled (e.g. a sharp 45 degree turn), or bezier curved. An approach circle is around the beginning hit circle of the slider. Once the approach circle reaches its border, like with hit circles, the player must click on/tap the beginning of the slider and then, keeping the button pressed, follow a moving ball (called a slider ball) along the track until the other hit circle is reached. If there is a reverse arrow graphic at that point, the player follows the slider ball back along the same path and repeats as long as a reverse arrow graphic is visible.
 
@@ -48,7 +47,7 @@ This may seem obvious at first to experienced players. However, this is one of t
 
 A **slider's speed** defines how much time it takes to travel a given distance--or equivalently, how far the slider travels in a given time.
 
-Slider speed is measured in *hundreds of [osupixels](/wiki/Glossary/#osupixel) per beat,* so a slider with a speed of 1.00 will travel 100 osupixels (or, 100 pixels at 640x480 resolution) in one full beat. This means that sliders with a particular speed setting will travel faster when the BPM is higher.
+Slider speed is measured in *hundreds of [osupixels](/wiki/Glossary#osupixel) per beat,* so a slider with a speed of 1.00 will travel 100 osupixels (or, 100 pixels at 640x480 resolution) in one full beat. This means that sliders with a particular speed setting will travel faster when the BPM is higher.
 
 Slider speed can be assigned from the Timing tab from the editor main window. You can also assign a multiplier to this speed value by adding an inheriting [timing section](/wiki/Beatmap_Editor/Timing).
 
@@ -62,7 +61,7 @@ Typical slider tick rate includes 1, 2 and 4. 3 is also available but used rarel
 
 ## Spinner
 
-![A spinner in the default skin.](Spinner.jpg "A spinner in the default skin.")
+![A spinner in the default skin.](img/Spinner.jpg "A spinner in the default skin.")
 
 A spinner is a circle that takes up the entire play area. Below the spinner is a number showing the spins per minute (RPM). The player should hold the mouse or keyboard button down and spin in either a clockwise or anti-clockwise direction. As long as the mouse button is held down, the cursor is locked on the Spinner’s area, so the player need not worry about going outside it. Once the player has spun for a while (dependent on the difficulty and length of the spinner), the spinner will be cleared, glowing white. Any continuous spins after this will award 1000-point bonuses per approximate spin. Spinning a spinner provides a continuous minor boost to the [Life Bar](/wiki/Glossary) depending on the spinning speed.
 

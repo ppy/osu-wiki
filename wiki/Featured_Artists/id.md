@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 84df5a5c33bb4256a47c830bc67b6f3bb7636846
+---
+
 # Featured Artists
 
 **Artis Unggulan (Featured artists)** adalah artis musik yang telah bekerjasama dengan osu! untuk membuat pilihan lagu-lagu mereka tersedia dan dapat digunakan oleh komunitas. Beberapa dari Featured Artist membuat beberapa lagu yang spesifik dengan osu! dan dirilis secara ekslusif di osu!.

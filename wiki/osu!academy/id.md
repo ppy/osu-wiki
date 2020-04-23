@@ -16,7 +16,7 @@ Jika Anda memiliki pertanyaan atau komentar, Anda bisa mengirimnya kepada [ztrot
 ## Daftar Episode
 
 | Thumbnail Episode | Pranala | Deskripsi |
-|----------------------------------------------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| :-- | :-- | :-- |
 | ![](img/Academy_1.png) | [Episode 1](https://www.youtube.com/watch?v=cz522ZAs5aQ "Episode 1") | Dalam episode ini, kita akan membahas cara memasang osu! dan membuat sebuah akun |
 | ![](img/Academy_2.png) | [Episode 2](https://www.youtube.com/watch?v=mswLEXK0eDk "Episode 2") | Dalam episode ini, kita akan membahas gameplay standard dan bagaimana mengubah pengaturan gaya bermain! |
 | ![](img/Academy_3.png) | [Episode 3](https://www.youtube.com/watch?v=UAomychlbic "Episode 3") | Dalam episode ini, kita akan membahas mode permainan osu!mania bersama LoliFlan! |
@@ -56,6 +56,6 @@ Jika Anda memiliki pertanyaan atau komentar, Anda bisa mengirimnya kepada [ztrot
 
 ## Pranala Luar
 
-- [Sumber](https://news.ppy.sh/post/70504430082/introducing-the-osu-academy)
+- [Sumber](https://osu.ppy.sh/home/news/2013-12-19-introducing-the-osu-academy)
 - [Channel YouTube resmi](https://www.youtube.com/user/osuacademy/videos)
 - [Forum diskusi resmi](https://osu.ppy.sh/community/forums/topics/169707)

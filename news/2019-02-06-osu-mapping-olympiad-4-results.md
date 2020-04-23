@@ -11,7 +11,7 @@ date: 2019-02-06 20:00:00 +0000
 Back in September, we challenged our great mapping community to create a thorougly fruity difficulty spread to the entrancing tune of [Thaehan](https://osu.ppy.sh/beatmaps/artists/7) - Yuujou. Ten mappers stepped up to the plate, showcasing their abilities for a chance to join the coveted ranks of osu!'s *Elite Mappers*. The results can be seen below:
 
 | Rank | Username | Entry Name | Musical Relevance (30) | Creativity (30) | Technique (30) | Impression (30) | Hitsounding (15) | Difficulty Spread (15) | Total Score |
-| :-: | --- | --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| :-: | :-- | :-- | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | \#1 | Sinnoh | Zealous Beaver | 27.5 | 26.5 | 26 | 29 | 13 | 13 |  **135** |
 | \#2 | Minato Yukina | Esteemed Dragon | 27 | 24 | 24 | 26 | 12 | 13 | **126** |
 | \#3 | Ascendance | Puzzled Crow | 23.5 | 23 | 22 | 23.5 | 14 | 11.5 | **117.5** |

@@ -30,9 +30,9 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 3 months of osu!supporter tag |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 3 months of osu!supporter tag |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
 *Extra 1 month of osu!supporter tag was given to Grand Finals tiebreaker winner.*
 
@@ -97,9 +97,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_FI] [SanteriP](https://osu.ppy.sh/users/1981187) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_CN] [Play Offline](https://osu.ppy.sh/users/5791401) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_FI] [SanteriP](https://osu.ppy.sh/users/1981187) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CN] [Play Offline](https://osu.ppy.sh/users/5791401) |
 
 -----------------------
 

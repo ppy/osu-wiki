@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest #2 - Submissions Open!"
-date: 2014-10-28 00:00:00 +0000
+date: 2013-10-28 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/65311349854/monthly-beatmapping-contest-2-submissions-open
 ---
 

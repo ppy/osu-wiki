@@ -1,19 +1,20 @@
 ---
-outdated: true
+needs_cleanup: true
 ---
+<!-- TODO: lots of incomplete sentences and conflicting formatting -->
 
-# osu! Program Files
+# osu! program files
 
-![osu! Program Files in nutshell](img/osu!-program-files.png "osu! Program Files in nutshell")
+![osu! Program Files in a nutshell](img/osu!-program-files.png "osu! Program Files in a nutshell")
 
 ## Location
 
 ### Windows
 
 | Current default filepath | Old installer filepath |
-| ------------------------ | ---------------------- |
+| :-- | :-- |
 | `C:\Users\<Username>\AppData\Local\osu!` | `C:\Program Files\osu!` / `C:\Program Files(x86)\osu!` (for 7 64-bit or 8) |
-> `C:` is your harddisk with osu! installed.
+> `C:` is your drive with osu! installed.
 
 ## Folders
 
@@ -86,10 +87,10 @@ The .db files are beatmaps' data which only osu!.exe/osu!test.exe can utilise. N
 
 **osu! database**
 
--   collection.db (Your "Collections" in-game. You can post it to forum for others to check out your "Collections". Actual beatmaps not provided.)
--   osu!.db (osu! beatmaps' cache. You know, that long start-up loading screen before you see Song Selection?)
--   presence.db (Cache of osu!players @ Chat Console)
--   scores.db (Stores historical Local scores)
+- collection.db (Your "Collections" in-game. You can post it to forum for others to check out your "Collections". Actual beatmaps not provided.)
+- osu!.db (osu! beatmaps' cache. You know, that long start-up loading screen before you see Song Selection?)
+- presence.db (Cache of osu!players @ Chat Console)
+- scores.db (Stores historical Local scores)
 
 ### .cfg (Configuration files)
 
@@ -108,23 +109,25 @@ osu!.exe (Start-up osu!)
 
 #### .dll (application extension)
 
-The .dll files are components of osu!.exe so ignore it.
+These .dll files are components of osu!.
 
-**Base components** (For Microsoft .NET)
+**Base components**
 
--   avcodec-51.dll
--   avformat-52.dll
--   avutil-49.dll
--   bass.dll
--   bass_fx.dll
--   d3dx9_31.dll
--   Microsoft.Ink.dll
--   Microsoft.Xna.Framework.dll
--   pthreadGC2.dll
--   x3daudio1_1.dll
+- avcodec-51.dll
+- avformat-52.dll
+- avutil-49.dll
+- bass.dll
+- bass_fx.dll
+- d3dcompiler_47.dll
+- libEGL.dll
+- libGLESv2.dll
+- Microsoft.Ink.dll
+- OpenTK.dll
+- pthreadGC2.dll
 
 **osu! components**
 
--   osu!gameplay.dll
--   osu!ui.dll
--   osu.dll
+- osu!gameplay.dll
+- osu!seasonal.dll
+- osu!ui.dll
+- osu.dll

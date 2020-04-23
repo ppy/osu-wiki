@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introducing the osu! academy"
-date: 2014-12-19 00:00:00 +0000
+date: 2013-12-19 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/70504430082/introducing-the-osu-academy
 ---
 

@@ -1,0 +1,48 @@
+separator: ", "
+gmt:
+  all_mods: 全员
+  areas:
+    beatmap: 谱面管理
+    chat: 聊天室管理
+    forum: 论坛管理
+    team: 官方团队
+    dev: osu! 开发
+    osu_idol: osu!idol 主持者
+    player: 玩家支持
+    support: 技术支持
+    tournaments: 比赛
+    wiki: Wiki 管理
+nat:
+  areas:
+    communication: 沟通
+    evaluation: 评估
+    moderation: 管理
+    structural: 构造
+languages:
+  partial: 部分<language>
+  ar: 阿拉伯语
+  bg: 保加利亚语
+  ca: 加泰罗尼亚语
+  de: 德语
+  el: 希腊语
+  es: 西班牙语
+  et: 爱沙尼亚语
+  fi: 芬兰语
+  fil: 菲律宾语
+  fr: 法语
+  hu: 匈牙利语
+  id: 印度尼西亚语
+  it: 意大利语
+  ja: 日语
+  ko: 韩语
+  ms: 马来语
+  nl: 荷兰语
+  pl: 波兰语
+  pt: 葡萄牙语
+  ru: 俄语
+  sr: 塞尔维亚语
+  sv: 瑞典语
+  th: 泰语
+  tr: 土耳其语
+  yue: 粤语
+  zh: 中文

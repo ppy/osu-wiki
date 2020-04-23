@@ -6,7 +6,7 @@ _Page principale: [osu!tourney](/wiki/osu!tourney)_
 
 La salle multijoueur doit être nommée en suivant le modèle listé dans le panneau de contrôle du client osu!tourney.
 
-Le modèle montré est le suivant:  
+Le modèle montré est le suivant:
 `Acronyme_du_tournoi.cfg: (Nom de l'équipe 1) vs (Nom de l'équipe 2)`
 
 `Acronyme_du_tournoi.cfg` est entièrement remplacé par la valeur d'`acronyme` du fichier `tournament.cfg` du [guide de mise en place](/wiki/osu!tourney/Setup).
@@ -26,14 +26,14 @@ Comme expliqué dans le [guide d'utilisation du spectateur](/wiki/osu!tourney/Sp
 
 Pas exemple, avec `TeamSize = 4`, les première, deuxième, troisième et quatrième positions appartiendront à l'équipe bleue, et les cinquième, sixième, septième et huitième positions appartiendront à l'équipe rouge. Avec `TeamSize = 3`, les première, deuxième et troisième positions appartiendront à l'équipe bleue et les quatrième, cinquième et sixième positions appartiendront à l'équipe rouge.
 
-![La correspondance des fenêtres d'osu!tourney aux positions de la salle multijoueur](Osutourneyassignment.png "Assignement des joueurs dans osu!tourney")
+![La correspondance des fenêtres d'osu!tourney aux positions de la salle multijoueur](img/Osutourneyassignment.png "Assignement des joueurs dans osu!tourney")
 
 **osu!tourney ignore la couleur des équipes dans l'assignement de la position** - il ne prend en compte que la position que le joueur occupe dans la salle multijoueur. Ci-dessous sont des exemples d'osu!tourney avec différentes tailles d'équipes. Les nombres sur l'écran indiquent les positions assignés du lobby multijoueur. Ces nombres ne sont pas visibles durant une utilisation normale et ne sont ici que pour les exemples :
 
-![TeamSize = 4](Osutourneywindows.png)
+![TeamSize = 4](img/Osutourneywindows.png)
 
-![TeamSize = 3](Teamsize3.png "TeamSize = 3")
+![TeamSize = 3](img/Teamsize3.png "TeamSize = 3")
 
-![TeamSize = 2](Teamsize2.png "TeamSize = 2")
+![TeamSize = 2](img/Teamsize2.png "TeamSize = 2")
 
-![TeamSize = 1](Teamsize1.png "TeamSize = 1")
+![TeamSize = 1](img/Teamsize1.png "TeamSize = 1")

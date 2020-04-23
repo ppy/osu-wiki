@@ -1,5 +1,5 @@
 ---
-outdated: true
+no_native_review: true
 ---
 
 # Regras
@@ -12,7 +12,7 @@ Estas regras tem o propósito de manter a comunidade do osu! divertida e agradá
 2. **Jogue justo.** Usar aplicativos de terceiros de qualquer natureza para adquirir qualquer tipo de vantagem não é legal. Isso inclui coisas como programas de macro, programas que auxiliem com a mira, modificação da escala de tempo, e assim vai. Se algum programa está fazendo algo que te ajude a jogar quando você deveria ter feito, não é okay!
 3. **Seja agradável com as pessoas.** Assédio ou qualquer outro tipo de comportamento impróprio não é aceito dentro da comunidade do osu! Nós estamos aqui para clicar em círculos, bater no ritmo dos tambores, pegar frutas, e acertar dezoito teclas de uma vez, não para perseguir outros jogadores.
 4. **Não seja idiota.** Se em algum momento você não tem certeza de que está ou não quebrando essa regra, provavelmente você está.
-5. **Somos uma comunidade livre para todos.** Isso significa que conteúdo impróprio para menores/[NSFW](https://en.wikipedia.org/wiki/NSFW) tais como uso de drogas ou assuntos de natureza sexual não são bem-vindos aqui. Exceções são feitas quando tal assunto é apropriado para o momento, mas de uma maneira geral, não fale sobre isso.
+5. **Somos uma comunidade livre para todos.** Isso significa que conteúdo impróprio para menores/[NSFW](https://pt.wikipedia.org/wiki/Not_safe_for_work) tais como uso de drogas ou assuntos de natureza sexual não são bem-vindos aqui. Exceções são feitas quando tal assunto é apropriado para o momento, mas de uma maneira geral, não fale sobre isso.
 6. **Onde as regras não prevalecem, o senso comum deve.** A administração tem total liberdade de discrição para aplicar um julgamento nisso conforme achem necessário.
 
 ## Regras do Chat
@@ -25,13 +25,13 @@ Estas regras tem o propósito de manter a comunidade do osu! divertida e agradá
 6. **Tenha cuidado com o que compartilha com os outros, especialmente se for um conteúdo potencialmente perturbador ou de natureza gráfica alta.** Caso tenha que pensar duas vezes se um link é ou não apropriado, provavelmente não é. Evite coisas com luzes rápidas e piscantes, conteúdo explícito, imagens abusivas ou outro material gráfico inapropriado.
 7. **Compartilhe links relevantes e seguros.** Sites de compartilhamento de arquivos gravados (sites licenciados e oficias como Animelab e Crunchyroll não tem problema) e qualquer coisa relacionada à pirataria de softwares ou de qualquer tipo não são permitidos, e não queremos esse tipo de conteúdo no canal. Compartilhar links do Twitch de qualquer outro tipo de jogo não tem problema, mas APENAS no `#videogames`.
 8. **Não compartilhe servidores de terceiros de qualquer tipo, incluindo grupos/servidores do Discord, Teamspeak ou Skype.** Os canais do osu! são em sua maioria utilizados apenas para conversas relacionadas ao osu!, e não para compartilhar links do seu servidor pessoal. Faça-o através da mensagem privada caso realmente seja necessário.
-9. **Em canais de idioma específico, você deve falar o idioma dominante (inglês para `#english`, tailandês para `#thai`, etc) se você está participando da conversa.** Quando o idioma de um canal não é explicitamente claro (ou especificado no nome do canal, assim como português para `#portuguese` e inglês para `#english`), converse sempre em inglês. O `#lobby` e `#help` são utilizados para qualquer tipo de idioma, diferente dos outros canais. *Membros da [equipe de moderação](/wiki/People/Global_Moderation_Team) não precisam seguir essa regra caso estejam fazendo seu trabalho.*
+9. **Em canais de idioma específico, você deve falar o idioma dominante (Inglês para `#english`, Tailandês para `#thai`, etc) se você está participando da conversa.** Quando o idioma de um canal não é explicitamente claro (ou especificado no nome do canal, assim como Português para `#portuguese` e Inglês para `#english`), converse sempre em Inglês. O `#lobby` e `#help` são utilizados para qualquer tipo de idioma, diferente dos outros canais. *Membros da [equipe de moderação](/wiki/People/Global_Moderation_Team) não precisam seguir essa regra caso estejam fazendo seu trabalho.*
 
 ## Regras do Fórum
 
 1. **Poste apenas conteúdo relevante, interessante, ou ao menos mantenha-se no tópico.** Fóruns são para discussões abertas, então tenha certeza de colocar o mínimo de esforço para compensar o tempo de todos.
 2. **Mantenha suas postagens e respostas adequadas para pessoas de todas as idades.** Conteúdo NSFW não é apropriado para uma comunidade livre para todas as idades, embora não tenha nada para impedir que você converse isso através de mensagens privadas.
-3. **Produza críticas construtivas sem resultar em ataques pessoais.** Críticas são algo incrível caso sejam feitas apropriadamente, mas se você recorre a ataques pessoais para conseguir esclarecer um ponto feito, você está fazendo isso errado e deveria se sentir mal por isso.
+3. **Produza críticas construtivas sem recorrer a ataques pessoais.** Críticas são algo incrível caso sejam feitas apropriadamente, mas se você recorre a ataques pessoais para conseguir esclarecer um ponto feito, você está fazendo isso errado e deveria se sentir mal por isso.
 4. **Mantenha os tópicos relevantes, e evite ressuscitar tópicos antigos caso a conversa já tenha morrido.** Se um tópico está morto há anos, ele não é mais relevante, então apenas deixe-o onde está. Faça um novo, ou talvez procure por alguém que já tenha respondido sua pergunta.
 5. **Mantenha sua assinatura e avatar em um formato apropriado.** Caso as imagens sejam animadas, não devem tremer ou piscar excessivamente. Elas também precisam ser de um tamanho pequeno o suficiente para que não atrapalhem usuários de conexão mais lenta, de preferência na metade de um megabyte (500 kilobytes) quando possível.
 6. **Não poste anúncios, links tendenciosos ou qualquer outro tipo de conteúdo invasivo ou irritante.** Coisas como propagandas e links de redirecionamento são divertidos para a pessoa que está postando-as, mas um incômodo para todo o resto, então não faça isso. Conteúdos que carregam automaticamente também caem nessa regra.
@@ -39,11 +39,11 @@ Estas regras tem o propósito de manter a comunidade do osu! divertida e agradá
 
 ## Regras de Envio de Beatmap
 
+*Nota: Essas regras se aplicam a **todos os mapas enviados**, não só para os Ranqueados. Para mais regras específicas a respeito de beatmaps Ranqueados, veja a [Ranking Criteria](/wiki/Ranking_Criteria).*
+
 Estas regras se aplicam aos beatmaps enviados pelo [Sistema de Envio de Beatmaps](/wiki/Glossary#bss). Estes tópicos/discussões são criadas através do cliente do osu! quando um beatmap é enviado através do [editor](/wiki/Beatmap_Editor).
 
-Uma página de regras mais detalhadas para a elaboração de um beatmap existe, conhecida como [Ranking Criteria](/wiki/Ranking_Criteria).
-
-1. **Tenha certeza de que você tem permissão para utilizar o conteúdo publicado no seu beatmap.** Isso inclui músicas, vídeos, hitsounds, imagens, e qualquer conteúdo que não seja de sua autoria. Caso não tenha certeza de onde encontrar conteúdo para ser usado livremente, nós temos uma crescente biblioteca de músicas disponível no [artistas em destaque](https://osu.ppy.sh/beatmaps/artists/), todas 100% licenciadas para uso no osu!.
+1. **Tenha certeza de que você tem permissão para utilizar o conteúdo publicado no seu beatmap.** Isso inclui músicas, vídeos, hitsounds, imagens, e qualquer conteúdo que não seja de sua autoria. Caso não tenha certeza de onde encontrar conteúdo para ser usado livremente, nós temos uma crescente biblioteca de músicas disponível na listagem de [Artistas em Destaque](https://osu.ppy.sh/beatmaps/artists/), todas 100% licenciadas para uso no osu!.
 2. **Mantenha-se no tópico nas conversas.** Estes tópicos/discussões são sobre o beatmap em questão, nada mais. Caso tenha algum problema que não seja diretamente relacionado ao beatmap, faça uma postagem no fórum apropriado.
 3. **Não plagie ou tente roubar o trabalho dos outros.** Também não envie ou utilize o conteúdo de outras pessoas sem a devida permissão (incluindo, mas se não limitando a, skins e dificuldades colaborativas (guest difficulties)).
 
@@ -58,12 +58,12 @@ Essas coisas ruins incluem (*mas não se limitam a*):
 * Perda do privilégio de edição ou alteração da página de usuário ou detalhes do perfil.
 * Perda do privilégio de jogar ou ser qualificado para participação em torneios oficiais.
 
-Silences e outras infrações **automaticamente** aumentam sua duração quase que exponencialmente à partir de cada infração. Moderadores não controlam o tempo do seu silence por uma ofensa - usuários que quebrarem as regras com frequência se encontrarão impossibilitados de ter acesso ao jogo por um longo período de tempo.
+Silences e outras infrações **automaticamente** aumentam sua duração quase que exponencialmente à partir de cada infração. Moderadores não controlam o tempo do seu silence por uma ofensa - usuários que quebrarem as regras com frequência se encontrarão impossibilitados de ter acesso ao jogo por progressivamente longos períodos de tempo.
 
-Certos tipos de ofensas acarretam em uma duração mínima (normalmente 48 horas ou mais) caso sejam particularmente severas, embora sejam reservadas à infrações mais severas, tais como compartilhamento de conteúdo gráfico explícito ou excessivo assédio à usuários.
+Certos tipos de ofensas acarretam em uma duração mínima (normalmente 48 horas ou mais) caso sejam particularmente severas, embora sejam reservadas à infrações mais severas, tais como compartilhamento de conteúdo gráfico explícito ou excessivo assédio à outros usuários.
 
 Se você continuar quebrando as regras após ser punido, sua conta pode ser permanentemente e irrevogavelmente restrita.
 
 Contas restritas não podem jogar online, enviar pontuações, conversar com outros e são de todas as formas "banidas" de qualquer tipo de interação com a comunidade. Restrição por violação de regras só poderá ser removida através de uma apelo ou recurso à equipe de suporte depois de 3 meses ([condições adicionais podem ser aplicadas](/wiki/Help_Centre/Account_Restrictions#common-restriction-reasons-and-cooldowns))).
 
-Várias ofensas que vão além das nossas regras da comunidade e caem em jurisdição de conteúdo ilegal através de leis internacionais resultará em terminação imediata da conta. Isso se aplica exclusivamente a conteúdo extremamente gráfico ou ofensas abomináveis como pornografia infantil ou outro material abusivo.
+Ofensas graves que vão além das nossas regras da comunidade e caem em jurisdição de conteúdo ilegal através de leis internacionais resultará em terminação imediata da conta. Isso se aplica exclusivamente a conteúdo extremamente gráfico ou ofensas abomináveis como pornografia infantil ou outro material abusivo.
