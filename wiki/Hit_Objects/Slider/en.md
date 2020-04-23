@@ -9,7 +9,7 @@ tags:
 
 # Slider
 
-A *slider* is a [hit object](/wiki/Hit_Objects) in [osu!standard](/wiki/Game_Modes/osu!), which consists of a sliderhead a sliderbody and a sliderend. Once the approach circle reaches the sliderhead's border, like with [hit circles], the player must click on/tap the beginning of the slider and then, keeping the button pressed, follow a moving ball (called a slider ball) along the track until the sliderend is reached. If there is a reverse arrow, the player must follow the slider ball back along the same path. Sliders with reverse arrows are called [reverse sliders](/wiki/Hit_Objects/Reverse_Slider). A slider's speed is defined by it's [slider velocity](/wiki/Hit_Objects/Slider_Velocity) and the current timing section's slider velocity multiplier.
+A *slider* is a [hit object](/wiki/Hit_Objects) in [osu!standard](/wiki/Game_Modes/osu!), which consists of a sliderhead a sliderbody and a sliderend. Once the approach circle reaches the sliderhead's border, like with [hit circles](/wiki/Hit_Objects/Hit_Circle), the player must click on/tap the beginning of the slider and then, keeping the button pressed, follow a moving ball (called a slider ball) along the track until the sliderend is reached. If there is a reverse arrow, the player must follow the slider ball back along the same path. Sliders with reverse arrows are called [reverse sliders](/wiki/Hit_Objects/Reverse_Slider). A slider's speed is defined by it's [slider velocity](/wiki/Hit_Objects/Slider_Velocity) and the current timing section's slider velocity multiplier.
 
 Slider ticks are small circles that appear in regular intervals along the sliderbody. The player only fails to completely clear a slider if the cursor is outside the slider ball range (defined by the circle around the ball) or the mouse button is unpressed while the slider ball is passing over a slider tick. Being outside the slider ball range or unpressing the button at any other time will not yield any penalty (though it is not advised as it could easily result in a sliderbreak). Passing over a sliderend or a slider tick will give a small health boost; usually just barely enough to keep the health bar where it is.
 
@@ -24,6 +24,8 @@ Users can also adjust the number of ticks on their beatmap's sliders in the `Tim
 ## Hitsounding Sliders
 
 [Hitsounding](/wiki/Glossary) sliders is most effectively done by selecting each part of a slider by double-clicking it in the [timeline](/wiki/Beatmap_Editor/Timelines). This will highlight the element in red and limit hitsounds to the selected part. If this selection isn't done, hitsounds will apply to the whole slider and will sound confusing for sliders that cover multiple, different sounds.
+
+To change a slider's volume mid-slider, the current sampleset has to be changed alongside the volume for the change to take effect. This is necessary because the osu! client doesn't take sliderbodies properly into account when hitsound volumes are changed.
 
 ## Slider Techniques
 
