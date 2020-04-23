@@ -17,28 +17,28 @@ The beatmap editor is separated into four main sections which can be seen in the
 
 ## Compose
 
-[Compose](/wiki/Beatmap_Editor/Compose) is where all [hit objects](/wiki/Hit_Objects) and other gameplay related elements are placed and synced with the beat. Most mappers spend more time in this category than all of the other categories combined because of this.
+[Compose](/wiki/Beatmap_Editor/Compose) is where all [hit objects](/wiki/Hit_Objects) and other gameplay-related elements are created. Most mappers spend more time in this tab than all of the others because of this.
 
 ## Design
 
-[Design](/wiki/Beatmap_Editor/Design) is where [storyboards](/wiki/Storyboards) can be made. Storyboards are elements that can heavily enhance the gameplay experience even though they have no direct impact on gameplay. Most mappers do not use this tab much though, as storyboarding is a difficult topic to get a grasp of. To see other ways of creating storyboards, see [storyboard scripting](/wiki/Storyboard_Scripting)
+[Design](/wiki/Beatmap_Editor/Design) offers a way to make [storyboards](/wiki/Storyboards), the visual effects that accompany beatmaps. Because storyboards often have complex effects warranting usage of many storyboard commands, mappers also use [storyboard scripting](/wiki/Storyboard_Scripting) directly without entering the design tab.
 
 ## Timing
 
-[Timing](/wiki/Beatmap_Editor/Timing) manages sections of a song and controls a map's hitsounds. This is essential since a beatmap needs appropriate feedback and correct timing to match the gameplay experience to the rhythm of a song.
+[Timing](/wiki/Beatmap_Editor/Timing) manages timing sections of a song and controls a beatmap's hitsounds. This is essential since a beatmap needs correct timing and appropriate feedback to match the gameplay experience to the rhythm of a song.
 
 ## Song setup
 
-[Song setup](/wiki/Beatmap_Editor/Song_Setup) primarily fills in a beatmap's [metadata](/wiki/Ranking_Criteria#metadata) and other things universal to a [beatmapset](/wiki/Glossary#beatmapset). This includes things such as the title of a song, the artist, the difficulty name, combo colours, and more.
+[Song setup](/wiki/Beatmap_Editor/Song_Setup) fills in a beatmap's [metadata](/wiki/Ranking_Criteria#metadata) and other things universal to a [beatmapset](/wiki/Glossary#beatmapset). This includes the title of a song, the artist, the difficulty name, combo colours, etc.
 
 ## Other
 
 Other components of the beatmap editor include:
 
-- [AiMod](AiMod) which is the first [modder](/wiki/Glossary#modder) a beatmapper can use.
-- [Beat Snap Divisor](Beat_Snap_Divisor) which snaps the timeline to the beat.
-- [Distance Snap](Distance_Snap) which is the multiplier that affects how close or far [hit objects](/wiki/Hit_Objects) are placed from each other.
-- [Kiai Time](Kiai_Time) which is a term given for a "special" timing section to help emphasize a part of a beatmap.
-- [Menu](Menu) which helps you navigate the beatmap editor.
-- [SB Load](SB_Load) which is a number used to tell how demanding a storyboard is. Anything past 5x is bad for ancient machines.
-- [Timelines](Timelines) which displays placed hit objects, breaks, and more.
+- [AiMod](AiMod): An automated system that reports problems in a beatmap
+- [Beat snap divisor](Beat_Snap_Divisor): Determines how objects snap to the timeline
+- [Distance snap](Distance_Snap): The multiplier that affects how close or far hit objects are placed from each other
+- [Kiai time](Kiai_Time): Special timing sections that help emphasize a part of a beatmap
+- [Menu](Menu): Helps you navigate the beatmap editor
+- [SB load](SB_Load): A number used to tell how demanding a storyboard is
+- [Timelines](Timelines): Displays placed hit objects, breaks, and more
