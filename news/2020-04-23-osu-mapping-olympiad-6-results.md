@@ -6,9 +6,9 @@ date: 2020-04-23 17:00:00 +0000
 
 Apples, oranges, bananas and... waffles? The results for the second osu!catch Mapping Olympiad contest are in! See who came out on top to join the coveted ranks of the Elite Mappers!
 
-[![](https://osu.ppy.sh/wiki/shared/news/banners/osu_mapping_olympiad.jpg)](https://osu.ppy.sh/community/contests/90)
+![](https://osu.ppy.sh/wiki/shared/news/banners/osu_mapping_olympiad.jpg)
 
-In this installment of the Mapping Olympiad contest, the community was tasked with creating two osu!catch difficulties for [*MYLK*](https://osu.ppy.sh/beatmaps/artists/62)'s Waffle Wave. One of the two difficulties was required to be of a lower playing skill level (Easy, Normal or Hard), with the other being for players of a higher skill level (Insane or Expert). The results can be seen below:
+In [this installment of the Mapping Olympiad contest](https://osu.ppy.sh/community/contests/90), the community was tasked with creating two osu!catch difficulties for [*MYLK*](https://osu.ppy.sh/beatmaps/artists/62)'s Waffle Wave. One of the two difficulties was required to be of a lower playing skill level (Easy, Normal or Hard), with the other being for players of a higher skill level (Insane or Expert). The results can be seen below:
 
 | Rank | Username | Entry Name | Musical Relevance (60) | Creativity (60) | Technique (60) | Impression (30) | Hitsounding (30) | Total Score |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
