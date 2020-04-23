@@ -13,5 +13,6 @@ The outer white circle shows how much time left to complete the spinner. This ci
 
 The maximum number of spins per minute achievable is 477 which is also the rate at which the [Auto](/wiki/Game_Modifiers) game modifier spins while the [Spun Out](/wiki/Game_Modifiers) game modifier spins slower at 287 spins per minute.
 
+<!-- TODO: Include Skinnable Property-->
 <!-- This is a stub-->
 <!-- TODO: Add links and images-->

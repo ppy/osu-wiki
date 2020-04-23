@@ -17,7 +17,7 @@ Slider ticks are small circles that appear in regular intervals along the slider
 
 Sliders can be created in the [beatmap editor](/wiki/Beatmap_Editor) by selecting the Slider icon from the selection menu on the left, and clicking once on the playfield. This will create a sliderhead in the selected position. Moving the cursor will show a preview of how the slider will look if you finish it in the current spot. Slideranchors can now be placed to manipulate the path of the sliderbody. To curve a slider, place a slideranchor by left-clicking anywhere on the playfield. To create sharp angles double-click instead. This will create a red slideranchor. Once you're satisfied with the placement of your slider, right-click to end it.
 
-You are free to move/add/remove slider control points after the slider is finished. You can remove control points by right clicking them after the slider has been selected, or add a control point by holding `Ctrl` and clicking anywhere inside the sliders (double click or control+click a slider point to make a red control point). Sliders can also be reversed by clicking and dragging the sliderend in the timeline.
+You are free to move/add/remove slider control points after the slider is finished. You can remove control points by right clicking them after the slider has been selected, or add a control point by holding `Ctrl` and clicking anywhere inside the sliders (double click or control+click a slider point to make a red control point). Sliders can also be reversed by clicking and dragging the sliderend in the timeline. <!-- TODO: Insert curve types/algorithm in here maybe-->
 
 Users can also adjust the number of ticks on their beatmap's sliders in the `Timing` section. More ticks make the combo rise faster (1x more per tick) and thus offer the opportunity for higher scores, but at the same time they provide more chances for the player to fail as judgement becomes harsher.
 
@@ -31,5 +31,6 @@ To change a slider's volume mid-slider, the current sampleset has to be changed 
 
 Sliders are often mapped to long or held sounds in music, but can be used anywhere as long as there is rhythm to support it. Sliders are used to make reading intuitive when songs have rhythm-changes since sliderends give feedback but are played passively. Sliders are also used to simplify rhythm on easier difficulties.
 
+<!-- TODO: Include Skinnable Property-->
 <!-- TODO: Mention Sliderleniency and Slider Art here-->
 <!-- TODO: Add links and images-->
