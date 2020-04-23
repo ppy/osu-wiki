@@ -158,7 +158,7 @@ Catatan: Mod spesial seperti [Perfect](/wiki/Game_Modifiers) atau [Nightcore](/w
 ### Kontrol menggunakan Mouse
 
 -   **Klik Kiri**: Menempatkan lingkaran, memulai sebuah slider, atau memilih lingkaran
--   '''Ctrl + Klik Kiri ''': Menambahkan titik baru pada slider yang telah ada
+-   **Ctrl + Klik Kiri**: Menambahkan titik baru pada slider yang telah ada
 -   **Klik Kanan**: Mengaktifkan/Menonaktifkan kombo baru, mengakhiri sebuah penempatan slider atau menghapus poin slider, menghapus lingkaran (hanya jika sedang mode memilih dan tidak memainkan lagunya).
 -   **Roda Mouse**: Memajukan / Memundurkan lagu. Tahan SHIFT untuk melewatkan dengan kecepatan 4x lipat
 -   **Ctrl + Alt + Roda Mouse**: Mengganti mode penempatan / pemilihan ketika sedang berada di daerah permainan.

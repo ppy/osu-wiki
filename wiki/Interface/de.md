@@ -141,7 +141,7 @@ Diese Sektion wird auch als Werkzeugbox bezeichnet. Wir uns in der Reihenfolge v
 
 Drücken Sie die "ESC"-Taste oder auf "Back", um zum Hauptmenü zurückzukehren.
 
-Klicken Se auf "Mode", um "'ein Liste mit allen verfügbaren Spielmodi in osu! anzeigen zu lassen'''. Klicken Sie auf den gewünschten Modus und osu! wird zum entsprechenden Modusstyle wechseln und die dazugehörige Rangliste anpassen. Alternativ können Sie auch STRG und 1 (![](/wiki/shared/mode/osu.png)[osu!](/wiki/Game_Modes/osu!)) / 2 (![](/wiki/shared/mode/taiko.png)[osu!taiko](/wiki/Game_Modes/osu!taiko)) / 3 (![](/wiki/shared/mode/catch.png)[osu!catch](/wiki/Game_Modes/osu!catch)) / 4 (![](/wiki/shared/mode/mania.png)[osu!mania](/wiki/Game_Modes/osu!mania)) drücken, um schnell zum Modus zu wechseln.
+Klicken Se auf "Mode", um **ein Liste mit allen verfügbaren Spielmodi in osu! anzeigen zu lassen**. Klicken Sie auf den gewünschten Modus und osu! wird zum entsprechenden Modusstyle wechseln und die dazugehörige Rangliste anpassen. Alternativ können Sie auch STRG und 1 (![](/wiki/shared/mode/osu.png)[osu!](/wiki/Game_Modes/osu!)) / 2 (![](/wiki/shared/mode/taiko.png)[osu!taiko](/wiki/Game_Modes/osu!taiko)) / 3 (![](/wiki/shared/mode/catch.png)[osu!catch](/wiki/Game_Modes/osu!catch)) / 4 (![](/wiki/shared/mode/mania.png)[osu!mania](/wiki/Game_Modes/osu!mania)) drücken, um schnell zum Modus zu wechseln.
 
 ![](img/Soloplay8.png "Spielmodifizierer")
 

@@ -8,7 +8,7 @@ tags:
 
 ![otst! 2020 logo](img/logo.jpg)
 
-The **osu! TV Size Tournament 2020** (***otst! 2020***) is an international four-on-four double-elimination osu! tournament hosted by ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214). It features a variety of TV-sized (usually 90 seconds in length) maps in its mappools. This is the fourth installment of the osu! TV Size Tournament.
+The **osu! TV Size Tournament 2020** (***otst! 2020***) was an international four-on-four double-elimination osu! tournament hosted by ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214). It featured a variety of TV-sized (usually 90 seconds in length) maps in its mappools. This was the fourth installment of the osu! TV Size Tournament.
 
 ## Tournament schedule
 
@@ -22,7 +22,7 @@ The **osu! TV Size Tournament 2020** (***otst! 2020***) is an international four
 | Quarterfinals | 2020-03-21/2020-03-22 |
 | Semifinals | 2020-03-28/2020-03-29 |
 | Finals | 2020-04-04/2020-04-05 |
-| Grand Finals | 2020-04-11 |
+| Grand Finals | 2020-04-11/2020-04-12 |
 
 ## Prizes
 
@@ -31,17 +31,19 @@ The **osu! TV Size Tournament 2020** (***otst! 2020***) is an international four
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag for each team member |
 
+![](img/badge.png "otst! 2020 winner badge")
+
 ## Organisation
 
-The osu! TV Size Tournament 2020 is run by various community members.
+The osu! TV Size Tournament 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214) |
 | Map selector | ![][flag_DE] [Chriz](https://osu.ppy.sh/users/2355080), ![][flag_AU] [Kazuma](https://osu.ppy.sh/users/10642837), ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214) |
-| Referee | ![][flag_DE] [ChaotiX](https://osu.ppy.sh/users/4236576), ![][flag_HK] [Cindergoat](https://osu.ppy.sh/users/10168682), ![][flag_TH] [Deppyforce](https://osu.ppy.sh/users/5286213), ![][flag_BR] [DizzyH](https://osu.ppy.sh/users/9896172), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_BG] [Geromu Keretem](https://osu.ppy.sh/users/9404532), ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_US] [moss-](https://osu.ppy.sh/users/9918921), ![][flag_DE] [real cute](https://osu.ppy.sh/users/9172811), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_CA] [Senko-san](https://osu.ppy.sh/users/2065771), ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899), ![][flag_NL] [Stan](https://osu.ppy.sh/users/11212255) |
-| Commentator | ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_VN] [Yaezaki](https://osu.ppy.sh/users/11254509) |
-| Streamer | ![][flag_PL] [Borsuk664](https://osu.ppy.sh/users/3075673), ![][flag_HK] [Cindergoat](https://osu.ppy.sh/users/10168682), ![][flag_TH] [Deppyforce](https://osu.ppy.sh/users/5286213), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
+| Referee | ![][flag_DE] [ChaotiX](https://osu.ppy.sh/users/4236576), ![][flag_TH] [Deppyforce](https://osu.ppy.sh/users/5286213), ![][flag_BR] [DizzyH](https://osu.ppy.sh/users/9896172), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_BG] [Geromu Keretem](https://osu.ppy.sh/users/9404532), ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_US] [moss-](https://osu.ppy.sh/users/9918921), ![][flag_DE] [real cute](https://osu.ppy.sh/users/9172811), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_FI] [shdewz](https://osu.ppy.sh/users/10000899), ![][flag_NL] [Stan](https://osu.ppy.sh/users/11212255) |
+| Commentator | ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251), ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_VN] [Yaezaki](https://osu.ppy.sh/users/11254509) |
+| Streamer | ![][flag_PL] [Borsuk664](https://osu.ppy.sh/users/3075673), ![][flag_TH] [Deppyforce](https://osu.ppy.sh/users/5286213), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
 | Designer | ![][flag_US] [Celsea](https://osu.ppy.sh/users/7464885) |
 | Statistician | ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_VN] [steve04](https://osu.ppy.sh/users/10852911), ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568) |
 | Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
@@ -104,22 +106,15 @@ The osu! TV Size Tournament 2020 is run by various community members.
 | **WE LOVE LWMF!** | **![][flag_AT] [TiltBoi](https://osu.ppy.sh/users/6311630)**, ![][flag_AT] [Pandadesu](https://osu.ppy.sh/users/2167069), ![][flag_AT] [LWMF](https://osu.ppy.sh/users/3632402), ![][flag_AT] [Snajper](https://osu.ppy.sh/users/4211027), ![][flag_AT] [FeeDyy](https://osu.ppy.sh/users/8123308), ![][flag_AT] [goosefedora](https://osu.ppy.sh/users/2323131), ![][flag_AT] [Teppi](https://osu.ppy.sh/users/1371974), ![][flag_DE] [Bakugo-](https://osu.ppy.sh/users/4990127) |
 | **will is 2** | **![][flag_GB] [Voss](https://osu.ppy.sh/users/7657761)**, ![][flag_US] [WillCookie](https://osu.ppy.sh/users/6404488), ![][flag_GB] [Karthy](https://osu.ppy.sh/users/4196808), ![][flag_PL] [Bartek22830](https://osu.ppy.sh/users/6404027), ![][flag_GB] [Ventus](https://osu.ppy.sh/users/1986262), ![][flag_PL] [twoja stara](https://osu.ppy.sh/users/8170186), ![][flag_PL] [twoj stary](https://osu.ppy.sh/users/3543130), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) |
 
-## Match schedule: Grand Finals
+## Podium
 
-Saturday, 11 April 2020:
+This competition has come to an end and resulted in the following podium:
 
-| Match ID | Team 1 | Team 2 | Match time (UTC) |
-| :-: | --: | :-- | :-: |
-| #L61 | Floating Up | seusbruk | **14:00** |
-
-Sunday, 12 April 2020:
-
-| Match ID | Team 1 | Team 2 | Match time (UTC) |
-| :-: | --: | :-- | :-: |
-| #L62a¹ | Rubber conquest | Floating Up | **04:00** |
-| #L62b¹ | Rubber conquest | seusbruk | **19:00** |
-
-¹ Encounter dependent on winner of match #L61. If team 2 wins match #62, the bracket reset Grand Finals match will take place approximately 30 minutes in advance.
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Rubber Conquest |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Floating up |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | seusbruk |
 
 ## Mappools
 
@@ -315,6 +310,20 @@ Sunday, 12 April 2020:
   - [Primastella - Koigokoro (Luerxa) \[Delis' Insane\]](https://osu.ppy.sh/beatmapsets/127712#osu/323875)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 11 April 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Floating Up** | **7** | 1 | seusbruk | [#1](https://osu.ppy.sh/community/matches/60274542) |
+
+Sunday, 12 April 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Rubber Conquest** | **7** | 5 | Floating up | [#1](https://osu.ppy.sh/community/matches/60303401) |
 
 ### Finals
 

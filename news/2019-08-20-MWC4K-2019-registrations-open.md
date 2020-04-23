@@ -27,7 +27,7 @@ You can discuss this event and follow the most important changes in the **[offic
 ## Prizes
 
 | Placing | Prize(s) |
-| --- | :--- |
+| :-- | :-- |
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | $150 per team member, profile badge, "osu!mania Champion" user title for one year |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, profile badge |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, profile badge |

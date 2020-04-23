@@ -69,7 +69,7 @@ Ito ang mga importanteng kakayahan na matutuklasan sa bawat progresso ng iyong p
 - Sa DS, itong ang mabuting paraan para ma scratch ang yong touchscreen (o kaya'y screen protectors), lalo na dun sa mga mahihirap na difficulties.
   - Ang maximum na numero na makukuha sa pag-spin ay 477, ito rin ang rate na nakukuha ng Auto game modifier habang ang Spun Out game modifier ay mabagal ang spin na umaabot lang ng 287 spins per minute.
 - \[Mouse\]**Pag ang iyong cursor ay di nag spin pero gumagalaw parin ng konti kahit nag-si-spin ka ng mabilis, dapat mong alamin ang limitation ng iyong mouse o kaya'y kumuha ka ng maayos na mouse/mousepad**.
-  - May mga normal na mouse ay posibleng magkaroon ng ganitong issue, at maganda kung "'magsimula mag spin ng mabagal kesa sa pag spin ng mabilis kagad."' para ma-malaman ng mouse kung ano ang ginagawa mo.
+  - May mga normal na mouse ay posibleng magkaroon ng ganitong issue, at maganda kung **magsimula mag spin ng mabagal kesa sa pag spin ng mabilis kagad.** para ma-malaman ng mouse kung ano ang ginagawa mo.
 
 #### In-Game Interface
 

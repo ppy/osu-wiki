@@ -1,12 +1,33 @@
+outdated: true # missing entries
+separator: ", "
 gmt:
-  areas_of_focus:
-    beatmap_moderation: Moderacja beatmap
-    chat_moderation: Moderacja czatu
-    forum_moderation: Moderacja forum
-    official_team_presence: Oficjalny profil zespołu gry
-    osu!_development: Rozwój gry
-    player_support: Zarządzanie społecznością
-    ranking_criteria: Zarządzanie kryteriami rankingowymi
-    technical_support: Pomoc techniczna
-    tournament_organisation: Organizowanie turniejów
-    wiki_administration: Zarządzanie wiki osu!
+  areas:
+    beatmap: Moderacja beatmap
+    chat: Moderacja czatu
+    forum: Moderacja forum
+    team: Oficjalny profil zespołu gry
+    dev: Rozwój gry
+    player: Zarządzanie społecznością
+    support: Pomoc techniczna
+    tournaments: Organizowanie turniejów
+    wiki: Zarządzanie wiki osu!
+languages:
+  bg: Bułgarski
+  ca: Kataloński
+  de: Niemiecki
+  es: Hiszpański
+  fi: Fiński
+  fil: Filipiński
+  fr: Francuski
+  hu: Węgierski
+  id: Indonezyjski
+  it: Włoski
+  ja: Japoński
+  ko: Koreański
+  nl: Holenderski
+  pl: Polski
+  pt: Portugalski
+  ru: Rosyjski
+  sv: Szwedzki
+  tr: Turecki
+  zh: Chiński
