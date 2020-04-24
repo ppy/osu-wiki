@@ -8,7 +8,7 @@ tags:
 
 *See also: [Beatmap Nominator Rules](/wiki/People/Beatmap_Nominators/Rules), [General Information for Beatmap Nominators](/wiki/People/Beatmap_Nominators/General_Information), and [Becoming a Beatmap Nominator](/wiki/People/Beatmap_Nominators/Becoming_a_Beatmap_Nominator)*
 
-The Beatmap Nominators, commonly abbreviated as *BN*, is a group in charge of [beatmap nomination](/wiki/Beatmap_ranking_procedure). As of 2014-08-22, they are no longer a part of the staff, revoking their chat moderation in-game, red name in-game, and on the forums. As of 2015-02-01, the team was changed from the *Beatmap Appreciation Team* to the *Beatmap Nominators*. Currently, they have a purple name on the forums and in beatmap discussions.
+The *Beatmap Nominators*, commonly abbreviated as **BN**, is a group in charge of [beatmap nomination](/wiki/Beatmap_ranking_procedure). As of 2014-08-22, they are no longer a part of the staff, revoking their chat moderation in-game, red name in-game, and on the forums. As of 2015-02-01, the team was changed from the *Beatmap Appreciation Team* to the *Beatmap Nominators*. Currently, they have a purple name on the forums and in beatmap discussions.
 
 ## Roles and responsibilities
 
