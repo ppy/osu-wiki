@@ -72,7 +72,7 @@ Access this screen by clicking your profile at the top left of the main menu. Yo
 
 ![](img/Soloplay1.jpg "Song Selection")
 
-You can identify the current mode selected by either looking at the icon in the bottom right, above Mode, or by looking at the transparent icon in the center of the screen. These are the four you will see:
+You can identify the current mode selected by either looking at the icon in the bottom left, above Mode, or by looking at the transparent icon in the center of the screen. These are the four you will see:
 
 - ![](/wiki/shared/mode/osu.png) is [osu!](/wiki/Game_mode/osu!)
 - ![](/wiki/shared/mode/taiko.png) is [osu!taiko](/wiki/Game_mode/osu!taiko)
@@ -114,7 +114,7 @@ Click on one of the tabs to **sort your song list according to the selected crit
 - `Collections` - This will show the collections you have created. *Note that this will hide beatmaps not listed in a collection!*
 - `By BPM` - Beatmaps will be grouped according to BPM in multiples of 60, starting at 120.
 - `By Creator` - Beatmaps will be grouped by the beatmap creator's name's first character.
-- `By Date` Added - Beatmaps will be grouped according to when they were added, from today to 4+ months ago.
+- `By Date Added` - Beatmaps will be grouped according to when they were added, from today to 4+ months ago.
 - `By Length` - Beatmaps will be grouped according to their length: 1 minute or less, 2 minutes or less, 3, 4, 5, and 10.
 - `By Mode` - Beatmaps will be grouped according to their game mode.
 - `By Rank Achieved` - Beatmaps will be sorted by the highest rank achieved on them.
@@ -204,9 +204,8 @@ These are the view settings:
 Click the word bubble icon to call up the **Quick Web Access** screen for the selected beatmap:
 
 - Press `1` or click the `Beatmap Listing/Scores` button and your default internet browser will pull up the Beatmap Listing and score page of the beatmap set the selected beatmap belongs to.
-- Press `2` or click `Beatmap Topic` and your default itnternet browser will pull up the forum thread of the beatmap set the selected beatmap belongs to.
-- Press `3` or click `Quick Reply` and your default internet browser will pull up a page where you can compose a reply to the forum thread of the beatmap set the selected beatmap belongs to.
-- Press `4` or `Esc` or click `Cancel` to return to the Song Selection Screen.
+- Press `2` or click `Beatmap Modding` and your default internet browser will pull up the modding page of the beatmap set the selected beatmap belongs to.
+- Press `3` or `Esc` or click `Cancel` to return to the Song Selection Screen.
 
 While you are on the Quick Web Access Screen, you cannot access the Chat and Extended Chat Consoles.
 
@@ -253,7 +252,7 @@ Click the `Random` button or press `F2` to have the game **randomly scroll throu
 
 ![](img/Soloplay9.jpg "Possible commands for a beatmap")
 
-Click the `Beatmap Options` button or press `F3` or right-click from mouse to call up the **Beatmap Options Menu for options on the currently selected beatmap**.
+Click the `Beatmap Options` button, press `F3` or right-click your mouse while hovering over te beatmap to call up the **Beatmap Options Menu for options on the currently selected beatmap**.
 
 - Press `1` or click the `Manage Collections` button to bring up the Collections screen - here, you can manage pre-existing collections, as well as add or remove the currently selected beatmap or mapset to or from a collection.
 - Press `2` or click `Delete...` to delete the \[1\] currently selected beatmapset, \[2\] delete the currently selected beatmap, or \[3\] delete **all VISIBLE beatmaps**.
@@ -275,7 +274,7 @@ Click the **[osu!cookie](/wiki/Glossary#cookie)** to **start playing the selecte
 
 This is the grade screen shown after you have successfully passed the beatmap. You can access your online results by scrolling down or pressing the obvious button.
 
-**Note:** The grade skin will vary by skin used.
+**Note:** The grade screen may change depending on the used skin.
 
 Below are the grade screens of the other game modes.
 
@@ -287,31 +286,31 @@ Below are the grade screens of the other game modes.
 
 ### Online Leaderboard
 
-![](img/Osu!_Online_score.jpg "Right: Example of an osu!online score. (6) was edited in.")
+![](img/Osu!_Online_score.jpg "An example of an osu!online score")
 
 This is your online leaderboard. You can go here by scrolling down from the results screen. Your Local Scoreboard will show your name and the score as usual.
 
 1. Your player bar. It shows your [PP](/wiki/Performance_Points), Global Rank, Total Score, Overall [Accuracy](/wiki/Accuracy), and level bar.
 2. `Save replay to Replays folder`: You can watch the replay later either by opening it from a local leaderboard, or by going to `Replays` directory and double clicking it.
-3. `Add as online favourite`: Include the beatmap into your list of favourites, which is located on your osu! page under "Beatmaps" section.
+3. `Add as online favourite`: Include the beatmap into your list of favourites, which is located on your osu! profile page under the "Beatmaps" section.
 4. Local Leaderboard: All your results are stored on your computer. To see them, navigate to the [song selection screen](#song-selection-screen), then select `Local Rankings` from the drop-down menu on the left.
-5. `Beatmap Ranking` section. Available only for maps with online leaderboards ([qualified](/wiki/Beatmaps/Category#qualified), [ranked](/wiki/Beatmaps/Category#ranked), or [loved](/wiki/Beatmaps/Category#loved)).
+5. `Beatmap Ranking` section. Available only for maps with online leaderboards ([qualified](/wiki/Beatmaps/Category#qualified), [ranked](/wiki/Beatmaps/Category#ranked), or [loved](/wiki/Beatmaps/Category#loved)). You also need to be online to see this section.
    1. `Overall`: Your position on the map's leaderboard, where you compete against players that used [mods](/wiki/Game_modifier), even if you didn't use any yourself.
    2. `Accuracy`: How [precisely](/wiki/Accuracy) did you play the beatmap. Will only be counted when your old score is surpassed.
    3. `Max Combo`: Your longest combo on the map you played.
-   4. `Ranked Score`: Your [best result](/wiki/Score#ranked-score) on the map.
+   4. `Ranked Score`: Your [best result](/wiki/Score#ranked-score) on the beatmap.
    5. `Total Score`: Not taken into account, since it does not affect your position in online rankings.
    6. `Performance`: The amount of [unweighted PP](/wiki/Performance_points#why-didnt-i-gain-the-full-amount-of-pp-from-a-map-i-played) you would receive for the play.
-6. `Overall Ranking` section. It's also available only for maps with online leaderboards.
+6. `Overall Ranking` section. It's available only for beatmaps with online leaderboards. You also need to be online to see this section.
    1. `Overall`: Your global ranking in the world.
-   2. `Accuracy`: Your average [accuracy](/wiki/Accuracy#accuracy) over all maps you have played.
-   3. `Max Combo`: The longest combo over all maps you have played.
-   4. [`Ranked Score`](/wiki/Score#ranked-score): The number of points earned from all ranked maps that you have ever played, with every map being counted exactly once.
-   5. [`Total Score`](/wiki/Score#total-score): Same as ranked score, but it takes into account all beatmaps available on the osu! website, and also underplayed or failed beatmaps.
-   6. `Perfomance`: The total amount of PP in your profile.
-7. Beatmap song with its history of plays and pass rate.
-8. Beatmap Rating. Use your personal discretion based on whether you enjoy the beatmap or not. Best left alone if you can't decide.
-9. Return to Song Selection.
+   2. `Accuracy`: Your average [accuracy](/wiki/Accuracy#accuracy) over all beatmaps you have played.
+   3. `Max Combo`: The longest combo over all beatmaps you have played.
+   4. [`Ranked Score`](/wiki/Score#ranked-score): The number of points earned from all ranked beatmaps that you have ever played, with every map being counted exactly once.
+   5. [`Total Score`](/wiki/Score#total-score): Same as ranked score, but it takes into account all beatmaps available on the osu! website, and also underplayed or failed beatmaps. This counts towards your level.
+   6. `Perfomance`: Displays your total amount of Performance Points, and also how many PP the submitted play was worth.
+7. Information about the beatmap with its playcount and pass rate.
+8. Beatmap rating. Use your personal discretion based on whether you enjoy the beatmap or not. Best left alone if you can't decide.
+9. Click here to return to the song selection screen.
 
 ![](img/MedalUnlock.jpg "Unlocking a medal")
 
