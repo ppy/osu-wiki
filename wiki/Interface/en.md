@@ -250,10 +250,10 @@ Click the `Random` button or press `F2` to have the game **randomly scroll throu
 
 ![](img/Soloplay9.jpg "Possible commands for a beatmap")
 
-Click the `Beatmap Options` button, press `F3` or right-click yuor mouse while hovering over te beatmap to call up the **Beatmap Options Menu for options on the currently selected beatmap**.
+Click the `Beatmap Options` button, press `F3` or right-click your mouse while hovering over te beatmap to call up the **Beatmap Options Menu for options on the currently selected beatmap**.
 
 - Press `1` or click the `Manage Collections` button to bring up the Collections screen - here, you can manage pre-existing collections, as well as add or remove the currently selected beatmap or mapset to or from a collection.
-- Press `2` or click `Delete...` to delete the \[1\] currently selected mapset, \[2\] delete the currently selected beatmap, or \[3\] delete all beatmaps. The last option is a joke; clicking it will cause the game to notify you that you can't delete all of your beatmaps at once.
+- Press `2` or click `Delete...` to delete the \[1\] currently selected mapset, \[2\] delete the currently selected beatmap, or \[3\] delete all beatmaps. The last option used to be a joke; clicking it would cause the game to notify you that you can't delete all of your beatmaps at once.
   - Note that deleted beatmaps are moved to the Recycle Bin.
 - Press `3` or click `Remove from Unplayed` to mark an unplayed beatmap as played (that is, change its box colour from pink to orange).
 - Press `4` or click `Clear local scores` to delete all records of the scores you have achieved in this beatmap.
@@ -284,27 +284,25 @@ Below are the grade screens of the other game modes.
 
 ### Online Leaderboard
 
-![](img/Osu!_Online_score.jpg "Right: Example of an osu!online score. (6) was edited in.")
+![](img/Osu!_Online_score.jpg "An example of an osu!online score")
 
 This is your online leaderboard. You can go here by scrolling down from the results screen. Your Local Scoreboard will show your name and the score as usual.
 
-1. You can change the name to record for this replay here.
-2. Your player bar. It shows your [PP](/wiki/Performance_Points), Global Rank, Total Score, Overall [Accuracy](/wiki/Accuracy), and level bar.
-3. Your options regarding the Beatmap.
-   1. Export Replay as `.osr`: Save the replay that can be used online.
-   2. Online Favourite: Make the Beatmap as your Online Favourite. It will show on your online profile under Beatmaps->Favourite Beatmaps
-4. Here is the difference made to your profile. This shows how far you've moved up or down the Global Ranking, how much was added to your Total Score, and how much your Overall Accuracy changed. The text fades out rather quickly, so don't miss it!
-5. Self-explanatory. Will not appear if offline, or if the beatmap is not uploaded.
-   1. Map Rank: Your Ranking on the map. The ranking includes replays that featured mods, even if you didn't use any yourself.
-   2. Overall: Your profile standing on the gamemode you just played, not just the beatmap.
-   3. Accuracy: Will only be counted when your old score is surpassed. Accuracy is the average of all passed beatmaps.
-   4. Ranked Score: Your Ranked Score. If it's an approved song, it will not increase at all.
+1. Your player bar. It shows your [PP](/wiki/Performance_Points), Global Rank, Total Score, Overall [Accuracy](/wiki/Accuracy), and level bar.
+2. Your options regarding the Beatmap.
+   1. Save replay to Replays folder: Exports the replay as `.osr`; This saves the replay so that it can be used online.
+   2. Online Favourite: Adds the beatmap to your online favourites. It will show on your online profile under Beatmaps->Favourite Beatmaps.
+3. Here is the difference this score made to your profile. This shows how far you've moved up or down the Global Ranking, how much was added to your Total Score, and how much your Overall Accuracy changed. This text fades out rather quickly, so don't miss it!
+4. The online rankings. This bar will not show up when you are offline, or if the beatmap does not have a online leaderboard.
+   1. Overall: Your ranking on the map and your overall rank. The beatmap ranking includes replays that featured mods, even if you didn't use any yourself.
+   2. Accuracy: Here you can find your accuracy on the map you just played and your average accuracy. The accuracy of your score will only be counted if it is your highest score on the map.
+   3. Max Combo: Shows you your highest combo on the map. Also shows the highest combo you got while playing osu!.
+   4. Ranked Score: Your Ranked Score. Your total ranked score will only increase by the difference between your new and old highest scores on the map.
    5. Total Score: Grand total score. This will always increase even if you fail or don't surpass a high score in a beatmap. This counts towards your level.
-   6. To Next Rank: How much score you need to move your current map ranking position up.
-6. Same as #4, but it is reserved for monthly [Ranking Charts](https://osu.ppy.sh/rankings/osu/charts)
-7. Beatmap song with its history of plays and pass rate.
-8. Beatmap Rating. Use your personal discretion based on whether you enjoy the beatmap or not. Best left alone if you can't decide.
-9. Return to Song Selection.
+   6. Performance: Shows you how much PP the play you just submitted is worth. Also shows you your total PP.
+5. Information about the beatmap you just played with its history of plays and pass rate.
+6. Beatmap Rating. Use your personal discretion based on whether you enjoy the beatmap or not. Best left alone if you can't decide.
+7. Click here to return to Song Selection.
 
 ![](img/MedalUnlock.jpg "Unlocking a medal")
 
