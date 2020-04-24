@@ -12,9 +12,9 @@ With the allure of adorable mascots and sweet, sweet prizes on the line, the art
 
 The results have been most impressive, to say the least! The theme was a bit of a curve-ball for most, given that we've never really done anything like this in the past four or so years that the fanart contests have been running. 
 
-Still, our glorious artists did not fail to deliver, and without further ado, allow me to present to you the finalists you all voted for:
+Still, our glorious artists did not fail to deliver, and without further ado, allow me to present to you the finalists you all voted for.
 
-*Remember, clicking the small banner will take you to a full-quality version of the artwork if you want to save it!*
+Remember, *clicking the small banner will take you to a full-quality version of the artwork if you want to save it!*
 
 [![](https://assets.ppy.sh/contests/92/banners/TofuMang.jpg)](https://assets.ppy.sh/contests/92/winners/TofuMang.png)
 
