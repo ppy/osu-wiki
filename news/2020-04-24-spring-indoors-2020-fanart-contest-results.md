@@ -46,7 +46,7 @@ Floral motifs are always big in Spring pieces, but this one nailed it extra hard
 
 [![](https://assets.ppy.sh/contests/92/banners/10nya.jpg)](https://assets.ppy.sh/contests/92/winners/10nya.png)
 
-**2823** voters cast their approval like petals in the wind for[**10nya**](https://osu.ppy.sh/users/678794)'s rendition of a schoolgirl pippi gazing out upon a blossoming cherry tree.
+**2823** voters cast their approval like petals in the wind for [**10nya**](https://osu.ppy.sh/users/678794)'s rendition of a schoolgirl pippi gazing out upon a blossoming cherry tree.
 
 Ah, the days of peace and quiet. Before Yuzu showed up.
 
@@ -86,9 +86,9 @@ We presume Mocha is also snacking on what looks to be green tea pocky in the pro
 
 [![](https://assets.ppy.sh/contests/92/banners/Eternity%20Youmu.jpg)](https://assets.ppy.sh/contests/92/winners/Eternity%20Youmu.png)
 
-In perhaps the most realistic take of all the entries this far, [**Eternity Youmu**](https://osu.ppy.sh/users/1012268)'s take on a napping (she's not sick because she stayed indoors, okay?!) pippi won the hearts of **1765** voters.
+In perhaps the most sombre take of all the entries thus far, [**Eternity Youmu**](https://osu.ppy.sh/users/1012268)'s take on an unfortunately feverish pippi drew sympathy the hearts of **1765** voters.
 
-Lazing about has never looked so stylish.
+Get well soon!
 
 [![](https://assets.ppy.sh/contests/92/banners/VoidSynatic.jpg)](https://assets.ppy.sh/contests/92/winners/VoidSynatic.png)
 
