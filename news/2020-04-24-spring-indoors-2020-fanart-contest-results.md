@@ -86,7 +86,7 @@ We presume Mocha is also snacking on what looks to be green tea pocky in the pro
 
 [![](https://assets.ppy.sh/contests/92/banners/Eternity%20Youmu.jpg)](https://assets.ppy.sh/contests/92/winners/Eternity%20Youmu.png)
 
-In perhaps the most sombre take of all the entries thus far, [**Eternity Youmu**](https://osu.ppy.sh/users/1012268)'s take on an unfortunately feverish pippi drew sympathy the hearts of **1765** voters.
+In perhaps the most sombre take of all the entries thus far, [**Eternity Youmu**](https://osu.ppy.sh/users/1012268)'s take on an unfortunately feverish pippi drew sympathy from the hearts of **1765** voters.
 
 Get well soon!
 
@@ -129,6 +129,8 @@ Not to be left out of snacking time, **1363** people approved of [**iegno**](htt
 Congratulations to all 20 finalists! You'll find all of these wonderful works showcased in the main-menu right now as the Spring seasonal background pack for 2020. [You can also download a zip file containing all of them](https://assets.ppy.sh/contests/92/winners/winners.zip) if you'd like to cycle the seasonal festivities onto your desktop as well.
 
 All of the artists above have snagged 3 months of osu!supporter for their efforts, and their profiles now contain a neat little badge snipped from their winning pieces to remember the win with.
+
+If you're interested to see where the full spectrum of the community's vote lies, head on over to the [Spring Indoors 2020 Fanart Contest listing](https://osu.ppy.sh/community/contests/92) and scope it all out. There's some amazing pieces that just fell a tiny bit short of making it.
 
 Thank you to everyone who entered and voted, and we hope to see you all again for Summer in a couple of months!
 
