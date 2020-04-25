@@ -128,67 +128,87 @@ The Taiko Shift Cup 2 is run by various community members.
 
 ### General rules
 
-1. This tournament uses double-elimination bracket and single-player format. There are no teams here.
-2. The score system used will be **Score V2**.
-3. The mapset will be announced **every Sunday**, and the categories are NoMod, Hidden, HardRock, DoubleTime, FreeMod, Tiebreaker.
-4. Match schedule is decided by the organisers. Players may ask for a reschedule if the current schedule does not work for them. Each stage of this tournament will last a weekend.
-5. If there are no referees available, the match can be postponed.
-6. If both players gets a tied score on the Tiebreaker, the Tiebreaker will be replayed.
-7. If a player disconnects from the game, the opponent wins the round. The only exception is if the player disconnects during the first ten seconds of the song, in which the round is restarted.
-8. Maps cannot be used twice in the same round.
-9. Players have 15 minutes to show up to their scheduled match. If the opponent doesn't show up, the player who was supposed to play automatically advances onwards.
-10. Any other rules changes or unexpected occurrences will be announced in the discussion thread.
+1. Taiko Shift Cup 2 is a 4v4 team tournament, with the aspects of knock-out rules, and double-elimination bracket.
+2. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place.
+3. Match schedule will be settled by the Tournament Management.
+4. If no staff or referee is available, the match will be postponed.
+5. Usage of the [Visual Settings](/wiki/Visual_Settings) options are allowed.
+6. If the game ends in a draw, the tiebreaker will be played.
+7. If a player disconnects, their score is treated as being 0.
+   - Unless the disconnected player has a screenshot with their final score, or the server saved their score before disconnection, so we can compare it to the others.
+   - The second exception is when the player is disconnected in first ten seconds of a map. In that case, there will be a rematch. This may only occur once per map, and once per player.
+8. Maps cannot be reused in the same match unless the game was nullified.
+9. If less than 4 players attend, each Revives will be limited by 1 less, per the round.
+10. The Revive System functions are as follows:
+    - Players can only revive **other** eliminated members of their team.
+    - Players may not choose to revive themself if playing as the last member (1 vs 4, for example)
+    - Players may swap freely between each other for each map
+    - More information to the Revive system are in [match instructions](#match-instructions).
+11. Revives are always assigned to the active player.
+    - During Group Stage and Round of 16, each team is given 1 Revives.
+    - During Quarter Finals till Semi Finals, each team is given 2 Revives.
+    - During and after Finals each team is given 3 Revives.
+      - If a player loses a map they are knocked out and cannot participate in the same match unless revived.
+      - The player who is revived may not participate in the match on the same turn they are revived, except in the instance that the team waits to use their revives after all players have been eliminated.
+      - Each player may only be revived once per match.
+      - (Elimination Stages Only): Revives may only occur **after** that round's map has been chosen.
+12. Lag is not a valid reason to nullify a map.
+13. Unexpected incidents are handled by the tournament management.
+14. Any modification of these rules will be announced.
+15. Note that the players who get knocked out during a match is only gone temporarily, during the match. If their team advances, they can participate in the next match their team plays in.
 
-### Rank restrictions
+### Tournament registration
 
-A player's registration will not count if they are in the top 10,000 of the osu!taiko game mode. This is meant to be a beginner's tournament, and many, if not all the maps are catered towards those who are below rank #10,000. We do not want unfair advantages! However, there are two exceptions to this rule:
+1. Each team needs at least 4 players to participate.
+   - The maximum size of a team is 6 players.
+   - Teams are not bound to country and can include players from various countries. Schedules will give teams with single or close time zones higher priority over ones with several, spread-apart time zones (for example having a team with players from America, Europe and Asia will be low priority).
+   - The team must name a captain who will represent the team.
+   - Every player will be informed via PM about the team registration. Don't register teams without all players agreeing!
+   - Teams are limited to only having 1 player from the Top 50, if they choose to pick one, and may pick freely from anyone else.
+2. The Tournament Team involved directly with the map pool may not participate as players in this tournament. This does not include referees, streamers and commentators.
+3. The maximum amount of teams is 32.
+4. For a team to sign up, they must use the Google Form located at the beginning of the forum post and adhere to all rules/guidelines.
+5. To ensure valid registrations, any registrations and changes will be checked.
+6. All successfully registered teams will be published once they have been confirmed with the captains.
+7. At the end of Registration, teams will be Seeded manually via a Panel of Unbiased Players/Staff Members, to decide how the Bracket will start (in Group Stage).
 
-1. If a player joins the top 10,000 after registering, but remains below #9,000 until the tournament starts, they are still eligible to participate.
-2. If a player ranks up beyond #10,000 while the tournament is taking place, they will only be disqualified from the tournament if their rank goes significantly beyond #9,000. It is recommended to stay below #9,000.
+### Match instructions
 
-### Stage regulations
+1. A referee (or tournament manager) will create a multiplayer room 10 minutes in advance. Players must gather during this period.
+   - The room will be locked. The password and multiplayer invite will be sent to the two captains as soon as possible.
+   - Captains **must specify the four members** who will participate in the match before rolls. Team Size is 6, so choose 4, two must sit out. This is to ensure that teams have a back-up player, in case of emergency or sickness.
+   - Room settings are Taiko, Team-Vs., Win Condition: 'Score V2'. Room name must be "TSC: TeamBlue vs TeamRed"
+   - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
+   - Blue team must occupy slot 1. Red team must occupy slot 2.
+   - The setup at the start of the match must remain consistent throughout.
+2. Each team is allowed to select one warm-up map.
+   - During Group Stage warm-ups must not exceed 4:00 minutes. In the following stages the warm-up can be up to 6 minutes long if both teams agree.
+   - Offensive songs may be blocked by referees.
+3. Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use `!roll` once in `#multiplayer` to determine which team selects and bans first. Roll winner may decide if they want to ban first and pick 2nd, or pick first and ban 2nd. Bans always happen before picks.
+   - Each team is allowed to ban two maps out of the entire map pool with the exception of the tiebreaker, which cannot be banned. Each team has to use their bans.
+4. In case when one player lasts in both teams with no Revives remaining, the tiebreaker map must be played.
+5. Results will be published via the Statistics site.
 
-1. There are eight stages to this tournament: Qualifiers, Group Stage, Round of 32, Round of 16, Quarterfinals, Semifinals, Finals and Grand Finals.
-2. Matches are seeded. This will happen in the seeding round (Qualifiers). More information about seeding can be accessed in the [seeding regulations](#seeding-regulations) section.
-3. The winning condition for each stage are listed below:
-   - Group Stage and Round of 32: Best of 7 (first to 4 points)
-   - Round of 16 and Quarterfinals: Best of 9 (first to 5 points)
-   - Semifinals: Best of 11 (first to 6 points)
-   - Finals and Grand Finals: Best of 13 (first to 7 points)
-4. After the Group Stage, only the top 2 players from each group will advance to the next stage.
+### Mappool instructions
 
-### Seeding regulations
+1. Each stage will receive its own mappool.
+2. Each mappool consists of 7 brackets: NoMod, Extra, Hidden, HardRock, DoubleTime, FreeMod, and Tiebreaker.
+3. Each mappool consists of 18 maps in total.
+4. Each mappool has one tiebreaker.
+   - The tiebreaker will be played without mods activated.
+   - In the freak event of a tie on the tiebreaker, the tiebreaker will be replayed under FreeMod conditions.
+5. The NoMod & Extra bracket will be played with no mods activated.
+6. The Hidden, HardRock, and Double Time bracket will be played with the respective mods activated.
+7. The FreeMod bracket will have Free Mod activated. The players can pick Hidden, HardRock or both. Players are required to play with a mod.
+8. The size of every Mod bracket will be 3 across all stages of the Tournament.
+9. The mappool will be released after the last match of the previous stage has been played.
 
-1. During the seeding round, there will be multiple lobbies available at various hours. Players will be free to sign up to the lobbies they please.
-2. This match is mainly used to weed out the no-shows, however it is also used to file in any backup players who may be called upon to take place of a no-show in the future.
-3. A private match will be created for all the players, and will be invited into their match when it is their time. Make sure that you are online at this time.
-4. There will be no warmup during this event, but rather all the players will play through a shorter mappool.
-5. Seeding will be made with the average rank of each player on each map.
-6. Maps will be played twice in a row during the lobby. However, players can ask for a break of 5 minutes between each run.
-7. Results will be announced on the Discord server after the end of the weekend.
+### Scheduling instructions
 
-### Match regulations
-
-1. A private match will be created for your match, and both players will be invited into their match when it is their time. Make certain you are online at this time.
-2. Each player can request one warmup map, but it must be **below 4 minutes**.
-3. Here is how bans and picks will happen:
-   - The first person to ban will be the loser of the `!roll`, then they will alternate bans. (Loser -> Winner -> Loser -> Winner)
-   - The first person to pick will be the winner of the `!roll`, then they will alternate picks. (Winner -> Loser -> Winner -> Loser -> ...)
-4. A player cannot ban a map from the same category twice.
-5. In case of a tie, the tiebreaker will be played.
-6. Results will be displayed on the Challonge brackets, and will be announced by the referee.
-
-### Mappool regulations
-
-1. There are different kind of mapools in each stage of the tournament, becoming progressively harder.
-2. Tiebreaker will be played under FreeMod.
-
-### Scheduling regulations
-
-1. Every stage is held during the weekend to let players practice.
-2. Matches are allowed to overlap if referees are available.
-3. Players must complete their match at the designated time or both players are eliminated.
-4. However if both players can come up with a better time than what we have schedule for them, please inform the organisers for a reschedule. They will rearrange your match if the proposed reschedule is informed before the Thursday of the weekend.
+1. Each stage will be held on a single weekend.
+2. Stages past RO16 may consist of multiple rounds for teams in Loser's Bracket.
+3. Scheduling will be handled by the Tournament Management. Schedules and mappools will be released on the Sunday before the first matches of the actual stage. The Tournament Management will try to create the schedule to respect the participant's time zone.
+4. Captains are responsible for their teams’ availability. The greater team size exists to ensure every team can provide at least three players for each match.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
