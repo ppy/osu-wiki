@@ -1,6 +1,3 @@
----
-outdated: false
----
 
 # Mascots (Türkçe)
 
