@@ -130,7 +130,7 @@ The osu!mania 4K Chinese National Cup 2019 is run by various community members b
 **[Download the mappack here! (96.5MB)](https://www.dropbox.com/s/fq0u3l87fahgw5b/MCNC19%20%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - Freemod
-  - [Alfheim (Tidek) [Freya]](https://osu.ppy.sh/b/1966772)
+  - [Kakka - Alfheim (Tidek) [Freya]](https://osu.ppy.sh/b/1966772)
   - [lapix - Foolish Hero (dionzz99) [Fooled]](https://osu.ppy.sh/b/1040762)
   - [U1 overground - Dopamine (juankristal) [Polyethylene Oxide]](https://osu.ppy.sh/b/1472944)
   - [SOUND HOLIC - WANNA BE CRAZY PRINCESS -  ([OSC]Agami) [/L/unatic Pri/N/cess]](https://osu.ppy.sh/b/1860579)
