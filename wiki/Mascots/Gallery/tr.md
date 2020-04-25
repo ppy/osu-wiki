@@ -87,7 +87,7 @@ Daha fazla Mocha fan tasarımları:
 
 ![Eski Özel Modlarda pippi & arkadaşları.](/wiki/shared/Ctb_logo.jpg "Eski Özel Modlarda pippi & arkadaşları.")
 
-#### Fan Tasarımları
+### Fan Tasarımları
 
 Cameo Maskotları için fan tasarımları:
 
