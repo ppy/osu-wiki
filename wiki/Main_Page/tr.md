@@ -2,15 +2,12 @@
 layout: main_page
 ---
 
-
 <div class="wiki-main-page__blurb">
-Osu! wiki'sine hoşgeldin, osu! ile ilgili çok çeşitli bilgiler içeren bir proje.
+osu! wiki'sine hoşgeldin, osu! ile ilgili çok çeşitli bilgiler içeren bir proje.
 </div>
-
 
 <div class="wiki-main-page__panels">
 <div class="wiki-main-page-panel">
-
 
 # Başlarken
 
@@ -19,14 +16,12 @@ Osu! wiki'sine hoşgeldin, osu! ile ilgili çok çeşitli bilgiler içeren bir p
 </div>
 <div class="wiki-main-page-panel">
 
-
 # Oynanış
 
 [SSS](/wiki/FAQ) • [Çoklu](/wiki/Multi) • [Oyun Modları](/wiki/Game_Modes): ([osu!](/wiki/Game_Modes/osu!) • [osu!taiko](/wiki/Game_Modes/osu!taiko) • [osu!catch](/wiki/Game_Modes/osu!catch) • [osu!mania](/wiki/Game_Modes/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">
-
 
 # [Beatmap Editörü](/wiki/Beatmap_Editor)
 
@@ -35,14 +30,12 @@ Bölümler: ([Oluşturma](/wiki/Beatmap_Editor/Compose) • [Dizayn](/wiki/Beatm
 </div>
 <div class="wiki-main-page-panel">
 
-
 # Çevrimiçi Düzenleme ve Sıralama
 
 [Sunuş](/wiki/Submission) • [Beatmap Onayı](/wiki/Beatmap_ranking_procedure) • [Modlama](/wiki/Modding) • [Sıralama Kriterleri](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">
-
 
 # Osu! Dünyası
 
@@ -51,10 +44,9 @@ Bölümler: ([Oluşturma](/wiki/Beatmap_Editor/Compose) • [Dizayn](/wiki/Beatm
 </div>
 <div class="wiki-main-page-panel">
 
-
 # İnsanlar
 
-[Ekip](/wiki/People/The_Team) • [Kürsesel Moderasyon Ekibi](/wiki/People/Global_Moderation_Team) • [Dil Moderatörleri](/wiki/People/Language_Moderators) • [Adaylık Değerlendirme Ekibi](/wiki/People/Nomination_Assessment_Team) • [Beatmap Aday Göstericileri](/wiki/People/Beatmap_Nominators) • [osu! Mezunları](/wiki/People/osu!_Alumni) • [Destek Ekibi](/wiki/People/Support_Team)
+[Ekip](/wiki/People/The_Team) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Dil Moderatörleri](/wiki/People/Language_Moderators) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Destek Ekibi](/wiki/People/Support_Team)
 
 </div>
 </div>
