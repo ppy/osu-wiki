@@ -18,8 +18,8 @@ Aşağıdaki listelenen kişiler **osu!team** çekirdek kadrosunu oluşturmakta 
 | ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)** | **Proje lideri** |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Modlama ve mapping danışmanı |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | Moderasyon ve topluluk danışmanı |
-| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Proje ve topluluk yürütücüsü, Featured Artist erişimi |
-| ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Dizayn lideri, yerleşik Creative Cloud izleyicisi |
+| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | Proje ve topluluk idaresi, Featured Artist erişimi |
+| ![][flag_JP] [flyte](https://osu.ppy.sh/users/3103765) | Dizayn lideri, yerleşik Creative Cloud gözlemcisi |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | Modlama ve mapping danışmanı |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Dünya Kupası organizatörü ve yöneticisi |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | Modlama ve mapping danışmanı |
@@ -29,12 +29,12 @@ Aşağıdaki listelenen kişiler **osu!team** çekirdek kadrosunu oluşturmakta 
 | ![][flag_JP] [notbakaneko](https://osu.ppy.sh/users/10751776) | osu!web geliştiricisi |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Modlama ve mapping danışmanı |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) | Modlama ve mapping danışmanı, Mappers' Guild organizatörü, Featured Artist erişimi |
-| ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | Genel ev temizliği, wiki yürütücüsü |
+| ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | Genel ev temizliği, wiki idaresi |
 | ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005) | Genel ev temizliği |
-| ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! geliştiricisi, osu!mania sevici, bug bozucu |
+| ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | osu! geliştiricisi, osu!mania sevici, hata giderici |
 | ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Project Loved menajeri, topluluk danışmanı, Featured Artist erişimi |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Genel ev temizliği, turnuva asistanı |
-| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Genel ev temizliği, turnuva asistanı, wiki yürütücüsü |
+| ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Genel ev temizliği, turnuva asistanı, wiki idaresi |
 | ![][flag_AU] [Zallius](https://osu.ppy.sh/users/55) | Tehlike altındaki türler |
 
 ## Kullanıcı grupları
@@ -59,12 +59,12 @@ Aşağıdakiler osu!'nun sürdürülmesine yardımcı olan osu! topluluk üyeler
 | ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | Ses tasarımcısı, [resmi osu! Featured Artist'i](https://osu.ppy.sh/beatmaps/artists/2) |
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | Dünya Kupası organizatörü ve yöneticisi |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | Genel ev temizliği, topluluk yöneticisi |
-| ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | osu! geliştiricisi, oyun içi sohbet için IRC entegrasyonu sağlayıcı, site yürütücüsü. [Blog](http://blog.echo.sh/) |
+| ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | osu! geliştiricisi, oyun içi sohbet için IRC entegrasyonu sağlayıcı, site idaresi. [Blog](http://blog.echo.sh/) |
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour ev sahibi, Dünya Kupası yayıncısı, turnuva organizatörü |
 | ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | osu! geliştiricisi, osz2 ve p2p backend sağlayıcısı |
 | ![][flag_US] Jim | Orijinal site dizaynerı. [Brand New Games](http://www.bravegamer.com/) |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Dünya Kupası organizatörü ve yöneticisi, QAT lideri, topluluk yöneticisi |
-| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Destansı tema tasarımcısı, varsayılan tema ve iconsete katkı. [DeviantArt](https://luigihann.deviantart.com/) |
+| ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Destansı tema tasarımcısı, varsayılan tema ve iconsete katkıda bulunan. [DeviantArt](https://luigihann.deviantart.com/) |
 | ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) | osu! geliştiricisi, mm sliderlarının mucidi |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone geliştiricisi |
 | ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | osu! geliştiricisi, Mappers' Guild organizatörü |
