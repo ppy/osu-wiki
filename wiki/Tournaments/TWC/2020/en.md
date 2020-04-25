@@ -8,7 +8,7 @@ tags:
 
 ![TWC 2020 logo](/wiki/shared/news/banners/TWC2020.jpg)
 
-The **osu!taiko World Cup 2020** (***TWC 2020***) is an upcoming country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It will be the tenth installment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2020** (***TWC 2020***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It is the tenth installment of the osu!taiko World Cup.
 
 ## Tournament schedule
 
@@ -31,15 +31,17 @@ The **osu!taiko World Cup 2020** (***TWC 2020***) is an upcoming country-based o
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, unique profile badge |
 
+![TWC 2020 Winner Badge](img/badge.png) ![TWC 2020 2nd Place Badge](img/badge2.png) ![TWC 2020 3rd Place Badge](img/badge3.png)
+
 ## Organisation
 
-The osu!taiko World Cup 2020 is run by various community members.
+The osu!taiko World Cup 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Map selector | ![][flag_AU] [Drum Decimator](https://osu.ppy.sh/users/4841352), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_JP] [tasuke912](https://osu.ppy.sh/users/2774767) |
-| Commentator | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_AU] [Drum Decimator](https://osu.ppy.sh/users/4841352), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958), ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943), ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650) |
+| Commentator | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_AU] [Drum Decimator](https://osu.ppy.sh/users/4841352), ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027), ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958), ![][flag_GB] [mangomizer](https://osu.ppy.sh/users/1893718), ![][flag_DE] [Mew](https://osu.ppy.sh/users/2345156), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943), ![][flag_SE] [Raphalge](https://osu.ppy.sh/users/3918650) |
 | Referee | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102) ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
@@ -87,23 +89,11 @@ The osu!taiko World Cup 2020 is run by various community members.
 | ![][flag_GB] | **United Kingdom** | **[goheegy](https://osu.ppy.sh/users/8057655)**, [Horiiizon](https://osu.ppy.sh/users/8071438), [\_DUSK\_](https://osu.ppy.sh/users/6092181), [mangomizer](https://osu.ppy.sh/users/1893718), [Teezel](https://osu.ppy.sh/users/7528639) |
 | ![][flag_US] | **United States** | **[Loopy542](https://osu.ppy.sh/users/5468461)**, [3san](https://osu.ppy.sh/users/8050850), [cheese salad](https://osu.ppy.sh/users/6349821), [-Electro-](https://osu.ppy.sh/users/3251373), [HoopWheat](https://osu.ppy.sh/users/12177903) |
 
-## Match schedule: Grand Finals
+---
 
-Saturday, 11 April 2020:
+![TWC 2019 Podium](img/podium.png)
 
-| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| South Korea | ![][flag_KR] | ![][flag_GB] | United Kingdom | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 | ¹ |
-
-Sunday, 12 April 2020:
-
-| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Japan | ![][flag_JP] | ![][flag_KR] | South Korea | **12:00 UTC** | 21:00 UTC+09 | 21:00 UTC+09 | ² |
-| Japan | ![][flag_JP] | ![][flag_GB] | United Kingdom | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 | ² |
-
-¹ 3rd place match  
-² Encounter dependent on results of ²3rd place match
+---
 
 ## Mappools
 
@@ -254,6 +244,20 @@ Sunday, 12 April 2020:
   - **[Chroma - Dark Sheep (Midnaait) \[Hitsujin\]](https://osu.ppy.sh/beatmapsets/987588#taiko/2065913)**
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 11 April 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ![][flag_KR] | **7** | 5 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/60270305) |
+
+Sunday, 12 April 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Japan** ![][flag_JP] | **7** | 1 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/60313318) |
 
 ### Finals
 
@@ -463,13 +467,13 @@ Sunday, 8 March 2020:
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
 
-   | Stage | Match ID |
-   | --: | :-- |
-   | Round of 16 | A, B, C, D, E, F, G, H |
-   | Quarterfinals | I, J, K, L, R, S, T, U |
-   | Semifinals | M, N, V, W, X, Y, Z, AA |
-   | Finals | O, AB, AC, AD |
-   | Grand Finals | AE, P, Q |
+| Stage | Match ID |
+| --: | :-- |
+| Round of 16 | A, B, C, D, E, F, G, H |
+| Quarterfinals | I, J, K, L, R, S, T, U |
+| Semifinals | M, N, V, W, X, Y, Z, AA |
+| Finals | O, AB, AC, AD |
+| Grand Finals | AE, P, Q |
 
 7. The **Winning conditions** for each stage will be:
    - In Group Stage, you need to win 5 beatmaps to win a match. (Best-of-9)
