@@ -36,7 +36,6 @@ Pippi için fan tasarımları:
 - [Fan Art 8: Christmas](https://osu.ppy.sh/community/contests/36)
 - [Mocha Yaz Fanart Yarışması'nda](https://osu.ppy.sh/community/contests/48)
 
-
 ### Yuzu
 
 ![Daru'dan Yuzu çizimi](img/Yuzu-Daru.png "Daru'dan Yuzu çizimi")
@@ -93,7 +92,6 @@ Daha fazla Mocha fan tasarımları:
 Cameo Maskotları için fan tasarımları:
 
 - [Mocha Yaz Fanart Yarışması'nda](https://osu.ppy.sh/community/contests/48)
-
 
 ## Topluluk
 
