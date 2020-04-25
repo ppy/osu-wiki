@@ -1,4 +1,3 @@
-
 # Maskotlar
 
 *Ayrıca Bakınız: [Mascots/Gallery](/wiki/Mascots/Gallery)*
