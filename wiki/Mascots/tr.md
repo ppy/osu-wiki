@@ -11,7 +11,7 @@ Maskotlar hakkında bir video [Mascot Showcase](https://youtu.be/mJF2cAs_MrI)
 
 ![pippi](img/pippi.png "pippi")
 
-pippi, pippi, küçük "p" stilize edilir, 2008-07 tarihinde katılan standart osu! maskotu. osu!taiko'da pippidon olarak da bilinir ve [Yandere Simulator](https://yanderesimulator.com) 'de bir NPC'dir. İlk konsept tasarımı [Sarumaru](https://osu.ppy.sh/users/9427) tarafından yapılmıştır, pippidon sprite'ı [crystalsuicune](https://osu.ppy.sh/users/9974) tarafından yapılmıştır, ve şu anki tasarımı [Daru](https://osu.ppy.sh/users/32480) tarafından yapılmıştır.
+pippi, ayrıca pippidon, küçük "p" ile stilize edilir, 2008-07 tarihinde katılan standart osu! maskotudur. osu!taiko'da pippidon olarak da bilinir ve [Yandere Simulator](https://yanderesimulator.com) 'de bir NPC'dir. İlk konsept tasarımı [Sarumaru](https://osu.ppy.sh/users/9427) tarafından yapılmıştır, pippidon sprite'ı [crystalsuicune](https://osu.ppy.sh/users/9974) tarafından yapılmıştır, ve şu anki tasarımı [Daru](https://osu.ppy.sh/users/32480) tarafından yapılmıştır.
 
 ### ![osu!catch İkonu](/wiki/shared/mode/catch.png) Yuzu
 
@@ -43,7 +43,7 @@ Mocha osu!taiko maskotu. O başta [sixth fanart contest](https://osu.ppy.sh/comm
 
 ![Ryuuta](img/Ryuuta.png "Ryuuta")
 
-> O tezahürat ekibinin sıcakkanlı lideridir. İyi bir ruhu vardır ve çevredinde sıkıntı içinde olanlar için ayağa kalkıp onlar için savaşır!
+> O tezahürat ekibinin sıcakkanlı lideridir. İyi bir ruhu vardır ve çevresinde sıkıntı içinde olanlar için ayağa kalkıp onlar için savaşır!
 
 一本木龍太 (Ryūta Ippongi) 2008'de katılmış olan osu!catch chibi-fruit catcher'dır, ancak yerini 2014 yılında [Yuzu](#-yuzu) aldı. O [iNiS Corporation](https://en.wikipedia.org/wiki/INiS) tarafından oluşturulmuştur ve bir zamanlar eski web sitesinin bir parçasıydı. Ayrıca [Yandere Simulator](https://yanderesimulator.com)' de NPC'dir.
 
@@ -51,7 +51,7 @@ Ryuuta [LuigiHann](https://osu.ppy.sh/users/1079)'nın skin'inde de yer aldı, [
 
 ### Ajan J
 
-![Agent J](img/Agent_J.png "Agent J")
+![Ajan J](img/Agent_J.png "Agent J")
 
 > Hip-hop'tan bale'ye kadar birçok dans stilinde uzman, J herhangi bir canlıyı büyüleyebilir.
 
@@ -67,13 +67,13 @@ Ajan J [LuigiHann](https://osu.ppy.sh/users/1079)'nın skin'inde de yer aldı [E
 
 和田どん (Wada Don), Don ya da Don-chan 2008-05 yılında katılan osu!taiko maskotlarından biriydi. 48 santimetre boyunda ve 100 kilogramdan daha ağır. Osu Taiko skin'inde görünüyor. Onun tasarımı Yukiko Yokoo (横尾有希子) tarafından yapılmıştır, ve Narahashi Miki (楢橋 美紀) tarafından seslendirilmiştir.
 
-## Community
+## Topluluk
 
 ### Aiko
 
 ![Aiko](img/Aiko.png "Aiko")
 
-[JMC](https://osu.ppy.sh/users/774010) tarafından tasarlanmıştır. Aiko, osu! Taiko maskot tasarım yarışmasına katılanlardan biriydi. Onun için Osu! Taiko için bir tutkulu ve enerjik bir kız, o en iyisi olmasa bile! Bir çift şık "Tabi" spor ayakkabısı ve pippidon aksesuarları beraberliğinde, yıpranmış maskot bu cesur kızda yaşıyor. Sadece 154 santimetrede oldukça kısadır, ve 1999-04-06 tarihinde doğmuştur.
+[JMC](https://osu.ppy.sh/users/774010) tarafından tasarlanmıştır. Aiko, osu! Taiko maskot tasarım yarışmasına katılanlardan biriydi. O Osu!Taiko için tutkulu ve enerjik bir kızdır, o en iyisi olmasa bile! Bir çift şık "Tabi" spor ayakkabısı ve pippidon aksesuarları beraberliğinde, yıpranmış maskot bu cesur kızda yaşıyor. Sadece 154 santimetrede oldukça kısadır, ve 1999-04-06 tarihinde doğmuştur.
 
 ### Alisa
 
