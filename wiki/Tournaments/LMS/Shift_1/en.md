@@ -60,8 +60,8 @@ The Taiko LMS: Shift Cup was run by various osu!taiko community members.
 | Team | Members |
 | :-- | :-- |
 | **:b:erkele** | ![][flag_FI] **[duski](https://osu.ppy.sh/users/6506484)**, ![][flag_FR] [Nayo](https://osu.ppy.sh/users/7930622), ![][flag_DE] [lukili846](https://osu.ppy.sh/users/6278008), ![][flag_DE] [BrokenArrow](https://osu.ppy.sh/users/384034) |
-| **Bola and his friends** | ![][flag_AR] **[Atreevete](https://osu.ppy.sh/users/2615199)**, ![][flag_BO] [\[Jose20025\]](https://osu.ppy.sh/users/6623871), ![][flag_JP] [Bola](https://osu.ppy.sh/users/1119463), ![][flag_ES] [Arnon](https://osu.ppy.sh/users/5332868) |
 | **AFK** | ![][flag_CL] **[-Kazu-](https://osu.ppy.sh/users/920861)**, ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550), ![][flag_CL] [Alepat](https://osu.ppy.sh/users/1164931), ![][flag_RU] [Alt](https://osu.ppy.sh/users/736496) |
+| **Bola and his friends** | ![][flag_AR] **[Atreevete](https://osu.ppy.sh/users/2615199)**, ![][flag_BO] [\[Jose20025\]](https://osu.ppy.sh/users/6623871), ![][flag_JP] [Bola](https://osu.ppy.sh/users/1119463), ![][flag_ES] [Arnon](https://osu.ppy.sh/users/5332868) |
 | **Ｆａｓｔ　＆　Ｃｈｉｌｌ 早く** | ![][flag_BR] **[Skull Kid](https://osu.ppy.sh/users/3044264)**, ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669), ![][flag_BR] [Brasil](https://osu.ppy.sh/users/3949268), ![][flag_BR] [Marm](https://osu.ppy.sh/users/5143353) |
 | **FLip-FLop** | ![][flag_ID] **[XK2238](https://osu.ppy.sh/users/1139209)**, ![][flag_ID] [Nishizumi](https://osu.ppy.sh/users/2496768), ![][flag_ID] [Katdon\_donKat](https://osu.ppy.sh/users/8089664), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742) |
 | **Furries of the Storm** | ![][flag_BR] **[Coryn](https://osu.ppy.sh/users/2828556)**, ![][flag_BR] [Foxerus](https://osu.ppy.sh/users/7479684), ![][flag_BR] [kbludoh](https://osu.ppy.sh/users/2543764), ![][flag_BR] [Serial Dreemurr](https://osu.ppy.sh/users/1235444) |
@@ -542,28 +542,28 @@ Saturday, 8 June 2018 and Sunday, 9 June 2018
 3. Scheduling will be handled by the Tournament Management. Schedules and mappools will be released on the Sunday before the first matches of the actual stage. The Tournament Management will try to create the schedule to respect the participant's time zone.
 4. Captains are responsible for their teams' availability. The greater team size exists to ensure every team can provide at least three players for each match.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BO]: /wiki/shared/flag/BO.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PT]: /wiki/shared/flag/PT.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_TR]: /wiki/shared/flag/TR.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BO]: /wiki/shared/flag/BO.gif "Bolivia"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"
