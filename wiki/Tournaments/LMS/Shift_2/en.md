@@ -29,7 +29,7 @@ The **Taiko Shift Cup 2** (***TSC2***) is a worldwide 4v4 double-elimination osu
 
 | Placing | Prize |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge for each team member |
 
 ## Organisation
 
@@ -48,11 +48,12 @@ The Taiko Shift Cup 2 is run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/994702)
-- [BTT Discord server](https://discord.gg/EYAqSWH)
-- [Livestream](https://twitch.tv/beginnerstaikotournament)
-- [Challonge brackets](https://challonge.com/BTTS5)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vR6QPdOsvVXvpXcjTrqOvaQESu0LpH3HAd9QxsYMbDa7xAatXc8X3hnmmDZSxfTLtAZz-WArFbTbm8_/pubhtml)**
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1043063)
+- [LMS Discord server](https://discord.gg/mJAF2Xa)
+- [Livestream](https://twitch.tv/osutaikolive)
+- Spreadsheet
+  - **[Main sheet](https://docs.google.com/spreadsheets/d/1oFiXMH2d69WB5yXEMc7X5IsS7EASo7o3CIBWgKOJEnw/edit?usp=sharing)**
+  - [Schedules and mappools sheet](https://docs.google.com/spreadsheets/d/17cy_FH1Vt1UOSieH-u_UzWeLtVPXFq4iSySGQ2GSmyc/edit?usp=sharing)
 
 ## Participants
 
