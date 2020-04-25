@@ -25,19 +25,19 @@ osu! wiki'sine hoşgeldin, osu! ile ilgili çok çeşitli bilgiler içeren bir p
 
 # [Beatmap Editörü](/wiki/Beatmap_Editor)
 
-Bölümler: ([Oluşturma](/wiki/Beatmap_Editor/Compose) • [Dizayn](/wiki/Beatmap_Editor/Design) • [Zamanlama](/wiki/Beatmap_Editor/Timing) • [Şarkı Kurulumu](/wiki/Beatmap_Editor/Song_Setup)) • Bileşenler: ([Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap)) • [Beatmapping](/wiki/Beatmapping) • [Difficulties](/wiki/Difficulties) • [Vuruş Objeleri](/wiki/Hit_Objects) • [Mapping Teknikleri](/wiki/Mapping_Techniques) • [Film Şeritleme](/wiki/Storyboarding)
+Bölümler: ([Oluşturma](/wiki/Beatmap_Editor/Compose) • [Dizayn](/wiki/Beatmap_Editor/Design) • [Zamanlama](/wiki/Beatmap_Editor/Timing) • [Şarkı Kurulumu](/wiki/Beatmap_Editor/Song_Setup)) • Bileşenler: ([Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap)) • [Beatmapping](/wiki/Beatmapping) • [Zorluklar](/wiki/Difficulties) • [Vuruş Objeleri](/wiki/Hit_Objects) • [Mapping Teknikleri](/wiki/Mapping_Techniques) • [Film Şeritleme](/wiki/Storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">
 
-# Çevrimiçi Düzenleme ve Sıralama
+# Çevrimiçi Düzenleme ve Derecelendirme
 
-[Sunuş](/wiki/Submission) • [Beatmap Onayı](/wiki/Beatmap_ranking_procedure) • [Modlama](/wiki/Modding) • [Sıralama Kriterleri](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
+[Gönderme](/wiki/Submission) • [Beatmap Onayı](/wiki/Beatmap_ranking_procedure) • [Modlama](/wiki/Modding) • [Derecelendirme Kriterleri](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">
 
-# Osu! Dünyası
+# osu! Dünyası
 
 [Sözlük](/wiki/Glossary) • [Turnuvalar](/wiki/Tournaments) • [Stilleme](/wiki/Skinning) • [Projeler](/wiki/Projects)
 
