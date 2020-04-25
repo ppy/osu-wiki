@@ -1,16 +1,15 @@
 ---
 tags:
   - LMS
-  - Shift
-  - TSC
-  - TSC2
+  - SC2
+  - TLMS:SC2
 ---
 
-# Taiko Shift Cup 2
+# Taiko LMS: Shift Cup 2
 
-![TSC2 logo](img/logo.jpg)
+![TLMS:SC2 logo](img/logo.jpg)
 
-The **Taiko Shift Cup 2** (***TSC2***) is a worldwide 4v4 double-elimination osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) and ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787). Teams will gather a team of 4 (with the option of 2 back-ups) in a 4 on 4 Knock-Out style match. This is the second installment of the Taiko Shift Cup and part of the Taiko LMS tournaments.
+The **Taiko LMS: Shift Cup 2** (***TLMS:SC2***) is a worldwide 4v4 double-elimination osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) and ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787). Teams will gather a team of 4 (with the option of 2 back-ups) in a 4 on 4 Knock-Out style match. This is the second installment of the Taiko Shift Cup and part of the Taiko LMS tournaments.
 
 ## Tournament schedule
 
@@ -33,7 +32,7 @@ The **Taiko Shift Cup 2** (***TSC2***) is a worldwide 4v4 double-elimination osu
 
 ## Organisation
 
-The Taiko Shift Cup 2 is run by various community members.
+The Taiko LMS: Shift Cup 2 is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -128,7 +127,7 @@ The Taiko Shift Cup 2 is run by various community members.
 
 ### General rules
 
-1. Taiko Shift Cup 2 is a 4v4 team tournament, with the aspects of knock-out rules, and double-elimination bracket.
+1. Taiko LMS: Shift Cup 2 is a 4v4 team tournament, with the aspects of knock-out rules, and double-elimination bracket.
 2. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place.
 3. Match schedule will be settled by the Tournament Management.
 4. If no staff or referee is available, the match will be postponed.
