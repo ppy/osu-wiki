@@ -109,4 +109,4 @@ La Catch French Beginner 4 ést gérée par différents membres de la communaut�
 4. **Finales et Grandes Finales**: Best of 13 (premier à 7 points)
 
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_FR]: /wiki/shared/flag/FR.gif "Indonesia"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
