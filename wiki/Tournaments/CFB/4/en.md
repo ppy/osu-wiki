@@ -51,11 +51,11 @@ The Catch French Beginner 4 is run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1004847)
-- [4DM Discord server](https://discord.gg/NzYtsxV)
-- [4DM YouTube channel](https://youtube.com/channel/UC9mLxo8frxAJCf1vrASEFDg)
-- [Livestream](https://twitch.tv/4digitmwc)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1cT1BLBuG3XGyDvPWFTGJO_TOpRkdKQaH6shstbJcauc/edit?usp=sharing)**
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1039950)
+- [CFB Discord server](https://discord.gg/YVYDVU9)
+- [Livestream](https://www.twitch.tv/catchfrenchbeginner)
+- [Challonge brackets](https://challonge.com/cfbquatre)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1UVwaSi_s32QEYro3zjnfMYjPrYBjr-n6El8_MntBCyk/edit#gid=1982472802)**
 
 ## Participants
 

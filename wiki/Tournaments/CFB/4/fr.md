@@ -47,4 +47,12 @@ La Catch French Beginner 4 ést gérée par différents membres de la communaut�
 | Statisticien | ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
 | Éditeur de wiki | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
+## Liens
+
+- [Fil de discussion](https://osu.ppy.sh/community/forums/topics/1039950)
+- [Discord du CFB](https://discord.gg/YVYDVU9)
+- [Livestream](https://www.twitch.tv/catchfrenchbeginner)
+- [Tableaux Challonge](https://challonge.com/fr/cfbquatre)
+- **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/1UVwaSi_s32QEYro3zjnfMYjPrYBjr-n6El8_MntBCyk/edit#gid=1982472802)**
+
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
