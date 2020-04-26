@@ -37,6 +37,8 @@ Les généreux dons de ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688
 
 La Catch French Beginner 4 ést gérée par différents membres de la communauté.
 
+| Poste | Membre(s) |
+| :-- | :-- |
 | Organisateur | ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
 | Coorganisateur | ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990), ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
 | Sélectionneur de map | ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
