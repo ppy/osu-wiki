@@ -47,6 +47,7 @@ Mocha, osu!taiko maskotu. Aslen ilk kez [altıncı fanart yarışması](https://
 一本木龍太 (Ryūta Ippongi) 2008'de katılmış olan osu!catch chibi-fruit catcher'dır, ancak yerini 2014 yılında [Yuzu](#-yuzu) aldı. O [iNiS Corporation](https://en.wikipedia.org/wiki/INiS) tarafından oluşturulmuştur ve bir zamanlar eski web sitesinin bir parçasıydı. Ayrıca [Yandere Simulator](https://yanderesimulator.com)' de NPC'dir.
 
 Ryuuta, [LuigiHann](https://osu.ppy.sh/users/1079)'nın temasında da yer aldı, [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/).
+
 ### Ajan J
 
 ![Ajan J](img/Agent_J.png "Agent J")
@@ -56,6 +57,7 @@ Ryuuta, [LuigiHann](https://osu.ppy.sh/users/1079)'nın temasında da yer aldı,
 Ajan J, BA-2 (Beat Agent-2) veya J olarak da bilinir, 2008'de osu! maskotlarından biriydi ama 2014'te emekli olmuştur. İNiS Corporation tarafından oluşturuldu ve bir zamanlar eski web sitesinin bir parçasıydı.
 
 Ajan J, [LuigiHann](https://osu.ppy.sh/users/1079)'nın temasında da yer aldı [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/).
+
 ### Don
 
 ![Don](img/Don.png "Don")
@@ -83,7 +85,6 @@ Ajan J, [LuigiHann](https://osu.ppy.sh/users/1079)'nın temasında da yer aldı 
 ![Chirou](img/Chirou.png "Chirou")
 
 [pyun](https://osu.ppy.sh/users/981534) tarafından tasarlanmıştır. Chirou osu!taiko maskot tasarım yarışmasına katılanlardan biriydi, kendisi çok katı ve talepkardır, mükemmeliyetçi, ve hata yapmayı sevmez - özellikle osu!taiko'daki vuruşlarında. Ama sert görünüşünün ardında, onun yumuşak noktasına gidersen, yumuşacık ve sevimli olabilir. O 14 yaşında. 25 Ekim'de AB kan grubu ile doğdu. Ayrıca 4 feet 11 inç ve 100 kilo ağırlığında. Hobileri arasında davul çalma, pelerininde sıcak durmak, ve taş veya çakıl toplamak bulunur. Chirou, çeşitli kullanıcı fanart başvurularında bazı görünümler aldı.
-
 
 ### Taikonator
 
