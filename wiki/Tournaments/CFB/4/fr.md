@@ -55,4 +55,58 @@ La Catch French Beginner 4 ést gérée par différents membres de la communaut�
 - [Tableaux Challonge](https://challonge.com/fr/cfbquatre)
 - **[Feuille de statistiques](https://docs.google.com/spreadsheets/d/1UVwaSi_s32QEYro3zjnfMYjPrYBjr-n6El8_MntBCyk/edit#gid=1982472802)**
 
+## Participants
+
+*Waiting Monday.*
+
+## Mappools
+
+### Qualifiers
+
+- NoMod
+  - [ALiCE'S EMOTiON - Evening Steps (TicClick) \[Light Insane\]](https://osu.ppy.sh/beatmapsets/270457#fruits/615227)
+  - [Yuuhei Satellite - Kachou Fuugetsu (Magic Girl) \[Benny's Platter\]](https://osu.ppy.sh/beatmapsets/726596#fruits/1533955)
+- Hidden
+  - [Maaya Sakamoto - Waiting for the rain (Rizia) \[Insane\]](https://osu.ppy.sh/beatmapsets/364282#fruits/799927)
+- HardRock
+  - [Hecq - Dstrukt (JBHyperion) \[Cup\]](https://osu.ppy.sh/beatmapsets/511538#fruits/1087383)
+- DoubleTime
+  - [dors k(uro) - dreeeeam (Chara) \[A Salad of Dreams\]](https://osu.ppy.sh/beatmapsets/444696#fruits/955343)
+
+## Ruleset
+
+### General rules
+
+1. Les scores seront en **ScoreV2**.
+2. La restriction de rang s'applique au maximum à **#2,500** sur le mode de jeu osu!catch.
+3. Un retard de plus de 10 minutes à un match entraînera une victoire par défaut pour l'autre joueur.
+4. Un langage correct est exigé, de la part des participants comme du staff.
+5. Les joueurs banniront à chaque match **deux maps** chacun pour un total de **quatre maps** bannies.
+6. Les scores fail comptent, même si le joueur est mort à la fin de la map.
+7. Les joueurs lanceront un `!roll` au début du match pour déterminer l'ordre des choix.
+8. Même lors d'un tournoi, osu! reste un jeu, soyez amicaux et fair play.
+9. Ce tournoi sera en double-élimination, ce qui signifie qu'il y aura un loser's bracket.
+10. N'importe quel joueur francophone peut participer au tournoi.
+11. Les joueurs auront deux bans par match.
+12. Les joueurs ne pourront pas ban plus d'une map dans un mod.
+13. Le Hidden est autorisé en HardRock et DoubleTime.
+14. Le Tiebreaker est joué en FreeMod.
+
+### Format des qualifiers
+
+1. Mappool sera composé de:
+   - 2 NoMod
+   - 1 Hidden
+   - 1 HardRock
+   - 1 DoubleTime
+2. Notez que le niveau des qualifiers est volontairement plus élévé que le groupe stage pour bien vous départager et pour ainsi créer les tops, highs, lows et unseeds. Il servira également à adapter le mappool en fonction du niveau généré à cette occasion !
+
+### Conditions gagnantes
+
+1. Phase de poules: Best of 7 (premier à 4 points)
+2. Quarts-de-finale: Best of 9 (premier à 5 points)
+3. Demi-finales: Best of 11 (premier à 6 points)
+4. **Finales et Grandes Finales**: Best of 13 (premier à 7 points)
+
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_FR]: /wiki/shared/flag/FR.gif "Indonesia"
