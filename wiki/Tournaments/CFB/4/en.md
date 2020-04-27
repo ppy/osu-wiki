@@ -77,6 +77,27 @@ The Catch French Beginner 4 is run by various community members.
 
 ## Mappools
 
+### Group Stage
+
+**[Download the mappack here! (61 MB)](https://wetransfer.com/downloads/acc2947bf3e906e2d4ebf4b97cdbe30420200426171428/49d7d2)**
+
+- NoMod
+  - [Sayuri - Tsuki to Hanataba (TV Size) (Absolute Zero) \[Salad\]](https://osu.ppy.sh/beatmapsets/816867#fruits/1712961)
+  - [Camellia - Towards The Horizon (Nerova Riuz GX) \[Hard\]](https://osu.ppy.sh/beatmapsets/578445#fruits/1350903)
+  - [O2i3 - Ooi [Game Edit] (xi-False) \[II (Salad)\]](https://osu.ppy.sh/beatmapsets/451239#fruits/968030)
+  - [ETIA. - Lost Love (JJburstOwO) \[Mecon's Hyper\]](https://osu.ppy.sh/beatmapsets/341933#fruits/768617)
+- Hidden
+  - [Camellia - \*Feels Seasickness...\* (My Angel RangE) \[\*ADVANCED...\*\]](https://osu.ppy.sh/beatmapsets/914865#fruits/2064953)
+  - [Step - Polargeist (AquaTail) \[Fizz's Hard\]](https://osu.ppy.sh/beatmapsets/1104099#fruits/2330643)
+- HardRock
+  - [Linkin Park - Breaking The Habit (AlexaBM) \[Medium\]](https://osu.ppy.sh/beatmapsets/173468#fruits/419194)
+  - [Porter Robinson & Madeon - Shelter (Myle) \[Cup\]](https://osu.ppy.sh/beatmapsets/536749#fruits/1137696)
+- DoubleTime
+  - [Antonin Dvorak - From the New World (lepidopodus) \[Normal\]](https://osu.ppy.sh/beatmapsets/25342#fruits/85870)
+  - [LukHash - SOCIAL PHOBIA (JBHyperion) \[CUP\]](https://osu.ppy.sh/beatmapsets/1040733#fruits/2175038)
+- Tiebreaker
+  - **[LukHash - DIGITAL HEART (MBomb) \[HYPERION'S PLATTER\]](https://osu.ppy.sh/beatmapsets/1031580#fruits/2157880)**
+
 ### Qualifiers
 
 - NoMod
