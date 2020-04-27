@@ -5,7 +5,7 @@ tags:
 
 # osu!mania 4K Chinese National Cup 2019
 
-![MCNC 2019 Logo](img/logo.png)
+![MCNC 2019 Logo](img/logo.jpg)
 
 The **osu!mania 4K Chinese National Cup 2019** (***MCNC 2019***) is a country-based osu!mania tournament hosted by the [Crz]Team. It is the 1st installment of the osu!mania 4K Chinese National Cup.
 
@@ -92,11 +92,11 @@ The osu!mania 4K Chinese National Cup 2019 is run by various community members b
 
 ---------------------------
 
-1st place : [Crz]Murasame
-2nd place : [Crz]FolAH1217
-3rd place : [Crz]Satori
+- 1st place : [Crz]Murasame
+- 2nd place : [Crz]FolAH1217
+- 3rd place : [Crz]Satori
 
-![MCNC 2019 Bracket](img/bracket.png)
+![MCNC 2019 Bracket](img/Bracket.png)
 
 ---------------------------
 
