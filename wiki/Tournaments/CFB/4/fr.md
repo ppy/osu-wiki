@@ -59,7 +59,21 @@ La Catch French Beginner 4 ést gérée par différents membres de la communaut�
 
 ## Participants
 
-*Waiting Monday.*
+| Seed | Membres |
+| :-- | :-- |
+| Top | ![][flag_CA] [Remyria](https://osu.ppy.sh/users/1699875), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_FR] [Jibsz](https://osu.ppy.sh/users/12269489), ![][flag_FR] [Riki no Kage](https://osu.ppy.sh/users/1549032) |
+| High | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012), ![][flag_FR] [AttilaPhoenix](https://osu.ppy.sh/users/8384680), ![][flag_FR] [-Dragolord-](https://osu.ppy.sh/users/9473359), ![][flag_FR] [Trifano](https://osu.ppy.sh/users/15126172) |
+| Low | ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098), ![][flag_CA] [Zyoulou](https://osu.ppy.sh/users/8668722), ![][flag_FR] [Dovu](https://osu.ppy.sh/users/6150413), ![][flag_FR] [MarsJackson](https://osu.ppy.sh/users/8479894) |
+| Unseeded | ![][flag_FR] [Okupsa](https://osu.ppy.sh/users/9313135), ![][flag_FR] [Athedos](https://osu.ppy.sh/users/10722269), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523), ![][flag_FR] [sullymaster](https://osu.ppy.sh/users/6765259) |
+
+## Groupes
+
+| Groupe | Top seed | High seed | Low seed | Unseeded |
+| :-: | :-- | :-- | :-- | :-- |
+| A | ![][flag_CA] [Remyria](https://osu.ppy.sh/users/1699875) | ![][flag_FR] [AttilaPhoenix](https://osu.ppy.sh/users/8384680) | ![][flag_FR] [Dovu](https://osu.ppy.sh/users/6150413) | ![][flag_FR] [Okupsa](https://osu.ppy.sh/users/9313135) |
+| B | ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519) | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012) | ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098) | ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523) |
+| C | ![][flag_FR] [Riki no Kage](https://osu.ppy.sh/users/1549032) | ![][flag_FR] [-Dragolord-](https://osu.ppy.sh/users/9473359) | ![][flag_FR] [MarsJackson](https://osu.ppy.sh/users/8479894) | ![][flag_FR] [Athedos](https://osu.ppy.sh/users/10722269) |
+| D | ![][flag_FR] [Jibsz](https://osu.ppy.sh/users/12269489) | ![][flag_FR] [Trifano](https://osu.ppy.sh/users/15126172) | ![][flag_CA] [Zyoulou](https://osu.ppy.sh/users/8668722) | ![][flag_FR] [sullymaster](https://osu.ppy.sh/users/6765259) |
 
 ## Mappools
 
@@ -110,5 +124,6 @@ La Catch French Beginner 4 ést gérée par différents membres de la communaut�
 3. Demi-finales: Best of 11 (premier à 6 points)
 4. **Finales et Grandes Finales**: Best of 13 (premier à 7 points)
 
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonésie"
