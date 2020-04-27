@@ -46,7 +46,7 @@ The Catch French Beginner 4 is run by various community members.
 | Streamer | ![][flag_FR] [Fulgu](https://osu.ppy.sh/users/4096322), ![][flag_FR] [Libegon](https://osu.ppy.sh/users/9922381), ![][flag_FR] [Purettsu Eru](https://osu.ppy.sh/users/1542565) |
 | Commentator | ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987), ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077), ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523), ![][flag_FR] [Libegon](https://osu.ppy.sh/users/9922381), ![][flag_FR] [MindLight](https://osu.ppy.sh/users/7664694), ![][flag_FR] [Yruama](https://osu.ppy.sh/users/8221467) |
 | Designer | ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
-| Statistician | ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) |
+| Statistician | ![][flag_FR] [YANOO123](https://osu.ppy.sh/users/5122949) |
 | Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
