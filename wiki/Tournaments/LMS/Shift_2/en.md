@@ -154,6 +154,53 @@ The Taiko LMS: Shift Cup 2 is run by various community members.
 - Tiebreaker
   - **[Zekk & SANY-ON - Amazing Sampling Showcase (Mew) \[Mew's Taiko\]](https://osu.ppy.sh/beatmapsets/1134079#taiko/2368384)**
 
+## Match results
+
+### Group Stage
+
+Saturday, 25 April 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **ヴぇ** | **5** | 1 | Syria | [#1](https://osu.ppy.sh/community/matches/60852134) |
+| **Where is JDrago1-13?** | **5** | 1 | the bros 3 | [#1](https://osu.ppy.sh/community/matches/60853621) |
+| Syria | 3 | **5** | **a** | [#1](https://osu.ppy.sh/community/matches/60861248) |
+| **Dancing Pallbearers** | **5** | 0 | Yona and the Macacos | [#1](https://osu.ppy.sh/community/matches/60864715) |
+| **ヴぇ** | **5** | 0 | Easter Egg | [#1](https://osu.ppy.sh/community/matches/60866314) |
+| **Where is JDrago1-13?** | **5** | 0 | 100% taiko juice | [#1](https://osu.ppy.sh/community/matches/60873668) |
+| **EuroGamers -Jaye** | **5** | 1 | juju on that Beat | [#1](https://osu.ppy.sh/community/matches/60876142), [#2](https://osu.ppy.sh/community/matches/60877433) |
+| juju on that Beat | 3 | **5** | **fine lady meme patrol** | [#1](https://osu.ppy.sh/community/matches/60878892), [#2](https://osu.ppy.sh/community/matches/60881834) |
+| RJ is a furry | 1 | **5** | **abibibubibui** | [#1](https://osu.ppy.sh/community/matches/60881421) |
+| **RJ is a furry** | **5** | 0 | cloudfag's harem | [#1](https://osu.ppy.sh/community/matches/60883450) |
+| **EuroGamers -Jaye** | **5** | 2 | Windjammers | [#1](https://osu.ppy.sh/community/matches/60880959) |
+| **EuroGamers -Jaye** | **5** | 0 | fine lady meme patrol | [#1](https://osu.ppy.sh/community/matches/60883942) |
+| **100% taiko juice** | **5** | 4 | the bros 3 | [#1](https://osu.ppy.sh/community/matches/60880931) |
+| **Syria** | **5** | 0 | Easter Egg | [#1](https://osu.ppy.sh/community/matches/60886742) |
+| Yona and the Macacos | 1 | **5** | **Los Panas** | [#1](https://osu.ppy.sh/community/matches/60889015) |
+| null | 4 | **5** | **RJ is a Furry** | [#1](https://osu.ppy.sh/community/matches/60895385) |
+
+Sunday, 26 April 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Dancing Pallbearers | 3 | **5** | **Los Panas** | [#1](https://osu.ppy.sh/community/matches/60897781) |
+| Remii and the E-Girls | 1 | **5** | **fine lady meme patrol** | [#1](https://osu.ppy.sh/community/matches/60908652) |
+| **Dancing Pallbearers** | **5** | 0 | United Kingdom B | [#1](https://osu.ppy.sh/community/matches/60909909) |
+| **Windjammers** | **5** | 0 | Remii and the E-Girls | [#1](https://osu.ppy.sh/community/matches/60910217) |
+| the bros 3 | 0 | **5** | **Pokochin Brothers** | [#1](https://osu.ppy.sh/community/matches/60910638) |
+| **null** | **5** | 1 | cloudfag's harem | [#1](https://osu.ppy.sh/community/matches/60910150) |
+| **EuroGamers -Jaye** | **5** | 0 | Remii and the E-Girls | [#1](https://osu.ppy.sh/community/matches/60911549) |
+| Easter Egg | 0 | **5** | **a** | [#1](https://osu.ppy.sh/community/matches/60912042) |
+| **juju on that Beat43210** | **5** | 0 | Remii and the E-Girls | [#1](https://osu.ppy.sh/community/matches/60917309) |
+| ヴぇ | 0 | **5** | **a** | [#1](https://osu.ppy.sh/community/matches/60917212) |
+| **Where is JDrago1-13?** | **5** | 1 | Pokochin Brothers | [#1](https://osu.ppy.sh/community/matches/60917247) |
+| null | 0 | **5** | **abibibubibui** | [#1](https://osu.ppy.sh/community/matches/60917275) |
+| juju on that Beat43210 | 2 | **5** | **Windjammers** | [#1](https://osu.ppy.sh/community/matches/60919166) |
+| **Yona & the Macacos** | **5** | 1 | United Kingdom B | [#1](https://osu.ppy.sh/community/matches/60921435) |
+| **abibibubibui** | **5** | 0 | cloudfag's harem | [#1](https://osu.ppy.sh/community/matches/60921675) |
+| Windjammers | 3 | **5** | **fine lady meme patrol** | [#1](https://osu.ppy.sh/community/matches/60923622) |
+| United Kingdom B | 1 | **5** | **Los Panas** | [#1](https://osu.ppy.sh/community/matches/60927793) |
+
 ## Ruleset
 
 ### General rules
