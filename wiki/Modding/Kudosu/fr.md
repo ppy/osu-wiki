@@ -7,7 +7,9 @@ Dans le forum de modding, les kudosu sont échangeables contre des [étoiles de 
 Le mot *kudosu*, parfois stylisé sous la forme de *kudosu!*, est une contraction des deux mots *kudos* et *osu!*.
 
 <!-- this is a stub -->
+
 <!-- TODO: forum modding, star priority? stubs-->
+
 <!-- TODO:
   - something about the ranking at https://old.ppy.sh/p/kudosu
   - history in general / forum modding usage
