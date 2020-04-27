@@ -92,6 +92,37 @@ The Taiko LMS: Shift Cup 2 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (90 MB)](https://www.mediafire.com/file/o015yntwe0hm414/mappool.rar/file)**
+
+- NoMod
+  - [BUTAOTOME - In the Black (Nwolf) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1068835#taiko/2237598)
+  - [BEMANI Sound Team "Sota Fujimori" - OZONE (Cychloryn) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1131154#taiko/2362744)
+  - [chelmico - Easy Breezy feat Zenpaku (dj-Jo Remix) (D3kuu) \[Breeze\]](https://osu.ppy.sh/beatmapsets/1122895#taiko/2346527)
+- Hidden
+  - [be5moti - Trahison (houraizin) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/833305#taiko/1745532)
+  - [James Landino & Kabuki - Birdsong (Nifty) \[Cygnet\]](https://osu.ppy.sh/beatmapsets/1010367#taiko/2115020)
+  - [Hyphen - ^/7(L|?\[\_(L+#\<\>+&|^(o) (\[Zeth\]) \[Faceless\]](https://osu.ppy.sh/beatmapsets/732250#taiko/1545035)
+- HardRock
+  - [dj TAKA meets DJ YOSHITAKA ft.guit.good-cool - Elemental Creation -GITADO ROCK ver.- (frukoyurdakul) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/690344#taiko/1461118)
+  - [NayutalieN - Alien Alien (Nhato Remix) (Rhytoly) \[Alien\]](https://osu.ppy.sh/beatmapsets/904873#taiko/1888713)
+  - [P\*Light - Storm Buster (Arrival) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/620268#taiko/1307259)
+- DoubleTime
+  - [Half Polish - Hej Sokoly (Volta) \[Oni\]](https://osu.ppy.sh/beatmapsets/1051396#taiko/2205036)
+  - [Porno Graffiti - The Day feat. Aruvn (dj-Jo Remix) Extended Version (Chromoxx) \[Sur's Oni\]](https://osu.ppy.sh/beatmapsets/693174#taiko/1473833)
+  - [Diao Ye Zong feat. Kushi - Yuumeikyou o Wakatsu Koto (strickluke) \[Oni\]](https://osu.ppy.sh/beatmapsets/743089#taiko/1567153)
+- FreeMod
+  - [TANO\*C Sound Team - BATTLE NO.1 (tamakagi2000) \[Ron's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1080359#taiko/2335813)
+  - [Nanawo Akari - Instant Heaven feat.Eve (Jerry) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/810190#taiko/1699932)
+  - [Toby Fox - THE WORLD REVOLVING (Vulkin) \[ANCEL'S FINAL CHAOS\]](https://osu.ppy.sh/beatmapsets/873084#taiko/1829927)
+- Extra
+  - [eicaTV vs kanone - MG277 (m1kado) \[Taiko\]](https://osu.ppy.sh/beatmapsets/724157#taiko/1529084)
+  - [Minami Yuni - Kanagawa Cyber Culvert (ekumea1123) \[tasuke's Upheaval\]](https://osu.ppy.sh/beatmapsets/898783#taiko/1877558)
+  - [toby fox - Ruins (sasakure.UK Remix) (eae) \[Golden Flowers\]](https://osu.ppy.sh/beatmapsets/790685#taiko/1659016)
+- Tiebreaker
+  - **[Dustvoxx - Disconnect Me (from saturator) (pavlukivan) \[Oni (from remus)\]](https://osu.ppy.sh/beatmapsets/1118559#taiko/2381796)**
+
 ### Group Stage
 
 **[Download the mappack here! (133 MB)](https://www.dropbox.com/s/tfuiej2yios9rfi/Shift%20Cup%20Group%20Stage%20Mappack.rar?dl=1)**
