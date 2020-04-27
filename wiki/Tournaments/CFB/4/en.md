@@ -110,6 +110,32 @@ The Catch French Beginner 4 is run by various community members.
 - DoubleTime
   - [dors k(uro) - dreeeeam (Chara) \[A Salad of Dreams\]](https://osu.ppy.sh/beatmapsets/444696#fruits/955343)
 
+## Match results
+
+### Qualifiers
+
+| Seed | Player | Average Rank |
+| --: | :-- | --: |
+| #1 | ![][flag_CA] [Remyria](https://osu.ppy.sh/users/1699875) | 2.2 |
+| #2 | ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519) | 4.6 |
+| #3 | ![][flag_FR] [Jibsz](https://osu.ppy.sh/users/12269489) | 4.8 |
+| #4 | ![][flag_FR] [Riki no Kage](https://osu.ppy.sh/users/1549032) | 5.2 |
+| #5 | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012) | 5.8 |
+| #6 | ![][flag_FR] [AttilaPhoenix](https://osu.ppy.sh/users/8384680) | 6.2 |
+| #7 | ![][flag_FR] [-Dragolord-](https://osu.ppy.sh/users/9473359) | 7 |
+| #7 | ![][flag_FR] [Trifano](https://osu.ppy.sh/users/15126172) | 7
+| #9 | ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098) | 7.2 |
+| #10 | ![][flag_CA] [Zyoulou](https://osu.ppy.sh/users/8668722) | 9.4 |
+| #11 | ![][flag_FR] [Dovu](https://osu.ppy.sh/users/6150413) | 9.8 |
+| #12 | ![][flag_FR] [MarsJackson](https://osu.ppy.sh/users/8479894) | 11 |
+| #13 | ![][flag_FR] [Okupsa](https://osu.ppy.sh/users/9313135) | 12.2 |
+| #14 | ![][flag_FR] [Athedos](https://osu.ppy.sh/users/10722269) | 12.6 |
+| #15 | ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523) | 14.4 |
+| #16 | ![][flag_FR] [sullymaster](https://osu.ppy.sh/users/6765259) | 16 |
+
+- More detailed qualifiers result can be accessed via the statistics sheet inside [links section](#links).
+- Average Rank is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
+
 ## Ruleset
 
 ### General rules
