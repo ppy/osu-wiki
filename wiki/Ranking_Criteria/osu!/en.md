@@ -18,7 +18,6 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 
 ### Gameplay
 
-- **Stack leniency:** A setting used to determine if hit objects stack or perfectly overlap each other. Increasing its value will cause hit objects to stack at longer time intervals.
 - **Overlap:** Hit objects touching each other where they do not stack.
 - **Perfect overlap:** Hit objects in the same grid location that do not stack.
 - **Snapping:** Timeline tick where an object is placed.
