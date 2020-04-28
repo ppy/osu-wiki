@@ -12,6 +12,8 @@ Song Setup is the fourth section of the [Beatmap Editor](/wiki/Beatmap_Editor). 
 
 These fields should be completed before creating a second difficulty. This is primarily to ensure that the metadata will be consistent across all difficulties in the beatmapset.
 
+Input for artist, title, and source fields should be sourced from the song's [primary metadata source](/wiki/Beatmap_Editor/Song_Setup/Primary_metadata_source).
+
 #### Artist
 
 **The band, singer, composer, or group that performed or created the song.** Normally, this is automatically taken from the MP3 file's metadata, but double-check for proper spelling and punctuation.
