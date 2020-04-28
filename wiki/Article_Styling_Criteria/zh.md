@@ -1,4 +1,4 @@
-列如# 文章风格规范
+# 文章风格规范
 
 *相关文章：[文章风格规范——新闻篇](/wiki/News_Styling_Criteria)*
 
@@ -83,7 +83,7 @@ needs_cleanup: true
 
 当英语版本更新时，过时的翻译文章必须使用 `outdated` 标记，当英文文章包含的内容具有误导性或不再相关时，它们也可能会过期。
 
-列如：
+例如：
 
 ```yaml
 outdated: true
@@ -105,7 +105,7 @@ tags:
 
 有时，一篇翻译文章因为各种原因没有经过母语校对而被添加到 wiki 中，在这种情况下，将添加 `no_native_review` 标记，以使将来的翻译者知道可能需要再次对其进行检查。
 
-列如：
+例如：
 
 ```yaml
 no_native_review: true
@@ -200,7 +200,7 @@ Hatnotes 是放在文章顶部（但在标题下方）或部分下方的简短�
 
 主页引导 Hatnotes 将读者引向具有更多信息的文章。这必须以单词 `Main page` 开头，后跟一个冒号 (`:`)。
 
-列如：
+例如：
 
 ```markdown
 ## Modding
@@ -212,7 +212,7 @@ Hatnotes 是放在文章顶部（但在标题下方）或部分下方的简短�
 
 另请参见 Hatnotes 用于给读者建议其他相关文章。这必须以单词 `See also` 开头，后跟一个冒号 (`:`)。
 
-列如：
+例如：
 
 ```markdown
 ## Beatmapping
@@ -224,7 +224,7 @@ Hatnotes 是放在文章顶部（但在标题下方）或部分下方的简短�
 
 关于;请见 Hatnotes 与另请参见十分相似，有助于减少歧义，并且通常更具描述性。 这必须以单词 `For` 开头，后跟简要说明，一个逗号 (`,`)，`see`，然后是冒号 (`:`)。
 
-列如：
+例如：
 
 ```markdown
 # Installation
@@ -236,7 +236,7 @@ Hatnotes 是放在文章顶部（但在标题下方）或部分下方的简短�
 
 可在某节的适当位置放置一个提示，但必须放置在该段落开头并使用斜体。提示在适当的地方可以包含粗体。必须以单词 `Note`，`Notice`，`Caution` 或是 `Warning` 开头， 后跟一个冒号 (`:`)。提示需要是一个完整的句子，与 [Hatnotes](#hatnotes) 不同，需要使用句号 (`.`)或是冒号 (`!`) 结尾。在段落中与提示相同的内容也可以与提示一样斜体标注。
 
-列如：
+例如：
 
 ```markdown
 *Note: pippi is spelt with a lowercase "p", like peppy.*
@@ -254,7 +254,7 @@ Hatnotes 是放在文章顶部（但在标题下方）或部分下方的简短�
 
 针对特定读者的提示类似于普通的提示， 但在单词 "Note"，"Notice"，"Caution" 或 "Warning" 后包括单词 `to` 后跟简要说明。
 
-列如：
+例如：
 
 ```markdown
 *Notice to API users: In osu!catch, droplets are marked as `count50` and missed droplets as `countkatu`.*
@@ -387,7 +387,7 @@ Hatnotes 是放在文章顶部（但在标题下方）或部分下方的简短�
 
 *请注意：当表示的是字母本身而不是键盘按键时，请使用引号。*
 
-表示单个按键时请将其大写，特殊按键请将第一个符号大写，列如：
+表示单个按键时请将其大写，特殊按键请将第一个符号大写，例如：
 
 ```markdown
 按下 `Ctrl` + `O` 打开的对话框。
@@ -407,7 +407,7 @@ Hatnotes 是放在文章顶部（但在标题下方）或部分下方的简短�
 
 复制文件夹或目录的名称时，应按显示的字母大小写进行复制，但尽可能使用小写路径。目录路径不能是绝对路径（即，不要从驱动器号或根文件夹开始复制目录名称）。
 
-列如：
+例如：
 
 ```markdown
 osu! 的默认安装路径是 `AppData/Local`，但你可以在安装之前手动修改它。
@@ -417,7 +417,7 @@ osu! 的默认安装路径是 `AppData/Local`，但你可以在安装之前手�
 
 复制关键字或命令时，应按它显示的字幕大小写进行复制（如果适用，最好使用小写字母）。
 
-列如：
+例如：
 
 ```markdown
 到目前为止，(`skin.ini`) 中的 `Name` 和 `Author` 参数没有任何用处。
@@ -437,7 +437,7 @@ osu! 的默认安装路径是 `AppData/Local`，但你可以在安装之前手�
 
 文件扩展名必须以英文句号（`.`）为前缀，后跟小写字母的文件扩展名。
 
-列如：
+例如：
 
 ```markdown
 JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
@@ -447,7 +447,7 @@ JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
 
 复制聊天频道的名称时，请以井号（＃）开头，然后是小写字母频道名称
 
-列如：
+例如：
 
 ```markdown
 `#lobby` 是您可以宣传多人游戏房间的地方。
@@ -487,7 +487,7 @@ JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
 
 所有指向 osu!wiki 文章的链接都必须以 `/wiki/` 开头，后跟指向的文章的路径。
 
-列如：
+例如：
 
 ```markdown
 [欢迎](/wiki/Welcome)
@@ -560,7 +560,7 @@ JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
 
 外部链接必须直接链接到它对应的资源，并使用它的标题作为链接文字。
 
-列如：
+例如：
 
 ```markdown
 *关于 Music theory 的更多信息，请见：[Music theory](https://en.wikipedia.org/wiki/Music_theory "Wikipedia")*
@@ -620,7 +620,7 @@ JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
 
 ---
 
-列如
+例如
 
 ```markdown
 | 红队 | 分数 | 蓝队 | 谱面平均难度 |
