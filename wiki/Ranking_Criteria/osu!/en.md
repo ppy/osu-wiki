@@ -18,8 +18,6 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 
 ### Gameplay
 
-- **Jump:** Hit objects spaced further apart from each other in comparison to the average spacing for such patterns. Usually snapped to 1/2 beats.
-- **Stream:** Consecutive circles grouped together. Usually snapped to 1/4 beats.
 - **Stack:** Two or more hit objects in the same grid location whose placements are automatically offset.
 - **Stack leniency:** A setting used to determine if hit objects stack or perfectly overlap each other. Increasing its value will cause hit objects to stack at longer time intervals.
 - **Overlap:** Hit objects touching each other where they do not stack.
@@ -36,7 +34,6 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 - **Time-distance equality:** Spacing between hit objects is proportional to the duration of time between them. Also known as using a constant distance spacing.
 - **Hit object/Note density:** The average timeline gaps between hit objects expressed in fractions of a beat (such as 1/1 for one beat, 1/2 for half a beat).
 - **Keysounding:** Hitsounding using samples extremely similar or directly from the song in their respective places. This method of hitsounding usually provides low feedback to the player.
-- **Spaced stream:** A stream with circles that do not overlap.
 - **Difficulty spike:** A sudden increase in difficulty that misrepresents the song's intensity relative to the rest of the beatmap.
 
 ## Overall
@@ -161,8 +158,8 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 - **Spinner recovery time should be at least 1 beat.** This is to ensure adequate time to click a hit object following a spinner.
 - **Note density should consist of mostly 1/2, occasional 1/4, or slower rhythms.**
-- **Avoid streams made of more than 5 notes.** Short reversing sliders can be used in exchange for these when the song supports it.
-- **Avoid visually similar spacing for different rhythms.** Spacing variation through jumps on points of emphasis are encouraged, but only if these jumps are recognizably different from other rhythm gaps.
+- **Avoid [streams](/wiki/Beatmaps/Patterns/Stream) made of more than 5 notes.** Short reversing sliders can be used in exchange for these when the song supports it.
+- **Avoid visually similar spacing for different rhythms.** Spacing variation through [jumps](/wiki/Beatmaps/Patterns/Jump) on points of emphasis are encouraged, but only if these jumps are recognizably different from other rhythm gaps.
 - **Slider tick hitsounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hitsounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
 - **Avoid spinners less than 2 beats.** Players need time to recognize that they have to begin spinning.
 - **Avoid fully covering slider reverse arrows with hit objects within 2 beats of the reverse arrow being reached.** This gives players enough time to recognize the reverse arrow.
@@ -179,7 +176,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 #### Guidelines
 
 - **Objects 1/4 of a beat apart or less should not overlap perfectly,** especially on simpler Insane difficulties.
-- **Avoid cross screen jumps and spaced streams.** These are beatmapping techniques primarily reserved for Expert level difficulties.
+- **Avoid cross screen [jumps](/wiki/Beatmaps/Patterns/Jump) and [streams](/wiki/Beatmaps/Patterns/Stream) whose circles do not overlap.** These are beatmapping techniques primarily reserved for Expert level difficulties.
 - **Slider tick hitsounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hitsounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
 - **Avoid fully covering slider reverse arrows with circles, slider heads, or slider tails within a 1/2 beat of the reverse arrow being reached.** This gives players enough time to recognize the reverse arrow.
 - **Avoid perfectly overlapping slider bodies within a 1/2 beat of each other.** Doing so can cause sliders to be misread as a circle due to obscuring the slider body.
