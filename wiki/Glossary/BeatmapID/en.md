@@ -1,7 +1,6 @@
 ---
 tags:
   - links
-  - id
 ---
 
 # Beatmap ID

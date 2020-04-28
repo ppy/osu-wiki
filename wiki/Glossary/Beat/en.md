@@ -1,5 +1,6 @@
 ---
 tags:
+  - whole beat
   - white tick
   - white lines
 ---
