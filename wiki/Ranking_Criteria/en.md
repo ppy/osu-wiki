@@ -208,13 +208,6 @@ This category contains explicit allowance statements of concepts and rules that 
 
 ## Skinning
 
-### Glossary
-
-- **Hit burst:** Element that appears after hitting an object, informing the player of how accurately timed their hit is in relation to the song (300/100/50).
-- **Complete set:** Complete sets of elements as listed in the overview. A set is complete when all required elements in it are skinned. If an optional element is included, all required elements need to be present, but not other optional elements of the set.
-- **User-specific:** A user's personal skin which they set in their options menu.
-- **Beatmap-specific:** Consists of skin elements located in the beatmap folder.
-
 ### Rules
 
 - **If you are using any elements created by another community member, ask permission beforehand.** Respecting the work of others is paramount and most people will be delighted to have their work featured in your projects! Thus, if you do not know who made the elements you plan on using, you must not use them.
