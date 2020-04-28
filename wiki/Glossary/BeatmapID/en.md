@@ -1,11 +1,10 @@
 ---
 tags:
-  - ID
-  - b links
-  - beatmap id
+  - links
+  - id
 ---
 
-# BeatmapID
+# Beatmap ID
 
 *See also: [BeatmapSetID](/wiki/Glossary/BeatmapSetID)*
 
@@ -16,4 +15,5 @@ All unsubmitted beatmaps will have a beatmapID of `0`.
 You can use the beatmapID to find a specific difficulty of a beatmap by using the url: `osu.ppy.sh/beatmaps/{BeatmapID}` or alternatively `osu.ppy.sh/b/{BeatmapID}`.
 
 <!-- This is a stub -->
+
 <!-- TODO: Insert images and links -->

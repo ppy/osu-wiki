@@ -1,7 +1,6 @@
 ---
 tags:
   - beat spacing
-  - time distance
   - constant distance spacing
 ---
 
