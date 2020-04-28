@@ -148,14 +148,12 @@ This category contains explicit allowance statements of concepts and rules that 
 - **Offset:** The millisecond position when a timing point's BPM correlates to a song.
 - **Uninherited timing point:** A point used to change a beatmap's BPM, offset, or time signature. Indicated by a red line in the editor and informally called a `red line`.
 - **Inherited timing point:** A point that inherits elements from the previous timing point, and is not used to modify a beatmap's timing. Indicated by a green line in the editor and informally called a `green line`.
-- **Single-BPM timing:** Timing which only requires one BPM.
-- **Multi-BPM timing:** Timing which changes BPM according to a song's composition without irregularity due to a song's fluctuation.
 - **Variable-BPM timing:** Timing which changes BPM irregularly due to a song's fluctuations.
 
 ### Rules
 
 - **Uninherited timing points must be used to accurately beatmap the song's time signatures.** If an incorrect time signature lasts for more than one bar, a uninherited timing point must be added on the next downbeat to reset the time signature. For #/4-signatures unsupported by the editor, metronome resets or editing of the `.osu` file are acceptable. For other unsupported time signatures, refer to this [exemplary chart](/wiki/shared/timing/Timing_signature_reference_chart.png), and see [this guide](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures) for further information.
-- **Beatmaps with Single-BPM and Multi-BPM timing must be perfectly timed.** This means BPM and offset are exactly synchronized with the song.
+- **Beatmaps must be perfectly timed.** This means BPM and offset are exactly synchronized with the song. Beatmaps with constantly changing BPM may be impossible to perfectly time and should instead be as accurate as possible without negatively affecting gameplay. Complex timing during breaks or spinners is optional.
 - **Uninherited timing points must be the same in every difficulty of a beatmapset.** Each point must have the same BPM and offset in each difficulty.
 - **There must not be extra uninherited timing points in any difficulty.** These may accidentally affect main-menu pulsing, add unwanted sounds to the Nightcore mod, or cause timing to shift. Acceptable uses include:
   - Aligning beats of the Nightcore mod with the start of musical sections.
@@ -167,10 +165,6 @@ This category contains explicit allowance statements of concepts and rules that 
   - Remain unsnapped, as long as they align with the intended beat snap divisor.
   - Be snapped through a temporary change in BPM.
 - **An object which is wrongly snapped due to passing through or ending slightly before a new uninherited timing point must have its end snapped within the new timing section.** For spinners and osu!mania long notes, this can be achieved through dragging an object's tail in the timeline. For sliders, this can be achieved through slider velocity manipulation or editing of the .osu file.
-
-### Guidelines
-
-- **Beatmaps with constantly changing BPM should be timed as accurately as possible without negatively affecting gameplay.** This means that your BPM and offsets are mostly synchronized with the song, but can include minor changes to aid intuitive gameplay when necessary. Complex timing during breaks or spinners is optional.
 
 ## Audio
 
