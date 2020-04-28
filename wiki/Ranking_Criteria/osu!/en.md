@@ -18,7 +18,6 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 
 ### Gameplay
 
-- **Stack:** Two or more hit objects in the same grid location whose placements are automatically offset.
 - **Stack leniency:** A setting used to determine if hit objects stack or perfectly overlap each other. Increasing its value will cause hit objects to stack at longer time intervals.
 - **Overlap:** Hit objects touching each other where they do not stack.
 - **Perfect overlap:** Hit objects in the same grid location that do not stack.
@@ -125,7 +124,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Avoid long chains of hit objects with 1/2 gaps.** Too many consecutive hit objects overlapping can be confusing for new players.
 - **Avoid 1/2 sliders with multiple reverses.** New players are unable to read additional reverses because they are visible for such a short amount of time.
 - **Avoid slider-only sections.** Aiming and following a lot of sliders in a row can be tiring for new players. In such cases, circles and rest moments without hit objects to click or follow should be used.
-- **Stacks are acceptable, but avoid switching between 1/1 and 1/2 stacks repeatedly.** This may cause reading issues for new players, since two different rhythms are visually the same.
+- **[Stacks](/wiki/Mapping_Techniques/Stack) are acceptable, but avoid switching between 1/1 and 1/2 stacks repeatedly.** This may cause reading issues for new players, since two different rhythms are visually the same.
 - **Frequently manipulating slider velocity is discouraged.** Slider velocity should only be changed for sections of music with different pacings and should not be drastically variable.
 - **Use straightforward and easily understandable slider shapes.** New players may not understand how to follow more complex shapes.
 - **Spinner recovery time should be at least 2 beats.** This is to ensure adequate time to click a hit object following a spinner.
