@@ -3,9 +3,6 @@ tags:
   - OWC 2019
   - OWC2019
 ---
-
-no_native_review: true
-
 # osu! World Cup 2019
 
 ![OWC 2019 logo](img/logo.jpg)
