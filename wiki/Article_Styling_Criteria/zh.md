@@ -1,4 +1,4 @@
-# 文章风格规范
+列如# 文章风格规范
 
 *相关文章：[文章风格规范——新闻篇](/wiki/News_Styling_Criteria)*
 
@@ -83,7 +83,7 @@ needs_cleanup: true
 
 当英语版本更新时，过时的翻译文章必须使用 `outdated` 标记，当英文文章包含的内容具有误导性或不再相关时，它们也可能会过期。
 
-再举个例子：
+列如：
 
 ```yaml
 outdated: true
@@ -105,7 +105,7 @@ tags:
 
 有时，一篇翻译文章因为各种原因没有经过母语校对而被添加到 wiki 中，在这种情况下，将添加 `no_native_review` 标记，以使将来的翻译者知道可能需要再次对其进行检查。
 
-举个例子：
+列如：
 
 ```yaml
 no_native_review: true
@@ -158,7 +158,7 @@ no_native_review: true
 
 <!-- ppy说不让用HTML。 来自:ppy#0001 日期:2017-06-26 in:osu-wiki markdown -->
 
-**禁止使用 HTML 标签。** 如果你认为有必要使用 HTML ，请重新考虑你的排版方案。
+禁止使用 HTML 标签，但注释除外。如果你认为有必要使用 HTML ，请重新考虑你的排版方案。
 
 #### 注释
 
@@ -194,7 +194,71 @@ Markdown 中的转义字符是反斜杠（`\`）。若要使用反斜杠，应�
 
 Hatnotes 是放在文章顶部（但在标题下方）或部分下方的简短注释。必须加斜体，不能以句号（`。`）结尾，并且必须紧跟标题或标题之后。 多个 Hatnotes 必须位于单独的行中，并以空行分隔。
 
-*关于撰写英文文章的 Hatnotes，请见：[文章风格规范(Englsih)/Hatnotes](/wiki/Article_Styling_Criteria?locale=en#hatnotes)*
+*关于 Hatnotes 的相关翻译，请见：[部分翻译规范](#部分翻译规范)*
+
+#### 主页引导(Main page)
+
+主页引导 Hatnotes 将读者引向具有更多信息的文章。这必须以单词 `Main page` 开头，后跟一个冒号 (`:`)。
+
+列如：
+
+```markdown
+## Modding
+
+*Main page: [Modding](/wiki/Modding)*
+```
+
+#### 另请参见(See also)
+
+另请参见 Hatnotes 用于给读者建议其他相关文章。这必须以单词 `See also` 开头，后跟一个冒号 (`:`)。
+
+列如：
+
+```markdown
+## Beatmapping
+
+*See also: [Storyboarding](/wiki/Storyboarding)*
+```
+
+#### 关于;请见(For see)
+
+关于;请见 Hatnotes 与另请参见十分相似，有助于减少歧义，并且通常更具描述性。 这必须以单词 `For` 开头，后跟简要说明，一个逗号 (`,`)，`see`，然后是冒号 (`:`)。
+
+列如：
+
+```markdown
+# Installation
+
+*For the Linux installation guide, see: [Installation/Linux](/wiki/Installation/Linux)*
+```
+
+### 提示(Notice)
+
+可在某节的适当位置放置一个提示，但必须放置在该段落开头并使用斜体。提示在适当的地方可以包含粗体。必须以单词 `Note`，`Notice`，`Caution` 或是 `Warning` 开头， 后跟一个冒号 (`:`)。提示需要是一个完整的句子，与 [Hatnotes](#hatnotes) 不同，需要使用句号 (`.`)或是冒号 (`!`) 结尾。在段落中与提示相同的内容也可以与提示一样斜体标注。
+
+列如：
+
+```markdown
+*Note: pippi is spelt with a lowercase "p", like peppy.*
+
+*Notice: You will need a decent internet connection to connect to Bancho and submit scores.*
+
+*Caution: This button does not ask for confirmation!*
+
+*Warning: Having more than one osu! user account at any time is an infringement against the [osu! rules](/wiki/Rules)!*
+```
+
+"Note" 应用于不重要或是细节的提示。"Notice" 应用于读者应该注意到的提示。 "Caution" 应用与警告读者避免意料之外的后果。 "Warning" 应用于警告读者后果。
+
+#### 对特定人群的提示(Notice to)
+
+针对特定读者的提示类似于普通的提示， 但在单词 "Note"，"Notice"，"Caution" 或 "Warning" 后包括单词 `to` 后跟简要说明。
+
+列如：
+
+```markdown
+*Notice to API users: In osu!catch, droplets are marked as `count50` and missed droplets as `countkatu`.*
+```
 
 ### 强调
 
@@ -343,7 +407,7 @@ Hatnotes 是放在文章顶部（但在标题下方）或部分下方的简短�
 
 复制文件夹或目录的名称时，应按显示的字母大小写进行复制，但尽可能使用小写路径。目录路径不能是绝对路径（即，不要从驱动器号或根文件夹开始复制目录名称）。
 
-举个例子：
+列如：
 
 ```markdown
 osu! 的默认安装路径是 `AppData/Local`，但你可以在安装之前手动修改它。
@@ -353,7 +417,7 @@ osu! 的默认安装路径是 `AppData/Local`，但你可以在安装之前手�
 
 复制关键字或命令时，应按它显示的字幕大小写进行复制（如果适用，最好使用小写字母）。
 
-举个例子：
+列如：
 
 ```markdown
 到目前为止，(`skin.ini`) 中的 `Name` 和 `Author` 参数没有任何用处。
@@ -373,7 +437,7 @@ osu! 的默认安装路径是 `AppData/Local`，但你可以在安装之前手�
 
 文件扩展名必须以英文句号（`.`）为前缀，后跟小写字母的文件扩展名。
 
-举个例子：
+列如：
 
 ```markdown
 JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
@@ -383,7 +447,7 @@ JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
 
 复制聊天频道的名称时，请以井号（＃）开头，然后是小写字母频道名称
 
-举个例子：
+列如：
 
 ```markdown
 `#lobby` 是您可以宣传多人游戏房间的地方。
@@ -423,7 +487,7 @@ JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
 
 所有指向 osu!wiki 文章的链接都必须以 `/wiki/` 开头，后跟指向的文章的路径。
 
-举个例子：
+列如：
 
 ```markdown
 [欢迎](/wiki/Welcome)
@@ -556,7 +620,7 @@ JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
 
 ---
 
-举个例子
+列如
 
 ```markdown
 | 红队 | 分数 | 蓝队 | 谱面平均难度 |
@@ -736,7 +800,7 @@ Dean Herbert（也就是 peppy）在2007年创造了osu。
 
 #### 日期格式
 
-*有关日期格式的信息，请见：[维基百科的日期格式样式](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Formats)*
+*有关日期格式的信息，请见：[日期格式样式的维基百科](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Formats)*
 
 日期格式在整篇文章中必须保持一致。
 
@@ -872,9 +936,16 @@ October 25, 2016 (11:45 UTC)
 
 ### 部分翻译规范
 
-| 英文 | 中文 |
-| :-- | :-- |
-| e.g. | 例如 |
-| For example: | 例如： |
-| Examples: | 例如： |
-| See also: | 参见：/ 另见： |
+你可以参照以下表格对部分单词或短语进行翻译。
+
+| 英文         | 中文             |
+|:------------ |:---------------- |
+| e.g.         | 例如             |
+| For example: | 例如：           |
+| Examples:    | 例如：           |
+| See also:    | 参见：/ 另见：   |
+| For..., see: | 关于……，请参见： |
+| Note:        | 小提示：         |
+| Notice:      | 请注意：         |
+| Caution:     | 请小心：         |
+| Warning:     | 警告：           |
