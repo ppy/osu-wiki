@@ -33,39 +33,32 @@ For the record, these include the recent changes made [from the discussion forum
 
 ## Beatmapset
 
-### Glossary
-
-- **Reasonable spread:** A beatmapset that does not skip any difficulty levels as dictated by difficulty-specific rules and guidelines, and does not have any drastically large differences between difficulties. This includes beatmapsets that feature only a single difficulty.
-- **Game mode:** osu!, osu!taiko, osu!catch, and each of osu!mania's key counts are considered individual game modes.
-- **Beatmapset host:** A user who uploads and manages a beatmapset.
-- **Guest difficulty:** A difficulty added to a beatmapset which is not created by its beatmapset host.
-- **Collaborative difficulty:** A single difficulty beatmapped by more than one creator. Also referred to as "collab".
+*Each of osu!mania's key counts are considered individual game modes throughout this section.*
 
 ### Rules
 
-- **All game modes within a beatmapset must form a reasonable spread starting from the lowest difficulty level required for the song's length.** Each spread must comply with its respective mode's difficulty-specific Ranking Criteria.
 - **Every difficulty of a beatmapset must have a minimum [drain time](/wiki/Gameplay/Drain_time) of 30 seconds.**
 - **If the [drain time](/wiki/Gameplay/Drain_time) of each difficulty is...**
-  - **...lower than 3:30, the lowest difficulty of each included game mode cannot be harder than a Normal.**
-  - **...between 3:30 and 4:15, the lowest difficulty of each included game mode cannot be harder than a Hard.**
-  - **...between 4:15 and 5:00, the lowest difficulty of each included game mode cannot be harder than an Insane.**
-  - **...anything higher, the beatmapset is exempt from reasonable spread rules.**
-  - **Difficulties below the highest difficulty can combine break times with drain time to meet the above thresholds.** This does not apply to difficulties with less than 30 seconds of drain time. Judgement regarding the suitability of gameplay elements used for any lowest difficulty Hard and Insane difficulties is up to the Beatmap Nominators and Nomination Assessment Team members for the corresponding game modes.
-- **Difficulty names in a set must be clearly progressive and accurately indicating of their respective difficulties, excluding:**
+  - **...lower than 3:30**, the lowest difficulty of each included game mode cannot be harder than a Normal.
+  - **...between 3:30 and 4:15**, the lowest difficulty of each included game mode cannot be harder than a Hard.
+  - **...between 4:15 and 5:00**, the lowest difficulty of each included game mode cannot be harder than an Insane.
+  - **Difficulties below the highest difficulty can combine break times with drain time to meet the above thresholds.** This does not apply to difficulties with less than 30 seconds of drain time. Judgement regarding the suitability of gameplay elements used for any lowest difficulty Hard and Insane difficulties is up to the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators/) and [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) members for the corresponding game modes.
+- **Difficulty names in a beatmapset must be clearly progressive and accurately indicating of their respective difficulties, excluding:**
   - The highest difficulty.
   - The highest difficulties with a similar level of difficulty, applying only to Insane and Extra difficulties (e.g. the Insane difficulties of a ENHIIII set or the Extra difficulties of a ENHIIXXX set).
+- **All game modes within a beatmapset must form a spread starting from the lowest difficulty level dictated by the song's [drain time](/wiki/Gameplay/Drain_time),** excluding single-difficulty beatmapsets. Each difficulty must comply with its respective mode's difficulty-specific Ranking Criteria, the spread cannot skip any difficulty levels, and there cannot be any drastically large difficulty gaps between any two difficulties.
 - **A beatmapset's custom difficulty naming must follow a common theme or pattern related to the song or difficulty and must not be misrepresentative.** A difficulty name is misrepresentative if it implies a different difficulty level (e.g. naming an "Expert" difficulty as "Normal").
 - **A difficulty's name must not solely consist of one or more usernames.** Words that happen to be usernames are acceptable within difficulty names as long as they relate to the song.
-- **A beatmapset host cannot indicate possession in a difficulty's name.** (e.g. Beatmapset Host's Insane). Conflicts caused by beatmapping multiple songs with the same metadata and collaborative difficulties are the only exceptions. Guest difficulties, however, may indicate possession with its creators' username or nickname.
-- **A beatmapset host must have beatmapped equal or more difficulties than any guest difficulty beatmap creator.** This is to provide credit where credit is due. Collab difficulties are only considered partial difficulties, and [drain time](/wiki/Gameplay/Drain_time) will be used to determine the amount of contribution when a guest has beatmapped significantly more than the host.
-- **A beatmapset host and guest beatmap creators can make changes to their respective difficulties as they wish.** If there is a disagreement between both, the beatmapset host must delete the guest contribution upon request. If a guest beatmap creator cannot be contacted for a month, they will be assumed to agree with any changes.
+- **A [beatmapset host](/wiki/Beatmaps/Beatmapsets/Beatmapset_host) cannot indicate possession in a difficulty's name.** (e.g. Beatmapset Host's Insane). Conflicts caused by beatmapping multiple songs with the same metadata and [collaborative difficulties](/wiki/Beatmaps/Beatmap_collaborations) are the only exceptions. [Guest difficulties](/wiki/Beatmaps/Beatmapsets/Guest_difficulty), however, may indicate possession with its creators' username or nickname.
+- **A [beatmapset host](/wiki/Beatmaps/Beatmapsets/Beatmapset_host) must have beatmapped equal or more difficulties than any [guest difficulty](/wiki/Beatmaps/Beatmapsets/Guest_difficulty) creator.** This is to provide credit where credit is due. [Collaborative difficulties](/wiki/Beatmaps/Beatmap_collaborations) are only considered partial difficulties, and [drain time](/wiki/Gameplay/Drain_time) will be used to determine the amount of contribution when a guest has beatmapped significantly more than the host.
+- **A [beatmapset host](/wiki/Beatmaps/Beatmapsets/Beatmapset_host) and [guest difficulty](/wiki/Beatmaps/Beatmapsets/Guest_difficulty) creators can make changes to their respective difficulties as they wish.** If there is a disagreement between both, the beatmapset host must delete the guest contribution upon request. If a guest difficulty creator cannot be contacted for a month, they will be assumed to agree with any changes.
 
 ### Guidelines
 
 - **The highest difficulty of a beatmapset should correspond to the general feel of the song.** Easy/Normal difficulties can be used as a lone difficulty of a beatmapset if their rhythms are not oversimplified. A Hard difficulty or beyond should be included otherwise.
-- **Avoid incomprehensible username combinations to indicate possession of a collaborative guest difficulty.** If it's unclear whose usernames are combined, simplification is recommended.
-- **Avoid difficulty names with descriptive elements not clearly related to a guest difficulty creator or a level of difficulty.** (e.g. Beatmap Creator's Tragic Love Extra)
-- **Usernames indicating possession of a guest difficulty should be consistent between multiple beatmapsets.** Varying nicknames for one user makes interpreting who created a difficulty ambiguous or misleading.
+- **Avoid incomprehensible username combinations to indicate possession of a [collaborative difficulty](/wiki/Beatmaps/Beatmap_collaborations).** If it's unclear whose usernames are combined, simplification is recommended.
+- **Avoid difficulty names with descriptive elements not clearly related to a [guest difficulty](/wiki/Beatmaps/Beatmapsets/Guest_difficulty) creator or a level of difficulty.** (e.g. Beatmap Creator's Tragic Love Extra)
+- **Usernames indicating possession of a [guest difficulty](/wiki/Beatmaps/Beatmapsets/Guest_difficulty) should be consistent between multiple beatmapsets.** Varying nicknames for one user makes interpreting who created a difficulty ambiguous or misleading.
 - **Avoid non-alphanumeric unicode characters in a difficulty's name.** These can cause errors with the beatmap submission system and problems for certain users when appearing in chat.
 
 ## Metadata
@@ -88,7 +81,7 @@ For the record, these include the recent changes made [from the discussion forum
 #### Technical
 
 - **Metadata must be consistent across all difficulties of a beatmapset.**
-- **Guest mappers, storyboarders, skinners and hitsounders must be added to the tags of a beatmapset.** This is to give credit where credit is due and help others identify the main contributors of any given beatmapset. Usernames containing single characters separated by whitespaces must have the whitespaces replaced with underscores.
+- **[Guest difficulty](/wiki/Beatmaps/Beatmapsets/Guest_difficulty) creators, storyboarders, skinners and hitsounders must be added to the tags of a beatmapset.** This is to give credit where credit is due and help others identify the main contributors of any given beatmapset. Usernames containing single characters separated by whitespaces must have the whitespaces replaced with underscores.
 - **Official Sources must be used as references for metadata unless none are available.** In that case use what is most common and recognizable.
 - **Do not modify the metadata an artist provides on official sources unless said modification is done in order to comply with formatting and standardisation rules on this Ranking Criteria.**
 - **The artists of a song must be traceable to existing people.** If there is no existing person recorded to be the artist, then `Unknown Artist` is to be used. Fictional characters or programs like Vocaloids cannot be used as the sole artist of any given song.
