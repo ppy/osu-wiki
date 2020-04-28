@@ -35,7 +35,6 @@ For the record, these include the recent changes made [from the discussion forum
 
 ### Glossary
 
-- **Play time**: The time during which the health-bar drains combined with break periods.
 - **Reasonable spread:** A beatmapset that does not skip any difficulty levels as dictated by difficulty-specific rules and guidelines, and does not have any drastically large differences between difficulties. This includes beatmapsets that feature only a single difficulty.
 - **Game mode:** osu!, osu!taiko, osu!catch, and each of osu!mania's key counts are considered individual game modes.
 - **Beatmapset host:** A user who uploads and manages a beatmapset.
@@ -46,12 +45,12 @@ For the record, these include the recent changes made [from the discussion forum
 
 - **All game modes within a beatmapset must form a reasonable spread starting from the lowest difficulty level required for the song's length.** Each spread must comply with its respective mode's difficulty-specific Ranking Criteria.
 - **Every difficulty of a beatmapset must have a minimum [drain time](/wiki/Gameplay/Drain_time) of 30 seconds.**
-- **If the drain time of each difficulty is...**
+- **If the [drain time](/wiki/Gameplay/Drain_time) of each difficulty is...**
   - **...lower than 3:30, the lowest difficulty of each included game mode cannot be harder than a Normal.**
   - **...between 3:30 and 4:15, the lowest difficulty of each included game mode cannot be harder than a Hard.**
   - **...between 4:15 and 5:00, the lowest difficulty of each included game mode cannot be harder than an Insane.**
   - **...anything higher, the beatmapset is exempt from reasonable spread rules.**
-  - **Difficulties lower than the highest difficulty can use their play time as a metric instead of drain time.** This does not apply to difficulties with less than 30 seconds of drain time. Judgement regarding the suitability of gameplay elements used for any lowest difficulty Hard and Insane difficulties is up to the Beatmap Nominators and Nomination Assessment Team members for the corresponding game modes.
+  - **Difficulties below the highest difficulty can combine break times with drain time to meet the above thresholds.** This does not apply to difficulties with less than 30 seconds of drain time. Judgement regarding the suitability of gameplay elements used for any lowest difficulty Hard and Insane difficulties is up to the Beatmap Nominators and Nomination Assessment Team members for the corresponding game modes.
 - **Difficulty names in a set must be clearly progressive and accurately indicating of their respective difficulties, excluding:**
   - The highest difficulty.
   - The highest difficulties with a similar level of difficulty, applying only to Insane and Extra difficulties (e.g. the Insane difficulties of a ENHIIII set or the Extra difficulties of a ENHIIXXX set).
