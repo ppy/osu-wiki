@@ -16,6 +16,6 @@ An uninherited timing point, or "red line", is the base for a section's BPM and 
 
 ## Inherited timing point
 
-An inherited timing point, or "green line", inherits BPM and meter settings from the previous red line. These are used to adjust [slider velocity](/wiki/Hit_Objects#slider-speed) and [hitsound](/wiki/hit_sound) volume settings part-way through a section.
+An inherited timing point, or "green line", inherits BPM and meter settings from the previous red line. These are used to adjust [slider velocity](/wiki/Hit_Objects#slider-speed) and [hitsound](/wiki/Beatmapping/Hitsound) volume settings part-way through a section.
 
 An inherited timing point cannot be placed before a red line because it would not inherit any settings.
