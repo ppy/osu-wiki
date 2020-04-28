@@ -170,7 +170,7 @@ This category contains explicit allowance statements of concepts and rules that 
 
 ### Guidelines
 
-- **Beatmaps with Variable-BPM timing should be timed as accurately as possible without negatively affecting gameplay.** This means that your BPM and offset are mostly synchronized with the song, but can include minor changes to aid intuitive gameplay when necessary. Complex timing during breaks or spinners is optional.
+- **Beatmaps with constantly changing BPM should be timed as accurately as possible without negatively affecting gameplay.** This means that your BPM and offsets are mostly synchronized with the song, but can include minor changes to aid intuitive gameplay when necessary. Complex timing during breaks or spinners is optional.
 
 ## Audio
 
