@@ -18,7 +18,6 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 
 ### Gameplay
 
-- **Time-distance equality:** Spacing between hit objects is proportional to the duration of time between them. Also known as using a constant distance spacing.
 - **Hit object/Note density:** The average timeline gaps between hit objects expressed in fractions of a beat (such as 1/1 for one beat, 1/2 for half a beat).
 - **Keysounding:** Hitsounding using samples extremely similar or directly from the song in their respective places. This method of hitsounding usually provides low feedback to the player.
 - **Difficulty spike:** A sudden increase in difficulty that misrepresents the song's intensity relative to the rest of the beatmap.
@@ -76,7 +75,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Guidelines
 
-- **Time-distance equality should be used.** Variations are acceptable if they are clearly different from spacing used for different rhythms. When hit objects are more than 2 beats apart and have relatively high spacing on the playfield, time-distance equality does not need to be as precise.
+- **[Time-distance equality](/wiki/Mapping_Techniques/Time_distance_equality) should be used.** Variations are acceptable if they are clearly different from spacing used for different rhythms. When hit objects are more than 2 beats apart and have relatively high spacing on the playfield, time-distance equality does not need to be as precise.
 - **When [distance snap](/wiki/Beatmap_Editor/Distance_Snap) is used, try to keep it between 0.8x and 1.2x.** Values too much higher or lower may make the difference between [slider velocity](/wiki/Hit_Objects/Slider_Velocity) and spacing counterintuitive. A higher distance snap can be used to avoid [overlapping](/wiki/Mapping_Techniques/Overlap), but the slider velocity should be increased if you find yourself doing this often.
 - **Note density should consist of mostly 1/1, 2/1, or slower rhythms.**
 - **Avoid using sliders shorter than 1/2 of a beat.** These are too fast to be comprehended by new players.
@@ -105,7 +104,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Guidelines
 
-- **Time-distance equality should be used.** Variations are acceptable if they are clearly different from spacing used for different rhythms. When hit objects are more than 1 beat apart and have relatively high spacing on the playfield, time-distance equality does not need to be as precise.
+- **[Time-distance equality](/wiki/Mapping_Techniques/Time_distance_equality) should be used.** Variations are acceptable if they are clearly different from spacing used for different rhythms. When hit objects are more than 1 beat apart and have relatively high spacing on the playfield, time-distance equality does not need to be as precise.
 - **When [distance snap](/wiki/Beatmap_Editor/Distance_Snap) is used, try to keep it between 0.8x and 1.3x.** Values too much higher or lower may make the difference between [slider velocity](/wiki/Hit_Objects/Slider_Velocity) and spacing counterintuitive. A higher distance snap can be used to avoid [overlapping](/wiki/Mapping_Techniques/Overlap), but the slider velocity should be increased if you find yourself doing this often.
 - **Note density should consist of mostly 1/1, occasional 1/2, or slower rhythms.**
 - **Avoid [overlapping](/wiki/Mapping_Techniques/Overlap) circles, slider heads, and slider tails.** These can be confusing for new players. 1/2 overlaps due to [distance snapping](/wiki/Beatmap_Editor/Distance_Snap) are an exception.
