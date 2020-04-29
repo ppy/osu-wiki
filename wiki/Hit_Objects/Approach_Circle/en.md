@@ -1,7 +1,6 @@
 ---
 tags:
-- circle
-- approach circle
+- hit objects
 ---
 
 # Approach Circle

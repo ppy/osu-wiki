@@ -1,7 +1,6 @@
 ---
 tags:
-- hit object
-- circle
+- hit objects
 ---
 
 # Hit circle

@@ -1,11 +1,9 @@
 ---
 tags:
-- red anchor
-- white anchor
+- red anchors
+- white anchors
 - anchor points
-- slider anchor
-- control point
-- controlpoint
+- control points
 ---
 
 # Slider anchor

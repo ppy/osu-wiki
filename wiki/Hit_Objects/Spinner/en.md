@@ -1,8 +1,6 @@
 ---
 tags:
-- hit object
-- spun
-- spinners
+- hit objects
 ---
 
 # Spinner
