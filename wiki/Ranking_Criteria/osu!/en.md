@@ -18,7 +18,6 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 
 ### Gameplay
 
-- **Spinner recovery time:** The time between the end of a spinner and the following hit object.
 - **Time-distance equality:** Spacing between hit objects is proportional to the duration of time between them. Also known as using a constant distance spacing.
 - **Hit object/Note density:** The average timeline gaps between hit objects expressed in fractions of a beat (such as 1/1 for one beat, 1/2 for half a beat).
 - **Keysounding:** Hitsounding using samples extremely similar or directly from the song in their respective places. This method of hitsounding usually provides low feedback to the player.
@@ -86,7 +85,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Avoid slider-only sections.** Aiming and following a lot of sliders in a row can be tiring for new players. In such cases, circles and rest moments without hit objects to click or follow should be used.
 - **Frequently manipulating [slider velocity](/wiki/Hit_Objects/Slider_Velocity) is discouraged.** Slider velocity should only be changed for sections of music with different pacings and should not be drastically variable.
 - **Use straightforward and easily understandable slider shapes.** New players may not understand how to follow more complex shapes.
-- **Spinner recovery time should be at least 4 beats.** This is to ensure adequate time to click a hit object following a spinner.
+- **There should be at least 4 beats between a spinner's end and the next object.** This is to ensure adequate time to click a hit object following a spinner.
 - **Avoid spinners less than 4 beats.** Players need time to recognize that they have to begin spinning.
 - **Avoid fully covering slider reverse arrows with hit objects within 4 beats of the reverse arrow being reached.** This gives players enough time to recognize the reverse arrow.
 - **Avoid fully [overlapping](/wiki/Mapping_Techniques/Overlap) slider bodies within 4 beats of each other.** Doing so can cause sliders to be misread as a circle due to obscuring the slider body.
@@ -116,7 +115,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **[Stacks](/wiki/Mapping_Techniques/Stack) are acceptable, but avoid switching between 1/1 and 1/2 stacks repeatedly.** This may cause reading issues for new players, since two different rhythms are visually the same.
 - **Frequently manipulating [slider velocity](/wiki/Hit_Objects/Slider_Velocity) is discouraged.** Slider velocity should only be changed for sections of music with different pacings and should not be drastically variable.
 - **Use straightforward and easily understandable slider shapes.** New players may not understand how to follow more complex shapes.
-- **Spinner recovery time should be at least 2 beats.** This is to ensure adequate time to click a hit object following a spinner.
+- **There should be at least 2 beats between a spinner's end and the next object.** This is to ensure adequate time to click a hit object following a spinner.
 - **Avoid spinners less than 3 beats.** Players need time to recognize that they have to begin spinning.
 - **Avoid fully covering slider reverse arrows with hit objects within 3 beats of the reverse arrow being reached.** This gives players enough time to recognize the reverse arrow.
 - **Avoid fully [overlapping](/wiki/Mapping_Techniques/Overlap) slider bodies within 3 beats of each other.** Doing so can cause sliders to be misread as a circle due to obscuring the slider body.
@@ -144,7 +143,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 #### Guidelines
 
-- **Spinner recovery time should be at least 1 beat.** This is to ensure adequate time to click a hit object following a spinner.
+- **There should be at least 1 beat between a spinner's end and the next object.** This is to ensure adequate time to click a hit object following a spinner.
 - **Note density should consist of mostly 1/2, occasional 1/4, or slower rhythms.**
 - **Avoid [streams](/wiki/Beatmaps/Patterns/Stream) made of more than 5 notes.** Short reversing sliders can be used in exchange for these when the song supports it.
 - **Avoid visually similar spacing for different rhythms.** Spacing variation through [jumps](/wiki/Beatmaps/Patterns/Jump) on points of emphasis are encouraged, but only if these jumps are recognizably different from other rhythm gaps.
