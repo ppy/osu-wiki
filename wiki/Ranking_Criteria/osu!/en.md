@@ -85,8 +85,8 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Difficulty setting guidelines
 
-- Approach Rate should be 5 or less.
-- Overall Difficulty / HP Drain Rate should be between 1 and 3.
+- [Approach rate](/wiki/Beatmapping/Approach_rate) should be 5 or less.
+- [Overall difficulty](/wiki/Beatmapping/Overall_difficulty) / [HP drain rate](/wiki/Beatmapping/HP_drain_rate) should be between 1 and 3.
 
 ### ![](/wiki/shared/diff/normal-s.png) Normal
 
@@ -123,8 +123,8 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 #### Difficulty setting guidelines
 
-- Approach Rate should be between 4 and 6.
-- Overall Difficulty / HP Drain Rate should be between 3 and 5.
+- [Approach rate](/wiki/Beatmapping/Approach_rate) should be between 4 and 6.
+- [Overall difficulty](/wiki/Beatmapping/Overall_difficulty) / [HP drain rate](/wiki/Beatmapping/HP_drain_rate) should be between 3 and 5.
 
 ### ![](/wiki/shared/diff/hard-s.png) Hard
 
@@ -145,9 +145,9 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 #### Difficulty setting guidelines
 
-- Approach Rate should be between 6 and 8.
-- Overall Difficulty should be between 5 and 7.
-- HP Drain Rate should be between 4 and 6.
+- [Approach rate](/wiki/Beatmapping/Approach_rate) should be between 6 and 8.
+- [Overall difficulty](/wiki/Beatmapping/Overall_difficulty) should be between 5 and 7.
+- [HP drain rate](/wiki/Beatmapping/HP_drain_rate) should be between 4 and 6.
 
 ### ![](/wiki/shared/diff/insane-s.png) Insane
 
@@ -161,9 +161,9 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 #### Difficulty setting guidelines
 
-- Approach Rate should be between 7 and 9.3.
-- Overall Difficulty should be between 7 and 9.
-- HP Drain Rate should be between 5 and 8.
+- [Approach rate](/wiki/Beatmapping/Approach_rate) should be between 7 and 9.3.
+- [Overall difficulty](/wiki/Beatmapping/Overall_difficulty) should be between 7 and 9.
+- [HP drain rate](/wiki/Beatmapping/HP_drain_rate) should be between 5 and 8.
 
 ### ![](/wiki/shared/diff/expert-s.png) Expert
 
@@ -173,5 +173,5 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 #### Difficulty setting guidelines
 
-- Approach Rate / Overall Difficulty should be 8 or higher.
-- HP Drain Rate should be 5 or higher.
+- [Approach rate](/wiki/Beatmapping/Approach_rate) / [Overall difficulty](/wiki/Beatmapping/Overall_difficulty) should be 8 or higher.
+- [HP drain rate](/wiki/Beatmapping/HP_drain_rate) should be 5 or higher.
