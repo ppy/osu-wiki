@@ -18,7 +18,6 @@ Rule proposals as well as suggestions are discussed in the [Ranking Criteria Sub
 
 ### Gameplay
 
-- **Hit object/Note density:** The average timeline gaps between hit objects expressed in fractions of a beat (such as 1/1 for one beat, 1/2 for half a beat).
 - **Keysounding:** Hitsounding using samples extremely similar or directly from the song in their respective places. This method of hitsounding usually provides low feedback to the player.
 - **Difficulty spike:** A sudden increase in difficulty that misrepresents the song's intensity relative to the rest of the beatmap.
 
