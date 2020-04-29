@@ -27,4 +27,8 @@ A passive hitsound does not correlate to a player's clicking. These are usually 
 
 Hitsounds can be added through storyboarding, but because they don't correlate to a user's clicking, they are also classified as passive.
 
+## Keysound
+
+A keysound is a hitsound sample that is extremely similar or directly taken from the song and is used to replicatea song's pitched notes. This method of hitsounding usually provides low feedback to the player..
+
 <!-- this is a stub -->
