@@ -56,8 +56,8 @@ Check out [this classic set](https://osu.ppy.sh/beatmapsets/762836) hosted by [H
 
 As usual, all of the above plus so much more is available over at [**PUP**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/79) all pre-timed for your convenience and just awaiting your personal touch of mapping pizazz.
 
-We sure were hounded with guesses this week, namely from @waferosu, @REFORMEDawnsday, @radarrrrrrr, @fyreosu, @VenoxiaOsu, @joe_boolin, @Apo11o_osu_osu, @Darkpitqwc, @domanbruh, @melwoine1 and @haruzawaa, who all managed to guess the hint correctly. Congratulations!
+We sure were hounded with guesses this week, namely from @waferosu, @REFORMEDawnsday, @radarrrrrrr, @fyreosu, @VenoxiaOsu, @joe_boolin, @Apo11o_osu_osu, @Darkpitqwc, @domanbruh, @melwoine1 and @haruzawaa, who all managed to hit the proverbial nail on the head. Congratulations!
 
-The next few weeks worth of releases are slated to be a wicked journey across tons of different sounds, so make sure to check the [@osugame Twitter](https://twitter.com/osugame) out on the regular for more hints and other assorted osu! news. You definitely don't want to miss out!
+The next few weeks worth of releases are slated to be a wicked journey across tons of different styles and genres, so make sure to check the [@osugame Twitter](https://twitter.com/osugame) out on the regular for more hints and other assorted osu! news. You definitely don't want to miss out!
 
 —Ephemeral
