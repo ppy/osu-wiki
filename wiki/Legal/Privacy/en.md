@@ -104,6 +104,10 @@ We also regularly purge data on an ongoing and automatic basis as to only keep a
 
 osu! services are not designed for children under the age of 13. If we discover that a person under the age of 13 has submitted personal information to us without parental permission, we will endeavour to delete the information from our systems.
 
+## On Account Deletion
+
+Upon successful deletion of an osu! account, we retain enough metadata in the [legitimate interest of enforcing our one-account-only rule](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/legitimate-interests/when-can-we-rely-on-legitimate-interests/) in order to ensure that you cannot create any new accounts once yours has been deleted. This information is anonymous, cannot be used to identify the account owner outside of osu!, and unusable outside of the scope of enforcing our rules.
+
 ## Data Controller
 
 Hi, I am Dean (commonly known as peppy) and I am your data controller. If you have any privacy concerns or requests to exercise your legal rights, don't hesitate to contact me directly at the address listed below.
