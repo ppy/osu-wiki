@@ -66,6 +66,8 @@ First, tap on it at the right moment, however, it does not end there. A ball wil
 
 Sometimes, as seen in the screenshot above, the ball may reverse its direction and the player must follow the ball back to the start of the path or vice versa. The visual cue is a reverse arrow at the ending/starting circle of the path.
 
+The next hit circle or slider to be tapped/dragged is slightly brighter than the rest on the playfield.
+
 #### Spinners
 
 ![Spinner](/wiki/shared/osu_spinner.jpg "osu! spinners")
