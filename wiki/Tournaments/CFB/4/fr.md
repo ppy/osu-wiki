@@ -31,6 +31,8 @@ La **Catch French Beginner 4** (***CFB4***) ést un tournoi 1v1 français début
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | 2 mois de supporter |
 | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | 1 mois de supporter |
 
+![](img/badge.png "Badge du gagnant du CFB4")
+
 Les généreux dons de ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) et ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990) ont aidés à financer certains prix.
 
 ## Organisation

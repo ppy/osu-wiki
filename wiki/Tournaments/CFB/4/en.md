@@ -31,6 +31,8 @@ The **Catch French Beginner 4** (***CFB4***) is a beginner French double-elimina
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
+![](img/badge.png "CFB4 winner badge")
+
 Generous donations from ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) and ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990) helped fund some of the prizes.
 
 ## Organisation
