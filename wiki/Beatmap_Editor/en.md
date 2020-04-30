@@ -1,44 +1,44 @@
-# Beatmap editor
+# Harita Düzenleyici
 
 <!-- TODO: needs to be revisited when the articles under Beatmap editor no longer match what's written here -->
 
 ![A screenshot of the editor's compose tab showing pishifat's Donor Song beatmap](img/compose.jpg)
 
-*For beatmap editor shortcuts, see: [Shortcut key reference § Beatmap editor](/wiki/Shortcut_key_reference#beatmap-editor)*
+*Harita düzenleyici kısayolları için, bakınız: [Kısayol referansı & Harita düzenleyici](/wiki/Shortcut_key_reference#beatmap-editor)*
 
-The **beatmap editor** is osu!'s in-game graphical interface for creating [beatmaps](/wiki/Beatmaps). [Beatmapping](/wiki/Beatmapping) is the act of creating beatmaps for osu!.
+**Harita düzenleyici** osu!'nun oyun içi [harita](/wiki/Beatmaps) yapma bölümüdür. [Haritalandırma](/wiki/Beatmapping) osu! için harita yapma eylemi
 
-The beatmap editor is separated into four main sections which can be seen in the top-left corner of the editor:
+Harita düzenleyici 4 ana kısma ayrılmıştır (sol üstte görebilirsiniz):
 
-- Compose
-- Design
-- Timing
-- Song setup
+- Oluştur
+- Dizayn
+- Zamanlama
+- Müzik ayarları
 
-## Compose
+## Oluştur
 
-[Compose](/wiki/Beatmap_Editor/Compose) is where all [hit objects](/wiki/Hit_Objects) and other gameplay-related elements are created. Most mappers spend more time in this tab than all of the others because of this.
+[Oluştur](/wiki/Beatmap_Editor/Compose) sekmesi tüm [objelerin](/wiki/Hit_Objects) ve oynayış ile alakalı şeylerin oluşturulduğu yerdir. Çoğu haritacı çoğu zamanını bu sekmede geçirmesinin nedeni budur.
 
-## Design
+## Dizayn
 
-[Design](/wiki/Beatmap_Editor/Design) offers a way to make [storyboards](/wiki/Storyboards), the visual effects that accompany beatmaps. Because storyboards often have complex effects warranting usage of many storyboard commands, mappers also use [storyboard scripting](/wiki/Storyboard_Scripting) directly without entering the design tab.
+[Dizayn](/wiki/Beatmap_Editor/Design) sekmesi [storyboard](/wiki/Storyboards) yapmayı sağlar. Diğer bir deyişle haritanın görsel efekt kısmı. Storyboardlar genellikle karmaşık efektler içerdiğinden dolayı ve çok fazla storyboard komutu kullanımı gerektirdiğinden, haritacılar [storyboard kodlama](/wiki/Storyboard_Scripting) da kullanmaktadırlar. Dizayn sekmesine hiç girmeden!
 
-## Timing
+## Zamanlama
 
-[Timing](/wiki/Beatmap_Editor/Timing) manages timing sections of a song and controls a beatmap's hitsounds. This is essential since a beatmap needs correct timing and appropriate feedback to match the gameplay experience to the rhythm of a song.
+[Zamanlama](/wiki/Beatmap_Editor/Timing) haritanın vuruş seslerini ve zamanlamasını kontrol eder. Bu gerekli bir şeydir çünkü bir harita doğru zamanlama gerektirir ki oynayışa ve şarkının ritmine ayak uydursun.
 
-## Song setup
+## Müzik ayarları
 
-[Song setup](/wiki/Beatmap_Editor/Song_Setup) fills in a beatmap's [metadata](/wiki/Ranking_Criteria#metadata) and other things universal to a [beatmapset](/wiki/Glossary#beatmapset). This includes the title of a song, the artist, the difficulty name, combo colours, etc.
+[Müzik ayarları](/wiki/Beatmap_Editor/Song_Setup) haritanın [meta verisini](/wiki/Ranking_Criteria#metadata) doldurur ve [harita setlerine](/wiki/Glossary#beatmapset) bağdaştırır. Bu şarkının başlığı, sanatçısı, zorluğu, seviye adı, kombo renkleri vs. içerir.
 
-## Other
+## Diğer
 
-Other components of the beatmap editor include:
+Harita düzenleyicinin diğer kısımları:
 
-- [AiMod](AiMod): An automated system that reports problems in a beatmap
-- [Beat snap divisor](Beat_Snap_Divisor): Determines how objects snap to the timeline
-- [Distance snap](Distance_Snap): The multiplier that affects how close or far hit objects are placed from each other
-- [Kiai time](Kiai_Time): Special timing sections that help emphasize a part of a beatmap
-- [Menu](Menu): Helps you navigate the beatmap editor
-- [SB load](SB_Load): A number used to tell how demanding a storyboard is
-- [Timelines](Timelines): Displays placed hit objects, breaks, and more
+- [AiMod](AiMod): Bir haritadaki hataları otomatik olarak bildiren bir sistem
+- [Beat snap divisor](Beat_Snap_Divisor): Zaman çizelgesine vuruşların nasıl yerleştirileceğine karar verir
+- [Distance snap](Distance_Snap): Objelerin ne kadar yakın ve ya uzak olduğunu ayarlayan çarpan
+- [Kiai time](Kiai_Time): Haritanın bir kısmını vurgulamak için kulanılan özel zamanlama kısmı
+- [Menu](Menu): Düzenleyicide gezinmenize yardımcı olur
+- [SB load](SB_Load): Storyboard'ın ne kadar kaynak gerektirdiğini gösterir
+- [Timelines](Timelines): Yerleştirilmiş objeleri, molaları ve dahasını gösterir
