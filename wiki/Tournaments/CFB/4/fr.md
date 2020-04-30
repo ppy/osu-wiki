@@ -31,7 +31,7 @@ La **Catch French Beginner 4** (***CFB4***) ést un tournoi 1v1 français début
 | ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | 2 mois de supporter |
 | ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | 1 mois de supporter |
 
-Les généreux dons de ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) et ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990) ont permis de financer certains des prix.
+Les généreux dons de ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) et ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990) ont aidés à financer certains prix.
 
 ## Organisation
 
@@ -133,8 +133,8 @@ La Catch French Beginner 4 ést gérée par différents membres de la communaut�
 | #15 | ![][flag_FR] [Kammthaar](https://osu.ppy.sh/users/8802523) | 14.4 |
 | #16 | ![][flag_FR] [sullymaster](https://osu.ppy.sh/users/6765259) | 16 |
 
-- Les résultats plus détaillés des qualificatifs sont accessibles via la fiche statistique dans la [section dla posites liens](#liens).
-- Le classement moyen est déterminé par `la position obtenue sur Σ en jouant le mappage des qualifications / le nombre de mappages des qualifications`.
+- Plus de détails concernant les résultats des qualifications sont accessibles dans la [section des liens](#liens) via la feuille des statistiques.
+- Le rang moyen est déterminé par : `Somme des positions du joueur sur chaque map divisée par le nombre de maps composant le mappool des qualifications`.
 
 ## Ruleset
 
