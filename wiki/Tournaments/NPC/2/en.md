@@ -7,6 +7,8 @@ tags:
 
 # Non-Professional Cup 2: Summer 2020
 
+![NPC2 Logo](images/banner-qmv2.png)
+
 The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 osu!Standard double-elmination tournament hosted by ![][flag_US] [Chugga444](https://osu.ppy.sh/users/12754827). This is the second installment of the Non-Professional Cup.
 
 ## Tournament Schedule
@@ -28,9 +30,12 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 
 | Placing | Prize |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Pending Profile Badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | |
+
+#### Pending Badge
+![](images/smallbadge.png "Pending Profile Badge")
 
 ## Organisation
 | Position | Member(s) |
