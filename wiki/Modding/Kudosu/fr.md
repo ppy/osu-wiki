@@ -1,6 +1,6 @@
 # Kudosu
 
-**Kudosu** est un système de récompense pour le [modding](/wiki/Modding). Il récompense l'activité dans les [discussions de beatmap](/wiki/Beatmap_Discussion) qui sont concluantes. Les points accumulés sont visibles sur le profil du détenteur de ces kudosu.
+Les **Kudosus** font partis d'un système de récompense en [modding](/wiki/Modding). Ce système permet de récompenser un joueur qui a apporté son aide sur une beatmap d'un autre joueur depuis les [discussions de beatmap](/wiki/Beatmap_Discussion). Les kudosus restants ainsi que le total des kudosus obtenus sont visible a partir du profil osu! d'un joueur.
 
 Dans le forum de modding, les kudosu sont échangeables contre des [étoiles de priorité](/wiki/Glossary#star-priority).
 
