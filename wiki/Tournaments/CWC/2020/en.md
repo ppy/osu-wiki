@@ -85,7 +85,7 @@ The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) an
 | ![][flag_TW] | **Taiwan** | **[Beepu](https://osu.ppy.sh/users/4958376)**, [EternityMoon](https://osu.ppy.sh/users/1957752), [Megpoid](https://osu.ppy.sh/users/158240), [Nikaido Shinku](https://osu.ppy.sh/users/2455926), [Sanami](https://osu.ppy.sh/users/1629471), [My Angel Ayachi](https://osu.ppy.sh/users/2145160) |
 | ![][flag_GB] | **United Kingdom** | **[Withered Lotus](https://osu.ppy.sh/users/3546931)**, [Litlas](https://osu.ppy.sh/users/5126518), [JBHyperion](https://osu.ppy.sh/users/4879508), [Sorcerer](https://osu.ppy.sh/users/1913190), [Baron](https://osu.ppy.sh/users/10286499), [Matt\_H](https://osu.ppy.sh/users/4067115) |
 | ![][flag_US] | **United States** | **[rostld](https://osu.ppy.sh/users/4365562)**, [Secre](https://osu.ppy.sh/users/2306637), [diao](https://osu.ppy.sh/users/500696), [Dahcreeper](https://osu.ppy.sh/users/6926006), [Zak](https://osu.ppy.sh/users/1375955), [Lexii](https://osu.ppy.sh/users/7226149) |
-| ![][flag_VN] | **Vietnam** | **[Close](https://osu.ppy.sh/users/10278890)**, [NamSPro](https://osu.ppy.sh/users/11387006), [Huytimeclock](https://osu.ppy.sh/users/10920086), [-\[SLs\]-Horikita](https://osu.ppy.sh/users/8738261), [mothernature](https://osu.ppy.sh/users/6403418), [Marota](https://osu.ppy.sh/users/10278890) |
+| ![][flag_VN] | **Vietnam** | **[Close](https://osu.ppy.sh/users/4744615)**, [NamSPro](https://osu.ppy.sh/users/11387006), [Huytimeclock](https://osu.ppy.sh/users/10920086), [-\[SLs\]-Horikita](https://osu.ppy.sh/users/8738261), [mothernature](https://osu.ppy.sh/users/6403418), [Marota](https://osu.ppy.sh/users/10278890) |
 
 ## Ruleset
 
