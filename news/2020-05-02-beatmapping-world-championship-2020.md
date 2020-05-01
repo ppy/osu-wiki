@@ -14,7 +14,11 @@ Please read below for a summary of the contest format this time around:
 
 ## Team Format
 
-Teams will be formed based on each country as designated by osu!. Teams may consist of 3-7 members, with individual participants registering to be eligible to be selected based on their country displayed on their osu! profile. Participants may also apply to be chosen as the *Team Captain*, who will be responsible for selecting the other team members as well as being the primary contact with the contest staff. Participant applicants will vote for who they would like to be the Team Captain for their team, with the winner being selected as the Captain. Please note that Captain applicants will be vetted by the contest staff prior to voting, with the expectation that they have mapping/modding experience in some form.
+Teams will be formed based on each country as designated by osu!. Teams may consist of 3-7 members, with individual participants registering to be eligible to be selected based on their country displayed on their osu! profile. 
+
+Participants may also apply to be chosen as the *Team Captain*, who will be responsible for selecting the other team members as well as being the primary contact with the contest staff. Participant applicants will vote for who they would like to be the Team Captain for their team, with the winner being selected as the Captain. 
+
+Please note that Captain applicants will be vetted by the contest staff prior to voting, with the expectation that they have mapping/modding experience in some form.
 
 ## Contest Format
 
