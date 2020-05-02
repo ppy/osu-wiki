@@ -6,13 +6,18 @@ date: 2020-05-02 12:00:00 +0000
 
 Welcome to the second edition of the osu! Beatmapping World Championship! Check out the changes to the contest format as well as everything else to look forward to!
 
-![](wiki/shared/news/banners/bwc2020.jpg)
+![](/wiki/shared/news/banners/bwc2020.jpg)
 
-We're excited to announce the second osu! Beatmapping World Championship for osu!standard mode. As with the first edition, participants will be forming teams based on their country, but the contest format has some new additions to make things more exciting for both participants and audiences alike! Please read below for a summary of the contest format this time around:
+As with the first edition, participants will be forming teams based on their country, but the contest format has some new additions to make things more exciting for both participants and audiences alike! 
+Please read below for a summary of the contest format this time around:
 
 ## Team Format
 
-Teams will be formed based on each country as designated by osu!. Teams may consist of 3-7 members, with individual participants registering to be eligible to be selected based on their country displayed on their osu! profile. Participants may also apply to be chosen as the *Team Captain*, who will be responsible for selecting the other team members as well as being the primary contact with the contest staff. Participant applicants will vote for who they would like to be the Team Captain for their team, with the winner being selected as the Captain. Please note that Captain applicants will be vetted by the contest staff prior to voting, with the expectation that they have mapping/modding experience in some form.
+Teams will be formed based on each country as designated by osu!. Teams may consist of 3-7 members, with individual participants registering to be eligible to be selected based on their country displayed on their osu! profile. 
+
+Participants may also apply to be chosen as the *Team Captain*, who will be responsible for selecting the other team members as well as being the primary contact with the contest staff. Participant applicants will vote for who they would like to be the Team Captain for their team, with the winner being selected as the Captain. 
+
+Please note that Captain applicants will be vetted by the contest staff prior to voting, with the expectation that they have mapping/modding experience in some form.
 
 ## Contest Format
 
@@ -24,7 +29,11 @@ For the Qualifier Round, all eligible teams will participate. Each team will be 
 
 ### Clash Rounds
 
-The remainder of the contest will take place in a bracket style competition where teams will be paired against each other by the seeding via the Qualifier round. Each matchup between two teams will take place at the same time for each round, but each matchup will assess the teams directly paired against each other, with the winner between each match advancing to the next round. This will proceed with the losing teams being eliminated each round until there is an overall winner. The losing teams of the semifinal round will participate in the final round against each other to determine the third place team.
+The remainder of the contest will take place in a bracket style competition where teams will be paired against each other by the seeding via the Qualifier round. 
+
+Each matchup between two teams will take place at the same time for each round, but each matchup will assess the teams directly paired against each other, with the winner between each match advancing to the next round. This will proceed with the losing teams being eliminated each round until there is an overall winner. 
+
+The losing teams of the semifinal round will participate in the final round against each other to determine the third place team.
 
 #### Clash Round Format
 
