@@ -6,9 +6,9 @@ date: 2020-05-02 12:00:00 +0000
 
 Welcome to the second edition of the osu! Beatmapping World Championship! Check out the changes to the contest format as well as everything else to look forward to!
 
-![](wiki\shared\news\banners\bwc2020.jpg)
+![](wiki/shared/news/banners/bwc2020.jpg)
 
-We're excited to announce the second osu! Beatmapping World Championship. As with the first edition, participants will be forming teams based on their country, but the contest format has some new additions to make things more exciting for both participants and audiences alike! Please read below for a summary of the contest format this time around:
+We're excited to announce the second osu! Beatmapping World Championship for osu!standard mode. As with the first edition, participants will be forming teams based on their country, but the contest format has some new additions to make things more exciting for both participants and audiences alike! Please read below for a summary of the contest format this time around:
 
 ## Team Format
 
