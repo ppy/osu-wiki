@@ -1,7 +1,10 @@
-# osu!mania
+---
+no_native_review: true
+---
 
-**osu! mania Ranking Criteria** 는 osu!mania의 특정한 난이도를 만드는 데 적용되는 Rule(규칙)과 Guideline(가이드라인)입니다.
-osu!mania 특유의 난이도를 랭크시키기 위해서는, 나열된 정해진 기준에 따라야 합니다. 어떤 상황에서든지 **모든 Rule에는 따라야 하지만,** 예외적인 상황에서 Guideline은 무시될 수 있습니다. 이러한 예외적인 상황에서, 맵 제작자는 왜 Guideline을 무시하는것이 맵에 더 좋은 영향을 주는지 자세히 설명하여야 합니다.
+# osu!mania Ranking Criteria
+
+**osu!mania Ranking Criteria** 는 osu!mania의 특정한 난이도를 만드는 데 적용되는 Rule(규칙)과 Guideline(가이드라인)입니다. osu!mania 특유의 난이도를 랭크시키기 위해서는, 나열된 정해진 기준에 따라야 합니다. 어떤 상황에서든지 **모든 Rule에는 따라야 하지만,** 예외적인 상황에서 Guideline은 무시될 수 있습니다. 이러한 예외적인 상황에서, 맵 제작자는 왜 Guideline을 무시하는것이 맵에 더 좋은 영향을 주는지 자세히 설명하여야 합니다.
 
 Rule의 제안과 의견은 Ranking Criteria의 하위 포럼[Ranking Criteria Subforum](https://osu.ppy.sh/community/forums/87)에서 이뤄집니다. 논의와 해당 단체의 승인 과정을 거친 모든 Rule은 합의된 대로 여기에 열거되어 있습니다.
 
