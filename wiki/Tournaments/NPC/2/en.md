@@ -54,6 +54,21 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 - [NPC Discord Server](https://discord.gg/Zjb3jR9)
 - [Statistic Sheet](https://docs.google.com/spreadsheets/d/1j8fp6zK0Z9cQWv-xwqFfEmvsrHIzqRnru7kovr2P05o/edit?usp=sharing)
 
+## Participants 
+
+| Teams | Members |
+| :-- | :-- |
+| Stunter in the Toilet | ![][flag_DE] [ShizuruxKotarou](https://osu.ppy.sh/users/4612857), ![][flag_DE] [Stunter443](https://osu.ppy.sh/users/12855636), ![][flag_DE] [Towny](https://osu.ppy.sh/users/15673024), ![][flag_DE] [PzKpwf](https://osu.ppy.sh/users/12558046) |
+| LoG Horizon | ![][flag_BR] [kvictor](https://osu.ppy.sh/users/15922752), ![][flag_BR] [yJhowzz](https://osu.ppy.sh/users/11290673) |
+| Young Builders | ![][flag_RU] [Tara_kan](https://osu.ppy.sh/users/13217621), ![][flag_RU] [bu1ld](https://osu.ppy.sh/users/13808132) |
+| Click the Circles to the beat | ![][flag_US] [Lapisz](https://osu.ppy.sh/users/8295497), ![][flag_FR] [Jhayyy](https://osu.ppy.sh/users/15374745), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711/osu), ![][flag_GB] [bluezenither](https://osu.ppy.sh/users/11861720) |
+| SLAVA ZEMLYANAM | ![][flag_RU] [Maruyama-](https://osu.ppy.sh/users/11853175), ![][flag_RU] [Skeyn](https://osu.ppy.sh/users/7899956), ![][flag_RU] [f55dota2](https://osu.ppy.sh/users/14126397) |
+| Tapa no Cara | ![][flag_BR] [Mr Capuccino](https://osu.ppy.sh/users/16224264), ![][flag_BR] [Megadestr](https://osu.ppy.sh/users/15795443) |
+| The Smol Beans| ![][flag_GB] [SwayMC](https://osu.ppy.sh/users/9524544), ![][flag_SA] [blankin9](https://osu.ppy.sh/users/14361876), ![][flag_ID] [XolinN](https://osu.ppy.sh/users/14231342), ![][flag_US] [Smol -w-](https://osu.ppy.sh/users/11956413) |
+| vai Brazilian | ![][flag_BR] [ImHashRenai](https://osu.ppy.sh/users/15364219), ![][flag_BR] [Shinobu515](https://osu.ppy.sh/users/11516881) |
+| Chuchichäschtli | ![][flag_CH] [[Arikawa]](https://osu.ppy.sh/users/6454830), ![][flag_CH] [Kvn_hot_potato](https://osu.ppy.sh/users/6228912), ![][flag_CH] [[ Kuromei ]](https://osu.ppy.sh/users/6675144) |
+| Fashionably Late | ![][flag_US] [Dream10](https://osu.ppy.sh/users/11740481), ![][flag_US] [fourfifty](https://osu.ppy.sh/users/9653206), ![][flag_SV] [Mario564](https://osu.ppy.sh/users/14544646), ![][flag_US] [Zeity](https://osu.ppy.sh/users/11367167) |
+
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
@@ -71,6 +86,7 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_IN]: /wiki/shared/flag/IN.git "India"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
@@ -80,8 +96,10 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SA]: /wiki/shared/flag/SA.git "Saudi Arabia"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_SV]: /wiki/shared/flag/SV.git "El salvador"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
