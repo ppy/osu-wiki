@@ -133,7 +133,7 @@ The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) an
 | Japan | ![][flag_JP] | ![][flag_SG] | Singapore | **11:00 UTC** | 20:00 UTC+09 | 19:00 UTC+08 |
 | Germany | ![][flag_DE] | ![][flag_TW] | Taiwan | **12:00 UTC** | 14:00 UTC+02 | 20:00 UTC+08 |
 | Indonesia | ![][flag_ID] | ![][flag_SG] | Singapore | **12:00 UTC** | 19:00 UTC+07 | 20:00 UTC+08 |
-| Hong Kong | ![][flag_HK] | ![][flag_FI] | Finland | **13:00 UTC** | 21:00 UTC+08 | 15:00 UTC+02 |
+| Hong Kong | ![][flag_HK] | ![][flag_FI] | Finland | **12:00 UTC** | 20:00 UTC+08 | 14:00 UTC+02 |
 | Finland | ![][flag_FI] | ![][flag_MY] | Malaysia | **13:00 UTC** | 15:00 UTC+02 | 21:00 UTC+08 |
 | France | ![][flag_FR] | ![][flag_VN] | Vietnam | **13:00 UTC** | 15:00 UTC+02 | 20:00 UTC+07 |
 | Russian Federation | ![][flag_RU] | ![][flag_GB] | United Kingdom | **13:00 UTC** | 16:00 UTC+03 | 14:00 UTC+01 |
