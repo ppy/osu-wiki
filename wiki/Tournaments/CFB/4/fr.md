@@ -116,7 +116,7 @@ La Catch French Beginner 4 ést gérée par différents membres de la communaut�
 
 ### Qualifications
 
-| Seed | Joueur | Rang Moyen |
+| Seed | Joueur | Rang moyen |
 | --: | :-- | --: |
 | #1 | ![][flag_CA] [Remyria](https://osu.ppy.sh/users/1699875) | 2.2 |
 | #2 | ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519) | 4.6 |
@@ -136,7 +136,7 @@ La Catch French Beginner 4 ést gérée par différents membres de la communaut�
 | #16 | ![][flag_FR] [sullymaster](https://osu.ppy.sh/users/6765259) | 16 |
 
 - Plus de détails concernant les résultats des qualifications sont accessibles dans la [section des liens](#liens) via la feuille des statistiques.
-- Le rang moyen est déterminé par : `Somme des positions du joueur sur chaque map divisée par le nombre de maps composant le mappool des qualifications`.
+- Le rang moyen est déterminé par : somme des positions du joueur sur chaque map divisée par le nombre de maps composant le mappool des qualifications.
 
 ## Ruleset
 

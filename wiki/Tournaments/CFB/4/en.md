@@ -116,7 +116,7 @@ The Catch French Beginner 4 is run by various community members.
 
 ### Qualifiers
 
-| Seed | Player | Average Rank |
+| Seed | Player | Average rank |
 | --: | :-- | --: |
 | #1 | ![][flag_CA] [Remyria](https://osu.ppy.sh/users/1699875) | 2.2 |
 | #2 | ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519) | 4.6 |
@@ -136,7 +136,7 @@ The Catch French Beginner 4 is run by various community members.
 | #16 | ![][flag_FR] [sullymaster](https://osu.ppy.sh/users/6765259) | 16 |
 
 - More detailed qualifiers result can be accessed via the statistics sheet inside [links section](#links).
-- Average Rank is determined by sum of the player's positions on each map divided by the number of maps played the qualifiers.
+- Average rank is determined by the sum of the player's positions on each map divided by the number of maps played in the qualifiers.
 
 ## Ruleset
 
