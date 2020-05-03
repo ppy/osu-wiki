@@ -23,9 +23,9 @@ Activity is measured in nominations, meaning that each nomination is worth one p
 
 Each mode has its own required minimum for monthly activity.
 
-- osu!, osu!taiko, osu!catch: minimum average equal to 3 nominations per month.
-- osu!mania: minimum average equal to 2 nominations per month.
-- Hybrid: minimum average equal to 3 nominations per month, with at least 1 nomination per proficient gamemode.
+- osu!, osu!taiko, osu!catch: equivalent of 3 nominations.
+- osu!mania: equivalent of 2 nominations.
+- Hybrid: equivalent of 3 nominations, with at least 1 per proficient gamemode.
 
 ## Nomination
 
