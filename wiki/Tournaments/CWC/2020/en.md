@@ -110,12 +110,12 @@ The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) an
 | France | ![][flag_FR] | ![][flag_DK] | Denmark | **14:00 UTC** | 16:00 UTC+02 | 16:00 UTC+02 |
 | United States | ![][flag_US] | ![][flag_VN] | Vietnam | **14:00 UTC** | 10:00 UTC-04 | 21:00 UTC+07 |
 | Chile | ![][flag_CL] | ![][flag_BR] | Brazil | **17:00 UTC** | 14:00 UTC-03 | 14:00 UTC-03 |
-| Austria | ![][flag_AT] | ![][flag_CO] | Colombia | **17:00 UTC** | 19:00 UTC+02 | 13:00 UTC-04 |
+| Austria | ![][flag_AT] | ![][flag_CO] | Colombia | **17:00 UTC** | 19:00 UTC+02 | 12:00 UTC-05 |
 | Germany | ![][flag_DE] | ![][flag_AR] | Argentina | **17:00 UTC** | 19:00 UTC+02 | 14:00 UTC-03 |
 | Italy | ![][flag_IT] | ![][flag_MX] | Mexico | **18:00 UTC** | 20:00 UTC+02 | 13:00 UTC-05 |
 | United States | ![][flag_US] | ![][flag_DK] | Denmark | **18:00 UTC** | 14:00 UTC-04 | 20:00 UTC+02 |
 | Canada | ![][flag_CA] | ![][flag_SA] | Saudi Arabia | **18:00 UTC** | 13:00 UTC-05 | 21:00 UTC+03 |
-| Colombia | ![][flag_CO] | ![][flag_BE] | Belgium | **19:00 UTC** | 15:00 UTC-04 | 21:00 UTC+02 |
+| Colombia | ![][flag_CO] | ![][flag_BE] | Belgium | **19:00 UTC** | 14:00 UTC-05 | 21:00 UTC+02 |
 | United States | ![][flag_US] | ![][flag_FR] | France | **19:00 UTC** | 15:00 UTC-04 | 21:00 UTC+02 |
 | Sweden | ![][flag_SE] | ![][flag_NO] | Norway | **19:00 UTC** | 21:00 UTC+02 | 21:00 UTC+02 |
 
@@ -142,7 +142,7 @@ The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) an
 | Mexico | ![][flag_MX] | ![][flag_NO] | Norway | **16:00 UTC** | 11:00 UTC-05 | 18:00 UTC+02 |
 | Brazil | ![][flag_BR] | ![][flag_SA] | Saudi Arabia | **16:00 UTC** | 13:00 UTC-03 | 19:00 UTC+03 |
 | Austria | ![][flag_AT] | ![][flag_BE] | Belgium | **16:00 UTC** | 18:00 UTC+02 | 18:00 UTC+02 |
-| Poland | ![][flag_PL] | ![][flag_CO] | Colombia | **17:00 UTC** | 19:00 UTC+02 | 13:00 UTC-04 |
+| Poland | ![][flag_PL] | ![][flag_CO] | Colombia | **17:00 UTC** | 19:00 UTC+02 | 12:00 UTC-05 |
 | Mexico | ![][flag_MX] | ![][flag_SE] | Sweden | **17:00 UTC** | 12:00 UTC-05 | 19:00 UTC+02 |
 | Chile | ![][flag_CL] | ![][flag_SA] | Saudi Arabia | **17:00 UTC** | 14:00 UTC-03 | 20:00 UTC+03 |
 
