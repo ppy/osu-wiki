@@ -94,10 +94,10 @@ The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) an
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | Philippines | ![][flag_PH] | ![][flag_HK] | Hong Kong | **10:00 UTC** | 18:00 UTC+08 | 18:00 UTC+08 |
-| Taiwan | ![][flag_TW] | ![][flag_AU] | Australia | **10:00 UTC** | 18:00 UTC+08 | 21:00 UTC+11 |
+| Taiwan | ![][flag_TW] | ![][flag_AU] | Australia | **10:00 UTC** | 18:00 UTC+08 | 20:00 UTC+10 |
 | China | ![][flag_CN] | ![][flag_SG] | Singapore | **10:00 UTC** | 18:00 UTC+08 | 18:00 UTC+08 |
 | Philippines | ![][flag_PH] | ![][flag_MY] | Malaysia | **11:00 UTC** | 19:00 UTC+08 | 19:00 UTC+08 |
-| Germany | ![][flag_DE] | ![][flag_AU] | Australia | **11:00 UTC** | 13:00 UTC+02 | 22:00 UTC+11 |
+| Germany | ![][flag_DE] | ![][flag_AU] | Australia | **11:00 UTC** | 13:00 UTC+02 | 21:00 UTC+10 |
 | Indonesia | ![][flag_ID] | ![][flag_JP] | Japan | **11:00 UTC** | 18:00 UTC+07 | 20:00 UTC+09 |
 | South Korea | ![][flag_KR] | ![][flag_GB] | United Kingdom | **12:00 UTC** | 21:00 UTC+09 | 13:00 UTC+01 |
 | Philippines | ![][flag_PH] | ![][flag_FI] | Finland | **12:00 UTC** | 20:00 UTC+08 | 14:00 UTC+02 |
@@ -124,7 +124,7 @@ The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) an
 | Team A |  |  | Team B | Match Time | Local Time A | Local Time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | Canada | ![][flag_CA] | ![][flag_BR] | Brazil | **0:00 UTC** | 19:00 (Sat.) UTC-05 | 21:00 (Sat.) UTC-03 |
-| Australia | ![][flag_AU] | ![][flag_AR] | Argentina | **0:00 UTC** | 11:00 UTC+11 | 21:00 (Sat.) UTC-03 |
+| Australia | ![][flag_AU] | ![][flag_AR] | Argentina | **0:00 UTC** | 10:00 UTC+10 | 21:00 (Sat.) UTC-03 |
 | Chile | ![][flag_CL] | ![][flag_CA] | Canada | **1:00 UTC** | 22:00 (Sat.) UTC-03 | 20:00 (Sat.) UTC-05 |
 | South Korea | ![][flag_KR] | ![][flag_RU] | Russian Federation | **10:00 UTC** | 19:00 UTC+09 | 13:00 UTC+03 |
 | China | ![][flag_CN] | ![][flag_JP] | Japan | **10:00 UTC** | 18:00 UTC+08 | 19:00 UTC+09 |
