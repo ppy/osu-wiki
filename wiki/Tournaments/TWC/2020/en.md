@@ -8,7 +8,7 @@ tags:
 
 ![TWC 2020 logo](/wiki/shared/news/banners/TWC2020.jpg)
 
-The **osu!taiko World Cup 2020** (***TWC 2020***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It is the tenth installment of the osu!taiko World Cup.
+The **osu!taiko World Cup 2020** (***TWC 2020***) was a country-based osu!taiko tournament hosted by the [osu! team](/wiki/People/The_Team). It was the tenth installment of the osu!taiko World Cup.
 
 ## Tournament schedule
 
@@ -31,7 +31,7 @@ The **osu!taiko World Cup 2020** (***TWC 2020***) was a country-based osu!taiko 
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, unique profile badge |
 
-![TWC 2020 Winner Badge](img/badge.png) ![TWC 2020 2nd Place Badge](img/badge2.png) ![TWC 2020 3rd Place Badge](img/badge3.png)
+![TWC 2020 winner badge](img/badge.png) ![TWC 2020 2nd place badge](img/badge2.png) ![TWC 2020 3rd place badge](img/badge3.png)
 
 ## Organisation
 
@@ -89,11 +89,9 @@ The osu!taiko World Cup 2020 was run by various community members.
 | ![][flag_GB] | **United Kingdom** | **[goheegy](https://osu.ppy.sh/users/8057655)**, [Horiiizon](https://osu.ppy.sh/users/8071438), [\_DUSK\_](https://osu.ppy.sh/users/6092181), [mangomizer](https://osu.ppy.sh/users/1893718), [Teezel](https://osu.ppy.sh/users/7528639) |
 | ![][flag_US] | **United States** | **[Loopy542](https://osu.ppy.sh/users/5468461)**, [3san](https://osu.ppy.sh/users/8050850), [cheese salad](https://osu.ppy.sh/users/6349821), [-Electro-](https://osu.ppy.sh/users/3251373), [HoopWheat](https://osu.ppy.sh/users/12177903) |
 
----
+## Podium
 
-![TWC 2019 Podium](img/podium.png)
-
----
+![TWC 2020 podium](img/podium.jpg)
 
 ## Mappools
 
@@ -464,18 +462,18 @@ Sunday, 8 March 2020:
      - Winner of the rematch.
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
    - This may change with the actual Group Stage setup.
-5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
+5. Following stages are double elimination stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
 
-| Stage | Match ID |
-| --: | :-- |
-| Round of 16 | A, B, C, D, E, F, G, H |
-| Quarterfinals | I, J, K, L, R, S, T, U |
-| Semifinals | M, N, V, W, X, Y, Z, AA |
-| Finals | O, AB, AC, AD |
-| Grand Finals | AE, P, Q |
+   | Stage | Match ID |
+   | --: | :-- |
+   | Round of 16 | A, B, C, D, E, F, G, H |
+   | Quarterfinals | I, J, K, L, R, S, T, U |
+   | Semifinals | M, N, V, W, X, Y, Z, AA |
+   | Finals | O, AB, AC, AD |
+   | Grand Finals | AE, P, Q |
 
-7. The **Winning conditions** for each stage will be:
+7. The **winning conditions** for each stage will be:
    - In Group Stage, you need to win 5 beatmaps to win a match. (Best-of-9)
    - In the Round of 16 and the Quarterfinals, you need to win 6 beatmaps to win a match. (Best-of-11)
    - In Semifinals, Finals and Grand Finals, you need to win 7 beatmaps to win a match. (Best-of-13)
@@ -517,7 +515,7 @@ Sunday, 8 March 2020:
 
 1. Each stage will be held on **a single weekend**.
 2. Matches in Group Stage may overlap.
-3. All Double Elimination Stages will be held on either Saturday or Sunday, UTC+0.
+3. All double elimination stages will be held on either Saturday or Sunday, UTC+0.
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
    - In the stages Quarterfinals and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be unavailable in the following week. Wishes are tried to be followed, alas no promises can be made.
 5. **Reschedules will only be considered if both teams agree to a time, this needs to be done and notified to the tournament staff before Wednesday at 23:59 UTC+0 in that particular week when your match takes place.**
