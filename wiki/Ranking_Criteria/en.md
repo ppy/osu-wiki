@@ -191,7 +191,7 @@ This category contains explicit allowance statements of concepts and rules that 
   - Remain unsnapped, as long as they align with the intended beat snap divisor.
   - Be snapped through a temporary change in BPM.
 - **An object which is wrongly snapped due to passing through or ending slightly before a new uninherited timing point must have its end snapped within the new timing section.** For spinners and osu!mania long notes, this can be achieved through dragging an object's tail in the timeline. For sliders, this can be achieved through slider velocity manipulation or editing of the .osu file.
-- **Beatmaps must be timed with the audio compatability mode setting turned off.** This setting can be found in the game's audio options. Enabling this setting uses a legacy audio engine, and can cause discrepancies with timing. 
+- **Beatmaps must be timed with the audio compatibility mode setting turned off.** This setting can be found in the game's audio options. Enabling this setting uses a legacy audio engine, and can cause discrepancies with timing. 
 
 ### Guidelines
 
