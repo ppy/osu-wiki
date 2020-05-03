@@ -136,7 +136,7 @@ The Catch French Beginner 4 is run by various community members.
 | #16 | ![][flag_FR] [sullymaster](https://osu.ppy.sh/users/6765259) | 16 |
 
 - More detailed qualifiers result can be accessed via the statistics sheet inside [links section](#links).
-- Average Rank is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
+- Average Rank is determined by sum of the player's positions on each map divided by the number of maps played the qualifiers.
 
 ## Ruleset
 
