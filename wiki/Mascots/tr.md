@@ -1,8 +1,8 @@
 # Maskotlar
 
-*Ayrıca Bakınız: [Mascots/Gallery](/wiki/Mascots/Gallery)*
+*Ayrıca Bakınız: [Maskotlar/Galeri](/wiki/Mascots/Gallery)*
 
-Maskotlar hakkında bir video [Mascot Showcase](https://youtu.be/mJF2cAs_MrI)
+Maskotlar hakkında bir video [Mascot Showcase](https://youtu.be/mJF2cAs_MrI).
 
 ## Resmi
 
@@ -12,9 +12,9 @@ Maskotlar hakkında bir video [Mascot Showcase](https://youtu.be/mJF2cAs_MrI)
 
 pippi, ayrıca pippidon, küçük "p" ile stilize edilir, 2008-07 tarihinde katılan standart osu! maskotudur. osu!taiko'da pippidon olarak da bilinir ve [Yandere Simulator](https://yanderesimulator.com) 'de bir NPC'dir. İlk konsept tasarımı [Sarumaru](https://osu.ppy.sh/users/9427) tarafından yapılmıştır, pippidon sprite'ı [crystalsuicune](https://osu.ppy.sh/users/9974) tarafından yapılmıştır, ve şu anki tasarımı [Daru](https://osu.ppy.sh/users/32480) tarafından yapılmıştır.
 
-### ![osu!catch İkonu](/wiki/shared/mode/catch.png) Yuzu
+### ![osu!catch ikonu](/wiki/shared/mode/catch.png) Yuzu
 
-*Haber gönderileri için, bknz: [Yuzu ile tanışın!](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu) ve [Yuzu'nun Yeni Görünümüyle Tanışın](https://osu.ppy.sh/home/news/2019-01-09-introducing-yuzu)*
+*Haber gönderileri için, bknz: [Meet Yuzu!](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu) ve [Introducing Yuzu's New Look](https://osu.ppy.sh/home/news/2019-01-09-introducing-yuzu)*
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
@@ -22,7 +22,7 @@ Yuzu, 2014-06-22 tarihinde katılan osu!catch maskotudur. 2000-04-10 tarihinde d
 
 ### ![osu!mania ikonu](/wiki/shared/mode/mania.png) Maria
 
-Haber gönderileri için, bknz: [Maria ile tanışın - osu!mania’nın yeni maskotu!](https://osu.ppy.sh/home/news/2016-04-20-meet-maria-osumanias-new-mascot)*
+*Haber gönderileri için, bknz: [Meet Maria - osu!mania's new mascot!](https://osu.ppy.sh/home/news/2016-04-20-meet-maria-osumanias-new-mascot)*
 
 ![Maria](img/Maria.png "Maria")
 
@@ -30,7 +30,7 @@ Maria, 2016-03-04 tarihinde katılan osu! Mania maskotudur. Kendisi Daru tarafı
 
 ### ![osu!taiko ikonu](/wiki/shared/mode/taiko.png) Mocha
 
-Haber gönderileri için, bknz: [Yeni osu!taiko maskotu burada!](https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here)*
+*Haber gönderileri için, bknz: [The new osu!taiko mascot is here!](https://osu.ppy.sh/home/news/2017-05-25-the-new-osutaiko-mascot-is-here)*
 
 ![Mocha](img/Mocha.png "Mocha")
 
@@ -42,21 +42,21 @@ Mocha, osu!taiko maskotu. Aslen ilk kez [altıncı fanart yarışması](https://
 
 ![Ryuuta](img/Ryuuta.png "Ryuuta")
 
-> Kendisi tezahürat ekibinin sıcakkanlı lideridir. İyi bir ruhu vardır ve çevresinde sıkıntı içinde olanlar için ayağa kalkıp onlar için savaşır!
+> He is the hot-blooded leader of the cheer squad. He has a good soul and helps those around him who are in distress by standing up and fighting for them!
 
 一本木龍太 (Ryūta Ippongi) 2008'de katılmış olan osu!catch chibi-fruit catcher'dır, ancak yerini 2014 yılında [Yuzu](#-yuzu) aldı. O [iNiS Corporation](https://en.wikipedia.org/wiki/INiS) tarafından oluşturulmuştur ve bir zamanlar eski web sitesinin bir parçasıydı. Ayrıca [Yandere Simulator](https://yanderesimulator.com)' de NPC'dir.
 
-Ryuuta, [LuigiHann](https://osu.ppy.sh/users/1079)'nın temasında da yer aldı, [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/).
+Ryuuta, [LuigiHann](https://osu.ppy.sh/users/1079)'nın temasında da yer aldı, [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357).
 
-### Ajan J
+### Agent J
 
-![Ajan J](img/Agent_J.png "Agent J")
+![Agent J](img/Agent_J.png "Agent J")
 
-> Hip-hop'tan bale'ye kadar birçok dans stilinde uzman, J herhangi bir canlıyı büyüleyebilir.
+> An expert in many styles of dance ranging from hip-hop to ballet, J can mesmerize any living thing.
 
-Ajan J, BA-2 (Beat Agent-2) veya J olarak da bilinir, 2008'de osu! maskotlarından biriydi ama 2014'te emekli olmuştur. İNiS Corporation tarafından oluşturuldu ve bir zamanlar eski web sitesinin bir parçasıydı.
+Agent J, BA-2 (Beat Agent-2) veya J olarak da bilinir, 2008'de osu! maskotlarından biriydi ama 2014'te emekli olmuştur. İNiS Corporation tarafından oluşturuldu ve bir zamanlar eski web sitesinin bir parçasıydı.
 
-Ajan J, [LuigiHann](https://osu.ppy.sh/users/1079)'nın temasında da yer aldı [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357/).
+Agent J, [LuigiHann](https://osu.ppy.sh/users/1079)'nın temasında da yer aldı [Elite Beat osu! HD (1.0 Complete!)](https://osu.ppy.sh/community/forums/topics/190357).
 
 ### Don
 
