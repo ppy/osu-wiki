@@ -31,6 +31,8 @@ The **Catch French Beginner 4** (***CFB4***) is a beginner French double-elimina
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
+![](img/badge.png "CFB4 winner badge")
+
 Generous donations from ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688), ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077) and ![][flag_FR] [Pizu](https://osu.ppy.sh/users/9475990) helped fund some of the prizes.
 
 ## Organisation
@@ -114,7 +116,7 @@ The Catch French Beginner 4 is run by various community members.
 
 ### Qualifiers
 
-| Seed | Player | Average Rank |
+| Seed | Player | Average rank |
 | --: | :-- | --: |
 | #1 | ![][flag_CA] [Remyria](https://osu.ppy.sh/users/1699875) | 2.2 |
 | #2 | ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519) | 4.6 |
@@ -134,7 +136,7 @@ The Catch French Beginner 4 is run by various community members.
 | #16 | ![][flag_FR] [sullymaster](https://osu.ppy.sh/users/6765259) | 16 |
 
 - More detailed qualifiers result can be accessed via the statistics sheet inside [links section](#links).
-- Average Rank is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
+- Average rank is determined by the sum of the player's positions on each map divided by the number of maps played in the qualifiers.
 
 ## Ruleset
 
