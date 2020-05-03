@@ -109,7 +109,7 @@ The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) an
 | Italy | ![][flag_IT] | ![][flag_SE] | Sweden | **14:00 UTC** | 16:00 UTC+02 | 16:00 UTC+02 |
 | France | ![][flag_FR] | ![][flag_DK] | Denmark | **14:00 UTC** | 16:00 UTC+02 | 16:00 UTC+02 |
 | United States | ![][flag_US] | ![][flag_VN] | Vietnam | **14:00 UTC** | 10:00 UTC-04 | 21:00 UTC+07 |
-| Chile | ![][flag_CL] | ![][flag_BR] | Brazil | **17:00 UTC** | 14:00 UTC-03 | 14:00 UTC-03 |
+| Chile | ![][flag_CL] | ![][flag_BR] | Brazil | **17:00 UTC** | 13:00 UTC-04 | 14:00 UTC-03 |
 | Austria | ![][flag_AT] | ![][flag_CO] | Colombia | **17:00 UTC** | 19:00 UTC+02 | 12:00 UTC-05 |
 | Germany | ![][flag_DE] | ![][flag_AR] | Argentina | **17:00 UTC** | 19:00 UTC+02 | 14:00 UTC-03 |
 | Italy | ![][flag_IT] | ![][flag_MX] | Mexico | **18:00 UTC** | 20:00 UTC+02 | 13:00 UTC-05 |
@@ -125,7 +125,7 @@ The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) an
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
 | Canada | ![][flag_CA] | ![][flag_BR] | Brazil | **0:00 UTC** | 19:00 (Sat.) UTC-05 | 21:00 (Sat.) UTC-03 |
 | Australia | ![][flag_AU] | ![][flag_AR] | Argentina | **0:00 UTC** | 10:00 UTC+10 | 21:00 (Sat.) UTC-03 |
-| Chile | ![][flag_CL] | ![][flag_CA] | Canada | **1:00 UTC** | 22:00 (Sat.) UTC-03 | 20:00 (Sat.) UTC-05 |
+| Chile | ![][flag_CL] | ![][flag_CA] | Canada | **1:00 UTC** | 21:00 (Sat.) UTC-04 | 20:00 (Sat.) UTC-05 |
 | South Korea | ![][flag_KR] | ![][flag_RU] | Russian Federation | **10:00 UTC** | 19:00 UTC+09 | 13:00 UTC+03 |
 | China | ![][flag_CN] | ![][flag_JP] | Japan | **10:00 UTC** | 18:00 UTC+08 | 19:00 UTC+09 |
 | South Korea | ![][flag_KR] | ![][flag_NL] | Netherlands | **11:00 UTC** | 20:00 UTC+09 | 13:00 UTC+02 |
@@ -144,7 +144,7 @@ The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) an
 | Austria | ![][flag_AT] | ![][flag_BE] | Belgium | **16:00 UTC** | 18:00 UTC+02 | 18:00 UTC+02 |
 | Poland | ![][flag_PL] | ![][flag_CO] | Colombia | **17:00 UTC** | 19:00 UTC+02 | 12:00 UTC-05 |
 | Mexico | ![][flag_MX] | ![][flag_SE] | Sweden | **17:00 UTC** | 12:00 UTC-05 | 19:00 UTC+02 |
-| Chile | ![][flag_CL] | ![][flag_SA] | Saudi Arabia | **17:00 UTC** | 14:00 UTC-03 | 20:00 UTC+03 |
+| Chile | ![][flag_CL] | ![][flag_SA] | Saudi Arabia | **17:00 UTC** | 13:00 UTC-04 | 20:00 UTC+03 |
 
 ## Mappools
 
