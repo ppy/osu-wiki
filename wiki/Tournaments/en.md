@@ -174,7 +174,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Royal Danish osu!Cup 2014](RDOC/2014) | 2014-01-16 | 2014-02-23 | ![][flag_DK] [TimG](https://osu.ppy.sh/users/1879963) | ![][flag_DK] [Tropians](https://osu.ppy.sh/users/2536611) | ![][flag_DK] [Broniel](https://osu.ppy.sh/users/3175330) |
 | [Royal Danish osu!Cup 2016](RDOC/2016) | 2016-01-09 | 2016-02-17 | ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653) | ![][flag_DK] [Zog](https://osu.ppy.sh/users/3722715) | ![][flag_DK] [Crylizhy](https://osu.ppy.sh/users/3023138) |
-| [Royal Danish osu!Cup 2017](RDOC/2017) | 2017-02-03 | 2017-04-09 |![][flag_DK] [raser1234](https://osu.ppy.sh/users/2527887) | ![][flag_DK] [iamVill](https://osu.ppy.sh/users/6295380) | ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653) |
+| [Royal Danish osu!Cup 2017](RDOC/2017) | 2017-02-03 | 2017-04-09 | ![][flag_DK] [raser1234](https://osu.ppy.sh/users/2527887) | ![][flag_DK] [iamVill](https://osu.ppy.sh/users/6295380) | ![][flag_DK] [waefwerf](https://osu.ppy.sh/users/3868653) |
 | [Royal Danish osu!Cup 2018](RDOC/2018) | 2018-09-15 | 2018-10-28 | ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469) | ![][flag_DK] [Cerkie](https://osu.ppy.sh/users/2533400) | ![][flag_DK] [raser1234](https://osu.ppy.sh/users/2527887) |
 | [Royal Danish osu!Cup 2019](RDOC/2019) | 2020-02-22 | 2020-04-05 | ![][flag_DK] [Spork Lover](https://osu.ppy.sh/users/3417469) | ![][flag_DK] [Vandabe](https://osu.ppy.sh/users/7050754) | ![][flag_DK] [Tikzyy](https://osu.ppy.sh/users/11380904) |
 
@@ -194,6 +194,8 @@ Unofficial tournaments/competitions hosted by the communities.
 
 ### ![](/wiki/shared/mode/taiko.png) Taiko Last Man Standing
 
+<!-- TODO: needs some cleaning up: "LMS" isn't explained in the Shift articles, folder name should probably be T_LMS, LMS index page doesn't list everything here -->
+
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | Taiko World Cup: Last Man Standing | 2014-05-10 | 2014-06-15 | ![][flag_JP] Japan | ![][flag_CL] Chile | ![][flag_TW] Taiwan A |
@@ -202,7 +204,8 @@ Unofficial tournaments/competitions hosted by the communities.
 | Taiko World Cup: Last Man Standing 3 | 2016-06-11 | 2016-07-24 | ![][flag_JP] Japan A | ![][flag_TW] Taiwan A | ![][flag_JP] Japan D |
 | Taiko: Last Man Standing - Single Player Edition 2 | 2017-01-07 | 2017-02-12 | ![][flag_JP] [_yu68](https://osu.ppy.sh/users/6170507) | ![][flag_KR] [applerss](https://osu.ppy.sh/users/983349) | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) |
 | Taiko: Last Man Standing 4 | 2017-09-23 | 2017-10-28 | Tarako Spa | Can We Go Back | easy to giveup |
-| [Taiko Last Man Standing: Shift Cup](LMS/Shift_1) | 2018-06-09 | 2018-07-15 | V E R Y S T R O N G T E A M | あ | Ｆａｓｔ ＆ Ｃｈｉｌｌ 早く |
+| [Taiko LMS: Shift Cup](LMS/Shift_1) | 2018-06-09 | 2018-07-15 | V E R Y S T R O N G T E A M | あ | Ｆａｓｔ ＆ Ｃｈｉｌｌ 早く |
+| [Taiko LMS: Shift Cup 2](LMS/Shift_2) | 2020-04-25 | 2020-05-31 | *TBD* | *TBD* | *TBD* |
 
 ### ![](/wiki/shared/mode/taiko.png) Global Taiko Showdown
 
@@ -352,6 +355,7 @@ Unofficial tournaments/competitions hosted by the communities.
 | [osu!Philippines Holiday Friendlies 2018](oPHF/2018) | 2018-11-03 | 2018-12-16 | ![][flag_KR] [Stereo](https://osu.ppy.sh/users/1499137) (osu!), ![][flag_PH] [Pochacco](https://osu.ppy.sh/users/2927742) (osu!taiko), ![][flag_PH] [- Kielzu -](https://osu.ppy.sh/users/6221114) (osu!catch), ![][flag_PH] [arge-](https://osu.ppy.sh/users/9919550) (osu!mania 4K), ![][flag_PH] [Nikana](https://osu.ppy.sh/users/4345491) (osu!mania 7K) | ![][flag_PH] [TyrantsEye2014](https://osu.ppy.sh/users/4530738) (osu!), ![][flag_PH] [Rimazii](https://osu.ppy.sh/users/3831514) (osu!taiko), ![][flag_PH] [KaganimeRin](https://osu.ppy.sh/users/1626093) (osu!catch), ![][flag_PH] [Baltz](https://osu.ppy.sh/users/6083463) (osu!mania 4K), ![][flag_PH] [fer789](https://osu.ppy.sh/users/8901267) (osu!mania 7K) | ![][flag_PH] [ededed028](https://osu.ppy.sh/users/3932796) (osu!), ![][flag_PH] [zonelouise](https://osu.ppy.sh/users/1492995) (osu!), ![][flag_PH] [yuki\_momoiro722](https://osu.ppy.sh/users/7186791) (osu!taiko), ![][flag_PH] [Crowley](https://osu.ppy.sh/users/6341006) (osu!catch), ![][flag_PH] [Shiyui-](https://osu.ppy.sh/users/9374607) (osu!mania 4K), ![][flag_PH] [Cielo Day](https://osu.ppy.sh/users/2722489) (osu!mania 7K) |
 
 <!-- TODO: When another Highlander Con tournament happens, organize this into a Highlander Con series (similar to Zotcade) -->
+
 ### ![](/wiki/shared/mode/osu.png) ![](/wiki/shared/mode/mania.png) Most Amazing LAN Ever
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |

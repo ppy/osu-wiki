@@ -1,7 +1,7 @@
 ---
 tags:
-  - LMS
   - SC
+  - TLMS
   - TLMS:SC
 ---
 
@@ -9,13 +9,13 @@ tags:
 
 ![TLMS:SC logo](img/logo.jpg)
 
-The **Taiko LMS: Shift Cup** (***TLMS:SC***) was a 3 on 3, 1v1 knock-out style osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110). It was a new branch of the LMS Tournaments that are hosted yearly, which include LMS:SE and LMS:BG.
+The **Taiko LMS: Shift Cup** (***TLMS:SC***) was a 3-on-3, 1v1 knock-out style osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110). It was a new branch of the LMS Tournaments that are hosted yearly, which include LMS:SE and LMS:BG<!-- TODO: link these groups -->.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2018-04-11/2018-06-02 (09:00 UTC) |
+| Registration phase | 2018-04-11/2018-06-02 (09:00 UTC) |
 | Group Stage | 2018-06-09/2018-06-10 |
 | Round of 16 | 2018-06-16/2018-06-17 |
 | Quarterfinals | 2018-06-23/2018-06-24 |
@@ -106,9 +106,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-- | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | V E R Y S T R O N G T E A M |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | あ |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Ｆａｓｔ　＆　Ｃｈｉｌｌ 早く |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | V E R Y S T R O N G T E A M |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | あ |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Ｆａｓｔ　＆　Ｃｈｉｌｌ 早く |
 
 ## Mappools
 
@@ -141,7 +141,7 @@ This competition has come to an end and resulted in the following podium:
   - [Panda Eyes & Teminite - Highscore (Nwolf) \[Mad Oni Reprise\]](https://osu.ppy.sh/beatmapsets/743056#taiko/1567106)
   - [LOLI RIPE - All I wanna do is touch your power points (Jaye) \[Helen\]](https://osu.ppy.sh/beatmapsets/808558#taiko/1696697)
 - Tiebreaker
-  - [Deftones - Knife Party (Final Sketch Remix) (-Kazu-, Ulqui) [Saudadic Oni]](https://osu.ppy.sh/beatmapsets/801653#taiko/1682654)
+  - **[Deftones - Knife Party (Final Sketch Remix) (-Kazu-, Ulqui) [Saudadic Oni]](https://osu.ppy.sh/beatmapsets/801653#taiko/1682654)**
 
 ### Finals
 
@@ -172,7 +172,7 @@ This competition has come to an end and resulted in the following podium:
   - [Katagiri - Soundcloud, do not die! (Rafael Nadal) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/702806#taiko/1487040)
   - [Ruby My Dear - Spectacle (Ulqui) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/747789#taiko/1575570)
 - Tiebreaker
-  - [odaxelagnia - \#sawg (Wan Bushi Remix) (Ulqui) \[\#creativename\]](https://osu.ppy.sh/beatmapsets/739136#taiko/1559772)
+  - **[odaxelagnia - \#sawg (Wan Bushi Remix) (Ulqui) \[\#creativename\]](https://osu.ppy.sh/beatmapsets/739136#taiko/1559772)**
 
 ### Semifinals
 
@@ -203,7 +203,7 @@ This competition has come to an end and resulted in the following podium:
   - [Dark PHOENiX - Hartman no Youkai Shoujo (JhowM) \[Extra\]](https://osu.ppy.sh/beatmapsets/641470#taiko/1360206)
   - [Various Artists - PEPPY FIX TAIKO STAR RATING PLEASE for a happier (ARGENTINE DREAM) \[osu!taiko\]](https://osu.ppy.sh/beatmapsets/794048#taiko/1667817)
 - Tiebreaker
-  - [Venetian Snares - Frictional Nevada (-Kazu-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/697419#taiko/1556000)
+  - **[Venetian Snares - Frictional Nevada (-Kazu-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/697419#taiko/1556000)**
 
 ### Quarterfinals
 
@@ -234,7 +234,7 @@ This competition has come to an end and resulted in the following podium:
   - [Katagiri - Heisei Memehunters (Legless) \[we live in a society\]](https://osu.ppy.sh/beatmapsets/796694#taiko/1673235)
   - [Frums - memoryfactory.lzh (Nifty) \[inneroni.rar\]](https://osu.ppy.sh/beatmapsets/761900#taiko/1601977)
 - Tiebreaker
-  - [t+pazolite vs RoughSketch - GRK Spice (tpz Overheat Remix) (Backfire, -Kazu-) \[Taikocalypse DX\]](https://osu.ppy.sh/beatmapsets/799203#taiko/1678044)
+  - **[t+pazolite vs RoughSketch - GRK Spice (tpz Overheat Remix) (Backfire, -Kazu-) \[Taikocalypse DX\]](https://osu.ppy.sh/beatmapsets/799203#taiko/1678044)**
 
 ### Round of 16
 
@@ -265,7 +265,7 @@ This competition has come to an end and resulted in the following podium:
   - [Lulickma - Thank You for Calling! (Dainesl) \[Dain's Inner Oni\]](https://osu.ppy.sh/beatmapsets/681633#taiko/1456720)
   - [Sadkey - Further (Airuei Redo) (Nifty) \[Discovery\]](https://osu.ppy.sh/beatmapsets/741764#taiko/1564820)
 - Tiebreaker
-  - [Rhapsody - Epicus Furor / Emerald Sword (Midnaait) \[Eternal Journey\]](https://osu.ppy.sh/beatmapsets/780381#taiko/1639326)
+  - **[Rhapsody - Epicus Furor / Emerald Sword (Midnaait) \[Eternal Journey\]](https://osu.ppy.sh/beatmapsets/780381#taiko/1639326)**
 
 ### Group Stage
 
@@ -296,7 +296,7 @@ This competition has come to an end and resulted in the following podium:
   - [MASAYOSHI IIMORI - BREAK OVER (komasy) \[BREAK ONI\]](https://osu.ppy.sh/beatmapsets/632227#taiko/1342119)
   - [IOSYS - Mushi Miko Unya no Happy-py (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/716658#taiko/1514303)
 - Tiebreaker
-  - [Camellia - ANOMALY (Nepuri) \[Oni\]](https://osu.ppy.sh/beatmapsets/666077#taiko/1456622)
+  - **[Camellia - ANOMALY (Nepuri) \[Oni\]](https://osu.ppy.sh/beatmapsets/666077#taiko/1456622)**
 
 ## Match results
 
@@ -392,7 +392,7 @@ Sunday, 17 June 2018:
 
 ### Group Stage
 
-Saturday, 8 June 2018 and Sunday, 9 June 2018
+Saturday, 8 June 2018 and Sunday, 9 June 2018:
 
 | Group | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
@@ -432,12 +432,12 @@ Saturday, 8 June 2018 and Sunday, 9 June 2018
 | F | **Roko-Don's Taiko Cheeks** | **4** | 0 | logic is half ＢＬＡＣＫ! | [#1](https://osu.ppy.sh/community/matches/43223663) |
 | F | Loss.jpg | 2 | **4** | **logic is half ＢＬＡＣＫ!** | [#1](https://osu.ppy.sh/community/matches/43227433) |
 | F | **The Spanish Inquisition** | **4** | 0 | Loss.jpg | [#1](https://osu.ppy.sh/community/matches/43229857) |
-| G | Tatacon PH | 1 | **4** | **We know de wae**  | [#1](https://osu.ppy.sh/community/matches/43159216) |
-| G | **FLip-FLop** | **4** | 0 | We know de wae  | [#1](https://osu.ppy.sh/community/matches/43161554) |
+| G | Tatacon PH | 1 | **4** | **We know de wae** | [#1](https://osu.ppy.sh/community/matches/43159216) |
+| G | **FLip-FLop** | **4** | 0 | We know de wae | [#1](https://osu.ppy.sh/community/matches/43161554) |
 | G | Tatacon PH | 1 | **4** | **FLip-FLop** | [#1](https://osu.ppy.sh/community/matches/43187411) |
 | G | **Pyon Pyon Usagi** | **4** | 3 | FLip-FLop | [#1](https://osu.ppy.sh/community/matches/43222375) |
 | G | **Pyon Pyon Usagi** | **4** | 0 | Tatacon PH | [#1](https://osu.ppy.sh/community/matches/43222375) |
-| G | **Pyon Pyon Usagi** | **4** | 1 | We know de wae  | [#1](https://osu.ppy.sh/community/matches/43226727) |
+| G | **Pyon Pyon Usagi** | **4** | 1 | We know de wae | [#1](https://osu.ppy.sh/community/matches/43226727) |
 
 ## Ruleset
 
@@ -445,7 +445,7 @@ Saturday, 8 June 2018 and Sunday, 9 June 2018
 
 1. Taiko LMS: Shift Cup is a 3v3 team tournament, with the aspects of knock-out rules, and double elimination bracket.
 2. The mapsets for each round will be announced by the map selectors in advance on the Sunday before the actual matches take place.
-3. Participants must be between Rank **\#75** and **\#5,000** Global.
+3. Participants must be between Rank **#75** and **#5,000** Global.
 4. Map scoring is based on **Score V2.**
 5. Match schedule will be settled by the Tournament Management.
 6. If no staff or referee is available, the match will be postponed.
@@ -460,7 +460,7 @@ Saturday, 8 June 2018 and Sunday, 9 June 2018
     - You can only revive **other** eliminated members of your team. Not yourself.
     - You may not choose to revive yourself if playing as the last member (1 vs 3, for example).
     - Players may swap freely between each other for each map.
-    - More information to the Revive system are in [Stage Instructions](#stage-instructions) and [Match Instructions](#match-instructions).
+    - More information to the Revive system are in [stage instructions](#stage-instructions) and [match instructions](#match-instructions).
 13. Revive is always assigned to the active player.
     - During Group Stage, each team is given 1 Revive.
     - During Round of 16 and Quarterfinals, each team is given 2 Revives.
@@ -468,7 +468,7 @@ Saturday, 8 June 2018 and Sunday, 9 June 2018
       - If a player loses a map they are knocked out and cannot participate in the same match unless revived.
       - The player who is revived may not participate in the match on the same turn they are revived, except in the instance that the team waits to use their revives after all players have been eliminated.
       - Each player may only be revived once per match.
-      - _**Elimination Stages Only**_: Revives may only occur **after** that round's map has been chosen.
+      - **Elimination stages only:** Revives may only occur **after** that round's map has been chosen.
 14. Lag is not a valid reason to nullify a map.
 15. Unexpected incidents are handled by tournament management.
 16. Any modification of these rules will be announced.
@@ -502,7 +502,7 @@ Saturday, 8 June 2018 and Sunday, 9 June 2018
 4. The top 2 teams of each group will move on to the Knock-Out Stages. (depending on the grouping).
 5. Following stages are Knock-Out Stages. This means that the winner moves to the next stage and the losing team gets put into the loser brackets.
 6. Winning condition: In all rounds, you need to knockout all players from the opponent team. The lowest scoring player of every played map gets knocked out from the match. The team that loses all players after consuming all Revives first loses the match.
-   - Revive distribution is handled according to point 11 on [General Rules](#general-rules).
+   - Revive distribution is handled according to point 11 on [general rules](#general-rules).
 
 ### Match instructions
 
@@ -524,18 +524,18 @@ Saturday, 8 June 2018 and Sunday, 9 June 2018
 ### Mappool instructions
 
 1. Each stage will receive its own mappool.
-2. Each map-pool consists of 7 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers), FreeMod, Extra, and TieBreaker.
+2. Each map-pool consists of 7 brackets: NoMod, [Hidden](/wiki/Game_Modifiers#hidden), [HardRock](/wiki/Game_Modifiers#hard-rock), [DoubleTime](/wiki/Game_Modifiers#double-time), FreeMod, Extra, and Tiebreaker.
 3. Each mappool consists of 18 maps in total.
 4. Each map-pool has one tiebreaker.
    - Each map-pool has one tiebreaker.
    - In the freak event of a tie on the tiebreaker, the tiebreaker will be replayed under FreeMod conditions.
 5. The NoMod bracket will be played with no mods activated.
-6. The Hidden, HardRock, and Double Time bracket will be played with the respective mods activated.
+6. The Hidden, HardRock, and DoubleTime bracket will be played with the respective mods activated.
 7. The Free Mod bracket will have Free Mod activated. The players can pick Hidden, HardRock or both. Players are required to play with a mod.
-8. The size of every Mod bracket will be 3 across all stages of the Tournament.
+8. The size of every Mod bracket will be 3 across all stages of the tournament.
 9. The mappool will be released after the last match of the previous stage has been played.
 
-### Scheduling Instructions
+### Scheduling instructions
 
 1. Each stage will be held on **a single weekend**.
 2. Matches in Group Stage may overlap.

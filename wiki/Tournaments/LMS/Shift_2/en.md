@@ -1,7 +1,7 @@
 ---
 tags:
-  - LMS
   - SC2
+  - TLMS
   - TLMS:SC2
 ---
 
@@ -9,7 +9,7 @@ tags:
 
 ![TLMS:SC2 logo](img/logo.jpg)
 
-The **Taiko LMS: Shift Cup 2** (***TLMS:SC2***) is a worldwide 4v4 double-elimination osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) and ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787). Teams will gather a team of 4 (with the option of 2 back-ups) in a 4 on 4 Knock-Out style match. This is the second installment of the Taiko Shift Cup and part of the Taiko LMS tournaments.
+The **Taiko LMS: Shift Cup 2** (***TLMS:SC2***) is a worldwide 4v4 double-elimination osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) and ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787). Teams will gather a team of 4 (with the option of 2 back-ups) in a 4-on-4 knock-out style match. This is the second installment of the Taiko Shift Cup and part of the Taiko LMS tournaments.
 
 ## Tournament schedule
 
@@ -223,7 +223,7 @@ Sunday, 26 April 2020:
     - More information to the Revive system are in [match instructions](#match-instructions).
 11. Revives are always assigned to the active player.
     - During Group Stage and Round of 16, each team is given 1 Revives.
-    - During Quarter Finals till Semi Finals, each team is given 2 Revives.
+    - During Quarter Finals till Semifinals, each team is given 2 Revives.
     - During and after Finals each team is given 3 Revives.
       - If a player loses a map they are knocked out and cannot participate in the same match unless revived.
       - The player who is revived may not participate in the match on the same turn they are revived, except in the instance that the team waits to use their revives after all players have been eliminated.
@@ -269,15 +269,15 @@ Sunday, 26 April 2020:
 ### Mappool instructions
 
 1. Each stage will receive its own mappool.
-2. Each mappool consists of 7 brackets: NoMod, Extra, Hidden, HardRock, DoubleTime, FreeMod, and Tiebreaker.
+2. Each mappool consists of 7 brackets: NoMod, Extra, [Hidden](/wiki/Game_Modifiers#hidden), [HardRock](/wiki/Game_Modifiers#hard-rock), [DoubleTime](/wiki/Game_Modifiers#double-time), FreeMod, and Tiebreaker.
 3. Each mappool consists of 18 maps in total.
 4. Each mappool has one tiebreaker.
    - The tiebreaker will be played without mods activated.
    - In the freak event of a tie on the tiebreaker, the tiebreaker will be replayed under FreeMod conditions.
 5. The NoMod & Extra bracket will be played with no mods activated.
-6. The Hidden, HardRock, and Double Time bracket will be played with the respective mods activated.
-7. The FreeMod bracket will have Free Mod activated. The players can pick Hidden, HardRock or both. Players are required to play with a mod.
-8. The size of every Mod bracket will be 3 across all stages of the Tournament.
+6. The Hidden, HardRock, and DoubleTime bracket will be played with the respective mods activated.
+7. The FreeMod bracket will have FreeMod activated. The players can pick Hidden, HardRock or both. Players are required to play with a mod.
+8. The size of every mod bracket will be 3 across all stages of the tournament.
 9. The mappool will be released after the last match of the previous stage has been played.
 
 ### Scheduling instructions
