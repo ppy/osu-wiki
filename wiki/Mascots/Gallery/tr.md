@@ -1,8 +1,3 @@
-
-
-
-
-
 # Galeri
 
 ## osu! Orijinaller
