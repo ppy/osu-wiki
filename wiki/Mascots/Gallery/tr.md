@@ -14,9 +14,11 @@
 
 ![404 hatası resmi](img/pippi-original-website-404.jpg "404 hatası resmi")
 
-![Daru'dan pippi illüstrasyonu (osu!installer'da bulunabilir).](img/pippi-original-installer.jpg "pippi illustrated by Daru (Can be found on osu!installer).")
+![Daru'dan pippi illüstrasyonu (osu!installer'da bulunabilir).](img/pippi-original-installer.jpg "Daru'dan pippi illüstrasyonu (osu!installer'da bulunabilir).")
 
-![osu! bir hata ile karşılaştığında pippi.](img/pippi-original-error.jpg "pippi when osu! received an error.")
+![osu! bir hata ile karşılaştığında pippi.](img/pippi-original-error.jpg "osu! bir hata ile karşılaştığında pippi.")
+
+![pippidon](img/pippidon.png "pippidon")
 
 ### Mevcut Pippi (DJ kıyafeti)
 
