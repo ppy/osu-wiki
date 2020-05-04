@@ -1,4 +1,5 @@
 {
+    "private": true,
     "name": "osu-wiki",
     "description": "home of the osu! wiki",
     "repository": "github:ppy/osu-wiki",
