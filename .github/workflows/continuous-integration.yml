@@ -34,6 +34,9 @@ jobs:
       - name: setup node
         uses: actions/setup-node@v1
 
+      - name: audit dependencies
+        run: npm audit
+
       - name: install remark
         run: npm install
 
