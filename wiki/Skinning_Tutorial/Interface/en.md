@@ -389,7 +389,7 @@ _[NeonFX](https://osu.ppy.sh/community/forums/topics/316252)_
 ![](fs/score_3.jpg)
 _[Northern Ocean Hime](https://osu.ppy.sh/community/forums/topics/319797)_
 
-#### Score commna
+#### Score comma
 
 The usage of `score-comma.png` depends on the region your PC is from.
 Most countries uses a dot to display decimal values (73**.**92%).

@@ -52,7 +52,7 @@ Information and results for all iterations of the MBC since its relaunch in 2020
 | :-- | :-- | :-- | :-- | :-- |
 | [January 2020](https://osu.ppy.sh/community/contests/84) | ![][flag_DK] [melon boy](https://osu.ppy.sh/users/3053382) | ![][flag_CN] [Moecho](https://osu.ppy.sh/users/5075660) | ![][flag_GB] [Altai](https://osu.ppy.sh/users/5745865) | [Results](https://osu.ppy.sh/home/news/2020-02-20-monthly-beatmapping-contest-1-results) |
 | [February 2020](https://osu.ppy.sh/community/contests/89) | ![][flag_RU] [Aphestra](https://osu.ppy.sh/users/11949191) | ![][flag_US] [UndeadCapulet](https://osu.ppy.sh/users/2523533) | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | [Results](https://osu.ppy.sh/home/news/2020-03-21-monthly-beatmapping-contest-2-results) |
-| [March 2020](https://osu.ppy.sh/community/contests/91) | TBD | TBD | TBD | TBD |
+| [March 2020](https://osu.ppy.sh/community/contests/91) | ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | [Results](https://osu.ppy.sh/home/news/2020-04-20-monthly-beatmapping-contest-3-results) |
 
 ## Rewards
 
@@ -78,6 +78,8 @@ MBC points of every contest participant are listed below.
 | :-- | :-- |
 | ![][flag_DK] [melon boy](https://osu.ppy.sh/users/3053382) | 2 |
 | ![][flag_RU] [Aphestra](https://osu.ppy.sh/users/11949191) | 2 |
+| ![][flag_GB] [hypercyte](https://osu.ppy.sh/users/9155377) | 2 |
+| ![][flag_BE] [Sylas](https://osu.ppy.sh/users/3906405) | 2 |
 | ![][flag_CN] [Moecho](https://osu.ppy.sh/users/5075660) | 1 |
 | ![][flag_GB] [Altai](https://osu.ppy.sh/users/5745865) | 1 |
 | ![][flag_US] [UndeadCapulet](https://osu.ppy.sh/users/2523533) | 1 |
@@ -89,3 +91,4 @@ MBC points of every contest participant are listed below.
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"

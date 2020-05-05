@@ -7,7 +7,7 @@ tags:
 
 ![YC logo](img/logo.jpg)
 
-The **Yuri Cup** (***YC***) is an international 4-digit 4v4 double-elimination osu! tournament hosted by ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519) and ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970). Each team consisting of 8 players will battle against other teams from around the globe. This is the first installment of the Yuri Cup.
+The **Yuri Cup** (***YC***) was an international 4-digit 4v4 double-elimination osu! tournament hosted by ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519) and ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970). Each team of 8 players battled against other teams from around the globe. This was the first installment of the Yuri Cup.
 
 ## Tournament schedule
 
@@ -29,13 +29,15 @@ The **Yuri Cup** (***YC***) is an international 4-digit 4v4 double-elimination o
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
+![](img/badge.png "YC winner badge")
+
 ## Organisation
 
-The Yuri Cup is run by various community members.
+The Yuri Cup was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970) |
+| Organiser | ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970) |
 | Map selector | ![][flag_US] [bor](https://osu.ppy.sh/users/4116573), ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970), ![][flag_US] [Cindelluna](https://osu.ppy.sh/users/3039847), ![][flag_US] [Izzz](https://osu.ppy.sh/users/6725659), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_US] [Mayflower](https://osu.ppy.sh/users/10302848), ![][flag_PT] [My Angel Maki](https://osu.ppy.sh/users/11610772), ![][flag_US] [squirrelpascals](https://osu.ppy.sh/users/6151332) |
 | Referee | ![][flag_HK] [Cindergoat](https://osu.ppy.sh/users/10168682), ![][flag_NO] [Ferretface](https://osu.ppy.sh/users/9703202), ![][flag_NL] [iepie122](https://osu.ppy.sh/users/12235433), ![][flag_US] [moof](https://osu.ppy.sh/users/8457202), ![][flag_US] [sriracha rice](https://osu.ppy.sh/users/11922986), ![][flag_NL] [Stan](https://osu.ppy.sh/users/11212255), ![][flag_AU] [Thunderbird](https://osu.ppy.sh/users/3026554), ![][flag_FR] [Yorumi](https://osu.ppy.sh/users/2458399) |
 | Commentator | ![][flag_CA] [BlastTheKidd](https://osu.ppy.sh/users/3988240), ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_NL] [iepie122](https://osu.ppy.sh/users/12235433), ![][flag_GR] [JackPaX](https://osu.ppy.sh/users/11226645), ![][flag_US] [moof](https://osu.ppy.sh/users/8457202), ![][flag_PL] [Shymshym](https://osu.ppy.sh/users/8631683) |
@@ -104,22 +106,15 @@ The Yuri Cup is run by various community members.
 | **Yuritarded** | **![][flag_US] [Raoul](https://osu.ppy.sh/users/9924405)**, ![][flag_US] [mode](https://osu.ppy.sh/users/4580287), ![][flag_CA] [Rijrya](https://osu.ppy.sh/users/11186709), ![][flag_CA] [iyxe](https://osu.ppy.sh/users/9653938), ![][flag_US] [Yeong Yuseong](https://osu.ppy.sh/users/8926244), ![][flag_CL] [ign](https://osu.ppy.sh/users/9360528), ![][flag_CA] [boncuss](https://osu.ppy.sh/users/2305984), ![][flag_US] [Tuco](https://osu.ppy.sh/users/11706350) |
 | **安倍-プーチン** | **![][flag_RU] [z0mbir](https://osu.ppy.sh/users/4939107)**, ![][flag_JP] [Lege](https://osu.ppy.sh/users/7350684), ![][flag_JP] [katatakatata](https://osu.ppy.sh/users/3540294), ![][flag_JP] [\_tottoko\_](https://osu.ppy.sh/users/8354698), ![][flag_JP] [Valtz](https://osu.ppy.sh/users/5911299), ![][flag_RU] [DrakonLong](https://osu.ppy.sh/users/4411044), ![][flag_JP] [Reey](https://osu.ppy.sh/users/3773119), ![][flag_RU] [HardLifeNH](https://osu.ppy.sh/users/11009393) |
 
-## Match schedule: Grand Finals
+## Podium
 
-Saturday, 4 April 2020:
+This competition has come to an end and resulted in the following podium:
 
-| Match ID | Team 1 | Team 2 | Match time (UTC) |
-| :-: | --: | :-- | :-: |
-| #61 | Corim's Bad Dream | Rtzero x Rtzer0 | **15:00** |
-
-Sunday, 5 April 2020:
-
-| Match ID | Team 1 | Team 2 | Match time (UTC) |
-| :-: | --: | :-- | :-: |
-| #62a¹ | a la verga | Corim's Bad Dream | **19:00** |
-| #62b¹ | a la verga | Rtzero x Rtzer0 | **14:00** |
-
-¹ Encounter dependent on winner of match #61. If team 2 wins match #62, the bracket reset Grand Finals match will take place approximately 30 minutes in advance.
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Corim's Bad Dream |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | a la verga |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Rtzero x Rtzer0 |
 
 ## Mappools
 
@@ -330,6 +325,21 @@ Sunday, 5 April 2020:
   - [senya - Kimi to Dareka no Yasashisa ni (kakifly) \[Affection\]](https://osu.ppy.sh/beatmapsets/250337#osu/596161)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 4 April 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Corim's Bad Dream** | **0** | -1 | Rtzero x Rtzer0 | *win by default* |
+
+Sunday, 5 April 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| a la verga | 6 | **7** | **Corim's Bad Dream** | *missing match link* <!-- TODO --> |
+| **Corim's Bad Dream** | **7** | 6 | a la verga | [#1](https://osu.ppy.sh/community/matches/60035243) |
 
 ### Finals
 
