@@ -362,7 +362,7 @@ Pazar, 1 Aralık 2019:
 
 | Takım 1 | | | Takım 2 | Maç bağlantısı |
 | --: | :-: | :-: | :-- | :-- |
-| **Amerika** ![][flag_US] | **6** | 1 | ![][flag_AU] Avustralya | [#1](https://osu.ppy.sh/community/matches/56652543) |
+| **Amerika Birleşik Devletleri** ![][flag_US] | **6** | 1 | ![][flag_AU] Avustralya | [#1](https://osu.ppy.sh/community/matches/56652543) |
 | **Güney Kore** ![][flag_KR] | **6** | 0 | ![][flag_FR] Fransa | [#1](https://osu.ppy.sh/community/matches/56660231) |
 | **Brezilya** ![][flag_BR] | **6** | 4 | ![][flag_ID] Endonezya | [#1](https://osu.ppy.sh/community/matches/56662222) |
 | **İtalya** ![][flag_IT] | 3 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/56662230) |
