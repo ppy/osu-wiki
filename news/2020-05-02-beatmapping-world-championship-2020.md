@@ -14,9 +14,9 @@ Please read below for a summary of the contest format this time around:
 
 ## Team Format
 
-Teams will be formed based on each country as designated by osu!. Teams may consist of 3-7 members, with individual participants registering to be eligible to be selected based on their country displayed on their osu! profile. 
+Teams will be formed based on each country as designated by osu!. Teams may consist of 3-7 members, with individual participants registering to be eligible to be selected based on their country displayed on their osu! profile.
 
-Participants may also apply to be chosen as the *Team Captain*, who will be responsible for selecting the other team members as well as being the primary contact with the contest staff. Participant applicants will vote for who they would like to be the Team Captain for their team, with the winner being selected as the Captain. 
+Participants may also apply to be chosen as the *Team Captain*, who will be responsible for selecting the other team members as well as being the primary contact with the contest staff. Participant applicants will vote for who they would like to be the Team Captain for their team, with the winner being selected as the Captain.
 
 Please note that Captain applicants will be vetted by the contest staff prior to voting, with the expectation that they have mapping/modding experience in some form.
 
@@ -30,9 +30,9 @@ For the Qualifier Round, all eligible teams will participate. Each team will be 
 
 ### Clash Rounds
 
-The remainder of the contest will take place in a bracket style competition where teams will be paired against each other by the seeding via the Qualifier round. 
+The remainder of the contest will take place in a bracket style competition where teams will be paired against each other by the seeding via the Qualifier round.
 
-Each matchup between two teams will take place at the same time for each round, but each matchup will assess the teams directly paired against each other, with the winner between each match advancing to the next round. This will proceed with the losing teams being eliminated each round until there is an overall winner. 
+Each matchup between two teams will take place at the same time for each round, but each matchup will assess the teams directly paired against each other, with the winner between each match advancing to the next round. This will proceed with the losing teams being eliminated each round until there is an overall winner.
 
 The losing teams of the semifinal round will participate in the final round against each other to determine the third place team.
 
@@ -50,25 +50,18 @@ The Clash Rounds will be run in the following format:
 
 For the **Qualifier Round**, judging will follow a scoring metric as detailed below:
 
-**Expertise (30%)**
-* How well does the submission demonstrate techniques regarding structure, music representation, flow, hitsounding, etc?
-
-**Cohesion (30%)**
-* How well does the submission demonstrate consistency regarding structure, music representation, flow, hitsounding, etc, especially across different sections and between team members?
-
-**Creativity (30%)**
-* How well does the submission demonstrate originality and uniqueness compared with the other submissions with reasonable respect to the playability and music?
-
-**Judge's Impression (10%)**
-* This is the part of the score left to the Judges’ personal preferences on the submission based on a culmination of all aspects of the map.
+- **Expertise (30%):** How well does the submission demonstrate techniques regarding structure, music representation, flow, hitsounding, etc?
+- **Cohesion (30%):** How well does the submission demonstrate consistency regarding structure, music representation, flow, hitsounding, etc, especially across different sections and between team members?
+- **Creativity (30%):** How well does the submission demonstrate originality and uniqueness compared with the other submissions with reasonable respect to the playability and music?
+- **Judge's Impression (10%):** This is the part of the score left to the Judges’ personal preferences on the submission based on a culmination of all aspects of the map.
 
 For the **Clash Rounds**, each of the main categories will be judged only between each head to head matchup. Each judge will determine a winner for matchup based on the same criteria as the Qualifier Round, but comparatively instead of with direct scores. The team with with the most votes as the winning as determined by the group of judges will advance to the next round. Comments and reasoning will be provided for each entry, but no numerical scores will be given.
 
 ## Prizes
 
-* 1st place team = 8 months supporter per team member, profile badge
-* 2nd place team = 6 months supporter per team member
-* 3rd place team = 4 months supporter per team member
+- 1st place team = 8 months supporter per team member, profile badge
+- 2nd place team = 6 months supporter per team member
+- 3rd place team = 4 months supporter per team member
 
 ## How to register
 
