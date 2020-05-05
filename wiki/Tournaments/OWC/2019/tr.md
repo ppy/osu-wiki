@@ -313,7 +313,7 @@ Cumartesi, 14 Aralık 2019:
 
 | Takım 1 | | | Takım 2 | Maç bağlantısı |
 | --: | :-: | :-: | :-- | :-- |
-| Rus Federasyonu ![][flag_RU] | 5 | **7** | ![][flag_KR] **Güney Kore** | [#1](https://osu.ppy.sh/community/matches/56966806) |
+| Rusya Federasyonu ![][flag_RU] | 5 | **7** | ![][flag_KR] **Güney Kore** | [#1](https://osu.ppy.sh/community/matches/56966806) |
 | **Almanya** ![][flag_DE] | **7** | 0 | ![][flag_CA] Kanada | [#1](https://osu.ppy.sh/community/matches/56976278) |
 
 Pazar, 15 Aralık 2019:
