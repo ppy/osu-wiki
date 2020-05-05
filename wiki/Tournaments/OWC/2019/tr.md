@@ -494,7 +494,7 @@ Pazar, 17 Kasım 2019:
 12. **Kazanma şartları:**
     - Son 32 Turu ve Son 16 Turu, "9'un en iyisi" olarak oynanacaktır (ilk 5 puanı alan takım kazanır).
     - Çeyrek ve Yarı Final, "11'in en iyisi" olarak oynanacaktır (ilk 6 puanı alan takım kazanır).
-    - Final ve Büyük final, "best of 13" olarak oynanacaktır (ilk 7 puanı alan takım kazanır).
+    - Final ve Büyük Final, "13'ün en iyisi" olarak oynanacaktır (ilk 7 puanı alan takım kazanır).
 
 ### Maç talimatları
 
