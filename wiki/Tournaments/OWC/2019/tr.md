@@ -450,7 +450,7 @@ Pazar, 17 Kasım 2019:
 14. Eğer oyuncu, mapler arasında çıkarsa ve takım oyuncu değişimi sağlayamazsa, maç en fazla 10 dakika ertelenebilir.
 15. Tüm oyuncular ve hakemlere saygılı davranılmalıdır. Hakemin ve Turnuva Yönetiminin yönlendirmeleri takip edilmelidir. Bu kurallara göre verilen en son kararlara karşı gelinmemelidir.
 16. Uygun olmayan bir davranışla maçı bölmek, uygunsuz ısınma mapleri seçmek, diğer oyuncu veya hakemleri provoke etmek ve aşağılamak, maça geç gelmek veya diğer kasıtlı olarak yapılan uygunsuz davranışlar kesinlikle yasaktır.
-17. Multiplayer sohbet odaları [osu! topluluk kuralları](/wiki/Rules)'na tabidir.
+17. Çoklu oyunculu sohbet odaları [osu! topluluk kurallarına](/wiki/Rules) tabidir.
     - Sohbet kurallarını bozmak susturulmanızla sonuçlanacaktır. Susturulmuş oyuncular multiplayer maçlarına katılamaz ve susturuldukları zaman zarfında değişim yapılmaları gereklidir.
 18. **Sıralama metodu, tüm takımlar Eleme maçlarını oynadıktan sonra açıklanacaktır.**
 19. Beklenmedik olaylar Turnuva Yönetimi tarafınca ele alınacaktır. Hakemler duruma bağlı olarak daha toleranslı olabilirler. Bu onların inisiyatifindedir.
