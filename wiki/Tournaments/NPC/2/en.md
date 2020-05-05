@@ -63,7 +63,7 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 | Young Builders | ![][flag_RU] **[Tara_kan](https://osu.ppy.sh/users/13217621)**, ![][flag_RU] [bu1ld](https://osu.ppy.sh/users/13808132) |
 | Click the Circles to the beat | ![][flag_US] **[Lapisz](https://osu.ppy.sh/users/8295497)**, ![][flag_FR] [Jhayyy](https://osu.ppy.sh/users/15374745), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711/osu), ![][flag_GB] [bluezenither](https://osu.ppy.sh/users/11861720) |
 | SLAVA ZEMLYANAM | ![][flag_RU] **[Maruyama-](https://osu.ppy.sh/users/11853175)**, ![][flag_RU] [Skeyn](https://osu.ppy.sh/users/7899956), ![][flag_RU] [f55dota2](https://osu.ppy.sh/users/14126397) |
-| Tapa no Cara | ![][flag_BR] **[Mr Capuccino](https://osu.ppy.sh/users/16224264)**, ![][flag_BR] [Megadestr](https://osu.ppy.sh/users/15795443) |
+| Tapa na Cara | ![][flag_BR] **[Mr Capuccino](https://osu.ppy.sh/users/16224264)**, ![][flag_BR] [Megadestr](https://osu.ppy.sh/users/15795443) |
 | The Smol Beans| ![][flag_GB] **[SwayMC](https://osu.ppy.sh/users/9524544)**, ![][flag_SA] [blankin9](https://osu.ppy.sh/users/14361876), ![][flag_IN] [XolinN](https://osu.ppy.sh/users/14231342), ![][flag_US] [Smol -w-](https://osu.ppy.sh/users/11956413) |
 | vai Brazilian | ![][flag_BR] **[ImHashRenai](https://osu.ppy.sh/users/15364219)**, ![][flag_BR] [Shinobu515](https://osu.ppy.sh/users/11516881) |
 | Chuchichäschtli | ![][flag_CH] **[[Arikawa]](https://osu.ppy.sh/users/6454830)**, ![][flag_CH] [Kvn_hot_potato](https://osu.ppy.sh/users/6228912), ![][flag_CH] [[ Kuromei ]](https://osu.ppy.sh/users/6675144) |
