@@ -471,7 +471,7 @@ Pazar, 17 Kasım 2019:
 2. Geçerli ve ciddi kayıtları garanti altına almak için her kayıt olan oyuncu Turnuva Yönetimince kontrol edilecektir.
    - Kayıt olan tüm kullanıcıların kendi ülkelerinin aday listesine girişi yapılacaktır.
    - Listeye başarılı bir şekilde kabul edilmek için, oyuncunun küresel osu! performans sıralaması #5000'den daha iyi olmalıdır.
-   - Listeye başırılı bir şekilde kabul edilmek için, oyuncunun son 12 ay içerisinde [osu! topluluk kuralları](/wiki/Rules)'nı ihlal etmemiş olması zorunludur.
+   - Listeye başırılı bir şekilde kabul edilmek için, oyuncunun son 12 ay içerisinde [osu! topluluk kurallarını](/wiki/Rules) ihlal etmemiş olması zorunludur.
 3. Başarılı bir şekilde oluşturulan takımlar Kayıt Aşamasından sonra herkese açık bir şekilde paylaşılacaktır.
    - **Bir takımın Eleme aşamasında oynama şansı olması için en az 6 kayıtlı oyuncuya ihtiyacı vardır.**
    - **İlk 32 içine giren takımlar Round of 32'de oynamaya hak kazanacaktır.**
