@@ -382,7 +382,7 @@ Cumartesi, 23 Kasım 2019:
 | **Tayvan** ![][flag_TW] | **5** | 1 | ![][flag_NL] Hollanda | [#1](https://osu.ppy.sh/community/matches/56471138) |
 | Çek Cumhuriyeti ![][flag_CZ] | 3 | **5** | ![][flag_IT] **İtalya** | [#1](https://osu.ppy.sh/community/matches/56472962) |
 | Türkiye ![][flag_TR] | 1 | **5** | ![][flag_SE] **İsveç** | [#1](https://osu.ppy.sh/community/matches/56472920) |
-| **Amerika** ![][flag_US] | **5** | 1 | ![][flag_FR] Fransa | [#1](https://osu.ppy.sh/community/matches/56476625) |
+| **Amerika Birleşik Devletleri** ![][flag_US] | **5** | 1 | ![][flag_FR] Fransa | [#1](https://osu.ppy.sh/community/matches/56476625) |
 | **Şili** ![][flag_CL] | **5** | 3 | ![][flag_MX] Meksika | [#1](https://osu.ppy.sh/community/matches/56478465) |
 
 Pazar, 24 Kasım 2019:
