@@ -475,7 +475,7 @@ Pazar, 17 Kasım 2019:
    - Listeye başırılı bir şekilde kabul edilmek için, oyuncunun son 12 ay içerisinde [osu! topluluk kurallarını](/wiki/Rules) ihlal etmemiş olması zorunludur.
 3. Başarılı bir şekilde oluşturulan takımlar Kayıt Aşamasından sonra herkese açık bir şekilde paylaşılacaktır.
    - **Bir takımın Eleme aşamasında oynama şansı olması için en az 6 kayıtlı oyuncuya ihtiyacı vardır.**
-   - **İlk 32 içine giren takımlar Round of 32'de oynamaya hak kazanacaktır.**
+   - **İlk 32 içerisine giren takımlar, Son 32 Turunda oynamaya hak kazanacaktır.**
 4. Beatmap seçiciler bu turnuvada oyuncu olarak kesinlikle oynayamaz.
 
 ### Aşama talimatları
