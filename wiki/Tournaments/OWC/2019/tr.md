@@ -438,7 +438,7 @@ Pazar, 17 Kasım 2019:
    - Bir beatmap Tiebreaker olarak seçilecektir. Bu beatmap sadece beraberlik durumunda oynanacaktır. **Bu kurala tek istisna Eleme turundaki beatmap havuzudur.**
 4. Maç Zamanlamaları, Turnuva Yönetimi tarafından belirlenecektir (bknz: [Planlama Talimatları](#scheduling-instructions)).
 5. Eğer maça bakacak herhangi bir hakem veya başka çalışan yoksa maç ertelenecektir.
-6. Arkaplan Işığını değiştirmek veya Beatmap'in; storyboard ve skini gibi beatmap seçeneklerini değiştirecek görsel ayar kullanımı serbesttir.
+6. Arkaplan ışığını değiştirmek için Görsel Ayarları kullanmak, veya film şeridi, temalar gibi beatmap seçeneklerini devre dışı bırakmak serbesttir.
 7. Beatmap'in berabere bitmesi durumunda, map oynanmamış sayılacak ve tekrar oynanacaktır.
 8. Eğer bir oyuncunun bağlantısı koparsa, o oyuncunun skoru takımın toplam skoru içine eklenmeyecektir.
    - Maç başlamasından 30 saniye sonra veya beatmap uzunluğunun %25'i sonrasında (hangisi ilk önce gerçekleşirse) oyun bitirilebilir ve/veya tekrar oynanabilir. Bu seçim hakemin inisiyatifindedir.
