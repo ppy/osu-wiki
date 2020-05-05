@@ -225,7 +225,7 @@ osu! 2019 Dünya Kupası, muhtelif topluluk üyeleri tarafından yürütülen bi
 - Tiebreaker
   - **[Oreore-Usagi - Reset My Refrain (captin1) \[Reset\]](https://osu.ppy.sh/beatmapsets/485103#osu/1034570)**
 
-### Round of 16
+### Son 16 Turu
 
 - NoMod
   - [BUTAOTOME - Yokubou no Kozuchi (BarkingMadDog) \[Mallet of Desires\]](https://osu.ppy.sh/beatmapsets/1065419#osu/2230996)
