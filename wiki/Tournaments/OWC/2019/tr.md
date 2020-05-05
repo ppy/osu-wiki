@@ -446,7 +446,7 @@ Pazar, 17 Kasım 2019:
 11. Maç sırasında limit olmadan oyuncu değiştirilebilir.
     - **Mapin tekrar oynanması gerektiği durumlarda oyuncu değişimine izin yoktur. Hakemin inisiyatifine bağlı olarak, önceki oyuncular bir sebepten ötürü oynayamıyorsa istisna oluşturulabilir.**
 12. Oyunda lag oluşması, mapin geçersiz sayılması için bir sebep değildir.
-13. Tüm oyunculardan maçı gecikmesiz ve akıcı ilerlemesini sağlaması istenir. Oyunculara maçı çok fazla geciktirmeleri durumunda ceza uygulanabilir.
+13. Tüm oyunculardan maçın gecikmesiz ve akıcı ilerlemesini sağlaması beklenir. Maçın fazlasıyla gecikmesi durumunda ilgili oyunculara ceza uygulanabilir.
 14. Eğer oyuncu, mapler arasında çıkarsa ve takım oyuncu değişimi sağlayamazsa, maç en fazla 10 dakika ertelenebilir.
 15. Tüm oyuncular ve hakemlere saygılı davranılmalıdır. Hakemin ve Turnuva Yönetiminin yönlendirmeleri takip edilmelidir. Bu kurallara göre verilen en son kararlara karşı gelinmemelidir.
 16. Uygun olmayan bir davranışla maçı bölmek, uygunsuz ısınma mapleri seçmek, diğer oyuncu veya hakemleri provoke etmek ve aşağılamak, maça geç gelmek veya diğer kasıtlı olarak yapılan uygunsuz davranışlar kesinlikle yasaktır.
