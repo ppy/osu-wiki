@@ -369,7 +369,7 @@ Pazar, 1 Aralık 2019:
 | **Birleşik Krallık** ![][flag_GB] | **6** | 3 | ![][flag_TW] Tayvan | [#1](https://osu.ppy.sh/community/matches/56662918) |
 | Çin ![][flag_CN] | 1 | **6** | ![][flag_PL] **Polonya** | [#1](https://osu.ppy.sh/community/matches/56664503) |
 | **Romanya** ![][flag_RO] | 5 | **6** | ![][flag_DE] **Almanya** | [#1](https://osu.ppy.sh/community/matches/56666462) |
-| **Kanada** ![][flag_CA] | 2 | **6** | ![][flag_RU] **Rus Federasyonu** | [#1](https://osu.ppy.sh/community/matches/56668684) |
+| **Kanada** ![][flag_CA] | 2 | **6** | ![][flag_RU] **Rusya Federasyonu** | [#1](https://osu.ppy.sh/community/matches/56668684) |
 
 ### Son 16 Turu
 
