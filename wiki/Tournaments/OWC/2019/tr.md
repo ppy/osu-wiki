@@ -273,7 +273,7 @@ osu! 2019 Dünya Kupası, muhtelif topluluk üyeleri tarafından yürütülen bi
 - Tiebreaker
   - **[gmtn. vs. kozato (fw. LUZE) - squartatrice (Morinaga) \[Skystar's Descent\]](https://osu.ppy.sh/beatmapsets/679272#osu/1436329)**
 
-### Eleme
+### Elemeler
 
 - NoMod
   - [Mimori Suzuko - Light for Knight (\_kotachi\_) \[Destiny(New ver.)\]](https://osu.ppy.sh/beatmapsets/801337#osu/2218600)
