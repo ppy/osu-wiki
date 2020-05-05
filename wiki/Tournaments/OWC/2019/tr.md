@@ -396,7 +396,7 @@ Pazar, 24 Kasım 2019:
 | İspanya ![][flag_ES] | 0 | **5** | ![][flag_JP] **Japonya** | [#1](https://osu.ppy.sh/community/matches/56497207) |
 | Letonya ![][flag_LV] | 0 | **5** | ![][flag_NO] **Norveç** | [#1](https://osu.ppy.sh/community/matches/56498749) |
 | **Belçika** ![][flag_BE] | 2 | **5** | ![][flag_AT] **Avusturya** | [#1](https://osu.ppy.sh/community/matches/56500421) |
-| **Brezilya** ![][flag_BR] | 2 | **5** | ![][flag_RU] **Rus Federasyonu** | [#1](https://osu.ppy.sh/community/matches/56501739) |
+| **Brezilya** ![][flag_BR] | 2 | **5** | ![][flag_RU] **Rusya Federasyonu** | [#1](https://osu.ppy.sh/community/matches/56501739) |
 | **Polonya** ![][flag_PL] | 2 | **5** | ![][flag_RO] **Romanya** | [#1](https://osu.ppy.sh/community/matches/56503201) |
 
 ### Son 32 Turu
