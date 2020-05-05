@@ -457,7 +457,7 @@ Pazar, 17 Kasım 2019:
 19. Beklenmedik olaylar Turnuva Yönetimi tarafınca ele alınacaktır. Hakemler duruma bağlı olarak daha toleranslı olabilirler. Bu onların inisiyatifindedir.
 20. Turnuva kurallarını bozmanın cezaları şunlardır:
     - Malum oyuncuların bir beatmap süresince oyun dışı bırakılması
-    - Malum oyuncuların tüm maç boyu elenmesi
+    - Malum oyuncuların tüm maç boyu oyun dışı bırakılması
     - İlgili takımın Hükmen Mağlup ilan edilmesi
     - Tüm turnuvadan diskalifiye olmak
     - Temyiz edilene dek, şimdiki ve sonraki resmi turnuvalardan diskalifiye olmak
