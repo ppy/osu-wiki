@@ -469,7 +469,7 @@ Pazar, 17 Kasım 2019:
    - Turnuva Yönetimi geçici de olsa ülkenin takım kaptanı olacak bir kişi seçecektir.
    - Kaptan seçilen kişi kendi ülkesinin aday listesinden seçeceği kişilerle takımını kurabilir.
 2. Geçerli ve ciddi kayıtları garanti altına almak için her kayıt olan oyuncu Turnuva Yönetimince kontrol edilecektir.
-   - Tüm kayıt olan kişiler kendi ülkelerinin aday listesine girişi yapılacaktır.
+   - Kayıt olan tüm kullanıcıların kendi ülkelerinin aday listesine girişi yapılacaktır.
    - Listeye başarılı bir şekilde kabul edilmek için, oyuncunun küresel osu! performans sıralaması #5000'den fazla olmalıdır.
    - Listeye başırılı bir şekilde kabul edilmek için, oyuncunun son 12 ay içerisinde [osu! topluluk kuralları](/wiki/Rules)'nı ihlal etmemiş olması zorunludur.
 3. Başarılı bir şekilde oluşturulan takımlar Kayıt Aşamasından sonra herkese açık bir şekilde paylaşılacaktır.
