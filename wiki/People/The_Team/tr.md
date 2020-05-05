@@ -9,11 +9,12 @@ tags:
 
 # Ekip
 
-*Kimlerin terfi ettiğini veya emekliye ayrıldığını öğrenmek için, buraya bakın: [Personel Kayıtları](/wiki/Staff_Log)*
+*Kimlerin terfi ettiğini veya emekliye ayrıldığını öğrenmek için, buraya bakın:
+[Personel Kayıtları](/wiki/Staff_Log)*
 
-Aşağıdaki listelenen kişiler **osu!team** çekirdek kadrosunu oluşturmakta ve oyunu herkes için harika hale getirmekten esas olarak sorumludur.
+Aşağıdaki listelenen kişiler **osu!ekibi** çekirdek kadrosunu oluşturmakta, ve oyunu herkes için harika hale getirmekten sorumludur.
 
-| Name | Role <!-- TODO: "Featured Artist outreach" isn't a role but I'm not sure how to write it as one... --> |
+| İsim | Rol |
 | :-- | :-- |
 | ![][flag_AU] **[peppy](https://osu.ppy.sh/users/2)** | **Proje lideri** |
 | ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) | Modlama ve mapping danışmanı |
@@ -41,25 +42,25 @@ Aşağıdaki listelenen kişiler **osu!team** çekirdek kadrosunu oluşturmakta 
 
 Aşağıdakiler osu!'nun sürdürülmesine yardımcı olan osu! topluluk üyelerinden oluşturulmuş kullanıcı gruplarıdır. Bu kullanıcıların çoğu forumdaki renklerinden, oyun içi sohbet renklerinden, profil başlıklarından, ve/veya profil rozetlerinden ayırt edilebilir.
 
-| Name | Description |
+| İsim | Tanım |
 | :-- | :-- |
-| [Beatmap Nominators](Beatmap_Nominators) | Maplerin nitelikli olduğundan emin olmak için çağrıların ötesine geçen kullanıcılar |
+| [Beatmap Nominators](Beatmap_Nominators) | Maplerinizin nitelikli olduğundan emin olmak için elinden geleni ardına koymayan kullanıcılar |
 | [Geliştiriciler](Developers) | Yeni özellikler ekleyerek ve hataları düzelterek oyunu güzelleştirirler |
 | [Global Moderation Team](Global_Moderation_Team) | Forumları ve oyun içi sohbeti gözetlerler |
 | [Nomination Assessment Team](Nomination_Assessment_Team) | Beatmap Nominator'ları yönetirler |
-| [osu! Alumni](osu!_Alumni) | Geçip gittiklerinden beri oyun üzerindeki katkılarıyla bilinirler |
+| [osu! Alumni](osu!_Alumni) | Katkılarından ötürü sürekli hatırlanan eski kullanıcılar |
 | [Project Loved Takımı](Project_Loved_Team) | Topluluğun en sevdiği beatmapleri bulurlar |
-| [Destek Ekibi](Support_Team) | Yardım / Özellik Talebi asistanlığı |
+| [Destek Ekibi](Support_Team) | Yardım / Özellik Talebi desteği |
 
 ## İnaktif çekirdek kadro üyeleri
 
-| Name | Role |
+| İsim | Tanım |
 | :-- | :-- |
 | ![][flag_US] [awp](https://osu.ppy.sh/users/2650) | Genel ev temizliği ve yardımı, chibi artist. [Barrel Roll Weekly](http://brw.twinkfish.com/) |
 | ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | Ses tasarımcısı, [resmi osu! Featured Artist'i](https://osu.ppy.sh/beatmaps/artists/2) |
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | Dünya Kupası organizatörü ve yöneticisi |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | Genel ev temizliği, topluluk yöneticisi |
-| ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | osu! geliştiricisi, oyun içi sohbet için IRC entegrasyonu sağlayıcı, site idaresi. [Blog](http://blog.echo.sh/) |
+| ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | osu! geliştiricisi, oyun-içi sohbet için IRC entegrasyonu sağlayıcı, site idaresi. [Blog](http://blog.echo.sh/) |
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | osu! Coffee Hour ev sahibi, Dünya Kupası yayıncısı, turnuva organizatörü |
 | ![][flag_NL] [Intermezzo](https://osu.ppy.sh/users/136842) | osu! geliştiricisi, osz2 ve p2p backend sağlayıcısı |
 | ![][flag_US] Jim | Orijinal site dizaynerı. [Brand New Games](http://www.bravegamer.com/) |
@@ -69,13 +70,13 @@ Aşağıdakiler osu!'nun sürdürülmesine yardımcı olan osu! topluluk üyeler
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone geliştiricisi |
 | ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | osu! geliştiricisi, Mappers' Guild organizatörü |
 | ![][flag_US] Phil | Forum tasarımcısı |
-| ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, havalı olağandışı şeyler yapan adam |
+| ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!ressam, havalı olağandışı şeyler yapan adam |
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Orijinal pippi konsepti ve çizim dizaynerı. [DeviantArt](https://sarumaru.deviantart.com/) |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Erken topluluk yöneticisi ve lideri, toplantı tutanağı ve SSS katkısı |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | osu! ve pp geliştiricisi |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | osu! geliştiricisi, osu!mania modu geliştiricisi |
-| ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | [osu!store](https://osu.ppy.sh/store/listing) idarecisi |
-| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/osu!academy) profesörü, medya ve karakter tasarımcısı |
+| ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | [osu!mağaza](https://osu.ppy.sh/store/listing) sorumlusu |
+| ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | [osu!akademi](/wiki/osu!academy) profesörü, medya ve karakter tasarımcısı |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
