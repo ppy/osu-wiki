@@ -505,7 +505,7 @@ Pazar, 17 Kasım 2019:
 3. Her kaptan Son 16 Turu ve Son 32 Turunun havuzlarından seçilecek maplerden **birer tane** yasaklayabilir. Bu maplerin tüm maç boyunca herhangi takım tarafından seçilmesi yasaktır.
    - **Çeyrek finallerden itibaren yasaklama sayısı ikiye çıkacaktır. Yine de, her takım herhangi mod grubunda birden fazla map banlayamaz. (NoMod haricinde).**
 4. Beatmap seçim döngüsü, her kaptanın map havuzundan birer tane map seçmesi şeklinde olacaktır.
-5. Her kaptan #multiplayer'da bir kereliğine "!roll" komutunu kullanmalıdır.
+5. Her kaptan `#multiplayer` kanalında bir kereliğine `!roll` komutunu kullanmalıdır.
    - En yüksek sayıyı yuvarlayan kaptan ilk hangi takımın **map seçimi** yapacağına karar verir.
    - En düşük sayıyı yuvarlayan kaptan ilk hangi takımın **yasaklayacağına** karar verir.
    - **Çeyrek finallerden itibaren ilk yasaklayan takım bir kere map yasaklayacak, ondan sonra diğer takım iki map ve en sonunda ilk takım son yasaklamasını yapacaktır.**
