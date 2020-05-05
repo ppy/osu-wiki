@@ -537,7 +537,7 @@ Pazar, 17 Kasım 2019:
 3. Tüm Çift Eleme Aşamaları ya Cumartesi ya da Pazar günü, UTC+0 zaman dilimine göre oynanacaktır.
 4. Planlama, Turnuva Yönetimi tarafından ayarlanacaktır. Maç zamanları, aşamanın ilk maçından önceki Pazar günü yayınlanacaktır. Turnuva Yönetimi, planlamayı katılımcıların zaman dilimlerine uyumlu olacak şekilde oluşturmaya çalışacaktır.
    - Çeyrek final ve sonrasındaki aşamalarda, takım kaptanları, sonraki haftada belirli bir zaman aralığının onlar için uygun olmadığını düşünüyorlarsa Turnuva Yönetimini bilgilendirebilir.
-5. **Yeniden düzenlemeler ancak iki takım da o aşamanın ilk maçından en az 48 saat önce belli bir zamana karar verdilerse değerlendirilecektir.**
+5. **Maç zamanlarının yeniden belirlenmesi yalnızca iki takımın da maçtan en az 48 saat öncesine kadar ortak bir zamanda anlaşmaları durumunda değerlendirilecektir.**
 6. **Yeniden düzenlemeler sadece takım kaptanları tarafından istenebilir.**
    - **Kesinlikle ihtiyacınız olmadıkça yeniden düzenleme istemeyin. Turnuva görevlilerinin isteği reddetme hakkı vardır.**
 7. Kendi takım arkadaşlarının gelip gelmemesinden Kaptanlar sorumludur. Arttırılmış takım üyesi sayısı, her takım her maça en az dört oyuncu sağlayabilsin diye vardır. Eğer takımlar maç için dört oyuncu sağlayamazsa, maç kaybedilmiş sayılacaktır.
