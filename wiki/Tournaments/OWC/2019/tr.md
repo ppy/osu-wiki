@@ -321,7 +321,7 @@ Pazar, 15 Aralık 2019:
 | Takım 1 | | | Takım 2 | Maç bağlantısı |
 | --: | :-: | :-: | :-- | :-- |
 | Almanya ![][flag_DE] | 4 | **7** | ![][flag_KR] **Güney Kore** | [#1](https://osu.ppy.sh/community/matches/56997003) |
-| **Amerika** ![][flag_US] | **7** | 0 | ![][flag_GB] Birleşik Krallık | [#1](https://osu.ppy.sh/community/matches/57007868) |
+| **Amerika Birleşik Devletleri** ![][flag_US] | **7** | 0 | ![][flag_GB] Birleşik Krallık | [#1](https://osu.ppy.sh/community/matches/57007868) |
 
 ### Yarı Final
 
