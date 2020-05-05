@@ -411,7 +411,7 @@ Cumartesi, 16 Kasım 2019:
 | **Hollanda** ![][flag_NL] | **5** | 2 | ![][flag_SG] Singapur | [#1](https://osu.ppy.sh/community/matches/56303396) |
 | **Rusya Federasyonu** ![][flag_RU] | **5** | 2 | ![][flag_AT] Avusturya | [#1](https://osu.ppy.sh/community/matches/56305124) |
 | **Polonya** ![][flag_PL] | **5** | 1 | ![][flag_ES] İspanya | [#1](https://osu.ppy.sh/community/matches/56309238) |
-| **Amerika** ![][flag_US] | **5** | 1 | ![][flag_TR] Türkiye | [#1](https://osu.ppy.sh/community/matches/56310902) |
+| **Amerika Birleşik Devletleri** ![][flag_US] | **5** | 1 | ![][flag_TR] Türkiye | [#1](https://osu.ppy.sh/community/matches/56310902) |
 | **Brezilya** ![][flag_BR] | **5** | 1 | ![][flag_BE] Belçika | [#1](https://osu.ppy.sh/community/matches/56312743) |
 
 Pazar, 17 Kasım 2019:
