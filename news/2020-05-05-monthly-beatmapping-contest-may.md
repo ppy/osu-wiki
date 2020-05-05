@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest: May"
-date: 2020-05-05 12:00:00 +0000
+date: 2020-05-05 17:00:00 +0000
 ---
 
 Kicking off the month with yet another beatmapping contest! Check out last month's finalists and design a stunning entry to compete this month.
