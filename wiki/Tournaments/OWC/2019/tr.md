@@ -456,7 +456,7 @@ Pazar, 17 Kasım 2019:
 18. **Sıralama metodu, tüm takımlar Eleme maçlarını oynadıktan sonra açıklanacaktır.**
 19. Beklenmedik olaylar Turnuva Yönetimi tarafınca ele alınacaktır. Hakemler duruma bağlı olarak daha toleranslı olabilirler. Bu onların inisiyatifindedir.
 20. Turnuva kurallarını bozmanın cezaları şunlardır:
-    - Malum oyuncuların bir beatmap süresince elenmesi
+    - Malum oyuncuların bir beatmap süresince oyun dışı bırakılması
     - Malum oyuncuların tüm maç boyu elenmesi
     - İlgili takımın Hükmen Mağlup ilan edilmesi
     - Tüm turnuvadan diskalifiye olmak
