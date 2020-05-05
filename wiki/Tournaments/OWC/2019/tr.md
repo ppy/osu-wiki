@@ -305,7 +305,7 @@ Pazar, 22 Aralık 2019:
 
 | Takım 1 | | | Takım 2 | Maç bağlantısı |
 | --: | :-: | :-: | :-- | :-- |
-| **Amerika** ![][flag_US] | **7** | 0 | ![][flag_KR] Güney Kore | [#1](https://osu.ppy.sh/community/matches/57155016) |
+| **Amerika Birleşik Devletleri** ![][flag_US] | **7** | 0 | ![][flag_KR] Güney Kore | [#1](https://osu.ppy.sh/community/matches/57155016) |
 
 ### Final
 
