@@ -493,7 +493,7 @@ Pazar, 17 Kasım 2019:
 11. Kaybedenler kulvarındaki takımlar Çeyrek finallerden itibaren her hafta sonu en az 2 maç oynamak zorundadır.
 12. **Kazanma şartları:**
     - Round of 32 ve Round of 16, "best of 9" olarak oynanacaktır (ilk 5 puanı alan takım kazanır).
-    - Çeyrek ve yarı final, "best of 11" olarak oynanacaktır (ilk 6 puanı alan takım kazanır).
+    - Çeyrek ve Yarı Final, "11'in en iyisi" olarak oynanacaktır (ilk 6 puanı alan takım kazanır).
     - Final ve Büyük final, "best of 13" olarak oynanacaktır (ilk 7 puanı alan takım kazanır).
 
 ### Maç talimatları
