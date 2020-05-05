@@ -535,7 +535,7 @@ Pazar, 17 Kasım 2019:
 2. Elemelerdeki maçlar turnuva çalışanları tarafından sunulan belirli zaman aralıklarında olacaktır. Her takım hangi zaman aralığında oynamak istediğini seçmekte özgürdür.
    - **Kasım'ın 8'ine kadar zaman aralığı seçmeyen takım diskalifiye edilmiş sayılacaktır.**
 3. Tüm Çift Eleme Aşamaları ya Cumartesi ya da Pazar günü, UTC+0 zaman dilimine göre oynanacaktır.
-4. Planlama, Turnuva Yönetimi tarafından ayarlanacaktır. Zamanlar, aşamanın ilk maçından önceki Pazar günü yayınlanacaktır. Turnuva Yönetimi, planlamayı katılımcıların zaman dilimlerine uyumlu olacak şekilde oluşturmaya çalışacaktır.
+4. Planlama, Turnuva Yönetimi tarafından ayarlanacaktır. Maç zamanları, aşamanın ilk maçından önceki Pazar günü yayınlanacaktır. Turnuva Yönetimi, planlamayı katılımcıların zaman dilimlerine uyumlu olacak şekilde oluşturmaya çalışacaktır.
    - Çeyrek final ve sonrasındaki aşamalarda, takım kaptanları, sonraki haftada belirli bir zaman aralığının onlar için uygun olmadığını düşünüyorlarsa Turnuva Yönetimini bilgilendirebilir.
 5. **Yeniden düzenlemeler ancak iki takım da o aşamanın ilk maçından en az 48 saat önce belli bir zamana karar verdilerse değerlendirilecektir.**
 6. **Yeniden düzenlemeler sadece takım kaptanları tarafından istenebilir.**
