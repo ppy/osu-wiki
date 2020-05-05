@@ -488,7 +488,7 @@ Pazar, 17 Kasım 2019:
 6. Her takımın, her map için 4 oyuncusunun olması zorunludur. Oyuncular map oynandıktan sonra değiştirilebilirler.
 7. Map havuzunun birinci ve ikinci oynanışı arasında 5 dakikalık bir mola olacaktır.
 8. Tüm takımlar elemelerini ayrı odalarda oynayacaklar. *Takımların, sıra manipülasyonunun engellenmesi amacıyla skorlarını yayınlamamalarını ve paylaşmamalarını öneriyoruz.*
-9. İlk 32'de sıralanan takımlar Round of 32'ye ilerleyecektir.
+9. İlk 32'de sıralanan takımlar Son 32 Turuna ilerleyecektir.
 10. Eleme sürecinde, Çifte Eleme aşaması oynanacaktır. Bu, kazanan sonraki aşamaya, kaybeden takımsa Kaybedenler kulvarından devam edecektir anlamına geliyor.
 11. Kaybedenler kulvarındaki takımlar Çeyrek finallerden itibaren her hafta sonu en az 2 maç oynamak zorundadır.
 12. **Kazanma şartları:**
