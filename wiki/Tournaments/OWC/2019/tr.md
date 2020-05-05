@@ -460,7 +460,7 @@ Pazar, 17 Kasım 2019:
     - Malum oyuncuların tüm maç boyu elenmesi
     - İlgili takımın Hükmen Mağlup ilan edilmesi
     - Tüm turnuvadan diskalifiye olmak
-    - Affınıza kadar, şu anki ve sonraki resmi turnuvalardan diskalifiye olmak
+    - Temyiz edilene dek, şimdiki ve sonraki resmi turnuvalardan diskalifiye olmak
     - Bu kurallarda değişiklik yapıldığında herkese duyurulacaktır.
 
 ### Turnuvaya kayıt 
