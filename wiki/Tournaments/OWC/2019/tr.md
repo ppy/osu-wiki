@@ -507,7 +507,7 @@ Pazar, 17 Kasım 2019:
 5. Her kaptan #multiplayer'da bir kereliğine "!roll" komutunu kullanmalıdır.
    - En yüksek sayıyı yuvarlayan kaptan ilk hangi takımın **map seçimi** yapacağına karar verir.
    - En düşük sayıyı yuvarlayan kaptan ilk hangi takımın **banlayacağına** karar verir.
-   - **Çeyrek finallerden itibaren ilk banlayan takım bir kere map banlayacak, ondan sonra diğer takım iki map ve en sonunda ilk takım son banını yapacaktır.**
+   - **Çeyrek finallerden itibaren ilk yasaklayan takım bir kere map yasaklayacak, ondan sonra diğer takım iki map ve en sonunda ilk takım son yasaklamasını yapacaktır.**
 6. Kaptanlar herhangi bir modun havuzundan özgürce seçim yapabilir.
    - Beraberlik durumunda, tiebreaker beatmapi oynanacaktır.
 7. Eleme aşamasının sonucu bir istatistik çizelgesi ile birlikte yayınlanacaktır.
