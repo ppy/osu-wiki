@@ -371,7 +371,7 @@ Pazar, 1 Aralık 2019:
 | **Romanya** ![][flag_RO] | 5 | **6** | ![][flag_DE] **Almanya** | [#1](https://osu.ppy.sh/community/matches/56666462) |
 | **Kanada** ![][flag_CA] | 2 | **6** | ![][flag_RU] **Rus Federasyonu** | [#1](https://osu.ppy.sh/community/matches/56668684) |
 
-### Round of 16
+### Son 16 Turu
 
 Cumartesi, 23 Kasım 2019:
 
