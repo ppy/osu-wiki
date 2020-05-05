@@ -434,7 +434,7 @@ Pazar, 17 Kasım 2019:
 1. osu! Dünya Kupası, osu! oyun modunda oynanan ülke tabanlı takım sistemli bir turnuvadır.
    - Bu yarışma 4'e 4 kapışmalı olarak planlanmış olsa da, bu durum katılım sayısına göre değişebilir.
 2. Beatmap skorları Score V2 ile hesaplanacaktır.
-3. Her raundun Beatmapleri o mapleri seçen kişiler tarafınca turnuvanın yer alacağı tarihin öncesindeki Pazar günü açıklanacaktır. Sadece bu beatmapler maç sırasında oynanacaktır.
+3. Her raundun beatmapleri o mapleri seçen kişiler tarafınca turnuvanın yer alacağı tarihin öncesindeki Pazar günü açıklanacaktır. Sadece bu beatmapler maç sırasında oynanacaktır.
    - Bir beatmap Tiebreaker olarak seçilecektir. Bu beatmap sadece beraberlik durumunda oynanacaktır. **Bu kurala tek istisna Eleme turundaki beatmap havuzudur.**
 4. Maç Zamanlamaları, Turnuva Yönetimi tarafından belirlenecektir (bknz: [Planlama Talimatları](#scheduling-instructions)).
 5. Eğer maça bakacak herhangi bir hakem veya başka çalışan yoksa maç ertelenecektir.
