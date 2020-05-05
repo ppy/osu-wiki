@@ -331,7 +331,7 @@ Cumartesi, 7 Aralık 2019:
 | --: | :-: | :-: | :-- | :-- |
 | Avustralya ![][flag_AU] | 3 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/56794699) |
 | Tayvan ![][flag_TW] | 4 | **6** | ![][flag_KR] **Güney Kore** | [#1](https://osu.ppy.sh/community/matches/56796751) |
-| **Amerika** ![][flag_US] | **6** | 0 | ![][flag_RU] Rus Federasyonu | [#1](https://osu.ppy.sh/community/matches/56805726) |
+| **Amerika Birleşik Devletleri** ![][flag_US] | **6** | 0 | ![][flag_RU] Rusya Federasyonu | [#1](https://osu.ppy.sh/community/matches/56805726) |
 | Romanya ![][flag_RO] | 4 | **6** | ![][flag_BR] **Brezilya** | [#1](https://osu.ppy.sh/community/matches/56805696) |
 | **Kanada** ![][flag_CA] | **6** | 3 | ![][flag_PL] Polonya | [#1](https://osu.ppy.sh/community/matches/56812733) |
 
