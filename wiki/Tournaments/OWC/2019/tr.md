@@ -442,7 +442,7 @@ Pazar, 17 Kasım 2019:
 7. Beatmap'in berabere bitmesi durumunda, map oynanmamış sayılacak ve tekrar oynanacaktır.
 8. Eğer bir oyuncunun bağlantısı koparsa, o oyuncunun skoru takımın toplam skoru içine eklenmeyecektir.
    - Maç başlamasından 30 saniye sonra veya beatmap uzunluğunun %25'i sonrasında (hangisi ilk önce gerçekleşirse) oyun bitirilebilir ve/veya tekrar oynanabilir. Bu seçim hakemin inisiyatifindedir.
-9. Map oynanmamış sayılmadığı sürece seçilen Beatmapler aynı maçta tekrardan oynanamaz.
+9. Oynanmamış sayılmadığı sürece seçilen beatmapler aynı maçta tekrar oynanamaz.
 10. Eğer gerekli olan minimum oyuncu sayısından az oyuncu katılırsa, maç en fazla 10 dakika kadar ertelenebilir.
 11. Maç sırasında limit olmadan oyuncu değiştirilebilir.
     - **Mapin tekrar oynanması gerektiği durumlarda oyuncu değişimine izin yoktur. Hakemin inisiyatifine bağlı olarak, önceki oyuncular bir sebepten ötürü oynayamıyorsa istisna oluşturulabilir.**
