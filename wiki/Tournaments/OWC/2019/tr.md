@@ -503,7 +503,7 @@ Pazar, 17 Kasım 2019:
    - Oda adında bahsedilen ilk takım mutlaka kırmızı takım ve ikinci olarak bahsedilen takım ise mutlaka mavi takım olmalıdır.
 2. Oyuncular iki taneye kadar ısınma beatmapleri seçebilirler. Şüpheli beatmap içeriği olan mapler yasaktır. Tüm beatmapler osu! moduna özel mapler olmalıdır.
 3. Her kaptan Son 16 Turu ve Son 32 Turunun havuzlarından seçilecek maplerden **birer tane** yasaklayabilir. Bu maplerin tüm maç boyunca herhangi takım tarafından seçilmesi yasaktır.
-   - **Çeyrek finallerden itibaren ban sayısı ikiye çıkacaktır. Yine de, her takım herhangi mod grubunda birden fazla map banlayamaz. (NoMod haricinde).**
+   - **Çeyrek finallerden itibaren yasaklama sayısı ikiye çıkacaktır. Yine de, her takım herhangi mod grubunda birden fazla map banlayamaz. (NoMod haricinde).**
 4. Beatmap seçim döngüsü, her kaptanın map havuzundan birer tane map seçmesi şeklinde olacaktır.
 5. Her kaptan #multiplayer'da bir kereliğine "!roll" komutunu kullanmalıdır.
    - En yüksek sayıyı yuvarlayan kaptan ilk hangi takımın **map seçimi** yapacağına karar verir.
