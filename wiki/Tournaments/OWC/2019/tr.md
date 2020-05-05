@@ -467,7 +467,7 @@ Pazar, 17 Kasım 2019:
 
 1. Kendi ülkesinin takımında oynamak isteyen her oyuncu kişisel olarak kayıt olacaktır.
    - Turnuva Yönetimi ülkenin takımına girecek potansiyel adayların listesini oluşturacaktır.
-   - Turnuva Yönetimi geçici de olsa ülkenin takım kaptanı olacak bir kişi seçecektir.
+   - Turnuva Yönetimi, geçici de olsa, ülkenin takım kaptanlığı için bir aday belirleyecektir.
    - Kaptan seçilen kişi kendi ülkesinin aday listesinden seçeceği kişilerle takımını kurabilir.
 2. Geçerli ve ciddi kayıtları garanti altına almak için her kayıt olan oyuncu Turnuva Yönetimince kontrol edilecektir.
    - Kayıt olan tüm kullanıcıların kendi ülkelerinin aday listesine girişi yapılacaktır.
