@@ -399,7 +399,7 @@ Pazar, 24 Kasım 2019:
 | **Brezilya** ![][flag_BR] | 2 | **5** | ![][flag_RU] **Rus Federasyonu** | [#1](https://osu.ppy.sh/community/matches/56501739) |
 | **Polonya** ![][flag_PL] | 2 | **5** | ![][flag_RO] **Romanya** | [#1](https://osu.ppy.sh/community/matches/56503201) |
 
-### Round of 32
+### Son 32 Turu
 
 Cumartesi, 16 Kasım 2019:
 
