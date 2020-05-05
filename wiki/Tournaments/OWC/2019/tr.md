@@ -457,7 +457,7 @@ Pazar, 17 Kasım 2019:
 20. Turnuva kurallarını bozmanın cezaları şunlardır:
     - Malum oyuncuların bir beatmap süresince elenmesi
     - Malum oyuncuların tüm maç boyu elenmesi
-    - Maçı oynanmadan kaybetmiş ilan etmek
+    - İlgili takımın Hükmen Mağlup ilan edilmesi
     - Tüm turnuvadan diskalifiye olmak
     - Affınıza kadar, şu anki ve sonraki resmi turnuvalardan diskalifiye olmak
     - Bu kurallarda değişiklik yapıldığında herkese duyurulacaktır.
