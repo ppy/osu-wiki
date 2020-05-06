@@ -149,6 +149,15 @@ Unofficial tournaments/competitions hosted by the communities.
 | [nik's Winter Tour 2019](NT/NWT_2019) | 2019-01-19 | 2019-03-10 | ![][flag_US] [Fish-](https://osu.ppy.sh/users/3318654) | ![][flag_AU] [loveleft](https://osu.ppy.sh/users/9240047) | ![][flag_DE] [\[Lucky\]](https://osu.ppy.sh/users/1303685) |
 | [nik's Spring/Summer Tour 2019](NT/NSST_2019) | 2019-04-27 | 2019-06-29 | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) (Tier 1), ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) (Tier 2) | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) (Tier 1), ![][flag_KR] [\_Suyong](https://osu.ppy.sh/users/7295276) (Tier 2) | ![][flag_US] [im a fancy lad](https://osu.ppy.sh/users/4908650) (Tier 2), ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667) (Tier 2) |
 
+### ![](/wiki/shared/mode/osu.png) 112's Tournaments
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| 112's Winter Tournament 2018 | 2018-01-15 | 2018-02-25 | Sucuk | Bezelyeli Heyronii | What's your Nem |
+| 112's Summer Tournament 2018 | 2018-06-03 | 2018-08-12 | FT RakotGaming | osu! meme team | Alemin Hızlı Delikanlıları |
+| 112's Winter Tournament 2019 | 2018-12-09 | 2019-02-02 | Beceriksizler 2.0 | Kumsal Lazanyası | Subscribe To Pewdiepie |
+| [112's Summer Tournament 2019](112/Summer_2019) | 2019-06-05 | 2019-08-22 | egemen ve aimless | KaFein | Kwk Yelleri |
+| 112's Corona Tournament | 2020-03-31 | 2020-05-23 | *TBD* | *TBD* | *TBD* |
 ### ![](/wiki/shared/mode/osu.png) osu! Asia Oceania Tournament
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
