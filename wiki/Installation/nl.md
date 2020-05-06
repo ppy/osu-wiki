@@ -6,7 +6,7 @@ Deze pagina legt je uit hoe je osu! werkende kunt krijgen op je Windows apparaat
 
 ## Minimale systeemvereisten
 
-- .NET framework 4+ (De osu! installer download dit voor je, mocht je hier problemen mee hebben, dan kun je [het hier vinden](https://www.microsoft.com/en-us/download/details.aspx?id=48130))
+- .NET framework 4+ (De osu! installer downloadt dit voor je, mocht je hier problemen mee hebben, dan kun je [het hier vinden](https://www.microsoft.com/en-us/download/details.aspx?id=48130))
 - Een redelijke grafische kaart.
 
 ## Het installeren van osu!
@@ -32,7 +32,7 @@ Er zijn twee manieren waarop je beatmappen toe kunt voegen aan osu!, via de webs
 1. Ga naar de [beatmap index pagina](https://osu.ppy.sh/beatmapsets) en log in op de website.
 2. Vind een lied dat je graag zou willen spelen.
 3. Klik op het download icoon en sla dit bestand op op je computer.
-4. Vind en op het beatmapset bestand. Dit bestand heeft een `.osz` extensie.
+4. Vind en open het beatmapset bestand. Dit bestand heeft een `.osz` extensie.
    - Als alternatief kun je de beatmapset file ook in de `Songs` directory van je osu! installatie plaatsen.
 5. osu! zal de rest voor jou doen en automatisch de beatmapsets laden.
    - Mocht je, om een of andere reden, de beatmapsets niet zien, druk dan op `F5` in [Song Selection](/wiki/Interface#song-selection-screen) om je beatmappen opnieuw te verwerken.
@@ -41,7 +41,7 @@ Er zijn twee manieren waarop je beatmappen toe kunt voegen aan osu!, via de webs
 
 *Opmerking: Je moet een osu!supporter tag en een internetverbinding om gebruik te kunnen maken van osu!direct.*
 
-1. Open osu!, en klik op de osu!direct knop aan de rechterkant van het hoofdmenu.
+1. Open osu! en klik op de osu!direct knop aan de rechterkant van het hoofdmenu.
 2. Vind een lied dat je graag zou willen spelen.
 3. Dubbelklik het lied in de lijst of klik `Download` aan de rechterkant om het lied te downloaden.
    - Als je de video die bij een beatmapset zit, niet hoeft te hebben klik dan op `DL NoVideo`.
@@ -60,7 +60,7 @@ Er zijn twee manieren waarop je beatmappen toe kunt voegen aan osu!, via de webs
      2. osu! verwerkt vervolgens de skin en selecteert deze automatisch voor jou.
    - Als de skin is gecomprimeerd (met de extensie `.7z`, `.rar`, `.zip`, etc.):
      1. Extract de skin.
-     2. Verplaats de skin folder naar de `Skins` directory van je osu! installatie plaats.
-     3. Als osu! momenteel is uitgevoerd zal de skin pas verschijnen in de lijst als je drukt op `Ctrl` + `Alt` + `Shift` + `S`.
-     4. In osu!, ga naar de [Options](/wiki/Options) en zoek voor `Skin`.
+     2. Verplaats de skin folder naar de `Skins` directory van je osu! installatieplaats.
+     3. Als osu! momenteel geopend is, zal de skin pas verschijnen in de lijst als je drukt op `Ctrl` + `Alt` + `Shift` + `S`.
+     4. Open de [Options](/wiki/Options) in osu! en zoek naar `Skin`.
      5. Scroll naar beneden tot je de `Current skin:` optie ziet. Selecteer vervolgens de skin die je zojuist hebt gedownload.
