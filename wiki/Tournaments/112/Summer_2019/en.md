@@ -548,7 +548,7 @@ Monday, 22 July 2019:
 2. Players can select up to two warm-up beatmaps that should not exceed 4 minutes. Players are free to not to pick a warm-up, but have to play if the opponent wants to.
 3. After the warm-ups, players will be asked a simple question. Players are given 30 seconds to answer the question, with only 1 chance to answer.
         - The player/team with correct answer **picks** first.
-        - The player/team with incorrect answer **bans** first. 
+        - The player/team with incorrect answer **bans** first.
         - If both players/teams answer correctly, the winner is decided upon the first to answer according to the referee’s screen.
         - **From Quarterfinals onwards the team that bans first will ban one map, then the other team will ban two maps, then finally the first team will make their final ban.**
 4. During Group stages, each player can only ban 1 beatmap.
