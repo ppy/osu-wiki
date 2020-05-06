@@ -274,7 +274,7 @@ After Group matches, those who get through to Quarter Finals are obliged to form
   - [Antiserum & Mayhem – Cry Baby (Shadren) \[Extra\]](https://osu.ppy.sh/beatmapsets/565136#osu/1231936)
   - [Susumu Hirasawa - Parade (Real1) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/8487#osu/34819)
 - Tiebreaker
-- **[Camellia – Controlled dive (Side) \[Sequence Break\]](https://osu.ppy.sh/beatmapsets/320058#osu/712278)**
+  - **[Camellia – Controlled dive (Side) \[Sequence Break\]](https://osu.ppy.sh/beatmapsets/320058#osu/712278)**
 
 #### 15K+
 **[Download the map pack here!](https://112.s-ul.eu/aJfLLa0v)**
