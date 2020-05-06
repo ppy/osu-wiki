@@ -313,7 +313,7 @@ After Group matches, those who get through to Quarter Finals are obliged to form
 - HardRock
   - [Imperial Circus Dead Decadence – Danzai No Honoo To Koibito-Tachi No Rondo (Gottagof4st) \[Piercing Pain\]](https://osu.ppy.sh/beatmapsets/961431#osu/2012740)
 - DoubleTime
-- [Unlucky Morpheus – Phantom Blood (IsomirDiAngelo) \[Azzedd’s Light Insane\]](map deleted – insert dl link here)
+- [Unlucky Morpheus – Phantom Blood (IsomirDiAngelo) \[Azzedd’s Light Insane\]](https://zeu.s-ul.eu/XHGcqmAq.osz)
 
 #### 15K+
 **[Download the map pack here!](https://112.s-ul.eu/VMeQXi78)**
@@ -324,7 +324,7 @@ After Group matches, those who get through to Quarter Finals are obliged to form
 - Hidden
   - [ak+q – Axium Crisis (MrSergio) \[Collapse\]](https://osu.ppy.sh/beatmapsets/812551#osu/1704329)
 - HardRock
-  - [Nekomata Master+ – encounter (Sing) \[Frey’s Expert\]](map deleted - insert dl link here)
+  - [Nekomata Master+ – encounter (Sing) \[Frey’s Expert\]](https://zeu.s-ul.eu/Lzk6C8ux.osz)
 - DoubleTime
   - [Hate vs Brilliance – Qubism (Regraz) \[Elexus’ HYPER\]](https://osu.ppy.sh/beatmapsets/524503#osu/1802266)
 
