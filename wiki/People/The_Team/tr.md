@@ -56,7 +56,7 @@ Aşağıdakiler osu!'nun sürdürülmesine yardımcı olan osu! topluluk üyeler
 
 | İsim | Rol Tanımı |
 | :-- | :-- |
-| ![][flag_US] [awp](https://osu.ppy.sh/users/2650) | Genel ev temizliği ve yardımı, chibi artist. [Barrel Roll Weekly](http://brw.twinkfish.com/) |
+| ![][flag_CA] [awp](https://osu.ppy.sh/users/2650) | Genel ev temizliği ve yardımı, chibi artist. [Barrel Roll Weekly](http://brw.twinkfish.com/) |
 | ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | Ses tasarımcısı, [resmi osu! Featured Artist'i](https://osu.ppy.sh/beatmaps/artists/2) |
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | Dünya Kupası organizatörü ve yöneticisi |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | Genel ev temizliği, topluluk yöneticisi |
@@ -66,9 +66,9 @@ Aşağıdakiler osu!'nun sürdürülmesine yardımcı olan osu! topluluk üyeler
 | ![][flag_US] Jim | Orijinal site dizaynerı. [Brand New Games](http://www.bravegamer.com/) |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Dünya Kupası organizatörü ve yöneticisi, QAT lideri, topluluk yöneticisi |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Destansı tema tasarımcısı, varsayılan tema ve iconset katkısı. [DeviantArt](https://luigihann.deviantart.com/) |
-| ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) | osu! geliştiricisi, mm sliderlarının mucidi |
+| ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | osu! geliştiricisi, mm sliderlarının mucidi |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone geliştiricisi |
-| ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | osu! geliştiricisi, Mappers' Guild organizatörü |
+| ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935) | osu! geliştiricisi, Mappers' Guild organizatörü |
 | ![][flag_US] Phil | Forum tasarımcısı |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, havalı olağandışı şeyler yapan adam |
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Orijinal pippi konsepti ve çizim dizaynerı. [DeviantArt](https://sarumaru.deviantart.com/) |
@@ -80,6 +80,7 @@ Aşağıdakiler osu!'nun sürdürülmesine yardımcı olan osu! topluluk üyeler
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
