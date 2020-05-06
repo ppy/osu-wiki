@@ -313,7 +313,7 @@ After Group matches, those who get through to Quarter Finals are obliged to form
 - HardRock
   - [Imperial Circus Dead Decadence – Danzai No Honoo To Koibito-Tachi No Rondo (Gottagof4st) \[Piercing Pain\]](https://osu.ppy.sh/beatmapsets/961431#osu/2012740)
 - DoubleTime
-- [Unlucky Morpheus – Phantom Blood (IsomirDiAngelo) \[Azzedd’s Light Insane\]](https://zeu.s-ul.eu/XHGcqmAq.osz)
+  - [Unlucky Morpheus – Phantom Blood (IsomirDiAngelo) \[Azzedd’s Light Insane\]](https://zeu.s-ul.eu/XHGcqmAq.osz)
 
 #### 15K+
 **[Download the map pack here!](https://112.s-ul.eu/VMeQXi78)**
