@@ -75,7 +75,7 @@ The osu!taiko World Cup 2017 was run by various community members by distributin
 | ![][flag_KR] | **South Korea** | **[Runa](https://osu.ppy.sh/users/4643294)**, [Jonah](https://osu.ppy.sh/users/5509009), [Quizmaegi](https://osu.ppy.sh/users/2228401), [Ni-Sokkususu](https://osu.ppy.sh/users/1807472), [bbj0920](https://osu.ppy.sh/users/87546), [Bonehead](https://osu.ppy.sh/users/4045475) |
 | ![][flag_ES] | **Spain** | **[Raiden](https://osu.ppy.sh/users/2239480)**, [Maitroxsk](https://osu.ppy.sh/users/4875451), [LZD](https://osu.ppy.sh/users/224335), [Hanjamon](https://osu.ppy.sh/users/1703330), [AlvaroYL](https://osu.ppy.sh/users/6333166), [TheMadnessLady](https://osu.ppy.sh/users/3928960) |
 | ![][flag_SE] | **Sweden** | **[Raphalge](https://osu.ppy.sh/users/3918650)**, [Eiuh](https://osu.ppy.sh/users/4653213), [Tanaka](https://osu.ppy.sh/users/1897905), [Karl-Johan](https://osu.ppy.sh/users/6686840) |
-| ![][flag_TW] | **Taiwan** | **[S a n d](https://osu.ppy.sh/users/676578)**, [stu00608](https://osu.ppy.sh/users/1977606), [monkeydluffy3u4](https://osu.ppy.sh/users/2277798), [-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910), [X a v y](https://osu.ppy.sh/users/3738344), [PING](https://osu.ppy.sh/users/818907)  |
+| ![][flag_TW] | **Taiwan** | **[S a n d](https://osu.ppy.sh/users/676578)**, [stu00608](https://osu.ppy.sh/users/1977606), [monkeydluffy3u4](https://osu.ppy.sh/users/2277798), [-\[ ix Ishida xi \]-](https://osu.ppy.sh/users/242910), [X a v y](https://osu.ppy.sh/users/3738344), [PING](https://osu.ppy.sh/users/818907) |
 | ![][flag_UA] | **Ukraine** | **[Anny](https://osu.ppy.sh/users/249094)**, [Don Omar](https://osu.ppy.sh/users/689414), [gavnono](https://osu.ppy.sh/users/1625581) |
 | ![][flag_GB] | **United Kingdom** | **[Grimbow](https://osu.ppy.sh/users/1387762)**, [Hydria](https://osu.ppy.sh/users/808176), [goheegy](https://osu.ppy.sh/users/8057655), [Mekelemembe](https://osu.ppy.sh/users/3289191), [abrian159](https://osu.ppy.sh/users/1159051), [RileySpook](https://osu.ppy.sh/users/7266040) |
 | ![][flag_US] | **United States** | **[Michiyo](https://osu.ppy.sh/users/5991961)**, [Shyguy](https://osu.ppy.sh/users/178038), [Das](https://osu.ppy.sh/users/3165416), [Protonori](https://osu.ppy.sh/users/6049990), [JDrago14](https://osu.ppy.sh/users/7690078), [Catgirl](https://osu.ppy.sh/users/2771995) |
@@ -400,7 +400,7 @@ The osu!taiko World Cup 2017 was run by various community members by distributin
 
 | Stage | Match ID |
 | --: | :-- |
-| Round of 16 |  A, B, C, D, E, F, G, H |
+| Round of 16 | A, B, C, D, E, F, G, H |
 | Quarter-finals | I, J, K, L & R, S, T, U |
 | Semi-finals | M, N & V, W, X, Y, Z, AA |
 | Finals - Week 1 | O & AB, AC, AD, AE |

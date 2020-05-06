@@ -113,7 +113,7 @@ Arrangement de touches *Symétrique* (Pour le style *DJMAX*)
 
 | Touche | G | C | D |
 | :-: | :-- | :-: | --: |
-| 1K | - | K5 | |
+| 1K | - | K5 |  |
 | 2K | K4 | - | K6 |
 | 3K | K4 | K5 | K6 |
 | 4K | K3, K4 | - | K6, K7 |

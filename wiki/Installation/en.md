@@ -1,6 +1,6 @@
 # Installation
 
-*See also: [Installation/macOS](/wiki/Installation/macOS)*
+*See also: [Installation on macOS](/wiki/Installation/macOS)*
 
 This page will tell you how to get osu! working on your Windows device. The [osu!academy](/wiki/osu!academy) has a [video tutorial](https://www.youtube.com/watch?v=0V5GwzmMhpU) that explains how to install osu! on Windows.
 

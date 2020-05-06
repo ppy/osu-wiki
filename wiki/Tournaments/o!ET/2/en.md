@@ -661,7 +661,7 @@ This competition has come to an end and resulted in the following podium:
 | Sunday, 2019-03-10 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **1 friet 2 patat** | **5** | 0 | K-word | [#1](https://osu.ppy.sh/community/matches/50177688) |
-| Lux Aeterna  | 0 | **5** | **nh9mju0** | [#1](https://osu.ppy.sh/community/matches/50178907) |
+| Lux Aeterna | 0 | **5** | **nh9mju0** | [#1](https://osu.ppy.sh/community/matches/50178907) |
 | Almost Allies | 4 | **6** | **blasenmann regelt** | [#1](https://osu.ppy.sh/community/matches/50178915) |
 
 #### Middle Bracket
