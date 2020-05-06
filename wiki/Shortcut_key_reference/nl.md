@@ -6,11 +6,11 @@ tags:
   - shortcuts
 ---
 
-# Sneltoets combinaties
+# Sneltoetscombinaties
 
-Osu! heeft een groot aantal sneltoets combinaties die kunnnen worden gebruikt in-game of wanneer je op een bepaalt scherm bent. De combinaties en hun functies zijn hieronder vermeld.
+Osu! heeft een groot aantal sneltoetscombinaties die je in-game kunt gebruiken of wanneer je op een bepaalt scherm bent. De combinaties en hun functies zijn hieronder vermeld.
 
-*Opmerking: Dit artikel geeft de standaard sneltoets combinaties weer. Je kunt enkele hiervan veranderen in de [opties](/wiki/Options).*
+*Opmerking: Dit artikel geeft de standaard sneltoetscombinaties weer. Je kunt enkele hiervan wijzigen in de [opties](/wiki/Options).*
 
 ## Game-wide
 
@@ -19,12 +19,12 @@ Deze combinaties werken overal:
 | Sneltoets | Actie |
 | :-- | :-- |
 | `Alt` + `F4` | Sluit de game client af (zonder waarschuwing). Als je een beatmap aan het spelen bent of in de beatmap editor zit keer je terug naar het liedjes-selectie scherm. Als je in osu!direct zit, keer je terug naar het hoofdmenu. |
-| `Alt` + `Up/Down Arrow` | Veranderd het hoofdvolume. Gebruik de linker- en rechter pijlen om te switchen naar effect en muziek volumes. |
-| `Ctrl` + `Alt` + `Shift` + `S` | Herlaad de huidige skin. Als je deze combinatie indrukt tijdens gameplay, zal dit gebeuren nadat je terugkeert naar het liedjes-selectie scherm. |
+| `Alt` + `Up/Down Arrow` | Verandert het hoofdvolume. Je kunt de linker- en rechter pijltjestoetsen gebruiken om te schakelen naar effect en muziek volumes. |
+| `Ctrl` + `Alt` + `Shift` + `S` | Herlaadt de huidige skin. Als je deze combinatie indrukt terwijl je aan het spelen bent, herlaadt je skin pas nadat je terugkeert naar het liedjes-selectiescherm. |
 | `Ctrl` + `F11` | Toont/verbergt de frame times graph. Druk op `Ctrl` om deze te pauzeren. |
-| `F7` | Cirkel door de frame rate limiters. |
-| `F8` | Toont/verbergt de chat window |
-| `F9` | Toont/verbergt de uitgebreide chat window. |
+| `F7` | Wissel van frameratelimiet. |
+| `F8` | Toont/verbergt het chatscherm |
+| `F9` | Toont/verbergt het uitgebreide chatscherm. |
 | `F10` | Zet alle muisknoppen aan/uit (behalve het muiswiel, deze is altijd aan). |
 | `F12` | Neemt een screenshot. Klik op de dialoog om de screenshots folder te openen. |
 | `Shift` + `F12` | Neemt een screenshot en upload deze naar de server. De screenshot wordt ook lokaal opgeslagen. De screenshot wordt ook geopent in je web browser. |
@@ -170,9 +170,9 @@ De volgende combinaties werken overal in de beatmap editor:
 | `Ctrl` + `N` | Vraagt of je alle hit-objecten wilt verwijderen. |
 | `Ctrl` + `Up/Down Arrow` | Verhoogt/verlaagt de afspeelsnelheid met 25%. |
 | `Ctrl` + `Shift` + `Up/Down Arrow` | Verhoogt/verlaagt de afspeelsnelheid met 5%. |
-| `F1` | Switcht naar de [compose](/wiki/Compose) modus. |
-| `F2` | Switcht naar de [design](/wiki/Design) modus. |
-| `F3` | Switcht naar de [timing](/wiki/Timing) modus. |
+| `F1` | Schakelt naar de [compose](/wiki/Compose) modus. |
+| `F2` | Schakelt naar de [design](/wiki/Design) modus. |
+| `F3` | Schakelt naar de [timing](/wiki/Timing) modus. |
 | `F4` | Opent de [song setup](/wiki/Song_Setup) dialoog. |
 | `F5` | Opent de test modus. |
 | `F6` | Opent de timing en control points dialoog. |
@@ -211,8 +211,8 @@ De volgende combinaties werken overal in de beatmap editor:
 | `Ctrl` + `V` | Plak. |
 | `Ctrl` + `D` | Dupliceert de selectie. Dit plakt de selectie 1 maat achter het laatst geselecteerde object. |
 | `Delete` | Verwijder. |
-| `1`, `2`, `3`, of `4` | Switcht tussen plaats/selectie modus: select, circle, slider en spinner (osu!standard, osu!taiko of osu!catch). |
-| `1`, `2`, of `3` | Switcht tussen plaats/selectie modus: select, circle en hold (osu!mania). |
+| `1`, `2`, `3`, of `4` | Schakel tussen de plaats/selectie modus: select, circle, slider en spinner (osu!standard, osu!taiko of osu!catch). |
+| `1`, `2`, of `3` | Schakel tussen de plaats/selectie modus: select, circle en hold (osu!mania). |
 | `Ctrl` + `Alt` + `Mouse Wheel Up/Down` | Switch tussen plaats/selectie modus. |
 | `Ctrl` + `Shift` + `A` | Opent [AiMod](/wiki/Beatmap_Editor/AiMod). |
 
@@ -225,11 +225,11 @@ De volgende combinaties werken overal in de beatmap editor:
 | `Shift` | Toont de grid snap zolang de toets is ingedrukt. |
 | `T` | Toont/verbergt de grid snap. |
 | `G` | Cirkel door de grid size. |
-| `Ctrl` + `1` | Zet de grid size naar tiny. |
-| `Ctrl` + `2` | Zet de grid size naar small. |
-| `Ctrl` + `3` | Zet de grid size naar medium. |
-| `Ctrl` + `4` | Zet de grid size naar large. |
-| `L` | Switch tussen het vastzetten van hit-objecten. |
+| `Ctrl` + `1` | Zet de grid size op tiny. |
+| `Ctrl` + `2` | Zet de grid size op small. |
+| `Ctrl` + `3` | Zet de grid size op medium. |
+| `Ctrl` + `4` | Zet de grid size op large. |
+| `L` | Schakel tussen het vastzetten van hit-objecten. |
 
 #### Object manipulatie
 
@@ -238,9 +238,9 @@ De volgende combinaties werken overal in de beatmap editor:
 | `Q` | Selecteert/deselecteert nieuwe combo. |
 | `Ctrl` + `,` | Draait de selectie 90 graden tegen de klok in. |
 | `Ctrl` + `.` | Draait de selectie 90 graden met de klok mee. |
-| `Ctrl` + `H` | Flipt de selectie horizontaal. |
-| `Ctrl` + `J` | Flipt de selectie verticaal. |
-| `Ctrl` + `G` | Keert de selectie om. Dat wil zeggen, het eerst geselecteerde object wordt naar met de laatst geselecteerde enzovoort. |
+| `Ctrl` + `H` | Kantelt de selectie horizontaal. |
+| `Ctrl` + `J` | Kantelt de selectie verticaal. |
+| `Ctrl` + `G` | Keert de selectie om. Dat wil zeggen dat het eerst geselecteerde object wordt omgewisseld in volgorde met het laatst geselecteerde object, enzovoort. |
 | `Ctrl` + `Shift` + `R` | Draait de geslecteerde objecten met een bepaalde hoek (opent een dialoog). |
 | `Ctrl` + `Shift` + `S` | Schaalt geselecteerde hit-objecten met een bepaald nummer (opent een dialoog). |
 | `Ctrl` + `Shift` + `D` | Creert polygons met een bepaald nummer punten (opent een dialoog). |
