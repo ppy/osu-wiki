@@ -4,7 +4,7 @@ layout: main_page
 
 <!-- Do not add any empty lines inside this div. -->
 <div class="wiki-main-page__blurb">
-Welkom op de osu! wiki. Dit is een project met een groot aanbod van gerelateerde informatie over osu!
+Welkom op de osu! wiki. Dit is een project met een groot aanbod van osu! gerelateerde informatie.
 </div>
 
 
@@ -44,7 +44,7 @@ Secties: ([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Edi
 <div class="wiki-main-page-panel">
 
 
-# Een wereld van osu!
+# De wereld van osu!
 
 [Woordenlijst](/wiki/Glossary) • [Toernooien](/wiki/Tournaments) • [Skinning](/wiki/Skinning) • [Projecten](/wiki/Projects)
 
