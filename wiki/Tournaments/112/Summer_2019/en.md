@@ -137,7 +137,7 @@ After Group matches, those who get through to Quarter Finals are obliged to form
 
 ### Grand Finals
 
-**[Download the map pack here!]( https://112.s-ul.eu/yUBjoWpe)**
+**[Download the map pack here!](https://112.s-ul.eu/yUBjoWpe)**
 
 - NoMod
   - [XX:me - Escape (jonathanlfj) \[Freedom\]](https://osu.ppy.sh/beatmapsets/811119#osu/1701563)
@@ -166,7 +166,7 @@ After Group matches, those who get through to Quarter Finals are obliged to form
 
 ### Finals
 
-**[Download the map pack here!]( https://112.s-ul.eu/MBhzkPlU)**
+**[Download the map pack here!](https://112.s-ul.eu/MBhzkPlU)**
 
 - NoMod
   - [nano - Nevereverland (zhu) \[Starset’s Redemption\]](https://osu.ppy.sh/beatmapsets/621438#osu/1507079)
@@ -191,18 +191,18 @@ After Group matches, those who get through to Quarter Finals are obliged to form
   - [Maki Ligon & Karamitasu – Touhou vs. Fortnite Dance Compilation (Testo) \[Where We Dropping? Scarlet Devil Mansion\]](https://osu.ppy.sh/beatmapsets/872310#osu/1822957)
   - [Casandra – Freaks Romanticism (kwk) \[Insane\]](https://osu.ppy.sh/beatmapsets/722312#osu/1524996)
 - Tiebreaker
-  - **[paraoka feat. haru*nya - Manimani (Yales) \[Yamazakura\]](https://osu.ppy.sh/beatmapsets/714808#osu/1510461)**
+  - **[paraoka feat. haru\*nya - Manimani (Yales) \[Yamazakura\]](https://osu.ppy.sh/beatmapsets/714808#osu/1510461)**
 
 ### Semifinals
 
-**[Download the map pack here!]( https://drive.google.com/file/d/1F_eyDQuN1zKThMuWwW6wxYP1wa7m_ciY/view)**
+**[Download the map pack here!](https://drive.google.com/file/d/1F_eyDQuN1zKThMuWwW6wxYP1wa7m_ciY/view)**
 
 - NoMod
   - [PSYQUI – Still in my heart feat. Punipuni Denki (Nanashima Asami) \[I’m gonna miss you\]](https://osu.ppy.sh/beatmapsets/964997#osu/2020137)
   - [Metrik – Freefall VIP (feat. Reija Lee) (Slips) \[Immunity\]](https://osu.ppy.sh/beatmapsets/749003#osu/1577751)
   - [8284 vs wa. - Adularescence (Cherry Blossom) \[Extra\]](https://osu.ppy.sh/beatmapsets/119438#osu/306669)
   - [Rise Against – Disparity By Design (pishifat) \[Extra\]](https://osu.ppy.sh/beatmapsets/360325#osu/1768260)
-  - [kamome sano Electric Orchestra – HE4VEN ~Tengoku e Youkoso~ (Kawashiro) \[\[ -Scarlet- \]’s MAXIMUM\]](https://osu.ppy.sh/beatmapsets/597797#osu/1413421)
+  - [kamome sano Electric Orchestra – HE4VEN \~Tengoku e Youkoso\~ (Kawashiro) \[\[ -Scarlet- \]’s MAXIMUM\]](https://osu.ppy.sh/beatmapsets/597797#osu/1413421)
 - Hidden
   - [Dictate - Treason (Realazy) \[The Senate\]](https://osu.ppy.sh/beatmapsets/848976#osu/1775314)
   - [Dormir – Une mage blanche (Sulfur) \[Kalibe’s Extra\]](https://osu.ppy.sh/beatmapsets/759524#osu/1652205)
@@ -217,14 +217,14 @@ After Group matches, those who get through to Quarter Finals are obliged to form
   - [Umi no Soko kara Mermaid Prim by ARM x Komso - Gyogyotto Ningyo Bakkon Bridal (fanzhen0019) \[Hyper\]](https://osu.ppy.sh/beatmapsets/651723#osu/1382058)
 - FreeMod
   - [UNDEAD CORPORATION – Flowering Night Fever (Alheak) \[pishi’s Lunatic\]](https://osu.ppy.sh/beatmapsets/393663#osu/895806)
-  - [Kucchy vs Akky – Satori ~3rd eyes~ (DJPop) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/13827#osu/50892)
+  - [Kucchy vs Akky – Satori \~3rd eyes\~ (DJPop) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/13827#osu/50892)
   - [LukHash – 8BIT FAIRY TALE (Delis) \[Extra\]](https://osu.ppy.sh/beatmapsets/847930#osu/1773235)
 - Tiebreaker
   - **[NOMA – Brain Power Long Version (Skystar) \[Overdrive\]](https://osu.ppy.sh/beatmapsets/432822#osu/933228)**
 
 ### Quarterfinals
 
-**[Download the map pack here!]( https://112.s-ul.eu/yIQMxrAl)**
+**[Download the map pack here!](https://112.s-ul.eu/yIQMxrAl)**
 
 - NoMod
   - [Son Feci Bisiklet – Viva La Vadi (Pati) \[Green Valley\]](https://osu.ppy.sh/beatmapsets/460386#osu/986011)
@@ -234,7 +234,7 @@ After Group matches, those who get through to Quarter Finals are obliged to form
   - [la la larks – Sayonara Waltz (Mirash) \[Delis’ Insane\]](https://osu.ppy.sh/beatmapsets/813903#osu/1706995)
 - Hidden
   - [dB soundworks – The Battle of Lil’ Slugger (lolcubes) \[Insane\]](https://osu.ppy.sh/beatmapsets/28708#osu/95590)
-  - [Starlight Kukugumi – You are a ghost, I am a ghost ~Gekijou no Ghost~ (Gaia) \[Kalibe’s Extra\]](https://osu.ppy.sh/beatmapsets/941509#osu/1971493)
+  - [Starlight Kukugumi – You are a ghost, I am a ghost \~Gekijou no Ghost\~ (Gaia) \[Kalibe’s Extra\]](https://osu.ppy.sh/beatmapsets/941509#osu/1971493)
   - [HyuN – Infinity Heaven (Niva) \[Ad Infinitum\]](https://osu.ppy.sh/beatmapsets/891345#osu/1863246)
 - HardRock
   - [Fujiwara Chika (CV: Kohara Konomi) – Chikatto Chika Chika (Andrea) \[Sekai’s IQ <3\]]( https://osu.ppy.sh/beatmapsets/962521#osu/2015394)
@@ -254,7 +254,7 @@ After Group matches, those who get through to Quarter Finals are obliged to form
 ### Group Stage
 
 #### 1–15K
-**[Download the map pack here!]( https://112.s-ul.eu/6D3w5waU)**
+**[Download the map pack here!](https://112.s-ul.eu/6D3w5waU)**
 
 - NoMod
   - [Ayalis – Ai o Chikaishi Hime Kazari (handsome) \[Kyshiro’s Extra\]](https://osu.ppy.sh/beatmapsets/506155#osu/1086956)
@@ -277,7 +277,7 @@ After Group matches, those who get through to Quarter Finals are obliged to form
 - **[Camellia – Controlled dive (Side) \[Sequence Break\]](https://osu.ppy.sh/beatmapsets/320058#osu/712278)**
 
 #### 15K+
-**[Download the map pack here!]( https://112.s-ul.eu/aJfLLa0v)**
+**[Download the map pack here!](https://112.s-ul.eu/aJfLLa0v)**
 
 - NoMod
   - [Porter Robinson – Flicker (Cyllinus) \[Alonevpk’s Insane\]](https://osu.ppy.sh/beatmapsets/284931#osu/712895)
@@ -303,7 +303,7 @@ After Group matches, those who get through to Quarter Finals are obliged to form
 ### Qualifiers Stage
 
 #### 1-15K
-**[Download the map pack here!]( https://112.s-ul.eu/ytXqfkWL)**
+**[Download the map pack here!](https://112.s-ul.eu/ytXqfkWL)**
 
 - NoMod
   - [Himeringo – Idola no Circus (Nevo) \[Salvation\]](https://osu.ppy.sh/beatmapsets/902250#osu/1883745)
@@ -316,7 +316,7 @@ After Group matches, those who get through to Quarter Finals are obliged to form
 - [Unlucky Morpheus – Phantom Blood (IsomirDiAngelo) \[Azzedd’s Light Insane\]](map deleted – insert dl link here)
 
 #### 15K+
-**[Download the map pack here!]( https://112.s-ul.eu/VMeQXi78)**
+**[Download the map pack here!](https://112.s-ul.eu/VMeQXi78)**
 
 - NoMod
   - [Memme – Geurida (NeilPerry) \[Mellifluous Miracle\]](https://osu.ppy.sh/beatmapsets/688183#osu/1456417)
