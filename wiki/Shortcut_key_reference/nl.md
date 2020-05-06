@@ -25,9 +25,9 @@ Deze combinaties werken overal:
 | `F7` | Wissel van frameratelimiet. |
 | `F8` | Toont/verbergt het chatscherm |
 | `F9` | Toont/verbergt het uitgebreide chatscherm. |
-| `F10` | Zet alle muisknoppen aan/uit (behalve het muiswiel, deze is altijd aan). |
+| `F10` | Zet alle muisknoppen aan/uit (behalve het muiswiel, deze staat altijd aan). |
 | `F12` | Neemt een screenshot. Klik op de dialoog om de screenshots folder te openen. |
-| `Shift` + `F12` | Neemt een screenshot en upload deze naar de server. De screenshot wordt ook lokaal opgeslagen. De screenshot wordt ook geopent in je web browser. |
+| `Shift` + `F12` | Neemt een screenshot en uploadt deze naar de server. De screenshot wordt ook lokaal opgeslagen. De screenshot wordt ook geopend in je web browser. |
 | `Insert` | Dit is de [boss key](https://en.wikipedia.org/wiki/Boss_key "Boss key op Wikipedia"). Verkleint de game client naar het notificatie vak. De game wordt ook gedempt. |
 | `Shift` + `F1` | Opent [osu!status](https://twitter.com/osustatus "osu!status op Twitter") in je web browser. (Alleen als er een connectie error verschijnt.) |
 | `Ctrl` + `O` | Opent de opties sidebalk. Je kunt de offset wizard niet gebruiken als je niet in het hoofdmenu bent. |
@@ -37,28 +37,28 @@ Deze combinaties werken overal:
 | Sneltoets | Actie |
 | :-- | :-- |
 | `Alt` + `Enter` | Zet de volledige scherm modus aan/uit. |
-| `Up/Down Arrow` | Veranderd het hoofdvolume. Gebruik de linker- en rechter pijlen om te switchen naar effect en muziek volumes. |
+| `Up/Down Arrow` | Verandert het hoofdvolume. Gebruik de linker- en rechter pijltjestoetsen om te schakelen naar effect- of muziekvolume. |
 | `Esc` | Keer terug of annuleer |
 | `P`, `E`, of `O` | Opent het speelmenu |
 | `P` drie keer | Enter Solo. |
 | `P` Twee keer, vervolgens `M` | Enter [Multi](/wiki/Multi). |
 | `E` Twee keer | Enter edit mode. |
 | `O` | Opent de opties sidebalk. |
-| `Q` | Laat het exit-command zien. |
-| `Esc` | Laat het exit-command zien, enkel wanneer het opties en speel menu gesloten is. |
+| `Q` | Laat het exit-commando zien. |
+| `Esc` | Laat het exit-commando zien, maar alleen wanneer de optie- en speelmenu's gesloten zijn. |
 | `F` | Toont/verbergt de FPS counter. |
 
 ### Jukebox
 
 | Sneltoets | Actie |
 | :-- | :-- |
-| `Z` of `F1` | Speelt het vorige lied. |
-| `X` of `F2` | Speelt het huidige lied. Als het lied al afgespeelt wordt, begint deze opnieuw. |
+| `Z` of `F1` | Springt terug naar het vorige lied. |
+| `X` of `F2` | Speelt het huidige lied af. Als het lied al afgespeelt wordt, begint deze opnieuw. |
 | `C` | Pauzeer/speel het lied. |
-| `F4` | Stopt het huide lied (reset de huidige speeltijd). |
+| `F4` | Stopt het huidige lied (en reset de huidige speeltijd). |
 | `V` of `F5` | Speelt het volgende lied. |
-| `J` of `F6`| Opent het jump to menu. |
-| `R` | Speelt een willekeurig lied. |
+| `J` of `F6`| Opent het 'Spring naar' menu. |
+| `R` | Speelt een willekeurig lied af. |
 
 ## Lied selectie
 
@@ -72,16 +72,16 @@ Deze combinaties werken overal:
 | `F3` | Opent de beatmap opties. |
 | `F5` | Verwerkt je beatmappen opnieuw (dit zou je kunnen vragen of je het zeker weet). |
 | `Shift` + `Delete` | Brengt de dialoog op om beatmappen te verwijderen. Dit vraagt of je de beatmapset (alle moeilijkheden), de geselecteerde moeilijkheid of alle beatmaps wilt verwijderen. |
-| `Ctrl` + `1` | Switcht de gamemode naar [osu!](/wiki/osu!). |
-| `Ctrl` + `2` | Switcht de gamemode naar [osu!taiko](/wiki/osu!taiko). |
-| `Ctrl` + `3` | Switcht de gamemode naar [osu!catch](/wiki/osu!catch). |
-| `Ctrl` + `4` | Switcht de gamemode naar [osu!mania](/wiki/osu!mania). |
+| `Ctrl` + `1` | Verandert de gamemode naar [osu!](/wiki/osu!). |
+| `Ctrl` + `2` | Verandert de gamemode naar [osu!taiko](/wiki/osu!taiko). |
+| `Ctrl` + `3` | Verandert de gamemode naar [osu!catch](/wiki/osu!catch). |
+| `Ctrl` + `4` | Verandert de gamemode naar [osu!mania](/wiki/osu!mania). |
 | `Ctrl` + `Enter` | Speelt de geselecteerde beatmap met de [auto mod](/wiki/Auto). |
 | `Ctrl` + `Shift` + `Enter` | Speelt de geselecteerde beatmap met de [cinema mod](/wiki/Cinema). |
 | `Ctrl` + `A` | Zet de auto mod aan/uit. |
 | `Ctrl` + `F3` of `Ctrl` + `+` | Verhoogt de osu!mania scroll snelheid (terwijl je in de osu!mania mode zit). |
 | `Ctrl` + `F4` of `Ctrl` + `-` | Verlaagt de osu!mania scroll snelheid (terwijl je in de osu!mania mode zit). |
-| `Ctrl` + `Backspace` | Verwijderd het laatste woord van de zoekbalk. |
+| `Ctrl` + `Backspace` | Verwijdert het laatste woord in de zoekbalk. |
 | `Up/Down Arrow` | Selecteert de volgende beatmap omhoog/omlaag. |
 | `Left/Right Arrow` | Selecteert de volgende beatmapset omhoog/omlaag. |
 | `Page Up/Down` | Scrollt de pagina omhoog/omlaag. |
@@ -123,7 +123,7 @@ Deze combinaties werken overal:
 | Sneltoets | Actie |
 | :-- | :-- |
 | `+` of `-` | Past de lokale offset aan (houd `Alt` ingedrukt om de precisie te veranderen) |
-| `Esc` | Pauzeert de gameplay of keert terug naar het liedjes-selectie scherm als er een replay wordt bekeken of de Auto of Cinema mod aanstaat. |
+| `Esc` | Pauzeert de gameplay of keert terug naar het liedjes-selectiescherm als er een replay wordt bekeken of de Auto of Cinema mod aanstaat. |
 | `Space` | Skipt naar gameplay. |
 | `Tab` | Toont/verbergt de ranglijst. |
 | `Shift` + `Tab` | Toont/verbregt de in-game interface. |
@@ -163,8 +163,8 @@ De volgende combinaties werken overal in de beatmap editor:
 | `Ctrl` + `B` | Voegt een bladwijzer toe op de huidige tijdspositie. |
 | `Ctrl` + `Shift` + `B` | Verwijdert een bladwijzer op de huidige tijdspositie. |
 | `Ctrl` + `Left/Right Arrow` | Springt naar de volgende/vorige bladwijzer. |
-| `Ctrl` + `L` | Keert terug naar de laatst opgeslagen staat (gedeeltelijk). Dit herlaad de `.osu` en `.osb` bestanden. |
-| `Ctrl` + `Shift` + `L` | Keert terug naar de laatst opgeslagen staat (volledig). Dit herlaad alles. |
+| `Ctrl` + `L` | Keert terug naar de laatst opgeslagen staat (gedeeltelijk). Dit herlaadt de `.osu` en `.osb` bestanden. |
+| `Ctrl` + `Shift` + `L` | Keert terug naar de laatst opgeslagen staat (volledig). Dit herlaadt alles. |
 | `Ctrl` + `O` | Opent het moeilijkheid-selectie scherm. |
 | `Ctrl` + `S` | Slaat de beatmap op in de huidige staat. |
 | `Ctrl` + `N` | Vraagt of je alle hit-objecten wilt verwijderen. |
