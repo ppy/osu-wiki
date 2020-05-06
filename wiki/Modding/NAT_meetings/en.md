@@ -19,7 +19,7 @@ Meetings are usually announced over a week in advance in the `#modding` channel.
 - 2020-02-15: Current BN evaluation - [Notes](https://docs.google.com/document/d/1Zu_FFHG6nzMniCOzveNlxPEv2dx8xkoi95s5UEaNRkg/edit?usp=sharing "Google document: (#5) Current BN Evaluation"), [Summary](https://osu.ppy.sh/community/forums/topics/1023943)
 - 2020-03-01: Cultivating BNs - [Notes](https://docs.google.com/document/d/12OCLF33v5-Z7a3pZ39IdrQXGrvPf6IkGyq0AUKDo9ZA/edit?usp=sharing "Google document: (#6) Cultivating BNs"), [Summary](https://osu.ppy.sh/community/forums/topics/1040487)
 - 2020-03-22: State of the QAH and misc. - [Notes](https://docs.google.com/document/d/1yZwXXT8OSU1HsLw-oobE-7MKlq-PZ5uggnTN33kPxaE/edit?usp=sharing "Google document: (#7) State of QAH & Misc"), [Summary](https://osu.ppy.sh/community/forums/topics/1040456)
-- 2020-04-11: Genre and language settings - [Notes](https://docs.google.com/document/d/13eCGWJuQ8hxdBTfqXoVgGhMBFwSZvaMZTuR1gK6lHtw/edit?usp=sharing "Google document: (#8) Genre and Language settings")<!-- TODO: link summary when posted -->
+- 2020-04-11: Genre and language settings - [Notes](https://docs.google.com/document/d/13eCGWJuQ8hxdBTfqXoVgGhMBFwSZvaMZTuR1gK6lHtw/edit?usp=sharing "Google document: (#8) Genre and Language settings"), [Summary](https://osu.ppy.sh/community/forums/topics/1059659)
 
 ### Planned topics
 
