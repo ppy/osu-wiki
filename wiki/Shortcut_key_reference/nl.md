@@ -57,7 +57,7 @@ Deze combinaties werken overal:
 | `C` | Pauzeer/speel het lied. |
 | `F4` | Stopt het huidige lied (en reset de huidige speeltijd). |
 | `V` of `F5` | Speelt het volgende lied. |
-| `J` of `F6`| Opent het 'Spring naar' menu. |
+| `J` of `F6` | Opent het 'Spring naar' menu. |
 | `R` | Speelt een willekeurig lied af. |
 
 ## Lied selectie
