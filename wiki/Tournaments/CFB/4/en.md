@@ -185,7 +185,7 @@ Sunday, 3 May 2020:
 | #5 | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012) | 5.8 |
 | #6 | ![][flag_FR] [AttilaPhoenix](https://osu.ppy.sh/users/8384680) | 6.2 |
 | #7 | ![][flag_FR] [-Dragolord-](https://osu.ppy.sh/users/9473359) | 7 |
-| #7 | ![][flag_FR] [Trifano](https://osu.ppy.sh/users/15126172) | 7
+| #7 | ![][flag_FR] [Trifano](https://osu.ppy.sh/users/15126172) | 7 |
 | #9 | ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098) | 7.2 |
 | #10 | ![][flag_CA] [Zyoulou](https://osu.ppy.sh/users/8668722) | 9.4 |
 | #11 | ![][flag_FR] [Dovu](https://osu.ppy.sh/users/6150413) | 9.8 |
