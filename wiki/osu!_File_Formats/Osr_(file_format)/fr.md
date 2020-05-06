@@ -55,36 +55,36 @@ Une fois décompressé, le texte contient des données séparées par des virgul
 
 Comme décrit dans l'[API osu!](https://github.com/peppy/osu-api/wiki#mods)
 
-| Mod            | Valeur (BitOffset) | Commentaire                                                   |
+| Mod | Valeur (BitOffset) | Commentaire |
 | :-- | :-- | :-- |
-| None           | 0                  |                                                               |
-| NoFail         | 1 (0)              |                                                               |
-| Easy           | 2 (1)              |                                                               |
-| TouchDevice    | 4 (2)              | Remplace le mode NoVideo non utlisé                           |
-| Hidden         | 8 (3)              |                                                               |
-| HardRock       | 16 (4)             |                                                               |
-| SuddenDeath    | 32 (5)             |                                                               |
-| DoubleTime     | 64 (6)             |                                                               |
-| Relax          | 128 (7)            |                                                               |
-| HalfTime       | 256 (8)            |                                                               |
-| Nightcore      | 512 (9)            | Toujours utilisé avec DT: 512 + 64 = 576                      |
-| Flashlight     | 1024 (10)          |                                                               |
-| Autoplay       | 2048 (11)          |                                                               |
-| SpunOut        | 4096 (12)          |                                                               |
-| Relax2         | 8192 (13)          | Autopilote                                                    |
-| Perfect        | 16384 (14)         |                                                               |
-| Key4           | 32768 (15)         |                                                               |
-| Key5           | 65536 (16)         |                                                               |
-| Key6           | 131072 (17)        |                                                               |
-| Key7           | 262144 (18)        |                                                               |
-| Key8           | 524288 (19)        |                                                               |
-| keyMod         | 1015808            | k4+k5+k6+k7+k8                                                |
-| FadeIn         | 1048576 (20)       |                                                               |
-| Random         | 2097152 (21)       |                                                               |
-| LastMod        | 4194304 (22)       | Cinéma                                                        |
-| TargetPractice | 8388608 (23)       | osu!cuttingedge seulement                                     |
-| Key9           | 16777216 (24)      |                                                               |
-| Coop           | 33554432 (25)      |                                                               |
-| Key1           | 67108864 (26)      |                                                               |
-| Key3           | 134217728 (27)     |                                                               |
-| Key2           | 268435456 (28)     |                                                               |
+| None | 0 |  |
+| NoFail | 1 (0) |  |
+| Easy | 2 (1) |  |
+| TouchDevice | 4 (2) | Remplace le mode NoVideo non utlisé |
+| Hidden | 8 (3) |  |
+| HardRock | 16 (4) |  |
+| SuddenDeath | 32 (5) |  |
+| DoubleTime | 64 (6) |  |
+| Relax | 128 (7) |  |
+| HalfTime | 256 (8) |  |
+| Nightcore | 512 (9) | Toujours utilisé avec DT: 512 + 64 = 576 |
+| Flashlight | 1024 (10) |  |
+| Autoplay | 2048 (11) |  |
+| SpunOut | 4096 (12) |  |
+| Relax2 | 8192 (13) | Autopilote |
+| Perfect | 16384 (14) |  |
+| Key4 | 32768 (15) |  |
+| Key5 | 65536 (16) |  |
+| Key6 | 131072 (17) |  |
+| Key7 | 262144 (18) |  |
+| Key8 | 524288 (19) |  |
+| keyMod | 1015808 | k4+k5+k6+k7+k8 |
+| FadeIn | 1048576 (20) |  |
+| Random | 2097152 (21) |  |
+| LastMod | 4194304 (22) | Cinéma |
+| TargetPractice | 8388608 (23) | osu!cuttingedge seulement |
+| Key9 | 16777216 (24) |  |
+| Coop | 33554432 (25) |  |
+| Key1 | 67108864 (26) |  |
+| Key3 | 134217728 (27) |  |
+| Key2 | 268435456 (28) |  |

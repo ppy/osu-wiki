@@ -6,36 +6,36 @@ Das **osu! World Cup 2015** (***OWC 2015***) ist ein länderbezogenes osu! Tunie
 
 ## Turnierzeitplan
 
-| Event               | Timestamp                   |
+| Event | Timestamp |
 | :-- | :-- |
-| Registrierungsphase | 01.-18. Okt. 2015           |
-| Live-Ziehungen      | 01. Nov. 2015 14:00 (UTC+0) |
-| Gruppenphase        | 07.-08. Nov. 2015           |
-| Achtelfinale        | 14.-15. Nov. 2015           |
-| Viertelfinale       | 21.-22. Nov. 2015           |
-| Halbfinale          | 28.-29. Nov. 2015           |
-| Finale - Woche 1    | 05.-06. Dez. 2015           |
-| Finale - Woche 2    | 12.-13. Dez. 2015           |
+| Registrierungsphase | 01.-18. Okt. 2015 |
+| Live-Ziehungen | 01. Nov. 2015 14:00 (UTC+0) |
+| Gruppenphase | 07.-08. Nov. 2015 |
+| Achtelfinale | 14.-15. Nov. 2015 |
+| Viertelfinale | 21.-22. Nov. 2015 |
+| Halbfinale | 28.-29. Nov. 2015 |
+| Finale - Woche 1 | 05.-06. Dez. 2015 |
+| Finale - Woche 2 | 12.-13. Dez. 2015 |
 
 ## Preise
 
 Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreichen. Wir werden in Kürze bekanntgeben, wir Ihr uns helfen könnt, das gewünschte Ziel zu erreichen.
 
-| Placing                                                    | Prizes                                                                          |
+| Placing | Prizes |
 | :-- | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | 50% vom erlangten Preispool, Profilabzeichen, Benutzertitel als "osu! Champion" |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 38% vom erlangten Preispool, Profilabzeichen                                    |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 12% vom erlangten Preispool, Profilabzeichen                                    |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 50% vom erlangten Preispool, Profilabzeichen, Benutzertitel als "osu! Champion" |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 38% vom erlangten Preispool, Profilabzeichen |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 12% vom erlangten Preispool, Profilabzeichen |
 
 ## Organisation
 
-| Job                | Persons                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Job | Persons |
 | :-- | :-- |
-| Turnier Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257)                                                                                                                                                                                                                                                                                           |
-| Map Auswähler      | ![][flag_FR] [Cherry Blossom](https://osu.ppy.sh/users/1156742) // ![][flag_HK] [Skystar](https://osu.ppy.sh/users/873961) // ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236)                                                                                                                                                                                                                                                                                                                                           |
-| Streamer           | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665)                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Kommentatoren      | ![][flag_US] [Chippy](https://osu.ppy.sh/users/2314115) // ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) // ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) // ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) // ![][flag_GB] [Raiku](https://osu.ppy.sh/users/1525538) // ![][flag_US] [rfandomization](https://osu.ppy.sh/users/3716999) // ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
-| Statistiker        | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Turnier Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
+| Map Auswähler | ![][flag_FR] [Cherry Blossom](https://osu.ppy.sh/users/1156742) // ![][flag_HK] [Skystar](https://osu.ppy.sh/users/873961) // ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
+| Streamer | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
+| Kommentatoren | ![][flag_US] [Chippy](https://osu.ppy.sh/users/2314115) // ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) // ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983) // ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) // ![][flag_GB] [Raiku](https://osu.ppy.sh/users/1525538) // ![][flag_US] [rfandomization](https://osu.ppy.sh/users/3716999) // ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
+| Statistiker | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
 ------------------------------------------------------------------------
 
@@ -51,16 +51,16 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 
 **Losung wird am 1. November 2015 um 15:00 Uhr deutscher Zeit stattfinden. Alle Teams werden in 4 Gruppen aufgeteilt, basierend auf deren gemessenen Teamstärke und werden entsprechend auf die Gruppen verteilt.**
 
-| Top Seed                                          | High Seed                                     | Low Seed                                 | No Seed                                    |
+| Top Seed | High Seed | Low Seed | No Seed |
 | :-- | :-- | :-- | :-- |
-| ![][flag_CN] China              | ![][flag_AU] Australia      | ![][flag_AR] Argentina | ![][flag_GR] Greece      |
-| ![][flag_FR] France             | ![][flag_AT] Austria        | ![][flag_JP] Japan     | ![][flag_IT] Italy       |
-| ![][flag_DE] Germany            | ![][flag_BR] Brazil         | ![][flag_LV] Latvia    | ![][flag_MX] Mexico      |
-| ![][flag_PL] Poland             | ![][flag_CA] Canada         | ![][flag_LT] Lithuania | ![][flag_NZ] New Zealand |
-| ![][flag_RU] Russian Federation | ![][flag_FI] Finland        | ![][flag_MY] Malaysia  | ![][flag_PH] Philippines |
-| ![][flag_KR] South Korea        | ![][flag_HK] Hong Kong      | ![][flag_NO] Norway    | ![][flag_PT] Portugal    |
-| ![][flag_TW] Taiwan             | ![][flag_NL] Netherlands    | ![][flag_SE] Sweden    | ![][flag_SG] Singapore   |
-| ![][flag_US] United States      | ![][flag_GB] United Kingdom | ![][flag_TH] Thailand  | ![][flag_UA] Ukraine     |
+| ![][flag_CN] China | ![][flag_AU] Australia | ![][flag_AR] Argentina | ![][flag_GR] Greece |
+| ![][flag_FR] France | ![][flag_AT] Austria | ![][flag_JP] Japan | ![][flag_IT] Italy |
+| ![][flag_DE] Germany | ![][flag_BR] Brazil | ![][flag_LV] Latvia | ![][flag_MX] Mexico |
+| ![][flag_PL] Poland | ![][flag_CA] Canada | ![][flag_LT] Lithuania | ![][flag_NZ] New Zealand |
+| ![][flag_RU] Russian Federation | ![][flag_FI] Finland | ![][flag_MY] Malaysia | ![][flag_PH] Philippines |
+| ![][flag_KR] South Korea | ![][flag_HK] Hong Kong | ![][flag_NO] Norway | ![][flag_PT] Portugal |
+| ![][flag_TW] Taiwan | ![][flag_NL] Netherlands | ![][flag_SE] Sweden | ![][flag_SG] Singapore |
+| ![][flag_US] United States | ![][flag_GB] United Kingdom | ![][flag_TH] Thailand | ![][flag_UA] Ukraine |
 
 ### Group A
 
@@ -208,13 +208,13 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 5.  Die folgenden Etappen sind Double-Elimination Etappen. Dies bedeutet, dass der Gewinner normal in die nächste Etappe kommt und das andere Team in die Verliereretappe kommt.
 6.  Basierend auf [dieser Grafik](https://puu.sh/bUq5V/f1066103b0.png) teilen sich die Etappen wie folgt auf:
 
-| Stage            | Match ID                 |
+| Stage | Match ID |
 | :-- | :-- |
-| Achtelfinale     | A, B, C, D, E, F, G, H   |
-| Viertelfinale    | I, J, K, L & R, S, T, U  |
-| Halbfinale       | M, N & V, W, X, Y, Z, AA |
-| Finale - Woche 1 | O & AB, AC, AD, AE       |
-| Finale - Woche 2 | P, Q                     |
+| Achtelfinale | A, B, C, D, E, F, G, H |
+| Viertelfinale | I, J, K, L & R, S, T, U |
+| Halbfinale | M, N & V, W, X, Y, Z, AA |
+| Finale - Woche 1 | O & AB, AC, AD, AE |
+| Finale - Woche 2 | P, Q |
 
 1.  **Bedingungen, um zu gewinnen:**
     -   In der Gruppenphase werden 4 gewonnene Maps benötigt, um die Partie zu gewinnen. (Best-of-7)
