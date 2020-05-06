@@ -503,8 +503,8 @@ Monday, 22 July 2019:
 9. Beatmaps cannot be reused in the same match.
 10. All players are supposed to be ready on time for the match. For the players/teams unable to show up on time, match can be postponed for 10 minutes. **If it exceeds, the specific player(s) will lose by default.**
 	- During the Group stages, if both players are unable to attend, no points will be awarded.
-	- During the Elimination stage, if both teams are unable to attend, players will be blacklisted and the match will be postponed to a further date. **Blacklisted group(s) will be eliminated if the same situation occurs twice.**
-11. During the Elimination phase, if one of the players of a team is unable to attend the match, on condition of the agreement of both teams, the match can be played in 1v2 format, yet 1v1 is unacceptable. If one of the teams does not agree, the match will be declared as Lose by Default for the team missing player.
+	- During the Elimination stage, if both teams are unable to attend, players will be blacklisted and the match will be postponed to a further date. **Blacklisted player(s) will be eliminated if the same situation occurs twice.**
+11. During the Elimination phase, if one of the players of a team is unable to attend the match, on condition of the agreement of both teams, the match can be played in 1v2 format, yet 1v1 is unacceptable. If one of the teams does not agree, the match will be declared as Lose by Default for the team missing a player.
 12. All players and referees must be treated with respect. Instructions of the referees and tournament Management are to be followed. Decisions labeled as final are not to be objected.
 13. Disrupting the match by foul play, picking inappropriate warmup beatmaps, insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
 14. Players that are suspected of cheating during the tournament will be disqualified from the tournament.
@@ -513,8 +513,8 @@ Monday, 22 July 2019:
 ### Registration
 
 1. Every user interested in joining the tournament will sign up individually.
-	- Any form of registration, other than the registration form provided in related channels, will be disregarded. 
-2. To participate you **must** join the [Discord server](https://discord.gg/g3nqqeZ) for the duration of the tournament.
+	- **Any form of registration, other than the registration form provided in related channels, will be disregarded.** 
+2. Participants **must** join the [Discord server](https://discord.gg/g3nqqeZ) for the duration of the tournament.
 3. Excluding commentators and streamers, tournament staff cannot participate in the tournament.
 4. Upon the conclusion of registration period, the list of participants will be submitted to the osu! Support Team for screening. Participants that fail the screening procedure will not be able to participate in the tournament. Please refer to [here](https://osu.ppy.sh/help/wiki/osu!tourney/Prizes#tournament-screening) for more information about tournament screening.
 5. All players eligible to participate in the tournament will be published after the Registration period ends.
@@ -527,7 +527,7 @@ Monday, 22 July 2019:
 4. No warm-ups will be entertained during this stage.
 5. Players will have to play the map pool **twice** at a designated time. Placement results will be calculated according to their best combined scores.
 6. Players will have the option to choose the multiplayer room they wish to play. If a room happens to be too empty, remaining players will be navigated to the other rooms.
-7. Latecomers can be admitted to the room, but they have to commence playing from the part where the others at.
+7. Latecomers can be admitted to the room, but they have to commence playing from the part where the others are at.
 8. If no players will join the room, the match will be aborted. No points will be awarded to the absent players.
 9. First 16 players from each seed with the highest overall score will be divided into groups of 4 players based on their points. If there will be more participants than the predicted number, player(s) placed the last will be eliminated. 
 10. Following the Qualifiers, Group stages will be played. During Group stages, players of each group will match against one another. 2 players of each group with highest points will get through the Group stage, the rest will be eliminated.
