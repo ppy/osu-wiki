@@ -547,11 +547,12 @@ Monday, 22 July 2019:
 	- Room settings are osu!, Head to Head (Group stages) / Team-Vs. (Double Elimination stages), Win Condition: ‘ScoreV2’. 
 2. Players can select up to two warm-up beatmaps that should not exceed 4 minutes. Players are free to not to pick a warm-up, but have to play if the opponent wants to.
 3. After the warm-ups, players will be asked a simple question. Players are given 30 seconds to answer the question, with only 1 chance to answer.
-- The player/team with correct answer **picks** first.
-- The player/team with incorrect answer **bans** first. 
-- If both players/teams answer correctly, the winner is decided upon the first to answer according to the referee’s screen.
-- **From Quarterfinals onwards the team that bans first will ban one map, then the other team will ban two maps, then finally the first team will make their final ban.**
-4. During Group stages, each player can only ban 1 beatmap. **From Quarterfinals onwards, the number of bans increases to 2. However, each player/team may not ban more than one map of any mod bracket (excluding NoMod).**
+        - The player/team with correct answer **picks** first.
+        - The player/team with incorrect answer **bans** first. 
+        - If both players/teams answer correctly, the winner is decided upon the first to answer according to the referee’s screen.
+        - **From Quarterfinals onwards the team that bans first will ban one map, then the other team will ban two maps, then finally the first team will make their final ban.**
+4. During Group stages, each player can only ban 1 beatmap. 
+        - **From Quarterfinals onwards, the number of bans increases to 2. However, each player/team may not ban more than one map of any mod bracket (excluding NoMod).**
 5. Beatmap selection will alternate between each player/team selecting a beatmap out of the mappool.
 6. Players map pick freely from any mod pool.
 	- In the case of a tie, the tiebreaker beatmap will be played.
@@ -579,7 +580,7 @@ Monday, 22 July 2019:
 2. Matches will be scheduled and announced according to the Turkey Time (UTC+3).
 2. Players may ask for a reschedule upon agreement with the opponent(s) if the current schedule does not work for them.
 3. Reschedules will only be considered if both players/teams agree to a time at least 24 hours before the first match in that particular stage.
-- If players wish to change the scheduled time within 24 hours until the match, they have to seek for an available referee for the rescheduled time. **Participants cannot use this opportunity more than once.**
+        - If players wish to change the scheduled time within 24 hours until the match, they have to seek for an available referee for the rescheduled time. **Participants cannot use this opportunity more than once.**
 4. If it is certain that participant(s) is/are unavailable for the scheduled time, they are obliged to inform the tournament staff beforehand. This is required in order not to waste the time of staff and other participants.  
 
 [flag_TR]: /wiki/shared/flag/TR.gif
