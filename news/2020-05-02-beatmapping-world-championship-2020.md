@@ -60,8 +60,8 @@ For the **Clash Rounds**, each of the main categories will be judged only betwee
 ## Prizes
 
 - 1st place team = 8 months supporter per team member, profile badge
-- 2nd place team = 6 months supporter per team member
-- 3rd place team = 4 months supporter per team member
+- 2nd place team = 6 months supporter per team member, profile badge
+- 3rd place team = 4 months supporter per team member, profile badge
 
 ## How to register
 
