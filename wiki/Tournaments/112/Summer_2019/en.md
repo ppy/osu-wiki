@@ -551,7 +551,7 @@ Monday, 22 July 2019:
         - The player/team with incorrect answer **bans** first. 
         - If both players/teams answer correctly, the winner is decided upon the first to answer according to the referee’s screen.
         - **From Quarterfinals onwards the team that bans first will ban one map, then the other team will ban two maps, then finally the first team will make their final ban.**
-4. During Group stages, each player can only ban 1 beatmap. 
+4. During Group stages, each player can only ban 1 beatmap.
         - **From Quarterfinals onwards, the number of bans increases to 2. However, each player/team may not ban more than one map of any mod bracket (excluding NoMod).**
 5. Beatmap selection will alternate between each player/team selecting a beatmap out of the mappool.
 6. Players map pick freely from any mod pool.
