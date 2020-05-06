@@ -114,6 +114,42 @@ La Catch French Beginner 4 ést gérée par différents membres de la communaut�
 
 ## Résultats des matches
 
+### Phase de poules
+
+Samedi, 2 Mai 2020:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| **Jibsz** ![][flag_FR] | **4** | 2 | ![][flag_FR] Trifano | [#1](https://osu.ppy.sh/community/matches/61141686) |
+| **-Dragolord-** ![][flag_FR] | **4** | 2 | ![][flag_FR] MarsJackson | [#1](https://osu.ppy.sh/community/matches/61165813) |
+| **Hecatia15** ![][flag_FR] | **4** | 0 | ![][flag_FR] Ladylag | [#1](https://osu.ppy.sh/community/matches/61167509) |
+| Kammthaar ![][flag_FR] | 1 | **4** | ![][flag_FR] **Kaeldori** | [#1](https://osu.ppy.sh/community/matches/61168212) |
+| **Marsjackson** ![][flag_FR] | **4** | 1 | ![][flag_FR] Athedos | [#1](https://osu.ppy.sh/community/matches/61170311) |
+| Okupsa ![][flag_FR] | 0 | **4** | ![][flag_CA] **Remyria** | [#1](https://osu.ppy.sh/community/matches/61172719) |
+| **AttilaPhoenix** ![][flag_FR] | **4** | 0 | ![][flag_FR] Dovu | [#1](https://osu.ppy.sh/community/matches/61171510) |
+| **Trifano** ![][flag_FR] | **4** | 2 | ![][flag_FR] Zyoulou | [#1](https://osu.ppy.sh/community/matches/61174328) |
+| **Remyria** ![][flag_CA] | **4** | 0 | ![][flag_FR] AttilaPhoenix | [#1](https://osu.ppy.sh/community/matches/61176113) |
+| **Dovu** ![][flag_FR] | **4** | 2 | ![][flag_FR] Okupsa | [#1](https://osu.ppy.sh/community/matches/61177349) |
+
+Dimanche, 3 Mai 2020:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| Athedos ![][flag_FR] | 1 | **4** | ![][flag_FR] **Riki no Kage** | [#1](https://osu.ppy.sh/community/matches/61180697) |
+| sullymaster ![][flag_FR] | 0 | **4** | ![][flag_FR] **Jibsz** | [#1](https://osu.ppy.sh/community/matches/61183042) |
+| Zyoulou ![][flag_FR] | 1 | **4** | ![][flag_FR] **Jibsz** | [#1](https://osu.ppy.sh/community/matches/61185441) |
+| -Dragolord- ![][flag_FR] | 2 | **4** | ![][flag_FR] **Riki no Kage** | [#1](https://osu.ppy.sh/community/matches/61202851) |
+| Kaeldori ![][flag_FR] | 0 | **4** | ![][flag_FR] **Hecatia15** | [#1](https://osu.ppy.sh/community/matches/61206729) |
+| **Ladylag** ![][flag_FR] | **4** | 2 | ![][flag_FR] Kammthaar | [#1](https://osu.ppy.sh/community/matches/61207713) |
+| **-Dragolord-** ![][flag_FR] | **4** | 0 | ![][flag_FR] Athedos | [#1](https://osu.ppy.sh/community/matches/61208829) |
+| Marsjackson ![][flag_FR] | 0 | **4** | ![][flag_FR] **Riki no Kage** | [#1](https://osu.ppy.sh/community/matches/61209634) |
+| **Hecatia15** ![][flag_FR] | **4** | 0 | ![][flag_FR] Kammthaar | [#1](https://osu.ppy.sh/community/matches/61210805) |
+| Kaeldori ![][flag_FR] | 3 | **4** | ![][flag_FR] **Ladylag** | [#1](https://osu.ppy.sh/community/matches/61211593) |
+| **Zyoulou** ![][flag_FR] | **4** | 0 | ![][flag_FR] sullymaster | [#1](https://osu.ppy.sh/community/matches/61213764) |
+| Okupsa ![][flag_FR] | 0 | **4** | ![][flag_FR] **AttilaPhoenix** | [#1](https://osu.ppy.sh/community/matches/61215300) |
+| Dovu ![][flag_FR] | 0 | **4** | ![][flag_CA] **Remyria** | [#1](https://osu.ppy.sh/community/matches/61215816) |
+| Sullymaster ![][flag_FR] | 1 | **4** | ![][flag_FR] **Trifano** | [#1](https://osu.ppy.sh/community/matches/61217149) |
+
 ### Qualifications
 
 | Seed | Joueur | Rang moyen |
