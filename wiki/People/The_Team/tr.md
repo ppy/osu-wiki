@@ -33,12 +33,12 @@ outdated: true
 | [Derekku](https://osu.ppy.sh/users/91341) | Genel housekeeping, Topluluk yönetimi |
 | [Echo](https://osu.ppy.sh/users/431) ([blog](http://blog.echo.sh/)) | osu! geliştirici takımı, Oyun içi sohbetin IRC entegrasyonu, Site bakımı |
 | [Intermezzo](https://osu.ppy.sh/users/136842) | osu! geliştirici takımı, osz2/p2p backend |
-| Jim ([Brand New Games](http://www.bravegamer.com/)) |  Orijinal site tasarımı |
+| Jim ([Brand New Games](http://www.bravegamer.com/)) | Orijinal site tasarımı |
 | [LuigiHann](https://osu.ppy.sh/users/1079) ([LuigiHann@Deviantart](https://luigihann.deviantart.com/)) | Epik skin tasarımı, Varsayılan skin ve ikon setine katkılar |
 | [mm201](https://osu.ppy.sh/users/30655) | osu! dev team, mm sliderları |
 | [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone geliştiricisi |
 | Phil | Forum tasarımı işi |
-| [Sarumaru](https://osu.ppy.sh/users/9427)  ([Sarumaru@deviantART.com](https://sarumaru.deviantart.com/)) | Orijinal pippi konsept ve son tasarımı |
+| [Sarumaru](https://osu.ppy.sh/users/9427) ([Sarumaru@deviantART.com](https://sarumaru.deviantart.com/)) | Orijinal pippi konsept ve son tasarımı |
 | [Sinistro](https://osu.ppy.sh/users/5530) | Toplantı notları, SSS'ye büyük katkılar |
 | [woc2006](https://osu.ppy.sh/users/1105845) | osu! geliştirici takımı, osu!mania geliştiricisi |
 

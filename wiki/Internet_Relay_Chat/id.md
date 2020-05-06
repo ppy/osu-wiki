@@ -21,11 +21,11 @@ Setelah Anda memiliki klien, Anda perlu mengatur pengaturan server.
 
 ## Perintah Dasar IRC
 
-| Perintah             | Deskripsi                                          |
+| Perintah | Deskripsi |
 | :-- | :-- |
-| `/join <#channel>`   | Bergabung ke channel                                 |
-| `/part <#channel>`   | Meninggalkan channel                                 |
-| `/me <action>`       | Mengirim pesan aksi                                |
+| `/join <#channel>` | Bergabung ke channel |
+| `/part <#channel>` | Meninggalkan channel |
+| `/me <action>` | Mengirim pesan aksi |
 | `/ignore <username>` | Mengabaikan pengguna (menyembunyikan pesan mereka) |
 
 ## Menonaktifkan Pemberitahuan Masuk/Meninggalkan
@@ -45,16 +45,16 @@ Mengetahui pemain yang masuk atau meninggalkan adalah hal baik, namun jika kanal
 
 ### Menonaktifkan Pemberitahuan Masuk/Meninggalkan Pada Klien IRC
 
-| Klien IRC                                 | Deskripsi   |
+| Klien IRC | Deskripsi |
 | :-- | :-- |
-| [HexChat](https://hexchat.github.io/)      | Buka Pengaturan - Pengaturan, di bawah Obrolan - Umum, centang "Sembunyikan pesan gabung dan pisah" |
-| [ircII](http://www.eterna.com.au/ircii/)  | Ketik `/ignore * crap` |
-| [Irssi](https://irssi.org)             | Ketik `/ignore -channels #somechannel * JOINS PARTS QUITS` |
-| [Weechat](https://weechat.org/)         | Ketik `/filter add irc_smart_weechat irc.username.#channel irc_smart_filter *`. **Catatan:** Ganti **username** dengan nama pengguna osu! anda. |
-| [KVIrc](https://www.kvirc.net/)             | Kunjungi [utas ini](http://www.kvirc.ru/forum/?topic=609.0) di forum resmi KVIrc |
-| [mIRC](https://www.mirc.com/)              | Buke Pengaturan mIRC (Tools - Options / Alt + O), di bawah IRC, klik tombol "Events..." dan ganti Joins and Parts menjadi "Hide" |
+| [HexChat](https://hexchat.github.io/) | Buka Pengaturan - Pengaturan, di bawah Obrolan - Umum, centang "Sembunyikan pesan gabung dan pisah" |
+| [ircII](http://www.eterna.com.au/ircii/) | Ketik `/ignore * crap` |
+| [Irssi](https://irssi.org) | Ketik `/ignore -channels #somechannel * JOINS PARTS QUITS` |
+| [Weechat](https://weechat.org/) | Ketik `/filter add irc_smart_weechat irc.username.#channel irc_smart_filter *`. **Catatan:** Ganti **username** dengan nama pengguna osu! anda. |
+| [KVIrc](https://www.kvirc.net/) | Kunjungi [utas ini](http://www.kvirc.ru/forum/?topic=609.0) di forum resmi KVIrc |
+| [mIRC](https://www.mirc.com/) | Buke Pengaturan mIRC (Tools - Options / Alt + O), di bawah IRC, klik tombol "Events..." dan ganti Joins and Parts menjadi "Hide" |
 | [Quassel IRC](https://quassel-irc.org/) | Klik kanan di jendela obrolan, lalu pilih Hide Events » Join/Part/Quit. |
-| [XChat](http://xchat.org/)             | Ketik `/set irc_conf_mode 1` (atau [2](http://xchat.org/faq/#q211) untuk menonaktifkan pemberitahuan dari seluruh channel). |
+| [XChat](http://xchat.org/) | Ketik `/set irc_conf_mode 1` (atau [2](http://xchat.org/faq/#q211) untuk menonaktifkan pemberitahuan dari seluruh channel). |
 
 Jika klien yang anda pakai tidak tercantum di sini, ikuti dokumentasi yang tersedia, sebagian besar klien memiliki cara untuk menonaktifkannya.
 

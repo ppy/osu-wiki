@@ -12,13 +12,13 @@ The tournament brackets can be found [on Challonge.](https://challonge.com/rmoti
 
 The RMoT Invitational are traditionally held over two weekends.
 
-| Event                               | Date        |
+| Event | Date |
 | --: | :-- |
-| Round of 16                         | 6 May 2017  |
-| Quarterfinals and Losers Round 1    | 7 May 2017  |
+| Round of 16 | 6 May 2017 |
+| Quarterfinals and Losers Round 1 | 7 May 2017 |
 | Semifinals and Losers Round 2 and 3 | 13 May 2017 |
-| Losers Round 4, 5 and 6             | 14 May 2017 |
-| Finals and Grand Finals             | 14 May 2017 |
+| Losers Round 4, 5 and 6 | 14 May 2017 |
+| Finals and Grand Finals | 14 May 2017 |
 
 ## Organisation
 

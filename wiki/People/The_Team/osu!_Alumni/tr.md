@@ -7,7 +7,7 @@ outdated: true
 **osu! Alumni** oyuna yaptıkları katkılar tarafından bilinen oyunculardır. Eğer elimizde kaynak olsaydı her bir üyenin heykelini şehir meydanına dikerdik.
 [Kullanıcı grubu sayfası linki](https://osu.ppy.sh/groups/16)
 
-| İsim  | Son Görevi |
+| İsim | Son Görevi |
 | :-- | :-- |
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | GMT |
 | ![][flag_ID] [-SiN-](https://osu.ppy.sh/users/10560) | Sohbet Moderatörü |

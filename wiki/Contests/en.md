@@ -49,9 +49,9 @@ Mapping With Rewards is a contest without strict deadlines and features one winn
 
 | Contest No. | Beatmap | Mode | Mapper | Results | Scores |
 | :-: | :-- | :-: | :-- | :-- | :-- |
-| 1.1 | [cYsmix - Manic](https://osu.ppy.sh/beatmapsets/361175) | ![osu!standard][o!s] | [Monstrata](https://osu.ppy.sh/users/2706438) | | |
-| 1.2 | [cYsmix - Dovregubben's Hall](https://osu.ppy.sh/beatmapsets/360950) | ![osu!standard][o!s] | [Guy](https://osu.ppy.sh/users/91738) | | |
-| 1.3 | [cYsmix - House With Legs](https://osu.ppy.sh/beatmapsets/360950) | ![osu!standard][o!s] | [alacat](https://osu.ppy.sh/users/869782) | | |
+| 1.1 | [cYsmix - Manic](https://osu.ppy.sh/beatmapsets/361175) | ![osu!standard][o!s] | [Monstrata](https://osu.ppy.sh/users/2706438) |  |  |
+| 1.2 | [cYsmix - Dovregubben's Hall](https://osu.ppy.sh/beatmapsets/360950) | ![osu!standard][o!s] | [Guy](https://osu.ppy.sh/users/91738) |  |  |
+| 1.3 | [cYsmix - House With Legs](https://osu.ppy.sh/beatmapsets/360950) | ![osu!standard][o!s] | [alacat](https://osu.ppy.sh/users/869782) |  |  |
 | 2.1 | [cYsmix - Fright March](https://osu.ppy.sh/beatmapsets/486142) | ![osu!standard][o!s] | [Gero](https://osu.ppy.sh/users/1467715) | [Results](https://osu.ppy.sh/home/news/2018-02-15-mapping-with-rewards-2-bounties-complete) | [Score #2.1](https://docs.google.com/spreadsheets/d/e/2PACX-1vS34U2QDZTuggEIqCS4USZ2Ppq8yQk2CU_SUnI_ahJ2Dndm4S-wTD2Bhft1Say9PoRGOXDY_yCypMmO/pubhtml) |
 | 2.2 | [cYsmix - Moonlight Sonata](https://osu.ppy.sh/beatmapsets/486535) | ![osu!standard][o!s] | [Okoratu](https://osu.ppy.sh/users/1623405) | [Results](https://osu.ppy.sh/home/news/2018-02-15-mapping-with-rewards-2-bounties-complete) | [Score #2.2](https://docs.google.com/spreadsheets/d/e/2PACX-1vS34U2QDZTuggEIqCS4USZ2Ppq8yQk2CU_SUnI_ahJ2Dndm4S-wTD2Bhft1Say9PoRGOXDY_yCypMmO/pubhtml) |
 | 2.3 | [cYsmix - Moonlight Sonata](https://osu.ppy.sh/beatmapsets/488238) | ![osu!standard][o!s] | [-kevincela-](https://osu.ppy.sh/users/266596) | [Results](https://osu.ppy.sh/home/news/2018-02-15-mapping-with-rewards-2-bounties-complete) | [Score #2.3](https://docs.google.com/spreadsheets/d/e/2PACX-1vS34U2QDZTuggEIqCS4USZ2Ppq8yQk2CU_SUnI_ahJ2Dndm4S-wTD2Bhft1Say9PoRGOXDY_yCypMmO/pubhtml) |
