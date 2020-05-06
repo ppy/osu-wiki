@@ -1,6 +1,6 @@
 # Welkom
 
-Welkom bij osu!, een free-to-win rhythm game ontworpen door peppy. Osu! bevat vier game modes: osu!standard, een simulator waarin je op cirkels klikt; osu!taiko, een drum emulator; osu!catch, een fruit vanger; en osu!mania, een synthesizer waarin je op toetsen in slaat.
+Welkom bij osu!, een free-to-win rhythm game ontworpen door peppy. Osu! bevat vier game modes: osu!standard, een simulator waarin je op cirkels klikt; osu!taiko, een drum emulator; osu!catch, een fruit vanger; en osu!mania, een synthesizer waarin je op toetsen ramt.
 
 ## Veelvoorkomende aandachtspunten
 
@@ -38,7 +38,7 @@ Modding is het proces waar gebruikers (In het algemeen genaamd "Modders") de bea
 
 *Zie ook: [Skinning Tutorial](/wiki/Skinning_Tutorial)*
 
-Skinning geeft iedereen de mogelijkheid om het uiterlijk van osu! te veranderen. Dit kunnen kleine veranderingen zijn, zoals het veranderen van de cursor of grote veranderingen, zoals het uiterlijk van alle gamemodes en interfaces aanpassen.
+Skinning geeft iedereen de mogelijkheid om het uiterlijk van osu! te veranderen. Dit kunnen kleine veranderingen zijn (zoals het veranderen van de cursor) of grote veranderingen (zoals het uiterlijk van alle gamemodes en interfaces aanpassen) zijn.
 
 ## osu! wiki - Hoe jij kunt helpen!
 
