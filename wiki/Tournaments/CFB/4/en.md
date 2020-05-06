@@ -79,6 +79,30 @@ The Catch French Beginner 4 is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here! (81 MB)](https://wetransfer.com/downloads/ec58b4ae5ecad8833fb648d82e23833720200503191515/607831)**
+
+- NoMod
+  - [dark cat - BUBBLE TEA (feat. juu & cinders) (Hobbes2) \[Ascendance's Platter\]](https://osu.ppy.sh/beatmapsets/769917#fruits/1630241)
+  - [GTA feat. Sam Bruno - Red Lips (Mendus Remix) (Euny) \[Natsu's Insane\]](https://osu.ppy.sh/beatmapsets/512810#fruits/1116219)
+  - [Aimer - Ref:rain (TV Size) (alienflybot) \[AJamez's Light Rain\]](https://osu.ppy.sh/beatmapsets/864201#fruits/1807497)
+  - [Tomita Miyu, Onishi Saori, Ohzora Naomi, Hanazawa Kana - Gabriel Drop Kick (Okoratu) \[Insane\]](https://osu.ppy.sh/beatmapsets/572809#fruits/1500551)
+- Hidden
+  - [Quynh Nhu - Don Coi (Mako Sakata) \[Lonely\]](https://osu.ppy.sh/beatmapsets/448090#fruits/979412)
+  - [Kano - Hikari no Michishirube (TV Size) (Petal) \[Sunset\]](https://osu.ppy.sh/beatmapsets/1073862#fruits/2247478)
+  - [MitiS feat. Crywolf - Oasis (vocal Mix) (Come[Back]Home) \[Insane\]](https://osu.ppy.sh/beatmapsets/296724#fruits/760932)
+- HardRock
+  - [Ice vs. Morimori Atsushi - RE:UNION -Duo Blade Against- (Realazy) \[Ayyri's Advanced\]](https://osu.ppy.sh/beatmapsets/848977#fruits/1810415)
+  - [loos feat. Meramipop - Starlight Disco (ursa) \[Salad\]](https://osu.ppy.sh/beatmapsets/183375#fruits/530444)
+  - [2B PENCILS & Nakagawa Kanon - Hajimete Koi o Shita Kioku (TV Edit) (Bearizm) \[Hard\]](https://osu.ppy.sh/beatmapsets/356633#fruits/784750)
+- DoubleTime
+  - [Hanatan - Yurafi (JBHyperion) \[Salad\]](https://osu.ppy.sh/beatmapsets/602506#fruits/12726071)
+  - [Halozy - Little Summer Party (Takos) \[Hard\]](https://osu.ppy.sh/beatmapsets/39537#fruits/126330)
+  - [Helblinde - Grief & Malice (Kyuare) \[ExGon's Salad\]](https://osu.ppy.sh/beatmapsets/325817#fruits/782020)
+- Tiebreaker
+  - **[Kaori Miyazono (CV. Risa Taneda) - My Truth~Rondo capriccioso (Linada) \[Ascendance & Spec's Duet\]](https://osu.ppy.sh/beatmapsets/717528#fruits/1549787)**
+
 ### Group Stage
 
 **[Download the mappack here! (61 MB)](https://wetransfer.com/downloads/acc2947bf3e906e2d4ebf4b97cdbe30420200426171428/49d7d2)**
