@@ -314,17 +314,17 @@ This competition has come to an end and resulted in the following podium:
 
 | Saturday, 2019-07-13 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| **Hong Kong** ![][flag_HK] | **6** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/53145753) |
-| Netherlands ![][flag_NL] | 3 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/53147363) |
-| Finland ![][flag_FI] | 3 | **6** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/53149402) |
-| Poland ![][flag_PL] | 0 | **6** | ![][flag_MX] **Mexico** | [#1](https://osu.ppy.sh/community/matches/53151416) |
+| **Hong Kong** ![][flag_HK] | **6** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/53310233) |
+| Netherlands ![][flag_NL] | 3 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/53312074) |
+| Finland ![][flag_FI] | 3 | **6** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/53314184) |
+| Poland ![][flag_PL] | 0 | **6** | ![][flag_MX] **Mexico** | [#1](https://osu.ppy.sh/community/matches/53316082) |
 | Sweden ![][flag_SE] | 3 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/53153172) |
-| United States ![][flag_US] | 2 | **6** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/53169340) |
+| United States ![][flag_US] | 2 | **6** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/53320930) |
 
 | Sunday, 2019-07-14 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| Philippines ![][flag_PH] | 0 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/53145753) |
-| **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/53147363) |
+| Philippines ![][flag_PH] | 0 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/53330636) |
+| **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/53332106) |
 
 ### Round of 16
 
@@ -473,7 +473,7 @@ This competition has come to an end and resulted in the following podium:
 
 | Stage | Match ID |
 | --: | :-- |
-| Round of 16 |  A, B, C, D, E, F, G, H |
+| Round of 16 | A, B, C, D, E, F, G, H |
 | Quarterfinals | I, J, K, L & R, S, T, U |
 | Semifinals | M, N & V, W, X, Y, Z, AA |
 | Finals | O & AB, AC, AD |

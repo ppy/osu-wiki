@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 993a853c26c65bbe4117e35e8afbfb066132ebdf
+---
+
 # 비트맵 에디터
 
 **비트맵 에디터**는 osu! 게임 내에서 [비트맵](/wiki/Beatmaps)을 만들기 위한 인터페이스로, 총 4개의 항목으로 구성되어 있습니다:

@@ -33,7 +33,7 @@
 
 | Name | Beschreibung |
 | :-- | :-- |
-| Beatmap hochladen ...  (`Strg` + `Shift` + `U`) | Ladet die Beatmap hoch. Sie müssen mir Ihrem Account auf der Webseite angemeldet sein, um das Beatmap Forum sehen zu können. |
+| Beatmap hochladen ... (`Strg` + `Shift` + `U`) | Ladet die Beatmap hoch. Sie müssen mir Ihrem Account auf der Webseite angemeldet sein, um das Beatmap Forum sehen zu können. |
 | Paket exportieren ... | Exportiert die Beatmap als `.osz`. Die Datei wird zum "Exports" Ordner gesendet und der Ordner wird direkt danach geöffnet. |
 | Map-Paket entpacken | ? |
 | Importieren von ... | **bms/bme:** (nur für osu!mania) Öffnet .bms/.bme Datei, um sie als osu!mania Schwierigkeitsstufe zu importieren. |
