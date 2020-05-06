@@ -252,7 +252,7 @@ Click the `Random` button or press `F2` to have the game **randomly scroll throu
 
 ![](img/Soloplay9.jpg "Possible commands for a beatmap")
 
-Click the `Beatmap Options` button, press `F3` or right-click your mouse while hovering over te beatmap to call up the **Beatmap Options Menu for options on the currently selected beatmap**.
+Click the `Beatmap Options` button, press `F3` or right-click your mouse while hovering over the beatmap to call up the **Beatmap Options Menu for options on the currently selected beatmap**.
 
 - Press `1` or click the `Manage Collections` button to bring up the Collections screen - here, you can manage pre-existing collections, as well as add or remove the currently selected beatmap or mapset to or from a collection.
 - Press `2` or click `Delete...` to delete the \[1\] currently selected beatmapset, \[2\] delete the currently selected beatmap, or \[3\] delete **all VISIBLE beatmaps**.
