@@ -10,9 +10,9 @@ We're proud to welcome **BLANKFIELD** aboard as our latest Featured Artist!
 
 Renowned among Japanese doujinshi music circles for his masterful guitar arrangements of popular video game tracks, the one-man circle [**BLANKFIELD**](https://osu.ppy.sh/beatmaps/artists/80) has been rocking heads since 2007 straight out of Comiket and beyond.
 
-**31** new tracks from across his discography are now available for your mapping enterprises, featuring arrangements of classic Touhou Project themes in a style that mixes metal and electronica like the two were made for each other.
+**31** new tracks across his discography are now available for your mapping enterprises, featuring arrangements of classic Touhou Project themes in a style that mixes metal and electronica like the two were made for each other.
 
-Don't take my word for it, check out a few previous below, plus two showcase maps by some of the Mappers' Guild's most talented creators:
+Don't take my word for it, check out a few previews below, plus two showcase maps by some of the Mappers' Guild's most talented creators:
 
 ### Falling Falls
 
