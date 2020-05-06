@@ -418,8 +418,8 @@ Sunday, 4 August 2019:
 
 Saturday, 20 July 2019:
 
-| Group | Player 1 | | | Player 2 | Match link |
-| :--: | --: | :-: | :-: | :-- | :-- |
+| Group | Player 1 | | | Player 2 |
+| :--: | --: | :-: | :-: | :-- |
 | A | Iron Man | FF | FF | Ekin | 
 | A | **AkashiDagara** | **4** | 0 | huckmen444 | 
 | A | **AkashiDagara** | **4** | 1 | Iron Man | 
@@ -474,8 +474,8 @@ Sunday, 21 July 2019:
 
 Monday, 22 July 2019:
 
-| Group | Player 1 | | | Player 2 | Match link |
-| :--: | --: | :-: | :-: | :-- | :-- |
+| Group | Player 1 | | | Player 2 |
+| :--: | --: | :-: | :-: | :-- |
 | B | **-Kanzaki** | **4** | FF | Cynesta | 
 | C | **Mr\_Ege** | **4** | 0 | exporage | 
 | G | **empirasu** | **4** | 0 | HayunGuys | 
