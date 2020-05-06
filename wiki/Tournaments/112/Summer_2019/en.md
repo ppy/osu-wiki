@@ -497,20 +497,18 @@ Monday, 22 July 2019:
 6. The beatmaps for each round will be announced by the map selectors in advance at least a week before the actual matches take place. Only these beatmaps will be used during the respective matches.
 	- One beatmap will be a tiebreaker beatmap. This beatmap will only be played in case of a tie. **The only exception to this is the Qualifiers pool.**
 7. Match schedule will be decided by tournament staff in accordance with weekly schedule-planning forms.
-	- **Bear in mind that the schedule settled by players is not guaranteed to be decided as the final schedule.**
-8. If no staff or referee is available, the match will be postponed.
-9. In the event of a player disconnecting during the match due to connectivity or hardware difficulties;
+8. In the event of a player disconnecting during the match due to connectivity or hardware difficulties;
 	- If the disconnection occurs within 30 seconds after beatmap begin, the beatmap is replayed. If it occurs after 30 seconds, the score on the match link is valid.
 	- The player will be given 10 minutes to reconnect. If the player fails to reconnect in 10 minutes, or frequently disconnects during the match and reconnecting takes too long, the player will be excluded from the match.
-10. Beatmaps cannot be reused in the same match.
-11. All players are supposed to be ready on time for the match. For the players/teams unable to show up on time, match can be postponed for 10 minutes. **If it exceeds, the specific player(s) will lose by default.**
+9. Beatmaps cannot be reused in the same match.
+10. All players are supposed to be ready on time for the match. For the players/teams unable to show up on time, match can be postponed for 10 minutes. **If it exceeds, the specific player(s) will lose by default.**
 	- During the Group stages, if both players are unable to attend, no points will be awarded.
 	- During the Elimination stage, if both teams are unable to attend, players will be blacklisted and the match will be postponed to a further date. **Blacklisted group(s) will be eliminated if the same situation occurs twice.**
-12. During the Elimination phase, if one of the players of a team is unable to attend the match, on condition of the agreement of both teams, the match can be played in 1v2 format, yet 1v1 is unacceptable. If one of the teams does not agree, the match will be declared as Lose by Default for the team missing player.
-13. All players and referees must be treated with respect. Instructions of the referees and tournament Management are to be followed. Decisions labeled as final are not to be objected.
-14. Disrupting the match by foul play, picking inappropriate warmup beatmaps, insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
-15. Players that are suspected of cheating during the tournament will be disqualified from the tournament.
-16. Tournament hosts hold the right to exclude any player from participating in the tournament at will.
+11. During the Elimination phase, if one of the players of a team is unable to attend the match, on condition of the agreement of both teams, the match can be played in 1v2 format, yet 1v1 is unacceptable. If one of the teams does not agree, the match will be declared as Lose by Default for the team missing player.
+12. All players and referees must be treated with respect. Instructions of the referees and tournament Management are to be followed. Decisions labeled as final are not to be objected.
+13. Disrupting the match by foul play, picking inappropriate warmup beatmaps, insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
+14. Players that are suspected of cheating during the tournament will be disqualified from the tournament.
+15. Tournament hosts hold the right to exclude any player from participating in the tournament at will.
 
 ### Registration
 
