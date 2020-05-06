@@ -1,13 +1,13 @@
 ---
 tags:
+  - development
+  - server
   - 开发
-  - Discord
-  - dev
 ---
 
 # osu!dev Discord 服务器
 
-*警告：中国大陆无法访问 Discord，后果请自行承担。*<!--Discrod has been blocked by GFW(China Great Firewall) -->
+*警告：中国大陆无法访问 Discord，后果请自行承担。*
 
 **osu!dev** 是官方 [Discord](https://discordapp.com "Discord's website") 服务器，它用于 osu! 的开源和各种社区项目。这有助于促进 osu! 的开发并与 [osu! 开发团队](/wiki/People/The_Team) 进行联系的主要场所。
 
@@ -30,8 +30,8 @@ tags:
 | [osu!taiko](/wiki/Game_Modes/osu!taiko) 星级和 PP | `#difficulty-taiko` |
 | [osu!catch](/wiki/Game_Modes/osu!catch) 星级和 PP | `#difficulty-catch` |
 | [osu!mania](/wiki/Game_Modes/osu!mania) 星级和 PP | `#difficulty-mania` |
-| [月赛](https://osu.ppy.sh/rankings/osu/charts)<!-- TODO: link to a wiki article when it exists --> | `#osu-spotlights` |
+| [月赛](https://osu.ppy.sh/rankings/osu/charts) | `#osu-spotlights` |
 | [osu! wiki](https://github.com/ppy/osu-wiki "ppy/osu-wiki on GitHub") | `#osu-wiki` |
 | [Project Loved](/wiki/Project_Loved) | `#osu-loved` |
 | [摸图](/wiki/Modding)讨论区和 [NAT 会议](/wiki/Modding/NAT_meetings) | `#modding` |
-| [Mapper 工会](/wiki/Mappers_Guild) | `#mappers-guild` |
+| [Mappers' Guild](/wiki/Mappers_Guild) | `#mappers-guild` |
