@@ -38,7 +38,7 @@ Modding is het proces waar gebruikers (In het algemeen genaamd "Modders") de bea
 
 *Zie ook: [Skinning Tutorial](/wiki/Skinning_Tutorial)*
 
-Skinning geeft iedereen de mogelijkheid om het uiterlijk van osu! te veranderen. Dit kunnen kleine veranderingen zijn (zoals het veranderen van de cursor) of grote veranderingen (zoals het uiterlijk van alle gamemodes en interfaces aanpassen) zijn.
+Skinning geeft iedereen de mogelijkheid om het uiterlijk van osu! te veranderen. Dit kunnen kleine veranderingen (zoals het veranderen van de cursor) of grote veranderingen (zoals het uiterlijk van alle gamemodes en interfaces aanpassen) zijn.
 
 ## osu! wiki - Hoe jij kunt helpen!
 
