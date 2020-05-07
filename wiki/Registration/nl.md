@@ -10,6 +10,7 @@
    - In het veld 'Username', is er een maximum van 15 karakters; Deze karakters kunnen enkel bestaan uit: alphanumerieke karakters (`a-z`, `A-Z`, `0-9`), lage streepjes (`_`), vierkante haakjes, (`[` en `]`), streepjes (`-`), en spaties (` `).
    - In het veld, 'Email Address', gebruik je jouw email. Deze wordt gebruikt om je wachtwoord opnieuw in te stellen en om verificatie codes te sturen wanneer dit nodig is. Gebruik dus geen wegwerp email.
    - In het veld 'Password', maak je een wachtwoord aan. Je wachtwoord moet ten minste bestaan uit 8 karakters.
+   
 3. Als je alles hebt ingevuld, klik je op `1. Create my account!`. Je wordt dan automatisch ingelogd.
 
 ## Wat nu?
