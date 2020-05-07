@@ -288,6 +288,7 @@ Hieronder zijn Grade schermen van de andere gamemodes te zien.
 ![](img/Osu!_Online_score.jpg "Voorbeeld van een osu!online score")
 
 Dit is jouw online leaderboard. Je kunt hier komen door naar beneden te scrollen op het resultatenscherm. De lokale rangschikking zal jouw naam en score tonen zoals gebruikelijk.
+
 1. Verandeer de naam van het record van de replay hier.
 2. Jouw spelersinformatie, je kunt hier jouw [PP](/wiki/Performance_Points), Globale Rang, Totale Score, Overall [Accuracy](/wiki/Accuracy), en level balk zien.
 3. Opties met betrekking tot de beatmap. Je kunt je favoriete beatmaps vinden op je profiel onder Beatmaps->Favourite Beatmaps.
@@ -295,9 +296,9 @@ Dit is jouw online leaderboard. Je kunt hier komen door naar beneden te scrollen
    2. Online Favourite: Voegt de beatmap toe aan jouw favorieten. 
 4. Hier is het verschil te zien wat jouw score verandert aan je profiel. Je kunt hier zien hoeveel je bent geklommen of gedaald in de Globale Rangschikking, hoeveel score is toegevoegd aan je Totale Score en hoeveel je Gemiddelde Accuracy is verandert. De tekst vervaagt erg snel, dus mis het niet!
 5. Spreekt voor zich. Deze balk komt niet in beeld wanneer je offline speelt of de beatmap niet is geupload.
-7. Beatmap lied met de geschiedenis van aantal keren gespeeld en pass rate.
-8. Beatmap Rating. Geef een score aan de beatmap die je zojuist hebt gespeelt.
-9. Terug naar het liedjes-selectie scherm.
+6. Beatmap lied met de geschiedenis van aantal keren gespeeld en pass rate.
+7. Beatmap Rating. Geef een score aan de beatmap die je zojuist hebt gespeelt.
+8. Terug naar het liedjes-selectie scherm.
 
 ![](img/MedalUnlock.jpg "Ontgrendelen van een medaille")
 
