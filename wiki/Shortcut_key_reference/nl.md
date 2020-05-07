@@ -8,7 +8,7 @@ tags:
 
 # Sneltoetscombinaties
 
-Osu! heeft een groot aantal sneltoetscombinaties die je in-game kunt gebruiken of wanneer je op een bepaalt scherm bent. De combinaties en hun functies zijn hieronder vermeld.
+osu! heeft een groot aantal sneltoetscombinaties die je in-game kunt gebruiken of wanneer je op een bepaalt scherm bent. De combinaties en hun functies zijn hieronder vermeld.
 
 *Opmerking: Dit artikel geeft de standaard sneltoetscombinaties weer. Je kunt enkele hiervan wijzigen in de [opties](/wiki/Options).*
 
@@ -72,13 +72,13 @@ Deze combinaties werken overal:
 | `F3` | Opent de beatmap opties. |
 | `F5` | Verwerkt je beatmappen opnieuw (dit zou je kunnen vragen of je het zeker weet). |
 | `Shift` + `Delete` | Brengt de dialoog op om beatmappen te verwijderen. Dit vraagt of je de beatmapset (alle moeilijkheden), de geselecteerde moeilijkheid of alle beatmaps wilt verwijderen. |
-| `Ctrl` + `1` | Verandert de gamemode naar [osu!](/wiki/osu!). |
-| `Ctrl` + `2` | Verandert de gamemode naar [osu!taiko](/wiki/osu!taiko). |
-| `Ctrl` + `3` | Verandert de gamemode naar [osu!catch](/wiki/osu!catch). |
-| `Ctrl` + `4` | Verandert de gamemode naar [osu!mania](/wiki/osu!mania). |
-| `Ctrl` + `Enter` | Speelt de geselecteerde beatmap met de [auto mod](/wiki/Auto). |
-| `Ctrl` + `Shift` + `Enter` | Speelt de geselecteerde beatmap met de [cinema mod](/wiki/Cinema). |
-| `Ctrl` + `A` | Zet de auto mod aan/uit. |
+| `Ctrl` + `1` | Verandert de gamemode naar [osu!](/wiki/Game_Modes/osu!). |
+| `Ctrl` + `2` | Verandert de gamemode naar [osu!taiko](/wiki/Game_Modes/osu!taiko). |
+| `Ctrl` + `3` | Verandert de gamemode naar [osu!catch](/wiki/Game_Modes/osu!catch). |
+| `Ctrl` + `4` | Verandert de gamemode naar [osu!mania](/wiki/Game_Modes/osu!mania). |
+| `Ctrl` + `Enter` | Speelt de geselecteerde beatmap met de [Auto mod](/wiki/Game_Modifiers#auto). |
+| `Ctrl` + `Shift` + `Enter` | Speelt de geselecteerde beatmap met de [Cinema mod](/wiki/Game_Modifiers#auto). |
+| `Ctrl` + `A` | Zet de Auto mod aan/uit. |
 | `Ctrl` + `F3` of `Ctrl` + `+` | Verhoogt de osu!mania scroll snelheid (terwijl je in de osu!mania mode zit). |
 | `Ctrl` + `F4` of `Ctrl` + `-` | Verlaagt de osu!mania scroll snelheid (terwijl je in de osu!mania mode zit). |
 | `Ctrl` + `Backspace` | Verwijdert het laatste woord in de zoekbalk. |
@@ -91,10 +91,8 @@ Deze combinaties werken overal:
 
 ### Game modifiers
 
-*Hoofdpagina: [Game modifiers](/wiki/Game_Modifiers)*
-
-*Opmerking: Je moet in het game modifiers menu zitten om gebruik te kunnen maken van deze sneltoetsen.*
-
+*Hoofdpagina: [Game modifiers](/wiki/Game_Modifiers)*  
+*Opmerking: Je moet in het game modifiers menu zitten om gebruik te kunnen maken van deze sneltoetsen.*  
 *Opmerking: Target practice (osu!standard), 1K en 2K (osu!mania), Co-op (osu!mania) en Mirror (osu!mania) hebben geen sneltoetsen.*
 
 | Sneltoets | Mod |
@@ -115,7 +113,7 @@ Deze combinaties werken overal:
 | `C` | Spun Out (osu!standard) |
 | `V` | Auto |
 | `V` twee keer | Cinema |
-| `B` | Score v2 |
+| `B` | Score V2 |
 | `3` tot `9` | 3K tot 9K (osu!mania) |
 
 ## Speel modus
@@ -133,7 +131,7 @@ Deze combinaties werken overal:
 
 ## Replay mode
 
-*opmerking: Je moet gebruik maken van de cuttingdge release stream om deze te kunnen gebruiken.*
+*Opmerking: Je moet gebruik maken van de cuttingdge release stream om deze te kunnen gebruiken.*
 
 | Sneltoets | Actie |
 | :-- | :-- |
@@ -170,10 +168,10 @@ De volgende combinaties werken overal in de beatmap editor:
 | `Ctrl` + `N` | Vraagt of je alle hit-objecten wilt verwijderen. |
 | `Ctrl` + `Up/Down Arrow` | Verhoogt/verlaagt de afspeelsnelheid met 25%. |
 | `Ctrl` + `Shift` + `Up/Down Arrow` | Verhoogt/verlaagt de afspeelsnelheid met 5%. |
-| `F1` | Schakelt naar de [compose](/wiki/Compose) modus. |
-| `F2` | Schakelt naar de [design](/wiki/Design) modus. |
-| `F3` | Schakelt naar de [timing](/wiki/Timing) modus. |
-| `F4` | Opent de [song setup](/wiki/Song_Setup) dialoog. |
+| `F1` | Schakelt naar de [compose](/wiki/Beatmap_Editor/Compose) modus. |
+| `F2` | Schakelt naar de [design](/wiki/Beatmap_Editor/Design) modus. |
+| `F3` | Schakelt naar de [timing](/wiki/Beatmap_Editor/Timing) modus. |
+| `F4` | Opent de [song setup](/wiki/Beatmap_Editor/Song_Setup) dialoog. |
 | `F5` | Opent de test modus. |
 | `F6` | Opent de timing en control points dialoog. |
 | `Ctrl` + `P` | Voegt een onafhankelijk timing punt op de huidige tijdspositie. Als je niet in de timing mode zit, opent dit ook de timing en control points dialoog. |
