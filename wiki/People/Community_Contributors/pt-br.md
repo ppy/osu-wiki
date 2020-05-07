@@ -101,7 +101,7 @@ Não para ser confundido com os [osu! Alumni](/wiki/People/osu!_Alumni), que sã
 | ![][flag_CH] [Irreversible](https://osu.ppy.sh/users/1287964) | Contribuição dedicata aos BAT/QAT durante incontáveis anos |
 | ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) | Centenas de horas de estatísticas e análize de torneios World Cup |
 | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) | Precença fenomenal como árbitro em dezenas de torneios de comunidade |
-| ![][flag_CA] [Evrien](https://osu.ppy.sh/users/791660) | Performance fenomenal em casting, comentário, recapitulações baseadas em eventos  |
+| ![][flag_CA] [Evrien](https://osu.ppy.sh/users/791660) | Performance fenomenal em casting, comentário, recapitulações baseadas em eventos |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | A mente brilhante por trás de incontáveis melhorias para o osu!, desde pp, uma reformulação do engine gráfico, star rating, e mais! |
 | ![][flag_CA] [DrabWeb](https://osu.ppy.sh/users/6946022) | Contribuição fenomenal para o projeto do osu!lazer |
 | ![][flag_BY] [EVAST](https://osu.ppy.sh/users/8195163) | Contribuição fenomenal para o projeto do osu!lazer com 90+ pullreqs e centenas de commits |

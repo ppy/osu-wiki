@@ -29,7 +29,7 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag  |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 

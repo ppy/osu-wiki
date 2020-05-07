@@ -1,8 +1,8 @@
 ---
 tags:
+  - development
+  - server
   - 开发
-  - Discord
-  - dev
 ---
 
 # osu!dev Discord 服务器
@@ -34,4 +34,4 @@ tags:
 | [osu! wiki](https://github.com/ppy/osu-wiki "Github 上的 ppy/osu-wiki 项目") | `#osu-wiki` |
 | [Project Loved](/wiki/Project_Loved) | `#osu-loved` |
 | [摸图](/wiki/Modding)讨论区和 [NAT 会议](/wiki/Modding/NAT_meetings) | `#modding` |
-| [Mapper 工会](/wiki/Mappers_Guild) | `#mappers-guild` |
+| [Mappers' Guild](/wiki/Mappers_Guild) | `#mappers-guild` |
