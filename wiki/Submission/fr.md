@@ -1,6 +1,6 @@
 # Publication
 
-Les [beatmaps](/wiki/Beatmaps) peuvent être publiées sur le site depuis l'[éditeur de beatmap](/wiki/Beatmap_Editor). Publier une beatmap permet à celle-ci de recevoir une attention toute particulière d'autres joueurs, ce qui peut conduire a l'obtention du statut de [Ranked](/wiki/Beatmaps#ranked) ou [Loved](/wiki/Beatmaps#loved)
+Les [beatmaps](/wiki/Beatmaps) peuvent être publiées sur le site depuis l'[éditeur de beatmap](/wiki/Beatmap_Editor). Publier une beatmap permet à celle-ci de recevoir une attention toute particulière d'autres joueurs, ce qui peut conduire a l'obtention du statut de [Ranked](/wiki/Beatmaps#classées) ou [Loved](/wiki/Beatmaps#aimées)
 
 ![](img/bss_warning.png "Ecran de publication de beatmap")
 
@@ -12,7 +12,7 @@ Si la beatmap que l'utilisateur souhaite publier n'est pas encore présente sur 
 
 ![](img/bss_submitting.png "Ecran de publication de beatmap")
 
-Losque vous cliquez sur le bouton `Publier une nouvelle beatmap!` ou `Mettre à jour la beatmap!`, l'utilisateur pourra choisir de publier sa beatmap vers `Work in Progress/Help` (Travaux en cours) ou `Pending` (En attente). Les beatmaps avec le statut Work In Progress ne peuvent pas recevoir de nominations, tandis que les beatmaps avec le statut Pending le peuvent. 
+Losque vous cliquez sur le bouton `Publier une nouvelle beatmap!` ou `Mettre à jour la beatmap!`, l'utilisateur pourra choisir de publier sa beatmap vers `Work in Progress/Help` (Travaux en cours) ou `Pending` (En attente). Les beatmaps avec le statut Work In Progress ne peuvent pas recevoir de nominations, tandis que les beatmaps avec le statut Pending le peuvent.
 
 La section `Message du Créateur` permet au créateur de laisser une description qui sera visible depuis la page web de la beatmap. La description prend en compte le [BBCode](/wiki/BBCode).
 
@@ -24,5 +24,4 @@ La publication de beatmaps échouera si elle dépasse la limite de poids ou de d
 
 Les utilisateurs ont un nombre de beatmap en attente limite. La limite varie en fonction du nombre de beatmap Ranked qu'un utilisateur a. De plus, le nombre peut augmenter si l'utlisateur souscrit un abonnement [osu!supporter](/wiki/osu!supporter). Les utilisateurs sans osu!supporter peuvent avoir 4 beatmaps en attente ainsi qu'une de plus par beatmap classée (jusqu'à un maximum de 2), tandis qu'avec l'osu!supporter, ce chiffre augmente jusqu'à 8 plus 1 par beatmap ranked (jusqu'à un maximum de 12) pour un total de 20.
 
-La vitesse de publication varie en fonction des fichiers modifiés. Si un fichier `.osu` est changé, seulement ce fichier sera traité et mis à jour. 
-Si d'autres fichiers sont changés, tout les fichiers de ce dossier seront traités et mis à jour.
+La vitesse de publication varie en fonction des fichiers modifiés. Si un fichier `.osu` est changé, seulement ce fichier sera traité et mis à jour. Si d'autres fichiers sont changés, tout les fichiers de ce dossier seront traités et mis à jour.
