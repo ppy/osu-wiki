@@ -84,6 +84,8 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 | English School Foundations | ![][flag_HK] **[JayeshChatlani](https://osu.ppy.sh/users/12986109)**, ![][flag_HK] [Anto6](https://osu.ppy.sh/users/15081907) |
 | Mouse Drift | ![][flag_BR] **[Kleemann](https://osu.ppy.sh/users/12582103)**, ![][flag_BR] [Himeno_-](https://osu.ppy.sh/users/16545385) |
 | Australia's OWC Team on Smurf Accounts | ![][flag_NZ] **[Zed eS](https://osu.ppy.sh/users/13713183)**, ![][flag_AU] [shepraf](https://osu.ppy.sh/users/14749149), ![][flag_CA] [-careless-](https://osu.ppy.sh/users/15529550), ![][flag_US] [Destiny GD](https://osu.ppy.sh/users/16345483) |
+| WeLoveKöfte | ![][flag_DE] **[Nikurax](https://osu.ppy.sh/users/11705938)**, ![][flag_DE] [Denk_Fisch](https://osu.ppy.sh/users/13210251), ![][flag_DE] [Enyu](https://osu.ppy.sh/users/14106819), ![][flag_PL] [misiekreksio](https://osu.ppy.sh/users/12908278) |
+| CatMooners | ![][flag_BR] **[MoonTears](https://osu.ppy.sh/users/11911570)**, ![][flag_BR] [Axiey](https://osu.ppy.sh/users/11711340) |
 
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
