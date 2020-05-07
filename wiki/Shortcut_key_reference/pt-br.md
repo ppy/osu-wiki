@@ -58,7 +58,7 @@ Os seguintes atalhos funcionam em qualquer lugar dentro do jogo:
 | `C` | Play & pausa. |
 | `F4` | Para de tocar (reseta o tempo atual). |
 | `V` ou `F5` | Toca a próxima música. |
-| `J` ou `F6`| Abre o menu de 'pular para'. |
+| `J` ou `F6` | Abre o menu de 'pular para'. |
 | `R` | Toca uma música aleatória. |
 
 ## Seleção de música
@@ -73,12 +73,12 @@ Os seguintes atalhos funcionam em qualquer lugar dentro do jogo:
 | `F3` | Abre as opções de beatmap. |
 | `F5` | Reprocessa os beatmaps (isso talvez te peça confirmação para continuar). |
 | `Shift` + `Delete` | Mostra o diálogo de deletar beatmaps. Isso irá te perguntar se você deseja deletar o beatmapset (todas as dificuldades), o beatmap (a dificuldade selecionada), ou todos os beatmaps visíveis. |
-| `Ctrl` + `1` | Muda o modo de jogo para o [osu!](/wiki/osu!). |
-| `Ctrl` + `2` | Muda o modo de jogo para o [osu!taiko](/wiki/osu!taiko). |
-| `Ctrl` + `3` | Muda o modo de jogo para o [osu!catch](/wiki/osu!catch). |
-| `Ctrl` + `4` | Muda o modo de jogo para o [osu!mania](/wiki/osu!mania). |
-| `Ctrl` + `Enter` | Joga o beatmap selecionado com o [mod Auto](/wiki/Auto). |
-| `Ctrl` + `Shift` + `Enter` | Joga o beatmap selecionado com o [mod Cinema](/wiki/Cinema). |
+| `Ctrl` + `1` | Muda o modo de jogo para o [osu!](/wiki/Game_Modes/osu!). |
+| `Ctrl` + `2` | Muda o modo de jogo para o [osu!taiko](/wiki/Game_Modes/osu!taiko). |
+| `Ctrl` + `3` | Muda o modo de jogo para o [osu!catch](/wiki/Game_Modes/osu!catch). |
+| `Ctrl` + `4` | Muda o modo de jogo para o [osu!mania](/wiki/Game_Modes/osu!mania). |
+| `Ctrl` + `Enter` | Joga o beatmap selecionado com o [mod Auto](/wiki/Game_Modifiers#auto). |
+| `Ctrl` + `Shift` + `Enter` | Joga o beatmap selecionado com o [mod Cinema](/wiki/Game_Modifiers#auto). |
 | `Ctrl` + `A` | Liga e desliga o mod Auto. |
 | `Ctrl` + `F3` or `Ctrl` + `+` | Aumenta a velocidade de scroll/rolamento do osu!mania (enquanto no modo osu!mania). |
 | `Ctrl` + `F4` or `Ctrl` + `-` | Diminui a velocidade de scroll/rolamento do osu!mania (enquanto no modo osu!mania). |
@@ -92,10 +92,8 @@ Os seguintes atalhos funcionam em qualquer lugar dentro do jogo:
 
 ### Modificadores de jogo
 
-*Página principal: [Game modifiers](/wiki/Game_Modifiers)*
-
-*Nota: Pressionar o atalho irá ativar ou desativar-los. Você precisa estar dentro do menu dos modificadores de jogo para utilizar esses atalhos.*
-
+*Página principal: [Game modifiers](/wiki/Game_Modifiers)*  
+*Nota: Pressionar o atalho irá ativar ou desativar-los. Você precisa estar dentro do menu dos modificadores de jogo para utilizar esses atalhos.*  
 *Nota: Target practice (osu!standard), 1K e 2K (osu!mania), Co-op (osu!mania), e Mirror (osu!mania) não possuem atalhos.*
 
 | Atalho | Mod |
@@ -108,7 +106,7 @@ Os seguintes atalhos funcionam em qualquer lugar dentro do jogo:
 | `S` duas vezes | Perfect |
 | `D` | Double Time |
 | `D` duas vezes | Nightcore |
-| `F` | Hidden (osu!standard, osu!taiko, and osu!catch) ou Fade In (osu!mania)
+| `F` | Hidden (osu!standard, osu!taiko, and osu!catch) ou Fade In (osu!mania) |
 | `F` duas vezes | Hidden (osu!mania) |
 | `G` | Flashlight |
 | `Z` | Relax (osu!standard, osu!taiko, e osu!catch) ou troque entre os mods xK (osu!mania) |
@@ -116,7 +114,7 @@ Os seguintes atalhos funcionam em qualquer lugar dentro do jogo:
 | `C` | Spun Out (osu!standard) |
 | `V` | Auto |
 | `V` duas vezes | Cinema |
-| `B` | Score v2 |
+| `B` | Score V2 |
 | `3` até `9` | 3K até 9K (osu!mania) |
 
 ## Play mode
@@ -171,10 +169,10 @@ Esses atalhos funcionam em qualquer lugar do editor:
 | `Ctrl` + `N` | Pergunta se quer remover todas as notas do beatmap. |
 | `Ctrl` + `Setas para Cima/Baixo` | Aumenta/diminui a velocidade de playback em 25%. |
 | `Ctrl` + `Shift` + `Setas para Cima/Baixo` | Aumenta/diminui a velocidade de playback em 5%. |
-| `F1` | Muda para o modo de [compose](/wiki/Compose). |
-| `F2` | Muda para o modo de [design](/wiki/Design). |
-| `F3` | Muda para o modo de [timing](/wiki/Timing). |
-| `F4` | Abre o diálogo de [song setup](/wiki/Song_Setup). |
+| `F1` | Muda para o modo de [compose](/wiki/Beatmap_Editor/Compose). |
+| `F2` | Muda para o modo de [design](/wiki/Beatmap_Editor/Design). |
+| `F3` | Muda para o modo de [timing](/wiki/Beatmap_Editor/Timing). |
+| `F4` | Abre o diálogo de [song setup](/wiki/Beatmap_Editor/Song_Setup). |
 | `F5` | Entra o modo de teste. |
 | `F6` | Abre o diálogo de timing e control points. |
 | `Ctrl` + `P` | Adiciona um ponto de timing não-herdado no tempo atual. Se não estiver no modo de timing, isso também irá abrir o diálogo de timing e control points. |
