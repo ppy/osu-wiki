@@ -3,6 +3,9 @@
     "name": "osu-wiki",
     "description": "home of the osu! wiki",
     "repository": "github:ppy/osu-wiki",
+    "scripts": {
+        "lint:wiki" : "npx remark wiki/*.md -qf --no-stdout --report=vfile-reporter-position --color"
+    },
     "dependencies": {
         "remark-cli": "8.0.0",
         "remark": "12.0.0",
