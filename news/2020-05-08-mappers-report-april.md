@@ -31,7 +31,6 @@ For all modes:
 - **[Remove glossaries from RC pages](https://osu.ppy.sh/community/forums/topics/1064466)**
 - **[Unofficial Cuts/Mixes of Songs must be Specific](https://osu.ppy.sh/community/forums/topics/917043)**
 - **[General RC Change regarding CS Values](https://osu.ppy.sh/community/forums/topics/1020515)**
-- **[Rule/Guideline for Featured Artist Metadata](https://osu.ppy.sh/community/forums/topics/1051871)**
 - **[Genre and Language settings](https://osu.ppy.sh/community/forums/topics/1044226)**
 - **[Allowing .ogg files as main audio source](https://osu.ppy.sh/community/forums/topics/1021547)**
 - **[Cleaning up rule about cutting unmapped audio](https://osu.ppy.sh/community/forums/topics/996498)**
@@ -51,8 +50,6 @@ For osu!catch:
 - **[Dashes and Higher-Snapped Dashes on Rain difficulties](https://osu.ppy.sh/community/forums/topics/1033696)**
 
 ## <a id="nat-meetings"></a>NAT Meetings
-
-While NAT meetings have covered all planned topics and have slowly come to a close, changes to the website spurred the NAT to hold an additional one.
 
 If you have any topics which should be discussed in future meetings, or a proposal you'd like to push to NAT, please do not hesitate to make a post about it on the [NAT Meetings forum thread](https://osu.ppy.sh/community/forums/topics/1041618)! 
 
@@ -103,12 +100,12 @@ Some of his other notable and equally as great maps would be his renditions of [
 
 ### Yuemiao
 
-Recently making her first appearance in the ranked section with her take on [Mizutama by YUC'e and Nor](https://osu.ppy.sh/beatmapsets/1009290#taiko/2112927),  **[Yuemiao](https://osu.ppy.sh/users/4493348)** shows us that she definitely knows what she's doing.
+Recently making her first appearance in the ranked section with her take on [Mizutama by YUC'e and Nor](https://osu.ppy.sh/beatmapsets/1009290#taiko/2112927),  **[Yuemiao](https://osu.ppy.sh/users/4493348)** shows us that she knows what she's doing.
 
 Perfect execution of different snaps and rhythms along with clean consistency throughout her difficulties makes this map one of the most interesting additions to the ranked section as of late.
 Implementing her own little rhythms with intuitive yet interesting kat placement really shows how good osu!taiko can sound and how it's possible to enhance the song that is mapped when someone knows their craft!
 
-Her ability to map faster and more chaotic songs just goes to show that she can handle multiple genres and definitely can create something clean for everyone's taste. See what we mean for yourself with this well polished unranked set of [t+pazolite vs. P*Light - IZANA](https://osu.ppy.sh/beatmapsets/1100797#taiko/2299870), which also includes very smooth SV sections for a pleasant viewing experience.
+Her ability to map faster and more chaotic songs just goes to show that she can handle multiple genres and can create something clean for everyone's taste. See what we mean for yourself with this well polished unranked set of [t+pazolite vs. P*Light - IZANA](https://osu.ppy.sh/beatmapsets/1100797#taiko/2299870), which also includes very smooth SV sections for a pleasant viewing experience.
 Yuemiao definitely deserves more credit, as she is quite unknown and surprised many with her first ranked map. From the current 28 ratings on her Mizatuma set, 27 (*twenty-seven!*) are 10* votes, which speaks for itself.
 We are definitely looking forward to more of her maps in the future!
 
