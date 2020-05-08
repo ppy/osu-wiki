@@ -4,7 +4,7 @@ title: "The Mappers' Report: April"
 date: 2020-05-10 12:00:00 +0000
 ---
 
-3rd time's the charm! Another month passed and that means it's time another issue of the Mappers' Report — your trustworthy news post with topics all about mapping in osu! I'm sure you're excited so let's start right away!
+Third time's the charm! Another month has passed and that means it's time for another issue of the Mappers' Report — your trustworthy news post with topics all about mapping in osu! I'm sure you're excited, so let's start right away!
 
 ![](/wiki/shared/news/banners/the-mappers-report.jpg)
 
@@ -59,7 +59,7 @@ Once enough topics are gathered, future NAT meeting dates will be announced in u
 
 Recent changes to the website allow mappers to set genre and language on their own beatmaps — a feature which had only been available to moderators on the old website. With these changes, the NAT decided to revisit what genres and languages are available and work out some of the kinks in the current list. 
 
-Changes have been proposed, including adding popular genres like Metal, Classical, and Folk, along with adding new categorizations like Vocaloid and Doujin. You can find the full list of suggested changes [on github](https://github.com/ppy/osu-web/issues/5852#issuecomment-616219839), where discussion is still taking place.
+Changes have been proposed, including adding popular genres like Metal, Classical, and Folk, along with adding new categorizations like Vocaloid and Doujin. You can find the full list of suggested changes [on GitHub](https://github.com/ppy/osu-web/issues/5852#issuecomment-616219839), where discussion is still taking place.
 
 No additional meetings have been planned so far, but the NAT will be sure to get the word out when there's new topics on the horizon!
 
@@ -106,7 +106,7 @@ Perfect execution of different snaps and rhythms along with clean consistency th
 Implementing her own little rhythms with intuitive yet interesting kat placement really shows how good osu!taiko can sound and how it's possible to enhance the song that is mapped when someone knows their craft!
 
 Her ability to map faster and more chaotic songs just goes to show that she can handle multiple genres and can create something clean for everyone's taste. See what we mean for yourself with this well polished unranked set of [t+pazolite vs. P*Light - IZANA](https://osu.ppy.sh/beatmapsets/1100797#taiko/2299870), which also includes very smooth SV sections for a pleasant viewing experience.
-Yuemiao definitely deserves more credit, as she is quite unknown and surprised many with her first ranked map. From the current 28 ratings on her Mizatuma set, 27 (*twenty-seven!*) are 10* votes, which speaks for itself.
+Yuemiao definitely deserves more credit, as she is quite unknown and has surprised many with her first ranked map. From the current 28 ratings on her Mizatuma set, 27 (*twenty-seven!*) are 10 star votes, which speaks for itself.
 We are definitely looking forward to more of her maps in the future!
 
 The next month will feature osu!catch — but that's not all! As we want to give every player the chance to raise their voice for the Mappers' Showcase, we've created [this](https://forms.gle/kM5SW33xp1HttS7D8) form, where everyone can submit the names of mappers and storyboarders who in their opinion should be featured in one of the next issues of the Mappers' Report!
@@ -144,7 +144,7 @@ The contest required users to submit a full beatmap spread of any game mode for 
 
 #### [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) - Fortuna Redux
 
-- [osu! mapset](https://osu.ppy.sh/beatmapsets/712974/) by [DMT9 Nowa](https://osu.ppy.sh/users/5428909)
+- [osu! mapset](https://osu.ppy.sh/beatmapsets/712974) by [DMT9 Nowa](https://osu.ppy.sh/users/5428909)
  
 Each of the winners has been awarded with the Mapping With Rewards profile badge seen below! 
  
