@@ -91,7 +91,6 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 
 
 
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
