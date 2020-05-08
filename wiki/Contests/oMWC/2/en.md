@@ -121,11 +121,11 @@ The osu! Mapping World Cup is run by various community members.
 
 10. **“At least 2 mappers will have to collaborate on each song” - Are we able to work with my full team on each map?**
 
-   Yes! We set this rule to make sure the main spirit of the contest about collaborations remains, while not restricting people with their team management. If you want to work on a full team on each stage, you’re encouraged to do so!
+    Yes! We set this rule to make sure the main spirit of the contest about collaborations remains, while not restricting people with their team management. If you want to work on a full team on each stage, you’re encouraged to do so!
 
 11. **I want to vote, but I don’t have any mapping experience, am I allowed to do so?**
 
-   Sadly, no you can’t. You must have at least one ranked guest difficulty in osu!standard. If you meet these criterias, you’ll be able to vote for the potential Team Captains based on your country flag, which means you can’t vote for Russian Team Captain if you’re from the United Kingdom.
+    Sadly, no you can’t. You must have at least one ranked guest difficulty in osu!standard. If you meet these criterias, you’ll be able to vote for the potential Team Captains based on your country flag, which means you can’t vote for Russian Team Captain if you’re from the United Kingdom.
 
 12. **Are we allowed to change our votes?**
 
@@ -137,11 +137,11 @@ The osu! Mapping World Cup is run by various community members.
    
 14. **Can I make an osu!mania, osu!taiko or osu!catch beatmap?**
 
-   No. This instance of the contest is only for the osu!standard mode.
+    No. This instance of the contest is only for the osu!standard mode.
 
 15. **Will this event be broadcasted on Twitch?**
 
-   Yes, the finals and grand finals of the contest will be broadcasted on Twitch. During this stream, there will be a summary of all important moments of the contest.
+    Yes, the finals and grand finals of the contest will be broadcasted on Twitch. During this stream, there will be a summary of all important moments of the contest.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
