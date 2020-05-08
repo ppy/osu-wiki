@@ -20,6 +20,6 @@ username 항목에는 알파벳 밑 숫자  (`a-z`, `A-Z`, `0-9`), 언더바 (`_
 
 신중하게 규칙을 읽어주세요! [링크](/wiki/Rules) 
 
-이것이 끝나면 이제 osu!를 시작할 준비가 끝나게 된겁니다! [비트맵을 추가](/wiki/Installation#adding-beatmapsets)할수도 있고 또는 [스킨](/wiki/Skinning)을 만들거나 혹은 [비트맵을 만들수도 있습니다](/wiki/Beatmapping).  아니면 자기소개 포럼에 들어가 자기소개를 할수도 잇겟죠.[링크](https://osu.ppy.sh/community/forums/8).
+이것이 끝나면 이제 osu!를 시작할 준비가 끝나게 된겁니다! [비트맵을 추가](/wiki/Installation#adding-beatmapsets)할수도 있고 또는 [스킨](/wiki/Skinning)을 만들거나 혹은 [비트맵을 만들수도 있습니다](/wiki/Beatmapping).  아니면 [자기소개 포럼](https://osu.ppy.sh/community/forums/8)에 들어가 자기소개를 할수도 잇겟죠.
 
 게임안에서 도움이 필요할경우 `f8` 또는 `f9`키를 누른 후 `/join help`를 입력하면 `#help` [채팅방](/wiki/Internet_Relay_Chat)으로 이동되므로 여기서 물어봐주세요! 또는 [help포럼](https://osu.ppy.sh/community/forums/5)을 이용해주세요 
