@@ -7,8 +7,11 @@
    ![Oyun-içi kayıt formu](img/ingame-registration.jpg "Kayıt formu")
 
 2. Formdaki tüm boş alanları doldurun.
-   - Kullanıcı adı hanesi için, sadece alfanumerik karakterler (`a-z`, `A-Z`, `0-9`), alt çizgi (`_`), köşeli parantezler (`[` ve `]`), orta çizgi (`-`), ve boşluk (` `) kullanabileceğiniz, azami 15 karakter limiti mevcuttur. 
+
+   - Kullanıcı adı hanesi için, sadece alfanumerik karakterler (`a-z`, `A-Z`, `0-9`), alt çizgi (`_`), köşeli parantezler (`[` ve `]`), orta çizgi (`-`), ve boşluk (` `) kullanabileceğiniz, azami 15 karakter limiti mevcuttur.
+   
    - Eposta adresi hanesi için, epostanızı kullanın. Bu şifrenizi sıfırlamanız ve gerektiğinde onay kodu gönderimi için kullanılır, dolayısıyla kullan-at bir eposta kullanmayın.
+   
    - Şifre hanesi için, en az 8 karakter uzunluğunda bir şifre kullanın.
    
 3. Tamamladığınızda, `1. Hesabımı oluştur!` butonuna tıklayın. Otomatik olarak giriş yapmış olacaksınız.
