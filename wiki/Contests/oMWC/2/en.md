@@ -51,6 +51,7 @@ The osu! Mapping World Cup is run by various community members.
 | Contributor | ![][flag_TH] [Electoz](https://osu.ppy.sh/users/6485263), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_DE] [Smokeman](https://osu.ppy.sh/users/2140676), ![][flag_DE] [Yauxo](https://osu.ppy.sh/users/898306) |
 | Judge | ![][flag_TH] [Electoz](https://osu.ppy.sh/users/6485263), ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645), ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875), ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314), ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) |
 | Reserve Judge | ![][flag_BE] [Stack](https://osu.ppy.sh/users/6122935), ![][flag_KR] [Sonnyc](https://osu.ppy.sh/users/11771) |
+| Designer | ![][flag_FR] [Imakuri](https://osu.ppy.sh/users/6100837), ![][flag_ID] [Natsume Shiki](https://osu.ppy.sh/users/8972308) |
 | Statistician | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) |
 
 ## Links
