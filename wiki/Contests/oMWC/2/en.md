@@ -15,9 +15,9 @@ The **osu! Beatmapping World Championship 2020** (***o!BWC 2020***) is a country
 
 | Event | Timestamp |
 | --: | :-- |
-| Announcements and Registration phase | 2020-05-02/2020-05-15 |
-| Voting phase for each country's Team Captain | 2020-05-16/2020-05-22 |
-| Team Building phase | 2020-05-23/2020-05-29 |
+| Announcements and Registration Phase | 2020-05-02/2020-05-15 |
+| Voting Phase for Each Country's Team Captain | 2020-05-16/2020-05-22 |
+| Team Building Phase | 2020-05-23/2020-05-29 |
 | Qualifier Round - Mapping Phase | 2020-05-30/2020-06-12 |
 | Qualifier Round - Judging Phase | 2020-06-14/2020-06-27 |
 | Round of 16 - Mapping Phase | 2020-06-30/2020-07-12 |
@@ -103,7 +103,7 @@ The osu! Beatmapping World Championship is run by various community members.
 
 5. **What if my country doesn’t have a Team Captain?**
 
-   You’re free to apply as one through the website if you meet the criterias! Mappers of your country will vote for the people they want to have as their country’s Team Captain. If nobody applied to be a Team Captain for your country once the deadline is over, you won’t be able to participate in the contest. Make sure to let mappers in your country know of this beforehand! The country you will be allowed to participate with will be based on your profile's flag. No country merge will be allowed to avoid management complications.
+   You’re free to apply as one through the website if you meet the criterias! Mappers of your country will vote for the people they want to have as their country’s Team Captain. If nobody applied to be a Team Captain for your country once the deadline is over, contest staff will pick one for the team. The country you will be allowed to participate with will be based on your profile's flag. No country merge will be allowed to avoid management complications.
 
 6. **Can I have my own team for my country even if it already has one?**
 
