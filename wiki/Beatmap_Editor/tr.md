@@ -13,7 +13,7 @@ Beatmap düzenleyici 4 ana kısma ayrılmıştır (sol üstte görebilirsiniz):
 - Oluştur
 - Dizayn
 - Zamanlama
-- Müzik ayarları
+- Müzik kurulumu
 
 ## Oluştur
 
