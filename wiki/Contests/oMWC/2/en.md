@@ -42,7 +42,7 @@ The **osu! Beatmapping World Championship 2020** (***o!BWC 2020***) is a country
 
 ## Organisation
 
-The osu! Mapping World Cup is run by various community members.
+The osu! Beatmapping World Championship is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
