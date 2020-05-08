@@ -24,7 +24,7 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 | Quarterfinals | 2020-06-12/2020-06-14 |
 | Semifinals | 2020-06-19/2020-06-21 |
 | Finals | 2020-06-26/2020-06-28 |
-| Grand Finals | 2020-07-03/2020-07-05|
+| Grand Finals | 2020-07-03/2020-07-05 |
 
 ## Prizes
 
@@ -34,10 +34,12 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | |
 
-#### Pending Badge
+### Pending Badge
+
 ![](images/smallbadge.png "Pending Profile Badge")
 
 ## Organisation
+
 | Position | Member(s) |
 | :-- | :-- |
 | Host | ![][flag_US] [Chugga444](https://osu.ppy.sh/users/12754827) |
@@ -68,7 +70,7 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 | Chuchichäschtli | ![][flag_CH] **[[Arikawa]](https://osu.ppy.sh/users/6454830)**, ![][flag_CH] [Kvn_hot_potato](https://osu.ppy.sh/users/6228912), ![][flag_CH] [[ Kuromei ]](https://osu.ppy.sh/users/6675144) |
 | Fashionably Late | ![][flag_US] **[Dream10](https://osu.ppy.sh/users/11740481)**, ![][flag_US] [fourfifty](https://osu.ppy.sh/users/9653206), ![][flag_SV] [Mario564](https://osu.ppy.sh/users/14544646), ![][flag_US] [Zeity](https://osu.ppy.sh/users/11367167) |
 | osu!Coin | ![][flag_US] **[Lattice35](https://osu.ppy.sh/users/14902742)**, ![][flag_US] [PacoTaco03](https://osu.ppy.sh/users/9968194), ![][flag_US] [QuintecX](https://osu.ppy.sh/users/15458667/osu), ![][flag_US] [Cnolii](https://osu.ppy.sh/users/11246834) |
-| KuroNeko | ![][flag_TH] **[SeJ_ey3](https://osu.ppy.sh/users/14620880)**, ![][flag_TH] [[TH]_ Eugen_](https://osu.ppy.sh/users/11475384), ![][flag_PH] [Ecstatify](https://osu.ppy.sh/users/14494059), ![][flag_ID] [Fleure De Lapin](https://osu.ppy.sh/users/5569341/osu) |
+| KuroNeko | ![][flag_TH] **[SeJ_ey3](https://osu.ppy.sh/users/14620880)**, ![][flag_TH] [[TH]-Eugen_](https://osu.ppy.sh/users/11475384), ![][flag_PH] [Ecstatify](https://osu.ppy.sh/users/14494059), ![][flag_ID] [Fleure De Lapin](https://osu.ppy.sh/users/5569341/osu) |
 | Ugga Ugga ⊂(( o・ω・))⊃ | ![][flag_TR] **[Undine116](https://osu.ppy.sh/users/14352107)**, ![][flag_CH] [xUnicornball69x](https://osu.ppy.sh/users/16078878), ![][flag_TR] [Phantase](https://osu.ppy.sh/users/8584641) |
 | Tablet Slayers | ![][flag_IT] **[Dagoliir](https://osu.ppy.sh/users/7209911)**, ![][flag_ES] [CebollaVladimir](https://osu.ppy.sh/users/15308238) |
 | playstyl'D | ![][flag_US] **[BowLL](https://osu.ppy.sh/users/10198015/osu)**, ![][flag_US] [Yenmaster](https://osu.ppy.sh/users/12565402), ![][flag_US] [RDSparkle](https://osu.ppy.sh/users/7588462) |
@@ -88,15 +90,13 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 | CatMooners | ![][flag_BR] **[MoonTears](https://osu.ppy.sh/users/11911570)**, ![][flag_BR] [Axiey](https://osu.ppy.sh/users/11711340) |
 
 
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_DO]: /wiki/shared/flag/DO.gif "Dominican Republic"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
@@ -105,20 +105,12 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italy"
-[flag_IN]: /wiki/shared/flag/IN.gif "India"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
 [flag_LV]: /wiki/shared/flag/LV.gif "Latvia"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SA]: /wiki/shared/flag/SA.gif "Saudi Arabia"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_SV]: /wiki/shared/flag/SV.gif "El salvador"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
