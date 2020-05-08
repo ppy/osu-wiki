@@ -146,7 +146,7 @@ The contest required users to submit a full beatmap spread of any game mode for 
  
 Each of the winners has been awarded with the Mapping With Rewards profile seen below! 
  
-![](LINK)
+![](/wiki/shared/news/2020-05-08-mappers-report-april/mwr_badge2x.png)
  
 Late congratulations to the winners and thank you to [Okoratu](https://osu.ppy.sh/users/1623405), [Mir](https://osu.ppy.sh/users/8688812), [Zetera](https://osu.ppy.sh/users/587737), [Nepuri](https://osu.ppy.sh/users/6637817), [Yuzeyun](https://osu.ppy.sh/users/481582), [Maxus](https://osu.ppy.sh/users/4335785), and [Protastic101](https://osu.ppy.sh/users/6712747) for judging entries over a year ago. Full judging comments and more can be found in [this forum post](LINK).
  
