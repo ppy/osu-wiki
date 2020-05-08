@@ -138,9 +138,11 @@ The contest required users to submit a full beatmap spread of any game mode for 
 - [osu! mapset](https://osu.ppy.sh/beatmapsets/760694) by [DMT9 Nowa](https://osu.ppy.sh/users/5428909)
 - [osu!taiko mapset]() by [Raiden](https://osu.ppy.sh/users/2239480)
 - [osu!mania mapset](https://osu.ppy.sh/beatmapsets/772257) by [chouyaa](https://osu.ppy.sh/users/8404646)
+
 #### [*namirin](https://osu.ppy.sh/beatmaps/artists/18) - closing eyes
 - [osu! mapset](https://osu.ppy.sh/beatmapsets/669437) by [pishifat](https://osu.ppy.sh/users/3178418)
 - [osu!taiko mapset](https://osu.ppy.sh/beatmapsets/705499) by [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
+
 #### [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) - Fortuna Redux
 - [osu! mapset](https://osu.ppy.sh/beatmapsets/712974/) by [DMT9 Nowa](https://osu.ppy.sh/users/5428909)
  
@@ -164,15 +166,15 @@ While we try to keep watch over all running contests, we might miss some. If you
 
 This section is all about interesting things which have been happening or will happen soon in the mapping and modding community! Should you have/know about something interesting that’s happening within the mapping community, be sure to let [Feerum](https://osu.ppy.sh/users/4815717) or [Noffy](https://osu.ppy.sh/users/1541323) know about it! For this month, we have updates on the mapping podcast **The osu! Map Cast**, the **Electoz Advanced Modding Guide**, and how **super long marathons can now be ranked**!
 
-#### The osu! Map Cast
+### The osu! Map Cast
 
 Mentioned in [last month's Mappers' Report](https://osu.ppy.sh/home/news/2020-04-11-mappers-report-march), the **osu! Map Cast** is still going strong, with five new episodes! Usually once per week, this podcast hosted by [Cinnabun](https://osu.ppy.sh/users/11868659) features him talking with a wide variety of mapping community members about osu! and beyond. In the past month and a bit, the osu! Map Cast has published new episodes with [the Elite Nominator Cheri](https://www.youtube.com/watch?v=KpuEXzbmrys), [the osu!taiko Nominator incandescence](https://www.youtube.com/watch?v=poaLJGGeD68), [osu! NAT and former video mapping tutorial extraordinaire pishifat](https://www.youtube.com/watch?v=pJwSShQT3eA), [the new osu! Beatmap Nominator wafer](https://www.youtube.com/watch?v=91oq-hgHAdY), and [a group episode with Nevo, Cheri, incandsecence and Cinnabun all together!](https://www.youtube.com/watch?v=J8Wc8yX4ems) The podcast episodes cover a wide variety of topics, both within osu! such as mapping and modding experiences, and outside of osu! such as birds. Be sure to check out more details and links on the [osu! Map Cast forum post](https://osu.ppy.sh/community/forums/topics/1043221) if this so far has spiked your interest!
 
-#### Electoz Advanced Modding Guide
+### Electoz Advanced Modding Guide
 
 Making waves in the modding community recently is the freshly published modding guide by [Electoz](https://osu.ppy.sh/users/6485263) who is a former Beatmap Nominator and long-time mentor in the Mapping Mentorship Program. The modding guide which can be found on their userpage goes in-depth on basically everything you would need to know about modding at a more advanced level. Electoz has fully infused the guide with his own knowledge and experiences, and the guide itself is largely based off how they would mentor successful aspiring modders! If you're into modding, or want to get into it, checking out the Electoz Advanced Modding Guide should definitely be worth your while.
 
-#### Super long marathons are now rankable!
+### Super long marathons are now rankable!
 
 Yes, you heard that right. Until recently, extremely long maps could not be ranked due to breaking the score limit, since the scoreboards wouldn't reflect everyone's plays properly anyways. Now the developers have changed it so that super long maps which break the score limit even without mods will have score v2 force enabled. In such cases, these score v2 scores will be submittable, finally allowing super long maps to have proper leaderboards. This means we'll be seeing extremely long maps ranked in the future, which is a really exciting improvement!
 
