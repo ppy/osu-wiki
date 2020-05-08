@@ -4,7 +4,7 @@ title: "The Mappers' Report: April"
 date: 2020-05-10 12:00:00 +0000
 ---
 
-3rd time the charm! Another month passed and that means it’s time another issue of the Mappers’ Report! Your trustworthy news post with topics all about mapping in osu! I’m sure you’re excited so let’s start right away!
+3rd time the charm! Another month passed and that means it's time another issue of the Mappers' Report! Your trustworthy news post with topics all about mapping in osu! I'm sure you're excited so let's start right away!
 
 ![](/wiki/shared/news/banners/the-mappers-report.jpg)
 
@@ -13,14 +13,14 @@ This month's issue of the Mappers' Report contains following topics:
 - **[Ranking Criteria Changes](#rc-changes)**
 - **[NAT Meetings](#nat-meetings)**
 - **[Within the Beatmap Nominators and NAT](#within-bn-nat)**
-- **[Mappers’ Showcase](#mappers-showcase)**
+- **[Mappers' Showcase](#mappers-showcase)**
 - **[Mapping Contests](#mapping-contests)**
 - **[Around the Community](#around-community)**
 - **[Conclusion](#conclusion)**
 
 ## <a id="rc-changes"></a>Ranking Criteria Changes
 
-Stay up to date with the Ranking Criteria or help make the game more awesome by participating in open Ranking Criteria discussions! The Ranking Criteria affects all mappers so let’s see what happened this month!
+Stay up to date with the Ranking Criteria or help make the game more awesome by participating in open Ranking Criteria discussions! The Ranking Criteria affects all mappers so let's see what happened this month!
 
 This month we had no changes in the Ranking Criteria. But there are several open proposal in the [Ranking Criteria forum](https://osu.ppy.sh/community/forums/87). We have listed some of them below!
 
@@ -54,9 +54,9 @@ For osu!catch:
 
 While NAT meetings have covered all planned topics and have slowly come to a close, changes to the website spurred the NAT to hold an additional one.
 
-If you have any topics which should be discussed in future meetings, or a proposal you’d like to push to NAT, please do not hesitate to make a post about it on the [NAT Meetings Overview](https://osu.ppy.sh/community/forums/topics/1041618)! 
+If you have any topics which should be discussed in future meetings, or a proposal you'd like to push to NAT, please do not hesitate to make a post about it on the [NAT Meetings Overview](https://osu.ppy.sh/community/forums/topics/1041618)! 
 
-Once enough topics are gathered, future NAT meeting dates will be announced in further Mappers’ Report issues, in #modding on the [osu!dev Discord server](https://discord.gg/ppy) and on the forums!
+Once enough topics are gathered, future NAT meeting dates will be announced in further Mappers' Report issues, in #modding on the [osu!dev Discord server](https://discord.gg/ppy) and on the forums!
 
 ### [April 11th, 2020 - Genre and Language Settings](https://osu.ppy.sh/community/forums/topics/1059659)
 
@@ -64,7 +64,7 @@ Recent changes to the website allow us to set genre and language once more, a fe
 
 Quite a few changes have been proposed like adding popular genres such as Metal; Classical; Folk and adding new categorizations like Vocaloid or Doujin. You can find the full list of suggested changes [on github](https://github.com/ppy/osu-web/issues/5852#issuecomment-616219839), where discussion is still taking place.
 
-No additional meetings have been planned so far, but we’ll be sure to get the word out when there’s new topics on the horizon!
+No additional meetings have been planned so far, but we'll be sure to get the word out when there's new topics on the horizon!
 
 ## <a id="within-bn-nat"></a>Within the Beatmap Nominators and NAT
 
@@ -88,9 +88,9 @@ Ever been interested in getting a Beatmap Nominator and deciding what maps get r
 
 Our office cat **[Mao](https://osu.ppy.sh/users/2204515)** has returned! After stepping down from the NAT duties in December 2019, he decided to make his return. Mao will lend the other osu! NATs a helping hand with doing Beatmap Nominator evaluations. Welcome back!
 
-## <a id="mappers-showcase"></a>Mappers’ Showcase
+## <a id="mappers-showcase"></a>Mappers' Showcase
 
-The Mappers’ Showcase will bring to you Mappers from every game mode which not everyone might know. They are hand-selected and a hidden gem for their game mode. 
+The Mappers' Showcase will bring to you Mappers from every game mode which not everyone might know. They are hand-selected and a hidden gem for their game mode. 
 This month will feature osu!taiko and the selectors were [radar](https://osu.ppy.sh/users/7131099) and [Capu](https://osu.ppy.sh/users/2474015).
 
 ### Idealism
@@ -112,9 +112,9 @@ Her ability to also map faster and more chaotic songs just goes to show that she
 Yuemiao definitely deserves more credit, as she is quite unknown and surprised many with her first ranked map. The current 28 ratings on her Mizatuma consist of 27(!) 10* votes. If ratings could talk, we wouldn't have to phrase this.
 We are definitely looking forward to more of her maps in the future and expect something great!
 
-The next month will feature osu!catch. But that’s not all yet. We want to give every player the chance to raise their voice for the Mappers’ Showcase. That’s why we created this [form](https://forms.gle/kM5SW33xp1HttS7D8) where everyone can submit mappers and storyboarder of which they think they should be featured in one of the next issues of the Mappers’ Report!
+The next month will feature osu!catch. But that's not all yet. We want to give every player the chance to raise their voice for the Mappers' Showcase. That's why we created this [form](https://forms.gle/kM5SW33xp1HttS7D8) where everyone can submit mappers and storyboarder of which they think they should be featured in one of the next issues of the Mappers' Report!
 
-We’re excited as you to see which gems are still hidden in osu!
+We're excited as you to see which gems are still hidden in osu!
 
 ## <a id="mapping-contests"></a>Mapping Contests
  
@@ -159,15 +159,15 @@ With that said, Mapping With Rewards has reached its end. Closure, *finally*!
 
 ### osu! Beatmapping World Championship 2020
 
-The largest group mapping contest of the year has arrived! This contest pits mappers from different countries against each other in a format never before utilized for mapping. Give its [news post](https://osu.ppy.sh/home/news/2020-05-02-beatmapping-world-championship-2020) a read if you’re interested, and see [the project’s website](https://obwc.net/) for more details!
+The largest group mapping contest of the year has arrived! This contest pits mappers from different countries against each other in a format never before utilized for mapping. Give its [news post](https://osu.ppy.sh/home/news/2020-05-02-beatmapping-world-championship-2020) a read if you're interested, and see [the project's website](https://obwc.net/) for more details!
 
 ---
 
-While we try to keep watch over all running contests, we might miss some. If you’re aware of a mapping contest that should receive more attention, head to [this forum thread](https://osu.ppy.sh/community/forums/topics/1027590) to submit it for inclusion in the next issue of the Mappers’ Report!
+While we try to keep watch over all running contests, we might miss some. If you're aware of a mapping contest that should receive more attention, head to [this forum thread](https://osu.ppy.sh/community/forums/topics/1027590) to submit it for inclusion in the next issue of the Mappers' Report!
 
 ## <a id="around-community"></a>Around the Community
 
-This section is all about interesting things which have been happening or will happen soon in the mapping and modding community! Should you have/know about something interesting that’s happening within the mapping community, be sure to let [Feerum](https://osu.ppy.sh/users/4815717) or [Noffy](https://osu.ppy.sh/users/1541323) know about it! For this month, we have updates on the mapping podcast **The osu! Map Cast**, the **Electoz Advanced Modding Guide**, and how **super long marathons can now be ranked**!
+This section is all about interesting things which have been happening or will happen soon in the mapping and modding community! Should you have/know about something interesting that's happening within the mapping community, be sure to let [Feerum](https://osu.ppy.sh/users/4815717) or [Noffy](https://osu.ppy.sh/users/1541323) know about it! For this month, we have updates on the mapping podcast **The osu! Map Cast**, the **Electoz Advanced Modding Guide**, and how **super long marathons can now be ranked**!
 
 ### The osu! Map Cast
 
@@ -185,7 +185,7 @@ Yes, you heard that right. Until recently, extremely long maps could not be rank
 
 ---
 
-And that’s it for this month! Every month we try to make the Mappers’ Report shorter but we simply can’t. It happens too much in the community which needs to be covered every month. And we’re very happy about it! To see so many community driven projects. We’re excited to see what the next month has for us. 
+And that's it for this month! Every month we try to make the Mappers' Report shorter but we simply can't. It happens too much in the community which needs to be covered every month. And we're very happy about it! To see so many community driven projects. We're excited to see what the next month has for us. 
 Thanks for reading and stay safe and healthy!
 
 See you next month!
