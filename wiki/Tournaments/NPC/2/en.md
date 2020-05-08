@@ -89,8 +89,7 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 | WeLoveKöfte | ![][flag_DE] **[Nikurax](https://osu.ppy.sh/users/11705938)**, ![][flag_DE] [Denk_Fisch](https://osu.ppy.sh/users/13210251), ![][flag_DE] [Enyu](https://osu.ppy.sh/users/14106819), ![][flag_PL] [misiekreksio](https://osu.ppy.sh/users/12908278) |
 | CatMooners | ![][flag_BR] **[MoonTears](https://osu.ppy.sh/users/11911570)**, ![][flag_BR] [Axiey](https://osu.ppy.sh/users/11711340) |
 
-
-
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
