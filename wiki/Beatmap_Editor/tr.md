@@ -17,19 +17,19 @@ Beatmap düzenleyici 4 ana kısma ayrılmıştır (sol üstte görebilirsiniz):
 
 ## Oluştur
 
-[Oluştur](/wiki/Beatmap_Editor/Compose) sekmesi tüm [objelerin](/wiki/Hit_Objects) ve oynayış ile alakalı şeylerin oluşturulduğu yerdir. Çoğu beatmapper çoğu zamanını bu sekmede geçirmesinin nedeni budur.
+[Oluştur](/wiki/Beatmap_Editor/Compose) sekmesi tüm [vuruş objelerinin](/wiki/Hit_Objects) ve oynayış ile alakalı diğer elemanların oluşturulduğu yerdir. Pek çok mapper vaktinin çoğunu bu sekmede geçirmesi bu yüzdendir.
 
 ## Dizayn
 
-[Dizayn](/wiki/Beatmap_Editor/Design) sekmesi [storyboard](/wiki/Storyboards) yapmayı sağlar. Diğer bir deyişle beatmapin görsel efekt kısmı. Storyboardlar genellikle karmaşık efektler içerdiğinden dolayı ve çok fazla storyboard komutu kullanımı gerektirdiğinden, beatmapperlar [storyboard kodlama](/wiki/Storyboard_Scripting) da kullanmaktadırlar. Dizayn sekmesine hiç girmeden!
+[Dizayn](/wiki/Beatmap_Editor/Design) sekmesi beatmaplere eklenen görsel efektler olan [storyboard](/wiki/Storyboards) oluşturmayı sağlar. Storyboardlar genellikle karmaşık efektler içerdiğinden dolayı ve çok fazla storyboard komutu kullanımı gerektirdiğinden dolayı, mapperlar aynı zamanda dizayn sekmesine hiç girmeden [storyboard komut dizisi](/wiki/Storyboard_Scripting) kullanmaktadırlar.
 
 ## Zamanlama
 
 [Zamanlama](/wiki/Beatmap_Editor/Timing) beatmapin vuruş seslerini ve zamanlamasını kontrol eder. Bu gerekli bir şeydir çünkü bir beatmap doğru zamanlama gerektirir ki oynayışa ve şarkının ritmine ayak uydursun.
 
-## Müzik ayarları
+## Müzik kurulumu
 
-[Müzik ayarları](/wiki/Beatmap_Editor/Song_Setup) beatmapin [meta verisini](/wiki/Ranking_Criteria#metadata) doldurur ve [beatmap setlerine](/wiki/Glossary#beatmapset) bağdaştırır. Bu şarkının başlığı, sanatçısı, zorluğu, seviye adı, kombo renkleri vs. içerir.
+[Müzik kurulumu](/wiki/Beatmap_Editor/Song_Setup) beatmapin [metaverisini](/wiki/Ranking_Criteria#metadata) doldurur ve [beatmap setlerine](/wiki/Glossary#beatmapset) bağdaştırır. Bu, şarkının başlığı, sanatçısı, zorluğu, seviye adı, kombo renkleri vs. içerir.
 
 ## Diğer
 
