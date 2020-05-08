@@ -38,6 +38,8 @@ The **osu! Beatmapping World Championship 2020** (***o!BWC 2020***) is a country
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 6 months of osu!supporter for each team member, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 4 months of osu! supporter for each team member, unique profile badge |
 
+![BWC2020 Champion](img/badge.png) ![BWC2020 2nd Place](img/badge2.png) ![BWC2020 3rd Place](img/badge3.png)
+
 ## Organisation
 
 The osu! Mapping World Cup is run by various community members.
