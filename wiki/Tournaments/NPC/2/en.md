@@ -62,7 +62,7 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 | :-- | :-- |
 | Stunter in the Toilet | ![][flag_DE] **[ShizuruxKotarou](https://osu.ppy.sh/users/4612857)**, ![][flag_DE] [Stunter443](https://osu.ppy.sh/users/12855636), ![][flag_DE] [Towny](https://osu.ppy.sh/users/15673024), ![][flag_DE] [PzKpwf](https://osu.ppy.sh/users/12558046) |
 | LoG Horizon | ![][flag_BR] **[kvictor](https://osu.ppy.sh/users/15922752)**, ![][flag_BR] [yJhowzz](https://osu.ppy.sh/users/11290673) |
-| Young Builders | ![][flag_RU] **[Tara_kan](https://osu.ppy.sh/users/13217621)**, ![][flag_RU] [bu1ld](https://osu.ppy.sh/users/13808132) |
+| Young Builders | ![][flag_RU] **[Tara_kan](https://osu.ppy.sh/users/13217621)**, ![][flag_RU] [bu1ld](https://osu.ppy.sh/users/13808132) ![][flag_RU] [JesusWCS](https://osu.ppy.sh/users/12420508), ![][flag_BY] [DyadyaShnuk](https://osu.ppy.sh/users/11268782) |
 | Click the Circles to the beat | ![][flag_US] **[Lapisz](https://osu.ppy.sh/users/8295497)**, ![][flag_FR] [Jhayyy](https://osu.ppy.sh/users/15374745), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711/osu), ![][flag_GB] [bluezenither](https://osu.ppy.sh/users/11861720) |
 | SLAVA ZEMLYANAM | ![][flag_RU] **[Maruyama-](https://osu.ppy.sh/users/11853175)**, ![][flag_RU] [Skeyn](https://osu.ppy.sh/users/7899956), ![][flag_RU] [f55dota2](https://osu.ppy.sh/users/14126397) |
 | Tapa na Cara | ![][flag_BR] **[Mr Capuccino](https://osu.ppy.sh/users/16224264)**, ![][flag_BR] [Megadestr](https://osu.ppy.sh/users/15795443) |
@@ -88,10 +88,12 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 | Australia's OWC Team on Smurf Accounts | ![][flag_NZ] **[Zed eS](https://osu.ppy.sh/users/13713183)**, ![][flag_AU] [shepraf](https://osu.ppy.sh/users/14749149), ![][flag_CA] [-careless-](https://osu.ppy.sh/users/15529550), ![][flag_US] [Destiny GD](https://osu.ppy.sh/users/16345483) |
 | WeLoveKöfte | ![][flag_DE] **[Nikurax](https://osu.ppy.sh/users/11705938)**, ![][flag_DE] [Denk_Fisch](https://osu.ppy.sh/users/13210251), ![][flag_DE] [Enyu](https://osu.ppy.sh/users/14106819), ![][flag_PL] [misiekreksio](https://osu.ppy.sh/users/12908278) |
 | CatMooners | ![][flag_BR] **[MoonTears](https://osu.ppy.sh/users/11911570)**, ![][flag_BR] [Axiey](https://osu.ppy.sh/users/11711340) |
+| Nerf or Nothin' | ![][flag_US] **[FAITHFIRE007](https://osu.ppy.sh/users/11739464)**, ![][flag_US] [LakinBacon](https://osu.ppy.sh/users/12838237), ![][flag_CA] [Kiwi123Food](https://osu.ppy.sh/users/11682384) |
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_BY]: /wiki/shared/flag/BY.gif "Belarus"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
