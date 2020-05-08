@@ -135,15 +135,18 @@ Mapping With Rewards was a deadline-free mapping contest with a reputation for..
 The contest required users to submit a full beatmap spread of any game mode for any of 3 specified [Featured Artist](https://osu.ppy.sh/beatmaps/artists) songs (listed below). The submissions were judged anonymously based on their creativity, cohesion as a spread, musical expression, and general judge impressions. It's been 3 years, so let's put this contest to rest by announcing the long-overdue winners of [Mapping With Rewards 2017](https://osu.ppy.sh/home/news/2017-09-23-mapping-with-rewards-returns):
  
 #### [Loki/Thaehan](https://osu.ppy.sh/beatmaps/artists/7) - A New King Is Born
+
 - [osu! mapset](https://osu.ppy.sh/beatmapsets/760694) by [DMT9 Nowa](https://osu.ppy.sh/users/5428909)
 - [osu!taiko mapset]() by [Raiden](https://osu.ppy.sh/users/2239480)
 - [osu!mania mapset](https://osu.ppy.sh/beatmapsets/772257) by [chouyaa](https://osu.ppy.sh/users/8404646)
 
 #### [*namirin](https://osu.ppy.sh/beatmaps/artists/18) - closing eyes
+
 - [osu! mapset](https://osu.ppy.sh/beatmapsets/669437) by [pishifat](https://osu.ppy.sh/users/3178418)
 - [osu!taiko mapset](https://osu.ppy.sh/beatmapsets/705499) by [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
 
 #### [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) - Fortuna Redux
+
 - [osu! mapset](https://osu.ppy.sh/beatmapsets/712974/) by [DMT9 Nowa](https://osu.ppy.sh/users/5428909)
  
 Each of the winners has been awarded with the Mapping With Rewards profile seen below! 
