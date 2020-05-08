@@ -4,11 +4,11 @@ title: "The Mappers' Report: April"
 date: 2020-05-10 12:00:00 +0000
 ---
 
-3rd time the charm! Another month passed and that means it's time another issue of the Mappers' Report! Your trustworthy news post with topics all about mapping in osu! I'm sure you're excited so let's start right away!
+3rd time's the charm! Another month passed and that means it's time another issue of the Mappers' Report — your trustworthy news post with topics all about mapping in osu! I'm sure you're excited so let's start right away!
 
 ![](/wiki/shared/news/banners/the-mappers-report.jpg)
 
-This month's issue of the Mappers' Report contains following topics:
+This month's issue of the Mappers' Report contains the following topics:
 
 - **[Ranking Criteria Changes](#rc-changes)**
 - **[NAT Meetings](#nat-meetings)**
@@ -20,13 +20,13 @@ This month's issue of the Mappers' Report contains following topics:
 
 ## <a id="rc-changes"></a>Ranking Criteria Changes
 
-Stay up to date with the Ranking Criteria or help make the game more awesome by participating in open Ranking Criteria discussions! The Ranking Criteria affects all mappers so let's see what happened this month!
+The [Ranking Criteria](/wiki/Ranking_Criteria) is a set of rules and guidelines beatmaps must follow to reach ranked status. Stay up to date or help make the game more awesome by participating in open Ranking Criteria discussions!
 
-This month we had no changes in the Ranking Criteria. But there are several open proposal in the [Ranking Criteria forum](https://osu.ppy.sh/community/forums/87). We have listed some of them below!
+This month we had no changes in the Ranking Criteria. But there are several open proposals in the [Ranking Criteria forum](https://osu.ppy.sh/community/forums/87). We have listed some of them below!
 
-## Open Ranking Criteria Proposals 
+### Open Ranking Criteria Proposals 
 
-For all modes!:
+For all modes:
 
 - **[Remove glossaries from RC pages](https://osu.ppy.sh/community/forums/topics/1064466)**
 - **[Unofficial Cuts/Mixes of Songs must be Specific](https://osu.ppy.sh/community/forums/topics/917043)**
@@ -54,17 +54,17 @@ For osu!catch:
 
 While NAT meetings have covered all planned topics and have slowly come to a close, changes to the website spurred the NAT to hold an additional one.
 
-If you have any topics which should be discussed in future meetings, or a proposal you'd like to push to NAT, please do not hesitate to make a post about it on the [NAT Meetings Overview](https://osu.ppy.sh/community/forums/topics/1041618)! 
+If you have any topics which should be discussed in future meetings, or a proposal you'd like to push to NAT, please do not hesitate to make a post about it on the [NAT Meetings forum thread](https://osu.ppy.sh/community/forums/topics/1041618)! 
 
-Once enough topics are gathered, future NAT meeting dates will be announced in further Mappers' Report issues, in #modding on the [osu!dev Discord server](https://discord.gg/ppy) and on the forums!
+Once enough topics are gathered, future NAT meeting dates will be announced in upcoming Mappers' Report issues, in #modding on the [osu!dev Discord server](https://discord.gg/ppy) and on the forums!
 
 ### [April 11th, 2020 - Genre and Language Settings](https://osu.ppy.sh/community/forums/topics/1059659)
 
-Recent changes to the website allow us to set genre and language once more, a feature which had only been available on the old website for a long time. With these changes, we decided to revisit what genres and languages are available and work out some of the kinks in the current list. 
+Recent changes to the website allow mappers to set genre and language on their own beatmaps — a feature which had only been available to moderators on the old website. With these changes, the NAT decided to revisit what genres and languages are available and work out some of the kinks in the current list. 
 
-Quite a few changes have been proposed like adding popular genres such as Metal; Classical; Folk and adding new categorizations like Vocaloid or Doujin. You can find the full list of suggested changes [on github](https://github.com/ppy/osu-web/issues/5852#issuecomment-616219839), where discussion is still taking place.
+Changes have been proposed, including adding popular genres like Metal, Classical, and Folk, along with adding new categorizations like Vocaloid and Doujin. You can find the full list of suggested changes [on github](https://github.com/ppy/osu-web/issues/5852#issuecomment-616219839), where discussion is still taking place.
 
-No additional meetings have been planned so far, but we'll be sure to get the word out when there's new topics on the horizon!
+No additional meetings have been planned so far, but the NAT will be sure to get the word out when there's new topics on the horizon!
 
 ## <a id="within-bn-nat"></a>Within the Beatmap Nominators and NAT
 
@@ -77,7 +77,7 @@ New Beatmap Nominators! Quick, request all your beatmaps! Jokes aside, the Beatm
 - **osu!catch:** [Dako](https://osu.ppy.sh/users/11081858)
 - **osu!mania:** [Sun](https://osu.ppy.sh/users/4115819)
 
-Ever been interested in getting a Beatmap Nominator and deciding what maps get ranked next? Or you just want to help new mappers to get their beatmaps ranked? Then head right over to the [Beatmap Nominator website](https://bn.mappersguild.com/) and apply today! 
+Interested in becoming a Beatmap Nominator and deciding what maps reach ranked? Want to help new mappers to get their beatmaps ranked? Head to the [Beatmap Nominator website](https://bn.mappersguild.com/) and apply today! 
 
 ### BN Resignations
 
@@ -86,33 +86,33 @@ Ever been interested in getting a Beatmap Nominator and deciding what maps get r
 
 ### NAT Additions
 
-Our office cat **[Mao](https://osu.ppy.sh/users/2204515)** has returned! After stepping down from the NAT duties in December 2019, he decided to make his return. Mao will lend the other osu! NATs a helping hand with doing Beatmap Nominator evaluations. Welcome back!
+Our office cat **[Mao](https://osu.ppy.sh/users/2204515)** has returned! After stepping down from the NAT duties in December 2019, he decided to make his return. Mao is lending the other osu! NAT members a helping hand with Beatmap Nominator evaluations. Welcome back!
 
 ## <a id="mappers-showcase"></a>Mappers' Showcase
 
-The Mappers' Showcase will bring to you Mappers from every game mode which not everyone might know. They are hand-selected and a hidden gem for their game mode. 
-This month will feature osu!taiko and the selectors were [radar](https://osu.ppy.sh/users/7131099) and [Capu](https://osu.ppy.sh/users/2474015).
+The Mappers' Showcase parades lesser-known mappers from every game mode. 
+This month features osu!taiko thanks to the our selectors [radar](https://osu.ppy.sh/users/7131099) and [Capu](https://osu.ppy.sh/users/2474015).
 
 ### Idealism
 
-**[Idealism](https://osu.ppy.sh/users/3869519)** is a osu!taiko mapper (as well as an osu! top player) from Brazil who has been around in the community for a while now, though he definitely deserves more credit for his work in the mapping scene! His maps blend creativity with smooth and interesting patterning which will leave a good taste in the mouths of mappers and players alike.
+**[Idealism](https://osu.ppy.sh/users/3869519)** is an osu!taiko mapper (as well as an osu! top player) from Brazil who has been around the community for a while now, though he definitely deserves more credit for his work in the mapping scene! His maps blend creativity with smooth and interesting patterning which leave a good taste in the mouths of mappers and players alike.
 
-A map of his that truly shines in many people's eyes is his semi-recently ranked rendition of [Cyte - Command Prompt](https://osu.ppy.sh/beatmapsets/1068145#taiko/2236237). On the top difficulty (mind bogglingly named "C:\Program Files\Difficulties\434f525255505445442046494c45.exe"), Idealism proves that even when mapping genres out of his comfort zone he can still shine. 
+A map of his that truly shines is his rendition of [Cyte - Command Prompt](https://osu.ppy.sh/beatmapsets/1068145#taiko/2236237) ranked at the start of the year. On the top difficulty (mind bogglingly named "C:\Program Files\Difficulties\434f525255505445442046494c45.exe"), Idealism proves that even when mapping genres out of his comfort zone he can still shine. 
 
-Some of his other notable and equally as great maps would be his renditions of [Blue on Blue (TamorlaM Btlg Remix)](https://osu.ppy.sh/beatmapsets/965135#taiko/2020395) and [White Eternity](https://osu.ppy.sh/beatmapsets/992443#taiko/2075446), where he shows off his addiction to eroge music through his solid mapping! We hope to see even more of his maps coming into the ranked section in the rest of 2020, as his potential to shine even brighter clearly shows!
+Some of his other notable and equally as great maps would be his renditions of [Blue on Blue (TamorlaM Btlg Remix)](https://osu.ppy.sh/beatmapsets/965135#taiko/2020395) and [White Eternity](https://osu.ppy.sh/beatmapsets/992443#taiko/2075446), where he shows off his addiction to eroge music through his solid mapping! We hope to see more of his maps coming into the ranked section in the rest of 2020, as his potential to shine even brighter clearly shows!
 
 ### Yuemiao
 
 Recently making her first appearance in the ranked section with her take on [Mizutama by YUC'e and Nor](https://osu.ppy.sh/beatmapsets/1009290#taiko/2112927),  **[Yuemiao](https://osu.ppy.sh/users/4493348)** shows us that she definitely knows what she's doing.
 
-Executing many different snaps and rhythms perfectly, with clean consistency throughout her difficulties, making this map definitely one of the most interesting ones in the ranked section as of late.
-Adding her own little rhythms with an intuitive yet interesting kat placement, really shows how good osu!taiko can sound and how it's possible to enhance the song that is mapped when someone knows their craft!
+Perfect execution of different snaps and rhythms along with clean consistency throughout her difficulties makes this map one of the most interesting additions to the ranked section as of late.
+Implementing her own little rhythms with intuitive yet interesting kat placement really shows how good osu!taiko can sound and how it's possible to enhance the song that is mapped when someone knows their craft!
 
-Her ability to also map faster and more chaotic songs just goes to show that she can handle multiple genres and definitely can create something clean for everyone's taste. Try it yourself with this well polished unranked set of [IZANA - t+pazolite vs. P*Light](https://osu.ppy.sh/beatmapsets/1100797#taiko/2299870), which also includes very smooth SV sections, making this pleasant to the eye as well.
-Yuemiao definitely deserves more credit, as she is quite unknown and surprised many with her first ranked map. The current 28 ratings on her Mizatuma consist of 27(!) 10* votes. If ratings could talk, we wouldn't have to phrase this.
-We are definitely looking forward to more of her maps in the future and expect something great!
+Her ability to map faster and more chaotic songs just goes to show that she can handle multiple genres and definitely can create something clean for everyone's taste. See what we mean for yourself with this well polished unranked set of [t+pazolite vs. P*Light - IZANA](https://osu.ppy.sh/beatmapsets/1100797#taiko/2299870), which also includes very smooth SV sections for a pleasant viewing experience.
+Yuemiao definitely deserves more credit, as she is quite unknown and surprised many with her first ranked map. From the current 28 ratings on her Mizatuma set, 27 (*twenty-seven!*) are 10* votes, which speaks for itself.
+We are definitely looking forward to more of her maps in the future!
 
-The next month will feature osu!catch. But that's not all yet. We want to give every player the chance to raise their voice for the Mappers' Showcase. That's why we created this [form](https://forms.gle/kM5SW33xp1HttS7D8) where everyone can submit mappers and storyboarder of which they think they should be featured in one of the next issues of the Mappers' Report!
+The next month will feature osu!catch — but that's not all! As we want to give every player the chance to raise their voice for the Mappers' Showcase, we've created [this](https://forms.gle/kM5SW33xp1HttS7D8) form, where everyone can submit the names of mappers and storyboarders who in their opinion should be featured in one of the next issues of the Mappers' Report!
 
 We're excited as you to see which gems are still hidden in osu!
 
@@ -124,7 +124,7 @@ Flex your mapping muscles by voting and participating in some of this month's on
  
 As per usual, the [Monthly Beatmapping Contest](https://osu.ppy.sh/help/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*) is here to provide your regular dosage of competitive mapping! Each month's contest features a different mapping limitation that entries must adhere to.
  
-April's contest is currently in its voting stage! Visit its [contest listing](https://osu.ppy.sh/community/contests/93) to vote for any 2 of the top 5 entries, and keep in mind its limitation — sliders in all entries were required to use reverses, meaning normal slider rhythms were not allowed!
+April's contest is currently in its voting stage! Visit the [contest listing](https://osu.ppy.sh/community/contests/93) to vote for any 2 of the top 5 entries, and keep in mind that sliders in all entries were required to use reverses, meaning normal slider rhythms were not allowed!
  
 If you prefer mapping to voting, May's contest will be in its beatmapping stage up through May 26th! This month's contest takes rhythm restrictions up a hundred notches from last month by requiring all submissions to use the same rhythm template. See the [contest's news post](https://osu.ppy.sh/home/news/2020-05-05-monthly-beatmapping-contest-may) if you'd like to participate!
  
@@ -149,11 +149,11 @@ The contest required users to submit a full beatmap spread of any game mode for 
 
 - [osu! mapset](https://osu.ppy.sh/beatmapsets/712974/) by [DMT9 Nowa](https://osu.ppy.sh/users/5428909)
  
-Each of the winners has been awarded with the Mapping With Rewards profile seen below! 
+Each of the winners has been awarded with the Mapping With Rewards profile badge seen below! 
  
 ![](/wiki/shared/news/2020-05-08-mappers-report-april/mwr_badge2x.png)
  
-Late congratulations to the winners and thank you to [Okoratu](https://osu.ppy.sh/users/1623405), [Mir](https://osu.ppy.sh/users/8688812), [Zetera](https://osu.ppy.sh/users/587737), [Nepuri](https://osu.ppy.sh/users/6637817), [Yuzeyun](https://osu.ppy.sh/users/481582), [Maxus](https://osu.ppy.sh/users/4335785), and [Protastic101](https://osu.ppy.sh/users/6712747) for judging entries over a year ago. Full judging comments and more can be found in [this forum post](LINK).
+Late congratulations to the winners and thank you to [Okoratu](https://osu.ppy.sh/users/1623405), [Mir](https://osu.ppy.sh/users/8688812), [Zetera](https://osu.ppy.sh/users/587737), [Nepuri](https://osu.ppy.sh/users/6637817), [Yuzeyun](https://osu.ppy.sh/users/481582), [Maxus](https://osu.ppy.sh/users/4335785), and [Protastic101](https://osu.ppy.sh/users/6712747) for judging entries over a year ago. Full judging comments and more can be found in [this forum post](https://osu.ppy.sh/community/forums/posts/7139243).
  
 With that said, Mapping With Rewards has reached its end. Closure, *finally*!
 
@@ -167,7 +167,7 @@ While we try to keep watch over all running contests, we might miss some. If you
 
 ## <a id="around-community"></a>Around the Community
 
-This section is all about interesting things which have been happening or will happen soon in the mapping and modding community! Should you have/know about something interesting that's happening within the mapping community, be sure to let [Feerum](https://osu.ppy.sh/users/4815717) or [Noffy](https://osu.ppy.sh/users/1541323) know about it! For this month, we have updates on the mapping podcast **The osu! Map Cast**, the **Electoz Advanced Modding Guide**, and how **super long marathons can now be ranked**!
+This section is all about interesting things which have been happening or will happen soon in the mapping and modding community! Should you have/know about something worth including, be sure to let [Feerum](https://osu.ppy.sh/users/4815717) or [Noffy](https://osu.ppy.sh/users/1541323) know about it! For this month, we have updates on the mapping podcast **The osu! Map Cast**, the **Electoz Advanced Modding Guide**, and how **super long marathons can now be ranked**!
 
 ### The osu! Map Cast
 
@@ -185,7 +185,7 @@ Yes, you heard that right. Until recently, extremely long maps could not be rank
 
 ---
 
-And that's it for this month! Every month we try to make the Mappers' Report shorter but we simply can't. It happens too much in the community which needs to be covered every month. And we're very happy about it! To see so many community driven projects. We're excited to see what the next month has for us. 
+And that's it for this month! Every month we try to make the Mappers' Report shorter but we simply can't because so much happens in the community. And we're very happy about that! We're excited to see what the next month has for us. 
 Thanks for reading and stay safe and healthy!
 
 See you next month!
