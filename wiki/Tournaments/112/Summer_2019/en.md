@@ -489,27 +489,27 @@ Monday, 22 July 2019:
 4. Beatmap scoring is based on Score V2.
 5. The following seeding method will be used for the tournament:
 
-  - Top seed will consist of players between **#1 - #15,000.**
+   - Top seed will consist of players between **#1 - #15,000.**
         
-  - Low seed will consist of players **over #15,000.**
+   - Low seed will consist of players **over #15,000.**
 
 6. The beatmaps for each round will be announced by the map selectors in advance at least a week before the actual matches take place. Only these beatmaps will be used during the respective matches.
 
-  - One beatmap will be a tiebreaker beatmap. This beatmap will only be played in case of a tie. **The only exception to this is the Qualifiers pool.**
+   - One beatmap will be a tiebreaker beatmap. This beatmap will only be played in case of a tie. **The only exception to this is the Qualifiers pool.**
 
 7. Match schedule will be decided by tournament staff in accordance with weekly schedule-planning forms.
 8. In the event of a player disconnecting during the match due to connectivity or hardware difficulties;
 
-  - If the disconnection occurs within 30 seconds after beatmap begin, the beatmap is replayed. If it occurs after 30 seconds, the score on the match link is valid.
+   - If the disconnection occurs within 30 seconds after beatmap begin, the beatmap is replayed. If it occurs after 30 seconds, the score on the match link is valid.
         
-  - The player will be given 10 minutes to reconnect. If the player fails to reconnect in 10 minutes, or frequently disconnects during the match and reconnecting takes too long, the player will be excluded from the match.
+   - The player will be given 10 minutes to reconnect. If the player fails to reconnect in 10 minutes, or frequently disconnects during the match and reconnecting takes too long, the player will be excluded from the match.
 
 9. Beatmaps cannot be reused in the same match.
 10. All players are supposed to be ready on time for the match. For the players/teams unable to show up on time, match can be postponed for 10 minutes. **If it exceeds, the specific player(s) will lose by default.**
 
-  - During the Group stages, if both players are unable to attend, no points will be awarded.
+   - During the Group stages, if both players are unable to attend, no points will be awarded.
         
-  - During the Elimination stage, if both teams are unable to attend, players will be blacklisted and the match will be postponed to a further date. **Blacklisted player(s) will be eliminated if the same situation occurs twice.**
+   - During the Elimination stage, if both teams are unable to attend, players will be blacklisted and the match will be postponed to a further date. **Blacklisted player(s) will be eliminated if the same situation occurs twice.**
 
 11. During the Elimination phase, if one of the players of a team is unable to attend the match, on condition of the agreement of both teams, the match can be played in 1v2 format, yet 1v1 is unacceptable. If one of the teams does not agree, the match will be declared as Lose by Default for the team missing a player.
 12. All players and referees must be treated with respect. Instructions of the referees and tournament Management are to be followed. Decisions labeled as final are not to be objected.
@@ -521,7 +521,7 @@ Monday, 22 July 2019:
 
 1. Every user interested in joining the tournament will sign up individually.
 
-  - **Any form of registration, other than the registration form provided in related channels, will be disregarded.**
+   - **Any form of registration, other than the registration form provided in related channels, will be disregarded.**
 
 2. Participants **must** join the [Discord server](https://discord.gg/g3nqqeZ) for the duration of the tournament.
 3. Excluding commentators and streamers, tournament staff cannot participate in the tournament.
@@ -546,39 +546,39 @@ Monday, 22 July 2019:
 14. The mappool for Double Elimination stages contain 17 maps: 5 maps under the NoMod bracket, 3 maps each for the other mod brackets and 1 will be played as Tiebreaker.
 15. **Winning conditions:**
 
-  - The Group stages will be best of 7 (first team to 4 wins).
+   - The Group stages will be best of 7 (first team to 4 wins).
         
-  - The Quarterfinals and Semifinals will be best of 9 (first team to 5 wins).
+   - The Quarterfinals and Semifinals will be best of 9 (first team to 5 wins).
         
-  - The Finals will be best of 11 (first team to 6 wins).
+   - The Finals will be best of 11 (first team to 6 wins).
         
-  - The Grand Finals will be best of 13 (first team to 7 wins).
+   - The Grand Finals will be best of 13 (first team to 7 wins).
 
 ### Match Instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
 
-  - Room settings are osu!, Head to Head (Group stages) / Team-Vs. (Double Elimination stages), Win Condition: ‘ScoreV2’.
+   - Room settings are osu!, Head to Head (Group stages) / Team-Vs. (Double Elimination stages), Win Condition: ‘ScoreV2’.
 
 2. Players can select up to two warm-up beatmaps that should not exceed 4 minutes. Players are free to not to pick a warm-up, but have to play if the opponent wants to.
 3. After the warm-ups, players will be asked a simple question. Players are given 30 seconds to answer the question, with only 1 chance to answer.
 
-  - The player/team with correct answer **picks** first.
+   - The player/team with correct answer **picks** first.
         
-  - The player/team with incorrect answer **bans** first.
+   - The player/team with incorrect answer **bans** first.
         
-  - If both players/teams answer correctly, the winner is decided upon the first to answer according to the referee’s screen.
+   - If both players/teams answer correctly, the winner is decided upon the first to answer according to the referee’s screen.
         
-  - **From Quarterfinals onwards the team that bans first will ban one map, then the other team will ban two maps, then finally the first team will make their final ban.**
+   - **From Quarterfinals onwards the team that bans first will ban one map, then the other team will ban two maps, then finally the first team will make their final ban.**
 
 4. During Group stages, each player can only ban 1 beatmap.
 
-  - **From Quarterfinals onwards, the number of bans increases to 2. However, each player/team may not ban more than one map of any mod bracket (excluding NoMod).**
+   - **From Quarterfinals onwards, the number of bans increases to 2. However, each player/team may not ban more than one map of any mod bracket (excluding NoMod).**
 
 5. Beatmap selection will alternate between each player/team selecting a beatmap out of the mappool.
 6. Players map pick freely from any mod pool.
 
-  - In the case of a tie, the tiebreaker beatmap will be played.
+   - In the case of a tie, the tiebreaker beatmap will be played.
 
 7. The results will be published via a statistics sheet.
 
@@ -588,9 +588,9 @@ Monday, 22 July 2019:
 2. Each mappool consists of 5 brackets: NoMod, [Hidden](wiki/Game_Modifiers), [HardRock](wiki/Game_Modifiers), [DoubleTime](wiki/Game_Modifiers) and FreeMod.
 3. Each mappool has a specific size depending on the stage.
 
-  - The Group stage mappools will have 4 NoMod maps, 2 maps for each of the remaining mod brackets.
+   - The Group stage mappools will have 4 NoMod maps, 2 maps for each of the remaining mod brackets.
         
-  - The Double Elimination stage mappools will have 5 NoMod maps, 3 maps for each of the remaining mod brackets.
+   - The Double Elimination stage mappools will have 5 NoMod maps, 3 maps for each of the remaining mod brackets.
 
 4. Each mappool has one tiebreaker.
 5. The NoFail mod may be selected on any map.
@@ -598,11 +598,11 @@ Monday, 22 July 2019:
 7. The Hidden, HardRock and DoubleTime brackets will be played with the respective mod enabled by all players.
 8. The FreeMod bracket will have Free Mods enabled.
 
-  - Possible mod choices are Hidden, HardRock and Hidden+HardRock.
+   - Possible mod choices are Hidden, HardRock and Hidden+HardRock.
 
 9. The tiebreaker will be played under FreeMod conditions.
 
-  - When playing the tiebreaker, there are no mod requirements.
+   - When playing the tiebreaker, there are no mod requirements.
 
 ### Scheduling Instructions
 
@@ -611,7 +611,7 @@ Monday, 22 July 2019:
 3. Players may ask for a reschedule upon agreement with the opponent(s) if the current schedule does not work for them.
 4. Reschedules will only be considered if both players/teams agree to a time at least 24 hours before the first match in that particular stage.
 
-  - If players wish to change the scheduled time within 24 hours until the match, they have to seek for an available referee for the rescheduled time. **Participants cannot use this opportunity more than once.**
+   - If players wish to change the scheduled time within 24 hours until the match, they have to seek for an available referee for the rescheduled time. **Participants cannot use this opportunity more than once.**
 
 5. If it is certain that participant(s) is/are unavailable for the scheduled time, they are obliged to inform the tournament staff beforehand. This is required in order not to waste the time of staff and other participants.  
 
