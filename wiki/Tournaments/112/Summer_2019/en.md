@@ -112,7 +112,7 @@ Only first 16 players from each seed are qualified, the rest is eliminated.
 
 ## Teams
 
-After Group matches, those who get through to Quarter Finals are obliged to form a team with a player from the other seed.
+After Group matches, those who get through to Quarterfinals are obliged to form a team with a player from the other seed.
 
 | Team Name | 1 - 15K Player | 15K+ Player |
 | :-: | :-- | :-- | 
