@@ -93,6 +93,7 @@ The osu! Beatmapping World Championship is run by various community members.
 
    The contest will have 2 stages with a total of 5 rounds. The first round is a qualifier round where all eligible country teams will compete against each other in a typical mapping contest with one song to map. The top 16 placing teams will move onto the next stage of the contest. After the qualifier round, the remaining stages will follow a head to head bracket format, also called “Clash Rounds”. For each matchup between a pair of two teams, each team will be allowed to ban one genre among the three available which will lead them to map the remaining song. Once the mapping phase is over, the judges will be tasked to vote for the best entries out of the two teams, and so until the final.
    
+
 3. **What will be the songs?**
 
    The song genres will be revealed for all phases prior the qualifiers, while the song names for each stage will be announced as soon as the stage starts.
@@ -107,7 +108,7 @@ The osu! Beatmapping World Championship is run by various community members.
 
 6. **Can I have my own team for my country even if it already has one?**
 
-    No. Each country will only have one Team Captain to represent it.
+   No. Each country will only have one Team Captain to represent it.
 
 7. **How do we know who will face each other? Will it be randomized?**
 
@@ -146,45 +147,13 @@ The osu! Beatmapping World Championship is run by various community members.
     Yes, the finals and grand finals of the contest will be broadcasted on Twitch. During this stream, there will be a summary of all important moments of the contest.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
-[flag_EE]: /wiki/shared/flag/EE.gif "Estonia"
-[flag_EG]: /wiki/shared/flag/EG.gif "Egypt"
-[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_GR]: /wiki/shared/flag/GR.gif "Greece"
-[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_HR]: /wiki/shared/flag/HR.gif "Croatia"
-[flag_HU]: /wiki/shared/flag/HU.gif "Hungary"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_PK]: /wiki/shared/flag/PK.gif "Pakistan"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_RS]: /wiki/shared/flag/RS.gif "Serbia"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
-[flag_TN]: /wiki/shared/flag/TN.gif "Tunisia"
-[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
-[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
