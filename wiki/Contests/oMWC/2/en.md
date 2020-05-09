@@ -91,8 +91,7 @@ The osu! Beatmapping World Championship is run by various community members.
 
 2. **How does this contest work?**
 
-   The contest will have 2 stages with a total of 5 rounds. The first round is a qualifier round where all eligible country teams will compete against each other in a typical mapping contest with one song to map. The top 16 placing teams will move onto the next stage of the contest. After the qualifier round, the remaining stages will follow a head to head bracket format, also called “Clash Rounds”. For each matchup between a pair of two teams, each team will be allowed to ban one genre among the three available which will lead them to map the remaining song. Once the mapping phase is over, the judges will be tasked to vote for the best entries out of the two teams, and so until the final.
-   
+   The contest will have 2 stages with a total of 5 rounds. The first round is a qualifier round where all eligible country teams will compete against each other in a typical mapping contest with one song to map. The top 16 placing teams will move onto the next stage of the contest. After the qualifier round, the remaining stages will follow a head to head bracket format, also called “Clash Rounds”. For each matchup between a pair of two teams, each team will be allowed to ban one genre among the three available which will lead them to map the remaining song. Once the mapping phase is over, the judges will be tasked to vote for the best entries out of the two teams, and so until the final.  
 
 3. **What will be the songs?**
 
