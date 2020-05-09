@@ -67,27 +67,27 @@ The osu! Beatmapping World Championship is run by various community members.
 
 ### Contest rules
 
-1. **The [osu! Ranking Criteria](/wiki/Ranking_Criteria/osu!) and [General Ranking Criteria](/wiki/Ranking_Criteria) are in effect for this contest** - The winning prize of the contest includes ranking the winning teams entries, which will be the 3 songs submitted by the team of mappers, we cannot do that if you don't obey the Ranking Criteria. Any required difficulties to fulfill the requirements of the Ranking Criteria will be supplied by the Organiser Team.
+1. **The [osu! Ranking Criteria](/wiki/Ranking_Criteria/osu!) and [General Ranking Criteria](/wiki/Ranking_Criteria) are in effect for this contest** - The winning prize of the contest includes ranking the winning teams' entries, which will be the 3 songs submitted by the team of mappers, which we cannot do if you don't obey the Ranking Criteria. Any required difficulties to fulfill the requirements of the Ranking Criteria will be supplied by the Organiser Team.
 2. **3-7 members per team required** - The main concept of the contest is to show off each country's mapping capabilities. This means that a collaboration of at least 2 members on each song will be required from the team members. How you organize the map parts is completely up to you.
 3. **Each mapper must contribute at least once during the contest** - We want each team to be fairly rewarded for their hard work, which means we don’t want any winning teams to have one or more members that do not contribute during the contest.
 4. **Each mapper must contribute at least once during the contest** - We want each team to be fairly rewarded for their hard work, which means we don’t want any winning teams to have one or more members that do not contribute during the contest.
-5. **Copying other people’s work is strictly prohibited** - The whole point of the contest is to test each countries ability as a whole, therefore by copying others peoples work you’re not truthfully showing off what your country is capable of. If we, or the judges, find out work has been copied, your entire team will be disqualified.
-6. **Sharing or asking for external help for your mapset before the set deadline ends, is strictly prohibited** - Doing so will automatically disqualify your team.
-7. **Entries can only be submitted through the website** - This process is made to ease the management of the difficulties between the judges and the contestants. No entries will be accepted through any means but the website. 
+5. **Copying other people’s work is strictly prohibited** - The whole point of the contest is to test each country's ability as a whole, therefore by copying other people's work you’re not truthfully showing off what your country is capable of. If we, or the judges, find out that work has been copied, your entire team will be disqualified.
+6. **Sharing or asking for external help with your mapset before the set deadline ends, is strictly prohibited** - Doing so will automatically disqualify your team.
+7. **Entries can only be submitted through the website** - This process is made to ease the management of the difficulties between the judges and the contestants. No entries will be accepted through any means other than the website. 
 8. **Submissions will not be accepted after the deadline** - Everybody will have the same time to map for each round so extending a deadline for any particular team would be unfair for other teams. Therefore any entries submitted after the deadline will be disqualified. The website will automatically close submissions once the deadline has passed.
 9. **Custom hitsounds are allowed, but none will be provided** - You are allowed, and even encouraged, to use custom hitsounds. Make sure they don’t overlap with your other difficulties, though. How you will organize them will be up to you.
 10. **Changing the provided .mp3 file or timing of the .osu file is prohibited** - We want to avoid any complications during the judging process since you will be submitting only the .osu files rather than the full .osz.
 11. **Do not include storyboards or beatmap backgrounds** - They will not be considered in the judging process and removed prior to entries being passed onto the judges.
-12. **Restricted mappers can’t take part in the contest** - For the legitimacy of this contest; restricted users are not accepted. If it is found out that a restricted user took the place of someone’s account for this contest, the entire team will be disqualified.
-13. **Teams must consist of users from a single country only** - Merging or combining countries does not allow people to represent their individual country to the fullest. You can only join the country's team that is displayed on your osu! profile.
+12. **Restricted mappers can’t take part in the contest** - For the legitimacy of this contest restricted users are not accepted. If it is found out that a restricted user took the place of someone’s account for this contest, the entire team will be disqualified.
+13. **Teams must consist of users from a single country only** - Merging or combining countries does not allow people to represent their individual country to the fullest. You can only join the team of the country that is displayed on your osu! profile.
 14. **Only one team per country will be allowed** - While some countries are more active than others on osu! and in mapping, to keep everything fair between all of the participants of this contest, only one team will be made per country.
-15. **Keep the organizers in touch with team updates past the preparation phase** - If a contestant has to drop from the contest for any reasons, please let the staff know about it as soon as possible. No replacements will be allowed and no rewards will be attributed to the user if the team gets into the top 3.
+15. **Keep the organizers in touch with team updates past the preparation phase** - If a contestant has to drop out from the contest for any reasons, please let the staff know about it as soon as possible. No replacements will be allowed and no rewards will be attributed to the user if the team gets into the top 3.
 
 ### Questions and answers
 
 1. **What is this contest?**
 
-   The osu! Beatmapping World Championship is a standard mode contest where several countries compete against each other to show off their country’s best mapping ability. Each team member will be handpicked by a Team Captain, composed of 3 to 7 members, including the Team Captain.
+   The osu! Beatmapping World Championship is a standard mode contest where several countries compete against each other to show off their country’s mapping ability. Each team member will be handpicked by a Team Captain, composed of 3 to 7 members, including the Team Captain.
 
 2. **How does this contest work?**
 
@@ -99,11 +99,11 @@ The osu! Beatmapping World Championship is run by various community members.
 
 4. **What is a “Team Captain”?**
 
-   The Team Captains, also called Captains are chosen by the mappers of their country through a vote on the website. They will be the ones in charge to communicate with the organizers and their team in order to let us know about team-related things. The requirements to become Team Captain is to have at least one ranked guest difficulty, in order to show your mapping experience.
+   The Team Captains (or just Captains) are chosen by the mappers of their country through a vote on the website. They will be the ones in charge of communicating with the organizers and their team in order to let us know about team-related things. The requirements to become Team Captain is to have at least one ranked guest difficulty, in order to show your mapping experience.
 
 5. **What if my country doesn’t have a Team Captain?**
 
-   You’re free to apply as one through the website if you meet the criterias! Mappers of your country will vote for the people they want to have as their country’s Team Captain. If nobody applied to be a Team Captain for your country once the deadline is over, contest staff will pick one for the team. The country you will be allowed to participate with will be based on your profile's flag. No country merge will be allowed to avoid management complications.
+   You’re free to apply to become one through the website if you meet the criteria! Mappers of your country will vote for the people they want to have as their country’s Team Captain. If nobody applied to be a Team Captain for your country once the deadline is over, contest staff will pick one for the team. The country you will be allowed to participate with will be based on your profile's flag. No country mergers will be allowed to avoid management complications.
 
 6. **Can I have my own team for my country even if it already has one?**
 
@@ -119,7 +119,7 @@ The osu! Beatmapping World Championship is run by various community members.
 
 9. **Can I join the Discord server even if I don’t want to participate in the contest?**
 
-   Yes. There is a public link at the top of the forum post. Upon joining, you’ll be in the #arrival channel, where you will have to post your osu! profile link, and then a member of the staff or a moderator will accept you.
+   Yes. There is a public link at the top of the forum post. Upon joining, you’ll be placed in the #arrival channel, where you will have to post your osu! profile link, and then a member of the staff or a moderator will accept you.
 
 10. **“At least 2 mappers will have to collaborate on each song” - Are we able to work with my full team on each map?**
 
@@ -127,15 +127,15 @@ The osu! Beatmapping World Championship is run by various community members.
 
 11. **I want to vote, but I don’t have any mapping experience, am I allowed to do so?**
 
-    Sadly, no you can’t. You must have at least one ranked guest difficulty in osu!standard. If you meet these criterias, you’ll be able to vote for the potential Team Captains based on your country flag, which means you can’t vote for Russian Team Captain if you’re from the United Kingdom.
+    Sadly, no you can’t. You must have at least one ranked guest difficulty in osu!standard. If you meet these criteria, you’ll be able to vote for the potential Team Captains based on your country flag, which means you can’t vote for the Russian Team Captain if you’re from the United Kingdom.
 
 12. **Are we allowed to change our votes?**
 
-    Votes can be changed as much as you want before the deadline. Once the deadline is over, every vote will be locked and there will be no opportunity to change your vote.
+    Votes can be changed as many times as you want before the deadline. Once the deadline is over, every vote will be locked and there will be no opportunity to change your vote.
 
 13. **Do I have to join the Discord server to participate?**
 
-    Only the Team Captain is required to join the Discord server. The team members however are free to join or not. All important information will be shared on Discord and on our website, so you won’t miss anything if you don’t join the Discord server!
+    Only the Team Captain is required to join the Discord server. The team members however are free to join if they wish to do so. All important information will be shared on Discord and on our website, so you won’t miss anything if you don’t join the Discord server!
    
 14. **Can I make an osu!mania, osu!taiko or osu!catch beatmap?**
 
