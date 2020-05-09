@@ -484,9 +484,13 @@ Monday, 22 July 2019:
 ### Tournament Rules
 
 1. 112’s Summer Tournament 2019 is an osu!standard tournament only allowed for Turkish-speaking players regardless of their profile flags.
+
 2. The tournament uses a qualifier into a double elimination bracket.
+
 3. Qualifiers and Group stage matches are in **single-player** format, the Elimination stage is planned as a **2-player team versus** setup.
+
 4. Beatmap scoring is based on Score V2.
+
 5. The following seeding method will be used for the tournament:
 
    - Top seed will consist of players between **#1 - #15,000.**
@@ -498,6 +502,7 @@ Monday, 22 July 2019:
    - One beatmap will be a tiebreaker beatmap. This beatmap will only be played in case of a tie. **The only exception to this is the Qualifiers pool.**
 
 7. Match schedule will be decided by tournament staff in accordance with weekly schedule-planning forms.
+
 8. In the event of a player disconnecting during the match due to connectivity or hardware difficulties;
 
    - If the disconnection occurs within 30 seconds after beatmap begin, the beatmap is replayed. If it occurs after 30 seconds, the score on the match link is valid.
@@ -505,6 +510,7 @@ Monday, 22 July 2019:
    - The player will be given 10 minutes to reconnect. If the player fails to reconnect in 10 minutes, or frequently disconnects during the match and reconnecting takes too long, the player will be excluded from the match.
 
 9. Beatmaps cannot be reused in the same match.
+
 10. All players are supposed to be ready on time for the match. For the players/teams unable to show up on time, match can be postponed for 10 minutes. **If it exceeds, the specific player(s) will lose by default.**
 
    - During the Group stages, if both players are unable to attend, no points will be awarded.
@@ -524,8 +530,11 @@ Monday, 22 July 2019:
    - **Any form of registration, other than the registration form provided in related channels, will be disregarded.**
 
 2. Participants **must** join the [Discord server](https://discord.gg/g3nqqeZ) for the duration of the tournament.
+
 3. Excluding commentators and streamers, tournament staff cannot participate in the tournament.
+
 4. Upon the conclusion of registration period, the list of participants will be submitted to the osu! Support Team for screening. Participants that fail the screening procedure will not be able to participate in the tournament. Please refer to [here](https://osu.ppy.sh/help/wiki/osu!tourney/Prizes#tournament-screening) for more information about tournament screening.
+
 5. All players eligible to participate in the tournament will be published after the Registration period ends.
 
 ### Stage Instructions
@@ -561,6 +570,7 @@ Monday, 22 July 2019:
    - Room settings are osu!, Head to Head (Group stages) / Team-Vs. (Double Elimination stages), Win Condition: ‘ScoreV2’.
 
 2. Players can select up to two warm-up beatmaps that should not exceed 4 minutes. Players are free to not to pick a warm-up, but have to play if the opponent wants to.
+
 3. After the warm-ups, players will be asked a simple question. Players are given 30 seconds to answer the question, with only 1 chance to answer.
 
    - The player/team with correct answer **picks** first.
@@ -576,6 +586,7 @@ Monday, 22 July 2019:
    - **From Quarterfinals onwards, the number of bans increases to 2. However, each player/team may not ban more than one map of any mod bracket (excluding NoMod).**
 
 5. Beatmap selection will alternate between each player/team selecting a beatmap out of the mappool.
+
 6. Players map pick freely from any mod pool.
 
    - In the case of a tie, the tiebreaker beatmap will be played.
@@ -585,7 +596,9 @@ Monday, 22 July 2019:
 ### Mappool Instructions
 
 1. There will be a new mappool for every stage.
+
 2. Each mappool consists of 5 brackets: NoMod, [Hidden](wiki/Game_Modifiers), [HardRock](wiki/Game_Modifiers), [DoubleTime](wiki/Game_Modifiers) and FreeMod.
+
 3. Each mappool has a specific size depending on the stage.
 
    - The Group stage mappools will have 4 NoMod maps, 2 maps for each of the remaining mod brackets.
@@ -593,9 +606,13 @@ Monday, 22 July 2019:
    - The Double Elimination stage mappools will have 5 NoMod maps, 3 maps for each of the remaining mod brackets.
 
 4. Each mappool has one tiebreaker.
+
 5. The NoFail mod may be selected on any map.
+
 6. The NoMod bracket will be played with no mods enabled at all (other than NoFail).
+
 7. The Hidden, HardRock and DoubleTime brackets will be played with the respective mod enabled by all players.
+
 8. The FreeMod bracket will have Free Mods enabled.
 
    - Possible mod choices are Hidden, HardRock and Hidden+HardRock.
@@ -607,8 +624,11 @@ Monday, 22 July 2019:
 ### Scheduling Instructions
 
 1. Match schedule will be planned in accordance with weekly schedule-planning forms.
+
 2. Matches will be scheduled and announced according to the Turkey Time (UTC+3).
+
 3. Players may ask for a reschedule upon agreement with the opponent(s) if the current schedule does not work for them.
+
 4. Reschedules will only be considered if both players/teams agree to a time at least 24 hours before the first match in that particular stage.
 
    - If players wish to change the scheduled time within 24 hours until the match, they have to seek for an available referee for the rescheduled time. **Participants cannot use this opportunity more than once.**
