@@ -172,7 +172,7 @@ Mentioned in [last month's Mappers' Report](https://osu.ppy.sh/home/news/2020-04
 
 ### Electoz Advanced Modding Guide
 
-Making waves in the modding community recently is the freshly published modding guide by [Electoz](https://osu.ppy.sh/users/6485263) who is a former Beatmap Nominator and long-time mentor in the Mapping Mentorship Program. The modding guide which can be found on their userpage goes in-depth on basically everything you would need to know about modding at a more advanced level. Electoz has fully infused the guide with his own knowledge and experiences, and the guide itself is largely based off how they would mentor successful aspiring modders! If you're into modding, or want to get into it, checking out the Electoz Advanced Modding Guide should definitely be worth your while.
+Making waves in the modding community recently is the freshly published modding guide by [Electoz](https://osu.ppy.sh/users/6485263) who is a former Beatmap Nominator and long-time mentor in the Mapping Mentorship Program. The modding guide which can be found on their userpage and [here](https://electoz.s-ul.eu/N7Y53Jaj) goes in-depth on basically everything you would need to know about modding at a more advanced level. Electoz has fully infused the guide with his own knowledge and experiences, and the guide itself is largely based off how they would mentor successful aspiring modders! If you're into modding, or want to get into it, checking out the Electoz Advanced Modding Guide should definitely be worth your while.
 
 ### Super long marathons are now rankable!
 
