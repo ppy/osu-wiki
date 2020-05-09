@@ -70,9 +70,9 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 | Chuchichäschtli | ![][flag_CH] **[[Arikawa]](https://osu.ppy.sh/users/6454830)**, ![][flag_CH] [Kvn_hot_potato](https://osu.ppy.sh/users/6228912), ![][flag_CH] [[ Kuromei ]](https://osu.ppy.sh/users/6675144) |
 | Fashionably Late | ![][flag_US] **[Dream10](https://osu.ppy.sh/users/11740481)**, ![][flag_US] [fourfifty](https://osu.ppy.sh/users/9653206), ![][flag_SV] [Mario564](https://osu.ppy.sh/users/14544646), ![][flag_US] [Zeity](https://osu.ppy.sh/users/11367167) |
 | osu!Coin | ![][flag_US] **[Lattice35](https://osu.ppy.sh/users/14902742)**, ![][flag_US] [PacoTaco03](https://osu.ppy.sh/users/9968194), ![][flag_US] [QuintecX](https://osu.ppy.sh/users/15458667/osu), ![][flag_US] [Cnolii](https://osu.ppy.sh/users/11246834) |
-| KuroNeko | ![][flag_TH] **[SeJ_ey3](https://osu.ppy.sh/users/14620880)**, ![][flag_TH] [[TH]-Eugen_](https://osu.ppy.sh/users/11475384), ![][flag_PH] [Ecstatify](https://osu.ppy.sh/users/14494059), ![][flag_ID] [Fleure De Lapin](https://osu.ppy.sh/users/5569341/osu) |
+| KuroNeko | ![][flag_TH] **![][flag_PH] [Ecstatify](https://osu.ppy.sh/users/14494059)**, ![][flag_TH] [[TH]-Eugen_](https://osu.ppy.sh/users/11475384), ![][flag_ID] [Fleure De Lapin](https://osu.ppy.sh/users/5569341/osu), ![][flag_VN] [-Yukina-](https://osu.ppy.sh/users/15470246) |
 | Ugga Ugga ⊂(( o・ω・))⊃ | ![][flag_TR] **[Undine116](https://osu.ppy.sh/users/14352107)**, ![][flag_CH] [xUnicornball69x](https://osu.ppy.sh/users/16078878), ![][flag_TR] [Phantase](https://osu.ppy.sh/users/8584641) |
-| Tablet Slayers | ![][flag_IT] **[Dagoliir](https://osu.ppy.sh/users/7209911)**, ![][flag_ES] [CebollaVladimir](https://osu.ppy.sh/users/15308238) |
+| Tablet Slayers | ![][flag_IT] **[Dagoliir](https://osu.ppy.sh/users/7209911)**, ![][flag_ES] [CebollaVladimir](https://osu.ppy.sh/users/15308238), ![][flag_ES] [Viewer](https://osu.ppy.sh/users/16208221) |
 | playstyl'D | ![][flag_US] **[BowLL](https://osu.ppy.sh/users/10198015/osu)**, ![][flag_US] [Yenmaster](https://osu.ppy.sh/users/12565402), ![][flag_US] [RDSparkle](https://osu.ppy.sh/users/7588462) |
 | OBST Squad | ![][flag_FR] **[Numero_Zer0e](https://osu.ppy.sh/users/13352562)**, ![][flag_FR] [Podsel](https://osu.ppy.sh/users/15312729), ![][flag_BE] [N1C3TR0](https://osu.ppy.sh/users/14489553), ![][flag_FR] [vegajuice](https://osu.ppy.sh/users/8027232) |
 | Desu | ![][flag_UA] **[Kocha](https://osu.ppy.sh/users/15518219)**, ![][flag_IT] [Edolino](https://osu.ppy.sh/users/11255361), ![][flag_LV] [Necroplex](https://osu.ppy.sh/users/13743386) |
@@ -89,6 +89,8 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 | WeLoveKöfte | ![][flag_DE] **[Nikurax](https://osu.ppy.sh/users/11705938)**, ![][flag_DE] [Denk_Fisch](https://osu.ppy.sh/users/13210251), ![][flag_DE] [Enyu](https://osu.ppy.sh/users/14106819), ![][flag_PL] [misiekreksio](https://osu.ppy.sh/users/12908278) |
 | CatMooners | ![][flag_BR] **[MoonTears](https://osu.ppy.sh/users/11911570)**, ![][flag_BR] [Axiey](https://osu.ppy.sh/users/11711340) |
 | Nerf or Nothin' | ![][flag_US] **[FAITHFIRE007](https://osu.ppy.sh/users/11739464)**, ![][flag_US] [LakinBacon](https://osu.ppy.sh/users/12838237), ![][flag_CA] [Kiwi123Food](https://osu.ppy.sh/users/11682384) |
+| Rice Farmers | ![][flag_VN] **[lienzzhitzz](https://osu.ppy.sh/users/14638487)**, ![][flag_VN] [ketthesylveon](https://osu.ppy.sh/users/14065788) |
+| PoggersFish| ![][flag_US] **[Nebula3310](https://osu.ppy.sh/users/14729352)**, ![][flag_US] [Dr Sloth OWO](https://osu.ppy.sh/users/14655426) |
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
@@ -117,3 +119,4 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 [flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
