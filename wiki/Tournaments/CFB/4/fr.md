@@ -138,6 +138,24 @@ La Catch French Beginner 4 ést gérée par différents membres de la communaut�
 
 ## Résultats des matches
 
+### Quarts de finale
+
+Samedi, 9 Mai 2020:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| **Jibsz** ![][flag_FR] | **5** | 2 | ![][flag_FR] AttilaPhoenix | [#1](https://osu.ppy.sh/community/matches/61425549) |
+| Riki no Kage ![][flag_FR] | -1 | **0** | ![][flag_FR] **Ladylag** | *win by default* |
+| **Hecatia15** ![][flag_FR] | **5** | 4 | ![][flag_FR] -Dragolord- | [#1](https://osu.ppy.sh/community/matches/61456978) |
+
+Dimanche, 10 Mai 2020:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| **Remyria** ![][flag_CA] | **5** | 1 | ![][flag_FR] Trifano | [#1](https://osu.ppy.sh/community/matches/61460974) |
+| **AttilaPhoenix** ![][flag_FR] | **5** | 2 | ![][flag_FR] -Dragolord- | [#1](https://osu.ppy.sh/community/matches/61491060) |
+| **Trifano** ![][flag_FR] | **0** | -1 | ![][flag_FR] Riki no Kage | *win by default* |
+
 ### Phase de poules
 
 Samedi, 2 Mai 2020:
