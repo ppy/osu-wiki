@@ -79,6 +79,35 @@ La Catch French Beginner 4 ést gérée par différents membres de la communaut�
 
 ## Mappools
 
+### Demi-finales
+
+**[Téléchargez le mappack ici! (98 MB)](https://wetransfer.com/downloads/26664364b295dfcc5985e16a26f37a0e20200510175846/b6e4b5)**
+
+- NoMod
+  - [Eli Ayase (CV. Nanjo Yoshino) - Arifureta Kanashimi No Hate (Yuuna Kamishiro Remix) (GAMI) \[Gommy's Platter\]](https://osu.ppy.sh/beatmapsets/334494#fruits/748399)
+  - [cYsmix - Manic (Bonsai) \[Insane\]](https://osu.ppy.sh/beatmapsets/361214#fruits/793704)
+  - [FictionJunction feat. LiSA - from the edge (TV Size) (rew0825) \[Rain\]](https://osu.ppy.sh/beatmapsets/1032193#fruits/2158794)
+  - [dBu music - Higan Kikou ~ Titanic of Stygian (Lily Bread) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/382664#fruits/836756)
+  - [senya - Zankyou wa Nariyamazu (Absolute Zero) \[Rain\]](https://osu.ppy.sh/beatmapsets/625519#fruits/1327867)
+  - [HoneyWorks feat. sana - Ima Suki ni Naru. (Sotarks) \[Reform's Insane\]](https://osu.ppy.sh/beatmapsets/1029312#fruits/2158925)
+- Hidden
+  - [Jeff Williams - Mirror Mirror (Featuring Casey Lee Williams) (neonat) \[Solitude\]](https://osu.ppy.sh/beatmapsets/320418#fruits/712983)
+  - [Feint - The Journey (feat. Veela) (A r M i N) \[Insane\]](https://osu.ppy.sh/beatmapsets/770668#fruits/1621242)
+  - [Iwasaki Taku - Dance Macabre (Sieg) \[Insane\]](https://osu.ppy.sh/beatmapsets/87545#fruits/248490)
+  - [Mame - Aka ni Somaru Dress (Mystica) \[Lolita\]](https://osu.ppy.sh/beatmapsets/33217#fruits/108387)
+- HardRock
+  - [THEATRE BROOK - Uragiri no Yuuyake ( TV Size ) (climbb65588) \[Hard\]](https://osu.ppy.sh/beatmapsets/13673#fruits/50406)
+  - [Suara - Fuantei na Kamisama TV ver. (MoelittleC Hime) \[Salad\]](https://osu.ppy.sh/beatmapsets/394829#fruits/864030)
+  - [Tatsh - reunion (Irreversible) \[Kygerphyxversible's Advanced\]](https://osu.ppy.sh/beatmapsets/346213#fruits/765299)
+  - [Bitter Sweet Entertainment - Kanashimi no Mukougawa (Piano Version) (JBHyperion) \[Salad\]](https://osu.ppy.sh/beatmapsets/435287#fruits/937657)
+- DoubleTime
+  - [DJ Ozawa - Tokyo (Innovaderz Remix) (Ascendance) \[Fii's Salad\]](https://osu.ppy.sh/beatmapsets/427801#fruits/941649)
+  - [Miki Sayaka (CV: Kitamura Eri), Sakura Kyoko (CV: Nonaka Ai) - and I'm home (Kyuukai) \[Hard\]](https://osu.ppy.sh/beatmapsets/786689#fruits/1651308)
+  - [C-Show - On the FM (Ascendance) \[Salad\]](https://osu.ppy.sh/beatmapsets/609679#fruits/1382268)
+  - [Hanatan - Senbonzakura (Karen) \[yf's Hard\]](https://osu.ppy.sh/beatmapsets/248173#fruits/622209)
+- Tiebreaker
+  - **[Kalafina - believe (CLSW) \[Bless\]](https://osu.ppy.sh/beatmapsets/316647#fruits/705527)**
+
 ### Quarts de finale
 
 **[Téléchargez le mappack ici! (81 MB)](https://wetransfer.com/downloads/ec58b4ae5ecad8833fb648d82e23833720200503191515/607831)**
