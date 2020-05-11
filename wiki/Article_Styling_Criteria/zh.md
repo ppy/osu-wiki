@@ -152,7 +152,7 @@ no_native_review: true
 
 ## Markdown
 
-本节规则适用于全部文章。 所有的osu! wiki文章必须遵循以下规则。
+本节规则适用于全部文章。 所有的 osu! wiki 文章必须遵循以下规则。
 
 快速入门请参考[中文 Markdown 指南](http://www.appinn.com/markdown/)，下列内容仅说明如何正确使用。
 
