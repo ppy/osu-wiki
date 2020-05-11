@@ -1,5 +1,5 @@
 # Gameplay
 
-- [Jump](/wiki/Beatmaps/Patterns/Jump)
+- [Jump](Jump)
 
 <!-- TODO: add more -->

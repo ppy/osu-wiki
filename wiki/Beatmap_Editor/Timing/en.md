@@ -4,7 +4,7 @@
 
 [Beatmap](/wiki/Beatmaps) **timing** consists of a song's [offset](/wiki/Beatmapping/Offset), its [beats per minute (BPM)](/wiki/Beatmapping/Beats_per_minute), and its [meter](https://en.wikipedia.org/wiki/Metre_(music)).
 
-Correctly timed beatmaps are necessary for players to maintain [accuracy](/wiki/Gameplay/Accuracy) while playing. Incorrectly timed beatmaps cannot pass through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
+Correct timing on beatmaps is necessary for players to maintain [accuracy](/wiki/Gameplay/Accuracy) while playing. Incorrectly timed beatmaps cannot pass through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
 
 ![Screenshot of the "Timing and Control Points" window](img/TimingSetup.jpg "The timing setup dialog shows the beatmap's fluctuating BPM and sampleset changes")
 

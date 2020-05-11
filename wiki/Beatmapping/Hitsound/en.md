@@ -5,7 +5,7 @@ tags:
 
 # Hitsound
 
-*See also: [Adding Custom Hitsounds](/wiki/Guides/Adding_Custom_Hitsounds)*
+*See also: [How to add custom hitsounds](/wiki/Guides/Adding_Custom_Hitsounds)*
 
 A **hitsound** is a sound effect played when clicking a [hit object](/wiki/Hit_Objects). Hitsound feedback consists of an object's sampleset, or a "hit normal", and any whistle, finish, or clap additions.
 
