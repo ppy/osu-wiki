@@ -461,7 +461,7 @@ JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
 
 链接有两种类型，一种是内联风格，另一种是赋值风格。
 
-**普通风格：**
+**内联风格：**
 
 ```markdown
 [Game Modifiers](/wiki/Game_Modifiers)
