@@ -88,7 +88,7 @@ Our office cat **[Mao](https://osu.ppy.sh/users/2204515)** has returned! After s
 ## <a id="mappers-showcase"></a>Mappers' Showcase
 
 The Mappers' Showcase parades lesser-known mappers from every game mode. 
-This month features osu!taiko thanks to the our selectors [radar](https://osu.ppy.sh/users/7131099) and [Capu](https://osu.ppy.sh/users/2474015).
+This month features osu!taiko thanks to our selectors [radar](https://osu.ppy.sh/users/7131099) and [Capu](https://osu.ppy.sh/users/2474015).
 
 ### Idealism
 
@@ -96,7 +96,7 @@ This month features osu!taiko thanks to the our selectors [radar](https://osu.pp
 
 A map of his that truly shines is his rendition of [Cyte - Command Prompt](https://osu.ppy.sh/beatmapsets/1068145#taiko/2236237) ranked at the start of the year. On the top difficulty (mind bogglingly named "C:\Program Files\Difficulties\434f525255505445442046494c45.exe"), Idealism proves that even when mapping genres out of his comfort zone he can still shine. 
 
-Some of his other notable and equally as great maps would be his renditions of [Blue on Blue (TamorlaM Btlg Remix)](https://osu.ppy.sh/beatmapsets/965135#taiko/2020395) and [White Eternity](https://osu.ppy.sh/beatmapsets/992443#taiko/2075446), where he shows off his addiction to eroge music through his solid mapping! We hope to see more of his maps coming into the ranked section in the rest of 2020, as his potential to shine even brighter clearly shows!
+Some of his other notable and equally as great maps would be his renditions of [Blue on Blue (TamolarM Btlg Remix)](https://osu.ppy.sh/beatmapsets/965135#taiko/2020395) and [White Eternity](https://osu.ppy.sh/beatmapsets/992443#taiko/2075446), where he shows off his addiction to eroge music through his solid mapping! We hope to see more of his maps coming into the ranked section in the rest of 2020, as his potential to shine even brighter clearly shows!
 
 ### Yuemiao
 
@@ -121,7 +121,7 @@ Flex your mapping muscles by voting and participating in some of this month's on
  
 As per usual, the [Monthly Beatmapping Contest](https://osu.ppy.sh/help/wiki/Contests/Monthly_Beatmapping_Contest) (*MBC*) is here to provide your regular dosage of competitive mapping! Each month's contest features a different mapping limitation that entries must adhere to.
  
-April's contest is currently in its voting stage! Visit the [contest listing](https://osu.ppy.sh/community/contests/93) to vote for any 2 of the top 5 entries, and keep in mind that sliders in all entries were required to use reverses, meaning normal slider rhythms were not allowed!
+April's contest is currently in its voting stage! Visit the [contest listing](https://osu.ppy.sh/community/contests/93) to vote for any 2 of the top 6 entries, and keep in mind that sliders in all entries were required to use reverses, meaning normal slider rhythms were not allowed!
  
 If you prefer mapping to voting, May's contest will be in its beatmapping stage up through May 26th! This month's contest takes rhythm restrictions up a hundred notches from last month by requiring all submissions to use the same rhythm template. See the [contest's news post](https://osu.ppy.sh/home/news/2020-05-05-monthly-beatmapping-contest-may) if you'd like to participate!
  
@@ -144,7 +144,7 @@ The contest required users to submit a full beatmap spread of any game mode for 
 
 #### [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) - Fortuna Redux
 
-- [osu! mapset](https://osu.ppy.sh/beatmapsets/712974) by [DMT9 Nowa](https://osu.ppy.sh/users/5428909)
+- [osu! mapset](https://osu.ppy.sh/beatmapsets/712974) by [DTM9 Nowa](https://osu.ppy.sh/users/5428909)
  
 Each of the winners has been awarded with the Mapping With Rewards profile badge seen below! 
  
