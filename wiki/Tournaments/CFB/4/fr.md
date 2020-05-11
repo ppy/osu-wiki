@@ -77,7 +77,57 @@ La Catch French Beginner 4 ést gérée par différents membres de la communaut�
 | C | ![][flag_FR] [Riki no Kage](https://osu.ppy.sh/users/1549032) | ![][flag_FR] [-Dragolord-](https://osu.ppy.sh/users/9473359) | ![][flag_FR] [MarsJackson](https://osu.ppy.sh/users/8479894) | ![][flag_FR] [Athedos](https://osu.ppy.sh/users/10722269) |
 | D | ![][flag_FR] [Jibsz](https://osu.ppy.sh/users/12269489) | ![][flag_FR] [Trifano](https://osu.ppy.sh/users/15126172) | ![][flag_CA] [Zyoulou](https://osu.ppy.sh/users/8668722) | ![][flag_FR] [sullymaster](https://osu.ppy.sh/users/6765259) |
 
+## Planning des matches: Demi-finales
+
+Samedi, 16 Mai 2020:
+
+| ID du match | Joueur 1 | Joueur 2 | Horaire du match (UTC+2) |
+| :-: | --: | :-- | :-: |
+| #32 | Hecatia15 ![][flag_FR] | ![][flag_FR] Jibsz | **16:00** |
+| #31 | Remyria ![][flag_CA] | ![][flag_FR] Ladylag | **19:00** |
+
+Dimanche, 17 Mai 2020:
+
+| ID du match | Joueur 1 | Joueur 2 | Horaire du match (UTC+2) |
+| :-: | --: | :-- | :-: |
+| #33¹ | Hecatia15 ![][flag_FR] | ![][flag_FR] Trifano | **16:00** |
+| #34¹ | Jibsz ![][flag_FR] | ![][flag_FR] Trifano | **16:00** |
+| #35² | Remyria ![][flag_CA] | ![][flag_FR] AttilaPhoenix | **19:00** |
+| #36² | Ladylag ![][flag_FR] | ![][flag_FR] AttilaPhoenix | **19:00** |
+
+¹ Confrontation dépendant du perdant du Match #32  
+² Confrontation dépendant du perdant du Match #31
+
 ## Mappools
+
+### Demi-finales
+
+**[Téléchargez le mappack ici! (98 MB)](https://wetransfer.com/downloads/26664364b295dfcc5985e16a26f37a0e20200510175846/b6e4b5)**
+
+- NoMod
+  - [Eli Ayase (CV. Nanjo Yoshino) - Arifureta Kanashimi No Hate (Yuuna Kamishiro Remix) (GAMI) \[Gommy's Platter\]](https://osu.ppy.sh/beatmapsets/334494#fruits/748399)
+  - [cYsmix - Manic (Bonsai) \[Insane\]](https://osu.ppy.sh/beatmapsets/361214#fruits/793704)
+  - [FictionJunction feat. LiSA - from the edge (TV Size) (rew0825) \[Rain\]](https://osu.ppy.sh/beatmapsets/1032193#fruits/2158794)
+  - [dBu music - Higan Kikou ~ Titanic of Stygian (Lily Bread) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/382664#fruits/836756)
+  - [senya - Zankyou wa Nariyamazu (Absolute Zero) \[Rain\]](https://osu.ppy.sh/beatmapsets/625519#fruits/1327867)
+  - [HoneyWorks feat. sana - Ima Suki ni Naru. (Sotarks) \[Reform's Insane\]](https://osu.ppy.sh/beatmapsets/1029312#fruits/2158925)
+- Hidden
+  - [Jeff Williams - Mirror Mirror (Featuring Casey Lee Williams) (neonat) \[Solitude\]](https://osu.ppy.sh/beatmapsets/320418#fruits/712983)
+  - [Feint - The Journey (feat. Veela) (A r M i N) \[Insane\]](https://osu.ppy.sh/beatmapsets/770668#fruits/1621242)
+  - [Iwasaki Taku - Dance Macabre (Sieg) \[Insane\]](https://osu.ppy.sh/beatmapsets/87545#fruits/248490)
+  - [Mame - Aka ni Somaru Dress (Mystica) \[Lolita\]](https://osu.ppy.sh/beatmapsets/33217#fruits/108387)
+- HardRock
+  - [THEATRE BROOK - Uragiri no Yuuyake ( TV Size ) (climbb65588) \[Hard\]](https://osu.ppy.sh/beatmapsets/13673#fruits/50406)
+  - [Suara - Fuantei na Kamisama TV ver. (MoelittleC Hime) \[Salad\]](https://osu.ppy.sh/beatmapsets/394829#fruits/864030)
+  - [Tatsh - reunion (Irreversible) \[Kygerphyxversible's Advanced\]](https://osu.ppy.sh/beatmapsets/346213#fruits/765299)
+  - [Bitter Sweet Entertainment - Kanashimi no Mukougawa (Piano Version) (JBHyperion) \[Salad\]](https://osu.ppy.sh/beatmapsets/435287#fruits/937657)
+- DoubleTime
+  - [DJ Ozawa - Tokyo (Innovaderz Remix) (Ascendance) \[Fii's Salad\]](https://osu.ppy.sh/beatmapsets/427801#fruits/941649)
+  - [Miki Sayaka (CV: Kitamura Eri), Sakura Kyoko (CV: Nonaka Ai) - and I'm home (Kyuukai) \[Hard\]](https://osu.ppy.sh/beatmapsets/786689#fruits/1651308)
+  - [C-Show - On the FM (Ascendance) \[Salad\]](https://osu.ppy.sh/beatmapsets/609679#fruits/1382268)
+  - [Hanatan - Senbonzakura (Karen) \[yf's Hard\]](https://osu.ppy.sh/beatmapsets/248173#fruits/622209)
+- Tiebreaker
+  - **[Kalafina - believe (CLSW) \[Bless\]](https://osu.ppy.sh/beatmapsets/316647#fruits/705527)**
 
 ### Quarts de finale
 
@@ -137,6 +187,24 @@ La Catch French Beginner 4 ést gérée par différents membres de la communaut�
   - [dors k(uro) - dreeeeam (Chara) \[A Salad of Dreams\]](https://osu.ppy.sh/beatmapsets/444696#fruits/955343)
 
 ## Résultats des matches
+
+### Quarts de finale
+
+Samedi, 9 Mai 2020:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| **Jibsz** ![][flag_FR] | **5** | 2 | ![][flag_FR] AttilaPhoenix | [#1](https://osu.ppy.sh/community/matches/61425549) |
+| Riki no Kage ![][flag_FR] | -1 | **0** | ![][flag_FR] **Ladylag** | *win by default* |
+| **Hecatia15** ![][flag_FR] | **5** | 4 | ![][flag_FR] -Dragolord- | [#1](https://osu.ppy.sh/community/matches/61456978) |
+
+Dimanche, 10 Mai 2020:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| **Remyria** ![][flag_CA] | **5** | 1 | ![][flag_FR] Trifano | [#1](https://osu.ppy.sh/community/matches/61460974) |
+| **AttilaPhoenix** ![][flag_FR] | **5** | 2 | ![][flag_FR] -Dragolord- | [#1](https://osu.ppy.sh/community/matches/61491060) |
+| **Trifano** ![][flag_FR] | **0** | -1 | ![][flag_FR] Riki no Kage | *win by default* |
 
 ### Phase de poules
 
