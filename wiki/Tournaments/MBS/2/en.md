@@ -73,13 +73,13 @@ The Mania Beginner's Showdown 2 is run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/908109)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1046231)
 - [MBS Discord server](https://discord.gg/uNSqksR)
 - [Livestream](https://www.twitch.tv/osu_mbs)
 - Challonge brackets
-  - [High division](https://challonge.com/mbs_high)
-  - [Low division](https://challonge.com/mbs_low)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRUMWu10NmD9K0V7XVqDW_4erJCQx3ptnfm8XFOXvXGr4TWDjH95ewgQq663Bj8J-5Wf7yHqN2Sbnl1/pubhtml)**
+  - [High division](https://challonge.com/mbs2_high)
+  - [Low division](https://challonge.com/mbs2_low)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRk7T_38QYlVO8mjybHHUm0r40qJol4AttYPn7ePQoiqcQ4PAUgTjMH4JulmjQM4y2-jNeD3bCbEMYN/pubhtml)**
 
 ## Participants
 
