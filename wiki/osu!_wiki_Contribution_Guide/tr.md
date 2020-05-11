@@ -12,7 +12,7 @@ Eğer herhangi bir noktada kafanız karıştıysa ve/veya daha fazla yardıma ih
 
 2. [Giriş yapın](https://github.com/login).
 
-3. [Fork etme](#forking) kısmına devam edin.
+3. [Fork etme](#fork-etme) kısmına devam edin.
 
 ### Fork etme
 
@@ -28,7 +28,7 @@ Eğer herhangi bir noktada kafanız karıştıysa ve/veya daha fazla yardıma ih
 
    ![](img/forked.jpg)
 
-5. [Fork'unuzu senkronlama](#syncing-your-fork) kısmına devam edin.
+5. [Fork'unuzu senkronlama](#forkunuzu-senkronlama) kısmına devam edin.
 
 ### Fork'unuzu senkronlama
 
@@ -48,7 +48,7 @@ Eğer herhangi bir noktada kafanız karıştıysa ve/veya daha fazla yardıma ih
 
 4. Bunu düzeltmek için, [Yaygın Sorunlar makalesinden Branch'ım güncel değil! kısmına](/wiki/owcg/Common_Issues#my-branch-is-out-of-date!) gözatın.
 
-5. 4. adımı tamamladığınızda, [Çevrimiçi ya da yerel düzenleme](#editing-online-or-locally) kısmına devam edin.
+5. 4. adımı tamamladığınızda, [Çevrimiçi ya da yerel düzenleme](#çevrimiçi-ya-da-yerel-düzenleme) kısmına devam edin.
 
 ## Çevrimiçi ya da yerel düzenleme
 
@@ -97,7 +97,7 @@ Bu noktada iki seçeneiğiniz var:
 
     ![](img/new-pull-request.png)
 
-11. Aşağıdaki [Gözden geçirmeler](#reviews) ve [Merge etme](#merging) kısımlarına devam edin.
+11. Aşağıdaki [Gözden geçirmeler](#gözden-geçirmeler) ve [Merge etme](#merge-etme) kısımlarına devam edin.
 
 ### Gözden geçirmeler
 
