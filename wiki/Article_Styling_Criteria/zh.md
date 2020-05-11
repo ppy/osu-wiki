@@ -604,6 +604,8 @@ JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
 
 如果图片仅被引用一次，则必须使用前者。而后者必须把变量赋值放在文章的结尾处。
 
+图片必须放置在文章文件夹中名为 `img` 的文件夹中。多篇文章中使用的图像必须存储在 `/wiki/shared/` 文件夹中。
+
 *关于撰写英文文章的图片要求，请见：[文章风格规范(Englsih)/Images](/wiki/Article_Styling_Criteria?locale=en#Images)*
 
 ### 表格
