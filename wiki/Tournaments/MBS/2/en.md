@@ -69,6 +69,7 @@ The Mania Beginner's Showdown 2 is run by various community members.
 | Designer | ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286) |
 | Statistician | ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517) |
 | Recruiter | ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109) |
+| Developer | ![][flag_NL] [oliebol](https://osu.ppy.sh/users/2756335) |
 | Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
@@ -102,26 +103,6 @@ The Mania Beginner's Showdown 2 is run by various community members.
 | Low | ![][flag_FR] [Kaho-Hinata](https://osu.ppy.sh/users/8903888), ![][flag_AU] [CherriZ](https://osu.ppy.sh/users/10059663), ![][flag_KR] [Pin\_Point](https://osu.ppy.sh/users/13340203), ![][flag_DE] [supimori](https://osu.ppy.sh/users/10972741), ![][flag_FR] [Skyzouu](https://osu.ppy.sh/users/5222842), ![][flag_PL] [B a i l a s](https://osu.ppy.sh/users/7530046), ![][flag_FR] [ChizuruNYA](https://osu.ppy.sh/users/8619849), ![][flag_UA] [Seridict13](https://osu.ppy.sh/users/12070235) |
 | Unseeded | ![][flag_GB] [Livvo](https://osu.ppy.sh/users/8884687), ![][flag_GT] [ERLIN ERGO](https://osu.ppy.sh/users/10606390), ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_PL] [Asasyn01](https://osu.ppy.sh/users/8013323), ![][flag_DE] [ImKeks](https://osu.ppy.sh/users/6510902) |
 | Eliminated | ![][flag_FR] [0rion125](https://osu.ppy.sh/users/8947731), ![][flag_RU] [creatiorHD](https://osu.ppy.sh/users/12445816), ![][flag_CZ] [Shiroomi707](https://osu.ppy.sh/users/10315265), ![][flag_FR] [Allie Furie](https://osu.ppy.sh/users/13078881), ![][flag_US] [Edwardidk](https://osu.ppy.sh/users/9959346), ![][flag_DE] [Kawaii Kaneki](https://osu.ppy.sh/users/3344333), ![][flag_FR] [Musclor](https://osu.ppy.sh/users/9637676) |
-
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-### High division
-
-| Placing | Player |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_SE] [Davvyforte](https://osu.ppy.sh/users/10047413) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461) |
-
-### Low division
-
-| Placing | Player |
-| :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_TH] [osu\_player420](https://osu.ppy.sh/users/13018880) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PH] [Wakeupat5](https://osu.ppy.sh/users/13311553) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_VE] [\_Vanslight\_](https://osu.ppy.sh/users/6031119) |
 
 ## Mappools
 
