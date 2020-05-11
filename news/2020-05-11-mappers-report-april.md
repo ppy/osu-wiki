@@ -133,7 +133,7 @@ The contest required users to submit a full beatmap spread of any game mode for 
  
 #### [Loki/Thaehan](https://osu.ppy.sh/beatmaps/artists/7) - A New King Is Born
 
-- [osu! mapset](https://osu.ppy.sh/beatmapsets/760694) by [DMT9 Nowa](https://osu.ppy.sh/users/5428909)
+- [osu! mapset](https://osu.ppy.sh/beatmapsets/760694) by [DTM9 Nowa](https://osu.ppy.sh/users/5428909)
 - [osu!taiko mapset](https://osu.ppy.sh/beatmapsets/1158282) by [Raiden](https://osu.ppy.sh/users/2239480)
 - [osu!mania mapset](https://osu.ppy.sh/beatmapsets/772257) by [chouyaa](https://osu.ppy.sh/users/8404646)
 
