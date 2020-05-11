@@ -39,7 +39,7 @@ Mode selection changes the [game mode](/wiki/Game_mode) you are modding. It is o
 
 ## Beatmap header
 
-*For information about setting metadata, see: [Song Setup](/wiki/Beatmap_Editor/Song_Setup)*
+*For information about setting metadata, see: [Song Setup § Song and Map Metadata](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata)*
 
 ![](img/beatmap-header.jpg "Beatmap header")
 
