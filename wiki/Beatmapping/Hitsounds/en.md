@@ -1,9 +1,4 @@
----
-tags:
-  - hit sound
----
-
-# Hitsound
+# Hitsounds
 
 *See also: [How to add custom hitsounds](/wiki/Guides/Adding_Custom_Hitsounds)*
 

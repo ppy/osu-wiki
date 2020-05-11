@@ -16,7 +16,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm-rela
 - **Spinners must be long enough for Auto to achieve 1000 bonus score.** Shorter spinners do not allow adequate spin time.
 - **Each beatmap must use at least two different custom combo colours unless the default skin is forced.** The combo colours must not blend with the beatmap's background/storyboard/video in any case. This is so hit objects are always visible to the player and custom skin's combo colours do not blend with the background accidentally.
 - **Every slider must have a clear and visible path to follow from start to end.** Sliders that overlap themselves without straightforward slider borders and sliders whose individual sections are unreadable cannot be used. A slider's end position must be clear under the assumption that a player has a skin which makes slider end circles fully transparent.
-- **Do not use [keysounds](/wiki/Beatmapping/Hitsound#keysounding) without hitnormal support.** Players do not receive enough feedback otherwise.
+- **Do not use [keysounds](/wiki/Beatmapping/Hitsounds#keysounding) without hitnormal support.** Players do not receive enough feedback otherwise.
 - **If a hitsound is used as hitnormal, ensure it does not blend with the song.** Players do not receive enough feedback otherwise.
 - **Difficulties must convert to other game modes without breaking star rating/performance points.** In certain cases, a `.osu` file can be formatted improperly, causing converted difficulties to incorrectly display star rating and reward inaccurate performance points.
 

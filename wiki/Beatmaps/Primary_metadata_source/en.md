@@ -1,8 +1,8 @@
 ---
 tags:
-  - metadata
-  - song metadata
-  - source
+  - song
+  - artist
+  - title
 ---
 
 # Primary metadata source
@@ -11,6 +11,4 @@ An **primary metadata source** is a source for `Artist`, `Title`, and `Source` f
 
 An artist's website, their label's website, CD scans, and official uploads to websites like Bandcamp, YouTube, and SoundCloud are considered primary sources for song metadata. Third party websites such as wikis, databases (vndb, vgmdb, etc.), and music services (Spotify, iTunes, Amazon, etc.) do not always reflect the artist's intention and should not be treated as primary sources.
 
-Beatmaps are required to use metadata from any primary source they choose, though the [Ranking criteria](/wiki/Ranking_criteria) prioritizes consistency with other Ranked beatmapsets if their metadata matches another primary metadata source.
-
-<!-- this is a stub -->
+Beatmaps aiming for Ranked status are required to use metadata from any primary source they choose, though the [ranking criteria](/wiki/Ranking_Criteria) prioritizes consistency with other Ranked beatmapsets if their metadata matches another primary metadata source.
