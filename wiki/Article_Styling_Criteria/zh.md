@@ -740,6 +740,14 @@ JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
 - `Free Mods`，`Free Mod`，`FreeMods`，`FreeMod`，或 `FM`
 - `Tiebreaker`
 
+#### 语言名称（英文）
+
+语言名称的首字母必须大写。例如：
+
+```markdown
+The `#spanish` chat channel is for those who speak Spanish.
+```
+
 #### 专有名字（英文）
 
 专有名词必须首字母大写。例如：
