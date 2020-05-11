@@ -9,9 +9,7 @@ Eğer herhangi bir noktada kafanız karıştıysa ve/veya daha fazla yardıma ih
 ### Kayıt olma
 
 1. Eğer yoksa, GitHub hesabı oluşturmak için [kayıt olun](https://github.com/join).
-
 2. [Giriş yapın](https://github.com/login).
-
 3. [Fork etme](#fork-etme) kısmına devam edin.
 
 ### Fork etme
