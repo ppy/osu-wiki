@@ -7,7 +7,7 @@ tags:
 
 # Mania Beginner's Showdown
 
-![MBS2 logo](img/logo.png)
+![MBS2 logo](img/logo.jpg)
 
 The **Mania Beginner's Showdown 2** (***MBS2***) is a worldwide double-elimination 1v1 osu!mania 4K tournament hosted by ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098) and ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517). The tournament has two divisions to separate the skillset between players: the high division consists of players ranked #10,000–#40,000, and the low division consists of players ranked #40,001–#100,000. This is the second installment of the Mania Beginner's Showdown.
 
@@ -51,19 +51,24 @@ The **Mania Beginner's Showdown 2** (***MBS2***) is a worldwide double-eliminati
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag, 20€ |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag, 10€ |
 
+Generous donations from ![][flag_DE] [DieButterStulle](https://osu.ppy.sh/users/4965323), ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), and ![][flag_CA] [Syako](https://osu.ppy.sh/users/8184715) helped fund some of the prizes.
+
 ## Organisation
 
-The Mania Beginner's Showdown was run by various community members.
+The Mania Beginner's Showdown 2 is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_FR] [Ladygril](https://osu.ppy.sh/users/11989065), ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811) |
-| Map selector | ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Neyra](https://osu.ppy.sh/users/8563504), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_FR] [ZayyKen](https://osu.ppy.sh/users/8624433) |
-| Referee | ![][flag_FI] [Camopoltergeist](https://osu.ppy.sh/users/8132964), ![][flag_DE] [Flygone](https://osu.ppy.sh/users/9287979), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_FR] [Ladygril](https://osu.ppy.sh/users/11989065), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_AU] [Tacxam](https://osu.ppy.sh/users/9847895), ![][flag_US] [Tuco](https://osu.ppy.sh/users/11706350) |
-| Streamer | ![][flag_SE] [Davvyforte](https://osu.ppy.sh/users/10047413), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_NL] [oliebol](https://osu.ppy.sh/users/2756335), ![][flag_US] [Rianolinon](https://osu.ppy.sh/users/9739455) |
-| Commentator | ![][flag_ID] [\[Crz\]Crysarlene](https://osu.ppy.sh/users/5492871), ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ![][flag_US] [AYAYAA](https://osu.ppy.sh/users/4980256), ![][flag_NZ] [Blujae](https://osu.ppy.sh/users/10613885), ![][flag_SE] [Davvyforte](https://osu.ppy.sh/users/10047413), ![][flag_BR] [HaloSSB](https://osu.ppy.sh/users/7572142), ![][flag_ID] [Horou](https://osu.ppy.sh/users/10807310), ![][flag_FR] [Ladygril](https://osu.ppy.sh/users/11989065), ![][flag_DE] [Malox](https://osu.ppy.sh/users/4516252), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811) |
-| Designer | ![][flag_FR] [Ladygril](https://osu.ppy.sh/users/11989065), ![][flag_FR] [Soraga54](https://osu.ppy.sh/users/9920526) |
-| Statistician | ![][flag_FR] [Ladygril](https://osu.ppy.sh/users/11989065), ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517) |
+| Organiser | ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517) |
+| Co-Organiser | ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286) |
+| Map selector | ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_FR] [ZayyKen](https://osu.ppy.sh/users/8624433) |
+| Guest Mapper | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) |
+| Referee | ![][flag_AU] [anim shnacc](https://osu.ppy.sh/users/11373924), ![][flag_NZ] [Blujae](https://osu.ppy.sh/users/10613885), ![][flag_NL] [Boaz](https://osu.ppy.sh/users/13302996), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_NZ] [Erkfir](https://osu.ppy.sh/users/7756939), ![][flag_DE] [Flygone](https://osu.ppy.sh/users/9287979), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_NL] [Lienkuh](https://osu.ppy.sh/users/13960277), ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_RU] [Nozdormu](https://osu.ppy.sh/users/7169208), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][flag_FR] [Satsukel](https://osu.ppy.sh/users/9066390), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235), ![][flag_US] [travis\_ba](https://osu.ppy.sh/users/10822220), ![][flag_FR] [ZeddaStake](https://osu.ppy.sh/users/8801844) |
+| Streamer | ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_NL] [oliebol](https://osu.ppy.sh/users/2756335), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958) |
+| Commentator | ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ![][flag_AU] [anim shnacc](https://osu.ppy.sh/users/11373924), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_NZ] [Blujae](https://osu.ppy.sh/users/10613885), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_NZ] [Erkfir](https://osu.ppy.sh/users/7756939), ![][flag_PL] [Finite](https://osu.ppy.sh/users/5385806), ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_ID] [Horou](https://osu.ppy.sh/users/10807310), ![][flag_DE] [Malox](https://osu.ppy.sh/users/4516252), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_CA] [Sansnaka](https://osu.ppy.sh/users/5543535), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235), ![][flag_CA] [Syako](https://osu.ppy.sh/users/8184715), ![][flag_NZ] [WhiteWeebWolf](https://osu.ppy.sh/users/8927299), ![][flag_GB] [Young Alpha](https://osu.ppy.sh/users/15383957) |
+| Designer | ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286) |
+| Statistician | ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517) |
+| Recruiter | ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109) |
 | Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
@@ -963,5 +968,18 @@ Sunday, 30 June 2020:
     - Semifinals: Best of 11 (first to 6 points)
     - Finals and Grand Finals: Best of 13 (first to 7 points)
 
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
