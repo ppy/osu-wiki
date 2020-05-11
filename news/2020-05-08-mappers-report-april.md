@@ -69,7 +69,7 @@ New Beatmap Nominators! Quick, request all your beatmaps! Jokes aside, the Beatm
 
 ### BN Additions
 
-- **osu!:** [Agatsu](https://osu.ppy.sh/users/5579871)
+- **osu!:** [Agatsu](https://osu.ppy.sh/users/5579871) & [Smoke](https://osu.ppy.sh/users/10726630)
 - **osu!taiko:** [Greenshell](https://osu.ppy.sh/users/8693851)
 - **osu!catch:** [Dako](https://osu.ppy.sh/users/11081858)
 - **osu!mania:** [Sun](https://osu.ppy.sh/users/4115819)
@@ -78,8 +78,8 @@ Interested in becoming a Beatmap Nominator and deciding what maps reach ranked? 
 
 ### BN Resignations
 
-- **osu!:** [celerih](https://osu.ppy.sh/users/4696296), [Chinochan](https://osu.ppy.sh/users/3626063), [Uta](https://osu.ppy.sh/users/9439796) & [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
-- **osu!catch:** [Daletto](https://osu.ppy.sh/users/7592136) & [Lacrima](https://osu.ppy.sh/users/4915649)
+- **osu!:** [celerih](https://osu.ppy.sh/users/4696296), [Chinochan](https://osu.ppy.sh/users/3626063) & [Namki](https://osu.ppy.sh/users/5248582)
+- **osu!catch:** [Lacrima](https://osu.ppy.sh/users/4915649)
 
 ### NAT Additions
 
