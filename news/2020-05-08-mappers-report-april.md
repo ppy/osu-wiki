@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Mappers' Report: April"
-date: 2020-05-10 12:00:00 +0000
+date: 2020-05-11 12:00:00 +0000
 ---
 
 Third time's the charm! Another month has passed and that means it's time for another issue of the Mappers' Report — your trustworthy news post with topics all about mapping in osu! I'm sure you're excited, so let's start right away!
