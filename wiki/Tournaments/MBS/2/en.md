@@ -47,13 +47,9 @@ The **Mania Beginner's Showdown 2** (***MBS2***) is a worldwide double-eliminati
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
-
-![](img/badge_high.png "MBS high division winner badge") ![](img/badge_low.png "MBS low division winner badge")
-
-Generous donations from ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098) and ![][flag_GB] [OhDeMills](https://osu.ppy.sh/users/13592970) helped fund some of the prizes.
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 4 months of osu!supporter tag, 30€ |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag, 20€ |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag, 10€ |
 
 ## Organisation
 
