@@ -81,23 +81,22 @@ La Catch French Beginner 4 ést gérée par différents membres de la communaut�
 
 Samedi, 16 Mai 2020:
 
-| ID du match | Joueur 1 |  |  | Joueur 2 | Horaire du match (UTC+2) |
-| :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| #32 | Hecatia15 | ![][flag_FR] | ![][flag_FR] | Jibsz | **16:00** |
-| #31 | Remyria | ![][flag_CA] | ![][flag_FR] | Ladylag | **19:00** |
+| ID du match | Joueur 1 | Joueur 2 | Horaire du match (UTC+2) |
+| :-: | --: | :-- | :-: |
+| #32 | Hecatia15 ![][flag_FR] | ![][flag_FR] Jibsz | **16:00** |
+| #31 | Remyria ![][flag_CA] | ![][flag_FR] Ladylag | **19:00** |
 
 Dimanche, 17 Mai 2020:
 
-| ID du match | Joueur 1 |  |  | Joueur 2 | Horaire du match (UTC+2) |
-| :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| #33¹ | Hecatia15 | ![][flag_FR] | ![][flag_FR] | Trifano | **16:00** |
-| #34¹ | Jibsz | ![][flag_FR] | ![][flag_FR] | Trifano | **16:00** |
-| #35² | Remyria | ![][flag_CA] | ![][flag_FR] | AttilaPhoenix | **19:00** |
-| #36² | Ladylag | ![][flag_FR] | ![][flag_FR] | AttilaPhoenix | **19:00** |
+| ID du match | Joueur 1 | Joueur 2 | Horaire du match (UTC+2) |
+| :-: | --: | :-- | :-: |
+| #33¹ | Hecatia15 ![][flag_FR] | ![][flag_FR] Trifano | **16:00** |
+| #34¹ | Jibsz ![][flag_FR] | ![][flag_FR] Trifano | **16:00** |
+| #35² | Remyria ![][flag_CA] | ![][flag_FR] AttilaPhoenix | **19:00** |
+| #36² | Ladylag ![][flag_FR] | ![][flag_FR] AttilaPhoenix | **19:00** |
 
- ¹ Confrontation dépendant du perdant du Match #32
-
- ² Confrontation dépendant du perdant du Match #31
+¹ Confrontation dépendant du perdant du Match #32  
+² Confrontation dépendant du perdant du Match #31
 
 ## Mappools
 

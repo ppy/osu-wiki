@@ -81,23 +81,22 @@ The Catch French Beginner 4 is run by various community members.
 
 Saturday, 16 May 2020:
 
-| Match ID | Player A |  |  | Player B | Match Time (UTC+2) |
-| :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| #32 | Hecatia15 | ![][flag_FR] | ![][flag_FR] | Jibsz | **16:00** |
-| #31 | Remyria | ![][flag_CA] | ![][flag_FR] | Ladylag | **19:00** |
+| Match ID | Player A | Player B | Match time (UTC+2) |
+| :-: | --: | :-- | :-: |
+| #32 | Hecatia15 ![][flag_FR] | ![][flag_FR] Jibsz | **16:00** |
+| #31 | Remyria ![][flag_CA] | ![][flag_FR] Ladylag | **19:00** |
 
 Sunday, 17 May 2020:
 
-| Match ID | Player A |  |  | Player B | Match Time (UTC+2) |
-| :-: | --: | :-: | :-: | :-- | :-: | :-: |
-| #33¹ | Hecatia15 | ![][flag_FR] | ![][flag_FR] | Trifano | **16:00** |
-| #34¹ | Jibsz | ![][flag_FR] | ![][flag_FR] | Trifano | **16:00** |
-| #35² | Remyria | ![][flag_CA] | ![][flag_FR] | AttilaPhoenix | **19:00** |
-| #36² | Ladylag | ![][flag_FR] | ![][flag_FR] | AttilaPhoenix | **19:00** |
+| Match ID | Player A | Player B | Match time (UTC+2) |
+| :-: | --: | :-- | :-: |
+| #33¹ | Hecatia15 ![][flag_FR] | ![][flag_FR] Trifano | **16:00** |
+| #34¹ | Jibsz ![][flag_FR] | ![][flag_FR] Trifano | **16:00** |
+| #35² | Remyria ![][flag_CA] | ![][flag_FR] AttilaPhoenix | **19:00** |
+| #36² | Ladylag ![][flag_FR] | ![][flag_FR] AttilaPhoenix | **19:00** |
 
- ¹ Encounter dependent on loser of Match #32
-
- ² Encounter dependent on loser of Match #31
+¹ Encounter dependent on loser of Match #32  
+² Encounter dependent on loser of Match #31
 
 ## Mappools
 
