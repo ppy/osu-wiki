@@ -33,13 +33,13 @@ outdated: true
 
 | Имя | Дополнительные языки |
 | :-- | :-- |
-| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | |
-| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | |
-| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) | |
+| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  |
+| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
+| ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | тагалог («филиппинский») |
-| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | |
+| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) |  |
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | шведский, испанский |
-| ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) | |
+| ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) |  |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | немецкий |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | испанский |
 

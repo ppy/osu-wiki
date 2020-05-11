@@ -26,7 +26,7 @@ _Ayrıca bakınız: [osu! topluluk iştirakçıları](https://osu.ppy.sh/communi
 | [statementreply](https://osu.ppy.sh/users/126198) | Bug-fix/özellik testinde üstün performans ve mapperlar ve modderlar için pek çok yararlı uygulama kodlama |
 | [Loctav](https://osu.ppy.sh/users/71366) | (OWC dahil olmak üzere) birkaç büyük turnuvayı organize etti. |
 | [Blazevoir](https://osu.ppy.sh/users/120265) | Çılgın moderasyon geçmişi (aşağı yukarı 6 takım üyesine eşdeğer) ve #osu'yu tek başına tepe saatlerde (+9k'dan fazla kullanıcı) kontrol altında tutma başarısı. |
-| [Piotrekol](https://osu.ppy.sh/users/304520) |  [osu!stats](https://osustats.ppy.sh/) ve bir kaç tane daha beatmap yapımı, modlama ve genel oynanış ile ilgili aracın geliştiricisi |
+| [Piotrekol](https://osu.ppy.sh/users/304520) | [osu!stats](https://osustats.ppy.sh/) ve bir kaç tane daha beatmap yapımı, modlama ve genel oynanış ile ilgili aracın geliştiricisi |
 | [MillhioreF](https://osu.ppy.sh/users/941094) | Bug-fix/özellik testinde ve kullanıcı destek sorularına cevap vermede üstün performans. |
 | [DeathxShinigami](https://osu.ppy.sh/users/49516) | [beatmap paketlemede](https://osu.ppy.sh/p/packlist) hiç yorulmadan sessizce 3 yılı aşkın verilen emek ve beatmap listelerinde birkaç yıllık çalışma. |
 | [LuigiHann](https://osu.ppy.sh/users/1079) | Orijinal beatmpap skini tasarımı, [storyboard yapımının](/wiki/Storyboards) bşr sanat olarak gelişmesi ve motivasyon kaynağı olmak gibi yıllar boyu verilen hizmet. |
@@ -48,7 +48,7 @@ _Ayrıca bakınız: [Topluluk İştirakçıları Rozetleri (Ocak 2016)](https://
 
 | Kullanıcı | Katkıları |
 | :-- | :-- |
-| [ztrot](https://osu.ppy.sh/users/6347) |  [osu!academy](/wiki/osu!academy) kurucusu |
+| [ztrot](https://osu.ppy.sh/users/6347) | [osu!academy](/wiki/osu!academy) kurucusu |
 | [Tasha](https://osu.ppy.sh/users/1031958) | osu!weekly + Haber iştircakçısı |
 | [Flanster](https://osu.ppy.sh/users/447818) | Üstün modersayon varlığı (10k+ öldürme). |
 | [Nathanael](https://osu.ppy.sh/users/2295078) | Üstün modersayon varlığı (10k+ ödlürme). |
