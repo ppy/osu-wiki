@@ -154,7 +154,7 @@ no_native_review: true
 
 快速入门请参考[中文 Markdown 指南](http://www.appinn.com/markdown/)，下列内容仅说明如何正确使用。
 
-#### HTML
+### HTML
 
 <!-- ppy说不让用HTML。 来自:ppy#0001 日期:2017-06-26 in:osu-wiki markdown -->
 
