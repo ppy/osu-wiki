@@ -17,14 +17,14 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 | --: | :-- |
 | Staff Registration | 2020-04-12/2020-04-25 |
 | Player Registration | 2020-04-25/2020-05-14 |
-| Screening Phase | 2020-05-15/2020-05-22 |
-| Qualifiers | 2020-05-23/2020-05-24 |
-| Group Stages | 2020-05-29/2020-05-31 |
-| Round of 16 | 2020-06-05/2020-06-07 |
-| Quarterfinals | 2020-06-12/2020-06-14 |
-| Semifinals | 2020-06-19/2020-06-21 |
-| Finals | 2020-06-26/2020-06-28 |
-| Grand Finals | 2020-07-03/2020-07-05 |
+| Screening Phase | 2020-05-17/2020-05-29 |
+| Qualifiers | 2020-05-30/2020-05-31 |
+| Group Stages | 2020-06-05/2020-05-07 |
+| Round of 16 | 2020-06-12/2020-06-14 |
+| Quarterfinals | 2020-06-19/2020-06-21 |
+| Semifinals | 2020-06-26/2020-06-28 |
+| Finals | 2020-07-03/2020-07-05 |
+| Grand Finals | 2020-07-10/2020-07-12 |
 
 ## Prizes
 
@@ -70,10 +70,10 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 | Chuchichäschtli | ![][flag_CH] **[[Arikawa]](https://osu.ppy.sh/users/6454830)**, ![][flag_CH] [Kvn_hot_potato](https://osu.ppy.sh/users/6228912), ![][flag_CH] [[ Kuromei ]](https://osu.ppy.sh/users/6675144) |
 | Fashionably Late | ![][flag_US] **[Dream10](https://osu.ppy.sh/users/11740481)**, ![][flag_US] [fourfifty](https://osu.ppy.sh/users/9653206), ![][flag_SV] [Mario564](https://osu.ppy.sh/users/14544646), ![][flag_US] [Zeity](https://osu.ppy.sh/users/11367167) |
 | osu!Coin | ![][flag_US] **[Lattice35](https://osu.ppy.sh/users/14902742)**, ![][flag_US] [PacoTaco03](https://osu.ppy.sh/users/9968194), ![][flag_US] [QuintecX](https://osu.ppy.sh/users/15458667/osu), ![][flag_US] [Cnolii](https://osu.ppy.sh/users/11246834) |
-| KuroNeko | ![][flag_TH] **![][flag_PH] [Ecstatify](https://osu.ppy.sh/users/14494059)**, ![][flag_TH] [[TH]-Eugen_](https://osu.ppy.sh/users/11475384), ![][flag_ID] [Fleure De Lapin](https://osu.ppy.sh/users/5569341/osu), ![][flag_VN] [-Yukina-](https://osu.ppy.sh/users/15470246) |
+| KuroNeko | ![][flag_TH] **![][flag_PH] [Ecstatify](https://osu.ppy.sh/users/14494059)**, ![][flag_TH] [[TH]-Eugen_](https://osu.ppy.sh/users/11475384), ![][flag_ID] [Fleure De Lapin](https://osu.ppy.sh/users/5569341/osu), ![][flag_VN] [- Yukina -](https://osu.ppy.sh/users/15470246) |
 | Ugga Ugga ⊂(( o・ω・))⊃ | ![][flag_TR] **[Undine116](https://osu.ppy.sh/users/14352107)**, ![][flag_CH] [xUnicornball69x](https://osu.ppy.sh/users/16078878), ![][flag_TR] [Phantase](https://osu.ppy.sh/users/8584641) |
 | Tablet Slayers | ![][flag_IT] **[Dagoliir](https://osu.ppy.sh/users/7209911)**, ![][flag_ES] [CebollaVladimir](https://osu.ppy.sh/users/15308238), ![][flag_ES] [Viewer](https://osu.ppy.sh/users/16208221) |
-| playstyl'D | ![][flag_US] **[BowLL](https://osu.ppy.sh/users/10198015/osu)**, ![][flag_US] [Yenmaster](https://osu.ppy.sh/users/12565402), ![][flag_US] [RDSparkle](https://osu.ppy.sh/users/7588462) |
+| playstyl'D | ![][flag_US] **[BowLL](https://osu.ppy.sh/users/10198015/osu)**, ![][flag_US] [Yenmaster](https://osu.ppy.sh/users/12565402), ![][flag_US] [RDSparkle](https://osu.ppy.sh/users/7588462), ![][flag_GB] [WhyAmIBored](https://osu.ppy.sh/users/14194982) |
 | OBST Squad | ![][flag_FR] **[Numero_Zer0e](https://osu.ppy.sh/users/13352562)**, ![][flag_FR] [Podsel](https://osu.ppy.sh/users/15312729), ![][flag_BE] [N1C3TR0](https://osu.ppy.sh/users/14489553), ![][flag_FR] [vegajuice](https://osu.ppy.sh/users/8027232) |
 | Desu | ![][flag_UA] **[Kocha](https://osu.ppy.sh/users/15518219)**, ![][flag_IT] [Edolino](https://osu.ppy.sh/users/11255361), ![][flag_LV] [Necroplex](https://osu.ppy.sh/users/13743386) |
 | God Osu! Thailand EZwin101 | ![][flag_TH] **[north12435](https://osu.ppy.sh/users/9464745)**, ![][flag_TH] [Hibaragi](https://osu.ppy.sh/users/13471993), ![][flag_TH] [Moyashie](https://osu.ppy.sh/users/12013891), ![][flag_TH] [noozzz](https://osu.ppy.sh/users/14129179) |
@@ -85,12 +85,13 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 | Ranger Can't Derank Successfully | ![][flag_TW] **[John6023](https://osu.ppy.sh/users/2465704/osu)**, ![][flag_TW] [RainTW](https://osu.ppy.sh/users/11622805), ![][flag_TW] [Satomi_0826](https://osu.ppy.sh/users/4248366), ![][flag_TW] [Ching_Chang](https://osu.ppy.sh/users/11804616) |
 | English School Foundations | ![][flag_HK] **[JayeshChatlani](https://osu.ppy.sh/users/12986109)**, ![][flag_HK] [Anto6](https://osu.ppy.sh/users/15081907) |
 | Mouse Drift | ![][flag_BR] **[Kleemann](https://osu.ppy.sh/users/12582103)**, ![][flag_BR] [Himeno_-](https://osu.ppy.sh/users/16545385) |
-| Australia's OWC Team on Smurf Accounts | ![][flag_NZ] **[Zed eS](https://osu.ppy.sh/users/13713183)**, ![][flag_AU] [shepraf](https://osu.ppy.sh/users/14749149), ![][flag_CA] [-careless-](https://osu.ppy.sh/users/15529550), ![][flag_US] [Destiny GD](https://osu.ppy.sh/users/16345483) |
+| Australia's OWC Team on Smurf Accounts | ![][flag_NZ] **[Zed eS](https://osu.ppy.sh/users/13713183)**, ![][flag_AU] [shepraf](https://osu.ppy.sh/users/14749149), ![][flag_CA] [-careless-](https://osu.ppy.sh/users/15529550) |
 | WeLoveKöfte | ![][flag_DE] **[Nikurax](https://osu.ppy.sh/users/11705938)**, ![][flag_DE] [Denk_Fisch](https://osu.ppy.sh/users/13210251), ![][flag_DE] [Enyu](https://osu.ppy.sh/users/14106819), ![][flag_PL] [misiekreksio](https://osu.ppy.sh/users/12908278) |
 | CatMooners | ![][flag_BR] **[MoonTears](https://osu.ppy.sh/users/11911570)**, ![][flag_BR] [Axiey](https://osu.ppy.sh/users/11711340) |
 | Nerf or Nothin' | ![][flag_US] **[FAITHFIRE007](https://osu.ppy.sh/users/11739464)**, ![][flag_US] [LakinBacon](https://osu.ppy.sh/users/12838237), ![][flag_CA] [Kiwi123Food](https://osu.ppy.sh/users/11682384) |
 | Rice Farmers | ![][flag_VN] **[lienzzhitzz](https://osu.ppy.sh/users/14638487)**, ![][flag_VN] [ketthesylveon](https://osu.ppy.sh/users/14065788) |
-| PoggersFish| ![][flag_US] **[Nebula3310](https://osu.ppy.sh/users/14729352)**, ![][flag_US] [Dr Sloth OWO](https://osu.ppy.sh/users/14655426) |
+| PoggersFish | ![][flag_US] **[Nebula3310](https://osu.ppy.sh/users/14729352)**, ![][flag_US] [Dr Sloth OWO](https://osu.ppy.sh/users/14655426) |
+| Bats From Wuhan | ![][flag_PL] **[MrChytry](https://osu.ppy.sh/users/9873693)**, 
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
