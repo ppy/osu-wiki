@@ -9,32 +9,32 @@ Bu sayfa size Windows cihazınızda osu!'yu nasıl çalıştıracağınızı anl
 - .NET framework 4+ (yükleyici sizin bunu indirmenizi sağlayacaktır, aksi halde [buradan](https://www.microsoft.com/en-us/download/details.aspx?id=48130) bulabilirsiniz)
 - İyi bir grafik kartı.
 
-## osu!'yu kurarken
+## osu!'yu kurmak
 
 1. [İndirme sayfasına](https://osu.ppy.sh/home/download) gidin ve yükleyiciyi indirin.
 2. Yükleyiciyi konumlandırın ve çalıştırın.
-3. Yükleyici çalışırken kurulum için dosya konumunu seçebileceğiniz on saniyelik bir süre bulunmaktadır.
-   - Eğer değiştirmek istiyorsanız, `Selam!` kelimesinin altındaki yazıya tıklayın ve dosya konumunu seçin.
+3. Yükleyici çalışırken kurulum için dosya konumunu seçebileceğiniz on saniyelik bir süre zarfı bulunmaktadır.
+   - Eğer değiştirmek istiyorsanız, `Selam!` kelimesinin altındaki metne tıklayın ve dosya konumunu seçin.
    - Sayaç sonlandığında, osu! bu dizine kurulacaktır.
 4. Yükleyici tamamlandığında osu! açılacaktır. osu!direct kullanılarak birtakım başlangıç beatmapleri sizin için indirilecektir.
 5. osu!, giriş yapmanız veya kayıt olmanız için istemde bulunacaktır.
    - Eğer halihazırda bir hesabınız varsa, giriş yapın.
-   - Eğer kayıt olmanız gerekiyorsa, [Kayıt](/wiki/Registration) sayfasına gözatın.
+   - Eğer kayıt olmanız gerekiyorsa, [Kayıt](/wiki/Registration) sayfasına göz atın.
 
-## Beatmapset indirme
+## Beatmap seti indirmek
 
 *Ayrıca bakınız: [Beatmapler](/wiki/Beatmaps)*
 
-Beatmap eklemenin iki yolu vardır, website üzerinden ya da osu!direct üzerinden ([osu!supporter](/wiki/osu!supporter) gerektirir).
+Beatmap eklemenin iki yolu vardır, web sayfası üzerinden ya da osu!direct üzerinden ([osu!supporter](/wiki/osu!supporter) gerektirir).
 
-### Website
+### Web sayfası
 
-1. [Beatmap listeleme sayfasına](https://osu.ppy.sh/beatmapsets) gidin ve websiteye giriş yapın.
+1. [Beatmap listeleme sayfasına](https://osu.ppy.sh/beatmapsets) gidin ve web sayfasına giriş yapın.
 2. Oynamak istediğiniz bir şarkıyı bulun.
-3. Beatmapseti bilgisayarınıza kaydetmek için indirme simgesine tıklayın.
-4. Beatmapset dosyasını bulun ve açın, `.osz` uzantısı bulunmaktadır.
-   - Alternatif olarak, beatmapset dosyasını osu! dosya konumundaki `Songs` dizinine yerleştirebilirsiniz.
-5. Geri kalanını osu! sizin için otomatik olarak halledecektir ve beatmapseti yükleyecektir.
+3. Beatmap setini bilgisayarınıza kaydetmek için indirme simgesine tıklayın.
+4. Beatmap seti dosyasını bulun ve açın, `.osz` uzantısına sahiptir.
+   - Alternatif olarak, beatmap seti dosyasını osu! dosya konumundaki `Songs` dizinine yerleştirebilirsiniz.
+5. Geri kalanını osu! sizin için otomatik olarak halledecektir ve beatmap setini yükleyecektir.
    - Eğer, herhangi bir nedenden dolayı, onları göremiyorsanız, beatmaplerinizi yenilemek için [Şarkı Seçimi](/wiki/Interface#song-selection-screen) kısmında `F5`'e basın.
 
 ### osu!direct
@@ -43,9 +43,9 @@ Beatmap eklemenin iki yolu vardır, website üzerinden ya da osu!direct üzerind
 
 1. osu!'yu açın, ve ana ekranın sağ kenarında bulunan osu!direct butonuna tıklayın.
 2. Oynamak istediğiniz bir şarkıyı bulun.
-3. Listedeki şarkıyı indirmek için çift tıklayın ya da sağdaki `İndir` butonuna tıklayın.
-   - Eğer beatmapset ile birlikte gelen videoyu indirmek istemiyorsanız, `DL NoVideo` butonuna tıklayın.
-4. osu! beatmapsetlerinizi indirmeyi tamamladığında otomatik olarak yükleyecektir.
+3. Listedeki şarkıyı indirmek için çift tıklayın ya da sağdaki `Download` butonuna tıklayın.
+   - Eğer beatmap seti ile birlikte gelen videoyu indirmek istemiyorsanız, `DL NoVideo` butonuna tıklayın.
+4. osu! beatmap setlerinizi indirmeyi tamamladığında otomatik olarak yükleyecektir.
    - Eğer, herhangi bir nedenden dolayı, onları göremiyorsanız, beatmaplerinizi yenilemek için [Şarkı Seçimi](/wiki/Interface#song-selection-screen) kısmında `F5`'e basın.
 
 ## Tema ekleme
@@ -63,4 +63,4 @@ Beatmap eklemenin iki yolu vardır, website üzerinden ya da osu!direct üzerind
      2. Çıkarılmış tema dosyasını osu! dosya konumundaki `Skins` dizinine aktarın.
      3. Eğer osu! çalışıyorsa, `Ctrl` + `Alt` + `Shift` + `S` kısayolunu kullandıktan sonra tema görüntülenecektir.
      4. osu! içerisinde, [Ayarlara](/wiki/Options) gidin ve aramaya `Tema` yazın.
-     5. `Şimdiki Tema:` seçeneğine doğru aşağı sürükleyin ve indirdiğiniz temayı seçin.
+     5. `Şimdiki Tema:` seçeneğine tıklayıp çıkan menüde indirdiğiniz temayı seçin.
