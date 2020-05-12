@@ -7,11 +7,11 @@ tags:
 
 # Küresel Moderasyon Takımı
 
-**Küresel Moderasyon Takımı** *(Global Moderation Team)* (eski ismiyle Global Mod Takımı, Adminler, ya da GreenBAT), yaygın adıyla **GMT**, temel olarak oyuncu moderasyonu, takım ile topluluğun bütününü etkileyen konular ile ilgilenen topluluk üyeleridir.
+**Küresel Moderasyon Takımı** *(Global Moderation Team)* (eski ismiyle Global Mod Takımı, Adminler, ya da GreenBAT), yaygın adıyla **GMT**, temel olarak oyuncu moderasyonu ve takım ile topluluğun bütününü etkileyen konular ile ilgilenen topluluk üyeleridir.
 
 ## Rol ve sorumluluklar
 
-Küresel Moderasyon Takımı sohbet ve forum ortamının düzeninden sorumlu olmanın yanı sıra topluluk içerisindeki etkileşimleri de gözetlerler. Sohbette (susturulma, taciz gibi) veya forumda (gereksiz/spam, uygunsuz yorumlar gibi) oluşan sorunlar ile sınırlı olmaksızın oyunun moderasyon kısmıyla ilgili her türlü konuda onlara ulaşabilirsiniz.
+Küresel Moderasyon Takımı sohbet ve forum ortamının düzeninden sorumlu olmanın yanı sıra topluluk içerisindeki etkileşimleri de gözetlerler. Sohbette (susturulma, taciz gibi) veya forumda (gereksiz/spam, uygunsuz yorumlar gibi) oluşan sorunlar dahil olmak üzere (ama bunlarla sınırlı kalmadan) oyunun moderasyon kısmıyla ilgili herhangi bir sorununuz olduğunda onlara ulaşmalısınız.
 
 ## Küresel Moderasyon Takımı üyesi olmak
 
@@ -26,7 +26,7 @@ Tavır ve davranışlar, aktiflik durumu, kurallara uyum, ve sabırlı olmak ada
 3. [Kurallar](/wiki/Rules) ve nasıl uygulandığı hakkında doğru bir anlayışınız olsun. osu! içerisinde neyin kabul edilebilir neyin edilemez konusunda bilginizin olması önemlidir.
 4. Sabırlı olun. GMT sadece birkaç gün boyunca yardım eden kullanıcıları rastgele takıma almaz. GMT’nin kullanıcıları değerlendirmesi – onların kişiliği, hangi konuda yardımcı olabilirler, ne kadar aktifler vs. - biraz zaman alan bir süreçtir. 
 
-Genellikle, değerli bir katkı olup olamayacaklarına emin olabilmek için takım kişileri birkaç hafta gözlemler. Lütfen sabırlı olun ve aşırıya kaçmayın. Kurallar, kullanıcı raporlama, gibi her türlü sorunlarınızı GMT içerisindeki herhangi birisine sormaktan çekinmeyin.
+Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adına adaylar takım üyeler tarafından birkaç hafta gözlemlenir. Lütfen sabırlı olun ve aşırıya kaçmayın. Kurallar, kullanıcı raporlama, gibi her türlü sorunlarınızı GMT içerisindeki herhangi birisine sormaktan çekinmeyin.
 
 ### Yapılmaması gereken bazı şeyler
 
@@ -71,7 +71,7 @@ Genellikle, değerli bir katkı olup olamayacaklarına emin olabilmek için tak�
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipince | Sohbet moderasyonu, forum moderasyonu, teknik destek, beatmap moderasyonu |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Fransızca | Sohbet moderasyonu |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Almanca | Forum moderasyonu, sohbet moderasyonu, beatmap moderasyonu |
-| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Resmi takım duruşu |
+| ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Resmi takım temsilcisi |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Almanca | Turnuvalar, beatmap moderasyonu |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Fransızca | Sohbet moderasyonu, forum moderasyonu |
 | ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) |  | Sohbet moderasyonu, teknik destek |
