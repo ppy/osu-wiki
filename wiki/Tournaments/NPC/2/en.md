@@ -95,6 +95,7 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 | Warlords | ![][flag_IT] **[Ayor358](https://osu.ppy.sh/users/13088892)**, ![][flag_MY] [MarshyCookie](https://osu.ppy.sh/users/13193556) |
 | Ora Ora Ora | ![][flag_DE] **[Mysteri04](https://osu.ppy.sh/users/14967328)**, ![][flag_DE] [chrissi_42o](https://osu.ppy.sh/users/15676464) |
 | Vanilla Wafers | ![][flag_US] **[-Wiffles-](https://osu.ppy.sh/users/13432283)**, ![][flag_PH] [pokerfesh](https://osu.ppy.sh/users/14351977), ![][flag_GB] [Nagisa02](https://osu.ppy.sh/users/14713206) |
+| G Nome | ![][flag_US] **[MrJamesGaming](https://osu.ppy.sh/users/13730858)**, ![][flag_GB] [NightMia](https://osu.ppy.sh/users/11984807), ![][flag_US] [Irnea](https://osu.ppy.sh/users/13320919) |
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
