@@ -335,7 +335,7 @@ Saturday, 17 August 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Kwk Yelleri | *forfeit* | **1** | **egemen ve aimless** |  |
+| Kwk Yelleri | 0 | **1** | **egemen ve aimless** | *forfeit* |
 
 Monday, 19 August 2019:
 
@@ -396,8 +396,8 @@ Sunday, 28 July 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **bum patladın** | **1** | 0 | eTi dasmjasdk | FF |
-| eTi dasmjasdk | 0 | **1** | **Yürü Baba Fingo** | FF |
+| **bum patladın** | **1** | 0 | eTi dasmjasdk | *forfeit* |
+| eTi dasmjasdk | 0 | **1** | **Yürü Baba Fingo** | *forfeit* |
 | KFC Managers | 3 | **5** | **egemen ve aimless** | [#1]( https://osu.ppy.sh/community/matches/53666015) |
 | **Kwk Yelleri** | **5** | 2 | Yürü Baba Fingo | [#1]( https://osu.ppy.sh/community/matches/53668619) |
 
