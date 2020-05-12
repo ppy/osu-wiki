@@ -555,13 +555,13 @@ Monday, 22 July 2019:
 14. The mappool for Double Elimination stages contain 17 maps: 5 maps under the NoMod bracket, 3 maps each for the other mod brackets and 1 will be played as Tiebreaker.
 15. **Winning conditions:**
 
-   - The Group stages will be best of 7 (first team to 4 wins).
+    - The Group stages will be best of 7 (first team to 4 wins).
         
-   - The Quarterfinals and Semifinals will be best of 9 (first team to 5 wins).
+    - The Quarterfinals and Semifinals will be best of 9 (first team to 5 wins).
         
-   - The Finals will be best of 11 (first team to 6 wins).
+    - The Finals will be best of 11 (first team to 6 wins).
         
-   - The Grand Finals will be best of 13 (first team to 7 wins).
+    - The Grand Finals will be best of 13 (first team to 7 wins).
 
 ### Match Instructions
 
