@@ -5,7 +5,7 @@ tags:
   - MBS 2
 ---
 
-# Mania Beginner's Showdown
+# Mania Beginner's Showdown 2
 
 ![MBS2 logo](img/logo.jpg)
 
