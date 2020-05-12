@@ -93,13 +93,14 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 | PoggersFish | ![][flag_US] **[Nebula3310](https://osu.ppy.sh/users/14729352)**, ![][flag_US] [Dr Sloth OWO](https://osu.ppy.sh/users/14655426) |
 | Bats From Wuhan | ![][flag_PL] **[MrChytry](https://osu.ppy.sh/users/9873693)**, ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_US] [iiTzTony](https://osu.ppy.sh/users/4426672) |
 | Warlords | ![][flag_IT] **[Ayor358](https://osu.ppy.sh/users/13088892)**, ![][flag_MY] [MarshyCookie](https://osu.ppy.sh/users/13193556) |
-| Ora Ora Ora | ![][flag_DE] **[Mysteri04](https://osu.ppy.sh/users/14967328)**, ![][flag_DE] [chrissi_42o](https://osu.ppy.sh/users/15676464) |
+| Ora Ora Ora | ![][flag_DE] **[Mysteri04](https://osu.ppy.sh/users/14967328)**, ![][flag_DE] [chrissi_42o](https://osu.ppy.sh/users/15676464), ![][flag_US] [X_boi_X](https://osu.ppy.sh/users/15240084) |
 | Vanilla Wafers | ![][flag_US] **[-Wiffles-](https://osu.ppy.sh/users/13432283)**, ![][flag_PH] [pokerfesh](https://osu.ppy.sh/users/14351977), ![][flag_GB] [Nagisa02](https://osu.ppy.sh/users/14713206) |
 | G Nome | ![][flag_US] **[MrJamesGaming](https://osu.ppy.sh/users/13730858)**, ![][flag_GB] [NightMia](https://osu.ppy.sh/users/11984807), ![][flag_US] [Irnea](https://osu.ppy.sh/users/13320919) |
 
 ## Ruleset
 
 ### Tournament Rules
+
 1. The tournament will be in a 2 versus 2 setup.
 2. Each team must have between 2 to 4 members.
 3. Beatmap scoring is based on Score V2.
@@ -126,13 +127,13 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
     - Exclusion of specific players for an entire match
     - Declaring the match as Lost by Default
     - Disqualification from the entire tournament
-    
+
 ### Stage Instructions
 
-1. In the qualifiers, all team will play a same pool.
+1. In the qualifiers, all teams will play the same mappool.
 2. The qualifiers contains 7 maps in total, 4 NoMod, 2 Hidden, 2 HardRock, 2 DoubleTime.
 3. Each team will only play through the qualifiers once in a designated lobby.
-4. Each team must have 2 members to play each map. Players an exchange freely between each map.
+4. Each team must have 2 members to play each map. Players can exchange freely between each map.
 5. All teams will play their qualifiers in separated rooms. 
 6. The top 32 seeded teams will advance to the Round of 32.
 7. Following the Qualifiers, Double Elimination stages will be played. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
@@ -140,12 +141,12 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
     - The Round of 32 and Round of 16 will be best of 9 (first team to 5 wins).
     - The Quarterfinals and Semifinals will be best of 11 (first team to 6 wins).
     - The Finals and Grand Finals will be best of 13 (first team to 7 wins).
-    
+
 ### Match Instructions
 
-1. A referee will create a mulitplayer room and send out invites to team captains 10 minutes prior to the start time.
-2. Each team are allowed to select 1 warm-up beatmap. All warm-up must be under 4 minutes and appropriate.
-3. Each captain can ban 1 beatmap to be selected from the pool in the Round of 32 and Round of 16. These beatmaps are not allowed to be picked by any team in the entire match.
+1. A referee will create a multiplayer room and send out invites to team captains 10 minutes prior to the start time.
+2. Each team are allowed to select 1 warm-up beatmap. All warm-ups must be under 4 minutes and appropriate.
+3. Each team can ban 1 beatmap to be selected from the pool in the Round of 32 and Round of 16. These beatmaps are not allowed to be picked by any team in the entire match.
    - From Quarterfinals onwards, the number of bans increases to two.
    - A mod pool can not be banned completely.
 4. Each captain must use "!roll" once in the multiplayer lobby.
@@ -169,10 +170,10 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 6. Each mappool has 1 tiebreaker beatmap.
 7. The tiebreaker will be played under FreeMod conditions.
    - When playing the tiebreaker, there are no mod requirements.
-   
+
 ### Scheduling Instructions
 
-1. Each stage will be help on a single weekend.
+1. Each stage will be held on a single weekend.
 2. All Double Elimination Stages will be held on Friday, Saturday, or Sunday, UTC+0.
 3. Scheduling will be handled by the administrators. Schedules will be released approximately one week before the first matches of the stage. The schedule will try to respect the participants' time zones.
 4. **All matches must be rescheduled 1 day before the first matches of the stage are played. Both teams must agree to a reschedule and informed an administrator for the reschedule to be valid.**
