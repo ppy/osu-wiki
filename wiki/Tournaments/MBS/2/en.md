@@ -99,8 +99,8 @@ The Mania Beginner's Showdown 2 is run by various community members.
 | Seed | Members |
 | :-- | :-- |
 | Top | ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_TH] [mickeyparm](https://osu.ppy.sh/users/11354950), ![][flag_MX] [Ammy](https://osu.ppy.sh/users/4183406), ![][flag_MY] [Anamneses](https://osu.ppy.sh/users/16299729), ![][flag_NL] [Nielz](https://osu.ppy.sh/users/8418116), ![][flag_PH] [Admiral Cliff](https://osu.ppy.sh/users/8103217), ![][flag_TH] [KorZ\[TH\]](https://osu.ppy.sh/users/7104944), ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_HK] [Brown918](https://osu.ppy.sh/users/9805760), ![][flag_AU] [Arbusion](https://osu.ppy.sh/users/11469447), ![][flag_US] [tyud](https://osu.ppy.sh/users/13497474), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_RU] [FadingAway](https://osu.ppy.sh/users/7172051), ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891), ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) |
-| Mid | ![][flag_GB] [4KnoMOD](https://osu.ppy.sh/users/1233180), ![][flag_US] [YTseangaming](https://osu.ppy.sh/users/8299757), ![][flag_US] [TheWabbit](https://osu.ppy.sh/users/8139686), ![][flag_DE] [Quadrumplayer](https://osu.ppy.sh/users/9198142), ![][flag_SE] [ump\_me\_daddy](https://osu.ppy.sh/users/14960725), ![][flag_RU] [Alex\_Terrol](https://osu.ppy.sh/users/15386435), ![][flag_FR] [gnobeo](https://osu.ppy.sh/users/12290705), ![][flag_FR] [Blacky Design](https://osu.ppy.sh/users/11540165), ![][flag_ID] [DJRukito](https://osu.ppy.sh/users/868700), ![][flag_SG] [BubbleTeaBunny](https://osu.ppy.sh/users/7060261), ![][flag_PL] [Ilikecook](https://osu.ppy.sh/users/11389137), ![][flag_KH] [tsp648](https://osu.ppy.sh/users/12301296), ![][flag_SE] [Reedkatt](https://osu.ppy.sh/users/8335950), ![][flag_GB] [N-ayr](https://osu.ppy.sh/users/11158123), ![][flag_FR] [Fizall](https://osu.ppy.sh/users/11985125), ![][flag_GB] [osuproroblox](https://osu.ppy.sh/users/15136307) |
-| Low | ![][flag_PL] [\[ Kangurek \]](https://osu.ppy.sh/users/11416040), ![][flag_US] [mcgen](https://osu.ppy.sh/users/5353025), ![][flag_FR] [whatisninou](https://osu.ppy.sh/users/11865043), ![][flag_AU] [El Robbi](https://osu.ppy.sh/users/13732416), ![][flag_US] [Kahli](https://osu.ppy.sh/users/8926244), ![][flag_RU] [SergoM4444](https://osu.ppy.sh/users/10515166), ![][flag_FR] [Al5Traz](https://osu.ppy.sh/users/12484908), ![][flag_RU] [Brittany Miller](https://osu.ppy.sh/users/13591425), ![][flag_PL] [Marek Marucha](https://osu.ppy.sh/users/2395405), ![][flag_PH] [Deadpulse](https://osu.ppy.sh/users/8575527), ![][flag_LV] [Lceanu](https://osu.ppy.sh/users/9644154), ![][flag_FR] [ThePrimesBros](https://osu.ppy.sh/users/11643530), ![][flag_BE] [DraQeu](https://osu.ppy.sh/users/4425520), ![][flag_NL] [PatyYe](https://osu.ppy.sh/users/3929829), ![][flag_IE] [KaiWhen](https://osu.ppy.sh/users/10040214), ![][flag_IT] [Dagoliir](https://osu.ppy.sh/users/7209911) |
+| Mid | ![][flag_GB] [4KnoMOD](https://osu.ppy.sh/users/1233180), ![][flag_US] [YTseangaming](https://osu.ppy.sh/users/8299757), ![][flag_US] [TheWabbit](https://osu.ppy.sh/users/8139686), ![][flag_DE] [Quadrumplayer](https://osu.ppy.sh/users/9198142),![][flag_RU] [Alex\_Terrol](https://osu.ppy.sh/users/15386435), ![][flag_SE] [ump\_me\_daddy](https://osu.ppy.sh/users/14960725), ![][flag_FR] [gnobeo](https://osu.ppy.sh/users/12290705), ![][flag_FR] [Blacky Design](https://osu.ppy.sh/users/11540165), ![][flag_ID] [DJRukito](https://osu.ppy.sh/users/868700), ![][flag_SG] [BubbleTeaBunny](https://osu.ppy.sh/users/7060261), ![][flag_PL] [Ilikecook](https://osu.ppy.sh/users/11389137), ![][flag_KH] [tsp648](https://osu.ppy.sh/users/12301296), ![][flag_SE] [Reedkatt](https://osu.ppy.sh/users/8335950), ![][flag_GB] [N-ayr](https://osu.ppy.sh/users/11158123), ![][flag_FR] [Fizall](https://osu.ppy.sh/users/11985125), ![][flag_GB] [osuproroblox](https://osu.ppy.sh/users/15136307) |
+| Low | ![][flag_PL] [\[ Kangurek \]](https://osu.ppy.sh/users/11416040), ![][flag_US] [mcgen](https://osu.ppy.sh/users/5353025),  ![][flag_AU] [El Robbi](https://osu.ppy.sh/users/13732416), ![][flag_FR] [whatisninou](https://osu.ppy.sh/users/11865043), ![][flag_US] [Kahli](https://osu.ppy.sh/users/8926244), ![][flag_RU] [SergoM4444](https://osu.ppy.sh/users/10515166), ![][flag_FR] [Al5Traz](https://osu.ppy.sh/users/12484908), ![][flag_PL] [Marek Marucha](https://osu.ppy.sh/users/2395405), ![][flag_RU] [Brittany Miller](https://osu.ppy.sh/users/13591425), ![][flag_PH] [Deadpulse](https://osu.ppy.sh/users/8575527), ![][flag_LV] [Lceanu](https://osu.ppy.sh/users/9644154), ![][flag_FR] [ThePrimesBros](https://osu.ppy.sh/users/11643530), ![][flag_BE] [DraQeu](https://osu.ppy.sh/users/4425520), ![][flag_NL] [PatyYe](https://osu.ppy.sh/users/3929829), ![][flag_IE] [KaiWhen](https://osu.ppy.sh/users/10040214), ![][flag_IT] [Dagoliir](https://osu.ppy.sh/users/7209911) |
 | Eliminated | ![][flag_PL] [Atsuii](https://osu.ppy.sh/users/1553792) |
 
 ## Groups
@@ -199,80 +199,105 @@ The Mania Beginner's Showdown 2 is run by various community members.
 
 | Seed | Player | Average Rank |
 | --: | :-- | --: |
-| #1 | ![][flag_ID] [Horou](https://osu.ppy.sh/users/10807310) | 3.6 |
-| #2 | ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461) | 5.4 |
-| #3 | ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109) | 6.4 |
-| #4 | ![][flag_BR] [HaloSSB](https://osu.ppy.sh/users/7572142) | 6.8 |
-| #5 | ![][flag_TH] [TNKSTC](https://osu.ppy.sh/users/6037121) | 10.6 |
-| #6 | ![][flag_FR] [-\[ GuiboxFR \]-](https://osu.ppy.sh/users/11261739) | 11.4 |
-| #7 | ![][flag_PL] [Exemmar](https://osu.ppy.sh/users/5854055) | 12 |
-| #8 | ![][flag_MY] [XxTheJKxX](https://osu.ppy.sh/users/9048451) | 12.4 |
-| #9 | ![][flag_FR] [xelied](https://osu.ppy.sh/users/7849422) | 14.6 |
-| #10 | ![][flag_US] [Feylos](https://osu.ppy.sh/users/4565040) | 15 |
-| #11 | ![][flag_RU] [begin\_the\_end](https://osu.ppy.sh/users/9765248) | 15.2 |
-| #12 | ![][flag_SE] [Davvyforte](https://osu.ppy.sh/users/10047413) | 15.8 |
-| #13 | ![][flag_BR] [Hanik](https://osu.ppy.sh/users/4533507) | 16.2 |
-| #14 | ![][flag_DE] [Reap3x](https://osu.ppy.sh/users/8879014) | 17 |
-| #15 | ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046) | 20 |
-| #16 | ![][flag_GB] [AGC-Ark](https://osu.ppy.sh/users/4908426) | 21 |
-| #17 | ![][flag_ID] [Xicyte](https://osu.ppy.sh/users/10212581) | 21.2 |
-| #18 | ![][flag_PT] [\[- Sakura -\]](https://osu.ppy.sh/users/7286018) | 21.6 |
-| #19 | ![][flag_DE] [Katsumi](https://osu.ppy.sh/users/513834) | 22 |
-| #20 | ![][flag_NZ] [Blujae](https://osu.ppy.sh/users/10613885) | 22.2 |
-| #20 | ![][flag_PT] [Yukure](https://osu.ppy.sh/users/7894203) | 22.2 |
-| #22 | ![][flag_DE] [Parax\_UnDeath](https://osu.ppy.sh/users/6186473) | 22.4 |
-| #23 | ![][flag_PH] [razorgab](https://osu.ppy.sh/users/11902364) | 23.2 |
-| #24 | ![][flag_US] [andrekam98](https://osu.ppy.sh/users/7260438) | 23.8 |
-| #24 | ![][flag_NL] [Zereliq](https://osu.ppy.sh/users/4059978) | 23.8 |
-| #26 | ![][flag_BR] [Smosism](https://osu.ppy.sh/users/3263816) | 25 |
-| #27 | ![][flag_DE] [MonsterFighterP](https://osu.ppy.sh/users/7304344) | 26.6 |
-| #28 | ![][flag_MY] [ianlau2](https://osu.ppy.sh/users/10151149) | 28 |
-| #29 | ![][flag_US] [YamiDexi](https://osu.ppy.sh/users/11948018) | 28.2 |
-| #30 | ![][flag_US] [\_Riley](https://osu.ppy.sh/users/8826046) | 28.8 |
-| #31 | ![][flag_CA] [Nuketea](https://osu.ppy.sh/users/2931858) | 29.2 |
-| #31 | ![][flag_VN] [DanX](https://osu.ppy.sh/users/10542408) | 29.2 |
-| #33 | ![][flag_AR] [Screeply](https://osu.ppy.sh/users/9700990) | 30 |
-| #34 | ![][flag_JP] [jellypopper3000](https://osu.ppy.sh/users/12580687) | 31.2 |
-| #35 | ![][flag_DE] [cakeboss05](https://osu.ppy.sh/users/12586864) | 32 |
-| #36 | ![][flag_FR] [Exaye](https://osu.ppy.sh/users/11008380) | 33.4 |
-| #37 | ![][flag_FR] [Ladybug](https://osu.ppy.sh/users/4833654) | 34.8 |
-| #38 | ![][flag_ES] [DeadSoul](https://osu.ppy.sh/users/10488057) | 35.2 |
-| #38 | ![][flag_DE] [DieButterStulle](https://osu.ppy.sh/users/4965323) | 35.2 |
-| #40 | ![][flag_DE] [DrugManager](https://osu.ppy.sh/users/8694649) | 36.2 |
-| #41 | ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118) | 37.4 |
-| #42 | ![][flag_FR] [pierhickssssss](https://osu.ppy.sh/users/9027778) | 40 |
-| #42 | ![][flag_ES] [YKya](https://osu.ppy.sh/users/12459591) | 40 |
-| #44 | ![][flag_FR] [DunkMasterWolf](https://osu.ppy.sh/users/9657303) | 41.4 |
-| #45 | ![][flag_GB] [Iajaygames](https://osu.ppy.sh/users/10080805) | 42.2 |
-| #46 | ![][flag_FR] [Lhwooh-hiiih](https://osu.ppy.sh/users/7939278) | 42.8 |
-| #47 | ![][flag_PT] [notkesh](https://osu.ppy.sh/users/4322765) | 43.8 |
-| #48 | ![][flag_US] [SleepyHeadNew](https://osu.ppy.sh/users/12348712) | 44.6 |
-| #49 | ![][flag_BY] [EVAST](https://osu.ppy.sh/users/8195163) | 45.4 |
-| #50 | ![][flag_BE] [SaitamaXD](https://osu.ppy.sh/users/10561392) | 46 |
-| #51 | ![][flag_FR] [Zulsramno](https://osu.ppy.sh/users/12563193) | 46.6 |
-| #52 | ![][flag_PL] [esemoka57](https://osu.ppy.sh/users/2272413) | 48.6 |
-| #53 | ![][flag_HR] [JumpingFox](https://osu.ppy.sh/users/4495778) | 51 |
-| #54 | ![][flag_NZ] [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208) | 51.8 |
-| #55 | ![][flag_TW] [toxicpie9](https://osu.ppy.sh/users/13376271) | 52.8 |
-| #56 | ![][flag_CA] [TwillieSparkle](https://osu.ppy.sh/users/8184715) | 53 |
-| #57 | ![][flag_LT] [irinas11](https://osu.ppy.sh/users/12459324) | 56.8 |
-| #58 | ![][flag_US] [legolimency](https://osu.ppy.sh/users/10235283) | 57.2 |
-| #58 | ![][flag_BR] [Bragaxtv](https://osu.ppy.sh/users/8432447) | 57.2 |
-| #58 | ![][flag_AU] [NotSparky](https://osu.ppy.sh/users/11853760) | 57.2 |
-| #58 | ![][flag_BE] [LoriaxLeBg](https://osu.ppy.sh/users/11331829) | 57.2 |
-| #58 | ![][flag_GB] [SirDuckyBoi](https://osu.ppy.sh/users/12376018) | 57.2 |
-| #58 | ![][flag_FR] [Soraga54](https://osu.ppy.sh/users/9920526) | 57.2 |
-| #58 | ![][flag_US] [jojo2020](https://osu.ppy.sh/users/12211556) | 57.2 |
-| #58 | ![][flag_PH] [\[OMG\] rinkatobi](https://osu.ppy.sh/users/14001102) | 57.2 |
-| #58 | ![][flag_BR] [Zbr4cker](https://osu.ppy.sh/users/13426529) | 57.2 |
-| #58 | ![][flag_AR] [Maariianoo](https://osu.ppy.sh/users/6371395) | 57.2 |
-| #58 | ![][flag_FR] [icemax123](https://osu.ppy.sh/users/11410252) | 57.2 |
-| #58 | ![][flag_LT] [kristoks](https://osu.ppy.sh/users/9425854) | 57.2 |
-| #58 | ![][flag_DE] [NekoEko](https://osu.ppy.sh/users/7761776) | 57.2 |
+| #1 | ![][flag_PH] [Lazereed](https://osu.ppy.sh/users/12894120) | 3.6 |
+| #2 | ![][flag_CH] [CrashSmash](https://osu.ppy.sh/users/13942150) | 8.6 |
+| #3 | ![][flag_DE] [MonsterFighterP](https://osu.ppy.sh/users/7304344) | 10.8 |
+| #4 | ![][flag_TH] [FarmMyLife](https://osu.ppy.sh/users/12621947) | 11 |
+| #5 | ![][flag_DE] [cakeboss05](https://osu.ppy.sh/users/12586864) | 11.8 |
+| #6 | ![][flag_SG] [Saltify](https://osu.ppy.sh/users/11133661) | 12.4 |
+| #7 | ![][flag_SG] [loli\_seale](https://osu.ppy.sh/users/5069913) | 13.8 |
+| #8 | ![][flag_TH] [TNKSTC](https://osu.ppy.sh/users/6037121) | 14.2 |
+| #8 | ![][flag_BR] [Konohana Lucia](https://osu.ppy.sh/users/8642224) | 14.2 |
+| #10 | ![][flag_TH] [\[Hakura\_San\]](https://osu.ppy.sh/users/4211179) | 14.8 |
+| #11 | ![][flag_FR] [Paturages](https://osu.ppy.sh/users/1375479) | 15 |
+| #12 | ![][flag_TH] [- PLARHELLME -](https://osu.ppy.sh/users/9671048) | 15.6 |
+| #13 | ![][flag_PH] [KagenoKami](https://osu.ppy.sh/users/7246165) | 16.8 |
+| #14 | ![][flag_RU] [-Tenma-](https://osu.ppy.sh/users/12544475) | 17 |
+| #15 | ![][flag_CL] [joako 321](https://osu.ppy.sh/users/4450549) | 18.2 |
+| #16 | ![][flag_FR] [xelied](https://osu.ppy.sh/users/7849422) | 19.6 |
+| #17 | ![][flag_VN] [DanX](https://osu.ppy.sh/users/10542408) | 21.4 |
+| #18 | ![][flag_FR] [DovaCube](https://osu.ppy.sh/users/12214401) | 21.8 |
+| #19 | ![][flag_TH] [-NC KJ-](https://osu.ppy.sh/users/11087123) | 22.2 |
+| #20 | ![][flag_FR] [Djink](https://osu.ppy.sh/users/7317377) | 23.8 |
+| #21 | ![][flag_TH] [uwuchuchuu](https://osu.ppy.sh/users/13021141) | 26.4 |
+| #22 | ![][flag_ID] [Dhaxy](https://osu.ppy.sh/users/10738928) | 27.4 |
+| #23 | ![][flag_DO] [-Julio](https://osu.ppy.sh/users/13663757) | 28 |
+| #24 | ![][flag_US] [Arraxey](https://osu.ppy.sh/users/6752116) | 28.2 |
+| #25 | ![][flag_SE] [Logg45vs](https://osu.ppy.sh/users/8684540) | 30.4 |
+| #26 | ![][flag_FR] [SochnyiKokos](https://osu.ppy.sh/users/13340841) | 33 |
+| #27 | ![][flag_DE] [Parax\_UnDeath](https://osu.ppy.sh/users/6186473) | 33.8 |
+| #28 | ![][flag_CA] [Nuketea](https://osu.ppy.sh/users/2931858) | 35.8 |
+| #29 | ![][flag_FR] [nalo\_](https://osu.ppy.sh/users/9768438) | 36.2 |
+| #30 | ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046) | 36.6 |
+| #31 | ![][flag_US] [andrekam98](https://osu.ppy.sh/users/7260438) | 37 |
+| #32 | ![][flag_FI] [Haadez](https://osu.ppy.sh/users/8925266) | 37.8 |
+| #33 | ![][flag_SG] [kiraeschan](https://osu.ppy.sh/users/15844415) | 38 |
+| #34 | ![][flag_CA] [stickilas](https://osu.ppy.sh/users/6867235) | 39 |
+| #34 | ![][flag_FR] [NyroxPGM](https://osu.ppy.sh/users/9041586) | 39 |
+| #36 | ![][flag_GB] [Wassero](https://osu.ppy.sh/users/8934975) | 39.2 |
+| #37 | ![][flag_MY] [XxTheJKxX](https://osu.ppy.sh/users/9048451) | 39.4 |
+| #38 | ![][flag_ID] [ReZ\_TB](https://osu.ppy.sh/users/9113955) | 39.8 |
+| #39 | ![][flag_NL] [Mierf](https://osu.ppy.sh/users/9529504) | 40.6 |
+| #40 | ![][flag_US] [NovaSagittarii](https://osu.ppy.sh/users/11664177) | 41.4 |
+| #41 | ![][flag_US] [Asymmetrical](https://osu.ppy.sh/users/10540735) | 41.8 |
+| #42 | ![][flag_PH] [Gerwin13](https://osu.ppy.sh/users/15776185) | 43.2 |
+| #43 | ![][flag_AR] [Screeply](https://osu.ppy.sh/users/9700990) | 43.6 |
+| #44 | ![][flag_US] [Proc](https://osu.ppy.sh/users/12295635) | 43.8 |
+| #45 | ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946) | 45 |
+| #46 | ![][flag_DE] [Katsumi](https://osu.ppy.sh/users/513834) | 45.6 |
+| #47 | ![][flag_GB] [StartAndSelect](https://osu.ppy.sh/users/8720555) | 46.2 |
+| #48 | ![][flag_ID] [sumippe](https://osu.ppy.sh/users/1929336) | 46.4 |
+| #49 | ![][flag_DE] [DrugManager](https://osu.ppy.sh/users/8694649) | 47 |
+| #50 | ![][flag_DE] [antip0is0n](https://osu.ppy.sh/users/8576168) | 47.8 |
+| #51 | ![][flag_US] [Sapphere](https://osu.ppy.sh/users/14423262) | 48.2 |
+| #52 | ![][flag_US] [ph03n1x](https://osu.ppy.sh/users/6180024) | 48.6 |
+| #53 | ![][flag_TH] [Iambosszie](https://osu.ppy.sh/users/7286850) | 49 |
+| #54 | ![][flag_ID] [ibacot](https://osu.ppy.sh/users/5028866) | 49.2 |
+| #55 | ![][flag_FR] [Tirile](https://osu.ppy.sh/users/7318863) | 51 |
+| #56 | ![][flag_ID] [Ihram-San](https://osu.ppy.sh/users/9908055) | 52 |
+| #57 | ![][flag_FR] [nazerty68](https://osu.ppy.sh/users/11158588) | 52.2 |
+| #58 | ![][flag_US] [AlanProfits](https://osu.ppy.sh/users/10556718) | 52.4 |
+| #59 | ![][flag_ID] [SuzumeAyase](https://osu.ppy.sh/users/14190991) | 52.8 |
+| #60 | ![][flag_TH] [Psycho\_Lab](https://osu.ppy.sh/users/13054446) | 53.8 |
+| #61 | ![][flag_MY] [ianlau2](https://osu.ppy.sh/users/10151149) | 54.4 |
+| #62 | ![][flag_US] [KingTaiki](https://osu.ppy.sh/users/11069680) | 57.4 |
+| #63 | ![][flag_BR] [Smosism](https://osu.ppy.sh/users/3263816) | 59.2 |
+| #64 | ![][flag_ID] [maestro18plus](https://osu.ppy.sh/users/14093030) | 59.6 |
+| #65 | ![][flag_IE] [playCAP](https://osu.ppy.sh/users/11694276) | 60.2 |
+| #66 | ![][flag_US] [1103](https://osu.ppy.sh/users/7306698) | 61.2 |
+| #67 | ![][flag_FR] [Fl0oW](https://osu.ppy.sh/users/8250678) | 64.2 |
+| #67 | ![][flag_GB] [frisbii](https://osu.ppy.sh/users/9742934) | 64.2 |
+| #69 | ![][flag_SE] [oliverq](https://osu.ppy.sh/users/14888056) | 65.4 |
+| #70 | ![][flag_GB] [Knot](https://osu.ppy.sh/users/11315427) | 67 |
+| #71 | ![][flag_FR] [victior](https://osu.ppy.sh/users/10523842) | 68.4 |
+| #72 | ![][flag_FR] [Mokip](https://osu.ppy.sh/users/11404841) | 69.4 |
+| #73 | ![][flag_BR] [Hanik](https://osu.ppy.sh/users/4533507) | 69.6 |
+| #74 | ![][flag_AU] [Jaldo](https://osu.ppy.sh/users/2181508) | 70 |
+| #75 | ![][flag_MY] [KizXii](https://osu.ppy.sh/users/8567036) | 71.6 |
+| #76 | ![][flag_FR] [YannB](https://osu.ppy.sh/users/11159223) | 72.2 |
+| #77 | ![][flag_SG] [dedalord3000](https://osu.ppy.sh/users/13399705) | 72.4 |
+| #78 | ![][flag_ID] [Dbell](https://osu.ppy.sh/users/15947296) | 73 |
+| #79 | ![][flag_US] [IIKanameII](https://osu.ppy.sh/users/11115513) | 74.6 |
+| #80 | ![][flag_NO] [zakis6playz](https://osu.ppy.sh/users/8558578) | 76.4 |
+| #81 | ![][flag_US] [UnitedWeGhost](https://osu.ppy.sh/users/8134650) | 76.6 |
+| #82 | ![][flag_DK] [Decrescendo](https://osu.ppy.sh/users/12900042) | 77.6 |
+| #82 | ![][flag_FR] [Ladybug](https://osu.ppy.sh/users/4833654) | 77.6 |
+| #84 | ![][flag_RU] [febrezi](https://osu.ppy.sh/users/9459332) | 79.6 |
+| #85 | ![][flag_FR] [Panda\_0ne](https://osu.ppy.sh/users/11216472) | 81.8 |
+| #86 | ![][flag_AU] [- Heatwave -](https://osu.ppy.sh/users/4166621) | 83 |
+| #87 | ![][flag_PH] [ApathyOSU](https://osu.ppy.sh/users/8968772) | 83.6 |
+| #88 | ![][flag_CA] [\[Dose\]](https://osu.ppy.sh/users/4810150) | 84 |
+| #89 | ![][flag_US] [Sinhcuvvia](https://osu.ppy.sh/users/11207771) | 84.2 |
+| #90 | ![][flag_HR] [JumpingFox](https://osu.ppy.sh/users/4495778) | 84.8 |
+| #91 | ![][flag_TR] [NeuralG](https://osu.ppy.sh/users/13811400) | 86.4 |
+| #92 | ![][flag_ES] [Maraud](https://osu.ppy.sh/users/15828159) | 87.4 |
+| #93 | ![][flag_US] [ThomasTheDank](https://osu.ppy.sh/users/6497601) | 88.8 |
+| #94 | ![][flag_US] [YaBoiKarito](https://osu.ppy.sh/users/10313176) | 90.4 |
+| #95 | ![][flag_US] [Pelzig](https://osu.ppy.sh/users/9896619) | 90.6 |
 
-- Only the top 57 can proceed to the Knockout Stage
-- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQMZHU7RNnyblgrqNYq_mZISfVIDTRRTE4IGG435y5Kr0jXP9vm-gc2FtiM-DlabsSYslRbr0JHbxmp/pubhtml)
-- Average is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
+- Only the top 64 can proceed to the Knockout Stage
+- More detailed qualifiers result can be accessed via the statistics sheet inside [links section](#links).
+- Average rank is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
 
 ### Low division
 
@@ -280,46 +305,59 @@ The Mania Beginner's Showdown 2 is run by various community members.
 
 | Seed | Player | Average Rank |
 | --: | :-- | --: |
-| #1 | ![][flag_TH] [osu\_player420](https://osu.ppy.sh/users/13018880) | 1.4 |
-| #2 | ![][flag_PH] [Wakeupat5](https://osu.ppy.sh/users/13311553) | 2 |
-| #3 | ![][flag_CA] [Adorable Loli](https://osu.ppy.sh/users/7622460) | 5.4 |
-| #4 | ![][flag_FR] [Briesmas](https://osu.ppy.sh/users/2865172) | 6.4 |
-| #5 | ![][flag_NL] [PainTensei](https://osu.ppy.sh/users/8036887) | 6.8 |
-| #6 | ![][flag_VE] [\_Vanslight\_](https://osu.ppy.sh/users/6031119) | 8 |
-| #7 | ![][flag_FR] [Blacky Design](https://osu.ppy.sh/users/11540165) | 8.4 |
-| #8 | ![][flag_DE] [antip0is0n](https://osu.ppy.sh/users/8576168) | 9.6 |
-| #9 | ![][flag_SG] [woahsia](https://osu.ppy.sh/users/195946) | 10 |
-| #10 | ![][flag_RU] [Saxarok](https://osu.ppy.sh/users/9619716) | 11.8 |
-| #11 | ![][flag_GB] [OhDeMills](https://osu.ppy.sh/users/13592970) | 12.4 |
-| #12 | ![][flag_CA] [Labib](https://osu.ppy.sh/users/4837894) | 12.6 |
-| #13 | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855) | 12.8 |
-| #14 | ![][flag_US] [Yeong Yuseong](https://osu.ppy.sh/users/8926244) | 13 |
-| #15 | ![][flag_GB] [Withered Lotus](https://osu.ppy.sh/users/3546931) | 14 |
-| #16 | ![][flag_DE] [YourSenpaiix3](https://osu.ppy.sh/users/8783676) | 14.8 |
-| #17 | ![][flag_FR] [Kaho-Hinata](https://osu.ppy.sh/users/8903888) | 17.4 |
-| #18 | ![][flag_AU] [CherriZ](https://osu.ppy.sh/users/10059663) | 18.2 |
-| #19 | ![][flag_KR] [Pin\_Point](https://osu.ppy.sh/users/13340203) | 18.6 |
-| #20 | ![][flag_DE] [supimori](https://osu.ppy.sh/users/10972741) | 19 |
-| #21 | ![][flag_FR] [Skyzouu](https://osu.ppy.sh/users/5222842) | 19.6 |
-| #22 | ![][flag_PL] [B a i l a s](https://osu.ppy.sh/users/7530046) | 20.2 |
-| #23 | ![][flag_FR] [ChizuruNYA](https://osu.ppy.sh/users/8619849) | 20.8 |
-| #24 | ![][flag_UA] [Seridict13](https://osu.ppy.sh/users/12070235) | 22.4 |
-| #25 | ![][flag_GB] [Livvo](https://osu.ppy.sh/users/8884687) | 23.2 |
-| #26 | ![][flag_GT] [ERLIN ERGO](https://osu.ppy.sh/users/10606390) | 24 |
-| #27 | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470) | 26.6 |
-| #28 | ![][flag_PL] [Asasyn01](https://osu.ppy.sh/users/8013323) | 26.8 |
-| #29 | ![][flag_DE] [ImKeks](https://osu.ppy.sh/users/6510902) | 28.8 |
-| #30 | ![][flag_FR] [0rion125](https://osu.ppy.sh/users/8947731) | 30 |
-| #30 | ![][flag_RU] [creatiorHD](https://osu.ppy.sh/users/12445816) | 30 |
-| #30 | ![][flag_CZ] [Shiroomi707](https://osu.ppy.sh/users/10315265) | 30 |
-| #30 | ![][flag_FR] [Allie Furie](https://osu.ppy.sh/users/13078881) | 30 |
-| #30 | ![][flag_US] [Edwardidk](https://osu.ppy.sh/users/9959346) | 30 |
-| #30 | ![][flag_DE] [Kawaii Kaneki](https://osu.ppy.sh/users/3344333) | 30 |
-| #30 | ![][flag_FR] [Musclor](https://osu.ppy.sh/users/9637676) | 30 |
+| #1 | ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263) | 4.2 |
+| #2 | ![][flag_TH] [mickeyparm](https://osu.ppy.sh/users/11354950) | 4.4 |
+| #3 | ![][flag_MX] [Ammy](https://osu.ppy.sh/users/4183406) | 6.2 |
+| #4 | ![][flag_MY] [Anamneses](https://osu.ppy.sh/users/16299729) | 6.6 |
+| #5 | ![][flag_NL] [Nielz](https://osu.ppy.sh/users/8418116) | 7.8 |
+| #6 | ![][flag_PH] [Admiral Cliff](https://osu.ppy.sh/users/8103217) | 8 |
+| #7 | ![][flag_TH] [KorZ\[TH\]](https://osu.ppy.sh/users/7104944) | 9.2 |
+| #8 | ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) | 10.2 |
+| #9 | ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) | 10.4 |
+| #9 | ![][flag_HK] [Brown918](https://osu.ppy.sh/users/9805760) | 10.4 |
+| #11 | ![][flag_AU] [Arbusion](https://osu.ppy.sh/users/11469447) | 11.6 |
+| #12 | ![][flag_US] [tyud](https://osu.ppy.sh/users/13497474) | 15 |
+| #13 | ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153) | 15.8 |
+| #14 | ![][flag_RU] [FadingAway](https://osu.ppy.sh/users/7172051) | 16 |
+| #15 | ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891) | 17.6 |
+| #15 | ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | 17.6 |
+| #17 | ![][flag_GB] [4KnoMOD](https://osu.ppy.sh/users/1233180) | 18.2 |
+| #18 | ![][flag_US] [YTseangaming](https://osu.ppy.sh/users/8299757) | 18.4 |
+| #19 | ![][flag_US] [TheWabbit](https://osu.ppy.sh/users/8139686) | 20.2 |
+| #20 | ![][flag_DE] [Quadrumplayer](https://osu.ppy.sh/users/9198142) | 22.2 |
+| #21 | ![][flag_RU] [Alex\_Terrol](https://osu.ppy.sh/users/15386435) | 22.8 |
+| #22 | ![][flag_SE] [ump\_me\_daddy](https://osu.ppy.sh/users/14960725) | 23 |
+| #23 | ![][flag_FR] [gnobeo](https://osu.ppy.sh/users/12290705) | 23.2 |
+| #23 | ![][flag_FR] [Blacky Design](https://osu.ppy.sh/users/11540165) | 23.2 |
+| #25 | ![][flag_ID] [DJRukito](https://osu.ppy.sh/users/868700) | 24.6 |
+| #26 | ![][flag_SG] [BubbleTeaBunny](https://osu.ppy.sh/users/7060261) | 25.6 |
+| #27 | ![][flag_PL] [Ilikecook](https://osu.ppy.sh/users/11389137) | 27.2 |
+| #28 | ![][flag_KH] [tsp648](https://osu.ppy.sh/users/12301296) | 27.4 |
+| #29 | ![][flag_SE] [Reedkatt](https://osu.ppy.sh/users/8335950) | 27.6 |
+| #30 | ![][flag_GB] [N-ayr](https://osu.ppy.sh/users/11158123) | 29 |
+| #31 | ![][flag_FR] [Fizall](https://osu.ppy.sh/users/11985125) | 31 |
+| #32 | ![][flag_GB] [osuproroblox](https://osu.ppy.sh/users/15136307) | 31.4 |
+| #33 | ![][flag_PL] [\[ Kangurek \]](https://osu.ppy.sh/users/11416040) | 32 |
+| #34 | ![][flag_US] [mcgen](https://osu.ppy.sh/users/5353025) | 32.8 |
+| #35 | ![][flag_AU] [El Robbi](https://osu.ppy.sh/users/13732416) | 33.8 |
+| #36 | ![][flag_FR] [whatisninou](https://osu.ppy.sh/users/11865043) | 34 |
+| #37 | ![][flag_US] [Kahli](https://osu.ppy.sh/users/8926244) | 34.2 |
+| #38 | ![][flag_RU] [SergoM4444](https://osu.ppy.sh/users/10515166) | 36 |
+| #39 | ![][flag_FR] [Al5Traz](https://osu.ppy.sh/users/12484908) | 36.4 |
+| #40 | ![][flag_PL] [Marek Marucha](https://osu.ppy.sh/users/2395405) | 36.6 |
+| #41 | ![][flag_RU] [Brittany Miller](https://osu.ppy.sh/users/13591425) | 36.8 |
+| #42 | ![][flag_PH] [Deadpulse](https://osu.ppy.sh/users/8575527) | 39.6 |
+| #43 | ![][flag_LV] [Lceanu](https://osu.ppy.sh/users/9644154) | 40 |
+| #44 | ![][flag_FR] [ThePrimesBros](https://osu.ppy.sh/users/11643530) | 42.6 |
+| #44 | ![][flag_BE] [DraQeu](https://osu.ppy.sh/users/4425520) | 42.6 |
+| #46 | ![][flag_NL] [PatyYe](https://osu.ppy.sh/users/3929829) | 43.4 |
+| #47 | ![][flag_IE] [KaiWhen](https://osu.ppy.sh/users/10040214) | 46 |
+| #47 | ![][flag_IT] [Dagoliir](https://osu.ppy.sh/users/7209911) | 46 |
+| #49 | ![][flag_PL] [Atsuii](https://osu.ppy.sh/users/1553792) | 46.2 |
 
-- Only the top 29 can proceed to the Knockout Stage
-- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vQMZHU7RNnyblgrqNYq_mZISfVIDTRRTE4IGG435y5Kr0jXP9vm-gc2FtiM-DlabsSYslRbr0JHbxmp/pubhtml)
-- Average is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
+- Only the top 48 can proceed to the Knockout Stage
+- More detailed qualifiers result can be accessed via the statistics sheet inside [links section](#links).
+- Average rank is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
 
 ## Ruleset
 
