@@ -47,7 +47,7 @@ The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) an
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1046500)
 - [Livestream](https://www.twitch.tv/osulive)
-- **[Statistics sheet](https://bit.ly/2zkehDc)**
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRTbzcj8-X0SYDaJC8YLFYYYH7NSU2easZdKR4sZAkDTXn47rbCXJwnZhkmQ04Wa2bVLEYZShZ9EuuG/pubhtml)**
 
 ## Participants
 
@@ -172,51 +172,51 @@ Saturday, 9 May 2020:
 | **Indonesia** ![][flag_ID] | **5** | 1 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/61447044) |
 | **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/61448573) |
 | **Philippines** ![][flag_PH] | **5** | 3 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/61448782) |
-| Hong Kong ![][flag_HK] | **5** | 0 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/61448568) |
-| China ![][flag_CN] | **5** | 0 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/61448518) |
+| **Hong Kong** ![][flag_HK] | **5** | 0 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/61448568) |
+| **China** ![][flag_CN] | **5** | 0 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/61448518) |
 | Netherlands ![][flag_NL] | 2 | **5** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/61450440) |
-| Vietnam ![][flag_VN] | **5** | 1 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/61450368) |
-| Taiwan ![][flag_TW] | **5** | 1 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/61450389) |
-| Poland ![][flag_PL] | **5** | 0 | ![][flag_BE] Belgium | [#1](https://osu.ppy.sh/community/matches/61452592) |
-| Italy ![][flag_IT] | **5** | 0 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/61452574) |
-| United States ![][flag_US] | **5** | 0 | ![][flag_VN] Vietnam | [#1](https://osu.ppy.sh/community/matches/61452446) |
-| Chile ![][flag_CL] | **5** | 2 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/61459190) |
+| **Vietnam** ![][flag_VN] | **5** | 1 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/61450368) |
+| **Taiwan** ![][flag_TW] | **5** | 1 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/61450389) |
+| **Poland** ![][flag_PL] | **5** | 0 | ![][flag_BE] Belgium | [#1](https://osu.ppy.sh/community/matches/61452592) |
+| **Italy** ![][flag_IT] | **5** | 0 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/61452574) |
+| **United States** ![][flag_US] | **5** | 0 | ![][flag_VN] Vietnam | [#1](https://osu.ppy.sh/community/matches/61452446) |
+| **Chile** ![][flag_CL] | **5** | 2 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/61459190) |
 | Austria ![][flag_AT] | 2 | **5** | ![][flag_CO] **Colombia** | [#1](https://osu.ppy.sh/community/matches/61459775) |
-| Germany ![][flag_DE] | **5** | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/61459263) |
+| **Germany** ![][flag_DE] | **5** | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/61459263) |
 | Italy ![][flag_IT] | 4 | **5** | ![][flag_MX] **Mexico** | [#1](https://osu.ppy.sh/community/matches/61461681) |
-| Canada ![][flag_CA] | **5** | 3 | ![][flag_SA] Saudi Arabia | [#1](https://osu.ppy.sh/community/matches/61461568) |
-| Netherlands ![][flag_NL] | **5** | 2 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/61461300) |
+| **Canada** ![][flag_CA] | **5** | 3 | ![][flag_SA] Saudi Arabia | [#1](https://osu.ppy.sh/community/matches/61461568) |
+| **Netherlands** ![][flag_NL] | **5** | 2 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/61461300) |
 | Colombia ![][flag_CO] | 2 | **5** | ![][flag_BE] **Belgium** | [#1](https://osu.ppy.sh/community/matches/61463792) |
 | Sweden ![][flag_SE] | 0 | **5** | ![][flag_NO] **Norway** | [#1](https://osu.ppy.sh/community/matches/61463588) |
-| Canada ![][flag_CA] | **5** | 2 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/61470397) |
+| **Canada** ![][flag_CA] | **5** | 2 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/61470397) |
 | Chile ![][flag_CL] | 1 | **5** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/61472268) |
 
 Sunday, 10 May 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Australia ![][flag_AU] | **5** | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/61473806) |
-| South Korea ![][flag_KR] | **5** | 1 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/61483202) |
+| **Australia** ![][flag_AU] | **5** | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/61473806) |
+| **South Korea** ![][flag_KR] | **5** | 1 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/61483202) |
 | Indonesia ![][flag_ID] | 3 | **5** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/61485880) |
-| China ![][flag_CN] | **5** | 0 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/61486966) |
-| South Korea ![][flag_KR] | **5** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/61488105) |
-| China ![][flag_CN] | **5** | 1 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/61488113) |
+| **China** ![][flag_CN] | **5** | 0 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/61486966) |
+| **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/61488105) |
+| **China** ![][flag_CN] | **5** | 1 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/61488113) |
 | Germany ![][flag_DE] | 4 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/61489451) |
-| Hong Kong ![][flag_HK] | **5** | 0 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/61489502) |
-| Finland ![][flag_FI] | **5** | 3 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/61491235) |
-| France ![][flag_FR] | **5** | 0 | ![][flag_VN] Vietnam | [#1](https://osu.ppy.sh/community/matches/61491201) |
+| **Hong Kong** ![][flag_HK] | **5** | 0 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/61489502) |
+| **Finland** ![][flag_FI] | **5** | 3 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/61491235) |
+| **France** ![][flag_FR] | **5** | 0 | ![][flag_VN] Vietnam | [#1](https://osu.ppy.sh/community/matches/61491201) |
 | Russian Federation ![][flag_RU] | 4 | **5** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/61491186) |
-| France ![][flag_FR] | **5** | 0 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/61493261) |
+| **France** ![][flag_FR] | **5** | 0 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/61493261) |
 | Austria ![][flag_AT] | 0 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/61494967) |
-| Italy ![][flag_IT] | **5** | 2 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/61495099) |
-| United States ![][flag_US] | **5** | 0 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/61495046) |
-| Mexico ![][flag_MX] | **5** | 0 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/61497035) |
+| **Italy** ![][flag_IT] | **5** | 2 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/61495099) |
+| **United States** ![][flag_US] | **5** | 0 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/61495046) |
+| **Mexico** ![][flag_MX] | **5** | 0 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/61497035) |
 | Austria ![][flag_AT] | 3 | **5** | ![][flag_BE] **Belgium** | [#1](https://osu.ppy.sh/community/matches/61496927) |
-| Poland ![][flag_PL] | **5** | 1 | ![][flag_CO] Colombia | [#1](https://osu.ppy.sh/community/matches/61498941) |
-| Mexico ![][flag_MX] | **5** | 0 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/61498897) |
-| Chile ![][flag_CL] | **5** | 0 | ![][flag_SA] Saudi Arabia | [#1](https://osu.ppy.sh/community/matches/61498871) |
-| United States ![][flag_US] | **5** | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/61498880) |
-| Brazil ![][flag_BR] | **5** | 3 | ![][flag_SA] Saudi Arabia | [#1](https://osu.ppy.sh/community/matches/61501321) |
+| **Poland** ![][flag_PL] | **5** | 1 | ![][flag_CO] Colombia | [#1](https://osu.ppy.sh/community/matches/61498941) |
+| **Mexico** ![][flag_MX] | **5** | 0 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/61498897) |
+| **Chile** ![][flag_CL] | **5** | 0 | ![][flag_SA] Saudi Arabia | [#1](https://osu.ppy.sh/community/matches/61498871) |
+| **United States** ![][flag_US] | **5** | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/61498880) |
+| **Brazil** ![][flag_BR] | **5** | 3 | ![][flag_SA] Saudi Arabia | [#1](https://osu.ppy.sh/community/matches/61501321) |
 
 ## Ruleset
 
