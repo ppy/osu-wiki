@@ -1,6 +1,6 @@
 # osu! wiki katkı rehberi
 
-osu! wiki'yi daha iyi hale getirmek için gösterdiğiniz ilgiye teşekkür ederiz! Bu hızlı başlangıç kılavuzu GitHub ortamında hiç çalışmamış, osu! wiki'nin katkı iş akışına alışkın olmayan yeni başlayanlar için hazırlanmıştır. Eğer GitHub kullanmakta deneyimliyseniz, bu rehberi atlayabilir sıradan feature-branch iş akışını takip ederek bu veri havuzundaki içerik güncellemelerini takip edebilirsiniz.
+osu! wiki'yi daha iyi hale getirmek için gösterdiğiniz ilgiye teşekkür ederiz! Bu hızlı başlangıç kılavuzu GitHub ortamında hiç çalışmamış, osu! wiki'nin katkı iş akışına alışkın olmayan yeni başlayanlar için hazırlanmıştır. Eğer GitHub kullanmakta deneyimliyseniz, bu veri havuzundaki içerik güncellemeleri için ortak feature-branch iş akışını takip edebilir ve bu rehberi atlayabilirsiniz.
 
 Eğer herhangi bir noktada kafanız karıştıysa ve/veya daha fazla yardıma ihtiyacınız varsa, [osu!dev Discord](https://discord.gg/ppy) sunucusuna (`#osu-wiki` kanalına) mesaj atmaktan çekinmeyin.
 
@@ -16,11 +16,11 @@ Eğer herhangi bir noktada kafanız karıştıysa ve/veya daha fazla yardıma ih
 
 1. [`osu-wiki` reposuna](https://github.com/ppy/osu-wiki) gidin.
 
-2. `Fork`'a tıklayın.
+2. `Fork` tuşuna tıklayın.
 
    ![](img/fork.jpg)
 
-3. Fork'unuza gitmek için `Fork`'a yeniden tıklayın.
+3. Fork'unuza gitmek için `Fork` tuşuna yeniden tıklayın.
 
 4. Aşağıdakine benzer bir resim görmeniz `ppy/osu-wiki` reposunun bir fork'unu ortaya çıkardığınız ve şu anda fork'unuzda bulunduğunuz anlamına gelir.
 
@@ -53,7 +53,7 @@ Eğer herhangi bir noktada kafanız karıştıysa ve/veya daha fazla yardıma ih
 Bu noktada iki seçeneiğiniz var:
 
 - [GitHub Web Arayüzü](/wiki/owcg/GitHub_Web_Interface) - çevrimiçi düzenleyin; tekli makale düzenleme için en iyisi
-- [GitHub Masaüstü](/wiki/owcg/GitHub_Desktop) - yerel düzenleyin; tekli veya çoklu makale düzenleme için en iyisi (bu resimleri veya dosyaları karşıya yükleme, silme veya taşımayı da içerir)
+- [GitHub Masaüstü](/wiki/owcg/GitHub_Desktop) - yerel düzenleyin; tekli ve/veya çoklu makale düzenleme için en iyisi (bu resimleri veya dosyaları karşıya yükleme, silme veya taşımayı da içerir)
 
 *Not: Düzenleme için yukarıda listelenen iki seçeneğe sınırlı değilsiniz. Rehberi kısa ve öz tutmak adına, bu makalelerde diğer araç-gereçlerin kullanımından detaylıca hatta hiç bahsedilmeyecek. GitHub Web Arayüzü ve GitHub Masaüstü'nün halihazırda yaptıklarını aşağı yukarı yapan başka üçüncü parti uygulamalar da mevcut.*
 
@@ -73,13 +73,13 @@ Bu noktada iki seçeneiğiniz var:
 
 4. Sonraki sayfada, eğer aşağıda belirtildiği gibi iki buton görüyorsanız, `compare across forks`'a tıklayın.
 
-   ![](img/compare-across-forks-no.jpg "No good.")
+   ![](img/compare-across-forks-no.jpg "İyi değil.")
 
-5. Açılan listeden `head fork` seçeneğine tıklayın ve kullanıcı adınız olanı seçin (ikincisi olmalı).
+5. `head fork` açılan listesinden sizin kullanıcı adınıza sahip olan seçeneğe tıklayın (ikincisi olmalı).
 
    ![](img/head-fork.jpg)
 
-6. Açılan listeden `compare` seçeneğine tıklayın ve oluşturmuş olduğunuz branch'ı seçin (alfabetik olarak sıralıdır).
+6. `compare` açılan listesinden oluşturduğunuz branch'in olduğu seçeneğe tıklayın (alfabetik olarak sıralıdır).
 
    ![](img/compare-branch.jpg)
 
