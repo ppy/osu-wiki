@@ -170,6 +170,17 @@ The Mania Beginner's Showdown 2 is run by various community members.
 - Tiebreaker
   - **[Camellia - flower of wilderness (redinerdi) \[remap\]](https://osu.ppy.sh/beatmapsets/611050#mania/1443416)**
 
+#### Qualifiers
+
+**[Download the mappack here! (26 MB)](https://mega.nz/file/BW4AzCRR#dbuT9LJaiEvWkD9UBKN7ZpzsXSCih1UuhrShn50-lz8)**
+
+- FreeMod
+  - [Shoichiro Hirata - Beat of getting entangled (Raveille) \[Stage 1: Entwined\]](https://osu.ppy.sh/beatmapsets/1162315#mania/2424652)
+  - [Mafumafu - I wanna be a girl (NutAndGo) \[Stage 2: Transformation\]](https://osu.ppy.sh/beatmapsets/1162335#mania/2424680)
+  - [M2U - Masquerade (UnluckyCroco) \[Stage 3: Mischief\]](https://osu.ppy.sh/beatmapsets/1162341#mania/2424690)
+  - [Niccolo Paganini - Caprice no. 5 (Davvy) \[Stage 4: Transcendental\]](https://osu.ppy.sh/beatmapsets/1162342#mania/2424691)
+  - [Silentroom - NULCTRL (Raveille) \[Stage 5: Command\]](https://osu.ppy.sh/beatmapsets/1162328#mania/2424667)
+
 ### Low division
 
 #### Group Stage
@@ -190,6 +201,17 @@ The Mania Beginner's Showdown 2 is run by various community members.
   - [Morimori Atsushi + Verdammt - Le Fruit Defendu (Valentrixe) \[ajee's NOVICE\]](https://osu.ppy.sh/beatmapsets/414288#mania/901403)
 - Tiebreaker
   - **[Camellia - paroxysm (\_Y u r i\_) \[STARTING THE ROAD\]](https://osu.ppy.sh/beatmapsets/665379#mania/1417095)**
+
+#### Qualifiers
+
+**[Download the mappack here! (25 MB)](https://mega.nz/file/WugBkJxS#QKC-szzGYd76GC2mfA_xhCfZr1vPFcfhJcS-1W2pv8U)**
+
+- FreeMod
+  - [SiLiS - dispersion (cut) (Raveille) \[Stage 1: Evaluate\]](https://osu.ppy.sh/beatmapsets/1162300#mania/2424626)
+  - [Stratovarius - Eagleheart (Davvy) \[Stage 2: Perseverance\]](https://osu.ppy.sh/beatmapsets/1162340#mania/2424689)
+  - [dark cat - pursuit of happiness (Raveille) \[Stage 3: Deduction\]](https://osu.ppy.sh/beatmapsets/1162308#mania/2424642)
+  - [Panda Eyes - Fruits (UnluckyCroco) \[Stage 4: Nutrition\]](https://osu.ppy.sh/beatmapsets/1162325#mania/2424664)
+  - [Sakuzyo - 7thSense (Raveille) \[Stage 5: Eternity\]](https://osu.ppy.sh/beatmapsets/1162313#mania/2424649)
 
 ## Match results
 
