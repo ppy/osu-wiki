@@ -109,7 +109,7 @@ The Mania Beginner's Showdown 2 is run by various community members.
 
 | Group | Top seed | High seed | Mid seed | Low seed |
 | :-: | :-- | :-- | :-- | :-- |
-| **Axolotl** | ![][flag_SG] [Saltify](https://osu.ppy.sh/users/11133661) | ![][flag_TH] [uwuchuchuu](https://osu.ppy.sh/users/13021141) | ![][flag_ID] [ReZ\_TB](https://osu.ppy.sh/users/9113955) |![][flag_US] [ph03n1x](https://osu.ppy.sh/users/6180024) |
+| **Axolotl** | ![][flag_SG] [Saltify](https://osu.ppy.sh/users/11133661) | ![][flag_TH] [uwuchuchuu](https://osu.ppy.sh/users/13021141) | ![][flag_ID] [ReZ\_TB](https://osu.ppy.sh/users/9113955) | ![][flag_US] [ph03n1x](https://osu.ppy.sh/users/6180024) |
 | **Bat** | ![][flag_PH] [Lazereed](https://osu.ppy.sh/users/12894120) | ![][flag_FR] [SochnyiKokos](https://osu.ppy.sh/users/13340841) | ![][flag_US] [Proc](https://osu.ppy.sh/users/12295635) | ![][flag_TH] [Iambosszie](https://osu.ppy.sh/users/7286850) |
 | **Cat** | ![][flag_DE] [MonsterFighterP](https://osu.ppy.sh/users/7304344) | ![][flag_US] [Arraxey](https://osu.ppy.sh/users/6752116) | ![][flag_US] [NovaSagittarii](https://osu.ppy.sh/users/11664177) | ![][flag_US] [KingTaiki](https://osu.ppy.sh/users/11069680) |
 | **Dog** | ![][flag_RU] [-Tenma-](https://osu.ppy.sh/users/12544475) | ![][flag_FR] [nalo\_](https://osu.ppy.sh/users/9768438) | ![][flag_GB] [StartAndSelect](https://osu.ppy.sh/users/8720555) | ![][flag_ID] [Ihram-San](https://osu.ppy.sh/users/9908055) |
