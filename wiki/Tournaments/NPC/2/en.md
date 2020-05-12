@@ -97,6 +97,87 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 | Vanilla Wafers | ![][flag_US] **[-Wiffles-](https://osu.ppy.sh/users/13432283)**, ![][flag_PH] [pokerfesh](https://osu.ppy.sh/users/14351977), ![][flag_GB] [Nagisa02](https://osu.ppy.sh/users/14713206) |
 | G Nome | ![][flag_US] **[MrJamesGaming](https://osu.ppy.sh/users/13730858)**, ![][flag_GB] [NightMia](https://osu.ppy.sh/users/11984807), ![][flag_US] [Irnea](https://osu.ppy.sh/users/13320919) |
 
+## Ruleset
+
+### Tournament Rules
+1. The tournament will be in a 2 versus 2 setup.
+2. Each team must have between 2 to 4 members.
+3. Beatmap scoring is based on Score V2.
+4. The beatmaps for each round will be announced by the map selectors in advance before the actual matches take place. Only these beatmaps will be used during the respective matches.
+   - One beatmap will be a tiebreaker beatmap. This beatmap will only be played in case of a tie. 
+   - The qualifiers pool will not have a tiebreaker beatmap.
+5. The match schedule will be settled by the administrators.
+6. If no staff or referee is available, the match will be postponed.
+7. The use of Visual Settings and skins are allowed.
+8. A referee will create a multiplayer room and send out invites to team captains 10 minutes prior to the start time.
+9. If a team can not show up with the minimum number of players required 10 minutes after the start time, their opponents win by default.
+10. No beatmap will be replayed in the same match, unless it has been nullified.
+11. If a beatmap ends in a draw, the map will be nullified and replayed.
+12. If a player disconnects, their score will not be counted.
+    - If the player disconnects within the first 30 seconds of the map, the match may be aborted and replayed under the referee's discretion.
+    - The disconnected player have 5 minute to rejoin the match. If the player failed to reconnect within time limit, the point will be give to the opponent team.
+13. If a player disconnects between maps and the team can not provide a replacement, the match can be delayed 10 minutes at maximum. If the team cannot provide a replacement after 10 minutes, their opponents win by default.
+14. Lag is not a valid reason to nullify a map.
+15. Unlimited numbers of substitution are allowed during a match.
+    - If a map is replayed, both teams are forbidden to make substitution.
+16. All players and referees must be treated with respect. Instructions of the referees and tournament staffs are to be followed. Decisions labeled as final are not to be objected.
+17. Penalties for violating the tournament rules may include:
+    - Exclusion of specific players for one beatmap
+    - Exclusion of specific players for an entire match
+    - Declaring the match as Lost by Default
+    - Disqualification from the entire tournament
+    
+### Stage Instructions
+
+1. In the qualifiers, all team will play a same pool.
+2. The qualifiers contains 7 maps in total, 4 NoMod, 2 Hidden, 2 HardRock, 2 DoubleTime.
+3. Each team will only play through the qualifiers once in a designated lobby.
+4. Each team must have 2 members to play each map. Players an exchange freely between each map.
+5. All teams will play their qualifiers in separated rooms. 
+6. The top 32 seeded teams will advance to the Round of 32.
+7. Following the Qualifiers, Double Elimination stages will be played. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
+8. **Winning conditions:**
+    - The Round of 32 and Round of 16 will be best of 9 (first team to 5 wins).
+    - The Quarterfinals and Semifinals will be best of 11 (first team to 6 wins).
+    - The Finals and Grand Finals will be best of 13 (first team to 7 wins).
+    
+### Match Instructions
+
+1. A referee will create a mulitplayer room and send out invites to team captains 10 minutes prior to the start time.
+2. Each team are allowed to select 1 warm-up beatmap. All warm-up must be under 4 minutes and appropriate.
+3. Each captain can ban 1 beatmap to be selected from the pool in the Round of 32 and Round of 16. These beatmaps are not allowed to be picked by any team in the entire match.
+   - From Quarterfinals onwards, the number of bans increases to two.
+   - A mod pool can not be banned completely.
+4. Each captain must use "!roll" once in the multiplayer lobby.
+    - The team with the higher roll chooses to **ban first** or **pick first**.
+    - The team that bans first will pick second, and vice versa.
+5. Beatmap selection will alternate between each team selecting a beatmap out of the mappool, they may pick freely from any mod pool.
+6. In the case of a tie, the tiebreaker beatmap will be played.
+
+### Mappool Instructions
+
+1. There will be a new mappool for every stage.
+2. Each mappool consists of 5 brackets: NoMod, Hidden, HardRock, DoubleTime and FreeMod.
+3. The FreeMod bracket will have Free Mod enabled.
+    - Possible mod choices are Hidden, HardRock and Hidden+HardRock.
+    - When playing a FreeMod map, one player **must** have any kind of mod choices enabled. For the other player, enabling mods is optional.
+4. **NoFail will be enforced on all maps.**
+5. Each mappool has a specific size depending on the stage. 
+    - **The Round of 32 and Round of 16 mappool will have 4 NoMod maps, 3 DoubleTime maps, and 2 of each for the remaining mod brackets.**
+    - **The Quarterfinals and the Semifinals mappool will have 5 NoMod maps, 3 DoubleTime maps, and 2 of each for the remaining mod brackets.**
+    - **The Finals and the Grand Finals mappool will have 6 NoMod maps, 3 FreeMod maps, and 4 of each for the remaining mod brackets.**
+6. Each mappool has 1 tiebreaker beatmap.
+7. The tiebreaker will be played under FreeMod conditions.
+   - When playing the tiebreaker, there are no mod requirements.
+   
+### Scheduling Instructions
+
+1. Each stage will be help on a single weekend.
+2. All Double Elimination Stages will be held on Friday, Saturday, or Sunday, UTC+0.
+3. Scheduling will be handled by the administrators. Schedules will be released approximately one week before the first matches of the stage. The schedule will try to respect the participants' time zones.
+4. **All matches must be rescheduled 1 day before the first matches of the stage are played. Both teams must agree to a reschedule and informed an administrator for the reschedule to be valid.**
+    - Administrators has the right to decline reschedule requests.
+
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
