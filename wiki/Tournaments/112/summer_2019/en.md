@@ -7,7 +7,7 @@ tags:
 
 # 112's Summer Tournament 2019
 
-![112ST Logo](img/Logo.png)
+![112ST Logo](img/logo.png)
 
 The **112's Summer Tournament 2019** (***112ST***) was a double-elimination 2v2 osu! tournament started with 1v1 qualifiers hosted by ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) and ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852). The tournament was only allowed for Turkish-speaking users regardless of their country flags. This was the fourth installment of 112's Tournaments series.
 
@@ -29,7 +29,7 @@ The **112's Summer Tournament 2019** (***112ST***) was a double-elimination 2v2 
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 1 month of osu!supporter tag |
 
-![112's Summer Tournament 2019 Winner Badge](img/Badge.png)
+![112's Summer Tournament 2019 Winner Badge](img/badge.png)
 
 ## Organisation
 
@@ -127,7 +127,7 @@ After Group matches, those who get through to Quarterfinals are obliged to form 
 
 ## Podium
 
-![112ST 2019 Podium](img/Podium.png)
+![112ST 2019 Podium](img/podium.png)
 
 ## Mappools
 
