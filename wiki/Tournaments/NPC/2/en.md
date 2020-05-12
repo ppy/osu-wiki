@@ -64,7 +64,7 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 | LoG Horizon | ![][flag_BR] **[kvictor](https://osu.ppy.sh/users/15922752)**, ![][flag_BR] [yJhowzz](https://osu.ppy.sh/users/11290673) |
 | Young Builders | ![][flag_RU] **[Tara_kan](https://osu.ppy.sh/users/13217621)**, ![][flag_RU] [bu1ld](https://osu.ppy.sh/users/13808132) ![][flag_RU] [JesusWCS](https://osu.ppy.sh/users/12420508), ![][flag_BY] [DyadyaShnuk](https://osu.ppy.sh/users/11268782) |
 | Click the Circles to the beat | ![][flag_US] **[Lapisz](https://osu.ppy.sh/users/8295497)**, ![][flag_FR] [Jhayyy](https://osu.ppy.sh/users/15374745), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711/osu), ![][flag_GB] [bluezenither](https://osu.ppy.sh/users/11861720) |
-| SLAVA ZEMLYANAM | ![][flag_RU] **[Maruyama-](https://osu.ppy.sh/users/11853175)**, ![][flag_RU] [Skeyn](https://osu.ppy.sh/users/7899956), ![][flag_RU] [f55dota2](https://osu.ppy.sh/users/14126397) |
+| SLAVA ZEMLYANAM | ![][flag_RU] **[Maruyama-](https://osu.ppy.sh/users/11853175)**, ![][flag_RU] [Skeyn](https://osu.ppy.sh/users/7899956), ![][flag_RU] [f55dota2](https://osu.ppy.sh/users/14126397), ![][flag_RU] [Bombooo2](https://osu.ppy.sh/users/9731395) |
 | Tapa na Cara | ![][flag_BR] **[Mr Capuccino](https://osu.ppy.sh/users/16224264)**, ![][flag_BR] [Megadestr](https://osu.ppy.sh/users/15795443) |
 | vai Brazilian | ![][flag_BR] **[ImHashRenai](https://osu.ppy.sh/users/15364219)**, ![][flag_BR] [Shinobu515](https://osu.ppy.sh/users/11516881) |
 | Chuchichäschtli | ![][flag_CH] **[[Arikawa]](https://osu.ppy.sh/users/6454830)**, ![][flag_CH] [Kvn_hot_potato](https://osu.ppy.sh/users/6228912), ![][flag_CH] [[ Kuromei ]](https://osu.ppy.sh/users/6675144) |
@@ -96,6 +96,7 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 | Ora Ora Ora | ![][flag_DE] **[Mysteri04](https://osu.ppy.sh/users/14967328)**, ![][flag_DE] [chrissi_42o](https://osu.ppy.sh/users/15676464), ![][flag_US] [X_boi_X](https://osu.ppy.sh/users/15240084) |
 | Vanilla Wafers | ![][flag_US] **[-Wiffles-](https://osu.ppy.sh/users/13432283)**, ![][flag_PH] [pokerfesh](https://osu.ppy.sh/users/14351977), ![][flag_GB] [Nagisa02](https://osu.ppy.sh/users/14713206) |
 | G Nome | ![][flag_US] **[MrJamesGaming](https://osu.ppy.sh/users/13730858)**, ![][flag_GB] [NightMia](https://osu.ppy.sh/users/11984807), ![][flag_US] [Irnea](https://osu.ppy.sh/users/13320919) |
+| Mousechokervn | ![][flag_VN] **[binhdz12345](https://osu.ppy.sh/users/15585184)**, ![][flag_VN] [snhangao](https://osu.ppy.sh/users/9529010), ![][flag_VN] [giangtruong](https://osu.ppy.sh/users/11287987) |
 
 ## Ruleset
 
