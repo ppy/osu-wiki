@@ -183,7 +183,6 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_DZ]: /wiki/shared/flag/DZ.gif "Algeria"
 [flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
-[flag_EE]: /wiki/shared/flag/EE.gif "Estonia"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
