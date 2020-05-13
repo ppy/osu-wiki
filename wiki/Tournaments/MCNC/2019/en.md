@@ -203,9 +203,6 @@ The osu!mania 4K Chinese National Cup 2019 was run by various community members.
 - Tiebreaker
   - **[Kano - Stella-rium (DJ Noriken Bootleg) (Lude) \[Koneko's Celestial // 4K\]](https://osu.ppy.sh/b/1253374)**
 
-
---------------------------------
-
 ## Match results
 
 ### Finals
@@ -329,11 +326,10 @@ Players must abide to the osu! terms of service.
     - In the Round of 16 and the Quarterfinals, you need to win 6 beatmaps to win a match. (Best-of-11)
     - In Semifinals, **Finals and Grand Finals**, you need to win 7 beatmaps to win a match. (Best-of-13)
 
-
 ### Match Instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-    - Room settings are osu!mania, Head-To-Head., Win Condition: 'ScoreV2'. Room name must be "MCNC: (Red) vs (Blue)".
+    - Room settings are osu!mania, Head-To-Head, Win Condition: 'ScoreV2'. Room name must be "MCNC: (Red) vs (Blue)".
 2. Warmups during the Group Stages may not have a length higher than 3 minutes. Bracket Stages may be no longer than 5 minutes (unless agreed by both side). Warmups are optional when allowed.
 3. Players are allowed to ban 1 map each for each match alternating between the players with no restrictions except that each player must ban from mappool.
 Before matches will start, the captain of each player will roll and the one with the highest roll will choose their warmup first (if they would like their warmup), pick maps from the mappool first and ban one map from the mappool second. Picks will alternate as well.
