@@ -4,7 +4,7 @@
 
 osu!'daki pek çok ekranda `F8` tuşuna ya da sağ alttaki `Show Chat` butonuna basarak Sobhet Konsolunun ekranın alt kısmında belirmesini sağlayabilirsiniz.
 
-![Sohbet Konsolu](img/Chatconsole1.png "Chat Console")
+![Chat Console](img/Chatconsole1.png "Sohbet Konsolu")
 
 - Sekmeler şu anda kullanılabilir kanalları listeler. Bir kanala geçmek için sadece sekmesine tıklamanız yeterlidir. Katılacak yeni kanalların listesini görüntülemek için `Yeni` tuşuna tıklayın.
 - Kullanıcı adlarının renkleri farklı anlamlar taşır. 
