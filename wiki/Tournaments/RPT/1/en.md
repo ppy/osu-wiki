@@ -30,21 +30,25 @@ The **ROI PRO Tournament** (***RPT***) was an Indonesian double-elimination 3v3 
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
+Generous donations from ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_ID] [Lampshade](https://osu.ppy.sh/users/4791294), ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), and ![][flag_US] [RandyV](https://osu.ppy.sh/users/5389220) helped fund some of the prizes.
+
 ## Organisation
 
-The Beginner's Taiko Tournament 5 was run by various community members.
+The ROI PRO Tournament was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_FR] [Ladybug](https://osu.ppy.sh/users/4833654), ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098) |
-| Map selector | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015), ![][flag_FR] [Ladybug](https://osu.ppy.sh/users/4833654), ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098), ![][flag_FR] [ZeddaStake](https://osu.ppy.sh/users/8801844) |
-| Referee | ![][flag_HK] [Brown918](https://osu.ppy.sh/users/9805760), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_DE] [GinIkari](https://osu.ppy.sh/users/6083491), ![][flag_NL] [Krekker](https://osu.ppy.sh/users/8265940), ![][flag_FR] [Ladybug](https://osu.ppy.sh/users/4833654), ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098), ![][flag_RU] [Nozdormu](https://osu.ppy.sh/users/7169208), ![][flag_CH] [OverKurumi](https://osu.ppy.sh/users/9987378), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_DE] [Rymus](https://osu.ppy.sh/users/6449966), ![][flag_FR] [Satsukel](https://osu.ppy.sh/users/9066390), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715), ![][flag_US] [travis_ba](https://osu.ppy.sh/users/10822220), ![][flag_FR] [ZeddaStake](https://osu.ppy.sh/users/8801844) |
-| Streamer | ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_NL] [Krekker](https://osu.ppy.sh/users/8265940), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_NL] [oliebol](https://osu.ppy.sh/users/2756335), ![][flag_US] [Rukairi](https://osu.ppy.sh/users/6642597), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958) |
-| Commentator | ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ![][flag_NZ] [Blujae](https://osu.ppy.sh/users/10613885), ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/9536977), ![][flag_US] [DiggyDogg](https://osu.ppy.sh/users/5014664), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_DE] [Enohx](https://osu.ppy.sh/users/6375060), ![][flag_PL] [Finite](https://osu.ppy.sh/users/5385806), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_DE] [GinIkari](https://osu.ppy.sh/users/6083491), ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_US] [kb131313](https://osu.ppy.sh/users/11229259), ![][flag_FR] [Ladygril](https://osu.ppy.sh/users/11989065), ![][flag_DE] [Malox](https://osu.ppy.sh/users/4516252), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_US] [Rukairi](https://osu.ppy.sh/users/6642597), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
-| Designer | ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286) |
-| Statistician | ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992) |
+| Organiser | ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839) |
+| Co-organiser | ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
+| Administrator | ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
+| Map selector | ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
+| Map tester | ![][flag_ID] [CyberX](https://osu.ppy.sh/users/2156370), ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
+| Referee | ![][flag_ID] [\_Ayz](https://osu.ppy.sh/users/3119560), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ![][flag_ID] [NasKun](https://osu.ppy.sh/users/4072313), ![][flag_ID] [Naverlyn](https://osu.ppy.sh/users/14324722), ![][flag_ID] [NoVaLian](https://osu.ppy.sh/users/6459827), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608), ![][flag_ID] [Remuru](https://osu.ppy.sh/users/3654220), ![][flag_ID] [Tix](https://osu.ppy.sh/users/11421465), ![][flag_AU] [Walfurus](https://osu.ppy.sh/users/13684009), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
+| Streamer | ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
+| Commentator | ![][flag_ID] [\_Ayz](https://osu.ppy.sh/users/3119560), ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [Midwinter](https://osu.ppy.sh/users/9762056), ![][flag_ID] [Nexa-](https://osu.ppy.sh/users/6155896), ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
+| Designer | ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [Nexa-](https://osu.ppy.sh/users/6155896), ![][flag_ID] [-Remilia-](https://osu.ppy.sh/users/2513995), ![][flag_ID] [Tix](https://osu.ppy.sh/users/11421465) |
+| Statistician | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201), ![][flag_CA] [Malikil](https://osu.ppy.sh/users/3208718), ![][flag_ID] [Tix](https://osu.ppy.sh/users/11421465), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839) |
 | Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
-| Developer | ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098), ![][flag_FR] [ZeddaStake](https://osu.ppy.sh/users/8801844) |
 
 ## Links
 
@@ -421,6 +425,9 @@ A player's registration will not count if they are in the top 10,000 of the osu!
 3. Players must complete their match at the designated time or both players are eliminated.
 4. However if both players can come up with a better time than what we have schedule for them, please inform the organisers for a reschedule. They will rearrange your match if the proposed reschedule is informed before the Thursday of the weekend.
 
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
