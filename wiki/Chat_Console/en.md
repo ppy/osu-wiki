@@ -79,7 +79,7 @@ Press the number or click the bar to activate:
 | `/addfriend [user]` | Add `[user]` to your friends list. | `/addfriend Amigo` | You are now friends with Amigo. |
 | `/delfriend [user]` | Remove `[user]` from your friends list. | `/delfriend Amigo` | You are no longer friends with Amigo. |
 | `/away [message]` | Sets an away message (sent to users PMing you). Leave message blank to cancel. | `/away I am John Smith.` | You have been marked as being away: I am John Smith. When Amigo /msg John Where are you~? BanchoBot: I am John Smith.|
-| `/bb` | Sends a message to bancho like rank `[number]` | `/bb rank 1` | [15/11/12] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
+| `/bb` | Sends a message to Bancho to execute a command like `!stats [user]` | `/bb !stats Uan` | [15/11/12] Stats for [Uan](https://osu.ppy.sh/users/147623): Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
 | `/chat [user]` | Open a new chat tab with specified user. | `/chat Amigo` | (Amigo tab is opened) |
 | `/clear` | Clears the current chat buffer. | `/clear` | (Clears basically everything on the current tab) |
 | `/ignore [user][@chp]` | Ignore all messages from specified user for this session. By adding an @ followed by the letters, c, h, and/or p, you may ignore them in chat, highlights, or PMs respectively. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Your chat console is set to: ignore any text written by Amigo [c], any possible text highlighting you by Amigo [h] any Private Message sent to you by Amigo [p]) |
