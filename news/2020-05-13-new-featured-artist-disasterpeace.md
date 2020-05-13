@@ -10,8 +10,10 @@ We're setting off on a new adventure with **Disasterpeace**, our latest Featured
 
 The man behind the aural wonder of hit indie game *FEZ*'s hugely popular soundtrack, [**Disasterpeace**](https://osu.ppy.sh/beatmaps/artists/81) is an American musician and composer whose work was extraordinarily popular back in the 2014 days of the osu! mapping scene.
 
-Though some of those hit tracks like *I Am Only a Man* remain out of reach for now, we're excited to share a catalogue of **16** tracks with you, including several popular tracks from *FEZ*.
+Though some of those hit tracks like *I Am Only a Man* remain out of reach for now, we're excited to share a catalogue of **16** tracks with you, including several popular pieces from *FEZ*.
 
+[Mao](https://osu.ppy.sh/users/2204515) from the Mappers' Guild has also been hard at work creating a brand new modern showcase map set to [Wagering Lights](https://osu.ppy.sh/beatmapsets/1163910), so make sure to check it out if you want to experience the new to go with the old!
+ 
 Check out a sample of what's available:
 
 ### Sync
