@@ -7,7 +7,7 @@ tags:
 
 ![RPT logo](img/logo.gif)
 
-The **ROI PRO Tournament** (***RPT***) was an Indonesian double-elimination 3v3 osu! tournament hosted by ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839). The tournament was restricted to Bahasa Indonesia-speaking players only. This was the first installment of the ROI PRO Tournament.
+The **ROI PRO Tournament** (***RPT***) is an Indonesian double-elimination 3v3 osu! tournament hosted by ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839). The tournament is restricted to Bahasa Indonesia-speaking players only. This is the first installment of the ROI PRO Tournament.
 
 ## Tournament schedule
 
@@ -19,8 +19,8 @@ The **ROI PRO Tournament** (***RPT***) was an Indonesian double-elimination 3v3 
 | Round of 16 | 2020-04-17/2020-04-19 |
 | Quarterfinals | 2020-04-24/2020-04-26 |
 | Semifinals | 2020-05-01/2020-05-03 |
-| Finals | 2020-05-08/2020-03-10 |
-| Grand Finals | 2020-05-15/2020-05-17 |
+| Finals | 2020-05-09/2020-03-10 |
+| Grand Finals | 2020-05-16/2020-05-17 |
 
 ## Prizes
 
@@ -34,7 +34,7 @@ Generous donations from ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490
 
 ## Organisation
 
-The ROI PRO Tournament was run by various community members.
+The ROI PRO Tournament is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -78,6 +78,24 @@ The ROI PRO Tournament was run by various community members.
 | **team's sumippe** | ![][flag_ID] **[sumippe](https://osu.ppy.sh/users/1929336)**, ![][flag_ID] [FishStar](https://osu.ppy.sh/users/12563284), ![][flag_ID] [liykun](https://osu.ppy.sh/users/9500057), ![][flag_ID] [OTWGE](https://osu.ppy.sh/users/11759284) |
 | **ToedLover** | ![][flag_ID] **[Rexeez](https://osu.ppy.sh/users/1987591)**, ![][flag_ID] [Caruma](https://osu.ppy.sh/users/13187450), ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773), ![][flag_ID] [Eg2nD](https://osu.ppy.sh/users/5365662) |
 | **xHirayuki** | ![][flag_ID] **[MOMO543959](https://osu.ppy.sh/users/2373484)**, ![][flag_ID] [Felter](https://osu.ppy.sh/users/5865319), ![][flag_ID] [Takaichi](https://osu.ppy.sh/users/909745), ![][flag_ID] [audreych](https://osu.ppy.sh/users/9181855) |
+
+## Match schedule: Grand Finals
+
+Saturday, 16 May 2020:
+
+| Match ID | Team A | Team B | Match time (UTC+7) |
+| :-: | --: | :-- | :-: |
+| #29 | xHirayuki | Baqua | **15:30** |
+
+Sunday, 17 May 2020:
+
+| Match ID | Team A | Team B | Match time (UTC+7) |
+| :-: | --: | :-- | :-: |
+| #30¹ | ToedLover |  | **15:00** |
+| #31² |  | ToedLover | **21:00** |
+
+¹ Encounter dependent on winner of Match #29  
+² Match will take place if Team B on Match #30 wins the match
 
 ## Mappools
 
