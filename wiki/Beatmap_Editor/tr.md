@@ -10,35 +10,35 @@
 
 Beatmap düzenleyici 4 ana kısma ayrılmıştır (sol üstte görebilirsiniz):
 
-- Oluştur
-- Dizayn
-- Zamanlama
-- Müzik kurulumu
+- Compose (Oluştur)
+- Design (Dizayn)
+- Timing (Zamanlama)
+- Song Setup (Müzik Kurulumu)
 
-## Oluştur
+## Compose (Oluştur)
 
-[Oluştur](/wiki/Beatmap_Editor/Compose) sekmesi tüm [vuruş objelerinin](/wiki/Hit_Objects) ve oynayış ile alakalı diğer elemanların oluşturulduğu yerdir. Pek çok mapper vaktinin çoğunu bu sekmede geçirmesi bu yüzdendir.
+[Compose (Oluştur)](/wiki/Beatmap_Editor/Compose) sekmesi tüm [vuruş objelerinin](/wiki/Hit_Objects) ve oynayış ile alakalı diğer elemanların oluşturulduğu yerdir. Pek çok mapper vaktinin çoğunu bu sekmede geçirmesi bu yüzdendir.
 
-## Dizayn
+## Design (Dizayn)
 
-[Dizayn](/wiki/Beatmap_Editor/Design) sekmesi beatmaplere eklenen görsel efektler olan [storyboard](/wiki/Storyboards) oluşturmayı sağlar. Storyboardlar genellikle karmaşık efektler içerdiğinden dolayı ve çok fazla storyboard komutu kullanımı gerektirdiğinden dolayı, mapperlar aynı zamanda dizayn sekmesine hiç girmeden [storyboard komut dizisi](/wiki/Storyboard_Scripting) kullanmaktadırlar.
+[Design (Dizayn)](/wiki/Beatmap_Editor/Design) sekmesi beatmaplere eklenen görsel efektler olan [storyboard](/wiki/Storyboards) oluşturmayı sağlar. Storyboardlar genellikle karmaşık efektler içerdiğinden dolayı ve çok fazla storyboard komutu kullanımı gerektirdiğinden dolayı, mapperlar aynı zamanda dizayn sekmesine hiç girmeden [storyboard komut dizisi](/wiki/Storyboard_Scripting) kullanmaktadırlar.
 
-## Zamanlama
+## Timing (Zamanlama)
 
-[Zamanlama](/wiki/Beatmap_Editor/Timing) beatmapin vuruş seslerini ve zamanlamasını kontrol eder. Bu gerekli bir şeydir çünkü bir beatmap doğru zamanlama gerektirir ki oynayışa ve şarkının ritmine ayak uydursun.
+[Timing (Zamanlama)](/wiki/Beatmap_Editor/Timing) beatmapin vuruş seslerini ve zamanlamasını kontrol eder. Bu gerekli bir şeydir çünkü bir beatmap doğru zamanlama gerektirir ki oynayışa ve şarkının ritmine ayak uydursun.
 
-## Müzik kurulumu
+## Song Setup (Müzik Kurulumu)
 
-[Müzik kurulumu](/wiki/Beatmap_Editor/Song_Setup) beatmapin [metaverisini](/wiki/Ranking_Criteria#metadata) doldurur ve [beatmap setlerine](/wiki/Glossary#beatmapset) bağdaştırır. Bu, şarkının başlığı, sanatçısı, zorluğu, seviye adı, kombo renkleri vs. içerir.
+[Song Setup (Müzik kurulumu)](/wiki/Beatmap_Editor/Song_Setup) beatmapin [metaverisini](/wiki/Ranking_Criteria#metadata) doldurur ve [beatmap setleri](/wiki/Glossary#beatmapset) için evrensel olan diğer şeyleri doldurur. Bu, şarkının başlığı, sanatçısı, zorluk adı, seviye adı, kombo renkleri vs. içerir.
 
 ## Diğer
 
-Beatmap düzenleyicinin diğer kısımları:
+Beatmap düzenleyicinin diğer kısımlarına şunlar dahildir:
 
 - [AiMod](AiMod): Bir beatmaptaki hataları otomatik olarak bildiren bir sistem
 - [Beat snap divisor](Beat_Snap_Divisor): Zaman çizelgesine vuruşların nasıl yerleştirileceğine karar verir
 - [Distance snap](Distance_Snap): Objelerin ne kadar yakın ve ya uzak olduğunu ayarlayan çarpan
-- [Kiai time](Kiai_Time): Beatmapin bir kısmını vurgulamak için kulanılan özel zamanlama kısmı
+- [Kiai time](Kiai_Time): Beatmapin bir kısmını vurgulamak için kullanılan özel zamanlama kısmı
 - [Menu](Menu): Düzenleyicide gezinmenize yardımcı olur
-- [SB load](SB_Load): Storyboard'ın ne kadar kaynak gerektirdiğini gösterir
-- [Timelines](Timelines): Yerleştirilmiş objeleri, molaları ve dahasını gösterir
+- [SB load](SB_Load): Storyboard'un ne kadar kaynak gerektirdiğini gösterir
+- [Timelines](Timelines): Yerleştirilmiş objeleri, molaları ve daha fazlasını gösterir
