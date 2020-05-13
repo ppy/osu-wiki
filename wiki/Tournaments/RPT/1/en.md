@@ -52,11 +52,11 @@ The ROI PRO Tournament was run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/994702)
-- [BTT Discord server](https://discord.gg/EYAqSWH)
-- [Livestream](https://twitch.tv/beginnerstaikotournament)
-- [Challonge brackets](https://challonge.com/BTTS5)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vR6QPdOsvVXvpXcjTrqOvaQESu0LpH3HAd9QxsYMbDa7xAatXc8X3hnmmDZSxfTLtAZz-WArFbTbm8_/pubhtml)**
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1035782)
+- [BTT Discord server](https://discord.gg/xjtz5t6)
+- [Livestream](https://www.twitch.tv/roiprotournament)
+- [Challonge brackets](https://challonge.com/roiprotournament)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1YRVgU95F8lBCP-sJqsexdtChzyF_iZJv_wNGd_QSIao/edit?usp=sharing)**
 
 ## Participants
 
