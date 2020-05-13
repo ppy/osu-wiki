@@ -52,7 +52,7 @@ osu!'da oturum açmış olan her bir kullanıcının Genişletilmiş Sohbet'te g
 | ![Player is modding a beatmap](img/Chat_Console-Modding.png "Oyuncu bir beatmap modluyor") | Yeşil - Bir başkasının beatmapini modluyor ya da düzenliyor. |
 | ![Player in Multiplayer](img/Chat_Console-Multiplayer.png "Oyuncu Çoklu'da") | Kahverengi - Kullanıcı Çoklu modda, ama oynamıyor. |
 | ![Oyuncu Multiplayer oynuyor](img/Chat_Console-Multiplaying.png "Oyuncu Çoklu'da oynuyor") | Sarı - Şu anda Çoklu'da oynuyor. |
-| ! [Player is AFK](img/Chat_Console-Afk.png "Oyuncu AFK") | Siyah - Aktif değil ya da klavyeden uzakta (AFK). |
+| ![Player is AFK](img/Chat_Console-Afk.png "Oyuncu AFK") | Siyah - Aktif değil ya da klavyeden uzakta (AFK). |
 | ![Player is connected via IRC](img/Chat_Console-IRC.png "Oyuncu IRC üzerinden bağlıdır") | İçeriksiz Lacivert - Oyuncu oyun içinde değildir, ancak bir IRC istemcisine bağlıdır ya da istatistikler mevcut değildir. |
 
 Herhangi bir kullanıcı paneline tıkladığınızda bir seçenek ekranı açılır.
