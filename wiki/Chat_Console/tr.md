@@ -52,7 +52,7 @@ osu!'da oturum açmış olan her bir kullanıcının Genişletilmiş Sohbet'te g
 | ![Player is modding a beatmap](img/Chat_Console-Modding.png "Oyuncu bir beatmap modluyor") | Yeşil - Bir başkasının beatmapini modluyor ya da düzenliyor. |
 | ![Player in Multiplayer](img/Chat_Console-Multiplayer.png "Oyuncu Çoklu'da") | Kahverengi - Kullanıcı Çoklu modda, ama oynamıyor. |
 | ![Oyuncu Multiplayer oynuyor](img/Chat_Console-Multiplaying.png "Oyuncu Çoklu'da oynuyor") | Sarı - Şu anda Çoklu'da oynuyor. |
-| ! [Player is AFK] (img/Chat_Console-Afk.png "Oyuncu AFK") | Siyah - Aktif değil ya da klavyeden uzakta (AFK). |
+| ! [Player is AFK](img/Chat_Console-Afk.png "Oyuncu AFK") | Siyah - Aktif değil ya da klavyeden uzakta (AFK). |
 | ![Player is connected via IRC](img/Chat_Console-IRC.png "Oyuncu IRC üzerinden bağlıdır") | İçeriksiz Lacivert - Oyuncu oyun içinde değildir, ancak bir IRC istemcisine bağlıdır ya da istatistikler mevcut değildir. |
 
 Herhangi bir kullanıcı paneline tıkladığınızda bir seçenek ekranı açılır.
@@ -78,20 +78,20 @@ Etkinleştirmek için numarayı tıklatın veya çubuğu tıklatın:
 | :-- | :-- | :-- | :-- |
 | `/addfriend [kullanıcı]` | Arkadaş listenize `[kullanıcı]` ekleyin. | `/addfriend Amigo` | Artık Amigo ile arkadaşsınız. |
 | `/delfriend [kullanıcı]` | Arkadaş listenizden '[kullanıcı]' kaldırın. | `/delfriend Amigo` | Artık Amigo ile arkadaş değilsiniz. |
-| `/away [mesaj]` | Bir dışarıda iletisi ayarlar (Size PM gönderen kullanıcılara gönderilir). İptal etmek için iletiyi boş bırakın. | `/away Ben John Smith.` | You have been marked as being away: Ben John Smith. Amigo size /msg John Neredesin~? dediğinde BanchoBot: Ben John Smith.|
+| `/away [mesaj]` | Bir dışarıda iletisi ayarlar (Size PM gönderen kullanıcılara gönderilir). İptal etmek için iletiyi boş bırakın. | `/away Ben John Smith.` | You have been marked as being away: Ben John Smith. Amigo size /msg John Neredesin~? dediğinde BanchoBot: Ben John Smith. |
 | `/bb` | BanchoBot'a bir komutu doğrudan göndermenizi sağlar. | `/bb !faq tr:peppy` | peppy, osu!'nun kurucusu ve baş geliştiricisidir. Projelerin çoğunu kendisi yönetiyor. |
 | `/chat [kullanıcı]` | Belirtilen kullanıcıyla yeni bir sohbet sekmesi açın. | `/chat Amigo` | (Amigo sekmesi açıldı) |
 | `/clear` | Geçerli sohbet arabelleğini temizler. | '/clear' | (Geçerli sekmesinde aşağı yukarı her şeyi temizler) |
-| `/ignore [kullanıcı][@chp]` | Bu oturum için belirtilen kullanıcıdan gelen tüm iletileri yoksayın. Bir @ ekledikten sonra ardından c, h ve/veya p harfi eklerseniz, onları sohbette (chat), vurgulamalarda (highlight) ve özel mesajlarda (Private message) susturabilirsiniz. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Sohbet konsolunuz artık Amigo'dan gelen herhangi bir sohbet mesajı [c], Amigo tarafından yapılan herhangi bir vurgulamayı [h] ve Amigo tarafından gönderilen herhangi özel mesajı [p] dikkate almamak için ayarlandı. |
+| `/ignore [kullanıcı][@chp]` | Bu oturum için belirtilen kullanıcıdan gelen tüm iletileri yoksayın. Bir @ ekledikten sonra ardından c, h ve/veya p harfi eklerseniz, onları sohbette (chat), vurgulamalarda (highlight) ve özel mesajlarda (Private message) susturabilirsiniz. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Sohbet konsolunuz artık Amigo'dan gelen herhangi bir sohbet mesajı [c], Amigo tarafından yapılan herhangi bir vurgulamayı [h], ve Amigo tarafından gönderilen herhangi özel mesajı [p], dikkate almamak için ayarlandı. |
 | `/j [kanal]` veya `/join [kanal]` | Belirtilen kanala katılır | `/join #lobby` | (#lobby sekmesi açıldı) |
 | `/p` veya `/part` | Ayrıldığınız veya bıraktığınız geçerli kanalı kapatır. | `/part` | n/a |
 | `/unignore [kullanıcı]` | Bu oturum için bu kullanıcıyı yoksaymayı durdurun. | `/unignore Amigo` | Şimdi Amigo'u duyabilirsin. (Sohbet konsolunuz, Amigo tarafından yapılan herhangi bir gönderiye izin verir) |
 | `/me [eylem]` | Üçüncü kişi bir eylemi gerçekleştirin. | `/me evde` | * John evde |
 | `/msg [kullanıcı] [mesaj]` | Belirtilen `[kullanıcıya]` özel bir mesaj gönderir. | `/msg Amigo Ben evde hastayım.` | (Amigo sekmesinde) Ben evde hastayım. |
-|`/np`| Dinlediğiniz veya çaldığınız geçerli şarkıyı sohbete yazdırır.| `/np`| (Oynuyorsanız) * John is listening to [Peter Lambert - osu! tutorial \[Gameplay Basics\]](https://osu.ppy.sh/beatmaps/22538) |
-| `/reply` ya da `/r` | Son alınan özel mesajı yanıtlayın. | `/r İyi bir doktor tanıyor musunuz?` | (Amigo sekmesinde) [Önceki yorumlar] John: Evde hastayım. Amigo: Gerçekten mi? John: İyi bir doktor tanıyor musun? |
-| `/savelog` | Geçerli sohbet sekmesini bir metin dosyasına kaydeder. | `/savelog` | (osu! dizininde "Sohbet" adlı gelecekteki bütün sohbet kayıtlarının saklanacağı "Chat" adında bir klasör oluşturulur. |
-| `/watch [kullanıcı]` | `[kullanıcıyı]` izlemeye başlayın. | `/watch Amigo` | * Started spectating Amigo. (Amigo sahip olduğunuz bir beatmap oynarken, [biraz yüklemenin ardından] adınız Amigo'nun ekranının sol tarafında gözükecek şekilde onu izlemeye başlayacaksınız.) |
+| `/np`| Dinlediğiniz veya çaldığınız geçerli şarkıyı sohbete yazdırır.| `/np` | (Oynuyorsanız) * John is listening to [Peter Lambert - osu! tutorial \[Gameplay Basics\]](https://osu.ppy.sh/beatmaps/22538) |
+| `/reply` ya da `/r` | Son alınan özel mesajı yanıtlayın. | `/r İyi bir doktor tanıyor musunuz?` | (Amigo sekmesinde) \[Önceki yorumlar] John: Evde hastayım. Amigo: Gerçekten mi? John: İyi bir doktor tanıyor musun? |
+| `/savelog` | Geçerli sohbet sekmesini bir metin dosyasına kaydeder. | `/savelog` | (osu! dizininde "Chat" adlı gelecekteki bütün sohbet kayıtlarının saklanacağı bir klasör oluşturulur. |
+| `/watch [kullanıcı]` | `[kullanıcıyı]` izlemeye başlayın. | `/watch Amigo` | * Started spectating Amigo. (Amigo sahip olduğunuz bir beatmap oynarken, \[biraz yüklemenin ardından] adınız Amigo'nun ekranının sol tarafında gözükecek şekilde onu izlemeye başlayacaksınız.) |
 | `/nopm` | Yalnızca herkesten veya arkadaşlardan özel iletilere izin vermek arasında geçiş yapar. | `/nopm` | (Ekranın ortasında herkesten/yalnızca arkadaşlardan özel mesaj almaya izin verdiğinizi belirten bir yazı belirir.) |
 | `/invite [kullanıcı]` | Bağlantıyla birlikte çok oyunculu odaya bir `[kullanıcı]` davet eder. | '/invite Nathanael' | * Nathanael has been invited to the game |
 
