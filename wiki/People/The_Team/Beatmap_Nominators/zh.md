@@ -64,7 +64,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | 西班牙语 |
 | ![][flag_DE] [Mordred](https://osu.ppy.sh/users/7265097) | 德语 |
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | 德语 |
-| ![][flag_EE] [Namki](https://osu.ppy.sh/users/5248582) | 爱沙尼亚语, 俄语 |
 | ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | 中文 |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  |
@@ -184,7 +183,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 [flag_DE]: /wiki/shared/flag/DE.gif "德国"
 [flag_DZ]: /wiki/shared/flag/DZ.gif "阿尔及利亚"
 [flag_EC]: /wiki/shared/flag/EC.gif "厄瓜多尔"
-[flag_EE]: /wiki/shared/flag/EE.gif "爱沙尼亚"
 [flag_ES]: /wiki/shared/flag/ES.gif "西班牙"
 [flag_FI]: /wiki/shared/flag/FI.gif "芬兰"
 [flag_FR]: /wiki/shared/flag/FR.gif "法国"
