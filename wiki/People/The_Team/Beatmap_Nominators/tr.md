@@ -183,7 +183,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 [flag_DE]: /wiki/shared/flag/DE.gif "Almanya"
 [flag_DZ]: /wiki/shared/flag/DZ.gif "Cezayir"
 [flag_EC]: /wiki/shared/flag/EC.gif "Ekvador"
-[flag_EE]: /wiki/shared/flag/EE.gif "Estonya"
 [flag_ES]: /wiki/shared/flag/ES.gif "İspanya"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finlandiya"
 [flag_FR]: /wiki/shared/flag/FR.gif "Fransa"
