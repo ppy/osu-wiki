@@ -1,8 +1,8 @@
 <!-- TODO: dated images and links, formatting problems, writing could be done better instead of all these lists. I removed the `needs_cleanup` tag because this still details the Chat Console pretty well. -->
 
-# Sohbet Konsolu
+# Sohbet konsolu
 
-osu!'daki pek çok ekranda `F8` tuşuna ya da sağ alttaki `Show Chat` butonuna basarak Sobhet Konsolunun ekranın alt kısmında belirmesini sağlayabilirsiniz.
+osu!'daki pek çok ekranda `F8` tuşuna ya da sağ alttaki `Show Chat` butonuna basarak Sohbet Konsolunun ekranın alt kısmında belirmesini sağlayabilirsiniz.
 
 ![Chat Console](img/Chatconsole1.png "Sohbet Konsolu")
 
@@ -14,8 +14,8 @@ osu!'daki pek çok ekranda `F8` tuşuna ya da sağ alttaki `Show Chat` butonuna 
 | **Beyaz** | Siz |
 | **Soluk** | osu!supporter olmayanlar |
 | **Sarı** | [osu!supporter](/wiki/osu!supporter) |
-| **Red** | [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) ya da [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team ) üyesi |
-| **Yeşil** | Satır, adınızı veya "highlight" tetiklemek için eklediğiniz belirli anahtar kelimeleri içerir. İletinin bir kopyası, tüm bu satırları içeren özel bir kanal olan '#highlight' kanalında da görünür. |
+| **Kırmızı** | [Global Moderation Team](/wiki/People/The_Team/Global_Moderation_Team) ya da [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team ) üyesi |
+| **Yeşil** | Satır, adınızı veya "highlight" tetiklemek için eklediğiniz belirli anahtar kelimeleri içerir. İletinin bir kopyası, tüm bu satırları içeren özel bir kanal olan `#highlight` kanalında da görünür. |
 | **Mavi** | Özel Mesaj |
 | **Camgöbeği** | [peppy](https://osu.ppy.sh/users/2), osu!'nun yaratıcısı! |
 | **Pembe** | [BanchoBot](/wiki/BanchoBot) |
@@ -26,9 +26,9 @@ osu!'daki pek çok ekranda `F8` tuşuna ya da sağ alttaki `Show Chat` butonuna 
 
 ## Genişletilmiş Sohbet Konsolu
 
-*[osu!academy](/wiki/osu!academy) bu sayfayı [Çoklu](/wiki/Multi) ile birlikte [Episode 6(6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) videosunda ele aldı.*
+*[osu!academy](/wiki/osu!academy) bu sayfayı [Çok oyunculu](/wiki/Multi) ile birlikte [Episode 6(6:52)](https://www.youtube.com/watch?v=cyYRl-a5xII) videosunda ele aldı.*
 
-osu!'daki pek çok ekranda `F9` tuşuna ya da Intro Ekranı'nın sağ altındaki `Online Users` butonuna basarak Genişletilmiş Sobhet Konsolu'na erişebilirsiniz. Genişletilmiş Sohbet, Sohbet Konsoluna ek olarak ekranın geri kalan üçte ikisini kaplayarak şu anda osu'da oturum açmış olan kullanıcılar hakkında bilgi verir!
+osu!'daki pek çok ekranda `F9` tuşuna ya da Intro Ekranı'nın sağ altındaki `Online Users` butonuna basarak Genişletilmiş Sohbet Konsolu'na erişebilirsiniz. Genişletilmiş Sohbet, Sohbet Konsoluna ek olarak ekranın geri kalan üçte ikisini kaplayarak şu anda osu'da oturum açmış olan kullanıcılar hakkında bilgi verir!
 
 ![Extended chat console](img/Chat_Console-Extended.png "Genişletilmiş sohbet konsolu")
 
@@ -62,11 +62,11 @@ Herhangi bir kullanıcı paneline tıkladığınızda bir seçenek ekranı açı
 Etkinleştirmek için numarayı tıklatın veya çubuğu tıklatın:
 
 1. `İzlemeye Başla`: Eğer kullanıcı bir beatmap oynuyorsa ve siz beatmape sahipseniz, onları oynarken izleyebilirsiniz. Adınız Seyirciler listesinde yer alacak.
-2. `Profili Göster`: Oyuncunun profilinin Web sayfası tarayıcınızda açılır.
+2. `Profili Göster`: Oyuncunun profil Web sayfası tarayıcınızda açılır.
 3. `Sohbeti Başlat`: Kullanıcıyla özel sohbet sekmesini açar.
 4. `Oyuna davet et`: (Çoklu odadaysanız) Kullanıcıdan odanıza gelmesini isteyin.
-5. `Arkadaş Olarak Ekle (Arkadaşlıktan Kaldır)`: Kullanıcıyı arkadaş listenize ekler (veya listenizden kaldırır)
-6. `Kullanıcıyı Bildir...`: Kullanıcıyı kötü davranış için bildirin. Aksi belirtilmedikçe asla kullanılmamalıdır. Bir kullanıcıyı oyun içinde, ya da forumlarda olduğu gibi web'de, belli birkaç şey için raporlayabilirsiniz,
+5. `Arkadaş Olarak Ekle (Arkadaşlıktan Çıkar)`: Kullanıcıyı arkadaş listenize ekler (veya listenizden çıkarır).
+6. `Kullanıcıyı Bildir...`: Kullanıcıyı kötü davranış için bildirin. Aksi belirtilmedikçe asla kullanılmamalıdır. Bir kullanıcıyı oyun içinde, ya da forumlarda olduğu gibi web'de, belli birkaç şey için raporlayabilirsiniz.
 7. `Kullanıcıyı Sustur`: Kullanıcı tarafından yapılan herhangi bir sohbet gönderisi sizin sohbet konsolunuzda gözükmeyecektir.
 8. `Kapat`: Paneli kapatır.
 
@@ -79,9 +79,9 @@ Etkinleştirmek için numarayı tıklatın veya çubuğu tıklatın:
 | `/addfriend [kullanıcı]` | Arkadaş listenize `[kullanıcı]` ekleyin. | `/addfriend Amigo` | Artık Amigo ile arkadaşsınız. |
 | `/delfriend [kullanıcı]` | Arkadaş listenizden `[kullanıcı]` kaldırın. | `/delfriend Amigo` | Artık Amigo ile arkadaş değilsiniz. |
 | `/away [mesaj]` | Bir dışarıda iletisi ayarlar (Size PM gönderen kullanıcılara gönderilir). İptal etmek için iletiyi boş bırakın. | `/away Ben John Smith.` | You have been marked as being away: Ben John Smith. Amigo size /msg John Neredesin~? dediğinde BanchoBot: Ben John Smith. |
-| `/bb` | BanchoBot'a bir komutu doğrudan göndermenizi sağlar. | `/bb !faq tr:peppy` | peppy, osu!'nun kurucusu ve baş geliştiricisidir. Projelerin çoğunu kendisi yönetiyor. |
+| `/bb` | BanchoBot'a stats `[sayı]` bir komutu doğrudan göndermenizi sağlar. | `/bb stats 1` | [15/11/12] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
 | `/chat [kullanıcı]` | Belirtilen kullanıcıyla yeni bir sohbet sekmesi açın. | `/chat Amigo` | (Amigo sekmesi açıldı) |
-| `/clear` | Geçerli sohbet arabelleğini temizler. | '/clear' | (Geçerli sekmesinde aşağı yukarı her şeyi temizler) |
+| `/clear` | Geçerli sohbet penceresini temizler. | '/clear' | (Geçerli sekmede aşağı yukarı her şeyi temizler) |
 | `/ignore [kullanıcı][@chp]` | Bu oturum için belirtilen kullanıcıdan gelen tüm iletileri yoksayın. Bir @ ekledikten sonra ardından c, h ve/veya p harfi eklerseniz, onları sohbette (chat), vurgulamalarda (highlight) ve özel mesajlarda (Private message) susturabilirsiniz. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Sohbet konsolunuz artık Amigo'dan gelen herhangi bir sohbet mesajı \[c], Amigo tarafından yapılan herhangi bir vurgulamayı \[h], ve Amigo tarafından gönderilen herhangi özel mesajı \[p], dikkate almamak için ayarlandı. |
 | `/j [kanal]` veya `/join [kanal]` | Belirtilen kanala katılır | `/join #lobby` | (#lobby sekmesi açıldı) |
 | `/p` veya `/part` | Ayrıldığınız veya bıraktığınız geçerli kanalı kapatır. | `/part` | n/a |
