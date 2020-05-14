@@ -96,7 +96,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | 名字 | 语言 |
 | :-- | :-- |
 | ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | 德语 |
-| ![][flag_HK] [Cynplytholowazy](https://osu.ppy.sh/users/3901754) | 中文, 粤语 |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | 西班牙语 |
 | ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | 土耳其语 |
 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | 葡萄牙语, 西班牙语 |
@@ -152,6 +151,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  |
 | ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | 俄语 |
 | ![][flag_SG] [Smoke](https://osu.ppy.sh/users/10726630) |  |
+| ![][flag_EG] [Teky](https://osu.ppy.sh/users/10520912) | 阿拉伯语 |
 
 #### osu!taiko
 
@@ -169,7 +169,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ![][flag_MY] [\_Kobii](https://osu.ppy.sh/users/6209713) | 中文 |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | 韩语 |
 
 [flag_AT]: /wiki/shared/flag/AT.gif "奥地利"
@@ -183,6 +182,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 [flag_DE]: /wiki/shared/flag/DE.gif "德国"
 [flag_DZ]: /wiki/shared/flag/DZ.gif "阿尔及利亚"
 [flag_EC]: /wiki/shared/flag/EC.gif "厄瓜多尔"
+[flag_EG]: /wiki/shared/flag/EG.gif "埃及"
 [flag_ES]: /wiki/shared/flag/ES.gif "西班牙"
 [flag_FI]: /wiki/shared/flag/FI.gif "芬兰"
 [flag_FR]: /wiki/shared/flag/FR.gif "法国"
