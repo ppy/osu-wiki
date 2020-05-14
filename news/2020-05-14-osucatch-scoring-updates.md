@@ -10,11 +10,19 @@ Thanks to the efforts of many bright-minded individuals in the community, osu!ca
 
 Befitting of his name, long-term osu!catch player [Sorcerer](https://osu.ppy.sh/users/1913190) has taken the lead on a big update involving many aspects of how difficulty calculation and performance points work in osu!catch, complete with lots of math wizardry and careful adjustment.
 
-After much testing and discussion by the osu-dev community, his changes are now live in the game.
+After much testing and discussion by the osu-dev community, the cumulative changes are now being pushed to live. Note that it will take a few days for the updates to completely reflect. During this time, osu!catch pp updates may be delayed to maintain rank stability.
 
-Here's the rundown on what's changed, though if you're less acquainted with the gamemode (and math jargon), some of this might be a bit tricky to understand:
+## Deployment schedule
+
+| Task | Estimated Time | Progress |
+|:--|:-:|:-:|
+| Update beatmap star ratings | 30h | In progress |
+| Update users' scores performance | 12h | - |
+| Re-index users' top ranks | 3h | - |
 
 ## Difficulty Calculation Changes
+
+Here's the rundown on what's changed, though if you're less acquainted with the gamemode (and math jargon), some of this might be a bit tricky to understand:
 
 ### Edge Dash
 
