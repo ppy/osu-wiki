@@ -35,7 +35,7 @@ osu!'daki pek çok ekranda `F9` tuşuna ya da Intro Ekranı'nın sağ altındaki
 osu!'da oturum açmış olan her bir kullanıcının Genişletilmiş Sohbet'te görüntülenen bir kullanıcı paneli vardır. Varsayılan olarak, genel bilgileri (ad, toplam sıralama puanı, sıralama, doğruluk, oynatma sayısı ve varsa kullanıcının avatarı) görüntüler. Fare imleci üzerine yerleştirildiğinde, farklı bir bilgi kümesi (ad, sıralama, varsa avatar, yerel saat, saat dilimi, ülkeye göre konum ve kullanıcı izin verdiyse, şehir, ve ne yaptıklarını) görüntüler.
 
 - Arkadaşlar sadece arkadaşlarınızın ekranda görünmesini sağlar.
-- Lock Panels panellerin etrafta sekip durmasını ve yeni kullanıcıların ekrana düşmesini engeller.
+- Panelleri kitle panellerin etrafta sekip durmasını ve yeni kullanıcıların ekrana düşmesini engeller.
 - Kullanıcı panellerini bir özniteliğe göre sıralamak için o sekmeye tıklayın.
 - Herkesin nerede olduğunu gösteren bir dünya haritasını görüntülemek için dünya haritasına tıklayın.
 - Kaydırmak için beyaz kutuyu tıklatıp sürükleyebilirsiniz, fare tekerleğini de kullanabilirsiniz.
