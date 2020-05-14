@@ -193,7 +193,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 [flag_IT]: /wiki/shared/flag/IT.gif "İtalya"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japonya"
 [flag_KR]: /wiki/shared/flag/KR.gif "Güney Kore"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malezya"
 [flag_NL]: /wiki/shared/flag/NL.gif "Hollanda"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "Yeni Zellanda"
 [flag_PH]: /wiki/shared/flag/PH.gif "Filipinler"
