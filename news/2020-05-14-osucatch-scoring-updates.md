@@ -37,7 +37,7 @@ Edge dash threshold = 20
 Edge dash speed scaling = Bonus * (Math.Min(catchCurrent.StrainTime, 265) / 265)^1.5
 ```
 
-Overall, this should significantly increase the average Star Rating on maps with edge dashes, particularly on converted beatmaps from other modes.
+Overall, this should significantly increase the average Star Rating on maps with edge dashes, particularly on converted beatmaps.
 
 ### Hyperdash Bonus Removal
 
