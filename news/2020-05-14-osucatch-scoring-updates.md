@@ -6,7 +6,7 @@ date: 2020-05-14 03:00:00 +0000
 
 Thanks to the efforts of many bright-minded individuals in the community, osu!catch has just had its first Star Rating and Performance Points update in several years. Read on to discover the details!
 
-![](https://assets.ppy.sh/media/generic-header.jpg)
+![](/wiki/shared/news/2020-05-14-osucatch-scoring-updates/generic_equations.jpg)
 
 Befitting of his name, long-term osu!catch player [Sorcerer](https://osu.ppy.sh/users/1913190) has taken the lead on a big update involving many aspects of how difficulty calculation and performance points work in osu!catch, complete with lots of math wizardry and careful adjustment.
 
