@@ -79,13 +79,13 @@ Etkinleştirmek için numarayı tıklatın veya çubuğu tıklatın:
 | `/addfriend [kullanıcı]` | Arkadaş listenize `[kullanıcı]` ekleyin. | `/addfriend Amigo` | Artık Amigo ile arkadaşsınız. |
 | `/delfriend [kullanıcı]` | Arkadaş listenizden `[kullanıcı]` kaldırın. | `/delfriend Amigo` | Artık Amigo ile arkadaş değilsiniz. |
 | `/away [mesaj]` | Bir dışarıda iletisi ayarlar (Size PM gönderen kullanıcılara gönderilir). İptal etmek için iletiyi boş bırakın. | `/away Ben John Smith.` | You have been marked as being away: Ben John Smith. Amigo size /msg John Neredesin~? dediğinde BanchoBot: Ben John Smith. |
-| `/bb` | BanchoBot'a stats `[sayı]` bir komutu doğrudan göndermenizi sağlar. | `/bb stats 1` | \[15/11/12] Stats for Uan: Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
+| `/bb` | BanchoBot'a `!stats [user]` gibi bir komutu doğrudan göndermenizi sağlar. | `/bb stats Uan` | \[15/11/12] Stats for [Uan](https://osu.ppy.sh/users/147623): Score: 47,323,299,680 (#1) Plays: 176293 (lv102) Accuracy: 98.95% |
 | `/chat [kullanıcı]` | Belirtilen kullanıcıyla yeni bir sohbet sekmesi açın. | `/chat Amigo` | (Amigo sekmesi açıldı) |
 | `/clear` | Geçerli sohbet penceresini temizler. | '/clear' | (Geçerli sekmede aşağı yukarı her şeyi temizler) |
 | `/ignore [kullanıcı][@chp]` | Bu oturum için belirtilen kullanıcıdan gelen tüm iletileri yoksayın. Bir @ ekledikten sonra ardından c, h ve/veya p harfi eklerseniz, onları sohbette (chat), vurgulamalarda (highlight) ve özel mesajlarda (Private message) susturabilirsiniz. | `/ignore Amigo@chp` | BanchoBot: You will no longer hear Amigo {chat} {highlights} {PM} (Sohbet konsolunuz artık Amigo'dan gelen herhangi bir sohbet mesajı \[c], Amigo tarafından yapılan herhangi bir vurgulamayı \[h], ve Amigo tarafından gönderilen herhangi özel mesajı \[p], dikkate almamak için ayarlandı. |
 | `/j [kanal]` veya `/join [kanal]` | Belirtilen kanala katılır | `/join #lobby` | (#lobby sekmesi açıldı) |
 | `/p` veya `/part` | Ayrıldığınız veya bıraktığınız geçerli kanalı kapatır. | `/part` | n/a |
-| `/unignore [kullanıcı]` | Bu oturum için bu kullanıcıyı yoksaymayı durdurun. | `/unignore Amigo` | Şimdi Amigo'u duyabilirsin. (Sohbet konsolunuz, Amigo tarafından yapılan herhangi bir gönderiye izin verir) |
+| `/unignore [kullanıcı]` | Bu oturum için bu kullanıcıyı yoksaymayı durdurun. | `/unignore Amigo` | Şu anda Amigo adlı kullanıcıdan mesaj alabilirsin. (Sohbet konsolunuz, Amigo tarafından yapılan herhangi bir gönderiye izin verir) |
 | `/me [eylem]` | Üçüncü kişi bir eylemi gerçekleştirin. | `/me evde` | * John evde |
 | `/msg [kullanıcı] [mesaj]` | Belirtilen `[kullanıcıya]` özel bir mesaj gönderir. | `/msg Amigo Ben evde hastayım.` | (Amigo sekmesinde) Ben evde hastayım. |
 | `/np` | Dinlediğiniz veya çaldığınız geçerli şarkıyı sohbete yazdırır. | `/np` | (Oynuyorsanız) * John is listening to [Peter Lambert - osu! tutorial \[Gameplay Basics\]](https://osu.ppy.sh/beatmaps/22538) |
