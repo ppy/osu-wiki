@@ -193,7 +193,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 [flag_IT]: /wiki/shared/flag/IT.gif "意大利"
 [flag_JP]: /wiki/shared/flag/JP.gif "日本"
 [flag_KR]: /wiki/shared/flag/KR.gif "韩国"
-[flag_MY]: /wiki/shared/flag/MY.gif "马来西亚"
 [flag_NL]: /wiki/shared/flag/NL.gif "荷兰"
 [flag_NZ]: /wiki/shared/flag/NZ.gif "新西兰"
 [flag_PH]: /wiki/shared/flag/PH.gif "菲律宾"
