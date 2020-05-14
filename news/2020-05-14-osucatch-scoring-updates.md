@@ -23,12 +23,14 @@ Sometimes known as 'timing jumps' or 'pixel jumps', an edge dash is when the dis
 To better reflect the difficulty involved in this aspect of play, the existing edge dash bonus has been increased considerably. The bonus now also scales to better portray situations where edge dashes become easier as the hyperdash threshold widens.
 
 Old values:
+
 ```
 Bonus = 1.0
 Edge dash threshold = 10
 ```
 
 New values:
+
 ```
 Bonus = 5.7
 Edge dash threshold = 20
@@ -50,11 +52,13 @@ It was determined that this bonus didn't do much to reflect any real difficulty,
 Higher BPMs now have considerably less impact on the Star Rating of a given map. This makes maps more focused around speed have more reasonable values indicative of how difficult they are.
 
 Old values:
+
 ```
 StrainTime cap = 25ms
 ```
 
 New values:
+
 ```
 WeightedStrainTime = StrainTime + 16
 StrainTime cap = 40ms
@@ -65,11 +69,13 @@ StrainTime cap = 40ms
 The value awarded for direction changes has been adjusted to take the movement before the change into consideration. This will better represent the difficulty of said changes during play overall.
 
 Old values:
+
 ```
 direction_change_bonus = 12.5
 ```
 
 New values:
+
 ```
 direction_change_bonus = 21.0
 
@@ -87,11 +93,13 @@ Coupled with the adjustments to speed scaling, these combine to dramatically red
 As these new changes rate large jumps considerably higher than before, overall distance scaling has been reduced by a small amount in order to balance things out with the changes to how direction is handled.
 
 Old values:
+
 ```
 distanceMoved^1.3 / 500
 ```
 
 New values:
+
 ```
 distanceMoved^1.3 / 510
 ```
@@ -103,12 +111,14 @@ Most of these changes tend to lower Star Rating across the board, so the base bo
 In addition, the scaling factor for Star Rating has also been increased with the same aims in mind.
 
 Old values:
+
 ```
 movementBonus = 7.5
 starScalingFactor = 0.145
 ```
 
 New values:
+
 ```
 movementBonus = 12.5
 starScalingFactor = 0.153
