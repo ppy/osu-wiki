@@ -134,7 +134,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_US] [Kamuy](https://osu.ppy.sh/users/7439226) | biraz Korece |
 | ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | Korece |
 | ![][flag_AU] [Keiga](https://osu.ppy.sh/users/6866022) | Çince |
-| ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Çince, Kantonca |
 | ![][flag_ID] [Rivals\_7](https://osu.ppy.sh/users/4610379) | Endonezce |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arapça, Fransızca |
 | ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) | Flemenkçe |
@@ -149,8 +148,10 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | :-- | :-- |
 | ![][flag_KR] [Affirmation](https://osu.ppy.sh/users/6186628) | Korece |
 | ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  |
+| ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334) |  |
 | ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | Rusça |
 | ![][flag_SG] [Smoke](https://osu.ppy.sh/users/10726630) |  |
+| ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | Almanca |
 | ![][flag_EG] [Teky](https://osu.ppy.sh/users/10520912) | Arapça |
 
 #### osu!taiko
@@ -158,6 +159,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | İsim | Ek diller |
 | :-- | :-- |
 | ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851) | Almanca |
+| ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | Fransızca |
 
 #### osu!catch
 
@@ -169,6 +171,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 
 | İsim | Ek diller |
 | :-- | :-- |
+| ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Çince, Kantonca |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Korece |
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Avusturya"
