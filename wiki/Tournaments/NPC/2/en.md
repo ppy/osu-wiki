@@ -91,12 +91,14 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 | Nerf or Nothin' | ![][flag_US] **[FAITHFIRE007](https://osu.ppy.sh/users/11739464)**, ![][flag_US] [LakinBacon](https://osu.ppy.sh/users/12838237), ![][flag_CA] [Kiwi123Food](https://osu.ppy.sh/users/11682384) |
 | Rice Farmers | ![][flag_VN] **[lienzzhitzz](https://osu.ppy.sh/users/14638487)**, ![][flag_VN] [ketthesylveon](https://osu.ppy.sh/users/14065788) |
 | PoggersFish | ![][flag_US] **[Nebula3310](https://osu.ppy.sh/users/14729352)**, ![][flag_US] [Dr Sloth OWO](https://osu.ppy.sh/users/14655426) |
-| Bats From Wuhan | ![][flag_PL] **[MrChytry](https://osu.ppy.sh/users/9873693)**, ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_US] [iiTzTony](https://osu.ppy.sh/users/4426672) |
-| Warlords | ![][flag_IT] **[Ayor358](https://osu.ppy.sh/users/13088892)**, ![][flag_MY] [MarshyCookie](https://osu.ppy.sh/users/13193556) |
+| Bats From Wuhan | ![][flag_PL] **[MrChytry](https://osu.ppy.sh/users/9873693)**, ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_US] [iiTzTony](https://osu.ppy.sh/users/4426672), ![][flag_ID] [lukasliwandouw](https://osu.ppy.sh/users/3794420) |
+| Warlords | ![][flag_IT] **[Ayor358](https://osu.ppy.sh/users/13088892)**, ![][flag_MY] [MarshyCookie](https://osu.ppy.sh/users/13193556), ![][flag_UA] [dimavh](https://osu.ppy.sh/users/15056040) |
 | Ora Ora Ora | ![][flag_DE] **[Mysteri04](https://osu.ppy.sh/users/14967328)**, ![][flag_DE] [chrissi_42o](https://osu.ppy.sh/users/15676464), ![][flag_US] [X_boi_X](https://osu.ppy.sh/users/15240084) |
 | Vanilla Wafers | ![][flag_US] **[-Wiffles-](https://osu.ppy.sh/users/13432283)**, ![][flag_PH] [pokerfesh](https://osu.ppy.sh/users/14351977), ![][flag_GB] [Nagisa02](https://osu.ppy.sh/users/14713206) |
 | G Nome | ![][flag_US] **[MrJamesGaming](https://osu.ppy.sh/users/13730858)**, ![][flag_GB] [NightMia](https://osu.ppy.sh/users/11984807), ![][flag_US] [Irnea](https://osu.ppy.sh/users/13320919) |
 | Mousechokervn | ![][flag_VN] **[binhdz12345](https://osu.ppy.sh/users/15585184)**, ![][flag_VN] [snhangao](https://osu.ppy.sh/users/9529010), ![][flag_VN] [giangtruong](https://osu.ppy.sh/users/11287987) |
+| Amiegos de Firma | ![][flag_BR] **[1Nyaruko](https://osu.ppy.sh/users/12657367)**, ![][flag_BR] [cookietm](https://osu.ppy.sh/users/13282337) |
+| My Dog! | ![][flag_CA] **[garmgarma](https://osu.ppy.sh/users/13863006)**, ![][flag_US] [Dinal108](https://osu.ppy.sh/users/11449607) |
 
 ## Ruleset
 
