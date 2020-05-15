@@ -92,19 +92,19 @@ The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) an
 
 | Team A |  |  | Team B | Match time | Local time A | Local time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Belgium | ![][flag_BE] | ![][flag_CN] | China | **10:00 UTC** | 12:00 UTC+02 | 18:00 UTC+08 |
 | Taiwan | ![][flag_TW] | ![][flag_IT] | Italy | **11:30 UTC** | 19:30 UTC+08 | 13:30 UTC+02 |
-| South Korea | ![][flag_KR] | ![][flag_CL] | Chile | **13:00 UTC** | 22:00 UTC+09 | 09:00 UTC-04 |
-| Russian Federation | ![][flag_RU] | ![][flag_CA] | Canada | **17:00 UTC** | 20:00 UTC+03 | 12:00 UTC-05 |
+| France | ![][flag_FR] | ![][flag_HK] | Hong Kong | **13:00 UTC** | 15:00 UTC+02 | 21:00 UTC+08 |
 | Germany | ![][flag_DE] | ![][flag_MX] | Mexico | **18:30 UTC** | 20:30 UTC+02 | 13:30 UTC-05 |
 
 ### Sunday, 17 May 2020
 
 | Team A |  |  | Team B | Match time | Local time A | Local time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| France | ![][flag_FR] | ![][flag_HK] | Hong Kong | **11:00 UTC** | 13:00 UTC+02 | 19:00 UTC+08 |
+| South Korea | ![][flag_KR] | ![][flag_CL] | Chile | **3:00 UTC** | 12:00 UTC+09 | 23:00 (Sat.) UTC-04 |
+| Belgium | ![][flag_BE] | ![][flag_CN] | China | **9:30 UTC** | 11:30 UTC+02 | 17:30 UTC+08 |
 | Poland | ![][flag_PL] | ![][flag_ID] | Indonesia | **12:30 UTC** | 14:30 UTC+02 | 19:30 UTC+07 |
 | United States | ![][flag_US] | ![][flag_PH] | Philippines | **14:00 UTC** | 10:00 UTC-04 | 22:00 UTC+08 |
+| Russian Federation | ![][flag_RU] | ![][flag_CA] | Canada | **18:00 UTC** | 21:00 UTC+03 | 13:00 UTC-05 |
 
 ## Mappools
 
