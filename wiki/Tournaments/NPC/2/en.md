@@ -140,8 +140,8 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 7. Following the Qualifiers, Double Elimination stages will be played. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 8. **Winning conditions:**
    - The Round of 32 and Round of 16 will be best of 9 (first team to 5 wins).
-    - The Quarterfinals and Semifinals will be best of 11 (first team to 6 wins).
-    - The Finals and Grand Finals will be best of 13 (first team to 7 wins).
+   - The Quarterfinals and Semifinals will be best of 11 (first team to 6 wins).
+   - The Finals and Grand Finals will be best of 13 (first team to 7 wins).
 
 ### Match Instructions
 
@@ -151,8 +151,8 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
    - From Quarterfinals onwards, the number of bans increases to two.
    - A mod pool can not be banned completely.
 4. Each captain must use "!roll" once in the multiplayer lobby.
-    - The team with the higher roll chooses to **ban first** or **pick first**.
-    - The team that bans first will pick second, and vice versa.
+   - The team with the higher roll chooses to **ban first** or **pick first**.
+   - The team that bans first will pick second, and vice versa.
 5. Beatmap selection will alternate between each team selecting a beatmap out of the mappool, they may pick freely from any mod pool.
 6. In the case of a tie, the tiebreaker beatmap will be played.
 
@@ -161,13 +161,13 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 1. There will be a new mappool for every stage.
 2. Each mappool consists of 5 brackets: NoMod, Hidden, HardRock, DoubleTime and FreeMod.
 3. The FreeMod bracket will have Free Mod enabled.
-    - Possible mod choices are Hidden, HardRock and Hidden+HardRock.
-    - When playing a FreeMod map, one player **must** have any kind of mod choices enabled. For the other player, enabling mods is optional.
+   - Possible mod choices are Hidden, HardRock and Hidden+HardRock.
+   - When playing a FreeMod map, one player **must** have any kind of mod choices enabled. For the other player, enabling mods is optional.
 4. **NoFail will be enforced on all maps.**
 5. Each mappool has a specific size depending on the stage. 
-    - **The Round of 32 and Round of 16 mappool will have 4 NoMod maps, 3 DoubleTime maps, and 2 of each for the remaining mod brackets.**
-    - **The Quarterfinals and the Semifinals mappool will have 5 NoMod maps, 3 DoubleTime maps, and 2 of each for the remaining mod brackets.**
-    - **The Finals and the Grand Finals mappool will have 6 NoMod maps, 3 FreeMod maps, and 4 of each for the remaining mod brackets.**
+   - **The Round of 32 and Round of 16 mappool will have 4 NoMod maps, 3 DoubleTime maps, and 2 of each for the remaining mod brackets.**
+   - **The Quarterfinals and the Semifinals mappool will have 5 NoMod maps, 3 DoubleTime maps, and 2 of each for the remaining mod brackets.**
+   - **The Finals and the Grand Finals mappool will have 6 NoMod maps, 3 FreeMod maps, and 4 of each for the remaining mod brackets.**
 6. Each mappool has 1 tiebreaker beatmap.
 7. The tiebreaker will be played under FreeMod conditions.
    - When playing the tiebreaker, there are no mod requirements.
@@ -178,7 +178,7 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 2. All Double Elimination Stages will be held on Friday, Saturday, or Sunday, UTC+0.
 3. Scheduling will be handled by the administrators. Schedules will be released approximately one week before the first matches of the stage. The schedule will try to respect the participants' time zones.
 4. **All matches must be rescheduled 1 day before the first matches of the stage are played. Both teams must agree to a reschedule and informed an administrator for the reschedule to be valid.**
-    - Administrators has the right to decline reschedule requests.
+   - Administrators has the right to decline reschedule requests.
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
