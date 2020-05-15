@@ -134,7 +134,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_US] [Kamuy](https://osu.ppy.sh/users/7439226) | 部分韩语 |
 | ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | 韩语 |
 | ![][flag_AU] [Keiga](https://osu.ppy.sh/users/6866022) | 中文 |
-| ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | 中文, 粤语 |
 | ![][flag_ID] [Rivals\_7](https://osu.ppy.sh/users/4610379) | 印度尼西亚语 |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | 阿拉伯语, 法语 |
 | ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) | 荷兰语 |
@@ -149,8 +148,10 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | :-- | :-- |
 | ![][flag_KR] [Affirmation](https://osu.ppy.sh/users/6186628) | 韩语 |
 | ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  |
+| ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334) |  |
 | ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | 俄语 |
 | ![][flag_SG] [Smoke](https://osu.ppy.sh/users/10726630) |  |
+| ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | 德语 |
 | ![][flag_EG] [Teky](https://osu.ppy.sh/users/10520912) | 阿拉伯语 |
 
 #### osu!taiko
@@ -158,6 +159,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | 名字 | 语言 |
 | :-- | :-- |
 | ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851) | 德语 |
+| ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | 法语 |
 
 #### osu!catch
 
@@ -169,6 +171,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 
 | 名字 | 语言 |
 | :-- | :-- |
+| ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | 中文, 粤语 |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | 韩语 |
 
 [flag_AT]: /wiki/shared/flag/AT.gif "奥地利"
