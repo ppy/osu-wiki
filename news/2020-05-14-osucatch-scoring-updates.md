@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu!catch Scoring Updates"
-date: 2020-05-14 03:00:00 +0000
+date: 2020-05-15 05:00:00 +0000
 ---
 
 Thanks to the efforts of many bright-minded individuals in the community, osu!catch has just had its first Star Rating and Performance Points update in several years. Read on to discover the details!
