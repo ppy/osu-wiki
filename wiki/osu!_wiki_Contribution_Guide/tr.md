@@ -46,7 +46,7 @@ Eğer herhangi bir noktada kafanız karıştıysa ve/veya daha fazla yardıma ih
 
 4. Bunu düzeltmek için, [Yaygın Sorunlar makalesinden Branch'ım güncel değil! kısmına](/wiki/owcg/Common_Issues#my-branch-is-out-of-date!) gözatın.
 
-5. 4. adımı tamamladığınızda, [Çevrimiçi ya da yerel düzenleme](#çevrimiçi-ya-da-yerel-düzenleme) kısmına devam edin.
+5. 4\. adımı tamamladığınızda, [Çevrimiçi ya da yerel düzenleme](#çevrimiçi-ya-da-yerel-düzenleme) kısmına devam edin.
 
 ## Çevrimiçi ya da yerel düzenleme
 
