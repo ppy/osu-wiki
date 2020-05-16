@@ -67,7 +67,7 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 | SLAVA ZEMLYANAM | ![][flag_RU] **[Maruyama-](https://osu.ppy.sh/users/11853175)**, ![][flag_RU] [Skeyn](https://osu.ppy.sh/users/7899956), ![][flag_RU] [f55dota2](https://osu.ppy.sh/users/14126397), ![][flag_RU] [Bombooo2](https://osu.ppy.sh/users/9731395) |
 | Tapa na Cara | ![][flag_BR] **[Mr Capuccino](https://osu.ppy.sh/users/16224264)**, ![][flag_BR] [Megadestr](https://osu.ppy.sh/users/15795443) |
 | vai Brazilian | ![][flag_BR] **[ImHashRenai](https://osu.ppy.sh/users/15364219)**, ![][flag_BR] [Shinobu515](https://osu.ppy.sh/users/11516881) |
-| Chuchichäschtli | ![][flag_CH] **[[Arikawa]](https://osu.ppy.sh/users/6454830)**, ![][flag_CH] [Kvn_hot_potato](https://osu.ppy.sh/users/6228912), ![][flag_CH] [[ Kuromei ]](https://osu.ppy.sh/users/6675144) |
+| Chuchichäschtli | ![][flag_CH] **[[Arikawa]](https://osu.ppy.sh/users/6454830)**, ![][flag_CH] [Kvn_hot_potato](https://osu.ppy.sh/users/6228912), ![][flag_CH] [[ Kuromei ]](https://osu.ppy.sh/users/6675144), ![][flag_DE] [Sarsese](https://osu.ppy.sh/users/14406757) |
 | Fashionably Late | ![][flag_US] **[Dream10](https://osu.ppy.sh/users/11740481)**, ![][flag_US] [fourfifty](https://osu.ppy.sh/users/9653206), ![][flag_SV] [Mario564](https://osu.ppy.sh/users/14544646), ![][flag_US] [Serlum](https://osu.ppy.sh/users/12056779) |
 | osu!Coin | ![][flag_US] **[Lattice35](https://osu.ppy.sh/users/14902742)**, ![][flag_US] [PacoTaco03](https://osu.ppy.sh/users/9968194), ![][flag_US] [QuintecX](https://osu.ppy.sh/users/15458667/osu), ![][flag_US] [Cnolii](https://osu.ppy.sh/users/11246834) |
 | KuroNeko | ![][flag_PH] **[Ecstatify](https://osu.ppy.sh/users/14494059)**, ![][flag_TH] [Morosis](https://osu.ppy.sh/users/4114084), ![][flag_ID] [Fleure De Lapin](https://osu.ppy.sh/users/5569341/osu), ![][flag_VN] [-Yukina-](https://osu.ppy.sh/users/15470246) |
@@ -98,7 +98,12 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 | G Nome | ![][flag_US] **[MrJamesGaming](https://osu.ppy.sh/users/13730858)**, ![][flag_GB] [NightMia](https://osu.ppy.sh/users/11984807), ![][flag_US] [Irnea](https://osu.ppy.sh/users/13320919) |
 | Mousechokervn | ![][flag_VN] **[binhdz12345](https://osu.ppy.sh/users/15585184)**, ![][flag_VN] [snhangao](https://osu.ppy.sh/users/9529010), ![][flag_VN] [giangtruong](https://osu.ppy.sh/users/11287987) |
 | Amiegos de Firma | ![][flag_BR] **[1Nyaruko](https://osu.ppy.sh/users/12657367)**, ![][flag_BR] [cookietm](https://osu.ppy.sh/users/13282337) |
-| My Dog! | ![][flag_CA] **[garmgarma](https://osu.ppy.sh/users/13863006)**, ![][flag_US] [Dinal108](https://osu.ppy.sh/users/11449607) |
+| Puffochino | ![][flag_CA] **[garmgarma](https://osu.ppy.sh/users/13863006)**, ![][flag_US] [Dinal108](https://osu.ppy.sh/users/11449607) |
+| Last Minute | ![][flag_PH] **[pakaj123](https://osu.ppy.sh/users/13685832)**, ![][flag_US] [Shiro4102](https://osu.ppy.sh/users/14270286), ![][flag_BR] [M4SOPMODII](https://osu.ppy.sh/users/9674498), ![][flag_CA] [BaconStar](https://osu.ppy.sh/users/3253981) |
+| TURBO DYSON CORPORATION | ![][flag_FR] **[DYSONV8ABSOLUTE](https://osu.ppy.sh/users/15219106)**, ![][flag_FR] [edouardmareel](https://osu.ppy.sh/users/9315383), ![][flag_FR] [Maximalic](https://osu.ppy.sh/users/11617067) |
+| Peko Peko | ![][flag_US] **[- Polson -](https://osu.ppy.sh/users/12134789)**, ![][flag_US] [Raynei](https://osu.ppy.sh/users/14296379) |
+| Grubasy bez kasy | ![][flag_PL] **[Fafik](https://osu.ppy.sh/users/15681413)**, ![][flag_PL] [PrazMLG](https://osu.ppy.sh/users/13829179), ![][flag_PL] [AbixOfficial](https://osu.ppy.sh/users/14332906) |
+| Natas | ![][flag_DE] **[wavybloom](https://osu.ppy.sh/users/13784613)**, ![][flag_SK] [YesImSatan](https://osu.ppy.sh/users/14373729), ![][flag_DE] [RishoDxD](https://osu.ppy.sh/users/7228344), ![][flag_DE] [Keks-](https://osu.ppy.sh/users/14916999) |
 
 ## Ruleset
 
@@ -204,6 +209,7 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 [flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_SK]: /wiki/shared/flag/SK.gif "Slovakia"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_SV]: /wiki/shared/flag/SV.gif "El salvador"
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
