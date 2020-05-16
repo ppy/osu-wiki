@@ -19,7 +19,7 @@ nat:
     moderation: Moderasyon
     structural: Yapısal
 languages:
-  partial: Some <language>
+  partial: Biraz <language>
   ar: Arapça
   bg: Bulgarca
   ca: Katalanca
