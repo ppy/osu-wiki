@@ -106,7 +106,9 @@ Get your tech game going! This month we have yet another great 1/6 map by 7_7. T
 110 BPM, 2:01 | 7.22★  
 *description written by [-Kazu-](https://osu.ppy.sh/users/920861)*
 
-ll-oscar is probably one of the most experienced high-BPM mappers, with jewels like *Scarlet Rose*, *iLLness LiLin* or *Towa Naru Kizuna to Omoi no Kiseki*, he has been mapping these kinds of difficulties for years now. This time we're bringing shio's *Qronostasis*, which reaches a whopping 350 BPM filled with very thoughtful and flow-oriented patterning and so being quite satisfying to play (if you can handle the BPM, that is). As one of the most hype maps to watch back in TWC 2019 (with KyouRekii87 doing an insane performance both times he had to play it and an FC barely escaping his grasp), we decided this one would be the perfect map to bring to this cycle. Good luck!
+ll-oscar is probably one of the most experienced high-BPM mappers, with jewels like *Scarlet Rose*, *iLLness LiLin* or *Towa Naru Kizuna to Omoi no Kiseki*, he has been mapping these kinds of difficulties for years now. This time we're bringing shio's *Qronostasis*, which reaches a whopping 350 BPM filled with very thoughtful and flow-oriented patterning and so being quite satisfying to play (if you can handle the BPM, that is).
+
+As one of the most hype maps to watch back in TWC 2019 (with KyouRekii87 doing an insane performance both times he had to play it and an FC barely escaping his grasp), we decided this one would be the perfect map to bring to this cycle. Good luck!
 
 ## <a id="catch"></a>osu!catch
 
@@ -137,7 +139,9 @@ We're back again with a map from Vincs, a French cover of the well-known song *D
 100 BPM, 3:22 | 5.94★, 4.79★  
 *description written by [Sartan](https://osu.ppy.sh/users/4100941)*
 
-Coming in with the most fire song of this osu!catch round of Loved (hihi haha) we have another entry from our dear veteran mapper Spectator. This set features only two difficulties, but with the song being 3:22 long, there is still quite a lot to be seen. In this set we have a surprisingly nicely mapped rain by Ollapeu, somebody that has not yet been featured in Loved. There are not real weird gimmicks to be found in this set, it is very purely mapped, but that does not mean it can't pose a challenge even to the better players in our community when combined with mods such as HardRock or even DoubleTime on either of these difficulties. So go fire up your game (I did it again! Hihihi hahaha) and check it out!
+Coming in with the most fire song of this osu!catch round of Loved (hihi haha) we have another entry from our dear veteran mapper Spectator. This set features only two difficulties, but with the song being 3:22 long, there is still quite a lot to be seen. In this set we have a surprisingly nicely mapped rain by Ollapeu, somebody that has not yet been featured in Loved.
+
+There are not really many weird gimmicks to be found in this set as it is very purely mapped, but that does not mean it can't pose a challenge even to the better players in our community when combined with mods such as HardRock or even DoubleTime on either of these difficulties. So go fire up your game (I did it again! Hihihi hahaha) and check it out!
 
 [![](/wiki/shared/news/2020-05-15-project-loved-may-2020/catch/4-come-back-home.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -145,7 +149,9 @@ Coming in with the most fire song of this osu!catch round of Loved (hihi haha) w
 150 BPM, 3:47 | 8.18★  
 *description written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
 
-119410501 is known as a very skilled player in the catch community, yet his maps are not known nowadays and haven't been receiving much attention, which I think is a shame, because he made some fun maps that certainly do deserve more attention than they get. One of those maps is *COME BACK HOME*. It is a very hard map with unorthodox patterns and some of them feel close to impossible to catch. It's easy to miss an entire pattern and die because of the drain. Let alone getting a pass is really difficult. But this challenging aspect is what makes the map fun and increases its replay value. Meaning if you are looking for a challenge that might take you a while, then make sure to give this map a try!
+119410501 is known as a very skilled player in the catch community, yet his maps are not known nowadays and haven't been receiving much attention, which I think is a shame, because he made some fun maps that certainly do deserve more attention than they get. One of those maps is *COME BACK HOME*.
+
+A very hard map with unorthodox patterns bordering on the impossible, it is easy to miss an entire pattern and die because of the drain, let alone getting a pass!. But this challenging aspect is what makes the map so fun and increases its replay value. If you are looking for a challenge that might take you a while, then make sure to give this map a try!
 
 ## <a id="mania"></a>osu!mania
 
@@ -158,28 +164,38 @@ osu!mania Loved candidates were chosen by [-mint-](https://osu.ppy.sh/users/8976
 [Dev/Null - Zombie Sunset](https://osu.ppy.sh/beatmapsets/905658#mania) by [Vortex-](https://osu.ppy.sh/users/4999669)  
 301 BPM, 3:43 | \[4K\] 6.26★, \[4K\] 5.14★, \[4K\] 5.52★, \[4K\] 5.91★, \[4K\] 4.71★
 
-Dev/Null is an artist that has been in the VSRG circles for over a decade now, but only for a couple of years in the Loved circle of osu!mania. The next submission to be given that honor is coming up right now, with Vortex-'s chart for *Zombie Sunset*. Just like almost any other Dev/Null song out there, the breakcore music is very complicated, something that Vortex- has capitalised greatly on, allowing for a structure that takes advantage of recurring sounds to make it consistent, but also keeping it varied throughout by utilizing the complicated structure brought forth to him. Things that come to mind when appreciating Vortex-'s map are the intricate LNs and flams used for specific sounds, but also the focus on columns equating to other sounds and the repeating percussion. This all culminates in a wonderful and exciting file very fit for the Loved section.
+Dev/Null is an artist that has been in the VSRG circles for over a decade now, but only for a couple of years in the Loved circle of osu!mania. The next submission to be given that honor is coming up right now, with Vortex-'s chart for *Zombie Sunset*.
+
+Just like almost any other Dev/Null song out there, the breakcore music is very complicated, something that Vortex- has capitalised greatly on, allowing for a structure that takes advantage of recurring sounds to make it consistent, but also keeping it varied throughout by utilizing the complicated structure brought forth by him.
+
+Things that come to mind when appreciating Vortex-'s map are the intricate LNs and flams used for specific sounds, but also the focus on columns equating to other sounds and the repeating percussion. This all culminates in a wonderful and exciting entry very fit for the Loved section.
 
 [![](/wiki/shared/news/2020-05-15-project-loved-may-2020/mania/2-wallspin.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [Neil Cicierega - Wallspin](https://osu.ppy.sh/beatmapsets/850099#mania) by [Pope Gadget](https://osu.ppy.sh/users/2288341)  
 175 BPM, 3:14 | \[4K\] 5.08★, \[4K\] 5.50★, \[4K\] 5.95★
 
-A familiar face in the Loved section, Pope Gadget returns with *Wallspin*. It's not often that you see this kind of music in osu!mania, and it is even less likely to encounter a mashup of two well-known songs. A community favorite of the osu!mania 4K World Cup 2018, *Wallspin* is a name that any tournament regular or competitive speed player in recent years should be able to recognize. Reaching a whopping 340.7 BPM in the chorus sections, with 511 BPM rolly bursts scattered throughout the map, playing this map is no easy task. It's a great challenge for many speed players, which only added to its popularity following its use in MWC. Given its community recognition and popularity, *Wallspin* most definitely deserves its spot in the Loved section. Anyway, here's Wonderwall.
+A familiar face in the Loved section, Pope Gadget returns with *Wallspin*. It's not often that you see this kind of music in osu!mania, and it is even less likely to encounter a mashup of two well-known songs. A community favorite of the osu!mania 4K World Cup 2018, *Wallspin* is a name that any tournament regular or competitive speed player in recent years should be able to recognize.
+
+Reaching a whopping 340.7 BPM in the chorus sections, with 511 BPM rolly bursts scattered throughout the map, playing this map is no easy task. It's a great challenge for many speed players, which only added to its popularity following its use in MWC. Given its community recognition and popularity, *Wallspin* most definitely deserves its spot in the Loved section. Anyway, here's Wonderwall.
 
 [![](/wiki/shared/news/2020-05-15-project-loved-may-2020/mania/3-berry-go.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [Freezer feat. Kiichigo - Berry Go!!](https://osu.ppy.sh/beatmapsets/677465#mania) by [PiraTom](https://osu.ppy.sh/users/1847698)  
 175 BPM, 1:54 | \[4K\] 4.51★
 
-Over the years, PiraTom has been revered as one of Japan's great LN mappers, a very well-deserved title. *Berry Go!!* is demonstrative of this: it is a well-designed, fun long-note map, serving as a perfect introduction to LN maps at the intermediate level. *Berry Go!!* is generally well-known in tournament circles, and is a very popular and recognizable map in the competitive LN scene. With its speedy and articulate nature, as seen in many of the bursts and near-inverse patterns, it doesn't come at a surprise that this map is greatly enjoyed by LN players of a wide range of skill - though part of its popularity undoubtedly stems from how catchy the song is. With all of this in mind, this map is most certainly a well-suited candidate for the Loved section. Berry go, go, go!
+Over the years, PiraTom has been revered as one of Japan's great LN mappers, a very well-deserved title. *Berry Go!!* is demonstrative of this: it is a well-designed, fun long-note map, serving as a perfect introduction to LN maps at the intermediate level. *Berry Go!!* is generally well-known in tournament circles, and is a very popular and recognizable map in the competitive LN scene.
+
+With its speedy and articulate nature, as seen in many of the bursts and near-inverse patterns, it doesn't come at a surprise that this map is greatly enjoyed by LN players of a wide range of skill—though part of its popularity undoubtedly stems from how catchy the song is. With all of this in mind, this map is most certainly a well-suited candidate for the Loved section. Berry go, go, go!
 
 [![](/wiki/shared/news/2020-05-15-project-loved-may-2020/mania/4-raise-my-sword.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [GALNERYUS - RAISE MY SWORD](https://osu.ppy.sh/beatmapsets/661715#mania) by [IcyWorld](https://osu.ppy.sh/users/1383951)  
 184 BPM, 7:02 | \[4K\] 5.11★
 
-The ever large downtown block cultivated by IcyWorld is one of the biggest and most recognizable of anyone in osu!mania and StepMania, with titles like *Cyber Inductance* and *Sa'eed* rounding out his collection as some of the most popular. That repertoire will only grow larger with the nomination of *Raise My Sword*! In true IcyWorld fashion, it's a 7 minute, stamina shredding marathon with a near constant stream of jumpstream, handstream, and speedy bursts. The straightforward approach is certainly a beloved one among the community, and it is backed by very exciting music in Galneryus' signature power metal, never showing signs of breaking from the intensity it sets out for, even during the musical breaks. *Raise My Sword* is a clear choice as a nomination for the loved section through its massive popularity and straightforward nature, sure to grab the intrigue of anyone who passes by.
+The ever large downtown block cultivated by IcyWorld is one of the biggest and most recognizable of anyone in osu!mania and StepMania, with titles like *Cyber Inductance* and *Sa'eed* rounding out his collection as some of the most popular. That repertoire will only grow larger with the nomination of *Raise My Sword*! In true IcyWorld fashion, it's a 7 minute, stamina shredding marathon with a near constant stream of jumpstream, handstream, and speedy bursts.
+
+The straightforward approach is certainly a beloved one among the community, and it is backed by very exciting music in Galneryus' signature power metal, never showing signs of breaking from the intensity it sets out for, even during the musical breaks. *Raise My Sword* is a clear choice as a nomination for the loved section through its massive popularity and straightforward nature, sure to grab the intrigue of anyone who passes by.
 
 [![](/wiki/shared/news/2020-05-15-project-loved-may-2020/mania/5-toumei-na-kioku-no-kazaana.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -188,7 +204,7 @@ The ever large downtown block cultivated by IcyWorld is one of the biggest and m
 
 For this wave, we're having two 7K noodle charts back to back! Our first pick comes from a crowd favorite: KenZ!
 
-Taking advantage of playful LN releases mixed with 1/8 streams and LN lengths. The chart takes common O2Jam mapping tropes and combines these into producing a very challenging and expressive notechart and making these patterns work at 180 BPM is no laughing matter. Best of luck to those up for the challenge!
+Taking advantage of playful LN releases mixed with 1/8 streams and LN lengths, this chart takes common O2Jam mapping tropes and combines them into a very challenging and expressive notechart, masterfully making the whole thing work at a whopping 180 BPM. Best of luck to those up for the challenge!
 
 [![](/wiki/shared/news/2020-05-15-project-loved-may-2020/mania/6-sky-of-twilight.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
