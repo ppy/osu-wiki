@@ -18,7 +18,7 @@ After much testing and discussion by the osu-dev community, the cumulative chang
 |:--|:-:|:-:|
 | Update beatmap star ratings | 30h | Done |
 | Update users' scores performance | 12h | Done |
-| Re-index users' top ranks | 3h | In Progress |
+| Re-index users' top ranks | 3h | Done |
 
 ## Difficulty Calculation Changes
 
