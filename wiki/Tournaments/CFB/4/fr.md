@@ -95,10 +95,39 @@ Dimanche, 17 Mai 2020:
 | #35² | Remyria ![][flag_CA] | ![][flag_FR] AttilaPhoenix | **19:00** |
 | #36² | Ladylag ![][flag_FR] | ![][flag_FR] AttilaPhoenix | **19:00** |
 
-¹ Confrontation dépendant du perdant du Match #32  
+¹ Confrontation dépendant du perdant du Match #32
 ² Confrontation dépendant du perdant du Match #31
 
 ## Mappools
+
+### Finales
+
+**[Download the mappack here! (86 MB)](https://wetransfer.com/downloads/9e57a92911b54453fbd3f550bceb28df20200517205914/c1d593)**
+
+- NoMod
+  - [Haruna Luna - Momoiro Typhoon (Trynna) \[Net0's Insane\]](https://osu.ppy.sh/beatmapsets/916277#fruits/1913606)
+  - [yanaginagi - Mitsuba no Musubime (TV Size) (Ascendance) \[Illumination\]](https://osu.ppy.sh/beatmapsets/519146#fruits/1102930)
+  - [Ayane - Senpuu no Mai \[Chi\] (Nao Tomori) \[Mordred's Insane\]](https://osu.ppy.sh/beatmapsets/781693#fruits/1656122)
+  - [Seven Lions & Echos - Cold Skin (-Ken) \[Rain\]](https://osu.ppy.sh/beatmapsets/946446#fruits/1976187)
+  - [Krewella - Surrender The Throne (Trynna) \[Insane\]](https://osu.ppy.sh/beatmapsets/767566#fruits/1613624)
+  - [TeamGrimoire+Amaneko - croiX (HelloSCV) \[Spec's CTB Rain\]](https://osu.ppy.sh/beatmapsets/88692#fruits/274012)
+- Hidden
+  - [Cash Cash RMX - Escape From The City (Pereira006) \[Insane\]](https://osu.ppy.sh/beatmapsets/385028#fruits/846662)
+  - [Ichiki Mitsuhiro, Masuda Toshiki - Akekure Nikki (tutuhaha) \[Insane\]](https://osu.ppy.sh/beatmapsets/523619#fruits/1111586)
+  - [Masayoshi Minoshima feat. Sakaue Nachi - ILIAS (-kevincela-) \[Another\]](https://osu.ppy.sh/beatmapsets/373543#fruits/818368)
+  - [ginkiha - nightfall (-Joni-) \[gloaming\]](https://osu.ppy.sh/beatmapsets/1151833#fruits/2415949)
+- HardRock
+  - [nekodex - aureole (MBomb) \[Hyperion's Salad\]](https://osu.ppy.sh/beatmapsets/1056354#fruits/2236424)
+  - [Ayahi Takagaki - Kigurumi Wakusei (TV Size) (KIA) \[Hard\]](https://osu.ppy.sh/beatmapsets/12796#fruits/48146)
+  - [Co shu Nie - asura (fayew) \[salad\]](https://osu.ppy.sh/beatmapsets/1101376#fruits/2388578)
+  - [Daniel Ingram - Raise This Barn (rezoons) \[Hard\]](https://osu.ppy.sh/beatmapsets/71542#fruits/204980)
+- DoubleTime
+  - [Seven Lions with Myon and Shane 54 - Strangers (Feat. Tove Lo) (Maeglwn) \[Hard\]](https://osu.ppy.sh/beatmapsets/192347#fruits/457455)
+  - [Dream Theater - Wait for Sleep (JBHyperion) \[Platter\]](https://osu.ppy.sh/beatmapsets/381125#fruits/833902)
+  - [Yousei Teikoku - Weiss Fluegel (lolcubes) \[Insane\]](https://osu.ppy.sh/beatmapsets/39320#fruits/125434)
+  - [Roselia - This game (-Aqua) \[Xetopia's Platter\]](https://osu.ppy.sh/beatmapsets/749557#fruits/1602435)
+- Tiebreaker
+  - **[Sakamoto Maaya - Okaerinasai (tomatomerde Remix) (hikikochan) \[Ascendance's Reunion\]](https://osu.ppy.sh/beatmapsets/544468#fruits/1161865)**
 
 ### Demi-finales
 
