@@ -65,34 +65,36 @@ The OIT 2020 was run by various Indonesian osu! community members.
 
 ### Finals week 2
 
-**[Download the mappack here! (188 MB)](https://drive.google.com/file/d/1ooSskA_Q2pbYDkrXmRW2GKamWRWdv1Ky/view)**
+**[Download the mappack here! (193 MB)](https://drive.google.com/file/d/1aoZ8Nzl-GhFzPnOnMIAsdoMVbEt9BFej/view)**
 
 - NoMod
-  - [ELFENSJoN - Hyousou wa Hakuen o Matoite (Xayah) \[White Flame\]](https://osu.ppy.sh/beatmapsets/1019071#osu/2132486)
-  - [xi - Hesperides (Kroytz) \[Dystopia\]](https://osu.ppy.sh/beatmapsets/400343#osu/871116)
-  - [Camellia - Syzygia (Realazy) \[den 1's Extra\]](https://osu.ppy.sh/beatmapsets/1027467#osu/2148623)
-  - [Sota Fujimori - DANCE ALL NIGHT (- Yoshimaro -) \[Delight\]](https://osu.ppy.sh/beatmapsets/600303#osu/1268530)
-  - [Dayum - Gwyn (Shidoni) \[Extreme\]](https://osu.ppy.sh/beatmapsets/985884#osu/2063785)
-  - [ZUTOMAYO - Seigi (sukiNathan) \[quack\]](https://osu.ppy.sh/beatmapsets/1011155#osu/2116466)
+  - [ELFENSJoN - Shiroki Yume wa Madara ni (Nao Tomori) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1083468#osu/2266069)
+  - [Sound Souler - Absent Color (Sonnyc) \[ExpertPlus\]](https://osu.ppy.sh/beatmapsets/1093465#osu/2285424)
+  - [3R2 - Mischievous Masquerade (Settia) \[Casual\]](https://osu.ppy.sh/beatmapsets/601896#osu/1565720)
+  - [Nekrogoblikon - The Skin Thief (LMT) \[SILENCE PLAYER & Hectic's Extra\]](https://osu.ppy.sh/beatmapsets/1061535#osu/2279004)
+  - [Felicity of the Millennium - Sacred Renaissance (Sebu) \[Tomb of the Fallen Angel\]](https://osu.ppy.sh/beatmapsets/1116692#osu/2332798)
+  - [RADWIMPS - Zen Zen Zense (movie ver.) (Realazy) \[Mir's Expert\]](https://osu.ppy.sh/beatmapsets/1094435#osu/2287358)
 - Hidden
-  - [Lite Show Magic - TRICKL4SH 220 (22,000 Power Extended) (RLC) \[apaffy's MAXIMUM\]](https://osu.ppy.sh/beatmapsets/971450#osu/2129220)
-  - [guna with team kyukkyu - subconsciousness (Snow Note) \[Another\]](https://osu.ppy.sh/beatmapsets/151945#osu/413428)
-  - [ELFENSJoN - PHANTOM (Kalibe) \[DELUSJoN\]](https://osu.ppy.sh/beatmapsets/602367#fruits/1580728)
+  - [REDALiCE feat. MONICO - Breakin' Chain (Yusomi) \[ak74's Extra\]](https://osu.ppy.sh/beatmapsets/943867#osu/2368235)
+  - [hololive - Ochame Kinou (Liszt) \[OTAKU\]](https://osu.ppy.sh/beatmapsets/1164270#osu/2428685)
+  - [graves & MYRNE - Tiger Blood (VINXIS) \[vintyui\]](https://osu.ppy.sh/beatmapsets/451850#osu/969314)
 - HardRock
-  - [Kanzaki Elza starring Reona - Dancer in the Discord (Kibbleru) \[Masquerade\]](https://osu.ppy.sh/beatmapsets/1109271#osu/2318096)
-  - [Eisyo-kobu - Oriental Blossom (Crystal) \[yf's Expert\]](https://osu.ppy.sh/beatmapsets/586889#osu/1242793)
-  - [SawanoHiroyuki[nZk]:Tielle & Gemie - sh0ut (Gaia) \[aL†aiR\]](https://osu.ppy.sh/beatmapsets/641854#osu/1360912)
+  - [PUP - Free At Last (Icekalt) \[Solo in the End\]](https://osu.ppy.sh/beatmapsets/1133317#osu/2366967)
+  - [ETIA. - Nihonshiki Koukaku-OukaRanman- (Luscent) \[Extra\]](https://osu.ppy.sh/beatmapsets/1100842#osu/2299955)
+  - [HyuN feat. LyuU - Cross Over (Down) \[Extra\]](https://osu.ppy.sh/beatmapsets/922249#osu/1925935)
 - DoubleTime
-  - [Hyadain - Hyadain no Kakakata Kataomoi-C (Hakeru Prismriver) \[2011 Collab (osu! Indonesia Tournament 2020 Edit)\]](https://osu.ppy.sh/beatmapsets/1139584#osu/2380386)
-  - [Sayuri - Tsuki to Hanataba (Mirash) \[Insane\]](https://osu.ppy.sh/beatmapsets/780885#osu/1641266)
-  - [Haruna Luna - Kimiiro Signal (CelsiusLK) \[Expert\]](https://osu.ppy.sh/beatmapsets/326621#osu/725166)
-  - [Juno Reactor - Guardian Angel (PandaHero) \[Insane\]](https://osu.ppy.sh/beatmapsets/965524#osu/2021129)
+  - [JUNNA - Vai! Ya! Vai! (Yohanes) \[Insane\]](https://osu.ppy.sh/beatmapsets/1088269#osu/2275555)
+  - [Liz Triangle - Veda (eiri-) \[Ayyrohas' Insane\]](https://osu.ppy.sh/beatmapsets/979392#osu/2096828)
+  - [RIOT - Overkill (Xen) \[Insane\]](https://osu.ppy.sh/beatmapsets/992847#osu/2356185)
+  - [Reol - Gokusaishiki (Chaoslitz) \[HW's Another\]](https://osu.ppy.sh/beatmapsets/422369#osu/963412)
 - FreeMod
-  - [ak+q feat. Sennzai - Solitary Dream (-\[Pino\]-) \[Kuuhaku\]](https://osu.ppy.sh/beatmapsets/1012249#osu/2118753)
-  - [VALLEYSTONE feat. Kanata.N - Natsuirozaka (kwk) \[Luscent's Extra\]](https://osu.ppy.sh/beatmapsets/950550#osu/1994839)
-  - [OSTER project - Capriccio of My Mind (7odoa) \[Extra\]](https://osu.ppy.sh/beatmapsets/107475#osu/281632)
+  - [Roselia - R (Doormat) \[Rosenlied\]](https://osu.ppy.sh/beatmapsets/820180#osu/1719416)
+  - [Camellia as "Reverse of Riot" - Completeness Under Incompleteness (Regou) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/514750#osu/1093434)
+  - [bibuko - Sorairo Gahou (val0108) \[0108-Insane\]](https://osu.ppy.sh/beatmapsets/106010#osu/277983)
 - Tiebreaker
-  - **[Amuro vs Killer - Mei (Camellia's "Yomigae' Remix) (RLC) \[Resurrection\]](https://osu.ppy.sh/beatmapsets/1123064#osu/2346860)**
+  - **[Unlucky Morpheus - Angreifer (Scarsnic) \[Zeitlos\]](https://osu.ppy.sh/beatmapsets/581468#osu/1230741)**
+  - **[Nhato - Ibuki (Alheak) \[Second Wind\]](https://osu.ppy.sh/beatmapsets/557579#osu/1179747)**
+  - **[Camellia - KillerBeast (Mir) \[thzz' Blaster\]](https://osu.ppy.sh/beatmapsets/1019290#osu/2156070)**  
 
 ### Finals week 1
 
