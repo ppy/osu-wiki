@@ -112,9 +112,9 @@ The OIT 2020 was run by various Indonesian osu! community members.
   - [Ampzer - Lotus (-PC) \[Extra\]](https://osu.ppy.sh/beatmapsets/745475#osu/1571592)
   - [69 de 74 - Aratanaru Ketsui (Yooh) \[Renaissance\]](https://osu.ppy.sh/beatmapsets/754704#osu/1890973)
 - HardRock
-  - [Function Phantom - Variable (Chaoslitz) \[Deluxe\]](https://osu.ppy.sh/beatmapsets/751774#osu/1582594)
-  - [Kola Kid - timer (Mirash) \[Extra\]](https://osu.ppy.sh/beatmapsets/1089084#osu/2277126)
-  - [FELT - Last Wind (Tsumia) \[Normal\]](https://osu.ppy.sh/beatmapsets/1092488#osu/2283680)
+  - [The Ghost of 3.13 - Daydream (Pittigbaasje) \[Pittig\]](https://osu.ppy.sh/beatmapsets/411990#osu/893916)
+  - [Brandy - Cross Time !! (Leader) \[captin's Extra\]](https://osu.ppy.sh/beatmapsets/973162#osu/2067296)
+  - [Akatsuki Records - Trance Dance Anarchy (papapa213) \[Dancing!\]](https://osu.ppy.sh/beatmapsets/1056140#osu/2207263)
 - DoubleTime
   - [Reol - Midnight Stroller (Chaoslitz) \[Nightfall\]](https://osu.ppy.sh/beatmapsets/388428#osu/847341)
   - [doriko - Romeo and Cinderella (Chewin) \[Insane\]](https://osu.ppy.sh/beatmapsets/674753#osu/1427613)
