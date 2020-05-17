@@ -77,28 +77,50 @@ La Catch French Beginner 4 ést gérée par différents membres de la communaut�
 | C | ![][flag_FR] [Riki no Kage](https://osu.ppy.sh/users/1549032) | ![][flag_FR] [-Dragolord-](https://osu.ppy.sh/users/9473359) | ![][flag_FR] [MarsJackson](https://osu.ppy.sh/users/8479894) | ![][flag_FR] [Athedos](https://osu.ppy.sh/users/10722269) |
 | D | ![][flag_FR] [Jibsz](https://osu.ppy.sh/users/12269489) | ![][flag_FR] [Trifano](https://osu.ppy.sh/users/15126172) | ![][flag_CA] [Zyoulou](https://osu.ppy.sh/users/8668722) | ![][flag_FR] [sullymaster](https://osu.ppy.sh/users/6765259) |
 
-## Planning des matches: Demi-finales
+## Planning des matches: Finales
 
-Samedi, 16 Mai 2020:
-
-| ID du match | Joueur 1 | Joueur 2 | Horaire du match (UTC+2) |
-| :-: | --: | :-- | :-: |
-| #32 | Hecatia15 ![][flag_FR] | ![][flag_FR] Jibsz | **16:00** |
-| #31 | Remyria ![][flag_CA] | ![][flag_FR] Ladylag | **19:00** |
-
-Dimanche, 17 Mai 2020:
+Samedi, 23 Mai 2020:
 
 | ID du match | Joueur 1 | Joueur 2 | Horaire du match (UTC+2) |
 | :-: | --: | :-- | :-: |
-| #33¹ | Hecatia15 ![][flag_FR] | ![][flag_FR] Trifano | **16:00** |
-| #34¹ | Jibsz ![][flag_FR] | ![][flag_FR] Trifano | **16:00** |
-| #35² | Remyria ![][flag_CA] | ![][flag_FR] AttilaPhoenix | **19:00** |
-| #36² | Ladylag ![][flag_FR] | ![][flag_FR] AttilaPhoenix | **19:00** |
+| #31 | Remyria ![][flag_CA] | ![][flag_FR] Hecatia15 | **19:00** |
 
-¹ Confrontation dépendant du perdant du Match #32  
-² Confrontation dépendant du perdant du Match #31
+Dimanche, 24 Mai 2020:
+
+| ID du match | Joueur 1 | Joueur 2 | Horaire du match (UTC+2) |
+| :-: | --: | :-- | :-: |
+| #32 | Trifano ![][flag_FR] | ![][flag_FR] Madeline | **18:00** |
 
 ## Mappools
+
+### Finales
+
+**[Download the mappack here! (86 MB)](https://wetransfer.com/downloads/9e57a92911b54453fbd3f550bceb28df20200517205914/c1d593)**
+
+- NoMod
+  - [Haruna Luna - Momoiro Typhoon (Trynna) \[Net0's Insane\]](https://osu.ppy.sh/beatmapsets/916277#fruits/1913606)
+  - [yanaginagi - Mitsuba no Musubime (TV Size) (Ascendance) \[Illumination\]](https://osu.ppy.sh/beatmapsets/519146#fruits/1102930)
+  - [Ayane - Senpuu no Mai \[Chi\] (Nao Tomori) \[Mordred's Insane\]](https://osu.ppy.sh/beatmapsets/781693#fruits/1656122)
+  - [Seven Lions & Echos - Cold Skin (-Ken) \[Rain\]](https://osu.ppy.sh/beatmapsets/946446#fruits/1976187)
+  - [Krewella - Surrender The Throne (Trynna) \[Insane\]](https://osu.ppy.sh/beatmapsets/767566#fruits/1613624)
+  - [TeamGrimoire+Amaneko - croiX (HelloSCV) \[Spec's CTB Rain\]](https://osu.ppy.sh/beatmapsets/88692#fruits/274012)
+- Hidden
+  - [Cash Cash RMX - Escape From The City (Pereira006) \[Insane\]](https://osu.ppy.sh/beatmapsets/385028#fruits/846662)
+  - [Ichiki Mitsuhiro, Masuda Toshiki - Akekure Nikki (tutuhaha) \[Insane\]](https://osu.ppy.sh/beatmapsets/523619#fruits/1111586)
+  - [Masayoshi Minoshima feat. Sakaue Nachi - ILIAS (-kevincela-) \[Another\]](https://osu.ppy.sh/beatmapsets/373543#fruits/818368)
+  - [ginkiha - nightfall (-Joni-) \[gloaming\]](https://osu.ppy.sh/beatmapsets/1151833#fruits/2415949)
+- HardRock
+  - [nekodex - aureole (MBomb) \[Hyperion's Salad\]](https://osu.ppy.sh/beatmapsets/1056354#fruits/2236424)
+  - [Ayahi Takagaki - Kigurumi Wakusei (TV Size) (KIA) \[Hard\]](https://osu.ppy.sh/beatmapsets/12796#fruits/48146)
+  - [Co shu Nie - asura (fayew) \[salad\]](https://osu.ppy.sh/beatmapsets/1101376#fruits/2388578)
+  - [Daniel Ingram - Raise This Barn (rezoons) \[Hard\]](https://osu.ppy.sh/beatmapsets/71542#fruits/204980)
+- DoubleTime
+  - [Seven Lions with Myon and Shane 54 - Strangers (Feat. Tove Lo) (Maeglwn) \[Hard\]](https://osu.ppy.sh/beatmapsets/192347#fruits/457455)
+  - [Dream Theater - Wait for Sleep (JBHyperion) \[Platter\]](https://osu.ppy.sh/beatmapsets/381125#fruits/833902)
+  - [Yousei Teikoku - Weiss Fluegel (lolcubes) \[Insane\]](https://osu.ppy.sh/beatmapsets/39320#fruits/125434)
+  - [Roselia - This game (-Aqua) \[Xetopia's Platter\]](https://osu.ppy.sh/beatmapsets/749557#fruits/1602435)
+- Tiebreaker
+  - **[Sakamoto Maaya - Okaerinasai (tomatomerde Remix) (hikikochan) \[Ascendance's Reunion\]](https://osu.ppy.sh/beatmapsets/544468#fruits/1161865)**
 
 ### Demi-finales
 
@@ -187,6 +209,22 @@ Dimanche, 17 Mai 2020:
   - [dors k(uro) - dreeeeam (Chara) \[A Salad of Dreams\]](https://osu.ppy.sh/beatmapsets/444696#fruits/955343)
 
 ## Résultats des matches
+
+### Demi-finales
+
+Samedi, 16 Mai 2020:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| Jibsz ![][flag_FR] | 2 | **6** | ![][flag_FR] **Hecatia15** | [#1](https://osu.ppy.sh/community/matches/61717562) |
+| **Remyria** ![][flag_CA] | **6** | 0 | ![][flag_FR] Madeline | [#1](https://osu.ppy.sh/community/matches/61744766) |
+| Jibsz ![][flag_FR] | 5 | **6** | ![][flag_FR] **Trifano** | [#1](https://osu.ppy.sh/community/matches/61750795) |
+
+Dimanche, 17 Mai 2020:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| **Madeline** ![][flag_FR] | **6** | 3 | ![][flag_FR] AttilaPhoenix | [#1](https://osu.ppy.sh/community/matches/61781979) |
 
 ### Quarts de finale
 
