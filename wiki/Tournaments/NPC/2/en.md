@@ -80,7 +80,7 @@ The **Non-Professional Cup 2** (***NPC2***) is an international team-based doubl
 | **Oota e-gamers** | ![][flag_US] **[bud64](https://osu.ppy.sh/users/6169550)**, ![][flag_US] [peacefulpro](https://osu.ppy.sh/users/12220691), ![][flag_US] [FornariLoL](https://osu.ppy.sh/users/9036973) |
 | **Ora Ora Ora** | ![][flag_DE] **[Mysteri04](https://osu.ppy.sh/users/14967328)**, ![][flag_US] [X\_boi\_X](https://osu.ppy.sh/users/15240084) |
 | **OBST Squad** | ![][flag_FR] **[Numero\_Zer0e](https://osu.ppy.sh/users/13352562)**, ![][flag_FR] [Podsel](https://osu.ppy.sh/users/15312729), ![][flag_BE] [N1C3TR0](https://osu.ppy.sh/users/14489553), ![][flag_FR] [vegajuice](https://osu.ppy.sh/users/8027232) |
-| **osu!Coin**| ![][flag_US] **[PacoTaco03](https://osu.ppy.sh/users/9968194)**, ![][flag_US] [QuintecX](https://osu.ppy.sh/users/15458667/osu), ![][flag_US] [Cnolii](https://osu.ppy.sh/users/11246834) |
+| **osu!Coin** | ![][flag_US] **[PacoTaco03](https://osu.ppy.sh/users/9968194)**, ![][flag_US] [QuintecX](https://osu.ppy.sh/users/15458667/osu), ![][flag_US] [Cnolii](https://osu.ppy.sh/users/11246834) |
 | **PaNiMaYu Team** | ![][flag_RU] **[Khanlimon](https://osu.ppy.sh/users/15379372)**, ![][flag_RU] [xp132000](https://osu.ppy.sh/users/11170647) |
 | **Peko Peko** | ![][flag_US] **[- Polson -](https://osu.ppy.sh/users/12134789)**, ![][flag_US] [Raynei](https://osu.ppy.sh/users/14296379) |
 | **Persona 3 FES** | ![][flag_BR] **[GunnarDOTA2](https://osu.ppy.sh/users/8005407)**, ![][flag_BR] [roquearthur86s](https://osu.ppy.sh/users/12177836), ![][flag_BR] [Falires](https://osu.ppy.sh/users/12236850), ![][flag_BR] [gardex73](https://osu.ppy.sh/users/2697616) |
