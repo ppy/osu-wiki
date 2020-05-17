@@ -5,7 +5,7 @@ tags:
 
 # ROI PRO Tournament
 
-![RPT logo](img/logo.gif)
+![RPT logo](img/logo.jpg)
 
 The **ROI PRO Tournament** (***RPT***) is an Indonesian double-elimination 3v3 osu! tournament hosted by ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839). The tournament is restricted to Bahasa Indonesia-speaking players only. This is the first installment of the ROI PRO Tournament.
 
@@ -94,7 +94,7 @@ Sunday, 17 May 2020:
 | #30¹ | ToedLover |  | **15:00** |
 | #31² |  | ToedLover | **21:00** |
 
-¹ Encounter dependent on winner of Match #29  
+¹ Encounter dependent on winner of Match #29
 ² Match will take place if Team B on Match #30 wins the match
 
 ## Mappools
