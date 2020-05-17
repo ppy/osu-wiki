@@ -463,67 +463,67 @@ Sunday, 19 April 2020:
 
 ### General rules
 
-1. This tournament uses double-elimination bracket and single-player format. There are no teams here.
-2. The score system used will be **Score V2**.
-3. The mapset will be announced **every Sunday**, and the categories are NoMod, Hidden, HardRock, DoubleTime, FreeMod, Tiebreaker.
-4. Match schedule is decided by the organisers. Players may ask for a reschedule if the current schedule does not work for them. Each stage of this tournament will last a weekend.
-5. If there are no referees available, the match can be postponed.
-6. If both players gets a tied score on the Tiebreaker, the Tiebreaker will be replayed.
-7. If a player disconnects from the game, the opponent wins the round. The only exception is if the player disconnects during the first ten seconds of the song, in which the round is restarted.
-8. Maps cannot be used twice in the same round.
-9. Players have 15 minutes to show up to their scheduled match. If the opponent doesn't show up, the player who was supposed to play automatically advances onwards.
-10. Any other rules changes or unexpected occurrences will be announced in the discussion thread.
+1. ROI PRO Tournament is a **3v3** osu! tournament.
+2. The team size is **4 members** per team.
+3. The score system used will be **Score V2**.
+4. There are **no rank restrictions** to participate in the tournament.
+5. The tournament is however restricted to Bahasa Indonesia speaking player only and has Indonesian flag in their osu! profile (Indonesian players who live abroad could give further confirmation through osu! PM or Discord server to the organiser).
+6. The tournament will use Qualifiers to determine the seeding of each player.
+7. **Joining the RPT Discord server is mandatory.** If the player isn't a member of the server by the closing of the registration phase, they'll be ineligible to participate in the tournament.
+8. Amount of players that participate in the tournament will determine the format of the knockout stage:
+   - **<32 players:** Cancelled.
+   - **32 - 64 players:** Top 32 will proceed to the Quarterfinals.
+   - **64 - 128 players:** Top 64 will proceed to the Round of 16.
+   - **>128 players:** Top 128 will proceed to the Round of 32.
+9. During the Qualifiers, players will be sorted by their performance playing the Qualifiers mappool. The tiers used will be: Tier 1, Tier 2, Tier 3, Tier 4 with Tier 1 being the best performance and Tier 4 has worse performance.
+10. Team composition: One player **will be picked randomly from each tier** to form a team of 4.
+11. Player with Tier 1 seed will be the captain of the formed team.
+12. All matches will take place using the **WIB (Waktu Indonesia Barat)** timezone.
+13. **Map selector, map tester, referee, and administrator** cannot participate in the tournament. However, **commentator and streamer** are free to participate.
+14. Reschedule had to be requested **at least 24 hours before** the previous proposed schedule, anything ahead won't be granted.
 
-### Rank restrictions
+### Lobby rules
 
-A player's registration will not count if they are in the top 10,000 of the osu!taiko game mode. This is meant to be a beginner's tournament, and many, if not all the maps are catered towards those who are below rank #10,000. We do not want unfair advantages! However, there are two exceptions to this rule:
+1. Referee will create a lobby within 5 minutes of the match start. **Team Captain** or any member of the team must be online in this time and receive the invite from the referee.
+2. Each team can pick or skip a warmup. The maximum duration of the map is **4:00**.
+3. **Captain** of the team will do a `!roll` command to determine the pick and ban order. The winner of the `!roll` will choose wether they will pick first or ban first.
+4. Each team has a **10 minutes** late compensation. If there are any team members that is offline after the time limit, they'll be declared as **forfeitting** the match. Exception may apply if referee and the opponent agree to extend the time limit duration.
+5. Each team has **2 minutes** to pick/ban a map.
+   - If the limit has passed, the opposite team will get the decision instead.
+6. After picking a map, they'll be given a **90 seconds** time to prepare and click the ready button.
+   - If the limit has passed, the opposite team will get the point instead.
+7. In case of any disconnection, the map will be restarted only the disconnection take place within **30 seconds** of the play.
+   - If the player happens to have the issue again, the match will resume instead.
 
-1. If a player joins the top 10,000 after registering, but remains below #9,000 until the tournament starts, they are still eligible to participate.
-2. If a player ranks up beyond #10,000 while the tournament is taking place, they will only be disqualified from the tournament if their rank goes significantly beyond #9,000. It is recommended to stay below #9,000.
+### Qualifiers details
 
-### Stage regulations
+1. Qualifiers lobby will be opened when it's time, as displayed in the [statistics sheet](#links). Each player can choose which lobby they'd choose to schedule their own time availability.
+2. Each lobby will have a max of **16 players**.
+3. Each lobby will be handled by **1 referee**.
+4. There will be no warmup during the Qualifiers.
+5. Lobby will use the Qualifiers mappool as sorted in the [statistics sheet](#links).
+6. Qualifiers will have a **Head-to-Head** mode active.
+7. Failed scores **will be counted**.
+8. In case of any disconnection, the map will be restarted only the disconnection take place within **30 seconds** of the play.
+   - If the player happens to have the issue again, the match will resume instead.
 
-1. There are eight stages to this tournament: Qualifiers, Group Stage, Round of 32, Round of 16, Quarterfinals, Semifinals, Finals and Grand Finals.
-2. Matches are seeded. This will happen in the seeding round (Qualifiers). More information about seeding can be accessed in the [seeding regulations](#seeding-regulations) section.
-3. The winning condition for each stage are listed below:
-   - Group Stage and Round of 32: Best of 7 (first to 4 points)
-   - Round of 16 and Quarterfinals: Best of 9 (first to 5 points)
-   - Semifinals: Best of 11 (first to 6 points)
-   - Finals and Grand Finals: Best of 13 (first to 7 points)
-4. After the Group Stage, only the top 2 players from each group will advance to the next stage.
+### Procedures
 
-### Seeding regulations
-
-1. During the seeding round, there will be multiple lobbies available at various hours. Players will be free to sign up to the lobbies they please.
-2. This match is mainly used to weed out the no-shows, however it is also used to file in any backup players who may be called upon to take place of a no-show in the future.
-3. A private match will be created for all the players, and will be invited into their match when it is their time. Make sure that you are online at this time.
-4. There will be no warmup during this event, but rather all the players will play through a shorter mappool.
-5. Seeding will be made with the average rank of each player on each map.
-6. Maps will be played twice in a row during the lobby. However, players can ask for a break of 5 minutes between each run.
-7. Results will be announced on the Discord server after the end of the weekend.
-
-### Match regulations
-
-1. A private match will be created for your match, and both players will be invited into their match when it is their time. Make certain you are online at this time.
-2. Each player can request one warmup map, but it must be **below 4 minutes**.
-3. Here is how bans and picks will happen:
-   - The first person to ban will be the loser of the `!roll`, then they will alternate bans. (Loser -> Winner -> Loser -> Winner)
-   - The first person to pick will be the winner of the `!roll`, then they will alternate picks. (Winner -> Loser -> Winner -> Loser -> ...)
-4. A player cannot ban a map from the same category twice.
-5. In case of a tie, the tiebreaker will be played.
-6. Results will be displayed on the Challonge brackets, and will be announced by the referee.
-
-### Mappool regulations
-
-1. There are different kind of mapools in each stage of the tournament, becoming progressively harder.
-2. Tiebreaker will be played under FreeMod.
-
-### Scheduling regulations
-
-1. Every stage is held during the weekend to let players practice.
-2. Matches are allowed to overlap if referees are available.
-3. Players must complete their match at the designated time or both players are eliminated.
-4. However if both players can come up with a better time than what we have schedule for them, please inform the organisers for a reschedule. They will rearrange your match if the proposed reschedule is informed before the Thursday of the weekend.
+1. Team who **scored the most** will win the match, failed scores **will be counted**.
+2. There will be different mappool for each stage.
+3. All teams in the winner and losers brackets will use the same mappool.
+4. Each team will have one ban during the **Round of 16**.
+5. In the Quarterfinals and forward, each team will have **two bans** but the team cannot ban a map from the **same category twice**.
+6. NoFail mod is available to use freely.
+7. Each team cannot play the map within the same category twice back to back (exception for **NoMod**).
+8. The winning condition and its ban limit for each stage are listed below:
+   - Round Of 16: Best-Of-9 (First to 5 points) with 1 ban
+   - Quarterfinals and Semifinals: Best-Of-11 (First to 6 points) with 2 bans
+   - Finals, and Grand Finals: Best-Of-13 (First to 7 points) with 2 bans
+9. In case of a tie with one map remaining to play, the **Tiebreaker** will be played with FreeMod applied.
+10. During the FreeMod bracket, there are several options to choose:
+    - Available mods to pick are **Hidden** and **HardRock**. Mod combinations are also allowed.
+    - **A minimum of 2 players within each team is required to use mod**.
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
