@@ -217,6 +217,22 @@ Sunday, 17 May 2020:
 
 ## Match results
 
+### Semifinals
+
+Saturday, 16 May 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Jibsz ![][flag_FR] | 2 | **6** | ![][flag_FR] **Hecatia15** | [#1](https://osu.ppy.sh/community/matches/61717562) |
+| **Remyria** ![][flag_CA] | **6** | 0 | ![][flag_FR] Madeline | [#1](https://osu.ppy.sh/community/matches/61744766) |
+| Jibsz ![][flag_FR] | 5 | **6** | ![][flag_FR] **Trifano** | [#1](https://osu.ppy.sh/community/matches/61750795) |
+
+Sunday, 17 May 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Madeline** ![][flag_FR] | **6** | 3 | ![][flag_FR] AttilaPhoenix | [#1](https://osu.ppy.sh/community/matches/61781979) |
+
 ### Quarterfinals
 
 Saturday, 9 May 2020:
