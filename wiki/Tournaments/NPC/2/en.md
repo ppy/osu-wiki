@@ -9,17 +9,17 @@ tags:
 
 ![NPC2 Logo](images/banner-qmv2.png)
 
-The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 osu!Standard double-elmination tournament hosted by ![][flag_US] [Chugga444](https://osu.ppy.sh/users/12754827). This is the second installment of the Non-Professional Cup.
+The **Non-Professional Cup 2** (***NPC2***) is an international team-based double-elimination 2v2 osu! tournament hosted by ![][flag_US] [Chugga444](https://osu.ppy.sh/users/12754827). This is the second installment of the Non-Professional Cup.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Staff Registration | 2020-04-12/2020-04-25 |
-| Player Registration | 2020-04-25/2020-05-14 |
-| Screening Phase | 2020-05-17/2020-05-29 |
+| Staff registration | 2020-04-12/2020-04-25 |
+| Player registration | 2020-04-25/2020-05-14 |
+| Screening phase | 2020-05-17/2020-05-29 |
 | Qualifiers | 2020-05-30/2020-05-31 |
-| Group Stages | 2020-06-05/2020-05-07 |
+| Group Stage | 2020-06-05/2020-05-07 |
 | Round of 16 | 2020-06-12/2020-06-14 |
 | Quarterfinals | 2020-06-19/2020-06-21 |
 | Semifinals | 2020-06-26/2020-06-28 |
@@ -30,7 +30,7 @@ The **Non-Professional Cup 2** (***NPC2***) is a international team-based 2v2 os
 
 | Placing | Prize |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Pending Profile Badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Pending profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | |
 
