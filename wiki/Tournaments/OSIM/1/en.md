@@ -108,9 +108,9 @@ The OIT 2020 was run by various Indonesian osu! community members.
   - [bbn - Perpetual Trauma (LMT) \[Virtuoso\]](https://osu.ppy.sh/beatmapsets/1056233#osu/2207749)
   - [BlackY - Sthenno (Rtyzen) \[STAR\]](https://osu.ppy.sh/beatmapsets/991780#osu/2074136)
 - Hidden
-  - [LeaF - Monkey Business -Satire mix- (-PC) \[Krazy!\]](https://osu.ppy.sh/beatmapsets/999031#osu/2089429)
-  - [Camellia - Fly to night, tonight (xLolicore-) \[Illumination\]](https://osu.ppy.sh/beatmapsets/1119638#osu/2339004)
-  - [Kelly Clarkson - Behind These Hazel Eyes (Nightcore Remix) (Raikozen) \[raikoplayer111\]](https://osu.ppy.sh/beatmapsets/639701#osu/1356688)
+  - [Minamotoya feat. Kuroa* - Hana Kagerou (404 AimNotFound) \[Yokes' Expert\]](https://osu.ppy.sh/beatmapsets/929130#osu/1945907)
+  - [Ampzer - Lotus (-PC) \[Extra\]](https://osu.ppy.sh/beatmapsets/745475#osu/1571592)
+  - [69 de 74 - Aratanaru Ketsui (Yooh) \[Renaissance\]](https://osu.ppy.sh/beatmapsets/754704#osu/1890973)
 - HardRock
   - [Function Phantom - Variable (Chaoslitz) \[Deluxe\]](https://osu.ppy.sh/beatmapsets/751774#osu/1582594)
   - [Kola Kid - timer (Mirash) \[Extra\]](https://osu.ppy.sh/beatmapsets/1089084#osu/2277126)
