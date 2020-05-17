@@ -1,14 +1,13 @@
 ---
 tags:
   - OSIM
-  - OSIM 2020
 ---
 
-# osu! Indonesia Tournament #10 (2020)
+# osu! Singapore-Indonesia-Malaysia Tournament
 
 ![OIT 2020 logo](img/logo.jpg)
 
-The **osu! Indonesia Tournament #10 (2020)** (***OIT 2020***) was an Indonesian double-elimination 1v1 osu!standard tournament hosted by ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548) and co-hosted by ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368), and ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825). It was the 10th iteration of the tournament series.
+The **osu! Singapore-Indonesia-Malaysia Tournament** (***OSIM***) was a double-elimination 2v2 osu!standard tournament open to players from Singapore, Indonesia, and Malaysia hosted by ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), and ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531). It was the 1st iteration of the tournament series.
 
 ## Tournament schedule
 
