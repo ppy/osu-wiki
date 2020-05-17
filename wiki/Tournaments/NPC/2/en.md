@@ -34,7 +34,6 @@ The **Non-Professional Cup 2** (***NPC2***) is an international team-based doubl
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | |
 
-### Pending Badge
 
 ![](images/smallbadge.png "Pending Profile Badge")
 
@@ -42,39 +41,39 @@ The **Non-Professional Cup 2** (***NPC2***) is an international team-based doubl
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host | ![][flag_US] [Chugga444](https://osu.ppy.sh/users/12754827) |
-| Administrators | ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610), ![][flag_TH] [M i r a g e](https://osu.ppy.sh/users/2298513), ![][flag_TW] [Mashyuf](https://osu.ppy.sh/users/14356517), ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507) |
-| Referees | ![][flag_US] [Chugga444](https://osu.ppy.sh/users/12754827), ![][flag_TH] [M i r a g e](https://osu.ppy.sh/users/2298513), ![][flag_TW] [Mashyuf](https://osu.ppy.sh/users/14356517), ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507), ![][flag_TH] [Daitsuku](https://osu.ppy.sh/users/9735525), ![][flag_CA] [Takiaz](https://osu.ppy.sh/users/11177233), ![][flag_US] [MoopFoopSoup](https://osu.ppy.sh/users/14364661), ![][flag_US] [Aleks0](https://osu.ppy.sh/users/12354837), ![][flag_US] [ClarkyClarker](https://osu.ppy.sh/users/11664411), ![][flag_RU] [Hataki-](https://osu.ppy.sh/users/14745616), ![][flag_DE] [Kalletenz](https://osu.ppy.sh/users/9704883), ![][flag_CA] [miyatohanasaki](https://osu.ppy.sh/users/13916687), ![][flag_ES] [Akakuro](https://osu.ppy.sh/users/7615505), ![][flag_KR] [siroitora](https://osu.ppy.sh/users/9146185), ![][flag_FR] [Agostino](https://osu.ppy.sh/users/3897665) |
-| Mappoolers | ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610), ![][flag_US] [Chugga444](https://osu.ppy.sh/users/12754827), ![][flag_TH] [M i r a g e](https://osu.ppy.sh/users/2298513), ![][flag_TW] [Mashyuf](https://osu.ppy.sh/users/14356517), ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507), ![][flag_TH] [Daitsuku](https://osu.ppy.sh/users/9735525), ![][flag_CA] [Takiaz](https://osu.ppy.sh/users/11177233), ![][flag_US] [MoopFoopSoup](https://osu.ppy.sh/users/14364661), ![][flag_US] [Aleks0](https://osu.ppy.sh/users/12354837), ![][flag_US] [ClarkyClarker](https://osu.ppy.sh/users/11664411), ![][flag_RU] [Hataki-](https://osu.ppy.sh/users/14745616), ![][flag_DE] [Kalletenz](https://osu.ppy.sh/users/9704883), ![][flag_CA] [miyatohanasaki](https://osu.ppy.sh/users/13916687), ![][flag_FI] [naitsabest](https://osu.ppy.sh/users/10632187), ![][flag_CN] [M1kel](https://osu.ppy.sh/users/10732897), ![][flag_US] [Quag](https://osu.ppy.sh/users/6535093), ![][flag_HK] [Volition](https://osu.ppy.sh/users/10815893) |
-| Streamers | ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610), ![][flag_TH] [M i r a g e](https://osu.ppy.sh/users/2298513), ![][flag_CA] [Takiaz](https://osu.ppy.sh/users/11177233), ![][flag_US] [MoopFoopSoup](https://osu.ppy.sh/users/14364661), ![][flag_US] [ClarkyClarker](https://osu.ppy.sh/users/11664411) |
-| GFX Artists | ![][flag_US] [Zeity](https://osu.ppy.sh/users/11367167), ![][flag_TH] [Daitsuku](https://osu.ppy.sh/users/9735525) |
-| Wiki Editor | ![][flag_TW] [Mashyuf](https://osu.ppy.sh/users/14356517) |
+| Organiser | ![][flag_US] [Chugga444](https://osu.ppy.sh/users/12754827) |
+| Administrator | ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610), ![][flag_TH] [M i r a g e](https://osu.ppy.sh/users/2298513), ![][flag_TW] [Mashyuf](https://osu.ppy.sh/users/14356517), ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507) |
+| Referee | ![][flag_US] [Chugga444](https://osu.ppy.sh/users/12754827), ![][flag_TH] [M i r a g e](https://osu.ppy.sh/users/2298513), ![][flag_TW] [Mashyuf](https://osu.ppy.sh/users/14356517), ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507), ![][flag_TH] [Daitsuku](https://osu.ppy.sh/users/9735525), ![][flag_CA] [Takiaz](https://osu.ppy.sh/users/11177233), ![][flag_US] [MoopFoopSoup](https://osu.ppy.sh/users/14364661), ![][flag_US] [Aleks0](https://osu.ppy.sh/users/12354837), ![][flag_US] [ClarkyClarker](https://osu.ppy.sh/users/11664411), ![][flag_RU] [Hataki-](https://osu.ppy.sh/users/14745616), ![][flag_DE] [Kalletenz](https://osu.ppy.sh/users/9704883), ![][flag_CA] [miyatohanasaki](https://osu.ppy.sh/users/13916687), ![][flag_ES] [Akakuro](https://osu.ppy.sh/users/7615505), ![][flag_KR] [siroitora](https://osu.ppy.sh/users/9146185), ![][flag_FR] [Agostino](https://osu.ppy.sh/users/3897665) |
+| Map Selector | ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610), ![][flag_US] [Chugga444](https://osu.ppy.sh/users/12754827), ![][flag_TH] [M i r a g e](https://osu.ppy.sh/users/2298513), ![][flag_TW] [Mashyuf](https://osu.ppy.sh/users/14356517), ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507), ![][flag_TH] [Daitsuku](https://osu.ppy.sh/users/9735525), ![][flag_CA] [Takiaz](https://osu.ppy.sh/users/11177233), ![][flag_US] [MoopFoopSoup](https://osu.ppy.sh/users/14364661), ![][flag_US] [Aleks0](https://osu.ppy.sh/users/12354837), ![][flag_US] [ClarkyClarker](https://osu.ppy.sh/users/11664411), ![][flag_RU] [Hataki-](https://osu.ppy.sh/users/14745616), ![][flag_DE] [Kalletenz](https://osu.ppy.sh/users/9704883), ![][flag_CA] [miyatohanasaki](https://osu.ppy.sh/users/13916687), ![][flag_FI] [naitsabest](https://osu.ppy.sh/users/10632187), ![][flag_CN] [M1kel](https://osu.ppy.sh/users/10732897), ![][flag_US] [Quag](https://osu.ppy.sh/users/6535093), ![][flag_HK] [Volition](https://osu.ppy.sh/users/10815893) |
+| Streamer | ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610), ![][flag_TH] [M i r a g e](https://osu.ppy.sh/users/2298513), ![][flag_CA] [Takiaz](https://osu.ppy.sh/users/11177233), ![][flag_US] [MoopFoopSoup](https://osu.ppy.sh/users/14364661), ![][flag_US] [ClarkyClarker](https://osu.ppy.sh/users/11664411) |
+| Designer | ![][flag_US] [Zeity](https://osu.ppy.sh/users/11367167), ![][flag_TH] [Daitsuku](https://osu.ppy.sh/users/9735525) |
+| Wiki editor | ![][flag_TW] [Mashyuf](https://osu.ppy.sh/users/14356517) |
 
 ## Links
 
-- [Discussion Thread](https://osu.ppy.sh/community/forums/topics/1051009)
-- [NPC Discord Server](https://discord.gg/Zjb3jR9)
-- [Statistic Sheet](https://docs.google.com/spreadsheets/d/1j8fp6zK0Z9cQWv-xwqFfEmvsrHIzqRnru7kovr2P05o/edit?usp=sharing)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1051009)
+- [NPC Discord server](https://discord.gg/Zjb3jR9)
+- **[Statistic sheet](https://docs.google.com/spreadsheets/d/1j8fp6zK0Z9cQWv-xwqFfEmvsrHIzqRnru7kovr2P05o/edit?usp=sharing)**
 
 ## Participants 
 
-| Teams | Members |
+| Team | Members |
 | :-- | :-- |
-| Stunter in the Toilet | ![][flag_DE] **[ShizuruxKotarou](https://osu.ppy.sh/users/4612857)**, ![][flag_DE] [Stunter443](https://osu.ppy.sh/users/12855636), ![][flag_DE] [Towny](https://osu.ppy.sh/users/15673024), ![][flag_DE] [PzKpwf](https://osu.ppy.sh/users/12558046) |
+| **Stunter in the Toilet** | ![][flag_DE] **[ShizuruxKotarou](https://osu.ppy.sh/users/4612857)**, ![][flag_DE] [Stunter443](https://osu.ppy.sh/users/12855636), ![][flag_DE] [Towny](https://osu.ppy.sh/users/15673024), ![][flag_DE] [PzKpwf](https://osu.ppy.sh/users/12558046) |
 | LoG Horizon | ![][flag_BR] **[kvictor](https://osu.ppy.sh/users/15922752)**, ![][flag_BR] [yJhowzz](https://osu.ppy.sh/users/11290673) |
-| Young Builders | ![][flag_RU] **[Tara_kan](https://osu.ppy.sh/users/13217621)**, ![][flag_RU] [bu1ld](https://osu.ppy.sh/users/13808132) ![][flag_RU] [JesusWCS](https://osu.ppy.sh/users/12420508), ![][flag_BY] [DyadyaShnuk](https://osu.ppy.sh/users/11268782) |
+| Young Builders | ![][flag_RU] **[Tara\_kan](https://osu.ppy.sh/users/13217621)**, ![][flag_RU] [bu1ld](https://osu.ppy.sh/users/13808132) ![][flag_RU] [JesusWCS](https://osu.ppy.sh/users/12420508), ![][flag_BY] [DyadyaShnuk](https://osu.ppy.sh/users/11268782) |
 | Click the Circles to the beat | ![][flag_US] **[Lapisz](https://osu.ppy.sh/users/8295497)**, ![][flag_FR] [Jhayyy](https://osu.ppy.sh/users/15374745), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711/osu), ![][flag_GB] [bluezenither](https://osu.ppy.sh/users/11861720) |
 | SLAVA ZEMLYANAM | ![][flag_RU] **[Maruyama-](https://osu.ppy.sh/users/11853175)**, ![][flag_RU] [Skeyn](https://osu.ppy.sh/users/7899956), ![][flag_RU] [f55dota2](https://osu.ppy.sh/users/14126397), ![][flag_RU] [Bombooo2](https://osu.ppy.sh/users/9731395) |
 | Tapa na Cara | ![][flag_BR] **[Mr Capuccino](https://osu.ppy.sh/users/16224264)**, ![][flag_BR] [Megadestr](https://osu.ppy.sh/users/15795443) |
 | vai Brazilian | ![][flag_BR] **[ImHashRenai](https://osu.ppy.sh/users/15364219)**, ![][flag_BR] [Shinobu515](https://osu.ppy.sh/users/11516881) |
-| Chuchichäschtli | ![][flag_CH] **[[Arikawa]](https://osu.ppy.sh/users/6454830)**, ![][flag_CH] [Kvn_hot_potato](https://osu.ppy.sh/users/6228912), ![][flag_CH] [[ Kuromei ]](https://osu.ppy.sh/users/6675144), ![][flag_DE] [Sarsese](https://osu.ppy.sh/users/14406757) |
+| Chuchichäschtli | ![][flag_CH] **[\[Arikawa\]](https://osu.ppy.sh/users/6454830)**, ![][flag_CH] [Kvn\_hot\_potato](https://osu.ppy.sh/users/6228912), ![][flag_CH] [\[ Kuromei \]](https://osu.ppy.sh/users/6675144), ![][flag_DE] [Sarsese](https://osu.ppy.sh/users/14406757) |
 | Fashionably Late | ![][flag_US] **[Dream10](https://osu.ppy.sh/users/11740481)**, ![][flag_US] [fourfifty](https://osu.ppy.sh/users/9653206), ![][flag_SV] [Mario564](https://osu.ppy.sh/users/14544646), ![][flag_US] [Serlum](https://osu.ppy.sh/users/12056779) |
 | osu!Coin | ![][flag_US] **[Lattice35](https://osu.ppy.sh/users/14902742)**, ![][flag_US] [PacoTaco03](https://osu.ppy.sh/users/9968194), ![][flag_US] [QuintecX](https://osu.ppy.sh/users/15458667/osu), ![][flag_US] [Cnolii](https://osu.ppy.sh/users/11246834) |
 | KuroNeko | ![][flag_PH] **[Ecstatify](https://osu.ppy.sh/users/14494059)**, ![][flag_TH] [Morosis](https://osu.ppy.sh/users/4114084), ![][flag_ID] [Fleure De Lapin](https://osu.ppy.sh/users/5569341/osu), ![][flag_VN] [-Yukina-](https://osu.ppy.sh/users/15470246) |
 | Ugga Ugga ⊂(( o・ω・))⊃ | ![][flag_TR] **[Undine116](https://osu.ppy.sh/users/14352107)**, ![][flag_CH] [xUnicornball69x](https://osu.ppy.sh/users/16078878), ![][flag_TR] [Phantase](https://osu.ppy.sh/users/8584641) |
 | Tablet Slayers | ![][flag_IT] **[Dagoliir](https://osu.ppy.sh/users/7209911)**, ![][flag_ES] [CebollaVladimir](https://osu.ppy.sh/users/15308238), ![][flag_ES] [Viewer](https://osu.ppy.sh/users/16208221) |
 | playstyl'D | ![][flag_US] **[BowLL](https://osu.ppy.sh/users/10198015/osu)**, ![][flag_US] [Yenmaster](https://osu.ppy.sh/users/12565402), ![][flag_US] [RDSparkle](https://osu.ppy.sh/users/7588462), ![][flag_GB] [WhyAmIBored](https://osu.ppy.sh/users/14194982) |
-| OBST Squad | ![][flag_FR] **[Numero_Zer0e](https://osu.ppy.sh/users/13352562)**, ![][flag_FR] [Podsel](https://osu.ppy.sh/users/15312729), ![][flag_BE] [N1C3TR0](https://osu.ppy.sh/users/14489553), ![][flag_FR] [vegajuice](https://osu.ppy.sh/users/8027232) |
+| OBST Squad | ![][flag_FR] **[Numero\_Zer0e](https://osu.ppy.sh/users/13352562)**, ![][flag_FR] [Podsel](https://osu.ppy.sh/users/15312729), ![][flag_BE] [N1C3TR0](https://osu.ppy.sh/users/14489553), ![][flag_FR] [vegajuice](https://osu.ppy.sh/users/8027232) |
 | Desu | ![][flag_UA] **[Kocha](https://osu.ppy.sh/users/15518219)**, ![][flag_IT] [Edolino](https://osu.ppy.sh/users/11255361), ![][flag_LV] [Necroplex](https://osu.ppy.sh/users/13743386), ![][flag_MF] [Convulgeyy](https://osu.ppy.sh/users/14853230) |
 | God Osu! Thailand EZwin101 | ![][flag_TH] **[north12435](https://osu.ppy.sh/users/9464745)**, ![][flag_TH] [Hibaragi](https://osu.ppy.sh/users/13471993), ![][flag_TH] [Moyashie](https://osu.ppy.sh/users/12013891), ![][flag_TH] [noozzz](https://osu.ppy.sh/users/14129179) |
 | PaNiMaYu Team | ![][flag_RU] **[Khanlimon](https://osu.ppy.sh/users/15379372)**, ![][flag_RU] [xp132000](https://osu.ppy.sh/users/11170647) |
@@ -82,18 +81,18 @@ The **Non-Professional Cup 2** (***NPC2***) is an international team-based doubl
 | Persona 3 FES | ![][flag_BR] **[GunnarDOTA2](https://osu.ppy.sh/users/8005407)**, ![][flag_BR] [roquearthur86s](https://osu.ppy.sh/users/12177836), ![][flag_BR] [Falires](https://osu.ppy.sh/users/12236850), ![][flag_BR] [gardex73](https://osu.ppy.sh/users/2697616) |
 | Degeneracy Gang | ![][flag_AU] **[TiddlyT](https://osu.ppy.sh/users/7989458)**, ![][flag_AU] [xZephyrr](https://osu.ppy.sh/users/13572080) |
 | Oota e-gamers | ![][flag_US] **[bud64](https://osu.ppy.sh/users/6169550)**, ![][flag_US] [peacefulpro](https://osu.ppy.sh/users/12220691), ![][flag_US] [FornariLoL](https://osu.ppy.sh/users/9036973) |
-| Ranger Can't Derank Successfully | ![][flag_TW] **[John6023](https://osu.ppy.sh/users/2465704/osu)**, ![][flag_TW] [RainTW](https://osu.ppy.sh/users/11622805), ![][flag_TW] [Satomi_0826](https://osu.ppy.sh/users/4248366), ![][flag_TW] [Ching_Chang](https://osu.ppy.sh/users/11804616) |
+| Ranger Can't Derank Successfully | ![][flag_TW] **[John6023](https://osu.ppy.sh/users/2465704/osu)**, ![][flag_TW] [RainTW](https://osu.ppy.sh/users/11622805), ![][flag_TW] [Satomi\_0826](https://osu.ppy.sh/users/4248366), ![][flag_TW] [Ching\_Chang](https://osu.ppy.sh/users/11804616) |
 | English School Foundations | ![][flag_HK] **[JayeshChatlani](https://osu.ppy.sh/users/12986109)**, ![][flag_HK] [Anto6](https://osu.ppy.sh/users/15081907) |
-| Mouse Drift | ![][flag_BR] **[Kleemann](https://osu.ppy.sh/users/12582103)**, ![][flag_BR] [Himeno_-](https://osu.ppy.sh/users/16545385) |
+| Mouse Drift | ![][flag_BR] **[Kleemann](https://osu.ppy.sh/users/12582103)**, ![][flag_BR] [Himeno\_-](https://osu.ppy.sh/users/16545385) |
 | Australia's OWC Team on Smurf Accounts | ![][flag_NZ] **[Zed eS](https://osu.ppy.sh/users/13713183)**, ![][flag_AU] [shepraf](https://osu.ppy.sh/users/14749149), ![][flag_CA] [-careless-](https://osu.ppy.sh/users/15529550), ![][flag_US] [CreepySomthing](https://osu.ppy.sh/users/5843413) |
-| WeLoveKöfte | ![][flag_DE] **[Nikurax](https://osu.ppy.sh/users/11705938)**, ![][flag_DE] [Denk_Fisch](https://osu.ppy.sh/users/13210251), ![][flag_DE] [Enyu](https://osu.ppy.sh/users/14106819), ![][flag_PL] [misiekreksio](https://osu.ppy.sh/users/12908278) |
+| WeLoveKöfte | ![][flag_DE] **[Nikurax](https://osu.ppy.sh/users/11705938)**, ![][flag_DE] [Denk\_Fisch](https://osu.ppy.sh/users/13210251), ![][flag_DE] [Enyu](https://osu.ppy.sh/users/14106819), ![][flag_PL] [misiekreksio](https://osu.ppy.sh/users/12908278) |
 | CatMooners | ![][flag_BR] **[MoonTears](https://osu.ppy.sh/users/11911570)**, ![][flag_BR] [Axiey](https://osu.ppy.sh/users/11711340) |
 | Nerf or Nothin' | ![][flag_US] **[FAITHFIRE007](https://osu.ppy.sh/users/11739464)**, ![][flag_US] [LakinBacon](https://osu.ppy.sh/users/12838237), ![][flag_CA] [Kiwi123Food](https://osu.ppy.sh/users/11682384) |
 | Rice Farmers | ![][flag_VN] **[lienzzhitzz](https://osu.ppy.sh/users/14638487)**, ![][flag_VN] [ketthesylveon](https://osu.ppy.sh/users/14065788) |
 | PoggersFish | ![][flag_US] **[Nebula3310](https://osu.ppy.sh/users/14729352)**, ![][flag_US] [Dr Sloth OWO](https://osu.ppy.sh/users/14655426) |
 | Bats From Wuhan | ![][flag_PL] **[MrChytry](https://osu.ppy.sh/users/9873693)**, ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_US] [iiTzTony](https://osu.ppy.sh/users/4426672), ![][flag_ID] [lukasliwandouw](https://osu.ppy.sh/users/3794420) |
 | Warlords | ![][flag_IT] **[Ayor358](https://osu.ppy.sh/users/13088892)**, ![][flag_MY] [MarshyCookie](https://osu.ppy.sh/users/13193556), ![][flag_UA] [dimavh](https://osu.ppy.sh/users/15056040) |
-| Ora Ora Ora | ![][flag_DE] **[Mysteri04](https://osu.ppy.sh/users/14967328)**, ![][flag_DE] [chrissi_42o](https://osu.ppy.sh/users/15676464), ![][flag_US] [X_boi_X](https://osu.ppy.sh/users/15240084) |
+| Ora Ora Ora | ![][flag_DE] **[Mysteri04](https://osu.ppy.sh/users/14967328)**, ![][flag_DE] [chrissi\_42o](https://osu.ppy.sh/users/15676464), ![][flag_US] [X\_boi\_X](https://osu.ppy.sh/users/15240084) |
 | Vanilla Wafers | ![][flag_US] **[-Wiffles-](https://osu.ppy.sh/users/13432283)**, ![][flag_PH] [pokerfesh](https://osu.ppy.sh/users/14351977), ![][flag_GB] [Nagisa02](https://osu.ppy.sh/users/14713206) |
 | G Nome | ![][flag_US] **[MrJamesGaming](https://osu.ppy.sh/users/13730858)**, ![][flag_GB] [NightMia](https://osu.ppy.sh/users/11984807), ![][flag_US] [Irnea](https://osu.ppy.sh/users/13320919) |
 | Mousechokervn | ![][flag_VN] **[binhdz12345](https://osu.ppy.sh/users/15585184)**, ![][flag_VN] [snhangao](https://osu.ppy.sh/users/9529010), ![][flag_VN] [giangtruong](https://osu.ppy.sh/users/11287987) |
@@ -107,7 +106,7 @@ The **Non-Professional Cup 2** (***NPC2***) is an international team-based doubl
 
 ## Ruleset
 
-### Tournament Rules
+### Tournament rules
 
 1. The tournament will be in a 2 versus 2 setup.
 2. Each team must have between 2 to 4 members.
@@ -136,7 +135,7 @@ The **Non-Professional Cup 2** (***NPC2***) is an international team-based doubl
     - Declaring the match as Lost by Default
     - Disqualification from the entire tournament
 
-### Stage Instructions
+### Stage instructions
 
 1. In the qualifiers, all teams will play the same mappool.
 2. The qualifiers contains 7 maps in total, 4 NoMod, 2 Hidden, 2 HardRock, 2 DoubleTime.
@@ -150,7 +149,7 @@ The **Non-Professional Cup 2** (***NPC2***) is an international team-based doubl
    - The Quarterfinals and Semifinals will be best of 11 (first team to 6 wins).
    - The Finals and Grand Finals will be best of 13 (first team to 7 wins).
 
-### Match Instructions
+### Match instructions
 
 1. A referee will create a multiplayer room and send out invites to team captains 10 minutes prior to the start time.
 2. Each team are allowed to select 1 warm-up beatmap. All warm-ups must be under 4 minutes and appropriate.
@@ -163,7 +162,7 @@ The **Non-Professional Cup 2** (***NPC2***) is an international team-based doubl
 5. Beatmap selection will alternate between each team selecting a beatmap out of the mappool, they may pick freely from any mod pool.
 6. In the case of a tie, the tiebreaker beatmap will be played.
 
-### Mappool Instructions
+### Mappool instructions
 
 1. There will be a new mappool for every stage.
 2. Each mappool consists of 5 brackets: NoMod, Hidden, HardRock, DoubleTime and FreeMod.
@@ -179,7 +178,7 @@ The **Non-Professional Cup 2** (***NPC2***) is an international team-based doubl
 7. The tiebreaker will be played under FreeMod conditions.
    - When playing the tiebreaker, there are no mod requirements.
 
-### Scheduling Instructions
+### Scheduling instructions
 
 1. Each stage will be held on a single weekend.
 2. All Double Elimination Stages will be held on Friday, Saturday, or Sunday, UTC+0.
