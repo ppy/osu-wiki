@@ -77,26 +77,19 @@ La Catch French Beginner 4 ést gérée par différents membres de la communaut�
 | C | ![][flag_FR] [Riki no Kage](https://osu.ppy.sh/users/1549032) | ![][flag_FR] [-Dragolord-](https://osu.ppy.sh/users/9473359) | ![][flag_FR] [MarsJackson](https://osu.ppy.sh/users/8479894) | ![][flag_FR] [Athedos](https://osu.ppy.sh/users/10722269) |
 | D | ![][flag_FR] [Jibsz](https://osu.ppy.sh/users/12269489) | ![][flag_FR] [Trifano](https://osu.ppy.sh/users/15126172) | ![][flag_CA] [Zyoulou](https://osu.ppy.sh/users/8668722) | ![][flag_FR] [sullymaster](https://osu.ppy.sh/users/6765259) |
 
-## Planning des matches: Demi-finales
+## Planning des matches: Finales
 
-Samedi, 16 Mai 2020:
-
-| ID du match | Joueur 1 | Joueur 2 | Horaire du match (UTC+2) |
-| :-: | --: | :-- | :-: |
-| #32 | Hecatia15 ![][flag_FR] | ![][flag_FR] Jibsz | **16:00** |
-| #31 | Remyria ![][flag_CA] | ![][flag_FR] Ladylag | **19:00** |
-
-Dimanche, 17 Mai 2020:
+Samedi, 23 Mai 2020:
 
 | ID du match | Joueur 1 | Joueur 2 | Horaire du match (UTC+2) |
 | :-: | --: | :-- | :-: |
-| #33¹ | Hecatia15 ![][flag_FR] | ![][flag_FR] Trifano | **16:00** |
-| #34¹ | Jibsz ![][flag_FR] | ![][flag_FR] Trifano | **16:00** |
-| #35² | Remyria ![][flag_CA] | ![][flag_FR] AttilaPhoenix | **19:00** |
-| #36² | Ladylag ![][flag_FR] | ![][flag_FR] AttilaPhoenix | **19:00** |
+| #31 | Remyria ![][flag_CA] | ![][flag_FR] Hecatia15 | **19:00** |
 
-¹ Confrontation dépendant du perdant du Match #32
-² Confrontation dépendant du perdant du Match #31
+Dimanche, 24 Mai 2020:
+
+| ID du match | Joueur 1 | Joueur 2 | Horaire du match (UTC+2) |
+| :-: | --: | :-- | :-: |
+| #32 | Trifano ![][flag_FR] | ![][flag_FR] Madeline | **18:00** |
 
 ## Mappools
 
