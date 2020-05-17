@@ -184,6 +184,16 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Yuri Cup](YC/1) | 2020-02-22 | 2020-04-05 | Corim's Bad Dream | a la verga | Rtzero x Rtzer0 |
 
+### ![](/wiki/shared/mode/osu.png) 112's Tournaments
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| 112's Winter Tournament 2018 | 2018-01-15 | 2018-02-25 | Sucuk | Bezelyeli Heyronii | What's your Nem |
+| 112's Summer Tournament 2018 | 2018-06-03 | 2018-08-12 | FT RakotGaming | osu! meme team | Alemin Hızlı Delikanlıları |
+| 112's Winter Tournament 2019 | 2018-12-09 | 2019-02-02 | Beceriksizler 2.0 | Kumsal Lazanyası | Subscribe To Pewdiepie |
+| [112's Summer Tournament 2019](112/Summer_2019) | 2019-06-05 | 2019-08-22 | egemen ve aimless | KaFein | Kwk Yelleri |
+| 112's Corona Tournament | 2020-03-31 | 2020-05-23 | *TBD* | *TBD* | *TBD* |
+
 ### ![](/wiki/shared/mode/taiko.png) Asian-Oceanian Taiko Showdown
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
