@@ -98,15 +98,15 @@ The OIT 2020 was run by various Indonesian osu! community members.
 
 ### Finals week 1
 
-**[Download the mappack here! (145 MB)](https://drive.google.com/file/d/1DrYx1aVN9ht6rqi_EnCeZoEdDEB23rw1/view)**
+**[Download the mappack here! (225 MB)](https://drive.google.com/file/d/1xUCTYbV3cSmAlKmkH-Lc9BRNVhNaIlmE/view)**
 
 - NoMod
-  - [Yorushika - Deep Indigo (Sing) \[That's Why I Give Up on Mapping\]](https://osu.ppy.sh/beatmapsets/949288#osu/1982289)
-  - [LeaF - Musical Movement (DarkVortex) \[Crescendo\]](https://osu.ppy.sh/beatmapsets/158141#osu/386899)
-  - [TELTAPOT x IOSYS - Cirno's Perfect Math Class: The 9th Anniversary Edition (RemmyX25) \[Insane\]](https://osu.ppy.sh/beatmapsets/821903#osu/1722614)
-  - [BEMANI Sound Team "Nekomata Master" - The last of world music (Heilia) \[#3: Extra\]](https://osu.ppy.sh/beatmapsets/1060239#osu/2219980)
-  - [onoken - Amnolys (J1_) \[d3n's Extra\]](https://osu.ppy.sh/beatmapsets/999175#osu/2089702)
-  - [factal - Wake Up While Sleeping (Nokris) \[Decubitus Paralitis\]](https://osu.ppy.sh/beatmapsets/749323#osu/1578351)
+  - [AliA - joker (Nelliel) \[extreme\]](https://osu.ppy.sh/beatmapsets/1121435#osu/2417473)
+  - [sak remixed by LeaF - WoRLd Tempest (Kroytz) \[mithew's MAXIMUM\]](https://osu.ppy.sh/beatmapsets/490916#osu/1415026)
+  - [Co shu Nie - bullet (Gillstar) \[Expert\]](https://osu.ppy.sh/beatmapsets/1060156#osu/2219809)
+  - [ZUTOMAYO - Seigi (Nathan) \[quack\]](https://osu.ppy.sh/beatmapsets/1011155#osu/2116466)
+  - [bbn - Perpetual Trauma (LMT) \[Virtuoso\]](https://osu.ppy.sh/beatmapsets/1056233#osu/2207749)
+  - [BlackY - Sthenno (Rtyzen) \[STAR\]](https://osu.ppy.sh/beatmapsets/991780#osu/2074136)
 - Hidden
   - [LeaF - Monkey Business -Satire mix- (-PC) \[Krazy!\]](https://osu.ppy.sh/beatmapsets/999031#osu/2089429)
   - [Camellia - Fly to night, tonight (xLolicore-) \[Illumination\]](https://osu.ppy.sh/beatmapsets/1119638#osu/2339004)
