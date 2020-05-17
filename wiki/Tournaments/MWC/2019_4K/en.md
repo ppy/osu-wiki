@@ -209,39 +209,39 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 
 ### Grand Finals
 
-| Saturday, 2019-10-26 | | | | |
+| Saturday, 2019-10-26 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Brazil** ![][flag_BR] | **7** | 1 | ![][flag_US] United States | [#1](https://osu.ppy.sh/community/matches/55810169) |
 
-| Sunday, 2019-10-27 | | | | |
+| Sunday, 2019-10-27 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | South Korea ![][flag_KR] | 5 | **7** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/55838067) |
 | Brazil ![][flag_BR] | 6 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/55839916) |
 
 ### Finals
 
-| Saturday, 2019-10-19 | | | | |
+| Saturday, 2019-10-19 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Thailand ![][flag_TH] | 5 | **7** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/55660708) |
 | Philippines ![][flag_PH] | 4 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/55663695) |
 
-| Sunday, 2019-10-20 | | | | |
+| Sunday, 2019-10-20 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Brazil ![][flag_BR] | 3 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/55680596) |
 | Japan ![][flag_JP] | 1 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/55682554) |
 
 ### Semifinals
 
-| Friday, 2019-10-11 | | | | |
+| Friday, 2019-10-11 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **United Kingdom** ![][flag_GB] | **7** | 1 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/55482041) |
 
-| Saturday, 2019-10-12 | | | | |
+| Saturday, 2019-10-12 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | Singapore ![][flag_SG] | 2 | **7** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/55506987) |
 | **Brazil** ![][flag_BR] | **7** | 0 | ![][flag_TH] Thailand | [#1](https://osu.ppy.sh/community/matches/55508916) |
 
-| Sunday, 2019-10-13 | | | | |
+| Sunday, 2019-10-13 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **United States** ![][flag_US] | **7** | 0 | ![][flag_CN] China | -win by default- |
 | **Japan** ![][flag_JP] | **7** | 4 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/55532167) |
@@ -251,12 +251,12 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 
 ### Quarterfinals
 
-| Saturday, 2019-10-05 | | | | |
+| Saturday, 2019-10-05 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Thailand** ![][flag_TH] | **6** | 2 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/55339583) |
 | **France** ![][flag_FR] | **6** | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/55342309) |
 
-| Sunday, 2019-10-06 | | | | |
+| Sunday, 2019-10-06 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | United States ![][flag_US] | 3 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/55357590) |
 | Chile ![][flag_CL] | 2 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/55358879) |
@@ -267,13 +267,13 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 
 ### Round of 16
 
-| Saturday, 2019-09-28 | | | | |
+| Saturday, 2019-09-28 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Thailand** ![][flag_TH] | **6** | 0 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/55169227) |
 | **United Kingdom** ![][flag_GB] | **6** | 1 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/55172180) |
 | **United States** ![][flag_US] | **6** | 1 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/55175426) |
 
-| Sunday, 2019-09-29 | | | | |
+| Sunday, 2019-09-29 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Brazil** ![][flag_BR] | **6** | 0 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/55188975) |
 | Indonesia ![][flag_ID] | 3 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/55197898) |
@@ -283,7 +283,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 
 ### Group Stage
 
-| Saturday, 2019-09-21 | | | | |
+| Saturday, 2019-09-21 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/54999166) |
 | **Taiwan** ![][flag_TW] | **5** | 0 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/54999137) |
@@ -309,7 +309,7 @@ The osu!mania 4K World Cup 2019 is run by various community members by distribut
 | **United States** ![][flag_US] | **5** | 0 | ![][flag_PE] Peru | [#1](https://osu.ppy.sh/community/matches/55016437) |
 | **Mexico** ![][flag_MX] | **5** | 0 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/55016493) |
 
-| Sunday, 2019-09-22 | | | | |
+| Sunday, 2019-09-22 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **China** ![][flag_CN] | **5** | 0 | ![][flag_PE] Peru | [#1](https://osu.ppy.sh/community/matches/55022217) |
 | **Chile** ![][flag_CL] | **5** | 0 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/55022251) |

@@ -11,7 +11,7 @@ Di dalam osu! kamu dapat menekan tombol `Show Chat` di pojok kanan bawah layar a
 - Tab ini hanya ada beberapa channel. Cukup klik Tab yang lainnya untuk pindah ke channel tersebut atau dengan mengklik tanda tambah `+` untuk membuka tab channel yang baru.
 - Warna dari masing-masing pengguna memiliki arti yang berbeda.
 
-| Warna | |
+| Warna |  |
 | :-- | :-- |
 | Putih | Kamu |
 | Kuning Pucat | Orang Lain |

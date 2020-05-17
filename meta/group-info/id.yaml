@@ -1,13 +1,11 @@
-outdated: true
+outdated: true # missing entries
+separator: ", "
 gmt:
-  areas_of_focus:
-    beatmap_moderation: Moderasi beatmap
-    chat_moderation: Moderasi chat
-    forum_moderation: Moderasi forum
-    official_team_presence: Official team presence
-    osu!_development: osu! development
-    player_support: Bantuan pemain
-    ranking_criteria: Ranking Criteria
-    technical_support: Dukungan teknis
-    tournament_organisation: Turnamen # this one needs to be updated, rn it's just "Tournaments"
-    wiki_administration: Administrasi wiki
+  areas:
+    beatmap: Moderasi beatmap
+    chat: Moderasi chat
+    forum: Moderasi forum
+    player: Bantuan pemain
+    support: Dukungan teknis
+    tournaments: Turnamen
+    wiki: Administrasi wiki

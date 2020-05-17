@@ -47,7 +47,7 @@ The nik's Winter Tour 2019 was run by various community members by distributing 
 | Streamer | ![][flag_US] [Dios Dong](https://osu.ppy.sh/users/3958619), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911), ![][flag_DE] [WitchOfFrost](https://osu.ppy.sh/users/7511840) |
 | Commentator | ![][flag_US] [Dios Dong](https://osu.ppy.sh/users/3958619), ![][flag_DE] [hi-def](https://osu.ppy.sh/users/10697191), ![][flag_NL] [Just Lucan](https://osu.ppy.sh/users/5007943), ![][flag_DE] [WitchOfFrost](https://osu.ppy.sh/users/7511840), ![][flag_US] [YoshiLover456](https://osu.ppy.sh/users/6843383) |
 | Designer | ![][flag_US] [\_p0ke\_](https://osu.ppy.sh/users/5434711), ![][flag_US] [Cindelluna](https://osu.ppy.sh/users/3039847) |
-| Statistician |  ![][flag_NL] [nikolomara](https://osu.ppy.sh/users/10077264) |
+| Statistician | ![][flag_NL] [nikolomara](https://osu.ppy.sh/users/10077264) |
 | Wiki Editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links

@@ -38,7 +38,7 @@ outdated: true
 | [mm201](https://osu.ppy.sh/users/30655) | osu! Entwickler Team, mm sliders |
 | [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone Entwickler |
 | Phil | Forum Design Arbeit |
-| [Sarumaru](https://osu.ppy.sh/users/9427)  ([Sarumaru@deviantART.com](http://sarumaru.deviantart.com/)) | Originales pippi Entwurf und Grafikdesign |
+| [Sarumaru](https://osu.ppy.sh/users/9427) ([Sarumaru@deviantART.com](http://sarumaru.deviantart.com/)) | Originales pippi Entwurf und Grafikdesign |
 | [Sinistro](https://osu.ppy.sh/users/5530) | Besprechungsprotokolle, Große FAQ Beiträger |
 | [woc2006](https://osu.ppy.sh/users/1105845) | osu! Entwickler Team, osu! osu!mania Modus Entwickler |
 

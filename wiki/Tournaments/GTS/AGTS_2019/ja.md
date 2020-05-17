@@ -114,7 +114,7 @@ Advanced Global Taiko Showdown 2019は様々なコミュニティメンバーが
 
 | 順位 | 国 |
 | :-: | :-- |
-| ![金王冠](/wiki/shared/crown-gold.png "１位") | ![][flag_JP]  |
+| ![金王冠](/wiki/shared/crown-gold.png "１位") | ![][flag_JP] |
 | ![銀王冠](/wiki/shared/crown-silver.png "２位") | ![][flag_CA] |
 | ![銅王冠](/wiki/shared/crown-bronze.png "３位") | ![][flag_RU] |
 

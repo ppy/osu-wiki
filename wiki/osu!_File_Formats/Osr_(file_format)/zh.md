@@ -47,47 +47,47 @@ outdated: true
 
 解压缩之后，文本包括一些用逗号分隔的数据。每一块数据反映了一个动作，表现在4个数字在下面的表格里：`w | x | y | z.`
 
-| 部分 | 数据类型 | 描述                                                   |
+| 部分 | 数据类型 | 描述 |
 | :-- | :-- | :-- |
-| w    | Long     | 距离上个动作的时间（毫秒）                             |
-| x    | Float    | 鼠标的X坐标（从0到512）                                |
-| y    | Float    | 鼠标的Y坐标（从0到384）                                |
-| z    | Integer  | 鼠标、键盘按键的组合 (M1 = 1, M2 = 2, K1 = 4, K2 = 8, 烟雾 = 16) (K1总是与M1一起，K2总是与M2一起。1+4=5 2+8=10。) |
+| w | Long | 距离上个动作的时间（毫秒） |
+| x | Float | 鼠标的X坐标（从0到512） |
+| y | Float | 鼠标的Y坐标（从0到384） |
+| z | Integer | 鼠标、键盘按键的组合 (M1 = 1, M2 = 2, K1 = 4, K2 = 8, 烟雾 = 16) (K1总是与M1一起，K2总是与M2一起。1+4=5 2+8=10。) |
 
 ## Mods
 
 可见于 [osu! API](https://github.com/peppy/osu-api/wiki#mods).
 
-| Mod            | 值 (BitOffset) | 注释                               |
+| Mod | 值 (BitOffset) | 注释 |
 | :-- | :-- | :-- |
-| None           | 0              |                                    |
-| NoFail         | 1 (0)          |                                    |
-| Easy           | 2 (1)          |                                    |
-| TouchDevice    | 4 (2)          | 替换未使用的 NoVideo mod            |
-| Hidden         | 8 (3)          |                                    |
-| HardRock       | 16 (4)         |                                    |
-| SuddenDeath    | 32 (5)         |                                    |
-| DoubleTime     | 64 (6)         |                                    |
-| Relax          | 128 (7)        |                                    |
-| HalfTime       | 256 (8)        |                                    |
-| Nightcore      | 512 (9)        | 通常和DT 一起使用 : 512 + 64 = 576 |
-| Flashlight     | 1024 (10)      |                                    |
-| Autoplay       | 2048 (11)      |                                    |
-| SpunOut        | 4096 (12)      |                                    |
-| Relax2         | 8192 (13)      | Autopilot                          |
-| Perfect        | 16384 (14)     |                                    |
-| Key4           | 32768 (15)     |                                    |
-| Key5           | 65536 (16)     |                                    |
-| Key6           | 131072 (17)    |                                    |
-| Key7           | 262144 (18)    |                                    |
-| Key8           | 524288 (19)    |                                    |
-| keyMod         | 1015808        | k4+k5+k6+k7+k8                     |
-| FadeIn         | 1048576 (20)   |                                    |
-| Random         | 2097152 (21)   |                                    |
-| LastMod        | 4194304 (22)   | Cinema                             |
-| TargetPractice | 8388608 (23)   | 仅osu!cuttingedge                  |
-| Key9           | 16777216 (24)  |                                    |
-| Coop           | 33554432 (25)  |                                    |
-| Key1           | 67108864 (26)  |                                    |
-| Key3           | 134217728 (27) |                                    |
-| Key2           | 268435456 (28) |                                    |
+| None | 0 |  |
+| NoFail | 1 (0) |  |
+| Easy | 2 (1) |  |
+| TouchDevice | 4 (2) | 替换未使用的 NoVideo mod |
+| Hidden | 8 (3) |  |
+| HardRock | 16 (4) |  |
+| SuddenDeath | 32 (5) |  |
+| DoubleTime | 64 (6) |  |
+| Relax | 128 (7) |  |
+| HalfTime | 256 (8) |  |
+| Nightcore | 512 (9) | 通常和DT 一起使用 : 512 + 64 = 576 |
+| Flashlight | 1024 (10) |  |
+| Autoplay | 2048 (11) |  |
+| SpunOut | 4096 (12) |  |
+| Relax2 | 8192 (13) | Autopilot |
+| Perfect | 16384 (14) |  |
+| Key4 | 32768 (15) |  |
+| Key5 | 65536 (16) |  |
+| Key6 | 131072 (17) |  |
+| Key7 | 262144 (18) |  |
+| Key8 | 524288 (19) |  |
+| keyMod | 1015808 | k4+k5+k6+k7+k8 |
+| FadeIn | 1048576 (20) |  |
+| Random | 2097152 (21) |  |
+| LastMod | 4194304 (22) | Cinema |
+| TargetPractice | 8388608 (23) | 仅osu!cuttingedge |
+| Key9 | 16777216 (24) |  |
+| Coop | 33554432 (25) |  |
+| Key1 | 67108864 (26) |  |
+| Key3 | 134217728 (27) |  |
+| Key2 | 268435456 (28) |  |

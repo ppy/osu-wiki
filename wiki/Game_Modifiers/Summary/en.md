@@ -34,7 +34,7 @@ outdated: true
 
 *Note: This table only affects beatmaps converted from osu!standard to osu!mania during play, not on osu!mania-specific beatmaps!*
 
-| | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
+|  | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
 | :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
 | 4K | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
 | 5K | 0.74 | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 |
@@ -47,7 +47,7 @@ outdated: true
 
 The Co-Op mod gives **no** penalty on osu!mania-specific beatmaps.
 
-| | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
+|  | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
 | :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
 | 4K | 0.82 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
 | 5K | 0.78 | 0.86 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
