@@ -35,7 +35,7 @@ The **osu! Singapore-Indonesia-Malaysia Tournament** (***OSIM***) was a double-e
 
 ## Organization
 
-The OIT 2020 was run by various Singaporean, Indonesian, and Malaysian osu! community members.
+OSIM was run by various Singaporean, Indonesian, and Malaysian osu! community members.
 
 | Position | Members |
 | :-- | :-- |
