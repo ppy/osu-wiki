@@ -201,46 +201,22 @@ The OIT 2020 was run by various Indonesian osu! community members.
   - [DJ Noriken - Stargazer feat. YUC'e (PSYQUI Remix) (-Jordan-) \[Expert\]](https://osu.ppy.sh/beatmapsets/853867#osu/1784484)
   - [SO SUS + KONKA - ACORN (squirrelpascals) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/412859#osu/902716)
 - Hidden
-  - [kozato - Izayoi Sakura (Gust) \[yozakura\]](https://osu.ppy.sh/beatmapsets/893573#osu/1867443)
-  - [556t - Kyuuen no Hana (Kyubey) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/484497#osu/1033514)
+  - [Forte Escape - Ya! Party! (Pasonia) \[Waiter!!!\]](https://osu.ppy.sh/beatmapsets/3463#osu/21878)
+  - [Comedian Harmonists - Perpetuum Mobile (Bonsai) \[Expertum\]](https://osu.ppy.sh/beatmapsets/316390#osu/891079)
 - HardRock
-  - [D.J.Nero - Joker (09kami) \[lsahi's Another\]](https://osu.ppy.sh/beatmapsets/405524#osu/884089)
-  - [Nekomata Master feat. Mayumi Morinaga - Sleepless Days \[LASS' EXHAUST\]](https://osu.ppy.sh/beatmapsets/842312#osu/1767000)
+  - [BESTie - Excuse Me (Euny) \[ShadrEuny's Ex\]](https://osu.ppy.sh/beatmapsets/423925#osu/915925)
+  - [Itou Kanako - Hacking to the Gate (TV Size) (ykcarrot) \[Insane\]](https://osu.ppy.sh/beatmapsets/45659#osu/142449)
 - DoubleTime
-  - [07th Expansion - Ruriair (Vass_Bass) \[Reverce\]](https://osu.ppy.sh/beatmapsets/83961#osu/231570)
-  - [Suigetsu Yamato - Fuujin Shoujo (Suigetsu Yamato Remix) (ktgster) \[Insane\]](https://osu.ppy.sh/beatmapsets/647546#osu/1372439)
-  - [Wotamin - Cat Food (rEdo) \[Insane\]](https://osu.ppy.sh/beatmapsets/35258#osu/114379)
+  - [Train - 50 Ways to Say Goodbye (mancusojuanmattos) \[Insane\]](https://osu.ppy.sh/beatmapsets/92893#osu/250926)
+  - [fripSide - fortuna on the Sixteenth night (Nichiyouki) \[Insane\]](https://osu.ppy.sh/beatmapsets/132601#osu/333375)
+  - [Amatsuki - Hoshi no Komoriuta (Glaceon) \[Pleasant Lullaby\]](https://osu.ppy.sh/beatmapsets/919080#osu/1919109)
 - FreeMod
-  - [mafumafu feat. IA - Adagaeshi Syndrome (DJ Lucky) \[RLC's Extra\]](https://osu.ppy.sh/beatmapsets/938437#osu/2054203)
-  - [syatten remixed celas - Bird Sprite -Awakening of Light- (Reiji-RJ) \[Another\]](https://osu.ppy.sh/beatmapsets/43999#osu/137943)
+  - [Yousei Teikoku - Zetsubou plantation (Saten) \[Insane\]](https://osu.ppy.sh/beatmapsets/86009#osu/235879)
+  - [Nelly ft. Fergie - Party People (YGOKid8) \[KIRBY'S BIRTHDAY PARTY!\]](https://osu.ppy.sh/beatmapsets/12721#osu/53493)
 - Tiebreaker
-  - **[FELT - Lies in Reality (Frostings) \[Albatross\]](https://osu.ppy.sh/beatmapsets/568845#osu/1205981)**
-
-### Round of 32
-
-**[Download the mappack here! (112 MB)](https://drive.google.com/file/d/1H7h9eLHXqy2or2LixjcmZ_P5pwlUiOYo/view)**
-
-- NoMod
-  - [AKINO with bless4 - EXTRA MAGIC HOUR (koreapenguin) \[Extra\]](https://osu.ppy.sh/beatmapsets/224335#osu/523661)
-  - [ZUN remixed by LeaF - Resurrection Spell (Muya) \[Another\]](https://osu.ppy.sh/beatmapsets/292644#osu/662064)
-  - [DJ TOTTO - Shoujo Alice to Hakoniwa Gensou Concerto (J1_) \[#1 (Winner!) -- OIT 2020 Version\]](https://drive.google.com/file/d/1ODp9O82egL5uXWzPG65znTg3lVjJUDI6/view)
-  - [Feryquitous - Ordirehv (JeZag) \[Asami's Another\]](https://osu.ppy.sh/beatmapsets/935602#osu/2154177)
-  - [Akiakane - FlashBack (Kiiwa) \[Insane\]](https://osu.ppy.sh/beatmapsets/54672#osu/166126)
-- Hidden
-  - [ONE OK ROCK - Liar (Snepif) \[Bloodlust\]](https://osu.ppy.sh/beatmapsets/240761#osu/569097)
-  - [sakuzyo - Rainbow Night Sky Highway (Foreverends) \[Insane\]](https://osu.ppy.sh/beatmapsets/150497#osu/371334)
-- HardRock
-  - [zakuro - Inochi ni Kirawarete Iru. (Mirash) \[Sing's Another\]](https://osu.ppy.sh/beatmapsets/693727#osu/1598151)
-  - [NoKANY - Mujinku-Vacuum Track#ADD8E6- (\[ Drop \]) \[Insane\]](https://osu.ppy.sh/beatmapsets/800133#osu/1685341)
-- DoubleTime
-  - [Perfume - Laser Beam (eiri-) \[Hyper\]](https://osu.ppy.sh/beatmapsets/905272#osu/1889454)
-  - [Kozato - 45nen no Yukizakura (LoliSora) \[Hyper\]](https://osu.ppy.sh/beatmapsets/50771#osu/155931)
-  - [9nine - With You / With Me (Modem) \[GiraNely's Insane\]](https://osu.ppy.sh/beatmapsets/301246#osu/738735)
-- FreeMod
-  - [Shintani Ryoko - Wonderful World (Laurier) \[Insane\]](https://osu.ppy.sh/beatmapsets/45306#osu/141525)
-  - [IOSYS - CAMELLIA! \~Dangerous Camellia Vacation\~ (DJPop) \[Insane\]](https://osu.ppy.sh/beatmapsets/18879#osu/66684)
-- Tiebreaker
-  - **[AliA - AliVe (ailv) \[Promises\]](https://osu.ppy.sh/beatmapsets/1034823#osu/2163531)**
+  - **[Halozy - Kanshou no Matenrou (sodarose) \[The Great Magician\]](https://osu.ppy.sh/beatmapsets/339400#osu/750846)**
+  - **[yanaginagi - Muteki no Soldier (BinJip) \[Invincible\]](https://osu.ppy.sh/beatmapsets/52221#osu/182001)**
+  - **KikuoHana - Nobore! Susume! Takai Tou (Atalanta) \[Collapsed\]](https://osu.ppy.sh/beatmapsets/1022990#osu/2139992)**
 
 ### Qualifiers
 
