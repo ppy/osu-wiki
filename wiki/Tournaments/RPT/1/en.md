@@ -79,23 +79,9 @@ The ROI PRO Tournament is run by various community members.
 | **ToedLover** | ![][flag_ID] **[Rexeez](https://osu.ppy.sh/users/1987591)**, ![][flag_ID] [Caruma](https://osu.ppy.sh/users/13187450), ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773), ![][flag_ID] [Eg2nD](https://osu.ppy.sh/users/5365662) |
 | **xHirayuki** | ![][flag_ID] **[MOMO543959](https://osu.ppy.sh/users/2373484)**, ![][flag_ID] [Felter](https://osu.ppy.sh/users/5865319), ![][flag_ID] [Takaichi](https://osu.ppy.sh/users/909745), ![][flag_ID] [audreych](https://osu.ppy.sh/users/9181855) |
 
-## Match schedule: Grand Finals
+## Podium
 
-Saturday, 16 May 2020:
-
-| Match ID | Team A | Team B | Match time (UTC+7) |
-| :-: | --: | :-- | :-: |
-| #29 | xHirayuki | Baqua | **15:30** |
-
-Sunday, 17 May 2020:
-
-| Match ID | Team A | Team B | Match time (UTC+7) |
-| :-: | --: | :-- | :-: |
-| #30¹ | ToedLover |  | **15:00** |
-| #31² |  | ToedLover | **21:00** |
-
-¹ Encounter dependent on winner of Match #29
-² Match will take place if Team B on Match #30 wins the match
+![](img/podium.jpg "RPT podium")
 
 ## Mappools
 
