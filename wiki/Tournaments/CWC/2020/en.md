@@ -88,7 +88,7 @@ The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) an
 
 ## Match schedule: Quarterfinals
 
-### Saturday, 16 May 2020
+### Saturday, 23 May 2020
 
 | Team A |  |  | Team B | Match time | Local time A | Local time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
@@ -97,7 +97,7 @@ The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) an
 | Taiwan | ![][flag_TW] | ![][flag_PL] | Poland | **12:00 UTC** | 20:00 UTC+08 | 14:00 UTC+02 |
 | Italy | ![][flag_IT] | ![][flag_ID] | Indonesia | **13:30 UTC** | 15:30 UTC+02 | 20:30 UTC+07 |
 
-### Sunday, 17 May 2020
+### Sunday, 24 May 2020
 
 | Team A |  |  | Team B | Match time | Local time A | Local time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
