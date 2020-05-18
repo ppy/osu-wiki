@@ -72,6 +72,10 @@ OSIM was run by various Singaporean, Indonesian, and Malaysian osu! community me
 | **DaFaK** | ![][flag_MY] **[FaithInOsu](https://osu.ppy.sh/users/10178187)** | ![][flag_MY] [Desumond](https://osu.ppy.sh/users/7399262) | ![][flag_MY] [KrispyKrep](https://osu.ppy.sh/users/10985924) |
 | **emilia fanclub** | ![][flag_MY] **[not_aweeb](https://osu.ppy.sh/users/9375317)** | ![][flag_MY] [Vexine](https://osu.ppy.sh/users/4042706) | ![][flag_MY] [Rexyne](https://osu.ppy.sh/users/9707834) |
 | **ff15** | ![][flag_ID] **[121Brian121](https://osu.ppy.sh/users/6192975)** | ![][flag_ID] [Clayweg](https://osu.ppy.sh/users/11374005) | ![][flag_SG] [JokThree](https://osu.ppy.sh/users/7713152) |
+| **fryed pussy** | ![][flag_ID] **[\[fry\]](https://osu.ppy.sh/users/4917604)** | ![][flag_ID] [Walfrid](https://osu.ppy.sh/users/6600809) | ![][flag_MY] [PandaHung143](https://osu.ppy.sh/users/9637220) |
+| **gebratene Muschi** | ![][flag_ID] **[Vinno](https://osu.ppy.sh/users/10717635)** | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) | ![][flag_MY] [TachibanaTaki12](https://osu.ppy.sh/users/9924719) |
+| **Happy Ending** | ![][flag_SG] **[\[-Lockon-\]](https://osu.ppy.sh/users/6726331)** | ![][flag_SG] [ExImperia](https://osu.ppy.sh/users/5200499) | ![][flag_ID] [C4rm4](https://osu.ppy.sh/users/13187450) |
+| **mofumofu lover** | ![][flag_SG] **[Rtzer0](https://osu.ppy.sh/users/5407620)** | ![][flag_SG] [\_gt](https://osu.ppy.sh/users/8301957) | ![][flag_ID] [Veltlion](https://osu.ppy.sh/users/10999079) |
 
 ## Mappools
 
