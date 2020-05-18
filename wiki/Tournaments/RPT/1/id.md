@@ -5,62 +5,62 @@ tags:
 
 # ROI PRO Tournament
 
-![RPT logo](img/logo.jpg)
+![Logo RPT](img/logo.jpg)
 
-The **ROI PRO Tournament** (***RPT***) was an Indonesian double-elimination 3v3 osu! tournament hosted by ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839). The tournament was restricted to Bahasa Indonesia-speaking players only. This was the first installment of the ROI PRO Tournament.
+**ROI PRO Tournament** (***RPT***) merupakan sebuah turnamen osu! 3v3 Regional Indonesia yang diselenggarakan oleh ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839). Peserta turnamen ini dibatasi khusus untuk pemain yang Berbahasa Indonesia saja. Kali ini merupakan yang pertama kalinya ROI PRO Tournament diselenggarakan.
 
-## Tournament schedule
+## Jadwal turnamen
 
-| Event | Timestamp |
+| Event | Waktu pelaksanaan |
 | --: | :-- |
-| Registration phase | 2020-03-15/2020-04-05 |
-| Live drawings | 2020-04-11 (20:30 UTC+7) |
-| Qualifiers | 2020-04-06/2020-04-12 |
-| Round of 16 | 2020-04-17/2020-04-19 |
-| Quarterfinals | 2020-04-24/2020-04-26 |
-| Semifinals | 2020-05-01/2020-05-03 |
-| Finals | 2020-05-09/2020-03-10 |
-| Grand Finals | 2020-05-16/2020-05-18 |
+| Tahap registrasi | 2020-03-15/2020-04-05 |
+| Pengundian | 2020-04-11 (20:30 UTC+7) |
+| Kualifikasi | 2020-04-06/2020-04-12 |
+| Babak 16 besar | 2020-04-17/2020-04-19 |
+| Perempat final | 2020-04-24/2020-04-26 |
+| Semi final | 2020-05-01/2020-05-03 |
+| Final | 2020-05-09/2020-03-10 |
+| Grand Final | 2020-05-16/2020-05-18 |
 
-## Prizes
+## Hadiah
 
-| Placing | Prizes |
+| Posisi | Hadiah |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter tag for each team member |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag for each team member |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag for each team member |
+| ![Mahkota emas](/wiki/shared/crown-gold.png "Posisi pertama") | 4 bulan osu!supporter tag untuk setiap anggota tim |
+| ![Mahkota perak](/wiki/shared/crown-silver.png "Posisi kedua") | 2 bulan osu!supporter tag untuk setiap anggota tim |
+| ![Mahkota perunggu](/wiki/shared/crown-bronze.png "Posisi ketiga") | 1 bulan osu!supporter tag untuk setiap anggota tim |
 
-Generous donations from ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_ID] [Lampshade](https://osu.ppy.sh/users/4791294), ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), and ![][flag_US] [RandyV](https://osu.ppy.sh/users/5389220) helped fund some of the prizes.
+Sumbangan dermawan dari ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_ID] [Lampshade](https://osu.ppy.sh/users/4791294), ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), dan ![][flag_US] [RandyV](https://osu.ppy.sh/users/5389220) yang telah membantu mendanai sejumlah hadiah.
 
-## Organisation
+## Struktur organisasi
 
-The ROI PRO Tournament was run by various community members.
+ROI PRO Tournament dapat terlaksana dikarenakan bantuan berbagai anggota komunitas.
 
-| Position | Member(s) |
+| Jabatan | Anggota |
 | :-- | :-- |
-| Organiser | ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839) |
-| Co-organiser | ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
+| Penyelenggara | ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839) |
+| Asisten penyelenggara | ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
 | Administrator | ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
-| Map selector | ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
-| Map tester | ![][flag_ID] [CyberX](https://osu.ppy.sh/users/2156370), ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
-| Referee | ![][flag_ID] [\_Ayz](https://osu.ppy.sh/users/3119560), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ![][flag_ID] [NasKun](https://osu.ppy.sh/users/4072313), ![][flag_ID] [Naverlyn](https://osu.ppy.sh/users/14324722), ![][flag_ID] [NoVaLian](https://osu.ppy.sh/users/6459827), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608), ![][flag_ID] [Remuru](https://osu.ppy.sh/users/3654220), ![][flag_ID] [Tix](https://osu.ppy.sh/users/11421465), ![][flag_AU] [Walfurus](https://osu.ppy.sh/users/13684009), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
-| Streamer | ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
-| Commentator | ![][flag_ID] [\_Ayz](https://osu.ppy.sh/users/3119560), ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [Midwinter](https://osu.ppy.sh/users/9762056), ![][flag_ID] [Nexa-](https://osu.ppy.sh/users/6155896), ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
-| Designer | ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [Nexa-](https://osu.ppy.sh/users/6155896), ![][flag_ID] [-Remilia-](https://osu.ppy.sh/users/2513995), ![][flag_ID] [Tix](https://osu.ppy.sh/users/11421465) |
-| Statistician | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201), ![][flag_CA] [Malikil](https://osu.ppy.sh/users/3208718), ![][flag_ID] [Tix](https://osu.ppy.sh/users/11421465), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839) |
-| Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Pemilih map | ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
+| Penguji map | ![][flag_ID] [CyberX](https://osu.ppy.sh/users/2156370), ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
+| Wasit | ![][flag_ID] [\_Ayz](https://osu.ppy.sh/users/3119560), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ![][flag_ID] [NasKun](https://osu.ppy.sh/users/4072313), ![][flag_ID] [Naverlyn](https://osu.ppy.sh/users/14324722), ![][flag_ID] [NoVaLian](https://osu.ppy.sh/users/6459827), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608), ![][flag_ID] [Remuru](https://osu.ppy.sh/users/3654220), ![][flag_ID] [Tix](https://osu.ppy.sh/users/11421465), ![][flag_AU] [Walfurus](https://osu.ppy.sh/users/13684009), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
+| Penyiar | ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
+| Komentator | ![][flag_ID] [\_Ayz](https://osu.ppy.sh/users/3119560), ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [Midwinter](https://osu.ppy.sh/users/9762056), ![][flag_ID] [Nexa-](https://osu.ppy.sh/users/6155896), ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
+| Desainer | ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [Nexa-](https://osu.ppy.sh/users/6155896), ![][flag_ID] [-Remilia-](https://osu.ppy.sh/users/2513995), ![][flag_ID] [Tix](https://osu.ppy.sh/users/11421465) |
+| Ahli statistik | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201), ![][flag_CA] [Malikil](https://osu.ppy.sh/users/3208718), ![][flag_ID] [Tix](https://osu.ppy.sh/users/11421465), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839) |
+| Editor wiki | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
-## Links
+## Tautan terkait
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1035782)
-- [RPT Discord server](https://discord.gg/xjtz5t6)
-- [Livestream](https://www.twitch.tv/roiprotournament)
-- [Challonge brackets](https://challonge.com/roiprotournament)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1YRVgU95F8lBCP-sJqsexdtChzyF_iZJv_wNGd_QSIao/edit?usp=sharing)**
+- [Topik diskusi](https://osu.ppy.sh/community/forums/topics/1035782)
+- [Server Discord RPT](https://discord.gg/xjtz5t6)
+- [Siaran langsung](https://www.twitch.tv/roiprotournament)
+- [Klasemen Challonge](https://challonge.com/roiprotournament)
+- **[Statistik](https://docs.google.com/spreadsheets/d/1YRVgU95F8lBCP-sJqsexdtChzyF_iZJv_wNGd_QSIao/edit?usp=sharing)**
 
-## Participants
+## Peserta
 
-| Team | Members |
+| Tim | Anggota |
 | :-- | :-- |
 | **!faq ping** | ![][flag_ID] **[- Rosemary -](https://osu.ppy.sh/users/2526649)**, ![][flag_ID] [Alan-](https://osu.ppy.sh/users/8937198), ![][flag_ID] [Aizu-](https://osu.ppy.sh/users/7074941), ![][flag_ID] [Kiranaide](https://osu.ppy.sh/users/7661389) |
 | **Aerith > Tifa** | ![][flag_ID] **[Agouka](https://osu.ppy.sh/users/9606647)**, ![][flag_ID] [Xicyte](https://osu.ppy.sh/users/10212581), ![][flag_ID] [LethanAxeger](https://osu.ppy.sh/users/11083463), ![][flag_ID] [Veltlion](https://osu.ppy.sh/users/10999079) |
@@ -85,9 +85,9 @@ The ROI PRO Tournament was run by various community members.
 
 ## Mappools
 
-### Grand Finals
+### Grand Final
 
-**[Download the mappack here! (158 MB)](https://drive.google.com/file/d/1AXqUsNa5GOSpUVKZzIQbDHb8lTi42f-M/view?usp=sharing)**
+**[Unduh mappack di sini! (158 MB)](https://drive.google.com/file/d/1AXqUsNa5GOSpUVKZzIQbDHb8lTi42f-M/view?usp=sharing)**
 
 - NoMod
   - [THE ORAL CIGARETTES - Flower (fritz\_divine) \[Vagueness\]](https://osu.ppy.sh/beatmapsets/878327#osu/2259898)
@@ -116,9 +116,9 @@ The ROI PRO Tournament was run by various community members.
 - Tiebreaker
   - **[AcuticNotes - Abst:Re:Act (Ryuusei Aika) \[\u91cd\u751f\]](https://osu.ppy.sh/beatmapsets/839256#osu/1756927)**
 
-### Finals
+### Final
 
-**[Download the mappack here! (133 MB)](https://drive.google.com/file/d/1RpD-WewkrwR80aiX5yOPrd0VbXOKqgbM/view?usp=sharing)**
+**[Unduh mappack di sini! (133 MB)](https://drive.google.com/file/d/1RpD-WewkrwR80aiX5yOPrd0VbXOKqgbM/view?usp=sharing)**
 
 - NoMod
   - [mafumafu - Rinne Tensei (AirinCat) \[Reincarnation\]](https://osu.ppy.sh/beatmapsets/1083811#osu/2266659)
@@ -147,9 +147,9 @@ The ROI PRO Tournament was run by various community members.
 - Tiebreaker
   - **[wa. vs ETIA. - Akasagarbha -extended mix- (Ambient) \[Boundless\]](https://osu.ppy.sh/beatmapsets/712372#osu/1505901)**
 
-### Semifinals
+### Semi final
 
-**[Download the mappack here! (115 MB)](https://drive.google.com/file/d/1p6VVfux4_yrmB9Rlqxjp8cVo_Y7DRu1i/view?usp=sharing)**
+**[Unduh mappack di sini! (115 MB)](https://drive.google.com/file/d/1p6VVfux4_yrmB9Rlqxjp8cVo_Y7DRu1i/view?usp=sharing)**
 
 - NoMod
   - [Harada Hitomi - Kyoumei no True Force (Kibbleru) \[Ex\]](https://osu.ppy.sh/beatmapsets/454893#osu/975153)
@@ -178,9 +178,9 @@ The ROI PRO Tournament was run by various community members.
 - Tiebreaker
   - **[Ayane - Arrival of Tears (Natsu) \[Collab Ultra\]](https://osu.ppy.sh/beatmapsets/321425#osu/715013)**
 
-### Quarterfinals
+### Perempat final
 
-**[Download the mappack here! (127 MB)](https://drive.google.com/file/d/1dxd5XH2EuBaWhCIMyoyvg2e9pmy1gQ05/view?usp=sharing)**
+**[Unduh mappack di sini! (127 MB)](https://drive.google.com/file/d/1dxd5XH2EuBaWhCIMyoyvg2e9pmy1gQ05/view?usp=sharing)**
 
 - NoMod
   - [Itou Kanako - Fatima (10nya) \[1.064750%\]](https://osu.ppy.sh/beatmapsets/787938#osu/1653723)
@@ -209,9 +209,9 @@ The ROI PRO Tournament was run by various community members.
 - Tiebreaker
   - **[Camellia - Literal Crystal In The Cyphisonia (Down) \[Cryptic Distortion\]](https://osu.ppy.sh/beatmapsets/784961#osu/1647864)**
 
-### Round of 16
+### Babak 16 besar
 
-**[Download the mappack here! (90 MB)](https://drive.google.com/file/d/141ky8BlEB5IkFjF7xSPxDp_KGwXkllCB/view?usp=sharing)**
+**[Unduh mappack di sini! (90 MB)](https://drive.google.com/file/d/141ky8BlEB5IkFjF7xSPxDp_KGwXkllCB/view?usp=sharing)**
 
 - NoMod
   - [Minato Aqua - Dadadada Tenshi (Amateurre) \[Tenshi\]](https://osu.ppy.sh/beatmapsets/1079554#osu/2267030)
@@ -235,9 +235,9 @@ The ROI PRO Tournament was run by various community members.
 - Tiebreaker
   - **[Chitose Haru & Kumagai Eri - Perfect Free (xlni) \[VINxlni's Duet\]](https://osu.ppy.sh/beatmapsets/456387#osu/990324)**
 
-### Qualifiers
+### Kualifikasi
 
-**[Download the mappack here! (71 MB)](https://drive.google.com/file/d/1XDHJ7cQPC2KXVrAkZolGY8iuQd_XVr7T/view?usp=sharing)**
+**[Unduh mappack di sini! (71 MB)](https://drive.google.com/file/d/1XDHJ7cQPC2KXVrAkZolGY8iuQd_XVr7T/view?usp=sharing)**
 
 - NoMod
   - [Hanazono Tae (CV: Otsuka Sae) - Hanazono Denki Guitar!!! (Akitoshi) \[Expert\]](https://osu.ppy.sh/beatmapsets/943947#osu/1971326)
@@ -254,122 +254,122 @@ The ROI PRO Tournament was run by various community members.
   - [ALiCE'S EMOTiON - Ghostly Parapara Ship (Hardcore Edit) (Thite) \[gowww\]](https://osu.ppy.sh/beatmapsets/27914#osu/106474)
   - [zts - death(from stupefaction) (Mirash) \[La Pandaline's Insane\]](https://osu.ppy.sh/beatmapsets/889315#osu/1858801)
 
-## Match results
+## Hasil pertandingan
 
-### Grand Finals
+### Grand Final
 
-Saturday, 16 May 2020:
+Sabtu, 16 Mei 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Tim 1 |  |  | Tim 2 | Tautan pertandingan |
 | --: | :-: | :-: | :-- | :-- |
 | xHirayuki | 5 | **7** | **Baqua** | [#1](https://osu.ppy.sh/community/matches/61729867) |
 
-Sunday, 17 May 2020:
+Minggu, 17 Mei 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Tim 1 |  |  | Tim 2 | Tautan pertandingan |
 | --: | :-: | :-: | :-- | :-- |
 | ToedLover | 5 | **7** | **Baqua** | [#1](https://osu.ppy.sh/community/matches/61768057) |
 
-Monday, 18 May 2020:
+Senin, 18 Mei 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Tim 1 |  |  | Tim 2 | Tautan pertandingan |
 | --: | :-: | :-: | :-- | :-- |
 | Baqua | 6 | **7** | **ToedLover** | [#1](https://osu.ppy.sh/community/matches/61812863) |
 
-### Finals
+### Final
 
-Saturday, 9 May 2020:
+Sabtu, 9 Mei 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Tim 1 |  |  | Tim 2 | Tautan pertandingan |
 | --: | :-: | :-: | :-- | :-- |
 | **osu premium** | **7** | 2 | BINDAA | [#1](https://osu.ppy.sh/community/matches/61443394) |
 | **Baqua** | **7** | 5 | F3B Takjil Hunter | [#1](https://osu.ppy.sh/community/matches/61443888) |
 
-Sunday, 10 May 2020:
+Minggu, 10 Mei 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Tim 1 |  |  | Tim 2 | Tautan pertandingan |
 | --: | :-: | :-: | :-- | :-- |
 | **Baqua** | **7** | 1 | osu premium | [#1](https://osu.ppy.sh/community/matches/61481626) |
 | xHirayuki | 2 | **7** | **ToedLover** | [#1](https://osu.ppy.sh/community/matches/61484293) |
 
-### Semifinals
+### Semi final
 
-Friday, 1 May 2020:
+Jum'at, 1 Mei 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Tim 1 |  |  | Tim 2 | Tautan pertandingan |
 | --: | :-: | :-: | :-- | :-- |
 | **!faq ping** | **6** | 1 | seatard | [#1](https://osu.ppy.sh/community/matches/61128943) |
 | **BINDAA** | **6** | 0 | LewdMegumin | [#1](https://osu.ppy.sh/community/matches/61128138) |
 
-Saturday, 2 May 2020:
+Sabtu, 2 Mei 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Tim 1 |  |  | Tim 2 | Tautan pertandingan |
 | --: | :-: | :-: | :-- | :-- |
 | Moonafic | 2 | **6** | **F3B Takjil Hunter** | [#1](https://osu.ppy.sh/community/matches/61160722) |
 | !faq ping | 3 | **6** | **BINDAA** | [#1](https://osu.ppy.sh/community/matches/61170088) |
 | Sudahan Ngosu | 5 | **6** | **team's sumippe** | [#1](https://osu.ppy.sh/community/matches/61169595) |
 
-Sunday, 3 May 2020:
+Minggu, 3 Mei 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Tim 1 |  |  | Tim 2 | Tautan pertandingan |
 | --: | :-: | :-: | :-- | :-- |
 | **ToedLover** | **6** | 0 | osu premium | [#1](https://osu.ppy.sh/community/matches/61201365) |
 | **xHirayuki** | **6** | 2 | Baqua | [#1](https://osu.ppy.sh/community/matches/61201637) |
 | **F3B Takjil Hunter** | **6** | 1 | team's sumippe | [#1](https://osu.ppy.sh/community/matches/61201777) |
 
-### Quarterfinals
+### Perempat final
 
-Friday, 24 April 2020:
+Jum'at, 24 April 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Tim 1 |  |  | Tim 2 | Tautan pertandingan |
 | --: | :-: | :-: | :-- | :-- |
 | **seatard** | **6** | 0 | Anti Vtuber | [#1](https://osu.ppy.sh/community/matches/60825388) |
 
-Saturday, 25 April 2020:
+Sabtu, 25 April 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Tim 1 |  |  | Tim 2 | Tautan pertandingan |
 | --: | :-: | :-: | :-- | :-- |
 | **xHirayuki** | **6** | 2 | BINDAA | [#1](https://osu.ppy.sh/community/matches/60863134) |
 | **F3B Takjil Hunter** | **0** | -1 | alan, kami basah | *win by default* |
 | **Baqua** | **6** | 2 | !faq ping | [#1](https://osu.ppy.sh/community/matches/60864579) |
 | **LewdMegumin** | **6** | 5 | Aerith > Tifa | [#1](https://osu.ppy.sh/community/matches/60875645) |
 
-Sunday, 26 April 2020:
+Minggu, 26 April 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Tim 1 |  |  | Tim 2 | Tautan pertandingan |
 | --: | :-: | :-: | :-- | :-- |
 | **osu premium** | **6** | 5 | Moonafic | [#1](https://osu.ppy.sh/community/matches/60907427) |
 | Sudahan Ngosu | 2 | **6** | **ToedLover** | [#1](https://osu.ppy.sh/community/matches/60908530) |
 | Oni | 2 | **6** | **team's sumippe** | [#1](https://osu.ppy.sh/community/matches/60917048) |
 
-### Round of 16
+### Babak 16 besar
 
-Friday, 17 April 2020:
+Jum'at, 17 April 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Tim 1 |  |  | Tim 2 | Tautan pertandingan |
 | --: | :-: | :-: | :-- | :-- |
 | alan, kami basah | 3 | **5** | **BINDAA** | [#1](https://osu.ppy.sh/community/matches/60523917) |
 | F3B Takjil Hunter | 2 | **5** | **xHirayuki** | [#1](https://osu.ppy.sh/community/matches/60525938) |
 | Oni | 1 | **5** | **Baqua** | [#1](https://osu.ppy.sh/community/matches/60528453) |
 
-Saturday, 18 April 2020:
+Sabtu, 18 April 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Tim 1 |  |  | Tim 2 | Tautan pertandingan |
 | --: | :-: | :-: | :-- | :-- |
 | Anti Vtuber | 0 | **5** | **ToedLover** | [#1](https://osu.ppy.sh/community/matches/60568009) |
 
-Sunday, 19 April 2020:
+Minggu, 19 April 2020:
 
-| Team 1 |  |  | Team 2 | Match link |
+| Tim 1 |  |  | Tim 2 | Tautan pertandingan |
 | --: | :-: | :-: | :-- | :-- |
 | Aerith > Tifa | 0 | **5** | **Moonafic** | [#1](https://osu.ppy.sh/community/matches/60573463), [#2](https://osu.ppy.sh/community/matches/60607339) |
 | **osu premium** | **5** | 1 | LewdMegumin | [#1](https://osu.ppy.sh/community/matches/60607539) |
 | team's sumippe | 3 | **5** | **!faq ping** | [#1](https://osu.ppy.sh/community/matches/60607438) |
 | **Sudahan Ngosu** | **5** | 3 | seatard | [#1](https://osu.ppy.sh/community/matches/60611729) |
 
-### Qualifiers
+### Kualifikasi
 
-| Seed | Player | Average rank |
+| Tingkat | Peserta | Rata-rata peringkat |
 | --: | :-- | --: |
 | #1 | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | 5.3 |
 | #2 | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) | 9.9 |
@@ -456,84 +456,85 @@ Sunday, 19 April 2020:
 | #83 | ![][flag_ID] [AyamJAGO](https://osu.ppy.sh/users/14117880) | 82.5 |
 | #84 | ![][flag_ID] [Aurelloyell](https://osu.ppy.sh/users/14861737) | 83.1 |
 
-- Results will be splited per 16 players:
-  - Players placed within #1 - #16 will be **Tier 1** player and captain of the team in the upcoming knockout stage.
-  - Players placed within #16 - #32 will be **Tier 2** player.
-  - Players placed within #33 - #48 will be **Tier 3** player.
-  - Players placed within #49 - #64 will be **Tier 4** player.
-  - Players placed within #65 or below are eliminated and out of the tournament.
-- More detailed qualifiers result can be accessed via the statistics sheet inside [links section](#links).
-- Average rank is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
+- Hasil akan dibagi per 16 peserta:
+  - Peserta yang berada di tingkat #1 - #16 akan ditunjuk menjadi peserta **Tingkat 1** dan juga menjadi kapten daripada tim yang akan dibuat.
+  - Peserta yang berada di tingkat #17 - #32 akan ditunjuk menjadi peserta **Tingkat 2**.
+  - Peserta yang berada di tingkat #33 - #48 akan ditunjuk menjadi peserta **Tingkat 3**.
+  - Peserta yang berada di tingkat #49 - #64 akan ditunjuk menjadi peserta **Tingkat 4**.
+  - Peserta yang berada di tingkat #65 - seterusnya dianggap tereliminasi dan keluar dari turnamen.
+- Hasil kualifikasi yang lebih terperinci dapat diakses melalui statistik di dalam [bagian tautan](#tautan-terkait).
+- Rata-rata peringkat ditentukan dengan `Σ posisi yang diraih saat memainkan mappool kualifikasi / jumlah mappool di kualifikasi`
 
-## Ruleset
+## Peraturan
 
-### General rules
+### Peraturan umum
 
-1. ROI PRO Tournament is a **3v3** osu! tournament.
-2. The team size is **4 members** per team.
-3. The score system used will be **Score V2**.
-4. There are **no rank restrictions** to participate in the tournament.
-5. The tournament is however restricted to Bahasa Indonesia speaking player only and has Indonesian flag in their osu! profile (Indonesian players who live abroad could give further confirmation through osu! PM or Discord server to the organiser).
-6. The tournament will use Qualifiers to determine the seeding of each player.
-7. **Joining the RPT Discord server is mandatory.** If the player isn't a member of the server by the closing of the registration phase, they'll be ineligible to participate in the tournament.
-8. Amount of players that participate in the tournament will determine the format of the knockout stage:
-   - **\<32 players:** Cancelled.
-   - **32 - 64 players:** Top 32 will proceed to the Quarterfinals.
-   - **64 - 128 players:** Top 64 will proceed to the Round of 16.
-   - **\>128 players:** Top 128 will proceed to the Round of 32.
-9. During the Qualifiers, players will be sorted by their performance playing the Qualifiers mappool. The tiers used will be: Tier 1, Tier 2, Tier 3, Tier 4 with Tier 1 being the best performance and Tier 4 has worse performance.
-10. Team composition: One player **will be picked randomly from each tier** to form a **team of 4**.
-11. Player with Tier 1 seed will be the captain of the formed team.
-12. All matches will take place using the **WIB (Waktu Indonesia Barat)** timezone.
-13. **Map selector, map tester, referee, and administrator** cannot participate in the tournament. However, **commentator and streamer** are free to participate.
-14. Reschedule had to be requested **at least 24 hours before** the previous proposed schedule, anything ahead won't be granted.
+1. ROI PRO Tournament merupakan turnamen osu! **3v3**.
+2. Batasan anggota adalah **4 peserta** per tim.
+3. Sistem penilaian yang akan digunakan adalah **Score V2**.
+4. **Tidak ada batasan peringkat** yang diterapkan untuk berpartisipasi di turnamen ini.
+5. Turnamen in dikhususkan bagi peserta yang berbendera Indonesia (untuk peserta yang tinggal di luar Indonesia nanti akan diminta untuk konfirmasi via Daring osu!/Discord).
+6. Turnamen akan mengadakan kualifikasi untuk menentukan tingkatan peserta.
+7. Setiap peserta diharuskan bergabung ke server Discord RPT. Jika peserta tidak bergabung pada saat registrasi tutup, maka peserta tidak akan diizinkan untuk berpartisipasi dalam turnamen.
+8. Jumlah peserta yang mendaftar akan menentukan format turnamen ini:
+   - **\<32 peserta:** Turnamen dibatalkan.
+   - **32 - 64 peserta:** 32 peserta terbaik akan lanjut ke perempat final.
+   - **64 - 128 peserta:** 64 peserta terbaik akan lanjut ke babak 16 besar.
+   - **\>128 peserta:** 128 peserta terbaik akan lanjut ke babak 32 besar.
+9. Dalam babak kualifikasi, player akan diurutkan berdasarkan hasil skor qualifier yaitu: Tingkat 1, Tingkat 2, Tingkat 3, Tingkat 4 (Tiap tingkat akan memiliki 8/16/32 peserta tergantung jumlah pendaftar).
+10. Komposisi team: Satu pemain akan **diambil secara acak dari tiap tingkat** untuk membentuk **tim dengan 4 anggota**.
+11. Pemain tingkat 1 akan ditunjuk sebagai kapten.
+12. Semua waktu akan dalam format **WIB (Waktu Indonesia Barat)**.
+13. **Map selector, map tester, referee, and administrator** tidak diperbolehkan untuk bermain pada turnamen ini. Tetapi, untuk **commentator and streamer** dipersilakan untuk bermain.
+14. Penjadwalan ulang pertandingan harus dilakukan **setidaknya 24 jam sebelum** jadwal lama, semua permintaan yang telah melewati batas 24 jam ini akan ditolak.
 
-### Lobby rules
+### Peraturan lobi
 
-1. Referee will create a lobby within 5 minutes of the match start. **Team Captain** or any member of the team must be online in this time and receive the invite from the referee.
-2. Each team can pick or skip a warmup. The maximum duration of the map is **4:00**.
-3. **Captain** of the team will do a `!roll` command to determine the pick and ban order. The winner of the `!roll` will choose wether they will pick first or ban first.
-4. Each team has a **10 minutes** late compensation. If there are any team members that is offline after the time limit, they'll be declared as **forfeitting** the match. Exception may apply if referee and the opponent agree to extend the time limit duration.
-5. Each team has **2 minutes** to pick/ban a map.
-   - If the limit has passed, the opposite team will get the decision instead.
-6. After picking a map, they'll be given a **90 seconds** time to prepare and click the ready button.
-   - If the limit has passed, the opposite team will get the point instead.
-7. In case of any disconnection, the map will be restarted only the disconnection take place within **30 seconds** of the play.
-   - If the player happens to have the issue again, the match will resume instead.
+1. Wasit akan membuat lobi 5 menit sebelum match dimulai. Kapten atau anggota tim harus online untuk mendapatkan undangan masuk ke dalam ruangan yang dibuat.
+2. Setiap tim dapat memilih untuk melakukan warmup atau bisa juga melewati warmup. Maksimal durasi map warmup adalah **4:00**.
+3. **Kapten** akan melakukan `!roll` untuk menentukan siapa yang memilih/melakukan *ban*. Pemenang `!roll` dapat memilih apa mereka akan memilih pertama atau melakukan *ban* pertama.
+4. Masing-masing tim mendapatkan kompensasi keterlambatan selama **10 menit**. Apabila ada anggota tim yang tidak hadir/lengkap setelah waktu kompensasi, maka tim tersebut akan dinyatakan **menyerah**. Terkecuali bila mendapat persetujuan dari tim lawan dan wasit pertandingan, maka durasinya dapat diperpanjang.
+5. Setiap tim memiliki waktu **2 menit** untuk menentukan pilihan/*ban* map.
+   - Apabila telah melewati batas waktu, maka tim lawan yang akan menentukan.
+6. Tiap tim memiliki waktu **90 detik** untuk ready.
+   - Apabila telah melewati batas waktu, maka tim lawan akan dianggap telah memenangkan poin dari map itu.
+7. Jikalau terjadi pemutusan jaringan maka map dapat diulang hanya jika peserta terputusnya dalam durasi **30 detik** pertama saat map dimainkan.
+   - Jika terjadi lagi, maka map akan tetap dilanjutkan.
 
-### Qualifiers details
+### Rincian kualifikasi
 
-1. Qualifiers lobby will be opened when it's time, as displayed in the [statistics sheet](#links). Each player can choose which lobby they'd choose to schedule their own time availability.
-2. Each lobby will have a max of **16 players**.
-3. Each lobby will be handled by **1 referee**.
-4. There will be no warmup during the Qualifiers.
-5. Lobby will use the Qualifiers mappool as sorted in the [statistics sheet](#links).
-6. Qualifiers will have a **Head-to-Head** mode active.
-7. Failed scores **will be counted**.
-8. In case of any disconnection, the map will be restarted only the disconnection take place within **30 seconds** of the play.
-   - If the player happens to have the issue again, the match will resume instead.
+1. Lobi kualifikasi akan dibuka sesuai jadwal yang akan di post pada [statistik](#tautan-terkait). Setiap peserta dapat memilih lobi yang sesuai dengan jadwal yang tersedia.
+2. Setiap lobi memiliki batas maksimal sebanyak **16 peserta**.
+3. Setiap lobi memiliki **satu wasit** yang bertanggung jawab.
+4. Tidak akan ada warmup selama kualifikasi.
+5. Lobi akan memainkan mappool kualifikasi sesuai urutan yang berada dalam [statistik](#tautan-terkait).
+6. Kualifikasi akan dilakukan dengan mode **Head-to-Head**.
+7. Skor yang gagal **tetap dihitung**.
+8. Jikalau terjadi pemutusan jaringan maka map dapat diulang hanya jika peserta terputusnya dalam durasi **30 detik** pertama saat map dimainkan.
+   - Jika terjadi lagi, maka map akan tetap dilanjutkan.
 
-### Procedures
+### Prosedur
 
-1. Team who **scored the most** will win the match, failed scores **will be counted**.
-2. There will be different mappool for each stage.
-3. All teams in the winner and losers brackets will use the same mappool.
-4. Each team will have one ban during the **Round of 16**.
-5. In the Quarterfinals and forward, each team will have **two bans** but the team cannot ban a map from the **same category twice**.
-6. NoFail mod is available to use freely.
-7. Each team cannot play the map within the same category twice back to back (exception for **NoMod**).
-8. The winning condition and its ban limit for each stage are listed below:
-   - Round Of 16: Best-Of-9 (First to 5 points) with 1 ban
-   - Quarterfinals and Semifinals: Best-Of-11 (First to 6 points) with 2 bans
-   - Finals, and Grand Finals: Best-Of-13 (First to 7 points) with 2 bans
-9. In case of a tie with one map remaining to play, the **Tiebreaker** will be played with FreeMod applied.
-10. During the FreeMod bracket, there are several options to choose:
+1. **Skor yang lebih tinggi akan menentukan pemenang tiap pertandingan.**
+2. Akan ada mappool berbeda untuk tiap babak.
+3. Semua tim yang baik berada di golongan pemenang maupun golongan kalah akan memainkan mappool yang sama dalam babak itu.
+4. Setiap tim akan mendapatkan **satu *ban*** di babak 16 besar.
+5. Pada babak perempat final dan seterusnya, setiap tim akan mendapatkan **dua *ban*** tetapi tidak dapat melakukan *ban* dari **mod yang sama** (kecuali golongan NoMod).
+6. Mod NoFail diperbolehkan untuk dipakai.
+7. Tiap tim tidak boleh memilih map dari mod yang sama secara berturut - turut (kecuali **NoMod**).
+8. Kondisi menang dan batas *ban* untuk setiap babak tercantum di bawah ini:
+   - Babak 16 besar: Best-Of-9 (Yang mendapat 5 poin pertama) dengan 1 *ban*
+   - Perempat final dan Semi final: Best-Of-11 (Yang mendapat 6 poin pertama) with 2 *ban*
+   - Final dan Grand Final: Best-Of-13 (Yang mendapat 7 poin pertama) dengan 2 *ban*
+9. Bila kedua tim memiliki skor sama dan tidak ada lagi map yang bisa dimainkan, maka **Tiebreaker** akan dimainkan dengan kondisi FreeMod.
+10. Dalam kondisi FreeMod, terdapat beberapa pilihan yang dapat diambil:
     - Available mods to pick are **Hidden** and **HardRock**. Mod combinations are also allowed.
-    - **A minimum of 2 players within each team is required to use mod**.
+    - Mod yang dapat digunakan adalah **Hidden** dan **HardRock**. Kombinasi dua mod juga diperbolehkan.
+    - **Minimal harus ada 2 peserta dari tiap tim yang memakai mod**.
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
+[flag_TR]: /wiki/shared/flag/TR.gif "Turki"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_US]: /wiki/shared/flag/US.gif "Amerika Serikat"
