@@ -35,12 +35,11 @@ The **osu! Singapore-Indonesia-Malaysia Tournament** (***OSIM***) was a double-e
 
 ## Organization
 
-The OIT 2020 was run by various Indonesian osu! community members.
+The OIT 2020 was run by various Singaporean, Indonesian, and Malaysian osu! community members.
 
 | Position | Members |
 | :-- | :-- |
-| Host | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548) |
-| Co-host | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368), ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825) |
+| Host | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531) |
 | Map selector | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496) |
 | Streamer | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Alice Pi](https://osu.ppy.sh/users/8787324), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_ID] [Victim_Crasher](https://osu.ppy.sh/users/2084869) |
 | Commentator | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_ID] [Remuru](https://osu.ppy.sh/users/3654220), ![][flag_ID] [Ascaveth](https://osu.ppy.sh/users/3245206), ![][flag_ID] [Kirinagi](https://osu.ppy.sh/users/5937545), ![][flag_ID] [Akebono](https://osu.ppy.sh/users/1815316), ![][flag_ID] [MasterfulNote5](https://osu.ppy.sh/users/7247988), ![][flag_ID] [Velstadt](https://osu.ppy.sh/users/6209095), ![][flag_ID] [thefarrel007](https://osu.ppy.sh/users/2429128), ![][flag_ID] [Fyl](https://osu.ppy.sh/users/10069307) |
@@ -220,22 +219,22 @@ The OIT 2020 was run by various Indonesian osu! community members.
 
 ### Qualifiers
 
-**[Download the mappack here! (84 MB)](https://drive.google.com/file/d/1RbTVj8veT9vl4k_aQvD1PNiIO5VHgi57/view)**
+**[Download the mappack here! (66 MB)](https://mega.nz/file/chh30AbT#6CM48SlQz6G--ilvXdgXZpW20Ayga-IcQbMeOZNJHXk)**
 
 - NoMod
-  - [Yuna (CV: Kanada Sayaka) - Break Beat Bark! (SkyFlame) \[Ohwow's Extra\]](https://osu.ppy.sh/beatmapsets/924734#osu/1943282)
-  - [monet - Kagami no Sekai ni wa Watashi shika Inai -another version- (Mirash) \[Extra\]](https://osu.ppy.sh/beatmapsets/685725#osu/1476104)
-  - [dj TAKA - Elpis (Maddy) \[Kaiden\]](https://osu.ppy.sh/beatmapsets/93450#osu/252103)
-  - [Camellia - Chirality (Suzuki_1112) \[StarR's Another\]](https://osu.ppy.sh/beatmapsets/692068#osu/1464590)
+  - [Silent Siren - Hachigatsu no Yoru (Meg) \[August\]](https://osu.ppy.sh/beatmapsets/391703#osu/853167)
+  - [Shounen Radio - neu (v2b) \[EX\]](https://osu.ppy.sh/beatmapsets/28121#osu/93893)
+  - [Ryu* - Sakura Reflection (MYTK Remix) (Leader) \[Another\]](https://osu.ppy.sh/beatmapsets/288486#osu/650610)
+  - [sasakure.UK x lasah - 2 HAL 9000 (cheesiest) \[Extra - cheesiest.UKyshiro\]](https://osu.ppy.sh/beatmapsets/109230#osu/309797)
 - Hidden
-  - [ARForest - Altros (Shiirn) \[Mir's Extra\]](https://osu.ppy.sh/beatmapsets/625822#osu/1323428)
-  - [Foreground Eclipse - Flames Within These Black Feathers (Saten) \[Regou\]](https://osu.ppy.sh/beatmapsets/47599#osu/152702)
+  - [FIRST AID - BEE-U-TIFUL (yeahyeahyeahhh) \[MX\]](https://osu.ppy.sh/beatmapsets/35152#osu/114748)
+  - [Hatsune Miku - Subarashii Sekai (val0108) \[S.S\]](https://osu.ppy.sh/beatmapsets/25825#osu/96351)
 - HardRock
-  - [Mind Vortex - Arc (Natteke) \[Nsane\]](https://osu.ppy.sh/beatmapsets/693727#osu/1598151)
-  - [sound piercer - Castorpollux (fanzhen0019) \[bye\]](https://osu.ppy.sh/beatmapsets/665535#osu/1408458)
+  - [zakuro - Inochi ni Kirawarete Iru. (Mirash) \[Sing's Another\]](https://osu.ppy.sh/beatmapsets/693727#osu/1598151)
+  - [ginkiha, TEA - Haruka (Short Ver.) (Hinsvar) \[Niva's Insane\]](https://osu.ppy.sh/beatmapsets/1110461#osu/2320395)
 - DoubleTime
-  - [EastNewSound - Sadistic Paranoia (TicClick) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/100931#osu/267657)
-  - [senya - Koakuma Apple (EUROBEAT Remix) (Chocopikel) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/44300#osu/138816)
+  - [Sayuri - Sore wa Chiisana Hikari no Youna (FrostxE) \[Insane\]](https://osu.ppy.sh/beatmapsets/427725#osu/923319)
+  - [Kamiyama Yoh - CUT (Ryuusei Aika) \[Irohas' Insane\]](https://osu.ppy.sh/beatmapsets/1053399#osu/2201286)
 
 ## Match results
 
