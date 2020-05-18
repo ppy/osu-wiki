@@ -450,6 +450,10 @@ Sunday, 19 April 2020:
 | #39 | B | ![][flag_ID] [Walfrid](https://osu.ppy.sh/users/6600809) | 4.326 |
 | #40 | B | ![][flag_SG] [ExImperia](https://osu.ppy.sh/users/5200499) | 4.272 |
 | #41 | C | ![][flag_SG] [Lunarsol](https://osu.ppy.sh/users/6622650) | 4.188 |
+| #42 | C | ![][flag_ID] [C4rm4](https://osu.ppy.sh/users/13187450) | 4.07 |
+| #43 | C | ![][flag_MY] [Rexyne](https://osu.ppy.sh/users/9707834) | 3.875 |
+| #44 | C | ![][flag_MY] [hilo123](https://osu.ppy.sh/users/9938586) | 3.763 |
+| #45 | C | ![][flag_MY] [Reinaru](https://osu.ppy.sh/users/7353307) | 3.688 |
 
 ## Ruleset
 
