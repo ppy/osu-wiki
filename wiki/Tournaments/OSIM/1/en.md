@@ -108,7 +108,7 @@ The OIT 2020 was run by various Indonesian osu! community members.
   - [bbn - Perpetual Trauma (LMT) \[Virtuoso\]](https://osu.ppy.sh/beatmapsets/1056233#osu/2207749)
   - [BlackY - Sthenno (Rtyzen) \[STAR\]](https://osu.ppy.sh/beatmapsets/991780#osu/2074136)
 - Hidden
-  - [Minamotoya feat. Kuroa* - Hana Kagerou (404 AimNotFound) \[Yokes' Expert\]](https://osu.ppy.sh/beatmapsets/929130#osu/1945907)
+  - [Minamotoya feat. Kuroa\* - Hana Kagerou (404 AimNotFound) \[Yokes' Expert\]](https://osu.ppy.sh/beatmapsets/929130#osu/1945907)
   - [Ampzer - Lotus (-PC) \[Extra\]](https://osu.ppy.sh/beatmapsets/745475#osu/1571592)
   - [69 de 74 - Aratanaru Ketsui (Yooh) \[Renaissance\]](https://osu.ppy.sh/beatmapsets/754704#osu/1890973)
 - HardRock
@@ -175,20 +175,21 @@ The OIT 2020 was run by various Indonesian osu! community members.
   - [suzumu - Shinzou Connect (Ryuusei Aika) \[coco's Extra\]](https://osu.ppy.sh/beatmapsets/964855#osu/2100202)
   - [sakuzyo - AXION (Star\* Remix 2016 Update) (Ryuusei Aika) \[Dynamix's Extra\]](https://osu.ppy.sh/beatmapsets/957007#osu/2003512)
 - HardRock
-  - [M2U - H.O.W.Ling (iyasine) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/274219#osu/622589)
-  - [Kanzaki Elza starring Reona - Independence (Yasaija 714) \[Seto's Expert\]](https://osu.ppy.sh/beatmapsets/780318#osu/1828634)
-  - [Ara Potato - Skype x Can Can (Real) \[Insane\]](https://osu.ppy.sh/beatmapsets/47078#osu/146235)
+  - [BTS - Boy In Luv (Lilyanna) \[Euny's Extra\]](https://osu.ppy.sh/beatmapsets/529064#osu/1289157)
+  - [McDSG - McDonald's Shiok Shiok Satay (-LeeP-) \[handsome's Extra\]](https://osu.ppy.sh/beatmapsets/211825#osu/498060)
+  - [BLANKFIELD - Retrospective City (Lasse) \[Extra\]](https://osu.ppy.sh/beatmapsets/1120645#osu/2341601)
 - DoubleTime
-  - [School Food Punishment - flashback trip syndrome (Damnae) \[Insane\]](https://osu.ppy.sh/beatmapsets/101282#osu/268445)
-  - [EiNA - Karen Setsugetsuka (Artethia & Epsilon Remix) (Lasse) \[Insane\]](https://osu.ppy.sh/beatmapsets/796468#osu/1674334)
-  - [FictionJunction YUUKA - Yakusoku (Riven) \[Promise\]](https://osu.ppy.sh/beatmapsets/315375#osu/703177)
-  - [EastNewSound - I Wish You Would Die (ztrot) \[Collab\]](https://osu.ppy.sh/beatmapsets/20068#osu/70258)
+  - [Demetori - Mukau no Sato ~ Deep Mountain (23KonG) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/284881#osu/643607)
+  - [sakuraburst - GLASS RIVER (Niva) \[confluence\]](https://osu.ppy.sh/beatmapsets/1061218#osu/2223721)
+  - [EastNewSound - Black Lotus (S i R i R u) \[SG - Death\]](https://osu.ppy.sh/beatmapsets/12026#osu/45544)
 - FreeMod
-  - [yuikonnu - Souzou Forest (IOException) \[Fantasy\]](https://osu.ppy.sh/beatmapsets/1004084#osu/2101472)
-  - [Kinjishi - Nageki no Ki (Matrix) \[Insane\]](https://osu.ppy.sh/beatmapsets/1017760#osu/2130349)
-  - [Eye_XY feat. Yoneko - Knight of Firmament (Pho) \[Sanctum\]](https://osu.ppy.sh/beatmapsets/317749#osu/707802)
+  - [SHIKI - Jade Star (Matrix) \[Insane\]](https://osu.ppy.sh/beatmapsets/1009328#osu/2226666)
+  - [Dormir - Une mage blanche (Sulfur) \[Kalibe's Extra\]](https://osu.ppy.sh/beatmapsets/759524#osu/1652205)
+  - [fhana - Wonder Stella (Crystal) \[yf & Vert's Extra\]](https://osu.ppy.sh/beatmapsets/380052#osu/1039330)
 - Tiebreaker
-  - **[Kumagai Eri (cv.Seto Asami) - Winteright (Matidesh) \[Eri (OIT Edit)\]](https://osu.ppy.sh/beatmapsets/1126786#osu/2354263)**
+  - **[taqumi - Pavimento dei Sospiri (neonat) \[Anima\]](https://osu.ppy.sh/beatmapsets/344998#osu/762025)**
+  - **[Rusty K - All That We Lost  (Mir) \[Daybreak\]](https://osu.ppy.sh/beatmapsets/655248#osu/1388622)**
+  - **[kors k - Insane Techniques (Extended) (Nathan) \[Hi-Tech\]](https://osu.ppy.sh/beatmapsets/456691#osu/978628)**  
 
 ### Round of 16
 
