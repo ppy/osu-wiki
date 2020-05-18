@@ -438,7 +438,18 @@ Sunday, 19 April 2020:
 | #27 | B | ![][flag_SG] [\_gt](https://osu.ppy.sh/users/8301957) | 4.927 |
 | #28 | B | ![][flag_ID] [Somay 287](https://osu.ppy.sh/users/4314559) | 4.814 |
 | #29 | B | ![][flag_MY] [wilson9909](https://osu.ppy.sh/users/8703188) | 4.813 |
-| #29 | B | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) | 4.771 |
+| #30 | B | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) | 4.771 |
+| #31 | B | ![][flag_MY] [Zeph2003](https://osu.ppy.sh/users/10343292) | 4.75 |
+| #32 | B | ![][flag_SG] [Moltenfury](https://osu.ppy.sh/users/3395820) | 4.726 |
+| #33 | B | ![][flag_SG] [OppaiSuki](https://osu.ppy.sh/users/1285403) | 4.681 |
+| #34 | B | ![][flag_ID] [Clayweg](https://osu.ppy.sh/users/11374005) | 4.526 |
+| #35 | B | ![][flag_ID] [Fayn](https://osu.ppy.sh/users/5390495) | 4.444 |
+| #36 | B | ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106) | 4.417 |
+| #37 | B | ![][flag_MY] [TequilaWolf](https://osu.ppy.sh/users/3633477) | 4.351 |
+| #38 | B | ![][flag_ID] [Takaichi](https://osu.ppy.sh/users/909745) | 4.333 |
+| #39 | B | ![][flag_ID] [Walfrid](https://osu.ppy.sh/users/6600809) | 4.326 |
+| #40 | B | ![][flag_SG] [ExImperia](https://osu.ppy.sh/users/5200499) | 4.272 |
+| #41 | C | ![][flag_SG] [Lunarsol](https://osu.ppy.sh/users/6622650) | 4.188 |
 
 ## Ruleset
 
