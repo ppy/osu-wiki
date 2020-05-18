@@ -407,7 +407,11 @@ Sunday, 19 April 2020:
 
 ### Qualifiers
 
-(150 BPM) dum dum dum dum
+| Placement | Seed | Player | Qualifier points |
+| --: | --: | :-- | --: |
+| #1 | A | ![][flag_ID] [Skydiver](https://osu.ppy.sh/u/4750008) | 9.081 |
+| #2 | A | ![][flag_MY] [Rampax](https://osu.ppy.sh/users/3995630) | 8.745 |
+| #3 | A | ![][flag_MY] [ShaneLiang](https://osu.ppy.sh/users/6716499) | 8.453 |
 
 ## Ruleset
 
