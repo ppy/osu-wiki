@@ -15,8 +15,8 @@ The **112's Corona Tournament** (***112CT***) was a double-elimination 2v2 osu! 
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2020-03-31/2020-04-08 |
-| Qualifiers Stage | 2020-04-09/2020-04-12 |
+| Registration phase | 2020-03-31/2020-04-08 |
+| Qualifiers | 2020-04-09/2020-04-12 |
 | Round of 16 | 2020-04-18/2020-04-20 |
 | Quarterfinals | 2020-07-25/2020-07-27 |
 | Semifinals | 2020-05-02/2020-05-04 |
@@ -31,22 +31,22 @@ The **112's Corona Tournament** (***112CT***) was a double-elimination 2v2 osu! 
 
 ## Organisation
 
-The 112's Corona Tournament was run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The 112's Corona Tournament was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852) |
-| Map Selector | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [Entry](https://osu.ppy.sh/users/10213311), ![][flag_NL] [iepie122](https://osu.ppy.sh/users/12235433), ![][flag_TR] [mezelyus](https://osu.ppy.sh/users/5938859), ![][flag_CA] [Sansnaka](https://osu.ppy.sh/users/5543535) |
+| Organiser | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852) |
+| Map selector | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [Entry](https://osu.ppy.sh/users/10213311), ![][flag_NL] [iepie122](https://osu.ppy.sh/users/12235433), ![][flag_TR] [mezelyus](https://osu.ppy.sh/users/5938859), ![][flag_CA] [Sansnaka](https://osu.ppy.sh/users/5543535) |
 | Referee | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [Coderbora](https://osu.ppy.sh/users/11873333), ![][flag_TR] [Entry](https://osu.ppy.sh/users/10213311), ![][flag_TR] [Hazar](https://osu.ppy.sh/users/6364554), ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779), ![][flag_NL] [goeo_](https://osu.ppy.sh/users/6832107), ![][flag_TR] [LeBoum](https://osu.ppy.sh/users/8700026), ![][flag_TR] [ozge1907](https://osu.ppy.sh/users/6511453), ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852), ![][flag_DE] [takoz53](https://osu.ppy.sh/users/2214428), ![][flag_TR] [tingirmin](https://osu.ppy.sh/users/9027514), ![][flag_TR] [We0l](https://osu.ppy.sh/users/13196066) |
 | Streamer | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [HakoFixed](https://osu.ppy.sh/users/7188447) |
 | Commentator | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779), ![][flag_TR] [mezelyus](https://osu.ppy.sh/users/5938859), ![][flag_NL] [goeo_](https://osu.ppy.sh/users/6832107) |
 | Designer | ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852) |
-| Wiki Editor | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) |
+| Wiki editor | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) |
 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1044086)
-- [112's Tournaments Discord Server](https://discord.gg/g3nqqeZ)
+- [112's Tournaments Discord server](https://discord.gg/g3nqqeZ)
 - [Livestream](https://www.twitch.tv/osu_turkiye)
 - [Challonge bracket](https://challonge.com/112korona2020)
 
@@ -89,7 +89,7 @@ The 112's Corona Tournament was run by various community members by distributing
 
 ### Finals
 
-**[Download the map pack here!](https://drive.google.com/uc?id=1sVaWgNQRU6nLrtt4tytYhd7xDZQJToxy&export=download)**
+**[Download the map pack here! (143 MB)](https://drive.google.com/uc?id=1sVaWgNQRU6nLrtt4tytYhd7xDZQJToxy&export=download)**
 
 - NoMod
   - [Suzuki Konomi - Blow out (Kalibe) \[Spell\]](https://osu.ppy.sh/beatmapsets/617203#osu/1629264)
@@ -118,7 +118,7 @@ The 112's Corona Tournament was run by various community members by distributing
 
 ### Semifinals
 
-**[Download the map pack here!](https://drive.google.com/uc?id=1nga7eNy-P94EzdRrw0c7Twi8mdthJTh_&export=download)**
+**[Download the map pack here! (134 MB)](https://drive.google.com/uc?id=1nga7eNy-P94EzdRrw0c7Twi8mdthJTh_&export=download)**
 
 - NoMod
   - [KISIDA KYODAN & THE AKEBOSI ROCKETS – Fall of Fall (Shirahane Suou) \[Extreme\]](https://osu.ppy.sh/beatmapsets/1084063#osu/2267125)
@@ -147,7 +147,7 @@ The 112's Corona Tournament was run by various community members by distributing
 
 ### Quarterfinals
 
-**[Download the map pack here!](https://drive.google.com/file/d/16YRfUGd2yHpeTLEwrryNIlftPaSCfxcg/view?usp=sharing)**
+**[Download the map pack here! (117 MB)](https://drive.google.com/file/d/16YRfUGd2yHpeTLEwrryNIlftPaSCfxcg/view?usp=sharing)**
 
 - NoMod
   - [yanaginagi – over and over (Hanazawa Kana) \[Kibb's Extra\]](https://osu.ppy.sh/beatmapsets/735969#osu/1656228)
@@ -176,7 +176,7 @@ The 112's Corona Tournament was run by various community members by distributing
 
 ### Round of 16
 
-**[Download the map pack here!](https://mega.nz/file/DRJ21Y7C#4Zfg5UZbhCNBo3e6ahidKMOsb7FqPHodBH7_2nyK3M8)**
+**[Download the map pack here! (80 MB)](https://mega.nz/file/DRJ21Y7C#4Zfg5UZbhCNBo3e6ahidKMOsb7FqPHodBH7_2nyK3M8)**
 
 - NoMod
   - [yuikonnu & ayaponzu\* – Shinde Shimau towa Nasakenai! (Frey) \[Continue? < Yes / No >\]](https://osu.ppy.sh/beatmapsets/710207#osu/1501342)
@@ -201,7 +201,7 @@ The 112's Corona Tournament was run by various community members by distributing
 
 ### Qualifiers Stage
 
-**[Download the map pack here!](https://112.s-ul.eu/ytXqfkWL)**
+**[Download the map pack here! (45 MB)](https://drive.google.com/uc?id=1ty3WFqIiY2OQ-bN9phbrivIOA1jry-WK&export=download)**
 
 - NoMod
   - [Camellia feat. Nanahira – Tsukitourou (jonathanlfj) \[Nyquill's Extra\]](https://osu.ppy.sh/beatmapsets/383147#osu/1313971)
@@ -221,21 +221,27 @@ The 112's Corona Tournament was run by various community members by distributing
 
 ### Finals
 
+Monday, 18 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **NEŞESİNE YAŞAM** | **6** | 3 | isim bulamadık | [#1](https://osu.ppy.sh/community/matches/61821224) |
+
 Friday, 8 May 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | .`**HIDDEN**`. | 5 | **6** | **isim bulamadık** | [#1](https://osu.ppy.sh/community/matches/61418925) |
 
 Saturday, 9 May 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Team Big Chungus | 2 | **6** | **NEŞESİNE YAŞAM** | [#1](https://osu.ppy.sh/community/matches/61461476) |
 
 Sunday, 10 May 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | SARS-CoV-3 | 0 | **6** | **ali vefa fanclub** | [#1](https://osu.ppy.sh/community/matches/61502822) |
 
@@ -244,7 +250,7 @@ Sunday, 10 May 2020:
 
 Sunday, 3 May 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Team Big Chungus | 0 | **1** | **SARS-CoV-3** | *-win by default-* |
 | **ali vefa fanclub** | **6** | 3 | isim bulamadık | [#1](https://osu.ppy.sh/community/matches/61222339) |
@@ -252,7 +258,7 @@ Sunday, 3 May 2020:
 
 Monday, 4 May 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **.`**HIDDEN**`.** | **6** | 1 | Zurna | [#1](https://osu.ppy.sh/community/matches/61260110) |
 
@@ -260,13 +266,13 @@ Monday, 4 May 2020:
 
 Saturday, 25 April 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **isim bulamadık** | **5** | 0 | nE | [#1](https://osu.ppy.sh/community/matches/60883287) |
 
 Sunday, 26 April 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **SARS-CoV-3** | **5** | 3 | i may be stupid | [#1](https://osu.ppy.sh/community/matches/60915278) |
 | yoo biz 1.yiz | 0 | **1** | **kms** | *-win by default-* |
@@ -274,7 +280,7 @@ Sunday, 26 April 2020:
 
 Saturday, 2 May 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | nE | 3 | **6** | **NEŞESİNE YAŞAM** | [#1](https://osu.ppy.sh/community/matches/61167419) |
 | **1.yiz kasmayın** | **6** | 1 | kms | [#1](https://osu.ppy.sh/community/matches/61178173) |
@@ -293,7 +299,7 @@ Saturday, 18 April 2020:
 
 Sunday, 19 April 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | yoo biz 1.yiz | 4 | **5** | **SARS-CoV-3** | [#1](https://osu.ppy.sh/community/matches/60613623) |
 | **nE** | **5** | 2 | 1deag | [#1](https://osu.ppy.sh/community/matches/60618664) |
@@ -302,26 +308,26 @@ Sunday, 19 April 2020:
 
 Monday, 20 April 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **isim bulamadık** | **5** | 1 | bucocukamerikalı | [#1](https://osu.ppy.sh/community/matches/60665808) |
 
 Saturday, 25 April 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **bucocukamerikalı** | **5** | 2 | 1deag | [#1](https://osu.ppy.sh/community/matches/60886113) |
 
 Sunday, 26 April 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Mağdurlar | 3 | **5** | **NEŞESİNE YAŞAM** | [#1](https://osu.ppy.sh/community/matches/60919257) |
 
 
 Monday, 27 April 2020:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Traps Not Gay V2 | 1 | **5** | **.`**HIDDEN**`.** | [#1](https://osu.ppy.sh/community/matches/60966668) |
 
@@ -335,21 +341,14 @@ Monday, 27 April 2020:
 4. Beatmap scoring is based on Score V2.
 5. Total weighted pp amount of each player should be 13200 to register the tournament. Refer [here](https://www.desmos.com/calculator/idwmeev5ns) for how it is calculated.
 6. The beatmaps for each round will be announced by the map selectors in advance at least a week before the actual matches take place. Only these beatmaps will be used during the respective matches.
-
   - One beatmap will be a tiebreaker beatmap. This beatmap will only be played in case of a tie. **The only exception to this is the Qualifiers pool.**
-
 7. Match schedule will be decided by tournament staff.
 8. In the event of a player disconnecting during the match due to connectivity or hardware difficulties;
-
-  - If the disconnection occurs within 30 seconds after beatmap begin, the beatmap is replayed. If it occurs after 30 seconds, the score on the match link is valid.
-        
+  - If the disconnection occurs within 30 seconds after beatmap begin, the beatmap is replayed. If it occurs after 30 seconds, the score on the match link is valid.  
   - The player will be given 10 minutes to reconnect. If the player fails to reconnect in 10 minutes, or frequently disconnects during the match and reconnecting takes too long, the player will be excluded from the match.
-
 9. Beatmaps cannot be reused in the same match.
-10. All players are supposed to be ready on time for the match. For the teams unable to show up on time, match can be postponed for 10 minutes. **If it exceeds, the specific player(s) will lose by default.**
-        
+10. All players are supposed to be ready on time for the match. For the teams unable to show up on time, match can be postponed for 10 minutes. **If it exceeds, the specific player(s) will lose by default.**        
   - If both teams are unable to attend, players will be blacklisted and the match will be postponed to a further date. **Blacklisted player(s) will be eliminated if the same situation occurs twice.**
-
 11. If one of the players of a team is unable to attend the match, on condition of the agreement of both teams, the match can be played in 1v2 format, yet 1v1 is unacceptable. If one of the teams does not agree, the match will be declared as Lose by Default for the team missing a player.
 12. All players and referees must be treated with respect. Instructions of the referees and tournament Management are to be followed. Decisions labeled as final are not to be objected.
 13. Disrupting the match by foul play, picking inappropriate warmup beatmaps, insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
@@ -359,9 +358,7 @@ Monday, 27 April 2020:
 ### Registration
 
 1. Every user interested in joining the tournament will sign up individually.
-
   - **Any form of registration, other than using the method provided in related channels, will be disregarded.**
-
 2. Registrations will be handled in the [Discord server](https://discord.gg/g3nqqeZ) via a special tournament bot. Instructions are provided in related channels. Participants **must not** leave the server for the duration of the tournament.
 3. As no badge will be awarded, tournament staff can participate in the tournament. Screening procedure will also not be applied for this tournament.
 4. Participants will be published after the Registration period ends.
@@ -379,39 +376,25 @@ Monday, 27 April 2020:
 9. First 16 players with the highest overall score will get through to Double Elimination stages. If there will be more participants than the predicted number, player(s) placed the last will be eliminated. 
 10. During the Double Elimination stages, the winner moves to the next stage and the losing team gets moved to the Losers bracket.
 11. **Winning conditions:**
-
-  - The Round of 16 and Quarterfinals will be best of 9 (first team to 5 wins).
-        
-  - The Semifinals and Finals will be best of 11 (first team to 6 wins).
-        
+  - The Round of 16 and Quarterfinals will be best of 9 (first team to 5 wins).        
+  - The Semifinals and Finals will be best of 11 (first team to 6 wins).        
   - The Grand Finals will be best of 13 (first team to 7 wins).
 
 ### Match Instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-
   - Room settings are osu!, Team-Vs. , Win Condition: ‘ScoreV2’.
-
 2. Players can select up to two warm-up beatmaps that should not exceed 4 minutes. Players are free to not to pick a warm-up, but have to play if the opponent wants to.
 3. Each team must use `!roll` once in `#multiplayer`.
-
-  - The team with the higher roll **picks** first.
-        
+  - The team with the higher roll **picks** first.       
   - The team with the lower roll **bans** first.
-  
   - Each team will be given 2 minutes to decide upon picks or bans. If first team fails to provide an answer, other team takes the turn.
-        
   - **From Quarterfinals onwards the team that bans first will ban one map, then the other team will ban two maps, then finally the first team will make their final ban.**
-
 4. During Round of 16, each player can only ban 1 beatmap.
-
   - **From Quarterfinals onwards, the number of bans increases to 2. However, each player/team may not ban more than one map of any mod bracket (excluding NoMod).**
-
 5. Beatmap selection will alternate between each player/team selecting a beatmap out of the mappool.
 6. Players map pick freely from any mod pool.
-
   - In the case of a tie, the tiebreaker beatmap will be played.
-
 7. The results will be published in the dedicated Discord channel in the server.
 
 ### Mappool Instructions
@@ -419,21 +402,15 @@ Monday, 27 April 2020:
 1. There will be a new mappool for every stage.
 2. Each mappool consists of 5 brackets: NoMod, [Hidden](wiki/Game_Modifiers), [HardRock](wiki/Game_Modifiers), [DoubleTime](wiki/Game_Modifiers) and FreeMod.
 3. Each mappool has a specific size depending on the stage.
-
   - The Round of 16 mappools will have 4 NoMod maps, 3 DoubleTime maps and 2 maps for each of the remaining mod brackets.
-        
   - The Double Elimination stage mappools will have 5 NoMod maps, 3 maps for each of the remaining mod brackets.
-
 4. Each mappool has one tiebreaker.
 5. The NoFail mod may be selected on any map.
 6. The NoMod bracket will be played with no mods enabled at all (other than NoFail).
 7. The Hidden, HardRock and DoubleTime brackets will be played with the respective mod enabled by all players.
 8. The FreeMod bracket will have Free Mods enabled.
-
   - Possible mod choices are Hidden, HardRock and Hidden+HardRock.
-
 9. The tiebreaker will be played under FreeMod conditions.
-
   - When playing the tiebreaker, there are no mod requirements.
 
 ### Scheduling Instructions
