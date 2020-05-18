@@ -165,16 +165,15 @@ The OIT 2020 was run by various Indonesian osu! community members.
 **[Download the mappack here! (125 MB)](https://drive.google.com/file/d/1vXCH2VLIkluoO5iUQaE_92tR2lnOp0Ph/view)**
 
 - NoMod
-  - [THE ORAL CIGARETTES - ONE'S AGAIN (Meg) \[ya\]](https://osu.ppy.sh/beatmapsets/607344#osu/1282817)
-  - [xi - Garyou Tensei (Sulfur) \[Extreme\]](https://osu.ppy.sh/beatmapsets/884992#osu/1925798)
-  - [Jakarta Funk Brothers - INSOMNIA (den0saur) \[LCFC's Extreme\]](https://osu.ppy.sh/beatmapsets/893546#osu/1876385)
-  - [Camellia - Diastrophism (Regou) \[captin's Extra\]](https://osu.ppy.sh/beatmapsets/923095#osu/1944228)
-  - [Unlucky Morpheus - Phantom Blood (IsomirDiAngelo) \[Atalanta's Extra\]](https://osu.ppy.sh/beatmapsets/885158#osu/2153771)
-  - [Giga - BRING IT ON (Pho) \[Minorsonek's Extreme\]](https://osu.ppy.sh/beatmapsets/865490#osu/1864300)
+  - [UNDEAD CORPORATION - Sad Dream (Hinsvar) \[Expert\]](https://osu.ppy.sh/beatmapsets/1019827#osu/2133935)
+  - [Awake - Supernova (wa_) \[Extra\]](https://osu.ppy.sh/beatmapsets/253507#osu/581939)
+  - [KOTONOHOUSE feat. Nanahira - Midnight, Starlight (KChronoZ) \[Every night\]](https://osu.ppy.sh/beatmapsets/1091170#osu/2281211)
+  - [An - Artcore JINJA (Flower) \[Skystar\]](https://osu.ppy.sh/beatmapsets/114987#osu/297668)
+  - [UVERworld - ROB THE FRONTIER (Crissa) \[Expert\]](https://osu.ppy.sh/beatmapsets/1067110#osu/2234164)
 - Hidden
-  - [kamome sano - charlotte aux framboises (colate+kamome sano Remix) [feat. mami] (Left) \[Senseabel's Extra\]](https://osu.ppy.sh/beatmapsets/988413#osu/2111987)
-  - [Hatsune Miku - Marble Bright (Lalarun) \[Insane\]](https://osu.ppy.sh/beatmapsets/40902#osu/129506)
-  - [Desired - Wake Up (Natteke desu) \[Insane\]](https://osu.ppy.sh/beatmapsets/1071121#osu/2242056)
+  - [Seiryu X Donald - Time to Donald (James) \[Another\]](https://osu.ppy.sh/beatmapsets/6950#osu/30613)
+  - [suzumu - Shinzou Connect (Ryuusei Aika) \[coco's Extra\]](https://osu.ppy.sh/beatmapsets/964855#osu/2100202)
+  - [sakuzyo - AXION (Star\* Remix 2016 Update) (Ryuusei Aika) \[Dynamix's Extra\]](https://osu.ppy.sh/beatmapsets/957007#osu/2003512)
 - HardRock
   - [M2U - H.O.W.Ling (iyasine) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/274219#osu/622589)
   - [Kanzaki Elza starring Reona - Independence (Yasaija 714) \[Seto's Expert\]](https://osu.ppy.sh/beatmapsets/780318#osu/1828634)
