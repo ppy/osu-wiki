@@ -7,7 +7,7 @@ tags:
 
 # Non-Professional Cup 2: Summer 2020
 
-![NPC2 logo](images/logo.png)
+![NPC2 logo](images/logoSmall.png)
 
 The **Non-Professional Cup 2** (***NPC2***) is an international team-based double-elimination 2v2 osu! tournament hosted by ![][flag_US] [Chugga444](https://osu.ppy.sh/users/12754827). This is the second installment of the Non-Professional Cup.
 
