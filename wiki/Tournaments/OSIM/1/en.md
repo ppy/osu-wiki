@@ -191,16 +191,15 @@ The OIT 2020 was run by various Indonesian osu! community members.
   - **[Rusty K - All That We Lost  (Mir) \[Daybreak\]](https://osu.ppy.sh/beatmapsets/655248#osu/1388622)**
   - **[kors k - Insane Techniques (Extended) (Nathan) \[Hi-Tech\]](https://osu.ppy.sh/beatmapsets/456691#osu/978628)**  
 
-### Round of 16
+### Group stage
 
-**[Download the mappack here! (94 MB)](https://drive.google.com/file/d/1VNYUAv86YHFZmDrylvGCsKDL5nBK3DIY/view)**
+**[Download the mappack here! (213 MB)](https://drive.google.com/file/d/1BOY3OpBsPNETwYZVUTM7OgB0wF2TkEzM/view)**
 
 - NoMod
-  - [Mami Kawada - Going Back To Square One (Depths) \[Forever\]](https://osu.ppy.sh/beatmapsets/425236#osu/918428)
-  - [Sound Souler - Aqua Stars (Affirmation) \[Expert\]](https://osu.ppy.sh/beatmapsets/1085144#osu/2269224)
-  - [FROZEN QUALIA - WINTER DIAMOND (Settia) \[Tsumia's Extra\]](https://osu.ppy.sh/beatmapsets/930413#osu/2057654)
-  - [Ice - Amber Wishes (JBHyperion) \[toybot's Extreme\]](https://osu.ppy.sh/beatmapsets/412859#osu/902716)
-  - [Frums - 24eev0-$ (Niva) \[bpm(1) = 100; for (i = 2 : 24) {bpm(i) = bpm(i-1) + 8 + (floor((i-1) / 6) * 3)}\]](https://osu.ppy.sh/beatmapsets/1086289#osu/2271666)
+  - [OSTER project - Labradorite feat. Yu Tokiwa (thzz) \[Brilliance\]](https://osu.ppy.sh/beatmapsets/408776#osu/887556)
+  - [Ino - Kokeshineko Medore (\[ -Scarlet- \]) \[Leminine's Extra\]](https://osu.ppy.sh/beatmapsets/672227#osu/1423240)
+  - [DJ Noriken - Stargazer feat. YUC'e (PSYQUI Remix) (-Jordan-) \[Expert\]](https://osu.ppy.sh/beatmapsets/853867#osu/1784484)
+  - [SO SUS + KONKA - ACORN (squirrelpascals) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/412859#osu/902716)
 - Hidden
   - [kozato - Izayoi Sakura (Gust) \[yozakura\]](https://osu.ppy.sh/beatmapsets/893573#osu/1867443)
   - [556t - Kyuuen no Hana (Kyubey) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/484497#osu/1033514)
