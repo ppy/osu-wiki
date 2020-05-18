@@ -127,7 +127,7 @@ The OIT 2020 was run by various Indonesian osu! community members.
 - Tiebreaker
   - **[Camellia - GHOST (Arbane) \[AFTERLIFE\]](https://osu.ppy.sh/beatmapsets/577174#osu/1221687)**
   - **[wa. vs ETIA. - Akasagarbha -extended mix- (Ambient) \[Boundless\]](https://osu.ppy.sh/beatmapsets/712372#osu/1505901)**
-  - **[DJ TOTTO - DORNWALD ~Der Junge im Kaefig~ (Azer) \[†LEGGENDARIA\]](https://osu.ppy.sh/beatmapsets/857638#osu/2223893)**  
+  - **[DJ TOTTO - DORNWALD \~Der Junge im Kaefig\~ (Azer) \[†LEGGENDARIA\]](https://osu.ppy.sh/beatmapsets/857638#osu/2223893)**  
 
 ### Semifinals
 
