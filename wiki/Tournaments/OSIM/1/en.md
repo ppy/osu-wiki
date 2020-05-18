@@ -216,7 +216,7 @@ The OIT 2020 was run by various Indonesian osu! community members.
 - Tiebreaker
   - **[Halozy - Kanshou no Matenrou (sodarose) \[The Great Magician\]](https://osu.ppy.sh/beatmapsets/339400#osu/750846)**
   - **[yanaginagi - Muteki no Soldier (BinJip) \[Invincible\]](https://osu.ppy.sh/beatmapsets/52221#osu/182001)**
-  - **KikuoHana - Nobore! Susume! Takai Tou (Atalanta) \[Collapsed\]](https://osu.ppy.sh/beatmapsets/1022990#osu/2139992)**
+  - **[KikuoHana - Nobore! Susume! Takai Tou (Atalanta) \[Collapsed\]](https://osu.ppy.sh/beatmapsets/1022990#osu/2139992)**
 
 ### Qualifiers
 
