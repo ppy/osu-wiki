@@ -279,44 +279,44 @@ Sunday, 17 May 2020, Grand Final:
 
 ### Finals week 1
 
-Friday, 3 April 2020:
+Friday, 8 May 2020:
 
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Fuma](https://osu.ppy.sh/users/1501956)** ![][flag_ID] | **7** | 2 | ![][flag_ID] [-Reuto-](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/59942214) |
+| Lower | **tasty watermelon** | **7** | 2 | 1miss | [#1](https://osu.ppy.sh/community/matches/61406714) |
+| Lower | Where Love Lies | 2 | **7** | **somaymalaycapcay** | [#1](https://osu.ppy.sh/community/matches/61410358) |
 
-Saturday, 4 April 2020:
+Saturday, 9 May 2020:
 
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Gatyaa420](https://osu.ppy.sh/users/984132)** ![][flag_ID] | **7** | 1 | ![][flag_ID] [Alan-](https://osu.ppy.sh/users/8937198) | [#1](https://osu.ppy.sh/community/matches/59979426) |
-| Upper | **[Skydiver](https://osu.ppy.sh/users/4750008)** ![][flag_ID] | **7** | 1 | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/984132) | [#1](https://osu.ppy.sh/community/matches/59979413) |
+| Lower | tasty watermelon | 2 | **7** | **somaymalaycapcay** | [#1](https://osu.ppy.sh/community/matches/61456259) |
 
-Monday, 6 April 2020:
+Sunday, 10 May 2020:
 
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Fuma](https://osu.ppy.sh/users/1501956)** ![][flag_ID] | **7** | 4 | ![][flag_ID] [Gatyaa420](https://osu.ppy.sh/users/984132) | [#1](https://osu.ppy.sh/community/matches/60064553) |
+| Upper | **adventure timers** | **7** | 4 | we will 操你妈  | [#1](https://osu.ppy.sh/community/matches/61489561) |
 
 ### Semifinals
 
-Saturday, 28 March 2020:
+Saturday, 2 May 2020:
 
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Somay 287](https://osu.ppy.sh/users/4314559) ![][flag_ID] | 1 | **6** | ![][flag_ID] **[F4UZ4N](https://osu.ppy.sh/users/11070577)** | [#1](https://osu.ppy.sh/community/matches/59700836) |
-| Lower | **[-Reuto-](https://osu.ppy.sh/users/10717635)** ![][flag_ID] | **6** | 2 | ![][flag_ID] [RealViolence](https://osu.ppy.sh/users/5638585) | [#1](https://osu.ppy.sh/community/matches/59703425) |
-| Upper | **[Skydiver](https://osu.ppy.sh/users/4750008)** ![][flag_ID] | **6** | 3 | ![][flag_ID] [Gatyaa420](https://osu.ppy.sh/users/984132) | [#1](https://osu.ppy.sh/community/matches/59703469) |
-| Lower | [Skitzor](https://osu.ppy.sh/users/3353314) ![][flag_ID] | 5 | **6** | ![][flag_ID] **[Alan-](https://osu.ppy.sh/users/8937198)** | [#1](https://osu.ppy.sh/community/matches/59745036) |
-| Lower | **[Walfrid](https://osu.ppy.sh/users/6600809)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [\[fry\]](https://osu.ppy.sh/users/49176045) | *win by default* |
+| Lower | :watamesleep: | 3 | **6** | **1miss** | [#1](https://osu.ppy.sh/community/matches/61161386) |
+| Lower | Nekopara Fanclub | 2 | **6** | **pussy goreng v3** | [#1](https://osu.ppy.sh/community/matches/61165635) |
+| Lower | **somaymalaycapcay** | **6** | 1 | Happy Ending | [#1](https://osu.ppy.sh/community/matches/61168401) |
+| Lower | asean NUTtersarus | 5 | **6** | **mofumofu lover** | [#1](https://osu.ppy.sh/community/matches/61167350) |
+| Upper | Where Love Lies | 2 | **6** | **adventure timers** | [#1](https://osu.ppy.sh/community/matches/61169444) |
 
-Sunday, 29 March 2020:
+Sunday, 3 May 2020:
 
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Walfrid](https://osu.ppy.sh/users/6600809) ![][flag_ID] | 5 | **6** | ![][flag_ID] **[-Reuto-](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/59736433) |
-| Lower | [F4UZ4N](https://osu.ppy.sh/users/11070577) ![][flag_ID] | 4 | **6** | ![][flag_ID] **[Alan-](https://osu.ppy.sh/users/8937198)** | [#1](https://osu.ppy.sh/community/matches/59741370) |
-| Upper | [Fuma](https://osu.ppy.sh/users/1501956) ![][flag_ID] | 1 | **6** | ![][flag_ID] **[Rexeez](https://osu.ppy.sh/users/984132)** | [#1](https://osu.ppy.sh/community/matches/59745036) |
+| Upper | **we will 操你妈** | **6** | 3 | tasty watermelon | [#1](https://osu.ppy.sh/community/matches/61208791) |
+| Lower | **1miss** | **6** | 4 | pussy goreng v3 | [#1](https://osu.ppy.sh/community/matches/61207149) |
+| Lower | **somaymalaycapcay** | **6** | 3 | mofumofu lover | [#1](https://osu.ppy.sh/community/matches/61208930) |
 
 ### Quarterfinals
 
