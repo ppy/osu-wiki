@@ -184,7 +184,7 @@ The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) an
 
 ### Round of 16
 
-Saturday, 16 May 2020:
+Saturday, 23 May 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -192,7 +192,7 @@ Saturday, 16 May 2020:
 | France ![][flag_FR] | 2 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/61736295) |
 | Germany ![][flag_DE] | 2 | **6** | ![][flag_MX] **Mexico** | [#1](https://osu.ppy.sh/community/matches/61747982) |
 
-Sunday, 17 May 2020:
+Sunday, 24 May 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
