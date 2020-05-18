@@ -61,6 +61,14 @@ OSIM was run by various Singaporean, Indonesian, and Malaysian osu! community me
 
 ![Champion: Skydiver, 2nd place: Fuma, 3rd place: Rexeez](img/podium.jpg)
 
+## Participants
+
+| Team | Seed A Player (Captain) | Seed B Player | Seed C Player |
+| :-- | :-- | :-- | :-- |
+| **:watamesleep:** | ![][flag_MY] **[wuhua](https://osu.ppy.sh/users/2932510)** | ![][flag_MY] [TequilaWolf](https://osu.ppy.sh/users/3633477) | ![][flag_ID] [thefarrel007](https://osu.ppy.sh/users/2429128) |
+| **1miss** | ![][flag_MY] **[ShaneLiang](https://osu.ppy.sh/users/6716499)** | ![][flag_MY] [Naz](https://osu.ppy.sh/users/3921010) |  ![][flag_MY] [Reinaru](https://osu.ppy.sh/users/7353307) |
+| **adventure timers** | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** | ![][flag_MY] [wilson9909](https://osu.ppy.sh/users/8703188) | ![][flag_ID] [OTWGE](https://osu.ppy.sh/users/11759284) |
+
 ## Mappools
 
 ### Finals week 2
