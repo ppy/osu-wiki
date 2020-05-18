@@ -116,16 +116,18 @@ The OIT 2020 was run by various Indonesian osu! community members.
   - [Brandy - Cross Time !! (Leader) \[captin's Extra\]](https://osu.ppy.sh/beatmapsets/973162#osu/2067296)
   - [Akatsuki Records - Trance Dance Anarchy (papapa213) \[Dancing!\]](https://osu.ppy.sh/beatmapsets/1056140#osu/2207263)
 - DoubleTime
-  - [Reol - Midnight Stroller (Chaoslitz) \[Nightfall\]](https://osu.ppy.sh/beatmapsets/388428#osu/847341)
-  - [doriko - Romeo and Cinderella (Chewin) \[Insane\]](https://osu.ppy.sh/beatmapsets/674753#osu/1427613)
-  - [Shihori - Bloody Night (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/46223#osu/143989)
-  - [BUTAOTOME - Towa no Maigo (IceKalt) \[Insane\]](https://osu.ppy.sh/beatmapsets/1069288#osu/2239337)
+  - [EGOIST - Namae no Nai Kaibutsu (LunarSakuya) \[Insane\]](https://osu.ppy.sh/beatmapsets/69137#osu/425890)
+  - [Crystal Fighters - Love Natural (Bonsai) \[sketch\]](https://osu.ppy.sh/beatmapsets/504712#osu/1073765)
+  - [Amane - TWEEKER (TicClick) \[Mikii's Insane\]](https://osu.ppy.sh/beatmapsets/257165#osu/954703)
+  - [Bronco (El Gigante de America) - Chocheman (Gens) \[Dificil\]](https://osu.ppy.sh/beatmapsets/9440#osu/37735)
 - FreeMod
-  - [Getty vs. DJ DiA - DropZ -Line- (Realazy) \[Kaifin's Expert\]](https://osu.ppy.sh/beatmapsets/727049#osu/1543234)
-  - [KOTOKO - Light My Fire (Dada) \[Vintage\]](https://osu.ppy.sh/beatmapsets/935912#osu/1955207)
-  - [HujuniseikouyuuP - Talent Shredder (val0108) \[Lesjuh style\]](https://osu.ppy.sh/beatmapsets/47710#osu/153857)
+  - [goreshit - xenobeat (-Aqua) \[Hinsvar's Expert\]](https://osu.ppy.sh/beatmapsets/1090113#osu/2313561)
+  - [MC Lynn - EkiBEN2000 (arken1015) \[Insane\]](https://osu.ppy.sh/beatmapsets/9782#osu/42793)
+  - [B-ko (Cv:Touyama Nao) - Nisemono Chuuihou (Musty) \[BOUYAAA's Extra\]](https://osu.ppy.sh/beatmapsets/531751#osu/1167475)
 - Tiebreaker
-  - **[RoughSketch + DD"Nakata"Metal - Booths of Fighters (Camellia's "Barrage of Flurries" Remix) (Sheepcraft) \[UNSTABLE CLOCKWORK\]](https://osu.ppy.sh/beatmapsets/694725#osu/1469680)**
+  - **[Camellia - GHOST (Arbane) \[AFTERLIFE\]](https://osu.ppy.sh/beatmapsets/577174#osu/1221687)**
+  - **[wa. vs ETIA. - Akasagarbha -extended mix- (Ambient) \[Boundless\]](https://osu.ppy.sh/beatmapsets/712372#osu/1505901)**
+  - **[DJ TOTTO - DORNWALD ~Der Junge im Kaefig~ (Azer) \[†LEGGENDARIA\]](https://osu.ppy.sh/beatmapsets/857638#osu/2223893)**  
 
 ### Semifinals
 
