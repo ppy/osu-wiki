@@ -7,7 +7,7 @@ tags:
 
 ![OIT 2020 logo](img/logo.jpg)
 
-The **osu! Singapore-Indonesia-Malaysia Tournament** (***OSIM***) was a double-elimination 2v2 osu!standard tournament hosted by ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), and ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531). The tournament was open to all players from Singapore, Indonesia, and Malaysia regardless of rank. It was the 1st iteration of the tournament series.
+The **osu! Singapore-Indonesia-Malaysia Tournament** (***OSIM***) was a double-elimination 2v2 osu!standard tournament hosted by  ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), and ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531). The tournament was open to all players from Singapore, Indonesia, and Malaysia regardless of rank. It was the 1st iteration of the tournament series.
 
 ## Tournament schedule
 
@@ -430,6 +430,15 @@ Sunday, 19 April 2020:
 | #19 | A | ![][flag_ID] [\[fry\]](https://osu.ppy.sh/users/4917604) | 5.654 |
 | #20 | A | ![][flag_ID] [sumippe](https://osu.ppy.sh/users/1929336) | 5.385 |
 | #21 | B | ![][flag_MY] [vernonlim](https://osu.ppy.sh/users/10167542) | 5.346 |
+| #22 | B | ![][flag_MY] [Desumond](https://osu.ppy.sh/users/7399262) | 5.272 |
+| #23 | B | ![][flag_MY] [Naz](https://osu.ppy.sh/users/3921010) | 5.004 |
+| #24 | B | ![][flag_MY] [Vexine](https://osu.ppy.sh/users/4042706) | 4.961 |
+| #25 | B | ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938) | 4.956 |
+| #26 | B | ![][flag_SG] [Loslite](https://osu.ppy.sh/users/6398160) | 4.949 |
+| #27 | B | ![][flag_SG] [\_gt](https://osu.ppy.sh/users/8301957) | 4.927 |
+| #28 | B | ![][flag_ID] [Somay 287](https://osu.ppy.sh/users/4314559) | 4.814 |
+| #29 | B | ![][flag_MY] [wilson9909](https://osu.ppy.sh/users/8703188) | 4.813 |
+| #29 | B | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) | 4.771 |
 
 ## Ruleset
 
