@@ -50,12 +50,10 @@ OSIM was run by various osu! community members predominantly hailing from Singap
 
 ## Links
 
-- **[Master spreadsheet](https://docs.google.com/spreadsheets/d/12dU5oFb_vdfn5YHXMC6cvQZr7VeQV4hPU_WWzxYZiWg/edit#gid=1811776910)**
-- [Forum thread](https://osu.ppy.sh/community/forums/topics/1003216)
-- [Discord server](https://discordapp.com/invite/CHRFffH)
-- [Primary livestream channel](https://www.twitch.tv/osuindonesia)
-- [Secondary livestream channel](https://www.twitch.tv/osuindonesiab)
-- [Challonge brackets](https://challonge.com/OIT2020)
+- **[Main spreadsheet](https://docs.google.com/spreadsheets/d/1wO13e1fNw1H0n7OYKyXpG6lyMCDCkbhj6fki4KEMf5I/edit#gid=950811958)**
+- [Forum thread](https://osu.ppy.sh/community/forums/topics/1022888)
+- [Discord server](https://discord.gg/kFs2Kbp)
+- [Livestream channel](https://www.twitch.tv/oseatournament/)
 
 ## Podium
 
