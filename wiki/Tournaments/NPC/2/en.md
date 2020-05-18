@@ -1,5 +1,4 @@
 ---
-
 tags:
   - NPC
   - NPC2
