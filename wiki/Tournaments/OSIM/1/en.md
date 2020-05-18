@@ -7,7 +7,7 @@ tags:
 
 ![OIT 2020 logo](img/logo.jpg)
 
-The **osu! Singapore-Indonesia-Malaysia Tournament** (***OSIM***) was a double-elimination 2v2 osu!standard tournament open to players from Singapore, Indonesia, and Malaysia hosted by ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), and ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531). It was the 1st iteration of the tournament series.
+The **osu! Singapore-Indonesia-Malaysia Tournament** (***OSIM***) was a double-elimination 2v2 osu!standard tournament hosted by ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), and ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531). The tournament was open to all players from Singapore, Indonesia, and Malaysia regardless of rank. It was the 1st iteration of the tournament series.
 
 ## Tournament schedule
 
