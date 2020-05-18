@@ -16,9 +16,9 @@ The **osu! Singapore-Indonesia-Malaysia Tournament** (***OSIM***) was a double-e
 | Registration phase | 2020-02-15/2020-03-08 |
 | Screening phase | 2020-03-09/2020-03-20 |
 | Qualifiers | 2020-03-21/2020-03-29 |
-| Team drafting | 2020-04/04 |
-| Group stage | 2020-04-05/2020-04/19 |
-| Quarterfinals | 2020-04/20/2020-04/26 |
+| Team drafting | 2020-04-04 |
+| Group stage | 2020-04-05/2020-04-19 |
+| Quarterfinals | 2020-04/20/2020-04-26 |
 | Semifinals | 2020-04-27/2020-05-03 |
 | Finals week 1 | 2020-05-04/2020-05-11 |
 | Finals week 2 | 2020-05-12/2020-05-17 |
@@ -264,17 +264,18 @@ OSIM was run by various osu! community members predominantly hailing from Singap
 
 ### Finals week 2
 
-Friday, 10 April 2020:
+Saturday, 16 May 2020:
 
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Rexeez](https://osu.ppy.sh/users/1987591) ![][flag_ID] | 5 | **7** | ![][flag_ID] **[Fuma](https://osu.ppy.sh/users/1501956)** | [#1](https://osu.ppy.sh/community/matches/60231448) |
+| Lower | we will 操你妈 | 4 | **7** | **somaymalaycapcay** | [#1](https://osu.ppy.sh/community/matches/61736572) |
 
-Sunday, 12 April 2020, Grand Final:
+Sunday, 17 May 2020, Grand Final:
 
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Grand Final | **[Skydiver](https://osu.ppy.sh/users/4750008)** ![][flag_ID] | **7** | 3 | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | [#1](https://osu.ppy.sh/community/matches/60320111) |
+| Grand Final | adventure timers | 2 | **7** | **somaymalaycapcay** | [#1](https://osu.ppy.sh/community/matches/61774613) |
+| Grand Final (Bracket Reset) | somaymalaycapcay | TBD | TBD | adventure timers | [#1](TBD) |
 
 ### Finals week 1
 
