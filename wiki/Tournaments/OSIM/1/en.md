@@ -35,7 +35,7 @@ The **osu! Singapore-Indonesia-Malaysia Tournament** (***OSIM***) was a double-e
 
 ## Organization
 
-OSIM was run by various Singaporean, Indonesian, and Malaysian osu! community members.
+OSIM was run by various osu! community members predominantly hailing from Singapore, Indonesia, and Malaysia.
 
 | Position | Members |
 | :-- | :-- |
@@ -43,7 +43,7 @@ OSIM was run by various Singaporean, Indonesian, and Malaysian osu! community me
 | Map selector | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531) |
 | Streamer | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531) |
 | Commentator | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531) |
-| Referee | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_MY] [Sonic-](https://osu.ppy.sh/users/8691555), ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_MY] [Sei Shaneagon](https://osu.ppy.sh/users/3677251), ![][flag_MY] [Xyrelyx](https://osu.ppy.sh/users/3765632) |
+| Referee | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_MY] [Sonic-](https://osu.ppy.sh/users/8691555), ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_MY] [Xyrelyx](https://osu.ppy.sh/users/3765632) |
 | Graphic designer | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
 | Spreadsheet manager | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
 | Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
@@ -76,6 +76,7 @@ OSIM was run by various Singaporean, Indonesian, and Malaysian osu! community me
 | **gebratene Muschi** | ![][flag_ID] **[Vinno](https://osu.ppy.sh/users/10717635)** | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) | ![][flag_MY] [TachibanaTaki12](https://osu.ppy.sh/users/9924719) |
 | **Happy Ending** | ![][flag_SG] **[\[-Lockon-\]](https://osu.ppy.sh/users/6726331)** | ![][flag_SG] [ExImperia](https://osu.ppy.sh/users/5200499) | ![][flag_ID] [C4rm4](https://osu.ppy.sh/users/13187450) |
 | **mofumofu lover** | ![][flag_SG] **[Rtzer0](https://osu.ppy.sh/users/5407620)** | ![][flag_SG] [\_gt](https://osu.ppy.sh/users/8301957) | ![][flag_ID] [Veltlion](https://osu.ppy.sh/users/10999079) |
+| **Nekopara Fanclub** | ![][flag_SG] **[Rtzer0](https://osu.ppy.sh/users/5407620)** | ![][flag_SG] [\_gt](https://osu.ppy.sh/users/8301957) | ![][flag_ID] [Veltlion](https://osu.ppy.sh/users/10999079) |
 
 ## Mappools
 
@@ -494,3 +495,4 @@ Monday, 9 March 2020:
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
