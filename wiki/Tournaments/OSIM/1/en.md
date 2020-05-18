@@ -358,76 +358,26 @@ Saturday, 11 April 2020:
 
 Sunday, 12 April 2020:
 
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Group | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Skydiver](https://osu.ppy.sh/users/4750008)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Firia](https://osu.ppy.sh/users/9730262) | [#1](https://osu.ppy.sh/community/matches/59150256) |
-| Upper | [sumippe](https://osu.ppy.sh/users/1929336) ![][flag_ID] | 1 | **5** | ![][flag_ID] **[-Reuto-](https://osu.ppy.sh/users/10717635)** | [#1](https://osu.ppy.sh/community/matches/59150273) |
-| Upper | [CubeixID200](https://osu.ppy.sh/users/10678919) ![][flag_ID] | 1 | **5** | ![][flag_ID] **[F4UZ4N](https://osu.ppy.sh/users/11070577)** | [#1](https://osu.ppy.sh/community/matches/59150333) |
+| C | **Nekopara Fanclub** | **5** | 2 | pussy goreng | [#1](https://osu.ppy.sh/community/matches/60308164) |
+| B | **Happy Ending** | **5** | 1 | gebratene Muschi | [#1](https://osu.ppy.sh/community/matches/60309267) |
+| D | fryed pussy | 0 | **5** | **we will 操你妈** | [#1](https://osu.ppy.sh/community/matches/60315447) |
+| A | DaFaK | 4 | **5** | **ff15** | [#1](https://osu.ppy.sh/community/matches/60315455) |
+| C | sijori folks | 4 | **5** | **Nekopara Fanclub** | [#1](https://osu.ppy.sh/community/matches/60315692) |
+| D | **Where Love Lies** | **5** | 0 | emilia fanclub | [#1](https://osu.ppy.sh/community/matches/60317782) |
+| B | pussy fly | 0 | **5** | **tasty watermelon** | [#1](https://osu.ppy.sh/community/matches/60317771) |
+| A | ff15 | 2 | **5** | **somaymalaycapcay** | [#1](https://osu.ppy.sh/community/matches/60320074) |
 
-Saturday, 14 March 2020:
+Friday, 17 April 2020:
 
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Group | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [fnayR](https://osu.ppy.sh/users/2800253) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[Xicyte](https://osu.ppy.sh/users/10212581)** | [#1](https://osu.ppy.sh/community/matches/59176753) |
-| Lower | **[dika312](https://osu.ppy.sh/users/741613)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354) | [#1](https://osu.ppy.sh/community/matches/59180327) |
-| Upper | **[Gatyaa420](https://osu.ppy.sh/users/984132)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [OTWGE](https://osu.ppy.sh/users/11759284) | [#1](https://osu.ppy.sh/community/matches/59184312) |
-| Upper | [Tama-desu](https://osu.ppy.sh/users/3813174) ![][flag_ID] | 1 | **5** | ![][flag_ID] **[Somay 287](https://osu.ppy.sh/users/4314559)** | [#1](https://osu.ppy.sh/community/matches/59184410) |
-| Lower | [Pr0ximate](https://osu.ppy.sh/users/9919268) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[MasterfulNote5](https://osu.ppy.sh/users/7247988)** | [#1](https://osu.ppy.sh/community/matches/59186516) |
-| Lower | [Veltlion](https://osu.ppy.sh/users/10999079) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[Seox](https://osu.ppy.sh/users/3793938)** | *win by default* |
+| D | pussy goreng v3 | 2 | **5** | **Where Love Lies** | [#1](https://osu.ppy.sh/community/matches/60529340) |
 
-Sunday, 15 March 2020:
+### Qualifiers
 
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Rexeez](https://osu.ppy.sh/users/1987591)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [\[fry\]](https://osu.ppy.sh/users/4917604) | [#1](https://osu.ppy.sh/community/matches/59214418) |
-| Upper | **[Walfrid](https://osu.ppy.sh/users/6600809)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [Takaichi](https://osu.ppy.sh/users/909745) | [#1](https://osu.ppy.sh/community/matches/59216674) |
-| Lower | [DigiM](https://osu.ppy.sh/users/2659328) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[121Brian121](https://osu.ppy.sh/users/6192975)** | [#1](https://osu.ppy.sh/community/matches/59223534) |
-| Upper | **[Alan-](https://osu.ppy.sh/users/8937198)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [SpitzerFam](https://osu.ppy.sh/users/12965045) | [#1](https://osu.ppy.sh/community/matches/59223517) |
-
-Monday, 16 March 2020:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | **[Skitzor](https://osu.ppy.sh/users/3353314)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [AnzewVix](https://osu.ppy.sh/users/8621203) | [#1](https://osu.ppy.sh/community/matches/59256421) |
-| Lower | [Medseba](https://osu.ppy.sh/users/5638585) ![][flag_ID] | 3 | **5** | ![][flag_ID] **[RealViolence](https://osu.ppy.sh/users/5638585)** | [#1](https://osu.ppy.sh/community/matches/59260873) |
-
-### Round of 32
-
-Friday, 6 March 2020:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Alan-](https://osu.ppy.sh/users/8937198)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [CubeixID200](https://osu.ppy.sh/users/10678919) | [#1](https://osu.ppy.sh/community/matches/58961660) |
-| Upper | **[Fuma](https://osu.ppy.sh/community/matches/58963886)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [DigiM](https://osu.ppy.sh/users/2659328) | [#1](https://osu.ppy.sh/community/matches/58963886) |
-
-Saturday, 7 March 2020:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Firia](https://osu.ppy.sh/users/9730262)** ![][flag_ID] | **5** | 4 | ![][flag_ID] [Xicyte](https://osu.ppy.sh/users/10212581) | [#1](https://osu.ppy.sh/community/matches/58991934) |
-| Upper | **[Skydiver](https://osu.ppy.sh/users/4750008)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [fnayR](https://osu.ppy.sh/users/2800253) | [#1](https://osu.ppy.sh/community/matches/58986406) |
-| Upper | **[sumippe](https://osu.ppy.sh/users/1929336)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | [#1](https://osu.ppy.sh/community/matches/58988281) |
-| Upper | **[Walfrid](https://osu.ppy.sh/users/6600809)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Medseba](https://osu.ppy.sh/users/9000010) | [#1](https://osu.ppy.sh/community/matches/58991189) |
-| Upper | **[Gatyaa420](https://osu.ppy.sh/users/984132)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Veltlion](https://osu.ppy.sh/users/10999079) | [#1](https://osu.ppy.sh/community/matches/58993650) |
-| Upper | **[Somay 287](https://osu.ppy.sh/users/4314559)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [AnzewVix](https://osu.ppy.sh/users/8621203) | [#1](https://osu.ppy.sh/community/matches/58995162) |
-
-Sunday, 8 March 2020:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [F4UZ4N](https://osu.ppy.sh/users/11070577) ![][flag_ID] | 1 | **5** | ![][flag_ID] **[SpitzerFam](https://osu.ppy.sh/users/12965045)** | [#1](https://osu.ppy.sh/community/matches/59019128) |
-| Upper | **[\[fry\]](https://osu.ppy.sh/users/4917604)** ![][flag_ID] | **5** | 3 | ![][flag_ID] [MasterfulNote5](https://osu.ppy.sh/users/7247988) | [#1](https://osu.ppy.sh/community/matches/59020372) |
-| Upper | [121Brian121](https://osu.ppy.sh/users/6192975) ![][flag_ID] | 3 | **5** | ![][flag_ID] **[Vvn](https://osu.ppy.sh/users/3204677)** | [#1](https://osu.ppy.sh/community/matches/59021427) |
-| Upper | **[Rexeez](https://osu.ppy.sh/users/1987591)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Pr0ximate](https://osu.ppy.sh/users/9919268) | [#1](https://osu.ppy.sh/community/matches/59025123) |
-| Upper | **[OTWGE](https://osu.ppy.sh/users/11759284)** ![][flag_ID] | **5** | 1 | ![][flag_ID] [Seox](https://osu.ppy.sh/users/3793938) | [#1](https://osu.ppy.sh/community/matches/59027003) |
-| Upper | **[Takaichi](https://osu.ppy.sh/users/909745)** ![][flag_ID] | **5** | 2 | ![][flag_ID] [RealViolence](https://osu.ppy.sh/users/5638585) | [#1](https://osu.ppy.sh/community/matches/59027071) |
-| Upper | [Skitzor](https://osu.ppy.sh/users/3353314) ![][flag_ID] | 0 | **5** | ![][flag_ID] **[Tama-desu](https://osu.ppy.sh/users/3813174)** | *win by default* |
-
-Monday, 9 March 2020:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[-Reuto-](https://osu.ppy.sh/users/10717635)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354) | [#1](https://osu.ppy.sh/community/matches/59050687) |
+(150 BPM) dum dum dum dum
 
 ## Ruleset
 
