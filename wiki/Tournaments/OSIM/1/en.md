@@ -63,11 +63,15 @@ OSIM was run by various Singaporean, Indonesian, and Malaysian osu! community me
 
 ## Participants
 
-| Team | Seed A Player (Captain) | Seed B Player | Seed C Player |
+| Team name | Seed A player (captain) | Seed B player | Seed C player |
 | :-- | :-- | :-- | :-- |
 | **:watamesleep:** | ![][flag_MY] **[wuhua](https://osu.ppy.sh/users/2932510)** | ![][flag_MY] [TequilaWolf](https://osu.ppy.sh/users/3633477) | ![][flag_ID] [thefarrel007](https://osu.ppy.sh/users/2429128) |
 | **1miss** | ![][flag_MY] **[ShaneLiang](https://osu.ppy.sh/users/6716499)** | ![][flag_MY] [Naz](https://osu.ppy.sh/users/3921010) |  ![][flag_MY] [Reinaru](https://osu.ppy.sh/users/7353307) |
 | **adventure timers** | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** | ![][flag_MY] [wilson9909](https://osu.ppy.sh/users/8703188) | ![][flag_ID] [OTWGE](https://osu.ppy.sh/users/11759284) |
+| **asean NUTtersarus** | ![][flag_MY] **[Rampax](https://osu.ppy.sh/users/3995630)** | ![][flag_SG] [OppaiSuki](https://osu.ppy.sh/users/1285403) | ![][flag_ID] [Remuru](https://osu.ppy.sh/users/3654220) |
+| **DaFaK** | ![][flag_MY] **[FaithInOsu](https://osu.ppy.sh/users/10178187)** | ![][flag_MY] [Desumond](https://osu.ppy.sh/users/7399262) | ![][flag_MY] [KrispyKrep](https://osu.ppy.sh/users/10985924) |
+| **emilia fanclub** | ![][flag_MY] **[not_aweeb](https://osu.ppy.sh/users/9375317)** | ![][flag_MY] [Vexine](https://osu.ppy.sh/users/4042706) | ![][flag_MY] [Rexyne](https://osu.ppy.sh/users/9707834) |
+| **ff15** | ![][flag_ID] **[121Brian121](https://osu.ppy.sh/users/6192975)** | ![][flag_ID] [Clayweg](https://osu.ppy.sh/users/11374005) | ![][flag_SG] [JokThree](https://osu.ppy.sh/users/7713152) |
 
 ## Mappools
 
