@@ -86,27 +86,51 @@ The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) an
 | ![][flag_US] | **United States** | **[rostld](https://osu.ppy.sh/users/4365562)**, [Secre](https://osu.ppy.sh/users/2306637), [diao](https://osu.ppy.sh/users/500696), [Dahcreeper](https://osu.ppy.sh/users/6926006), [Zak](https://osu.ppy.sh/users/1375955), [Lexii](https://osu.ppy.sh/users/7226149) |
 | ![][flag_VN] | **Vietnam** | **[Close](https://osu.ppy.sh/users/4744615)**, [NamSPro](https://osu.ppy.sh/users/11387006), [Huytimeclock](https://osu.ppy.sh/users/10920086), [-\[SLs\]-Horikita](https://osu.ppy.sh/users/8738261), [mothernature](https://osu.ppy.sh/users/6403418), [Marota](https://osu.ppy.sh/users/10278890) |
 
-## Match schedule: Round of 16
+## Match schedule: Quarterfinals
 
 ### Saturday, 16 May 2020
 
 | Team A |  |  | Team B | Match time | Local time A | Local time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| Taiwan | ![][flag_TW] | ![][flag_IT] | Italy | **11:30 UTC** | 19:30 UTC+08 | 13:30 UTC+02 |
-| France | ![][flag_FR] | ![][flag_HK] | Hong Kong | **13:00 UTC** | 15:00 UTC+02 | 21:00 UTC+08 |
-| Germany | ![][flag_DE] | ![][flag_MX] | Mexico | **18:30 UTC** | 20:30 UTC+02 | 13:30 UTC-05 |
+| Hong Kong | ![][flag_HK] | ![][flag_CA] | Canada | **02:00 UTC** | 10:00 UTC+08 | 21:00 (Fri.) UTC-05 |
+| China | ![][flag_CN] | ![][flag_MX] | Mexico | **03:30 UTC** | 11:30 UTC+08 | 22:30 (Fri.) UTC-05 |
+| Taiwan | ![][flag_TW] | ![][flag_PL] | Poland | **12:00 UTC** | 20:00 UTC+08 | 14:00 UTC+02 |
+| Italy | ![][flag_IT] | ![][flag_ID] | Indonesia | **13:30 UTC** | 15:30 UTC+02 | 20:30 UTC+07 |
 
 ### Sunday, 17 May 2020
 
 | Team A |  |  | Team B | Match time | Local time A | Local time B |
 | --: | --: | :-- | :-- | :-: | :-: | :-: |
-| South Korea | ![][flag_KR] | ![][flag_CL] | Chile | **3:00 UTC** | 12:00 UTC+09 | 23:00 (Sat.) UTC-04 |
-| Belgium | ![][flag_BE] | ![][flag_CN] | China | **9:30 UTC** | 11:30 UTC+02 | 17:30 UTC+08 |
-| Poland | ![][flag_PL] | ![][flag_ID] | Indonesia | **12:30 UTC** | 14:30 UTC+02 | 19:30 UTC+07 |
-| United States | ![][flag_US] | ![][flag_PH] | Philippines | **14:00 UTC** | 10:00 UTC-04 | 22:00 UTC+08 |
-| Russian Federation | ![][flag_RU] | ![][flag_CA] | Canada | **18:00 UTC** | 21:00 UTC+03 | 13:00 UTC-05 |
+| South Korea | ![][flag_KR] | ![][flag_US] | United States | **01:00 UTC** | 10:00 UTC+09 | 21:00 (Sat.) UTC-04 |
+| Chile | ![][flag_CL] | ![][flag_PH] | Philippines | **02:30 UTC** | 22:30 (Sat.) UTC-04 | 10:30 UTC+08 |
+| France | ![][flag_FR] | ![][flag_RU] | Russian Federation | **14:00 UTC** | 16:00 UTC+02 | 17:00 UTC+03 |
+| Belgium | ![][flag_BE] | ![][flag_DE] | Germany | **16:30 UTC** | 18:30 UTC+02 | 18:30 UTC+02 |
 
 ## Mappools
+
+### Quarterfinals
+
+- NoMod
+  - [Asking Alexandria - Closure (Sanyi) \[Du5t's Shutdown\]](https://osu.ppy.sh/beatmapsets/1064368#fruits/2228490)
+  - [Nekomata Master - Izanami no Nageki (Syamu) \[Revenge\]](https://osu.ppy.sh/beatmapsets/1155480#fruits/2411326)
+  - [sakuraburst - anticrystal (WildOne94) \[Team Philippines' Overdose\]](https://osu.ppy.sh/beatmapsets/1062804#fruits/2234731)
+  - [HyuN feat. JeeE - Fallen Angel (alienflybot) \[Obsession\]](https://osu.ppy.sh/beatmapsets/1141049#fruits/2383406)
+  - [ginkiha - Borealis (Aka) \[Expert\]](https://osu.ppy.sh/beatmapsets/213068#fruits/504983)
+  - [Dictate - Treason (Realazy) \[The Senate\]](https://osu.ppy.sh/beatmapsets/848976#fruits/1775314)
+- Hidden
+  - [meganeko - Nova (JBHyperion) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1102115#fruits/2302405)
+  - [zts - goldenslaughterer (celerih) \[Deif's Rain\]](https://osu.ppy.sh/beatmapsets/1023721#fruits/2160302)
+  - [Kurahashi Yoeko - Tomodachi no Uta (tutuhaha) \[Tomodachi\]](https://osu.ppy.sh/beatmapsets/790979#fruits/1659553)
+- HardRock
+  - [onumi - REGRET PART ONE (Sorcerer) \[OVERDOSE\]](https://osu.ppy.sh/beatmapsets/936545#fruits/1956467)
+  - [Grand Thaw - SOLROS (inst. ver) (Mafumafu) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1021126#fruits/2140229)
+  - [FELT - The Sun and Moon (Sylvarus) \[More Than Words Can Say\]](https://osu.ppy.sh/beatmapsets/1036438#fruits/2167038)
+- DoubleTime
+  - [Xiao Pan Pan & Xiao Feng Feng - Xue Mao Jiao (Dapuluous) \[Miaw\]](https://osu.ppy.sh/beatmapsets/1119839#fruits/2339709)
+  - [Dark PHOENiX - Shunshun Shugetsu (Yumeno Himiko) \[Rocma's Hard\]](https://osu.ppy.sh/beatmapsets/999233#fruits/2095033)
+  - [CLC - Pepe (Lilyanna) \[ooh cha!\]](https://osu.ppy.sh/beatmapsets/645032#fruits/1366918)
+- Tiebreaker
+  - **[Halozy - Kikoku Doukoku Jigokuraku (Ascendance) \[Rocmascennrei's Hell Overdose\]](https://osu.ppy.sh/beatmapsets/1021356#fruits/2136990)**
 
 ### Round of 16
 
@@ -157,6 +181,26 @@ The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) an
   - **[Infected Mushroom - The Pretender (Seph) \[Crystal\]](https://osu.ppy.sh/beatmapsets/104516#fruits/304466)**
 
 ## Match results
+
+### Round of 16
+
+Saturday, 16 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Taiwan ![][flag_TW] | 5 | **6** | ![][flag_IT] **Italy** | [#1](https://osu.ppy.sh/community/matches/61733697) |
+| France ![][flag_FR] | 2 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/61736295) |
+| Germany ![][flag_DE] | 2 | **6** | ![][flag_MX] **Mexico** | [#1](https://osu.ppy.sh/community/matches/61747982) |
+
+Sunday, 17 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ![][flag_KR] | **6** | 4 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/61762130) |
+| Belgium ![][flag_BE] | 0 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/61769779) |
+| Poland ![][flag_PL] | 4 | **6** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/61774152) |
+| **United States** ![][flag_US] | **6** | 5 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/61776851) |
+| Russian Federation ![][flag_RU] | 3 | **6** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/61784119) |
 
 ### Group Stage
 
