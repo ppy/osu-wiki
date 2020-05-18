@@ -320,43 +320,25 @@ Sunday, 3 May 2020:
 
 ### Quarterfinals
 
-Wednesday, 18 March 2020:
+Saturday, 25 April 2020:
 
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | [Walfrid](https://osu.ppy.sh/users/6600809) ![][flag_ID] | 2 | **6** | ![][flag_ID] **[Gatyaa420](https://osu.ppy.sh/users/984132)** | [#1](https://osu.ppy.sh/community/matches/59329311) |
-| Upper | **[Fuma](https://osu.ppy.sh/users/1501956)** ![][flag_ID] | **6** | 3 | ![][flag_ID] [Somay 287](https://osu.ppy.sh/users/4314559) | [#1](https://osu.ppy.sh/community/matches/59331034) |
+| Lower | **Happy Ending** | **6** | 5 | pussy goreng | [#1](https://osu.ppy.sh/community/matches/60864862) |
+| Upper | **adventure timers**| **6** | 2 | Nekopara Fanclub | [#1](https://osu.ppy.sh/community/matches/60869212) |
+| Lower | **mofumofu lover** | **6** | 1 | emilia fanclub | [#1](https://osu.ppy.sh/community/matches/60870998) |
+| Upper | :watamesleep: | 3 | **6** | **Where Love Lies** | [#1](https://osu.ppy.sh/community/matches/60871242) |
+| Upper | **tasty watermelon**| **6** | 2 | asean NUTtersarus | [#1](https://osu.ppy.sh/community/matches/60873538) |
 
-Friday, 20 March 2020:
+Sunday, 26 April 2020:
 
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Skydiver](https://osu.ppy.sh/users/4750008)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [-Reuto-](https://osu.ppy.sh/users/10717635) | [#1](https://osu.ppy.sh/community/matches/59402350) |
+| Lower | pussy fly | 0 | **6** | **1miss** | [#1](https://osu.ppy.sh/community/matches/60907296) |
+| Lower | ff15 | 0 | **6** | **pussy goreng v3** | [#1](https://osu.ppy.sh/community/matches/60913158) |
+| Upper | somaymalaycapcay | 3 | **6** | **we will 操你妈** | [#1](https://osu.ppy.sh/community/matches/60914894) |
 
-Saturday, 21 March 2020:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [Firia](https://osu.ppy.sh/users/9730262) ![][flag_ID] | 1 | **6** | ![][flag_ID] **[F4UZ4N](https://osu.ppy.sh/users/11070577)** | [#1](https://osu.ppy.sh/community/matches/59432370) |
-| Lower | [sumippe](https://osu.ppy.sh/users/1929336) ![][flag_ID] | 3 | **6** | ![][flag_ID] **[MasterfulNote5](https://osu.ppy.sh/users/7247988)** | [#1](https://osu.ppy.sh/community/matches/59433967) |
-| Lower | [Takaichi](https://osu.ppy.sh/users/909745) ![][flag_ID] | 3 | **6** | ![][flag_ID] **[Skitzor](https://osu.ppy.sh/users/3353314)** | [#1](https://osu.ppy.sh/community/matches/59436345) |
-| Lower | **[OTWGE](https://osu.ppy.sh/users/11759284)** ![][flag_ID] | **6** | 1 | ![][flag_ID] [121Brian121](https://osu.ppy.sh/users/6192975) | [#1](https://osu.ppy.sh/community/matches/59437575) |
-| Lower | [Vvn-](https://osu.ppy.sh/users/3204677) ![][flag_ID] | 5 | **6** | ![][flag_ID] **[Seox](https://osu.ppy.sh/users/3793938)** | [#1](https://osu.ppy.sh/community/matches/59439101) |
-| Lower | [Tama-desu](https://osu.ppy.sh/users/3813174) ![][flag_ID] | 2 | **6** | ![][flag_ID] **[RealViolence](https://osu.ppy.sh/users/5638585)** | [#1](https://osu.ppy.sh/community/matches/59441278) |
-| Lower | **[\[fry\]](https://osu.ppy.sh/users/49176045)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) | *win by default* |
-| Lower | **[SpitzerFam](https://osu.ppy.sh/users/12965045)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [Xicyte](https://osu.ppy.sh/users/10212581) | *win by default* |
-
-Sunday, 22 March 2020:
-
-| Bracket | Player 1 |  |  | Player 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| Lower | [SpitzerFam](https://osu.ppy.sh/users/12965045) ![][flag_ID] | 3 | **6** | ![][flag_ID] **[\[fry\]](https://osu.ppy.sh/users/49176045)** | [#1](https://osu.ppy.sh/community/matches/59468793) |
-| Lower | [MasterfulNote5](https://osu.ppy.sh/users/7247988) ![][flag_ID] | 1 | **6** | ![][flag_ID] **[F4UZ4N](https://osu.ppy.sh/users/11070577)** | [#1](https://osu.ppy.sh/community/matches/59741370) |
-| Lower | [OTWGE](https://osu.ppy.sh/users/11759284) ![][flag_ID] | 5 | **6** | ![][flag_ID] **[Skitzor](https://osu.ppy.sh/users/3353314)** | [#1](https://osu.ppy.sh/community/matches/59472832) |
-| Lower | **[RealViolence](https://osu.ppy.sh/users/5638585)** ![][flag_ID] | **6** | 5 | ![][flag_ID] [Seox](https://osu.ppy.sh/users/3793938) | [#1](https://osu.ppy.sh/community/matches/59476799) |
-| Upper | **[Rexeez](https://osu.ppy.sh/users/1987591)** ![][flag_ID] | **6** | 0 | ![][flag_ID] [Alan-](https://osu.ppy.sh/users/8937198) | [#1](https://osu.ppy.sh/community/matches/59477669) |
-
-### Round of 16
+### Group stage
 
 Wednesday, 11 March 2020:
 
