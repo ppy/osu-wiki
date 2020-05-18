@@ -443,7 +443,7 @@ Monday, 9 March 2020:
 4. Participants **are not allowed** to join in (or register for) more than one Qualifier lobbies.
 5. 32 participants with the **highest average rank combined from each individual Qualifier beatmaps** will advance to the knock-out stages.
    - If there are two (or more) participants who share the same average rank, the participant that holds the higher total score combined from all ten Qualifier beatmaps will be placed in the higher seed.
-6. Failure to attend in any of the eight Qualifier lobbies will result in an instant elimination from the tournament.
+6. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
 
 ### Knock-out stage rules
 
