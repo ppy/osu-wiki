@@ -131,7 +131,7 @@ The OIT 2020 was run by various Indonesian osu! community members.
 
 ### Semifinals
 
-**[Download the mappack here! (159 MB)](https://drive.google.com/uc?id=13Xppia1yVoqlAGvofXWWUrzHZ5jYIKVa&export=download)**
+**[Download the mappack here! (159 MB)](https://drive.google.com/file/d/13Xppia1yVoqlAGvofXWWUrzHZ5jYIKVa/view)**
 
 - NoMod
   - [BAND-MAID - DICE (Meg) \[X\]](https://osu.ppy.sh/beatmapsets/1092940#osu/2284524)
@@ -156,11 +156,13 @@ The OIT 2020 was run by various Indonesian osu! community members.
   - [Faylan - Mind as Judgment (miccoliasms) \[Impossible\]](https://osu.ppy.sh/beatmapsets/10192#osu/43666)
   - [cosMo@BousouP - For UltraPlayers (rui) \[Chata's INFINITE\]](https://osu.ppy.sh/beatmapsets/137969#osu/344709)
 - Tiebreaker
-  - **[Yooh - Divinity (greenhue) \[Ascendance\]](https://osu.ppy.sh/beatmapsets/1120245#osu/2340789)**
+  - **[Akitsuki Fuuka (CV: Lynn) - Wings of light (HowRengar) \[Freedom\]](https://osu.ppy.sh/beatmapsets/945503#osu/1974409)**
+  - **[Meramipop - Secret Desire - Dyes Remix - (Skystar) \[Irregular\]](https://osu.ppy.sh/beatmapsets/697895#osu/1478218)**
+  - **[F9 - Kagaribito (Damnjelly) \[Repairers of the Deceptive World\]](https://osu.ppy.sh/beatmapsets/925536#osu/1974330)**
 
 ### Quarterfinals
 
-**[Download the mappack here! (133 MB)](https://drive.google.com/file/d/1VkXbE4Qj3qeO7OelXbttdl6JidiKdR31/view)**
+**[Download the mappack here! (125 MB)](https://drive.google.com/file/d/1vXCH2VLIkluoO5iUQaE_92tR2lnOp0Ph/view)**
 
 - NoMod
   - [THE ORAL CIGARETTES - ONE'S AGAIN (Meg) \[ya\]](https://osu.ppy.sh/beatmapsets/607344#osu/1282817)
