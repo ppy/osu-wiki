@@ -454,6 +454,12 @@ Sunday, 19 April 2020:
 | #43 | C | ![][flag_MY] [Rexyne](https://osu.ppy.sh/users/9707834) | 3.875 |
 | #44 | C | ![][flag_MY] [hilo123](https://osu.ppy.sh/users/9938586) | 3.763 |
 | #45 | C | ![][flag_MY] [Reinaru](https://osu.ppy.sh/users/7353307) | 3.688 |
+| #46 | C | ![][flag_ID] [Veltlion](https://osu.ppy.sh/users/10999079) | 3.609 |
+| #47 | C | ![][flag_ID] [fnayR](https://osu.ppy.sh/users/2800253) | 3.583 |
+| #48 | C | ![][flag_SG] [Hecatia](https://osu.ppy.sh/users/8244635) | 3.398 |
+| #49 | C | ![][flag_MY] [verdas123](https://osu.ppy.sh/users/11148851) | 3.376 |
+| #50 | C | ![][flag_ID] [thefarrel007](https://osu.ppy.sh/users/2429128) | 3.081 |
+| #51 | C | ![][flag_SG] [Shleepy](https://osu.ppy.sh/users/8486823) | 3.066 |
 
 ## Ruleset
 
