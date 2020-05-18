@@ -66,7 +66,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_DE] [Myxo](https://osu.ppy.sh/users/2202645) | Almanca |
 | ![][flag_US] [Nao Tomori](https://osu.ppy.sh/users/5364763) |  |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Çince |
-| ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  |
 | ![][flag_GR] [Nikakis](https://osu.ppy.sh/users/4351739) | Yunanca |
 | ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) | Fransızca |
 | ![][flag_IT] [Nuvolina](https://osu.ppy.sh/users/10974170) | İtalyanca |
@@ -150,6 +149,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  |
 | ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334) |  |
 | ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | Rusça |
+| ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  |
 | ![][flag_SG] [Smoke](https://osu.ppy.sh/users/10726630) |  |
 | ![][flag_AT] [Stixy](https://osu.ppy.sh/users/9000308) | Almanca |
 | ![][flag_EG] [Teky](https://osu.ppy.sh/users/10520912) | Arapça |
