@@ -73,10 +73,10 @@ Shirasaka Koume is known for having a very clean and enjoyable mapping style, an
 
 [![](/wiki/shared/news/2020-05-16-project-loved-may-2020/osu/7-gas-gas-gas.jpg)](https://osu.ppy.sh/community/forums/topics/1070627)
 
-[MANUEL - GAS GAS GAS](https://osu.ppy.sh/beatmapsets/826430#osu) by [Woey](https://osu.ppy.sh/users/3792472)  
-154 BPM, 4:29 | 6.56★
+[MANUEL & Tsuko G. - GAS GAS GAS](https://osu.ppy.sh/beatmapsets/826430#osu) by [heroin_player67](https://osu.ppy.sh/users/3792472)  
+154 BPM, 4:29 | 6.56★, 6.90★
 
-You can't go wrong with Eurobeat music when it comes to getting hyped up, and you can't go wrong with Woey maps when it comes to having a great time. What happens when you put the two together? That's right: Gas Gas Gas. Four and a half minutes of 154 BPM alternating patterns and an absolute banger of a song. Step on it!
+You can't go wrong with Eurobeat music when it comes to getting hyped up, and you can't go wrong with Woey maps when it comes to having a great time. What happens when you put the two together? That's right: *GAS GAS GAS*. Four and a half minutes of 154 BPM alternating patterns and an absolute banger of a song. Step on it!
 
 [![](/wiki/shared/news/2020-05-16-project-loved-may-2020/osu/8-shadows-of-cats.jpg)](https://osu.ppy.sh/community/forums/topics/1070626)
 
