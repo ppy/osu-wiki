@@ -43,7 +43,7 @@ OSIM was run by various osu! community members predominantly hailing from Singap
 | Map selector | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531) |
 | Streamer | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531) |
 | Commentator | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531) |
-| Referee | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_MY] [Sonic-](https://osu.ppy.sh/users/8691555), ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_MY] [Xyrelyx](https://osu.ppy.sh/users/3765632) |
+| Referee | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_MY] [Sonic-](https://osu.ppy.sh/users/8691555), ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_MY] [Xyrelyx](https://osu.ppy.sh/users/3765632), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711) |
 | Graphic designer | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
 | Spreadsheet manager | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133) |
 | Wiki editor | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) |
@@ -76,7 +76,15 @@ OSIM was run by various osu! community members predominantly hailing from Singap
 | **gebratene Muschi** | ![][flag_ID] **[Vinno](https://osu.ppy.sh/users/10717635)** | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) | ![][flag_MY] [TachibanaTaki12](https://osu.ppy.sh/users/9924719) |
 | **Happy Ending** | ![][flag_SG] **[\[-Lockon-\]](https://osu.ppy.sh/users/6726331)** | ![][flag_SG] [ExImperia](https://osu.ppy.sh/users/5200499) | ![][flag_ID] [C4rm4](https://osu.ppy.sh/users/13187450) |
 | **mofumofu lover** | ![][flag_SG] **[Rtzer0](https://osu.ppy.sh/users/5407620)** | ![][flag_SG] [\_gt](https://osu.ppy.sh/users/8301957) | ![][flag_ID] [Veltlion](https://osu.ppy.sh/users/10999079) |
-| **Nekopara Fanclub** | ![][flag_SG] **[Rtzer0](https://osu.ppy.sh/users/5407620)** | ![][flag_SG] [\_gt](https://osu.ppy.sh/users/8301957) | ![][flag_ID] [Veltlion](https://osu.ppy.sh/users/10999079) |
+| **Nekopara Fanclub** | ![][flag_MY] **[Sei Shaneagon](https://osu.ppy.sh/users/3677251)** | ![][flag_ID] [Takaichi](https://osu.ppy.sh/users/909745) | ![][flag_MY] [verdas123](https://osu.ppy.sh/users/11148851) |
+| **pussy fly** | ![][flag_MY] **[Monofly](https://osu.ppy.sh/users/11134301)** | ![][flag_SG] [moltenfury](https://osu.ppy.sh/users/3395820) | ![][flag_MY] [hilo123](https://osu.ppy.sh/users/9938586) |
+| **pussy goreng** | ![][flag_SG] **[phox](https://osu.ppy.sh/users/772295)** | ![][flag_SG] [Loslite](https://osu.ppy.sh/users/6398160) | ![][flag_MY] [Fried Rice](https://osu.ppy.sh/users/11530643) |
+| **pussy goreng v3** | ![][flag_SG] **[SeeL](https://osu.ppy.sh/users/5104320)** | ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938) | ![][flag_ID] [fnayR](https://osu.ppy.sh/users/2800253) |
+| **sijori folks** | ![][flag_ID] **[F4UZ4N](https://osu.ppy.sh/users/11070577)** | ![][flag_MY] [vernonlim](https://osu.ppy.sh/users/10167542) | ![][flag_SG] [Shleepy](https://osu.ppy.sh/users/8486823) |
+| **somaymalaycapcay** | ![][flag_ID] **[Rexeez](https://osu.ppy.sh/users/1987591)** | ![][flag_ID] [Somay 287](https://osu.ppy.sh/users/4314559) | ![][flag_MY] [Ho Ping](https://osu.ppy.sh/users/10487700) |
+| **tasty watermelon** | ![][flag_ID] **[sumippe](https://osu.ppy.sh/users/1929336)** | ![][flag_SG] [GSBlank](https://osu.ppy.sh/users/2312106) | ![][flag_MY] [AGhostyTSQ](https://osu.ppy.sh/users/13047324) |
+| **we will 操你妈** | ![][flag_SG] **[Soba Noodles](https://osu.ppy.sh/users/3010281)** | ![][flag_MY] [Zeph2003](https://osu.ppy.sh/users/10343292) | ![][flag_SG] [Lunarsol](https://osu.ppy.sh/users/6622650) |
+| **Where Love Lies** | ![][flag_SG] **[Fuma](https://osu.ppy.sh/users/1501956)** | ![][flag_ID] [Fayn](https://osu.ppy.sh/users/5390495) | ![][flag_SG] [Hecatia](https://osu.ppy.sh/users/8244635) |
 
 ## Mappools
 
