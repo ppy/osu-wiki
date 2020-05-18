@@ -375,6 +375,36 @@ Friday, 17 April 2020:
 | :-: | --: | :-: | :-: | :-- | :-- |
 | D | pussy goreng v3 | 2 | **5** | **Where Love Lies** | [#1](https://osu.ppy.sh/community/matches/60529340) |
 
+Saturday, 18 April 2020:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| D | fryed pussy | 2 | **5** | **pussy goreng v3** | [#1](https://osu.ppy.sh/community/matches/60561104) |
+| B | **tasty watermelon** | **5** | 3 | Happy Ending | [#1](https://osu.ppy.sh/community/matches/60563610) |
+| B | pussy fly | 0 | **5** | **adventure timers** | [#1](https://osu.ppy.sh/community/matches/60564975) |
+| A | DaFaK | 1 | **5** | **somaymalaycapcay** | [#1](https://osu.ppy.sh/community/matches/60564982) |
+| D | **emilia fanclub** | **5** | 2 | fryed pussy | [#1](https://osu.ppy.sh/community/matches/60567874) |
+| A | **mofumofu lover** | **5** | 1 | ff15 | [#1](https://osu.ppy.sh/community/matches/60568210) |
+| B | gebratene Muschi | 0 | **5** | **tasty watermelon** | [#1](https://osu.ppy.sh/community/matches/60570028) |
+| C | **Nekopara Fanclub** | **5** | 2 | 1miss | [#1](https://osu.ppy.sh/community/matches/60570282) |
+| D | **we will 操你妈** | **5** | 2 | pussy goreng v3 | [#1](https://osu.ppy.sh/community/matches/60571447) |
+| D | **pussy goreng v3** | **5** | 2 | emilia fanclub | [#1](https://osu.ppy.sh/community/matches/60573490) |
+| D | **Where Love Lies** | **5** | 1 | fryed pussy | [#1](https://osu.ppy.sh/community/matches/60572728) |
+| C | sijori folks | 3 | **5** | **pussy goreng** | [#1](https://osu.ppy.sh/community/matches/60572856) |
+
+Sunday, 19 April 2020:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
+| :-: | --: | :-: | :-: | :-- | :-- |
+| A | ff15 | 0 | **5** | **:watamesleep:** | [#1](https://osu.ppy.sh/community/matches/60606144), [#2](https://osu.ppy.sh/community/matches/60606838) |
+| B | **adventure timers** | **5** | 1 | gebratene Muschi | [#1](https://osu.ppy.sh/community/matches/60608704) |
+| B | **Happy Ending** | **5** | 2 | pussy fly | [#1](https://osu.ppy.sh/community/matches/60608782) |
+| A | **somaymalaycapcay** | **5** | 2 | mofumofu lover | [#1](https://osu.ppy.sh/community/matches/60611928) |
+| C | **asean NUTtersarus** | **5** | 2 | Nekopara Fanclub | [#1](https://osu.ppy.sh/community/matches/60611923) |
+| A | **:watamesleep:** | **5** | 0 | DaFaK | [#1](https://osu.ppy.sh/community/matches/60616002) |
+| C | **1miss** | **5** | 0 | sijori folks | [#1](https://osu.ppy.sh/community/matches/60615753) |
+| A | somaymalaycapcay | 4 | **5** | **:watamesleep:** | [#1](https://osu.ppy.sh/community/matches/60618229) |
+
 ### Qualifiers
 
 (150 BPM) dum dum dum dum
