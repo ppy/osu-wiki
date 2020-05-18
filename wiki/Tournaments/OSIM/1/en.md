@@ -57,7 +57,7 @@ OSIM was run by various osu! community members predominantly hailing from Singap
 
 ## Podium
 
-![Champion: Skydiver, 2nd place: Fuma, 3rd place: Rexeez](img/podium.jpg)
+TBD
 
 ## Participants
 
