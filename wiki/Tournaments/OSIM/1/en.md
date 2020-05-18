@@ -13,15 +13,15 @@ The **osu! Singapore-Indonesia-Malaysia Tournament** (***OSIM***) was a double-e
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration phase | 2020-02-03/2020-02-16 |
-| Screening phase | 2020-02-17/2020-02-23 |
-| Qualifiers | 2020-02-24/2020-03-01 |
-| Round of 32 | 2020-03-02/2020-03-08 |
-| Round of 16 | 2020-03-09/2020-03-15 |
-| Quarterfinals | 2020-03-16/2020-03-22 |
-| Semifinals | 2020-03-23/2020-03-29 |
-| Finals week 1 | 2020-03-30/2020-04-05 |
-| Finals week 2 | 2020-04-06/2020-04-12 |
+| Registration phase | 2020-02-15/2020-03-08 |
+| Screening phase | 2020-03-09/2020-03-20 |
+| Qualifiers | 2020-03-21/2020-03-29 |
+| Team drafting | 2020-04/04 |
+| Group stage | 2020-04-05/2020-04/19 |
+| Quarterfinals | 2020-04/20/2020-04/26 |
+| Semifinals | 2020-04-27/2020-05-03 |
+| Finals week 1 | 2020-05-04/2020-05-11 |
+| Finals week 2 | 2020-05-12/2020-05-17 |
 
 ## Prizes
 
