@@ -412,6 +412,24 @@ Sunday, 19 April 2020:
 | #1 | A | ![][flag_ID] [Skydiver](https://osu.ppy.sh/u/4750008) | 9.081 |
 | #2 | A | ![][flag_MY] [Rampax](https://osu.ppy.sh/users/3995630) | 8.745 |
 | #3 | A | ![][flag_MY] [ShaneLiang](https://osu.ppy.sh/users/6716499) | 8.453 |
+| #4 | A | ![][flag_SG] [Soba Noodles](https://osu.ppy.sh/users/3010281) | 8.43 |
+| #5 | A | ![][flag_SG] [\[-Lockon-\]](https://osu.ppy.sh/users/6726331) | 8.289 |
+| #6 | A | ![][flag_ID] [Rexeez](https://osu.ppy.sh/u/1987591) | 8.047 |
+| #7 | A | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | 8.04 |
+| #8 | A | ![][flag_SG] [SeeL](https://osu.ppy.sh/users/5104320) | 7.681 |
+| #9 | A | ![][flag_MY] [wuhua](https://osu.ppy.sh/users/2932510) | 7.676 |
+| #10 | A | ![][flag_ID] [Vinno](https://osu.ppy.sh/users/10717635) | 7.322 |
+| #11 | A | ![][flag_SG] [Rtzer0](https://osu.ppy.sh/users/5407620) | 7.294 |
+| #12 | A | ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577) | 7.083 |
+| #13 | A | ![][flag_MY] [Sei Shaneagon](https://osu.ppy.sh/users/3677251) | 6.624 |
+| #14 | A | ![][flag_MY] [not_aweeb](https://osu.ppy.sh/users/9375317) | 6.196 |
+| #15 | A | ![][flag_ID] [121Brian121](https://osu.ppy.sh/users/6192975) | 6.105 |
+| #16 | A | ![][flag_MY] [Monofly](https://osu.ppy.sh/users/11134301) | 5.99 |
+| #17 | A | ![][flag_MY] [FaithInOsu](https://osu.ppy.sh/users/10178187) | 5.868 |
+| #18 | A | ![][flag_SG] [phox](https://osu.ppy.sh/users/772295) | 5.861 |
+| #19 | A | ![][flag_ID] [\[fry\]](https://osu.ppy.sh/users/4917604) | 5.654 |
+| #20 | A | ![][flag_ID] [sumippe](https://osu.ppy.sh/users/1929336) | 5.385 |
+| #21 | B | ![][flag_MY] [vernonlim](https://osu.ppy.sh/users/10167542) | 5.346 |
 
 ## Ruleset
 
