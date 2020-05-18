@@ -20,7 +20,7 @@ The **ROI PRO Tournament** (***RPT***) is an Indonesian double-elimination 3v3 o
 | Quarterfinals | 2020-04-24/2020-04-26 |
 | Semifinals | 2020-05-01/2020-05-03 |
 | Finals | 2020-05-09/2020-03-10 |
-| Grand Finals | 2020-05-16/2020-05-17 |
+| Grand Finals | 2020-05-16/2020-05-18 |
 
 ## Prizes
 
@@ -255,6 +255,26 @@ The ROI PRO Tournament is run by various community members.
   - [zts - death(from stupefaction) (Mirash) \[La Pandaline's Insane\]](https://osu.ppy.sh/beatmapsets/889315#osu/1858801)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 16 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| xHirayuki | 5 | **7** | **Baqua** | [#1](https://osu.ppy.sh/mp/61729867) |
+
+Sunday, 17 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ToedLover | 5 | **7** | **Baqua** | [#1](https://osu.ppy.sh/community/matches/61768057) |
+
+Monday, 18 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Baqua | 6 | **7** | **ToedLover** | [#1](https://osu.ppy.sh/community/matches/61812863) |
 
 ### Finals
 
