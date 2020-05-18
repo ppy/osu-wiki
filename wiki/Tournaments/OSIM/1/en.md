@@ -460,6 +460,18 @@ Sunday, 19 April 2020:
 | #49 | C | ![][flag_MY] [verdas123](https://osu.ppy.sh/users/11148851) | 3.376 |
 | #50 | C | ![][flag_ID] [thefarrel007](https://osu.ppy.sh/users/2429128) | 3.081 |
 | #51 | C | ![][flag_SG] [Shleepy](https://osu.ppy.sh/users/8486823) | 3.066 |
+| #52 | C | ![][flag_MY] [KrispyKrep](https://osu.ppy.sh/users/10985924) | 2.947 |
+| #53 | C | ![][flag_MY] [PandaHung143](https://osu.ppy.sh/users/9637220) | 2.809 |
+| #54 | C | ![][flag_MY] [Ho Ping](https://osu.ppy.sh/users/10487700) | 2.798 |
+| #55 | C | ![][flag_MY] [TachibanaTaki12](https://osu.ppy.sh/users/9924719) | 2.77 |
+| #56 | C | ![][flag_ID] [OTWGE](https://osu.ppy.sh/users/11759284) | 2.768 |
+| #57 | C | ![][flag_SG] [JokThree](https://osu.ppy.sh/users/7713152) | 2.509 |
+| #58 | C | ![][flag_ID] [Remuru](https://osu.ppy.sh/users/3654220) | 2.349 |
+| #59 | C | ![][flag_MY] [Fried Rice](https://osu.ppy.sh/users/11530643) | 2.223 |
+| #60 | C | ![][flag_MY] [AGhostyTSQ](https://osu.ppy.sh/users/13047324) | 2.035 |
+| #61 | Out | ![][flag_SG] [YYRyan17](https://osu.ppy.sh/users/7942058) | 1.876 |
+| #62 | Out | ![][flag_SG] [Hayatokundesu](https://osu.ppy.sh/users/12543785) | 1.766 |
+| #63 | Out | ![][flag_SG] [\[-shirayuki-\]](https://osu.ppy.sh/users/7679930) | 1.721 |
 
 ## Ruleset
 
