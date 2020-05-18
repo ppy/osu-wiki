@@ -340,13 +340,23 @@ Sunday, 26 April 2020:
 
 ### Group stage
 
-Wednesday, 11 March 2020:
+Saturday, 11 April 2020:
 
-| Bracket | Player 1 |  |  | Player 2 | Match link |
+| Group | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **[Fuma](https://osu.ppy.sh/users/1501956)** ![][flag_ID] | **5** | 0 | ![][flag_ID] [Vvn](https://osu.ppy.sh/users/3204677) | [#1](https://osu.ppy.sh/community/matches/59101316) |
+| A | **:watamesleep:** | **5** | 0 | mofumofu lover | [#1](https://osu.ppy.sh/community/matches/60264526) |
+| B | gebratene Muschi | 2 | **5** | **pussy fly** | [#1](https://osu.ppy.sh/community/matches/60265762) |
+| C | 1miss | 4 | **5** | **asean NUTtersarus** | [#1](https://osu.ppy.sh/community/matches/60265738) |
+| B | **adventure timers** | **5** | 1 | Happy Ending | [#1](https://osu.ppy.sh/community/matches/60268611) |
+| D | emilia fanclub | 4 | **5** | **we will 操你妈** | [#1](https://osu.ppy.sh/community/matches/60270545) |
+| C | pussy goreng | 3 | **5** | **1miss** | [#1](https://osu.ppy.sh/community/matches/60270420) |
+| B | tasty watermelon | 3 | **5** | **adventure timers** | [#1](https://osu.ppy.sh/community/matches/60270486) |
+| C | **asean NUTtersarus** | **5** | 3 | sijori folks | [#1](https://osu.ppy.sh/community/matches/60270448) |
+| D | **we will 操你妈** | **5** | 2 | Where Love Lies | [#1](https://osu.ppy.sh/community/matches/60272510) |
+| C | **pussy goreng** | **5** | 3 | asean NUTtersarus | [#1](https://osu.ppy.sh/community/matches/60274919) |
+| A | **mofumofu lover** | **5** | 1 | DaFaK | [#1](https://osu.ppy.sh/community/matches/60274841) |
 
-Friday, 13 March 2020:
+Sunday, 12 April 2020:
 
 | Bracket | Player 1 |  |  | Player 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
