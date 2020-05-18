@@ -131,32 +131,30 @@ The OIT 2020 was run by various Indonesian osu! community members.
 
 ### Semifinals
 
-**[Download the mappack here! (141 MB)](https://drive.google.com/file/d/1HOwmJjSsaIGkSjN33qha7dAB2qFT8TKy/view)**
+**[Download the mappack here! (159 MB)](https://drive.google.com/uc?id=13Xppia1yVoqlAGvofXWWUrzHZ5jYIKVa&export=download)**
 
 - NoMod
-  - [Kitamura Eri - STARLET SEEKER (CoLouRed GlaZeE) \[Delis' Extreme\]](https://osu.ppy.sh/beatmapsets/1085124#osu/2269187)
-  - [Fractal Dreamers - Gardens Under A Spring Sky (Lasse) \[Another\]](https://osu.ppy.sh/beatmapsets/956716#osu/2002882)
-  - [TUYU - Anoyo-iki no Bus ni Notte Saraba. (Deca) \[Hallucination.\]](https://osu.ppy.sh/beatmapsets/1080224#osu/2259972)
-  - [Sumireko Hanabusa (CV: Miho Arakawa) - Inochi no Karakuri (Atalanta) \[The Queen\]](https://osu.ppy.sh/beatmapsets/1061614#osu/2223096)
-  - [Fractal - Collide (feat. Danyka Nadeau) (NeilPerry) \[Neil x rrtyui's Conflux\]](https://osu.ppy.sh/beatmapsets/753365#osu/1586083)
-  - [Culprate & Dictate - Pencilina (Celektus) \[idiosyncratic\]](https://osu.ppy.sh/beatmapsets/722634#osu/1564457)
+  - [BAND-MAID - DICE (Meg) \[X\]](https://osu.ppy.sh/beatmapsets/1092940#osu/2284524)
+  - [Takenobu Mitsuyoshi - IKAZUCHI (BluOxy) \[MASTER\]](https://osu.ppy.sh/beatmapsets/489136#osu/1042623)
+  - [Tsukikage - Spatto! Spy & Spyce (TV Size) (Petal) \[Ren's Extra\]](https://osu.ppy.sh/beatmapsets/968574#osu/2028583)
+  - [forestpireo - Kanojo Ga Ichiban Shoujo Nanoka? (Teara) \[KIRBY Mix\]](https://osu.ppy.sh/beatmapsets/11773#osu/50845)
+  - [Mameyudoufu - Citadel (captin1) \[Autonomy\]](https://osu.ppy.sh/beatmapsets/1024712#osu/2143344)
 - Hidden
-  - [Camellia feat. Nanahira - Toureika (jonathanlfj) \[Nyquilfj's Extra\]](https://osu.ppy.sh/beatmapsets/1022167#osu/2328433)
-  - [bbn - Identic Conflict (Myxo) \[LMT's Another\]](https://osu.ppy.sh/beatmapsets/1020429#osu/2135438)
-  - [Cranky - Libera me (eiri-) \[Freedom\]](https://osu.ppy.sh/beatmapsets/757813#osu/1609794)
+  - [(G)I-DLE - HANN (Alone) (cosmiccc) \[Whistle\]](https://osu.ppy.sh/beatmapsets/832324#osu/1743778)
+  - [MY FIRST STORY - Fukagyaku Replace (HabiHolic) \[Insane\]](https://osu.ppy.sh/beatmapsets/319475#osu/711063)
+  - [senya - Zetsubou no Fuchi (-Mo-) \[Abyssal\]](https://osu.ppy.sh/beatmapsets/605290#osu/1278874)
 - HardRock
-  - [Nekomata Master+ - POINT ZERO (Beomsan) \[Down's Another\]](https://osu.ppy.sh/beatmapsets/1020276#osu/2170923)
-  - [Hate vs. Brilliance - Qubism (Mafumafu) \[Oxy's INFINITE\]](https://osu.ppy.sh/beatmapsets/524503#osu/1115462)
-  - [BUTA-OTOME - Blue Fireworks (BarkingMadDog) \[Reminiscence\]](https://osu.ppy.sh/beatmapsets/716455#osu/1513645)
+  - [culenasm - Helsinki no Yume (Lasse) \[Reverie\]](https://osu.ppy.sh/beatmapsets/1083875#osu/2266782)
+  - [Nekomata Master - Following Flow (Beomsan) \[Special\]](https://osu.ppy.sh/beatmapsets/511699#osu/1087690)
+  - [Kaneko Chiharu - WHITEOUT (Night Mare) \[MAXIMUM\]](https://osu.ppy.sh/beatmapsets/913022#osu/2286489)
 - DoubleTime
-  - [Yuuhei Satellite - Tsuki ni Murakumo Hana ni Kaze (Aeril) \[Satellite's Lunatic\]](https://osu.ppy.sh/beatmapsets/734241#osu/1571656)
-  - [Chata - anesthesia (Mirash) \[Insane\]](https://osu.ppy.sh/beatmapsets/588792#osu/1246439)
-  - [Hanatan - Kitsune no Yomeiri (Beren) \[Kiiwa's Insane\]](https://osu.ppy.sh/beatmapsets/46813#osu/153632)
-  - [zts - liberatedliberator (deetz) \[Dada's Insane\]](https://osu.ppy.sh/beatmapsets/907805#osu/1902670)
+  - [Goose house - Hikaru nara (ProfessionalBox) \[Mikii's Insane\]](https://osu.ppy.sh/beatmapsets/440169#osu/947708)
+  - [Korplikaani - Vodka (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/26886#osu/90466)
+  - [nanobii - rainbow road (Natsu) \[Insane\]](https://osu.ppy.sh/beatmapsets/375073#osu/823197)
 - FreeMod
-  - [Kola Kid - can't hide your love (ShirohaMyMommy) \[Extra\]](https://osu.ppy.sh/beatmapsets/1099325#osu/2296608)
-  - [ZUN - Solar Sect of Mystic Wisdom ~ Nuclear Fusion (pieguy1372) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/22697#osu/78166)
-  - [Takanashi Yasuharu - Tetsuryu -Kurogane- (\_Kiva) \[Hard\]](https://osu.ppy.sh/beatmapsets/116849#osu/301344)
+  - [Hatsune Miku - Atama no Taisou (val0108) \[AngelHoney\]](https://osu.ppy.sh/beatmapsets/40344#osu/136553)
+  - [Faylan - Mind as Judgment (miccoliasms) \[Impossible\]](https://osu.ppy.sh/beatmapsets/10192#osu/43666)
+  - [cosMo@BousouP - For UltraPlayers (rui) \[Chata's INFINITE\]](https://osu.ppy.sh/beatmapsets/137969#osu/344709)
 - Tiebreaker
   - **[Yooh - Divinity (greenhue) \[Ascendance\]](https://osu.ppy.sh/beatmapsets/1120245#osu/2340789)**
 
