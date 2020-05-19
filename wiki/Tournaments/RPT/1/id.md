@@ -534,6 +534,7 @@ Minggu, 19 April 2020:
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
+[flag_GB]: /wiki/shared/flag/GB.gif "Britania Raya"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turki"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
