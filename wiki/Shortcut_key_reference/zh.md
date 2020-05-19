@@ -1,10 +1,11 @@
 ---
 tags:
-  - 快捷键
   - hotkey
   - hotkeys
   - keyboard
   - shortcuts
+  - 快捷键
+  - 热键
 ---
 
 # 参考快捷键
