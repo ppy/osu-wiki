@@ -472,6 +472,25 @@ Sunday, 19 April 2020:
 | #61 | Out | ![][flag_SG] [YYRyan17](https://osu.ppy.sh/users/7942058) | 1.876 |
 | #62 | Out | ![][flag_SG] [Hayatokundesu](https://osu.ppy.sh/users/12543785) | 1.766 |
 | #63 | Out | ![][flag_SG] [\[-shirayuki-\]](https://osu.ppy.sh/users/7679930) | 1.721 |
+| #64 | Out | ![][flag_MY] [\[-Shinobi-\]](https://osu.ppy.sh/users/13448535) | 1.631 |
+| #65 | Out | ![][flag_MY] [kaneki016](https://osu.ppy.sh/users/11124733) | 1.604 |
+| #66 | Out | ![][flag_MY] [BannerPF](https://osu.ppy.sh/users/14290988) | 1.432 |
+| #67 | Out | ![][flag_MY] [\[MY\]xArief](https://osu.ppy.sh/users/12694468) | 1.382 |
+| #68 | Out | ![][flag_MY] [GKen](https://osu.ppy.sh/users/12633052) | 1.190 |
+| #69 | Out | ![][flag_ID] [GFigo](https://osu.ppy.sh/users/14539139) | 1.137 |
+| #70 | Out | ![][flag_ID] [Frost Mk1](https://osu.ppy.sh/users/12875539) | 1.049 |
+| #71 | Out | ![][flag_MY] [DiamondChinXp](https://osu.ppy.sh/users/9169624) | 0.976 |
+| #72 | Out | ![][flag_SG] [Sloth Nation](https://osu.ppy.sh/users/15531856) | 0.778 |
+| #73 | Out | ![][flag_MY] [\[Fubuki\]](https://osu.ppy.sh/users/14411486) | 0.68 |
+| #74 | Out | ![][flag_MY] [Dyspaire](https://osu.ppy.sh/users/3331364) | 0.589 |
+| #75 | Out | ![][flag_MY] [VenDService](https://osu.ppy.sh/users/15107940) | 0.582 |
+| #76 | Out | ![][flag_MY] [TsukinoseTillot](https://osu.ppy.sh/users/9128934) | 0.57 |
+| #77 | Out | ![][flag_MY] [- \[Shiro\] -](https://osu.ppy.sh/users/9128934) | 0.536 |
+| #78 | Out | ![][flag_MY] [soulrapier](https://osu.ppy.sh/users/13073774) | 0.432 |
+| #79 | Out | ![][flag_MY] [AlwaysUseHidden](https://osu.ppy.sh/users/15178482) | 0.379 |
+| #80 | Out | ![][flag_MY] [CrackGamePlay](https://osu.ppy.sh/users/9620143) | 0.358 |
+| #81 | Out | ![][flag_SG] [Samosamaster](https://osu.ppy.sh/users/12569919) | 0.31 |
+| #82 | Out | ![][flag_SG] [Rystart](https://osu.ppy.sh/users/11380563) | 0.222 |
 
 ## Ruleset
 
