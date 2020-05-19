@@ -95,9 +95,31 @@ The Hidden Only Tournament is run by various community members.
 
 ## Mappools
 
+### Round of 32
+
+**[Download the mappack here! (97 MB)](https://drive.google.com/file/d/1Cn9Xj-FTvEkVQfDhHmS_bOw8XQNWlP6k/view?usp=sharing)**
+
+- Hidden
+  - [MYTH & ROID - Paradisus-Paradoxum (Cellina) \[Collab Extra\]](https://osu.ppy.sh/beatmapsets/510183#osu/1104323)
+  - [Igorrr & Ruby My Dear - Alain (Pittigbaasje) \[Pittig\]](https://osu.ppy.sh/beatmapsets/604720#osu/1277690)
+  - [monet - Kagami no Sekai ni wa Watashi shika Inai -another version- (Mirash) \[Extra\]](https://osu.ppy.sh/beatmapsets/685725#osu/1476104)
+  - [Brookes Brothers feat. Georgie Allen - New Wave (Mir) \[Yusomi's Extra\]](https://osu.ppy.sh/beatmapsets/961042#osu/2043907)
+  - [Nekrogoblikon - The Skin Thief (LMT) \[Insane\]](https://osu.ppy.sh/beatmapsets/1061535#osu/2223742)
+  - [Starlight Kukugumi - You are a ghost, I am a ghost \~Gekijou no Ghost\~ (Gaia) \[Kalibe's Extra\]](https://osu.ppy.sh/beatmapsets/941509#osu/1971493)
+  - [SHIKI - Aqua Marine (soulfear) \[Another\]](https://osu.ppy.sh/beatmapsets/27049#osu/90961)
+  - [EYE\_XY feat. Yoneko - Knight of Firmament (Pho) \[Sanctum\]](https://osu.ppy.sh/beatmapsets/317749#osu/707802)
+- Hidden+DoubleTime
+  - [Imperial Circus Dead Decadence - Danzai No Honoo To Koibito-Tachi No Rondo (Gottagof4st) \[Hard\]](https://osu.ppy.sh/beatmapsets/961431#osu/2015326)
+  - [Amane - Melt in the sky (Gabi) \[Hard\]](https://osu.ppy.sh/beatmapsets/11420#osu/50761)
+  - [Hashimoto Miyuki - Symphonic Love (Cyborg) \[Love\]](https://osu.ppy.sh/beatmapsets/19992#osu/70217)
+- Tiebreaker
+  - **[Ciel - If you're my destiny, end this fated determination. (Kalibe) \[Cruel Fate\]](https://osu.ppy.sh/beatmapsets/798509#osu/1676793)**
+  - **[Demetori - Kanjou no Matenrou \~ World's End (GoldenWolf) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/133693#osu/335628)**
+  - **[Camellia - LET'S JUMP (Moecho) \[The Fading Delusion\]](https://osu.ppy.sh/beatmapsets/1003669#osu/2100648)**
+
 ### Qualifiers
 
-**[Download the mappack here! (71 MB)](https://drive.google.com/file/d/1XDHJ7cQPC2KXVrAkZolGY8iuQd_XVr7T/view?usp=sharing)**
+**[Download the mappack here! (46 MB)](https://drive.google.com/file/d/1TdJGhATTck9yDcXTsx3xYNaxUZ9CKi2j/view?usp=sharing)**
 
 - Hidden
   - [Marie - Unbreakable (Lasse) \[Resolve\]](https://osu.ppy.sh/beatmapsets/808148#osu/1700344)
