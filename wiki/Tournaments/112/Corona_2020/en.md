@@ -341,14 +341,14 @@ Monday, 27 April 2020:
 4. Beatmap scoring is based on Score V2.
 5. Total weighted pp amount of each player should be 13200 to register the tournament. Refer [here](https://www.desmos.com/calculator/idwmeev5ns) for how it is calculated.
 6. The beatmaps for each round will be announced by the map selectors in advance at least a week before the actual matches take place. Only these beatmaps will be used during the respective matches.
-  - One beatmap will be a tiebreaker beatmap. This beatmap will only be played in case of a tie. **The only exception to this is the Qualifiers pool.**
+   - One beatmap will be a tiebreaker beatmap. This beatmap will only be played in case of a tie. **The only exception to this is the Qualifiers pool.**
 7. Match schedule will be decided by tournament staff.
 8. In the event of a player disconnecting during the match due to connectivity or hardware difficulties;
-  - If the disconnection occurs within 30 seconds after beatmap begin, the beatmap is replayed. If it occurs after 30 seconds, the score on the match link is valid.  
-  - The player will be given 10 minutes to reconnect. If the player fails to reconnect in 10 minutes, or frequently disconnects during the match and reconnecting takes too long, the player will be excluded from the match.
+   - If the disconnection occurs within 30 seconds after beatmap begin, the beatmap is replayed. If it occurs after 30 seconds, the score on the match link is valid.  
+   - The player will be given 10 minutes to reconnect. If the player fails to reconnect in 10 minutes, or frequently disconnects during the match and reconnecting takes too long, the player will be excluded from the match.
 9. Beatmaps cannot be reused in the same match.
 10. All players are supposed to be ready on time for the match. For the teams unable to show up on time, match can be postponed for 10 minutes. **If it exceeds, the specific player(s) will lose by default.**        
-  - If both teams are unable to attend, players will be blacklisted and the match will be postponed to a further date. **Blacklisted player(s) will be eliminated if the same situation occurs twice.**
+    - If both teams are unable to attend, players will be blacklisted and the match will be postponed to a further date. **Blacklisted player(s) will be eliminated if the same situation occurs twice.**
 11. If one of the players of a team is unable to attend the match, on condition of the agreement of both teams, the match can be played in 1v2 format, yet 1v1 is unacceptable. If one of the teams does not agree, the match will be declared as Lose by Default for the team missing a player.
 12. All players and referees must be treated with respect. Instructions of the referees and tournament Management are to be followed. Decisions labeled as final are not to be objected.
 13. Disrupting the match by foul play, picking inappropriate warmup beatmaps, insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
@@ -358,7 +358,7 @@ Monday, 27 April 2020:
 ### Registration
 
 1. Every user interested in joining the tournament will sign up individually.
-  - **Any form of registration, other than using the method provided in related channels, will be disregarded.**
+   - **Any form of registration, other than using the method provided in related channels, will be disregarded.**
 2. Registrations will be handled in the [Discord server](https://discord.gg/g3nqqeZ) via a special tournament bot. Instructions are provided in related channels. Participants **must not** leave the server for the duration of the tournament.
 3. As no badge will be awarded, tournament staff can participate in the tournament. Screening procedure will also not be applied for this tournament.
 4. Participants will be published after the Registration period ends.
@@ -376,9 +376,9 @@ Monday, 27 April 2020:
 9. First 16 players with the highest overall score will get through to Double Elimination stages. If there will be more participants than the predicted number, player(s) placed the last will be eliminated. 
 10. During the Double Elimination stages, the winner moves to the next stage and the losing team gets moved to the Losers bracket.
 11. **Winning conditions:**
-  - The Round of 16 and Quarterfinals will be best of 9 (first team to 5 wins).        
-  - The Semifinals and Finals will be best of 11 (first team to 6 wins).        
-  - The Grand Finals will be best of 13 (first team to 7 wins).
+    - The Round of 16 and Quarterfinals will be best of 9 (first team to 5 wins).        
+    - The Semifinals and Finals will be best of 11 (first team to 6 wins).        
+    - The Grand Finals will be best of 13 (first team to 7 wins).
 
 ### Match Instructions
 
@@ -386,15 +386,15 @@ Monday, 27 April 2020:
   - Room settings are osu!, Team-Vs. , Win Condition: ‘ScoreV2’.
 2. Players can select up to two warm-up beatmaps that should not exceed 4 minutes. Players are free to not to pick a warm-up, but have to play if the opponent wants to.
 3. Each team must use `!roll` once in `#multiplayer`.
-  - The team with the higher roll **picks** first.       
-  - The team with the lower roll **bans** first.
-  - Each team will be given 2 minutes to decide upon picks or bans. If first team fails to provide an answer, other team takes the turn.
-  - **From Quarterfinals onwards the team that bans first will ban one map, then the other team will ban two maps, then finally the first team will make their final ban.**
+   - The team with the higher roll **picks** first.       
+   - The team with the lower roll **bans** first.
+   - Each team will be given 2 minutes to decide upon picks or bans. If first team fails to provide an answer, other team takes the turn.
+   - **From Quarterfinals onwards the team that bans first will ban one map, then the other team will ban two maps, then finally the first team will make their final ban.**
 4. During Round of 16, each player can only ban 1 beatmap.
-  - **From Quarterfinals onwards, the number of bans increases to 2. However, each player/team may not ban more than one map of any mod bracket (excluding NoMod).**
+   - **From Quarterfinals onwards, the number of bans increases to 2. However, each player/team may not ban more than one map of any mod bracket (excluding NoMod).**
 5. Beatmap selection will alternate between each player/team selecting a beatmap out of the mappool.
 6. Players map pick freely from any mod pool.
-  - In the case of a tie, the tiebreaker beatmap will be played.
+   - In the case of a tie, the tiebreaker beatmap will be played.
 7. The results will be published in the dedicated Discord channel in the server.
 
 ### Mappool Instructions
@@ -402,16 +402,16 @@ Monday, 27 April 2020:
 1. There will be a new mappool for every stage.
 2. Each mappool consists of 5 brackets: NoMod, [Hidden](wiki/Game_Modifiers), [HardRock](wiki/Game_Modifiers), [DoubleTime](wiki/Game_Modifiers) and FreeMod.
 3. Each mappool has a specific size depending on the stage.
-  - The Round of 16 mappools will have 4 NoMod maps, 3 DoubleTime maps and 2 maps for each of the remaining mod brackets.
-  - The Double Elimination stage mappools will have 5 NoMod maps, 3 maps for each of the remaining mod brackets.
+   - The Round of 16 mappools will have 4 NoMod maps, 3 DoubleTime maps and 2 maps for each of the remaining mod brackets.
+   - The Double Elimination stage mappools will have 5 NoMod maps, 3 maps for each of the remaining mod brackets.
 4. Each mappool has one tiebreaker.
 5. The NoFail mod may be selected on any map.
 6. The NoMod bracket will be played with no mods enabled at all (other than NoFail).
 7. The Hidden, HardRock and DoubleTime brackets will be played with the respective mod enabled by all players.
 8. The FreeMod bracket will have Free Mods enabled.
-  - Possible mod choices are Hidden, HardRock and Hidden+HardRock.
+   - Possible mod choices are Hidden, HardRock and Hidden+HardRock.
 9. The tiebreaker will be played under FreeMod conditions.
-  - When playing the tiebreaker, there are no mod requirements.
+   - When playing the tiebreaker, there are no mod requirements.
 
 ### Scheduling Instructions
 
