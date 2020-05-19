@@ -21,6 +21,21 @@ This page will tell you how to get osu! working on your Windows device. The [osu
    - If you already have an account, sign in.
    - If you need to register, see [Registration](/wiki/Registration).
 
+### Troubleshooting
+
+#### The game installer throws an error or does not work when I use it!
+
+**If game installer throws errors when attempting to install, you can try few things:**
+
+- Clean your PC - Scan with anti-virus software, clean the registry. A good program for general clean up is CCleaner. Scan both your computer files and your registry. The installer can fail if there are registry entries from a previous copy of osu! still present on your system.
+- Try reinstalling .NET Framework. [You can find it here](https://www.microsoft.com/en-us/download/details.aspx?id=48130).
+
+#### I have 64-bit Windows and cannot install osu! correctly!
+
+**Try to install the 64-bit version of the Microsoft .NET Framework.**
+
+This should come with the osu! installer, but in case it doesn't, [download it here](https://www.microsoft.com/en-us/download/details.aspx?id=48130).
+
 ## Adding beatmapsets
 
 *See also: [Beatmaps](/wiki/Beatmaps)*
