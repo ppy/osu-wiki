@@ -51,9 +51,9 @@ Kullanıcı ünvanları genellikle ait oldukları [kullanıcı gruplarına](/wik
 - ![][flag_KR] [NKEYBOARD](https://osu.ppy.sh/users/10132430)
 - ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029)
 
-### Genel mapping yarışması kazananları
+### Genel mapping yarışmalarının kazananları
 
-Çoğu resmi mapping yarışması **Elite Mapper** ünvanını birincilik ödülü olarak sunar. 
+Çoğu resmi mapping yarışması **Elite Mapper** ünvanını birincilik ödülü takdim eder. 
 
 - ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596)
 - ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883)
@@ -86,7 +86,7 @@ Kullanıcı ünvanları genellikle ait oldukları [kullanıcı gruplarına](/wik
 
 ### Seçkin Aday Göstericiler
 
-2020 itibariyle, [Beatmap Aday Göstericilerin](/wiki/People/The_Team/Beatmap_Nominators) ve [Aday Gösterme Denetleme Takımı](/wiki/People/The_Team/Nomination_Assessment_Team) üyelerinin derecelendirme sistemini desteklemeleri yönündeki aktiviteleri **Elit Nominator** ünvanıyla ödüllendirilmeye başlandı. Bu ünvan her yılın başında önceki yıl için yapılan katkılar sonucu verilir, ve kullanıcının takımdan ayrılması sonucu profillerinden kaldırılır.
+2020 itibariyle, [Beatmap Aday Göstericilerin](/wiki/People/The_Team/Beatmap_Nominators) ve [Aday Gösterme Denetleme Takımı](/wiki/People/The_Team/Nomination_Assessment_Team) üyelerinin derecelendirme sistemini destekleyici faaliyetleri **Elite Nominator** ünvanıyla ödüllendirilmeye başlandı. Bu ünvan her yılın başında önceki yıl için yapılan katkılar sonucu verilir, ve kullanıcının takımdan ayrılması sonucu profillerinden kaldırılır.
 
 - ![][flag_MY] [\_Kobii](https://osu.ppy.sh/users/6209713)
 - ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437)
@@ -110,13 +110,13 @@ Aspire mapping yarışmalarının kazananları Elite Mapper ünvanının özel b
 
 ### osu!remix yarışması kazananları
 
-osu!remix yarışması birincilik ödülü olarak **osu!mixer** ünvanını ödüllendirir.
+osu!remix yarışmaları birincilik ödülü olarak **osu!mixer** ünvanını ödüllendirir.
 
 - ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471)
 
 ### Featured Artist'ler
 
-osu! hesabına sahip [Featured Artist](/wiki/Featured_Artists)'lere bağlılıklarını göstermek adına **Featured Artist** ünvanı verilir. 
+osu! hesabına sahip [Featured Artist](/wiki/Featured_Artists)'lere ilişkilerini göstermek adına **Featured Artist** ünvanı verilir. 
 
 ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) ve ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) osu!'nun ses dizaynına ve resmi temalarına bulundukları önceki katkılarından dolayı **osu!musician** ünvanına sahiptirler, ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) ise Featured Artist olduğunda **osu!mixer** ünvanını bulundurmayı tercih etti.
 
@@ -137,17 +137,17 @@ osu! hesabına sahip [Featured Artist](/wiki/Featured_Artists)'lere bağlılıkl
 | ![][flag_RU] [tieff](https://osu.ppy.sh/users/89619) | [tieff](https://osu.ppy.sh/beatmaps/artists/34) |
 | ![][flag_CA] [VINXIS](https://osu.ppy.sh/users/4323406) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) |
 
-### Maskot tasarım yarışmaları kazananları
+### Maskot tasarım yarışması kazananları
 
 osu!team topluluk üyelerinin oyunun bazı maskotlarını sil baştan veya yeniden tasarlamaları için resim yarışmaları düzenlemişti. Bu yarışmaların kazananları, sonucunda tasarımları orijinal çizim olarak kullanılan kişiler ile birlikte, **osu!artist** ünvanı ile ödüllendirildiler.
 
-- ![][flag_US] [Crowie](https://osu.ppy.sh/users/6894067) designed **Mocha** and helped produce a lot of other osu! artwork.
-- ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) won the [Fan Art 6: osu!taiko mascot](https://osu.ppy.sh/community/contests/2) contest.
-- ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) redesigned **Yuzu**.
+- ![][flag_US] [Crowie](https://osu.ppy.sh/users/6894067) **Mocha**'yı tasarladı ve diğer pek çok osu! çizimlerinin üretimine yardım etti.
+- ![][flag_ID] [JMC](https://osu.ppy.sh/users/774010) [Fan Art 6: osu!taiko maskotu](https://osu.ppy.sh/community/contests/2) yarışmasını kazandı.
+- ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) **Yuzu**'yu yeniden tasarladı.
 
 ### Hall of Famer'lar
 
-Aşağıdaki üç kişi oyunu çok yüksek seviyelerde oynadıkları ve henüz topluluk çok gençken katkıda bulundukları için **osu! Hall of Famer** ünvanı ile ödüllendirildiler.
+Aşağıdaki üç kişi oyunu çok yüksek seviyelerde oynadıklarından ve henüz topluluk çok gençken bulundukları katkılardan dolayı **osu! Hall of Famer** ünvanı ile ödüllendirildiler.
 
 <!-- TODO: reasons -->
 
@@ -157,7 +157,7 @@ Aşağıdaki üç kişi oyunu çok yüksek seviyelerde oynadıkları ve henüz t
 
 ### Seçkin Storyboarder'lar
 
-İstisnai storyboard yapma yeteneği gösteren ve topluluğun genelini hayran bırakan storyboarder'lara **Elite Storyboarder** ünvanı verilir. 
+Fevkalade storyboard yapma yeteneği gösteren ve topluluğun genelini hayran bırakan storyboarder'lara **Elite Storyboarder** ünvanı verilir. 
 
 - ![][flag_US] [11t](https://osu.ppy.sh/users/2112092)
 - ![][flag_FR] [Damnae](https://osu.ppy.sh/users/989377)
