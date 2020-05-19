@@ -7,7 +7,7 @@ tags:
   - shortcuts
 ---
 
-# Shortcut key reference
+# 参考快捷键
 
 在 osu! 中有许多快捷键可以使用以下是各种模式下可以使用的快捷键：
 
