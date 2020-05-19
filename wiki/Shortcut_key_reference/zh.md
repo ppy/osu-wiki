@@ -59,7 +59,7 @@ tags:
 | `C` | 暂停 |
 | `F4` | 停止播放（并清空进度条） |
 | `V` 或 `F5` | 下一首歌 |
-| `J` 或 `F6`| 打开播放器清单 |
+| `J` 或 `F6` | 打开播放器清单 |
 | `R` | 随机播放 |
 
 ## 歌曲选择
@@ -109,7 +109,7 @@ tags:
 | 两次 `S` | Perfect |
 | `D` | Double Time |
 | 两次 `D` | Nightcore |
-| `F` | Hidden (osu!standard，osu!taiko 和 osu!catch) 或 Fade In (osu!mania)
+| `F` | Hidden (osu!standard，osu!taiko 和 osu!catch) 或 Fade In (osu!mania) |
 | 两次 `F` | Hidden (osu!mania) |
 | `G` | Flashlight |
 | `Z` | Relax (osu!standard，osu!taiko 和 osu!catch) 或轮流切换 xK (osu!mania) |
