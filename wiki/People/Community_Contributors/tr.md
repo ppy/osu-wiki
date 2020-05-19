@@ -2,7 +2,7 @@
 
 ![Contributor Badge](/wiki/shared/contributor.jpg "İştirakçı Rozeti")
 
-**Topluluk İştirakçıları** osu! topluluğuna kendilerinden fedakârlıklar yaparak hizmet sağlayan - çoğumuzun bugün kıymetini bilmediği aletler yapan - kimselerdir. Bu kullanıcılara tüm topluluk için kayda değer işler yaptıklarını belirten bir rozet verilir.
+**Topluluk İştirakçıları** *(Community Contributors)* osu! topluluğuna kendilerinden fedakârlıklar yaparak hizmet sağlayan - çoğumuzun bugün kıymetini bilmediği aletler yapan - kimselerdir. Bu kullanıcılara tüm topluluk için kayda değer işler yaptıklarını belirten bir rozet verilir.
 
 Emekliliğe ayrılmış eski osu!team üyelerinden oluşan [osu! Alumni](/wiki/People/osu!_Alumni) ile karıştırılmamalı, Topluluk İştirakçısı rozetleri osu! ve topluluk çevresini iyileştirmek adına kendilerinden beklenenden çok daha fazlasını ortaya koyan kamuya açık bağımsız çalışan kişilere verilir.
 
@@ -10,7 +10,7 @@ Emekliliğe ayrılmış eski osu!team üyelerinden oluşan [osu! Alumni](/wiki/P
 
 ### Ağustos
 
-*Forum gönderisi için, bakınız: [osu! topluluk iştirakçıları](https://osu.ppy.sh/community/forums/topics/147919)*
+*Forum gönderisi için, bakınız: [osu! community contributors](https://osu.ppy.sh/community/forums/topics/147919)*
 
 | Kullanıcı | Katkılar |
 | :-- | :-- |
@@ -90,10 +90,10 @@ Emekliliğe ayrılmış eski osu!team üyelerinden oluşan [osu! Alumni](/wiki/P
 | Kullanıcı | Katkılar |
 | :-- | :-- |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | Erken osu!taiko topluluğunun oluşturulmasında olağanüstü katkı, birkaç yıllık BAT/QAT üyeliği |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | osu!catch topluluğuna, derecelendirme kriterleri çalışmalarına, ve turnuvalara olağanüstü katkı |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | osu!catch topluluğuna, derecelendirme kriterleri yeniden düzenlemelerine, ve turnuvalara olağanüstü katkı |
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | Sayısız medya projesine ve turnuvalara olağanüstü katkı, uzun süreli GMT üyeliği |
-| ![][flag_US] [Garven](https://osu.ppy.sh/users/244216) | BAT/QAT'ye uzun yıllar boyu adanmış hizmet, ve derecelendirme kriterleri çalışmalarına çok büyük katkı |
-| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | BAT/QAT'ye uzun yıllar boyu adanmış hizmet, derecelendirme kriterleri çalışmalarında ve Beatmap Aday Gösterici test yönetiminde önemli mevcudiyet |
+| ![][flag_US] [Garven](https://osu.ppy.sh/users/244216) | BAT/QAT'ye uzun yıllar boyu adanmış hizmet, ve derecelendirme kriterleri yeniden düzenlemelerine çok büyük katkı |
+| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | BAT/QAT'ye uzun yıllar boyu adanmış hizmet, derecelendirme kriterleri yeniden düzenlemelerine ve Beatmap Aday Gösterici test yönetiminde önemli mevcudiyet |
 | ![][flag_CH] [Irreversible](https://osu.ppy.sh/users/1287964) | BAT/QAT'ye sayısız yıllar boyu adanmış katkı |
 | ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) | Yüzlerce saat boyu Dünya Kupası turnuvalarının istatistiğini çıkartma ve analiz etme |
 | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) | Düzinelerce topluluk turnuvalarında olağanüstü hakemlik varlığı |
@@ -107,7 +107,7 @@ Emekliliğe ayrılmış eski osu!team üyelerinden oluşan [osu! Alumni](/wiki/P
 | ![][flag_AU] [Syrin](https://osu.ppy.sh/users/5701575) | PerformancePlus ve osu!chan'ın yaratıcısı |
 | ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) | Score projesinin yapımında ve yayımlanmasında olağanüstü gayret |
 | ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454) | Score projesinin yapımında ve yayımlanmasında olağanüstü gayret |
-| ![][flag_US] [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | Sayısız gözden geçirme ve yeniden çalışma ile osu! wiki projesinin devam ettirilmesinde olağanüstü gayret |
+| ![][flag_US] [MegaApple_Pi](https://osu.ppy.sh/users/2148208) | Sayısız gözden geçirme ve yeniden düzenleme ile osu! wiki projesinin devam ettirilmesinde olağanüstü gayret |
 | ![][flag_PL] [TPGPL](https://osu.ppy.sh/users/3944705) | osu! wiki projesinin mihenktaşı ve yıllardan beri süregelen olağanüstü katkı |
 
 ## 2019
