@@ -21,7 +21,7 @@ The **112's Corona Tournament** (***112CT***) was a double-elimination 2v2 osu! 
 | Quarterfinals | 2020-07-25/2020-07-27 |
 | Semifinals | 2020-05-02/2020-05-04 |
 | Finals | 2020-05-08/2020-05-10 |
-| Grand Finals | *TBD* |
+| Grand Finals | 2020-05-23/- |
 
 ## Prizes
 
@@ -87,7 +87,7 @@ The 112's Corona Tournament was run by various community members.
 
 ## Mappools
 
-### Finals
+### Finals & Grand Finals
 
 **[Download the map pack here! (143 MB)](https://drive.google.com/uc?id=1sVaWgNQRU6nLrtt4tytYhd7xDZQJToxy&export=download)**
 
