@@ -572,16 +572,18 @@ Sunday, 19 April 2020:
    - The loser of the `!roll` gets to decide which team picks first.
    - This rule does not apply in the Qualifier lobbies.
 2. Each team has to ban **one beatmap** (on Group Stage) and **two beatmaps** (on the knock-out stages) from the mappool. These beatmaps are not allowed to be picked by any team during the entire match.
-   - Each team may ban multiple maps from the same modpool. Either team, however, may *not* ban out a mod pool completely -- for example, in a match with 3 possible HardRock picks in where two HardRock picks have been banned prior, the team that bans next may not ban the remaining HardRock pick as it'll shut down the HardRock mod pool completely for the corresponding match.
+   - Each team may ban multiple maps from the same mod pool. Either team, however, may *not* ban out a mod pool completely -- for example, in a match with 3 possible HardRock picks in where two HardRock picks have been banned prior, the team that bans next may not ban the remaining HardRock pick as it'll shut down the HardRock mod pool completely for the corresponding match.
    - Banning does not apply in the Qualifier lobbies.
 3. Each team is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
    - Warm-ups do not apply in the Qualifier lobbies.
 4. In a FreeMod pick, each player has to apply at least one mod to play the map with. Allowed mods are EZ, HR, HD, or any possible combinations of the three mods.
    - Playing a FreeMod pick without any mods applied is not allowed.
    - Players in the same team may not put out the same mod combination with each other in a FreeMod pick.
-   - Players who opt to play with EZ in a FreeMod pick will have their scores multiplied by an amount ranging from `x1.5` to `x3` based off certain weighting values that has been predetermined by the mappool selectors for each map. For more details on how much each map is valued, please refer to the [main spreadsheet](https://docs.google.com/spreadsheets/d/1wO13e1fNw1H0n7OYKyXpG6lyMCDCkbhj6fki4KEMf5I/edit#gid=950811958).
-5. The Seed C player from each team **has to play at least one map** in every match.
-6. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has concluded by the responsible referees.
+   - Players who opt to play with EZ in a FreeMod pick will have their scores multiplied by an amount ranging from `x1.5` to `x3` based off certain weighting values that have been predetermined by the mappool selectors for each map. For more details on how much each map is valued, please refer to the [main spreadsheet](https://docs.google.com/spreadsheets/d/1wO13e1fNw1H0n7OYKyXpG6lyMCDCkbhj6fki4KEMf5I/edit#gid=950811958).
+5. In case of a tiebreaker, each captain will ban 1 of the 3 available tiebreakers. This is done by sending an in-game PM with your ban to the match referee. The remaining map will be played.
+    - If both captains ban the same map, the referee will run the `!roll 2` command in the lobby to determine which of the 2 remaining tiebreakers will be played.
+6. The Seed C player from each team **has to play at least one map** in every match. If a match reaches a match point and either team's Seed C player has yet to play a map, the referee will not start the next map until the Seed C player from the said team  participates.
+7. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has concluded by the responsible referees.
 
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
