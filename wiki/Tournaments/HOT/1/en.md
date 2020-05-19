@@ -46,11 +46,11 @@ The Hidden Only Tournament is run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1035782)
-- [HOT Discord server](https://discord.gg/xjtz5t6)
-- [Livestream](https://www.twitch.tv/roiprotournament)
-- [Challonge brackets](https://challonge.com/roiprotournament)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1YRVgU95F8lBCP-sJqsexdtChzyF_iZJv_wNGd_QSIao/edit?usp=sharing)**
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1051108)
+- [HOT Discord server](https://discord.gg/7dP7NAe)
+- [Livestream](https://www.twitch.tv/hot_osu)
+- [Challonge brackets](https://challonge.com/hotosu)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1Z4_mJPc4byyXqKdWQ69HC4AO48mwSOydOjksfLJdcYc/edit?usp=sharing)**
 
 ## Participants
 
