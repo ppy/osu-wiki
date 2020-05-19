@@ -180,67 +180,51 @@ The Hidden Only Tournament is run by various community members.
 
 ### General rules
 
-1. Hidden Only Tournament is a **3v3** osu! tournament.
-2. The team size is **4 members** per team.
-3. The score system used will be **Score V2**.
-4. There are **no rank restrictions** to participate in the tournament.
-5. The tournament is however restricted to Bahasa Indonesia speaking player only and has Indonesian flag in their osu! profile (Indonesian players who live abroad could give further confirmation through osu! PM or Discord server to the organiser).
-6. The tournament will use Qualifiers to determine the seeding of each player.
-7. **Joining the HOT Discord server is mandatory.** If the player isn't a member of the server by the closing of the registration phase, they'll be ineligible to participate in the tournament.
-8. Amount of players that participate in the tournament will determine the format of the knockout stage:
-   - **\<32 players:** Cancelled.
-   - **32 - 64 players:** Top 32 will proceed to the Quarterfinals.
-   - **64 - 128 players:** Top 64 will proceed to the Round of 16.
-   - **\>128 players:** Top 128 will proceed to the Round of 32.
-9. During the Qualifiers, players will be sorted by their performance playing the Qualifiers mappool. The tiers used will be: Tier 1, Tier 2, Tier 3, Tier 4 with Tier 1 being the best performance and Tier 4 has worse performance.
-10. Team composition: One player **will be picked randomly from each tier** to form a **team of 4**.
-11. Player with Tier 1 seed will be the captain of the formed team.
-12. All matches will take place using the **WIB (Waktu Indonesia Barat)** timezone.
-13. **Map selector, map tester, referee, and administrator** cannot participate in the tournament. However, **commentator and streamer** are free to participate.
-14. Reschedule had to be requested **at least 24 hours before** the previous proposed schedule, anything ahead won't be granted.
+1. Hidden Only Tournament is a worldwide **2v2** osu! tournament.
+2. Rank restriction for the tournament within rank #1,000 - #10,000 with BWS is applied.
+   - Badge-weighted seeding (BWS) is used in this tournament to more accurately seed players and enforce rank restrictions. It works by taking into account the amount of recorded tournament wins (via badges) that a player has in addition to their rank.
+   - BWS formula for the tournament is `rank ^ 0.9937 ^ 2`.
+3. The team size is **4 members** per team.
+4. The score system used will be **Score V2**.
+5. The tournament will have a Qualifiers followed by a double-elimination bracket.
+6. All matches will be in UTC+0.
+7. Staff reserves the right to change any names that are deemed inappropriate.
+8. No staff members are allowed to play in the tournament except for **streamer, commentator, and designer**.
+9. Roster changes are permitted as long as they are done before the registration phase is over. Only the captain is permitted to edit their rosters.
+10. Any name changes must be reported to hosts immediately.
+11. All players are required to join the HOT Discord server and verify themselves as this is the primary way of communication with players.
+12. Inappropriate behavior, misconducts, or cheating will result in disqualification and blacklist in future iterations. Be nice and play fair.
 
-### Lobby rules
+### Stage details
 
-1. Referee will create a lobby within 5 minutes of the match start. **Team Captain** or any member of the team must be online in this time and receive the invite from the referee.
-2. Each team can pick or skip a warmup. The maximum duration of the map is **4:00**.
-3. **Captain** of the team will do a `!roll` command to determine the pick and ban order. The winner of the `!roll` will choose wether they will pick first or ban first.
-4. Each team has a **10 minutes** late compensation. If there are any team members that is offline after the time limit, they'll be declared as **forfeitting** the match. Exception may apply if referee and the opponent agree to extend the time limit duration.
-5. Each team has **2 minutes** to pick/ban a map.
-   - If the limit has passed, the opposite team will get the decision instead.
-6. After picking a map, they'll be given a **90 seconds** time to prepare and click the ready button.
-   - If the limit has passed, the opposite team will get the point instead.
-7. In case of any disconnection, the map will be restarted only the disconnection take place within **30 seconds** of the play.
-   - If the player happens to have the issue again, the match will resume instead.
+1. **Qualifiers** will consist of 4 Hidden and 2 Hidden+DoubleTime mappool. The top 32 teams by qualifiers seeding will make it to the knockout stage.
+2. **Round of 32 and Round of 16** will consist of 8 HD/3 HDDT/3 TB mappool and will be a Best-of-9 (First to 5 points).
+3. **Quarterfinals and Semifinals** will consist of 10 Hidden, 4 Hidden+Doubletime, 3 Tiebreaker mappool and will be a Best-of-11 (First to 6 points).
+4. **Finals and Grand Finals** will consist of 12 Hidden, 5 Hidden+DoubleTime, and 3 Tiebreaker mappool and will be a Best-of-13 (First to 7 points).
+5. There are no bans during the Qualifiers, but **one ban** is permitted starting from the Round of 32.
 
-### Qualifiers details
+### Qualifiers Rules
 
-1. Qualifiers lobby will be opened when it's time, as displayed in the [statistics sheet](#links). Each player can choose which lobby they'd choose to schedule their own time availability.
-2. Each lobby will have a max of **16 players**.
-3. Each lobby will be handled by **1 referee**.
-4. There will be no warmup during the Qualifiers.
-5. Lobby will use the Qualifiers mappool as sorted in the [statistics sheet](#links).
-6. Qualifiers will have a **Head-to-Head** mode active.
-7. Failed scores **will be counted**.
-8. In case of any disconnection, the map will be restarted only the disconnection take place within **30 seconds** of the play.
-   - If the player happens to have the issue again, the match will resume instead.
+1. The match lobby will be created by the referee. Team captains will receive invites; if the team captain is not available, then the referee will invite any player that is online. The invited player has the responsibility to invite their team into the lobby.
+2. Teams have **10 minutes** past the start time to join the lobby. If teams fail to join within the alloted time, the captain is responsible to reschedule their team to another lobby.
+3. The maps will be played in the order as they are listed on the sheet **twice**. The team's best attempt on each map will be taken.
+4. In the event of any disconnection, the player(s) who disconnect will be allowed to replay the map after the lobby by themselves.
+5. 2 players from each team must be present on each map, and teams are free to switch in or out players between maps. Teams may play with different players on the second attempt of the map.
+6. Should teams feel satisfied with their performance on the first runs of a map, they are permitted to selectively skip maps on the seconds attempt of the maps.
+7. After you finish playing all the maps in your lobby, your team's total score will be added up. You will then be given a percentage score on how well you did relative the rest of the teams in Qualifiers. Your points given will be per mod, and then be added to given your overall percentage score. The team with best score on a map will receive 100%, with all other teams getting percentages relative to the top score. The top 32 teams by average percentage will qualify. Teams will be seeded based on their performance in the Qualifiers.
+8. Teams are discouraged from sharing MP Links, so as to prevent seed manipulation.
 
-### Procedures
+### Knockout Stage Rules
 
-1. Team who **scored the most** will win the match, failed scores **will be counted**.
-2. There will be different mappool for each stage.
-3. All teams in the winner and losers brackets will use the same mappool.
-4. Each team will have one ban during the **Round of 16**.
-5. In the Quarterfinals and forward, each team will have **two bans** but the team cannot ban a map from the **same category twice**.
-6. NoFail mod is available to use freely.
-7. Each team cannot play the map within the same category twice back to back (exception for **NoMod**).
-8. The winning condition and its ban limit for each stage are listed below:
-   - Round Of 16: Best-Of-9 (First to 5 points) with 1 ban
-   - Quarterfinals and Semifinals: Best-Of-11 (First to 6 points) with 2 bans
-   - Finals, and Grand Finals: Best-Of-13 (First to 7 points) with 2 bans
-9. In case of a tie with one map remaining to play, the **Tiebreaker** will be played with FreeMod applied.
-10. During the FreeMod bracket, there are several options to choose:
-    - Available mods to pick are **Hidden** and **HardRock**. Mod combinations are also allowed.
-    - **A minimum of 2 players within each team is required to use mod**.
+1. The match lobby will be created by the referee. Team captains will receive invites; if the team captain is not available, then the referee will invite any player that is online. The invited player has the responsibility to invite their team into the lobby.
+2. Once all players have joined, captain will be asked to `!roll`. The winner of the `!roll` may elect to pick first of pick second. Warmups are allowed, up to a maximum of **4:30** total time (it can be longer if everyone in the lobby agrees with it). It doesn't really matter who picks the warmups first.
+3. Once warmups are over, the captain on both players' teams will `!roll` for pick and ban order. The higher `!roll` will **ban second and pick first**.
+4. Teams have 90 seconds to select a map; if they fail to choose in the alloted time, the map choice will pass to the other team. This will have no effect on the order of picks afterward. The same condition applies for bans.
+5. Once the map choice is locked in, playes will have 90 seconds to ready up. The referee will start the match when all players are ready. If the 90 seconds timer ends, the referee will force an `!mp start 15` command, and the match will start with whoever is in the lobby.
+6. NoFail mod will be enforced on all maps, to prevent teamfails from happening.
+7. In the case of a Tiebreaker, both player will `!roll`. The higher `!roll` will get the first ban, while the lower `!roll` bans the seconds Tiebreaker. The teams will play the last remaining Tiebreaker.
+8. All players must play the Tiebreaker with Hidden mod applied. Players are allowed, but not forced, to use additional mods on Tiebreaker. Players may use HardRock or Easy mod. No additional bonuses are given for EZ.
+9. In case of a disconnection, common sense will be applied; if proof exists of the disconnected player's score (or a rough estimate of their hypothetical score if they finished the map), it will be added to their team's total score; if it's at all ambiguous, the other team will get the point; if the disconnection occured in the first few seconds, the map will be replayed.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
