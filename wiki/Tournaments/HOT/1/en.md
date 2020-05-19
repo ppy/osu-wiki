@@ -31,20 +31,17 @@ The **Hidden Only Tournament** (***HOT***) is a worldwide double-elimination 2v2
 
 ## Organisation
 
-The Hidden Only Tournament was run by various community members.
+The Hidden Only Tournament is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839) |
-| Co-organiser | ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
-| Administrator | ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
-| Map selector | ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
-| Map tester | ![][flag_ID] [CyberX](https://osu.ppy.sh/users/2156370), ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
-| Referee | ![][flag_ID] [\_Ayz](https://osu.ppy.sh/users/3119560), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ![][flag_ID] [NasKun](https://osu.ppy.sh/users/4072313), ![][flag_ID] [Naverlyn](https://osu.ppy.sh/users/14324722), ![][flag_ID] [NoVaLian](https://osu.ppy.sh/users/6459827), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608), ![][flag_ID] [Remuru](https://osu.ppy.sh/users/3654220), ![][flag_ID] [Tix](https://osu.ppy.sh/users/11421465), ![][flag_AU] [Walfurus](https://osu.ppy.sh/users/13684009), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
-| Streamer | ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
-| Commentator | ![][flag_ID] [\_Ayz](https://osu.ppy.sh/users/3119560), ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [Midwinter](https://osu.ppy.sh/users/9762056), ![][flag_ID] [Nexa-](https://osu.ppy.sh/users/6155896), ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
-| Designer | ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [Nexa-](https://osu.ppy.sh/users/6155896), ![][flag_ID] [-Remilia-](https://osu.ppy.sh/users/2513995), ![][flag_ID] [Tix](https://osu.ppy.sh/users/11421465) |
-| Statistician | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201), ![][flag_CA] [Malikil](https://osu.ppy.sh/users/3208718), ![][flag_ID] [Tix](https://osu.ppy.sh/users/11421465), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839) |
+| Organiser | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_CN] [real MikeL](https://osu.ppy.sh/users/10732897), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214) |
+| Map selector | ![][flag_AU] [Gala](https://osu.ppy.sh/users/3385634), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_CN] [real MikeL](https://osu.ppy.sh/users/10732897), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214) |
+| Referee | ![][flag_BR] [DizzyH](https://osu.ppy.sh/users/9896172), ![][flag_AU] [Gala](https://osu.ppy.sh/users/3385634), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_VN] [Hoaq](https://osu.ppy.sh/users/7696512), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_US] [moss-](https://osu.ppy.sh/users/9918921), ![][flag_DE] [real cute](https://osu.ppy.sh/users/9172811), ![][flag_US] [Pristine Toast](https://osu.ppy.sh/users/12324616), ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507), ![][flag_US] [Suicune3](https://osu.ppy.sh/users/6895187), ![][flag_DE] [TheHunter1](https://osu.ppy.sh/users/6496016), ![][flag_US] [travis_ba](https://osu.ppy.sh/users/10822220), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
+| Streamer | ![][flag_CA] [Clarkyclarker](https://osu.ppy.sh/users/11664411) |
+| Commentator | ![][flag_US] [Suicune3](https://osu.ppy.sh/users/6895187), ![][flag_AR] [Vaf](https://osu.ppy.sh/users/12589048) |
+| Designer | ![][flag_NL] [Mirai Subject](https://osu.ppy.sh/users/5639709) |
+| Statistician | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470) |
 | Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
@@ -528,9 +525,17 @@ Sunday, 19 April 2020:
     - Available mods to pick are **Hidden** and **HardRock**. Mod combinations are also allowed.
     - **A minimum of 2 players within each team is required to use mod**.
 
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
