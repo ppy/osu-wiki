@@ -26,11 +26,8 @@ The **Hidden Only Tournament** (***HOT***) is a worldwide double-elimination 2v2
 
 | Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter tag for each team member |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag for each team member |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag for each team member |
-
-Generous donations from ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_ID] [Lampshade](https://osu.ppy.sh/users/4791294), ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), and ![][flag_US] [RandyV](https://osu.ppy.sh/users/5389220) helped fund some of the prizes.
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag for each team member |
 
 ## Organisation
 
