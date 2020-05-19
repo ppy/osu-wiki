@@ -132,212 +132,47 @@ The Hidden Only Tournament is run by various community members.
 
 ## Match results
 
-### Grand Finals
-
-Saturday, 16 May 2020:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| xHirayuki | 5 | **7** | **Baqua** | [#1](https://osu.ppy.sh/community/matches/61729867) |
-
-Sunday, 17 May 2020:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| ToedLover | 5 | **7** | **Baqua** | [#1](https://osu.ppy.sh/community/matches/61768057) |
-
-Monday, 18 May 2020:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| Baqua | 6 | **7** | **ToedLover** | [#1](https://osu.ppy.sh/community/matches/61812863) |
-
-### Finals
-
-Saturday, 9 May 2020:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **osu premium** | **7** | 2 | BINDAA | [#1](https://osu.ppy.sh/community/matches/61443394) |
-| **Baqua** | **7** | 5 | F3B Takjil Hunter | [#1](https://osu.ppy.sh/community/matches/61443888) |
-
-Sunday, 10 May 2020:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Baqua** | **7** | 1 | osu premium | [#1](https://osu.ppy.sh/community/matches/61481626) |
-| xHirayuki | 2 | **7** | **ToedLover** | [#1](https://osu.ppy.sh/community/matches/61484293) |
-
-### Semifinals
-
-Friday, 1 May 2020:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **!faq ping** | **6** | 1 | seatard | [#1](https://osu.ppy.sh/community/matches/61128943) |
-| **BINDAA** | **6** | 0 | LewdMegumin | [#1](https://osu.ppy.sh/community/matches/61128138) |
-
-Saturday, 2 May 2020:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| Moonafic | 2 | **6** | **F3B Takjil Hunter** | [#1](https://osu.ppy.sh/community/matches/61160722) |
-| !faq ping | 3 | **6** | **BINDAA** | [#1](https://osu.ppy.sh/community/matches/61170088) |
-| Sudahan Ngosu | 5 | **6** | **team's sumippe** | [#1](https://osu.ppy.sh/community/matches/61169595) |
-
-Sunday, 3 May 2020:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **ToedLover** | **6** | 0 | osu premium | [#1](https://osu.ppy.sh/community/matches/61201365) |
-| **xHirayuki** | **6** | 2 | Baqua | [#1](https://osu.ppy.sh/community/matches/61201637) |
-| **F3B Takjil Hunter** | **6** | 1 | team's sumippe | [#1](https://osu.ppy.sh/community/matches/61201777) |
-
-### Quarterfinals
-
-Friday, 24 April 2020:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **seatard** | **6** | 0 | Anti Vtuber | [#1](https://osu.ppy.sh/community/matches/60825388) |
-
-Saturday, 25 April 2020:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **xHirayuki** | **6** | 2 | BINDAA | [#1](https://osu.ppy.sh/community/matches/60863134) |
-| **F3B Takjil Hunter** | **0** | -1 | alan, kami basah | *win by default* |
-| **Baqua** | **6** | 2 | !faq ping | [#1](https://osu.ppy.sh/community/matches/60864579) |
-| **LewdMegumin** | **6** | 5 | Aerith > Tifa | [#1](https://osu.ppy.sh/community/matches/60875645) |
-
-Sunday, 26 April 2020:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **osu premium** | **6** | 5 | Moonafic | [#1](https://osu.ppy.sh/community/matches/60907427) |
-| Sudahan Ngosu | 2 | **6** | **ToedLover** | [#1](https://osu.ppy.sh/community/matches/60908530) |
-| Oni | 2 | **6** | **team's sumippe** | [#1](https://osu.ppy.sh/community/matches/60917048) |
-
-### Round of 16
-
-Friday, 17 April 2020:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| alan, kami basah | 3 | **5** | **BINDAA** | [#1](https://osu.ppy.sh/community/matches/60523917) |
-| F3B Takjil Hunter | 2 | **5** | **xHirayuki** | [#1](https://osu.ppy.sh/community/matches/60525938) |
-| Oni | 1 | **5** | **Baqua** | [#1](https://osu.ppy.sh/community/matches/60528453) |
-
-Saturday, 18 April 2020:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| Anti Vtuber | 0 | **5** | **ToedLover** | [#1](https://osu.ppy.sh/community/matches/60568009) |
-
-Sunday, 19 April 2020:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| Aerith > Tifa | 0 | **5** | **Moonafic** | [#1](https://osu.ppy.sh/community/matches/60573463), [#2](https://osu.ppy.sh/community/matches/60607339) |
-| **osu premium** | **5** | 1 | LewdMegumin | [#1](https://osu.ppy.sh/community/matches/60607539) |
-| team's sumippe | 3 | **5** | **!faq ping** | [#1](https://osu.ppy.sh/community/matches/60607438) |
-| **Sudahan Ngosu** | **5** | 3 | seatard | [#1](https://osu.ppy.sh/community/matches/60611729) |
-
 ### Qualifiers
 
 | Seed | Player | Average rank |
 | --: | :-- | --: |
-| #1 | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) | 5.3 |
-| #2 | ![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591) | 9.9 |
-| #3 | ![][flag_ID] [Crezz](https://osu.ppy.sh/users/7108275) | 10.6 |
-| #4 | ![][flag_ID] [- Rosemary -](https://osu.ppy.sh/users/2526649) | 11.6 |
-| #5 | ![][flag_ID] [MOMO543959](https://osu.ppy.sh/users/2373484) | 12.6 |
-| #6 | ![][flag_ID] [Celine](https://osu.ppy.sh/users/3545579) | 14.9 |
-| #7 | ![][flag_ID] [Agouka](https://osu.ppy.sh/users/9606647) | 15.4 |
-| #8 | ![][flag_ID] [pnsquad](https://osu.ppy.sh/users/11268297) | 16.5 |
-| #9 | ![][flag_ID] [Skitzor](https://osu.ppy.sh/users/3353314) | 17.1 |
-| #10 | ![][flag_ID] [-Akiyama Nico-](https://osu.ppy.sh/users/11313751) | 17.8 |
-| #11 | ![][flag_ID] [sumippe](https://osu.ppy.sh/users/1929336) | 18.5 |
-| #12 | ![][flag_ID] [Kampret](https://osu.ppy.sh/users/8413114) | 20.8 |
-| #13 | ![][flag_ID] [Satsuki - desu](https://osu.ppy.sh/users/6591291) | 21.8 |
-| #14 | ![][flag_ID] [-Nao Tomori-](https://osu.ppy.sh/users/8819757) | 21.9 |
-| #15 | ![][flag_ID] [Walfrid](https://osu.ppy.sh/users/6600809) | 22.4 |
-| #16 | ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548) | 23.6 |
-| #17 | ![][flag_ID] [Lifeline](https://osu.ppy.sh/users/11367222) | 24 |
-| #18 | ![][flag_ID] [Caruma](https://osu.ppy.sh/users/13187450) | 24.5 |
-| #19 | ![][flag_ID] [RealViolence](https://osu.ppy.sh/users/5638585) | 25.5 |
-| #19 | ![][flag_ID] [heik](https://osu.ppy.sh/users/9491555) | 25.5 |
-| #19 | ![][flag_ID] [SpitzerFam](https://osu.ppy.sh/users/12965045) | 25.5 |
-| #22 | ![][flag_ID] [Alan-](https://osu.ppy.sh/users/8937198) | 25.9 |
-| #23 | ![][flag_ID] [\[fry\]](https://osu.ppy.sh/users/4917604) | 26.6 |
-| #24 | ![][flag_ID] [Xicyte](https://osu.ppy.sh/users/10212581) | 27.3 |
-| #25 | ![][flag_ID] [FishStar](https://osu.ppy.sh/users/12563284) | 27.7 |
-| #26 | ![][flag_ID] [F4UZ4N](https://osu.ppy.sh/users/11070577) | 27.8 |
-| #27 | ![][flag_ID] [Felter](https://osu.ppy.sh/users/5865319) | 28.3 |
-| #28 | ![][flag_ID] [Firia](https://osu.ppy.sh/users/9730262) | 29.4 |
-| #29 | ![][flag_ID] [Fayn](https://osu.ppy.sh/users/5390495) | 29.6 |
-| #30 | ![][flag_ID] [Seox](https://osu.ppy.sh/users/3793938) | 32 |
-| #31 | ![][flag_ID] [Alice Pi](https://osu.ppy.sh/users/8787324) | 33.4 |
-| #32 | ![][flag_ID] [Splacten](https://osu.ppy.sh/users/10018405) | 33.6 |
-| #33 | ![][flag_ID] [Takaichi](https://osu.ppy.sh/users/909745) | 34.6 |
-| #34 | ![][flag_ID] [liykun](https://osu.ppy.sh/users/9500057) | 34.9 |
-| #35 | ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773) | 35.7 |
-| #35 | ![][flag_ID] [Zlotz](https://osu.ppy.sh/users/11191544) | 35.7 |
-| #37 | ![][flag_ID] [CubeixID200](https://osu.ppy.sh/users/10678919) | 36.5 |
-| #38 | ![][flag_ID] [ShovelKun](https://osu.ppy.sh/users/9948284) | 36.6 |
-| #39 | ![][flag_ID] [LethanAxeger](https://osu.ppy.sh/users/11083463) | 37.2 |
-| #40 | ![][flag_ID] [Contra](https://osu.ppy.sh/users/12011863) | 37.5 |
-| #41 | ![][flag_ID] [o\_ALICE\_o](https://osu.ppy.sh/users/14068737) | 38 |
-| #42 | ![][flag_ID] [fnayR](https://osu.ppy.sh/users/2800253) | 38.6 |
-| #43 | ![][flag_ID] [Mimonel](https://osu.ppy.sh/users/13639020) | 40 |
-| #44 | ![][flag_ID] [LeonBGaming](https://osu.ppy.sh/users/10589030) | 40.3 |
-| #45 | ![][flag_ID] [Aizu-](https://osu.ppy.sh/users/7074941) | 40.7 |
-| #46 | ![][flag_ID] [ArchieA7](https://osu.ppy.sh/users/7087699) | 42.7 |
-| #47 | ![][flag_ID] [Medseba](https://osu.ppy.sh/users/9000010) | 45 |
-| #48 | ![][flag_ID] [Bunan-](https://osu.ppy.sh/users/2763354) | 45.2 |
-| #48 | ![][flag_ID] [OTWGE](https://osu.ppy.sh/users/11759284) | 45.2 |
-| #50 | ![][flag_ID] [Veltlion](https://osu.ppy.sh/users/10999079) | 47.5 |
-| #51 | ![][flag_ID] [RouxLouka](https://osu.ppy.sh/users/5179205) | 47.6 |
-| #51 | ![][flag_ID] [OONZ](https://osu.ppy.sh/users/9276188) | 47.6 |
-| #53 | ![][flag_ID] [Midwinter](https://osu.ppy.sh/users/9762056) | 48.7 |
-| #54 | ![][flag_ID] [Eg2nD](https://osu.ppy.sh/users/5365662) | 50.8 |
-| #55 | ![][flag_ID] [Kiranaide](https://osu.ppy.sh/users/7661389) | 51 |
-| #56 | ![][flag_ID] [fadilfuadi](https://osu.ppy.sh/users/10683628) | 52.1 |
-| #57 | ![][flag_ID] [Rielia](https://osu.ppy.sh/users/7865082) | 53.3 |
-| #58 | ![][flag_ID] [Agurin](https://osu.ppy.sh/users/8282074) | 53.4 |
-| #59 | ![][flag_ID] [atsudan](https://osu.ppy.sh/users/3287169) | 54.4 |
-| #60 | ![][flag_ID] [Grandidierite](https://osu.ppy.sh/users/11976077) | 55.3 |
-| #61 | ![][flag_ID] [DiamondPicko17](https://osu.ppy.sh/users/10459494) | 56 |
-| #62 | ![][flag_ID] [Flycoco](https://osu.ppy.sh/users/12111121) | 57.1 |
-| #63 | ![][flag_ID] [_Fibel](https://osu.ppy.sh/users/10976513) | 57.6 |
-| #64 | ![][flag_ID] [audreych](https://osu.ppy.sh/users/9181855) | 57.7 |
-| #65 | ![][flag_ID] [Lau Doank](https://osu.ppy.sh/users/5249835) | 59.5 |
-| #66 | ![][flag_ID] [Cornatha](https://osu.ppy.sh/users/8706044) | 59.8 |
-| #67 | ![][flag_ID] [Naoko-kun](https://osu.ppy.sh/users/10734904) | 59.9 |
-| #68 | ![][flag_ID] [thefarrel007](https://osu.ppy.sh/users/2429128) | 61.7 |
-| #69 | ![][flag_ID] [Freya-](https://osu.ppy.sh/users/10659385) | 62.2 |
-| #70 | ![][flag_ID] [Cumi769](https://osu.ppy.sh/users/14655480) | 63 |
-| #71 | ![][flag_ID] [Oakenfold-](https://osu.ppy.sh/users/12305290) | 66 |
-| #72 | ![][flag_ID] [Berkill](https://osu.ppy.sh/users/11185410) | 67.5 |
-| #73 | ![][flag_ID] [GFigo](https://osu.ppy.sh/users/14539139) | 68.7 |
-| #74 | ![][flag_ID] [Andhra\_](https://osu.ppy.sh/users/6176811) | 70.2 |
-| #75 | ![][flag_ID] [MeikiHakiru](https://osu.ppy.sh/users/14591972) | 71.2 |
-| #76 | ![][flag_ID] [STRYTUS](https://osu.ppy.sh/users/11184657) | 72 |
-| #77 | ![][flag_ID] [Asterllia-](https://osu.ppy.sh/users/9456733) | 72.3 |
-| #78 | ![][flag_ID] [Shirasaka](https://osu.ppy.sh/users/13356408) | 74.2 |
-| #79 | ![][flag_ID] [notHardXD](https://osu.ppy.sh/users/12962096) | 76.4 |
-| #80 | ![][flag_ID] [DevilAsassin](https://osu.ppy.sh/users/12558409) | 77 |
-| #81 | ![][flag_ID] [-s1mpl3](https://osu.ppy.sh/users/10351729) | 79.9 |
-| #82 | ![][flag_ID] [-Rieyu-](https://osu.ppy.sh/users/12737610) | 81.1 |
-| #83 | ![][flag_ID] [AyamJAGO](https://osu.ppy.sh/users/14117880) | 82.5 |
-| #84 | ![][flag_ID] [Aurelloyell](https://osu.ppy.sh/users/14861737) | 83.1 |
+| #1 | comet | 6.7 |
+| #2 | Stafferino | 7.8 |
+| #3 | Phrygian Friends | 8.2 |
+| #4 | what | 9.7 |
+| #5 | HR Main | 9.8 |
+| #6 | sawada's team | 10.8 |
+| #7 | Eat 'Em Up | 11 |
+| #7 | 3山刪白狼 | 11 |
+| #9 | Pocket Galaxy | 11.2 |
+| #10 | Koppepan Gaming | 11.8 |
+| #11 | butterfly | 12.3 |
+| #12 | :rooGya: | 12.5 |
+| #13 | C-O-C-A-I-N-E | 13.5 |
+| #14 | Omero Kamalio | 15 |
+| #14 | nothing to hide | 15 |
+| #16 | Kärpät Oulu | 15.5 |
+| #16 | osuplayer111 | 15.5 |
+| #18 | ramon's nipples | 16.5 |
+| #19 | bojowa wiertarka | 17 |
+| #20 | Saxophone Bug | 18 |
+| #20 | newton is gey | 18 |
+| #22 | macachi pec | 19.2 |
+| #23 | cringe mod | 19.3 |
+| #24 | can't read HD | 20 |
+| #25 | colegas 1 | 20.8 |
+| #26 | akinari | 21.2 |
+| #27 | Carlos | 26.3 |
+| #28 | HD Heroes | 26.5 |
+| #29 | sut\_gasm | 27 |
+| #30 | sut\_son nose | 27.2 |
+| #31 | ar7 | 27.8 |
+| #32 | i hate osu | 28.5 |
+| #33 | RSRPlayers | 30.7 |
+| #34 | loading... | 33.7 |
+| #35 | ASSCRAXS | 35 |
+| #36 | 잉여여신 | 36 |
 
-- Results will be splited per 16 players:
-  - Players placed within #1 - #16 will be **Tier 1** player and captain of the team in the upcoming knockout stage.
-  - Players placed within #16 - #32 will be **Tier 2** player.
-  - Players placed within #33 - #48 will be **Tier 3** player.
-  - Players placed within #49 - #64 will be **Tier 4** player.
-  - Players placed within #65 or below are eliminated and out of the tournament.
 - More detailed qualifiers result can be accessed via the statistics sheet inside [links section](#links).
 - Average rank is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
 
