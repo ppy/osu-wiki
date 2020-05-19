@@ -134,7 +134,7 @@ tags:
 
 ## 回放模式中
 
-*注意：您只能在最新版（cuttingedge）中才可以使用这些快捷键。*
+*注意：您只能在测试版（cuttingedge）中才可以使用这些快捷键。*
 
 | 快捷键 | 功能 |
 | :-- | :-- |
@@ -176,116 +176,115 @@ tags:
 | `F3` | 切换到 [Timing](/wiki/Timing) 界面 |
 | `F4` | 打开 [歌曲设置](/wiki/Song_Setup) 对话框 |
 | `F5` | 进入测试模式 |
-| `F6` | 打开 Timing/控制点对话框 |
-| `Ctrl` + `P` | 在当前位置添加一个非继承的 Timing 线，If not in the timing mode, this will also open the timing and control points dialog. |
-| `Ctrl` + `Shift` + `P` | Add a inherited timing point at the current timestamp. This will also open the timing and control points dialog. |
-| `Ctrl` + `I` | Delete the current uninherited or inherited section. This will not work on first uninherited timing point. |
+| `F6` | 打开 Timing 点控制对话框 |
+| `Ctrl` + `P` | 在当前位置添加一条红线（Timing 点），如果当前不在 Timing 页面中，则会打开 Timing 点控制对话框 |
+| `Ctrl` + `Shift` + `P` | 在当前位置添加一条绿线（倍速点），并打开 Timing 点控制对话框 |
+| `Ctrl` + `I` | 删除当前位置的 Timing 点或倍速点，不适用于整首歌的第一个 Timing 点 |
 
-#### Mouse
+#### 鼠标
 
-| Shortcut | Action |
+| 快捷键 | 功能 |
 | :-- | :-- |
-| `Mouse Wheel Up/Down` | Seek forward/backward. |
-| `Shift` + `Mouse Wheel Up/Down` | Seek forward/backward at 4x. |
-| `Ctrl` + `Mouse Wheel Up/Down` | Adjust the snap divisor. |
-| `Alt` + `Mouse Wheel Up/Down` | Adjust the distance snapping multiplier when hovering over the playfield. Adjust the timeline zoom when hovering over the timeline. |
-| `Alt` + `Shift` + `Mouse Wheel Up/Down` | More precisely adjust the distance snapping multiplier when hovering over the playfield. |
+| `鼠标滚轮` | 滚动时间线 |
+| `Shift` + `鼠标滚轮` | 以四倍速滚动时间线 |
+| `Ctrl` + `鼠标滚轮` | 调整节拍细分拍数 |
+| `Alt` + `鼠标滚轮` | 鼠标悬停在游玩区域则调整间距控制倍数，悬停在物件时间轴上则调整缩放大小，悬停在右下角则调整音量大小 |
+| `Alt` + `Shift` + `鼠标滚轮` | 当鼠标悬停在游玩区域时，更加精确的调整间距控制倍数 |
 
-### Compose
+### 作图界面
 
-#### Mouse
+#### 鼠标
 
-| Shortcut | Action |
+| 快捷键 | 功能 |
 | :-- | :-- |
-| `Right Click` | Toggle new combo (when placing new hit objects) or delete object (when selecting). |
+| `右键` | 删除选中的物件，当在摆放物件时，右键来打开/关闭 New Combo |
 
-#### General
+#### 常规
 
-| Shortcut | Action |
+| 快捷键 | 功能 |
 | :-- | :-- |
-| `Alt` + `F4` or `Esc` | Return to song selection. |
-| `Ctrl` + `Z` | Undo. |
-| `Ctrl` + `Y` | Redo. |
-| `Ctrl` + `A` | Select all hit objects. |
-| `Ctrl` + `X` | Cut. |
-| `Ctrl` + `C` | Copy. |
-| `Ctrl` + `V` | Paste. |
-| `Ctrl` + `D` | Clone the selection. This will paste the selection 1 measure after last selected object. |
-| `Delete` | Delete. |
-| `1`, `2`, `3`, or `4` | Switch between placement/selection mode: select, circle, slider, and spinner respectively (osu!standard, osu!taiko, or osu!catch). |
-| `1`, `2`, or `3` | Switch between placement/selection mode: select, circle, and hold respectively (osu!mania). |
-| `Ctrl` + `Alt` + `Mouse Wheel Up/Down` | Switch between placement/selection modes. |
-| `Ctrl` + `Shift` + `A` | Open [AiMod](/wiki/Beatmap_Editor/AiMod). |
+| `Alt` + `F4` 或 `Esc` | 返回歌曲选择 |
+| `Ctrl` + `Z` | 撤销 |
+| `Ctrl` + `Y` | 重做 |
+| `Ctrl` + `A` | 选择全部物件 |
+| `Ctrl` + `X` | 剪切 |
+| `Ctrl` + `C` | 复制 |
+| `Ctrl` + `V` | 粘贴 |
+| `Ctrl` + `D` | 仿制，自动粘贴在所选物件的一小节之后 |
+| `Delete` | 删除 |
+| `1`，`2`，`3` 或 `4` | 在选择（select），打击圈（circle），滑条（slider）和转盘（spinner）之间来回切换，仅适用于 osu!standard，osu!taiko 和 osu!catch |
+| `1`，`2` 或 `3` | 在选择（select），物件（circle）和长按（hold）之间来回切换，仅适用于 osu!mania |
+| `Ctrl` + `Alt` + `鼠标滚轮` | 在选择/放置之间切换 |
+| `Ctrl` + `Shift` + `A` | 打开 [AiMod](/wiki/Beatmap_Editor/AiMod) |
 
-#### Playfield
+#### 游玩区域
 
-| Shortcut | Action |
+| 快捷键 | 功能 |
 | :-- | :-- |
-| `Alt` | Temporarily toggle [distance snap](/wiki/Beatmap_Editor/Distance_Snap) while held down. |
-| `Y` | Toggle distance snap. |
-| `Shift` | Temporarily toggle grid snap while held down. |
-| `T` | Toggle grid snap. |
-| `G` | Cycle through grid size. |
-| `Ctrl` + `1` | Set grid size to tiny. |
-| `Ctrl` + `2` | Set grid size to small. |
-| `Ctrl` + `3` | Set grid size to medium. |
-| `Ctrl` + `4` | Set grid size to large. |
-| `L` | Toggle locking of hit objects. |
+| `Alt` | 按住以暂时打开或关闭[间距锁定](/wiki/Beatmap_Editor/Distance_Snap) |
+| `Y` | 打开或关闭[间距锁定](/wiki/Beatmap_Editor/Distance_Snap) |
+| `Shift` | 按住以暂时打开或关闭网格校准 |
+| `T` | 打开或关闭网格校准 |
+| `G` | 切换网格校准模式 |
+| `Ctrl` + `1` | 设置网格校准模式为密集 |
+| `Ctrl` + `2` | 设置网格校准模式为小 |
+| `Ctrl` + `3` | 设置网格校准模式为中 |
+| `Ctrl` + `4` | 设置网格校准模式为大 |
+| `L` | 锁定物件 |
 
-#### Object manipulation
+#### 物件操控
 
-| Shortcut | Action |
+| 快捷键 | 功能 |
 | :-- | :-- |
-| `Q` | Toggle new combo. |
-| `Ctrl` + `,` | Rotate the selection by 90 degrees anticlockwise. |
-| `Ctrl` + `.` | Rotate the selection by 90 degrees clockwise. |
-| `Ctrl` + `H` | Flip the selection horizontally. |
-| `Ctrl` + `J` | Flip the selection vertically. |
-| `Ctrl` + `G` | Reverse the selection. That is, move the first selected object to the last selected object and so on. |
-| `Ctrl` + `Shift` + `R` | Rotate the selected hit objects by a specified angle (opens a dialog). |
-| `Ctrl` + `Shift` + `S` | Scale selected hit objects by a specified amount (opens a dialog). |
-| `Ctrl` + `Shift` + `D` | Generate polygons with a specificied number of points (opens a dialog). |
-| `Ctrl` + `Shift` + `F` | Convert the selected slider into a hit circle stream (opens a dialog). |
-| `Ctrl` + `Left/Right/Up/Down Arrow` | Nudge the selected notes in the pressed direction. (osu!standard, osu!taiko, osu!catch) |
-| `Ctrl` + `Left/Right Arrow` | Move selected objects left or right one column. (osu!mania) |
-| `Ctrl` + `Up/Down Arrow` | Move selected objects up or down one tick in time. (osu!mania) |
+| `Q` | 打开/关闭 New Combo |
+| `Ctrl` + `,` | 逆时针旋转90度 |
+| `Ctrl` + `.` | 顺时针旋转90度 |
+| `Ctrl` + `H` | 水平翻转 |
+| `Ctrl` + `J` | 垂直翻转 |
+| `Ctrl` + `G` | 反转，也就是将第一个物件与最后一个物件的位置交换，以此类推到所有已选物件上 |
+| `Ctrl` + `Shift` + `R` | 旋转指定角度（弹出对话框） |
+| `Ctrl` + `Shift` + `S` | 缩放 （弹出对话框） |
+| `Ctrl` + `Shift` + `D` | 添加指定数量的多边形打击圈（弹出对话框） |
+| `Ctrl` + `Shift` + `F` | 把滑条转为连打（弹出对话框） |
+| `Ctrl` + `方向键` | 微调所选物件，仅适用于 osu!standard，osu!taiko 和 osu!catch |
+| `Ctrl` + `方向键` | 移动所选物件，仅适用于 osu!mania |
 
-#### Hitsounding
+#### 打击音效
 
-| Shortcut | Action |
+| 快捷键 | 功能 |
 | :-- | :-- |
-| `W` | Toggle the whistle addition to selection. |
-| `E` | Toggle the Finish addition to selection. |
-| `R` | Toggle the Clap addition to selection. |
-| `Shift` + (`Q`, `W`, `E`, or `R`) | Change sampleset for the selection to auto, normal, soft, or drum respectively. |
-| `Ctrl` + (`Q`, `W`, `E`, or `R`) | Change addition set for the selection to auto, normal, soft, or drum respectively. |
-| `Ctrl` + `Shift` + `I` | Open the sample import dialog. |
+| `W` | 打开/关闭哨音音效 |
+| `E` | 打开/关闭重音音效 |
+| `R` | 打开/关闭拍掌音效 |
+| `Shift` + (`Q`，`W`，`E` 或 `R`) | 将音效集在 auto，normal，soft 或 drum 之间来回切换 |
+| `Ctrl` + (`Q`，`W`，`E` 或 `R`) | 将添加音效在 auto，normal，soft 或 drum 之间来回切换 |
+| `Ctrl` + `Shift` + `I` | 打开音效导入对话框 |
 
-#### Timeline
+#### 时间轴
 
-| Shortcut | Action |
+| 快捷键 | 功能 |
 | :-- | :-- |
-| `Shift` + (`1`, `2`, `3`, `4`, `6`, or `8`) | Set the [beat snap divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) to 1/1, 1/2, 1/3, 1/4, 1/6, and 1/8 respectively. |
-| `Shift` (while dragging in the timeline) | Ignore the beat snap divisor snapping. |
-| `J` | Nudge the selection backwards 1 divisor. |
-| `K` | Nudge the selection forwards 1 divisor. |
+| `Shift` + (`1`，`2`，`3`，`4`，`6` 或 `8`) | 将[节拍细分](/wiki/Beatmap_Editor/Beat_Snap_Divisor)在 1/1，1/2，1/3，1/4，1/6 或 1/8 之间来回切换 |
+| `Shift`（拖动时间轴时） | 忽略节拍细分 |
+| `J` | 将选择的物件向前移动一拍 |
+| `K` | 将选择的物件向后移动一拍 |
 
-### Design
+### 设计界面
 
-| Shortcut | Action |
+| 快捷键 | 功能 |
 | :-- | :-- |
-| `I` | Open the sprite library overlay. |
-| `Ctrl` + `Z` | Undo. |
-| `Ctrl` + `Y` | Redo. |
-| `Ctrl` + `X` | Cut the selected sprite. |
-| `Ctrl` + `C` | Copy the selected sprite. |
-| `Ctrl` + `V` | Paste the sprite at the current time. *Note: Pasted sprites will not be shown on the layer list until the beatmap is saved and reloaded.* |
-| `Delete` | Remove the selected sprite from the layer. |
-| `W`, `A`, `S`, `D` | Nudge the selected sprite up, left, down, or right respectively one [osu!pixel](/wiki/Glossary#osupixel). |
+| `I` | 打开素材库 |
+| `Ctrl` + `Z` | 撤销 |
+| `Ctrl` + `Y` | 重做 |
+| `Ctrl` + `X` | 剪切所选素材 |
+| `Ctrl` + `C` | 复制所选素材 |
+| `Ctrl` + `V` | 在当前位置粘贴所选素材 *小提示: 除非保存并重新加载谱面，否则粘贴的素材不会显示在图层列表中。* |
+| `Delete` | 从图层中删除选定的素材 |
+| `W`，`A`，`S`，`D` | 按 [osu!pixel](/wiki/Glossary#osupixel) 的标准微调所选素材 |
 
 ### Timing
 
-| Shortcut | Action |
+| 快捷键 | 功能 |
 | :-- | :-- |
-| `T` | Set BPM and offset when tapped to the beat of the song. |
-| `Shift` while adjusting the BPM and offset | Increment 4x the normal amount. |
+| `T` | 按节奏轻按来校准歌曲的 BPM 和偏移量 |
+| 在调整 BPM 和偏移量时 `Shift` | 按住以四倍速调整 BPM 和偏移量 |
