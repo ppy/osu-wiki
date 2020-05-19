@@ -526,32 +526,35 @@ Sunday, 19 April 2020:
 
 ### Knock-out stage rules
 
-1. The 32 participants who managed to get through from the Qualifiers will be matched to each other based on their Qualifiers seeding.
-2. Participants will compete against each other using the Double Elimination system.
+1. The 16 teams who managed to get through from the Group stage will be matched to each other based on their Group stage placement.
+   - Teams who were placed 1st or 2nd on their corresponding group will start the knock-out stage in the Upper Bracket.
+   - Teams who were placed 3rd or 4th on their corresponding group will start the knock-out stage in the Lower Bracket. 
+2. Team will compete against each other using the Double Elimination system.
 3. The Double Elimination System works as following:
-   - Participants who lose in the Upper Bracket can still play again on the Lower Bracket.
-   - Participants who lose in the Lower Bracket will be eliminated from the tournament.
+   - Teams who lose in the Upper Bracket can still play again on the Lower Bracket.
+   - Teams who lose in the Lower Bracket will be eliminated from the tournament.
    - In the Grand Finals, the winner of the the Upper Bracket only needs to win a single match against their opponent in order to claim the championship title. The winner of the Lower Bracket, however, needs to win two matches and enforce a Bracket Reset against their opponent in order to claim the championship title.
-4. Participants who can compete in the next round are determined by:
-   - In the Round of 32 and the Round of 16, each participant needs to win 5 points in order to win a match. (Best-of-9)
-   - In the Quarterfinals and the Semifinals, each participant needs to win 6 points in order to win a match. (Best-of-11)
-   - In both of the Finals Weeks, each participant needs to win 7 points in order to to win a match. (Best-of-13)
-   - Participants who Win By Default.
-   - If there are participants who experience disqualification during the match.
+4. Teams who can compete in the next round are determined by:
+   - In the Quarterfinals and the Semifinals, each team needs to win 6 points in order to win a match. (Best-of-11)
+   - In both of the Finals Weeks, each team needs to win 7 points in order to to win a match. (Best-of-13)
+   - Teams who Win By Default.
+   - If there are teams who experience disqualification during the match.
 
 ### Match regulations
 
-1. Each player must use `!roll` once in #multiplayer in order to determine the banning and picking order.
-   - The winner of the `!roll` gets to decide the second and third ban as well as the first pick of the match.
-   - The loser of the `!roll` gets to decide the first and fourth pick of the match.
+1. A representative from each team must use the `!roll` command once in #multiplayer in order to determine the banning and picking order.
+   - The winner of the `!roll` gets to decide which team bans first.
+   - The loser of the `!roll` gets to decide which team picks first.
    - This rule does not apply in the Qualifier lobbies.
-2. Each player has to ban **two beatmaps** to be selected from the pool. These beatmaps are not allowed to be picked by any player during the entire match.
-   - Each player may not ban two beatmaps from the same mod pool, except from the NoMod pool. For example, banning NM1 and NM2 is allowed; banning NM1 and HD1 is allowed; banning HD1 and HD2, however, is *not* allowed.
+2. Each team has to ban **one beatmap** (on Group Stage) and **two beatmaps** (on the knock-out stages) from the mappool. These beatmaps are not allowed to be picked by any team during the entire match.
+   - Each team may ban multiple maps from the same modpool. Either team, however, may *not* ban out a mod pool completely -- for example, in a match with 3 possible HardRock picks in where two HardRock picks have been banned prior the team that bans next may not ban the remaining HardRock pick as it'll shut down the HardRock mod pool completely for the corresponding match.
    - Banning does not apply in the Qualifier lobbies.
-3. Each player is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
+3. Each team is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
    - Warm-ups do not apply in the Qualifier lobbies.
 4. In a FreeMod pick, each player has to apply at least one mod to play the map with. Allowed mods are EZ, HR, HD, or any possible combinations of the three mods.
    - Playing a FreeMod pick without any mods applied is not allowed.
+   - Players in the same team may not put out the same mod combination with each other in a FreeMod pick.
+   - Players who opt to play with EZ in a FreeMod pick will have their scores multiplied by an amount ranging from `x1.5` to `x3` based off certain weighting values that has been predetermined by the mappool selectors for each map. For more details on how much each map is valued, please refer to the [main spreadsheet](https://docs.google.com/spreadsheets/d/1wO13e1fNw1H0n7OYKyXpG6lyMCDCkbhj6fki4KEMf5I/edit#gid=950811958).
 5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has concluded by the responsible referees.
 
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
