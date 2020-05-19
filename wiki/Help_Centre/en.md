@@ -72,7 +72,7 @@ A couple of hours at the absolute maximum will clear the status for most people 
 
 **There might be an issue with your account's current email address.**
 
-If you remember your account's attached email address, or think you do, try visiting the [email recovery](https://osu.ppy.sh/p/forgot-email) page to file a request to have it changed. Fill in the form as best you can and you'll receive a reply within two days.
+If you remember your account's attached email address, or think you do, try visiting the Email section in [account settings](https://osu.ppy.sh/home/account/edit) page to change your email address. Fill out the necessary fields and click "Update" when you're done.
 
 If you have lost your account's password and are not receiving any password recovery emails, or you really cannot remember what email address you were using, please contact us at [accounts@ppy.sh](mailto:accounts@ppy.sh). Any information you have about your account (your username, any screenshots that show you signed in to the client, past transactions through the store or supporter payments, etc.) will be helpful!
 
@@ -719,12 +719,6 @@ If you have trouble connecting via the game client, please check your firewall a
 
 While having an email isn't required, we do recommend that you associate one with your account, as if you ever lose your password or cannot access your account, your registration email is our first point of contact with you.
 
-#### Why can't I search for a beatmap artist who's name is less than 3 characters long?
-
-**Our local search engine can not handle this due to technical limitations, but you can still search using the Google Custom Search bar at the top left of most pages on the site.**
-
-Simply type the name of the artist you are searching for into the Google Custom Search bar and Google will do the rest.
-
 #### Why are the statistics in my user profile page wrong?
 
 **You might be looking at your stats for another game mode! The website defaults to showing your scores for the mode you last played.**
@@ -737,9 +731,11 @@ If you have been inactive for a lengthy period of time and your statistics are s
 
 ### Installation
 
+*For more information, see: [Installation](https://osu.ppy.sh/help/wiki/Installation)*
+
 #### How do I download osu!?
 
-**Simply click **`Download`** in the top bar of any page on the [official osu! website](https://osu.ppy.sh/home).**
+**Simply click **`Download`** found at the center of the [official osu! website homepage](https://osu.ppy.sh/home). You may also find the link through `home` dropdown section found at the navigation bar on any page.**
 
 Alternatively, [click here](https://osu.ppy.sh/home/download) for a direct link to the download page.
 
@@ -758,15 +754,13 @@ This should come with the osu! installer, but in case it doesn't, [download it h
 
 ### Registration
 
+*For more information, see: [Registration](https://osu.ppy.sh/help/wiki/Registration)*
+
 #### Where do I register for osu!?
 
-**Simply click **`I'm new!`** in the upper right corner of any page on the osu! website, or visit the page directly through [this link](https://osu.ppy.sh/p/register).**
+**Download osu! through [here](https://osu.ppy.sh/home/download), then run it. The game will prompt you a section where you can create an account.**
 
-We do not ask for your email when creating your osu! account, but we do highly suggest you associate your email with your account to ensure it stays safe from daily purges and to keep your account as secure as possible.
-
-If you create your account and do not authenticate it by signing in to the game once, the wayward account will be purged from our databases within a day.
-
-Ensure that you authenticate it soon after make it!
+Make sure you provide an email address you have control over. This is used to reset your password, and send verification mails when needed. Do not use a throw away email.
 
 #### I receive some sort of server-side error when trying to play online!
 
