@@ -498,31 +498,56 @@ Sunday, 19 April 2020:
 
 1. Map scoring is based on **Score V2.**
 2. The mapsets for each round will be announced by the Tournament Management in advance before the actual matches take place.
-3. Match schedules will be predetermined by the Tournament Management. Had there been any participants who were unable to attend the current schedule for any reason, the said participants may apply and settle for a reschedule at the #scheduling channel in the tournament's Discord server.
-4. A referee will create a multiplayer room 10 minutes in advance and will start to invite participants.
-5. If a player does not show up within **10 minutes** of the start time, their opponent wins by default.
+3. Match schedules will be predetermined by the Tournament Management. Had there been any teams who were unable to attend the current schedule for any reason, affected teams may apply and settle for a reschedule at the #reschedule channel in the tournament's Discord server.
+4. A referee will create a multiplayer room 10 minutes in advance and will start to send out invites.
+5. If a team does not show up within **10 minutes** of the start time, their opponent wins by default.
 6. If no staff or referee is available, the match will be postponed.
 7. **NoFail will be enforced in all maps.** This is to ensure that the points are to be awarded more fairly towards players who perform better in general during the course of the map regardless of their remaining health at the end.
 8. If a player disconnects, it will be treated as if they failed the map.
    - Disconnects that occur within a few seconds after map is started by the referee can be rematched.
 9. If a player disconnects between the beatmaps, the match can be delayed up to 15 minutes max.
-   - In case the disconnected player failed to report back after the maximum allowance 15 minutes has passed, the enemy may be declared to be winning the match by default.
+   - In case the disconnected player failed to report back or to be replaced with another player after the maximum allowance of 15 minutes has passed, the opposing team may be declared to be winning the match by default.
 10. Lag is not a valid reason to nullify a map.
 11. If there are any problems during the match occurence, the Tournament Management will make a decision based on referee's report.
 12. It is expected to respect and be polite to each other. Penalties will be given if participants violates.
-    - If participants try to provoke other participants, participants who start the provocation will be reported to the OIT staff and may be blacklisted in the future installments of OIT.
-    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment of OIT.
-    - If there is anyone try to play as the participants, their account will be blacklisted in the next installment of OIT for both participant and the helper.
+    - If participants try to provoke other participants, participants who start the provocation will be reported to the OSIM staff and may be blacklisted in the future installments of OIT.
+    - Usage of any illegal programs will be reported to the osu!staff and will be blacklisted in the next installment of OSIM.
+    - If there is anyone try to play as the participants, their account will be blacklisted in the next installment of OSIM for both participant and the helper.
+
+### Tournament registration
+
+1. All interested participants are required to register into the tournament individually.
+    - In order to be eligible to play in the tournament, a participant must have either the Singaporean, Indonesian, or Malaysian flag displayed on their profile.
+2. To ensure valid and serious registrations, every registered participant will be checked by the Tournament Management and screened by osu!'s Tournament Staff.
+3. The list of participants who have passed the screening and are able to compete in the tournament will be published after the Registration Phase has ended. 
+4. Referees and map selectors may not participate as players in this tournament.
 
 ### Qualifier rules
 
-1. Each participant will have to sign up to one of the eight Qualifier lobbies that has been scheduled and prepared by the Tournament Management in advance.
+1. Each participant will have to sign up to one of the Qualifier lobbies that has been scheduled and prepared by the Tournament Management in advance.
 2. In the lobby, participants will have to consecutively play all of the ten Qualifier maps in the order of NM1 -> NM2 -> NM3 -> NM4 -> HD1 -> HD2 -> HR1 -> HR2 -> DT1 -> DT2.
 3. Participants **are not allowed** to ban any maps in the Qualifiers.
 4. Participants **are not allowed** to join in (or register for) more than one Qualifier lobbies.
-5. 32 participants with the **highest average rank combined from each individual Qualifier beatmaps** will advance to the knock-out stages.
-   - If there are two (or more) participants who share the same average rank, the participant that holds the higher total score combined from all ten Qualifier beatmaps will be placed in the higher seed.
+5. 60 participants with the **highest amount of Qualifier points in total** will advance to the knock-out stages.
+   - The Qualifier points are calculated by the following formula: `Σ(your achieved score/best score on the map from all lobbies)`.
+   - Players who are placed #1 - #20 will be designated as Seed A players. These players have the power to pick out in turns one player from Seed B and one player from Seed C that they'll be teaming up with in the team drafting phase.
+   - Players who are placed #21 - #40 will be designated as Seed B players.
+   - Players who are placed #41 - #60 will be designated as Seed C players.
+   - Players who are placed outside the top 60 will be immediately eliminated from the tournament.
 6. Failure to attend in any of the predetermined Qualifier lobbies will result in an instant elimination from the tournament.
+
+### Group stage rules
+
+1. In the Group Stage, the 20 previously formed teams will be divided into 5 groups of 4 teams.
+2. All the teams from each group will face each other.
+3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
+    - Most matches won.
+    - Have higher `{(the number of beatmaps won) - (the number of beatmaps defeated)}`.
+    - Most beatmaps won.
+    - Winner of the match played previously between the tied teams.
+    - In the event of a triple tie:
+        - Have higher `∑{(total score difference) / (maximum score)}`.
+        - Winner of the rematch.
 
 ### Knock-out stage rules
 
@@ -547,7 +572,7 @@ Sunday, 19 April 2020:
    - The loser of the `!roll` gets to decide which team picks first.
    - This rule does not apply in the Qualifier lobbies.
 2. Each team has to ban **one beatmap** (on Group Stage) and **two beatmaps** (on the knock-out stages) from the mappool. These beatmaps are not allowed to be picked by any team during the entire match.
-   - Each team may ban multiple maps from the same modpool. Either team, however, may *not* ban out a mod pool completely -- for example, in a match with 3 possible HardRock picks in where two HardRock picks have been banned prior the team that bans next may not ban the remaining HardRock pick as it'll shut down the HardRock mod pool completely for the corresponding match.
+   - Each team may ban multiple maps from the same modpool. Either team, however, may *not* ban out a mod pool completely -- for example, in a match with 3 possible HardRock picks in where two HardRock picks have been banned prior, the team that bans next may not ban the remaining HardRock pick as it'll shut down the HardRock mod pool completely for the corresponding match.
    - Banning does not apply in the Qualifier lobbies.
 3. Each team is free to select one warm-up beatmap. Using beatmaps with questionable content is prohibited.
    - Warm-ups do not apply in the Qualifier lobbies.
@@ -555,7 +580,8 @@ Sunday, 19 April 2020:
    - Playing a FreeMod pick without any mods applied is not allowed.
    - Players in the same team may not put out the same mod combination with each other in a FreeMod pick.
    - Players who opt to play with EZ in a FreeMod pick will have their scores multiplied by an amount ranging from `x1.5` to `x3` based off certain weighting values that has been predetermined by the mappool selectors for each map. For more details on how much each map is valued, please refer to the [main spreadsheet](https://docs.google.com/spreadsheets/d/1wO13e1fNw1H0n7OYKyXpG6lyMCDCkbhj6fki4KEMf5I/edit#gid=950811958).
-5. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has concluded by the responsible referees.
+5. The Seed C player from each team **has to play at least one map** in every match.
+6. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has concluded by the responsible referees.
 
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
