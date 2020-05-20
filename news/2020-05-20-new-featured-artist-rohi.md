@@ -32,7 +32,7 @@ Check out [this classic set](https://osu.ppy.sh/beatmapsets/58737) hosted by [Na
 
 ### Kanata ni Mau wa Sakura no Shirabe
 
-Check out [this classic set](https://osu.ppy.sh/beatmapsets/93555) hosted by [NatsumeRin](https://osu.ppy.sh/users/151679), and [an osu!taiko set](https://osu.ppy.sh/beatmapsets/111635) by [mintong89](https://osu.ppy.sh/users/966210)!
+Check out [this osu! and osu!taiko set](https://osu.ppy.sh/beatmapsets/93555) hosted by [NatsumeRin](https://osu.ppy.sh/users/151679), and [an osu!taiko set](https://osu.ppy.sh/beatmapsets/111635) by [mintong89](https://osu.ppy.sh/users/966210)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/82/previews/2166.mp3" type="audio/mpeg">
