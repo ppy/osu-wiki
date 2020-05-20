@@ -65,20 +65,24 @@ Badges that do not meet these standards will be refused with appropriate reasoni
 
 ### Requesting a Profile Badge For Your Tournament
 
-If your tournament meets the criteria listed above, and you have a design ready to be submitted, **please email tournaments@ppy.sh** and include the following information:
+If your tournament meets the criteria listed above, **please email tournaments@ppy.sh** and include the following information:
 
 - The name of your tournament
 - A brief description of your tournament, including its scoring type and any other appropriate features
-- A list of the players involved in running the tournament
 - Any applicable dates for your tournament
 - Any links to public off-site chatrooms or servers used for the event (Discord, etc)
 - A link to the forum thread on the osu!forum that announces/details your tournament
 - Any links to previous iterations of the same tournament (only where applicable)
-- Two badge images following the design criteria listed above, **at both 1x (86x40) and 2x/retina (172x80) sizes**.
+- A list of the players involved in running the tournament
+- A list of players who have registered for the tournament, as previously mentioned in this article.
+
+You can send your initial request before the registrations of your tournament are closed. If you do this, you will have to send a follow-up email when the registrations are closed providing us with the list of players who have registered for the tournament to comply with the tournament screening requirements.
 
 Please allow at **least** a week for a response. We will try our best to handle all requests within a week, but we occasionally have large spikes in workload that can make this impossible.
 
 At the conclusion of your tournament you may submit a list of applicable recipients, along with all of the MP links of the winning team's matches. Your tournament will then be evaluated and based on professionality, quality and effort put into the tournament it may be granted a badge prize.
+
+LAN tournaments are required to add VODs and MP links of the winning team/player, along with a bracket of the entire tournament in order to be considered for a badge prize.
 
 **We reserve the right to withdraw this service should issues arise during the course of a tournament.**
 
