@@ -56,7 +56,7 @@ Check out [this classic set](https://osu.ppy.sh/beatmapsets/95148) hosted by [pi
 
 All of this plus a bunch more are available right now over at [**Rohi**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/82), so if any of this stuff interests you, check out his profile and take a stab at mapping some! Everything is pre-timed and ready to go, so what're you waiting for?
 
-Tweeter @stacker_joe quite literally stacked the deck this week and was the ONLY person to correctly suss out **Rohi** as this week's artist! Not only that, but they correctly deciphered the hint as well, translating 'kakuzetsu' into isolation, and 'thanatos' into death, and bringing it all back together. Nice!
+Tweeters @drewdeowo, @FKnea, @ImMyyrh and @stacker_joe all nabbed this week's hint in classic big-brain style. This week's one was a combination of translating 'kakuzetsu' into isolation, and 'thanatos' into death, and bringing it all back together. Nice! All Beatmap Nominators reading this post are contractually obligated to nod approvingly.
 
 In a departure from the normal, we'll be hosting a second Featured Artist updates release sometime this week featuring a huge assortment of tracks from some of the ultra talent in our catalogue. We're committed to keeping up with the pace of our artists where we can, and bringing you as much sick new music as humanly possible, if that wasn't already obvious!
 
