@@ -74,7 +74,7 @@ If your tournament meets the criteria listed above, **please email tournaments@p
 - A link to the forum thread on the osu!forum that announces/details your tournament
 - Any links to previous iterations of the same tournament (only where applicable)
 - A list of the players involved in running the tournament
-- A list of players who have registered for the tournament, as previously mentioned in this article.
+- A list of players who have registered for the tournament
 
 You can send your initial request before the registrations of your tournament are closed. If you do this, you will have to send a follow-up email when the registrations are closed providing us with the list of players who have registered for the tournament to comply with the tournament screening requirements.
 
