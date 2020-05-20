@@ -90,10 +90,10 @@ There are several reasons why an appeal might be denied.
 
 In the event that you feel your emails are not being read or addressed properly by our support team, please send us a full email at [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh) containing the following information:
 
-* How long you have been restricted for
-* The main reason why you think you've been restricted
-* Any previous appeals you've sent in that have been ignored/refused
-* A short summary of why you're unhappy with your appeal outcome (if applicable)
+- How long you have been restricted for
+- The main reason why you think you've been restricted
+- Any previous appeals you've sent in that have been ignored/refused
+- A short summary of why you're unhappy with your appeal outcome (if applicable)
 
 All emails sent to the appeal review address will be investigated by a third party that isn't involved in the day-to-day operations of the support team and flagged for revision or further review.
 
@@ -112,4 +112,4 @@ Please understand that sending an email to this address only guarantees a second
 | Cheating | 3 months | Appeal terms apply, 1 year tournament ban, and full rollback |
 | Excessive misconduct | Variable | Appeal terms apply. Cooldown will depend on history. |
 | Cheating/sharing for a tournament | 6 months | Appeal terms apply, appropriate rollback, permanent tournament ban |
-| Subsequent offences | 6 months | Appeal terms apply, appropriate rollback, tournament ban 1 year per offence|
+| Subsequent offences | 6 months | Appeal terms apply, appropriate rollback, tournament ban 1 year per offence |
