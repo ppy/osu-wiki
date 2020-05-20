@@ -30,7 +30,7 @@ The **ROI PRO Tournament** (***RPT***) was an Indonesian double-elimination 3v3 
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag for each team member |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag for each team member |
 
-Generous donations from ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_ID] [Lampshade](https://osu.ppy.sh/users/4791294), ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), and ![][flag_US] [RandyV](https://osu.ppy.sh/users/5389220) helped fund some of the prizes.
+Generous donations from ![][flag_ID] [Akebono](https://osu.ppy.sh/users/1815316), ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_ID] [Lampshade](https://osu.ppy.sh/users/4791294), ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_US] [RandyV](https://osu.ppy.sh/users/5389220), and ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174) helped fund some of the prizes.
 
 ## Organisation
 
@@ -45,7 +45,7 @@ The ROI PRO Tournament was run by various community members.
 | Map tester | ![][flag_ID] [CyberX](https://osu.ppy.sh/users/2156370), ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_ID] [Rayhan Hamil](https://osu.ppy.sh/users/4085825), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
 | Referee | ![][flag_ID] [\_Ayz](https://osu.ppy.sh/users/3119560), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ![][flag_ID] [NasKun](https://osu.ppy.sh/users/4072313), ![][flag_ID] [Naverlyn](https://osu.ppy.sh/users/14324722), ![][flag_ID] [NoVaLian](https://osu.ppy.sh/users/6459827), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608), ![][flag_ID] [Remuru](https://osu.ppy.sh/users/3654220), ![][flag_ID] [Tix](https://osu.ppy.sh/users/11421465), ![][flag_AU] [Walfurus](https://osu.ppy.sh/users/13684009), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
 | Streamer | ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
-| Commentator | ![][flag_ID] [\_Ayz](https://osu.ppy.sh/users/3119560), ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [Midwinter](https://osu.ppy.sh/users/9762056), ![][flag_ID] [Nexa-](https://osu.ppy.sh/users/6155896), ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
+| Commentator | ![][flag_ID] [\_Ayz](https://osu.ppy.sh/users/3119560), ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [Midwinter](https://osu.ppy.sh/users/9762056), ![][flag_ID] [Nexa-](https://osu.ppy.sh/users/6155896), ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_GB] [Young Alpha](https://osu.ppy.sh/users/15383957) |
 | Designer | ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_ID] [Nexa-](https://osu.ppy.sh/users/6155896), ![][flag_ID] [-Remilia-](https://osu.ppy.sh/users/2513995), ![][flag_ID] [Tix](https://osu.ppy.sh/users/11421465) |
 | Statistician | ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_ID] [Kazuyo](https://osu.ppy.sh/users/5604201), ![][flag_CA] [Malikil](https://osu.ppy.sh/users/3208718), ![][flag_ID] [Tix](https://osu.ppy.sh/users/11421465), ![][flag_ID] [wiam103](https://osu.ppy.sh/users/4109839) |
 | Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
@@ -533,6 +533,7 @@ Sunday, 19 April 2020:
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
