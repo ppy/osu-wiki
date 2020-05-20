@@ -30,7 +30,7 @@ tags:
 | ![Mahkota perak](/wiki/shared/crown-silver.png "Posisi kedua") | 2 bulan osu!supporter tag untuk setiap anggota tim |
 | ![Mahkota perunggu](/wiki/shared/crown-bronze.png "Posisi ketiga") | 1 bulan osu!supporter tag untuk setiap anggota tim |
 
-Sumbangan dermawan dari ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_ID] [Lampshade](https://osu.ppy.sh/users/4791294), ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), dan ![][flag_US] [RandyV](https://osu.ppy.sh/users/5389220) yang telah membantu mendanai sejumlah hadiah.
+Sumbangan dermawan dari ![][flag_ID] [Akebono](https://osu.ppy.sh/users/1815316), ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_ID] [Lampshade](https://osu.ppy.sh/users/4791294), ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_US] [RandyV](https://osu.ppy.sh/users/5389220), dan ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174) yang telah membantu mendanai sejumlah hadiah.
 
 ## Struktur organisasi
 
