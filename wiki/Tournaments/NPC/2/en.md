@@ -34,6 +34,8 @@ The **Non-Professional Cup 2** (***NPC2***) is an international team-based doubl
 
 ![](images/smallbadge.png "Pending Profile Badge")
 
+Generous donations from ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034610) helped to fund all the prizes.
+
 ## Organisation
 
 | Position | Member(s) |
@@ -61,7 +63,7 @@ The **Non-Professional Cup 2** (***NPC2***) is an international team-based doubl
 | **Australia's OWC Team on Smurf Accounts** | ![][flag_NZ] **[Zed eS](https://osu.ppy.sh/users/13713183)**, ![][flag_AU] [shepraf](https://osu.ppy.sh/users/14749149), ![][flag_CA] [-careless-](https://osu.ppy.sh/users/15529550), ![][flag_US] [CreepySomthing](https://osu.ppy.sh/users/5843413) |
 | **Bats From Wuhan** | ![][flag_PL] **[MrChytry](https://osu.ppy.sh/users/9873693)**, ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_US] [iiTzTony](https://osu.ppy.sh/users/4426672), ![][flag_ID] [lukasliwandouw](https://osu.ppy.sh/users/3794420) |
 | **CatMooners** | ![][flag_BR] **[MoonTears](https://osu.ppy.sh/users/11911570)**, ![][flag_BR] [Axiey](https://osu.ppy.sh/users/11711340) |
-| **Chuchichäschtli** | ![][flag_CH] **[\[Arikawa\]](https://osu.ppy.sh/users/6454830)**, ![][flag_CH] [Kvn\_hot\_potato](https://osu.ppy.sh/users/6228912), ![][flag_CH] [\[ Kuromei \]](https://osu.ppy.sh/users/6675144), ![][flag_DE] [Sarsese](https://osu.ppy.sh/users/14406757) |
+| **Chuchichäschtli** | ![][flag_CH] **[\[Arikawa\]](https://osu.ppy.sh/users/6454830)**, ![][flag_CH] [Kvn\_hot\_potato](https://osu.ppy.sh/users/6228912), ![][flag_CH] [\[ Kuromei \]](https://osu.ppy.sh/users/6675144) |
 | **Click the Circles to the beat** | ![][flag_US] **[Lapisz](https://osu.ppy.sh/users/8295497)**, ![][flag_FR] [Jhayyy](https://osu.ppy.sh/users/15374745), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711/osu), ![][flag_GB] [bluezenither](https://osu.ppy.sh/users/11861720) |
 | **Degeneracy Gang** | ![][flag_AU] **[TiddlyT](https://osu.ppy.sh/users/7989458)**, ![][flag_AU] [xZephyrr](https://osu.ppy.sh/users/13572080) |
 | **Desu** | ![][flag_UA] **[Kocha](https://osu.ppy.sh/users/15518219)**, ![][flag_IT] [Edolino](https://osu.ppy.sh/users/11255361), ![][flag_LV] [Necroplex](https://osu.ppy.sh/users/13743386) |
@@ -89,7 +91,7 @@ The **Non-Professional Cup 2** (***NPC2***) is an international team-based doubl
 | **Puffochino** | ![][flag_CA] **[garmgarma](https://osu.ppy.sh/users/13863006)**, ![][flag_US] [Dinal108](https://osu.ppy.sh/users/11449607) |
 | **Ranger Can't Derank Successfully** | ![][flag_TW] **[John6023](https://osu.ppy.sh/users/2465704/osu)**, ![][flag_TW] [RainTW](https://osu.ppy.sh/users/11622805), ![][flag_TW] [Satomi\_0826](https://osu.ppy.sh/users/4248366), ![][flag_TW] [Ching\_Chang](https://osu.ppy.sh/users/11804616) |
 | **Rice Farmers** | ![][flag_VN] **[lienzzhitzz](https://osu.ppy.sh/users/14638487)**, ![][flag_VN] [ketthesylveon](https://osu.ppy.sh/users/14065788) |
-| **SLAVA ZEMLYANAM** | ![][flag_RU] **[Maruyama-](https://osu.ppy.sh/users/11853175)**, ![][flag_RU] [Skeyn](https://osu.ppy.sh/users/7899956), ![][flag_RU] [f55dota2](https://osu.ppy.sh/users/14126397), ![][flag_RU] [Bombooo2](https://osu.ppy.sh/users/9731395) |
+| **SLAVA ZEMLYANAM** | ![][flag_RU] **[Maruyama-](https://osu.ppy.sh/users/11853175)**, ![][flag_RU] [Skeyn](https://osu.ppy.sh/users/7899956), ![][flag_RU] [f55dota2](https://osu.ppy.sh/users/14126397), ![][flag_RU] [Sashahole](https://osu.ppy.sh/users/10322164) |
 | **Stunter in the Toilet** | ![][flag_DE] **[ShizuruxKotarou](https://osu.ppy.sh/users/4612857)**, ![][flag_DE] [Stunter443](https://osu.ppy.sh/users/12855636), ![][flag_DE] [Towny](https://osu.ppy.sh/users/15673024), ![][flag_DE] [PzKpwf](https://osu.ppy.sh/users/12558046) |
 | **Tablet Slayers** | ![][flag_IT] **[Dagoliir](https://osu.ppy.sh/users/7209911)**, ![][flag_ES] [CebollaVladimir](https://osu.ppy.sh/users/15308238), ![][flag_ES] [Viewer](https://osu.ppy.sh/users/16208221), ![][flag_DE] [Sarsese](https://osu.ppy.sh/users/14406757) |
 | **Tapa na Cara** | ![][flag_BR] **[Mr Capuccino](https://osu.ppy.sh/users/16224264)**, ![][flag_BR] [Megadestr](https://osu.ppy.sh/users/15795443) |
@@ -121,7 +123,7 @@ The **Non-Professional Cup 2** (***NPC2***) is an international team-based doubl
 11. If a beatmap ends in a draw, the map will be nullified and replayed.
 12. If a player disconnects, their score will not be counted.
     - If the player disconnects within the first 30 seconds of the map, the match may be aborted and replayed under the referee's discretion.
-    - The disconnected player have 5 minute to rejoin the match. If the player failed to reconnect within time limit, the point will be give to the opponent team.
+    - The disconnected player have 5 minutes to rejoin the match. If the player failed to reconnect within time limit, the point will be given to the opponent team.
 13. If a player disconnects between maps and the team can not provide a replacement, the match can be delayed 10 minutes at maximum. If the team cannot provide a replacement after 10 minutes, their opponents win by default.
 14. Lag is not a valid reason to nullify a map.
 15. Unlimited numbers of substitution are allowed during a match.
@@ -136,13 +138,12 @@ The **Non-Professional Cup 2** (***NPC2***) is an international team-based doubl
 ### Stage instructions
 
 1. In the qualifiers, all teams will play the same mappool.
-2. The qualifiers contains 7 maps in total, 4 NoMod, 2 Hidden, 2 HardRock, 2 DoubleTime.
+2. The qualifiers contains 9 maps in total, 3 NoMod, 2 Hidden, 2 HardRock, 2 DoubleTime.
 3. Each team will only play through the qualifiers once in a designated lobby.
-4. Each team must have 2 members to play each map. Players can exchange freely between each map.
-5. All teams will play their qualifiers in separated rooms. 
-6. The top 32 seeded teams will advance to the Round of 32.
-7. Following the Qualifiers, Double Elimination stages will be played. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
-8. **Winning conditions:**
+4. Each team must have 2 members to play each map. Players can exchange freely between each map. 
+5. The top 32 seeded teams will advance to the Round of 32.
+6. Following the Qualifiers, Double Elimination stages will be played. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
+7. **Winning conditions:**
    - The Round of 32 and Round of 16 will be best of 9 (first team to 5 wins).
    - The Quarterfinals and Semifinals will be best of 11 (first team to 6 wins).
    - The Finals and Grand Finals will be best of 13 (first team to 7 wins).
@@ -181,7 +182,7 @@ The **Non-Professional Cup 2** (***NPC2***) is an international team-based doubl
 1. Each stage will be held on a single weekend.
 2. All Double Elimination Stages will be held on Friday, Saturday, or Sunday, UTC+0.
 3. Scheduling will be handled by the administrators. Schedules will be released approximately one week before the first matches of the stage. The schedule will try to respect the participants' time zones.
-4. **All matches must be rescheduled 1 day before the first matches of the stage are played. Both teams must agree to a reschedule and informed an administrator for the reschedule to be valid.**
+4. **All reschedules must be requested at least 1 day before the first matches of the stage are played. Both teams must agree to a reschedule and informed an administrator for the reschedule to be valid.**
    - Administrators has the right to decline reschedule requests.
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
