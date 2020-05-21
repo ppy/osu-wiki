@@ -21,9 +21,9 @@ This page will tell you how to get osu! working on your Windows device. The [osu
    - If you already have an account, sign in.
    - If you need to register, see [Registration](/wiki/Registration).
 
-### Troubleshooting
+## Troubleshooting
 
-#### The game installer throws an error or does not work when I use it!
+### The game installer throws an error or does not work when I use it!
 
 **If game installer throws errors when attempting to install, you can try few things:**
 
