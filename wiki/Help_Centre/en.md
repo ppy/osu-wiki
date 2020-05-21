@@ -744,13 +744,9 @@ Alternatively, [click here](https://osu.ppy.sh/home/download) for a direct link 
 **If game installer throws errors when attempting to install, you can try few things:**
 
 - Clean your PC - Scan with anti-virus software, clean the registry. A good program for general clean up is CCleaner. Scan both your computer files and your registry. The installer can fail if there are registry entries from a previous copy of osu! still present on your system.
-- Try reinstalling .NET 3.5 Framework. [You can find it here](https://web.archive.org/web/20160317051200/http://www.microsoft.com/en-au/download/details.aspx?id=21).
+- Try reinstalling the latest version of .NET Framework. [You can find it here](https://dotnet.microsoft.com/download).
 
-#### I have 64-bit Windows and cannot install osu! correctly!
-
-**Try to install the 64-bit version of the Microsoft .NET Framework.**
-
-This should come with the osu! installer, but in case it doesn't, [download it here](https://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe).
+If you are using a 64-bit Windows 7, you may have difficulties installing osu! correctly. Try to install the 64-bit version of .NET Framework, in case it doesn't come with the osu! installer. [Download it here](https://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe).
 
 ### Registration
 
