@@ -1,7 +1,3 @@
----
-no_native_review: true
----
-
 # Restrições de conta
 
 Uma restrição é um intervalo forçado da comunidade imposto em contas que demonstram comportamentos anormais, suspeitos, ou que quebram regras.
@@ -90,6 +86,21 @@ Há vários motivos do porque um recurso pode ser negado.
 - **Você continuou com ofensas enquanto restrito.** Não há nenhuma razão em remover uma restrição de alguém que continua a quebrar as regras mesmo após ser restrito. Se você realmente continuar as ofensas, o cooldown da sua conta será resetado para a sua última ofensa. Em caso de ofensas contínuas ou extremas, seu recurso pode ser permanentemente negado.
 - **O histórico da sua conta é muito severo.** Em casos de ofensores extremos, ou jogadores que tomam restrição de novo após eles serem desrestritos após um recurso bem sucedido, nos podemos simplemente declarar que seu histórico é muito severo para você se juntar novamente ao jogo no momento. Se isso se aplica a você, nós recomendamos que aguarde um **bom tempo** antes de entrar com um recurso novamente, e tendo certeza de que você não quebre nenhuma regra nesse meio tempo.
 
+## Meus emails estão sendo ignorados / Acho que a conclusão do meu recurso não foi justa
+
+Caso você sinta que seus emails não estejam sendo lidos ou lidados de forma apropriada pelo nossa equipe de suporte, por favor nos envie um email completo para [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh) contendo as seguintes informações:
+
+- Há quanto tempo você está restrito
+- A razão principal que você acha do porque que você foi restrito
+- Quaisquer outros recursos que você enviou em que você foi ignorado/recusado
+- Um breve resumo do porque que você está infeliz com o resultado do seu recurso (se aplicável)
+
+Todos os emails enviados para o endereço de revisão de recurso serão investigados por um terceiro que não está envolvido com as operações diárias da equipe de suporte e será marcado para revisão e investigação a mais.
+
+Por favor entenda que enviar um email para esse endereço apenas garante uma segunda olhada/resposta inicial para seu recurso, isso não garante uma mudança em quaisquer resultados se você for pego violando as expectativas envolvidas no processo de recurso.
+
+**Nós responderemos a solicitações de revisão de recurso/investigação apenas via emails enviados para [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh).** Por favor não tente entrar em contato com os membros do osu!team (ou membros das equipes voluntárias) via Twitter, Discord, ou qualquer outra plataforma afim de contornar essa política - eles não podem te ajudar.
+
 ## Razões comuns de restrição e seus cooldowns
 
 | Razão de restrição | Duração de cooldown | Notas de recurso |
@@ -101,4 +112,4 @@ Há vários motivos do porque um recurso pode ser negado.
 | Trapaça | 3 meses | Termos de recurso se aplicam, ban de 1 ano em torneios, e reversão total de conta |
 | Má conduta excessiva | Variável | Termos de recurso se aplicam. Cooldown irá depender do histórico da conta. |
 | Trapaceando/Compartilhando para um torneio | 6 meses | Termos de recurso se aplicam, reversão apropriada de conta, ban de permanente de torneios |
-| Ofensas subsequentes | 6 meses | Termos de recurso se aplicam, reversão apropriada de conta, ban de 1 ano em torneios por ofensa|
+| Ofensas subsequentes | 6 meses | Termos de recurso se aplicam, reversão apropriada de conta, ban de 1 ano em torneios por ofensa |
