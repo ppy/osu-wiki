@@ -826,23 +826,7 @@ If you have any further issues, please feel free to submit a ticket to [support@
 
 **This can be due to a few reasons - corrosion between the LEDs and the mainboard, or in certain circumstances with earlier models, faulty LEDs.**
 
-To determine if your osu! nono keyboard LEDs are faulty, please undertake the following steps:
-
-##### Are my LEDs faulty?
-
-**Follow these steps to find out:**
-
-1. Identify which LED is not functioning as it should be. Remember this side.
-2. Gently prise the LEDs from beneath the key switches with a pair of tweezers or other gripping device, remembering which LED came from which slot.
-3. Swap the LEDs around and return them to their housing. For example, place the LED taken from the left key to the right key, and so on.
-
-If an LED that worked in one side works in the other side, that LED **is not faulty** and is working fine.
-
-If an LED that didn't work in one side also doesn't work in the other side, **it is probably faulty.** We can issue you some replacement LEDs to fix this, free of charge. Send an email to [store@ppy.sh](mailto:store@ppy.sh).
-
-If an LED that worked in one side does not work in the other side, **this could suggest that your osu!keyboard's mainboard is faulty**. Let us know by sending an email to [store@ppy.sh](mailto:store@ppy.sh) and we'll do our best to hook you up with a replacement.
-
-If both of your LEDs aren't working, they may both be faulty, or your mainboard could be faulty. Check for corrosion first to see before contacting us.
+Please contact [store@ppy.sh](mailto:store@ppy.sh) for further inquiries.
 
 ##### How do I tell if my LEDs have corrosion on them?
 
@@ -872,9 +856,7 @@ To find out, perform the following steps:
 
 If the tablet's light does not flash, try using a different USB cable - the ones included with the tablet can sometimes be damaged during transit or after extensive use.
 
-If your issue still persists and your tablet is a relatively new purchase (within a month old), please email [store@ppy.sh](mailto:store@ppy.sh) for further assistance.
-
-We can try to help you fix your issue with older tablet purchases, but the natural wear and tear of regular use is not something we cover replacements for.
+Please contact [store@ppy.sh](mailto:store@ppy.sh) for further inquiries.
 
 ##### Checking for issues with your pen device
 
@@ -889,11 +871,7 @@ We can try to help you fix your issue with older tablet purchases, but the natur
 
 If your tablet unit is functioning properly, placing the pen near the tablet will make the cursor on your screen move.
 
-If this does not occur and you have followed the tablet verification steps listed above this section, then it is possible that your pen is broken or faulty.
-
-If you have damaged your pen via regular use or an accident (such as a high fall or other misuse), we cannot offer you a replacement.
-
-Otherwise, please contact [store@ppy.sh](mailto:store@ppy.sh) for further assistance, and we'll do everything we can to help you.
+Please contact [store@ppy.sh](mailto:store@ppy.sh) for further inquiries.
 
 ### osu!go
 
