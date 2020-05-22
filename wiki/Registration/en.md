@@ -10,6 +10,7 @@
    - For the username field, there is a maximum of 15 characters; of which can only be alphanumeric characters (`a-z`, `A-Z`, `0-9`), underscores (`_`), square brackets, (`[` and `]`), dashes (`-`), and spaces (` `).
    - For the email address field, use your email. This is used to reset your password and to send you verification codes when needed, so don't use a throw away email.
    - For the password field, use a password that is at least 8 characters long.
+   
 3. Once this is completed, click `1. Create my account!`. You will be automatically signed in.
 
 ## What's next?
@@ -31,4 +32,3 @@ Try using another proxy or VPN provider - if all else fails, send in a support t
 If you are not using any of the above, then you will need to send in a support ticket, as your connection has likely been blacklisted in error.
 
 Tor or networks associated with the Tor relay will not connect to the game servers for the most part. This is to avoid malicious use.
-
