@@ -1,6 +1,7 @@
 ---
 needs_cleanup: true
 ---
+
 <!-- TODO: same deal as FAQ. this should be split up into appropriate articles and only written as guides where necessary. right now this page is only useful for people linking directly to sections of it -->
 
 # Help centre
@@ -110,7 +111,7 @@ If that player does have any plays across all game modes, a [non-linear function
 
 **Yes, but under certain circumstances.**
 
-We only grant free reverts for a user's direct previous username (the one shown by hovering their name on their profile). Changes to any other previous names must be [purchased via the store](https://osu.ppy.sh/store/products/32). Simply contact accounts@ppy.sh and request your namechange reverted.
+We only grant free reverts for a user's direct previous username (the one shown by hovering their name on their profile). Changes to any other previous names must be [purchased via the store](https://osu.ppy.sh/store/products/32). Simply contact [accounts@ppy.sh](mailto:accounts@ppy.sh) and request your namechange reverted.
 
 We only grant this one time per account, so please consider carefully before requesting!
 
@@ -126,7 +127,7 @@ If the change was done with the free change that comes with a supporter tag, we 
 
 **Under certain circumstances.**
 
-Your profile will show all your previous purchased namechanges, but we only selectively remove the ones that may be an issue for you. If one of your previous usernames breaches your privacy (for example, if it contains your legal name) or can lead to your privacy being breached (via other websites), contact accounts@ppy.sh to request it removed.
+Your profile will show all your previous purchased namechanges, but we only selectively remove the ones that may be an issue for you. If one of your previous usernames breaches your privacy (for example, if it contains your legal name) or can lead to your privacy being breached (via other websites), contact [accounts@ppy.sh](mailto:accounts@ppy.sh) to request it removed.
 
 ### Other issues
 
@@ -502,7 +503,7 @@ We will need the results from a trace route for command for the following server
 
 To copy the results of the command, simply click and drag from the bottom of the output all the way to the top so that the information turns white, then right click to instantly copy it to your clipboard.
 
-#### I have changed my settings, and now I can't start osu! or it freezes.
+#### I have changed my settings, and now I can't start osu! or it freezes
 
 **Resetting osu! back to its default settings will fix this in most cases.**
 
@@ -560,7 +561,7 @@ You may also wish to try removing some of the peripherals attached via USB to yo
 
 If none of this helps, please send in a support ticket to [accounts@ppy.sh](mailto:accounts@ppy.sh) with more information on the issue - including your computer's technical specifications, model (where appropriate) and any other information you think may help us discern the cause of your problem.
 
-#### I can't hold more than a few keys at once while playing osu!mania.
+#### I can't hold more than a few keys at once while playing osu!mania
 
 **This is due to a hardware issue common to most keyboards called *ghosting*.**
 
@@ -733,7 +734,7 @@ If you have been inactive for a lengthy period of time and your statistics are s
 
 #### How do I download osu!?
 
-**Simply click **`Download`** found at the center of the [official osu! website homepage](https://osu.ppy.sh/home). You may also find the link through `home` dropdown section found at the navigation bar on any page.**
+**Simply click `Download` found at the center of the [official osu! website homepage](https://osu.ppy.sh/home). You may also find the link through `home` dropdown section found at the navigation bar on any page.**
 
 Alternatively, [click here](https://osu.ppy.sh/home/download) for a direct link to the download page.
 
@@ -890,7 +891,7 @@ First off, [download the package containing the osu!go default files](https://as
 3. **While in the Disk Management view, make sure to follow these instructions *VERY* closely and ONLY apply them to the osu!go device.** You can potentially lose data if you fiddle around in this dialog.
 4. Check to see what state your computer recognizes the device as being in.
 
-#### The osu!go device is present, but in a "RAW" state.
+#### The osu!go device is present, but in a "RAW" state
 
 **This will appear like [this](https://puu.sh/nktuJ/05791b6fc1.png) in the Disk Management dialog.**
 
@@ -898,13 +899,13 @@ To fix this, ensure you have the osu!go device selected, and right click on the 
 
 `exFAT` will work with more devices, but is slightly slower.
 
-#### The osu!go device doesn't show up in Disk Management at all.
+#### The osu!go device doesn't show up in Disk Management at all
 
 **You will need to partition the device from scratch.**
 
 Please follow [this guide](https://staging.tails.boum.org/doc/first_steps/reset/windows.en.html) for details on how to do that.
 
-#### I've reformatted the osu!go device and it now shows up in Disk Management.
+#### I've reformatted the osu!go device and it now shows up in Disk Management
 
 **You're almost done!**
 
