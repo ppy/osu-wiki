@@ -44,7 +44,7 @@ Like fanzhen0019, Acyl is halfway to the first reward threshold. See the [MBC re
 
 That's it! As per usual, all participants in April's contest have received a message showing how the screening crew viewed their entry. Thanks to [Uberzolik](https://osu.ppy.sh/users/1314547), [Trynna](https://osu.ppy.sh/users/2652951), [Myxo](https://osu.ppy.sh/users/2202645), [Niva](https://osu.ppy.sh/users/197805), [Venix](https://osu.ppy.sh/users/5999631), [coco](https://osu.ppy.sh/users/9579526), [Moecho](https://osu.ppy.sh/users/5075660), [Garden](https://osu.ppy.sh/users/2849992), [Nuvolina](https://osu.ppy.sh/users/10974170), [Cheri](https://osu.ppy.sh/users/5226970), [Seolv](https://osu.ppy.sh/users/8067876), [Noffy](https://osu.ppy.sh/users/1541323), [Rolniczy](https://osu.ppy.sh/users/8331132), [Agatsu](https://osu.ppy.sh/users/5579871), [Natteke](https://osu.ppy.sh/users/157177), and [winber1](https://osu.ppy.sh/users/270328) for screening all 61 contest submissions. And of course, thanks to you for participating in the community vote as well!
 
-We've got less than a week until submissions for [May's contest](https://osu.ppy.sh/community/contests/93) close, so head over there if you haven't already! The contest provides participants with a rhythm template, meaning the focus is on how you can manage interesting object arrangement. Good luck!
+We've got less than a week until submissions for [May's contest](https://osu.ppy.sh/community/contests/95) close, so head over there if you haven't already! The contest provides participants with a rhythm template, meaning the focus is on how you can manage interesting object arrangement. Good luck!
 
 Until next month!
 
