@@ -534,7 +534,7 @@ To check what your frame limiter is set to, follow these steps:
 
 If your frame limiter is set to Unlimited, you may notice a significant improvement by changing it to one of the other three options.
 
-`VSync` will run the game at a refresh rate equal to that of your main monitor, whilst `120fps` and `240fps` will run the game at 2x and 4x the average refresh rate.
+`VSync` will run the game at a refresh rate equal to that of your main monitor, whilst `Power Saving (120fps)` and `Optimal (480fps)` will run the game at 2x and 8x the average refresh rate.
 
 We recommend using `VSync` in situations where heat is an issue.
 
@@ -641,13 +641,11 @@ You can always send a single reply to your currently open ticket asking about th
 
 In rare circumstances, support tickets from chronically offending users may be deliberately ignored, though the team will **always** tell you when they will no longer be responding to you first. If you have not received a notification like this, you do not need to worry about it!
 
-#### My user page has been locked and I can't edit it!
+#### My user page contents are missing!
 
 **This can happen if your user page had inappropriate content on it as defined by our [community rules](/wiki/Rules).**
 
 In such cases, you may open up a ticket with the support team by emailing [accounts@ppy.sh](mailto:accounts@ppy.sh) and discussing your situation with them.
-
-Most of the time, you'll be allowed to access and alter your user page again, but users who abuse this amnesty may find themselves unable to edit their userpage at all, so be careful!
 
 If at any point you are in doubt as to whether something is appropriate for a userpage, you may message any of the members of the [Global Moderation Team](/wiki/People/Global_Moderation_Team) with what you plan to put up and they'll let you know if it's okay.
 
@@ -713,11 +711,11 @@ Even if your [supporter tag](https://osu.ppy.sh/home/support) happens to run out
 
 #### Do I need to use my email address to register?
 
-**No, you do not. We authenticate your account by having you sign in via the game client, so an email is not necessary during the registration process.**
+**Yes, you do. We require your email address to respond to your password reset requests and send verification codes when needed.**
 
 If you have trouble connecting via the game client, please check your firewall and anti-virus settings to make sure osu! isn't being blocked.
 
-While having an email isn't required, we do recommend that you associate one with your account, as if you ever lose your password or cannot access your account, your registration email is our first point of contact with you.
+If you ever lose your password or cannot access your account, your registration email is our first point of contact with you.
 
 #### Why are the statistics in my user profile page wrong?
 
