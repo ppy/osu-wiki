@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest #4: Results"
-date: 2020-05-21 22:00:00 +0000
+date: 2020-05-22 04:30:00 +0000
 ---
 
 Curious as to how one makes a map with only reverse sliders? See how the winners of the fourth monthly beatmapping contest managed!
