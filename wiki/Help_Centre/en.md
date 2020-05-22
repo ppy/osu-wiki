@@ -111,7 +111,7 @@ If that player does have any plays across all game modes, a [non-linear function
 
 **Yes, but under certain circumstances.**
 
-We only grant free reverts for a user's direct previous username (the one shown by hovering their name on their profile). Changes to any other previous names must be [purchased via the store](https://osu.ppy.sh/store/products/32). Simply contact [accounts@ppy.sh](mailto:accounts@ppy.sh) and request your namechange reverted.
+We only grant free reverts for a user's direct previous username. Changes to any other previous names must be [purchased via the store](https://osu.ppy.sh/store/products/32). Simply contact [accounts@ppy.sh](mailto:accounts@ppy.sh) and request your namechange reverted.
 
 We only grant this one time per account, so please consider carefully before requesting!
 
@@ -535,7 +535,7 @@ To check what your frame limiter is set to, follow these steps:
 
 If your frame limiter is set to Unlimited, you may notice a significant improvement by changing it to one of the other three options.
 
-`VSync` will run the game at a refresh rate equal to that of your main monitor, whilst `Power Saving (120fps)` and `Optimal (480fps)` will run the game at 2x and 8x the average refresh rate.
+`VSync` will run the game at a refresh rate equal to that of your main monitor, whilst `Power Saving` and `Optimal` will run the game at 2x and 8x your monitor's refresh rate, with a maximum of 960Hz.
 
 We recommend using `VSync` in situations where heat is an issue.
 
@@ -753,9 +753,9 @@ If you are using a 64-bit Windows 7, you may have difficulties installing osu! c
 
 #### Where do I register for osu!?
 
-**Download osu! through [here](https://osu.ppy.sh/home/download), then run it. The game will prompt you a section where you can create an account.**
+**Download osu! through [here](https://osu.ppy.sh/home/download), then run it. The game will prompt you with a section where you can create an account.**
 
-Make sure you provide an email address you have control over. This is used to reset your password, and send verification mails when needed. Do not use a throw away email.
+Make sure you provide an email address you have control over. This is used to reset your password and send verification emails when needed. Do not use a throwaway email.
 
 #### I receive some sort of server-side error when trying to play online!
 
