@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Publication
 
 Les [beatmaps](/wiki/Beatmaps) peuvent être publiées sur le site depuis l'[éditeur de beatmap](/wiki/Beatmap_Editor). Publier une beatmap permet à celle-ci de recevoir une attention toute particulière d'autres joueurs, ce qui peut conduire a l'obtention du statut de [Ranked](/wiki/Beatmaps#classées) ou [Loved](/wiki/Beatmaps#aimées).
