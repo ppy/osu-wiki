@@ -203,7 +203,7 @@ The Hidden Only Tournament is run by various community members.
 4. **Finals and Grand Finals** will consist of 12 Hidden, 5 Hidden+DoubleTime, and 3 Tiebreaker mappool and will be a Best-of-13 (First to 7 points).
 5. There are no bans during the Qualifiers, but **one ban** is permitted starting from the Round of 32.
 
-### Qualifiers Rules
+### Qualifiers rules
 
 1. The match lobby will be created by the referee. Team captains will receive invites; if the team captain is not available, then the referee will invite any player that is online. The invited player has the responsibility to invite their team into the lobby.
 2. Teams have **10 minutes** past the start time to join the lobby. If teams fail to join within the alloted time, the captain is responsible to reschedule their team to another lobby.
@@ -214,7 +214,7 @@ The Hidden Only Tournament is run by various community members.
 7. After you finish playing all the maps in your lobby, your team's total score will be added up. You will then be given a percentage score on how well you did relative the rest of the teams in Qualifiers. Your points given will be per mod, and then be added to given your overall percentage score. The team with best score on a map will receive 100%, with all other teams getting percentages relative to the top score. The top 32 teams by average percentage will qualify. Teams will be seeded based on their performance in the Qualifiers.
 8. Teams are discouraged from sharing MP Links, so as to prevent seed manipulation.
 
-### Knockout Stage Rules
+### Knockout stage rules
 
 1. The match lobby will be created by the referee. Team captains will receive invites; if the team captain is not available, then the referee will invite any player that is online. The invited player has the responsibility to invite their team into the lobby.
 2. Once all players have joined, captain will be asked to `!roll`. The winner of the `!roll` may elect to pick first of pick second. Warmups are allowed, up to a maximum of **4:30** total time (it can be longer if everyone in the lobby agrees with it). It doesn't really matter who picks the warmups first.
