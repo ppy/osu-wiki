@@ -1,11 +1,11 @@
 ---
 tags:
-- MCNC 2019
+  - MCNC 2019
 ---
 
 # osu!mania 4K Chinese National Cup 2019
 
-![MCNC 2019 Logo](img/logo.png)
+![MCNC 2019 logo](img/logo.jpg)
 
 The **osu!mania 4K Chinese National Cup 2019** (***MCNC 2019***) was a country-based osu!mania tournament hosted by the [Crz]Team. It was the first installment of the osu!mania 4K Chinese National Cup.
 
@@ -36,7 +36,7 @@ The osu!mania 4K Chinese National Cup 2019 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208), ![][flag_NZ] [Worms](https://osu.ppy.sh/users/1963937), ![][flag_US] [dblade](https://osu.ppy.sh/users/4272841), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083) ]
+| Manager | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208), ![][flag_NZ] [Worms](https://osu.ppy.sh/users/1963937), ![][flag_US] [dblade](https://osu.ppy.sh/users/4272841), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083)
 | Map selector | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [Worms](https://osu.ppy.sh/users/1963937), ![][flag_BR] [Sillyfangirl](https://osu.ppy.sh/users/2288363), ![][flag_MX] [\[Crz\]Noire](https://osu.ppy.sh/users/6031847), ![][flag_US] [\[Crz\]sel](https://osu.ppy.sh/users/9452257), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763) |
 | Streamer | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [Empty\_Lotus](https://osu.ppy.sh/users/1212951), ![][flag_CN] [Ayase Eli](https://osu.ppy.sh/users/6764156) |
 | Commentator | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083), ![][flag_CN] [Rasis](https://osu.ppy.sh/users/1209363), ![][flag_CN] [Empty\_Lotus](https://osu.ppy.sh/users/1212951) |
@@ -92,7 +92,7 @@ The osu!mania 4K Chinese National Cup 2019 was run by various community members.
 - 2nd place : \[Crz\]FolAH1217
 - 3rd place : \[Crz\]Satori
 
-![MCNC 2019 bracket](img/bracket.png)
+![MCNC 2019 bracket](img/Bracket.png)
 
 ## Mappools
 
@@ -101,113 +101,113 @@ The osu!mania 4K Chinese National Cup 2019 was run by various community members.
 **[Download the mappack here! (154MB)](https://www.dropbox.com/s/r4p7tbxa58ijgzh/MCNC19%20%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - Freemod
-  - [TAG underground overlay - Over The "Period" (Tidek) \[Edit\]](https://osu.ppy.sh/b/1777377)
-  - [lapix - Carry me away (Couil) \[4K SV CHALLENGE\]](https://osu.ppy.sh/b/1271753)
-  - [sky_delta - Precursor (Daughter-) \[antecedent\]](https://osu.ppy.sh/b/1791811)
-  - [ck - Carnation (ck remix) (Gekido-) \[LN Master\]](https://osu.ppy.sh/b/1579095)
-  - [Camelia - The King Of Lions (\[OSC\]Agami) \[Jungle Warfare\]](https://osu.ppy.sh/b/2094458)
-  - [Inferi - Those Who From the Heavens Came (XeoStyle) \[Investiture of the Gods\]](https://osu.ppy.sh/b/897408)
-  - [DJKurara - Steady Rock Kiss On Me (drunkenstein) \[Happiness\]](https://osu.ppy.sh/b/1682118)
-  - [a\_hisa - Smoked Turkey Rag (\[Illustions\]) \[tournament?\]](https://osu.ppy.sh/b/2096435)
-  - [aaaa vs Frums - beepbit \*\*\* futures (LeiN-) \[cosmonaut\]](https://osu.ppy.sh/b/1864667)
-  - [Leaf - LeaF  Style Super Shredder II (Imperial Wolf) \[Shred everything\]](https://osu.ppy.sh/b/2100461)
-  - [Lamberti phil - Alpha (\[Crz\]Zetsfy) \[Reincarnation\]](https://osu.ppy.sh/b/2046040)
-  - [KopophobiA & Ajataa - Lunar Eclipse (\[Crz\]Zetsfy) \[Firanzia\]](https://osu.ppy.sh/b/1900586)
-  - [orangentle - HAELEQUIN -the faith of truth- (\_underjoy) \[Shattered Personality\]](https://osu.ppy.sh/b/1512722)
-  - [Quarks (kradness&Camellia) - Intro + Dualive (Evening) \[backpropogation\]](https://osu.ppy.sh/b/2084873)
-  - [Camellia - NEURO-CLOUD-9 (Evening) \[GAUSSIAN (EVE.NING'S FLIP) x1.05\]](https://osu.ppy.sh/b/1884094)
+  - [TAG underground overlay - Over The "Period" (Tidek) \[Edit\]](https://osu.ppy.sh/beatmaps/1777377)
+  - [lapix - Carry me away (Couil) \[4K SV CHALLENGE\]](https://osu.ppy.sh/beatmaps/1271753)
+  - [sky_delta - Precursor (Daughter-) \[antecedent\]](https://osu.ppy.sh/beatmaps/1791811)
+  - [ck - Carnation (ck remix) (Gekido-) \[LN Master\]](https://osu.ppy.sh/beatmaps/1579095)
+  - [Camelia - The King Of Lions (\[OSC\]Agami) \[Jungle Warfare\]](https://osu.ppy.sh/beatmaps/2094458)
+  - [Inferi - Those Who From the Heavens Came (XeoStyle) \[Investiture of the Gods\]](https://osu.ppy.sh/beatmaps/897408)
+  - [DJKurara - Steady Rock Kiss On Me (drunkenstein) \[Happiness\]](https://osu.ppy.sh/beatmaps/1682118)
+  - [a\_hisa - Smoked Turkey Rag (\[Illustions\]) \[tournament?\]](https://osu.ppy.sh/beatmaps/2096435)
+  - [aaaa vs Frums - beepbit \*\*\* futures (LeiN-) \[cosmonaut\]](https://osu.ppy.sh/beatmaps/1864667)
+  - [Leaf - LeaF  Style Super Shredder II (Imperial Wolf) \[Shred everything\]](https://osu.ppy.sh/beatmaps/2100461)
+  - [Lamberti phil - Alpha (\[Crz\]Zetsfy) \[Reincarnation\]](https://osu.ppy.sh/beatmaps/2046040)
+  - [KopophobiA & Ajataa - Lunar Eclipse (\[Crz\]Zetsfy) \[Firanzia\]](https://osu.ppy.sh/beatmaps/1900586)
+  - [orangentle - HAELEQUIN -the faith of truth- (\_underjoy) \[Shattered Personality\]](https://osu.ppy.sh/beatmaps/1512722)
+  - [Quarks (kradness&Camellia) - Intro + Dualive (Evening) \[backpropogation\]](https://osu.ppy.sh/beatmaps/2084873)
+  - [Camellia - NEURO-CLOUD-9 (Evening) \[GAUSSIAN (EVE.NING'S FLIP) x1.05\]](https://osu.ppy.sh/beatmaps/1884094)
 - Tiebreaker
-  - **[Unlucky Morpheus - Sono Tamashii Ni Yasuragi Wo \~ Dignity of Spirit (Evening) \[forever and never\]](https://osu.ppy.sh/b/2095156)**
+  - **[Unlucky Morpheus - Sono Tamashii Ni Yasuragi Wo \~ Dignity of Spirit (Evening) \[forever and never\]](https://osu.ppy.sh/beatmaps/2095156)**
 
 ### Semifinals
 
 **[Download the mappack here! (96.5MB)](https://www.dropbox.com/s/fq0u3l87fahgw5b/MCNC19%20%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - Freemod
-  - [Alfheim (Tidek) \[Freya\]](https://osu.ppy.sh/b/1966772)
-  - [lapix - Foolish Hero (dionzz99) \[Fooled\]](https://osu.ppy.sh/b/1040762)
-  - [U1 overground - Dopamine (juankristal) \[Polyethylene Oxide\]](https://osu.ppy.sh/b/1472944)
-  - [SOUND HOLIC - WANNA BE CRAZY PRINCESS -  (\[OSC\]Amagai) \[/L/unatic Pri/N/cess\]](https://osu.ppy.sh/b/1860579)
-  - [loz - Cinderella Cage -Trancecore Mix- (Kamikaze) \[Tail's vs Kami's Lunatic\]](https://osu.ppy.sh/b/2022076)
-  - [Kobaryo - The Lightning Sword (AutotelicBrown) \[Ayumu's ascension\]](https://osu.ppy.sh/b/1576797)
-  - [Fleshgod Apocalypse - The Fool (Couil) \[Mixleading Grace (new)\]](https://osu.ppy.sh/b/1701237)
-  - [4k - SHD+ Package (1234567890) \[Tuk Tuk Boshi (Jump Hand+)\]](https://osu.ppy.sh/b/838065)
-  - [SHK.o2SE - Death Moon (Guilhermeziat) \[Dawn of The Final Day\]](https://osu.ppy.sh/b/1412004)
-  - [Terminal 11 - That's Gonna Be (Gekido-) \[Challenge\]](https://osu.ppy.sh/b/2051696)
-  - [The Ghost of 3.13 - Forgotten (Shoegazer) \[Forgotten Collab\]](https://osu.ppy.sh/b/749258)
-  - [-45 - Utan2 (976600146) \[-\]](https://osu.ppy.sh/b/1556704)
-  - [Chroma - I (Guilhermeziat) \[You\]](https://osu.ppy.sh/b/1592359)
-  - [gmtn. (witch's slave) - Daraku no Sono (shadowsnoop) \[Tumultu\]](https://osu.ppy.sh/b/1132175)
-  - [Sullivan King & Matt McGuire - Lockdown (Feat.Sam King) (Song Hana) \[Declear an Emergency\]](https://osu.ppy.sh/b/1247641)
+  - [Alfheim (Tidek) \[Freya\]](https://osu.ppy.sh/beatmaps/1966772)
+  - [lapix - Foolish Hero (dionzz99) \[Fooled\]](https://osu.ppy.sh/beatmaps/1040762)
+  - [U1 overground - Dopamine (juankristal) \[Polyethylene Oxide\]](https://osu.ppy.sh/beatmaps/1472944)
+  - [SOUND HOLIC - WANNA BE CRAZY PRINCESS -  (\[OSC\]Amagai) \[/L/unatic Pri/N/cess\]](https://osu.ppy.sh/beatmaps/1860579)
+  - [loz - Cinderella Cage -Trancecore Mix- (Kamikaze) \[Tail's vs Kami's Lunatic\]](https://osu.ppy.sh/beatmaps/2022076)
+  - [Kobaryo - The Lightning Sword (AutotelicBrown) \[Ayumu's ascension\]](https://osu.ppy.sh/beatmaps/1576797)
+  - [Fleshgod Apocalypse - The Fool (Couil) \[Mixleading Grace (new)\]](https://osu.ppy.sh/beatmaps/1701237)
+  - [4k - SHD+ Package (1234567890) \[Tuk Tuk Boshi (Jump Hand+)\]](https://osu.ppy.sh/beatmaps/838065)
+  - [SHK.o2SE - Death Moon (Guilhermeziat) \[Dawn of The Final Day\]](https://osu.ppy.sh/beatmaps/1412004)
+  - [Terminal 11 - That's Gonna Be (Gekido-) \[Challenge\]](https://osu.ppy.sh/beatmaps/2051696)
+  - [The Ghost of 3.13 - Forgotten (Shoegazer) \[Forgotten Collab\]](https://osu.ppy.sh/beatmaps/749258)
+  - [-45 - Utan2 (976600146) \[-\]](https://osu.ppy.sh/beatmaps/1556704)
+  - [Chroma - I (Guilhermeziat) \[You\]](https://osu.ppy.sh/beatmaps/1592359)
+  - [gmtn. (witch's slave) - Daraku no Sono (shadowsnoop) \[Tumultu\]](https://osu.ppy.sh/beatmaps/1132175)
+  - [Sullivan King & Matt McGuire - Lockdown (Feat.Sam King) (Song Hana) \[Declear an Emergency\]](https://osu.ppy.sh/beatmaps/1247641)
 - Tiebreaker
-  - **[aaaa - Hoshi wo Kakeru Adventure \~ we are forever friends! \~ \[Long ver.\] (Daikyi) \[Our Epilogue\]](https://osu.ppy.sh/b/1074892)**
+  - **[aaaa - Hoshi wo Kakeru Adventure \~ we are forever friends! \~ \[Long ver.\] (Daikyi) \[Our Epilogue\]](https://osu.ppy.sh/beatmaps/1074892)**
 
 ### Quarterfinals
 
 **[Download the mappack here! (110MB)](https://www.dropbox.com/s/6ocxk2bm9w8q49j/MCNC19%20%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - ModType
-  - [Jameson Hodge - pn sqnc 518\[6\] (Couil) \[sv sqnc 518\[1\]\]](https://osu.ppy.sh/b/2037752)
-  - [SickStrophe - Pop Up Tha Bass (Cokiiplay) \[Jump\]](https://osu.ppy.sh/b/1298710)
-  - [Fall Out Boy - Thnks Fr Th Mmrs (Razzy) \[Thnks Fr Th Ndls\]](https://osu.ppy.sh/b/1563668)
-  - [Freezer feat. Kiichigo - Berry Go!! (PiraTom) \[BERRY HARD\]](https://osu.ppy.sh/b/1432754)
-  - [Etia. - On And On!! (Club Extended) \[Feat.Jenga\] (eZmmR) \[Raveille & eZmmR's LN Party!!\]](https://osu.ppy.sh/b/2068796)
-  - [UNDEAD CORPORATION - Everything will freeze (riktoi) \[Benumb\]](https://osu.ppy.sh/b/1500546)
-  - [SP-# - tinnitus (stupud man) \[Guil's Inundation\]](https://osu.ppy.sh/b/1636326)
-  - [ATC - Around the World (Wh1teh) \[!!\]](https://osu.ppy.sh/b/1766006)
-  - [The Brig & Umperia - Siren (Daybreak) \[Minty's Beginner\]](https://osu.ppy.sh/b/2078742)
-  - [Terminal 11 - Miserable Bastard (Gekido-) \[Despair\]](https://osu.ppy.sh/b/1657803)
-  - [nanobii - Rainbow Road (STAMINA KILLER CUT) (190-225BPM) (Worms) \[225BPM 4K Handstream\]](https://osu.ppy.sh/b/2079642)
-  - [Camellia feat. Nanahira - EDM Jumpers ({E+H}DM Reboot) (Gekido-) \[{L+E}MON Reboot\]](https://osu.ppy.sh/b/1690577)
-  - [MisoilePunch Takenoko Soe - Staring at star (SDMseven) \[HEAVENLY\]](https://osu.ppy.sh/b/1472933)
+  - [Jameson Hodge - pn sqnc 518\[6\] (Couil) \[sv sqnc 518\[1\]\]](https://osu.ppy.sh/beatmaps/2037752)
+  - [SickStrophe - Pop Up Tha Bass (Cokiiplay) \[Jump\]](https://osu.ppy.sh/beatmaps/1298710)
+  - [Fall Out Boy - Thnks Fr Th Mmrs (Razzy) \[Thnks Fr Th Ndls\]](https://osu.ppy.sh/beatmaps/1563668)
+  - [Freezer feat. Kiichigo - Berry Go!! (PiraTom) \[BERRY HARD\]](https://osu.ppy.sh/beatmaps/1432754)
+  - [Etia. - On And On!! (Club Extended) \[Feat.Jenga\] (eZmmR) \[Raveille & eZmmR's LN Party!!\]](https://osu.ppy.sh/beatmaps/2068796)
+  - [UNDEAD CORPORATION - Everything will freeze (riktoi) \[Benumb\]](https://osu.ppy.sh/beatmaps/1500546)
+  - [SP-# - tinnitus (stupud man) \[Guil's Inundation\]](https://osu.ppy.sh/beatmaps/1636326)
+  - [ATC - Around the World (Wh1teh) \[!!\]](https://osu.ppy.sh/beatmaps/1766006)
+  - [The Brig & Umperia - Siren (Daybreak) \[Minty's Beginner\]](https://osu.ppy.sh/beatmaps/2078742)
+  - [Terminal 11 - Miserable Bastard (Gekido-) \[Despair\]](https://osu.ppy.sh/beatmaps/1657803)
+  - [nanobii - Rainbow Road (STAMINA KILLER CUT) (190-225BPM) (Worms) \[225BPM 4K Handstream\]](https://osu.ppy.sh/beatmaps/2079642)
+  - [Camellia feat. Nanahira - EDM Jumpers ({E+H}DM Reboot) (Gekido-) \[{L+E}MON Reboot\]](https://osu.ppy.sh/beatmaps/1690577)
+  - [MisoilePunch Takenoko Soe - Staring at star (SDMseven) \[HEAVENLY\]](https://osu.ppy.sh/beatmaps/1472933)
 - Tiebreaker
-  - **[AA... Hisui Chazuke... - Stardust Prism (Lude) \[Illumination\]](https://osu.ppy.sh/b/1589531)**
+  - **[AA... Hisui Chazuke... - Stardust Prism (Lude) \[Illumination\]](https://osu.ppy.sh/beatmaps/1589531)**
 
 ### Round of 16
 
 **[Download the mappack here! (82.9MB)](https://www.dropbox.com/s/k752wba6kpyyzt1/MCNC19%20RO16%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - ModType
-  - [Frums - Wavetapper (qqqant) \[Stage 1: Memory Factory\]](https://osu.ppy.sh/b/1811863)
-  - [stereoberry - evangelize (blurry images) (Tidek) \[transparency (SV)\]](https://osu.ppy.sh/b/1222765)
-  - [Beltaine - Rockhill (Ryu Sei) \[Hard\]](https://osu.ppy.sh/b/994291)
-  - [PROTODOME - Greatest Hat (Gekido-) \[chalLeNge\]](https://osu.ppy.sh/b/1759313)
-  - [Frederic - oddloop (infilect) \[oldnep\]](https://osu.ppy.sh/b/1376904)
-  - [eye burn - SHI\*A\*WA\*SE (Elekton) \[joy\]](https://osu.ppy.sh/b/1552444)
-  - [wa. remixed by celas - Gin no Kaze (Elekton) \[mistral\]](https://osu.ppy.sh/b/1592941)
-  - [Silentroom - Protoflicker (\[Crz\]Crysarlene) \[crysather\]](https://osu.ppy.sh/b/1954837)
-  - [Aural Vampire - Shonan Zoku -Cannibal Coast- (Wh1teh) \[k\]](https://osu.ppy.sh/b/1158510)
-  - [The Flashbulb - Chik Habit (Gekido-) \[Stage 4: Torment\]](https://osu.ppy.sh/b/1546411)
-  - [Laur, Dustvoxx - FireLight (Neokontrol Remix) (Suu is my waifu) \[Enkindle\]](https://osu.ppy.sh/b/1708743)
-  - [Soko ni Naru - Tenohira de Odoru (Vortex-) \[Sweaty Palms\]](https://osu.ppy.sh/b/1711260)
-  - [Camellia - \*Feels Seasickness...\* (Suu is my waifu) \[\*Maximum...\*\]](https://osu.ppy.sh/b/1932640)
+  - [Frums - Wavetapper (qqqant) \[Stage 1: Memory Factory\]](https://osu.ppy.sh/beatmaps/1811863)
+  - [stereoberry - evangelize (blurry images) (Tidek) \[transparency (SV)\]](https://osu.ppy.sh/beatmaps/1222765)
+  - [Beltaine - Rockhill (Ryu Sei) \[Hard\]](https://osu.ppy.sh/beatmaps/994291)
+  - [PROTODOME - Greatest Hat (Gekido-) \[chalLeNge\]](https://osu.ppy.sh/beatmaps/1759313)
+  - [Frederic - oddloop (infilect) \[oldnep\]](https://osu.ppy.sh/beatmaps/1376904)
+  - [eye burn - SHI\*A\*WA\*SE (Elekton) \[joy\]](https://osu.ppy.sh/beatmaps/1552444)
+  - [wa. remixed by celas - Gin no Kaze (Elekton) \[mistral\]](https://osu.ppy.sh/beatmaps/1592941)
+  - [Silentroom - Protoflicker (\[Crz\]Crysarlene) \[crysather\]](https://osu.ppy.sh/beatmaps/1954837)
+  - [Aural Vampire - Shonan Zoku -Cannibal Coast- (Wh1teh) \[k\]](https://osu.ppy.sh/beatmaps/1158510)
+  - [The Flashbulb - Chik Habit (Gekido-) \[Stage 4: Torment\]](https://osu.ppy.sh/beatmaps/1546411)
+  - [Laur, Dustvoxx - FireLight (Neokontrol Remix) (Suu is my waifu) \[Enkindle\]](https://osu.ppy.sh/beatmaps/1708743)
+  - [Soko ni Naru - Tenohira de Odoru (Vortex-) \[Sweaty Palms\]](https://osu.ppy.sh/beatmaps/1711260)
+  - [Camellia - \*Feels Seasickness...\* (Suu is my waifu) \[\*Maximum...\*\]](https://osu.ppy.sh/beatmaps/1932640)
 - Tiebreaker
-  - **[goreshit - fleshbound (\[Crz\]NucleoAP) \[Couil's trapped\]](https://osu.ppy.sh/b/2075130)**
+  - **[goreshit - fleshbound (\[Crz\]NucleoAP) \[Couil's trapped\]](https://osu.ppy.sh/beatmaps/2075130)**
 
 ### Group Stage
 
 **[Download the mappack here! (84.3MB)](https://www.dropbox.com/s/ywwvekemymwzrjh/MCNC19%20%E5%B0%8F%E7%BB%84%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - Freemod
-  - [Frums - Credits (BossModWolf) \[Glitched Tech Corp. (SV)\]](https://osu.ppy.sh/b/1985858)
-  - [succducc - me & u (Couil) \[& sv\]](https://osu.ppy.sh/b/1442650)
-  - [FELT - Life \[Eris's "a Fate Encounter" mix\] (\[OSC\]Amagai) \[Lunatic\]](https://osu.ppy.sh/b/1971029)
-  - [Draw the Emotional & Foreground Eclipse - Stay by my side (Herkkupala) \[puxtu's Lunatic\]](https://osu.ppy.sh/b/968811)
-  - [ARM - Saita, Kimi no Egao (Julie) \[I can Fly\]](https://osu.ppy.sh/b/967569)
-  - [Various Artists - Chordial Blitz (DourGent) \[Venetian Drums - Sheenoboo\]](https://osu.ppy.sh/b/1703314)
-  - [Joywave - Yolomania Selections (Daybreak) \[1.1x\]](https://osu.ppy.sh/b/2066048)
-  - [BilliumMoto - life flashes before weeb eyes (Hydria) \[Tech\]](https://osu.ppy.sh/b/2041466)
-  - [void - Just Hold On (LovelySerenade) \[Flawless Diversion (challenge)\]](https://osu.ppy.sh/b/1467814)
-  - [Rengoku Teien - Suikyou Heaven (Kamikaze) \[Oriental // justhow x Kamikaze\]](https://osu.ppy.sh/b/1755454)
-  - [Mick Gordon - Rip and tear (Herkkupala) \[Revenant\]](https://osu.ppy.sh/b/1970086)
+  - [Frums - Credits (BossModWolf) \[Glitched Tech Corp. (SV)\]](https://osu.ppy.sh/beatmaps/1985858)
+  - [succducc - me & u (Couil) \[& sv\]](https://osu.ppy.sh/beatmaps/1442650)
+  - [FELT - Life \[Eris's "a Fate Encounter" mix\] (\[OSC\]Amagai) \[Lunatic\]](https://osu.ppy.sh/beatmaps/1971029)
+  - [Draw the Emotional & Foreground Eclipse - Stay by my side (Herkkupala) \[puxtu's Lunatic\]](https://osu.ppy.sh/beatmaps/968811)
+  - [ARM - Saita, Kimi no Egao (Julie) \[I can Fly\]](https://osu.ppy.sh/beatmaps/967569)
+  - [Various Artists - Chordial Blitz (DourGent) \[Venetian Drums - Sheenoboo\]](https://osu.ppy.sh/beatmaps/1703314)
+  - [Joywave - Yolomania Selections (Daybreak) \[1.1x\]](https://osu.ppy.sh/beatmaps/2066048)
+  - [BilliumMoto - life flashes before weeb eyes (Hydria) \[Tech\]](https://osu.ppy.sh/beatmaps/2041466)
+  - [void - Just Hold On (LovelySerenade) \[Flawless Diversion (challenge)\]](https://osu.ppy.sh/beatmaps/1467814)
+  - [Rengoku Teien - Suikyou Heaven (Kamikaze) \[Oriental // justhow x Kamikaze\]](https://osu.ppy.sh/beatmaps/1755454)
+  - [Mick Gordon - Rip and tear (Herkkupala) \[Revenant\]](https://osu.ppy.sh/beatmaps/1970086)
 - Tiebreaker
-  - **[Kano - Stella-rium (DJ Noriken Bootleg) (Lude) \[Koneko's Celestial // 4K\]](https://osu.ppy.sh/b/1253374)**
+  - **[Kano - Stella-rium (DJ Noriken Bootleg) (Lude) \[Koneko's Celestial // 4K\]](https://osu.ppy.sh/beatmaps/1253374)**
 
 ## Match results
 
 ### Finals
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **\[Crz\]Murasame** | **7** | 3 | \[Crz\]FolAH1217 | [#1](https://osu.ppy.sh/community/matches/54022298) |
 | \[Crz\]Satori | 1 | **7** | **\[Crz\]FolAH1217** | [#1](https://osu.ppy.sh/community/matches/54020340) |
@@ -218,7 +218,7 @@ The osu!mania 4K Chinese National Cup 2019 was run by various community members.
 
 ### Semifinals
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Pureforever** | **7** | 0 | Kakuko | -Win by Default- |
 | **\[Crz\]Satori** | **7** | 4 | \[Crz\]FolAH1217 | [#1](https://osu.ppy.sh/community/matches/53331754) |
@@ -230,7 +230,7 @@ The osu!mania 4K Chinese National Cup 2019 was run by various community members.
 
 ### Quarterfinals
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | ImmortalphoeniX | 0 | **6** | **\[Crz\]Murasame** | [#1](https://osu.ppy.sh/community/matches/53166697) |
 | AradORiOn\_MMM | 0 | **6** | **Ecivon** | -Win by Default- |
@@ -243,7 +243,7 @@ The osu!mania 4K Chinese National Cup 2019 was run by various community members.
 
 ### Round of 16
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **\[Crz\]FolAH1217** | **6** | 3 | \[Crz\]HDRoop_7 | [#1](https://osu.ppy.sh/community/matches/53006585) |
 | \[Crz\]Serika | 4 | **6** | **ImmortalphoeniX** | [#1](https://osu.ppy.sh/community/matches/53005544) |
@@ -256,7 +256,7 @@ The osu!mania 4K Chinese National Cup 2019 was run by various community members.
 
 ### Group stage
 
-| Player 1 | | | Player 2 | Match link |
+| Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | ImmortalphoeniX | 0 | **5** | **\[Crz\]Satori** | [#1](https://osu.ppy.sh/community/matches/52732581) |
 | \[Crz\]I-Night | 4 | **5** | **\[Crz\]FolAH1217** | [#1](https://osu.ppy.sh/community/matches/52787715) |
@@ -285,51 +285,51 @@ The osu!mania 4K Chinese National Cup 2019 was run by various community members.
 
 ## Ruleset
 
-### Tournament Rules
+### Tournament rules
 
 1. This is a osu!mania head-to-head individual tournament for Chinese players.
 2. This tourney will be using 4-key score v2, and will have two stages: a double elimination group stage followed by a double elimination bracket stage. A qualifiers stage will be used should the player count for this tourney surpass 32 eligible players.
 3. There is no limit on the number of the players that will enter. Any and all whom we deem as a "cheater" or "suspicious", screened by both the tourney and the official osu! staff, will not be allowed entry into the tournament. Note that failure to read the entire forum post during sign-up may cause the player to not be eligible until the issue is resolved, so please read the entire post first!
 4. This tournament is for Chinese players only, including players from Mainland Chinese territories (People's Republic of China/China), Taiwan territories (Taiwan China (PRC Taiwan)/Taiwan/Republic of China/China/Chinese Taipei/Formosa), Hong Kong territories (Hong Kong/Hong Kong SAR China/China), Macau territories (Macau/Macau SAR China/China). Please note that this tournament has nothing to do with politics and views about the territories of China, so please take whichever name you feel to call these territories listed in the brackets above. Only players with the flags of the territories listed above is eligible for playing.
-5. The discord server will be the source of pretty much all the information for this tournament, so if you're joining, either as player, staff, or even as a spectator, you'll want to join for all of the latest updates. Players are required to join the official discord to be eligible of playing in the tournament. For those who cannot access discord, we have a QQ server containing the methods which could help you better access discord. Click here for the discord link.QQ server number: 597317576
+5. The discord server will be the source of pretty much all the information for this tournament, so if you're joining, either as player, staff, or even as a spectator, you'll want to join for all of the latest updates. Players are required to join the official discord to be eligible of playing in the tournament. For those who cannot access discord, we have a QQ server containing the methods which could help you better access discord. Click here for the discord link. QQ server number: 597317576
 6. For all of the details of the rules of the tourney, refer to the Information document here or in the discord channel. The discord channel and that document will have all the information you need, and the discord channel will be where future announcements will be made! So make sure you join the channel if you are participating.
 
-### Tournament Registration
+### Tournament registration
 
 1. There is no rank range for this tournament, but players who have cleared the 9th dan (96% accuracy in score v1) in the regular 4k Dan course is highly recommended to join. But please feel free to join if you are below this recommended level, as it's a great opportunity to improve and make new friends.
 2. To be eligible for playing, one must:
-    - Have more than 30 hours of playtime or 1,000,000 total hits in osu!mania.
-    - Have not been banned/majorly restricted in the past year.
-    - Pass a background check by osu!staff and the tournament staff.
-    - Include the answer "lfnb!" in the question "Do you have anything else to say?"
+   - Have more than 30 hours of playtime or 1,000,000 total hits in osu!mania.
+   - Have not been banned/majorly restricted in the past year.
+   - Pass a background check by osu!staff and the tournament staff.
+   - Include the answer "lfnb!" in the question "Do you have anything else to say?"
 3. We reserve the right to deny any and all suspicious accounts/players from participating in the tournament.
 Players must abide to the osu! terms of service.
 
-### Stage Instructions
+### Stage instructions
 
 1. In the first stage (Group Stage), the players will be divided into 8 groups of 4 players.
-    - This may change depending on how many players are accepted into the competition at the end.
+   - This may change depending on how many players are accepted into the competition at the end.
 2. All the players from each group will face each other.
 3. Rankings of each group are determined by sorting the results of each player's performance in the following priority:
-    - Most matches won.
-    - Have higher `{(the number of beatmaps won) - (the number of beatmaps defeated)}`.
-    - Most beatmaps won.
-    - **Winner of the match played previously between the tied players.**
-    - In the event of a triple tie:
-      - Have higher `∑{(total score difference) / (maximum score)}`.
-      - Winner of the rematch.
+   - Most matches won.
+   - Have higher `{(the number of beatmaps won) - (the number of beatmaps defeated)}`.
+   - Most beatmaps won.
+   - **Winner of the match played previously between the tied players.**
+   - In the event of a triple tie:
+     - Have higher `∑{(total score difference) / (maximum score)}`.
+     - Winner of the rematch.
 4. The top 2 players of each group will move on to the Knock-Out Stages.
-    - This may change with the actual Group Stage setup.
+   - This may change with the actual Group Stage setup.
 5. Following stages are Double Elimination Stages. This means that the winner moves on to the next stage and the losing player gets moved to the Losers' bracket.
 6. The **Winning conditions** for each stage will be:
-    - In Group Stage, you need to win 5 beatmaps to win a match. (Best-of-9)
-    - In the Round of 16 and the Quarterfinals, you need to win 6 beatmaps to win a match. (Best-of-11)
-    - In Semifinals, **Finals and Grand Finals**, you need to win 7 beatmaps to win a match. (Best-of-13)
+   - In Group Stage, you need to win 5 beatmaps to win a match. (Best-of-9)
+   - In the Round of 16 and the Quarterfinals, you need to win 6 beatmaps to win a match. (Best-of-11)
+   - In Semifinals, **Finals and Grand Finals**, you need to win 7 beatmaps to win a match. (Best-of-13)
 
-### Match Instructions
+### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-    - Room settings are osu!mania, Head-To-Head, Win Condition: 'ScoreV2'. Room name must be "MCNC: (Red) vs (Blue)".
+   - Room settings are osu!mania, Head-To-Head, Win Condition: 'ScoreV2'. Room name must be "MCNC: (Red) vs (Blue)".
 2. Warmups during the Group Stages may not have a length higher than 3 minutes. Bracket Stages may be no longer than 5 minutes (unless agreed by both side). Warmups are optional when allowed.
 3. Players are allowed to ban 1 map each for each match alternating between the players with no restrictions except that each player must ban from mappool.
 Before matches will start, the captain of each player will roll and the one with the highest roll will choose their warmup first (if they would like their warmup), pick maps from the mappool first and ban one map from the mappool second. Picks will alternate as well.
@@ -341,3 +341,11 @@ Before matches will start, the captain of each player will roll and the one with
 9. In the event of a tie during a map, the map is to be replayed. Should the map need to be replayed more than twice, then the player who selected that map may select another map with the replayed map being banned for the rest of the match. Should the pool run out of eligible maps this way, any nonbanned map may be picked again, overruling the previous rule of "maps picked cannot have been picked during the match yet".
 10. Both players are allowed to restart a map at most once due to disconnects and other technical issues if the map has not proceeded for 30 seconds or longer. Same mods and roster must be used should a restart commence. Please try to fix any and all issues as much as possible prior to the match.
 11. The referees may nullify rules at their discretion if necessary, and have the final say in what occurs during the match.
+
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
