@@ -79,20 +79,22 @@ The Beatmap Spotlights project is organised in pre-defined seasons. Each season 
 
 ### Schedule
 
+This schedule shows the availability of the timeshift lobbies of the upcoming season.
+
 | Event | Time |
 | --: | :-- |
-| Season Start | |
-| Timeshift Lobby: Week A | |
-| Timeshift Lobby: Week B | |
-| Timeshift Lobby: Week C | |
-| Timeshift Lobby: Week D | |
-| Timeshift Lobby: Week A | |
-| Timeshift Lobby: Week B | |
-| Timeshift Lobby: Week C | |
-| Timeshift Lobby: Week D | |
-| Timeshift Lobby: Week A,B | |
-| Timeshift Lobby: Week C,D | |
-| Season End | |
+| Season Start | 2020-07-06 |
+| Timeshift Lobby: Playlist A | 2020-07-10 - 2020-07-12 |
+| Timeshift Lobby: Playlist B | 2020-07-17 - 2020-07-19 |
+| Timeshift Lobby: Playlist C | 2020-07-24 - 2020-07-26 |
+| Timeshift Lobby: Playlist D | 2020-07-31 - 2020-08-02 |
+| Timeshift Lobby: Playlist A | 2020-08-07 - 2020-08-09 |
+| Timeshift Lobby: Playlist B | 2020-08-14 - 2020-08-16 |
+| Timeshift Lobby: Playlist C | 2020-08-21 - 2020-08-23 |
+| Timeshift Lobby: Playlist D | 2020-08-28 - 2020-08-30 |
+| Timeshift Lobby: Playlist A,B | 2020-09-04 - 2020-09-06 |
+| Timeshift Lobby: Playlist C,D | 2020-09-11 - 2020-09-13 |
+| Season End | 2020-09-13 |
 
 ### Weekly Multiplayer Lobbies
 
