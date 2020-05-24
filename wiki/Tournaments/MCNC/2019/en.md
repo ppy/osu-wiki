@@ -92,7 +92,7 @@ The osu!mania 4K Chinese National Cup 2019 was run by various community members.
 - 2nd place : \[Crz\]FolAH1217
 - 3rd place : \[Crz\]Satori
 
-![MCNC 2019 bracket](img/Bracket.png)
+![MCNC 2019 bracket](img/bracket.png)
 
 ## Mappools
 
