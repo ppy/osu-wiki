@@ -309,8 +309,7 @@ This competition has come to an end and resulted in the following podium:
    - Have not been banned/majorly restricted in the past year.
    - Pass a background check by osu!staff and the tournament staff.
    - Include the answer "lfnb!" in the question "Do you have anything else to say?"
-3. We reserve the right to deny any and all suspicious accounts/players from participating in the tournament.
-Players must abide to the osu! terms of service.
+3. We reserve the right to deny any and all suspicious accounts/players from participating in the tournament. Players must abide to the osu! terms of service.
 
 ### Stage instructions
 
