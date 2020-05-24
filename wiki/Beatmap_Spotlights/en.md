@@ -79,7 +79,7 @@ The Beatmap Spotlights project is organised in pre-defined seasons. Each season 
 
 ### Schedule
 
-This schedule shows the availability of the timeshift lobbies of the upcoming season.
+This schedule shows the availability of the timeshift lobbies of the upcoming season. **THIS FIRST SCHEDULE IS NOT FINALIZED AND CAN CHANGE ANYTIME**
 
 | Event | Time |
 | --: | :-- |
