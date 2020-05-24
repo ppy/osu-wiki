@@ -124,6 +124,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 - **Avoid using more than 5 consecutive 1/4 notes.**
 - **Long streams of 1/2 notes should include, at minimum, a 1/1 pause where natural to implement after every musical phrase**, as these can become too physically demanding for players at this level.
 - **Avoid using chords during consecutive 1/4 note patterns.** However, using a chord to end a pattern is fine.
+- **Avoid anchors consisting of three or more notes.** While they are easy for players to read, longer anchors are strenuous.
 - **Avoid using 1/4 minijacks or other jack patterns.** These patterns are too physically demanding for players at this level.
 - **Manipulating slider velocity is discouraged.** Slider velocity should only be changed for sections of music with different intensities and should not be drastically variable throughout the beatmap.
 - **Long-term slider velocity changes should be between 0.90x and 1.05x.**
@@ -131,14 +132,12 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 Additional guidelines for *4 key Normal* difficulties:
 
 - **Avoid chords with more than 2 notes.** This includes long note patterns that involve notes in more than two columns.
-- **Avoid anchors consisting of three or more notes.** While they are easy for players to read, longer anchors are strenuous.
 
 Additional guidelines for *7 key Normal* difficulties:
 
 - **Avoid chords with more than 3 notes.** This includes long note patterns that involve notes in more than three columns.
 Bracket patterns should be used sparingly.
 - **Long notes played with adjacent keys that are held simultaneously should be released at the same time.** Long notes with multiple release timings require coordination that players of this level cannot reasonably handle.
-- **Avoid anchors consisting of three or more notes.** While they are easy for players to read, longer anchors are strenuous.
 
 If a Normal difficulty is required and used as the *lowest difficulty* of a beatmapset, it should also follow these guidelines:
 
@@ -164,7 +163,6 @@ Additional guidelines for *4 key Hard* difficulties:
 
 - **Avoid chords with more than 3 notes.** This includes long note patterns that involve notes in more than three columns.
 - **Avoid anchors consisting of five or more notes.** While they are easy for players to read, longer anchors are strenuous.
-Keep jump distance in jumpstream at a 1/1 or higher interval. Anything denser than that can hurt readability.
 
 Additional guidelines for *7 key Hard* difficulties:
 

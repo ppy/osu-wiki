@@ -13,16 +13,16 @@ You can discuss this event and follow the most important changes in the **[offic
  
 ## Tournament Schedule
 
-| Event              | Timestamp               |
+| Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2018-07-25/2018-08-08   |
-| Live Drawings      | 2018-08-18 (14:00 UTC)  |
-| Group Stage        | 2018-08-25/2018-08-26   |
-| Round of 16        | 2018-09-01/2018-09-02   |
-| Quarterfinals      | 2018-09-08/2018-09-09   |
-| Semifinals         | 2018-09-15/2018-09-16   |
-| Finals             | 2018-09-22/2018-09-23   |
-| Grand Finals       | 2018-09-29/2018-09-30   |
+| Registration Phase | 2018-07-25/2018-08-08 |
+| Live Drawings | 2018-08-18 (14:00 UTC) |
+| Group Stage | 2018-08-25/2018-08-26 |
+| Round of 16 | 2018-09-01/2018-09-02 |
+| Quarterfinals | 2018-09-08/2018-09-09 |
+| Semifinals | 2018-09-15/2018-09-16 |
+| Finals | 2018-09-22/2018-09-23 |
+| Grand Finals | 2018-09-29/2018-09-30 |
  
 ## Prizes
 

@@ -1615,3 +1615,6 @@
 "proto-bubble":                       "Modding/Proto-bubble"
 "protobubble":                        "Modding/Proto-bubble"
 "pubble":                             "Modding/Proto-bubble"
+
+# Shortcut for NAT meetings
+"nat_meetings": "Modding/NAT_meetings"

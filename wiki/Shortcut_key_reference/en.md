@@ -57,7 +57,7 @@ These shortcuts work anywhere:
 | `C` | Toggle pause and play. |
 | `F4` | Stop playing (resets the current time). |
 | `V` or `F5` | Play the next song. |
-| `J` or `F6`| Opens the jump to menu. |
+| `J` or `F6` | Opens the jump to menu. |
 | `R` | Play a random song. |
 
 ## Song select
@@ -72,13 +72,13 @@ These shortcuts work anywhere:
 | `F3` | Open the beatmap options. |
 | `F5` | Reprocess beatmaps (this may prompt you to continue). |
 | `Shift` + `Delete` | Prompt the delete beatmap dialog. This will ask you if you want to delete the beatmapset (all difficulties), the beatmap (the selected difficulty), or all visible beatmaps. |
-| `Ctrl` + `1` | Switch the game mode to [osu!](/wiki/osu!). |
-| `Ctrl` + `2` | Switch the game mode to [osu!taiko](/wiki/osu!taiko). |
-| `Ctrl` + `3` | Switch the game mode to [osu!catch](/wiki/osu!catch). |
-| `Ctrl` + `4` | Switch the game mode to [osu!mania](/wiki/osu!mania). |
-| `Ctrl` + `Enter` | Play the selected beatmap with the [auto mod](/wiki/Auto). |
-| `Ctrl` + `Shift` + `Enter` | Play the selected beatmap with the [cinema mod](/wiki/Cinema). |
-| `Ctrl` + `A` | Toggle the auto mod. |
+| `Ctrl` + `1` | Switch the game mode to [osu!](/wiki/Game_Modes/osu!). |
+| `Ctrl` + `2` | Switch the game mode to [osu!taiko](/wiki/Game_Modes/osu!taiko). |
+| `Ctrl` + `3` | Switch the game mode to [osu!catch](/wiki/Game_Modes/osu!catch). |
+| `Ctrl` + `4` | Switch the game mode to [osu!mania](/wiki/Game_Modes/osu!mania). |
+| `Ctrl` + `Enter` | Play the selected beatmap with the [Auto mod](/wiki/Game_Modifiers#auto). |
+| `Ctrl` + `Shift` + `Enter` | Play the selected beatmap with the [Cinema mod](/wiki/Game_Modifiers#auto).<!-- TODO: cinema should have its own link --> |
+| `Ctrl` + `A` | Toggle the Auto mod. |
 | `Ctrl` + `F3` or `Ctrl` + `+` | Increase the osu!mania scroll speed (while in osu!mania mode). |
 | `Ctrl` + `F4` or `Ctrl` + `-` | Decrease the osu!mania scroll speed (while in osu!mania mode). |
 | `Ctrl` + `Backspace` | Delete the last word in the search bar. |
@@ -91,10 +91,8 @@ These shortcuts work anywhere:
 
 ### Game modifiers
 
-*Main page: [Game modifiers](/wiki/Game_Modifiers)*
-
-*Note: Pressing the shortcut key will toggle it. You need to be in the game modifiers menu to use these shortcuts.*
-
+*Main page: [Game modifiers](/wiki/Game_Modifiers)*  
+*Note: Pressing the shortcut key will toggle it. You need to be in the game modifiers menu to use these shortcuts.*  
 *Note: Target practice (osu!standard), 1K and 2K (osu!mania), Co-op (osu!mania), and Mirror (osu!mania) do not have shortcuts.*
 
 | Shortcut | Mod |
@@ -107,7 +105,7 @@ These shortcuts work anywhere:
 | `S` twice | Perfect |
 | `D` | Double Time |
 | `D` twice | Nightcore |
-| `F` | Hidden (osu!standard, osu!taiko, and osu!catch) or Fade In (osu!mania)
+| `F` | Hidden (osu!standard, osu!taiko, and osu!catch) or Fade In (osu!mania) |
 | `F` twice | Hidden (osu!mania) |
 | `G` | Flashlight |
 | `Z` | Relax (osu!standard, osu!taiko, and osu!catch) or cycle through xK mods (osu!mania) |
@@ -115,7 +113,7 @@ These shortcuts work anywhere:
 | `C` | Spun Out (osu!standard) |
 | `V` | Auto |
 | `V` twice | Cinema |
-| `B` | Score v2 |
+| `B` | Score V2 |
 | `3` to `9` | 3K to 9K (osu!mania) |
 
 ## Play mode
@@ -170,10 +168,10 @@ These shortcuts work anywhere within the beatmap editor:
 | `Ctrl` + `N` | Prompt to remove all hit objects. |
 | `Ctrl` + `Up/Down Arrow` | Increase/decrease the playback speed by 25%. |
 | `Ctrl` + `Shift` + `Up/Down Arrow` | Increase/decrease the playback speed by 5%. |
-| `F1` | Switch to the [compose](/wiki/Compose) mode. |
-| `F2` | Switch to the [design](/wiki/Design) mode. |
-| `F3` | Switch to the [timing](/wiki/Timing) mode. |
-| `F4` | Open the [song setup](/wiki/Song_Setup) dialog. |
+| `F1` | Switch to the [compose](/wiki/Beatmap_Editor/Compose) mode. |
+| `F2` | Switch to the [design](/wiki/Beatmap_Editor/Design) mode. |
+| `F3` | Switch to the [timing](/wiki/Beatmap_Editor/Timing) mode. |
+| `F4` | Open the [song setup](/wiki/Beatmap_Editor/Song_Setup) dialog. |
 | `F5` | Enter test mode. |
 | `F6` | Open the timing and control points dialog. |
 | `Ctrl` + `P` | Add an uninherited timing point at the current timestamp. If not in the timing mode, this will also open the timing and control points dialog. |
@@ -253,7 +251,7 @@ These shortcuts work anywhere within the beatmap editor:
 
 | Shortcut | Action |
 | :-- | :-- |
-| `W` | Toggle the whistle addition to selection. |
+| `W` | Toggle the Whistle addition to selection. |
 | `E` | Toggle the Finish addition to selection. |
 | `R` | Toggle the Clap addition to selection. |
 | `Shift` + (`Q`, `W`, `E`, or `R`) | Change sampleset for the selection to auto, normal, soft, or drum respectively. |

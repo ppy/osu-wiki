@@ -477,7 +477,7 @@ Sunday, 1 March 2020:
 | #5 | Spaghetti Protectors | 10.6 |
 | #6 | Break4 | 11.2 |
 | #7 | Team 26 | 11.6 |
-| #8 | #TeamTrees |  11.8 |
+| #8 | #TeamTrees | 11.8 |
 | #9 | bruh | 12 |
 | #10 | bacon | 12.6 |
 | #11 | sunglasses emoji | 13 |

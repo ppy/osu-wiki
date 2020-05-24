@@ -10,20 +10,20 @@ The results for the second osu!standard Mapping Olympiad contest are in! See who
 
 This installment of the Mapping Olympiad contest challenged mappers to create a pair of difficulties for *[Virtual Self](https://osu.ppy.sh/beatmaps/artists/28)*'s EON BREAK. As an additional challenge, participants were asked to showcase different mapping styles between the two entries to demonstrate their creativity, in reference to the two personas 'Pathselector' and 'technic-Angel' that make up *Virtual Self*. Below are the results: 
 
-| Rank | Username             | Entry Name             | Musical Relevance (40) | Creativity (60) | Technique (40) | Impression (40) | Hitsounding (20) | Score |
+| Rank | Username | Entry Name | Musical Relevance (40) | Creativity (60) | Technique (40) | Impression (40) | Hitsounding (20) | Score |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| #1   | Necho & Ryuusei Aika | Casual Vole            | 34.5                   | 48.5            | 35             | 36              | 14               | **168**   |
-| #2   | yaspo                | Resilient Bufflehead   | 31.5                   | 52              | 27.5           | 34              | 16.5             | **161.5** |
-| #3   | J1_ & how2miss       | Contemptible Crocodile | 32.5                   | 45              | 35             | 33              | 11.5             | **157**   |
-| #4   | Acyl & _Epreus       | Surly Starling         | 27.5                   | 42              | 29             | 29              | 14               | **141.5** |
-| #5   | Akeruyri             | Uptight Magpie         | 28                     | 41              | 26.5           | 26              | 13.5             | **135**   |
-| #6   | - Matha - & Yugu     | Unethical Sparrow      | 31                     | 33.5            | 28             | 24              | 13               | **129.5** |
-| #7   | Anto & Nuvolina      | Depressed Thrush       | 26                     | 38              | 24.5           | 23              | 15               | **126.5** |
-| #8   | camellirite          | Heroic Marmot          | 22                     | 36              | 25             | 25              | 9                | **117**   |
-| #9   | Innovation           | Comfortable Emu        | 24                     | 33              | 27             | 26              | 6                | **116**   |
-| #10  | [ Zzz ]              | Defensive Sapsucker    | 20                     | 26.5            | 21.5           | 21              | 10.5             | **99.5**  |
-| #11  | _fluffyy             | Apathetic Elephant     | 18.5                   | 26.5            | 15.5           | 16.5            | 7                | **84**    |
-| #12  | AlienSlayerX         | Unique Warbler         | 9                      | 14              | 8              | 9.5             | 3.5              | **44**    |
+| #1 | Necho & Ryuusei Aika | Casual Vole | 34.5 | 48.5 | 35 | 36 | 14 | **168** |
+| #2 | yaspo | Resilient Bufflehead | 31.5 | 52 | 27.5 | 34 | 16.5 | **161.5** |
+| #3 | J1_ & how2miss | Contemptible Crocodile | 32.5 | 45 | 35 | 33 | 11.5 | **157** |
+| #4 | Acyl & _Epreus | Surly Starling | 27.5 | 42 | 29 | 29 | 14 | **141.5** |
+| #5 | Akeruyri | Uptight Magpie | 28 | 41 | 26.5 | 26 | 13.5 | **135** |
+| #6 | - Matha - & Yugu | Unethical Sparrow | 31 | 33.5 | 28 | 24 | 13 | **129.5** |
+| #7 | Anto & Nuvolina | Depressed Thrush | 26 | 38 | 24.5 | 23 | 15 | **126.5** |
+| #8 | camellirite | Heroic Marmot | 22 | 36 | 25 | 25 | 9 | **117** |
+| #9 | Innovation | Comfortable Emu | 24 | 33 | 27 | 26 | 6 | **116** |
+| #10 | [ Zzz ] | Defensive Sapsucker | 20 | 26.5 | 21.5 | 21 | 10.5 | **99.5** |
+| #11 | _fluffyy | Apathetic Elephant | 18.5 | 26.5 | 15.5 | 16.5 | 7 | **84** |
+| #12 | AlienSlayerX | Unique Warbler | 9 | 14 | 8 | 9.5 | 3.5 | **44** |
 
 In **first place** are [**Necho**](https://osu.ppy.sh/users/4086593) and [**Ryuusei Aika**](https://osu.ppy.sh/users/7777875) with a total score of **168**! All of the judges were impressed by their entry, which demonstrated excellence across all categories including achieving the highest scores for Musical Relevance and Impression. Congratulations on joining the ranks of osu!'s *Elite Mappers*!
 

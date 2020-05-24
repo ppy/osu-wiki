@@ -94,7 +94,7 @@ no_native_review: true
 
 | 玩家 | 贡献 |
 | :-- | :-- |
-| ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | 常年担任 BAT/QAT，并在建立 osu!taiko 社区中做出了杰出贡献   |
+| ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | 常年担任 BAT/QAT，并在建立 osu!taiko 社区中做出了杰出贡献 |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | 在建立 osu!catch 社区，Ranking Criteria 重写及比赛事务中做出了杰出贡献 |
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | 长期担任 GMT，并在比赛事务和大量的媒体计划中做出了杰出贡献 |
 | ![][flag_US] [Garven](https://osu.ppy.sh/users/244216) | 常年服务于 BAT/QAT ，并在 Ranking Criteria 重写过程中做出巨大贡献 |

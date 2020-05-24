@@ -338,12 +338,12 @@ This competition has come to an end and resulted in the following podium:
 | Saturday, 2015-03-07 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Australia ![][flag_AU] | 2 | **4** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/14545441) |
-| Singapore ![][flag_SG] | 0 | **4** |  ![][flag_PH] **Philippines** | -win by default- |
+| Singapore ![][flag_SG] | 0 | **4** | ![][flag_PH] **Philippines** | -win by default- |
 | Indonesia ![][flag_ID] | 1 | **4** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/14545446) |
 | Singapore ![][flag_SG] | 0 | **4** | ![][flag_FI] **Finland** | -win by default- |
 | Ukraine ![][flag_UA] | 2 | **4** | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/14546205) |
 | South Korea ![][flag_KR] | 1 | **4** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/14546208) |
-| Australia ![][flag_AU] | 0 | **4** |  ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/14546210) |
+| Australia ![][flag_AU] | 0 | **4** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/14546210) |
 | Germany ![][flag_DE] | 1 | **4** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/14547310) |
 | Finland ![][flag_FI] | 0 | **4** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/14547314) |
 | Italy ![][flag_IT] | 0 | **4** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/14547317) |
