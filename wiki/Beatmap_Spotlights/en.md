@@ -71,11 +71,11 @@ The Beatmap Spotlights project is organised in pre-defined seasons. Each season 
 1. A single season lasts 10 weeks.
 2. Seasons are fully prepared before they start.
   - Every curated beatmap is selected and locked in before a season starts.
-  - Once a season begins, a whole schedule will be released.
+  - Once a season begins, the whole schedule will be released.
 3. Each season is split into weeks. Each week is labeled with a letter.
   - Each letter represents the playlist of a weekly multiplayer lobby.
-  - Weeks cycle through the entire season and repeat twice. The final week will have all weekly playlist available.
-4. Once a season finishes, there will be a break of 3 weeks before a new season begins. Meanwhile, readjustments to the project can be made.
+  - Weeks cycle through the entire season and repeat twice. The final 2 weeks will have the previous playlists grouped into 2 combined playlists.
+4. Once a season finishes, there will be a break of 3 weeks before a new season begins. During that time, readjustments to the project can be made.
 
 ### Schedule
 
@@ -101,27 +101,27 @@ This schedule shows the availability of the timeshift lobbies of the upcoming se
 As of now, joining the weekly multiplayer lobbies requires participants to download and install [osu!lazer](https://github.com/ppy/osu/releases).
 
 1. Every Friday of a season, a single timeshift multiplayer lobby is opened. Everyone can participate for 3 days.
-  - In the final week of a season, a timeshift multiplayer lobby for each playlist will be opened.
+  - In the final 2 weeks of a season, a timeshift multiplayer lobby for the 2 combined playlists will be opened.
 2. Each timeshift multiplayer lobby provides a pre-defined playlist of beatmaps.
   - Each playlist is a subset of the whole roster of curated beatmaps for the current season.
   - Each playlist contains an even distribution of Hard, Insane and Expert beatmaps.
   - Each playlist corresponds with the letter assigned to each week. Therefore, each playlist gets replayed 3 times during a season.
-3. Within a timeshift lobby, everyone competes on a room-specific leaderboard.
-  - Room leaderboards are based on the Ranked Score system. Therefore, only the best play results on each beatmap within the playlist are summed up to a weekly Ranked Score.
+3. Within a timeshift lobby, everyone competes towards a room-specific leaderboard.
+  - Room leaderboards are based on the Ranked Score system. Therefore, only the best score results on each beatmap within the playlist are summed up to create a weekly Ranked Score for each user.
   - Each beatmap of a playlist counts equally to the leaderboard score. Harder difficulties do not provide more score.
   - Individual beatmap score is based on osu!lazer's scoring system.
-4. The weekly total Ranked Score visible in the timeshift lobby is called "weekly Ranked Score" onwards.
-4. Once a timeshift lobby concludes, the weekly Ranked Score of each participant of the room is being translated into the Seasonal Leaderboard.
+4. The weekly total Ranked Score visible in the timeshift lobby is called "Weekly Ranked Score" onwards.
+4. Once a timeshift lobby concludes, the Weekly Ranked Score of each participant of the room is added to the Seasonal Leaderboard.
 
 ### Seasonal Leaderboard
 
 The Seasonal Leaderboard sums up the weekly Ranked Score results of every participant. Based on the Seasonal Leaderboard, the league bracket of every participant is defined and awarded.
 
-1. Seasonal leaderboard score is a weighed sum of all weekly Ranked Scores attained in the timeshift lobbies.
-2. Participants can only possess one weekly Ranked Score per playlist.
-  - Replaying a playlist at another week will make only the best weekly Ranked Score count, overwriting the worse one.
+1. Seasonal leaderboard score is a weighed sum of all Weekly Ranked Scores attained in the timeshift lobbies.
+2. Participants can only possess one Weekly Ranked Score per playlist.
+  - Replaying a playlist at another week will make only the best Weekly Ranked Score count, overwriting the worse one.
 3. Participants will not be told their exact Seasonal Leaderboard placing or score. They will be assigned to league brackets instead.
-  - Only the top 100 of the seasonal leaderboard will have their exact placing visible.
+  - Only the top 50 of the seasonal leaderboard will have their exact placing visible.
   - The bracket is assigned based on the placement within the leaderboard. Participants will be assigned the highest bracket they are eligible for.
 4. The assigned bracket will be revealed once the 2nd week of a season has concluded.
 
@@ -141,7 +141,7 @@ The Seasonal Leaderboard sums up the weekly Ranked Score results of every partic
 Rewards are distributed to weekly timeshift lobby winners, creators of curated beatmaps and every participant present on the seasonal leaderboard.
 
 1. The top 10 of each weekly timeshift lobby will be awarded with 1 week of osu! supporter tags.
-2. At the end of each season, the best beatmap creator will be awarded with 1 month of supporter tag.
+2. At the end of each season, the best beatmap creator, as decided by the curators, will be awarded with 1 month of supporter tag.
 3. At the end of each season, every participant is awarded a permanent medal representing their final bracket placement.
   - This feature is currently not implemented on the osu! website. A listing of earned medals per user will be provided elsewhere for the time being.
 4. At the end of each season, a new unlockable medal will be added. Players need to complete every beatmap of this season once to obtain it.
@@ -156,13 +156,13 @@ The curation system involves the process of curators selecting the beatmaps bein
    - The selection process itself varies between game modes and adjusts around the needs of the respective members.
 2. Beatmaps are selected based on their uniqueness and excellence. Each selected beatmap should be a leading example of content quality in gameplay, design and aesthetics.
 3. Curated beatmaps serve as recommendations to the entire osu! community.
-4. To fulfill the duty of recommending excellent beatmaps to the whole community, curated beatmaps must cover a specific spread of Hard, Insane and Expert difficulties.
-   - 25% of all curated beatmaps must be within the Hard difficulty tier.
-   - 45% of all curated beatmaps must be within the Insane difficulty tier.
-   - 30% of all curated beatmaps must be within the Expert difficulty tier.
+4. To fulfill the duty of recommending excellent beatmaps to the whole community, curated beatmaps should cover a specific spread of Hard, Insane and Expert difficulties.
+   - 25% of all curated beatmaps should be within the Hard difficulty tier.
+   - 45% of all curated beatmaps should be within the Insane difficulty tier.
+   - 30% of all curated beatmaps should be within the Expert difficulty tier.
 5. For each season, 20 beatmaps must be selected at minimum.
    - All selected beatmaps must be Ranked.
-   - When selecting more beatmaps, the distribution between difficulty tiers must be followed.
+   - When selecting more beatmaps, the distribution between difficulty tiers should be followed.
    - Curators can select multiple beatmaps of the same beatmap set.
 6. Curated beatmaps should be a healthy mix of recent and established content.
    - At least 25% of the curated beatmap difficulties must have been Ranked within the last 3 months prior the season start.
