@@ -91,9 +91,13 @@ The osu!mania 4K Chinese National Cup 2019 was run by various community members.
 
 ### Podium and bracket
 
-- 1st place: ![][flag_HK] [\[Crz\]Murasame](https://osu.ppy.sh/users/11563203)
-- 2nd place: ![][flag_TW] [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458)
-- 3rd place: ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178)
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_HK] [\[Crz\]Murasame](https://osu.ppy.sh/users/11563203) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_TW] [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178) |
 
 ![MCNC 2019 bracket](img/bracket.png)
 
