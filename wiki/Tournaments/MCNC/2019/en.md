@@ -1,6 +1,7 @@
 ---
 tags:
-  - MCNC 2019
+  - MCNC
+  - MCNC2019
 ---
 
 # osu!mania 4K Chinese National Cup 2019
@@ -24,9 +25,9 @@ The **osu!mania 4K Chinese National Cup 2019** (***MCNC 2019***) was a country-b
 
 ## Prizes
 
-| Placing | Prize(s) |
+| Placing | Prizes |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | CNY 1,000, Niz 104 Keyboard, profile badge, invite to team \[Crz\]Team, Rhythm-gaming professional Keycaps (x4), 4 months of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | CNY 1,000, Niz 104 Keyboard, profile badge, invite to the \[Crz\]Team, Rhythm-gaming professional Keycaps (x4), 4 months of osu!supporter tag |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | CNY 600, Niz 87 Keyboard, Rhythm-gaming professional Keycaps (x4), 2 months of osu!supporter tag |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | CNY 400, EnjoyPBT Keycaps, Rhythm-gaming professional Keycaps (x4), 1 months of osu!supporter tag |
 
@@ -34,7 +35,7 @@ The **osu!mania 4K Chinese National Cup 2019** (***MCNC 2019***) was a country-b
 
 The osu!mania 4K Chinese National Cup 2019 was run by various community members.
 
-| Position | Member(s) |
+| Position | Members |
 | :-- | :-- |
 | Manager | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [\[Crz\]NucleoAP](https://osu.ppy.sh/users/9237208), ![][flag_NZ] [Worms](https://osu.ppy.sh/users/1963937), ![][flag_US] [dblade](https://osu.ppy.sh/users/4272841), ![][flag_CN] [crazybrother](https://osu.ppy.sh/users/8045083) |
 | Map selector | ![][flag_CN] [\[Crz\]xz1z1z](https://osu.ppy.sh/users/10500832), ![][flag_NZ] [Worms](https://osu.ppy.sh/users/1963937), ![][flag_BR] [Sillyfangirl](https://osu.ppy.sh/users/2288363), ![][flag_MX] [\[Crz\]Noire](https://osu.ppy.sh/users/6031847), ![][flag_US] [\[Crz\]sel](https://osu.ppy.sh/users/9452257), ![][flag_MX] [\[Crz\]Crystalize](https://osu.ppy.sh/users/3072763) |
@@ -80,7 +81,7 @@ The osu!mania 4K Chinese National Cup 2019 was run by various community members.
 | #23 | ![][flag_CN] [Ecivon](https://osu.ppy.sh/users/9430102) |
 | #24 | ![][flag_CN] [Stink God](https://osu.ppy.sh/users/7381269) |
 
-## Groups
+### Groups
 
 | Group A | Group B | Group C | Group D | Group E | Group F | Group G | Group H |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -88,9 +89,11 @@ The osu!mania 4K Chinese National Cup 2019 was run by various community members.
 | LFWY | \[RT\]Alleyne | \[Crz\]I-Night | ImmortalphoeniX | \[Crz\]Serika | AW ZERO | Sakaki | Pureforever |
 | Lo_liFish2000 | Tamaki Iroha | \[RT\]Mrqianmo | Namida KL | snowkyou | Ecivon | - xiaoluoli - | ying huo |
 
-- 1st place : \[Crz\]Murasame
-- 2nd place : \[Crz\]FolAH1217
-- 3rd place : \[Crz\]Satori
+### Podium and bracket
+
+- 1st place: ![][flag_HK] [\[Crz\]Murasame](https://osu.ppy.sh/users/11563203)
+- 2nd place: ![][flag_TW] [\[Crz\]FolAH1217](https://osu.ppy.sh/users/6232458)
+- 3rd place: ![][flag_CN] [\[Crz\]Satori](https://osu.ppy.sh/users/7082178)
 
 ![MCNC 2019 bracket](img/bracket.png)
 
@@ -220,20 +223,20 @@ The osu!mania 4K Chinese National Cup 2019 was run by various community members.
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Pureforever** | **7** | 0 | Kakuko | -Win by Default- |
+| **Pureforever** | **7** | 0 | Kakuko | *win by default* |
 | **\[Crz\]Satori** | **7** | 4 | \[Crz\]FolAH1217 | [#1](https://osu.ppy.sh/community/matches/53331754) |
 | **Kakuko** | **7** | 6 | \[Crz\]Serika | [#1](https://osu.ppy.sh/community/matches/53309484) |
 | **Pureforever** | **7** | 1 | Ecivon | [#1](https://osu.ppy.sh/community/matches/53308594) |
 | Stink God | 3 | **7** | **\[Crz\]Murasame** | [#1](https://osu.ppy.sh/community/matches/53307268) |
-| \[RT\]Mrqianmo | 0 | 0 | \[Crz\]HDRoop_7 | **[Fake Match](https://osu.ppy.sh/community/matches/53304213)** |
-| ImmortalphoeniX | 0 | **7** | **tyrcs** | -Win by Default- |
+| \[RT\]Mrqianmo | 0 | 0 | \[Crz\]HDRoop_7 | *[fake match](https://osu.ppy.sh/community/matches/53304213)* |
+| ImmortalphoeniX | 0 | **7** | **tyrcs** | *win by default* |
 
 ### Quarterfinals
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | ImmortalphoeniX | 0 | **6** | **\[Crz\]Murasame** | [#1](https://osu.ppy.sh/community/matches/53166697) |
-| AradORiOn\_MMM | 0 | **6** | **Ecivon** | -Win by Default- |
+| AradORiOn\_MMM | 0 | **6** | **Ecivon** | *win by default* |
 | Kakuko | 1 | **6** | **\[Crz\]Satori** | [#1](https://osu.ppy.sh/community/matches/53163071) |
 | **\[Crz\]FolAH1217** | **6** | 2 | Pureforever | [#1](https://osu.ppy.sh/community/matches/53147887) |
 | **\[Crz\]HDRoop_7** | **6** | 0 | Lo\_liFish2000 | [#1](https://osu.ppy.sh/community/matches/53146211) |
@@ -266,29 +269,29 @@ The osu!mania 4K Chinese National Cup 2019 was run by various community members.
 | snowkyou | 1 | **5** | **tyrcs** | [#1](https://osu.ppy.sh/community/matches/52814391) |
 | \[RT\]Alleyne | 1 | **5** | **\[Crz\]Murasame** | [#1](https://osu.ppy.sh/community/matches/52815303) |
 | Ecivon | 1 | **5** | **AW ZERO** | [#1](https://osu.ppy.sh/community/matches/52815363) |
-| **Ecivon** | **5** | 0 | \[Crz\]HDRoop_7 | -Win by Default- |
+| **Ecivon** | **5** | 0 | \[Crz\]HDRoop_7 | *win by default* |
 | **\[Crz\]Serika** | **5** | 3 | tyrcs | [#1](https://osu.ppy.sh/community/matches/52816796) |
-| **Lo\_liFish2000** | **5** | 0 | LFWY | -Win by Default- |
+| **Lo\_liFish2000** | **5** | 0 | LFWY | *win by default* |
 | \[RT\]Mrqianmo | 1 | **5** | **\[Crz\]FolAH1217** | [#1](https://osu.ppy.sh/community/matches/52817851) |
 | - xiaoluoli - | 1 | **5** | **Kakuko** | [#1](https://osu.ppy.sh/community/matches/52817901) |
 | Stink God | 1 | **5** | **Pureforever** | [#1](https://osu.ppy.sh/community/matches/52818187) |
 | AW ZERO | 0 | **5** | **\[Crz\]HDRoop_7** | [#1](https://osu.ppy.sh/community/matches/52836502) |
-| Sakaki | 0 | **5** | **Kakuko** | -Win by Default- |
-| **- xiaoluoli -** | **5** | 0 | Sakaki | -Win by Default- |
+| Sakaki | 0 | **5** | **Kakuko** | *win by default* |
+| **- xiaoluoli -** | **5** | 0 | Sakaki | *win by default* |
 | Lo\_liFish2000 | 0 | **5** | **AradORiOn\_MMM** | [#1](https://osu.ppy.sh/community/matches/52845212) |
-| LFWY | 0 | **5** | **AradORiOn\_MMM** | -Win by Default- |
+| LFWY | 0 | **5** | **AradORiOn\_MMM** | *win by default* |
 | **\[RT\]Mrqianmo** | **5** | 2 | \[Crz\]I-Night | [#1](https://osu.ppy.sh/community/matches/52846150) |
-| Namida KL | 0 | **5** | **\[Crz\]Satori** | -Win by Default- |
-| Namida KL | 0 | **5** | **ImmortalphoeniX** | -Win by Default- |
-| ying huo | 0 | **5** | **Stink God** | -Win by Default- |
-| ying huo | 0 | **5** | **Pureforever** | -Win by Default- |
+| Namida KL | 0 | **5** | **\[Crz\]Satori** | *win by default* |
+| Namida KL | 0 | **5** | **ImmortalphoeniX** | *win by default* |
+| ying huo | 0 | **5** | **Stink God** | *win by default* |
+| ying huo | 0 | **5** | **Pureforever** | *win by default* |
 
 ## Ruleset
 
 ### Tournament rules
 
 1. This is a osu!mania head-to-head individual tournament for Chinese players.
-2. This tourney will be using 4-key score v2, and will have two stages: a double elimination group stage followed by a double elimination bracket stage. A qualifiers stage will be used should the player count for this tourney surpass 32 eligible players.
+2. This tourney will be using 4-key ScoreV2, and will have two stages: a double elimination group stage followed by a double elimination bracket stage. A qualifiers stage will be used should the player count for this tourney surpass 32 eligible players.
 3. There is no limit on the number of the players that will enter. Any and all whom we deem as a "cheater" or "suspicious", screened by both the tourney and the official osu! staff, will not be allowed entry into the tournament. Note that failure to read the entire forum post during sign-up may cause the player to not be eligible until the issue is resolved, so please read the entire post first!
 4. This tournament is for Chinese players only, including players from Mainland Chinese territories (People's Republic of China/China), Taiwan territories (Taiwan China (PRC Taiwan)/Taiwan/Republic of China/China/Chinese Taipei/Formosa), Hong Kong territories (Hong Kong/Hong Kong SAR China/China), Macau territories (Macau/Macau SAR China/China). Please note that this tournament has nothing to do with politics and views about the territories of China, so please take whichever name you feel to call these territories listed in the brackets above. Only players with the flags of the territories listed above is eligible for playing.
 5. The discord server will be the source of pretty much all the information for this tournament, so if you're joining, either as player, staff, or even as a spectator, you'll want to join for all of the latest updates. Players are required to join the official discord to be eligible of playing in the tournament. For those who cannot access discord, we have a QQ server containing the methods which could help you better access discord. Click here for the discord link. QQ server number: 597317576
@@ -296,7 +299,7 @@ The osu!mania 4K Chinese National Cup 2019 was run by various community members.
 
 ### Tournament registration
 
-1. There is no rank range for this tournament, but players who have cleared the 9th dan (96% accuracy in score v1) in the regular 4k Dan course is highly recommended to join. But please feel free to join if you are below this recommended level, as it's a great opportunity to improve and make new friends.
+1. There is no rank restriction for this tournament, but players who have cleared the 9th Dan (96% accuracy in ScoreV1) in the regular 4K Dan course are highly recommended to join. But please feel free to join if you are below this recommended level, as it's a great opportunity to improve and make new friends.
 2. To be eligible for playing, one must:
    - Have more than 30 hours of playtime or 1,000,000 total hits in osu!mania.
    - Have not been banned/majorly restricted in the past year.
@@ -318,17 +321,17 @@ Players must abide to the osu! terms of service.
    - In the event of a triple tie:
      - Have higher `∑{(total score difference) / (maximum score)}`.
      - Winner of the rematch.
-4. The top 2 players of each group will move on to the Knock-Out Stages.
+4. The top 2 players of each group will move on to the knock-out stages.
    - This may change with the actual Group Stage setup.
-5. Following stages are Double Elimination Stages. This means that the winner moves on to the next stage and the losing player gets moved to the Losers' bracket.
+5. Following stages are double elimination stages. This means that the winner moves on to the next stage and the losing player gets moved to the losers' bracket.
 6. The **Winning conditions** for each stage will be:
-   - In Group Stage, you need to win 5 beatmaps to win a match. (Best-of-9)
-   - In the Round of 16 and the Quarterfinals, you need to win 6 beatmaps to win a match. (Best-of-11)
-   - In Semifinals, **Finals and Grand Finals**, you need to win 7 beatmaps to win a match. (Best-of-13)
+   - In Group Stage, you need to win 5 beatmaps to win a match. (best of 9)
+   - In the Round of 16 and the Quarterfinals, you need to win 6 beatmaps to win a match. (best of 11)
+   - In Semifinals, **Finals and Grand Finals**, you need to win 7 beatmaps to win a match. (best of 13)
 
 ### Match instructions
 
-1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period. Room settings are osu!mania, Head-To-Head, Win Condition: 'ScoreV2'. Room name must be "MCNC: (Red) vs (Blue)".
+1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period. Room settings are osu!mania, Head-To-Head, Win Condition: "ScoreV2". Room name must be "MCNC: (Red) vs (Blue)".
 2. Warmups during the Group Stages may not have a length higher than 3 minutes. Bracket Stages may be no longer than 5 minutes (unless agreed by both side). Warmups are optional when allowed.
 3. Players are allowed to ban 1 map each for each match alternating between the players with no restrictions except that each player must ban from mappool.
 Before matches will start, the captain of each player will roll and the one with the highest roll will choose their warmup first (if they would like their warmup), pick maps from the mappool first and ban one map from the mappool second. Picks will alternate as well.
