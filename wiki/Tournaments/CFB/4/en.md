@@ -77,19 +77,16 @@ The Catch French Beginner 4 is run by various community members.
 | C | ![][flag_FR] [Riki no Kage](https://osu.ppy.sh/users/1549032) | ![][flag_FR] [-Dragolord-](https://osu.ppy.sh/users/9473359) | ![][flag_FR] [MarsJackson](https://osu.ppy.sh/users/8479894) | ![][flag_FR] [Athedos](https://osu.ppy.sh/users/10722269) |
 | D | ![][flag_FR] [Jibsz](https://osu.ppy.sh/users/12269489) | ![][flag_FR] [Trifano](https://osu.ppy.sh/users/15126172) | ![][flag_CA] [Zyoulou](https://osu.ppy.sh/users/8668722) | ![][flag_FR] [sullymaster](https://osu.ppy.sh/users/6765259) |
 
-## Match schedule: Finals
+## Match schedule: Grand Finals
 
-Saturday, 23 May 2020:
-
-| Match ID | Player A | Player B | Match time (UTC+2) |
-| :-: | --: | :-- | :-: |
-| #31 | Remyria ![][flag_CA] | ![][flag_FR] Hecatia15 | **19:00** |
-
-Sunday, 24 May 2020:
+Saturday, 30 May 2020:
 
 | Match ID | Player A | Player B | Match time (UTC+2) |
 | :-: | --: | :-- | :-: |
-| #32 | Trifano ![][flag_FR] | ![][flag_FR] Madeline | **18:00** |
+| #38 | Remyria ![][flag_CA] | ![][flag_FR] Hecatia15 | **19:00** |
+| #39¹ | Hecatia ![][flag_FR] | ![][flag_CA] Remyria | **20:00** |
+
+¹ Match will take place if Player B wins match #38
 
 ## Mappools
 
