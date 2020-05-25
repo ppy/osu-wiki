@@ -3,6 +3,7 @@ tags:
   - development
   - server
   - 开发
+no_native_review: true
 ---
 
 # osu!dev Discord 服务器
