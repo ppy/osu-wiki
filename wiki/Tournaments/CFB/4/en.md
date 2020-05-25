@@ -110,7 +110,7 @@ Saturday, 30 May 2020:
   - [Hidamari Sketch Cast - Sketch Switch (Mafiamaster) \[Insane\]](https://osu.ppy.sh/beatmapsets/4624#fruits/24626)
   - [Blue Stahli - Suit Up (MBomb) \[Salad\]](https://osu.ppy.sh/beatmapsets/1061425#fruits/2224161)
   - [Masayoshi Minoshima ft. nomico - Bad Apple!! (ignorethis) \[Hard\]](https://osu.ppy.sh/beatmapsets/13177#fruits/87733)
-  - [Nekomata Master feat. *spiLa* - Clumsy thoughts (wonjae) \[Salad\]](https://osu.ppy.sh/beatmapsets/801225#fruits/1687560)
+  - [Nekomata Master feat. \*spiLa\* - Clumsy thoughts (wonjae) \[Salad\]](https://osu.ppy.sh/beatmapsets/801225#fruits/1687560)
 - DoubleTime
   - [Cash Cash - Forever Young (ztrot) \[Forever!\]](https://osu.ppy.sh/beatmapsets/21155#fruits/73575)
   - [Hylian Lemon - Foresight Is for Losers (ZiRoX) \[Platter\]](https://osu.ppy.sh/beatmapsets/342751#fruits/757538)
