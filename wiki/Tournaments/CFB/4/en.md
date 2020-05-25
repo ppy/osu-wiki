@@ -90,6 +90,35 @@ Saturday, 30 May 2020:
 
 ## Mappools
 
+### Grand Finals
+
+**[Download the mappack here! (94 MB)](https://wetransfer.com/downloads/c14607c36a2c18e2d9a4f9d858e2cdb320200524222021/776d61)**
+
+- NoMod
+  - [BoA - Lookbook (Irreversible) \[HIGH QUALITY\]](https://osu.ppy.sh/beatmapsets/379890#fruits/833967)
+  - [Mili - Bathtub Mermaid (JeirYagtama) \[Anatomy\]](https://osu.ppy.sh/beatmapsets/684250#fruits/1448086)
+  - [Gentle Stick X M2U - Ineffabilis (buhei) \[-kevincela-'s Insane\]](https://osu.ppy.sh/beatmapsets/340903#fruits/766504)
+  - [Imagine Dragons - Warriors (Minato Yukina) \[Platinum\]](https://osu.ppy.sh/beatmapsets/832873#fruits/1745904)
+  - [LhoU - Renaissance (sahuang) \[Saika's Another\]](https://osu.ppy.sh/beatmapsets/506863#fruits/1078157)
+  - [HyuN - Illusion of Inflict (AJamez) \[AFB's Rain\]](https://osu.ppy.sh/beatmapsets/972887#fruits/2036864)
+- Hidden
+  - [senya - Hitomi ni Kakusareta Omoi (Satellite) \[N a s y a's Lunatic\]](https://osu.ppy.sh/beatmapsets/398921#fruits/872657)
+  - [Tomohito Nishiura - Moonlight Tango (JBHyperion) \[Rain\]](https://osu.ppy.sh/beatmapsets/536001#fruits/1135248)
+  - [Big Giant Circles feat. some1namedjeff - Thunderstruck (Charles445) \[Insane\]](https://osu.ppy.sh/beatmapsets/73267#fruits/208776)
+  - [Fujiwara Chika (CV: Kohara Konomi) - Chikatto Chika Chika (TV Size) (Ascendance) \[MBomb's Rain\]](https://osu.ppy.sh/beatmapsets/926731#fruits/1943595)
+- HardRock
+  - [Hidamari Sketch Cast - Sketch Switch (Mafiamaster) \[Insane\]](https://osu.ppy.sh/beatmapsets/4624#fruits/24626)
+  - [Blue Stahli - Suit Up (MBomb) \[Salad\]](https://osu.ppy.sh/beatmapsets/1061425#fruits/2224161)
+  - [Masayoshi Minoshima ft. nomico - Bad Apple!! (ignorethis) \[Hard\]](https://osu.ppy.sh/beatmapsets/13177#fruits/87733)
+  - [Nekomata Master feat. *spiLa* - Clumsy thoughts (wonjae) \[Salad\]](https://osu.ppy.sh/beatmapsets/801225#fruits/1687560)
+- DoubleTime
+  - [Cash Cash - Forever Young (ztrot) \[Forever!\]](https://osu.ppy.sh/beatmapsets/21155#fruits/73575)
+  - [Hylian Lemon - Foresight Is for Losers (ZiRoX) \[Platter\]](https://osu.ppy.sh/beatmapsets/342751#fruits/757538)
+  - [Triple Bounce - Magic Melody (Nightcore Mix) (Tony) \[Insane\]](https://osu.ppy.sh/beatmapsets/36341#fruits/117418)
+  - [Helblinde - When Time Sleeps (Sinnoh) \[AFB's Platter\]](https://osu.ppy.sh/beatmapsets/554256#fruits/1743650)
+- Tiebreaker
+  - **[Halozy - Paranoid Lost (Kyuare) \[Eternal Wandering\]](https://osu.ppy.sh/beatmapsets/307818#fruits/688531)**
+
 ### Finals
 
 **[Download the mappack here! (86 MB)](https://wetransfer.com/downloads/9e57a92911b54453fbd3f550bceb28df20200517205914/c1d593)**
