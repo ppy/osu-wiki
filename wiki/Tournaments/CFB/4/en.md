@@ -84,7 +84,7 @@ Saturday, 30 May 2020:
 | Match ID | Player A | Player B | Match time (UTC+2) |
 | :-: | --: | :-- | :-: |
 | #38 | Remyria ![][flag_CA] | ![][flag_FR] Hecatia15 | **19:00** |
-| #39¹ | Hecatia ![][flag_FR] | ![][flag_CA] Remyria | **20:00** |
+| #39¹ | Hecatia15 ![][flag_FR] | ![][flag_CA] Remyria | **20:00** |
 
 ¹ Match will take place if Player B wins match #38
 
@@ -248,7 +248,7 @@ Sunday, 24 May 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Trifano** ![][flag_FR] | **7** | 2 | ![][flag_FR] Madeline  | [#1](https://osu.ppy.sh/community/matches/62051294) |
+| **Trifano** ![][flag_FR] | **7** | 2 | ![][flag_FR] Madeline | [#1](https://osu.ppy.sh/community/matches/62051294) |
 | **Hecatia15** ![][flag_FR] | **7** | 5 | ![][flag_FR] Trifano | [#1](https://osu.ppy.sh/community/matches/62055223) |
 
 ### Semifinals
