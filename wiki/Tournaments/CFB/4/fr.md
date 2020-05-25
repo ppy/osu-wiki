@@ -210,6 +210,21 @@ Dimanche, 24 Mai 2020:
 
 ## Résultats des matches
 
+### Finales
+
+Samedi, 23 Mai 2020:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| **Remyria** ![][flag_CA] | **7** | 4 | ![][flag_FR] Hecatia15 | [#1](https://osu.ppy.sh/community/matches/62013551) |
+
+Dimanche, 24 Mai 2020:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| **Trifano** ![][flag_FR] | **7** | 2 | ![][flag_FR] Madeline  | [#1](https://osu.ppy.sh/community/matches/62051294) |
+| **Hecatia15** ![][flag_FR] | **7** | 5 | ![][flag_FR] Trifano | [#1](https://osu.ppy.sh/community/matches/62055223) |
+
 ### Demi-finales
 
 Samedi, 16 Mai 2020:
