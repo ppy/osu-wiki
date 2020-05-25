@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # 회원가입
 
 *경고: 하나이상의 osu!계정을 가지고 있는 것은 규칙 위반입니다! [osu! rules](/wiki/Rules)!* 참조
