@@ -181,7 +181,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the map pack here! (72 MB)](https://puu.sh/DPMoR/9704e02686.rar)**
+**[Download the map pack here! (72 MB)](https://mega.nz/file/TfpwiI6Q#FK3a6lFXIf8atqqvsD2H800GZ-c14GvdWhzjDnX6qfs)**
 
 - NoMod
   - [xi - Blue Zenith (Capu) \[Oni\]](https://osu.ppy.sh/beatmapsets/971982#taiko/2035965)
@@ -208,7 +208,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the map pack here! (91 MB)](https://puu.sh/DMtYB/f84ce587b2.rar)**
+**[Download the map pack here! (91 MB)](https://mega.nz/file/TGpm3ChC#SQjj2LqmZH9ikHdpB92av3pMq8t6JsrTlZr-9faz-y4)**
 
 - NoMod
   - [Reol - Gigantic O.T.N (snowball112) \[Oni\]](https://osu.ppy.sh/beatmapsets/434182#taiko/937232)
