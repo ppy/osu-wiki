@@ -101,7 +101,7 @@ This schedule shows the availability of the timeshift lobbies of the upcoming se
 As of now, joining the weekly multiplayer lobbies requires participants to download and install [osu!lazer](https://github.com/ppy/osu/releases).
 
 1. Every Friday of a season, a single timeshift multiplayer lobby is opened. Everyone can participate for 3 days.
-  - In the final 2 weeks of a season, a timeshift multiplayer lobby for the 2 combined playlists will be opened.
+  - In the final 2 weeks of a season, a timeshift multiplayer lobby for each of the 2 playlists will be opened.
 2. Each timeshift multiplayer lobby provides a pre-defined playlist of beatmaps.
   - Each playlist is a subset of the whole roster of curated beatmaps for the current season.
   - Each playlist contains an even distribution of Hard, Insane and Expert beatmaps.
