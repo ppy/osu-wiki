@@ -61,7 +61,7 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
 - ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600)
 - ![][flag_GB] [Hydria](https://osu.ppy.sh/users/808176)
 - ![][flag_DO] [Kaito-kun](https://osu.ppy.sh/users/4715184)
-- ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098)
+- ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098)
 - ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767)
 
 ## Spotlights Seasons
