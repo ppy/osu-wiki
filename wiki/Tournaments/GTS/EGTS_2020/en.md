@@ -71,132 +71,17 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
 
 ### Qualifiers
 
-**[Download the map pack here! (20 MB)](https://mega.nz/#!4tsAEabY!800Cnbm5zlWGqErHTN9NvRZ8ieeBAqjrQxKWyvoCS9Q)**
+**[Download the map pack here! (20 MB)](https://mega.nz/file/Up932KQS#LK5botTXGb5SwHu-P0aI5xHegT8WmXbQpN1Dm5Fb_74)**
 
 - NoMod
-  - [kors k - Poochie (Nifty) \[Special\]](https://osu.ppy.sh/beatmapsets/946420#taiko/1976130)
-  - [Tati Zaqui - Placa no Chao (Kuron-kun) \[Vem pro baile\]](https://osu.ppy.sh/beatmapsets/737724#taiko/1556963)
+  - [BlackY - KITTY FOILED (TKS) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/903288#taiko/1885701)
+  - [xi - Parousia (D o t) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/956026#taiko/1997110)
 - Hidden
-  - [P\*Light - Gale Rider (Charlotte) \[komasy's Oni\]](https://osu.ppy.sh/beatmapsets/622356#taiko/1313624)
+  - [lapix - Nexta (TKS) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/726669#taiko/1534162)
 - HardRock
-  - [sasakure.UK (feat.Hatsune Miku) - SeventH-HeaveN (\[I\]MMoRTal\[S\]) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/177182#taiko/426542)
+  - [Umeboshi Chazuke - Galaxy in Toybox (asuasu\_yura) \[Oni\]](https://osu.ppy.sh/beatmapsets/709493#taiko/1499865)
 - DoubleTime
-  - [FLOW - Steppin' out (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/933667#taiko/1949159)
-
-## Match Results
-
-### Grand Finals
-
-Saturday, 14 September 2019:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Japan** ![][flag_JP] | **7** | 1 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/54839968) |
-
-### Finals
-
-Saturday, 7 September 2019:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| **Japan** ![][flag_JP] | **7** | 1 | ![][flag_RU] Russian Federation A | [#1](https://osu.ppy.sh/community/matches/54674122) |
-
-Sunday, 8 September 2019:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| South Korea ![][flag_KR] | 4 | **7** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/54691282) |
-| Russian Federation A ![][flag_RU] | 2 | **7** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/54706574) |
-
-### Semifinals
-
-Saturday, 31 August 2019:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| Indonesia A ![][flag_ID] | 4 | **7** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/54504410) |
-| **Russian Federation A** ![][flag_RU] | **7** | 2 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/54507108) |
-| Argentina ![][flag_AR] | 4 | **7** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/54515229) |
-
-Sunday, 1 September 2019:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| Taiwan ![][flag_TW] | 1 | **7** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/54521624) |
-| Netherlands ![][flag_NL] | 6 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/54530786) |
-| Indonesia A ![][flag_ID] | 3 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/54533409)
-
-### Quarterfinals
-
-Saturday, 24 August 2019:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| Argentina ![][flag_AR] | 5 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/54305260) |
-| Germany A ![][flag_DE] | 0 | **6** | ![][flag_ID] **Indonesia A** | [#1](https://osu.ppy.sh/community/matches/54317268) |
-| **Japan** ![][flag_JP] | **6** | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/54317042) |
-| **Russian Federation A** ![][flag_RU] | **6** | 2 | ![][flag_RU] Russian Federation B | [#1](https://osu.ppy.sh/community/matches/54317274) |
-| Canada ![][flag_CA] | 4 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/54318662) |
-| Poland ![][flag_PL] | 1 | **6** | ![][flag_ID] **Indonesia A** | [#1](https://osu.ppy.sh/community/matches/54320532)
-| **Canada** ![][flag_CA] | **6** | 1 | ![][flag_RU] Russian Federation B | [#1](https://osu.ppy.sh/community/matches/54322599) |
-
-Sunday, 25 August 2019:
-
-| Team 1 |  |  | Team 2 | Match link |
-| --: | :-: | :-: | :-- | :-- |
-| South Korea ![][flag_KR] | 3 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/54334906) |
-| Netherlands ![][flag_NL] | 2 | **6** | ![][flag_RU] **Russian Federation A** | [#1](https://osu.ppy.sh/community/matches/54346880) |
-| **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_DE] Germany A | [#1](https://osu.ppy.sh/community/matches/54346891) |
-| **Netherlands** ![][flag_NL] | **6** | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/54349753) |
-| Poland ![][flag_PL] | 0 | **6** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/54360101) |
-
-### Group Stage
-
-Saturday, 17 August 2019:
-
-| Group | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| C4 | Mexico ![][flag_MX] | 2 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/54132793) |
-| D6 | United States B ![][flag_US] | 1 | **5** | ![][flag_US] **United States A** | [#1](https://osu.ppy.sh/community/matches/54133753) |
-| A1 | **Russian Federation B** ![][flag_RU] | **5** | 3 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/54141466) |
-| F5 | **Indonesia B** ![][flag_ID] | **5** | 0 | ![][flag_GB] ![][flag_PT] United Kingdom/Portugal | [#1](https://osu.ppy.sh/community/matches/54142329) |
-| D1 | **Russian Federation A** ![][flag_RU] | **5** | 2 | ![][flag_US] United States B | [#1](https://osu.ppy.sh/community/matches/54143643) |
-| A5 | Malaysia ![][flag_MY] | 3 | **5** | ![][flag_RU] **Russian Federation B** | [#1](https://osu.ppy.sh/community/matches/54143711) |
-| C5 | **Taiwan** ![][flag_TW] | **5** | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/54146452) |
-| A6 | Philippines ![][flag_PH] | 1 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/54146455) |
-| E6 | Scandinavia ![][flag_DK] ![][flag_NO] ![][flag_SE] | 0 | **5** | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/54147726) |
-| C1 | **France** ![][flag_FR] | **5** | 3 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/54149300) |
-| C6 | Mexico ![][flag_MX] | 1 | **5** | ![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/54151830) |
-| E1 | **Germany A** ![][flag_DE] | **5** | 1 | ![][flag_DK] ![][flag_NO] ![][flag_SE] Scandinavia | [#1](https://osu.ppy.sh/community/matches/54152083) |
-| B5 | Chile ![][flag_CL] | 0 | **5** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/54153575) |
-| C3 | **Canada** ![][flag_CA] | **5** | 0 | ![][flag_GB] ![][flag_PT] United Kingdom/Portugal | [#1](https://osu.ppy.sh/community/matches/54153517) |
-
-Sunday, 18 August 2019:
-
-| Group | Team 1 |  |  | Team 2 | Match link |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| F6 | Indonesia A ![][flag_ID] | 3 | **5** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/54159212) |
-| B2 | Chile ![][flag_CL] | 0 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/54160233) |
-| B1 | **Argentina** ![][flag_AR] | **5** | 2 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/54160229) |
-| B3 | **Japan** ![][flag_JP] | **5** | 3 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/54161382) |
-| B4 | Hong Kong ![][flag_HK] | 0 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/54161391) |
-| F2 | Indonesia B ![][flag_ID] | 0 | **5** | ![][flag_CA] **Canada** | *win by default* |
-| B6 | Hong Kong ![][flag_HK] | 1 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/54165254) |
-| F4 | **Indonesia A** ![][flag_ID] | **5** | 0 | ![][flag_ID] Indonesia B | [#1](https://osu.ppy.sh/community/matches/54168881) |
-| A3 | **Poland** ![][flag_PL] | **5** | 1 | ![][flag_RU] Russian Federation B | [#1](https://osu.ppy.sh/community/matches/54168865) |
-| D5 | Brazil ![][flag_BR] | 2 | **5** | ![][flag_RU] **Russian Federation A** | [#1](https://osu.ppy.sh/community/matches/54168668) |
-| A4 | **Philippines** ![][flag_PH] | **5** | 0 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/54170118) |
-| C2 | Taiwan ![][flag_TW] | 0 | **5** | ![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/54169919) |
-| E2 | Venezuela ![][flag_VE] | 0 | **5** | ![][flag_KR] **South Korea** | *win by default* |
-| E3 | **South Korea** ![][flag_KR] | **5** | 2 | ![][flag_DE] Germany A | [#1](https://osu.ppy.sh/community/matches/54171395) |
-| F1 | United Kingdom/Portugal ![][flag_GB] ![][flag_PT] | 4 | **5** | ![][flag_ID] **Indonesia A** | [#1](https://osu.ppy.sh/community/matches/54171441) |
-| A2 | Malaysia ![][flag_MY] | 0 | **5** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/54171560) |
-| D3 | United States A ![][flag_US] | 2 | **5** | ![][flag_RU] **Russian Federation A** | [#1](https://osu.ppy.sh/community/matches/54171222) |
-| C3 | **Netherlands** ![][flag_NL] | **5** | 1 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/54173902) |
-| D4 | United States B ![][flag_US] | 4 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/54175298) |
-| E4 | **Scandinavia** ![][flag_DK] ![][flag_NO] ![][flag_SE] | **5** | 0 | ![][flag_VE] Venezuela | *win by default* |
-| E5 | Venezuela ![][flag_VE] | 0 | **5** | ![][flag_DE] **Germany A** | *win by default* |
-| D2 | **Brazil** ![][flag_BR] | **5** | 3 | ![][flag_US] United States A | [#1](https://osu.ppy.sh/community/matches/54181034) |
+  - [DJ Fresh - Gold Dust (Vyiuri) \[Oni\]](https://osu.ppy.sh/beatmapsets/981799#taiko/2054840)
 
 ## Ruleset
 
