@@ -105,7 +105,7 @@ O Advanced Global Taiko Showdown 2019 foi realizado por vários membros da comun
 | **B** | ![][flag_JP] Japão | ![][flag_AR] Argentina | ![][flag_HK] Hong Kong | ![][flag_CL] Chile |
 | **C** | ![][flag_NL] Países Baixos | ![][flag_FR] França | ![][flag_MX] México | ![][flag_TW] Taiwan |
 | **D** | ![][flag_US] Estados Unidos A | ![][flag_RU] Rússia A | ![][flag_US] Estados Unidos B | ![][flag_BR] Brasil |
-| **E** | ![][flag_KR] Coreia do Sul | ![][flag_DE] Alemanha A | ![][flag_DK] ![][flag_NO] ![][flag_SE] Scandinavia | ![][flag_VE] Venezuela
+| **E** | ![][flag_KR] Coreia do Sul | ![][flag_DE] Alemanha A | ![][flag_DK] ![][flag_NO] ![][flag_SE] Scandinavia | ![][flag_VE] Venezuela |
 | **F** | ![][flag_CA] Canadá | ![][flag_GB] ![][flag_PT] Reino Unido/Portugal | ![][flag_ID] Indonésia A | ![][flag_ID] Indonésia B |
 
 ---
@@ -318,7 +318,7 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 | --: | :-: | :-: | :-- | :-- |
 | Taiwan ![][flag_TW] | 1 | **7** | ![][flag_CA] **Canadá** | [#1](https://osu.ppy.sh/community/matches/54521624) |
 | Países Baixos ![][flag_NL] | 6 | **7** | ![][flag_KR] **Coreia do Sul** | [#1](https://osu.ppy.sh/community/matches/54530786) |
-| Indonésia A ![][flag_ID] | 3 | **7** | ![][flag_KR] **Coreia do Sul** | [#1](https://osu.ppy.sh/community/matches/54533409)
+| Indonésia A ![][flag_ID] | 3 | **7** | ![][flag_KR] **Coreia do Sul** | [#1](https://osu.ppy.sh/community/matches/54533409) |
 
 ### Quartas de final
 
@@ -329,7 +329,8 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 | **Japão** ![][flag_JP] | **6** | 0 | ![][flag_BR] Brasil | [#1](https://osu.ppy.sh/community/matches/54317042) |
 | **Rússia A** ![][flag_RU] | **6** | 2 | ![][flag_RU] Rússia B | [#1](https://osu.ppy.sh/community/matches/54317274) |
 | Canadá ![][flag_CA] | 4 | **6** | ![][flag_JP] **Japão** | [#1](https://osu.ppy.sh/community/matches/54318662) |
-| Polónia ![][flag_PL] | 1 | **6** | ![][flag_ID] **Indonésia A** | [#1](https://osu.ppy.sh/community/matches/54320532) | **Canadá** ![][flag_CA] | **6** | 1 | ![][flag_RU] Rússia B | [#1](https://osu.ppy.sh/community/matches/54322599) |
+| Polónia ![][flag_PL] | 1 | **6** | ![][flag_ID] **Indonésia A** | [#1](https://osu.ppy.sh/community/matches/54320532) |
+| **Canadá** ![][flag_CA] | **6** | 1 | ![][flag_RU] Rússia B | [#1](https://osu.ppy.sh/community/matches/54322599) |
 
 | Domingo, 2019-08-25 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -449,7 +450,7 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 7. A modalidade EX será jogada sem nenhum mod ativado e é a versão mais difícil do NoMod, contém beatmaps com técnicas de mapping complicadas, mudanças de velocidade, etc.
 8. A mappool de FreeMod é jogada com FreeMod ativado. Cada jogador individual poderá escolher **Hidden, HardRock ou ambos. Pelo menos um jogador de cada time deve ter pelo menos um mod ativado.**
 9. O Tiebraker é jogado sob as mesmas condições do FreeMod, mas não é necessário que pelo menos um jogador tenha no mínimo um mod ativado.
-9. A mappool de cada fase será exibida uma semana anterior as partidas.
+10. A mappool de cada fase será exibida uma semana anterior as partidas.
 
 ### Instruções para agendamento
 

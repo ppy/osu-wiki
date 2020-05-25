@@ -607,7 +607,7 @@ Sunday, 1 December 2019:
 | **Element118** ![][flag_SG] | **7** | 1 | ![][flag_AU] Tsubasa2 | [#1](https://osu.ppy.sh/community/matches/56650283) |
 | R J ![][flag_US] | 2 | **7** | ![][flag_US] **closed** | [#1](https://osu.ppy.sh/community/matches/56650277) |
 | **Whulf** ![][flag_US] | **7** | 0 | ![][flag_US] closed | [#1](https://osu.ppy.sh/community/matches/56651297) |
-| **asuasu\_yura** ![][flag_JP] | **7** | 6 | ![][flag_JP] iceOC | [#1](https://osu.ppy.sh/community/matches/56655630)
+| **asuasu\_yura** ![][flag_JP] | **7** | 6 | ![][flag_JP] iceOC | [#1](https://osu.ppy.sh/community/matches/56655630) |
 | **iceOC** ![][flag_JP] | **7** | 0 | ![][flag_KR] Laby | [#1](https://osu.ppy.sh/community/matches/56657233) |
 | frukoyurdakul ![][flag_TR] | 3 | **7** | ![][flag_KR] **Konpaku Sariel** | [#1](https://osu.ppy.sh/community/matches/56659054) |
 | **Sparxe** ![][flag_NZ] | **7** | 5 | ![][flag_MY] growATMfarmz | [#1](https://osu.ppy.sh/community/matches/56660125) |

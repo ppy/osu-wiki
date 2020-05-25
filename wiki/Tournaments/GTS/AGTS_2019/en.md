@@ -102,7 +102,7 @@ The Advanced Global Taiko Showdown 2019 was run by various community members.
 | **B** | ![][flag_JP] Japan | ![][flag_AR] Argentina | ![][flag_HK] Hong Kong | ![][flag_CL] Chile |
 | **C** | ![][flag_NL] Netherlands | ![][flag_FR] France | ![][flag_MX] Mexico | ![][flag_TW] Taiwan |
 | **D** | ![][flag_US] United States A | ![][flag_RU] Russian Federation A | ![][flag_US] United States B | ![][flag_BR] Brazil |
-| **E** | ![][flag_KR] South Korea | ![][flag_DE] Germany A | ![][flag_DK] ![][flag_NO] ![][flag_SE] Scandinavia | ![][flag_VE] Venezuela
+| **E** | ![][flag_KR] South Korea | ![][flag_DE] Germany A | ![][flag_DK] ![][flag_NO] ![][flag_SE] Scandinavia | ![][flag_VE] Venezuela |
 | **F** | ![][flag_CA] Canada | ![][flag_GB] ![][flag_PT] United Kingdom/Portugal | ![][flag_ID] Indonesia A | ![][flag_ID] Indonesia B |
 
 ## Podium
@@ -319,7 +319,7 @@ Sunday, 1 September 2019:
 | --: | :-: | :-: | :-- | :-- |
 | Taiwan ![][flag_TW] | 1 | **7** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/54521624) |
 | Netherlands ![][flag_NL] | 6 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/54530786) |
-| Indonesia A ![][flag_ID] | 3 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/54533409)
+| Indonesia A ![][flag_ID] | 3 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/54533409) |
 
 ### Quarterfinals
 
@@ -332,7 +332,7 @@ Saturday, 24 August 2019:
 | **Japan** ![][flag_JP] | **6** | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/54317042) |
 | **Russian Federation A** ![][flag_RU] | **6** | 2 | ![][flag_RU] Russian Federation B | [#1](https://osu.ppy.sh/community/matches/54317274) |
 | Canada ![][flag_CA] | 4 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/54318662) |
-| Poland ![][flag_PL] | 1 | **6** | ![][flag_ID] **Indonesia A** | [#1](https://osu.ppy.sh/community/matches/54320532)
+| Poland ![][flag_PL] | 1 | **6** | ![][flag_ID] **Indonesia A** | [#1](https://osu.ppy.sh/community/matches/54320532) |
 | **Canada** ![][flag_CA] | **6** | 1 | ![][flag_RU] Russian Federation B | [#1](https://osu.ppy.sh/community/matches/54322599) |
 
 Sunday, 25 August 2019:
