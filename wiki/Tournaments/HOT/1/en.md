@@ -15,7 +15,7 @@ The **Hidden Only Tournament** (***HOT***) is a worldwide double-elimination 2v2
 | --: | :-- |
 | Registration phase | 2020-04-13/2020-05-03 |
 | Qualifiers | 2020-05-15/2020-05-18 |
-| Round of 32 | 2020-05-23/2020-05-24 |
+| Round of 32 | 2020-05-22/2020-05-25 |
 | Round of 32 | 2020-05-30/2020-05-31 |
 | Quarterfinals | 2020-06-06/2020-06-07 |
 | Semifinals | 2020-06-13/2020-06-14 |
@@ -131,6 +131,44 @@ The Hidden Only Tournament is run by various community members.
   - [Sharlo - Ifuudoudou (Chaoslitz) \[Ifuuidol\]](https://osu.ppy.sh/beatmapsets/445251#osu/956456)
 
 ## Match results
+
+### Round of 32
+
+Friday, 22 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Kärpät Oulu** | **5** | 0 | osuplayer111 | [#1](https://osu.ppy.sh/community/matches/61974791) |
+
+Saturday, 23 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **what** | **5** | 1 | sut\_gasm | [#1](https://osu.ppy.sh/community/matches/62007105) |
+| **Omero Kamalio** | **5** | 0 | bojowa wiertarka | [#1](https://osu.ppy.sh/community/matches/62015780) |
+| **C-O-C-A-I-N-E** | **5** | 2 | Saxophone Bug | [#1](https://osu.ppy.sh/community/matches/62015975) |
+| Stafferino | 3 | **5** | **ar7** | [#1](https://osu.ppy.sh/community/matches/62015798) |
+
+Sunday, 24 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Koppepan Gaming** | **5** | 3 | cringe mod | [#1](https://osu.ppy.sh/community/matches/62029637) |
+| **:rooGya:** | **5** | 2 | newton is gey | [#1](https://osu.ppy.sh/community/matches/62031016) |
+| **3山刪白狼** | **5** | 0 | colegas 1 | [#1](https://osu.ppy.sh/community/matches/62045521) |
+| **nothing to hide** | **5** | 4 | ramon's nipples | [#1](https://osu.ppy.sh/community/matches/62047341) |
+| **comet** | **5** | 0 | i hate osu | [#1](https://osu.ppy.sh/community/matches/62055471) |
+| **Phrygian Friends** | **5** | 2 | sut\_son nose | [#1](https://osu.ppy.sh/community/matches/62059487) |
+| **sawada's team** | **5** | 0 | Carlos | [#1](https://osu.ppy.sh/community/matches/62061802) |
+
+Monday, 25 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **butterfly** | **5** | 2 | macachi pec | [#1](https://osu.ppy.sh/community/matches/62069120) |
+| **Pocket Galaxy** | **5** | 0 | can't read HD | [#1](https://osu.ppy.sh/community/matches/62086951) |
+| **HR Main** | **5** | 0 | HD Heroes | [#1](https://osu.ppy.sh/community/matches/62088294) |
+| **Eat 'Em Up** | **5** | 2 | akinari | [#1](https://osu.ppy.sh/community/matches/62092167Y) |
 
 ### Qualifiers
 
