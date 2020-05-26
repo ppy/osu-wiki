@@ -7,7 +7,7 @@ tags:
 
 ![OSIM logo](img/logo.jpg)
 
-The **osu! Singapore-Indonesia-Malaysia Tournament** (***OSIM***) was a double-elimination 2v2 osu!standard tournament hosted by  ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), and ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531). The tournament was open to all players from Singapore, Indonesia, and Malaysia regardless of rank. It was the 1st iteration of the tournament series.
+The **osu! Singapore-Indonesia-Malaysia Tournament** (***OSIM***) was a double-elimination 2v2 osu!standard tournament hosted by  ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), and ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531). The tournament was open to all players from Singapore, Indonesia, and Malaysia regardless of rank. It was the first iteration of the tournament series.
 
 ## Tournament schedule
 
@@ -27,9 +27,9 @@ The **osu! Singapore-Indonesia-Malaysia Tournament** (***OSIM***) was a double-e
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 2 months of osu!supporter for each team member, unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter for each team member |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter for each team member |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 2 months of osu!supporter tag for each team member, unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag for each team member |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag for each team member |
 
 ![Profile badge](img/badge.png)
 
@@ -61,9 +61,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | **somaymalaycapcay** (![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591), ![][flag_ID] [Somay 287](https://osu.ppy.sh/users/4314559), ![][flag_MY] [Ho Ping](https://osu.ppy.sh/users/10487700)) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | **adventure timers** (![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_MY] [wilson9909](https://osu.ppy.sh/users/8703188), ![][flag_ID] [OTWGE](https://osu.ppy.sh/users/11759284)) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | **we will 操你妈** (![][flag_SG] [Soba Noodles](https://osu.ppy.sh/users/3010281), ![][flag_MY] [Zeph2003](https://osu.ppy.sh/users/10343292), ![][flag_SG] [Lunarsol](https://osu.ppy.sh/users/6622650)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **somaymalaycapcay** (![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591), ![][flag_ID] [Somay 287](https://osu.ppy.sh/users/4314559), ![][flag_MY] [Ho Ping](https://osu.ppy.sh/users/10487700)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **adventure timers** (![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_MY] [wilson9909](https://osu.ppy.sh/users/8703188), ![][flag_ID] [OTWGE](https://osu.ppy.sh/users/11759284)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **we will 操你妈** (![][flag_SG] [Soba Noodles](https://osu.ppy.sh/users/3010281), ![][flag_MY] [Zeph2003](https://osu.ppy.sh/users/10343292), ![][flag_SG] [Lunarsol](https://osu.ppy.sh/users/6622650)) |
 
 ## Participants
 
@@ -74,7 +74,7 @@ This competition has come to an end and resulted in the following podium:
 | **adventure timers** | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** | ![][flag_MY] [wilson9909](https://osu.ppy.sh/users/8703188) | ![][flag_ID] [OTWGE](https://osu.ppy.sh/users/11759284) |
 | **asean NUTtersarus** | ![][flag_MY] **[Rampax](https://osu.ppy.sh/users/3995630)** | ![][flag_SG] [OppaiSuki](https://osu.ppy.sh/users/1285403) | ![][flag_ID] [Remuru](https://osu.ppy.sh/users/3654220) |
 | **DaFaK** | ![][flag_MY] **[FaithInOsu](https://osu.ppy.sh/users/10178187)** | ![][flag_MY] [Desumond](https://osu.ppy.sh/users/7399262) | ![][flag_MY] [KrispyKrep](https://osu.ppy.sh/users/10985924) |
-| **emilia fanclub** | ![][flag_MY] **[not_aweeb](https://osu.ppy.sh/users/9375317)** | ![][flag_MY] [Vexine](https://osu.ppy.sh/users/4042706) | ![][flag_MY] [Rexyne](https://osu.ppy.sh/users/9707834) |
+| **emilia fanclub** | ![][flag_MY] **[not\_aweeb](https://osu.ppy.sh/users/9375317)** | ![][flag_MY] [Vexine](https://osu.ppy.sh/users/4042706) | ![][flag_MY] [Rexyne](https://osu.ppy.sh/users/9707834) |
 | **ff15** | ![][flag_ID] **[121Brian121](https://osu.ppy.sh/users/6192975)** | ![][flag_ID] [Clayweg](https://osu.ppy.sh/users/11374005) | ![][flag_SG] [JokThree](https://osu.ppy.sh/users/7713152) |
 | **fryed pussy** | ![][flag_ID] **[\[fry\]](https://osu.ppy.sh/users/4917604)** | ![][flag_ID] [Walfrid](https://osu.ppy.sh/users/6600809) | ![][flag_MY] [PandaHung143](https://osu.ppy.sh/users/9637220) |
 | **gebratene Muschi** | ![][flag_ID] **[Vinno](https://osu.ppy.sh/users/10717635)** | ![][flag_SG] [moosepi](https://osu.ppy.sh/users/1868745) | ![][flag_MY] [TachibanaTaki12](https://osu.ppy.sh/users/9924719) |
@@ -195,7 +195,7 @@ This competition has come to an end and resulted in the following podium:
 
 - NoMod
   - [UNDEAD CORPORATION - Sad Dream (Hinsvar) \[Expert\]](https://osu.ppy.sh/beatmapsets/1019827#osu/2133935)
-  - [Awake - Supernova (wa_) \[Extra\]](https://osu.ppy.sh/beatmapsets/253507#osu/581939)
+  - [Awake - Supernova (wa\_) \[Extra\]](https://osu.ppy.sh/beatmapsets/253507#osu/581939)
   - [KOTONOHOUSE feat. Nanahira - Midnight, Starlight (KChronoZ) \[Every night\]](https://osu.ppy.sh/beatmapsets/1091170#osu/2281211)
   - [An - Artcore JINJA (Flower) \[Skystar\]](https://osu.ppy.sh/beatmapsets/114987#osu/297668)
   - [UVERworld - ROB THE FRONTIER (Crissa) \[Expert\]](https://osu.ppy.sh/beatmapsets/1067110#osu/2234164)
@@ -208,7 +208,7 @@ This competition has come to an end and resulted in the following podium:
   - [McDSG - McDonald's Shiok Shiok Satay (-LeeP-) \[handsome's Extra\]](https://osu.ppy.sh/beatmapsets/211825#osu/498060)
   - [BLANKFIELD - Retrospective City (Lasse) \[Extra\]](https://osu.ppy.sh/beatmapsets/1120645#osu/2341601)
 - DoubleTime
-  - [Demetori - Mukau no Sato ~ Deep Mountain (23KonG) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/284881#osu/643607)
+  - [Demetori - Mukau no Sato \~ Deep Mountain (23KonG) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/284881#osu/643607)
   - [sakuraburst - GLASS RIVER (Niva) \[confluence\]](https://osu.ppy.sh/beatmapsets/1061218#osu/2223721)
   - [EastNewSound - Black Lotus (S i R i R u) \[SG - Death\]](https://osu.ppy.sh/beatmapsets/12026#osu/45544)
 - FreeMod
@@ -544,7 +544,7 @@ Sunday, 19 April 2020:
 
 ### Group stage rules
 
-1. In the Group Stage, the 20 previously formed teams will be divided into 5 groups of 4 teams.
+1. In the Group Stage, the 20 previously formed teams will be divided into 4 groups consisting of 5 different teams.
 2. All the teams from each group will face each other.
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    - Most matches won.
