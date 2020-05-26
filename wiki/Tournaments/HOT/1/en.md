@@ -15,7 +15,7 @@ The **Hidden Only Tournament** (***HOT***) is a worldwide double-elimination 2v2
 | --: | :-- |
 | Registration phase | 2020-04-13/2020-05-03 |
 | Qualifiers | 2020-05-15/2020-05-18 |
-| Round of 32 | 2020-05-23/2020-05-24 |
+| Round of 32 | 2020-05-22/2020-05-25 |
 | Round of 32 | 2020-05-30/2020-05-31 |
 | Quarterfinals | 2020-06-06/2020-06-07 |
 | Semifinals | 2020-06-13/2020-06-14 |
@@ -95,6 +95,28 @@ The Hidden Only Tournament is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (105 MB)](https://drive.google.com/file/d/1Gpq8foPrKJECKJ65C7i45UgOGr4pBrgI/view?usp=sharing)**
+
+- Hidden
+  - [Mitani Nana - Chikyuu Saigo no Kokuhaku o (Star Stream) \[Collab\]](https://osu.ppy.sh/beatmapsets/65491#osu/191805)
+  - [Ryu\* Vs. L.E.D.-G Vs. ZUN - PARADISE GHOST (Pokie) \[Extra\]](https://osu.ppy.sh/beatmapsets/67133#osu/195305)
+  - [Cilvery - Kamisama Nejimaki (sukiNathan) \[Catastrophe\]](https://osu.ppy.sh/beatmapsets/374900#osu/821238)
+  - [Au5 - Reiteration (NeilPerry) \[Relapse\]](https://osu.ppy.sh/beatmapsets/487775#osu/1392244)
+  - [DM Ashura - Classical Insanity (alvisto) \[Classical Insanity !!\]](https://osu.ppy.sh/beatmapsets/15014#osu/54642)
+  - [Chata - len (Kalibe) \[emptiness\]](https://osu.ppy.sh/beatmapsets/918509#osu/1918025)
+  - [Lapfox Trax feat. guilhox - Lapfoxed Forever (Blue Dragon) \[Nogard\]](https://osu.ppy.sh/beatmapsets/59521#osu/178353)
+  - [DECO\*27 - Otome Dissection feat. Hatsune Miku (YelloJello) \[celerih's Insane\]](https://osu.ppy.sh/beatmapsets/913720#osu/2038244)
+- Hidden+DoubleTime
+  - [Goto Yuko - Koi no Mikuru Densetsu (Sushi971) \[Mikuru Beam\~\]](https://osu.ppy.sh/beatmapsets/5744#osu/27497)
+  - [senya - Youyoumu no Gotoku (Autobahn Remix) (Dailycare) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/440980#osu/948654)
+  - [zts - lastendconductor (EvilElvis) \[Insane\]](https://osu.ppy.sh/beatmapsets/333965#osu/738959)
+- Tiebreaker
+  - **[yanaginagi - Muteki no Soldier (BinJip) \[Invincible\]](https://osu.ppy.sh/beatmapsets/52221#osu/182001)**
+  - **[DragonForce / R3 Music Box - Ashes of the Dawn (MashaSG) \[The Time Has Come For Me\]](https://osu.ppy.sh/beatmapsets/761593#osu/1601387)**
+  - **[Halozy - Three Magic (DiGiTAL WiNG TRANCE Remix) (SnowNiNo\_) \[My First Love\]](https://osu.ppy.sh/beatmapsets/476595#osu/1017991)**
+
 ### Round of 32
 
 **[Download the mappack here! (97 MB)](https://drive.google.com/file/d/1Cn9Xj-FTvEkVQfDhHmS_bOw8XQNWlP6k/view?usp=sharing)**
@@ -131,6 +153,44 @@ The Hidden Only Tournament is run by various community members.
   - [Sharlo - Ifuudoudou (Chaoslitz) \[Ifuuidol\]](https://osu.ppy.sh/beatmapsets/445251#osu/956456)
 
 ## Match results
+
+### Round of 32
+
+Friday, 22 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Kärpät Oulu** | **5** | 0 | osuplayer111 | [#1](https://osu.ppy.sh/community/matches/61974791) |
+
+Saturday, 23 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **what** | **5** | 1 | sut\_gasm | [#1](https://osu.ppy.sh/community/matches/62007105) |
+| **Omero Kamalio** | **5** | 0 | bojowa wiertarka | [#1](https://osu.ppy.sh/community/matches/62015780) |
+| **C-O-C-A-I-N-E** | **5** | 2 | Saxophone Bug | [#1](https://osu.ppy.sh/community/matches/62015975) |
+| Stafferino | 3 | **5** | **ar7** | [#1](https://osu.ppy.sh/community/matches/62015798) |
+
+Sunday, 24 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Koppepan Gaming** | **5** | 3 | cringe mod | [#1](https://osu.ppy.sh/community/matches/62029637) |
+| **:rooGya:** | **5** | 2 | newton is gey | [#1](https://osu.ppy.sh/community/matches/62031016) |
+| **3山刪白狼** | **5** | 0 | colegas 1 | [#1](https://osu.ppy.sh/community/matches/62045521) |
+| **nothing to hide** | **5** | 4 | ramon's nipples | [#1](https://osu.ppy.sh/community/matches/62047341) |
+| **comet** | **5** | 0 | i hate osu | [#1](https://osu.ppy.sh/community/matches/62055471) |
+| **Phrygian Friends** | **5** | 2 | sut\_son nose | [#1](https://osu.ppy.sh/community/matches/62059487) |
+| **sawada's team** | **5** | 0 | Carlos | [#1](https://osu.ppy.sh/community/matches/62061802) |
+
+Monday, 25 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **butterfly** | **5** | 2 | macachi pec | [#1](https://osu.ppy.sh/community/matches/62069120) |
+| **Pocket Galaxy** | **5** | 0 | can't read HD | [#1](https://osu.ppy.sh/community/matches/62086951) |
+| **HR Main** | **5** | 0 | HD Heroes | [#1](https://osu.ppy.sh/community/matches/62088294) |
+| **Eat 'Em Up** | **5** | 2 | akinari | [#1](https://osu.ppy.sh/community/matches/62092167) |
 
 ### Qualifiers
 
