@@ -24,10 +24,11 @@ The Beatmap Spotlights project is run by various community members across all ga
 
 ## Curators
 
-Each Beatmap Spotlights release is assembled by a dedicated curator team and individually picked based on an extensive application and review process.
+Each Beatmap Spotlights release is assembled by a dedicated curator team and individually picked based on an extensive application and review process. Bold members are the respective team leaders.
 
 ### osu! curators
 
+- ![][flag_DE] **[Zetera](https://osu.ppy.sh/users/587737)**
 - ![][flag_US] [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207)
 - ![][flag_DE] [IceKalt](https://osu.ppy.sh/users/5410645)
@@ -38,28 +39,27 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
 - ![][flag_MX] [Riot](https://osu.ppy.sh/users/4256461)
 - ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875)
 - ![][flag_US] [squirrelpascals](https://osu.ppy.sh/users/6151332)
-- ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737)
 
 ### osu!taiko curators
 
+- ![][flag_DE] **[OnosakiHito](https://osu.ppy.sh/users/290128)**
 - ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000)
 - ![][flag_JP] [Charlotte](https://osu.ppy.sh/users/3686901)
 - ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851)
-- ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128)
 - ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737)
 
 ### osu!catch curators
 
-- ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)
+- ![][flag_ES] **[Deif](https://osu.ppy.sh/users/318565)**
 - ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508)
 - ![][flag_CL] [lineqtxz](https://osu.ppy.sh/users/989542)
 - ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057)
 
 ### osu!mania Curators
 
+- ![][flag_GB] **[Hydria](https://osu.ppy.sh/users/808176)**
 - ![][flag_AU] [CrumpetFiddler](https://osu.ppy.sh/users/3518705)
 - ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600)
-- ![][flag_GB] [Hydria](https://osu.ppy.sh/users/808176)
 - ![][flag_DO] [Kaito-kun](https://osu.ppy.sh/users/4715184)
 - ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098)
 - ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767)
