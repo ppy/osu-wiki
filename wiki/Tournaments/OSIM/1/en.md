@@ -331,10 +331,10 @@ Saturday, 25 April 2020:
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Lower | **Happy Ending** | **6** | 5 | pussy goreng | [#1](https://osu.ppy.sh/community/matches/60864862) |
-| Upper | **adventure timers**| **6** | 2 | Nekopara Fanclub | [#1](https://osu.ppy.sh/community/matches/60869212) |
+| Upper | **adventure timers** | **6** | 2 | Nekopara Fanclub | [#1](https://osu.ppy.sh/community/matches/60869212) |
 | Lower | **mofumofu lover** | **6** | 1 | emilia fanclub | [#1](https://osu.ppy.sh/community/matches/60870998) |
 | Upper | :watamesleep: | 3 | **6** | **Where Love Lies** | [#1](https://osu.ppy.sh/community/matches/60871242) |
-| Upper | **tasty watermelon**| **6** | 2 | asean NUTtersarus | [#1](https://osu.ppy.sh/community/matches/60873538) |
+| Upper | **tasty watermelon** | **6** | 2 | asean NUTtersarus | [#1](https://osu.ppy.sh/community/matches/60873538) |
 
 Sunday, 26 April 2020:
 
@@ -523,7 +523,7 @@ Sunday, 19 April 2020:
 ### Tournament registration
 
 1. All interested participants are required to register into the tournament individually.
-    - In order to be eligible to play in the tournament, a participant must have either the Singaporean, Indonesian, or Malaysian flag displayed on their profile.
+   - In order to be eligible to play in the tournament, a participant must have either the Singaporean, Indonesian, or Malaysian flag displayed on their profile.
 2. To ensure valid and serious registrations, every registered participant will be checked by the Tournament Management and screened by osu!'s Tournament Staff.
 3. The list of participants who have passed the screening and are able to compete in the tournament will be published after the Registration Phase has ended. 
 4. Referees and map selectors may not participate as players in this tournament.
@@ -547,13 +547,13 @@ Sunday, 19 April 2020:
 1. In the Group Stage, the 20 previously formed teams will be divided into 5 groups of 4 teams.
 2. All the teams from each group will face each other.
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
-    - Most matches won.
-    - Have higher `{(the number of beatmaps won) - (the number of beatmaps defeated)}`.
-    - Most beatmaps won.
-    - Winner of the match played previously between the tied teams.
-    - In the event of a triple tie:
-        - Have higher `∑{(total score difference) / (maximum score)}`.
-        - Winner of the rematch.
+   - Most matches won.
+   - Have higher `{(the number of beatmaps won) - (the number of beatmaps defeated)}`.
+   - Most beatmaps won.
+   - Winner of the match played previously between the tied teams.
+   - In the event of a triple tie:
+       - Have higher `∑{(total score difference) / (maximum score)}`.
+       - Winner of the rematch.
 
 ### Knock-out stage rules
 
@@ -587,7 +587,7 @@ Sunday, 19 April 2020:
    - Players in the same team may not put out the same mod combination with each other in a FreeMod pick.
    - Players who opt to play with EZ in a FreeMod pick will have their scores multiplied by an amount ranging from `x1.5` to `x3` based off certain weighting values that have been predetermined by the mappool selectors for each map. For more details on how much each map is valued, please refer to the [main spreadsheet](https://docs.google.com/spreadsheets/d/1wO13e1fNw1H0n7OYKyXpG6lyMCDCkbhj6fki4KEMf5I/edit#gid=950811958).
 5. In case of a tiebreaker, each captain will ban 1 of the 3 available tiebreakers. This is done by sending an in-game PM with your ban to the match referee. The remaining map will be played.
-    - If both captains ban the same map, the referee will run the `!roll 2` command in the lobby to determine which of the 2 remaining tiebreakers will be played.
+   - If both captains ban the same map, the referee will run the `!roll 2` command in the lobby to determine which of the 2 remaining tiebreakers will be played.
 6. The Seed C player from each team **has to play at least one map** in every match. If a match reaches a match point and either team's Seed C player has yet to play a map, the referee will not start the next map until the Seed C player from the said team  participates.
 7. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has concluded by the responsible referees.
 
