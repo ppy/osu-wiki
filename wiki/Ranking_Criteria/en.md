@@ -1,10 +1,10 @@
 # Ranking criteria
 
-*For mode specific criteria, see: [osu!](/wiki/rc_osu!), [osu!taiko](/wiki/rc_osu!taiko), [osu!catch](/wiki/rc_osu!catch), and [osu!mania](/wiki/rc_osu!mania)*
+*For mode specific criteria, see: [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), and [osu!mania](osu!mania)*
 
 For the record, these include the recent changes made [from the discussion forum](https://osu.ppy.sh/community/forums/87). Any rule that is being discussed is listed here as it used to be and will be updated once the discussion reaches an agreement.
 
-**Keep in mind that the [Code of Conduct](/wiki/Code_of_Conduct), the guide on [Timing Songs With #/8th-Signatures](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures) as well as the [Song Content Rules](/wiki/Ranking_Criteria/Song_Content_Rules) are part of the Ranking Criteria and apply to all existent game modes in osu!.**
+**Keep in mind that the [code of conduct for modding and mapping](/wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping), the guide on [timing songs with #/8-signatures](/wiki/Ranking_Criteria/Timing_Songs_With_8-Signatures) as well as the [song content rules](/wiki/Rules/Song_Content_Rules) are part of the Ranking Criteria and apply to all existent game modes in osu!.**
 
 ## Glossary
 
@@ -42,11 +42,11 @@ For the record, these include the recent changes made [from the discussion forum
   - **...lower than 3:30**, the lowest difficulty of each included game mode cannot be harder than a Normal.
   - **...between 3:30 and 4:15**, the lowest difficulty of each included game mode cannot be harder than a Hard.
   - **...between 4:15 and 5:00**, the lowest difficulty of each included game mode cannot be harder than an Insane.
-  - **Difficulties below the highest difficulty can combine break times with drain time to meet the above thresholds.** This does not apply to difficulties with less than 30 seconds of drain time. Judgement regarding the suitability of gameplay elements used for any lowest difficulty Hard and Insane difficulties is up to the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators/) and [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) members for the corresponding game modes.
+  - **Difficulties below the highest difficulty can combine break times with drain time to meet the above thresholds.** This does not apply to difficulties with less than 30 seconds of drain time. Judgement regarding the suitability of gameplay elements used for any lowest difficulty Hard and Insane difficulties is up to the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) and [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) members for the corresponding game modes.
 - **Difficulty names in a beatmapset must be clearly progressive and accurately indicating of their respective difficulties, excluding:**
   - The highest difficulty.
   - The highest difficulties with a similar level of difficulty, applying only to Insane and Extra difficulties (e.g. the Insane difficulties of a ENHIIII set or the Extra difficulties of a ENHIIXXX set).
-- **Each difficulty must comply with its mode's difficulty-specific Ranking Criteria.** See the [osu!](/wiki/rc_osu!), [osu!taiko](/wiki/rc_osu!taiko), [osu!catch](/wiki/rc_osu!catch), and [osu!mania](/wiki/rc_osu!mania) criteria for more information.
+- **Each difficulty must comply with its mode's difficulty-specific Ranking Criteria.** See the [osu!](osu!), [osu!taiko](osu!taiko), [osu!catch](osu!catch), and [osu!mania](osu!mania) ranking criteria for more information.
 - **All game modes within a beatmapset must form a spread starting from the lowest difficulty level dictated by the song's [drain time](/wiki/Gameplay/Drain_time).** For difficulties above the lowest required difficulty level, the spread cannot skip any difficulty levels and there cannot be any drastically large difficulty gaps between any two difficulties.
 - **A beatmapset's custom difficulty naming must follow a common theme or pattern related to the song or difficulty and must not be misrepresentative.** A difficulty name is misrepresentative if it implies a different difficulty level (e.g. naming an "Expert" difficulty as "Normal").
 - **A difficulty's name must not solely consist of one or more usernames.** Words that happen to be usernames are acceptable within difficulty names as long as they relate to the song.
@@ -107,6 +107,7 @@ For the record, these include the recent changes made [from the discussion forum
   - Mandarin metadata must be romanised using the Hanyu Pinyin system.
   - Cantonese metadata must be romanised by using the Jyutping system.
   - If the song falls into neither category, this choice is left up to the mapper's discretion and contacting a native speaker is recommended.
+
 ### Guidelines
 
 - **When a song is covered or remixed and has metadata varying from the original song, use common sense to determine whether the variation was a mistake or an intentional artist choice.**
@@ -163,7 +164,7 @@ This category contains explicit allowance statements of concepts and rules that 
 ### Rules
 
 - **A beatmapset's audio file must use the `.mp3` file format and have an average bit rate no greater than 192kbps.**
-- **Acceptable songs with mature lyrics/themes must be marked with an 18+ in the beatmap's description.** This game is for all ages, and so a warning is needed for younger audiences. Some songs, however, are unacceptable for ranking regardless of an 18+ warning. See [song content rules](/wiki/Ranking_Criteria/Song_Content_Rules) for more details.
+- **Acceptable songs with mature lyrics/themes must be marked with an 18+ in the beatmap's description.** This game is for all ages, and so a warning is needed for younger audiences. Some songs, however, are unacceptable for ranking regardless of an 18+ warning. See [song content rules](/wiki/Rules/Song_Content_Rules) for more details.
 - **A beatmapset may only contain one song file used by all difficulties.** Multiple song files within a single beatmap set is unsupported and results in unexpected behaviour with preview times, metadata, etc.
 - **A song's audio file and hitsound files must be of reasonable quality.** Try to find the highest quality source file available rather than ripping a file from a streaming video website. Songs should be normalized to their original release volumes and should not be encoded to a bit rate higher than their original files.
 - **If you do not beatmap the last 20% of your beatmapset's audio file, it must be cut.** The intro time is not included. This does not apply if more than 20% of the outro is occupied by a storyboard/video.
@@ -184,7 +185,7 @@ This category contains explicit allowance statements of concepts and rules that 
 - **[Song compilations](/wiki/Beatmapping/Song_compilation) should incorporate 3 or more songs.** Using only 2 songs in a compilation is a lackluster experience for players, and should be broken up into separate beatmapsets. Exceptions can be made for songs that were exclusively released together.
 - **[Song compilations](/wiki/Beatmapping/Song_compilation) should be mixed properly and should not include abrupt breaks or long fades between different songs.** The songs used for the compilation should be similar in audio quality, volume and length. This is to ensure compilations achieve the same cohesive gameplay experience as other beatmaps.
 - **Cut songs should maintain the general impression and intensity of the full song.** Cuts that change the structure of the full song (such as excluding or rearranging a song's intro/verse/chorus/outro) can lead to mispresentation of it and often cause unsatisfying playing experiences. This does not apply to official cuts or recreations of official cuts.
-- **[Gameplay sounds](/wiki/Skinning/Sounds#gameplay) excluding [active hitsounds](/wiki/Beatmapping/Hitsound#active-hitsound) should use the `.mp3` or `.ogg` file formats.** These files usually have long durations and .wav files are unnecessarily large in comparison, however .wav should be used when it results in a smaller file size.
+- **[Gameplay sounds](/wiki/Skinning/Sounds#gameplay) excluding [active hitsounds](/wiki/Beatmapping/Hitsounds#active-hitsound) should use the `.mp3` or `.ogg` file formats.** These files usually have long durations and .wav files are unnecessarily large in comparison, however .wav should be used when it results in a smaller file size.
 - **Avoid replacing the hit finish in soft/normal samplesets with frequently used custom hitsound samples.** Using these finishes to represent snare/bass drums or a song's melody can sound obnoxious for anyone disabling beatmap hitsounds. Replacing hit whistles/claps is recommended because those samples are used more often. osu!taiko beatmaps are exempt from this guideline and have their own mode-specific hitsound sample guideline.
 
 ## Video and background

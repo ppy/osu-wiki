@@ -1,6 +1,6 @@
 # Timing
 
-*See also: [How to time songs](/wiki/How_to_time_songs)*
+*See also: [How to time songs](/wiki/Guides/How_to_Time_Songs)*
 
 [Beatmap](/wiki/Beatmaps) **timing** consists of a song's [offset](/wiki/Beatmapping/Offset), its [beats per minute (BPM)](/wiki/Beatmapping/Beats_per_minute), and its [meter](https://en.wikipedia.org/wiki/Metre_(music)).
 
