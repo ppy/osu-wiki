@@ -329,7 +329,7 @@ Saturday, 23 May 2020:
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | XxTheJKxX ![][flag_MY] | 0 | **4** | ![][flag_SG] **loli\_seale** | [#1](https://osu.ppy.sh/community/matches/61990141) |
-| **TNKSTC** ![][flag_TH] | **4** | 0 | ![][flag_VN] DanX | [#1](https://osu.ppy.sh/community/matches/61995644%3E) |
+| **TNKSTC** ![][flag_TH] | **4** | 0 | ![][flag_VN] DanX | [#1](https://osu.ppy.sh/community/matches/61995644) |
 | ianlau2 ![][flag_MY] | 2 | **4** | ![][flag_AU] **AmateurMonkeyYT** | [#1](https://osu.ppy.sh/community/matches/61995676) |
 | ibacot ![][flag_ID] | 2 | **4** | ![][flag_TH] \[Hakura\_San\] | [#1](https://osu.ppy.sh/community/matches/61996105) |
 | DanX ![][flag_VN] | 1 | **4** | ![][flag_SG] **woahsia** | [#1](https://osu.ppy.sh/community/matches/61996904) |
@@ -348,7 +348,7 @@ Saturday, 23 May 2020:
 | andrekam98 ![][flag_US] | 0 | **4** | ![][flag_PH] **Gerwin13** | [#1](https://osu.ppy.sh/community/matches/62011690) |
 | stickilas ![][flag_CA] | 3 | **4** | ![][flag_DE] **cakeboss05** | [#1](https://osu.ppy.sh/community/matches/62011708) |
 | AlanProfits ![][flag_US] | -1 | **0** | ![][flag_DE] **cakeboss05** | *win by default* |
-| SochnyiKokos ![][flag_FR] | **0** | -1 | ![][flag_US] Proc | *win by default* |
+| **SochnyiKokos** ![][flag_FR] | **0** | -1 | ![][flag_US] Proc | *win by default* |
 | **Screeply** ![][flag_AR] | **4** | 1 | ![][flag_DE] DrugManager | [#1](https://osu.ppy.sh/community/matches/62013814) |
 | **Katsumi** ![][flag_DE] | **0** | -1 | ![][flag_US] Sapphere | *win by default* |
 | Ph03n1x ![][flag_US] | 0 | **4** | ![][flag_SG] **Saltify** | [#1](https://osu.ppy.sh/community/matches/62016029) |
@@ -553,7 +553,7 @@ Sunday, 24 May 2020:
 | DraQeu ![][flag_BE] | 0 | **4** | ![][flag_MY] **Anamneses** | [#1](https://osu.ppy.sh/community/matches/62047348) |
 | ThePrimesBros ![][flag_FR] | 2 | **4** | ![][flag_HK] **Brown918** | [#1](https://osu.ppy.sh/community/matches/62049521), [#2](https://osu.ppy.sh/community/matches/62050574) |
 | **Ammy** ![][flag_MX] | **4** | 1 | ![][flag_DE] Quadrumplayer | [#1](https://osu.ppy.sh/community/matches/62051466) |
-| Mestro ![][flag_SE] | **0** | -1 | ![][flag_FR] Fizall | *win by default* |
+| **Mestro** ![][flag_SE] | **0** | -1 | ![][flag_FR] Fizall | *win by default* |
 | **Cychloryn** ![][flag_US] | **4** | 1 | ![][flag_US] YTseangaming | [#1](https://osu.ppy.sh/community/matches/62059894) |
 
 Monday, 25 May 2020:
