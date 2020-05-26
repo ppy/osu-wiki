@@ -10,7 +10,7 @@ no_native_review: true
 
 *警告：中国大陆无法正常访问 Discord。*
 
-**osu!dev** 是官方 [Discord](https://discordapp.com "Discord 官网") 服务器，它用于 osu! 的开源和各种社区项目。这有助于促进 osu! 的开发并与 [osu! 开发团队](/wiki/People/The_Team) 进行联系的主要场所。
+**osu!dev** 是官方 [Discord](https://discordapp.com "Discord 官网") 服务器，它用于 osu! 的开源和各种社区项目。这有助于促进 osu! 的开发，是与 [osu! 开发团队](/wiki/People/The_Team) 进行联系的主要场所。
 
 永久邀请链接是 <https://discord.gg/ppy>。
 
