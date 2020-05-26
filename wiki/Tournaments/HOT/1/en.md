@@ -190,7 +190,7 @@ Monday, 25 May 2020:
 | **butterfly** | **5** | 2 | macachi pec | [#1](https://osu.ppy.sh/community/matches/62069120) |
 | **Pocket Galaxy** | **5** | 0 | can't read HD | [#1](https://osu.ppy.sh/community/matches/62086951) |
 | **HR Main** | **5** | 0 | HD Heroes | [#1](https://osu.ppy.sh/community/matches/62088294) |
-| **Eat 'Em Up** | **5** | 2 | akinari | [#1](https://osu.ppy.sh/community/matches/62092167Y) |
+| **Eat 'Em Up** | **5** | 2 | akinari | [#1](https://osu.ppy.sh/community/matches/62092167) |
 
 ### Qualifiers
 
