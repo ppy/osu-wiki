@@ -91,7 +91,7 @@ The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) an
 
 ### Saturday, 30 May 2020
 
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
+| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
 | Mexico | ![][flag_MX] | ![][flag_TW] | Taiwan | **03:00 UTC** | 22:00 (Fri.) UTC-05 | 11:00 UTC+08 | ² |
 | China | ![][flag_CN] | ![][flag_HK] | Hong Kong | **13:00 UTC** | 21:00 UTC+08 | 21:00 UTC+08 | ¹ |
@@ -101,7 +101,7 @@ The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) an
 
 ### Sunday, 31 May 2020
 
-| Team A |  |  | Team B | Match Time | Local Time A | Local Time B |  |
+| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
 | Canada | ![][flag_CA] | ![][flag_MX] | Mexico | **02:30 UTC** | 21:30 (Sat.) UTC-05 | 21:30 (Sat.) UTC-05 | ³ |
 | Canada | ![][flag_CA] | ![][flag_TW] | Taiwan | **02:30 UTC** | 21:30 (Sat.) UTC-05 | 10:30 UTC+08 | ³ |
@@ -113,8 +113,8 @@ The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) an
 | Germany | ![][flag_DE] | ![][flag_US] | United States | **17:00 UTC** | 19:00 UTC+02 | 13:00 UTC-04 | ³ |
 | Germany | ![][flag_DE] | ![][flag_FR] | France | **17:00 UTC** | 19:00 UTC+02 | 19:00 UTC+02 | ³ |
 
-¹ Winner bracket encounter
-² Loser bracket encounter
+¹ Winner bracket encounter  
+² Loser bracket encounter  
 ³ Encounter dependent on results of ²Loser bracket encounter
 
 ## Mappools
