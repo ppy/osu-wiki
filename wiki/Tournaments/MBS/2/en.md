@@ -20,7 +20,7 @@ The **Mania Beginner's Showdown 2** (***MBS2***) is a worldwide double-eliminati
 | Registration phase | 2020-04-04/2020-04-26 |
 | Live drawings | 2020-05-11 (17:00 UTC) |
 | Qualifiers | 2020-05-09/2020-05-10 |
-| Group Stage | 2020-05-15/2020-05-25 |
+| Group Stage | 2020-05-15/2020-05-24 |
 | Round of 32 | 2020-05-30/2020-05-31 |
 | Round of 16 | 2020-06-06/2020-06-07 |
 | Quarterfinals | 2020-06-13/2020-06-14 |
@@ -35,7 +35,7 @@ The **Mania Beginner's Showdown 2** (***MBS2***) is a worldwide double-eliminati
 | Registration phase | 2020-04-04/2020-04-26 |
 | Live drawings | 2020-05-11 (17:00 UTC) |
 | Qualifiers | 2020-05-09/2020-05-10 |
-| Group Stage | 2020-05-16/2020-05-24 |
+| Group Stage | 2020-05-16/2020-05-25 |
 | Round of 32 | 2020-05-30/2020-05-31 |
 | Round of 16 | 2020-06-06/2020-06-07 |
 | Quarterfinals | 2020-06-13/2020-06-14 |
