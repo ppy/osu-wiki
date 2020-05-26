@@ -95,6 +95,28 @@ The Hidden Only Tournament is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the mappack here! (105 MB)](https://drive.google.com/file/d/1Gpq8foPrKJECKJ65C7i45UgOGr4pBrgI/view?usp=sharing)**
+
+- Hidden
+  - [Mitani Nana - Chikyuu Saigo no Kokuhaku o (Star Stream) \[Collab\]](https://osu.ppy.sh/beatmapsets/65491#osu/191805)
+  - [Ryu\* Vs. L.E.D.-G Vs. ZUN - PARADISE GHOST (Pokie) \[Extra\]](https://osu.ppy.sh/beatmapsets/67133#osu/195305)
+  - [Cilvery - Kamisama Nejimaki (sukiNathan) \[Catastrophe\]](https://osu.ppy.sh/beatmapsets/374900#osu/821238)
+  - [Au5 - Reiteration (NeilPerry) \[Relapse\]](https://osu.ppy.sh/beatmapsets/487775#osu/1392244)
+  - [DM Ashura - Classical Insanity (alvisto) \[Classical Insanity !!\]](https://osu.ppy.sh/beatmapsets/15014#osu/54642)
+  - [Chata - len (Kalibe) \[emptiness\]](https://osu.ppy.sh/beatmapsets/918509#osu/1918025)
+  - [Lapfox Trax feat. guilhox - Lapfoxed Forever (Blue Dragon) \[Nogard\]](https://osu.ppy.sh/beatmapsets/59521#osu/178353)
+  - [DECO\*27 - Otome Dissection feat. Hatsune Miku (YelloJello) \[celerih's Insane\]](https://osu.ppy.sh/beatmapsets/913720#osu/2038244)
+- Hidden+DoubleTime
+  - [Goto Yuko - Koi no Mikuru Densetsu (Sushi971) \[Mikuru Beam\~\]](https://osu.ppy.sh/beatmapsets/5744#osu/27497)
+  - [senya - Youyoumu no Gotoku (Autobahn Remix) (Dailycare) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/440980#osu/948654)
+  - [zts - lastendconductor (EvilElvis) \[Insane\]](https://osu.ppy.sh/beatmapsets/333965#osu/738959)
+- Tiebreaker
+  - **[yanaginagi - Muteki no Soldier (BinJip) \[Invincible\]](https://osu.ppy.sh/beatmapsets/52221#osu/182001)**
+  - **[DragonForce / R3 Music Box - Ashes of the Dawn (MashaSG) \[The Time Has Come For Me\]](https://osu.ppy.sh/beatmapsets/761593#osu/1601387)**
+  - **[Halozy - Three Magic (DiGiTAL WiNG TRANCE Remix) (SnowNiNo\_) \[My First Love\]](https://osu.ppy.sh/beatmapsets/476595#osu/1017991)**
+
 ### Round of 32
 
 **[Download the mappack here! (97 MB)](https://drive.google.com/file/d/1Cn9Xj-FTvEkVQfDhHmS_bOw8XQNWlP6k/view?usp=sharing)**
