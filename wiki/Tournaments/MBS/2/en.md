@@ -62,7 +62,7 @@ The Mania Beginner's Showdown 2 is run by various community members.
 | Organiser | ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517) |
 | Co-Organiser | ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286) |
 | Map selector | ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_FR] [ZayyKen](https://osu.ppy.sh/users/8624433) |
-| Guest Mapper | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) |
+| Guest mapper | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) |
 | Referee | ![][flag_AU] [anim shnacc](https://osu.ppy.sh/users/11373924), ![][flag_NZ] [Blujae](https://osu.ppy.sh/users/10613885), ![][flag_NL] [Boaz](https://osu.ppy.sh/users/13302996), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_NZ] [Erkfir](https://osu.ppy.sh/users/7756939), ![][flag_DE] [Flygone](https://osu.ppy.sh/users/9287979), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_NL] [Lienkuh](https://osu.ppy.sh/users/13960277), ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_RU] [Nozdormu](https://osu.ppy.sh/users/7169208), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][flag_FR] [Satsukel](https://osu.ppy.sh/users/9066390), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235), ![][flag_US] [travis\_ba](https://osu.ppy.sh/users/10822220), ![][flag_FR] [ZeddaStake](https://osu.ppy.sh/users/8801844) |
 | Streamer | ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_NL] [oliebol](https://osu.ppy.sh/users/2756335), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958) |
 | Commentator | ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ![][flag_AU] [anim shnacc](https://osu.ppy.sh/users/11373924), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_NZ] [Blujae](https://osu.ppy.sh/users/10613885), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_NZ] [Erkfir](https://osu.ppy.sh/users/7756939), ![][flag_PL] [Finite](https://osu.ppy.sh/users/5385806), ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_ID] [Horou](https://osu.ppy.sh/users/10807310), ![][flag_DE] [Malox](https://osu.ppy.sh/users/4516252), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_CA] [Sansnaka](https://osu.ppy.sh/users/5543535), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235), ![][flag_CA] [Syako](https://osu.ppy.sh/users/8184715), ![][flag_NZ] [WhiteWeebWolf](https://osu.ppy.sh/users/8927299), ![][flag_GB] [Young Alpha](https://osu.ppy.sh/users/15383957) |
@@ -151,6 +151,25 @@ The Mania Beginner's Showdown 2 is run by various community members.
 
 ### High division
 
+#### Round of 32
+
+**[Download the mappack here! (82 MB)](https://mega.nz/file/jqZAyKDR#PM5zLooumSi6SfzJ6NeBNkRw9_IJlIX2Lg6h-7jRpfs)**
+
+- FreeMod
+  - [Various Artists - 4K SV Pack (Janko) \[Alexander Okunev - Death Mashina\]](https://osu.ppy.sh/beatmapsets/722368#mania/1581834)
+  - [Getter Jaani - Rockefeller Street (Logan636) \[ProSubconsciousVisualizationperity\]](https://osu.ppy.sh/beatmapsets/1110967#mania/2390611)
+  - [MDK - Press Start (juankristal) \[mint's Winner\]](https://osu.ppy.sh/beatmapsets/850118#mania/2428533)
+  - [Mili - Boys in Kaleidosphere (Turtwig) \[Abstraction\]](https://osu.ppy.sh/beatmapsets/1063420#mania/2316822)
+  - [Senya Arr. Iceon - Replica no Koi (Kroly-) \[Hard\]](https://osu.ppy.sh/beatmapsets/712241#mania/1505675)
+  - [Nekomata Master - Despair of ELFERIA (LNP-) \[Hyper\]](https://osu.ppy.sh/beatmapsets/565431#mania/1195079)
+  - [xi - Solar Storm (DustMoon) \[Hyper\]](https://osu.ppy.sh/beatmapsets/747277#mania/1578903)
+  - [Laur - A Lasting Promise (Fresh Chicken) \[ADVANCED\]](https://osu.ppy.sh/beatmapsets/740015#mania/1562258)
+  - [lapix - Duality Rave (Zekk's 'FULL SPEC' Remix) (Hydria) \[Kamuy's Hard\]](https://osu.ppy.sh/beatmapsets/859797#mania/2081818)
+  - [Tsundere Alley - Super Lady (Azubeur) \[Disco\]](https://osu.ppy.sh/beatmapsets/693544#mania/1467468)
+  - [penoreri - crossing blue (\_Kobii) \[Sado's 4K ADVANCED\]](https://osu.ppy.sh/beatmapsets/923032#mania/1927513)
+- Tiebreaker
+  - **[Camellia - chrono diver -fragment- (Camellia's "crossroads of chrono" remix) (Raveille) \[TIME//CROSS\]](https://osu.ppy.sh/beatmapsets/1175949#mania/2452723)**
+
 #### Group Stage
 
 **[Download the mappack here! (66 MB)](https://mega.nz/file/lKBXUaTJ#PW4bOBbpzUDAo_aa4mIgHUlqaWblf6-MlrWOWiy8EuY)**
@@ -182,6 +201,25 @@ The Mania Beginner's Showdown 2 is run by various community members.
   - [Silentroom - NULCTRL (Raveille) \[Stage 5: Command\]](https://osu.ppy.sh/beatmapsets/1162328#mania/2424667)
 
 ### Low division
+
+#### Round of 32
+
+**[Download the mappack here! (76 MB)](https://mega.nz/file/3uZwnShJ#6Li9lnfQVHlmdDC7J52n5M4kQniA_lTsGaQ9t_fRyQ0)**
+
+- FreeMod
+  - [Zest - Karton (Adri) \[SFW\]](https://osu.ppy.sh/beatmapsets/1119118#mania/2337552)
+  - [cYsmix - Breeze (Tidek) \[Normal\]](https://osu.ppy.sh/beatmapsets/639924#mania/1357116)
+  - [MDK - Press Start (juankristal) \[Newbie\]](https://osu.ppy.sh/beatmapsets/850118#mania/2285995)
+  - [Sakamoto Maaya - Okaerinasai (Raveille) \[Welcome Home (LN edit)\]](https://osu.ppy.sh/beatmapsets/503749#mania/2452685)
+  - [Nuage - Crazy Little Love (Sky\_Demon) \[4Key Hard\]](https://osu.ppy.sh/beatmapsets/191505#mania/455873)
+  - [Qrispy Joybox feat. Tokiwa Yu - Shiratsuyu no Kaze (Arzenvald) \[4K Hyper\]](https://osu.ppy.sh/beatmapsets/1123634#mania/2348379)
+  - [Primary - in the Garden (Mat) \[Julie's 4K Hard\]](https://osu.ppy.sh/beatmapsets/361117#mania/1002180)
+  - [Camellia - INSECTICIDE (Raediaufar) \[NOVICE\]](https://osu.ppy.sh/beatmapsets/449590#mania/964704)
+  - [The Flashbulb - Kirlian Voyager (Fullerene-) \[Dreamless Wanderer\]](https://osu.ppy.sh/beatmapsets/307508#mania/687946)
+  - [ARForest - Rainbow Magic!! (leqek) \[4K NM\]](https://osu.ppy.sh/beatmapsets/1113006#mania/2325186)
+  - [Yuikonnu - Kakushigoto (Short Ver.) (Loliconjr) \[Dragon's HD\]](https://osu.ppy.sh/beatmapsets/864922#mania/1812363)
+- Tiebreaker
+  - **[Team Grimoire - RougokuSTRIP (Grimoire crossbreed rmx) (\[Shana Lesus\]) \[Magic exists \[HD\]\]](https://osu.ppy.sh/beatmapsets/490717#mania/1086583)**
 
 #### Group Stage
 
