@@ -40,7 +40,7 @@ OSIM was run by various osu! community members predominantly hailing from Singap
 | Position | Members |
 | :-- | :-- |
 | Host | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531) |
-| Map selector | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531) |
+| Map selector | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_SG] [Rtyzen](https://osu.ppy.sh/users/2439822) |
 | Streamer | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531) |
 | Commentator | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531) |
 | Referee | ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_ID] [phizh](https://osu.ppy.sh/users/4569302), ![][flag_MY] [Sonic-](https://osu.ppy.sh/users/8691555), ![][flag_MY] [Its not Marvin](https://osu.ppy.sh/users/13600612), ![][flag_MY] [Xyrelyx](https://osu.ppy.sh/users/3765632), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711) |
@@ -57,7 +57,13 @@ OSIM was run by various osu! community members predominantly hailing from Singap
 
 ## Podium
 
-TBD
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Player |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | **somaymalaycapcay** (![][flag_ID] [Rexeez](https://osu.ppy.sh/users/1987591), ![][flag_ID] [Somay 287](https://osu.ppy.sh/users/4314559), ![][flag_MY] [Ho Ping](https://osu.ppy.sh/users/10487700)) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | **adventure timers** (![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_MY] [wilson9909](https://osu.ppy.sh/users/8703188), ![][flag_ID] [OTWGE](https://osu.ppy.sh/users/11759284)) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | **we will 操你妈** (![][flag_SG] [Soba Noodles](https://osu.ppy.sh/users/3010281), ![][flag_MY] [Zeph2003](https://osu.ppy.sh/users/10343292), ![][flag_SG] [Lunarsol](https://osu.ppy.sh/users/6622650)) |
 
 ## Participants
 
@@ -275,7 +281,7 @@ Sunday, 17 May 2020, Grand Final:
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | Grand Final | adventure timers | 2 | **7** | **somaymalaycapcay** | [#1](https://osu.ppy.sh/community/matches/61774613) |
-| Grand Final (Bracket Reset) | somaymalaycapcay | TBD | TBD | adventure timers | [#1](TBD) |
+| Grand Final (Bracket Reset) | **somaymalaycapcay** | **7** | 6 | adventure timers | [#1](https://osu.ppy.sh/community/matches/62124107) |
 
 ### Finals week 1
 
