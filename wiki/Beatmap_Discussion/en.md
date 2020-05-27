@@ -1,8 +1,10 @@
 ---
 tags:
-  - Modding v2
-  - mv2
+  - beatmap discussions
+  - modding V2
+  - MV2
 ---
+
 <!-- TODO: the interface has changed quite a bit. this whole article should be rechecked to make sure it all makes sense still -->
 
 # Beatmap discussion
@@ -19,7 +21,7 @@ tags:
 - Submission field
 - Discussions
 
-You can follow along with our images from [this beatmap](https://osu.ppy.sh/beatmapsets/924551/discussion/) to get familiar with beatmap discussions or try opening a discussion page yourself!
+You can follow along with our images from [this beatmap](https://osu.ppy.sh/beatmapsets/924551/discussion) to get familiar with beatmap discussions or try opening a discussion page yourself!
 
 ## Quick-start
 
@@ -35,11 +37,11 @@ It is important to keep a few things in mind to use beatmap discussion pages eff
 
 ![](img/mode-selection.jpg "Mode selection")
 
-Mode selection changes the [game mode](/wiki/Game_mode) you are modding. It is only possible to select a game mode if the beatmapset has a difficulty of that game mode. This is only used with beatmaps that contain multiple game modes; otherwise, it will default to the mapped game mode.
+Mode selection changes the [game mode](/wiki/Game_Modes) you are modding. It is only possible to select a game mode if the beatmapset has a difficulty of that game mode. This is only used with beatmaps that contain multiple game modes; otherwise, it will default to the mapped game mode.
 
 ## Beatmap header
 
-*For information about setting metadata, see: [Ranking Criteria § Metadata](/wiki/Ranking_Criteria#metadata)*
+*For information about setting metadata, see: [Song Setup § Song and Map Metadata](/wiki/Beatmap_Editor/Song_Setup#song-and-map-metadata)*
 
 ![](img/beatmap-header.jpg "Beatmap header")
 
@@ -58,7 +60,7 @@ You can select different [difficulties](/wiki/Difficulties) through the dropdown
 Sorting options change the way beatmap discussions are viewed. When an option is chosen, it changes both the modding timeline and the modding section to only include the selected type of post. This is especially useful for seeing pending posts on a discussion page. Different options include:
 
 - `Mine` shows your own posts
-- `Notes` shows any notes by the mapper or [Beatmap Nominators](/wiki/Beatmap_Nominators)
+- `Notes` shows any notes by the mapper or [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators)
 - `Resolved` shows resolved posts
 - `Pending` shows pending posts
 - `Praises` shows praise and hype posts
@@ -83,7 +85,7 @@ The beatmap status bar shows everything relevant to a beatmap's spot in the [Bea
 
 ### Hype train
 
-The hype train tracks how many [hypes](/wiki/Glossary#hype) a mapset has received. Once 5 hypes have been achieved, the beatmap can be nominated by [Beatmap Nominators](/wiki/Beatmap_Nominators). Hypes can only be given by going to the `General (All Difficulties)` tab, as it will not work through the `General` or the `Timeline` tabs. Clicking the `Hype` button will automatically move you to the correct tab.
+The hype train tracks how many [hypes](/wiki/Beatmaps/Hype) a mapset has received. Once 5 hypes have been achieved, the beatmap can be nominated by [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators). Hypes can only be given by going to the `General (All Difficulties)` tab, as it will not work through the `General` or the `Timeline` tabs. Clicking the `Hype` button will automatically move you to the correct tab.
 
 ### Nomination status
 
@@ -113,7 +115,7 @@ Modding happens through three tabs, which separate posts of different types and 
 
 `Timeline` shows posts at specific points of a difficulty according to the first timestamp placed. Every post in this tab must include a timestamp to be posted. Any timestamps later on will have no influence on post order.
 
-`History` logs all changes to a discussion page in chronological order. Changes are colorcoded; with green being resolved posts and status changes, red being new problems after nomination, and blue being everything else. Clicking on any reference number will jump to the specific post. This tab is not used while modding, but is useful for [Beatmap Nominators](/wiki/Beatmap_Nomiators) and other staff to check issues.
+`History` logs all changes to a discussion page in chronological order. Changes are colorcoded; with green being resolved posts and status changes, red being new problems after nomination, and blue being everything else. Clicking on any reference number will jump to the specific post. This tab is not used while modding, but is useful for [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) and other staff to check issues.
 
 ## Submission field
 
@@ -139,7 +141,7 @@ Discussions can be sorted through with the buttons below the `Discussions` title
 
 ### Thumbs up/down
 
-If a modpost was helpful [Kudosu!](/wiki/Kudosu!) can be given. This can be done by anyone except the post creator by giving the post a thumbs up. This is useful for modders as Kudosu! is needed for entry into the [Beatmap Nominators](/wiki/Beatmap_Nominators). If this feature is abused [BN](/wiki/Beatmap_Nominators), [NAT](/wiki/Nomination_Assessment_Team), and [GMT](/wiki/Global_Moderation_Team) members can give a thumbs down to deny any Kudosu! given. If the abuse is done maliciously a penalty can also be given to abusers.
+If a modpost was helpful [Kudosu!](/wiki/Modding/Kudosu) can be given. This can be done by anyone except the post creator by giving the post a thumbs up. This is useful for modders as Kudosu! is needed for entry into the [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators). If this feature is abused, [BN](/wiki/People/The_Team/Beatmap_Nominators), [NAT](/wiki/People/The_Team/Nomination_Assessment_Team), and [GMT](/wiki/People/The_Team/Global_Moderation_Team) members can give a thumbs down to deny any Kudosu! given. If the abuse is done maliciously a penalty can also be given to abusers.
 
 ### Discussion timeline
 
