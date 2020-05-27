@@ -1,23 +1,27 @@
-# Timing
+# Timing tab
+
+<!-- TODO: screenshots need updating -->
 
 *See also: [How to time songs](/wiki/Guides/How_to_Time_Songs)*
 
-[Beatmap](/wiki/Beatmaps) **timing** consists of a song's [offset](/wiki/Beatmapping/Offset), its [beats per minute (BPM)](/wiki/Beatmapping/Beats_per_minute), and its [meter](https://en.wikipedia.org/wiki/Metre_(music)).
+![Screenshot of the timing tab in the editor](img/Timing_base.jpg)
 
-Correct timing on beatmaps is necessary for players to maintain [accuracy](/wiki/Gameplay/Accuracy) while playing. Incorrectly timed beatmaps cannot pass through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
+The **timing tab** of the [beatmap editor](/wiki/Beatmap_Editor) lets mappers change the timing settings of a [beatmap](/wiki/Beatmaps). Timing is usually the first step in creating a new beatmap.
 
-![Screenshot of the "Timing and Control Points" window](img/TimingSetup.jpg "The timing setup dialog shows the beatmap's fluctuating BPM and sampleset changes")
+Timing consists of a song's [offset](/wiki/Beatmapping/Offset), [beats per minute (BPM)](/wiki/Beatmapping/Beats_per_minute), and [meter](https://en.wikipedia.org/wiki/Metre_(music)). Correct timing on beatmaps is necessary for players to maintain [accuracy](/wiki/Gameplay/Accuracy) while playing. Incorrectly timed beatmaps cannot pass through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
 
-<!-- add screenshot without window borders later -->
+## Timing and Control Points window
 
-Timing points can be added from the `Timing and Control Points` window in the editor (default shortcut `F6`).
+![Screenshot of the Timing and Control Points window](img/TimingSetup.jpg)
 
-## Uninherited timing points
+Timing points can be added from the `Timing and Control Points` window in the editor (default shortcut `F6`). Timing points divide a song into timing sections to accurately reflect changes to a song's timing.
 
-An uninherited timing point, or "red line", is the base for a section's BPM and meter. Every beatmap must have at least one red line, however some songs require multiple due to changes in BPM or meter.
+### Uninherited timing point
 
-## Inherited timing points
+An uninherited timing point, displayed as a red line, is the base for a timing section's BPM, offset, and meter. Every beatmap must have at least one red line, however some songs require multiple due to more complex composition or timing inaccuracies caused by live performance.
 
-An inherited timing point, or "green line", inherits BPM and meter settings from the previous red line. These are used to adjust [slider velocity](/wiki/Hit_Objects/Slider_velocity) and [hitsound](/wiki/Beatmapping/Hitsounds) volume settings part-way through a section.
+### Inherited timing point
 
-An inherited timing point cannot be placed before a red line because it would not inherit any settings.
+An inherited timing point, displayed as a green line, inherits BPM, offset, and meter settings from the previous red line. Green lines are used to adjust [slider velocity](/wiki/Hit_Objects/Slider_velocity) and [hitsound](/wiki/Beatmapping/Hitsounds) settings.
+
+An inherited timing point cannot be placed before an uninherited one, because it would not inherit any settings.
