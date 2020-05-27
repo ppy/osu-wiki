@@ -35,7 +35,7 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 
 ## Beatmapset
 
-*Each of osu!mania's key counts are considered individual game modes throughout this section.*
+*Note: Each of [osu!mania](/wiki/Game_Modes/osu!mania)'s key counts are considered individual game modes throughout this section.*
 
 ### Rules
 
