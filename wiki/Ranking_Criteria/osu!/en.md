@@ -1,8 +1,8 @@
 # osu! ranking criteria
 
-The **osu! Ranking Criteria** are rules and guidelines that apply to the creation of osu!-specific difficulties. In order to get an osu!-specific difficulty ranked, it is mandatory that the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be ignored under exceptional circumstances. These exceptional circumstances must be justified by an exhaustive explanation as of why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
+***Note: This document is an extension of the [general ranking criteria](/wiki/Ranking_Criteria).***
 
-Rule proposals as well as suggestions are discussed in the [Ranking Criteria Subforum](https://osu.ppy.sh/community/forums/87). Any rule that went through a discussion and community approval process is listed here as it has been agreed on in the respective discussion thread.
+This set of **osu! ranking criteria** lays out [rules and guidelines](/wiki/Ranking_Criteria#general-terms) that [osu!standard](/wiki/Game_Modes/osu!)-specific [beatmaps](/wiki/Beatmaps) must follow in order to progress through the [beatmap ranking procedure](/wiki/Beatmap_ranking_procedure).
 
 ## Overall
 
