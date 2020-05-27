@@ -1,3 +1,8 @@
+---
+tags:
+  - song compilations
+---
+
 # Song compilation
 
 A **song compilation** is a collection of songs, usually sharing a genre, artist, or other theme.

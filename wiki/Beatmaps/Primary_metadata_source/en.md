@@ -1,7 +1,11 @@
 ---
 tags:
+  - metadata sources
   - official metadata source
+  - official metadata sources
   - official source
+  - official sources
+  - primary metadata sources
 ---
 
 # Primary metadata source

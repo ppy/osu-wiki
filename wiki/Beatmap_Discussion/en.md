@@ -1,7 +1,8 @@
 ---
 tags:
-  - Modding v2
-  - mv2
+  - beatmap discussions
+  - modding V2
+  - MV2
 ---
 
 <!-- TODO: the interface has changed quite a bit. this whole article should be rechecked to make sure it all makes sense still -->
