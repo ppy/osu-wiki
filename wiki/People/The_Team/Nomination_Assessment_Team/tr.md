@@ -5,13 +5,13 @@ tags:
 
 # Aday Gösterme Denetleme Takımı
 
-**Aday Gösterme Denetleme Takımı** *(Nomination Assessment Team)* (***NAT***) [Beatmap Aday Göstericiler](/wiki/People/The_Team/Beatmap_Nominators) (*BN*) ekibinin moderatörleridir ve osu!'nun *beatmapping* kısmının fonksiyonel kalmasından sorumludurlar.
+**Aday Gösterme Denetleme Takımı** (*Nomination Assessment Team*, ***NAT***) [Beatmap Aday Göstericiler](/wiki/People/The_Team/Beatmap_Nominators) (*BN*) ekibinin moderatörleridir ve osu!'nun *beatmapping* kısmının fonksiyonel kalmasından sorumludurlar.
 
 NAT üyeleri kırmızı renk kullanıcı isimlerinden ve ünvanlarından ayırt edilebilirler. [Küresel Moderasyon Takımı](/wiki/People/The_Team/Global_Moderation_Team) (*GMT*) gibi, onların da site çaplı moderasyon yetkileri ve oyun-içi sohbet kanallarında koyu kırmızı kullanıcı ismine sahiptirler.
 
 ## Sorumluluklar
 
-NAT mapping ile ilgili pek çok işten sorumludur, bunlar dört alt kategoride incelenebilir: 
+NAT mapping ile ilgili pek çok işten sorumludur, bunlar dört alt kategoride incelenebilir:
 
 - **Değerlendirme:** Mevcut Beatmap Aday Göstericilerin ve adayların yeterliliklerini ve aktivitelerini değerlendirme. NAT üyelerinin çoğu bu alt kategorinin iştirakından sorumludur.
 - **Yapısal:** Derecelendirme sürecini çerçeveleyen konuları belgeleme, kuralları ve yönergeleri [derecelendirme kriterleri](/wiki/Ranking_Criteria) doğrultusunda değiştirme, ilgili araçları ve web sayfalarını geliştirme ve sürdürme.
@@ -28,7 +28,7 @@ NAT'ye katılmadan önce, bir kullanıcı ya asil Beatmap Aday Göstericiler üy
 
 Yeni NAT üyelerinin büyük çoğunluğu BN değerlendirilmesine yardım edecekleri için, NAT adaylarının diğerlerinin yeterliliklerini ölçmede yetkin olmaları önemlidir. Asil BN'lerin, NAT'nin gerçek değerlendirmelerinin yanı sıra, alıştırma yapmak amacıyla sahte değerlendirmeler yapma gibi bir seçenekleri bulunmaktadır. Bir NAT adayı, eğer yaptığı değerlendirmeler detaylı ve NAT'ninkilere benzer sonuca ulaşıyorsa (veya ayrıca destekleyici bir mantığa sahipse) çok daha yüksek bir terfi etme şansı elde eder.
 
-NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikle, BN değerlendirmelerinin yapılmasına benzer bir şekilde, adayın terfi edip etmemesi üzerine karar verilmesi için toplanır. BN'ler de eğer geri bildirim almak ve dikkate alınıp alınmadıklarını öğrenmek istiyorlarsa NAT'ye katılmak ile ilgili soru sorma konusunda serbesttirler. Nitekim, mevcut NAT'nin aktivitesine ve beceri setine bağlı olarak, yeni bir üyeye ihtiyaç olmayabilir. Ancak mevcut üyeler giderek inaktif olmaya başladığında, ya da daha çok üye gerektiren yeni bir dizi iş yükü bindiğinde, vs. olası yeni NAT terfi edilir. 
+NAT uzun zaman periyodlarıyla potansiyel NAT üyelerini gözetler, ve genellikle, BN değerlendirmelerinin yapılmasına benzer bir şekilde, adayın terfi edip etmemesi üzerine karar verilmesi için toplanır. BN'ler de eğer geri bildirim almak ve dikkate alınıp alınmadıklarını öğrenmek istiyorlarsa NAT'ye katılmak ile ilgili soru sorma konusunda serbesttirler. Nitekim, mevcut NAT'nin aktivitesine ve beceri setine bağlı olarak, yeni bir üyeye ihtiyaç olmayabilir. Ancak mevcut üyeler giderek inaktif olmaya başladığında, ya da daha çok üye gerektiren yeni bir dizi iş yükü bindiğinde, vs. olası yeni NAT terfi edilir.
 
 ## Takım üyeleri
 
