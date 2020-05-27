@@ -111,7 +111,7 @@ As of now, joining the weekly multiplayer lobbies requires participants to downl
   - Each beatmap of a playlist counts equally to the leaderboard score. Harder difficulties do not provide more score.
   - Individual beatmap score is based on osu!lazer's scoring system.
 4. The weekly total Ranked Score visible in the timeshift lobby is called "Weekly Ranked Score" onwards.
-4. Once a timeshift lobby concludes, the Weekly Ranked Score of each participant of the room is added to the Seasonal Leaderboard.
+5. Once a timeshift lobby concludes, the Weekly Ranked Score of each participant of the room is added to the Seasonal Leaderboard.
 
 ### Seasonal Leaderboard
 
@@ -187,7 +187,6 @@ The project lead has changed several times in its history. ![][flag_US] [Sapphir
 
 Renamed to [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights) in March 2017, the system itself stayed mostly consistent while adding additional rewards like medals and enhancing the presentation of the Beatmap Spotlights furtherly. During an internal overhaul of the Quality Assurance Team, the responsibility for the project has been reassigned to ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) and re-implemented a community-based selection team. In November 2018, the frequency of the Spotlights have been changed to a [seasonal release cycle](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). In March 2020, ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) rejoined the project lead together with Kurokami, both reworking it into a new shape and assembling a new team of osu! curators.
 
-[flag_AT]: /wiki/shared/flag/AT.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
 [flag_CL]: /wiki/shared/flag/CL.gif
 [flag_CN]: /wiki/shared/flag/CN.gif
