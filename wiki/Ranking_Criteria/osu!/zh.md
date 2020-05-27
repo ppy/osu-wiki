@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 2da3d3ec26261552cc7ae67298d375b939addbf3
+---
+
 # osu! ranking criteria
 
 **osu! Ranking Criteria** 是一系列关于创建 osu! 模式谱面的规定和指南。为了使 osu! 模式谱面被 ranked，谱面必须遵循以下列出的标准。**规定在任何情况下都须遵守**，而指南可以在某些情况下打破。但这些例外的情况必须有详尽合理的解释，解释指南被打破的原因，以及为什么你认为遵守指南会影响谱面的整体质量。
