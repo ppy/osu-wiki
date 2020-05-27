@@ -52,7 +52,7 @@ Check out [this brand new set](https://osu.ppy.sh/beatmapsets/1130581) by [DTM9 
     <source src="https://assets.ppy.sh/artists/83/previews/2186.mp3" type="audio/mpeg">
 </audio>
 
------
+---
 
 All of the above plus a whole bunch more are available right now over at [**Thank You Scientist**'s Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/83), so make sure to check them out! Everything's all pre-timed and usual and just waiting for your creative touch, give mapping a try!
 
