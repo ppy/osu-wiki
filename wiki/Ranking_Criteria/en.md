@@ -75,7 +75,7 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 - **[Primary metadata sources](/wiki/Beatmaps/Primary_metadata_source) must be used as references for metadata.** Do not modify metadata from primary sources except to comply with formatting and standardisation rules below. If no sources are available, use what is most common and recognizable.
 - **The artists of a song must be traceable to existing people.** If there is no existing person recorded to be the artist, then `Unknown Artist` is to be used. Fictional characters or programs like Vocaloids cannot be used as the sole artist of any given song.
 - **You must use the Source field if the song comes from or is directly tied to another media such as a video game, movie, series, etc.** Website names, album names, or BMS are not acceptable sources. If the song was featured or tied to a media after it was released, the source field is optional. `osu!` may be used as a source for osu!'s Featured Artist content. If a song has multiple potential sources, any options are valid. For remixes, arrangements, or covers based upon the original song, the source(s) of the original song would apply in the same way.
-  - In cases where a [Song Compilation](/wiki/Beatmapping/Song_compilation)/Remix/Medley/etc. has songs without a common source, the sources must be put in the tags instead of the source field.
+  - In cases where a [song compilation](/wiki/Beatmapping/Song_compilation)/remix/medley/etc. has songs without a common source, the sources must be put in the tags instead of the source field.
 - **Metadata that exceeds the field's limits (81 characters) must be shortened.** Start by dropping additional markers and if this still is not sufficient, indicate that the title has been shortened using `...` in a sensible place.
 - **If the artist or title fields were shortened to fit in field limits, the omitted information must be added to the tags.**
 - **If the song mapped is a licensed one in the featured artist library, `featured artist` must be added to tags.**
@@ -83,7 +83,7 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 
 #### Standardisation
 
-*All forms of Artist/Title standardisation apply to both the `Romanised` and `Unicode` fields, excluding standardised spaces for full-width characters.*
+*Note: All forms of artist and title standardisation apply to both the `Romanised` and `Unicode` fields, excluding standardised spaces for full-width characters.*
 
 - **Commas, `vs.`, `feat.`, `CV:` and any other symbols linking or designating artists must include a trailing space.** Excluding commas, a leading space is also required if the marker is preceded by a word.
 - **Any form of `vs.`, `Vs.`, `VS`, etc. must be written as `vs.` when it is used as a marker signifying a collaboration between two or more artists.**
@@ -125,7 +125,7 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 
 #### Standardisation
 
-*All forms of Artist/Title standardisation apply to both the `Romanised` and `Unicode` fields, excluding standardised spaces for full-width characters.*
+*Note: All forms of artist and title standardisation apply to both the `Romanised` and `Unicode` fields, excluding standardised spaces for full-width characters.*
 
 - **Logos should not be used as references for capitalisation of titles or artists.** Because logos are often stylised, apply standard capitalisation unless other textual metadata supports it.
 - **Tracks created by artists belonging to doujin circles should list the circle's name as the main artist.** The exception to this is when the artist(s) of a given track is well-known enough by their own name. In this case, the specific artist name(s) may be used instead.
