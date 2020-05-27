@@ -16,8 +16,6 @@ Ekibin geri kalanı kalite kontrol, bakım ve organizasyon işlerinde yardım ed
 
 ## Takım üyeleri
 
-<!-- TODO: should probably document old team members, since they aren't credited on the osu! Alumni page -->
-
 *Not: Web sayfasında grup ID'si 31 olan bir Project Loved kullanıcı grubu bulunmaktadır, ancak liste herkese açık değildir. Sadece yönetim amaçlı kullanılmaktadır.*
 
 ### osu!standard kaptanları
