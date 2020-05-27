@@ -8,7 +8,7 @@ A **hitsound** is a sound effect played when a [hit object](/wiki/Hit_Objects) i
 
 [Spinners](/wiki/Hit_Objects/Spinner) and [sliders](/wiki/Hit_Objects/Slider) have additional spinner spin, spinner bonus, slider slide, and slider tick hitsounds.
 
-Beatmappers can replace any default sound samples with custom samples using a [beatmapset](/wiki/Beatmaps/Beatmapset)'s folder. A player's [skin](/wiki/Skinning) can also replace default hitsounds on all beatmaps. Details on hitsound samples can be found in the [hitsound skinning](/wiki/Skinning/Sounds#hitsounds) article.
+Beatmappers can replace any default sound samples with custom samples using a [beatmapset](/wiki/Beatmaps/Beatmapsets)'s folder. A player's [skin](/wiki/Skinning) can also replace default hitsounds on all beatmaps. Details on hitsound samples can be found in the [hitsound skinning](/wiki/Skinning/Sounds#hitsounds) article.
 
 ## Active hitsound
 
