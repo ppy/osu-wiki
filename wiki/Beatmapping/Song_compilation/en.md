@@ -1,8 +1,8 @@
-# Song Compilation
+# Song compilation
 
-A **song compilation** is a collection of songs usually sharing a genre or artist-related theme.
+A **song compilation** is a collection of songs, usually sharing a genre, artist, or other theme.
 
-For [beatmaps](/wiki/Beatmaps), a song compilation often refers to a beatmap's audio file that features multiple different songs. This is not to be confused with a beatmapset that includes multiple song files in its folder.
+[Beatmaps](/wiki/Beatmaps) of song compilations use a single audio file that contains the whole collection of songs, usually including only a single chorus or verse of each. This is not to be confused with a [beatmapset](/wiki/Beatmaps/Beatmapset) that includes multiple song files in its folder.
 
 <!-- this is a stub -->
 
