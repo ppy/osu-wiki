@@ -5,10 +5,10 @@ tags:
 
 # Drain time
 
-**Drain time** refers to the total duration of a [beatmap](/wiki/Beatmaps) that requires the player to be active. Drain time does not include breaks and unmapped portions of a beatmap.
+**Drain time** refers to the total duration of a [beatmap](/wiki/Beatmaps) that requires the player to be active. It begins at the first [hit object](/wiki/Hit_Objects), ends at the end of the last hit object, and does not include breaks. The word *drain* originates from [osu!](/wiki/Game_Modes/osu!) and [osu!catch](/wiki/Game_Modes/osu!catch)'s [health drain](/wiki/Beatmapping/Health_Drain) system, where the player's health is constantly decreasing as they play the map.
 
-Drain time originates from osu! and osu!catch's [health drain](/wiki/Beatmapping/Health_Drain) system, during which a player's health constantly drains while playing.
+Beatmaps with very long drain times are typically referred to as *[marathons](/wiki/Glossary#marathon)* due to requiring endurance beyond the norm in order to be completed.
 
-The beatmap info page calculates drain time (labeled "Drain length") according to the time between the start positions of first and last objects of a beatmap. If a beatmap's last object is a slider or a spinner, its labeled drain time will not include the full length of the object. Rules and guidelines related to drain time on the [Ranking Criteria](/wiki/Ranking_Criteria) expect drain time to include the full length of a beatmap's last object.
+The beatmap info page on the website<!-- TODO: link --> calculates drain time (labeled `Drain length`) based on only hit objects' start times, so if the last object of the map is a [slider](/wiki/Hit_Objects/Slider) or [spinner](/wiki/Hit_Objects/Spinner), the drain time will be displayed incorrectly.
 
 <!-- this is a stub -->
