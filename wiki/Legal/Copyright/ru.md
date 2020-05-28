@@ -1,5 +1,6 @@
 ---
 legal: true
+no_native_review: true
 ---
 
 # Политика osu! в отношении авторского права
