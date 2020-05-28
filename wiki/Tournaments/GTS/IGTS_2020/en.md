@@ -29,13 +29,11 @@ The **Intermediate Global Taiko Showdown 2020** (***IGTS 2020***) is an Intermed
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, US$66 or 1 year of osu!supporter tag, GTS-themed mousepad sponsored by [Foxbox](https://foxbox.io/) |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$36 or 6 months of osu!supporter tag, GTS-themed mousepad sponsored by [Foxbox](https://foxbox.io/) |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$28 or 2 months of osu!supporter tag, GTS-themed mousepad sponsored by [Foxbox](https://foxbox.io/) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, US$64 or 6 months of osu!supporter tag, first place team banner, GTS-themed mousepad sponsored by [Foxbox](https://foxbox.io/) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$48 or 6 months of osu!supporter tag, second place team banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$32 or 2 months of osu!supporter tag, third place team banner |
 
-![](img/badge.png "IGTS 2020 winner badge")
-
-Cash prizes are all provided by [Giveaway Cuties](https://discord.gg/f44GmgB) group and mousepads are brought to you by [Foxbox](https://foxbox.io/).
+Cash prizes are all provided by ![][flag_US] [Glaceon-](https://osu.ppy.sh/users/6395930) and mousepad is brought to you by [Foxbox](https://foxbox.io/).
 
 ## Organisation
 
