@@ -1,6 +1,6 @@
 # Eşsiz ünvanlara sahip kullanıcılar
 
-Kullanıcı ünvanları genellikle ait oldukları [kullanıcı gruplarına](/wiki/People/The_Team#user-groups) göre ilişkilendirilir, ancak aşağıda listelenen kullanıcılar başka nedenlerden dolayı sahip oldukları ünvanlar verilmiştir. Ünvanların çoğu bulundukları katkılar veya kazandıkları başarımlar sonucu verilmiştir, geriye kalanlar ise osu! tarihinin ikonik veya komik kısımlarının birer hatırasıdır.
+Kullanıcı ünvanları genellikle ait oldukları [kullanıcı gruplarına](/wiki/People/The_Team#kullanıcı-grupları) göre ilişkilendirilir, ancak aşağıda listelenen kullanıcılar başka nedenlerden dolayı sahip oldukları ünvanlar verilmiştir. Ünvanların çoğu bulundukları katkılar veya kazandıkları başarımlar sonucu verilmiştir, geriye kalanlar ise osu! tarihinin ikonik veya komik kısımlarının birer hatırasıdır.
 
 ## Kategorilere göre, nedenleriyle birlikte
 
@@ -53,7 +53,7 @@ Kullanıcı ünvanları genellikle ait oldukları [kullanıcı gruplarına](/wik
 
 ### Genel mapping yarışmalarının kazananları
 
-Çoğu resmi mapping yarışması **Elite Mapper** ünvanını birincilik ödülü takdim eder. 
+Çoğu resmi mapping yarışması **Elite Mapper** ünvanını birincilik ödülü takdim eder.
 
 - ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596)
 - ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883)
@@ -116,7 +116,7 @@ osu!remix yarışmaları birincilik ödülü olarak **osu!mixer** ünvanını ö
 
 ### Featured Artist'ler
 
-osu! hesabına sahip [Featured Artist](/wiki/Featured_Artists)'lere ilişkilerini göstermek adına **Featured Artist** ünvanı verilir. 
+osu! hesabına sahip [Featured Artist](/wiki/Featured_Artists)'lere ilişkilerini göstermek adına **Featured Artist** ünvanı verilir.
 
 ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) ve ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) osu!'nun ses dizaynına ve resmi temalarına bulundukları önceki katkılarından dolayı **osu!musician** ünvanına sahiptirler, ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) ise Featured Artist olduğunda **osu!mixer** ünvanını bulundurmayı tercih etti.
 
@@ -157,7 +157,7 @@ Aşağıdaki üç kişi oyunu çok yüksek seviyelerde oynadıklarından ve hen�
 
 ### Seçkin Storyboarder'lar
 
-Fevkalade storyboard yapma yeteneği gösteren ve topluluğun genelini hayran bırakan storyboarder'lara **Elite Storyboarder** ünvanı verilir. 
+Fevkalade storyboard yapma yeteneği gösteren ve topluluğun genelini hayran bırakan storyboarder'lara **Elite Storyboarder** ünvanı verilir.
 
 - ![][flag_US] [11t](https://osu.ppy.sh/users/2112092)
 - ![][flag_FR] [Damnae](https://osu.ppy.sh/users/989377)
