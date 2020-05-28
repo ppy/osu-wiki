@@ -96,8 +96,8 @@ The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) an
 | Mexico | ![][flag_MX] | ![][flag_TW] | Taiwan | **03:00 UTC** | 22:00 (Fri.) UTC-05 | 11:00 UTC+08 | ² |
 | China | ![][flag_CN] | ![][flag_HK] | Hong Kong | **13:00 UTC** | 21:00 UTC+08 | 21:00 UTC+08 | ¹ |
 | Indonesia | ![][flag_ID] | ![][flag_DE] | Germany | **15:00 UTC** | 22:00 UTC+07 | 17:00 UTC+02 | ² |
-| United States | ![][flag_US] | ![][flag_FR] | France | **18:00 UTC** | 14:00 UTC-04 | 20:00 UTC+02 | ² |
-| Canada | ![][flag_CA] | ![][flag_CL] | Chile | **20:00 UTC** | 15:00 UTC-05 | 16:00 UTC-04 | ² |
+| United States | ![][flag_US] | ![][flag_FR] | France | **17:00 UTC** | 13:00 UTC-04 | 19:00 UTC+02 | ² |
+| Canada | ![][flag_CA] | ![][flag_CL] | Chile | **22:00 UTC** | 17:00 UTC-05 | 18:00 UTC-04 | ² |
 
 ### Sunday, 31 May 2020
 
