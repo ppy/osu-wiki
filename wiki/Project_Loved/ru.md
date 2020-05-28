@@ -31,9 +31,9 @@
 
 Карты, входящие в категорию «Любимые» должны следовать еще нескольким наборам правил:
 
-- [The Metadata section of the Ranking Criteria](/wiki/Ranking_Criteria#metadata)
-- [Song Content Rules](/wiki/Rules/Song_Content_Rules)
-- [Visual Content Considerations](/wiki/Rules/Visual_Content_Considerations)
+- [Раздел метаданных в критериях ранкинга](/wiki/Ranking_Criteria#metadata)
+- [Правила содержимого песни](/wiki/Rules/Song_Content_Rules)
+- [Особенности визуального контента](/wiki/Rules/Visual_Content_Considerations)
 
 Любые проблемы, связанные с этими правилами, обычно решаются во время того, как карта готова для голосования.
 
