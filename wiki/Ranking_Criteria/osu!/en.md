@@ -153,7 +153,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 #### Guidelines
 
-- **Objects 1/4 of a beat apart or less should not fully perfectly [overlap](/wiki/Mapping_Techniques/Overlap),** especially on simpler Insane difficulties.
+- **Objects 1/4 of a beat apart or less should not fully [overlap](/wiki/Mapping_Techniques/Overlap),** especially on simpler Insane difficulties.
 - **Avoid cross screen [jumps](/wiki/Beatmaps/Pattern/Jump) and [streams](/wiki/Beatmaps/Pattern/Stream) whose circles do not [overlap](/wiki/Mapping_Techniques/Overlap).** These are beatmapping techniques primarily reserved for Expert level difficulties.
 - **Slider tick hitsounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hitsounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
 - **Avoid fully covering slider reverse arrows with circles, slider heads, or slider tails within a 1/2 beat of the reverse arrow being reached.** This gives players enough time to recognize the reverse arrow.
