@@ -89,11 +89,11 @@ The osu!catch World Cup 2019 was run by various community members by distributin
 | ![][flag_VE] | **Venezuela** | **[Zuleta\_](https://osu.ppy.sh/users/10287019)**, [\[Aless50\]](https://osu.ppy.sh/users/4339778), [Hisashi Shimoro](https://osu.ppy.sh/users/6736420), [Tsugumi](https://osu.ppy.sh/users/8746368),[-\[CocoaFangirl\]](https://osu.ppy.sh/users/10291253), [-\[Ketsu\]-](https://osu.ppy.sh/users/10496305) |
 | ![][flag_VN] | **Vietnam** | **[\[A\]bsolute](https://osu.ppy.sh/users/8525921)**, [Seonna](https://osu.ppy.sh/users/4677276), [Close](https://osu.ppy.sh/users/4744615), [Hana Yukiko](https://osu.ppy.sh/users/4964095), [Saaya](https://osu.ppy.sh/users/5144295), [mothernature](https://osu.ppy.sh/users/6403418) |
 
-------------------------------------------------------------------------
+---
 
 ![CWC 2019 Podium](img/podium.png)
 
-------------------------------------------------------------------------
+---
 
 ## Mappools
 
