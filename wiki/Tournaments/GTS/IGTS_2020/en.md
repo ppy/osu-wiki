@@ -55,12 +55,13 @@ The Intermediate Global Taiko Showdown 2020 is run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1062772)
-- [GTS Discord server](https://discord.gg/3mGC3HB)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1062773)
+- [IGTS Discord server](https://discord.gg/a6PzzFz)
 - [GTS website](https://gtsosu.com/)
 - Livestream
   - [GTSosu](https://www.twitch.tv/gtsosu)
   - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)
+- [Pick'em predictions website](https://pickem.hwchr.com/tournaments/34)
 
 ## Participants
 
