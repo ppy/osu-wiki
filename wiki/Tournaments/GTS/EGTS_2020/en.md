@@ -102,9 +102,9 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
 2. Players will be seeded with the average of their ranks on each map during the Qualifiers stage.
 3. In case there are more than 128 registered players, only the top 128 of the Qualifiers will exceed to the knockout stage.
 4. The winning conditions for each stage are listed below:
-   - the Round of 128, the Round of 64, the Round of 32, and the Round of 16: Best-Of-9 (First to 5 points)
+   - the Round of 128, the Round of 64, the Round of 32, and the Round of 16: Best-of-9 (First to 5 points)
    - the Quarterfinals: Best-of-11 (First to 6 points)
-   - the Semifinals, the Finals, and the Grand Finals: Best-Of-13 (First to 7 points)
+   - the Semifinals, the Finals, and the Grand Finals: Best-of-13 (First to 7 points)
 
 ### Qualifiers regulations
 
