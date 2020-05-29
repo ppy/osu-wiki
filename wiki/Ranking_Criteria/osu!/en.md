@@ -15,7 +15,7 @@ Overall rules and guidelines apply to every kind of osu! difficulty. Rhythm-rela
 - **Hit objects must never be off-screen in 4:3 aspect ratios.** Hit objects that are even partially off-screen can create reading difficulties. Test play your beatmap to confirm this.
 - **Spinners must be long enough for Auto to achieve 1000 bonus score.** Shorter spinners do not allow adequate spin time.
 - **Each beatmap must use at least two different custom combo colours unless the default skin is forced.** The combo colours must not blend with the beatmap's background/storyboard/video in any case. This is so hit objects are always visible to the player and custom skin's combo colours do not blend with the background accidentally.
-- **Every slider must have a clear and visible path to follow from start to end.** Sliders that overlap themselves without straightforward slider borders and sliders whose individual sections are unreadable cannot be used. A slider's end position must be clear under the assumption that a player has a skin which makes slider end circles fully transparent.
+- **Every slider must have a clear and visible path of movement to follow from start to end.** Sliders that overlap themselves without straightforward slider borders and sliders whose individual sections are unreadable cannot be used. A slider's end position must be clear under the assumption that a player has a skin which makes slider end circles fully transparent.
 - **Do not use [keysounds](/wiki/Beatmapping/Hitsound#keysound) without hitnormal support.** Players do not receive enough feedback otherwise.
 - **If a hitsound is used as hitnormal, ensure it does not blend with the song.** Players do not receive enough feedback otherwise.
 - **Difficulties must convert to other game modes without breaking star rating/performance points.** In certain cases, a `.osu` file can be formatted improperly, causing converted difficulties to incorrectly display star rating and reward inaccurate performance points.
@@ -64,6 +64,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Rules
 
 - **Objects 1 beat apart or less must not fully [overlap](/wiki/Mapping_Techniques/Overlap).**
+- **Do not use [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_Criteria/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
 
 #### Guidelines
 
@@ -93,6 +94,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Rules
 
 - **Objects 1 beat apart or less must not fully [overlap](/wiki/Mapping_Techniques/Overlap).**
+- **Do not use [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_Criteria/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
 
 #### Guidelines
 
@@ -131,6 +133,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 #### Rules
 
 - **Objects 1/2 of a beat apart or less must not fully [overlap](/wiki/Mapping_Techniques/Overlap).** Slider heads or tails fully overlapped by slider tails are exempt, so long as their sliderbodies are visible.
+- **Do not use [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_Criteria/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
 
 #### Guidelines
 
@@ -154,6 +157,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 #### Guidelines
 
 - **Objects 1/4 of a beat apart or less should not fully perfectly,** especially on simpler Insane difficulties.
+- **Avoid [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_Criteria/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
 - **Avoid cross screen [jumps](/wiki/Beatmaps/Pattern/Jump) and [streams](/wiki/Beatmaps/Pattern/Stream) whose circles do not [overlap](/wiki/Mapping_Techniques/Overlap).** These are beatmapping techniques primarily reserved for Expert level difficulties.
 - **Slider tick hitsounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hitsounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
 - **Avoid fully covering slider reverse arrows with circles, slider heads, or slider tails within a 1/2 beat of the reverse arrow being reached.** This gives players enough time to recognize the reverse arrow.
@@ -169,6 +173,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 #### Guidelines
 
+- **Avoid [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_Criteria/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
 - **Slider tick hitsounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hitsounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
 
 #### Difficulty setting guidelines
