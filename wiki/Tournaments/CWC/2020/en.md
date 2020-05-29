@@ -93,7 +93,7 @@ The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) an
 
 | Team A |  |  | Team B | Match time | Local time A | Local time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Mexico | ![][flag_MX] | ![][flag_TW] | Taiwan | **03:00 UTC** | 22:00 (Fri.) UTC-05 | 11:00 UTC+08 | ² |
+| Mexico | ![][flag_MX] | ![][flag_TW] | Taiwan | **05:00 UTC** | 0:00 UTC-05 | 13:00 UTC+08 | ² |
 | China | ![][flag_CN] | ![][flag_HK] | Hong Kong | **13:00 UTC** | 21:00 UTC+08 | 21:00 UTC+08 | ¹ |
 | Indonesia | ![][flag_ID] | ![][flag_DE] | Germany | **15:00 UTC** | 22:00 UTC+07 | 17:00 UTC+02 | ² |
 | United States | ![][flag_US] | ![][flag_FR] | France | **17:00 UTC** | 13:00 UTC-04 | 19:00 UTC+02 | ² |
@@ -125,7 +125,7 @@ The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) an
   - [PUP - DVP (Jemzuu) \[YUH\]](https://osu.ppy.sh/beatmapsets/1159828#fruits/2420076)
   - [LeaF - Arianrhod (Deif) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1160398#fruits/2421080)
   - [Ayalis - Ai o Chikaishi Hime Kazari (Spectator) \[Deluge\]](https://osu.ppy.sh/beatmapsets/784412#fruits/1646939)
-  - [ASTERIA - The Shattered Time (F D Flourite) \[Lucid\]](https://osu.ppy.sh/beatmapsets/1177413#fruits/2455631)
+  - [ASTERIA - The Shattered Time (F D Flourite) \[Lucid\]](https://osu.ppy.sh/beatmapsets/1177413#fruits/2461056)
   - [SOOOO - iiillluuuvvvUUU (Cosmolade) \[Obsession\]](https://osu.ppy.sh/beatmapsets/959688#fruits/2009295)
   - [Shinra-Bansho - Kyoukyou no Fortunate Polka (Yukiyo) \[A Dance of Esotericism and Vitalism\]](https://osu.ppy.sh/beatmapsets/904962#fruits/1888862)
 - Hidden
