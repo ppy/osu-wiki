@@ -1,7 +1,9 @@
 ---
 tags:
-- AGTS 2019
-- AGTS2019
+  - AGTS 2019
+  - AGTS
+  - GTS
+outdated: true
 ---
 
 # Advanced Global Taiko Showdown 2019
@@ -103,7 +105,7 @@ Advanced Global Taiko Showdown 2019は様々なコミュニティメンバーが
 | **B** | ![][flag_JP] 日本 | ![][flag_AR] アルゼンチン | ![][flag_HK] 香港 | ![][flag_CL] チリ |
 | **C** | ![][flag_NL] オランダ | ![][flag_FR] フランス | ![][flag_MX] メキシコ | ![][flag_TW] 台湾 |
 | **D** | ![][flag_US] アメリカ合衆国A | ![][flag_RU] ロシアA | ![][flag_US] アメリカ合衆国B | ![][flag_BR] ブラジル |
-| **E** | ![][flag_KR] 韓国 | ![][flag_DE] ドイツA | ![][flag_DK] ![][flag_NO] ![][flag_SE] スカンジナビア | ![][flag_VE] ベネズエラ
+| **E** | ![][flag_KR] 韓国 | ![][flag_DE] ドイツA | ![][flag_DK] ![][flag_NO] ![][flag_SE] スカンジナビア | ![][flag_VE] ベネズエラ |
 | **F** | ![][flag_CA] カナダ | ![][flag_GB] ![][flag_PT] イギリス/ポルトガル | ![][flag_ID] インドネシアA | ![][flag_ID] インドネシアB |
 
 ---
@@ -316,7 +318,7 @@ Advanced Global Taiko Showdown 2019は様々なコミュニティメンバーが
 | --: | :-: | :-: | :-- | :-- |
 | 台湾 ![][flag_TW] | 1 | **7** | ![][flag_CA] **カナダ** | [#1](https://osu.ppy.sh/community/matches/54521624) |
 | オランダ ![][flag_NL] | 6 | **7** | ![][flag_KR] **韓国** | [#1](https://osu.ppy.sh/community/matches/54530786) |
-| インドネシアA ![][flag_ID] | 3 | **7** | ![][flag_KR] **韓国** | [#1](https://osu.ppy.sh/community/matches/54533409)
+| インドネシアA ![][flag_ID] | 3 | **7** | ![][flag_KR] **韓国** | [#1](https://osu.ppy.sh/community/matches/54533409) |
 
 ### 準々決勝
 
@@ -327,7 +329,8 @@ Advanced Global Taiko Showdown 2019は様々なコミュニティメンバーが
 | **日本** ![][flag_JP] | **6** | 0 | ![][flag_BR] ブラジル | [#1](https://osu.ppy.sh/community/matches/54317042) |
 | **ロシアA** ![][flag_RU] | **6** | 2 | ![][flag_RU] ロシアB | [#1](https://osu.ppy.sh/community/matches/54317274) |
 | カナダ ![][flag_CA] | 4 | **6** | ![][flag_JP] **日本** | [#1](https://osu.ppy.sh/community/matches/54318662) |
-| ポーランド ![][flag_PL] | 1 | **6** | ![][flag_ID] **インドネシアA** | [#1](https://osu.ppy.sh/community/matches/54320532) | **カナダ** ![][flag_CA] | **6** | 1 | ![][flag_RU] ロシアB | [#1](https://osu.ppy.sh/community/matches/54322599) |
+| ポーランド ![][flag_PL] | 1 | **6** | ![][flag_ID] **インドネシアA** | [#1](https://osu.ppy.sh/community/matches/54320532) |
+| **カナダ** ![][flag_CA] | **6** | 1 | ![][flag_RU] ロシアB | [#1](https://osu.ppy.sh/community/matches/54322599) |
 
 | 日曜日, 2019-08-25 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
