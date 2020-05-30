@@ -109,9 +109,11 @@ If that player does have any plays across all game modes, a [non-linear function
 
 #### Is it possible to change my name back or revert to my old username?
 
-**Yes, but under certain circumstances.**
+**Yes, but under only certain circumstances.**
 
-We only grant free reverts for a user's direct previous username. Changes to any other previous names must be [purchased via the store](https://osu.ppy.sh/store/products/32). Simply contact [accounts@ppy.sh](mailto:accounts@ppy.sh) and request your namechange reverted.
+We grant free reverts for a user's direct previous username. Simply contact [accounts@ppy.sh](mailto:accounts@ppy.sh) and request your name-change reverted.
+
+Changes to any other previous names must be [purchased via the store](https://osu.ppy.sh/store/products/32).
 
 We only grant this one time per account, so please consider carefully before requesting!
 
