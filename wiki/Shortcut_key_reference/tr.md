@@ -6,7 +6,7 @@ tags:
   - shortcuts
 ---
 
-# Kısayol tuş referansı
+# Kısayol tuşu referansı
 
 osu!'da oyun anında veya herhangi bir ekranda beklemedeyken kullanılabilen pek çok kısayol bulunmaktadır. Onlar fonksiyonlarıyla birlikte aşağıda listelenmişlerdir.
 
