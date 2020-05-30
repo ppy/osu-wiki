@@ -7,7 +7,7 @@ tags:
 
 ![OSIM logo](img/logo.jpg)
 
-The **osu! Singapore-Indonesia-Malaysia Tournament** (***OSIM***) was a double-elimination 2v2 osu!standard tournament hosted by  ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), and ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531). The tournament was open to all players from Singapore, Indonesia, and Malaysia regardless of rank. It was the first iteration of the tournament series.
+The **osu! Singapore-Indonesia-Malaysia Tournament** (***OSIM***) was a double-elimination 2v2 osu!standard tournament hosted by ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_ID] [Fre](https://osu.ppy.sh/users/3484548), and ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531). The tournament was open to all players from Singapore, Indonesia, and Malaysia regardless of rank. It was the first iteration of the tournament series.
 
 ## Tournament schedule
 
@@ -70,7 +70,7 @@ This competition has come to an end and resulted in the following podium:
 | Team name | Seed A player (captain) | Seed B player | Seed C player |
 | :-- | :-- | :-- | :-- |
 | **:watamesleep:** | ![][flag_MY] **[wuhua](https://osu.ppy.sh/users/2932510)** | ![][flag_MY] [TequilaWolf](https://osu.ppy.sh/users/3633477) | ![][flag_ID] [thefarrel007](https://osu.ppy.sh/users/2429128) |
-| **1miss** | ![][flag_MY] **[ShaneLiang](https://osu.ppy.sh/users/6716499)** | ![][flag_MY] [Naz](https://osu.ppy.sh/users/3921010) |  ![][flag_MY] [Reinaru](https://osu.ppy.sh/users/7353307) |
+| **1miss** | ![][flag_MY] **[ShaneLiang](https://osu.ppy.sh/users/6716499)** | ![][flag_MY] [Naz](https://osu.ppy.sh/users/3921010) | ![][flag_MY] [Reinaru](https://osu.ppy.sh/users/7353307) |
 | **adventure timers** | ![][flag_ID] **[Skydiver](https://osu.ppy.sh/users/4750008)** | ![][flag_MY] [wilson9909](https://osu.ppy.sh/users/8703188) | ![][flag_ID] [OTWGE](https://osu.ppy.sh/users/11759284) |
 | **asean NUTtersarus** | ![][flag_MY] **[Rampax](https://osu.ppy.sh/users/3995630)** | ![][flag_SG] [OppaiSuki](https://osu.ppy.sh/users/1285403) | ![][flag_ID] [Remuru](https://osu.ppy.sh/users/3654220) |
 | **DaFaK** | ![][flag_MY] **[FaithInOsu](https://osu.ppy.sh/users/10178187)** | ![][flag_MY] [Desumond](https://osu.ppy.sh/users/7399262) | ![][flag_MY] [KrispyKrep](https://osu.ppy.sh/users/10985924) |
@@ -156,7 +156,7 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[Camellia - GHOST (Arbane) \[AFTERLIFE\]](https://osu.ppy.sh/beatmapsets/577174#osu/1221687)**
   - **[wa. vs ETIA. - Akasagarbha -extended mix- (Ambient) \[Boundless\]](https://osu.ppy.sh/beatmapsets/712372#osu/1505901)**
-  - **[DJ TOTTO - DORNWALD \~Der Junge im Kaefig\~ (Azer) \[†LEGGENDARIA\]](https://osu.ppy.sh/beatmapsets/857638#osu/2223893)**  
+  - **[DJ TOTTO - DORNWALD \~Der Junge im Kaefig\~ (Azer) \[†LEGGENDARIA\]](https://osu.ppy.sh/beatmapsets/857638#osu/2223893)**
 
 ### Semifinals
 
@@ -217,8 +217,8 @@ This competition has come to an end and resulted in the following podium:
   - [fhana - Wonder Stella (Crystal) \[yf & Vert's Extra\]](https://osu.ppy.sh/beatmapsets/380052#osu/1039330)
 - Tiebreaker
   - **[taqumi - Pavimento dei Sospiri (neonat) \[Anima\]](https://osu.ppy.sh/beatmapsets/344998#osu/762025)**
-  - **[Rusty K - All That We Lost  (Mir) \[Daybreak\]](https://osu.ppy.sh/beatmapsets/655248#osu/1388622)**
-  - **[kors k - Insane Techniques (Extended) (Nathan) \[Hi-Tech\]](https://osu.ppy.sh/beatmapsets/456691#osu/978628)**  
+  - **[Rusty K - All That We Lost (Mir) \[Daybreak\]](https://osu.ppy.sh/beatmapsets/655248#osu/1388622)**
+  - **[kors k - Insane Techniques (Extended) (Nathan) \[Hi-Tech\]](https://osu.ppy.sh/beatmapsets/456691#osu/978628)**
 
 ### Group stage
 
@@ -302,7 +302,7 @@ Sunday, 10 May 2020:
 
 | Bracket | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Upper | **adventure timers** | **7** | 4 | we will 操你妈  | [#1](https://osu.ppy.sh/community/matches/61489561) |
+| Upper | **adventure timers** | **7** | 4 | we will 操你妈 | [#1](https://osu.ppy.sh/community/matches/61489561) |
 
 ### Semifinals
 
@@ -552,8 +552,8 @@ Sunday, 19 April 2020:
    - Most beatmaps won.
    - Winner of the match played previously between the tied teams.
    - In the event of a triple tie:
-       - Have higher `∑{(total score difference) / (maximum score)}`.
-       - Winner of the rematch.
+     - Have higher `∑{(total score difference) / (maximum score)}`.
+     - Winner of the rematch.
 
 ### Knock-out stage rules
 
@@ -588,7 +588,7 @@ Sunday, 19 April 2020:
    - Players who opt to play with EZ in a FreeMod pick will have their scores multiplied by an amount ranging from `x1.5` to `x3` based off certain weighting values that have been predetermined by the mappool selectors for each map. For more details on how much each map is valued, please refer to the [main spreadsheet](https://docs.google.com/spreadsheets/d/1wO13e1fNw1H0n7OYKyXpG6lyMCDCkbhj6fki4KEMf5I/edit#gid=950811958).
 5. In case of a tiebreaker, each captain will ban 1 of the 3 available tiebreakers. This is done by sending an in-game PM with your ban to the match referee. The remaining map will be played.
    - If both captains ban the same map, the referee will run the `!roll 2` command in the lobby to determine which of the 2 remaining tiebreakers will be played.
-6. The Seed C player from each team **has to play at least one map** in every match. If a match reaches a match point and either team's Seed C player has yet to play a map, the referee will not start the next map until the Seed C player from the said team  participates.
+6. The Seed C player from each team **has to play at least one map** in every match. If a match reaches a match point and either team's Seed C player has yet to play a map, the referee will not start the next map until the Seed C player from the said team participates.
 7. The results of each match and any other relevant information regarding the match will be posted on the Discord server after the match has concluded by the responsible referees.
 
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
