@@ -109,7 +109,7 @@ If that player does have any plays across all game modes, a [non-linear function
 
 #### Is it possible to change my name back or revert to my old username?
 
-**Yes, but under only certain circumstances.**
+**Yes, but only under certain circumstances.**
 
 We grant free reverts for a user's direct previous username. Simply contact [accounts@ppy.sh](mailto:accounts@ppy.sh) and request your name-change reverted.
 
