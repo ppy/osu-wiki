@@ -761,7 +761,11 @@ Make sure you provide an email address you have control over. This is used to re
 
 #### I receive some sort of server-side error when trying to play online!
 
-**This can happen if you are using a shared internet connection, a proxy, or VPN.**
+**The servers could be having issues.**
+
+Check the [osu! server status page](https://status.ppy.sh/) to see if there are any ongoing issues with the servers.
+
+**This can also happen if you are using a shared internet connection, a proxy, or VPN.**
 
 Try using another proxy or VPN provider - if all else fails, send in a support ticket via mail to [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
