@@ -66,7 +66,7 @@ Bu kısayollar her yerde çalışır:
 
 | Kısayol | Eylem |
 | :-- | :-- |
-| `F1` | [Oyun değiştirici](/wiki/Game_Modifiers) seçim menüsünü aç. |
+| `F1` | [Oyun modu](/wiki/Game_Modifiers) seçim menüsünü aç. |
 | `F2` | Rastgele bir beatmap seç. |
 | `Shift` + `F2` | Önceki rastgele seçilmiş beatmape geri dön. |
 | `F3` | Beatmap seçeneklerini aç. |
@@ -76,23 +76,23 @@ Bu kısayollar her yerde çalışır:
 | `Ctrl` + `2` | Oyun modunu [osu!taiko](/wiki/Game_Modes/osu!taiko) olarak değiştir. |
 | `Ctrl` + `3` | Oyun modunu [osu!catch](/wiki/Game_Modes/osu!catch) olarak değiştir. |
 | `Ctrl` + `4` | Oyun modunu [osu!mania](/wiki/Game_Modes/osu!mania) olarak değiştir. |
-| `Ctrl` + `Enter` | Seçilen beatmapi [Otomatik modda](/wiki/Game_Modifiers#auto) oynat. |
-| `Ctrl` + `Shift` + `Enter` | Seçilen beatmapi [Sinema modunda](/wiki/Game_Modifiers#auto) oynat.<!-- TODO: cinema should have its own link --> |
-| `Ctrl` + `A` | Otomatik modu aç/kapa. |
+| `Ctrl` + `Enter` | Seçilen beatmapi [Auto modda](/wiki/Game_Modifiers#auto) oynat. |
+| `Ctrl` + `Shift` + `Enter` | Seçilen beatmapi [Cinema modunda](/wiki/Game_Modifiers#auto) oynat.<!-- TODO: cinema should have its own link --> |
+| `Ctrl` + `A` | Auto modu aç/kapa. |
 | `Ctrl` + `F3` veya `Ctrl` + `+` | osu!mania kaydırma hızını arttır (osu!mania modundayken). |
 | `Ctrl` + `F4` veya `Ctrl` + `-` | osu!mania kaydırma hızını azalt (osu!mania modundayken). |
 | `Ctrl` + `Geri Tuşu` | Arama çubuğundaki son yazılan sözcüğü sil. |
-| `Yukarı/Aşağı Ok` | Sırasıyla bir sonraki yukarıdaki/aşağıdaki beatmapi seç. |
-| `Sol/Sağ Ok` | Sırasıyla bir sonraki yukarıdaki/aşağıdaki beatmap setini seç. |
+| `Yukarı/Aşağı Ok` | Sırasıyla bir sonraki üstteki/alttaki beatmapi seç. |
+| `Sol/Sağ Ok` | Sırasıyla bir sonraki üstteki/alttaki beatmap setini seç. |
 | `Page Up/Down` | Sırasıyla sayfayı yukarı/aşağı kaydır. |
 | `Enter` | Mevcut seçime gir (eğer bir beatmap seti veya koleksiyon grubu üzerinde seçiliyse) veya bir zorluğu oyna (eğer bir beatmap üzerinde seçiliyse). |
 | `Shift` + `Sol/Sağ Ok` | Sonraki/Önceki gruba gir. |
 | `Shift` + `Enter` | Seçilen grubu genişlet veya daralt. |
 
-### Oyun değiştiricileri
+### Oyun modifikasyonları
 
-*Ana sayfa: [Oyun değiştiricileri](/wiki/Game_Modifiers)*  
-*Not: Kısayol tuşuna basmak onu açar/kapatır. Bu kısayolları kullanabilmeniz için oyun değiştiricileri menüsünde bulunmanız gerekir.*  
+*Ana sayfa: [Oyun Modifikasyonları](/wiki/Game_Modifiers)*  
+*Not: Kısayol tuşuna basmak onu açar/kapatır. Bu kısayolları kullanabilmeniz için oyun modifikasyonları menüsünde bulunmanız gerekir.*  
 *Not: Target practice (osu!standard), 1K ve 2K (osu!mania), Co-op (osu!mania), ve Mirror (osu!mania) modlarının kısayolu yoktur.*
 
 | Kısayol | Mod |
@@ -116,7 +116,7 @@ Bu kısayollar her yerde çalışır:
 | `B` | Score V2 |
 | `3`'ten `9`'a | 3K'dan 9K'ya (osu!mania) |
 
-## Oyun modu
+## Oynama modu
 
 | Kısayol | Eylem |
 | :-- | :-- |
@@ -218,10 +218,10 @@ Bu kısayollar beatmap düzenleyicinin her yerinde çalışır:
 
 | Kısayol | Eylem |
 | :-- | :-- |
-| `Alt` | Basılı tutarken [distance snap](/wiki/Beatmap_Editor/Distance_Snap)'i geçici olarak aç/kapa. |
-| `Y` | Distance snap'i aç/kapa. |
-| `Shift` | Basılı tutarken ızgara snap'i geçici olarak aç/kapa. |
-| `T` | Izgara snap'i aç/kapa. |
+| `Alt` | Basılı tutarken [mesafe anlığını (distance snap)](/wiki/Beatmap_Editor/Distance_Snap) geçici olarak aç/kapa. |
+| `Y` | Mesafe anlığını aç/kapa. |
+| `Shift` | Basılı tutarken ızgara anlığını geçici olarak aç/kapa. |
+| `T` | Izgara anlığını aç/kapa. |
 | `G` | Izgara boyutları arasında geçiş yap |
 | `Ctrl` + `1` | Izgara boyutunu minik olarak ayarla. |
 | `Ctrl` + `2` | Izgara boyutunu küçük olarak ayarla. |
