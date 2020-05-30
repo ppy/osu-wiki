@@ -16,7 +16,7 @@ The gameplay circles can be seen on the bottom screen, and the story on the top 
 
 ## ![](/wiki/shared/mode/osu.png) Gameplay
 
-*Tutorial: [(Bundled with PC osu!) Original tutorial](https://osu.ppy.sh/beatmapsets/3756), [Ranked beatmap version](https://osu.ppy.sh/beatmapsets/19928).*
+*Tutorial: [new beginnings (Bundled with osu!)](https://osu.ppy.sh/beatmapsets/1011011).*
 
 The gameplay puts emphasis on:
 
