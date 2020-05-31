@@ -237,7 +237,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
 ### Grandes Finales
 
-Saturday, 30 May 2020:
+Samedi, 30 May 2020:
 
 | Joueur 1 |  |  | Joueur 2 | Lien de match |
 | --: | :-: | :-: | :-- | :-- |
