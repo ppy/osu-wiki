@@ -8,7 +8,7 @@ tags:
 
 ![CFB4 logo](img/logo.png)
 
-La **Catch French Beginner 4** (***CFB4***) ést un tournoi 1v1 français débutant en osu!catch organisé par ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077). C'ést la quatrième édition de la Catch French Beginner.
+La **Catch French Beginner 4** (***CFB4***) était un tournoi 1v1 français débutant en osu!catch organisé par ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077). C'était la quatrième édition de la Catch French Beginner.
 
 ## Planning du tournoi
 
@@ -37,7 +37,7 @@ Les généreux dons de ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688
 
 ## Organisation
 
-La Catch French Beginner 4 ést gérée par différents membres de la communauté.
+La Catch French Beginner 4 était gérée par différents membres de la communauté.
 
 | Poste | Membre(s) |
 | :-- | :-- |
