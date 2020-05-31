@@ -85,6 +85,10 @@ The 112's Corona Tournament was run by various community members.
 | Zurna | ![][flag_TR] [Mikatsu](https://osu.ppy.sh/users/6612642), ![][flag_TR] [Coderbora](https://osu.ppy.sh/users/11873333) | 
 | ﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽ | ![][flag_TR] [Ekin](https://osu.ppy.sh/users/2947405), ![][flag_TR] [ozge1907](https://osu.ppy.sh/users/6511453) | 
 
+## Podium
+
+![112CT Podium](img/podium.png)
+
 ## Mappools
 
 ### Finals & Grand Finals
@@ -218,6 +222,20 @@ The 112's Corona Tournament was run by various community members.
   - [LhoU – popotnik \~ The Traveller of Ljubljana (Niva) \[Ryo's Insane\]](https://osu.ppy.sh/beatmapsets/712388#osu/1620017)
 
 ## Match results
+
+### Grand Finals
+
+Tuesday, 26 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| SARS-CoV-3 | 0 | **7** | **NEŞESİNE YAŞAM** | [#1](https://osu.ppy.sh/community/matches/62136858) |
+
+Saturday, 30 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **ali vefa fanclub** | **7** | 1 | NEŞESİNE YAŞAM | [#1](https://osu.ppy.sh/community/matches/62306456) |
 
 ### Finals
 
