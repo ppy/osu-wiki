@@ -236,6 +236,14 @@ Samedi, 30 Mai 2020:
 
 ## Résultats des matches
 
+### Grandes Finales
+
+Saturday, 30 May 2020:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| **Remyria** ![][flag_CA] | **7** | 4 | ![][flag_FR] Hecatia15 | [#1](https://osu.ppy.sh/community/matches/62301645) |
+
 ### Finales
 
 Samedi, 23 Mai 2020:
