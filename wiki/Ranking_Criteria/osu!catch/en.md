@@ -148,7 +148,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Rules
 
-- **Hyperdashes may be used if the time between the ticks of the desired snapping is 62 ms or higher.** As an example, 1/6 hyperdashes would be allowed at 160 BPM and below, whereas 1/8 hyperdashes would be allowed at 120 BPM and below.
+- **Hyperdashes and dashes may be used if the time between the ticks of the desired snapping is 62 ms or higher.** As an example, 1/6 hyperdashes and dashes would be allowed at 160 BPM and below, whereas 1/8 hyperdashes and dashes would be allowed at 120 BPM and below.
 - **Basic hyperdashes must not be used more than four times between consecutive fruits.** If higher-snapped hyperdashes are used, they must not be used in conjunction with other hyperdashes or higher-snapped dashes.
 - **At least 125 ms must be left between objects and the start and end of spinners to ensure readability.** As an example, a 1/4 gap would be required at 120 BPM, whereas a 1/3 gap would be required at 160 BPM.
 
