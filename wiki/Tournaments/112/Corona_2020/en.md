@@ -263,7 +263,6 @@ Sunday, 10 May 2020:
 | --: | :-: | :-: | :-- | :-- |
 | SARS-CoV-3 | 0 | **6** | **ali vefa fanclub** | [#1](https://osu.ppy.sh/community/matches/61502822) |
 
-
 ### Semifinals
 
 Sunday, 3 May 2020:
@@ -342,7 +341,6 @@ Sunday, 26 April 2020:
 | --: | :-: | :-: | :-- | :-- |
 | Mağdurlar | 3 | **5** | **NEŞESİNE YAŞAM** | [#1](https://osu.ppy.sh/community/matches/60919257) |
 
-
 Monday, 27 April 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
@@ -401,7 +399,7 @@ Monday, 27 April 2020:
 ### Match Instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-  - Room settings are osu!, Team-Vs. , Win Condition: ‘ScoreV2’.
+   - Room settings are osu!, Team-Vs. , Win Condition: ‘ScoreV2’.
 2. Players can select up to two warm-up beatmaps that should not exceed 4 minutes. Players are free to not to pick a warm-up, but have to play if the opponent wants to.
 3. Each team must use `!roll` once in `#multiplayer`.
    - The team with the higher roll **picks** first.       
