@@ -32,7 +32,7 @@ Bu, set içerisindeki tüm zorluklar için metaverinin tutarlı olmasını sağl
 Beatmap oluşturmaya başlamak için `OK`'a tıklayın!
 Sonraki adım beatmapinize zamanlama eklemek olacak.
 
-### Zamanlama
+### Zamanlama (Timing)
 
 *Ana sayfa: [Zamanlama](/wiki/Timing)*
 
@@ -43,14 +43,14 @@ Herhangi bir [vuruş objesi](/wiki/Hit_Objects) eklemeden önce zamanlamanızın
 Eğer zamanlamanızdan şüpheliyseniz, önce yardım için bir mod ile iletişime geçin, ya da şarkınızı [Beatmap Yardım forumuna](https://osu.ppy.sh/community/forums/10) gönderin.
 Bu ilerleyen vakitlerde sizi (ve modding topluluğunu) büyük güçlüklerden kurtaracaktır.
 
-### Oluştur
+### Oluştur (Compose)
 
 *Ana sayfa: [Oluştur](/wiki/Compose)*
 
 Beatmap düzenleyicinin oluştur sekmesi muhtemelen beatmap oluştururken zamanınızın büyük çoğunluğunu harcayacağınız yerdir.
 Burası vuruş objelerini görsel olarak yerleştirebileceğiniz ve [vuruş seslerini](/wiki/hit_sounds) açıp kapayabileceğiniz yerdir.
 
-### Dizayn
+### Dizayn (Design)
 
 *Ana sayfa: [Dizayn](/wiki/Design) ve [Storyboard oluşturma](/wiki/Storyboarding)*
 
