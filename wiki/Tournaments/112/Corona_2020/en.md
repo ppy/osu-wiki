@@ -11,7 +11,7 @@ tags:
 
 The **112's Corona Tournament** (***112CT***) was a double-elimination 2v2 osu! tournament started with qualifiers hosted by ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470) and ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852). The tournament was only allowed for Turkish-speaking users regardless of their country flags. This was the fifth installment of 112's Tournaments series.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
@@ -21,7 +21,7 @@ The **112's Corona Tournament** (***112CT***) was a double-elimination 2v2 osu! 
 | Quarterfinals | 2020-07-25/2020-07-27 |
 | Semifinals | 2020-05-02/2020-05-04 |
 | Finals | 2020-05-08/2020-05-10 |
-| Grand Finals | 2020-05-23/- |
+| Grand Finals | 2020-05-23/2020-05-30 |
 
 ## Prizes
 
@@ -418,6 +418,7 @@ Monday, 27 April 2020:
 ### Mappool Instructions
 
 1. There will be a new mappool for every stage.
+   - Only Finals and Grand Finals will share the same pool.
 2. Each mappool consists of 5 brackets: NoMod, [Hidden](wiki/Game_Modifiers), [HardRock](wiki/Game_Modifiers), [DoubleTime](wiki/Game_Modifiers) and FreeMod.
 3. Each mappool has a specific size depending on the stage.
    - The Round of 16 mappools will have 4 NoMod maps, 3 DoubleTime maps and 2 maps for each of the remaining mod brackets.
