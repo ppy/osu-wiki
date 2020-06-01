@@ -251,11 +251,11 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
 
 ### Stage regulations
 
-1. There are nine stages in the tournament, includes: the Qualfiiers, the Round of 128, the Round of 64, the Round of 32, the Round of 16, the Quarterfinals, the Semifinals, the Finals, and the Grand Finals. It may change depending on the number of registrants of the tournament.
+1. There are nine stages in the tournament, includes: the Qualfiiers, the Group Stage, the Round of 32, the Round of 16, the Quarterfinals, the Semifinals, the Finals, and the Grand Finals. It may change depending on the number of registrants of the tournament.
 2. Players will be seeded with the average of their ranks on each map during the Qualifiers stage.
 3. In case there are more than 128 registered players, only the top 128 of the Qualifiers will exceed to the knockout stage.
 4. The winning conditions for each stage are listed below:
-   - the Round of 128, the Round of 64, the Round of 32, and the Round of 16: Best-of-9 (First to 5 points)
+   - the Group Stage, the Round of 32, and the Round of 16: Best-of-9 (First to 5 points)
    - the Quarterfinals: Best-of-11 (First to 6 points)
    - the Semifinals, the Finals, and the Grand Finals: Best-of-13 (First to 7 points)
 
@@ -266,7 +266,7 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
 3. There will be no warmups.
 4. Seeding will be made with the average rank of each player on each map played.
 5. Maps will be played twice in a row during the lobby. Best score from each player will be taken into account for the ranking.
-6. Only the top 128 players will exceed to the knockout stage.
+6. Only the top 64 players will exceed to the knockout stage.
 
 ### Mappool instructions
 
@@ -274,9 +274,9 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
 2. The loser's bracket will play on **the same mappool** as the winner's bracket in the same weekend.
 3. The Qualifiers pool will be different from all the other stages, as it will have a format of 2 NoMod, 1 Hidden, 1 HardRock, and 1 DoubleTime map.
 4. Each mappool consists of 6 brackets: **NoMod, Hidden, HardRock, DoubleTime, FreeMod, and Tiebreaker**.
-5. The mappools from Round of 128 up until Round of 16 will have 14 maps each. The Quarterfinals mappool will have 15 maps and the remaining stage will have 19 maps.
-6. The size of the NoMod bracket will be of 4 maps in Round of 128 up until Round of 16, it will be increased to 5 maps in Quarterfinals, and finally it will be 6 maps in the remaining stages.
-7. The size of the Hidden, HardRock, and DoubleTime will be of 2 maps in Round of 128 up until Quarterfinals, the remaining stages will be of 3 maps.
+5. The mappools from Group Stage up until Round of 16 will have 14 maps each. The Quarterfinals mappool will have 15 maps and the remaining stage will have 19 maps.
+6. The size of the NoMod bracket will be of 4 maps in Group Stage up until Round of 16, it will be increased to 5 maps in Quarterfinals, and finally it will be 6 maps in the remaining stages.
+7. The size of the Hidden, HardRock, and DoubleTime will be of 2 maps in Group Stage up until Quarterfinals, the remaining stages will be of 3 maps.
 8. The size of the FreeMod pool will be of 3 during the rest of the tournament.
 9. The FreeMod pool will be played under FreeMod activated. Every individual player can pick Hidden, HardRock or a combination or both.
 10. The Tiebreaker will be played under FreeMod conditions but it won't be mandatory pick.
