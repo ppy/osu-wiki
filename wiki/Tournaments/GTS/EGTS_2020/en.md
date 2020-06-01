@@ -68,6 +68,27 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
 
 *Participants will be listed when the Qualifiers result have come out.*
 
+## Groups
+
+| Group | Top seed | High seed | Mid seed | Low seed |
+| :-: | :-- | :-- | :-- | :-- |
+| **A** | ![][flag_JP] [owatanimal](https://osu.ppy.sh/users/5769293) | ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821) |![][flag_FR] [Ectomic](https://osu.ppy.sh/users/4069690) |![][flag_BE] [XOlifreX](https://osu.ppy.sh/users/4328137) |
+| **B** | ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897) | ![][flag_CA] [Vysha](https://osu.ppy.sh/users/4908773) | ![][flag_FI] [vodnanen](https://osu.ppy.sh/users/10335557) | ![][flag_FR] [Gintoki8](https://osu.ppy.sh/users/2239411) |
+| **C** | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) | ![][flag_GR] [Genjuro](https://osu.ppy.sh/users/3196091) | ![][flag_KR] [oL0](https://osu.ppy.sh/users/1134683) | ![][flag_BO] [\[Jose20025\]](https://osu.ppy.sh/users/6623871) |
+| **D** | ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401) | ![][flag_JP] [Noko\_BSF](https://osu.ppy.sh/users/3811831) | ![][flag_JP] [amuzaK](https://osu.ppy.sh/users/3784062) | ![][flag_FI] [duski](https://osu.ppy.sh/users/6506484) |
+| **E** | ![][flag_JP] [ekumea1123](https://osu.ppy.sh/users/9119501) | ![][flag_BR] [Skull Kid](https://osu.ppy.sh/users/3044264) | ![][flag_US] [Etholux](https://osu.ppy.sh/users/8593837) | ![][flag_GB] [Metzo](https://osu.ppy.sh/users/10633982) |
+| **F** | ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) | ![][flag_JP] [shougi\_55](https://osu.ppy.sh/users/10151766) | ![][flag_MY] [\[Zeth\]](https://osu.ppy.sh/users/9912966) | ![][flag_NL] [Krekker](https://osu.ppy.sh/users/8265940) |
+| **G** | ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461) | ![][flag_BR] [Kyoumo](https://osu.ppy.sh/users/8145223) | ![][flag_DE] [Drecksackblase](https://osu.ppy.sh/users/6278008) | ![][flag_IT] [A-40](https://osu.ppy.sh/users/14510301) |
+| **H** | ![][flag_KR] [BamgoeSN](https://osu.ppy.sh/users/1152851) | ![][flag_MY] [HHVanilla Ice](https://osu.ppy.sh/users/12803930) | ![][flag_AR] [BossPlays](https://osu.ppy.sh/users/7341471) | ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977) |
+| **I** | ![][flag_JP] [tamakagi2000](https://osu.ppy.sh/users/9540073) | ![][flag_BR] [Foxeru](https://osu.ppy.sh/users/7479684) | ![][flag_JP] [butter0414](https://osu.ppy.sh/users/7935022) | ![][flag_US] [AuroraPhasmata](https://osu.ppy.sh/users/13664116) |
+| **J** | ![][flag_ES] [AlvaroYL](https://osu.ppy.sh/users/6333166) | ![][flag_DE] [Minekuchi](https://osu.ppy.sh/users/9584873) | ![][flag_KR] [taeeunobrine](https://osu.ppy.sh/users/10894640) | ![][flag_GR] [KostPer](https://osu.ppy.sh/users/10584732) |
+| **K** | ![][flag_SG] [Blerargh](https://osu.ppy.sh/users/7609510) | ![][flag_TW] [Yuemiao](https://osu.ppy.sh/users/4493348) | ![][flag_US] [jyake](https://osu.ppy.sh/users/9099822) | ![][flag_AU] [Tsubasa2](https://osu.ppy.sh/users/6835183) |
+| **L** | ![][flag_JP] [nekomusya1234](https://osu.ppy.sh/users/1382717) | ![][flag_AR] [gaston\_2199](https://osu.ppy.sh/users/5938161) | ![][flag_ID] [Naverlyn](https://osu.ppy.sh/users/14324722) | ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035) |
+| **M** | ![][flag_JP] [zkane2](https://osu.ppy.sh/users/6359835) | ![][flag_AR] [trollocat](https://osu.ppy.sh/users/9228032) | ![][flag_BR] [Coryn](https://osu.ppy.sh/users/2828556) | ![][flag_JP] [shakegohan\_jar](https://osu.ppy.sh/users/14088526) |
+| **N** | ![][flag_BR] [HiroK](https://osu.ppy.sh/users/4050738) | ![][flag_GB] [Horiiizon](https://osu.ppy.sh/users/8071438) | ![][flag_IT] [LordEnder](https://osu.ppy.sh/users/4609767) | ![][flag_AR] [Atreevete](https://osu.ppy.sh/users/2615199) |
+| **O** | ![][flag_JP] [nananass](https://osu.ppy.sh/users/7231722) | ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444) | ![][flag_CH] [MC2BP](https://osu.ppy.sh/users/11296097) | ![][flag_US] [driodx](https://osu.ppy.sh/users/9709548) |
+| **P** | ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) | ![][flag_PL] [bernard351](https://osu.ppy.sh/users/9511518) | ![][flag_RU] [Dayzeek](https://osu.ppy.sh/users/5009970) | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) |
+
 ## Mappools
 
 ### Group Stage
