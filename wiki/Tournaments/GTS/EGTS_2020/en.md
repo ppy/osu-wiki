@@ -62,6 +62,7 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
 - Livestream
   - [GTSosu](https://www.twitch.tv/gtsosu)
   - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)
+- [Challonge brackets](https://challonge.com/EGTS2020)
 
 ## Participants
 
@@ -82,6 +83,107 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
   - [Umeboshi Chazuke - Galaxy in Toybox (asuasu\_yura) \[Oni\]](https://osu.ppy.sh/beatmapsets/709493#taiko/1499865)
 - DoubleTime
   - [DJ Fresh - Gold Dust (Vyiuri) \[Oni\]](https://osu.ppy.sh/beatmapsets/981799#taiko/2054840)
+
+## Match results
+
+### Qualifiers
+
+| Seed | Team | Average rank |
+| --: | :-- | --: |
+| #1 | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) | 1.2 |
+| #2 | ![][flag_JP] [ekumea1123](https://osu.ppy.sh/users/9119501) | 4 |
+| #3 | ![][flag_JP] [nekomusya1234](https://osu.ppy.sh/users/1382717) | 7.8 |
+| #4 | ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897) | 8.2 |
+| #5 | ![][flag_SG] [Blerargh](https://osu.ppy.sh/users/7609510) | 9.2 |
+| #6 | ![][flag_JP] [zkane2](https://osu.ppy.sh/users/6359835) | 9.6 |
+| #7 | ![][flag_ES] [AlvaroYL](https://osu.ppy.sh/users/6333166) | 10.4 |
+| #8 | ![][flag_JP] [tamakagi2000](https://osu.ppy.sh/users/9540073) | 10.8 |
+| #9 | ![][flag_CL] [Ulqui](https://osu.ppy.sh/users/1263669) | 11.2 |
+| #10 | ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401) | 11.4 |
+| #11 | ![][flag_JP] [owatanimal](https://osu.ppy.sh/users/5769293) | 12 |
+| #11 | ![][flag_JP] [nananass](https://osu.ppy.sh/users/7231722) | 12 |
+| #13 | ![][flag_BR] [HiroK](https://osu.ppy.sh/users/4050738) | 12.4 |
+| #14 | ![][flag_IT] [Ikkun](https://osu.ppy.sh/users/1059945) | 15.2 |
+| #15 | ![][flag_KR] [BamgoeSN](https://osu.ppy.sh/users/1152851) | 17.2 |
+| #15 | ![][flag_US] [Loopy542](https://osu.ppy.sh/users/5468461) | 17.2 |
+| #17 | ![][flag_DE] [Minekuchi](https://osu.ppy.sh/users/9584873) | 17.8 |
+| #18 | ![][flag_CA] [Vysha](https://osu.ppy.sh/users/4908773) | 20.8 |
+| #19 | ![][flag_BR] [Skull Kid](https://osu.ppy.sh/users/3044264) | 21.8 |
+| #20 | ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821) | 24.4 |
+| #21 | ![][flag_BR] [Foxeru](https://osu.ppy.sh/users/7479684) | 25.4 |
+| #22 | ![][flag_AR] [trollocat](https://osu.ppy.sh/users/9228032) | 27 |
+| #23 | ![][flag_GR] [Genjuro](https://osu.ppy.sh/users/3196091) | 27.8 |
+| #24 | ![][flag_IT] [D3kuu](https://osu.ppy.sh/users/7807444) | 31.8 |
+| #25 | ![][flag_BR] [Kyoumo](https://osu.ppy.sh/users/8145223) | 33.2 |
+| #26 | ![][flag_PL] [bernard351](https://osu.ppy.sh/users/9511518) | 33.4 |
+| #27 | ![][flag_TW] [Yuemiao](https://osu.ppy.sh/users/4493348) | 33.8 |
+| #28 | ![][flag_MY] [HHVanilla Ice](https://osu.ppy.sh/users/12803930) | 34 |
+| #29 | ![][flag_JP] [Noko\_BSF](https://osu.ppy.sh/users/3811831) | 34.2 |
+| #29 | ![][flag_GB] [Horiiizon](https://osu.ppy.sh/users/8071438) | 34.2 |
+| #31 | ![][flag_JP] [shougi_55](https://osu.ppy.sh/users/10151766) | 34.6 |
+| #32 | ![][flag_AR] [gaston\_2199](https://osu.ppy.sh/users/5938161) | 34.8 |
+| #33 | ![][flag_US] [jyake](https://osu.ppy.sh/users/9099822) | 35 |
+| #34 | ![][flag_FR] [Ectomic](https://osu.ppy.sh/users/4069690) | 35.8 |
+| #35 | ![][flag_JP] [amuzaK](https://osu.ppy.sh/users/3784062) | 36.6 |
+| #36 | ![][flag_KR] [oL0](https://osu.ppy.sh/users/1134683) | 36.8 |
+| #37 | ![][flag_JP] [butter0414](https://osu.ppy.sh/users/7935022) | 37.2 |
+| #37 | ![][flag_MY] [\[Zeth\]](https://osu.ppy.sh/users/9912966) | 37.2 |
+| #39 | ![][flag_AR] [BossPlays](https://osu.ppy.sh/users/7341471) | 37.4 |
+| #40 | ![][flag_KR] [taeeunobrine](https://osu.ppy.sh/users/10894640) | 39.6 |
+| #41 | ![][flag_US] [Etholux](https://osu.ppy.sh/users/8593837) | 41.4 |
+| #42 | ![][flag_CH] [MC2BP](https://osu.ppy.sh/users/11296097) | 42.4 |
+| #43 | ![][flag_ID] [Naverlyn](https://osu.ppy.sh/users/14324722) | 44.2 |
+| #44 | ![][flag_FI] [vodnanen](https://osu.ppy.sh/users/10335557) | 44.6 |
+| #45 | ![][flag_DE] [Drecksackblase](https://osu.ppy.sh/users/6278008) | 45.2 |
+| #46 | ![][flag_BR] [Coryn](https://osu.ppy.sh/users/2828556) | 45.6 |
+| #47 | ![][flag_IT] [LordEnder](https://osu.ppy.sh/users/4609767) | 46 |
+| #48 | ![][flag_RU] [Dayzeek](https://osu.ppy.sh/users/5009970) | 46.4 |
+| #49 | ![][flag_FI] [duski](https://osu.ppy.sh/users/6506484) | 47 |
+| #50 | ![][flag_JP] [shakegohan\_jar](https://osu.ppy.sh/users/14088526) | 50 |
+| #51 | ![][flag_IT] [A-40](https://osu.ppy.sh/users/14510301) | 50.6 |
+| #52 | ![][flag_AR] [Atreevete](https://osu.ppy.sh/users/2615199) | 51.8 |
+| #53 | ![][flag_US] [AuroraPhasmata](https://osu.ppy.sh/users/13664116) | 53 |
+| #54 | ![][flag_FR] [Gintoki8](https://osu.ppy.sh/users/2239411) | 54.2 |
+| #54 | ![][flag_NL] [Krekker](https://osu.ppy.sh/users/8265940) | 54.2 |
+| #56 | ![][flag_GB] [Metzo](https://osu.ppy.sh/users/10633982) | 54.6 |
+| #57 | ![][flag_GR] [KostPer](https://osu.ppy.sh/users/10584732) | 57 |
+| #58 | ![][flag_BO] [\[Jose20025\]](https://osu.ppy.sh/users/6623871) | 57.2 |
+| #59 | ![][flag_US] [Garpo](https://osu.ppy.sh/users/4097035) | 57.4 |
+| #59 | ![][flag_US] [Ethaaaan](https://osu.ppy.sh/users/9536977) | 57.4 |
+| #61 | ![][flag_US] [driodx](https://osu.ppy.sh/users/9709548) | 57.6 |
+| #62 | ![][flag_AU] [Tsubasa2](https://osu.ppy.sh/users/6835183) | 57.8 |
+| #63 | ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) | 60.2 |
+| #64 | ![][flag_BE] [XOlifreX](https://osu.ppy.sh/users/4328137) | 61.8 |
+| #65 | ![][flag_RU] [cloudfags](https://osu.ppy.sh/users/5285786) | 62 |
+| #66 | ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171) | 64 |
+| #67 | ![][flag_PL] [Agresywny Arbuz](https://osu.ppy.sh/users/7056658) | 64.2 |
+| #68 | ![][flag_SG] [SilverSufuru](https://osu.ppy.sh/users/3769280) | 64.6 |
+| #69 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | 64.8 |
+| #70 | ![][flag_GB] [hammygames](https://osu.ppy.sh/users/12232503) | 65.8 |
+| #71 | ![][flag_TR] [NeuralG](https://osu.ppy.sh/users/13811400) | 67.2 |
+| #72 | ![][flag_NL] [jesse-98](https://osu.ppy.sh/users/502722) | 67.6 |
+| #73 | ![][flag_RU] [TwinT](https://osu.ppy.sh/users/9976154) | 68 |
+| #74 | ![][flag_MX] [Yahiyahir](https://osu.ppy.sh/users/6932264) | 69.8 |
+| #75 | ![][flag_CR] [Hotman](https://osu.ppy.sh/users/7902082) | 70.6 |
+| #76 | ![][flag_FI] [YERTI](https://osu.ppy.sh/users/1490757) | 71.2 |
+| #77 | ![][flag_IT] [VenomPlus](https://osu.ppy.sh/users/7722827) | 72 |
+| #78 | ![][flag_JP] [BluePlusSymbol](https://osu.ppy.sh/users/6503700) | 72.6 |
+| #79 | ![][flag_US] [giyokon](https://osu.ppy.sh/users/10852632) | 73.6 |
+| #80 | ![][flag_US] [Glaceon-](https://osu.ppy.sh/users/6395930) | 75 |
+| #81 | ![][flag_MX] [Ammy](https://osu.ppy.sh/users/4183406) | 75.6 |
+| #82 | ![][flag_FI] [MEGAMELA](https://osu.ppy.sh/users/13613362) | 77.4 |
+| #83 | ![][flag_NO] [1794766](https://osu.ppy.sh/users/1794766) | 77.6 |
+| #84 | ![][flag_AT] [animexamera](https://osu.ppy.sh/users/7511357) | 79 |
+| #85 | ![][flag_NO] [Mills](https://osu.ppy.sh/users/7234023) | 80 |
+| #86 | ![][flag_NL] [ikin5050](https://osu.ppy.sh/users/4007649) | 81.6 |
+| #86 | ![][flag_US] [3san](https://osu.ppy.sh/users/8050850) | 81.6 |
+| #88 | ![][flag_NL] [Boaz](https://osu.ppy.sh/users/13302996) | 86.2 |
+| #89 | ![][flag_GB] [w1ll](https://osu.ppy.sh/users/11406987) | 88.2 |
+| #90 | ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120) | 89.6 |
+
+- Only the top 64 player can proceed to the Group Stage
+- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1YrRmgfxLQABYzPVxNZhw5n32R_UZEUwKIIbVh3PQctg/edit?usp=sharing)
+- Average rank is determined by `Σ position earned when playing the Qualifiers mappool / amount of Qualifiers mappool`
 
 ## Ruleset
 
@@ -154,24 +256,36 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
 21. In case of a tie in match point, the tiebreaker will be selected and played.
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
+[flag_BO]: /wiki/shared/flag/BO.gif "Bolivia"
 [flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CR]: /wiki/shared/flag/CR.gif "Costa Rica"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
 [flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
 [flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_GR]: /wiki/shared/flag/GR.gif "Greece"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_IT]: /wiki/shared/flag/IT.gif "Italy"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
