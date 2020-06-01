@@ -17,14 +17,13 @@ The **Expert Global Taiko Showdown 2020** (***EGTS 2020***) is an expert worldwi
 | --: | :-- |
 | Registration phase | 2020-05-03/2020-05-17 |
 | Qualifiers | 2020-05-30/2020-05-31 |
-| Round of 128 | 2020-06-06/2020-06-07 |
-| Round of 64 | 2020-06-13/2020-06-14 |
-| Round of 32 | 2020-06-20/2020-06-21 |
-| Round of 16 | 2020-06-27/2020-06-28 |
-| Quarterfinals | 2020-07-04/2020-07-05 |
-| Semifinals | 2020-07-11/2020-07-12 |
-| Finals | 2020-07-18/2020-07-19 |
-| Grand Finals | 2020-07-25/2020-07-26 |
+| Group Stage | 2020-06-06/2020-06-07 |
+| Round of 32 | 2020-06-13/2020-06-14 |
+| Round of 16 | 2020-06-20/2020-06-21 |
+| Quarterfinals | 2020-06-27/2020-06-28 |
+| Semifinals | 2020-07-04/2020-07-05 |
+| Finals | 2020-07-11/2020-07-12 |
+| Grand Finals | 2020-07-18/2020-07-19 |
 
 ## Prizes
 
