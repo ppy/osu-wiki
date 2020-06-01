@@ -95,6 +95,30 @@ The Hidden Only Tournament is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here! (115 MB)](https://drive.google.com/file/d/1RR67F86CGZIz1Hn-cDVyR3pvOBuoGlL8/view?usp=sharing)**
+
+- Hidden
+  - [Suzuki Konomi - Blow out (Kalibe) \[Meg's Another\]](https://osu.ppy.sh/beatmapsets/617203#osu/1303641)
+  - [goreshit - fly, heart! fly! (kiri09) \[flyable\]](https://osu.ppy.sh/beatmapsets/93754#osu/252755)
+  - [Nanahoshi Kangengakudan feat.Matsushita - Dance Number o Tomo ni (pkk) \[Dance Number\]](https://osu.ppy.sh/beatmapsets/353398#osu/778603)
+  - [lapix - Nexta (Realazy) \[Ayyri's GRAVITY\]](https://osu.ppy.sh/beatmapsets/1050635#osu/2319981)
+  - [ALiCE'S EMOTiON - Lorelei (Dada) \[Vintage\]](https://osu.ppy.sh/beatmapsets/829950#osu/1738984)
+  - [Liz Triangle - Immortal Philosophy (Jounzan) \[Sisterly Love\]](https://osu.ppy.sh/beatmapsets/941212#osu/1965586)
+  - [cosMo@BousouP - The Real Disappearance of Hatsune Miku (sullywally) \[Extra\]](https://osu.ppy.sh/beatmapsets/555807#osu/1176292)
+  - [Cranky vs. MASAKI - ouroboros -twin stroke of the end- (celerih) \[Another\]](https://osu.ppy.sh/beatmapsets/1052054#osu/2209919)
+  - [verzache - night (squirrelpascals) \[moon\]](https://osu.ppy.sh/beatmapsets/780349#osu/1639261)
+  - [CommanderGwonam - I.M. Crazy (CDFA) \[Meaniepants\]](https://osu.ppy.sh/beatmapsets/12835#osu/47857)
+- Hidden+DoubleTIme
+  - [dj TAKA - Snow Storm (Alace) \[Hyper\]](https://osu.ppy.sh/beatmapsets/7190#osu/31240)
+  - [Luschka - unravel (Mirash) \[Insane\]](https://osu.ppy.sh/beatmapsets/731933#osu/1803876)
+  - [sana - Kotoba no Iranai Yakusoku (Irohas) \[Insane\]](https://osu.ppy.sh/beatmapsets/634179#osu/1345731)
+- Tiebreaker
+  - **[Demetori - Retrospective Kyoto \~ Japanese Beautiful Barrage (Crissa) \[Illusionary Dominance\]](https://osu.ppy.sh/beatmapsets/897861#osu/1875674)**
+  - **[Cranky - JULIAN (ScubDomino) \[LA PROMESSE\]](https://osu.ppy.sh/beatmapsets/1008310#osu/2110306)**
+  - **[Camellia - dreamless wanderer (deetz) \[lost\]](https://osu.ppy.sh/beatmapsets/417492#osu/904030)**
+
 ### Round of 16
 
 **[Download the mappack here! (105 MB)](https://drive.google.com/file/d/1Gpq8foPrKJECKJ65C7i45UgOGr4pBrgI/view?usp=sharing)**
