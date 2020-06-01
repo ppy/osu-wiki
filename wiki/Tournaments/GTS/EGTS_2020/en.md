@@ -70,6 +70,31 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
+### Group Stage
+
+**[Download the map pack here! (83 MB)](https://mega.nz/file/NhsX1DTK#ckqXprnucBJI39-xweZF8PkFKshLIQfSX7Rl2kGglNQ)**
+
+- NoMod
+  - [Omoi - Teo (asuasu\_yura) \[Expert\]](https://osu.ppy.sh/beatmapsets/799079#taiko/1677846)
+  - [Camellia - JDM (Jungle Dance Music) (Nishizumi) \[Dancing Oni\]](https://osu.ppy.sh/beatmapsets/911589#taiko/1902900)
+  - [Kano - Sukisuki Zecchoushou (incandescence) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/776399#taiko/1631310)
+  - [xi - Caramel Custard (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/633825#taiko/1345081)
+- Hidden
+  - [t+pazolite - Troll The Cowardly (Sick Candy Terror Of Feryquitous) (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/808095#taiko/1695840)
+  - [Makai Toshi Niigata - Ukiyoe Yokochou (EdamaMe411) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/837057#taiko/1752691)
+- HardRock
+  - [Hibiki Sakura & Naruzou Machio - Onegai Muscle (Mtell Remix) (KitajimaYN) \[Mascle Col\]](https://osu.ppy.sh/beatmapsets/1027991#taiko/2149532)
+  - [ayaponzu\* - Yakubyougami (gaston_2199) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/742938#taiko/1659898)
+- DoubleTime
+  - [Hatsuki Yura - confession -Mitsuyaku Langage- (asuasu\_yura) \[Oni\]](https://osu.ppy.sh/beatmapsets/748786#taiko/1577369)
+  - [kradness - Senbonzakura (Love) \[Oni\]](https://osu.ppy.sh/beatmapsets/168367#taiko/408658)
+- FreeMod
+  - [Uinyasu.Otthokobunny - Aa Kenran no Yume ga Gotoku(Epsilon Remix) (asuasu\_yura) \[Oni\]](https://osu.ppy.sh/beatmapsets/734435#taiko/1549623)
+  - [Getty - Pump It (yea) \[Lunatic Oni\]](https://osu.ppy.sh/beatmapsets/721544#taiko/1523623)
+  - [mafumafu - Hello Dystopia (JarvisGaming) \[Collapsing Reality\]](https://osu.ppy.sh/beatmapsets/809048#taiko/1697683)
+- Tiebreaker
+  - **[Camellia - Luin of Celtchar (Yummy-) \[Fiery Lance\]](https://osu.ppy.sh/beatmapsets/1022227#taiko/2138687)**
+
 ### Qualifiers
 
 **[Download the map pack here! (20 MB)](https://mega.nz/file/Up932KQS#LK5botTXGb5SwHu-P0aI5xHegT8WmXbQpN1Dm5Fb_74)**
