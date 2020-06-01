@@ -61,6 +61,7 @@ The Intermediate Global Taiko Showdown 2020 is run by various community members.
 - Livestream
   - [GTSosu](https://www.twitch.tv/gtsosu)
   - [GTSosu\_b](https://www.twitch.tv/gtsosu_b)
+- [Challonge brackets](https://challonge.com/IGTS2020)
 - [Pick'em predictions website](https://pickem.hwchr.com/tournaments/34)
 
 ## Participants
