@@ -69,7 +69,19 @@ The Intermediate Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
-*Mappools will be listed when the first stage of the tournament (Qualifiers) kicks off.*
+### Qualifiers
+
+**[Download the map pack here! (25 MB)](https://mega.nz/file/M0YR1SoR#6NXysw4sUBS0SP9gPbdeA4IHCortqTWJSjesueE75Fo)**
+
+- NoMod
+  - [8284 - Connaextion (Nwolf) \[--- -. ..\]](https://osu.ppy.sh/beatmapsets/660649#taiko/1956165)
+  - [The Flashbulb - Lawn Wake IX (yassu-) \[Oni\]](https://osu.ppy.sh/beatmapsets/662638#taiko/1402659)
+- Hidden
+  - [DROELOE - Backbone (feat. Nevve) (Lyawi) \[Oni\]](https://osu.ppy.sh/beatmapsets/727710#taiko/1536474)
+- HardRock
+  - [t+pazolite feat. Rizna - Buzy Lake (Suzux) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/980094#taiko/2052901)
+- DoubleTime
+  - [Ayu Ting Ting - Sambalado (Volta) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/542425#taiko/1630672)
 
 ## Ruleset
 
