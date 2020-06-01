@@ -16,7 +16,7 @@ The **Hidden Only Tournament** (***HOT***) is a worldwide double-elimination 2v2
 | Registration phase | 2020-04-13/2020-05-03 |
 | Qualifiers | 2020-05-15/2020-05-18 |
 | Round of 32 | 2020-05-22/2020-05-25 |
-| Round of 32 | 2020-05-30/2020-05-31 |
+| Round of 32 | 2020-05-29/2020-06-01 |
 | Quarterfinals | 2020-06-06/2020-06-07 |
 | Semifinals | 2020-06-13/2020-06-14 |
 | Finals | 2020-06-20/2020-06-21 |
@@ -177,6 +177,44 @@ The Hidden Only Tournament is run by various community members.
   - [Sharlo - Ifuudoudou (Chaoslitz) \[Ifuuidol\]](https://osu.ppy.sh/beatmapsets/445251#osu/956456)
 
 ## Match results
+
+### Round of 16
+
+Friday, 29 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **akinari** | **5** | 1 | cringe mod | [#1](https://osu.ppy.sh/community/matches/62258519) |
+
+Saturday, 30 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **3山刪白狼** | **5** | 4 | Pocket Galaxy | [#1](https://osu.ppy.sh/community/matches/62292455) |
+| what | 1 | **5** | **C-O-C-A-I-N-E** | [#1](https://osu.ppy.sh/community/matches/62294640) |
+| Heroes | 0 | **5** | **newton is gey** | [#1](https://osu.ppy.sh/community/matches/62296979) |
+| Eat 'Em Up | 3 | **5** | **Koppepan Gaming** | [#1](https://osu.ppy.sh/community/matches/62299866) |
+| **Phrygian Friends** | **5** | 0 | Omero Kamalio | [#1](https://osu.ppy.sh/community/matches/62301959) |
+| **comet** | **5** | 1 | Kärpät Oulu | [#1](https://osu.ppy.sh/community/matches/62304145) |
+| sawada's team | 2 | **5** | **butterfly** | [#1](https://osu.ppy.sh/community/matches/62306586) |
+| Stafferino | 2 | **5** | **ramon's nipples** | [#1](https://osu.ppy.sh/community/matches/62309170) |
+| **Carlos** | **5** | 3 | macachi pec | [#1](https://osu.ppy.sh/community/matches/62312792) |
+
+Sunday, 31 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **ar7** | **5** | 1 | nothing to hide | [#1](https://osu.ppy.sh/community/matches/62337683) |
+| sut\_gasm | 0 | **5** | **Saxophone** Bug | [#1](https://osu.ppy.sh/community/matches/62351156) |
+| **colegas 1** | **5** | 0 | can't read HD | [#1](https://osu.ppy.sh/community/matches/62351149) |
+| sut\_son nose | 4 | **5** | **bojowa wiertarka** | [#1](https://osu.ppy.sh/community/matches/62350624) |
+| i hate osu | 0 | **5** | **osuplayer111** | [#1](https://osu.ppy.sh/community/matches/62353056) |
+
+Monday, 1 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| HR Main | 3 | **5** | **:rooGya:** | [#1](https://osu.ppy.sh/community/matches/62362009) |
 
 ### Round of 32
 
