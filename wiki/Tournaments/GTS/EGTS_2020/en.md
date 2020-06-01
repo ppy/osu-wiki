@@ -77,7 +77,7 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
 
 | Group | Top seed | High seed | Mid seed | Low seed |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ![][flag_JP] [owatanimal](https://osu.ppy.sh/users/5769293) | ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821) |![][flag_FR] [Ectomic](https://osu.ppy.sh/users/4069690) |![][flag_BE] [XOlifreX](https://osu.ppy.sh/users/4328137) |
+| **A** | ![][flag_JP] [owatanimal](https://osu.ppy.sh/users/5769293) | ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821) | ![][flag_FR] [Ectomic](https://osu.ppy.sh/users/4069690) | ![][flag_BE] [XOlifreX](https://osu.ppy.sh/users/4328137) |
 | **B** | ![][flag_CA] [janitore](https://osu.ppy.sh/users/3307897) | ![][flag_CA] [Vysha](https://osu.ppy.sh/users/4908773) | ![][flag_FI] [vodnanen](https://osu.ppy.sh/users/10335557) | ![][flag_FR] [Gintoki8](https://osu.ppy.sh/users/2239411) |
 | **C** | ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719) | ![][flag_GR] [Genjuro](https://osu.ppy.sh/users/3196091) | ![][flag_KR] [oL0](https://osu.ppy.sh/users/1134683) | ![][flag_BO] [\[Jose20025\]](https://osu.ppy.sh/users/6623871) |
 | **D** | ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401) | ![][flag_JP] [Noko\_BSF](https://osu.ppy.sh/users/3811831) | ![][flag_JP] [amuzaK](https://osu.ppy.sh/users/3784062) | ![][flag_FI] [duski](https://osu.ppy.sh/users/6506484) |
