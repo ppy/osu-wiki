@@ -151,6 +151,28 @@ The Mania Beginner's Showdown 2 is run by various community members.
 
 ### High division
 
+#### Round of 16
+
+**[Download the mappack here! (134 MB)](https://mega.nz/file/yuJwWSRT#f2-ee1CnI-_iAGROK3p1AaHo7TowpRcCH5leNMmYkhg)**
+
+- FreeMod
+  - [Moe shop - Love Taste (w/ Jamie Paige & Shiki) (zero2snow) \[Sour (SV)\]](https://osu.ppy.sh/beatmapsets/1113833#mania/2326952)
+  - [YUC'e - Sunset Tea Cup (rRubyyy) \[TeaCupSV\]](https://osu.ppy.sh/beatmapsets/847692#mania/1785822)
+  - [Ichi sato bocchi (Morishita Chisaku) - Ne, issho ni kaero. (HowToPlayLN) \[Chill\]](https://osu.ppy.sh/beatmapsets/1002081#mania/2110884)
+  - [Mind Vortex - Arc (juankristal) \[Coordination\]](https://osu.ppy.sh/beatmapsets/619512#mania/1305835)
+  - [Kero Kero Bonito - Flamingo (-Rem-) \[True Colors\]](https://osu.ppy.sh/beatmapsets/767418#mania/2128288)
+  - [ONE OK ROCK - Stand Out Fit In (\[ A v a l o n \]) \[Hard\]](https://osu.ppy.sh/beatmapsets/887386#mania/1855035)
+  - [THE ORAL CIGARETTES - A-E-U-I (Syadow-) \[I-N-S-A-N-E\]](https://osu.ppy.sh/beatmapsets/986810#mania/2064332)
+  - [LV.4 - Angel dust (2016 Radio Mix) (Fontes) \[4k leqek's Hard\]](https://osu.ppy.sh/beatmapsets/970810#mania/2039046)
+  - [SOUND HOLIC Vs. T.Kakuta feat. YURiCa - TOXIC VIBRATION (extend ver.) (arcwinolivirus) \[HD\]](https://osu.ppy.sh/beatmapsets/359551#mania/790554)
+  - [(Various Artists) - Something About IcyWorld (Arkener) \[Fleeting Fantasy - Phantasma - Hard 11\]](https://osu.ppy.sh/beatmapsets/884900#mania/1849543)
+  - [Kazmasa - FIRE FIRE (Kazmasa Remix) (inteliser) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/354653#mania/781158)
+  - [Mr.T - electro peaceful (-mint-) \[mechanical tranquility\]](https://osu.ppy.sh/beatmapsets/1031030#mania/2156093)
+  - [The Chalkeaters - Doom Crossing Eternal Horizons (feat. Natalia Natchan) (KenZ) \[4K Everlasting Doom\]](https://osu.ppy.sh/beatmapsets/1154347#mania/2411739)
+  - [marsy - ACTION (Jesuren) \[Fabulous\]](https://osu.ppy.sh/beatmapsets/952012#mania/1988001)
+- Tiebreaker
+  - **[nayuta - Stray Star (Virtue-) \[Deviant Star\]](https://osu.ppy.sh/beatmapsets/675074#mania/1428213)**
+
 #### Round of 32
 
 **[Download the mappack here! (82 MB)](https://mega.nz/file/jqZAyKDR#PM5zLooumSi6SfzJ6NeBNkRw9_IJlIX2Lg6h-7jRpfs)**
@@ -201,6 +223,28 @@ The Mania Beginner's Showdown 2 is run by various community members.
   - [Silentroom - NULCTRL (Raveille) \[Stage 5: Command\]](https://osu.ppy.sh/beatmapsets/1162328#mania/2424667)
 
 ### Low division
+
+#### Round of 16
+
+**[Download the mappack here! (104 MB)](https://mega.nz/file/jiJVxIJQ#GrloBpXRGFdepxbyFr4A1lU74EiN2xpX8lO4gbho93I)**
+
+- FreeMod
+  - [Slappy - Hanami (RuleBlazing) \[Edit\]](https://osu.ppy.sh/beatmapsets/1101411#mania/2329945)
+  - [Hideki Naganuma - Metal Scratchin' (XeoStyle) \[Purple\]](https://osu.ppy.sh/beatmapsets/510372#mania/1085212)
+  - [M2U - PandorA (Kamishiro Kurea) \[Pyxis\]](https://osu.ppy.sh/beatmapsets/1048617#mania/2467204)
+  - [Aphex Twin - Avril 14th (Kamishiro Kurea) \[Calm\]](https://osu.ppy.sh/beatmapsets/1183570#mania/2467426)
+  - [Team Salvato - Doki Doki Literature Club! (Main Theme) (arcwinolivirus) \[?Harem?\]](https://osu.ppy.sh/beatmapsets/682702#mania/1443731)
+  - [Soleily - Renatus (Fullerene-) \[4K Hard\]](https://osu.ppy.sh/beatmapsets/235827#mania/546497)
+  - [Silentroom - Nhelv (Leniane) \[Normal\]](https://osu.ppy.sh/beatmapsets/1140163#mania/2410725)
+  - [Porter Robinson - Get Your Wish (World's Last Garden Remix) (Asherz007) \[Hard\]](https://osu.ppy.sh/beatmapsets/1128593#mania/2361142)
+  - [Various Artists - intel 4K Core Pack Vol.3 (inteliser) \[xi // Inixia (BAS)\]](https://osu.ppy.sh/beatmapsets/550226#mania/1165654)
+  - [Wisdom - God Rest Your Soul (Kamishiro Kurea) \[Brave\]](https://osu.ppy.sh/beatmapsets/1013997#mania/2467519)
+  - [Igorrr & Ruby My Dear - Figue Folle (Parachor) \[Harsh \[Lv.9\]\]](https://osu.ppy.sh/beatmapsets/347453#mania/903457)
+  - [SANY-ON - BEDLAM (Nemesis-D) \[Lv.8 NM\]](https://osu.ppy.sh/beatmapsets/617691#mania/1302342)
+  - [Nekomata Master - Avalon no Oka (Tailsdk) \[Medium\]](https://osu.ppy.sh/beatmapsets/799580#mania/2293653)
+  - [Narmaya(CV:M.A.O) - Houmatsumugen Kochoujin (Critical\_Star) \[SY's 4K Hard\]](https://osu.ppy.sh/beatmapsets/775728#mania/1630019)
+- Tiebreaker
+  - **[Team Grimoire+amaneko - croiX(extend) (Takane6) \[Kyou's ADVANCED\]](https://osu.ppy.sh/beatmapsets/463986#mania/1004242)**
 
 #### Round of 32
 
