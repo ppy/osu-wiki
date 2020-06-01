@@ -290,6 +290,15 @@ Unofficial tournaments/competitions hosted by the communities.
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu!catch Convert Cup](o!cCC/1) | 2019-09-21 | 2019-11-03 | ![][flag_CN] [Dusk](https://osu.ppy.sh/users/533210) | ![][flag_IT] [Karym](https://osu.ppy.sh/users/5220794) | ![][flag_CL] [NachoL](https://osu.ppy.sh/users/1250096) |
 
+### ![](/wiki/shared/mode/catch.png) Catch French Beginner
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| CTB Beginner | 2018-06-30 | 2018-07-01 | ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987) | ![][flag_FR] [FlameHaze](https://osu.ppy.sh/users/870066) | ![][flag_FR] [-Yuuki\_Tsubaki-](https://osu.ppy.sh/users/11408639) |
+| Catch French Beginner #2 | 2018-11-17 | 2018-12-15 | ![][flag_FR] [Leherketa](https://osu.ppy.sh/users/1702715) | ![][flag_FR] [MindLight](https://osu.ppy.sh/users/7664694) | ![][flag_FR] [Astreachan](https://osu.ppy.sh/users/2953898) |
+| Catch French Beginner #3 | 2019-06-15 | 2019-07-20 | ![][flag_FR] [MindLight](https://osu.ppy.sh/users/7664694) | ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098) | ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519) |
+| [Catch French Beginner 4](CFB/4) | 2020-04-25 | 2020-05-30 | ![][flag_CA] [Remyria](https://osu.ppy.sh/users/1699875) | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012) | ![][flag_FR] [Trifano](https://osu.ppy.sh/users/15126172) |
+
 ### ![](/wiki/shared/mode/mania.png) Chinese osu!mania 4K Tournament
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |

@@ -8,7 +8,7 @@ tags:
 
 ![CFB4 logo](img/logo.png)
 
-La **Catch French Beginner 4** (***CFB4***) ést un tournoi 1v1 français débutant en osu!catch organisé par ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077). C'ést la quatrième édition de la Catch French Beginner.
+La **Catch French Beginner 4** (***CFB4***) était un tournoi 1v1 français débutant en osu!catch organisé par ![][flag_FR] [Kaleesy Pura](https://osu.ppy.sh/users/1800077). C'était la quatrième édition de la Catch French Beginner.
 
 ## Planning du tournoi
 
@@ -37,7 +37,7 @@ Les généreux dons de ![][flag_FR] [Fuka Pura](https://osu.ppy.sh/users/2326688
 
 ## Organisation
 
-La Catch French Beginner 4 ést gérée par différents membres de la communauté.
+La Catch French Beginner 4 était gérée par différents membres de la communauté.
 
 | Poste | Membre(s) |
 | :-- | :-- |
@@ -77,16 +77,15 @@ La Catch French Beginner 4 ést gérée par différents membres de la communaut�
 | C | ![][flag_FR] [Riki no Kage](https://osu.ppy.sh/users/1549032) | ![][flag_FR] [-Dragolord-](https://osu.ppy.sh/users/9473359) | ![][flag_FR] [MarsJackson](https://osu.ppy.sh/users/8479894) | ![][flag_FR] [Athedos](https://osu.ppy.sh/users/10722269) |
 | D | ![][flag_FR] [Jibsz](https://osu.ppy.sh/users/12269489) | ![][flag_FR] [Trifano](https://osu.ppy.sh/users/15126172) | ![][flag_CA] [Zyoulou](https://osu.ppy.sh/users/8668722) | ![][flag_FR] [sullymaster](https://osu.ppy.sh/users/6765259) |
 
-## Planning des matches: Grandes Finales
+## Podium
 
-Samedi, 30 Mai 2020:
+La compétition est arrivée à une fin et à donné le podium ci-dessous:
 
-| ID du match | Joueur 1 | Joueur 2 | Horaire du match (UTC+2) |
-| :-: | --: | :-- | :-: |
-| #38 | Remyria ![][flag_CA] | ![][flag_FR] Hecatia15 | **19:00** |
-| #39¹ | Hecatia15 ![][flag_FR] | ![][flag_CA] Remyria | **20:00** |
-
- ¹ Le match aura lieu si le joueur B gagne le Match #38
+| Classement | Joueur |
+| :-: | :-- |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![][flag_CA] [Remyria](https://osu.ppy.sh/users/1699875) |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012) |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_FR] [Trifano](https://osu.ppy.sh/users/15126172) |
 
 ## Mappools
 
@@ -235,6 +234,14 @@ Samedi, 30 Mai 2020:
   - [dors k(uro) - dreeeeam (Chara) \[A Salad of Dreams\]](https://osu.ppy.sh/beatmapsets/444696#fruits/955343)
 
 ## Résultats des matches
+
+### Grandes Finales
+
+Samedi, 30 May 2020:
+
+| Joueur 1 |  |  | Joueur 2 | Lien de match |
+| --: | :-: | :-: | :-- | :-- |
+| **Remyria** ![][flag_CA] | **7** | 4 | ![][flag_FR] Hecatia15 | [#1](https://osu.ppy.sh/community/matches/62301645) |
 
 ### Finales
 
