@@ -451,7 +451,7 @@ Sunday, 24 May 2020:
 
 #### Qualifiers
 
-| Seed | Player | Average Rank |
+| Seed | Player | Average rank |
 | --: | :-- | --: |
 | #1 | ![][flag_PH] [Lazereed](https://osu.ppy.sh/users/12894120) | 3.6 |
 | #2 | ![][flag_CH] [CrashSmash](https://osu.ppy.sh/users/13942150) | 8.6 |
@@ -664,7 +664,7 @@ Monday, 25 May 2020:
 
 #### Qualifiers
 
-| Seed | Player | Average Rank |
+| Seed | Player | Average rank |
 | --: | :-- | --: |
 | #1 | ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263) | 4.2 |
 | #2 | ![][flag_TH] [mickeyparm](https://osu.ppy.sh/users/11354950) | 4.4 |
