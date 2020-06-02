@@ -203,7 +203,7 @@ The 112's Corona Tournament was run by various community members.
 - Tiebreaker
   - **[pocotan – Dear Jewel (Meg) \[Jewelry Box\]](https://osu.ppy.sh/beatmapsets/417306#osu/903667)**
 
-### Qualifiers Stage
+### Qualifiers stage
 
 **[Download the map pack here! (45 MB)](https://drive.google.com/uc?id=1ty3WFqIiY2OQ-bN9phbrivIOA1jry-WK&export=download)**
 
@@ -349,7 +349,7 @@ Monday, 27 April 2020:
 
 ## Ruleset
 
-### Tournament Rules
+### Tournament rules
 
 1. 112’s Corona Tournament is an osu!standard tournament only allowed for Turkish-speaking players regardless of their profile flags.
 2. The tournament uses a qualifier into a double elimination bracket.
@@ -379,7 +379,7 @@ Monday, 27 April 2020:
 3. As no badge will be awarded, tournament staff can participate in the tournament. Screening procedure will also not be applied for this tournament.
 4. Participants will be published after the Registration period ends.
 
-### Stage Instructions
+### Stage instructions
 
 1. In the Qualifier stage, each seed will have a specific pool designed by the map selectors.
 2. The pool will contain 4 brackets: NoMod, [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers). There will not be a tiebreaker for this stage.
@@ -396,7 +396,7 @@ Monday, 27 April 2020:
     - The Semifinals and Finals will be best of 11 (first team to 6 wins).        
     - The Grand Finals will be best of 13 (first team to 7 wins).
 
-### Match Instructions
+### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
    - Room settings are osu!, Team-Vs. , Win Condition: ‘ScoreV2’.
@@ -413,7 +413,7 @@ Monday, 27 April 2020:
    - In the case of a tie, the tiebreaker beatmap will be played.
 7. The results will be published in the dedicated Discord channel in the server.
 
-### Mappool Instructions
+### Mappool instructions
 
 1. There will be a new mappool for every stage.
    - Only Finals and Grand Finals will share the same pool.
@@ -430,7 +430,7 @@ Monday, 27 April 2020:
 9. The tiebreaker will be played under FreeMod conditions.
    - When playing the tiebreaker, there are no mod requirements.
 
-### Scheduling Instructions
+### Scheduling instructions
 
 1. Match schedule will be planned in accordance with weekly schedule-planning forms.
 2. Matches will be scheduled and announced according to the Turkey Time (UTC+3).
