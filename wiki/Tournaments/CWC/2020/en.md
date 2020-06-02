@@ -87,37 +87,54 @@ The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) an
 | ![][flag_US] | **United States** | **[rostld](https://osu.ppy.sh/users/4365562)**, [Secre](https://osu.ppy.sh/users/2306637), [diao](https://osu.ppy.sh/users/500696), [Dahcreeper](https://osu.ppy.sh/users/6926006), [Zak](https://osu.ppy.sh/users/1375955), [Lexii](https://osu.ppy.sh/users/7226149) |
 | ![][flag_VN] | **Vietnam** | **[Close](https://osu.ppy.sh/users/4744615)**, [NamSPro](https://osu.ppy.sh/users/11387006), [Huytimeclock](https://osu.ppy.sh/users/10920086), [-\[SLs\]-Horikita](https://osu.ppy.sh/users/8738261), [mothernature](https://osu.ppy.sh/users/6403418), [Marota](https://osu.ppy.sh/users/10278890) |
 
-## Match schedule: Semifinals
+## Match schedule: Finals
 
-### Saturday, 30 May 2020
-
-| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Mexico | ![][flag_MX] | ![][flag_TW] | Taiwan | **05:00 UTC** | 0:00 UTC-05 | 13:00 UTC+08 | ² |
-| China | ![][flag_CN] | ![][flag_HK] | Hong Kong | **13:00 UTC** | 21:00 UTC+08 | 21:00 UTC+08 | ¹ |
-| Indonesia | ![][flag_ID] | ![][flag_DE] | Germany | **15:00 UTC** | 22:00 UTC+07 | 17:00 UTC+02 | ² |
-| United States | ![][flag_US] | ![][flag_FR] | France | **17:00 UTC** | 13:00 UTC-04 | 19:00 UTC+02 | ² |
-| Canada | ![][flag_CA] | ![][flag_CL] | Chile | **22:00 UTC** | 17:00 UTC-05 | 18:00 UTC-04 | ² |
-
-### Sunday, 31 May 2020
+### Saturday, 6 June 2020
 
 | Team A |  |  | Team B | Match time | Local time A | Local time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Canada | ![][flag_CA] | ![][flag_MX] | Mexico | **02:30 UTC** | 21:30 (Sat.) UTC-05 | 21:30 (Sat.) UTC-05 | ³ |
-| Canada | ![][flag_CA] | ![][flag_TW] | Taiwan | **02:30 UTC** | 21:30 (Sat.) UTC-05 | 10:30 UTC+08 | ³ |
-| Chile | ![][flag_CL] | ![][flag_MX] | Mexico | **02:30 UTC** | 22:30 (Sat.) UTC-04 | 21:30  (Sat.) UTC-05 | ³ |
-| Chile | ![][flag_CL] | ![][flag_TW] | Taiwan | **02:30 UTC** | 22:30 (Sat.) UTC-04 | 10:30 UTC+08 | ³ |
-| South Korea | ![][flag_KR] | ![][flag_IT] | Italy | **13:00 UTC** | 22:00 UTC+09 | 15:00 UTC+02 | ¹ |
-| Indonesia | ![][flag_ID] | ![][flag_US] | United States | **15:00 UTC** | 22:00 UTC+07 | 11:00 UTC-04 | ³ |
-| Indonesia | ![][flag_ID] | ![][flag_FR] | France | **15:00 UTC** | 22:00 UTC+07 | 17:00 UTC+02 | ³ |
-| Germany | ![][flag_DE] | ![][flag_US] | United States | **17:00 UTC** | 19:00 UTC+02 | 13:00 UTC-04 | ³ |
-| Germany | ![][flag_DE] | ![][flag_FR] | France | **17:00 UTC** | 19:00 UTC+02 | 19:00 UTC+02 | ³ |
+| South Korea | ![][flag_KR] | ![][flag_CN] | China | **11:00 UTC** | 20:00 UTC+09 | 19:00 UTC+08 | ¹ |
+| Italy | ![][flag_IT] | ![][flag_CL] | Chile | **17:00 UTC** | 19:00 UTC+02 | 13:00 UTC-04 | ² |
+
+### Sunday, 7 June 2020
+
+| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| Hong Kong | ![][flag_HK] | ![][flag_US] | United States | **02:30 UTC** | 10:30 UTC+08 | 22:30 (Sat.) UTC-04 | ² |
+| Italy | ![][flag_IT] | ![][flag_HK] | Hong Kong | **14:00 UTC** | 16:00 UTC+02 | 22:00 UTC+08 | ³ |
+| Chile | ![][flag_CL] | ![][flag_HK] | Hong Kong | **14:00 UTC** | 10:00 UTC-04 | 22:00 UTC+08 | ³ |
+| Italy | ![][flag_IT] | ![][flag_US] | United States | **18:00 UTC** | 20:00 UTC+02 | 14:00 UTC-04 | ³ |
+| Chile | ![][flag_CL] | ![][flag_US] | United States | **18:00 UTC** | 14:00 UTC-04 | 14:00 UTC-04 | ³ |
 
 ¹ Winner bracket encounter  
 ² Loser bracket encounter  
 ³ Encounter dependent on results of ²Loser bracket encounter
 
 ## Mappools
+
+### Finals
+
+- NoMod
+  - [LOLI RIPE - All I wanna do is touch your power points (Sorcerer) \[Power Points\]](https://osu.ppy.sh/beatmapsets/564254#fruits/1192957)
+  - [Imperial Circus Dead Decadence - FUBUKI (Emiru) \[Glacial Cloudburst\]](https://osu.ppy.sh/beatmapsets/1166686#fruits/2433488)
+  - [Zekk - Fluctuation (Jemzuu) \[Deviation\]](https://osu.ppy.sh/beatmapsets/1148215#fruits/2397357)
+  - [jioyi attacked by mirror - I lost my flp (Spectator) \[new d\]](https://osu.ppy.sh/beatmapsets/1166709#fruits/2433531)
+  - [Getty vs. DJ DiA - Fox4-Raize- (Kaifin) \[Xilver's Extra\]](https://osu.ppy.sh/beatmapsets/482552#fruits/1038473)
+  - [Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - ito (Lasse) \[Petal\]](https://osu.ppy.sh/beatmapsets/1077982#fruits/2255709)
+- Hidden
+  - [Tanchiky - Hagoromo no Mai (Yumeno Himiko) \[Haru\]](https://osu.ppy.sh/beatmapsets/1100266#fruits/2298644)
+  - [MALVA. - Trane (dika312) \[Traurigkeit\]](https://osu.ppy.sh/beatmapsets/1010141#fruits/2114540)
+  - [Yunomi - Oedo Controller (feat. TORIENA) (Mentai) \[Impure's Extra\]](https://osu.ppy.sh/beatmapsets/759903#fruits/1674412)
+- HardRock
+  - [nameless - Milk Crown on Sonnetica (Ascendance) \[A World of Lies\]](https://osu.ppy.sh/beatmapsets/738709#fruits/1558977)
+  - [RYO - Shuffle Heaven (Kyptoric) \[WOOOOAAAH\]](https://osu.ppy.sh/beatmapsets/1001876#fruits/2097201)
+  - [sokoninaru - Tenohira de odoru (Snepif) \[Extreme\]](https://osu.ppy.sh/beatmapsets/773686#fruits/1641323)
+- DoubleTime
+  - [tamame - ebb and flow (tamame's 5 years after remix) (Yumeno Himiko) \[Lost Memories\]](https://osu.ppy.sh/beatmapsets/888934#fruits/1858064)
+  - [MY FIRST STORY - 2 FACE (Bastian) \[Rain\]](https://osu.ppy.sh/beatmapsets/1123002#fruits/2346751)
+  - [Liz Triangle - Messiah (Luscent) \[Desire\]](https://osu.ppy.sh/beatmapsets/1104025#fruits/2306846)
+- Tiebreaker
+  - **[Noah - World's end - Millefolium (Hareimu) \[Catastrophic Finale\]](https://osu.ppy.sh/beatmapsets/895287#fruits/1870715)**
 
 ### Semifinals
 
@@ -216,6 +233,26 @@ The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) an
   - **[Infected Mushroom - The Pretender (Seph) \[Crystal\]](https://osu.ppy.sh/beatmapsets/104516#fruits/304466)**
 
 ## Match results
+
+### Semifinals
+
+Saturday, 30 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Mexico** ![][flag_MX] | **7** | 3 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/62280400) |
+| **China** ![][flag_CN] | **7** | 2 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/62292061) |
+| **Indonesia** ![][flag_ID] | **7** | 2 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/62296887) |
+| **United States** ![][flag_US] | **7** | 5 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/62301752) |
+| Canada ![][flag_CA] | 5 | **7** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/62313365) |
+
+Sunday, 31 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Chile** ![][flag_CL] | **7** | 3 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/62320837) |
+| **South Korea** ![][flag_KR] | **7** | 0 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/62335764) |
+| Indonesia ![][flag_ID] | 2 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/62339554) |
 
 ### Quarterfinals
 
