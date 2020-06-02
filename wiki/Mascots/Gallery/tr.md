@@ -53,7 +53,7 @@ Pippi için fan tasarımları:
 
 Yuzu için fan tasarımları:
 
-- [[osu! Fanart Yarışması 3! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152514671088282)
+- [osu! Fanart Yarışması 3! (Facebook)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152514671088282)
 - [Fan Art 7: Halloween!](https://osu.ppy.sh/community/contests/5)
 - [Fan Art 8: Christmas](https://osu.ppy.sh/community/contests/36)
 - [Yuzu'nun yeni görünümü yarışması](https://osu.ppy.sh/community/contests/49)
