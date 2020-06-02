@@ -18,8 +18,8 @@ Bu kısayollar her yerde çalışır:
 
 | Kısayol | Eylem |
 | :-- | :-- |
-| `Alt` + `F4` | Oyun istemcisini kapat (istemsiz). Eğer oyun esnasında, beatmap düzenleyicisinde, veya osu!direct içerisinde iseniz, şarkı seçime ya da ana menüye (osu!direct için) geri dön. |
-| `Alt` + `Yukaru/Aşağı Ok` | Ana ses seviyesini ayarla, sol ve sağ yön tuşlarını kullanarak efekt ve müzik ses seviyelerini ayarla. |
+| `Alt` + `F4` | Oyun istemcisini kapat (uyarısız). Eğer oyun esnasında, beatmap düzenleyicisinde, veya osu!direct içerisinde iseniz, şarkı seçime ya da ana menüye (osu!direct için) geri dön. |
+| `Alt` + `Yukarı/Aşağı Ok` | Ana ses seviyesini ayarla, sol ve sağ yön tuşlarını kullanarak efekt ve müzik ses seviyelerini ayarla. |
 | `Ctrl` + `Alt` + `Shift` + `S` | Mevcut temayı yeniden yükle. Eğer oyun esnasında veya sonuç ekranında basıldıysa, şarkı seçim ekranına dönüldüğünde çalıştırılacaktır. |
 | `Ctrl` + `F11` | Kare zamanları grafiğini aç/kapa. `Ctrl` tuşuna basmanız bunu duraklatacaktır. |
 | `F7` | Kare hızı sınırlayıcıları arasında geçiş yap. |
@@ -28,7 +28,7 @@ Bu kısayollar her yerde çalışır:
 | `F10` | Tüm fare tuşlarını aç/kapa (her zaman etkin olan fare tekerleği hariç). |
 | `F12` | Ekran görüntüsü al. Ekran görüntüleri dosyasını açmak için iletiye tıkla. |
 | `Shift` + `F12` | Ekran görüntüsü al ve paylaşmak için sunucuya karşıya yükle. Ekran görüntüsü aynı zamanda yerelde de kaydedilecek. Bu ekran görüntünüzü web tarayıcınızda açacak. |
-| `Insert` | Bu [ekran değiştirme tuşudur (boss key)](https://en.wikipedia.org/wiki/Boss_key "Boss key on Wikipedia"). Oyun istemcisini bildirim çubuğuna küçült. Bu aynı zamanda oyunu susturur. |
+| `Insert` | Bu [patron geldi tuşudur](https://en.wikipedia.org/wiki/Boss_key "Boss key on Wikipedia"). Oyun istemcisini bildirim çubuğuna küçült. Bu aynı zamanda oyunu susturur. |
 | `Shift` + `F1` | Web tarayıcısında [osu!status](https://twitter.com/osustatus "osu!status on Twitter") sayfasını aç. (Yalnızca bağlantı hatası oluştuğunda.) |
 | `Ctrl` + `O` | Ayarlar yan çubuğunu aç. Ana menüde değilseniz offset sihirbazına giremezsiniz. |
 
@@ -62,7 +62,7 @@ Bu kısayollar her yerde çalışır:
 
 ## Şarkı seçimi
 
-*Not: Bunların hepsi Çoklu modunun şarkı seçim ekranında çalışmayabilir.*
+*Not: Bunların hepsi Çoklu modunun şarkı seçim ekranında çalışmaz.*
 
 | Kısayol | Eylem |
 | :-- | :-- |
@@ -70,8 +70,8 @@ Bu kısayollar her yerde çalışır:
 | `F2` | Rastgele bir beatmap seç. |
 | `Shift` + `F2` | Önceki rastgele seçilmiş beatmape geri dön. |
 | `F3` | Beatmap seçeneklerini aç. |
-| `F5` | Beatmapleri tekrar işle (devam etmeniz için bir istemde bulunur). |
-| `Shift` + `Delete` | Beatmap silme kutucuğu isteminde bulunur. Bu size beatmap setini (tüm zorluklar), beatmapi (seçilen zorluk), ya da görüntülenen tüm beatmapleri silmek isteyip istemediğinizi soracaktır. |
+| `F5` | Beatmapleri tekrar işle (devam etmeniz için onayınızı isteyecektir). |
+| `Shift` + `Delete` | Beatmap silme seçeneklerini görüntüler. Bu size beatmap setini (tüm zorlukları), beatmapi (seçilen zorluğu), ya da görüntülenen tüm beatmapleri silmek isteyip istemediğinizi soracaktır. |
 | `Ctrl` + `1` | Oyun modunu [osu!](/wiki/Game_Modes/osu!) olarak değiştir. |
 | `Ctrl` + `2` | Oyun modunu [osu!taiko](/wiki/Game_Modes/osu!taiko) olarak değiştir. |
 | `Ctrl` + `3` | Oyun modunu [osu!catch](/wiki/Game_Modes/osu!catch) olarak değiştir. |
@@ -165,7 +165,7 @@ Bu kısayollar beatmap düzenleyicinin her yerinde çalışır:
 | `Ctrl` + `Shift` + `L` | Kayıtlı en son haline geri çevir (tamamen). Bu her şeyi yeniden yükleyecektir. |
 | `Ctrl` + `O` | Zorluk seçim penceresini açar. |
 | `Ctrl` + `S` | Beatmapi mevcut haliyle kaydet. |
-| `Ctrl` + `N` | Tüm vuruş objelerini kaldırmak için istemde bulunur. |
+| `Ctrl` + `N` | Tüm vuruş objelerini kaldırmak için seçenek sunar. |
 | `Ctrl` + `Yukarı/Aşağı Ok` | Oynatma hızını %25 arttırır/azaltır. |
 | `Ctrl` + `Shift` + `Yukarı/Aşağı Ok` | Oynatma hızını %5 arttırır/azaltır. |
 | `F1` | [Oluştur (Compose)](/wiki/Beatmap_Editor/Compose) moduna geç. |
@@ -184,9 +184,9 @@ Bu kısayollar beatmap düzenleyicinin her yerinde çalışır:
 | :-- | :-- |
 | `Fare Tekerleği Yukarı/Aşağı` | İleri/Geri ara. |
 | `Shift` + `Fare Tekerleği Yukarı/Aşağı` | 4x hızla ileri/geri ara. |
-| `Ctrl` + `Fare Tekerleği Yukarı/Aşağı` | Anlık bölücüyü ayarla. |
-| `Alt` + `Fare Tekerleği Yukarı/Aşağı` | Oyun alanı üzerindeyken mesafe anlığı çarpanını ayarla. Zaman çizgisi üzerindeyken zaman çizgisi yakınlaştırmayı ayarla. |
-| `Alt` + `Shift` + `Fare Tekerleği Yukarı/Aşağı` | Oyun alanı üzerindeyken mesafe anlığı çarpanını daha hassas bir şekilde ayarla. |
+| `Ctrl` + `Fare Tekerleği Yukarı/Aşağı` | Nota ızgara bölücüyü ayarla. |
+| `Alt` + `Fare Tekerleği Yukarı/Aşağı` | Oyun alanı üzerindeyken mesafe aralığı çarpanını ayarla. Zaman çizgisi üzerindeyken zaman çizgisi yakınlaştırmasını ayarla. |
+| `Alt` + `Shift` + `Fare Tekerleği Yukarı/Aşağı` | Oyun alanı üzerindeyken mesafe aralığı çarpanını daha hassas bir şekilde ayarla. |
 
 ### Oluştur
 
@@ -200,14 +200,14 @@ Bu kısayollar beatmap düzenleyicinin her yerinde çalışır:
 
 | Kısayol | Eylem |
 | :-- | :-- |
-| `Alt` + `F4` veya `Esc` | Şarkı seçime geri dön. |
+| `Alt` + `F4` veya `Esc` | Şarkı seçimine geri dön. |
 | `Ctrl` + `Z` | Geri al. |
 | `Ctrl` + `Y` | Yinele. |
 | `Ctrl` + `A` | Tüm vuruş objelerini seç. |
 | `Ctrl` + `X` | Kes. |
 | `Ctrl` + `C` | Kopyala. |
 | `Ctrl` + `V` | Yapıştır. |
-| `Ctrl` + `D` | Seçimi klonla. Bu seçiminizi seçilen son objeden 1 derece sonrasına yapıştıracaktır. |
+| `Ctrl` + `D` | Seçimi klonla. Bu seçiminizi seçilen son objeden 1 ölçü sonrasına yapıştıracaktır. |
 | `Delete` | Sil. |
 | `1`, `2`, `3`, veya `4` | Sırasıyla seçim, circle, slider, ve spinner yerleştirme/seçim modları arasında geçiş yap (osu!standard, osu!taiko, veya osu!catch). |
 | `1`, `2`, veya `3` | Sırasıyla seçim, circle, hold yerleştirme/seçim modları arasında geçiş yap (osu!mania). |
@@ -218,10 +218,10 @@ Bu kısayollar beatmap düzenleyicinin her yerinde çalışır:
 
 | Kısayol | Eylem |
 | :-- | :-- |
-| `Alt` | Basılı tutarken [mesafe anlığını (distance snap)](/wiki/Beatmap_Editor/Distance_Snap) geçici olarak aç/kapa. |
-| `Y` | Mesafe anlığını aç/kapa. |
-| `Shift` | Basılı tutarken ızgara anlığını geçici olarak aç/kapa. |
-| `T` | Izgara anlığını aç/kapa. |
+| `Alt` | Basılı tutarken [mesafe aralığını (distance snap)](/wiki/Beatmap_Editor/Distance_Snap) geçici olarak aç/kapa. |
+| `Y` | Mesafe aralığını aç/kapa. |
+| `Shift` | Basılı tutarken açı yakalamayı geçici olarak aç/kapa. |
+| `T` | Açı yakalamayı aç/kapa. |
 | `G` | Izgara boyutları arasında geçiş yap |
 | `Ctrl` + `1` | Izgara boyutunu minik olarak ayarla. |
 | `Ctrl` + `2` | Izgara boyutunu küçük olarak ayarla. |
@@ -233,7 +233,7 @@ Bu kısayollar beatmap düzenleyicinin her yerinde çalışır:
 
 | Kısayol | Eylem |
 | :-- | :-- |
-| `Q` | Yeni kombo aç/kapa. |
+| `Q` | Yeni kombo ekle/kaldır. |
 | `Ctrl` + `,` | Seçimi saat yönünün tersine 90 derece döndür. |
 | `Ctrl` + `.` | Seçimi saat yönüne 90 derece döndür. |
 | `Ctrl` + `H` | Seçimi yatay eksende çevir. |
@@ -242,12 +242,12 @@ Bu kısayollar beatmap düzenleyicinin her yerinde çalışır:
 | `Ctrl` + `Shift` + `R` | Seçilen vuruş objelerini belirli bir açıda döndür (bir kutucuk açar). |
 | `Ctrl` + `Shift` + `S` | Seçilen vuruş objelerini belirli bir miktarda ölçeklendir (bir kutucuk açar). |
 | `Ctrl` + `Shift` + `D` | Belirtilen sayıda noktası olan çokgenler oluştur (bir kutucuk açar). |
-| `Ctrl` + `Shift` + `F` | Seçilen sliderı vuruş objesi akıntısına dönüştür (bir kutucuk açar). |
+| `Ctrl` + `Shift` + `F` | Seçilen sliderı bir streame dönüştürür. (bir kutucuk açar). |
 | `Ctrl` + `Sol/Sağ/Yukarı/Aşağı Ok` | Seçilen notaları basılan yönde ötele. (osu!standard, osu!taiko, osu!catch) |
 | `Ctrl` + `Sol/Sağ Ok` | Seçilen objeleri sağ veya sol sütuna taşı. (osu!mania) |
 | `Ctrl` + `Yukarı/Aşağı Ok` | Seçilen objeleri birer tık yukarı veya aşağı taşı. (osu!mania) |
 
-#### Hitsound oluşturma
+#### Vuruş sesi oluşturma
 
 | Kısayol | Eylem |
 | :-- | :-- |
@@ -262,8 +262,8 @@ Bu kısayollar beatmap düzenleyicinin her yerinde çalışır:
 
 | Kısayol | Eylem |
 | :-- | :-- |
-| `Shift` + (`1`, `2`, `3`, `4`, `6`, veya `8`) | [Anlık vuruş bölücüyü](/wiki/Beatmap_Editor/Beat_Snap_Divisor) sırasıyla 1/1, 1/2, 1/3, 1/4, 1/6, ve 1/8 olarak ayarla. |
-| `Shift` (zaman çizgisinde sürüklerken) | Anlık vuruş bölücü anlığını yoksay. |
+| `Shift` + (`1`, `2`, `3`, `4`, `6`, veya `8`) | [Nota ızgara bölücüyü](/wiki/Beatmap_Editor/Beat_Snap_Divisor) sırasıyla 1/1, 1/2, 1/3, 1/4, 1/6, ve 1/8 olarak ayarla. |
+| `Shift` (zaman çizgisinde sürüklerken) | Nota ızgara bölücü ayarını yoksay. |
 | `J` | Seçimi 1 bölüm geriye ötele. |
 | `K` | Seçimi 1 bölüm ileriye ötele. |
 
@@ -271,7 +271,7 @@ Bu kısayollar beatmap düzenleyicinin her yerinde çalışır:
 
 | Kısayol | Eylem |
 | :-- | :-- |
-| `I` | Sprite kütüphanesi panelini aç. |
+| `I` | Sprite kütüphanesini aç. |
 | `Ctrl` + `Z` | Geri al. |
 | `Ctrl` + `Y` | Yinele. |
 | `Ctrl` + `X` | Seçilen sprite'ı kes. |
@@ -285,4 +285,4 @@ Bu kısayollar beatmap düzenleyicinin her yerinde çalışır:
 | Kısayol | Eylem |
 | :-- | :-- |
 | `T` | Şarkının ritmine göre tıklandığında BPM ve offset'i ayarla. |
-| `Shift` BPM ve offset ayarlarken | Normal miktarın 4 katına çıkar. |
+| `Shift` BPM ve offset ayarlarken | Normal artış aralığını 4'e katlar. |
