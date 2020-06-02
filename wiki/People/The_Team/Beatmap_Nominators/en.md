@@ -159,7 +159,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | :-- | :-- |
 | ![][flag_GB] [\_DUSK\_](https://osu.ppy.sh/users/6092181) | Urdu, some Arabic |
 | ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | German |
-| ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) |  |
+| ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | <!-- TODO --> |
 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | Portuguese, Spanish |
 | ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | French |
 | ![][flag_GB] [Metzo](https://osu.ppy.sh/users/10633982) |  |
@@ -176,7 +176,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 
 | Name | Additional languages |
 | :-- | :-- |
-| ![][flag_MY] [Kyousukee](https://osu.ppy.sh/users/8842107) |  |
+| ![][flag_MY] [Kyousukee](https://osu.ppy.sh/users/8842107) | <!-- TODO --> |
 | ![][flag_HK] [PokeSky](https://osu.ppy.sh/users/3617111) | Chinese, Cantonese |
 
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
