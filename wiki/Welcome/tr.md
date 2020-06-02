@@ -2,7 +2,7 @@
 
 peppy tarafından geliştirilmiş dört farklı oyun modundan oluşan oynaması ücretsiz bir ritim oyunu olan osu!'ya hoş geldiniz: osu!standard, daire tıklama simülatörü; osu!taiko, davul çalma emülatörü; osu!catch, meyve salatası yakalamaca; ve osu!mania, klavye dövme sentezleyicisi.
 
-## Ortak ilgi alanları
+## Sıkça merak edilenler
 
 - [Kurulum](/wiki/Installation)
 - [Kayıt](/wiki/Registration)
@@ -24,13 +24,13 @@ peppy tarafından geliştirilmiş dört farklı oyun modundan oluşan oynaması 
 
 *Ana sayfa: [Beatmap yapımı](/wiki/Beatmapping/#getting-started).*
 
-Beatmap yapımı bir yaratıcının bir şarkıyı beatmap'e dönüştürmesi sürecinin tamamını kapsayan terimdir. Bu süreç şarkı seçimi, zamanlama ve obje yerleştirme ve test etme gibi şeyleri kapsar. Bunların yanı sıra video eklemek, [storyboard](/wiki/storyboarding/#getting-started) eklemek ve/veya [özel skin](/wiki/skinning/#getting-started) eklemek gibi şeyleri de kapsayabilir. Bütün bunlar tek bir kişi ya da birden fazla kullanıcı tarafından yapılabilir. Bazen bu kullanıcılara yaptıkları işe göre "storyboarder/storyboardcu", "skinner/temacı" veya "guest creator/misafir yaratıcılar" da denir.
+Beatmap yapımı bir yaratıcının bir şarkıyı beatmap'e dönüştürmesi sürecinin tamamını kapsayan terimdir. Bu süreç şarkı seçimi, zamanlama, obje yerleştirme ve test etme gibi şeyleri kapsar. Bunların yanı sıra video eklemek, [storyboard](/wiki/storyboarding/#getting-started) hazırlamak ve/veya [özel tema](/wiki/skinning/#getting-started) yaratmak gibi şeyleri de kapsayabilir. Bütün bunlar tek bir kişi ya da birden fazla kullanıcı tarafından yapılabilir. Bazen bu kullanıcılara yaptıkları işe göre "storyboarder/storyboardcu", "skinner/temacı" veya "guest creator/misafir yaratıcılar" da denir.
 
 ## Modlama
 
 *Ana sayfa: [Modlama](/wiki/Modding/#getting-started).*
 
-Modlama bazı kullanıcıların (bazen bu kullanıcılara "modder/modcu" da denir) diğer kullanıcılar tarafından yapılmış beklemede (ya da WIP/yardım sekmesinde) olan beatmap'lerini değerlendirmesine verilen addır. Modlama kalite kontrol safhasında önemli bir yere sahiptir çünkü beatmap yaratıcılarının beatmap'lerindeki hataları gidermesine yardımcı olur.
+Modlama bazı kullanıcıların (ki bu kullanıcılara çoğunlukla "modder/modcu" denir) diğer kullanıcılar tarafından yapılmış beklemede (ya da WIP/yardım sekmesinde) olan beatmaplerini değerlendirmesine verilen addır. Modlama kalite kontrol safhasında önemli bir yere sahiptir çünkü beatmap yaratıcılarının beatmaplerindeki hataları gidermesine yardımcı olur.
 
 ## Tema oluşturma
 
