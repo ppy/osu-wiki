@@ -118,7 +118,7 @@ Emekliliğe ayrılmış eski osu!team üyelerinden oluşan [osu! Alumni](/wiki/P
 
 | Kullanıcı | Katkılar |
 | :-- | :-- |
-| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Dünya Kupası organizasyonu & osu! Coffee Hour ev sahibi |
+| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Dünya Kupası organizasyonu & osu! Coffee Hour sunucusu |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Dünya Kupası organizasyonuna ve turnuvalarına olağanüstü katkı |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | Bir GMT ve osu! wiki ekibi üyesi olarak olağanüstü katkı |
 | ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) | Pek çok etkinlik ve proje üzerinde olağanüstü katkı |
@@ -169,7 +169,7 @@ Emekliliğe ayrılmış eski osu!team üyelerinden oluşan [osu! Alumni](/wiki/P
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Topluluk moderasyonuna olağanüstü katkı |
 | ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | Oyuncu desteğine & yardımına her daim olağanüstü katkı |
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | Oyuncu desteğine & yardımına her daim olağanüstü katkı |
-| ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | Mappers' Guild ve *Beatmap Nominators* ekibine olağanüstü katkı |
+| ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994) | Mappers' Guild ve Beatmap Aday Göstericiler ekibine olağanüstü katkı |
 | ![][flag_US] [Joehu](https://osu.ppy.sh/users/8549835) | osu! açık kaynak projelerine olağanüstü katkı |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Arjantin"
