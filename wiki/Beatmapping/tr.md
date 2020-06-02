@@ -7,7 +7,7 @@ Bu şarkı seçmeyi, [zamanlamayı](/wiki/Timing), [objeler](/wiki/Hit_Objects) 
 
 Mapperlar genellikle [beatmap derecelendirme prosedürünü](/wiki/Beatmap_ranking_procedure) takip ederek beatmaplerini [dereceli](/wiki/Beatmaps) yapmak isterler.
 
-osu! bir ritim tabanlı oyun olduğu için, maplemek için seçtiğiniz şarkı/müzik belirgin ve sürekli bir ritme sahip olmalı.
+osu! ritim tabanlı bir oyun olduğundan, maplemek için seçtiğiniz şarkı/müzik belirgin ve sürekli bir ritme sahip olmalı.
 Beatmap oluşturmaya alıştığınız ve daha deneyimli olduğunuz vakte kadar yavaş şarkılardan veya temposu (ya da hızı) değişen şarkılardan kaçınmaya çalışın.
 
 ## Başlarken
@@ -29,7 +29,7 @@ Başka bir [zorluk](/wiki/Difficulties) oluşturmadan önce bu bilgi kutucuğunu
 Bu, set içerisindeki tüm zorluklar için metaverinin tutarlı olmasını sağlayacaktır.
 
 İsterseniz şu anda diğer sekmeler içerisinden seçenekleri değiştirebilirsiniz, ancak bunlar daha sonra tekrar değiştirilebilir.
-Beatmap oluşturmaya başlamak için `OK`'a tıklayın!
+Beatmap oluşturmaya başlamak için `OK`' tuşuna tıklayın!
 Sonraki adım beatmapinize zamanlama eklemek olacak.
 
 ### Zamanlama (Timing)
