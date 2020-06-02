@@ -16,7 +16,7 @@ The **Hidden Only Tournament** (***HOT***) is a worldwide double-elimination 2v2
 | Registration phase | 2020-04-13/2020-05-03 |
 | Qualifiers | 2020-05-15/2020-05-18 |
 | Round of 32 | 2020-05-22/2020-05-25 |
-| Round of 32 | 2020-05-29/2020-06-01 |
+| Round of 16 | 2020-05-29/2020-06-01 |
 | Quarterfinals | 2020-06-06/2020-06-07 |
 | Semifinals | 2020-06-13/2020-06-14 |
 | Finals | 2020-06-20/2020-06-21 |
