@@ -18,7 +18,7 @@ The **Non-Professional Cup 2** (***NPC2***) is an international team-based doubl
 | Player registration | 2020-04-25/2020-05-14 |
 | Screening phase | 2020-05-17/2020-05-29 |
 | Qualifiers | 2020-05-30/2020-05-31 |
-| Group Stage | 2020-06-05/2020-05-07 |
+| Group Stage | 2020-06-05/2020-06-07 |
 | Round of 16 | 2020-06-12/2020-06-14 |
 | Quarterfinals | 2020-06-19/2020-06-21 |
 | Semifinals | 2020-06-26/2020-06-28 |
@@ -72,9 +72,8 @@ Generous donations from ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034
 | **Europe 2** | ![][flag_HU] **[Zozimoto](https://osu.ppy.sh/users/7283667)**, ![][flag_RU] [KysachayaOsa](https://osu.ppy.sh/users/10736772), ![][flag_BY] [patepa](https://osu.ppy.sh/users/8461672) |
 | **Fashionably Late** | ![][flag_US] **[Dream10](https://osu.ppy.sh/users/11740481)**, ![][flag_US] [fourfifty](https://osu.ppy.sh/users/9653206), ![][flag_SV] [Mario564](https://osu.ppy.sh/users/14544646), ![][flag_US] [Serlum](https://osu.ppy.sh/users/12056779) |
 | **G Nome** | ![][flag_US] **[MrJamesGaming](https://osu.ppy.sh/users/13730858)**, ![][flag_GB] [NightMia](https://osu.ppy.sh/users/11984807) |
-| **Grubasy bez kasy** | ![][flag_PL] **[PrazMLG](https://osu.ppy.sh/users/13829179)**, ![][flag_PL] [AbixOfficial](https://osu.ppy.sh/users/14332906) |
 | **KuroNeko** | ![][flag_PH] **[Ecstatify](https://osu.ppy.sh/users/14494059)**, ![][flag_TH] [Morosis](https://osu.ppy.sh/users/4114084), ![][flag_ID] [Fleure De Lapin](https://osu.ppy.sh/users/5569341/osu), ![][flag_VN] [-Yukina-](https://osu.ppy.sh/users/15470246) |
-| **Last Minute** | ![][flag_PH] **[pakaj123](https://osu.ppy.sh/users/13685832)**, ![][flag_US] [Shiro4102](https://osu.ppy.sh/users/14270286), ![][flag_CA] [BaconStar](https://osu.ppy.sh/users/3253981) |
+| **Last Minute** | ![][flag_US] **[Shiro4102](https://osu.ppy.sh/users/14270286)**, ![][flag_PH] [pakaj123](https://osu.ppy.sh/users/13685832), ![][flag_CA] [BaconStar](https://osu.ppy.sh/users/3253981) |
 | **Mouse Drift** | ![][flag_BR] **[Kleemann](https://osu.ppy.sh/users/12582103)**, ![][flag_BR] [Himeno\_-](https://osu.ppy.sh/users/16545385) |
 | **Mousechokervn** | ![][flag_VN] **[binhdz12345](https://osu.ppy.sh/users/15585184)**, ![][flag_VN] [snhangao](https://osu.ppy.sh/users/9529010), ![][flag_VN] [giangtruong](https://osu.ppy.sh/users/11287987) |
 | **Natas** | ![][flag_DE] **[wavybloom](https://osu.ppy.sh/users/13784613)**, ![][flag_SK] [YesImSatan](https://osu.ppy.sh/users/14373729),  ![][flag_DE] [Keks-](https://osu.ppy.sh/users/14916999) |
@@ -105,6 +104,28 @@ Generous donations from ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034
 | **Young Builders** | ![][flag_RU] **[Tara\_kan](https://osu.ppy.sh/users/13217621)**, ![][flag_RU] [bu1ld](https://osu.ppy.sh/users/13808132) ![][flag_RU] [JesusWCS](https://osu.ppy.sh/users/12420508), ![][flag_BY] [DyadyaShnuk](https://osu.ppy.sh/users/11268782) |
 
 ## Mappools
+
+### Round of 32
+
+- NoMod
+  - [TwoThirds & Feint - Epiphany (feat. Veela) (Streliteela) \[imouto's Insane\]](https://osu.ppy.sh/beatmapsets/241474#osu/585895)
+  - [M2U - Mare Maris (PaRaDogi) \[Skubi & Walaowey Collab HYper\]](https://osu.ppy.sh/beatmapsets/1100029#osu/2350932)
+  - [USAO - ZED (Mr Color) \[Hyper\]](https://osu.ppy.sh/beatmapsets/60115#osu/235354)
+  - [Yunomi - Oedo Controller(feat. TORIENA)\[Batsu Remix\] (Left) \[Insane\]](https://osu.ppy.sh/beatmapsets/469434#osu/1105879)
+- Hidden
+  - [onumi - ARROGANCE (Nambulance) \[Hard \[NPC2 Edit\]\]](https://osu.ppy.sh/beatmapsets/1179651#osu/2465200)
+  - [LukHash - WHEN AN ANGEL DIES (Namki) \[Solitude\]](https://osu.ppy.sh/beatmapsets/605726#osu/1279784)
+- HardRock
+  - [Foreground Eclipse - When Innocence Is Just A Mask (kakifly) \[Hard\]](https://osu.ppy.sh/beatmapsets/242316#osu/563266)
+  - [Memme - Starving Days (Gamu) \[Hyper\]](https://osu.ppy.sh/beatmapsets/275743#osu/801614)
+- DoubleTime
+  - [REOL - 404 not found (SnowNiNo_) \[Hard\]](https://osu.ppy.sh/beatmapsets/534116#osu/1165169)
+  - [Nakae Mitsuki - Renka Sensei (rui) \[wring's Hard\]](https://osu.ppy.sh/beatmapsets/51348#osu/165054)
+- FreeMod
+  - [Naju & Tute - Despacito (Speed Up Ver.) (Testo) \[semaphore's Hard\]](https://osu.ppy.sh/beatmapsets/854750#osu/1824447)
+  - [James Landino - Hide And Seek (Mirash) \[RLC's Hard\]](https://osu.ppy.sh/beatmapsets/972932#osu/2036905)
+- Tiebreaker
+  - **[Itou Masumi - Yume no Naka no Watashi no Yume (RLC) \[Coda\]](https://osu.ppy.sh/beatmapsets/668664#osu/1414553)**
 
 ### Qualifiers 
 
@@ -189,7 +210,7 @@ Generous donations from ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034
    - When playing a FreeMod map, one player **must** have any kind of mod choices enabled. For the other player, enabling mods is optional.
 4. **NoFail will be enforced on all maps.**
 5. Each mappool has a specific size depending on the stage. 
-   - **The Round of 32 and Round of 16 mappool will have 4 NoMod maps, 3 DoubleTime maps, and 2 of each for the remaining mod brackets.**
+   - **The Round of 32 and Round of 16 mappool will have 4 NoMod maps, and 2 of each for the remaining mod brackets.**
    - **The Quarterfinals and the Semifinals mappool will have 5 NoMod maps, 3 DoubleTime maps, and 2 of each for the remaining mod brackets.**
    - **The Finals and the Grand Finals mappool will have 6 NoMod maps, 3 FreeMod maps, and 4 of each for the remaining mod brackets.**
 6. Each mappool has 1 tiebreaker beatmap.
