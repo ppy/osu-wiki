@@ -100,7 +100,7 @@ The Mania Beginner's Showdown 2 is run by various community members.
 | :-- | :-- |
 | Top | ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_TH] [mickeyparm](https://osu.ppy.sh/users/11354950), ![][flag_MX] [Ammy](https://osu.ppy.sh/users/4183406), ![][flag_MY] [Anamneses](https://osu.ppy.sh/users/16299729), ![][flag_NL] [Nielz](https://osu.ppy.sh/users/8418116), ![][flag_PH] [Admiral Cliff](https://osu.ppy.sh/users/8103217), ![][flag_TH] [KorZ\[TH\]](https://osu.ppy.sh/users/7104944), ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206), ![][flag_HK] [Brown918](https://osu.ppy.sh/users/9805760), ![][flag_AU] [Arbusion](https://osu.ppy.sh/users/11469447), ![][flag_US] [tyud](https://osu.ppy.sh/users/13497474), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_RU] [FadingAway](https://osu.ppy.sh/users/7172051), ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891), ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) |
 | Mid | ![][flag_GB] [4KnoMOD](https://osu.ppy.sh/users/1233180), ![][flag_US] [YTseangaming](https://osu.ppy.sh/users/8299757), ![][flag_US] [TheWabbit](https://osu.ppy.sh/users/8139686), ![][flag_DE] [Quadrumplayer](https://osu.ppy.sh/users/9198142),![][flag_RU] [Alex\_Terrol](https://osu.ppy.sh/users/15386435), ![][flag_SE] [ump\_me\_daddy](https://osu.ppy.sh/users/14960725), ![][flag_FR] [gnobeo](https://osu.ppy.sh/users/12290705), ![][flag_FR] [Blacky Design](https://osu.ppy.sh/users/11540165), ![][flag_ID] [DJRukito](https://osu.ppy.sh/users/868700), ![][flag_SG] [BubbleTeaBunny](https://osu.ppy.sh/users/7060261), ![][flag_PL] [Ilikecook](https://osu.ppy.sh/users/11389137), ![][flag_KH] [tsp648](https://osu.ppy.sh/users/12301296), ![][flag_SE] [Reedkatt](https://osu.ppy.sh/users/8335950), ![][flag_GB] [N-ayr](https://osu.ppy.sh/users/11158123), ![][flag_FR] [Fizall](https://osu.ppy.sh/users/11985125), ![][flag_GB] [osuproroblox](https://osu.ppy.sh/users/15136307) |
-| Low | ![][flag_PL] [\[ Kangurek \]](https://osu.ppy.sh/users/11416040), ![][flag_US] [mcgen](https://osu.ppy.sh/users/5353025), ![][flag_AU] [El Robbi](https://osu.ppy.sh/users/13732416), ![][flag_FR] [whatisninou](https://osu.ppy.sh/users/11865043), ![][flag_US] [Kahli](https://osu.ppy.sh/users/8926244), ![][flag_RU] [SergoM4444](https://osu.ppy.sh/users/10515166), ![][flag_FR] [Al5Traz](https://osu.ppy.sh/users/12484908), ![][flag_PL] [Marek Marucha](https://osu.ppy.sh/users/2395405), ![][flag_RU] [Brittany Miller](https://osu.ppy.sh/users/13591425), ![][flag_PH] [Deadpulse](https://osu.ppy.sh/users/8575527), ![][flag_LV] [Lceanu](https://osu.ppy.sh/users/9644154), ![][flag_FR] [ThePrimesBros](https://osu.ppy.sh/users/11643530), ![][flag_BE] [DraQeu](https://osu.ppy.sh/users/4425520), ![][flag_NL] [PatyYe](https://osu.ppy.sh/users/3929829), ![][flag_IE] [KaiWhen](https://osu.ppy.sh/users/10040214), ![][flag_IT] [Dagoliir](https://osu.ppy.sh/users/7209911) |
+| Low | ![][flag_PL] [\[ Kangurek \]](https://osu.ppy.sh/users/11416040), ![][flag_US] [mcgen](https://osu.ppy.sh/users/5353025), ![][flag_AU] [El Robbi](https://osu.ppy.sh/users/13732416), ![][flag_FR] [whatisninou](https://osu.ppy.sh/users/11865043), ![][flag_US] [Kahli](https://osu.ppy.sh/users/8926244), ![][flag_RU] [SergoM4444](https://osu.ppy.sh/users/10515166), ![][flag_FR] [Al5Traz](https://osu.ppy.sh/users/12484908), ![][flag_PL] [MAREK MARUCHA](https://osu.ppy.sh/users/2395405), ![][flag_RU] [Brittany Miller](https://osu.ppy.sh/users/13591425), ![][flag_PH] [Deadpulse](https://osu.ppy.sh/users/8575527), ![][flag_LV] [Lceanu](https://osu.ppy.sh/users/9644154), ![][flag_FR] [ThePrimesBros](https://osu.ppy.sh/users/11643530), ![][flag_BE] [DraQeu](https://osu.ppy.sh/users/4425520), ![][flag_NL] [PatyYe](https://osu.ppy.sh/users/3929829), ![][flag_IE] [KaiWhen](https://osu.ppy.sh/users/10040214), ![][flag_IT] [Dagoliir](https://osu.ppy.sh/users/7209911) |
 | Eliminated | ![][flag_PL] [Atsuii](https://osu.ppy.sh/users/1553792) |
 
 ## Groups
@@ -130,7 +130,7 @@ The Mania Beginner's Showdown 2 is run by various community members.
 
 | Group | Top seed | Mid seed | Low seed |
 | :-: | :-- | :-- | :-- |
-| **Ant** | ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) | ![][flag_US] [YTseangaming](https://osu.ppy.sh/users/8299757) | ![][flag_PL] [Marek Marucha](https://osu.ppy.sh/users/2395405) |
+| **Ant** | ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) | ![][flag_US] [YTseangaming](https://osu.ppy.sh/users/8299757) | ![][flag_PL] [MAREK MARUCHA](https://osu.ppy.sh/users/2395405) |
 | **Bandicoot** | ![][flag_HK] [Brown918](https://osu.ppy.sh/users/9805760) | ![][flag_SE] [Reedkatt](https://osu.ppy.sh/users/8335950) | ![][flag_FR] [ThePrimesBros](https://osu.ppy.sh/users/11643530) |
 | **Crab** | ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153) | ![][flag_GB] [4KnoMOD](https://osu.ppy.sh/users/1233180) | ![][flag_RU] [SergoM4444](https://osu.ppy.sh/users/10515166) |
 | **Duck** | ![][flag_MX] [Ammy](https://osu.ppy.sh/users/4183406) | ![][flag_DE] [Quadrumplayer](https://osu.ppy.sh/users/9198142) | ![][flag_US] [Kahli](https://osu.ppy.sh/users/8926244) |
@@ -150,6 +150,28 @@ The Mania Beginner's Showdown 2 is run by various community members.
 ## Mappools
 
 ### High division
+
+#### Round of 16
+
+**[Download the mappack here! (134 MB)](https://mega.nz/file/yuJwWSRT#f2-ee1CnI-_iAGROK3p1AaHo7TowpRcCH5leNMmYkhg)**
+
+- FreeMod
+  - [Moe shop - Love Taste (w/ Jamie Paige & Shiki) (zero2snow) \[Sour (SV)\]](https://osu.ppy.sh/beatmapsets/1113833#mania/2326952)
+  - [YUC'e - Sunset Tea Cup (rRubyyy) \[TeaCupSV\]](https://osu.ppy.sh/beatmapsets/847692#mania/1785822)
+  - [Ichi sato bocchi (Morishita Chisaku) - Ne, issho ni kaero. (HowToPlayLN) \[Chill\]](https://osu.ppy.sh/beatmapsets/1002081#mania/2110884)
+  - [Mind Vortex - Arc (juankristal) \[Coordination\]](https://osu.ppy.sh/beatmapsets/619512#mania/1305835)
+  - [Kero Kero Bonito - Flamingo (-Rem-) \[True Colors\]](https://osu.ppy.sh/beatmapsets/767418#mania/2128288)
+  - [ONE OK ROCK - Stand Out Fit In (\[ A v a l o n \]) \[Hard\]](https://osu.ppy.sh/beatmapsets/887386#mania/1855035)
+  - [THE ORAL CIGARETTES - A-E-U-I (Syadow-) \[I-N-S-A-N-E\]](https://osu.ppy.sh/beatmapsets/986810#mania/2064332)
+  - [LV.4 - Angel dust (2016 Radio Mix) (Fontes) \[4k leqek's Hard\]](https://osu.ppy.sh/beatmapsets/970810#mania/2039046)
+  - [SOUND HOLIC Vs. T.Kakuta feat. YURiCa - TOXIC VIBRATION (extend ver.) (arcwinolivirus) \[HD\]](https://osu.ppy.sh/beatmapsets/359551#mania/790554)
+  - [(Various Artists) - Something About IcyWorld (Arkener) \[Fleeting Fantasy - Phantasma - Hard 11\]](https://osu.ppy.sh/beatmapsets/884900#mania/1849543)
+  - [Kazmasa - FIRE FIRE (Kazmasa Remix) (inteliser) \[EXTRA\]](https://osu.ppy.sh/beatmapsets/354653#mania/781158)
+  - [Mr.T - electro peaceful (-mint-) \[mechanical tranquility\]](https://osu.ppy.sh/beatmapsets/1031030#mania/2156093)
+  - [The Chalkeaters - Doom Crossing Eternal Horizons (feat. Natalia Natchan) (KenZ) \[4K Everlasting Doom\]](https://osu.ppy.sh/beatmapsets/1154347#mania/2411739)
+  - [marsy - ACTION (Jesuren) \[Fabulous\]](https://osu.ppy.sh/beatmapsets/952012#mania/1988001)
+- Tiebreaker
+  - **[nayuta - Stray Star (Virtue-) \[Deviant Star\]](https://osu.ppy.sh/beatmapsets/675074#mania/1428213)**
 
 #### Round of 32
 
@@ -201,6 +223,28 @@ The Mania Beginner's Showdown 2 is run by various community members.
   - [Silentroom - NULCTRL (Raveille) \[Stage 5: Command\]](https://osu.ppy.sh/beatmapsets/1162328#mania/2424667)
 
 ### Low division
+
+#### Round of 16
+
+**[Download the mappack here! (104 MB)](https://mega.nz/file/jiJVxIJQ#GrloBpXRGFdepxbyFr4A1lU74EiN2xpX8lO4gbho93I)**
+
+- FreeMod
+  - [Slappy - Hanami (RuleBlazing) \[Edit\]](https://osu.ppy.sh/beatmapsets/1101411#mania/2329945)
+  - [Hideki Naganuma - Metal Scratchin' (XeoStyle) \[Purple\]](https://osu.ppy.sh/beatmapsets/510372#mania/1085212)
+  - [M2U - PandorA (Kamishiro Kurea) \[Pyxis\]](https://osu.ppy.sh/beatmapsets/1048617#mania/2467204)
+  - [Aphex Twin - Avril 14th (Kamishiro Kurea) \[Calm\]](https://osu.ppy.sh/beatmapsets/1183570#mania/2467426)
+  - [Team Salvato - Doki Doki Literature Club! (Main Theme) (arcwinolivirus) \[?Harem?\]](https://osu.ppy.sh/beatmapsets/682702#mania/1443731)
+  - [Soleily - Renatus (Fullerene-) \[4K Hard\]](https://osu.ppy.sh/beatmapsets/235827#mania/546497)
+  - [Silentroom - Nhelv (Leniane) \[Normal\]](https://osu.ppy.sh/beatmapsets/1140163#mania/2410725)
+  - [Porter Robinson - Get Your Wish (World's Last Garden Remix) (Asherz007) \[Hard\]](https://osu.ppy.sh/beatmapsets/1128593#mania/2361142)
+  - [Various Artists - intel 4K Core Pack Vol.3 (inteliser) \[xi // Inixia (BAS)\]](https://osu.ppy.sh/beatmapsets/550226#mania/1165654)
+  - [Wisdom - God Rest Your Soul (Kamishiro Kurea) \[Brave\]](https://osu.ppy.sh/beatmapsets/1013997#mania/2467519)
+  - [Igorrr & Ruby My Dear - Figue Folle (Parachor) \[Harsh \[Lv.9\]\]](https://osu.ppy.sh/beatmapsets/347453#mania/903457)
+  - [SANY-ON - BEDLAM (Nemesis-D) \[Lv.8 NM\]](https://osu.ppy.sh/beatmapsets/617691#mania/1302342)
+  - [Nekomata Master - Avalon no Oka (Tailsdk) \[Medium\]](https://osu.ppy.sh/beatmapsets/799580#mania/2293653)
+  - [Narmaya(CV:M.A.O) - Houmatsumugen Kochoujin (Critical\_Star) \[SY's 4K Hard\]](https://osu.ppy.sh/beatmapsets/775728#mania/1630019)
+- Tiebreaker
+  - **[Team Grimoire+amaneko - croiX(extend) (Takane6) \[Kyou's ADVANCED\]](https://osu.ppy.sh/beatmapsets/463986#mania/1004242)**
 
 #### Round of 32
 
@@ -254,6 +298,34 @@ The Mania Beginner's Showdown 2 is run by various community members.
 ## Match results
 
 ### High division
+
+#### Round of 32
+
+Saturday, 30 May 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Kirameiji** ![][flag_SG] | **4** | 0 | ![][flag_ID] ibacot | [#1](https://osu.ppy.sh/community/matches/62283238) |
+| uwuchuchuu ![][flag_TH] | 0 | **4** | ![][flag_PH] **Lazereed** | [#1](https://osu.ppy.sh/community/matches/62281905) |
+| MonsterFighterP ![][flag_DE] | 1 | **4** | ![][flag_FR] **nalo\_** | [#1](https://osu.ppy.sh/community/matches/62290338) |
+| **CrashSmash** ![][flag_CH] | **4** | 0 | ![][flag_FR] nazerty68 | [#1](https://osu.ppy.sh/community/matches/62291878) |
+| **Konohana Lucia** ![][flag_BR] | **4** | 2 | ![][flag_FR] Djink | [#1](https://osu.ppy.sh/community/matches/62297237) |
+| AmateurMonkeyYT ![][flag_AU] | 1 | **4** | ![][flag_AR] **Screeply** | [#1](https://osu.ppy.sh/community/matches/62315380) |
+
+Sunday, 31 May 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **ReZ\_TB** ![][flag_ID] | **4** | 3 | ![][flag_FR] SochnyiKokos | [#1](https://osu.ppy.sh/community/matches/62329476) |
+| Gerwin13 ![][flag_PH] | 0 | **4** | ![][flag_FR] **Paturages** | [#1](https://osu.ppy.sh/community/matches/62331453) |
+| **TNKSTC** ![][flag_TH] | **4** | 3 | ![][flag_DE] Katsumi | [#1](https://osu.ppy.sh/community/matches/62334016) |
+| KagenoKami ![][flag_PH] | 2 | **4** | ![][flag_FR] **DovaCube** | [#1](https://osu.ppy.sh/community/matches/62334174) |
+| **Wassero** ![][flag_GB] | **4** | 1 | ![][flag_TH] -NC KJ- | [#1](https://osu.ppy.sh/community/matches/62335648) |
+| joako 321 ![][flag_CL] | 1 | **4** | ![][flag_SG] **loli\_seale** | [#1](https://osu.ppy.sh/community/matches/62337980) |
+| Parax\_UnDeath ![][flag_DE] | 3 | **4** | ![][flag_TH] **\[Hakura\_San\]** | [#1](https://osu.ppy.sh/community/matches/62337893) |
+| Arraxey ![][flag_US] | 0 | **4** | ![][flag_RU] **-Tenma-** | [#1](https://osu.ppy.sh/community/matches/62339698) |
+| woahsia ![][flag_SG] | 1 | **4** | ![][flag_FR] **xelied** | [#1](https://osu.ppy.sh/community/matches/62341651) |
+| Haadez ![][flag_FI] | 0 | **4** | ![][flag_DE] **cakeboss05** | [#1](https://osu.ppy.sh/community/matches/62343538) |
 
 #### Group Stage
 
@@ -379,7 +451,7 @@ Sunday, 24 May 2020:
 
 #### Qualifiers
 
-| Seed | Player | Average Rank |
+| Seed | Player | Average rank |
 | --: | :-- | --: |
 | #1 | ![][flag_PH] [Lazereed](https://osu.ppy.sh/users/12894120) | 3.6 |
 | #2 | ![][flag_CH] [CrashSmash](https://osu.ppy.sh/users/13942150) | 8.6 |
@@ -483,6 +555,34 @@ Sunday, 24 May 2020:
 
 ### Low division
 
+#### Round of 32
+
+Saturday, 30 May 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Anamneses** ![][flag_MY] | **0** | -1 | ![][flag_LV] Lceanu | *win by default* |
+| **Cychloryn** ![][flag_US] | **4** | 0 | ![][flag_FR] ThePrimesBros | [#1](https://osu.ppy.sh/community/matches/62283156) |
+| **Deadpulse** ![][flag_PH] | **0** | -1 | ![][flag_PL] \[ Kangurek \] | *win by default* |
+| **QEpicAce** ![][flag_DE] | **4** | 3 | ![][flag_DE] Quadrumplayer | [#1](https://osu.ppy.sh/community/matches/62292499) |
+| **KorZ\[TH\]** ![][flag_TH] | **4** | 2 | ![][flag_RU] Alex\_Terrol | [#1](https://osu.ppy.sh/community/matches/62297335) |
+| **tyud** ![][flag_US] | **4** | 1 | ![][flag_RU] Brittany Miller | [#1](https://osu.ppy.sh/community/matches/62299793) |
+
+Sunday, 31 May 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **mickeyparm** ![][flag_TH] | **0** | -1 | ![][flag_US] TheWabbit | *win by default* |
+| tsp648 ![][flag_KH] | 0 | **4** | ![][flag_US] **mcgen** | [#1](https://osu.ppy.sh/community/matches/62321540) |
+| Admiral Cliff ![][flag_PH] | -1 | **0** | ![][flag_AU] **Arbusion** | *win by default* |
+| Marek Marucha ![][flag_PL] | 1 | **4** | ![][flag_HK] **Brown918** | [#1](https://osu.ppy.sh/community/matches/62331390) |
+| **Ilikecook** ![][flag_PL] | **0** | -1 | ![][flag_ID] DJRukito | *win by default* |
+| ump\_me\_daddy ![][flag_SE] | 2 | **4** | ![][flag_NL] **Nielz** | [#1](https://osu.ppy.sh/community/matches/62333944) |
+| xHirayuki ![][flag_ID] | 1 | **4** | ![][flag_SE] **Mestro** | [#1](https://osu.ppy.sh/community/matches/62333914) |
+| Dagoliir ![][flag_IT] | -1 | **0** | ![][flag_RU] **FadingAway** | *win by default* |
+| **BubbleTeaBunny** ![][flag_SG] | **4** | 2 | ![][flag_PL] \_demo | [#1](https://osu.ppy.sh/community/matches/62337787) |
+| SergoM4444 ![][flag_RU] | 0 | **4** | ![][flag_MX] **Ammy** | [#1](https://osu.ppy.sh/community/matches/62341834) |
+
 #### Group Stage
 
 Saturday, 16 May 2020:
@@ -496,7 +596,7 @@ Saturday, 16 May 2020:
 | **Anamneses** ![][flag_MY] | **4** | 0 | ![][flag_PL] Ilikecook | [#1](https://osu.ppy.sh/community/matches/61734492) |
 | osuproroblox ![][flag_GB] | 3 | **4** | ![][flag_RU] **Brittany Miller** | [#1](https://osu.ppy.sh/community/matches/61738600) |
 | Fizall ![][flag_FR] | 2 | **4** | ![][flag_PL] **\[ Kangurek \]** | [#1](https://osu.ppy.sh/community/matches/61742820) |
-| YTseangaming ![][flag_US] | 2 | **4** | ![][flag_PL] **Marek Marucha** | [#1](https://osu.ppy.sh/community/matches/61745136) |
+| YTseangaming ![][flag_US] | 2 | **4** | ![][flag_PL] **MAREK MARUCHA** | [#1](https://osu.ppy.sh/community/matches/61745136) |
 | KaiWhen ![][flag_IE] | -1 | **0** | ![][flag_NL] **Nielz** | *win by default* |
 | **Quadrumplayer** ![][flag_DE] | **4** | 2 | ![][flag_US] Kahli | [#1](https://osu.ppy.sh/community/matches/61748540) |
 
@@ -515,7 +615,7 @@ Sunday, 17 May 2020:
 | **tyud** ![][flag_US] | **4** | 1 | ![][flag_SG] BubbleTeaBunny | [#1](https://osu.ppy.sh/community/matches/61777765) |
 | N-ayr ![][flag_GB] | 1 | **4** | ![][flag_US] **mcgen** | [#1](https://osu.ppy.sh/community/matches/61782439) |
 | Kahli ![][flag_US] | -1 | **0** | ![][flag_MX] **Ammy** | *win by default* |
-| Marek Marucha ![][flag_PL] | 0 | **4** | ![][flag_US] **Cychloryn** | [#1](https://osu.ppy.sh/community/matches/61787427) |
+| MAREK MARUCHA ![][flag_PL] | 0 | **4** | ![][flag_US] **Cychloryn** | [#1](https://osu.ppy.sh/community/matches/61787427) |
 | Capu ![][flag_DE] | -1 | **0** | ![][flag_ID] **DJRukito** | *win by default* |
 | **Lceanu** ![][flag_LV] | **0** | -1 | ![][flag_DE] Capu | *win by default* |
 
@@ -564,7 +664,7 @@ Monday, 25 May 2020:
 
 #### Qualifiers
 
-| Seed | Player | Average Rank |
+| Seed | Player | Average rank |
 | --: | :-- | --: |
 | #1 | ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263) | 4.2 |
 | #2 | ![][flag_TH] [mickeyparm](https://osu.ppy.sh/users/11354950) | 4.4 |
@@ -605,7 +705,7 @@ Monday, 25 May 2020:
 | #37 | ![][flag_US] [Kahli](https://osu.ppy.sh/users/8926244) | 34.2 |
 | #38 | ![][flag_RU] [SergoM4444](https://osu.ppy.sh/users/10515166) | 36 |
 | #39 | ![][flag_FR] [Al5Traz](https://osu.ppy.sh/users/12484908) | 36.4 |
-| #40 | ![][flag_PL] [Marek Marucha](https://osu.ppy.sh/users/2395405) | 36.6 |
+| #40 | ![][flag_PL] [MAREK MARUCHA](https://osu.ppy.sh/users/2395405) | 36.6 |
 | #41 | ![][flag_RU] [Brittany Miller](https://osu.ppy.sh/users/13591425) | 36.8 |
 | #42 | ![][flag_PH] [Deadpulse](https://osu.ppy.sh/users/8575527) | 39.6 |
 | #43 | ![][flag_LV] [Lceanu](https://osu.ppy.sh/users/9644154) | 40 |
