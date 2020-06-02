@@ -7,7 +7,7 @@ tags:
 
 # 112's Corona Tournament
 
-![112CT Logo](img/banner.png)
+![112CT logo](img/banner.png)
 
 The **112's Corona Tournament** (***112CT***) was a double-elimination 2v2 osu! tournament started with qualifiers hosted by ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470) and ![][flag_TR] [Sibyl](https://osu.ppy.sh/users/10440852). The tournament was only allowed for Turkish-speaking users regardless of their country flags. This was the fifth installment of 112's Tournaments series.
 
@@ -87,7 +87,7 @@ The 112's Corona Tournament was run by various community members.
 
 ## Podium
 
-![112CT Podium](img/podium.png)
+![112CT podium](img/podium.png)
 
 ## Mappools
 
@@ -173,7 +173,7 @@ The 112's Corona Tournament was run by various community members.
   - [ASCA - Nisemono no Koi ni Sayounara with Wakeshima Kanon (timemon) \[Hard\]](https://osu.ppy.sh/beatmapsets/1055201#osu/2208363)
 - FreeMod
   - [Foreground Eclipse – Vermillion Halo (Natteke desu) \[Shiroha my Mirash's Lunatic\]](https://osu.ppy.sh/beatmapsets/1075426#osu/2268407)
-  - [Kaneko Chiharu - iLLness LiLin (Kroytz) \[Pono’s INFINITE\]](https://osu.ppy.sh/beatmapsets/634147#osu/1345674)
+  - [Kaneko Chiharu - iLLness LiLin (Kroytz) \[Pono's INFINITE\]](https://osu.ppy.sh/beatmapsets/634147#osu/1345674)
   - [F.I – 44teru.k (Philippines) \[Gold\]](https://osu.ppy.sh/beatmapsets/42225#osu/136411)
 - Tiebreaker
   - **[EPICA – Dancing In A Hurricane (Hobbes2) \[Torn\]](https://osu.ppy.sh/beatmapsets/818826#osu/1716825)**
@@ -203,7 +203,7 @@ The 112's Corona Tournament was run by various community members.
 - Tiebreaker
   - **[pocotan – Dear Jewel (Meg) \[Jewelry Box\]](https://osu.ppy.sh/beatmapsets/417306#osu/903667)**
 
-### Qualifiers stage
+### Qualifiers
 
 **[Download the map pack here! (45 MB)](https://drive.google.com/uc?id=1ty3WFqIiY2OQ-bN9phbrivIOA1jry-WK&export=download)**
 
@@ -351,7 +351,7 @@ Monday, 27 April 2020:
 
 ### Tournament rules
 
-1. 112’s Corona Tournament is an osu!standard tournament only allowed for Turkish-speaking players regardless of their profile flags.
+1. 112's Corona Tournament is an osu!standard tournament only allowed for Turkish-speaking players regardless of their profile flags.
 2. The tournament uses a qualifier into a double elimination bracket.
 3. The format of the tournament is planned as **2-player team versus** setup.
 4. Beatmap scoring is based on Score V2.
@@ -399,7 +399,7 @@ Monday, 27 April 2020:
 ### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-   - Room settings are osu!, Team-Vs. , Win Condition: ‘ScoreV2’.
+   - Room settings are osu!, Team-Vs., Win Condition: 'ScoreV2'.
 2. Players can select up to two warm-up beatmaps that should not exceed 4 minutes. Players are free to not to pick a warm-up, but have to play if the opponent wants to.
 3. Each team must use `!roll` once in `#multiplayer`.
    - The team with the higher roll **picks** first.       
