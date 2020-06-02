@@ -5,9 +5,9 @@ tags:
 
 # Aday Gösterme Denetleme Takımı
 
-**Aday Gösterme Denetleme Takımı** (*Nomination Assessment Team*, ***NAT***) [Beatmap Aday Göstericiler](/wiki/People/The_Team/Beatmap_Nominators) (*BN*) ekibinin moderatörleridir ve osu!'nun *beatmapping* kısmının fonksiyonel kalmasından sorumludurlar.
+**Aday Gösterme Denetleme Takımı** (*Nomination Assessment Team*, ***NAT***) [Beatmap Aday Göstericiler](/wiki/People/The_Team/Beatmap_Nominators) (*BN*) ekibinin moderatörleridir ve osu!'nun *beatmap yaratma* kısmının fonksiyonel kalmasından sorumludurlar.
 
-NAT üyeleri kırmızı renk kullanıcı isimlerinden ve ünvanlarından ayırt edilebilirler. [Küresel Moderasyon Takımı](/wiki/People/The_Team/Global_Moderation_Team) (*GMT*) gibi, onların da site çaplı moderasyon yetkileri ve oyun-içi sohbet kanallarında koyu kırmızı kullanıcı ismine sahiptirler.
+NAT üyeleri kırmızı renk kullanıcı isimlerinden ve ünvanlarından ayırt edilebilirler. [Küresel Moderasyon Takımı](/wiki/People/The_Team/Global_Moderation_Team) (*GMT*) gibi, onların da site çaplı moderasyon yetkileri vardır ve oyun-içi sohbet kanallarında koyu kırmızı kullanıcı ismine sahiptirler.
 
 ## Sorumluluklar
 
