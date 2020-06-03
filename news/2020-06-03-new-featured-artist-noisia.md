@@ -16,7 +16,7 @@ Don't take my word for it, check them out:
 
 ### Vigilantes
 
-Check out [this collaborative set](https://osu.ppy.sh/beatmapsets/765338) hosted by [Affirmation](https://osu.ppy.sh/users/6186628)!
+Check out [this collaborative set](https://osu.ppy.sh/beatmapsets/1126238) hosted by [Affirmation](https://osu.ppy.sh/users/6186628)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/84/previews/2201.mp3" type="audio/mpeg">
