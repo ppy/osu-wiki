@@ -1,4 +1,14 @@
+outdated: true # missing languages.ur, languages.vi
 separator: ", "
+alumni:
+  roles:
+    academy: osu!academy 创立者
+    admin: 管理员
+    chat: 聊天室管理员
+    dev: osu! 开发者
+    media: osu!media 创立者
+    support: 支持团队
+    tournaments: 大赛管理员
 gmt:
   all_mods: 全员
   areas:

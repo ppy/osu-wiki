@@ -45,6 +45,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | :-- | :-- | :-- |
 | ![][flag_MY] [- [bibitaru] -](https://osu.ppy.sh/users/4482419) | Çince, Malay dili | Sohbet moderasyonu |
 | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985) | Almanca | Sohbet moderasyonu |
+| ![][flag_US] [abraker](https://osu.ppy.sh/users/4635891) |  | Forum moderasyonu |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | Sohbet moderasyonu, beatmap moderasyonu |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | Almanca | Sohbet moderasyonu |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | İspanyolca | Sohbet moderasyonu, forum moderasyonu |
@@ -56,7 +57,6 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Bulgarca | osu!idol ev sahipliği, forum moderasyonu, beatmap moderasyonu |
 | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | Fransızca | Sohbet moderasyonu, forum moderasyonu, beatmap moderasyonu |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Lehçe | Sohbet moderasyonu |
-| ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | Türkçe | Sohbet moderasyonu |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Sohbet moderasyonu, beatmap moderasyonu |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | İspanyolca | Turnuvalar |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Kantonca, Çince, Japonca | Sohbet moderasyonu |
@@ -74,7 +74,6 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Resmi takım temsilcisi |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Almanca | Turnuvalar, beatmap moderasyonu |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | Fransızca | Sohbet moderasyonu, forum moderasyonu |
-| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) |  | Sohbet moderasyonu, teknik destek |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portekizce | Sohbet moderasyonu |
 | ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | İspanyolca, Katalanca | Sohbet moderasyonu |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | İspanyolca | Sohbet moderasyonu, wiki yönetimi |
@@ -94,7 +93,7 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | ![][flag_PL] [Ukami](https://osu.ppy.sh/users/820865) | Lehçe | Sohbet moderasyonu |
 | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) | İspanyolca | Sohbet moderasyonu, turnuvalar, wiki yönetimi, forum moderasyonu |
 | ![][flag_PL] [Yason](https://osu.ppy.sh/users/2574392) | Lehçe | Sohbet moderasyonu |
-| ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) | <!-- TODO --> | Sohbet moderasyonu |
+| ![][flag_HM] [Zallius](https://osu.ppy.sh/users/55) |  | Sohbet moderasyonu |
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Almanca | Sohbet moderasyonu |
 | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) | Türkçe | Sohbet moderasyonu |
 
@@ -129,37 +128,37 @@ Genellikle, ekibe değerli bir katkı olup olamayacaklarına emin olabilmek adı
 | `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) |
 | `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480), ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) |  |
-| `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779), ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) |
+| `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) |
 | `#vietnamese` |  |  |
 
-[flag___]: /wiki/shared/flag/__.gif
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BG]: /wiki/shared/flag/BG.gif "Bulgaria"
-[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
-[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_AR]: /wiki/shared/flag/AR.gif "Arjantin"
+[flag_AT]: /wiki/shared/flag/AT.gif "Avusturya"
+[flag_AU]: /wiki/shared/flag/AU.gif "Avustralya"
+[flag_BG]: /wiki/shared/flag/BG.gif "Bulgaristan"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brezilya"
+[flag_CA]: /wiki/shared/flag/CA.gif "Kanada"
+[flag_CH]: /wiki/shared/flag/CH.gif "İsviçre"
+[flag_CL]: /wiki/shared/flag/CL.gif "Şili"
+[flag_DE]: /wiki/shared/flag/DE.gif "Almanya"
+[flag_ES]: /wiki/shared/flag/ES.gif "İspanya"
+[flag_FR]: /wiki/shared/flag/FR.gif "Fransa"
+[flag_GB]: /wiki/shared/flag/GB.gif "Birleşik Krallık"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_HM]: /wiki/shared/flag/HM.gif "Heard Island and McDonald Islands"
-[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
-[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
-[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
-[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
-[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
-[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_HM]: /wiki/shared/flag/HM.gif "Heard Adası ve McDonald Adaları"
+[flag_ID]: /wiki/shared/flag/ID.gif "Endonezya"
+[flag_IT]: /wiki/shared/flag/IT.gif "İtalya"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japonya"
+[flag_KR]: /wiki/shared/flag/KR.gif "Güney Kore"
+[flag_MX]: /wiki/shared/flag/MX.gif "Meksika"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malezya"
+[flag_NL]: /wiki/shared/flag/NL.gif "Hollanda"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norveç"
+[flag_PH]: /wiki/shared/flag/PH.gif "Filipinler"
+[flag_PL]: /wiki/shared/flag/PL.gif "Polonya"
+[flag_PT]: /wiki/shared/flag/PT.gif "Portekiz"
+[flag_RU]: /wiki/shared/flag/RU.gif "Rusya Federasyonu"
+[flag_SE]: /wiki/shared/flag/SE.gif "İsveç"
+[flag_TR]: /wiki/shared/flag/TR.gif "Türkiye"
+[flag_TW]: /wiki/shared/flag/TW.gif "Tayvan"
+[flag_US]: /wiki/shared/flag/US.gif "Birleşik Devletler"
+[flag___]: /wiki/shared/flag/__.gif

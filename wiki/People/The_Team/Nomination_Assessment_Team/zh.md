@@ -44,6 +44,7 @@ NAT 会长期关注潜在的 NAT 候选人，并偶尔进行讨论已决定是�
 | ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | 粤语, 中文 | 评估 |
 | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | 评估 |
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | 德语 | 评估 |
+| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | 德语 | 评估 |
 | ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | 瑞典语 | 构造, 沟通 |
 | ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | 评估, 构造, 沟通 |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | 构造 |
