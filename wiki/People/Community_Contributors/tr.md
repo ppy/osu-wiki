@@ -1,10 +1,10 @@
 # Topluluk İştirakçıları
 
-![Contributor Badge](/wiki/shared/contributor.jpg "İştirakçı Rozeti")
+![](/wiki/shared/contributor.jpg "İştirakçı rozeti")
 
-**Topluluk İştirakçıları** *(Community Contributors)* osu! topluluğuna kendilerinden fedakârlıklar yaparak hizmet sağlayan - çoğumuzun bugün kıymetini bilmediği aletler yapan - kimselerdir. Bu kullanıcılara tüm topluluk için kayda değer işler yaptıklarını belirten bir rozet verilir.
+**Topluluk İştirakçıları** (*Community Contributors*) osu! topluluğuna kendilerinden fedakârlıklar yaparak hizmet sağlayan - çoğumuzun bugün kıymetini bilmediği aletler yapan - kimselerdir. Bu kullanıcılara tüm topluluk için kayda değer işler yaptıklarını belirten bir rozet verilir.
 
-Emekliliğe ayrılmış eski osu!team üyelerinden oluşan [osu! Alumni](/wiki/People/osu!_Alumni) ile karıştırılmamalıdır. Topluluk İştirakçısı rozetleri osu! ve topluluk çevresini iyileştirmek adına kendilerinden beklenenden çok daha fazlasını ortaya koyan kamuya açık bağımsız çalışan kişilere verilir.
+Emekliliğe ayrılmış eski osu!team üyelerinden oluşan [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) ile karıştırılmamalıdır. Topluluk İştirakçısı rozetleri osu! ve topluluk çevresini iyileştirmek adına kendilerinden beklenenden çok daha fazlasını ortaya koyan kamuya açık bağımsız çalışan kişilere verilir.
 
 ## 2013
 
@@ -17,7 +17,7 @@ Emekliliğe ayrılmış eski osu!team üyelerinden oluşan [osu! Alumni](/wiki/P
 | ![][flag_GB] [Darkimmortal](https://osu.ppy.sh/users/10886) | [osu!record hizmetini](https://osu.ppy.sh/community/forums/topics/108092) geliştiren ve sürdüren kişi (tekrar `.osr`'sinden videoya). |
 | ![][flag_DE] [nanashiRei](https://osu.ppy.sh/users/807630) | osu!'nun çalışan en büyük [beatmap arşivine](https://osu.yas-online.net/) ev sahipliği yapma ve yürütme. |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | Oyun istemcisi ve geri kalan her şeye (saymakla bitmez) grafik katkısı. |
-| ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | [Başarım](/wiki/Achievements) çizimleri. |
+| ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | [Başarım](/wiki/Medals) çizimleri. |
 | ![][flag_US] [akrolsmir](https://osu.ppy.sh/users/576800) | Topluluk tarafından oluşuturmuş en popüler üçüncü-parti beatmap modlama yazılımı olan [AIBat](https://osu.ppy.sh/community/forums/topics/55305)'in geliştirilmesi ve sürdürülmesi. |
 | ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | Hata düzeltme/özellik testinde üstün performans ve mapperlar ile modderlar için pek çok yararlı uygulama kodlama. |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | (OWC dahil olmak üzere) büyük çaplı pek çok turnuvayı organize etme. |
@@ -27,7 +27,7 @@ Emekliliğe ayrılmış eski osu!team üyelerinden oluşan [osu! Alumni](/wiki/P
 | ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) | 3 yılı aşkın bir süredir hiç yorulmaksızın [beatmap paketlemeyi](https://osu.ppy.sh/beatmaps/packs) idare etme ve birkaç yıllık beatmap çizelge çalışması. |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Orijinal beatmap tema tasarımı, [storyboard yaratmayı](/wiki/Storyboards) bir sanat ve motivasyon kaynağı olarak gelişmesini sağlamak dahil, yıllar boyu hizmet. |
 | ![][flag_CA] [awp](https://osu.ppy.sh/users/2650) | Erken topluluk yönetimi ve moderasyonu ile vakti zamanında bulunduğu devasa katkılar. |
-| ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | [GMT](/wiki/People/Global_Moderation_Team)'nin takip edebilmesi için çitayı oldukça yükselten ilk topluluk yöneticisi ve küresel moderatör. |
+| ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | [GMT](/wiki/People/The_Team/Global_Moderation_Team)'nin takip edebilmesi için çitayı oldukça yükselten ilk topluluk yöneticisi ve küresel moderatör. |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | İlk personel yöneticisi ve BATmenajeri olma ve seçkin beatmap moderasyonunu hiç yoktan tek elden oluşturma. |
 
 ## 2015
