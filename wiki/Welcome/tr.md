@@ -8,12 +8,12 @@ peppy tarafından geliştirilmiş dört farklı oyun modundan oluşan oynaması 
 - [Kayıt](/wiki/Registration)
 - [Kurallar](/wiki/Rules)
 - [SSS](/wiki/FAQ)
-- Oyun modları
-  - ![osu!standard ikonu](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard/#getting-started)
-  - ![osu!taiko ikonu](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko/#getting-started)
-  - ![osu!catch ikonu](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch/#getting-started)
-  - ![osu!mania ikonu](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania/#getting-started)
-- [Çoklu](/wiki/Multi/#getting-started)
+- [Oyun modları](/wiki/Game_Modes)
+  - ![osu!standard ikonu](/wiki/shared/mode/osu.png) [osu!standard](/wiki/osu!standard)
+  - ![osu!taiko ikonu](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/osu!taiko)
+  - ![osu!catch ikonu](/wiki/shared/mode/catch.png) [osu!catch](/wiki/osu!catch)
+  - ![osu!mania ikonu](/wiki/shared/mode/mania.png) [osu!mania](/wiki/osu!mania)
+- [Çoklu](/wiki/Multi)
 - [Derecelendirme Kriterleri](/wiki/Ranking_Criteria)
   - ![osu!standard ikonu](/wiki/shared/mode/osu.png) [osu!standard](/wiki/Ranking_Criteria/osu!standard)
   - ![osu!taiko ikonu](/wiki/shared/mode/taiko.png) [osu!taiko](/wiki/Ranking_Criteria/osu!taiko)
@@ -22,13 +22,13 @@ peppy tarafından geliştirilmiş dört farklı oyun modundan oluşan oynaması 
 
 ## Beatmap yapımı
 
-*Ana sayfa: [Beatmap yapımı](/wiki/Beatmapping/#getting-started).*
+*Ana sayfa: [Beatmap yapımı](/wiki/Beatmapping).*
 
 Beatmap yapımı bir yaratıcının bir şarkıyı beatmap'e dönüştürmesi sürecinin tamamını kapsayan terimdir. Bu süreç şarkı seçimi, zamanlama, obje yerleştirme ve test etme gibi şeyleri kapsar. Bunların yanı sıra video eklemek, [storyboard](/wiki/storyboarding/#getting-started) hazırlamak ve/veya [özel tema](/wiki/skinning/#getting-started) yaratmak gibi şeyleri de kapsayabilir. Bütün bunlar tek bir kişi ya da birden fazla kullanıcı tarafından yapılabilir. Bazen bu kullanıcılara yaptıkları işe göre "storyboarder/storyboardcu", "skinner/temacı" veya "guest creator/misafir yaratıcılar" da denir.
 
 ## Modlama
 
-*Ana sayfa: [Modlama](/wiki/Modding/#getting-started).*
+*Ana sayfa: [Modlama](/wiki/Modding).*
 
 Modlama bazı kullanıcıların (ki bu kullanıcılara çoğunlukla "modder/modcu" denir) diğer kullanıcılar tarafından yapılmış beklemede (ya da WIP/yardım sekmesinde) olan beatmaplerini değerlendirmesine verilen addır. Modlama kalite kontrol safhasında önemli bir yere sahiptir çünkü beatmap yaratıcılarının beatmaplerindeki hataları gidermesine yardımcı olur.
 
