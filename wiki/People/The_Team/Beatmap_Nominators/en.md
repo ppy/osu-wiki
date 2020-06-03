@@ -46,7 +46,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_CA] [Agatsu](https://osu.ppy.sh/users/5579871) |  |
 | ![][flag_BY] [AirinCat](https://osu.ppy.sh/users/11119539) | Russian |
 | ![][flag_IT] [Andrea](https://osu.ppy.sh/users/33599) | Italian |
-| ![][flag_JP] [BaAR\_Vendel](https://osu.ppy.sh/users/8679346) | Japanese |
+| ![][flag_JP] [BaAR_Vendel](https://osu.ppy.sh/users/8679346) | Japanese |
 | ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437) | Chinese |
 | ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970) |  |
 | ![][flag_CL] [Cris-](https://osu.ppy.sh/users/6175280) | Spanish |
@@ -131,7 +131,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_US] [Kamuy](https://osu.ppy.sh/users/7439226) | some Korean |
 | ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | Korean |
 | ![][flag_AU] [Keiga](https://osu.ppy.sh/users/6866022) | Chinese |
-| ![][flag_ID] [Rivals\_7](https://osu.ppy.sh/users/4610379) | Indonesian |
+| ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonesian |
 | ![][flag_DZ] [Scotty](https://osu.ppy.sh/users/11085809) | Arabic, French |
 | ![][flag_KR] [Sun](https://osu.ppy.sh/users/4115819) | Korean |
 | ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) | Dutch |
@@ -161,8 +161,8 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | German |
 | ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamese |
 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | Portuguese, Spanish |
-| ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | French |
 | ![][flag_GB] [Metzo](https://osu.ppy.sh/users/10633982) |  |
+| ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | French |
 
 #### osu!catch
 
@@ -212,5 +212,5 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 [flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
 [flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
-[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
