@@ -23,17 +23,15 @@ The [Support Team group page](https://osu.ppy.sh/groups/22) lists all of the tea
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino |
-| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) |  |
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Swedish, Spanish |
 | ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) |  |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | German |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | Spanish |
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
