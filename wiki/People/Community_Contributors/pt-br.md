@@ -4,11 +4,11 @@ no_native_review: true
 
 # Colaboradores da Comunidade
 
-![Contributor Badge](/wiki/shared/contributor.jpg "Contributor Badge")
+![](/wiki/shared/contributor.jpg "Contributor badge")
 
 Os **Colaboradores da Comunidade** são pessoas que assumiram a providenciar serviços a comunidade do osu! a um grande custo a si mesmos - ferramentas e funcionalidades que muitos de nós se dão como garantido hoje em dia. Esses usuários são dados uma insígnia para simbolizar que fizeram algo notável para toda a comunidade.
 
-Não para ser confundido com os [osu! Alumni](/wiki/People/osu!_Alumni), que são membros prévios do osu!team que se aposentaram, insígnias de Colaborador da Comunidade são dadas a freelancers públicos que foram além do chamado do dever para melhorar o osu! e o ambiente da comunidade.
+Não para ser confundido com os [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), que são membros prévios do osu!team que se aposentaram, insígnias de Colaborador da Comunidade são dadas a freelancers públicos que foram além do chamado do dever para melhorar o osu! e o ambiente da comunidade.
 
 ## 2013
 
@@ -21,7 +21,7 @@ Não para ser confundido com os [osu! Alumni](/wiki/People/osu!_Alumni), que sã
 | ![][flag_GB] [Darkimmortal](https://osu.ppy.sh/users/10886) | Desenvolvendo e mantendo o [serviço do osu!record](https://osu.ppy.sh/community/forums/topics/108092) (replay `.osr` para arquivo de vídeo). |
 | ![][flag_DE] [nanashiRei](https://osu.ppy.sh/users/807630) | Hosteando e mantendo um dos mais antigos [beatmap mirrors](https://osu.yas-online.net/) do osu!. |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | Numerosas (além da conta) contribuições gráficas para o cliente do jogo e tudo mais. |
-| ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | Trabalho de arte de [Achievement](/wiki/Achievements). |
+| ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | Trabalho de arte de [Achievement](/wiki/Medals). |
 | ![][flag_US] [akrolsmir](https://osu.ppy.sh/users/576800) | Desenvolvendo e mantendo [AIBat](https://osu.ppy.sh/community/forums/topics/55305), a mais popular ferramenta de terceiros para modding de beatmap já feita pela maioria das pessoas da comunidade. |
 | ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | Performance fenomenal em corrigir bugs/teste de funcionalidades e programando numerosas utilidades para mappers e modders. |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | Organizando vários torneios grandes e oficiais (incluindo a OWC). |
@@ -31,7 +31,7 @@ Não para ser confundido com os [osu! Alumni](/wiki/People/osu!_Alumni), que sã
 | ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) | 3+ anos de trabalho silencioso incansavelmente lidando com [beatmap packing](https://osu.ppy.sh/beatmaps/packs) e vários anos de gerenciamento de charts de beatmap. |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Anos após anos de serviço, incluindo projetando a skin original de beatmap, avançando [storyboarding](/wiki/Storyboards) como uma arte e motivação. |
 | ![][flag_CA] [awp](https://osu.ppy.sh/users/2650) | Gerenciamento de comunidade em seus primórdios, moderação e enorme contribuições ao decorrer de seu tempo. |
-| ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Ter sido o primeiro gerente de comunidade e moderador global, quem consolidou o extramamente alto nível para o [GMT](/wiki/People/Global_Moderation_Team) seguir. |
+| ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Ter sido o primeiro gerente de comunidade e moderador global, quem consolidou o extramamente alto nível para o [GMT](/wiki/People/The_Team/Global_Moderation_Team) seguir. |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | Ter sido o primeiro gerente de staff, gerente BAT e formando por si só uma equipe elite de moderação de beatmap do zero. |
 
 ## 2015
