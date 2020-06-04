@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Monthly Beatmapping Contest: June"
-date: 2020-06-05 17:00:00 +0000
+date: 2020-06-04 22:00:00 +0000
 ---
 
 Jumping into June with more competitive beatmapping! Last month's finalists are ready for your votes and put your best foot forward for this month's contest!
@@ -37,7 +37,7 @@ The MBC tries to keep mappers on their toes by featuring different mapping limit
 
 This month's limitation: **sliders cannot be 1/2 of a beat long**.
 
-![limitation example](/wiki/shared/news/2020-06-05-monthly-beatmapping-contest-june/mbc6.png)
+![limitation example](/wiki/shared/news/2020-06-04-monthly-beatmapping-contest-june/mbc6.png)
 
 For extra clarification, 1/2 sliders with reverse arrows are not allowed, while a 1/4 slider with a repeat is allowed. This limitation is focused on the length of the original slider!
 
