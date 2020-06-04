@@ -20,8 +20,26 @@ The **Taiko Korean Beatmap Contest #1** (***TKBC1***) is a osu!taiko mapping con
 | Results Announcement | 2020-06-01 |
 
 ## Ruleset
+
 ### Contest Rules
+
+- This contest is for osu!taiko mode.
+- You should choose a song which matches the theme.
+- The drain time should be not less than 80 and not more than 150.
+- The difficulty should be Oni or higher.
+- If you submit several maps, the last one would be your entry.
+- You should not reveal your map before the results announcing.
+- You can't submit what you uploaded already.
+- Only Koreans can participate this contest.
+- Judges can't participate this contest.
+
 ### Metadata Rules
+
+- Artist should be asdf.
+- Title should be 1223.
+- Difficulty should be Oni or Inner Oni.
+- Source and Tags should be blank.
+- When you submit your map, contain the metadata to the mail.
 
 ## Prizes
 
@@ -41,14 +59,13 @@ The Taiko Korean Beatmap Contest #1 is run by members of the Korean osu!taiko ma
 | Designer | [POCARI SWEAT](https://osu.ppy.sh/users/5082685) |
 | Judge | [Hoshikuz](https://osu.ppy.sh/users/9892196), [Elfin](https://osu.ppy.sh/users/1399551), [sendol](https://osu.ppy.sh/users/4433058) |
 
-## Participants
-
-|  | Country | Members |
-| :-: | :-: | :-- |
-| ![][flag_AU] | **Australia** | [peppy](https://osu.ppy.sh/users/2), [BanchoBot](https://osu.ppy.sh/users/3) |
-|  |  |  |
-
 ## Results
+
+| Place | Mappers |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | [Piel](https://osu.ppy.sh/users/8917069) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | [ddm](https://osu.ppy.sh/users/7910282) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | [applerss](https://osu.ppy.sh/users/983349) |
 
 ## Links
 
