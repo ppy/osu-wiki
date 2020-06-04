@@ -15,7 +15,7 @@ Bir beatmapin **zorluğu** onu tamamlamak için gereken yetenek seviyesini belir
 
 ## Zorluk seviyeleri
 
-*Ayrıca bakınız: [Zorlukların İsimlendirmesi](/wiki/Ranking_Criteria/Difficulty_Naming)*
+*Ayrıca bakınız: [Zorluk İsimlendirme](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
 Bunlar bir beatmapin alabileceği tipik zorluk seviyeleridir. Bunların mutlak tanımları ve gereksinimleri her bir modun [derecelendirme kriterlerinde](/wiki/Ranking_Criteria) bulunabilir. 
 
