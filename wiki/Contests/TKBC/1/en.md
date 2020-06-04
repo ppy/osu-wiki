@@ -41,6 +41,16 @@ The **Taiko Korean Beatmap Contest #1** (***TKBC1***) is a osu!taiko mapping con
 - Source and Tags should be blank.
 - When you submit your map, contain the metadata to the mail.
 
+## Theme
+
+![themeresult](img/theme.png)
+
+- Dog / Cat
+- Flower
+- Sea
+
+'Dog / Cat' theme has selected through a vote.
+
 ## Prizes
 
 | Placing | Prize(s) |
