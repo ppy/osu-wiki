@@ -73,7 +73,7 @@ Beatmap template download: [Full version](https://assets.ppy.sh/artists/66/osz/B
     <source src="https://assets.ppy.sh/artists/66/previews/1850.mp3" type="audio/mpeg">
 </audio>
 
-#### Blue Marble - Parhelia (160 BPM)
+#### Blue Marble - Parhelia
 
 Beatmap template download: [Full version](https://assets.ppy.sh/artists/66/osz/Blue%20Marble%20-%20Parhelia.osz) (4:02) / [Short version](https://assets.ppy.sh/contests/96/short/Blue%20Marble%20-%20Parhelia.osz) (2:12)
 
