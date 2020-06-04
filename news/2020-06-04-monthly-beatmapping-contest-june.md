@@ -62,7 +62,7 @@ Beatmap template download: [Full version](https://assets.ppy.sh/artists/66/osz/B
 Beatmap template download: [Full version](https://assets.ppy.sh/artists/66/osz/Ayah%20Marar%20&%20Blue%20Marble%20-%20Invincible.osz) (3:47) / [Short version](https://assets.ppy.sh/contests/96/short/Ayah%20Marar%20&%20Blue%20Marble%20-%20Invincible.osz) (1:57)
 
 <audio controls>
-    <source src="LINK" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/66/previews/2202.mp3" type="audio/mpeg">
 </audio>
 
 #### Blue Marble - Love
