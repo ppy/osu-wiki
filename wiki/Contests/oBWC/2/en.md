@@ -7,7 +7,7 @@ tags:
 
 # osu! Beatmapping World Championship 2020 
 
-![o!BWC banner](img/bwc2020.jpg)
+![o!BWC banner](img/banner.jpg)
 
 The **osu! Beatmapping World Championship 2020** (***o!BWC 2020***) is a country-based osu! mapping contest hosted by ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870), ![][flag_FR] [Imakuri](https://osu.ppy.sh/users/6100837), ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909), ![][flag_FR] [Nozhomi](https://osu.ppy.sh/users/2716981) and ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983). Formerly referred to as *osu! Mapping World Cup*, the contest was renamed in order not to be confused with *osu!mania World Cup* series due to their similarity in abbreviation.
 
