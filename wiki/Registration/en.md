@@ -24,7 +24,6 @@ If you need further in-game help, you can ask in the `#help` [Internet Relay Cha
 
 ## Troubleshooting
 
-### I receive some sort of server-side error when trying to play online!
 
 **The servers could be having issues.**
 

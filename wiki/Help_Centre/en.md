@@ -537,7 +537,7 @@ To check what your frame limiter is set to, follow these steps:
 
 If your frame limiter is set to Unlimited, you may notice a significant improvement by changing it to one of the other three options.
 
-`VSync` will run the game at a refresh rate equal to that of your main monitor, whilst `Power Saving` and `Optimal` will run the game at 2x and 8x your monitor's refresh rate, with a maximum of 960Hz.
+`VSync` will run the game at a refresh rate equal to that of your main monitor, whilst `Power Saving` and `Optimal` will run the game at twice and 8 times your monitor's refresh rate, up to 960Hz.
 
 We recommend using `VSync` in situations where heat is an issue.
 
@@ -714,7 +714,7 @@ Even if your [supporter tag](https://osu.ppy.sh/home/support) happens to run out
 
 #### Do I need to use my email address to register?
 
-**Yes, you do. We require your email address to respond to your password reset requests and send verification codes when needed.**
+**Yes. We require your email address to send you password reset requests and verification codes when needed.**
 
 If you have trouble connecting via the game client, please check your firewall and anti-virus settings to make sure osu! isn't being blocked.
 
@@ -732,7 +732,7 @@ If you have been inactive for a lengthy period of time and your statistics are s
 
 ### Installation
 
-*For more information, see: [Installation](https://osu.ppy.sh/help/wiki/Installation)*
+*For more information, see: [Installation](/wiki/Installation)*
 
 #### How do I download osu!?
 
@@ -751,7 +751,7 @@ If you are using a 64-bit Windows 7, you may have difficulties installing osu! c
 
 ### Registration
 
-*For more information, see: [Registration](https://osu.ppy.sh/help/wiki/Registration)*
+*For more information, see: [Registration](/wiki/Registration)*
 
 #### Where do I register for osu!?
 
@@ -759,7 +759,7 @@ If you are using a 64-bit Windows 7, you may have difficulties installing osu! c
 
 Make sure you provide an email address you have control over. This is used to reset your password and send verification emails when needed. Do not use a throwaway email.
 
-#### I receive some sort of server-side error when trying to play online!
+#### I received a server-side error when trying to play online!
 
 **The servers could be having issues.**
 
