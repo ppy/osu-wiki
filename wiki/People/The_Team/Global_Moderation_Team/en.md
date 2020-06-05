@@ -131,7 +131,6 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) |
 | `#vietnamese` |  |  |
 
-[flag___]: /wiki/shared/flag/__.gif
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
@@ -162,3 +161,4 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 [flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag___]: /wiki/shared/flag/__.gif

@@ -93,6 +93,7 @@ tags:
 | ![][flag_NL] [happy30](https://osu.ppy.sh/users/27767) | BAT |
 | ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | 大赛管理员 |
 | ![][flag_MY] [HeatKai](https://osu.ppy.sh/users/332555) | 聊天室管理员 |
+| ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | GMT |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | GMT |
 | ![][flag_US] [Hitoshirenu Shourai](https://osu.ppy.sh/users/602) | BAT |
 | ![][flag_US] [Hobbes2](https://osu.ppy.sh/users/8157492) | QAT |
@@ -142,7 +143,6 @@ tags:
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | QAT |
 | ![][flag_US] [Makar](https://osu.ppy.sh/users/686389) | GMT |
 | ![][flag_UY] [mancuso\_JM\_](https://osu.ppy.sh/users/521568) | GMT |
-| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | BAT, QAT, NAT |
 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) | GMT, osu! 开发者 |
 | ![][flag_CA] [mattyu007](https://osu.ppy.sh/users/4934) | BAT |
 | ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | NAT |
@@ -174,6 +174,7 @@ tags:
 | ![][flag_FI] [Orkel](https://osu.ppy.sh/users/39385) | 聊天室管理员 |
 | ![][flag_PH] [Osu Tatakae Ouendan](https://osu.ppy.sh/users/594210) | GMT |
 | ![][flag_SG] [Pasonia](https://osu.ppy.sh/users/43345) | BAT |
+| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | GMT, 支持团队 |
 | ![][flag_NL] [Pittigbaasje](https://osu.ppy.sh/users/2167433) | GMT |
 | ![][flag_HK] [Pokie](https://osu.ppy.sh/users/207340) | BAT |
 | ![][flag_CN] [popner](https://osu.ppy.sh/users/759860) | BAT |
@@ -249,7 +250,7 @@ tags:
 [flag_CN]: /wiki/shared/flag/CN.gif "中国"
 [flag_CO]: /wiki/shared/flag/CO.gif "哥伦比亚"
 [flag_DE]: /wiki/shared/flag/DE.gif "德国"
-[flag_DO]: /wiki/shared/flag/DO.gif "多明尼加"
+[flag_DO]: /wiki/shared/flag/DO.gif "多米尼加"
 [flag_ES]: /wiki/shared/flag/ES.gif "西班牙"
 [flag_FI]: /wiki/shared/flag/FI.gif "芬兰"
 [flag_FR]: /wiki/shared/flag/FR.gif "法国"

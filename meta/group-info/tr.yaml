@@ -1,4 +1,14 @@
+outdated: true # missing languages.ur, languages.vi
 separator: ", "
+alumni:
+  roles:
+    academy: osu!academy Kurucusu
+    admin: Yönetim
+    chat: Sohbet Moderatörü
+    dev: osu!dev
+    media: osu!media yapımı
+    support: Destek Ekibi
+    tournaments: Turnuvalar
 gmt:
   all_mods: Tüm moderatörler
   areas:
