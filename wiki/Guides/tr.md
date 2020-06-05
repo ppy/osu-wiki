@@ -12,7 +12,7 @@ aşağıda osu!community üyeleri tarafından yaratılmış; pek çoğu osu!foru
 - [Başlık Metni Değiştirme](/wiki/Beatmaps/Title_Text#changing-title-text)
 - [Collab Bilgilendirme](Collab_Information)
 - [Dosyaları Sıkıştırmak](Compressing_Files)
-- [Özel Vuruş Sesi Kütüphaneleri](Custom_Hitsound_Library)
+- [Özel Vuruş Sesi Kütüphanesi](Custom_Hitsound_Library)
 - [Özel Ses Seti Bindirmeleri](Custom_Sample_Overrides)
 - [Video Oyunlarından Şarkıları Almak](Getting_Songs_From_Video_Games)
 - [Şarkılar Naısl Zamanlanır](How_to_Time_Songs)
