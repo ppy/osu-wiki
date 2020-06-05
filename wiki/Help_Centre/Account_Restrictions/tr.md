@@ -86,11 +86,26 @@ Bazı suçlar, hesabınızın kısıtlamasının kalkmasına sebep olur. Bunlar,
 - **Kısıtlıyken kural çiğnemeye devam ediyorsunuzdur.** Kısıtlandıktan sonra bile kuralları çiğnemeye devam eden kişilerin kısıtlamasını kaldırmanın hiçbir anlamı yok. Eğer yapmaya devam ederseniz, son kural çiğnemenizin tarihinden itibaren bekleme süreniz sıfırlanır. Aşırı ve sık kural çiğneme söz konusu olduğunda, itirazınız kalıcı olarak reddedilir.
 - **Geçmişiniz çok kötüdür.** Aşırı suçluların, ya da başarısız bir itirazı olup sonra yine kısıtlanan kullanıcılar olduğu durumlarda basitçe geçmişinizin oyuna şu anda yeniden katılamayacak kadar kötü olduğunu söyleyebiliriz. Eğer başınıza gelirse, tekrar itiraz etmeden önce **çok uzun bir zaman** beklemenizi, ve bu süre içerisinde daha fazla kural çiğnememenizi öneririz.
 
+## E-postalarım görmezden geliniyor / İtirazımın adil bir şekilde ele alındığını düşünmüyorum
+
+E-postalarınızın destek ekibimiz tarafından düzgün bir şekilde okunmadığını veya ele alınmadığını düşünüyorsanız, lütfen bize [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh) adresinden aşağıdaki bilgileri barındıran bir e-posta gönderin:
+
+- Kısıtlı kalma süreniz
+- Kısıtlamanıza sebep olduğunu düşündüğünüz ana nedeni
+- Daha önce gönderdiğiniz görmezden gelinmiş/reddedilmiş tüm e-postaları
+- İtiraz sonucundan neden mutsuz olduğunuza dair kısa bir özet (eğer uygunsa)
+
+İtiraz inceleme adresine gönderilen tüm e-postalar, destek ekibinin günlük operasyonlarında yer almayan, gözden geçirme veya daha fazla inceleme için işaretlenen bir üçüncü tarafça araştırılacaktır..
+
+Bu adrese bir e-posta göndermenin, itirazınıza yalnızca ikinci bir görünüm/ilk yanıt garanti ettiğini lütfen unutmayın, itiraz sürecindeki beklentileri ihlal ettiğiniz tespit edilirse, sonuçta bir değişikliği garanti etmez.
+
+**İtiraz incelemesi/soruşturması taleplerini yalnızca [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh) adresine gönderilen e-postalar yoluyla yanıtlayacağız.** Lütfen bu süreci atlatmak için osu! ekip üyeleriyle (veya gönüllü ekip üyeleriyle) Twitter, Discord veya başka bir platform aracılığıyla iletişime geçmeye çalışmayın - size yardımcı olamazlar.
+
 ## Sıkça karşılaşılan kısıtlamalar ve bekleme süreleri
 
 | Kısıtlama sebebi | Bekleme süresi | İtiraz notları |
 | :-- | :-- | :-- |
-| Karar hatası | Bekleme süresi yok | Eğer hata bulunamazsa, hesapta bir değişiklik yapılmaz. |
+| Karar hatası | Bekleme süresi yok | Eğer hata bulunamazda, hesapta bir değişiklik yapılmaz. |
 | Fazladan hesap kullanımı | Kalıcı (fazla hesaplar) | Ana hesaba kısıtlama getirilmez, muhtemelen susturulur. |
 | Aşırı fazladan hesap kullanımı | 3 ay | İtiraz şartları uygulanır, 1 yıl turnuva yasağı |
 | Hesap paylaşımı | 3 ay | İtiraz şartları uygulanır, 1 yıl turnuva yasağı, ve kısmi geri çekme |
