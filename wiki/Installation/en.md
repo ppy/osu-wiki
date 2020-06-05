@@ -23,7 +23,6 @@ This page will tell you how to get osu! working on your Windows device. The [osu
 
 ## Troubleshooting
 
-
 **If game installer throws errors when attempting to install, you can try few things:**
 
 - Clean your PC - Scan with anti-virus software, clean the registry. A good program for general clean up is CCleaner. Scan both your computer files and your registry. The installer can fail if there are registry entries from a previous copy of osu! still present on your system.
