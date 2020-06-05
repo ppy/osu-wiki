@@ -17,19 +17,19 @@ Beatmap düzenleyici 4 ana kısma ayrılmıştır (sol üstte görebilirsiniz):
 
 ## Compose (Oluştur)
 
-[Compose (Oluştur)](/wiki/Beatmap_Editor/Compose) sekmesi tüm [vuruş objelerinin](/wiki/Hit_Objects) ve oynayış ile alakalı diğer elemanların oluşturulduğu yerdir. Pek çok mapper'ın vaktinin çoğunu bu sekmede geçirmesi bu yüzdendir.
+[Compose (Oluştur)](/wiki/Beatmap_Editor/Compose) sekmesi tüm [vuruş objelerinin](/wiki/Hit_Objects) ve oynayış ile alakalı diğer elementlerin oluşturulduğu yerdir. Bundan ötürü pek çok mapper zamanlarının pek çoğunu bu sekmede geçirir.
 
 ## Design (Dizayn)
 
-[Design (Dizayn)](/wiki/Beatmap_Editor/Design) sekmesi beatmaplere eklenen görsel efektler olan [storyboard](/wiki/Storyboards) oluşturmayı sağlar. Storyboardlar genellikle karmaşık efektler içerdiğinden dolayı ve çok fazla storyboard komutu kullanımı gerektirdiğinden dolayı, mapperlar aynı zamanda dizayn sekmesine hiç girmeden [storyboard komut dizisi](/wiki/Storyboard_Scripting) kullanmaktadırlar.
+[Design (Dizayn)](/wiki/Beatmap_Editor/Design) sekmesi beatmaplere eklenen görsel efektler olan [storyboard](/wiki/Storyboards) oluşturmayı sağlar. Storyboardlar genellikle karmaşık efektler içerdiğinden ve çok fazla storyboard komutu kullanımı gerektirmesinden ötürü, mapperlar aynı zamanda dizayn sekmesine hiç girmeden doğrudan [storyboard komut dizisi](/wiki/Storyboard_Scripting) kullanmaktadırlar.
 
 ## Timing (Zamanlama)
 
-[Timing (Zamanlama)](/wiki/Beatmap_Editor/Timing) beatmapin vuruş seslerini ve zamanlamasını kontrol eder. Bu gerekli bir şeydir çünkü bir beatmap doğru zamanlama gerektirir ki oynayışa ve şarkının ritmine ayak uydursun.
+[Timing (Zamanlama)](/wiki/Beatmap_Editor/Timing) bir beatmapin zamanlama kısımlarını denetler ve beatmapin vuruş seslerini kontrol eder. Bu bir beatmapin doğru zamanlamaya ve şarkının ritmine uygun oynanış tecrübesi sağlaması için uygun geri bildirim sağlamaya ihtiyacı olduğu için zorunludur. 
 
 ## Song Setup (Müzik Kurulumu)
 
-[Song Setup (Müzik kurulumu)](/wiki/Beatmap_Editor/Song_Setup) beatmapin [metaverisini](/wiki/Ranking_Criteria#metadata) doldurur ve [beatmap setleri](/wiki/Glossary#beatmapset) için evrensel olan diğer şeyleri doldurur. Bu, şarkının başlığı, sanatçısı, zorluk adı, seviye adı, kombo renkleri vs. içerir.
+[Song setup (Müzik kurulumu)](/wiki/Beatmap_Editor/Song_Setup) beatmapin [metaverisini](/wiki/Ranking_Criteria#metadata) ve [beatmap setleri](/wiki/Glossary#beatmapset) için evrensel olan diğer şeyleri doldurur. Bu, şarkının başlığı, sanatçısı, zorluk adı, kombo renkleri vs. içerir.
 
 ## Diğer
 
