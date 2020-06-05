@@ -9,7 +9,7 @@ Aşağıdaki özellikler kısıtlanmış hesaplar için devre dışıdır:
 - oyun-içi sohbet
 - özel mesajlaşma
 - forum konularına ya da yorum kısımlarına mesaj gönderme
-- beatmap yükleme veya güncelleme
+- beatmap karşıya yükleme veya güncelleme
 - profil detaylarını güncelleme
 - mağaza satın alımları 
 
