@@ -1,8 +1,8 @@
 # Nasıl yardım edebilirsiniz!
 
-Diğer pek çok oyun gibi, osu! da, farklı yeteneklere ve amaçları olan, dünyanın dört bir tarafından bir araya gelmiş, epey enerjik bir topluluğa sahiptir.
+Diğer pek çok oyun gibi, osu! da, farklı yetenekleri ve amaçları olan, dünyanın dört bir tarafından bir araya gelmiş, epey enerjik bir topluluğa sahiptir.
 
-Herkes kendi tarzına göre topluluğun bir parçası olabilir. İşte size başlangıç için bir takım örnekler:
+Herkes kendi tarzına göre topluluğun bir parçası olabilir. İşte size başlangıç için birtakım örnekler:
 
 ## Wiki'ye yardımcı olun
 
@@ -17,7 +17,7 @@ osu!, resmi topluluk yuvalarının güvenli kalması için, onları gece gündü
 Neyse ki, her şeyin güvenli kalması için yardımcı olmanız hala çok basit, işte yardımcı olmak için yapabileceğiniz bazı şeyler:
 
 - [osu! oyun-içi sohbetteki](/wiki/Chat_Console), ya da forumlardaki, favori kanallarınızı takip edin.
-- Eğer herhangi bir şekilde uygunsuz ya da rahatsız edici bir şey olduğunu görürseniz, oranın moderatörlerini bilgilendirmek için oyun-içi sohbette [`!report` komutunu](/wiki/Reporting_Bad_Behaviour) kullanın.
+- Eğer herhangi bir şekilde uygunsuz ya da rahatsız edici bir şey olduğunu düşündüğünüz bir şeyle karşılaşırsanız, oranın moderatörlerini bilgilendirmek için oyun-içi sohbette [`!report` komutunu](/wiki/Reporting_Bad_Behaviour) kullanın.
 
 ## Diğer topluluk üyelerine yardım edin
 
@@ -36,7 +36,7 @@ Aşağıda belirtilen ortamlarda insanlara yardım eli uzatmaya başlayabilirsin
 
 ## Beatmap kontrol etmede/modlamada yardım edin!
 
-osu!, beatmaplerin dereceli olmaya ve herkes tarafından oynanmaya hazır olup olmadığını kontrol eden özel bir kontrol ekibine sahiptir. Ancak, bu sizin bu kategoriye katkıda bulunmanıza engel değildir, işte yardımcı olmak için yapabileceğiniz bazı şeyler:
+osu!, beatmaplerin dereceli olmaya ve herkes tarafından oynanmaya hazır olup olmadığını denetleyen özel bir kontrol ekibine sahiptir. Ancak, bu sizin bu kategoriye katkıda bulunmanıza engel değildir, işte yardımcı olmak için yapabileceğiniz bazı şeyler:
 
 - [Beklemedeki Beatmapler](https://osu.ppy.sh/beatmapsets?s=pending) listesinde sevdiğiniz sanatçılara ya da şarkılara göz atın (veya rastgele bir tane seçin).
 - Beklemede ya da yapım aşamasında bulunan beatmapleri oynayın ve beatmapin tartışma sayfasına bir geri bildirim bırakın.
@@ -50,7 +50,7 @@ osu! teknik ve rekabetçi kişilerden oluşan büyüyen bir topluluğa sahiptir.
 
 İşte katılmak için yapabileceğiniz birtakım şeyler:
 
-- [Turnuvalar](https://osu.ppy.sh/community/forums/55) forumuna göz atın. Turnuvalar epey zaman almakta ve aksamadan organize edilmesi oldukça fazla bir işgücü gerektirmekte, bazı durumlarda izleyici juri olarak yardımcı olabilirsiniz.
+- [Turnuvalar](https://osu.ppy.sh/community/forums/55) forumuna göz atın. Turnuvalar epey zaman almakta ve aksamadan organize edilmesi oldukça fazla bir iş gücü gerektirmekte, bazı durumlarda izleyici juri olarak yardımcı olabilirsiniz.
 - [Geliştirme](https://osu.ppy.sh/community/forums/2)'de neler olduğunu kontrol edin. Bu düşük aktivite forumu en ciddi projelerin bulunduğu yerdir.
 - Bir [beatmap projesine](https://osu.ppy.sh/community/forums/53) katılın ve diğerleriyle birlikte çalışmanın ne kadar eğlenceli olduğunu öğrenin!
 - Kendi projenizi başlatın! Dans eden pippi'yi geri getirmek olsun, veya sadece osu! için havalı bir şey yapmak olsun, her şey uygundur.
@@ -62,7 +62,7 @@ osu! teknik ve rekabetçi kişilerden oluşan büyüyen bir topluluğa sahiptir.
 Onları daha iyi hale getirmek için yardımcı olabilirsiniz, aşağıdaki alanlarda yardım ederek bizi osu!'nun geleceğine daha da yakınlaştırın:
 
 - [osu!lazer](https://github.com/ppy/osu) projesine yardım edin. osu!'nun yeni sürümüne eklenecek daha pek çok şey bulunuyor, ve siz bunların gerçekleşmesine yardım edebilirsiniz!
-- [Yeni web sayfasını](https://github.com/ppy/osu-web) daha iyi hale getirin.
+- [Yeni web sayfasını](https://github.com/ppy/osu-web) daha da iyi hale getirin.
 
 ## Olumsuz olmaktan kaçının! İnsanları mutlu edin!
 
