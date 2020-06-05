@@ -732,7 +732,7 @@ If you have been inactive for a lengthy period of time and your statistics are s
 
 ### Installation
 
-*For more information, see: [Installation](/wiki/Installation)*
+Main Page: [Installation](/wiki/Installation)
 
 #### How do I download osu!?
 
@@ -740,38 +740,15 @@ If you have been inactive for a lengthy period of time and your statistics are s
 
 Alternatively, [click here](https://osu.ppy.sh/home/download) for a direct link to the download page.
 
-#### The game installer throws an error or does not work when I use it!
-
-**If game installer throws errors when attempting to install, you can try few things:**
-
-- Clean your PC - Scan with anti-virus software, clean the registry. A good program for general clean up is CCleaner. Scan both your computer files and your registry. The installer can fail if there are registry entries from a previous copy of osu! still present on your system.
-- Try reinstalling the latest version of .NET Framework. [You can find it here](https://dotnet.microsoft.com/download).
-
-If you are using a 64-bit Windows 7, you may have difficulties installing osu! correctly. Try to install the 64-bit version of .NET Framework, in case it doesn't come with the osu! installer. [Download it here](https://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe).
-
 ### Registration
 
-*For more information, see: [Registration](/wiki/Registration)*
+Main Page: [Registration](/wiki/Registration)
 
 #### Where do I register for osu!?
 
 **Download osu! through [here](https://osu.ppy.sh/home/download), then run it. The game will prompt you with a section where you can create an account.**
 
 Make sure you provide an email address you have control over. This is used to reset your password and send verification emails when needed. Do not use a throwaway email.
-
-#### I received a server-side error when trying to play online!
-
-**The servers could be having issues.**
-
-Check the [osu! server status page](https://status.ppy.sh/) to see if there are any ongoing issues with the servers.
-
-**This can also happen if you are using a shared internet connection, a proxy, or VPN.**
-
-Try using another proxy or VPN provider - if all else fails, send in a support ticket via mail to [accounts@ppy.sh](mailto:accounts@ppy.sh).
-
-If you are not using any of the above, then you will need to send in a support ticket, as your connection has likely been blacklisted in error.
-
-Tor or networks associated with the Tor relay will not connect to the game servers for the most part. This is to avoid malicious use.
 
 ---
 
