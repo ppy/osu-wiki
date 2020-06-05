@@ -8,20 +8,20 @@
 
 - [Özel Vuruş Sesi Kütüphanesinden](/wiki/Guides/Custom_Hitsound_Library) alabilir,
 - ya da kendiniz yaratabilirsiniz
-  - eğer kendi vuruş sesinizi yapacaksanız, dosya formatını `.wav` olarak tutmaya çalışın, zira bu sesleri döngülemek için en iyisidir.
+  - eğer kendi vuruş sesinizi yapacaksanız, dosya formatını `.wav` olarak tutmaya çalışın - zira bu sesleri döngülemek için en iyisidir.
 
-Onları elde ettikten sonra, dosyaları şarkının klasörünün kendisine taşıyın. Eğer şarkının klasörü nerede bilmiyorsanız, aşağıdaki yönergeleri takip edin:
+Onları elde ettikten sonra, dosyaları şarkı klasörünün kendisine taşıyın. Eğer şarkının klasörü nerede bilmiyorsanız, aşağıdaki yönergeleri takip edin:
 
 1. osu!'yu açın
-2. Edit
-3. *beatmapinize* gidin ve onu açın
-4. Dosya (solda en üstteki menü, kirli beyaz renkli bir çubuktur.)
+2. Edit (Düzenle)
+3. *Beatmapinize* gidin ve onu açın
+4. Dosya (sol-üstteki menü, kirli beyaz renkli bir çubuktur.)
 5. Müzik dosyasını aç
 6. *ve buraya yapıştırın*
 
-Artık onları şarkı klasörüne taşıdığınıza göre, onları ne olmalarını istediğinize göre isimlendirmeniz (hayli) önemlidir. Örneğin, onları "bitiş", "ıslık", "alkış", "normal vuruş", ya da "gürültülü ses" diyebilirsiniz.
+Artık onları şarkı klasörüne taşıdığınıza göre, onları ne olmalarını istediğinize göre isimlendirmeniz (hayli) önemlidir. Örneğin, onlar "bitiş", "ıslık", "alkış", "normal vuruş", ya da "gürültülü ses" olarak isimlendirilebilir.
 
-Olmasını istediğiniz vuruş sesi türüne göre, dosyanın adını "soft", "noarmal", ya da "drum" olarak başlayın. 
+Olmasını istediğiniz vuruş sesi türüne göre, dosya isimlerine "soft", "normal", ya da "drum" olarak başlayın. 
 
 Ardından sesin normal vuruş, alkış, ıslık ya da bitiş sesi olacağona karar verirsiniz.
 
@@ -31,7 +31,7 @@ Ardından sesin normal vuruş, alkış, ıslık ya da bitiş sesi olacağona kar
 
 Bundan ötürü dosyanın adını (diyelim ki Soft alkış olsun) `soft-hitclap.wav` olarak belirlersiniz.
 
-## Aynı adla birden fazla vuruş sesi
+## Aynı isimli birden fazla vuruş sesi
 
 Eğer alkış ve diğerleri için daha fazla seçenek istiyorsanız, yeni dosyaların sonuna bir sayı eklemeniz yeterli.
 
