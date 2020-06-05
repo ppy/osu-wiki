@@ -1,31 +1,31 @@
-<!-- TODO: tons of things to add here. might be related to Projects article -->
+<!-- TODO: tons of things to add here. might be related to Projects articl -->
 
 # How you can help!
 
-osu!, like any other game, has a very vibrant community, composed of people from all around the world, with differing skill sets and different purposes.
+osu! has a very vibrant community composed of people from all around the world. And anyone can be a part of the community in their own way! 
 
-Anyone can be a part of the community in their own way. Here are a few examples to start with:
+And there are many ways you can help out in the community:
 
 ## Help out with the wiki
 
-[The wiki](https://github.com/ppy/osu-wiki) is our official knowledge base about anything and everything about osu!. The wiki is always looking for more contributors to help keep the site up to date with fresh new knowledge, and to reach a wider audience via translations.
+[The wiki](https://github.com/ppy/osu-wiki) is our official knowledge base about anything and everything about osu!. And as such, the wiki is always looking for more contributors to help keep the site up-to-date with fresh, new knowledge and/or translations.
 
-For newcomers, you can read more about it in the [osu! wiki Contribution Guide](/wiki/osu!_wiki_Contribution_Guide).
+If you're a newcomer to the osu! wiki, you can read more about it in the [osu! wiki Contribution Guide](/wiki/osu!_wiki_Contribution_Guide).
 
 ## Help keep osu! friendly and safe
 
-To keep the official community hubs safe, osu! has a dedicated moderation team that monitors them around the clock. However, they keep track of most channels in the chat, and countless entries in the forums.
+In order to keep the official community hubs safe, osu! has a dedicated moderation team that monitors the forums and online chats around-the-clock. 
 
-Fortunately, it is still easy for you to help out keeping everything safe, here are some things you can do to help:
+Fortunately, it's still easy for you to help keep everything safe here. If you want to help, you can...
 
-- Follow your favourite channels in the [osu! in-game chat](/wiki/Chat_Console), or in the forums on the web.
+- Follow your favourite channels in the [osu! in-game chat](/wiki/Chat_Console), or in the forums.
 - If you see something happening that you think is inappropriate or disturbing in any way, use [the `!report` command](/wiki/Reporting_Bad_Behaviour) in the in-game chat to notify the moderators of it.
 
 ## Help other community members
 
-Lend someone a hand when they encounter an issue with the game! Whether it is a driver issue, a beatmap question, or gameplay questions, if you can answer it, you help the person in solving their problem.
+If you encounter someone who has an issue with the game, lend them a hand! Whether it is a driver issue, a beatmap question, or gameplay questions, if you can answer it, you help the person in solving their problem.
 
-You can begin with lending people a hand on the following mediums:
+To begin lending people a hand, you can try...
 
 - Choose a forum that sparks your interest:
   - [Help](https://osu.ppy.sh/community/forums/5)
@@ -33,8 +33,8 @@ You can begin with lending people a hand on the following mediums:
   - [Storyboarding](https://osu.ppy.sh/community/forums/20)
   - [Gameplay & Rankings](https://osu.ppy.sh/community/forums/13)
 - Mark the forum as read using the link at the top right.
-- Follow any new threads, reading each one and helping out when you can. You can use the unread icons to make sure you keep up.
-- Read the [available guides](/wiki/Guides) to polish up on your osu! knowledge. If the guides in there does not satisfy you, then contribute to them.
+- Follow any new threads, reading each one and helping-out when you can; you can use the unread icons to make sure you keep up.
+- Read the [available guides](/wiki/Guides) to polish-up on your osu! knowledge. If the guides in there don't satisfy you, then you try contributing to them!
 
 ## Help check/mod beatmaps!
 
