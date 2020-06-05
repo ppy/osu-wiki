@@ -56,27 +56,27 @@ If this succeeds, you will be able to reset your own password without the assist
 
 If this does not work for you, please send us a support ticket immediately to [accounts@ppy.sh](mailto:accounts@ppy.sh) with as much identifying information as possible that will help us establish you as the owner of your account.
 
-Emailing from your registration address is a huge bonus here, as well as any other information you can provide that only the holder of the account would know.
+Emailing from your registration address is a huge bonus here; as well as any other information you can provide that only the holder of the account would know.
 
 Please do not include replay or score data in your ticket - we cannot use this to verify your ownership of the account.
 
-#### The website is telling me that I have tried to sign in too many times!
+#### The website is telling me that I've tried to sign-in too many times!
 
-**This is a temporary protection measure after repeated failures to access your account. Try signing in again after 10-20 minutes.**
+**This is a temporary protection measure after repeated failures to access your account. Try signing-in again after 10–20 minutes.**
 
-If this happens to you, simply wait for a while and try to sign in a little later.
+If this happens to you, simply wait for awhile and try to sign-in a little later.
 
-A couple of hours at the absolute maximum will clear the status for most people and allow them to sign in again.
+A couple of hours at the absolute maximum will clear the status for most people and allow them to sign-in again.
 
 #### I didn't receive any emails from osu!/I forgot my email address!
 
-**There might be an issue with your account's current email address.**
+**Please keep in-mind that there might be an issue with your account's current email address.**
 
-If you remember your account's attached email address, or think you do, try visiting the [email recovery](https://osu.ppy.sh/p/forgot-email) page to file a request to have it changed. Fill in the form as best you can and you'll receive a reply within two days.
+If you remember your account's attached email address, or think you do, try visiting the [email recovery](https://osu.ppy.sh/p/forgot-email) page to file a request to have it changed. Fill-in the form as best you can and you'll receive a reply within two days.
 
-If you have lost your account's password and are not receiving any password recovery emails, or you really cannot remember what email address you were using, please contact us at [accounts@ppy.sh](mailto:accounts@ppy.sh). Any information you have about your account (your username, any screenshots that show you signed in to the client, past transactions through the store or supporter payments, etc.) will be helpful!
+If you have lost your account's password and are not receiving any password recovery emails, or you really can't remember what email address you were using, please contact us at [accounts@ppy.sh](mailto:accounts@ppy.sh). Any information you have about your account (your username, any screenshots that show you signed-in to the client, past transactions through the store or osu!supporter payments, etc.) will be helpful!
 
-Lastly, we are aware that some providers do not accept automated emails from us. If you are using any of these providers, please contact us by mail and we'll change your email address for you:
+Lastly, we are aware that some providers do not accept automated emails from us. If you are using any of the following providers, please contact us by mail and we'll change your email address for you:
 
 - `att.net`
 - `bellsouth.net`
@@ -90,43 +90,43 @@ Lastly, we are aware that some providers do not accept automated emails from us.
 
 #### Can I change my account's username?
 
-**Yes, absolutely!**
+**Absolutely!**
 
-If you have purchased (or been gifted) a [supporter tag](https://osu.ppy.sh/home/support) at any point, you will be a able to change your name **once** for free. This name change can be redeemed at the [osu!store](https://osu.ppy.sh/store/products/32).
+If you have purchased (or been gifted) a [supporter tag](https://osu.ppy.sh/home/support) at any point, you will be able to change your name **once** for free. This name change can be redeemed at the [osu!store](https://osu.ppy.sh/store/products/32).
 
-At any point thereafter, you may purchase a username change to change your name to whatever you wish. However, each change will become progressively more expensive - the second will cost $8 USD, the third $16 USD, and so on, up to a cap of $100 USD. We do this to prevent people from abusing the system to change their names in rapid succession.
+At any point thereafter, you may purchase a username change to change your username to whatever you wish (as long as it follows the *[Community Rules](https://osu.ppy.sh/help/wiki/Rules)*. However, each change will become progressively more expensive - the second will cost $8 USD, the third $16 USD, and so on, up to a cap of $100 USD. We do this to prevent people from abusing the system to change their names in rapid succession.
 
-If you are only after minor capitalization or grammar/spelling changes, you can email [accounts@ppy.sh](mailto:accounts@ppy.sh) to request a free name change to fix these issues. We will not charge you for these sorts of name changes, but you **MUST** do them through a support email. Keep in mind we will only perform this a limited number of times, so make sure you really want it!
+If you are only after minor capitalization or grammar/spelling changes, you can email [accounts@ppy.sh](mailto:accounts@ppy.sh) to request a free name change to fix these issues. We will not charge you for these sorts of name changes, but you **MUST** do them through a support email. Keep in-mind we will only perform this a limited number of times, so make sure you really want it!
 
 #### Can I take another player's username?
 
 **Yes, but only under certain circumstances.**
 
-If a player has not signed in for at least 6 months and has no plays, their username may be reclaimed via the [osu!store player name change page](https://osu.ppy.sh/store/products/32) for a standard fee associated with username changes.
+If a player has not signed-in for at least 6 months and has no plays, their username may be reclaimed via the [osu!store player name change page](https://osu.ppy.sh/store/products/32) for a standard fee associated with username changes.
 
 If that player does have any plays across all game modes, a [non-linear function](https://www.desmos.com/calculator/b89siyv9j8 "Desmos graph") is used to calculate how much extra time is added to those 6 months. This is to prevent people from stealing the usernames of active or recently retired players.
 
 #### Is it possible to change my name back or revert to my old username?
 
-**Yes, but under certain circumstances.**
+**Yes, but only under certain circumstances.**
 
-We only grant free reverts for a user's direct previous username (the one shown by hovering their name on their profile). Changes to any other previous names must be [purchased via the store](https://osu.ppy.sh/store/products/32). Simply contact accounts@ppy.sh and request your namechange reverted.
+We only grant free reverts for a user's direct previous username (the one shown by hovering over their name on their profile). Changes to any other previous names must be [purchased via the store](https://osu.ppy.sh/store/products/32). Simply contact accounts@ppy.sh and request your name-change be reverted.
 
 We only grant this one time per account, so please consider carefully before requesting!
 
-#### My username has been changed back/reverted!
+#### My username has been changed-back/reverted!
 
-**We only force username reverts for usernames we deem inappropriate or abusive.**
+**We only force username reverts for usernames we deem inappropriate and/or abusive.**
 
-If you find your recent namechange has been undone, it may be because the username you changed to was abusive, inappropriate, or considered offensive. We will not perform the change again even if requested, but if you purchased it on the store, we will offer a free change to replace it.
+If you find that your recent name-change has been undone, it may be because the username you changed to was abusive, inappropriate, and/or considered offensive. We will not perform the change again even if requested, but if you purchased it on the store, we will offer a free change to replace it. Refer to the *[Community Rules](https://osu.ppy.sh/help/wiki/Rules)* for more information on what is considered inappropriate. But in a nutshell, if it's NSFW, its not safe for osu!.
 
 If the change was done with the free change that comes with a supporter tag, we cannot offer to change it again.
 
-#### Can I remove my previous usernames/delete username history?
+#### Can I remove my previous usernames/delete my username history?
 
-**Under certain circumstances.**
+**Only under certain circumstances.**
 
-Your profile will show all your previous purchased namechanges, but we only selectively remove the ones that may be an issue for you. If one of your previous usernames breaches your privacy (for example, if it contains your legal name) or can lead to your privacy being breached (via other websites), contact accounts@ppy.sh to request it removed.
+Your profile will show all your previous purchased namechanges, but we only selectively remove the ones that may be an issue for you. If one of your previous usernames breaches your privacy (for example, if it contains your legal name) or can lead to your privacy being breached (via other websites), contact accounts@ppy.sh to request that it be removed.
 
 ### Other issues
 
@@ -136,13 +136,13 @@ Your profile will show all your previous purchased namechanges, but we only sele
 
 We determine your country as shown on your profile page from the area in which you first registered your account from.
 
-If you create an account while on holiday in the United States, your account will show as belonging to the US - you'll even appear on the country rankings for the US too.
+If you create an account while on holiday in the United States, your account will show you as living in the U.S. - you'll also appear on the country rankings for the U.S. too.
 
 The support team can happily change your account's country upon request, **but only if you are actively living within that country at the time.**
 
-To confirm this, the team will ask for proof of residency - be it the appropriate passport, drivers license for your country, or some other form of ID. This must be displayed in a picture next to your monitor with the osu! client open and signed in to your account.
+To confirm this, the team will ask for proof of residency - be it the appropriate passport, drivers license for your country, or some other form of ID. This must be displayed in a picture next to your monitor with the osu! client open and signed-in to your account.
 
-We will never display this information to anyone else, and we encourage you to blank out any personal information (that will not otherwise make it impossible for us to determine what country the document is for!) if you are concerned about your privacy.
+We will never display this information to anyone else, and we encourage you to blank out any personal information—as long as it does not make it impossible for us to determine what country the document is for—if you are concerned about your privacy.
 
 #### Can I make more than one account?
 
@@ -162,15 +162,15 @@ You get to play on the first account you ever registered with us, and that's it!
 
 We are considering extra 'score reset' purchases from the osu!store for the truly hardcore players who wish nothing but perfection in their stats, but as it currently stands, we cannot wipe an account's statistics for you.
 
-This doesn't mean you can make a new account to do the same thing, either! Having multiple accounts is strongly frowned upon in our community and we will disable any such accounts that are brought to our attention.
+This doesn't mean you can make a new account to do the same thing, either! Having multiple accounts is strictly against the rules and we will disable any such accounts that are brought to our attention.
 
 #### Can I play on a computer that another osu! user has used before?
 
-**Yes, absolutely. This includes shared PCs like netcafes or PC bangs.**
+**Yes, absolutely. This includes shared PCs like netcafes or PC bangs. But...**
 
-So long as you are playing on only your own account, you can play osu! anywhere.
+Make sure you are playing on only your own account; you can play osu! anywhere.
 
-If you are playing from a public place, make sure to keep a close eye on your account security. Shared computers are often prime targets for malicious software.
+If you are playing from a public place, make sure to keep a close eye on your account security; shared computers are often prime targets for malicious software.
 
 #### Can I get a list of all maps I've played or downloaded?
 
