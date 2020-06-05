@@ -29,9 +29,9 @@ The **nik's Spring/Summer Tour 2019** (***NSST 2019***) was a worldwide double-e
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 4 months osu!supporter tag, unique profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 4 months osu!supporter tag, unique profile badge |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
 ![NSST 2019 Tier 1 Winner Badge](img/badge-1.png) ![NSST 2019 Tier 2 Winner Badge](img/badge-2.png)
 
@@ -123,17 +123,17 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] [im a fancy lad](https://osu.ppy.sh/users/4908650) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [im a fancy lad](https://osu.ppy.sh/users/4908650) |
 
 ### Tier 2
 
 | Placing | Player |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_KR] [\_Suyong](https://osu.ppy.sh/users/7295276) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_KR] [\_Suyong](https://osu.ppy.sh/users/7295276) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_NL] [Swerro](https://osu.ppy.sh/users/4507667) |
 
 ---
 
@@ -674,7 +674,7 @@ This competition has come to an end and resulted in the following podium:
 | **fuduhasio** ![][flag_US] | **4** | 0 | ![][flag_FR] Okatsu\_k | [#1](https://osu.ppy.sh/community/matches/51752366) |
 | **Neon Pegasus** ![][flag_US] | **4** | 0 | ![][flag_AR] -Nanahira- | [#1](https://osu.ppy.sh/mp/51752534) |
 | **im a fancy lad** ![][flag_US] | **4** | 1 | ![][flag_US] Tohru | [#1](https://osu.ppy.sh/community/matches/51755478) |
-| Eddie-  ![][flag_CA] | 0 | **4** | ![][flag_AR] **Penguo** | -win by default- |
+| Eddie- ![][flag_CA] | 0 | **4** | ![][flag_AR] **Penguo** | -win by default- |
 
 | Sunday, 2019-05-17 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |

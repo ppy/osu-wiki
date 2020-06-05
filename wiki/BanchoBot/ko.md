@@ -18,7 +18,7 @@ BanchoBot의 명령어는 `!` 뒤에 명령어를 붙이는 것으로 사용할 
 
 ### HELP
 
-```text
+```
 !HELP
 ```
 
@@ -28,7 +28,7 @@ BanchoBot의 명령어는 `!` 뒤에 명령어를 붙이는 것으로 사용할 
 
 *Notice: The `user` parameter for the `REPORT` command is missing.*
 
-```text
+```
 pippi: !help
 BanchoBot: Standard Commands (!COMMAND or /msg BanchoBot COMMAND):
 BanchoBot: WHERE <user>
@@ -41,7 +41,7 @@ BanchoBot: ROLL <number> - roll a dice and get random result from 1 to number(de
 
 ### ROLL
 
-```text
+```
 !ROLL <number>
 ```
 
@@ -49,14 +49,14 @@ BanchoBot: ROLL <number> - roll a dice and get random result from 1 to number(de
 
 #### 사용 예시
 
-```text
+```
 pippi: !roll 1000
 BanchoBot: pippi rolls 109 point(s)
 ```
 
 ### STATS
 
-```text
+```
 !STATS <user>
 ```
 
@@ -68,7 +68,7 @@ BanchoBot: pippi rolls 109 point(s)
 
 #### 사용 예시
 
-```text
+```
 pippi: !stats peppy
 BanchoBot: Stats for peppy:
 BanchoBot: Store: 422,187,979 (#94718)
@@ -76,7 +76,7 @@ BanchoBot: Plays: 7149 (lv65)
 BanchoBot: Accuracy: 87.29%
 ```
 
-```text
+```
 pippi: !stats Ephemeral:
 BanchoBot: Stats for Ephemeral is Playing:
 BanchoBot: Store: 2,384,155,536 (#33697)
@@ -86,7 +86,7 @@ BanchoBot: Accuracy: 94.19%
 
 ### WHERE
 
-```text
+```
 !WHERE <user>
 ```
 
@@ -96,14 +96,14 @@ BanchoBot: Accuracy: 94.19%
 
 #### 사용 예시
 
-```text
+```
 pippi: !where Ephemeral
 BanchoBot: Ephemeral is in Australia
 ```
 
 ### FAQ
 
-```text
+```
 !FAQ <entry>
 !FAQ list
 ```
@@ -112,12 +112,12 @@ BanchoBot: Ephemeral is in Australia
 
 #### 사용 예시
 
-```text
+```
 pippi: !faq peppy
 BanchoBot: peppy is the lead developer and indeed, the creator of osu! and handles most of the project himself.
 ```
 
-```text
+```
 Tama: 你好
 Yuzu: !faq chinese
 BanchoBot: 中文用户请点击 #chinese 以进入中文频道进行交流。
@@ -131,7 +131,7 @@ Tama: ok
 
 *부록: 유저 카드에 있는 신고 항목을 이용할 수도 있습니다.*
 
-```text
+```
 !REPORT <user> <reason>
 ```
 
@@ -143,7 +143,7 @@ Tama: ok
 
 #### 사용 예시
 
-```text
+```
 pippi: !report flyte spamming in #japanese
 BanchoBot: Chat moderators have been alerted. Thanks for your help.
 ```

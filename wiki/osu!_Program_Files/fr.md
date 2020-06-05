@@ -1,13 +1,18 @@
+---
+outdated: true
+outdated_since: 91d4e85f3155cb8b647ae8cb1b040b9896d60a7b
+---
+
 # osu! Program Files
 
-![Le dossier Program Files osu! en bref](Osu!sys.jpg "Le dossier Program Files osu! en bref")
+![Le dossier Program Files osu! en bref](img/osu!-program-files.png "Le dossier Program Files osu! en bref")
 
 ## Emplacement
 
 ### Windows
 
 | Chemin par défaut actuel | Ancien chemin de l'installateur |
-| ------------------------ | ---------------------- |
+| :-- | :-- |
 | `C:\Users\<Username>\AppData\Local\osu!` | `C:\Program Files\osu!` / `C:\Program Files(x86)\osu!` (pour 7 64-bit ou 8) |
 > `C:` est le disque dur sur lequel osu est installé.
 

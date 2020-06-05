@@ -23,8 +23,8 @@
 "sb_load":                          "Beatmap_Editor/SB_Load"
 "storyboard_load":                  "Beatmap_Editor/SB_Load"
 "song_setup":                       "Beatmap_Editor/Song_Setup"
-"ar":                               "Beatmap_Editor/Song_Setup#approach-rate"
-"approach_rate":                    "Beatmap_Editor/Song_Setup#approach-rate"
+"ar":                               "Beatmapping/Approach_rate"
+"approach_rate":                    "Beatmapping/Approach_rate"
 "cs":                               "Beatmap_Editor/Song_Setup#circle-size-osu-osucatch-osutaiko-only"
 "circle_size":                      "Beatmap_Editor/Song_Setup#circle-size-osu-osucatch-osutaiko-only"
 "hp":                               "Beatmap_Editor/Song_Setup#hp-drain-rate"
@@ -61,6 +61,8 @@
 "mappack":                     "Beatmaps/Packs"
 "packs":                       "Beatmaps/Packs"
 "pack":                        "Beatmaps/Packs"
+
+"identity_guidelines": "Brand_identity_guidelines"
 
 "contest":                     "Contests"
 "best_of_2009":                "Contests#2009"
@@ -203,9 +205,9 @@
 "blanket":                     "Glossary#blanket"
 "bn_glossary":                 "Glossary#bn"
 "beatmap_nominator_glossary":  "Glossary#bn"
-"bpm":                         "Glossary#bpm"
-"beat_per_minute":             "Glossary#bpm"
-"beats_per_minute":            "Glossary#bpm"
+"bpm":                         "Beatmapping/Beats_per_minute"
+"beat_per_minute":             "Beatmapping/Beats_per_minute"
+"beats_per_minute":            "Beatmapping/Beats_per_minute"
 "break":                       "Glossary#break"
 "breaks":                      "Glossary#break"
 "bss":                         "Glossary#bss"
@@ -214,8 +216,8 @@
 "changelogs":                  "Glossary#changelog"
 "choke":                       "Glossary#choke"
 "reverse_choke":               "Glossary#choke"
-"collab":                      "Glossary#collab"
-"collaboration":               "Glossary#collab"
+"collab":                      "Beatmaps/Beatmap_collaborations"
+"collaboration":               "Beatmaps/Beatmap_collaborations"
 "combo":                       "Glossary#combo"
 "combos":                      "Glossary#combo"
 "combo_colour":                "Glossary#combo-colour"
@@ -258,10 +260,10 @@
 "grid_snap":                   "Glossary#grid-snapping"
 "guest_difficulty":            "Glossary#guest-difficulty"
 "gd":                          "Glossary#guest-difficulty"
-"hit_sound":                   "Glossary#hit-sound"
-"hit_sounds":                  "Glossary#hit-sound"
-"hitsound":                    "Glossary#hit-sound"
-"hitsounds":                   "Glossary#hit-sound"
+"hit_sound":                   "Glossary#hitsound"
+"hit_sounds":                  "Glossary#hitsound"
+"hitsound":                    "Glossary#hitsound"
+"hitsounds":                   "Glossary#hitsound"
 "ignore_list":                 "Glossary#ignore-list"
 "ignore":                      "Glossary#ignore-list"
 "drop_and_droplet":            "Glossary#juice-stream"
@@ -275,8 +277,6 @@
 "keys":                        "Glossary#keys"
 "key":                         "Glossary#keys"
 "kiai":                        "Glossary#kiai"
-"kudosu":                      "Glossary#kudosu!"
-"kudosu!":                     "Glossary#kudosu!"
 "lead-in":                     "Glossary#lead-in"
 "lead_in":                     "Glossary#lead-in"
 "lead-in_time":                "Glossary#lead-in"
@@ -296,8 +296,6 @@
 "mod_4_mod":                   "Glossary#m4m"
 "mod_for_mod":                 "Glossary#m4m"
 "marathon":                    "Glossary#marathon"
-"mat":                         "Glossary#mat"
-"modding_assistance_team":     "Glossary#mat"
 "mod_request":                 "Glossary#mod-request"
 "modder":                      "Glossary#modder"
 "modders":                     "Glossary#modder"
@@ -385,7 +383,7 @@
 "work_in_progress":            "Glossary#wip"
 "z/x":                         "Glossary#z/x"
 
-"adding_custom_hit_sounds":               "Guides/Adding_Custom_Hit_Sounds"
+"adding_custom_hit_sounds":               "Guides/Adding_Custom_Hitsounds"
 "audio_editing":                          "Guides/Audio_Editing"
 "beginner's_tutorial":                    "Guides/Beginner's_Tutorial"
 "beginner":                               "Guides/Beginner's_Tutorial"
@@ -397,7 +395,7 @@
 "compressing_files":                      "Guides/Compressing_Files"
 "cropping_with_complex_backgrounds":      "Guides/Cropping_with_Complex_Backgrounds"
 "cropping_with_simple_backgrounds":       "Guides/Cropping_with_Simple_Backgrounds"
-"custom_hit_sound_library":               "Guides/Custom_Hit_Sound_Library"
+"custom_hit_sound_library":               "Guides/Custom_Hitsound_Library"
 "custom_sample_overrides":                "Guides/Custom_Sample_Overrides"
 "discord_rich_presence":                  "Guides/Discord_Rich_Presence"
 "discord_rpc":                            "Guides/Discord_Rich_Presence"
@@ -409,8 +407,8 @@
 "gl_support_issues":                      "Guides/OpenGL_Support_Issues"
 "guides/gl_support_issues":               "Guides/OpenGL_Support_Issues"
 "opengl_support_issues":                  "Guides/OpenGL_Support_Issues"
-"how_to_get_your_map_ranked":             "Guides/How_To_Get_Your_Map_Ranked"
-"how_to_get_my_map_ranked":               "Guides/How_To_Get_Your_Map_Ranked"
+"how_to_get_your_map_ranked":             "Beatmap_ranking_procedure"
+"how_to_get_my_map_ranked":               "Beatmap_ranking_procedure"
 "how_to_play_osu!mania":                  "Guides/How_to_Play_osu!mania"
 "how_to_time_songs":                      "Guides/How_to_Time_Songs"
 "how_to_use_the_offset_wizard":           "Guides/How_to_Use_the_Offset_Wizard"
@@ -827,8 +825,6 @@
 "beatmap_nomination_group":              "People/The_Team/Beatmap_Nominators"
 "bn":                                    "People/The_Team/Beatmap_Nominators"
 "bng":                                   "People/The_Team/Beatmap_Nominators"
-"bat":                                   "People/The_Team/Beatmap_Nominators"
-"beatmap_appreciation_team":             "People/The_Team/Beatmap_Nominators"
 "people/beatmap_nominator/beatmap_veto":        "People/The_Team/Beatmap_Nominators/Beatmap_Veto"
 "beatmap_nominators/beatmap_veto":              "People/The_Team/Beatmap_Nominators/Beatmap_Veto"
 "beatmap_nominator/beatmap_veto":               "People/The_Team/Beatmap_Nominators/Beatmap_Veto"
@@ -925,12 +921,20 @@
 "st":                              "People/The_Team/Support_Team"
 "str":                             "People/The_Team/Support_Team"
 
-"the_team":                        "People/The_Team"
-"team":                            "People/The_Team"
-"dev":                             "People/The_Team"
-"devs":                            "People/The_Team"
-"osu!dev":                         "People/The_Team"
-"osu!devs":                        "People/The_Team"
+"osu!_staff": "People/The_Team"
+"osu!team":   "People/The_Team"
+"osu!_team":  "People/The_Team"
+"staff":      "People/The_Team"
+"team":       "People/The_Team"
+"team_osu!":  "People/The_Team"
+"the_team":   "People/The_Team"
+
+"dev":       "People/The_Team/Developers"
+"devs":      "People/The_Team/Developers"
+"osu!dev":   "People/The_Team/Developers"
+"osu!devs":  "People/The_Team/Developers"
+"osu!_dev":  "People/The_Team/Developers"
+"osu!_devs": "People/The_Team/Developers"
 
 "pp":                          "Performance_Points"
 "ppv2":                        "Performance_Points"
@@ -1044,7 +1048,10 @@
 "scorev1":                     "Score/ScoreV1"
 "scorev2":                     "Score#scorev2"
 
-"skr":                         "Shortcut_Key_Reference"
+"hotkeys": "Shortcut_key_reference"
+"keyboard_shortcuts": "Shortcut_key_reference"
+"shortcuts": "Shortcut_key_reference"
+"skr": "Shortcut_key_reference"
 
 "all_articles": "Sitemap"
 "all_pages": "Sitemap"
@@ -1305,8 +1312,7 @@
 
 "storyboard":                  "Storyboards"
 
-"beatmap_ranking_procedure":            "Submission/Beatmap_Ranking_Procedure"
-"brp":                                  "Submission/Beatmap_Ranking_Procedure"
+"brp": "Beatmap_ranking_procedure"
 
 "tournament_drawing":          "Tournament_Drawings"
 
@@ -1542,3 +1548,73 @@
 
 # Moved Scaling BPM article of Ranking Criteria up one level
 "ranking_criteria/osu!/scaling_bpm": "Ranking_Criteria/Scaling_BPM"
+
+# Removed space from "hit sound"
+"guides/adding_custom_hit_sounds": "Guides/Adding_Custom_Hitsounds"
+"guides/custom_hit_sound_library": "Guides/Custom_Hitsound_Library"
+
+# Made osu!mania tournament names consistent
+"tournaments/mp4k":         "Tournaments/MP"
+"tournaments/mp7k":         "Tournaments/MP"
+"tournaments/mp4k/3":       "Tournaments/MP/2019_4K"
+"tournaments/mp7k/7k_2019": "Tournaments/MP/2019_7K"
+"tournaments/ophn/4k_2019": "Tournaments/oPHN/2019_4K"
+
+# Moved Beatmap ranking procedure and deleted related guide that was outdated
+"guides/how_to_get_your_map_ranked":     "Beatmap_ranking_procedure"
+"submission/beatmap_ranking_procedure":  "Beatmap_ranking_procedure"
+"submissions/beatmap_ranking_procedure": "Beatmap_ranking_procedure"
+
+# Grouped osu! UCI tournaments
+"tournaments/zotcade":      "Tournaments/osu!_UCI"
+"tournaments/zotcade/2019": "Tournaments/osu!_UCI/iDOL@NSTER"
+
+# Renamed CFC 2 to CFC 2018
+"tournaments/cfc/2": "Tournaments/CFC/2018"
+
+# Shortcuts for Mappers' Guild
+"guild":          "Mappers_Guild"
+"mapper's_guild": "Mappers_Guild"
+"mappers'_guild": "Mappers_Guild"
+"mg":             "Mappers_Guild"
+
+# Sitemap isn't a real wiki page so this is necessary for the website to function when visiting /wiki/sitemap
+"sitemap": "Sitemap"
+
+# Kudosu shortcuts
+"kd":      "Modding/Kudosu"
+"kudosu":  "Modding/Kudosu"
+"kudosu!": "Modding/Kudosu"
+
+# Shortcut for Featured Artists
+"fa": "Featured_Artists"
+
+# Shortcuts for old modding groups
+"bat_manager":                        "Modding/BAT_Managers"
+"bat_managers":                       "Modding/BAT_Managers"
+"batm":                               "Modding/BAT_Managers"
+"batmanager":                         "Modding/BAT_Managers"
+"batmanagers":                        "Modding/BAT_Managers"
+"beatmap_appreciation_team_manager":  "Modding/BAT_Managers"
+"beatmap_appreciation_team_managers": "Modding/BAT_Managers"
+"beatmap_appreciator_manager":        "Modding/BAT_Managers"
+"beatmap_appreciators_manager":       "Modding/BAT_Managers"
+"beatmap_approval_team_manager":      "Modding/BAT_Managers"
+"beatmap_approval_team_managers":     "Modding/BAT_Managers"
+"bat":                                "Modding/Beatmap_Appreciation_Team"
+"beatmap_appreciation_team":          "Modding/Beatmap_Appreciation_Team"
+"beatmap_appreciator":                "Modding/Beatmap_Appreciation_Team"
+"beatmap_appreciators":               "Modding/Beatmap_Appreciation_Team"
+"beatmap_approval_team":              "Modding/Beatmap_Appreciation_Team"
+"mat":                                "Modding/Mapping_Assistance_Team"
+"mapping_assistance_team":            "Modding/Mapping_Assistance_Team"
+"mat_leader":                         "Modding/MAT_Leaders"
+"mat_leaders":                        "Modding/MAT_Leaders"
+"mapping_assistance_team_leader":     "Modding/MAT_Leaders"
+"mapping_assistance_team_leaders":    "Modding/MAT_Leaders"
+"proto-bubble":                       "Modding/Proto-bubble"
+"protobubble":                        "Modding/Proto-bubble"
+"pubble":                             "Modding/Proto-bubble"
+
+# Shortcut for NAT meetings
+"nat_meetings": "Modding/NAT_meetings"

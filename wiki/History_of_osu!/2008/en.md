@@ -1,4 +1,4 @@
-# 2008
+# History of osu! 2008
 
 ![](img/2008.jpg)
 
@@ -28,7 +28,7 @@ No joke, Bancho went live this month, and so did the user panels of Extended Cha
 
 ![](img/taiko.png "Taiko Mod")
 
-The [Taiko](/wiki/Taiko) mode first saw the light of day in this month, as well as another major addition, `.osb` storyboarding script support. Multi-part sliders and private messaging in chat were also made available.
+The [Taiko](/wiki/Game_Modes/osu!taiko) mode first saw the light of day in this month, as well as another major addition, `.osb` storyboarding script support. Multi-part sliders and private messaging in chat were also made available.
 
 ## June
 
@@ -36,7 +36,7 @@ A major milestone in osu! history was reached with the addition of the [Multi (m
 
 ## July
 
-The editor, multiplayer, storyboarding, graphics, and chat console all received numerous improvements this month. The options screen received a new layout, and [custom key bindings](/wiki/Keyboard_Bindings) were introduced.
+The editor, multiplayer, storyboarding, graphics, and chat console all received numerous improvements this month. The options screen received a new layout, and [custom key bindings](/wiki/Options/Keyboard_Bindings) were introduced.
 
 ## August
 
@@ -44,7 +44,7 @@ Continuing the trend set by July, one would be hard pressed to find an aspect of
 
 Personal online best scores were added to song selection, fulfilling a long-time request. This required some fairly hefty database optimisation. Graphical improvements were made to the ranking screen, and various elements of the default skin, in an aim to make it feel more clean and crisp than before. The display of slider tick score sprites (10/30) was implemented. Improvements were seen in the multiplayer match setup, allowing host control to be transferred. Many new chat commands were added for user convenience.
 
-A new ranked status "![](img/fire.gif) [approved](/wiki/approved)" was added for maps which were of great quality but exceed ranking length or difficulty (or other) limits in some way. Maps in this status don't add to the player's scores, but have scoreboards and act otherwise like a ![](img/heart.gif) [ranked](/ranked) map.
+A new ranked status "![](img/fire.gif) [approved](/wiki/Approved)" was added for maps which were of great quality but exceed ranking length or difficulty (or other) limits in some way. Maps in this status don't add to the player's scores, but have scoreboards and act otherwise like a ![](img/heart.gif) [ranked](/wiki/Ranked) map.
 
 ## September
 
@@ -60,7 +60,7 @@ Progress was made on OpenGL implementation and the upcoming game mode debut (Cat
 
 ![](img/fruit_ryuuta.png "The catcher of Catch the Beat")
 
-November saw the introduction of a brand new game mode, [Catch the Beat](/wiki/Catch_the_Beat). OpenGL support debuted, thus allowing osu! to run on most systems. Other new features in this update included in-game friend list support, private chat tabs, a new tutorial/[offset wizard](/wiki/Options/Offset_Wizard) and osu!direct; an in-game beatmap downloader for supporters.
+November saw the introduction of a brand new game mode, [Catch the Beat](/wiki/Game_Modes/osu!catch). OpenGL support debuted, thus allowing osu! to run on most systems. Other new features in this update included in-game friend list support, private chat tabs, a new tutorial/[offset wizard](/wiki/Options/Offset_Wizard) and osu!direct; an in-game beatmap downloader for supporters.
 
 Due to people with large numbers of beatmaps complaining about the load time of osu!, peppy spent countless days optimising anything possible, resulting in a performance increase almost unmeasurable on a scale (let's just say somewhere over 9,000). Load times of over one minute reduced to just milliseconds.
 
@@ -70,7 +70,7 @@ The last month of 2008 had plenty in store for osu!'s development. By osu!'s sec
 
 Thumbnail and audible previews were added to the online beatmap listing, making browsing for a beatmap you'd like to play a much easier task.
 
-Another noticeable event was that the Catch the Beat scores were [wiped](https://osu.ppy.sh/forum/viewtopic.php?f=9&t=7996) during this month. Since then, the score multiplier of mods has been changed in Catch The Beat mode as well.
+Another noticeable event was that the Catch the Beat scores were [wiped](https://osu.ppy.sh/community/forums/topics/7996) during this month. Since then, the score multiplier of mods has been changed in Catch the Beat mode as well.
 
 ## The Future
 

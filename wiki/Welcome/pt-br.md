@@ -32,6 +32,14 @@ Beatmapping refere-se ao processo de criação de um beatmap. Este processo incl
 
 Modding é o processo no qual os usuários da comunidade revisam (ou, como é apelidado, "moddam") um beatmap no estágio de *Pendente* ou *Trabalho em Progresso/Precisando de Ajuda*. Modding é crucial para o controle de qualidade porque permite que os criadores identifiquem e consertem os problemas presentes nos seus beatmaps.
 
+## Skinning
+
+*Página principal: [Skinning](/wiki/Skinning)*
+
+*Veja também: [Skinning Tutorial](/wiki/Skinning_Tutorial)*
+
+Skinning permite qualquer um mudar o jeito que o osu! se parece. Isso pode ser pequeno que nem como mudar como o cursor parece ou tão grande como refazendo a aparência de todos os modos de jogo e interface.
+
 ## osu! wiki - Como você pode ajudar!
 
 Desde 26 de Agosto de 2016, a osu! wiki foi movida para um repositório do Github. Após essa mudança, o fluxo de trabalho mudou drasticamente. Atualmente, todas as contribuições passam pelo [Repositório do  osu-wiki](https://github.com/ppy/osu-wiki), no qual são então revisadas, aprovadas e mescladas à osu! wiki.

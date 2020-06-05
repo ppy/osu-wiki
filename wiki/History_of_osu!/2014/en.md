@@ -1,4 +1,4 @@
-# 2014
+# History of osu! 2014
 
 ## March
 
@@ -16,7 +16,7 @@ Links:
 
 ## October
 
-As always, many new things were added to osu!. One being the new sign-in screen. Another being the new system for scrolling in [mania](/wiki/mania). It was to be based off of the beatmap's bpm rather than a fixed scroll! New intro and outro sequence and an awesome theme song were added into osu!, rather than a random beatmap's music to be played. And many discovered that osu! was pronounced as \\oss!\\, not \\osU!\\.
+As always, many new things were added to osu!. One being the new sign-in screen. Another being the new system for scrolling in [osu!mania](/wiki/Game_Modes/osu!mania). It was to be based off of the beatmap's bpm rather than a fixed scroll! New intro and outro sequence and an awesome theme song were added into osu!, rather than a random beatmap's music to be played. And many discovered that osu! was pronounced as \\oss!\\, not \\osU!\\.
 
 Lastly, leading to peppy making a tough decision to release *osu!test.exe* (now *osu!cuttingedge*) for **anyone**. This was to allow non-osu!supporters to *debug* osu! where the newest (or latest) builds of osu! would be updated to any client. That was, if they're wanting to use it's unstable/experimental features. Every function was given in osu!cuttingedge **except** for multiplayer (osu!supporter was required).
 

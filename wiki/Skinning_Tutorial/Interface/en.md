@@ -1,8 +1,4 @@
----
-needs_cleanup: true
----
-
-# Skinning Tutorial (Interface)
+# Interface skinning tutorial
 
 ## Welcome Screen
 
@@ -11,7 +7,7 @@ These skinning elements are found on the welcome screen (the first screen you se
 ### Menu Background
 
 This is the background image in the main menu.
-**This part is only loaded/available for [osu!supporter](/wiki/osu!supporter/).**
+**This part is only loaded/available for [osu!supporter](/wiki/osu!supporter).**
 You will also see it in beatmaps without backgrounds, multiplayer lobby, multiplayer match background and osu!direct background.
 
 This is the only skin element that must be in `JPG` format. You can easily change it by just dragging a picture and dropping it in main menu window, it will create/replace menu-background in you current skin. If you have created picture of size 1366x768, it will be cut from left side at lower width resolutions.
@@ -42,7 +38,7 @@ _Cookiezi's Skin Mix_
 ### Welcome Text
 
 The Welcome text is the image that appears as you open osu!, this layer can be edited and it's name is "welcome_text.png".
-**This part is only loaded/available for [osu!supporter](/wiki/osu!supporter/).**
+**This part is only loaded/available for [osu!supporter](/wiki/osu!supporter).**
 
 [![](pr/welcome_text_0.png)](fs/welcome_text_0.png "Click to view full size")
 _Default skin_
@@ -393,7 +389,7 @@ _[NeonFX](https://osu.ppy.sh/community/forums/topics/316252)_
 ![](fs/score_3.jpg)
 _[Northern Ocean Hime](https://osu.ppy.sh/community/forums/topics/319797)_
 
-#### Score commna
+#### Score comma
 
 The usage of `score-comma.png` depends on the region your PC is from.
 Most countries uses a dot to display decimal values (73**.**92%).
@@ -572,7 +568,7 @@ The Input Overlay is displayed on the right-hand side of the play screen.
 This is only seen in the osu!standard and osu!catch modes.
 This shows how many times each keybinding has been pressed in the duration of that song.
 
-Note that this can be disabled in the [options](/wiki/Options/)!
+Note that this can be disabled in the [options](/wiki/Options)!
 
 ![](fs/input-overlay_0.png)
 _Default skin_
@@ -587,10 +583,10 @@ However, the default is `0,0,0` (black).
 
 The input overlay comes in two parts:
 
-| File Name                   | Description                                                         | Resolution (BxH) | @2x Resolution (BxH) |
-|-----------------------------|---------------------------------------------------------------------|------------------|----------------------|
-| inputoverlay-background.png | Defines the overall background for the input overlay                | 193x90           | 386x180              |
-| inputoverlay-key.png        | Defines the "key" image for each of the 4 keys in the input overlay | 46x46            | 92x92                |
+| File Name | Description | Resolution (BxH) | @2x Resolution (BxH) |
+| :-- | :-- | :-- | :-- |
+| inputoverlay-background.png | Defines the overall background for the input overlay | 193x90 | 386x180 |
+| inputoverlay-key.png | Defines the "key" image for each of the 4 keys in the input overlay | 46x46 | 92x92 |
 
 ### Ranking Screen
 
@@ -601,17 +597,17 @@ There are many parts inside the ranking screen, so below is the brake-up of what
 
 Using the image above, here are the meanings:
 
-| \# on image | Name                           | Description                                                                                                                                                                                                                                                                                                                                                                                   |
-|-------------|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1           | Ranking Letters                | It's not hard to do them. Just don't make them freaking huge. Remember: `ranking-X` = SS, `ranking-SH` = Silver S, `ranking-XH` = Silver SS.                                                                                                                                                                                                                                                  |
-| 2           | Retry, Replay button           | Depending on your Version in the skin.ini, either ranking-retry.png/ranking-replay.png (Version: 1.0) or pause-retry.png/pause-replay.png (Version: 2.0 or above) will be used. Retry - play the map one more time. Replay - watch your amazing play.                                                                                                                                         |
-| 3           | Ranking-accuracy and max combo | As the name says. Personally I recommend to make them blank and add "Max Combo" and "Accuracy" by yourself on raking-panel. It's just easier to position them.                                                                                                                                                                                                                                |
-| 4           | Ranking-graph                  | This one is kinda size and position restricted. Easiest way to make it, is by using default one, since you won't have problems with correct position to fit actually showed graph.                                                                                                                                                                                                            |
-| 5           | Ranking-perfect                | You can make it in whatever way you want, add text or picture. Be aware that sometimes you will need to do minor positioning.                                                                                                                                                                                                                                                                 |
-| 6           | Ranking-title                  | Title of this screen. Should say "RANK" or "Your Rank".                                                                                                                                                                                                                                                                                                                                       |
-| 7           | Ranking-winner                 | A small box that shows winner of multiplayer match.                                                                                                                                                                                                                                                                                                                                           |
-| 8           | Ranking-panel                  | The heart (:3) of ranking. It's not restricted by size (but is restricted by position), so feel free to experiment. Like I said in "score numbers" part, you must remember that is hard to fit large numbers into ranking spaces. I recommend to test your ranking on long maps that have high combo (for example [paraparaMAX I](https://osu.ppy.sh/beatmapsets/972), just check out someone's score). |
-| 9           | Mod icons                      | This is where the enabled mod icons go                                                                                                                                                                                                                                                                                                                                                        |
+| \# on image | Name | Description |
+| :-- | :-- | :-- |
+| 1 | Ranking Letters | It's not hard to do them. Just don't make them freaking huge. Remember: `ranking-X` = SS, `ranking-SH` = Silver S, `ranking-XH` = Silver SS. |
+| 2 | Retry, Replay button | Depending on your Version in the skin.ini, either ranking-retry.png/ranking-replay.png (Version: 1.0) or pause-retry.png/pause-replay.png (Version: 2.0 or above) will be used. Retry - play the map one more time. Replay - watch your amazing play. |
+| 3 | Ranking-accuracy and max combo | As the name says. Personally I recommend to make them blank and add "Max Combo" and "Accuracy" by yourself on raking-panel. It's just easier to position them. |
+| 4 | Ranking-graph | This one is kinda size and position restricted. Easiest way to make it, is by using default one, since you won't have problems with correct position to fit actually showed graph. |
+| 5 | Ranking-perfect | You can make it in whatever way you want, add text or picture. Be aware that sometimes you will need to do minor positioning. |
+| 6 | Ranking-title | Title of this screen. Should say "RANK" or "Your Rank". |
+| 7 | Ranking-winner | A small box that shows winner of multiplayer match. |
+| 8 | Ranking-panel | The heart (:3) of ranking. It's not restricted by size (but is restricted by position), so feel free to experiment. Like I said in "score numbers" part, you must remember that is hard to fit large numbers into ranking spaces. I recommend to test your ranking on long maps that have high combo (for example [paraparaMAX I](https://osu.ppy.sh/beatmapsets/972), just check out someone's score). |
+| 9 | Mod icons | This is where the enabled mod icons go |
 
 [![](pr/ranking-screen_0.jpg)](fs/ranking-screen_0.jpg "Click to view full size")
 _Default skin_

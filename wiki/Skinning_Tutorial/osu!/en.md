@@ -1,8 +1,4 @@
----
-needs_cleanup: true
----
-
-# Skinning Tutorial (osu!)
+# osu! skinning tutorial
 
 The main point of skinning.
 It’s good to keep the image sizes the same as on the originals, but this is not a rule.

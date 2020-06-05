@@ -31,9 +31,9 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $150 per team member, profile badge, "osu!mania Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $80 per team member, profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $40 per team member, profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | $150 per team member, profile badge, "osu!mania Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, profile badge |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, profile badge |
 
 ## Organisation
 
@@ -59,7 +59,7 @@ The osu!mania 7K World Cup 2019 is run by various community members by distribut
 
 ## Participants
 
-| | Country | Members |
+|  | Country | Members |
 | :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **[lxLucasxl](https://osu.ppy.sh/users/3632846)**, [BossPlays_02](https://osu.ppy.sh/users/7341471), [DUELODER](https://osu.ppy.sh/users/8224116), [aluuu](https://osu.ppy.sh/users/4585260) |
 | ![][flag_BR] | **Brazil** | **[Lothus](https://osu.ppy.sh/users/9530019)**, [Lazarento](https://osu.ppy.sh/users/3224958), [UrsoManso](https://osu.ppy.sh/users/4569601), [SillyFangirl](https://osu.ppy.sh/users/2288363) |

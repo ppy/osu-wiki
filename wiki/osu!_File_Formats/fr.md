@@ -4,24 +4,24 @@
 
 ### Archive
 
-| Format du fichier                           | Usage                                                                                            |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osz][Osz Link]       | Fichier de beatmap exécutable.                                                                                        |
-| [.osk][Osk Link]       | Fichier de skin exécutable.                                                                                           |
-| [.db][Db Link]        | Fichier de base de données.                                                                                            |
+| Format du fichier | Usage |
+| :-- | :-- |
+| [.osz][Osz Link] | Fichier de beatmap exécutable. |
+| [.osk][Osk Link] | Fichier de skin exécutable. |
+| [.db][Db Link] | Fichier de base de données. |
 
 ### Éditeur de beatmap
 
-| Format du fichier                           | Usage                                                                                            |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osu][Osu Link]        | [Compose](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Song Setup](/wiki/Beatmap_Editor/Song_Setup). |
-| [.osb][Osb Link]       | [Design](/wiki/Beatmap_Editor/Design).                                                                                |
+| Format du fichier | Usage |
+| :-- | :-- |
+| [.osu][Osu Link] | [Compose](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Song Setup](/wiki/Beatmap_Editor/Song_Setup). |
+| [.osb][Osb Link] | [Design](/wiki/Beatmap_Editor/Design). |
 
 ### Replay
 
-| Format du fichier                                 | Usage                                                                                      |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osr][Osr Link]       | Fichier de replay exécutable (n'est pas décompressable).                                                              |
+| Format du fichier | Usage |
+| :-- | :-- |
+| [.osr][Osr Link] | Fichier de replay exécutable (n'est pas décompressable). |
 
 ## Créer un fichier .osz/.osk
 
@@ -46,7 +46,7 @@
 
 3.  Vérifiez les paramètres. Réglez la méthode d'archivage en ".zip" (pas .7z, .rar) et renommez l'extension du dossier en .osz manuellement dans la boîte de dialogue.
 
-    Amigo Fiesta.zip -&gt; Amigo Fiesta.osz, Méthode d'archivage : ".zip"
+    Amigo Fiesta.zip -> Amigo Fiesta.osz, Méthode d'archivage : ".zip"
 
 4.  Laissez l'archivage se faire. Un fichier .osz sera produit avec l'icône distinctive d'osu! pour le fichier.
 5.  Faites de même pour d'autres archives. Pour le skinning, utilisez l'extension .osk.

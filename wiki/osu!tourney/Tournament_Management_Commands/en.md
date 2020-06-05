@@ -1,4 +1,4 @@
-# Tournament Management Commands
+# Tournament management commands
 
 The following chat commands are provided for remote management of multiplayer tournament rooms:
 
@@ -6,7 +6,7 @@ The following chat commands are provided for remote management of multiplayer to
   - This room is special in that it is not closed when all players have left the room, and it is password protected from players joining this room themselves.
   - When the room is finished, use `!mp close` to close the room.
 - `!mp invite <username>` - Invites a player to the room.
-  - Note that this does _not_ bypass any private message blocks available in the osu! client, so your tournament staff will need to tell players to disable "Block private messages from non-friends" in the osu! options.
+  - Note that this does *not* bypass any private message blocks available in the osu! client, so your tournament staff will need to tell players to disable "Block private messages from non-friends" in the osu! options.
 - `!mp lock` - Locks the room so that players can’t change their team and slot.
 - `!mp unlock` - Reverses the above.
 - `!mp size <size>` - Sets the amount of available slots (1-16) in the room.
@@ -35,15 +35,14 @@ The following chat commands are provided for remote management of multiplayer to
 - `!mp addref <username> [<username>] …` - Adds a referee to the room. A maximum of 8 referees may be added. Only the creator of the room can add a referee.
   - Referees must join the room lobby in-game, or by entering the room's chat channel through `/join #mp_<room_id>` in IRC.
   - Referees can manage the room like the creator, however they cannot add or remove other referees themselves.
-  - The [osu!tourney client](/wiki/osu!tourney "osu!tourney") will show the room chat for referees.
+  - The [osu!tourney client](/wiki/osu!tourney) will show the room chat for referees.
 - `!mp removeref <username> [<username>] …` - Removes a referee from the room. Only the creator of the room can remove a referee.
 - `!mp listrefs` - Lists all referees in the room.
 - `!mp close` - Closes the room.
 
 Sending `!mp help` to BanchoBot will reveal the commands.
 
-Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. Parameters enclosed within square brackets ( `[]` ) are optional.  
-Usernames must have any whitespace be replaced with underscores ( `_` ). `#<userid>` may substitute `<username>` in all of the commands.
+Items enclosed within angle brackets ( `<>` ) define "parameters" of commands. Parameters enclosed within square brackets ( `[]` ) are optional. Usernames must have any whitespace be replaced with underscores ( `_` ). `#<userid>` may substitute `<username>` in all of the commands.
 
 ## Usage
 
@@ -62,4 +61,4 @@ The following is an example of command usage:
 - `!mp set 0 2` - Set the team mode to Head To Head and scoring mode to Combo.
 - `!mp start` - Start the match instantaneously.
 
-We expect you to act professionally and responsibly in the management of your tournament. Any abuse of these commands to disrupt the play of other users will be dealt with harshly as a violation of our [community rules](/wiki/Rules "Community Rules").
+We expect you to act professionally and responsibly in the management of your tournament. Any abuse of these commands to disrupt the play of other users will be dealt with harshly as a violation of our [community rules](/wiki/Rules).

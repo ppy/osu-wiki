@@ -1,16 +1,11 @@
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
-
 # 摘要
 
-_主页面: [Game Modifiers](/wiki/Game_Modifiers)_
+*主页面: [Game Modifiers](/wiki/Game_Modifiers)*
 
-注意：所有的Mods在osu!mania模式不会增加分数加成。
+*注意：所有的Mods在osu!mania模式不会增加分数加成。*
 
 | Mod | 名称（缩写） | 分数加成 | 效果 |
-|-----|--------------|------------|--------|
+| :-- | :-- | :-- | :-- |
 | ![Easy](/wiki/shared/mods/EZ.png) | Easy (EZ) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 0.50x | 降低总体难度。 |
 | ![No Fail](/wiki/shared/mods/NF.png) | No Fail (NF) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 0.50x | 无论如何不会失败。 |
 | ![Half Time](/wiki/shared/mods/HT.png) | Half Time (HT) | ![][o!s] ![][o!t] ![][o!c]: 0.30x • ![][o!m]: 0.50x | 降低歌曲速度（25%）。 |
@@ -33,35 +28,34 @@ _主页面: [Game Modifiers](/wiki/Game_Modifiers)_
 
 ## xK 分数加成
 
-注：这个表格仅影响从osu!standard转换到osu!mania的游戏，对osu!mania专门的谱面没有影响。
+*注：这个表格仅影响从osu!standard转换到osu!mania的游戏，对osu!mania专门的谱面没有影响。*
 
-|    | 1k   | 2k   | 3k   | 4k       | 5k       | 6k       | 7k       | 8k   | 9k   |
-|----|------|------|------|----------|----------|----------|----------|------|------|
-| 4k | 0.78 | 0.82 | 0.86 | **1.00** | 0.90     | 0.90     | 0.90     | 0.90 | 0.90 |
-| 5k | 0.74 | 0.78 | 0.82 | 0.86     | **1.00** | 0.90     | 0.90     | 0.90 | 0.90 |
-| 6k | 0.70 | 0.74 | 0.78 | 0.82     | 0.86     | **1.00** | 0.90     | 0.90 | 0.90 |
-| 7k | 0.66 | 0.70 | 0.74 | 0.78     | 0.82     | 0.86     | **1.00** | 0.90 | 0.90 |
-
+|  | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
+| :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
+| 4K | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+| 5K | 0.74 | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 |
+| 6K | 0.70 | 0.74 | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 | 0.90 |
+| 7K | 0.66 | 0.70 | 0.74 | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 |
 
 ### xK 和 CO-OP 分数加成
 
-注：这个表格仅影响从osu!standard转换到osu!mania的游戏，对osu!mania专门的谱面没有影响。
+*注：这个表格仅影响从osu!standard转换到osu!mania的游戏，对osu!mania专门的谱面没有影响。*
 
 Co-op 对osu!mania专门谱面**没有**罚分。
 
-|    | 1k   |  2k      | 3k       |  4k  | 5k   | 6k   | 7k   | 8k   | 9k   |
-|----|------|----------|----------|------|------|------|------|------|------|
-| 4k | 0.82 | **1.00** | 0.90     | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
-| 5k | 0.78 | 0.86     | 0.90     | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
-| 6k | 0.74 | 0.82     | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
-| 7k | 0.70 | 0.78     | 0.86     | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+|  | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
+| :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
+| 4K | 0.82 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+| 5K | 0.78 | 0.86 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+| 6K | 0.74 | 0.82 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+| 7K | 0.70 | 0.78 | 0.86 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
 
 ## 相反的mod
 
-注：为了防止这个表格变得非常大，选择右边的mod也会取消左边的mod。
+*注：为了防止这个表格变得非常大，选择右边的mod也会取消左边的mod。*
 
 | 这些mod... | ...会取消这些mod。 |
-|---------------|----------------------------|
+| :-- | :-- |
 | ![Hard Rock](/wiki/shared/mods/HR.png) | ![Easy](/wiki/shared/mods/EZ.png) |
 | ![Double Time](/wiki/shared/mods/DT.png) ![Nightcore](/wiki/shared/mods/NC.png) | ![Half Time](/wiki/shared/mods/HT.png) |
 | ![No Fail](/wiki/shared/mods/NF.png) | ![Sudden Death](/wiki/shared/mods/SD.png) ![Perfect](/wiki/shared/mods/PF.png) ![Relax](/wiki/shared/mods/RL.png) ![Auto Pilot](/wiki/shared/mods/AP.png) |
@@ -73,5 +67,10 @@ Co-op 对osu!mania专门谱面**没有**罚分。
 ### osu!mania
 
 | 这些mod... | ...会取消这些mod。 |
-|---------------|----------------------------|
+| :-- | :-- |
 | ![Hidden](/wiki/shared/mods/HD.png) ![Fade In](/wiki/shared/mods/FI.png) | ![Flashlight](/wiki/shared/mods/FL.png) |
+
+[o!s]: /wiki/shared/mode/osu.png "osu!standard"
+[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
+[o!c]: /wiki/shared/mode/catch.png "osu!catch"
+[o!m]: /wiki/shared/mode/mania.png "osu!mania"

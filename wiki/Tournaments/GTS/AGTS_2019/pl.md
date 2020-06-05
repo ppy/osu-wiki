@@ -1,7 +1,9 @@
 ---
 tags:
-- AGTS 2019
-- AGTS2019
+  - AGTS 2019
+  - AGTS
+  - GTS
+outdated: true
 ---
 
 # Advanced Global Taiko Showdown 2019
@@ -27,9 +29,9 @@ tags:
 
 | Miejsce | Nagroda(y) |
 | :-: | :-- |
-| ![Złota Korona](/wiki/shared/GCrown.png "1 miejsce") | Unikalna odznaka profilu, ekskluzywny baner |
-| ![Srebrna Korona](/wiki/shared/SCrown.png "2 miejsce") | Ekskluzywny baner |
-| ![Brązowa Korona](/wiki/shared/BCrown.png "3 miejsce") | Ekskluzywny baner |
+| ![Złota Korona](/wiki/shared/crown-gold.png "1 miejsce") | Unikalna odznaka profilu, ekskluzywny baner |
+| ![Srebrna Korona](/wiki/shared/crown-silver.png "2 miejsce") | Ekskluzywny baner |
+| ![Brązowa Korona](/wiki/shared/crown-bronze.png "3 miejsce") | Ekskluzywny baner |
 
 ![AGTS 2019 Odznaka Zwycięzcy](img/badge.png)
 
@@ -103,7 +105,7 @@ Advanced Global Taiko Showdown 2019 był prowadzony przez różnych członków s
 | **B** | ![][flag_JP] Japonia | ![][flag_AR] Argentyna | ![][flag_HK] Hongkong | ![][flag_CL] Chile |
 | **C** | ![][flag_NL] Holandia | ![][flag_FR] Francja | ![][flag_MX] Meksyk | ![][flag_TW] Tajwan |
 | **D** | ![][flag_US] Stany Zjednoczone A | ![][flag_RU] Rosja A | ![][flag_US] Stany Zjednoczone B | ![][flag_BR] Brazylia |
-| **E** | ![][flag_KR] Korea Południowa | ![][flag_DE] Niemcy A | ![][flag_DK] ![][flag_NO] ![][flag_SE] Scandinavia | ![][flag_VE] Wenezuela
+| **E** | ![][flag_KR] Korea Południowa | ![][flag_DE] Niemcy A | ![][flag_DK] ![][flag_NO] ![][flag_SE] Scandinavia | ![][flag_VE] Wenezuela |
 | **F** | ![][flag_CA] Kanada | ![][flag_GB] ![][flag_PT] Wielka Brytania/Portugalia | ![][flag_ID] Indonezja A | ![][flag_ID] Indonezja B |
 
 ---
@@ -114,9 +116,9 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 
 | Miejsce | Kraj |
 | :-: | :-- |
-| ![Złota Korona](/wiki/shared/GCrown.png "1 miejsce") | ![][flag_JP] Japonia |
-| ![Srebrna Korona](/wiki/shared/SCrown.png "2 miejsce") | ![][flag_CA] Kanada |
-| ![Brązowa Korona](/wiki/shared/BCrown.png "3 miejsce") | ![][flag_RU] Rosja A |
+| ![Złota Korona](/wiki/shared/crown-gold.png "1 miejsce") | ![][flag_JP] Japonia |
+| ![Srebrna Korona](/wiki/shared/crown-silver.png "2 miejsce") | ![][flag_CA] Kanada |
+| ![Brązowa Korona](/wiki/shared/crown-bronze.png "3 miejsce") | ![][flag_RU] Rosja A |
 
 ---
 
@@ -316,7 +318,7 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 | --: | :-: | :-: | :-- | :-- |
 | Tajwan ![][flag_TW] | 1 | **7** | ![][flag_CA] **Kanada** | [#1](https://osu.ppy.sh/community/matches/54521624) |
 | Holandia ![][flag_NL] | 6 | **7** | ![][flag_KR] **Korea Południowa** | [#1](https://osu.ppy.sh/community/matches/54530786) |
-| Indonezja A ![][flag_ID] | 3 | **7** | ![][flag_KR] **Korea Południowa** | [#1](https://osu.ppy.sh/community/matches/54533409)
+| Indonezja A ![][flag_ID] | 3 | **7** | ![][flag_KR] **Korea Południowa** | [#1](https://osu.ppy.sh/community/matches/54533409) |
 
 ### Ćwierćfinały
 
@@ -327,7 +329,8 @@ Turniej dobiegł końca i wynikiem jest następujące podium:
 | **Japonia** ![][flag_JP] | **6** | 0 | ![][flag_BR] Brazylia | [#1](https://osu.ppy.sh/community/matches/54317042) |
 | **Rosja A** ![][flag_RU] | **6** | 2 | ![][flag_RU] Rosja B | [#1](https://osu.ppy.sh/community/matches/54317274) |
 | Kanada ![][flag_CA] | 4 | **6** | ![][flag_JP] **Japonia** | [#1](https://osu.ppy.sh/community/matches/54318662) |
-| Polska ![][flag_PL] | 1 | **6** | ![][flag_ID] **Indonezja A** | [#1](https://osu.ppy.sh/community/matches/54320532) | **Kanada** ![][flag_CA] | **6** | 1 | ![][flag_RU] Rosja B | [#1](https://osu.ppy.sh/community/matches/54322599) |
+| Polska ![][flag_PL] | 1 | **6** | ![][flag_ID] **Indonezja A** | [#1](https://osu.ppy.sh/community/matches/54320532) |
+| **Kanada** ![][flag_CA] | **6** | 1 | ![][flag_RU] Rosja B | [#1](https://osu.ppy.sh/community/matches/54322599) |
 
 | Niedziela, 2019-08-25 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |

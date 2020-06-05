@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Global Moderation Team
 
 **GMT** 로 흔히 알려져 있는 **Global Moderation Team** (이전에 Global Mod Team, Administrators 또는 "GreenBAT" 등으로 불려짐)은 주로 플레이어에 대한 중재, 관리자들과 커뮤니티에 관련된 사안에 중점을 두고 활동하는 멤버들로 이루어진 팀입니다.
@@ -50,7 +54,7 @@ Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임�
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | 필리핀어 | 채팅 관리, 포럼 관리, 기술 지원 |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | 프랑스어 | 채팅 관리 |
 | ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) |  | osu! development, Mappers' Guild 조직 |
-| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | 독일어 | Ranking Criteria, 포럼 관리, 채팅 관리 |
+| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | 독일어 | 포럼 관리, 채팅 관리 |
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Official team presence |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | 독일어 | 대회 관리 |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | 프랑스어 | 채팅 관리, 포럼 관리 |
@@ -91,7 +95,7 @@ Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임�
 | `#dutch` | [Nederlands](https://osu.ppy.sh/community/forums/69) | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) |
 | `#english` |  | *All moderators* |
 | `#filipino` | [Tagalog](https://osu.ppy.sh/community/forums/76) | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078), ![][flag_PH] [topecnz](https://osu.ppy.sh/users/2103927) |
-| `#finnish` | [Suomi](https://osu.ppy.sh/community/forums/24) | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731)  |
+| `#finnish` | [Suomi](https://osu.ppy.sh/community/forums/24) | ![][flag_FI] [Laurakko](https://osu.ppy.sh/users/7253731) |
 | `#french` | [Français](https://osu.ppy.sh/community/forums/34) | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108), ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089), ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059), ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983), ![][flag_FR] [Shiro](https://osu.ppy.sh/users/113005), ![][flag_FR] [Tommay](https://osu.ppy.sh/users/3132818) |
 | `#german` | [Deutsch](https://osu.ppy.sh/community/forums/37) | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985), ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343), ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405), ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907), ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) |
 | `#greek` |  |  |
@@ -127,7 +131,6 @@ Global Moderation Team은 채팅 채널과 포럼의 쾌적한 운용을 책임�
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
 [flag_HM]: /wiki/shared/flag/HM.gif
-[flag_HU]: /wiki/shared/flag/HU.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
 [flag_IT]: /wiki/shared/flag/IT.gif
 [flag_JP]: /wiki/shared/flag/JP.gif

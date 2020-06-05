@@ -1,4 +1,4 @@
-# Beatmap Veto
+# Beatmap veto
 
 The _beatmap veto_ allows a [Beatmap Nominator](/wiki/People/Beatmap_Nominators) to withhold a beatmap from Qualification if they feel there are significant issues regarding beatmap quality which make it unfit for the Ranked section. Seeking further discussion or clarification over any kind of quality issues which they feel need to be addressed before the map can proceed with Qualification is one of their main responsibilities.
 
@@ -21,7 +21,7 @@ Assuming the issues are satisfactorily resolved or justified with all parties in
 
 Beatmapping is extremely diverse and creative differences are to be expected. This is to be encouraged for the sake of creating a variety of content all players can enjoy! However, such differences can naturally lead to disagreements.
 
-If discussion is no longer progressing after 48 hours have passed since the veto was initiated, the beatmap creator or vetoing Beatmap Nominator can request for mediation. If no request is received, mediation will not begin and the mapper will be assumed to have given up on the beatmapset.
+If discussion is no longer progressing in the direction of a compromise, or is otherwise unable to be reasonably resolved, the beatmap creator or vetoing Beatmap Nominator can request for mediation. If no request is received, mediation will not begin and the mapper will be assumed to have given up on the beatmapset.
 
 During mediation, the randomly selected jury of Beatmap Nominators and members of the NAT will vote for whether to uphold or dismiss the veto anonymously. Once initiated, this process can take anywhere from a day to a week depending on how quickly members of the jury make their decisions.
 

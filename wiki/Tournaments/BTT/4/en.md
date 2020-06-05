@@ -1,8 +1,8 @@
 ---
 tags:
-- Beginners' Taiko Tournament 4
-- BTT 4
-- BTT4
+  - BTT
+  - BTT 4
+  - BTT4
 ---
 
 # Beginners' Taiko Tournament 4
@@ -29,9 +29,9 @@ The **Beginners' Taiko Tournament 4** (***BTT 4***) was a double elimination one
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 4 months of osu!supporter tag, unique profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 2 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 months of osu!supporter tag |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 4 months of osu!supporter tag, unique profile badge |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 months of osu!supporter tag |
 
 ![BTT 4 Winner Badge](img/badge.png)
 
@@ -46,7 +46,7 @@ The Beginners' Taiko Tournament 4 was run by various osu!taiko community members
 | Designer | ![][flag_CA] [mits](https://osu.ppy.sh/users/6256255) |
 | Streamer | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_US] [Rukairi](https://osu.ppy.sh/users/6956922), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095) |
 | Commentator | ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_DE] [Heam](https://osu.ppy.sh/users/4705120), ![][flag_US] [ITotallyGetThat](https://osu.ppy.sh/users/8770622), ![][flag_US] [Rukairi](https://osu.ppy.sh/users/6956922), ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) |
-| Referee | ![][flag_HK] [-GN Junior](https://osu.ppy.sh/users/3901754), ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_AU] [Cactie](https://osu.ppy.sh/users/5592409), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_PL] [Kondi](https://osu.ppy.sh/users/7382321), ![][flag_DE] [frz](https://osu.ppy.sh/users/6956922), ![][flag_AU] [mhyykl](https://osu.ppy.sh/users/7012650), ![][flag_MY] [Minisora](https://osu.ppy.sh/users/9627666), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715), ![][flag_US] [MyAngelManasa](https://osu.ppy.sh/users/6666316),  ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302) |
+| Referee | ![][flag_HK] [-GN Junior](https://osu.ppy.sh/users/3901754), ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_AU] [Cactie](https://osu.ppy.sh/users/5592409), ![][flag_CA] [DuckyDoom](https://osu.ppy.sh/users/3153062), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_PL] [Kondi](https://osu.ppy.sh/users/7382321), ![][flag_DE] [frz](https://osu.ppy.sh/users/6956922), ![][flag_AU] [mhyykl](https://osu.ppy.sh/users/7012650), ![][flag_MY] [Minisora](https://osu.ppy.sh/users/9627666), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715), ![][flag_US] [MyAngelManasa](https://osu.ppy.sh/users/6666316), ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302) |
 | Statistician | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
 | Wiki Editor | ![][flag_ID] [Naruk](https://osu.ppy.sh/users/7100002) |
 
@@ -58,8 +58,6 @@ The Beginners' Taiko Tournament 4 was run by various osu!taiko community members
 - [Livestream](https://www.twitch.tv/beginnerstaikotourney)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTe-EZbozFMJ5Bf75owX-fEaXjGSUS1Q5zX7d09p3npsyl1GUiTlkFcqNHKtTRiOM9Z4_nbkkHUZJ5H/pubhtml)**
 
------------------------
-
 ## Participants
 
 | Seed | Members |
@@ -69,19 +67,15 @@ The Beginners' Taiko Tournament 4 was run by various osu!taiko community members
 | Low | ![][flag_RU] [\_Suzuha](https://osu.ppy.sh/users/8445602), ![][flag_AU] [Neppy5000](https://osu.ppy.sh/users/12542518), ![][flag_IE] [GamingHamster](https://osu.ppy.sh/users/11304155), ![][flag_CA] [Sinaeb](https://osu.ppy.sh/users/1576095), ![][flag_BR] [KaikyBr](https://osu.ppy.sh/users/11816848), ![][flag_FR] [Heartswimm](https://osu.ppy.sh/users/10936319), ![][flag_PL] [Bartek22830](https://osu.ppy.sh/users/6404027), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711) |
 | Unseeded | ![][flag_DE] [HiddenDenki](https://osu.ppy.sh/users/6868059), ![][flag_EC] [Reo09](https://osu.ppy.sh/users/10211528), ![][flag_FI] [Ristpek](https://osu.ppy.sh/users/11819476), ![][flag_EC] [Mik3gam3r7919](https://osu.ppy.sh/users/10570577), ![][flag_PT] [Wilir-senpai](https://osu.ppy.sh/users/4566582), ![][flag_DE] [GinIkari](https://osu.ppy.sh/users/6083491), ![][flag_US] [james2998](https://osu.ppy.sh/users/13777712), ![][flag_MY] [koaywj](https://osu.ppy.sh/users/10879816) |
 
------------------------
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
 
 | Placing | Team(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_HK] [shikuro\_re](https://osu.ppy.sh/users/9338943) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_US] [LuriCookie](https://osu.ppy.sh/users/9517612) |
-
------------------------
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_HK] [shikuro\_re](https://osu.ppy.sh/users/9338943) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PL] [\_demo](https://osu.ppy.sh/users/3556891) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [LuriCookie](https://osu.ppy.sh/users/9517612) |
 
 ## Mappools
 
@@ -261,8 +255,6 @@ This competition has come to an end and resulted in the following podium:
 - DoubleTime
   - [Sawamura Spencer Eriri (CV: Oonishi Saori) - Blooming Lily (Volta) \[Kantan\]](https://osu.ppy.sh/beatmapsets/718081#taiko/1532923)
 
-------------------------------------------------------------------------
-
 ## Match Results
 
 ### Grand Finals
@@ -376,8 +368,6 @@ This competition has come to an end and resulted in the following podium:
 | **Reo09** ![][flag_EC] | **4** | 0 | ![][flag_PL] Bartek22830 | -win by default- |
 | Ristpek ![][flag_FI] | 1 | **4** | ![][flag_US] **\[Hypotato\]** | [#1](https://osu.ppy.sh/community/matches/50178952) |
 
-------------------------------------------------------------------------
-
 ## Ruleset
 
 ### General Rules
@@ -440,8 +430,6 @@ This competition has come to an end and resulted in the following podium:
 [flag_EC]: /wiki/shared/flag/EC.gif
 [flag_FI]: /wiki/shared/flag/FI.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_GR]: /wiki/shared/flag/GR.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
 [flag_IE]: /wiki/shared/flag/IE.gif

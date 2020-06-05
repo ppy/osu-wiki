@@ -58,7 +58,7 @@
 
 *Caution: If you are going to create article files using Windows Explorer, make sure the `File name extensions` option is enabled.* See [How to show or hide file name extensions in Windows Explorer](https://support.microsoft.com/en-us/help/865219/how-to-show-or-hide-file-name-extensions-in-windows-explorer) for instructions.
 
-1\. Use Windows Explorer, your favorite image editor, and/or your favorite text editor to create new files. If you are creating new articles or translations, rename the file to follow the [Locales in the Article Styling Criteria](/wiki/ASC/#locales).
+1\. Use Windows Explorer, your favorite image editor, and/or your favorite text editor to create new files. If you are creating new articles or translations, rename the file to follow the [Locales in the Article Styling Criteria](/wiki/ASC#locales).
 
 2\. Continue to [Committing and pushing](#committing-and-pushing).
 
@@ -78,7 +78,7 @@
 
 3\. It is best to separate each "big" action as a single commit.
 
-For example, as pictured above, [pippi](/wiki/Mascots/#pippi) had added an image file, modified the `en.md` file to add a title and a link to the image, and marked the translations as outdated. From this, we can have two commits, one for the changes that affected the `en.md` file and one for marking the translations as outdated.
+For example, as pictured above, [pippi](/wiki/Mascots#pippi) had added an image file, modified the `en.md` file to add a title and a link to the image, and marked the translations as outdated. From this, we can have two commits, one for the changes that affected the `en.md` file and one for marking the translations as outdated.
 
 4\. Select the files that are going to be committed.
 
@@ -100,4 +100,4 @@ For example, as pictured above, [pippi](/wiki/Mascots/#pippi) had added an image
 
 ## Finishing
 
-You can now go back to the [osu! wiki Contribution Guide](/wiki/owcg/#finishing) for the last piece of information regarding your pull request and changes.
+You can now go back to the [osu! wiki Contribution Guide](/wiki/owcg#finishing) for the last piece of information regarding your pull request and changes.

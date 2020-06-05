@@ -8,7 +8,7 @@ La plupart des problèmes techniques peuvent être résolus en effectuant une re
 
 ## Assistance générale osu!
 
-Pour les problèmes liés aux comptes, problèmes de paiement, suivis de bans, demandes de renseignements sur les tournois et **tout ce qui concerne une aide quelconque sur osu!**, s'il vous plaît envoyez un e-mail à [accounts@ppy.sh](mailto:accounts@ppy.sh) (requêtes de compte) ou [osu@ppy.sh](mailto:osu@ppy.sh) (autres demandes). Si l'un de nos membres de l'assistance est en ligne, vous pouvez aussi utiliser le petit bouton "?" dans le coin inférieur droit de la page que vous consultez.
+Pour les problèmes liés aux comptes, problèmes de paiement, suivis de bans, demandes de renseignements sur les tournois et **tout ce qui concerne une aide quelconque sur osu!**, s'il vous plaît envoyez un e-mail à [accounts@ppy.sh](mailto:accounts@ppy.sh) (requêtes de compte) ou [osu@ppy.sh](mailto:osu@ppy.sh) (autres demandes).
 
 ## Contacter peppy
 

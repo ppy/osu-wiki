@@ -21,21 +21,21 @@ El Equipo de Moderación Global es responsable del bienestar del chat/foro y se 
 | Nombre | Idioma(s) | Enfoque |
 | :-- | :-- | :-- |
 | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985) | Alemán | Moderación del chat |
-| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | | Moderación del chat |
+| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | Moderación del chat |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | Alemán | Moderación del chat |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Español | Moderación del chat, Moderación del foro |
-| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | Moderación del chat, Soporte técnico |
+| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  | Moderación del chat, Soporte técnico |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Español | Torneos oficiales, Moderación de beatmaps |
-| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | Soporte técnico |
+| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Soporte técnico |
 | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | Portugués, Japonés | Moderación del chat |
-| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | | Asistencia al jugador |
+| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) |  | Asistencia al jugador |
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Búlgaro | Presentador de osu! idol, Moderación del foro |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | Chino | Moderación del chat, Moderación del foro |
 | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | Francés | Moderación del chat, Moderación del foro, Moderación de beatmaps |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Polaco | Moderación del chat |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | Turco | Moderación del chat |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonesio | Moderación del chat, Moderación de beatmaps |
-| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | | Moderación del chat, Moderación de beatmaps |
+| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Moderación del chat, Moderación de beatmaps |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Español | Torneos oficiales |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Ruso | Moderación del chat |
 | ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | Francés, Ruso | Moderación del chat |
@@ -47,10 +47,10 @@ El Equipo de Moderación Global es responsable del bienestar del chat/foro y se 
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Holandés | Moderación del chat, Moderación del foro |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipino | Moderación del chat, Moderación del foro, Soporte técnico |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Francés | Moderación del chat |
-| ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935) | | Desarrollador de osu!, Organizador de la Mappers' Guild |
-| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Alemán | Ranking Criteria, Moderación del foro, Moderación del chat |
+| ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935) |  | Desarrollador de osu!, Organizador de la Mappers' Guild |
+| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Alemán | Moderación del foro, Moderación del chat |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | German | Torneos oficiales |
-| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | | Moderación del chat, Soporte técnico |
+| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) |  | Moderación del chat, Soporte técnico |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portugués | Moderación del chat |
 | ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | Español, Catalan | Moderación del chat |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | Español | Moderación del chat, Administración de la osu! wiki |

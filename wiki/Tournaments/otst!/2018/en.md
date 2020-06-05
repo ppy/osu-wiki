@@ -1,39 +1,37 @@
 ---
 tags:
-- otst! 2018
-- otst!2018
+  - otst
+  - otst!
 ---
 
 # osu! TV Size Tournament 2018
 
-![otst! 2018 Logo](img/logo.png)
+![otst! 2018 logo](img/logo.png)
 
-The **osu! TV Size Tournament 2018** (***otst! 2018***) was a double elimination four-on-four osu! tournament hosted by ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) and ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214). It was the 2nd installment of the osu! TV Size Tournament.
+The **osu! TV Size Tournament 2018** (***otst! 2018***) was a double elimination four-on-four osu! tournament hosted by ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) and ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214). It was the second installment of the osu! TV Size Tournament.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2018-01-12/2018-02-09 |
-| Live Drawings | 2018-02-10 (14:00 UTC) |
+| Registration phase | 2018-01-12/2018-02-09 |
+| Live drawings | 2018-02-10 (14:00 UTC) |
 | Group Stage | 2018-02-17/2018-02-25 |
-| Round of 32 | 2018-03-02/2018-03-03 |
+| Round of 32 | 2018-03-03/2018-03-04 |
 | Round of 16 | 2018-03-10/2018-03-11 |
 | Quarterfinals | 2018-03-17/2018-03-18 |
 | Semifinals | 2018-03-24/2018-03-25 |
-| Finals | 2018-03-31/2018-04-08 |
+| Finals | 2018-03-31/2018-04-07 |
 | Grand Finals | 2018-04-15 |
 
 ## Prizes
 
-In every tournament, people conquering a place on the podium are eligible to receive unique prizes created specifically for osu! TV Size Tournament 2018 winners. It is possible that these items change with every installment of the osu! TV Size Tournament.
-
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag for each team member |
 
-![otst! 2018 Winner Badge](img/badge.png)
+![otst! 2018 winner badge](img/badge.png)
 
 ## Organisation
 
@@ -41,14 +39,14 @@ The osu! TV Size Tournament 2018 was run by various osu! community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214) |
-| Map Selector | ![][flag_DE] [Chriz](https://osu.ppy.sh/users/2355080), ![][flag_UY] [Nightshiftt](https://osu.ppy.sh/users/4662596), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_MY] [Sikey](https://osu.ppy.sh/users/343057), ![][flag_GB] [Nega](https://osu.ppy.sh/users/3181083), ![][flag_DE] [Ikikaera](https://osu.ppy.sh/users/3922920) |
-| Streamer | ![][flag_PL] [Borsuk664](https://osu.ppy.sh/users/3075673), ![][flag_NL] [cavoeboy](https://osu.ppy.sh/users/7361815), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_US] [Spry](https://osu.ppy.sh/users/7069714), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_MY] [Vexine](https://osu.ppy.sh/users/4042706) |
-| Commentator | ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207), ![][flag_US] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_MY] [Jeffrey](https://osu.ppy.sh/users/4777134), ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013), ![][flag_UY] [Nightshiftt](https://osu.ppy.sh/users/4662596), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_PS] [Omaru](https://osu.ppy.sh/users/6574143) |
-| Statistician | ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013), ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568), ![][flag_HK] [-GN Junior](https://osu.ppy.sh/users/3901754) |
+| Manager | ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) |
+| Map selector | ![][flag_DE] [Chriz](https://osu.ppy.sh/users/2355080), ![][flag_DE] [Ikikaera](https://osu.ppy.sh/users/3922920), ![][flag_GB] [Nega](https://osu.ppy.sh/users/3181083), ![][flag_UY] [Nightshiftt](https://osu.ppy.sh/users/4662596), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_MY] [Sikey](https://osu.ppy.sh/users/343057) |
+| Streamer | ![][flag_PL] [Borsuk664](https://osu.ppy.sh/users/3075673), ![][flag_NL] [cavoeboy](https://osu.ppy.sh/users/7361815), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_MY] [Vexine](https://osu.ppy.sh/users/4042706), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_US] [Spry](https://osu.ppy.sh/users/7069714) |
+| Commentator | ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207), ![][flag_US] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_MY] [Jeffrey](https://osu.ppy.sh/users/4777134), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013), ![][flag_UY] [Nightshiftt](https://osu.ppy.sh/users/4662596), ![][flag_PS] [Omaru](https://osu.ppy.sh/users/6574143), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189) |
+| Statistician | ![][flag_HK] [-GN Junior](https://osu.ppy.sh/users/3901754), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013), ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302), ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568) |
 | Designer | ![][flag_DE] [Donger Deluxe](https://osu.ppy.sh/users/4838846) |
-| Referee | ![][flag_SG] [-Engel-](https://osu.ppy.sh/users/9424243), ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_NL] [cavoeboy](https://osu.ppy.sh/users/7361815), ![][flag_UY] [Daanit](https://osu.ppy.sh/users/6159669), ![][flag_VN] [Despirate](https://osu.ppy.sh/users/6969988), ![][flag_MY] [Espalza](https://osu.ppy.sh/users/8355574), ![][flag_SG] [ExImperia](https://osu.ppy.sh/users/5200499), ![][flag_DE] [Goose Hall](https://osu.ppy.sh/users/6586999), ![][flag_CA] [Hiicantpk](https://osu.ppy.sh/users/2065771), ![][flag_PL] [Houtarou Oreki](https://osu.ppy.sh/users/4185566), ![][flag_FR] [Kebab De Poche](https://osu.ppy.sh/users/6467693), ![][flag_SG] [Loslite](https://osu.ppy.sh/users/6398160), ![][flag_CA] [Meow-Mix](https://osu.ppy.sh/users/3021634), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_FR] [Spartan Plume](https://osu.ppy.sh/users/2553166), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189), ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013), ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568) |
-| Wiki Editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Referee | ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_NL] [cavoeboy](https://osu.ppy.sh/users/7361815), ![][flag_UY] [Daanit](https://osu.ppy.sh/users/6159669), ![][flag_VN] [Despirate](https://osu.ppy.sh/users/6969988), ![][flag_SG] [-Engel-](https://osu.ppy.sh/users/9424243), ![][flag_MY] [Espalza](https://osu.ppy.sh/users/8355574), ![][flag_SG] [ExImperia](https://osu.ppy.sh/users/5200499), ![][flag_DE] [Goose Hall](https://osu.ppy.sh/users/6586999), ![][flag_CA] [Hiicantpk](https://osu.ppy.sh/users/2065771), ![][flag_PL] [Houtarou Oreki](https://osu.ppy.sh/users/4185566), ![][flag_FR] [Kebab De Poche](https://osu.ppy.sh/users/6467693), ![][flag_SG] [Loslite](https://osu.ppy.sh/users/6398160), ![][flag_CA] [Meow-Mix](https://osu.ppy.sh/users/3021634), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_FR] [Spartan Plume](https://osu.ppy.sh/users/2553166), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189), ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013), ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568) |
+| Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -57,13 +55,11 @@ The osu! TV Size Tournament 2018 was run by various osu! community members.
 - [Livestream](https://twitch.tv/osu_otst)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRD_BDZNHkPsW_kA_01j5t_Op8A-p7dcOMHylq2bN-I6JA0b7fPXx0h3joibUhcbnshJwlKJ6f5L8n1/pubhtml)**
 
------------------------
-
 ## Participants
 
 | Team | Members |
 | :-- | :-- |
-| **:b:eezah** | **![][flag_US] [Yeezah](https://osu.ppy.sh/users/5829809)**, ![][flag_CA] [KingOKarma](https://osu.ppy.sh/users/4047696), ![][flag_SG] [Petite Loli](https://osu.ppy.sh/users/4262229), ![][flag_BR] [Dada](9119507), ![][flag_CA] [XgenSlayer](https://osu.ppy.sh/users/4510179), ![][flag_CA] [Darkform](https://osu.ppy.sh/users/3001648), ![][flag_US] [Pedofu](https://osu.ppy.sh/users/3934295), ![][flag_CA] [Inaban](https://osu.ppy.sh/users/2860339) |
+| **:b:eezah** | **![][flag_US] [Yeezah](https://osu.ppy.sh/users/5829809)**, ![][flag_CA] [KingOKarma](https://osu.ppy.sh/users/4047696), ![][flag_SG] [Petite Loli](https://osu.ppy.sh/users/4262229), ![][flag_BR] [Dada](https://osu.ppy.sh/users/9119507), ![][flag_CA] [XgenSlayer](https://osu.ppy.sh/users/4510179), ![][flag_CA] [Darkform](https://osu.ppy.sh/users/3001648), ![][flag_US] [Pedofu](https://osu.ppy.sh/users/3934295), ![][flag_CA] [Inaban](https://osu.ppy.sh/users/2860339) |
 | **:thowonking:** | **![][flag_CA] [Penguin UwU](https://osu.ppy.sh/users/3992043)**, ![][flag_CA] [\_DerF](https://osu.ppy.sh/users/8385190), ![][flag_CN] [MyAngelMiku](https://osu.ppy.sh/users/7025429), ![][flag_CA] [D3monOwn3r](https://osu.ppy.sh/users/7278983), ![][flag_CA] [pseudoBear](https://osu.ppy.sh/users/8719351), ![][flag_CA] [Itou](https://osu.ppy.sh/users/8070357), ![][flag_US] [SkyFlame](https://osu.ppy.sh/users/3552948), ![][flag_CA] [AlphaK1](https://osu.ppy.sh/users/10678529) |
 | **\[\[heck\]\]** | **![][flag_US] [Elcheer](https://osu.ppy.sh/users/4420014)**, ![][flag_US] [FailureAtOsu](https://osu.ppy.sh/users/6293158), ![][flag_US] [\[\[Pika\]\]](https://osu.ppy.sh/users/3937810), ![][flag_US] [squishi](https://osu.ppy.sh/users/8171954), ![][flag_US] [Lunicia](https://osu.ppy.sh/users/4369309), ![][flag_PL] [Daduch](https://osu.ppy.sh/users/8736217), ![][flag_CA] [Mashed](https://osu.ppy.sh/users/10021220), ![][flag_GB] [Teejay-san](https://osu.ppy.sh/users/9499753) |
 | **0.3 gamma** | **![][flag_US] [Jace](https://osu.ppy.sh/users/4394718)**, ![][flag_US] [idke](https://osu.ppy.sh/users/4650315), ![][flag_BR] [favela](https://osu.ppy.sh/users/5295743), ![][flag_LT] [osu player84](https://osu.ppy.sh/users/2562987), ![][flag_US] [tiuq](https://osu.ppy.sh/users/3692940), ![][flag_US] [Aireu](https://osu.ppy.sh/users/1650010), ![][flag_ID] [smh](https://osu.ppy.sh/users/1629553) |
@@ -130,7 +126,7 @@ The osu! TV Size Tournament 2018 was run by various osu! community members.
 
 ## Groups
 
-| Group | Top Seed | High Seed | Low Seed | Unseeded |
+| Group | Top seed | High seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
 | **A** | Floating up | :b:eezah | BüroklammerCarry | COCI |
 | **B** | nvnvnvnvn | Just Monika | pwntaterz | Big Black PP |
@@ -149,23 +145,21 @@ The osu! TV Size Tournament 2018 was run by various osu! community members.
 | **O** | RemkyBestTrap | LesProDeCoc | i got nothing | my pp just grew |
 | **P** | Stoof & Friends | NoName | :thowonking: | 4head |
 
------------------------
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Team(s) |
+| Placing | Team |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Rubber Conquest |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | Floating up |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | black dogleg |
-
------------------------
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Rubber Conquest |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Floating up |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | black dogleg |
 
 ## Mappools
 
 ### Finals
+
+*This mappool was played in Finals and Grand Finals.*
 
 **[Download the mappack here! (100 MB)](https://i.patyye.me/OTST-Finals-Mappool.zip)**
 
@@ -323,37 +317,45 @@ This competition has come to an end and resulted in the following podium:
   - **[TAKA respect for J.S.B - Ubertreffen (kiddly) \[Another\]](https://osu.ppy.sh/beatmaps/56830)**
   - **[Camellia - overcomplexification (byfar) \[byfar's Extra\]](https://osu.ppy.sh/beatmaps/934812)**
 
-------------------------------------------------------------------------
-
-## Match Results
+## Match results
 
 ### Grand Finals
 
-| Sunday, 2018-04-15 |  |  |  |  |
+Sunday, 15 April 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Rubber Conquest** | **7** | 0 | Floating up | [#1](https://osu.ppy.sh/community/matches/41674456) |
 
 ### Finals
 
-| Saturday, 2018-03-31 |  |  |  |  |
+Saturday, 31 March 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | OwO | 2 | **6** | **GOMEN JEFFREY** | [#1](https://osu.ppy.sh/community/matches/41279760) |
 | **shen mapo** | **6** | 4 | Azer | [#1](https://osu.ppy.sh/community/matches/41281118) |
 
-| Sunday, 2018-04-01 |  |  |  |  |
+Sunday, 1 April 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Rubber Conquest** | **7** | 0 | Floating up | [#1](https://osu.ppy.sh/community/matches/41302761) |
 | **Shigure Lovers** | **6** | 0 | GOMEN JEFFREY | [#1](https://osu.ppy.sh/community/matches/41312707) |
 | **black dogleg** | **6** | 1 | shen mapo | [#1](https://osu.ppy.sh/community/matches/41317121) |
 
-| Saturday, 2018-04-07 |  |  |  |  |
+Saturday, 7 April 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **black dogleg** | **7** | 5 | Shigure Lovers | [#1](https://osu.ppy.sh/community/matches/41475308) |
 | **Floating up** | **7** | 5 | black dogleg | [#1](https://osu.ppy.sh/community/matches/41492413) |
 
 ### Semifinals
 
-| Saturday, 2018-03-24 |  |  |  |  |
+Saturday, 24 March 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Gekidan PIKORI** | **6** | 3 | Sexy Snowmen | [#1](https://osu.ppy.sh/community/matches/41082092) |
 | no gugu | 2 | **6** | **Sayuri best girl** | [#1](https://osu.ppy.sh/community/matches/41085298) |
@@ -362,7 +364,9 @@ This competition has come to an end and resulted in the following podium:
 | **shen mapo** | **6** | 2 | Gekidan PIKORI | [#1](https://osu.ppy.sh/community/matches/41087160) |
 | hotel for lolis | 2 | **6** | **Gucci Gang** | [#1](https://osu.ppy.sh/community/matches/41102586), [#2](https://osu.ppy.sh/community/matches/41103320) |
 
-| Sunday, 2018-03-25 |  |  |  |  |
+Sunday, 25 March 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | black dogleg | 2 | **6** | **Floating up** | [#1](https://osu.ppy.sh/community/matches/41108342) |
 | **Azer** | **6** | 0 | Sayuri best girl | [#1](https://osu.ppy.sh/community/matches/41117934) |
@@ -373,27 +377,33 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-| Saturday, 2018-03-17 |  |  |  |  |
+Saturday, 17 March 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **no gugu** | **6** | 0 | Yomi yori kikoyu | -win by default- |
+| **no gugu** | **6** | 0 | Yomi yori kikoyu | *win by default* |
 | **Shigure Lovers** | **6** | 3 | Azer | [#1](https://osu.ppy.sh/community/matches/40908357) |
 | **black dogleg** | **6** | 1 | OwO | [#1](https://osu.ppy.sh/community/matches/40914420) |
 | lotus top 1 br | 1 | **6** | **Sexy Snowmen** | [#1](https://osu.ppy.sh/community/matches/40914974) |
 | **LesProDeCoc** | **6** | 2 | BüroklammerCarry | [#1](https://osu.ppy.sh/community/matches/40916651) |
 
-| Sunday, 2018-03-18 |  |  |  |  |
+Sunday, 18 March 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Rubber Conquest** | **6** | 0 | shen mapo | [#1](https://osu.ppy.sh/community/matches/40926538) |
 | ANGERY JEFFREY | 1 | **6** | **hotel for lolis** | [#1](https://osu.ppy.sh/community/matches/40927694) |
 | **Floating up** | **6** | 1 | Stoof & Friends | [#1](https://osu.ppy.sh/community/matches/40928722) |
-| **Gekidan PIKORI** | **6** | 0 | Just Monika | -win by default- |
+| **Gekidan PIKORI** | **6** | 0 | Just Monika | *win by default* |
 | **GOMEN JEFFREY** | **6** | 0 | Beginner's Luck | [#1](https://osu.ppy.sh/community/matches/40932261) |
 | **Sayuri best girl** | **6** | 1 | 0hm8frswhxkysexo | [#1](https://osu.ppy.sh/community/matches/40949126), [#2](https://osu.ppy.sh/community/matches/40950095) |
 | nvnvnvnvn | 2 | **6** | **Gucci Gang** | [#1](https://osu.ppy.sh/community/matches/40951339) |
 
 ### Round of 16
 
-| Saturday, 2018-03-10 |  |  |  |  |
+Saturday, 10 March 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Floating up** | **5** | 0 | lotus top 1 br | [#1](https://osu.ppy.sh/community/matches/40718635) |
 | GOMEN JEFFREY | 4 | **5** | **shen mapo** | [#1](https://osu.ppy.sh/community/matches/40718778) |
@@ -402,17 +412,21 @@ This competition has come to an end and resulted in the following podium:
 | cringepeek | 0 | **5** | **BüroklammerCarry** | [#1](https://osu.ppy.sh/community/matches/40722568) |
 | Gekidan PIKORI | 3 | **5** | **Stoof & Friends** | [#1](https://osu.ppy.sh/community/matches/40724876) |
 
-| Sunday, 2018-03-11 |  |  |  |  |
+Sunday, 11 March 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Shigure Lovers** | **5** | 0 | nvnvnvnvn | [#1](https://osu.ppy.sh/community/matches/40726425) |
 | **black dogleg** | **5** | 0 | Sayuri best girl | [#1](https://osu.ppy.sh/community/matches/40732922) |
 | **Yomi yori kikoyu** | **5** | 0 | i got nothing | [#1](https://osu.ppy.sh/community/matches/40735562) |
 | NoName | 2 | **5** | **Beginner's Luck** | [#1](https://osu.ppy.sh/community/matches/40753139) |
-| b | 0 | **5** | **Just Monika** | -win by default- |
+| b | 0 | **5** | **Just Monika** | *win by default* |
 
 ### Round of 32
 
-| Saturday, 2018-03-03 |  |  |  |  |
+Saturday, 3 March 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Shigure Lovers** | **5** | 0 | Yomi yori kikoyu | [#1](https://osu.ppy.sh/community/matches/40532109) |
 | **Gekidan PIKORI** | **5** | 1 | cringepeek | [#1](https://osu.ppy.sh/community/matches/40534186) |
@@ -421,7 +435,9 @@ This competition has come to an end and resulted in the following podium:
 | **Rubber Conquest** | **5** | 0 | b | [#1](https://osu.ppy.sh/community/matches/40547380) |
 | **nvnvnvnvn** | **5** | 0 | i got nothing | [#1](https://osu.ppy.sh/community/matches/40548278) |
 
-| Sunday, 2018-03-04 |  |  |  |  |
+Sunday, 4 March 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **black dogleg** | **5** | 0 | hotel for lolis | [#1](https://osu.ppy.sh/community/matches/40556183) |
 | hotel for dogs | 2 | **5** | **no gugu** | [#1](https://osu.ppy.sh/community/matches/40557149) |
@@ -436,13 +452,15 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-| Saturday, 2018-02-17 |  |  |  |  |
+Saturday, 17 February 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Doki-Doki Osu Club** | **4** | 0 | [#1](https://osu.ppy.sh/community/matches/40145386) |
-| **azur lane** | **4** | 0 | dab on haters | -win by default- |
-| **Floating up** | **4** | 0 | COCI | -win by default- |
+| **Doki-Doki Osu Club** | **4** | 0 | LemmeTeachDaWey | [#1](https://osu.ppy.sh/community/matches/40145386) |
+| **azur lane** | **4** | 0 | dab on haters | *win by default* |
+| **Floating up** | **4** | 0 | COCI | *win by default* |
 | **Floating up** | **4** | 0 | BüroklammerCarry | [#1](https://osu.ppy.sh/community/matches/40147609) |
-| **BüroklammerCarry** | **4** | 0 | COCI | -win by default- |
+| **BüroklammerCarry** | **4** | 0 | COCI | *win by default* |
 | **nvnvnvnvn** | **4** | 1 | Just Monika | [#1](https://osu.ppy.sh/community/matches/40150604) |
 | **Azer** | **4** | 0 | The Fine Ladies | [#1](https://osu.ppy.sh/community/matches/40154126) |
 | **RemkyBestTrap** | **4** | 2 | LesProDeCoc | [#1](https://osu.ppy.sh/community/matches/40155007) |
@@ -457,7 +475,9 @@ This competition has come to an end and resulted in the following podium:
 | **RemkyBestTrap** | **4** | 1 | my pp just grew | [#1](https://osu.ppy.sh/community/matches/40163059) |
 | **Gucci Gang** | **4** | 1 | hotel for lolis | [#1](https://osu.ppy.sh/community/matches/40164153) |
 
-| Sunday, 2018-02-18 |  |  |  |  |
+Sunday, 18 February 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Cauldron Bois V2** | **4** | 1 | The Fine Ladies | [#1](https://osu.ppy.sh/community/matches/40164247) |
 | **hotel for dogs** | **4** | 1 | Teamcito II | [#1](https://osu.ppy.sh/community/matches/40166029) |
@@ -465,7 +485,7 @@ This competition has come to an end and resulted in the following podium:
 | **Mac 10 Rush A** | **4** | 0 | Re:Member | [#1](https://osu.ppy.sh/community/matches/40170423) |
 | **black dogleg** | **4** | 0 | LemmeTeachDaWey | [#1](https://osu.ppy.sh/community/matches/40173834) |
 | **Floating up** | **4** | 0 | :b:eezah | [#1](https://osu.ppy.sh/community/matches/40173829) |
-| **:b:eezah** | **4** | 0 | COCI | -win by default- |
+| **:b:eezah** | **4** | 0 | COCI | *win by default* |
 | **Gekidan PIKORI** | **4** | 0 | Cocalombia | [#1](https://osu.ppy.sh/community/matches/40178095) |
 | Mac 10 Rush A | 3 | **4** | **Beginner's Luck** | [#1](https://osu.ppy.sh/community/matches/40177791) |
 | **Sexy Snowmen** | **4** | 3 | b | [#1](https://osu.ppy.sh/community/matches/40180724) |
@@ -487,9 +507,11 @@ This competition has come to an end and resulted in the following podium:
 | **Yomi yori kikoyu** | **4** | 0 | Cocalombia | [#1](https://osu.ppy.sh/community/matches/40191242) |
 | **nvnvnvnvn** | **4** | 2 | pwntaterz | [#1](https://osu.ppy.sh/community/matches/40196662) |
 | **Anime Tiddles** | **4** | 0 | sample text | [#1](https://osu.ppy.sh/community/matches/40196896) |
-| **:thowonking:** | **4** | 0 | 4head | -win by default- |
+| **:thowonking:** | **4** | 0 | 4head | *win by default* |
 
-| Saturday, 2018-02-24 |  |  |  |  |
+Saturday, 24 February 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **ANGRY JEFFREY** | **4** | 0 | Prob a drug ring | [#1](https://osu.ppy.sh/community/matches/40329694) |
 | **Gekidan PIKORI** | **4** | 0 | Accuracy^ | [#1](https://osu.ppy.sh/community/matches/40336529) |
@@ -501,15 +523,17 @@ This competition has come to an end and resulted in the following podium:
 | **Potato farmers** | **4** | 0 | Lolicops | [#1](https://osu.ppy.sh/community/matches/40343997) |
 | **GOMEN JEFFREY** | **4** | 1 | Beginner's Luck | [#1](https://osu.ppy.sh/community/matches/40343801) |
 | **Shigure Lovers** | **4** | 0 | cringepeek | [#1](https://osu.ppy.sh/community/matches/40345468) |
-| **Tilted Venrue** | **4** | 0 | Prob a drug ring | -win by default- |
+| **Tilted Venrue** | **4** | 0 | Prob a drug ring | *win by default* |
 | **Club Penguin** | **4** | 0 | Last Remote | [#1](https://osu.ppy.sh/community/matches/40347146) |
 | **shen mapo** | **4** | 0 | \[\[heck\]\] | [#1](https://osu.ppy.sh/community/matches/40347226) |
 | **black dogleg** | **4** | 0 | OwO | [#1](https://osu.ppy.sh/community/matches/40353101) |
 | **0hm8frswhxkysexo** | **4** | 2 | Club Penguin | [#1](https://osu.ppy.sh/community/matches/40353031) |
-| **Cocalombia** | **4** | 0 | Accuracy^ | -win by default- |
+| **Cocalombia** | **4** | 0 | Accuracy^ | *win by default* |
 | **Rubber Conquest** | **4** | 0 | \[\[heck\]\] | [#1](https://osu.ppy.sh/community/matches/40355130) |
 
-| Sunday, 2018-02-25 |  |  |  |  |
+Sunday, 25 February 2018:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Teamcito II** | **4** | 0 | Lolicops | [#1](https://osu.ppy.sh/community/matches/40356045) |
 | **Sexy Snowmen** | **4** | 0 | The Leftovers | [#1](https://osu.ppy.sh/community/matches/40357523) |
@@ -532,19 +556,17 @@ This competition has come to an end and resulted in the following podium:
 | **Rubber Conquest** | **4** | 0 | Tsutaerarenakata | [#1](https://osu.ppy.sh/community/matches/40384545) |
 | **hotel for dogs** | **4** | 0 | Lolicops | [#1](https://osu.ppy.sh/community/matches/40384533) |
 | cucumber control | 2 | **4** | **Prob a drug ring** | [#1](https://osu.ppy.sh/community/matches/40384519) |
-| RemkyBestTrap | 0 | **4** | **i got nothing** | -win by default- |
+| RemkyBestTrap | 0 | **4** | **i got nothing** | *win by default* |
 | **Sayuri best girl** | **4** | 0 | Club Penguin | [#1](https://osu.ppy.sh/community/matches/40386227) |
 | **black dogleg** | **4** | 0 | Doki-Doki Osu Club | [#1](https://osu.ppy.sh/community/matches/40386322) |
 | :b:eezah | 2 | **4** | **BüroklammerCarry** | [#1](https://osu.ppy.sh/community/matches/40386191) |
 | **Stoof & Friends** | **4** | 0 | NoName | [#1](https://osu.ppy.sh/community/matches/40388057) |
 | **NoName** | **4** | 2 | :thowonking: | [#1](https://osu.ppy.sh/community/matches/40389846) |
-| **Stoof & Friends** | **4** | 0 | 4head | -win by default- |
-
-------------------------------------------------------------------------
+| **Stoof & Friends** | **4** | 0 | 4head | *win by default* |
 
 ## Ruleset
 
-### Tournament Rules
+### Tournament rules
 
 1. There will be 6 mappools in total - Group stage, Round of 32, Round of 16, Quarter-Finals, Semi-Finals and Finals.
 2. Mappool sizes will progressively get bigger each round after Ro16. Starting with a 4/2/2/2/2/3 format.
@@ -555,7 +577,7 @@ This competition has come to an end and resulted in the following podium:
 7. Tiebreakers will be a BO3 instead of a single match.
    - `!roll`, higher roll picks first during a tiebreaker.
 
-### Winning Conditions
+### Winning conditions
 
 1. Group stage will be BO7, the first team to reach 4 points will win the match.
 2. Round of 32 and Round of 16 will be BO9, the first team to reach 5 points will win the match.
@@ -563,14 +585,14 @@ This competition has come to an end and resulted in the following podium:
 4. Finals and Grand Finals will be BO13, the first team to reach 7 points will win the match.
    - There will be a bracket reset match.
 
-### Tournament Registration
+### Tournament registration
 
 1. If a team member needs to be replaced after signing up, please contact a host **before** registration ends. No rosters can be modified after registration ends.
 2. Each member of a formed team needs to be in the Discord server to verify team's participation.
 3. If a player changes their name, they need to inform a tournament host or admin as soon as possible to avoid misunderstanding in a match.
 4. If a player exhibits suspicious behavior, including but not limited to suspected multi-accounting or cheating, their participation in the tournament might be prohibited, subject to tournament host discretion.
 
-### Scheduling Instructions
+### Scheduling instructions
 
 1. Scheduling will be based on team timezones to avoid as many no-shows as possible.
 2. If your team wants to reschedule a match, please have yours and the opposing team agree on the new time and have the team captain submit proof of agreement to a host at least **24 hours** before the match starts.
@@ -578,7 +600,7 @@ This competition has come to an end and resulted in the following podium:
    - Reminder 4v4s **must be played** in final stages.
 4. If you are certain that your team cannot make it to a match even after a reschedule, please tell a host and we will give you a loss for that match (this wastes less time for us and your opponent).
 
-### Match Instructions
+### Match instructions
 
 1. Referees have final decision in all matches so please respect their choices, but do not forget that they are human too and any disrespect will result in penalties.
 2. At the time of the match, referees will invite the captain into the lobby. If for any reason the team captain cannot make it to a match, please have a team member inform a referee before the match starts.
@@ -598,67 +620,67 @@ This competition has come to an end and resulted in the following podium:
 8. If a player ends the map failed, their score will not be counted. However, if the player is alive at the end of the map, then their score will be counted regardless of whether they failed during the map or not.
 9. Participants are allowed, however not required, to use mods in the tiebreaker maps.
 
-### Pick/Ban Timers
+### Pick/ban timers
 
 1. Picks and bans are limited to **1 minute** per pick/ban.
 2. Swapping players are now limited to **1 minute and 30 seconds** after the map has been selected.
 
-### New Rules
+### New rules
 
 1. Excessive match stalling or time-wasting by players are subject to punishments, decided upon by the referee.
 2. In the event of a disconnect, the team that lost the player may opt to replay the map if they desire. However, this will only be tolerated once.
 3. If the team that lost the player ends up winning regardless then the point still counts for them. There will be no replays.
 4. If the team that didn’t DC have a point advantage that the other team could not have made up even with their player present (i.e 5 mil+, depends on the mod type) then the map is not replayed.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AT]: /wiki/shared/flag/AT.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BE]: /wiki/shared/flag/BE.gif
-[flag_BG]: /wiki/shared/flag/BG.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_CO]: /wiki/shared/flag/CO.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_EE]: /wiki/shared/flag/EE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_GR]: /wiki/shared/flag/GR.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_HU]: /wiki/shared/flag/HU.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IE]: /wiki/shared/flag/IE.gif
-[flag_IL]: /wiki/shared/flag/IL.gif
-[flag_IS]: /wiki/shared/flag/IS.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_KZ]: /wiki/shared/flag/KZ.gif
-[flag_LT]: /wiki/shared/flag/LT.gif
-[flag_LV]: /wiki/shared/flag/LV.gif
-[flag_MA]: /wiki/shared/flag/MA.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_PE]: /wiki/shared/flag/PE.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_PS]: /wiki/shared/flag/PS.gif
-[flag_RO]: /wiki/shared/flag/RO.gif
-[flag_RS]: /wiki/shared/flag/RS.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SA]: /wiki/shared/flag/SA.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_SK]: /wiki/shared/flag/SK.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TR]: /wiki/shared/flag/TR.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_UA]: /wiki/shared/flag/UA.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_UY]: /wiki/shared/flag/UY.gif
-[flag_VN]: /wiki/shared/flag/VN.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
+[flag_BG]: /wiki/shared/flag/BG.gif "Bulgaria"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
+[flag_EE]: /wiki/shared/flag/EE.gif "Estonia"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_GR]: /wiki/shared/flag/GR.gif "Greece"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_HU]: /wiki/shared/flag/HU.gif "Hungary"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
+[flag_IL]: /wiki/shared/flag/IL.gif "Israel"
+[flag_IS]: /wiki/shared/flag/IS.gif "Iceland"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_KZ]: /wiki/shared/flag/KZ.gif "Kazakhstan"
+[flag_LT]: /wiki/shared/flag/LT.gif "Lithuania"
+[flag_LV]: /wiki/shared/flag/LV.gif "Latvia"
+[flag_MA]: /wiki/shared/flag/MA.gif "Morocco"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_PS]: /wiki/shared/flag/PS.gif "Palestinian Territory Occupied"
+[flag_RO]: /wiki/shared/flag/RO.gif "Romania"
+[flag_RS]: /wiki/shared/flag/RS.gif "Serbia"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SA]: /wiki/shared/flag/SA.gif "Saudi Arabia"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_SK]: /wiki/shared/flag/SK.gif "Slovakia"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_UA]: /wiki/shared/flag/UA.gif "Ukraine"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_UY]: /wiki/shared/flag/UY.gif "Uruguay"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"

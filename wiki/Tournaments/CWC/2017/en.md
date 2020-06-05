@@ -29,9 +29,9 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $300 per team member, exclusive osu! tumbler and pins, unique profile badge, "osu!catch Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $160 per team member, exclusive osu! tumbler and pins, unique profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $80 per team member, exclusive osu! tumbler and pins, unique profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | $300 per team member, exclusive osu! tumbler and pins, unique profile badge, "osu!catch Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | $160 per team member, exclusive osu! tumbler and pins, unique profile badge |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | $80 per team member, exclusive osu! tumbler and pins, unique profile badge |
 
 ## Organisation
 
@@ -74,7 +74,7 @@ The osu!catch World Cup 2017 was run by various community members by distributin
 | ![][flag_IT] | **Italy** | **[Pizza Kun](https://osu.ppy.sh/users/768609)**, [- Resh -](https://osu.ppy.sh/users/8494477), [ArMa79](https://osu.ppy.sh/users/4982799), [Trollingor](https://osu.ppy.sh/users/4144266), [KuroGX](https://osu.ppy.sh/users/6581584), [Karym](https://osu.ppy.sh/users/5220794) |
 | ![][flag_MY] | **Malaysia** | **[Shadow Fear](https://osu.ppy.sh/users/635485)**, [Kagari](https://osu.ppy.sh/users/3366264), [murutattack](https://osu.ppy.sh/users/4480237), [Future\_miku95](https://osu.ppy.sh/users/2351567), [Lute](https://osu.ppy.sh/users/4011799), [Gilochan](https://osu.ppy.sh/users/598204) |
 | ![][flag_MX] | **Mexico** | **[Ponchiwi](https://osu.ppy.sh/users/1089040)**, [daxeroz](https://osu.ppy.sh/users/1170156), [Astrea](https://osu.ppy.sh/users/3845678), [Jusenkyo](https://osu.ppy.sh/users/1237535), [Cxlucha](https://osu.ppy.sh/users/5063961), [Kashou](https://osu.ppy.sh/users/4046640) |
-| ![][flag_NL] | **Netherlands** | **[Sartan](https://osu.ppy.sh/users/4100941)**, [Wesley](https://osu.ppy.sh/users/2407265), [AniCore](https://osu.ppy.sh/users/3212806), [Enchant](https://osu.ppy.sh/users/4744367), [b-a-d-s123](https://osu.ppy.sh/users/3656717), [CakeAndBanana](https://osu.ppy.sh/users/1981424)  |
+| ![][flag_NL] | **Netherlands** | **[Sartan](https://osu.ppy.sh/users/4100941)**, [Wesley](https://osu.ppy.sh/users/2407265), [AniCore](https://osu.ppy.sh/users/3212806), [Enchant](https://osu.ppy.sh/users/4744367), [b-a-d-s123](https://osu.ppy.sh/users/3656717), [CakeAndBanana](https://osu.ppy.sh/users/1981424) |
 | ![][flag_NZ] | **New Zealand** | **[Sakurano](https://osu.ppy.sh/users/2730486)**, [TheBeany](https://osu.ppy.sh/users/8146397), [CoolEVT](https://osu.ppy.sh/users/3252653), [Karma](https://osu.ppy.sh/users/3768185), [Trumpet](https://osu.ppy.sh/users/5405204), [Kiwi](https://osu.ppy.sh/users/3167450) |
 | ![][flag_NO] | **Norway** | **[Cameragod](https://osu.ppy.sh/users/4974088)**, [Groex](https://osu.ppy.sh/users/3970664), [Divine Cake](https://osu.ppy.sh/users/3636998), [Mile](https://osu.ppy.sh/users/2760954), [Benny-](https://osu.ppy.sh/users/4023183), [Lanki](https://osu.ppy.sh/users/2535200) |
 | ![][flag_PH] | **Philippines** | **[-Nicotine](https://osu.ppy.sh/users/4818935)**, [- Kielzu -](https://osu.ppy.sh/users/6221114), [Chloebe](https://osu.ppy.sh/users/4577865), [Lobsterr](https://osu.ppy.sh/users/6575915), [Crowley](https://osu.ppy.sh/users/6341006), [Roido](https://osu.ppy.sh/users/6829103) |
@@ -129,7 +129,7 @@ The osu!catch World Cup 2017 was run by various community members by distributin
 
 ## Semifinals
 
-**[Download the mappack here! (97 MB)](www.mediafire.com/file/ikgcpwt5p719p0c/CWC_2017_Semifinals.rar)**
+**[Download the mappack here! (97 MB)](https://www.mediafire.com/file/ikgcpwt5p719p0c/CWC_2017_Semifinals.rar)**
 
 - NoMod
   - [Function Phantom - Algebra (Spectator) \[Crystal Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/468281#fruits/1001619)
@@ -155,7 +155,7 @@ The osu!catch World Cup 2017 was run by various community members by distributin
 
 ## Quarterfinals
 
-**[Download the mappack here! (102 MB)](www.mediafire.com/file/91ve9g5dpkg24up/CWC_2017_Quarterfinals.rar)**
+**[Download the mappack here! (102 MB)](https://www.mediafire.com/file/91ve9g5dpkg24up/CWC_2017_Quarterfinals.rar)**
 
 - NoMod
   - [dj MAX STEROID - Arabian Rave Night (Ascendance) \[Black Another\]](https://osu.ppy.sh/beatmapsets/592980#fruits/1254591)

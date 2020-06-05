@@ -1,4 +1,4 @@
-# Commands
+# Storyboard scripting commands
 
 Each [object declaration](/wiki/Storyboard_Scripting/Objects) is followed by one or more **commands**. These tell the object to do something, called an **event**, such as move or change colour. You can think of each command as affecting a variable (or set of variables) for that object; once a command is finished, the object keeps those values until another command changes it. Objects who don't have a particular type of command used will use the default value for that variable.
 
@@ -10,7 +10,7 @@ where:
 
 -   _ can be a space instead of an underscore.
 -   (event) is a letter/pair of letters, corresponding to one of the commands below.
--   (easing) indicates if the command should "accelerate". See http://easings.net. Valid values are:
+-   (easing) indicates if the command should "accelerate". See [Easing Functions Cheat Sheet](http://easings.net). Valid values are:
     -   0 - Linear: no easing
     -   1 - Easing Out: the changes happen fast at first, but then slow down toward the end
     -   2 - Easing In: the changes happen slowly at first, but then speed up toward the end
@@ -52,7 +52,7 @@ where:
 In some special cases, various [shorthands](/wiki/Storyboard_Scripting/Shorthand) can be used.
 
 An object stays active until its last command (time-wise) is done. After that, it disappears. If you simply want an object to stay on-screen, without anything happening to it, staying at its default location, use Fade (F).
-![Setting a(n) sprite/object with their commands to do (Event).](SBS_Base_C.jpg "Setting a(n) sprite/object with their commands to do (Event).")
+![Setting a(n) sprite/object with their commands to do (Event).](img/SBS_Base_C.jpg "Setting a(n) sprite/object with their commands to do (Event).")
 
 ## Basic commands
 
@@ -63,7 +63,7 @@ These are the fundamental commands for any object. The commands are easy to use 
 `_F,(easing),(starttime),(endtime),(start_opacity),(end_opacity)`
 
 | Affects | Value definition | Default value |
-| ------- | ---------------- | ------------- |
+| :-- | :-- | :-- |
 | The opacity of the object (how transparent it is). | 0 to 1, with decimals accepted. 0 is invisible, 1 is fully visible. | 1 |
 
 where:
@@ -95,7 +95,7 @@ See the [shorthand](/wiki/Storyboard_Scripting/Shorthand) section for an explana
 `M,(easing),(starttime),(endtime),(start_x),(start_y),(end_x),(end_y)`
 
 | Affects | Value definition | Default value |
-| ------- | ---------------- | ------------- |
+| :-- | :-- | :-- |
 | The location of the object in the play area. | An (x,y) position, as specified above. Decimals are allowed. | The location defined in the [object declaration](/wiki/Storyboard_Scripting/Objects). |
 
 where:
@@ -150,7 +150,7 @@ These are extra commands for an object to use. These commands are quite advanced
 `_S,<easing>,<starttime>,<endtime>,<start_scale>,<end_scale>`
 
 | Affects | Value definition | Default value |
-| ------- | ---------------- | ------------- |
+| :-- | :-- | :-- |
 | The size of the object relative to its original size (as it appears in its file). Example: For a file that originally is 100x100, a scale factor of 2 will make the object take up 200x200 pixels. The scaling is affected by the object's origin (Centre, TopLeft, etc.) | The multiplier of the object's original size, from 0 upward. Decimals allowed. | 1 |
 
 where:
@@ -191,7 +191,7 @@ So,
 `_R,<easing>,<starttime>,<endtime>,<start_rotate>,<end_rotate>`
 
 | Affects | Value definition | Default value |
-| ------- | ---------------- | ------------- |
+| :-- | :-- | :-- |
 | The amount an object is rotated from its original image, in radians, clockwise. | Any real number; negative is anti-clockwise/counterclockwise rotation, positive is clockwise. Exceeding 2*pi either way will continue rotating as many times as you'd like. | 0 |
 
 where:
@@ -218,7 +218,7 @@ _R,0,47210,47810,0,-25.133
 `_C,(easing),(starttime),(endtime),(start_r),(start_g),(start_b),(end_r),(end_g),(end_b)`
 
 | Affects | Value definition | Default value |
-| ------- | ---------------- | ------------- |
+| :-- | :-- | :-- |
 | The virtual light source colour on the object. The colours of the pixels on the object are determined subtractively. | A colour triple, written in decimal (byte). The first value is red (R), the second green (G), and the third blue (B). Each can vary from 0 to 255. (0,0,0) indicates black, (255,255,255) indicates white (original image). Transparency is not affected. | (255,255,255) |
 
 where:

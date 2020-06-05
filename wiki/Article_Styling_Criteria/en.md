@@ -1,4 +1,4 @@
-# Article Styling Criteria
+# Article styling criteria
 
 *For news posts, see: [News Styling Criteria](/wiki/News_Styling_Criteria)*
 
@@ -17,7 +17,7 @@ The ASC only applies to files saved in the `wiki` directory.
 Listed below are the properly-supported locales for the osu! wiki. The file name is the two character language code ([ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes "Wikipedia")) followed by `.md`. If there is a country variance of a language, the file name is the two character language code ([ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes "Wikipedia")) followed by a hyphen (`-`), the two character country code ([ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 "Wikipedia")), then `.md`.
 
 | File Name | Locale Name | Native Script |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | `en.md` | English | English |
 | `be.md` | Belarusian | Беларуская мова |
 | `bg.md` | Bulgarian | Български |
@@ -54,58 +54,58 @@ If your language is not listed above, you can either append `?locale={langcode}`
 
 ### Content parity
 
-*Note: This does not apply to articles originally written in a language other than English.*
-
 Translations are subject to strict content parity with their English article, in the sense that they must have the same message, regardless of grammar and syntax. Any changes to the translations' meanings must be accompanied by equivalent changes to the English article.
+
+There are some cases where the content is allowed to differ:
+
+- Articles originally written in a language other than English (in this case, English should act as the translation)
+- Explanations of English words that are common terms in the osu! community
+- External links
+- Tags
 
 ### Metadata
 
-Metadata must be placed at the very top of the file. An empty line must follow it.
+Metadata (sometimes called "front matter") must be placed at the very top of the file. It is written in [YAML](https://en.wikipedia.org/wiki/YAML#Example "YAML Wikipedia article") and describes additional information about the article. Metadata must be surrounded by three hyphens (`---`) on the lines above and below it, and an empty line must follow it.
+
+#### Articles that need help
+
+The `needs_cleanup` tag may be added to articles that need rewriting or formatting help. It is also acceptable to open an issue on GitHub for this purpose.
+
+For example:
+
+```yaml
+needs_cleanup: true
+```
 
 #### Outdated articles
 
 *Note to translators: The `outdated` mark must be removed after updating the translation of an article.*
 
-Translated articles that are outdated must use the `outdated` mark when the English variant is updated. The markup is as follows:
+Translated articles that are outdated must use the `outdated` mark when the English variant is updated. English articles may also become outdated when the content they contain is misleading or no longer relevant. For example:
 
-```markdown
----
+```yaml
 outdated: true
----
-
-# Beatmaps
 ```
 
 #### Tagging articles
 
-Tagging articles will help the website's search engine query articles better. Tags should use lowercase letters. It may be unlikely that this is needed for most articles; however, the markup is as follows:
+Tags help the website's search engine query articles better. Tags should be written in the same language as the article, and use lowercase letters where applicable.
 
-```markdown
----
+For example, an article called "Skinning tutorial" might include these tags:
+
+```yaml
 tags:
-  - tags go here
-  - keep them in a list like this
-  - skin
-  - skinning
-  - how to skin
----
-
-# Skinning
+  - guide
+  - how to
+  - skins
 ```
 
-#### Outdated and tagged articles
+#### Translations without reviews
 
-In the case that an article is outdated and has tags, the metadata may look like this:
+Sometimes, translations are added to the wiki without review from other native speakers of the language. In this case, the `no_native_review` mark is added to let future translators know that it may need to be checked again. For example:
 
-```markdown
----
-outdated: true
-tags:
-  - ASC
-  - wiki standards
----
-
-# Article Styling Criteria
+```yaml
+no_native_review: true
 ```
 
 ### Folder names
@@ -856,7 +856,7 @@ These words must be spelt as follows (spacing must match):
 - `gameplay`
 - `hit burst`
 - `hit circle`
-- `hit sound`
+- `hitsound`
 - `in-game`
 - `playstyle`
 - `slider tick`

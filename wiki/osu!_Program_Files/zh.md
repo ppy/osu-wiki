@@ -5,14 +5,14 @@ outdated_since: cf41ce8611b21171619b93d9c57aa61f95270db7
 
 # osu! 目录文件
 
-![在资源管理器下的 osu! 目录文件](Osu!sys.jpg "在资源管理器下的 osu! 目录文件")
+![在资源管理器下的 osu! 目录文件](img/osu!-program-files.png "在资源管理器下的 osu! 目录文件")
 
 ## 位置
 
 ### Windows
 
 | 现版本默认路径 | 旧的程序安装路径 |
-| ------------------------ | ---------------------- |
+| :-- | :-- |
 | `C:\Users\<Username>\AppData\Local\osu!` | `C:\Program Files\osu!` 或 `C:\Program Files(x86)\osu!` （ 64 位 Windows 7+ 系统） |
 > "`C:`" 即为你安装 osu! 的硬盘分区。
 

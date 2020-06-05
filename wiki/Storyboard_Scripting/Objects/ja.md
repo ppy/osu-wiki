@@ -4,7 +4,7 @@ outdated: true
 
 # SB オブジェクト/スプライト
 
-![SB object/sprite call](SBS_Sprite.jpg "SB object/sprite call")
+![SB object/sprite call](img/SBS_Sprite.jpg "SB object/sprite call")
 
 *[osu!でのヒットオブジェクトに関しては](/wiki/Game_Modes/osu!)[Beatmappingと](/wiki/Beatmapping)[Hit Objects](/wiki/Hit_Objects)* を参照してください。
 
@@ -15,7 +15,7 @@ outdated: true
 .osbか.osuの`[Events]` のセクションに1行で記述することで、静止画やアニメーションを呼び出すことができます。
 
 | 基本画像 | 変化する画像 |
-| ----------- | ------------ |
+| :-- | :-- |
 | Sprite,(layer),(origin),"(filepath)",(x),(y) | Animation,(layer),(origin),"(filepath)",(x),(y),(frameCount),(frameDelay),(looptype) |
 
 Where:
@@ -60,7 +60,7 @@ Where:
 ## 具体例
 
 | 基本画像 | 変化する画像 |
-| ----------- | ------------ |
+| :-- | :-- |
 | Sprite,(layer),(origin),"(filepath)",(x),(y) | Animation,(layer),(origin),"(filepath)",(x),(y),(frameCount),(frameDelay),(looptype) |
 
 いくつかのオブジェクトの宣言例:

@@ -29,9 +29,9 @@ In every tournament, people conquering a place on the podium are eligible to rec
 
 | Place | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 50% of the raised prize pool, unique profile badge, special user title |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 38% of the raised prize pool, unique profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 12% of the raised prize pool, unique profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 50% of the raised prize pool, unique profile badge, special user title |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 38% of the raised prize pool, unique profile badge |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 12% of the raised prize pool, unique profile badge |
 
 ## Organisation
 
@@ -74,7 +74,7 @@ The osu!catch World Cup 2016 was run by various community members by distributin
 | ![][flag_JP] | **Japan** | **[giru HD](https://osu.ppy.sh/users/707456)**, [noraRcat](https://osu.ppy.sh/users/883939), [Molqus](https://osu.ppy.sh/users/1927193), [INO](https://osu.ppy.sh/users/904219), [rullu](https://osu.ppy.sh/users/595140), [ririkun](https://osu.ppy.sh/users/318357) |
 | ![][flag_MY] | **Malaysia** | **[Future\_miku95](https://osu.ppy.sh/users/2351567)**, [Kagari](https://osu.ppy.sh/users/3366264), [murutattack](https://osu.ppy.sh/users/4480237), [SYAHME](https://osu.ppy.sh/users/3886013), [Lute](https://osu.ppy.sh/users/4011799), [QHideaki13](https://osu.ppy.sh/users/733998) |
 | ![][flag_MX] | **Mexico** | **[messi](https://osu.ppy.sh/users/1600437)**, [Ponchiwi](https://osu.ppy.sh/users/1089040), [Astrea](https://osu.ppy.sh/users/3845678), [ChibiOzed](https://osu.ppy.sh/users/1690328), [blacklotus](https://osu.ppy.sh/users/2115337), [Cxlucha](https://osu.ppy.sh/users/5063961) |
-| ![][flag_NL] | **Netherlands** | **[Nebux](https://osu.ppy.sh/users/2342051)**, [Wesley](https://osu.ppy.sh/users/2407265), [Sartan](https://osu.ppy.sh/users/4100941), [- Yuri -](https://osu.ppy.sh/users/3212806), [slimmecodo1](https://osu.ppy.sh/users/1800103), [CakeAndBanana](https://osu.ppy.sh/users/1981424)  |
+| ![][flag_NL] | **Netherlands** | **[Nebux](https://osu.ppy.sh/users/2342051)**, [Wesley](https://osu.ppy.sh/users/2407265), [Sartan](https://osu.ppy.sh/users/4100941), [- Yuri -](https://osu.ppy.sh/users/3212806), [slimmecodo1](https://osu.ppy.sh/users/1800103), [CakeAndBanana](https://osu.ppy.sh/users/1981424) |
 | ![][flag_NZ] | **New Zealand** | **[Crono](https://osu.ppy.sh/users/4249989)**, [Trumpet](https://osu.ppy.sh/users/5405204), [KillxorKile](https://osu.ppy.sh/users/3167450), [- Banana -](https://osu.ppy.sh/users/2004337), [Health](https://osu.ppy.sh/users/88973) |
 | ![][flag_NO] | **Norway** | **[Razor Sharp](https://osu.ppy.sh/users/3414261)**, [Taboki](https://osu.ppy.sh/users/2075483), [Cameragod](https://osu.ppy.sh/users/4974088), [Mile](https://osu.ppy.sh/users/2760954), [Vanilla-](https://osu.ppy.sh/users/3400701), [RazorFanGirl](https://osu.ppy.sh/users/2535200) |
 | ![][flag_PE] | **Peru** | **[AleZer0](https://osu.ppy.sh/users/214574)**, [The Fire Tiger](https://osu.ppy.sh/users/7240612), [-Sh1n1-](https://osu.ppy.sh/users/1957638), [LzeusL](https://osu.ppy.sh/users/2173232), [MONOKUMA-](https://osu.ppy.sh/users/3751796), [Alen J Sempai](https://osu.ppy.sh/users/2712301) |

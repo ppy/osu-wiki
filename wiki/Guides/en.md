@@ -6,13 +6,13 @@ Below is a sorted list of guides created by members of the osu!community; most o
 
 *Main page: [Beatmapping](/wiki/Beatmapping)*
 
-- [Adding Custom Hit Sounds](Adding_Custom_Hit_Sounds)
+- [Adding Custom Hitsounds](Adding_Custom_Hitsounds)
 - [Audio Editing](Audio_Editing)
 - [Changing the Artist or Title](Changing_the_Artist_or_Title)
 - [Changing the Title Text](/wiki/Beatmaps/Title_Text#changing-title-text)
 - [Collab Information](Collab_Information)
 - [Compressing Files](Compressing_Files)
-- [Custom Hit Sound Library](Custom_Hit_Sound_Library)
+- [Custom Hitsound Library](Custom_Hitsound_Library)
 - [Custom Sample Overrides](Custom_Sample_Overrides)
 - [Getting Songs From Video Games](Getting_Songs_From_Video_Games)
 - [How to Time Songs](How_to_Time_Songs)
@@ -27,7 +27,6 @@ Below is a sorted list of guides created by members of the osu!community; most o
 *Main page: [Modding](/wiki/Modding)*
 
 - [Getting Your Map Modded](Getting_Your_Map_Modded)
-- [How To Get Your Map Ranked](How_To_Get_Your_Map_Ranked)
 
 ## Playing
 
