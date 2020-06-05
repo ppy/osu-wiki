@@ -1,5 +1,3 @@
-<!-- TODO: tons of things to add here. might be related to Projects article -->
-
 # Nasıl yardım edebilirsiniz!
 
 Diğer pek çok oyun gibi, osu! da, farklı yeteneklere ve amaçları olan, dünyanın dört bir tarafından bir araya gelmiş, epey enerjik bir topluluğa sahiptir.
@@ -70,8 +68,8 @@ Onları daha iyi hale getirmek için yardımcı olabilirsiniz, aşağıdaki alan
 
 Eski bir atasözü çözümün bir parçası olun, sorunun değil, der. Topluluğun daha aydınlık bir yer olmasını sağlayarak osu!'ya yardım edebilirsiniz. İnsanlar şikayet eder, ama topluluk içerisindeki atmosferi aydınlatmanın pek çok yolu var:
 
-- Birbirinize karşı sıcakkanlı olun. Hayat tartışmak için fazla kısa.
-- [Hilecileri gördüğünüzde raporlayın](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play). Başka mecralarda onlar hakkında yakınmayın, basitçe `!report <kullanıcı adı> galiba hile yapıyor` yazıp göndermek dakikalar belki saatler içerisinde sorunlarınızı çözecektir.
+- Birbirinize karşı arkadaş canlısı davranın. Hayat tartışmak için fazla kısa.
+- [Hilecileri gördüğünüzde raporlayın](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play). Başka mecralarda onlar hakkında yakınmayın, basitçe `!report <kullanıcı adı> galiba hile yapıyor` yazıp göndermek saatler hatta belki dakikalar içerisinde sorunlarınızı çözecektir.
 - Olumsuz durumlarda aracılık etme zahmetine girin ve onları olumlu sonuçlara dönüştürün.
 
 Bu makale osu! topluluğuna daha ne kadar çok yardım edebileceğinizi kapsamasa da, sadece oyunu oynamak bile osu!'yu daha da harika hale getirebilir!
