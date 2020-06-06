@@ -285,7 +285,7 @@ Hieronder zijn Grade schermen van de andere gamemodes te zien.
 
 ### Online Rangschikking
 
-![](img/Osu!_Online_score.jpg "Voorbeeld van een osu!online score")
+![](img/osu!_online_score_updated2020.jpg "Voorbeeld van een osu!online score")
 
 Dit is jouw online leaderboard. Je kunt hier komen door naar beneden te scrollen op het resultatenscherm. De lokale rangschikking zal jouw naam en score tonen zoals gebruikelijk.
 

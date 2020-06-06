@@ -284,7 +284,7 @@ Below are the grade screens of the other game modes.
 
 ### Online Leaderboard
 
-![](img/Osu!_Online_score.jpg "An example of an osu!online score")
+![](img/osu!_online_score_updated2020.jpg "An example of an osu!online score")
 
 This is your online leaderboard. You can go here by scrolling down from the results screen. Your Local Scoreboard will show your name and the score as usual.
 
