@@ -448,6 +448,20 @@ Turning on VSync or playing in Windowed or Borderless mode will introduce a *sli
 
 Later NVidia graphics cards have a global option in the NVidia Control Panel to set the global refresh rate to a setting called 'Fast', which will also fix this issue.
 
+#### I receive some sort of server-side error when trying to play online!
+
+**The servers could be having issues.**
+
+Check the [osu! server status page](https://status.ppy.sh/) to see if there are any ongoing issues with the servers.
+
+**This can also happen if you are using a shared internet connection, a proxy, or VPN.**
+
+Try using another proxy or VPN provider - if all else fails, send in a support ticket via mail to [accounts@ppy.sh](mailto:accounts@ppy.sh).
+
+If you are not using any of the above, then you will need to send in a support ticket, as your connection has likely been blacklisted in error.
+
+Tor or networks associated with the Tor relay will not connect to the game servers for the most part. This is to avoid malicious use.
+
 ### Online features
 
 #### I can't sign in or connect to the game at all!
