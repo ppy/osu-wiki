@@ -4,16 +4,16 @@ osu! yeni başlayanlar kılavuzuna hoşgeldiniz. osu!'nun dünyası bazen son de
 
 ## Girdi Yöntemleri
 
-*Ana sayfa: [Oyun tarzları](/wiki/Play_Styles)*
+*Ana sayfa: [Oyun Tarzları](/wiki/Play_Styles)*
 
-Varsayılan olarak, pek çok oyuncu oyuna fare ile başlayacaktır, zira erişmesi en hızlı olan hedef alma aracı açık ara odur. Ama imleci kontrol edip daireleri patlatmanın birden fazla yolu vardır:
+Varsayılan olarak, pek çok oyuncu oyuna fare ile başlayacaktır, zira erişmesi en hızlı olan hedef alma aracı açık ara odur. Ama aslında imleci kontrol edip daireleri patlatmanın birden fazla yolu vardır:
 
 - Fare
 - Tablet
 - Dokunmatik Ekran
 - Klavyeyle Tıklamak
 
-İmleci kontrol etmenin başka yolları da vardır (Wiimote, hareket sensörü, vb.) ancak bu kılavuzun çerçevesi gereği, yukarıda belirtilen yollar üstüne yoğunlaşacağız.
+İmleci kontrol etmenin başka yolları da vardır (Wiimote, hareket sensörü, vb.) ancak bu kılavuzun çerçevesi gereği, yukarıda sabitlenen dört nokta üzerinde yoğunlaşacağız.
 
 ### Fare Oynanışı
 
@@ -56,11 +56,11 @@ Fare, tablet ya da diğer herhangi bir girdi aygıtı ile birlikte dairelere tı
 
 ### İsabetlilik ve Zamanlama
 
-osu! oynarken en önemli faktörlerden biri diğer ritim oyunlarında olduğu gibi zamanlamanızdır! Eğer çokça müzik dinlediyseniz, kapması kolay olsa gerek. İsabetlilik ve zamanlamanın amacı notalara doğru zamanda olabildiğince isabetli şekilde basmaktır.
+osu! oynarken en önemli faktörlerden biri diğer ritim oyunlarında olduğu gibi zamanlamanızdır! Bu bağlamda, eğer çokça müzik dinlediyseniz, kapması kolay olsa gerek. İsabetlilik ve zamanlamanın amacı notalara doğru zamanda olabildiğince isabetli şekilde basmaktır.
 
 Oyundaki her bir objenin bir varış çemberi (approach circle) vardır; vuruş dairesinin üstüne doğru kapanana büyük bir çember. Çember daireye vardığında, tıklama vakti gelmiş demektir! Eğer onlara dikkatinizi verirseniz, bazı notaların yarım vuruş ya da tam vuruş olup olmadığını, ya da bir sonraki nota için bekleyip beklememeniz gerektiğini anlamanıza yardımcı olacaktır.
 
-Müzik vuruşlar ve ritimler olarak çalışır. Bir beatmape başlarken (ya da daha oynamaya başlamadan önce) şarkının kulağa nasıl geldiğine dikkat edin, böylece dairelere tıklayarak eşlik edeceğiniz melodi hakkında oldukça iyi bir fikir edinebilirsiniz. Müziğe alışmak onda daha iyi zamanlama ve koordinasyon elde etmenize yardımcı olacaktır.
+Müzik, vuruşlar ve ritimler olarak çalışır. Bir mape başlarken (ya da daha oynamaya başlamadan önce) şarkının kulağa nasıl geldiğine dikkat edin, böylece dairelere tıklayarak eşlik edeceğiniz melodi hakkında oldukça iyi bir fikir edinebilirsiniz. Müziğe alışmak onda daha iyi zamanlama ve koordinasyon elde etmenize yardımcı olacaktır.
 
 ### Hedef Alma
 
@@ -70,7 +70,7 @@ osu! oynamadan hedef almanızı geliştirmenin en iyi yolu bilgisayarınızı is
 
 ### Hız
 
-Bir noktadan sonra, daha zor zorluklara geldiğinizde, notalara daha hızlı tıklamanız gerekecek. Hızda gelişmek oldukça basittir; tek yapmanız gereken kendinizi daha hızlı tıklamak ya da klavye tuşlarına basmak için zorlamaktır. Elinizdden geldiğince hızlı girdi yapmanız gereken oyunlar oynayabilirsiniz, Cookie Clicker gibi, ya da başka butonlara tıklama oyunları oynayabilirsiniz (Eğer Google'larsanız onları internette bulması oldukça kolaylar.)
+Bir noktadan sonra, daha zor zorluklara geldiğinizde, notalara daha hızlı tıklamanız gerekecek. Hızda gelişmek oldukça basittir; tek yapmanız gereken kendinizi daha hızlı tıklamak ya da klavye tuşlarına basmak için zorlamaktır. Elinizden geldiğince hızlı girdi yapmanız gereken oyunlar oynayabilirsiniz, Cookie Clicker gibi, ya da başka butonlara tıklama oyunları oynayabilirsiniz (Eğer Google'larsanız onları internette bulması oldukça kolaylar).
 
 ### Pratik
 
@@ -80,7 +80,7 @@ Gelişmenin en iyi yolu kendinize meydan okumaktır. Gittkçe daha da zorlaşan 
 
 Sürekli nota kaçırmanıza sebep olan bir şey üzerinde pratik yapmaktan çekinmeyin. Meydan okumayı görmeniz, ve o meydan okumayı kazanmak için ne yapmanız gerektiğini görmeniz gerekli. Tuşlara daha hızlı basmanız mı lazım? Daha iyi zamanlamaya mı ihtiyacınız var? Notalara ilerlerken daha isabetli mi olmanız lazım? Bunların hepsi kendinize sorabileceğiniz sorular. Bu, cevabınızı çok daha hızlı bulmanıza yardımcı olacak ve deneyiminizin çok daha değerli olmasını sağlayacak.
 
-## Oynanıştan Daha Fazlasını almak
+## Oynanıştan daha fazlasını almak
 
 ### Üniversal Ofset
 
@@ -102,11 +102,11 @@ Oyunun sıkça gözardı edilen özelliklerinden biri de Hassas Girdi fonksiyonu
 
 ### Temalar
 
-*Ayrıca bakınız: [Tema Yapımı](/wiki/Skinning)*
+*Ayrıca bakınız: [Tema yapımı](/wiki/Skinning)*
 
 Seçmek için çok, pek çok tema var; onları forumlarda bulabilir, sohbete linklenmiş şekilde bulabilir, ya da başka kullanıcılara sorarak bulabilirsiniz! Bunlar oynanışınızı geliştirmeyecek olsalar da, sizi motive edebilirler, ya da osu!'yu oynamayı gözleriniz için daha kolay kılarlar. Ya da, eğer osu! kullanıcı arayüzünün büyük kısmını istemiyorsanız, daha minimal bir yaklaşıma sahip bir tema bulabilirsiniz. [Prolar](https://osu.ppy.sh/community/forums/topics/87675) tarafından yapılmış temalar bile bulabilir ve onların temalarını başarılı kılanın ne olduğunu kendiniz görün. Bazı temalar görmeyi kolaylaştırmak için, bazıları ise yalnızca tuhaf olmaları ve eğlencesine yaratılmıştır. Heyhat, temalar yalnızca osu!'dan daha çok zevk almanıza yardımcı olacak ve sıralamarda yükselme deneyiminizi biraz daha iyileştirecek yollardan biri. ;)
 
-## Yeni Başlayan beatmapleri
+## Yeni Başlayanlar için Mapler
 
 Bunlara da bir şans tanıyın. Bu beatmapler en kolaydan en zora gidecek şekilde sıralanmışlardır, o yüzden listenin bir yerinden başlayıp kendi temponuzda bitirin!
 
