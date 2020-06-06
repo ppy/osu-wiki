@@ -157,9 +157,9 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 
 | 名字 | 语言 |
 | :-- | :-- |
-| ![][flag_GB] [\_DUSK\_](https://osu.ppy.sh/users/6092181) | Urdu, 部分阿拉伯语 |
+| ![][flag_GB] [\_DUSK\_](https://osu.ppy.sh/users/6092181) | 乌尔都语, 部分阿拉伯语 |
 | ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | 德语 |
-| ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamese |
+| ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | 越南语 |
 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | 葡萄牙语, 西班牙语 |
 | ![][flag_GB] [Metzo](https://osu.ppy.sh/users/10633982) |  |
 | ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | 法语 |

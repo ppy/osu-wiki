@@ -91,7 +91,7 @@ tags:
 | ![][flag_JP] [Guy](https://osu.ppy.sh/users/91738) | BAT, 聊天室管理员, QAT |
 | ![][flag_RU] [h3k1ru](https://osu.ppy.sh/users/291211) | GMT |
 | ![][flag_NL] [happy30](https://osu.ppy.sh/users/27767) | BAT |
-| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | 大赛管理员 |
+| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | 锦标赛管理员 |
 | ![][flag_MY] [HeatKai](https://osu.ppy.sh/users/332555) | 聊天室管理员 |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | GMT |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | GMT |
