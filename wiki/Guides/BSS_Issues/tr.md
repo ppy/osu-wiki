@@ -6,9 +6,9 @@ tags:
 
 # BSS sorunları nasıl çözümlenir
 
-Eğer ki **[Beatmap Submission System](/wiki/Glossary#bss)** (***BSS***) kendi beatmapinizi karşıya yüklemenize bu beatmape sahip olmadığınız için izin vermiyorsa aşağıdaki adımları uygulayın:
+Eğer ki **[Beatmap Gönderme Sistemi](/wiki/Glossary#bss)** (*Beatmap Submission System*, ***BSS***) kendi beatmapinizi karşıya yüklemenize bu beatmape sahip olmadığınız için izin vermiyorsa aşağıdaki adımları uygulayın:
 
-1. beatmap setinin klasörüne gidin.
+1. Beatmap setinin klasörüne gidin.
    - Oraya [beatmap editoründe](/wiki/Beatmap_Editor) `Dosya`, ardından `Müzik Dosyasını Aç` seçenekleri ile kolaylıkla gidebilirsiniz.
 2. osu!'dan çıkın (Bu yaptığınız değişikliklerin doğru şekilde uygulandığından emin olmak içindir).
 3. `.osu` dosyasını herhangi bir düz metin düzenleyici ile (örn. Not Defteri) açın.
@@ -26,7 +26,7 @@ Eğer hala sorun yaşıyorsanız şu adımları deneyin:
    - `Dosya` ardından `Paketi çıkart`.
 2. Beatmap editöründen çıkın ve beatmap setini osu!'dan silin.
 3. osu!'dan çıkın.
-4. Doşa aktardığınız beatmap setine gidin ve dosya uzantısını `.osz` yerine `.zip` olarak değiştirin (bunu yapabilmeniz için Windows klasör ayarlarından dosya adı uzantılarının görünür olması gerekli).
+4. Dışa aktardığınız beatmap setine gidin ve dosya uzantısını `.osz` yerine `.zip` olarak değiştirin (bunu yapabilmeniz için Windows klasör ayarlarında dosya adı uzantılarının görünür olması gerekecek).
 5. Bu `.zip` dosyasını çıkartın.
 6. `.osu` dosyasını herhangi bir düz metin düzenleyici ile (örn. Not Defteri) açın.
 7. `Creator` için kendi kullanıcı adınız hariç herhangi bir şey girin girin.
