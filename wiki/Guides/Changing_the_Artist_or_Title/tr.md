@@ -2,11 +2,11 @@
 
 *[NoHitter tarafından "Full Submission with Title/Artist Change -- Mistakes" (peppy tarafından gasp edildi)](https://osu.ppy.sh/community/forums/topics/24443)*
 
-Bir beatmapin **sanatçısını ya da başlığını** değiştirirken, mevcut beatmapin bir kopyasını oluşturmadan karşıya yüklemenize engel olan bir problem ortaya çıkabilir.
+Bir mapin **sanatçısını ya da başlığını** değiştirirken, mevcut beatmapin bir kopyasını oluşturmadan karşıya yüklemenize engel olan bir problem ortaya çıkabilir.
 
 **Editörde "Web" menüsü devre dışı ise karşıya yüklemeyin. Beatmapiniz kopyalanacak.**
 
-Kopyalanan bir beatmapi düzeltmek için, aşağıdakileri yapın:
+Kopyalanan bir mapi düzeltmek için, aşağıdakileri yapın:
 
 - Kolay Yöntem (yerel bir değişiklik yoksa):
   1. Haritanın yerel kopyasını silin.
@@ -26,4 +26,4 @@ Kopyalanan bir beatmapi düzeltmek için, aşağıdakileri yapın:
   7. `Dosya` > `Zorluk Derecesini Aç...` aracılığı ile diğer zorluklarda da Sanatçı/Başlık bilgisini değiştirin.
   8. Karşıya yükleyin.
 
-Eğer herhangi bir kopyalanmış beatmapiniz varsa, lütfen bu sorunun çözülmesi için [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) üyelerinden biri ile iletişime geçin.
+Eğer kopyalanmış herhangi bir mapiniz varsa, lütfen bu sorunun çözülmesi için [NAT](/wiki/People/The_Team/Nomination_Assessment_Team) üyelerinden biri ile iletişime geçin.
