@@ -240,10 +240,10 @@ Het transparante icoon op de achtergrond en de "Mode" box veranderen om aan te g
 Klik op de `Mods` knop of druk op `F1` om het **[Mod Selection Screen](/wiki/Game_Modifiers)** te openen.
 
 In dit scherm kun je modificaties ("mods") toevoegen aan je gameplay. Sommige mods maken een map makkelijker en verlagen de score die je verkrijgt. Tegelijkertijd zijn er ook mods die een map moeilijker maken en de score die je verkrijgt verhogen. Tot slot: sommige mods veranderen gameplay op een andere manier. [Relax](/wiki/Game_Modifiers#relax) en [Auto Pilot](/wiki/Game_Modifiers#auto-pilot) vallen onder deze categorie.
+
 Plaats je muis op het icoon van een mod om een korte beschrijving te zien van het effect van desbetreffende mod. Klik op het icoon om een mod te selecteren/deselecteren. Sommige mods, zoals Double Time, hebben meerdere variaties; klik nogmaals op de mod om hierdoor te gaan. De score multiplier geeft weer welk effect de geselecteerde mod(s) zal/zullen hebben op jouw score. Klik op "Reset all mods" of druk op een om alle geselecteerde mods te deselecteren. Klik op `Close` of druk op `2` of `Esc` om terug de keren naar het liedjes-selectie scherm.
 
-Op het Mod Selectie Scherm heb je geen toegang tot de Chat Consoles.
-Skins kunnen de tekst en/of het icoon van de mods veranderen, maar het effect op de gameplay blijft hetzelfde.
+Op het Mod Selectie Scherm heb je geen toegang tot de Chat Consoles. Skins kunnen de tekst en/of het icoon van de mods veranderen, maar het effect op de gameplay blijft hetzelfde.
 
 Klik op de `Random` knop of druk op `F2` om osu! **willekeurig een beatmap te laten selecteren** Totdat hij klaar is met scrollen, kun je zelf geen beatmap selecteren.
 
@@ -289,16 +289,15 @@ Hieronder zijn Grade schermen van de andere gamemodes te zien.
 
 Dit is jouw online leaderboard. Je kunt hier komen door naar beneden te scrollen op het resultatenscherm. De lokale rangschikking zal jouw naam en score tonen zoals gebruikelijk.
 
-1. Verandeer de naam van het record van de replay hier.
-2. Jouw spelersinformatie, je kunt hier jouw [PP](/wiki/Performance_Points), Globale Rang, Totale Score, Overall [Accuracy](/wiki/Accuracy), en level balk zien.
-3. Opties met betrekking tot de beatmap. Je kunt je favoriete beatmaps vinden op je profiel onder Beatmaps->Favourite Beatmaps.
+1. Verandeer de naam van het record van de replay hier. Jouw spelersinformatie, je kunt hier jouw [PP](/wiki/Performance_Points), Globale Rang, Totale Score, Overall [Accuracy](/wiki/Accuracy), en level balk zien.
+2. Opties met betrekking tot de beatmap. Je kunt je favoriete beatmaps vinden op je profiel onder Beatmaps->Favourite Beatmaps.
    1. Export Replay als `.osr`: Slaat de replay op zodat deze online kan worden gebruikt.
    2. Online Favourite: Voegt de beatmap toe aan jouw favorieten. 
-4. Hier is het verschil te zien wat jouw score verandert aan je profiel. Je kunt hier zien hoeveel je bent geklommen of gedaald in de Globale Rangschikking, hoeveel score is toegevoegd aan je Totale Score en hoeveel je Gemiddelde Accuracy is verandert. De tekst vervaagt erg snel, dus mis het niet!
-5. Spreekt voor zich. Deze balk komt niet in beeld wanneer je offline speelt of de beatmap niet is geupload.
-6. Beatmap lied met de geschiedenis van aantal keren gespeeld en pass rate.
-7. Beatmap Rating. Geef een score aan de beatmap die je zojuist hebt gespeelt.
-8. Terug naar het liedjes-selectie scherm.
+3. Hier is het verschil te zien wat jouw score verandert aan je profiel. Je kunt hier zien hoeveel je bent geklommen of gedaald in de Globale Rangschikking, hoeveel score is toegevoegd aan je Totale Score en hoeveel je Gemiddelde Accuracy is verandert. De tekst vervaagt erg snel, dus mis het niet!
+4. Spreekt voor zich. Deze balk komt niet in beeld wanneer je offline speelt of de beatmap niet is geupload.
+5. Beatmap lied met de geschiedenis van aantal keren gespeeld en pass rate.
+6. Beatmap Rating. Geef een score aan de beatmap die je zojuist hebt gespeelt.
+7. Terug naar het liedjes-selectie scherm.
 
 ![](img/MedalUnlock.jpg "Ontgrendelen van een medaille")
 
