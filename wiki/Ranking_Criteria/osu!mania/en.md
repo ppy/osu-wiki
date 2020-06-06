@@ -98,7 +98,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 - **Objects should not be placed during a 1/1 long note's hold duration.** However, using an object at the beginning or end of a long note is fine.
 - **Note density should consist of mostly 1/1, occasional 1/2, or slower rhythms.**
 - **Avoid using more than 5 consecutive 1/2 notes.**
-- **Avoid using chords during consecutive 1/2 note patterns.** However, using a chord to end a pattern is fine.
+- **Avoid using chords during consecutive 1/2 note patterns.** However, using a chord to begin or to end pattern is fine.
 - **Avoid chords with more than 2 notes.** This includes long note patterns that involve notes in more than two columns.
 
 ### ![](/wiki/shared/diff/normal-m.png) Normal
@@ -122,7 +122,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 - **Note density should consist of mostly 1/1 and 1/2, occasional 1/4, or slower rhythms.**
 - **Avoid using more than 5 consecutive 1/4 notes.**
 - **Long streams of 1/2 notes should include, at minimum, a 1/1 pause where natural to implement after every musical phrase**, as these can become too physically demanding for players at this level.
-- **Avoid using chords during consecutive 1/4 note patterns.** However, using a chord to end a pattern is fine.
+- **Avoid using chords during consecutive 1/4 note patterns.** However, using a chord to begin or to end pattern is fine.
 - **Avoid anchors consisting of three or more notes.** While they are easy for players to read, longer anchors are strenuous.
 - **Avoid using 1/4 minijacks or other jack patterns.** These patterns are too physically demanding for players at this level.
 - **Manipulating slider velocity is discouraged.** Slider velocity should only be changed for sections of music with different intensities and should not be drastically variable throughout the beatmap.
