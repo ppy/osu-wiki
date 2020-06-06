@@ -1,6 +1,6 @@
 # Bir beatmap işbirliği nasıl başlatılır
 
-İşbirlikleri (collaboration/collab) başarması en zor beatmap yaratım türlerinden biridir. Dahil edilecek çok fazla faktör var... İşte bir işbirliği yaratırken göz önünde bulundurulması gereken ipuçlarından bazıları:
+İşbirlikleri (collaboration/collab) başarması en zor beatmap oluşturma türlerinden biridir. Dahil edilecek çok fazla faktör var... İşte bir işbirliği yaratırken göz önünde bulundurulması gereken ipuçlarından bazıları:
 
 ## Emin olun
 
@@ -9,7 +9,7 @@ Bu ne demek?
 - Hangi **şarkıyı** seçeceğinizden emin olun.
 - **Parçaları ayırdığınızdan ve araları hesaba kattığınızdan** emin olun. (Parçaları eşit dağıtabildiğinizde çok daha eğlenceli olur.)
 - İkinizin de **beatmap ayarlarında** ortak karar kıldığından emin olun.
-- Hangi **beatmap yaratıcılarını (mapperları)** yanınızda istediğinizden ve beatmapi göndermeden önce onlara sorduğunuzdan emin olun. (Nezakettendir.)
+- Hangi **mapperları** yanınızda istediğinizden ve bir mapi göndermeden önce onlara sorduğunuzdan emin olun. (Nezakettendir.)
 - Bir işbirliğine girdiğinizde **sonuna kadar dayanabileceğinizden** emin olun. (Yani kendinizin devam edebileceğinden ve işbirliğindeki herkesin pür dikkat ve her daim orada olduğundan emin olun)
 
 Bu adım, özünde, bir işbirliğine girmenin sizin için doğru şey olup olmadığını doğrulamak içindir. Bundan sonra, yukarıdaki noktalardan dallanır.
@@ -24,31 +24,31 @@ Kolaylıkla göz ardı edilebilen, edildiğinde tehlikeli olan bir adım.
 
 ## İş bölümü
 
-Diğer kişinin/kişilerin belirgin bir şekilde yaratmaya başlayabileceği parçaların olması çoğunlukla iyidir.
+Birlikte çalıştığınız diğer kişinin/kişilerin rahatça maplemeye başlayabileceği parçalara sahip olmak çoğunlukla iyidir.
 
 - Öncelikle, şarkının kendinizin olarak belirlediğiniz kısmına yer işaretleri bırakmanız tavsiye edilir. Tercihen olabildiğince eşit bir şekilde.
 - Beatmapi yaratmaya kim başlarsa başlasın, beatmapinizin kendi kısımlarınızı tek seferde yapmaktan ziyade baştan sona ilerlemek çok daha kolaydır. Böylece akışı ve oynanışı görmek çok daha kolaydır.
 - Boşlukları hesaba katmayı aklınızda tutun. **Pek çok kişi bunu unutur.**
 
-## Beatmap Ayarları
+## Map Ayarları
 
-Eğer beatmap ayarlarında karar kılamazsanız... canınız çok yanacak.
+Eğer map ayarlarında karar kılamazsanız...canınız çok yanacak.
 
 - Slider Hızında karar kılın. Bu Last Time Travel ve Gonna Be Here için çok acı bitti.
 - Mesafe aralığına ve kilidinin kullanımı hakkında ortak karar alın. [Be Your Wings](https://osu.ppy.sh/beatmapsets/8518) beatmapine bakın.
 - Zorluk seçeneklerine ortak karar kılın.
 
-## Beatmap Yaratıcıları
+## Mapperlar
 
-İşte burası herkesin aklını kaybettiği yer. Hayalini kurduğunuz beatmap yaratıcılarını yanınıza almak pek kolay olmayabilir ancak olur da alırsanız, başlarken her açıdan hazır olmalısınız.
+İşte burası herkesin aklını kaybettiği yer. Hayalini kurduğunuz mapperları yanınıza almak pek kolay olmayabilir ancak olur da alırsanız, başlamadan önce her açıdan hazır olmalısınız.
 
-- Kendi beatmap yaratma yeteneklerinizi geliştirin. Anahtar noktalardan biridir. Eğer işbirliği yapacağınız kişi sizin beatmap yapımınızı beğenmezse... onların arkasından su dökseniz iyi olur.
-- Kendinize benzer stilde beatmap yaratan birini seçin. Benzer akışa sahip olduğunuzda daha kolay olur.
+- Kendi mapleme yeteneklerinizi geliştirin. Anahtar noktalardan biridir. Eğer işbirliği yapacağınız kişi sizin nasıl maplediğinizi beğenmezse... İşbirliğine elveda diyebilirsiniz.
+- Kendinize benzer stilde mapleyen birini seçin. Maplerken benzer akışa sahip olmak sıklıkla işi kolaylaştırır.
 - Birbirinizle kolaylıkla iletişime geçebileceğinizden emin olun... **Bu önemli çünkü beraber çalıştığınız kişiler herhangi bir sebepten ötürü kaybolurlarsa, tek başınızasınız.**
 
-İyi bir beatmapin zaman aldığını ve potansiyelinin zirvesinde olduğunu aklınızdan çıkartmayın. İşbirlikleri, sıkça dereceli olması en zor olan beatmaplerdir.  Sebeplerinden birkaçı şunlardır:
+İyi bir mapin zaman aldığını ve potansiyelinin zirvesinde olduğunu aklınızdan çıkartmayın. İşbirlikleri, sıkça dereceli olması en zor olan maplerdir. Sebeplerinden birkaçı şunlardır:
 
-- Birden fazla beatmap yaratıcısı ile çalışıyorsunuzdur, ve eğer modlayıcılardan (modderlardan) birisi o yaratıcının bölümünde bir hata bulursa, o yaratıcı bunu çözmek zorundadır.
+- Birden fazla mapper ile çalışıyorsunuzdur, ve eğer modlayıcılardan (modderlardan) birisi o mapperın bölümünde bir hata bulursa, o mapper bunu çözmek zorundadır.
 - Parçalar birbirleri ile çatışabilir ve beatmapin akışı başarıyla aktarmak için zorlayıcı olabilir.
 - İşbirlikleri başlaması ve bitirmesi en zor olan beatmaplerdir.
 
