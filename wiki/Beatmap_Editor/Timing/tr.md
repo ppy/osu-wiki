@@ -20,4 +20,4 @@ Devralmayan zamanlama noktası, kırmızı çizgiyle gösterilir, bir zamanlama 
 
 Devralan zaman noktası, yeşil çizgiyle gösterilir, bir önceki kırmızı çizgide kullanılmış BPM'i, offseti ve ölçü ayarlarını devralır. Yeşil çizgiler [slider hızını](/wiki/Hit_Objects/Slider_velocity) ve [vuruş sesi](/wiki/Beatmapping/Hitsound) ayarlarını düzenlemek için kullanılır.
 
-Devralan bir zamanlama noktası devralmayan bir noktadan önce yerleştirilemez, çünkü herhangi bir ayarı devralamaz.
+Bir devralan zamanlama noktası devralmayan bir noktadan önce yerleştirilemez, çünkü herhangi bir ayarı devralamaz.
