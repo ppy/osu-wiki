@@ -46,7 +46,7 @@ Eğer beatmap ayarlarında karar kılamazsanız... canınız çok yanacak.
 - Kendinize benzer stilde beatmap yaratan birini seçin. Benzer akışa sahip olduğunuzda daha kolay olur.
 - Birbirinizle kolaylıkla iletişime geçebileceğinizden emin olun... **Bu önemli çünkü beraber çalıştığınız kişiler herhangi bir sebepten ötürü kaybolurlarsa, tek başınızasınız.**
 
-Unutmayın, iyi bir beatmapin zaman alan ve potansiyelinin zirvesinde olan olduğunu aklınızda tutun. İşbirlikleri sıkça derecli olması en zor olan beatmaplerdir. Sebeplerinden birkaçı şunlardır:
+İyi bir beatmapin zaman aldığını ve potansiyelinin zirvesinde olduğunu aklınızdan çıkartmayın. İşbirlikleri, sıkça dereceli olması en zor olan beatmaplerdir.  Sebeplerinden birkaçı şunlardır:
 
 - Birden fazla beatmap yaratıcısı ile çalışıyorsunuzdur, ve eğer modlayıcılardan (modderlardan) birisi o yaratıcının bölümünde bir hata bulursa, o yaratıcı bunu çözmek zorundadır.
 - Parçalar birbirleri ile çatışabilir ve beatmapin akışı başarıyla aktarmak için zorlayıcı olabilir.
