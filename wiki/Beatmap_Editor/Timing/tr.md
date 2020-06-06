@@ -2,7 +2,7 @@
 
 ![Editördeki zamanlama penceresinin ekran görüntüsü](img/Timing_base.jpg)
 
-[beatmap editörünün](/wiki/Beatmap_Editor) **zamanlama penceresi**, bir [beatmapin](/wiki/Beatmaps) zamanlamasının beatmapper tarafından değiştirilebilmesi içindir. Zamanlama genellikle yeni bir beatmap yaparken atılan ilk atımdır.
+[Beatmap editörünün](/wiki/Beatmap_Editor) **zamanlama penceresi**, bir [beatmapin](/wiki/Beatmaps) zamanlamasının beatmapperlar tarafından değiştirilebilmesi içindir. Zamanlama genellikle yeni bir beatmap yaparken atılan ilk atımdır.
 
 Zamanlama, bir şarkının [offseti](/wiki/Beatmapping/Offset), [dakikadaki vuruşu (BPM)](/wiki/Beatmapping/Beats_per_minute), ve [metresinden](https://en.wikipedia.org/wiki/Metre_(music)) olumaktadır. Beatmaplerde doğru zamanlamayı yakalamak, oyuncuların oynarken [isabet oranlarını](/wiki/Gameplay/Accuracy) sürdürebilmeleri için gereklidir. Zamanlamaları yanlış yapılmış beatmapler [beatmap derecelendirme prosedüründen](/wiki/Beatmap_ranking_procedure) geçemez.
 
@@ -18,6 +18,6 @@ Devralınmamış zamanlama noktası, kırmızı çizgiyle gösterilir. BPM'in, o
 
 ### Devralınmış zamanlama noktası
 
-Devralınmış zaman noktası, yeşil çizgiyle gösterilir. Önceki kırmızı çizgide kullanılmış BPM'i, offseti, metreyi ve diğer yapılmış ayarları kullanır. Yeşil çizgiler [slider hızını](/wiki/Hit_Objects/Slider_velocity) ve [hitsoundları](/wiki/Beatmapping/Hitsound) düzenlemek için klullanılırlar.
+Devralınmış zaman noktası, yeşil çizgiyle gösterilir. Önceki kırmızı çizgide kullanılmış BPM'i, offseti, metreyi ve diğer yapılmış ayarları kullanır. Yeşil çizgiler [slider hızını](/wiki/Hit_Objects/Slider_velocity) ve [vuruş seslerini](/wiki/Beatmapping/Hitsound) düzenlemek için klullanılırlar.
 
 Devralımış bir zamanlama noktası, devralınmamış bir zamanlama noktasından önce yerleştirilemez, çünkü herhangi bir ayarı kendi başına kullanamaz.
