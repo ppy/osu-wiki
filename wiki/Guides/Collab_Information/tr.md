@@ -10,7 +10,7 @@ Bu ne demek?
 - **Parçaları ayırdığınızdan ve araları hesaba kattığınızdan** emin olun. (Parçaları eşit dağıtabildiğinizde çok daha eğlenceli olur.)
 - İkinizin de **beatmap ayarlarında** ortak karar kıldığından emin olun.
 - Hangi **beatmap yaratıcılarını (mapperları)** yanınızda istediğinizden ve beatmapi göndermeden önce onlara sorduğunuzdan emin olun. (Nezakettendir.)
-- Bir işbirliğine girdiğinizde **sonuna kadar dayanabileceğinizden** emin olun. (Yani kendinizin devam edebileceğinden ve işbirliğindeki herkesin pürdikkat pür dikkat ve her daim orada olduğundan emin olun)
+- Bir işbirliğine girdiğinizde **sonuna kadar dayanabileceğinizden** emin olun. (Yani kendinizin devam edebileceğinden ve işbirliğindeki herkesin pür dikkat ve her daim orada olduğundan emin olun)
 
 Bu adım, özünde, bir işbirliğine girmenin sizin için doğru şey olup olmadığını doğrulamak içindir. Bundan sonra, yukarıdaki noktalardan dallanır.
 
