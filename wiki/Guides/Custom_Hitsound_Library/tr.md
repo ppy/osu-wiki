@@ -6,7 +6,7 @@ Bu makale özel vuruş sesleri için bir kütüphane görevi görür.
 
 ## Normal Ses Setleri
 
-### Mormal vuruşlar
+### Normal Vuruşlar
 
 1. [1](https://up.ppy.sh/files/soft-hitclap.wav) - baya gürültülü normal vuruş
 
