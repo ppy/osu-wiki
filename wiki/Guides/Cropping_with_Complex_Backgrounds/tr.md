@@ -26,7 +26,7 @@ Ana seçiminizi yapmayı bitirdiyseniz, artık karakteriniz ile birlikte seçilm
 
 ## Adım \#5
 
-Geriye Kalan tek şey, karakterimizi görselden kesmek ve yeni bir tanesine yapıştırmak ya da seçiminizi terse çevirmek (CTRL + I) ve arkaplanı silmektir.
+Geriye kalan tek şey, karakterimizi görselden kesmek ve yeni bir tanesine yapıştırmak ya da seçiminizi terse çevirmek (CTRL + I) ve arkaplanı silmektir.
 
 ![Öğretici Görsel 5](img/CCB-5.png "Tutorial Image 5")
 
