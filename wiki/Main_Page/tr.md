@@ -25,7 +25,7 @@ osu! wiki'sine hoşgeldin, osu! ile ilgili çok çeşitli bilgiler içeren bir p
 
 # [Beatmap Editörü](/wiki/Beatmap_Editor)
 
-Bölümler: ([Oluşturma](/wiki/Beatmap_Editor/Compose) • [Dizayn](/wiki/Beatmap_Editor/Design) • [Zamanlama](/wiki/Beatmap_Editor/Timing) • [Şarkı Kurulumu](/wiki/Beatmap_Editor/Song_Setup)) • Bileşenler: ([Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap)) • [Beatmapping](/wiki/Beatmapping) • [Zorluklar](/wiki/Difficulties) • [Vuruş Objeleri](/wiki/Hit_Objects) • [Mapping Teknikleri](/wiki/Mapping_Techniques) • [Film Şeritleme](/wiki/Storyboarding)
+Bölümler: ([Oluşturma](/wiki/Beatmap_Editor/Compose) • [Dizayn](/wiki/Beatmap_Editor/Design) • [Zamanlama](/wiki/Beatmap_Editor/Timing) • [Şarkı Kurulumu](/wiki/Beatmap_Editor/Song_Setup)) • Bileşenler: ([Beat Snap Divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [Distance Snap](/wiki/Beatmap_Editor/Distance_Snap)) • [Beatmapping](/wiki/Beatmapping) • [Zorluklar](/wiki/Difficulties) • [Vuruş Objeleri](/wiki/Hit_Objects) • [Mapping Teknikleri](/wiki/Mapping_Techniques) • [Storyboarding](/wiki/Storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -44,9 +44,9 @@ Bölümler: ([Oluşturma](/wiki/Beatmap_Editor/Compose) • [Dizayn](/wiki/Beatm
 </div>
 <div class="wiki-main-page-panel">
 
-# İnsanlar
+# Kişiler
 
-[Ekip](/wiki/People/The_Team) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Dil Moderatörleri](/wiki/People/Language_Moderators) • [Nomination Assessment Team](/wiki/People/Nomination_Assessment_Team) • [Beatmap Nominators](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Destek Ekibi](/wiki/People/Support_Team)
+[Ekip](/wiki/People/The_Team) • [Global Moderation Team](/wiki/People/Global_Moderation_Team) • [Dil Moderatörleri](/wiki/People/Language_Moderators) • [Adaylık Değerlendirme Ekibi](/wiki/People/Nomination_Assessment_Team) • [Beatmap Adayları](/wiki/People/Beatmap_Nominators) • [osu! Alumni](/wiki/People/osu!_Alumni) • [Destek Ekibi](/wiki/People/Support_Team)
 
 </div>
 </div>
