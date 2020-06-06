@@ -6,7 +6,7 @@ tags:
 
 # BSS sorunları nasıl çözümlenir
 
-Eğer ki **[Beatmap Submission System](/wiki/Glossary#bss)** (***BSS***) kendi beatmapinizi karşıya yüklemenize bu beatmape sahip olmadığınız için izin vermiyorsa aşağıdaki adımları uygulayın:
+Eğer ki **[Beatmap Submission System](/wiki/Glossary#bss)** (***BSS***) kendi beatmapinizi karşıya yüklemenize bu beatmape sahip olmadığınızı söylediği için izin vermiyorsa aşağıdaki adımları uygulayın:
 
 1. beatmap setinin klasörüne gidin.
   - Oraya [beatmap editoründe](/wiki/Beatmap_Editor) `Dosya`, ardından `Müzik Dosyasını Aç` seçenekleri ile kolaylıkla gidebilirsiniz.
