@@ -157,9 +157,9 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 
 | İsim | Ek diller |
 | :-- | :-- |
-| ![][flag_GB] [\_DUSK\_](https://osu.ppy.sh/users/6092181) | Urdu, biraz Arapça |
+| ![][flag_GB] [\_DUSK\_](https://osu.ppy.sh/users/6092181) | Urduca, biraz Arapça |
 | ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | Almanca |
-| ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamese |
+| ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamca |
 | ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910) | Portekizce, İspanyolca |
 | ![][flag_GB] [Metzo](https://osu.ppy.sh/users/10633982) |  |
 | ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | Fransızca |

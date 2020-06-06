@@ -1,4 +1,3 @@
-outdated: true # missing languages.ur, languages.vi
 separator: ", "
 alumni:
   roles:
@@ -54,5 +53,7 @@ languages:
   sv: İsveççe
   th: Tay dili
   tr: Türkçe
+  ur: Urduca
+  vi: Vietnamca
   yue: Kantonca
   zh: Çince
