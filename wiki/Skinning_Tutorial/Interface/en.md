@@ -12,54 +12,37 @@ You will also see it in beatmaps without backgrounds, multiplayer lobby, multipl
 
 This is the only skin element that must be in `JPG` format. You can easily change it by just dragging a picture and dropping it in main menu window, it will create/replace menu-background in you current skin. If you have created picture of size 1366x768, it will be cut from left side at lower width resolutions.
 
-[![](pr/menu-background_0.jpg)](fs/menu-background_0.jpg "Click to view full size")
+![Menu Background of the default osu! skin](img/menubackground_default.jpg)
 _Default skin_
-
-[![](pr/menu-background_1.jpg)](fs/menu-background_1.jpg "Click to view full size")
-_[Minimalist Miku](https://osu.ppy.sh/community/forums/topics/202277)_
-
-[![](pr/menu-background_2.jpg)](fs/menu-background_2.jpg "Click to view full size")
-_[NeonFX](https://osu.ppy.sh/community/forums/topics/316252)_
-
-[![](pr/menu-background_3.jpg)](fs/menu-background_3.jpg "Click to view full size")
-_[Yugen](https://osu.ppy.sh/community/forums/topics/365036)_
 
 ### Snow
 
 Since December 2014, osu! was given snow.
 By default, the osu!client will always use the active mode's icon as the snow.
 
-[![](pr/menu-snow_0.png)](fs/menu-snow_0.png "Click to view full size")
+![Snow in the default osu! skin](img/snow_default.jpg)
 _Default skin_
-
-[![](pr/menu-snow_1.png)](fs/menu-snow_1.png "Click to view full size")
-_Cookiezi's Skin Mix_
 
 ### Welcome Text
 
 The Welcome text is the image that appears as you open osu!, this layer can be edited and it's name is "welcome_text.png".
 **This part is only loaded/available for [osu!supporter](/wiki/osu!supporter).**
 
-[![](pr/welcome_text_0.png)](fs/welcome_text_0.png "Click to view full size")
+![Welcome text of the default osu! skin](img/welcometext_default.jpg)
 _Default skin_
-
-[![](pr/welcome_text_1.png)](fs/welcome_text_1.png "Click to view full size")
-_(unknown)_
 
 ## Cursor
 
 The cursor is the most important part of standard mode skinning.
 Every player has their own opinion about cursors and what kind is the best.
 
-![](fs/cursor_0.jpg)
+![Cursor of the default osu! skin](img/cursor_default.jpg)
 _Default skin_
 
-![](fs/cursor_1.jpg)
-_(unknown)_
+![Cursor of the Clear Futuristic Miku V 2.0 skin](img/cursor_cfmiku.jpg)
+_Clear Futuristic Miku V 2.0_
 
-![](fs/cursor_2.jpg)
-_(unknown)_
-
+<!-- TODO buttons -->
 ## Buttons
 
 These are the skin parts for buttons that you can find in several places in osu!, like mods selection menu, beatmap options, multiplayer/match buttons etc.
@@ -83,6 +66,7 @@ _[Touhou Project Chibi](https://osu.ppy.sh/community/forums/topics/275801)_
 
 ## Song Selection
 
+<!-- TODO menu button backgrounds -->
 ### Menu Button Background
 
 This part appears in few places, but its main usage is in song selection screen as background for beatmaps info.
@@ -117,6 +101,7 @@ _[Quadrilato-don](https://osu.ppy.sh/community/forums/topics/346897)_
 [![](pr/menu-button-background_3.jpg)](fs/menu-button-background_3.jpg "Click to view full size")
 _[Touhou Project Chibi](https://osu.ppy.sh/community/forums/topics/275801)_
 
+<!-- TODO animated back button image -->
 ### Back Button
 
 Button that appears in any menu (options, osu!direct, special mode select, song select).
@@ -124,17 +109,11 @@ This is one of few parts that have size restricted.
 If you make it any larger than template, part of it will be outside screen.
 You can also animate it.
 
-[![](pr/menu-back_0.jpg "Click to view full size")](fs/menu-back_0.jpg)
-_Default skin_ (note: this, itself, isn't an image)
+![Back button in the default osu! skin](img/menuback_default.jpg)
+_Default skin_
 
-![](fs/menu-back_1.gif)
-_[Minimalist Miku](https://osu.ppy.sh/community/forums/topics/202277) (65 frames)_
-
-![](fs/menu-back_2.gif)
-_[Soda](https://osu.ppy.sh/community/forums/topics/220809) (4 frames)_
-
-![](fs/menu-back_3.gif)
-_[Yugen](https://osu.ppy.sh/community/forums/topics/365036) (59 frames)_
+![Back button in the Clear Futuristic Miku V 2.0 skin](img/menuback_cfmiku.jpg)
+_Clear Futuristic Miku V 2.0_
 
 ### Selection Buttons
 
@@ -142,17 +121,11 @@ Selection buttons are the buttons near menu-back that are pressed to select mods
 Each button has two states, one for when it isn't being hovered over and one for when it is.
 These buttons are only visible on the beatmap selection page.
 
-![](fs/selection_0.gif)
+![Selection buttons in the defauly osu! skin](img/selectionbuttons_default.gif)
 _Default skin_
 
-![](fs/selection_1.gif)
-_[Azure Fusion](https://osu.ppy.sh/community/forums/topics/209792)_
-
-![](fs/selection_2.gif)
-_[Ib](https://osu.ppy.sh/community/forums/topics/360413)_
-
-![](fs/selection_3.gif)
-_[NeonFX](https://osu.ppy.sh/community/forums/topics/316252)_
+![Selection buttons in the Clear Futuristic Miku V 2.0 skin](img/selectionbuttons_cfmiku.gif)
+_Clear Futuristic Miku V 2.0_
 
 ### Selection Tabs
 

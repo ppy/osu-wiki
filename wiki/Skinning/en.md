@@ -10,7 +10,7 @@ Skinning is one of the key features of osu!. It enables players to derive from t
 
 ## How do I make a skin?
 
-*Main page: [Skinning Tutorial](/wiki/Skinning/Tutorial)*
+*Main page: [Skinning Tutorial](/wiki/Skinning_Tutorial)*
 
 ## Skin elements lists
 
@@ -25,7 +25,7 @@ The list of skinning elements is split up into these categories:
 
 ## See also
 
-- [skin.ini](/wiki/skin.ini)
+- [skin.ini](/wiki/Skinning/skin.ini)
 - [Skinning History](/wiki/Skinning/History) - a list of old skinning elements
 - [Compendium](https://osu.ppy.sh/community/forums/topics/686664) - a list of completed skins
 - [Skinning FAQ](/wiki/Skinning/FAQ)
