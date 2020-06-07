@@ -13,7 +13,7 @@ You will also see it in beatmaps without backgrounds, multiplayer lobby, multipl
 This is the only skin element that must be in `JPG` format. You can easily change it by just dragging a picture and dropping it in main menu window, it will create/replace menu-background in you current skin. If you have created picture of size 1366x768, it will be cut from left side at lower width resolutions.
 
 ![Menu Background of the default osu! skin](img/menubackground_default.jpg)
-_Default skin_
+*Default skin*
 
 ### Snow
 
@@ -21,7 +21,7 @@ Since December 2014, osu! was given snow.
 By default, the osu!client will always use the active mode's icon as the snow.
 
 ![Snow in the default osu! skin](img/snow_default.jpg)
-_Default skin_
+*Default skin*
 
 ### Welcome Text
 
@@ -29,7 +29,7 @@ The Welcome text is the image that appears as you open osu!, this layer can be e
 **This part is only loaded/available for [osu!supporter](/wiki/osu!supporter).**
 
 ![Welcome text of the default osu! skin](img/welcometext_default.jpg)
-_Default skin_
+*Default skin*
 
 ## Cursor
 
@@ -37,12 +37,13 @@ The cursor is the most important part of standard mode skinning.
 Every player has their own opinion about cursors and what kind is the best.
 
 ![Cursor of the default osu! skin](img/cursor_default.jpg)
-_Default skin_
+*Default skin*
 
 ![Cursor of the Clear Futuristic Miku V 2.0 skin](img/cursor_cfmiku.jpg)
-_Clear Futuristic Miku V 2.0_
+*Clear Futuristic Miku V 2.0*
 
 <!-- TODO buttons -->
+
 ## Buttons
 
 These are the skin parts for buttons that you can find in several places in osu!, like mods selection menu, beatmap options, multiplayer/match buttons etc.
@@ -53,16 +54,7 @@ To have correctly aligned parts remember that button-left must be connected to t
 You can add patterns/objects to it; but remember that in some places, the button gets resized and [can look ugly](fs/buttons_ex0.jpg).
 
 [![](pr/buttons_0.jpg)](fs/buttons_0.jpg "Click to view full size")
-_Default skin_
-
-[![](pr/buttons_1.jpg)](fs/buttons_1.jpg "Click to view full size")
-_[NeonFX](https://osu.ppy.sh/community/forums/topics/316252)_
-
-[![](pr/buttons_2.jpg)](fs/buttons_2.jpg "Click to view full size")
-_[TECHNOGALAXY](https://osu.ppy.sh/community/forums/topics/356379)_
-
-[![](pr/buttons_3.jpg)](fs/buttons_3.jpg "Click to view full size")
-_[Touhou Project Chibi](https://osu.ppy.sh/community/forums/topics/275801)_
+*Default skin*
 
 ## Song Selection
 
@@ -90,18 +82,10 @@ While making a menu-button-background you must consider some of these things:
   The currently selected map's thumbnail is placed above the menu-button-background.
 
 [![](pr/menu-button-background_0.jpg)](fs/menu-button-background_0.jpg "Click to view full size")
-_Default skin_
-
-[![](pr/menu-button-background_1.jpg)](fs/menu-button-background_1.jpg "Click to view full size")
-_[Ib](https://osu.ppy.sh/community/forums/topics/360413)_
-
-[![](pr/menu-button-background_2.jpg)](fs/menu-button-background_2.jpg "Click to view full size")
-_[Quadrilato-don](https://osu.ppy.sh/community/forums/topics/346897)_
-
-[![](pr/menu-button-background_3.jpg)](fs/menu-button-background_3.jpg "Click to view full size")
-_[Touhou Project Chibi](https://osu.ppy.sh/community/forums/topics/275801)_
+*Default skin*
 
 <!-- TODO animated back button image -->
+
 ### Back Button
 
 Button that appears in any menu (options, osu!direct, special mode select, song select).
@@ -110,10 +94,10 @@ If you make it any larger than template, part of it will be outside screen.
 You can also animate it.
 
 ![Back button in the default osu! skin](img/menuback_default.jpg)
-_Default skin_
+*Default skin*
 
 ![Back button in the Clear Futuristic Miku V 2.0 skin](img/menuback_cfmiku.jpg)
-_Clear Futuristic Miku V 2.0_
+*Clear Futuristic Miku V 2.0*
 
 ### Selection Buttons
 
@@ -122,10 +106,10 @@ Each button has two states, one for when it isn't being hovered over and one for
 These buttons are only visible on the beatmap selection page.
 
 ![Selection buttons in the defauly osu! skin](img/selectionbuttons_default.gif)
-_Default skin_
+*Default skin*
 
 ![Selection buttons in the Clear Futuristic Miku V 2.0 skin](img/selectionbuttons_cfmiku.gif)
-_Clear Futuristic Miku V 2.0_
+*Clear Futuristic Miku V 2.0*
 
 ### Selection Tabs
 
@@ -135,16 +119,7 @@ It gets tinted red on the inactive tabs while it stays untinted on the active ta
 The number of tabs that appear (4 or 5 tabs) is dependent on the osu!client's window size.
 
 ![](fs/selection-tab_0.jpg)
-_Default skin_
-
-![](fs/selection-tab_1.jpg)
-_[Quadrilate-Don](https://osu.ppy.sh/community/forums/topics/346897)_
-
-![](fs/selection-tab_2.jpg)
-_[TECHNOCANDY](https://osu.ppy.sh/community/forums/topics/321844)_
-
-![](fs/selection-tab_3.jpg)
-_[Umi](https://osu.ppy.sh/community/forums/topics/345180)_
+*Default skin*
 
 ### Star
 
@@ -152,24 +127,15 @@ The difficulty "stars" that you can see in the song menu. These correspond to th
 
 Skin versions 1.0, 2.0, and 2.1, they are filled up from left to right to a certain part according to the map's difficulty.
 
--   If a star ratting is at 4.65, 4 stars are filled fully, while the 5th star's width is filled up to 65% of its actual width.
+- If a star ratting is at 4.65, 4 stars are filled fully, while the 5th star's width is filled up to 65% of its actual width.
 
 Skin versions 2.2+, they are filled fully but are scaled down to very small stars.
 The higher the star rating goes the larger they get scaled up.
 
--   If a star ratting is at 4.65, 4 stars are scaled to their max, while the 5th star is scaled down to 65% of its maximum size.
+- If a star ratting is at 4.65, 4 stars are scaled to their max, while the 5th star is scaled down to 65% of its maximum size.
 
 ![](fs/star_0.jpg)
-_Default skin_
-
-![](fs/star_1.jpg)
-_[Ib](https://osu.ppy.sh/community/forums/topics/360413)_
-
-![](fs/star_2.jpg)
-_[Touhou Project Chibi](https://osu.ppy.sh/community/forums/topics/275801)_
-
-![](fs/star_3.jpg)
-_[Unbreakable Machine-Doll](https://osu.ppy.sh/community/forums/topics/162662)_
+*Default skin*
 
 ### Star2
 
@@ -177,16 +143,7 @@ Star2 are the "stars" that are dropped from the cursor during breaks, kiai time,
 Also used by kiai fountain and appears together with comboburst.
 
 ![](fs/star2_0.jpg)
-_Default skin_
-
-![](fs/star2_1.jpg)
-_unknown_
-
-![](fs/star2_2.jpg)
-_unknown_
-
-![](fs/star2_3.jpg)
-_unknown_
+*Default skin*
 
 ### Mode select
 
@@ -203,16 +160,7 @@ It might be a little hard to work on such a small area, **using the "unsharp mas
 You can change the icon's size, but remember that too big icons might overlap with each other.
 
 [![](pr/mod-icons_0.jpg)](fs/mod-icons_0.jpg "Click to view full size")
-_Default skin_
-
-[![](pr/mod-icons_1.jpg)](fs/mod-icons_1.jpg "Click to view full size")
-_[Azure Fusion](https://osu.ppy.sh/community/forums/topics/209792)_
-
-[![](pr/mod-icons_2.jpg)](fs/mod-icons_2.jpg "Click to view full size")
-_[Touhou Project Chibi](https://osu.ppy.sh/community/forums/topics/275801)_
-
-[![](pr/mod-icons_3.jpg)](fs/mod-icons_3.jpg "Click to view full size")
-_[Soda](https://osu.ppy.sh/community/forums/topics/220809)_
+*Default skin*
 
 ### Scorebar
 
@@ -230,7 +178,6 @@ Like [this skin here](fs/lifebar_ex2.jpg).
 
 You can see that the score (upper-right corner) is blocked while the combos (bottom-left corner) has a border.
 However, doing this is heavily discouraged due to verious ratio aspects that you'll need to fit.
-
 
 Skin version 1.0 has scorebar-ki/kidanger/kidanger2.
 These are part of lifebar that goes with your actual life.
@@ -266,11 +213,7 @@ So it's kinda impossible to make stacked countdowns (you know numbers that appea
 It is also important to note that this version was intended for 4:3 ratio aspects. Widescreen ratio aspects will not add pillarboxes.
 
 [![](pr/countdown-v1_0.gif "Click to view full size")](fs/countdown-v1_0.gif)
-_Default skin (v1.0)_
-
-[![](pr/countdown-v1_1.gif "Click to view full size")](fs/countdown-v1_1.gif)
-_[Reisen Udongein Inaba](https://osu.ppy.sh/community/forums/topics/34563)_
-
+*Default skin (v1.0)*
 
 **For skinning versions 2.0+**
 
@@ -281,10 +224,7 @@ All counts are anchored from the center and are placed on the center of the play
 There are no size restrictions, so you can try to make something different than default "Go" and "Are you ready?".
 
 [![](pr/countdown-v2_0.gif "Click to view full size")](fs/countdown-v2_0.gif)
-_Default skin (v2.0+)_
-
-[![](pr/countdown-v2_1.gif "Click to view full size")](fs/countdown-v2_1.gif)
-_[Minimalist Miku](https://osu.ppy.sh/community/forums/topics/202277)_
+*Default skin (v2.0+)*
 
 ### Pause Screen
 
@@ -300,16 +240,7 @@ These aren't restricted by size and their clickable area is the resolution of th
 **It is important to note that the position of the warning arrows do not change.**
 
 [![](pr/pause-screen_0.jpg)](fs/pause-screen_0.jpg "Click to view full size")
-_Default skin_
-
-[![](pr/pause-screen_1.jpg)](fs/pause-screen_1.jpg "Click to view full size")
-_[Azure Fusion](https://osu.ppy.sh/community/forums/topics/209792)_
-
-[![](pr/pause-screen_2.jpg)](fs/pause-screen_2.jpg "Click to view full size")
-_[Soda](https://osu.ppy.sh/community/forums/topics/220809)_
-
-[![](pr/pause-screen_3.jpg)](fs/pause-screen_3.jpg "Click to view full size")
-_[Umi](https://osu.ppy.sh/community/forums/topics/345180)_
+*Default skin*
 
 #### Fail Screen
 
@@ -319,16 +250,7 @@ A notable difference is that it only uses the pause-retry, pause-back buttons (d
 **Just like the pause screen, the position of the warning arrows do not change.**
 
 [![](pr/fail-screen_0.jpg)](fs/fail-screen_0.jpg "Click to view full size")
-_Default skin_
-
-[![](pr/fail-screen_1.jpg)](fs/fail-screen_1.jpg "Click to view full size")
-_[Azure Fusion](https://osu.ppy.sh/community/forums/topics/209792)_
-
-[![](pr/fail-screen_2.jpg)](fs/fail-screen_2.jpg "Click to view full size")
-_[Soda](https://osu.ppy.sh/community/forums/topics/220809)_
-
-[![](pr/fail-screen_3.jpg)](fs/fail-screen_3.jpg "Click to view full size")
-_[Umi](https://osu.ppy.sh/community/forums/topics/345180)_
+*Default skin*
 
 ### Score numbers
 
@@ -339,7 +261,7 @@ If they are too small, they may be hard to see, if too large, they will be distr
 Remember that the score numbers also shown in ranking screen, so making them large will complicate creating the ranking panel.
 
 If it appears that your score numbers are too far apart or too cramped closely together,
-you can use `ScoreOverlap` in the [skin.ini](/wiki/Skinning/Skin.ini/en.md) under the [Fonts] section.
+you can use `ScoreOverlap` in the [skin.ini](/wiki/Skinning/Skin.ini/en.md) under the Fonts section.
 Note that positive integers will move the numbers closer towards each other, while negative values will move them farther apart.
 
 With the skin.ini, `ScorePrefix` allows you to use custom paths to link to the images.
@@ -351,16 +273,7 @@ With the skin.ini, `ScorePrefix` allows you to use custom paths to link to the i
 not the combo numbers (assuming you only modify the score numbers, the combo numbers will use the default score numbers).
 
 ![](fs/score_0.jpg)
-_Default skin_
-
-![](fs/score_1.jpg)
-_[Azure Fusion](https://osu.ppy.sh/community/forums/topics/209792)_
-
-![](fs/score_2.jpg)
-_[NeonFX](https://osu.ppy.sh/community/forums/topics/316252)_
-
-![](fs/score_3.jpg)
-_[Northern Ocean Hime](https://osu.ppy.sh/community/forums/topics/319797)_
+*Default skin*
 
 #### Score comma
 
@@ -397,17 +310,7 @@ Just like the default numbers and the score numbers, you can also use `ComboOver
 Where positive integers will move the numbers closer to each other, while negative integers will add more space between numbers.
 
 ![](fs/combo_0.jpg)
-_Default skin_
-
-![](fs/combo_1.jpg)
-_[Hanami](https://osu.ppy.sh/community/forums/topics/256243)_
-
-![](fs/combo_2.jpg)
-_[Quadrilate-don](https://osu.ppy.sh/community/forums/topics/346897)_
-
-![](fs/combo_3.jpg)
-_[Soda](https://osu.ppy.sh/community/forums/topics/220809)_
-
+*Default skin*
 
 ### FPS
 
@@ -429,15 +332,6 @@ As a sugguestion, make sure that this image still reads "unranked" to let the us
 ![](fs/unranked_0.jpg)
 Default skin
 
-![](fs/unranked_1.jpg)
-_[NeonFX](https://osu.ppy.sh/community/forums/topics/316252)_
-
-![](fs/unranked_2.jpg)
-_[TECHNOGALAXY](https://osu.ppy.sh/community/forums/topics/356379)_
-
-![](fs/unranked_3.jpg)
-_[Yugen](https://osu.ppy.sh/community/forums/topics/365036)_
-
 #### Skip
 
 The skip button is similar to menu-back with one exception, is not restricted by size.
@@ -445,16 +339,7 @@ This button appears and is used to skip beginning of beatmaps with intros longer
 This can be animated.
 
 ![](fs/skip_0.jpg)
-_Default skin_
-
-![](fs/skip_1.gif)
-_[NeonFX](https://osu.ppy.sh/community/forums/topics/316252) (23 frames)_
-
-[![](pr/skip_2.jpg)](fs/skip_2.jpg "Click to view full size")
-_[TECHNOGALAXY](https://osu.ppy.sh/community/forums/topics/356379)_
-
-[![](pr/skip_3.jpg)](fs/skip_3.jpg "Click to view full size")
-_[Yugen](https://osu.ppy.sh/community/forums/topics/365036)_
+*Default skin*
 
 #### Warning Arrow
 
@@ -468,16 +353,16 @@ In skin version 1.0, the warningarrow stays untinted on the end of section break
 In skin versions 2.0+, the warningarrow is tinted red on the end of section breaks, and still gets tinted blue on the pause menu.
 
 ![](fs/warning-arrow_0.jpg)
-_(unknown)_
+*(unknown)*
 
 ![](fs/warning-arrow_1.jpg)
-_(unknown)_
+*(unknown)*
 
 ![](fs/warning-arrow_2.jpg)
-_(unknown)_
+*(unknown)*
 
 ![](fs/warning-arrow_3.jpg)
-_(unknown)_
+*(unknown)*
 
 ##### Arrows
 
@@ -506,16 +391,8 @@ Passing a section is determined whether if you have **more than 50%** of life (o
 These don't have a size restriction, so feel free to make them bigger than the default!
 
 ![](fs/passed_0.jpg)
-_(unknown)_
+*(unknown)*
 
-![](fs/passed_1.jpg)
-_(unknown)_
-
-![](fs/passed_2.jpg)
-_Alice Margatroid_
-
-![](fs/passed_3.jpg)
-_(unknown)_
 
 #### Section Failed
 
@@ -524,16 +401,7 @@ Failing a section is determined whether if you have **less than 50%** of life (o
 These don't have a size restriction, so feel free to make them bigger than the default!
 
 ![](fs/failed_0.jpg)
-_(unknown)_
-
-![](fs/failed_1.jpg)
-_(unknown)_
-
-![](fs/failed_2.jpg)
-_Alice Margatroid_
-
-![](fs/failed_3.jpg)
-_(unknown)_
+*(unknown)*
 
 #### Input Overlay
 
@@ -544,10 +412,7 @@ This shows how many times each keybinding has been pressed in the duration of th
 Note that this can be disabled in the [options](/wiki/Options)!
 
 ![](fs/input-overlay_0.png)
-_Default skin_
-
-![](fs/input-overlay_1.png)
-_[Yugen](https://osu.ppy.sh/community/forums/topics/365036)_
+*Default skin*
 
 In the [skin.ini](/wiki/Skinning/Skin.ini/en.md), there is an option under the `[Colours]` section called `InputOverlayText`.
 This defines the input overlay's text colour.
@@ -583,16 +448,7 @@ Using the image above, here are the meanings:
 | 9 | Mod icons | This is where the enabled mod icons go |
 
 [![](pr/ranking-screen_0.jpg)](fs/ranking-screen_0.jpg "Click to view full size")
-_Default skin_
-
-[![](pr/ranking-screen_1.jpg)](fs/ranking-screen_1.jpg "Click to view full size")
-_[Minimalist Miku](https://osu.ppy.sh/community/forums/topics/202277)_
-
-[![](pr/ranking-screen_2.jpg)](fs/ranking-screen_2.jpg "Click to view full size")
-_[TECHNOGALAXY](https://osu.ppy.sh/community/forums/topics/356379)_
-
-[![](pr/ranking-screen_3.jpg)](fs/ranking-screen_3.jpg "Click to view full size")
-_[Yugen](https://osu.ppy.sh/community/forums/topics/365036)_
+*Default skin*
 
 #### Ranking letters
 
@@ -606,9 +462,9 @@ Smaller versions of the ranking letters are *often* designed like their larger c
 
 Currently, these are used in 3 places:
 
--    on a beatmap's ranking to the left
--    on the song select panels
--    near the accuracy display during longer breaks in beatmap.
+- on a beatmap's ranking to the left
+- on the song select panels
+- near the accuracy display during longer breaks in beatmap.
 
 <!-- TODO images -->
 
