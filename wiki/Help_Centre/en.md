@@ -73,7 +73,7 @@ A couple of hours at the absolute maximum will clear the status for most people 
 
 **There might be an issue with your account's current email address.**
 
-If you remember your account's attached email address, or think you do, try visiting the Email section in [account settings](https://osu.ppy.sh/home/account/edit) page to change your email address. Fill out the necessary fields and click "Update" when you're done.
+If you remember your account's attached email address, or think you do, try visiting the Email section in [account settings](https://osu.ppy.sh/home/account/edit) page to change your email address. Fill out the necessary fields and click `Update` when you're done.
 
 If you have lost your account's password and are not receiving any password recovery emails, or you really cannot remember what email address you were using, please contact us at [accounts@ppy.sh](mailto:accounts@ppy.sh). Any information you have about your account (your username, any screenshots that show you signed in to the client, past transactions through the store or supporter payments, etc.) will be helpful!
 
@@ -448,7 +448,7 @@ Turning on VSync or playing in Windowed or Borderless mode will introduce a *sli
 
 Later NVidia graphics cards have a global option in the NVidia Control Panel to set the global refresh rate to a setting called 'Fast', which will also fix this issue.
 
-#### I receive some sort of server-side error when trying to play online!
+#### I received a server-side error when trying to play online!
 
 **The servers could be having issues.**
 
