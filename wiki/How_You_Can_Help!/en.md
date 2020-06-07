@@ -74,4 +74,4 @@ There is an old saying that you should become part of the solution, not the prob
 - [Report cheaters when you see them](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play). Please do not complain about them through other mediums; a simple `!report <username> seems to be cheating` can fix your problems within minutes to hours.
 - Go out-of-your-way to mediate negative situations and turn them into positive outcomes.
 
-While this article cannot cover how much more you can help the osu! community, simply playing the game as well can make osu! even more awesome! Good luck out there!
+While this article cannot cover how much more you can help the osu! community, simply playing the game as well can make osu! even more awesome!
