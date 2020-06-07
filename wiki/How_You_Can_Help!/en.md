@@ -71,7 +71,7 @@ If you would like to help make these projects even better and bring us closer to
 There is an old saying that you should become part of the solution, not the problem. Simply by following this old saying, you'd be helping osu! by making the community a brighter place. People will always complain, but there are still so many ways you can help lighten up the mood in the community:
 
 - Be friendly to each other; life is too short to argue.
-- [Report cheaters when you see them](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play). Please do not complain about them through other mediums; a simple `!report <username> seems to be cheating` can fix your problems much quicker.
+- [Report cheaters when you see them](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play). Please do not complain about them through other mediums; a simple `!report <username> seems to be cheating` can fix your problems within minutes to hours.
 - Go out-of-your-way to mediate negative situations and turn them into positive outcomes.
 
 While this article cannot cover how much more you can help the osu! community, simply playing the game as well can make osu! even more awesome! Good luck out there!
