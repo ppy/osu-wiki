@@ -25,7 +25,7 @@ Fortunately, it is still easy for you to help keep everything safe here. If you 
 
 If you encounter someone who has an issue with the game, lend them a hand! Whether it is a driver issue, a beatmap question, or gameplay questions, if you can answer it, you help the person in solving their problem.
 
-To begin lending people a hand, you can try…
+if you want to lend people a hand, you can try…
 
 - Choose a forum that sparks your interest:
   - [Help](https://osu.ppy.sh/community/forums/5)
