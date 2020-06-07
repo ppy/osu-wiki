@@ -1,4 +1,4 @@
-# Zamanlama penceresi
+# Zamanlama sekmesi
 
 *Ayrıca bakınız: [Şarkılar nasıl zamanlanır](/wiki/Guides/How_to_Time_Songs)*
 
