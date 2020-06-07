@@ -1,3 +1,5 @@
+# Zamanlama penceresi
+
 *Ayrıca bakınız: [Şarkılar nasıl zamanlanır](/wiki/Guides/How_to_Time_Songs)*
 
 ![Editördeki zamanlama penceresinin ekran görüntüsü](img/Timing_base.jpg)
