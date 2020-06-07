@@ -114,6 +114,19 @@ The Intermediate Global Taiko Showdown 2020 is run by various community members.
 | ![][flag_US] | **United States B** | **[epilouge1](https://osu.ppy.sh/users/4697635)**, [Nuggets-](https://osu.ppy.sh/users/9676809), [Trollface3399](https://osu.ppy.sh/users/4635728), [White Axl](https://osu.ppy.sh/users/12334307), [Yujki](https://osu.ppy.sh/users/14987094) |
 | ![][flag_VE] | **Venezuela** | **[\[OSC\]Rirutok](https://osu.ppy.sh/users/7846939)**, [Switch\_](https://osu.ppy.sh/users/13726103) |
 
+## Groups
+
+| Group | Top seed | High seed | Low seed | Unseeded |
+| :-: | :-- | :-- | :-- | :-- |
+| **A** | ![][flag_AR] Argentina | ![][flag_NL] Netherlands | ![][flag_PT] Portugal | ![][flag_NO] Norway |
+| **B** | ![][flag_CN] China | ![][flag_DE] Germany B | ![][flag_IT] Italy | ![][flag_BR] Brazil |
+| **C** | ![][flag_KR] South Korea | ![][flag_ES] Spain | ![][flag_PH] Philippines | ![][flag_JP] Japan B |
+| **D** | ![][flag_SG] Singapore | ![][flag_HK] Hong Kong | ![][flag_GR] Greece | ![][flag_ID] Indonesia B |
+| **E** | ![][flag_US] United States A | ![][flag_CL] Chile | ![][flag_FR] France A | ![][flag_BE] Belgium |
+| **F** | ![][flag_US] United States B | ![][flag_ID] Indonesia A | ![][flag_AU] Australia | ![][flag_CO] Colombia |
+| **G** | ![][flag_PL] Poland | ![][flag_CA] Canada | ![][flag_MY] Malaysia A | ![][flag_CZ] Czech Republic |
+| **H** | ![][flag_JP] Japan A | ![][flag_GB] United Kingdom | ![][flag_RU] Russian Federation A | ![][flag_AR] Argentina B |
+
 ## Mappools
 
 ### Qualifiers
@@ -261,8 +274,8 @@ The Intermediate Global Taiko Showdown 2020 is run by various community members.
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CN]: /wiki/shared/flag/CO.gif "Colombia"
-[flag_CO]: /wiki/shared/flag/CN.gif "China"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
 [flag_CR]: /wiki/shared/flag/CR.gif "Costa Rica"
 [flag_CZ]: /wiki/shared/flag/CZ.gif "Czech Republic"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
@@ -280,7 +293,7 @@ The Intermediate Global Taiko Showdown 2020 is run by various community members.
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_NO]: /wiki/shared/flag/NL.gif "Norway"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
