@@ -4,7 +4,7 @@
 
 osu! has a very vibrant community composed of people from all around the world. And anyone can be a part of the community in their own way! 
 
-And there are many ways you can help out in the community:
+Below are just a few of the ways you can help out in the community:
 
 ## Help out with the wiki
 
