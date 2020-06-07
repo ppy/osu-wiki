@@ -96,6 +96,31 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
+### Round of 32
+
+**[Download the map pack here! (61 MB)](https://mega.nz/file/9ssTSZ6J#EcuBoSKqbP5jmmXzMIOaq8enDEHwKWJxszktBglurlA)**
+
+- NoMod
+  - [Feryquitous - Lifill (SKSalt) \[Lifill Oni\]](https://osu.ppy.sh/beatmapsets/455031#taiko/975429)
+  - [M-O-T-U - Calculator (Midnaait) \[Quick Maths\]](https://osu.ppy.sh/beatmapsets/1184559#taiko/2469324)
+  - [katagiri - Reso\*nyan\*ce Fever (hoku-4625) \[hoku's Fever ^-^\]](https://osu.ppy.sh/beatmapsets/775555#taiko/1629729)
+  - [xi - Shoujo Kisokyoku \~ Speed Battle (Nofool) \[Hard Oni\]](https://osu.ppy.sh/beatmapsets/386135#taiko/843189)
+- Hidden
+  - [Dokyou Kyoudai - DIAVOLO (Mrriichi) \[Mid's Inner Oni\]](https://osu.ppy.sh/beatmapsets/355440#taiko/806659)
+  - [Shiron + Kofu x Morimori Atsushi to Teikyo de okuri shimasu - Demise Quartet (Aras25) \[Sur x Shin's Inner Oni\]](https://osu.ppy.sh/beatmapsets/463431#taiko/1002365)
+- HardRock
+  - [Fotzu - POTOMIRU PINERA (Vulkin) \[Axer's POTONI\]](https://osu.ppy.sh/beatmapsets/1118321#taiko/2394147)
+  - [Zekk - Hatsukoi Memories (namaniku) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/690025#taiko/1460477)
+- DoubleTime
+  - [Yasui Yousuke - SUPER-REFLEX (Zetera) \[SUPER-ONI\]](https://osu.ppy.sh/beatmapsets/994476#taiko/2079306)
+  - [Endorfin. - Luminous Rage -Feryquitous OrderBless Remix- (SKSalt) \[Oni\]](https://osu.ppy.sh/beatmapsets/942719#taiko/1968637)
+- FreeMod
+  - [Croove - BRAIN STORM (Trapmaniac) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/807990#taiko/1695649)
+  - [Eagle - Hypersonik (Michiru) \[23-'s Inner Oni\]](https://osu.ppy.sh/beatmapsets/985854#taiko/2064162)
+  - [Thaehan - Bwa ! (Nifty) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1067599#taiko/2235174)
+- Tiebreaker
+  - **[Unlucky Morpheus - FAITH / Konoha Tengu (Vulkin) \[Etherial Reward\]](https://osu.ppy.sh/beatmapsets/1024314#taiko/2142598)**
+
 ### Group Stage
 
 **[Download the map pack here! (83 MB)](https://mega.nz/file/NhsX1DTK#ckqXprnucBJI39-xweZF8PkFKshLIQfSX7Rl2kGglNQ)**
