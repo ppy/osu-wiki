@@ -118,7 +118,7 @@ The Intermediate Global Taiko Showdown 2020 is run by various community members.
 
 | Group | Top seed | High seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ![][flag_AR] Argentina | ![][flag_NL] Netherlands | ![][flag_PT] Portugal | ![][flag_NO] Norway |
+| **A** | ![][flag_AR] Argentina A | ![][flag_NL] Netherlands | ![][flag_PT] Portugal | ![][flag_NO] Norway |
 | **B** | ![][flag_CN] China | ![][flag_DE] Germany B | ![][flag_IT] Italy | ![][flag_BR] Brazil |
 | **C** | ![][flag_KR] South Korea | ![][flag_ES] Spain | ![][flag_PH] Philippines | ![][flag_JP] Japan B |
 | **D** | ![][flag_SG] Singapore | ![][flag_HK] Hong Kong | ![][flag_GR] Greece | ![][flag_ID] Indonesia B |
@@ -167,6 +167,61 @@ The Intermediate Global Taiko Showdown 2020 is run by various community members.
   - [t+pazolite feat. Rizna - Buzy Lake (Suzux) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/980094#taiko/2052901)
 - DoubleTime
   - [Ayu Ting Ting - Sambalado (Volta) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/542425#taiko/1630672)
+
+## Match results
+
+### Qualifiers
+
+| Seed | Team | Average rank |
+| --: | :-- | --: |
+| #1 | ![][flag_AR] Argentina A | 1.2 |
+| #2 | ![][flag_JP] Japan A | 3.4 |
+| #3 | ![][flag_US] United States B | 6.6 |
+| #4 | ![][flag_CN] China | 7.8 |
+| #5 | ![][flag_KR] South Korea | 9.6 |
+| #6 | ![][flag_PL] Poland | 10.2 |
+| #6 | ![][flag_SG] Singapore | 10.2 |
+| #8 | ![][flag_US] United States A | 10.6 |
+| #9 | ![][flag_HK] Hong Kong | 11.4 |
+| #9 | ![][flag_NL] Netherlands | 11.4 |
+| #11 | ![][flag_DE] Germany B | 12.2 |
+| #12 | ![][flag_CL] Chile | 15 |
+| #13 | ![][flag_ES] Spain | 16 |
+| #14 | ![][flag_ID] Indonesia A | 16.6 |
+| #15 | ![][flag_CA] Canada | 17.2 |
+| #15 | ![][flag_GB] United Kingdom | 17.2 |
+| #17 | ![][flag_RU] Russian Federation A | 17.6 |
+| #18 | ![][flag_PH] Philippines | 18.2 |
+| #19 | ![][flag_GR] Greece | 19.4 |
+| #20 | ![][flag_PT] Portugal | 20.2 |
+| #21 | ![][flag_FR] France A | 21.6 |
+| #22 | ![][flag_MY] Malaysia A | 21.8 |
+| #23 | ![][flag_AU] Australia | 22.4 |
+| #24 | ![][flag_IT] Italy | 23 |
+| #25 | ![][flag_ID] Indonesia B | 23.8 |
+| #26 | ![][flag_CO] Colombia | 24 |
+| #27 | ![][flag_AR] Argentina B | 26.8 |
+| #28 | ![][flag_CZ] Czech Republic | 28 |
+| #29 | ![][flag_BE] Belgium | 28.2 |
+| #30 | ![][flag_JP] Japan B | 28.8 |
+| #31 | ![][flag_BR] Brazil | 30.2 |
+| #32 | ![][flag_NO] Norway | 30.8 |
+| #33 | ![][flag_FI] Finland | 31.2 |
+| #34 | ![][flag_EC] Ecuador | 31.4 |
+| #35 | ![][flag_FR] France B | 31.8 |
+| #36 | ![][flag_DE] Germany A | 33 |
+| #36 | ![][flag_VE] Venezuela | 33 |
+| #38 | ![][flag_RU] Russian Federation B | 36.2 |
+| #39 | ![][flag_MX] Mexico | 36.8 |
+| #40 | ![][flag_UA] Ukraine | 37 |
+| #41 | ![][flag_TN] Tunisia | 37.2 |
+| #42 | ![][flag_CR] Costa Rica | 37.8 |
+| #43 | ![][flag_MY] Malaysia B | 41.4 |
+| #44 | ![][flag_TH] Thailand | 41.8 |
+
+- Only the top 32 team can proceed to the Group Stage
+- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1VxF7lvt09sR7NrG2JOEQR1F8RQiymb3XMARC6OudF_E/edit?usp=sharing)
+- Average rank is determined by `Σ position earned when playing the Qualifiers mappool / amount of Qualifiers mappool`
 
 ## Ruleset
 
