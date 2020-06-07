@@ -28,11 +28,11 @@ tags:
 
 | Yerleştirme | Ödül(ler) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Takım oyuncusu başına 300$, Turnuvaya özel ürünler, Profil rozeti, bir yıllık "osu! Champion" kullanıcı etiketi |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Takımdaki her oyuncu başına 160$, özel üretim ürünler, profil rozeti |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Takım oyuncusu başına 80$, Turnuvaya özel ürünler , Profil rozeti |
+| ![Altın taç](/wiki/shared/crown-gold.png "1.lik") | Takım oyuncusu başına 300$, Turnuvaya özel ürünler, Profil rozeti, bir yıllık "osu! Champion" kullanıcı etiketi |
+| ![Gümüş taç](/wiki/shared/crown-silver.png "2.lik") | Takımdaki her oyuncu başına 160$, özel üretim ürünler, Profil rozeti |
+| ![Bronz taç](/wiki/shared/crown-bronze.png "3.lük") | Takım oyuncusu başına 80$, Turnuvaya özel ürünler, Profil rozeti |
 
-![OWC 2019 winner badge](img/badge.png) ![OWC 2019 2nd place badge](img/badge2.png) ![OWC 2019 3rd place badge](img/badge3.png)
+![OWC 2019 kazanan rozeti](img/badge.png) ![OWC 2019 2.lik rozeti](img/badge2.png) ![OWC 2019 3.lük rozeti](img/badge3.png)
 
 ## Organizasyon
 
