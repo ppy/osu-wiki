@@ -10,13 +10,13 @@ And there are many ways you can help out in the community:
 
 [The wiki](https://github.com/ppy/osu-wiki) is our official knowledge base about anything and everything about osu!. And as such, the wiki is always looking for more contributors to help keep the site up-to-date with fresh, new knowledge and/or translations.
 
-If you're a newcomer to the osu! wiki, you can read more about it in the [osu! wiki Contribution Guide](/wiki/osu!_wiki_Contribution_Guide).
+If you are a newcomer to the osu! wiki, you can read more about it in the [osu! wiki Contribution Guide](/wiki/osu!_wiki_Contribution_Guide).
 
 ## Help keep osu! friendly and safe
 
 In order to keep the official community hubs safe, osu! has a dedicated moderation team that monitors the forums and online chats around-the-clock. 
 
-Fortunately, it's still easy for you to help keep everything safe here. If you want to help, you can…
+Fortunately, it is still easy for you to help keep everything safe here. If you want to help, you can…
 
 - Follow your favourite channels in the [osu! in-game chat](/wiki/Chat_Console), or in the forums.
 - If you see something happening that you think is inappropriate or disturbing in any way, use [the `!report` command](/wiki/Reporting_Bad_Behaviour) in the in-game chat to notify the moderators of it.
@@ -38,7 +38,7 @@ To begin lending people a hand, you can try…
 
 ## Help check/mod beatmaps!
 
-osu! has a dedicated team of reviewers to check if the beatmaps are ready to be ranked and played by everyone. However, that doesn't mean you can't contribute to this sector. So if you want to help, you can…
+osu! has a dedicated team of reviewers to check if the beatmaps are ready to be ranked and played by everyone. However, that doesn't mean you cannot contribute to this sector. So if you want to help, you can…
 
 - Look through or search the [Pending Beatmaps](https://osu.ppy.sh/beatmapsets?s=pending) listing for any artists or songs you like and/or want to contribute to.
 - Play beatmaps in the *Pending* or *Work-in-progress* stages and leave feedback in the beatmap's discussion page.
@@ -53,7 +53,7 @@ osu! has a thriving community of technical and competitive people. They range fr
 If you'd like to participate, you can…
 
 - Browse the [Tournaments](https://osu.ppy.sh/community/forums/55) forum; tournaments take time and a lot of manpower to organize without hitches, and you can help out by being a spectator judge in some cases.
-- Check out what's going on in the [Development](https://osu.ppy.sh/community/forums/2) forum; it's where most serious projects happen.
+- Check out what's going on in the [Development](https://osu.ppy.sh/community/forums/2) forum; it is where most serious projects happen.
 - Join a [beatmap project](https://osu.ppy.sh/community/forums/53) and learn how fun collaborating with others can be!
 - Start your own project! Whether it's bringing back dancing Pippi, or just making something cool for osu!; anything is accepted!
 
@@ -61,7 +61,7 @@ If you'd like to participate, you can…
 
 Started in 2017, the osu!lazer project is the current focus of the osu! team, along with the new website, which is what you see today! <!-- I personally don't like this line: it's oddly short and doesn't really finish what it started. But I don't really know what else to put here. Maybe a link to a page explaining what osu!lazer is at the very least. If any of you guys have ideas, please tell me. -toaster -->
 
-If you'd like to help make these projects even better and bring us closer to the future of osu!, then please consider…
+If you would like to help make these projects even better and bring us closer to the future of osu!, then please consider…
 
 - Helping with the [osu!lazer](https://github.com/ppy/osu) project. There is so much to implement on the new version of osu!, and you can help make it happen!
 - Make the [new website](https://github.com/ppy/osu-web) even better.
@@ -71,7 +71,7 @@ If you'd like to help make these projects even better and bring us closer to the
 There is an old saying that you should become part of the solution, not the problem. Simply by following this old saying, you'd be helping osu! by making the community a brighter place. People will always complain, but there are still so many ways you can help lighten up the mood in the community:
 
 - Be friendly to each other; life is too short to argue.
-- [Report cheaters when you see them](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play). Don't complain about them through other mediums; a simple `!report <username> seems to be cheating` can fix your problems much quicker.
+- [Report cheaters when you see them](/wiki/Reporting_Bad_Behaviour/Handling_Foul_Play). Please do not complain about them through other mediums; a simple `!report <username> seems to be cheating` can fix your problems much quicker.
 - Go out-of-your-way to mediate negative situations and turn them into positive outcomes.
 
 While this article cannot cover how much more you can help the osu! community, simply playing the game as well can make osu! even more awesome! Good luck out there!
