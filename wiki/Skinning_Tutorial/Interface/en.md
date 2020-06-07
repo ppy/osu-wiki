@@ -59,6 +59,7 @@ You can add patterns/objects to it; but remember that in some places, the button
 ## Song Selection
 
 <!-- TODO menu button backgrounds -->
+
 ### Menu Button Background
 
 This part appears in few places, but its main usage is in song selection screen as background for beatmaps info.
@@ -392,7 +393,6 @@ These don't have a size restriction, so feel free to make them bigger than the d
 
 ![](fs/passed_0.jpg)
 *(unknown)*
-
 
 #### Section Failed
 
