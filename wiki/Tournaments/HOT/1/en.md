@@ -95,6 +95,30 @@ The Hidden Only Tournament is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here! (115 MB)](https://drive.google.com/file/d/1zzOjFflNIk-4qL7nAmg_DWqdc5Xnl4mh/view?usp=sharing)**
+
+- Hidden
+  - [Suzuki Konomi - Zenbu Kimi ga Ita kara Shittanda (Kalibe) \[Hope\]](https://osu.ppy.sh/beatmapsets/587616#osu/1725575)
+  - [Demetori - Natsukashiki Touhou no Chi \~ Sic World (Keada) \[Stage 3\]](https://osu.ppy.sh/beatmapsets/818642#osu/1716448)
+  - [Beatdrop - Phase 1 (rickyboi) \[SHD\]](https://osu.ppy.sh/beatmapsets/54511#osu/168031)
+  - [PSYQUI - Be There (Livia) \[Future\]](https://osu.ppy.sh/beatmapsets/826236#osu/1731655)
+  - [xi - Halcyon (gowww) \[Another\]](https://osu.ppy.sh/beatmapsets/20871#osu/73699)
+  - [Luschka - Kami no Kotoba (byfar) \[Rue's Extra\]](https://osu.ppy.sh/beatmapsets/817667#osu/1714636)
+  - [MAX MAXIMIZER vs. DJ TOTTO - Rebellio (Realazy) \[NINO'S EXTRA\]](https://osu.ppy.sh/beatmapsets/744636#osu/1593690)
+  - [Cranky - Rave 2 Rave (Sonnyc) \[Expert\]](https://osu.ppy.sh/beatmapsets/751896#osu/1582902)
+  - [DragonForce - Ashes of the Dawn (pw384) \[Extreme\]](https://osu.ppy.sh/beatmapsets/786141#osu/1713929)
+  - [FamilyMart Jingle (deepsea) \[Family Mart is Your Home\]](https://osu.ppy.sh/beatmapsets/9400#osu/37658)
+- Hidden+DoubleTime
+  - [Scatman John - Scatman (Extor) \[Insane\]](https://osu.ppy.sh/beatmapsets/18#osu/80)
+  - [senya - Youyoumu no Gotoku (Satellite) \[Satellite\]](https://osu.ppy.sh/beatmapsets/110985#osu/299041)
+  - [TORIENA - RAT RACE (Acyl) \[Team :3c's Hyper\]](https://osu.ppy.sh/beatmapsets/1027510#osu/2148691)
+- Tiebreaker
+  - **[DystopiaGround - AugoEidEs (Amamiya Yuko) \[nao\]](https://osu.ppy.sh/beatmapsets/95701#osu/300689)**
+  - **[Meramipop - Take no Hana (Crystal) \[Posthumous Romance\]](https://osu.ppy.sh/beatmapsets/421858#osu/920877)**
+  - **[Camellia - Stealth-Dash (Realazy) \[Mir's Shadow\]](https://osu.ppy.sh/beatmapsets/908451#osu/1899759)**
+
 ### Quarterfinals
 
 **[Download the mappack here! (115 MB)](https://drive.google.com/file/d/1RR67F86CGZIz1Hn-cDVyR3pvOBuoGlL8/view?usp=sharing)**
