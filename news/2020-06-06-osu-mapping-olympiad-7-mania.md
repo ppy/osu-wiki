@@ -41,7 +41,7 @@ For this edition of the contest, we wanted to give participants more song choice
 ### Hyun - ENCOUNTER
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/33/previews/1319.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/33/previews/1283.mp3" type="audio/mpeg">
 </audio>
 
 ### Cranky - Ran
