@@ -22,7 +22,7 @@ The **Mania Beginner's Showdown 2** (***MBS2***) is a worldwide double-eliminati
 | Qualifiers | 2020-05-09/2020-05-10 |
 | Group Stage | 2020-05-15/2020-05-24 |
 | Round of 32 | 2020-05-30/2020-05-31 |
-| Round of 16 | 2020-06-06/2020-06-07 |
+| Round of 16 | 2020-06-05/2020-06-07 |
 | Quarterfinals | 2020-06-13/2020-06-14 |
 | Semifinals | 2020-06-20/2020-06-21 |
 | Finals | 2020-06-27/2020-06-28 |
@@ -37,7 +37,7 @@ The **Mania Beginner's Showdown 2** (***MBS2***) is a worldwide double-eliminati
 | Qualifiers | 2020-05-09/2020-05-10 |
 | Group Stage | 2020-05-16/2020-05-25 |
 | Round of 32 | 2020-05-30/2020-05-31 |
-| Round of 16 | 2020-06-06/2020-06-07 |
+| Round of 16 | 2020-06-05/2020-06-07 |
 | Quarterfinals | 2020-06-13/2020-06-14 |
 | Semifinals | 2020-06-20/2020-06-21 |
 | Finals | 2020-06-27/2020-06-28 |
@@ -299,6 +299,39 @@ The Mania Beginner's Showdown 2 is run by various community members.
 
 ### High division
 
+#### Round of 16
+
+Friday, 5 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| woahsia ![][flag_SG] | -1 | **0** | ![][flag_CL] **joako 321** | *win by default* |
+
+Saturday, 6 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| KagenoKami ![][flag_PH] | -1 | **0** | ![][flag_FI] **Haadez** | *win by default* |
+| AmateurMonkeyYT ![][flag_AU] | 2 | **5** | ![][flag_FR] **Djink** | [#1](https://osu.ppy.sh/community/matches/62573688) |
+| Katsumi ![][flag_DE] | 2 | **5** | ![][flag_TH] **-NC KJ-** | [#1](https://osu.ppy.sh/community/matches/62574888) |
+| nazerty68 ![][flag_FR] | -1 | **0** | ![][flag_ID] **ibacot** | [#1](https://osu.ppy.sh/community/matches/62576333) |
+| uwuchuchuu ![][flag_TH] | 3 | **5** | ![][flag_DE] **MonsterFighterP** | [#1](https://osu.ppy.sh/community/matches/62579724) |
+| **SochnyiKokos** ![][flag_FR] | **5** | 3 | ![][flag_US] Arraxey | [#1](https://osu.ppy.sh/community/matches/62587330) |
+
+Sunday, 7 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Lazereed** ![][flag_PH] | **5** | 0 | ![][flag_FR] nalo\_ | [#1](https://osu.ppy.sh/community/matches/62616128) |
+| **CrashSmash** ![][flag_CH] | **5** | 3 | ![][flag_SG] Kirameiji | [#1](https://osu.ppy.sh/community/matches/62617361) |
+| **Paturages** ![][flag_FR] | **5** | 0 | ![][flag_TH] \[Hakura\_San\] | [#1](https://osu.ppy.sh/community/matches/62619948) |
+| **ReZ\_TB** ![][flag_ID] | **5** | 4 | ![][flag_RU] -Tenma- | [#1](https://osu.ppy.sh/community/matches/62621363) |
+| **TNKSTC** ![][flag_TH] | **5** | 0 | ![][flag_GB] Wassero | [#1](https://osu.ppy.sh/community/matches/62623890) |
+| **DovaCube** ![][flag_FR] | **5** | 3 | ![][flag_DE] cakeboss05 | [#1](https://osu.ppy.sh/community/matches/62625231) |
+| **Gerwin13** ![][flag_PH] | **0** | -1 | ![][flag_DE] Parax\_UnDeath | *win by default* |
+| xelied ![][flag_FR] | 0 | **5** | ![][flag_SG] **loli\_seale** | [#1](https://osu.ppy.sh/community/matches/62633353) |
+| Screeply ![][flag_AR] | 0 | **5** | ![][flag_BR] **Konohana Lucia** | [#1](https://osu.ppy.sh/community/matches/62633311) |
+
 #### Round of 32
 
 Saturday, 30 May 2020:
@@ -555,6 +588,39 @@ Sunday, 24 May 2020:
 
 ### Low division
 
+#### Round of 16
+
+Friday, 5 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **ump\_me\_daddy** ![][flag_SE] | **5** | 4 | ![][flag_ID] DJRukito | [#1](https://osu.ppy.sh/community/matches/62530760) |
+
+Saturday, 6 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| mickeyparm ![][flag_TH] | 0 | **5** | ![][flag_MY] **Anamneses** | [#1](https://osu.ppy.sh/community/matches/62574899) |
+| FadingAway ![][flag_RU] | 3 | **5** | ![][flag_AU] **Arbusion** | [#1](https://osu.ppy.sh/community/matches/62574942) |
+| **Brittany Miller** ![][flag_RU] | **0** | -1 | ![][flag_PL] \[ Kangurek \] | *win by default* |
+| Dagoliir ![][flag_IT] | 0 | 0 | ![][flag_PH] Admiral Cliff | *nullified* |
+| \_demo ![][flag_PL] | 4 | **5** | ![][flag_ID] **xHirayuki** | [#1](https://osu.ppy.sh/community/matches/62577753) |
+| ThePrimesBros ![][flag_FR] | -1 | **0** | ![][flag_DE] **Quadrumplayer** | *win by default* |
+| TheWabbit ![][flag_US] | -1 | **0** | ![][flag_LV] **Lceanu** | *win by default* |
+
+Sunday, 7 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| BubbleTeaBunny ![][flag_SG] | 0 | **5** | ![][flag_SE] **Mestro** | [#1](https://osu.ppy.sh/community/matches/62618565) |
+| **Alex\_Terrol** ![][flag_RU] | **5** | 0 | ![][flag_KH] tsp648 | [#1](https://osu.ppy.sh/community/matches/62622608) |
+| **Nielz** ![][flag_NL] | **5** | 3 | ![][flag_PL] Ilikecook | [#1](https://osu.ppy.sh/community/matches/62623252) |
+| Cychloryn ![][flag_US] | 0 | **5** | ![][flag_DE] **QEpicAce** | [#1](https://osu.ppy.sh/community/matches/62627817) |
+| Brown918 ![][flag_HK] | 2 | **5** | ![][flag_MX] **Ammy** | [#1](https://osu.ppy.sh/community/matches/62627387) |
+| **tyud** ![][flag_US] | **5** | 0 | ![][flag_PH] Deadpulse | [#1](https://osu.ppy.sh/community/matches/62629474) |
+| **KorZ\[TH\]** ![][flag_TH] | **5** | 0 | ![][flag_US] mcgen | [#1](https://osu.ppy.sh/community/matches/62629400) |
+| **MAREK MARUCHA** ![][flag_PL] | **5** | 2 | ![][flag_RU] SergoM4444 | [#1](https://osu.ppy.sh/community/matches/62631113) |
+
 #### Round of 32
 
 Saturday, 30 May 2020:
@@ -575,7 +641,7 @@ Sunday, 31 May 2020:
 | **mickeyparm** ![][flag_TH] | **0** | -1 | ![][flag_US] TheWabbit | *win by default* |
 | tsp648 ![][flag_KH] | 0 | **4** | ![][flag_US] **mcgen** | [#1](https://osu.ppy.sh/community/matches/62321540) |
 | Admiral Cliff ![][flag_PH] | -1 | **0** | ![][flag_AU] **Arbusion** | *win by default* |
-| Marek Marucha ![][flag_PL] | 1 | **4** | ![][flag_HK] **Brown918** | [#1](https://osu.ppy.sh/community/matches/62331390) |
+| MAREK MARUCHA ![][flag_PL] | 1 | **4** | ![][flag_HK] **Brown918** | [#1](https://osu.ppy.sh/community/matches/62331390) |
 | **Ilikecook** ![][flag_PL] | **0** | -1 | ![][flag_ID] DJRukito | *win by default* |
 | ump\_me\_daddy ![][flag_SE] | 2 | **4** | ![][flag_NL] **Nielz** | [#1](https://osu.ppy.sh/community/matches/62333944) |
 | xHirayuki ![][flag_ID] | 1 | **4** | ![][flag_SE] **Mestro** | [#1](https://osu.ppy.sh/community/matches/62333914) |
