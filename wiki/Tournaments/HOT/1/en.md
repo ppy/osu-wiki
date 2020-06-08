@@ -17,7 +17,7 @@ The **Hidden Only Tournament** (***HOT***) is a worldwide double-elimination 2v2
 | Qualifiers | 2020-05-15/2020-05-18 |
 | Round of 32 | 2020-05-22/2020-05-25 |
 | Round of 16 | 2020-05-29/2020-06-01 |
-| Quarterfinals | 2020-06-06/2020-06-07 |
+| Quarterfinals | 2020-06-06/2020-06-08 |
 | Semifinals | 2020-06-13/2020-06-14 |
 | Finals | 2020-06-20/2020-06-21 |
 | Grand Finals | 2020-06-27/2020-06-28 |
@@ -201,6 +201,39 @@ The Hidden Only Tournament is run by various community members.
   - [Sharlo - Ifuudoudou (Chaoslitz) \[Ifuuidol\]](https://osu.ppy.sh/beatmapsets/445251#osu/956456)
 
 ## Match results
+
+### Quarterfinals
+
+Saturday, 6 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| nothing to hide | 1 | **6** | **newton is gey** | [#1](https://osu.ppy.sh/community/matches/62577804) |
+| **comet** | **6** | 2 | 3山刪白狼 | [#1](https://osu.ppy.sh/community/matches/62581279) |
+| what | 5 | **6** | **akinari** | [#1](https://osu.ppy.sh/community/matches/62584394) |
+| ar7 | 2 | **6** | **Koppepan Gaming** | [#1](https://osu.ppy.sh/community/matches/62585386) |
+| **HR Main** | **6** | 2 | ramon's nipples | [#1](https://osu.ppy.sh/community/matches/62585434) |
+| **Kärpät Oulu** | **6** | 0 | Carlos | [#1](https://osu.ppy.sh/community/matches/62587747) |
+| **Omero Kamalio** | **6** | 1 | colegas 1 | [#1](https://osu.ppy.sh/community/matches/62587757) |
+| **Eat 'Em Up** | **6** | 3 | Saxophone Bug | [#1](https://osu.ppy.sh/community/matches/62589800) |
+| **Pocket Galaxy** | **6** | 0 | bojowa wiertarka | [#1](https://osu.ppy.sh/community/matches/62593868) |
+| **sawada's team** | **6** | 2 | osuplayer111 | [#1](https://osu.ppy.sh/community/matches/62596214) |
+
+Sunday, 7 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **newton is gey** | **6** | 2 | Eat 'Em Up | [#1](https://osu.ppy.sh/community/matches/62619469) |
+| Kärpät Oulu | 2 | **6** | **Pocket Galaxy** | [#1](https://osu.ppy.sh/community/matches/62627421) |
+| akinari | 2 | **6** | **HR Main** | [#1](https://osu.ppy.sh/community/matches/62627447) |
+
+Monday, 8 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| C-O-C-A-I-N-E | 3 | **6** | **:rooGya:** | [#1](https://osu.ppy.sh/community/matches/62644294) |
+| **Phrygian Friends** | **6** | 1 | butterfly | [#1](https://osu.ppy.sh/community/matches/62645681) |
+| **Omero Kamalio** | **6** | 2 | sawada's team | [#1](https://osu.ppy.sh/community/matches/62672610) |
 
 ### Round of 16
 
