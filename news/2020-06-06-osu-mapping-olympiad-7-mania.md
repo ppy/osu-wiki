@@ -1,24 +1,24 @@
 ---
 layout: post
 title: "osu! Mapping Olympiad #7: osu!mania"
-date: 2020-06-06 12:00:00 +0000
+date: 2020-06-08 12:00:00 +0000
 ---
 
-The osu!mania edition of the Mapping Olympiad is back again! Do you have what it takes to become the next Mania Elite Mapper? Join the competition right now!
+The osu!mania edition of the Mapping Olympiad is back again! Do you have what it takes to become the next Mania Elite Mapper? Join the competition today and find out!
 
 [![](https://osu.ppy.sh/help/wiki/shared/news/banners/osu_mapping_olympiad.jpg)](https://osu.ppy.sh/community/contests/97)
 
 Hello everyone and welcome to the second osu!mania edition of the Mapping Olympiad, where we decided to go back with an old school format!
 
-Are you a new mapper and you want to prove to the world you have enough skills to partake in this challenge or are you an veteran and you want to mark history by being the second Mania Olympian? Well, you’ve landed in the right place!
+Are you a new mapper and you want to prove to the world you have enough skills to partake in this challenge, or are you an veteran and you want to make history by becoming the second osu!mania Olympian? If either of these apply, you’ve landed in the right place!
 
-The first Mania edition of the Mapping Olympiad was won by [PianoLuigi](https://osu.ppy.sh/users/9665915), who managed to charm all the judges with his entry! Will you be the next Olympian?
+The first Mania edition of the Mapping Olympiad was won by [PianoLuigi](https://osu.ppy.sh/users/9665915), who managed to charm all the judges with his entry! Will you be next?
 
 Enough talk, let's jump into action!
 
 ## Song selection
 
-For this edition of the contest, we wanted to give participants more song choices to cover everyone's taste as much as possible. As shown below, we picked *one song* from *five different artists* that would fit the most for osu!mania.
+For this edition of the contest, we wanted to give participants more song choices to cover everyone's taste as much as possible. As shown below, we picked *one song* from *five different Featured Artists* that would fit the most for osu!mania.
 
 ### Frums - Star Of The COME ON!!
 
@@ -64,7 +64,7 @@ As an additional requirements for this contest edition, we wanted to go back to 
 
 Please note that you can only map **one song per keymode**, which means you can submit an entry in both **4K** and/or **7K**.
 
-## Judging criteria
+## Judging Criteria
 
 For each eligible submitted difficulty, the judging panel will award points based on the following criteria:
 
