@@ -151,6 +151,28 @@ The Mania Beginner's Showdown 2 is run by various community members.
 
 ### High division
 
+#### Quarterfinals
+
+**[Download the mappack here! (88 MB)](https://mega.nz/file/mvJChARS#9550w7Z97pfmHqjcLkVXmfam7pHUUbJFwmzyvYmQJQk)**
+
+- FreeMod
+  - [THE SxPLAY & KIVA - Hyou Ryuu (zero2snow) \[Stage 1: Drifted\]](https://osu.ppy.sh/beatmapsets/980182#mania/2051288)
+  - [stereoberry - evangelize (blurry images) (Tidek) \[transparency (SV)\]](https://osu.ppy.sh/beatmapsets/577748#mania/1222765)
+  - [Waterflame - RadioCutter (TheNewBungping) \[Frequency\]](https://osu.ppy.sh/beatmapsets/928513#mania/1939403)
+  - [Eve - As You Like It (Raveille) \[Stage 3: Regulation\]](https://osu.ppy.sh/beatmapsets/1017847#mania/2130198)
+  - [Aimer - Through My Blood \<AM\> (Raveille) \[Stage 3: Energy\]](https://osu.ppy.sh/beatmapsets/856473#mania/1789302)
+  - [K A Z M A S A - RTCMON (Couil) \[uwu\]](https://osu.ppy.sh/beatmapsets/749852#mania/1579336)
+  - [blessthefall - 40 Days... (puxtu) \[no pp allowed\]](https://osu.ppy.sh/beatmapsets/476241#mania/1017294)
+  - [Hige Driver - Ukigumo (Guilhermeziat) \[I wanna be the jumpstream\]](https://osu.ppy.sh/beatmapsets/960054#mania/2009983)
+  - [DJ TOTTO - DORNWALD \~Junge\~ (inteliser) \[EXTREME\]](https://osu.ppy.sh/beatmapsets/834112#mania/1747847)
+  - [UNDEAD CORPORATION - Embraced by the Flame (Sooph) \[Hard\]](https://osu.ppy.sh/beatmapsets/875784#mania/2040784)
+  - [penoreri - Everlasting Message (\_FrEsH\_ChICkEn\_) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/374724#mania/820842)
+  - [goreshit - o'er the flood (Shoegazer) \[deluge\]](https://osu.ppy.sh/beatmapsets/497750#mania/1552320)
+  - [Natsume Chiaki - Hanairo Biyori (Asherz007) \[Croco's Hyper\]](https://osu.ppy.sh/beatmapsets/987173#mania/2065029)
+  - [KNOWER - THE GOVT. KNOWS (RemiFlan) \[STICK IT TO THE MAN\]](https://osu.ppy.sh/beatmapsets/740972#mania/1563097)
+- Tiebreaker
+  - **[xi vs Feryquitous - Cyberspace (HowToPlayLN) \[RuleNoteSerenade's Induction\]](https://osu.ppy.sh/beatmapsets/1110640#mania/2320709)**
+
 #### Round of 16
 
 **[Download the mappack here! (134 MB)](https://mega.nz/file/yuJwWSRT#f2-ee1CnI-_iAGROK3p1AaHo7TowpRcCH5leNMmYkhg)**
@@ -223,6 +245,28 @@ The Mania Beginner's Showdown 2 is run by various community members.
   - [Silentroom - NULCTRL (Raveille) \[Stage 5: Command\]](https://osu.ppy.sh/beatmapsets/1162328#mania/2424667)
 
 ### Low division
+
+#### Quarterfinals
+
+**[Download the mappack here! (93 MB)](https://mega.nz/file/Lu5CACIS#MnoNjPVpMjwmB9jF3f6TuE38636e0UXIqLFHS1jDWmk)**
+
+- FreeMod
+  - [Porter Robinson - Flicker (Hydria) \[SV Heaven\]](https://osu.ppy.sh/beatmapsets/490560#mania/1045578)
+  - [Atik - Itz Mr. Grim (Schrodinger) \[Commando's Hard\]](https://osu.ppy.sh/beatmapsets/461213#mania/1007135)
+  - [HOME - Resonance (Guilhermeziat) \[ResidentSleeper\]](https://osu.ppy.sh/beatmapsets/1024592#mania/2143115)
+  - [Itou Kanako - Fatima (TV size) (Adri) \[Fly High\]](https://osu.ppy.sh/beatmapsets/906277#mania/1891296)
+  - [XX:me - Hitori (Raveille) \[Where are you now...\]](https://osu.ppy.sh/beatmapsets/766073#mania/1610599)
+  - [Virtual Self - EON BREAK (Janko) \[Hard\]](https://osu.ppy.sh/beatmapsets/932892#mania/1956380)
+  - [Presti - A Million Stars (Pizza) \[Adinata's 4K Hard\]](https://osu.ppy.sh/beatmapsets/379422#mania/835906)
+  - [Shiki - Endless Dream (Shoegazer) \[hi19's Normal\]](https://osu.ppy.sh/beatmapsets/263929#mania/867244)
+  - [Fractal Dreamers - Celestial Horizon (AchsanLovers) \[Rin's Hard\]](https://osu.ppy.sh/beatmapsets/896302#mania/2255680)
+  - [DELTA HEAVY - White Flag (bumpinho) \[Peace\]](https://osu.ppy.sh/beatmapsets/495875#mania/1055541)
+  - [Aphex Twin - Flim (Davvy) \[Vacant (Hard)\]](https://osu.ppy.sh/beatmapsets/1178598#mania/2475737)
+  - [Akira Complex - Ether Strike (Kuo Kyoka) \[Present\]](https://osu.ppy.sh/beatmapsets/884961#mania/1849682)
+  - [OISHII - ONIGIRI FREEWAY (Mentholzzz) \[Poly's Konbu Onigiri "HD"\]](https://osu.ppy.sh/beatmapsets/663098#mania/1464610)
+  - [Lon x Chroma - Wakaranai (Raveille) \[Tasukete!\]](https://osu.ppy.sh/beatmapsets/643398#mania/1363864)
+- Tiebreaker
+  - **[Camellia - GHOST (Protastic101) \[HD\]](https://osu.ppy.sh/beatmapsets/797183#mania/1674212)**
 
 #### Round of 16
 
