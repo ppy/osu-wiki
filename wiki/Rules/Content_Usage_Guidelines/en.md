@@ -3,6 +3,7 @@
 A user should have permission from relevant copyright holders for audio/visual/gameplay assets included in their beatmap submissions. Without permission, the beatmap is at risk of being removed and the creator is at risk of being denied access to the submission system as per the [osu! copyright policy](/wiki/legal/copyright).
 
 To ensure a user's account remains in good standing, it is recommended to create beatmaps using assets that are any of the following:
+
 - legally cleared for use in osu!
 - permitted for use by their creator(s)
 - copyright-free
