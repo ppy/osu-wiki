@@ -175,7 +175,7 @@ The curation system involves the process of curators selecting the beatmaps bein
 
 Everyone can apply to become a curator by filling this [application form](https://spotlights.team/app).
 
-Applicants are being reviewed by the project management and team leaders based on their proficiency as player, beatmap creator, beatmap modder and tournament mappool selector for their respective game mode. Applicants do not need to bring every proficiency along. The roster of curators is based on a healthy mix and match of various skill assets, experiences and proficiencies. As the curator teams are undergoing big changes and readjustments, the amount of members is being kept small on purpose right now.
+All applicants are reviewed by project management and team leaders and assessed based on their proficiency as a player, mapper, modder and tournament mappool selector for their respective game mode. Applicants do not need to be proficient in all of these things to be selected, but having a broad skill set certainly helps. The roster of curators is based on a healthy mix and match of various skill levels, experiences and proficiencies. The number of curators is being purposefully kept small and limited at the moment as the project develops.
 
 ## History
 
