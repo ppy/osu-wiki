@@ -162,6 +162,112 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
 
 ## Match results
 
+### Group Stage
+
+Saturday, 6 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **HHVanilla Ice** ![][flag_MY] | **0** | -1 | ![][flag_AR] BossPlays | *win by default* |
+| AuroraPhasmata ![][flag_US] | 0 | **5** | ![][flag_BR] **Foxeru** | [#1](https://osu.ppy.sh/community/matches/62562333) |
+| \[Jose20025\] ![][flag_BO] | 0 | **5** | ![][flag_JP] **uone** | [#1](https://osu.ppy.sh/community/matches/62563974) |
+| **trollocat** ![][flag_AR] | **5** | 1 | ![][flag_BR] Coryn | [#1](https://osu.ppy.sh/community/matches/62563990) |
+| butter0414 ![][flag_JP] | 0 | **5** | ![][flag_JP] **tamakagi2000** | [#1](https://osu.ppy.sh/community/matches/62563746) |
+| **zkane2** ![][flag_JP] | **5** | 0 | ![][flag_AR] trollocat | [#1](https://osu.ppy.sh/community/matches/62565504) |
+| **Coryn** ![][flag_BR] | **5** | 4 | ![][flag_JP] shakegohan\_jar | [#1](https://osu.ppy.sh/community/matches/62565518) |
+| **ekumea1123** ![][flag_JP] | **5** | 0 | ![][flag_BR] Skull Kid | [#1](https://osu.ppy.sh/community/matches/62565485) |
+| Blerargh ![][flag_SG] | -1 | **0** | ![][flag_TW] **Yuemiao** | *win by default* |
+| **butter0414** ![][flag_JP] | **5** | 2 | ![][flag_US] AuroraPhasmata | [#1](https://osu.ppy.sh/community/matches/62565558) |
+| **Ethaaaan** ![][flag_US] | **5** | 1 | ![][flag_KR] BamgoeSN | [#1](https://osu.ppy.sh/community/matches/62565545) |
+| Coryn ![][flag_BR] | 2 | **5** | ![][flag_JP] **zkane2** | [#1](https://osu.ppy.sh/community/matches/62567066) |
+| **BamgoeSN** ![][flag_KR] | **5** | 4 | ![][flag_MY] HHVanilla Ice | [#1](https://osu.ppy.sh/community/matches/62568685) |
+| Yuemiao ![][flag_TW] | 2 | **5** | ![][flag_US] **jyake** | [#1](https://osu.ppy.sh/community/matches/62569799) |
+| shougi\_55 ![][flag_JP] | 2 | **5** | ![][flag_MY] **\[Zeth\]** | [#1](https://osu.ppy.sh/community/matches/62571304) |
+| Naverlyn ![][flag_ID] | 0 | **5** | ![][flag_JP] **nekomusya1234** | [#1](https://osu.ppy.sh/community/matches/62571260) |
+| **owatanimal** ![][flag_JP] | **5** | 4 | ![][flag_US] cheese salad | [#1](https://osu.ppy.sh/community/matches/62572461) |
+| amuzaK ![][flag_JP] | 0 | **5** | ![][flag_JP] **iceOC** | [#1](https://osu.ppy.sh/community/matches/62575099) |
+| **nananass** ![][flag_JP] | **5** | 1 | ![][flag_IT] D3kuu | [#1](https://osu.ppy.sh/community/matches/62576321) |
+| **Ikkun** ![][flag_IT] | **5** | 0 | ![][flag_JP] shougi\_55 | [#1](https://osu.ppy.sh/community/matches/62576329) |
+| XOlifreX ![][flag_BE] | 0 | **5** | ![][flag_JP] **owatanimal** | [#1](https://osu.ppy.sh/community/matches/62576409) |
+| **uone** ![][flag_JP] | **5** | 0 | ![][flag_GR] Genjuro | [#1](https://osu.ppy.sh/community/matches/62576381) |
+| **iceOC** ![][flag_JP] | **5** | 0 | ![][flag_JP] Noko\_BSF | [#1](https://osu.ppy.sh/community/matches/62577780) |
+| **D3kuu** ![][flag_IT] | **5** | 0 | ![][flag_CH] MC2BP | [#1](https://osu.ppy.sh/community/matches/62577838) |
+| Metzo ![][flag_GB] | 0 | **5** | ![][flag_JP] **ekumea1123** | [#1](https://osu.ppy.sh/community/matches/62577844) |
+| **Minekuchi** ![][flag_DE] | **5** | 0 | ![][flag_KR] taeeunobrine | [#1](https://osu.ppy.sh/community/matches/62577848) |
+| **Horiiizon** ![][flag_GB] | **5** | 4 | ![][flag_IT] LordEnder | [#1](https://osu.ppy.sh/community/matches/62577856) |
+| shakegohan\_jar ![][flag_JP] | 0 | **5** | ![][flag_JP] **zkane2** | [#1](https://osu.ppy.sh/community/matches/62579301) |
+| duski ![][flag_FI] | 1 | **5** | ![][flag_JP] **iceOC** | [#1](https://osu.ppy.sh/community/matches/62579305) |
+| Krekker ![][flag_NL] | -1 | **0** | ![][flag_IT] **Ikkun** | *win by default* |
+| **Noko\_BSF** ![][flag_JP] | **5** | 3 | ![][flag_JP] amuzaK | [#1](https://osu.ppy.sh/community/matches/62579293) |
+| KostPer ![][flag_GR] | 0 | **5** | ![][flag_ES] **AlvaroYL** | [#1](https://osu.ppy.sh/community/matches/62579427) |
+| **bernard351** ![][flag_PL] | **5** | 1 | ![][flag_RU] Dayzeek | [#1](https://osu.ppy.sh/community/matches/62579434) |
+| Genjuro ![][flag_GR] | **5** | 2 | ![][flag_KR] oL0 | [#1](https://osu.ppy.sh/community/matches/62579452) |
+| Ectomic ![][flag_FR] | 0 | **5** | ![][flag_JP] **owatanimal** | [#1](https://osu.ppy.sh/community/matches/62579461) |
+| Ectomic ![][flag_FR] | -1 | **0** | ![][flag_BE] **XOlifreX** | *win by default* |
+| driodx ![][flag_US] | 0 | **5** | ![][flag_JP] **nananass** | [#1](https://osu.ppy.sh/community/matches/62581216) |
+| Drecksackblase ![][flag_DE] | 3 | **5** | ![][flag_IT] **A-40** | [#1](https://osu.ppy.sh/community/matches/62581268) |
+| **Kyoumo** ![][flag_BR] | **5** | 2 | ![][flag_DE] Drecksackblase | [#1](https://osu.ppy.sh/community/matches/62583188) |
+| **vodnanen** ![][flag_FI] | **5** | 0 | ![][flag_FR] Gintoki8 | [#1](https://osu.ppy.sh/community/matches/62583356) |
+| **AlvaroYL** ![][flag_ES] | **5** | 3 | ![][flag_DE] Minekuchi | [#1](https://osu.ppy.sh/community/matches/62583373) |
+| Gintoki8 ![][flag_FR] | 0 | **5** | ![][flag_CA] **janitore** | [#1](https://osu.ppy.sh/community/matches/62587580) |
+| **Loopy542** ![][flag_US] | **5** | 1 | ![][flag_BR] Kyoumo | [#1](https://osu.ppy.sh/community/matches/62589845) |
+| XOlifreX ![][flag_BE] | 0 | **5** | ![][flag_US] **cheese salad** | [#1](https://osu.ppy.sh/community/matches/62589805) |
+| Gintoki8 ![][flag_FR] | 0 | **5** | ![][flag_CA] **Vysha** | [#1](https://osu.ppy.sh/community/matches/62589626) |
+| **Vysha** ![][flag_CA] | **5** | 2 | ![][flag_FI] vodnanen | [#1](https://osu.ppy.sh/community/matches/62591618) |
+| **HiroK** ![][flag_BR] | **5** | 1 | ![][flag_GB] Horiiizon | [#1](https://osu.ppy.sh/community/matches/62589644), [#2](https://osu.ppy.sh/community/matches/62589644) |
+| **Ulqui** ![][flag_CL] | **5** | 1 | ![][flag_PL] bernard351 | [#1](https://osu.ppy.sh/community/matches/62593948) |
+| **cheese salad** ![][flag_US] | **5** | 0 | ![][flag_FR] Ectomic | [#1](https://osu.ppy.sh/community/matches/62594079) |
+| vodnanen ![][flag_FI] | 2 | **5** | ![][flag_CA] **janitore** | [#1](https://osu.ppy.sh/community/matches/62596611) |
+| Atreevete ![][flag_AR] | 0 | **5** | ![][flag_BR] **HiroK** | [#1](https://osu.ppy.sh/community/matches/62598961) |
+| **Skull Kid** ![][flag_BR] | **5** | 1 | ![][flag_US] Etholux | [#1](https://osu.ppy.sh/community/matches/62600882) |
+| **janitore** ![][flag_CA] | **5** | 2 | ![][flag_CA] Vysha | [#1](https://osu.ppy.sh/community/matches/62603147) |
+| Backfire ![][flag_US] | -1 | **0** | ![][flag_CL] **Ulqui** | *win by default* |
+| Foxeru ![][flag_BR] | 1 | **5** | ![][flag_JP] **butter0414** | [#1](https://osu.ppy.sh/community/matches/62603418) |
+| **nekomusya1234** ![][flag_JP] | **5** | 1 | ![][flag_AR] gaston\_2199 | [#1](https://osu.ppy.sh/community/matches/62603425) |
+
+Sunday, 7 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **tamakagi2000** ![][flag_JP] | **5** | 2 | ![][flag_BR] Foxeru | [#1](https://osu.ppy.sh/community/matches/62604813) |
+| jyake ![][flag_US] | 4 | **5** | ![][flag_SG] **Blerargh** | [#1](https://osu.ppy.sh/community/matches/62604818) |
+| **Ethaaaan** ![][flag_US] | **5** | 3 | ![][flag_MY] HHVanilla Ice | [#1](https://osu.ppy.sh/community/matches/62606430) |
+| **shakegohan\_jar** ![][flag_JP] | **5** | 2 | ![][flag_AR] trollocat | [#1](https://osu.ppy.sh/community/matches/62606449) |
+| **gaston\_2199** ![][flag_AR] | **0** | -1 | ![][flag_ID] Naverlyn | *win by default* |
+| **oL0** ![][flag_KR] | **5** | 4 | ![][flag_BO] \[Jose20025\] | [#1](https://osu.ppy.sh/community/matches/62606431) |
+| Etholux ![][flag_US] | 1 | **5** | ![][flag_JP] **ekumea1123** | [#1](https://osu.ppy.sh/community/matches/62607645) |
+| AuroraPhasmata ![][flag_US] | 0 | **5** | ![][flag_JP] **tamakagi2000** | [#1](https://osu.ppy.sh/community/matches/62607648) |
+| **jyake** ![][flag_US] | **5** | 0 | ![][flag_AU] Tsubasa2 | [#1](https://osu.ppy.sh/community/matches/62608064) |
+| Garpo ![][flag_US] | 0 | **5** | ![][flag_JP] **nekomusya1234** | [#1](https://osu.ppy.sh/community/matches/62609087) |
+| Tsubasa2 ![][flag_AU] | 1 | **5** | ![][flag_TW] **Yuemiao** | [#1](https://osu.ppy.sh/community/matches/62610693) |
+| Tsubasa2 ![][flag_AU] | 0 | **5** | ![][flag_SG] **Blerargh** | [#1](https://osu.ppy.sh/community/matches/62612124) |
+| taeeunobrine ![][flag_KR] | 0 | **5** | ![][flag_ES] **AlvaroYL** | [#1](https://osu.ppy.sh/community/matches/62616170) |
+| Krekker ![][flag_NL] | -1 | **0** | ![][flag_JP] **shougi\_55** | *win by default* |
+| **taeeunobrine** ![][flag_KR] | **5** | 2 | ![][flag_GR] KostPer | [#1](https://osu.ppy.sh/community/matches/62618684) |
+| oL0 ![][flag_KR] | 0 | **5** | ![][flag_JP] **uone** | [#1](https://osu.ppy.sh/community/matches/62618725) |
+| MC2BP ![][flag_CH] | 1 | **5** | ![][flag_JP] **nananass** | [#1](https://osu.ppy.sh/community/matches/62619982) |
+| amuzaK ![][flag_JP] | 3 | **5** | ![][flag_FI] **duski** | [#1](https://osu.ppy.sh/community/matches/62619979) |
+| \[Zeth\] ![][flag_MY] | 0 | **5** | ![][flag_IT] **Ikkun** | [#1](https://osu.ppy.sh/community/matches/62621499) |
+| A-40 ![][flag_IT] | 4 | **5** | ![][flag_BR] **Kyoumo** | [#1](https://osu.ppy.sh/community/matches/62621496) |
+| KostPer ![][flag_GR] | 0 | **5** | ![][flag_DE] **Minekuchi** | [#1](https://osu.ppy.sh/community/matches/62621624) |
+| **\[Zeth\]** ![][flag_MY] | **0** | -1 | ![][flag_NL] Krekker | *win by default* |
+| duski ![][flag_FI] | 3 | **5** | ![][flag_JP] **Noko\_BSF** | [#1](https://osu.ppy.sh/community/matches/62623475) |
+| A-40 ![][flag_IT] | 1 | **5** | ![][flag_US] **Loopy542** | [#1](https://osu.ppy.sh/community/matches/62626498) |
+| **Naverlyn** ![][flag_ID] | **5** | 1 | ![][flag_US] Garpo | [#1](https://osu.ppy.sh/community/matches/62627312) |
+| Backfire ![][flag_US] | 0 | 0 | ![][flag_PL] bernard351 | *nullified* |
+| LordEnder ![][flag_IT] | 4 | **5** | ![][flag_BR] **HiroK** | [#1](https://osu.ppy.sh/community/matches/62627575) |
+| Metzo ![][flag_GB] | 1 | **5** | ![][flag_BR] **Skull Kid** | [#1](https://osu.ppy.sh/community/matches/62629268) |
+| driodx ![][flag_US] | 0 | **5** | ![][flag_IT] **D3kuu** | [#1](https://osu.ppy.sh/community/matches/62629940) |
+| **Dayzeek** ![][flag_RU] | **0** | -1 | ![][flag_US] Backfire | *win by default* |
+| **LordEnder** ![][flag_IT] | **5** | 0 | ![][flag_AR] Atreevete | [#1](https://osu.ppy.sh/community/matches/62631334) |
+| **Etholux** ![][flag_US] | **5** | 1 | ![][flag_GB] Metzo | [#1](https://osu.ppy.sh/community/matches/62633209) |
+| Drecksackblase ![][flag_DE] | 1 | **5** | ![][flag_US] **Loopy542** | [#1](https://osu.ppy.sh/community/matches/62633214) |
+| **MC2BP** ![][flag_CH] | **5** | 0 | ![][flag_US] driodx | [#1](https://osu.ppy.sh/community/matches/62633396) |
+| \[Jose20025\] ![][flag_BO] | 0 | **5** | ![][flag_GR] **Genjuro** | [#1](https://osu.ppy.sh/community/matches/62635530) |
+| Dayzeek ![][flag_RU] | 0 | **5** | ![][flag_CL] **Ulqui** | [#1](https://osu.ppy.sh/community/matches/62635557) |
+| Atreevete ![][flag_AR] | 2 | **5** | ![][flag_GB] **Horiiizon** | [#1](https://osu.ppy.sh/community/matches/62638003) |
+| Garpo ![][flag_US] | 2 | **5** | ![][flag_AR] **gaston\_2199** | [#1](https://osu.ppy.sh/community/matches/62642595) |
+
 ### Qualifiers
 
 | Seed | Team | Average rank |
