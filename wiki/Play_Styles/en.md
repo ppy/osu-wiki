@@ -5,7 +5,7 @@ needs_cleanup: true
 
 # Play styles
 
-This page will detail the various different ways in which players can choose to play in their respective game modes.
+This page will detail the various ways in which players can choose to play in their respective game modes.
 
 ## ![](/wiki/shared/mode/osu.png) osu!
 
@@ -13,17 +13,18 @@ This page will detail the various different ways in which players can choose to 
 
 Mouse-only was once the _only_ way to play osu! until other playing methods were supported over time.
 
-Also known as _pure-mouse_, mouse-only players navigate the in-game cursor with a mouse and also tap beats, follow sliders, and spin spinners with only left/right mouse click.
-The play style is widely considered the hardest method to play and mouse-only players who rank high in the overall rankings are usually greatly respected by the community.
+Also known as _pure-mouse_, mouse-only players navigate the in-game cursor with a mouse and tap beats, follow sliders, and spin spinners by only clicking the left/right mouse buttons.
+
+The play style is widely considered to be the hardest method to play and mouse-only players who rank high in the overall rankings are usually greatly respected by the community.
 
 The key overlay shows left/right click as `M1` and `M2`.
 
 ### Dual Mouse
 
-Dual Mouse is a play style in which a player has a mouse in each hand; using one mouse to tap and another one mouse to aim/move.
+Dual Mouse is a play style in which a player has a mouse in each hand; using one mouse to tap and another mouse to aim/move.
 
-It is used to be considered a _joke_ play style to most players until May 2013 when a Canadian player named ![](/wiki/shared/flag/CA.gif "Canada") [Azer](https://osu.ppy.sh/users/2155578) starting getting scores on maps such as [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691) and [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823) whilst playing Dual Mouse.
-It is also common for Dual Mouse players to tape the tapping mouse to the desk.
+It used to be considered a joke play style to most players until May 2013 when Canadian player ![](/wiki/shared/flag/CA.gif "Canada") [Azer](https://osu.ppy.sh/users/2155578) starting getting scores on maps such as [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691) and [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823) whilst playing with dual mice.
+It is also common for Dual Mouse players to tape the mouse used for clicking to the desk.
 
 ### Mouse + Keyboard
 
