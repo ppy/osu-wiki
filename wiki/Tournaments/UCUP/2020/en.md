@@ -46,13 +46,10 @@ The Ulat Bulu Cup 2020 is run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1046231)
-- [MBS Discord server](https://discord.gg/uNSqksR)
-- [Livestream](https://www.twitch.tv/osu_mbs)
-- Challonge brackets
-  - [High division](https://challonge.com/UCUP 2020_high)
-  - [Low division](https://challonge.com/UCUP 2020_low)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRk7T_38QYlVO8mjybHHUm0r40qJol4AttYPn7ePQoiqcQ4PAUgTjMH4JulmjQM4y2-jNeD3bCbEMYN/pubhtml)**
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1065413)
+- [UCUP Discord server](https://discord.gg/mBgs4bz)
+- [Livestream](https://www.twitch.tv/ulatcup)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1aZ2jN6BKxRbrOiyMOia9Uu4V3mWO-Ax7ns0BCH9vzTk/edit?usp=sharing)**
 
 ## Participants
 
