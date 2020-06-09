@@ -90,9 +90,10 @@ Generous donations from ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034
 | **Puffochino** | ![][flag_CA] **[garmgarma](https://osu.ppy.sh/users/13863006)**, ![][flag_US] [Dinal108](https://osu.ppy.sh/users/11449607) |
 | **PVC Pipes for Survival Situations** | ![][flag_SK] **[CardinalWolf](https://osu.ppy.sh/users/14995715)**, ![][flag_HR] [Pexate](https://osu.ppy.sh/users/14327975), ![][flag_IT] [Vmxplousion](https://osu.ppy.sh/users/14407570) |
 | **Ranger Can't Derank Successfully** | ![][flag_TW] **[John6023](https://osu.ppy.sh/users/2465704/osu)**, ![][flag_TW] [RainTW](https://osu.ppy.sh/users/11622805), ![][flag_TW] [Satomi\_0826](https://osu.ppy.sh/users/4248366) |
-| **SLAVA ZEMLYANAM** | ![][flag_RU] **[Maruyama-](https://osu.ppy.sh/users/11853175)**, ![][flag_RU] [Skeyn](https://osu.ppy.sh/users/7899956), ![][flag_RU] [f55dota2](https://osu.ppy.sh/users/14126397) |
+| **SLAVA ZEMLYANAM** | - disqualified - |
 | **Stunter in the Toilet** | ![][flag_DE] **[ShizuruxKotarou](https://osu.ppy.sh/users/4612857)**, ![][flag_DE] [Stunter443](https://osu.ppy.sh/users/12855636), ![][flag_DE] [Towny](https://osu.ppy.sh/users/15673024), ![][flag_DE] [PzKpwf](https://osu.ppy.sh/users/12558046) |
 | **Tablet Slayers** | ![][flag_IT] **[Dagoliir](https://osu.ppy.sh/users/7209911)**, ![][flag_ES] [CebollaVladimir](https://osu.ppy.sh/users/15308238), ![][flag_ES] [Viewer](https://osu.ppy.sh/users/16208221), ![][flag_DE] [Sarsese](https://osu.ppy.sh/users/14406757) |
+| **Tablet Slayers** | - disqualified - |
 | **Tapa na Cara** | ![][flag_BR] **[Mr Capuccino](https://osu.ppy.sh/users/16224264)**, ![][flag_BR] [Megadestr](https://osu.ppy.sh/users/15795443) |
 | **TURBO DYSON CORPORATION** | ![][flag_FR] **[DYSONV8ABSOLUTE](https://osu.ppy.sh/users/15219106)**, ![][flag_FR] [Maximalic](https://osu.ppy.sh/users/11617067) |
 | **Ugga Ugga ⊂(( o・ω・))⊃** | ![][flag_TR] **[Undine116](https://osu.ppy.sh/users/14352107)**, ![][flag_TR] [Phantase](https://osu.ppy.sh/users/8584641) |
@@ -104,6 +105,28 @@ Generous donations from ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034
 | **Young Builders** | ![][flag_RU] **[Tara\_kan](https://osu.ppy.sh/users/13217621)**, ![][flag_RU] [bu1ld](https://osu.ppy.sh/users/13808132) ![][flag_RU] [JesusWCS](https://osu.ppy.sh/users/12420508), ![][flag_BY] [DyadyaShnuk](https://osu.ppy.sh/users/11268782) |
 
 ## Mappools
+
+### Round of 16
+- NoMod
+  - [Shiro (CV: Ai Kayano) - Oracion (Nao Tomori) \[P A N's Insane\]](https://osu.ppy.sh/beatmapsets/705955#osu/1501806)
+  - [M2U & NICODE - Lune (Taeyang) \[Insan\]](https://osu.ppy.sh/beatmapsets/417408#osu/911517)
+  - [Function Phantom - Euclid (byfar) \[Insane\]](https://osu.ppy.sh/beatmapsets/419614#osu/970190)
+  - [LhoU - popotnik ~ The Traveller of Ljubljana (Niva) \[Ryo's Insane\]](https://osu.ppy.sh/beatmapsets/712388#osu/1620017)
+  - [t+pazolite - Oshama Scramble! (DTM9 Nowa) \[EXPERT\]](https://osu.ppy.sh/beatmapsets/833895#osu/1962723)
+- Hidden
+  - [TRUE - Sincerely (Kalibe) \[Emotion\]](https://osu.ppy.sh/beatmapsets/733581#osu/1548159)
+  - [Puru - Homura (VINXIS) \[N/A's Hard\]](https://osu.ppy.sh/beatmapsets/837924#osu/1945481)
+- HardRock
+  - [Hatsune Miku - Hidari Migi -migihidari- (NatsumeRin) \[Hard\]](https://osu.ppy.sh/beatmapsets/24177#osu/87621)
+  - [Fractal Dreamers - Celestial Horizon (Pho) \[Mirash's Hard\]](https://osu.ppy.sh/beatmapsets/751846#osu/1582773)
+- DoubleTime
+  - [OutputP - Negai Hana (buhei) \[Hard Collab\]](https://osu.ppy.sh/beatmapsets/119990#osu/309360)
+  - [Panda Eyes - Pump It Up (Hazu-) \[Hard\]](https://osu.ppy.sh/beatmapsets/1090677#osu/2281330)
+- FreeMod
+  - [THE ORAL CIGARETTES - Sesshoku (Nevo) \[Alphabet's Hard\]](https://osu.ppy.sh/beatmapsets/839248#osu/1782343)
+  - [Umeboshi Chazuke - Wakare no Namida wa Mata Au Hi made (Azzedd) \[Hard\]](https://osu.ppy.sh/beatmapsets/830444#osu/1787792)
+- Tiebreaker
+  - **[Mami Kawada - See visionS (pkhg) \[Delusion\]](https://osu.ppy.sh/beatmapsets/533712#osu/1130706)**
 
 ### Round of 32
 
@@ -142,6 +165,41 @@ Generous donations from ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034
 - DoubleTime
   - [Wisp X - Hibiscus (Aeril) \[Hard\]](https://osu.ppy.sh/beatmapsets/1040161#osu/2176484)
   - [XS Project - Ya tashchus' ot kolotushek (iNickel) \[Hyper\]](https://osu.ppy.sh/beatmapsets/119235#osu/306207)
+  
+## Match results
+
+### Round of 32
+
+Friday, 5 June 2020:
+
+| Team 1 | | | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **OSBT Squad** | **5** | 0 | PoggersFish | [#1](https://osu.ppy.sh/community/matches/62538434) |
+
+Saturday, 6 June 2020:
+
+| Team 1 | | | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Young Builders** | **5** | 3 | No Name | [#1](https://osu.ppy.sh/community/matches/62579243) |
+| **WeHatePP** | **5** | 1 | Chuchichäschtli | [#1](https://osu.ppy.sh/community/matches/62589861) |
+| **Click the Circles to the Beat** | **5** | 2 | Last Minute | [#1](https://osu.ppy.sh/community/matches/62590256) |
+| Tablet Slayers | -1 | **0** | **ora ora ora** | Win by default |
+| **Alek & Friends** | **5** | 3 | Ugga Ugga ⊂(( o・ω・))⊃ | [#1](https://osu.ppy.sh/community/matches/62596713) |
+| **Fashionably Late** | **5** | 2 | Mouse Drift | [#1](https://osu.ppy.sh/community/matches/62596266) |
+| **Stunter in the Toilet** | **5** | 3 | Persona 3 FES | [#1](https://osu.ppy.sh/community/matches/62596243) |
+
+Sunday, 7 June 2020:
+
+| Team 1 | | | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Australia's OWC Team on Smurf Accounts** | **5** | 4 | playstyl'D | [#1](https://osu.ppy.sh/community/matches/62604839) |
+| **Oota e-gamers** | **5** | 3 | KuroNeko | [#1](https://osu.ppy.sh/community/matches/62609121) |
+| **PVC PIPES for survival situations** | **5** | 3 | Asia-Pacific | [#1](https://osu.ppy.sh/community/matches/62617162) |
+| **Degeneracy Gang** | **5** | 1 | Natas | [#1](https://osu.ppy.sh/community/matches/62620075) |
+| Bats from Wuhan | 3 | **5** | **Desu** | [#1](https://osu.ppy.sh/community/matches/62625258) |
+| SLAVA ZEMLYANAM | -1 | **0** | **G Nome** | Win by default |
+| Tapa na Cara | 2 | **5** | **WeLoveKöfte** | [#1](https://osu.ppy.sh/community/matches/62628929) |
+| **Peko Peko** | **5** | 1 | osu!Coin | [#1](https://osu.ppy.sh/community/matches/62633127) |
 
 ## Ruleset
 
