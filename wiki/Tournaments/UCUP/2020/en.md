@@ -120,79 +120,44 @@ The Ulat Bulu Cup 2020 is run by various community members.
 
 ### General rules
 
-1. This tournament is round robin (if enough players) and will proceed to the knockout stage double-elimination bracket and is will use single-player 1v1 format.
-2. The Score System used will be **ScoreV2**.
-3. This is an osu!mania 4K tournament.
-4. Match scheduling is decided by the organisers. Players may feel free to ask for a reschedule if the given schedule doesn't work for them. Each stage of this tournament will last a weekend.
-5. If there are no referee available, the match can be postponed.
-6. If both players tie on a map, the map will be replayed. In case they tie again, map will be nullified, and the player who picked the map will be able to pick a new one.
-7. If a player disconnects from the game, the opposite will get a point. The only exception is if the player disconnects during the first 30 seconds of the song, in which the round is restarted. Any deliberate abuse of this rule will be penalised.
-8. Players have 10 minutes to show up to their scheduled match. If the opponent failed to show up, the player who was supposed to play automatically advances onwards. If both players failed to show up, the player with the higher seed will advance.
-9. We reserve the rights to disqualify any player who exhibits harmful behavior.
-10. We reserve the right to refuse people that are in the rank range, but is not considered beginner/intermediate level by organisers judgment.
-11. Any other rules changes or unexpected occurrences will be announced in the thread.
-
-### Rank restrictions
-
-This tournament is intended for **intermediate** and **beginner** players. It means that **players must be between rank #10,000 and rank #100,000** to participate. If they're in the appropriate range upon registration except with following conditions:
-
-1. High division: rank past #10,000 before the tournament begins, if they are still below 8k, they are considered eligible.
-2. Low division: rank past #40,000 after the tournament begins, if they are still below 30k, they are considered eligible.
-3. Low division: rank past #40,000 before the tournament begins, they will be moved to high bracket.
-4. If players gained rank while the tournament is taking place, the action cannot be stopped, but please refrain from doing so (ranking too far below those restrictions above will require disqualifications).
+1. Ulat Bulu Cup 2020 is a 2v2 osu! tournament.
+2. Ulat Bulu Cup 2020 will adopt the double-elimination bracket, this means teams have two chance of losses before getting eliminated.
+3. The score system used will be **ScoreV2**.
+4. Matche will ba played under NoFail mod and TeamVs format.
+5. Participants must met the following criteria in order their registration to count:
+   - Participant's account must be **6 months old or older.**
+   - Participant did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
+   - Participant must fill out the provided form.
+   - Participant's flag on their profile must be ![][flag_ID] Indonesia. (Exceptions made if the player can show prove their Indonesian citizenship)
+   - Participant must be in the [UCUP Discord server](#links) at least during the running of the tournament.
+   - The team's maximum average BWS rank is #3,000
+     - Badge-weighted seeding (BWS) is used in this tournament to more accurately seed players and enforce rank restrictions. It works by taking into account the amount of recorded tournament wins (via badges) that a player has in addition to their rank.
+6. Formed team must have at least **2 members** with a maximum of **3 members**.
+7. Match scheduling is decided by the organisers. Players may feel free to ask for a reschedule if the given schedule doesn't work for them.
 
 ### Stage regulations
 
-1. There are eight stages to this tournament: Qualifiers, Group Stage, Round of 32, Round of 16, Quarterfinals, Semifinals, Finals, and Grand Finals.
-2. Matches are seeded. This will happen in the seeding round (Qualifiers). More information will be held in [seeding regulations](#seeding-regulations).
-3. Here are the BO for each round :
-   - Group Stage and Round of 32: Best of 7 (first to 4 points)
-   - Round of 16 and Quarterfinals: Best of 9 (first to 5 points)
-   - Semifinals: Best of 11 (first to 6 points)
-   - Finals and Grand Finals: Best of 13 (first to 7 points)
-4. During the Group Stage
-   - High division: group will be filled by 4 people. The top 2 player from each group will advance to RO32.
-   - Low division: group will be filled by 3 people. The top 2 player from each group will advance to RO32.
-5. Warmups are not allowed during Qualifiers and Group Stage.
+1. There are five stages to this tournament: Group Stage, Quarterfinals, Semifinals, Finals, and Grand Finals.
+2. Following are the winning conditions for each stage:
+   - Group Stage: Best-of-11 (first to 6 points)
+   - Quarterfinals and Semifinals: Best-of-13 (first to 7 points)
+   - Finals and Grand Finals: Best-of-15 (first to 8 points)
+3. Teams are allowed to ban **two maps** in any stages.
+4. Teams are not allowed to pick map within the same bracket back-to-back (e.g. picking Hidden bracket twice).
+5. FreeMod will be a bracket with intention players can select between Hidden or HardRock or both, it's mandatory that each team member use different mod during the match (e.g. Player 1 is playing with Hidden, Player 2 is playing with HardRock).
 
-### Seeding regulations
+### Group Stage details
 
-1. During the seeding round, there will be multiple lobbies available at various hours. Players will be free to sign up to the lobbies they please.
-2. This round is mainly used to weed out the no-shows.
-3. A private lobby will be created for all the players, and they will be invited into their lobby when it's their time. Make sure to be available at this time.
-4. There will be no warmup during this stage, but rather all the players will play through a shorter mappool.
-5. Seeding will be made with the average rank of each player on each map. If there is any tie with the average rank, we will take total score.
-6. Maps will be played twice in a row during the lobby. However, players can ask for a break of 5 minutes between each run.
-7. Results will be announced on the Discord server after the end of the weekend.
+1. Group Stage will be held with the target of 20 teams make it through the cutoff, and will be splitted into 4 groups of 5.
+2. Group Stage will have a Best-of-11 winning condition.
+3. The top 2 teams from each group will advance to the knockout stage.
+4. Banning system is the same referring to the one in the [stage regulations section](#stage-regulations).
 
-### Match regulations
+### Knockout Stage details
 
-1. A private match will be created for their match, and both players will be invited into their match when it's their time. Make certain to be available at this time.
-2. Each player is allowed to name **one** warm-up, but it must be **below 4 minutes**.
-3. Here is how bans and picks will happen. The first person to ban will be the loser of the `!roll` (gets lower score), then they will alternate bans. (Loser -> Winner -> Loser -> Winner) And the first person to pick will be the winner of the `!roll` (gets higher score), then they will alternate picks. (Winner -> Loser -> Winner -> Loser, etc...)
-4. Players can't ban a map from the same bracket twice.
-5. In case of a tie, the tiebreaker will be played.
-6. Results will be displayed on the Challonge bracket, and announced by the referee.
-
-### Mappool regulations
-
-1. There will be variety of mappool in each stage of the tournament, and it will become progressively harder.
-2. There will be seven bracket of map available in each mappool:
-   - SV (Speed Variation or Slider Velocity)
-   - LN (Long Notes)
-   - Accuracy
-   - Speed
-   - Technical
-   - Hybrid
-   - Tiebreaker
-3. Every maps are played under FreeMod. The only visual mods that are allowed are Hidden, Flashlight, and Mirror.
-4. New stage's mappool will be announced every Sunday.
-
-### Scheduling regulations
-
-1. Every stage will be held during the weekend to let players practice before their match.
-2. Matches are allowed to overlap if referees are available.
-3. If both players can come up with a better time than what we the organisers has scheduled before, please inform the organisers so they can change their match time if informed before the **Thursday** before the weekend of the stage.
+1. Knockout stage will be held after the results from Group Stage have been determined.
+2. Knockout stage will adopt the double-elimination bracket. This means teams have two chance of losses before getting eliminated.
+3. Banning system is the same referring to the one in the [stage regulations section](#stage-regulations).
 
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
