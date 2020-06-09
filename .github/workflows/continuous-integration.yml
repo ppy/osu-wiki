@@ -42,4 +42,4 @@ jobs:
 
       - name: run remark on changed files
         # stdout is discarded (remark prints files being checked there)
-        run: git diff ${{ github.sha }}^ ${{ github.sha }} --name-only '*.md' | xargs npx remark -qf --no-stdout --report=vfile-reporter-position --color
+        run: git diff ${{ github.sha }}^ ${{ github.sha }} --name-only '*.md' | xargs npx remark -qf --no-stdout --silently-ignore --report=vfile-reporter-position --color
