@@ -4,7 +4,11 @@ legal: true
 
 # osu! music licensing
 
-osu!'s music usage is dictated by its community. All game levels ([beatmaps](/wiki/Beatmaps)) are created and uploaded by community members, often using music without correctly obtained permission from relevant. We go out of our way to not advertise or profit directly from uploaded content, and the game is funded entirely by user donations. A significant portion of donations are reinvested to license music for use within osu!.
+100% of osu!'s content (generally known as "[beatmaps](/wiki/Beatmaps)" or game level) is user uploaded. Although we try to guide users to correctly obtain permission, there are often cases of uploaded music/artwork without correctly obtaining permission. 
+
+osu! has never been about profit – we go out of our way to not advertise or profit directly from uploaded content (as to not exploit such uploaded content), but we understand that this is often not considered enough.
+
+To do our best to support the artists that make this game what it is, any excess funds coming from user donations are reinvested in music licensing efforts. We are in the ongoing process of reaching out to artists (featured in existing user uploads and new alike) to obtain licensing and spread awareness under our "Featured Artist" program.
 
 Artists who enter a licensing agreement with osu! are listed under the [Featured Artists](/wiki/Featured_Artists) program. The osu! team regularly reaches out to artists that the community loves and new artists whose music is appropriate for use within the community and game.
 
