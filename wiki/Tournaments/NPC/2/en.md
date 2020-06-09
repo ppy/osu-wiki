@@ -107,6 +107,7 @@ Generous donations from ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034
 ## Mappools
 
 ### Round of 16
+
 - NoMod
   - [Shiro (CV: Ai Kayano) - Oracion (Nao Tomori) \[P A N's Insane\]](https://osu.ppy.sh/beatmapsets/705955#osu/1501806)
   - [M2U & NICODE - Lune (Taeyang) \[Insan\]](https://osu.ppy.sh/beatmapsets/417408#osu/911517)
@@ -165,7 +166,7 @@ Generous donations from ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034
 - DoubleTime
   - [Wisp X - Hibiscus (Aeril) \[Hard\]](https://osu.ppy.sh/beatmapsets/1040161#osu/2176484)
   - [XS Project - Ya tashchus' ot kolotushek (iNickel) \[Hyper\]](https://osu.ppy.sh/beatmapsets/119235#osu/306207)
-  
+
 ## Match results
 
 ### Round of 32
