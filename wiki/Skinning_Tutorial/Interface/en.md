@@ -106,7 +106,7 @@ Selection buttons are the buttons near menu-back that are pressed to select mods
 Each button has two states, one for when it isn't being hovered over and one for when it is.
 These buttons are only visible on the beatmap selection page.
 
-![Selection buttons in the defauly osu! skin](img/selectionbuttons_default.gif)
+![Selection buttons in the default osu! skin](img/selectionbuttons_default.gif)
 *Default skin*
 
 ![Selection buttons in the Clear Futuristic Miku V 2.0 skin](img/selectionbuttons_cfmiku.gif)
@@ -119,8 +119,11 @@ It gets tinted red on the inactive tabs while it stays untinted on the active ta
 
 The number of tabs that appear (4 or 5 tabs) is dependent on the osu!client's window size.
 
-![](fs/selection-tab_0.jpg)
+![Selection tabs in the default osu! skin](img/selectiontabs_default.jpg)
 *Default skin*
+
+![Selection tabs in the Clear Futuristic Miku V 2.0 skin](img/selectiontabs_cfmiku.jpg)
+*Clear Futuristic Miku V 2.0*
 
 ### Star
 
@@ -135,7 +138,7 @@ The higher the star rating goes the larger they get scaled up.
 
 - If a star ratting is at 4.65, 4 stars are scaled to their max, while the 5th star is scaled down to 65% of its maximum size.
 
-![](fs/star_0.jpg)
+![Stars in the default osu! skin](img/star_default.jpg)
 *Default skin*
 
 ### Star2
@@ -143,7 +146,7 @@ The higher the star rating goes the larger they get scaled up.
 Star2 are the "stars" that are dropped from the cursor during breaks, kiai time, and while playing with relax or autopilot mod.
 Also used by kiai fountain and appears together with comboburst.
 
-![](fs/star2_0.jpg)
+![Star2 in the default osu! skin](img/star2_default.jpg)
 *Default skin*
 
 ### Mode select
@@ -160,8 +163,11 @@ As the name says, icons for additional mods that make game easier/harder (or mor
 It might be a little hard to work on such a small area, **using the "unsharp mask" filter can make your icons more readable**.
 You can change the icon's size, but remember that too big icons might overlap with each other.
 
-[![](pr/mod-icons_0.jpg)](fs/mod-icons_0.jpg "Click to view full size")
+![Mod icons in the default osu! skin](img/modicons_default.jpg)
 *Default skin*
+
+![Mod icons in the Clear Futuristic Miku V 2.0 skin](img/modicons_cfmiku.jpg)
+*Clear Futuristic Miku V 2.0*
 
 ### Scorebar
 
@@ -218,9 +224,6 @@ It is also important to note that this version was intended for 4:3 ratio aspect
 
 **For skinning versions 2.0+**
 
-A countdown can be a part of some maps.
-It gives a warning to prepare for playing map.
-
 All counts are anchored from the center and are placed on the center of the playfield.
 There are no size restrictions, so you can try to make something different than default "Go" and "Are you ready?".
 
@@ -240,8 +243,11 @@ These aren't restricted by size and their clickable area is the resolution of th
 
 **It is important to note that the position of the warning arrows do not change.**
 
-[![](pr/pause-screen_0.jpg)](fs/pause-screen_0.jpg "Click to view full size")
+![Pause screen in the default osu! skin](img/pausescreen_default.jpg)
 *Default skin*
+
+![Pause screen in the Clear Futuristic Miku V 2.0 skin](img/pausescreen_cfmiku.jpg)
+*Clear Futuristic Miku V 2.0*
 
 #### Fail Screen
 
@@ -250,8 +256,11 @@ A notable difference is that it only uses the pause-retry, pause-back buttons (d
 
 **Just like the pause screen, the position of the warning arrows do not change.**
 
-[![](pr/fail-screen_0.jpg)](fs/fail-screen_0.jpg "Click to view full size")
+![Fail screen in the default osu! skin](img/failscreen_default.jpg)
 *Default skin*
+
+![Fail screen in the Clear Futuristic Miku V 2.0 skin](img/failscreen_cfmiku.jpg)
+*Clear Futuristic Miku V 2.0*
 
 ### Score numbers
 
@@ -330,8 +339,8 @@ This element is displayed when a certain game mod is enabled (auto/relax/coop/et
 
 As a sugguestion, make sure that this image still reads "unranked" to let the user know that the play is unranked.
 
-![](fs/unranked_0.jpg)
-Default skin
+![Unranked element in the default osu! skin](img/unranked_default.jpg)
+*Default skin*
 
 #### Skip
 
@@ -339,8 +348,11 @@ The skip button is similar to menu-back with one exception, is not restricted by
 This button appears and is used to skip beginning of beatmaps with intros longer than ~5 seconds.
 This can be animated.
 
-![](fs/skip_0.jpg)
+![Skip button in the default osu! skin](img/skip_default.jpg)
 *Default skin*
+
+![Skip button in the Clear Futuristic Miku V 2.0 skin](img/skip_cfmiku.jpg)
+*Clear Futuristic Miku V 2.0*
 
 #### Warning Arrow
 
