@@ -421,14 +421,17 @@ The Input Overlay is displayed on the right-hand side of the play screen.
 This is only seen in the osu!standard and osu!catch modes.
 This shows how many times each keybinding has been pressed in the duration of that song.
 
-Note that this can be disabled in the [options](/wiki/Options)!
+Note that this can be enabled/disabled in the [options](/wiki/Options)!
 
-![](fs/input-overlay_0.png)
+![Input overlay in the default osu! skin](img/inputoverlay_default.gif)
 *Default skin*
+
+![Input overlay in the Clear Futuristic Miku V 2.0 skin](img/inputoverlay_cfmiku.gif)
+*Clear Futuristic Miku V 2.0*
 
 In the [skin.ini](/wiki/Skinning/Skin.ini/en.md), there is an option under the `[Colours]` section called `InputOverlayText`.
 This defines the input overlay's text colour.
-For example, setting it to `255,255,255` will make the input overlay's text white (as seen in the "Yugen" example above).
+For example, setting it to `255,255,255` will make the input overlay's text white.
 However, the default is `0,0,0` (black).
 
 The input overlay comes in two parts:
