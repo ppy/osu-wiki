@@ -9,7 +9,7 @@ tags:
 
 ![TLMS:SC2 logo](img/logo.jpg)
 
-The **Taiko LMS: Shift Cup 2** (***TLMS:SC2***) is a worldwide 4v4 double-elimination osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) and ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787). Teams will gather a team of 4 (with the option of 2 back-ups) in a 4-on-4 knock-out style match. This is the second installment of the Taiko Shift Cup and part of the Taiko LMS tournaments.
+The **Taiko LMS: Shift Cup 2** (***TLMS:SC2***) was a worldwide 4v4 double-elimination osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110) and ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787). Teams would gather a team of 4 (with the option of 2 back-ups) in a 4-on-4 knock-out style match. This was the second installment of the Taiko Shift Cup and part of the Taiko LMS tournaments.
 
 ## Tournament schedule
 
@@ -32,7 +32,7 @@ The **Taiko LMS: Shift Cup 2** (***TLMS:SC2***) is a worldwide 4v4 double-elimin
 
 ## Organisation
 
-The Taiko LMS: Shift Cup 2 is run by various community members.
+The Taiko LMS: Shift Cup 2 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -50,9 +50,8 @@ The Taiko LMS: Shift Cup 2 is run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1043063)
 - [LMS Discord server](https://discord.gg/mJAF2Xa)
 - [Livestream](https://twitch.tv/osutaikolive)
-- Spreadsheet
-  - **[Main sheet](https://docs.google.com/spreadsheets/d/1oFiXMH2d69WB5yXEMc7X5IsS7EASo7o3CIBWgKOJEnw/edit?usp=sharing)**
-  - [Schedules and mappools sheet](https://docs.google.com/spreadsheets/d/17cy_FH1Vt1UOSieH-u_UzWeLtVPXFq4iSySGQ2GSmyc/edit?usp=sharing)
+- [Challonge brackets](https://challonge.com/p86zgof5)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1oFiXMH2d69WB5yXEMc7X5IsS7EASo7o3CIBWgKOJEnw/edit?usp=sharing)**
 
 ## Participants
 
