@@ -91,6 +91,37 @@ The Taiko LMS: Shift Cup 2 was run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here! (94 MB)](https://www.mediafire.com/file/xbnjhpi0h70yilv/mappool_ro8.rar/file)**
+
+- NoMod
+  - [Slax - Cutening (hoku-4625) \[7\_7 & hoku's YAHOO! ^-^\]](https://osu.ppy.sh/beatmapsets/817170#taiko/1713521)
+  - [Hino Isuka + Umeboshi Chazuke - Ultra Happy Miracle Bazoooooka!! (asuasu\_yura) \[Solo's Bazooka!!\]](https://osu.ppy.sh/beatmapsets/690719#taiko/1463236)
+  - [Ice - iL (seanhappy8520) \[CHAOS 13\]](https://osu.ppy.sh/beatmapsets/1020596#taiko/2138041)
+- Hidden
+  - [sak respect for Arata Iiyoshi - Reason of being (D o t) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/809965#taiko/1699509)
+  - [Camellia - Diastrophism (rubies87) \[HiroK's Inner Oni\]](https://osu.ppy.sh/beatmapsets/1067161#taiko/2245964)
+  - [M2U x NICODE - LUNE - Chiptune & Music Box Arrange Ver. (uone) \[Oni\]](https://osu.ppy.sh/beatmapsets/607963#taiko/1971980)
+- HardRock
+  - [penoreri - Preserved Valkyria (Nardoxyribonucleic) \[Valkyrie Oni\]](https://osu.ppy.sh/beatmapsets/861177#taiko/1801687)
+  - [Katagiri - Breakin' Asia (Lix\_0101) \[OiOi Oni\]](https://osu.ppy.sh/beatmapsets/919130#taiko/1919198)
+  - [Seiryu - AO-0 [prototype] (CrowWhite) \[Stasis\]](https://osu.ppy.sh/beatmapsets/1088570#taiko/2278332)
+- DoubleTime
+  - [Aihara Kaori - Shiro-Neko Caramel Mugen no Wataame (Felt7z) \[Chronicle\]](https://osu.ppy.sh/beatmapsets/813509#taiko/1706121)
+  - [nameless - SLoWMoTIoN (Marfuri) \[SLoW oNI\]](https://osu.ppy.sh/beatmapsets/834799#taiko/1748618)
+  - [onoken - Amnolys (uone) \[Oni\]](https://osu.ppy.sh/beatmapsets/736516#taiko/1554433)
+- FreeMod
+  - [MIssionary - Song of Sin (Skull Kid) \[Sinful Melody\]](https://osu.ppy.sh/beatmapsets/1045880#taiko/2186408)
+  - [s-don vs. Hinoisuka - Trrricksters!! (EdamaMe411) \[Trrricksters!!\]](https://osu.ppy.sh/beatmapsets/1122277#taiko/2345156)
+  - [Camellia - Gene Disruption (XeoStyle) \[Arrival's Disrupting Oni\]](https://osu.ppy.sh/beatmapsets/555326#taiko/1203227)
+- Extra
+  - [sakuzyo - StrayedCatz (D o t) \[.'s Taiko\]](https://osu.ppy.sh/beatmapsets/772767#taiko/1624338)
+  - [Kobaryo - Eternal Ending (kyou1110 Remix) (-Kazu-) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/773639#taiko/1626234)
+  - [Matra Magic - Off Tha Heezie (Jaye) \[Nov 29\]](https://osu.ppy.sh/beatmapsets/591055#taiko/1250899)
+- Tiebreaker
+  - **[ulko - REGGAETON BUT IT HAS AMEN BREAKS (D3kuu) \[TATSUJIN\]](https://osu.ppy.sh/beatmapsets/1013247#taiko/2120869)**
+
 ### Round of 16
 
 **[Download the mappack here! (90 MB)](https://www.mediafire.com/file/o015yntwe0hm414/mappool.rar/file)**
