@@ -87,30 +87,49 @@ The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) an
 | ![][flag_US] | **United States** | **[rostld](https://osu.ppy.sh/users/4365562)**, [Secre](https://osu.ppy.sh/users/2306637), [diao](https://osu.ppy.sh/users/500696), [Dahcreeper](https://osu.ppy.sh/users/6926006), [Zak](https://osu.ppy.sh/users/1375955), [Lexii](https://osu.ppy.sh/users/7226149) |
 | ![][flag_VN] | **Vietnam** | **[Close](https://osu.ppy.sh/users/4744615)**, [NamSPro](https://osu.ppy.sh/users/11387006), [Huytimeclock](https://osu.ppy.sh/users/10920086), [-\[SLs\]-Horikita](https://osu.ppy.sh/users/8738261), [mothernature](https://osu.ppy.sh/users/6403418), [Marota](https://osu.ppy.sh/users/10278890) |
 
-## Match schedule: Finals
+## Match schedule: Grand Finals
 
-### Saturday, 6 June 2020
-
-| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| South Korea | ![][flag_KR] | ![][flag_CN] | China | **11:00 UTC** | 20:00 UTC+09 | 19:00 UTC+08 | ¹ |
-| Italy | ![][flag_IT] | ![][flag_CL] | Chile | **17:00 UTC** | 19:00 UTC+02 | 13:00 UTC-04 | ² |
-
-### Sunday, 7 June 2020
+### Saturday, 13 June 2020
 
 | Team A |  |  | Team B | Match time | Local time A | Local time B |  |
 | --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Hong Kong | ![][flag_HK] | ![][flag_US] | United States | **02:30 UTC** | 10:30 UTC+08 | 22:30 (Sat.) UTC-04 | ² |
-| Italy | ![][flag_IT] | ![][flag_HK] | Hong Kong | **14:00 UTC** | 16:00 UTC+02 | 22:00 UTC+08 | ³ |
-| Chile | ![][flag_CL] | ![][flag_HK] | Hong Kong | **14:00 UTC** | 10:00 UTC-04 | 22:00 UTC+08 | ³ |
-| Italy | ![][flag_IT] | ![][flag_US] | United States | **18:00 UTC** | 20:00 UTC+02 | 14:00 UTC-04 | ³ |
-| Chile | ![][flag_CL] | ![][flag_US] | United States | **18:00 UTC** | 14:00 UTC-04 | 14:00 UTC-04 | ³ |
+| South Korea | ![][flag_KR] | ![][flag_US] | United States | **14:00 UTC** | 23:00 UTC+09 | 10:00 UTC-04 | ¹ |
 
-¹ Winner bracket encounter  
-² Loser bracket encounter  
-³ Encounter dependent on results of ²Loser bracket encounter
+### Sunday, 14 June 2020
+
+| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
+| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
+| China | ![][flag_CN] | ![][flag_KR] | South Korea | **11:00 UTC** | 19:00 UTC+08 | 20:00 UTC+09 | ² |
+| China | ![][flag_CN] | ![][flag_US] | United States | **13:00 UTC** | 21:00 UTC+08 | 09:00 UTC-04 | ² |
+
+¹ 3rd place match  
+² Encounter dependent on results of ¹3rd place match
 
 ## Mappools
+
+### Grand Finals
+
+- NoMod
+  - [Kaneko Chiharu - WHITEOUT (Razor Sharp) \[VIVID\]](https://osu.ppy.sh/beatmapsets/1161795#fruits/2423719)
+  - [Blacklolita - Praeteritum (Hareimu) \[Bygone in Time\]](https://osu.ppy.sh/beatmapsets/621968#fruits/1311358)
+  - [t+pazolite vs. P\*Light - IZANA (Bunnrei) \[Future\]](https://osu.ppy.sh/beatmapsets/1175068#fruits/2450964)
+  - [Masa - Kitsune no Yomeiri (Minky) \[Dont eat me\]](https://osu.ppy.sh/beatmapsets/157073#fruits/384661)
+  - [Camellia feat. Nanahira - NANI THE FUCK!! (Mir) \[???????\]](https://osu.ppy.sh/beatmapsets/1021743#fruits/2137778)
+  - [umu. - humanly (Half) \[humanly\]](https://osu.ppy.sh/beatmapsets/977552#fruits/2045979)
+- Hidden
+  - [ZUN - Kobito of the Shining Needle ~ Little Princess (Yumeno Himiko) \[exam's Rain\]](https://osu.ppy.sh/beatmapsets/801435#fruits/1682267)
+  - [cybermiso - Panopticon (Sinnoh) \[ReMaster\]](https://osu.ppy.sh/beatmapsets/1012865#fruits/2120069)
+  - [Susumu Hirasawa - Bandiria Travellers (jesse1412) \[Insane\]](https://osu.ppy.sh/beatmapsets/51391#fruits/157582)
+- HardRock
+  - [UNDEAD CORPORATION - Embraced by the Flame (Daletto) \[Daletto & Du5t's Rekindling of Dead Ashes\]](https://osu.ppy.sh/beatmapsets/1179938#fruits/2460431)
+  - [Lite Show Magic - TRICKL4SH 220 (Minato Yukina) \[HEAVENLY\]](https://osu.ppy.sh/beatmapsets/616487#fruits/1300167)
+  - [BEMANI Sound Team "Nekomata Master" - The last of world music (Heilia) \[\#2: J1's Extra\]](https://osu.ppy.sh/beatmapsets/1060239#fruits/2219979)
+- DoubleTime
+  - [THE ORAL CIGARETTES - Tonari Au (Crowley) \[A rainy rendezvous where my feelings reside.\]](https://osu.ppy.sh/beatmapsets/1172087#fruits/2444687)
+  - [Memme - Blessing Snow (Ascendance) \[Nelly's Overdose\]](https://osu.ppy.sh/beatmapsets/887087#fruits/1857286)
+  - [Diana Boncheva - Purple Passion (lkx_Shore) \[Extra\]](https://osu.ppy.sh/beatmapsets/102763#fruits/271303)
+- Tiebreaker
+  - **[Camellia - Exit This Earth's Atomosphere (Camellia's ''PLANETARY//200STEP'' Remix) (Ascendance) \[Extraplanetary Collab Overdose\]](https://osu.ppy.sh/beatmapsets/840346#fruits/1759007)**
 
 ### Finals
 
@@ -233,6 +252,22 @@ The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) an
   - **[Infected Mushroom - The Pretender (Seph) \[Crystal\]](https://osu.ppy.sh/beatmapsets/104516#fruits/304466)**
 
 ## Match results
+
+## Finals
+
+Saturday, 6 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| South Korea ![][flag_KR] | 6 | **7** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/62577789) |
+| **Italy** ![][flag_IT] | **7** | 3 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/62589223) |
+
+Sunday, 7 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Hong Kong ![][flag_HK] | 3 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/62608290) |
+| Italy ![][flag_IT] | 1 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/62633198) |
 
 ### Semifinals
 
