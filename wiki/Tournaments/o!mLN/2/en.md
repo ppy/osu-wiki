@@ -52,13 +52,10 @@ The osu!mania LN Tournament 2 is run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1046231)
-- [MBS Discord server](https://discord.gg/uNSqksR)
-- [Livestream](https://www.twitch.tv/osu_mbs)
-- Challonge brackets
-  - [High division](https://challonge.com/mbs2_high)
-  - [Low division](https://challonge.com/mbs2_low)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRk7T_38QYlVO8mjybHHUm0r40qJol4AttYPn7ePQoiqcQ4PAUgTjMH4JulmjQM4y2-jNeD3bCbEMYN/pubhtml)**
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1068843)
+- [o!mLN Discord server](https://discord.gg/SPQtt3s)
+- [Livestream](https://www.twitch.tv/osumanialive)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1Ot3wMRSmXcZYT6L6U6-W1gvDbAN5UtuZUQ7akuvFyXc/edit#gid=248131311)**
 
 ## Participants
 
