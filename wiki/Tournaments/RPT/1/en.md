@@ -30,7 +30,7 @@ The **ROI PRO Tournament** (***RPT***) was an Indonesian double-elimination 3v3 
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag for each team member |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag for each team member |
 
-Generous donations from ![][flag_ID] [Akebono](https://osu.ppy.sh/users/1815316), ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_ID] [Lampshade](https://osu.ppy.sh/users/4791294), ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_US] [RandyV](https://osu.ppy.sh/users/5389220), and ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174) helped fund some of the prizes.
+Generous donations from ![][flag_ID] [Akebono](https://osu.ppy.sh/users/1815316), ![][flag_ID] [Genjitsu](https://osu.ppy.sh/users/3531490), ![][flag_ID] [LLEENN](https://osu.ppy.sh/users/2427901), ![][flag_US] [RandyV](https://osu.ppy.sh/users/5389220), and ![][flag_ID] [Tama-desu](https://osu.ppy.sh/users/3813174) helped fund some of the prizes.
 
 ## Organisation
 
