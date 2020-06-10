@@ -91,6 +91,35 @@ The Taiko LMS: Shift Cup 2 was run by various community members.
 
 ## Mappools
 
+### Finals
+
+- NoMod
+  - [AVERSIONS CROWN - Erebus (Astolfo) \[Oblivion Nightmare\]](https://osu.ppy.sh/beatmapsets/622565#taiko/1312427)
+  - [Lazhward - Do Not Play WIXOSS (applerss) \[Pause\]](https://osu.ppy.sh/beatmapsets/1126776#taiko/2354213)
+  - [Culprate & Dictate - Pencilina (KyouRekii87) \[Taiko-K\]](https://osu.ppy.sh/beatmapsets/1097657#taiko/2293563)
+- Hidden
+  - [Se-U-Ra - LOSHAXI (origin) (Nifty) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1103611#taiko/2305553)
+  - [DJ Genki - ATARAX1A (Ceryuia) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1091305#taiko/2281436)
+  - [Project B- - Tyouseisyounen no tame no Tyoutasai na Tyoukotennteki Tyoubukyoku (Lno) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/810930#taiko/1701242)
+- HardRock
+  - [sakuraburst - dragonlands (Faputa) \[Ura Oni\]](https://osu.ppy.sh/beatmapsets/935765#taiko/1954961)
+  - [Shusaku Uchiyama - Tofu Survivor Theme (giyokon) \[Hellish Delight\]](https://osu.ppy.sh/beatmapsets/1165330#taiko/2430479)
+  - [Rahatt - Mafijas Breakcore (Genjuro) \[Ulqui's Hell Oni\]](https://osu.ppy.sh/beatmapsets/1164471#taiko/2430214)
+- DoubleTime
+  - [paraoka feat.Acme Iku - Chaosmaid (nyanmi-1828) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/588244#taiko/1245404)
+  - [rerulili feat MIKU & GUMI - Disturb Manic Girl (Felt7z) \[Collab\]](https://osu.ppy.sh/beatmapsets/712086#taiko/1505385)
+  - [Hoshii Miki & Ibuki Tsubasa & Julia & Kitakami Reika - Marionette ha nemuranai(Game size) (Lze) \[Oni(low SV)\]](https://osu.ppy.sh/beatmapsets/739100#taiko/1559699)
+- FreeMod
+  - [7\_7 - ?\_? (7\_7) \[?\_?\]](https://osu.ppy.sh/beatmapsets/1163967#taiko/2428157)
+  - [t+pazolite - You are the Miserable (FiNNb) \[Master Oni\]](https://osu.ppy.sh/beatmapsets/947105#taiko/2252523)
+  - [SOUND HOLIC feat. Nana Takahashi - EVANESCENT (roufou) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1160196#taiko/2423422)
+- Extra
+  - [t+pazolite feat. Nanahira - Ukakuf Kins (katacheh) \[Tomorrow\]](https://osu.ppy.sh/beatmapsets/961953#taiko/2014222)
+  - [Kobaryo - Carrionoid Amile (2014 Remix) (tasuke912) \[Undefined\]](https://osu.ppy.sh/beatmapsets/444066#taiko/953998)
+  - [Gynx - P\*NIS REMIX (7\_7) \[ANNOYING SV\]](https://osu.ppy.sh/beatmapsets/1132422#taiko/2398932)
+- Tiebreaker
+  - **[Kopophobia & Ajataa - Starfall (Nwolf) \[WereOni\]](https://osu.ppy.sh/beatmapsets/1043714#taiko/2182088)**
+
 ### Semifinals
 
 - NoMod
