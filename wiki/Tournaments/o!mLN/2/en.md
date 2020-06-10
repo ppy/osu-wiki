@@ -40,17 +40,14 @@ The osu!mania LN Tournament 2 is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Organiser | ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517) |
-| Co-Organiser | ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286) |
-| Map selector | ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_FR] [ZayyKen](https://osu.ppy.sh/users/8624433) |
-| Guest mapper | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767), ![][flag_NL] [UnluckyCroco](https://osu.ppy.sh/users/9461160) |
-| Referee | ![][flag_AU] [anim shnacc](https://osu.ppy.sh/users/11373924), ![][flag_NZ] [Blujae](https://osu.ppy.sh/users/10613885), ![][flag_NL] [Boaz](https://osu.ppy.sh/users/13302996), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_NZ] [Erkfir](https://osu.ppy.sh/users/7756939), ![][flag_DE] [Flygone](https://osu.ppy.sh/users/9287979), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_NL] [Lienkuh](https://osu.ppy.sh/users/13960277), ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_RU] [Nozdormu](https://osu.ppy.sh/users/7169208), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061), ![][flag_FR] [Satsukel](https://osu.ppy.sh/users/9066390), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_CA] [shineasone](https://osu.ppy.sh/users/6203507), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235), ![][flag_US] [travis\_ba](https://osu.ppy.sh/users/10822220), ![][flag_FR] [ZeddaStake](https://osu.ppy.sh/users/8801844) |
-| Streamer | ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_NL] [oliebol](https://osu.ppy.sh/users/2756335), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958) |
-| Commentator | ![][flag_AU] [AmateurMonkeyYT](https://osu.ppy.sh/users/8379046), ![][flag_AU] [anim shnacc](https://osu.ppy.sh/users/11373924), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_NZ] [Blujae](https://osu.ppy.sh/users/10613885), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286), ![][flag_NZ] [Erkfir](https://osu.ppy.sh/users/7756939), ![][flag_PL] [Finite](https://osu.ppy.sh/users/5385806), ![][flag_BR] [Halo-](https://osu.ppy.sh/users/7572142), ![][flag_ID] [Horou](https://osu.ppy.sh/users/10807310), ![][flag_DE] [Malox](https://osu.ppy.sh/users/4516252), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118), ![][flag_CA] [Sansnaka](https://osu.ppy.sh/users/5543535), ![][flag_NZ] [Sparxe](https://osu.ppy.sh/users/5750235), ![][flag_CA] [Syako](https://osu.ppy.sh/users/8184715), ![][flag_NZ] [WhiteWeebWolf](https://osu.ppy.sh/users/8927299), ![][flag_GB] [Young Alpha](https://osu.ppy.sh/users/15383957) |
-| Designer | ![][flag_PL] [E-M-i](https://osu.ppy.sh/users/9148286) |
-| Statistician | ![][flag_SG] [Element118](https://osu.ppy.sh/users/2283992), ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517) |
-| Recruiter | ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098), ![][flag_DE] [Maou](https://osu.ppy.sh/users/3867109) |
-| Developer | ![][flag_NL] [oliebol](https://osu.ppy.sh/users/2756335) |
+| Organiser | ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
+| Map selector | ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) |
+| Map tester | ![][flag_CL] [1110113x](https://osu.ppy.sh/users/10072733), ![][flag_SG] [Polytetral](https://osu.ppy.sh/users/8612061) |
+| Referee | ![][flag_FR] [Aidown](https://osu.ppy.sh/users/1522146), ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_AU] [anim shnacc](https://osu.ppy.sh/users/11373924), ![][flag_SG] [ByeForNow](https://osu.ppy.sh/users/7199159), ![][flag_KR] [Civil oath](https://osu.ppy.sh/users/3216107), ![][flag_TH] [CrownBlazing](https://osu.ppy.sh/users/7808720), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_FR] [Satsukel](https://osu.ppy.sh/users/9066390), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958), ![][flag_GB] [StartAndSelect](https://osu.ppy.sh/users/8720555), ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
+| Streamer | ![][flag_SE] [Mestro](https://osu.ppy.sh/users/4798263), ![][flag_DE] [Sayira](https://osu.ppy.sh/users/7253958) |
+| Commentator | ![][flag_US] [\[GS\]Antunder](https://osu.ppy.sh/users/10416995), ![][flag_NL] [Albionthegreat](https://osu.ppy.sh/users/9853595), ![][flag_TH] [CrownBlazing](https://osu.ppy.sh/users/7808720), ![][flag_SE] [Davvy](https://osu.ppy.sh/users/10047413), ![][flag_NZ] [NutAndGo](https://osu.ppy.sh/users/7740118) |
+| Designer | ![][flag_US] [Celsea](https://osu.ppy.sh/users/7464885) |
+| Statistician | ![][flag_FR] [TLQ\_Yoshii](https://osu.ppy.sh/users/7157133) |
 | Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
@@ -889,5 +886,17 @@ This tournament is intended for **intermediate** and **beginner** players. It me
 2. Matches are allowed to overlap if referees are available.
 3. If both players can come up with a better time than what we the organisers has scheduled before, please inform the organisers so they can change their match time if informed before the **Thursday** before the weekend of the stage.
 
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
 [flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
