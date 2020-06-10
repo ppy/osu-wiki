@@ -30,6 +30,8 @@ The **Taiko LMS: Shift Cup 2** (***TLMS:SC2***) was a worldwide 4v4 double-elimi
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge for each team member |
 
+![](img/badge.png "TLMS:SC2 winner badge")
+
 ## Organisation
 
 The Taiko LMS: Shift Cup 2 was run by various community members.
