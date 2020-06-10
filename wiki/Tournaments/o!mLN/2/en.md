@@ -72,81 +72,29 @@ The osu!mania LN Tournament 2 is run by various community members.
 
 ## Ruleset
 
-### General rules
-
-1. This tournament is round robin (if enough players) and will proceed to the knockout stage double-elimination bracket and is will use single-player 1v1 format.
-2. The Score System used will be **ScoreV2**.
-3. This is an osu!mania 4K tournament.
-4. Match scheduling is decided by the organisers. Players may feel free to ask for a reschedule if the given schedule doesn't work for them. Each stage of this tournament will last a weekend.
-5. If there are no referee available, the match can be postponed.
-6. If both players tie on a map, the map will be replayed. In case they tie again, map will be nullified, and the player who picked the map will be able to pick a new one.
-7. If a player disconnects from the game, the opposite will get a point. The only exception is if the player disconnects during the first 30 seconds of the song, in which the round is restarted. Any deliberate abuse of this rule will be penalised.
-8. Players have 10 minutes to show up to their scheduled match. If the opponent failed to show up, the player who was supposed to play automatically advances onwards. If both players failed to show up, the player with the higher seed will advance.
-9. We reserve the rights to disqualify any player who exhibits harmful behavior.
-10. We reserve the right to refuse people that are in the rank range, but is not considered beginner/intermediate level by organisers judgment.
-11. Any other rules changes or unexpected occurrences will be announced in the thread.
-
-### Rank restrictions
-
-This tournament is intended for **intermediate** and **beginner** players. It means that **players must be between rank #10,000 and rank #100,000** to participate. If they're in the appropriate range upon registration except with following conditions:
-
-1. High division: rank past #10,000 before the tournament begins, if they are still below 8k, they are considered eligible.
-2. Low division: rank past #40,000 after the tournament begins, if they are still below 30k, they are considered eligible.
-3. Low division: rank past #40,000 before the tournament begins, they will be moved to high bracket.
-4. If players gained rank while the tournament is taking place, the action cannot be stopped, but please refrain from doing so (ranking too far below those restrictions above will require disqualifications).
-
-### Stage regulations
-
-1. There are eight stages to this tournament: Qualifiers, Group Stage, Round of 32, Round of 16, Quarterfinals, Semifinals, Finals, and Grand Finals.
-2. Matches are seeded. This will happen in the seeding round (Qualifiers). More information will be held in [seeding regulations](#seeding-regulations).
-3. Here are the BO for each round :
-   - Group Stage and Round of 32: Best of 7 (first to 4 points)
-   - Round of 16 and Quarterfinals: Best of 9 (first to 5 points)
-   - Semifinals: Best of 11 (first to 6 points)
-   - Finals and Grand Finals: Best of 13 (first to 7 points)
-4. During the Group Stage
-   - High division: group will be filled by 4 people. The top 2 player from each group will advance to RO32.
-   - Low division: group will be filled by 3 people. The top 2 player from each group will advance to RO32.
-5. Warmups are not allowed during Qualifiers and Group Stage.
-
-### Seeding regulations
-
-1. During the seeding round, there will be multiple lobbies available at various hours. Players will be free to sign up to the lobbies they please.
-2. This round is mainly used to weed out the no-shows.
-3. A private lobby will be created for all the players, and they will be invited into their lobby when it's their time. Make sure to be available at this time.
-4. There will be no warmup during this stage, but rather all the players will play through a shorter mappool.
-5. Seeding will be made with the average rank of each player on each map. If there is any tie with the average rank, we will take total score.
-6. Maps will be played twice in a row during the lobby. However, players can ask for a break of 5 minutes between each run.
-7. Results will be announced on the Discord server after the end of the weekend.
-
-### Match regulations
-
-1. A private match will be created for their match, and both players will be invited into their match when it's their time. Make certain to be available at this time.
-2. Each player is allowed to name **one** warm-up, but it must be **below 4 minutes**.
-3. Here is how bans and picks will happen. The first person to ban will be the loser of the `!roll` (gets lower score), then they will alternate bans. (Loser -> Winner -> Loser -> Winner) And the first person to pick will be the winner of the `!roll` (gets higher score), then they will alternate picks. (Winner -> Loser -> Winner -> Loser, etc...)
-4. Players can't ban a map from the same bracket twice.
-5. In case of a tie, the tiebreaker will be played.
-6. Results will be displayed on the Challonge bracket, and announced by the referee.
-
-### Mappool regulations
-
-1. There will be variety of mappool in each stage of the tournament, and it will become progressively harder.
-2. There will be seven bracket of map available in each mappool:
-   - SV (Speed Variation or Slider Velocity)
-   - LN (Long Notes)
-   - Accuracy
-   - Speed
-   - Technical
-   - Hybrid
-   - Tiebreaker
-3. Every maps are played under FreeMod. The only visual mods that are allowed are Hidden, Flashlight, and Mirror.
-4. New stage's mappool will be announced every Sunday.
-
-### Scheduling regulations
-
-1. Every stage will be held during the weekend to let players practice before their match.
-2. Matches are allowed to overlap if referees are available.
-3. If both players can come up with a better time than what we the organisers has scheduled before, please inform the organisers so they can change their match time if informed before the **Thursday** before the weekend of the stage.
+1. osu!mania LN Tournament 2 is a **1v1** osu!mania 4K tournament.
+2. The score system used in this tournament will be **ScoreV2**.
+3. There will be **no rank restrictions** to participate in the tournament.
+4. In order for your registration to count, please refer to the following criteria:
+   - Players have filled the [registration form](https://forms.gle/ektYSXGzZFXumVz59)
+   - Players have to join the [o!mLN Discord server](#links) at least until the time they get eliminated.
+5. All maps are played with FreeMod being ON. Mirror mod is **allowed** on all maps. Here is a list of mods players can also play with: Hidden, Fade-In, Flashlight, and any combination of those mods. Players are also allowed, but not forced, to play with NoFail.
+6. Players will be seeded according to their average rank of each map played in the Qualifiers.
+7. This tournament will adopt double-elimination bracket, as such the player coming from the loser's bracket will have to win 2 matches in order to win the tournament.
+8. Anyone participating in this tournament (including staff) must have common decency, and not be overly toxic for no reason, otherwise a ban from the tournament will be enforced.
+9. Only in the **first 20 seconds** of a map can the map be retried if anything hindering happens such as a disconnect. If anything happens after this, whether it's a disconnect or lags, the map will not be replayed.
+10. If the beatmap ends in a draw, the beatmap has to be replayed again. If it ends in a draw on the second try, the beatmap will be nullified, and the player who picked it'll have to choose another map.
+11. Failed scores will be counted.
+12. Players will be allowed to ban **one map** from Round of 64 up until Quarterfinals (that includes the loser's bracket rounds played then), and **two maps** from Semifinals and onwards.
+13. The player that rolls highest will pick first and ban second.
+14. Ban alternation is used (Lower rolling player bans one map first, then the higher rolling player bans one map, then the lower rolling, then the higher rolling).
+15. Always remember that this is just a game (eg. behave yourself while the match is ongoing).
+16. If neither players show up to a match, the winner will be decided by who has the best seeding.
+17. Following are winning conditions for each stage:
+    - the Round of 64 and the Round of 32: Best-of-7 (First to 4 points)
+    - the Round of 16 and the Quarterfinals: Best-of-9 (First to 5 points)
+    - the Semifinals: Best-of-11 (First to 6 points)
+    - the Finals and the Grand Finals: Best-of-13 (First to 7 points)
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
