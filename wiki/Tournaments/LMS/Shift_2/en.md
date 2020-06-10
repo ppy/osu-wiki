@@ -91,6 +91,35 @@ The Taiko LMS: Shift Cup 2 was run by various community members.
 
 ## Mappools
 
+### Grand Finals
+
+- NoMod
+  - [TryHardNinja feat. CaptainSparklez - Revenge (ReeK's "Dude, What's A Genre?" Remix) (yuzu\_\_rinrin) \[YZYN Wars\]](https://osu.ppy.sh/beatmapsets/1162156#taiko/2424392)
+  - [Cement Tea - Hikari (yvk1n0 Remix) (applerss) \[Loss of sight\]](https://osu.ppy.sh/beatmapsets/1161346#taiko/2422862)
+  - [tofubeats - CAND\\\LAND feat LIZ - Pa'slam system Remix(kawaii amen girl bootleg) (\_Kan2) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1156597#taiko/2413578)
+- Hidden
+  - [Airuei - Framework (Nwolf) \[Wired Oni\]](https://osu.ppy.sh/beatmapsets/1152903#taiko/2406326)
+  - [PROTODOME - Excuuuuuuuse Me, Princess (Princess Zelda's Rescue) (karterfreak) \[Oni\]](https://osu.ppy.sh/beatmapsets/822044#taiko/1722921)
+  - [Fukenkouseijin - Marunouchi Amenpunk (Cure) \[Nerf\]](https://osu.ppy.sh/beatmapsets/1170133#taiko/2441070)
+- HardRock
+  - [tobato - Digital(ooooooop) Tattoo (7\_7) \[Taiko(oooooooo)\]](https://osu.ppy.sh/beatmapsets/921770#taiko/1924891)
+  - [KEMOMIMI EDM SQUAD - XDUBSTEPX (maguro869) \[Superior Collab\]](https://osu.ppy.sh/beatmapsets/1125612#taiko/2351867)
+  - [Slaughter to Prevail - Hell (yea) \[Armageddon\]](https://osu.ppy.sh/beatmapsets/766730#taiko/1611775)
+- DoubleTime
+  - [positive MAD-crew - Mynarco Addiction (hikikochan) \[Memory\]](https://osu.ppy.sh/beatmapsets/454210#taiko/973848)
+  - [kors k - Monkey Business (uone) \[Inner Oni (0.85\~0.75)\]](https://osu.ppy.sh/beatmapsets/712368#taiko/1506159)
+  - [Lamb of God - Laid to Rest (frukoyurdakul) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/678365#taiko/1434384)
+- FreeMod
+  - [Katagiri - Vocaloid wa Omaenokoto Kirai 2 (applerss) \[Confusing\]](https://osu.ppy.sh/beatmapsets/1068037#taiko/2236034)
+  - [Hommarju - Dr. Chemical & Killing Machine (roufou) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/991727#taiko/2074063)
+  - [Cyte - TOUHOH Frequency modulation syntheless (Socus) \[superultraextremenoguardfullpowerfuckingtjbcretiredstyle\]](https://osu.ppy.sh/beatmapsets/1025343#taiko/2144562)
+- Extra
+  - [Camellia feat. Nanahira - Ska-sh All Neurons!! (katacheh) \[Ska-sh Taiko!!\]](https://osu.ppy.sh/beatmapsets/1120800#taiko/2341897)
+  - [Frums - Turnstile Jumper (maziari1105) \[Over Speed\]](https://osu.ppy.sh/beatmapsets/990672#taiko/2072124)
+  - [Stellabee - Wanderlustism (uncut edit) (-Kazu-) \[banger\]](https://osu.ppy.sh/beatmapsets/1111814#taiko/2322943)
+- Tiebreaker
+  - **[sabi - ban ge fuse (applerss) \[bang\]](https://osu.ppy.sh/beatmapsets/1098800#taiko/2295665)**
+
 ### Finals
 
 - NoMod
