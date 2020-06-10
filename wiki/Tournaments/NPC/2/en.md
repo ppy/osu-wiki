@@ -90,10 +90,10 @@ Generous donations from ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034
 | **Puffochino** | ![][flag_CA] **[garmgarma](https://osu.ppy.sh/users/13863006)**, ![][flag_US] [Dinal108](https://osu.ppy.sh/users/11449607) |
 | **PVC Pipes for Survival Situations** | ![][flag_SK] **[CardinalWolf](https://osu.ppy.sh/users/14995715)**, ![][flag_HR] [Pexate](https://osu.ppy.sh/users/14327975), ![][flag_IT] [Vmxplousion](https://osu.ppy.sh/users/14407570) |
 | **Ranger Can't Derank Successfully** | ![][flag_TW] **[John6023](https://osu.ppy.sh/users/2465704/osu)**, ![][flag_TW] [RainTW](https://osu.ppy.sh/users/11622805), ![][flag_TW] [Satomi\_0826](https://osu.ppy.sh/users/4248366) |
-| **SLAVA ZEMLYANAM** | - disqualified - |
+| **SLAVA ZEMLYANAM** | -disqualified- |
 | **Stunter in the Toilet** | ![][flag_DE] **[ShizuruxKotarou](https://osu.ppy.sh/users/4612857)**, ![][flag_DE] [Stunter443](https://osu.ppy.sh/users/12855636), ![][flag_DE] [Towny](https://osu.ppy.sh/users/15673024), ![][flag_DE] [PzKpwf](https://osu.ppy.sh/users/12558046) |
 | **Tablet Slayers** | ![][flag_IT] **[Dagoliir](https://osu.ppy.sh/users/7209911)**, ![][flag_ES] [CebollaVladimir](https://osu.ppy.sh/users/15308238), ![][flag_ES] [Viewer](https://osu.ppy.sh/users/16208221), ![][flag_DE] [Sarsese](https://osu.ppy.sh/users/14406757) |
-| **Tablet Slayers** | - disqualified - |
+| **Tablet Slayers** | -disqualified- |
 | **Tapa na Cara** | ![][flag_BR] **[Mr Capuccino](https://osu.ppy.sh/users/16224264)**, ![][flag_BR] [Megadestr](https://osu.ppy.sh/users/15795443) |
 | **TURBO DYSON CORPORATION** | ![][flag_FR] **[DYSONV8ABSOLUTE](https://osu.ppy.sh/users/15219106)**, ![][flag_FR] [Maximalic](https://osu.ppy.sh/users/11617067) |
 | **Ugga Ugga ⊂(( o・ω・))⊃** | ![][flag_TR] **[Undine116](https://osu.ppy.sh/users/14352107)**, ![][flag_TR] [Phantase](https://osu.ppy.sh/users/8584641) |
