@@ -4,7 +4,7 @@
 
 Aşağıdaki bölüm değiştirilebilecek dosyaların adlarını belirtir.
 
-## Normal (gürültülü) ses seti:
+## Normal (gürültülü) ses seti
 
 - `normal-hitnormal`
 - `normal-hitwhistle`
@@ -17,7 +17,7 @@ Aşağıdaki üç ses seti dosyası ilavedir, bu da bir ıslığa vurduğunuz za
 - `normal-sliderwhistle` (döngülü)
 - `normal-slidertick`
 
-## Soft ses seti:
+## Soft ses seti
 
 - `soft-hitnormal`
 - `soft-hitwhistle`
@@ -30,7 +30,7 @@ Aşağıdaki üç ses seti dosyası ilavedir, bu da bir ıslığa vurduğunuz za
 - `soft-sliderwhistle` (döngülü)
 - `soft-slidertick`
 
-## Davul ses seti:
+## Davul ses seti
 
 - `drum-hitnormal`
 - `drum-hitwhistle`
@@ -43,7 +43,7 @@ Aşağıdaki üç ses seti dosyası ilavedir, bu da bir ıslığa vurduğunuz za
 - `drum-sliderwhistle` (döngülü)
 - `drum-slidertick`
 
-## Evrensel ses setleri:
+## Evrensel ses setleri
 
 - `spinnerspin` (bu sesin tonu spinner tamamlandıkça değiştirilir. Orijinal ses dosyası 44100hz iken ~500hz ile 80000hz aralığında değişir.)
 - `spinnerbonus` (ding)
