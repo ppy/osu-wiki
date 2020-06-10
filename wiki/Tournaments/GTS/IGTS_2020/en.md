@@ -83,7 +83,7 @@ The Intermediate Global Taiko Showdown 2020 is run by various community members.
 | ![][flag_FI] | **Finland** | **[Mesda](https://osu.ppy.sh/users/5049430)**, [Kuromiyaa](https://osu.ppy.sh/users/12811744), [-azer-](https://osu.ppy.sh/users/4223010), [Zippiqwq](https://osu.ppy.sh/users/10065976) |
 | ![][flag_FR] | **France A** | **[Mimir](https://osu.ppy.sh/users/7382734)**, [Heaxys](https://osu.ppy.sh/users/5671417), [Fenrir029](https://osu.ppy.sh/users/11262025), [victor80697](https://osu.ppy.sh/users/11592579), [Heartswimm](https://osu.ppy.sh/users/10936319) |
 | ![][flag_FR] | **France B** | **[TLQ\_Yoshii](https://osu.ppy.sh/users/7157133)**, [JiMmYBiX](https://osu.ppy.sh/users/8241712), [Libegon](https://osu.ppy.sh/users/9922381), [Panda\_0ne](https://osu.ppy.sh/users/11216472), [Lyseria-Miku](https://osu.ppy.sh/users/8972795) |
-| ![][flag_DE] | **Germany A** | **[DrugManager](https://osu.ppy.sh/users/8694649)**, [Zhuosh](https://osu.ppy.sh/users/11056763), [Felicia Yuuki](https://osu.ppy.sh/users/10098927), [Stitchie](https://osu.ppy.sh/users/2354419), [Heam](https://osu.ppy.sh/users/4705120) |
+| ![][flag_DE] | **Germany A** | **[DrugManager](https://osu.ppy.sh/users/8694649)**, [Zhuosh](https://osu.ppy.sh/users/11056763), [Felicia Yuuki](https://osu.ppy.sh/users/10098927), [Heam](https://osu.ppy.sh/users/4705120) |
 | ![][flag_DE] | **Germany B** | **[Maou](https://osu.ppy.sh/users/3867109)**, [pandagoesleet](https://osu.ppy.sh/users/3451184), [Malox](https://osu.ppy.sh/users/4516252), [JanteSmith](https://osu.ppy.sh/users/371772), [Kirross](https://osu.ppy.sh/users/10893243) |
 | ![][flag_GR] | **Greece** | **[Kerasi](https://osu.ppy.sh/users/6498810)**, [KagamineAmy](https://osu.ppy.sh/users/8744228), [themis21212](https://osu.ppy.sh/users/13029254) |
 | ![][flag_HK] | **Hong Kong** | **[BlackBq](https://osu.ppy.sh/users/6291741)**, [Ansonjason2005](https://osu.ppy.sh/users/13271178), [-Storm7-](https://osu.ppy.sh/users/12248285), [shikuro\_re](https://osu.ppy.sh/users/9338943) |
@@ -114,7 +114,45 @@ The Intermediate Global Taiko Showdown 2020 is run by various community members.
 | ![][flag_US] | **United States B** | **[epilouge1](https://osu.ppy.sh/users/4697635)**, [Nuggets-](https://osu.ppy.sh/users/9676809), [Trollface3399](https://osu.ppy.sh/users/4635728), [White Axl](https://osu.ppy.sh/users/12334307), [Yujki](https://osu.ppy.sh/users/14987094) |
 | ![][flag_VE] | **Venezuela** | **[\[OSC\]Rirutok](https://osu.ppy.sh/users/7846939)**, [Switch\_](https://osu.ppy.sh/users/13726103) |
 
+## Groups
+
+| Group | Top seed | High seed | Low seed | Unseeded |
+| :-: | :-- | :-- | :-- | :-- |
+| **A** | ![][flag_AR] Argentina A | ![][flag_NL] Netherlands | ![][flag_PT] Portugal | ![][flag_NO] Norway |
+| **B** | ![][flag_CN] China | ![][flag_DE] Germany B | ![][flag_IT] Italy | ![][flag_BR] Brazil |
+| **C** | ![][flag_KR] South Korea | ![][flag_ES] Spain | ![][flag_PH] Philippines | ![][flag_JP] Japan B |
+| **D** | ![][flag_SG] Singapore | ![][flag_HK] Hong Kong | ![][flag_GR] Greece | ![][flag_ID] Indonesia B |
+| **E** | ![][flag_US] United States A | ![][flag_CL] Chile | ![][flag_FR] France A | ![][flag_BE] Belgium |
+| **F** | ![][flag_US] United States B | ![][flag_ID] Indonesia A | ![][flag_AU] Australia | ![][flag_CO] Colombia |
+| **G** | ![][flag_PL] Poland | ![][flag_CA] Canada | ![][flag_MY] Malaysia A | ![][flag_CZ] Czech Republic |
+| **H** | ![][flag_JP] Japan A | ![][flag_GB] United Kingdom | ![][flag_RU] Russian Federation A | ![][flag_AR] Argentina B |
+
 ## Mappools
+
+### Group Stage
+
+**[Download the map pack here! (65 MB)](https://mega.nz/file/3wFnTazb#-ONnI0-BFICX7IHmNR-zHmpK4qhWyJw9-AgzjZSiqCE)**
+
+- NoMod
+  - [ONE OK ROCK - Clock Strikes (Chromoxx) \[Oni\]](https://osu.ppy.sh/beatmapsets/602619#taiko/1272846)
+  - [Zektbach - Turii \~Panta rhei\~ (Yales) \[Ron's Oni\]](https://osu.ppy.sh/beatmapsets/902770#taiko/2281596)
+  - [F-T-K & 4ra8 -shiraha- - SingularityAlteR:Ego (\[\_Chichinya\_\]) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1058794#taiko/2220695)
+  - [MYUKKE. - OCCHOCO-REST-LESS (Jaye) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1041076#taiko/2177417)
+- Hidden
+  - [StripE - FIRE FIRE (roufou) \[Oni\]](https://osu.ppy.sh/beatmapsets/348579#taiko/2334545)
+  - [xi - Quietus Ray (\_DUSK\_) \[yzrin's Muzukashii\]](https://osu.ppy.sh/beatmapsets/776093#taiko/1668226)
+- HardRock
+  - [Arcaea Sound Team against. ETIA. - Singularity VVVIP (Raytoly) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1139960#taiko/2382097)
+  - [ianmirror - yahirodono (Michiru) \[2199's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1005489#taiko/2121096)
+- DoubleTime
+  - [Tanemura Koyori (CV: Oowada Hitomi) - Akairo Little Leader (yuki\_momoiro722) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/994248#taiko/2081704)
+  - [Yuzuhiko - Sasha (Bedwyr Aorta) \[Mystyk's Muzukashii (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/1187569#taiko/2474893)
+- FreeMod
+  - [ALiCE'S EMOTiON - Cold Rain (snowball112) \[Oni\]](https://osu.ppy.sh/beatmapsets/172052#taiko/506940)
+  - [cillia - Rolling Girl (mintong89) \[Muzukashii Lv.17\]](https://osu.ppy.sh/beatmapsets/434536#taiko/1447804)
+  - [Sakuzyo - Lie (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/920188#taiko/1925861)
+- Tiebreaker
+  - **[kamome sano - starlights feat. TEA (you Remix) (Killer\_Dal) \[sendol's Oni\]](https://osu.ppy.sh/beatmapsets/1125172#taiko/2391592)**
 
 ### Qualifiers
 
@@ -129,6 +167,61 @@ The Intermediate Global Taiko Showdown 2020 is run by various community members.
   - [t+pazolite feat. Rizna - Buzy Lake (Suzux) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/980094#taiko/2052901)
 - DoubleTime
   - [Ayu Ting Ting - Sambalado (Volta) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/542425#taiko/1630672)
+
+## Match results
+
+### Qualifiers
+
+| Seed | Team | Average rank |
+| --: | :-- | --: |
+| #1 | ![][flag_AR] Argentina A | 1.2 |
+| #2 | ![][flag_JP] Japan A | 3.4 |
+| #3 | ![][flag_US] United States B | 6.6 |
+| #4 | ![][flag_CN] China | 7.8 |
+| #5 | ![][flag_KR] South Korea | 9.6 |
+| #6 | ![][flag_PL] Poland | 10.2 |
+| #6 | ![][flag_SG] Singapore | 10.2 |
+| #8 | ![][flag_US] United States A | 10.6 |
+| #9 | ![][flag_HK] Hong Kong | 11.4 |
+| #9 | ![][flag_NL] Netherlands | 11.4 |
+| #11 | ![][flag_DE] Germany B | 12.2 |
+| #12 | ![][flag_CL] Chile | 15 |
+| #13 | ![][flag_ES] Spain | 16 |
+| #14 | ![][flag_ID] Indonesia A | 16.6 |
+| #15 | ![][flag_CA] Canada | 17.2 |
+| #15 | ![][flag_GB] United Kingdom | 17.2 |
+| #17 | ![][flag_RU] Russian Federation A | 17.6 |
+| #18 | ![][flag_PH] Philippines | 18.2 |
+| #19 | ![][flag_GR] Greece | 19.4 |
+| #20 | ![][flag_PT] Portugal | 20.2 |
+| #21 | ![][flag_FR] France A | 21.6 |
+| #22 | ![][flag_MY] Malaysia A | 21.8 |
+| #23 | ![][flag_AU] Australia | 22.4 |
+| #24 | ![][flag_IT] Italy | 23 |
+| #25 | ![][flag_ID] Indonesia B | 23.8 |
+| #26 | ![][flag_CO] Colombia | 24 |
+| #27 | ![][flag_AR] Argentina B | 26.8 |
+| #28 | ![][flag_CZ] Czech Republic | 28 |
+| #29 | ![][flag_BE] Belgium | 28.2 |
+| #30 | ![][flag_JP] Japan B | 28.8 |
+| #31 | ![][flag_BR] Brazil | 30.2 |
+| #32 | ![][flag_NO] Norway | 30.8 |
+| #33 | ![][flag_FI] Finland | 31.2 |
+| #34 | ![][flag_EC] Ecuador | 31.4 |
+| #35 | ![][flag_FR] France B | 31.8 |
+| #36 | ![][flag_DE] Germany A | 33 |
+| #36 | ![][flag_VE] Venezuela | 33 |
+| #38 | ![][flag_RU] Russian Federation B | 36.2 |
+| #39 | ![][flag_MX] Mexico | 36.8 |
+| #40 | ![][flag_UA] Ukraine | 37 |
+| #41 | ![][flag_TN] Tunisia | 37.2 |
+| #42 | ![][flag_CR] Costa Rica | 37.8 |
+| #43 | ![][flag_MY] Malaysia B | 41.4 |
+| #44 | ![][flag_TH] Thailand | 41.8 |
+
+- Only the top 32 team can proceed to the Group Stage
+- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1VxF7lvt09sR7NrG2JOEQR1F8RQiymb3XMARC6OudF_E/edit?usp=sharing)
+- Average rank is determined by `Σ position earned when playing the Qualifiers mappool / amount of Qualifiers mappool`
 
 ## Ruleset
 
@@ -261,8 +354,8 @@ The Intermediate Global Taiko Showdown 2020 is run by various community members.
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_CN]: /wiki/shared/flag/CO.gif "Colombia"
-[flag_CO]: /wiki/shared/flag/CN.gif "China"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
 [flag_CR]: /wiki/shared/flag/CR.gif "Costa Rica"
 [flag_CZ]: /wiki/shared/flag/CZ.gif "Czech Republic"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
@@ -280,7 +373,7 @@ The Intermediate Global Taiko Showdown 2020 is run by various community members.
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
 [flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
 [flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_NO]: /wiki/shared/flag/NL.gif "Norway"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
 [flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
 [flag_PL]: /wiki/shared/flag/PL.gif "Poland"
 [flag_PT]: /wiki/shared/flag/PT.gif "Portugal"
