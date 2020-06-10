@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # 인터페이스
 
 ![](img/Intro_static.jpg "인터페이스 스크린")
