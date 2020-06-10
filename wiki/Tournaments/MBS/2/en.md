@@ -22,7 +22,7 @@ The **Mania Beginner's Showdown 2** (***MBS2***) is a worldwide double-eliminati
 | Qualifiers | 2020-05-09/2020-05-10 |
 | Group Stage | 2020-05-15/2020-05-24 |
 | Round of 32 | 2020-05-30/2020-05-31 |
-| Round of 16 | 2020-06-06/2020-06-07 |
+| Round of 16 | 2020-06-05/2020-06-07 |
 | Quarterfinals | 2020-06-13/2020-06-14 |
 | Semifinals | 2020-06-20/2020-06-21 |
 | Finals | 2020-06-27/2020-06-28 |
@@ -37,7 +37,7 @@ The **Mania Beginner's Showdown 2** (***MBS2***) is a worldwide double-eliminati
 | Qualifiers | 2020-05-09/2020-05-10 |
 | Group Stage | 2020-05-16/2020-05-25 |
 | Round of 32 | 2020-05-30/2020-05-31 |
-| Round of 16 | 2020-06-06/2020-06-07 |
+| Round of 16 | 2020-06-05/2020-06-07 |
 | Quarterfinals | 2020-06-13/2020-06-14 |
 | Semifinals | 2020-06-20/2020-06-21 |
 | Finals | 2020-06-27/2020-06-28 |
@@ -151,6 +151,28 @@ The Mania Beginner's Showdown 2 is run by various community members.
 
 ### High division
 
+#### Quarterfinals
+
+**[Download the mappack here! (88 MB)](https://mega.nz/file/mvJChARS#9550w7Z97pfmHqjcLkVXmfam7pHUUbJFwmzyvYmQJQk)**
+
+- FreeMod
+  - [THE SxPLAY & KIVA - Hyou Ryuu (zero2snow) \[Stage 1: Drifted\]](https://osu.ppy.sh/beatmapsets/980182#mania/2051288)
+  - [stereoberry - evangelize (blurry images) (Tidek) \[transparency (SV)\]](https://osu.ppy.sh/beatmapsets/577748#mania/1222765)
+  - [Waterflame - RadioCutter (TheNewBungping) \[Frequency\]](https://osu.ppy.sh/beatmapsets/928513#mania/1939403)
+  - [Eve - As You Like It (Raveille) \[Stage 3: Regulation\]](https://osu.ppy.sh/beatmapsets/1017847#mania/2130198)
+  - [Aimer - Through My Blood \<AM\> (Raveille) \[Stage 3: Energy\]](https://osu.ppy.sh/beatmapsets/856473#mania/1789302)
+  - [K A Z M A S A - RTCMON (Couil) \[uwu\]](https://osu.ppy.sh/beatmapsets/749852#mania/1579336)
+  - [blessthefall - 40 Days... (puxtu) \[no pp allowed\]](https://osu.ppy.sh/beatmapsets/476241#mania/1017294)
+  - [Hige Driver - Ukigumo (Guilhermeziat) \[I wanna be the jumpstream\]](https://osu.ppy.sh/beatmapsets/960054#mania/2009983)
+  - [DJ TOTTO - DORNWALD \~Junge\~ (inteliser) \[EXTREME\]](https://osu.ppy.sh/beatmapsets/834112#mania/1747847)
+  - [UNDEAD CORPORATION - Embraced by the Flame (Sooph) \[Hard\]](https://osu.ppy.sh/beatmapsets/875784#mania/2040784)
+  - [penoreri - Everlasting Message (\_FrEsH\_ChICkEn\_) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/374724#mania/820842)
+  - [goreshit - o'er the flood (Shoegazer) \[deluge\]](https://osu.ppy.sh/beatmapsets/497750#mania/1552320)
+  - [Natsume Chiaki - Hanairo Biyori (Asherz007) \[Croco's Hyper\]](https://osu.ppy.sh/beatmapsets/987173#mania/2065029)
+  - [KNOWER - THE GOVT. KNOWS (RemiFlan) \[STICK IT TO THE MAN\]](https://osu.ppy.sh/beatmapsets/740972#mania/1563097)
+- Tiebreaker
+  - **[xi vs Feryquitous - Cyberspace (HowToPlayLN) \[RuleNoteSerenade's Induction\]](https://osu.ppy.sh/beatmapsets/1110640#mania/2320709)**
+
 #### Round of 16
 
 **[Download the mappack here! (134 MB)](https://mega.nz/file/yuJwWSRT#f2-ee1CnI-_iAGROK3p1AaHo7TowpRcCH5leNMmYkhg)**
@@ -223,6 +245,28 @@ The Mania Beginner's Showdown 2 is run by various community members.
   - [Silentroom - NULCTRL (Raveille) \[Stage 5: Command\]](https://osu.ppy.sh/beatmapsets/1162328#mania/2424667)
 
 ### Low division
+
+#### Quarterfinals
+
+**[Download the mappack here! (93 MB)](https://mega.nz/file/Lu5CACIS#MnoNjPVpMjwmB9jF3f6TuE38636e0UXIqLFHS1jDWmk)**
+
+- FreeMod
+  - [Porter Robinson - Flicker (Hydria) \[SV Heaven\]](https://osu.ppy.sh/beatmapsets/490560#mania/1045578)
+  - [Atik - Itz Mr. Grim (Schrodinger) \[Commando's Hard\]](https://osu.ppy.sh/beatmapsets/461213#mania/1007135)
+  - [HOME - Resonance (Guilhermeziat) \[ResidentSleeper\]](https://osu.ppy.sh/beatmapsets/1024592#mania/2143115)
+  - [Itou Kanako - Fatima (TV size) (Adri) \[Fly High\]](https://osu.ppy.sh/beatmapsets/906277#mania/1891296)
+  - [XX:me - Hitori (Raveille) \[Where are you now...\]](https://osu.ppy.sh/beatmapsets/766073#mania/1610599)
+  - [Virtual Self - EON BREAK (Janko) \[Hard\]](https://osu.ppy.sh/beatmapsets/932892#mania/1956380)
+  - [Presti - A Million Stars (Pizza) \[Adinata's 4K Hard\]](https://osu.ppy.sh/beatmapsets/379422#mania/835906)
+  - [Shiki - Endless Dream (Shoegazer) \[hi19's Normal\]](https://osu.ppy.sh/beatmapsets/263929#mania/867244)
+  - [Fractal Dreamers - Celestial Horizon (AchsanLovers) \[Rin's Hard\]](https://osu.ppy.sh/beatmapsets/896302#mania/2255680)
+  - [DELTA HEAVY - White Flag (bumpinho) \[Peace\]](https://osu.ppy.sh/beatmapsets/495875#mania/1055541)
+  - [Aphex Twin - Flim (Davvy) \[Vacant (Hard)\]](https://osu.ppy.sh/beatmapsets/1178598#mania/2475737)
+  - [Akira Complex - Ether Strike (Kuo Kyoka) \[Present\]](https://osu.ppy.sh/beatmapsets/884961#mania/1849682)
+  - [OISHII - ONIGIRI FREEWAY (Mentholzzz) \[Poly's Konbu Onigiri "HD"\]](https://osu.ppy.sh/beatmapsets/663098#mania/1464610)
+  - [Lon x Chroma - Wakaranai (Raveille) \[Tasukete!\]](https://osu.ppy.sh/beatmapsets/643398#mania/1363864)
+- Tiebreaker
+  - **[Camellia - GHOST (Protastic101) \[HD\]](https://osu.ppy.sh/beatmapsets/797183#mania/1674212)**
 
 #### Round of 16
 
@@ -298,6 +342,39 @@ The Mania Beginner's Showdown 2 is run by various community members.
 ## Match results
 
 ### High division
+
+#### Round of 16
+
+Friday, 5 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| woahsia ![][flag_SG] | -1 | **0** | ![][flag_CL] **joako 321** | *win by default* |
+
+Saturday, 6 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| KagenoKami ![][flag_PH] | -1 | **0** | ![][flag_FI] **Haadez** | *win by default* |
+| AmateurMonkeyYT ![][flag_AU] | 2 | **5** | ![][flag_FR] **Djink** | [#1](https://osu.ppy.sh/community/matches/62573688) |
+| Katsumi ![][flag_DE] | 2 | **5** | ![][flag_TH] **-NC KJ-** | [#1](https://osu.ppy.sh/community/matches/62574888) |
+| nazerty68 ![][flag_FR] | -1 | **0** | ![][flag_ID] **ibacot** | [#1](https://osu.ppy.sh/community/matches/62576333) |
+| uwuchuchuu ![][flag_TH] | 3 | **5** | ![][flag_DE] **MonsterFighterP** | [#1](https://osu.ppy.sh/community/matches/62579724) |
+| **SochnyiKokos** ![][flag_FR] | **5** | 3 | ![][flag_US] Arraxey | [#1](https://osu.ppy.sh/community/matches/62587330) |
+
+Sunday, 7 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Lazereed** ![][flag_PH] | **5** | 0 | ![][flag_FR] nalo\_ | [#1](https://osu.ppy.sh/community/matches/62616128) |
+| **CrashSmash** ![][flag_CH] | **5** | 3 | ![][flag_SG] Kirameiji | [#1](https://osu.ppy.sh/community/matches/62617361) |
+| **Paturages** ![][flag_FR] | **5** | 0 | ![][flag_TH] \[Hakura\_San\] | [#1](https://osu.ppy.sh/community/matches/62619948) |
+| **ReZ\_TB** ![][flag_ID] | **5** | 4 | ![][flag_RU] -Tenma- | [#1](https://osu.ppy.sh/community/matches/62621363) |
+| **TNKSTC** ![][flag_TH] | **5** | 0 | ![][flag_GB] Wassero | [#1](https://osu.ppy.sh/community/matches/62623890) |
+| **DovaCube** ![][flag_FR] | **5** | 3 | ![][flag_DE] cakeboss05 | [#1](https://osu.ppy.sh/community/matches/62625231) |
+| **Gerwin13** ![][flag_PH] | **0** | -1 | ![][flag_DE] Parax\_UnDeath | *win by default* |
+| xelied ![][flag_FR] | 0 | **5** | ![][flag_SG] **loli\_seale** | [#1](https://osu.ppy.sh/community/matches/62633353) |
+| Screeply ![][flag_AR] | 0 | **5** | ![][flag_BR] **Konohana Lucia** | [#1](https://osu.ppy.sh/community/matches/62633311) |
 
 #### Round of 32
 
@@ -555,6 +632,39 @@ Sunday, 24 May 2020:
 
 ### Low division
 
+#### Round of 16
+
+Friday, 5 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **ump\_me\_daddy** ![][flag_SE] | **5** | 4 | ![][flag_ID] DJRukito | [#1](https://osu.ppy.sh/community/matches/62530760) |
+
+Saturday, 6 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| mickeyparm ![][flag_TH] | 0 | **5** | ![][flag_MY] **Anamneses** | [#1](https://osu.ppy.sh/community/matches/62574899) |
+| FadingAway ![][flag_RU] | 3 | **5** | ![][flag_AU] **Arbusion** | [#1](https://osu.ppy.sh/community/matches/62574942) |
+| **Brittany Miller** ![][flag_RU] | **0** | -1 | ![][flag_PL] \[ Kangurek \] | *win by default* |
+| Dagoliir ![][flag_IT] | 0 | 0 | ![][flag_PH] Admiral Cliff | *nullified* |
+| \_demo ![][flag_PL] | 4 | **5** | ![][flag_ID] **xHirayuki** | [#1](https://osu.ppy.sh/community/matches/62577753) |
+| ThePrimesBros ![][flag_FR] | -1 | **0** | ![][flag_DE] **Quadrumplayer** | *win by default* |
+| TheWabbit ![][flag_US] | -1 | **0** | ![][flag_LV] **Lceanu** | *win by default* |
+
+Sunday, 7 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| BubbleTeaBunny ![][flag_SG] | 0 | **5** | ![][flag_SE] **Mestro** | [#1](https://osu.ppy.sh/community/matches/62618565) |
+| **Alex\_Terrol** ![][flag_RU] | **5** | 0 | ![][flag_KH] tsp648 | [#1](https://osu.ppy.sh/community/matches/62622608) |
+| **Nielz** ![][flag_NL] | **5** | 3 | ![][flag_PL] Ilikecook | [#1](https://osu.ppy.sh/community/matches/62623252) |
+| Cychloryn ![][flag_US] | 0 | **5** | ![][flag_DE] **QEpicAce** | [#1](https://osu.ppy.sh/community/matches/62627817) |
+| Brown918 ![][flag_HK] | 2 | **5** | ![][flag_MX] **Ammy** | [#1](https://osu.ppy.sh/community/matches/62627387) |
+| **tyud** ![][flag_US] | **5** | 0 | ![][flag_PH] Deadpulse | [#1](https://osu.ppy.sh/community/matches/62629474) |
+| **KorZ\[TH\]** ![][flag_TH] | **5** | 0 | ![][flag_US] mcgen | [#1](https://osu.ppy.sh/community/matches/62629400) |
+| **MAREK MARUCHA** ![][flag_PL] | **5** | 2 | ![][flag_RU] SergoM4444 | [#1](https://osu.ppy.sh/community/matches/62631113) |
+
 #### Round of 32
 
 Saturday, 30 May 2020:
@@ -575,7 +685,7 @@ Sunday, 31 May 2020:
 | **mickeyparm** ![][flag_TH] | **0** | -1 | ![][flag_US] TheWabbit | *win by default* |
 | tsp648 ![][flag_KH] | 0 | **4** | ![][flag_US] **mcgen** | [#1](https://osu.ppy.sh/community/matches/62321540) |
 | Admiral Cliff ![][flag_PH] | -1 | **0** | ![][flag_AU] **Arbusion** | *win by default* |
-| Marek Marucha ![][flag_PL] | 1 | **4** | ![][flag_HK] **Brown918** | [#1](https://osu.ppy.sh/community/matches/62331390) |
+| MAREK MARUCHA ![][flag_PL] | 1 | **4** | ![][flag_HK] **Brown918** | [#1](https://osu.ppy.sh/community/matches/62331390) |
 | **Ilikecook** ![][flag_PL] | **0** | -1 | ![][flag_ID] DJRukito | *win by default* |
 | ump\_me\_daddy ![][flag_SE] | 2 | **4** | ![][flag_NL] **Nielz** | [#1](https://osu.ppy.sh/community/matches/62333944) |
 | xHirayuki ![][flag_ID] | 1 | **4** | ![][flag_SE] **Mestro** | [#1](https://osu.ppy.sh/community/matches/62333914) |
