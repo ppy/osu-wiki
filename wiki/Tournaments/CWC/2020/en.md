@@ -102,7 +102,7 @@ The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) an
 | China | ![][flag_CN] | ![][flag_KR] | South Korea | **11:00 UTC** | 19:00 UTC+08 | 20:00 UTC+09 | ² |
 | China | ![][flag_CN] | ![][flag_US] | United States | **13:00 UTC** | 21:00 UTC+08 | 09:00 UTC-04 | ² |
 
-¹ 3rd place match
+¹ 3rd place match  
 ² Encounter dependent on results of ¹3rd place match
 
 ## Mappools
