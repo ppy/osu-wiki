@@ -156,6 +156,26 @@ The Taiko LMS: Shift Cup 2 is run by various community members.
 
 ## Match results
 
+### Round of 16
+
+Saturday, 2 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| juju on that Beat43210 | 0 | **5** | **Where is JDrago1-13?** | [#1](https://osu.ppy.sh/community/matches/61149567) |
+| loli meme patrol | 3 | **5** | **Los Panas** | [#1](https://osu.ppy.sh/community/matches/61178931) |
+| 100% taiko juice | -1 | **0** | **abibibubibui** | *win by default* |
+| Syria | 1 | **5** | **Pokochin Brothers** | [#1](https://osu.ppy.sh/community/matches/61189814) |
+
+Sunday, 3 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| null | 0 | **5** | **EuroGamers -Jaye** | [#1](https://osu.ppy.sh/community/matches/61204371) |
+| Yona and the Macacos | 2 | **5** | **a** | [#1](https://osu.ppy.sh/community/matches/61209023) |
+| Windjammers | 2 | **5** | **Dancing Pallbearers** | [#1](https://osu.ppy.sh/community/matches/61208921) |
+| RJ is a Furry | 0 | **5** | **ヴぇ** | [#1](https://osu.ppy.sh/community/matches/61211480) |
+
 ### Group Stage
 
 Saturday, 25 April 2020:
