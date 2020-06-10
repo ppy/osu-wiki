@@ -11,9 +11,9 @@ This page will detail the various ways in which players can choose to play in th
 
 ### Mouse-only
 
-Mouse-only was once the _only_ way to play osu! until other playing methods were supported over time.
+Mouse-only was once the *only* way to play osu! until other playing methods were supported over time.
 
-Also known as _pure-mouse_, mouse-only players navigate the in-game cursor with a mouse as well as tap beats, follow sliders, and spin spinners by only clicking the left/right mouse buttons.
+Also known as *pure-mouse*, mouse-only players navigate the in-game cursor with a mouse as well as tap beats, follow sliders, and spin spinners by only clicking the left/right mouse buttons.
 
 The play style is widely considered to be the hardest method to play with and mouse-only players who rank high in the overall rankings are usually greatly respected by the community.
 
@@ -82,61 +82,65 @@ Touchscreen + Keyboard is a play style uses a keyboard for key inputs, and touch
 - **Laptop touchpad/trackpad**: While this method is possible, most players prefer not to use a trackpad because of the extreme difficulty involved. Specifically, players argue that controlling the cursor movement on the limited space of the laptop touchpad/trackpad is clunky, slow, and creates a lot of friction. The trackpad is used to navigate the in-game cursor.
 - **Joystick**: A creative way to control osu!cursor. This play style sees the player hold and move a joystick around to move the in-game cursor and—depending on player's joystick design—taps using the trigger/face buttons of the joystick, or with the keyboard keys to register the beats. It is widley-regarded as a sort of "challenge" play style due to the obvious drawbacks and sheer skill required to control the joystick movement.
 - **Metal plate**: This is a special way to replace the keyboard for tapping beats. The method was introduced by ![](/wiki/shared/flag/US.gif "United States of America") [geckogates](https://osu.ppy.sh/users/geckogates) and requires some wiring and electronic knowledge to build. The player will attach a wire to the clicking fingers (connected to keyboard's circuit for `Z` and `X`) and will touch the metal plates to register beats. 
-- **Console Controller:** Like the joystick, this method is one that is more considered to be a creative, and out-of-the-box way to play osu!. Depending on the brand of controller, this play style could see a player using a built-in trackpad, control/analog stick, or D-Pad to control the in-game cursor. Some players may find it more comfortable to use buttons already on the controller itself to tap beats, or through a regular keyboard.
+- **Gamepad:** Like the joystick, this method is one that is more considered to be a creative, and out-of-the-box way to play osu!. Depending on the brand of controller, this play style could see a player using a built-in trackpad, control/analog stick, or D-Pad to control the in-game cursor. Some players may find it more comfortable to use buttons already on the controller itself to tap beats, or through a regular keyboard.
 
 ## ![](/wiki/shared/mode/taiko.png) osu!taiko
 
 ### Keyboard
 
-Keyboard was once the _only_ way to play osu!taiko until other playing methods was supported over time.
+Keyboard was once the *only* way to play osu!taiko until other playing methods were supported over time.
 
-To put it simply, the player press the assigned keyboard keys to _hit_ the drum parts; `X`/`C` for drum center (Red) and `Z`/`V` for drum rim (Blue).
+Simply, the player would press the assigned keyboard keys to hit the drum parts. By default, `X`/`C` were for the drum center (Red) and `Z`/`V` were for the drum rim (Blue).
 
-There are two main styles of setting the keys placement in the keyboard, KDDK (Taiko default, or BRRB) or DDKK/KKDD (or RRBB/BBRR).
-These represent the combination of keys settings to hit the notes.
-There may be other weird combinations but are rarely used.
+There are two main styles of setting the keys placement in the keyboard: KDDK (Taiko default, or BRRB) or DDKK/KKDD (or RRBB/BBRR). The letters represent the placement of the drum rim or drum center (e.eg. K in KDDK for drum rim, and D for the drum center).
 
-For key-binding, the default is `Z` `X` `C` `V` (KDDK, or BRRB).
+*Note For key-binding, the default is `Z` `X` `C` `V` (KDDK, or BRRB).*
 
 ### Taiko controller
 
-The default play style and controller for the [Taiko no Tatsujin](https://wikipedia.org/wiki/Taiko_no_Tatsujin) series([Taiko Drum Master](https://wikipedia.org/wiki/Taiko:_Drum_Master) for US).
-Most skilled players play using the Taiko controller either bought or created from scratch.
+A taiko controller is the default play style and controller for the [Taiko no Tatsujin](https://wikipedia.org/wiki/Taiko_no_Tatsujin) series([Taiko Drum Master](https://wikipedia.org/wiki/Taiko:_Drum_Master) for US).
 
-Player will carry each hand respectively a taiko/drum stick and hit the surface (Red) or rim of the drum (Blue) to register the note based on where it is hit.
-Most Taiko controllers connect to the computer by using Bluetooth connector should there be no USB connecter.
+*Note: Most skilled players play using the Taiko controller either bought or created from scratch.*
+
+Players who use a taiko controller carry a taiko/drum stick in each hand and hit the center (Red) or rim of the drum (Blue) to register the note based on where it is hit.
+
+*Notice: Most Taiko controllers connect to the computer by using Bluetooth connector should there be no USB connecter. Though this may increase latency*
 
 ### Other styles
 
-- **Gamepad**: One of the possible play-style in console variation of Taiko no Tatsujin series (including Taiko Drum Master). Players register Don/Katu by pressing the face (Right Don, or Right Red), arrow (Left Don, or Left Red) and upper buttons (Left/Right Katu, or Left/Right Blue).
+- **Gamepad**: A gamepad is one of the possible play-styles in the various console variations of Taiko no Tatsujin series (including Taiko Drum Master). Players register Don/Katu by pressing the face (Right Don, or Right Red), arrow (Left Don, or Left Red) and upper buttons (Left/Right Katu, or Left/Right Blue). <!-- This sentence could use a bit more work on explaining what Don/Katu are. As well as a photo. Also, I think that Gamepads are the same thing as an taiko controller -->
 
 ## ![](/wiki/shared/mode/catch.png) osu!catch
 
 ### Keyboard
 
-The most commonly used and default play-style for this mode.
+A keyboard is the most commonly used and default play style for osu!catch.
 
-Players press `<-`/`->` arrow key to move the catcher, and also can hold down `leftShift` to trigger _Dash!_ effect.
+To play with a keyboard, players press the left/right `<-`/`->` arrow keys to move the catcher, and can also hold down `leftShift` to trigger the *Dash!* effect.
 
-It is possible to edit the keys used; some players enjoy `A`/`D` for movement and `Spacebar`/`rightShift` for _Dash!_ effect.
+It is possible to edit the keys used; some players enjoy `A`/`D` for movement and `Spacebar`/`rightShift` for *Dash!* effect.
 
-The key overlay shows `<-`/`->` arrow keys input as `L`/`R` respectively and `leftShift` as `D` by default settings.
+The key overlay shows `<-`/`->` arrow keys input as `L`/`R` respectively and `leftShift` as `D` by default.
 
 #### Keyboard + Mouse
 
-An minor alternative play style of Keyboard, with the trigger for _Dash!_ effect done by using mouse clicks instead.
+Keyboard + Mouse is a minor alternative play style of Keyboard, in which players trigger the *Dash!* effect by using mouse clicks instead. Though some players prefer the reverse and prefer to control the left and right movements by using the left/right mouse buttons and activate dashes with the keyboard.
+
+*Note: Depending on the model of mouse, some players may prefer to control all movements and controls of the catcher soley through buttons on the mouse. Usually using a Mouse Button 4 or 5 to dash.*
 
 ### Joystick
 
-A possible play-style for players used to pixel-old arcade cabinets' control scheme.
+Using a joystick to control the catcher is a play style for players who are used to pixel-old arcade cabinets' control scheme.
 
-Players move the head of the joystick and press the face button/trigger/keyboard key to trigger the _Dash!_ effect.
+Players move the head of the joystick and press the face button/trigger/keyboard key to trigger the *Dash!* effect.
 
 ### Gamepad
 
-A possible play-style for players comfortable playing with a gamepad.
+Using a gamepad to control the catcher is a play style for players who prefer the feeling of a particular D-Pad or control stick as opposed to a keyboard.
 
-Players press the left/right arrow of the gamepad to move the catcher left/right and press then hold the face button to trigger the _Dash!_ effect.
+To move the catcher left and right, some players prefer to press the left/right arrows on their gamepad's D-Pad to move, while others prefer to use control stick directions. Though, due to a gamepad's wide variety of buttons, players can use triggers, bumpers, or other face buttons to move the  catcher.
+
+To trigger the *Dash!* effect, many players use one of the face buttons on their gamepad. Though, some players prefer to use triggers, bumpers, or control sticks. 
 
 ## ![](/wiki/shared/mode/mania.png) osu!mania
 
