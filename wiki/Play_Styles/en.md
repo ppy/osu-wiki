@@ -63,25 +63,26 @@ Much like Mouse + Keyboard, some players also use only the tablet pen to tap whi
 
 ### Touchscreen
 
-A possible play style for players who own a touch-enabled monitor, laptop screen or tablet.
+This play style uses a touch-enabled monitor, laptop screen, or tablet to navigate the in-game cursor and tap hit objects.
 
-Players touch the screen to instantaneously navigate and tap to the beat.
-This play style may feel slightly similar to playing [osu!stream](/wiki/osu!stream) by touching the screen directly rather than by hardware support (mouse, graphic tablet).
-Some players may opt for this play style when available or when they do not own a graphic tablet.
+To navigate the in-game cursor, touchscreen players touch the screen of their device with a tablet pen or their finger at the precise location in which they want the cursor to be at. This results in the cursor to appear as if it is "jumping" to the touched location.
 
-The key overlay shows touch input as `M1`.
+When a touchscreen player taps the screen, their device will simultaneously move the cursor to that point, as well as send a mouse input. Thus, to tap beats, follow sliders, and spin spinners, touchscreen players will only touch hit objects when they want the hit object to be hit.
+
+This play style may feel slightly similar to playing [osu!stream](/wiki/osu!stream) due to the act of touching the screen directly rather than by hardware support (e.g., mouse, graphics tablet).
+
+*Note: The key overlay shows touch input as `M1`.*
 
 ### Touchscreen + Keyboard
 
-A play style used by players that owns a touch-enabled monitor/laptop screen, the play style is mostly adopted by touchscreen players who could not perform streams using only the touchscreen.
-
-The play style can be similar to Tablet + Keyboard as some monitors allows for a pen to be used instead.
+Touchscreen + Keyboard is a play style uses a keyboard for key inputs, and touchscreen device of some sort to navigate the in-game cursor; it is a play style most often adopted by touchscreen players who cannot perform streams using only the touchscreen.
 
 ### Other styles
 
-- **Laptop touchpad/trackpad**: While being theoretically possible, most players prefer not to use a trackpad because of the extreme difficulty involved (specifically, controlling the cursor movement on the limited space of the laptop touchpad/trackpad). The trackpad is used (instead of a mouse) to navigate the in-game cursor.
-- **Joystick**: A creative way to control osu!cursor. Player hold and move the joystick around to move the osu!cursor and taps on the trigger/face buttons (depending on player's joystick design) or keyboard keys to register the beats. It is least preferred because the skill required to control the joystick movement and most don't own it unless they also play other games ([World of Warplanes](https://wikipedia.org/wiki/World_of_Warplanes) for example).
-- **Metal plate**: A special way to replace the keyboard for tapping beats. This method was introduced by ![](/wiki/shared/flag/US.gif "United States of America") [geckogates](https://osu.ppy.sh/users/geckogates) and requires some wiring and electronic knowledge to build. The player will attach a wire to the clicking fingers (connected to keyboard's circuit for `Z` and `X`) and will touch the metal plates to register beats.
+- **Laptop touchpad/trackpad**: While this method is possible, most players prefer not to use a trackpad because of the extreme difficulty involved. Specifically, players argue that controlling the cursor movement on the limited space of the laptop touchpad/trackpad is clunky, slow, and creates a lot of friction. The trackpad is used to navigate the in-game cursor.
+- **Joystick**: A creative way to control osu!cursor. This play style sees the player hold and move a joystick around to move the in-game cursor and—depending on player's joystick design—taps using the trigger/face buttons of the joystick, or with the keyboard keys to register the beats. It is widley-regarded as a sort of "challenge" play style due to the obvious drawbacks and sheer skill required to control the joystick movement.
+- **Metal plate**: This is a special way to replace the keyboard for tapping beats. The method was introduced by ![](/wiki/shared/flag/US.gif "United States of America") [geckogates](https://osu.ppy.sh/users/geckogates) and requires some wiring and electronic knowledge to build. The player will attach a wire to the clicking fingers (connected to keyboard's circuit for `Z` and `X`) and will touch the metal plates to register beats. 
+- **Console Controller:** Like the joystick, this method is one that is more considered to be a creative, and out-of-the-box way to play osu!. Depending on the brand of controller, this play style could see a player using a built-in trackpad, control/analog stick, or D-Pad to control the in-game cursor. Some players may find it more comfortable to use buttons already on the controller itself to tap beats, or through a regular keyboard.
 
 ## ![](/wiki/shared/mode/taiko.png) osu!taiko
 
