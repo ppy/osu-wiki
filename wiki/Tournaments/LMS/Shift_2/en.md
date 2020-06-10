@@ -91,6 +91,35 @@ The Taiko LMS: Shift Cup 2 was run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+- NoMod
+  - [Katagiri feat. Hanacco - Kahen reishiki zettai kyomei hakai kosen (HiroK) \[Resonance\]](https://osu.ppy.sh/beatmapsets/957806#taiko/2005234)
+  - [Sakuzyo - PANDORA PARADOXXX (Clerne) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/995146#taiko/2081623)
+  - [Rissyuu feat.Choko - Punai Punai Gensou \~Punai Punai in Wonderland\~ (KitajimaYN) \[7oni\]](https://osu.ppy.sh/beatmapsets/1048939#taiko/2196403)
+- Hidden
+  - [Lon x Chroma - Wakaranai (Raphalge) \[what\]](https://osu.ppy.sh/beatmapsets/878927#taiko/1838135)
+  - [tarolabo - Miko (Genjuro) \[Hell Oni\]](https://osu.ppy.sh/beatmapsets/1100379#taiko/2298926)
+  - [Terminal 11 - Sparkle Downer (Xay) \[Sparkle Doni\]](https://osu.ppy.sh/beatmapsets/1128293#taiko/2357293)
+- HardRock
+  - [Cyte - Command Prompt (Idealism) \[C:\Program Files\Difficulties\434f525255505445442046494c45.exe\]](https://osu.ppy.sh/beatmapsets/1068145#taiko/2236237)
+  - [The Flashbulb - Creep (Greenshell) \[Nyctophobia\]](https://osu.ppy.sh/beatmapsets/966087#taiko/2100987)
+  - [Igorrr - Cheval (yopohapan) \[Gallop\]](https://osu.ppy.sh/beatmapsets/656130#taiko/1390258)
+- DoubleTime
+  - [FAKE TYPE. - FAKE STYLE II (Nofool) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/832516#taiko/1744082)
+  - [LiSA - crossing field (gaston\_2199) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/679269#taiko/1436180)
+  - [RADWIMPS - Zen Zen Zense (movie ver.) (Skull Kid) \[Oni\]](https://osu.ppy.sh/beatmapsets/603944#taiko/1275904)
+- FreeMod
+  - [PerdoVanse - eu quero (HiroK) \[Sopa de Macaco\]](https://osu.ppy.sh/beatmapsets/801697#taiko/1682736)
+  - [S3RL - Addict (DJKurara Remix) (yea) \[Relapse Oni\]](https://osu.ppy.sh/beatmapsets/938609#taiko/1960721)
+  - [The Flashbulb - Amen Iraq (Volta) \[Fatal Oni\]](https://osu.ppy.sh/beatmapsets/966277#taiko/2022565)
+- Extra
+  - [katagiri - planet of the kemomimi loli (Backfire) \[Taikoclysm (ft. Legless)\]](https://osu.ppy.sh/beatmapsets/904052#taiko/1887234)
+  - [Hoshino Ongaku Koubou - pique (kei821) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1116673#taiko/2332764)
+  - [Rings of Saturn - Eviscerate (Xay) \[Oniscerate\]](https://osu.ppy.sh/beatmapsets/477477#taiko/1621260)
+- Tiebreaker
+  - **[Billain & Vorso - Transhumanist (Kamuy) \[fapu's synthesis\]](https://osu.ppy.sh/beatmapsets/1069426#taiko/2246635)**
+
 ### Quarterfinals
 
 **[Download the mappack here! (94 MB)](https://www.mediafire.com/file/xbnjhpi0h70yilv/mappool_ro8.rar/file)**
