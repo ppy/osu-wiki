@@ -156,6 +156,22 @@ The Taiko LMS: Shift Cup 2 is run by various community members.
 
 ## Match results
 
+### Finals
+
+Saturday, 23 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| null | 0 | **7** | **abibibubibui** | [#1](https://osu.ppy.sh/community/matches/62006826) |
+| ヴぇ | 6 | **7** | **Dancing Pallbearers** | [#1](https://osu.ppy.sh/community/matches/62005150) |
+| **Where is JDrago1-13?** | **7** | 5 | EuroGamers -Jaye | [#1](https://osu.ppy.sh/community/matches/62008973) |
+
+Sunday, 24 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Dancing Pallbearers | -1 | **0** | **abibibubibui** | *win by default* |
+
 ### Semifinals
 
 Saturday, 16 May 2020:
