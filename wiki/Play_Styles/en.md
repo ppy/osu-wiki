@@ -148,30 +148,27 @@ To trigger the *Dash!* effect, many players use one of the face buttons on their
 
 [External guide for Mechanical Keyboard](http://www.daskeyboard.com/blog/mechanical-keyboard-guide/)
 
-Keyboard was once the _only_ way to play osu!mania until other playing methods was supported over time.
+Keyboard was once the *only* way to play osu!mania until other play methods was supported over time.
 
-Players place their fingers on the keyboard keys with respect to the key-bindings and currently playing Keys setting.
-The advantage of this play-style is that it can accommodate basically all the Keys setting.
-
-The only catch-point is getting used to it and generic keyboard's ghosting effect/membrane keys.
+To play with a keyboard, players would press down the keys respective to their placement on the in-game keyboard. By default these keys are DFJK. The advantage of this play-style is that it can accommodate basically all the Keys setting.
 
 ### DJMAX/O2Jam/Beatmania IIDX/etc. arcade controller
 
-The play-style tuned for seasoned veterans at conveyor-type rhythm games.
+These types of arcade controllers are a play-style tuned for seasoned veterans at conveyor-type rhythm games.
 
-Since 8 Keys requires mapper's decision or Game Modifiers, most players owning these arcade controllers can handle up to 7Keys (max default) and 1 special.
+*Note: Since the use of 8 Keys requires the mapper's decision or the use of Game Modifiers, most players owning these arcade controllers can handle up to 7 Keys (max default) and 1 special.*
 
 ### Dance Pad
 
-Dance pads are controllers for games like the [Dance Dance Revolution](https://wikipedia.org/wiki/Dance_Dance_Revolution) series, and the [Pump It Up](https://en.wikipedia.org/wiki/Pump_It_Up_(video_game_series)) series. ([StepMania](https://wikipedia.org/wiki/StepMania) is a semi-well known community-driven clone of both of these games).
+Dance pads are controllers for games like the [Dance Dance Revolution](https://wikipedia.org/wiki/Dance_Dance_Revolution) (DDR) series, and the [Pump It Up](https://en.wikipedia.org/wiki/Pump_It_Up_(video_game_series)) (PIU) series. ([StepMania](https://wikipedia.org/wiki/StepMania) is a semi–well known, community-driven clone of both of these games).
 
-Players dance on the dance pad to input commands. DDR pads have 4 panels: Up, Down, Left, and Right. DDR Solo pads add Up-Left and Up-Right to that. PIU pads have 5 panels: Up-Left, Up-Right, Down-Left, Down-Right, and Center. 9 panel pads also exist, for compatibility with both PIU and DDR without having to change a pad. Normal DDR and PIU pads are often used in doubles mode in their respective games, where one player uses 2 pads for a song. DDR Solo games were all single-player, so they aren't commonly doubled.
+To play with a dance pad, players "dance" on the dance pad to input commands. DDR pads have 4 panels: Up, Down, Left, and Right. DDR Solo pads add Up-Left and Up-Right to that. PIU pads have 5 panels: Up-Left, Up-Right, Down-Left, Down-Right, and Center. Some 9 panel pads also exist for the purpose of compatibility with both PIU and DDR without having to change a pad. Normal DDR and PIU pads are often used in doubles mode in their respective games, where one player uses 2 pads for a song. DDR Solo games were all single-player, so they aren't commonly doubled.
 
 A major drawback with using a dance pad is that it can be hard to hit multiple keys at once. To hit 4 notes on a DDR pad, you would either have to use your hands along with your feet to hit them, or position your feet on 2 panels at once.
 
-Another drawback is that osu!mania maps may have been designed without dance game chart flow in mind, limiting the amount of charts you can (comfortably) dance to. Dance games are often charted with dancing chart flow. One big rule of the many rules of charting for a dance game like DDR is mostly being able to switch feet for every note (with some exceptions). Since some osu!mania maps don't really follow those rules, this can make it really awkward to play a lot of maps on a dance pad.
+Another drawback is that osu!mania maps may have been designed without dance game chart flow in mind, limiting the amount of charts you can (comfortably) dance to. Dance games are often charted with dancing chart flow. One big rule of charting for a dance game like DDR is mostly being able to switch feet for every note (with some exceptions). Since some osu!mania maps don't really follow those rules, which can make it really awkward to play a lot of maps on a dance pad.
 
 ### Other styles
 
-- **Guitar/Drum set**(5/6K): The default controller for guitar-themed([Guitar Hero](https://wikipedia.org/wiki/Guitar_Hero))/drum-themed([Drummania](https://wikipedia.org/wiki/Drum_Mania)) rhythm game. Players streams on their guitar/hit the drum or cymbals to input commands. Drum players have a disadvantage compared to guitar players because they can only input two commands at a time without a special kick pedal.
-- **Para Para controller**(5K): The default controller for [Para Para Paradise](https://wikipedia.org/wiki/Para_Para_Paradise) series. Players move their arms, elbows and hands straight above the proximity sensors to input commands based on hand position through the proximity sensors. The drawback is the sensitive input receiver and player's physical limitation.
+- **Guitar/Drum set**(5/6K): The default controller for the guitar-themed ([Guitar Hero](https://wikipedia.org/wiki/Guitar_Hero))/drum-themed([Drummania](https://wikipedia.org/wiki/Drum_Mania)) rhythm game. Players stream on their guitar/hit the drum or cymbals to input commands. Drum players have a disadvantage compared to guitar players because they can only input two commands at a time without a special kick pedal.
+- **Para Para controller**(5K): This is the default controller for [Para Para Paradise](https://wikipedia.org/wiki/Para_Para_Paradise) series. Players move their arms, elbows and hands straight above the proximity sensors to input commands based on hand position through the proximity sensors. The drawback is the sensitivy of the input receiver and the player's physical limitation.
