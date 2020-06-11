@@ -1,7 +1,6 @@
 ---
 needs_cleanup: false
 ---
-<!-- TODO: some of these descriptions are terrible and the whole thing needs a decent review. -->
 
 # Play styles
 
