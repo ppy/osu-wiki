@@ -1,7 +1,3 @@
----
-needs_cleanup: true
----
-
 <!-- TODO: same deal as FAQ. this should be split up into appropriate articles and only written as guides where necessary. right now this page is only useful for people linking directly to sections of it -->
 
 # Help centre
@@ -16,38 +12,38 @@ Having trouble with something? We're here to help! Check out some solutions to c
 
 **Depending on what payment service you used (Paypal or Xsolla), there may be a slight delay in the processing of your payment before it reaches us.**
 
-Usually, these issues resolve themselves within a few hours, and our systems will automatically apply your tag to your account.
+Usually these issues resolve themselves within a few hours, and our systems will automatically apply the tag to your account.
 
 If it has been over 24 hours and you still do not have your supporter tag, please email [support@ppy.sh](mailto:support@ppy.sh) and let us know about your problem.
 
-Make sure to include any receipts that you received during the process (paypal transaction IDs, Xsolla receipts, etc) - these help us a lot in tracking down what happened to your payment!
+Make sure to include any receipts that you received during the process (PayPal transaction IDs, Xsolla receipts, etc); these help us a great deal in tracking down what happened to your payment!
 
 ### Restriction
 
 #### What is "restricted" mode, exactly?
 
-**A person with a restricted account is temporarily or permanently prevented from interacting with the community in any meaningful way, including chatting, participating in multiplayer, and having their scores on leaderboards.**
+**A person with a restricted account is temporarily or permanently prevented from interacting with the community in any meaningful way. Including chatting, participating in multiplayer, and having their scores on leaderboards.**
 
 If your account has been restricted, you'll likely know why after a brief conversation with the support team.
 
-In situations where we are absolutely assured that foul play or wrongdoing has taken place, we will ask you to wait out a period of **three (3) months** from the date of your last offense before we consider an appeal from you to let you back into the game.
+In situations where we are absolutely assured that foul play or wrongdoing has taken place, we will ask you to wait out a period of **three months** from the date of your last offense before we consider an appeal from you to let you back into the game.
 
-Refer to *[Account Restrictions](/wiki/Help_Centre/Account_Restrictions)* for more information on account restrictions and the appeal process.
+Please refer to *[Account Restrictions](/wiki/Help_Centre/Account_Restrictions)* for more information on account restrictions and the appeal process.
 
 ### Sign-in
 
 #### I've forgotten my username and password!
 
-**Please use [the password recovery page](https://osu.ppy.sh/home/password-reset) to reclaim your account automatically, provided that you still have access to the email you registered with.**
+**Please use [the password recovery page](https://osu.ppy.sh/home/password-reset) to reclaim your account automatically, provided that you still have access to the email you originally registered with.**
 
 If this does not work for you (or you do not have access to your registration email), please send an email to our [support team](mailto:accounts@ppy.sh) with as much information as you can think of to help us acknowledge you as the owner of your account.
 
-Good information to include this email would be:
+Good information to include in this email would be…
 
-- The name of the email address that you registered the account on, or any other email the account has been associated with since
+- The name of the email address that you registered the account on (or any other email the account has been associated with since)
 - Any receipts for purchased osu!supporter tags or other items from the osu!store
 - The last date you can remember being able to access your account normally
-- Any other identifying information that you think could be helpful (excluding scores or replays, those do not help us very much!)
+- Any other identifying information that you think could be helpful (excluding scores or replays: those do not help us very much!)
 
 #### My account has been stolen!
 
@@ -55,29 +51,34 @@ Good information to include this email would be:
 
 If this succeeds, you will be able to reset your own password without the assistance of the support staff.
 
-If this does not work for you, please send us a support ticket immediately to [accounts@ppy.sh](mailto:accounts@ppy.sh) with as much identifying information as possible that will help us establish you as the owner of your account.
+If this does not work for you, please send us a support ticket as soon as possible to [accounts@ppy.sh](mailto:accounts@ppy.sh) with as much identifying information as you can gather in order to help us establish you as the owner of your account.
 
-Emailing from your registration address is a huge bonus here, as well as any other information you can provide that only the holder of the account would know.
+Emailing from your registration address is a huge bonus here, as well as any other information you can provide that only the holder of the account would know. Such as…
 
-Please do not include replay or score data in your ticket - we cannot use this to verify your ownership of the account.
+- The name of the email address that you registered the account on (or any other email the account has been associated with since)
+- Any receipts for purchased osu!supporter tags or other items from the osu!store
+- The last date you can remember being able to access your account normally
+- Any other identifying information that you think could be helpful
 
-#### The website is telling me that I have tried to sign in too many times!
+*Notice: Please do not include replay or score data in your ticket; we cannot use this to verify your ownership of the account.*
 
-**This is a temporary protection measure after repeated failures to access your account. Try signing in again after 10-20 minutes.**
+#### The website is telling me that I've tried to sign-in too many times!
 
-If this happens to you, simply wait for a while and try to sign in a little later.
+**This is a temporary protection measure after repeated failures to access your account.**
 
-A couple of hours at the absolute maximum will clear the status for most people and allow them to sign in again.
+If this happens to you, simply wait for awhile and try to sign-in after 10–20 minutes.
+
+A couple of hours at the absolute maximum will clear the status for most people and allow them to sign-in again.
 
 #### I didn't receive any emails from osu!/I forgot my email address!
 
-**There might be an issue with your account's current email address.**
+**Please keep in-mind that there might be an issue with your account's current email address.**
 
-If you remember your account's attached email address, or think you do, try visiting the Email section in [account settings](https://osu.ppy.sh/home/account/edit) page to change your email address. Fill out the necessary fields and click `Update` when you're done.
+If you remember your account's attached email address, try visiting the Email section in [account settings](https://osu.ppy.sh/home/account/edit) page to change your email address. Fill out the necessary fields and click `Update` when you're done.
 
-If you have lost your account's password and are not receiving any password recovery emails, or you really cannot remember what email address you were using, please contact us at [accounts@ppy.sh](mailto:accounts@ppy.sh). Any information you have about your account (your username, any screenshots that show you signed in to the client, past transactions through the store or supporter payments, etc.) will be helpful!
+If you have lost your account's password and are not receiving any password recovery emails, or you really cannot remember what email address you were using, please contact us at [accounts@ppy.sh](mailto:accounts@ppy.sh). Any information you have about your account (e.g., your username, any screenshots that show you signed-in to the client, past transactions through the store or supporter payments, etc.) will be helpful!
 
-Lastly, we are aware that some providers do not accept automated emails from us. If you are using any of these providers, please contact us by mail and we'll change your email address for you:
+Lastly, please keep in-mind that some providers do not accept automated emails from us. If you are using any of these providers, please contact us by physical mail and we'll change your email address for you:
 
 - `att.net`
 - `bellsouth.net`
@@ -93,57 +94,57 @@ Lastly, we are aware that some providers do not accept automated emails from us.
 
 **Yes, absolutely!**
 
-If you have purchased (or been gifted) a [supporter tag](https://osu.ppy.sh/home/support) at any point, you will be a able to change your name **once** for free. This name change can be redeemed at the [osu!store](https://osu.ppy.sh/store/products/32).
+If you have purchased (or been gifted) a [supporter tag](https://osu.ppy.sh/home/support) at any point, you will be a able to change your username **once** for free. This name change can be redeemed at the [osu!store](https://osu.ppy.sh/store/products/32).
 
-At any point thereafter, you may purchase a username change to change your name to whatever you wish. However, each change will become progressively more expensive - the second will cost $8 USD, the third $16 USD, and so on, up to a cap of $100 USD. We do this to prevent people from abusing the system to change their names in rapid succession.
+At any point thereafter, you may purchase a name change to change your username to whatever you wish. However, each change will become progressively more expensive: the second will cost $8 USD, the third $16 USD, and so on up to a cap of $100 USD. We do this to prevent people from abusing the system to change their names in rapid succession.
 
-If you are only after minor capitalization or grammar/spelling changes, you can email [accounts@ppy.sh](mailto:accounts@ppy.sh) to request a free name change to fix these issues. We will not charge you for these sorts of name changes, but you **MUST** do them through a support email. Keep in mind we will only perform this a limited number of times, so make sure you really want it!
+If you are only after minor capitalization or grammar/spelling changes, you can email [accounts@ppy.sh](mailto:accounts@ppy.sh) to request a free name change to fix these issues. We will not charge you for these sorts of name changes, but you **MUST** do them through a support email. Please keep in-mind that we will only perform this a limited number of times, so make sure you really want it!
 
 #### Can I take another player's username?
 
 **Yes, but only under certain circumstances.**
 
-If a player has not signed in for at least 6 months and has no plays, their username may be reclaimed via the [osu!store player name change page](https://osu.ppy.sh/store/products/32) for a standard fee associated with username changes.
+If a player has not signed-in for at least six months and has no plays, their username may be reclaimed via the [osu!store player name change page](https://osu.ppy.sh/store/products/32) for a standard fee associated with username changes.
 
-If that player does have any plays across all game modes, a [non-linear function](https://www.desmos.com/calculator/b89siyv9j8 "Desmos graph") is used to calculate how much extra time is added to those 6 months. This is to prevent people from stealing the usernames of active or recently retired players.
+If that player does have any plays across all game modes, a [non-linear function](https://www.desmos.com/calculator/b89siyv9j8 "Desmos graph") is used to calculate how much extra time is added to those six months. This is to prevent people from stealing the usernames of active or recently retired players.
 
 #### Is it possible to change my name back or revert to my old username?
 
 **Yes, but only under certain circumstances.**
 
-We grant free reverts for a user's direct previous username. Simply contact [accounts@ppy.sh](mailto:accounts@ppy.sh) and request your name-change reverted.
+We grant free reverts for a user's direct previous username. Simply contact [accounts@ppy.sh](mailto:accounts@ppy.sh) and request that your name change be reverted.
 
-Changes to any other previous names must be [purchased via the store](https://osu.ppy.sh/store/products/32).
+Changes to any other previous names must be [purchased via the osu!store](https://osu.ppy.sh/store/products/32).
 
 We only grant this one time per account, so please consider carefully before requesting!
 
 #### My username has been changed back/reverted!
 
-**We only force username reverts for usernames we deem inappropriate or abusive.**
+**We only force username reverts for usernames that we deem inappropriate and/or abusive.**
 
-If you find your recent namechange has been undone, it may be because the username you changed to was abusive, inappropriate, or considered offensive. We will not perform the change again even if requested, but if you purchased it on the store, we will offer a free change to replace it.
+If you find that your recent name change has been undone, it may be because the username you changed to was abusive, inappropriate, and/or considered offensive. We will not perform the change again, even if requested. But if you purchased it on the osu!store, we will offer a free name change to replace it. <!-- Does the player have to request this free name change replacement through an email? This line makes it unclear. -->
 
 If the change was done with the free change that comes with a supporter tag, we cannot offer to change it again.
 
-#### Can I remove my previous usernames/delete username history?
+#### Can I remove my previous usernames/delete my username history?
 
-**Under certain circumstances.**
+**Yes, but only under certain circumstances.**
 
-Your profile will show all your previous purchased namechanges, but we only selectively remove the ones that may be an issue for you. If one of your previous usernames breaches your privacy (for example, if it contains your legal name) or can lead to your privacy being breached (via other websites), contact [accounts@ppy.sh](mailto:accounts@ppy.sh) to request it removed.
+Your profile will show all your previous purchased name changes, but we only selectively remove the ones that may be an issue for you. If one of your previous usernames breaches your privacy (for example, if it contains your legal name) or can lead to your privacy being breached (via other websites), contact [accounts@ppy.sh](mailto:accounts@ppy.sh) to request that it be removed.
 
-### Other issues
+### Other Issues
 
-#### The flag on my account profile is wrong!
+#### The flag on my account's profile is wrong!
 
 **We can change this for you, but only if you are actively living in the country that you wish to change to.**
 
 We determine your country as shown on your profile page from the area in which you first registered your account from.
 
-If you create an account while on holiday in the United States, your account will show as belonging to the US - you'll even appear on the country rankings for the US too.
+For example, if you create an account while on holiday in the United States, your account will show as belonging to the US and will appear on the country rankings for the US too.
 
-The support team can happily change your account's country upon request, **but only if you are actively living within that country at the time.**
+The support team can and will happily change your account's country upon request, **but only if you are actively living within that country at the time.**
 
-To confirm this, the team will ask for proof of residency - be it the appropriate passport, drivers license for your country, or some other form of ID. This must be displayed in a picture next to your monitor with the osu! client open and signed in to your account.
+To confirm this, the team will ask for proof of residency; be it the appropriate passport, drivers license for your country, or some other form of ID. This must be displayed in a picture next to your monitor with the osu! client open and signed-in to your account.
 
 We will never display this information to anyone else, and we encourage you to blank out any personal information (that will not otherwise make it impossible for us to determine what country the document is for!) if you are concerned about your privacy.
 
@@ -153,9 +154,9 @@ We will never display this information to anyone else, and we encourage you to b
 
 If we were to allow everybody to make and play on multiple accounts, the ranked scoreboards would be nearly worthless!
 
-Other games encounter this issue a lot with what is commonly known as "smurfs" - accounts with low playtimes and totals that inflate the rankings and prevent other users from playing competitively.
+Other games encounter this issue a lot with what is commonly known as "smurfs," accounts with low playtimes and totals that inflate the rankings and prevent other users from playing competitively.
 
-In osu!, we are very much against users having multiple accounts, and we enforce a strict rule of only one account per person, ever.
+In osu!, we are very much against users having multiple accounts, and we enforce a strict rule of only **one account per person, ever.**
 
 You get to play on the first account you ever registered with us, and that's it!
 
@@ -165,25 +166,25 @@ You get to play on the first account you ever registered with us, and that's it!
 
 We are considering extra 'score reset' purchases from the osu!store for the truly hardcore players who wish nothing but perfection in their stats, but as it currently stands, we cannot wipe an account's statistics for you.
 
-This doesn't mean you can make a new account to do the same thing, either! Having multiple accounts is strongly frowned upon in our community and we will disable any such accounts that are brought to our attention.
+This does not mean that you can make a new account to do the same thing, either! Having multiple accounts is strongly frowned upon (and against the rules) in our community and we will disable any such accounts that are brought to our attention.
 
 #### Can I play on a computer that another osu! user has used before?
 
-**Yes, absolutely. This includes shared PCs like netcafes or PC bangs.**
+**Yes, absolutely. This includes shared PCs like netcafes or PC bangs. Just so long as…**
 
-So long as you are playing on only your own account, you can play osu! anywhere.
+Just so long as you are playing on only your own account; you can play osu! anywhere, you just have to sign-in
 
-If you are playing from a public place, make sure to keep a close eye on your account security. Shared computers are often prime targets for malicious software.
+If you are playing from a public place, make sure to keep a close eye on your account security; shared computers are often prime targets for malicious software.
 
-#### Can I get a list of all maps I've played or downloaded?
+#### Can I get a list of all the maps I've ever played or downloaded?
 
-**You can see all maps you've played on the website.**
+**You can see all the maps you've played on the website.**
 
-**If you have an active supporter tag**, you can see all maps you have submitted a score on by going in the Beatmap section, then clicking the "Ranked (played)" filter. Alternatively, you can use [this link](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) to access the filtered page directly.
+**If you have an active supporter tag**, you can see all maps you have submitted a score on by going to the Beatmap section, then clicking the "Ranked (played)" filter. Alternatively, you can use [this link](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) to access the filtered page directly.
 
 On the new website, this filter can be found by clicking "more search options" on the [beatmap list page](https://osu.ppy.sh/beatmapsets) then "Played" in the "PLAYED" section. Alternatively, you can use [this link](https://osu.ppy.sh/beatmapsets?played=played) to access the filtered page directly.
 
-Unfortunately, we do not keep track of all maps a user has downloaded, so it is impossible to get a list of them. The closest you could be to it would be using the aforementioned filter to recover at least the maps you've played before.
+Unfortunately, we do not keep track of all maps a user has downloaded, so it is impossible to get a definitive list of them. The closest you could get to it would be using the aforementioned filter to recover at least the maps you've played before.
 
 ---
 
@@ -193,13 +194,13 @@ Unfortunately, we do not keep track of all maps a user has downloaded, so it is 
 
 #### osu! freezes when I click a link or multiplayer map!
 
-**Make sure you are not running osu! in Windows compatibility mode, and that you also have a default web browser defined in your system settings.**
+**Please make sure you are not running osu! in Windows compatibility mode, and that you also have a default web browser defined in your system settings.**
 
 This issue is sometimes caused by an interaction with compatibility mode, and can also be caused by the game simply not finding a default browser to open the web page link with.
 
 ##### Is your game running under Windows compatibility mode?
 
-To check or change if your game is running in compatibility mode under Windows, try the following steps:
+To check or change if osu! is running in compatibility mode under Windows, try the following steps:
 
 1. Open your osu! installation folder and look for `osu!.exe`.
 2. Right click on `osu!.exe` and select `Properties` from the dropdown menu.
@@ -212,26 +213,26 @@ To check or change if your game is running in compatibility mode under Windows, 
 
 **Under the vast majority of all circumstances, most Windows installations will have a default web browser set.**
 
-To check, try the following steps (under Windows 8 and above):
+To check, try the following steps (under Windows 8 and above): <!-- I assume "under Windows 8 and above" means anything except for Windows 8, but it's a very weird way to phrase it. -->
 
 1. Open the Start menu.
 2. Type `default` into the search bar within the Start menu.
 3. If you see a menu entry titled `Default app settings`, click it. If you do not, expand your search to include `default app settings`.
 4. Scroll down to the `Web browser` heading and check to make sure that a browser which you have installed is properly set.
 
-##### My game will not update properly!
+#### My game will not update properly!
 
 **This is usually due to issues with your PC, but can very rarely be caused by new updates.**
 
 osu! generally keeps itself up-to-date without any help, but sometimes things can go wrong.
 
-We recommend restarting your PC as the first option. This will fix more issues than you expect it to as far as computers are concerned, and osu! is no different.
+We recommend restarting your PC as the first option: this will fix more issues than you expect it to as far as computers are concerned, and osu! is no different.
 
-Ensure your release stream is set to stable in the game options.
+If restarting your game does not work, please ensure your release stream is set to stable in the game options before proceeding with any troubleshooting.
 
-You can also try forcing the game to update.
+You can also try forcing the game to update as explained below.
 
-##### How do I check or set my game's release stream?
+##### How do I check or set my game's release stream? <!-- This header (and the one below it should be using 6 #s instead of 5, but the bolded text under them is larger than the actual header -->
 
 **This can be changed via the in-game options menu.**
 
@@ -253,46 +254,46 @@ You can also force the game to update by creating a `help.txt` file in osu!'s in
 
 #### I get an error about "font styles" when I try to open the game!
 
-**You have deleted or lost important system fonts that are bundled with the base Windows installation. This probably isn't the only issue you are noticing!**
+**You may have deleted or lost important system fonts that are bundled with the base Windows installation. This probably isn't the only issue you are noticing!**
 
 If you see this error when you try to open osu! or its updater, it means you deleted or otherwise lost important system fonts that ship with Windows. These fonts are used all over the Windows OS, so you can expect other assorted problems, such as wrong fonts, missing text, and other app crashes throughout Windows.
 
-Here is a collection of common fonts used in different versions of Windows and across the web which should help:
+Some common fonts use in different versions of Windows are…
 
 - [Microsoft core web fonts](https://web.archive.org/web/20020124085641/http://www.microsoft.com/typography/fontpack/default.htm) (especially Arial, Times New Roman, Trebuchet MS, and Verdana)
 - [Tahoma](https://freefontsfamily.com/tahoma-font-free)
 - [Windows Live Essentials](https://support.microsoft.com/en-us/help/2434419/windows-live-essentials-2011) (Segoe UI)
 - [Microsoft JhengHei](https://microsoft.com/en-us/download/details.aspx?&id=12072) (微軟正黑體) (Traditional Chinese UI font)
 
-See [this topic](https://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a) in Microsoft Answers for some more detailed advice, and other options on getting them back.
+See [this topic](https://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a) in Microsoft Answers for some more detailed advice and other options on getting lost fonts back.
 
 #### Some of my beatmaps are missing!
 
-**Make sure you are not searching for beatmaps within a certain criteria (such as star rating, approach rate, so on).**
+**Make sure you are not searching for beatmaps within a certain criteria (e.g. star rating, approach rate, etc.).**
 
 If you've just downloaded a map, you may want to try refreshing your beatmap list by pressing `F5` at the song selection screen.
 
 ### Gameplay
 
-#### My combo counter, score display or accuracy display is missing!
+#### My combo counter, score display, or accuracy display is missing!
 
-**Pressing `Shift` + `Tab` by default will toggle the in-game HUD and allow you to see these elements again.**
+**Pressing `Shift` + `Tab` by default will toggle the in-game HUD (Heads-up display) and allow you to see these elements again.**
 
-If you have changed the keybinding that toggles the scoreboard, this will not work. You can check which key it is set to in `Options` -> `Change keyboard bindings` -> `In-Game` -> `Toggle Scoreboard`.
+*Notice: If you have changed the keybinding that toggles the scoreboard, this will not work. You can check which key it is set to in `Options` -> `Change keyboard bindings` -> `In-Game` -> `Toggle Scoreboard`.*
 
 #### My local scores are missing!
 
 There's a few reasons why this can happen. Read on below!
 
-##### Have you recently reinstalled the game client?
+##### Have you recently reinstalled the osu! game client?
 
 **Reinstalling the game client will automatically clear all of your local scores.**
 
-These are unfortunately, gone.
+These are unfortunately, permanently gone.
 
-The scores you have submitted online are still there, however - simply redownload any song that you have played before, and your score will reappear.
+The scores you have submitted online are still there, however. But you will not be able to see your local scores on the game client after reinstalling.
 
-Handy tip - if you are an osu!supporter, you can use the `Ranked (Played)` filter in the osu!direct panel in game or via [the beatmap listing page](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) to find any maps that you have set scores on in the past.
+Handy tip - if you are an osu!supporter, you can use the `Ranked (Played)` filter in the osu!direct panel in-game or via [the beatmap listing page](https://osu.ppy.sh/p/beatmaplist?m=-1&r=7&g=0&la=0&ra=) to find any maps that you have set scores on in the past.
 
 ##### Are you set to the correct game mode?
 
@@ -306,19 +307,21 @@ You can change the game mode by clicking the `Mode` button at the bottom left of
 
 **Unfortunately, scores set while playing offline cannot be added to the online rankings.**
 
-If you are playing online and suffer a brief disconnection for whatever reason, your game will automatically try to send the scores itself for as long as you keep the client open.
+If you are playing online and suffer a brief disconnection for whatever reason, your game will automatically try to send the scores itself for as long as you keep the client open, but there is no guarantee this will succeed (especially not if you closed osu! before it could connect to the server).
 
-##### Have you recently downloaded a large number of maps? (ie: a beatmap pack or bundle)
+##### Have you recently downloaded a large number of maps (e.g. a beatmap pack or bundle)?
 
-**Scores can sometimes take a little while to download from the game servers if you've loaded lots of new maps at once.**
+**Scores can sometimes take a little while to download from the game servers if you've loaded a lot of new maps at once.**
 
 Playing the game or doing something else will let the client catch up in the background.
 
 #### What is this white trail or smoke-like line behind my cursor?
 
-**This is a special feature called *smoke* and can be used to doodle on your playfield for fun. Anyone who is spectating you can see the things you draw as well.**
+**This is a special feature called *smoke* and can be used to doodle on your playfield for fun.**
 
 The default keybinding for this feature is `C`, and it will work for as long as you hold the button down. You can rebind it at any time in the `osu! Standard Mode` section of the `Change keyboard bindings` options dialog.
+
+Anyone who is spectating you can see the things you draw as well.
 
 #### How do I save my own replay of a score I just made?
 
@@ -326,9 +329,9 @@ The default keybinding for this feature is `C`, and it will work for as long as 
 
 This will save your shiny new score as a `.osr` file in the /Replays/ folder within the default osu! installation directory.
 
-osu! also automatically saves all replays after you complete a song under the `/Data/r/` folder, also contained within the osu! installation directory.
+osu! also automatically saves all replays after you complete a song under the `/Data/r/` folder also contained within the osu! installation directory.
 
-Please note that if no replay was saved for the score you will not be able to retrieve a replay by doing this.
+Please note that if no replay was saved for the score, you will not be able to retrieve a replay by doing this.
 
 #### osu! is telling me that my game client is too old!
 
@@ -338,7 +341,7 @@ If this doesn't work, you can close osu! and restart the osu.exe while holding d
 
 #### My scores aren't submitting!
 
-Oops! There's a few reasons why this can happen. Let's go through them:
+Oops! There's a few reasons why this can happen. Let's go through them!
 
 ##### Were you connected to the Internet while playing?
 
@@ -348,7 +351,7 @@ This can be frustrating if you play on an unstable connection, though the game w
 
 ##### Is osu! allowed in your local firewall or anti-virus suite?
 
-**Some firewalls or anti-virus suites can block osu! from accessing the internet, which will prevent it from sending scores.**
+**Some firewalls or anti-virus suites can block osu! from accessing the Internet, which will prevent it from sending scores.**
 
 Check your software of choice to make sure that `osu!.exe` in the directory you installed the game in is allowed to access the internet.
 
@@ -356,13 +359,13 @@ Check your software of choice to make sure that `osu!.exe` in the directory you 
 
 **Some can interfere with your ability to submit scores.**
 
-Try closing any extra programs before playing osu! if you find that your scores aren't submitting and you are not having issues with connectivity otherwise.
+Try closing any extra programs before playing osu! if you find that your scores aren't submitting and that you are not having issues with connectivity otherwise.
 
 ##### Are the score submission servers up?
 
 **The answer is almost always yes, but check the [osu! server status](https://status.ppy.sh) or the [@osustatus Twitter](https://twitter.com/osustatus) to make sure everything is running smoothly on our end.**
 
-If the servers are offline, do not close osu! until we've fixed the issues and the servers come back up, and the game will try to submit your score again for up to an hour before it gives up.
+If the servers are offline, do not close osu! until we've fixed the issues and the servers come back up; the game will try to submit your score again for up to an hour before it gives up.
 
 ##### Can you upload a score I set for me?
 
@@ -374,41 +377,47 @@ If you were denied a score due to technical reasons or whatever else, the best y
 
 **This can be due to sound processing software running on your machine, such as *Razer Surround Audio*. It could also be due to your `Universal Offset` being set incorrectly.**
 
+*Notice: the use of bluetooth audio devices tend to increase audio latency, which could be causing your audio to lag behind.*
+
 Try closing any extra programs which alter or influence the sound coming out of your computer. If this doesn't help, you could try to adjust your `Universal Offset`.
 
 Every individual hardware configuration has a particular `Universal Offset` that determines whether you hear the game's audio a little later or earlier.
 
-The default values work for most people, but if you find it isn't for you, you can change it by following these steps:
+The default values work for most people, but if you find it isn't for you, you can change it by following three simple steps:
 
-- Go to the `Options` menu, and find the `Universal offset` slider under the `Offset Adjustment` header. The default value is 0, and you should only change it if needed.
-- If the default value (0) isn't working for you, try using the `Offset wizard` button to walk you through setting a new one.
-- If this still doesn't help, you may want to try updating your sound card or motherboard audio drivers.
+1. Go to the `Options` menu and find the `Universal offset` slider under the `Offset Adjustment` header. The default value is 0; you should only change it if needed.
+2. If the default value (0) isn't working for you, try using the `Offset wizard` button to walk you through setting a new one.
+3. If this still doesn't help, you may want to try updating your sound card or motherboard audio drivers.\
+
+*Notice: you should make sure you are using headphones/earbuds as opposed to speakers when using the `Offset wizard` to get the best experience possible.*
 
 #### I'm experiencing lag spikes or stuttering during play!
 
-**There's many reasons why the game may perform inconsistently, from programs on your computer, to out-of-date drivers, or simply having some settings too high.**
+**There are many reasons why osu! may be performing inconsistently. From programs on your computer, to out-of-date drivers, simply having some settings too high could cause performance drops.**
 
-##### Do you have lots of programs open at the same time while playing osu!?
+##### Do you have a lot of programs open at the same time while playing osu!?
 
 **Some background processes can fight with osu! for resources and make the game very unpleasant to play.**
 
-Try closing some programs that you do not need open while playing the game.
+Try closing some programs that you do not need open while playing the game. You can check which programs are using up the most resources on your computer by pressing `Ctrl` + `Shift` + `Esc` to open the Task Manager.
+
+You can also try checking to see how much priority your computer is giving to osu!. To check or change this, open the Task Manager -> right click on osu! -> click `Go to details` -> right click on the highlighted program (this should be called `osu!.exe`) -> click on `Set priority` -> and if you want more resources to be sent to osu!, click on one of the six options shown in the sidebar. `Realtime` is not reccommended, and your computer may not even allow you to select this setting.
 
 ##### Is your computer secure?
 
 **Viruses, spyware, malware or other unwanted software can cause serious performance problems for even high-end computers.**
 
-Keep your computer clean and safe and you might notice an improvement.
+Please be sure to keep your computer clean and safe and you might notice an improvement.
 
 ##### How old is your computer?
 
 **Very old computers that use even older Intel Integrated graphics chipsets may not be powerful to handle osu! at all, even on the lowest settings.**
 
-The only way to deal with this one is to upgrade your computer!
+The only way to deal with this one is to upgrade your computer and/or graphics card!
 
-##### Are your drivers up to date?
+##### Are your drivers up-to-date?
 
-**Old drivers can cause serious performance issues. Make sure you keep all of your drivers up to date for everything wherever possible.**
+**Old drivers can cause serious performance issues. Make sure you keep all of your drivers up-to-date for everything, wherever possible.**
 
 Graphics card drivers are particularly important for osu!, as well as sound card drivers.
 
@@ -426,15 +435,15 @@ An easy solution to this is to try unplugging your USB hub briefly. If your lag 
 
 **Sometimes background processes or other applications on your computer can send big requests for resources all at once, which will make your machine struggle.**
 
-This usually clears up after closing everything non-essential before playing osu!. Torrenting software is a big culprit for this, especially if it shares space with the drive that osu! is installed on.
+This usually clears up after closing everything non-essential before playing osu!. Torrenting software is a big culprit for this—especially if it shares space with the drive that osu! is installed on.
 
 ##### Has the game recently updated?
 
-**Sometimes after a game update, the client may struggle for seemingly no reason.**
+**Sometimes, after a game update, the client may struggle for seemingly no reason.**
 
-If you have a lot of beatmaps, please wait at least 10-15 minutes before blaming the lag on the update. The osu! client may be reprocessing your maps to calculate their difficulty.
+If you have a lot of beatmaps, please wait at least 10–15 minutes before blaming the lag on the update. The osu! client may be reprocessing your maps to calculate their difficulty.
 
-If it doesn't resolve, a reboot can sometimes help.
+If it does not resolve, a reboot can sometimes help.
 
 #### My game looks glitchy, like the graphics are torn!
 
@@ -444,37 +453,37 @@ This is a completely harmless (albeit ugly!) effect that happens because the gam
 
 You can also try playing in Windowed or Borderless mode, which will use your operating system's native VSync instead.
 
-Turning on VSync or playing in Windowed or Borderless mode will introduce a *slight* amount of input lag, unfortunately. For most people, this will not cause significant issue.
+Turning on VSync or playing in Windowed or Borderless mode will introduce a *considerable* amount of input lag, unfortunately. For most people, this will not cause significant issue though.
 
 Later NVidia graphics cards have a global option in the NVidia Control Panel to set the global refresh rate to a setting called 'Fast', which will also fix this issue.
 
 #### I received a server-side error when trying to play online!
 
-**The servers could be having issues.**
+**Please keep in-mind that the servers could be having issues.**
 
 Check the [osu! server status page](https://status.ppy.sh/) to see if there are any ongoing issues with the servers.
 
 **This can also happen if you are using a shared internet connection, a proxy, or VPN.**
 
-Try using another proxy or VPN provider - if all else fails, send in a support ticket via mail to [accounts@ppy.sh](mailto:accounts@ppy.sh).
+Try using another proxy or VPN provider. But if all else fails, send in a support ticket via email to [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
 If you are not using any of the above, then you will need to send in a support ticket, as your connection has likely been blacklisted in error.
 
-Tor or networks associated with the Tor relay will not connect to the game servers for the most part. This is to avoid malicious use.
+Tor (The Onion Router) or networks associated with the Tor relay will not connect to the game servers for the most part. We do this to avoid malicious use, as these types of networks are typically associated with ill-intented purposes.
 
-### Online features
+### Online Features
 
-#### I can't sign in or connect to the game at all!
+#### I can't sign-in or connect to osu! at all!
 
-**Ensure that osu! can properly access the internet through any firewall or anti-virus suites you have installed on your computer.**
+**Ensure that osu! can properly access the Internet through any firewall or anti-virus suites you have installed on your computer.**
 
-Here are a few ways of allowing applications to have internet access through several common anti-virus suites:
+Read-on to learn about a few ways of allowing applications to have Internet access through several common anti-virus suites!
 
 ##### Allowing a program through Windows Firewall
 
 **On most Windows installations, Windows Firewall will be the default firewall software.**
 
-To make sure osu! can access the internet, we will need to allow it to communicate through Windows Firewall. Here's how to check and add osu! to the program's list:
+To make sure osu! can access the Internet, we will need to allow it to communicate through Windows Firewall. You can check and add osu! to the program list in just seven steps:
 
 1. Open the Start menu.
 2. Type `allow an app` into the search bar within the Start menu.
