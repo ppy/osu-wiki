@@ -2,7 +2,6 @@
 needs_cleanup: true
 ---
 <!-- TODO: some of these descriptions are terrible and the whole thing needs a decent review. -->
-
 # Play styles
 
 This page will detail the various ways in which players can choose to play in their respective game modes.
