@@ -1,5 +1,3 @@
-<!-- TODO: read over this and get in a state where it won't have to be updated again. needs a better location -->
-
 # ppv1
 
 The first performance score (abbreviated as **ppv1**) is an ancient ranking system for players globally across all modes from osu!. It replaced the old system of *ranking by total score* and was abandoned due to the implementation of [ppv2](..).
