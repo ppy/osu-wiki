@@ -639,6 +639,14 @@ The total duration of a beatmap. This includes the lead-in time and the break ti
 
 The main ranking metric of the game.
 
+### puush
+
+A screen capturing and file uploading application developed by peppy. puush is a successor of sorts to upppy which is commonly used to upload and share images in osu!
+
+puush stopped accepting new registrations since 2018.
+
+For more information about puush, see [puush / home](https://puush.me).
+
 ## Q
 
 ### QAT
