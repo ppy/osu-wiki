@@ -1,4 +1,4 @@
-<!-- TODO: tons of things to add here. might be related to Projects articl -->
+<!-- TODO: tons of things to add here. might be related to Projects article -->
 
 # How you can help!
 
