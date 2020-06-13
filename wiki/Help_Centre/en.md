@@ -847,31 +847,31 @@ Removing this residue may restore your LED to working condition. If it does, you
 
 #### My osu!tablet has stopped working/does not work at all!
 
-**This can be tricky to troubleshoot since the osu!tablet is a two-unit solution (the tablet and the pen).**
+**This can be tricky to troubleshoot since the osu!tablet is a two-unit system (the tablet and the pen).**
 
-Given that the osu!tablet is a two-unit solution (e.g. tablet and pen), it can be difficult to tell which unit is experiencing issues when things go wrong.
+Given that the osu!tablet is a two-unit system, it can be difficult to tell which unit is experiencing issues when things go wrong.
 
-To find out, perform the following steps:
+To find out, you can perform a variety of steps:
 
 ##### Checking for issues with your tablet device
 
-**Follow these steps to check to see if your tablet device is functioning normally:**
+**Follow these steps to check to see if your tablet device is functioning normally.**
 
-1. Safely remove the tablet device from your system, and unplug the cable.
+1. Safely remove the tablet device from your system and unplug the cable.
 2. Gently plug the cable back into a USB slot on your system.
 3. If the tablet is functioning, the light slot on the face of the tablet will flash green momentarily then fall dark. This is normal behaviour.
 
-If the tablet's light does not flash, try using a different USB cable - the ones included with the tablet can sometimes be damaged during transit or after extensive use.
+If the tablet's light does not flash, try using a different USB cable: the ones included with the tablet can sometimes be damaged during transit or after extensive use.
 
 Please contact [store@ppy.sh](mailto:store@ppy.sh) for further inquiries.
 
 ##### Checking for issues with your pen device
 
-**Follow these steps to check to see if your pen device is functioning normally:**
+**Follow these steps to check to see if your pen device is functioning normally.**
 
 - Unscrew the grip from the body of the pen, exposing the battery on the inside.
 - Remove the AAA battery from the pen.
-- Replace the battery with a brand new AAA battery. **Verify that the new battery functions in another device first.**
+- Replace the battery with a brand new AAA battery. **Make sure to verify that the new battery functions in another device first.**
 - Ensure that the battery's positive and negative ends are appropriate in the pen. There are markers on the device that display marks telling you which end goes where.
 - Screw the grip back onto the pen.
 - Depress the button on the back end (eraser end) of the pen until it clicks.
@@ -888,15 +888,15 @@ Please contact [store@ppy.sh](mailto:store@ppy.sh) for further inquiries.
 
 Despite how complex this may sound, it's actually very easy to fix.
 
-First off, [download the package containing the osu!go default files](https://assets.ppy.sh/store/utilities/osu!go.zip) and save it somewhere on your computer.
+First off, [download](https://assets.ppy.sh/store/utilities/osu!go.zip) the package containing the osu!go default files and save it somewhere on your computer.
 
 ##### Formatting the osu!go under Windows
 
-**Follow these steps to prepare your *osu!go* device under Windows:**
+**Follow these steps to prepare your *osu!go* device under Windows.**
 
 1. Open the `Start` menu.
 2. Type `disk management` into the search bar. This will bring up the `Create and manage hard disk partitions` section of the Control Panel.
-3. **While in the Disk Management view, make sure to follow these instructions *VERY* closely and ONLY apply them to the osu!go device.** You can potentially lose data if you fiddle around in this dialog.
+3. **While in the Disk Management view, make sure to follow these instructions *VERY* closely and ONLY apply them to the osu!go device.** You can potentially lose data if you fiddle around in this dialog. <!-- what instructions? -->
 4. Check to see what state your computer recognizes the device as being in.
 
 #### The osu!go device is present, but in a "RAW" state
@@ -927,7 +927,7 @@ If you encounter any issues with this process, please send an email to [store@pp
 
 ## Troubleshooting
 
-### Common issues
+### Common Issues
 
 #### What are 'log files' and how do I make them?
 
@@ -935,10 +935,10 @@ If you encounter any issues with this process, please send an email to [store@pp
 
 These files are extremely handy to have and can make solving even very complicated issues trivial.
 
-If a support team member has asked you for these logs, here's how to get them:
+If a support team member has asked you for these logs, you can learn how to get them below:
 
 1. Open *osu*.
-2. Go to the `Options` menu by clicking the button on the main menu, or hitting `CTRL+O`.
+2. Go to the `Options` menu by clicking the button on the main menu, or hitting `Ctrl` + `O`.
 3. Type `release` into the quick-search bar. This will take you to the current release stream your client is using.
 4. Make sure it is set to either `Beta` or `Cutting Edge (Experimental)`. We recommend `Beta` for the best chance of stability in this situation.
 5. Restart the game client if you made any changes to the release stream to apply them.
@@ -950,7 +950,7 @@ If a support team member has asked you for these logs, here's how to get them:
 
 **This typically happens when there are networking issues between you and our servers.**
 
-There's a few things we can try to resolve this issue.
+There are a few things we can try in order to resolve this issue.
 
 ##### Have you entered your password correctly?
 
