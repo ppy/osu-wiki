@@ -21,7 +21,7 @@ Based on *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "W
 
 *Main page: [osu!catch](osu!catch)*
 
-Based on the EZ2CATCH mode from the *[EZ2DJ series](https://ja.wikipedia.org/wiki/Ez2Dj/EZ2AC "Wikipedia")*. Collect falling fruits by moving the catcher with a plate. Keep dancing and do not miss the step of the beat!
+Loosely based on a similar minigame inside certain beatmania simulators. The EZ2CATCH mode from the *[EZ2DJ series](https://ja.wikipedia.org/wiki/Ez2Dj/EZ2AC "Wikipedia")* is suspected to be the first of its kind. Collect falling fruits by moving the catcher with a plate. Keep dancing and do not miss the step of the beat!
 
 ## ![](/wiki/shared/mode/mania.png) osu!mania
 
