@@ -353,7 +353,7 @@ This can be frustrating if you play on an unstable connection, though the game w
 
 **Some firewalls or anti-virus suites can block osu! from accessing the Internet, which will prevent it from sending scores.**
 
-Check your software of choice to make sure that `osu!.exe` in the directory you installed the game in is allowed to access the internet.
+Check your software of choice to make sure that `osu!.exe` in the directory you installed the game in is allowed to access the Internet.
 
 ##### Are you running lots of programs in the background?
 
@@ -463,7 +463,7 @@ Later NVidia graphics cards have a global option in the NVidia Control Panel to 
 
 Check the [osu! server status page](https://status.ppy.sh/) to see if there are any ongoing issues with the servers.
 
-**This can also happen if you are using a shared internet connection, a proxy, or VPN.**
+**This can also happen if you are using a shared Internet connection, a proxy, or VPN.**
 
 Try using another proxy or VPN provider. But if all else fails, send in a support ticket via email to [accounts@ppy.sh](mailto:accounts@ppy.sh).
 
@@ -522,7 +522,7 @@ You can perform a trace route by opening the Command Prompt and running the comm
 
 To open the Command Prompt, press and hold the `Windows` key and press `R`, then type `cmd` and click `OK`. For more information, see this [Windows knowledgebase article.](https://support.microsoft.com/en-us/kb/314868).
 
-You can then type the trace route command into the console. For example, the command `tracert cho.ppy.sh` will track how your computer connects to the game server over the Internet. Please keep in-mind that tracing routes takes a little bit of time; sometimes upwards of a minute or more depending on your connection.
+You can then type the trace route command into the console. For example, the command `tracert cho.ppy.sh` will track how your computer connects to the game server over the Internet. Please keep in-mind that tracing routes takes a little bit of time, sometimes upwards of a minute or more depending on your connection.
 
 We will need the results from a trace route command for the servers `cho.ppy.sh`, `osu.ppy,sh` and `m1.ppy.sh`.
 
@@ -635,7 +635,7 @@ On most Wacom tablets, this is done via the `Mapping` tab of the `Wacom Tablet P
 
 You will need to consult your tablet's manufacturer to find out how to set your tablet area for your particular peripheral.
 
-All osu! branded tablets support raw input by default, and may have their sensitivity easily adjusted on the fly by using the raw input option in game and using the mouse sensitivity slider.
+All osu! branded tablets support raw input by default, and may have their sensitivity easily adjusted on the fly by using the raw input option in-game and using the mouse sensitivity slider.
 
 #### My song list keeps scrolling!
 
