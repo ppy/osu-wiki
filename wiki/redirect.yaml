@@ -1618,3 +1618,7 @@
 
 # Shortcut for NAT meetings
 "nat_meetings": "Modding/NAT_meetings"
+
+# Moved oMWC to oBWC for consistency
+"contests/omwc": "Contests/oBWC"
+"contests/omwc/1": "Contests/oBWC/1"
