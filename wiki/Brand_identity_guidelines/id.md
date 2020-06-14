@@ -1,7 +1,5 @@
 # Pedoman identitas visual
 
-The brand identity guidelines is a set of standards for branding osu!-related projects. All use does not require approval.
-
 Pedoman identitas visual merupakan sejumlah standar yang ditetapkan untuk penggunaan perihal proyek - proyek yang berkaitan dengan osu!. Semua penggunaan tidak memerlukan persetujuan terlebih dahulu.
 
 [Perangkat desain bisa diunduh melalui tautan berikut.](https://drive.google.com/file/d/1TmUot5nu49p71icz4u3G68njLAQOeQrG/view?usp=sharing) Perangkat desain yang ditautkan mengandung beberapa aset yang sudah kedaluwarsa. Catatan tambahan PDF yang disertai juga sudah kedaluwarsa dan mohon gunakan laman ini sebagai referensi utama.
@@ -54,7 +52,6 @@ Sejak osu! digerakkan oleh komunitas, logo osu! cookie dirancang agar tampak sed
 - **Jangan** mengubah ukuran elemen cookie secara individual.
 - **Jangan** memodifikasi elemen cookie.
 - **Jangan** mengatur ulang salah satu elemen cookie.
-- The cookie must be tact sharp at all times. If it is part of an artwork, please place another sharp logo somewhere in the artwork.
 - Cookie harus tajam setiap saat. Jika sesuatu yang kamu buat merupakan bagian dari *artwork*, silakan letakkan logo tajam lain dalam *artwork* tersebut.
 - **Jangan** menambahkan efek mewah atau norak pada cookie.
 - **Jangan** menambahkan elemen tambahan di dalam cookie.
