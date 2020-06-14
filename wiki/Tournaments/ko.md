@@ -65,7 +65,7 @@ osu! 월드컵은 스탠다드 모드로 진행되며 국가별 4명의 선수�
 | [osu!mania 4K World Cup 2016](/wiki/Tournaments/MWC/2016_4K) | 2016-06-28 | 2016-09-11 | 4키 | ![][flag_KR] 대한민국 | ![][flag_BR] 브라질 | ![][flag_US] 미국 |
 | [osu!mania 7K World Cup 2017](/wiki/Tournaments/MWC/2017_7K) | 2016-12-12 | 2017-02-12 | 7키 | ![][flag_KR] 대한민국 | ![][flag_CN] 중국 | ![][flag_ID] 인도네시아 |
 | [osu!mania 4K World Cup 2017](/wiki/Tournaments/MWC/2017_4K) | 2017-07-10 | 2017-09-17 | 4키 | ![][flag_KR] 대한민국 | ![][flag_US] 미국 | ![][flag_BR] 브라질 |
-| [osu!mania 7K World Cup 2018](/wiki/Tournaments/MWC/2018_7K) | 2018-02-10 | 2018-03-18 | 7키 | ![][flag_KR] 대한민국 | ![][flag_MY] 말레이시아| | ![][flag_CN] 중국 |
+| [osu!mania 7K World Cup 2018](/wiki/Tournaments/MWC/2018_7K) | 2018-02-10 | 2018-03-18 | 7키 | ![][flag_KR] 대한민국 | ![][flag_MY] 말레이시아 | ![][flag_CN] 중국 |
 | [osu!mania 4K World Cup 2018](/wiki/Tournaments/MWC/2018_4K) | 2018-09-01 | 2018-10-07 | 4키 | ![][flag_KR] 대한민국 | ![][flag_US] 미국 | ![][flag_BR] 브라질 |
 | [osu!mania 7K World Cup 2019](/wiki/Tournaments/MWC/2019_7K) | 2019-02-09 | 2019-03-17 | 7키 | ![][flag_KR] 대한민국 | ![][flag_PH] 필리핀 | ![][flag_CN] 중국 |
 | [osu!mania 4K World Cup 2019](/wiki/Tournaments/MWC/2019_4K) | 2019-09-21 | 2019-10-27 | 4키 | ![][flag_KR] 대한민국 | ![][flag_BR] 브라질 | ![][flag_US] 미국 |
