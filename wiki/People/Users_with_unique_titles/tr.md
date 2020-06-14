@@ -13,7 +13,7 @@ Kullanıcı ünvanları genellikle ait oldukları [kullanıcı gruplarına](/wik
 
 [Resmi Dünya Kupalarının](/wiki/Tournaments#official-world-cups) kazananlarına verilen ödüllerden bir tanesi de bir yıllık süre ile verilen bir kullanıcı ünvanıdır.
 
-**osu! Champion** kullanıcı ünvanına sahip OWC 2019 kazananları:
+**osu! Champion** kullanıcı ünvanına sahip [OWC 2019](/wiki/Tournaments/OWC/2019) kazananları:
 
 - ![][flag_US] [Aireu](https://osu.ppy.sh/users/1650010)
 - ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445)
@@ -24,7 +24,7 @@ Kullanıcı ünvanları genellikle ait oldukları [kullanıcı gruplarına](/wik
 - ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689)
 - ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150)
 
-**osu!taiko Champion** kullanıcı ünvanına sahip TWC 2019 kazananları:
+**osu!taiko Champion** kullanıcı ünvanına sahip [TWC 2020](/wiki/Tournaments/TWC/2020) kazananları:
 
 - ![][flag_JP] [ekumea1123](https://osu.ppy.sh/users/9119501)
 - ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401)
@@ -32,7 +32,7 @@ Kullanıcı ünvanları genellikle ait oldukları [kullanıcı gruplarına](/wik
 - ![][flag_JP] [Seren58](https://osu.ppy.sh/users/15252950)
 - ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719)
 
-**osu!catch Champion** kullanıcı ünvanına sahip CWC 2020 kazananları:
+**osu!catch Champion** kullanıcı ünvanına sahip [CWC 2020](/wiki/Tournaments/CWC/2020) kazananları:
 
 - ![][flag_KR] [Motion](https://osu.ppy.sh/users/3885626)
 - ![][flag_KR] [qwhj1027](https://osu.ppy.sh/users/7547506)
@@ -41,7 +41,7 @@ Kullanıcı ünvanları genellikle ait oldukları [kullanıcı gruplarına](/wik
 - ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
 - ![][flag_KR] [T s u m i](https://osu.ppy.sh/users/4080520)
 
-**osu!mania Champion** kullanıcı ünvanına sahip MWC 4K 2019 kazananları:
+**osu!mania Champion** kullanıcı ünvanına sahip [MWC 4K 2019](/wiki/Tournaments/MWC/2019_4K) kazananları:
 
 - ![][flag_KR] [blueBloody](https://osu.ppy.sh/users/8046839)
 - ![][flag_KR] [Kalkai](https://osu.ppy.sh/users/10790649)

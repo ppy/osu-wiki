@@ -8,7 +8,7 @@ User titles are typically associated with [user groups](/wiki/People/The_Team#us
 
 One of the prizes given to first-place winners of [official World Cups](/wiki/Tournaments#official-world-cups) is a user title that lasts for one year.
 
-Winners of OWC 2019 with the **osu! Champion** user title:
+Winners of [OWC 2019](/wiki/Tournaments/OWC/2019) with the **osu! Champion** user title:
 
 - ![][flag_US] [Aireu](https://osu.ppy.sh/users/1650010)
 - ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445)
@@ -19,7 +19,7 @@ Winners of OWC 2019 with the **osu! Champion** user title:
 - ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689)
 - ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150)
 
-Winners of TWC 2020 with the **osu!taiko Champion** user title:
+Winners of [TWC 2020](/wiki/Tournaments/TWC/2020) with the **osu!taiko Champion** user title:
 
 - ![][flag_JP] [ekumea1123](https://osu.ppy.sh/users/9119501)
 - ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401)
@@ -27,7 +27,7 @@ Winners of TWC 2020 with the **osu!taiko Champion** user title:
 - ![][flag_JP] [Seren58](https://osu.ppy.sh/users/15252950)
 - ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719)
 
-Winners of CWC 2020 with the **osu!catch Champion** user title:
+Winners of [CWC 2020](/wiki/Tournaments/CWC/2020) with the **osu!catch Champion** user title:
 
 - ![][flag_KR] [Motion](https://osu.ppy.sh/users/3885626)
 - ![][flag_KR] [qwhj1027](https://osu.ppy.sh/users/7547506)
@@ -36,7 +36,7 @@ Winners of CWC 2020 with the **osu!catch Champion** user title:
 - ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
 - ![][flag_KR] [T s u m i](https://osu.ppy.sh/users/4080520)
 
-Winners of MWC 4K 2019 with the **osu!mania Champion** user title:
+Winners of [MWC 4K 2019](/wiki/Tournaments/MWC/2019_4K) with the **osu!mania Champion** user title:
 
 - ![][flag_KR] [blueBloody](https://osu.ppy.sh/users/8046839)
 - ![][flag_KR] [Kalkai](https://osu.ppy.sh/users/10790649)

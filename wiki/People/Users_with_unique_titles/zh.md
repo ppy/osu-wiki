@@ -16,7 +16,7 @@ outdated_since: 271ae51807f6525a3192c71b9815b074dc77ac9c # already applied this 
 
 授予 [官方世界杯](/wiki/Tournaments#官方世界杯) 第一名冠军获得者的奖项，这个头衔会持续存在一年。
 
-拥有 **osu! Champion** 头衔的 OWC 2019 冠军：
+拥有 **osu! Champion** 头衔的 [OWC 2019](/wiki/Tournaments/OWC/2019) 冠军：
 
 - ![][flag_US] [Aireu](https://osu.ppy.sh/users/1650010)
 - ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445)
@@ -27,7 +27,7 @@ outdated_since: 271ae51807f6525a3192c71b9815b074dc77ac9c # already applied this 
 - ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689)
 - ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150)
 
-拥有 **osu!taiko Champion** 头衔的 TWC 2020 冠军：
+拥有 **osu!taiko Champion** 头衔的 [TWC 2020](/wiki/Tournaments/TWC/2020) 冠军：
 
 - ![][flag_JP] [ekumea1123](https://osu.ppy.sh/users/9119501)
 - ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401)
@@ -35,7 +35,7 @@ outdated_since: 271ae51807f6525a3192c71b9815b074dc77ac9c # already applied this 
 - ![][flag_JP] [Seren58](https://osu.ppy.sh/users/15252950)
 - ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719)
 
-拥有 **osu!catch Champion** 头衔的 CWC 2020 冠军：
+拥有 **osu!catch Champion** 头衔的 [CWC 2020](/wiki/Tournaments/CWC/2020) 冠军：
 
 - ![][flag_KR] [Motion](https://osu.ppy.sh/users/3885626)
 - ![][flag_KR] [qwhj1027](https://osu.ppy.sh/users/7547506)
@@ -44,7 +44,7 @@ outdated_since: 271ae51807f6525a3192c71b9815b074dc77ac9c # already applied this 
 - ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
 - ![][flag_KR] [T s u m i](https://osu.ppy.sh/users/4080520)
 
-拥有 **osu!mania Champion** 头衔的 MWC 4K 2019 冠军：
+拥有 **osu!mania Champion** 头衔的 [MWC 4K 2019](/wiki/Tournaments/MWC/2019_4K) 冠军：
 
 - ![][flag_KR] [blueBloody](https://osu.ppy.sh/users/8046839)
 - ![][flag_KR] [Kalkai](https://osu.ppy.sh/users/10790649)
@@ -150,7 +150,7 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 
 ### 名人堂
 
-*这里的名人堂所指的不是 [osu!Alumni](/wiki/People/osu!_Alumni)*<!-- Same translation as osu!Alumni so add some comment -->
+*这里的名人堂所指的不是 [osu! Alumni](/wiki/People/The_Team/osu!_Alumni)*<!-- Same translation as osu!Alumni so add some comment -->
 
 这三位玩家被授予 **osu! Hall of Famer** 头衔，作为高水平玩家在社区还未成熟时协助社区发展。
 

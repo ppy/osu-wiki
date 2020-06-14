@@ -6,15 +6,15 @@ outdated_since: 271ae51807f6525a3192c71b9815b074dc77ac9c # already applied this 
 
 # Usuários com títulos únicos
 
-Títulos de usuário são tipicalmente associados com [grupos de usuário](/wiki/People/The_Team#user-groups), mas os usuários listados abaixo receberam os seus títulos por outras razões. A maior parte dos títulos foram recompensas por contribuições ou conquistas, com o restante sendo tokens de momentos icônicos ou esgraçados da história do osu!
+Títulos de usuário são tipicalmente associados com [grupos de usuário](/wiki/People/The_Team#grupos-de-usuário), mas os usuários listados abaixo receberam os seus títulos por outras razões. A maior parte dos títulos foram recompensas por contribuições ou conquistas, com o restante sendo tokens de momentos icônicos ou esgraçados da história do osu!
 
 ## Por categoria, com razões
 
 ### Vencedores da World Cup
 
-Uma das recompensas dadas para vencedores das [World Cups oficiais](/wiki/Tournaments#official-world-cups) em primeiro lugar, é um título de usuário que tem a duração de um ano.
+Uma das recompensas dadas para vencedores das [World Cups oficiais](/wiki/Tournaments#copas-do-mundo-oficiais) em primeiro lugar, é um título de usuário que tem a duração de um ano.
 
-Vencedores da OWC 2019 com o título de **osu! Champion**:
+Vencedores da [OWC 2019](/wiki/Tournaments/OWC/2019) com o título de **osu! Champion**:
 
 - ![][flag_US] [Aireu](https://osu.ppy.sh/users/1650010)
 - ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445)
@@ -25,7 +25,7 @@ Vencedores da OWC 2019 com o título de **osu! Champion**:
 - ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689)
 - ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150)
 
-Vencedores da TWC 2020 com o título de **osu!taiko Champion**:
+Vencedores da [TWC 2020](/wiki/Tournaments/TWC/2020) com o título de **osu!taiko Champion**:
 
 - ![][flag_JP] [ekumea1123](https://osu.ppy.sh/users/9119501)
 - ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401)
@@ -33,7 +33,7 @@ Vencedores da TWC 2020 com o título de **osu!taiko Champion**:
 - ![][flag_JP] [Seren58](https://osu.ppy.sh/users/15252950)
 - ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719)
 
-Vencedores da CWC 2020 com o título de **osu!catch Champion**:
+Vencedores da [CWC 2020](/wiki/Tournaments/CWC/2020) com o título de **osu!catch Champion**:
 
 - ![][flag_KR] [Motion](https://osu.ppy.sh/users/3885626)
 - ![][flag_KR] [qwhj1027](https://osu.ppy.sh/users/7547506)
@@ -42,7 +42,7 @@ Vencedores da CWC 2020 com o título de **osu!catch Champion**:
 - ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
 - ![][flag_KR] [T s u m i](https://osu.ppy.sh/users/4080520)
 
-Vencedores da MWC 4K 2019 com o título de **osu!mania Champion**:
+Vencedores da [MWC 4K 2019](/wiki/Tournaments/MWC/2019_4K) com o título de **osu!mania Champion**:
 
 - ![][flag_KR] [blueBloody](https://osu.ppy.sh/users/8046839)
 - ![][flag_KR] [Kalkai](https://osu.ppy.sh/users/10790649)
@@ -170,7 +170,7 @@ Esses jogadores conseguiram seus títulos com alguma conquista maluca ou complet
 | :-- | :-- | :-- |
 | ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | Fez o primeiro score NoMod FC na [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) |
 | ![][flag_AU] [Drum Decimator](https://osu.ppy.sh/users/4841352) | Drum Decimator | Fez scores FCs em todos os mapas de osu!taiko Ranqueados a partir de 3 de  Novembro de 2019 |
-| ![][flag_NL] [Shirotora](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | *Não documentado*
+| ![][flag_NL] [Shirotora](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | *Não documentado* |
 | ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Jogou todos os mapas de osu!standard a partir de 27 April 2019 |
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Ganhou [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) |
 
