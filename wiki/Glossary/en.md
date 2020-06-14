@@ -641,7 +641,7 @@ The main ranking metric of the game.
 
 ### puush
 
-A screen capturing and file uploading application developed by peppy. puush is a successor of sorts to upppy which is commonly used to upload and share images in osu!
+A screen capturing and file uploading application developed by peppy. puush was a successor of sorts to upppy which is still commonly used to upload and share images in osu!
 
 puush stopped accepting new registrations since 2018.
 
