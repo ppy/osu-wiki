@@ -1,5 +1,3 @@
-<!-- TODO: formatting kinda sucks. removed `needs_cleanup` tag because at least it gets the job done by explaining the images -->
-
 # Arayüz
 
 ![](img/Intro_static.jpg "Giriş Ekranı")
@@ -39,57 +37,57 @@ Ana menünün sol üst kısmında bulunan profilinize tıklayarak bu ekranı gö
 3. `Avatarı Değiştir`: Varsayılan internet tarayıcısında avatar düzenleme sayfasını aç.
 4. `Kapat`: Bu pencereyi kapat
 
-## Play Menu
+## Oynama Menüsü
 
-![](img/Introscreen2.jpg "Play Menu")
+![](img/Introscreen2.jpg "Oynama Menüsü")
 
-- Click `Solo` (`P`) to play alone.
-- Click `Multi` (`M`) to play with other people. You will be directed to the [Multi](/wiki/Multi) Lobby (see below).
-- Click `Back` to return to the main menu.
+- Yalnız oynamak için `Solo` butonuna (`P`) tıklayın.
+- Diğer insanlarla oynamak için `Multi` butonuna (`M`) tıklayın. [Çoklu](/wiki/Multi) Lobisine yönlendirileceksiniz (aşağıda).
+- Ana menüye geri dönmek için `Back` butonuna tıklayın.
 
-## Multi Lobby
+## Çoklu Lobisi
 
-*Main page: [Multi](/wiki/Multi)*
+*Ana sayfa: [Çoklu](/wiki/Multi)*
 
-![](img/Multi-Play-2016.png "Multi Lobby")
+![](img/Multi-Play-2016.png "Çoklu Lobisi")
 
-![](img/Multi-play!_Host.jpg "Multi Host")
+![](img/Multi-play!_Host.jpg "Çoklu Odası Sahibi")
 
-1. Your rank in the match. This is also shown next to your name.
-2. Your profile information.
-3. The jukebox.
-4. Player list - displays player names, their rank (host or player), their mods activated (if any, see \#7), their osu! ranking, and their team (if applicable).
-5. The name of the match and the password settings.
-6. The beatmap selected. It shows the beatmap as it would in the solo song selection screen.
-7. The mods that you have activated (see #12), as well as the option to select them. The option marked "Free Mods" toggles whether or not players can select their own mods. If yes, they can pick any combination of mods *except for speed-altering mods like Double Time*. If no, the host decides what mods will be used. The host can pick speed-altering mods regardless of whether or not Free Mods is turned on.
-8. The team mode and win conditions.
-9. The ready button.
-10. The [chat console](/wiki/Chat_Console).
-11. The leave button.
-12. Where your activated mods appear.
+1. Maç içerisindeki sıralamanız. Bu aynı zamanda isminizin yanında da gözükür.
+2. Sizin profil bilginiz.
+3. Müzik kutusu.
+4. Oyuncu listesi - oyuncuların isimlerini, onların sıralamasını (oda sahibi veya oyuncu), seçtikleri modlar (eğer varsa, \#7'ye bakınız), osu! sıralamaları, ve bulundukları takımlar (eğer mevcutsa).
+5. Maçın ismi ve şifre ayarları.
+6. Seçilen beatmap. Beatmapi solo şarkı seçme ekranında olduğu gibi gösterir.
+7. Seçtiğiniz modlar (bakınız \#12), aynı zamanda onları ayarlayabileceğiniz bir seçenek. "Free Mods" yazan seçenek oyuncuların kendi istediği modları seçip seçemeyeceğini ayarlar. Eğer seçiliyse, *Double Time gibi hız değiştiren modlar hariç* her türlü mod kombinasyonu seçilebilir. Eğer seçili değilse, oda sahibi hangi modların kullanılacağını belirler. Oda sahibi Free Mods açık olsun veya olmasın hız değiştiren modları seçebilir.
+8. Takım modu ve zafer koşulları.
+9. Hazır butonu.
+10. [Sohbet konsolu](/wiki/Chat_Console).
+11. Çıkış butonu.
+12. Seçtiğiniz modların göründüğü yer.
 
-## Song Selection Screen
+## Şarkı Seçme Ekranı
 
-![](img/Soloplay1.jpg "Song Selection")
+![](img/Soloplay1.jpg "Şarkı Seçme")
 
-You can identify the current mode selected by either looking at the icon in the bottom right, above Mode, or by looking at the transparent icon in the center of the screen. These are the four you will see:
+Seçilen oyun modunu sol alttaki, Mode yazısının üzerinde bulunan ikondan, veya ekranın ortasındaki saydam ikona bakarak ayırt edebilirsiniz. Aşağıdakiler görebileceğiniz dört modu oluşturur:
 
 - ![](/wiki/shared/mode/osu.png) is [osu!](/wiki/Game_Modes/osu!)
 - ![](/wiki/shared/mode/taiko.png) is [osu!taiko](/wiki/Game_Modes/osu!taiko)
 - ![](/wiki/shared/mode/catch.png) is [osu!catch](/wiki/Game_Modes/osu!catch)
 - ![](/wiki/shared/mode/mania.png) is [osu!mania](/wiki/Game_Modes/osu!mania)
 
-Before continuing on, this screen has too many elements to note with easily, noticeable numbers. The subsections below will focus on one part of the screen at a time, starting from the top down and left to right.
+Devam etmeden önce, bu ekranda kolayca anlaşılabilen numaralarla not edilebilecek çok fazla element bulunmaktadır. Aşağıdaki altbölümler bu ekranın her bir kısmını teker teker, yukarıdan aşağıya ve sağdan sola işleyecektir.
 
-### Beatmap Information
+### Beatmap Bilgisi
 
 ![](img/Soloplay2.jpg)
 
 ![](img/Soloplay2.5.jpg)
 
-This area displays **information on the beatmap difficulty currently selected.** By default, the beatmap whose song is heard in the osu! jukebox is selected when entering the selection screen. In the top left is the ranked status of the beatmap. The title is next. Normally, the romanised title is shown, but if you select `Prefer metadata in original language` in the [Options](/wiki/Options), it will show the Unicode title; this is shown in the upper picture. The beatmapper is also shown, and beatmap information is shown below. From left to right, the values are as follows:
+Bu bölüm **seçilen beatmap zorluğunun bilgisini** görüntüler. Varsayılan olarak, osu! müzik kutusunda çalan müziğin beatmapi şarkı seçme ekranına girerken seçili olarak açılır. Sol üstte beatmapin derecelendirme durumu bulunur. Hemen yanında başlık bulunur. Normalde, latin alfabeye çevirilmiş başlık gösterilir, ancak eğer [Ayarlarda](/wiki/Options) `Kendi dilindeki metaveriyi tercih et` seçiliyse, Unicode başlığı görüntüler; bu ise bir üstteki resimde mevcuttur. Beatmapper da görüntülenir, ve beatmap bilgisi ise aşağıda görüntülenir. Soldan sağa, veriler aşağıdaki gibidir:
 
-- **Length**: The total length of the beatmap, from start to finish and including breaks. Not to be confused with [drain time](/wiki/Glossary#drain-time).
+- **Uzunluk**: Beatmapin toplam uzunluğudur, molalar dahil baştan sona. [Akış süresi (drain time)](/wiki/Glossary#drain-time) ile karıştırılmamalıdır..
 - **BPM**: The BPM of the beatmap. If (like in the lower picture) there are two BPMS and one in parentheses, this means that the BPM changes throughout the song. It shows the slowest and fastest BPMs, and the value in parentheses is the BPM at the start of the beatmap.
 - **Objects**: The total amount of [hit objects](/wiki/Hit_Objects) in the beatmap.
 - **Circles**: The total amount of hit circles in the beatmap.
