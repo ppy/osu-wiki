@@ -8,14 +8,13 @@ ppv1 was launched in April 2012 and initially mentioned in players' profiles und
 
 This system was initially updated at regular intervals (usually every 24 hours) until finally being run in real-time on August 16, 2012.
 
-ppv1 was abandoned and replaced by **ppv2** on January 27, 2014.
-The reasons behind that change were the criticism of the players:
+ppv1 was abandoned and replaced by **ppv2** on January 27, 2014. The reasons behind that change were the criticism of the players:
 
 - Missing opacity of the algorithm
 - Promotion of ``Hard`` difficulties with mods
 - Low worth of insane difficulties
 
-It also allowed peppy to seperate the job of maintaining and updating the filing system to and thus ease its workload.
+It also allowed peppy to separate the job of maintaining and updating the filing system and thus ease its workload.
 
 ## Algorithm
 
