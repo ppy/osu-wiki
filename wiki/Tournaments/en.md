@@ -194,6 +194,12 @@ Unofficial tournaments/competitions hosted by the communities.
 | [112's Summer Tournament 2019](112/Summer_2019) | 2019-06-05 | 2019-08-22 | egemen ve aimless | KaFein | Kwk Yelleri |
 | [112's Corona Tournament](112/Corona_2020) | 2020-03-31 | 2020-05-30 | ali vefa fanclub | NEŞESİNE YAŞAM | SARS-CoV-3 |
 
+### ![](/wiki/shared/mode/osu.png) osu! Singapore-Indonesia-Malaysia Tournament
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu! Singapore-Indonesia-Malaysia Tournament](OSIM/1) | 2020-03-21 | 2020-05-17 | somaymalaycapcay | adventure timers | we will 操你妈 |
+
 ### ![](/wiki/shared/mode/osu.png) ROI PRO Tournament
 
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
@@ -210,8 +216,6 @@ Unofficial tournaments/competitions hosted by the communities.
 
 ### ![](/wiki/shared/mode/taiko.png) Taiko Last Man Standing
 
-<!-- TODO: needs some cleaning up: "LMS" isn't explained in the Shift articles, folder name should probably be T_LMS, LMS index page doesn't list everything here -->
-
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | Taiko World Cup: Last Man Standing | 2014-05-10 | 2014-06-15 | ![][flag_JP] Japan | ![][flag_CL] Chile | ![][flag_TW] Taiwan A |
@@ -220,8 +224,8 @@ Unofficial tournaments/competitions hosted by the communities.
 | Taiko World Cup: Last Man Standing 3 | 2016-06-11 | 2016-07-24 | ![][flag_JP] Japan A | ![][flag_TW] Taiwan A | ![][flag_JP] Japan D |
 | Taiko: Last Man Standing - Single Player Edition 2 | 2017-01-07 | 2017-02-12 | ![][flag_JP] [_yu68](https://osu.ppy.sh/users/6170507) | ![][flag_KR] [applerss](https://osu.ppy.sh/users/983349) | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) |
 | Taiko: Last Man Standing 4 | 2017-09-23 | 2017-10-28 | Tarako Spa | Can We Go Back | easy to giveup |
-| [Taiko LMS: Shift Cup](LMS/Shift_1) | 2018-06-09 | 2018-07-15 | V E R Y S T R O N G T E A M | あ | Ｆａｓｔ ＆ Ｃｈｉｌｌ 早く |
-| [Taiko LMS: Shift Cup 2](LMS/Shift_2) | 2020-04-25 | 2020-05-31 | *TBD* | *TBD* | *TBD* |
+| [Taiko LMS: Shift Cup](T_LMS/Shift_1) | 2018-06-09 | 2018-07-15 | V E R Y S T R O N G T E A M | あ | Ｆａｓｔ ＆ Ｃｈｉｌｌ 早く |
+| [Taiko LMS: Shift Cup 2](T_LMS/Shift_2) | 2020-04-25 | 2020-05-31 | Where is JDrago1-13? | abibibubibui | EuroGamers -Jaye |
 
 ### ![](/wiki/shared/mode/taiko.png) Global Taiko Showdown
 
