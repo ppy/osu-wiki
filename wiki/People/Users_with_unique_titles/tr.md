@@ -1,8 +1,3 @@
----
-outdated: true
-outdated_since: 271ae51807f6525a3192c71b9815b074dc77ac9c # already applied this commit, except the note about Spectator under Aspire mapping contest winners
----
-
 # Eşsiz ünvanlara sahip kullanıcılar
 
 Kullanıcı ünvanları genellikle ait oldukları [kullanıcı gruplarına](/wiki/People/The_Team#kullanıcı-grupları) göre ilişkilendirilir, ancak aşağıda listelenen kullanıcılar başka nedenlerden dolayı sahip oldukları ünvanlar verilmiştir. Ünvanların çoğu bulundukları katkılar veya kazandıkları başarımlar sonucu verilmiştir, geriye kalanlar ise osu! tarihinin ikonik veya komik kısımlarının birer hatırasıdır.
@@ -104,7 +99,7 @@ Aspire mapping yarışmalarının kazananları Elite Mapper ünvanının özel b
 - ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
 - ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231)
 
-![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) bu ünvanı zaten Elite Mapper ünvanına sahipken kazandı, dolayısıyla **Elite Mapper II: Aspirant** ünvanına "terfi etti".
+![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) bu ünvanı zaten Elite Mapper ünvanına sahipken kazandı, dolayısıyla **Elite Mapper II: Aspirant** ünvanına "terfi etti". ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) ise bunun yerine şu anda **osu!catch Champion** ünvanını kullanmakta.
 
 ### osu!remix yarışması kazananları
 
