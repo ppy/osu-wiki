@@ -1619,6 +1619,10 @@
 # Shortcut for NAT meetings
 "nat_meetings": "Modding/NAT_meetings"
 
+# Moved oMWC to oBWC for consistency
+"contests/omwc": "Contests/oBWC"
+"contests/omwc/1": "Contests/oBWC/1"
+
 # Renamed LMS to T_LMS
 "tournaments/lms": "Tournaments/T_LMS"
 "tournaments/lms/shift_1": "Tournaments/T_LMS/Shift_1"

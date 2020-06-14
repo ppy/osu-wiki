@@ -64,7 +64,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Rules
 
 - **Objects 1 beat apart or less must not fully [overlap](/wiki/Mapping_Techniques/Overlap).**
-- **Do not use [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_Criteria/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
+- **Do not use [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
 
 #### Guidelines
 
@@ -94,7 +94,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 #### Rules
 
 - **Objects 1 beat apart or less must not fully [overlap](/wiki/Mapping_Techniques/Overlap).**
-- **Do not use [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_Criteria/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
+- **Do not use [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
 
 #### Guidelines
 
@@ -133,7 +133,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 #### Rules
 
 - **Objects 1/2 of a beat apart or less must not fully [overlap](/wiki/Mapping_Techniques/Overlap).** Slider heads or tails fully overlapped by slider tails are exempt, so long as their sliderbodies are visible.
-- **Do not use [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_Criteria/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
+- **Do not use [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
 
 #### Guidelines
 
@@ -157,7 +157,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 #### Guidelines
 
 - **Objects 1/4 of a beat apart or less should not fully [overlap](/wiki/Mapping_Techniques/Overlap),** especially on simpler Insane difficulties.
-- **Avoid [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_Criteria/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
+- **Avoid [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
 - **Avoid cross screen [jumps](/wiki/Beatmaps/Pattern/Jump) and [streams](/wiki/Beatmaps/Pattern/Stream) whose circles do not [overlap](/wiki/Mapping_Techniques/Overlap).** These are beatmapping techniques primarily reserved for Expert level difficulties.
 - **Slider tick hitsounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hitsounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
 - **Avoid fully covering slider reverse arrows with circles, slider heads, or slider tails within a 1/2 beat of the reverse arrow being reached.** This gives players enough time to recognize the reverse arrow.
@@ -173,7 +173,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 #### Guidelines
 
-- **Avoid [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_Criteria/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
+- **Avoid [slider reverse arrows that do not follow the visible slider path](/wiki/Ranking_Criteria/osu!/img/Unintuitive_slider_reverse_arrow.png).** These misrepresent the direction of a slider.
 - **Slider tick hitsounds are discouraged.** If you want to use them, then make sure that their volume is balanced (i.e. notably quieter than regular hitsounds). A very loud slider tick, especially when only used once or twice, can be extremely jarring.
 
 #### Difficulty setting guidelines

@@ -1,6 +1,6 @@
 # Content Usage Guidelines
 
-As a mapper, you should have permission from relevant copyright holders for audio/visual/gameplay assets included in their beatmap submissions. Without permission, the beatmap is at risk of being removed and the creator is at risk of being denied access to the submission system as per the [osu! copyright policy](/wiki/legal/copyright).
+As a mapper, you should have permission from relevant copyright holders for audio/visual/gameplay assets included in their beatmap submissions. Without permission, the beatmap is at risk of being removed and the creator is at risk of being denied access to the submission system as per the [osu! copyright policy](/wiki/Legal/Copyright).
 
 To ensure a your account remains in good standing, it is recommended to create beatmaps using assets that are any of the following:
 
@@ -10,7 +10,7 @@ To ensure a your account remains in good standing, it is recommended to create b
 
 ## Audio
 
-We provide mappers a library of licensed songs via the [Featured Artist](/wiki/Featured_Artists) program. Each song on this listing is free for use within osu! and has no risk of removal.
+We provide mappers a library of licensed songs via the [Featured Artist](/wiki/Featured_Artists) program. Each song on [the listing](https://osu.ppy.sh/beatmaps/artists) is free for use within osu! and has no risk of removal.
 
 When looking for songs outside of osu!'s featured artist catalog, check whether or not its creator has explicitly stated usage terms. This information can often be found in description sections of an artist's music release platforms (e.g. Bandcamp, Soundcloud, YouTube) or their personal website. If a song is licensed under a [Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/3.0/) or is available for non-commercial use, it is safe to create and submit a beatmap for it.
 

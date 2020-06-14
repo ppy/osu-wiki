@@ -18,7 +18,7 @@ Being a rhythm game, each of osu!'s user-submitted levels are synchronized to th
 
 Users can search for and download levels from the [beatmap listing](https://osu.ppy.sh/beatmapsets) by inputting a song's artist, title, or other relevant information. Most level downloads include a song, user-created level data, a background image, and gameplay sound effects.
 
-When submitting levels, creators are encouraged to receive permission for all assets from relevant copyright holders as per our [Content Submission Guidelines](/wiki/Rules/Content_Submission_Guidelines).
+When submitting levels, creators are encouraged to receive permission for all assets from relevant copyright holders as per our [Content Usage Guidelines](/wiki/Rules/Content_Usage_Guidelines).
 
 ## Featured Artist licensing terms
 
