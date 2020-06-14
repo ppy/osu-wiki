@@ -27,7 +27,7 @@ Reference for one hit circle:
 
 ![Accuracy = 0.5(number of GOOD + number of GREAT) / (number of BAD + number of GOOD + number of GREAT)](img/accuracy_taiko.png "Accuracy formula for osu!taiko")
 
-In osu!taiko, accuracy is calculated by taking the sum of the note accuracy (how close you were to hitting the note on-time) divided by the number of total notes scored thus far. The note accuracies are labeled as a GREAT (良) (counts as 100%), GOOD (可) (counts as 50%) (half), and MISS/BAD (不可) (counts as 0%) (which also breaks the combo). Drum rolls and spinners do not influence the accuracy.
+In osu!taiko, accuracy is calculated by taking the sum of the note accuracy (how close you were to hitting the note on-time) divided by the number of total notes scored thus far. The note accuracies are labeled as a GREAT (良) (counts as 100%), GOOD (可) (counts as 50%) (half), and MISS/BAD (不可) (counts as 0%, which also breaks the combo). Drum rolls and spinners do not influence accuracy.
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
@@ -61,7 +61,7 @@ Due to the way the [DT](/wiki/DT) (Double Time) and [HT](/wiki/HT) (Half Time) m
 
 `Error` will always display two values that represents how far off the early hits were on average and how far off the late hits were on average. The higher the [Overall Difficulty](/wiki/Overall_Difficulty) value of the beatmap is, the lower the error values will have to be to do well when playing the beatmap.
 
-#### Unstable Rate
+#### Unstable rate
 
 `Unstable Rate` represents the consistency of the timing of the hits, where lower numbers are better (top players often score below 100). Note that the value measures consistency, not accuracy, so consistently hitting 15ms early is the same as consistently hitting on-time. The formula is essentially the standard deviation of the hit errors (in milliseconds), multiplied by 10. [Sample code](https://gist.github.com/peppy/3a11cb58c856b6af7c1916422f668899) is available as reference, showing how osu-stable calculates the unstable rate values.
 
