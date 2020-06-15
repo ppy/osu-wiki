@@ -202,6 +202,26 @@ The Hidden Only Tournament is run by various community members.
 
 ## Match results
 
+### Semifinals
+
+Saturday, 13 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| 3山刪白狼 | 2 | **6** | **newton is gey** | [#1](https://osu.ppy.sh/community/matches/62872474) |
+| C-O-C-A-I-N-E | 0 | **6** | **Omero Kamalio** | [#1](https://osu.ppy.sh/community/matches/62876385) |
+| **butterfly** | **6** | 3 | HR Main | [#1](https://osu.ppy.sh/community/matches/62878483) |
+| ar7 | 2 | **6** | **Pocket Galaxy** | [#1](https://osu.ppy.sh/community/matches/62883171) |
+
+Sunday, 14 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Koppepan Gaming | 0 | **6** | **Phrygian Friends** | [#1](https://osu.ppy.sh/community/matches/62902963) |
+| butterfly | 1 | **6** | **Pocket Galaxy** | [#1](https://osu.ppy.sh/community/matches/62922897) |
+| comet | 2 | **6** | **:rooGya:** | [#1](https://osu.ppy.sh/community/matches/62926896) |
+| Omero Kamalio | 4 | **6** | **newton is gey** | [#1](https://osu.ppy.sh/community/matches/62955750) |
+
 ### Quarterfinals
 
 Saturday, 6 June 2020:
