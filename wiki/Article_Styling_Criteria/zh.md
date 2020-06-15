@@ -14,7 +14,7 @@
 
 ## 本地化
 
-下面是 osu!wiki 允许的语言列表。文件名是两个字符的语言代码 ([ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes "Wikipedia"))，扩展名为`.md`，如`zh.md`。如果语言在不同国家/地区存在差异，则文件名是两个字符的语言代码 ([ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes "Wikipedia"))，后跟一个连字号 (`-`)，两个字符的国家/地区代码 ([ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 "Wikipedia"))，扩展名为`.md`，如`zh-tw.md`。
+下面是 osu!wiki 允许的语言列表。文件名是两个字符的语言代码 ([ISO 639-1](https://baike.baidu.com/item/ISO%20639-1/8292914 "百度百科条目"))，扩展名为`.md`，如`zh.md`。如果语言在不同国家/地区存在差异，则文件名是两个字符的语言代码 ([ISO 639-1](https://baike.baidu.com/item/ISO%20639-1/8292914 "百度百科条目"))，后跟一个连字号 (`-`)，两个字符的国家/地区代码 ([ISO 3166-2](https://baike.baidu.com/item/ISO%203166-1/5269555 "百度百科条目"))，然后加上扩展名`.md`，如`zh-tw.md`。
 
 | 文件名 | 中文写法 | 当地写法 |
 | :-- | :-- | :-- |
