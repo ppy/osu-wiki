@@ -55,6 +55,7 @@ The osu!mania LN Tournament 2 is run by various community members.
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/1068843)
 - [o!mLN Discord server](https://discord.gg/SPQtt3s)
 - [Livestream](https://www.twitch.tv/osumanialive)
+- [Challonge brackets](https://challonge.com/omln2)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1Ot3wMRSmXcZYT6L6U6-W1gvDbAN5UtuZUQ7akuvFyXc/edit#gid=248131311)**
 
 ## Participants
