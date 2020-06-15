@@ -246,7 +246,7 @@ Sunday, 14 June 2020:
 
 1. Group Stage will be held with the target of 20 teams make it through the cutoff, and will be splitted into 4 groups of 5.
 2. Group Stage will have a Best-of-11 winning condition.
-3. The top 2 teams from each group will advance to the knockout stage.
+3. The top 2 teams from each group will advance to the knockout stage on the winner's bracket and the next 2 teams will advance to the knockout stage on the loser's bracket.
 4. Banning system is the same referring to the one in the [stage regulations section](#stage-regulations).
 
 ### Knockout Stage details
