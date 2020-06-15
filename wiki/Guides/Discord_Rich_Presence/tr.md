@@ -25,14 +25,14 @@ Aynı zamanda ortak bir sunucuda olan herhangi bir oyuncunun Discord profiline t
 
 ## Oyunları izlemek
 
-Bu buton sihirli bir şekilde anlık olarak bir beatmap oynayan kişileri izlemenize izin verecek şekilde değişir, böylece dostlarınızın aynı şarkıyı arka arkaya bitiremeyişlerini asla kaçırmazsınız!
+Bu buton sihirli bir şekilde anlık olarak beatmap oynayan kişileri de izlemenize izin verecek şekilde değişir, böylece dostlarınızın aynı şarkıyı arka arkaya bitiremeyişlerini asla kaçırmazsınız!
 
 ![](img/spectate.jpg)
 
 ## Bilinen sorunlar
 
-Eğer Discord Rich Presence davetlerini çok sık gönderirseniz, Discord tarafından aşağıdakine benzer şekilde geçici bir hata ile karşılaşabilirsiniz.
+Eğer Discord Rich Presence davetlerini çok sık gönderirseniz, Discord tarafından aşağıdakine benzer bir geçici hata mesajı ile karşılaşabilirsiniz.
 
 ![](img/slow-down.jpg)
 
-Bu tamamen doğaldır ve diğer her şeyden ziyade Discord'un yanlış yönlendirmesidir. Birkaç dakika bekleyin, ardından yine davet göndermeniz sorun teşkil etmeyecektir.
+Bu tamamen doğaldır ve diğer her şeyden çok Discord'un yanlış yönlendirmesidir. Birkaç dakika bekleyin, ardından yine davet göndermeniz sorun teşkil etmeyecektir.
