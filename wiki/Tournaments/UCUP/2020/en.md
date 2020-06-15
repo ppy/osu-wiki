@@ -87,6 +87,37 @@ The Ulat Bulu Cup 2020 is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here! (146 MB)](https://drive.google.com/file/d/1R6UF98BuQjTBjh0PFoI8BA9WPVtS-P7g/view?usp=sharing)**
+
+- NoMod
+  - [Akitsuki Fuuka CV:Lynn - Fair wind (Zero\_\_wind) \[cRyo&xsrs's Extreme\]](https://osu.ppy.sh/beatmapsets/587541#osu/1414172)
+  - [xi - ANiMA (Pokejie) \[Extra\]](https://osu.ppy.sh/beatmapsets/659387#osu/1396459)
+  - [sakuraburst - dragonlands (Minorsonek) \[Minoralao's Extra\]](https://osu.ppy.sh/beatmapsets/1009637#osu/2153280)
+  - [DJ TOTTO - Crystalia (Hysteria) \[Lazy's Extra\]](https://osu.ppy.sh/beatmapsets/691220#osu/1462801)
+  - [Camellia - Diastrophism (Regou) \[captin's Extra\]](https://osu.ppy.sh/beatmapsets/923095#osu/1944228)
+  - [Linked Horizon - Jiyuu no Tsubasa (TV Size) (Chloe) \[Skystar\]](https://osu.ppy.sh/beatmapsets/102371#osu/287175)
+- Hidden
+  - [sokoninaru - Tenohira de odoru (Snepif) \[Extra\]](https://osu.ppy.sh/beatmapsets/773686#osu/1898580)
+  - [Groove Coverage - The End (Nightcore Remix) (winber1) \[Insane\]](https://osu.ppy.sh/beatmapsets/24918#osu/84538)
+  - [solfa feat. Ceui - Koiiro Recipe (Seolv) \[Left's Another\]](https://osu.ppy.sh/beatmapsets/981822#osu/2054876)
+- HardRock
+  - [Hatsuki Yura - Halloween of the Dead (Gamu) \[Extra\]](https://osu.ppy.sh/beatmapsets/1041518#osu/2176783)
+  - [Culprate - Diablo (VIP) (Yoges) \[Expert\]](https://osu.ppy.sh/beatmapsets/553119#osu/1280280)
+  - [VINXIS - A Centralized View (Peter) \[Perception\]](https://osu.ppy.sh/beatmapsets/780932#osu/1640291)
+- DoubleTime
+  - [Shimotsuki Haruka - Liblume (Lasse) \[Expert\]](https://osu.ppy.sh/beatmapsets/602903#osu/1276080)
+  - [onoken - Cristalisia (Mir) \[Insane\]](https://osu.ppy.sh/beatmapsets/950955#osu/1986056)
+  - [Red Velvet - Bad Boy (cosmiccc) \[Max's Hyper\]](https://osu.ppy.sh/beatmapsets/732077#osu/1635439)
+  - [EastNewSound - Lucid Dream (Natteke) \[Lunakuren\]](https://osu.ppy.sh/beatmapsets/20826#osu/73074)
+- FreeMod
+  - [MRVLZ - Her Name (VINXIS) \[?\]](https://osu.ppy.sh/beatmapsets/597833#osu/1263775)
+  - [Inspector K - Disconnected Hardkore (CanBlaster Remix) (Shiirn) \[Unconnected\]](https://osu.ppy.sh/beatmapsets/37242#osu/108762)
+  - [AKINO from bless4 - Just Moving On Now (Realazy) \[Naosse's Insane\]](https://osu.ppy.sh/beatmapsets/788123#osu/1674105)
+- Tiebreaker
+  - **[paraoka feat. haru\*nya - Manimani (Yales) \[Yamazakura\]](https://osu.ppy.sh/beatmapsets/714808#osu/1510461)**
+
 ### Group Stage
 
 **[Download the mappack here! (150 MB)](https://drive.google.com/file/d/1oNZG_B8ZAy4iipibdcZtZUsnURpaqSTw/view?usp=sharing)**
