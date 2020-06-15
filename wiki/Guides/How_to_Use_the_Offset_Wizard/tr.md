@@ -8,9 +8,9 @@ Offset sihirbazından en iyi şekilde yararlanmak için, şu beatmape ihtiyacın
 4. Beatmapin (neredeyse) başına gelin.
 5. `Test` tuşuna tıklayın ya da `F5` tuşuna basın.
 6. **Vuruşları dinleyin.** Dairelere ne zaman vurmanız *gerektiğini* görmeniz lazım.
-7. Testi tekrardan başlatın ancak bu sefer gözlerinizi kapatın. Bu sefer yalnızca vuurşları duyduğunuzda tıklamanız gerekli. 16 kere tıklayacaksınız.
+7. Testi tekrardan başlatın ancak bu sefer gözlerinizi kapatın. Bu sefer yalnızca vuruşları duyduğunuzda tıklamanız gerekli. 16 kere tıklayacaksınız.
 8. Gözlerinizi açın ve kaç ms çok erken ya da çok geç tıkladığınıza bakın.
-9. Ayarlara gidin ve Üniversel Ofset seçeneğinizi eğer geç tıkladıysanız `-x`, eğer erken tıkladıysanız `+x` olarak değiştirin.
+9. Ayarlara gidin ve Üniversal Ofset seçeneğinizi eğer geç tıkladıysanız `-x`, eğer erken tıkladıysanız `+x` olarak değiştirin.
 10. 2-9 numaralı adımları tekrar uygulayın, bu sefer çok erken / çok geç değerleri daha küçük olmalı.
 11. 10. adımı fark gerçekten küçük (±4ms) olana kadar tekrarlayın.
 12. *Gerçekten* ritme göre tıklamanın tadını çıkarın!
