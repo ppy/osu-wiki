@@ -8,7 +8,7 @@
 
 如果你对文章风格规范有任何建议，请在 Github 的 osu!wiki 仓库中 [发起 issue](https://github.com/ppy/osu-wiki/issues/new)。
 
-## 仓库（Repository）文件夹
+## 适用文件
 
 本节的规则仅适用于 `wiki/` 下的文章。
 
