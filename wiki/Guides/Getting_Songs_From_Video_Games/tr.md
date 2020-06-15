@@ -9,7 +9,7 @@ Bu kılavuz birkaç şeyi gerektirecek. Bunlar, onlara sahip değilseniz indirme
 - **foobar2000.** Bu kılavuz, yazıldığı anda en güncel versiyon olan v1.1.15 versiyonunu kullanmaktadır. [Buradan](https://foobar2000.org/download) indirin.
 - **vgmstream çözücü eklentisi.** Bu kılavuz foobar2000 kılavuzunu (kullanılan versiyon: r1002) kullanacaktır, ancak bağımsız versiyonunu kullanmayı biliyorsanız, onu kullanabilirsinz. [Buradan](https://foobar2000.org/components/view/foo_input_vgmstream) indirin. Bağımsız versiyonu [burada](https://vgmstream.losno.co).
 - **LAME şifreleyici.** Bu, şarkıyı osu!'da açmanız ve maplemeye başlamanız için şarkıyı MP3 formatına dönüştürmeniz için gereklidir! [Buradan](https://rarewares.org) indirin (MP3 menüsünden LAME Bundles seçeneğini seçin.)
-**Oyununuzdan çıkartılmış bir yedek.** Bu istediğiniz şarkıyı almanız için gereklidir. Ancak, bu yedeği kendiniz almalısınız. BU kılavuz oyunumuz olarak *Paper Mario: The Thousand Year Door* oyununu seçmiştir.
+- **Oyununuzdan çıkartılmış bir yedek.** Bu istediğiniz şarkıyı almanız için gereklidir. Ancak, bu yedeği kendiniz almalısınız. BU kılavuz oyunumuz olarak *Paper Mario: The Thousand Year Door* oyununu seçmiştir.
 
 ## Başlarken
 
