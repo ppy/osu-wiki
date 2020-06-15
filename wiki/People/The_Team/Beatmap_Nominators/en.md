@@ -99,7 +99,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_TR] [frukoyurdakul](https://osu.ppy.sh/users/7612550) | Turkish |
 | ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851) | German |
 | ![][flag_KR] [Hoshikuz](https://osu.ppy.sh/users/9892196) | Korean, Japanese |
-| ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | some Spanish |
+| ![][flag_US] [incandescence](https://osu.ppy.sh/users/6256027) | Some Spanish |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Japanese, Cantonese, Chinese |
 | ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | Chinese, Cantonese |
 | ![][flag_SG] [neonat](https://osu.ppy.sh/users/1561995) | Chinese |
@@ -126,7 +126,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_CN] [\_Stan](https://osu.ppy.sh/users/1653229) | Chinese |
 | ![][flag_ID] [Amiichii](https://osu.ppy.sh/users/9228569) | Indonesian |
 | ![][flag_KR] [Dubstek](https://osu.ppy.sh/users/9555243) | Korean |
-| ![][flag_US] [Kamuy](https://osu.ppy.sh/users/7439226) | some Korean |
+| ![][flag_US] [Kamuy](https://osu.ppy.sh/users/7439226) | Some Korean |
 | ![][flag_KR] [Kawawa](https://osu.ppy.sh/users/4647754) | Korean |
 | ![][flag_AU] [Keiga](https://osu.ppy.sh/users/6866022) | Chinese |
 | ![][flag_ID] [Rivals_7](https://osu.ppy.sh/users/4610379) | Indonesian |
@@ -159,7 +159,7 @@ The tables listed below indicate the game mode(s) in which each Beatmap Nominato
 | ![][flag_GB] [\_DUSK\_](https://osu.ppy.sh/users/6092181) | Urdu, some Arabic |
 | ![][flag_AR] [Axer](https://osu.ppy.sh/users/7299864) | Spanish |
 | ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015) | German |
-| ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) | some Japanese |
+| ![][flag_US] [Cychloryn](https://osu.ppy.sh/users/6921736) | Some Japanese |
 | ![][flag_VN] [davidminh0111](https://osu.ppy.sh/users/9623142) | Vietnamese |
 | ![][flag_FR] [realy0\_](https://osu.ppy.sh/users/8863359) | French |
 | ![][flag_AT] [Stefan](https://osu.ppy.sh/users/626907) | German, Serbian |
