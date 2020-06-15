@@ -91,7 +91,7 @@ The osu!catch World Cup 2020 is run by the [osu! team](/wiki/People/The_Team) an
 
 ---
 
-![CWC 2020 Podium](img/podium.png)
+![CWC 2020 Podium](img/podium.jpg)
 
 ---
 
