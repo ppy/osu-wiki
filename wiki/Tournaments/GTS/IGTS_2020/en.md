@@ -129,6 +129,32 @@ The Intermediate Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the map pack here! (93 MB)](https://mega.nz/file/T1tVVbyZ#Cn-uhZgtCiCwQ67HMly9AA9pQQfFxXRiySnPqkr4ikc)**
+
+- NoMod
+  - [chelmico - Easy Breezy feat. Zenpaku (dj-Jo Remix) (D3kuu) \[Oni\]](https://osu.ppy.sh/beatmapsets/1122895#taiko/2346587)
+  - [Akira Complex - Ether Strike (Raytoly) \[Oni\]](https://osu.ppy.sh/beatmapsets/1022223#taiko/2168809)
+  - [uma vs. Morimori Atsushi - GLORY: ROAD (Capu) \[CYCHLO'S MUZUKASHII\]](https://osu.ppy.sh/beatmapsets/1085285#taiko/2269499)
+  - [goreshit - broken promises/shattered dreams (HiroK) \[Capu's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1077202#taiko/2280397)
+  - [Tomoya Ohtani - Louvre Museum Invasion (Cychloryn) \[Finisher Thief\]](https://osu.ppy.sh/beatmapsets/1191586#taiko/2483055)
+- Hidden
+  - [Remixed by DJ Command - Mermaid girl -Akiba Koubou MIX- (Nishizumi) \[Oni\]](https://osu.ppy.sh/beatmapsets/340132#taiko/752428)
+  - [Camellia - Racemization (Squigly) \[Jerry's Muzukashii\]](https://osu.ppy.sh/beatmapsets/373363#taiko/896660)
+- HardRock
+  - [Zekk - Foresight (Stingy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1149296#taiko/2399454)
+  - [BeatMARIO - Night of Knights (USAO Remix) (Nishizumi) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1093282#taiko/2287760)
+- DoubleTime
+  - [O2i3 - How to make Slime (Faputa) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1135207#taiko/2372527)
+  - [Yunomi - Tokyo Snorkel (feat. nicamoq) (\[R\]) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/979346#taiko/2049587)
+- FreeMod
+  - [Niwashi+Aoi - Nostalgic Lost Logic (Lyrio\_jet) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/675886#taiko/1429661)
+  - [Kraus - Pitch Fucker (Nifty) \[Oni: Panic\]](https://osu.ppy.sh/beatmapsets/703595#taiko/1488561)
+  - [lapix - BRAND NEW DAY feat. Numb'n'dub (Cychloryn) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1056895#taiko/2211097)
+- Tiebreaker
+  - **[Tia - Love Me Gimme (toara\_fict) \[Oni\]](https://osu.ppy.sh/beatmapsets/472373#taiko/1009422)**
+
 ### Group Stage
 
 **[Download the map pack here! (65 MB)](https://mega.nz/file/3wFnTazb#-ONnI0-BFICX7IHmNR-zHmpK4qhWyJw9-AgzjZSiqCE)**
@@ -169,6 +195,66 @@ The Intermediate Global Taiko Showdown 2020 is run by various community members.
   - [Ayu Ting Ting - Sambalado (Volta) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/542425#taiko/1630672)
 
 ## Match results
+
+### Group Stage
+
+Saturday, 13 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Indonesia A ![][flag_ID] | 1 | **5** | ![][flag_CO] **Colombia** | [#1](https://osu.ppy.sh/community/matches/62858691) |
+| **Indonesia A** ![][flag_ID] | **5** | 2 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/62863111) |
+| **South Korea** ![][flag_KR] | **5** | 1 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/62867115) |
+| **Singapore** ![][flag_SG] | **5** | 0 | ![][flag_GR] Greece | [#1](https://osu.ppy.sh/community/matches/62868256) |
+| **Greece** ![][flag_GR] | **5** | 1 | ![][flag_ID] Indonesia B | [#1](https://osu.ppy.sh/community/matches/62870223) |
+| **Poland** ![][flag_PL] | **5** | 0 | ![][flag_MY] Malaysia A | [#1](https://osu.ppy.sh/community/matches/62871050) |
+| **China** ![][flag_CN] | **5** | 1 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/62872481) |
+| **Singapore** ![][flag_SG] | **5** | 1 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/62874419) |
+| **Japan A** ![][flag_JP] | **5** | 1 | ![][flag_AR] Argentina B | [#1](https://osu.ppy.sh/community/matches/62874410) |
+| **South Korea** ![][flag_KR] | **5** | 3 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/62874285) |
+| **China** ![][flag_CN] | **5** | 3 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/62876342) |
+| **Philippines** ![][flag_PH] | **5** | 0 | ![][flag_JP] Japan B | [#1](https://osu.ppy.sh/community/matches/62878454) |
+| **Poland** ![][flag_PL] | **5** | 4 | ![][flag_CZ] Czech Republic | [#1](https://osu.ppy.sh/community/matches/62878457) |
+| **United Kingdom** ![][flag_GB] | **5** | 4 | ![][flag_RU] Russian Federation A | [#1](https://osu.ppy.sh/community/matches/62878502) |
+| **Singapore** ![][flag_SG] | **5** | 0 | ![][flag_ID] Indonesia B | [#1](https://osu.ppy.sh/community/matches/62880703) |
+| **Germany B** ![][flag_DE] | **5** | 1 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/62880810) |
+| Chile ![][flag_CL] | 1 | **5** | ![][flag_FR] **France A** | [#1](https://osu.ppy.sh/community/matches/62885074) |
+| **United States B** ![][flag_US] | **5** | 2 | ![][flag_CO] Colombia | [#1](https://osu.ppy.sh/community/matches/62887390) |
+| Argentina A ![][flag_AR] | 3 | **5** | ![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/62887268) |
+| **United States A** ![][flag_US] | **5** | 0 | ![][flag_BE] Belgium | [#1](https://osu.ppy.sh/community/matches/62887151) |
+| Canada ![][flag_CA] | 2 | **5** | ![][flag_CZ] Czech Republic | [#1](https://osu.ppy.sh/community/matches/62889448) |
+
+Sunday, 14 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States B** ![][flag_US] | **5** | 1 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/62898816) |
+| Canada ![][flag_CA] | 4 | **5** | ![][flag_MY] **Malaysia A** | [#1](https://osu.ppy.sh/community/matches/62900014) |
+| Australia ![][flag_AU] | 4 | **5** | ![][flag_CO] **Colombia** | [#1](https://osu.ppy.sh/community/matches/62901742) |
+| United States B ![][flag_US] | 2 | **5** | ![][flag_ID] **Indonesia A** | [#1](https://osu.ppy.sh/community/matches/62901750) |
+| **South Korea** ![][flag_KR] | **5** | 1 | ![][flag_JP] Japan B | [#1](https://osu.ppy.sh/community/matches/62905714) |
+| **Japan A** ![][flag_JP] | **5** | 2 | ![][flag_RU] Russian Federation A | [#1](https://osu.ppy.sh/community/matches/62909489) |
+| **Hong Kong** ![][flag_HK] | **5** | 1 | ![][flag_GR] Greece | [#1](https://osu.ppy.sh/community/matches/62910578) |
+| **Malaysia A** ![][flag_MY] | **5** | 2 | ![][flag_CZ] Czech Republic | [#1](https://osu.ppy.sh/community/matches/62910564) |
+| **Spain** ![][flag_ES] | **5** | 1 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/62910553) |
+| **Japan A** ![][flag_JP] | **5** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/62912087) |
+| **Hong Kong** ![][flag_HK] | **5** | 0 | ![][flag_ID] Indonesia B | [#1](https://osu.ppy.sh/community/matches/62915346) |
+| **France A** ![][flag_FR] | **5** | 0 | ![][flag_BE] Belgium | [#1](https://osu.ppy.sh/community/matches/62915359) |
+| **Netherlands** ![][flag_NL] | **5** | 0 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/62917824) |
+| China ![][flag_CN] | 3 | **5** | ![][flag_DE] **Germany B** | [#1](https://osu.ppy.sh/community/matches/62917425) |
+| **Spain** ![][flag_ES] | **5** | 0 | ![][flag_JP] Japan B | [#1](https://osu.ppy.sh/community/matches/62917338) |
+| **Netherlands** ![][flag_NL] | **5** | 0 | ![][flag_PT] Portugal | [#1](https://osu.ppy.sh/community/matches/62921070) |
+| Italy ![][flag_IT] | 2 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/62921091) |
+| **Portugal** ![][flag_PT] | **5** | 2 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/62922874) |
+| **Poland** ![][flag_PL] | **5** | 2 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/62922581) |
+| **United Kingdom** ![][flag_GB] | **5** | 2 | ![][flag_AR] Argentina B | [#1](https://osu.ppy.sh/community/matches/62922886) |
+| **Germany B** ![][flag_DE] | **5** | 1 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/62924710) |
+| Russian Federation A ![][flag_RU] | 4 | **5** | ![][flag_AR] **Argentina B** | [#1](https://osu.ppy.sh/community/matches/62924734) |
+| **Chile** ![][flag_CL] | **5** | 0 | ![][flag_BE] Belgium | [#1](https://osu.ppy.sh/community/matches/62924763) |
+| **Argentina A** ![][flag_AR] | **5** | 1 | ![][flag_PT] Portugal | [#1](https://osu.ppy.sh/community/matches/62926830) |
+| **United States A** ![][flag_US] | **5** | 3 | ![][flag_FR] France A | [#1](https://osu.ppy.sh/community/matches/62926850) |
+| **United States A** ![][flag_US] | **5** | 1 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/62931026) |
+| **Argentina A** ![][flag_AR] | **5** | 1 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/62932919) |
 
 ### Qualifiers
 
