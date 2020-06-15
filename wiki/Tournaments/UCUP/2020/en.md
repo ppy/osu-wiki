@@ -15,7 +15,7 @@ The **Ulat Bulu Cup 2020** (***UCUP 2020***) is an Indonesian double-elimination
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2020-05-11/2020-05-24 |
-| Group Stage | 2020-06-05/2020-06-14 |
+| Group Stage | 2020-06-02/2020-06-14 |
 | Quarterfinals | 2020-06-19/2020-06-21 |
 | Semifinals | 2020-06-26/2020-06-28 |
 | Finals | 2020-07-03/2020-07-05 |
@@ -115,6 +115,102 @@ The Ulat Bulu Cup 2020 is run by various community members.
   - [jun - SUPER SAMURAI (ouranhshc) \[Lesjuh's Insane\]](https://osu.ppy.sh/beatmapsets/11318#osu/72604)
 - Tiebreaker
   - **[aran - Moonbound feat. Yukacco (USAO Remix) (z1085684963) \[PENDULUMs\]](https://osu.ppy.sh/beatmapsets/986982#osu/2064636)**
+
+## Match results
+
+### Group Stage
+
+Tuesday, 2 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **terserah** | **6** | 4 | Kowok Gamers | [#1](https://osu.ppy.sh/community/matches/62417915) |
+
+Wednesday, 3 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **terserah** | **6** | 1 | AutisNgopi4Hed | [#1](https://osu.ppy.sh/community/matches/62451359) |
+| AutisNgopi4Head | 0 | **6** | **Kowok Gamers** | [#1](https://osu.ppy.sh/community/matches/62452818) |
+
+Thursday, 4 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Kowok Gamers** | **6** | 0 | ABC Team | [#1](https://osu.ppy.sh/community/matches/62485385) |
+| WHOMEGALUL | 2 | **6** | **terserah** | [#1](https://osu.ppy.sh/community/matches/62493266) |
+
+Friday, 5 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Kowok Gamers** | **6** | 2 | WHOMEGALUL | [#1](https://osu.ppy.sh/community/matches/62534000) |
+| ABC Team | -1 | **0** | **terserah** | *win by default* |
+| (; ･`д･´) | 4 | **6** | **host toxic ccd** | [#1](https://osu.ppy.sh/community/matches/62534546) |
+| **sumippe's simp** | **6** | 3 | pemain_osu2020 | [#1](https://osu.ppy.sh/community/matches/62535904) |
+| **A B B C** | **6** | 0 | lbnoob | [#1](https://osu.ppy.sh/community/matches/62538327) |
+| host toxic ccd | 1 | **6** | **Press 3 Fs to pay respects** | [#1](https://osu.ppy.sh/community/matches/62538801) |
+
+Saturday, 6 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ABC Team | -1 | **0** | **WHOMEGALUL** | *win by default* |
+| **Em1ruBigDumb** | **6** | 5 | A B B C | [#1](https://osu.ppy.sh/community/matches/62582378) |
+
+Sunday, 7 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **united** | **6** | 2 | Sumippe's Simp | [#1](https://osu.ppy.sh/community/matches/62615133) |
+| **Tim Ayam** | **0** | -1 | (; ･`д･´) | *win by default* |
+| **awan fanclub** | **6** | 1 | Em1ruBigDumb | [#1](https://osu.ppy.sh/community/matches/62620778) |
+| **DARAWET ANJENG** | **6** | 4 | sumippe's simp | [#1](https://osu.ppy.sh/community/matches/62624312) |
+
+Wednesday, 10 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| SotarksNoJutsu | 0 | **6** | **pemain\_osu2020** | [#1](https://osu.ppy.sh/community/matches/62742219) |
+| Hulat | 0 | **6** | **host toxic ccd** | [#1](https://osu.ppy.sh/community/matches/62748405) |
+
+Thursday, 11 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Press 3 Fs to pay respects** | **6** | 0 | Hulat | [#1](https://osu.ppy.sh/community/matches/62791172) |
+| Hulat | 0 | **6** | **(; ･`д･´)** | [#1](https://osu.ppy.sh/community/matches/62794729) |
+
+Friday, 12 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Tim Ayam** | **0** | -1 | Hulat | *win by default* |
+| pemain\_osu2020 | 4 | **6** | **DARAWET ANJENG** | [#1](https://osu.ppy.sh/community/matches/62825167) |
+| host toxic ccd | 3 | **6** | **Tim Ayam** | [#1](https://osu.ppy.sh/community/matches/62831738) |
+| (; ･`д･´) | 0 | **6** | **Press 3 Fs to pay respects** | [#1](https://osu.ppy.sh/community/matches/62832224) |
+
+Saturday, 13 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Eleftharia | 3 | **6** | **A B B C** | [#1](https://osu.ppy.sh/community/matches/62865957) |
+| **WHOMEGALUL** | **6** | 0 | AutisNgopi4Hed | [#1](https://osu.ppy.sh/community/matches/62867030) |
+| **Eleftharia** | **6** | 0 | lbnoob | [#1](https://osu.ppy.sh/community/matches/62869264) |
+| **Press 3 Fs to pay respects** | **6** | 1 | Tim Ayam | [#1](https://osu.ppy.sh/community/matches/62872387) |
+| A B B C | 3 | **6** | **awan fanclub** | [#1](https://osu.ppy.sh/community/matches/62875191) |
+| pemain\_osu2020 | 5 | **6** | **retards united** | [#1](https://osu.ppy.sh/community/matches/62874172) |
+
+Sunday, 14 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **retards united** | **6** | 5 | DARAWET ANJENG | [#1](https://osu.ppy.sh/community/matches/62908520) |
+| **Em1ruBigDumb** | **6** | 4 | Eleftharia | [#1](https://osu.ppy.sh/community/matches/62909492) |
+| Ibnoob | 0 | **6** | **awan fanclub** | [#1](https://osu.ppy.sh/community/matches/62910859) |
+| **AutisNgopi4Hed** | **0** | -1 | ABC Team | *win by default* |
+| **awan fanclub** | **6** | 2 | Eleftharia | [#1](https://osu.ppy.sh/community/matches/62913368) |
+| Ibnoob | 0 | **6** | **Em1ruBigDumb** | [#1](https://osu.ppy.sh/community/matches/62914006) |
 
 ## Ruleset
 
