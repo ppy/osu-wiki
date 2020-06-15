@@ -95,6 +95,33 @@ The Hidden Only Tournament is run by various community members.
 
 ## Mappools
 
+### Finals
+
+**[Download the mappack here! (178 MB)](https://drive.google.com/file/d/11urnyvwRjKDDcRevC2a-cWEQS0b4vjHi/view?usp=sharing)**
+
+- Hidden
+  - [Roselia - R (Doormat) \[Rosenlied\]](https://osu.ppy.sh/beatmapsets/820180#osu/1719416)
+  - [xi - ANiMA (\_kotachi\_) \[Words of the Ruler\]](https://osu.ppy.sh/beatmapsets/749276#osu/1578256)
+  - [Suzuki Konomi - Cyber Thunder Cider (Nattu) \[SAIBAA SANDAA SAIDAA\]](https://osu.ppy.sh/beatmapsets/539481#osu/2047528)
+  - [Zekk - Feelsleft0ut (J1\_) \[Alone\]](https://osu.ppy.sh/beatmapsets/821587#osu/1722011)
+  - [onoken - Quinine -A2D SIDE- (Matrix) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/932298#osu/1946518)
+  - [GEM - Umiyuri Kaiteitan (Loreley) \[Mirash's Extra\]](https://osu.ppy.sh/beatmapsets/647452#osu/1517974)
+  - [Demetori - Faith is for the Transient People \~ Jehovah's YaHVeH (Regou) \[Extra\]](https://osu.ppy.sh/beatmapsets/43230#osu/135763)
+  - [lapix feat. Renko - Concept Of Reality (ProfessionalBox) \[eXiStEnCe\]](https://osu.ppy.sh/beatmapsets/559140#osu/1182535)
+  - [Tanchiky - Sanshi Suimei (nika mika) \[Miyabi\]](https://osu.ppy.sh/beatmapsets/811685#osu/1702581)
+  - [Eisyo-kobu - Oriental Blossom (Crystal) \[konG's Extra\]](https://osu.ppy.sh/beatmapsets/586889#osu/1243791)
+  - [Getty vs. DJ DiA - DropZ-Line- (Realazy) \[Lazy's Another\]](https://osu.ppy.sh/beatmapsets/727049#osu/1603376)
+  - [MC Lynn - EkiBEN2000 (arken1015) \[Insane\]](https://osu.ppy.sh/beatmapsets/9782#osu/42793)
+- Hidden+DoubleTime
+  - [Shihori - Bloody Night (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/46223#osu/143989)
+  - [zts - rotater (tokiko) \[lunatic\]](https://osu.ppy.sh/beatmapsets/905162#osu/1889238)
+  - [07th Expansion - Akai Tsukunise (soulfear) \[Souken no Tou\]](https://osu.ppy.sh/beatmapsets/14208#osu/52128)
+  - [System of a Down - Vicinity of Obscenity (Larto) \[Possible\]](https://osu.ppy.sh/beatmapsets/13768#osu/50933)
+- Tiebreaker
+  - **[Dark PHOENiX - Ryokugan no Jealousy (EvilElvis) \[Monster with Green Eyes\]](https://osu.ppy.sh/beatmapsets/382455#osu/836339)**
+  - **[Meramipop - Secret Desire - Dyes Remix - (Skystar) \[Irregular\]](https://osu.ppy.sh/beatmapsets/697895#osu/1478218)**
+  - **[Diao Ye Zong feat. Meramipop - 'Thema of Curtain Fire Shooters' -History 3/3- (Hey lululu) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/746655#osu/1573582)**
+
 ### Semifinals
 
 **[Download the mappack here! (115 MB)](https://drive.google.com/file/d/1zzOjFflNIk-4qL7nAmg_DWqdc5Xnl4mh/view?usp=sharing)**
