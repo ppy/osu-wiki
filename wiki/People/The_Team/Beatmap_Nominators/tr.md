@@ -143,7 +143,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | İsim | Ek diller |
 | :-- | :-- |
 | ![][flag_GB] [DeviousPanda](https://osu.ppy.sh/users/4966334) |  |
-| ![][flag_HR] [Fall](https://osu.ppy.sh/users/4800816) | Croatian |
+| ![][flag_HR] [Fall](https://osu.ppy.sh/users/4800816) | Hırvatça |
 | ![][flag_RU] [Mirash](https://osu.ppy.sh/users/2841009) | Rusça |
 | ![][flag_US] [Nevo](https://osu.ppy.sh/users/7451883) |  |
 | ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Almanca |
