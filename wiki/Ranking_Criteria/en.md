@@ -121,7 +121,7 @@ Changes to the rules and guidelines in this document are proposed and discussed 
 - **Songs with metadata that contains ambiguous or hard to write unicode characters should add easily searchable variations or romanisations of these words to the beatmapset's tags.**
 - **If the source of the song is available in both unicode and romanised formats, the option not used in the source field should be added to tags.**
 - **Song genre and language should be added to the tags of a beatmap.** This is to enable users to search using these terms in-game like they do on the website. For instrumental tracks, "instrumental" is considered the language tag. Exceptions would be when language and/or genre are not clear, or multiple apply. In case of the latter, one fitting tag for each may be applied.
-- **Tags should be added for related artists, alternate names for the artist, title, or source, contractions with the apostrophe removed, and whatever else may aid a player in finding the mapset.**
+- **Tags should be added for related artists, alternate names for the artist, title, or source, contractions in any part of the metadata with the apostrophe removed, and whatever else may aid a player in finding the mapset.**
 
 #### Standardisation
 
