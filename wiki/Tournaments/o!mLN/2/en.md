@@ -63,6 +63,23 @@ The osu!mania LN Tournament 2 is run by various community members.
 
 ## Mappools
 
+### Round of 64
+
+- FreeMod
+  - [Shoichiro Hirata feat.Sana - Believe the Rainbow (Raveille) \[One Last Wish\]](https://osu.ppy.sh/beatmapsets/1034857#mania/2163609)
+  - [Wulpis Kater - Wasureji no Kotonoha (Davvy) \[vanished in a shower\]](https://osu.ppy.sh/beatmapsets/1071827#mania/2243452)
+  - [uma - keep on running (souzirou1000) \[LN\]](https://osu.ppy.sh/beatmapsets/671592#mania/1419942)
+  - [NAGI - inside (Jinjin) \[Longing\]](https://osu.ppy.sh/beatmapsets/475615#mania/1016139)
+  - [Lil Peep & XXXTENTACION - Falling Down (Kamuy) \[downpour\]](https://osu.ppy.sh/beatmapsets/1132929#mania/2366298)
+  - [Kero Kero Bonito - Flamingo (-Rem-) \[True Colors\]](https://osu.ppy.sh/beatmapsets/767418#mania/2128288)
+  - [Lindsey Stirling - Senbonzakura (ATing) \[LN Master\]](https://osu.ppy.sh/beatmapsets/1009692#mania/2113676)
+  - [EBIMAYO - GOODBOUNCE (juankristal) \[GOODLN\]](https://osu.ppy.sh/beatmapsets/974488#mania/2039768)
+  - [Maizang - Wind Island (HowToPlayLN) \[Sound of the Storm (edit)\]](https://osu.ppy.sh/beatmapsets/985836#mania/2082016)
+  - [In Love With A Ghost - Flowers feat. nori (Hlimak) \[fLNowers\]](https://osu.ppy.sh/beatmapsets/897776#mania/1875524)
+  - [Lindsey Stirling - Something Wild (feat. Andrew McMahon In the Wilderness) (Rivals\_7) \[Enigma\]](https://osu.ppy.sh/beatmapsets/882820#mania/1845621)
+- Tiebreaker
+  - **[Camellia - chrono diver -fragment- (Camellia's "crossroads of chrono" remix) (UnluckyCroco) \[Everlasting Dream\]](https://osu.ppy.sh/beatmapsets/1135058#mania/2372006)**
+
 ### Qualifiers
 
 - FreeMod
