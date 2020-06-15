@@ -228,9 +228,25 @@ Abbreviations for user groups are used throughout this log:
 
 ### Beatmap Nominators
 
+#### Additions
+
+- 2020-06-06: Added [Fall](https://osu.ppy.sh/users/4800816) to **Probationary BN**
+- 2020-06-09: Added [Baron](https://osu.ppy.sh/users/10286499) to **Probationary BN**
+- 2020-06-10: Added [Shima Rin](https://osu.ppy.sh/users/6089608) to **Probationary BN**
+- 2020-06-13: Added [Axer](https://osu.ppy.sh/users/7299864) to **Probationary BN**
+- 2020-06-13: Added [Cychloryn](https://osu.ppy.sh/users/6921736) to **Probationary BN**
+- 2020-06-14: Added [Secre](https://osu.ppy.sh/users/2306637) to **Probationary BN**
+
 #### Moves
 
 - 2020-06-01: Moved [Agatsu](https://osu.ppy.sh/users/5579871) from **Probationary BN** to **BN**
 - 2020-06-02: Moved [Sun](https://osu.ppy.sh/users/4115819) from **Probationary BN** to **BN**
+- 2020-06-05: Moved [Stefan](https://osu.ppy.sh/users/626907) from **BN** to **Probationary BN**
+- 2020-06-08: Moved [Yales](https://osu.ppy.sh/users/2377881) from **BN** to **Probationary BN**
 
-<!-- last update: 2020-06-03 3UTC removed sun from probationary bn -->
+#### Removals
+
+- 2020-06-05: Removed [Gamelan4](https://osu.ppy.sh/users/9856910) from **Probationary BN**
+- 2020-06-13: Removed [Metzo](https://osu.ppy.sh/users/10633982) from **Probationary BN**
+
+<!-- last update: 2020-06-15 5UTC added secre to probationary bn -->
