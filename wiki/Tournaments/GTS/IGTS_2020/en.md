@@ -129,6 +129,32 @@ The Intermediate Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the map pack here! (93 MB)](https://mega.nz/file/T1tVVbyZ#Cn-uhZgtCiCwQ67HMly9AA9pQQfFxXRiySnPqkr4ikc)**
+
+- NoMod
+  - [chelmico - Easy Breezy feat. Zenpaku (dj-Jo Remix) (D3kuu) \[Oni\]](https://osu.ppy.sh/beatmapsets/1122895#taiko/2346587)
+  - [Akira Complex - Ether Strike (Raytoly) \[Oni\]](https://osu.ppy.sh/beatmapsets/1022223#taiko/2168809)
+  - [uma vs. Morimori Atsushi - GLORY: ROAD (Capu) \[CYCHLO'S MUZUKASHII\]](https://osu.ppy.sh/beatmapsets/1085285#taiko/2269499)
+  - [goreshit - broken promises/shattered dreams (HiroK) \[Capu's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1077202#taiko/2280397)
+  - [Tomoya Ohtani - Louvre Museum Invasion (Cychloryn) \[Finisher Thief\]](https://osu.ppy.sh/beatmapsets/1191586#taiko/2483055)
+- Hidden
+  - [Remixed by DJ Command - Mermaid girl -Akiba Koubou MIX- (Nishizumi) \[Oni\]](https://osu.ppy.sh/beatmapsets/340132#taiko/752428)
+  - [Camellia - Racemization (Squigly) \[Jerry's Muzukashii\]](https://osu.ppy.sh/beatmapsets/373363#taiko/896660)
+- HardRock
+  - [Zekk - Foresight (Stingy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1149296#taiko/2399454)
+  - [BeatMARIO - Night of Knights (USAO Remix) (Nishizumi) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1093282#taiko/2287760)
+- DoubleTime
+  - [O2i3 - How to make Slime (Faputa) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1135207#taiko/2372527)
+  - [Yunomi - Tokyo Snorkel (feat. nicamoq) (\[R\]) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/979346#taiko/2049587)
+- FreeMod
+  - [Niwashi+Aoi - Nostalgic Lost Logic (Lyrio\_jet) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/675886#taiko/1429661)
+  - [Kraus - Pitch Fucker (Nifty) \[Oni: Panic\]](https://osu.ppy.sh/beatmapsets/703595#taiko/1488561)
+  - [lapix - BRAND NEW DAY feat. Numb'n'dub (Cychloryn) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1056895#taiko/2211097)
+- Tiebreaker
+  - **[Tia - Love Me Gimme (toara\_fict) \[Oni\]](https://osu.ppy.sh/beatmapsets/472373#taiko/1009422)**
+
 ### Group Stage
 
 **[Download the map pack here! (65 MB)](https://mega.nz/file/3wFnTazb#-ONnI0-BFICX7IHmNR-zHmpK4qhWyJw9-AgzjZSiqCE)**
