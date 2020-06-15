@@ -254,7 +254,7 @@ Oyunun **tüm maplerinizi kaydırarak rastgele bir tanesini seçmesi** için `Ra
 **Mevcut seçilen beatmapin seçenekleri için Beatmap Seçenekleri Menüsünü** açmak için `Beatmap Options` butonuna tıklayın veya `F3` tuşuna basın ya da farenizle sağ-tıklayın.
 
 - Koleksiyonlar ekranını görüntülemek için `1`'e basın veya `Koleksiyonları Düzenle` butonuna tıklayın - burada, mevcut koleksiyonları düzenleyebilir, aynı zamanda seçili beatmap veya map setini bir koleksiyona ekleyebilir veya bir koleksiyondan çıkartabilirsiniz.
--  `2` tuşuna basarak veya `Delete...` butonuna tıklayarak \[1\] şu anda seçili map setini silebilir, \[2\] şu anda seçili beatmapi silebilir, veya \[3\] tüm beatmapleri silebilirsiniz. Son seçenek şaka amaçlıdır; ona tıklamanız oyunun size beatmaplerin tamamını birden silemeyeceğinizi bildirmesine sebep olur.
+- `2` tuşuna basarak veya `Delete...` butonuna tıklayarak \[1\] şu anda seçili map setini silebilir, \[2\] şu anda seçili beatmapi silebilir, veya \[3\] tüm beatmapleri silebilirsiniz. Son seçenek şaka amaçlıdır; ona tıklamanız oyunun size beatmaplerin tamamını birden silemeyeceğinizi bildirmesine sebep olur.
    - Silinen beatmaplerin Geri Dönüşüm Kutusuna taşındığını unutmayın.
 - Oynanmamış bir beatmapi oynanmış olarak işaretlemek için (yani, kutucuk rengini pembeden turuncuya dönüştürür) `3` tuşuna basın veya `Oynanmamışlardan Çıkar` butonuna tıklayın.
 - Seçtiğiniz beatmap üzerindeki tüm skor kayıtlarını silmek için `4` tuşuna basın veya `Bütün yerel skorları sil` butonuna tıklayın.
