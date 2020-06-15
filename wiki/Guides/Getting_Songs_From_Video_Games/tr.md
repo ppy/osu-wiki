@@ -34,7 +34,7 @@ Bu liste osu! için doğru dönüştürme ayarlarını sıralar :
 - **Output Format:** Format: MP3 (LAME), V2 *(Bitrate kendini 190 kbps olarak ayarlayacak)*
 - **Destination:** Output folder: source file folder. Output type: tracks into individual files. File name pattern: %title%
 - **Processing:** Hard -6dB limiter. *(İsteğe bağlı)*
-- - **Other:** When finished: do nothing.
+- **Other:** When finished: do nothing.
 
 *Not: Eğer daha önce foobar2000'de MP3 dönüştürmediyseniz, dönüştürücü sizden **Lame.exe** dosyasını bulmanızı isteyecektir. **Lame.exe** dosyasını çıkarttığınız klasöre gidin ve dosyayı seçin.*
 
