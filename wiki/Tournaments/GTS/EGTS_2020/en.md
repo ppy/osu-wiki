@@ -96,6 +96,31 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+**[Download the map pack here! (78 MB)](https://mega.nz/file/QxtHyCaS#rk1W0mK1WpvzHUnNUf3H_klW3NimfDtjCFKgjplds94)**
+
+- NoMod
+  - [Camellia - Kono Hoshi de... (\_DUSK\_) \[Raph's Inner Oni\]](https://osu.ppy.sh/beatmapsets/773105#taiko/1625231)
+  - [nitro - \[line:theta\] (rubies87) \[Omega\]](https://osu.ppy.sh/beatmapsets/948419#taiko/1980740)
+  - [cosMo@bousouP feat. Hatsune Miku, GUMI - Colorful Voice (Cychloryn) \[Supersonic Oni\]](https://osu.ppy.sh/beatmapsets/1032465#taiko/2177259)
+  - [Dokuzuhonsya - Fam Fam Time! (taiko\_ryuki) \[Family Oni\]](https://osu.ppy.sh/beatmapsets/1040917#taiko/2175422)
+- Hidden
+  - [SHK - Identity Part II (aabc271) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/369708#taiko/810148)
+  - [Kotori - Nanamori (youth Remix) (nyanmi-1828) \[Two-side up\]](https://osu.ppy.sh/beatmapsets/1018730#taiko/2131733)
+- HardRock
+  - [High Speed Music Team Sharpnel - Exciting Hyper Highspeed Star (Zetera) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/769006#taiko/1617086)
+  - [Sakamoto eizo x Takahama Yusuke - UNDEAD HEART(ikari no Warriors) (Firce777) \[Oni (Tatsujin)\]](https://osu.ppy.sh/beatmapsets/586605#taiko/1242251)
+- DoubleTime
+  - [tarolabo - Kowatori (Nyan) \[Oni\]](https://osu.ppy.sh/beatmapsets/593543#taiko/1255681)
+  - [Hello Sleepwalkers - Shinwa Houkai (Capu) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/874856#taiko/1828391)
+- FreeMod
+  - [DJ Ozawa - Tokyo (Innovaderz Remix) (Capu) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1154042#taiko/2408517)
+  - [Akita Neru - Gotya Gotya Uruse! (Nofool) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/764965#taiko/1608469)
+  - [KNOWER - Overtime (Live Band Session) (Nifty) \[Inner Onitime (Live Drum Session)\]](https://osu.ppy.sh/beatmapsets/983446#taiko/2057888)
+- Tiebreaker
+  - **[Nego\_tiator - Past megalopolis, twilight. (3san) \[A future, so bright.\]](https://osu.ppy.sh/beatmapsets/1097013#taiko/2292280)**
+
 ### Round of 32
 
 **[Download the map pack here! (61 MB)](https://mega.nz/file/9ssTSZ6J#EcuBoSKqbP5jmmXzMIOaq8enDEHwKWJxszktBglurlA)**
@@ -161,6 +186,42 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
   - [DJ Fresh - Gold Dust (Vyiuri) \[Oni\]](https://osu.ppy.sh/beatmapsets/981799#taiko/2054840)
 
 ## Match results
+
+### Round of 32
+
+Saturday, 13 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **nekomusya1234** ![][flag_JP] | **5** | 3 | ![][flag_BR] Skull Kid | [#1](https://osu.ppy.sh/community/matches/62857063) |
+| **ekumea1123** ![][flag_JP] | **5** | 0 | ![][flag_AR] gaston\_2199 | [#1](https://osu.ppy.sh/community/matches/62857859) |
+| **tamakagi2000** ![][flag_JP] | **5** | 1 | ![][flag_KR] BamgoeSN | [#1](https://osu.ppy.sh/community/matches/62858679) |
+| **nananass** ![][flag_JP] | **5** | 3 | ![][flag_CA] Vysha | [#1](https://osu.ppy.sh/community/matches/62858683) |
+| Ethaaaan ![][flag_US] | 4 | **5** | ![][flag_JP] **butter0414** | [#1](https://osu.ppy.sh/community/matches/62860070) |
+| **zkane2** ![][flag_JP] | **5** | 1 | ![][flag_JP] Noko\_BSF | [#1](https://osu.ppy.sh/community/matches/62865867) |
+| **Ikkun** ![][flag_IT] | **5** | 0 | ![][flag_TW] Yuemiao | [#1](https://osu.ppy.sh/community/matches/62868128) |
+| **uone** ![][flag_JP] | **5** | 1 | ![][flag_GB] Horiiizon | [#1](https://osu.ppy.sh/community/matches/62869660) |
+| **owatanimal** ![][flag_JP] | **5** | 1 | ![][flag_PL] bernard351 | [#1](https://osu.ppy.sh/community/matches/62870975) |
+| **iceOC** ![][flag_JP] | **5** | 1 | ![][flag_JP] shakegohan\_jar | [#1](https://osu.ppy.sh/community/matches/62872399) |
+| **AlvaroYL** ![][flag_ES] | **5** | 2 | ![][flag_BR] Kyoumo | [#1](https://osu.ppy.sh/community/matches/62876707) |
+| jyake ![][flag_US] | 2 | **5** | ![][flag_MY] **\[Zeth\]** | [#1](https://osu.ppy.sh/community/matches/62880645) |
+| **HiroK** ![][flag_BR] | **0** | -1 | ![][flag_GR] Genjuro | *win by default* |
+| Loopy542 ![][flag_US] | 2 | **5** | ![][flag_DE] **Minekuchi** | [#1](https://osu.ppy.sh/community/matches/62887301) |
+| **janitore** ![][flag_CA] | **5** | 2 | ![][flag_IT] D3kuu | [#1](https://osu.ppy.sh/community/matches/62889620) |
+| **Ulqui** ![][flag_CL] | **5** | 0 | ![][flag_US] cheese salad | [#1](https://osu.ppy.sh/community/matches/62891833) |
+| Ethaaaan ![][flag_US] | 1 | **5** | ![][flag_BR] **Kyoumo** | [#1](https://osu.ppy.sh/community/matches/62895717) |
+
+Sunday, 14 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **gaston\_2199** ![][flag_AR] | **5** | 2 | ![][flag_US] jyake | [#1](https://osu.ppy.sh/community/matches/62897291) |
+| Loopy542 ![][flag_US] | 3 | **5** | ![][flag_KR] **BamgoeSN** | [#1](https://osu.ppy.sh/community/matches/62900241) |
+| Yuemiao ![][flag_TW] | 1 | **5** | ![][flag_BR] **Skull Kid** | [#1](https://osu.ppy.sh/community/matches/62900371) |
+| **Horiiizon** ![][flag_GB] | **0** | -1 | ![][flag_JP] Noko\_BSF | *win by default* |
+| **shakegohan\_jar** ![][flag_JP] | **0** | -1 | ![][flag_GR] Genjuro | *win by default* |
+| **D3kuu** ![][flag_IT] | **5** | 3 | ![][flag_US] cheese salad | [#1](https://osu.ppy.sh/community/matches/62922827) |
+| bernard351 ![][flag_PL] | 1 | **5** | ![][flag_CA] **Vysha** | [#1](https://osu.ppy.sh/community/matches/62926745) |
 
 ### Group Stage
 
