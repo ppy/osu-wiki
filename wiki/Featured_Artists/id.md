@@ -15,8 +15,6 @@ Penambahan artis unggulan terbaru dipilih secara tidak langsung oleh komunitas o
 
 Sebagian besar lagu yang masuk dalam program ini tidak dilisensikan secara eksklusif untuk osu!. Namun, dalam beberapa kasus ada beberapa artis yang memang membuat lagu mereka khusus untuk osu!, lagu - lagu ini dilabeli dengan *eksklusif osu!* pada laman daftar lagu mereka.
 
-Details for a musician joining the featured artists can be found on the [music licensing](/wiki/Legal/Music_Licensing) article.
-
 Rincian jika ada artis yang ingin bergabung dalam program artis unggulan dapat ditemukan melewati artikel [lisensi musik](/wiki/Legal/Music_Licensing).
 
 ## Rilisan
