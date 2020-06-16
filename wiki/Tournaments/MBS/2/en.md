@@ -23,7 +23,7 @@ The **Mania Beginner's Showdown 2** (***MBS2***) is a worldwide double-eliminati
 | Group Stage | 2020-05-15/2020-05-24 |
 | Round of 32 | 2020-05-30/2020-05-31 |
 | Round of 16 | 2020-06-05/2020-06-07 |
-| Quarterfinals | 2020-06-13/2020-06-14 |
+| Quarterfinals | 2020-06-12/2020-06-14 |
 | Semifinals | 2020-06-20/2020-06-21 |
 | Finals | 2020-06-27/2020-06-28 |
 | Grand Finals | 2020-07-04/2020-07-05 |
@@ -343,6 +343,39 @@ The Mania Beginner's Showdown 2 is run by various community members.
 
 ### High division
 
+#### Quarterfinals
+
+Friday, 12 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| TNKSTC ![][flag_TH] | 3 | **5** | ![][flag_BR] **Konohana Lucia** | [#1](https://osu.ppy.sh/community/matches/62835980 ) |
+
+Saturday, 13 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Kirameiji** ![][flag_SG] | **5** | 2 | ![][flag_CL] joako 321 | [#1](https://osu.ppy.sh/community/matches/62860107) |
+| **\[Hakura\_San\]** ![][flag_TH] | **5** | 3 | ![][flag_TH] -NC KJ- | [#1](https://osu.ppy.sh/community/matches/62869664) |
+| -Tenma- ![][flag_RU] | -1 | **0** | ![][flag_FR] **Djink** | *win by default* |
+| **nalo\_** ![][flag_FR] | **5** | 4 | ![][flag_NZ] Sparxe | [#1](https://osu.ppy.sh/community/matches/62878245 ) |
+| **xelied** ![][flag_FR] | **5** | 1 | ![][flag_ID] ibacot | [#1](https://osu.ppy.sh/community/matches/62878899) |
+| Screeply ![][flag_AR] | 1 | **5** | ![][flag_FR] **SochnyiKokos** | [#1](https://osu.ppy.sh/community/matches/62880989) |
+| **cakeboss05** ![][flag_DE] | **5** | 4 | ![][flag_DE] MonsterFighterP | [#1](https://osu.ppy.sh/community/matches/62885166) |
+
+Sunday, 14 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| \[Hakura\_San\] ![][flag_TH] | 1 | **5** | ![][flag_FR] **Djink** | [#1](https://osu.ppy.sh/community/matches/62909213) |
+| **Lazereed** ![][flag_PH] | **5** | 1 | ![][flag_CH] CrashSmash | [#1](https://osu.ppy.sh/community/matches/62909255) |
+| ReZ\_TB ![][flag_ID] | 0 | **5** | ![][flag_FR] **Paturages** | [#1](https://osu.ppy.sh/community/matches/62910260) |
+| **loli\_seale** ![][flag_SG] | **5** | 4 | ![][flag_FR] DovaCube | [#1](https://osu.ppy.sh/community/matches/62912091) |
+| Wassero ![][flag_GB] | 1 | **5** | ![][flag_PH] **Gerwin13** | [#1](https://osu.ppy.sh/community/matches/62912735) |
+| **Kirameiji** ![][flag_SG] | **5** | 1 | ![][flag_FR] nalo\_ | [#1](https://osu.ppy.sh/community/matches/62913535) |
+| SochnyiKokos ![][flag_FR] | 1 | **5** | ![][flag_PH] **Gerwin13** | [#1](https://osu.ppy.sh/community/matches/62915021) |
+| **cakeboss05** ![][flag_DE] | **5** | 1 | ![][flag_FR] xelied | [#1](https://osu.ppy.sh/community/matches/62922715) |
+
 #### Round of 16
 
 Friday, 5 June 2020:
@@ -631,6 +664,34 @@ Sunday, 24 May 2020:
 - Average rank is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
 
 ### Low division
+
+#### Quarterfinals
+
+Saturday, 13 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **mickeyparm** ![][flag_TH] | **0** | -1 | ![][flag_PH] Admiral Cliff | *win by default* |
+| **Brown918** ![][flag_HK] | **0** | -1 | ![][flag_RU] Brittany Miller | *win by default* |
+| Arbusion ![][flag_AU] | 1 | **5** | ![][flag_SE] **Mestro** | [#1](https://osu.ppy.sh/community/matches/62869684 ) |
+| BubbleTeaBunny ![][flag_SG] | 3 | **5** | ![][flag_DE] **Quadrumplayer** | [#1](https://osu.ppy.sh/community/matches/62870949) |
+| FadingAway ![][flag_RU] | **0** | -1 | ![][flag_LV] Lceanu | *win by default* |
+| Ilikecook ![][flag_PL] | -1 | **0** | ![][flag_RU] **Alex\_Terrol** | *win by default* |
+| **Cychloryn** ![][flag_US] | **0** | -1 | ![][flag_ID] xHirayuki | *win by default* |
+| mcgen ![][flag_US] | 0 | **5** | ![][flag_SE] **ump\_me\_daddy** | [#1](https://osu.ppy.sh/community/matches/62882964) |
+
+Sunday, 14 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Quadrumplayer** ![][flag_DE] | **5** | 2 | ![][flag_RU] FadingAway | [#1](https://osu.ppy.sh/community/matches/62909325) |
+| Deadpulse ![][flag_PH] | -1 | **0** | ![][flag_PL] **MAREK MARUCHA** | *win by default* |
+| QEpicAce ![][flag_DE] | 0 | **5** | ![][flag_MY] **Anamneses** | [#1](https://osu.ppy.sh/community/matches/62913486) |
+| **mickeyparm** ![][flag_TH] | **5** | 0 | ![][flag_US] Cychloryn | [#1](https://osu.ppy.sh/community/matches/62917271) |
+| **MAREK MARUCHA** ![][flag_PL] | **0** | -1 | ![][flag_SE] ump\_me\_daddy | *win by default* |
+| Alex\_Terrol ![][flag_RU] | 1 | **5** | ![][flag_HK] **Brown918** | [#1](https://osu.ppy.sh/community/matches/62917408) |
+| **KorZ\[TH\]** ![][flag_TH] | **5** | 3 | ![][flag_US] tyud | [#1](https://osu.ppy.sh/community/matches/62919240) |
+| **Ammy** ![][flag_MX] | **5** | 1 | ![][flag_NL] Nielz | [#1](https://osu.ppy.sh/community/matches/62922790) |
 
 #### Round of 16
 
