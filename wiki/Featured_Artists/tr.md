@@ -27,13 +27,13 @@ Her yıl yeni çıkan featured artistler:
 - **2019:** 31
 - **2020:** *belli değil*
 
-Yeni featured artistler haftalık olarak osu!'nun [haber kaynağında](https://osu.ppy.sh/home/news) duyurulacak. Çoğu duyuru sanatçının lisanslı şarkılarının bir listesini ve onların featured artist sayfasına bir linki içerir, lakin bazı duyurular mapleme yarışmaları veya [Mappers' Guild](/wiki/Mappers_Guild) tarafından oluşturulan beatmapler ile eşleştirilir. 
+Yeni featured artistler haftalık olarak osu!'nun [haber kaynağında](https://osu.ppy.sh/home/news) duyurulacak. Çoğu duyuru sanatçının lisanslı şarkılarının bir listesini ve onların featured artist sayfasına bir linki içerir, lakin bazı duyurular mapleme yarışmaları veya [Mappers' Guild](/wiki/Mappers_Guild) tarafından oluşturulan beatmapler ile eşleştirilir.
 
 ## Topluluk kullanımı
 
 Beatmapperlar featured artist parçalarını kullanarak beatmap oluşturmaları için teşvik edilir. Bu parçalar [zamanlama](/wiki/Beatmap_Editor/Timing) verileri ile birlikte sağlanır ve halihazırda osu! içerisinde kullanımı aklanmıştır, ki bu kullanıcıların endişelenmeden derhal maplemeye atlamasını sağlar. [osu!lazer](https://github.com/ppy/osu/releases) olarak isimlendirilen, osu!'nun geliştirme aşamasındaki sürümü oyun içerisinde bu mapleri belirgin bir şekilde işaretleyecektir.
 
-[Topluluk yarışmaları listesinde](https://osu.ppy.sh/community/contests) yayımlanan tüm mapleme yarışmaları, [Aylık Beatmapleme Yarışması](/wiki/Contests/Monthly_Beatmapping_Contest) *(Monthly Beatmapping Contest)* ve [Mapleme Olimpiyatları](/wiki/Contests#osu!-mapping-olympiad) *(Mapping Olympiad)* gibi, katılımcıların featured artist şarkılarını maplemesini gerektirir. Bazı topluluk tarafından yürütülen yarışmalar da bu şarkıları kullanır.
+[Topluluk yarışmaları listesinde](https://osu.ppy.sh/community/contests) yayımlanan tüm mapleme yarışmaları, [Aylık Beatmapleme Yarışması](/wiki/Contests/Monthly_Beatmapping_Contest) (*Monthly Beatmapping Contest*) ve [Mapleme Olimpiyatları](/wiki/Contests#osu!-mapping-olympiad) (*Mapping Olympiad*) gibi, katılımcıların featured artist şarkılarını maplemesini gerektirir. Bazı topluluk tarafından yürütülen yarışmalar da bu şarkıları kullanır.
 
 Featured artist içeriğinin maplenmesini teşvik etmek için, topluluğun üyeleri, mapperlara diğer mapperlarla birlikte katılabilecekleri MMO tarzı bir görev sistemi olan [Mappers' Guild](/wiki/Mappers_Guild)'i oluşturdu. Beatmaplerin oluşturulmaları ve derecelendirilmeleri, üç kademeli profil rozetleri dahil, hediyelerle ödüllendirilirler. Mapperlar [Mappers' Guild web sayfasını](https://mappersguild.com/) ziyaret ederek loncaya katılabilirler.
 
