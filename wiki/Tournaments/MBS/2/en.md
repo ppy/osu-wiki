@@ -151,6 +151,30 @@ The Mania Beginner's Showdown 2 is run by various community members.
 
 ### High division
 
+#### Semifinals
+
+**[Download the mappack here! (122 MB)](https://mega.nz/file/mSwGnSya#2Q6Orkr9dd2DsPVSYli9BbPdTBOghvUbsxAMniO__iw)**
+
+- FreeMod
+  - [GTA feat. Sam Bruno - Red Lips (Mendus Remix) (Hydria) \[Hard (SV)\]](https://osu.ppy.sh/beatmapsets/728227#mania/1537498)
+  - [Noisestorm - Breakout (feat. Foreign Beggars) (Leniane) \[The Great Escape\]](https://osu.ppy.sh/beatmapsets/864158#mania/1807423)
+  - [cubesato - April Showers (Raveille) \[Drizzling (NSV)\]](https://osu.ppy.sh/beatmapsets/749117#mania/2164001)
+  - [Silent Siren - Cherry Bomb (Raveille) \[Exciting!!\]](https://osu.ppy.sh/beatmapsets/1139729#mania/2380746)
+  - [DJ'TEKINA//SOMETHING - Internet bitch P\*Light Remix (juankristal) \[Stage 3: E-girl\]](https://osu.ppy.sh/beatmapsets/1076027#mania/2251585)
+  - [Nakamura Meiko - Ordinary World (arcwinolivirus) \[4K Reminiscence\]](https://osu.ppy.sh/beatmapsets/576568#mania/1220610)
+  - [An - artcore JINJA (Abraxos) \[Tranquility\_Lv.18\]](https://osu.ppy.sh/beatmapsets/409503#mania/888945)
+  - [Rush - Malignant Narcissism (Pope Gadget) \[R40\]](https://osu.ppy.sh/beatmapsets/444460#mania/954903)
+  - [Various Artists - Pack of Things (Rus Tea) \[Beatmania IIDX (Cream Puff) - Mermaid Girl (Ryu\* Remix)\]](https://osu.ppy.sh/beatmapsets/601787#mania/1301099)
+  - [DJKurara - Japanese Transformation (XeoStyle) \[Todes' Hard\]](https://osu.ppy.sh/beatmapsets/520438#mania/1122649)
+  - [Seiryu - AO-INFINITY (Tailsdk) \[White Hard\]](https://osu.ppy.sh/beatmapsets/934974#mania/1951977)
+  - [hyi - misery (Janko) \[decompose\]](https://osu.ppy.sh/beatmapsets/855631#mania/1787771)
+  - [Fractal Dreamers - Celestial Horizon (TheToaphster) \[Haven\]](https://osu.ppy.sh/beatmapsets/761380#mania/1601033)
+  - [Stellabee - You're So Warm (Civilization) \[Heartache\]](https://osu.ppy.sh/beatmapsets/939432#mania/1962238)
+  - [Genesis x Nemesis - Justice OR Voice (Ryu Sei) \[MEGA's Insane\]](https://osu.ppy.sh/beatmapsets/1007489#mania/2333136)
+  - [Tanya Degurechaff (CV: Yuki Aoi) - Los! Los! Los! (arcwinolivirus) \[Insane\]](https://osu.ppy.sh/beatmapsets/584316#mania/1236183)
+- Tiebreaker
+  - **[Seiryu - 8a55 ([Shana Lesus]) \[Undiscovered oasis\]](https://osu.ppy.sh/beatmapsets/993817#mania/2078111)**
+
 #### Quarterfinals
 
 **[Download the mappack here! (88 MB)](https://mega.nz/file/mvJChARS#9550w7Z97pfmHqjcLkVXmfam7pHUUbJFwmzyvYmQJQk)**
@@ -245,6 +269,30 @@ The Mania Beginner's Showdown 2 is run by various community members.
   - [Silentroom - NULCTRL (Raveille) \[Stage 5: Command\]](https://osu.ppy.sh/beatmapsets/1162328#mania/2424667)
 
 ### Low division
+
+#### Semifinals
+
+**[Download the mappack here! (90 MB)](https://mega.nz/file/mXwRnILB#FaKD-E5N37YSBvaU_i4EEiLeLpdNJqCa794EtAxkxkQ)**
+
+- FreeMod
+  - [MYTK - fly (Tantei B) \[Stylish Veery\]](https://osu.ppy.sh/beatmapsets/1112778#mania/2324766)
+  - [doxed - Agri (ZayyKen) \[SVorzando\]](https://osu.ppy.sh/beatmapsets/1193309#mania/2486422)
+  - [Rag'n'Bone Man - Human (Hydria) \[LN\]](https://osu.ppy.sh/beatmapsets/588277#mania/1245501)
+  - [An - Saigo (juankristal) \[Hard\]](https://osu.ppy.sh/beatmapsets/609463#mania/1559658)
+  - [Cardboard Box - The Limit Does Not Exist (Asherz007) \[Light\]](https://osu.ppy.sh/beatmapsets/704152#mania/1491724)
+  - [The Winking Owl - Here For You (\[ A v a l o n \]) \[Hard\]](https://osu.ppy.sh/beatmapsets/552862#mania/1170740)
+  - [DJ YOSHITAKA feat. Hoshino Kanako - MAX LOVE (Frizu) \[S.Star's 4K HD\]](https://osu.ppy.sh/beatmapsets/804753#mania/1689408)
+  - [P\*Light feat. mow\*2 - OVERDRIVERS (Leonita) \[ADVANCED\]](https://osu.ppy.sh/beatmapsets/563569#mania/1288525)
+  - [Seiryu - Critical Crystal (Hydria) \[Hard\]](https://osu.ppy.sh/beatmapsets/635221#mania/1433609)
+  - [ARForest - Metheus (ZayyKen) \[BulleBoot's Normal 8 [MBS 2 Edit]\]](https://osu.ppy.sh/beatmapsets/1193585#mania/2486874)
+  - [Camellia - K.Y.A.F.A. (Wonki) \[Song Hana's Hard\]](https://osu.ppy.sh/beatmapsets/468440#mania/1050089)
+  - [sun3 - Messier 333 (inteliser) \[INTERMEDIATE\]](https://osu.ppy.sh/beatmapsets/354621#mania/781089)
+  - [mmry - Lunar Arrow (IceDynamix) \[leaving a trail of light (HARD Lv.8)\]](https://osu.ppy.sh/beatmapsets/972098#mania/2035418)
+  - [Blitz Lunar - Electra Vulva (riktoi) \[Retro\]](https://osu.ppy.sh/beatmapsets/842914#mania/1763669)
+  - [Fractal Dreamers - Blue Haven (\[ A v a l o n \]) \[4K Intermediate\]](https://osu.ppy.sh/beatmapsets/908108#mania/1895079)
+  - [t+pazolite - UMMU (Tofu1222) \[Stan's Hyper Lv.10\]](https://osu.ppy.sh/beatmapsets/910428#mania/1899828)
+- Tiebreaker
+  - **[Camellia - Artificial Snow (Dergo) \[ash's hard\]](https://osu.ppy.sh/beatmapsets/1026319#mania/2147852)**
 
 #### Quarterfinals
 
