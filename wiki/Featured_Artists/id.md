@@ -13,7 +13,7 @@ Daftar artis unggulan yang terdaftar bisa dilihat karyanya [melewati laman situs
 
 Penambahan artis unggulan terbaru dipilih secara tidak langsung oleh komunitas osu!. Jika mapper membuat sebuah map dan map tersebut ranked, maka artis yang dipakai di map tersebut dapat dijangkau oleh [osu!team](/wiki/People/The_Team) untuk menawar dan mendiskusikan program artis unggulan. Namun, untuk segelintir artis mereka diundang menjadi artis unggulan berdasarkan faktor - faktor lain, seperti daya tarik kuat dari artis tersebut pada komunitas beatmap osu!.
 
-Sebagian besar lagu yang masuk dalam program ini tidak dilisensikan secara eksklusif untuk osu!. Namun, dalam beberapa kasus ada beberapa artis yang memang membuat lagu mereka khusus untuk osu!, lagu - lagu ini dilabeli dengan *osu! exclusive* pada laman daftar lagu mereka.
+Sebagian besar lagu yang masuk dalam program ini tidak dilisensikan secara eksklusif untuk osu!. Namun, dalam beberapa kasus ada beberapa artis yang memang membuat lagu mereka khusus untuk osu!, lagu - lagu ini dilabeli dengan *eksklusif osu!* pada laman daftar lagu mereka.
 
 Details for a musician joining the featured artists can be found on the [music licensing](/wiki/Legal/Music_Licensing) article.
 
