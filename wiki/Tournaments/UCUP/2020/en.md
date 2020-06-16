@@ -83,7 +83,7 @@ The Ulat Bulu Cup 2020 is run by various community members.
 | **A** | Em1ruBigDumb | A B B C | awan fanclub | Eleftheria | lbnoob |
 | **B** | retards united | sumippe's simp | pemain\_osu2020 | DARAWET ANJENG | SotarksNoJutsu |
 | **C** | Tim Ayam | (; ･`д･´) | Press 3 Fs to pay respects | Hulat | host toxic ccd |
-| **D** | terserah | Kowok Gamers | WHOMEGALUL | AutisNgopi4Head | ABC Team |
+| **D** | terserah | Kowok Gamers | WHOMEGALUL | AutisNgopi4Hed | ABC Team |
 
 ## Mappools
 
@@ -162,7 +162,7 @@ Wednesday, 3 June 2020:
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **terserah** | **6** | 1 | AutisNgopi4Hed | [#1](https://osu.ppy.sh/community/matches/62451359) |
-| AutisNgopi4Head | 0 | **6** | **Kowok Gamers** | [#1](https://osu.ppy.sh/community/matches/62452818) |
+| AutisNgopi4Hed | 0 | **6** | **Kowok Gamers** | [#1](https://osu.ppy.sh/community/matches/62452818) |
 
 Thursday, 4 June 2020:
 
@@ -178,7 +178,7 @@ Friday, 5 June 2020:
 | **Kowok Gamers** | **6** | 2 | WHOMEGALUL | [#1](https://osu.ppy.sh/community/matches/62534000) |
 | ABC Team | -1 | **0** | **terserah** | *win by default* |
 | (; ･`д･´) | 4 | **6** | **host toxic ccd** | [#1](https://osu.ppy.sh/community/matches/62534546) |
-| **sumippe's simp** | **6** | 3 | pemain_osu2020 | [#1](https://osu.ppy.sh/community/matches/62535904) |
+| **sumippe's simp** | **6** | 3 | pemain\_osu2020 | [#1](https://osu.ppy.sh/community/matches/62535904) |
 | **A B B C** | **6** | 0 | lbnoob | [#1](https://osu.ppy.sh/community/matches/62538327) |
 | host toxic ccd | 1 | **6** | **Press 3 Fs to pay respects** | [#1](https://osu.ppy.sh/community/matches/62538801) |
 
@@ -193,7 +193,7 @@ Sunday, 7 June 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **united** | **6** | 2 | Sumippe's Simp | [#1](https://osu.ppy.sh/community/matches/62615133) |
+| **retards united** | **6** | 2 | Sumippe's Simp | [#1](https://osu.ppy.sh/community/matches/62615133) |
 | **Tim Ayam** | **0** | -1 | (; ･`д･´) | *win by default* |
 | **awan fanclub** | **6** | 1 | Em1ruBigDumb | [#1](https://osu.ppy.sh/community/matches/62620778) |
 | **DARAWET ANJENG** | **6** | 4 | sumippe's simp | [#1](https://osu.ppy.sh/community/matches/62624312) |
