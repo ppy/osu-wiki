@@ -169,6 +169,34 @@ Generous donations from ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034
 
 ## Match results
 
+### Round of 16
+
+Saturday, 13 June 2020
+
+| Team 1 | | | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Fashionably Late** | **5** | 3 | Oota e-gamers | [#1](https://osu.ppy.sh/community/matches/62858504) |
+| **Click the Circles to the Beat** | **5** | 4 | Degeneracy Gang | [#1](https://osu.ppy.sh/community/matches/62872370) |
+| PoggersFish | 1 | **5** | **Bats from Wuhan** | [#1](https://osu.ppy.sh/community/matches/62876227) |
+| Tablet Slayers | -1 | **0** | **osu!Coin** | Win by default |
+| PVC PIPES for survival situations | 1 | **5** | **Stunter in the Toilet** | [#1](https://osu.ppy.sh/community/matches/62880399) |
+| playstyl'D | 1 | **5** | **No Name** | [#1](https://osu.ppy.sh/community/matches/62884700) |
+| ora ora ora | 2 | **5** | **Peko Peko** | [#1](https://osu.ppy.sh/community/matches/62887521) |
+| Australia's OWC Team on Smurf Accounts | 3 | **5** | **Young Builders** | [#1](https://osu.ppy.sh/community/matches/62894152) |
+| **Tapa na Cara** | **0** | -1 | SLAVA ZEMLYANAM | Win by default |
+
+Sunday, 14 June 2020
+
+| Team 1 | | | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Asia-Pacific** | **5** | 3 | Persona 3 FES | [#1](https://osu.ppy.sh/community/matches/62901271) |
+| Mouse Drift | 1 | **5** | **KuroNeko** | [#1](https://osu.ppy.sh/community/matches/62903291) |
+| **OSBT Squad** | **5** | 0 | Desu | [#1](https://osu.ppy.sh/community/matches/62913815) |
+| **WeHatePP** | **5** | 4 | Alek & Friends | [#1](https://osu.ppy.sh/community/matches/62922636) |
+| **Last Minute** | **5** | 2 | Natas | [#1](https://osu.ppy.sh/community/matches/62922739) |
+| WeLoveKöfte | 4 | **5** | G Nome | [#1](https://osu.ppy.sh/community/matches/62923710) |
+| **Chuchichäschtli** | **5** | 3 | Ugga Ugga ⊂(( o・ω・))⊃ | [#1](https://osu.ppy.sh/community/matches/62926923) |
+
 ### Round of 32
 
 Friday, 5 June 2020:
