@@ -5,7 +5,7 @@ outdated: true
 
 # osu!supporter
 
-*Siteden osu!support sayfasına gitmek için, bakınız: [oyunu destekle](https://osu.ppy.sh/home/support)*
+*Siteden osu!supporter sayfasına gitmek için, bakınız: [oyunu destekle](https://osu.ppy.sh/home/support)*
 
 ## Ayrıcalıklar
 
