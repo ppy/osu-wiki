@@ -4,7 +4,7 @@ Bu kılavuz, başta PS2, GCN/Wii, Xbox 360, vs. gibi konsollardan olmak üzere, 
 
 ## Başlamadan önce
 
-Bu kılavuz birkaç şeyi gerektirecek. Bunlar, onlara sahip değilseniz indirmeniz ya da onlar hakkında daha fazla bilgi sahibi olmanız için aşağıda sıralanmıştır:
+Bu kılavuz birkaç şeyi gerektirecek. Bunlar, onlara sahip olmamanız ihtimaline karşı onları indirebilmeniz ya da onlar hakkında daha fazla bilgi sahibi olabilmeniz için aşağıda sıralanmıştır:
 
 - **foobar2000.** Bu kılavuz, yazıldığı anda en güncel versiyon olan v1.1.15 versiyonunu kullanmaktadır. [Buradan](https://foobar2000.org/download) indirin.
 - **vgmstream çözücü eklentisi.** Bu kılavuz foobar2000 eklentisini (kullanılan versiyon: r1002) kullanacaktır, ancak bağımsız versiyonunu kullanmayı biliyorsanız, onu kullanabilirsinz. [Buradan](https://foobar2000.org/components/view/foo_input_vgmstream) indirin. Bağımsız versiyonu [burada](https://vgmstream.losno.co).
