@@ -12,13 +12,13 @@ outdated: true
 
 *osu!supporter olarak aldığınız ayrıcalıkların listesi için, bakınız: [oyunu destekle](https://osu.ppy.sh/home/support)*
 
-Kısacası, osu!supporter tagı satın alarak, fazladan ayrıcalıklara sahip olunmasının yanı sıra oyunun geliştirilmesini direk olarak desteklemiş olacaksınız. Osu!supporter sayesinde elde edeceğiniz fazladan ayrıcalıkların oyunun oynayışına, performansına, ya da skora herhangi bir şekilde etki göstermeyeceği aklınızda bulunmalı.
+Kısacası, osu!supporter etiketi satın alarak, bazı extra ayrıcalıkların yanı sıra oyunun geliştirilmesini doğrudan desteklemiş olacaksınız. osu!supporter sayesinde ettiğiniz extra ayrıcalıkların oynanışı, performansını, ya da skoru herhangi bir şekilde etkilemeyeceğini aklınızda tutmalısınız.
 
 ## osu!supporter elde etmek
 
 ![osu!store ürün fotoğrafı](img/store-product.jpg "osu!store'dan, osu!supporter için ürün fotoğrafı")
 
-osu!supporter elde etmek için, giriş yapın (ya da [üye olun](/wiki/sign_up)), ve ardından [mağaza sayfası](https://osu.ppy.sh/store/products/supporter-tag)'na gidin. Kaydırıcıyı ya da aylık tuşları (kaydırıcının altında) kullanarak osu!supporter tagınızın süresini seçiniz. Farklı bir süre ödeyeceğiniz miktarı değiştirecektir. Kullanılan para birimi Amerika Birleşik Devletleri dolarıdır (USD). Eğer ülkeniz farklı bir para birimi kullanıyor ise, lütfen, [OANDA](https://www.oanda.com/currency/converter/) ya da [Google](https://www.google.com/search?q=usd+exchange+rate) gibi para birimi dönüştürücülerini kullanarak ödeyeceğiniz ücrete bakın. osu!store sayfasında sunulan ücretler tekil bireysel hesaplar içindir.
+osu!supporter elde etmek için, giriş yapın (ya da [üye olun](/wiki/sign_up)), ve ardından [mağaza sayfası](https://osu.ppy.sh/store/products/supporter-tag)'na gidin. Kaydırıcıyı ya da aylık tuşları (kaydırıcının altında) kullanarak osu!supporter etiketinizin süresini seçiniz. Farklı bir süre ödeyeceğiniz miktarı değiştirecektir. Kullanılan para birimi Amerika Birleşik Devletleri dolarıdır (USD). Eğer ülkeniz farklı bir para birimi kullanıyor ise, lütfen, [OANDA](https://www.oanda.com/currency/converter/) ya da [Google](https://www.google.com/search?q=usd+exchange+rate) gibi para birimi dönüştürücülerini kullanarak ödeyeceğiniz ücrete bakın. osu!store sayfasında sunulan ücretler tekil bireysel hesaplar içindir.
 
 ### Süreyi seçmek
 
@@ -53,8 +53,8 @@ osu!web'de, osu!supporter rozeti avatarınızın yanında ve kullanıcı kartın
 
 ### Supporter durumunuzu kontrol etmek
 
-![Üç ay süre kalan osu!spporter tagı](img/status.jpg "Üç ay süre kalan osu!spporter tagı")
+![Üç ay süre kalan osu!spporter etiketi](img/status.jpg "Üç ay süre kalan osu!spporter etiketi")
 
 *Not: Bu bölüm sadece osu!supporter elde ettiğinizde gözükür.*
 
-Geriye kalan osu!supporter durumunuza, toplam katkınıza ve tag satın alımlarınıza bakmak için, [oyunu destekle](https://osu.ppy.sh/home/support) sayfasına gidin ve aşağı inerek yukarıda ki resimdekine benzer bir bölüm göreceksiniz.
+Geriye kalan osu!supporter durumunuza, toplam katkınıza ve etiket satın alımlarınıza bakmak için, [oyunu destekle](https://osu.ppy.sh/home/support) sayfasına gidin ve aşağı inerek yukarıda ki resimdekine benzer bir bölüm göreceksiniz.
