@@ -8,7 +8,7 @@ We're proud to welcome the critically acclaimed progressive metal act **Ne Obliv
 
 ![](https://assets.ppy.sh/artists/86/header.jpg)
 
-Turning heads among the top echelon beatmapping and player community since [mithiew](https://osu.ppy.sh/users/2571893)'s highly vaunted creation set to [*Painters of the Tempest (Part II): Triptych Lux*](https://osu.ppy.sh/beatmapsets/724192/#osu/1529189) during early 2018, [**Ne Obliviscaris**](https://osu.ppy.sh/beatmaps/artists/86) is an Australian metal band making huge waves in the scene since 2003 with their unique blend of progressive and extreme metal.
+Turning heads among the top echelon beatmapping and player community since [mithew](https://osu.ppy.sh/users/2571893)'s highly vaunted creation set to [*Painters of the Tempest (Part II): Triptych Lux*](https://osu.ppy.sh/beatmapsets/724192/#osu/1529189) during early 2018, [**Ne Obliviscaris**](https://osu.ppy.sh/beatmaps/artists/86) is an Australian metal band making huge waves in the scene since 2003 with their unique blend of progressive and extreme metal.
 
 Continuing a trend among tried and true players, **Ne Obliviscaris** joins the likes of **Æther Realm** and **Rivers of Nihil** as some of the community's most widely adored metal acts. We're proud to support this longstanding tradition with a cursory addition of **15** new tracks from these insanely talented shredders, including ones you know and love.
 
