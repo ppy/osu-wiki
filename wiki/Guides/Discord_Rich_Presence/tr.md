@@ -4,14 +4,14 @@
 
 ## Bu ne demek?
 
-Bu artık Discord sunucularının içinde osu! çok oyunculu odalarınızın reklamını yapabileceğiniz ve bu odalara katılabileceğiniz, arkadaşlarınızın osu!'da ne oynadığını görebileceğiniz, ya da devam etmekte olan oyunlara bile katılabileceğiniz anlamına geliyor! Ayrıca sunucularınızı paylaştığınız oyuncuları oyun içinde de seyredebilirsiniz.
+Bu artık Discord sunucularının içinde osu! çok oyunculu odalarınızın reklamını yapabileceğiniz ve bu odalara katılabileceğiniz, arkadaşlarınızın osu!'da ne oynadığını görebileceğiniz, ya da devam etmekte olan oyunlara bile katılabileceğiniz anlamına geliyor! Ayrıca aynı sunucuyu paylaştığınız kişileri oyun içinde de seyredebilirsiniz.
 
 ## Nasıl çalışır?
 
-- **Öncelikle oyun istemcisini açarak oyunu güncelleyin!** Bu yeni süslü Discord olayı yalnızca osu!'nun özel Cadılar Bayramı versiyonu ve ondan sonraki versiyonlarında çalışır - eğer bunu yapmazsanız hiçbir şekilde **çalışmaz**.
+- **Öncelikle oyun istemcisini açarak oyunu güncelleyin!** Bu yeni süslü Discord olayı yalnızca osu!'nun özel Cadılar Bayramı sürümü ve ondan sonraki sürümlerinde çalışır - eğer bunu yapmazsanız hiçbir şekilde **çalışmaz**.
 - Discord'un osu!'yu kayıtlı bir oyun olarak algıladığından emin olun - bunu genellikle varsayılan olarak yapar, o yüzden üstüne çok düşünmenize gerek yok. Bunu Discord seçenekleri menüsünde `Oyun Etkinliği` sekmesinde kontrol edebilirsin.
-- `Oyun etkinliği` sekmesindeki `Şu anda oynanan oyunu durum mesajı olarak göster` seçeneğini aktifleştirin. Bu, başkaları tarafından reklamı yapılan oyunlara katılmanız için gerekli değildir, ancak sizin kendi oyununuzun reklamını yapabilmeniz için gereklidir.
-- Herhangi bir çok oyunculu bir oda açın, yerel Discord uğrağınıza gidin ve şu butona tıklayın ![the shiny green button in front of the plus sign](img/shiny-green-button.jpg). Eğer oyunu daha yeni açtıysanız ortaya çıkması birkaç saniye alabilir.
+- `Oyun Etkinliği` sekmesindeki `Şu anda oynanan oyunu durum mesajı olarak göster` seçeneğini aktifleştirin. Bu, başkaları tarafından reklamı yapılan oyunlara katılmanız için gerekli değildir, ancak sizin kendi oyununuzun reklamını yapabilmeniz için gereklidir.
+- Herhangi bir çok oyunculu bir oda açın, yerel Discord uğrağınıza gidin ve şu butona tıklayın ![artı işaretinin önündeki parlak yeşil buton](img/shiny-green-button.jpg). Eğer oyunu daha yeni açtıysanız ortaya çıkması birkaç saniye alabilir.
 
 İşte aksiyon sırasında çekilmiş [bir videosu](https://assets.ppy.sh/media/halloween-2017/themoon.mp4).
 
@@ -31,7 +31,7 @@ Bu buton sihirli bir şekilde anlık olarak beatmap oynayan kişileri de izlemen
 
 ## Bilinen sorunlar
 
-Eğer Discord Rich Presence davetlerini çok sık gönderirseniz, Discord tarafından aşağıdakine benzer bir geçici hata mesajı ile karşılaşabilirsiniz.
+Eğer Discord Rich Presence davetlerini çok sık gönderirseniz, Discord tarafından aşağıdakine benzer bir hata mesajı ile geçici olarak karşılaşabilirsiniz:
 
 ![](img/slow-down.jpg)
 
