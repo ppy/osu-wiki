@@ -34,7 +34,7 @@ Bu ekrandan tek seferde sadece bir kişiye osu!supporter hediye edebilirsiniz. B
 
 ![osu!store mağaza sepeti](img/shopping-cart.jpg "içinde flyte için osu!supporter bulunan bir osu!store mağaza sepeti")
 
-Satın alımı yapmak için hazır olduğunuz zaman, [mağaza sepeti](https://osu.ppy.sh/store/cart)'nize gidin ve `Ödeme` tuşuna basın. Ardından adımları takip ederek ödemenizi gerçekleştirin.
+Satın alımı yapmak için hazır olduğunuz zaman, [mağaza sepetinize](https://osu.ppy.sh/store/cart) ve `Ödeme` tuşuna basın. Ardından adımları takip ederek ödemenizi gerçekleştirin.
 
 ## Sonuç
 
