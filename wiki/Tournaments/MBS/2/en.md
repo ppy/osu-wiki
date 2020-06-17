@@ -397,7 +397,7 @@ Friday, 12 June 2020:
 
 | Player 1 |  |  | Player 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| TNKSTC ![][flag_TH] | 3 | **5** | ![][flag_BR] **Konohana Lucia** | [#1](https://osu.ppy.sh/community/matches/62835980 ) |
+| TNKSTC ![][flag_TH] | 3 | **5** | ![][flag_BR] **Konohana Lucia** | [#1](https://osu.ppy.sh/community/matches/62835980) |
 
 Saturday, 13 June 2020:
 
@@ -406,7 +406,7 @@ Saturday, 13 June 2020:
 | **Kirameiji** ![][flag_SG] | **5** | 2 | ![][flag_CL] joako 321 | [#1](https://osu.ppy.sh/community/matches/62860107) |
 | **\[Hakura\_San\]** ![][flag_TH] | **5** | 3 | ![][flag_TH] -NC KJ- | [#1](https://osu.ppy.sh/community/matches/62869664) |
 | -Tenma- ![][flag_RU] | -1 | **0** | ![][flag_FR] **Djink** | *win by default* |
-| **nalo\_** ![][flag_FR] | **5** | 4 | ![][flag_FI] Haadez | [#1](https://osu.ppy.sh/community/matches/62878245 ) |
+| **nalo\_** ![][flag_FR] | **5** | 4 | ![][flag_FI] Haadez | [#1](https://osu.ppy.sh/community/matches/62878245) |
 | **xelied** ![][flag_FR] | **5** | 1 | ![][flag_ID] ibacot | [#1](https://osu.ppy.sh/community/matches/62878899) |
 | Screeply ![][flag_AR] | 1 | **5** | ![][flag_FR] **SochnyiKokos** | [#1](https://osu.ppy.sh/community/matches/62880989) |
 | **cakeboss05** ![][flag_DE] | **5** | 4 | ![][flag_DE] MonsterFighterP | [#1](https://osu.ppy.sh/community/matches/62885166) |
@@ -721,7 +721,7 @@ Saturday, 13 June 2020:
 | --: | :-: | :-: | :-- | :-- |
 | **mickeyparm** ![][flag_TH] | **0** | -1 | ![][flag_PH] Admiral Cliff | *win by default* |
 | **Brown918** ![][flag_HK] | **0** | -1 | ![][flag_RU] Brittany Miller | *win by default* |
-| Arbusion ![][flag_AU] | 1 | **5** | ![][flag_SE] **Mestro** | [#1](https://osu.ppy.sh/community/matches/62869684 ) |
+| Arbusion ![][flag_AU] | 1 | **5** | ![][flag_SE] **Mestro** | [#1](https://osu.ppy.sh/community/matches/62869684) |
 | BubbleTeaBunny ![][flag_SG] | 3 | **5** | ![][flag_DE] **Quadrumplayer** | [#1](https://osu.ppy.sh/community/matches/62870949) |
 | FadingAway ![][flag_RU] | **0** | -1 | ![][flag_LV] Lceanu | *win by default* |
 | Ilikecook ![][flag_PL] | -1 | **0** | ![][flag_RU] **Alex\_Terrol** | *win by default* |
