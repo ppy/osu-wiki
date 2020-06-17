@@ -79,6 +79,7 @@ tags:
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | 葡萄牙语 | 聊天室管理员 |
 | ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | 西班牙语, 加泰罗尼亚语 | 聊天室管理员 |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | 西班牙语 | 聊天室管理员, wiki 管理 |
+| ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | 德语 | 论坛管理员 |
 | ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069) | 韩语 | 聊天室管理员 |
 | ![][flag_JP] [S o h](https://osu.ppy.sh/users/2234772) | 日语 | 聊天室管理员 |
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | 瑞典语, 西班牙语 | 聊天室管理员, 谱面管理员 |
