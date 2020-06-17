@@ -18,7 +18,7 @@ Give them a listen and see for yourself:
 
 ### Painters of the Tempest (Part II): Triptych Lux
 
-Check out [this classic, critically acclaimed set](https://osu.ppy.sh/beatmapsets/724192) by [mithiew](https://osu.ppy.sh/users/2571893)!
+Check out [this classic, critically acclaimed set](https://osu.ppy.sh/beatmapsets/724192) by [mithew](https://osu.ppy.sh/users/2571893)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/86/previews/2230.mp3" type="audio/mpeg">
