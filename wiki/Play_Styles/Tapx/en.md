@@ -8,6 +8,6 @@ Streaming via tapx is performed by alternating between tapping a pen onto a tabl
 
 *Note: the input overlay will show all tablet taps as `M1`
 
-Tapx is less of a person personal preference/advantageous tapping style, and more of a necessity to tablet-only players as it is widely recognized that streaming using only tablet taps is practically impossible.
+Tapx is less of a personal preference/advantageous tapping style, and more of a necessity to tablet-only players as it is widely recognized that streaming using only tablet taps is practically impossible.
 
 *Notice: even though players will argue, there is no one tapping style that is better than the other: it's all down to personal preference.*
