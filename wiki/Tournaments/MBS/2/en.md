@@ -406,7 +406,7 @@ Saturday, 13 June 2020:
 | **Kirameiji** ![][flag_SG] | **5** | 2 | ![][flag_CL] joako 321 | [#1](https://osu.ppy.sh/community/matches/62860107) |
 | **\[Hakura\_San\]** ![][flag_TH] | **5** | 3 | ![][flag_TH] -NC KJ- | [#1](https://osu.ppy.sh/community/matches/62869664) |
 | -Tenma- ![][flag_RU] | -1 | **0** | ![][flag_FR] **Djink** | *win by default* |
-| **nalo\_** ![][flag_FR] | **5** | 4 | ![][flag_NZ] Sparxe | [#1](https://osu.ppy.sh/community/matches/62878245 ) |
+| **nalo\_** ![][flag_FR] | **5** | 4 | ![][flag_FI] Haadez | [#1](https://osu.ppy.sh/community/matches/62878245 ) |
 | **xelied** ![][flag_FR] | **5** | 1 | ![][flag_ID] ibacot | [#1](https://osu.ppy.sh/community/matches/62878899) |
 | Screeply ![][flag_AR] | 1 | **5** | ![][flag_FR] **SochnyiKokos** | [#1](https://osu.ppy.sh/community/matches/62880989) |
 | **cakeboss05** ![][flag_DE] | **5** | 4 | ![][flag_DE] MonsterFighterP | [#1](https://osu.ppy.sh/community/matches/62885166) |
