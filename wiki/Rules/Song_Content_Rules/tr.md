@@ -16,11 +16,11 @@ Beatmapin açıklamasına içeriğin hassas doğasını yansıtan bir satır ekl
 
 Bu nispeten karmaşık bir sorundur ve çoğunlukla birisi için kabul edilebilir olan bir başkası için kabul edilemez.
 
-Verilen bir parçanın uygunluğunu göz önünde bulundururken, **%20 ilkesini** düşünün - parçanızın sözlü içeriğinin %20'si sansürsüz, müstehcen, veya başka türlü tartışmalı bir şeye doğrudan atıfta bulunuyor mu? Eğer öyleyse, osu! için uygun olmayabilir.
+Verilen bir parçanın uygunluğunu göz önünde bulundururken, **%20 ilkesini** düşünün - parçanızın sözlü içeriğinin %20'sinden fazlası sansürsüz, müstehcen, veya başka türlü tartışmalı bir şeye doğrudan atıfta bulunuyor mu? Eğer öyleyse, osu! için uygun olmayabilir.
 
 Bu ilke katı bir kural değildir, lakin büyük olasılıkla tercihlerinizde neyin çalışıp neyin çalışmayacağı doğrultusunda bilgi edinmenizde yardımcı olur.
 
-Pek çok müzik tarzı veya türü sanatsal veya biçimsel bitişler için sansürsüz sözler kullanırlar, ancak küfür ile sansürsüz içerik doğrudan yasaklı değilken, aşırı derecede argo dil barındıran veya diğerlerini kasıtlı olarak şoke etmek veya kışkırtmak için tasarlanmış parçalar yasaktır.
+Pek çok müzik tarzı veya türü sanatsal veya biçimsel amaçlardan ötürü sansürsüz sözler kullanırlar, ancak küfür ile sansürsüz içerik doğrudan yasaklı değilken, aşırı derecede argo dil barındıran veya diğerlerini kasıtlı olarak şoke etmek veya kışkırtmak için tasarlanmış parçalar yasaktır.
 
 Eğer bu yönergeleri göz önünde bulundurarak parçanızla nasıl yol almanız gerektiğinden emin değilseniz, map setinizi karşıya yüklemeden *önce* [Aday Gösterme Denetleme Takımı](/wiki/People/The_Team/Nomination_Assessment_Team) veya [Küresel Moderasyon Takımı](/wiki/People/The_Team/Global_Moderation_Team) üyelerinin herhangi birine sorun!
 
