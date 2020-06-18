@@ -225,6 +225,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-06-01: Moved [Pawsu](https://osu.ppy.sh/users/2371454) from **GMT** to **osu! Alumni**
 - 2020-06-01: Removed [Pawsu](https://osu.ppy.sh/users/2371454) from **Support Team**
 - 2020-06-02: Added [abraker](https://osu.ppy.sh/users/4635891) to **GMT**
+- 2020-06-17: Added [RockRoller](https://osu.ppy.sh/users/8388854) to **GMT**
 
 ### Beatmap Nominators
 
@@ -236,6 +237,8 @@ Abbreviations for user groups are used throughout this log:
 - 2020-06-13: Added [Axer](https://osu.ppy.sh/users/7299864) to **Probationary BN**
 - 2020-06-13: Added [Cychloryn](https://osu.ppy.sh/users/6921736) to **Probationary BN**
 - 2020-06-14: Added [Secre](https://osu.ppy.sh/users/2306637) to **Probationary BN**
+- 2020-06-17: Added [Elayue](https://osu.ppy.sh/users/6400861) to **Probationary BN**
+- 2020-06-17: Added [NexusQI](https://osu.ppy.sh/users/13822800) to **Probationary BN**
 
 #### Moves
 
