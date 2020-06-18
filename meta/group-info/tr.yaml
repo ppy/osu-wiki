@@ -1,4 +1,3 @@
-outdated: true # missing languages.hr
 separator: ", "
 alumni:
   roles:
@@ -40,6 +39,7 @@ languages:
   fi: Fince
   fil: Filipince
   fr: Fransızca
+  hr: Hırvatça
   hu: Macarca
   id: Endonezce
   it: İtalyanca
