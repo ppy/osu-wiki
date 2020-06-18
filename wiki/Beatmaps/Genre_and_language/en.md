@@ -15,7 +15,7 @@ Genre and language have no function in the game, but will be available as search
 
 ## Beatmap listing
 
-![The available filters on the beatmap listing](img/beatmap-listing.png)
+![The available filters on the beatmap listing](img/beatmap-listing.png?1)
 
 The [beatmap listing](https://osu.ppy.sh/beatmapsets) has filters available for genre and language in the `More Search Options` dropdown.
 
