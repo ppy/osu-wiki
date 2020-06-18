@@ -70,4 +70,3 @@ osu! topluluk tarafından yürütüldüğü için, osu! cookie logosu basit ve �
 - Başka renkleri **kullanmayın**.
 - Cookie'ye herhangi bir şey **eklemeyin**.
 - Cookie'nin elemanlarından herhangi birini başka bir şeye **dönüştürmeyin**.
-
