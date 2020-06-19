@@ -1,7 +1,3 @@
----
-needs_cleanup: false
----
-
 # Bot Account criteria
 
 Some users have been creating IRC bots with various functionalities that they run on their own accounts. We offer the possibility to create an account specifically for the bot.
