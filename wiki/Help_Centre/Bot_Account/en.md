@@ -47,6 +47,4 @@ We will review the request and decide whether or not to grant you permission to 
 
 ## Bot Account Creation
 
-If your request is approved, we will create the account for you and give you follow-up instructions.
-
-**The bot account must never have any plays submitted on it.** If we catch a bot account being played on, it will be immediately terminated.
+If your request is approved, we will create the account for you and give you follow-up instructions. Again, **do not create the account yourself.** All we need is the username you want your bot account to have.
