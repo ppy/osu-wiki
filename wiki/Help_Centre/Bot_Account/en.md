@@ -11,10 +11,12 @@ If you are looking to start a similar service, please begin by running it on you
 Running the bot on one's account runs the risk of getting the user silenced. Messages are rate-limited and exceeding those rates will lead to automated silences from BanchoBot.
 
 Regular accounts have the following rates:
+
 - 5 public messages every 4 seconds
 - 10 private messages every 5 seconds
 
 Accounts marked as bots have the following rates:
+
 - 60 public messages every 60 seconds
 - 300 private messages every 60 seconds
 
@@ -38,6 +40,7 @@ If your bot fulfills the criteria above, you can file a request to create an acc
 Send an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) with "Bot Account Request: nameofyourbot" in the title. This must be sent from the email address attached to your account.
 
 The body of the email should contain the following:
+
 - The username you want to give to the account
 - Date on which you began running the bot
 - A link to the source code and documentation
