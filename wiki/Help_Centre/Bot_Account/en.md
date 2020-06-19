@@ -1,6 +1,8 @@
 # Bot Account criteria
 
-Some users have been creating IRC bots with various functionalities that they run on their own accounts. We offer the possibility to create an account specifically for the bot.
+Some users have been creating "chat bots" with various functionalities offered to the community via multiplayer lobbies or PM converstions. This is generally permitted as long as it is in good taste.
+
+If you are looking to start a similar service, please begin by running it on your own osu! account. As it grows, there may be an opportunity to request an account specifically for the bot to live on.
 
 **Do not create the bot account before checking with us first. This will be considered multi-accounting and be punished.**
 
