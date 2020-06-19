@@ -38,6 +38,7 @@ If your bot fulfills the criteria above, you can file a request to create an acc
 Send an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) with "Bot Account Request: nameofyourbot" in the title. This must be sent from the email address attached to your account.
 
 The body of the email should contain the following:
+- The username you want to give to the account
 - Date on which you began running the bot
 - A link to the source code and documentation
 - A short summary of what your bot does and its functionalities
@@ -46,6 +47,6 @@ We will review the request and decide whether or not to grant you permission to 
 
 ## Bot Account Creation
 
-If your request is approved, you will receive a reply allowing you to create a new account for the bot. **Do not submit any plays on the account** and email us back with the account's username and link. We will tell you when you can migrate your bot to the account.
+If your request is approved, we will create the account for you and give you follow-up instructions.
 
 **The bot account must never have any plays submitted on it.** If we catch a bot account being played on, it will be immediately terminated.
