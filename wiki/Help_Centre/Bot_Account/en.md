@@ -4,7 +4,7 @@ Some users have been creating "chat bots" with various functionalities offered t
 
 If you are looking to start a similar service, please begin by running it on your own osu! account. As it grows, there may be an opportunity to request an account specifically for the bot to live on.
 
-**Do not create the bot account before checking with us first. This will be considered multi-accounting and be punished.**
+**Do not create a bot account before checking with us first. This will be considered multi-accounting and be punished.**
 
 ## Benefits of a bot account
 
