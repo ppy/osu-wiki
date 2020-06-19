@@ -86,7 +86,6 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | ![][flag_TH] [timemon](https://osu.ppy.sh/users/2072005) | 泰语 |
 | ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | 西班牙语, 法语 |
 | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) | 波兰语 |
-| ![][flag_US] [wafer](https://osu.ppy.sh/users/9416836) |  |
 | ![][flag_US] [Yahuri](https://osu.ppy.sh/users/4682629) |  |
 | ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834) | 中文, 日语 |
 | ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) | 波兰语 |
@@ -173,6 +172,7 @@ BN 的新成员将从一个月的见习期开始。如果他们的提名和行�
 | :-- | :-- |
 | ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | 泰语 |
 | ![][flag_GB] [Baron](https://osu.ppy.sh/users/10286499) |  |
+| ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | 西班牙语 |
 | ![][flag_NL] [Dako](https://osu.ppy.sh/users/11081858) | 荷兰语 |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  |
 | ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |

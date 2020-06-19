@@ -86,7 +86,6 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | ![][flag_TH] [timemon](https://osu.ppy.sh/users/2072005) | Tay dili |
 | ![][flag_CL] [Uberzolik](https://osu.ppy.sh/users/1314547) | İspanyolca, Fransızca |
 | ![][flag_PL] [Venix](https://osu.ppy.sh/users/5999631) | Lehçe |
-| ![][flag_US] [wafer](https://osu.ppy.sh/users/9416836) |  |
 | ![][flag_US] [Yahuri](https://osu.ppy.sh/users/4682629) |  |
 | ![][flag_CN] [Yugu](https://osu.ppy.sh/users/3161834) | Çince, Japonca |
 | ![][flag_PL] [Zelq](https://osu.ppy.sh/users/8953955) | Lehçe |
@@ -173,6 +172,7 @@ Aşağıda listelenen tablolar Beatmap Aday Göstericilerin hangi oyun modunda/m
 | :-- | :-- |
 | ![][flag_TH] [-Luminate](https://osu.ppy.sh/users/4778689) | Tay dili |
 | ![][flag_GB] [Baron](https://osu.ppy.sh/users/10286499) |  |
+| ![][flag_CL] [Bastian](https://osu.ppy.sh/users/6345176) | İspanyolca |
 | ![][flag_NL] [Dako](https://osu.ppy.sh/users/11081858) | Flemenkçe |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  |
 | ![][flag_US] [Secre](https://osu.ppy.sh/users/2306637) |  |
