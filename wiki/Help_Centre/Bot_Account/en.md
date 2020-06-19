@@ -1,6 +1,6 @@
 # Bot Account criteria
 
-Some users have been creating "chat bots" with various functionalities offered to the community via multiplayer lobbies or PM converstions. This is generally permitted as long as it is in good taste.
+Over the years, users have created "chat bots" with various functionalities offered to the community via multiplayer lobbies or PM converstions. This is generally permitted as long as it is in good taste.
 
 If you are looking to start a similar service, please begin by running it on your own osu! account. As it grows, there may be an opportunity to request an account specifically for the bot to live on.
 
