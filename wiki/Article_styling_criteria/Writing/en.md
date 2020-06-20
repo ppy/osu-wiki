@@ -1,5 +1,7 @@
 # Writing
 
+*For the formatting standards, see: [Article style criteria/Formatting](../Formatting)*
+
 All English articles must use plain English.
 
 ## British English
@@ -43,8 +45,6 @@ User titles that include `osu!` as part of the title name must be capitalised. E
 - `osu! Champion`
 
 ---
-
-<!-- Reference Discord; in:osu-wiki during:2018-05-30 from:ephemeralis#0001 stop -->
 
 `osu!` should not end the sentence. If it does however, use a full stop (`.`) (or question mark (`?`), if appropriate) to get `osu!.` (or `osu!?`).
 
@@ -139,8 +139,6 @@ The following trademarks must be spelt as follows (letter casing must match):
 Trademarks must not be followed by the trademark or registered trademark symbols.
 
 ## Game modes
-
-<!-- Reference Discord; in:#osu-wiki from:ppy#0001 during:2017-07-12 osu!standard -->
 
 Game modes must be written as follows:
 

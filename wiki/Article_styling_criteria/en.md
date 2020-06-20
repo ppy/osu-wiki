@@ -9,7 +9,7 @@ tags:
 
 The article styling criteria (ASC) serves as the osu! wiki's enforced styling standards to keep consistency in clarity, formatting, and layout in all articles.
 
-All articles should aim at having proper grammar, correct spelling, and correct information. Remember that reviewers will give feedback for blunders or suggestions. Please read through them and either apply the suggestions or return feedback.
+All articles should aim at having proper grammar, correct spelling, and correct information.
 
 If you have any suggestions regarding the article styling criteria, [open an issue on GitHub](https://github.com/ppy/osu-wiki/issues/new).
 
@@ -19,5 +19,5 @@ If you have any suggestions regarding the article styling criteria, [open an iss
 
 The article styling criteria is split up into two documents:
 
-- [Formatting](./Formatting) - includes Markdown and other formatting rules
-- [Writting](./Writting) - includes writing practices and other grammar rules
+- [Formatting](Formatting) - includes Markdown and other formatting rules
+- [Writting](Writting) - includes writing practices and other grammar rules

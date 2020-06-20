@@ -1,5 +1,7 @@
 # Formatting
 
+*For the writing standards, see: [Article style criteria/Writing](../Writing)*
+
 ## Locales
 
 Listed below are the properly-supported locales for the osu! wiki.
@@ -7,6 +9,7 @@ Listed below are the properly-supported locales for the osu! wiki.
 | File Name | Locale Name | Native Script |
 | :-- | :-- | :-- |
 | `en.md` | English | English |
+| `ar.md` | Arabic | اَلْعَرَبِيَّةُ |
 | `be.md` | Belarusian | Беларуская мова |
 | `bg.md` | Bulgarian | Български |
 | `cs.md` | Czech | Česky |
@@ -32,6 +35,7 @@ Listed below are the properly-supported locales for the osu! wiki.
 | `sv.md` | Swedish | Svenska |
 | `th.md` | Thai | ไทย |
 | `tr.md` | Turkish | Türkçe |
+| `uk.md` | Ukrainian | Українська мова |
 | `vi.md` | Vietnamese | Tiếng Việt |
 | `zh.md` | Chinese (Simplified) | 简体中文 |
 | `zh-tw.md` | Traditional Chinese (Taiwan) | 繁體中文（台灣） |
@@ -71,7 +75,7 @@ When marking articles with this, [comments](#comments) should accompany this to 
 
 ### Outdated articles
 
-*Notice to translators: English articles with this tag should be avoided.*
+*Notice to translators: Avoid translating English articles with this tag.*
 
 Translated articles that are outdated must use the `outdated` mark when the English variant is updated. English articles may also become outdated when the content they contain is misleading or no longer relevant. For example:
 
@@ -81,11 +85,11 @@ outdated: true
 
 *Note: If the English article has this tag, all translations must have this tag as well.*
 
-When marking articles with this, [comments](#comments) may accompany this to explain what content is outdated.
+When marking articles with this, [comments](#comments) should accompany this to explain what content is outdated.
 
 ### Tagging articles
 
-Tags help the website's search engine query articles better. Tags should be written in the same language as the article, and use lowercase letters where applicable.
+Tags help the website's search engine query articles better. Tags should be written in the same language as the article and include the English's list of tags, and prefer lowercase letters where applicable.
 
 For example, an article called "Skinning tutorial" might include these tags:
 
@@ -106,16 +110,28 @@ no_native_review: true
 
 *Note to translators: Wiki maintainers will determine and apply this mark prior to merging.*
 
+## Article naming
+
+*See also: [Folder names](#folder-names) and [Titles](#titles)*
+
+Article titles should be singular. See [Wikipedia's naming conventions article](https://en.wikipedia.org/wiki/Wikipedia:Naming_conventions_(plurals) "Wikipedia") for more details.
+
+Article titles should match the folder name it is in (spaces may replace underscores (`_`) where appropriate). If the folder name changes, the article title should be changed to match it and vise versa. Some exceptions include:
+
+- Contest articles - must use abbreviations, acronyms, or initialisms
+- Tournament articles - must use abbreviations, acronyms, or initialisms
+
 ## Folder and file structure
 
 ### Folder names
+
+*See also: [Article naming](#article-naming)*
 
 Folder names must be in English and use sentence case. They should match their English article titles as well.
 
 Folder names must only use these characters:
 
-- uppercase letters
-- lowercase letters
+- uppercase and lowercase letters
 - numbers
 - underscores (`_`)
 - exclamation marks (`!`)
@@ -134,7 +150,7 @@ The file name of an article can be found in the `File Name` column of the [local
 
 ### Index articles
 
-An index article must be created if the folder is intended to only hold other articles. Index articles must contain a list articles that are inside its own folder. They may contain other information such as a lead paragraph or descriptions of linked articles.
+An index article must be created if the folder is intended to only hold other articles. Index articles must contain a list articles that are inside its own folder. They may also contain other information such as a lead paragraph or descriptions of the linked articles.
 
 ### Disambiguation articles
 
@@ -144,38 +160,27 @@ Redirects must be updated to have the ambiguous keyword(s) redirect to the disam
 
 ## HTML
 
-<!-- Reference Discord; from:ppy#0001 during:2017-06-26 in:osu-wiki markdown -->
-
 HTML must not be used, with an exception for [comments](#comments). The structure of the article must be redone if HTML is used.
 
 ### Comments
 
-HTML comments should be used for marking to-dos, but may also be used to annotate text. They should be on their own line.
+HTML comments should be used for marking to-dos, but may also be used to annotate text. They should be on their own line, but can be placed inline in a paragraph. If placed inline, the start of the comment must not have a space.
 
 Bad example:
 
 ```markdown
-HTML comments <!-- TODO explain what HTML comments are --> should be used for marking to-dos, but may also be used to annotate text. These should be on there own line.
-```
-
-Okay example (take note of the spacing):
-
-```markdown
-HTML comments<!-- TODO explain what HTML comments are --> should be used for marking to-dos, but may also be used to annotate text. These should be on there own line.
+HTML comments <!-- TODO explain HTML comments --> should be used for marking to-dos or annotate text.
 ```
 
 Good example:
 
 ```markdown
-<!-- TODO explain what HTML comments are -->
-HTML comments should be used for marking to-dos, but may also be used to annotate text. These should be on there own line.
+HTML comments<!-- TODO explain HTML comments --> should be used for marking to-dos or annotate text.
 ```
 
 ## Editing
 
 ### End of line sequence
-
-<!-- YAML parsing will break and display as plain text if the file is using CRLF. -->
 
 *Caution: Uploading Markdown files using `CRLF` (carriage return and line feed) via GitHub will result in those files using `CRLF`. To prevent this, set the line ending to `LF` (line feed) before uploading.*
 
@@ -188,8 +193,6 @@ Markdown files must be checked in using the `LF` end of line sequence.
 Escaping Markdown syntax should be used when needed.
 
 ### Paragraphs
-
-<!-- Reference Discord; from:ppy#0001 during:2017-07-12 in:osu-wiki paragraph -->
 
 Each paragraph must be followed by one empty line.
 
@@ -270,11 +273,9 @@ Notice to are notices but target specific readers. They are formatted the same a
 
 ### Bold
 
-Avoid bolding single word(s) and instead bold phrases; it may be hard to notice the bolding of a single word. Bold must use double asterisks (`**`).
+Bolding single words should be avoided. Prefer bolding phrases, as it may be hard to notice the bolding of a single word. Bold must use double asterisks (`**`).
 
 ### Italics
-
-<!-- Reference Discord; in:#osu-wiki from:ephemeralis#0001 during:2018-02-11 anymore -->
 
 Italics should be used only when naming a video game or the name of a work. osu!—the game—is exempt from this. Italics must use single asterisks (`*`).
 
@@ -286,15 +287,13 @@ Headings must not exceed a heading level of 5 and must not be used to style or f
 
 ### Titles
 
+*See also: [Article naming](#article-naming)*
+
 *Caution: Titles are parsed as plain text. They must not be escaped.*
 
-The first heading in all articles must be a level 1 heading, being the article's title. All headings afterwards must be [section headings](#sections). Title headings must not contain formatting, links, or images.
+The first heading in all articles must be a level 1 heading, being the article's title. All headings afterwards must be [section headings](#sections). Titles must not contain formatting, links, or images.
 
 The title heading must be on the first line, unless [front matter](#front-matter) is being used. If that is the case, the title heading must go after it and have an empty line before the title heading.
-
-The title of an article should match the folder name it is in (spaces may replace underscores (`_`) where appropriate). If the folder name changes, the article title should be changed to match it and vise versa. Some exceptions include:
-
-- Tournament articles - must use abbreviations, acronyms, or initialisms
 
 ### Sections
 
@@ -302,7 +301,7 @@ Section headings must use levels 2 to 5. The section heading proceeding the [tit
 
 Section headings must not skip a heading level (i.e. do not go from a level 2 heading to a level 4 heading) and must not contain formatting or links.
 
-*Notice: On the website, heading levels 4 and 5 will not appear in the table of contents.*
+*Notice: On the website, heading levels 4 and 5 will not appear in the table of contents. They cannot be linked to directly either.*
 
 ## Lists
 
@@ -342,8 +341,6 @@ Bulleted lists must use hyphens (`-`). These must then be followed by one space.
 ```
 
 ### Numbered
-
-<!-- The parser checks for the starting number in numbered lists. The numbering can be messed up if there is something (i.e. an image, code block) that breaks the list apart. -->
 
 The numbers in a numbered list must be incremented to represent their step.
 
@@ -537,8 +534,6 @@ All beatmapset difficulty URLs looks like this: `https://osu.ppy.sh/beatmapsets/
 
 *Note: External links refers to links that go outside the `https://osu.ppy.sh/` domain.*
 
-<!-- Reference Discord; in:#osu-wiki during:2017-02-11 from:ppy#0001 https -->
-
 The `https` protocol must be used, unless the site does not support it. External links must be a clean and direct link to a reputable source. The link text should be the title of the page it is linking to.
 
 There are no visual differences between external and osu! web links. Due to this, the website name should be included in the title text. For example:
@@ -588,8 +583,6 @@ Where `<input>` is the file name to be compressed and `<output>` is the compress
 ### File names
 
 *Notice: File extensions must use lowercase letters, otherwise they will fail to load!*
-
-<!-- going with hyphens, see https://github.com/ppy/osu-wiki/issues/1996#issue-403476323 and https://github.com/ppy/osu-wiki/issues/1996#issuecomment-457861162 -->
 
 Use hyphens (`-`) when spacing words. When naming an image, the file name should be meaningful or descriptive but short.
 
@@ -689,7 +682,7 @@ Tables in the osu! wiki only supports headings along the first row.
 
 Tables must not be beautified. They must have a vertical bar (`|`) on the left and right sides and the text of each cell must be padded with one space on both sides. Empty cells must use a vertical bar (`|`) followed by two spaces then another vertical bar (`|`).
 
-The delimiter row (the row that separates the table head from the table body) must use only three characters per column (and be padded with a space on both sides), which must look like one of the following:
+The delimiter row (the next line after the table heading) must use only three characters per column (and be padded with a space on both sides), which must look like one of the following:
 
 - `:--` (for left align)
 - `:-:` (for centre align)
