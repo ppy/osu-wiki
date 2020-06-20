@@ -16,7 +16,7 @@ If you are a newcomer to the osu! wiki, you can read more about it in the [osu! 
 
 In order to keep the official community hubs safe, osu! has a dedicated moderation team that monitors the forums and online chats around-the-clock. 
 
-Fortunately, it is still easy for you to help keep everything safe here. If you want to help, you can…
+Fortunately, it is still easy for you to help keep everything safe here. If you want to help, you can...
 
 - Follow your favourite channels in the [osu! in-game chat](/wiki/Chat_Console), or in the forums.
 - If you see something happening that you think is inappropriate or disturbing in any way, use [the `!report` command](/wiki/Reporting_Bad_Behaviour) in the in-game chat to notify the moderators of it.
@@ -25,7 +25,7 @@ Fortunately, it is still easy for you to help keep everything safe here. If you 
 
 If you encounter someone who has an issue with the game, lend them a hand! Whether it is a driver issue, a beatmap question, or gameplay questions, if you can answer it, you help the person in solving their problem.
 
-if you want to lend people a hand, you can try…
+If you want to lend people a hand, you can try...
 
 - Choose a forum that sparks your interest:
   - [Help](https://osu.ppy.sh/community/forums/5)
@@ -38,7 +38,7 @@ if you want to lend people a hand, you can try…
 
 ## Help check/mod beatmaps!
 
-osu! has a dedicated team of reviewers to check if the beatmaps are ready to be ranked and played by everyone. However, that doesn't mean you cannot contribute to this sector. So if you want to help, you can…
+osu! has a dedicated team of reviewers to check if the beatmaps are ready to be ranked and played by everyone. However, that doesn't mean you cannot contribute to this sector. So if you want to help, you can...
 
 - Look through or search the [Pending Beatmaps](https://osu.ppy.sh/beatmapsets?s=pending) listing for any artists or songs you like and/or want to contribute to.
 - Play beatmaps in the *Pending* or *Work-in-progress* stages and leave feedback in the beatmap's discussion page.
@@ -50,7 +50,7 @@ osu! has a dedicated team of reviewers to check if the beatmaps are ready to be 
 
 osu! has a thriving community of technical and competitive people. They range from hobbyist tinkers to seasoned rhythm game veterans. There are a lot of proposals and projects being made exclusively for osu! and you can help them, or drive the future of osu! with your very own proposals/projects!
 
-If you'd like to participate, you can…
+If you'd like to participate, you can...
 
 - Browse the [Tournaments](https://osu.ppy.sh/community/forums/55) forum; tournaments take time and a lot of manpower to organize without hitches, and you can help out by being a spectator judge in some cases.
 - Check out what's going on in the [Development](https://osu.ppy.sh/community/forums/2) forum; it is where most serious projects happen.
@@ -61,7 +61,7 @@ If you'd like to participate, you can…
 
 Started in 2017, the osu!lazer project is the current focus of the osu! team, along with the new website, which is what you see today! <!-- I personally don't like this line: it's oddly short and doesn't really finish what it started. But I don't really know what else to put here. Maybe a link to a page explaining what osu!lazer is at the very least. If any of you guys have ideas, please tell me. -toaster -->
 
-If you would like to help make these projects even better and bring us closer to the future of osu!, then please consider…
+If you would like to help make these projects even better and bring us closer to the future of osu!, then please consider...
 
 - Helping with the [osu!lazer](https://github.com/ppy/osu) project. There is so much to implement on the new version of osu!, and you can help make it happen!
 - Make the [new website](https://github.com/ppy/osu-web) even better.
