@@ -26,7 +26,7 @@ Eğer bu yönergeleri göz önünde bulundurarak parçanızla nasıl yol almanı
 
 ## "Ciddi ölçüde politik" içerik olarak neler sınıflandırılabilir?
 
-Ritim ile ilgili bir oyunu tam anlamıyla ritim ile ilgili tutmak için ve 3 numaralı [Topluluk Kuralına](/wiki/Rules#community-rules) ithafen, yönetim tarafından aşırı derecede siyasi içerik barındırdığı belirlenen içerikler yasaktır.
+Ritim ile ilgili bir oyunu tam anlamıyla ritim ile ilgili tutmak için ve 3 numaralı [Topluluk Kuralına](/wiki/Rules#topluluk-kuralları) ithafen, yönetim tarafından aşırı derecede siyasi içerik barındırdığı belirlenen içerikler yasaktır.
 
 Biz politik spektrumun herhangi bir "uç noktasına" bağlı değiliz-osu! tamamen apolitiktir ve biz insanların eğlenmesini istiyoruz, politik sebeplerden ötürü tartışma veya kavga başlatmalarını değil.
 
