@@ -10,7 +10,7 @@ tags:
 
 The **Taiko Korean Beatmap Contest #1** (***TKBC1***) is a osu!taiko mapping contest for only Koreans. It is the first installment of the TKBC.
 
-## Contest Schedule
+## Contest schedule
 
 | Event | Timestamp (UTC +9) |
 | --: | :-- |
@@ -21,7 +21,7 @@ The **Taiko Korean Beatmap Contest #1** (***TKBC1***) is a osu!taiko mapping con
 
 ## Ruleset
 
-### Contest Rules
+### Contest rules
 
 - This contest is for osu!taiko mode.
 - You should choose a song which matches the theme.
@@ -33,7 +33,7 @@ The **Taiko Korean Beatmap Contest #1** (***TKBC1***) is a osu!taiko mapping con
 - Only Koreans can participate this contest.
 - Judges can't participate this contest.
 
-### Metadata Rules
+### Metadata rules
 
 - Artist should be asdf.
 - Title should be 1223.
@@ -43,7 +43,7 @@ The **Taiko Korean Beatmap Contest #1** (***TKBC1***) is a osu!taiko mapping con
 
 ## Theme
 
-![themeresult](img/theme.png)
+![Theme results](img/theme.png)
 
 - Dog / Cat
 - Flower
