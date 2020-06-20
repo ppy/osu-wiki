@@ -661,7 +661,7 @@ JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
 
 ### osu!
 
-游戏名称 `osu!` ，及其官方名称不得使用大写或是斜体，并不使用任何空格。
+游戏名称 `osu!` ，及其官方名称不得使用大写或是斜体，并不使用任何空格：
 
 - `osu!academy`
 - `osu!api`
@@ -677,7 +677,7 @@ JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
 - `osu!talk`
 - `osu!tourney`
 
-其他非官方名称必须添加空格。
+其他非官方名称必须添加空格：
 
 - `osu! tournaments`
 - `osu! community`
@@ -685,7 +685,7 @@ JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
 - `osu! client`
 - `osu! wiki`
 
-包括 `osu!` 的用户头衔也需要添加空格，且在开头大写。
+包括 `osu!` 的用户头衔也需要添加空格，且在开头大写：
 
 - `osu! Alumni`
 - `osu! Champion`
