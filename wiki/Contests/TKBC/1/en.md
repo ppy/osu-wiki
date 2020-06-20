@@ -8,7 +8,7 @@ tags:
 
 ![TKBC1 Logo](img/logo.png)
 
-The **Taiko Korean Beatmap Contest #1** (***TKBC1***) is a osu!taiko mapping contest for only Koreans. It is the first installment of the TKBC.
+The **Taiko Korean Beatmap Contest #1** (***TKBC1***) was a osu!taiko mapping contest for Koreans. It was the first installment of the TKBC.
 
 ## Contest schedule
 
