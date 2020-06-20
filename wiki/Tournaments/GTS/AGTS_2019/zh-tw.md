@@ -1,7 +1,9 @@
 ---
 tags:
-- AGTS 2019
-- AGTS2019
+  - AGTS 2019
+  - AGTS
+  - GTS
+outdated: true
 ---
 
 # Advanced Global Taiko Showdown 2019
@@ -103,7 +105,7 @@ tags:
 | **B** | ![][flag_JP] 日本 | ![][flag_AR] 阿根廷 | ![][flag_HK] 香港 | ![][flag_CL] 智利 |
 | **C** | ![][flag_NL] 荷蘭 | ![][flag_FR] 法國 | ![][flag_MX] 墨西哥 | ![][flag_TW] 台灣 |
 | **D** | ![][flag_US] 美國A. | ![][flag_RU] 俄羅斯聯邦A. | ![][flag_US] 美國B. | ![][flag_BR] 巴西 |
-| **E** | ![][flag_KR] 韓國 | ![][flag_DE] 德國A. | ![][flag_DK] ![][flag_NO] ![][flag_SE] 斯堪的納維亞 | ![][flag_VE] 委內瑞拉
+| **E** | ![][flag_KR] 韓國 | ![][flag_DE] 德國A. | ![][flag_DK] ![][flag_NO] ![][flag_SE] 斯堪的納維亞 | ![][flag_VE] 委內瑞拉 |
 | **F** | ![][flag_CA] 加拿大 | ![][flag_GB] ![][flag_PT] 英國/葡萄牙 | ![][flag_ID] 印度尼西亞A. | ![][flag_ID] 印度尼西亞B. |
 
 ---
@@ -316,7 +318,7 @@ tags:
 | --: | :-: | :-: | :-- | :-- |
 | 台灣 ![][flag_TW] | 1 | **7** | ![][flag_CA] **加拿大** | [#1](https://osu.ppy.sh/community/matches/54521624) |
 | 荷蘭 ![][flag_NL] | 6 | **7** | ![][flag_KR] **韓國** | [#1](https://osu.ppy.sh/community/matches/54530786) |
-| 印度尼西亞A. ![][flag_ID] | 3 | **7** | ![][flag_KR] **韓國** | [#1](https://osu.ppy.sh/community/matches/54533409)
+| 印度尼西亞A. ![][flag_ID] | 3 | **7** | ![][flag_KR] **韓國** | [#1](https://osu.ppy.sh/community/matches/54533409) |
 
 ### 8強
 
@@ -327,7 +329,8 @@ tags:
 | **日本** ![][flag_JP] | **6** | 0 | ![][flag_BR] 巴西 | [#1](https://osu.ppy.sh/community/matches/54317042) |
 | **俄羅斯聯邦A.** ![][flag_RU] | **6** | 2 | ![][flag_RU] 俄羅斯聯邦B. | [#1](https://osu.ppy.sh/community/matches/54317274) |
 | 加拿大 ![][flag_CA] | 4 | **6** | ![][flag_JP] **日本** | [#1](https://osu.ppy.sh/community/matches/54318662) |
-| 波蘭 ![][flag_PL] | 1 | **6** | ![][flag_ID] **印度尼西亞A.** | [#1](https://osu.ppy.sh/community/matches/54320532) | **加拿大** ![][flag_CA] | **6** | 1 | ![][flag_RU] 俄羅斯聯邦B. | [#1](https://osu.ppy.sh/community/matches/54322599) |
+| 波蘭 ![][flag_PL] | 1 | **6** | ![][flag_ID] **印度尼西亞A.** | [#1](https://osu.ppy.sh/community/matches/54320532) |
+| **加拿大** ![][flag_CA] | **6** | 1 | ![][flag_RU] 俄羅斯聯邦B. | [#1](https://osu.ppy.sh/community/matches/54322599) |
 
 | 星期日, 2019-08-25 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |

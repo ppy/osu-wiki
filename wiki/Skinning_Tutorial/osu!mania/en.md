@@ -1,7 +1,3 @@
----
-needs_cleanup: true
----
-
 # osu!mania skinning tutorial
 
 This tutorial uses [skin version](/wiki/skin.ini#versions) `2.5`. Since the skin configuration heavily affects osu!mania skinning, this tutorial will discuss both cases: using the default values (henceforth referred to as "basic") and modifying the skin configuration (henceforth referred to as "advanced").
@@ -577,5 +573,5 @@ If you want to add a lane cover to only one key count, use the `mania-stage-bott
 In your prefered image editor, create a new transparent image with the height set to 480 pixels and the width set to the sum of the `ColumnWidth` and `ColumnSpacing`. If your skin has the stage scroll down, fill the upper half with an image and/or a color. If your skin has the stage scroll up, fill the lower half with an image and/or a color. Once this is done, save it in your skin folder and test it out.
 
 | ![Example of the mania-stage-bottom image with the upper half filled with a color](img/lane_cover-down.jpg) | ![Example of the mania-stage-bottom image with the lower half filled with a color](img/lane_cover-up.jpg) |
-| --- | --- |
+| :-- | :-- |
 | For scroll down | For scroll up |

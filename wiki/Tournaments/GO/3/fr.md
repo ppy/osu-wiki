@@ -559,7 +559,7 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 | Viveliam ![][flag_NL] | 3 | **4** | ![][flag_HK] **DenierNezzar** | [#1](https://osu.ppy.sh/community/matches/50466844) |
 | **WubWoofWolf** ![][flag_PL] | **4** | 0 | ![][flag_SE] Reedkatt | [#1](https://osu.ppy.sh/community/matches/50468369) |
 | **WalkingTuna** ![][flag_KR] | **4** | 1 | ![][flag_MX] Andros | [#1](https://osu.ppy.sh/community/matches/50468498) |
-| **idke** ![][flag_US] |  **4** | 1 | ![][flag_MY] Rampax | [#1](https://osu.ppy.sh/community/matches/50468362) |
+| **idke** ![][flag_US] | **4** | 1 | ![][flag_MY] Rampax | [#1](https://osu.ppy.sh/community/matches/50468362) |
 | **Varvalian** ![][flag_JP] | **4** | 2 | ![][flag_PL] AstroFP | [#1](https://osu.ppy.sh/community/matches/50470038) |
 | kablaze ![][flag_US] | 0 | 4 | ![][flag_KR] **Ansol** | -win by default- |
 | NerO ![][flag_FR] | 3 | **4** | ![][flag_PL] **Mastasz** | [#1](https://osu.ppy.sh/community/matches/50473464) |
@@ -652,7 +652,6 @@ La compétition est arrivée à une fin et à donné le podium ci-dessous:
 [flag_CA]: /wiki/shared/flag/CA.gif
 [flag_CH]: /wiki/shared/flag/CH.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
 [flag_GR]: /wiki/shared/flag/GR.gif

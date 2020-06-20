@@ -393,6 +393,5 @@ This competition has come to an end and resulted in the following podium:
 [flag_RU]: /wiki/shared/flag/RU.gif
 [flag_SE]: /wiki/shared/flag/SE.gif
 [flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
 [flag_UA]: /wiki/shared/flag/UA.gif
 [flag_US]: /wiki/shared/flag/US.gif

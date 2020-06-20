@@ -1,49 +1,8 @@
----
-needs_cleanup: true
----
-
-<!-- wikilink -->
-[Song List]: Song_List "Song list"
-[NF wikilink]: /wiki/Game_Modifiers "more information can be found in Game Modifiers under No Fail"
-
-<!-- img -->
-[osu!stream logo]: img/Os-Logo.jpg "osu!stream logo"
-[Device]: img/Os-Devices.jpg "osu!stream in iDevice"
-[Easy mode]: img/Os-ModeEasy.jpg "Easy mode"
-[Stream mode]: img/Os-ModeStream.jpg "Stream mode"
-[Expert mode]: img/Os-ModeExpert.jpg "Expert mode"
-[stream up image]: img/Os-SUN.jpg "Example of Stream Up! from Normal"
-[osu!stream credits]: img/Os-Credit.jpg "Credits"
-
-[Os-FG.jpg]: img/Os-FG.jpg "Finger Guides display"
-[Os-CB.png]: img/Os-CB.png "Connected Beats"
-[Os-HC.jpg]: img/Os-HC.jpg "Hold circle 1"
-[Os-HC2.jpg]: img/Os-HC2.jpg "Hold circle 2"
-[Os-PlayEasy.png]: img/Os-PlayEasy.png "Easy"
-[Os-PlayNormal.png]: img/Os-PlayNormal.png "Normal"
-[Os-PlayHard.png]: img/Os-PlayHard.png "Hard"
-[Os-PlayExpert.jpg]: img/Os-PlayExpert.jpg "Expert"
-[Os-SU.png]: img/Os-SU.png "Stream Up!"
-[Os-SD.png]: img/Os-SD.png "Stream Down!"
-[Os-Zero1.png]: img/Os-Zero1.png "Critical health"
-[Os-Zero2.png]: img/Os-Zero2.png "Game Over"
-[Os-MM.png]: img/Os-MM.png "Main Menu"
-[Os-SL.jpg]: img/Os-SL.jpg "Song list"
-[Os-Store.jpg]: img/Os-Store.jpg "Store screen"
-[Os-DS.png]: img/Os-DS.png "Selecting style menu"
-[Os-SI.png]: img/Os-SI.png "Song Information"
-[Os-Pause.png]: img/Os-Pause.png "Pause menu"
-[Os-FM.png]: img/Os-FM.png "Failed menu"
-[Os-SC.png]: img/Os-SC.png "Stage cleared!"
-[Os-Grade.jpg]: img/Os-Grade.jpg "Grade screen"
-[Os-O1.png]: img/Os-O1.png "Option screen 1"
-[Os-O2.png]: img/Os-O2.png "Option screen 2"
+<!-- TODO: some updates and needs a proper end of life message. it's also open source now -->
 
 # osu!stream
 
-**[Click here to return to External Ports index page](/wiki/Game_Modes/External_Ports)**
-
-![osu!stream logo][osu!stream logo]
+![](img/Os-Logo.jpg "osu!stream logo")
 
 **osu!stream** is a version of osu! built from scratch that is made especially for touch-enabled devices. It is currently available for Apple's [iOS](http://en.wikipedia.org/wiki/IOS) platform only, but an [Android](http://en.wikipedia.org/wiki/Android_%28operating_system%29) port is planned. It introduces a brand new game-play system such as the hold circle and connected beats.
 
@@ -53,7 +12,7 @@ It does not support classic osu! beatmaps. Instead, maps are created by a specia
 
 ## Installation
 
-![osu!stream in iDevice][Device]
+![](img/Os-Devices.jpg "osu!stream in iDevice")
 
 ### iDevice's App Store method (Suggested)
 
@@ -106,9 +65,7 @@ It does not support classic osu! beatmaps. Instead, maps are created by a specia
 
 #### Finger Guides Display
 
-![Finger Guides display][Os-FG.jpg]
-
-_Finger Guides display_
+![](img/Os-FG.jpg "Finger Guides display")
 
 - The two transparent circle that appears in-game is created to help beginners to know when to hit the objects.
   - It will shows the suggested method to tackle the design of the map with perfection.
@@ -117,9 +74,7 @@ _Finger Guides display_
 
 #### Connected Beats
 
-![Connected Beats][Os-CB.png]
-
-_Connected Beats_
+![](img/Os-CB.png "Connected Beats")
 
 - Connected Beats, as the title suggested, requires the player to press both the objects at the same time.
   - Connected Beats are not limited to just "hit circle-hit circle", it can be "hit circle-slider", "hold circle-slider" and so on.
@@ -127,15 +82,11 @@ _Connected Beats_
 
 #### Hold circle
 
-![Hold circle 1][Os-HC.jpg]
-
-_Hold circle 1_
+![](img/Os-HC.jpg "Hold circle 1")
 
 ---
 
-![Hold circle 2][Os-HC2.jpg]
-
-_Hold circle 2_
+![](img/Os-HC2.jpg "Hold circle 2")
 
 - Hold circle requires the player to hold the circle until the circle "explodes"
 - The hit accuracy is determined by how early/late hit and holding time.
@@ -147,35 +98,27 @@ _Hold circle 2_
 
 ---
 
-![Easy][Os-PlayEasy.png]
-
-_Easy_
+![](img/Os-PlayEasy.png "Easy")
 
 ---
 
-![Normal][Os-PlayNormal.png]
-
-_Normal_
+![](img/Os-PlayNormal.png "Normal")
 
 ---
 
-![Hard][Os-PlayHard.png]
-
-_Hard_
+![](img/Os-PlayHard.png "Hard")
 
 ---
 
-![Expert][Os-PlayExpert.jpg]
-
-_Expert_
+![](img/Os-PlayExpert.jpg "Expert")
 
 ---
 
 #### Easy mode
 
-![Easy mode][Easy mode]
+![](img/Os-ModeEasy.jpg "Easy mode")
 
-**Difficulty: Easy + [NoFail][NF wikilink]**
+**Difficulty: Easy + [NoFail](/wiki/Game_Modifiers#no-fail)**
 
 Easy mode is for new-comers to get used of the osu!stream game-play. The gameplay are considerably slower for new player to understand the flow and timing to hit. No lifebar will be issued and playing Easy mode will not unlock Expert mode.
 
@@ -183,7 +126,7 @@ The background colour is Green.
 
 #### Stream mode
 
-![Stream mode][Stream mode]
+![](img/Os-ModeStream.jpg "Stream mode")
 
 **Difficulty: Easy ("Stream Down!" from Normal) ~ Normal (start point) ~ Hard ("Stream Up!" from Normal)**
 
@@ -197,33 +140,25 @@ The background colour is Green (Easy), Blue (Normal) and Pink (Hard).
 
 ---
 
-![Stream Up!][Os-SU.png]
-
-_Stream Up!_
+![](img/Os-SU.png "Stream Up!")
 
 ---
 
-![Stream Down!][Os-SD.png]
-
-_Stream Down!_
+![](img/Os-SD.png "Stream Down!")
 
 ---
 
-![Critical health][Os-Zero1.png]
-
-_Critical health_
+![](img/Os-Zero1.png "Critical health")
 
 ---
 
-![Game Over][Os-Zero2.png]
-
-_Game Over_
+![](img/Os-Zero2.png "Game Over")
 
 ---
 
 #### Expert mode
 
-![Expert mode][Expert mode]
+![](img/Os-ModeExpert.jpg "Expert mode")
 
 **Difficulty: Expert**
 
@@ -235,81 +170,57 @@ The background colour is Purple and the lights will darken depending on current 
 
 ---
 
-![Main Menu][Os-MM.png]
-
-_Main Menu_
+![](img/Os-MM.png "Main Menu")
 
 ---
 
-![Song list][Os-SL.jpg]
-
-_Song list_
+![](img/Os-SL.jpg "Song list")
 
 ---
 
-![Store screen][Os-Store.jpg]
-
-_Store screen_
+![](img/Os-Store.jpg "Store screen")
 
 ---
 
-![Selecting style menu][Os-DS.png]
-
-_Selecting style menu_
+![](img/Os-DS.png "Selecting style menu")
 
 ---
 
-![Song Information][Os-SI.png]
-
-_Song Information_
+![](img/Os-SI.png "Song Information")
 
 ---
 
-![Expert][Os-PlayExpert.jpg]
-
-_Expert_
+![](img/Os-PlayExpert.jpg "Expert")
 
 ---
 
-![Pause menu][Os-Pause.png]
-
-_Pause menu_
+![](img/Os-Pause.png "Pause menu")
 
 ---
 
-![Failed menu][Os-FM.png]
-
-_Failed menu_
+![](img/Os-FM.png "Failed menu")
 
 ---
 
-![Stage cleared!][Os-SC.png]
-
-_Stage cleared!_
+![](img/Os-SC.png "Stage cleared!")
 
 ---
 
-![Grade screen][Os-Grade.jpg]
-
-_Grade screen_
+![](img/Os-Grade.jpg "Grade screen")
 
 ---
 
-![Option screen 1][Os-O1.png]
-
-_Option screen 1_
+![](img/Os-O1.png "Option screen 1")
 
 ---
 
-![Option screen 2][Os-O2.png]
-
-_Option screen 2_
+![](img/Os-O2.png "Option screen 2")
 
 ---
 
 ## Song list
 
-**_[Click for full list][Song List]_**
+**_[Click for full list](Song_List)_**
 
 ## Scoring
 
@@ -318,8 +229,8 @@ _Option screen 2_
 `Accuracy = HitValue / (PerfectHitValue)`
 
 Term | Formula
-:---:|:---
-**HitValue**        | (Number of misses * 0 + Number of 50's * 1 + Number of 100's * 2 + Number of 300's * 4)
+:-: | :--
+**HitValue** | (Number of misses * 0 + Number of 50's * 1 + Number of 100's * 2 + Number of 300's * 4)
 **PerfectHitValue** | (Number of misses + Number of 50's + Number of 100's + Number of 300's) * 4
 
 In other words, each miss towards to 0%, each 50 towards to 25%, each 100 towards to 50% and each 300 towards to 100%.
@@ -331,8 +242,8 @@ The score given by each hit circle and end of a slider is calculated with the fo
 `Score = Hit Value + Hit Value * (Combo multiplier * Fixed multiplier) / 25`
 
 Term | Meaning
-:---:|:---
-**Hit Value**        | The hit circle judgement (50, 100 or 300).
+:-: | :--
+**Hit Value** | The hit circle judgement (50, 100 or 300).
 **Combo multiplier** | (Combo before this hit - 1) or 0; whichever is higher.
 **Fixed multiplier** | The multiplier that fixes the score into 600.000
 
@@ -398,7 +309,7 @@ The following will not increase or reset the score multiplier:
 
 ### Grades
 
-![Grade screen][Os-Grade.jpg]
+![](img/Os-Grade.jpg "Grade screen")
 
 **Normal grades**
 
@@ -415,7 +326,7 @@ Unlike the osu!standard, the lifebar is different in osu! stream as it is based 
 
 In **Easy Mode, lifebar is completely removed**.
 
-![Example of Stream Up! from Normal][stream up image]
+![](img/Os-SUN.jpg "Example of Stream Up! from Normal")
 
 In **Stream Mode** however, player is given **three lifebars and player starts with the second half-filled lifebar at start**. Player (gain/lose) the lifebar by (Stream Up!/Stream Down!) message for (filling the lifebar full/used up all the HP on that lifebar). After the message is shown, the game will show an animation at the background which (tune up/tune down) the difficulty and issue a half-filled lifebar. If a player is issued a "Stream Down!", player is given temporary invisibility (due to no health left in the currently using lifebar) until the animation is completed in which the lifebar will be substituted with a half-filled one from the previous difficulty.
 
@@ -462,7 +373,7 @@ Usually heard at Main Menu and tutorial screen.
 
 ### Credits?
 
-![osu!stream credits][osu!stream credits]
+![](img/Os-Credit.jpg "Credits")
 
 ## Links
 

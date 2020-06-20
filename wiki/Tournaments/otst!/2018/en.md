@@ -29,7 +29,7 @@ The **osu! TV Size Tournament 2018** (***otst! 2018***) was a double elimination
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag for each team member |
 
 ![otst! 2018 winner badge](img/badge.png)
 
@@ -39,13 +39,13 @@ The osu! TV Size Tournament 2018 was run by various osu! community members.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214) |
-| Map selector | ![][flag_DE] [Chriz](https://osu.ppy.sh/users/2355080), ![][flag_UY] [Nightshiftt](https://osu.ppy.sh/users/4662596), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_MY] [Sikey](https://osu.ppy.sh/users/343057), ![][flag_GB] [Nega](https://osu.ppy.sh/users/3181083), ![][flag_DE] [Ikikaera](https://osu.ppy.sh/users/3922920) |
-| Streamer | ![][flag_PL] [Borsuk664](https://osu.ppy.sh/users/3075673), ![][flag_NL] [cavoeboy](https://osu.ppy.sh/users/7361815), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_US] [Spry](https://osu.ppy.sh/users/7069714), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_MY] [Vexine](https://osu.ppy.sh/users/4042706) |
-| Commentator | ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207), ![][flag_US] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_MY] [Jeffrey](https://osu.ppy.sh/users/4777134), ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013), ![][flag_UY] [Nightshiftt](https://osu.ppy.sh/users/4662596), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_PS] [Omaru](https://osu.ppy.sh/users/6574143) |
-| Statistician | ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013), ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568), ![][flag_HK] [-GN Junior](https://osu.ppy.sh/users/3901754) |
+| Manager | ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) |
+| Map selector | ![][flag_DE] [Chriz](https://osu.ppy.sh/users/2355080), ![][flag_DE] [Ikikaera](https://osu.ppy.sh/users/3922920), ![][flag_GB] [Nega](https://osu.ppy.sh/users/3181083), ![][flag_UY] [Nightshiftt](https://osu.ppy.sh/users/4662596), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_MY] [Sikey](https://osu.ppy.sh/users/343057) |
+| Streamer | ![][flag_PL] [Borsuk664](https://osu.ppy.sh/users/3075673), ![][flag_NL] [cavoeboy](https://osu.ppy.sh/users/7361815), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_MY] [Vexine](https://osu.ppy.sh/users/4042706), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008), ![][flag_US] [Spry](https://osu.ppy.sh/users/7069714) |
+| Commentator | ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_US] [DigitalHypno](https://osu.ppy.sh/users/4384207), ![][flag_US] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_MY] [Jeffrey](https://osu.ppy.sh/users/4777134), ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519), ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013), ![][flag_UY] [Nightshiftt](https://osu.ppy.sh/users/4662596), ![][flag_PS] [Omaru](https://osu.ppy.sh/users/6574143), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189) |
+| Statistician | ![][flag_HK] [-GN Junior](https://osu.ppy.sh/users/3901754), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823), ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013), ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302), ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568) |
 | Designer | ![][flag_DE] [Donger Deluxe](https://osu.ppy.sh/users/4838846) |
-| Referee | ![][flag_SG] [-Engel-](https://osu.ppy.sh/users/9424243), ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_NL] [cavoeboy](https://osu.ppy.sh/users/7361815), ![][flag_UY] [Daanit](https://osu.ppy.sh/users/6159669), ![][flag_VN] [Despirate](https://osu.ppy.sh/users/6969988), ![][flag_MY] [Espalza](https://osu.ppy.sh/users/8355574), ![][flag_SG] [ExImperia](https://osu.ppy.sh/users/5200499), ![][flag_DE] [Goose Hall](https://osu.ppy.sh/users/6586999), ![][flag_CA] [Hiicantpk](https://osu.ppy.sh/users/2065771), ![][flag_PL] [Houtarou Oreki](https://osu.ppy.sh/users/4185566), ![][flag_FR] [Kebab De Poche](https://osu.ppy.sh/users/6467693), ![][flag_SG] [Loslite](https://osu.ppy.sh/users/6398160), ![][flag_CA] [Meow-Mix](https://osu.ppy.sh/users/3021634), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_FR] [Spartan Plume](https://osu.ppy.sh/users/2553166), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189), ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013), ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568) |
+| Referee | ![][flag_GB] [AlexDark69](https://osu.ppy.sh/users/5146647), ![][flag_NL] [cavoeboy](https://osu.ppy.sh/users/7361815), ![][flag_UY] [Daanit](https://osu.ppy.sh/users/6159669), ![][flag_VN] [Despirate](https://osu.ppy.sh/users/6969988), ![][flag_SG] [-Engel-](https://osu.ppy.sh/users/9424243), ![][flag_MY] [Espalza](https://osu.ppy.sh/users/8355574), ![][flag_SG] [ExImperia](https://osu.ppy.sh/users/5200499), ![][flag_DE] [Goose Hall](https://osu.ppy.sh/users/6586999), ![][flag_CA] [Hiicantpk](https://osu.ppy.sh/users/2065771), ![][flag_PL] [Houtarou Oreki](https://osu.ppy.sh/users/4185566), ![][flag_FR] [Kebab De Poche](https://osu.ppy.sh/users/6467693), ![][flag_SG] [Loslite](https://osu.ppy.sh/users/6398160), ![][flag_CA] [Meow-Mix](https://osu.ppy.sh/users/3021634), ![][flag_SG] [phox](https://osu.ppy.sh/users/772295), ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214), ![][flag_FR] [Spartan Plume](https://osu.ppy.sh/users/2553166), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189), ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013), ![][flag_NO] [YokesPai](https://osu.ppy.sh/users/6399568) |
 | Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
@@ -54,8 +54,6 @@ The osu! TV Size Tournament 2018 was run by various osu! community members.
 - [otst! Discord server](https://discord.gg/hdXQNG6)
 - [Livestream](https://twitch.tv/osu_otst)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRD_BDZNHkPsW_kA_01j5t_Op8A-p7dcOMHylq2bN-I6JA0b7fPXx0h3joibUhcbnshJwlKJ6f5L8n1/pubhtml)**
-
----
 
 ## Participants
 
@@ -147,23 +145,21 @@ The osu! TV Size Tournament 2018 was run by various osu! community members.
 | **O** | RemkyBestTrap | LesProDeCoc | i got nothing | my pp just grew |
 | **P** | Stoof & Friends | NoName | :thowonking: | 4head |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Team(s) |
+| Placing | Team |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Rubber Conquest |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Floating up |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | black dogleg |
 
----
-
 ## Mappools
 
 ### Finals
+
+*This mappool was played in Finals and Grand Finals.*
 
 **[Download the mappack here! (100 MB)](https://i.patyye.me/OTST-Finals-Mappool.zip)**
 
@@ -320,8 +316,6 @@ This competition has come to an end and resulted in the following podium:
   - **[Ryu\* - We're so Happy (Kyshiro's Extra) \[Kyshiro\]](https://osu.ppy.sh/beatmaps/1098488)**
   - **[TAKA respect for J.S.B - Ubertreffen (kiddly) \[Another\]](https://osu.ppy.sh/beatmaps/56830)**
   - **[Camellia - overcomplexification (byfar) \[byfar's Extra\]](https://osu.ppy.sh/beatmaps/934812)**
-
----
 
 ## Match results
 
@@ -569,8 +563,6 @@ Sunday, 25 February 2018:
 | **Stoof & Friends** | **4** | 0 | NoName | [#1](https://osu.ppy.sh/community/matches/40388057) |
 | **NoName** | **4** | 2 | :thowonking: | [#1](https://osu.ppy.sh/community/matches/40389846) |
 | **Stoof & Friends** | **4** | 0 | 4head | *win by default* |
-
----
 
 ## Ruleset
 

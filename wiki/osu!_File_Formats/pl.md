@@ -4,24 +4,24 @@
 
 ### Archiwum
 
-| Format                                         | Korzystanie                                                                                                            |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osz][Osz Link]        | Uruchamialny plik z beatmapą.                                                                                          |
-| [.osk][Osk Link]       | Uruchamialny plik ze skórką.                                                                                           |
-| [.db][Db Link]          | Plik bazy danych. (Nie dotykać!)                                                                                       |
+| Format | Korzystanie |
+| :-- | :-- |
+| [.osz][Osz Link] | Uruchamialny plik z beatmapą. |
+| [.osk][Osk Link] | Uruchamialny plik ze skórką. |
+| [.db][Db Link] | Plik bazy danych. (Nie dotykać!) |
 
 ### Edytor beatmap
 
-| Format                                         | Korzystanie                                                                                                            |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osu][Osu Link]       | [Kompozycja](/wiki/Beatmap_Editor/Compose), [Rytmika](/wiki/Beatmap_Editor/Timing), [Ustawienia piosenki](/wiki/Beatmap_Editor/Song_Setup). |
-| [.osb][Osb Link]        | [Projekt](/wiki/Beatmap_Editor/Design).                                                                                       |
+| Format | Korzystanie |
+| :-- | :-- |
+| [.osu][Osu Link] | [Kompozycja](/wiki/Beatmap_Editor/Compose), [Rytmika](/wiki/Beatmap_Editor/Timing), [Ustawienia piosenki](/wiki/Beatmap_Editor/Song_Setup). |
+| [.osb][Osb Link] | [Projekt](/wiki/Beatmap_Editor/Design). |
 
 ### Powtórka
 
-| Format                                         | Korzystanie                                                                                                            |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------|
-| [.osr][Osr Link]        | Uruchamialny plik z powtórką (nie może zostać zdekompresowany).                                                        |
+| Format | Korzystanie |
+| :-- | :-- |
+| [.osr][Osr Link] | Uruchamialny plik z powtórką (nie może zostać zdekompresowany). |
 
 ## Tworzenie pliku .osz/.osk
 

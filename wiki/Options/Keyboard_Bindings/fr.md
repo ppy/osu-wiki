@@ -12,36 +12,36 @@ Ici, vous pouvez assigner de nouveaux raccourcis clavier avec les actions listé
 
 ## Mode standard d'osu! 
 
-| Nom        | Par défaut |
-|-------------|---------|
-| Clic Gauche  | `Z`     |
-| Clic Droit  | `X`     |
-| Fumée       | `C`     |
+| Nom | Par défaut |
+| :-- | :-- |
+| Clic Gauche | `Z` |
+| Clic Droit | `X` |
+| Fumée | `C` |
 
 ## Mode Taiko
 
-| Nom                | Par défaut |
-|---------------------|---------|
-| Centre du tambour (Gauche)  | `X`     |
-| Centre du tambour (Droite) | `C`     |
-| Bord du tambour (Gauche)     | `Z`     |
-| Bord du tambour (Droite)    | `V`     |
+| Nom | Par défaut |
+| :-- | :-- |
+| Centre du tambour (Gauche) | `X` |
+| Centre du tambour (Droite) | `C` |
+| Bord du tambour (Gauche) | `Z` |
+| Bord du tambour (Droite) | `V` |
 
 
 ## Mode Catch the Beat
 
-| Nom                      | Par défaut       |
-|---------------------------|---------------|
-| Bouger vers la gauche           | `Left Arrow`  |
-| Bouger vers la droite                | `Right Arrow` |
-| Dash! (2x la vitesse de déplacement) | `Left Shift`  |
+| Nom | Par défaut |
+| :-- | :-- |
+| Bouger vers la gauche | `Left Arrow` |
+| Bouger vers la droite | `Right Arrow` |
+| Dash! (2x la vitesse de déplacement) | `Left Shift` |
 
 ## Mode osu!Mania
 
-| Nom           | Par défaut |
-|----------------|---------|
-| Augmente la vitesse | `F3`    |
-| Diminue la vitesse  | `F4`    |
+| Nom | Par défaut |
+| :-- | :-- |
+| Augmente la vitesse | `F3` |
+| Diminue la vitesse | `F4` |
 
 **Notes:**
 
@@ -50,14 +50,14 @@ Ici, vous pouvez assigner de nouveaux raccourcis clavier avec les actions listé
 
 ## En jeux
 
-| Nom                       | Par défaut     |
-|----------------------------|-------------|
-| Mettre le jeu en pause                 | `Echap`       |
-| Passer la Cutscene               | `Space`     |
-| Cacher/Montrer  le tableau de score          | `Tab`       |
-| Augmente l'offset local de la chanson | `+` (plus)  |
+| Nom | Par défaut |
+| :-- | :-- |
+| Mettre le jeu en pause | `Echap` |
+| Passer la Cutscene | `Space` |
+| Cacher/Montrer le tableau de score | `Tab` |
+| Augmente l'offset local de la chanson | `+` (plus) |
 | Augmente l'offset local de la chanson | `-` (moins) |
-| Réessayer rapidement (a maintenir brièvement  | `~` (tilde) |
+| Réessayer rapidement (a maintenir brièvement | `~` (tilde) |
 
 **Notes:**
 
@@ -66,16 +66,16 @@ Ici, vous pouvez assigner de nouveaux raccourcis clavier avec les actions listé
 
 ## Universel
 
-| Nom                   | Par défaut     |
-|------------------------|--------------|
-| Augmenter/Réduire la limite de framerate | `F7`         |
-| Cacher/Montrer le chat            | `F8`         |
-| Cacher/Montrer le chat étendu    | `F9`         |
-| Sauvegarder une copie d'écran      | `F12`        |
-| Augmente le volume        | `Flèche du haut`   |
-| Baisse le volume        | `Flèche du bas` |
-| Désactiver les boutons de la souris  | `F10`        |
-| Boss Key               | `Insert`     |
+| Nom | Par défaut |
+| :-- | :-- |
+| Augmenter/Réduire la limite de framerate | `F7` |
+| Cacher/Montrer le chat | `F8` |
+| Cacher/Montrer le chat étendu | `F9` |
+| Sauvegarder une copie d'écran | `F12` |
+| Augmente le volume | `Flèche du haut` |
+| Baisse le volume | `Flèche du bas` |
+| Désactiver les boutons de la souris | `F10` |
+| Boss Key | `Insert` |
 
 **Notes:**
 
@@ -85,47 +85,47 @@ Ici, vous pouvez assigner de nouveaux raccourcis clavier avec les actions listé
 
 ## Editeur
 
-| Nom                   | Par défaut     |
-|------------------------|--------------|
-| Outil sélectionné            | `1`          |
-| Outil normal            | `2`          |
-| Outil pour slider            | `3`          |
-| Outil pour Spinner           | `4`          |
-| Basculer vers un nouveau combo       | `Q`          |
-| Whistle Toggle         | `W`          |
-| Finish Toggle          | `E`          |
-| Clap Toggle            | `R`          |
-| Grip Snap toggle       | `T`          |
-| Distance Snap Toggle   | `Y`          |
-| Note Lock toggle       | `L`          |
-| Nudge Left             | `J`          |
-| Nudge Right            | `K`          |
-| Help Toggle            | `H`          |
-| Aller à la première note     | `Z`          |
-| Jouer du début    | `X`          |
-| Mettre l’audio en pause            | `C`          |
-| Aller à la fin            | `V`          |
-| Changer la taille de la grille       | `G`          |
-| Ajouter une section timing      | _(Aucun)_     |
-| Add Inheriting Section | _(Aucun)_     |
-| Supprimer une section         | _(Aucun)_     |
+| Nom | Par défaut |
+| :-- | :-- |
+| Outil sélectionné | `1` |
+| Outil normal | `2` |
+| Outil pour slider | `3` |
+| Outil pour Spinner | `4` |
+| Basculer vers un nouveau combo | `Q` |
+| Whistle Toggle | `W` |
+| Finish Toggle | `E` |
+| Clap Toggle | `R` |
+| Grip Snap toggle | `T` |
+| Distance Snap Toggle | `Y` |
+| Note Lock toggle | `L` |
+| Nudge Left | `J` |
+| Nudge Right | `K` |
+| Help Toggle | `H` |
+| Aller à la première note | `Z` |
+| Jouer du début | `X` |
+| Mettre l’audio en pause | `C` |
+| Aller à la fin | `V` |
+| Changer la taille de la grille | `G` |
+| Ajouter une section timing | _(Aucun)_ |
+| Add Inheriting Section | _(Aucun)_ |
+| Supprimer une section | _(Aucun)_ |
 
 ## Sélection de Mod
 
-| Nom        | Par défaut |
-|--------------|---------|
-| Easy         | `Q`     |
-| No Fail      | `W`     |
-| Half Time    | `E`     |
-| Hard Rock    | `A`     |
-| Sudden Death | `S`     |
-| Double Time  | `D`     |
-| Hidden       | `F`     |
-| Flashlight   | `G`     |
-| Relax        | `Z`     |
-| Autopilot    | `X`     |
-| Spun Out     | `C`     |
-| Auto         | `V`     |
+| Nom | Par défaut |
+| :-- | :-- |
+| Easy | `Q` |
+| No Fail | `W` |
+| Half Time | `E` |
+| Hard Rock | `A` |
+| Sudden Death | `S` |
+| Double Time | `D` |
+| Hidden | `F` |
+| Flashlight | `G` |
+| Relax | `Z` |
+| Autopilot | `X` |
+| Spun Out | `C` |
+| Auto | `V` |
 
 **Notes:**
 

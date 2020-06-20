@@ -55,18 +55,18 @@ The osu! World Cup 2016 was run by various community members by distributing the
 
 ## Participants
 
-| | Country | Members |
+|  | Country | Members |
 | :-: | :-: | :-- |
 | ![][flag_AR] | Argentina | **[Glazbom](https://osu.ppy.sh/users/608277 "Glazbom")**, [GaTu](https://osu.ppy.sh/users/3583351 "GaTu"), [Pein](https://osu.ppy.sh/users/2212941 "Pein"), [benjacala](https://osu.ppy.sh/users/1625740 "benjacala"), [Enhu](https://osu.ppy.sh/users/2840499 "Enhu"), [nicogame14](https://osu.ppy.sh/users/3812213 "nicogame14"), [Catalysis](https://osu.ppy.sh/users/5958063 "Catalysis"), [Toushi](https://osu.ppy.sh/users/2367825 "Toushi") |
 | ![][flag_AU] | Australia | **[Bauxe](https://osu.ppy.sh/users/1881685 "Bauxe")**, [uyghti](https://osu.ppy.sh/users/3641404 "uyghti"), [ithgyu](https://osu.ppy.sh/users/5113781 "ithgyu"), [Dumii](https://osu.ppy.sh/users/3068044 "Dumii"), [Korilak](https://osu.ppy.sh/users/7260014 "Korilak"), [Weber](https://osu.ppy.sh/users/6410432 "Weber"), [Lunirs](https://osu.ppy.sh/users/2118945 "Lunirs"), [Peekamoo](https://osu.ppy.sh/users/2337263 "Peekamoo") |
 | ![][flag_AT] | Austria | **[Akane-Yuki](https://osu.ppy.sh/users/3656589 "Akane-Yuki")**, [Omgforz](https://osu.ppy.sh/users/578943 "Omgforz"), [LWMF](https://osu.ppy.sh/users/3632402 "LWMF"), [Fedora Goose](https://osu.ppy.sh/users/2323131 "Fedora Goose"), [Myst1k](https://osu.ppy.sh/users/5302223 "Myst1k") |
-| ![][flag_BR] | Brazil | **[Fenrir](https://osu.ppy.sh/users/2644700 "Fenrir")**, [Idealism](https://osu.ppy.sh/users/3869519 "Idealism"), [Texats](https://osu.ppy.sh/users/1638293 "Texats"), [Mirtrax](https://osu.ppy.sh/users/2290888 "Mirtrax"), [Zekker](https://osu.ppy.sh/users/4663554 "Zekker"), [MouseEasy](https://osu.ppy.sh/users/1558603 "MouseEasy"), [fabriciorby](https://osu.ppy.sh/users/209664 "fabriciorby"), [Miyazono](https://osu.ppy.sh/users/529036 "Miyazono")  |
+| ![][flag_BR] | Brazil | **[Fenrir](https://osu.ppy.sh/users/2644700 "Fenrir")**, [Idealism](https://osu.ppy.sh/users/3869519 "Idealism"), [Texats](https://osu.ppy.sh/users/1638293 "Texats"), [Mirtrax](https://osu.ppy.sh/users/2290888 "Mirtrax"), [Zekker](https://osu.ppy.sh/users/4663554 "Zekker"), [MouseEasy](https://osu.ppy.sh/users/1558603 "MouseEasy"), [fabriciorby](https://osu.ppy.sh/users/209664 "fabriciorby"), [Miyazono](https://osu.ppy.sh/users/529036 "Miyazono") |
 | ![][flag_CA] | Canada | **[Azer](https://osu.ppy.sh/users/2155578 "Azer")**, [TrickMirror](https://osu.ppy.sh/users/2138739 "TrickMirror"), [MiruHong](https://osu.ppy.sh/users/2866814 "MiruHong"), [Kaifin](https://osu.ppy.sh/users/2596942 "Kaifin"), [Ignite](https://osu.ppy.sh/users/3122948 "Ignite"), [Kyle](https://osu.ppy.sh/users/2694475 "Kyle"), [karalis](https://osu.ppy.sh/users/3146018 "karalis"), [VINXIS](https://osu.ppy.sh/users/4323406 "VINXIS") |
 | ![][flag_CL] | Chile | **[kafaN](https://osu.ppy.sh/users/1489743 "kafaN")**, [DanyL](https://osu.ppy.sh/users/3069354 "DanyL"), [Neab](https://osu.ppy.sh/users/916693 "Neab"), [etejuano](https://osu.ppy.sh/users/2243537 "etejuano"), [allives](https://osu.ppy.sh/users/3951781 "allives"), [-Dylson-](https://osu.ppy.sh/users/6315784 "-Dylson-"), [DPL](https://osu.ppy.sh/users/3024454 "DPL"), [Criss](https://osu.ppy.sh/users/3188017 "Criss") |
 | ![][flag_CN] | China | **[Crystal](https://osu.ppy.sh/users/1646397 "Crystal")**, [Totori](https://osu.ppy.sh/users/227717 "Totori"), [Dsan](https://osu.ppy.sh/users/1266166 "Dsan"), [Totoki](https://osu.ppy.sh/users/557197 "Totoki"), [ArtxE](https://osu.ppy.sh/users/954557 "ArtxE"), [SpringLane](https://osu.ppy.sh/users/1343504 "SpringLane"), [GGBY](https://osu.ppy.sh/users/629717 "GGBY"), [MatsumotoRise](https://osu.ppy.sh/users/672726 "MatsumotoRise") |
 | ![][flag_DK] | Denmark | **[Spork Lover](https://osu.ppy.sh/users/3417469 "Spork Lover")**, [waefwerf](https://osu.ppy.sh/users/3868653 "waefwerf"), [iamVill](https://osu.ppy.sh/users/6295380 "iamVill"), [Zog](https://osu.ppy.sh/users/3722715 "Zog"), [Hudda](https://osu.ppy.sh/users/4103629 "Hudda"), [Crylizhy](https://osu.ppy.sh/users/3023138 "Crylizhy"), [Lemmen](https://osu.ppy.sh/users/6090254 "Lemmen"), [teamplayer51](https://osu.ppy.sh/users/3084508 "teamplayer51") |
 | ![][flag_FI] | Finland | **[Sanze](https://osu.ppy.sh/users/3110552 "Sanze")**, [thelewa](https://osu.ppy.sh/users/475021 "thelewa"), [Hyppyri](https://osu.ppy.sh/users/3123423 "Hyppyri"), [Subbie](https://osu.ppy.sh/users/1590138 "Subbie"), [Maffe](https://osu.ppy.sh/users/4773855 "Maffe"), [huono_tuuri](https://osu.ppy.sh/users/1432954 "huono_tuuri"), [Sonoda-Umi](https://osu.ppy.sh/users/2197711 "Sonoda-Umi"), [Multtari](https://osu.ppy.sh/users/1097352 "Multtari") |
-| ![][flag_FR] | France | **[Musty](https://osu.ppy.sh/users/251683 "Musty")**, [filsdelama](https://osu.ppy.sh/users/2831793 "filsdelama"), [ThePooN](https://osu.ppy.sh/users/718454 "ThePooN"), [Flaven](https://osu.ppy.sh/users/3213239 "Flaven"), [NerO](https://osu.ppy.sh/users/1545031 "NerO"), [mrzomb](https://osu.ppy.sh/users/1694887 "mrzomb"), [FayeurS](https://osu.ppy.sh/users/3105416 "FayeurS"), [Elysion](https://osu.ppy.sh/users/106269 "Elysion")  |
+| ![][flag_FR] | France | **[Musty](https://osu.ppy.sh/users/251683 "Musty")**, [filsdelama](https://osu.ppy.sh/users/2831793 "filsdelama"), [ThePooN](https://osu.ppy.sh/users/718454 "ThePooN"), [Flaven](https://osu.ppy.sh/users/3213239 "Flaven"), [NerO](https://osu.ppy.sh/users/1545031 "NerO"), [mrzomb](https://osu.ppy.sh/users/1694887 "mrzomb"), [FayeurS](https://osu.ppy.sh/users/3105416 "FayeurS"), [Elysion](https://osu.ppy.sh/users/106269 "Elysion") |
 | ![][flag_DE] | Germany | **[Dustice](https://osu.ppy.sh/users/754565 "Dustice")**, [DoKito](https://osu.ppy.sh/users/537084 "DoKito"), [Beafowl](https://osu.ppy.sh/users/2438122 "Beafowl"), [Neliel](https://osu.ppy.sh/users/1500305 "Neliel"), [imagaK](https://osu.ppy.sh/users/2022445 "imagaK"), [Firstus](https://osu.ppy.sh/users/1856829 "Firstus"), [BDDav](https://osu.ppy.sh/users/1164526 "BDDav"), [W3SON](https://osu.ppy.sh/users/2070822 "W3SON") |
 | ![][flag_GR] | Greece | **[Riven](https://osu.ppy.sh/users/3638005 "Riven")**, [JohnyZ](https://osu.ppy.sh/users/4508048 "JohnyZ"), [ThePainG7](https://osu.ppy.sh/users/3478000 "ThePainG7"), [kYorineN](https://osu.ppy.sh/users/4131515 "kYorineN"), [Grapheon](https://osu.ppy.sh/users/2415008 "Grapheon"), [ThOmAstr](https://osu.ppy.sh/users/2793537 "ThOmAstr"), [Tofas](https://osu.ppy.sh/users/2755584 "Tofas"), [xDarxen](https://osu.ppy.sh/users/4625954 "xDarxen") |
 | ![][flag_HK] | Hong Kong | **[- G I D Z -](https://osu.ppy.sh/users/2286528 "- G I D Z -")**, [-N a n a k o-](https://osu.ppy.sh/users/1407516 "-N a n a k o-"), [Chaoslitz](https://osu.ppy.sh/users/3621552 "Chaoslitz"), [Rizia](https://osu.ppy.sh/users/1367570 "Rizia"), [DenierNezzar](https://osu.ppy.sh/users/126144 "DenierNezzar"), [MinG3012](https://osu.ppy.sh/users/1583218 "MinG3012"), [StarrStyx](https://osu.ppy.sh/users/4600383 "StarrStyx"), [YoonA-](https://osu.ppy.sh/users/1639250 "YoonA-") |
@@ -259,121 +259,121 @@ The osu! World Cup 2016 was run by various community members by distributing the
 
 ### Grand Finals
 
-| Sunday, 2016-12-18 | | | | |
+| Sunday, 2016-12-18 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-|  United States ![][flag_US]| 2 | **7** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/29702438) |
-|  China  ![][flag_CN] | 4 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/29704086) |
+| United States ![][flag_US]| 2 | **7** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/29702438) |
+| China ![][flag_CN] | 4 | **7** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/29704086) |
 
 ### Finals
 
-| Saturday, 2016-12-10 | | | | |
+| Saturday, 2016-12-10 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-|  **United States** ![][flag_US] | **6** | 4 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/29524076) |
+| **United States** ![][flag_US] | **6** | 4 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/29524076) |
 | **United Kingdom** ![][flag_GB] | **6** | 4 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/29530355) |
-|  Germany   ![][flag_DE] | 2 | **6** | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/29531576) |
-|  **China** ![][flag_CN] | **4** | 2 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/29533696) |
+| Germany ![][flag_DE] | 2 | **6** | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/29531576) |
+| **China** ![][flag_CN] | **4** | 2 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/29533696) |
 
-| Sunday, 2016-12-11 | | | | |
+| Sunday, 2016-12-11 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-|  **China** ![][flag_CN]| **6** | 2 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/29560336) |
+| **China** ![][flag_CN]| **6** | 2 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/29560336) |
 
 ### Semifinals
 
-| Saturday, 2016-12-03 | | | | |
+| Saturday, 2016-12-03 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-|  **South Korea**  ![][flag_KR] | **6** | 2 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/29379804) |
-|  Russian Federation ![][flag_RU]| 5 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/29381511) |
-|  Finland   ![][flag_FI] | 0 | **6** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/29383842) |
+| **South Korea** ![][flag_KR] | **6** | 2 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/29379804) |
+| Russian Federation ![][flag_RU]| 5 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/29381511) |
+| Finland ![][flag_FI] | 0 | **6** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/29383842) |
 | **United States** ![][flag_US] | **6** | 4 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/29385744) |
 | **United Kingdom** ![][flag_GB] | **6** | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/29388879) |
-|  Canada  ![][flag_CA] | 0 | **6** | ![][flag_BR] **Poland** | [#1](https://osu.ppy.sh/community/matches/29391121) |
+| Canada ![][flag_CA] | 0 | **6** | ![][flag_BR] **Poland** | [#1](https://osu.ppy.sh/community/matches/29391121) |
 
-| Sunday, 2016-12-04 | | | | |
+| Sunday, 2016-12-04 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-|  France ![][flag_FR]| 2 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/29413616) |
-|  Poland ![][flag_PL]| 4 | **6** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/29415472) |
+| France ![][flag_FR]| 2 | **6** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/29413616) |
+| Poland ![][flag_PL]| 4 | **6** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/29415472) |
 
 ### Quarterfinals
 
-| Saturday, 2016-11-26 | | | | |
+| Saturday, 2016-11-26 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-|  Australia  ![][flag_AU] | 1 | **5** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/29236130) |
+| Australia ![][flag_AU] | 1 | **5** | ![][flag_RU] **Russian Federation** | [#1](https://osu.ppy.sh/community/matches/29236130) |
 | **South Korea** ![][flag_KR] | **5** | 2 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/29237189) |
-|  **China**   ![][flag_CN] | **5** | 2 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/29238760) |
-|  **Taiwan** ![][flag_TW] | **5** | 4 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/29240657) |
-|  Norway  ![][flag_NO] | 4 | **5** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/29244637) |
-|  **Finland**  ![][flag_FI] | **5** | 2 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/29247238) |
-|  Italy  ![][flag_IT] | 0 | **5** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/29249433) |
+| **China** ![][flag_CN] | **5** | 2 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/29238760) |
+| **Taiwan** ![][flag_TW] | **5** | 4 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/29240657) |
+| Norway ![][flag_NO] | 4 | **5** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/29244637) |
+| **Finland** ![][flag_FI] | **5** | 2 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/29247238) |
+| Italy ![][flag_IT] | 0 | **5** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/29249433) |
 | Brazil ![][flag_BR] | 4 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/29252039) |
 
 ### Round of 16
 
-| Saturday, 2016-11-19 | | | | |
+| Saturday, 2016-11-19 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-|  **China**  ![][flag_CN] | **5** | 2 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/29093549) |
-|  Italy  ![][flag_IT] | 1 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/29094300) |
-|  Norway  ![][flag_NO] | 4 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/29095270) |
-|  **Poland** ![][flag_PL] | **5** | 3 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/29096444) |
-| **France**  ![][flag_FR] | **5** | 1 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/29102287) |
-|  Finland ![][flag_FI] | 1 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/29103875) |
-|  Canada  ![][flag_CA] | 1 | **5** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/29105450) |
+| **China** ![][flag_CN] | **5** | 2 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/29093549) |
+| Italy ![][flag_IT] | 1 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/29094300) |
+| Norway ![][flag_NO] | 4 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/29095270) |
+| **Poland** ![][flag_PL] | **5** | 3 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/29096444) |
+| **France** ![][flag_FR] | **5** | 1 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/29102287) |
+| Finland ![][flag_FI] | 1 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/29103875) |
+| Canada ![][flag_CA] | 1 | **5** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/29105450) |
 | **United States** ![][flag_US] | **5** | 1 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/29106903) |
 
 ### Group Stage
 
-| Saturday, 2016-11-12 | | | | |
+| Saturday, 2016-11-12 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-|  **New Zealand**  ![][flag_NZ] | **4** | 1 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/28949962) |
-|  **South Korea**  ![][flag_KR] | **4** | 0 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/28949969) |
-| France    ![][flag_FR] | 2 | **4** | ![][flag_NZ] **New Zealand** | [#1](https://osu.ppy.sh/community/matches/28950619) |
-|  **Russian Federation** ![][flag_RU]| **4** | 2 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/28950736) |
-| **Hong Kong**  ![][flag_HK] | **4** | 3 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/28950642) |
-|  **Germany**  ![][flag_DE] | **4** | 1 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/28951696) |
-|  **South Korea**  ![][flag_KR] | **4** | 1 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/28951701) |
-|  **France** ![][flag_FR] | **4** | 0 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/28952502) |
-|  Philippines  ![][flag_PH] | 1 | **4** | ![][flag_UA] **Ukraine** | [#1](https://osu.ppy.sh/community/matches/28952508) |
-|  **Taiwan**  ![][flag_TW] | **4** | 0 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/28952517) |
-|  **Russian Federation** ![][flag_RU]| **4** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/28953530) |
-|  **Germany**  ![][flag_DE] | **4** | 0 | ![][flag_GR] Greece | [#1](https://osu.ppy.sh/community/matches/28953535) |
-|  **China**  ![][flag_CN] | **4** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/28953539) |
-|  **Poland**  ![][flag_PL] | **4** | 0 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/28955012) |
-|  **Taiwan**  ![][flag_TW] | **4** | 1 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/28955025) |
-|  Austria ![][flag_AT] | 2 | **4** | ![][flag_DK] **Denmark** | [#1](https://osu.ppy.sh/community/matches/28955030) |
-|  **Brazil**  ![][flag_AT] | **4** | 1 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/28955037) |
-|  **Germany** ![][flag_DE] | **4** | 1 | ![][flag_LV] Latvia | [#1](https://osu.ppy.sh/community/matches/28961703) |
-|  **Canada**  ![][flag_CA] | **4** | 1 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/28961705) |
-|  **United Kingdom** ![][flag_GB] | **4** | 1 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/28961706) |
-|  **Poland**  ![][flag_PL] | **4** | 0 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/28962677) |
-|  **United States**  ![][flag_US] | **4** | 3 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/28962678) |
-|  **Norway**  ![][flag_US] | **4** | 1 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/28962679) |
-|  Mexico ![][flag_MX] | 2 | **4** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/28964826) |
-|  **United Kingdom** ![][flag_GB] | **4** | 1 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/28964827) |
+| **New Zealand** ![][flag_NZ] | **4** | 1 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/28949962) |
+| **South Korea** ![][flag_KR] | **4** | 0 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/28949969) |
+| France ![][flag_FR] | 2 | **4** | ![][flag_NZ] **New Zealand** | [#1](https://osu.ppy.sh/community/matches/28950619) |
+| **Russian Federation** ![][flag_RU]| **4** | 2 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/28950736) |
+| **Hong Kong** ![][flag_HK] | **4** | 3 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/28950642) |
+| **Germany** ![][flag_DE] | **4** | 1 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/28951696) |
+| **South Korea** ![][flag_KR] | **4** | 1 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/28951701) |
+| **France** ![][flag_FR] | **4** | 0 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/28952502) |
+| Philippines ![][flag_PH] | 1 | **4** | ![][flag_UA] **Ukraine** | [#1](https://osu.ppy.sh/community/matches/28952508) |
+| **Taiwan** ![][flag_TW] | **4** | 0 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/28952517) |
+| **Russian Federation** ![][flag_RU]| **4** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/28953530) |
+| **Germany** ![][flag_DE] | **4** | 0 | ![][flag_GR] Greece | [#1](https://osu.ppy.sh/community/matches/28953535) |
+| **China** ![][flag_CN] | **4** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/28953539) |
+| **Poland** ![][flag_PL] | **4** | 0 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/28955012) |
+| **Taiwan** ![][flag_TW] | **4** | 1 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/28955025) |
+| Austria ![][flag_AT] | 2 | **4** | ![][flag_DK] **Denmark** | [#1](https://osu.ppy.sh/community/matches/28955030) |
+| **Brazil** ![][flag_AT] | **4** | 1 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/28955037) |
+| **Germany** ![][flag_DE] | **4** | 1 | ![][flag_LV] Latvia | [#1](https://osu.ppy.sh/community/matches/28961703) |
+| **Canada** ![][flag_CA] | **4** | 1 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/28961705) |
+| **United Kingdom** ![][flag_GB] | **4** | 1 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/28961706) |
+| **Poland** ![][flag_PL] | **4** | 0 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/28962677) |
+| **United States** ![][flag_US] | **4** | 3 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/28962678) |
+| **Norway** ![][flag_US] | **4** | 1 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/28962679) |
+| Mexico ![][flag_MX] | 2 | **4** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/28964826) |
+| **United Kingdom** ![][flag_GB] | **4** | 1 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/28964827) |
 
-| Sunday, 2016-11-13 | | | | |
+| Sunday, 2016-11-13 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-|  **Taiwan**  ![][flag_TW] | **4** | 3 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/28973717) |
-|  **China**  ![][flag_CN] | **4** | 3 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/28973718) |
-| **Finland** ![][flag_FI] | **4** | 1 | ![][flag_NZ]  New Zealand | [#1](https://osu.ppy.sh/community/matches/28979458) |
-|  **Australia** ![][flag_AU] | **4** | 0 | ![][flag_GR] Greece | [#1](https://osu.ppy.sh/community/matches/28979460) |
-| **South Korea** ![][flag_KR] | **4** | 3 | ![][flag_RU]  Russian Federation | [#1](https://osu.ppy.sh/community/matches/28979461) |
-| Netherlands  ![][flag_NL] | 3 | **4** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/28980166) |
-|  **Australia** ![][flag_AU] | **4** | 0 | ![][flag_LV] Latvia | [#1](https://osu.ppy.sh/community/matches/28980174) |
-|  **China** ![][flag_CN] | **4** | 0 | ![][flag_IL]  Israel | -win by default- |
-| **Italy**  ![][flag_IT] | **4** | 0 | ![][flag_PH] Philippines | -win by default- |
-| **Finland**  ![][flag_FI] | **4** | 2 | ![][flag_SG]  Singapore | [#1](https://osu.ppy.sh/community/matches/28981224) |
-|  **Norway**  ![][flag_NO] | **4** | 2 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/28981226) |
+| **Taiwan** ![][flag_TW] | **4** | 3 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/28973717) |
+| **China** ![][flag_CN] | **4** | 3 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/28973718) |
+| **Finland** ![][flag_FI] | **4** | 1 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/28979458) |
+| **Australia** ![][flag_AU] | **4** | 0 | ![][flag_GR] Greece | [#1](https://osu.ppy.sh/community/matches/28979460) |
+| **South Korea** ![][flag_KR] | **4** | 3 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/28979461) |
+| Netherlands ![][flag_NL] | 3 | **4** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/28980166) |
+| **Australia** ![][flag_AU] | **4** | 0 | ![][flag_LV] Latvia | [#1](https://osu.ppy.sh/community/matches/28980174) |
+| **China** ![][flag_CN] | **4** | 0 | ![][flag_IL] Israel | -win by default- |
+| **Italy** ![][flag_IT] | **4** | 0 | ![][flag_PH] Philippines | -win by default- |
+| **Finland** ![][flag_FI] | **4** | 2 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/28981224) |
+| **Norway** ![][flag_NO] | **4** | 2 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/28981226) |
 | United Kingdom ![][flag_GB] | 2 | **4** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/28981228) |
-| **France**  ![][flag_FR] | **4** | 3 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/28987715) |
-| **Italy**  ![][flag_IT] | **4** | 0 | ![][flag_UA] Ukraine | [#1](https://osu.ppy.sh/community/matches/28987716) |
-|  **Chile**  ![][flag_CL] | **4** | 1 | ![][flag_IL] Israel | [#1](https://osu.ppy.sh/community/matches/28987717) |
-|  **Latvia**  ![][flag_LV] | **4** | 2 | ![][flag_GR] Greece | [#1](https://osu.ppy.sh/community/matches/28988969) |
-|  **Argentina** ![][flag_AR] | **4** | 1 | ![][flag_ES]  Spain | [#1](https://osu.ppy.sh/community/matches/28988970) |
-|  **United States** ![][flag_US]| **4** | 3 | ![][flag_NO]  Norway | [#1](https://osu.ppy.sh/community/matches/28988971) |
-|  **Poland**  ![][flag_PL] | **4** | 0 | ![][flag_UA] Ukraine | [#1](https://osu.ppy.sh/community/matches/28990447) |
-|  **Canada**  ![][flag_CA] | **4** | 0 | ![][flag_IL] Israel | [#1](https://osu.ppy.sh/community/matches/28990448) |
-|  Mexico ![][flag_MX] | 3 | **4** | ![][flag_ES] **Spain** | [#1](https://osu.ppy.sh/community/matches/28991703) |
-|  **United States** ![][flag_US]| **4** | 0 | ![][flag_AT]  Austria | [#1](https://osu.ppy.sh/community/matches/28991705) |
-|  **Brazil** ![][flag_BR] | **4** | 3 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/28991706) |
+| **France** ![][flag_FR] | **4** | 3 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/28987715) |
+| **Italy** ![][flag_IT] | **4** | 0 | ![][flag_UA] Ukraine | [#1](https://osu.ppy.sh/community/matches/28987716) |
+| **Chile** ![][flag_CL] | **4** | 1 | ![][flag_IL] Israel | [#1](https://osu.ppy.sh/community/matches/28987717) |
+| **Latvia** ![][flag_LV] | **4** | 2 | ![][flag_GR] Greece | [#1](https://osu.ppy.sh/community/matches/28988969) |
+| **Argentina** ![][flag_AR] | **4** | 1 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/28988970) |
+| **United States** ![][flag_US]| **4** | 3 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/28988971) |
+| **Poland** ![][flag_PL] | **4** | 0 | ![][flag_UA] Ukraine | [#1](https://osu.ppy.sh/community/matches/28990447) |
+| **Canada** ![][flag_CA] | **4** | 0 | ![][flag_IL] Israel | [#1](https://osu.ppy.sh/community/matches/28990448) |
+| Mexico ![][flag_MX] | 3 | **4** | ![][flag_ES] **Spain** | [#1](https://osu.ppy.sh/community/matches/28991703) |
+| **United States** ![][flag_US]| **4** | 0 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/28991705) |
+| **Brazil** ![][flag_BR] | **4** | 3 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/28991706) |
 
 ## Ruleset
 
@@ -445,7 +445,7 @@ The osu! World Cup 2016 was run by various community members by distributing the
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
 
 | Stage | Match ID |
-|-----------------|--------------------------|
+| :-- | :-- |
 | Round of 16 | A, B, C, D, E, F, G, H |
 | Quarter-finals | I, J, K, L & R, S, T, U |
 | Semi-finals | M, N & V, W, X, Y, Z, AA |

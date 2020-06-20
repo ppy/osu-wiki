@@ -1,6 +1,4 @@
----
-needs_cleanup: true
----
+<!-- TODO: check grammar/style, probably rewrite the intro to be more relevant to osu!mania right away -->
 
 # osu!mania
 
@@ -115,7 +113,7 @@ There *used to be* two different binding-styles, *Symmetrical* and *Left to Righ
 
 | Key | L | C | R |
 | :-: | :-- | :-: | --: |
-| 1K | - | K5 | |
+| 1K | - | K5 |  |
 | 2K | K4 | - | K6 |
 | 3K | K4 | K5 | K6 |
 | 4K | K3, K4 | - | K6, K7 |

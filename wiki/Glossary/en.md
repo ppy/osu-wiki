@@ -1,6 +1,4 @@
----
-needs_cleanup: true
----
+<!-- TODO: get rid of this ASAP. we have articles, redirects, and tags systems to replace this. -->
 
 # Glossary
 
@@ -125,7 +123,7 @@ Used to refer to the group itself or one of its members.
 
 Represents the number of whole beats in a minute.
 
-Higher-BPM music may be associated with a higher [approach rate](/wiki/Beatmap_Editor/Song_Setup#approach-rate) value and vice versa.
+Higher-BPM music may be associated with a higher [approach rate](/wiki/Beatmapping/Approach_rate) value and vice versa.
 
 ### Break
 
@@ -643,7 +641,9 @@ The main ranking metric of the game.
 
 ### puush
 
-A screen capturing and file uploading application developed by peppy. puush is a successor of sorts to upppy which is commonly used to upload and share images in osu!
+A screen capturing and file uploading application developed by peppy. puush was a successor of sorts to upppy which is still commonly used to upload and share images in osu!
+
+puush stopped accepting new registrations since 2018.
 
 For more information about puush, see [puush / home](https://puush.me).
 

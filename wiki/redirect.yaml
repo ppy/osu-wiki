@@ -23,8 +23,8 @@
 "sb_load":                          "Beatmap_Editor/SB_Load"
 "storyboard_load":                  "Beatmap_Editor/SB_Load"
 "song_setup":                       "Beatmap_Editor/Song_Setup"
-"ar":                               "Beatmap_Editor/Song_Setup#approach-rate"
-"approach_rate":                    "Beatmap_Editor/Song_Setup#approach-rate"
+"ar":                               "Beatmapping/Approach_rate"
+"approach_rate":                    "Beatmapping/Approach_rate"
 "cs":                               "Beatmap_Editor/Song_Setup#circle-size-osu-osucatch-osutaiko-only"
 "circle_size":                      "Beatmap_Editor/Song_Setup#circle-size-osu-osucatch-osutaiko-only"
 "hp":                               "Beatmap_Editor/Song_Setup#hp-drain-rate"
@@ -296,8 +296,6 @@
 "mod_4_mod":                   "Glossary#m4m"
 "mod_for_mod":                 "Glossary#m4m"
 "marathon":                    "Glossary#marathon"
-"mat":                         "Glossary#mat"
-"modding_assistance_team":     "Glossary#mat"
 "mod_request":                 "Glossary#mod-request"
 "modder":                      "Glossary#modder"
 "modders":                     "Glossary#modder"
@@ -827,8 +825,6 @@
 "beatmap_nomination_group":              "People/The_Team/Beatmap_Nominators"
 "bn":                                    "People/The_Team/Beatmap_Nominators"
 "bng":                                   "People/The_Team/Beatmap_Nominators"
-"bat":                                   "People/The_Team/Beatmap_Nominators"
-"beatmap_appreciation_team":             "People/The_Team/Beatmap_Nominators"
 "people/beatmap_nominator/beatmap_veto":        "People/The_Team/Beatmap_Nominators/Beatmap_Veto"
 "beatmap_nominators/beatmap_veto":              "People/The_Team/Beatmap_Nominators/Beatmap_Veto"
 "beatmap_nominator/beatmap_veto":               "People/The_Team/Beatmap_Nominators/Beatmap_Veto"
@@ -1565,8 +1561,9 @@
 "tournaments/ophn/4k_2019": "Tournaments/oPHN/2019_4K"
 
 # Moved Beatmap ranking procedure and deleted related guide that was outdated
-"guides/how_to_get_your_map_ranked":    "Beatmap_ranking_procedure"
-"submission/beatmap_ranking_procedure": "Beatmap_ranking_procedure"
+"guides/how_to_get_your_map_ranked":     "Beatmap_ranking_procedure"
+"submission/beatmap_ranking_procedure":  "Beatmap_ranking_procedure"
+"submissions/beatmap_ranking_procedure": "Beatmap_ranking_procedure"
 
 # Grouped osu! UCI tournaments
 "tournaments/zotcade":      "Tournaments/osu!_UCI"
@@ -1591,3 +1588,42 @@
 
 # Shortcut for Featured Artists
 "fa": "Featured_Artists"
+
+# Shortcuts for old modding groups
+"bat_manager":                        "Modding/BAT_Managers"
+"bat_managers":                       "Modding/BAT_Managers"
+"batm":                               "Modding/BAT_Managers"
+"batmanager":                         "Modding/BAT_Managers"
+"batmanagers":                        "Modding/BAT_Managers"
+"beatmap_appreciation_team_manager":  "Modding/BAT_Managers"
+"beatmap_appreciation_team_managers": "Modding/BAT_Managers"
+"beatmap_appreciator_manager":        "Modding/BAT_Managers"
+"beatmap_appreciators_manager":       "Modding/BAT_Managers"
+"beatmap_approval_team_manager":      "Modding/BAT_Managers"
+"beatmap_approval_team_managers":     "Modding/BAT_Managers"
+"bat":                                "Modding/Beatmap_Appreciation_Team"
+"beatmap_appreciation_team":          "Modding/Beatmap_Appreciation_Team"
+"beatmap_appreciator":                "Modding/Beatmap_Appreciation_Team"
+"beatmap_appreciators":               "Modding/Beatmap_Appreciation_Team"
+"beatmap_approval_team":              "Modding/Beatmap_Appreciation_Team"
+"mat":                                "Modding/Mapping_Assistance_Team"
+"mapping_assistance_team":            "Modding/Mapping_Assistance_Team"
+"mat_leader":                         "Modding/MAT_Leaders"
+"mat_leaders":                        "Modding/MAT_Leaders"
+"mapping_assistance_team_leader":     "Modding/MAT_Leaders"
+"mapping_assistance_team_leaders":    "Modding/MAT_Leaders"
+"proto-bubble":                       "Modding/Proto-bubble"
+"protobubble":                        "Modding/Proto-bubble"
+"pubble":                             "Modding/Proto-bubble"
+
+# Shortcut for NAT meetings
+"nat_meetings": "Modding/NAT_meetings"
+
+# Moved oMWC to oBWC for consistency
+"contests/omwc": "Contests/oBWC"
+"contests/omwc/1": "Contests/oBWC/1"
+
+# Renamed LMS to T_LMS
+"tournaments/lms": "Tournaments/T_LMS"
+"tournaments/lms/shift_1": "Tournaments/T_LMS/Shift_1"
+"tournaments/lms/shift_2": "Tournaments/T_LMS/Shift_2"

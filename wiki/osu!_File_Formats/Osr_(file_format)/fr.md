@@ -5,7 +5,7 @@ Un fichier **.osr** contient toutes les informations à propos d'un replay. Pour
 ## Les types de données
 
 | Nom (nom anglais) | Nombre d'octets | Description |
-| ---- | ----- | ----------- |
+| :-- | :-- | :-- |
 | Octet (byte) | 1 | nombre entier |
 | Court (short) | 2 | nombre entier |
 | Entier (int) | 4 | nombre entier |
@@ -18,7 +18,7 @@ Un fichier **.osr** contient toutes les informations à propos d'un replay. Pour
 Les Byte offsets ne sont pas inclus dans ce tableau à cause des valeurs à taille variable.
 
 | Type de donnée | Description |
-| --------- | ----------- |
+| :-- | :-- |
 | Octet (byte) | Mode de jeu du replay (0 = osu!standard, 1 = osu!taiko, 2 = osu!catch, 3 = osu!mania) |
 | Entier (int) | Version du jeu du replay (exemple: 20131216) |
 | Chaîne de caractère (string) | Hash de la beatmap en MD5 |
@@ -45,7 +45,7 @@ Il y a encore d'autres données comme le mouvement de la souris et des touches a
 Une fois décompressé, le texte contient des données séparées par des virgules. Chacune présente des actions présentées par 4 nombres: `w | x | y | z`.
 
 | Variable | Type de donnée | Description |
-| ---- | --------- | ----------- |
+| :-- | :-- | :-- |
 | w | Long (long) | Temps en millisecondes du temps qui sépare cette action de la précédente |
 | x | Flottante (float) | Valeur de l'abscisse (x) de la position du curseur (de 0 à 512) |
 | y | Flottante (float) | Valeur de l'ordonnée (y) de la position du curseur (de 0 à 384) |
@@ -55,36 +55,36 @@ Une fois décompressé, le texte contient des données séparées par des virgul
 
 Comme décrit dans l'[API osu!](https://github.com/peppy/osu-api/wiki#mods)
 
-| Mod            | Valeur (BitOffset) | Commentaire                                                   |
-|----------------|--------------------|---------------------------------------------------------------|
-| None           | 0                  |                                                               |
-| NoFail         | 1 (0)              |                                                               |
-| Easy           | 2 (1)              |                                                               |
-| TouchDevice    | 4 (2)              | Remplace le mode NoVideo non utlisé                           |
-| Hidden         | 8 (3)              |                                                               |
-| HardRock       | 16 (4)             |                                                               |
-| SuddenDeath    | 32 (5)             |                                                               |
-| DoubleTime     | 64 (6)             |                                                               |
-| Relax          | 128 (7)            |                                                               |
-| HalfTime       | 256 (8)            |                                                               |
-| Nightcore      | 512 (9)            | Toujours utilisé avec DT: 512 + 64 = 576                      |
-| Flashlight     | 1024 (10)          |                                                               |
-| Autoplay       | 2048 (11)          |                                                               |
-| SpunOut        | 4096 (12)          |                                                               |
-| Relax2         | 8192 (13)          | Autopilote                                                    |
-| Perfect        | 16384 (14)         |                                                               |
-| Key4           | 32768 (15)         |                                                               |
-| Key5           | 65536 (16)         |                                                               |
-| Key6           | 131072 (17)        |                                                               |
-| Key7           | 262144 (18)        |                                                               |
-| Key8           | 524288 (19)        |                                                               |
-| keyMod         | 1015808            | k4+k5+k6+k7+k8                                                |
-| FadeIn         | 1048576 (20)       |                                                               |
-| Random         | 2097152 (21)       |                                                               |
-| LastMod        | 4194304 (22)       | Cinéma                                                        |
-| TargetPractice | 8388608 (23)       | osu!cuttingedge seulement                                     |
-| Key9           | 16777216 (24)      |                                                               |
-| Coop           | 33554432 (25)      |                                                               |
-| Key1           | 67108864 (26)      |                                                               |
-| Key3           | 134217728 (27)     |                                                               |
-| Key2           | 268435456 (28)     |                                                               |
+| Mod | Valeur (BitOffset) | Commentaire |
+| :-- | :-- | :-- |
+| None | 0 |  |
+| NoFail | 1 (0) |  |
+| Easy | 2 (1) |  |
+| TouchDevice | 4 (2) | Remplace le mode NoVideo non utlisé |
+| Hidden | 8 (3) |  |
+| HardRock | 16 (4) |  |
+| SuddenDeath | 32 (5) |  |
+| DoubleTime | 64 (6) |  |
+| Relax | 128 (7) |  |
+| HalfTime | 256 (8) |  |
+| Nightcore | 512 (9) | Toujours utilisé avec DT: 512 + 64 = 576 |
+| Flashlight | 1024 (10) |  |
+| Autoplay | 2048 (11) |  |
+| SpunOut | 4096 (12) |  |
+| Relax2 | 8192 (13) | Autopilote |
+| Perfect | 16384 (14) |  |
+| Key4 | 32768 (15) |  |
+| Key5 | 65536 (16) |  |
+| Key6 | 131072 (17) |  |
+| Key7 | 262144 (18) |  |
+| Key8 | 524288 (19) |  |
+| keyMod | 1015808 | k4+k5+k6+k7+k8 |
+| FadeIn | 1048576 (20) |  |
+| Random | 2097152 (21) |  |
+| LastMod | 4194304 (22) | Cinéma |
+| TargetPractice | 8388608 (23) | osu!cuttingedge seulement |
+| Key9 | 16777216 (24) |  |
+| Coop | 33554432 (25) |  |
+| Key1 | 67108864 (26) |  |
+| Key3 | 134217728 (27) |  |
+| Key2 | 268435456 (28) |  |

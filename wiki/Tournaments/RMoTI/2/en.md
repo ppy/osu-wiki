@@ -12,18 +12,18 @@ The tournament brackets can be found [on Challonge.](https://challonge.com/rmoti
 
 The RMoT Invitational are traditionally held over two weekends.
 
-| Event                               | Date        |
-|------------------------------------:|:------------|
-| Round of 16                         | 6 May 2017  |
-| Quarterfinals and Losers Round 1    | 7 May 2017  |
+| Event | Date |
+| --: | :-- |
+| Round of 16 | 6 May 2017 |
+| Quarterfinals and Losers Round 1 | 7 May 2017 |
 | Semifinals and Losers Round 2 and 3 | 13 May 2017 |
-| Losers Round 4, 5 and 6             | 14 May 2017 |
-| Finals and Grand Finals             | 14 May 2017 |
+| Losers Round 4, 5 and 6 | 14 May 2017 |
+| Finals and Grand Finals | 14 May 2017 |
 
 ## Organisation
 
 | Position | Member(s) |
-| --- | --- |
+| :-- | :-- |
 | Host | ![][flag_SI] [Redavor](https://osu.ppy.sh/users/3328606) |
 | Admin | ![][flag_US] [-You Watanabe-](https://osu.ppy.sh/users/3188911), ![][flag_SI] [DomenBzo](https://osu.ppy.sh/users/3450825), ![][flag_AU] [Grassy](https://osu.ppy.sh/users/8067959), ![][flag_SI] [kristi71111](https://osu.ppy.sh/users/3826105), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823) |
 | Referee | ![][flag_PH] [Deadpulse](https://osu.ppy.sh/users/8575527), ![][flag_PH] [kristoffer09](https://osu.ppy.sh/users/3474344), ![][flag_SG] [Kumabread](https://osu.ppy.sh/users/7210491), ![][flag_PL] [MagBlood](https://osu.ppy.sh/users/6178640), ![][flag_PH] [Misery](https://osu.ppy.sh/users/7892873), ![][flag_GB] [Stedoss](https://osu.ppy.sh/users/8331546) |

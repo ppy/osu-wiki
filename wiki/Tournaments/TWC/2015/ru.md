@@ -13,34 +13,34 @@ outdated: true
 
 ## Расписание
 
-| Event             | Timestamp                     |
-|-------------------|-------------------------------|
-| Регистрация       | 12 января − 22 февраля 2015   |
-| Жеребьёвка        | 28 февраля 2015 (14:00 UTC+0) |
-| Групповой этап    | 7−8 марта 2015                |
-| 1/8 финала        | 14−15 марта 2015              |
-| Четвертьфиналы    | 21−22 марта 2015              |
-| Полуфиналы        | 28−29 марта 2015              |
-| Финалы — неделя 1 | 4−5 апреля 2015               |
-| Финалы — неделя 2 | 11−12 апреля 2015             |
+| Event | Timestamp |
+| :-- | :-- |
+| Регистрация | 12 января − 22 февраля 2015 |
+| Жеребьёвка | 28 февраля 2015 (14:00 UTC+0) |
+| Групповой этап | 7−8 марта 2015 |
+| 1/8 финала | 14−15 марта 2015 |
+| Четвертьфиналы | 21−22 марта 2015 |
+| Полуфиналы | 28−29 марта 2015 |
+| Финалы — неделя 1 | 4−5 апреля 2015 |
+| Финалы — неделя 2 | 11−12 апреля 2015 |
 
 ## Призы
 
-| Placing                                                    | Prizes                                                                                |
-|------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | Саппорт на 6 месяцев, иконка в профиле, титул "Taiko Champion", приз от администрации |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Саппорт на 3 месяца                                                                   |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Саппорт на 1 месяц                                                                    |
+| Placing | Prizes |
+| :-- | :-- |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Саппорт на 6 месяцев, иконка в профиле, титул "Taiko Champion", приз от администрации |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Саппорт на 3 месяца |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Саппорт на 1 месяц |
 
 ## Персонал
 
-| Job          | Person                                                                                                                                                                                        |
-|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Организаторы | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)  |
-| Подбор карт  | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128)                                                                                                                           |
-| Стримеры     | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
-| Комментаторы | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347)                                                               |
-| Статистик    | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665)                                                                                                                                |
+| Job | Person |
+| :-- | :-- |
+| Организаторы | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) |
+| Подбор карт | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
+| Стримеры | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
+| Комментаторы | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
+| Статистик | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
 ------------------------------------------------------------------------
 
@@ -119,13 +119,13 @@ outdated: true
 5.  Дальнейшие этапы проводятся по [системе с двойным утешением](https://ru.wikipedia.com/Олимпийская_система_с_выбыванием_после_двух_поражений): выигравшая команда переходит в следующий этап, проигравшая попадает в сетку проигравших.
 6.  Based on [this graphic](https://puu.sh/bUq5V/f1066103b0.png), the stages are split up into the following:
 
-| Этап              | ID матча                |
-|-------------------|-------------------------|
-| 1/8 финала        | A, B, C, D, E, F, G, H  |
-| Четвертьфиналы    | I, J, K, L & R, S, T, U |
-| Полуфиналы        | M, N & V, W, X, Y, Z,AA |
-| Финалы - неделя 1 | O & AB, AC, AD, AE      |
-| Финалы- неделя 2  | P, Q                    |
+| Этап | ID матча |
+| :-- | :-- |
+| 1/8 финала | A, B, C, D, E, F, G, H |
+| Четвертьфиналы | I, J, K, L & R, S, T, U |
+| Полуфиналы | M, N & V, W, X, Y, Z,AA |
+| Финалы - неделя 1 | O & AB, AC, AD, AE |
+| Финалы- неделя 2 | P, Q |
 
 1.  **Условия победы в этапе:**
     -   В групповом этапе нужно победить на 4 картах из 7;

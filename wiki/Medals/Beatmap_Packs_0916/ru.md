@@ -1,12 +1,3 @@
-[media-anime-vol-1]: https://www.mediafire.com/?9n65pm9fp8yp5bn
-[media-anime-vol-2]: https://www.mediafire.com/?722os55j52ikylq
-[media-anime-vol-3]: https://www.mediafire.com/?tky7bjc58hcno6b
-[media-anime-vol-4]: https://www.mediafire.com/?j5b5b6bimr5ahdv
-[media-rhythm-vol-1]: https://www.mediafire.com/?87n2agcrcgmwxob
-[media-rhythm-vol-2]: https://www.mediafire.com/?axvxrnx637767ls
-[media-rhythm-vol-3]: https://www.mediafire.com/?781tio8fge7y7d2
-[media-rhythm-vol-4]: https://www.mediafire.com/?6hc29ws6j36dcag
-
 # Beatmap Packs 0916
 
 ***[Вернуться к описанию достижений](..)***
@@ -21,7 +12,7 @@
 
 Download:
 
-- [MediaFire][media-anime-vol-1]
+- [MediaFire](https://www.mediafire.com/?9n65pm9fp8yp5bn)
 
 Maps:
 
@@ -45,7 +36,7 @@ Maps:
 
 Download:
 
-- [MediaFire][media-anime-vol-2]
+- [MediaFire](https://www.mediafire.com/?722os55j52ikylq)
 
 Maps:
 
@@ -69,7 +60,7 @@ Maps:
 
 Download:
 
-- [MediaFire][media-anime-vol-3]
+- [MediaFire](https://www.mediafire.com/?tky7bjc58hcno6b)
 
 Maps:
 
@@ -93,7 +84,7 @@ Maps:
 
 Download:
 
-- [MediaFire][media-anime-vol-4]
+- [MediaFire](https://www.mediafire.com/?j5b5b6bimr5ahdv)
 
 Maps:
 
@@ -219,7 +210,7 @@ Maps:
 
 Download:
 
-- [MediaFire][media-rhythm-vol-1]
+- [MediaFire](https://www.mediafire.com/?87n2agcrcgmwxob)
 
 Maps:
 
@@ -243,7 +234,7 @@ Maps:
 
 Download:
 
-- [MediaFire][media-rhythm-vol-2]
+- [MediaFire](https://www.mediafire.com/?axvxrnx637767ls)
 
 Maps:
 
@@ -267,7 +258,7 @@ Maps:
 
 Download:
 
-- [MediaFire][media-rhythm-vol-3]
+- [MediaFire](https://www.mediafire.com/?781tio8fge7y7d2)
 
 Maps:
 
@@ -291,7 +282,7 @@ Maps:
 
 Download:
 
-- [MediaFire][media-rhythm-vol-4]
+- [MediaFire](https://www.mediafire.com/?6hc29ws6j36dcag)
 
 Maps:
 

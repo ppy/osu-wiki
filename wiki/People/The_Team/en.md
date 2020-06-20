@@ -55,7 +55,7 @@ The following are user groups which are made up of the osu! community members th
 
 | Name | Role |
 | :-- | :-- |
-| ![][flag_US] [awp](https://osu.ppy.sh/users/2650) | General housekeeper and helper, chibi artist. [Barrel Roll Weekly](http://brw.twinkfish.com/) |
+| ![][flag_CA] [awp](https://osu.ppy.sh/users/2650) | General housekeeper and helper, chibi artist. [Barrel Roll Weekly](http://brw.twinkfish.com/) |
 | ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) | Audio designer, [official osu! Featured Artist](https://osu.ppy.sh/beatmaps/artists/2) |
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | World Cup organiser and administrator |
 | ![][flag_US] [Derekku](https://osu.ppy.sh/users/91341) | General housekeeper, community manager |
@@ -65,9 +65,9 @@ The following are user groups which are made up of the osu! community members th
 | ![][flag_US] Jim | Original site designer. [Brand New Games](http://www.bravegamer.com/) |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | World Cup organiser and administrator, QAT leader, community manager |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | Epic skin designer, contributor to default skin and iconset. [DeviantArt](https://luigihann.deviantart.com/) |
-| ![][flag_US] [mm201](https://osu.ppy.sh/users/30655) | osu! developer, creator of mm sliders |
+| ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | osu! developer, creator of mm sliders |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | osu! iPhone developer |
-| ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | osu! developer, Mappers' Guild organiser |
+| ![][flag_CA] [Nyquill](https://osu.ppy.sh/users/682935) | osu! developer, Mappers' Guild organiser |
 | ![][flag_US] Phil | Forum designer |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, cool stuff maker-guy extraordinaire |
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Original pippi concept and artwork designer. [DeviantArt](https://sarumaru.deviantart.com/) |
@@ -79,6 +79,7 @@ The following are user groups which are made up of the osu! community members th
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"

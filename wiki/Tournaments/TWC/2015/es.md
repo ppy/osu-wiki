@@ -15,34 +15,34 @@ El país campeón del torneo anterior es **![][flag_JP] Japón**.
 
 ## Agenda del Torneo
 
-| Event                                | Timestamp                |
-|--------------------------------------|--------------------------|
-| Fase de Registro                     | 12 de Enero - 22 Febrero |
-| Duelos en vivo                       | 28 Febrero 14:00 (UTC+0) |
-| Fase de grupos                       | 07-08 Marzo 2015         |
-| Fase Dieciseisavos de Final (16avos) | 14-15 Marzo 2015         |
-| Cuartos de Final                     | 21-22 Marzo 2015         |
-| Semifinales                          | 28 - 29 Marzo 2015       |
-| Finales (Semana 1)                   | 04-05 Abril 2015         |
-| Finales (Semana 2)                   | 11-12 Abril 2015         |
+| Event | Timestamp |
+| :-- | :-- |
+| Fase de Registro | 12 de Enero - 22 Febrero |
+| Duelos en vivo | 28 Febrero 14:00 (UTC+0) |
+| Fase de grupos | 07-08 Marzo 2015 |
+| Fase Dieciseisavos de Final (16avos) | 14-15 Marzo 2015 |
+| Cuartos de Final | 21-22 Marzo 2015 |
+| Semifinales | 28 - 29 Marzo 2015 |
+| Finales (Semana 1) | 04-05 Abril 2015 |
+| Finales (Semana 2) | 11-12 Abril 2015 |
 
 ## Premios
 
-| Placing                                                    | Prizes                                                                                                                                                      |
-|------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | Un support de 6 meses para cada integrante del grupo campeón, Banner y titulo en perfil con la descripcion **Taiko Champion**, Articulos exclusivos de osu! |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Un support de 3 meses para cada integrante del grupo campeón, Banner con descripcion "2do Lugar"                                                            |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Un support de 1 mes para cada integrante del grupo campeón, Banner con descripcion "3er Lugar"                                                              |
+| Placing | Prizes |
+| :-- | :-- |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Un support de 6 meses para cada integrante del grupo campeón, Banner y titulo en perfil con la descripcion **Taiko Champion**, Articulos exclusivos de osu! |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Un support de 3 meses para cada integrante del grupo campeón, Banner con descripcion "2do Lugar" |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Un support de 1 mes para cada integrante del grupo campeón, Banner con descripcion "3er Lugar" |
 
 ## Organización
 
-| Job                        | Person                                                                                                                                                                                        |
-|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Administradores del Torneo | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)  |
-| Seleccionador de Beatmaps  | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128)                                                                                                                           |
+| Job | Person |
+| :-- | :-- |
+| Administradores del Torneo | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) |
+| Seleccionador de Beatmaps | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | Conductores (Video Stream) | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
-| Comentaristas              | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347)                                                               |
-| Estadistico                | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665)                                                                                                                                |
+| Comentaristas | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
+| Estadistico | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
 ------------------------------------------------------------------------
 
@@ -118,13 +118,13 @@ El país campeón del torneo anterior es **![][flag_JP] Japón**.
 5.  Las fases siguiente serán de Doble Eliminacion, Esto significa que los ganadores automaticamente irán a la siguiente fase y los que pierden serán movido a la zona de perdedores.
 6.  Basado en [este grafico](https://puu.sh/bUq5V/f1066103b0.png), Las fases están descritas de esta manera:
 
-| Stage              | Partida (Identificador) |
-|--------------------|-------------------------|
-| Ronda de 16avos    | A, B, C, D, E, F, G, H  |
-| Cuartos de Final   | I, J, K, L & R, S, T, U |
-| Semifinales        | M, N & V, W, X, Y, Z,AA |
-| Finales - Semana 1 | O & AB, AC, AD, AE      |
-| Finales - Semana 2 | P, Q                    |
+| Stage | Partida (Identificador) |
+| :-- | :-- |
+| Ronda de 16avos | A, B, C, D, E, F, G, H |
+| Cuartos de Final | I, J, K, L & R, S, T, U |
+| Semifinales | M, N & V, W, X, Y, Z,AA |
+| Finales - Semana 1 | O & AB, AC, AD, AE |
+| Finales - Semana 2 | P, Q |
 
 1.  **Condiciones para Ganar:**
 

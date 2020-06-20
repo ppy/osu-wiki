@@ -25,45 +25,6 @@ The value of *CircleSize* for ranked beatmaps must stand at from 2 to 7, inclusi
 
 In osu!mania mode, *CircleSize* is the number of columns.
 
-### Overall Difficulty
-
-*OverallDifficulty* (OD) is the harshness of the hit window and the difficulty of spinners.
-
-- When OD < 5: `spins_per_second = 5 - 2 * (5 - OD) / 5`
-- When OD = 5: `spins_per_second = 5`
-- When OD > 5: `spins_per_second = 5 + 2.5 * (OD - 5) / 5`
-
-The width of the hit window is defined by the following table:
-
-| Score | Hit Window |
-| --- | --- |
-| 50 | `150ms + 50ms * (5 - OD) / 5` |
-| 100 | `100ms + 40ms * (5 - OD) / 5` |
-| 300 | `50ms + 30ms * (5 - OD) / 5` |
-
-### Approach Rate
-
-*ApproachRate* (AR) defines when hit objects start to fade in relatively to when they should be hit.
-
-```
-                                        X = perfect hit
-                p r e e m p t           ↓
- ├───────────────────────┬──────────────┤
- 0%      fade_in           100% opacity
-```
-
-The circle starts fading in at `X - preempt` with:
-
-- When AR < 5: `preempt = 1200ms + 600ms * (5 - AR) / 5`
-- When AR = 5: `preempt = 1200ms`
-- When AR > 5: `preempt = 1200ms - 750ms * (AR - 5) / 5`
-
-The amount of time it takes for the hit object to completely fade in is also reliant on the approach rate:
-
-- When AR < 5: `fade_in = 800ms + 400ms * (5 - AR) / 5`
-- When AR = 5: `fade_in = 800ms`
-- When AR > 5: `fade_in = 800ms - 500ms * (AR - 5) / 5`
-
 ### Sliders
 
 ```

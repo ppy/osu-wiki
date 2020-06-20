@@ -2,11 +2,13 @@
 outdated: true
 ---
 
-# Maskotki osu!
+# Maskotki
+
+## Maskotki osu!
 
 [Filmik o maskotkach](https://www.youtube.com/watch?v=mJF2cAs_MrI)
 
-## Pippi
+### Pippi
 
 ![Pippi](img/pippi.png "Pippi")
 
@@ -45,7 +47,7 @@ Kobieta
 #### Dane biograficzne
 (niedostępne)
 
-## Yuzu
+### Yuzu
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
@@ -80,7 +82,7 @@ Mężczyzna
 #### Dane biograficzne
 [Przedstawienie (ang.)](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu)
 
-## Maria
+### Maria
 
 ![Maria](img/Maria.png "Maria")
 
@@ -114,9 +116,9 @@ Kobieta
 #### Dane biograficzne
 [Przedstawienie (ang.)](https://osu.ppy.sh/home/news/2016-04-20-meet-maria-osumanias-new-mascot)
 
-# Cameos
+## Cameos
 
-## Ryūta Ippongi
+### Ryūta Ippongi
 
 ![Ryuuta](img/Ryuuta.png "Ryuuta")
 
@@ -153,7 +155,7 @@ Mężczyzna
 #### Dane biograficzne
 Jest liderem zagrzewającego składu. Ma dobre serce i pomaga tym, którzy są nieszczęśliwi, poprzez wspieranie ich i zagrzewanie do walki!
 
-## Agent J
+### Agent J
 
 ![Agent J](img/Agent_J.png "Agent J")
 
@@ -188,7 +190,7 @@ Mężczyzna
 #### Dane biograficzne
 Jako ekspert w wielu stylach tańca (od hip-hopu po balet), J potrafi oczarować każdego.
 
-## Don
+### Don
 
 ![Don](img/Don.png "Don")
 
@@ -224,8 +226,6 @@ Maj 2008
 #### Dane biograficzne
 Don jest protagonistą serii Taiko no Tatsujin. Jest bębenkiem taiko z białymi krawędziami, czterema nogami, czerwoną twarzą (która może się pojawiać jako łagodny pomarańczowy) oraz jasnoniebieskim (w Catch the Beat) lub ciemnoniebieskim (w Taiko) ciałem. Marzeniem Dona jest dzielenie się pięknem Taiko ze światem. Minęły 3 lata odkąd przeniósł się do Wada House i stał się popularny w mieście. Ma potworny apetyt, czasem robi też drogie zakupy w Wada House, co może się dla niego kiedyś źle skończyć. Zazwyczaj kończy swoje zdania z „Ta-don", co po japońsku oznacza „Ba-dum".
 
-## Don
-
-# Galeria zdjęć
+## Galeria zdjęć
 
 [Kliknij, aby przejść do galerii zdjęć.](/wiki/Mascots/Gallery)

@@ -161,13 +161,13 @@ outdated_since: cf41ce8611b21171619b93d9c57aa61f95270db7
 #### Файловые расширения osu!
 
 | Расширение файла | Описание |
-| ---------------- | --------- |
+| :-- | :-- |
 | .osz | Исполняемый файл карты. |
 | .osk | Исполняемый файл скина. |
 
 #### [Beatmap Editor](/wiki/Beatmap_Editor)
 
 | Расширение файла | Описание |
-| ---------------- | --------- |
+| :-- | :-- |
 | .osu | [Compose](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Design](/wiki/Beatmap_Editor/Song_Setup) |
 | .osb | [Design](/wiki/Beatmap_Editor/Design) |

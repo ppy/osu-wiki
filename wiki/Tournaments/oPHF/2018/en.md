@@ -29,7 +29,7 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 ## Prizes
 
 | Placing | Prize(s) |
-| :---: | :--- |
+| :-: | :-- |
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Profile badge and 2 months of osu!supporter |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter |
 
@@ -70,7 +70,7 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 ### osu!standard
 
 | Seed | Player |
-|---|---|
+| :-- | :-- |
 | 1 | [ededed028](https://osu.ppy.sh/users/3932796) |
 | 2 | [zonelouise](https://osu.ppy.sh/users/1492995) |
 | 3 | [TyrantsEye2014](https://osu.ppy.sh/users/4530738) |
@@ -107,7 +107,7 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 ### osu!taiko
 
 | Seed | Player |
-|---|---|
+| :-- | :-- |
 | 1 | [Pochacco](https://osu.ppy.sh/users/2927742) |
 | 2 | [Rimazii](https://osu.ppy.sh/users/3831514) |
 | 3 | [yuki\_momoiro722](https://osu.ppy.sh/users/7186791) |
@@ -118,7 +118,7 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 ### osu!catch
 
 | Seed | Player |
-|---|---|
+| :-- | :-- |
 | 1 | [Crowley](https://osu.ppy.sh/users/6341006) |
 | 2 | [KaganimeRin](https://osu.ppy.sh/users/1626093) |
 | 3 | [Aishiii](https://osu.ppy.sh/users/4382259) |
@@ -135,7 +135,7 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 ### osu!mania 4K
 
 | Seed | Player |
-|---|---|
+| :-- | :-- |
 | 1 | [arge-](https://osu.ppy.sh/users/9919550) |
 | 2 | [Baltz](https://osu.ppy.sh/users/6083463) |
 | 3 | [Silhoueska Elze](https://osu.ppy.sh/users/11517895) |
@@ -156,7 +156,7 @@ The **osu!Philippines Holiday Friendlies 2018** (***oPHF2018***) is a semi-restr
 ### osu!mania 7K
 
 | Seed | Player |
-|---|---|
+| :-- | :-- |
 | 1 | [Nikana](https://osu.ppy.sh/users/4345491) |
 | 2 | [Cielo Day](https://osu.ppy.sh/users/2722489) |
 | 3 | [FeveredNickel](https://osu.ppy.sh/users/7331952) |
@@ -177,40 +177,40 @@ The following players are the people who managed to pull through the whole compe
 ### osu!standard Division
 
 | Placing | User |
-|:---:|---|
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | [Stereo](https://osu.ppy.sh/users/1499137) |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | [Stereo](https://osu.ppy.sh/users/1499137) |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | [TyrantsEye2014](https://osu.ppy.sh/users/4530738) |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | [ededed028](https://osu.ppy.sh/users/3932796), [zonelouise](https://osu.ppy.sh/users/1492995) |
 
 ### osu!taiko Division
 
 | Placing | User |
-|:---:|---|
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | [Pochacco](https://osu.ppy.sh/users/2927742) |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | [Pochacco](https://osu.ppy.sh/users/2927742) |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | [Rimazii](https://osu.ppy.sh/users/3831514) |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | [yuki\_momoiro722](https://osu.ppy.sh/users/7186791) |
 
 ### osu!catch Division
 
 | Placing | User |
-|:---:|---|
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | [- Kielzu -](https://osu.ppy.sh/users/6221114) |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | [- Kielzu -](https://osu.ppy.sh/users/6221114) |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | [KaganimeRin](https://osu.ppy.sh/users/1626093) |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | [Crowley](https://osu.ppy.sh/users/6341006) |
 
 ### osu!mania 4K Division
 
 | Placing | User |
-|:---:|---|
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | [arge-](https://osu.ppy.sh/users/9919550) |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | [arge-](https://osu.ppy.sh/users/9919550) |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | [Baltz](https://osu.ppy.sh/users/6083463) |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | [Shiyui-](https://osu.ppy.sh/users/9374607) |
 
 ### osu!mania 7K Division
 
 | Placing | User |
-|:---:|---|
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | [Nikana](https://osu.ppy.sh/users/4345491) |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | [Nikana](https://osu.ppy.sh/users/4345491) |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | [fer789](https://osu.ppy.sh/users/8901267) |
 | ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | [Cielo Day](https://osu.ppy.sh/users/2722489) |
 
@@ -873,15 +873,15 @@ The following players are the people who managed to pull through the whole compe
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQk5tpFYFoxFamLzjIhVZ8gz7REE42YYDblA_UimpKMuxHTsPvJjf8WYXPjntaUjGuVU8BWNxsEq0sv/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 4 | **Stereo** | **7** | 5 | TyrantsEye2014 | 3 | |
+| 4 | **Stereo** | **7** | 5 | TyrantsEye2014 | 3 |  |
 
 #### Semifinals
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRz4KlpijwtlXCdCkqZQYMq6TEC_D5sw0TRbboLFjaJOkcYREp83HyG08LvBm_IthBZEXUlOtrRuX4a/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
 | 1 | ededed028 | 2 | **7** | **Stereo** | 4 |  |
 | 2 | zonelouise | 4 | **7** | **TyrantsEye2014** | 3 |  |
@@ -890,50 +890,50 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRRpeRHl4cWvdAZukgiiKnzb83JxRWDpaaVREavvNAH7X5s9UoGRf-scs-5COoktEcrTLZmIoLPKXrb/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 1 | **ededed028** | **6** | 0 | Caernarvon725 | 8 | |
-| 4 | **Stereo** | **6** | 0 | ArtillerySenpai | 21 | |
-| 2 | **zonelouise** | **6** | 2 | Fzechen | 7 | |
-| 3 | **TyrantsEye2014** | **6** | 0 | Gilthunder | 11 | |
+| 1 | **ededed028** | **6** | 0 | Caernarvon725 | 8 |  |
+| 4 | **Stereo** | **6** | 0 | ArtillerySenpai | 21 |  |
+| 2 | **zonelouise** | **6** | 2 | Fzechen | 7 |  |
+| 3 | **TyrantsEye2014** | **6** | 0 | Gilthunder | 11 |  |
 
 #### Round of 16
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQCPj4eVRM3TlrIhl0LA74n6ghTG8rnQuhRCPor9JQS_kKrcUv0kmYzcVIofjyN2m2iRpX-Q3N7nzAX/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 1 | **ededed028** | **6** | 1 | Xidorn | 16 | |
+| 1 | **ededed028** | **6** | 1 | Xidorn | 16 |  |
 | 8 | **Caernarvon725** | **6** | 0 | -Onoya An | 9 | -win by default- |
 | 4 | **Stereo** | **6** | 0 | - CrossX - | 20 | -win by default- |
-| 28 | Nyanntai | 3 | **6** | **ArtillerySenpai** | 21 | |
+| 28 | Nyanntai | 3 | **6** | **ArtillerySenpai** | 21 |  |
 | 2 | **zonelouise** | **6** | 0 | \[Vik\] | 18 | -win by default- |
-| 7 | **Fzechen** | **6** | 2 | JasonEspiritu | 23 | |
-| 3 | **TyrantsEye2014** | **6** | 0 | IcedCha | 14   | |
-| 6 | Pikhael | 4 | **6** | **Gilthunder** | 11 | |
+| 7 | **Fzechen** | **6** | 2 | JasonEspiritu | 23 |  |
+| 3 | **TyrantsEye2014** | **6** | 0 | IcedCha | 14 |  |
+| 6 | Pikhael | 4 | **6** | **Gilthunder** | 11 |  |
 
 #### Round of 32
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSxQBHVfiVOXY9-vZgGyK0zEvtI20r0Ur1E_rPZBFvi9kcmiWG178l0-bosMDtxAZuusMBzfNgCYDUq/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 1 | **ededed028** | **5** | 0 | Karma Jun | 32   | |
-| 16 | **Xidorn** | **5** | 1 | Aharu | 17   | |
-| 8 | **Caernarvon725** | **5** | 0 | AestheticBrick | 25 | |
-| 9 | **-Onoya An** | **5** | 3 | Liquicidize | 24 | |
-| 4 | **Stereo** | **5** | 0 | IsseiKun | 29 | |
+| 1 | **ededed028** | **5** | 0 | Karma Jun | 32 |  |
+| 16 | **Xidorn** | **5** | 1 | Aharu | 17 |  |
+| 8 | **Caernarvon725** | **5** | 0 | AestheticBrick | 25 |  |
+| 9 | **-Onoya An** | **5** | 3 | Liquicidize | 24 |  |
+| 4 | **Stereo** | **5** | 0 | IsseiKun | 29 |  |
 | 13 | -PJ- | 0 | **5** | **- CrossX -** | 20 | -win by default- |
 | 5 | Rammu | 0 | **5** | **Nyanntai** | 28 | -win by default- |
 | 12 | Umuuu | 0 | **5** | **ArtillerySenpai** | 21 |  |
-| 2 | **zonelouise** | **5** | 0 | Aoi_Shimoto | 31 | |
-| 15 | Kaneko Akiraie | 2 | **5** | **[Vik]** | 18 | |
-| 7 | **Fzechen** | **5** | 4 | KasperBK | 26 | |
-| 10 | Nyahrumanyah | 3 | **5** | **JasonEspiritu** | 23 | |
-| 3 | **TyrantsEye2014** | **5** | 0 | Tornikel | 30 | |
-| 14 | **IcedCha** | **5** | 2 | Dunn | 19 | |
-| 6 | **Pikhael** | **5** | 2 | Nomis126  | 27 | |
-| 11 | **Gilthunder** | **5** | 0 | Zythics | 22 | |
+| 2 | **zonelouise** | **5** | 0 | Aoi_Shimoto | 31 |  |
+| 15 | Kaneko Akiraie | 2 | **5** | **[Vik]** | 18 |  |
+| 7 | **Fzechen** | **5** | 4 | KasperBK | 26 |  |
+| 10 | Nyahrumanyah | 3 | **5** | **JasonEspiritu** | 23 |  |
+| 3 | **TyrantsEye2014** | **5** | 0 | Tornikel | 30 |  |
+| 14 | **IcedCha** | **5** | 2 | Dunn | 19 |  |
+| 6 | **Pikhael** | **5** | 2 | Nomis126 | 27 |  |
+| 11 | **Gilthunder** | **5** | 0 | Zythics | 22 |  |
 
 #### Qualifiers
 
@@ -945,28 +945,28 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSo8t3GYXw5MCg5nfDomp8A6lGO9HnStGYaYtCYYprDsrGeEwvMjVdUGNgH347sGTpG4OVg3vWp267r/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 2 | **Rimazii** | **7** | 0 | yuki\_momoiro722 | 3 | |
-| 1 | **Pochacco** | **7** | 3 | Rimazii | 2 | |
+| 2 | **Rimazii** | **7** | 0 | yuki\_momoiro722 | 3 |  |
+| 1 | **Pochacco** | **7** | 3 | Rimazii | 2 |  |
 
 #### Finals Week 1
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRX7gnA_Z8FOPcMt66Ryim5GCYAj4BM-UfCP3xXsHKD4RagE0h-IdbrCqjbQgE56ZDVVQ7PCEOLHVsI/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 4 | Silhoueska Elze | 0 | **7** | **yuki\_momoiro722** | 3 | |
-| 1 | **Pochacco** | **7** | 3 | Rimazii | 2 | |
+| 4 | Silhoueska Elze | 0 | **7** | **yuki\_momoiro722** | 3 |  |
+| 1 | **Pochacco** | **7** | 3 | Rimazii | 2 |  |
 
 #### Round 2
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vR6uQvu-wIDerH4e3Dizyt3np1DGNWnvzzncnznqY5jl32DcoXO9pOCSK049i9neNjp_XDfA4EBw86S/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 1 | **Pochacco** | **6** | 0 | Silhoueska Elze | 4 | |
-| 2 | **Rimazii** | **6** | 0 | yuki_momoiro722 | 3 | |
+| 1 | **Pochacco** | **6** | 0 | Silhoueska Elze | 4 |  |
+| 2 | **Rimazii** | **6** | 0 | yuki_momoiro722 | 3 |  |
 | 3 | **yuki\_momoiro722** | **6** | 0 | \[\_\_\_\_\_\_\] | 5 | -win by default- |
 | 4 | **Silhoueska Elze** | **6** | 0 | Keishii | 6 | -win by default- |
 
@@ -974,9 +974,9 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6ne_1IxAq-Va7oDzjiheKRA4yR_VrqZwoELsxDwjfmX-rbWmicuQ5d4QbcEe815vfiiqLarUixW4y/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 4 | **Silhoueska Elze** | **6** | 1 | \[\_\_\_\_\_\_\] | 5 | |
+| 4 | **Silhoueska Elze** | **6** | 1 | \[\_\_\_\_\_\_\] | 5 |  |
 | 3 | **yuki_momoiro722** | **6** | 0 | Keishii | 6 | -win by default- |
 
 ### osu!catch
@@ -985,58 +985,58 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSfnWy12VK1RBz5bwtfPOTMEFST_2ldF1sGfdVwcz5vMKHLDkUlR1t4Aey671J3yz7TWkNPpJ_4qwv1/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 9 | **- Kielzu -** | **7** | 3 | Crowley | 4 | |
-| 2 | KaganimeRin    | 2 | **7** | **- Kielzu -** | 9 | |
-| 9 | **- Kielzu -** | **7** | 3 | KaganimeRin | 2 | |
+| 9 | **- Kielzu -** | **7** | 3 | Crowley | 4 |  |
+| 2 | KaganimeRin | 2 | **7** | **- Kielzu -** | 9 |  |
+| 9 | **- Kielzu -** | **7** | 3 | KaganimeRin | 2 |  |
 
 #### Finals Week 1
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRSH8dVYca-voNGPONyEBXl3Kn3T162qWwQlTD2uzzicW5B5DjJfgplR9bpsoqZZE9fqpCWV5CXxFH7/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 4 | AJamez | 3 | **7** | **Lobsterr** | 7 | |
-| 3 | Aishiii | 4 | **7** | **Crowley** | 1 | |
-| 7 | Lobsterr | 5 | **7** | **Crowley** | 4 | |
-| 9 | - Kielzu - | 5 | **7** | **KaganimeRin** | 2 | |
+| 4 | AJamez | 3 | **7** | **Lobsterr** | 7 |  |
+| 3 | Aishiii | 4 | **7** | **Crowley** | 1 |  |
+| 7 | Lobsterr | 5 | **7** | **Crowley** | 4 |  |
+| 9 | - Kielzu - | 5 | **7** | **KaganimeRin** | 2 |  |
 
 #### Round 3
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTcVBW1bxisVPHulxDbBGFSJmOIjd_wN6NXyID7I_jtEK1bZ0kbWQpgNVkDFV9h0QtwbtKQBkQSJ2ri/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 5 | Kuya Frex | 0 | **6** | **Crowley** | 1 | |
-| 8 | Loreal | 0 | **6** | **Lobsterr** | 7 | |
+| 5 | Kuya Frex | 0 | **6** | **Crowley** | 1 |  |
+| 8 | Loreal | 0 | **6** | **Lobsterr** | 7 |  |
 | 9 | **- Kielzu -** | **6** | 0 | AJamez | 4 | -win by default- |
-| 2 | **KaganimeRin** | **6** | 1 | Aishiii | 3 | |
+| 2 | **KaganimeRin** | **6** | 1 | Aishiii | 3 |  |
 
 #### Round 2
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSl8Mup54g4h0tTJH-hfS-UOV0ctVr0rnOW7C5Gd-mBNRYL2Gi1OD2tomiUvTqn_d1n5Bi_v7sn3OJF/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 1 | Crowley | 2 | **6** | **- Kielzu -** | 9 | |
-| 4 | **AJamez** | **6** | 0 | Kuya Frex | 5 | |
-| 2 | **KaganimeRin** | **6** | 3 | Lobsterr | 7 | |
-| 3 | **Aishiii** | **6** | 1 | johnneijzen1 | 11 | |
-| 1 | **Crowley** | **6** | 0 | Laqure | 8 | |
+| 1 | Crowley | 2 | **6** | **- Kielzu -** | 9 |  |
+| 4 | **AJamez** | **6** | 0 | Kuya Frex | 5 |  |
+| 2 | **KaganimeRin** | **6** | 3 | Lobsterr | 7 |  |
+| 3 | **Aishiii** | **6** | 1 | johnneijzen1 | 11 |  |
+| 1 | **Crowley** | **6** | 0 | Laqure | 8 |  |
 | 5 | **Kuya Frex** | **6** | 0 | AJ1703 | 10 | -win by default- |
 | 7 | **Lobsterr** | **6** | 0 | Keishii | 12 | -win by default- |
-| 11 | johnneijzen1 | 0 | **6** | **Loreal** | 8 | |
+| 11 | johnneijzen1 | 0 | **6** | **Loreal** | 8 |  |
 
 #### Round 1
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRz61aUu8gQI6SkbeygetWFWAkrSZABgbD70Da6tLPbW_Sx0rmBAOcNNt6afjyLEJ9QgCp0nfvVneu3/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 8 | **Loreal** | 4 | **5** | **- Kielzu -** | 9 | |
+| 8 | **Loreal** | 4 | **5** | **- Kielzu -** | 9 |  |
 | 5 | **Kuya Frex** | **5** | 0 | Keishii | 12 | -win by default- |
-| 7 | **Lobsterr** | **5** | 1 | AJ1703 | 10 | |
+| 7 | **Lobsterr** | **5** | 1 | AJ1703 | 10 |  |
 | 6 | Laqure | 0 | **5** | **johnneijzen1** | 11 | -win by default- |
 
 #### Qualifiers
@@ -1049,50 +1049,50 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQrQ_M5fyMamxXZZJMmhSaahdBhCrwOUR764futo2GM_Sj4q0kb0xRfwtSokr0-pJAqrqZaxETYXV0A/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 1 | **arge-** | **7** | 1 | Shiyui-   | 5 | |
-| 2 | Baltz | 2 | **7** | **arge-** | 1 | |
-| 1 | **arge-** | **7** | 2 | Baltz     | 2 | -forfeited- |
+| 1 | **arge-** | **7** | 1 | Shiyui- | 5 |  |
+| 2 | Baltz | 2 | **7** | **arge-** | 1 |  |
+| 1 | **arge-** | **7** | 2 | Baltz | 2 | -forfeited- |
 
 #### Finals Week 1
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDXtOV-mc56JfL_iO7mmC9Q-fnLlmfugSQ14ITW_MNw17DWTKNKn9MDVpNKiE3S-Qx-dSnFH5zeh5x/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
 | 5 | **Shiyui-** | **7** | 0 | Batujitsu | 7 | -win by default- |
-| 4 | **Silhoueska Elze** | **7** | 1 | Inoariusu | 10 | |
-| 5 | **Shiyui-** | **7** | 3 | Silhoueska Elze | 4 | |
-| 1 | arge- | 3 | **7** | **Baltz**  | 2 | |
+| 4 | **Silhoueska Elze** | **7** | 1 | Inoariusu | 10 |  |
+| 5 | **Shiyui-** | **7** | 3 | Silhoueska Elze | 4 |  |
+| 1 | arge- | 3 | **7** | **Baltz** | 2 |  |
 
 #### Semifinals
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTrzTtkUyb4Ta5eC5MZSYgDWobizNJrQ_QXFQ5V6YYkaSPZ-tSOxowtwqx4TiJL5EtzBkMBTMBSTgjY/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 9 | **Andrei--** | **6** | 2 | vincent4399 | 11 | |
+| 9 | **Andrei--** | **6** | 2 | vincent4399 | 11 |  |
 | 4 | Ikisouu | 0 | **6** | **Inoariusu** | 10 | -win by default- |
-| 7 | **Batujitsu** | **6** | 1 | Suravur | 12 | |
-| 6 | **kei101895** | **6** | 0 | partycarft30 | 16 | |
+| 7 | **Batujitsu** | **6** | 1 | Suravur | 12 |  |
+| 6 | **kei101895** | **6** | 0 | partycarft30 | 16 |  |
 | 10 | **Inoariusu** | **6** | 0 | Andrei-- | 9 | -win by default- |
-| 6 | kei101895 | 1 | **6** | **Batujitsu** | 7 | |
-| 1 | **arge-** | **6** | 1 | Shiyui- | 5 | |
-| 2 | **Baltz** | **6** | 0 | Silhoueska Elze | 3 | |
+| 6 | kei101895 | 1 | **6** | **Batujitsu** | 7 |  |
+| 1 | **arge-** | **6** | 1 | Shiyui- | 5 |  |
+| 2 | **Baltz** | **6** | 0 | Silhoueska Elze | 3 |  |
 
 #### Quarterfinals
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSpGAVkE3_hxeX5WwCtK2VDLcL86A2WgchfiKzY5YYcJoyM53XLcOwNZKBxV8WjTY9ZFFFKDEWnGUqe/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
 | 16 | **partycarft30** | **6** | 0 | Edison | 8 | -win by default- |
 | 13 | Izayoi-san | 0 | **6** | **Suravur** | 12 | -win by default- |
-| 15 | hikaruXD19 | 4 | **6** | **Inoariusu** | 10 | |
-| 14 | LohaWarpe | 0 | **6** | **vincent4399** | 11 | |
+| 15 | hikaruXD19 | 4 | **6** | **Inoariusu** | 10 |  |
+| 14 | LohaWarpe | 0 | **6** | **vincent4399** | 11 |  |
 | 1 | **arge-** | **6** | 0 | Andrei-- | 9 | -win by default- |
-| 4 | Ikisouu | 5 | **6** | **Shiyui-** | 5 | |
+| 4 | Ikisouu | 5 | **6** | **Shiyui-** | 5 |  |
 | 2 | **Baltz** | **6** | 0 | Batujitsu | 7 | -win by default- |
 | 3 | **Silhoueska Elze** | **6** | 0 | kei101895 | 6 | -win by default- |
 
@@ -1100,16 +1100,16 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSaId6g7d0Rr6UaAkteob2zggYO8tTgjuRJq0xHRCOPpQo_gOTTSs3m2YPscsbawlNhxv3fUVFQxomU/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 1 | **arge-** | **5** | 0 | partycarft30 | 16 | |
-| 8 | Edison | 0 | **5** | **Andrei--** | 9    | -win by default- |
+| 1 | **arge-** | **5** | 0 | partycarft30 | 16 |  |
+| 8 | Edison | 0 | **5** | **Andrei--** | 9 | -win by default- |
 | 4 | **Ikisouu** | **5** | 0 | Izayoi-san- | 13 | -win by default- |
-| 5 | **Shiyui-** | **5** | 0 | Suravur | 12 | |
-| 2 | **Baltz** | **5** | 0 | hikaruXD19 | 15 | |
-| 7 | Batujitsu | **5** | 1 | Inoariusu | 10 | |
-| 3 | **Silhoueska Elze** | **5** | 0 | LohaWarpe | 14 | |
-| 6 | **kei101895** | **5** | 1 | vincent4399 | 11 | |
+| 5 | **Shiyui-** | **5** | 0 | Suravur | 12 |  |
+| 2 | **Baltz** | **5** | 0 | hikaruXD19 | 15 |  |
+| 7 | Batujitsu | **5** | 1 | Inoariusu | 10 |  |
+| 3 | **Silhoueska Elze** | **5** | 0 | LohaWarpe | 14 |  |
+| 6 | **kei101895** | **5** | 1 | vincent4399 | 11 |  |
 
 #### Qualifiers
 
@@ -1121,19 +1121,19 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRU-FRNZQkxl8hAc_qSTV4Xer90XlzStTdJ51n3wldcw6ArtmMNXJX5O_jzfnqTYzFsCdSu8tNBYZL8/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
 | 2 | Cielo Day | 0 | **7** | **fer789** | 4 | -win by default- |
-| 1 | **Nikana** | **7** | 2 | fer789 | 4 | |
+| 1 | **Nikana** | **7** | 2 | fer789 | 4 |  |
 
 #### Finals Week 1
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vT_JfWTcj1zCEK5-i7wMXqHAAYVKOWd0l78S_x4I0TcsjyY54eZdMWMVOxNV22ZmRGWIABT11Qhb8Nc/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
 | 3 | FeveredNickel | 0 | **7** | **kei101895** | 8 | -win by default- |
-| 4 | **fer789** | **7** | 0 | LohaWarpe | 6 | |
+| 4 | **fer789** | **7** | 0 | LohaWarpe | 6 |  |
 | 8 | kei101895 | 0 | **7** | **fer789** | 4 | -win by default- |
 | 1 | **Nikana** | **7** | 0 | Cielo Day | 2 | -win by default- |
 
@@ -1141,21 +1141,21 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vRfjIu95cYDKCUjKebQMQkknWpXC4TOoGOhuwJUVqd1Jsi_PnPrNlxSQU4ZmlZg572FGBaYeDgbWJ0F/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
 | 8 | **kei101895** | **6** | 0 | Andrei-- | 5 | -win by default- |
 | 10 | Shawntell | 0 | **6** | **LohaWarpe** | 6 | -win by default- |
-| 1 | **Nikana** | **6** | 0 | fer789 | 4 | |
+| 1 | **Nikana** | **6** | 0 | fer789 | 4 |  |
 | 2 | **Cielo Day** | **6** | 0 | FeveredNickel | 3 | -win by default- |
 
 #### Round 2
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTBRTEeEZzthj89QUjFI4Qu_TgwZEkL83gk3cKLw11JQttR4v3jo0lWyI4kGMds1T3rXFYqgcTVsNIf/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
-| 4 | **fer789** | **6** | 0 | Andrei-- | 5 | |
-| 3 | **FeveredNickel** | **6** | 0 | LohaWarpe | 6 | |
+| 4 | **fer789** | **6** | 0 | Andrei-- | 5 |  |
+| 3 | **FeveredNickel** | **6** | 0 | LohaWarpe | 6 |  |
 | 1 | **Nikana** | **6** | 0 | kei101895 | 8 | -win by default- |
 | 2 | **Cielo Day** | **6** | 0 | Shawntell | 10 | -win by default- |
 | 5 | **Andrei--** | **6** | 0 | LackPoints | 7 | -win by default- |
@@ -1165,7 +1165,7 @@ Detailed results for this round are found via [this link](https://docs.google.co
 
 Detailed results for this round are found via [this link](https://docs.google.com/spreadsheets/d/e/2PACX-1vQkhVuw3v01xpEBje5ThPQ96jlvGU-1XY7eO2g57GRd9lr_LNwNsGahh6T46u4uvnD5Tm6WmUymKkzK/pubhtml)
 
-| Seed | Player 1 | | | Player 2 | Seed | |
+| Seed | Player 1 |  |  | Player 2 | Seed |  |
 | :-: | --: | :-: | :-: | :-- | :-: | :-- |
 | 8 | **kei101895** | **5** | 0 | Keishii | 9 | -win by default- |
 | 7 | LackPoints | 0 | **5** | **Shawntell** | 10 | -win by default- |

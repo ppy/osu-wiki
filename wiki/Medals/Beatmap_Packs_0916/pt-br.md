@@ -1,12 +1,3 @@
-[media-anime-vol-1]: https://www.mediafire.com/?9n65pm9fp8yp5bn
-[media-anime-vol-2]: https://www.mediafire.com/?722os55j52ikylq
-[media-anime-vol-3]: https://www.mediafire.com/?tky7bjc58hcno6b
-[media-anime-vol-4]: https://www.mediafire.com/?j5b5b6bimr5ahdv
-[media-rhythm-vol-1]: https://www.mediafire.com/?87n2agcrcgmwxob
-[media-rhythm-vol-2]: https://www.mediafire.com/?axvxrnx637767ls
-[media-rhythm-vol-3]: https://www.mediafire.com/?781tio8fge7y7d2
-[media-rhythm-vol-4]: https://www.mediafire.com/?6hc29ws6j36dcag
-
 # Pacotes de Beatmap
 
 ***[Clique aqui para retornar à página "Conquistas"](..)***
@@ -20,7 +11,7 @@ Pacotes temáticos clássicos/originais durante os anos de infância do osu! (20
 
 Download:
 
-- [MediaFire][media-anime-vol-1]
+- [MediaFire](https://www.mediafire.com/?9n65pm9fp8yp5bn)
 
 Mapas:
 
@@ -44,7 +35,7 @@ Mapas:
 
 Download:
 
-- [MediaFire][media-anime-vol-2]
+- [MediaFire](https://www.mediafire.com/?722os55j52ikylq)
 
 Mapas:
 
@@ -68,7 +59,7 @@ Mapas:
 
 Download:
 
-- [MediaFire][media-anime-vol-3]
+- [MediaFire](https://www.mediafire.com/?tky7bjc58hcno6b)
 
 Mapas:
 
@@ -92,7 +83,7 @@ Mapas:
 
 Download:
 
-- [MediaFire][media-anime-vol-4]
+- [MediaFire](https://www.mediafire.com/?j5b5b6bimr5ahdv)
 
 Mapas:
 
@@ -218,7 +209,7 @@ Mapas:
 
 Download:
 
-- [MediaFire][media-rhythm-vol-1]
+- [MediaFire](https://www.mediafire.com/?87n2agcrcgmwxob)
 
 Mapas:
 
@@ -242,7 +233,7 @@ Mapas:
 
 Download:
 
-- [MediaFire][media-rhythm-vol-2]
+- [MediaFire](https://www.mediafire.com/?axvxrnx637767ls)
 
 Mapas:
 
@@ -266,7 +257,7 @@ Mapas:
 
 Download:
 
-- [MediaFire][media-rhythm-vol-3]
+- [MediaFire](https://www.mediafire.com/?781tio8fge7y7d2)
 
 Mapas:
 
@@ -290,7 +281,7 @@ Mapas:
 
 Download:
 
-- [MediaFire][media-rhythm-vol-4]
+- [MediaFire](https://www.mediafire.com/?6hc29ws6j36dcag)
 
 Mapas:
 

@@ -6,7 +6,8 @@ module.exports = {
     listItemIndent: '1',
     paddedTable: false,
     rule: '-',
-    ruleSpaces: false
+    ruleSpaces: false,
+    tightDefinitions: true
   },
   plugins: [
     'preset-lint-markdown-style-guide',

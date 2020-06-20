@@ -1,6 +1,4 @@
----
-needs_cleanup: true
----
+<!-- TODO: strange descriptions in many places and unhelpful order if you're trying to see what this game mode is all about. -->
 
 # osu! (game mode)
 
@@ -18,7 +16,7 @@ The gameplay circles can be seen on the bottom screen, and the story on the top 
 
 ## ![](/wiki/shared/mode/osu.png) Gameplay
 
-*Tutorial: [(Bundled with PC osu!) Original tutorial](https://osu.ppy.sh/beatmapsets/3756), [Ranked beatmap version](https://osu.ppy.sh/beatmapsets/19928).*
+*Tutorial: [new beginnings (Bundled with osu!)](https://osu.ppy.sh/beatmapsets/1011011).*
 
 The gameplay puts emphasis on:
 
@@ -90,7 +88,7 @@ The default controls for osu! are:
 
 | Mouse | Keyboard | Tablet/Touchscreen |
 | :-- | :-- | :-- |
-| Left click(M1) / Right click(M2)|`Z`(K1) / `X`(K2)|Touching the screen(M1) |
+| Left click(M1) / Right click(M2) | `Z`(K1) / `X`(K2) | Touching the screen(M1) |
 
 The hit objects in osu! will accept any input from the input device, as long as each hit objects was tapped in time.
 
@@ -126,7 +124,7 @@ In other words: `Accuracy = Total points of hits / (Total number of hits * 300p)
 | Term | Formula |
 | :-: | :-- |
 | **Total points of hits** | `(50s * 50p) + (100s * 100p) + (300s * 300p)` |
-| **Total number of hits** | `(Misses + 50s + 100s + 300s) * 300` |
+| **Total number of hits** | `Misses + 50s + 100s + 300s` |
 | **s** | Number of |
 | **p** | points |
 

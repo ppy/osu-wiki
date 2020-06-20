@@ -1,10 +1,3 @@
----
-needs_cleanup: true
----
-
-[true]: /wiki/shared/true.png
-[false]: /wiki/shared/false.png
-
 # Interface skinning
 
 *See also: [Skinning Interface Tutorial](/wiki/Skinning_Interface_Tutorial) and [Interface](/wiki/Interface)*
@@ -2503,3 +2496,6 @@ Notes:
 - This element is on top of the `selection-mode.png` element.
 - Select [osu!mania](/wiki/osu!mania) for this to see.
 - If the `menu-snow.png` element is not skinned, this element will be used if it is selected.
+
+[true]: /wiki/shared/true.png
+[false]: /wiki/shared/false.png
