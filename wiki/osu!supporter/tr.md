@@ -1,9 +1,3 @@
----
-outdated: true
----
-
-<!-- TODO: website updates, needs a review on the writing style -->
-
 # osu!supporter
 
 *Siteden osu!supporter sayfasına gitmek için, bakınız: [oyunu destekle](https://osu.ppy.sh/home/support)*
