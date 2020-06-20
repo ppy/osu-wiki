@@ -35,11 +35,11 @@ The **Taiko Korean Beatmap Contest #1** (***TKBC1***) is a osu!taiko mapping con
 
 ### Metadata rules
 
-- Artist should be asdf.
-- Title should be 1223.
-- Difficulty should be Oni or Inner Oni.
-- Source and Tags should be blank.
-- When you submit your map, contain the metadata to the mail.
+- Artist must be `asdf`.
+- Title must be `1223`.
+- Difficulty must be Oni or Inner Oni.
+- Source and tags must be left blank.
+- When submitting your map, include the metadata in the email.
 
 ## Theme
 
