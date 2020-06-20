@@ -6,8 +6,10 @@ layout: main_page
 osu! wiki'sine hoşgeldin, osu! ile ilgili çok çeşitli bilgiler içeren bir proje.
 </div>
 
+
 <div class="wiki-main-page__panels">
 <div class="wiki-main-page-panel">
+
 
 # Başlarken
 
@@ -16,12 +18,14 @@ osu! wiki'sine hoşgeldin, osu! ile ilgili çok çeşitli bilgiler içeren bir p
 </div>
 <div class="wiki-main-page-panel">
 
+
 # Oynanış
 
 [SSS](/wiki/FAQ) • [Çoklu](/wiki/Multi) • [Oyun Modları](/wiki/Game_Modes): ([osu!](/wiki/Game_Modes/osu!) • [osu!taiko](/wiki/Game_Modes/osu!taiko) • [osu!catch](/wiki/Game_Modes/osu!catch) • [osu!mania](/wiki/Game_Modes/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">
+
 
 # [Beatmap Editörü](/wiki/Beatmap_Editor)
 
@@ -30,6 +34,7 @@ Bölümler: ([Oluşturma](/wiki/Beatmap_Editor/Compose) • [Dizayn](/wiki/Beatm
 </div>
 <div class="wiki-main-page-panel">
 
+
 # Çevrimiçi Düzenleme ve Derecelendirme
 
 [Gönderme](/wiki/Submission) • [Beatmap Onayı](/wiki/Beatmap_ranking_procedure) • [Modlama](/wiki/Modding) • [Derecelendirme Kriterleri](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
@@ -37,12 +42,14 @@ Bölümler: ([Oluşturma](/wiki/Beatmap_Editor/Compose) • [Dizayn](/wiki/Beatm
 </div>
 <div class="wiki-main-page-panel">
 
+
 # osu! Dünyası
 
 [Sözlük](/wiki/Glossary) • [Turnuvalar](/wiki/Tournaments) • [Stilleme](/wiki/Skinning) • [Projeler](/wiki/Projects)
 
 </div>
 <div class="wiki-main-page-panel">
+
 
 # Kişiler
 
