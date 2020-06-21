@@ -35,14 +35,18 @@ On top of all the intricacies that go into making this map special, the mapper h
 [Ducky Chix - Prayer](https://osu.ppy.sh/beatmapsets/954556#osu) by [Taikuta](https://osu.ppy.sh/users/207967)  
 160 BPM, 4:39 | 7.06★
 
-What's a good map collection without some high-star Eurobeat maps to jam out to? While there are hundreds of Eurobeat maps out there in the graveyard, the 260 people who have already favourited this map would agree that Taikuta's map of the song *Prayer* is one of the best ones out there. The map reaches a length of almost five minutes and is filled with flowy alt patterns at 160 BPM. Not just any alt patterns, though: these are the kinds of patterns that you hit and think to yourself, "that felt good." That might sound like fun and all, but if you really want to know what it's like, check out the map for yourself!
+What's a good map collection without some high-star Eurobeat maps to jam out to? While there are hundreds of Eurobeat maps out there in the graveyard, the 260 people who have already favourited this map would agree that Taikuta's map of the song *Prayer* is one of the best ones out there.
+
+The map reaches a length of almost five minutes and is filled with flowy alt patterns at 160 BPM. Not just any alt patterns, though: these are the kinds of patterns that you hit and think to yourself, "that felt good." That might sound like fun and all, but if you really want to know what it's like, check out the map for yourself!
 
 [![](/wiki/shared/news/2020-06-21-project-loved-june-2020/osu/3-humanoid.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [ZUTOMAYO - Humanoid](https://osu.ppy.sh/beatmapsets/972298#osu) by [Meg](https://osu.ppy.sh/users/1872496)  
 159 BPM, 4:00 | 5.72★
 
-Meg is a fairly popular mapper known for having high-quality jump maps, but their high 5-star collaboration with Tsumia of *Humanoid* showcases their ability to make super enjoyable alternating maps as well. The map is 159 BPM and features many intricate alternating patterns, sliders, and finger control. Over the two years since this mapset was submitted, it has garnered over 350 favourites and was even featured in the official osu! World Cup 2019. If you'd like to see what all the hype is about (and maybe add the map to your own favorites!), download the map for yourself and have some of the fun!
+Meg is a fairly popular mapper known for having high-quality jump maps, but their high 5-star collaboration with Tsumia of *Humanoid* showcases their ability to make super enjoyable alternating maps as well. The map is 159 BPM and features many intricate alternating patterns, sliders, and finger control.
+
+Over the two years since this mapset was submitted, it has garnered over 350 favourites and was even featured in the official osu! World Cup 2019. If you'd like to see what all the hype is about (and maybe add the map to your own favorites!), download the map for yourself and have some of the fun!
 
 [![](/wiki/shared/news/2020-06-21-project-loved-june-2020/osu/4-accumula-town.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -85,7 +89,9 @@ osu!taiko Loved candidates were chosen by [jyake](https://osu.ppy.sh/users/90998
 140 BPM, 5:24 | 5.96★  
 *description written by [jyake](https://osu.ppy.sh/users/9099822)*
 
-This map by Mew is the definition of clean, capturing the essence of rhythm game based on drums. No patterns feel out of place; no over-mapping fills the gaps. Although complex streams and crazy technical 1/6 is fun, I would personally like to emphasize how much fun it is to hit notes that feel like part of the music. Mew captures this style of mapping perfectly, with the combination of drum-like mapping and smooth SV that hits just right. This is a very polished map that rewards the player for feeling the beat.
+This map by Mew is the definition of clean, capturing the essence of drum-based rhythm gaming. No patterns feel out of place; no over-mapping fills the gaps. Although complex streams and crazy technical 1/6 is fun, I would personally like to emphasize how much fun it is to hit notes that feel like part of the music.
+
+Mew captures this style of mapping perfectly, with the combination of drum-like mapping and smooth SV that hits just right. This is a very polished map that rewards the player for feeling the beat.
 
 [![](/wiki/shared/news/2020-06-21-project-loved-june-2020/taiko/2-energy-night.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -107,7 +113,9 @@ Finally, in 1st place, \_MMMMMM_MMMMMM\_ (A.K.A. un-plugged) snatched the win wi
 240 BPM, 2:50 | 9.04★  
 *description written by [-Kazu-](https://osu.ppy.sh/users/920861)*
 
-Terminal 11's *Adcar* is an incredibly hectic song with an indescribable feeling that Ulqui somehow managed to materialize in his map: there's fast paced streams, incredibly tricky patterns and a relentless difficulty that will squeeze every drop of your skill if you want to get even close to pass it. And so agreed the folks that select the map pools for osu!taiko World Cup, as it was featured in the Grand Finals of TWC 2020 as a NoMod pick, where the finalists had jaw-dropping performances (and an especially unbelievable performance by applerss, who managed to get an FC against UK). Hopefully, with this addition to the Loved section, we will continue to see incredible scores being made on the leaderboards!
+Terminal 11's *Adcar* is an incredibly hectic song with an indescribable feeling that Ulqui somehow managed to materialize in his map: there's fast paced streams, incredibly tricky patterns and a relentless difficulty that will squeeze every drop of your skill if you want to get even close to pass it. And so agreed the folks that select the map pools for osu!taiko World Cup, as it was featured in the Grand Finals of TWC 2020 as a NoMod pick, where the finalists had jaw-dropping performances (and an especially unbelievable performance by applerss, who managed to get an FC against UK).
+
+Hopefully, with this addition to the Loved section, we will continue to see incredible scores being made on the leaderboards!
 
 ## <a id="catch"></a>osu!catch
 
@@ -129,7 +137,9 @@ Rocma once again returns to the Loved section, but this time, it is not just Roc
 200 BPM, 3:32 | 7.17★  
 *description written by [Tenshichan](https://osu.ppy.sh/users/1101600)*
 
-Even though this was mapped long before Rohi became a Featured Artist in osu!, this is a good time to both celebrate the occasion and show the community what a great map \[\_-Kukkai-\_\] made. If you follow osu!catch mapping, then you are probably already familiar with his mapping style, as he is a very active mapper. Compared to his Ranked maps however, his unranked stuff usually goes beyond the ranking criteria and he presents you a lot of patterns that test your abilities. In *Kakuzetsu Thanatos*, he utilized a lot of fast-paced patterns with strong hyperdash usage. Furthermore, there are a handful of patterns that are difficult to keep a high accuracy on due to antiflow and strong hyperdashes which require good catcher control to be caught properly. All in all, this is a fun map which truly deserves more attention.
+Even though this was mapped long before Rohi became a Featured Artist in osu!, this is a good time to both celebrate the occasion and show the community what a great map \[\_-Kukkai-\_\] made. If you follow osu!catch mapping, then you are probably already familiar with his mapping style, as he is a very active mapper. Compared to his Ranked maps however, his unranked stuff usually goes beyond the ranking criteria and he presents you a lot of patterns that test your abilities.
+
+In *Kakuzetsu Thanatos*, he utilized a lot of fast-paced patterns with strong hyperdash usage. Furthermore, there are a handful of patterns that are difficult to keep a high accuracy on due to antiflow and strong hyperdashes which require good catcher control to be caught properly. All in all, this is a fun map which truly deserves more attention.
 
 [![](/wiki/shared/news/2020-06-21-project-loved-june-2020/catch/3-yuyushiki-of-nights.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -137,7 +147,9 @@ Even though this was mapped long before Rohi became a Featured Artist in osu!, t
 180 BPM, 2:51 | 5.70★, 5.70★  
 *description written by [Sartan](https://osu.ppy.sh/users/4100941)*
 
-So there's nothing wrong with a little bit of humour every once in a while, right? After about a 14 month wait, we introduce another Badis map to the Loved section: *Yuyushiki of Nights*. This is a fairly dated map now, having been mapped at the end of 2014. Back in those older days, it used to be a frequent multiplayer pick. Despite being old, it doesn't feel all too dated when you play it. The map structure does feel a little weird due to the map accentuating the vocal lines primarily over the instruments; you'll see what I mean when you try it. And try it out you should! It is not the hardest of maps, and the map has two difficulties with different approach rates, making it accessible to most players. So don't let those lovely animated girls wait in the background, give 'em a bit of love too and check out this map!
+So there's nothing wrong with a little bit of humour every once in a while, right? After about a 14 month wait, we introduce another Badis map to the Loved section: *Yuyushiki of Nights*. This is a fairly dated map now, having been mapped at the end of 2014. Back in those older days, it used to be a frequent multiplayer pick. Despite being old, it doesn't feel all too dated when you play it. The map structure does feel a little weird due to the map accentuating the vocal lines primarily over the instruments; you'll see what I mean when you try it.
+
+And try it out you should! It is not the hardest of maps, and the map has two difficulties with different approach rates, making it accessible to most players. So don't let those lovely animated girls wait in the background, give 'em a bit of love too and check out this map!
 
 [![](/wiki/shared/news/2020-06-21-project-loved-june-2020/catch/4-no-poi-nenpulse-bootleg-remix.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
@@ -170,21 +182,29 @@ Contrary to its name, You Can (sometimes) Redo, and it's clear Shoegazer's call 
 [QUIL - Gympie Gympe](https://osu.ppy.sh/beatmapsets/560952#mania) by [Valedict](https://osu.ppy.sh/users/2537082)  
 242 BPM, 2:23 | \[4K\], 4.98★ – 6.50★
 
-Repetitive musical motifs and the subsequent deliberate usage of repetitive patterns seems to be a trend for the first two charts in osu!mania's Loved nominations, with the second being Valedict's *Gympie Gympe*! The chart is a relatively slow jack chart, with the jacks clocking in at 115 BPM, that uses the repeating and developing sounds to push the jacks' density further and further as the chart progresses. This makes playing through not only satisfying, but also allows for the intensity of the play to increase as much as possible until the very end of the chart, making it extremely engaging no matter the skill level of the player. Not only this, but the mapset comes with many extra difficulties with higher rates, making it a great practice chart for people looking to improve their jacks, and a great challenge chart for the top-end players to show off their skills. Ultimately, *Gympie Gympe* became very popular as a result of these things on osu!mania and StepMania/Etterna, and has dug itself a fitting spot among the Loved nominations.
+Repetitive musical motifs and the subsequent deliberate usage of repetitive patterns seems to be a trend for the first two charts in osu!mania's Loved nominations, with the second being Valedict's *Gympie Gympe*! The chart is a relatively slow jack chart, with the jacks clocking in at 115 BPM, that uses the repeating and developing sounds to push the jacks' density further and further as the chart progresses. This makes playing through not only satisfying, but also allows for the intensity of the play to increase as much as possible until the very end of the chart, making it extremely engaging no matter the skill level of the player.
+
+Not only this, but the mapset comes with many extra difficulties with higher rates, making it a great practice chart for people looking to improve their jacks, and a great challenge chart for the top-end players to show off their skills. Ultimately, *Gympie Gympe* became very popular as a result of these things on osu!mania and StepMania/Etterna, and has dug itself a fitting spot among the Loved nominations.
 
 [![](/wiki/shared/news/2020-06-21-project-loved-june-2020/mania/3-warriors.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [Hommarju - Warriors](https://osu.ppy.sh/beatmapsets/376832#mania) by [ALEFY](https://osu.ppy.sh/users/1291769)  
 128 BPM, 2:01 | \[4K\] 3.29★, \[4K\] 3.29★
 
-Up next is an extremely simple nomination, but one that has gained an immense amount of popularity since it's upload. The map is ALEFY's *Warriors*, a staple of his SV maps that heavily utilizes red line gimmicks. The main draw of the map comes in its choruses, where this usage of red lines is most obvious: instantaneous teleports and 0 BPM lines create a seamless, sudden appearance of following notes and make for an interesting experience similar to that in [maskeara](https://osu.ppy.sh/users/2393914)'s Loved set of *[POSSESSION](https://osu.ppy.sh/beatmapsets/551469)* set. It's no wonder that *Warriors* gained the following it has today given these simple, yet very enjoyable SV gimmicks that keep players coming back. This makes it a clear shoo-in for Loved.
+Up next is an extremely simple nomination, but one that has gained an immense amount of popularity since its upload. The map is ALEFY's *Warriors*, a staple of his SV maps that heavily utilizes red line gimmicks. The main draw of the map comes in its choruses, where this usage of red lines is most obvious: instantaneous teleports and 0 BPM lines create a seamless, sudden appearance of following notes and make for an interesting experience similar to that in [maskeara](https://osu.ppy.sh/users/2393914)'s Loved set of *[POSSESSION](https://osu.ppy.sh/beatmapsets/551469)* set.
+
+It's no wonder that *Warriors* gained the following it has today given these simple, yet very enjoyable SV gimmicks that keep players coming back. This makes it a clear shoo-in for Loved.
 
 [![](/wiki/shared/news/2020-06-21-project-loved-june-2020/mania/4-chaosmaid.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
 [paraoka - chaosmaid](https://osu.ppy.sh/beatmapsets/533893#mania) by [shuniki](https://osu.ppy.sh/users/4942174)  
 189 BPM, 3:52 | \[4K\] 7.69★, \[4K\] 5.01★
 
-A familiar face in the loved section, shuniki returns with *chaosmaid*, another fun and challenging long-note community favorite. Like shuniki's other LN maps that were previously nominated for Loved, *chaosmaid* is a staple LN map for all those LN fanatics out there. It's a relatively straightforward map when it comes to shuniki, with its simplistic, repetitive structure executed in a smooth and satisfying manner. At 189 BPM, the map contains dense long-note inverse jumpstream patterns, followed by minijacks and almost rude SV transitions. In the middle section, the gaps between the long notes shrink, making it very necessary for the player to concentrate especially hard, as this section is very difficult to read even in comparison to the inverses. After this, the buildup and chorus repeat themselves, with slightly smaller gaps in the buildup, coming full circle at the end. Overall, it is not surprising that this chart has become so popular among LN players, as it presents a challenge in many different sub-skillsets of LNs. But not only that, the patterns are very smooth and fun, making for an enjoyable experience. With its approachability, popularity, and fun, there's no question that *chaosmaid* deserves a spot in Loved.
+A familiar face in the Loved section, shuniki returns with *chaosmaid*, another fun and challenging long-note community favorite. Like shuniki's other LN maps that were previously nominated for Loved, *chaosmaid* is a staple LN map for all those LN fanatics out there. It's a relatively straightforward map when it comes to shuniki, with its simplistic, repetitive structure executed in a smooth and satisfying manner.
+
+At 189 BPM, the map contains dense long-note inverse jumpstream patterns, followed by minijacks and almost rude SV transitions. In the middle section, the gaps between the long notes shrink, making it very necessary for the player to concentrate especially hard, as this section is very difficult to read even in comparison to the inverses. After this, the buildup and chorus repeat themselves, with slightly smaller gaps in the buildup, coming full circle at the end.
+
+Overall, it is not surprising that this chart has become so popular among LN players, as it presents a challenge in many different sub-skillsets of LNs. But not only that, the patterns are very smooth and fun, making for an enjoyable experience. With its approachability, popularity, and fun, there's no question that *chaosmaid* deserves a spot in Loved.
 
 [![](/wiki/shared/news/2020-06-21-project-loved-june-2020/mania/5-alipay-s-6k-practice-pack.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
