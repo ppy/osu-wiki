@@ -1,4 +1,13 @@
+outdated: true # missing alumni.roles.tournaments, languages.ur, languages.vi, languages.hr
 separator: ", "
+alumni:
+  roles:
+    academy: Fundador da osu!academy
+    admin: Administração
+    chat: Moderador de Chat
+    dev: osu!dev
+    media: criador do osu!media
+    support: Equipe de Suporte
 gmt:
   all_mods: Todos os moderadores
   areas:

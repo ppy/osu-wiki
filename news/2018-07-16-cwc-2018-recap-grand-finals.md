@@ -14,7 +14,7 @@ It was truly a tournament for the ages, as old gods fell, and new warriors arose
 
 There's no need to simply take my word for it though – naturally you can find videos of both Finals Week 2 matches (and previous' weeks if you need a refresher) on the [osu!live Twitch channel](https://www.twitch.tv/osulive). If you can spare some time, you absolutely will not regret watching all the action as it went down!
 
-<iframe src="https://player.twitch.tv/?autoplay=false&video=v284639720" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
+<iframe src="https://player.twitch.tv/?video=v284639720&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
 
 ## Finals Week 2
 

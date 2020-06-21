@@ -8,7 +8,7 @@ User titles are typically associated with [user groups](/wiki/People/The_Team#us
 
 One of the prizes given to first-place winners of [official World Cups](/wiki/Tournaments#official-world-cups) is a user title that lasts for one year.
 
-Winners of OWC 2019 with the **osu! Champion** user title:
+Winners of [OWC 2019](/wiki/Tournaments/OWC/2019) with the **osu! Champion** user title:
 
 - ![][flag_US] [Aireu](https://osu.ppy.sh/users/1650010)
 - ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445)
@@ -19,7 +19,7 @@ Winners of OWC 2019 with the **osu! Champion** user title:
 - ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689)
 - ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150)
 
-Winners of TWC 2020 with the **osu!taiko Champion** user title:
+Winners of [TWC 2020](/wiki/Tournaments/TWC/2020) with the **osu!taiko Champion** user title:
 
 - ![][flag_JP] [ekumea1123](https://osu.ppy.sh/users/9119501)
 - ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401)
@@ -27,15 +27,16 @@ Winners of TWC 2020 with the **osu!taiko Champion** user title:
 - ![][flag_JP] [Seren58](https://osu.ppy.sh/users/15252950)
 - ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719)
 
-Winners of CWC 2019 with the **osu!catch Champion** user title:
+Winners of [CWC 2020](/wiki/Tournaments/CWC/2020) with the **osu!catch Champion** user title:
 
-- ![][flag_KR] [[224]Hyperw7](https://osu.ppy.sh/users/4158549)
-- ![][flag_KR] [Berea](https://osu.ppy.sh/users/3657951)
 - ![][flag_KR] [Motion](https://osu.ppy.sh/users/3885626)
 - ![][flag_KR] [qwhj1027](https://osu.ppy.sh/users/7547506)
 - ![][flag_KR] [R-18](https://osu.ppy.sh/users/4637369)
+- ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276)
+- ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
+- ![][flag_KR] [T s u m i](https://osu.ppy.sh/users/4080520)
 
-Winners of MWC 4K 2019 with the **osu!mania Champion** user title:
+Winners of [MWC 4K 2019](/wiki/Tournaments/MWC/2019_4K) with the **osu!mania Champion** user title:
 
 - ![][flag_KR] [blueBloody](https://osu.ppy.sh/users/8046839)
 - ![][flag_KR] [Kalkai](https://osu.ppy.sh/users/10790649)
@@ -43,13 +44,6 @@ Winners of MWC 4K 2019 with the **osu!mania Champion** user title:
 - ![][flag_KR] [Transcendence](https://osu.ppy.sh/users/903155)
 - ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029)
 - ![][flag_KR] [Yeoul](https://osu.ppy.sh/users/4698728)
-
-Winners of MWC 7K 2019 with the **osu!mania Champion** user title:
-
-- ![][flag_KR] [Estonians](https://osu.ppy.sh/users/7014697)
-- ![][flag_KR] [Jakads](https://osu.ppy.sh/users/259972)
-- ![][flag_KR] [NKEYBOARD](https://osu.ppy.sh/users/10132430)
-- ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029)
 
 ### General mapping contest winners
 
@@ -88,7 +82,6 @@ Most official mapping contests offer the **Elite Mapper** title as a first-place
 
 Since 2020, [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators)' and [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team) members' activity in supporting the ranking system has been rewarded with the **Elite Nominator** title. This title is given at the beginning of each year for contributions made during the last, and is removed upon the user leaving the team.
 
-- ![][flag_MY] [\_Kobii](https://osu.ppy.sh/users/6209713)
 - ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437)
 - ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970)
 - ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410)
@@ -106,7 +99,7 @@ The Aspire mapping contests feature a special variation of the Elite Mapper titl
 - ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
 - ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231)
 
-![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) received this title after already having an Elite Mapper title, so it was "upgraded" to **Elite Mapper II: Aspirant**.
+![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) received this title after already having an Elite Mapper title, so it was "upgraded" to **Elite Mapper II: Aspirant**. ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) is currently using the **osu!catch Champion** title instead.
 
 ### osu!remix contest winners
 
@@ -208,10 +201,8 @@ These players earned their titles through either a crazy gameplay achievement or
 
 | User | Title |
 | :-- | :-- |
-| ![][flag_MY] [\_Kobii](https://osu.ppy.sh/users/6209713) | Elite Nominator |
 | ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions |
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | Elite Mapper |
-| ![][flag_KR] [[224]Hyperw7](https://osu.ppy.sh/users/4158549) | osu!catch Champion |
 | ![][flag_US] [11t](https://osu.ppy.sh/users/2112092) | Elite Storyboarder |
 | ![][flag_US] [Aireu](https://osu.ppy.sh/users/1650010) | osu! Champion |
 | ![][flag_US] [antiPLUR](https://osu.ppy.sh/users/7318723) | Featured Artist |
@@ -220,7 +211,6 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | osu!painter |
 | ![][flag_SH] [BanchoBot](https://osu.ppy.sh/users/3) | w00t p00t |
 | ![][flag_US] [Behonkiss](https://osu.ppy.sh/users/106) | Elite Mapper |
-| ![][flag_KR] [Berea](https://osu.ppy.sh/users/3657951) | osu!catch Champion |
 | ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) | osu!mixer |
 | ![][flag_KR] [blueBloody](https://osu.ppy.sh/users/8046839) | osu!mania champion |
 | ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437) | Elite Nominator |
@@ -239,7 +229,6 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_AU] [Drum Decimator](https://osu.ppy.sh/users/4841352) | Drum Decimator |
 | ![][flag_US] [eiri-](https://osu.ppy.sh/users/3388410) | Elite Nominator |
 | ![][flag_JP] [ekumea1123](https://osu.ppy.sh/users/9119501) | osu!taiko Champion |
-| ![][flag_KR] [Estonians](https://osu.ppy.sh/users/7014697) | osu!mania Champion |
 | ![][flag_PL] [Exile-](https://osu.ppy.sh/users/2559349) | Elite Storyboarder |
 | ![][flag_MY] [ExPew](https://osu.ppy.sh/users/665612) | Elite Mapper |
 | ![][flag_US] [fieryrage](https://osu.ppy.sh/users/3533958) | osu! Champion |
@@ -248,7 +237,6 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_SE] [Helblinde](https://osu.ppy.sh/users/48053) | Featured Artist |
 | ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401) | osu!taiko Champion |
 | ![][flag_US] [idke](https://osu.ppy.sh/users/4650315) | osu! Champion |
-| ![][flag_KR] [Jakads](https://osu.ppy.sh/users/259972) | osu!mania Champion |
 | ![][flag_PH] [James](https://osu.ppy.sh/users/5728) | osu! Hall of Famer |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | osu!catch Paragon |
 | ![][flag_PH] [Jemzuu](https://osu.ppy.sh/users/7890134) | Elite Nominator |
@@ -275,7 +263,6 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_JP] [nakanojojo](https://osu.ppy.sh/users/10631848) | Featured Artist |
 | ![][flag_CN] [Necho](https://osu.ppy.sh/users/4086593) | Elite Mapper |
 | ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) | osu!musician |
-| ![][flag_KR] [NKEYBOARD](https://osu.ppy.sh/users/10132430) | osu!mania Champion |
 | ![][flag_FR] [Nofool](https://osu.ppy.sh/users/672430) | Elite Mapper |
 | ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | iPhone Dev |
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | osu!taiko Paragon |
@@ -287,6 +274,7 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_KR] [R-18](https://osu.ppy.sh/users/4637369) | osu!catch Champion |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter |
 | ![][flag_US] [RLC](https://osu.ppy.sh/users/1047883) | Elite Mapper |
+| ![][flag_KR] [Rocma](https://osu.ppy.sh/users/566276) | osu!catch Champion |
 | ![][flag_MY] [RyoKazuka](https://osu.ppy.sh/users/6258586) | Elite Mapper |
 | ![][flag_CN] [Ryuusei Aika](https://osu.ppy.sh/users/7777875) | Elite Mapper |
 | ![][flag_US] [Saturos](https://osu.ppy.sh/users/3781) | osu! Hall of Famer |
@@ -297,10 +285,11 @@ These players earned their titles through either a crazy gameplay achievement or
 | ![][flag_TW] [SnowNiNo_](https://osu.ppy.sh/users/2506267) | Elite Mapper: Aspirant |
 | ![][flag_ES] [sotuiofficial](https://osu.ppy.sh/users/14779258) | Featured Artist |
 | ![][flag_LY] [Soul Evans](https://osu.ppy.sh/users/4490770) | Elite Mapper |
-| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | Elite Mapper: Aspirant |
+| ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) | osu!catch Champion |
 | ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | Pro Tester |
 | ![][flag_KR] [SuddenDeath](https://osu.ppy.sh/users/6699923) | osu!mania Champion |
 | ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231) | Elite Mapper: Aspirant |
+| ![][flag_KR] [T s u m i](https://osu.ppy.sh/users/4080520) | osu!catch Champion |
 | ![][flag_US] [t[-\_-t]](https://osu.ppy.sh/users/2644828) | osu! Champion |
 | ![][flag_KR] [Taeyang](https://osu.ppy.sh/users/2732340) | Elite Mapper |
 | ![][flag_US] [Thievley](https://osu.ppy.sh/users/4717672) | osu!artist |

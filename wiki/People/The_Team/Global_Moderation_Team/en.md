@@ -45,6 +45,7 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | :-- | :-- | :-- |
 | ![][flag_MY] [- [bibitaru] -](https://osu.ppy.sh/users/4482419) | Chinese, Malay | Chat moderation |
 | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985) | German | Chat moderation |
+| ![][flag_US] [abraker](https://osu.ppy.sh/users/4635891) |  | Forum moderation |
 | ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | Chat moderation, beatmap moderation |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | German | Chat moderation |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Spanish | Chat moderation, forum moderation |
@@ -56,7 +57,6 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Bulgarian | osu!idol hosting, forum moderation, beatmap moderation |
 | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | French | Chat moderation, forum moderation, beatmap moderation |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Polish | Chat moderation |
-| ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | Turkish | Chat moderation |
 | ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Chat moderation, beatmap moderation |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Spanish | Tournaments |
 | ![][flag_HK] [kanpakyin](https://osu.ppy.sh/users/394326) | Cantonese, Chinese, Japanese | Chat moderation |
@@ -74,10 +74,10 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | ![][flag___] [osu!team](https://osu.ppy.sh/users/4341397) |  | Official team presence |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | German | Tournaments, beatmap moderation |
 | ![][flag_FR] [Pachiru](https://osu.ppy.sh/users/2850983) | French | Chat moderation, forum moderation |
-| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) |  | Chat moderation, technical support |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portuguese | Chat moderation |
 | ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | Spanish, Catalan | Chat moderation |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | Spanish | Chat moderation, wiki administration |
+| ![][flag_DE] [RockRoller](https://osu.ppy.sh/users/8388854) | German | Forum moderation |
 | ![][flag_KR] [ruexia](https://osu.ppy.sh/users/385069) | Korean | Chat moderation |
 | ![][flag_JP] [S o h](https://osu.ppy.sh/users/2234772) | Japanese | Chat moderation |
 | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | Swedish, Spanish | Chat moderation, beatmap moderation |
@@ -129,10 +129,9 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 | `#skandinavian` | [Skandinavien](https://osu.ppy.sh/community/forums/77) | ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) |
 | `#spanish` | [Español](https://osu.ppy.sh/community/forums/33) | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480), ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | `#thai` | [ภาษาไทย](https://osu.ppy.sh/community/forums/54) |  |
-| `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779), ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) |
+| `#turkish` | [Türkçe](https://osu.ppy.sh/community/forums/93) | ![][flag_TR] [Zeus-](https://osu.ppy.sh/users/5464437) |
 | `#vietnamese` |  |  |
 
-[flag___]: /wiki/shared/flag/__.gif
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
 [flag_AT]: /wiki/shared/flag/AT.gif "Austria"
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
@@ -163,3 +162,4 @@ The [Global Moderation Team group page](https://osu.ppy.sh/groups/4) lists all o
 [flag_TR]: /wiki/shared/flag/TR.gif "Turkey"
 [flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
 [flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag___]: /wiki/shared/flag/__.gif

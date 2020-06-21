@@ -162,7 +162,7 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 - **1/4 patterns should not be longer than nine notes.** Anything longer is likely to be too straining for the target audience of this difficulty level.
 - **Main snapping should consist of mostly 1/2 and occasional 1/1 rhythms.** 1/4 rhythms may be used more frequently at this level of difficulty.
 - **There should be at least 1/4 distance between a spinner and its preceding note.** This is to ensure they do not overlap substantially and assure readability.
-- **At least 1 rest moment which is 1/1 or longer should be inserted after 16/1 to 20/1 of continuous mapping.** Less frequent rest moments or shorter ones may put too much strain on beginners.
+- **At least 1 rest moment which is 1/1 or longer should be inserted after 16/1 to 20/1 of continuous mapping.** Players may be too strained if there are not enough rests or the rests are too short.
 - **1/4 patterns which are longer than five notes should avoid complicated colour changes.** Longer patterns with such complexity would be too demanding for the target audience of this difficulty level.
 
 #### Difficulty setting guidelines

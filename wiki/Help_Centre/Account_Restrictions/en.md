@@ -86,6 +86,21 @@ There are several reasons why an appeal might be denied.
 - **You continued offending while restricted.** There is no reason to unrestrict someone who continues to break the rules even after having been restricted. If you do continue offending, the cooldown for your account will be reset to your last offence. In the case of extreme or continuous offences, your appeal might be permanently denied.
 - **Your history is too severe.** In cases of extreme offenders, or players who get restricted again after they have already been unrestricted on a successful appeal, we might simply state that your history is too severe to rejoin the game at the current time. Should this apply to you, we recommend waiting **a long time** before appealing again, and making sure you do not break any further rules in that time.
 
+## My emails are being ignored / I don't think my appeal was handled fairly
+
+In the event that you feel your emails are not being read or addressed properly by our support team, please send us a full email at [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh) containing the following information:
+
+- How long you have been restricted for
+- The main reason why you think you've been restricted
+- Any previous appeals you've sent in that have been ignored/refused
+- A short summary of why you're unhappy with your appeal outcome (if applicable)
+
+All emails sent to the appeal review address will be investigated by a third party that isn't involved in the day-to-day operations of the support team and flagged for revision or further review.
+
+Please understand that sending an email to this address only guarantees a second look/initial answer to your appeal, it does not guarantee a change in any outcome if you have been found to be violating the expectations involved in the appealing process.
+
+**We will only respond to requests for appeal review/investigation via emails sent to [appeal-review@ppy.sh](mailto:appeal-review@ppy.sh).** Please don't try to contact osu!team members (or members of the volunteer teams) via Twitter, Discord, or any other platform in order to circumvent this policy - they cannot help you.
+
 ## Common restriction reasons and cooldowns
 
 | Restriction reason | Cooldown duration | Appeal notes |
@@ -97,4 +112,4 @@ There are several reasons why an appeal might be denied.
 | Cheating | 3 months | Appeal terms apply, 1 year tournament ban, and full rollback |
 | Excessive misconduct | Variable | Appeal terms apply. Cooldown will depend on history. |
 | Cheating/sharing for a tournament | 6 months | Appeal terms apply, appropriate rollback, permanent tournament ban |
-| Subsequent offences | 6 months | Appeal terms apply, appropriate rollback, tournament ban 1 year per offence|
+| Subsequent offences | 6 months | Appeal terms apply, appropriate rollback, tournament ban 1 year per offence |

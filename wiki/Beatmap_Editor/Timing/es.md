@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Tempo
 
 ![Menú de timing](img/Timing_base.jpg "Menú de timing")

@@ -1,15 +1,16 @@
 ---
 no_native_review: true
 ---
+
 <!-- TODO: the beginning doesn't match en.md exactly, but close enough to not get outdated tag -->
 
 # 社区贡献者
 
-![社区贡献者名牌](/wiki/shared/contributor.jpg "社区贡献者名牌")
+![](/wiki/shared/contributor.jpg "社区贡献者名牌")
 
 **社区贡献者** 是对那些主动向 osu! 社区投入了大量的心血，提供服务，贡献工具和新功能而使许多用户受益的人进行表彰所给予的名牌。这个名牌代表着他们曾为整个社区做出了显著的贡献。
 
-与社区贡献者相比，与 [osu!Alumni](/wiki/People/osu!_Alumni) 不同的是，后者纪念的是曾经的 osu!团队成员（如 [GMT](/wiki/People/Global_Moderation_Team)，[QAT](/wiki/People/Quality_Assurance_Team)，等等），社区贡献者名牌则授予那些在责任之外自发帮助改善 osu! 和社区环境的人。
+与社区贡献者相比，与 [osu! Alumni](/wiki/People/The_Team/osu!_Alumni) 不同的是，后者纪念的是曾经的 osu!团队成员（如 [GMT](/wiki/People/The_Team/Global_Moderation_Team)，[QAT](/wiki/Quality_Assurance_Team)，等等），社区贡献者名牌则授予那些在责任之外自发帮助改善 osu! 和社区环境的人。
 
 ## 2013
 
@@ -22,7 +23,7 @@ no_native_review: true
 | ![][flag_GB] [Darkimmortal](https://osu.ppy.sh/users/10886) | 开发了 [osu! 回放系统](https://osu.ppy.sh/community/forums/topics/108092) (将 .osr 回放文件录制成视频) |
 | ![][flag_DE] [nanashiRei](https://osu.ppy.sh/users/807630) | 建立并运行着 osu! 相关的时间最长的一个项目 [osu.yas-online.net 谱面镜像下载站](http://osu.yas-online.net/) |
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | 无数的客户端图像设计贡献及其它 |
-| ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | [成就](/wiki/Achievements) 的美术设计 |
+| ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | [成就](/wiki/Medals) 的美术设计 |
 | ![][flag_US] [akrolsmir](https://osu.ppy.sh/users/576800) | 开发了 [AIBat](https://osu.ppy.sh/community/forums/topics/55305) 这个最受欢迎的第三方摸图工具 |
 | ![][flag_NL] [statementreply](https://osu.ppy.sh/users/126198) | 在 Bug 修复和新功能测试方面杰出的表现以及为制图者及摸图者提供了许多实用功能 |
 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) | 组织了许多主要的官方竞赛 (包括 OWC) |
@@ -32,7 +33,7 @@ no_native_review: true
 | ![][flag_US] [DeathxShinigami](https://osu.ppy.sh/users/49516) | 3 年多默默无闻而又不辞勤劳地管理[曲包](https://osu.ppy.sh/beatmaps/packs) 以及数年对月度新谱面排名竞赛的管理 |
 | ![][flag_US] [LuigiHann](https://osu.ppy.sh/users/1079) | 年复一年的服务，包括了设计原创谱面皮肤，推进[故事版](/wiki/Storyboards)作为艺术和作图动力的发展 |
 | ![][flag_CA] [awp](https://osu.ppy.sh/users/2650) | 早期的社区管理并且在他有限的时间过程中作出了巨大的贡献 |
-| ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | 作为第一位临时的社区管理员和 GMT，他为 [GMT](/wiki/People/Global_Moderation_Team) 树立了一个非常好的榜样 |
+| ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | 作为第一位临时的社区管理员和 GMT，他为 [GMT](/wiki/People/The_Team/Global_Moderation_Team) 树立了一个非常好的榜样 |
 | ![][flag_US] [Ivalset](https://osu.ppy.sh/users/827) | 作为第一位行政主管和 BAT 管理员，他以一己之力从无到有建立了一个杰出的谱面管理团队 |
 
 ## 2015
@@ -94,7 +95,7 @@ no_native_review: true
 
 | 玩家 | 贡献 |
 | :-- | :-- |
-| ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | 常年担任 BAT/QAT，并在建立 osu!taiko 社区中做出了杰出贡献   |
+| ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | 常年担任 BAT/QAT，并在建立 osu!taiko 社区中做出了杰出贡献 |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | 在建立 osu!catch 社区，Ranking Criteria 重写及比赛事务中做出了杰出贡献 |
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | 长期担任 GMT，并在比赛事务和大量的媒体计划中做出了杰出贡献 |
 | ![][flag_US] [Garven](https://osu.ppy.sh/users/244216) | 常年服务于 BAT/QAT ，并在 Ranking Criteria 重写过程中做出巨大贡献 |

@@ -4,24 +4,24 @@
 
 ### Archive
 
-| File format                                 | Kegunaan                                                                                            |
+| File format | Kegunaan |
 | :-- | :-- |
-| [.osz][Osz Link]       | beatmap file.                                                                                             |
-| [.osk][Osk Link]       | skin file.                                                                                                |
-| [.db][Db Link]        | Informasi Cache/Database.                                                                                 |
+| [.osz][Osz Link] | beatmap file. |
+| [.osk][Osk Link] | skin file. |
+| [.db][Db Link] | Informasi Cache/Database. |
 
 ### Beatmap Editor
 
-| File format                                 | Kegunaan                                                                                            |
+| File format | Kegunaan |
 | :-- | :-- |
-| [.osu][Osu Link]       | [Compose](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Song Setup](/wiki/Beatmap_Editor/Song_Setup). |
-| [.osb][Osb Link]        | [Design](/wiki/Beatmap_Editor/Design).                                                                           |
+| [.osu][Osu Link] | [Compose](/wiki/Beatmap_Editor/Compose), [Timing](/wiki/Beatmap_Editor/Timing), [Song Setup](/wiki/Beatmap_Editor/Song_Setup). |
+| [.osb][Osb Link] | [Design](/wiki/Beatmap_Editor/Design). |
 
 ### Replay
 
-| File format                                 | Kegunaan                                                                                            |
+| File format | Kegunaan |
 | :-- | :-- |
-| [.osr][Osr Link]        | replay file (tidak bisa decompress).                                                                      |
+| [.osr][Osr Link] | replay file (tidak bisa decompress). |
 
 ## Membuat file .osz/.osk
 

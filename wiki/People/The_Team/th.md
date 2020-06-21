@@ -38,7 +38,7 @@ outdated: true
 | [mm201](https://osu.ppy.sh/users/30655) | ทีม osu! dev, mm sliders |
 | [nuudles](https://osu.ppy.sh/users/21312) | พัฒนา osu! iPhone |
 | Phil | ออกแบบฟอรัมเว็บ |
-| [Sarumaru](https://osu.ppy.sh/users/9427)  ([Sarumaru@deviantART.com](http://sarumaru.deviantart.com/)) | ต้นแบบแนวคิด pippi และออกแบบงาน artwork |
+| [Sarumaru](https://osu.ppy.sh/users/9427) ([Sarumaru@deviantART.com](http://sarumaru.deviantart.com/)) | ต้นแบบแนวคิด pippi และออกแบบงาน artwork |
 | [Sinistro](https://osu.ppy.sh/users/5530) | รายงานการประชุม, มีส่วนร่วมใน FAQ |
 | [woc2006](https://osu.ppy.sh/users/1105845) | ทีม osu! dev, พัฒนาโหมด osu!mania |
 

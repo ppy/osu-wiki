@@ -1,4 +1,13 @@
 separator: ", "
+alumni:
+  roles:
+    academy: osu!academy Founder
+    admin: Administration
+    chat: Chat Moderator
+    dev: osu!dev
+    media: osu!media creation
+    support: Support Team
+    tournaments: Tournaments
 gmt:
   all_mods: All moderators
   areas:
@@ -30,6 +39,7 @@ languages:
   fi: Finnish
   fil: Filipino
   fr: French
+  hr: Croatian
   hu: Hungarian
   id: Indonesian
   it: Italian
@@ -44,5 +54,7 @@ languages:
   sv: Swedish
   th: Thai
   tr: Turkish
+  ur: Urdu
+  vi: Vietnamese
   yue: Cantonese
   zh: Chinese
