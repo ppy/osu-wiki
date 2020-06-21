@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # osu! Alumni
 
 Os **osu! Alumni** são aqueles conhecidos por sua contribuições que desde então seguiram adiante. Se os recursos permitissem, nós ergeríamos uma estátua para cada membro na praça da cidade.
