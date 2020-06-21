@@ -72,9 +72,9 @@ Os seguintes são grupos de usuário que são feitos de membros da comunidade do
 | ![][flag_US] [RBRat3](https://osu.ppy.sh/users/307202) | osu!painter, extraordinário cara fazedor de coisas legais |
 | ![][flag_US] [Sarumaru](https://osu.ppy.sh/users/9427) | Designer da arte conceitual e do conceito original da pippi. [DeviantArt](https://sarumaru.deviantart.com/) |
 | ![][flag_GR] [Sinistro](https://osu.ppy.sh/users/5530) | Gerente e líder da comunidade emergente, contribuidor de meeting minutes e FAQ |
-| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Desenvolvedor do osu! e do pp|
+| ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | Desenvolvedor do osu! e do pp |
 | ![][flag_CN] [woc2006](https://osu.ppy.sh/users/1105845) | Desenvolvedor do osu!, desenvolvedor do modo osu!mania |
-| ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | Gerente da [osu!store](https://osu.ppy.sh/store/listing)|
+| ![][flag_JP] [yelle](https://osu.ppy.sh/users/4916903) | Gerente da [osu!store](https://osu.ppy.sh/store/listing) |
 | ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) | Professor da [osu!academy](/wiki/osu!academy), designer de mídia e personagem |
 
 [flag_AR]: /wiki/shared/flag/AR.gif "Argentina"

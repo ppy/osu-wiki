@@ -17,7 +17,6 @@ O resto da equipe ajuda com controle de qualidade, manutenção, e organização
 
 ## Membros da equipe
 
-
 *Nota: Há uma página de grupo da Equipe Project Loved no site com o ID 31 de grupo, mas a listagem não é pública. Isso é utilizado apenas para fins de gerenciamento.*
 
 ### Capitães do osu!standard
