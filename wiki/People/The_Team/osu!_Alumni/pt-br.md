@@ -1,10 +1,14 @@
+---
+no_native_review: true
+---
+
 # osu! Alumni
 
-**osu! Alumni** são jogadores conhecidos por suas contribuições mas que estão inativos em suas respectivas funções, ou simplesmente se retiraram do jogo completamente.
+Os **osu! Alumni** são aqueles conhecidos por sua contribuições que desde então seguiram adiante. Se os recursos permitissem, nós ergeríamos uma estátua para cada membro na praça da cidade.
 
-Link para a [página do grupo de usuários](https://osu.ppy.sh/groups/16).
+A [página de grupo dos osu! Alumni](https://osu.ppy.sh/groups/16) listam todos os membros.
 
-| Nome | Departamento |
+| Nome | Funções passadas |
 | :-- | :-- |
 | ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596) | BAT, GMT |
 | ![][flag_ID] [-SiN-](https://osu.ppy.sh/users/10560) | Moderador de Chat |
@@ -26,7 +30,7 @@ Link para a [página do grupo de usuários](https://osu.ppy.sh/groups/16).
 | ![][flag_AU] [Azure_Kite](https://osu.ppy.sh/users/66296) | MAT |
 | ![][flag_CN] [Ballance](https://osu.ppy.sh/users/165946) | Moderador de Chat |
 | ![][flag_ES] [Beuchi](https://osu.ppy.sh/users/67192) | GMT |
-| ![][flag_AU] [Blaizer](https://osu.ppy.sh/users/62018) | osu!dev |
+| ![][flag_AU] [Blaizer](https://osu.ppy.sh/users/62018) | Desenvolvedor do osu! |
 | ![][flag_US] [Blazevoir](https://osu.ppy.sh/users/120265) | GMT |
 | ![][flag_US] [blissfulyoshi](https://osu.ppy.sh/users/20865) | BAT |
 | ![][flag_US] [Blocko](https://osu.ppy.sh/users/4075092) | QAT |
@@ -47,7 +51,7 @@ Link para a [página do grupo de usuários](https://osu.ppy.sh/groups/16).
 | ![][flag_MX] [DakeDekaane](https://osu.ppy.sh/users/1425253) | BAT, QAT |
 | ![][flag_CA] [Dakeyrus](https://osu.ppy.sh/users/10441) | GMT |
 | ![][flag_DE] [Dangaard](https://osu.ppy.sh/users/19488) | BAT |
-| ![][flag_US] [Daru](https://osu.ppy.sh/users/32480) | osu!dev |
+| ![][flag_US] [Daru](https://osu.ppy.sh/users/32480) | Desenvolvedor do osu! |
 | ![][flag_US] [DawnII](https://osu.ppy.sh/users/8399) | BAT |
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | GMT |
 | ![][flag_TW] [deepsea](https://osu.ppy.sh/users/7824) | BAT |
@@ -61,7 +65,7 @@ Link para a [página do grupo de usuários](https://osu.ppy.sh/groups/16).
 | ![][flag_BR] [Dragvon](https://osu.ppy.sh/users/126927) | Moderador de Chat |
 | ![][flag_US] [drum drum](https://osu.ppy.sh/users/4435526) | GMT |
 | ![][flag_AU] [Duoprism](https://osu.ppy.sh/users/7186) | BAT |
-| ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | osu!dev |
+| ![][flag_NZ] [Echo](https://osu.ppy.sh/users/431) | Desenvolvedor do osu! |
 | ![][flag_US] [EiJi](https://osu.ppy.sh/users/2024) | BAT |
 | ![][flag_KR] [Elfin](https://osu.ppy.sh/users/1399551) | GMT |
 | ![][flag_CO] [ErunamoJAZZ](https://osu.ppy.sh/users/1869764) | Moderador de Chat, GMT |
@@ -84,7 +88,7 @@ Link para a [página do grupo de usuários](https://osu.ppy.sh/groups/16).
 | ![][flag_JP] [Guy](https://osu.ppy.sh/users/91738) | BAT, Moderador de Chat, QAT |
 | ![][flag_RU] [h3k1ru](https://osu.ppy.sh/users/291211) | GMT |
 | ![][flag_NL] [happy30](https://osu.ppy.sh/users/27767) | BAT |
-| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Tournaments |
+| ![][flag_US] [HappyStick](https://osu.ppy.sh/users/256802) | Torneios |
 | ![][flag_MY] [HeatKai](https://osu.ppy.sh/users/332555) | Moderador de Chat |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | GMT |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | GMT |
@@ -100,7 +104,7 @@ Link para a [página do grupo de usuários](https://osu.ppy.sh/groups/16).
 | ![][flag_GB] [jericho2442](https://osu.ppy.sh/users/88904) | BAT |
 | ![][flag_CA] [jonathanlfj](https://osu.ppy.sh/users/270377) | BAT |
 | ![][flag_MX] [Kai](https://osu.ppy.sh/users/4537) | BAT |
-| ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958) | GMT, criador do osu!media |
+| ![][flag_CA] [karterfreak](https://osu.ppy.sh/users/1031958) | GMT, Criador da osu!media |
 | ![][flag_KR] [Kawayi Rika](https://osu.ppy.sh/users/596298) | BAT |
 | ![][flag_MX] [Kenezz](https://osu.ppy.sh/users/167050) | BAT |
 | ![][flag_TH] [Kharl](https://osu.ppy.sh/users/452) | BAT |
@@ -136,14 +140,14 @@ Link para a [página do grupo de usuários](https://osu.ppy.sh/groups/16).
 | ![][flag_CN] [Mafumafu](https://osu.ppy.sh/users/3076909) | QAT |
 | ![][flag_US] [Makar](https://osu.ppy.sh/users/686389) | GMT |
 | ![][flag_UY] [mancuso\_JM\_](https://osu.ppy.sh/users/521568) | GMT |
-| ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) | GMT, osu!dev |
+| ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) | GMT, Desenvolvedor do osu! |
 | ![][flag_CA] [mattyu007](https://osu.ppy.sh/users/4934) | BAT |
 | ![][flag_ID] [Maxus](https://osu.ppy.sh/users/4335785) | NAT |
 | ![][flag_GB] [MaxwellDemon](https://osu.ppy.sh/users/4254) | BAT |
 | ![][flag_JP] [Melophobia](https://osu.ppy.sh/users/1077845) | BAT |
 | ![][flag_KR] [minyeob](https://osu.ppy.sh/users/9207) | BAT |
 | ![][flag_DE] [Mir](https://osu.ppy.sh/users/8688812) | NAT |
-| ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | osu!dev |
+| ![][flag_CA] [mm201](https://osu.ppy.sh/users/30655) | Desenvolvedor do osu! |
 | ![][flag_US] [MMzz](https://osu.ppy.sh/users/128993) | BAT, QAT |
 | ![][flag_US] [Mogsy](https://osu.ppy.sh/users/4018) | BAT |
 | ![][flag_US] [MOOMANiBE](https://osu.ppy.sh/users/8950) | BAT |
@@ -158,7 +162,7 @@ Link para a [página do grupo de usuários](https://osu.ppy.sh/groups/16).
 | ![][flag_TR] [Nishiji](https://osu.ppy.sh/users/167629) | GMT |
 | ![][flag_ID] [Niva](https://osu.ppy.sh/users/197805) | BAT |
 | ![][flag_PH] [NoHitter](https://osu.ppy.sh/users/124455) | BAT |
-| ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | osu!dev |
+| ![][flag_US] [nuudles](https://osu.ppy.sh/users/21312) | Desenvolvedor do osu! |
 | ![][flag_CN] [Nymph](https://osu.ppy.sh/users/601990) | BAT |
 | ![][flag_CN] [Nyquill](https://osu.ppy.sh/users/682935) | BAT, GMT |
 | ![][flag_AU] [Oinari-sama](https://osu.ppy.sh/users/405508) | Moderador de Chat, Equipe de Suporte |
@@ -207,7 +211,7 @@ Link para a [página do grupo de usuários](https://osu.ppy.sh/groups/16).
 | ![][flag_ZA] [Teara](https://osu.ppy.sh/users/123491) | BAT |
 | ![][flag_AU] [tensheapz](https://osu.ppy.sh/users/60) | BAT |
 | ![][flag_SE] [theowest](https://osu.ppy.sh/users/60604) | GMT |
-| ![][flag_US] [TheVileOne](https://osu.ppy.sh/users/278862) | osu!dev |
+| ![][flag_US] [TheVileOne](https://osu.ppy.sh/users/278862) | Desenvolvedor do osu! |
 | ![][flag_RU] [tieff](https://osu.ppy.sh/users/89619) | BAT |
 | ![][flag_JP] [TKS](https://osu.ppy.sh/users/940878) | BAT |
 | ![][flag_AU] [tsububu](https://osu.ppy.sh/users/61) | BAT |
