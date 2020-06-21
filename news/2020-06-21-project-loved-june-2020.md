@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Loved: June 2020"
-date: 2020-06-21 22:00:00 +0000
+date: 2020-06-21 21:50:00 +0000
 ---
 
 It's the time of the month once again for some new maps to hit the Loved section. Come vote for your favourites in June's round of [Project Loved](https://osu.ppy.sh/community/forums/120)!
