@@ -26,7 +26,9 @@ osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/u
 [TryHardNinja feat. CaptainSparklez - Revenge (ReeK's "Dude, What's A Genre?" Remix)](https://osu.ppy.sh/beatmapsets/1071189#osu) by [Fisky](https://osu.ppy.sh/users/8352623)  
 128 – 165 BPM, 4:34 | 7.50★, 6.88★
 
-Despite not having any ranked maps, Fisky is an incredibly skilled mapper whose forte lies in their ability to make high-difficulty technical maps that are even higher in quality. A perfect example of this is their map of *Revenge*, a high-intensity song whose potential was used to its fullest, resulting in a map that sits at 7.5 stars and features all sorts of unique patterns. A second difficulty is included in the mapset that nerfs some of the patterns in the main difficulty and rests just below 7 stars. The map itself is split into various sections that each feature different patterns, so for those of you looking for a fresh experience on a challenging technical map, this is easily one of the best maps you can find.
+Despite not having any ranked maps, Fisky is an incredibly skilled mapper whose forte lies in their ability to make high-difficulty technical maps that are even higher in quality. A perfect example of this is their map of *Revenge*, a high-intensity song whose potential was used to its fullest, resulting in a map that sits at 7.5 stars and features all sorts of unique patterns. A second difficulty is included in the mapset that nerfs some of the patterns in the main difficulty and rests just below 7 stars.
+
+On top of all the intricacies that go into making this map special, the mapper has worked three easter eggs into the map! If that caught your attention, you'll definitely want to check this one out. The map itself is split into various sections that each feature different patterns, so for those of you looking for a fresh experience on a challenging technical map, this is easily one of the best maps you can find.
 
 [![](/wiki/shared/news/2020-06-21-project-loved-june-2020/osu/2-prayer.jpg)](https://osu.ppy.sh/community/forums/topics/{{TOPIC_ID}})
 
