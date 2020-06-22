@@ -46,14 +46,16 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
 - ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000)
 - ![][flag_JP] [Charlotte](https://osu.ppy.sh/users/3686901)
 - ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851)
+- ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
+- ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817)
 - ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737)
 
 ### osu!catch curators
 
 - ![][flag_ES] **[Deif](https://osu.ppy.sh/users/318565)**
 - ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508)
-- ![][flag_CL] [lineqtxz](https://osu.ppy.sh/users/989542)
 - ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057)
+- ![][flag_US] [Snowless](https://osu.ppy.sh/users/4316266)
 
 ### osu!mania Curators
 
@@ -61,6 +63,7 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
 - ![][flag_AU] [CrumpetFiddler](https://osu.ppy.sh/users/3518705)
 - ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600)
 - ![][flag_DO] [Kaito-kun](https://osu.ppy.sh/users/4715184)
+- ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573)
 - ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098)
 - ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767)
 
@@ -195,8 +198,10 @@ Renamed to [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introduc
 [flag_FI]: /wiki/shared/flag/FI.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
+[flag_HK]: /wiki/shared/flag/HK.gif
 [flag_JP]: /wiki/shared/flag/JP.gif
 [flag_MX]: /wiki/shared/flag/MX.gif
+[flag_PH]: /wiki/shared/flag/PH.gif
 [flag_PL]: /wiki/shared/flag/PL.gif
 [flag_SG]: /wiki/shared/flag/SG.gif
 [flag_TH]: /wiki/shared/flag/TH.gif
