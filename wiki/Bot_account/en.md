@@ -22,39 +22,35 @@ The main difference between personal accounts and bot accounts is in the rate li
 
 These rate limits only apply to private messages, `#multiplayer`, and `#spectator`. Bot accounts are not allowed to send messages in other channels.
 
-## How to create a bot account
+## Creating a bot account
 
-If you are looking to start a chat bot, please begin by running it on your own osu! account, and make sure to respect the personal account rate limits listed above. As your service grows, there may be an opportunity to request a bot account for it.
+If you are looking to start a chat bot, please begin by running it on your own osu! account, and make sure to respect the personal account rate limits listed above. As your service grows, there may be an opportunity to request a bot account for it from the account support team.
 
-### Criteria for applying for a bot account
+### Minimum criteria
 
-Before considering a request, we require that the bot created by a user follow these criteria:
+Before considering a request, the support team requires that the bot meets these criteria:
 
-- The bot has been run on the user's account for at least 6 months
-- The bot must be fully open source and have full public documentation
-- The bot must be used by at least 50 unique users every month
-- The bot must respect the rate limits (on regular accounts at first)
-- **The bot must not send any messages in non-multiplayer public channels.** All bot interaction must be done in private messages.
-- The bot must be of use by the community. Personal bots will not be granted their own accounts.
+- The bot has been running on your account for at least 6 months
+- The bot is fully open-source and has complete public documentation
+- The bot is used by at least 50 unique users every month
+- The bot respects the personal account rate limits
+- The bot does not send any messages in public channels
+- The bot is helpful to a wide audience in the osu! community
 
-### Applying for a bot account
+### Filing a request
 
-If your bot fulfills the criteria above, you can file a request to create an account specifically for it.
+If your bot fulfills the criteria above, you may file a request to create a bot account for it.
 
-Send an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) with "Bot Account Request: nameofyourbot" in the title. This must be sent from the email address attached to your account.
+Send an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) with the subject `Bot Account Request:`, followed by the name of your bot. This must be sent from the email address attached to your osu! account.
 
 The body of the email should contain the following:
 
-- The username you want to give to the account
-- Date on which you began running the bot
+- The username you want to give to the bot account
+- The date on which you began running the bot
 - A link to the source code and documentation
-- A short summary of what your bot does and its functionalities
+- A short summary of what your bot does
 
-We will review the request and decide whether or not to grant you permission to create an account for the bot. If your request is denied, we will let you know why.
-
-### Bot account creation
-
-If your request is approved, we will create the account for you and give you follow-up instructions. Again, **do not create the account yourself.** All we need is the username you want your bot account to have.
+The account support team will review your request. If your request is denied, they will let you know why. If your request is approved, they will create the bot account for you and give you follow-up instructions about how to use it.
 
 <!-- TODO: history section would be nice, talking about LogBot, BanchoBot, the phpbb crawler accounts, the first user-run bots, Quality Assurance Team, osu!team, ... -->
 
