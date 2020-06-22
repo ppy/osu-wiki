@@ -129,6 +129,32 @@ The Intermediate Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the map pack here! (76 MB)](https://mega.nz/file/vokwSC5Y#H6k-EQHlw9xV-GRayCpPTrSDTe0lym5oggSAAxym9CM)**
+
+- NoMod
+  - [sky\_delta - Grenade (Nerova Riuz GX) \[Oni\]](https://osu.ppy.sh/beatmapsets/920666#taiko/1937208)
+  - [sasakure.UK - SAMPLING MONSTER feat. Hatsune Miku (tasuke912) \[nass's Oni\]](https://osu.ppy.sh/beatmapsets/740600#taiko/1569534)
+  - [Zou Tian Heng - No.1127 (-OvO-) \[Oni\]](https://osu.ppy.sh/beatmapsets/969775#taiko/2028875)
+  - [ziki\_7 - Leviathan (yassu-) \[Oni\]](https://osu.ppy.sh/beatmapsets/1013884#taiko/2188042)
+  - [kyou1110 vs. Takuya Namba - "Alice in Wonderland" : crazy apple could not live in real life (-Kazu-) \[Oni\]](https://osu.ppy.sh/beatmapsets/742005#taiko/1974557)
+- Hidden
+  - [Xceon - Fuyutsubaki feat. Kanae Asaba (Charlotte) \[Vulkin's Oni\]](https://osu.ppy.sh/beatmapsets/827227#taiko/2260330)
+  - [Camellia - Ultimate Ascension (\_DUSK\_) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/760523#taiko/1957589)
+- HardRock
+  - [M2U feat. NICODE - Breach (\_DUSK\_) \[Oni\]](https://osu.ppy.sh/beatmapsets/957893#taiko/2006052)
+  - [REDALiCE vs USAO - SAIKYO STRONGER (MMzz) \[Chromoxx' Muzukashii\]](https://osu.ppy.sh/beatmapsets/1145432#taiko/2409492)
+- DoubleTime
+  - [KNOWER - Overtime (Zetera) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/927890#taiko/2168075)
+  - [JIN feat. Yoshida Takumi (phatmans after school) - Kuusou Forest (Zhuosh) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1131091#taiko/2364202)
+- FreeMod
+  - [FELT - Oblivion (sendol) \[Oni\]](https://osu.ppy.sh/beatmapsets/897333#taiko/1970355)
+  - [kanone feat. Senzai - Hana to, Yuki to, Drum'n'bass. (Bedwyr Aorta) \[Blackener's Oni (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/1197720#taiko/2494749)
+  - [Sakuzyo - Eater Merry (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/1097688#taiko/2293612)
+- Tiebreaker
+  - **[Camellia - Beyond the Geostationary Orbit Level (Axer) \[2199's Oni\]](https://osu.ppy.sh/beatmapsets/975512#taiko/2042400)**
+
 ### Round of 16
 
 **[Download the map pack here! (93 MB)](https://mega.nz/file/T1tVVbyZ#Cn-uhZgtCiCwQ67HMly9AA9pQQfFxXRiySnPqkr4ikc)**
