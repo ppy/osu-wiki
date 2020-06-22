@@ -1,4 +1,4 @@
-# Bot Account criteria
+# Bot account
 
 Over the years, users have created "chat bots" with various functionalities offered to the community via multiplayer lobbies or PM converstions. This is generally permitted as long as it is in good taste.
 
