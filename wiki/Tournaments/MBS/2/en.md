@@ -391,6 +391,26 @@ The Mania Beginner's Showdown 2 is run by various community members.
 
 ### High division
 
+#### Semifinals
+
+Saturday, 20 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ReZ\_TB ![][flag_ID] | 2 | **6** | ![][flag_SG] **Kirameiji** | [#1](https://osu.ppy.sh/community/matches/63156381) |
+| TNKSTC ![][flag_TH] | 5 | **6** | ![][flag_DE] **cakeboss05** | [#1](https://osu.ppy.sh/community/matches/63162108) |
+| Paturages ![][flag_FR] | 2 | **6** | ![][flag_SG] **loli\_seale** | [#1](https://osu.ppy.sh/community/matches/63162784) |
+| **CrashSmash** ![][flag_CH] | **6** | 2 | ![][flag_FR] Djink | [#1](https://osu.ppy.sh/community/matches/63167551) |
+
+Sunday, 21 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **DovaCube** ![][flag_FR] | **6** | 3 | ![][flag_PH] Gerwin13 | [#1](https://osu.ppy.sh/community/matches/63201096) |
+| cakeboss05 ![][flag_DE] | 3 | **6** | ![][flag_CH] **CrashSmash** | [#1](https://osu.ppy.sh/community/matches/63201111) |
+| **Lazereed** ![][flag_PH] | **6** | 3 | ![][flag_BR] Konohana Lucia | [#1](https://osu.ppy.sh/community/matches/63204658) |
+| **DovaCube** ![][flag_FR] | **6** | 4 | ![][flag_SG] Kirameiji | [#1](https://osu.ppy.sh/community/matches/63204668) |
+
 #### Quarterfinals
 
 Friday, 12 June 2020:
@@ -712,6 +732,26 @@ Sunday, 24 May 2020:
 - Average rank is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
 
 ### Low division
+
+#### Semifinals
+
+Saturday, 20 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Arbusion** ![][flag_AU] | **6** | 5 | ![][flag_PL] MAREK MARUCHA | [#1](https://osu.ppy.sh/community/matches/63157518) |
+| **QEpicAce** ![][flag_DE] | **6** | 3 | ![][flag_HK] Brown918 | [#1](https://osu.ppy.sh/community/matches/63157794) |
+| Nielz ![][flag_NL] | 4 | **6** | ![][flag_TH] **mickeyparm** | [#1](https://osu.ppy.sh/community/matches/63164493) |
+| Ammy ![][flag_MX] | -1 | **0** | ![][flag_SE] **Mestro** | *win by default* |
+| **tyud** ![][flag_US] | **6** | 2 | ![][flag_DE] Quadrumplayer | [#1](https://osu.ppy.sh/community/matches/63175408) |
+
+Sunday, 21 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Arbusion ![][flag_AU] | 1 | **6** | ![][flag_TH] **mickeyparm** | [#1](https://osu.ppy.sh/community/matches/63199394) |
+| **Anamneses** ![][flag_MY] | **6** | 0 | ![][flag_TH] KorZ\[TH\] | [#1](https://osu.ppy.sh/community/matches/63206665) |
+| tyud ![][flag_US] | 1 | **6** | ![][flag_DE] **QEpicAce** | [#1](https://osu.ppy.sh/community/matches/63210034) |
 
 #### Quarterfinals
 
