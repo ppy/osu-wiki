@@ -41,10 +41,11 @@ Before considering a request, the support team requires that the bot meets these
 
 If your bot fulfills the criteria above, you may file a request to create a bot account for it.
 
-Send an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) with the subject `Bot Account Request:`, followed by the name of your bot. This must be sent from the email address attached to your osu! account.
+Send an email to [accounts@ppy.sh](mailto:accounts@ppy.sh) with the subject `Bot Account Request`. This must be sent from the email address attached to your osu! account.
 
 The body of the email should contain the following:
 
+- Your osu! username (where you have been running the bot)
 - The username you want to give to the bot account
 - The date on which you began running the bot
 - A link to the source code and documentation
@@ -57,7 +58,7 @@ The account support team will review your request. If your request is denied, th
 ## Trivia
 
 - The `BOT` group badge is shown on accounts with a primary group of `Chat Bots` (group #29). The group's listing is not public.
-- Some personal accounts are in the chat bots group because the owners didn't want or request to have a separate bot account for their service, for example ![][flag_DE] [Tillerino](https://osu.ppy.sh/users/2070907) and ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454).
+- Some personal accounts are in the chat bots group because the owners didn't want or request to have a separate bot account for their service, for example ![][flag_DE] [Tillerino](https://osu.ppy.sh/users/2070907) and ![][flag_FR] [ThePooN](https://osu.ppy.sh/users/718454). This setup is no longer offered, and new bots entering the group will always be given an exclusive account.
 
 [flag_DE]: /wiki/shared/flag/DE.gif "Germany"
 [flag_FR]: /wiki/shared/flag/FR.gif "France"
