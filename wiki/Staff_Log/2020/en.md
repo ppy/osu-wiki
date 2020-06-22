@@ -240,6 +240,8 @@ Abbreviations for user groups are used throughout this log:
 - 2020-06-17: Added [Elayue](https://osu.ppy.sh/users/6400861) to **Probationary BN**
 - 2020-06-17: Added [NexusQI](https://osu.ppy.sh/users/13822800) to **Probationary BN**
 - 2020-06-19: Added [Bastian](https://osu.ppy.sh/users/6345176) to **Probationary BN**
+- 2020-06-22: Added [Garalulu](https://osu.ppy.sh/users/757783) to **Probationary BN**
+- 2020-06-22: Added [Muse Dash](https://osu.ppy.sh/users/13695676) to **Probationary BN**
 
 #### Moves
 
@@ -253,5 +255,6 @@ Abbreviations for user groups are used throughout this log:
 - 2020-06-05: Removed [Gamelan4](https://osu.ppy.sh/users/9856910) from **Probationary BN**
 - 2020-06-13: Removed [Metzo](https://osu.ppy.sh/users/10633982) from **Probationary BN**
 - 2020-06-20: Removed [wafer](https://osu.ppy.sh/users/9416836) from **BN**
+- 2020-06-22: Removed [-Luminate](https://osu.ppy.sh/users/4778689) from **Probationary BN**
 
-<!-- last update: 2020-06-20 23 UTC removed wafer from bn -->
+<!-- last update: 2020-06-22 8 UTC removed -luminate from probationary bn -->
