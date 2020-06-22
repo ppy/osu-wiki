@@ -96,6 +96,32 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the map pack here! (75 MB)](https://mega.nz/file/slcQgCIT#0RqamEOOC5qARyfbVBgQJPkj_nhXBVIlQSGv2Xxcv9M)**
+
+- NoMod
+  - [lapix - Carry Me Away (Extended Mix) (juanilp4evr) \[Oni\]](https://osu.ppy.sh/beatmapsets/835912#taiko/1750641)
+  - [Toby Fox - Spider Dance (Camellia Remix) (nananass) \[Oni\]](https://osu.ppy.sh/beatmapsets/565493#taiko/1195443)
+  - [Camellia - Venomous Firefly (rezi888) \[Little Bug Storm\]](https://osu.ppy.sh/beatmapsets/853179#taiko/1783147)
+  - [sasakure.UK - The illegaL QueeN (tkdLolly) \[twcLolly\]](https://osu.ppy.sh/beatmapsets/881484#taiko/1843044)
+  - [Jaroslav Beck - Legend (feat. Backchat) (Nofool) \[Oni (fast)\]](https://osu.ppy.sh/beatmapsets/781553#taiko/1641403)
+- Hidden
+  - [SHK - Super Fantasy (aabc271) \[Inner Oni+\]](https://osu.ppy.sh/beatmapsets/541523#taiko/1148729)
+  - [Shikkoku no EBONY - CHERNOBOG (roufou) \[NIGHTMARE ONI\]](https://osu.ppy.sh/beatmapsets/596366#taiko/2079191)
+- HardRock
+  - [fn(ArcaeaSoundTeam) - Red and Blue and Green (\[\_Chichinya\_\]) \[Future\]](https://osu.ppy.sh/beatmapsets/952471#taiko/1988860)
+  - [t+pazolite - OTENAMI Hurricane (Kaxei) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/992992#taiko/2322038)
+- DoubleTime
+  - [O2i3 - How to make Slime (Faputa) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1135207#taiko/2370881)
+  - [Furries in a Blender - Storm World (Hanjamon) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/322150#taiko/716320)
+- FreeMod
+  - [wa. vs ETIA. - Akasagarbha (\_DUSK\_) \[Perpetual\]](https://osu.ppy.sh/beatmapsets/709333#taiko/1499439)
+  - [seatrus - morgenrote (ekumea1123) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1121619#taiko/2343813)
+  - [Uesaka Sumire - POP TEAM EPIC(YUKIYANAGI's Dubstep Edit) (KitajimaYN) \[Ahhhhhhh!!!!!!!\]](https://osu.ppy.sh/beatmapsets/751580#taiko/1583035)
+- Tiebreaker
+  - **[Camellia - FM Synthesis Experiment (\[Zeth\]) \[Modulation Matrix\]](https://osu.ppy.sh/beatmapsets/1104178#taiko/2307191)**
+
 ### Round of 16
 
 **[Download the map pack here! (78 MB)](https://mega.nz/file/QxtHyCaS#rk1W0mK1WpvzHUnNUf3H_klW3NimfDtjCFKgjplds94)**
