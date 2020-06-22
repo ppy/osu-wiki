@@ -1627,3 +1627,6 @@
 "tournaments/lms": "Tournaments/T_LMS"
 "tournaments/lms/shift_1": "Tournaments/T_LMS/Shift_1"
 "tournaments/lms/shift_2": "Tournaments/T_LMS/Shift_2"
+
+# Moved Bot account
+"help_centre/bot_account": "Bot_account"
