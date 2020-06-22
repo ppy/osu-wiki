@@ -196,6 +196,26 @@ The Intermediate Global Taiko Showdown 2020 is run by various community members.
 
 ## Match results
 
+### Round of 16
+
+Saturday, 20 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Japan A** ![][flag_JP] | **6** | 4 | ![][flag_AR] Argentina A | [#1](https://osu.ppy.sh/community/matches/63147053) |
+| **United States A** ![][flag_US] | **6** | 1 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/63148472) |
+| **Singapore** ![][flag_SG] | **6** | 0 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/63161885) |
+
+Sunday, 21 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States B** ![][flag_US] | **6** | 5 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/63195717) |
+| **Poland** ![][flag_PL] | **6** | 2 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/63198016) |
+| **Germany B** ![][flag_DE] | **6** | 2 | ![][flag_MY] Malaysia A | [#1](https://osu.ppy.sh/community/matches/63202358) |
+| **Netherlands** ![][flag_NL] | **6** | 1 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/63206000) |
+| **South Korea** ![][flag_KR] | **6** | 2 | ![][flag_CO] Colombia | [#1](https://osu.ppy.sh/community/matches/63208390) |
+
 ### Group Stage
 
 Saturday, 13 June 2020:
