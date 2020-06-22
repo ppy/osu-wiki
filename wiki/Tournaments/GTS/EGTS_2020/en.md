@@ -19,7 +19,7 @@ The **Expert Global Taiko Showdown 2020** (***EGTS 2020***) is an expert worldwi
 | Qualifiers | 2020-05-30/2020-05-31 |
 | Group Stage | 2020-06-06/2020-06-07 |
 | Round of 32 | 2020-06-13/2020-06-14 |
-| Round of 16 | 2020-06-20/2020-06-21 |
+| Round of 16 | 2020-06-19/2020-06-21 |
 | Quarterfinals | 2020-06-27/2020-06-28 |
 | Semifinals | 2020-07-04/2020-07-05 |
 | Finals | 2020-07-11/2020-07-12 |
@@ -186,6 +186,39 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
   - [DJ Fresh - Gold Dust (Vyiuri) \[Oni\]](https://osu.ppy.sh/beatmapsets/981799#taiko/2054840)
 
 ## Match results
+
+### Round of 16
+
+Friday, 19 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Minekuchi ![][flag_DE] | 2 | **5** | ![][flag_JP] **tamakagi2000** | [#1](https://osu.ppy.sh/community/matches/63144466) |
+
+Saturday, 20 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| owatanimal ![][flag_JP] | 1 | **5** | ![][flag_JP] **nananass** | [#1](https://osu.ppy.sh/community/matches/63155273) |
+| butter0414 ![][flag_JP] | 1 | **5** | ![][flag_ES] **AlvaroYL** | [#1](https://osu.ppy.sh/community/matches/63160196) |
+| **iceOC** ![][flag_JP] | **5** | 1 | ![][flag_BR] HiroK | [#1](https://osu.ppy.sh/community/matches/63161761) |
+| Ikkun ![][flag_IT] | 4 | **5** | ![][flag_JP] **nekomusya1234** | [#1](https://osu.ppy.sh/community/matches/63161766) |
+| **ekumea1123** ![][flag_JP] | **5** | 0 | ![][flag_MY] \[Zeth\] | [#1](https://osu.ppy.sh/community/matches/63163447) |
+| **janitore** ![][flag_CA] | **5** | 0 | ![][flag_CL] Ulqui | [#1](https://osu.ppy.sh/community/matches/63177466) |
+
+Sunday, 21 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **owatanimal** ![][flag_JP] | **5** | 0 | ![][flag_BR] Skull Kid | [#1](https://osu.ppy.sh/community/matches/63187824) |
+| **Ulqui** ![][flag_CL] | **5** | 1 | ![][flag_AR] gaston\_2199 | [#1](https://osu.ppy.sh/community/matches/63190228) |
+| **uone** ![][flag_JP] | **5** | 1 | ![][flag_JP] zkane2 | [#1](https://osu.ppy.sh/community/matches/63196837) |
+| **\[Zeth\]** ![][flag_MY] | **0** | -1 | ![][flag_IT] D3kuu | *win by default* |
+| **HiroK** ![][flag_BR] | **5** | 3 | ![][flag_KR] BamgoeSN | [#1](https://osu.ppy.sh/community/matches/63199536) |
+| **butter0414** ![][flag_JP] | **5** | 3 | ![][flag_GB] Horiiizon | [#1](https://osu.ppy.sh/community/matches/63199457) |
+| **Minekuchi** ![][flag_DE] | **5** | 3 | ![][flag_JP] shakegohan\_jar | [#1](https://osu.ppy.sh/community/matches/63202285) |
+| **zkane2** ![][flag_JP] | **5** | 1 | ![][flag_BR] Kyoumo | [#1](https://osu.ppy.sh/community/matches/63202516) |
+| **Ikkun** ![][flag_IT] | **5** | 1 | ![][flag_CA] Vysha | [#1](https://osu.ppy.sh/community/matches/63211764) |
 
 ### Round of 32
 
