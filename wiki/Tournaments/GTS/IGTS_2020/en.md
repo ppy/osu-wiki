@@ -230,7 +230,7 @@ Saturday, 20 June 2020:
 | --: | :-: | :-: | :-- | :-- |
 | **Japan A** ![][flag_JP] | **6** | 4 | ![][flag_AR] Argentina A | [#1](https://osu.ppy.sh/community/matches/63147053) |
 | **United States A** ![][flag_US] | **6** | 1 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/63148472) |
-| **Singapore** ![][flag_SG] | **6** | 0 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/63161885) |
+| **Singapore** ![][flag_SG] | **6** | 0 | ![][flag_FR] France A | [#1](https://osu.ppy.sh/community/matches/63161885) |
 
 Sunday, 21 June 2020:
 
