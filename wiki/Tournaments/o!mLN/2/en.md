@@ -70,6 +70,25 @@ The osu!mania LN Tournament 2 is run by various community members.
 
 ## Mappools
 
+### Round of 32
+
+**[Download the mappack here! (76 MB)](https://mega.nz/file/qygXgKRS#W9kxyHs8dlAL5J8VvxGeWDlfw8GS8EYcRguDvOQ2dCA)**
+
+- FreeMod
+  - [senya - Banbutsu no Ou (souzirou1000) \[LN\]](https://osu.ppy.sh/beatmapsets/908627#mania/1895977)
+  - [Taku Inoue - Yoake made Ato 3 Byou (Raveille) \[awake\]](https://osu.ppy.sh/beatmapsets/1118840#mania/2336866)
+  - [Yoomiii - Rhythm Of Love (\[Crz\]Crysarlene) \[LN Hyper\]](https://osu.ppy.sh/beatmapsets/1035204#mania/2164336)
+  - [Halogen - U Got That (Camellia's Neurofunk Bootleg) (Koiidex) \[eZmmR's Hard\]](https://osu.ppy.sh/beatmapsets/1196477#mania/2492311)
+  - [Linkin Park - Somewhere I Belong (\[Crz\]Crysarlene) \[Unreal\]](https://osu.ppy.sh/beatmapsets/928232#mania/1938851)
+  - [Steve Reich - Electric Counterpoint, III (Davvy) \[Fast\]](https://osu.ppy.sh/beatmapsets/1197970#mania/2495181)
+  - [Memme - Acid Burst (juankristal) \[Chaos\]](https://osu.ppy.sh/beatmapsets/724670#mania/1530202)
+  - [Freezer feat. Kiichigo - Berry Go!! (PiraTom) \[BERRY HARD\]](https://osu.ppy.sh/beatmapsets/677465#mania/1432754)
+  - [Camellia - Proluvies (SitekX) \[Abyss\]](https://osu.ppy.sh/beatmapsets/740431#mania/1562118)
+  - [Moe Shop - The New Moe Groove (MapleSyrup-) \[Hummingbird\]](https://osu.ppy.sh/beatmapsets/738804#mania/1559176)
+  - [Cake Hime \* Masaruumi & JUMA - Eiya no Parade (-\[Ulazis\]-) \[Prism\]](https://osu.ppy.sh/beatmapsets/1103799#mania/2306329)
+- Tiebreaker
+  - **[cillia - Fairytale, (Raveille) \[ar'ri'vaLN (NSV)\]](https://osu.ppy.sh/beatmapsets/1173529#mania/2447586)**
+
 ### Round of 64
 
 - FreeMod
