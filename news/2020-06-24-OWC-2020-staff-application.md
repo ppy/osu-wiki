@@ -10,7 +10,7 @@ It's that time of the year again --- but wait it's not even October yet!
 
 Staff application is an entire World Cup early this year, with a few new positions to apply for through forms and a way to suggest maps!
 
-## Commentator/Referee
+### Commentator/Referee
 
 Commentators and referees aim to provide a great live viewing experience.
 
@@ -22,15 +22,15 @@ If you are interested in helping out either as a referee or a commentator, pleas
 
 Mappool Selectors are the people working behind closed doors to tinker around on Mappools and aim to give the players their strategical options during matches.
 
-This role will mostly work between July and October, perhaps extending a little bit into November.
+This role will mostly work between July and October, perhaps extending slightly into mid to late November.
 
 [Apply here](https://docs.google.com/forms/d/1ab6KcX3f4ap5ZtKj9dvGfnHY4Fb_un8DHzpA--dNrFk) for a very thorough application form for this year's Mappool Selector selection process!
 
 ### Mapper for custom OWC maps
 
-Since the addition of custom maps from last year's OWC, this year the process will see a few changes.
+Since the addition of custom maps from last year's OWC, this year's process will see a few changes.
 
-This time around mappers will have a way to express their interest in mapping exclusively for the OWC!
+Mappers will have a way to express their interest in mapping exclusively for the OWC!
 
 Required availability is unfortunately a bit unpredictable, but mostly can be expected between July and November.
 
@@ -38,7 +38,7 @@ Required availability is unfortunately a bit unpredictable, but mostly can be ex
 
 ### Map suggestion
 
-Ever thought a certain map might fit perfectly in the OWC Mappool? Now is your chance to suggest them [here!](https://docs.google.com/forms/d/165TLcKKQiQidB0wCNJ-gFOWoZzf4qSAiNxT3k2jdC_g)!)
+Ever thought a certain map might fit perfectly in the OWC Mappool? Now is your chance to suggest them [here](https://docs.google.com/forms/d/165TLcKKQiQidB0wCNJ-gFOWoZzf4qSAiNxT3k2jdC_g)!)
 
 ---
 
