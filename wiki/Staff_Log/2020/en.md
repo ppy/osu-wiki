@@ -257,5 +257,6 @@ Abbreviations for user groups are used throughout this log:
 - 2020-06-13: Removed [Metzo](https://osu.ppy.sh/users/10633982) from **Probationary BN**
 - 2020-06-20: Removed [wafer](https://osu.ppy.sh/users/9416836) from **BN**
 - 2020-06-22: Removed [-Luminate](https://osu.ppy.sh/users/4778689) from **Probationary BN**
+- 2020-06-23: Removed [Unpredictable](https://osu.ppy.sh/users/7560872) from **BN**
 
 <!-- last update: 2020-06-23 5 UTC moved teky to full bn -->
