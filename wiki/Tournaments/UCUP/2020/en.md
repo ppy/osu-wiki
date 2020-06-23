@@ -192,12 +192,14 @@ Saturday, 20 June 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
+| host toxic ccd | -1 | **0** | **pemain\_osu2020** | *win by default* |
 | **awan fanclub** | **7** | 2 | Kowok Gamers | [#1](https://osu.ppy.sh/community/matches/63163586) |
 
 Sunday, 21 June 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
+| **Em1ruBigDumb** | **0** | -1 | AutisNgopi4Hed | *win by default* |
 | **Tim Ayam** | **7** | 1 | DARAWET ANJENG | [#1](https://osu.ppy.sh/community/matches/63196936) |
 | retards united | 0 | **7** | **Press 3 Fs to pay respects** | [#1](https://osu.ppy.sh/community/matches/63202131) |
 | Sumippe's Simp | 3 | **7** | **(; ･`д･´)** | [#1](https://osu.ppy.sh/community/matches/63204230) |
