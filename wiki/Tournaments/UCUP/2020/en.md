@@ -16,7 +16,7 @@ The **Ulat Bulu Cup 2020** (***UCUP 2020***) is an Indonesian double-elimination
 | --: | :-- |
 | Registration phase | 2020-05-11/2020-05-24 |
 | Group Stage | 2020-06-02/2020-06-14 |
-| Quarterfinals | 2020-06-19/2020-06-21 |
+| Quarterfinals | 2020-06-19/2020-06-22 |
 | Semifinals | 2020-06-26/2020-06-28 |
 | Finals | 2020-07-03/2020-07-05 |
 | Grand Finals | 2020-07-10/2020-07-12 |
@@ -148,6 +148,34 @@ The Ulat Bulu Cup 2020 is run by various community members.
   - **[aran - Moonbound feat. Yukacco (USAO Remix) (z1085684963) \[PENDULUMs\]](https://osu.ppy.sh/beatmapsets/986982#osu/2064636)**
 
 ## Match results
+
+### Quarterfinals
+
+Friday, 19 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **terserah** | **7** | 1 | A B B C | [#1](https://osu.ppy.sh/community/matches/63121410) |
+
+Saturday, 20 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **awan fanclub** | **7** | 2 | Kowok Gamers | [#1](https://osu.ppy.sh/community/matches/63163586) |
+
+Sunday, 21 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Tim Ayam** | **7** | 1 | DARAWET ANJENG | [#1](https://osu.ppy.sh/community/matches/63196936) |
+| retards united | 0 | **7** | **Press 3 Fs to pay respects** | [#1](https://osu.ppy.sh/community/matches/63202131) |
+| Sumippe's Simp | 3 | **7** | **(; ･`д･´)** | [#1](https://osu.ppy.sh/community/matches/63204230) |
+
+Monday, 22 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **WHOMEGALUL** | **7** | 1 | Eleftharia | [#1](https://osu.ppy.sh/community/matches/63238230) |
 
 ### Group Stage
 
