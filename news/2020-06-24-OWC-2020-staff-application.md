@@ -38,7 +38,7 @@ Required availability is unfortunately a bit unpredictable, but mostly can be ex
 
 ### Map suggestion
 
-Ever thought a certain map might fit perfectly in the OWC Mappool? Now is your chance to suggest them [here](https://docs.google.com/forms/d/165TLcKKQiQidB0wCNJ-gFOWoZzf4qSAiNxT3k2jdC_g)!)
+Ever thought a certain map might fit perfectly in the OWC Mappool? Now is your chance to suggest them [here](https://docs.google.com/forms/d/165TLcKKQiQidB0wCNJ-gFOWoZzf4qSAiNxT3k2jdC_g)!
 
 ---
 
