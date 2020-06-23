@@ -54,8 +54,10 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
 
 - ![][flag_ES] **[Deif](https://osu.ppy.sh/users/318565)**
 - ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508)
+- ![][flag_CA] [SadEgg](https://osu.ppy.sh/users/10278243)
 - ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057)
 - ![][flag_US] [Snowless](https://osu.ppy.sh/users/4316266)
+- ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045)
 
 ### osu!mania Curators
 
@@ -191,7 +193,7 @@ The project lead has changed several times in its history. ![][flag_US] [Sapphir
 Renamed to [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights) in March 2017, the system itself stayed mostly consistent while adding additional rewards like medals and enhancing the presentation of the Beatmap Spotlights furtherly. During an internal overhaul of the Quality Assurance Team, the responsibility for the project has been reassigned to ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) and re-implemented a community-based selection team. In November 2018, the frequency of the Spotlights have been changed to a [seasonal release cycle](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). In March 2020, ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) rejoined the project lead together with Kurokami, both reworking it into a new shape and assembling a new team of osu! curators.
 
 [flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
+[flag_CA]: /wiki/shared/flag/CA.gif
 [flag_CN]: /wiki/shared/flag/CN.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
 [flag_ES]: /wiki/shared/flag/ES.gif
