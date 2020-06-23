@@ -249,6 +249,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-06-02: Moved [Sun](https://osu.ppy.sh/users/4115819) from **Probationary BN** to **BN**
 - 2020-06-05: Moved [Stefan](https://osu.ppy.sh/users/626907) from **BN** to **Probationary BN**
 - 2020-06-08: Moved [Yales](https://osu.ppy.sh/users/2377881) from **BN** to **Probationary BN**
+- 2020-06-23: Moved [Teky](https://osu.ppy.sh/users/10520912) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -257,4 +258,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-06-20: Removed [wafer](https://osu.ppy.sh/users/9416836) from **BN**
 - 2020-06-22: Removed [-Luminate](https://osu.ppy.sh/users/4778689) from **Probationary BN**
 
-<!-- last update: 2020-06-22 8 UTC removed -luminate from probationary bn -->
+<!-- last update: 2020-06-23 5 UTC moved teky to full bn -->
