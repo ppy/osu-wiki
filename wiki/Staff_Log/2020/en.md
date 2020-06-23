@@ -251,6 +251,10 @@ Abbreviations for user groups are used throughout this log:
 - 2020-06-08: Moved [Yales](https://osu.ppy.sh/users/2377881) from **BN** to **Probationary BN**
 - 2020-06-23: Moved [Teky](https://osu.ppy.sh/users/10520912) from **Probationary BN** to **BN**
 - 2020-06-23: Moved [realy0\_](https://osu.ppy.sh/users/8863359) from **Probationary BN** to **BN**
+- 2020-06-23: Moved [DeviousPanda](https://osu.ppy.sh/users/4966334) from **Probationary BN** to **BN**
+- 2020-06-23: Moved [Mirash](https://osu.ppy.sh/users/2841009) from **Probationary BN** to **BN**
+- 2020-06-23: Moved [Nevo](https://osu.ppy.sh/users/7451883) from **Probationary BN** to **BN**
+- 2020-06-23: Moved [Stixy](https://osu.ppy.sh/users/9000308) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -260,4 +264,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-06-22: Removed [-Luminate](https://osu.ppy.sh/users/4778689) from **Probationary BN**
 - 2020-06-23: Removed [Unpredictable](https://osu.ppy.sh/users/7560872) from **BN**
 
-<!-- last update: 2020-06-23 10 UTC moved realy0_ to full bn -->
+<!-- last update: 2020-06-23 23 UTC moved stixy to full bn -->
