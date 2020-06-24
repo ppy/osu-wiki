@@ -14,7 +14,6 @@ We're super excited to unveil a selection of **14** tracks, including the timele
 
 Don't just take our word for it though, give these previews a listen and see for yourself:
 
-
 ### All That We Lost
 
 Check out [this classic 2017 set](https://osu.ppy.sh/beatmapsets/655248) from [Mir](https://osu.ppy.sh/users/8688812)!
@@ -22,7 +21,6 @@ Check out [this classic 2017 set](https://osu.ppy.sh/beatmapsets/655248) from [M
 <audio controls>
     <source src="https://assets.ppy.sh/artists/86/previews/2230.mp3" type="audio/mpeg">
 </audio>
-
 
 ### Dark Eyes
 
@@ -32,7 +30,6 @@ Check out [this classic 2017 set](https://osu.ppy.sh/beatmapsets/652397) from [M
     <source src="https://assets.ppy.sh/artists/86/previews/2230.mp3" type="audio/mpeg">
 </audio>
 
-
 ### Last Of Us
 
 Check out [this classic 2017 set](https://osu.ppy.sh/beatmapsets/669153) from [C00L](https://osu.ppy.sh/users/4930630)!
@@ -41,13 +38,11 @@ Check out [this classic 2017 set](https://osu.ppy.sh/beatmapsets/669153) from [C
     <source src="https://assets.ppy.sh/artists/86/previews/2230.mp3" type="audio/mpeg">
 </audio>
 
-
 ### Limitless
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/87/previews/2342.mp3" type="audio/mpeg">
 </audio>
-
 
 ### Frozen Heart
 
