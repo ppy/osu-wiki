@@ -72,8 +72,7 @@ It's hard to find quality maps that challenge you with symmetrical patterns the 
 [![](/wiki/shared/news/2020-06-21-project-loved-june-2020/osu/7-mc-mental-at-his-best.jpg)](https://osu.ppy.sh/community/forums/topics/1092779)
 
 [MC Mental - MC Mental at His Best](https://osu.ppy.sh/beatmapsets/407055#osu) by [Bullhax](https://osu.ppy.sh/users/3708657)  
-176 BPM, 1:51 | 6.42★, 5.90★, 5.14★  
-The \[Hard\] and \[New Mental\] difficulties are *not* being nominated for Loved.
+176 BPM, 1:51 | 6.42★, 5.90★, 5.14★, 4.07★, 6.06★
 
 *MC Mental at His Best* stands out as one of the most long-standing mapsets that has spread lighthearted joy among players ever since its submission in 2016. With over 240 favourites already on the mapset, Bullhax's mapset of this silly 176 BPM song features three completed difficulties between 5 and 6 stars. The maps themselves feature a mix of jumps, streams, and finger control, so it's the ultimate mapset to train different skills while simultaneously challenging the ultimate MC Mental.
 
