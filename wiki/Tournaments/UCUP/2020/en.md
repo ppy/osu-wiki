@@ -16,7 +16,7 @@ The **Ulat Bulu Cup 2020** (***UCUP 2020***) is an Indonesian double-elimination
 | --: | :-- |
 | Registration phase | 2020-05-11/2020-05-24 |
 | Group Stage | 2020-06-02/2020-06-14 |
-| Quarterfinals | 2020-06-19/2020-06-21 |
+| Quarterfinals | 2020-06-19/2020-06-22 |
 | Semifinals | 2020-06-26/2020-06-28 |
 | Finals | 2020-07-03/2020-07-05 |
 | Grand Finals | 2020-07-10/2020-07-12 |
@@ -87,6 +87,37 @@ The Ulat Bulu Cup 2020 is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+**[Download the mappack here! (129 MB)](https://drive.google.com/file/d/1zUjGZ202wRVbnsi5JEO0AnJUlTf_H_ma/view?usp=sharing)**
+
+- NoMod
+  - [Twin-Tails - Twintail Dreamer! (Minorsonek) \[diuS' Expert\]](https://osu.ppy.sh/beatmapsets/773026#osu/1680262)
+  - [xi - Solar Storm (sdafsf) \[Eruption\]](https://osu.ppy.sh/beatmapsets/566408#osu/1226904)
+  - [USAO - Boss Rush (Lavender) \[Moecho's Blitz Surge Extra\]](https://osu.ppy.sh/beatmapsets/619807#osu/1306399)
+  - [Shikata Akiko - Ta ga Tame no Sekai (miIk) \[Extra\]](https://osu.ppy.sh/beatmapsets/999727#osu/2404820)
+  - [Igorrr - Houmous (Hobbes2) \[LMT's Extra\]](https://osu.ppy.sh/beatmapsets/703568#osu/1647345)
+  - [The Flashbulb - DIDJ PVC (Irreversible) \[Polka's EX I\]](https://osu.ppy.sh/beatmapsets/966078#osu/2061428)
+- Hidden
+  - [Minamotoya feat. Kuroa\* - Hana Kagerou (404 AimNotFound) \[Petals\]](https://osu.ppy.sh/beatmapsets/929130#osu/1963382)
+  - [P\*Light - TRIGGER*HAPPY (MineC24) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/74671#osu/211903)
+  - [isubokuro - Aun no Beats (Beren) \[buhei's Extra\]](https://osu.ppy.sh/beatmapsets/1153984#osu/2425703)
+- HardRock
+  - [The Eden Project - Lost (Bearizm) \[Escapism\]](https://osu.ppy.sh/beatmapsets/247747#osu/835941)
+  - [The Chainsmokers & Bebe Rexha - Call You Mine (Hibell Remix) (Asphyxia) \[Away\]](https://osu.ppy.sh/beatmapsets/1059539#osu/2218778)
+  - [Eoin O' Broin - Oblivion (DoKoLP) \[Insane\]](https://osu.ppy.sh/beatmapsets/37222#osu/119853)
+- DoubleTime
+  - [Last Note. feat.GUMI - Osanana Blue (-Kamikaze-) \[51 Days\]](https://osu.ppy.sh/beatmapsets/283155#osu/640211)
+  - [Lon - Mischievous Function (gowww) \[Insane\]](https://osu.ppy.sh/beatmapsets/27441#osu/92037)
+  - [Harutya - Furaregaigirl (Rieri) \[cruelty\]](https://osu.ppy.sh/beatmapsets/934838#osu/1951646)
+  - [Memme - Chinese Restaurant (M o k o r i) \[Hyper\]](https://osu.ppy.sh/beatmapsets/256467#osu/645355)
+- FreeMod
+  - [Suzumu - Kakumeisei ousama densenbyou (tutuhaha) \[AngelHoney's Extra\]](https://osu.ppy.sh/beatmapsets/307686#osu/701528)
+  - [UNDEAD CORPORATION - Kasha no Sakebu Yoru ni (Xexxar) \[Extra\]](https://osu.ppy.sh/beatmapsets/673713#osu/2143901)
+  - [A.SAKA - Nanatsu Issenzakura (yf\_bmp) \[Ayaya's Expert\]](https://osu.ppy.sh/beatmapsets/513731#osu/1493332)
+- Tiebreaker
+  - **[Traktion - Gid V (EphemeralFetish) \[Fragment Collab\]](https://osu.ppy.sh/beatmapsets/879767#osu/1839789)**
+
 ### Quarterfinals
 
 **[Download the mappack here! (146 MB)](https://drive.google.com/file/d/1R6UF98BuQjTBjh0PFoI8BA9WPVtS-P7g/view?usp=sharing)**
@@ -148,6 +179,36 @@ The Ulat Bulu Cup 2020 is run by various community members.
   - **[aran - Moonbound feat. Yukacco (USAO Remix) (z1085684963) \[PENDULUMs\]](https://osu.ppy.sh/beatmapsets/986982#osu/2064636)**
 
 ## Match results
+
+### Quarterfinals
+
+Friday, 19 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **terserah** | **7** | 1 | A B B C | [#1](https://osu.ppy.sh/community/matches/63121410) |
+
+Saturday, 20 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| host toxic ccd | -1 | **0** | **pemain\_osu2020** | *win by default* |
+| **awan fanclub** | **7** | 2 | Kowok Gamers | [#1](https://osu.ppy.sh/community/matches/63163586) |
+
+Sunday, 21 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Em1ruBigDumb** | **0** | -1 | AutisNgopi4Hed | *win by default* |
+| **Tim Ayam** | **7** | 1 | DARAWET ANJENG | [#1](https://osu.ppy.sh/community/matches/63196936) |
+| retards united | 0 | **7** | **Press 3 Fs to pay respects** | [#1](https://osu.ppy.sh/community/matches/63202131) |
+| Sumippe's Simp | 3 | **7** | **(; ･`д･´)** | [#1](https://osu.ppy.sh/community/matches/63204230) |
+
+Monday, 22 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **WHOMEGALUL** | **7** | 1 | Eleftharia | [#1](https://osu.ppy.sh/community/matches/63238230) |
 
 ### Group Stage
 
