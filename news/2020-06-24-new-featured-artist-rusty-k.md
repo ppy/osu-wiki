@@ -19,7 +19,7 @@ Don't just take our word for it though, give these previews a listen and see for
 Check out [this classic 2017 set](https://osu.ppy.sh/beatmapsets/655248) from [Mir](https://osu.ppy.sh/users/8688812)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/86/previews/2230.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/87/previews/2337.mp3" type="audio/mpeg">
 </audio>
 
 ### Dark Eyes
@@ -27,7 +27,7 @@ Check out [this classic 2017 set](https://osu.ppy.sh/beatmapsets/655248) from [M
 Check out [this classic 2017 set](https://osu.ppy.sh/beatmapsets/652397) from [Mir](https://osu.ppy.sh/users/8688812)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/86/previews/2230.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/87/previews/2338.mp3" type="audio/mpeg">
 </audio>
 
 ### Last Of Us
@@ -35,7 +35,7 @@ Check out [this classic 2017 set](https://osu.ppy.sh/beatmapsets/652397) from [M
 Check out [this classic 2017 set](https://osu.ppy.sh/beatmapsets/669153) from [C00L](https://osu.ppy.sh/users/4930630)!
 
 <audio controls>
-    <source src="https://assets.ppy.sh/artists/86/previews/2230.mp3" type="audio/mpeg">
+    <source src="https://assets.ppy.sh/artists/87/previews/2341.mp3" type="audio/mpeg">
 </audio>
 
 ### Limitless
