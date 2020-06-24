@@ -54,7 +54,7 @@ The rest of the team helps with quality control, maintenance, and organisation.
 ## Trivia
 
 - ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) created the original team of captains in September 2017 along with the [Captain's Pick](/wiki/Beatmaps/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)) system that was later renamed to Project Loved. Until late 2019, he oversaw and managed the whole project.
-- There is a Project Loved user group on the website with group ID 31, but the listing is not public. It is only used for moderation permissions on the [Project Loved forum](https://osu.ppy.sh/community/forums/120), and the only members are ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) and ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689).
+- There is a Project Loved user group on the website with group ID 31, but the listing is not public. It is used for permissions to moderate the [Project Loved forum](https://osu.ppy.sh/community/forums/120) and promote beatmaps to the Loved category, and the only members are ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) and ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689).
 
 [flag_CL]: /wiki/shared/flag/CL.gif "Chile"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
