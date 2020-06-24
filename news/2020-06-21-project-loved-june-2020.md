@@ -24,7 +24,7 @@ osu!standard Loved candidates were chosen by [DigitalHypno](https://osu.ppy.sh/u
 [![](/wiki/shared/news/2020-06-21-project-loved-june-2020/osu/1-revenge-reek-s-dude-what-s-a-genre-remix.jpg)](https://osu.ppy.sh/community/forums/topics/1092786)
 
 [TryHardNinja feat. CaptainSparklez - Revenge (ReeK's "Dude, What's A Genre?" Remix)](https://osu.ppy.sh/beatmapsets/1071189#osu) by [Fisky](https://osu.ppy.sh/users/8352623)  
-128 – 165 BPM, 4:34 | 7.50★, 6.88★
+128 – 165 BPM, 4:34 | 6.88★, 7.50★
 
 Despite not having any ranked maps, Fisky is an incredibly skilled mapper whose forte lies in their ability to make high-difficulty technical maps that are even higher in quality. A perfect example of this is their map of *Revenge*, a high-intensity song whose potential was used to its fullest, resulting in a map that sits at 7.5 stars and features all sorts of unique patterns. A second difficulty is included in the mapset that nerfs some of the patterns in the main difficulty and rests just below 7 stars.
 
@@ -58,21 +58,21 @@ With all the intensity that can come from osu! beatmaps, sometimes we just need 
 [![](/wiki/shared/news/2020-06-21-project-loved-june-2020/osu/5-code-crimson.jpg)](https://osu.ppy.sh/community/forums/topics/1092781)
 
 [Shiron - CODE -CRiMSON-](https://osu.ppy.sh/beatmapsets/504770#osu) by [Mijn Aim Zuigt](https://osu.ppy.sh/users/4587487) and [Damnjelly](https://osu.ppy.sh/users/1666355)  
-167 BPM, 1:59 | 7.12★, 7.99★, 6.72★
+167 BPM, 1:59 | 6.72★, 7.12★, 7.99★
 
 Has anyone been craving some technical spaced streams? I know I sure was—until I found this mapset, at least. This 3-difficulty mapset ranges from 6.7 to 8 stars, and each difficulty is filled with super satisfying 167 BPM spaced streams and finger control patterns. It's the perfect mapset to both train and refine your skills, all while trying not to get lost in the intensity of the song.
 
 [![](/wiki/shared/news/2020-06-21-project-loved-june-2020/osu/6-something-good-08-radio-edit.jpg)](https://osu.ppy.sh/community/forums/topics/1092780)
 
 [Utah Saints - Something Good '08 (Radio Edit)](https://osu.ppy.sh/beatmapsets/456463#osu) by [xDololow](https://osu.ppy.sh/users/4687216)  
-129 BPM, 2:40 | 8.98★, 8.14★, 7.09★, 8.40★
+129 BPM, 2:40 | 7.09★, 8.14★, 8.40★, 8.98★
 
 It's hard to find quality maps that challenge you with symmetrical patterns the way xDololow's mapset of *Something Good '08* does, as it features three difficulties between 7 and 9 stars that each feature unique stream jump patterns at 129 BPM (that's 258 BPM jumps!). This mapset has already been in the hands of countless top players, and it's time for you to give it a shot as well. Give yourself a new kind of aim challenge with any of the three difficulties in this mapset.
 
 [![](/wiki/shared/news/2020-06-21-project-loved-june-2020/osu/7-mc-mental-at-his-best.jpg)](https://osu.ppy.sh/community/forums/topics/1092779)
 
 [MC Mental - MC Mental at His Best](https://osu.ppy.sh/beatmapsets/407055#osu) by [Bullhax](https://osu.ppy.sh/users/3708657)  
-176 BPM, 1:51 | 6.42★, 5.90★, 5.14★, 4.07★, 6.06★
+176 BPM, 1:51 | 4.53★, 5.14★, 5.90★, 6.42★, 6.44★
 
 *MC Mental at His Best* stands out as one of the most long-standing mapsets that has spread lighthearted joy among players ever since its submission in 2016. With over 240 favourites already on the mapset, Bullhax's mapset of this silly 176 BPM song features three completed difficulties between 5 and 6 stars. The maps themselves feature a mix of jumps, streams, and finger control, so it's the ultimate mapset to train different skills while simultaneously challenging the ultimate MC Mental.
 
@@ -95,7 +95,7 @@ Mew captures this style of mapping perfectly, with the combination of drum-like 
 [![](/wiki/shared/news/2020-06-21-project-loved-june-2020/taiko/2-energy-night.jpg)](https://osu.ppy.sh/community/forums/topics/1092776)
 
 [KAH - energy night](https://osu.ppy.sh/beatmapsets/1163432#taiko) by [\_MMMMMM_MMMMMM\_](https://osu.ppy.sh/users/8959673), [juanilp4evr](https://osu.ppy.sh/users/6413125) and [Axer](https://osu.ppy.sh/users/7299864)  
-156 BPM, 2:16 | 6.06★, 5.59★, 5.98★  
+156 BPM, 2:16 | 5.59★, 5.98★, 6.06★  
 *description written by [-Kazu-](https://osu.ppy.sh/users/920861)*
 
 As a consequence of the new monthly format of the Loved section, we decided to showcase the winners of mapping contests done inside the osu!taiko community to highlight those amazing maps that were worthy of winning their categories! This time, we're starting with the osu!taiko Argentina Mapping Contest #2, which had *KAH - energy night* featured for the people in this community to compete.
@@ -153,7 +153,7 @@ And try it out you should! It is not the hardest of maps, and the map has two di
 [![](/wiki/shared/news/2020-06-21-project-loved-june-2020/catch/4-no-poi-nenpulse-bootleg-remix.jpg)](https://osu.ppy.sh/community/forums/topics/1092770)
 
 [Petit Rabbit's - No Poi! (nenpulse bootleg remix)](https://osu.ppy.sh/beatmapsets/464213#fruits) by [Spectator](https://osu.ppy.sh/users/702598) and [Minato Yukina](https://osu.ppy.sh/users/531253)  
-175 BPM, 4:31 | 5.17★  
+175 BPM, 4:31 | 5.18★  
 The \[Salad\] difficulty is *not* being nominated for Loved.  
 *description written by [Yumeno Himiko](https://osu.ppy.sh/users/1806962)*
 
@@ -168,7 +168,7 @@ osu!mania Loved candidates were chosen by [-mint-](https://osu.ppy.sh/users/8976
 [![](/wiki/shared/news/2020-06-21-project-loved-june-2020/mania/1-over-the-fullereneshift.jpg)](https://osu.ppy.sh/community/forums/topics/1092768)
 
 [DJ Sharpnel - Over The Fullereneshift](https://osu.ppy.sh/beatmapsets/893066#mania) by [Shoegazer](https://osu.ppy.sh/users/2520707)  
-224 BPM, 4:26 | \[4K\] 4.95★, \[4K\] 5.35★, \[4K\] 5.73★, \[4K\] 6.06★, \[4K\] 4.62★
+224 BPM, 4:26 | \[4K\] 4.62★, \[4K\] 4.95★, \[4K\] 5.35★, \[4K\] 5.73★, \[4K\] 6.06★
 
 First in line is a valiant call for salvation. Spare none of an amendment is long-time Loved patron Shoegazer's rebuild of *Over the Fullereneshift*, with cleaner jumpstreams, airtight patterning, and masterful repetition–as with the precision in brand name that Shoegazer tends to carry.
 
@@ -197,7 +197,7 @@ It's no wonder that *Warriors* gained the following it has today given these sim
 [![](/wiki/shared/news/2020-06-21-project-loved-june-2020/mania/4-chaosmaid.jpg)](https://osu.ppy.sh/community/forums/topics/1092765)
 
 [paraoka - chaosmaid](https://osu.ppy.sh/beatmapsets/533893#mania) by [shuniki](https://osu.ppy.sh/users/4942174)  
-189 BPM, 3:52 | \[4K\] 7.69★, \[4K\] 5.01★
+189 BPM, 3:52 | \[4K\] 5.01★, \[4K\] 7.69★
 
 A familiar face in the Loved section, shuniki returns with *chaosmaid*, another fun and challenging long-note community favorite. Like shuniki's other LN maps that were previously nominated for Loved, *chaosmaid* is a staple LN map for all those LN fanatics out there. It's a relatively straightforward map when it comes to shuniki, with its simplistic, repetitive structure executed in a smooth and satisfying manner.
 
@@ -216,7 +216,7 @@ This time, we're having a non-meta round starting off with a 6K pack from Alipay
 [![](/wiki/shared/news/2020-06-21-project-loved-june-2020/mania/6-watagumo-no-onaka.jpg)](https://osu.ppy.sh/community/forums/topics/1092763)
 
 [Dormir - Watagumo no Onaka](https://osu.ppy.sh/beatmapsets/539982#mania) by [Todestrieb](https://osu.ppy.sh/users/4056690)  
-165 BPM, 1:52 | \[9K\] 3.17★, \[9K\] 1.18★, \[9K\] 2.06★
+165 BPM, 1:52 | \[9K\] 1.18★, \[9K\] 2.06★, \[9K\] 3.17★
 
 The second non-meta pick for this round is a 9K spread from Todestrieb. Combining technical accuracy with precise keysounds, *Watagumo no Onaka* provides the players another fun experience with the underappreciated keycount. The spread in play also allows for beginners to have a try at 9K. The major selling point is the EX diff, which showcases some very solid structure and consistency with the music. For anyone itching for a 9K pick, this is one definitely worth trying out!
 
