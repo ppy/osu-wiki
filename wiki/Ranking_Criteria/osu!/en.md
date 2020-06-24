@@ -88,6 +88,7 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 - [Approach rate](/wiki/Beatmapping/Approach_rate) should be 5 or less.
 - [Overall difficulty](/wiki/Beatmapping/Overall_difficulty) / [HP drain rate](/wiki/Beatmapping/HP_drain_rate) should be between 1 and 3.
+- [Circle size](/wiki/Beatmapping/Circle_size) should be 4 or lower.
 
 ### ![](/wiki/shared/diff/normal-s.png) Normal
 
@@ -127,6 +128,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 - [Approach rate](/wiki/Beatmapping/Approach_rate) should be between 4 and 6.
 - [Overall difficulty](/wiki/Beatmapping/Overall_difficulty) / [HP drain rate](/wiki/Beatmapping/HP_drain_rate) should be between 3 and 5.
+- [Circle size](/wiki/Beatmapping/Circle_size) should be 5 or lower.
 
 ### ![](/wiki/shared/diff/hard-s.png) Hard
 
@@ -151,6 +153,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 - [Approach rate](/wiki/Beatmapping/Approach_rate) should be between 6 and 8.
 - [Overall difficulty](/wiki/Beatmapping/Overall_difficulty) should be between 5 and 7.
 - [HP drain rate](/wiki/Beatmapping/HP_drain_rate) should be between 4 and 6.
+- [Circle size](/wiki/Beatmapping/Circle_size) should be 6 or lower.
 
 ### ![](/wiki/shared/diff/insane-s.png) Insane
 
@@ -168,6 +171,7 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 - [Approach rate](/wiki/Beatmapping/Approach_rate) should be between 7 and 9.3.
 - [Overall difficulty](/wiki/Beatmapping/Overall_difficulty) should be between 7 and 9.
 - [HP drain rate](/wiki/Beatmapping/HP_drain_rate) should be between 5 and 8.
+- [Circle size](/wiki/Beatmapping/Circle_size) should be 7 or lower.
 
 ### ![](/wiki/shared/diff/expert-s.png) Expert
 
@@ -180,3 +184,4 @@ If a Normal difficulty is required and used as the *lowest difficulty* of a beat
 
 - [Approach rate](/wiki/Beatmapping/Approach_rate) / [Overall difficulty](/wiki/Beatmapping/Overall_difficulty) should be 8 or higher.
 - [HP drain rate](/wiki/Beatmapping/HP_drain_rate) should be 5 or higher.
+- [Circle size](/wiki/Beatmapping/Circle_size) should be 7 or lower.
