@@ -1,5 +1,5 @@
 ---
-outdated: true
+outdated: false
 ---
 
 # .osr 文件
@@ -12,7 +12,7 @@ outdated: true
 | :-- | :-- | :-- |
 | Byte | 1 | 一个单独的8bit值。 |
 | Short | 2 | 一个 2-byte 大的 little endian 值。 |
-| Integer | 4 | A一个 4-byte 大的 little endian 值。 |
+| Integer | 4 | 一个 4-byte 大的 little endian 值。 |
 | Long | 8 | 一个 8-byte 大的 little endian 值。 |
 | ULEB128 | 可变 | 一个可变长度的Integer。参阅 [ULEB128](http://en.wikipedia.org/wiki/ULEB128). |
 | String | 可变 | 拥有3部分： 第一个byte如果是0x00，表示下面两部分不存在。如果是0x0b（十进制为11），表示下面两部分存在。如果是0x0b，下面会有一个ULEB128，代表字符串的长度。然后是字符串本身，使用UTF-8编码，参阅 [UTF-8](http://en.wikipedia.org/wiki/UTF-8) |
@@ -43,7 +43,7 @@ outdated: true
 | Integer | 压缩后的回放数据的长度（用byte表示）（原文：Length in bytes of compressed replay data）|
 | Byte 数组 | 压缩后的回放数据 |
 
-剩余的数据包括鼠标移动和按键的信息在一个 <wikipedia:LZMA> 流里。
+剩余的数据包括在一个 wikipedia:LZMA 流里的鼠标移动与按键的信息。
 
 解压缩之后，文本包括一些用逗号分隔的数据。每一块数据反映了一个动作，表现在4个数字在下面的表格里：`w | x | y | z.`
 
@@ -52,7 +52,9 @@ outdated: true
 | w | Long | 距离上个动作的时间（毫秒） |
 | x | Float | 鼠标的X坐标（从0到512） |
 | y | Float | 鼠标的Y坐标（从0到384） |
-| z | Integer | 鼠标、键盘按键的组合 (M1 = 1, M2 = 2, K1 = 4, K2 = 8, 烟雾 = 16) (K1总是与M1一起，K2总是与M2一起。1+4=5 2+8=10。) |
+| z | Integer | 鼠标、键盘按键的组合 (M1 = 1, M2 = 2, K1 = 4, K2 = 8, 烟雾 = 16) (K1总是与M1一起使用，K2总是与M2一起使用。1+4=5 2+8=10。) |
+
+在'20130319'版本或之后版本创建的回放内，用于分数的32位随机整数seed会以 `-12345|0|0|seed` 的格式编码进LZMA流末尾的附加回放帧中。（原文：the 32-bit integer RNG seed used for the score will be encoded into an additional replay frame at the end of the LZMA stream, under the format `-12345|0|0|seed` .）
 
 ## Mods
 
@@ -70,7 +72,7 @@ outdated: true
 | DoubleTime | 64 (6) |  |
 | Relax | 128 (7) |  |
 | HalfTime | 256 (8) |  |
-| Nightcore | 512 (9) | 通常和DT 一起使用 : 512 + 64 = 576 |
+| Nightcore | 512 (9) | 总是和DT一起使用 : 512 + 64 = 576 |
 | Flashlight | 1024 (10) |  |
 | Autoplay | 2048 (11) |  |
 | SpunOut | 4096 (12) |  |
