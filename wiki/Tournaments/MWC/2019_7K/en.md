@@ -215,7 +215,7 @@ Saturday, 2 March 2019:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **China** ![][flag_CN] | **6** | 0 | ![][flag_KR] South Korea | *win by default* |
+| **China** ![][flag_CN] | **0** | -1 | ![][flag_KR] South Korea | *win by default* |
 | France ![][flag_FR] | 0 | **6** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/49966458) |
 | Macau ![][flag_MO] | 0 | **6** | ![][flag_TH] **Thailand** | [#1](https://osu.ppy.sh/community/matches/49969094) |
 | Chile ![][flag_CL] | 0 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/49971704) |
@@ -243,7 +243,7 @@ Sunday, 24 February 2019:
 | --: | :-: | :-: | :-- | :-- |
 | **China** ![][flag_CN] | **5** | 1 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/49818181) |
 | **Philippines** ![][flag_PH] | **5** | 1 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/49820246) |
-| **France** ![][flag_FR] | **5** | 0 | ![][flag_JP] Japan | *win by default* |
+| **France** ![][flag_FR] | **0** | -1 | ![][flag_JP] Japan | *win by default* |
 | **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/49827739) |
 | **Singapore** ![][flag_SG] | **5** | 0 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/49828906) |
 | **Macau** ![][flag_MO] | **5** | 3 | ![][flag_SE] Sweden | [#1](https://osu.ppy.sh/community/matches/49831672) |
