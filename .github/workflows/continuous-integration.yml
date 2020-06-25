@@ -55,7 +55,7 @@ jobs:
               else
                   echo "::debug::File ${file} is ok."
               fi
-          done < <(git diff --numstat ${{ github.sha }}^ ${{ github.sha }} | grep -Po "\-\t\-\t\K.+$")
+          done < <(git diff --numstat --no-renames --diff-filter=d ${{ github.sha }}^ ${{ github.sha }} | grep -Poe '-\t-\t\K.+')
           # git diff --numstat will output -<TAB>-<TAB>$filename for blobs
 
           exit ${EXIT}
