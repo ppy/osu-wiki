@@ -282,7 +282,7 @@ With the skin.ini, `ScorePrefix` allows you to use custom paths to link to the i
 **Be careful**, this custom pathing only affects the score numbers,
 not the combo numbers (assuming you only modify the score numbers, the combo numbers will use the default score numbers).
 
-![](fs/score_0.jpg)
+![Score numbers in the default osu! skin](img/scorenumbers_default.jpg)
 *Default skin*
 
 #### Score comma
@@ -306,7 +306,7 @@ The combo numbers are used for all the current combo counters in all game modes.
 - osu!catch: above the catcher (moves along with catcher)
 - osu!mania: at the top of the columns (can be moved up or down manually with [skin.ini](/wiki/Skinning/Skin.ini))
 
-**By default, the score number image set are used as the combo number images set.**
+**By default, the combo numbers will use the score number image set**
 
 This default can be changed in the [skin.ini](/wiki/Skinning/Skin.ini) file.
 To do this, change the `ComboPrefix` command (under the `[Fonts]` section) to the combo image name.
@@ -319,7 +319,7 @@ To do this, change the `ComboPrefix` command (under the `[Fonts]` section) to th
 Just like the default numbers and the score numbers, you can also use `ComboOverlap` to adjust the space between numbers.
 Where positive integers will move the numbers closer to each other, while negative integers will add more space between numbers.
 
-![](fs/combo_0.jpg)
+![Combo numbers in the default osu! skin](img/combonumbers_default.jpg)
 *Default skin*
 
 ### FPS
@@ -327,7 +327,7 @@ Where positive integers will move the numbers closer to each other, while negati
 The FPS numbers.
 This only works with the **Stable (Fallback) stream**!
 
-<!-- TODO images -->
+<!-- TODO information -->
 
 ### Playfield
 
@@ -354,30 +354,18 @@ This can be animated.
 ![Skip button in the Clear Futuristic Miku V 2.0 skin](img/skip_cfmiku.jpg)
 *Clear Futuristic Miku V 2.0*
 
-#### Warning Arrow
+#### Arrows
+
+##### Warning Arrow
 
 The warning arrow appears at the end of section break (pass or fail), in pause menu - pointing at actually selected button (appears after pressing keyboard arrows), and while playing TAG in multiplayer - points to who's turn it is.
-Remember, this image must points towards the right, because it will be reflected to make it point to the left!
-
-![](fs/warning-arrow_ex0.jpg)
+Remember, this image must point towards the right, because it will be reflected to make it point to the left!
 
 In skin version 1.0, the warningarrow stays untinted on the end of section breaks, while in the pause menu it is tinted blue.
 
 In skin versions 2.0+, the warningarrow is tinted red on the end of section breaks, and still gets tinted blue on the pause menu.
 
-![](fs/warning-arrow_0.jpg)
-*(unknown)*
-
-![](fs/warning-arrow_1.jpg)
-*(unknown)*
-
-![](fs/warning-arrow_2.jpg)
-*(unknown)*
-
-![](fs/warning-arrow_3.jpg)
-*(unknown)*
-
-##### Arrows
+##### New Arrows
 
 There are 3 new arrows that will override the `play-warningarrow.png` on their respective screens.
 
@@ -388,14 +376,22 @@ There are 3 new arrows that will override the `play-warningarrow.png` on their r
 The most useful feature of these new images are that you can use 3 different arrows!
 In the past you could only use one image and that they would have been tinted differently.
 
-<!-- TODO images -->
+![Generic Arrow in the default osu! skin](img/genericarrow_default.jpg)
+*Default skin*
+
+![Pause Arrow in the default osu! skin](img/pausearrow_default.jpg)
+*Default skin*
+
+![Warning Arrow in the default osu! skin](img/warningarrow_default.jpg)
+*Default skin*
 
 #### Multi-skipped
 
 In multiplayer, this is the visual image that tells the other players (and you) that they want to skip the intro.
 This appears on the scoreboard on the left, next to the player's name.
 
-<!-- TODO images -->
+![Multi-skipped in the default osu! skin](img/multiskipped_default.jpg)
+*Default skin*
 
 #### Section Passed
 
@@ -488,4 +484,4 @@ Currently, these are used in 3 places:
 Interestingly, there is an element here that you *could* change.
 It is the bar that shows the current tick of each beat in a beatmap, while offseting.
 
-<!-- TODO images -->
+<!-- TODO list skinnable elements -->
