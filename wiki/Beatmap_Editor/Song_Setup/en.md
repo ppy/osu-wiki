@@ -94,7 +94,7 @@ Circle Size, commonly abbreviated as CS, exists only in osu!standard and osu!cat
 
 Most beatmaps use a value of 3 or 4, while a value of 5 or 6 is sometimes used and a value of 7 is almost never used. A value of 7 onwards is likely to be seen when using the [Hard Rock](/wiki/Game_Modifiers#hard-rock) mod.
 
-It is possible to set the CS value to something less than 2 or greater than 7 by manually editing the OSU file, but this is be avoided as it is considered to be unrankable.
+Setting the CS value to something less than 2 or greater than 7 can be done by manually editing the `.osu` file.
 
 #### Key Count
 
