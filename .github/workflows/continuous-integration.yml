@@ -55,7 +55,7 @@ jobs:
               else
                   echo "::debug::File ${file} is ok."
               fi
-          done < <(git diff --diff-filter=d --numstat -z ${{ github.sha }}^ ${{ github.sha }} | grep -Po --text "\-\t\-\t(\x0[^\x0]+\x0)?\K[^\x0]+\x0$")
+          done < <(git diff --diff-filter=d --numstat -z ${{ github.sha }}^ ${{ github.sha }} | grep -Po --text "\-\t\-\t(\x0[^\x0]+\x0)?\K[^\x0]+")
           # git diff --numstat -z will output:
           # -<TAB>-<TAB>$filename<NUL> - for files that weren't moved
           # -<TAB>-<TAB><NUL>$old_filename<NUL>$new_filename<NUL> - for files that were moved
