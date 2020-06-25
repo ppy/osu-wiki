@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "osu! World Cup 2020: Staff and Mapper Application!"
-date: 2020-06-24 16:00:00 +0000
+date: 2020-06-25 03:00:00 +0000
 ---
 
 ![](/wiki/shared/news/banners/OWC_2020_banner.jpg)
 
-It's that time of the year again --- but wait it's not even October yet!
+It's that time of the year again — but wait it's not even October yet!
 
 Staff application is an entire World Cup early this year, with a few new positions to apply for through forms and a way to suggest maps!
 
@@ -46,4 +46,4 @@ Thank you to everyone who has and perhaps will express an interest in helping ou
 
 Players will have to wait for further details when the deadline draws closer in October!
 
---omgforz
+—omgforz
