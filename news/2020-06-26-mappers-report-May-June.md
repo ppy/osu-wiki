@@ -66,7 +66,7 @@ The Beatmap Nominators never rest, the Beatmap Nominators never sleep. Just kidd
 ### BN Additions
 
 - **osu!:** [Teky](https://osu.ppy.sh/users/10520912), [DeviousPanda](https://osu.ppy.sh/users/4966334), [Stixy](https://osu.ppy.sh/users/9000308), [Trynna](https://osu.ppy.sh/users/2652951), [Fall](https://osu.ppy.sh/users/4800816), [Elayue](https://osu.ppy.sh/users/6400861) & [NexusQI](https://osu.ppy.sh/users/13822800)
-- **osu!taiko:** [realy0_](https://osu.ppy.sh/users/8863359), [_DUSK_](https://osu.ppy.sh/users/6092181), [davidminh0111](https://osu.ppy.sh/users/9623142), [Cychloryn](https://osu.ppy.sh/users/6921736) & [Axer](https://osu.ppy.sh/users/7299864)
+- **osu!taiko:** [realy0\_](https://osu.ppy.sh/users/8863359), [\_DUSK\_](https://osu.ppy.sh/users/6092181), [davidminh0111](https://osu.ppy.sh/users/9623142), [Cychloryn](https://osu.ppy.sh/users/6921736) & [Axer](https://osu.ppy.sh/users/7299864)
 - **osu!catch:** [Baron](https://osu.ppy.sh/users/10286499), [Secre](https://osu.ppy.sh/users/2306637) & [Bastian](https://osu.ppy.sh/users/6345176)
 - **osu!mania:** [Kyousukee](https://osu.ppy.sh/users/8842107), [Shima Rin](https://osu.ppy.sh/users/6089608), [Garalulu](https://osu.ppy.sh/users/757783) & [Muse Dash](https://osu.ppy.sh/users/13695676)
 
@@ -75,7 +75,7 @@ The Beatmap Nominators never rest, the Beatmap Nominators never sleep. Just kidd
 - **osu!:** [Affirmation](https://osu.ppy.sh/users/6186628) & [wafer](https://osu.ppy.sh/users/9416836)
 - **osu!taiko:** [Cynplytholowazy](https://osu.ppy.sh/users/3901754) & [Gamelan4](https://osu.ppy.sh/users/9856910)
 - **osu!catch:** [-Luminate](https://osu.ppy.sh/users/4778689)
-- **osu!mania:** [Drum-Hitnormal](https://osu.ppy.sh/users/748722), [_Kobii](https://osu.ppy.sh/users/6209713) & [Unpredictable](https://osu.ppy.sh/users/7560872)
+- **osu!mania:** [Drum-Hitnormal](https://osu.ppy.sh/users/748722), [\_Kobii](https://osu.ppy.sh/users/6209713) & [Unpredictable](https://osu.ppy.sh/users/7560872)
 
 ### BN and QAT/NAT Badges
 
