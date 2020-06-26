@@ -97,7 +97,7 @@ There are two main styles of setting the keys placement in the keyboard: KDDK (T
 
 A taiko controller is the default play style and controller for the [Taiko no Tatsujin](https://wikipedia.org/wiki/Taiko_no_Tatsujin) series([Taiko Drum Master](https://wikipedia.org/wiki/Taiko:_Drum_Master) for US).
 
-*Note: Most skilled players play using the Taiko controller either bought or created from scratch.*
+*Note: Some skilled players who play using a Taiko controller may create theirs from scratch while others purchase theirs via retail or online stores.*
 
 Players who use a Taiko controller carry a Taiko/drum stick in each hand and hit the center (Red) or rim of the drum (Blue) to register the note based on where it is hit.
 
