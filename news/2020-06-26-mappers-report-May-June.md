@@ -75,19 +75,19 @@ The Beatmap Nominators never rest, the Beatmap Nominators never sleep. Just kidd
 - **osu!:** [Affirmation](https://osu.ppy.sh/users/6186628)
 - **osu!taiko:** [Cynplytholowazy](https://osu.ppy.sh/users/3901754) & [Gamelan4](https://osu.ppy.sh/users/9856910)
 - **osu!catch:** [-Luminate](https://osu.ppy.sh/users/4778689)
-- **osu!mania:** [Drum-Hitnormal](https://osu.ppy.sh/users/748722), [\_Kobii](https://osu.ppy.sh/users/6209713) & [Unpredictable](https://osu.ppy.sh/users/7560872)
+- **osu!mania:** [\_Kobii](https://osu.ppy.sh/users/6209713) & [Unpredictable](https://osu.ppy.sh/users/7560872)
 
 ### BN and QAT/NAT Badges
 
 Recently a new wave of badges acknowledging the length of time members have put into teams for managing ranked! Those who are on this list have been contributing to the community in so many ways during their time on osu!, and fully deserve this acknowledgement. We thank them all for their contribution so far and hope to see much more of them in the future! Here is the list of those:
 
-- **BN 1 Year Badge:** [incandescence](osu.ppy.sh/users/6256027), [Kaitjuh](osu.ppy.sh/users/2225327), [Unpredictable](osu.ppy.sh/users/7560872), [Nuvolina](osu.ppy.sh/users/10974170), [Dored](osu.ppy.sh/users/10284894)
-- **BN 2 Year Badge:** [JBHyperion](osu.ppy.sh/users/4879508), [Nevo](osu.ppy.sh/users/7451883), [Mordred](osu.ppy.sh/users/7265097), [bossandy](osu.ppy.sh/users/360437), [Namki](osu.ppy.sh/users/5248582)
-- **BN 3 Year Badge:** [Benita](osu.ppy.sh/users/4023183), [Sonnyc](osu.ppy.sh/users/11771)
-- **BN 4 Year Badge:**  [Nozhomi](osu.ppy.sh/users/2716981)
-- **QAT/NAT 1 Year Badge:** [Ascendance](osu.ppy.sh/users/2931883), [Noffy](osu.ppy.sh/users/1541323), [Faputa](osu.ppy.sh/users/845733)
-- **QAT/NAT 2 Year Badge:** [Lasse](osu.ppy.sh/users/896613), [-Mo-](osu.ppy.sh/users/2202163), [Chaoslitz](osu.ppy.sh/users/3621552)
-- **QAT 3 Year Badge:** [OnosakiHito](osu.ppy.sh/users/290128)
+- **BN 1 Year Badge:** [incandescence](https://osu.ppy.sh/users/6256027), [Kaitjuh](https://osu.ppy.sh/users/2225327), [Unpredictable](https://osu.ppy.sh/users/7560872), [Nuvolina](https://osu.ppy.sh/users/10974170) & [Dored](https://osu.ppy.sh/users/10284894)
+- **BN 2 Year Badge:** [JBHyperion](https://osu.ppy.sh/users/4879508), [Nevo](https://osu.ppy.sh/users/7451883), [Mordred](https://osu.ppy.sh/users/7265097), [bossandy](https://osu.ppy.sh/users/360437) & [Namki](https://osu.ppy.sh/users/5248582)
+- **BN 3 Year Badge:** [Benita](https://osu.ppy.sh/users/4023183) & [Sonnyc](https://osu.ppy.sh/users/11771)
+- **BN 4 Year Badge:**  [Nozhomi](https://osu.ppy.sh/users/2716981)
+- **QAT/NAT 1 Year Badge:** [Ascendance](https://osu.ppy.sh/users/2931883), [Noffy](https://osu.ppy.sh/users/1541323) & [Faputa](https://osu.ppy.sh/users/845733)
+- **QAT/NAT 2 Year Badge:** [Lasse](https://osu.ppy.sh/users/896613), [-Mo-](https://osu.ppy.sh/users/2202163) & [Chaoslitz](https://osu.ppy.sh/users/3621552)
+- **QAT 3 Year Badge:** [OnosakiHito](https://osu.ppy.sh/users/290128)
 
 ## <a id="mappers-showcase"></a>Mappers' Showcase
 
@@ -132,7 +132,7 @@ Get your editor ready. The mapping contests are here! Whether you are a veteran 
 
 The [Monthly Beatmapping Contests](https://osu.ppy.sh/help/wiki/Contests/Monthly_Beatmapping_Contest) (MBC) gives to you your monthly dose of mapping competitions. Each month's contest features a different mapping limitation that entries must adhere to.
 
-The April's contest results are out and we congratulate [hypercyte](https://osu.ppy.sh/users/9155377) for winning and getting his Tier 2 badge! Good job also to [fanzhen0019](https://osu.ppy.sh/users/418699) for being community vote runner-up and [Acyl](https://osu.ppy.sh/users/1943309) for being the screening crew favorite!
+The April's contest results are out and we congratulate [hypercyte](https://osu.ppy.sh/users/9155377) for winning and getting his Tier 2 badge! Good job also to [fanzhen0019](https://osu.ppy.sh/users/418699) for being community vote runner-up and [Acylica](https://osu.ppy.sh/users/1943309) for being the screening crew favorite!
 
 The May and June Montly Beatmapping Contests have both of their submission phases concluded and we hope to see the results soon. Once they are out we'll be sure to let you know!
 
@@ -147,9 +147,9 @@ Do you have what it takes to be the next "Elite Mapper"? Then jump right into it
 
 ### 2020 osu!catch Mapping World Cup
 
-Fruit catcher, now's your chance! The 2020 edition of the [osu!catch Mapping World Cup](https://osu.ppy.sh/community/forums/topics/1089125) has arrived! If you are skilled with placing fruits in the editor get your 2 to 5 best friends by their hand and sign up! Can the Philippines keep their title as osu!catch Mapping World Champion or will an other country get the 1st place this time?
+Fruit catchers, now's your chance! The [2020 osu!catch Mapping World Cup](https://osu.ppy.sh/community/forums/topics/1089125) has arrived! In it's 2nd edition, the best osu!catch mappers from ten countries will compete against each other in a round based elimination format to decide who is the best of the best. Will the Philippines be able to defend their title or will we see a new country as the osu!catch mapping champion? 
 
-We will surely keep you up to date with it! 
+We will surely keep you up to date! 
 
 ### lu^3 Mapping Cup
 
