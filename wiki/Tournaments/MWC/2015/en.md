@@ -110,7 +110,7 @@ The osu!mania 4K World Cup 2015 was run by various community members by distribu
 
 ### Finals
 
-**This mappool was used during the Finals and the Grand Finals.**
+**This mappool was played during the Finals and the Grand Finals.**
 
 **[Download the mappack here!](https://www.mediafire.com/download/3z76r2xd707sl2n/MWC_4K_2015_Finals.rar)**
 

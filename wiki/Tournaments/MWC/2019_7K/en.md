@@ -103,7 +103,7 @@ The osu!mania 7K World Cup 2019 was run by various community members by distribu
 
 ### Finals
 
-**This mappool was played in Finals and Grand Finals.**
+**This mappool was played during the Finals and the Grand Finals.**
 
 - FreeMod
   - [Hommarju - Rings of Rainbow (qodtjr) \[Sweet Ring\]](https://osu.ppy.sh/beatmapsets/867713#mania/1813878)

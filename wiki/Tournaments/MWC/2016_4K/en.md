@@ -112,7 +112,7 @@ The osu!mania 4K World Cup 2016 was run by various community members by distribu
 
 ### Finals
 
-**This mappool was used during the Finals and the Grand Finals.**
+**This mappool was played during the Finals and the Grand Finals.**
 
 **[Download the mappack here!](https://www.mediafire.com/download/k67i387mj5kdmec/MWC_4K_2016_Finals.rar)**
 

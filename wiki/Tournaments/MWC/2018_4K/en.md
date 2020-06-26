@@ -109,6 +109,8 @@ The osu!mania 4K World Cup 2018 was run by various community members by distribu
 
 ## Mappools
 
+**This mappool was played during the Finals and the Grand Finals.**
+
 ### Finals
 
 - Freemod

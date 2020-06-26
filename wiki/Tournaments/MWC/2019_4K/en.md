@@ -110,7 +110,7 @@ The osu!mania 4K World Cup 2019 was run by various community members by distribu
 
 ### Finals
 
-**This mappool was played in Finals and Grand Finals.**
+**This mappool was played during the Finals and the Grand Finals.**
 
 - FreeMod
   - [Fairy Godmother (CV:Jennifer Saunders) - Holding Out For a Hero (-mint-) \[Happily Ever After (cut)\]](https://osu.ppy.sh/beatmapsets/1049206#mania/2192932)

@@ -103,7 +103,7 @@ The osu!mania 7K World Cup 2018 was run by various community members by distribu
 
 ### Finals
 
-**This mappool was played in Finals and Grand Finals.**
+**This mappool was played during the Finals and the Grand Finals.**
 
 **[Download the mappack here! (105 MB)](https://mega.nz/#!QvghCDCQ!mDHFhurA3mzdqxD-2bfULBNG0cBtXzmG35T-hw6fa3o)**
 

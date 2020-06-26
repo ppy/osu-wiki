@@ -97,7 +97,7 @@ The osu!mania 7K World Cup 2016 was run by various community members by distribu
 
 ### Finals
 
-**This mappool was used during the Finals and the Grand Finals.**
+**This mappool was played during the Finals and the Grand Finals.**
 
 **[Download the mappack here!](https://www.mediafire.com/download/9179zq7bew4tj72/MWC_7K_2016_Finals.rar)**
 
