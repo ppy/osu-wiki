@@ -1,9 +1,9 @@
 ---
 tags:
-- MWC 2019
-- MWC 4K 2019
-- MWC2019
-- MWC4K 2019
+  - MWC 2019
+  - MWC 4K 2019
+  - MWC2019
+  - MWC4K 2019
 ---
 
 # osu!mania 4K World Cup 2019

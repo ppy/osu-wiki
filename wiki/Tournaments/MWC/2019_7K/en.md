@@ -1,9 +1,9 @@
 ---
 tags:
-- MWC 2019
-- MWC 7K 2019
-- MWC2019
-- MWC7K 2019
+  - MWC 2019
+  - MWC 7K 2019
+  - MWC2019
+  - MWC7K 2019
 ---
 
 # osu!mania 7K World Cup 2019

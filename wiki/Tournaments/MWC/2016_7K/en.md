@@ -1,9 +1,9 @@
 ---
 tags:
-- MWC 2016
-- MWC 7K 2016
-- MWC2016
-- MWC7K 2016
+  - MWC 2016
+  - MWC 7K 2016
+  - MWC2016
+  - MWC7K 2016
 ---
 
 # osu!mania 7K World Cup 2016

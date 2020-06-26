@@ -1,9 +1,9 @@
 ---
 tags:
-- MWC 2015
-- MWC 4K 2015
-- MWC2015
-- MWC4K 2015
+  - MWC 2015
+  - MWC 4K 2015
+  - MWC2015
+  - MWC4K 2015
 ---
 
 # osu!mania 4K World Cup 2015
