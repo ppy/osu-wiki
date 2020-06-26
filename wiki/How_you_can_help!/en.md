@@ -8,7 +8,7 @@ Below are just a few of the ways you can help out in the community:
 
 ## Help out with the wiki
 
-[The wiki](https://github.com/ppy/osu-wiki) is our official knowledge base about anything and everything about osu!. And as such, the wiki is always looking for more contributors to help keep the site up-to-date with fresh, new knowledge and/or translations.
+[The wiki](https://github.com/ppy/osu-wiki) is our official knowledge base about anything and everything about osu!. And as such, the wiki is always looking for more contributors to help keep the site up-to-date with fresh, new knowledge or translations.
 
 If you are a newcomer to the osu! wiki, you can read more about it in the [osu! wiki Contribution Guide](/wiki/osu!_wiki_Contribution_Guide).
 
@@ -55,7 +55,7 @@ If you'd like to participate, you can...
 - Browse the [Tournaments](https://osu.ppy.sh/community/forums/55) forum; tournaments take time and a lot of manpower to organize without hitches, and you can help out by being a spectator judge in some cases.
 - Check out what's going on in the [Development](https://osu.ppy.sh/community/forums/2) forum; it is where most serious projects happen.
 - Join a [beatmap project](https://osu.ppy.sh/community/forums/53) and learn how fun collaborating with others can be!
-- Start your own project! Whether it's bringing back dancing Pippi, or just making something cool for osu!; anything is accepted!
+- Start your own project! Whether it's bringing back dancing pippi, or just making something cool for osu!; anything is accepted!
 
 ## Contribute to the future of osu!
 
