@@ -8,7 +8,7 @@ This page will detail the various ways in which players can choose to play in th
 
 Mouse-only was once the *only* way to play osu! until other playing methods were supported over time.
 
-Also known as *pure-mouse*, mouse-only players navigate the in-game cursor with a mouse as well as tap beats, follow sliders, and spin spinners by only clicking the left/right mouse buttons.
+Also known as *pure-mouse*, mouse-only players navigate the in-game cursor with a mouse while tapping beats, following sliders, and spinning spinners with only clicking the left and right mouse buttons.
 
 The play style is widely considered to be the hardest method to play with and mouse-only players who rank high in the overall rankings are usually greatly respected by the community.
 
@@ -18,15 +18,15 @@ The play style is widely considered to be the hardest method to play with and mo
 
 Dual mouse is a play style in which a player has a mouse in each hand; using one mouse to tap and another mouse to move the in-game cursor.
 
-The play style used to be considered a joke play style to most players until May 2013 when Canadian player ![](/wiki/shared/flag/CA.gif "Canada") [Azer](https://osu.ppy.sh/users/2155578) starting getting top scores on highly-respected maps such as [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691) and [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823) whilst playing with dual mice.
+The play style used to be considered a joke play style to most players until May 2013 when Canadian player ![](/wiki/shared/flag/CA.gif "Canada") [Azer](https://osu.ppy.sh/users/2155578) starting getting top scores on highly-respected maps such as [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691) and [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823) whilst playing with two mice.
 
 *Note: It is also common for dual mouse players to tape the mouse used for clicking to the desk.*
 
 ### Mouse and keyboard
 
-Mouse + Keyboard is the most popular play style for osu! because it uses basic computer hardware that most users have access to and puts less strain the hand used for holding the mouse.
+Mouse and keyboard is the most popular play style for osu! because it uses the most basic computer peripherals and puts less strain on the hand used for holding the mouse.
 
-Mouse + Keyboard players play in almost exactly the same way as mouse-only players with the only difference being that two keyboard keys (`Z` and `X` by default) are used to tap instead of the mouse itself.
+Mouse and keyboard players play in almost exactly the same way as mouse-only players with the only difference being that two keyboard keys (`Z` and `X` by default) are used to tap instead of the mouse itself.
 
 Some players use only the keyboard to tap while others only switch to the keyboard when streaming (the act of tapping a very fast string of hit objects in rapid succession) and use the mouse to click for everything else.
 
@@ -52,9 +52,9 @@ Streaming with only one tapping input is widely regarded in the community to be 
 
 *Notice: This play style requires the use of a graphics tablet (digitizer).*
 
-Tablet + Keyboard is a popular play style among many passionate, competitive, and top players.
+Tablet and keyboard is a popular play style among many passionate, competitive, and top players.
 
-Tablet + Keyboard players "hover" and/or "drag" a tablet pen to navigate the in-game cursor and tap beats using the keyboard or the tablet buttons.
+Tablet and keyboard players "hover" or "drag" a tablet pen to navigate the in-game cursor and tap beats using the keyboard or the tablet buttons.
 
 Much like mouse and keyboard, some players also use only the tablet pen to tap while others will switch to keyboard when streaming.
 
@@ -72,7 +72,7 @@ This play style may feel similar to playing [osu!stream](/wiki/osu!stream) due t
 
 ### Touchscreen and keyboard
 
-Touchscreen + Keyboard is a play style uses a keyboard for key inputs, and touchscreen device of some sort to navigate the in-game cursor; it is a play style most often adopted by touchscreen players who cannot perform streams using only the touchscreen.
+Touchscreen and keyboard is a play style uses a keyboard for key inputs, and touchscreen device of some sort to navigate the in-game cursor; it is a play style most often adopted by touchscreen players who cannot perform streams using only the touchscreen.
 
 ### Other styles
 
@@ -89,9 +89,9 @@ Keyboard was once the *only* way to play osu!taiko until other playing methods w
 
 Simply, the player would press the assigned keyboard keys to hit the drum parts. By default, `X`/`C` were for the drum center (Red) and `Z`/`V` were for the drum rim (Blue).
 
-There are two main styles of setting the keys placement in the keyboard: KDDK (Taiko default, or BRRB) or DDKK/KKDD (or RRBB/BBRR). The letters represent the placement of the drum rim or drum center (e.eg. K in KDDK for drum rim, and D for the drum center).
+There are two main styles of setting the keys placement in the keyboard: KDDK (Taiko default, or BRRB) or DDKK/KKDD (or RRBB/BBRR). The letters represent the placement of the drum rim or drum center (e.g. K in KDDK for drum rim, and D for the drum center).
 
-*Note For key-binding, the default is `Z` `X` `C` `V` (KDDK, or BRRB).*
+*Note: For key-binding, the default is `Z` `X` `C` `V` (KDDK, or BRRB).*
 
 ### Taiko controller
 
@@ -113,31 +113,31 @@ Players who use a taiko controller carry a taiko/drum stick in each hand and hit
 
 A keyboard is the most commonly used and default play style for osu!catch.
 
-To play with a keyboard, players press the left/right `<-`/`->` arrow keys to move the catcher, and can also hold down `leftShift` to trigger the *Dash!* effect.
+To play with a keyboard, players press the left and right arrow keys to move the catcher and hold down `leftShift` to dash.
 
-It is possible to edit the keys used; some players enjoy `A`/`D` for movement and `Spacebar`/`rightShift` for *Dash!* effect.
+It is possible to edit the keys used; some players enjoy `A`/`D` for movement and the spacebar or `rightShift` to dash.
 
-The key overlay shows `<-`/`->` arrow keys input as `L`/`R` respectively and `leftShift` as `D` by default.
+The key overlay shows the arrow keys input as `L` and `R` and the dash button as `D`.
 
-#### Keyboard + Mouse
+### Keyboard and mouse
 
-Keyboard + Mouse is a minor alternative play style of Keyboard, in which players trigger the *Dash!* effect by using mouse clicks instead. Though some players prefer the reverse and prefer to control the left and right movements by using the left/right mouse buttons and activate dashes with the keyboard.
+Keyboard and mouse is a minor alternative play style of keyboard, in which players can dash using mouse clicks instead. Though some players prefer the reverse and prefer to control the left and right movements by using the left/right mouse buttons and activate dashes with the keyboard.
 
-*Note: Depending on the model of mouse, some players may prefer to control all movements and controls of the catcher soley through buttons on the mouse. Usually using a Mouse Button 4 or 5 to dash.*
+*Note: Depending on the model of mouse, some players may prefer to control all movements and controls of the catcher solely through buttons on the mouse.*
 
 ### Joystick
 
 Using a joystick to control the catcher is a play style for players who are used to pixel-old arcade cabinets' control scheme.
 
-Players move the head of the joystick and press the face button/trigger/keyboard key to trigger the *Dash!* effect.
+Players move the head of the joystick and press the face button, trigger, or keyboard key to dash.
 
 ### Gamepad
 
-Using a gamepad to control the catcher is a play style for players who prefer the feeling of a particular D-Pad or control stick as opposed to a keyboard.
+Using a gamepad to control the catcher is a play style for players who prefer the feeling of a particular D-pad or control stick as opposed to a keyboard.
 
-To move the catcher left and right, some players prefer to press the left/right arrows on their gamepad's D-Pad to move, while others prefer to use control stick directions. Though, due to a gamepad's wide variety of buttons, players can use triggers, bumpers, or other face buttons to move the  catcher.
+To move the catcher left and right, some players prefer to press the left/right arrows on their gamepad's D-pad to move, while others prefer to use control stick directions. Though, due to a gamepad's wide variety of buttons, players can use triggers, bumpers, or other face buttons to move the  catcher.
 
-To trigger the *Dash!* effect, many players use one of the face buttons on their gamepad. Though, some players prefer to use triggers, bumpers, or control sticks. 
+To dash, many players use one of the face buttons on their gamepad. Though, some players prefer to use triggers, bumpers, or control sticks. 
 
 ## ![](/wiki/shared/mode/mania.png) osu!mania
 
@@ -149,13 +149,13 @@ Keyboard was once the *only* way to play osu!mania until other play methods was 
 
 To play with a keyboard, players would press down the keys respective to their placement on the in-game keyboard. By default these keys are DFJK. The advantage of this play-style is that it can accommodate basically all the Keys setting.
 
-### DJMAX/O2Jam/Beatmania IIDX/etc. arcade controller
+### Arcade controller
 
-These types of arcade controllers are a play-style tuned for seasoned veterans at conveyor-type rhythm games.
+Arcade controllers from other rhythm games such as DJMAX, O2Jam, Beatmania IIDX, etc. are a play-style tuned for seasoned veterans at conveyor-type rhythm games.
 
-*Note: Since the use of 8 Keys requires the mapper's decision or the use of Game Modifiers, most players owning these arcade controllers can handle up to 7 Keys (max default) and 1 special.*
+*Note: Since the use of 8 Keys requires the mapper's decision or the use of game modifiers, most players owning these arcade controllers can handle up to 7 keys (max default) and 1 special.*
 
-### Dance Pad
+### Dance pad
 
 Dance pads are controllers for games like the [Dance Dance Revolution](https://wikipedia.org/wiki/Dance_Dance_Revolution) (DDR) series, and the [Pump It Up](https://en.wikipedia.org/wiki/Pump_It_Up_(video_game_series)) (PIU) series. ([StepMania](https://wikipedia.org/wiki/StepMania) is a semi–well known, community-driven clone of both of these games).
 
@@ -168,4 +168,4 @@ Another drawback is that osu!mania maps may have been designed without dance gam
 ### Other styles
 
 - **Guitar/Drum set**(5/6K): The default controller for the guitar-themed ([Guitar Hero](https://wikipedia.org/wiki/Guitar_Hero))/drum-themed([Drummania](https://wikipedia.org/wiki/Drum_Mania)) rhythm game. Players stream on their guitar/hit the drum or cymbals to input commands. Drum players have a disadvantage compared to guitar players because they can only input two commands at a time without a special kick pedal.
-- **Para Para controller**(5K): This is the default controller for [Para Para Paradise](https://wikipedia.org/wiki/Para_Para_Paradise) series. Players move their arms, elbows and hands straight above the proximity sensors to input commands based on hand position through the proximity sensors. The drawback is the sensitivy of the input receiver and the player's physical limitation.
+- **Para Para controller**(5K): This is the default controller for [Para Para Paradise](https://wikipedia.org/wiki/Para_Para_Paradise) series. Players move their arms, elbows and hands straight above the proximity sensors to input commands based on hand position through the proximity sensors. The drawback is the sensitivity of the input receiver and the player's physical limitation.
