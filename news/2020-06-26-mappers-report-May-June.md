@@ -94,7 +94,7 @@ Recently a new wave of badges acknowledging the length of time members have put 
 The Mappers' Showcase parades lesser-known mappers from every game mode. Since we bundled two issues in one post, this month will feature two game modes. 
 Thanks to our selector for osu!catch [Jemzuu](https://osu.ppy.sh/users/7890134) and our selectors for osu!mania [Scotty](https://osu.ppy.sh/users/11085809) & [Unpredictable](https://osu.ppy.sh/users/7560872)!
 
-### Phob 
+### Phob (osu!catch)
 
 Recently entering their way in the gates of the ranked section, **[Phob](https://osu.ppy.sh/users/6069462)** is a newer mapper that is currently having a decent breakout year so far! Although he's more known for being a skillful Hidden player, his mapping definitely deserves more recognition! He crafts his maps with brilliant relevance to the music showing such coherence in patterning, proving that he clearly knows what he's doing!
 
@@ -102,7 +102,7 @@ His take on [Feint - Snake Eyes (feat, CoMa)](https://osu.ppy.sh/beatmapsets/103
 
 He also tends to favor mapping lower difficulties, especially Salads, so he is certainly a mapper that is in good shape! We are definitely going to watch out for his future works, as he is a very promising mapper! If novice mappers are looking for an inspiration, Phob would be a great example!
 
-### dika312
+### dika312 (osu!catch)
 
 A long-term mapper that has been crafting maps for almost 5 years, **[dika312](https://osu.ppy.sh/users/741613)** is someone that strives for an intuitive yet a very interesting mapping style that would keep you on the edge of your seat! Despite his long mapping experience, none of dika's works has reached the ranked section (yet!), and most of his maps are sadly gone unnoticed.
 
@@ -110,7 +110,7 @@ A diamond in the rough are his maps such as [Kikuo - Neko no Shokutaku](https://
 
 Other of his great works that is worth mentioning would be his take on [KikuoHana - Nobore! Susume! Takai Tou](https://osu.ppy.sh/beatmapsets/545757#fruits/2084234), showcasing exceptional progression in style as the song intensifies, along with fine contrast in calmer sections. We hope to see more of dika's maps, and hopefully he can bear us good fruit in the ranked section someday!
 
-### BringoBrango
+### BringoBrango (osu!mania)
 
 **[BringoBrango](https://osu.ppy.sh/users/10274043)** is a Canadian mapper who's been within the mapping community for about 2-3 years now and has really made a name for himself within late 2019 to now for his creative innovations and unique takes on the songs he chooses, with his most popular mapset being [Iglooghost - Bug Thief](https://osu.ppy.sh/beatmapsets/887787#mania/2033667) being ranked late last year and his map, [PSYQUI - Multitalents](https://osu.ppy.sh/beatmapsets/1024323#mania/2142612) being used in last year's MWC.
 
@@ -118,7 +118,7 @@ However, some of his other maps that haven't got much of a spotlight unlike the 
 
 Other maps of his that definitely deserve more of a spotlight are [cYsmix - Classic Pursuit](https://osu.ppy.sh/beatmapsets/730295#mania/2235782), which features more LN layering schemes, SVs, inverses, and jacks, to which these hold up the map together beautifully and another map of his, [Husky - Sleepy Boi](https://osu.ppy.sh/beatmapsets/807991#mania/1695651) which mainly focuses on jacks and SVs with how repetitious the song that really makes the map much more of a challenge and also throws back to an older mapping style of his to where a lot of his mapping were typically jack-oriented. We hope to see more of his maps in the future as he's definitely quite the anomaly in the mapping scene and perhaps see his maps ranked in the future sometime soon!
 
-### Ticle
+### Ticle (osu!mania)
 
 Despite not being around for long, **[Ticle](https://osu.ppy.sh/users/11602148)** has been able to develop an explosive style of LN mapping. Their takes on electronic tracks are heavily expressive and intuitive yet come with a particular level of detail and rigidity. The result is highly addictive LN maps for both players and mappers alike! Recently, they have been able to gain attention with their debut in the loved section [tomatoism – UMP9](https://osu.ppy.sh/beatmapsets/970727#mania/2032725). However we believe they have a lot more maps that are worthy of a spotlight.
 
