@@ -6,7 +6,7 @@ This page will detail the various ways in which players can choose to play in th
 
 ### Mouse-only
 
-Mouse-only was once the *only* way to play osu! until other playing methods were supported over time.
+*Note: Mouse-only was once the *only* way to play osu! until other playing methods were supported over time.*
 
 Also known as *pure-mouse*, mouse-only players navigate the in-game cursor with a mouse while tapping beats, following sliders, and spinning spinners with only clicking the left and right mouse buttons.
 
@@ -36,7 +36,7 @@ Some players use only the keyboard to tap while others only switch to the keyboa
 
 ![](/wiki/shared/Osu!tablet.jpg "osu!tablet")
 
-*Notice: This play style requires the use of a graphics tablet (digitizer).*
+*Notice: This play style requires the use of a graphics [tablet (digitizer)](/wiki/Glossary#tablet).*
 
 Tablet-only players hover a tablet pen over a graphics tablet to navigate the in-game cursor and only tap beats by tapping the pen onto the surface of the graphics tablet itself.
 
@@ -99,13 +99,13 @@ A taiko controller is the default play style and controller for the [Taiko no Ta
 
 *Note: Most skilled players play using the Taiko controller either bought or created from scratch.*
 
-Players who use a taiko controller carry a taiko/drum stick in each hand and hit the center (Red) or rim of the drum (Blue) to register the note based on where it is hit.
+Players who use a Taiko controller carry a Taiko/drum stick in each hand and hit the center (Red) or rim of the drum (Blue) to register the note based on where it is hit.
 
-*Notice: Most Taiko controllers connect to the computer by using Bluetooth connector should there be no USB connecter. Though this may increase latency*
+*Notice: Most Taiko controllers connect to the computer by using a Bluetooth connector should there be no USB connecter. Though this may increase latency*
 
 ### Other styles
 
-- **Gamepad**: A gamepad is one of the possible play-styles in the various console variations of Taiko no Tatsujin series (including Taiko Drum Master). Players register Don/Katu by pressing the face (Right Don, or Right Red), arrow (Left Don, or Left Red) and upper buttons (Left/Right Katu, or Left/Right Blue). <!-- This sentence could use a bit more work on explaining what Don/Katu are. As well as a photo. Also, I think that Gamepads are the same thing as an taiko controller -->
+- **Gamepad**: A gamepad is one of the possible play-styles in the various console variations of Taiko no Tatsujin series (including Taiko Drum Master). Players register Don/Katu by pressing the face (Right Don, or Right Red), arrow (Left Don, or Left Red) and upper buttons (Left/Right Katu, or Left/Right Blue). 
 
 ## ![](/wiki/shared/mode/catch.png) osu!catch
 
@@ -123,8 +123,6 @@ The key overlay shows the arrow keys input as `L` and `R` and the dash button as
 
 Keyboard and mouse is a minor alternative play style of keyboard, in which players can dash using mouse clicks instead. Though some players prefer the reverse and prefer to control the left and right movements by using the left/right mouse buttons and activate dashes with the keyboard.
 
-*Note: Depending on the model of mouse, some players may prefer to control all movements and controls of the catcher solely through buttons on the mouse.*
-
 ### Joystick
 
 Using a joystick to control the catcher is a play style for players who are used to pixel-old arcade cabinets' control scheme.
@@ -138,6 +136,11 @@ Using a gamepad to control the catcher is a play style for players who prefer th
 To move the catcher left and right, some players prefer to press the left/right arrows on their gamepad's D-pad to move, while others prefer to use control stick directions. Though, due to a gamepad's wide variety of buttons, players can use triggers, bumpers, or other face buttons to move the  catcher.
 
 To dash, many players use one of the face buttons on their gamepad. Though, some players prefer to use triggers, bumpers, or control sticks. 
+
+### Other styles
+
+- **Mouse-only**: Mouse-only is a niche play style in which players control all movements and dashes from the catcher solely through mouse inputs. Though this is only an option available on computer mice with `M4` and `M5` buttons (which are typically found the left-hand side of the mouse).
+
 
 ## ![](/wiki/shared/mode/mania.png) osu!mania
 
