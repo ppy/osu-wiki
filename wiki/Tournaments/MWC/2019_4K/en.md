@@ -98,7 +98,7 @@ The osu!mania 4K World Cup 2019 was run by various community members by distribu
 | **A** | ![][flag_US] United States | ![][flag_CN] China | ![][flag_CA] Canada | ![][flag_PE] Peru |
 | **B** | ![][flag_GB] United Kingdom | ![][flag_ID] Indonesia | ![][flag_MY] Malaysia | ![][flag_CH] Switzerland |
 | **C** | ![][flag_PH] Philippines | ![][flag_AR] Argentina | ![][flag_DE] Germany | ![][flag_HK] Hong Kong |
-| **D** | ![][flag_KR] South Korea | ![][flag_IT] Italy | ![][flag_SE] Sweden | ![][falg_DK] Denmark |
+| **D** | ![][flag_KR] South Korea | ![][flag_IT] Italy | ![][flag_SE] Sweden | ![][flag_DK] Denmark |
 | **E** | ![][flag_TH] Thailand | ![][flag_PL] Poland | ![][flag_NL] Netherlands | ![][flag_ES] Spain |
 | **F** | ![][flag_BR] Brazil | ![][flag_CL] Chile | ![][flag_TW] Taiwan | ![][flag_FI] Finland |
 | **G** | ![][flag_JP] Japan | ![][flag_AU] Australia | ![][flag_RU] Russian Federation | ![][flag_VE] Venezuela |
