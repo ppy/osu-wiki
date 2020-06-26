@@ -4,7 +4,7 @@ title: "The Mappers' Report: May/June"
 date: 2020-06-30 12:00:00 +0000
 ---
 
-Have you missed us? I bet you did! Sorry for the wait but here we are again, the fourth and fifth issue of the Mappers' Report in one post! Full with news and happenings all over the mapping community in osu! Did your favorite mapper won a contest? Or got the long awaited ranking criteria change finally happen? — Jump right in and find out!
+Have you missed us? I bet you did! Sorry for the wait but here we are again, the fourth and fifth issue of the Mappers' Report in one post! Full with news and happenings all over the mapping community in osu! Did your favorite mapper win a contest? Or did the long awaited ranking criteria change finally happen? — Jump right in and find out!
 
 ![](/wiki/shared/news/banners/the-mappers-report.jpg)
 
@@ -23,14 +23,14 @@ As every month we keep you up to date with what happened in the Ranking Criteria
 
 ### All Modes
 
-- **[Remove glossaries from RC pages](https://osu.ppy.sh/community/forums/topics/1064466)**: The content of the glossaries will be put into own wiki pages! This happened already for the general Ranking Criteria and the osu! Ranking Criteria. The other will follow soon!
-- **[Allow .ogg files as a main audio source](https://osu.ppy.sh/community/forums/topics/1021547)**: Always struggle with your map getting uploaded because of too large file size? Then we have good news! You may now use .ogg as audio to save some file size! Note that this still must follow the regular kbit/s rules!
+- **[Remove glossaries from RC pages](https://osu.ppy.sh/community/forums/topics/1064466)**: The content of the glossaries will be put into individual wiki pages! This happened already for the general Ranking Criteria and the osu! Ranking Criteria. The others will follow soon!
+- **[Allow .ogg files as a main audio source](https://osu.ppy.sh/community/forums/topics/1021547)**: Always struggle with your map getting uploaded because of too large file size? Then we have good news! You may now use .ogg for the song audio to save some file size! Note that this still must follow the regular kbit/s rules!
 
 ### osu!
 
 - **[Intuitive Reverse Arrow Movement](https://osu.ppy.sh/community/forums/topics/1033709?start=unread):** Reverse Arrows must now point into the direction in which the slider ball will move after hitting it.
 - **[Restrictions on "accelerating" sliders](https://osu.ppy.sh/community/forums/topics/1060629?n=1):** A small clarification that the slider path must always be visible.
-- **[Circle size](https://osu.ppy.sh/community/forums/topics/1082308):** You asked, here it is! Long have it been that there was a ranke song with a higher circle cize than 7, now we will hopefully see some more coming soon! 
+- **[Circle size](https://osu.ppy.sh/community/forums/topics/1082308):** You asked, here it is! It's been a long time since there was a ranked map with a higher circle size than 7, now we will hopefully see some more coming soon! 
 
 ### osu!catch
 
@@ -72,7 +72,7 @@ The Beatmap Nominators never rest, the Beatmap Nominators never sleep. Just kidd
 
 ### BN Resignations
 
-- **osu!:** [Affirmation](https://osu.ppy.sh/users/6186628) & [wafer](https://osu.ppy.sh/users/9416836)
+- **osu!:** [Affirmation](https://osu.ppy.sh/users/6186628)
 - **osu!taiko:** [Cynplytholowazy](https://osu.ppy.sh/users/3901754) & [Gamelan4](https://osu.ppy.sh/users/9856910)
 - **osu!catch:** [-Luminate](https://osu.ppy.sh/users/4778689)
 - **osu!mania:** [Drum-Hitnormal](https://osu.ppy.sh/users/748722), [\_Kobii](https://osu.ppy.sh/users/6209713) & [Unpredictable](https://osu.ppy.sh/users/7560872)
@@ -85,9 +85,9 @@ Recently a new wave of badges acknowledging the length of time members have put 
 - **BN 2 Year Badge:** [JBHyperion](osu.ppy.sh/users/4879508), [Nevo](osu.ppy.sh/users/7451883), [Mordred](osu.ppy.sh/users/7265097), [bossandy](osu.ppy.sh/users/360437), [Namki](osu.ppy.sh/users/5248582)
 - **BN 3 Year Badge:** [Benita](osu.ppy.sh/users/4023183), [Sonnyc](osu.ppy.sh/users/11771)
 - **BN 4 Year Badge:**  [Nozhomi](osu.ppy.sh/users/2716981)
-- **NAT 1 Year Badges:** [Ascendance](osu.ppy.sh/users/2931883), [Noffy](osu.ppy.sh/users/1541323), [Faputa](osu.ppy.sh/users/845733)
-- **NAT 2 Year Badge:** [Lasse](osu.ppy.sh/users/896613), [-Mo-](osu.ppy.sh/users/2202163), [Chaoslitz](osu.ppy.sh/users/3621552)
-- **NAT 3 Year Badge:** [OnosakiHito](osu.ppy.sh/users/290128)
+- **QAT/NAT 1 Year Badge:** [Ascendance](osu.ppy.sh/users/2931883), [Noffy](osu.ppy.sh/users/1541323), [Faputa](osu.ppy.sh/users/845733)
+- **QAT/NAT 2 Year Badge:** [Lasse](osu.ppy.sh/users/896613), [-Mo-](osu.ppy.sh/users/2202163), [Chaoslitz](osu.ppy.sh/users/3621552)
+- **QAT 3 Year Badge:** [OnosakiHito](osu.ppy.sh/users/290128)
 
 ## <a id="mappers-showcase"></a>Mappers' Showcase
 
@@ -134,7 +134,7 @@ The [Monthly Beatmapping Contests](https://osu.ppy.sh/help/wiki/Contests/Monthly
 
 The April's contest results are out and we congratulate [hypercyte](https://osu.ppy.sh/users/9155377) for winning and getting his Tier 2 badge! Good job also to [fanzhen0019](https://osu.ppy.sh/users/418699) for being community vote runner-up and [Acyl](https://osu.ppy.sh/users/1943309) for being the screening crew favorite!
 
-The May and June Montly Beatmapping Contests have both their submission phase concluded and we can hope to see the results of it soon. Once they are out we make sure to let you know!
+The May and June Montly Beatmapping Contests have both of their submission phases concluded and we hope to see the results soon. Once they are out we'll be sure to let you know!
 
 ### osu! Mapping Olympiad #7: osu!mania
 
@@ -168,11 +168,11 @@ We hope to see a lot of exciting mapping contests in the future!
 
 Modders, listen. We have great news for you! As some may already noticed, modding got an update! The review system which got announced a while ago got finally added to the Beatmap Discussion! What it is you ask?
 
-Some may remember the old modding system which worked through the forum. People posted mods in mappers beatmap forum threads. The difference to the current modding system is that modder could bundle everything in one, huge post if they liked. A lot of modders liked it and still would like to have a similar modding possibility.
+Some may remember the old modding system which worked through the forum. People posted mods in mappers' beatmap forum threads. The difference to the current modding system is that modder could bundle everything in one, huge post if they liked. A lot of modders liked it and still would like to have a similar format when modding.
 
-And now they finally have! You can now bundle your modding in one, big post! Just like you could in the old beatmap threads. To access it, go into the beatmap discussion of any beatmap you like to mod and then go to the "Review" tab. That's all! Now you can mod like in the old days. Just with all the features which the current modding system offers you!
+Now they finally do! You can now bundle your mods in one, big post! To access it, go into the beatmap discussion of any beatmap you like to mod and then go to the "Review" tab. That's all! Now you can mod in a format that lets you control what order the mod is read in, which is very useful for reoccurring or bigger issues in maps. Be sure to check out all the features which the current modding system offers to you!
 
-You think it could be better and something is still missing? Or have you found any bug in it? The devs would love to hear that! Come join the [osu!dev Discord server](https://discord.gg/ppy) and join the discussion about the review system in the #modding channel! 
+Do you think it could be better and something is still missing? Or did you find a bug in it? The developers would love to hear your feedback! Come join the [osu!dev Discord server](https://discord.gg/ppy) and join the discussion about the review system in the #modding channel! 
 
 ### The osu!wiki is hiring
 
@@ -186,7 +186,7 @@ Contributing is not even that hard and you can get all help you need to get star
 
 ---
 
-Phew, that was a bit of a read, right? We're happy that you made it until here! Once again sorry for the long wait. We will work on our schedule to make sure future issues of the Mappers' Report going out in time. You can expect us in the future with the end of every month. Should really not that much happen in osu! we will probably make again one bigger news post, but we try to keep these on a minimum! And please don't forgot, should you have anything interesting and mapping or modding related for us to mention, make sure to tell it to [Feerum](https://osu.ppy.sh/users/4815717) or [Noffy](https://osu.ppy.sh/users/1541323)!
+Phew, that was a bit of a read, right? We're happy that you made it until here! Once again sorry for the long wait. We will work on our schedule to make sure future issues of the Mappers' Report going out in time. You can expect us in the future with the end of every month. Should really not that much happen in osu! we will probably make again one bigger news post, but we try to keep these on a minimum! And please don't forget, should you have anything interesting and mapping or modding related for us to mention, make sure to tell [Feerum](https://osu.ppy.sh/users/4815717) or [Noffy](https://osu.ppy.sh/users/1541323)!
 
 Until then, thank you for reading and stay safe and healthy!
 
