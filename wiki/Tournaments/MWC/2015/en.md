@@ -33,6 +33,8 @@ The **osu!mania 4K World Cup 2015** (***MWC 4K 2015***) was a country-based osu!
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag, unique profile badge |
 
+![](img/badge.jpg "MWC 2015 winner badge") ![](img/badge2.jpg "MWC 2015 2nd place badge") ![](img/badge3.jpg "MWC 2015 3rd place badge")
+
 ## Organisation
 
 The osu!mania 4K World Cup 2015 was run by various community members by distributing the multitude of tasks into various fields of responsibility.

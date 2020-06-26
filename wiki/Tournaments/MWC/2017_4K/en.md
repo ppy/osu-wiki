@@ -33,6 +33,8 @@ The **osu!mania 4K World Cup 2017** (***MWC 4K 2017***) was a country-based osu!
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, unique profile badge, exclusive osu! merchandise |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, unique profile badge, exclusive osu! merchandise |
 
+![](img/badge.jpg "MWC 4K 2017 winner badge") ![](img/badge2.jpg "MWC 4K 2017 2nd place badge") ![](img/badge3.jpg "MWC 4K 2017 3rd place badge")
+
 ## Organisation
 
 The osu!mania 4K World Cup 2017 was run by various community members by distributing the multitude of tasks into various fields of responsibility.

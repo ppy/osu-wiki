@@ -32,6 +32,8 @@ The **osu!mania 7K World Cup 2017** (***MWC 7K 2017***) was a country-based osu!
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | Unique profile badge, exclusive osu! merchandise |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | Unique profile badge, exclusive osu! merchandise |
 
+![](img/badge.jpg "MWC 7K 2017 winner badge") ![](img/badge2.jpg "MWC 7K 2017 2nd place badge") ![](img/badge3.jpg "MWC 7K 2017 3rd place badge")
+
 ## Organisation
 
 The osu!mania 7K World Cup 2017 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
@@ -338,7 +340,7 @@ Sunday, 15 January 2017:
 ### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-   - Room settings are osu!mania, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "MWC 4K 2017: (TeamBlue) vs (TeamRed)".
+   - Room settings are osu!mania, Team-Vs., Win Condition: 'ScoreV2'. Room name must be "MWC 7K 2017: (TeamBlue) vs (TeamRed)".
    - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
 2. Players are free to select up to two warm-up beatmaps. Using beatmaps with questionable content is prohibited. All beatmaps must be osu!mania 4-key specific beatmaps.
 3. Each captain can ban **one beatmap** to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.

@@ -27,13 +27,15 @@ The **osu!mania 4K World Cup 2016** (***MWC 4K 2016***) was a country-based osu!
 
 ## Prizes
 
-There is a $1,900 cash prize pool with extra money being added by buying support banners to show support for their teams!
+There was a $1,900 cash prize pool with extra money being added by buying support banners to show support for their teams!
 
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 50% of the raised prize pool, unique profile badge, "osu!mania Champion" user title for one year |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 38% of the raised prize pool, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 12% of the raised prize pool, unique profile badge |
+
+![](img/badge.jpg "MWC 4K 2016 winner badge") ![](img/badge2.jpg "MWC 4K 2016 2nd place badge") ![](img/badge3.jpg "MWC 4K 2016 3rd place badge")
 
 ## Organisation
 

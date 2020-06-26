@@ -33,6 +33,8 @@ The **osu!mania 7K World Cup 2018** (***MWC 7K 2018***) was a country-based osu!
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, unique profile badge |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, unique profile badge |
 
+![](img/badge.jpg "MWC 7K 2018 winner badge") ![](img/badge2.jpg "MWC 7K 2018 2nd place badge") ![](img/badge3.jpg "MWC 7K 2018 3rd place badge")
+
 ## Organisation
 
 The osu!mania 7K World Cup 2018 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
@@ -81,7 +83,8 @@ The osu!mania 7K World Cup 2018 was run by various community members by distribu
 | ![][flag_US] | **United States** | **[stupud man](https://osu.ppy.sh/users/2141612)**, [Teggom](https://osu.ppy.sh/users/2588470), [dewero](https://osu.ppy.sh/users/2644993), [-Squishy](https://osu.ppy.sh/users/4372604) |
 
 ---
-![MWC 7K 2018 podium](img/podium.png)
+
+![MWC 7K 2018 podium](img/podium.jpg)
 
 ![MWC 7K 2018 bracket](img/bracket.jpg)
 
