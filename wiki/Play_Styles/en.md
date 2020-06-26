@@ -14,15 +14,15 @@ The play style is widely considered to be the hardest method to play with and mo
 
 *Note: The key overlay shows left/right click as `M1` and `M2`.*
 
-### Dual Mouse
+### Dual mouse
 
-Dual Mouse is a play style in which a player has a mouse in each hand; using one mouse to tap and another mouse to move the in-game cursor.
+Dual mouse is a play style in which a player has a mouse in each hand; using one mouse to tap and another mouse to move the in-game cursor.
 
 The play style used to be considered a joke play style to most players until May 2013 when Canadian player ![](/wiki/shared/flag/CA.gif "Canada") [Azer](https://osu.ppy.sh/users/2155578) starting getting top scores on highly-respected maps such as [Hatsune Miku - With a Dance Number (val0108)](https://osu.ppy.sh/beatmapsets/29691) and [The Quick Brown Fox - The Big Black (Blue Dragon)](https://osu.ppy.sh/beatmapsets/41823) whilst playing with dual mice.
 
-*Note: It is also common for Dual Mouse players to tape the mouse used for clicking to the desk.*
+*Note: It is also common for dual mouse players to tape the mouse used for clicking to the desk.*
 
-### Mouse + Keyboard
+### Mouse and keyboard
 
 Mouse + Keyboard is the most popular play style for osu! because it uses basic computer hardware that most users have access to and puts less strain the hand used for holding the mouse.
 
@@ -32,29 +32,31 @@ Some players use only the keyboard to tap while others only switch to the keyboa
 
 *Note: The key overlay shows keyboard presses as `K1` and `K2`.*
 
-### Tablet tap (or Tablet-only)
+### Tablet-only
 
 ![](/wiki/shared/Osu!tablet.jpg "osu!tablet")
 
-*Notice: This play style requires the use of a graphics tablet (Digitizer).*
+*Notice: This play style requires the use of a graphics tablet (digitizer).*
 
 Tablet-only players hover a tablet pen over a graphics tablet to navigate the in-game cursor and only tap beats by tapping the pen onto the surface of the graphics tablet itself.
 
 *Note: The input overlay will show all tablet taps as `M1`.*
 
+#### Tapx
+
 Streaming with only one tapping input is widely regarded in the community to be nearly impossible at high BPM. Thus, to stream as a Tablet-only player, a player should alternate between tapping their pen onto the tablet and pressing one assigned secondary key (usually a tablet or keyboard key). This method is sometimes referred to as *tapx*.
 
 *Note: Since the pen tap was considered as `M1`, only the secondary tap button will work, and `X` is usually the default secondary tap button.*
 
-### Tablet + Keyboard
+### Tablet and keyboard
 
-*Notice: This play style requires the use of a graphics tablet (Digitizer).*
+*Notice: This play style requires the use of a graphics tablet (digitizer).*
 
 Tablet + Keyboard is a popular play style among many passionate, competitive, and top players.
 
 Tablet + Keyboard players "hover" and/or "drag" a tablet pen to navigate the in-game cursor and tap beats using the keyboard or the tablet buttons.
 
-Much like Mouse + Keyboard, some players also use only the tablet pen to tap while others will switch to keyboard when streaming.
+Much like mouse and keyboard, some players also use only the tablet pen to tap while others will switch to keyboard when streaming.
 
 ### Touchscreen
 
@@ -64,11 +66,11 @@ To navigate the in-game cursor, touchscreen players touch the screen of their de
 
 When a touchscreen player taps the screen, their device will simultaneously move the cursor to that point, as well as send a mouse input. Thus, to tap beats, follow sliders, and spin spinners, touchscreen players will only touch hit objects when they want the hit object to be hit.
 
-This play style may feel slightly similar to playing [osu!stream](/wiki/osu!stream) due to the act of touching the screen directly rather than by hardware support (e.g., mouse, graphics tablet).
+This play style may feel similar to playing [osu!stream](/wiki/osu!stream) due to the act of touching the screen directly rather than moving a cursor.
 
 *Note: The key overlay shows touch input as `M1`.*
 
-### Touchscreen + Keyboard
+### Touchscreen and keyboard
 
 Touchscreen + Keyboard is a play style uses a keyboard for key inputs, and touchscreen device of some sort to navigate the in-game cursor; it is a play style most often adopted by touchscreen players who cannot perform streams using only the touchscreen.
 
