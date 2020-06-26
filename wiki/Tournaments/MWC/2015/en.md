@@ -8,53 +8,47 @@ tags:
 
 # osu!mania 4K World Cup 2015
 
-![MWC 4K 2015 Logo](img/logo.png)
+![MWC 4K 2015 logo](img/logo.png)
 
-The **osu!mania 4K World Cup 2015** (***MWC 4K 2015***) is a country-based osu!mania tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 2nd installment of the osu!mania 4K World Cup.
+The **osu!mania 4K World Cup 2015** (***MWC 4K 2015***) was a country-based osu!mania 4K tournament hosted by the [osu! team](/wiki/People/The_Team). It was the second installment of the osu!mania 4K World Cup.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2015-07-13/2015-08-02 |
-| Live Drawings | 2015-08-16 14:00:00 UTC |
+| Registration phase | 2015-07-13/2015-08-02 |
+| Live drawings | 2015-08-16 14:00:00 UTC |
 | Group Stage | 2015-08-22/2015-08-23 |
-| Round of 16 | 2015-08-29/2015-08-30 |
+| Round of 16 | 2015-08-30 |
 | Quarterfinals | 2015-09-05/2015-09-06 |
 | Semifinals | 2015-09-12/2015-09-13 |
 | Finals | 2015-09-19/2015-09-20 |
-| Grand Finals | 2015-09-26/2015-09-27 |
+| Grand Finals | 2015-09-27 |
 
 ## Prizes
 
-In every world cup, people conquering a place on the podium are eligible to receive unique prizes created specifically for World Cup winners. It is possible that these items change with every installment of the World Cups.
-
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, profile badge, osu! merchandise, "osu!mania Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag, profile badge |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag, profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, unique profile badge, osu! merchandise, "osu!mania Champion" user title for one year |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag, unique profile badge |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag, unique profile badge |
 
 ## Organisation
 
-The osu!mania 4K World Cup 2015 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The osu!mania 4K World Cup 2015 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
 
 | Position | Member(s) |
 | :-- | :-- |
-| Manager | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
-| Map Selector | ![][flag_GB] [Starry-](https://osu.ppy.sh/users/2166199), ![][flag_TW] [Spy](https://osu.ppy.sh/users/1217122) |
+| Manager | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
+| Map selector | ![][flag_TW] [Spy](https://osu.ppy.sh/users/1217122), ![][flag_GB] [Starry-](https://osu.ppy.sh/users/2166199) |
 | Streamer | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
-| Commentator | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_CA] [Tasha](https://osu.ppy.sh/users/1031958), ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
+| Commentator | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_US] [Halogen-](https://osu.ppy.sh/users/169992), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_CA] [Tasha](https://osu.ppy.sh/users/1031958), ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
 | Statistician | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
-
-------------------------------------------------------------------------
 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/345431)
 - [Livestream](https://www.twitch.tv/osulive)
-
-------------------------------------------------------------------------
 
 ## Participants
 
@@ -95,7 +89,7 @@ The osu!mania 4K World Cup 2015 is run by various community members by distribut
 
 ## Groups
 
-| Group | Top Seed | High Seed | Low Seed | Unseeded |
+| Group | Top seed | High seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
 | **A** | ![][flag_CN] China | ![][flag_CA] Canada | ![][flag_TH] Thailand | ![][flag_VE] Venezuela |
 | **B** | ![][flag_ID] Indonesia | ![][flag_NL] Netherlands | ![][flag_NO] Norway | ![][flag_RU] Russian Federation |
@@ -106,176 +100,184 @@ The osu!mania 4K World Cup 2015 is run by various community members by distribut
 | **G** | ![][flag_GB] United Kingdom | ![][flag_FR] France | ![][flag_FI] Finland | ![][flag_IL] Israel |
 | **H** | ![][flag_US] United States | ![][flag_TW] Taiwan | ![][flag_CL] Chile | ![][flag_VN] Vietnam |
 
-------------------------------------------------------------------------
+---
 
-![MWC 4K 2015 Podium](img/podium.png)
+![MWC 4K 2015 podium](img/podium.jpg)
 
-------------------------------------------------------------------------
+![MWC 4K 2015 bracket](img/brackets.jpg)
 
-![MWC 4K 2015 Bracket](img/brackets.jpg)
-
-------------------------------------------------------------------------
+---
 
 ## Mappools
 
 ### Finals
 
-**This mappool will be used in Finals and Grand Finals.**
+**This mappool was used during the Finals and the Grand Finals.**
 
 **[Download the mappack here!](https://www.mediafire.com/download/3z76r2xd707sl2n/MWC_4K_2015_Finals.rar)**
 
 - FreeMod
-  - [LeaF - LeaF Style Super Shredder (Cherry Blossom) \[Fullerene's 4K Shredder\]](https://osu.ppy.sh/beatmaps/443034)
-  - [455-38B - Gengaozo\_Foon (Shoegazer) \[Another\]](https://osu.ppy.sh/beatmaps/667077)
-  - [Anthony Donato - The Scales of Struggle (Staiain) \[Collab Extreme\]](https://osu.ppy.sh/beatmaps/459755)
-  - [UNDEAD CORPORATION - The Empress scream off ver (TheZiemniax) \[Jepetski's Empress\]](https://osu.ppy.sh/beatmaps/713128)
-  - [Yooh - Ice Angel (Zenx) \[April's Euphoria\]](https://osu.ppy.sh/beatmaps/712625)
-  - [-45 - 44river (snover) \[final\]](https://osu.ppy.sh/beatmaps/747021)
-  - [DJKurara - Japanese Transformation (Fullerene-) \[Shift\]](https://osu.ppy.sh/beatmaps/662860)
-  - [Camellia as "Bang Riot" - Blastix Riotz (Spy) \[GRAVITY Lv.16\]](https://osu.ppy.sh/beatmaps/782106)
-  - [The Ghost of 3.13 - Forgotten (Shoegazer) \[Forgotten Collab\]](https://osu.ppy.sh/beatmaps/749258)
-  - [sun3 - Messier 333 (inteliser) \[UNLIMITED\]](https://osu.ppy.sh/beatmaps/781090)
-  - [Yu\_Asahina - Trickstarz (hi19hi19) \[STEPMANIA\]](https://osu.ppy.sh/beatmaps/770548)
-  - [Danny Baranowsky - The Battle of Lil' Slugger (Ch 1 Boss Extended Cut) (250bpm) (Staiain) \[Insane\]](https://osu.ppy.sh/beatmaps/222593)
-  - [antiPLUR - Speed of Link (Shoegazer) \[Extra\]](https://osu.ppy.sh/beatmaps/743282)
-  - [Shiraishi - Odin (Fullerene-) \[VIKINGFJORD\]](https://osu.ppy.sh/beatmaps/777356)
-  - [Kobaryo feat. t+pazolite - Yura-Yura Sweet Genocide (spoonguy) \[YuRa-yUrA\]](https://osu.ppy.sh/beatmaps/777706)
-  - [Chroma - Sayonara Planet Wars (\_FrEsH\_ChICkEn\_) \[GRAVITY\]](https://osu.ppy.sh/beatmaps/709402)
-  - [Luxion - High-Priestess (inteliser) \[UNLIMITED\]](https://osu.ppy.sh/beatmaps/782753)
-  - [Fleshgod Apocalypse - Conspiracy Of Silence (Shoegazer) \[Collab Onslaught\]](https://osu.ppy.sh/beatmaps/696289)
+  - [LeaF - LeaF Style Super Shredder (Cherry Blossom) \[Fullerene's 4K Shredder\]](https://osu.ppy.sh/beatmapsets/179779#mania/443034)
+  - [455-38B - Gengaozo\_Foon (Shoegazer) \[Another\]](https://osu.ppy.sh/beatmapsets/297148#mania/667077)
+  - [Anthony Donato - The Scales of Struggle (Staiain) \[Collab Extreme\]](https://osu.ppy.sh/beatmapsets/193512#mania/459755)
+  - [UNDEAD CORPORATION - The Empress scream off ver (TheZiemniax) \[Jepetski's Empress\]](https://osu.ppy.sh/beatmapsets/315435#mania/713128)
+  - [Yooh - Ice Angel (Zenx) \[April's Euphoria\]](https://osu.ppy.sh/beatmaps/712625) <!-- Map is missing -->
+  - [-45 - 44river (snover) \[final\]](https://osu.ppy.sh/beatmapsets/337669#mania/747021)
+  - [DJKurara - Japanese Transformation (Fullerene-) \[Shift\]](https://osu.ppy.sh/beatmapsets/294908#mania/662860)
+  - [Camellia as "Bang Riot" - Blastix Riotz (Spy) \[GRAVITY Lv.16\]](https://osu.ppy.sh/beatmaps/782106) <!-- Map has been deleted -->
+  - [The Ghost of 3.13 - Forgotten (Shoegazer) \[Forgotten Collab\]](https://osu.ppy.sh/beatmapsets/338665#mania/749258)
+  - [sun3 - Messier 333 (inteliser) \[UNLIMITED\]](https://osu.ppy.sh/beatmapsets/354621#mania/781090)
+  - [Yu\_Asahina - Trickstarz (hi19hi19) \[STEPMANIA\]](https://osu.ppy.sh/beatmapsets/349432#mania/770548)
+  - [Danny Baranowsky - The Battle of Lil' Slugger (Ch 1 Boss Extended Cut) (250bpm) (Staiain) \[Insane\]](https://osu.ppy.sh/beatmapsets/79839#mania/222593)
+  - [antiPLUR - Speed of Link (Shoegazer) \[Extra\]](https://osu.ppy.sh/beatmapsets/335798#mania/743282)
+  - [Shiraishi - Odin (Fullerene-) \[VIKINGFJORD\]](https://osu.ppy.sh/beatmapsets/352759#mania/777356)
+  - [Kobaryo feat. t+pazolite - Yura-Yura Sweet Genocide (spoonguy) \[YuRa-yUrA\]](https://osu.ppy.sh/beatmapsets/352950#mania/777706)
+  - [Chroma - Sayonara Planet Wars (\_FrEsH\_ChICkEn\_) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/318594#mania/709402)
+  - [Luxion - High-Priestess (inteliser) \[UNLIMITED\]](https://osu.ppy.sh/beatmapsets/355523#mania/782753)
+  - [Fleshgod Apocalypse - Conspiracy Of Silence (Shoegazer) \[Collab Onslaught\]](https://osu.ppy.sh/beatmapsets/311777#mania/696289)
 - Tiebreaker
-  - **[xi - PEACE BREAKER (Fullerene-) \[FINAL PUNISHMENT\]](https://osu.ppy.sh/beatmaps/777348)**
+  - **[xi - PEACE BREAKER (Fullerene-) \[FINAL PUNISHMENT\]](https://osu.ppy.sh/beatmapsets/352754#mania/777348)**
 
 ### Semifinals
 
 **[Download the mappack here!](https://www.mediafire.com/download/mwzkd8fx1hb8973/MWC_4K_2015_Semifinals.rar)**
 
 - FreeMod
-  - [you - Hold Angel (Shoegazer) \[Insane\]](https://osu.ppy.sh/beatmaps/763511)
-  - [COOL&CREATE - BEAT-NEW-WORLD (Feerum) \[Jinjin's GRAVITY Lv.16\]](https://osu.ppy.sh/beatmaps/716737)
-  - [3034 - NS18 (Fullerene-) \[EXTREME\]](https://osu.ppy.sh/beatmaps/777353)
-  - [ZiGZaG HACKER - V^3 (Hello World) (Quick Draw) \[4K SC\]](https://osu.ppy.sh/beatmaps/723816)
-  - [xi - Hesperides (Ichigaki) \[Master\]](https://osu.ppy.sh/beatmaps/735806)
-  - [Utsu-P feat.Kagamine Rin - Tokyo Teddy Bear (puxtu) \[SHD\]](https://osu.ppy.sh/beatmaps/747621)
-  - [Kaneko Chiharu - Yukionna (CannuJul) \[Jepetski's GRAVITY\]](https://osu.ppy.sh/beatmaps/772991)
-  - [siromaru - Absurd Gaff (arcwinolivirus) \[Assassination \[SC\]\]](https://osu.ppy.sh/beatmaps/766794)
-  - [xi - Quietus Ray (DE-CADE) \[Ichi's INFINITE Lv.16\]](https://osu.ppy.sh/beatmaps/517247)
-  - [Daiki Kasho - John Tanaka's Theme (Shoegazer) \[Astrofalcon\]](https://osu.ppy.sh/beatmaps/690803)
-  - [Hermit - Dysnomia (-Kamikaze-) \[Tidek's 4K Monochrome\]](https://osu.ppy.sh/beatmaps/763657)
-  - [LV.4 - Angel dust (LeiN-) \[Another\]](https://osu.ppy.sh/beatmaps/704844)
-  - [xi - Blue Zenith (Jepetski) \[Zen's Black Another\]](https://osu.ppy.sh/beatmaps/718163)
-  - [SD-501 - Cyberstorm (DJKurara Remix) (Quick Draw) \[4K SC\]](https://osu.ppy.sh/beatmaps/654145)
-  - [Nightmare - Dream To Nightmare (Shoegazer) \[Catatonia (SV)\]](https://osu.ppy.sh/beatmaps/775984)
-  - [The Quick Brown Fox - WANDERLUST (Nivrad00) \[Jinjin's 4K Extra\]](https://osu.ppy.sh/beatmaps/530698)
+  - [you - Hold Angel (Shoegazer) \[Insane\]](https://osu.ppy.sh/beatmapsets/292422#mania/763511)
+  - [COOL&CREATE - BEAT-NEW-WORLD (Feerum) \[Jinjin's GRAVITY Lv.16\]](https://osu.ppy.sh/beatmapsets/315640#mania/716737)
+  - [3034 - NS18 (Fullerene-) \[EXTREME\]](https://osu.ppy.sh/beatmapsets/352757#mania/777353)
+  - [ZiGZaG HACKER - V^3 (Hello World) (Quick Draw) \[4K SC\]](https://osu.ppy.sh/beatmapsets/325939#mania/723816)
+  - [xi - Hesperides (Ichigaki) \[Master\]](https://osu.ppy.sh/beatmapsets/309328#mania/735806)
+  - [Utsu-P feat.Kagamine Rin - Tokyo Teddy Bear (puxtu) \[SHD\]](https://osu.ppy.sh/beatmapsets/318207#mania/747621)
+  - [Kaneko Chiharu - Yukionna (CannuJul) \[Jepetski's GRAVITY\]](https://osu.ppy.sh/beatmapsets/349475#mania/772991)
+  - [siromaru - Absurd Gaff (arcwinolivirus) \[Assassination \[SC\]\]](https://osu.ppy.sh/beatmapsets/347496#mania/766794)
+  - [xi - Quietus Ray (DE-CADE) \[Ichi's INFINITE Lv.16\]](https://osu.ppy.sh/beatmapsets/217951#mania/517247)
+  - [Daiki Kasho - John Tanaka's Theme (Shoegazer) \[Astrofalcon\]](https://osu.ppy.sh/beatmapsets/308935#mania/690803)
+  - [Hermit - Dysnomia (-Kamikaze-) \[Tidek's 4K Monochrome\]](https://osu.ppy.sh/beatmapsets/303999#mania/763657)
+  - [LV.4 - Angel dust (LeiN-) \[Another\]](https://osu.ppy.sh/beatmapsets/122792#mania/704844)
+  - [xi - Blue Zenith (Jepetski) \[Zen's Black Another\]](https://osu.ppy.sh/beatmapsets/312514#mania/718163)
+  - [SD-501 - Cyberstorm (DJKurara Remix) (Quick Draw) \[4K SC\]](https://osu.ppy.sh/beatmapsets/290128#mania/654145)
+  - [Nightmare - Dream To Nightmare (Shoegazer) \[Catatonia (SV)\]](https://osu.ppy.sh/beatmapsets/352121#mania/775984)
+  - [The Quick Brown Fox - WANDERLUST (Nivrad00) \[Jinjin's 4K Extra\]](https://osu.ppy.sh/beatmapsets/201571#mania/530698)
 - Tiebreaker
-  - **[goreshit - burn this moment into the retina of my eye (Tidek) \[Fear\]](https://osu.ppy.sh/beatmaps/692640)**
+  - **[goreshit - burn this moment into the retina of my eye (Tidek) \[Fear\]](https://osu.ppy.sh/beatmapsets/309881#mania/692640)**
 
 ### Quarterfinals
 
 **[Download the mappack here!](https://www.mediafire.com/download/0dhr36bhyp8lzwb/MWC_4K_2015_Quarter_Finals.rar)**
 
 - FreeMod
-  - [xi - Garyou Tensei (LNP-) \[4K MX\]](https://osu.ppy.sh/beatmaps/530544)
-  - [Helblinde - Grief & Malice (Fullerene-) \[4K Kriemhild Gretchen\]](https://osu.ppy.sh/beatmaps/554655)
-  - [SasakureP - bokura no 16bit warz (CrazyStar) \[16bit\]](https://osu.ppy.sh/beatmaps/630173)
-  - [loz - Cinderella Cage -Trancecore Mix- (Jepetski) \[Lunatic\]](https://osu.ppy.sh/beatmaps/694425)
-  - [ZOGRAPHOS (Yu\_Asahina+Yamajet) - Verse IV (Ichigaki) \[EXHAUST\]](https://osu.ppy.sh/beatmaps/603737)
-  - [sun3 - ApolloN (bbu2) \[LeiN-'s 4K Insane\]](https://osu.ppy.sh/beatmaps/669917)
-  - [wa. remixed celas - Gin no Kaze (Marirose) \[4K Another\]](https://osu.ppy.sh/beatmaps/752775)
-  - [Izayoi Sak - Blue Planet (Shoegazer) \[Another\]](https://osu.ppy.sh/beatmaps/716960)
-  - [Soleily - Renatus (Tidek) \[Insane\]](https://osu.ppy.sh/beatmaps/552746)
-  - [xi - Wish upon Twin Stars (LNP-) \[EXHAUST Lv.15\]](https://osu.ppy.sh/beatmaps/540060)
-  - [Camellia - overcomplexification (Starry-) \[Lv.10\]](https://osu.ppy.sh/beatmaps/718998)
-  - [High Speed Music Team Sharpnel - M.A.M.A. (arcwinolivirus) \[MX\]](https://osu.ppy.sh/beatmaps/429550)
-  - [BlackY - Black Rose (Marirose) \[4K Another\]](https://osu.ppy.sh/beatmaps/668992)
-  - [xi - Aragami (Blocko) \[snover's 4K Another\]](https://osu.ppy.sh/beatmaps/760458)
+  - [xi - Garyou Tensei (LNP-) \[4K MX\]](https://osu.ppy.sh/beatmapsets/210610#mania/530544)
+  - [Helblinde - Grief & Malice (Fullerene-) \[4K Kriemhild Gretchen\]](https://osu.ppy.sh/beatmapsets/239943#mania/554655)
+  - [SasakureP - bokura no 16bit warz (CrazyStar) \[16bit\]](https://osu.ppy.sh/beatmapsets/278143#mania/630173)
+  - [loz - Cinderella Cage -Trancecore Mix- (Jepetski) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/310764#mania/694425)
+  - [ZOGRAPHOS (Yu\_Asahina+Yamajet) - Verse IV (Ichigaki) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/264749#mania/603737)
+  - [sun3 - ApolloN (bbu2) \[LeiN-'s 4K Insane\]](https://osu.ppy.sh/beatmapsets/290702#mania/669917)
+  - [wa. remixed celas - Gin no Kaze (Marirose) \[4K Another\]](https://osu.ppy.sh/beatmapsets/340297#mania/752775)
+  - [Izayoi Sak - Blue Planet (Shoegazer) \[Another\]](https://osu.ppy.sh/beatmapsets/322476#mania/716960)
+  - [Soleily - Renatus (Tidek) \[Insane\]](https://osu.ppy.sh/beatmapsets/239048#mania/552746)
+  - [xi - Wish upon Twin Stars (LNP-) \[EXHAUST Lv.15\]](https://osu.ppy.sh/beatmapsets/232650#mania/540060)
+  - [Camellia - overcomplexification (Starry-) \[Lv.10\]](https://osu.ppy.sh/beatmapsets/323493#mania/718998)
+  - [High Speed Music Team Sharpnel - M.A.M.A. (arcwinolivirus) \[MX\]](https://osu.ppy.sh/beatmapsets/176446#mania/429550)
+  - [BlackY - Black Rose (Marirose) \[4K Another\]](https://osu.ppy.sh/beatmaps/668992) <!-- Map is missing -->
+  - [xi - Aragami (Blocko) \[snover's 4K Another\]](https://osu.ppy.sh/beatmapsets/344198#mania/760458)
 - Tiebreaker
-  - **[Camellia - Lunatic Rough Party (Ichigaki) \[Lunatic\]](https://osu.ppy.sh/beatmaps/646319)**
+  - **[Camellia - Lunatic Rough Party (Ichigaki) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/286262#mania/646319)**
 
 ### Round of 16
 
 **[Download the map pack here!](https://www.mediafire.com/download/a2deedhozg0wzcm/MWC_4K_2015_Round_of_16_.rar)**
 
 - FreeMod
-  - [Junk - Qualia (Mashiro-Fang) \[S.Star's 4K MX\]](https://osu.ppy.sh/beatmaps/432217)
-  - [ikaruga\_nex - gigadelic(m3rkAb4\# R3m!x) (Starry-) \[EXHAUST Lv.13\]](https://osu.ppy.sh/beatmaps/751036)
-  - [Soleily - Violet Soul (Spy) \[victorica's GRAVITY Lv.15\]](https://osu.ppy.sh/beatmaps/554742)
-  - [Orangestar - Asu no Yozora Shoukaihan (LovinYou) \[Insane\]](https://osu.ppy.sh/beatmaps/679332)
-  - [BlackY's BEATFLOOR - Creutz=Wilknare (Short Ver.) (SanadaYukimura) \[Insane\]](https://osu.ppy.sh/beatmaps/651992)
-  - [Hige Driver join. SELEN - Dadadadadadadadadada (victorica\_db) \[Lv.14\]](https://osu.ppy.sh/beatmaps/549360)
-  - [Tatsh - HEAVENLY MOON (Spy) \[EXTREME\]](https://osu.ppy.sh/beatmaps/561923)
-  - [Yooh - Shanghai Kouchakan ~ Chinese Tea Orchid Remix (SanadaYukimura) \[EXHAUST\]](https://osu.ppy.sh/beatmaps/590575)
-  - [Junk - Yellow Smile(bms edit) (Starry-) \[Another\]](https://osu.ppy.sh/beatmaps/678460)
-  - [C-Show - Invitation from Mr.C (\_FrEsH\_ChICkEn\_) \[EXHAUST\]](https://osu.ppy.sh/beatmaps/659683)
-  - [P\*Light - TRIGGER\*HAPPY (Kuo Kyoka) \[Spy's 4K EXHAUST Lv.20\]](https://osu.ppy.sh/beatmaps/323459)
-  - [S-C-U - Ambitious (\[ A v a l o n \]) \[Spy's Another\]](https://osu.ppy.sh/beatmaps/753220)
-  - [Seiryu - Water Horizon (Spy) \[victorica's 4K ExtrA\]](https://osu.ppy.sh/beatmaps/360805)
-  - [ETIA. - Nihonshiki Koukaku-OukaRanman- (Taiwan-NAK) \[Lv.15\]](https://osu.ppy.sh/beatmaps/602235)
+  - [Junk - Qualia (Mashiro-Fang) \[S.Star's 4K MX\]](https://osu.ppy.sh/beatmapsets/177155#mania/432217)
+  - [ikaruga\_nex - gigadelic(m3rkAb4\# R3m!x) (Starry-) \[EXHAUST Lv.13\]](https://osu.ppy.sh/beatmapsets/247963#mania/751036)
+  - [Soleily - Violet Soul (Spy) \[victorica's GRAVITY Lv.15\]](https://osu.ppy.sh/beatmapsets/235126#mania/554742)
+  - [Orangestar - Asu no Yozora Shoukaihan (LovinYou) \[Insane\]](https://osu.ppy.sh/beatmapsets/303122#mania/679332)
+  - [BlackY's BEATFLOOR - Creutz=Wilknare (Short Ver.) (SanadaYukimura) \[Insane\]](https://osu.ppy.sh/beatmapsets/285730#mania/651992)
+  - [Hige Driver join. SELEN - Dadadadadadadadadada (victorica\_db) \[Lv.14\]](https://osu.ppy.sh/beatmapsets/237342#mania/549360)
+  - [Tatsh - HEAVENLY MOON (Spy) \[EXTREME\]](https://osu.ppy.sh/beatmapsets/243654#mania/561923)
+  - [Yooh - Shanghai Kouchakan \~ Chinese Tea Orchid Remix (SanadaYukimura) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/258121#mania/590575)
+  - [Junk - Yellow Smile(bms edit) (Starry-) \[Another\]](https://osu.ppy.sh/beatmapsets/302726#mania/678460)
+  - [C-Show - Invitation from Mr.C (\_FrEsH\_ChICkEn\_) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/293235#mania/659683)
+  - [P\*Light - TRIGGER\*HAPPY (Kuo Kyoka) \[Spy's 4K EXHAUST Lv.20\]](https://osu.ppy.sh/beatmapsets/125856#mania/323459)
+  - [S-C-U - Ambitious (\[ A v a l o n \]) \[Spy's Another\]](https://osu.ppy.sh/beatmapsets/340517#mania/753220)
+  - [Seiryu - Water Horizon (Spy) \[victorica's 4K ExtrA\]](https://osu.ppy.sh/beatmapsets/134829#mania/360805)
+  - [ETIA. - Nihonshiki Koukaku-OukaRanman- (Taiwan-NAK) \[Lv.15\]](https://osu.ppy.sh/beatmapsets/264127#mania/602235)
 - Tiebreaker
-  - **[Halozy - Kanshou no Matenrou (Feerum) \[World's End\]](https://osu.ppy.sh/beatmaps/577429)**
+  - **[Halozy - Kanshou no Matenrou (Feerum) \[World's End\]](https://osu.ppy.sh/beatmapsets/251365#mania/577429)**
 
 ### Group Stage
 
 **[Download the map pack here!](https://www.mediafire.com/download/ea93b8bb99w1vt5/MWC_4K_2015_Group_Stage.rar)**
 
 - FreeMod
-  - [Qrispy Joybox - snow prism (LNP-) \[MX\]](https://osu.ppy.sh/beatmaps/487578)
-  - [yak\_won - Lucid (Critical\_Star) \[MX\]](https://osu.ppy.sh/beatmaps/476043)
-  - [Vospi - We Met Dat Night (Halogen-) \[MX\]](https://osu.ppy.sh/beatmaps/374172)
-  - [Ryu\* - We're so Happy (Spy) \[victorica's 4K HD+\]](https://osu.ppy.sh/beatmaps/314892)
-  - [Ryu\* - Sakura Mirage (Spy) \[ADVANCED Lv.12\]](https://osu.ppy.sh/beatmaps/439140)
-  - [Tokisawa Nao - Analyze (Heart of Bitch) \[ecafree2's 4K SC\]](https://osu.ppy.sh/beatmaps/429628)
-  - [nora2r - VISION (SanadaYukimura) \[ADVANCED\]](https://osu.ppy.sh/beatmaps/723147)
-  - [S-C-U feat. Qrispy Joybox - anemone (Starry-) \[Special\]](https://osu.ppy.sh/beatmaps/738032)
-  - [Celas - Azul (Remix) (Marirose) \[Bie' Hyper\]](https://osu.ppy.sh/beatmaps/714074)
-  - [SHK - Couple Breaking (Sky\_Demon) \[MX\]](https://osu.ppy.sh/beatmaps/376721)
-  - [Qrispy Joybox feat.mao - Good-bye Tears (LNP-) \[MX\]](https://osu.ppy.sh/beatmaps/637229)
-  - [3R2 - Beyond the Horizon (hokin1995) \[MX\]](https://osu.ppy.sh/beatmaps/505719)
+  - [Qrispy Joybox - snow prism (LNP-) \[MX\]](https://osu.ppy.sh/beatmapsets/186096#mania/487578)
+  - [yak\_won - Lucid (Critical\_Star) \[MX\]](https://osu.ppy.sh/beatmapsets/200945#mania/476043)
+  - [Vospi - We Met Dat Night (Halogen-) \[MX\]](https://osu.ppy.sh/beatmapsets/151453#mania/374172)
+  - [Ryu\* - We're so Happy (Spy) \[victorica's 4K HD+\]](https://osu.ppy.sh/beatmapsets/120838#mania/314892)
+  - [Ryu\* - Sakura Mirage (Spy) \[ADVANCED Lv.12\]](https://osu.ppy.sh/beatmapsets/183272#mania/439140)
+  - [Tokisawa Nao - Analyze (Heart of Bitch) \[ecafree2's 4K SC\]](https://osu.ppy.sh/beatmapsets/173152#mania/429628)
+  - [nora2r - VISION (SanadaYukimura) \[ADVANCED\]](https://osu.ppy.sh/beatmapsets/325566#mania/723147)
+  - [S-C-U feat. Qrispy Joybox - anemone (Starry-) \[Special\]](https://osu.ppy.sh/beatmapsets/261301#mania/738032)
+  - [Celas - Azul (Remix) (Marirose) \[Bie' Hyper\]](https://osu.ppy.sh/beatmaps/714074) <!-- Map has been deleted -->
+  - [SHK - Couple Breaking (Sky\_Demon) \[MX\]](https://osu.ppy.sh/beatmapsets/153199#mania/376721)
+  - [Qrispy Joybox feat.mao - Good-bye Tears (LNP-) \[MX\]](https://osu.ppy.sh/beatmapsets/281717#mania/637229)
+  - [3R2 - Beyond the Horizon (hokin1995) \[MX\]](https://osu.ppy.sh/beatmapsets/215305#mania/505719)
 - Tiebreaker
-  - **[Momobako & Aihara Kaori - Senbonzakura (victorica\_db) \[Insane\]](https://osu.ppy.sh/beatmaps/494045)**
+  - **[Momobako & Aihara Kaori - Senbonzakura (victorica\_db) \[Insane\]](https://osu.ppy.sh/beatmapsets/209952#mania/494045)**
 
-------------------------------------------------------------------------
-
-## Match Results
+## Match results
 
 ### Grand Finals
 
-| Sunday, 2015-09-27 |  |  |  |  |
+Sunday, 27 September 2015:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **United States** ![][flag_US] | **7** | 0 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/19202583) |
 
 ### Finals
 
-| Saturday, 2015-09-19 |  |  |  |  |
+Saturday, 19 September 2015:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Malaysia ![][flag_MY] | 0 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/19033684) |
 | China ![][flag_CN] | 0 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/19035062) |
 | **Japan** ![][flag_JP] | **6** | 1 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/19036723) |
 | United Kingdom ![][flag_GB] | 0 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/19047914) |
 
-| Sunday, 2015-09-20 |  |  |  |  |
+Sunday, 20 September 2015:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | United Kingdom ![][flag_GB] | 3 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/19064573) |
 
 ### Semifinals
 
-| Saturday, 2015-09-12 |  |  |  |  |
+Saturday, 12 September 2015:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Brazil** ![][flag_BR] | **6** | 1 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/18875865) |
 | Japan ![][flag_JP] | 0 | **6** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/18876734) |
 | Canada ![][flag_CA] | 2 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/18877878) |
 | **Indonesia** ![][flag_ID] | **6** | 1 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/18884689) |
 | China ![][flag_CN] | 0 | **6** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/18885939) |
-| **Malaysia** ![][flag_MY] | **6** | 0 | ![][flag_AR] Argentina | -win by default- |
+| **Malaysia** ![][flag_MY] | **0** | -1 | ![][flag_AR] Argentina | *win by default* |
 
-| Sunday, 2015-09-13 |  |  |  |  |
+Sunday, 13 September 2015:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Malaysia** ![][flag_MY] | **6** | 5 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/18916080) |
 | **Brazil** ![][flag_BR] | **6** | 3 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/18917606) |
 
 ### Quarterfinals
 
-| Saturday, 2015-09-05 |  |  |  |  |
+Saturday, 5 September 2015:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Netherlands ![][flag_NL] | 1 | **5** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/18735213) |
 | France ![][flag_FR] | 0 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/18736038) |
@@ -284,14 +286,18 @@ The osu!mania 4K World Cup 2015 is run by various community members by distribut
 | Poland ![][flag_PL] | 0 | **5** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/18740464) |
 | Argentina ![][flag_AR] | 0 | **5** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/18741841) |
 
-| Sunday, 2015-09-06 |  |  |  |  |
+Sunday, 6 September 2015:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Australia ![][flag_AU] | 0 | **5** | ![][flag_CA] **Canada** | [#1](https://osu.ppy.sh/community/matches/18754356) |
 | South Korea ![][flag_KR] | 0 | **5** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/18755307) |
 
 ### Round of 16
 
-| Sunday, 2015-08-30 |  |  |  |  |
+Sunday, 30 August 2015:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Australia ![][flag_AU] | 1 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/18606478) |
 | **China** ![][flag_CN] | **5** | 1 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/18607469) |
@@ -304,7 +310,9 @@ The osu!mania 4K World Cup 2015 is run by various community members by distribut
 
 ### Group Stage
 
-| Saturday, 2015-08-22 |  |  |  |  |
+Saturday, 22 August 2015:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Germany ![][flag_DE] | 0 | **4** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/18414849) |
 | Denmark ![][flag_DK] | 0 | **4** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/18414855) |
@@ -312,66 +320,66 @@ The osu!mania 4K World Cup 2015 is run by various community members by distribut
 | Singapore ![][flag_SG] | 0 | **4** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/18414915) |
 | Poland ![][flag_PL] | 0 | **4** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/18414935) |
 | Italy ![][flag_IT] | 1 | **4** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/18416078) |
-| **Vietnam** ![][flag_VN] | **4** | 0 | ![][flag_CL] Chile | -win by default- |
+| **Vietnam** ![][flag_VN] | **0** | -1 | ![][flag_CL] Chile | *win by default* |
 | Thailand ![][flag_TH] | 0 | **4** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/18416085) |
 | **South Korea** ![][flag_KR] | **4** | 0 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/18416088) |
 | **Argentina** ![][flag_AR] | **4** | 3 | ![][flag_MY] Malaysia | [#1](https://osu.ppy.sh/community/matches/18417719) |
-| Israel ![][flag_IL] | 0 | **4** | ![][flag_GB] **United Kingdom** | -win by default- |
+| Israel ![][flag_IL] | -1 | **0** | ![][flag_GB] **United Kingdom** | *win by default* |
 | Finland ![][flag_FI] | 0 | **4** | ![][flag_FR] **France** | [#1](https://osu.ppy.sh/community/matches/18417753) |
 | Norway ![][flag_NO] | 0 | **4** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/18417757) |
 | **Russian Federation** ![][flag_RU] | **4** | 2 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/18422906) |
 | Peru ![][flag_PE] | 0 | **4** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/18422912) |
 | Sweden ![][flag_SE] | 0 | **4** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/18422917) |
-| Israel ![][flag_IL] | 0 | **4** | ![][flag_FR] **France** | -win by default- |
-| Venezuela ![][flag_VE] | 0 | **4** | ![][flag_CA] **Canada** | -win by default- |
-| Chile ![][flag_CL] | 0 | **4** | ![][flag_US] **United States** | -win by default- |
+| Israel ![][flag_IL] | -1 | **0** | ![][flag_FR] **France** | *win by default* |
+| Venezuela ![][flag_VE] | -1 | **0** | ![][flag_CA] **Canada** | *win by default* |
+| Chile ![][flag_CL] | -1 | **0** | ![][flag_US] **United States** | *win by default* |
 
-| Sunday, 2015-08-23 |  |  |  |  |
+Sunday, 23 August 2015:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Mexico ![][flag_MX] | 0 | **4** | ![][flag_NZ] **New Zealand** | [#1](https://osu.ppy.sh/community/matches/18432722) |
 | Peru ![][flag_PE] | 0 | **4** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/18432751) |
-| Taiwan ![][flag_TW] | 0 | **4** | ![][flag_US] **United States** | -win by default- |
+| Taiwan ![][flag_TW] | -1 | **0** | ![][flag_US] **United States** | *win by default* |
 | Peru ![][flag_PE] | 1 | **4** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/18433719) |
-| Venezuela ![][flag_VE] | 0 | **4** | ![][flag_CN] **China** | -win by default- |
+| Venezuela ![][flag_VE] | -1 | **0** | ![][flag_CN] **China** | *win by default* |
 | Mexico ![][flag_MX] | 0 | **4** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/18433722) |
-| Thailand ![][flag_TH] | 0 | **4** | ![][flag_CA] **Canada** | -win by default- |
+| Thailand ![][flag_TH] | -1 | **0** | ![][flag_CA] **Canada** | *win by default* |
 | Vietnam ![][flag_VN] | 0 | **4** | ![][flag_US] **United States** | [#1](https://osu.ppy.sh/community/matches/18434727) |
 | **Philippines** ![][flag_PH] | **4** | 1 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/18434735) |
 | Canada ![][flag_CA] | 1 | **4** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/18435863) |
 | New Zealand ![][flag_NZ] | 0 | **4** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/18435867) |
 | Finland ![][flag_FI] | 0 | **4** | ![][flag_GB] **United Kingdom** | [#1](https://osu.ppy.sh/community/matches/18439906) |
 | New Zealand ![][flag_NZ] | 0 | **4** | ![][flag_PL] **Poland** | [#1](https://osu.ppy.sh/community/matches/18439907) |
-| Vietnam ![][flag_VN] | 0 | **4** | ![][flag_TW] **Taiwan** | -win by default- |
+| Vietnam ![][flag_VN] | -1 | **0** | ![][flag_TW] **Taiwan** | *win by default* |
 | Italy ![][flag_IT] | 0 | **4** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/18439909) |
 | Sweden ![][flag_SE] | 1 | **4** | ![][flag_MY] **Malaysia** | [#1](https://osu.ppy.sh/community/matches/18440710) |
 | Germany ![][flag_DE] | 0 | **4** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/18440711) |
 | Russian Federation ![][flag_RU] | 0 | **4** | ![][flag_ID] **Indonesia** | [#1](https://osu.ppy.sh/community/matches/18440713) |
-| Chile ![][flag_CL] | 0 | **4** | ![][flag_TW] **Taiwan** | -win by default- |
+| Chile ![][flag_CL] | -1 | **0** | ![][flag_TW] **Taiwan** | *win by default* |
 | Singapore ![][flag_SG] | 3 | **4** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/18444296) |
 | Sweden ![][flag_SE] | 1 | **4** | ![][flag_DK] **Denmark** | [#1](https://osu.ppy.sh/community/matches/18444297) |
 | Russian Federation ![][flag_RU] | 0 | **4** | ![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/18444298) |
-| Venezuela ![][flag_VE] | 0 | **4** | ![][flag_TH] **Thailand** | -win by default- |
-| Israel ![][flag_IL] | 0 | **4** | ![][flag_FI] **Finland** | -win by default- |
+| Venezuela ![][flag_VE] | -1 | **0** | ![][flag_TH] **Thailand** | *win by default* |
+| Israel ![][flag_IL] | -1 | **0** | ![][flag_FI] **Finland** | *win by default* |
 | Italy ![][flag_IT] | 0 | **4** | ![][flag_DE] **Germany** | [#1](https://osu.ppy.sh/community/matches/18446806) |
-| Mexico ![][flag_MX] | 0 | **4** | ![][flag_PL] **Poland** | -win by default- |
+| Mexico ![][flag_MX] | -1 | **0** | ![][flag_PL] **Poland** | *win by default* |
 | Norway ![][flag_NO] | 0 | **4** | ![][flag_NL] **Netherlands** | [#1](https://osu.ppy.sh/community/matches/18447966) |
 | Denmark ![][flag_DK] | 0 | **4** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/18447967) |
 | **France** ![][flag_FR] | **4** | 1 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/18447968) |
 
-------------------------------------------------------------------------
-
 ## Ruleset
 
-### Tournament Rules
+### Tournament rules
 
 1. The osu!mania 4K World Cup is a country-based team tournament, played on the osu!mania game mode on 4-key specific beatmaps.
 2. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
-    - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
-    - All maps are in a FreeMod bracket.
+   - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
+   - All maps are in a FreeMod bracket.
 3. Match schedule will be settled by the Tournament Management (see below).
 4. If no staff or referee is available, the match will be postponed.
 5. Failed players' scores do not get added to the team score.
-    - Reviving and surviving during a map gets considered as passing it.
+   - Reviving and surviving during a map gets considered as passing it.
 6. Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
 7. If the game ends in a draw, the game will be nullified.
 8. If a player disconnects, they get treated as if they failed the map.
@@ -383,78 +391,78 @@ The osu!mania 4K World Cup 2015 is run by various community members by distribut
 14. Unexpected incidences are handled by the Tournament Management.
 15. Any modification of these rules will be announced.
 
-### Tournament Registration
+### Tournament registration
 
 1. Every user interested in joining their country's team signs up individually.
-    - Tournament Management will create a list of potential candidates for a country's team.
-    - Tournament Management declares one candidate to the captain of the country's team, albeit temporarily.
-    - The declared captain can form their team from the candidate list of their country.
+   - Tournament Management will create a list of potential candidates for a country's team.
+   - Tournament Management declares one candidate to the captain of the country's team, albeit temporarily.
+   - The declared captain can form their team from the candidate list of their country.
 2. To ensure valid and serious registrations, every registered user will be checked by the Tournament Management.
-    - Every registered user will be assigned to their respective country's candidate list.
-    - To be successfully accepted on the list, you have to ensure that your global osu!mania performace ranking is above \#5000.
-    - To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
+   - Every registered user will be assigned to their respective country's candidate list.
+   - To be successfully accepted on the list, you have to ensure that your global osu!mania performace ranking is above \#5000.
+   - To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
 3. All successfully formed teams will be published after the Registration Phase.
 4. Mapset selectors may not participate as a player in this tournament.
 
-### Stage Instructions
+### Stage instructions
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
-    - This may change according to the final amount of formed teams.
+   - This may change according to the final amount of formed teams.
 2. All the teams from each group will face each other.
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
-    - Most matches won.
-    - Have higher `{(the number of maps won) - (the number of maps defeated)}`.
-    - Most maps won.
-    - Have higher `∑{(total score difference) / (maximum score)}`.
-    - Winner of the rematch.
+   - Most matches won.
+   - Have higher `{(the number of maps won) - (the number of maps defeated)}`.
+   - Most maps won.
+   - Have higher `∑{(total score difference) / (maximum score)}`.
+   - Winner of the rematch.
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
-    - This may change with the actual Group Stage setup.
+   - This may change with the actual Group Stage setup.
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
 
-| Stage | Match ID |
-| --: | :-- |
-| Round of 16 | A, B, C, D, E, F, G, H |
-| Quarterfinals | I, J, K, L & R, S, T, U |
-| Semifinals | M, N & V, W, X, Y, Z, AA |
-| Finals | O & AB, AC, AD, AE |
-| Grand Finals | P, Q |
+   | Stage | Match ID |
+   | --: | :-- |
+   | Round of 16 | A, B, C, D, E, F, G, H |
+   | Quarterfinals | I, J, K, L & R, S, T, U |
+   | Semifinals | M, N & V, W, X, Y, Z, AA |
+   | Finals | O & AB, AC, AD, AE |
+   | Grand Finals | P, Q |
 
 7. The **Winning conditions** for each stage will be:
-    - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
-    - In the Round of 16 and the Quarterfinals, you need to win 5 maps to win a match. (Best-of-9)
-    - In Semifinals and Finals, you need to win 6 maps to win a match. (Best-of-11)
-    - In Grand Finals, you need to win 7 maps to win the match. (Best-of-13)
+   - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
+   - In the Round of 16 and the Quarterfinals, you need to win 5 maps to win a match. (Best-of-9)
+   - In Semifinals and Finals, you need to win 6 maps to win a match. (Best-of-11)
+   - In Grand Finals, you need to win 7 maps to win the match. (Best-of-13)
 
-### Match Instructions
+### Match instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-    - Room settings are osu!mania, Team-Vs., Win Condition: 'Score'. Room name must be "MWC 4K 2015: (TeamBlue) vs (TeamRed)".
-    - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
+   - Room settings are osu!mania, Team-Vs., Win Condition: 'Score'. Room name must be "MWC 4K 2015: (TeamBlue) vs (TeamRed)".
+   - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
 2. Players are free to select up to two warm-up maps. Using beatmaps with questionable content is prohibited. All maps must be 4K-specific osu!mania maps.
 3. Each captain can ban two beatmaps to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
-    - Both vetos must always be used.
+   - Both vetos must always be used.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
 5. Each captain must use "!roll" once in \#multiplayer.
-    - The winner of the !roll starts picking the first beatmap of the match.
-    - The loser of the !roll starts banning two beatmaps.
+   - The winner of the !roll starts picking the first beatmap of the match.
+   - The loser of the !roll starts banning two beatmaps.
 6. Captains may pick freely from any bracket.
-    - In case of a tie, the tiebreaker map must be played.
+   - In case of a tie, the tiebreaker map must be played.
 7. Results will be published via Statistics site.
 
-### Mappool Instructions
+### Mappool instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
-    - Finals & Grand Finals use the same mappool.
+   - Finals & Grand Finals use the same mappool.
 2. Mappool size varies depending on the stage.
-    - 12 FreeMod maps in Group Stage.
-    - 14 FreeMod maps in Round of 16 and Quarterfinals, respectively.
-    - 16 FreeMod maps in Semifinals and Finals, respectively.
+   - 12 FreeMod maps in Group Stage.
+   - 14 FreeMod maps in Round of 16 and Quarterfinals, respectively.
+   - 16 FreeMod maps in Semifinals and Finals, respectively.
 3. Each mappool has one tiebreaker.
 4. All maps, including the tiebreaker, will be played on FreeMod condition.
-    - Every individual player can pick [Hidden](/wiki/Game_Modifiers), [FadeIn](/wiki/Game_Modifiers) and [Flashlight](/wiki/Game_Modifiers) or no mode at all.
+   - Every individual player can pick [Hidden](/wiki/Game_Modifiers), [FadeIn](/wiki/Game_Modifiers) and [Flashlight](/wiki/Game_Modifiers) or no mode at all.
 
-### Scheduling Instructions
+### Scheduling instructions
 
 1. Each stage will be held on **a single weekend**.
 2. Matches in Group Stage may overlap.
@@ -462,36 +470,36 @@ The osu!mania 4K World Cup 2015 is run by various community members by distribut
 4. Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
 5. Captains are responsible for their team's availability. The greater team size exists to ensure every team can provide at least three players for each match. If teams can not provide three players for a match, the match will be considered forfeited.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_ES]: /wiki/shared/flag/ES.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IL]: /wiki/shared/flag/IL.gif
-[flag_IT]: /wiki/shared/flag/IT.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_NO]: /wiki/shared/flag/NO.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PE]: /wiki/shared/flag/PE.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SE]: /wiki/shared/flag/SE.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VE]: /wiki/shared/flag/VE.gif
-[flag_VN]: /wiki/shared/flag/VN.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IL]: /wiki/shared/flag/IL.gif "Israel"
+[flag_IT]: /wiki/shared/flag/IT.gif "Italy"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
+[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TH]: /wiki/shared/flag/TH.gif "Thailand"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VE]: /wiki/shared/flag/VE.gif "Venezuela"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
