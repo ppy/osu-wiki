@@ -31,6 +31,7 @@ languages:
   partial: Some <language>
   ar: Arabic
   bg: Bulgarian
+  bn: Bengali
   ca: Catalan
   de: German
   el: Greek
