@@ -1,3 +1,12 @@
+---
+tags:
+  - tablet
+  - hovering
+  - play style
+---
+
+<!-- This article is a stub -->
+
 # Hover
 
 *Main Page: [Play Styles](/wiki/Play_Styles)*
