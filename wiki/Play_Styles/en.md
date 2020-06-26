@@ -6,7 +6,7 @@ This page will detail the various ways in which players can choose to play in th
 
 ### Mouse-only
 
-*Note: Mouse-only was once the *only* way to play osu! until other playing methods were supported over time.*
+*Note: Mouse-only was once the only way to play osu! until other playing methods were supported over time.*
 
 Also known as *pure-mouse*, mouse-only players navigate the in-game cursor with a mouse while tapping beats, following sliders, and spinning spinners with only clicking the left and right mouse buttons.
 
@@ -140,7 +140,6 @@ To dash, many players use one of the face buttons on their gamepad. Though, some
 ### Other styles
 
 - **Mouse-only**: Mouse-only is a niche play style in which players control all movements and dashes from the catcher solely through mouse inputs. Though this is only an option available on computer mice with `M4` and `M5` buttons (which are typically found the left-hand side of the mouse).
-
 
 ## ![](/wiki/shared/mode/mania.png) osu!mania
 
