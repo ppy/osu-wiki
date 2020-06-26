@@ -104,13 +104,9 @@ The osu!mania 4K World Cup 2016 was run by various community members by distribu
 | **G** | ![][flag_JP] Japan | ![][flag_DE] Germany | ![][flag_IT] Italy | ![][flag_SE] Sweden |
 | **H** | ![][flag_FR] France | ![][flag_ID] Indonesia | ![][flag_DK] Denmark | ![][flag_MX] Mexico |
 
----
-
 ![MWC 4K 2016 podium](img/podium.jpg)
 
 ![MWC 4K 2016 bracket](img/brackets.jpg)
-
----
 
 ## Mappools
 

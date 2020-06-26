@@ -89,13 +89,22 @@ The osu!mania 4K World Cup 2017 was run by various community members by distribu
 | ![][flag_US] | **United States** | **[Zyph](https://osu.ppy.sh/users/1600432)**, [EtienneXC](https://osu.ppy.sh/users/5610085), [TheToaphster](https://osu.ppy.sh/users/7616811), [Chrubble](https://osu.ppy.sh/users/2594280), [stupud man](https://osu.ppy.sh/users/2141612), [xElectroGH](https://osu.ppy.sh/users/3251373) |
 | ![][flag_VE] | **Venezuela** | **[Cyssel](https://osu.ppy.sh/users/6394478)**, [Satoruu](https://osu.ppy.sh/users/2243452), [Shinsekai-](https://osu.ppy.sh/users/2140739), [Marunne](https://osu.ppy.sh/users/8841450), [Prancer](https://osu.ppy.sh/users/1821350), [\[-Gearfrik-\]](https://osu.ppy.sh/users/8198818) |
 
----
+## Groups
+
+| Group | Top seed | High seed | Low seed | Unseeded |
+| :-: | :-- | :-- | :-- | :-- |
+| **A** | ![][flag_BR] Brazil | ![][flag_PL] Poland | ![][flag_PH] Philippines | ![][flag_VE] Venezuela |
+| **B** | ![][flag_GB] United Kingdom | ![][flag_MY] Malaysia | ![][flag_HK] Hong Kong | ![][flag_NO] Norway |
+| **C** | ![][flag_CN] China | ![][flag_FR] France | ![][flag_AU] Australia | ![][flag_TW] Taiwan |
+| **D** | ![][flag_US] United States | ![][flag_AR] Argentina | ![][flag_MX] Mexico | ![][flag_DE] Germany |
+| **E** | ![][flag_KR] South Korea | ![][flag_SE] Sweden | ![][flag_RU] Russian Federation | ![][flag_FI] Finland |
+| **F** | ![][flag_ID] Indonesia | ![][flag_IT] Italy | ![][flag_ES] Spain | ![][flag_NZ] New Zealand |
+| **G** | ![][flag_JP] Japan | ![][flag_CA] Canada | ![][flag_CH] Switzerland | ![][flag_NL] Netherlands |
+| **H** | ![][flag_CL] Chile | ![][flag_TH] Thailand | ![][flag_SG] Singapore | ![][flag_BE] Belgium |
 
 ![MWC 4K 2017 podium](img/podium.jpg)
 
 ![MWC 4K 2017 bracket](img/bracket.jpg)
-
----
 
 ## Mappools
 

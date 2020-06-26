@@ -82,13 +82,22 @@ The osu!mania 7K World Cup 2019 was run by various community members by distribu
 | ![][flag_GB] | **United Kingdom** | **[Vygatron](https://osu.ppy.sh/users/3628783)**, [Lelloq](https://osu.ppy.sh/users/8610776) |
 | ![][flag_US] | **United States** | **[-Squishy](https://osu.ppy.sh/users/4372604)**, [stupud man](https://osu.ppy.sh/users/2141612), [Gekido-](https://osu.ppy.sh/users/4693052), [AYAYAA](https://osu.ppy.sh/users/4980256) |
 
----
+## Groups
+
+| Group | Top seed | Medium seed | Low seed |
+| :-: | :-- | :-- | :-- |
+| **A** | ![][flag_PH] Philippines | ![][flag_JP] Japan | ![][flag_HK] Hong Kong |
+| **B** | ![][flag_US] United States | ![][flag_RU] Russian Federation | ![][flag_MO] Macau |
+| **C** | ![][flag_KR] South Korea | ![][flag_TW] Taiwan | ![][flag_NL] Netherlands |
+| **D** | ![][flag_BR] Brazil | ![][flag_DE] Germany | ![][flag_GB] United Kingdom |
+| **E** | ![][flag_TH] Thailand | ![][flag_SE] Sweden | ![][flag_CA] Canada |
+| **F** | ![][flag_ID] Indonesia | ![][flag_FR] France | ![][flag_AR] Argentina |
+| **G** | ![][flag_CN] China | ![][flag_CL] Chile | ![][flag_DK] Denmark |
+| **H** | ![][flag_PL] Poland | ![][flag_SG] Singapore | ![][flag_IL] Israel |
 
 ![MWC 7K 2019 podium](img/podium.jpg)
 
 ![MWC 7K 2019 bracket](img/bracket.jpg)
-
----
 
 ## Mappools
 

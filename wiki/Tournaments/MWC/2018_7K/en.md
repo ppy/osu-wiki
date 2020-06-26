@@ -82,13 +82,22 @@ The osu!mania 7K World Cup 2018 was run by various community members by distribu
 | ![][flag_GB] | **United Kingdom** | **[Pipper](https://osu.ppy.sh/users/4168230)**, [Pope Gadget](https://osu.ppy.sh/users/2288341), [Traps are Cute](https://osu.ppy.sh/users/3359035), [xSnaggles](https://osu.ppy.sh/users/3799946) |
 | ![][flag_US] | **United States** | **[stupud man](https://osu.ppy.sh/users/2141612)**, [Teggom](https://osu.ppy.sh/users/2588470), [dewero](https://osu.ppy.sh/users/2644993), [-Squishy](https://osu.ppy.sh/users/4372604) |
 
----
+## Groups
+
+| Group | Top seed | Medium seed | Low seed |
+| :-: | :-- | :-- | :-- |
+| **A** | ![][flag_US] United States | ![][flag_JP] Japan | ![][flag_RU] Russian Federation |
+| **B** | ![][flag_BR] Brazil | ![][flag_CA] Canada | ![][flag_NO] Norway |
+| **C** | ![][flag_SG] Singapore | ![][flag_TH] Thailand | ![][flag_DE] Germany |
+| **D** | ![][flag_IT] Italy | ![][flag_PH] Philippines | ![][flag_GB] United Kingdom |
+| **E** | ![][flag_KR] South Korea | ![][flag_FR] France | ![][flag_MO] Macau |
+| **F** | ![][flag_MY] Malaysia | ![][flag_ID] Indonesia | ![][flag_PL] Poland |
+| **G** | ![][flag_CN] China | ![][flag_CH] Switzerland | ![][flag_AR] Argentina |
+| **H** | ![][flag_CL] Chile | ![][flag_AU] Australia | ![][flag_SE] Sweden |
 
 ![MWC 7K 2018 podium](img/podium.jpg)
 
 ![MWC 7K 2018 bracket](img/bracket.jpg)
-
----
 
 ## Mappools
 

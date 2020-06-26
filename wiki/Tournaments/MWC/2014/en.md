@@ -110,7 +110,7 @@ The osu!mania World Cup 2014 was run by various community members by distributin
 
 ## Groups
 
-### 4K Bracket
+### 4K bracket
 
 | Group A | Group B | Group C | Group D |
 | :-- | :-- | :-- | :-- |
@@ -120,7 +120,7 @@ The osu!mania World Cup 2014 was run by various community members by distributin
 | ![][flag_PH] Philippines | ![][flag_US] United States | ![][flag_GB] United Kingdom | ![][flag_NO] Norway |
 | ![][flag_DE] Germany | ![][flag_KR] South Korea | ![][flag_MY] Malaysia | ![][flag_FR] France |
 
-### 7K Bracket
+### 7K bracket
 
 | Group A | Group B | Group C | Group D |
 | :-- | :-- | :-- | :-- |
@@ -140,13 +140,9 @@ This competition has come to an end and resulted in the following podium:
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_PH] **Philippines** | ![][flag_TH] **Thailand** |
 | ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_MY] **Malaysia** | ![][flag_MY] **Malaysia** |
 
----
-
 ![MWC 2014 4K bracket](img/brackets-4K.jpg)
 
 ![MWC 2014 7K bracket](img/brackets-7K.jpg)
-
----
 
 ## Mappools
 

@@ -90,13 +90,22 @@ The osu!mania 4K World Cup 2018 was run by various community members by distribu
 | ![][flag_US] | **United States** | **[TheToaphster](https://osu.ppy.sh/users/7616811)**, [stupud man](https://osu.ppy.sh/users/2141612), [Neuro-](https://osu.ppy.sh/users/7687954), [-Electro-](https://osu.ppy.sh/users/3251373), [EtienneXC](https://osu.ppy.sh/users/5610085), [Chrubble](https://osu.ppy.sh/users/2594280) |
 | ![][flag_VE] | **Venezuela** | **[Nakatoru](https://osu.ppy.sh/users/2243452)**, [Aezlack](https://osu.ppy.sh/users/8065567), [Edvo](https://osu.ppy.sh/users/8301758), [\[\_Chichinya\_\]](https://osu.ppy.sh/users/2140739), [\[\_Gearfrik\_\]](https://osu.ppy.sh/users/8198818), [\_Yisus\_](https://osu.ppy.sh/users/1489811) |
 
----
+## Groups
+
+| Group | Top seed | High seed | Low seed | Unseeded |
+| :-: | :-- | :-- | :-- | :-- |
+| **A** | ![][flag_US] United States | ![][flag_MY] Malaysia | ![][flag_TH] Thailand | ![][flag_PE] Peru |
+| **B** | ![][flag_JP] Japan | ![][flag_IT] Italy | ![][flag_AR] Argentina | ![][flag_TW] Taiwan |
+| **C** | ![][flag_KR] South Korea | ![][flag_PL] Poland | ![][flag_PL] Philippines | ![][flag_FI] Finland |
+| **D** | ![][flag_GB] United Kingdom | ![][flag_SE] Sweden | ![][flag_DE] Germany | ![][flag_NL] Netherlands |
+| **E** | ![][flag_ID] Indonesia | ![][flag_AU] Australia | ![][flag_CH] Switzerland | ![][flag_NO] Norway |
+| **F** | ![][flag_CL] Chile | ![][flag_CN] China | ![][flag_DK] Denmark | ![][flag_VE] Venezuela |
+| **G** | ![][flag_BR] Brazil | ![][flag_SG] Singapore | ![][flag_RU] Russian Federation | ![][flag_HK] Hong Kong |
+| **H** | ![][flag_CA] Canada | ![][flag_FR] France | ![][flag_ES] Spain | ![][flag_MO] Macau |
 
 ![MWC 4K 2018 podium](img/podium.jpg)
 
 ![MWC 4K 2018 bracket](img/bracket.jpg)
-
----
 
 ## Mappools
 

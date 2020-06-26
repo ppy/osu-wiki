@@ -72,13 +72,18 @@ The osu!mania 7K World Cup 2017 was run by various community members by distribu
 | ![][flag_GB] | **United Kingdom** | **[PLiv](https://osu.ppy.sh/users/929134)**, [KOTFTW](https://osu.ppy.sh/users/2075727), [FOR THE QUEEN](https://osu.ppy.sh/users/3359035), [Hayabusa](https://osu.ppy.sh/users/3104108), [Pipper](https://osu.ppy.sh/users/4168230) |
 | ![][flag_US] | **United States** | **[Gekido-](https://osu.ppy.sh/users/4693052)**, [Jinjin](https://osu.ppy.sh/users/3360737), [Craig](https://osu.ppy.sh/users/3565377), [Squishykorean](https://osu.ppy.sh/users/4372604), [OroMaster](https://osu.ppy.sh/users/2375374), [dewero](https://osu.ppy.sh/users/2644993) |
 
----
+## Groups
+
+| Group | Top seed | High seed | Low seed | Unseeded |
+| :-: | :-- | :-- | :-- | :-- |
+| **A** | ![][flag_TH] Thailand | ![][flag_US] United States | ![][flag_AU] Australia | ![][flag_RU] Russian Federation |
+| **B** | ![][flag_BR] Brazil | ![][flag_CL] Chile | ![][flag_MY] Malaysia | ![][flag_FR] France |
+| **C** | ![][flag_CN] China | ![][flag_ID] Indonesia | ![][flag_PL] Poland | ![][flag_AR] Argentina |
+| **D** | ![][flag_KR] South Korea | ![][flag_SG] Singapore | ![][flag_PH] Philippines | ![][flag_GB] United Kingdom |
 
 ![MWC 7K 2017 podium](img/podium.jpg)
 
 ![MWC 7K 2017 bracket](img/bracket.jpg)
-
----
 
 ## Mappools
 

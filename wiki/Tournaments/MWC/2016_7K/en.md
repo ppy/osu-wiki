@@ -89,13 +89,9 @@ The osu!mania 7K World Cup 2016 was run by various community members by distribu
 | **C** | ![][flag_US] United States | ![][flag_MY] Malaysia | ![][flag_TW] Taiwan | ![][flag_PL] Poland | ![][flag_NO] Norway |
 | **D** | ![][flag_CN] China | ![][flag_ID] Indonesia | ![][flag_AU] Australia | ![][flag_PH] Philippines | ![][flag_IT] Italy |
 
----
-
 ![MWC 7K 2016 podium](img/podium.jpg)
 
 ![MWC 7K 2016 bracket](img/brackets.jpg)
-
----
 
 ## Mappools
 

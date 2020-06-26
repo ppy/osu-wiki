@@ -91,11 +91,20 @@ The osu!mania 4K World Cup 2019 was run by various community members by distribu
 | ![][flag_US] | **United States** | **[-Electro-](https://osu.ppy.sh/users/3251373)**, [Toaph Daddy](https://osu.ppy.sh/users/7616811), [Gekido-](https://osu.ppy.sh/users/4693052), [\[Crz\]sel](https://osu.ppy.sh/users/9452257), [Soir\_Dee](https://osu.ppy.sh/users/12028216), [Halogen-](https://osu.ppy.sh/users/169992) |
 | ![][flag_VE] | **Venezuela** | **[\_Yisus\_](https://osu.ppy.sh/users/1489811)**, [Doryoku](https://osu.ppy.sh/users/5639725), [Cyssel](https://osu.ppy.sh/users/6394478), [Edvo](https://osu.ppy.sh/users/8301758), [\[\_Chichinya\_\]](https://osu.ppy.sh/users/2140739) |
 
----
+## Groups
+
+| Group | Top seed | High seed | Low seed | Unseeded |
+| :-: | :-- | :-- | :-- | :-- |
+| **A** | ![][flag_US] United States | ![][flag_CN] China | ![][flag_CA] Canada | ![][flag_PE] Peru |
+| **B** | ![][flag_GB] United Kingdom | ![][flag_ID] Indonesia | ![][flag_MY] Malaysia | ![][flag_CH] Switzerland |
+| **C** | ![][flag_PH] Philippines | ![][flag_AR] Argentina | ![][flag_DE] Germany | ![][flag_HK] Hong Kong |
+| **D** | ![][flag_KR] South Korea | ![][flag_IT] Italy | ![][flag_SE] Sweden | ![][falg_DK] Denmark |
+| **E** | ![][flag_TH] Thailand | ![][flag_PL] Poland | ![][flag_NL] Netherlands | ![][flag_ES] Spain |
+| **F** | ![][flag_BR] Brazil | ![][flag_CL] Chile | ![][flag_TW] Taiwan | ![][flag_FI] Finland |
+| **G** | ![][flag_JP] Japan | ![][flag_AU] Australia | ![][flag_RU] Russian Federation | ![][flag_VE] Venezuela |
+| **H** | ![][flag_SG] Singapore | ![][flag_FR] France | ![][flag_MX] Mexico | ![][flag_NO] Norway |
 
 ![MWC 4K 2019 podium](img/podium.jpg)
-
----
 
 ## Mappools
 
