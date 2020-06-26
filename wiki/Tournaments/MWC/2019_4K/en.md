@@ -91,7 +91,7 @@ The osu!mania 4K World Cup 2019 was run by various community members by distribu
 
 ---
 
-![MWC 4K 2019 podium](img/podium.png)
+![MWC 4K 2019 podium](img/podium.jpg)
 
 ---
 
