@@ -226,6 +226,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-06-01: Removed [Pawsu](https://osu.ppy.sh/users/2371454) from **Support Team**
 - 2020-06-02: Added [abraker](https://osu.ppy.sh/users/4635891) to **GMT**
 - 2020-06-17: Added [RockRoller](https://osu.ppy.sh/users/8388854) to **GMT**
+- 2020-06-24: Moved [Laurakko](https://osu.ppy.sh/users/7253731) from **osu! Alumni** to **GMT**
 
 ### Beatmap Nominators
 
@@ -255,6 +256,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-06-23: Moved [Mirash](https://osu.ppy.sh/users/2841009) from **Probationary BN** to **BN**
 - 2020-06-23: Moved [Nevo](https://osu.ppy.sh/users/7451883) from **Probationary BN** to **BN**
 - 2020-06-23: Moved [Stixy](https://osu.ppy.sh/users/9000308) from **Probationary BN** to **BN**
+- 2020-06-26: Moved [PokeSky](https://osu.ppy.sh/users/3617111) from **Probationary BN** to **BN**
 
 #### Removals
 
@@ -264,4 +266,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-06-22: Removed [-Luminate](https://osu.ppy.sh/users/4778689) from **Probationary BN**
 - 2020-06-23: Removed [Unpredictable](https://osu.ppy.sh/users/7560872) from **BN**
 
-<!-- last update: 2020-06-23 23 UTC moved stixy to full bn -->
+<!-- last update: 2020-06-26 6 UTC moved pokesky to full bn -->
