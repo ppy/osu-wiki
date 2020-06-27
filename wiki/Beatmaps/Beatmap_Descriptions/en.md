@@ -5,7 +5,13 @@ Beatmap descriptions are small areas under a [beatmap](/wiki/Beatmaps)'s page th
 
 ## Good Beatmap Descriptions
 
-Good beatmap descriptions for beatmaps wanting to be ranked are *recommended*, but not required.
+*Notice: In order to get a beatmap ranked, it is recommended you have a good beatmap description, but this is not required.
+
+A good beatmap description would include:
+- A list of all the guest difficulties and their creators
+- An "18+ lyrics" warning (if neccessary)
+- Information that would help a player decide whether they want to download the beatmap or not
+- An edits list or changelog 
 
 ### Images
 
