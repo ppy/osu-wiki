@@ -13,47 +13,47 @@ needs_cleanup: true
 
 # Performance points
 
-The Performance Points system is a ranking metric that aims to be more contextually relevant to a player's progression in a continuous game like osu!.
+The Performance Points system is a ranking metric that aims to be more contextually relevant to a player's progression in osu!.
 
-It aims to shift the focus of skill progression from the amount of time played to an **actual representation of the player's skill.** This is attained by the calculation of a unique _pp_ score, based on the difficulty of a beatmap and a player's performance on that map.
+It aims to shift the focus of skill progression from the amount of time played to an actual representation of the player's skill. This is attained by the calculation of a unique score known that is based on the difficulty of a beatmap and a player's performance on that [beatmap](/wiki/Beatmaps). This score is known as *pp*.
 
 ## History
 
-Revealed to the public during April 2012 and titled only as the mysterious *'???'* project, the enigmatic system eventually received its full name later on in the month.
+The first initial implementation of such a score was revealed to the public during April 2012 and was known only as the mysterious *'???'* project, the enigmatic system eventually received its full name later on in the month.
 
-Known thereafter as "pp", short for "performance points", this new system sought to change the previous standard of player performance from simply total score to something that accurately reflected player skill. This was met to widespread acclaim among the player base at the time.
+Known thereafter as "pp" (an abbreviation for "performance points"), this new system sought to change the previous standard of player performance from simply total [score](/wiki/Score) to something that accurately reflected skill. The new system was met to widespread acclaim among the player base at the time.
 
-Several months after its reveal, the [(20120722-24) osu! release](https://osu.ppy.sh/community/forums/posts/1687719) officially implemented the system to fully replace the old Ranked score system, with new scores being calculated every 30 minutes. Later on in August in the same year, the system was improved to update in real-time.
+Several months after its reveal, the 20120722-24) osu! release officially implemented the system to fully replace the old [Ranked](/wiki/Beatmaps#ranked) score system, with new scores being calculated every 30 minutes. Later on in August of the same year, the system was improved to update in real-time.
 
-It continued to exist in this capacity for more than a year of service, until [Tom94](https://osu.ppy.sh/users/1857058), the creator of the *osu!tp* scoring metric, joined the osu! team and implemented his design into the system. The resulting system was titled *ppv2*, and became live on the 27th of January, 2014.
+*Note: ppv1, the original build of the Performance Points system also had a changelog, which you may view from its [forum topic](https://osu.ppy.sh/community/forums/topics/92185).*
 
-*ppv2* is currently in active service, with live updates published to its [changelog](https://osu.ppy.sh/p/changelog?category=pp).
+It continued to exist in this capacity for more than a year of service, until [Tom94](https://osu.ppy.sh/users/1857058), the creator of the *osu!tp* scoring metric, joined the [osu! team](/wiki/People/The_Team) and implemented his design into the system. The resulting system was titled *ppv2*, and became live on the January 27, 2014. Therfore renaming the old system to *[ppv1](/wiki/Performance_Points/ppv1)*
 
-*ppv1*, the original build of the Performance Points system also had a changelog, which you may view from its [forum topic](https://osu.ppy.sh/community/forums/topics/92185).
+ppv2 is currently in active service, with live updates published to its [changelog](https://osu.ppy.sh/p/changelog?category=pp).
 
-## How is pp calculated?
+## How pp is calculated
 
-Performance Points are very heavily based on calculated map difficulty, which is determined by a unique algorithm constructed for each individual gamemode.
+Performance points are heavily based on calculated beatmap difficulty, which is determined by a unique algorithm constructed for each individual [game mode](/wiki/Game_Modes).
 
-The difficulty of the map you are playing one determines the end pp value of your score.
+The difficulty of the beatmap a player is playing on determines the end pp value of their score.
 
 To get into specifics, the formula relies on four core values, defined as **aim**, **speed**, **accuracy**, and **strain**.
 
-These core values are combined in varying magnitudes to produce an overall score that relates to a map's particular difficulty, and a score's individual performance in said map.
+These core values are combined in varying magnitudes to produce an overall score that relates to a beatmap's particular [difficulty](/wiki/Difficulties), and a score's individual performance in said beatmap.
 
-Scores are then weighted against each other to ensure that only the best scores a user makes count the most towards their overall performance points ranking. This is known as the  _weightage system_, and it is a fundamental concept of the performance points metric.
+Scores are then weighted against each other to ensure that only the best scores a user makes count the most towards their overall performance points ranking. This is known as the *weightage system* and it is a fundamental concept of the performance points metric.
 
-A small amount of bonus pp is awarded based on the number of ranked maps you have set a score on.
+A small amount of bonus pp is awarded based on the number of Ranked maps you have set a score on.
 
-### What is aim?
+### Aim
 
-**Aim is considered as how difficult it is to consistently hit consecutive notes in a beatmap.**
+Aim is a core value that considers how difficult it is to consistently hit consecutive notes in a beatmap.
 
-Elements like approach rate (AR) and certain mods (namely Flashlight, Hidden and HardRock) make aiming significantly more difficult, and thus influence the amount of pp a score gives.
+Elements like [approach rate (AR)](/wiki/Beatmapping/Approach_rate) and certain [mods](/wiki/Game_Modifiers) (namely [Flashlight](/wiki/Game_Modifiers#flashlight), [Hidden](/wiki/Game_Modifiers#hidden) and [Hard Rock](/wiki/Game_Modifiers#hard-rock)) make aiming significantly more difficult, and thus influence the amount of pp a score gives.
 
-Maps with very large jumps (in the case of _osu!standard_) are considered to be high-aim maps, and are thus often given very high pp scores. Maps with lots of hyperdashing in _osu!catch_ will be considered similarly.
+In the case of [osu!standard](/wiki/Game_Modes/osu!) beatmaps with very large jumps are considered to be "high-aim" maps, and are thus often given very high pp scores. Beatmaps with lots of hyperdashing in [osu!catch](/wiki/Game_Modes/osu!catch) will be considered similarly.
 
-Aim is not considered in gamemodes like _osu!taiko_ and _osu!mania_.
+Aim is not considered in gamemodes like [osu!taiko](/wiki/Game_Modes/osu!taiko) and [osu!mania](/wiki/Game_Modes/osu!mania).
 
 ### What is speed?
 
