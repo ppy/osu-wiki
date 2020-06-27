@@ -23,7 +23,7 @@ The **Mania Beginner's Showdown 2** (***MBS2***) is a worldwide double-eliminati
 | Group Stage | 2020-05-15/2020-05-24 |
 | Round of 32 | 2020-05-30/2020-05-31 |
 | Round of 16 | 2020-06-05/2020-06-07 |
-| Quarterfinals | 2020-06-13/2020-06-14 |
+| Quarterfinals | 2020-06-12/2020-06-14 |
 | Semifinals | 2020-06-20/2020-06-21 |
 | Finals | 2020-06-27/2020-06-28 |
 | Grand Finals | 2020-07-04/2020-07-05 |
@@ -151,6 +151,56 @@ The Mania Beginner's Showdown 2 is run by various community members.
 
 ### High division
 
+#### Finals
+
+**[Download the mappack here! (168 MB)](https://mega.nz/file/fHYkzCRT#Fk6MICeCfYo5Y-e8Qb4sO7cIehp1nByDd-2xHee21kM)**
+
+- FreeMod
+  - [cubesato + sweez + hsgn - Le Petit Prince (RuleBlazing) \[Stage 1 : Snowvy Vlazing\]](https://osu.ppy.sh/beatmapsets/1106056#mania/2311662)
+  - [Post Malone - Money Made Me Do It (Feat. 2 Chainz) (Okami Remix) (Dergo) \[yuh\]](https://osu.ppy.sh/beatmapsets/1005720#mania/2104840)
+  - [lapix & Massive New Krew - Bizzare Nation (ecafree2) \[4K MX\]](https://osu.ppy.sh/beatmapsets/906808#mania/1892295)
+  - [Swimy - Acchi Muite (Raveille) \[This Way! NSV\]](https://osu.ppy.sh/beatmapsets/744373#mania/1687703)
+  - [senya - Koborezu no Negaigoto (ZayyKen) \[souzirou1000's LN \[MBS 2 Edit\]\]](https://osu.ppy.sh/beatmapsets/1198280#mania/2495668)
+  - [Y..J - Ten Thousand Tons of Anonymous Letters (zero2snow) \[A message\]](https://osu.ppy.sh/beatmapsets/768928#mania/1616973)
+  - [THE ORAL CIGARETTES - Wagamama de Gomakasanaide (Shirohara) \[Hallucination\]](https://osu.ppy.sh/beatmapsets/1030033#mania/2153800)
+  - [Starving Trancer - New Gravity (\[ A v a l o n \]) \[StarCore's Expert\]](https://osu.ppy.sh/beatmapsets/349401#mania/770488)
+  - [LUZE & Emew. - Unmeiron (snoverpk) \[Hyper\]](https://osu.ppy.sh/beatmapsets/475927#mania/1022067)
+  - [Shiraishi - Moon-gate (Wh1teh) \[k\]](https://osu.ppy.sh/beatmapsets/622851#mania/1312959)
+  - [hyi - you can recover (Valedict) \[restoration 1.1x\]](https://osu.ppy.sh/beatmapsets/566156#mania/1199287)
+  - [DJ Sharpnel - Over the Fullereneshift (Veldmaarschalk) \[MX\]](https://osu.ppy.sh/beatmapsets/516517#mania/1097589)
+  - [DET - Monk2 (Elekton) \[zen\]](https://osu.ppy.sh/beatmapsets/605573#mania/1279446)
+  - [sasakure.UK - Xlo (Valedict) \[Another\]](https://osu.ppy.sh/beatmapsets/1170658#mania/2442125)
+  - [Venetian Snares - Epidermis (Shoegazer) \[Tribalism\]](https://osu.ppy.sh/beatmapsets/898099#mania/2209406)
+  - [Tezuka feat. Oonishi Amimi - Bokura no Jikan (KeppSado) \[Lenfried's EXHAUST\]](https://osu.ppy.sh/beatmapsets/985765#mania/2062307)
+  - [Zekk - Libertas (Syadow-) \[Future\]](https://osu.ppy.sh/beatmapsets/1137604#mania/2386307)
+  - [lapix - Labyrinth (PianoLuigi) \[Insane\]](https://osu.ppy.sh/beatmapsets/962544#mania/2015442)
+- Tiebreaker
+  - **[Shimotsuki Haruka - Youka to Yumeutsutsu (diamant66) \[Camellia\]](https://osu.ppy.sh/beatmapsets/960549#mania/2011012)**
+
+#### Semifinals
+
+**[Download the mappack here! (122 MB)](https://mega.nz/file/mSwGnSya#2Q6Orkr9dd2DsPVSYli9BbPdTBOghvUbsxAMniO__iw)**
+
+- FreeMod
+  - [GTA feat. Sam Bruno - Red Lips (Mendus Remix) (Hydria) \[Hard (SV)\]](https://osu.ppy.sh/beatmapsets/728227#mania/1537498)
+  - [Noisestorm - Breakout (feat. Foreign Beggars) (Leniane) \[The Great Escape\]](https://osu.ppy.sh/beatmapsets/864158#mania/1807423)
+  - [cubesato - April Showers (Raveille) \[Drizzling (NSV)\]](https://osu.ppy.sh/beatmapsets/749117#mania/2164001)
+  - [Silent Siren - Cherry Bomb (Raveille) \[Exciting!!\]](https://osu.ppy.sh/beatmapsets/1139729#mania/2380746)
+  - [DJ'TEKINA//SOMETHING - Internet bitch P\*Light Remix (juankristal) \[Stage 3: E-girl\]](https://osu.ppy.sh/beatmapsets/1076027#mania/2251585)
+  - [Nakamura Meiko - Ordinary World (arcwinolivirus) \[4K Reminiscence\]](https://osu.ppy.sh/beatmapsets/576568#mania/1220610)
+  - [An - artcore JINJA (Abraxos) \[Tranquility\_Lv.18\]](https://osu.ppy.sh/beatmapsets/409503#mania/888945)
+  - [Rush - Malignant Narcissism (Pope Gadget) \[R40\]](https://osu.ppy.sh/beatmapsets/444460#mania/954903)
+  - [Various Artists - Pack of Things (Rus Tea) \[Beatmania IIDX (Cream Puff) - Mermaid Girl (Ryu\* Remix)\]](https://osu.ppy.sh/beatmapsets/601787#mania/1301099)
+  - [DJKurara - Japanese Transformation (XeoStyle) \[Todes' Hard\]](https://osu.ppy.sh/beatmapsets/520438#mania/1122649)
+  - [Seiryu - AO-INFINITY (Tailsdk) \[White Hard\]](https://osu.ppy.sh/beatmapsets/934974#mania/1951977)
+  - [hyi - misery (Janko) \[decompose\]](https://osu.ppy.sh/beatmapsets/855631#mania/1787771)
+  - [Fractal Dreamers - Celestial Horizon (TheToaphster) \[Haven\]](https://osu.ppy.sh/beatmapsets/761380#mania/1601033)
+  - [Stellabee - You're So Warm (Civilization) \[Heartache\]](https://osu.ppy.sh/beatmapsets/939432#mania/1962238)
+  - [Genesis x Nemesis - Justice OR Voice (Ryu Sei) \[MEGA's Insane\]](https://osu.ppy.sh/beatmapsets/1007489#mania/2333136)
+  - [Tanya Degurechaff (CV: Yuki Aoi) - Los! Los! Los! (arcwinolivirus) \[Insane\]](https://osu.ppy.sh/beatmapsets/584316#mania/1236183)
+- Tiebreaker
+  - **[Seiryu - 8a55 ([Shana Lesus]) \[Undiscovered oasis\]](https://osu.ppy.sh/beatmapsets/993817#mania/2078111)**
+
 #### Quarterfinals
 
 **[Download the mappack here! (88 MB)](https://mega.nz/file/mvJChARS#9550w7Z97pfmHqjcLkVXmfam7pHUUbJFwmzyvYmQJQk)**
@@ -245,6 +295,56 @@ The Mania Beginner's Showdown 2 is run by various community members.
   - [Silentroom - NULCTRL (Raveille) \[Stage 5: Command\]](https://osu.ppy.sh/beatmapsets/1162328#mania/2424667)
 
 ### Low division
+
+#### Finals
+
+**[Download the mappack here! (167 MB)](https://mega.nz/file/bDJGwazD#Nb90ELmJlcDjTH3m9Unl-Tn0NrG2vkZxL1N9C-cRiN0)**
+
+- FreeMod
+  - [Morimori Atsushi - MilK (Guilhermeziat) \[SilV\]](https://osu.ppy.sh/beatmapsets/967318#mania/2024439)
+  - [ito. - thought of (Couil) \[Original\]](https://osu.ppy.sh/beatmapsets/1018932#mania/2132201)
+  - [Mr. Fantastic - Hyperactive (zero2snow) \[Stage 1: Subtle\]](https://osu.ppy.sh/beatmapsets/1017965#mania/2130420)
+  - [wowaka - Unknown Mother-Goose feat. Hatsune Miku (Raveille) \[Stage 3: Unsung\]](https://osu.ppy.sh/beatmapsets/1059509#mania/2218706)
+  - [KillerBlood - -.-. .- .-. --- .-.. / --- ..-. / .-.. .. ..-. . (Dergo) \[restoration\]](https://osu.ppy.sh/beatmapsets/919414#mania/1919691)
+  - [Junichi Masuda and Satoshi Tajiri - I Don't Want To Say Goodbye (BossMadWolf) \[Don't leave me alone ;-;\]](https://osu.ppy.sh/beatmapsets/1106856#mania/2313371)
+  - [senya - Zetsubou no Fuchi (Virtue-) \[540's Hard\]](https://osu.ppy.sh/beatmapsets/709521#mania/1500034)
+  - [ZUN - Eternal Spring Dream (FAMoss) \[Hard\]](https://osu.ppy.sh/beatmapsets/765951#mania/2148041)
+  - [Dropgun - Fire Blazing (Logan636) \[Stage 2: Ignition\]](https://osu.ppy.sh/beatmapsets/1106164#mania/2311852)
+  - [Kamex - Collapse Remix (ZayyKen) \[Asherz007's Hard \[MBS 2 Edit\]\]](https://osu.ppy.sh/beatmapsets/1198522#mania/2496127)
+  - [Ellim Gnirps vs. Yomi - Khionos TiARA (Murumoo) \[ADVANCED\]](https://osu.ppy.sh/beatmapsets/700493#mania/1483134)
+  - [yuikonnu & ayaponzu* - Super Nuko World (ZayyKen) \[Hamakaze's HD+ \[MBS 2 Edit\]\]](https://osu.ppy.sh/beatmapsets/1198745#mania/2496563)
+  - [Various Artists - intel 4K Core Pack Vol.2 (inteliser) \[w\_tre // Shannon's Theorem (HD)\]](https://osu.ppy.sh/beatmapsets/433249#mania/933977)
+  - [Tennyson - No Answer (ByeForNow) \[Silence\]](https://osu.ppy.sh/beatmapsets/977509#mania/2045881)
+  - [The Flashbulb - Black Lawn Finale (Night Bunny 7) \[Hayden's Lv.12 NSV\]](https://osu.ppy.sh/beatmapsets/592633#mania/1253922)
+  - [Waterflame - Glorious morning (newbandpro) \[Hard\]](https://osu.ppy.sh/beatmapsets/742228#mania/1565594)
+  - [Endorfin. - Spica (\_Kobii) \[Amii vs. Sado's Hard\]](https://osu.ppy.sh/beatmapsets/890271#mania/1877513)
+  - [anubasu-anubasu / 6UT3 / SHU10 / U-hey / Lafale / CELLON. / Kankitsu - Astronomical Twilight (Extend Mix) (\[ A v a l o n \]) \[Wonki's Hyper\]](https://osu.ppy.sh/beatmapsets/552863#mania/1171493)
+- Tiebreaker
+  - **[Various - Nanahira Collection Vol.2 (Rinzler) \[Marathon\]](https://osu.ppy.sh/beatmapsets/334860#mania/744639)**
+
+#### Semifinals
+
+**[Download the mappack here! (90 MB)](https://mega.nz/file/mXwRnILB#FaKD-E5N37YSBvaU_i4EEiLeLpdNJqCa794EtAxkxkQ)**
+
+- FreeMod
+  - [MYTK - fly (Tantei B) \[Stylish Veery\]](https://osu.ppy.sh/beatmapsets/1112778#mania/2324766)
+  - [doxed - Agri (ZayyKen) \[SVorzando\]](https://osu.ppy.sh/beatmapsets/1193309#mania/2486422)
+  - [Rag'n'Bone Man - Human (Hydria) \[LN\]](https://osu.ppy.sh/beatmapsets/588277#mania/1245501)
+  - [An - Saigo (juankristal) \[Hard\]](https://osu.ppy.sh/beatmapsets/609463#mania/1559658)
+  - [Cardboard Box - The Limit Does Not Exist (Asherz007) \[Light\]](https://osu.ppy.sh/beatmapsets/704152#mania/1491724)
+  - [The Winking Owl - Here For You (\[ A v a l o n \]) \[Hard\]](https://osu.ppy.sh/beatmapsets/552862#mania/1170740)
+  - [DJ YOSHITAKA feat. Hoshino Kanako - MAX LOVE (Frizu) \[S.Star's 4K HD\]](https://osu.ppy.sh/beatmapsets/804753#mania/1689408)
+  - [P\*Light feat. mow\*2 - OVERDRIVERS (Leonita) \[ADVANCED\]](https://osu.ppy.sh/beatmapsets/563569#mania/1288525)
+  - [Seiryu - Critical Crystal (Hydria) \[Hard\]](https://osu.ppy.sh/beatmapsets/635221#mania/1433609)
+  - [ARForest - Metheus (ZayyKen) \[BulleBoot's Normal 8 [MBS 2 Edit]\]](https://osu.ppy.sh/beatmapsets/1193585#mania/2486874)
+  - [Camellia - K.Y.A.F.A. (Wonki) \[Song Hana's Hard\]](https://osu.ppy.sh/beatmapsets/468440#mania/1050089)
+  - [sun3 - Messier 333 (inteliser) \[INTERMEDIATE\]](https://osu.ppy.sh/beatmapsets/354621#mania/781089)
+  - [mmry - Lunar Arrow (IceDynamix) \[leaving a trail of light (HARD Lv.8)\]](https://osu.ppy.sh/beatmapsets/972098#mania/2035418)
+  - [Blitz Lunar - Electra Vulva (riktoi) \[Retro\]](https://osu.ppy.sh/beatmapsets/842914#mania/1763669)
+  - [Fractal Dreamers - Blue Haven (\[ A v a l o n \]) \[4K Intermediate\]](https://osu.ppy.sh/beatmapsets/908108#mania/1895079)
+  - [t+pazolite - UMMU (Tofu1222) \[Stan's Hyper Lv.10\]](https://osu.ppy.sh/beatmapsets/910428#mania/1899828)
+- Tiebreaker
+  - **[Camellia - Artificial Snow (Dergo) \[ash's hard\]](https://osu.ppy.sh/beatmapsets/1026319#mania/2147852)**
 
 #### Quarterfinals
 
@@ -342,6 +442,59 @@ The Mania Beginner's Showdown 2 is run by various community members.
 ## Match results
 
 ### High division
+
+#### Semifinals
+
+Saturday, 20 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| ReZ\_TB ![][flag_ID] | 2 | **6** | ![][flag_SG] **Kirameiji** | [#1](https://osu.ppy.sh/community/matches/63156381) |
+| TNKSTC ![][flag_TH] | 5 | **6** | ![][flag_DE] **cakeboss05** | [#1](https://osu.ppy.sh/community/matches/63162108) |
+| Paturages ![][flag_FR] | 2 | **6** | ![][flag_SG] **loli\_seale** | [#1](https://osu.ppy.sh/community/matches/63162784) |
+| **CrashSmash** ![][flag_CH] | **6** | 2 | ![][flag_FR] Djink | [#1](https://osu.ppy.sh/community/matches/63167551) |
+
+Sunday, 21 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **DovaCube** ![][flag_FR] | **6** | 3 | ![][flag_PH] Gerwin13 | [#1](https://osu.ppy.sh/community/matches/63201096) |
+| cakeboss05 ![][flag_DE] | 3 | **6** | ![][flag_CH] **CrashSmash** | [#1](https://osu.ppy.sh/community/matches/63201111) |
+| **Lazereed** ![][flag_PH] | **6** | 3 | ![][flag_BR] Konohana Lucia | [#1](https://osu.ppy.sh/community/matches/63204658) |
+| **DovaCube** ![][flag_FR] | **6** | 4 | ![][flag_SG] Kirameiji | [#1](https://osu.ppy.sh/community/matches/63204668) |
+
+#### Quarterfinals
+
+Friday, 12 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| TNKSTC ![][flag_TH] | 3 | **5** | ![][flag_BR] **Konohana Lucia** | [#1](https://osu.ppy.sh/community/matches/62835980) |
+
+Saturday, 13 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Kirameiji** ![][flag_SG] | **5** | 2 | ![][flag_CL] joako 321 | [#1](https://osu.ppy.sh/community/matches/62860107) |
+| **\[Hakura\_San\]** ![][flag_TH] | **5** | 3 | ![][flag_TH] -NC KJ- | [#1](https://osu.ppy.sh/community/matches/62869664) |
+| -Tenma- ![][flag_RU] | -1 | **0** | ![][flag_FR] **Djink** | *win by default* |
+| **nalo\_** ![][flag_FR] | **5** | 4 | ![][flag_FI] Haadez | [#1](https://osu.ppy.sh/community/matches/62878245) |
+| **xelied** ![][flag_FR] | **5** | 1 | ![][flag_ID] ibacot | [#1](https://osu.ppy.sh/community/matches/62878899) |
+| Screeply ![][flag_AR] | 1 | **5** | ![][flag_FR] **SochnyiKokos** | [#1](https://osu.ppy.sh/community/matches/62880989) |
+| **cakeboss05** ![][flag_DE] | **5** | 4 | ![][flag_DE] MonsterFighterP | [#1](https://osu.ppy.sh/community/matches/62885166) |
+
+Sunday, 14 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| \[Hakura\_San\] ![][flag_TH] | 1 | **5** | ![][flag_FR] **Djink** | [#1](https://osu.ppy.sh/community/matches/62909213) |
+| **Lazereed** ![][flag_PH] | **5** | 1 | ![][flag_CH] CrashSmash | [#1](https://osu.ppy.sh/community/matches/62909255) |
+| ReZ\_TB ![][flag_ID] | 0 | **5** | ![][flag_FR] **Paturages** | [#1](https://osu.ppy.sh/community/matches/62910260) |
+| **loli\_seale** ![][flag_SG] | **5** | 4 | ![][flag_FR] DovaCube | [#1](https://osu.ppy.sh/community/matches/62912091) |
+| Wassero ![][flag_GB] | 1 | **5** | ![][flag_PH] **Gerwin13** | [#1](https://osu.ppy.sh/community/matches/62912735) |
+| **Kirameiji** ![][flag_SG] | **5** | 1 | ![][flag_FR] nalo\_ | [#1](https://osu.ppy.sh/community/matches/62913535) |
+| SochnyiKokos ![][flag_FR] | 1 | **5** | ![][flag_PH] **Gerwin13** | [#1](https://osu.ppy.sh/community/matches/62915021) |
+| **cakeboss05** ![][flag_DE] | **5** | 1 | ![][flag_FR] xelied | [#1](https://osu.ppy.sh/community/matches/62922715) |
 
 #### Round of 16
 
@@ -631,6 +784,54 @@ Sunday, 24 May 2020:
 - Average rank is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
 
 ### Low division
+
+#### Semifinals
+
+Saturday, 20 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Arbusion** ![][flag_AU] | **6** | 5 | ![][flag_PL] MAREK MARUCHA | [#1](https://osu.ppy.sh/community/matches/63157518) |
+| **QEpicAce** ![][flag_DE] | **6** | 3 | ![][flag_HK] Brown918 | [#1](https://osu.ppy.sh/community/matches/63157794) |
+| Nielz ![][flag_NL] | 4 | **6** | ![][flag_TH] **mickeyparm** | [#1](https://osu.ppy.sh/community/matches/63164493) |
+| Ammy ![][flag_MX] | -1 | **0** | ![][flag_SE] **Mestro** | *win by default* |
+| **tyud** ![][flag_US] | **6** | 2 | ![][flag_DE] Quadrumplayer | [#1](https://osu.ppy.sh/community/matches/63175408) |
+
+Sunday, 21 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Arbusion ![][flag_AU] | 1 | **6** | ![][flag_TH] **mickeyparm** | [#1](https://osu.ppy.sh/community/matches/63199394) |
+| **Anamneses** ![][flag_MY] | **6** | 0 | ![][flag_TH] KorZ\[TH\] | [#1](https://osu.ppy.sh/community/matches/63206665) |
+| tyud ![][flag_US] | 1 | **6** | ![][flag_DE] **QEpicAce** | [#1](https://osu.ppy.sh/community/matches/63210034) |
+
+#### Quarterfinals
+
+Saturday, 13 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **mickeyparm** ![][flag_TH] | **0** | -1 | ![][flag_PH] Admiral Cliff | *win by default* |
+| **Brown918** ![][flag_HK] | **0** | -1 | ![][flag_RU] Brittany Miller | *win by default* |
+| Arbusion ![][flag_AU] | 1 | **5** | ![][flag_SE] **Mestro** | [#1](https://osu.ppy.sh/community/matches/62869684) |
+| BubbleTeaBunny ![][flag_SG] | 3 | **5** | ![][flag_DE] **Quadrumplayer** | [#1](https://osu.ppy.sh/community/matches/62870949) |
+| FadingAway ![][flag_RU] | **0** | -1 | ![][flag_LV] Lceanu | *win by default* |
+| Ilikecook ![][flag_PL] | -1 | **0** | ![][flag_RU] **Alex\_Terrol** | *win by default* |
+| **Cychloryn** ![][flag_US] | **0** | -1 | ![][flag_ID] xHirayuki | *win by default* |
+| mcgen ![][flag_US] | 0 | **5** | ![][flag_SE] **ump\_me\_daddy** | [#1](https://osu.ppy.sh/community/matches/62882964) |
+
+Sunday, 14 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Quadrumplayer** ![][flag_DE] | **5** | 2 | ![][flag_RU] FadingAway | [#1](https://osu.ppy.sh/community/matches/62909325) |
+| Deadpulse ![][flag_PH] | -1 | **0** | ![][flag_PL] **MAREK MARUCHA** | *win by default* |
+| QEpicAce ![][flag_DE] | 0 | **5** | ![][flag_MY] **Anamneses** | [#1](https://osu.ppy.sh/community/matches/62913486) |
+| **mickeyparm** ![][flag_TH] | **5** | 0 | ![][flag_US] Cychloryn | [#1](https://osu.ppy.sh/community/matches/62917271) |
+| **MAREK MARUCHA** ![][flag_PL] | **0** | -1 | ![][flag_SE] ump\_me\_daddy | *win by default* |
+| Alex\_Terrol ![][flag_RU] | 1 | **5** | ![][flag_HK] **Brown918** | [#1](https://osu.ppy.sh/community/matches/62917408) |
+| **KorZ\[TH\]** ![][flag_TH] | **5** | 3 | ![][flag_US] tyud | [#1](https://osu.ppy.sh/community/matches/62919240) |
+| **Ammy** ![][flag_MX] | **5** | 1 | ![][flag_NL] Nielz | [#1](https://osu.ppy.sh/community/matches/62922790) |
 
 #### Round of 16
 

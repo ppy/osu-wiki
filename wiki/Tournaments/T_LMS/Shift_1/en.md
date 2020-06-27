@@ -9,7 +9,7 @@ tags:
 
 ![TLMS:SC logo](img/logo.jpg)
 
-The **Taiko LMS: Shift Cup** (***TLMS:SC***) was a 3-on-3, 1v1 knock-out style osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110). It was a new branch of the LMS Tournaments that are hosted yearly, which include LMS:SE and LMS:BG<!-- TODO: link these groups -->.
+The **Taiko LMS: Shift Cup** (***TLMS:SC***) was a 3-on-3, 1v1 knock-out style osu!taiko tournament hosted by ![][flag_US] [Backfire](https://osu.ppy.sh/users/263110). It was a new branch of the LMS Tournaments that are hosted yearly, which include [LMS:SE](https://osu.ppy.sh/community/forums/topics/366482) and [LMS:BG](https://osu.ppy.sh/community/forums/topics/644119).
 
 ## Tournament schedule
 

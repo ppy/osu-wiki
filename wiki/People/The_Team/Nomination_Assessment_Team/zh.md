@@ -40,22 +40,22 @@ NAT 会长期关注潜在的 NAT 候选人，并偶尔进行讨论已决定是�
 
 | 名字 | 语言 | 主要任务 |
 | :-- | :-- | :-- |
-| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | 评估, 管理 |
-| ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | 粤语, 中文 | 评估 |
+| ![][flag_GB] [-Mo-](https://osu.ppy.sh/users/2202163) |  | 评估，管理 |
+| ![][flag_HK] [Chaoslitz](https://osu.ppy.sh/users/3621552) | 粤语，中文 | 评估 |
 | ![][flag_CA] [Kibbleru](https://osu.ppy.sh/users/3193504) |  | 评估 |
 | ![][flag_DE] [Lasse](https://osu.ppy.sh/users/896613) | 德语 | 评估 |
 | ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | 德语 | 评估 |
-| ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | 瑞典语 | 构造, 沟通 |
-| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | 评估, 构造, 沟通 |
+| ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) | 瑞典语 | 构造，沟通 |
+| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) |  | 评估，构造，沟通 |
 | ![][flag_US] [pishifat](https://osu.ppy.sh/users/3178418) |  | 构造 |
-| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | 葡萄牙语 | 评估, 构造, 沟通 |
+| ![][flag_BR] [Seto Kousuke](https://osu.ppy.sh/users/2857314) | 葡萄牙语 | 评估，构造，沟通 |
 | ![][flag_BE] [yaspo](https://osu.ppy.sh/users/4945926) | 荷兰语 | 评估 |
 
 ### osu!taiko
 
 | 名字 | 语言 | 主要任务 |
 | :-- | :-- | :-- |
-| ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | 粤语, 中文 | 评估 |
+| ![][flag_HK] [Faputa](https://osu.ppy.sh/users/845733) | 粤语，中文 | 评估 |
 | ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817) | 德语 | 评估 |
 | ![][flag_TH] [Tyistiana](https://osu.ppy.sh/users/1421452) | 泰语 | 评估 |
 
@@ -63,15 +63,15 @@ NAT 会长期关注潜在的 NAT 候选人，并偶尔进行讨论已决定是�
 
 | 名字 | 语言 | 主要任务 |
 | :-- | :-- | :-- |
-| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | 西班牙语, 德语 | 评估, 管理 |
+| ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | 西班牙语，德语 | 评估，管理 |
 | ![][flag_NL] [Greaper](https://osu.ppy.sh/users/2369776) | 荷兰语 | 评估 |
 
 ### osu!mania
 
 | 名字 | 语言 | 主要任务 |
 | :-- | :-- | :-- |
-| ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | 德语, 波兰语 | 评估 |
-| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | 荷兰语 | 评估, 管理 |
+| ![][flag_DE] [Feerum](https://osu.ppy.sh/users/4815717) | 德语，波兰语 | 评估 |
+| ![][flag_NL] [Leniane](https://osu.ppy.sh/users/7138602) | 荷兰语 | 评估，管理 |
 
 [flag_BE]: /wiki/shared/flag/BE.gif "比利时"
 [flag_BR]: /wiki/shared/flag/BR.gif "巴西"
