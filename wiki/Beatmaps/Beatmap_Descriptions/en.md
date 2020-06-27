@@ -2,7 +2,6 @@
 
 Beatmap descriptions are small areas under a [beatmap](/wiki/Beatmaps)'s page that give players information about said beatmap using [BBCode](https://osu.ppy.sh/help/wiki/BBCode). Most [Ranked](/wiki/Beatmaps#ranked) beatmaps use at least one image, a number (depending on how many beatmaps the creator has Ranked), and a difficulty section.
 
-That is an example of a good beatmap description. Here's what you need to know about good Beatmap descriptions:
 
 ## Good Beatmap Descriptions
 
