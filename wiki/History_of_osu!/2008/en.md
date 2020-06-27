@@ -26,7 +26,7 @@ No joke, Bancho went live in April, and so did the user panels of [Extended Chat
 
 ## May
 
-![](img/taiko.png "Taiko Mode")
+![](img/taiko.png "Taiko Mod")
 
 The [Taiko](/wiki/Game_Modes/osu!taiko) mode first saw the light of day in this month, as well as another major addition, `.osb` storyboarding script support. Multi-part sliders and private messaging in chat were also made available.
 
@@ -44,7 +44,7 @@ Continuing the trend set by July, one would be hard pressed to find an aspect of
 
 Personal online best scores were added to song selection, fulfilling a long-time request, which required some fairly hefty database optimisation. Graphical improvements to the ranking screen and various elements of the default skin were made in an aim to make them feel even more clean and crisp than before. The display of slider tick score sprites (10/30) was implemented. Improvements were seen in the multiplayer match setup, allowing host control to be transferred. Many new [chat commands](/Chat_Console#commands-list) were added for user convenience.
 
-A new ranked status "![](img/fire.gif) [Approved](/wiki/Approved)" was added for maps which were of great quality but exceed ranking length, difficulty, and/or other limits in some way. Maps in this status don't add to the player's scores, but have scoreboards and act otherwise like a ![](img/heart.gif) [Ranked](/wiki/Ranked) map.
+A new ranked status "![](img/fire.gif) [Approved](/wiki/Approved)" was added for maps which were of great quality but exceed ranking length, difficulty, or other limits in some way. Maps in this status don't add to the player's scores, but have scoreboards and act otherwise like a ![](img/heart.gif) [Ranked](/wiki/Ranked) map.
 
 ## September
 
