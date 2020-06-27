@@ -1,6 +1,6 @@
 # Do you really want to ask peppy?
 
-Hi there. peppy understands your urge to want to contact him personally, but he asks that you first understand that this is **not** the place you want to ask him for help/support. He keeps osu! support separate from personal messages, and also finds that answering forum PMs is quite hard to keep up with. He therefore asks that you do one of the following options:
+Hi there! peppy understands your urge to want to contact him personally, but he asks that you first understand that this is **not** the place you want to ask him for help or support. He keeps osu! support separate from personal messages and also finds that answering forum PMs is quite hard to keep up with. He therefore asks that you do one of the following options:
 
 ## Technical Support
 
