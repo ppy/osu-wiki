@@ -16,5 +16,3 @@ tags:
 Arguments in-favor of dragging often claim that it is more comfortable/natural and is much harder to "overshoot" on [jumps](/wiki/Beatmaps/Pattern/Jump). Others also claim that the friction keeps the player grounded.
 
 By the same token, many players that argue against dragging claim that it can damage the surface of the tablet without the use of a tablet cover, requires purchasing replacement nibs (due to nib wear), and that the friction is (technically) "slower".
-
-
