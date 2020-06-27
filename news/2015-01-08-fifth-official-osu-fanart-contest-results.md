@@ -5,6 +5,8 @@ date: 2015-01-08 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/107496626248/fifth-official-osu-fanart-contest-results
 ---
 
+![](/wiki/shared/news/2015-01-08-fifth-official-osu-fanart-contest-results/thumb-60.jpg)
+
 You may have noticed the festive Christmas backgrounds, rotated on the title screen in the lead up to Christmas (from December 22 ~ 31) - but now it's finally time to reveal the results of Fanart Contest \#5 voting.
 
 We received a total of 132,988 votes from 22,213 users over two weeks. 8 osu! staff members took part in the staff voting (including peppy, of course!). This time, we're announcing 10 winners who will each win a four month supporter tag: five winners selected by the public poll, five selected by osu! staff. First place wins an osu! tablet too!
