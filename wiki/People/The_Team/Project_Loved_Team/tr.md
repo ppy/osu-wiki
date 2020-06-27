@@ -1,6 +1,4 @@
 ---
-outdated: true
-outdated_since: 41223f817c62e49d8367ced761c1461919bb5106
 tags:
   - captain
   - captains
@@ -12,13 +10,13 @@ tags:
 
 ## Roller ve sorumluluklar
 
-Project Loved Takımının çoğunluğunu her bir [oyun modunun](/wiki/Game_Modes) **kaptanları** oluşturur. Kaptanlar beatmaplerin Sevilen kategorisi için aday gösterilmesinden sorumludur. Onlar aynı zamanda okuyucuların, onları daha önce hiç görmemiş ya da oynamamış olma ihtimaline karşı, her bir mapi daha iyi hissetmeleri için aday gösterilen mapler hakkında kısa açıklamalar da yazarlar.
+Project Loved Takımının çoğunluğunu her bir [oyun modunun](/wiki/Game_Modes) *kaptanları* oluşturur. Kaptanlar, beatmaplerin Sevilen kategorisi için aday gösterilmesinden sorumludur ve hangi maplerin seçileceği konusunda iyi bir fikir sahibi olabilmek için topluluğun temsilcileri olarak hareket ederler. Onlar aynı zamanda okuyucuların, onları daha önce hiç görmemiş ya da oynamamış olma ihtimaline karşı, her bir mapi daha iyi hissetmeleri için aday gösterilen mapler hakkında kısa açıklamalar da yazarlar.
 
 Ekibin geri kalanı kalite kontrol, bakım ve organizasyon işlerinde yardım eder.
 
 ## Takım üyeleri
 
-*Not: Web sayfasında grup ID'si 31 olan bir Project Loved kullanıcı grubu bulunmaktadır, ancak liste herkese açık değildir. Sadece yönetim amaçlı kullanılmaktadır.*
+![][flag_US] **[clayton](https://osu.ppy.sh/users/3666350)** projeyi gözlemler ve haber ile forum gönderilerini yazar, ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) herkese açık tabloları yürütür ve Sevilen kategorisi ile ilgili tartışmaların moderasyonunda yardımcı olur, ve ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) oylamaya sunulacak beatmaplerin metaverisini kontrol eder. Takımın geri kalanı kaptanlardır:
 
 ### osu!standard kaptanları
 
@@ -51,14 +49,10 @@ Ekibin geri kalanı kalite kontrol, bakım ve organizasyon işlerinde yardım ed
 - ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573)
 - ![][flag_GB] [Pope Gadget](https://osu.ppy.sh/users/2288341)
 
-### Diğer roller
+## Önemsiz bilgiler
 
-| İsim | Sorumluluk |
-| :-- | :-- |
-| ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) | Haber ve forum gönderileri yazımı |
-| ![][flag_LT] [huu](https://osu.ppy.sh/users/6044237) | Herkese açık tabloların yürütülmesi |
-| ![][flag_US] [Noffy](https://osu.ppy.sh/users/1541323) | Beatmap metaverisi düzeltme |
-| ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) | Projenin gidişatını gözetleme (bunu o yarattı!) |
+- ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689), ismi daha sonra Project Loved olarak değişen [Captain's Pick](/wiki/Beatmaps/History_of_Loved#captain's-pick-and-project-loved-(sep-2017-–-present)) sistemiyle birlikte Eylül 2017 tarihinde orijinal takım kaptanlarını oluşturdu. 2019'un sonlarına dek, tüm projeyi gözlemledi ve yönetti.
+- Web sayfasında grup ID'si 31 olan bir Project Loved kullanıcı grubu bulunmaktadır, ancak liste herkese açık değildir. Bu liste [Project Loved forum](https://osu.ppy.sh/community/forums/120) forumunun moderasyon yetkileri ve beatmaplerin Sevilen kategorisine yükseltilmesinde kullanılır, ve sadece ![][flag_US] [clayton](https://osu.ppy.sh/users/3666350) ile ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689) bu grubun üyeleridir.
 
 [flag_CL]: /wiki/shared/flag/CL.gif "Şili"
 [flag_CN]: /wiki/shared/flag/CN.gif "Çin"
