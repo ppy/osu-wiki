@@ -15,7 +15,7 @@ A good beatmap description would include:
 
 ### Images
 
-A good beatmap description requires 1 image. If you don't know how to add a image using BBCode, check out [this article](https://osu.ppy.sh/help/wiki/BBCode#image).
+Many beatmap descriptions contain at least one image. To learn know how to add a image using BBCode, check out the [BBCode article](https://osu.ppy.sh/help/wiki/BBCode#image).
 
 **Notes:**
 - Most image usage in a beatmap description use an image as a banner.
