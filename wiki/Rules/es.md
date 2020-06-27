@@ -53,10 +53,10 @@ Estas reglas son la base sobre la cual mantenemos la comunidad de osu! como un l
 
   Estas cosas malas pueden incluír (*pero no se limitan a*):
 
-  *   La eliminación de tu habilidad para hablar en el chat dentro del juego por un periodo de tiempo (conocido como silencio).
-  *   La eliminación de cualquier contenido infractor de tu página de usuario, perfil o beatmaps subidos.
-  *   La pérdida del privilegio de editar o modificar tu página de usuario o detalles de perfil.
-  *   La pérdida del privilegio de jugar o calificar en torneos oficiales.
+  -   La eliminación de tu habilidad para hablar en el chat dentro del juego por un periodo de tiempo (conocido como silencio).
+  -   La eliminación de cualquier contenido infractor de tu página de usuario, perfil o beatmaps subidos.
+  -   La pérdida del privilegio de editar o modificar tu página de usuario o detalles de perfil.
+  -   La pérdida del privilegio de jugar o calificar en torneos oficiales.
 
   Los silencios y otras infracciones van incrementando **automáticamente** en duración casi exponencialmente con cada infracción. Los moderadores no controlan la cantidad de tiempo que eres silenciado por alguna ofensa. Ofensores reincidentes se encontrarán bloqueados fuera del juego por periodos de tiempo incrementales.
 

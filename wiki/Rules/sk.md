@@ -53,10 +53,10 @@ Pokiaľ sa ocitneš na zlej strane naších komunitných pravidiel, stanú sa zl
 
 Tieto "zlé veci" môžu byť (*ale nie sú obmedzené na*):
 
-* Znemožnenie četovania v hre na určitý čas (ktoré sa nazýva stlmenie)
-* Odstránenie akéhokoľvek obsahu ktorý nie je v súlade s pravidlami
-* Znemožnenie upravenia tvojej profilovej stránky alebo tvojich údajov
-* Znemožnenie hrania v oficiálnych turnajoch
+- Znemožnenie četovania v hre na určitý čas (ktoré sa nazýva stlmenie)
+- Odstránenie akéhokoľvek obsahu ktorý nie je v súlade s pravidlami
+- Znemožnenie upravenia tvojej profilovej stránky alebo tvojich údajov
+- Znemožnenie hrania v oficiálnych turnajoch
 
 Dĺžka stlmení a ostatných trestov sa **automaticky** predlžuje skoro exponenciálne s každým porušením. Moderátori nekontrolujú dĺžku trestov - porušovatelia pravidieľ budú potrestaný čo raz dlhšie.
     
