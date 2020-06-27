@@ -54,8 +54,8 @@ This is the bounty set on this contest:
 </audio>
 
 > The opening track from [Fractal Dreamer's](https://osu.ppy.sh/beatmaps/artists/15) debut album *Kingdom of Silence*. Incredibly varied, high tempo EDM track with strong central melodies and thumping percussion. Well suited for mappers who enjoy intense tracks.
-+ [4:13 uncut, pre-timed .osz](https://assets.ppy.sh/artists/15/osz/Fractal%20Dreamers%20-%20Fortuna%20Redux.osz)
-+ [2:47 MWR-cut, pre-timed .osz](https://assets.ppy.sh/artists/15/mwr/Fractal%20Dreamers%20-%20Fortuna%20Redux%20%28MWR%20version%29.osz)
+- [4:13 uncut, pre-timed .osz](https://assets.ppy.sh/artists/15/osz/Fractal%20Dreamers%20-%20Fortuna%20Redux.osz)
+- [2:47 MWR-cut, pre-timed .osz](https://assets.ppy.sh/artists/15/mwr/Fractal%20Dreamers%20-%20Fortuna%20Redux%20%28MWR%20version%29.osz)
 
 ### \*namirin - closing eyes
 
@@ -64,8 +64,8 @@ This is the bounty set on this contest:
 </audio>
 
 > From [\*namirin's](https://osu.ppy.sh/beatmaps/artists/18) latest album, 5colors. Bright vocals without excessive sweetness, set to a backing track that builds on victorious overtones. Likely familiar to anyone who is fond of anime.
-+ [4:08 uncut, pre-timed .osz](https://assets.ppy.sh/artists/18/osz/namirin%20-%20closing%20eyes.osz)
-+ [2:37 MWR-cut, pre-timed .osz](https://assets.ppy.sh/artists/18/mwr/namirin%20-%20closing%20eyes%20(MWR%20version).osz)
+- [4:08 uncut, pre-timed .osz](https://assets.ppy.sh/artists/18/osz/namirin%20-%20closing%20eyes.osz)
+- [2:37 MWR-cut, pre-timed .osz](https://assets.ppy.sh/artists/18/mwr/namirin%20-%20closing%20eyes%20(MWR%20version).osz)
 
 ### Loki - A New King Is Born
 
@@ -74,7 +74,7 @@ This is the bounty set on this contest:
 </audio>
 
 > The cinematic climax of [Loki/Thaehan's](https://osu.ppy.sh/beatmaps/artists/7) *The Fall of a Hero*. High BPM symphonic metal with prominent electric guitar melodies and leads, set to muted but varied percussion.
-+ [3:22 uncut, pre-timed .osz](https://assets.ppy.sh/artists/7/osz/Loki%20-%20A%20New%20King%20Is%20Born.osz)
+- [3:22 uncut, pre-timed .osz](https://assets.ppy.sh/artists/7/osz/Loki%20-%20A%20New%20King%20Is%20Born.osz)
 
 If any of these songs interest you, feel free to open one in the editor and take a shot at mapping it over the course of the next two and a half months! We look forward to seeing your submissions in the near future.
 
