@@ -18,6 +18,7 @@ module.exports = {
     ['lint-final-newline'],
     ['lint-hard-break-spaces', false],
     ['lint-hard-break-style', 'backslash'],
+    ['lint-linebreak-style', 'unix'],
     ['lint-list-item-indent', 'space'],
     ['lint-list-item-spacing', {checkBlanks: true}],
     ['lint-maximum-heading-length', false],

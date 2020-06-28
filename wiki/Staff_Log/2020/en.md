@@ -257,6 +257,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-06-23: Moved [Nevo](https://osu.ppy.sh/users/7451883) from **Probationary BN** to **BN**
 - 2020-06-23: Moved [Stixy](https://osu.ppy.sh/users/9000308) from **Probationary BN** to **BN**
 - 2020-06-26: Moved [PokeSky](https://osu.ppy.sh/users/3617111) from **Probationary BN** to **BN**
+- 2020-06-28: Moved [Hoshikuz](https://osu.ppy.sh/users/9892196) from **BN** to **Probationary BN**
 
 #### Removals
 
@@ -266,4 +267,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-06-22: Removed [-Luminate](https://osu.ppy.sh/users/4778689) from **Probationary BN**
 - 2020-06-23: Removed [Unpredictable](https://osu.ppy.sh/users/7560872) from **BN**
 
-<!-- last update: 2020-06-26 6 UTC moved pokesky to full bn -->
+<!-- last update: 2020-06-28 6 UTC moved hoshikuz to probationary bn -->

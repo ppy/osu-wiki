@@ -12,6 +12,7 @@
         "remark-lint-final-definition": "2.0.0",
         "remark-lint-final-newline": "1.0.4",
         "remark-lint-hard-break-style": "github:cl8n/remark-lint-hard-break-style",
+        "remark-lint-linebreak-style": "2.0.0",
         "remark-lint-list-item-indent": "2.0.0",
         "remark-lint-list-item-spacing": "2.0.0",
         "remark-lint-maximum-heading-length": "2.0.0",

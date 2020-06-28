@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Hit Objekte
 
 Ein Hit-Objekt ist das Kernelement in osu!. Es gibt drei Arten von Hit-Objekten:
