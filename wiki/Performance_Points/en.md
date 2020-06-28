@@ -1,16 +1,3 @@
----
-needs_cleanup: true
----
-<!-- TODO:
-- the writing is needlessly verbose sometimes
-- sections shouldn't be questions
-- too many / too short paragraphs break up the reading
-- needs links to other wiki pages
-- the order of sections/paragraphs doesn't lend itself to explaining what pp actually is
-- outdated in some minor ways (links to old changelogs, details about the algorithm itself are from years ago)
-- should link to the ppv1 page
--->
-
 # Performance points
 
 The Performance Points system is a ranking metric that aims to be more contextually relevant to a player's progression in osu!.
@@ -55,105 +42,108 @@ In the case of [osu!standard](/wiki/Game_Modes/osu!) beatmaps with very large ju
 
 Aim is not considered in gamemodes like [osu!taiko](/wiki/Game_Modes/osu!taiko) and [osu!mania](/wiki/Game_Modes/osu!mania).
 
-### What is speed?
+### Speed
 
-**Speed is considered as the rate at which a beatmap presents elements for play.**
+**Speed is considered the rate at which a beatmap presents elements for a play.**
 
-Maps with high numbers of hit objects in a short period of time are considered to have very high speed values.
+Beatmaps with high numbers of hit objects in a short period of time are considered to have very high speed values. In this aspect, the faster a beatmap's speed is, the more difficult said beatmap is. Thus granting larger gains of pp.
 
-Mods like DoubleTime and HalfTime significantly affect the speed of a beatmap as considered by the performance points algorithm.
+Mods like [Double Time](/wiki/Game_Modifiers/Half-Time) and [Half Time](/wiki/Game_Modifiers#Half-Time) significantly affect the speed of a beatmap as considered by the performance points algorithm. Likewise, they also significantly affect pp gains when used.
 
-### What is accuracy?
+<!-- A "see also" or some other sort of hatnote for the--potential--pp farm stub -->
+
+### Accuracy
+
+*See also: [Accuracy](/wiki/Accuracy)
 
 **Accuracy is considered as your individual performance and consistency in hitting objects within their designated timeframe.**
 
-Highly accurate scores are considered to be very skilful by the performance points algorithm and will award very large scores compared to scores that are not accurate.
+Highly accurate scores are considered to be very skillful and impressive by the performance points algorithm and will award very large scores compared to scores that are not as accurate. For example, a score set with 80% accuracy is sometimes worth 2/3 of a score set with 95% accuracy. 
 
-A score set with 80% accuracy is sometimes worth 2/3 of a score set with 95% accuracy, for example.
+Mods like Hidden, Hard Rock and Flashlight are considered to significantly increase how difficult it is to attain an accurate score on a beatmap.
 
-Mods like Hidden, Hard Rock and Flashlight are considered to significantly alter how difficult it is to attain an accurate score on a beatmap.
-
-### What is strain?
+### Strain
 
 **Strain is considered as how many times and for how long a player is subjected to high intensity sections within a particular beatmap.**
 
-Sections or bursts of extremely high speed or difficulty patterning in a beatmap will massively increase its considered strain values.
+Sections or bursts of extremely high speed or difficulty [patterning](/wiki/Beatmaps/Pattern) in a beatmap will massively increase its considered strain values.
 
-Maps with high strain values are considered to be very, very difficult, and thus award very large sums of performance points if surmounted by a player's skill.
+Beatmaps with high strain values are considered to be extremely difficult, thus they award very large sums of performance points if surmounted by a player's skill.
 
-### How does aim, speed, accuracy and strain combine to produce a pp score?
+### How aim, speed, accuracy and strain combine to produce a pp score
 
-**All four elements are considered in concert to determine how difficult a map is overall, and also how a particular score compares to what is considered the 'optimal' play for that beatmap.**
+**All four elements are considered in concert to determine how difficult a map is overall and how a particular score compares to what is considered the "optimal" play for that beatmap.**
 
-The algorithm for performance points varies significantly depending on gamemode.
+*Note: The algorithm for performance points varies significantly depending on game mode.*
 
-While the exact numbers are well beyond the scope of this article, certain gamemodes place greater precedence on certain statistics due to their individual mechanics.
+While the exact numbers are well beyond the scope of this article, certain game modes place greater precedence on certain statistics due to their individual mechanics (e.g., accuracy in osu!taiko vs. accuracy in osu!catch). It is generally reccomended that players try to do their best on a certain beatmap; a play with really good values in one area, but really bad values in others will still not gain a favorable amount of pp. 
 
-### What is the 'weightage system' and how does it affect my scoring?
+Many seasoned osu!standard players understand the pp system intuitively through the help of general experience, mods, and bots like [Tillerino](https://osu.ppy.sh/users/2070907). Experimenting with mods and different "types" of beatmap styles grants a level of understanding that plain text cannot.
+
+## FAQ
+
+### Where can I view the performance ranking?
+
+**The performance points ranking for all players can be found on the [rankings page](https://osu.ppy.sh/p/pp).**
+
+You can also navigate to the rankings by using the `ranking` dropdown panel at the top of the legacy web design, and choosing the `performance` option.
+
+### How can I increase my rank and overall pp?
+
+**Your performance is ranked predominately based on your scores on individual maps.**
+
+The best way to improve is to work at getting good scores on difficult maps or playing a wide variety of beatmaps.
+
+Consider the following tips:
+
+- Play efficiently and figure out which play style works best for you.
+- Focus on getting a handful of exceptional scores instead of "farming" hundreds of just okay scores. <!-- "farming" will need to be linked once a stub or section is created -->
+- Aim to improve your accuracy. Even 1% makes a massive difference.
+- Aim for higher combos. Full combos (FC) or [SS](/wiki/Glossary#grade) scores give tremendous amounts of score.
+
+### Why didn't I gain the full amount of pp from a map I played?
+
+**Performance points use a weighted system, which means that your highest score ever will give 100% of its total pp, and every score you make after that will give gradually less.**
+
+This is explored in-depth in the section below. But in a nusthell...
+
+If your top pp rankings has only two maps played (all of which are 100pp scores each) your total pp would then be 195pp.
+
+The first score is worth 100% of its total pp as it is your top score.
+
+The second score is worth only 95% of its total pp as it is not your top score, so it contributes only 95pp towards your total instead of 100.
+
+Now, suppose that you set a brand new score worth 110pp. Your top rankings would now look like the following:
+
+1. 110pp, weighted 100% = 110
+2. 100pp, weighted 95% = 95
+3. 100pp, weighted 90% = 90
+
+As you may have figured out, your new total pp is not simply `195 + 110 = 305pp`, but instead `110 + 95 + 90 = 295pp`.
+
+This means that as you gradually improve at osu!, your pp totals will trend upwards, making your older scores worth progressively less compared to the newer, more difficult scores that you are updating them with.
+
+### What is the "weightage system" and how does it affect my scoring?
 
 **The weightage system refers to the fact that all of your scores are weighted against each other in terms of overall performance.**
 
 This means that only your highest pp score will award the full amount of pp for that particular performance. Other scores with lower overall pp values will be weighted with a gradually decreasing percentage.
 
-To provide an example of this with a mathematical formula:
+To provide an example of this with a mathematical formula, it would look look like the following:
 
-Let _PP_ represent each score's individual pp value. _PP\[i\]_ denotes the *i*th score's pp value, sorted descending, where _i_ ranges from 1 to _n_, and _n_ is defined as the amount of scores you have.
+Let *PP* represent each score's individual pp value. *PP(x)* denotes the *x* score's pp value, sorted descending, where *x* ranges from 1 to *n*, where *n* is defined as the amount of scores you have.
 
-```Total pp = PP[1] * 0.95^0 + PP[2] * 0.95^1 + PP[3] * 0.95^2 + ... + PP[n] * 0.95^(n-1)```
+`Total pp = PP(1) * 0.95^0 + PP(2) * 0.95^1 + PP(3) * 0.95^2 + ... + PP(n) * 0.95^(n-1)`
 
 ### How much bonus pp is awarded for having lots of scores on ranked maps?
 
-**Up to 416.6667 bonus pp is given for setting large numbers of scores. This is attained at approximately _25397_ scores.**
+**Up to 416.6667 bonus pp is given for setting large numbers of scores. This is attained at approximately 25397 scores.**
 
 You can calculate the exact amount of this bonus by following this formula, where `N` is the number of ranked maps with a score set:
 
 `416.6667 * (1 - 0.9994 ^ N)`.
 
 The median number of scores required to reach half of this bonus is roughly 1155 scores. As you can see, the amount of scores required spikes sharply towards the upper end of the spectrum.
-
-
-## FAQ
-
-### Where can I view the performance ranking?
-
-**The performance points ranking for all players can be found [here](https://osu.ppy.sh/p/pp).**
-
-You can also navigate to the rankings by using the `Ranking` dropdown panel at the top of the legacy web design, and choosing the `Performance` option.
-
-### How can I increase my rank/overall pp?
-
-**Your performance is ranked predominately based on your scores on individual maps.**
-
-The best way to improve is to thus work at getting good scores on difficult maps, or playing a wide variety of beatmaps.
-
-Consider the following tips:
-
-- Play efficiently and figure out which play style works best for you.
-- Focus on getting a handful of excellent scores, instead of "farming" hundreds of just okay scores.
-- Aim to improve your accuracy. Even 1% makes a massive difference.
-- Aim for higher combos. Full combos (FC) or perfect (SS) scores give tremendous amounts of score.
-
-### Why didn't I gain the full amount of pp from a map I played?
-
-**Performance points use a _weighted_ system, which means that your highest score ever will give 100% of its total pp, and every score you make after that will give gradually less.**
-
-This is explored in depth in the _weightage system_ section of the article above. To explain this with a simpler example:
-
-If your top pp rankings has only two maps played, all of which are 100pp each scores, your total pp would then be _195pp_.
-
-The first score is worth 100% of its total pp as it is your top score.
-
-The second score is worth only 95% of its total pp as it is not your top score, so it contributes only 95pp towards your total instead of 100.
-
-Now, let us posit that you set a brand new 110pp score. Your top rankings now look like this:
-
-1. 110pp, weighted 100% = 110
-2. 100pp, weighted 95% = 95
-3. 100pp, weighted 90% = 90
-
-As you may have figured out, your new total pp is not simply ``195 + 110 = 305pp``, but instead ``110 + 95 + 90 = 295pp``.
-
-This means that as you gradually improve at osu!, your pp totals will trend upwards, making your older scores worth progressively less compared to the newer, more difficult scores that you are updating them with.
 
 #### Is weighting the reason behind why I don't get any pp from playing easy maps any more?
 
