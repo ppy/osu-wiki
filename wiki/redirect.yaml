@@ -1592,3 +1592,6 @@
 
 # Shortcut for Featured Artists
 "fa": "Featured_Artists"
+
+# Moved Hit_Objects to Hit_object
+"hit_objects": "Hit_object"
