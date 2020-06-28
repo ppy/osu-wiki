@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Pedoman identitas visual
 
 Pedoman identitas visual merupakan sejumlah standar yang ditetapkan untuk penggunaan perihal proyek - proyek yang berkaitan dengan osu!. Semua penggunaan tidak memerlukan persetujuan terlebih dahulu.
