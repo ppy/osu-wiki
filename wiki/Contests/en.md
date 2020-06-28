@@ -55,11 +55,16 @@ Mapping With Rewards is a contest without strict deadlines and features one winn
 | 2.1 | [cYsmix - Fright March](https://osu.ppy.sh/beatmapsets/486142) | ![osu!standard][o!s] | [Gero](https://osu.ppy.sh/users/1467715) | [Results](https://osu.ppy.sh/home/news/2018-02-15-mapping-with-rewards-2-bounties-complete) | [Score #2.1](https://docs.google.com/spreadsheets/d/e/2PACX-1vS34U2QDZTuggEIqCS4USZ2Ppq8yQk2CU_SUnI_ahJ2Dndm4S-wTD2Bhft1Say9PoRGOXDY_yCypMmO/pubhtml) |
 | 2.2 | [cYsmix - Moonlight Sonata](https://osu.ppy.sh/beatmapsets/486535) | ![osu!standard][o!s] | [Okoratu](https://osu.ppy.sh/users/1623405) | [Results](https://osu.ppy.sh/home/news/2018-02-15-mapping-with-rewards-2-bounties-complete) | [Score #2.2](https://docs.google.com/spreadsheets/d/e/2PACX-1vS34U2QDZTuggEIqCS4USZ2Ppq8yQk2CU_SUnI_ahJ2Dndm4S-wTD2Bhft1Say9PoRGOXDY_yCypMmO/pubhtml) |
 | 2.3 | [cYsmix - Moonlight Sonata](https://osu.ppy.sh/beatmapsets/488238) | ![osu!standard][o!s] | [-kevincela-](https://osu.ppy.sh/users/266596) | [Results](https://osu.ppy.sh/home/news/2018-02-15-mapping-with-rewards-2-bounties-complete) | [Score #2.3](https://docs.google.com/spreadsheets/d/e/2PACX-1vS34U2QDZTuggEIqCS4USZ2Ppq8yQk2CU_SUnI_ahJ2Dndm4S-wTD2Bhft1Say9PoRGOXDY_yCypMmO/pubhtml) |
+| 3.1 | [Loki - Thaehan](https://osu.ppy.sh/beatmapsets/760694) | ![osu!standard][o!s] | [DTM9 Nowa](https://osu.ppy.sh/users/5428909) | [Results](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april) | |
+| 3.2 | [Loki - Thaehan](https://osu.ppy.sh/beatmapsets/1158282) | ![osu!taiko][o!t] | [Raiden](https://osu.ppy.sh/users/2239480) | [Results](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april) | |
+| 3.3 | [Loki - Thaehan](https://osu.ppy.sh/beatmapsets/772257) | ![osu!mania][o!m] | [chouyaa](https://osu.ppy.sh/users/8404646) | [Results](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april) | |
+| 3.4 | [\*namirin - closing eyes](https://osu.ppy.sh/beatmapsets/669437) | ![osu!standard][o!s] | [pishifat](https://osu.ppy.sh/users/3178418) | [Results](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april) | |
+| 3.5 | [\*namirin - closing eyes](https://osu.ppy.sh/beatmapsets/705499) | ![osu!taiko][o!t] | [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) | [Results](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april) | |
+| 3.6 | [Fractal Dreamers - Fortuna Redux](https://osu.ppy.sh/beatmapsets/1158282) | ![osu!standard][o!s] | [DTM9 Nowa](https://osu.ppy.sh/users/5428909) | [Results](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april) | |
 
 Notes:
 
 - Mapping With Rewards #1 was concluded without a results post.
-- Mapping With Rewards #3 has not been concluded. Its announcement post can be found [here](https://osu.ppy.sh/home/news/2017-09-23-mapping-with-rewards-returns).
 
 ## osu! Mapping Olympiad
 
