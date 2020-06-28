@@ -21,7 +21,7 @@ These rules and guidelines have been discussed in the [Ranking Criteria subforum
 - **Don / Red note:** A beat that can be hit with any of the Drum Center attached keys (default keys `X`, `C`).
 - **Kat / Blue note:** A beat that can be hit with any of the Drum Rim attached keys (default keys `Z`, `V`).
 - **Big don / Big red note / Finisher note:** A strong beat that can be hit with both Drum Center keys at the same time for extra score.
-- **Big kat / Big blue note / Finisher note:**  A strong beat that can be hit with both Drum Rim keys at the same time for extra score.
+- **Big kat / Big blue note / Finisher note:** A strong beat that can be hit with both Drum Rim keys at the same time for extra score.
 - **BPM:** An acronym for "beats per minute" used to determine the tempo of a song.
 - **Slider/Drumroll:** A yellow bar with ticks inside of it which are played with any of the assigned keys. These ticks are usually snapped to 1/4 corresponding to the song's BPM. If the BPM is lower than 125, the snapping will change to 1/8. If the BPM is higher than 250, it will change to 1/2. If slider tick rate is set to 3, the slider ticks will instead snap to 1/3.
 - **Spinner:** A round element that requires the player to alternate between hitting Don/Kat for a determined number of times, which is shown in the center of the spinner. This number depends on the Overall Difficulty of the map as well as the length of the spinner.
@@ -108,8 +108,8 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 
 #### Guidelines
 
-- **1/3 patterns should not be longer than two notes.** Anything longer is very situational and usually too complex for newer players. Patterns like these should be followed by a rest moment within 2/1 and not contain any 1/2 or faster patterns within that time.
-- **1/2  patterns should not be longer than seven notes.** Anything longer is likely to be too straining for beginners.
+- **1/3 patterns should not be longer than two notes.** Anything longer is very situational and usually too complex for newer players. These patterns should be followed by a rest moment within 2/1, and patterns that are 1/2 or faster should be avoided during that time.
+- **1/2 patterns should not be longer than seven notes.** Anything longer is likely to be too straining for beginners.
 - **Main snapping should consist of mostly 1/1, 2/1 or slower rhythms.** Occasionally using 1/2 rhythms is acceptable.
 - **There should be at least 1/2 distance between a spinner and its preceding note.** This is to ensure they do not overlap substantially and assure readability.
 - **At least 1 rest moment that is 2/1 or longer should be inserted after 16/1 to 20/1 of continuous mapping.** Using rest moments less frequently is acceptable if either the pace of the music makes rest moments counter-intuitive or if the continuously mapped part is overall more forgiving to the player.
@@ -162,7 +162,7 @@ If a Futsuu difficulty is required and used as the *lowest difficulty* of a beat
 - **1/4 patterns should not be longer than nine notes.** Anything longer is likely to be too straining for the target audience of this difficulty level.
 - **Main snapping should consist of mostly 1/2 and occasional 1/1 rhythms.** 1/4 rhythms may be used more frequently at this level of difficulty.
 - **There should be at least 1/4 distance between a spinner and its preceding note.** This is to ensure they do not overlap substantially and assure readability.
-- **At least 1 rest moment which is 1/1 or longer should be inserted after 16/1 to 20/1 of continuous mapping.** Less frequent rest moments or shorter ones may put too much strain on beginners.
+- **At least 1 rest moment which is 1/1 or longer should be inserted after 16/1 to 20/1 of continuous mapping.** Players may be too strained if there are not enough rests or the rests are too short.
 - **1/4 patterns which are longer than five notes should avoid complicated colour changes.** Longer patterns with such complexity would be too demanding for the target audience of this difficulty level.
 
 #### Difficulty setting guidelines

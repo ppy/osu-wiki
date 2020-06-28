@@ -268,12 +268,12 @@ The osu!taiko World Cup 2016 was run by various community members by distributin
 | --: | :-: | :-: | :-- | :-- |
 | **Japan** ![][flag_JP] | **6** | 2 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/24194354) |
 | Germany ![][flag_DE] | 0 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/24201032) |
-| Hong Kong ![][flag_HK]  | 5 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/24203340) |
+| Hong Kong ![][flag_HK] | 5 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/24203340) |
 | **Taiwan** ![][flag_TW] | **6** | 0 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/24206740) |
 
 | Sunday, 2016-04-17 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| Canada ![][flag_CA]  | 5 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/24227476) |
+| Canada ![][flag_CA] | 5 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/24227476) |
 
 ### Semifinals
 
@@ -416,7 +416,7 @@ The osu!taiko World Cup 2016 was run by various community members by distributin
 
 | Stage | Match ID |
 | --: | :-- |
-| Round of 16 | A, B, C, D, E, F, G, H  |
+| Round of 16 | A, B, C, D, E, F, G, H |
 | Quarterfinals | I, J, K, L & R, S, T, U |
 | Semifinals | M, N & V, W, X, Y, Z,AA |
 | Finals | O & AB, AC, AD, AE |

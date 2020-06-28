@@ -365,7 +365,7 @@ Saturday, 2 March 2019:
 | A | **=yahe** | **4** | 0 | all waifu hero | [#1](https://osu.ppy.sh/community/matches/49966533) |
 | B | **BRATVIA I KOLCO** | **4** | 3 | budget aussies | [#1](https://osu.ppy.sh/community/matches/49960437) |
 | A | our angel kodama | 3 | **4** | **all waifu hero** | [#1](https://osu.ppy.sh/community/matches/49970014) |
-| B | **BRATVA I KOLCO**  | **4** | 0 | ok\_hand osu | [#1](https://osu.ppy.sh/community/matches/49973489) |
+| B | **BRATVA I KOLCO** | **4** | 0 | ok\_hand osu | [#1](https://osu.ppy.sh/community/matches/49973489) |
 | B | **Rubber Conquest** | **4** | 0 | BRATVA I KOLCO | [#1](https://osu.ppy.sh/community/matches/49975294) |
 | B | **Rubber Conquest** | **4** | 0 | ok\_hand osu | [#1](https://osu.ppy.sh/community/matches/49977263) |
 
