@@ -1633,3 +1633,5 @@
 
 # Moved Hit_Objects to Hit_object
 "hit_objects": "Hit_object"
+"hit_object/sliderstart": "Hit_object/Sliderhead"
+"hit_object/sliderend": "Hit_object/Slidertail"
