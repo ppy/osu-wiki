@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Objek Ketukan
 
 Sebuah benda hit adalah elemen gameplay inti di osu!. Ada tiga jenis objek hit:

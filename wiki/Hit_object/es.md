@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Hit Objects
 
 Un *hit object* (objetos de golpeo) es un elemento principal en osu!. Hay tres tipos de *hit objects*:
