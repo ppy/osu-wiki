@@ -16,6 +16,7 @@ module.exports = {
     ['lint-fenced-code-flag', {allowEmpty: true}],
     ['lint-final-definition', false],
     ['lint-final-newline'],
+    ['lint-hard-break-spaces', false],
     ['lint-hard-break-style', 'backslash'],
     ['lint-list-item-indent', 'space'],
     ['lint-list-item-spacing', {checkBlanks: true}],
