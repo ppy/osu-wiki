@@ -34,6 +34,7 @@
         "remark-lint-no-undefined-references": "2.0.0",
         "remark-lint-no-unused-definitions": "2.0.0",
         "remark-lint-ordered-list-marker-value": "2.0.0",
+        "remark-lint-osu-links": "github:cl8n/remark-lint-osu-links",
         "remark-lint-table-pipe-alignment": "2.0.0",
         "remark-preset-lint-markdown-style-guide": "3.0.0",
         "vfile-reporter-position": "0.1.7"

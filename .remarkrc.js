@@ -41,6 +41,7 @@ module.exports = {
     ['lint-no-undefined-references'],
     ['lint-no-unused-definitions'],
     ['lint-ordered-list-marker-value', 'ordered'],
+    ['lint-osu-links'],
     ['lint-table-pipe-alignment', false],
   ],
 };
