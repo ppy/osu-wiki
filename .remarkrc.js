@@ -4,10 +4,10 @@ module.exports = {
     emphasis: '*',
     fences: true,
     listItemIndent: '1',
-    paddedTable: false,
     rule: '-',
     ruleSpaces: false,
-    tightDefinitions: true
+    tablePipeAlign: false,
+    tightDefinitions: true,
   },
   plugins: [
     'preset-lint-markdown-style-guide',
@@ -16,6 +16,7 @@ module.exports = {
     ['lint-fenced-code-flag', {allowEmpty: true}],
     ['lint-final-definition', false],
     ['lint-final-newline'],
+    ['lint-hard-break-style', 'backslash'],
     ['lint-list-item-indent', 'space'],
     ['lint-list-item-spacing', {checkBlanks: true}],
     ['lint-maximum-heading-length', false],
@@ -39,6 +40,6 @@ module.exports = {
     ['lint-no-undefined-references'],
     ['lint-no-unused-definitions'],
     ['lint-ordered-list-marker-value', 'ordered'],
-    ['lint-table-pipe-alignment', false]
-  ]
-}
+    ['lint-table-pipe-alignment', false],
+  ],
+};
