@@ -12,7 +12,7 @@ I motsats till vad många tror, för att få en bättre förståelse för hur sk
 
 ## Att göra ett skin
 
-När du har din egna skinmapp i `Skins/` mapp kommer du behöva en bild och, valfritt, en ljudredigerare. Det finns många alternativ att välja som varierar i funktionalitet och kostnad. Trots detta fungerar förmodligen all programvara du använder så länge du vet hur du använder den.
+När du har din egna skinmapp i `Skins/` kommer du behöva en bild och, valfritt, en ljudredigerare. Det finns många alternativ att välja som varierar i funktionalitet och kostnad. Trots detta fungerar förmodligen all programvara du använder så länge du vet hur du använder den.
 
 -   Bildredigerare
     -   [GIMP](https://www.gimp.org) (Gratis)
