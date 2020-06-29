@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu! World Cup 2020: Staff and Mapper Applications"
-date: 2020-06-25 03:00:00 +0000
+date: 2020-06-29 08:00:00 +0000
 ---
 
 It's that time of the year again — but wait it's not even October yet! We're putting out a call for people interested in staffing for this year's osu! World Cup, take a look if you're interested!
