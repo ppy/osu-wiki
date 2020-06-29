@@ -213,6 +213,30 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
 
 ## Match results
 
+### Quarterfinals
+
+Saturday, 27 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **nananass** ![][flag_JP] | **6** | 1 | ![][flag_JP] tamakagi2000 | [#1](https://osu.ppy.sh/community/matches/63421067) |
+| butter0414 ![][flag_JP] | 0 | **6** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/63421102) |
+| \[Zeth\] ![][flag_MY] | -1 | **0** | ![][flag_JP] **zkane2** | [#1](https://osu.ppy.sh/community/matches/63426642) |
+| **uone** ![][flag_JP] | **6** | 2 | ![][flag_JP] ekumea1123 | [#1](https://osu.ppy.sh/community/matches/63433858) |
+| Minekuchi ![][flag_DE] | 1 | **6** | ![][flag_JP] **owatanimal** | [#1](https://osu.ppy.sh/community/matches/63435758) |
+| **Ikkun** ![][flag_IT] | **6** | 4 | ![][flag_BR] HiroK | [#1](https://osu.ppy.sh/community/matches/63441391) |
+| **janitore** ![][flag_CA] | **6** | 0 | ![][flag_ES] AlvaroYL | [#1](https://osu.ppy.sh/community/matches/63443286) |
+
+Sunday, 28 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| tamakagi2000 ![][flag_JP] | 3 | **6** | ![][flag_CL] **Ulqui** | [#1](https://osu.ppy.sh/community/matches/63458529) |
+| iceOC ![][flag_JP] | 3 | **6** | ![][flag_JP] **nekomusya1234** | [#1](https://osu.ppy.sh/community/matches/63469196) |
+| **AlvaroYL** ![][flag_ES] | **6** | 3 | ![][flag_JP] owatanimal | [#1](https://osu.ppy.sh/community/matches/63469157) |
+| **ekumea1123** ![][flag_JP] | **6** | 0 | ![][flag_IT] Ikkun | [#1](https://osu.ppy.sh/community/matches/63470007) |
+| **iceOC** ![][flag_JP] | **6** | 1 | ![][flag_JP] zkane2 | [#1](https://osu.ppy.sh/community/matches/63471465) |
+
 ### Round of 16
 
 Friday, 19 June 2020:
