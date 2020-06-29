@@ -96,6 +96,36 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+**[Download the map pack here! (146 MB)](https://mega.nz/file/tkUHQAjR#2k1H5DMRaY4cwsSDrMX1zM3MjxV0ZU9m-_J2sf-6f-I)**
+
+- NoMod
+  - [KASAI HARCORES - CYCLE HIT (offbeat swap edit) (Midnaait) \[Streki\]](https://osu.ppy.sh/beatmapsets/996644#taiko/2084655)
+  - [tarolabo - eth ken (\_DUSK\_) \[blossom\]](https://osu.ppy.sh/beatmapsets/1041596#taiko/2176932)
+  - [Jeff Williams feat. Casey Lee Williams & Lamar Hall - Ignite (HiroK) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1039891#taiko/2173618)
+  - [Daddy Yankee - El Ritmo no Perdona (Myckoll) \[Tula Oni\]](https://osu.ppy.sh/beatmapsets/706309#taiko/1493576)
+  - [Camellia - Shun no Shifudo o Ikashita Kare Fumi Paeria (Nishizumi) \[Kraken\]](https://osu.ppy.sh/beatmapsets/542058#taiko/1149263)
+  - [(Seiryu) - AO-INFINITY (Nofool) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/869505#taiko/1817188)
+- Hidden
+  - [Nakanojojo - Pararara (feat. Amekoya) (tasuke912) \[Oni\]](https://osu.ppy.sh/beatmapsets/930806#taiko/1943719)
+  - [xi - Glorious Crown (asuasu\_yura) \[Special\]](https://osu.ppy.sh/beatmapsets/806381#taiko/1692612)
+  - [sakuraburst - SELF DESTRUCT (\_DUSK\_) \[METASTABLE ONI\]](https://osu.ppy.sh/beatmapsets/963193#taiko/2016673)
+- HardRock
+  - [Camellia vs. Akira Complex - Railgun Roulette (VIP) (Capu) \[H1gumo's Ammunition (EGTS Ver.)\]](https://osu.ppy.sh/beatmapsets/1201995#taiko/2503320)
+  - [Dz'Xa - Koinikko no Breaktime 2020 (applerss) \[Broken Clock\]](https://osu.ppy.sh/beatmapsets/1121466#taiko/2343521)
+  - [xyst - Ylil's overed landscape (SKSalt) \[komasy's Inner Oni\]](https://osu.ppy.sh/beatmapsets/897948#taiko/1887454)
+- DoubleTime
+  - [Digital Math - The Musky Thrust (Jaltzu) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1153833#taiko/2408145)
+  - [Denkare - Unbind (lolcubes) \[Unbound Deluxe\]](https://osu.ppy.sh/beatmapsets/239315#taiko/553271)
+  - [NU-KO - Pochiko no Shiawase na Nichijou (kanopu) \[TK'S Oni\]](https://osu.ppy.sh/beatmapsets/298187#taiko/673168)
+- FreeMod
+  - [DROELOE - Limbo (Ulqui) \[Space Distortion\]](https://osu.ppy.sh/beatmapsets/831958#taiko/1743082)
+  - [nato - Nyarlathotep (Brasil) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1146787#taiko/2394581)
+  - [BEATMARIO - Night of Knights (7jasmine) \[(USAO Remix) Rabi Style\]](https://osu.ppy.sh/beatmapsets/1140363#taiko/2385038)
+- Tiebreaker
+  - **[Frums - Nisemono (\_yu68) \[Pseudo\]](https://osu.ppy.sh/beatmapsets/1111785#taiko/2322902)**
+
 ### Quarterfinals
 
 **[Download the map pack here! (75 MB)](https://mega.nz/file/slcQgCIT#0RqamEOOC5qARyfbVBgQJPkj_nhXBVIlQSGv2Xxcv9M)**
