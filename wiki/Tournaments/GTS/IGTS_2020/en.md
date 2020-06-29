@@ -129,6 +129,33 @@ The Intermediate Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+**[Download the map pack here! (81 MB)](https://mega.nz/file/upklnJhQ#-YfhkCE1xBeGXxZ4c2CyahuKkxN1l-QfRl1N_v_m2OU)**
+
+- NoMod
+  - [cosMo@bousouP - Nee, Kowareta Ningyou wa Doko e Suterareru no? (Rhytoly) \[Oni?\]](https://osu.ppy.sh/beatmapsets/854011#taiko/1785798)
+  - [Eve - Heart Forecast (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1175679#taiko/2452133)
+  - [t+pazolite - Magical Higan Tour 2009 (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/838744#taiko/1757104)
+  - [Machine Girl - Cloud99 (As Above Mix) (Genjuro) \[Oni\]](https://osu.ppy.sh/beatmapsets/1127497#taiko/2357465)
+  - [NICODE - Nyanya no Uta (Faputa) \[Oni\]](https://osu.ppy.sh/beatmapsets/918651#taiko/1920409)
+  - [Wowkie Zhang - Sunshine, Rainbow, White pony (Cychloryn) \[Sunshine, Rainbow, White oni\]](https://osu.ppy.sh/beatmapsets/1202461#taiko/2504229)
+- Hidden
+  - [SHK - Super Fantasy (aabc271) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/541523#taiko/1148213)
+  - [Culprate - Yellow (A Second Glimpse) (Ulqui) \[Oni\]](https://osu.ppy.sh/beatmapsets/589814#taiko/1761603)
+- HardRock
+  - [Shiron - Deadly Dolly Dance (Bedwyr Aorta) \[komasy's Oni (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/1202631#taiko/2504548)
+  - [DECO\*27 - Ghost Rule feat. Hatsune Miku (Bedwyr Aorta) \[mintong89's Taiko Oni (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/1202626#taiko/2504540)
+- DoubleTime
+  - [meganeko - Computer Blues (Axer) \[Vulkin's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1147128#taiko/2434870)
+  - [Sorry about my face - 161914 (vrnl) \[muzukashii\]](https://osu.ppy.sh/beatmapsets/832971#taiko/1746027)
+- FreeMod
+  - [IOSYS - Sai wa Nagerareta (yea) \[jyake's Oni\]](https://osu.ppy.sh/beatmapsets/932724#taiko/1957538)
+  - [Eagle - Hypersonik (Michiru) \[Oni\]](https://osu.ppy.sh/beatmapsets/985854#taiko/2106170)
+  - [James Landino & Kabuki - Birdsong (Nifty) \[Oni\]](https://osu.ppy.sh/beatmapsets/1010367#taiko/2115067)
+- Tiebreaker
+  - **[WAiKURO - Androgynos (Raytoly) \[Note\]](https://osu.ppy.sh/beatmapsets/666397#taiko/1504541)**
+
 ### Quarterfinals
 
 **[Download the map pack here! (76 MB)](https://mega.nz/file/vokwSC5Y#H6k-EQHlw9xV-GRayCpPTrSDTe0lym5oggSAAxym9CM)**
