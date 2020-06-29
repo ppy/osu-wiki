@@ -1,27 +1,19 @@
----
-outdated: true
-outdated_since: abc38b81368f22f2c02e0feda3b7d5c14fba8ead
----
-
 # Rejestracja
 
 *Uwaga: Posiadanie więcej niż jednego konta jest niezgodne z [zasadami gry](/wiki/Rules)!*
 
-1. Po [zainstalowaniu](/wiki/Installation) i otworzeniu gry, osu! poprosi cię o zalogowanie się lub utworzenie nowego konta. Naciśnij `Stwórz konto` i pozostaw osu! otwarte. Po naciśnięciu przycisku zostanie otworzona strona z [formularzem rejestracyjnym](https://osu.ppy.sh/p/register).
-
-![Formularz rejestracyjny](img/register-old.jpg "Formularz rejestracyjny")
-
+1. Po [zainstalowaniu](/wiki/Installation) i otworzeniu gry, osu! poprosi cię o zalogowanie się lub utworzenie nowego konta. Naciśnij przycisk `Utwórz konto`.
+   ![Formularz rejestracyjny w grze](img/ingame-registration.jpg "Formularz rejestracyjny")
 2. Wypełnij wszystkie pola w formularzu.
    - W polu `Username` wprowadź nazwę użytkownika. Może składać się z maksymalnie 15 znaków, z których dozwolone są tylko: znaki alfanumeryczne (`a-z`, `A-Z`, `0-9`), znaki podkreślenia (`_`), nawiasy kwadratowe, (`[` i `]`), myślniki (`-`) oraz spacje (` `).
-   - W polu `Email Address` wprowadź swój aktywny adres e-mail. Będzie on potrzebny do zresetowania hasła i uzyskiwania kodów weryfikacyjnych, dlatego upewnij się, że będziesz mieć do niego stały dostęp. Nie używaj tymczasowego adresu e-mail.
+   - W polu `Email Address` wprowadź swój aktywny adres e-mail. Będzie on potrzebny do zresetowania hasła i uzyskiwania kodów weryfikacyjnych, dlatego upewnij się, że masz do niego stały dostęp. Nie używaj tymczasowego adresu e-mail.
    - W polu `Password` wprowadź hasło o długości co najmniej 8 znaków.
-3. Po wykonaniu tych czynności naciśnij przycisk `Continue` i wróć do okna z osu!.
-4. Zaloguj się, by zakończyć proces rejestracji.
+3. Po wykonaniu tych czynności naciśnij przycisk `1. Utwórz konto`, aby utworzyć nowe konto i automatycznie się zalogować.
 
 ## Co dalej?
 
 Nie zapomnij o dokładnym przeczytaniu [zasad](/wiki/Rules)!
 
-Teraz możesz rozpocząć swoją przgodę z osu!. Możesz zacząć [dodawać beatmapy](/wiki/Installation#adding-beatmapsets), [stworzyć własną skórkę](/wiki/Skinning) czy [stworzyć własną beatmapę](/wiki/Beatmapping). Nie zapomnij o [przywitaniu się](https://osu.ppy.sh/community/forums/8)!
+Teraz możesz rozpocząć swoją przgodę z osu!. Możesz zacząć [dodawać beatmapy](/wiki/Installation#dodawanie-zestawów-beatmap), [tworzyć własne skórki](/wiki/Skinning) i [beatmapy](/wiki/Beatmapping). Nie zapomnij o [przywitaniu się](https://osu.ppy.sh/community/forums/8)!
 
 Jeżeli potrzebujesz pomocy, możesz zadać pytanie na kanale `#help`. Aby się tam dostać, otwórz czat (naciśnij `F8` lub `F9`), a następnie wpisz `/join help`. Możesz także utworzyć nowy wątek w [podforum przeznaczonym dla pomocy](https://osu.ppy.sh/community/forums/5).
