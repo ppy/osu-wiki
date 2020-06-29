@@ -243,6 +243,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-06-19: Added [Bastian](https://osu.ppy.sh/users/6345176) to **Probationary BN**
 - 2020-06-22: Added [Garalulu](https://osu.ppy.sh/users/757783) to **Probationary BN**
 - 2020-06-22: Added [Muse Dash](https://osu.ppy.sh/users/13695676) to **Probationary BN**
+- 2020-06-29: Added [Garden](https://osu.ppy.sh/users/2849992) to **Probationary BN**
 
 #### Moves
 
@@ -267,4 +268,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-06-22: Removed [-Luminate](https://osu.ppy.sh/users/4778689) from **Probationary BN**
 - 2020-06-23: Removed [Unpredictable](https://osu.ppy.sh/users/7560872) from **BN**
 
-<!-- last update: 2020-06-28 6 UTC moved hoshikuz to probationary bn -->
+<!-- last update: 2020-06-29 9 UTC added garden to probationary bn -->
