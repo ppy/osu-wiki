@@ -53,7 +53,7 @@ Sekcje: ([Kompozycja](/wiki/Beatmap_Editor/Compose) • [Edytor scenorysu](/wiki
 
 # Grupy użytkowników
 
-[Zespół](/wiki/People/The_Team) • [Moderatorzy globalni](/wiki/People/Global_Moderation_Team) • [Zespół zapewniania jakości](/wiki/People/Nomination_Assessment_Team) • [Nominatorzy beatmap](/wiki/People/Beatmap_Nominators) • [Alumni osu!](/wiki/People/osu!_Alumni) • [Pomoc techniczna](/wiki/People/Support_Team)
+[Zespół](/wiki/People/The_Team) • [Moderatorzy globalni](/wiki/People/Global_Moderation_Team) • [Moderatorzy](/wiki/People/Language_Moderators) • [Zespół zapewniania jakości](/wiki/People/Nomination_Assessment_Team) • [Nominatorzy beatmap](/wiki/People/Beatmap_Nominators) • [Alumni osu!](/wiki/People/osu!_Alumni) • [Pomoc techniczna](/wiki/People/Support_Team)
 
 </div>
 </div>
