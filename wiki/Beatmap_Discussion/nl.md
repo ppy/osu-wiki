@@ -1,10 +1,8 @@
 ---
 tags:
-
 - beatmap discussions
 - modding V2
 - MV2
-
 ---
 
 # Beatmap-discussie

@@ -8,5 +8,3 @@ Disambiguatie in de osu! wiki is het verhelpen van vergissingen wanneer de titel
 - [Easy](Easy)
 - [EZ](EZ)
 - [Mod](Mod)
-
-

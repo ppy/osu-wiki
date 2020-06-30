@@ -6,5 +6,3 @@
 - [Spectaten](/wiki/Gameplay/Spectate)
   
   <!-- TODO: category needs some fleshing out and this index probably shouldn't be empty -->
-
-

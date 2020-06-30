@@ -1,8 +1,3 @@
----
-
-needs_cleanup: true
----
-
 <!-- TODO: shouldn't be written from peppy's perspective. it could probably be converted into a general "who should you contact" page -->
 
 # Wil je het echt aan peppy vragen?

@@ -1,9 +1,6 @@
 ---
-
 tags:
-
 - development
-
 ---
 
 # osu!dev Discord server

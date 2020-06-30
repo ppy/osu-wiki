@@ -1,10 +1,7 @@
 ---
-
 tags:
-
 - spectating
 - spectator
-
 ---
 
 # Spectaten
