@@ -95,7 +95,7 @@ Saturday, 4 July 2020:
 | W7 | awan fanclub | terserah | **20:00** |
 | L11 | Press 3 Fs to pay respects | WHOMEGALUL | **21:00** |
 
-Sunday, 5 Jyly 2020:
+Sunday, 5 July 2020:
 
 | Match ID | Team 1 | Team 2 | Match time (UTC+7) |
 | :-: | --: | :-- | :-- |
