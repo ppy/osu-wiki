@@ -128,7 +128,7 @@ An example of a map which culminates this is their rendition of [Sta - 99 Glooms
 
 ## <a id="mapping-contests"></a>Mapping Contests
 
-Get your editor ready. The mapping contests are here! Whether you are a veteran or making your first steps in mapping, contests are for everyone! In this section you can see what contests have been held in May or are ongoing!
+Get your editor ready. The mapping contests are here! Whether you are a veteran or making your first steps in mapping, contests are for everyone! In this section you can see what contests have been held in May and June or are ongoing!
 
 ### Monthly Beatmapping Contests
 
