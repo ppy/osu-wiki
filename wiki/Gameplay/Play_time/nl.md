@@ -1,8 +1,8 @@
 ---
 tags:
-- length
-- playtime
-- total length
+  - length
+  - playtime
+  - total length
 ---
 
 # Speelduur

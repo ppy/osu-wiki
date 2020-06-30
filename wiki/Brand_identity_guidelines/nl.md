@@ -1,6 +1,7 @@
 # Merkidentiteitsrichtlijnen
 
 De merkidentiteitsrichtlijnen zijn een aantal standaarden voor het merkgeven van osu!-gerelateerde projecten. Er is geen goedkeuring nodig voor eenderwelk gebruik.
+
 [Download de ontwerpkit hier.](https://drive.google.com/file/d/1TmUot5nu49p71icz4u3G68njLAQOeQrG/view?usp=sharing) Opmerking: sommige elementen uit de gelinkte ontwerpkit zijn verouderd. Ook de bijgevoegde PDF is verouderd: in plaats daarvan moet dit artikel gebruikt worden.
 
 ## osu! logo in cookie-stijl
@@ -12,14 +13,16 @@ De merkidentiteitsrichtlijnen zijn een aantal standaarden voor het merkgeven van
 ![](img/usage-single-colour.png)
 
 Dit is de eenkleurige versie van het osu! cookie logo. Deze versie van het logo is heel flexibel en kan aangepast worden aan verschillende ontwerpstijlen.
-Gebruik het originele bestand als basis, en maak het logo niet zelf vanaf nul. 
+
+Gebruik het originele bestand als basis, en maak het logo niet zelf vanaf nul.
 
 #### Volledige kleuren
 
 ![](img/usage-full-colour.png)
 
 Dit is het osu! cookie in volledige kleuren. De subtiele slagschaduw maakt deel uit van het logo in volledige kleuren.
-Gelieve het logo te gebruiken zoals voorzien in de ontwerpkit zonder enige wijziging. 
+
+Gelieve het logo te gebruiken zoals voorzien in de ontwerpkit zonder enige wijziging.
 
 ### Witruimte
 
@@ -30,12 +33,13 @@ Geef het osu! logo wat ademruimte. Gebruik de "o" in "osu!" om de grootte van de
 ### Beperkingen op cookie-gebruik in enkele kleur
 
 Omdat osu! wordt gedreven door de community, werd het osu! cookie logo ontworpen om simpel en flexibel te zijn; het kan makkelijk aangepast worden aan verschillende ontwerpen. Er is geen beperking op welke kleur er voor het cookie gebruikt wordt.
+
 ![](img/restrictions-good-single.png)
 
 - Het cookie moet altijd scherp zijn.
 - Je mag eenderwelke kleur gebruiken voor het cookie.
 - Je mag een lineare kleurengradiënt gebruiken. Radiale gradiënten zijn niet aanbevolen aangezien het middelste element en de ring dan in totaal verschillende kleuren kunnen worden weergegeven.
-- Je mag een illustratie maskeren om als kleur voor het cookie te gebruiken, maar er moet wel altijd een goed contrast met de achtergrond behouden worden. 
+- Je mag een illustratie maskeren om als kleur voor het cookie te gebruiken, maar er moet wel altijd een goed contrast met de achtergrond behouden worden.
 
 ---
 
@@ -57,8 +61,9 @@ Omdat osu! wordt gedreven door de community, werd het osu! cookie logo ontworpen
 ### Beperkingen op cookie-gebruik in volledige kleuren
 
 Omdat osu! wordt gedreven door de community, werd het osu! cookie logo ontworpen om simpel en flexibel te zijn; het kan makkelijk aangepast worden aan verschillende ontwerpen. Gebruik dit logo zoals het is, zonder enige aanpassing. Alle beperkingen op het cookie-gebruik in enkele kleur zijn hier ook van toepassing.
-  ![](img/restrictions-bad-full.png)
-  
+
+![](img/restrictions-bad-full.png)
+
 - Gebruik het oude cookie **niet**.
 - Gebruik **geen** andere roze tint.
 - Gebruik **geen** gradiënt op het cookie in volledige kleuren.

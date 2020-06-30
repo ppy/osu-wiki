@@ -12,7 +12,7 @@ Als de beatmap die een gebruiker wilt uploaden nog niet op de osu! website staat
 
 ![](img/bss_submitting.png "Beatmap Submission System uploading screen")
 
-Door op de `Upload NIEUWE Beatmap!` of `Update Beatmap!`-knop te klikken zal een gebruiker de keuze krijgen om de beatmap naar de `Work In Progress (In Uitvoering)/Help` of `Pending (In Afwachting)`-categorie te uploaden. WIP beatmaps (beatmaps in uitvoering) kunnen niet genomineerd worden om Ranked te worden, terwijl Pending beatmaps (beatmaps in afwachting) dat wel kunnen. 
+Door op de `Upload NIEUWE Beatmap!` of `Update Beatmap!`-knop te klikken zal een gebruiker de keuze krijgen om de beatmap naar de `Work In Progress (In Uitvoering)/Help` of `Pending (In Afwachting)`-categorie te uploaden. WIP beatmaps (beatmaps in uitvoering) kunnen niet genomineerd worden om Ranked te worden, terwijl Pending beatmaps (beatmaps in afwachting) dat wel kunnen.
 
 <!-- The translations surrounded by grave marks starting here might be wrong since I cannot verify them in BSS without uploading a map. -->
 
@@ -24,7 +24,7 @@ Twee keuzevakjes verschijnen aan de onderkant van het venster. Het eerste is `On
 
 ## Limitaties
 
-Beatmaps zullen niet ingezonden kunnen worden als ze de online bestandgrootte- of moeilijkheidsgraadlimiet overschrijden. De bestandgroottelimiet is 5MB plus nog eens 10MB voor elke minuut beatmaplengte, tot maximum 100MB. De moeilijkheidsgraadlimiet is momenteel 128. 
+Beatmaps zullen niet ingezonden kunnen worden als ze de online bestandgrootte- of moeilijkheidsgraadlimiet overschrijden. De bestandgroottelimiet is 5MB plus nog eens 10MB voor elke minuut beatmaplengte, tot maximum 100MB. De moeilijkheidsgraadlimiet is momenteel 128.
 
 Gebruikers mogen slechts een beperkt aantal Pending beatmaps (beatmaps in afwachting) hebben. De limiet varieert afhankelijk van hoeveel Ranked beatmaps een gebruiker heeft en of de gebruiker al dan niet een [osu!supporter](/wiki/osu!supporter) is. Gebruikers zonder osu!supporter kunnen 4 Pending beatmaps (beatmaps in afwachting) hebben plus 1 per Ranked beatmap (maximum 2). Met osu!supporter verhoogt deze limiet tot 8 Pending beatmaps (beatmaps in afwachting) plus 1 per Ranked beatmap (maximum 12) voor een totaal van 20.
 

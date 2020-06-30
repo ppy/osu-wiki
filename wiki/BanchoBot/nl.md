@@ -8,7 +8,7 @@ BanchoBot is een bot (d.w.z. een verzameling van opdrachten met geautomatiseerde
 
 *Voor een lijst van in-game clientopdrachten, zie: [Chatconsole](/wiki/Chat_Console#commands-list)*
 
-BanchoBot-opdrachten beginnen met `!` gevolgd door de opdracht. Deze opdrachten werken in-game en in externe IRC clients. Ze kunnen gebruikt worden in multiplayer chatkanalen en in BanchoBots PM (privébericht)-kanaal. Als een gewone gebruiker een BanchoBot-opdracht in een publiek chatkanaal verstuurt zullen andere gebruikers dit niet zien, maar het antwoord van BanchoBot zal in een privébericht van hem naar je worden gestuurd. 
+BanchoBot-opdrachten beginnen met `!` gevolgd door de opdracht. Deze opdrachten werken in-game en in externe IRC clients. Ze kunnen gebruikt worden in multiplayer chatkanalen en in BanchoBots PM (privébericht)-kanaal. Als een gewone gebruiker een BanchoBot-opdracht in een publiek chatkanaal verstuurt zullen andere gebruikers dit niet zien, maar het antwoord van BanchoBot zal in een privébericht van hem naar je worden gestuurd.
 
 Je kan ook de `/bb` in-game client opdracht gebruiken om automatisch een gesprek met BanchoBot te starten zodat je jouw opdracht meteen kan versturen.
 
@@ -45,7 +45,7 @@ BanchoBot: ROLL <number> - roll a dice and get random result from 1 to number(de
 !ROLL <getal>
 ```
 
-Geeft een willekeurig cijfer van 1 tot het geselecteerde getal (standaard 100). 
+Geeft een willekeurig cijfer van 1 tot het geselecteerde getal (standaard 100).
 
 #### Gebruiksvoorbeeld
 
@@ -60,7 +60,7 @@ BanchoBot: pippi rolls 109 point(s)
 !STATS <gebruiker>
 ```
 
-Toont de statistieken van de gekozen gebruiker. Het resultaat hangt of van de spelmodus die de gebruiker nu aan het spelen is of als laatste speelde. 
+Toont de statistieken van de gekozen gebruiker. Het resultaat hangt of van de spelmodus die de gebruiker nu aan het spelen is of als laatste speelde.
 
 *Opmerking: BanchoBot vertelt je niet uit welke spelmodus de statistieken afkomstig zijn.*
 
@@ -108,7 +108,7 @@ BanchoBot: Ephemeral is in Australia
 !FAQ list
 ```
 
-Toont een mededeling die gekoppeld is aan de invoer. Je kan het `list`-argument gebruiken om alle beschikbare invoeren te tonen. Wanneer een moderator dit in een publiek chatkanaal gebruikt zal het antwoord ook in dat kanaal worden weergegeven. Als normale gebruikers deze opdracht in een publiek chatkanaal gebruiken zal BanchoBot antwoorden via een PM. 
+Toont een mededeling die gekoppeld is aan de invoer. Je kan het `list`-argument gebruiken om alle beschikbare invoeren te tonen. Wanneer een moderator dit in een publiek chatkanaal gebruikt zal het antwoord ook in dat kanaal worden weergegeven. Als normale gebruikers deze opdracht in een publiek chatkanaal gebruiken zal BanchoBot antwoorden via een PM.
 
 #### Gebruiksvoorbeeld
 

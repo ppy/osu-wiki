@@ -2,11 +2,11 @@
 
 # Wil je het echt aan peppy vragen?
 
-Hallo. Ik ([peppy](https://osu.ppy.sh/users/2)) snap jouw drang om mij persoonlijk te contacteren, maar ik vraag je eerst te begrijpen dat het hier **niet** op zijn plaats is om mij om hulp of ondersteuning te vragen. Ik houd osu! ondersteuning gescheiden van persoonlijke berichten, en alle forum PMs beantwoorden is voor mij nogal moeilijk. Ik vraag je daarom om één van deze opties te gebruiken: 
+Hallo. Ik ([peppy](https://osu.ppy.sh/users/2)) snap jouw drang om mij persoonlijk te contacteren, maar ik vraag je eerst te begrijpen dat het hier **niet** op zijn plaats is om mij om hulp of ondersteuning te vragen. Ik houd osu! ondersteuning gescheiden van persoonlijke berichten, en alle forum PMs beantwoorden is voor mij nogal moeilijk. Ik vraag je daarom om één van deze opties te gebruiken:
 
 ## Technische ondersteuning
 
-De meeste technische problemen kunnen opgelost worden door het [Help forum](https://osu.ppy.sh/community/forums/5) te doorzoeken of hier te posten. Er zijn vele anderen die je kunnen helpen met jouw probleem, dus je zal ook sneller antwoord krijgen dan wanneer je mij contacteert. 
+De meeste technische problemen kunnen opgelost worden door het [Help forum](https://osu.ppy.sh/community/forums/5) te doorzoeken of hier te posten. Er zijn vele anderen die je kunnen helpen met jouw probleem, dus je zal ook sneller antwoord krijgen dan wanneer je mij contacteert.
 
 ## Algemene osu! ondersteuning
 
