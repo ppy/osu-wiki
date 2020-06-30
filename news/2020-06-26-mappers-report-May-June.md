@@ -61,7 +61,7 @@ For osu!mania:
 
 ## <a id="within-bn-nat"></a>Within the Beatmap Nominators and NAT
 
-The Beatmap Nominators never rest, the Beatmap Nominators never sleep. Just kidding, of course they do, they are still humans. However, the group size is always changing! New are coming, old are going. This month was no exception!
+The Beatmap Nominators never rest, the Beatmap Nominators never sleep. Just kidding, of course they do, they are humans too. However, the group line-up is always changing! New people are coming, old are going away. This month was no exception!
 
 ### BN Additions
 
@@ -81,7 +81,7 @@ Do you want to see your own name on that list too? And do you like modding and h
 
 ### BN and QAT/NAT Badges
 
-Recently a new wave of badges acknowledging the length of time members have put into teams for managing ranked! Those who are on this list have been contributing to the community in so many ways during their time on osu!, and fully deserve this acknowledgement. We thank them all for their contribution so far and hope to see much more of them in the future! Here is the list of those:
+Recently a new wave of badges acknowledging the time which group members have put into beatmap management teams! Those who are on this list have been contributing to the community in so many ways during their time on osu!, and fully deserve this acknowledgement. We are thankful for all their contributions and hope to see much more in the future! Here is the list of the awarded users:
 
 - **BN 1 Year Badge:** [incandescence](https://osu.ppy.sh/users/6256027), [Kaitjuh](https://osu.ppy.sh/users/2225327), [Unpredictable](https://osu.ppy.sh/users/7560872), [Nuvolina](https://osu.ppy.sh/users/10974170) & [Dored](https://osu.ppy.sh/users/10284894)
 - **BN 2 Year Badge:** [JBHyperion](https://osu.ppy.sh/users/4879508), [Nevo](https://osu.ppy.sh/users/7451883), [Mordred](https://osu.ppy.sh/users/7265097), [bossandy](https://osu.ppy.sh/users/360437) & [Namki](https://osu.ppy.sh/users/5248582)
@@ -94,23 +94,23 @@ Recently a new wave of badges acknowledging the length of time members have put 
 ## <a id="mappers-showcase"></a>Mappers' Showcase
 
 The Mappers' Showcase parades lesser-known mappers from every game mode. Since we bundled two issues in one post, this month will feature two game modes. 
-Thanks to our selector for osu!catch [Jemzuu](https://osu.ppy.sh/users/7890134) and our selectors for osu!mania [Scotty](https://osu.ppy.sh/users/11085809) & [Unpredictable](https://osu.ppy.sh/users/7560872)!
+Thanks to [Jemzuu](https://osu.ppy.sh/users/7890134) for the osu!catch selections and [Scotty](https://osu.ppy.sh/users/11085809) & [Unpredictable](https://osu.ppy.sh/users/7560872) for the osu!mania selections!
 
 ### Phob (osu!catch)
 
-Recently entering their way in the gates of the ranked section, **[Phob](https://osu.ppy.sh/users/6069462)** is a newer mapper that is currently having a decent breakout year so far! Although he's more known for being a skillful Hidden player, his mapping definitely deserves more recognition! He crafts his maps with brilliant relevance to the music showing such coherence in patterning, proving that he clearly knows what he's doing!
+Having recently entered their way in the gates of the ranked section, **[Phob](https://osu.ppy.sh/users/6069462)** is a new mapper that is currently having a decent breakout year so far! Although he's more known for being a skilled Hidden player, his mapping definitely deserves more recognition! He crafts his maps with brilliant relevance to the music showing such coherence in patterning, proving he clearly knows what he's doing!
 
-His take on [Feint - Snake Eyes (feat, CoMa)](https://osu.ppy.sh/beatmapsets/1034056#fruits/2162020) exemplifies the mapping spirit of clean and consistency-based maps, as throughout his difficulties, they were made of superb quality. For a relatively newer mapper, this set was surely impressive! Moreover, his breakcore map, [Lolipusher - why as soon as we become so close, we have to say goodbye?](https://osu.ppy.sh/beatmapsets/1135515#fruits/2437918) manifests that Phob can still stand out regardless of the song's complexity and genre, while still maintaining the players' interest through his solid patterning!
+His take on [Feint - Snake Eyes (feat. CoMa)](https://osu.ppy.sh/beatmapsets/1034056#fruits/2162020) exemplifies the mapping spirit of clean and consistency-based maps, as throughout his difficulties, they were made of superb quality. For a relatively new mapper, this set is surely impressive! Moreover, his breakcore map, [Lolipusher - why as soon as we become so close, we have to say goodbye?](https://osu.ppy.sh/beatmapsets/1135515#fruits/2437918) manifests that Phob can still stand out regardless of song's complexity and genre, while still maintaining players' interest through solid patterning!
 
-He also tends to favor mapping lower difficulties, especially Salads, so he is certainly a mapper that is in good shape! We are definitely going to watch out for his future works, as he is a very promising mapper! If novice mappers are looking for an inspiration, Phob would be a great example!
+Phob also tends to favor mapping lower difficulties, especially Salads, so he is certainly a mapper in good shape! We are definitely going to look forward to his future works, as he is a very promising mapper! If novice mappers are looking for an inspiration, Phob is definitely a great example!
 
 ### dika312 (osu!catch)
 
-A long-term mapper that has been crafting maps for almost 5 years, **[dika312](https://osu.ppy.sh/users/741613)** is someone that strives for an intuitive yet a very interesting mapping style that would keep you on the edge of your seat! Despite his long mapping experience, none of dika's works has reached the ranked section (yet!), and most of his maps are sadly gone unnoticed.
+A long-term mapper that has been crafting maps for almost 5 years, **[dika312](https://osu.ppy.sh/users/741613)** is someone that strives for an intuitive yet a very interesting mapping style that will keep you on the edge of your seat! Despite his long mapping experience, none of dika's works has reached the ranked section (yet!), and most of his maps are sadly unnoticed by the public.
 
-A diamond in the rough are his maps such as [Kikuo - Neko no Shokutaku](https://osu.ppy.sh/beatmapsets/839016#fruits/1756467), where he demonstrated his virtuosity in movement and exquisite patterning to create a gratifying piece of art on such a lovely song. Another solid example would be his rendition of [MALVA. - Trane](https://osu.ppy.sh/beatmapsets/1010141#fruits/2114540), wherein he showed his proficiency in varying platter-motion once again — making use of diverse flow and patterns, leaving a pleasurable experience and taste for mappers and players alike.
+A diamond in the rough are his maps such as [Kikuo - Neko no Shokutaku](https://osu.ppy.sh/beatmapsets/839016#fruits/1756467), in which he has demonstrated his virtuosity in movement and exquisite patterning to create a gratifying piece of art from such a lovely song. Another solid example would be his rendition of [MALVA. - Trane](https://osu.ppy.sh/beatmapsets/1010141#fruits/2114540), wherein he has shown his proficiency in varying platter-motion once again — making use of diverse flow and patterns, leaving a pleasurable experience and taste for both mappers and players.
 
-Other of his great works that is worth mentioning would be his take on [KikuoHana - Nobore! Susume! Takai Tou](https://osu.ppy.sh/beatmapsets/545757#fruits/2084234), showcasing exceptional progression in style as the song intensifies, along with fine contrast in calmer sections. We hope to see more of dika's maps, and hopefully he can bear us good fruit in the ranked section someday!
+Another of his great works that is worth mentioning would be his take on [KikuoHana - Nobore! Susume! Takai Tou](https://osu.ppy.sh/beatmapsets/545757#fruits/2084234), showcasing exceptional progression in style as the song intensifies, along with fine contrast in calmer sections. We hope to see more of dika's maps, and hopefully he can bear us good fruit in the ranked section someday!
 
 ### BringoBrango (osu!mania)
 
