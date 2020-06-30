@@ -70,6 +70,8 @@ The Beatmap Nominators never rest, the Beatmap Nominators never sleep. Just kidd
 - **osu!catch:** [Baron](https://osu.ppy.sh/users/10286499), [Secre](https://osu.ppy.sh/users/2306637) & [Bastian](https://osu.ppy.sh/users/6345176)
 - **osu!mania:** [Kyousukee](https://osu.ppy.sh/users/8842107), [Shima Rin](https://osu.ppy.sh/users/6089608), [Garalulu](https://osu.ppy.sh/users/757783) & [Muse Dash](https://osu.ppy.sh/users/13695676)
 
+Do you want to see your own name on that list too? And do you like modding and helping other people with their beatmaps? Then become a Beatmap Nominator! The applications are always open. Head over to the [Beatmap Nominator website](https://bn.mappersguild.com/) and apply today!
+
 ### BN Resignations
 
 - **osu!:** [Affirmation](https://osu.ppy.sh/users/6186628)
@@ -144,6 +146,12 @@ The [osu! Mapping Olympiad](https://osu.ppy.sh/home/news/2020-06-06-osu-mapping-
 Luring all mappers out there with Olympiad points for the top 3, which awards the Mapping Olympiad badge, and for the winner an unique user title, the "Elite Mapper"!
 
 Do you have what it takes to be the next "Elite Mapper"? Then jump right into it, grab one of the pre-timed .osz and start to map! We're excited to see all the mania maps!
+
+### Aspirve V
+
+The Category Stage Voting of the Asprive V mapping contest is currently open! Out of all submissions, 9 unique categories were created with each having 5 hand picked beatmaps. Make sure to check all of them out and vote for your favorite. You can find the categories, links to the voting pages and downloads in the [Aspire V - Category Stage Voting](https://osu.ppy.sh/home/news/2020-06-22-aspire-v-category-stage-voting) newspost.
+
+But make sure to hurry, only roughly a week is left! 
 
 ### 2020 osu!catch Mapping World Cup
 
