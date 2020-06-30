@@ -1,6 +1,7 @@
 ---
 tags:
   - FA
+no_native_review: true
 ---
 
 # Artis unggulan
