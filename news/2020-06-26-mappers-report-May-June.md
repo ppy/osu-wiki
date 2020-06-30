@@ -4,7 +4,7 @@ title: "The Mappers' Report: May/June"
 date: 2020-06-30 12:00:00 +0000
 ---
 
-Have you missed us? I bet you did! Sorry for the wait but here we are again, the fourth and fifth issue of the Mappers' Report in one post! Full with news and happenings all over the mapping community in osu! Did your favorite mapper win a contest? Or did the long awaited ranking criteria change finally happen? — Jump right in and find out!
+Did you miss us? I bet you did! Sorry for the wait, but here we are again, the fourth and fifth issue of the Mappers' Report in one post! Packed with news and happenings all over the mapping community in osu!. Did your favorite mapper win a contest? Or did the long awaited Ranking Criteria change finally happen? Jump right in and find out!
 
 ![](/wiki/shared/news/banners/the-mappers-report.jpg)
 
@@ -19,32 +19,32 @@ This month's issue of the Mappers' Report contains following topics:
 
 ## <a id="rc-changes"></a>Ranking Criteria Changes
 
-As every month we keep you up to date with what happened in the Ranking Criteria. All rule and guideline changes are listed below and in addition you can see open proposals to give your feedback to them!
+As every month we keep you up to date with the changes in the Ranking Criteria. All rule and guideline changes are listed below and in addition you can see open proposals to give your feedback!
 
 ### All Modes
 
-- **[Remove glossaries from RC pages](https://osu.ppy.sh/community/forums/topics/1064466)**: The content of the glossaries will be put into individual wiki pages! This happened already for the general Ranking Criteria and the osu! Ranking Criteria. The others will follow soon!
-- **[Allow .ogg files as a main audio source](https://osu.ppy.sh/community/forums/topics/1021547)**: Always struggle with your map getting uploaded because of too large file size? Then we have good news! You may now use .ogg for the song audio to save some file size! Note that this still must follow the regular kbit/s rules!
+- **[Remove glossaries from RC pages](https://osu.ppy.sh/community/forums/topics/1064466)**: The content of the glossaries will be put into seperate wiki articles! This has already happened for the general Ranking Criteria and the osu! Ranking Criteria. The others will follow soon!
+- **[Allow .ogg files as a main audio source](https://osu.ppy.sh/community/forums/topics/1021547)**: Always struggle with getting your map uploaded, because of too large file size? Then we have good news! You can now use .ogg audio files to save some space! Note that they still have to follow the regular kbit/s rules!
 
 ### osu!
 
-- **[Intuitive Reverse Arrow Movement](https://osu.ppy.sh/community/forums/topics/1033709?start=unread):** Reverse Arrows must now point into the direction in which the slider ball will move after hitting it.
-- **[Restrictions on "accelerating" sliders](https://osu.ppy.sh/community/forums/topics/1060629?n=1):** A small clarification that the slider path must always be visible.
-- **[Circle size](https://osu.ppy.sh/community/forums/topics/1082308):** You asked, here it is! It's been a long time since there was a ranked map with a higher circle size than 7, now we will hopefully see some more coming soon! 
+- **[Intuitive Reverse Arrow Movement](https://osu.ppy.sh/community/forums/topics/1033709?start=unread):** Reverse Arrows now have to point into the direction in which the slider ball moves after hitting it.
+- **[Restrictions on "accelerating" sliders](https://osu.ppy.sh/community/forums/topics/1060629?n=1):** A small clarification that the slider path has to be always visible.
+- **[Circle size](https://osu.ppy.sh/community/forums/topics/1082308):** You asked for it and here it is! It's been a long time, since there was a ranked map with a circle size higher than 7. Now we will hopefully see some more coming soon! 
 
 ### osu!catch
 
-- **[Dashes and higher-snapped dashes on Rain's](https://osu.ppy.sh/community/forums/topics/1033696):** The RC change defined the allowed snap for dashes on Rain difficulties. This clarifies the definition of a higher-snapped dashes which was a problem for almost half a year.
+- **[Dashes and higher-snapped dashes on Rain's](https://osu.ppy.sh/community/forums/topics/1033696):** This RC change defines the allowed snap for dashes on Rain difficulties. It also clarifies the definition of a higher-snapped dashes which was a problem for almost half a year.
 
 ### osu!mania
 
-- **[Chord usage at 1/4 pattern in normal difficulties](https://osu.ppy.sh/community/forums/topics/1079778):** This change will allow to use chords as well at the beginning of 1/4 pattern in Normal and 1/2 pattern in Easy difficulties. Was only to end a pattern before this change.
+- **[Chord usage at 1/4 pattern in normal difficulties](https://osu.ppy.sh/community/forums/topics/1079778):** This change allows the usage of chords at the beginning of 1/4 patterns in Normal and 1/2 patterns in Easy difficulties. Before, you could only use chords to end a pattern.
 
 ## Open Ranking Criteria Proposals
 
-There are various open Ranking Criteria proposal in the [forum](https://osu.ppy.sh/community/forums/87). Many of them are listed in the last issue of the [Mappers' Report](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april#rc-changes), but we also got some new one which you can find below!
+There are various open Ranking Criteria proposals in the [forum](https://osu.ppy.sh/community/forums/87). Many of them are listed in the last issue of the [Mappers' Report](https://osu.ppy.sh/home/news/2020-05-11-mappers-report-april#rc-changes), but we also have some new ones which you can find below!
 
-For all Modes:
+For all modes:
 
 - **[Discussion to fix Vetoes](https://osu.ppy.sh/community/forums/topics/1068618)**
 - **[Increase average bitrate limitation from 192kbs to 320kbs](https://osu.ppy.sh/community/forums/topics/1072965)**
