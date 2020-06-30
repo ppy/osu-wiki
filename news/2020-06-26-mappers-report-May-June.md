@@ -70,7 +70,7 @@ The Beatmap Nominators never rest, the Beatmap Nominators never sleep. Just kidd
 - **osu!catch:** [Baron](https://osu.ppy.sh/users/10286499), [Secre](https://osu.ppy.sh/users/2306637) & [Bastian](https://osu.ppy.sh/users/6345176)
 - **osu!mania:** [Kyousukee](https://osu.ppy.sh/users/8842107), [Shima Rin](https://osu.ppy.sh/users/6089608), [Garalulu](https://osu.ppy.sh/users/757783) & [Muse Dash](https://osu.ppy.sh/users/13695676)
 
-Do you want to see your own name on that list too? And do you like modding and helping other people with their beatmaps? Then become a Beatmap Nominator! The applications are always open. Head over to the [Beatmap Nominator website](https://bn.mappersguild.com/) and apply today!
+Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of those questions is "yes", then you can also become a Beatmap Nominator! The applications are always open. Head over to the [Beatmap Nominator website](https://bn.mappersguild.com/) and apply today!
 
 ### BN Resignations
 
