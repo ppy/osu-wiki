@@ -10,7 +10,7 @@ This is the background image in the main menu.
 **This part is only loaded/available for [osu!supporter](/wiki/osu!supporter).**
 You will also see it in beatmaps without backgrounds, multiplayer lobby, multiplayer match background and osu!direct background.
 
-This is the only skin element that must be in `JPG` format. You can easily change it by just dragging a picture and dropping it in main menu window, it will create/replace menu-background in you current skin. If you have created picture of size 1366x768, it will be cut from left side at lower width resolutions.
+This is the only skin element that must be in `JPG` format. You can easily change it by just dragging a picture and dropping it in main menu window, it will create/replace menu-background in you current skin. If you are using a picture that is 1366x768, it will be cut from left side at lower width resolutions.
 
 ![Menu Background of the default osu! skin](img/menubackground_default.jpg)
 *Default skin*
@@ -19,6 +19,7 @@ This is the only skin element that must be in `JPG` format. You can easily chang
 
 Since December 2014, osu! was given snow.
 By default, the osu!client will always use the active mode's icon as the snow.
+By default, the small mode select icons are used for the default snow image(s), if a `menu-snow.png` image wasn't given.
 
 ![Snow in the default osu! skin](img/snow_default.jpg)
 *Default skin*
@@ -151,10 +152,11 @@ Also used by kiai fountain and appears together with comboburst.
 
 ### Mode select
 
-These are the icons that tells the user what game mode they are currently using.
-By default, the small icons are used for the default snow image(s), if a `menu-snow.png` image wasn't given.
+These are the icons that tells the user what game mode they are currently using. 
+These are used in the mode select and shown in the background of the beatmap selection screen.
 
-<!-- TODO images -->
+![Mode select icons in the default osu! skin](img/modeselect_default.jpg)
+*Default skin*
 
 ### Mod icons
 
@@ -197,7 +199,7 @@ Do note that skins version 2.0+ still supports skin version 1.0 style of scoreba
 
 ### Countdown
 
-A countdown can be a part of some maps. It gives a warning to prepare for playing map.
+A countdown can be a part of some maps. It gives a warning to prepare for playing the map.
 
 It is important to note that skinning versions 1.0 and 2.0+ use different styles when displaying the countdown (look at examples below).
 
@@ -206,36 +208,29 @@ It is important to note that skinning versions 1.0 and 2.0+ use different styles
 You are not restricted by the width of count pictures, but height should always be 768px.
 Here's how positioning of counts works:
 
-![](fs/countdown-v1_ex0.png)
-
 - Count 3 - Anchor position at top left side. Left side of picture will start here.
 - Count 2 - Anchor position at top right side. Right side of picture will start here.
 - Count 1 - Anchor position at centre of screen. Centre of your picture will be here.
 
-With this you are able to create many different countdowns.
-But you need to remember about how they are layered.
+With this you are able to create many different countdowns, but you need to remember about how they are layered.
 Count 3 is always on top, count 2 is behind and count 1 is underneath them.
 So it's kinda impossible to make stacked countdowns (you know numbers that appears on previous one).
 
-It is also important to note that this version was intended for 4:3 ratio aspects. Widescreen ratio aspects will not add pillarboxes.
-
-[![](pr/countdown-v1_0.gif "Click to view full size")](fs/countdown-v1_0.gif)
-*Default skin (v1.0)*
+It is also important to note that this version was intended for the 4:3 aspect ratio. Widescreen aspect ratios will not add pillarboxes.
 
 **For skinning versions 2.0+**
 
 All counts are anchored from the center and are placed on the center of the playfield.
 There are no size restrictions, so you can try to make something different than default "Go" and "Are you ready?".
 
-[![](pr/countdown-v2_0.gif "Click to view full size")](fs/countdown-v2_0.gif)
-*Default skin (v2.0+)*
+![Countdown in the default osu! skin](img/countdown_default.gif)
+*Default skin*
 
 ### Pause Screen
 
 Skinning a pause screen is quite easy.
-Only few elements are used and they are widescreen compatible.
-So, let's begin with the backgrounds.
-For the pause screen you need to skin a pause-overlay and will be scaled to the full screen it is smaller.
+Only a few elements are used and they are widescreen compatible.
+For the pause screen you will need to skin a pause-overlay and it will be scaled to the full screen it is smaller.
 The default skin doesn't have backgrounds for these screens.
 
 The buttons are pause-continue, pause-retry, pause-back.
@@ -252,7 +247,7 @@ These aren't restricted by size and their clickable area is the resolution of th
 #### Fail Screen
 
 The failed screen is very similar to the pause screen.
-A notable difference is that it only uses the pause-retry, pause-back buttons (does not use pause-continue) and uses the fail-background image instead.
+A notable difference is that it uses the fail-background image instead and it only uses the pause-retry and pause-back buttons (does not use pause-continue). 
 
 **Just like the pause screen, the position of the warning arrows do not change.**
 
@@ -264,13 +259,13 @@ A notable difference is that it only uses the pause-retry, pause-back buttons (d
 
 ### Score numbers
 
-These are the numbers used for score (and by default, for your current combo).
+These are the numbers used for score (and by default, your current combo).
 You should try to make these as large as the template numbers sizes.
 
-If they are too small, they may be hard to see, if too large, they will be distracting and may look ugly.
-Remember that the score numbers also shown in ranking screen, so making them large will complicate creating the ranking panel.
+If they are too small, they may be hard to see. If they are too large, they will be distracting and may look ugly.
+Remember that the score numbers are also shown in the ranking screen, so making them large will complicate creating the ranking panel.
 
-If it appears that your score numbers are too far apart or too cramped closely together,
+If it seems that your score numbers are too far apart or too cramped closely together,
 you can use `ScoreOverlap` in the [skin.ini](/wiki/Skinning/Skin.ini/en.md) under the Fonts section.
 Note that positive integers will move the numbers closer towards each other, while negative values will move them farther apart.
 
@@ -287,15 +282,15 @@ not the combo numbers (assuming you only modify the score numbers, the combo num
 
 #### Score comma
 
-The usage of `score-comma.png` depends on the region your PC is from.
+The usage of `score-comma.png` depends on the region the computer is set to.
 Most countries uses a dot to display decimal values (73**.**92%).
 While in other countries (such as those in Europe) may use a comma to display decimal values (73**,**92%).
 
-To also note, by default, every song will ALWAYS start with `0.00%` (with dot) in ALL regions.
-However, after the first note is hit, osu! will instantly change it (or keep it) depending on your region.
+To also note, by default, every song will always start with `0.00%` (with dot) in ALL regions.
+However, after the first note is hit, osu! will change it depending on your region.
 
-When you are using widescreen resolution, don't forget about people that play on 4:3 aspect ratio.
-If made too large of a scorebar, it might cover them.
+If you are using a widescreen resolution, don't forget about people that play on 4:3 aspect ratio.
+If the scorebar is made too big, it might overlap other elements and/or the play field.
 
 ### Combo numbers
 
@@ -317,7 +312,7 @@ To do this, change the `ComboPrefix` command (under the `[Fonts]` section) to th
   - Custom pathing could also be used here.
 
 Just like the default numbers and the score numbers, you can also use `ComboOverlap` to adjust the space between numbers.
-Where positive integers will move the numbers closer to each other, while negative integers will add more space between numbers.
+Positive integers will move the numbers closer to each other, while negative integers will add more space between numbers.
 
 ![Combo numbers in the default osu! skin](img/combonumbers_default.jpg)
 *Default skin*
@@ -335,18 +330,17 @@ These are the elements that display when playing a beatmap in any mode.
 
 #### Unranked
 
-This element is displayed when a certain game mod is enabled (auto/relax/coop/etc.).
+This element is displayed when the current play will be unranked. This happens when certain game mods are enabled (auto/relax/coop/score v2/etc.).
 
-As a sugguestion, make sure that this image still reads "unranked" to let the user know that the play is unranked.
+As a suggestion, make sure that this image still reads "unranked" to let the user know that the play is unranked.
 
 ![Unranked element in the default osu! skin](img/unranked_default.jpg)
 *Default skin*
 
 #### Skip
 
-The skip button is similar to menu-back with one exception, is not restricted by size.
-This button appears and is used to skip beginning of beatmaps with intros longer than ~5 seconds.
-This can be animated.
+The skip button is similar to menu-back with one exception, it is not restricted by size.
+This button appears (and is used to skip) when the beginning of the beatmap has an intro longer than 5 seconds. This can be animated.
 
 ![Skip button in the default osu! skin](img/skip_default.jpg)
 *Default skin*
@@ -358,7 +352,7 @@ This can be animated.
 
 ##### Warning Arrow
 
-The warning arrow appears at the end of section break (pass or fail), in pause menu - pointing at actually selected button (appears after pressing keyboard arrows), and while playing TAG in multiplayer - points to who's turn it is.
+The warning arrow appears at the end of section breaks (pass or fail), in the pause menu - pointing at selected button (appears after pressing keyboard arrows), and while playing TAG in multiplayer - points to who's turn it is.
 Remember, this image must point towards the right, because it will be reflected to make it point to the left!
 
 In skin version 1.0, the warningarrow stays untinted on the end of section breaks, while in the pause menu it is tinted blue.
@@ -399,8 +393,8 @@ This is the image that appears when you **pass** a section.
 Passing a section is determined whether if you have **more than 50%** of life (on the scorebar) before break.
 These don't have a size restriction, so feel free to make them bigger than the default!
 
-![](fs/passed_0.jpg)
-*(unknown)*
+![Section Passed in the default osu! skin](img/sectionpassed_default.jpg)
+*Default skin*
 
 #### Section Failed
 
@@ -408,16 +402,16 @@ This is the image that appears when you **fail** a section.
 Failing a section is determined whether if you have **less than 50%** of life (on the scorebar) before break.
 These don't have a size restriction, so feel free to make them bigger than the default!
 
-![](fs/failed_0.jpg)
-*(unknown)*
+![Section Failed in the default osu! skin](img/sectionfailed_default.jpg)
+*Default skin*
 
 #### Input Overlay
 
 The Input Overlay is displayed on the right-hand side of the play screen.
 This is only seen in the osu!standard and osu!catch modes.
-This shows how many times each keybinding has been pressed in the duration of that song.
+This shows how many times each keybinding has been pressed in the duration of that play.
 
-Note that this can be enabled/disabled in the [options](/wiki/Options)!
+Note that this is disabled by default, but can be enabled in the osu! [options](/wiki/Options)!
 
 ![Input overlay in the default osu! skin](img/inputoverlay_default.gif)
 *Default skin*
@@ -440,7 +434,7 @@ The input overlay comes in two parts:
 ### Ranking Screen
 
 The ranking screen is the last screen a player gets to see after finishing their play of a beatmap.
-There are many parts inside the ranking screen, so below is the brake-up of what the ranking screen is really about.
+There are many parts inside the ranking screen, so below is the break-up of what the ranking screen is really about.
 
 ![](fs/ranking-screen_anno0.png)
 
@@ -448,24 +442,25 @@ Using the image above, here are the meanings:
 
 | \# on image | Name | Description |
 | :-- | :-- | :-- |
-| 1 | Ranking Letters | It's not hard to do them. Just don't make them freaking huge. Remember: `ranking-X` = SS, `ranking-SH` = Silver S, `ranking-XH` = Silver SS. |
-| 2 | Retry, Replay button | Depending on your Version in the skin.ini, either ranking-retry.png/ranking-replay.png (Version: 1.0) or pause-retry.png/pause-replay.png (Version: 2.0 or above) will be used. Retry - play the map one more time. Replay - watch your amazing play. |
-| 3 | Ranking-accuracy and max combo | As the name says. Personally I recommend to make them blank and add "Max Combo" and "Accuracy" by yourself on raking-panel. It's just easier to position them. |
-| 4 | Ranking-graph | This one is kinda size and position restricted. Easiest way to make it, is by using default one, since you won't have problems with correct position to fit actually showed graph. |
-| 5 | Ranking-perfect | You can make it in whatever way you want, add text or picture. Be aware that sometimes you will need to do minor positioning. |
+| 1 | Ranking Letters | It's not hard to do them. Just don't make them huge. Remember: `ranking-X` = SS, `ranking-SH` = Silver S, `ranking-XH` = Silver SS. |
+| 2 | Retry, Replay button | Depending on your Version in the skin.ini, either ranking-retry.png/ranking-replay.png (Version: 1.0) or pause-retry.png/pause-replay.png (Version: 2.0 or above) will be used. Retry - play the map again. Replay - watch your amazing play. |
+| 3 | Ranking-accuracy and max combo | As the name says. A tip is to make them blank and add "Max Combo" and "Accuracy" by yourself on ranking-panel. It's just easier to position them. |
+| 4 | Ranking-graph | This one is size and position restricted. The easiest way to make it is by using the default one, since you won't have problems with correct position to fit the graph. |
+| 5 | Ranking-perfect | You can make this in whatever way you want, add text or pictures. Be aware that sometimes you will need to do minor positioning. |
 | 6 | Ranking-title | Title of this screen. Should say "RANK" or "Your Rank". |
-| 7 | Ranking-winner | A small box that shows winner of multiplayer match. |
-| 8 | Ranking-panel | The heart (:3) of ranking. It's not restricted by size (but is restricted by position), so feel free to experiment. Like I said in "score numbers" part, you must remember that is hard to fit large numbers into ranking spaces. I recommend to test your ranking on long maps that have high combo (for example [paraparaMAX I](https://osu.ppy.sh/beatmapsets/972), just check out someone's score). |
+| 7 | Ranking-winner | A small box that shows the winner of the multiplayer match. |
+| 8 | Ranking-panel | The bakground of the ranking panel. It is not restricted by size (but is restricted by position), so feel free to experiment. Remember that it is hard to fit large numbers into ranking spaces. A good way to test your ranking screen is to check it on long maps that have high combo (for example [paraparaMAX I](https://osu.ppy.sh/beatmapsets/972), just check out someone's score). |
 | 9 | Mod icons | This is where the enabled mod icons go |
 
-[![](pr/ranking-screen_0.jpg)](fs/ranking-screen_0.jpg "Click to view full size")
+![Singleplayer Ranking Screen in the default osu! skin](img/rankingscreen_default.jpg)
+*Default skin*
+
+![Multiplayer Ranking Screen in the default osu! skin](img/rankingscreen-multiplayer_default.jpg)
 *Default skin*
 
 #### Ranking letters
 
-These are the letter grades given based on your accuracy.
-
-<!-- TODO images -->
+These are the letter grades given based on your accuracy. Shown on the ranking screen.
 
 ##### Small ranking letters
 
@@ -477,11 +472,12 @@ Currently, these are used in 3 places:
 - on the song select panels
 - near the accuracy display during longer breaks in beatmap.
 
-<!-- TODO images -->
+![Small ranking letters in the default osu! skin](img/smallrankingletters_default.jpg)
+*Default skin*
 
-### Offset Wizard
+### Editor
 
-Interestingly, there is an element here that you *could* change.
+There is an element here that you *could* change.
 It is the bar that shows the current tick of each beat in a beatmap, while offseting.
 
 <!-- TODO list skinnable elements -->
