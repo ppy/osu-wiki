@@ -93,7 +93,7 @@ Recently a new wave of badges acknowledging the time which group members have pu
 
 ## <a id="mappers-showcase"></a>Mappers' Showcase
 
-The Mappers' Showcase parades lesser-known mappers from every game mode. Since we bundled two issues in one post, this month will feature two game modes. 
+The Mappers' Showcase presents lesser-known mappers from every game mode. Since we bundled two issues in one post, this month we will feature two game modes. 
 Thanks to [Jemzuu](https://osu.ppy.sh/users/7890134) for the osu!catch selections and [Scotty](https://osu.ppy.sh/users/11085809) & [Unpredictable](https://osu.ppy.sh/users/7560872) for the osu!mania selections!
 
 ### Phob (osu!catch)
