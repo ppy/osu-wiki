@@ -265,7 +265,7 @@ Saturday 27 June 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Fashionably Late** | **6** | 0 | Asia-Pacific | [#1](https://osu.ppy.sh/community/matches/63423131)
+| **Fashionably Late** | **6** | 0 | Asia-Pacific | [#1](https://osu.ppy.sh/community/matches/63423131) |
 | **G Nome** | **6** | 3 | Bats from Wuhan | [#1](https://osu.ppy.sh/community/matches/63439568) |
 | Peko Peko | 2 | **6** | **Chuchichäschtli** | [#1](https://osu.ppy.sh/community/matches/63449255) |
 
@@ -274,7 +274,7 @@ Sunday 28 June 2020:
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Young Builders | 0 | **6** | **OSBT Squad** | [#1](https://osu.ppy.sh/community/matches/63472416) |
-| **Alek & Friends** | **6**| 0 | G Nome | [#1](https://osu.ppy.sh/community/matches/63476412) |
+| **Alek & Friends** | **6** | 0 | G Nome | [#1](https://osu.ppy.sh/community/matches/63476412) |
 | **Fashionably Late** | **6** | 5 | Chuchichäschtli | [#1](https://osu.ppy.sh/community/matches/63482178) |
 | Stunter in the Toilet | 2 | **6** | **WeHatePP** | [#1](https://osu.ppy.sh/community/matches/63483971) |
 
