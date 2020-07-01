@@ -268,4 +268,11 @@ Abbreviations for user groups are used throughout this log:
 - 2020-06-22: Removed [-Luminate](https://osu.ppy.sh/users/4778689) from **Probationary BN**
 - 2020-06-23: Removed [Unpredictable](https://osu.ppy.sh/users/7560872) from **BN**
 
-<!-- last update: 2020-06-29 9 UTC added garden to probationary bn -->
+## July
+
+### Beatmap Nominators
+
+#### Moves
+- 2020-07-01: Moved [Nikakis](https://osu.ppy.sh/users/4351739) from **BN** to **Probationary BN**
+
+<!-- last update: 2020-07-01 4 UTC moved nikakis to probationary bn -->
