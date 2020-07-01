@@ -273,6 +273,7 @@ Abbreviations for user groups are used throughout this log:
 ### Beatmap Nominators
 
 #### Moves
+
 - 2020-07-01: Moved [Nikakis](https://osu.ppy.sh/users/4351739) from **BN** to **Probationary BN**
 
 <!-- last update: 2020-07-01 4 UTC moved nikakis to probationary bn -->
