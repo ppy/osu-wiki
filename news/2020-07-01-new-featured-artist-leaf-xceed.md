@@ -26,7 +26,7 @@ Check out [this classic 2011 set](https://osu.ppy.sh/beatmapsets/23916) by [Loui
 
 ### Guitar vs. Piano (ver. XCEED)
 
-Check out [this classic Loved set](https://osu.ppy.sh/beatmapsets/5180036) by [Shiro](https://osu.ppy.sh/users/113005), and [this new collaborative tae](https://osu.ppy.sh/beatmapsets/1195288) hosted by [fieryrage](https://osu.ppy.sh/users/3533958)!
+Check out [this classic Loved set](https://osu.ppy.sh/beatmapsets/5180036) by [Shiro](https://osu.ppy.sh/users/113005), and [this new collaborative set](https://osu.ppy.sh/beatmapsets/1195288) hosted by [fieryrage](https://osu.ppy.sh/users/3533958)!
 
 <audio controls>
     <source src="https://assets.ppy.sh/artists/88/previews/2352.mp3" type="audio/mpeg">
