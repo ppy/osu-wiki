@@ -150,7 +150,7 @@ Do you have what it takes to become the next "Elite Mapper"? Then jump right int
 
 ### Aspire V
 
-The Category Stage Voting of the Aspire V mapping contest is currently open! Out of all submissions, 9 unique categories were created with each having 5 hand picked beatmaps. Make sure to check all of them out and vote for your favorite. You can find the categories, links to the voting pages and downloads in the [Aspire V - Category Stage Voting](https://osu.ppy.sh/home/news/2020-06-22-aspire-v-category-stage-voting) newspost.
+The Category Stage Voting of the Aspire V mapping contest is currently open! Out of all submissions, 9 unique categories were created with each having 5 hand picked beatmaps. Make sure to check all of them out and vote for your favorites. You can find the categories, links to the voting pages and downloads in the [Aspire V - Category Stage Voting](https://osu.ppy.sh/home/news/2020-06-22-aspire-v-category-stage-voting) newspost.
 
 Make sure to hurry up, there's roughly a week left! 
 
