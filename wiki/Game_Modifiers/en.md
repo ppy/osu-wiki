@@ -64,7 +64,6 @@ Each of the following mods listed will have the compitable game modes' icon (![]
 - [Fade-out](/wiki/Game_Modifiers/Fadeout) ![][o!m]
 - [No Video](/wiki/Game_Modifiers/No_Video) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 
-
 ## Trivia
 
 - osu! used to round down the Score Multiplier to the nearest hundredth until a patch<!-- in (year)--> fixed the rounding problem by only rounding up if the thousandths value is 0.005 or higher.
