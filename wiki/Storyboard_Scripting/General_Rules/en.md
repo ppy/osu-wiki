@@ -1,6 +1,6 @@
-# General Rules
+# General rules for storyboarding
 
-![An example of scripting in .osb.](SBS_Base.jpg "An example of scripting in .osb.")
+![An example of scripting in .osb.](img/SBS_Base.jpg "An example of scripting in .osb.")
 
  This page and the rest of the guide describes the lines of scripting code that are placed into the .osb or .osu file, under `[Events]`. Commands in the .osb file for the beatmap will appear in all difficulties; those that appear in the .osu file will only appear in that given difficulty.
 
@@ -16,7 +16,7 @@
 
 ### Screen size
 
-![Editor screen size. Green is screen size and Red is playarea](SBS_SS.jpg "Editor screen size. Green is screen size and Red is playarea")
+![Editor screen size. Green is screen size and Red is playarea](img/SBS_SS.jpg "Editor screen size. Green is screen size and Red is playarea")
 
 -   The screen is 640 pixels wide by 480 pixels tall `(640x480)`.
     -   General playarea is 510 pixels wide by 385 pixels tall `(510x385)`.
@@ -47,7 +47,7 @@ The "Fail" and "Pass" layers are never on-screen simultaneously, unlike in Desig
 
 -   Objects that overlap in different layers will be drawn in the order described above (e.g., any object in the Foreground layer will always be visible in front of any object in the Background, Fail, or Pass layers).
 -   Objects that overlap in the same layer will be drawn in the order in which they are specified (e.g., if Object 1 is specified first in the .osb or .osu file, and then Object 2 is as well, but they are both in the same layer, Object 2 will appear in front of Object 1).
--   Commands from the .osb file take precedence over those from the .osu file within the layers, as if the commands from the .osb were appended to the end of the .osu commands. This does not overrule the four layers mentioned above. [Example](https://osu.ppy.sh/forum/viewtopic.php?p=469997#p469997).
+-   Commands from the .osb file take precedence over those from the .osu file within the layers, as if the commands from the .osb were appended to the end of the .osu commands. This does not overrule the four layers mentioned above. [Example](https://osu.ppy.sh/community/forums/topics/1869?start=469997).
 
 ### Game State
 
@@ -83,7 +83,7 @@ States during **playtime** ("draining time", when the player is expected to clic
 
 ### Time
 
-![Use CTRL+C to copy the timestamp.](SBS_Time.jpg "Use CTRL+C to copy the timestamp.")
+![Use CTRL+C to copy the timestamp.](img/SBS_Time.jpg "Use CTRL+C to copy the timestamp.")
 
 -   Time is measured in milliseconds (1000 ms = 1 second) from the start of the beatmap's main MP3/OGG, including negative values to indicate an intro.
 -   Time in SB is not dependent upon timing of the beatmap itself (e.g., how many measures there are or beats per minute). Therefore, it is recommended that the beatmap be reasonably well-timed before storyboarding, as it will be harder to adjust these times later.

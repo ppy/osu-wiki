@@ -1,11 +1,4 @@
----
-needs_cleanup: true
----
-
-[true]: /wiki/shared/true.png
-[false]: /wiki/shared/false.png
-
-# Interface
+# Interface skinning
 
 *See also: [Skinning Interface Tutorial](/wiki/Skinning_Interface_Tutorial) and [Interface](/wiki/Interface)*
 
@@ -28,7 +21,7 @@ Notes:
 - By default, osu! has a set of background images that it will cycle through.
   - If this element is skinned and the user has osu!supporter tag, this element will override this behaviour.
 - This element is used as the playfield if beatmap does not have a background.
-- The seasonal background option can affect the visbility of this element.
+- The seasonal background option can affect the visibility of this element.
   - If it is set to `Always` the seasonal backgrounds will override this element.
   - If it is set to `Sometimes` the seasonal backgrounds will override this element while they are in active use.
 - `.jpg` extension only.
@@ -74,7 +67,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![No][false] | Multiplicative | TopRight | - |
+| All | ![No][false] | ![No][false] | Multiplicative | Top Right | - |
 
 Notes:
 
@@ -105,7 +98,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![No][false] | Multiplicative | TopLeft | - |
+| All | ![No][false] | ![No][false] | Multiplicative | Top Left | - |
 
 Notes:
 
@@ -157,7 +150,7 @@ Notes:
 Notes:
 
 - This element is used when the player presses the smoke key.
-  - By default, the smoke key is binded to `C`.
+  - By default, the smoke key is bound to `C`.
 
 ---
 
@@ -433,6 +426,20 @@ Notes:
 
 ---
 
+`selection-mod-mirror.png`
+
+![](img/selection-mod-mirror.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | Centre | 64x64 |
+
+Notes:
+
+- This element is [osu!mania](/wiki/osu!mania)-specific.
+
+---
+
 `selection-mod-nightcore.png`
 
 ![](img/selection-mod-nightcore.png)
@@ -575,7 +582,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] | ![Yes][true] | Multiplicative | BottomRight | - |
+| All | ![Yes][true] | ![Yes][true] | Multiplicative | Bottom Right | - |
 
 
 Notes:
@@ -671,7 +678,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | BottomRight | 60x30 |
+| All | ![No][false] | ![Yes][true] | Normal | Bottom Right | 60x30 |
 
 Notes:
 
@@ -782,7 +789,7 @@ Notes:
 
 ### Hit bursts
 
-*Main page: [Skinning/FAQ § Ranking screen hierarchy](/wiki/Skinning/FAQ/#ranking-screen-hierarchy)*
+*Main page: [Skinning/FAQ § Ranking screen hierarchy](/wiki/Skinning/FAQ#ranking-screen-hierarchy)*
 
 ---
 
@@ -919,12 +926,12 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | TopRight | 193x55 |
+| All | ![No][false] | ![Yes][true] | Normal | Top Right | 193x55 |
 
 Notes:
 
 - This element is positioned at 320px height.
-- Since the image is rotated, the origin on the image itself is TopLeft.
+- Since the image is rotated, the origin on the image itself is Top Left.
 - This element is used in [osu!standard](/wiki/osu!standard) and [osu!catch](/wiki/osu!catch).
 - This element is rotated 90 degrees clockwise and stretched by 1.05x in-game.
 - Must be enabled in the [options](/wiki/options) to see.
@@ -952,8 +959,8 @@ Notes:
 - Shrinks briefly when the keys are pressed.
 - Tinting varies by button location and state:
   - White, if key is not pressed.
-  - Yellow, if the key is pressed and locationed on the top half.
-  - Purple, if the key is pressed and locationed on the bottom half.
+  - Yellow, if the key is pressed and located on the top half.
+  - Purple, if the key is pressed and located on the bottom half.
 
 ### Pause screen
 
@@ -966,7 +973,7 @@ Notes:
 Notes:
 
 - When the game is paused, the playfield will be dimmed and this file will overlay on top of it.
-- This element is will not strech to fit.
+- This element will not stretch to fit.
 - Full image height is 768px.
 - Smaller images are shown with transparent borders while larger images are partially shown.
 - This can also be a `.jpg` file (and can have the `.jpg` extension).
@@ -983,7 +990,7 @@ Notes:
 Notes:
 
 - When the player has failed, the playfield will be dimmed and this file will overlay on top of it.
-- This element will strech to fit.
+- This element will stretch to fit.
 - This can also be a `.jpg` file (and can have the `.jpg` extension).
   - osu! preferences `.png` over `.jpg`.
 
@@ -1057,7 +1064,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | TopLeft | - |
+| All | ![No][false] | ![Yes][true] | Normal | Top Left | - |
 
 Notes:
 
@@ -1072,7 +1079,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] | ![Yes][true] | (Varies) | TopLeft | - |
+| All | ![Yes][true] | ![Yes][true] | (Varies) | Top Left | - |
 
 Notes:
 
@@ -1490,7 +1497,7 @@ Notes:
 Notes:
 
 - Positioning varies:
-  - 192px away from right screenborder
+  - 192px away from right screen border
   - v1.0: at 272px height
   - v2.0+: at 320px height
 
@@ -1524,7 +1531,7 @@ Notes:
 Notes:
 
 - Positioning varies:
-  - 192px away from right screenborder
+  - 192px away from right screen border
   - v1.0: at 272px height
   - v2.0+: at 320px height
 
@@ -1558,7 +1565,7 @@ Notes:
 Notes:
 
 - Positioning varies:
-  - 192px away from right screenborder
+  - 192px away from right screen border
   - v1.0: at 272px height
   - v2.0+: at 320px height
 
@@ -1592,7 +1599,7 @@ Notes:
 Notes:
 
 - Positioning varies:
-  - 192px away from right screenborder
+  - 192px away from right screen border
   - v1.0: at 272px height
   - v2.0+: at 320px height
 
@@ -1622,7 +1629,7 @@ Notes:
 Notes:
 
 - Positioning varies:
-  - 192px away from right screenborder
+  - 192px away from right screen border
   - v1.0: at 272px height
   - v2.0+: at 320px height
 
@@ -1652,7 +1659,7 @@ Notes:
 Notes:
 
 - Positioning varies:
-  - 192px away from right screenborder
+  - 192px away from right screen border
   - v1.0: at 272px height
   - v2.0+: at 320px height
 
@@ -1681,7 +1688,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] (see notes) | ![No][false] | Normal | TopLeft | - |
+| All | ![No][false] (see notes) | ![No][false] | Normal | Top Left | - |
 
 Notes:
 
@@ -1699,8 +1706,8 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 1.0 | ![No][false] | ![No][false] | Normal | TopLeft | min: 308x156 |
-| 2.0+ | ![No][false] | ![No][false] | Normal | TopLeft | min: 308x148 |
+| 1.0 | ![No][false] | ![No][false] | Normal | Top Left | min: 308x156 |
+| 2.0+ | ![No][false] | ![No][false] | Normal | Top Left | min: 308x148 |
 
 Notes:
 
@@ -1719,7 +1726,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] (see notes) | ![No][false] | Normal | TopLeft | - |
+| All | ![No][false] (see notes) | ![No][false] | Normal | Top Left | - |
 
 Notes:
 
@@ -1737,8 +1744,8 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 1.0 | ![No][false] | ![No][false] | Normal | TopLeft | max height: 694px |
-| 2.0+ | ![No][false] | ![No][false] | Normal | TopLeft | max height: 666px |
+| 1.0 | ![No][false] | ![No][false] | Normal | Top Left | max height: 694px |
+| 2.0+ | ![No][false] | ![No][false] | Normal | Top Left | max height: 666px |
 
 Notes:
 
@@ -1772,7 +1779,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![No][false] | Normal | TopRight | - |
+| All | ![No][false] | ![No][false] | Normal | Top Right | - |
 
 Notes:
 
@@ -1812,7 +1819,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![No][false] | Normal | TopLeft | 200x214 |
+| All | ![No][false] | ![No][false] | Normal | Top Left | 200x214 |
 
 Notes:
 
@@ -1835,9 +1842,9 @@ Notes:
   - Combo: cyan
   - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/skin.ini) or black, if not defined
 - Origin varies on use:
-  - Score: TopLeft
-  - Combo: TopRight
-  - Rank: TopRight
+  - Score: Top Left
+  - Combo: Top Right
+  - Rank: Top Right
   - Input overlay: Top
 
 ---
@@ -1857,9 +1864,9 @@ Notes:
   - Combo: cyan
   - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/skin.ini) or black, if not defined
 - Origin varies on use:
-  - Score: TopLeft
-  - Combo: TopRight
-  - Rank: TopRight
+  - Score: Top Left
+  - Combo: Top Right
+  - Rank: Top Right
   - Input overlay: Top
 
 ---
@@ -1879,9 +1886,9 @@ Notes:
   - Combo: cyan
   - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/skin.ini) or black, if not defined
 - Origin varies on use:
-  - Score: TopLeft
-  - Combo: TopRight
-  - Rank: TopRight
+  - Score: Top Left
+  - Combo: Top Right
+  - Rank: Top Right
   - Input overlay: Top
 
 ---
@@ -1901,9 +1908,9 @@ Notes:
   - Combo: cyan
   - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/skin.ini) or black, if not defined
 - Origin varies on use:
-  - Score: TopLeft
-  - Combo: TopRight
-  - Rank: TopRight
+  - Score: Top Left
+  - Combo: Top Right
+  - Rank: Top Right
   - Input overlay: Top
 
 ---
@@ -1923,9 +1930,9 @@ Notes:
   - Combo: cyan
   - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/skin.ini) or black, if not defined
 - Origin varies on use:
-  - Score: TopLeft
-  - Combo: TopRight
-  - Rank: TopRight
+  - Score: Top Left
+  - Combo: Top Right
+  - Rank: Top Right
   - Input overlay: Top
 
 ---
@@ -1945,9 +1952,9 @@ Notes:
   - Combo: cyan
   - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/skin.ini) or black, if not defined
 - Origin varies on use:
-  - Score: TopLeft
-  - Combo: TopRight
-  - Rank: TopRight
+  - Score: Top Left
+  - Combo: Top Right
+  - Rank: Top Right
   - Input overlay: Top
 
 ---
@@ -1967,9 +1974,9 @@ Notes:
   - Combo: cyan
   - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/skin.ini) or black, if not defined
 - Origin varies on use:
-  - Score: TopLeft
-  - Combo: TopRight
-  - Rank: TopRight
+  - Score: Top Left
+  - Combo: Top Right
+  - Rank: Top Right
   - Input overlay: Top
 
 ---
@@ -1989,9 +1996,9 @@ Notes:
   - Combo: cyan
   - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/skin.ini) or black, if not defined
 - Origin varies on use:
-  - Score: TopLeft
-  - Combo: TopRight
-  - Rank: TopRight
+  - Score: Top Left
+  - Combo: Top Right
+  - Rank: Top Right
   - Input overlay: Top
 
 ---
@@ -2011,9 +2018,9 @@ Notes:
   - Combo: cyan
   - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/skin.ini) or black, if not defined
 - Origin varies on use:
-  - Score: TopLeft
-  - Combo: TopRight
-  - Rank: TopRight
+  - Score: Top Left
+  - Combo: Top Right
+  - Rank: Top Right
   - Input overlay: Top
 
 ---
@@ -2033,9 +2040,9 @@ Notes:
   - Combo: cyan
   - Input overlay: use `InputOverlayText` value from [skin.ini](/wiki/skin.ini) or black, if not defined
 - Origin varies on use:
-  - Score: TopLeft
-  - Combo: TopRight
-  - Rank: TopRight
+  - Score: Top Left
+  - Combo: Top Right
+  - Rank: Top Right
   - Input overlay: Top
 
 ---
@@ -2055,8 +2062,8 @@ Notes:
   - Score: white
   - Combo: cyan
 - Origin varies on use:
-  - Score: TopLeft
-  - Combo: TopRight
+  - Score: Top Left
+  - Combo: Top Right
 
 ---
 
@@ -2064,7 +2071,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Multiplicative | TopLeft | 5x14 |
+| All | ![No][false] | ![Yes][true] | Multiplicative | Top Left | 5x14 |
 
 Notes:
 
@@ -2079,7 +2086,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Multiplicative | TopLeft | 12x14 |
+| All | ![No][false] | ![Yes][true] | Multiplicative | Top Left | 12x14 |
 
 Notes:
 
@@ -2093,7 +2100,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Multiplicative | TopRight | 10x14 |
+| All | ![No][false] | ![Yes][true] | Multiplicative | Top Right | 10x14 |
 
 Notes:
 
@@ -2107,7 +2114,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![Yes][true] | ![No][false] | Normal | BottomLeft | 200x214 |
+| All | ![Yes][true] | ![No][false] | Normal | Bottom Left | 200x214 |
 
 Notes:
 
@@ -2123,7 +2130,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Multiplicative | BottomLeft | min: 690x85 |
+| All | ![No][false] | ![Yes][true] | Multiplicative | Bottom Left | min: 690x85 |
 
 Notes:
 
@@ -2145,8 +2152,8 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 1.0 | ![No][false] | ![No][false] | Normal | TopLeft | 92x87 |
-| 2.0+ | ![No][false] | ![No][false] | Normal | BottomLeft | 92x90 |
+| 1.0 | ![No][false] | ![No][false] | Normal | Top Left | 92x87 |
+| 2.0+ | ![No][false] | ![No][false] | Normal | Bottom Left | 92x90 |
 
 Notes:
 
@@ -2160,8 +2167,8 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 1.0 | ![No][false] | ![No][false] | Normal | TopLeft | 92x87 |
-| 2.0+ | ![No][false] | ![No][false] | Normal | BottomLeft | 92x90 |
+| 1.0 | ![No][false] | ![No][false] | Normal | Top Left | 92x87 |
+| 2.0+ | ![No][false] | ![No][false] | Normal | Bottom Left | 92x90 |
 
 Notes:
 
@@ -2176,8 +2183,8 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 1.0 | ![No][false] | ![No][false] | Normal | TopLeft | 77x87 |
-| 2.0+ | ![No][false] | ![No][false] | Normal | BottomLeft | 77x90 |
+| 1.0 | ![No][false] | ![No][false] | Normal | Top Left | 77x87 |
+| 2.0+ | ![No][false] | ![No][false] | Normal | Bottom Left | 77x90 |
 
 Notes:
 
@@ -2191,8 +2198,8 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 1.0 | ![No][false] | ![No][false] | Normal | TopLeft | 77x87 |
-| 2.0+ | ![No][false] | ![No][false] | Normal | BottomLeft | 77x90 |
+| 1.0 | ![No][false] | ![No][false] | Normal | Top Left | 77x87 |
+| 2.0+ | ![No][false] | ![No][false] | Normal | Bottom Left | 77x90 |
 
 Notes:
 
@@ -2207,8 +2214,8 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 1.0 | ![No][false] | ![No][false] | Normal | TopLeft | 77x87 |
-| 2.0+ | ![No][false] | ![No][false] | Normal | BottomLeft | 77x90 |
+| 1.0 | ![No][false] | ![No][false] | Normal | Top Left | 77x87 |
+| 2.0+ | ![No][false] | ![No][false] | Normal | Bottom Left | 77x90 |
 
 Notes:
 
@@ -2222,8 +2229,8 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 1.0 | ![No][false] | ![No][false] | Normal | TopLeft | 77x87 |
-| 2.0+ | ![No][false] | ![No][false] | Normal | BottomLeft | 77x90 |
+| 1.0 | ![No][false] | ![No][false] | Normal | Top Left | 77x87 |
+| 2.0+ | ![No][false] | ![No][false] | Normal | Bottom Left | 77x90 |
 
 Notes:
 
@@ -2238,8 +2245,8 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 1.0 | ![No][false] | ![No][false] | Normal | TopLeft | 77x87 |
-| 2.0+ | ![No][false] | ![No][false] | Normal | BottomLeft | 77x90 |
+| 1.0 | ![No][false] | ![No][false] | Normal | Top Left | 77x87 |
+| 2.0+ | ![No][false] | ![No][false] | Normal | Bottom Left | 77x90 |
 
 Notes:
 
@@ -2253,8 +2260,8 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| 1.0 | ![No][false] | ![No][false] | Normal | TopLeft | 77x87 |
-| 2.0+ | ![No][false] | ![No][false] | Normal | BottomLeft | 77x90 |
+| 1.0 | ![No][false] | ![No][false] | Normal | Top Left | 77x87 |
+| 2.0+ | ![No][false] | ![No][false] | Normal | Bottom Left | 77x90 |
 
 Notes:
 
@@ -2269,7 +2276,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Multiplicative | TopLeft | 142x24 |
+| All | ![No][false] | ![Yes][true] | Multiplicative | Top Left | 142x24 |
 
 Notes:
 
@@ -2489,3 +2496,6 @@ Notes:
 - This element is on top of the `selection-mode.png` element.
 - Select [osu!mania](/wiki/osu!mania) for this to see.
 - If the `menu-snow.png` element is not skinned, this element will be used if it is selected.
+
+[true]: /wiki/shared/true.png
+[false]: /wiki/shared/false.png

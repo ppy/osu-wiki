@@ -1,15 +1,10 @@
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
-
 # Sommaire
 
-Note: Tous les mods changeant la difficulté sur osu!mania n'augmenteront jamais le multiplicateur de score.
+*Note: Tous les mods changeant la difficulté sur osu!mania n'augmenteront jamais le multiplicateur de score.*
 
 | Mod | Nom (Abrégé) | Multiplicateur | Effet |
-|-----|--------------|------------|--------|
-| ![Easy](/wiki/shared/mods/EZ.png) | Easy (EZ) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 0.50x | Tout, mais en  _plus facile_. |
+| :-- | :-- | :-- | :-- |
+| ![Easy](/wiki/shared/mods/EZ.png) | Easy (EZ) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 0.50x | Tout, mais en  *plus facile*. |
 | ![No Fail](/wiki/shared/mods/NF.png) | No Fail (NF) | ![][o!s] ![][o!t] ![][o!c] ![][o!m]: 0.50x | Vous ne pouvez pas perdre, peu importe ce que vous faites. |
 | ![Half Time](/wiki/shared/mods/HT.png) | Half Time (HT) | ![][o!s] ![][o!t] ![][o!c]: 0.30x • ![][o!m]: 0.50x | Ralenti la beatmap de 25%. |
 | ![Hard Rock](/wiki/shared/mods/HR.png) | Hard Rock (HR) | ![][o!s] ![][o!t]: 1.06x • ![][o!c]: 1.12x • ![][o!m]: 1.00x (unrankable) | Tout, mais en plus dur. |
@@ -29,37 +24,36 @@ Note: Tous les mods changeant la difficulté sur osu!mania n'augmenteront jamais
 | ![Co-Op](/wiki/shared/mods/COOP.png) | Co-Op (COOP) | ![][o!m]: 0.70x ~ 1.00x voir[chart below](#le-mod-xK-avec-le-multiplicateur-de-score-de-la-CO-OP)) | Un duo, ça vous dit ? |
 | ![Random](/wiki/shared/mods/RD.png) | Random (RD) | ![][o!m]: 1.00x | Change les touches de colonnes. |
 
-## Le multiplicateur de score du mod xK 
+## Le multiplicateur de score du mod xK
 
-Note: Ce tableau s'applique uniquement aux beatmaps converties à partir d'osu!standard vers osu!mania par le jeu, et pas aux beatmaps créés spécifiquement pour osu!mania.
+*Note: Ce tableau s'applique uniquement aux beatmaps converties à partir d'osu!standard vers osu!mania par le jeu, et pas aux beatmaps créés spécifiquement pour osu!mania.*
 
-|    | 1k   | 2k   | 3k   | 4k       | 5k       | 6k       | 7k       | 8k   | 9k   |
-|----|------|------|------|----------|----------|----------|----------|------|------|
-| 4k | 0.78 | 0.82 | 0.86 | **1.00** | 0.90     | 0.90     | 0.90     | 0.90 | 0.90 |
-| 5k | 0.74 | 0.78 | 0.82 | 0.86     | **1.00** | 0.90     | 0.90     | 0.90 | 0.90 |
-| 6k | 0.70 | 0.74 | 0.78 | 0.82     | 0.86     | **1.00** | 0.90     | 0.90 | 0.90 |
-| 7k | 0.66 | 0.70 | 0.74 | 0.78     | 0.82     | 0.86     | **1.00** | 0.90 | 0.90 |
-
+|  | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
+| :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
+| 4K | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+| 5K | 0.74 | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 |
+| 6K | 0.70 | 0.74 | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 | 0.90 |
+| 7K | 0.66 | 0.70 | 0.74 | 0.78 | 0.82 | 0.86 | **1.00** | 0.90 | 0.90 |
 
 ### Le mod xK avec le multiplicateur de score de la CO-OP
 
-Note: Ce tableau s'applique uniquement aux beatmaps converties à partir d'osu!standard vers osu!mania par le jeu, et pas aux beatmaps créés spécifiquement pour osu!mania.
+*Note: Ce tableau s'applique uniquement aux beatmaps converties à partir d'osu!standard vers osu!mania par le jeu, et pas aux beatmaps créés spécifiquement pour osu!mania.*
 
 Le Co-Op mod n'applique **aucune** pénalité sur les beatmaps spécifiquement créés pour osu!mania.
 
-|    | 1k   |  2k      | 3k       |  4k  | 5k   | 6k   | 7k   | 8k   | 9k   |
-|----|------|----------|----------|------|------|------|------|------|------|
-| 4k | 0.82 | **1.00** | 0.90     | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
-| 5k | 0.78 | 0.86     | 0.90     | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
-| 6k | 0.74 | 0.82     | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
-| 7k | 0.70 | 0.78     | 0.86     | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+|  | 1K | 2K | 3K | 4K | 5K | 6K | 7K | 8K | 9K |
+| :-: | --: | --: | --: | --: | --: | --: | --: | --: | --: |
+| 4K | 0.82 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+| 5K | 0.78 | 0.86 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+| 6K | 0.74 | 0.82 | **1.00** | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
+| 7K | 0.70 | 0.78 | 0.86 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
 
 ## Les mods incompatibles
 
-Note: Afin que ce tableau ne soit pas trop long, on considère que les relations sont réciproques.
+*Note: Afin que ce tableau ne soit pas trop long, on considère que les relations sont réciproques.*
 
 | Ces mods... | ...annulent ceux-ci. |
-|---------------|----------------------------|
+| :-- | :-- |
 | ![Hard Rock](/wiki/shared/mods/HR.png) | ![Easy](/wiki/shared/mods/EZ.png) |
 | ![Double Time](/wiki/shared/mods/DT.png) ![Nightcore](/wiki/shared/mods/NC.png) | ![Half Time](/wiki/shared/mods/HT.png) |
 | ![No Fail](/wiki/shared/mods/NF.png) | ![Sudden Death](/wiki/shared/mods/SD.png) ![Perfect](/wiki/shared/mods/PF.png) ![Relax](/wiki/shared/mods/RL.png) ![Auto Pilot](/wiki/shared/mods/AP.png) |
@@ -71,5 +65,10 @@ Note: Afin que ce tableau ne soit pas trop long, on considère que les relations
 ### osu!mania
 
 | Ces mods... | ...annulent ceux-ci. |
-|---------------|----------------------------|
+| :-- | :-- |
 | ![Hidden](/wiki/shared/mods/HD.png) ![Fade In](/wiki/shared/mods/FI.png) | ![Flashlight](/wiki/shared/mods/FL.png) |
+
+[o!s]: /wiki/shared/mode/osu.png "osu!standard"
+[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
+[o!c]: /wiki/shared/mode/catch.png "osu!catch"
+[o!m]: /wiki/shared/mode/mania.png "osu!mania"

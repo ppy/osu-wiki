@@ -1,4 +1,4 @@
-# Audio
+# Storyboard audio samples
 
 **Audio files** (WAV, MP3, and OGG) can be played at specified points in time. They are like object declarations, not commands, so they aren't used in loops or triggers. However, you can place them on any of the four layers (though there's no concept of "overlapping" - all sounds will be mixed), so you can make sounds only occur if the player is in the Pass or Fail state.
 

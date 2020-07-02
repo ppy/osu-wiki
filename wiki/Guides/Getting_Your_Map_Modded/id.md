@@ -1,16 +1,16 @@
 # Getting Your Map Modded
 
-Agar mapmu bisa dimod agar bisa menjadi map dengan status [ranked](/wiki/Beatmaps), map tersebut harus mendapat [mod](/wiki/Modding). Ada beberapa cara untuk mencapai hal ini.
+Agar mapmu bisa dimod agar bisa menjadi map dengan status [ranked](/wiki/Beatmaps#ranked), map tersebut harus mendapat [mod](/wiki/Modding). Ada beberapa cara untuk mencapai hal ini.
 
 ## \#modreqs
 
-**\#modreqs** adalah channel di osu!chat, di mana pemain bisa meminta bantuan atau ([Mod](/wiki/Modding)) di map mereka dengan menampilkannya dengan perintah /np. Beberapa modder dan bahkan anggota [Beatmap Appreciation Team](/wiki/People/Beatmap_Nomination_Group) mungkin bisa mengecek beberapa map yang baik yang ditampilkan di channel ini.
+**\#modreqs** adalah channel di osu!chat, di mana pemain bisa meminta bantuan atau ([Mod](/wiki/Modding)) di map mereka dengan menampilkannya dengan perintah /np. Beberapa modder dan bahkan anggota [Beatmap Appreciation Team](/wiki/People/The_Team/Beatmap_Nominators) mungkin bisa mengecek beberapa map yang baik yang ditampilkan di channel ini.
 
 [Bancho](/wiki/Glossary) mencatat 20 permintaan mod terbaru dan dapat memberitahu modder untuk mendapatkan mereka di beberapa cara, yaitu :
 
--   Menulis perintah `!request` di chat akan membuat BanchoBot memPM anda dengan salah satu link map secara acak.
--   Menulis perintah `!request list` di chat akan membuat BanchoBot memPM anda dengan data lima link beatmap yang paling baru dengan link ke map itu secara lengkap di website.
--   Mengunjungi [daftar spesial map](https://osu.ppy.sh/p/beatmaplist&r=8) di web utama akan mendaftar 20 link beatmap yang paling baru dengan beberapa tambahan.
+- Menulis perintah `!request` di chat akan membuat BanchoBot memPM anda dengan salah satu link map secara acak.
+- Menulis perintah `!request list` di chat akan membuat BanchoBot memPM anda dengan data lima link beatmap yang paling baru dengan link ke map itu secara lengkap di website.
+- Mengunjungi [daftar spesial map](https://osu.ppy.sh/p/beatmaplist&r=8) di web utama akan mendaftar 20 link beatmap yang paling baru dengan beberapa tambahan.
 
 Bila kamu mengepost lebih daru dua link beatmap di jangka waktu yang singkat, Bancho akan mengabaikannya.
 
@@ -26,10 +26,10 @@ mod4mod, atau biasa disingkat M4M, adalah di mana kamu mengemod map orang lain, 
 
 ## Langsung Tanya ke Pemain Lain
 
-Langsung bertanya kepada pemain lain adalah cara yang bagus dalam mencari mod, kalau kamu bertanya pada orang yang tepat. Cari pemain normal dengan jumlah [kudosu](/wiki/Glossary) yang banyak dan yang tidak punya modding queue; sering mereka akan menerima permintaanmu apabila mereka tidak sibuk. Selain itu, bertanya secara langsung kepada [BATs](/wiki/People/Beatmap_Nomination_Group) juga penting agar mapmu bisa dirank. Ini adalah beberapa tips :
+Langsung bertanya kepada pemain lain adalah cara yang bagus dalam mencari mod, kalau kamu bertanya pada orang yang tepat. Cari pemain normal dengan jumlah [kudosu](/wiki/Glossary) yang banyak dan yang tidak punya modding queue; sering mereka akan menerima permintaanmu apabila mereka tidak sibuk. Selain itu, bertanya secara langsung kepada [BATs](/wiki/People/The_Team/Beatmap_Nominators) juga penting agar mapmu bisa dirank. Ini adalah beberapa tips :
 
--   Jika di signature atau userpage seseorang terdapat "Aku tidak menerima request", jangan meminta mereka apabila mereka bukan temanmu.
--   Mulailah dengan percakapan yang biasa, dan secara normal masukkan permintaan requestnya saat keadaan sudah cair, atau percakapannya sedang seru. Ini lebih efektif daripada bertanya secara langsung atau frontal.
--   Jangan menjadi orang yang menyebalkan di forum maupun di chat. Jika banyak orang tidak suka denganmu, maka mereka tidak akan mau mengemod mapmu. Siapa yang mau membantu orang yang tidak disukainya?
+- Jika di signature atau userpage seseorang terdapat "Aku tidak menerima request", jangan meminta mereka apabila mereka bukan temanmu.
+- Mulailah dengan percakapan yang biasa, dan secara normal masukkan permintaan requestnya saat keadaan sudah cair, atau percakapannya sedang seru. Ini lebih efektif daripada bertanya secara langsung atau frontal.
+- Jangan menjadi orang yang menyebalkan di forum maupun di chat. Jika banyak orang tidak suka denganmu, maka mereka tidak akan mau mengemod mapmu. Siapa yang mau membantu orang yang tidak disukainya?
 
 Semoga beruntung dengan mapmu!

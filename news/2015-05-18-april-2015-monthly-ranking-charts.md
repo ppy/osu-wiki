@@ -129,10 +129,10 @@ The full version of the Kantai Collection opening! This mapset is structured ext
 
 Congratulations to the winners of the March 2015 Ranking Charts. They receive a month of supporter status for their efforts!
 
-*   **osu! standard:** [jantan](https://osu.ppy.sh/users/887924)
-*   **Taiko:** [tasuke912](https://osu.ppy.sh/users/2774767)
-*   **Catch the Beat:** [Dusk](https://osu.ppy.sh/users/533210)
-*   **osu!mania:** [Cryolien](https://osu.ppy.sh/users/1626983)
+-   **osu! standard:** [jantan](https://osu.ppy.sh/users/887924)
+-   **Taiko:** [tasuke912](https://osu.ppy.sh/users/2774767)
+-   **Catch the Beat:** [Dusk](https://osu.ppy.sh/users/533210)
+-   **osu!mania:** [Cryolien](https://osu.ppy.sh/users/1626983)
 
 Good luck with the new charts! We'd love to hear any and all feedback you have about the new format and selection process for the charts - feel free to leave a comment below!
 

@@ -22,7 +22,7 @@ ha un profilo!
 #### Comandi standard (!COMANDO oppure /bb COMANDO)
 
 | COMANDO | Effetti | Esempio | Risposta di BanchoBot |
-| --- | --- | --- | --- |
+| :-- | :-- | :-- | :-- |
 | WHERE (utente) | Mostra la località di un utente | !where John | John is in USA |
 | STATS (utente) | Mostra le statistiche di un utente le lo stato (basandosi sul tab dell'utente) | !stats John | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%.
 | FAQ (L.code)(item) (list) | Usi vari. [list] Lista dei comandi disponibili | !faq wiki / !faq ru:wiki | The osu! Wiki - Make it awesome! / Примите участие в заполнении вики! |

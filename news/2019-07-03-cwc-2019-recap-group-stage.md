@@ -12,7 +12,7 @@ The eight edition of the osu!catch World Cup has begun in earnest, with another 
 
 Weren't able to follow the action live and want to find out how your favourite teams fared? Or longing to relive the hype and the heartbreak all over again? Fret not, for VODs from throughout the Group Stages are available on the [osu!live Twitch channel](https://www.twitch.tv/osulive)!
 
-<iframe src="https://player.twitch.tv/?autoplay=false&video=v445817750" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe><br/>
+<iframe src="https://player.twitch.tv/?video=v445817750&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe><br/>
 
 If you're stretched for time and looking for a speedy summary of the Group Stage's greatest hits, feel free to read on below!
 

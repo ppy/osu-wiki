@@ -27,9 +27,9 @@ The **osu! Taiko World Cup 2014** (***TWC 2014***) was a country-based osu!taiko
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 6 months of osu!supporter tag, unique profile badge, TWC trophy |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, unique profile badge, TWC trophy |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
 ![TWC 2014 Winner Badge](img/badge.png)
 
@@ -93,9 +93,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_JP] Japan |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_HK] Hong Kong |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_FR] France |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_JP] Japan |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_HK] Hong Kong |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_FR] France |
 
 ![TWC 2014 Bracket](img/bracket.jpg)
 
@@ -306,8 +306,8 @@ This competition has come to an end and resulted in the following podium:
    - The maximum team size is 6.
    - You must specify a captain who will represent the team.
 2. Each team represents a nation. You must form a team with players from the same country.
-3. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1C58_JWKBVVUrJr5so9LBBsqp6LqZktJjGVSZ4pbRhEo/viewform). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “TWC Registration”
-   - Captains may change their setup by [notifying the management](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
+3. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1C58_JWKBVVUrJr5so9LBBsqp6LqZktJjGVSZ4pbRhEo/viewform). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “TWC Registration”
+   - Captains may change their setup by [notifying the management](https://osu.ppy.sh/home/messages/users/71366).
    - You get a confirmation reply in case your registration successfully arrived. Your registration is in pending then.
 4. To ensure valid and serious registrations, any registration and change will be checked by the Tournament Management.
 5. The total amount of teams is 20.
@@ -393,6 +393,5 @@ This competition has come to an end and resulted in the following podium:
 [flag_RU]: /wiki/shared/flag/RU.gif
 [flag_SE]: /wiki/shared/flag/SE.gif
 [flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
 [flag_UA]: /wiki/shared/flag/UA.gif
 [flag_US]: /wiki/shared/flag/US.gif

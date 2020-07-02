@@ -1,7 +1,8 @@
-# 2019
+# Staff log 2019
 
 ## January
 
+- Added [clayton](https://osu.ppy.sh/users/3666350) to Project Loved Team (2019-01-26)
 - Moved [mancuso_JM_](https://osu.ppy.sh/users/521568) from Global Moderation Team to osu! Alumni (2019-01-31)
 
 ### Beatmap Nominator removals
@@ -15,6 +16,7 @@
 
 ## February
 
+- Added [Shoegazer](https://osu.ppy.sh/users/2520707) to Project Loved Team (2019-02-13)
 - Removed [Yuii-](https://osu.ppy.sh/users/2935923) from Quality Assurance Team (2019-02-16)
 
 ### Beatmap Nominator removals
@@ -128,6 +130,7 @@ All users listed below were added on 2019-02-16.
 
 ## June
 
+- Removed [clayton](https://osu.ppy.sh/users/3666350) from Project Loved Team (2019-06-21)
 - Moved [Hinsvar](https://osu.ppy.sh/users/1249323) from Global Moderation Team to osu! Alumni (2019-06-30)
 
 ### Beatmap Nominator additions
@@ -281,7 +284,7 @@ All users listed below were added on 2019-02-16.
 - Removed [Kalibe](https://osu.ppy.sh/users/3376777) from Beatmap Nominators - inactivity (2019-11-18)
 - Removed [NEVlR](https://osu.ppy.sh/users/8339126) from Beatmap Nominators - inactivity (2019-11-18)
 - Removed [Ultima Fox](https://osu.ppy.sh/users/3198109) from Beatmap Nominators - inactivity (2019-11-18)
-- Added [[ L u k a s ]](https://osu.ppy.sh/users/8067876) to Probationary Beatmap Nominators (2019-11-18)
+- Added [Seolv](https://osu.ppy.sh/users/8067876) to Probationary Beatmap Nominators (2019-11-18)
 - Moved [radar](https://osu.ppy.sh/users/7131099) from Probationary Beatmap Nominators to Beatmap Nominators (2019-11-19)
 - Moved [tasuke912](https://osu.ppy.sh/users/2774767) from Beatmap Nominators to Probationary Beatmap Nominators - nominated beatmap with significant RC violations (2019-11-22)
 - Removed [Rhytoly](https://osu.ppy.sh/users/8121109) from Probationary Beatmap Nominators - nominated beatmap with significant RC violations (2019-11-22)
@@ -302,5 +305,31 @@ All users listed below were added on 2019-02-16.
 ## December
 
 - Added [clayton](https://osu.ppy.sh/users/3666350) to Project Loved Team (2019-12-03)
+- Moved [Mao](https://osu.ppy.sh/users/2204515) from Nomination Assessment Team to osu! Alumni (2019-12-15)
+- Moved [Stack](https://osu.ppy.sh/users/6122935) from Nomination Assessment Team to osu! Alumni (2019-12-15)
+- Moved [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) from Nomination Assessment Team to osu! Alumni (2019-12-16)
+- Moved [HappyStick](https://osu.ppy.sh/users/256802) from Global Moderation Team to osu! Alumni (2019-12-21)
+- Removed [mm201](https://osu.ppy.sh/users/30655) from Global Moderation Team (2019-12-21)
+- Moved [Nyquill](https://osu.ppy.sh/users/682935) from Global Moderation Team to osu! Alumni (2019-12-21)
+- Removed [peppy](https://osu.ppy.sh/users/2) from Global Moderation Team (2019-12-25)
+- Removed [smoogipoo](https://osu.ppy.sh/users/1040328) from Global Moderation Team (2019-12-25)
 
-<!-- last update: ^ -->
+### Beatmap Nominators
+
+- Removed [newton-](https://osu.ppy.sh/users/5875419) from Probationary Beatmap Nominators - insufficient proficiency (2019-12-08)
+- Removed [Halfslashed](https://osu.ppy.sh/users/4598899) from Beatmap Nominators - resignation (2019-12-08)
+- Removed [chickenbible](https://osu.ppy.sh/users/2306637) from Beatmap Nominators - resignation (2019-12-10)
+- Moved [AirinCat](https://osu.ppy.sh/users/11119539) from Probationary Beatmap Nominators to Beatmap Nominators (2019-12-11)
+- Added [Smokeman](https://osu.ppy.sh/users/2140676) to Probationary Beatmap Nominators (2019-12-13)
+- Moved [Sanyi](https://osu.ppy.sh/users/7496029) from Probationary Beatmap Nominators to Beatmap Nominators (2019-12-15)
+- Moved [-Luminate](https://osu.ppy.sh/users/4778689) from Probationary Beatmap Nominators to Beatmap Nominators (2019-12-15)
+- Removed [Absolute Zero](https://osu.ppy.sh/users/4847256) from Probationary Beatmap Nominators - insufficient proficiency (2019-12-15)
+- Added [Nardoxyribonucleic](https://osu.ppy.sh/users/876419) to Beatmap Nominators (2019-12-16)
+- Moved [Xinely](https://osu.ppy.sh/users/1521445) from Probationary Beatmap Nominators to Beatmap Nominators (2019-12-16)
+- Added [PokeSky](https://osu.ppy.sh/users/3617111) to Probationary Beatmap Nominators (2019-12-18)
+- Added [Mirash](https://osu.ppy.sh/users/2841009) to Probationary Beatmap Nominators (2019-12-20)
+- Removed [Seolv](https://osu.ppy.sh/users/8067876) from Probationary Beatmap Nominators - insufficient proficiency (2019-12-21)
+- Moved [Genjuro](https://osu.ppy.sh/users/3196091) from Probationary Beatmap Nominators to Beatmap Nominators (2019-12-22)
+- Removed [Yukiyo](https://osu.ppy.sh/users/4541873) from Beatmap Nominators - resignation (2019-12-27)
+- Added [frukoyurdakul](https://osu.ppy.sh/users/7612550) to Probationary Beatmap Nominators (2019-12-28)
+- Added [Volta](https://osu.ppy.sh/users/4154071) to Probationary Beatmap Nominators (2019-12-28)

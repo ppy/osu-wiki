@@ -1,8 +1,9 @@
 ---
 tags:
-- Intermediate Global Taiko Showdown 2019
-- IGTS 2019
-- IGTS2019
+  - IGTS 2019
+  - IGTS
+  - GTS
+outdated: true
 ---
 
 # Intermediate Global Taiko Showdown 2019
@@ -29,9 +30,9 @@ L'**Intermediate Global Taiko Showdown 2019** (***IGTS 2019***) était un tourno
 
 | Place | Prix |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | Badge de profil unique, bannière d'équipe exclusive |
-| ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | bannière d'équipe exclusive |
-| ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | bannière d'équipe exclusive |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | Badge de profil unique, bannière d'équipe exclusive |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | bannière d'équipe exclusive |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | bannière d'équipe exclusive |
 
 [Badge des gagnants de l'IGTS 2019](img/badge.png)
 
@@ -121,9 +122,9 @@ Cette compétition s'est terminée et a donné le podium ci-dessous:
 
 | Classement | Équipe |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![][flag_HK] Hong Kong |
-| ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![][flag_US] États-Unis A |
-| ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | ![][flag_CL] Chili |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![][flag_HK] Hong Kong |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![][flag_US] États-Unis A |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_CL] Chili |
 
 ---
 

@@ -20,7 +20,7 @@
 
 ### Déplacement de fichiers
 
-* Attention: Ceci est **non recommandé** car vous ne pouvez déplacer qu'un fichier à la fois! Cela peut créer plusieurs commits "stupides" qui peuvent amener les relecteurs à fermer ou à rejeter votre pull request! *
+- Attention: Ceci est **non recommandé** car vous ne pouvez déplacer qu'un fichier à la fois! Cela peut créer plusieurs commits "stupides" qui peuvent amener les relecteurs à fermer ou à rejeter votre pull request! *
 
 1\. Naviguez jusqu'au fichier que vous souhaitez déplacer et ouvrez-le.
 
@@ -44,7 +44,7 @@
 
 3\. Cliquez sur `Create new file`.
 
-4\. Entrez l'emplacement et/ou le nom de fichier de l'article que vous créez. Le chemin doit commencer par `wiki/`, suivi du titre de l'article, suivi du nom de l'environnement local (en minuscules) suivi de `.md`. ou une liste de lieux, voir le [Paramètres régionaux dans les critères de style d'article](/wiki/ASC/#locales).
+4\. Entrez l'emplacement et/ou le nom de fichier de l'article que vous créez. Le chemin doit commencer par `wiki/`, suivi du titre de l'article, suivi du nom de l'environnement local (en minuscules) suivi de `.md`. ou une liste de lieux, voir le [Paramètres régionaux dans les critères de style d'article](/wiki/ASC#locales).
 
 5\. Continuez à [Saving and committing](#saving-and-committing).
 

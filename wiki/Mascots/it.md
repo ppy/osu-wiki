@@ -2,9 +2,11 @@
 outdated: true
 ---
 
-# Mascotte di osu!
+# Mascotte
 
-## Pippi
+## Mascotte di osu!
+
+### Pippi
 
 ![Pippi](img/pippi.png "Pippi")
 
@@ -43,7 +45,7 @@ Femmina
 #### Dati anagrafici
 (da aggiungere)
 
-## Yuzu
+### Yuzu
 
 ![Yuzu](img/Yuzu.png "Yuzu")
 
@@ -78,7 +80,7 @@ Maschio
 #### Dati anagrafici
 [Introduzione](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu)
 
-## Maria
+### Maria
 
 ![Maria](img/Maria.png "Maria")
 
@@ -112,9 +114,9 @@ Femmina
 #### Dati anagrafici
 [Introduzione](https://osu.ppy.sh/home/news/2016-04-20-meet-maria-osumanias-new-mascot)
 
-# Cameos
+## Cameos
 
-## Ryūta Ippongi
+### Ryūta Ippongi
 
 ![Ryuuta](img/Ryuuta.png "Ryuuta")
 
@@ -151,7 +153,7 @@ Maschio
 #### Dati anagrafici
 Lui è il leader dal sangue caldo della squadra del cibo. Ha una buona anima e aiuta le persone attorno a lui che sono in difficoltà alzandosi in piedi e combattendo per loro!
 
-## Agent J
+### Agent J
 
 ![Agent J](img/Agent_J.png "Agent J")
 
@@ -186,7 +188,7 @@ Maschio
 #### Dati anagrafici
 Un'esperto in molti stili di ballo variando dall hip-hop al balletto classico, J può ipnotizare qualsiasi essere vivente.
 
-## Don
+### Don
 
 ![Don](img/Don.png "Don")
 
@@ -222,6 +224,6 @@ May 2008
 #### Dati anagrafici
 Don è il protagonista della serie Taiko no Tatsujin. Lui è un tamburo di taiko con un contorno bianco e quattro gambe, una faccia rossa (che sembra essere arancione molibdeno), e un corpo blu chiaro. Il sogno di Donis è di condividere la bellezza di Taiko con il mondo. Tre anni sono passati da quando si è trasferito nella Casa Wada, ed è diventato abbastanza popolare nella città. Ha un appetito mostruoso e qualche volta ha una voglia espensiva di shopping nella Casa Wada che potrebbe andare in peggio. di solito finisce le frasi con un "Ta-don", che significa "Ba-dum" in Giapponese.
 
-# Galleria Immagini
+## Galleria Immagini
 
 [Clicca qui per andare nella Galleria Immagini.](/wiki/Mascots/Gallery)

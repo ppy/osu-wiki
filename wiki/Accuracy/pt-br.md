@@ -26,7 +26,7 @@ No [osu!standard](/wiki/Game_Modes/osu!), a precisão é calculada ao pesar o ju
 Em outras palavras: `Precisão = Pontuação total dos hits / (Quantidade total de hits * 300)`
 
 | Termo | Fórmula |
-| --- | --- |
+| :-- | :-- |
 | **Pontuação total dos hits** | `Quantidade de 50s * 50 + Quantidade de 100s * 100 + Quantidade de 300s * 300` |
 | **Quantidade total de hits** | `Quantidade de misses (erros) + Quantidade de 50s + Quantidade de 100s + Quantidade de 300s` |
 
@@ -46,7 +46,7 @@ Os Drumrolls e Spinners não influenciam a precisão.
 Em outras palavras: `Precisão = Pontuação total dos hits / (Quantidade total de hits * 300)`
 
 | Termo | Fórmula |
-| --- | --- |
+| :-- | :-- |
 | **Pontuação total dos hits** | `((Quantidade de misses * 0) + (Quantidade de 100s(BOM) * 0.5) + (Quantidade de 300s(ÓTIMO) * 1)) * 300` |
 | **Quantidade total de hits** | `Quantidade de Misses + Quantidade de 100s + Quantidade de 300s` |
 
@@ -57,7 +57,7 @@ No [osu!catch](/wiki/Game_Modes/osu!catch), a precisão é calculada pela quanti
 Em outras palavras: `Precisão = Quantidade total de frutas coletadas / Quantidade total de frutas`
 
 | Termo | Fórmula |
-| --- | --- |
+| :-- | :-- |
 | **Quantidade total de frutas coletadas** | `Quantidade de droplets + Quantidade de drops + Quantidade de frutas` |
 | **Quantidade total de frutas** | `Quantidade de misses + Number of miss droplets + Number of droplets + Number of drops + Number of fruits` |
 
@@ -72,10 +72,9 @@ No [osu!mania](/wiki/Game_Modes/osu!mania), a precisão é calculada de modo sim
 Em outras palavras: `Precisão = Pontuação total dos hits / (Quantidade total de hits * 300)`
 
 | Termo | Fórmula |
-| --- | --- |
+| :-- | :-- |
 | **Pontuação total dos hits** | `(Quantidade de 50s * 50 + Quantidade de 100s * 100 + Quantidade de 200s * 200 + Quantidade de 300s * 300 + Quantidade de rainbow 300s * 300)` |
 | **Quantidade total de hits** | `(Quantidade de misses (erros) + Quantidade de 50s + Quantidade de 100s + Quantidade de 200s + Quantidade de 300s + Quantidade de rainbow 300s)` |
-
 
 Repare que MAX (ou rainbow 300) e 300s ambos têm o valor máximo no cálculo da ***precisão***, apesar de que o MAX vale mais na ***pontuação*** do que um 300 qualquer.
 
@@ -98,7 +97,7 @@ Informações adicionais são mostradas quando o cursor do jogo é passado por c
 #### Precisão
 
 | Termo | Significado |
-| --- | --- |
+| :-- | :-- |
 | Miss Rate (Error) | **Esses dois valores representam, respectivamente, o quão precoces e o quão atrasados os seus hits foram, em média**. Quanto mais alto o [OD value](/wiki/Beatmap_Editor/Song_Setup) do beatmap jogado, menor terão que ser esses valores para que você se saia bem. |
 | Unstable Rate | **Esse valor representa o quão consistente foi o seu timing nos hits**. Quanto menor o valor, melhor ainda (os melhores jogadores conseguem atingir abaixo de 100 com frequência). Note que esse índice mede a sua **consistência** e não *precisão*, então consistentemente acertar notas com 15ms de antecedência vale o mesmo que acertar no tempo certo. A fórmula usada é, essencialmente, a variação dos valores do Miss Rate (em milissegundos) multiplicado por 10. |
 
@@ -107,7 +106,7 @@ Informações adicionais são mostradas quando o cursor do jogo é passado por c
 *Spin é somente para o [osu!standard](/wiki/Game_Modes/osu!)*
 
 | Termo | Significado |
-| --- | --- |
+| :-- | :-- |
 | Speed | **A velocidade média de todos o(s) spinner(s) presentes no beatmap**. Max é o maior número de rpm (rotações por minuto) alcançado em algum deles. |
 | Unstable Rate | **Valores baseados na média em função da variação máxima**. Quanto menor, melhor. Não se sabe a fórmula usada. |
 

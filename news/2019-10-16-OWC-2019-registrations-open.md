@@ -35,9 +35,9 @@ You can discuss this event and follow the most important changes in the **[offic
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | US$300 per team member, exclusive single-run merch, profile badge, "osu! Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | US$160 per team member, exclusive single-run merch , profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | US$80 per team member, exclusive single-run merch, profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | US$300 per team member, exclusive single-run merch, profile badge, "osu! Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | US$160 per team member, exclusive single-run merch , profile badge |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | US$80 per team member, exclusive single-run merch, profile badge |
 
 ## Pick'Ems
 
@@ -45,9 +45,9 @@ Pick'ems will level up to the next stage! [hallowatcher](https://osu.ppy.sh/user
 
 ## How do I register?
 
-+ **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/22)**
-+ Do not create teams in advance! Teams will be formed by the country's team captain after the registration phase is concluded.
-+ Hand in your registration before the **27th of October.**
+- **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/22)**
+- Do not create teams in advance! Teams will be formed by the country's team captain after the registration phase is concluded.
+- Hand in your registration before the **27th of October.**
 
 Please note that you may only participate if you are of a **osu! global ranking of #5000 or higher and have not violated the [osu! community rules](/wiki/Rules) in the past 12 months**.
 

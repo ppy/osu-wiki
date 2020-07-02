@@ -1,11 +1,4 @@
----
-needs_cleanup: true
----
-
-[true]: /wiki/shared/true.png
-[false]: /wiki/shared/false.png
-
-# osu!taiko
+# osu!taiko skinning
 
 *See also: [Skinning osu!taiko Tutorial](/wiki/Skinning_osu!taiko_Tutorial)*
 
@@ -528,3 +521,6 @@ Notes:
 - This element is also used in [osu!standard](/wiki/osu!standard).
 - This element is the duration indicator of the spinner.
   - This shrinks over time.
+
+[true]: /wiki/shared/true.png
+[false]: /wiki/shared/false.png

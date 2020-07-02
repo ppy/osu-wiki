@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Maskot
 
 *Lihat juga: [Maskot/Galeri](/wiki/Mascots/Gallery).*

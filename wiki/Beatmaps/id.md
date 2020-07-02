@@ -6,7 +6,7 @@ outdated: true
 
 *Tidak bingung dengan: [Kesulitan](/wiki/Difficulties).*
 
-Beatmap adalah tingkat kesulitan dalam [osu!](/wiki/osu!_glossary), sama seperti tahapan di [Permainan DS](/wiki/Glossary/#ds-games). Dalam bentuk paling dasar mereka, beatmap memiliki lagu dan berbagai [hit objects](/wiki/hit_objects) yang ditempatkan sesuai dengan irama musik. Mereka juga dapat memiliki gambar latar belakang, video, bahkan [storyboard](/wiki/storyboard).
+Beatmap adalah tingkat kesulitan dalam [osu!](/wiki/osu!_glossary), sama seperti tahapan di [Permainan DS](/wiki/Glossary#ds-games). Dalam bentuk paling dasar mereka, beatmap memiliki lagu dan berbagai [hit objects](/wiki/hit_objects) yang ditempatkan sesuai dengan irama musik. Mereka juga dapat memiliki gambar latar belakang, video, bahkan [storyboard](/wiki/storyboard).
 
 Beatmap diunggah menggunakan [BSS](/wiki/BSS) (Beatmap Submission System) dan kemudian melalui proses persetujuan yang disebut [modding](/wiki/modding) untuk mempertahankan standar.
 
@@ -46,7 +46,7 @@ Namun, selama durasi satu minggu, [QATs](/wiki/QAT) diizinkan untuk mencari perm
 
 Beatmap berstatus Loved menggunakan ikon hati (![Heart icon](/wiki/shared/status/loved.png)) di halaman pemilihan lagu.
 
-Beatmap ini mungkin tidak memenuhi [kriteria ranking](/wiki/ranking_criteria) tetapi _dicintai_ oleh komunitas dan secara teratur ditambahkan berdasarkan suara komunitas. Sebelum beatmap mulai, dialog akan ditampilkan, memperlihatkan status dari beatmap akan menyebabkan:
+Beatmap ini mungkin tidak memenuhi [kriteria ranking](/wiki/ranking_criteria) tetapi *dicintai* oleh komunitas dan secara teratur ditambahkan berdasarkan suara komunitas. Sebelum beatmap mulai, dialog akan ditampilkan, memperlihatkan status dari beatmap akan menyebabkan:
 
 - Tidak ada [pp](/wiki/pp) yang akan diberikan.
 - Semua skor akan dihapus saat pembuat memperbarui beatmapnya.
@@ -57,7 +57,7 @@ Untuk menjadikan sebuah beatmap berstatus loved, lihat kiriman forum: [Get your 
 
 ### Pending
 
-*Lihat juga: [Beatmap Ranking Procedure](/wiki/Beatmap_Ranking_Procedure)*
+*Lihat juga: [Beatmap ranking procedure](/wiki/Beatmap_ranking_procedure)*
 
 Beatmap berstatus Pending menggunakan ikon tanda tanya (![Question mark icon](/wiki/shared/status/pending.png)) di halaman pemilihan lagu.
 

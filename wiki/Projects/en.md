@@ -1,6 +1,8 @@
 ---
 outdated: true
 ---
+<!-- TODO: plenty to add, and some of these are now completely dead or unusable -->
+<!-- TODO: it might be a good idea to link these somewhere in the osu!dev discord server so people can find other projects to work on -->
 
 # Projects
 
@@ -8,7 +10,7 @@ outdated: true
 
 -   [Graveyarded Beatmap Archiving](https://osu.ppy.sh/community/forums/topics/49310)—A forum thread to request deleted graveyarded beatmaps.
 -   [Live Event Feed](https://osu.ppy.sh/community/forums/topics/9015)—A live feed of current player events.
-    -   [Website](/p/events)
+    -   [Website](https://old.ppy.sh/p/events)
 -   [osu! (OS X)](https://osu.ppy.sh/community/forums/topics/56460)—osu! on OS X (results will vary).
     -   [GitHub](https://github.com/ppy/osu-wine) | [Website](http://osuosx.tumblr.com)
 -   [osu! Community Localisation Project](https://osu.ppy.sh/community/forums/topics/104342)—The osu! localisation project, localise your language into osu!.
@@ -42,6 +44,8 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
     -   [GitHub](https://github.com/itdelatrisu/opsu) | [Website](http://itdelatrisu.github.io/opsu/)
 -   [osu! python edition](https://osu.ppy.sh/community/forums/topics/688175)—Python clone of osu!
 -   [T-Aiko!](https://osu.ppy.sh/community/forums/topics/58640)—A free [Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia") game that plays osu! beatmaps on your iPhone or Android device.
+-   osu!droid—An unofficial osu! client written for Android.
+    -   [Website](http://ops.dgsrz.com/)
 
 ### Gameplay
 
@@ -79,9 +83,9 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 
 -   [A little aproach rate calculator for your maps](https://osu.ppy.sh/community/forums/topics/578541)—A simple webpage that calculates the suggested approach rate, based on the BPM, that you should use in your beatmap.
     -   [Website](http://maxime.delaby.free.fr/THEFIXER.html)
--   [Hitsounds copier 2.1.1](https://osu.ppy.sh/community/forums/topics/131540)—Copy and paste hit sounds from one difficulty to another.
+-   [Hitsounds copier 2.1.1](https://osu.ppy.sh/community/forums/topics/131540)—Copy and paste hitsounds from one difficulty to another.
 -   [Local Osu! NPS-Calculator](https://osu.ppy.sh/community/forums/topics/459779)—A Notes-Per-Second calculator.
--   [New Hitsound Copier](https://osu.ppy.sh/community/forums/topics/353638)—Another program to copy and paste hit sounds from one difficulty to another.
+-   [New Hitsound Copier](https://osu.ppy.sh/community/forums/topics/353638)—Another program to copy and paste hitsounds from one difficulty to another.
 -   [osu!tp's difficulty calculator](https://osu.ppy.sh/community/forums/topics/164057)—An AiMod integration of osu!tp's difficulty calculator.
     -   [GitHub](https://github.com/Tom94/AiModtpDifficultyCalculator)
 -   [Variable BPM Slider Velocity Stabilizer](https://osu.ppy.sh/community/forums/topics/567059)—A tool that stabilizes the slider velocity after BPM changes.
@@ -102,13 +106,13 @@ Tools and/or services made by the osu! community. Feel free to add your own osu!
 
 -   [Automap-chan](https://osu.ppy.sh/community/forums/topics/382896)—Converts MIDI files to osu!mania beatmaps.
     -   [GitHub](https://github.com/dudehacker/Automap-chan)
--   [Hit Object to Storyboard](https://osu.ppy.sh/community/forums/topics/488175)—Allows you to copy hit sounds and paste them into the storyboard.
+-   [Hit Object to Storyboard](https://osu.ppy.sh/community/forums/topics/488175)—Allows you to copy hitsounds and paste them into the storyboard.
 -   [Hitsound Detective](https://osu.ppy.sh/community/forums/topics/488175)—Checks for unused hitsounds in other difficulties (based on the selected difficulty).
--   [Keysound Maker](https://osu.ppy.sh/community/forums/topics/488175)—Creates key sounds for osu!mania.
+-   [Keysound Maker](https://osu.ppy.sh/community/forums/topics/488175)—Creates keysounds for osu!mania.
     -   [GitHub](https://github.com/dudehacker/Osu-Keysound-Maker)
 -   [lua-mania](https://osu.ppy.sh/community/forums/topics/465914)—Converts osu!standard, osu!taiko, and osu!catch beatmaps to osu!mania.
     -   [GitHub](https://github.com/semyon422/lua-mania)
--   [Magic Copy](https://osu.ppy.sh/community/forums/topics/488175)—A tool that copies hit sounds from one difficulty to another and works with default and custom hit sounds.
+-   [Magic Copy](https://osu.ppy.sh/community/forums/topics/488175)—A tool that copies hitsounds from one difficulty to another and works with default and custom hitsounds.
 -   [Note Density calculator](https://osu.ppy.sh/community/forums/topics/488175)—Lists the distribution of keys in osu!mania maps.
 -   [o2jam to osu!mania converter](https://osu.ppy.sh/community/forums/topics/121149)—An o2jam to osu!mania converter.
 -   [OMISM](https://osu.ppy.sh/community/forums/topics/664319)—An osu!mania to Stepmania beatmap converter (and an osu!mania keysound copier).

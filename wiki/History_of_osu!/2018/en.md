@@ -2,15 +2,15 @@
 outdated: true
 ---
 
-# 2018
+# History of osu! 2018
 
 ## January
 
-After a six-month long hiatus, flyte posted on the [osu!next](http://osunext.tumblr.com) blog with some teaser pictures for the next website design. He explained that the current state of the website had many UX problems, from various functionality specs to user feedback, that wasn't considered at the time of designing. Since then, he had been taking some time to redesign the website's current design from scratch.
+After a six-month long hiatus, flyte posted on the [osu!next](https://osunext.tumblr.com) blog with some teaser pictures for the next website design. He explained that the current state of the website had many UX problems, from various functionality specs to user feedback, that wasn't considered at the time of designing. Since then, he had been taking some time to redesign the website's current design from scratch.
 
 The osu!mania 7K World Cup 2018 registrations opened. Community Choice 2017 (previously known as the "Best of" series) voting was opened.
 
-In osu!lazer, background blurring and the hidden mod were added. osu!mania scrolling speed was implemented. Thanks to cYsmix, a fresh set of default hit sounds was added. osu!catch was vastly improved and autoplay was fixed to be more human-like.
+In osu!lazer, background blurring and the hidden mod were added. osu!mania scrolling speed was implemented. Thanks to cYsmix, a fresh set of default hitsounds was added. osu!catch was vastly improved and autoplay was fixed to be more human-like.
 
 In osu!web, beatmap pack listings were improved, hype and nomination counters were visible to the beatmap listings. Obtaining a permalink to beatmap discussion post was made easier to copy, localisations can now resize the menu upon hovering over the locales, star ratings can be seen on the beatmap listing via hovering the difficulty icon, and sorting of beatmap discussions was added. A limit to only load 250 forum threads and unload others was implemented to avoid heavy memory consumption.
 
@@ -22,7 +22,7 @@ peppy briefly opened a GitHub issue to discuss about *passive HP*.
 
 Links:
 
-- [osu!next](http://osunext.tumblr.com/post/169336245023/hi-its-been-6-months-since-my-last-post-rest)
+- [osu!next](https://osunext.tumblr.com/post/169336245023/hi-its-been-6-months-since-my-last-post-rest)
 - [osu!mania 7K World Cup 2018: Registrations now open!](https://osu.ppy.sh/home/news/2018-01-10-MWC7K-2018-registrations-open)
 - [Dean Herbert on Twitter](https://twitter.com/ppy/status/951884503122784257)
 - [Community Choice 2017](https://osu.ppy.sh/home/news/2018-01-18-community-choice-2017)
@@ -36,7 +36,7 @@ Links:
 
 ## February
 
-In osu!lazer, the infamous catmull styled sliders were implemented; thus allowing older beatmaps to be played the way they were meant to be played. The revert button in the options was redesigned. SS+ and S+ statistics were now visible. osu!catch's scoreboard now appears, allowing players to actually complete an osu!catch game. cYsmix has been in the works to create the new default hit sounds. Muting the client through action keys was implemented, however, the design is still in progress. In-game URL handling was added and were said to stay (opening chat channels or osu! links will use the client, instead of leaving to open via a web browser). Adjusting visual settings can be done in the "loading screen". Replay importing now works, again.
+In osu!lazer, the infamous catmull styled sliders were implemented; thus allowing older beatmaps to be played the way they were meant to be played. The revert button in the options was redesigned. SS+ and S+ statistics were now visible. osu!catch's scoreboard now appears, allowing players to actually complete an osu!catch game. cYsmix has been in the works to create the new default hitsounds. Muting the client through action keys was implemented, however, the design is still in progress. In-game URL handling was added and were said to stay (opening chat channels or osu! links will use the client, instead of leaving to open via a web browser). Adjusting visual settings can be done in the "loading screen". Replay importing now works, again.
 
 In osu!web, the total play time was implemented in user profiles. Elasticsearch was updated. The old site was depreciated almost entirely (a new banner is now present almost everywhere on the old site, linking users to the new site). Genres and languages were added to beatmap pages. Recent activity now shows the "show more" option. Searching users was improved. Icons for the forum topics were changed to be more colour-blind friendly. Users are now able to set their default game mode (shown with a star next to the game mode) in their user profiles, rather than assuming the last viewed game mode. The changelog builds now have an osu!supporter promo at the bottom. An experience bar for the user's level can now be seen by hovering over the level badge.
 
@@ -126,9 +126,9 @@ Thanks to nekodex, the osu!supporter status is now visible in the [support the g
 
 Links:
 
--   [ppy/osu-web#2906](https://github.com/ppy/osu-web/pull/2906)
--   [ppy/osu-web#2896](https://github.com/ppy/osu-web/pull/2896)
--   [ppy/osu-web#2984](https://github.com/ppy/osu-web/pull/2984)
--   [ppy/osu-web#3033](https://github.com/ppy/osu-web/pull/3033)
--   [ppy/osu-web#2984](https://github.com/ppy/osu-web/pull/2984)
--   [ppy/osu-web#3099](https://github.com/ppy/osu-web/pull/3099)
+- [ppy/osu-web#2906](https://github.com/ppy/osu-web/pull/2906)
+- [ppy/osu-web#2896](https://github.com/ppy/osu-web/pull/2896)
+- [ppy/osu-web#2984](https://github.com/ppy/osu-web/pull/2984)
+- [ppy/osu-web#3033](https://github.com/ppy/osu-web/pull/3033)
+- [ppy/osu-web#2984](https://github.com/ppy/osu-web/pull/2984)
+- [ppy/osu-web#3099](https://github.com/ppy/osu-web/pull/3099)

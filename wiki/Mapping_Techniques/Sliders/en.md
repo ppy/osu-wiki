@@ -1,6 +1,6 @@
-# Sliders
+# Slider mapping techniques
 
-*See also: [Making Good Sliders](../Making_Good_Sliders)*
+*See also: [Making Good Sliders](/wiki/Mapping_Techniques/Making_Good_Sliders)*
 
 <!-- please place all mapping techniques in alphabetical order -->
 
@@ -24,8 +24,8 @@ Nominator(s): [Lizzy](https://osu.ppy.sh/users/1394757)
 Introverted flow is (literally translated from Latin) "pointing towards inside".
 This can be seen as:
 
-- a sharp flow dropoff from an arc to another that sometimes [blankets](../Formations/#blanket-combos) the start of the previous one.
-- a not-so sharp dropoff making the first arc [blanket](../Formations/#blanket-combos) the end of the second one, with or without hit circle between.
+- a sharp flow dropoff from an arc to another that sometimes [blankets](/wiki/Mapping_Techniques/Formations#blanket-combos) the start of the previous one.
+- a not-so sharp dropoff making the first arc [blanket](/wiki/Mapping_Techniques/Formations#blanket-combos) the end of the second one, with or without hit circle between.
 
 ### Mirrored Sliders
 
@@ -51,7 +51,7 @@ They are usually done with [Etna sliders](#etna-sliders), but can also be used w
 
 _Also known as: **Kick Slider**_
 
-_Not to be confused with [Hold Sliders](../Unrankable/#hold-sliders)._
+_Not to be confused with [Hold Sliders](/wiki/Mapping_Techniques/Unrankable#hold-sliders)._
 
 Nominator(s): [kingcobra52](https://osu.ppy.sh/users/9934)
 
@@ -117,7 +117,7 @@ Nominator(s): MetalMario201
 Rainbow sliders are large, arc-shaped sliders which generally take up half of the screen.
 These are best used in places with long, climactic, hold notes (sort of like spinners).
 
-[EBA](/wiki/Glossary/#eba) was just full of these.
+[EBA](/wiki/Glossary#eba) was just full of these.
 
 ### Slider Art
 
@@ -169,7 +169,7 @@ A hit circle is then placed where the previous slider head was.
 
 Nominator(s): [Rolled](https://osu.ppy.sh/users/5243)
 
-Tick-Hitsounds consists of slider ticks that has been replaced with a standard hit sound (clap, whistle, finish - usually overlayed with hit-normal/soft for accurate sound).
+Tick-Hitsounds consists of slider ticks that has been replaced with a standard hitsound (clap, whistle, finish - usually overlayed with hit-normal/soft for accurate sound).
 These are usually used to make a hitsound seem "constant" even during a slider.
 
 ### Tricky Triple Combo

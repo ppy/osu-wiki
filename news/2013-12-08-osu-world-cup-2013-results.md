@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "osu! World Cup 2013 - Results"
-date: 2014-12-08 00:00:00 +0000
+date: 2013-12-08 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/69421249436/osu-world-cup-2013-results
 ---
 
@@ -11,11 +11,11 @@ The osu! World Cup 2013 just ended, and we are proud to announce the winners of 
 
 During the grand final, Korea and Taiwan showed off their amazing playing skills. At the end, Korea won by 6-5 after beating Taiwan on the tiebreaker. You can watch the full record of the final right here:
 
-*   Team Korea wins a 6 month supporter tag, an osu! World Cup 2013 trophy, a profile badge for each player, and will be the very first to receive the brand-new osu!tablet!
+-   Team Korea wins a 6 month supporter tag, an osu! World Cup 2013 trophy, a profile badge for each player, and will be the very first to receive the brand-new osu!tablet!
     
-*   Team Taiwan is awarded with a 3 month supporter tag for each player.
+-   Team Taiwan is awarded with a 3 month supporter tag for each player.
     
-*   Team Poland receives a 1 month supporter tag for each player.
+-   Team Poland receives a 1 month supporter tag for each player.
     
 
 Congratulations to the winners, and thanks to all participants for making this tournament so great. During the finals, we peaked at over 12,000 viewers watching the live stream!

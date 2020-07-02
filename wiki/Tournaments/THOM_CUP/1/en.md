@@ -7,37 +7,37 @@ tags:
 
 # The Heptakey osu!mania Cup #1
 
-![THOM CUP Logo](logo.png)
+![THOM CUP Logo](img/logo.png)
 
 **The Heptakey osu!mania Cup \#1** (***THOM CUP \#1***) is a one-on-one euro-american osu!mania tournament. It is the 1st installment of the THOM CUP. More specifically, this tournament is an osu!mania 7-key tournament.
 
 ## Tournament Schedule
 
 | Event | Timestamp |
-|---:|---|
-| Registration Phase   | 2018-04-16/2018-05-11 (23:59 UTC) |
-| Qualifiers           | 2018-05-19/2018-05-20             |
-| Playoffs - Week 1    | 2018-05-26/2018-05-27             |
-| Playoffs - Week 2    | 2018-06-02/2018-06-03             |
-| Group Stage          | 2018-06-09/2018-06-10             |
-| Round of 16          | 2018-06-16/2018-06-17             |
-| Quarterfinals        | 2018-06-23/2018-06-24             |
-| Semifinals           | 2018-06-30/2018-07-01             |
-| Finals               | 2018-07-07/2018-07-08             |
-| Grand Finals         | 2018-07-14/2018-07-15             |
+| --: | :-- |
+| Registration Phase | 2018-04-16/2018-05-11 (23:59 UTC) |
+| Qualifiers | 2018-05-19/2018-05-20 |
+| Playoffs - Week 1 | 2018-05-26/2018-05-27 |
+| Playoffs - Week 2 | 2018-06-02/2018-06-03 |
+| Group Stage | 2018-06-09/2018-06-10 |
+| Round of 16 | 2018-06-16/2018-06-17 |
+| Quarterfinals | 2018-06-23/2018-06-24 |
+| Semifinals | 2018-06-30/2018-07-01 |
+| Finals | 2018-07-07/2018-07-08 |
+| Grand Finals | 2018-07-14/2018-07-15 |
 
 ## Prizes
 
 | Placing | Prize |
-| :-: | :--- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 50 USD |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 30 USD |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 20 USD |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 50 USD |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 30 USD |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 20 USD |
 
 ## Organization
 
 | Position | Member(s) |
-| --- | --- |
+| :-- | :-- |
 | Host | ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Coordinator | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
 | Map Selector | ![][flag_MY] [Cryolien](https://osu.ppy.sh/users/1626983), ![][flag_PL] [Kamikaze](https://osu.ppy.sh/users/2124783), ![][flag_US] [stupud man](https://osu.ppy.sh/users/2141612) |
@@ -61,7 +61,7 @@ tags:
 ### Qualified Participants
 
 | Seed | Users |
-| --- | --- |
+| :-- | :-- |
 | Top (#1 - #8) | ![][flag_BR] [Lothus](https://osu.ppy.sh/users/9530019), ![][flag_ES] [aitor98](https://osu.ppy.sh/users/3154852), ![][flag_IT] [Yomiel](https://osu.ppy.sh/users/3461860), ![][flag_FR] [Elementaires](https://osu.ppy.sh/users/2284328), ![][flag_CL] [Skalim](https://osu.ppy.sh/users/2225008), ![][flag_US] [Gekido-](https://osu.ppy.sh/users/4693052), ![][flag_US] [Alternater](https://osu.ppy.sh/users/4980256), ![][flag_BR] [UrsoManso](https://osu.ppy.sh/users/4569601) |
 | High (#9 - #16) | ![][flag_RU] [Mage](https://osu.ppy.sh/users/5527957), ![][flag_BR] [Keweft](https://osu.ppy.sh/users/75777), ![][flag_RO] [robby250](https://osu.ppy.sh/users/2653437), ![][flag_BR] [spoonguy](https://osu.ppy.sh/users/932381), ![][flag_US] [dewero](https://osu.ppy.sh/users/2644993), ![][flag_US] [-Squishy](https://osu.ppy.sh/users/4372604), ![][flag_GB] [Hayabusa](https://osu.ppy.sh/users/3104108), ![][flag_US] [Craig](https://osu.ppy.sh/users/3565377)|
 | Middle (#17 - #48) | ![][flag_CH] [Gamer97](https://osu.ppy.sh/users/4952941), ![][flag_GB] [PikachuNick](https://osu.ppy.sh/users/4168230), ![][flag_BR] [SillyFangirl](https://osu.ppy.sh/users/2288363), ![][flag_CL] [Asagaki](https://osu.ppy.sh/users/2632902), ![][flag_IE] [Barry](https://osu.ppy.sh/users/3728315), ![][flag_DE] [rohen04](https://osu.ppy.sh/users/369614), ![][flag_CA] [Niisound](https://osu.ppy.sh/users/970979), ![][flag_PL] [-Karen-chan-](https://osu.ppy.sh/users/1333495), ![][flag_RU] [Daleenie](https://osu.ppy.sh/users/1540597), ![][flag_SE] [Craty](https://osu.ppy.sh/users/3918056), ![][flag_GB] [xSnaggles](https://osu.ppy.sh/users/3799946), ![][flag_FR] [MillaMaxwelle](https://osu.ppy.sh/users/6264519), ![][flag_VE] [Aezlack](https://osu.ppy.sh/users/8065567), ![][flag_ES] [Userbacker](https://osu.ppy.sh/users/1872307), ![][flag_DE] [Malox](https://osu.ppy.sh/users/4516252), ![][flag_RU] [Kivicat](https://osu.ppy.sh/users/2790640), ![][flag_SE] [Sadcat](https://osu.ppy.sh/users/4123399), ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_US] [Teggom](https://osu.ppy.sh/users/2588470), ![][flag_FR] [AntoAa](https://osu.ppy.sh/users/3897919), ![][flag_BR] [Lazarento](https://osu.ppy.sh/users/3224958), ![][flag_BY] [MatVeiQaaa](https://osu.ppy.sh/users/6283029), ![][flag_DK] [Jole](https://osu.ppy.sh/users/2883132), ![][flag_DE] [ReTLoM](https://osu.ppy.sh/users/2271049), ![][flag_MX] [Reba](https://osu.ppy.sh/users/3087654), ![][flag_BR] [CALCIO01](https://osu.ppy.sh/users/7897834), ![][flag_RU] [timebuka](https://osu.ppy.sh/users/6857841), ![][flag_BR] [andreymc](https://osu.ppy.sh/users/5691061), ![][flag_BR] [Kiki-chan](https://osu.ppy.sh/users/5642989), ![][flag_BR] [LothusFangirl](https://osu.ppy.sh/users/4685756), ![][flag_CL] [Chamelforito](https://osu.ppy.sh/users/6288548), ![][flag_PL] [Hentu](https://osu.ppy.sh/users/7706642) |
@@ -70,15 +70,15 @@ tags:
 ### Groups
 
 | Group | Top | High | Low | Bottom |
-| :---: | --- | --- | --- | --- |
-| **A** | ![][flag_FR] Elementaires | ![][flag_BR] spoonguy | ![][flag_BR] SillyFangirl | ![][flag_US] Teggom     |
-| **B** | ![][flag_BR] UrsoManso    | ![][flag_GB] Hayabusa | ![][flag_CL] Asagaki      | ![][flag_DK] Jole       |
-| **C** | ![][flag_IT] Yomiel       | ![][flag_RO] robby250 | ![][flag_RU] Kivicat      | ![][flag_US] afrono     |
-| **D** | ![][flag_US] Alternater   | ![][flag_US] dewero   | ![][flag_DE] rohen04      | ![][flag_BY] MatVeiQaaa |
-| **E** | ![][flag_BR] Lothus       | ![][flag_BR] Keweft   | ![][flag_PL] Benzopirene  | ![][flag_BR] Lazarento  |
-| **F** | ![][flag_ES] aitor98      | ![][flag_CH] Gamer97  | ![][flag_PL] -Karen-chan- | ![][flag_FR] AntoAa     |
-| **G** | ![][flag_CL] Skalim       | ![][flag_RU] Mage     | ![][flag_GB] PikachuNick  | ![][flag_BR] andreymc   |
-| **H** | ![][flag_US] Gekido-      | ![][flag_US] Craig    | ![][flag_RU] Daleenie     | ![][flag_BR] CALCIO01   |
+| :-: | :-- | :-- | :-- | :-- |
+| **A** | ![][flag_FR] Elementaires | ![][flag_BR] spoonguy | ![][flag_BR] SillyFangirl | ![][flag_US] Teggom |
+| **B** | ![][flag_BR] UrsoManso | ![][flag_GB] Hayabusa | ![][flag_CL] Asagaki | ![][flag_DK] Jole |
+| **C** | ![][flag_IT] Yomiel | ![][flag_RO] robby250 | ![][flag_RU] Kivicat | ![][flag_US] afrono |
+| **D** | ![][flag_US] Alternater | ![][flag_US] dewero | ![][flag_DE] rohen04 | ![][flag_BY] MatVeiQaaa |
+| **E** | ![][flag_BR] Lothus | ![][flag_BR] Keweft | ![][flag_PL] Benzopirene | ![][flag_BR] Lazarento |
+| **F** | ![][flag_ES] aitor98 | ![][flag_CH] Gamer97 | ![][flag_PL] -Karen-chan- | ![][flag_FR] AntoAa |
+| **G** | ![][flag_CL] Skalim | ![][flag_RU] Mage | ![][flag_GB] PikachuNick | ![][flag_BR] andreymc |
+| **H** | ![][flag_US] Gekido- | ![][flag_US] Craig | ![][flag_RU] Daleenie | ![][flag_BR] CALCIO01 |
 
 ---------------------------
 
@@ -87,10 +87,10 @@ tags:
 This competition has come to an end and resulted in the following podium:
 
 | Placing | User |
-| :-: | --- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | ![][flag_ES] [**aitor98**](https://osu.ppy.sh/users/3154852) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_IT] [**Yomiel**](https://osu.ppy.sh/users/3461860)  |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_CL] [**Skalim**](https://osu.ppy.sh/users/2225008)  |
+| :-: | :-- |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_ES] [**aitor98**](https://osu.ppy.sh/users/3154852) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_IT] [**Yomiel**](https://osu.ppy.sh/users/3461860) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CL] [**Skalim**](https://osu.ppy.sh/users/2225008) |
 
 ---------------------------
 
@@ -253,184 +253,184 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-| Saturday, 2018-07-14 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| Saturday, 2018-07-14 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
 | Skalim ![][flag_CL] | 2 | **7** | ![][flag_IT] **Yomiel** | [#1](https://osu.ppy.sh/community/matches/44166950) |
 
-| Sunday, 2018-07-15 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| Sunday, 2018-07-15 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
 | **aitor98** ![][flag_ES] | **7** | 2 | ![][flag_IT] Yomiel | [#1](https://osu.ppy.sh/community/matches/44194101) |
 
 ### Finals
 
-| Saturday, 2018-07-07 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| Keweft ![][flag_BR]      | 0 | **7** | ![][flag_IT] **Yomiel**  | [#1](https://osu.ppy.sh/community/matches/43968717) |
-| **aitor98** ![][flag_ES] | **7** | 1 | ![][flag_CL] Skalim      | [#1](https://osu.ppy.sh/community/matches/43977039) |
-| Lothus ![][flag_BR]      | 0 | **7** | ![][flag_US] **Gekido-** | -Win by Default- |
+| Saturday, 2018-07-07 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Keweft ![][flag_BR] | 0 | **7** | ![][flag_IT] **Yomiel** | [#1](https://osu.ppy.sh/community/matches/43968717) |
+| **aitor98** ![][flag_ES] | **7** | 1 | ![][flag_CL] Skalim | [#1](https://osu.ppy.sh/community/matches/43977039) |
+| Lothus ![][flag_BR] | 0 | **7** | ![][flag_US] **Gekido-** | -Win by Default- |
 
-| Sunday, 2018-07-08 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| Sunday, 2018-07-08 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
 | **Yomiel** ![][flag_IT] | **7** | 0 | ![][flag_US] Gekido- | -Win by Default- |
 
 ### Semifinals
 
-| Friday, 2018-06-29 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| Friday, 2018-06-29 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
 | **robby250** ![][flag_RO] | **6** | 0 | ![][flag_GB] Hayabusa | -Win by Default- |
-| **Gamer97** ![][flag_CH]  | **6** | 1 | ![][flag_RU] Daleenie | [#1](https://osu.ppy.sh/community/matches/43759850) |
+| **Gamer97** ![][flag_CH] | **6** | 1 | ![][flag_RU] Daleenie | [#1](https://osu.ppy.sh/community/matches/43759850) |
 
-| Saturday, 2018-06-30 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| **Yomiel** ![][flag_IT]   | **6** | 0 | ![][flag_FR] Elementaires | -Win by Default- |
-| SillyFangirl ![][flag_BR] | 0 | **6** | ![][flag_US] **Gekido-**  | -Win by Default- |
-| **Skalim** ![][flag_CL]   | **6** | 2 | ![][flag_BR] Lothus       | [#1](https://osu.ppy.sh/community/matches/43791757) |
+| Saturday, 2018-06-30 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Yomiel** ![][flag_IT] | **6** | 0 | ![][flag_FR] Elementaires | -Win by Default- |
+| SillyFangirl ![][flag_BR] | 0 | **6** | ![][flag_US] **Gekido-** | -Win by Default- |
+| **Skalim** ![][flag_CL] | **6** | 2 | ![][flag_BR] Lothus | [#1](https://osu.ppy.sh/community/matches/43791757) |
 
-| Sunday, 2018-07-01 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| **aitor98** ![][flag_ES] | **6** | 0 | ![][flag_BR] Keweft      | [#1](https://osu.ppy.sh/community/matches/43813280) |
-| Gamer97 ![][flag_CH]     | 5 | **6** | ![][flag_US] **Gekido-** | [#1](https://osu.ppy.sh/community/matches/43815651) |
+| Sunday, 2018-07-01 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **aitor98** ![][flag_ES] | **6** | 0 | ![][flag_BR] Keweft | [#1](https://osu.ppy.sh/community/matches/43813280) |
+| Gamer97 ![][flag_CH] | 5 | **6** | ![][flag_US] **Gekido-** | [#1](https://osu.ppy.sh/community/matches/43815651) |
 
-| Monday, 2018-07-02 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| Monday, 2018-07-02 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
 | **Yomiel** ![][flag_IT] | **6** | 0 | ![][flag_RO] robby250 | [#1](https://osu.ppy.sh/community/matches/43835514) |
 
 ### Quarterfinals
 
-| Friday, 2018-06-22 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| Friday, 2018-06-22 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
 | **Daleenie** ![][flag_RU] | **6** | 0 | ![][flag_DK] Jole | [#1](https://osu.ppy.sh/community/matches/43564735) |
 
-| Saturday, 2018-06-23 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| Mage ![][flag_RU]       | 0 | **6** | ![][flag_FR] **Elementaires** | [#1](https://osu.ppy.sh/community/matches/43592644) |
-| **Skalim** ![][flag_CL] | **6** | 1 | ![][flag_RO] robby250         | [#1](https://osu.ppy.sh/community/matches/43594452) |
+| Saturday, 2018-06-23 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Mage ![][flag_RU] | 0 | **6** | ![][flag_FR] **Elementaires** | [#1](https://osu.ppy.sh/community/matches/43592644) |
+| **Skalim** ![][flag_CL] | **6** | 1 | ![][flag_RO] robby250 | [#1](https://osu.ppy.sh/community/matches/43594452) |
 
-| Sunday, 2018-06-24 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| **Gekido-** ![][flag_US] | **6** | 0 | ![][flag_DE] rohen04      | [#1](https://osu.ppy.sh/community/matches/43623915) |
+| Sunday, 2018-06-24 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Gekido-** ![][flag_US] | **6** | 0 | ![][flag_DE] rohen04 | [#1](https://osu.ppy.sh/community/matches/43623915) |
 | **aitor98** ![][flag_ES] | **6** | 0 | ![][flag_BR] SillyFangirl | [#1](https://osu.ppy.sh/community/matches/43625367) |
-| Yomiel ![][flag_IT]      | 2 | **6** | ![][flag_BR] **Lothus**   | [#1](https://osu.ppy.sh/community/matches/43627012) |
-| **Keweft** ![][flag_BR]  | **6** | 2 | ![][flag_CH] Gamer97      | [#1](https://osu.ppy.sh/community/matches/43628968) |
-| Alternater ![][flag_US]  | 0 | **6** | ![][flag_GB] **Hayabusa** | -Win by Default- |
+| Yomiel ![][flag_IT] | 2 | **6** | ![][flag_BR] **Lothus** | [#1](https://osu.ppy.sh/community/matches/43627012) |
+| **Keweft** ![][flag_BR] | **6** | 2 | ![][flag_CH] Gamer97 | [#1](https://osu.ppy.sh/community/matches/43628968) |
+| Alternater ![][flag_US] | 0 | **6** | ![][flag_GB] **Hayabusa** | -Win by Default- |
 
 ### Round of 16
 
-| Sunday, 2018-05-17 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| **aitor98** ![][flag_ES]      | **5** | 0 | ![][flag_RU] Mage         | [#1](https://osu.ppy.sh/community/matches/43421756) |
-| **robby250** ![][flag_RO]     | **5** | 1 | ![][flag_DK] Jole         | [#1](https://osu.ppy.sh/community/matches/43423366) |
-| Gekido- ![][flag_US]          | 2 | **5** | ![][flag_IT] **Yomiel**   | [#1](https://osu.ppy.sh/community/matches/43424816) |
-| **Lothus** ![][flag_BR]       | **5** | 0 | ![][flag_DE] rohen04      | [#1](https://osu.ppy.sh/community/matches/43426548) |
-| **Skalim** ![][flag_CL]       | **5** | 0 | ![][flag_RU] Daleenie     | [#1](https://osu.ppy.sh/community/matches/43428153) |
-| Hayabusa ![][flag_GB]         | 3 | **5** | ![][flag_CH] **Gamer97**  | [#1](https://osu.ppy.sh/community/matches/43429449) |
+| Sunday, 2018-05-17 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **aitor98** ![][flag_ES] | **5** | 0 | ![][flag_RU] Mage | [#1](https://osu.ppy.sh/community/matches/43421756) |
+| **robby250** ![][flag_RO] | **5** | 1 | ![][flag_DK] Jole | [#1](https://osu.ppy.sh/community/matches/43423366) |
+| Gekido- ![][flag_US] | 2 | **5** | ![][flag_IT] **Yomiel** | [#1](https://osu.ppy.sh/community/matches/43424816) |
+| **Lothus** ![][flag_BR] | **5** | 0 | ![][flag_DE] rohen04 | [#1](https://osu.ppy.sh/community/matches/43426548) |
+| **Skalim** ![][flag_CL] | **5** | 0 | ![][flag_RU] Daleenie | [#1](https://osu.ppy.sh/community/matches/43428153) |
+| Hayabusa ![][flag_GB] | 3 | **5** | ![][flag_CH] **Gamer97** | [#1](https://osu.ppy.sh/community/matches/43429449) |
 | **SillyFangirl** ![][flag_BR] | **5** | 1 | ![][flag_FR] Elementaires | [#1](https://osu.ppy.sh/community/matches/43431702) |
-| Alternater ![][flag_US]       | 2 | **5** | ![][flag_BR] **Keweft**   | [#1](https://osu.ppy.sh/community/matches/43432870) |
+| Alternater ![][flag_US] | 2 | **5** | ![][flag_BR] **Keweft** | [#1](https://osu.ppy.sh/community/matches/43432870) |
 
 ### Group Stage
 
-| Saturday, 2018-05-09 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| Benzopirene ![][flag_PL]    | 4 | **5** | ![][flag_BR] **Lazarento** | [#1](https://osu.ppy.sh/community/matches/43191024) |
-| **aitor98** ![][flag_ES]    | **5** | 0 | ![][flag_PL] -Karen-chan-  | [#1](https://osu.ppy.sh/community/matches/43196021) |
-| **rohen04** ![][flag_DE]    | **5** | 0 | ![][flag_BY] MatVeiQaaa    | [#1](https://osu.ppy.sh/community/matches/43198128) |
-| Yomiel ![][flag_IT]         | 3 | **5** | ![][flag_RO] **robby250**  | [#1](https://osu.ppy.sh/community/matches/43197792) |
-| **Mage** ![][flag_RU]       | **5** | 0 | ![][flag_GB] PikachuNick   | -Win by Default- |
-| -Karen-chan- ![][flag_PL]   | 0 | **5** | ![][flag_FR] **AntoAa**    | [#1](https://osu.ppy.sh/community/matches/43199734) |
-| **aitor98** ![][flag_ES]    | **5** | 0 | ![][flag_CH] Gamer97       | [#1](https://osu.ppy.sh/community/matches/43201528) |
-| **robby250** ![][flag_RO]   | **5** | 0 | ![][flag_US] afrono        | [#1](https://osu.ppy.sh/community/matches/43201516) |
-| Asagaki ![][flag_CL]        | 0 | **5** | ![][flag_DK] **Jole**      | -Win by Default- |
-| PikachuNick ![][flag_GB]    | 0 | **5** | ![][flag_BR] **andreymc**  | -Win by Default- |
-| **Kivicat** ![][flag_RU]    | **5** | 1 | ![][flag_US] afrono        | [#1](https://osu.ppy.sh/community/matches/43203562) |
-| **Hayabusa** ![][flag_GB]   | **5** | 0 | ![][flag_CL] Asagaki       | -Win by Default- |
-| UrsoManso ![][flag_BR]      | 0 | **5** | ![][flag_DK] **Jole**      | -Win by Default- |
-| **aitor98** ![][flag_ES]    | **5** | 0 | ![][flag_FR] AntoAa        | [#1](https://osu.ppy.sh/community/matches/43203704) |
-| UrsoManso ![][flag_BR]      | 0 | **5** | ![][flag_GB] **Hayabusa**  | -Win by Default- |
-| **Skalim** ![][flag_CL]     | **5** | 0 | ![][flag_GB] PikachuNick   | -Win by Default- |
-| **Daleenie** ![][flag_RU]   | **5** | 0 | ![][flag_BR] CALCIO01      | -Win by Default- |
-| **Gamer97** ![][flag_CH]    | **5** | 0 | ![][flag_FR] AntoAa        | [#1](https://osu.ppy.sh/community/matches/43205774) |
-| Craig ![][flag_US]          | 4 | **5** | ![][flag_RU] **Daleenie**  | [#1](https://osu.ppy.sh/community/matches/43207890) |
-| **Skalim** ![][flag_CL]     | **5** | 1 | ![][flag_BR] andreymc      | [#1](https://osu.ppy.sh/community/matches/43209919) |
-| **Alternater** ![][flag_US] | **5** | 1 | ![][flag_US] dewero        | [#1](https://osu.ppy.sh/community/matches/43211295) |
+| Saturday, 2018-05-09 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| Benzopirene ![][flag_PL] | 4 | **5** | ![][flag_BR] **Lazarento** | [#1](https://osu.ppy.sh/community/matches/43191024) |
+| **aitor98** ![][flag_ES] | **5** | 0 | ![][flag_PL] -Karen-chan- | [#1](https://osu.ppy.sh/community/matches/43196021) |
+| **rohen04** ![][flag_DE] | **5** | 0 | ![][flag_BY] MatVeiQaaa | [#1](https://osu.ppy.sh/community/matches/43198128) |
+| Yomiel ![][flag_IT] | 3 | **5** | ![][flag_RO] **robby250** | [#1](https://osu.ppy.sh/community/matches/43197792) |
+| **Mage** ![][flag_RU] | **5** | 0 | ![][flag_GB] PikachuNick | -Win by Default- |
+| -Karen-chan- ![][flag_PL] | 0 | **5** | ![][flag_FR] **AntoAa** | [#1](https://osu.ppy.sh/community/matches/43199734) |
+| **aitor98** ![][flag_ES] | **5** | 0 | ![][flag_CH] Gamer97 | [#1](https://osu.ppy.sh/community/matches/43201528) |
+| **robby250** ![][flag_RO] | **5** | 0 | ![][flag_US] afrono | [#1](https://osu.ppy.sh/community/matches/43201516) |
+| Asagaki ![][flag_CL] | 0 | **5** | ![][flag_DK] **Jole** | -Win by Default- |
+| PikachuNick ![][flag_GB] | 0 | **5** | ![][flag_BR] **andreymc** | -Win by Default- |
+| **Kivicat** ![][flag_RU] | **5** | 1 | ![][flag_US] afrono | [#1](https://osu.ppy.sh/community/matches/43203562) |
+| **Hayabusa** ![][flag_GB] | **5** | 0 | ![][flag_CL] Asagaki | -Win by Default- |
+| UrsoManso ![][flag_BR] | 0 | **5** | ![][flag_DK] **Jole** | -Win by Default- |
+| **aitor98** ![][flag_ES] | **5** | 0 | ![][flag_FR] AntoAa | [#1](https://osu.ppy.sh/community/matches/43203704) |
+| UrsoManso ![][flag_BR] | 0 | **5** | ![][flag_GB] **Hayabusa** | -Win by Default- |
+| **Skalim** ![][flag_CL] | **5** | 0 | ![][flag_GB] PikachuNick | -Win by Default- |
+| **Daleenie** ![][flag_RU] | **5** | 0 | ![][flag_BR] CALCIO01 | -Win by Default- |
+| **Gamer97** ![][flag_CH] | **5** | 0 | ![][flag_FR] AntoAa | [#1](https://osu.ppy.sh/community/matches/43205774) |
+| Craig ![][flag_US] | 4 | **5** | ![][flag_RU] **Daleenie** | [#1](https://osu.ppy.sh/community/matches/43207890) |
+| **Skalim** ![][flag_CL] | **5** | 1 | ![][flag_BR] andreymc | [#1](https://osu.ppy.sh/community/matches/43209919) |
+| **Alternater** ![][flag_US] | **5** | 1 | ![][flag_US] dewero | [#1](https://osu.ppy.sh/community/matches/43211295) |
 
-| Sunday, 2018-05-10 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| **Gekido-** ![][flag_US]      | **5** | 1 | ![][flag_BR] CALCIO01         | [#1](https://osu.ppy.sh/community/matches/43212349) |
-| **UrsoManso** ![][flag_BR]    | **5** | 0 | ![][flag_CL] Asagaki          | -Win by Default- |
-| **Craig** ![][flag_US]        | **5** | 0 | ![][flag_BR] CALCIO01         | [#1](https://osu.ppy.sh/community/matches/43214430) |
-| **Gekido-** ![][flag_US]      | **5** | 1 | ![][flag_US] Craig            | [#1](https://osu.ppy.sh/community/matches/43215489) |
-| **Mage** ![][flag_RU]         | **5** | 4 | ![][flag_BR] andreymc         | [#1](https://osu.ppy.sh/community/matches/43229654) |
-| **Skalim** ![][flag_CL]       | **5** | 0 | ![][flag_RU] Mage             | [#1](https://osu.ppy.sh/community/matches/43231342) |
-| **Keweft** ![][flag_BR]       | **5** | 0 | ![][flag_PL] Benzopirene      | -Win by Default- |
-| **Lothus** ![][flag_BR]       | **5** | 0 | ![][flag_BR] Lazarento        | [#1](https://osu.ppy.sh/community/matches/43233882) |
-| Elementaires ![][flag_FR]     | 4 | **5** | ![][flag_BR] **SillyFangirl** | [#1](https://osu.ppy.sh/community/matches/43233102) |
-| **SillyFangirl** ![][flag_BR] | **5** | 0 | ![][flag_US] Teggom           | -Win by Default- |
-| **Hayabusa** ![][flag_GB]     | **5** | 1 | ![][flag_DK] Jole             | [#1](https://osu.ppy.sh/community/matches/43234676) |
-| **robby250** ![][flag_RO]     | **5** | 0 | ![][flag_RU] Kivicat          | [#1](https://osu.ppy.sh/community/matches/43234876) |
-| **Alternater** ![][flag_US]   | **5** | 1 | ![][flag_DE] rohen04          | [#1](https://osu.ppy.sh/community/matches/43235142) |
-| **Lothus** ![][flag_BR]       | **5** | 0 | ![][flag_PL] Benzopirene      | -Win by Default- |
-| **spoonguy** ![][flag_BR]     | **5** | 0 | ![][flag_US] Teggom           | -Win by Default- |
-| **Alternater** ![][flag_US]   | **5** | 0 | ![][flag_BY] MatVeiQaaa       | [#1](https://osu.ppy.sh/community/matches/43236906) |
-| dewero ![][flag_US]           | 4 | **5** | ![][flag_DE] **rohen04**      | [#1](https://osu.ppy.sh/community/matches/43236529) |
-| **Keweft** ![][flag_BR]       | **5** | 1 | ![][flag_BR] Lazarento        | [#1](https://osu.ppy.sh/community/matches/43236538) |
-| **Gekido-** ![][flag_US]      | **5** | 4 | ![][flag_RU] Daleenie         | [#1](https://osu.ppy.sh/community/matches/43236398) |
-| **Elementaires** ![][flag_FR] | **5** | 0 | ![][flag_BR] spoonguy         | [#1](https://osu.ppy.sh/community/matches/43238774) |  
-| **dewero** ![][flag_US]       | **5** | 0 | ![][flag_BY] MatVeiQaaa       | [#1](https://osu.ppy.sh/community/matches/43238779) |
-| **Lothus** ![][flag_BR]       | **5** | 1 | ![][flag_BR] Keweft           | [#1](https://osu.ppy.sh/community/matches/43238654) |
-| **Gamer97** ![][flag_CH]      | **5** | 0 | ![][flag_PL] -Karen-chan-     | -Win by Default- |
-| spoonguy ![][flag_BR]         | 3 | **5** | ![][flag_BR] **SillyFangirl** | [#1](https://osu.ppy.sh/community/matches/43240022) |
-| **Elementaires** ![][flag_FR] | **5** | 0 | ![][flag_US] Teggom           | -Win by Default- |
-| **Yomiel** ![][flag_IT]       | **5** | 0 | ![][flag_US] afrono           | -Win by Default- |
+| Sunday, 2018-05-10 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Gekido-** ![][flag_US] | **5** | 1 | ![][flag_BR] CALCIO01 | [#1](https://osu.ppy.sh/community/matches/43212349) |
+| **UrsoManso** ![][flag_BR] | **5** | 0 | ![][flag_CL] Asagaki | -Win by Default- |
+| **Craig** ![][flag_US] | **5** | 0 | ![][flag_BR] CALCIO01 | [#1](https://osu.ppy.sh/community/matches/43214430) |
+| **Gekido-** ![][flag_US] | **5** | 1 | ![][flag_US] Craig | [#1](https://osu.ppy.sh/community/matches/43215489) |
+| **Mage** ![][flag_RU] | **5** | 4 | ![][flag_BR] andreymc | [#1](https://osu.ppy.sh/community/matches/43229654) |
+| **Skalim** ![][flag_CL] | **5** | 0 | ![][flag_RU] Mage | [#1](https://osu.ppy.sh/community/matches/43231342) |
+| **Keweft** ![][flag_BR] | **5** | 0 | ![][flag_PL] Benzopirene | -Win by Default- |
+| **Lothus** ![][flag_BR] | **5** | 0 | ![][flag_BR] Lazarento | [#1](https://osu.ppy.sh/community/matches/43233882) |
+| Elementaires ![][flag_FR] | 4 | **5** | ![][flag_BR] **SillyFangirl** | [#1](https://osu.ppy.sh/community/matches/43233102) |
+| **SillyFangirl** ![][flag_BR] | **5** | 0 | ![][flag_US] Teggom | -Win by Default- |
+| **Hayabusa** ![][flag_GB] | **5** | 1 | ![][flag_DK] Jole | [#1](https://osu.ppy.sh/community/matches/43234676) |
+| **robby250** ![][flag_RO] | **5** | 0 | ![][flag_RU] Kivicat | [#1](https://osu.ppy.sh/community/matches/43234876) |
+| **Alternater** ![][flag_US] | **5** | 1 | ![][flag_DE] rohen04 | [#1](https://osu.ppy.sh/community/matches/43235142) |
+| **Lothus** ![][flag_BR] | **5** | 0 | ![][flag_PL] Benzopirene | -Win by Default- |
+| **spoonguy** ![][flag_BR] | **5** | 0 | ![][flag_US] Teggom | -Win by Default- |
+| **Alternater** ![][flag_US] | **5** | 0 | ![][flag_BY] MatVeiQaaa | [#1](https://osu.ppy.sh/community/matches/43236906) |
+| dewero ![][flag_US] | 4 | **5** | ![][flag_DE] **rohen04** | [#1](https://osu.ppy.sh/community/matches/43236529) |
+| **Keweft** ![][flag_BR] | **5** | 1 | ![][flag_BR] Lazarento | [#1](https://osu.ppy.sh/community/matches/43236538) |
+| **Gekido-** ![][flag_US] | **5** | 4 | ![][flag_RU] Daleenie | [#1](https://osu.ppy.sh/community/matches/43236398) |
+| **Elementaires** ![][flag_FR] | **5** | 0 | ![][flag_BR] spoonguy | [#1](https://osu.ppy.sh/community/matches/43238774) |
+| **dewero** ![][flag_US] | **5** | 0 | ![][flag_BY] MatVeiQaaa | [#1](https://osu.ppy.sh/community/matches/43238779) |
+| **Lothus** ![][flag_BR] | **5** | 1 | ![][flag_BR] Keweft | [#1](https://osu.ppy.sh/community/matches/43238654) |
+| **Gamer97** ![][flag_CH] | **5** | 0 | ![][flag_PL] -Karen-chan- | -Win by Default- |
+| spoonguy ![][flag_BR] | 3 | **5** | ![][flag_BR] **SillyFangirl** | [#1](https://osu.ppy.sh/community/matches/43240022) |
+| **Elementaires** ![][flag_FR] | **5** | 0 | ![][flag_US] Teggom | -Win by Default- |
+| **Yomiel** ![][flag_IT] | **5** | 0 | ![][flag_US] afrono | -Win by Default- |
 
-| Tuesday, 2018-05-12 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
+| Tuesday, 2018-05-12 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
 | **Yomiel** ![][flag_IT] | **5** | 0 | ![][flag_RU] Kivicat | [#1](https://osu.ppy.sh/community/matches/43284727) |
 
 ### Playoffs
 
-| Saturday, 2018-05-26 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| **Kivicat** ![][flag_RU]         | **4** | 0 | ![][flag_SE] Sadcat         | [#1](https://osu.ppy.sh/community/matches/42785051) |
-| **PhobosX** ![][flag_RU]         | **4** | 3 | ![][flag_PL] Brunosky       | [#1](https://osu.ppy.sh/community/matches/42788074) |
-| **Lude** ![][flag_GT]            | **4** | 1 | ![][flag_DE] ElectroYan     | [#1](https://osu.ppy.sh/community/matches/42789232) |
-| **-Karen-chan-** ![][flag_PL]    | **4** | 0 | ![][flag_MX] Reba           | [#1](https://osu.ppy.sh/community/matches/42789588) |
+| Saturday, 2018-05-26 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Kivicat** ![][flag_RU] | **4** | 0 | ![][flag_SE] Sadcat | [#1](https://osu.ppy.sh/community/matches/42785051) |
+| **PhobosX** ![][flag_RU] | **4** | 3 | ![][flag_PL] Brunosky | [#1](https://osu.ppy.sh/community/matches/42788074) |
+| **Lude** ![][flag_GT] | **4** | 1 | ![][flag_DE] ElectroYan | [#1](https://osu.ppy.sh/community/matches/42789232) |
+| **-Karen-chan-** ![][flag_PL] | **4** | 0 | ![][flag_MX] Reba | [#1](https://osu.ppy.sh/community/matches/42789588) |
 | **[\_Chichinya\_]** ![][flag_VE] | **4** | 0 | ![][flag_NO] Bizarrely_F4st | [#1](https://osu.ppy.sh/community/matches/42791305) |
-| **Freek** ![][flag_NL]           | **4** | 0 | ![][flag_BR] coldloops      | [#1](https://osu.ppy.sh/community/matches/42792596) |
-| **PikachuNick** ![][flag_GB]     | **4** | 0 | ![][flag_CL] Chamelforito   | -Win by Default- |
+| **Freek** ![][flag_NL] | **4** | 0 | ![][flag_BR] coldloops | [#1](https://osu.ppy.sh/community/matches/42792596) |
+| **PikachuNick** ![][flag_GB] | **4** | 0 | ![][flag_CL] Chamelforito | -Win by Default- |
 
-| Sunday, 2018-05-26 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| **Gamer97** ![][flag_CH]      | **4** | 2 | ![][flag_PL] Hentu         | [#1](https://osu.ppy.sh/community/matches/42812924) |
-| capsafangirl ![][flag_PL]     | 0 | **4** | ![][flag_CL] **Matiias**   | [#1](https://osu.ppy.sh/community/matches/42819421) |
-| **playin14** ![][flag_DE]     | **4** | 0 | ![][flag_PL] Hlimak        | -Win by Default- |
-| **afrono** ![][flag_US]       | **4** | 0 | ![][flag_PL] Alicejoy      | [#1](https://osu.ppy.sh/community/matches/42822063) |
-| **Summit-** ![][flag_ES]      | **4** | 0 | ![][flag_CO] D4M14AN       | -Win by Default- |
+| Sunday, 2018-05-26 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Gamer97** ![][flag_CH] | **4** | 2 | ![][flag_PL] Hentu | [#1](https://osu.ppy.sh/community/matches/42812924) |
+| capsafangirl ![][flag_PL] | 0 | **4** | ![][flag_CL] **Matiias** | [#1](https://osu.ppy.sh/community/matches/42819421) |
+| **playin14** ![][flag_DE] | **4** | 0 | ![][flag_PL] Hlimak | -Win by Default- |
+| **afrono** ![][flag_US] | **4** | 0 | ![][flag_PL] Alicejoy | [#1](https://osu.ppy.sh/community/matches/42822063) |
+| **Summit-** ![][flag_ES] | **4** | 0 | ![][flag_CO] D4M14AN | -Win by Default- |
 | **SillyFangirl** ![][flag_BR] | **4** | 1 | ![][flag_BR] LothusFangirl | [#1](https://osu.ppy.sh/community/matches/42826881) |
-| **Asagaki** ![][flag_CL]      | **4** | 1 | ![][flag_BR] Kiki-chan     | [#1](https://osu.ppy.sh/community/matches/42831183) |
+| **Asagaki** ![][flag_CL] | **4** | 1 | ![][flag_BR] Kiki-chan | [#1](https://osu.ppy.sh/community/matches/42831183) |
 
-| Saturday, 2018-06-02 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| **Hayabusa** ![][flag_GB]   | **4** | 0 | ![][flag_RU] PhobosX      | -Win by Default- |
-| **Daleenie** ![][flag_RU]   | **4** | 1 | ![][flag_DE] ReTLoM       | [#1](https://osu.ppy.sh/community/matches/42996812) |
-| Craty ![][flag_SE]          | 3 | **4** | ![][flag_DK] **Jole**     | [#1](https://osu.ppy.sh/community/matches/42998451) |
-| Barry ![][flag_IE]          | 2 | **4** | ![][flag_BR] **andreymc** | [#1](https://osu.ppy.sh/community/matches/42999961) |
-| **spoonguy** ![][flag_BR]   | **4** | 0 | ![][flag_NL] Freek        | [#1](https://osu.ppy.sh/community/matches/43000902) |
-| Userbacker ![][flag_ES]     | 1 | **4** | ![][flag_US] **Teggom**   | [#1](https://osu.ppy.sh/community/matches/43001476) |
-| -Squishy ![][flag_US]       | 0 | **4** | ![][flag_US] **afrono**   | -Win by Default- |
+| Saturday, 2018-06-02 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **Hayabusa** ![][flag_GB] | **4** | 0 | ![][flag_RU] PhobosX | -Win by Default- |
+| **Daleenie** ![][flag_RU] | **4** | 1 | ![][flag_DE] ReTLoM | [#1](https://osu.ppy.sh/community/matches/42996812) |
+| Craty ![][flag_SE] | 3 | **4** | ![][flag_DK] **Jole** | [#1](https://osu.ppy.sh/community/matches/42998451) |
+| Barry ![][flag_IE] | 2 | **4** | ![][flag_BR] **andreymc** | [#1](https://osu.ppy.sh/community/matches/42999961) |
+| **spoonguy** ![][flag_BR] | **4** | 0 | ![][flag_NL] Freek | [#1](https://osu.ppy.sh/community/matches/43000902) |
+| Userbacker ![][flag_ES] | 1 | **4** | ![][flag_US] **Teggom** | [#1](https://osu.ppy.sh/community/matches/43001476) |
+| -Squishy ![][flag_US] | 0 | **4** | ![][flag_US] **afrono** | -Win by Default- |
 
-| Sunday, 2018-06-03 | | | | |
-| ---: | :---: | :---: | :--- | :---: |
-| **dewero** ![][flag_US]    | **4** | 1 | ![][flag_GT] Lude            | [#1](https://osu.ppy.sh/community/matches/43008528) |
-| **Craig** ![][flag_US]     | **4** | 0 | ![][flag_DE] playin14        | [#1](https://osu.ppy.sh/community/matches/43015220) |
-| Malox ![][flag_DE]         | 2 | **4** | ![][flag_PL] **Benzopirene** | [#1](https://osu.ppy.sh/community/matches/43025654) |
-| **rohen04** ![][flag_DE]   | **4** | 0 | ![][flag_RU] timebuka        | [#1](https://osu.ppy.sh/community/matches/43026733) |
-| **Mage** ![][flag_RU]      | **4** | 0 | ![][flag_CL] Matiias         | -Win by Default- |
-| **Keweft** ![][flag_BR]    | **4** | 0 | ![][flag_VE] [\_Chichinya\_] | [#1](https://osu.ppy.sh/community/matches/43030615) |
-| **robby250** ![][flag_RO]  | **4** | 0 | ![][flag_ES] Summit-         | -Win by Default- |
-| xSnaggles ![][flag_GB]     | 0 | **4** | ![][flag_BY] **MatVeiQaaa**  | [#1](https://osu.ppy.sh/community/matches/43033506) |
-| MillaMaxwelle ![][flag_FR] | 1 | **4** | ![][flag_BR] **Lazarento**   | [#1](https://osu.ppy.sh/community/matches/43035250) |
-| Aezlack ![][flag_VE]       | 0 | **4** | ![][flag_FR] **AntoAa**      | [#1](https://osu.ppy.sh/community/matches/43036503) |
-| Niisound ![][flag_CA]      | 0 | **4** | ![][flag_BR] **CALCIO01**    | -Win by Default- |
+| Sunday, 2018-06-03 |  |  |  |  |
+| --: | :-: | :-: | :-- | :-: |
+| **dewero** ![][flag_US] | **4** | 1 | ![][flag_GT] Lude | [#1](https://osu.ppy.sh/community/matches/43008528) |
+| **Craig** ![][flag_US] | **4** | 0 | ![][flag_DE] playin14 | [#1](https://osu.ppy.sh/community/matches/43015220) |
+| Malox ![][flag_DE] | 2 | **4** | ![][flag_PL] **Benzopirene** | [#1](https://osu.ppy.sh/community/matches/43025654) |
+| **rohen04** ![][flag_DE] | **4** | 0 | ![][flag_RU] timebuka | [#1](https://osu.ppy.sh/community/matches/43026733) |
+| **Mage** ![][flag_RU] | **4** | 0 | ![][flag_CL] Matiias | -Win by Default- |
+| **Keweft** ![][flag_BR] | **4** | 0 | ![][flag_VE] [\_Chichinya\_] | [#1](https://osu.ppy.sh/community/matches/43030615) |
+| **robby250** ![][flag_RO] | **4** | 0 | ![][flag_ES] Summit- | -Win by Default- |
+| xSnaggles ![][flag_GB] | 0 | **4** | ![][flag_BY] **MatVeiQaaa** | [#1](https://osu.ppy.sh/community/matches/43033506) |
+| MillaMaxwelle ![][flag_FR] | 1 | **4** | ![][flag_BR] **Lazarento** | [#1](https://osu.ppy.sh/community/matches/43035250) |
+| Aezlack ![][flag_VE] | 0 | **4** | ![][flag_FR] **AntoAa** | [#1](https://osu.ppy.sh/community/matches/43036503) |
+| Niisound ![][flag_CA] | 0 | **4** | ![][flag_BR] **CALCIO01** | -Win by Default- |
 
 ### Qualifiers
 

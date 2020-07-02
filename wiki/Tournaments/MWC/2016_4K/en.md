@@ -33,9 +33,9 @@ There is a $1,900 cash prize pool with extra money being added by buying support
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 50% of the raised prize pool, profile badge, "osu!mania Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 38% of the raised prize pool, profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 12% of the raised prize pool, profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 50% of the raised prize pool, profile badge, "osu!mania Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 38% of the raised prize pool, profile badge |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 12% of the raised prize pool, profile badge |
 
 ## Organisation
 
@@ -91,7 +91,7 @@ The osu!mania 4K World Cup 2016 is run by various community members by distribut
 | ![][flag_ES] | **Spain** | **[aitor98](https://osu.ppy.sh/users/3154852)**, [Userbacker](https://osu.ppy.sh/users/1872307), [AlvaRo5498](https://osu.ppy.sh/users/4490967), [Asesingta](https://osu.ppy.sh/users/5037769), [R3k3T3](https://osu.ppy.sh/users/4520329), [BadAccPlayer](https://osu.ppy.sh/users/4541413) |
 | ![][flag_SE] | **Sweden** | **[Couil](https://osu.ppy.sh/users/6872025)**, [\[ Vento \]](https://osu.ppy.sh/users/1612580), [-Saoeri-](https://osu.ppy.sh/users/6702799), [Craty](https://osu.ppy.sh/users/3918056), [RilipGirlfriend](https://osu.ppy.sh/users/4999669), [Lamaredia](https://osu.ppy.sh/users/3362365) |
 | ![][flag_CH] | **Switzerland** | **[Akayro](https://osu.ppy.sh/users/2573716)**, [Haprapra](https://osu.ppy.sh/users/3974114), [basti78](https://osu.ppy.sh/users/28222), [Gamer97](https://osu.ppy.sh/users/4952941) |
-| ![][flag_TH] | **Thailand**  | **[\_S h i r o\_](https://osu.ppy.sh/users/766374)**, [nowsmart](https://osu.ppy.sh/users/1935034), [- N A K O -](https://osu.ppy.sh/users/2526720), [Zenonia](https://osu.ppy.sh/users/437945), [\[13\] BECK](https://osu.ppy.sh/users/2656374), [bhonris](https://osu.ppy.sh/users/2838908) |
+| ![][flag_TH] | **Thailand** | **[\_S h i r o\_](https://osu.ppy.sh/users/766374)**, [nowsmart](https://osu.ppy.sh/users/1935034), [- N A K O -](https://osu.ppy.sh/users/2526720), [Zenonia](https://osu.ppy.sh/users/437945), [\[13\] BECK](https://osu.ppy.sh/users/2656374), [bhonris](https://osu.ppy.sh/users/2838908) |
 | ![][flag_GB] | **United Kingdom** | **[-Konner-](https://osu.ppy.sh/users/6108644)**, [yipyapyop](https://osu.ppy.sh/users/5156656), [Pope Gadget](https://osu.ppy.sh/users/2288341), [Pipper](https://osu.ppy.sh/users/4168230), [Xonica](https://osu.ppy.sh/users/3586776), [Hayabusa](https://osu.ppy.sh/users/3104108) |
 | ![][flag_US] | **United States** | **[Halogen-](https://osu.ppy.sh/users/169992)**, [Zyph](https://osu.ppy.sh/users/1600432), [Shadow_SM](https://osu.ppy.sh/users/4552987), [Gekido-](https://osu.ppy.sh/users/4693052), [Chrubble](https://osu.ppy.sh/users/2594280), [Daikyi](https://osu.ppy.sh/users/811832) |
 

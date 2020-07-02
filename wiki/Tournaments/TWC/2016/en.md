@@ -27,9 +27,9 @@ The **osu!taiko World Cup 2016** (***TWC 2016***) was a country-based osu!taiko 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 50% of the raised prize pool, unique profile badge, "osu!taiko Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 38% of the raised prize pool, unique profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 12% of the raised prize pool, unique profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 50% of the raised prize pool, unique profile badge, "osu!taiko Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 38% of the raised prize pool, unique profile badge |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 12% of the raised prize pool, unique profile badge |
 
 ![TWC 2016 Winner Badge](img/badge.png) ![TWC 2016 2nd Place Badge](img/badge2.png) ![TWC 2016 3rd Place Badge](img/badge3.png)
 
@@ -268,12 +268,12 @@ The osu!taiko World Cup 2016 was run by various community members by distributin
 | --: | :-: | :-: | :-- | :-- |
 | **Japan** ![][flag_JP] | **6** | 2 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/24194354) |
 | Germany ![][flag_DE] | 0 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/24201032) |
-| Hong Kong ![][flag_HK]  | 5 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/24203340) |
+| Hong Kong ![][flag_HK] | 5 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/24203340) |
 | **Taiwan** ![][flag_TW] | **6** | 0 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/24206740) |
 
 | Sunday, 2016-04-17 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
-| Canada ![][flag_CA]  | 5 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/24227476) |
+| Canada ![][flag_CA] | 5 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/24227476) |
 
 ### Semifinals
 
@@ -416,7 +416,7 @@ The osu!taiko World Cup 2016 was run by various community members by distributin
 
 | Stage | Match ID |
 | --: | :-- |
-| Round of 16 | A, B, C, D, E, F, G, H  |
+| Round of 16 | A, B, C, D, E, F, G, H |
 | Quarterfinals | I, J, K, L & R, S, T, U |
 | Semifinals | M, N & V, W, X, Y, Z,AA |
 | Finals | O & AB, AC, AD, AE |

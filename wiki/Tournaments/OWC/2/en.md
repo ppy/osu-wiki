@@ -18,9 +18,9 @@ In every world cup, people conquering a place on the podium are eligible to rece
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 months of osu!supporter tag, special profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 month of osu!supporter tag |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 6 months of osu!supporter tag, special profile badge |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
 ## Organisation
 
@@ -41,14 +41,14 @@ The osu! World Cup #2 was run by various community members by distributing the m
 
 ## Participants
 
-| | Country | Members |
+|  | Country | Members |
 | :-: | :-: | :-- |
 | ![][flag_AR] | **Argentina** | **Wishy22**, [Metro](https://osu.ppy.sh/users/306737), Ever17, [Darksonic](https://osu.ppy.sh/users/570042), [Salvage](https://osu.ppy.sh/users/242119), [Glazbom](https://osu.ppy.sh/users/608277) |
 | ![][flag_AU] | **Australia** | **Mizorex**, damiaanzx, [Hark](https://osu.ppy.sh/users/43265), [Frankcons](https://osu.ppy.sh/users/594006), [Mikey](https://osu.ppy.sh/users/979780), [Neko_Lover](https://osu.ppy.sh/users/596535) |
 | ![][flag_AT] |**Austria** | **[-Lennox-](https://osu.ppy.sh/users/489103)**, [Snowball](https://osu.ppy.sh/users/152238), [Hanyuu](https://osu.ppy.sh/users/73480), HakkeroHakkero, [novaaa](https://osu.ppy.sh/users/953405), [M A R I O](https://osu.ppy.sh/users/594424) |
 | ![][flag_BR] | **Brazil** | **[Blue Dragon](https://osu.ppy.sh/users/19048)**, [fabriciorby](https://osu.ppy.sh/users/209664), Caco, [antsu](https://osu.ppy.sh/users/92953), [K3nsh1n\_H1mur4](https://osu.ppy.sh/users/197834), [Katsuri](https://osu.ppy.sh/users/701726) |
 | ![][flag_BG] | **Bulgaria** | **[Lolicore Flandre](https://osu.ppy.sh/users/447818)**, [r-Beatz](https://osu.ppy.sh/users/472311), [Orihara Izaya](https://osu.ppy.sh/users/513842), [las7h0p3](https://osu.ppy.sh/users/113972), [werewolf0girl](https://osu.ppy.sh/users/213292), ColdChester |
-| ![][flag_CA] | **Canada**  | **[FurukawaPan](https://osu.ppy.sh/users/32067)**, [Glass](https://osu.ppy.sh/users/228532), [SilentWings](https://osu.ppy.sh/users/118992), [shaNk](https://osu.ppy.sh/users/905124), [YodaSnipe](https://osu.ppy.sh/users/673746), [Satonaka](https://osu.ppy.sh/users/767009) |
+| ![][flag_CA] | **Canada** | **[FurukawaPan](https://osu.ppy.sh/users/32067)**, [Glass](https://osu.ppy.sh/users/228532), [SilentWings](https://osu.ppy.sh/users/118992), [shaNk](https://osu.ppy.sh/users/905124), [YodaSnipe](https://osu.ppy.sh/users/673746), [Satonaka](https://osu.ppy.sh/users/767009) |
 | ![][flag_CL] | **Chile** | **[nVidi4x](https://osu.ppy.sh/users/203181)**, [Mesita](https://osu.ppy.sh/users/201459), Ignacio, [Art-FzTT](https://osu.ppy.sh/users/248453), [b1choO](https://osu.ppy.sh/users/461132), b4ss\_ |
 | ![][flag_DK] | **Denmark** | **Emaal**, [PlasticSmoothie](https://osu.ppy.sh/users/296565), [m4w11](https://osu.ppy.sh/users/509620), Circlemuncher, [BongHat](https://osu.ppy.sh/users/369746) |
 | ![][flag_FI] | **Finland** | **ragelewa**, [Zapy](https://osu.ppy.sh/users/251395), [Orkel](https://osu.ppy.sh/users/39385), [Sutsuka](https://osu.ppy.sh/users/29089), [heintsi](https://osu.ppy.sh/users/63185), [ethox](https://osu.ppy.sh/users/441380) |
@@ -67,7 +67,7 @@ The osu! World Cup #2 was run by various community members by distributing the m
 | ![][flag_PL] | **Poland** | **[fartownik](https://osu.ppy.sh/users/56917)**, White Wolf, [rEdo](https://osu.ppy.sh/users/49329), [Kubu](https://osu.ppy.sh/users/29130), [Piotrekol](https://osu.ppy.sh/users/304520) |
 | ![][flag_PT] | **Portugal** | **Mikutard**, [makkura](https://osu.ppy.sh/users/344086), [Maraiga](https://osu.ppy.sh/users/213335), [JonnyThatJonny](https://osu.ppy.sh/users/201290), [Pereira006](https://osu.ppy.sh/users/537344), cococococo7528 |
 | ![][flag_KR] | **Republic of Korea** | **[KRZY](https://osu.ppy.sh/users/114017)**, mnto, [K i R i K a R u](https://osu.ppy.sh/users/139670), [CheEZ](https://osu.ppy.sh/users/272117), [Remilia-Scarlet](https://osu.ppy.sh/users/602783), [Reisen Udongein](https://osu.ppy.sh/users/232942) |
-| ![][flag_RU] | **Russian Federation**   | **[Akai-](https://osu.ppy.sh/users/649471)**, [Vpalach](https://osu.ppy.sh/users/232729), [Kert](https://osu.ppy.sh/users/119933), [Rost94](https://osu.ppy.sh/users/490568), 646kapeh640, cr1m |
+| ![][flag_RU] | **Russian Federation** | **[Akai-](https://osu.ppy.sh/users/649471)**, [Vpalach](https://osu.ppy.sh/users/232729), [Kert](https://osu.ppy.sh/users/119933), [Rost94](https://osu.ppy.sh/users/490568), 646kapeh640, cr1m |
 | ![][flag_SE] | **Sweden** | **Hanyuu-chan**, [Holmir](https://osu.ppy.sh/users/453435), m4w11, [Gyuunyu](https://osu.ppy.sh/users/799102), Failboat, [Nidert](https://osu.ppy.sh/users/817211) |
 | ![][flag_TW] | **Taiwan** | **Saya-Honmei**, SnowWhite, [YuyuKo sama](https://osu.ppy.sh/users/234788), wizoza83098, [Tomoka Rin](https://osu.ppy.sh/users/125308), [ZRush](https://osu.ppy.sh/users/398097) |
 | ![][flag_TH] | **Thailand** | **[NonxE](https://osu.ppy.sh/users/319312)**, Frostmourne, [bufo](https://osu.ppy.sh/users/141605), [blackspell](https://osu.ppy.sh/users/601173), [aumu1995](https://osu.ppy.sh/users/235752), [termerys](https://osu.ppy.sh/users/84964) |
@@ -309,7 +309,6 @@ Changes in the rules aside from [OWC #1](/wiki/Tournaments/OWC/1).
 [flag_DK]: /wiki/shared/flag/DK.gif
 [flag_FI]: /wiki/shared/flag/FI.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
 [flag_HU]: /wiki/shared/flag/HU.gif
 [flag_ID]: /wiki/shared/flag/ID.gif

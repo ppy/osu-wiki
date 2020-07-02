@@ -1,10 +1,11 @@
 ---
+outdated: true
 tags:
-- Californie 
-- Club
-- Collège
-- Irvine
-- Université
+  - Californie
+  - Club
+  - Collège
+  - Irvine
+  - Université
 ---
 
 # osu! UCI

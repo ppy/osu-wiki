@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Modding (Português)
 
 **Modding** é o processo de examinar o [map](/wiki/Beatmaps) de outra pessoa e fazer sugestões. A pessoa fazendo sugestões para o map é chamada de "modder", e a pessoa que fez o map é referida como "mapper". Modding pode ser útil de três formas:

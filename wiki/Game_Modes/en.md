@@ -2,28 +2,30 @@
 needs_cleanup: true
 ---
 
-# Game Modes
+<!-- TODO: needs better descriptions for each mode, and the intro should say something about what a "game mode" is in the first place -->
 
-## ![osu! icon](/wiki/shared/mode/osu.png) osu!standard
+# Game modes
 
-*Main page: [osu!standard](/wiki/osu!standard)*
+## ![](/wiki/shared/mode/osu.png) osu!
 
-Based on [*Osu! Tatakae! Ouendan*](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia"). Tap, slide, and spin to the beat.
+*Main page: [osu!](osu!)*
 
-## ![osu!taiko icon](/wiki/shared/mode/taiko.png) osu!taiko
+Based on *[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")*. Tap, slide, and spin to the beat.
 
-*Main page: [osu!taiko](/wiki/osu!taiko)*
+## ![](/wiki/shared/mode/taiko.png) osu!taiko
 
-Based on [*Taiko no Tatsujin*](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia"). Drum, and roll the taiko drumroll to the beat.
+*Main page: [osu!taiko](osu!taiko)*
 
-## ![osu!catch icon](/wiki/shared/mode/catch.png) osu!catch
+Based on *[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin "Wikipedia")*. Drum, and roll the taiko drumroll to the beat.
 
-*Main page: [osu!catch](/wiki/osu!catch)*
+## ![](/wiki/shared/mode/catch.png) osu!catch
 
-Collect falling fruits by moving the catcher with a plate. Keep dancing and do not miss the step of the beat.
+*Main page: [osu!catch](osu!catch)*
 
-## ![osu!mania icon](/wiki/shared/mode/mania.png) osu!mania
+Loosely based on a minigame inside of a [beatmania](https://en.wikipedia.org/wiki/Beatmania "\"Beatmania\" on Wikipedia") simulator, which was based on the *EZ2CATCH* mode from the [EZ2DJ](https://en.wikipedia.org/wiki/EZ2DJ "\"EZ2DJ\" on Wikipedia") series. Collect falling fruits by moving the catcher with a plate. Keep dancing and do not miss the step of the beat!
 
-*Main page: [osu!mania](/wiki/osu!mania)*
+## ![](/wiki/shared/mode/mania.png) osu!mania
+
+*Main page: [osu!mania](osu!mania)*
 
 Based on conveyor-type rhythm games, chiefly introduced and implemented by [woc2006](https://osu.ppy.sh/users/1105845). Make the notes play a melody of the beat.

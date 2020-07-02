@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Important pp (Performance Point) changes"
-date: 2014-10-04 00:00:00 +0000
+date: 2013-10-04 00:00:00 +0000
 tumblr_url: http://osunews.tumblr.com/post/63062174098/important-pp-performance-point-changes
 ---
 
@@ -15,9 +15,9 @@ Note that this change is currently rolling out, and may it may take a day to tak
 
 ## Frequently asked questions' answers:
 
-*   Map scores are not affected.
-*   Map weightings are not affected.
-*   If a player comes back after being inactive, they will have their old rank (with adjustment based on how other people's ranks have changed, as expected).
+-   Map scores are not affected.
+-   Map weightings are not affected.
+-   If a player comes back after being inactive, they will have their old rank (with adjustment based on how other people's ranks have changed, as expected).
 
 I hope you can all agree that this is a positive step forward. More to come soon!
 

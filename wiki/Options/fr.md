@@ -26,7 +26,7 @@ Cliquez sur **Options** ou pressez `O` sur l'écran d'introduction pour accéder
 ##### Invité
 
 | Nom | Effet |
-| --- | --- |
+| :-- | :-- |
 | Pseudo | Inscrivez votre pseudo ici |
 | Mot de passe | Inscrivez votre mot de passe |
 | Se souvenir du pseudo | Se souvenir de votre pseudo osu!. |
@@ -35,7 +35,7 @@ Cliquez sur **Options** ou pressez `O` sur l'écran d'introduction pour accéder
 #### Langue
 
 | Nom | Effet |
-| --- | --- |
+| :-- | :-- |
 | Sélection de la langue | Modifie la langue principale du jeu. osu! téléchargera le fichier de langue choisi. La langue par défaut est l'anglais. |
 | Métadonnées des maps dans leur langue d'origine | Les noms des musiques des beatmaps (et leurs données affiliées) seront écrits avec les caractères de leur langue originelle si vous cochez cette option. |
 | Utiliser la police de caractères Tahoma dans le Chat | Utilisation de l'ancienne police de caractères ([Tahoma](https://fr.wikipedia.org/wiki/Tahoma)) à la place de la police actuelle ([Aller](https://www.daltonmaag.com/about/aller.html)) dans le [Chat](/wiki/Chat_Console). |
@@ -49,7 +49,7 @@ Cliquez sur **Options** ou pressez `O` sur l'écran d'introduction pour accéder
 Un redémarrage sera probablement requis pour appliquer les modifications apportées par ces options.
 
 | Nom | Effet |
-| --- | --- |
+| :-- | :-- |
 | OpenGL | Cochez cette option si vous: N'avez pas de carte graphique supportant les shaders, Subissez des lags intenses en cours de jeu, Utilisez une carte graphique ne supportant pas DirectX. |
 | DirectX (Par défaut) | Utilise les shaders pour améliorer grandement les graphismes et les effets visuels, mais peut ne pas fonctionner sur d'anciennes machines. |
 
@@ -69,7 +69,7 @@ Note: Pour les possesseurs d'ordinateurs portables, il est recommandé de limite
 Selectionne une résolution:
 
 | Propriété | Taille de la fenêtre | Taille du plein écran |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | Standard | 800 x 600 \[Défaut\] | 800 x 600 |
 | Standard | 1024 x 768 (Sans bordure) | 1024 x 768 \[Défaut\] |
 | Écran large | 1024 x 600 | *Votre taille d'écran* (natif) |
@@ -79,7 +79,7 @@ Selectionne une résolution:
 #### Options détaillées
 
 | Nom | Effet |
-| --- | --- |
+| :-- | :-- |
 | Sliders progressifs | Les sliders se déroulent lentement depuis leur point de départ. A utiliser si vous jouez sur une machine relativement lente. |
 | Vidéo | Bloque le lancement des vidéos de fond sur toutes les beatmaps. Une désactivation par beatmap est possible dans les [options visuelles](/wiki/Visual_Settings). |
 | Storyboards | Bloque le lancement des storyboards sur toutes les beatmaps. Une désactivation par beatmap est possible dans les [options visuelles](/wiki/Visual_Settings). |
@@ -92,7 +92,7 @@ Selectionne une résolution:
 #### Menu principal
 
 | Nom | Effet |
-| --- | --- |
+| :-- | :-- |
 | De la neige au menu principal | De la neige de la forme du mode actuellement sélectionné tombera du ciel dans le menu principal. Créé à l'occasion du Noël 2013 suite à de nombreuses demandes. |
 | Trucs et astuces | Le menu principal affichera des conseils sur les façons de tirer le meilleur parti d'osu!. |
 
@@ -103,10 +103,10 @@ Selectionne une résolution:
 #### Général
 
 | Nom | Effet |
-| --- | --- |
+| :-- | :-- |
 | Assombrir l'arrière-plan | L'ajuster va forcer le jeu (y compris l'éditeur de Beatmap) à assombrir l'arrière-plan. Mettez-le à 0% si vous faites des Storyboards dans l'onglet Design de l'éditeur. |
 | Barre de progression (pour configurer où et comment la barre de prog. va s'afficher) | \[1\] En haut à droite (disque) \[Défaut\], \[2\] En haut à droite (barre), \[3\] En bas à droite \[Similaire à osu!droid\], \[4\] En bas (large) \[Similaire à osu!stream\] |
-| Indicateur de performance (configure l'indicateur qui apparaît en bas de l'écran). | **Aucun \[Défaut\]:** Ne montre pas l'indicateur de performance, **Couleur:** Affiche l'historique des valeurs de clics (basé sur les couleur du skin par défaut 300/100/50/Miss), **Erreur de clics:** Montre exactement votre précision sur chaque note. La barre de jugement s'ajuste en fonction de "l'OD" (Overall Difficulty, soit la difficulté générale de la beatmap). Gauche - Centre - Droite = Trop tôt - Parfait - Trop tard  |
+| Indicateur de performance (configure l'indicateur qui apparaît en bas de l'écran). | **Aucun \[Défaut\]:** Ne montre pas l'indicateur de performance, **Couleur:** Affiche l'historique des valeurs de clics (basé sur les couleur du skin par défaut 300/100/50/Miss), **Erreur de clics:** Montre exactement votre précision sur chaque note. La barre de jugement s'ajuste en fonction de "l'OD" (Overall Difficulty, soit la difficulté générale de la beatmap). Gauche - Centre - Droite = Trop tôt - Parfait - Trop tard |
 | Taille de l'indicateur de performance | Règle la taille de l'indicateur de performance. Par défaut : 1.00x. Les tailles peuvent varier entre 0.50x et 2.00x. |
 | Touches de jeu toujours affichées | Toujours afficher sur le côté droit de l'écran le touches que vous utilisez pour jouer, même pendant les parties. Utile si vous comptez faire des captures vidéo ou du streaming. |
 
@@ -120,7 +120,7 @@ Selectionne une résolution:
 Cliquez sur la barre "Sélectionner un skin" pour accéder a l'interface de sélection de skin
 
 | Nom | Effet |
-| --- | --- |
+| :-- | :-- |
 | Ignorer les skins intégrés aux beatmaps | Si cette option est cochée, votre skin prendra toujours le dessus pendant les parties. |
 | Activer les bruitages du skin choisi | Si cette option n'est pas cochée, les bruitages par défaut d'osu! seront utilisés. |
 | Toujours utiliser le skin Taiko (mode Taiko) | Si cette option est cochée, [le skin Taiko de LuigiHann](https://osu.ppy.sh/community/forums/topics/662) sera toujours utilisé durant les parties de Taiko (vous devez l'avoir téléchargé et il doit être dans le dossier Skin).
@@ -153,7 +153,7 @@ Le contrôleur de volume permet de modifier le volume du jeu.
 - Notez que le contrôleur "Général" peut être modifié avec les touches directionnelles Haut et Bas de votre clavier.
 
 | Nom | Effet |
-| --- | --- |
+| :-- | :-- |
 | Ignorer les bruitages intégrés | Si cette option est activée, les bruitages des skins intégrés aux beatmaps seront ignorés et les bruitages de votre skin seront utilisés à la place. |
 
 #### Ajustement audio
@@ -180,7 +180,7 @@ Notez que la musique que vous écouterez lorsque vous lancerez l'assistant sera 
 #### Souris
 
 | Nom | Effet |
-| --- | --- |
+| :-- | :-- |
 | Sensibilité de la souris | Ajuste la sensibilité de votre curseur. Entre x0.40 et x6, par défaut sur 1. |
 | Contourner le pilote de la souris | (Ajouté depuis Février 2014) Détecte la position du curseur directement depuis le périphérique, sans aucun post-traitement par le pilote de ce dernier. [Cliquez ici pour plus d'informations](https://osu.ppy.sh/community/forums/topics/187785). A propos du "Polling Rate", reférez vous à cet [article sur howtogeek.com](http://howtogeek.com/182702/mouse-dpi-and-polling-rates-explained-do-they-matter-for-gaming/). |
 | Molette de la souris désactivée pendant les parties | La molette de la souris est utilisée pour contrôler le volume. Activez cette option pour désactiver cette molette durant les parties. |
@@ -194,7 +194,7 @@ Notez que la musique que vous écouterez lorsque vous lancerez l'assistant sera 
 Cette interface vous permet de modifier les contrôles du mode osu!mania. Par ailleurs, les [touches par défaut](/wiki/Game_Modes/osu!mania) seront paramétrées à la base. **Pour entrer vos contrôles, entrez simplement les lettres de votre choix.**
 
 | Nom | Effet |
-| --- | --- |
+| :-- | :-- |
 | Liste des clés | Paramètres de 4K à 8K. |
 | Column Style \[6K et 8K seulement\] | Normal, Droit, Gauche |
 | Défilement de bas en haut (Style DDR) | Déplace la zone de jugement et les clés en bas de l'écran vers le haut de l'écran. Le design des beatmaps et les touches restent comme elles sont. |
@@ -203,7 +203,7 @@ Cette interface vous permet de modifier les contrôles du mode osu!mania. Par ai
 #### Autres
 
 | Nom | Effet |
-| --- | --- |
+| :-- | :-- |
 | Activer le support des Wiimotes/TataCon. | Activer le support des tambours Taiko pour Wii (TataCon) et des Wiimotes (pas encore fonctionnel). Vérifiez que vous avez bien relié votre Wiimote par Bluetooth avant d'activer cette option. |
 | Activer le support des tablettes graphiques. | Activez cette option si vous utilisez une tablette graphique ou un écran tactile et que vos clics ne sont pas correctement gérés. |
 | Activer le support des joysticks (osu!mania) | Activez cette option si vous utilisez un joystick ou un contrôleur spécial pour jouer à osu!mania. |
@@ -215,7 +215,7 @@ Cette interface vous permet de modifier les contrôles du mode osu!mania. Par ai
 #### Général
 
 | Nom | Effet |
-| --- | --- |
+| :-- | :-- |
 | Vidéos | Activez si vous souhaitez voir les vidéos en fond d'écran sur vos maps pendant que vous mappez. |
 | Utiliser le skin original d'osu! | Force l'utilisation du skin par défaut en mode Edition. |
 | Désactiver la fonction d'annulation | Désactive l'annulation et le rétablissement d'actions (Ctrl+Z et Ctrl+Y). Utilisez cette option à vos risques et périls. |
@@ -227,7 +227,7 @@ Cette interface vous permet de modifier les contrôles du mode osu!mania. Par ai
 #### Notifications et vie privée
 
 | Nom | Effet |
-| --- | --- |
+| :-- | :-- |
 | Aff. instantanément les nouv. messages du chat | Les nouveaux messages du canal de discussion actuellement ouvert apparaîtront instantanément dans une barre en bas de l'écran si la fenêtre de chat n'est pas déployée. |
 | Cacher automatiquement le chat pendant les parties | Si cette option est cochée, le chat se rétractera automatiquement durant les parties. Il apparaîtra tout de même pendant les pauses, l'introduction et la fin de la musique. |
 | Afficher une notification si votre nom est mentionné | Un message apparaîtra en bas à droite de l'écran lorsque quelqu'un mentionne votre pseudo dans le chat (même durant une partie). |
@@ -241,7 +241,7 @@ Cette interface vous permet de modifier les contrôles du mode osu!mania. Par ai
 #### Intégration
 
 | Nom | Effet |
-| --- | --- |
+| :-- | :-- |
 | Intégrer au message perso MSN. | La musique que vous êtes en train d'écouter ou de jouer sera affichée dans votre message perso sur MSN/Windows Live Messenger. |
 | Intégrer au statut Yahoo! Messenger. | La musique que vous êtes en train d'écouter ou de jouer sera affichée dans votre statut sur Yahoo! Messenger. |
 | Téléchargements osu!direct automatiques | Commence immédiatement le téléchargement d'une map après l'avoir sélectionnée sur osu!direct (supporters uniquement) |
@@ -249,7 +249,7 @@ Cette interface vous permet de modifier les contrôles du mode osu!mania. Par ai
 #### Chat
 
 | Nom | Effet |
-| --- | --- |
+| :-- | :-- |
 | Filtrer les termes offensants | Remplace les termes offensifs par un "*beep*". Si cette option n'est pas sélectionnée, les termes seront visibles. |
 | Filtrer les caractères étrangers | Supprime tout caractère ne correspondant pas au standard ASCII (alphabet). Très utile si ces derniers vous occasionnent des lags. |
 | Enregistrer automatiquement les messages privés | Activer cette option va sauvegarder tous les messages privés que vous envoyez/recevez sur le chat. Ils seront stockés sous format .txt dans le dossier "Chat". |
@@ -264,7 +264,7 @@ Cette interface vous permet de modifier les contrôles du mode osu!mania. Par ai
 Cliquez sur l'onglet Maintenance de l'écran d'Options pour accéder aux paramètres de maintenance.
 
 | Nom | Effet |
-| --- | --- |
+| :-- | :-- |
 | Supprimer toutes les beatmaps non classées | Supprime toutes les beatmaps non classées du dossier Songs. Une demande de confirmation comportant le nombre de beatmaps vous sera envoyé. |
 | Forcer les droits d'accès sur les dossiers. | Donne les droits de lecture et d'écriture à osu! dans les dossiers du jeu. Utile pour les utilisateurs de Vista avec le contrôle des comptes utilisateurs (UAC) activé. |
 | Marquer toutes les beatmaps comme étant jouées. | Marque toutes les beatmaps comme "jouées", pas recommandé pour les joueurs souhaitant savoir quelles beatmaps ils n'ont pas encore joué. |

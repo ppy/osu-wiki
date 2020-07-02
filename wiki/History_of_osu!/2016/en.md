@@ -1,8 +1,8 @@
-# 2016
+# History of osu! 2016
 
 ## January
 
-A brand new year with additions to the list of [community contributors](/wiki/community_contributors). Best of 2015 voting opened.
+A brand new year with additions to the list of [community contributors](/wiki/People/Community_Contributors). Best of 2015 voting opened.
 
 Links:
 
@@ -10,7 +10,7 @@ Links:
 
 ## February
 
-A sneak peek of the osu!next design was on display in the 46th issue of osu!weekly. peppy blogged various improvements for the game. Most notably, the skin preview in the [options](/wiki/options) and new skinnable interface sounds were added. The [Best of 2015](/wiki/Best_of_2015) results were in with [Panda Eyes & Teminite - Highscore (CiiyusMiapah)](https://osu.ppy.sh/beatmapsets/332532#osu/736215), [cillia - Fairytale, (mintong89)](https://osu.ppy.sh/beatmapsets/275331#taiko/624447), [Halozy - Genryuu Kaiko (Yukina)](https://osu.ppy.sh/beatmapsets/253969#fruits/582801), and [D(ABE3) - MANIERA (Jinjin)](https://osu.ppy.sh/beatmapsets/272871#mania/646681) taking in the most votes for osu!standard, osu!taiko, osu!catch, and osu!mania respectively. New items were added to the osu!store; such as: the osu!mug (a coffee mug), the osu!mug with pippi (ditto), and osu!go (a USB thumb drive with osu! pre-installed). Thanks to [LiquidPL](https://osu.ppy.sh/users/5044384), reording of the sections, on the new website, in your profile was now possible.
+A sneak peek of the osu!next design was on display in the 46th issue of osu!weekly. peppy blogged various improvements for the game. Most notably, the skin preview in the [options](/wiki/Options) and new skinnable interface sounds were added. The [Best of 2015](/wiki/Contests) results were in with [Panda Eyes & Teminite - Highscore (CiiyusMiapah)](https://osu.ppy.sh/beatmapsets/332532#osu/736215), [cillia - Fairytale, (mintong89)](https://osu.ppy.sh/beatmapsets/275331#taiko/624447), [Halozy - Genryuu Kaiko (Yukina)](https://osu.ppy.sh/beatmapsets/253969#fruits/582801), and [D(ABE3) - MANIERA (Jinjin)](https://osu.ppy.sh/beatmapsets/272871#mania/646681) taking in the most votes for osu!standard, osu!taiko, osu!catch, and osu!mania respectively. New items were added to the osu!store; such as: the osu!mug (a coffee mug), the osu!mug with pippi (ditto), and osu!go (a USB thumb drive with osu! pre-installed). Thanks to [LiquidPL](https://osu.ppy.sh/users/5044384), reording of the sections, on the new website, in your profile was now possible.
 
 Links:
 
@@ -62,10 +62,9 @@ Links:
 - [osu! mascot design contest](https://osu.ppy.sh/home/news/2016-07-18-osu-mascot-design-contest)
 - [osu!Remix Contest Community Vote!](https://osu.ppy.sh/home/news/2016-07-31-osuremix-contest-community-vote)
 
-
 ## August
 
-A new set of Hush-Hush [medals](/wiki/medals) were released. Previously, no one was allowed to discuss ways on obtaining these medals; however, going forward, it is encouraged to work together on figuring out ways to obtain these medals. Voting for the osu!taiko mascot fanart contest was opened. The osu! remix contest voting concluded with [BilliumMoto](https://osu.ppy.sh/users/3862471) taking the grand prize. osu! just ticked over 5 billion ranked plays!
+A new set of Hush-Hush [medals](/wiki/Medals) were released. Previously, no one was allowed to discuss ways on obtaining these medals; however, going forward, it is encouraged to work together on figuring out ways to obtain these medals. Voting for the osu!taiko mascot fanart contest was opened. The osu! remix contest voting concluded with [BilliumMoto](https://osu.ppy.sh/users/3862471) taking the grand prize. osu! just ticked over 5 billion ranked plays!
 
 Links:
 
@@ -76,7 +75,7 @@ Links:
 
 ## September
 
-[osu!mania 4k World Cup](/wiki/MWC2016_4K) concluded with South Korea being victorious against Brazil. peppy tweeted regarding the 9th anniversary of osu!; however, stated that there nothing was planned for this year. The osu!taiko mascot voting results were in, peppy reminds that the community picked winner was *not* the new mascot since the osu!team wanted to take more into account than the mascots' loliciousness. [yuki.](https://osu.ppy.sh/beatmaps/artists/4), a brand new osu!musician, entered the stage with a new community mapping contest.
+[osu!mania 4k World Cup](/wiki/Tournaments/MWC/2016_4K) concluded with South Korea being victorious against Brazil. peppy tweeted regarding the 9th anniversary of osu!; however, stated that there nothing was planned for this year. The osu!taiko mascot voting results were in, peppy reminds that the community picked winner was *not* the new mascot since the osu!team wanted to take more into account than the mascots' loliciousness. [yuki.](https://osu.ppy.sh/beatmaps/artists/4), a brand new osu!musician, entered the stage with a new community mapping contest.
 
 Links:
 
@@ -87,7 +86,7 @@ Links:
 
 ## October
 
-osu! World Cup 2016 registrations opened. GML applications were opened for those who wish to join. The [loved](/wiki/loved) beatmap status was introduced in its testing stage as a way to give community-loved, but unrankable, beatmaps leaderboards. Those types of beatmaps will, however, not award [pp](/wiki/pp) and their leaderboards could be deleted for when the creator updates their beatmap. The Halloween-themed 7th fanart contest opened. Loved was in its second testing state, ready for a new batch of beatmaps to enter this category. A new video featuring osu!lazer was released. Most notably, the hit circles had more textures to them and gave off a smooth and shiny look. osu!idol 2016 voting were opened. A few days before Halloween, the Halloween fanart contest was opened and concluded two days later. The osu!weekly released the 78th issue on Halloween, making it as spooky as possible (but where did the 77th issue go? We'll never know).
+osu! World Cup 2016 registrations opened. GML applications were opened for those who wish to join. The [loved](/wiki/Beatmaps#loved) beatmap status was introduced in its testing stage as a way to give community-loved, but unrankable, beatmaps leaderboards. Those types of beatmaps will, however, not award [pp](/wiki/Performance_Points) and their leaderboards could be deleted for when the creator updates their beatmap. The Halloween-themed 7th fanart contest opened. Loved was in its second testing state, ready for a new batch of beatmaps to enter this category. A new video featuring osu!lazer was released. Most notably, the hit circles had more textures to them and gave off a smooth and shiny look. osu!idol 2016 voting were opened. A few days before Halloween, the Halloween fanart contest was opened and concluded two days later. The osu!weekly released the 78th issue on Halloween, making it as spooky as possible (but where did the 77th issue go? We'll never know).
 
 Links:
 
@@ -104,7 +103,7 @@ Links:
 
 ## November
 
-Starting off in November, a new batch of [community contributors](/wiki/community_contributors) were announced. [ztrot](https://osu.ppy.sh/users/6347) and [deadbeat](https://osu.ppy.sh/users/128370) observes the history of osu! regarding its UI/UX from its beginnings to its present. [Slyleaf](https://osu.ppy.sh/users/3322032) takes 1st place in osu!idol 2016. Ending November, the Christmas-themed 8th fanart contest opened.
+Starting off in November, a new batch of [community contributors](/wiki/People/Community_Contributors) were announced. [ztrot](https://osu.ppy.sh/users/6347) and [deadbeat](https://osu.ppy.sh/users/128370) observes the history of osu! regarding its UI/UX from its beginnings to its present. [Slyleaf](https://osu.ppy.sh/users/3322032) takes 1st place in osu!idol 2016. Ending November, the Christmas-themed 8th fanart contest opened.
 
 Links:
 

@@ -1,8 +1,9 @@
 ---
 tags:
-- Intermediate Global Taiko Showdown 2019
-- IGTS 2019
-- IGTS2019
+  - IGTS 2019
+  - IGTS
+  - GTS
+outdated: true
 ---
 
 # Intermediate Global Taiko Showdown 2019
@@ -29,9 +30,9 @@ tags:
 
 | 등수 | 상품 |
 | :-: | :-- |
-| ![금관](/wiki/shared/GCrown.png "1등") | 프로필 뱃지 및 1등팀 배너 |
-| ![은관](/wiki/shared/SCrown.png "2등") | 2등팀 배너 |
-| ![동관](/wiki/shared/BCrown.png "3등") | 3등팀 배너 |
+| ![금관](/wiki/shared/crown-gold.png "1등") | 프로필 뱃지 및 1등팀 배너 |
+| ![은관](/wiki/shared/crown-silver.png "2등") | 2등팀 배너 |
+| ![동관](/wiki/shared/crown-bronze.png "3등") | 3등팀 배너 |
 
 ![IGTS 2019 우승자 뱃지](img/badge.png)
 
@@ -121,9 +122,9 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 
 | 등수 | 팀 |
 | :-: | :-- |
-| ![금관](/wiki/shared/GCrown.png "1등") | ![][flag_HK] 홍콩 |
-| ![은관](/wiki/shared/SCrown.png "2등") | ![][flag_US] 미국 A |
-| ![동관](/wiki/shared/BCrown.png "3등") | ![][flag_CL] 칠레 |
+| ![금관](/wiki/shared/crown-gold.png "1등") | ![][flag_HK] 홍콩 |
+| ![은관](/wiki/shared/crown-silver.png "2등") | ![][flag_US] 미국 A |
+| ![동관](/wiki/shared/crown-bronze.png "3등") | ![][flag_CL] 칠레 |
 
 ---
 
@@ -343,14 +344,14 @@ Intermediate Global Taiko Showdown 2019는 여러 커뮤니티 사람들이 토�
 
 ---
 
+## 경기 결과
+
 ### 최종 결승
 
 | 토요일, 2019-07-13 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | 미국 A ![][flag_US] | 5 | **7** | ![][flag_HK] **홍콩** | [#1](https://osu.ppy.sh/community/matches/53299127) |
 | **홍콩** ![][flag_HK] | **7** | 4 | ![][flag_US] 미국 A | [#1](https://osu.ppy.sh/community/matches/53300693) |
-
-## 경기 결과
 
 ### 결승
 

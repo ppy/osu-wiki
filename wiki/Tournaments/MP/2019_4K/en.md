@@ -32,9 +32,9 @@ The prize pool was crowdfunded through the [tipanddonation](https://tipanddonati
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 300 PLN, profile badge, 6 months of osu!supporter tag |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 200 PLN, 4 months of osu!supporter tag |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 100 PLN, 2 months of osu!supporter tag |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 300 PLN, profile badge, 6 months of osu!supporter tag |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 200 PLN, 4 months of osu!supporter tag |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 100 PLN, 2 months of osu!supporter tag |
 
 ![MP4K 2019 Badge](img/badge.png "MP4K 2019 Winner Badge")
 
@@ -65,7 +65,7 @@ The prize pool was crowdfunded through the [tipanddonation](https://tipanddonati
 ### Qualified Participants
 
 | Seed | Users |
-| --- | --- |
+| :-- | :-- |
 | Top (#1 - #8) | ![][flag_PL] [SitekX](https://osu.ppy.sh/users/3840946), ![][flag_PL] [Tidek](https://osu.ppy.sh/users/743282), ![][flag_PL] [Nick Wilde](https://osu.ppy.sh/users/8550320), ![][flag_PL] [Arkitev](https://osu.ppy.sh/users/6905790), ![][flag_PL] [Triksu](https://osu.ppy.sh/users/7233032), ![][flag_PL] [PoweR\_LendzeR](https://osu.ppy.sh/users/2894654), ![][flag_PL] [\_underjoy](https://osu.ppy.sh/users/2235750), ![][flag_PL] [TheFalek](https://osu.ppy.sh/users/10214260) |
 | High (#9 - #16) | ![][flag_PL] [Moskas](https://osu.ppy.sh/users/1934077), ![][flag_PL] [Miq](https://osu.ppy.sh/users/2424440), ![][flag_PL] [Hvb3rt](https://osu.ppy.sh/users/7749033), ![][flag_PL] [arfuk0134](https://osu.ppy.sh/users/13618563), ![][flag_PL] [capsafangirl](https://osu.ppy.sh/users/4308015), ![][flag_PL] [Eclipse-](https://osu.ppy.sh/users/8493070), ![][flag_PL] [Archaic84](https://osu.ppy.sh/users/8611177), ![][flag_PL] [Justin14p](https://osu.ppy.sh/users/8461297) |
 | Mid (#17 - #24) | ![][flag_PL] [EWGF](https://osu.ppy.sh/users/8422748), ![][flag_PL] [Felix27](https://osu.ppy.sh/users/7447943), ![][flag_PL] [PIayer69](https://osu.ppy.sh/users/10694850), ![][flag_PL] [C18-H27-NO3](https://osu.ppy.sh/users/8682644), ![][flag_PL] [Shadow Cultist](https://osu.ppy.sh/users/3827078), ![][flag_PL] [Marqez](https://osu.ppy.sh/users/9579664), ![][flag_PL] [m666](https://osu.ppy.sh/users/8623171), ![][flag_PL] [klodaa](https://osu.ppy.sh/users/10584535) |
@@ -74,7 +74,7 @@ The prize pool was crowdfunded through the [tipanddonation](https://tipanddonati
 ### Groups
 
 | Group | Top | High | Mid | Low |
-| :-: | --- | --- | --- | --- |
+| :-: | :-- | :-- | :-- | :-- |
 | **A** | ![][flag_PL] Arkitev | ![][flag_PL] capsafangirl | ![][flag_PL] EWGF | ![][flag_PL] ricoMeister |
 | **B** | ![][flag_PL] Triksu | ![][flag_PL] arfuk0134 | ![][flag_PL] Marqez | ![][flag_PL] Kush-kun |
 | **C** | ![][flag_PL] PoweR\_LendzeR | ![][flag_PL] Moskas | ![][flag_PL] C18-H27-NO3 | ![][flag_PL] Otis1204 |
@@ -218,67 +218,67 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-| Saturday, 2019-08-03 | | | | |
+| Saturday, 2019-08-03 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **SitekX** ![][flag_PL] | **7** | 4 | ![][flag_PL] _underjoy | [#1](https://osu.ppy.sh/community/matches/53806627) |
 
-| Sunday, 2019-08-04 | | | | |
+| Sunday, 2019-08-04 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Tidek** ![][flag_PL] | **7** | 3 | ![][flag_PL] SitekX | [#1](https://osu.ppy.sh/community/matches/53826679) |
 
 ### Finals
 
-| Saturday, 2019-07-27 | | | | |
+| Saturday, 2019-07-27 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Arkitev ![][flag_PL] | 0 | **6** | ![][flag_PL] **Triksu** | [#1](https://osu.ppy.sh/community/matches/53638828) |
 | **_underjoy** ![][flag_PL] | **6** | 1 | ![][flag_PL] Power_LendzeR | [#1](https://osu.ppy.sh/community/matches/53641118) |
 
-| Sunday, 2019-07-28 | | | | |
+| Sunday, 2019-07-28 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **_underjoy** ![][flag_PL] | **6** | 0 | ![][flag_PL] Triksu | [#1](https://osu.ppy.sh/community/matches/53658627) |
 | SitekX ![][flag_PL] | 1 | **6** | ![][flag_PL] **Tidek** | [#1](https://osu.ppy.sh/community/matches/53667265) |
 
 ### Semifinals
 
-| Monday, 2019-07-15 | | | | |
+| Monday, 2019-07-15 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **SitekX** ![][flag_PL] | **6** | 0 | ![][flag_PL] Arkitev | [#1](https://osu.ppy.sh/community/matches/53362294) |
 
-| Tuesday, 2019-07-16 | | | | |
+| Tuesday, 2019-07-16 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **PoweR_LendzeR** ![][flag_PL] | **6** | 1 | ![][flag_PL] Shadow Cultist | [#1](https://osu.ppy.sh/community/matches/53383630) |
 
-| Thrusday, 2019-07-18 | | | | |
+| Thrusday, 2019-07-18 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **TheFalek** ![][flag_PL] | **6** | 0 | ![][flag_PL] Justin14p | -win by default- |
 
-| Friday, 2019-07-19 | | | | |
+| Friday, 2019-07-19 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | _underjoy ![][flag_PL] | 2 | **6** | ![][flag_PL] **Tidek** | [#1](https://osu.ppy.sh/community/matches/53451515) |
 | **PoweR_LendzeR** ![][flag_PL] | **6** | 0 | ![][flag_PL] TheFalek | [#1](https://osu.ppy.sh/community/matches/53453622) |
 | **Triksu** ![][flag_PL] | **6** | 1 | ![][flag_PL] Archaic84 | [#1](https://osu.ppy.sh/community/matches/53455242) |
 
-| Saturday, 2019-07-20 | | | | |
+| Saturday, 2019-07-20 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Miq ![][flag_PL] | 0 | **6** | ![][flag_PL] **arfuk0134** | [#1](https://osu.ppy.sh/community/matches/53474726) |
 
-| Sunday, 2019-07-21 | | | | |
+| Sunday, 2019-07-21 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | arfuk0134 ![][flag_PL] | 0 | **6** | ![][flag_PL] **Triksu** | [#1](https://osu.ppy.sh/community/matches/53494667) |
 
 ### Quarterfinals
 
-| Thrusday, 2019-07-11 | | | | |
+| Thrusday, 2019-07-11 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Archaic84** ![][flag_PL] | **5** | 2 | ![][flag_PL] Eclipse- | [#1](https://osu.ppy.sh/community/matches/53259601) |
 
-| Saturday, 2019-07-13 | | | | |
+| Saturday, 2019-07-13 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | TheFalek ![][flag_PL] | 3 | **5** | ![][flag_PL] **Arkitev** | [#1](https://osu.ppy.sh/community/matches/53311577) |
 | Miq ![][flag_PL] | 3 | **5** | ![][flag_PL] **_underjoy** | [#1](https://osu.ppy.sh/community/matches/53312912) |
 | **SitekX** ![][flag_PL] | **5** | 0 | ![][flag_PL] PoweR_LendzeR | [#1](https://osu.ppy.sh/community/matches/53314596) |
 
-| Sunday, 2019-07-14 | | | | |
+| Sunday, 2019-07-14 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Kupamasla ![][flag_PL] | 0 | **5** | ![][flag_PL] **Justin14p** | [#1](https://osu.ppy.sh/community/matches/53334202) |
 | **Tidek** ![][flag_PL] | **5** | 0 | ![][flag_PL] Triksu | [#1](https://osu.ppy.sh/community/matches/53335461) |
@@ -287,20 +287,20 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-| Wednesday, 2019-07-03 | | | | |
+| Wednesday, 2019-07-03 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Kupamasla ![][flag_PL] | 0 | **5** | ![][flag_PL] **Miq** | [#1](https://osu.ppy.sh/community/matches/53088382) |
 
-| Friday, 2019-07-05 | | | | |
+| Friday, 2019-07-05 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **SitekX** ![][flag_PL] | **5** | 0 | ![][flag_PL] Archaic84 | [#1](https://osu.ppy.sh/community/matches/53128644) |
 | **_underjoy** ![][flag_PL] | **5** | 0 | ![][flag_PL] Justin14p | [#1](https://osu.ppy.sh/community/matches/53131251) |
 
-| Saturday, 2019-07-06 | | | | |
+| Saturday, 2019-07-06 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Tidek** ![][flag_PL] | **5** | 1 | ![][flag_PL] Shadow Cultist | [#1](https://osu.ppy.sh/community/matches/53148692) |
 
-| Sunday, 2019-07-07 | | | | |
+| Sunday, 2019-07-07 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **PoweR_LendzeR** ![][flag_PL] | **5** | 1 | ![][flag_PL] Eclipse- | [#1](https://osu.ppy.sh/community/matches/53173347) |
 | **Arkitev** ![][flag_PL] | **5** | 4 | ![][flag_PL] Moskas | [#1](https://osu.ppy.sh/community/matches/53174718) |
@@ -309,12 +309,12 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-| Friday, 2019-06-21 | | | | |
+| Friday, 2019-06-21 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **SitekX** ![][flag_PL] | **4** | 0 | ![][flag_PL] Felix27 | [#1](https://osu.ppy.sh/community/matches/52796244) |
 | **SitekX** ![][flag_PL] | **4** | 0 | ![][flag_PL] Miq | [#1](https://osu.ppy.sh/community/matches/52796987) |
 
-| Saturday, 2019-06-22 | | | | |
+| Saturday, 2019-06-22 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Tidek** ![][flag_PL] | **4** | 2 | ![][flag_PL] Shadow Cultist | [#1](https://osu.ppy.sh/community/matches/52816728) |
 | **Tidek** ![][flag_PL] | **4** | 0 | ![][flag_PL] Hvb3rt | -win by default- |
@@ -324,7 +324,7 @@ This competition has come to an end and resulted in the following podium:
 | **Miq** ![][flag_PL] | **4** | 0 | ![][flag_PL] Felix27 | [#1](https://osu.ppy.sh/community/matches/52825189) |
 | **PoweR_LendzeR** ![][flag_PL] | **4** | 0 | ![][flag_PL] Moskas | [#1](https://osu.ppy.sh/community/matches/52825880) |
 
-| Sunday, 2019-06-23 | | | | |
+| Sunday, 2019-06-23 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **_underjoy** ![][flag_PL] | **4** | 0 | ![][flag_PL] MrBooM | [#1](https://osu.ppy.sh/community/matches/52843927) |
 | **Tidek** ![][flag_PL] | **4** | 1 | ![][flag_PL] FD5GD | [#1](https://osu.ppy.sh/community/matches/52844767) |
@@ -338,27 +338,27 @@ This competition has come to an end and resulted in the following podium:
 | **Justin14p** ![][flag_PL] | **4** | 2 | ![][flag_PL] MrBooM | [#1](https://osu.ppy.sh/community/matches/52853335) |
 | **_underjoy** ![][flag_PL] | **4** | 0 | ![][flag_PL] Justin14p | [#1](https://osu.ppy.sh/community/matches/52856004) |
 
-| Monday, 2019-06-24 | | | | |
+| Monday, 2019-06-24 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | Nick Wilde ![][flag_PL] | 0 | **4** | ![][flag_PL] **PIayer69** | -win by default- |
 | **Eclipse-** ![][flag_PL] | **4** | 0 | ![][flag_PL] PIayer69 | [#1](https://osu.ppy.sh/community/matches/52873996) |
 
-| Tuesday, 2019-06-25 | | | | |
+| Tuesday, 2019-06-25 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | PIayer69 ![][flag_PL] | 0 | **4** | ![][flag_PL] **Kupamasla** | -win by default- |
 
-| Wednesday, 2019-06-26 | | | | |
+| Wednesday, 2019-06-26 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **arfuk0134** ![][flag_PL] | **4** | 1 | ![][flag_PL] Marqez | [#1](https://osu.ppy.sh/community/matches/52917859) |
 | **arfuk0134** ![][flag_PL] | **4** | 0 | ![][flag_PL] Kush-kun | [#1](https://osu.ppy.sh/community/matches/52920062) |
 
-| Friday, 2019-06-28 | | | | |
+| Friday, 2019-06-28 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **Triksu** ![][flag_PL] | **4** | 0 | ![][flag_PL] arfuk0134 | [#1](https://osu.ppy.sh/community/matches/52965551) |
 | **Moskas** ![][flag_PL] | **4** | 0 | ![][flag_PL] C18-H27-NO3 | [#1](https://osu.ppy.sh/community/matches/52965559) |
 | **Miq** ![][flag_PL] | **4** | 0 | ![][flag_PL] Acrith | [#1](https://osu.ppy.sh/community/matches/52968661) |
 
-| Saturday, 2019-06-29 | | | | |
+| Saturday, 2019-06-29 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **TheFalek** ![][flag_PL] | **4** | 0 | ![][flag_PL] Archaic84 | [#1](https://osu.ppy.sh/community/matches/52984457) |
 | **Archaic84** ![][flag_PL] | **4** | 2 | ![][flag_PL] p4v31 | [#1](https://osu.ppy.sh/community/matches/52985299) |
@@ -369,7 +369,7 @@ This competition has come to an end and resulted in the following podium:
 | **Arkitev** ![][flag_PL] | **4** | 0 | ![][flag_PL] capsafangirl | [#1](https://osu.ppy.sh/community/matches/52990029) |
 | **EWGF** ![][flag_PL] | **4** | 0 | ![][flag_PL] ricoMeister | [#1](https://osu.ppy.sh/community/matches/52989884) |
 
-| Sunday, 2019-06-30 | | | | |
+| Sunday, 2019-06-30 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **TheFalek** ![][flag_PL] | **4** | 0 | ![][flag_PL] p4v31 | [#1](https://osu.ppy.sh/community/matches/53008341) |
 | **C18-H27-NO3** ![][flag_PL] | **4** | 1 | ![][flag_PL] Otis1204 | [#1](https://osu.ppy.sh/community/matches/53009148) |
@@ -441,7 +441,7 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
 
 ### Tournament Play
 
-#### <a id="protocol"></a>Protocol
+#### Protocol
 
 - Your matches will be listed in schedules. **It is your duty as a player to properly identify your timeslot and reschedule your match with your opponent as soon as possible if a reschedule is necessary.**
 - Reschedules will only be considered if both players agree to a time, this needs to be done and notified to the tournament staff before **Thursday at 23:59 UTC+2 (or Central European Summer Time)** in that particular week when your match takes place.
@@ -491,10 +491,8 @@ The results of the Qualifiers can be found [here](https://docs.google.com/spread
 - A two minute timer will be placed on a disconnected player when the song played has concluded. When this timer hits 0, the grace period mentioned in [Protocol](#protocol) will be (re)activated. If the grace period timer hits 0, the match is forfeited, and the other remaining player will be declared the winner.
 - Situations with two player disconnections will be executed similarly to two missing players for a given match: the higher seed will be declared the winner if both players have no time left in their grace period.
 
-[flag_BE]: /wiki/shared/flag/BE.gif
 [flag_CL]: /wiki/shared/flag/CL.gif
 [flag_ID]: /wiki/shared/flag/ID.gif
 [flag_MY]: /wiki/shared/flag/MY.gif
 [flag_PL]: /wiki/shared/flag/PL.gif
 [flag_PH]: /wiki/shared/flag/PH.gif
-[flag_RU]: /wiki/shared/flag/RU.gif

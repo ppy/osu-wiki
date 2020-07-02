@@ -1,18 +1,22 @@
+---
+no_native_review: true
+---
+
 # osu!academy
 
 ![Logo osu!academy](img/osu!academy-logo.jpg "Logo osu!academy")
 
-**osu!academy** memiliki tujuan untuk memberikan pandangan lengkap terhadap semua aspek osu!, mulai dari bermain hingga mapping dan segala sesuatu yang ada di dalamnya.
+**osu!academy** memiliki tujuan untuk memberikan pandangan lengkap terhadap semua aspek osu!, mulai dari cara bermain hingga mapping dan segala sesuatu yang ada di dalamnya.
 
-Kami berharap pemain baru dapat menemukan video osu!academy ini informatif, dan akan membantu meringankan hal yang harus dipelajari dari game ini.
+Kami berharap pemain baru dapat menemukan video informatif ini sehingga membantu para pemain dalam mempelajari hal-hal yang mendasar dari permainan ini.
 Jika Anda memiliki pertanyaan atau komentar, Anda bisa mengirimnya kepada [ztrot](https://osu.ppy.sh/users/6347), dia adalah pemilik satu-satunya osu!academy bersamaan dengan channel YouTube-nya.
 
 [Berikut merupakan trailernya](https://www.youtube.com/watch?v=z5gy34k3RI0&feature=c4-overview&list=UUMeRgqzTfC5ja40B6kM6pdg).
 
 ## Daftar Episode
 
-| Thumbnail Episode | Tautan | Deskripsi |
-|----------------------------------------------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Thumbnail Episode | Pranala | Deskripsi |
+| :-- | :-- | :-- |
 | ![](img/Academy_1.png) | [Episode 1](https://www.youtube.com/watch?v=cz522ZAs5aQ "Episode 1") | Dalam episode ini, kita akan membahas cara memasang osu! dan membuat sebuah akun |
 | ![](img/Academy_2.png) | [Episode 2](https://www.youtube.com/watch?v=mswLEXK0eDk "Episode 2") | Dalam episode ini, kita akan membahas gameplay standard dan bagaimana mengubah pengaturan gaya bermain! |
 | ![](img/Academy_3.png) | [Episode 3](https://www.youtube.com/watch?v=UAomychlbic "Episode 3") | Dalam episode ini, kita akan membahas mode permainan osu!mania bersama LoliFlan! |
@@ -50,8 +54,8 @@ Jika Anda memiliki pertanyaan atau komentar, Anda bisa mengirimnya kepada [ztrot
 | ![](img/Academy_32.png) | [Episode 32](https://www.youtube.com/watch?v=wa_hNegtBw0 "Episode 32") | Dalam episode ini, kita akan membahas sistem ranking terbaru! |
 | ![](img/Academy_33.png) | [Episode 33](https://www.youtube.com/watch?v=_-Xke2bqzok "Episode 33") | Dalam episode ini, kita akan membahas tips editor tingkat lanjut! |
 
-## Tautan Eksternal
+## Pranala Luar
 
-- Sumber: <https://osu.ppy.sh/post/70504430082/introducing-the-osu-academy>
-- Channel YouTube resmi: <https://www.youtube.com/user/osuacademy/videos>
-- Forum diskusi resmi: <https://osu.ppy.sh/community/forums/topics/169707>
+- [Sumber](https://osu.ppy.sh/home/news/2013-12-19-introducing-the-osu-academy)
+- [Channel YouTube resmi](https://www.youtube.com/user/osuacademy/videos)
+- [Forum diskusi resmi](https://osu.ppy.sh/community/forums/topics/169707)
