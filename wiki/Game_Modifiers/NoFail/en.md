@@ -16,7 +16,6 @@ tags:
 
 ![NF mod icon](/wiki/shared/mods/NF.png "No-Fail (NF) mod icon")
 
-
 *For the full list of all mods, see: [Game Modifiers](/wiki/Game_Modifiers)*
 
 ## About
@@ -27,6 +26,7 @@ tags:
 - Default shortcut key: `W`
 - Caption: <!--placeholder-->
 - Compatible game modes: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+
 ## Description
 
 *Notice: the usage of the No-Fail mod reduces the amount of possilbe [Performance Points](/wiki/Performance_Points) gain by 10%.*
