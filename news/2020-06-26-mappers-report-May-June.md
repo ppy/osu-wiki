@@ -147,9 +147,9 @@ Luring all mappers out there with Olympiad points for the top 3, which awards th
 
 Do you have what it takes to be the next "Elite Mapper"? Then jump right into it, grab one of the pre-timed .osz and start to map! We're excited to see all the mania maps!
 
-### Aspirve V
+### Aspire V
 
-The Category Stage Voting of the Asprive V mapping contest is currently open! Out of all submissions, 9 unique categories were created with each having 5 hand picked beatmaps. Make sure to check all of them out and vote for your favorite. You can find the categories, links to the voting pages and downloads in the [Aspire V - Category Stage Voting](https://osu.ppy.sh/home/news/2020-06-22-aspire-v-category-stage-voting) newspost.
+The Category Stage Voting of the Aspire V mapping contest is currently open! Out of all submissions, 9 unique categories were created with each having 5 hand picked beatmaps. Make sure to check all of them out and vote for your favorite. You can find the categories, links to the voting pages and downloads in the [Aspire V - Category Stage Voting](https://osu.ppy.sh/home/news/2020-06-22-aspire-v-category-stage-voting) newspost.
 
 But make sure to hurry, only roughly a week is left! 
 
@@ -157,7 +157,11 @@ But make sure to hurry, only roughly a week is left!
 
 Fruit catchers, now's your chance! The [2020 osu!catch Mapping World Cup](https://osu.ppy.sh/community/forums/topics/1089125) has arrived! In it's 2nd edition, the best osu!catch mappers from ten countries will compete against each other in a round based elimination format to decide who is the best of the best. Will the Philippines be able to defend their title or will we see a new country as the osu!catch mapping champion? 
 
-We will surely keep you up to date! 
+We will surely keep you up to date!
+
+### Mapping Weekend #7
+
+Coming soon to a Cozy Mappers' Café near you is the latest contest in their series of mapping weekend contests! The mapping weekend contest series has been running for a while in the Cozy Mappers' Café Discord server, and it's still going strong! For full information, check out the **[forum post](https://osu.ppy.sh/community/forums/topics/1098409)**. When the contest begins this Sunday, a theme and 3 to 4 songs will be revealed for mappers to try out mapping. Once the contest begins and the songs are released, applicants will have around 5 days to create and submit their entries. After this entries will be judged based off the map's structure, creativity, relevancy, hitsounds, and judge's impression. The best entries for each song will receive a month of osu!supporter in addition to the judge feedback on their entries and special perks in their Discord server. Be sure to check it out!
 
 ### lu^3 Mapping Cup
 
