@@ -37,7 +37,4 @@ The **Fade-out** mod was a [game modifier](/wiki/Game_Modifiers) for [osu!mania]
 
 The Hidden mod and the Fade-out mod have the same functionality.
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
