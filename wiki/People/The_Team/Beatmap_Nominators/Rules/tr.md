@@ -21,11 +21,11 @@ Beatmap Aday Göstericilerin aktivite kazanmak için yapabileceği birden fazla 
 
 Aktivite aday göstermeler ile ölçülür, yani her bir aday gösterme bir aktivite puanıdır. Her bir QA kontrolü bir aday gösterme aktivitesinin 1/4'üne eşittir. Beatmapleri sıfırlamak düşük bir ölçüde, belirli bir oranı olmadan göz önüne alınır
 
-Her modun aylık aktivite için kendi asgari gereksinimleri vardır. 
+Her modun aylık aktivite için kendi asgari gereksinimleri aşağıdaki gibidir.
 
-- osu!, osu!taiko, osu!catch: 3 aktiviteye eş değerdir.
-- osu!mania: 2 aktiviteye eş değerdir.
-- Melez: yetkili olduğu her bir oyun modu için en az 1 tane olmak üzere, 3 aktiviteye eş değerdir.
+- osu!, osu!taiko, osu!catch: 3 aktivite
+- osu!mania: 2 aktivite
+- Hibrit: yetkili olduğu her bir oyun modu için en az 1 tane olmak üzere, 3 aktivite
 
 ## Aday gösterme
 
@@ -43,7 +43,7 @@ Her modun aylık aktivite için kendi asgari gereksinimleri vardır.
 - **Bir şarkının önemli derecede farklı versiyonlarından en fazla 3 tanesi aynı modda aynı anda niteliklendirilebilir.** Remixler, derlemeler, ve mashuplar şarkının önemli derecede farklı versiyonlarına dahildir.
 - **Asil üyesi olmadığnız modlardaki beatmapleri, eğer olan bir başkası tarafından aday gösterilmediyse niteliklendirmeyin.** Bu, her zaman, her mod için bir asil aday göstericinin sürecin bir parçası olmasını sağlar.
 - **Bir beatmapi mapper ile iletişim kurmadan doğrudan niteliklendirmeyin.** Son aday göstermeden sonra mapperın kendisi bazı değişiklikler yapmış olabilir, dolayısıyla mapper ile irtibat halinde olmadan bir beatmap setini aday göstermek gereksiz diskalifikasyonlara yol açabilir.
-- **Melez beatmap setleri niteliklendirilebilmeleri için her iki modun asil üyeleri tarafından aday gösterilmeli**, aynı zamanda modlama tartışmasında diğer modların aday göstericilerinin açık onayını kazanmaları gerekir. Bu, sadece asil üyelerin melez setleri aday gösterebileceği anlamına gelir, ve her bir mod için birer asil aday göstericinin (aday göstermek ya da sadece tartışma içerisinde onay vermek olsun fark etmez) sorumluluğu üstleneceğini garantiler. Bu doğrultuda, birden fazla modda uzman olan aday göstericiler birden fazla modda onaylayabilirler.
+- **Hibrit beatmap setleri niteliklendirilebilmeleri için her iki modun asil üyeleri tarafından aday gösterilmeli**, aynı zamanda modlama tartışmasında diğer modların aday göstericilerinin açık onayını kazanmaları gerekir. Bu, sadece asil üyelerin hibrit setleri aday gösterebileceği anlamına gelir, ve her bir mod için birer asil aday göstericinin (aday göstermek ya da sadece tartışma içerisinde onay vermek olsun fark etmez) sorumluluğu üstleneceğini garantiler. Bu doğrultuda, birden fazla modda uzman olan aday göstericiler birden fazla modda onaylayabilirler.
 
 ## Aday gösterme sıfırlama
 
