@@ -42,7 +42,7 @@ This mod has the same effect across all gamemodes.
 
 ### Trivia
 
-- The Nightcore mod was originally an [April Fools joke]([April Fools joke](https://osu.ppy.sh/community/forums/topics/49733) but was then added into the game as an actual playable mod.
+- The Nightcore mod was originally an [April Fools joke](https://osu.ppy.sh/community/forums/topics/49733) but was then added into the game as an actual playable mod.
 - The mod gets it name from the genre (or in some cases, sub-genre) "Nightcore" in which songs are edited or created to be sped-up by about 10–30% and have higher pitched vocals. Though the validity and history of this type of music is controversial.
 
 [o!s]: /wiki/shared/mode/osu.png "osu!standard"
