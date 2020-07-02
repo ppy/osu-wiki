@@ -179,19 +179,19 @@ We hope to see a lot of exciting mapping contests in the future!
 
 ### New Review System in Beatmap Discussion
 
-Modders, listen. We have great news for you! As some may already noticed, modding got an update! The review system which got announced a while ago got finally added to the Beatmap Discussion! What it is you ask?
+Modders, listen. We have great news for you! As some may have already noticed, modding system got an update! The review system which was announced a while ago got finally added to the Beatmap Discussions! What is it you ask?
 
-Some may remember the old modding system which worked through the forum. People posted mods in mappers' beatmap forum threads. The difference to the current modding system is that modder could bundle everything in one, huge post if they liked. A lot of modders liked it and still would like to have a similar format when modding.
+Some may remember the old modding system which worked through the forum. People posted mods in mappers' beatmap forum threads. The difference to the current modding system is that modder could bundle everything in one, huge post if they liked. A lot of modders liked it and would still prefer to have a similar format while modding.
 
 Now they finally do! You can now bundle your mods in one, big post! To access it, go into the beatmap discussion of any beatmap you like to mod and then go to the "Review" tab. That's all! Now you can mod in a format that lets you control what order the mod is read in, which is very useful for reoccurring or bigger issues in maps. Be sure to check out all the features which the current modding system offers to you!
 
-Do you think it could be better and something is still missing? Or did you find a bug in it? The developers would love to hear your feedback! Come join the [osu!dev Discord server](https://discord.gg/ppy) and join the discussion about the review system in the #modding channel! 
+Do you think it could be better or something is still missing? Or did you find a bug in it? The developers would love to hear your feedback! Come join the [osu!dev Discord server](https://discord.gg/ppy) and join the discussion about the review system in the #modding channel! 
 
 ### The osu!wiki is hiring
 
-Okay, hiring is maybe the wrong word for it. But on a serious note, the osu!wiki is a huge knowledge database which features topics about everything about osu! Not just mapping and/or modding related such as the entire Ranking Criteria or various guides for mapping, but also all kinds of information, such as the osu! team, various gameplay guides, contests and tournaments and much more.
+Okay, hiring is maybe the wrong word for it. But on a serious note, the osu!wiki is a huge knowledge base which features articles all about osu!, Not only mapping or modding related content such as the entire Ranking Criteria, but also all kinds of information, such as the osu! team, various gameplay guides, contests and tournaments and much more.
 
-But sadly it's run by only a few people and a lot of wiki entries are outdated. But good news: Everyone can help! And the people behind the osu!wiki would be surely happy to see more helping hands to update everything and provide the latest information all around osu! 
+But sadly it's run by only a few people and a lot of wiki entries are outdated. But good news: anyone can help! And the people behind the osu!wiki will be surely happy to see more helping hands to update everything and provide the latest information all around osu!.
 
 Contributing is not even that hard and you can get all help you need to get started in the #osu-wiki channel on the [osu!dev Discord server](https://discord.gg/ppy). Do not hesitate to ask there, they won't bite you!
 
@@ -199,7 +199,7 @@ Contributing is not even that hard and you can get all help you need to get star
 
 ---
 
-Phew, that was a bit of a read, right? We're happy that you made it until here! Once again sorry for the long wait. We will work on our schedule to make sure future issues of the Mappers' Report going out in time. You can expect us in the future with the end of every month. Should really not that much happen in osu! we will probably make again one bigger news post, but we try to keep these on a minimum! And please don't forget, should you have anything interesting and mapping or modding related for us to mention, make sure to tell [Feerum](https://osu.ppy.sh/users/4815717) or [Noffy](https://osu.ppy.sh/users/1541323)!
+Phew, that was a bit of a read, right? We're happy that you made it until here! Once again sorry for the long wait. We will work on our schedule to make sure future issues of the Mappers' Report get released in time. You can expect us in the future at the end of every month. Should really not that much happen in osu!, we will probably make again one bigger news post, but we try to keep these on a minimum! And please don't forget, should you have anything interesting and mapping or modding related for us to mention, make sure to contact [Feerum](https://osu.ppy.sh/users/4815717) or [Noffy](https://osu.ppy.sh/users/1541323)!
 
 Until then, thank you for reading and stay safe and healthy!
 
