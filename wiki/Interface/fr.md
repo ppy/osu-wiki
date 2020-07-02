@@ -30,10 +30,10 @@ Sur l'écran d'introduction s'affiche le logo d'osu! au centre de l'écran. Il b
 
 Accédez à cet écran en cliquant sur votre panneau d'utilisateur se trouvant en haut à gauche de votre écran d'introduction. Vous ne pourrez accéder à aucune commande liée au chat sur ce panel. Vous pouvez sélectionner un élément en appuyant sur le numéro correspondant à ​​l'option.
 
-1.  **View Profile**: Ouvre votre page profil dans votre navigateur Internet.
-2.  **Sign Out**: Vous déconnecte et fait apparaître la fenêtre de connexion.
-3.  **Change Avatar**: Ouvre la page de modification de votre avatar dans votre navigateur Internet.
-4.  **Close** : Ferme la fenêtre.
+1. **View Profile**: Ouvre votre page profil dans votre navigateur Internet.
+2. **Sign Out**: Vous déconnecte et fait apparaître la fenêtre de connexion.
+3. **Change Avatar**: Ouvre la page de modification de votre avatar dans votre navigateur Internet.
+4. **Close** : Ferme la fenêtre.
 
 ## Menu de jeu
 
@@ -151,22 +151,22 @@ Note: The back transparent leitmotif is based on what mode you played in.
 
 This is your online leader-board. You can go here by scrolling down from the results screen. Your Local Scoreboard will show your name and the score as usual.
 
-1.  You can change your name here to put on the Local Scoreboard.
-2.  Your player bar. It shows whether your pp, pp rank, total score, and accuracy increases or decreases. Your level bar will increase based on score.
-3.  Your options regarding the Beatmap.
-    1.  Export Replay as .osr: Save the replay that can be used online.
-    2.  Online Favourite: Make the Beatmap as your Online Favourite. It will show on your online profile under Beatmaps->Favourite Beatmaps
+1. You can change your name here to put on the Local Scoreboard.
+2. Your player bar. It shows whether your pp, pp rank, total score, and accuracy increases or decreases. Your level bar will increase based on score.
+3. Your options regarding the Beatmap.
+   1. Export Replay as .osr: Save the replay that can be used online.
+   2. Online Favourite: Make the Beatmap as your Online Favourite. It will show on your online profile under Beatmaps->Favourite Beatmaps
 
-4.  Self-explanatory. Will not appear if offline.
-    1.  Map Rank: Your Ranking on the map. It will count along with mod plays score ranking despite you are not using any mods.
-    2.  Overall: Your profile standing. Basically, your Ranking place ranked score in that specific game mode.
-    3.  Accuracy: Will only be counted when your old score is surpassed. Accuracy is the average of all passed beatmaps.
-    4.  Ranked Score: Your Ranked Score. If it's an approved song, it will not increase at all.
-    5.  Total Score: Grand total score. Always increasing despite you failed the song or not surpassing old score. Affects your level bar.
-    6.  To Next Rank: How much score you need to move your current map ranking position up.
+4. Self-explanatory. Will not appear if offline.
+   1. Map Rank: Your Ranking on the map. It will count along with mod plays score ranking despite you are not using any mods.
+   2. Overall: Your profile standing. Basically, your Ranking place ranked score in that specific game mode.
+   3. Accuracy: Will only be counted when your old score is surpassed. Accuracy is the average of all passed beatmaps.
+   4. Ranked Score: Your Ranked Score. If it's an approved song, it will not increase at all.
+   5. Total Score: Grand total score. Always increasing despite you failed the song or not surpassing old score. Affects your level bar.
+   6. To Next Rank: How much score you need to move your current map ranking position up.
 
-5.  Same as 4, but it is reserved for monthly [Ranking Charts](https://osu.ppy.sh/rankings/osu/charts)
-6.  Achievement unlock. Any achievement you unlock will be shown here. Full list of possible achievements can be found at [Achievements](/wiki/Medals) page
-7.  Beatmap song with it's history of plays and pass rate.
-8.  Beatmap Rating. Use your personal discretion based on whether you enjoy the beatmap or not. Best left alone if you can't decide.
-9.  Return to Song Selection.
+5. Same as 4, but it is reserved for monthly [Ranking Charts](https://osu.ppy.sh/rankings/osu/charts)
+6. Achievement unlock. Any achievement you unlock will be shown here. Full list of possible achievements can be found at [Achievements](/wiki/Medals) page
+7. Beatmap song with it's history of plays and pass rate.
+8. Beatmap Rating. Use your personal discretion based on whether you enjoy the beatmap or not. Best left alone if you can't decide.
+9. Return to Song Selection.

@@ -37,9 +37,9 @@ Semua aturan pastinya adalah: ATURAN. Ini BUKAN petunjuk dan TIDAK boleh dilangg
 Petunjuk itu penting dan disarankan untuk diikuti pada kebanyakan map. Tetapi, mereka BUKANLAH aturan, jadi mereka bisa dilanggar dalam **kasus-kasus tertentu**. Jika kamu ingin melanggar petunjuk, tanyakan pada dirimu: Apakah yang aku lakukan masuk akal? Apakah lebih menyenangkan bila dimainkan daripada mengikuti petunjuk? Jika kamu menjawab iya kepada kedua pertanyaan tersebut, maka kemungkinan boleh. Jika map anda yang melanggar petunjuk dimod, cobalah sebisa mungkin memberi alasan yang masuk akal : Jelaskan sudut pandangmu dan terbuka terhadap saran/sugesti.
 
 - **Not finish boleh diperbolehkan di akhir stream 1/4 atau lebih kecil dengan persyaratan sebagai berikut:**
-  1.  Not finish harus memiliki alasan yang jelas untuk diletakkan di tempat tersebut.
-  2.  Not sebelum not finish harus berlawanan warna dengan not finish itu sendiri.
-  3.  Not sebelum not finish tidak diperbolehkan bertumpuk di not finish lebih dari 50%.
+  1. Not finish harus memiliki alasan yang jelas untuk diletakkan di tempat tersebut.
+  2. Not sebelum not finish harus berlawanan warna dengan not finish itu sendiri.
+  3. Not sebelum not finish tidak diperbolehkan bertumpuk di not finish lebih dari 50%.
 - **Kecepatan Slider**
 
 **Kecepatan Slider yang digunakan harus 1.40.** Ini untuk memastikan slider dapat terbaca dan kecepatan bergulir yang tepat.

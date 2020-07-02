@@ -29,10 +29,10 @@ outdated: true
 
 Akses layar ini dengan mengklik panel pengguna kamu di bagian pojok kiri atas layar awal. Kamu tidak dapat mengakses konsol obrolan saat melihat layar pilihan pengguna. Kamu dapat memilih dengan menekan angka yang sesuai pada pilihan.
 
-1.  **View Profile (Lihat Profil)**: Membuka halaman profilmu di browsermu.
-2.  **Sign Out (Keluar)**: Mengeluarkan akunmu dan jendela untuk masuk akan muncul.
-3.  **Change Avatar (Ubah Gambar Profil)**: Membuka halaman edit avatar di browsermu.
-4.  **Close (Tutup)** : Menutup jendela ini.
+1. **View Profile (Lihat Profil)**: Membuka halaman profilmu di browsermu.
+2. **Sign Out (Keluar)**: Mengeluarkan akunmu dan jendela untuk masuk akan muncul.
+3. **Change Avatar (Ubah Gambar Profil)**: Membuka halaman edit avatar di browsermu.
+4. **Close (Tutup)** : Menutup jendela ini.
 
 ## Menu Bermain
 
@@ -229,22 +229,22 @@ Catatan: Motif utama transparan pada latar belakang berdasarkan mode yang kamu m
 
 Ini adalah papan skor daringmu. Kamu bisa pergi ke sini dengan menggulir ke bawah pada layar hasil. Papan skor lokalmu akan menampilkan nama dan skor seperti biasa.
 
-1.  Kamu dapat mengubah nama kamu di sini untuk dituliskan pada papan skor lokal.
-2.  Bar pemainmu. Ini menunjukkan apakah ppmu, peringkat pp, jumlah skor, dan akurasi meningkat atau berkurang. Bar level kamu akan meningkat berdasarkan nilai skormu.
-3.  Pilihanmu mengenai Beatmap.
-    1.  Export Replay as .osr: Menyimpan replay yang dapat digunakan secara daring.
-    2.  Online Favourite: Memasukkan beatmap tersebut sebagai pilihan Daring Favoritmu. Ini akan ditampilkan pada profilmu pada bagian Beatmaps-> Favourite Beatmaps
+1. Kamu dapat mengubah nama kamu di sini untuk dituliskan pada papan skor lokal.
+2. Bar pemainmu. Ini menunjukkan apakah ppmu, peringkat pp, jumlah skor, dan akurasi meningkat atau berkurang. Bar level kamu akan meningkat berdasarkan nilai skormu.
+3. Pilihanmu mengenai Beatmap.
+   1. Export Replay as .osr: Menyimpan replay yang dapat digunakan secara daring.
+   2. Online Favourite: Memasukkan beatmap tersebut sebagai pilihan Daring Favoritmu. Ini akan ditampilkan pada profilmu pada bagian Beatmaps-> Favourite Beatmaps
 
-4.  Cukup jelas. Tidak akan muncul jika tidak sedang daring.
-    1.  Map Rank: Peringkatmu di map. Ini akan dihitung bersama dengan skor dengan mod lainnya meskipun Anda tidak menggunakan mod.
-    2.  Overall: Peringkat skormu. Pada dasarnya, peringkatmu dalam skor yang dirank dalam mode permainan speisifik.
-    3.  Accuracy: Hanya akan dihitung ketika nilai lamamu terlampaui. Akurasi adalah rata-rata semua beatmap yang kamu lewati.
-    4.  Ranked Score: Peringkat Skormu. Jika itu adalah lagu Approved, itu tidak akan meningkat sama sekali.
-    5.  Total Score: Jumlah skor keseluruhan. Akan selalu meningkat meskipun kamu gagal memainkan sebuah lagu atau tidak melampaui nilai lama. Mempengaruhi levelmu.
-    6.  To Next Rank: Berapa banyak skor kamu perlukan untuk meningkatkan posisimu dalam sebuah peringkat map.
+4. Cukup jelas. Tidak akan muncul jika tidak sedang daring.
+   1. Map Rank: Peringkatmu di map. Ini akan dihitung bersama dengan skor dengan mod lainnya meskipun Anda tidak menggunakan mod.
+   2. Overall: Peringkat skormu. Pada dasarnya, peringkatmu dalam skor yang dirank dalam mode permainan speisifik.
+   3. Accuracy: Hanya akan dihitung ketika nilai lamamu terlampaui. Akurasi adalah rata-rata semua beatmap yang kamu lewati.
+   4. Ranked Score: Peringkat Skormu. Jika itu adalah lagu Approved, itu tidak akan meningkat sama sekali.
+   5. Total Score: Jumlah skor keseluruhan. Akan selalu meningkat meskipun kamu gagal memainkan sebuah lagu atau tidak melampaui nilai lama. Mempengaruhi levelmu.
+   6. To Next Rank: Berapa banyak skor kamu perlukan untuk meningkatkan posisimu dalam sebuah peringkat map.
 
-5.  Sama seperti 4, tetapi disediakan untuk [Daftar Peringkat](https://osu.ppy.sh/rankings/osu/charts) Bulanan
-6.  Pencapaian terbuka. Setiap pencapaian yang kamu buka akan ditampilkan di sini. Daftar lengkap pencapaian yang mungkin untuk dicapai dapat ditemukan di halaman [Pencapaian](/wiki/Medals)
-7.  Lagu Beatmap dengan sejarah dimainkan dan tingkat kelulusannya.
-8.  Penilaian Beatmap. Gunakan kebijaksanaan pribadimu berdasarkan pada apakah kamu menikmati Beatmap atau tidak. Lebih baik tinggalkan jika kamu tidak dapat menilainya.
-9.  Kembali ke Layar Pemilihan Lagu.
+5. Sama seperti 4, tetapi disediakan untuk [Daftar Peringkat](https://osu.ppy.sh/rankings/osu/charts) Bulanan
+6. Pencapaian terbuka. Setiap pencapaian yang kamu buka akan ditampilkan di sini. Daftar lengkap pencapaian yang mungkin untuk dicapai dapat ditemukan di halaman [Pencapaian](/wiki/Medals)
+7. Lagu Beatmap dengan sejarah dimainkan dan tingkat kelulusannya.
+8. Penilaian Beatmap. Gunakan kebijaksanaan pribadimu berdasarkan pada apakah kamu menikmati Beatmap atau tidak. Lebih baik tinggalkan jika kamu tidak dapat menilainya.
+9. Kembali ke Layar Pemilihan Lagu.

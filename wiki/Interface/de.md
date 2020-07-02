@@ -30,10 +30,10 @@ Das \[1\] osu! Logo pulsiert nach dem [BPM](/wiki/Beatmapping/Beats_per_minute) 
 
 Durchs Klicken auf ihren User-Panel im oberen rechten Bereich erhalten sie Zugang zu ihren Benutzereinstellungen. Sie haben währenddessen keinen Zugang zum Chat. Um ein Element auszuwählen, können sie auch einfach die dazugehörige Zahl betätigen.
 
-1.  **View Profile**: Öffnet ihre Profilseite in ihrem Browser.
-2.  **Change Active User**: Öffnet den Account-Setup-Box, welches ihnen erlaubt sich einzuloggen, auszuloggen und sich mit einen neuen Account zu registrieren.
-3.  **Change Avatar**: Öffnet eine Seite im Browser, um den Avatar zu bearbeiten.
-4.  **Close** : Schließt das Fenster.
+1. **View Profile**: Öffnet ihre Profilseite in ihrem Browser.
+2. **Change Active User**: Öffnet den Account-Setup-Box, welches ihnen erlaubt sich einzuloggen, auszuloggen und sich mit einen neuen Account zu registrieren.
+3. **Change Avatar**: Öffnet eine Seite im Browser, um den Avatar zu bearbeiten.
+4. **Close** : Schließt das Fenster.
 
 ## Spielmenü
 
@@ -184,22 +184,22 @@ Note: The back transparent leitmotif is based on what mode you played in.
 
 Dies ist Ihre Online Führungstabelle. Ihre lokale Rangliste listet wie gewöhnlich Ihren Score sowie Ihren Namen auf.
 
-1.  Sie können hier Ihren Namen ändern, der im lokalen Ranking angezeigt werden wird.
-2.  Ihr Player-Panel. Zeigt Ihren pp, pp Rang, gesamter Score, Accuracy, sowie den Mode an, den Sie gespielt haben. Ihr Levelbalken wird auch je nach Score steigern.
-3.  Your options regarding the Beatmap.
-    1.  Export Replay as .osr: Export Ihren Replay als .osr Datei, den Sie ohne Weiteres wo hinaufladen können.
-    2.  Online Favourite: Fügt die Beatmap zu Ihren Online Favoriten hinzu. Ihre Favoriten werden auf Ihrem Profil unter Beatmaps->Favourite Beatmaps aufgelistet.
+1. Sie können hier Ihren Namen ändern, der im lokalen Ranking angezeigt werden wird.
+2. Ihr Player-Panel. Zeigt Ihren pp, pp Rang, gesamter Score, Accuracy, sowie den Mode an, den Sie gespielt haben. Ihr Levelbalken wird auch je nach Score steigern.
+3. Your options regarding the Beatmap.
+   1. Export Replay as .osr: Export Ihren Replay als .osr Datei, den Sie ohne Weiteres wo hinaufladen können.
+   2. Online Favourite: Fügt die Beatmap zu Ihren Online Favoriten hinzu. Ihre Favoriten werden auf Ihrem Profil unter Beatmaps->Favourite Beatmaps aufgelistet.
 
-4.  Selbsterklärend. Wird im Offline-Modus nicht erscheinen.
-    1.  Map Rank: Zeigt Ihren derzeitigen Rank auf der Map an.
-    2.  Overall: Zeigt Ihren derzeitigen Rank im Score Ranking an.
-    3.  Accuracy: Zeigt den Durchschnittswert Ihrer Accuracy aus allen Beatmaps an. Wird nur dann neu berechnet, wenn Sie Ihren alten Score überboten haben sollten.
-    4.  Ranked Score: Ihr Ranked Score. Bei einer Approved Beatmap wird die Punkteanzahl nicht zum Score Ranking dazu gezählt.
-    5.  Total Score: Gesamter Score. Stetig am steigen, selbst wenn Sie bei einer fehlschlagen sollten bzw. Ihren alten Score nicht überboten haben. Beeinflusst den Levelbalken.
-    6.  To Next Rank: Zeigt an, wie viele Punkte Ihnen bis zum nächsten Rang noch fehlen.
+4. Selbsterklärend. Wird im Offline-Modus nicht erscheinen.
+   1. Map Rank: Zeigt Ihren derzeitigen Rank auf der Map an.
+   2. Overall: Zeigt Ihren derzeitigen Rank im Score Ranking an.
+   3. Accuracy: Zeigt den Durchschnittswert Ihrer Accuracy aus allen Beatmaps an. Wird nur dann neu berechnet, wenn Sie Ihren alten Score überboten haben sollten.
+   4. Ranked Score: Ihr Ranked Score. Bei einer Approved Beatmap wird die Punkteanzahl nicht zum Score Ranking dazu gezählt.
+   5. Total Score: Gesamter Score. Stetig am steigen, selbst wenn Sie bei einer fehlschlagen sollten bzw. Ihren alten Score nicht überboten haben. Beeinflusst den Levelbalken.
+   6. To Next Rank: Zeigt an, wie viele Punkte Ihnen bis zum nächsten Rang noch fehlen.
 
-5.  Das selbe wie bei 4., ist jedoch für den monatlichen [Ranking Chart](https://osu.ppy.sh/rankings/osu/charts) reserviert.
-6.  Achievement freigeschalten. Jeder Achievement, den Sie freischalten, wird hier unten angezeigt. Eine vollständige Liste an freischaltbaren Achievement können Sie [hier](/wiki/Medals) finden.
-7.  Beatmap Song sowie dessen Anzahl an Plays und dessen Passrate.
-8.  Beatmap Rating. Entscheiden Sie nach persönlichen Ermessen.
-9.  Zur Songauswahl zurückkehren.
+5. Das selbe wie bei 4., ist jedoch für den monatlichen [Ranking Chart](https://osu.ppy.sh/rankings/osu/charts) reserviert.
+6. Achievement freigeschalten. Jeder Achievement, den Sie freischalten, wird hier unten angezeigt. Eine vollständige Liste an freischaltbaren Achievement können Sie [hier](/wiki/Medals) finden.
+7. Beatmap Song sowie dessen Anzahl an Plays und dessen Passrate.
+8. Beatmap Rating. Entscheiden Sie nach persönlichen Ermessen.
+9. Zur Songauswahl zurückkehren.

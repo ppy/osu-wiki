@@ -26,10 +26,10 @@ So you downloaded a map and you've thought of some things you aren't happy with 
 
 Suggestions themselves should ideally consist of four main parts, though based on the experience of the mapper and/or your personal relationship to them, you may want to be more lenient:
 
-1.  **A statement of the issue itself and where it can be found** - including a timestamp is a huge help so that the mapper can find the part in question quickly.
-2.  **A brief explanation of why this causes a problem** - this is essential in convincing a mapper to even consider your suggestion. Mappers are much more receptive to criticism and change when it's accompanied by clear, understandable and valid reasoning.
-3.  **One or more alternative suggestions, accompanied by explanations of how they address the problem(s)** - much like the above, explanation is key here. Even if you can convince the mapper that their current work can be improved, what makes your suggestion better than theirs, or anyone else's?
-4.  **The wording (or even language) used should take the mapper into consideration.** Are they a fluent English speaker? If not, stick to simple and easy-to-understand language. If you both speak the same language, by all means write in that language, but try to append an English summary of your mods and mod replies if possible, to ensure everyone stays on the same page. If necessary, support your suggestions with screenshots, illustrations, or even short video clips to help get your point across.
+1. **A statement of the issue itself and where it can be found** - including a timestamp is a huge help so that the mapper can find the part in question quickly.
+2. **A brief explanation of why this causes a problem** - this is essential in convincing a mapper to even consider your suggestion. Mappers are much more receptive to criticism and change when it's accompanied by clear, understandable and valid reasoning.
+3. **One or more alternative suggestions, accompanied by explanations of how they address the problem(s)** - much like the above, explanation is key here. Even if you can convince the mapper that their current work can be improved, what makes your suggestion better than theirs, or anyone else's?
+4. **The wording (or even language) used should take the mapper into consideration.** Are they a fluent English speaker? If not, stick to simple and easy-to-understand language. If you both speak the same language, by all means write in that language, but try to append an English summary of your mods and mod replies if possible, to ensure everyone stays on the same page. If necessary, support your suggestions with screenshots, illustrations, or even short video clips to help get your point across.
 
 There are any number of ways to present your mod post, so feel free to experiment, but try to keep the visuals simple and formatted in a way that it is easy for the mapper and others to work with.
 
