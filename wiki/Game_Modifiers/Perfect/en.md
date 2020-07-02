@@ -34,12 +34,14 @@ tags:
 The **Perfect** mod is a [game modifier](/wiki/Game_Modifiers) that aims to aid players who are going for an SS grade by automatically failing and retrying [beatmaps](/wiki/Beatmaps) upon missing a note or obtaining any score on a [hit object](/wiki/Hit_object) other than 300 or more.
 
 Any of the following acts will cause the Perfect mod to restart the beatmap:
+
 - Missing a note
 - Obtaining a `100` or `50`
 - Failing a spinner
 - Sliderbreaking
 
 Any of the following acts **will not** cause the Perfect mod to restart the beatmap:
+
 - Obtaining a `300`
 - Completing a spinner
 - Obtaining a Rainbow 300/MAX score ([osu!mania](/wiki/Game_Modes/))
