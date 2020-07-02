@@ -73,10 +73,10 @@ Do you want to see your own name on this list? Do you like modding and helping o
 
 Head over to the [Beatmap Nominator website](https://bn.mappersguild.com/) and apply today!
 
-### BN Resignations
+### BN Departures
 
 - **osu!:** [Affirmation](https://osu.ppy.sh/users/6186628)
-- **osu!taiko:** [Cynplytholowazy](https://osu.ppy.sh/users/3901754)
+- **osu!taiko:** [Cynplytholowazy](https://osu.ppy.sh/users/3901754) & [Gamelan4](https://osu.ppy.sh/users/9856910)
 - **osu!catch:** [-Luminate](https://osu.ppy.sh/users/4778689)
 - **osu!mania:** [\_Kobii](https://osu.ppy.sh/users/6209713) & [Unpredictable](https://osu.ppy.sh/users/7560872)
 
