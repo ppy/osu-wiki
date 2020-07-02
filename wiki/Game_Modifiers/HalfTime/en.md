@@ -40,7 +40,7 @@ The **Half-Time** mod is a [game modifier](/wiki/Game_Modifiers) that decreaes t
 - When the Half-Time mod is enabled, the `Length`, `BPM`, and `Objects` values will be colored in a light blue with the new values.
   - The `Objects` value will still be colored light blue even though no change in value is actually made.
 - The `CS`, `AR`, and `HP` values will have a superscript triangle next to their values indicate a small decrease in their values.
-  
+
 <!-- image that illustrates this effect -->
 
 <!-- The original article did not elaborate on osu!standard nor osu!mania. I assume this is due to no major differences between the two modes as to how they are handled. Therefore I will not discuss them here. -->
