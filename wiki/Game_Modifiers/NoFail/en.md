@@ -12,11 +12,12 @@ tags:
 - replace placeholders 
 - fact-check all information-->
 
-# No-Fail (mod) 
-
-*For the full list of all mods, see: [Game Modifiers](/wiki/Game_Modifiers)*
+# No-Fail (mod)
 
 ![NF mod icon](/wiki/shared/mods/NF.png "No-Fail (NF) mod icon")
+
+
+*For the full list of all mods, see: [Game Modifiers](/wiki/Game_Modifiers)*
 
 ## About
 
