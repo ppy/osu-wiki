@@ -40,6 +40,3 @@ The Auto Pilot mod also hides the [score](/wiki/Score), [combo](/wiki/Beatmappin
 Additionally, the spins per minute (SPM) value done by Auto Pilot is similar to the spins per minute done by the [Spun Out](/wiki/Game_Modifiers/Spun_Out) mod, thus the player cannot increase the SPM by spinning it.
 
 [o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
