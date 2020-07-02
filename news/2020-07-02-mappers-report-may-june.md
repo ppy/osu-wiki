@@ -78,7 +78,7 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com/) and a
 - **osu!:** [Affirmation](https://osu.ppy.sh/users/6186628), [Namki](https://osu.ppy.sh/users/5248582) & [wafer](https://osu.ppy.sh/users/9416836)
 - **osu!taiko:** [Cynplytholowazy](https://osu.ppy.sh/users/3901754), [Gamelan4](https://osu.ppy.sh/users/9856910) & [Metzo](https://osu.ppy.sh/users/10633982)
 - **osu!catch:** [-Luminate](https://osu.ppy.sh/users/4778689) & [Lacrima](https://osu.ppy.sh/users/4915649)
-- **osu!mania:** [\_Kobii](https://osu.ppy.sh/users/6209713) & [Unpredictable](https://osu.ppy.sh/users/7560872)
+- **osu!mania:** [\_Kobii](https://osu.ppy.sh/users/6209713), [Drum-Hitnormal](https://osu.ppy.sh/users/748722) & [Unpredictable](https://osu.ppy.sh/users/7560872)
 
 ### BN and QAT/NAT Badges
 
