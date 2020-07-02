@@ -39,7 +39,7 @@ This refill event will be signaled to the player with the ready sound (`readysou
 ### Trivia
 
 - When watching a replay where an extra life is used, the health refill animation will be ignored and the replay will continue as if the player was playing with the [No-Fail](/wiki/Game_Modifiers/NoFail) mod on.
-- In [Multi]/wiki/Multi) mode, the effect of "lives" will not work in [Tag Co-op or Tag Team Vs.](/wiki/Multi#tag-coop-tag-team-vs) team mode.
+- In [Multi](/wiki/Multi) mode, the effect of "lives" will not work in [Tag Co-op or Tag Team Vs.](/wiki/Multi#tag-coop-tag-team-vs) team mode.
 - The Easy mod will cancel out the [Hard Rock](/wiki/Game_Modifiers/Hard_Rock) mod, and vice-versa.
 
 ## osu!standard
