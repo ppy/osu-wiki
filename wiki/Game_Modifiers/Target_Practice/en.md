@@ -47,6 +47,3 @@ The mode's use is mostly for fun, but is also used to practice maintaining a con
 - The Target Practice Mod will use the [combo colours](/wiki/Beatmapping/Combo#combo-colour) that are marked in the player's current [skin.ini](/wiki/Skinning/skin.ini) folder.
 
 [o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
