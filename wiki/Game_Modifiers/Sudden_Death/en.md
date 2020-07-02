@@ -35,11 +35,13 @@ tags:
 The **Sudden Death** mod is a [game modifier](/wiki/Game_Modifiers) that causes players to fail a [beatmap](/wiki/Beatmaps) upon missing a [hit object](/wiki/Hit_Objects) or failing to collect a slider tick. This is useful for players who are going for an [full combo (FC)](/wiki/Glossary#fc), though there is some debate as to whether the use of the Sudden Death mod or the act of retrying at the first [combo break](/wiki/Glossary#combobreak) is helpul or harmful.
 
 To be more specific, the Sudden Death mod will only fail the beatmap if any of the following happen:
+
 - Missing a note (circle, [sliderhead](/wiki/Hit_object/Sliderhead))
 - Failing to collect a slider tick (osu!standard only)
 - Failing to complete a spinner
 
 The Sudden Death mod **will not** fail the beatmap if any of the following happen:
+
 - Missing a [sliderend](/wiki/Hit_object/Slidertail) (i.e. a sliderbreak)
 - Not holding/collecting on the enmpty slider path
 
