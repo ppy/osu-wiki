@@ -23,9 +23,9 @@ Aktivite aday göstermeler ile ölçülür, yani her bir aday gösterme bir akti
 
 Her modun aylık aktivite için kendi asgari gereksinimleri aşağıdaki gibidir.
 
-- osu!, osu!taiko, osu!catch: 3 aktivite
-- osu!mania: 2 aktivite
-- Hibrit: yetkili olduğu her bir oyun modu için en az 1 tane olmak üzere, 3 aktivite
+- osu!, osu!taiko, osu!catch: 3 aktivite.
+- osu!mania: 2 aktivite.
+- Hibrit: yetkili olduğu her bir oyun modu için en az 1 tane olmak üzere, 3 aktivite.
 
 ## Aday gösterme
 
