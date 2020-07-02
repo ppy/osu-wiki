@@ -56,7 +56,7 @@ Each of the following mods listed will have the compitable game modes' icon (![]
 - [ScoreV2 (SV2)](/wiki/Game_Modifiers/ScoreV2) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 - [Target Practice (TP)](/wiki/Game_Modifiers/Target_Practice) ![][o!s] **Cutting Edge only**
 
-### Old Mods:
+### Old Mods
 
 *Note: these mods were used and available some time ago, but are now unavailable.*
 
