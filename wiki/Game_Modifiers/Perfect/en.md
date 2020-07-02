@@ -24,7 +24,7 @@ tags:
 - Abbreviation: PF
 - Type: Difficulty Increase
 - Score Multiplier: <!--placeholder (numbers may vary from game mode to game mode -->
-- Default shortcut key: `S``S` or `Shift`+`S`
+- Default shortcut key: `S` `S` or `Shift`+`S`
 - Caption: <!--placeholder-->
 - Compatible game modes: ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 - Variant: [Sudden Death](/wiki/Game_Modifiers/Sudden_Death)
