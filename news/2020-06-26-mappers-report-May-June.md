@@ -141,6 +141,7 @@ The May and June Montly Beatmapping Contests both have their submission phases c
 ### osu! Mapping Olympiad #7: osu!mania
 
 Keyboard mashers, rise up! It's your time to shine!
+
 The [osu! Mapping Olympiad](https://osu.ppy.sh/home/news/2020-06-06-osu-mapping-olympiad-7-mania) is a returning mapping contest which features a different game mode in every installment. This time only for the osu!mania mappers out there!
 
 Luring all mappers out there with Olympiad points for the top 3, which awards the Mapping Olympiad badge, and for the winner an unique user title, the "Elite Mapper"!
