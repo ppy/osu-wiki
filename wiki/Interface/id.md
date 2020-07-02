@@ -10,18 +10,18 @@ outdated: true
 
 ![](img/Introscreen.jpg "Menu utama")
 
--   \[1\] osu! logo berdetak sesuai dengan [BPM (Ketukan per Menit)](/wiki/Beatmapping/Beats_per_minute) dari setiap lagu yang sedang diputar di layar awal. Jika tidak ada lagu yang sedang dimainkan, logo akan berdetak pada tingkat yang biasanya. Pintasan papan ketik terdapat dalam tanda kurung.
--   \[2\] Klik Play (P) atau logo untuk beralih ke layar awal kedua.
--   \[3\] Klik Edit (E) untuk membuka layar pilihan lagu untuk [Penyunting](/wiki/Beatmap_Editor).
--   \[4\] Klik Options (O) dan jendela [opsi](/wiki/Options) akan terbuka.
--   \[5\] Klik Exit (Esc) untuk keluar osu!.
--   \[6\] Tips yang bermanfaat ditampilkan secara acak di bagian bawah menu.
--   \[7\] Di pojok kiri bawah adalah link ke situs osu! itu.
--   \[8\] Hasil Koneksi ke Bancho!
--   \[9\] Di pojok kanan bawah yaitu adalah kontrol [Konsol Obrolan](/wiki/Internet_Relay_Chat) (pintasan: F8&F9 ).
--   \[10\] Di pojok kanan atas tersebut adalah osu!jukebox yang memainkan lagu secara acak.
--   \[11\] Sebelah userpanel tersebut, jumlah beatmaps, waktu berjalannya program hingga saat ini dan waktu jam komputer kamu.
--   \[12\] Di pojok kiri atas adalah panel pengguna kamu, klik di atasnya untuk menampilkan Pilihan Pengguna.
+- \[1\] osu! logo berdetak sesuai dengan [BPM (Ketukan per Menit)](/wiki/Beatmapping/Beats_per_minute) dari setiap lagu yang sedang diputar di layar awal. Jika tidak ada lagu yang sedang dimainkan, logo akan berdetak pada tingkat yang biasanya. Pintasan papan ketik terdapat dalam tanda kurung.
+- \[2\] Klik Play (P) atau logo untuk beralih ke layar awal kedua.
+- \[3\] Klik Edit (E) untuk membuka layar pilihan lagu untuk [Penyunting](/wiki/Beatmap_Editor).
+- \[4\] Klik Options (O) dan jendela [opsi](/wiki/Options) akan terbuka.
+- \[5\] Klik Exit (Esc) untuk keluar osu!.
+- \[6\] Tips yang bermanfaat ditampilkan secara acak di bagian bawah menu.
+- \[7\] Di pojok kiri bawah adalah link ke situs osu! itu.
+- \[8\] Hasil Koneksi ke Bancho!
+- \[9\] Di pojok kanan bawah yaitu adalah kontrol [Konsol Obrolan](/wiki/Internet_Relay_Chat) (pintasan: F8&F9 ).
+- \[10\] Di pojok kanan atas tersebut adalah osu!jukebox yang memainkan lagu secara acak.
+- \[11\] Sebelah userpanel tersebut, jumlah beatmaps, waktu berjalannya program hingga saat ini dan waktu jam komputer kamu.
+- \[12\] Di pojok kiri atas adalah panel pengguna kamu, klik di atasnya untuk menampilkan Pilihan Pengguna.
 
 ### Pilihan Pengguna
 
@@ -38,9 +38,9 @@ Akses layar ini dengan mengklik panel pengguna kamu di bagian pojok kiri atas la
 
 ![](img/Introscreen2.jpg "Menu bermain")
 
--   Click Solo (P) untuk bermain sendiri.
--   Click Multi (M) bermain dengan orang lain. Kamu akan diarahkan ke layar [bermain bersama](/wiki/Multi).
--   Click Back untuk kembali ke Menu Utama
+- Click Solo (P) untuk bermain sendiri.
+- Click Multi (M) bermain dengan orang lain. Kamu akan diarahkan ke layar [bermain bersama](/wiki/Multi).
+- Click Back untuk kembali ke Menu Utama
 
 ### Lobi Bermain Bersama
 
@@ -66,7 +66,7 @@ Karena layar ini memiliki terlalu banyak elemen untuk diperhatikan oleh nomor ya
 
 Area ini menampilkan **informasi pada tingkat kesulitan beatmap yang sedang dipilih.** Biasanya, Beatmap yang terdengar di osu!jukebox dipilih secara otomatis ketika memasuki layar pemilihan. Nilai BPM yang tercantum adalah deviasi antara BPM tertinggi dan terendah yang terjadi pada Beatmap (perubahan bagian timing). "Objects" adalah jumlah keseluruhan [objek ketukan](/wiki/Hit_Objects) sebuah beatmap. Sebuah simbol hati ![](/wiki/shared/icon/heart.gif) di pojok kiri atas menunjukkan beatmap tersebut telah ranked, sedangkan simbol api ![](/wiki/shared/icon/flame.gif) menunjukkan approved beatmap. Judul unicode akan digunakan jika [opsi "Utamakan aksara non-Latin untuk metadata" (allowed non-English metadata) pada bagian Umum (General)](/wiki/Options#language) dan beatmap tersebut memiliki judul/artis dalam bentuk unicode.
 
--   Bentuk: {Sumber} ({Artis}) - {Judul} \[{Tingkat kesulitan yang dipilih}\]
+- Bentuk: {Sumber} ({Artis}) - {Judul} \[{Tingkat kesulitan yang dipilih}\]
 
 #### Grup dan Pengurutan
 
@@ -75,33 +75,33 @@ Area ini menampilkan **informasi pada tingkat kesulitan beatmap yang sedang dipi
 Klik pada salah satu tab untuk **mengurutkan daftar lagu kamu sesuai dengan kriteria yang dipilih.**
 **Grup** - Opsi yang sering diguanakn untuk mengatur beatmap menjadi berbagai grup yang dapat diperluas
 
--   No Grouping (Tanpa Pengelompokan) - Beatmap tidak akan dikelompokkan (tetapi akan tetap muncul dalam urutan yang dispesifikan oleh Pengurutan)
--   By Artist (berdasarkan Artis) - Dengan huruf, angka, atau karakter pertama dari nama artis
--   By BPM (berdasarkan BPM) - Berdasarkan ketukan per menit, dengan kelipatan 60
--   By Creator (berdasarkan Pembuat) - Berdasarkan nama dari mapper beatmap tersebut
--   By Date Added (berdasarkan Waktu Ditambahkan) - Berdasarkan hari ini, kemarin, minggu lalu, dan beberapa pengelompokan dari 1 hingga 5 bulan yang lalu
--   By Difficulty (Berdasarkan Tingkat Kesulitan) - Berdasarkan jumlah bintang (dibulatkan ke bilangan bulat terdekat)
--   By Length (Berdasarkan Durasi) - Berdasarkan durasi: 5 grup untuk "dibawah 1-5" dan 2 untuk lebih dan dibawah 10 menit
--   By Mode (Berdasarkan Mode) - Berdasarkan satu dari 4 mode permainan
--   By Rank Achieved (Berdasarkan Peringkat yang Dicapai) - Berdasarkan Peringkat D, C, B, A, S, SS, S Perak, SS Perak
--   By Title (Berdasarkan Judul) - Berdasarkan huruf, angka, karakter pertama dari nama judul
--   Collections (Koleksi) - Berdasarkan koleksimu, diurutkan alphabetikal: beatmap yang tidak berada di dalam koleksi tidak akan muncul
--   Favourites (Favorit) - Hanya menampilkan koleksi favorit daringmu (satu grup)
--   My Maps (Map Saya) - Hanya menampilkan beatmap yang kamu map (satu grup)
--   Ranked Status (Status Dirank) - Berdasarkan status diranknya beatmap: ranked (Dirank), pending (Ditunda), not submitted (Belum dikirim) atau unknown (Tidak diketahui)
--   Recently Played (Baru Dimainkan) - Sama dengan pengelompokan "berdasarkan Waktu Ditambahkan", kecuali untuk tanggal terakhir dimainkan
+- No Grouping (Tanpa Pengelompokan) - Beatmap tidak akan dikelompokkan (tetapi akan tetap muncul dalam urutan yang dispesifikan oleh Pengurutan)
+- By Artist (berdasarkan Artis) - Dengan huruf, angka, atau karakter pertama dari nama artis
+- By BPM (berdasarkan BPM) - Berdasarkan ketukan per menit, dengan kelipatan 60
+- By Creator (berdasarkan Pembuat) - Berdasarkan nama dari mapper beatmap tersebut
+- By Date Added (berdasarkan Waktu Ditambahkan) - Berdasarkan hari ini, kemarin, minggu lalu, dan beberapa pengelompokan dari 1 hingga 5 bulan yang lalu
+- By Difficulty (Berdasarkan Tingkat Kesulitan) - Berdasarkan jumlah bintang (dibulatkan ke bilangan bulat terdekat)
+- By Length (Berdasarkan Durasi) - Berdasarkan durasi: 5 grup untuk "dibawah 1-5" dan 2 untuk lebih dan dibawah 10 menit
+- By Mode (Berdasarkan Mode) - Berdasarkan satu dari 4 mode permainan
+- By Rank Achieved (Berdasarkan Peringkat yang Dicapai) - Berdasarkan Peringkat D, C, B, A, S, SS, S Perak, SS Perak
+- By Title (Berdasarkan Judul) - Berdasarkan huruf, angka, karakter pertama dari nama judul
+- Collections (Koleksi) - Berdasarkan koleksimu, diurutkan alphabetikal: beatmap yang tidak berada di dalam koleksi tidak akan muncul
+- Favourites (Favorit) - Hanya menampilkan koleksi favorit daringmu (satu grup)
+- My Maps (Map Saya) - Hanya menampilkan beatmap yang kamu map (satu grup)
+- Ranked Status (Status Dirank) - Berdasarkan status diranknya beatmap: ranked (Dirank), pending (Ditunda), not submitted (Belum dikirim) atau unknown (Tidak diketahui)
+- Recently Played (Baru Dimainkan) - Sama dengan pengelompokan "berdasarkan Waktu Ditambahkan", kecuali untuk tanggal terakhir dimainkan
 
 **Pengurutan** - Urutkan beatmap berdasarkan urutan yang ditentukan
 
--   By Artist (berdasarkan Artis) - Dengan huruf, angka, atau karakter pertama dari nama artis
--   By BPM (berdasarkan BPM) - Berdasarkan ketukan per menit, dengan kelipatan 60
--   By Creator (berdasarkan Pembuat) - Berdasarkan nama dari mapper beatmap tersebut
--   By Date Added (berdasarkan Waktu Ditambahkan) - Berdasarkan hari ini, kemarin, minggu lalu, dan beberapa pengelompokan dari 1 hingga 5 bulan yang lalu
--   By Difficulty (Berdasarkan Tingkat Kesulitan) - Berdasarkan jumlah bintang (dibulatkan ke bilangan bulat terdekat)
--   By Length (Berdasarkan Durasi) - Berdasarkan durasi: 5 grup untuk "dibawah 1-5" dan 2 untuk lebih dan dibawah 10 menit
--   By Mode (Berdasarkan Mode) - Berdasarkan satu dari 4 mode permainan
--   By Rank Achieved (Berdasarkan Peringkat yang Dicapai) - Berdasarkan Peringkat D, C, B, A, S, SS, S Perak, SS Perak
--   By Title (Berdasarkan Judul) - Berdasarkan huruf, angka, karakter pertama dari nama judul
+- By Artist (berdasarkan Artis) - Dengan huruf, angka, atau karakter pertama dari nama artis
+- By BPM (berdasarkan BPM) - Berdasarkan ketukan per menit, dengan kelipatan 60
+- By Creator (berdasarkan Pembuat) - Berdasarkan nama dari mapper beatmap tersebut
+- By Date Added (berdasarkan Waktu Ditambahkan) - Berdasarkan hari ini, kemarin, minggu lalu, dan beberapa pengelompokan dari 1 hingga 5 bulan yang lalu
+- By Difficulty (Berdasarkan Tingkat Kesulitan) - Berdasarkan jumlah bintang (dibulatkan ke bilangan bulat terdekat)
+- By Length (Berdasarkan Durasi) - Berdasarkan durasi: 5 grup untuk "dibawah 1-5" dan 2 untuk lebih dan dibawah 10 menit
+- By Mode (Berdasarkan Mode) - Berdasarkan satu dari 4 mode permainan
+- By Rank Achieved (Berdasarkan Peringkat yang Dicapai) - Berdasarkan Peringkat D, C, B, A, S, SS, S Perak, SS Perak
+- By Title (Berdasarkan Judul) - Berdasarkan huruf, angka, karakter pertama dari nama judul
 
 #### Pencarian
 
@@ -109,24 +109,24 @@ Klik pada salah satu tab untuk **mengurutkan daftar lagu kamu sesuai dengan krit
 
 Ketik dimanapun pada Layar Pemilihan Lagu ([Konsol Chat](/wiki/Chat_Console) tidak boleh aktif ketika mengetik atau itu akan dianggap sebagai teks obrolan) dan pencarian akan aktif. Catatan:
 
--   **Daftar beatmap hanya akan menampilkan map yang mengandung informasi** (Artis lagu, nama lagu, pembuat beatmap, nama tingkat kesulitan, label) **sesuai dengan apa yang kamu ketik**
--   Menggunakan **Ctrl+Backspace** tidak menghilangkan karakter terakhir yang kamu ketik, melainkan kata terakhir yang kamu ketik
--   Terdapat beberapa **penyaring pencarian** yang akan menyaring hasil jika menggunakan =, <, >, <=, >=, != (tidak sama dengan), atau == (tepat sama dengan) dan sebuah nilai (contoh "od>8", "bpm>150", "mode=mania").
-    Penyaring dapat digunakan pula sebagai tambahan kata kunci pencarian atau penyaring lainnya. (contoh "fox bpm>200 ar=10", "bms status=r bpm>200 length>180")
-    -   **ar** - Approach rate (Tingkat capaian)
-    -   **cs** - Circle size (Ukuran lingkaran)
-    -   **od** - Overall difficulty (Tingkat kesulitan secara keseluruhan)
-    -   **hp** - Tingkat pengurasan HP
-    -   **keys** - Jumlah tombol (Hanya osu!mania)
-    -   **stars** - Jumlah bintang berdasarkan tingkat kesulitan
-    -   **bpm** - Ketukan per menit
-    -   **length** - Durasi dalam detik
-    -   **drain** - Drain time dalam detik
-    -   **mode** - Mode - nilai dapat berupa osu, taiko, catchthebeat, atau mania (atau lebih singkatnya o/t/c/m)
-    -   **status** - Status Dirank - nilai dapat berupa ranked (Dirank), pending (Ditunda), not submitted (Belum dikirim) atau unknown (Tidak diketahui) (atau lebih singkatnya r/a/p/n/u)
-    -   **played** - Waktu sejak terakhir dimainkan dalam hari
-    -   **unplayed** - Map yang belum dimainkan - tanpa nilai (gunakan "unplayed=" untuk map yang belum dimainkan, atau "unplayed!=" untuk map yang telah dimainkan)
-    -   **speed** - kecepatan gulir osu!mania yang telah disimpan - selalu 0 untuk map yang belum dimainkan atau jika [Opsi Remember osu!mania scroll speed per beatmap (Ingat kecepatan gulir osu!mania setiap beatmap)](/wiki/Options#gameplay-section) tidak dicentang
+- **Daftar beatmap hanya akan menampilkan map yang mengandung informasi** (Artis lagu, nama lagu, pembuat beatmap, nama tingkat kesulitan, label) **sesuai dengan apa yang kamu ketik**
+- Menggunakan **Ctrl+Backspace** tidak menghilangkan karakter terakhir yang kamu ketik, melainkan kata terakhir yang kamu ketik
+- Terdapat beberapa **penyaring pencarian** yang akan menyaring hasil jika menggunakan =, <, >, <=, >=, != (tidak sama dengan), atau == (tepat sama dengan) dan sebuah nilai (contoh "od>8", "bpm>150", "mode=mania").
+  Penyaring dapat digunakan pula sebagai tambahan kata kunci pencarian atau penyaring lainnya. (contoh "fox bpm>200 ar=10", "bms status=r bpm>200 length>180")
+  - **ar** - Approach rate (Tingkat capaian)
+  - **cs** - Circle size (Ukuran lingkaran)
+  - **od** - Overall difficulty (Tingkat kesulitan secara keseluruhan)
+  - **hp** - Tingkat pengurasan HP
+  - **keys** - Jumlah tombol (Hanya osu!mania)
+  - **stars** - Jumlah bintang berdasarkan tingkat kesulitan
+  - **bpm** - Ketukan per menit
+  - **length** - Durasi dalam detik
+  - **drain** - Drain time dalam detik
+  - **mode** - Mode - nilai dapat berupa osu, taiko, catchthebeat, atau mania (atau lebih singkatnya o/t/c/m)
+  - **status** - Status Dirank - nilai dapat berupa ranked (Dirank), pending (Ditunda), not submitted (Belum dikirim) atau unknown (Tidak diketahui) (atau lebih singkatnya r/a/p/n/u)
+  - **played** - Waktu sejak terakhir dimainkan dalam hari
+  - **unplayed** - Map yang belum dimainkan - tanpa nilai (gunakan "unplayed=" untuk map yang belum dimainkan, atau "unplayed!=" untuk map yang telah dimainkan)
+  - **speed** - kecepatan gulir osu!mania yang telah disimpan - selalu 0 untuk map yang belum dimainkan atau jika [Opsi Remember osu!mania scroll speed per beatmap (Ingat kecepatan gulir osu!mania setiap beatmap)](/wiki/Options#gameplay-section) tidak dicentang
 
 #### Peringkat
 
@@ -134,14 +134,14 @@ Ketik dimanapun pada Layar Pemilihan Lagu ([Konsol Chat](/wiki/Chat_Console) tid
 
 Berbagai hal bisa muncul di ruang ini:
 
--   Sebuah kotak "Not yet Submitted (Belum dikirim sama sekali)" menunjukkan suatu beatmap yang belum diunggah ke situs web osu! Sistem Pengiriman Beatmap (BSS).
--   Jika kotak "Update to latest version) Perbaharui ke versi terbaru" muncul, klik memperbaharui beatmap ini dengan versi terbaru dari situs osu!.
-    -   **Catatan:** Versi sebelumnya tidak dapat dipulihkan. Jika kamu ingin mempertahankan beatmapnya, jangan perbarui.
--   Sebuah kotak "Latest pending version (Versi pending terbaru)" muncul jika beatmap telah diunggah ke situs osu! itu tetapi belum dirank.
--   Tabel Peringkat Lokal juga akan berada di sini.
--   "No records set! (Belum ada rekor yang dibuat!)" berarti Anda belum menyelesaikan beatmap secara solo dalam sebuah mode permainanmu sedang dipilih dengan tanda tingkat.
-    -   Catatan: Skor multimu tidak akan disimpan di Peringkat Lokal.
--   "Not yet uploaded (Belum diunggah sama sekali)" berarti itu beatmapmu belum diunggah sama sekali.
+- Sebuah kotak "Not yet Submitted (Belum dikirim sama sekali)" menunjukkan suatu beatmap yang belum diunggah ke situs web osu! Sistem Pengiriman Beatmap (BSS).
+- Jika kotak "Update to latest version) Perbaharui ke versi terbaru" muncul, klik memperbaharui beatmap ini dengan versi terbaru dari situs osu!.
+  - **Catatan:** Versi sebelumnya tidak dapat dipulihkan. Jika kamu ingin mempertahankan beatmapnya, jangan perbarui.
+- Sebuah kotak "Latest pending version (Versi pending terbaru)" muncul jika beatmap telah diunggah ke situs osu! itu tetapi belum dirank.
+- Tabel Peringkat Lokal juga akan berada di sini.
+- "No records set! (Belum ada rekor yang dibuat!)" berarti Anda belum menyelesaikan beatmap secara solo dalam sebuah mode permainanmu sedang dipilih dengan tanda tingkat.
+  - Catatan: Skor multimu tidak akan disimpan di Peringkat Lokal.
+- "Not yet uploaded (Belum diunggah sama sekali)" berarti itu beatmapmu belum diunggah sama sekali.
 
 **Tabel Peringkat:**
 
@@ -155,10 +155,10 @@ Berbagai hal bisa muncul di ruang ini:
 
 Klik ikon balon untuk memanggil layar **Akses Cepat Web** untuk beatmap yang dipilih:
 
--   Tekan 1 atau klik tombol "Beatmap Listing/Scores (Daftar/Skor Beatmap)" dan browser internetmu akan mencoba untuk menampilkan daftar halaman beatmap dan skor dari beatmap yang telah dipilih.
--   Tekan 2 atau klik "Beatmap Topic (Topik Beatmap)" dan browser internetmu akan mencoba untuk menampilkan thread forum dari beatmap yang telah dipilih.
--   Tekan 3 atau klik "Quick Reply (Balas Langsung)" dan browser internetmu akan mencoba untuk membuka halaman di mana Anda dapat menulis balasan ke thread forum dari beatmap yang telah dipilih.
--   Tekan 4 atau Esc atau klik "Cancel (Batal)" untuk kembali ke Layar Pemilihan Lagu.
+- Tekan 1 atau klik tombol "Beatmap Listing/Scores (Daftar/Skor Beatmap)" dan browser internetmu akan mencoba untuk menampilkan daftar halaman beatmap dan skor dari beatmap yang telah dipilih.
+- Tekan 2 atau klik "Beatmap Topic (Topik Beatmap)" dan browser internetmu akan mencoba untuk menampilkan thread forum dari beatmap yang telah dipilih.
+- Tekan 3 atau klik "Quick Reply (Balas Langsung)" dan browser internetmu akan mencoba untuk membuka halaman di mana Anda dapat menulis balasan ke thread forum dari beatmap yang telah dipilih.
+- Tekan 4 atau Esc atau klik "Cancel (Batal)" untuk kembali ke Layar Pemilihan Lagu.
 
 Sementara Anda berada di Layar Akses Cepat Web, kamu tidak dapat mengakses obrolan dan konsol obrolan yang diperluas.
 
@@ -168,11 +168,11 @@ Sementara Anda berada di Layar Akses Cepat Web, kamu tidak dapat mengakses obrol
 
 **Daftar lagu menampilkan semua beatmap yang telah kamu unduh**, dengan kemungkinan mempersempitnya bergantung pada pilihanmu di layar ini. Kotak dapat memiliki banyak warna yang berbeda:
 
--   Merah: Beatmap ini hanya memiliki satu versi kesulitan.
--   Merah Muda: Beatmap ini belum dimainkan sama sekali (pada Beatmap set dengan lebih dari satu versi tingkat kesulitan).
--   Oranye: Beatmap ini telah dimainkan (pada Beatmap set dengan lebih dari satu versi tingkat kesulitan).
--   Biru Cerah: Beatmap yang lain dalam set yang sama
--   Putih: Beatmap ini sedang dipilih.
+- Merah: Beatmap ini hanya memiliki satu versi kesulitan.
+- Merah Muda: Beatmap ini belum dimainkan sama sekali (pada Beatmap set dengan lebih dari satu versi tingkat kesulitan).
+- Oranye: Beatmap ini telah dimainkan (pada Beatmap set dengan lebih dari satu versi tingkat kesulitan).
+- Biru Cerah: Beatmap yang lain dalam set yang sama
+- Putih: Beatmap ini sedang dipilih.
 
 Kamu dapat menavigasikan daftar beatmap menggunakan \[1\]roda mouse, \[2\]atas dan bawah tombol panah, \[3\]drag sambil menekan tombol mouse kiri atau \[4\]mengklik tombol kanan mouse (sebelumnya dikenal sebagai Pengguliran Absolut) yang akan bergulir berdasarkan penempatan kursormu sebelum mengklik. Klik kotak untuk memilih beatmap itu dan menampilkan informasi pada bagian kiri atas, nilai yang tinggi (jika ada) di sebelah kiri dan, jika kamu telah membersihkannya, huruf tingkat nilai tertinggi yang telah kamu capai. \[1\]Klik kotak lagi, \[2\]tekan "Enter" atau \[3\]klik osu! logo di bagian kanan bawah untuk mulai bermain beatmap tersebut. Jika kotak memiliki warna lebih terang, itu berarti bahwa kamu belum bermain yang tingkat kesulitan beatmap itu.
 
@@ -200,12 +200,12 @@ klik tombol "Random Map (Map Acak)" atau tekan F2 untuk **memilih beatmap dari d
 
 Klik tombol "Beatmap Options" tombol atau tekan F3 atau klik kanan dari mouse untuk memanggil yang **Beatmap Pilihan Menu untuk pilihan pada Beatmap sedang dipilih**.
 
--   Tekan 1 atau klik tombol "Manage Collections (Atur Koleksi)" untuk menambahkan beatmap yang dipilih ke daftar koleksi. Kamu dapat menampilkan daftar dengan mengklik tab yang sesuai (lihat di atas).
--   Tekan 2 atau klik "Delete ... (Hapus ...)" untuk menghapus tingkat kesulitan yang sedang dipilih atau seluruh tingkat kesulitan beatmap dari hard drivemu. Kamu akan diminta sekali lagi sebelum beatmap benar-benar dihapus.
--   Tekan 3 atau klik "Remove from Unplayed (Hapus dari Belum Dimainkan)" untuk menandai beatmap yang belum dimainkan sebagai dimainkan.
--   Tekan 4 atau klik "Clear local scores (Hapus skor lokal)" untuk menghapus semua catatan skor yang telah kamu capai dalam Beatmap ini. Hanya daftar lokal skor tinggi akan dihapus; skor yang diperoleh dari permainanmu di beatmap ini tetap utuh.
--   Tekan 5 atau klik "Edit (Sunting)" untuk membuka beatmap dipilih dalam Penyunting osu!.
--   Tekan 6 atau Esc atau klik "Close (Tutup)" untuk kembali ke Layar Pemilihan Lagu.
+- Tekan 1 atau klik tombol "Manage Collections (Atur Koleksi)" untuk menambahkan beatmap yang dipilih ke daftar koleksi. Kamu dapat menampilkan daftar dengan mengklik tab yang sesuai (lihat di atas).
+- Tekan 2 atau klik "Delete ... (Hapus ...)" untuk menghapus tingkat kesulitan yang sedang dipilih atau seluruh tingkat kesulitan beatmap dari hard drivemu. Kamu akan diminta sekali lagi sebelum beatmap benar-benar dihapus.
+- Tekan 3 atau klik "Remove from Unplayed (Hapus dari Belum Dimainkan)" untuk menandai beatmap yang belum dimainkan sebagai dimainkan.
+- Tekan 4 atau klik "Clear local scores (Hapus skor lokal)" untuk menghapus semua catatan skor yang telah kamu capai dalam Beatmap ini. Hanya daftar lokal skor tinggi akan dihapus; skor yang diperoleh dari permainanmu di beatmap ini tetap utuh.
+- Tekan 5 atau klik "Edit (Sunting)" untuk membuka beatmap dipilih dalam Penyunting osu!.
+- Tekan 6 atau Esc atau klik "Close (Tutup)" untuk kembali ke Layar Pemilihan Lagu.
 
 Klik pada **user panelmu** untuk mengakses **Menu Opsi Pengguna**.
 

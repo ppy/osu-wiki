@@ -50,10 +50,10 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
 
 ## 링크
 
--   [Discussion thread](https://osu.ppy.sh/community/forums/topics/160181/start=0)
--   [osu! World Cup Livestream](https://www.twitch.tv/osulive)
--   [Statistics Sheet](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web#gid=17)
--   [Match Schedule (Quarter-finals)](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdC1QM0hZWndxT05YX3dLdTJTSXg2WXc&usp=drive_web#gid=0)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/160181/start=0)
+- [osu! World Cup Livestream](https://www.twitch.tv/osulive)
+- [Statistics Sheet](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web#gid=17)
+- [Match Schedule (Quarter-finals)](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdC1QM0hZWndxT05YX3dLdTJTSXg2WXc&usp=drive_web#gid=0)
 
 ------------------------------------------------------------------------
 
@@ -417,8 +417,8 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
 
 1.  osu! 월드컵은 국가대항 4대 4 토너먼트입니다.
 2.  각 라운드의 곡은 맵 선별위원이 경기 1주일 전에 발표 할 것이며, 이때 발표된 곡들만 대회에서 선곡이 가능합니다.
-    -   동점일 경우에는 타이브레이커 맵을 플레이합니다.
-    -   모드 선택에는 노모드, 히든, 하드락, 더블타임 그리고 프리모드의 총 5개의 카테고리가 있습니다.
+    - 동점일 경우에는 타이브레이커 맵을 플레이합니다.
+    - 모드 선택에는 노모드, 히든, 하드락, 더블타임 그리고 프리모드의 총 5개의 카테고리가 있습니다.
 
 3.  경기일정은 운영측에서 지정하게 됩니다.
 4.  만약 진행요원이나 심판이 아무도 없을 경우엔 경기가 미뤄집니다.
@@ -430,7 +430,7 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
 10. 게임 서버 상태가 매우 불안정하여 경기를 재개하기 힘든 경우엔 대회 관리자가 경기 일정을 미룰 수 있습니다.
 11. 한 팀의 선수들이 늦어 경기 시간에 4명이 다 모이지 않은 경우 경기는 최대 20분까지 연기될 수 있습니다.
 12. 경기 도중에 선수를 교체할 수 있습니다.
-    -   한 맵당 한 명만 교체 가능합니다.
+    - 한 맵당 한 명만 교체 가능합니다.
 
 13. 렉은 경기 무효화의 사유가 될 수 없습니다.
 14. 조별 예선에서 부전승은 4:0 승리, +2.5 의 점수 차율로 기록됩니다.
@@ -445,7 +445,7 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
 
 2.  각 팀은 그 나라를 대표하게 됩니다. 모든 선수들이 같은 나라의 선수들인지 확인해 주십시오.
 3.  참가신청은 [**구글폼**](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform) 을 통해 제출한 다음, [Loctav](https://osu.ppy.sh/home/messages/users/71366) 에게 “OWC Registration” 라는 제목으로 PM을 보내 재확인을 부탁하면 됩니다.
-    -   각 팀 주장은 선수 등록에 변동사항이 있을 경우 [운영위원](https://osu.ppy.sh/home/messages/users/71366)에게 알려주셔야 합니다.
+    - 각 팀 주장은 선수 등록에 변동사항이 있을 경우 [운영위원](https://osu.ppy.sh/home/messages/users/71366)에게 알려주셔야 합니다.
 
 4.  모든 등록과 변경은 운영위원들의 확인을 거쳐 반영될 것입니다.
 5.  총 32팀의 신청을 받습니다. 선착순입니다.
@@ -464,9 +464,9 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
 3.  각 조별 1위와 2위는 16강전에 진출하게 됩니다.
 4.  조별 예선 이후엔 매치에서 패배할 경우 자동 탈락됩니다.
 5.  **승리 조건:**
-    -   조별 예선은 7선 4승제입니다.
-    -   16강과 8강은 9선 5승제입니다.
-    -   준결승전 및 결승전은 11선 6승제입니다.
+    - 조별 예선은 7선 4승제입니다.
+    - 16강과 8강은 9선 5승제입니다.
+    - 준결승전 및 결승전은 11선 6승제입니다.
 
 ### 경기 관련
 
@@ -497,14 +497,14 @@ osu! 월드컵 2013은 [토너먼트 운영진](https://osu.ppy.sh/groups/26)이
 7.  프리모드맵의 경우 각 개인은 히든/하드락/플라를 걸거나 노모드로 플레이할 수도 있으며, 모드를 2개 이상 거는 것도 허용됩니다.
 8.  타이브레이커는 프리모드 형식으로 진행됩니다.
 9.  각 맵풀의 구성은 다음과 같습니다.
-    -   조별 예선: 노모드맵 10개, 각 모드별 3개
-    -   16강전 이후: 노모드맵 6개, 각 모드별 4개, 타이브레이커 1개
+    - 조별 예선: 노모드맵 10개, 각 모드별 3개
+    - 16강전 이후: 노모드맵 6개, 각 모드별 4개, 타이브레이커 1개
 
 ### 일정 관련
 
 1.  각 스테이지는 일주일동안 진행됩니다.
 2.  조별 예선은 첫 경기가 11월 8일(금), 두번째 경기가 11월 9일(토), 세번째 경기가 11월 10일(일)에 진행될 예정입니다.
-    -   사정에 따라 경기가 겹칠 수 있습니다.
+    - 사정에 따라 경기가 겹칠 수 있습니다.
 
 3.  16강전부터는 토요일/일요일에 경기가 진행됩니다.
 4.  경기 일정은 운영 위원들이 정합니다. 경기 일정은 경기 전주의 일요일(예시로 조별예선의 경우 11월 3일)에 발표됩니다. 운영위원은 각 선수의 시간대를 고려하여 일정을 준비 할 것입니다.

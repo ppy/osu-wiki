@@ -10,15 +10,15 @@ Merke: Die Osu!Mania Ranking Kriterien beinhalten die kürzlichen Änderungen [d
 
 ### Schwierigkeitsgrade
 
--   **EZ** = Einfach (Beginner/Easy/Basic)
--   **NM** = Normal (Light/Normal/Novice)
--   **HD** = Hard (Hyper/Advanced)
--   **MX** = Insane (Another/Exhaust)
--   **SC/SHD** = Extra (Black Another/Expert/Infinite/Gravity)
+- **EZ** = Einfach (Beginner/Easy/Basic)
+- **NM** = Normal (Light/Normal/Novice)
+- **HD** = Hard (Hyper/Advanced)
+- **MX** = Insane (Another/Exhaust)
+- **SC/SHD** = Extra (Black Another/Expert/Infinite/Gravity)
 
 ### Anderes
 
--   Column = 5K, 5 column. Die mittlere Column wird oft "Step-Column" oder auch "Spezial-Taste" genannt.
+- Column = 5K, 5 column. Die mittlere Column wird oft "Step-Column" oder auch "Spezial-Taste" genannt.
 
 ## Regeln
 
@@ -26,30 +26,30 @@ Die folgenden Regeln sind genau das: REGELN. Es sind keine Richtlinien und sollt
 
 ### Allgemeines
 
--   **osu!topus (AutoPlay) muss in allen Schwierigkeitsgraden die volle Punktzahl (1,000,000) erreichen können**.
--   **Es ist nicht erlaubt eine Column leer zu lassen**.
--   **Es ist nicht erlaubt mehr als 6 Tasten gleichzeitig auf einem Timing zu platzieren.**
+- **osu!topus (AutoPlay) muss in allen Schwierigkeitsgraden die volle Punktzahl (1,000,000) erreichen können**.
+- **Es ist nicht erlaubt eine Column leer zu lassen**.
+- **Es ist nicht erlaubt mehr als 6 Tasten gleichzeitig auf einem Timing zu platzieren.**
 
 Mit USB verbundene Tastaturen können mehr als 6 Tasten gleichzeitig nicht erkennen. Diese Regel wurde erstellt um den Spielspaß aller sicherzustellen *Das Ende eines Hold's ist davon nicht betroffen denn sie werden losgelassen, nicht gedrückt*
 
--   **Es ist nicht erlaubt zwei Noten auf der gleichen Column auf dem selben Timing zu platzieren. Es muss immer ein Abstand zur nächsten Note auf der gleichen Column bestehen.**
--   **Letterboxing muss ausgeschaltet sein.** Letterboxing wird in osu!mania nicht unterstützt und gehört deshalb ausgeschaltet.
+- **Es ist nicht erlaubt zwei Noten auf der gleichen Column auf dem selben Timing zu platzieren. Es muss immer ein Abstand zur nächsten Note auf der gleichen Column bestehen.**
+- **Letterboxing muss ausgeschaltet sein.** Letterboxing wird in osu!mania nicht unterstützt und gehört deshalb ausgeschaltet.
 
 ### Difficulty Spread
 
--   **Jede Beatmap braucht mindestens 2 Schwierigkeitsgrade. Davon muss eine mindestens Easy/Normal sein. Marathons sind davon nicht betroffen**
--   **Schwierigkeitsgrade mit verschiedener zu spielender Tastenzahl müssen als unabhängiger Modus behandelt werden und benötigen jeweils einen eigenen voll Spread.** Deswegen benötigt JEDE Tastenzahl einen eigenen Spread. Als Beispiel: Wenn du 7K Maps in deine Beatmap einfügst brauchst du einen ordentlichen und vollen 7K Spread. Das gleiche gilt für alle anderen Tastenzahlen
+- **Jede Beatmap braucht mindestens 2 Schwierigkeitsgrade. Davon muss eine mindestens Easy/Normal sein. Marathons sind davon nicht betroffen**
+- **Schwierigkeitsgrade mit verschiedener zu spielender Tastenzahl müssen als unabhängiger Modus behandelt werden und benötigen jeweils einen eigenen voll Spread.** Deswegen benötigt JEDE Tastenzahl einen eigenen Spread. Als Beispiel: Wenn du 7K Maps in deine Beatmap einfügst brauchst du einen ordentlichen und vollen 7K Spread. Das gleiche gilt für alle anderen Tastenzahlen
 
 ### Timing
 
--   **Es ist nicht erlaubt Rote Timing Points zu benutzen wenn sich die BPM im Lied nicht ändert.** In anderen Worten: Es ist nicht erlaubt die Fallgeschwindigkeit der Noten mit einem Roten Timing Point zu verändert. Benutzt dafür die Grünen Inherited Timing Points.
+- **Es ist nicht erlaubt Rote Timing Points zu benutzen wenn sich die BPM im Lied nicht ändert.** In anderen Worten: Es ist nicht erlaubt die Fallgeschwindigkeit der Noten mit einem Roten Timing Point zu verändert. Benutzt dafür die Grünen Inherited Timing Points.
 
 ## Richtlinien
 
 Richtlinien sind wichtig und sollten für alle Beatmaps möglichst befolgt werden. Sie sind keine Regeln und dürfen unter gewissen Umständen missachtet werden. Wenn du vor hast eine dieser Richtlinien zu brechen frage dich erst selbst: Macht das nicht befolgen irgendeinen Sinn? Macht die Map durch das nicht befolgen der Richtlinie mehr Spaß? Wenn die Antwort auf beide fragen Ja lautet ist es in Ordnung die Richtlinien nicht zu beachten.
 
--   Die **Life Drain** rate sollte mindestens bei **7** oder höher liegen um die gleiche HP wie bei IIDX zu erreichen.
--   **Overall Difficulty** sollte wie folgt aussehen:
+- Die **Life Drain** rate sollte mindestens bei **7** oder höher liegen um die gleiche HP wie bei IIDX zu erreichen.
+- **Overall Difficulty** sollte wie folgt aussehen:
 
 **9-10** bei Benutzung vieler einfachen Noten mit wenig Holds.
 
@@ -57,10 +57,10 @@ Richtlinien sind wichtig und sollten für alle Beatmaps möglichst befolgt werde
 
 **5-6** bei überwiegend vielen Holds.
 
--   **Benutzt Pausen nur wenn sie notwendig sind.** Als Beispiel: Bei absoluter stille im Lied.
--   **Dein Mapset sollte mindestens 2 verschiedene Tastenzahlen beinhalten.** Dies wird empfohlen um mehr Spieler auf dein Set aufmerksam zu machen.
--   **Das benutzen von SV changes ist nur erlaubt bei signifikanten Änderung in der Musik.** Als Beispiel: Die Musik wird stiller/langsamer/ruhiger. Wie stark die SVs geändert werden darf der Mapper selber bestimmen
--   **Verschiedene Tastenzahlen in einem Mapset sollten ein ähnlichen Spread besitzen.** Dies ist um sicher zu stellen das jede Tastenzahl den gleichen Spielspaß bietet.
+- **Benutzt Pausen nur wenn sie notwendig sind.** Als Beispiel: Bei absoluter stille im Lied.
+- **Dein Mapset sollte mindestens 2 verschiedene Tastenzahlen beinhalten.** Dies wird empfohlen um mehr Spieler auf dein Set aufmerksam zu machen.
+- **Das benutzen von SV changes ist nur erlaubt bei signifikanten Änderung in der Musik.** Als Beispiel: Die Musik wird stiller/langsamer/ruhiger. Wie stark die SVs geändert werden darf der Mapper selber bestimmen
+- **Verschiedene Tastenzahlen in einem Mapset sollten ein ähnlichen Spread besitzen.** Dies ist um sicher zu stellen das jede Tastenzahl den gleichen Spielspaß bietet.
 
 ## xK Referenz
 

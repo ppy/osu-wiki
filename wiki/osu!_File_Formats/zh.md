@@ -31,8 +31,8 @@
 
 **所需软件：**
 
--   文件压缩软件 (WinRAR, 7-zip)
--   osu! (为了测试和显示 osu! 图标的目的)
+- 文件压缩软件 (WinRAR, 7-zip)
+- osu! (为了测试和显示 osu! 图标的目的)
 
 **流程：**
 
@@ -52,14 +52,14 @@
 
 **图例：** (感谢 [MLGnom's](https://osu.ppy.sh/users/46620) [Skinning tutorial](https://osu.ppy.sh/community/forums/topics/51694))
 
--   [WinRAR](https://puu.sh/1MBV)
--   [7-zip](https://puu.sh/1MBW)
+- [WinRAR](https://puu.sh/1MBV)
+- [7-zip](https://puu.sh/1MBW)
 
 ### 在游戏中创建
 
 **所需软件：**
 
--   osu! (并不需要其它软件，因为游戏本身就可以产生 .osz/.osk 文件)
+- osu! (并不需要其它软件，因为游戏本身就可以产生 .osz/.osk 文件)
 
 **流程：**
 

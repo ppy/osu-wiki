@@ -13,13 +13,13 @@
 
 ## 一些经典的故事板谱面
 
--   [Code Red - 18 Mne Uzhe (Dan Winter Radio Edit) (jericho2442)](https://osu.ppy.sh/beatmapsets/28926)
--   [HTT - NO, Thank You! (S i R i R u)](https://osu.ppy.sh/beatmapsets/18841)
--   [IOSYS - The Lovely, Freezing, Tomboyish Bath, Cirno's Hot Spring (Mafiamaster)](https://osu.ppy.sh/beatmapsets/27107)
--   [kors k vs. L.E.D. - SOLID STATE SQUAD (yeahyeahyeahhh vs. La Cataline)](https://osu.ppy.sh/beatmapsets/27148)
--   [The O.C. Supertones - I Can Be Your Friend (K2J)](https://osu.ppy.sh/beatmapsets/10559)
--   [Perfume - Baby Cruising Love (peppy)](https://osu.ppy.sh/beatmapsets/8023)
--   [Queen - Don't Stop Me Now (m980)](https://osu.ppy.sh/beatmapsets/5381)
+- [Code Red - 18 Mne Uzhe (Dan Winter Radio Edit) (jericho2442)](https://osu.ppy.sh/beatmapsets/28926)
+- [HTT - NO, Thank You! (S i R i R u)](https://osu.ppy.sh/beatmapsets/18841)
+- [IOSYS - The Lovely, Freezing, Tomboyish Bath, Cirno's Hot Spring (Mafiamaster)](https://osu.ppy.sh/beatmapsets/27107)
+- [kors k vs. L.E.D. - SOLID STATE SQUAD (yeahyeahyeahhh vs. La Cataline)](https://osu.ppy.sh/beatmapsets/27148)
+- [The O.C. Supertones - I Can Be Your Friend (K2J)](https://osu.ppy.sh/beatmapsets/10559)
+- [Perfume - Baby Cruising Love (peppy)](https://osu.ppy.sh/beatmapsets/8023)
+- [Queen - Don't Stop Me Now (m980)](https://osu.ppy.sh/beatmapsets/5381)
 
 ## 故事板操作命令
 

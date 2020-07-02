@@ -382,7 +382,7 @@ La coupe du monde osu!mania 2017 est organisée par divers membres de la communa
    - Vainqueur de la revanche.
 
 4. Les deux meilleurs équipes de chaque groupe passeront aux éliminations directes.
-   -  Cela peut changer avec la configuration des phases de poules.
+   - Cela peut changer avec la configuration des phases de poules.
 
 5. L'étape qui suit est une phase à double élimination. Cela veut dire que le gagnant passe à la prochaine étape et que l'équipe perdante passe au tableau des perdants.
 6. En se basant sur [cette image](https://puu.sh/bUq5V/f1066103b0.png), les phases sont divisées comme suivant :

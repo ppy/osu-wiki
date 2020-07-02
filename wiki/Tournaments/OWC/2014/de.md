@@ -54,11 +54,11 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 
 ## Links
 
--   [osu! World Cup 2014 auf Twitch](https://www.twitch.tv/osulive/)
--   [Registrierungformular](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
--   [Diskussionsthread](https://osu.ppy.sh/community/forums/posts/3410198)
--   [Mappool Diskussionsthread](https://osu.ppy.sh/community/forums/topics/255369/)
--   **[Statistik zur Gruppenphase](https://owc.nicarim.pw/results/view/3)**
+- [osu! World Cup 2014 auf Twitch](https://www.twitch.tv/osulive/)
+- [Registrierungformular](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
+- [Diskussionsthread](https://osu.ppy.sh/community/forums/posts/3410198)
+- [Mappool Diskussionsthread](https://osu.ppy.sh/community/forums/topics/255369/)
+- **[Statistik zur Gruppenphase](https://owc.nicarim.pw/results/view/3)**
 
 ------------------------------------------------------------------------
 
@@ -429,12 +429,12 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 
 1.  Das osu! World Cup ist ein länderbezogenes 4 gegen 4 Team Turnier
 2.  Die Beatmaps werden vom Map Wähler für jede Runde im Vorhinein am Sonntag angekündigt, bevor die eigentliche Partie stattfindet. Nur diese werden dann während den eigentlichen Partien zur Verfügung stehen.
-    -   Eine Beatmap wird als Tiebreaker-Map mit angegeben. Diese Beatmap wird nur beim größtmöglichem Punktegleichstand gespielt.
+    - Eine Beatmap wird als Tiebreaker-Map mit angegeben. Diese Beatmap wird nur beim größtmöglichem Punktegleichstand gespielt.
 
 3.  Die Zeiten der Partien werden vom Turnier Management festgelegt (siehe unten).
 4.  Wenn kein Schiedrichter oder Personal vorhanden sein sollte, wird die Partie verschoben.
 5.  Die Ergebnisse von gescheiterten Spielern wird nicht zum Teamergebnis mit angerechnet.
-    -   Das Überleben und Wiederbeleben während einer Map wird als Bestehen betrachtet.
+    - Das Überleben und Wiederbeleben während einer Map wird als Bestehen betrachtet.
 
 6.  Das Benutzen der [visuellen Einstellungen](/wiki/Game_Modifiers) ist erlaubt.
 7.  Wenn es bei einer Beatmap zum Unentschieden kommen sollte, wird das Ergebnis als nichtig erklärt.
@@ -442,7 +442,7 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 9.  Beatmaps können nicht mehrmals in einer Partie gespielt werden, es sei denn, das vorherige Ergebnis derselben Beatmap war nichtig.
 10. Wenn weniger als 4 Spieler eines Teams anwesend sind, kann die Partie um maximal 10 Minuten verschoben werden.
 11. Das Austauschen von Spielern während der Partie ist erlaubt.
-    -   Sie können einen Spieler pro Beatmap austauschen.
+    - Sie können einen Spieler pro Beatmap austauschen.
 
 12. Lag ist kein gültiger Grund, um das Ergebnis einer Beatmap zu nichtigen.
 13. In der Gruppenphase wird das 'Win by default' (zu deutsch 'kampflos gewonnen') als ein Sieg bei 4:0 und +2.5 Score Difference Ratio.
@@ -458,8 +458,8 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 
 2.  Jedes Team representiert eine Nation. Sie müssen ein Team zusammenstellen mit Spieler aus demselben Land und daher dieselbe Flagge im Profil haben.
 3.  Für die Teamanmeldungen [müssen Sie dieses Formular ausfüllen](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). Danach verifizieren Sie Ihre Registrierung, in dem Sie [eine persönliche Nachricht an Loctav schicken](https://osu.ppy.sh/home/messages/users/71366) mit dem Titel “OWC Registration”.
-    -   Kapitäne können ihre Aufstellung durch [das Benachrichtigen ans Management](https://osu.ppy.sh/home/messages/users/71366) ändern.
-    -   Sie bekommen eine Bestätigungsantwort, welches Ihnen mitteilen soll, dass Ihre Anmeldung erfolgreich angekommen ist. Die Registrierung ist dann in Bearbeitung.
+    - Kapitäne können ihre Aufstellung durch [das Benachrichtigen ans Management](https://osu.ppy.sh/home/messages/users/71366) ändern.
+    - Sie bekommen eine Bestätigungsantwort, welches Ihnen mitteilen soll, dass Ihre Anmeldung erfolgreich angekommen ist. Die Registrierung ist dann in Bearbeitung.
 
 4.  Um gültige und ernsthafte Registrierungen zu gewährleisten, wird jede Registrierung und Änderung vom Turnier Management geprüft.
     1.  Das Turnier Management kann Ihre Registrierung aufgrund von unzureichender Gameplay Fähigkeiten ablehnen.
@@ -467,7 +467,7 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 
 5.  Die maximale Anzahl an Teams liegt bei 32.
 6.  Alle erfolgreichen Registrierungen der Teams wird nach der Registrierungsphase veröffentlicht.
-    -   Kapitäne werden im Falle einer Akzeptierung oder Ablehnung benachrichtigt.
+    - Kapitäne werden im Falle einer Akzeptierung oder Ablehnung benachrichtigt.
 
 7.  Map Wähler dürfen nicht am Turnier als Spieler teilnehmen.
 
@@ -495,9 +495,9 @@ Dieses Turnier ist vorüber mit folgendem Ergebnis:
 | Finale - Woche 2 | P, Q |
 
 1.  **Bedingungen, um zu gewinnen:**
-    -   In der Gruppenphase benötigen Sie 4 gewonnene Maps, um die Partie zu gewinnen. (Best-of-7)
-    -   Im Achtel- und Viertelfinale benötigen Sie 5 gewonnene Maps, um die Partie zu gewinnen. (Best-of-9)
-    -   Im Halbfinale und im Finale benötigen 6 gewonnene Maps, um die Partie zu gewinnen. (Best-of-11)
+    - In der Gruppenphase benötigen Sie 4 gewonnene Maps, um die Partie zu gewinnen. (Best-of-7)
+    - Im Achtel- und Viertelfinale benötigen Sie 5 gewonnene Maps, um die Partie zu gewinnen. (Best-of-9)
+    - Im Halbfinale und im Finale benötigen 6 gewonnene Maps, um die Partie zu gewinnen. (Best-of-11)
 
 ### Partieanweisungen
 

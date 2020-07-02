@@ -46,8 +46,8 @@ Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taik
 
 ## Links
 
--   [Diskussionsthread](https://osu.ppy.sh/community/forums/topics/279723)
--   [osu! Taiko World Cup 2015 auf Twitch](https://www.twitch.tv/osulive/)
+- [Diskussionsthread](https://osu.ppy.sh/community/forums/topics/279723)
+- [osu! Taiko World Cup 2015 auf Twitch](https://www.twitch.tv/osulive/)
 
 ------------------------------------------------------------------------
 
@@ -57,8 +57,8 @@ Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taik
 
 1.  Das osu! Taiko World Cup ist ein länderbezogenes Turnier.
 2.  Die Beatmaps werden vom Map Wähler für jede Runde im Vorhinein am Sonntag angekündigt, bevor die eigentliche Partie stattfindet. Nur diese werden dann während den eigentlichen Partien zur Verfügung stehen.
-    -   Eine Beatmap wird als Tiebreaker-Map mit angegeben. Diese Beatmap wird nur beim größtmöglichem Punktegleichstand gespielt.
-    -   Es wird auch ein [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) und FreeMod Bracket geben.
+    - Eine Beatmap wird als Tiebreaker-Map mit angegeben. Diese Beatmap wird nur beim größtmöglichem Punktegleichstand gespielt.
+    - Es wird auch ein [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) und FreeMod Bracket geben.
 
 3.  Die Zeiten der Partien werden vom Turnier Management festgelegt (siehe unten).
 4.  Wenn kein Schiedsrichter oder Personal vorhanden sein sollte, wird die Partie verschoben.
@@ -125,9 +125,9 @@ Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taik
 | Finale - Woche 2 | P, Q |
 
 1.  **Gewinnbedingungen:**
-    -   In der Gruppenphase benötigen Sie 4 gewonnene Maps, um die Partie zu gewinnen. (Best-of-7)
-    -   Im Achtel- und Viertelfinale benötigen Sie 5 gewonnene Maps, um die Partie zu gewinnen. (Best-of-9)
-    -   Im Halbfinale und im Finale benötigen 6 gewonnene Maps, um die Partie zu gewinnen. (Best-of-11)
+    - In der Gruppenphase benötigen Sie 4 gewonnene Maps, um die Partie zu gewinnen. (Best-of-7)
+    - Im Achtel- und Viertelfinale benötigen Sie 5 gewonnene Maps, um die Partie zu gewinnen. (Best-of-9)
+    - Im Halbfinale und im Finale benötigen 6 gewonnene Maps, um die Partie zu gewinnen. (Best-of-11)
 
 ### Partieanweisungen
 

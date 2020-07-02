@@ -31,8 +31,8 @@ Plik .osz/.osk to rozszerzenie pliku dopasowane specjalnie dla osu!.exe. Po otwo
 
 **Potrzebne oprogramowanie:**
 
--   Archiwizer plików (WinRAR, 7zip)
--   osu! (na potrzebę testowania)
+- Archiwizer plików (WinRAR, 7zip)
+- osu! (na potrzebę testowania)
 
 **Procedura**
 
@@ -53,15 +53,15 @@ Plik .osz/.osk to rozszerzenie pliku dopasowane specjalnie dla osu!.exe. Po otwo
 
 **Obrazkowe przykłady** (podziękowania dla [Poradnika Skinowania](https://osu.ppy.sh/community/forums/topics/51694) [MLGnoma](https://osu.ppy.sh/users/46620))
 
--   [WinRAR](https://puu.sh/1MBV)
--   [7-zip](https://puu.sh/1MBW)
-    -   Dla beatmap, użyj rozszerzenia .osz.
+- [WinRAR](https://puu.sh/1MBV)
+- [7-zip](https://puu.sh/1MBW)
+  - Dla beatmap, użyj rozszerzenia .osz.
 
 ### Za pomocą gry
 
 **Potrzebne oprogramowanie:**
 
--   osu! (i nic więcej, gdyż tylko to jest potrzebne do zrobienia pliku .osz/.osk)
+- osu! (i nic więcej, gdyż tylko to jest potrzebne do zrobienia pliku .osz/.osk)
 
 **Procedura**
 

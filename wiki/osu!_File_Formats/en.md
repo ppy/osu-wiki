@@ -31,8 +31,8 @@
 
 **Software needed:*
 
--   File archiver (WinRAR, 7zip)
--   osu! (For testing purpose and osu! icon)
+- File archiver (WinRAR, 7zip)
+- osu! (For testing purpose and osu! icon)
 
 **Procedure**
 
@@ -53,15 +53,15 @@
 
 **Picture examples** (credit to [MLGnom's](https://osu.ppy.sh/users/46620) [Skinning tutorial](https://osu.ppy.sh/community/forums/topics/51694))
 
--   [WinRAR](https://puu.sh/1MBV)
--   [7-zip](https://puu.sh/1MBW)
-    -   For beatmap, use .osz extension.
+- [WinRAR](https://puu.sh/1MBV)
+- [7-zip](https://puu.sh/1MBW)
+  - For beatmap, use .osz extension.
 
 ### From the game
 
 **Software needed:*
 
--   osu! (and nothing else, since the game can make .osz/.osk files)
+- osu! (and nothing else, since the game can make .osz/.osk files)
 
 **Procedure**
 

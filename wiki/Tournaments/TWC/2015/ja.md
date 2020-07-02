@@ -84,8 +84,8 @@ outdated: true
 
 ## リンク
 
--   [Discussion thread](https://osu.ppy.sh/community/forums/topics/279723)
--   [osu! Taiko World Cup 2015 on Twitch](https://www.twitch.tv/osulive/)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/279723)
+- [osu! Taiko World Cup 2015 on Twitch](https://www.twitch.tv/osulive/)
 
 ------------------------------------------------------------------------
 
@@ -95,8 +95,8 @@ outdated: true
 
 1.  osu! Taiko World Cupは国別対抗トーナメントです。
 2.  それぞれのラウンドのビートマップはあらかじめ試合が行われる前の日曜日にビートマップ選択者によって告知されます。各試合においてこのビートマップだけが使用可能です。
-    -   1つは同点決勝ビートマップです。これは引き分けの場合のみプレイされます。
-    -   [Hidden](/wiki/Game_Modifiers)、 [HardRock](/wiki/Game_Modifiers)、 [DoubleTime](/wiki/Game_Modifiers)、そして自由Mod枠のビートマップもあります。
+    - 1つは同点決勝ビートマップです。これは引き分けの場合のみプレイされます。
+    - [Hidden](/wiki/Game_Modifiers)、 [HardRock](/wiki/Game_Modifiers)、 [DoubleTime](/wiki/Game_Modifiers)、そして自由Mod枠のビートマップもあります。
 
 3.  試合日程は大会運営者によって決定されます。（以下参照）
 4.  スタッフもしくは審判員の手があいていない場合、試合は延期されます。
@@ -163,9 +163,9 @@ outdated: true
 | 決勝 - Week 2 | P, Q |
 
 1.  **勝利条件:**
-    -   グループステージで勝利するには、4つのビートマップで勝利しなければいけません。(Best of 7)
-    -   決勝トーナメントそして準々決勝で勝利するには、5つのビートマップで勝利しなければいけません。(Best of 9)
-    -   準決勝そして決勝で勝利するには、6つのビートマップで勝利しなければいけません。(Best of 11)
+    - グループステージで勝利するには、4つのビートマップで勝利しなければいけません。(Best of 7)
+    - 決勝トーナメントそして準々決勝で勝利するには、5つのビートマップで勝利しなければいけません。(Best of 9)
+    - 準決勝そして決勝で勝利するには、6つのビートマップで勝利しなければいけません。(Best of 11)
 
 ### 試合の説明
 

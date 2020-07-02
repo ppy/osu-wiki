@@ -48,8 +48,8 @@ El país campeón del torneo anterior es **![][flag_JP] Japón**.
 
 ## Links
 
--   [Tema de Discusion (Solo en inglés)](https://osu.ppy.sh/community/forums/topics/279723)
--   [osu! Taiko World Cup 2015 en Twitch](https://www.twitch.tv/osulive/)
+- [Tema de Discusion (Solo en inglés)](https://osu.ppy.sh/community/forums/topics/279723)
+- [osu! Taiko World Cup 2015 en Twitch](https://www.twitch.tv/osulive/)
 
 ------------------------------------------------------------------------
 
@@ -59,8 +59,8 @@ El país campeón del torneo anterior es **![][flag_JP] Japón**.
 
 1.  El osu! Taiko World Cup está basado en equipos por países.
 2.  Los beatmaps de cada fase serán elegidos por el **Seleccionador de Beatmaps** cada domingo antes de que la ronda a continuación tome lugar y solo podrán ser usados durante las respectivas fases.
-    -   Un beatmap podrá ser usado como Desempate, solo en caso de que se presente un Empate.
-    -   En los beatmaps se usarán los mod [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) y FreeMod.
+    - Un beatmap podrá ser usado como Desempate, solo en caso de que se presente un Empate.
+    - En los beatmaps se usarán los mod [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) y FreeMod.
 
 3.  Los horarios para las partidas serán organizadas por el **Administradores del Torneo** (Ver arriba).
 4.  Sino hay Referis (staff) para alguna de las partidas, la misma podrá ser pospuesta).

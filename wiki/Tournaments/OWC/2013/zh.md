@@ -50,10 +50,10 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 
 ## 外部链接
 
--   [讨论帖（英文）](https://osu.ppy.sh/community/forums/topics/160181/start=0)
--   [讨论帖（中文）](https://osu.ppy.sh/community/forums/topics/160371)
--   [osu! World Cup直播录像](https://www.twitch.tv/osulive/profile/pastBroadcasts)
--   [分组信息、统计](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web)
+- [讨论帖（英文）](https://osu.ppy.sh/community/forums/topics/160181/start=0)
+- [讨论帖（中文）](https://osu.ppy.sh/community/forums/topics/160371)
+- [osu! World Cup直播录像](https://www.twitch.tv/osulive/profile/pastBroadcasts)
+- [分组信息、统计](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web)
 
 ------------------------------------------------------------------------
 
@@ -468,9 +468,9 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 4.  其中，小组赛中排名前二的队伍将进入淘汰赛阶段。
 5.  在淘汰赛阶段，获胜的队伍将会晋级并进入下一场比赛，没有获胜的队伍将会被淘汰。
 6.  **获胜条件：**
-    -   小组赛中，你需要在比赛中获得四张map的胜利。（7局4胜）
-    -   在1/8决赛（十六强）和1/4决赛（八强）中，你需要在比赛中获得五张map的胜利。（9局5胜）
-    -   在半决赛和决赛中，你需要在比赛中获得六张map的胜利。（11局6胜）
+    - 小组赛中，你需要在比赛中获得四张map的胜利。（7局4胜）
+    - 在1/8决赛（十六强）和1/4决赛（八强）中，你需要在比赛中获得五张map的胜利。（9局5胜）
+    - 在半决赛和决赛中，你需要在比赛中获得六张map的胜利。（11局6胜）
 
 ### 比赛说明
 
@@ -503,18 +503,18 @@ osu! 世界杯 2013 是一个由[osu! 比赛委员会](https://osu.ppy.sh/groups
 7.  FreeMod模式将会激活所有的mod，任何玩家都可以附加Hidden、HardRock以及Flashlight或者不使用任何mod。玩家可以选择多个mod。
 8.  决胜map将会是FreeMod模式。
 9.  NoMod模式的map数量：
-    -   小组赛：10张
-    -   淘汰赛：6张
+    - 小组赛：10张
+    - 淘汰赛：6张
 
 10. 带有mod的map数量：
-    -   小组赛：3张
-    -   淘汰赛：4张
+    - 小组赛：3张
+    - 淘汰赛：4张
 
 ### 日程安排说明
 
 1.  每个环节将会使用**一个周末**的时间进行。（根据上述的锦标赛日程）
 2.  在小组赛中，第一场比赛将会在星期五（11月8日）进行，第二场比赛在星期六（11月9日）进行，然后第三场比赛在星期日（11月10日）进行。
-    -   小组赛的时间安排可能会出现重叠
+    - 小组赛的时间安排可能会出现重叠
 
 3.  所有的淘汰赛将会在星期六或者星期日进行。（根据上述的锦标赛日程）
 4.  赛事将由赛事管理者进行调度。时间安排将会在第一场赛事前的一个星期日公布。（例如，在11月3日发布小组赛时间安排）赛事管理者将会尝试根据参赛者的所在时区来调整进行比赛的时间。

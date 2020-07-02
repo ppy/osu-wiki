@@ -31,8 +31,8 @@
 
 **Software yang dibutuhkan:*
 
--   File archiver (WinRAR, 7zip)
--   osu!
+- File archiver (WinRAR, 7zip)
+- osu!
 
 **Langkah - Langkah**
 
@@ -53,15 +53,15 @@
 
 **Picture examples** (credit untuk [MLGnom's](https://osu.ppy.sh/users/46620) [Skinning tutorial](https://osu.ppy.sh/community/forums/topics/51694))
 
--   [WinRAR](http://www.rarlab.com/download.htm)
--   [7-zip](http://www.7-zip.org)
-    -   Untuk beatmap, gunakan format .osz.
+- [WinRAR](http://www.rarlab.com/download.htm)
+- [7-zip](http://www.7-zip.org)
+  - Untuk beatmap, gunakan format .osz.
 
 ### Membuat file di game
 
 **Software yang dibutuhkan:*
 
--   osu!
+- osu!
 
 **Langkah - Langkah**
 

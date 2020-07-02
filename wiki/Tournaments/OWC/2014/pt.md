@@ -43,11 +43,11 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
 
 ## Links
 
--   [osu! World Cup 2014 on Twitch](https://www.twitch.tv/osulive/)
--   [Registration Form](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
--   [Discussion Thread](https://osu.ppy.sh/community/forums/posts/3410198)
--   [Mappool Discussion](https://osu.ppy.sh/community/forums/topics/255369/)
--   **[Group Stage Statistics](https://owc.nicarim.pw/results/view/3)**
+- [osu! World Cup 2014 on Twitch](https://www.twitch.tv/osulive/)
+- [Registration Form](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng)
+- [Discussion Thread](https://osu.ppy.sh/community/forums/posts/3410198)
+- [Mappool Discussion](https://osu.ppy.sh/community/forums/topics/255369/)
+- **[Group Stage Statistics](https://owc.nicarim.pw/results/view/3)**
 
 ------------------------------------------------------------------------
 
@@ -261,8 +261,8 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
 
 1.  A Copa do Mundo do osu! é um torneio com confrontos 4 vs 4 jogadores, sendo um time de cada país.
 2.  Os beatmaps para cada rodada serão anunciados pelos selecionadores de Beatmaps com uma semana de antecedência. Apenas esses beatmaps poderão ser utilizados durante as suas respectivas partidas.
-    -   Um beatmap será usado como tiebreaker, que será apenas jogado em caso de empate.
-    -   Existirão subgrupos de mapas a serem jogados exclusivamente com [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) e FreeMod.
+    - Um beatmap será usado como tiebreaker, que será apenas jogado em caso de empate.
+    - Existirão subgrupos de mapas a serem jogados exclusivamente com [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) e FreeMod.
 
 3.  O agendamento das partidas será proposto pela Administração do Torneio (veja abaixo).
 4.  Se não houver nenhum membro da administração ou algum árbitro disponível no momento, a partida será remarcada.
@@ -271,11 +271,11 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
 7.  Em caso de empate na pontuação, o beatmap jogado será anulado.
 8.  Se um dos jogadores desconectar no meio da partida, o beatmap jogado será anulado. Isso poderá acontecer até duas vezes. Depois de duas tentativas, os jogadores que desconectarem serão tratados como se tivessem saído propositalmente, e sua pontuação não será contada.
 9.  Beatmaps não podem ser re-utilizados na mesma partida, a não ser que o beatmap tenha sido anulado por questões de falha na conexão.
-    -   Se o servidor estiver instável demais para a realização da partida, a Administração do Torneio remarcará a partida.
+    - Se o servidor estiver instável demais para a realização da partida, a Administração do Torneio remarcará a partida.
 
 10. Se menos de 4 jogadores de um time aparecerem na hora da partida, o tempo máximo de espera é de 20 minutos.
 11. A substituição de jogadores durante uma partida é permitida.
-    -   Só será possível substituir um jogador por beatmap.
+    - Só será possível substituir um jogador por beatmap.
 
 12. Lag não é um motivo para a anulação de um beatmap.
 13. Na fase de grupos, um 'WO' será considerado como uma vitória por 4 a 0, com uma razão de diferença de pontuação de +2.5.
@@ -290,7 +290,7 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
 
 2.  Cada equipe representa uma nação. Você deverá formar uma equipe com jogadores do mesmo país.
 3.  Para inscrição de equipes,[preencha este formulário](https://docs.google.com/forms/d/1v27B1GxpapUgsI9dtBF8xLceJCKzdpBY8dW6HzxzacI/viewform). Então, verifique sua inscrição [enviando uma PM para o Loctav](https://osu.ppy.sh/home/messages/users/71366) entitulada “OWC Registration”
-    -   Capitães podem mudar o esquema do time [avisando a Administração](https://osu.ppy.sh/home/messages/users/71366).
+    - Capitães podem mudar o esquema do time [avisando a Administração](https://osu.ppy.sh/home/messages/users/71366).
 
 4.  Qualquer inscrição de mudança será checada pela Administração do Torneio antes de ser aceita e adicionada à lista de participantes.
 5.  O número de equipes será de 32. Quem chegar primeiro, fica com a vaga.
@@ -310,9 +310,9 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
 4.  As duas equipes com a melhor performance de cada grupo serão classificadas para os mata-matas.
 5.  Os estágios seguintes serão mata-matas, ou seja, o vencedor se classifica para o próximo estágio, e o perdedor será eliminado do torneio.
 6.  **Condições de vitória:**
-    -   Na fase de grupos, você precisa vencer 4 beatmaps para ganhar uma partida. (Melhor de 7)
-    -   Nas oitavas e quartas de final, você precisa vencer 5 beatmaps para ganhar uma partida. (Melhor de 9)
-    -   Nas semi-finais e finais, você precisa vencer 6 mapas para ganhar uma partida. (Melhor de 11)
+    - Na fase de grupos, você precisa vencer 4 beatmaps para ganhar uma partida. (Melhor de 7)
+    - Nas oitavas e quartas de final, você precisa vencer 5 beatmaps para ganhar uma partida. (Melhor de 9)
+    - Nas semi-finais e finais, você precisa vencer 6 mapas para ganhar uma partida. (Melhor de 11)
 
 ### Instruções de Partida
 
@@ -343,18 +343,18 @@ A Copa do Mundo do osu! 2014 (em inglês, osu! World Cup 2014), também conhecid
 7.  O subgrupo FreeMod terá o FreeMod ativado. Cada jogador poderá escolher, individualmente: Hidden, HardRock, Flashlight, ou nenhum mod. Os jogadores poderão selecionar mais de um mod.
 8.  O tiebreaker será jogado sob condições de FreeMod.
 9.  O tamanho do subgrupo Nomod será de:
-    -   10 na Fase de Grupos
-    -   6 nos mata-matas
+    - 10 na Fase de Grupos
+    - 6 nos mata-matas
 
 10. O tamanho dos subgrupos de mods específicos serão de:
-    -   3 na Fase de Grupos
-    -   4 nos mata-matas
+    - 3 na Fase de Grupos
+    - 4 nos mata-matas
 
 ### Instruções de Agendamento
 
 1.  Cada estágio será realizado em **apenas um fim de semana** (dirija-se ao Calendário do Torneio, no topo, para mais informações)
 2.  Na Fase de Grupos, as primeiras partidas serão realizadas na sexta-feira (8 de Novembro), a segunda no sábado (9 de Novembro), e a terceira no domingo (10 de Novembro).
-    -   As partidas na Fase de Grupos de diferentes times poderão ser realizadas ao mesmo tempo.
+    - As partidas na Fase de Grupos de diferentes times poderão ser realizadas ao mesmo tempo.
 
 3.  Todas as partidas dos mata-matas serão realizadas ou no sábado, ou no domingo.
 4.  O agendamento será realizado pela Administração do Torneio. As programações serão publicadas no Domingo anterior às primeiras partidas da próxima fase. A administração do torneio tentará criar a programação de acordo com os fusos horários correspondentes a cada país.

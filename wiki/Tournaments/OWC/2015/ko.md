@@ -41,11 +41,11 @@
 
 ## 링크
 
--   [osu! World Cup 2015 트위치](https://www.twitch.tv/osulive/)
--   [논의 스레드](https://osu.ppy.sh/community/forums/posts/4550383)
--   [등록 페이지](https://osu.ppy.sh/tournaments/2)
--   [현재 단계의 결과](https://docs.google.com/spreadsheets/d/1fpsfKUQi6ue0SusciKctumDDje5SxUC5NQ908mO9Jpw/pubhtml)
--   **[그룹 스테이지 통계 개요(임시)](https://docs.google.com/spreadsheets/d/1QGI7BxI7fOMhXSdgYbFqPGCTUUwfSrsAiUhibWu4xUk/pubhtml)**
+- [osu! World Cup 2015 트위치](https://www.twitch.tv/osulive/)
+- [논의 스레드](https://osu.ppy.sh/community/forums/posts/4550383)
+- [등록 페이지](https://osu.ppy.sh/tournaments/2)
+- [현재 단계의 결과](https://docs.google.com/spreadsheets/d/1fpsfKUQi6ue0SusciKctumDDje5SxUC5NQ908mO9Jpw/pubhtml)
+- **[그룹 스테이지 통계 개요(임시)](https://docs.google.com/spreadsheets/d/1QGI7BxI7fOMhXSdgYbFqPGCTUUwfSrsAiUhibWu4xUk/pubhtml)**
 
 ------------------------------------------------------------------------
 
@@ -320,12 +320,12 @@
 1.  osu! World Cup은 국가 대항의 4:4 토너먼트입니다.
 2.  점수 계산 방식은 Score V2라고 불리는 새로운 방식을 기반으로 합니다. **[여기서 더 자세히 볼 수 있습니다!](https://osu.ppy.sh/community/forums/topics/375428)**
 3.  맵풀은 맵풀 선정자에 의해 경기가 있기 전 주의 일요일 이전에 발표됩니다. 이것들은 각각의 경기 중에 사용됩니다.
-    -   한 맵은 타이브레이커 맵으로서 주어집니다. 이 맵은 동점인 상황에만 플레이하게 됩니다.
+    - 한 맵은 타이브레이커 맵으로서 주어집니다. 이 맵은 동점인 상황에만 플레이하게 됩니다.
 
 4.  경기 일정은 Tournament Management에 의해 정해지게 됩니다. (아래를 참조).
 5.  만약 참여할 수 있는 스태프나 심판이 없다면, 경기가 지연될 수 있습니다.
 6.  페일한 플레이어의 점수는 그 플레이어의 팀의 점수에 포함되지 않습니다.
-    -   플레이 중에 부활한다면, 패스한 것으로 간주합니다.
+    - 플레이 중에 부활한다면, 패스한 것으로 간주합니다.
 
 7.  [Visual Settings](/wiki/Game_Modifiers) 를 선택하는 것이 허용됩니다.
 8.  무승부일 경우 그 게임은 무효가 됩니다.
@@ -346,11 +346,11 @@
 19. 그룹 스테이지에서는 4:0가 됨으로서 승리로 간주 됩니다. 점수 차이의 비율은 +1.0입니다.
 20. 예기치 않게 발생한 일에 대해서는 토너먼트 관리자에 의해 처리됩니다. 이것은 그들의 재량에 달려있으며, 그들의 판단에 따라 규칙이 관대하게 허용될 수 있다.
 21. 토너먼트 룰을 어길 경우의 처벌은 다음과 같다.
-    -   Exclusion of specific players for one map
-    -   Exclusion of specific players for an entire match
-    -   Declaring the match as Lost by Default
-    -   Disqualification from the entire tournament
-    -   Disqualification from the current and future official tournaments until appealed
+    - Exclusion of specific players for one map
+    - Exclusion of specific players for an entire match
+    - Declaring the match as Lost by Default
+    - Disqualification from the entire tournament
+    - Disqualification from the current and future official tournaments until appealed
 
 22. Any modification of these rules will be announced.
 
@@ -394,10 +394,10 @@
 | 결승 - Week 2 | P, Q |
 
 1.  **Winning Conditions:**
-    -   In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
-    -   In the Round of 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
-    -   In Semi-finals and Finals: Week 1, you need to win 6 maps to win a match. (Best-of-11)
-    -   In Finals: Week 2, you need to win 7 maps to win the match. (Best-of-13)
+    - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
+    - In the Round of 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
+    - In Semi-finals and Finals: Week 1, you need to win 6 maps to win a match. (Best-of-11)
+    - In Finals: Week 2, you need to win 7 maps to win the match. (Best-of-13)
 
 ### Match Instructions
 

@@ -44,8 +44,8 @@ outdated: true
 
 ## 相关鏈接
 
--   [讨论串](https://osu.ppy.sh/community/forums/topics/179127)
--   [直播 (Twitch)](https://www.twitch.tv/osulive/)
+- [讨论串](https://osu.ppy.sh/community/forums/topics/179127)
+- [直播 (Twitch)](https://www.twitch.tv/osulive/)
 
 ------------------------------------------------------------------------
 
@@ -55,8 +55,8 @@ outdated: true
 
 1.  osu! Taiko World Cup 2014 是以国家作队伍单位的三对三比赛。
 2.  每回合比赛的地图，都会于相应的比赛阶段开始前的星期天由 比赛地图选择者 公布。只有被公布的地图才可以在相应的比赛中被选择。
-    -   每回合的比赛地图中都会有一张决胜图，该图只有在平局的情况下才会被选择。
-    -   此外，比赛地图列表亦包含规定使用 [Hidden](/wiki/Game_Modifiers)、[HardRock](/wiki/Game_Modifiers)、[DoubleTime](/wiki/Game_Modifiers) 或 FreeMod 的比赛地图。
+    - 每回合的比赛地图中都会有一张决胜图，该图只有在平局的情况下才会被选择。
+    - 此外，比赛地图列表亦包含规定使用 [Hidden](/wiki/Game_Modifiers)、[HardRock](/wiki/Game_Modifiers)、[DoubleTime](/wiki/Game_Modifiers) 或 FreeMod 的比赛地图。
 
 3.  每回合比赛的时间编排都会由主办方决定。
 4.  若没有裁判或主办人员在场，比赛会被延期。
@@ -67,7 +67,7 @@ outdated: true
 9.  除非比赛结果被作废，每张比赛地图皆不可被重复选择。
 10. 若小于三名玩家加入比赛房间，比赛最多可被延迟十分钟。
 11. 在比赛期间，替换玩家是允许的。
-    -   每张比赛地图皆可替换一名玩家。
+    - 每张比赛地图皆可替换一名玩家。
 
 12. 電腦或网络的延遲并不是一个将赛果作废的有效理由。
 13. 在小组赛阶段，「默认胜利」是指得分 4:0 的胜利，以及 1.0 的得分差距比例。
@@ -84,13 +84,13 @@ outdated: true
 
 2.  Each team represents a nation. You must form a team with players from the same country.
 3.  For team sign ups, [fill out this form](https://docs.google.com/forms/d/1C58_JWKBVVUrJr5so9LBBsqp6LqZktJjGVSZ4pbRhEo/viewform). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “TWC Registration”
-    -   Captains may change their setup by [notifying the management](https://osu.ppy.sh/home/messages/users/71366).
-    -   You get a confirmation reply in case your registration successfully arrived. Your registration is in pending then.
+    - Captains may change their setup by [notifying the management](https://osu.ppy.sh/home/messages/users/71366).
+    - You get a confirmation reply in case your registration successfully arrived. Your registration is in pending then.
 
 4.  To ensure valid and serious registrations, any registration and change will be checked by the Tournament Management.
 5.  The total amount of teams is 32.
 6.  All successfully registered teams will be published after Registration Phase.
-    -   Captains will get notified in case their roster has been accepted or rejected.
+    - Captains will get notified in case their roster has been accepted or rejected.
 
 7.  Mapset selectors may not participate as a player in this tournament.
 
@@ -110,9 +110,9 @@ outdated: true
 4.  The top two teams of each group will move on to the Knock-Out Stages.
 5.  Following stages are Knock-Out Stages. This means that the winner moves to the next stage and the losing team gets kicked out of the tournament.
 6.  **Winning conditions:**
-    -   In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
-    -   In the Round of 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
-    -   In Semi-finals and Finals, you need to win 6 maps to win a match. (Best-of-11)
+    - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
+    - In the Round of 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
+    - In Semi-finals and Finals, you need to win 6 maps to win a match. (Best-of-11)
 
 ### 比赛方式
 
@@ -150,12 +150,12 @@ outdated: true
     1.  When playing the tiebreaker, no one must have a mode activated.
 
 9.  The size of the NoMod bracket will be:
-    -   10 in Group Stage
-    -   6 in Knock-Out Stages
+    - 10 in Group Stage
+    - 6 in Knock-Out Stages
 
 10. The size of the mod-specific brackets will be:
-    -   3 in Group Stage
-    -   4 in Knock-Out Stages
+    - 3 in Group Stage
+    - 4 in Knock-Out Stages
 
 ### 比赛时间编排
 

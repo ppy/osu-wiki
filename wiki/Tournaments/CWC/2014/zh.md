@@ -47,9 +47,9 @@ outdated: true
 
 ## 外部链接
 
--   [osu! Catch the Beat World Cup 2014 Twitch直播室](https://www.twitch.tv/osulive/)
--   [注册表单](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI)
--   [讨论帖](https://osu.ppy.sh/community/forums/topics/200185)
+- [osu! Catch the Beat World Cup 2014 Twitch直播室](https://www.twitch.tv/osulive/)
+- [注册表单](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI)
+- [讨论帖](https://osu.ppy.sh/community/forums/topics/200185)
 
 ------------------------------------------------------------------------
 
@@ -240,13 +240,13 @@ outdated: true
 
 1.  osu! Catch the Beat World 是**基于国家/地区之间的**3v3比赛。
 2.  每场比赛的比赛用图将会在比赛日之前的一个星期日公布。比赛中只能选择公布出来的图。
--   有一张图是专门用于决胜局。这张图只会在决胜局出现。
--   图有可能带有 [Hidden](/wiki/Game_Modifiers)、[HardRock](/wiki/Game_Modifiers)、[DoubleTime或者自由选择mod](/wiki/Game_Modifiers)。
+- 有一张图是专门用于决胜局。这张图只会在决胜局出现。
+- 图有可能带有 [Hidden](/wiki/Game_Modifiers)、[HardRock](/wiki/Game_Modifiers)、[DoubleTime或者自由选择mod](/wiki/Game_Modifiers)。
 
 3.  比赛日程将会由赛事管理小组公布（暂未公布）。
 4.  如果没有工作人员或者裁判在，比赛将会推迟。
 5.  如果有玩家中途游戏失败，失败的玩家的分数将不会计算分数。
--   如果在游戏失败后重新满血复活，分数将会重新计算。
+- 如果在游戏失败后重新满血复活，分数将会重新计算。
 
 6.  允许使用 [Visual Settings](/wiki/Game_Modifiers) 。
 7.  如果出现平局（所有人的分数一样），该局比赛无效。
@@ -254,7 +254,7 @@ outdated: true
 9.  除非比赛无效，比赛用图不会在该场比赛中再次使用。
 10. 如果有不到3名玩家，最多可以推迟10分钟开始比赛。
 11. 比赛中允许更换队员。
--   但是每一回合只能更换一名队员。
+    - 但是每一回合只能更换一名队员。
 
 12. 网络卡顿不能作为比赛无效的原因。
 13. 在小组赛中，“完胜”代表4:0获胜，在积分上再加1分。
@@ -269,22 +269,22 @@ outdated: true
 
 2.  每个队伍代表一个国家/地区。确保你的队员都来自同一个国家/地区。
 3.  如果需要注册，[请先填写这个表格](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI/edit)（英文），然后[向Loctav私信](https://osu.ppy.sh/home/messages/users/71366)，发送一个标题为“CWC Registration”的确认信息。
--   如果需要修改队员，请联系[Loctav](https://osu.ppy.sh/home/messages/users/71366).
--   在注册成功的时候，你会收到一个确认信息，以确认你的队员。
+    - 如果需要修改队员，请联系[Loctav](https://osu.ppy.sh/home/messages/users/71366).
+    - 在注册成功的时候，你会收到一个确认信息，以确认你的队员。
 
 4.  为了确保注册的队伍的准确性， 赛事管理会进行任何的改动检查。
 5.  最多有32支队伍。
--   根据注册队伍数量，可能会改变总队伍数。
+    - 根据注册队伍数量，可能会改变总队伍数。
 
 6.  成功注册的队伍将会在注册阶段结束之后公布出来。
--   不管注册成功与否，队长都会收到通知。
+    - 不管注册成功与否，队长都会收到通知。
 
 7.  负责选图的成员不能参加这次比赛。
 
 ### 比赛环节
 
 1.  在小组赛的时候，所有队伍将会随机分配到8个小组中，每组4个队伍。
--   当然，会根据总参赛队伍数进行更改。
+    - 当然，会根据总参赛队伍数进行更改。
 
 2.  任何一个队伍都会跟同小组中的其他三个队伍相遇。
 3.  队伍的将会根据以下条件进行排名，其中，权重按降序排列：
@@ -297,9 +297,9 @@ outdated: true
 4.  小组赛里排名前4的队伍将会晋级到淘汰赛
 5.  在淘汰赛的阶段，赢的一方将会晋级到下一场的比赛，而输的一方将会被淘汰。
 6.  **获胜条件:**
--   在小组赛中，有7局里有4局获胜。
--   在16强和8强赛中，9局里有5局获胜。
--   在半决赛和决赛中，11局里有6局获胜。
+    - 在小组赛中，有7局里有4局获胜。
+    - 在16强和8强赛中，9局里有5局获胜。
+    - 在半决赛和决赛中，11局里有6局获胜。
 
 ### 比赛说明
 
@@ -334,12 +334,12 @@ outdated: true
 1.  在玩决胜图时，每一个玩家都不必激活任何mod
 
 9.  NoMod模式的图的数量:
--   小组赛: 10张
--   淘汰赛: 6张
+    - 小组赛: 10张
+    - 淘汰赛: 6张
 
 10. 带有mod的图的数量:
--   小组赛: 3张
--   淘汰赛: 4张
+    - 小组赛: 3张
+    - 淘汰赛: 4张
 
 ### 赛程说明
 

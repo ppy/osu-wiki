@@ -46,9 +46,9 @@ The osu! Catch the Beat World Cup 2014 was run by various community members by d
 
 ## Links
 
--   [Discussion thread](https://osu.ppy.sh/community/forums/topics/200185)
--   [Livestream](https://www.twitch.tv/osulive/)
--   **[Statistics sheet](https://tournaments.hiroto.eu/results/view/1)**
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/200185)
+- [Livestream](https://www.twitch.tv/osulive/)
+- **[Statistics sheet](https://tournaments.hiroto.eu/results/view/1)**
 
 -----------------------
 

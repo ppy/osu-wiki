@@ -420,7 +420,7 @@ The osu! World Cup 2015 was run by various community members by distributing the
 16. All players and referees must to be treated with respect. Instructions of the referees and tournament management is to be followed. Decisions labeled as final are not to be objected.
 17. Disrupting the match by foul play, picking inappropriate warmup maps (see below), insulting and provoking other players or referees, delaying the match or other deliberate inappropriate misbehavior is strictly prohibited.
 18. The multiplayer chatrooms underlie the [osu! community rules](/wiki/Rules). All chat rules apply to the multiplayer chatrooms, too.
-    -  Breaking the chat rules results in a silence. Silenced players can not participate at multiplayer matches and must be exchanged for the time being.
+    - Breaking the chat rules results in a silence. Silenced players can not participate at multiplayer matches and must be exchanged for the time being.
 19. In Group stage, 'Win by default' will be considered as win by 4:0, +1.0 score difference ratio.
 20. Unexpected incidences are handled by the tournament management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
 21. Penalties for violating the tournament rules can be:
@@ -434,13 +434,13 @@ The osu! World Cup 2015 was run by various community members by distributing the
 ### Tournament Registration
 
 1.  Every user interested in joining their country's team signs up individually.
-    -  Tournament Management will create a list of potential candidates for a country's team.
-    -  Tournament Management declares one candidate to the captain of the country's team, albeit temporarily.
-    -  The declared captain can form their team from the candidate list of their country.
+    - Tournament Management will create a list of potential candidates for a country's team.
+    - Tournament Management declares one candidate to the captain of the country's team, albeit temporarily.
+    - The declared captain can form their team from the candidate list of their country.
 2.  To ensure valid and serious registrations, every registered user will be checked by the Tournament Management.
-    -  Every registered user will be assigned to their respective country's candidate list.
-    -  To be successfully accepted on the list, you have to ensure that your global osu! performace ranking is above \#5000.
-    -  To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
+    - Every registered user will be assigned to their respective country's candidate list.
+    - To be successfully accepted on the list, you have to ensure that your global osu! performace ranking is above \#5000.
+    - To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
 3.  All successfully formed teams will be published after the Registration Phase.
 4.  Rejected players may appeal this decision by contacting tournaments@ppy.sh.
 5.  Mapset selectors may not participate as a player in this tournament.
@@ -450,11 +450,11 @@ The osu! World Cup 2015 was run by various community members by distributing the
 1.  In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
 2.  All the teams from each group will face each other.
 3.  Rankings of each group are determined by sorting the results of each team's performance in the following priority:
-    -  Most matches won.
-    -  Have higher `{(the number of maps won) - (the number of maps defeated)}`.
-    -  Most maps won.
-    -  Have higher `∑{(total score difference) / (maximum score)}`.
-    -  Winner of the rematch.
+    - Most matches won.
+    - Have higher `{(the number of maps won) - (the number of maps defeated)}`.
+    - Most maps won.
+    - Have higher `∑{(total score difference) / (maximum score)}`.
+    - Winner of the rematch.
 4.  The top 2 teams of each group will move on to the Double Elimination Stages.
 5.  Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 6.  Based on [this image](/wiki/shared/stages-visual.png), the stages are splitted up the following:
@@ -476,33 +476,33 @@ The osu! World Cup 2015 was run by various community members by distributing the
 ### Match Instructions
 
 1.  A referee will create a multiplayer room 15 minutes in advance. Players will be gathered during this period.
-    -  Room settings are osu!, Team-Vs., Win Condition: 'Score V2'. Room name must be "OWC 2015: TeamBlue vs TeamRed" (**this may change at some later point**)
-    -  The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
+    - Room settings are osu!, Team-Vs., Win Condition: 'Score V2'. Room name must be "OWC 2015: TeamBlue vs TeamRed" (**this may change at some later point**)
+    - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
 2.  Players are free to select up to two warm-up beatmaps. Using beatmaps with questionable content is prohibited. This includes profanity, nudity, violence or other NSFW content in the visual elements or the song, regardless of its language.
 3.  Each captain can ban two beatmaps to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
-    -  Both vetos must always be used.
+    - Both vetos must always be used.
 4.  Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
 5.  Each captain must use "!roll" once in \#multiplayer.
-    -  The winner of the !roll starts picking the first beatmap of the match.
-    -  The loser of the !roll starts banning two beatmaps.
+    - The winner of the !roll starts picking the first beatmap of the match.
+    - The loser of the !roll starts banning two beatmaps.
 6.  Captains may pick freely from any bracket.
-    -  In case of a tie, the tiebreaker map must be played.
+    - In case of a tie, the tiebreaker map must be played.
 7.  Results will be published via Statistics site.
 
 ### Mappool Instructions
 
 1.  There will be 1 mappool for the Group Stage, 1 mappool for Round pf 16, 1 mappool for the Quarter-finals, 1 mappool for the Semi-finals and 1 mappool for the Finals.
-    -  Finals Week 1 & Finals Week 2 use the same mappool.
+    - Finals Week 1 & Finals Week 2 use the same mappool.
 2.  Each mappool consists of 5 bracket: NoMod, HardRock, Hidden, DoubleTime and FreeMod
 3.  Each mappool consists of 19 maps in total.
 4.  Each mappool has one tiebreaker.
 5.  The NoMod bracket will be played with no mods activated
 6.  The Hidden, HardRock and DoubleTime bracket will be played with the respective mods activated.
 7.  The FreeMod bracket will have FreeMod activated. Every individual player can pick Hidden, HardRock or no mod at all.
-    -  Players may select more than one mod.
-    -  When playing a FreeMod map, at least 2 players of each team must have minimum one mod activated.
+    - Players may select more than one mod.
+    - When playing a FreeMod map, at least 2 players of each team must have minimum one mod activated.
 8.  The tiebreaker will be played under FreeMod conditions.
-    -  When playing the tiebreaker, no one needs to have a mod activated.
+    - When playing the tiebreaker, no one needs to have a mod activated.
 9.  The size of the NoMod bracket will be 6 in all stages.
 10. The size of the mod-specific brackets will be 3 in all stages.
 
@@ -512,7 +512,7 @@ The osu! World Cup 2015 was run by various community members by distributing the
 2.  Matches in Group Stage may overlap.
 3.  All Double Elimination Stages will be held on either Saturday or Sunday, UTC+0.
 4.  Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage. Tournament Management will try to create the schedule to respect the participant's time zone.
-    -  In the stages Quarter-finals and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be unavailable in the following week. Wishes are tried to be followed, alas no promises can be made.
+    - In the stages Quarter-finals and higher: Please inform tournament management before Sunday, if you expect a specific time slot to be unavailable in the following week. Wishes are tried to be followed, alas no promises can be made.
 5.  Rescheduling after the release of the Schedule on the wiki can not be done in any circumstance.
 6.  Captains are responsible for their teams availability. The greater team size exists to ensure every team can provide at least four players for each match. If teams can not provide four players for a match, the match will be considered forfeited.
 

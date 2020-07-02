@@ -52,9 +52,9 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 
 ## Links
 
--   [Diskussionsthread](https://osu.ppy.sh/community/forums/topics/160181/start=0)
--   [osu! World Cup 2013 auf Twitch](https://www.twitch.tv/osulive/profile/pastBroadcasts)
--   [Statistik](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web#gid=17)
+- [Diskussionsthread](https://osu.ppy.sh/community/forums/topics/160181/start=0)
+- [osu! World Cup 2013 auf Twitch](https://www.twitch.tv/osulive/profile/pastBroadcasts)
+- [Statistik](https://docs.google.com/spreadsheet/ccc?key=0AsjrK0nkPsOfdGZmZ2VKZ05KV1pjdUE5VlpHYVlwZWc&usp=drive_web#gid=17)
 
 ------------------------------------------------------------------------
 
@@ -420,8 +420,8 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 
 1.  Das osu! World Cup ist ein länderbezogenes 4 gegen 4 Team Turnier.
 2.  Die Beatmaps werden vom Map Wähler für jede Runde im Vorhinein am Sonntag angekündigt, bevor die eigentliche Partie stattfindet. Nur diese werden dann während den eigentlichen Partien zur Verfügung stehen.
-    -   Eine Beatmap wird als Tiebreaker-Map mit angegeben. Diese Beatmap wird nur beim größtmöglichem Punktegleichstand gespielt.
-    -   Es wird auch einen [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) und FreeMod Stappel geben.
+    - Eine Beatmap wird als Tiebreaker-Map mit angegeben. Diese Beatmap wird nur beim größtmöglichem Punktegleichstand gespielt.
+    - Es wird auch einen [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) und FreeMod Stappel geben.
 
 3.  Die Zeiten der Partien werden vom Turnier Management festgelegt (siehe unten).
 4.  Wenn kein Schiedrichter oder Personal vorhanden sein sollte, wird die Partie verschoben.
@@ -430,11 +430,11 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 7.  Wenn es bei einer Beatmap zum Unentschieden kommen sollte, wird das Ergebnis als nichtig erklärt.
 8.  Wenn ein Spieler die Verbindung verlieren sollte, wird das Ergebnis als nichtig erklärt. Dies kann bis zu 2-mal passieren. Der Spieler, der die Verbindung zum 3. Mal verlieren sollte, wird so gehandhabt, als hätte er die Partie absichtlich verlassen.
 9.  Beatmaps können nicht mehrmals in einer Partie gespielt werden, es sei denn, das vorherige Ergebnis derselben Beatmap war nichtig.
-    -   Wenn die Server während der Partie instabil laufen sollten, wird das Turnier Management die Partie verschieben.
+    - Wenn die Server während der Partie instabil laufen sollten, wird das Turnier Management die Partie verschieben.
 
 10. Wenn weniger als 4 Spieler eines Teams anwesend sind, kann die Partie um maximal 10 Minuten verschoben werden.
 11. Das Austauschen von Spielern während der Partie ist erlaubt.
-    -   Sie können einen Spieler pro Beatmap austauschen.
+    - Sie können einen Spieler pro Beatmap austauschen.
 
 12. Lag ist kein gültiger Grund, um das Ergebnis einer Beatmap zu nichtigen.
 13. In der Gruppenphase wird das 'Win by default' (zu deutsch 'kampflos gewonnen') als ein Sieg bei 4:0 und +2.5 Score Difference Ratio.
@@ -449,7 +449,7 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 
 2.  Jedes Team representiert eine Nation. Sie müssen ein Team zusammenstellen mit Spieler aus demselben Land und daher dieselbe Flagge im Profil haben.
 3.  Für die Teamanmeldungen [müssen Sie dieses Formular ausfüllen](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). Danach verifizieren Sie Ihre Registrierung, in dem Sie [eine persönliche Nachricht an Loctav schicken](https://osu.ppy.sh/home/messages/users/71366) mit dem Titel “OWC Registration”.
-    -   Kapitäne können ihre Aufstellung durch [das Benachrichtigen ans Management](https://osu.ppy.sh/home/messages/users/71366) ändern.
+    - Kapitäne können ihre Aufstellung durch [das Benachrichtigen ans Management](https://osu.ppy.sh/home/messages/users/71366) ändern.
 
 4.  Jede Registrierung und Änderung wird vom Turnier Management überprüft, bevor sie akzeptiert und zur Liste der Teilnehmer hinzugefügt werden.
 5.  Die maximale Anzahl an Teams liegt bei 32.
@@ -469,9 +469,9 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 4.  Die besten 2 Teams in der Gruppe kommen in die K.-o.-Runde.
 5.  Die folgenden Runden sind K.-o.-Runde. Dies bedeutet, dass der Gewinner normal in die nächste Runde kommt und das andere Team aus dem Turnier ausscheidet.
 6.  **Bedingungen, um zu gewinnen:**
-    -   In der Gruppenphase benötigen Sie 4 gewonnene Maps, um die Partie zu gewinnen. (Best-of-7)
-    -   Im Achtel- und Viertelfinale benötigen Sie 5 gewonnene Maps, um die Partie zu gewinnen. (Best-of-9)
-    -   Im Halbfinale und im Finale benötigen 6 gewonnene Maps, um die Partie zu gewinnen. (Best-of-11)
+    - In der Gruppenphase benötigen Sie 4 gewonnene Maps, um die Partie zu gewinnen. (Best-of-7)
+    - Im Achtel- und Viertelfinale benötigen Sie 5 gewonnene Maps, um die Partie zu gewinnen. (Best-of-9)
+    - Im Halbfinale und im Finale benötigen 6 gewonnene Maps, um die Partie zu gewinnen. (Best-of-11)
 
 ### Partieanweisungen
 
@@ -503,17 +503,17 @@ Das Turnier kam zu einem Ende mit folgenden Platzierungen:
 7.  Der FreeMod Stappel schaltet den FreeMod frei. Jeder einzelne Spieler kann dann Hidden, HardRock, Flashlight oder mit gar keinen Mod spielen. Spieler dürfen mehr als einen Mod auswählen.
 8.  Die Tiebreaker Map wird mit denselben Bedingungen wie beim Freemod gespielt.
 9.  Die Größe der NoMod Stappel ist:
-    -   10 Beatmaps in der Gruppenphase
-    -   6 Beatmaps in der K.-o.-Runde
+    - 10 Beatmaps in der Gruppenphase
+    - 6 Beatmaps in der K.-o.-Runde
 
 10. Die Größe der mod-spezifischen Stappeln ist:
-    -   3 Beatmaps in der Gruppenphase
-    -   4 Beatmaps in der K.-o.-Runde
+    - 3 Beatmaps in der Gruppenphase
+    - 4 Beatmaps in der K.-o.-Runde
 
 ### Zeitplananweisungen
 
 1.  Jede Etappe wird **einzeln am Wochenende** abgehalten (siehe oben bei Turnierzeitplan).
-2.  -   Die Partien können sich in der Gruppenphase überlappen.
+2.  - Die Partien können sich in der Gruppenphase überlappen.
 
 3.  Alle K.-o.-Runden finden entweder am Samstag oder am Sonntag statt (siehe Turnierzeitplan).
 4.  Die Zeiten der Partien werden vom Turnier Management festgelegt. Die Termine werden am Sonntag angekündigt, bevor die eigentliche Etappe stattfindet. Das Turnier Management bemüht sich die Zeiten so gut wie möglich an den Zeitzonen der teilnehmenden Spieler anzupassen.

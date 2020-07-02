@@ -41,11 +41,11 @@
 
 ## 链接
 
--   [osu! World Cup 2015 在 Twitch 上的直播](https://www.twitch.tv/osulive/)
--   [讨论页](https://osu.ppy.sh/community/forums/posts/4550383)
--   [报名页](https://osu.ppy.sh/tournaments/2)
--   [当前比赛的结果](https://docs.google.com/spreadsheets/d/1fpsfKUQi6ue0SusciKctumDDje5SxUC5NQ908mO9Jpw/pubhtml)
--   **[小组赛结果 (temporary)](https://docs.google.com/spreadsheets/d/1QGI7BxI7fOMhXSdgYbFqPGCTUUwfSrsAiUhibWu4xUk/pubhtml)**
+- [osu! World Cup 2015 在 Twitch 上的直播](https://www.twitch.tv/osulive/)
+- [讨论页](https://osu.ppy.sh/community/forums/posts/4550383)
+- [报名页](https://osu.ppy.sh/tournaments/2)
+- [当前比赛的结果](https://docs.google.com/spreadsheets/d/1fpsfKUQi6ue0SusciKctumDDje5SxUC5NQ908mO9Jpw/pubhtml)
+- **[小组赛结果 (temporary)](https://docs.google.com/spreadsheets/d/1QGI7BxI7fOMhXSdgYbFqPGCTUUwfSrsAiUhibWu4xUk/pubhtml)**
 
 ------------------------------------------------------------------------
 
@@ -474,12 +474,12 @@
 1.  osu! World Cup 是一个基于国家的4v4比赛。
 2.  使用新的 **[Score V2](https://osu.ppy.sh/community/forums/topics/375428)** 计分。
 3.  The beatmaps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
-    -   One beatmap will be given as tiebreaker map. This beatmap will only be played in case of a tie.
+    - One beatmap will be given as tiebreaker map. This beatmap will only be played in case of a tie.
 
 4.  Match schedule will be settled by Tournament Management (see below).
 5.  If no staff or referee is available, the match will be postponed.
 6.  Failed player's score do not get added to the team score.
-    -   Reviving and surviving during a map gets considered as passing it.
+    - Reviving and surviving during a map gets considered as passing it.
 
 7.  Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
 8.  If the beatmap ends in a draw, the game will be nullified.
@@ -500,11 +500,11 @@
 19. In Group stage, 'Win by default' will be considered as win by 4:0, +1.0 score difference ratio.
 20. Unexpected incidences are handled by the tournament management. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
 21. Penalties for violating the tournament rules can be:
-    -   Exclusion of specific players for one map
-    -   Exclusion of specific players for an entire match
-    -   Declaring the match as Lost by Default
-    -   Disqualification from the entire tournament
-    -   Disqualification from the current and future official tournaments until appealed
+    - Exclusion of specific players for one map
+    - Exclusion of specific players for an entire match
+    - Declaring the match as Lost by Default
+    - Disqualification from the entire tournament
+    - Disqualification from the current and future official tournaments until appealed
 
 22. Any modification of these rules will be announced.
 
@@ -548,10 +548,10 @@
 | Finals - Week 2 | P, Q |
 
 1.  **Winning Conditions:**
-    -   In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
-    -   In the Round of 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
-    -   In Semi-finals and Finals: Week 1, you need to win 6 maps to win a match. (Best-of-11)
-    -   In Finals: Week 2, you need to win 7 maps to win the match. (Best-of-13)
+    - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
+    - In the Round of 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
+    - In Semi-finals and Finals: Week 1, you need to win 6 maps to win a match. (Best-of-11)
+    - In Finals: Week 2, you need to win 7 maps to win the match. (Best-of-13)
 
 ### Match Instructions
 

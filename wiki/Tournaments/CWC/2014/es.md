@@ -53,9 +53,9 @@ La competición ha concluido con el siguiente podio:
 
 ## Links
 
--   [osu! Catch the Beat World Cup 2014 en Twitch](https://www.twitch.tv/osulive/)
--   [Forma de registro](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI)
--   [Hilo de discusión (en inglés)](https://osu.ppy.sh/community/forums/topics/200185)
+- [osu! Catch the Beat World Cup 2014 en Twitch](https://www.twitch.tv/osulive/)
+- [Forma de registro](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI)
+- [Hilo de discusión (en inglés)](https://osu.ppy.sh/community/forums/topics/200185)
 
 ------------------------------------------------------------------------
 
@@ -388,13 +388,13 @@ La competición ha concluido con el siguiente podio:
 
 1.  La osu! Catch the Beat World Cup es un torneo por países en equipos de 3v3.
 2.  Los mapas de cada ronda serán anunciados por el selector de mapas con anticipación el domingo anterior a la fecha en la que los partidos tengan lugar. Solo esos mapas serán usados durante los respectivos partidos.
-    -   Un mapa será dado como desempate (o *tiebreaker*). Este mapa será jugado solo en caso de un empate.
-    -   Habrá también mapas para [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) y FreeMod.
+    - Un mapa será dado como desempate (o *tiebreaker*). Este mapa será jugado solo en caso de un empate.
+    - Habrá también mapas para [Hidden](/wiki/Game_Modifiers), [HardRock](/wiki/Game_Modifiers), [DoubleTime](/wiki/Game_Modifiers) y FreeMod.
 
 3.  El programa de partidos será establecido por la organización del torneo (ver abajo).
 4.  Si no hay un árbitro o miembro de la organización disponible, el partido será pospuesto.
 5.  El puntaje de jugadores que fallen un mapa no se agrega al puntaje total del equipo
-    -   Revivir y sobrevivir hasta el final se considera como pasarlo.
+    - Revivir y sobrevivir hasta el final se considera como pasarlo.
 
 6.  Está permitido el uso de [Visual Settings](/wiki/Game_Modifiers).
 7.  Si un mapa termina en empate, será anulado.
@@ -402,7 +402,7 @@ La competición ha concluido con el siguiente podio:
 9.  Los mapas no pueden ser re-usados en el mismo partido a menos que alguno haya sido anulado.
 10. Si menos de 3 jugadores se presentan, el tiempo máximo que un partido puede posponerse es de 10 minutos.
 11. Está permitido cambiar jugadores durante un partido.
-    -   Se puede cambiar solo un jugador por cada mapa.
+    - Se puede cambiar solo un jugador por cada mapa.
 
 12. El lag no es una razón válida para invalidar un mapa.
 13. En la fase de grupos, 'Victoria por default' será considerada como victoria por 4:0, +1.0 score difference ratio o SDR.
@@ -417,15 +417,15 @@ La competición ha concluido con el siguiente podio:
 
 2.  Cada equipo representa a un país. Tienes que formar un equipo con jugadores del mismo país.
 3.  Para inscribirse [llena esta forma](https://docs.google.com/forms/d/1pUvBL8XNhl2aEonFiG2zZ44Tu13g6Ngqky_e9h0QLMI/edit). Después, verifica tu registro [enviándole un PM a Loctav](https://osu.ppy.sh/home/messages/users/71366) títulado “CWC Registration”
-    -   Los capitanes pueden cambiar el equipo [notificando a la organización](https://osu.ppy.sh/home/messages/users/71366).
-    -   Recibirás una confirmación en caso de que tu registro haya sido enviado exitosamente. Tu registro queda pendiente entonces.
+    - Los capitanes pueden cambiar el equipo [notificando a la organización](https://osu.ppy.sh/home/messages/users/71366).
+    - Recibirás una confirmación en caso de que tu registro haya sido enviado exitosamente. Tu registro queda pendiente entonces.
 
 4.  Para asegurarse de que los registros son válidos y serios, cada uno será controlado por la organización del torneo.
 5.  La cantidad total de equipos es de 32.
-    -   Dependiendo en la cantidad de registros, el total de equipos podría cambiar.
+    - Dependiendo en la cantidad de registros, el total de equipos podría cambiar.
 
 6.  Todos los equipos registrados exitosamente serán publicados después de la fase de inscripción.
-    -   Los capitanes serán notificados en caso de que su equipo haya sido aceptado o rechazado.
+    - Los capitanes serán notificados en caso de que su equipo haya sido aceptado o rechazado.
 
 7.  Los selectores de mapas no pueden participar como jugadores en el torneo.
 
@@ -462,12 +462,12 @@ La competición ha concluido con el siguiente podio:
     1.  En el tiebreaker no es necesario usar mods.
 
 9.  Los mapas NoMod serán:
-    -   10 en la fase de grupos
-    -   6 en la fase de eliminación directa
+    - 10 en la fase de grupos
+    - 6 en la fase de eliminación directa
 
 10. Los mapas de mod específico serán:
-    -   3 en la fase de grupos
-    -   4 en la fase de eliminación directa
+    - 3 en la fase de grupos
+    - 4 en la fase de eliminación directa
 
 ### Calendario
 

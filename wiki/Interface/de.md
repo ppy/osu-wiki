@@ -12,17 +12,17 @@ outdated: true
 
 Das \[1\] osu! Logo pulsiert nach dem [BPM](/wiki/Beatmapping/Beats_per_minute) des Liedes, das gerade im Hauptmenü spielt. Wenn kein Lied abgespielt wird, pulsiert es in einer langsamen Rate. Die Tastenkombination steht in der Klammer
 
--   \[2\] Klicke auf Play (P) oder auf dem Logo, um zum 2. Einführungsbildschirm zu gelangen.
--   \[3\] Klicke auf Edit (E), um zur Songauswahl für den [Editor](/wiki/Beatmap_Editor) zu kommen.
--   \[4\] Klicke auf Options (O), um zu den Einstellungen zu gelangen.
--   \[5\] Klicke auf Exit (Esc), um osu! zu beenden.
--   \[6\] Ein zufälliger, nützlicher Tipp wird unterhalb des Menüs angezeigt.
--   \[7\] In der unteren linken Ecke ist ein Link zur osu! Webseite.
--   \[8\] Verbindungsergebnisse zum Bancho !
--   \[9\] In der unteren rechten Ecke sind die Steuerelemente für den [Chat](/wiki/Internet_Relay_Chat) (F8&F9).
--   \[10\] Oben rechts ist die osu! Jukebox, welches Lieder in zufälliger Reihenfolge abspielt.
--   \[11\] Oben mittig wird angezeigt, wie viele Maps man hat, wie lange osu! Schon läuft und die Uhrzeit.
--   \[12\] Oben links ist dein User-Panel, klick darauf, um dir die Benutzereinstellungen anzeigen zu lassen.
+- \[2\] Klicke auf Play (P) oder auf dem Logo, um zum 2. Einführungsbildschirm zu gelangen.
+- \[3\] Klicke auf Edit (E), um zur Songauswahl für den [Editor](/wiki/Beatmap_Editor) zu kommen.
+- \[4\] Klicke auf Options (O), um zu den Einstellungen zu gelangen.
+- \[5\] Klicke auf Exit (Esc), um osu! zu beenden.
+- \[6\] Ein zufälliger, nützlicher Tipp wird unterhalb des Menüs angezeigt.
+- \[7\] In der unteren linken Ecke ist ein Link zur osu! Webseite.
+- \[8\] Verbindungsergebnisse zum Bancho !
+- \[9\] In der unteren rechten Ecke sind die Steuerelemente für den [Chat](/wiki/Internet_Relay_Chat) (F8&F9).
+- \[10\] Oben rechts ist die osu! Jukebox, welches Lieder in zufälliger Reihenfolge abspielt.
+- \[11\] Oben mittig wird angezeigt, wie viele Maps man hat, wie lange osu! Schon läuft und die Uhrzeit.
+- \[12\] Oben links ist dein User-Panel, klick darauf, um dir die Benutzereinstellungen anzeigen zu lassen.
 
 ### Benutzereinstellungen
 
@@ -39,9 +39,9 @@ Durchs Klicken auf ihren User-Panel im oberen rechten Bereich erhalten sie Zugan
 
 ![](img/Introscreen2.jpg "Spielmenü")
 
--   Klick auf Play (P), um alleine zu spielen.
--   Klick auf Multi (M), um mit anderen zu spielen. Sie gelangen dann zum Multiplayer-Bereich.
--   Klick auf Back, um wieder zurück zum Hauptmenü zu gelangen.
+- Klick auf Play (P), um alleine zu spielen.
+- Klick auf Multi (M), um mit anderen zu spielen. Sie gelangen dann zum Multiplayer-Bereich.
+- Klick auf Back, um wieder zurück zum Hauptmenü zu gelangen.
 
 ### Multiplayer-Lobby
 
@@ -65,7 +65,7 @@ Da auf diesem Bildschirm zu viele Elemente sind und es sonst zu unübersichtlich
 
 Dieser Bereich zeigt ihnen **Informationen zu der Beatmap und der ausgewählten Schwierigkeitsstufe an.** Standardmäßig wird die Beatmap angezeigt, welche im osu! Jukebox abgespielt wurde. Die BPM-Anzeige zeigt den größten und niedrigsten Wert der Beatmap an. "Objekte" gibt die vollständige Anzahl von [Hit Objekten](/wiki/Hit_Objects) in den Beatmap wieder. Ein ![](/wiki/shared/icon/heart.gif)Herz Symbol an der oberen linken Ecke kennzeichnet die Beatmap als Ranked, während ein ![](/wiki/shared/icon/flame.gif)Flamen Symbol die Beatmap als Approved kennzeichnet. Der Unicode-Titel wird benutzt, wenn in den Einstellungen die Option ["Metadaten in Originalsprache anzeigen"](/wiki/Options) aktiviert ist und wenn auch Unicodes im Titel/Artist der Beatmap vorhanden sind.
 
--   Style: {Quelle} ({Artist}) - {Titel} \[{Schwierigkeitsstufe}\]
+- Style: {Quelle} ({Artist}) - {Titel} \[{Schwierigkeitsstufe}\]
 
 ![](img/Soloplay3.jpg)
 
@@ -98,12 +98,12 @@ Tippen sie an einer beliebigen Stelle in der Songauswahl etwas ein und das Einge
 
 Eine Vielzahl von Dingen wird in diesem Bereich angezeigt:
 
--   Wenn "Not submitted" angezeigt wird, dann handelt es sich um eine Beatmap, welches noch nicht durch den Beatmap Submission System auf die osu! Seite hochgeladen wurde.
--   Wenn "Update to latest version" erscheint, klick auf die Box, um die Beatmap mit der neusten Version auf der osu! Seite zu aktualisieren.
-    -   **Hinweis:** Vorherige Versionen können nicht wiederhergestellt werden. Wenn sie die Beatmap aus irgendeinem Grund beibehalten wollen, erstellen sie entweder eine Sicherung oder updaten ihre Beatmap nicht.
--   Wenn "Latest pending version" erscheint, bedeutet es, dass die Beatmap auf der aktuellsten Version von der osu! Seite ist, aber noch nicht ranked ist.
--   Wenn "Kein Rekord vorhanden" erscheint, bedeutet es, dass sie noch keinen Score auf dieser Schwierigkeitsstufe im ausgewählten Modus erzielt haben.
-    -   Hinweis: Dein Scores, die du im Multiplayer gemacht hast, werden nicht lokal gespeichert.
+- Wenn "Not submitted" angezeigt wird, dann handelt es sich um eine Beatmap, welches noch nicht durch den Beatmap Submission System auf die osu! Seite hochgeladen wurde.
+- Wenn "Update to latest version" erscheint, klick auf die Box, um die Beatmap mit der neusten Version auf der osu! Seite zu aktualisieren.
+  - **Hinweis:** Vorherige Versionen können nicht wiederhergestellt werden. Wenn sie die Beatmap aus irgendeinem Grund beibehalten wollen, erstellen sie entweder eine Sicherung oder updaten ihre Beatmap nicht.
+- Wenn "Latest pending version" erscheint, bedeutet es, dass die Beatmap auf der aktuellsten Version von der osu! Seite ist, aber noch nicht ranked ist.
+- Wenn "Kein Rekord vorhanden" erscheint, bedeutet es, dass sie noch keinen Score auf dieser Schwierigkeitsstufe im ausgewählten Modus erzielt haben.
+  - Hinweis: Dein Scores, die du im Multiplayer gemacht hast, werden nicht lokal gespeichert.
 
 **Ranking Tabelle:**
 
@@ -117,10 +117,10 @@ Eine Vielzahl von Dingen wird in diesem Bereich angezeigt:
 
 Klicke auf das Sprechblasen-Icon, um zum **Schnellzugang zu dieser Map im Web** im Songauswahl zu gelangen:
 
--   Drücke 1 oder auf die Fläche *Beatmap-Übersicht/Rekorde* und ihr Standard-Browser wird die Beatmap-Übersicht/Rekorde der aufgewählten Beatmap öffnen.
--   Drücke 2 oder auf die Fläche ''Beatmap-Thema" und ihr Standard-Browser wird den Thread zur ausgewählten Beatmap öffnen.
--   Drücke 3 oder auf die Fläche ''Schnellantwort" und ihr Standard-Browser wird die Seite zum Thread der ausgewählten Beatmap öffnen, wo sie direkt eine Post verfassen können.
--   Drücke 4, auf die Fläche *Abbrechen* oder auf die Taste Esc, um zur Songauswahl zurückzukehren.
+- Drücke 1 oder auf die Fläche *Beatmap-Übersicht/Rekorde* und ihr Standard-Browser wird die Beatmap-Übersicht/Rekorde der aufgewählten Beatmap öffnen.
+- Drücke 2 oder auf die Fläche ''Beatmap-Thema" und ihr Standard-Browser wird den Thread zur ausgewählten Beatmap öffnen.
+- Drücke 3 oder auf die Fläche ''Schnellantwort" und ihr Standard-Browser wird die Seite zum Thread der ausgewählten Beatmap öffnen, wo sie direkt eine Post verfassen können.
+- Drücke 4, auf die Fläche *Abbrechen* oder auf die Taste Esc, um zur Songauswahl zurückzukehren.
 
 Solange sie im **Schnellzugang zu dieser Map im Web** sind, können sie nicht den Chat und die erweiterte Chat Konsole benutzen.
 
@@ -128,10 +128,10 @@ Solange sie im **Schnellzugang zu dieser Map im Web** sind, können sie nicht de
 
 Die **Songliste zeigt alle Beatmaps an, die Sie heruntergeladen haben**. Die Farbe der Kästen kann sich je nachdem unterscheiden:
 
--   Rot: Diese Beatmap hat nur eine Schwierigkeitsstufe.
--   Rosa: Diese Beatmap wurde bis jetzt noch nicht gespielt (auch bei Beatmaps mit mehr als einer Schwierigkeitsstufe).
--   Orange: Diese Beatmap wurde mal gespielt (auch bei Beatmaps mit mehr als einer Schwierigkeitsstufe).
--   Weiß: Diese Beatmap ist gerade ausgewählt.
+- Rot: Diese Beatmap hat nur eine Schwierigkeitsstufe.
+- Rosa: Diese Beatmap wurde bis jetzt noch nicht gespielt (auch bei Beatmaps mit mehr als einer Schwierigkeitsstufe).
+- Orange: Diese Beatmap wurde mal gespielt (auch bei Beatmaps mit mehr als einer Schwierigkeitsstufe).
+- Weiß: Diese Beatmap ist gerade ausgewählt.
 
 Sie können sich durch die Songliste entweder mit \[1\] dem Mausrad, \[2\] der Pfeiltaste nach oben und unten, \[3\] durchs Halten der linken Maustaste oder \[4\] durchs Drücken der rechten Maustaste (auch bekannt als absolutes Scrollen) bewegen. Klicken Sie auf einen Kasten, um die Beatmap auszuwählen und um sich die Informationen dazu auf der oberen, linken Bereich, den High Score, den Rang, den Sie mit Ihrem High Score erzielt haben und weitere Dinge anzeigen zu lassen. \[1\] Klicken Sie ein weiteres Mal auf das Kästchen, \[2\] drücken Sie die Eingabetaste oder \[3\] auf das osu! Logo in der unteren, linken Ecke, um die Beatmap zu spielen.
 
@@ -157,12 +157,12 @@ Klicken Sie auf "Random Map" oder die F2-Taste, damit Ihr Spiel **zufällig eine
 
 Klicken Sie auf "Beatmap Options", drücken Sie die F3 Taste oder mit Rechtsklick auf die Beatmap, um sich **die möglichen Kommandos der ausgewählten Beatmap** anzeigen zu lassen.
 
--   Drücke Sie die 1 oder auf "Sammlungen verwalten", um die ausgewählte Schwierigkeitsstufe oder die ganze Beatmap zu einer Sammlung hinzuzufügen. Sie können sich Ihre Liste an Sammlungen, wie schon oben genannt, anzeigen lassen.
--   Drücke Sie die 2 oder auf "Löschen...", um entweder die ausgewählte Schwierigkeitsstufe oder die ganze Beatmap von Ihrer Festplatte zu löschen. Sie werden sicherheitshalber ein weiteres Mal gefragt, ob Sie sich sicher sind die Beatmap zu löschen.
--   Drücke Sie die 3 oder auf "Aus Ungespielt entfernen", um die ungespielte Beatmap als "Gespielt" zu markieren.
--   Drücke Sie die 4 oder auf "Alle lokalen Rekorde löschen", um alle lokalen Rekorde, die Sie auf der Beatmap erlangt haben und sich noch in Ihrem Verzeichnis befinden, zu löschen.
--   Drücke Sie die 5 oder auf "Bearbeiten", um die ausgewählte Beatmap im Editor zu öffnen.
--   Drücke Sie die 6 oder auf "Abbrechen", um zurück zur Songauswahl zu gelangen.
+- Drücke Sie die 1 oder auf "Sammlungen verwalten", um die ausgewählte Schwierigkeitsstufe oder die ganze Beatmap zu einer Sammlung hinzuzufügen. Sie können sich Ihre Liste an Sammlungen, wie schon oben genannt, anzeigen lassen.
+- Drücke Sie die 2 oder auf "Löschen...", um entweder die ausgewählte Schwierigkeitsstufe oder die ganze Beatmap von Ihrer Festplatte zu löschen. Sie werden sicherheitshalber ein weiteres Mal gefragt, ob Sie sich sicher sind die Beatmap zu löschen.
+- Drücke Sie die 3 oder auf "Aus Ungespielt entfernen", um die ungespielte Beatmap als "Gespielt" zu markieren.
+- Drücke Sie die 4 oder auf "Alle lokalen Rekorde löschen", um alle lokalen Rekorde, die Sie auf der Beatmap erlangt haben und sich noch in Ihrem Verzeichnis befinden, zu löschen.
+- Drücke Sie die 5 oder auf "Bearbeiten", um die ausgewählte Beatmap im Editor zu öffnen.
+- Drücke Sie die 6 oder auf "Abbrechen", um zurück zur Songauswahl zu gelangen.
 
 Während Sie sich in der Auswahl der Beatmap Optionen befinden, können Sie nicht den Chat oder den erweiterten Chat verwenden.
 

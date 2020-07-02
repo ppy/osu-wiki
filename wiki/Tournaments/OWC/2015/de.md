@@ -41,9 +41,9 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 
 ## Links
 
--   [osu! World Cup 2015 auf Twitch](https://www.twitch.tv/osulive/)
--   [Diskussionsthread](https://osu.ppy.sh/community/forums/posts/4550383)
--   [Registrierungsseite](https://osu.ppy.sh/tournaments/2)
+- [osu! World Cup 2015 auf Twitch](https://www.twitch.tv/osulive/)
+- [Diskussionsthread](https://osu.ppy.sh/community/forums/posts/4550383)
+- [Registrierungsseite](https://osu.ppy.sh/tournaments/2)
 
 ------------------------------------------------------------------------
 
@@ -143,12 +143,12 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 1.  Das osu! World Cup ist ein länderbezogenes 4 gegen 4 Team Turnier
 2.  Map Scoring basiert auf eine neue Metrik, genannt Score V2. **[Hier finden Sie mehr Informationen (englisch)!](https://osu.ppy.sh/community/forums/topics/375428)**
 3.  Die Beatmaps werden vom Map Wähler für jede Runde im Vorhinein am Sonntag angekündigt, bevor die eigentliche Partie stattfindet. Nur diese werden dann während den eigentlichen Partien zur Verfügung stehen.
-    -   Eine Beatmap wird als Tiebreaker-Map mit angegeben. Diese Beatmap wird nur beim größtmöglichem Punktegleichstand gespielt.
+    - Eine Beatmap wird als Tiebreaker-Map mit angegeben. Diese Beatmap wird nur beim größtmöglichem Punktegleichstand gespielt.
 
 4.  Die Zeiten der Partien werden vom Turnier Management festgelegt (siehe unten).
 5.  Wenn kein Schiedrichter oder Personal vorhanden sein sollte, wird die Partie verschoben.
 6.  Die Ergebnisse von gescheiterten Spielern wird nicht zum Teamergebnis mit angerechnet.
-    -   Das Überleben und Wiederbeleben während einer Map wird als Bestehen betrachtet.
+    - Das Überleben und Wiederbeleben während einer Map wird als Bestehen betrachtet.
 
 7.  Das Benutzen der [visuellen Einstellungen](/wiki/Game_Modifiers) ist erlaubt.
 8.  Wenn es bei einer Beatmap zum Unentschieden kommen sollte, wird das Ergebnis als nichtig erklärt.
@@ -169,11 +169,11 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 19. In der Gruppenphase wird das 'Win by default' (zu deutsch 'kampflos gewonnen') als ein Sieg bei 4:0 und +2.5 Score Difference Ratio.
 20. Unerwartete Vorkommnisse werden vom Turnier Management behandelt. Referees may allow higher tolerance depending on the given circumstances. This is up to their discretion.
 21. Strafen für das Nicht-Einhalten der Turnierregeln können sein:
-    -   Ausschluss von bestimmten Spielern für eine Map
-    -   Ausschluss von bestimmten Spielern für eine komplette Partie
-    -   Erklärt das Match als 'Lost by default'
-    -   Disqualifikation für das gesamte Turnier
-    -   Disqualifikation für das derzeitige und zukünftige offiziele Turnier bis zur Anfechtung
+    - Ausschluss von bestimmten Spielern für eine Map
+    - Ausschluss von bestimmten Spielern für eine komplette Partie
+    - Erklärt das Match als 'Lost by default'
+    - Disqualifikation für das gesamte Turnier
+    - Disqualifikation für das derzeitige und zukünftige offiziele Turnier bis zur Anfechtung
 
 22. Jede Veränderung an den Regeln wird bekannt gegeben.
 
@@ -217,10 +217,10 @@ Wir versuchen ein Bargeld-Preispool von mindestens 5000$ für diese WM zu erreic
 | Finale - Woche 2 | P, Q |
 
 1.  **Bedingungen, um zu gewinnen:**
-    -   In der Gruppenphase werden 4 gewonnene Maps benötigt, um die Partie zu gewinnen. (Best-of-7)
-    -   Im Achtel- und Viertelfinale werden 5 gewonnene Maps benötigt, um die Partie zu gewinnen. (Best-of-9)
-    -   Im Halbfinale und im Finale - Woche 1 werden 6 gewonnene Maps benötigt, um die Partie zu gewinnen. (Best-of-11)
-    -   In Finale - Woche 2 werden 7 gewonnene Maps benötigt, um die Partie zu gewinnen. (Best-of-13)
+    - In der Gruppenphase werden 4 gewonnene Maps benötigt, um die Partie zu gewinnen. (Best-of-7)
+    - Im Achtel- und Viertelfinale werden 5 gewonnene Maps benötigt, um die Partie zu gewinnen. (Best-of-9)
+    - Im Halbfinale und im Finale - Woche 1 werden 6 gewonnene Maps benötigt, um die Partie zu gewinnen. (Best-of-11)
+    - In Finale - Woche 2 werden 7 gewonnene Maps benötigt, um die Partie zu gewinnen. (Best-of-13)
 
 ### Partieanweisungen
 

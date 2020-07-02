@@ -110,10 +110,10 @@ outdated: true
 
 ## 外部链接
 
--   [讨论帖](https://osu.ppy.sh/community/forums/topics/316279)
--   **[小组赛统计](https://owc.nicarim.pw/results/view/5)**
--   [队长 Showcase (YouTube)](https://www.youtube.com/playlist?list=PLFsdDKrKpj7thvR58LRWxBPso4__aDUMp)
--   [osu! Catch the Beat World Cup 2015 官方 Twitch 直播室](https://www.twitch.tv/osulive/)
+- [讨论帖](https://osu.ppy.sh/community/forums/topics/316279)
+- **[小组赛统计](https://owc.nicarim.pw/results/view/5)**
+- [队长 Showcase (YouTube)](https://www.youtube.com/playlist?list=PLFsdDKrKpj7thvR58LRWxBPso4__aDUMp)
+- [osu! Catch the Beat World Cup 2015 官方 Twitch 直播室](https://www.twitch.tv/osulive/)
 
 ------------------------------------------------------------------------
 
@@ -420,8 +420,8 @@ Sunday, 10\. May 2015
 
 1.  osu! Catch the Beat World 是**基于国家/地区之间的**3v3比赛。
 2.  每场比赛的比赛用图将会在比赛日之前的一个星期日公布。比赛中只能选择公布出来的图。
-    -   有一张图是专门用于决胜局。这张图只会在决胜局出现。
-    -   同样会有 [Hidden](/wiki/Game_Modifiers)、[HardRock](/wiki/Game_Modifiers)、[DoubleTime的分类比赛图](/wiki/Game_Modifiers)。
+    - 有一张图是专门用于决胜局。这张图只会在决胜局出现。
+    - 同样会有 [Hidden](/wiki/Game_Modifiers)、[HardRock](/wiki/Game_Modifiers)、[DoubleTime的分类比赛图](/wiki/Game_Modifiers)。
 
 3.  比赛日程将会由赛事管理小组公布（暂未公布）。
 4.  如果没有工作人员或者裁判在，比赛会被延期。
@@ -458,7 +458,7 @@ Sunday, 10\. May 2015
 ### 阶段说明
 
 1.  在小组赛的时候，所有队伍将会随机分配到8个小组中，每组4个队伍。
-    -   当然，会根据总参赛队伍数进行更改。
+    - 当然，会根据总参赛队伍数进行更改。
 
 2.  每个队伍都会跟同小组中的其他三个队伍相遇。
 3.  队伍的排名将根据以下条件 (权重按降序排列) 计算：
@@ -483,9 +483,9 @@ Sunday, 10\. May 2015
 | 决赛第二周 | P, Q |
 
 1.  **胜利条件:**
-    -   小组赛阶段，采用7局4胜制。
-    -   16强和1/4决赛，9局5胜制。
-    -   半决赛和决赛，11局6胜制。
+    - 小组赛阶段，采用7局4胜制。
+    - 16强和1/4决赛，9局5胜制。
+    - 半决赛和决赛，11局6胜制。
 
 ### 比赛说明
 

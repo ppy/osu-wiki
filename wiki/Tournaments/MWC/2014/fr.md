@@ -43,9 +43,9 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
 
 ## Links
 
--   [osu!mania 2014 sur Twitch](https://www.twitch.tv/osulive/)
--   [Formulaire d'inscription](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY)
--   [Topic de discussion](https://osu.ppy.sh/community/forums/topics/222100)
+- [osu!mania 2014 sur Twitch](https://www.twitch.tv/osulive/)
+- [Formulaire d'inscription](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY)
+- [Topic de discussion](https://osu.ppy.sh/community/forums/topics/222100)
 
 ------------------------------------------------------------------------
 
@@ -55,12 +55,12 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
 
 1.  L'osu!mania World cup est un tournoi, séparé en 4-keys et 7-keys avec une équipe par pays.
 2.  Les maps prévues pour chaque phase seront annoncées publiquement par l'équipe de sélection des beatmaps le dimanche précédent le début de chaque phase. Aucune autre beatmap ne peut être jouée durant les matchs.
-    -   Une map, le tiebreaker, servira à départager deux équipes à égalité à la fin d'un match. Elle ne peut être utilisée pour une autre fin.
+    - Une map, le tiebreaker, servira à départager deux équipes à égalité à la fin d'un match. Elle ne peut être utilisée pour une autre fin.
 
 3.  Les dates et horaires des matchs seront fixés par la direction (cf. rubrique « Planification des matchs »).
 4.  Si aucun membre de la direction ou aucun arbitre n'est présent à l'heure du match, celui-ci sera reporté à une date ultérieure.
 5.  En cas de Fail le score ne sera pas comptabilisé.
-    -   Les revives (revenir d'un statut d'échec à un statut normal au sein d'une partie en remplissant la barre de vie au maximum) sont autorisés.
+    - Les revives (revenir d'un statut d'échec à un statut normal au sein d'une partie en remplissant la barre de vie au maximum) sont autorisés.
 
 6.  L'utilisation des Visual Settings est autorisée.
 7.  Une partie ne compte pas si les scores finaux des deux équipes sont identiques.
@@ -68,7 +68,7 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
 9.  Une beatmap ne peut être jouée plus d'une fois au sein d'un match, sauf si la partie dans laquelle la beatmap a été jouée a été annulée.
 10. Si moins de deux joueurs sont présent à l'horaire prévue, le match pourra être reporté d'un maximum de 10 minutes.
 11. L'échange de joueurs au sein d'une équipe est autorisée.
-    -   La limite est d'un échange maximum par partie et par équipe.
+    - La limite est d'un échange maximum par partie et par équipe.
 
 12. Un « ralentissement » d'un PC ou un « lag » ne sont pas des excuses valables pour annuler une partie.
 13. Les victoires par forfait sont représentées par une victoire de 4 à 0 et un ratio de +1,0 pour l'équipe victorieuse.
@@ -86,21 +86,21 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
 
 2.  Chaque équipe doit représenter un pays. Les joueurs constituant l'équipe doivent provenir de ce pays.
 3.  L'inscription des équipes doit être réalisée par le biais de [ce formulaire](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY). Il est impératif de confirmer une équipe en [envoyant un message privé à Loctav](https://osu.ppy.sh/home/messages/users/71366) intitulé “MWC Registration”
-    -   Les capitaines peuvent changer leurs équipes en [en informant la direction](https://osu.ppy.sh/home/messages/users/71366).
+    - Les capitaines peuvent changer leurs équipes en [en informant la direction](https://osu.ppy.sh/home/messages/users/71366).
 
 4.  Tous les participants d'une équipe sont soumis à un contrôle de sécurité par la direction avant d'être officiellement intégrés.
 5.  32 équipes maximum sont autorisées à participer dans chaque tournoi.
-    -   Selon le nombre total d'inscription ce nombre maximum peut changer.
+    - Selon le nombre total d'inscription ce nombre maximum peut changer.
 
 6.  Toutes les équipes inscrites seront publiés après la phase d'inscription.
-    -   Les capitains seront notifiés en cas d'acceptation ou de rejet de leur équipe.
+    - Les capitains seront notifiés en cas d'acceptation ou de rejet de leur équipe.
 
 7.  Les membres de l'équipe de sélection des beatmaps ne sont pas autorisés à jouer.
 
 ### Stage instructions
 
 1.  Les équipes sont réparties en 8 groupes de quatre durant les poules à l'aide d'un tirage au sort.
-    -   Ceci pouvant changer selon le nombre total d'équipes inscrites.
+    - Ceci pouvant changer selon le nombre total d'équipes inscrites.
 
 2.  Une équipe d'un groupe joue successivement contre toutes les autres équipes de son groupe.
 3.  Le classement au sein d'un groupe est déterminé en fonction des critères suivants par ordre de priorité (plus le nombre obtenu pour chaque critère est élevé, mieux c'est) :
@@ -113,9 +113,9 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
 4.  Les deux premières équipes de chaque groupe sont qualifiées pour les huitièmes de finale.
 5.  Les matchs suivant sont tous à élimination directe. Cela signifique que l'équipe victorieuse passe au tour suivant alors que l'autre équipes est éliminée du tournoi.
 6.  *Conditions de victoire:*'
-    -   Durant la phase de Poules, Vous devez gagner 4 maps pour gagner un match. (Meilleur des 7)
-    -   Durant les huitièmes et quart de finale, vous devez gagner 5 maps pour gagner un match. (Meilleur des 9)
-    -   Durant les demi-finales et finale, vous devez gagner 6 maps pour gagner un match (Meilleur des 11)
+    - Durant la phase de Poules, Vous devez gagner 4 maps pour gagner un match. (Meilleur des 7)
+    - Durant les huitièmes et quart de finale, vous devez gagner 5 maps pour gagner un match. (Meilleur des 9)
+    - Durant les demi-finales et finale, vous devez gagner 6 maps pour gagner un match (Meilleur des 11)
 
 ### Match Instructions
 
@@ -141,9 +141,9 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
 6.  La catégorie FreeMod sera joué avec le mode FreeMod activé. Chaque joueur pourra choisir Hidden, Flashlight ou Fade-in ou aucun mode.
 7.  Le tiebreaker sera joué sous la catégorie FreeMod.
 8.  Le nombre de maps FreeMod sera de :
-    -   9 durant les phases de Poules
-    -   11 durant les huitièmes et quarts de finales
-    -   13 durant les demi-finales et finales.
+    - 9 durant les phases de Poules
+    - 11 durant les huitièmes et quarts de finales
+    - 13 durant les demi-finales et finales.
 
 ### Planification des matchs
 

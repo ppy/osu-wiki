@@ -9,13 +9,13 @@ outdated: true
 L'osu! World Cup 2013 è un torneo creato dallo [Staff Tornei](https://osu.ppy.sh/groups/26). dura dal 15th Ottobre 2013 fino al 8th Dicembre 2013. L'anno scorso il vincitore è stato: **![][flag_KR] Korea**. AL momento, il torneo è in fase *' Registrazione*'.
 = Tabella giorni =
 
--   Registrazione: 15-28 Oct 2013
--   Sorteggi in diretta: 31 Oct 2013
--   Fase di gruppo: 8-10 Nov 2013
--   Round 16: 16-17 Nov 2013
--   Quarti di finale: 23-24 Nov 2013
--   Semi-finali: 30 Nov - 1 Dec 2013
--   Finali/lotta per il terzo posto: 7-8 Dec 2013
+- Registrazione: 15-28 Oct 2013
+- Sorteggi in diretta: 31 Oct 2013
+- Fase di gruppo: 8-10 Nov 2013
+- Round 16: 16-17 Nov 2013
+- Quarti di finale: 23-24 Nov 2013
+- Semi-finali: 30 Nov - 1 Dec 2013
+- Finali/lotta per il terzo posto: 7-8 Dec 2013
 
 ## Premi
 
@@ -43,7 +43,7 @@ L'osu! World Cup 2013 è un torneo creato dallo [Staff Tornei](https://osu.ppy.s
 
 ## Links
 
--   [Discuti qui](https://osu.ppy.sh/community/forums/topics/160181/start=0)
+- [Discuti qui](https://osu.ppy.sh/community/forums/topics/160181/start=0)
 
 ------------------------------------------------------------------------
 
@@ -102,9 +102,9 @@ L'osu! World Cup 2013 è un torneo creato dallo [Staff Tornei](https://osu.ppy.s
 4.  The top two teams of each group will move on to the Knock-Out Stages.
 5.  Following stages are Knock-Out Stages. This means that the winner moves to the next stage and the losing team gets kicked out of the tournament.
 6.  **Winning conditions:**
-    -   In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
-    -   In Round 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
-    -   In Semi-finals and Finals, you need to win 6 maps to with a match. (Best-of-11)
+    - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
+    - In Round 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)
+    - In Semi-finals and Finals, you need to win 6 maps to with a match. (Best-of-11)
 
 ### Match Instructions
 
@@ -135,18 +135,18 @@ L'osu! World Cup 2013 è un torneo creato dallo [Staff Tornei](https://osu.ppy.s
 7.  The FreeMod bracket will have FreeMod activated. Every individual player can pick Hidden, HardRock, Flashlight or no mod at all. Players may select more than one mod.
 8.  The tiebreaker will be played under FreeMod conditions.
 9.  The size of the NoMod bracket will be:
-    -   10 in Group Stage
-    -   6 in Knock-Out Stages
+    - 10 in Group Stage
+    - 6 in Knock-Out Stages
 
 10. The size of the mod-specific brackets will be:
-    -   3 in Group Stage
-    -   4 in Knock-Out Stages
+    - 3 in Group Stage
+    - 4 in Knock-Out Stages
 
 ### Scheduling instructions
 
 1.  Each stage will be held on **a single weekend** (refer to Tournament Schedule at the top)
 2.  In Group Stage, the first matches will be held on Friday (8. Nov), the second on Saturday (9. Nov), the third on Sunday (10. Nov)
-    -   Matches in Group Stage might overlap
+    - Matches in Group Stage might overlap
 
 3.  All Knock-Out Stages will be held on either Saturday or Sunday (refer to Tournament Schedule).
 4.  Scheduling will be handled by the Tournament Management. Schedules will be released on the Sunday before the first matches of the actual stage.(e.g. on the 3. Nov for Group Stage). Tournament Management will try to create the schedule to respect the participant's time zone.

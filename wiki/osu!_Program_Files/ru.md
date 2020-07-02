@@ -72,23 +72,23 @@ outdated_since: cf41ce8611b21171619b93d9c57aa61f95270db7
 
 **Основные компоненты** (От Microsoft .NET)
 
--   avcodec-51.dll
--   avformat-52.dll
--   avutil-49.dll
--   bass.dll
--   bass_fx.dll
--   d3dx9_31.dll
--   Microsoft.Ink.dll
--   Microsoft.Xna.Framework.dll
--   pthreadGC2.dll
--   x3daudio1_1.dll
+- avcodec-51.dll
+- avformat-52.dll
+- avutil-49.dll
+- bass.dll
+- bass_fx.dll
+- d3dx9_31.dll
+- Microsoft.Ink.dll
+- Microsoft.Xna.Framework.dll
+- pthreadGC2.dll
+- x3daudio1_1.dll
 
 **Компоненты osu!**
 
--   ~~osu!framework.dll~~
--   osu!gameplay.dll
--   osu!ui.dll
--   osu.dll
+- ~~osu!framework.dll~~
+- osu!gameplay.dll
+- osu!ui.dll
+- osu.dll
 
 ### .db (Файл базы данных)
 
@@ -96,31 +96,31 @@ outdated_since: cf41ce8611b21171619b93d9c57aa61f95270db7
 
 **База данных osu!**
 
--   collection.db (Ваша "Коллекция" в игре. Вы можете опубликовать её на форуме для других игроков. Реальные карты не предоставляются.)
--   osu!.db (Кэш карт osu!. Ну, знаете, этот долгий загрузочный экран до выбора песен)
--   presence.db
--   scores.db (Сохраняет историю локальных рекордов)
+- collection.db (Ваша "Коллекция" в игре. Вы можете опубликовать её на форуме для других игроков. Реальные карты не предоставляются.)
+- osu!.db (Кэш карт osu!. Ну, знаете, этот долгий загрузочный экран до выбора песен)
+- presence.db
+- scores.db (Сохраняет историю локальных рекордов)
 
 **База данных osu!test**
 
--   osu!test.db
--   osu!test_collection.db
--   osu!test_presence.db
+- osu!test.db
+- osu!test_collection.db
+- osu!test_presence.db
 
 ### .cfg (Конфигурационные файлы)
 
 Конфигурационные файлы или файлы конфигураций, задающие начальные настройки для работы osu!. Можно открыть в Блокноте.
 
--   osu!.cfg
--   osu!.user.cfg (Настройки экрана опций)
+- osu!.cfg
+- osu!.user.cfg (Настройки экрана опций)
 
 ### .exe (Приложение)
 
 Основной компонент. Нажмите для запуска. Файлы .exe можно безопасно открывать, если вы использовали osu!installer для установки osu!.
 
--   osu!.exe (Запуск osu!)
--   osu!test.exe (Только для саппортеров. Запуск osu!test)
--   osume.exe (Запуск программы обновления osu!. osu!.exe сам запустит её, если есть новая версия. Содержит список изменений и скины для загрузки. Также восстанавливает файлы osu!/osu!test.exe)
+- osu!.exe (Запуск osu!)
+- osu!test.exe (Только для саппортеров. Запуск osu!test)
+- osume.exe (Запуск программы обновления osu!. osu!.exe сам запустит её, если есть новая версия. Содержит список изменений и скины для загрузки. Также восстанавливает файлы osu!/osu!test.exe)
 
 ## Другая информация
 
@@ -130,8 +130,8 @@ outdated_since: cf41ce8611b21171619b93d9c57aa61f95270db7
 
 **Необходимое ПО:**
 
--   Архиватор (WinRAR, 7zip)
--   osu! (Для теста и иконки osu!)
+- Архиватор (WinRAR, 7zip)
+- osu! (Для теста и иконки osu!)
 
 **Методика**
 
@@ -152,9 +152,9 @@ outdated_since: cf41ce8611b21171619b93d9c57aa61f95270db7
 
 **Наглядные примеры>** (спасибо [Skinning tutorial](https://osu.ppy.sh/community/forums/topics/51694) [от MLGnom](https://osu.ppy.sh/users/46620))
 
--   [WinRAR](https://puu.sh/1MBV)
--   [7-zip](https://puu.sh/1MBW)
-    -   Для карты используйте расширение .osz.
+- [WinRAR](https://puu.sh/1MBV)
+- [7-zip](https://puu.sh/1MBW)
+  - Для карты используйте расширение .osz.
 
 ### Файловые расширения osu!
 

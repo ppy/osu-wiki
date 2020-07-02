@@ -411,22 +411,22 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 
 ### Lexique
 
--   La **compétition** (le **tournoi**) est composée de plusieurs **phases**, énoncées dans la rubrique [Calendrier](/wiki/Tournaments/OWC/2014),
--   Une **phase** est constituée de plusieurs **matchs** et sert à éliminer des équipes,
--   Un **match** est composé de plusieurs **parties** et aboutit à un score départageant deux équipes (exemple : France 4-2 Estonie),
--   Une **partie** est une session de jeu durant laquelle deux équipes s'affrontent sur une beatmap et dont la durée est équivalente à celle de la beatmap.
+- La **compétition** (le **tournoi**) est composée de plusieurs **phases**, énoncées dans la rubrique [Calendrier](/wiki/Tournaments/OWC/2014),
+- Une **phase** est constituée de plusieurs **matchs** et sert à éliminer des équipes,
+- Un **match** est composé de plusieurs **parties** et aboutit à un score départageant deux équipes (exemple : France 4-2 Estonie),
+- Une **partie** est une session de jeu durant laquelle deux équipes s'affrontent sur une beatmap et dont la durée est équivalente à celle de la beatmap.
 
 ### Organisation générale du tournoi
 
 1.  L'OWC est une compétition de osu! (mode standard) en 4 contre 4 faisant s'affronter des équipes nationales.
 2.  Les beatmaps prévues pour chaque phase seront annoncées publiquement par l'équipe de sélection des beatmaps le dimanche précédent le début de chaque phase. Aucune autre beatmap ne peut être jouée durant les matchs.
-    -   Une beatmap, le *tiebreaker*, servira à départager deux équipes à égalité à la fin d'un match. Elle ne peut être utilisée pour une autre fin.
+    - Une beatmap, le *tiebreaker*, servira à départager deux équipes à égalité à la fin d'un match. Elle ne peut être utilisée pour une autre fin.
 
 3.  Les dates et horaires des matchs seront fixés par la direction (cf. rubrique « Planification des matchs »).
 4.  Si aucun membre de la direction ou aucun arbitre n'est présent à l'heure du match, celui-ci sera reporté à une date ultérieure.
 5.  Les *revives* (revenir d'un statut d'échec à un statut normal au sein d'une partie en remplissant la barre de vie au maximum) sont autorisés.
 6.  Les scores des joueurs qui terminent une partie avec un statut d'échec ne sont pas comptabilisés.
-    -   Cependant, les *revives* (revenir d'un statut d'échec à un statut normal au sein d'une partie en remplissant la barre de vie au maximum) sont autorisés.
+    - Cependant, les *revives* (revenir d'un statut d'échec à un statut normal au sein d'une partie en remplissant la barre de vie au maximum) sont autorisés.
 
 7.  L'utilisation des [Visual Settings](/wiki/Game_Modifiers) est autorisée.
 8.  Une partie ne compte pas si les scores finaux des deux équipes sont identiques.
@@ -434,7 +434,7 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 10. Une beatmap ne peut être jouée plus d'une fois au sein d'un match, sauf si la partie dans laquelle la beatmap a été jouée a été annulée.
 11. Une équipe dispose de 10 minutes maximum pour réunir tous ses joueurs si plusieurs d'entre eux sont absents à l'heure prévue du match. Au-delà de ce délai, l'équipe ayant réuni tous ses joueurs est déclarée vainqueur par forfait.
 12. L'échange de joueurs au sein d'une équipe est autorisée.
-    -   La limite est d'un échange maximum par partie et par équipe.
+    - La limite est d'un échange maximum par partie et par équipe.
 
 13. Un « ralentissement » d'un PC ou un « lag » ne sont pas des excuses valables pour annuler une partie.
 14. Les victoires par forfait sont représentées par une victoire de 4 à 0 et un ratio de +2,5 pour l'équipe victorieuse.
@@ -446,20 +446,20 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 1.  Chaque équipe doit être constituée au minimum de 6 joueurs.
     1.  La taille d'une équipe ne peut dépasser 8 joueurs.
     2.  Le responsable d'une équipe, le *capitaine*, doit être spécifié.
-        -   Il n'existe aucune distinction joueurs « permanents » / joueurs « remplaçants ».
+        - Il n'existe aucune distinction joueurs « permanents » / joueurs « remplaçants ».
 
 2.  Chaque équipe doit représenter un pays. Tous les joueurs constituant l'équipe doivent provenir de ce pays, comme doivent l'attester leurs drapeaux dans leur pages de profil.
 3.  L'inscription des équipes doit être réalisée par le biais de [ce formulaire](https://docs.google.com/forms/d/1_muZpv0qYzT0vmBJqhK_os0DWHO8k5TA7-wioKN5mng). Il est impératif de confirmer une équipe en [envoyant un message privé à Loctav](https://osu.ppy.sh/home/messages/users/71366) avec, pour sujet, « OWC Registration ».
-    -   Les capitaines ont la possibilité de modifier leur équipe pendant la phase d'inscription ; il est alors nécessaire de [prévenir la direction](https://osu.ppy.sh/home/messages/users/71366).
-    -   Les capitaines recevront un message de confirmation si leur inscription a bien été reçue. Les équipes sont alors placées dans une liste d'attente.
+    - Les capitaines ont la possibilité de modifier leur équipe pendant la phase d'inscription ; il est alors nécessaire de [prévenir la direction](https://osu.ppy.sh/home/messages/users/71366).
+    - Les capitaines recevront un message de confirmation si leur inscription a bien été reçue. Les équipes sont alors placées dans une liste d'attente.
 
 4.  Pour assurer la présence d'équipes sérieuses au sein de la compétition, tous les participants d'une équipe sont soumis à un contrôle de sécurité par la direction avant d'être officiellement intégrés. Ainsi, la direction se réserve le droit de refuser des inscriptions si :
-    -   les équipes ne sont pas considérées comme étant suffisamment fortes pour participer,
-    -   des participants ont violé les termes du [règlement général](/wiki/Rules) de osu! ([détails](https://osu.zendesk.com/hc/en-us/articles/202090283-I-applied-to-play-in-an-official-tournament-but-was-denied-)).
+    - les équipes ne sont pas considérées comme étant suffisamment fortes pour participer,
+    - des participants ont violé les termes du [règlement général](/wiki/Rules) de osu! ([détails](https://osu.zendesk.com/hc/en-us/articles/202090283-I-applied-to-play-in-an-official-tournament-but-was-denied-)).
 
 5.  32 équipes maximum sont autorisées à participer.
 6.  La liste des équipes autorisées à participer sera publiée après la période d'inscription des équipes.
-    -   Les capitaines recevront un message de confirmation si leur inscription a été validée ou rejetée.
+    - Les capitaines recevront un message de confirmation si leur inscription a été validée ou rejetée.
 
 7.  Les membres de l'équipe de sélection des beatmaps ne sont pas autorisés à jouer.
 
@@ -539,8 +539,8 @@ Pour un aperçu des résultats des matchs des poules, consultez [ce site](https:
 
 ## Liens divers
 
--   [Liste des pays ayant participé à des compétitions de osu!](FR:Countries_that_participated_in_osu!_tournaments "wikilink")
--   [Topic de discussion sur le forum de osu!](https://osu.ppy.sh/community/forums/topics/247090)
+- [Liste des pays ayant participé à des compétitions de osu!](FR:Countries_that_participated_in_osu!_tournaments "wikilink")
+- [Topic de discussion sur le forum de osu!](https://osu.ppy.sh/community/forums/topics/247090)
 
 [flag_AR]: /wiki/shared/flag/AR.gif
 [flag_AT]: /wiki/shared/flag/AT.gif
