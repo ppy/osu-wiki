@@ -67,7 +67,7 @@
 
 1. Like above, compile your files into a folder and name it.
 
-    Usually, if you edited the beatmap before, everything will be ready to be converted to .osz. For skins, you must compile the files before.
+   Usually, if you edited the beatmap before, everything will be ready to be converted to .osz. For skins, you must compile the files before.
 
 2. Open osu!.
 3. If you want to make a .osz, then:
