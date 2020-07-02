@@ -57,4 +57,3 @@ In [osu!catch](/wiki/Game_Modes/osu!catch), the Relax mod allows the character t
 [o!s]: /wiki/shared/mode/osu.png "osu!standard"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
 [o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
