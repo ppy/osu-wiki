@@ -60,17 +60,17 @@ The Royal Danish osu!Cup 2020 is run by various community members.
 
 ### General rules
 
-1. Only users in the Kingdom of Denmark can enter this tournament. This is determined by the profile-flag on a player's userpage (e.g. a player with either of these flags is eligible to participate: ![][flag_DK], ![][flag_FO], ![][flag_GL]) (note that it is **NOT** mandatory to understand danish)
+1. Only users from the Kingdom of Denmark can enter this tournament. This is determined by the profile-flag on a player's userpage (e.g. a player with either of these flags is eligible to participate: ![][flag_DK], ![][flag_FO], ![][flag_GL]) (note that it is **NOT** mandatory to understand Danish)
 2. This tournament uses a qualifier into a double-elimination bracket and single-player format. There are no teams here.
 3. To participate you **must** join the Discord for the duration of the tournament.
-4. Every stage will last one weekend.
+4. Every stage lasts one weekend.
 5. If a player is found to be abusive or rude to other players in the tournament, they may be removed from the tournament at the organiser's discretion. This will never be done without talking to the parties involved. If conduct is bad enough, players may be blacklisted from future tournaments and reported to osu! moderation staff. Trashtalk is fine—harrasment is not.
 6. Any other rules changes or unexpected occurrences will be announced on the Discord server.
-7. Since this is a badged tournament you will only be able to participate after having passed a screening-test for any current or previous suspicious activity from osu!staff. This means that if you've been banned within the last year you will be unable to participate in the tournament.
+7. Since this is a badged tournament, you will only be able to participate after having passed a screening-test for any current or previous suspicious activity from osu!staff. This means that if you've been banned within the last year you will be unable to participate in the tournament.
 
 ### Stage regulations
 
-1. There are seven stages to this tournament: Qualifiers, Round of 32, Round of 16, Quarterfinals, Semifinals, Finals and Grand Finals.
+1. There are seven stages in this tournament: Qualifiers, Round of 32, Round of 16, Quarterfinals, Semifinals, Finals and Grand Finals.
 2. The win-condition for each stage is listed below:
    - Round of 32: Best of 7 (first to 4 points)
    - Round of 16: Best of 7 (first to 4 points)
@@ -78,21 +78,21 @@ The Royal Danish osu!Cup 2020 is run by various community members.
    - Semifinals: Best of 11 (first to 6 points)
    - Finals and Grand Finals: Best of 13 (first to 7 points)
 3. In Round of 32 the highest seeded player will be playing against the lowest seeded, the second highest against the second lowest, and so on (#1 vs #32, #2 vs #31, #3 vs #30 ... #16 vs #17).
-4. If a player no-shows their match in Round of 32 they will be replaced by the best performing player in the fallback category. If a player no-shows in later matches they will forfeit the match.
+4. If a player no-shows in their match in Round of 32 they will be replaced by the best performing player in the fallback category. If a player no-shows in later matches, they will forfeit the match.
 5. In the Grand Finals the player from the Loser's Bracket must first beat the player from the Winner's Bracket to force a bracket-reset, before playing for the final win.
 
 ## Qualifier regulations
 
 1. Qualifiers will have a 10 minute max buffer-room to accommodate any delayed players.
 2. For any players who are still unable to join their assigned lobby, they will have the option of rescheduling to a later lobby, unless their assigned lobby is the last one.
-3. Players must finish their lobby in one run and will **NOT** be given second chances should issues arise halfway through a lobby. If this is to happen please contact organisers and something may be figured out.
-4. Seeding is determined from qualifier performance based on a pointsystem. If you have the highest score on a map you get 32 points. If you have the second highest score on a map you get 31 points. 30 points for the third highest score on a map, and so on. If you are placed 33 highest, you don't get any points. This happens for every map in the qualifier pool. In the end we sum all players points together to form their seed. The 32 highest seeded players will be participating in the tournament. All other players are placed into the fallback category as potential replacements.
+3. Players must finish their lobby in one run and will **NOT** be given second chances should issues arise halfway through a lobby. If this happens, please contact organisers and something may be figured out.
+4. Seeding is determined from qualifier performance based on a point system. If you have the highest score on a map you get 32 points. If you have the second highest score on a map you get 31 points. 30 points for the third highest score on a map, and so on. If you are placed 33rd highest, you don't get any points. This happens for every map in the qualifier pool. In the end, all players points are summed to form their seeds. The 32 highest seeded players will be participating in the tournament. All other players are placed into the fallback category as potential replacements.
 
 ### Match regulations
 
 1. A private lobby will be created for your match, and both players will be invited approx. 10 minutes before their appointed time by a referee.
-2. If the scheduled referee is unavailable and there are no other referees available, the match can be postponed. Make sure to contact organisers if this is to happen.
-3. Matches will played with **Score V2**, **Team VS** and **NoFail**.
+2. If the scheduled referee is unavailable and there are no other referees available, the match can be postponed. Make sure to contact organisers if this happens.
+3. Matches will be played with **Score V2**, **Team VS** and **NoFail**.
 4. Players have 15 minutes to show up to their scheduled match. If the opponent doesn't show up, the player who was supposed to play automatically advances onwards.
 5. Each player can request one warmup map, but it must be **below 4 minutes** (does not apply to Qualifiers, as there are no warmups).
 6. After warmups each player will `!roll`:
@@ -100,7 +100,7 @@ The Royal Danish osu!Cup 2020 is run by various community members.
    - The first person to pick will be the player who rolled the lower number. The players will then alternate picks. (Low -> High -> Low -> High -> ...)
 7. Each player has two bans.
 8. A player cannot ban a map from the same category twice.
-9. A player cannot pick the same mod twice in a row, with the exception of Nomod.
+9. A player cannot pick the same mod twice in a row, with the exception of NoMod.
 10. In case of a tie with one point remaining, the Tiebreaker will be played.
 11. If both players get the same score on a Tiebreaker, the Tiebreaker will be replayed.
 12. When FreeMod is picked each player must use at least one mod. Allowed mods are: FL, HD, HR.
