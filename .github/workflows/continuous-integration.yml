@@ -25,7 +25,7 @@ jobs:
 
           # set up sparse checkout
           git sparse-checkout init
-          git sparse-checkout set '**/*.md' '**/.remark*' '**/*.json'
+          git sparse-checkout set '**/*.md' '**/.remark*' '**/*.json' '**/*.yaml'
 
           # fetch the merge commit ref
           git -c protocol.version=2 fetch --no-tags --prune --progress --depth=2 origin +${GITHUB_SHA}:refs/remotes/origin/${BRANCH}
@@ -72,3 +72,8 @@ jobs:
       - name: run remark on changed files
         # stdout is discarded (remark prints files being checked there)
         run: git diff --diff-filter=d --name-only ${{ github.sha }}^ ${{ github.sha }} '*.md' | xargs npx remark -qf --no-stdout --silently-ignore --report=vfile-reporter-position --color
+
+      - name: YAML Lint
+        uses: ibiqlik/action-yamllint@v1.0.0
+        with:
+          config_file: .yamllint.yaml
