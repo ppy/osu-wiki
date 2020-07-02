@@ -26,13 +26,13 @@ On the selection screen, mods are seperated into three categories: `Difficulty R
 
 Each of the following mods listed will have the compitable game modes' icon (![][o!s] ![][o!t] ![][o!c] ![][o!m]) next to it.
 
-**Difficulty Reduction:** <!-- should i use headers (###) or bold? test it! -->
+### Difficulty Reduction: <!-- should i use headers (###) or bold? test it! -->
 
 - [Easy (EZ)](/wiki/Game_Modifiers/Easy) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 - [No-Fail (NF)](/wiki/Game_Modifiers/NoFail) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 - [Half-Time (HT)](/wiki/Game_Modifiers/HalfTime) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 
-**Difficulty Increase:**
+### Difficulty Increase:
 
 - [Hard Rock (HR)](/wiki/Game_Modifiers/Hard_Rock) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 - [Sudden Death (SD)](/wiki/Game_Modifiers/Sudden_Death) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
@@ -43,7 +43,7 @@ Each of the following mods listed will have the compitable game modes' icon (![]
   - [Fade-in (FI)](/wiki/Game_Modifiers/Fadein) ![][o!m]
 - [Flashlight (FL)](/wiki/Game_Modifiers/Flashlight) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 
-**Special:**
+### Special:
 
 - [Relax (RX)](/wiki/Game_Modifiers/Relax) ![][o!s] ![][o!t] ![][o!c]
 - [Auto Pilot (AP)](/wiki/Game_Modifiers/Auto_Pilot) ![][o!s] ![][o!t] ![][o!c]
@@ -56,7 +56,7 @@ Each of the following mods listed will have the compitable game modes' icon (![]
 - [ScoreV2 (SV2)](/wiki/Game_Modifiers/ScoreV2) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 - [Target Practice (TP)](/wiki/Game_Modifiers/Target_Practice) ![][o!s] **Cutting Edge only**
 
-**Old Mods:**
+### Old Mods:
 
 *Note: these mods were used and available some time ago, but are now unavailable.*
 
