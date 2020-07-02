@@ -77,3 +77,8 @@ Each of the following mods listed will have the compitable game modes' icon (![]
   - [Flashlight is back!](https://osu.ppy.sh/community/forums/topics/41519)
   - [Flashlight mod disabled #2](https://osu.ppy.sh/community/forums/topics/41039) <!-- I'm not entirely sure what to do for these two links -->
 - By using the Co-op mod, it is entirely possible to increase the key count in osu!mania to 18 Keys (9K mod -> 9K + 9K = 18K). Though this is only applied to non-specific difficulties.
+
+[o!s]: /wiki/shared/mode/osu.png "osu!standard"
+[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
+[o!c]: /wiki/shared/mode/catch.png "osu!catch"
+[o!m]: /wiki/shared/mode/mania.png "osu!mania"
