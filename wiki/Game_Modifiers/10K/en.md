@@ -40,7 +40,4 @@ The **10K** mod was a [game modifier](/wiki/Game_Modifiers) for [osu!mania](/wik
 
 <!-- placeholder -->
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
