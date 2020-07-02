@@ -426,7 +426,7 @@ Sunday, 7 June 2020:
 6. In the case of a tie, the tiebreaker beatmap will be played.
    - For the Grand Finals tiebreaker, there will be 3 tiebreaker beatmaps. The captain from each team will privately message the referee to ban one of those beatmaps.
    - If both teams ban the same beatmap, the referee will use "!roll" to randomly select 1 of the remaining 2 tiebreaker beatmaps to be played.
-   - If the taems ban different beatmaps, the remaining beatmap will be played.
+   - If the teams ban different beatmaps, the remaining beatmap will be played.
 
 ### Mappool instructions
 
