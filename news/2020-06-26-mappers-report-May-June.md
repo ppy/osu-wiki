@@ -128,30 +128,30 @@ An example of a map which culminates this is their rendition of [Sta - 99 Glooms
 
 ## <a id="mapping-contests"></a>Mapping Contests
 
-Get your editor ready. The mapping contests are here! Whether you are a veteran or making your first steps in mapping, contests are for everyone! In this section you can see what contests have been held in May and June or are ongoing!
+Get your editor ready. The mapping contests are here! Whether you are a veteran or making your first steps in mapping, contests are for everyone! In this section you can see what contests were held in May and June or are ongoing!
 
 ### Monthly Beatmapping Contests
 
-The [Monthly Beatmapping Contests](https://osu.ppy.sh/help/wiki/Contests/Monthly_Beatmapping_Contest) (MBC) gives to you your monthly dose of mapping competitions. Each month's contest features a different mapping limitation that entries must adhere to.
+The [Monthly Beatmapping Contests](https://osu.ppy.sh/help/wiki/Contests/Monthly_Beatmapping_Contest) (MBC) give you your monthly dose of mapping competitions. Each month's contest features a different mapping limitation that entries must adhere to.
 
-The April's contest results are out and we congratulate [hypercyte](https://osu.ppy.sh/users/9155377) for winning and getting his Tier 2 badge! Good job also to [fanzhen0019](https://osu.ppy.sh/users/418699) for being community vote runner-up and [Acylica](https://osu.ppy.sh/users/1943309) for being the screening crew favorite!
+The April's contest results are out and we congratulate [hypercyte](https://osu.ppy.sh/users/9155377) for winning and getting his Tier 2 badge! Good job to [fanzhen0019](https://osu.ppy.sh/users/418699) as well for being the community vote runner-up and [Acylica](https://osu.ppy.sh/users/1943309) for being the screening crew favorite!
 
-The May and June Montly Beatmapping Contests have both of their submission phases concluded and we hope to see the results soon. Once they are out we'll be sure to let you know!
+The May and June Montly Beatmapping Contests both have their submission phases concluded and we hope to see the results soon. Once they are out, we'll be sure to let you know!
 
 ### osu! Mapping Olympiad #7: osu!mania
 
 Keyboard mashers, rise up! It's your time to shine!
-The [osu! Mapping Olympiad](https://osu.ppy.sh/home/news/2020-06-06-osu-mapping-olympiad-7-mania) is a returning mapping contest which features a different game mode with every version. And this time only for the osu!mania mappers out there!
+The [osu! Mapping Olympiad](https://osu.ppy.sh/home/news/2020-06-06-osu-mapping-olympiad-7-mania) is a returning mapping contest which features a different game mode in every installment. This time only for the osu!mania mappers out there!
 
 Luring all mappers out there with Olympiad points for the top 3, which awards the Mapping Olympiad badge, and for the winner an unique user title, the "Elite Mapper"!
 
-Do you have what it takes to be the next "Elite Mapper"? Then jump right into it, grab one of the pre-timed .osz and start to map! We're excited to see all the mania maps!
+Do you have what it takes to become the next "Elite Mapper"? Then jump right into it, grab one of the pre-timed .osz and start mapping! We're excited to see all your maps!
 
 ### Aspire V
 
 The Category Stage Voting of the Aspire V mapping contest is currently open! Out of all submissions, 9 unique categories were created with each having 5 hand picked beatmaps. Make sure to check all of them out and vote for your favorite. You can find the categories, links to the voting pages and downloads in the [Aspire V - Category Stage Voting](https://osu.ppy.sh/home/news/2020-06-22-aspire-v-category-stage-voting) newspost.
 
-But make sure to hurry, only roughly a week is left! 
+Make sure to hurry up, there's roughly a week left! 
 
 ### 2020 osu!catch Mapping World Cup
 
@@ -165,12 +165,12 @@ Coming soon to a Cozy Mappers' Café near you is the latest contest in their ser
 
 ### lu^3 Mapping Cup
 
-Three time's the charm! The [lululu Mapping Cup](https://osu.ppy.sh/community/forums/topics/1086878) with it's 3rd edition has returned! This is a mapping contest for the osu! game mode only, featuring a specific song theme with every contest! This year's contest is using the "Swing Beat" theme.
-This contests has also something special. It can have two winners! One winner will be selected from the Taiwanese participants, the other winner will be selected by anyone. That's right, everyone is allowed to participate in the contest! 
+Third time's the charm! The [lululu Mapping Cup](https://osu.ppy.sh/community/forums/topics/1086878) has returned  with its 3rd edition! This is a mapping contest for the osu! game mode only, featuring a specific song theme in every installment! This year's contest is using the "Swing Beat" theme.
+This contest also has something special. There can be two winners! One winner will be selected from the Taiwanese participants, the other winner will be selected from every contestant. That's right, everyone is allowed to participate in this contest! 
 
-So what are you waiting for, grab the pre-timed .osz and join in! Supporter and maybe even a profile badge is waiting for you!
+So what are you waiting for, grab the pre-timed .osz and join in! osu!supporter tag and maybe even a profile badge is waiting for you!
 
-Are there any other mapping contests going on? Or being announced soon? Please let us know! We would love to give it more attention to the public. No matter if it's mode or language specific. Head over to the [forum post](https://osu.ppy.sh/community/forums/topics/1027590) where you can find the submission form for it. 
+Are there any other mapping contests going on? Or being announced soon? Please let us know! We would love to give them more attention to the public. No matter if it's mode or language specific. Head over to the [forum post](https://osu.ppy.sh/community/forums/topics/1027590) where you can find the submission form for them. 
 
 We hope to see a lot of exciting mapping contests in the future!
 
