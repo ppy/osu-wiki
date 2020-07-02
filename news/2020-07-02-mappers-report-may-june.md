@@ -30,7 +30,7 @@ As every month we keep you up to date with the changes in the Ranking Criteria. 
 
 - **[Intuitive Reverse Arrow Movement](https://osu.ppy.sh/community/forums/topics/1033709?start=unread):** Reverse Arrows now have to point into the direction in which the slider ball moves after hitting it.
 - **[Restrictions on "accelerating" sliders](https://osu.ppy.sh/community/forums/topics/1060629?n=1):** A small clarification that the slider path has to be always visible.
-- **[Circle size](https://osu.ppy.sh/community/forums/topics/1082308):** You asked for it and here it is! It's been a long time, since there was a ranked map with a circle size higher than 7. Now we will hopefully see some more coming soon! 
+- **[Circle size](https://osu.ppy.sh/community/forums/topics/1082308):** You asked for it and here it is! It's been a long time since there was a ranked map with a circle size higher than 7. Now we will hopefully see some more coming soon! 
 
 ### osu!catch
 
@@ -75,9 +75,9 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com/) and a
 
 ### BN Departures
 
-- **osu!:** [Affirmation](https://osu.ppy.sh/users/6186628)
-- **osu!taiko:** [Cynplytholowazy](https://osu.ppy.sh/users/3901754) & [Gamelan4](https://osu.ppy.sh/users/9856910)
-- **osu!catch:** [-Luminate](https://osu.ppy.sh/users/4778689)
+- **osu!:** [Affirmation](https://osu.ppy.sh/users/6186628), [Namki](https://osu.ppy.sh/users/5248582) & [wafer](https://osu.ppy.sh/users/9416836)
+- **osu!taiko:** [Cynplytholowazy](https://osu.ppy.sh/users/3901754), [Gamelan4](https://osu.ppy.sh/users/9856910) & [Metzo](https://osu.ppy.sh/users/10633982)
+- **osu!catch:** [-Luminate](https://osu.ppy.sh/users/4778689) & [Lacrima](https://osu.ppy.sh/users/4915649)
 - **osu!mania:** [\_Kobii](https://osu.ppy.sh/users/6209713) & [Unpredictable](https://osu.ppy.sh/users/7560872)
 
 ### BN and QAT/NAT Badges
