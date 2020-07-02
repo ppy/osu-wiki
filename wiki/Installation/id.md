@@ -57,7 +57,7 @@ Ada dua cara untuk menambahkan beatmap, melalui situs web atau osu!direct (memer
 3. Klik dua kali pada lagu yang dipilih atau klik `Unduh` di sebelah kanan untuk mengunduhnya.
    - Jika kamu tidak ingin mengunduh video yang tergabung dalam beatmapset-nya, klik `DL NoVideo`.
 4. Saat osu! selesai mengunduh beatmapset, osu! secara otomatis akan memuatnya.
-    - Jika, kamu tidak dapat melihatnya, tekan `F5` dalam Mode [Solo](/wiki/Interface#song-selection-screen) untuk memproses kembali semua beatmapmu.
+   - Jika, kamu tidak dapat melihatnya, tekan `F5` dalam Mode [Solo](/wiki/Interface#song-selection-screen) untuk memproses kembali semua beatmapmu.
 
 ## Menambahkan skins
 
