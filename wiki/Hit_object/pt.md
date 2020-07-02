@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Hit Objects
 
 Um hit object (objeto de batida) é o elemento núcleo de jogabilidade no osu!. Existem três tipos de objetos:

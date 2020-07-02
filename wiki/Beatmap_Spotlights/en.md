@@ -46,14 +46,18 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
 - ![][flag_FR] [Arrival](https://osu.ppy.sh/users/1694000)
 - ![][flag_JP] [Charlotte](https://osu.ppy.sh/users/3686901)
 - ![][flag_DE] [Greenshell](https://osu.ppy.sh/users/8693851)
+- ![][flag_HK] [Nardoxyribonucleic](https://osu.ppy.sh/users/876419)
+- ![][flag_DE] [Nepuri](https://osu.ppy.sh/users/6637817)
 - ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737)
 
 ### osu!catch curators
 
 - ![][flag_ES] **[Deif](https://osu.ppy.sh/users/318565)**
 - ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508)
-- ![][flag_CL] [lineqtxz](https://osu.ppy.sh/users/989542)
+- ![][flag_CA] [SadEgg](https://osu.ppy.sh/users/10278243)
 - ![][flag_SG] [Sinnoh](https://osu.ppy.sh/users/4236057)
+- ![][flag_US] [Snowless](https://osu.ppy.sh/users/4316266)
+- ![][flag_US] [wonjae](https://osu.ppy.sh/users/5032045)
 
 ### osu!mania Curators
 
@@ -61,6 +65,7 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
 - ![][flag_AU] [CrumpetFiddler](https://osu.ppy.sh/users/3518705)
 - ![][flag_TH] [HowToPlayLN](https://osu.ppy.sh/users/10879600)
 - ![][flag_DO] [Kaito-kun](https://osu.ppy.sh/users/4715184)
+- ![][flag_PH] [lenpai](https://osu.ppy.sh/users/5314573)
 - ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098)
 - ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767)
 
@@ -188,15 +193,17 @@ The project lead has changed several times in its history. ![][flag_US] [Sapphir
 Renamed to [Beatmap Spotlights](https://osu.ppy.sh/home/news/2017-03-18-introducing-to-you-spotlights) in March 2017, the system itself stayed mostly consistent while adding additional rewards like medals and enhancing the presentation of the Beatmap Spotlights furtherly. During an internal overhaul of the Quality Assurance Team, the responsibility for the project has been reassigned to ![][flag_HU] [Kurokami](https://osu.ppy.sh/users/260933) and re-implemented a community-based selection team. In November 2018, the frequency of the Spotlights have been changed to a [seasonal release cycle](https://osu.ppy.sh/home/news/2018-11-01-beatmap-spotlights-summer-2018). In March 2020, ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) rejoined the project lead together with Kurokami, both reworking it into a new shape and assembling a new team of osu! curators.
 
 [flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
+[flag_CA]: /wiki/shared/flag/CA.gif
 [flag_CN]: /wiki/shared/flag/CN.gif
 [flag_DE]: /wiki/shared/flag/DE.gif
 [flag_ES]: /wiki/shared/flag/ES.gif
 [flag_FI]: /wiki/shared/flag/FI.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_GB]: /wiki/shared/flag/GB.gif
+[flag_HK]: /wiki/shared/flag/HK.gif
 [flag_JP]: /wiki/shared/flag/JP.gif
 [flag_MX]: /wiki/shared/flag/MX.gif
+[flag_PH]: /wiki/shared/flag/PH.gif
 [flag_PL]: /wiki/shared/flag/PL.gif
 [flag_SG]: /wiki/shared/flag/SG.gif
 [flag_TH]: /wiki/shared/flag/TH.gif

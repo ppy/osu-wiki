@@ -226,6 +226,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-06-01: Removed [Pawsu](https://osu.ppy.sh/users/2371454) from **Support Team**
 - 2020-06-02: Added [abraker](https://osu.ppy.sh/users/4635891) to **GMT**
 - 2020-06-17: Added [RockRoller](https://osu.ppy.sh/users/8388854) to **GMT**
+- 2020-06-24: Moved [Laurakko](https://osu.ppy.sh/users/7253731) from **osu! Alumni** to **GMT**
 
 ### Beatmap Nominators
 
@@ -239,6 +240,9 @@ Abbreviations for user groups are used throughout this log:
 - 2020-06-14: Added [Secre](https://osu.ppy.sh/users/2306637) to **Probationary BN**
 - 2020-06-17: Added [Elayue](https://osu.ppy.sh/users/6400861) to **Probationary BN**
 - 2020-06-17: Added [NexusQI](https://osu.ppy.sh/users/13822800) to **Probationary BN**
+- 2020-06-19: Added [Bastian](https://osu.ppy.sh/users/6345176) to **Probationary BN**
+- 2020-06-22: Added [Garalulu](https://osu.ppy.sh/users/757783) to **Probationary BN**
+- 2020-06-22: Added [Muse Dash](https://osu.ppy.sh/users/13695676) to **Probationary BN**
 
 #### Moves
 
@@ -246,10 +250,21 @@ Abbreviations for user groups are used throughout this log:
 - 2020-06-02: Moved [Sun](https://osu.ppy.sh/users/4115819) from **Probationary BN** to **BN**
 - 2020-06-05: Moved [Stefan](https://osu.ppy.sh/users/626907) from **BN** to **Probationary BN**
 - 2020-06-08: Moved [Yales](https://osu.ppy.sh/users/2377881) from **BN** to **Probationary BN**
+- 2020-06-23: Moved [Teky](https://osu.ppy.sh/users/10520912) from **Probationary BN** to **BN**
+- 2020-06-23: Moved [realy0\_](https://osu.ppy.sh/users/8863359) from **Probationary BN** to **BN**
+- 2020-06-23: Moved [DeviousPanda](https://osu.ppy.sh/users/4966334) from **Probationary BN** to **BN**
+- 2020-06-23: Moved [Mirash](https://osu.ppy.sh/users/2841009) from **Probationary BN** to **BN**
+- 2020-06-23: Moved [Nevo](https://osu.ppy.sh/users/7451883) from **Probationary BN** to **BN**
+- 2020-06-23: Moved [Stixy](https://osu.ppy.sh/users/9000308) from **Probationary BN** to **BN**
+- 2020-06-26: Moved [PokeSky](https://osu.ppy.sh/users/3617111) from **Probationary BN** to **BN**
+- 2020-06-28: Moved [Hoshikuz](https://osu.ppy.sh/users/9892196) from **BN** to **Probationary BN**
 
 #### Removals
 
 - 2020-06-05: Removed [Gamelan4](https://osu.ppy.sh/users/9856910) from **Probationary BN**
 - 2020-06-13: Removed [Metzo](https://osu.ppy.sh/users/10633982) from **Probationary BN**
+- 2020-06-20: Removed [wafer](https://osu.ppy.sh/users/9416836) from **BN**
+- 2020-06-22: Removed [-Luminate](https://osu.ppy.sh/users/4778689) from **Probationary BN**
+- 2020-06-23: Removed [Unpredictable](https://osu.ppy.sh/users/7560872) from **BN**
 
-<!-- last update: 2020-06-15 5UTC added secre to probationary bn -->
+<!-- last update: 2020-06-28 6 UTC moved hoshikuz to probationary bn -->

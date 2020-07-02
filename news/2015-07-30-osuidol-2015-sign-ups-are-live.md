@@ -13,9 +13,9 @@ osu!idol is a contest where contestants as a solo or a duet sing their way to th
 
 ## What can I win?
 
-+ **1st**: Profile Badge + 3 months supporter tag
-+ **2nd**: 2 months supporter tag
-+ **3rd**: 1 month supporter tag
+- **1st**: Profile Badge + 3 months supporter tag
+- **2nd**: 2 months supporter tag
+- **3rd**: 1 month supporter tag
 
 ## Where do I join?
 

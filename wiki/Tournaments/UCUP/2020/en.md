@@ -16,8 +16,8 @@ The **Ulat Bulu Cup 2020** (***UCUP 2020***) is an Indonesian double-elimination
 | --: | :-- |
 | Registration phase | 2020-05-11/2020-05-24 |
 | Group Stage | 2020-06-02/2020-06-14 |
-| Quarterfinals | 2020-06-19/2020-06-21 |
-| Semifinals | 2020-06-26/2020-06-28 |
+| Quarterfinals | 2020-06-19/2020-06-22 |
+| Semifinals | 2020-06-26/2020-06-29 |
 | Finals | 2020-07-03/2020-07-05 |
 | Grand Finals | 2020-07-10/2020-07-12 |
 
@@ -85,7 +85,90 @@ The Ulat Bulu Cup 2020 is run by various community members.
 | **C** | Tim Ayam | (; ･`д･´) | Press 3 Fs to pay respects | Hulat | host toxic ccd |
 | **D** | terserah | Kowok Gamers | WHOMEGALUL | AutisNgopi4Hed | ABC Team |
 
+## Match schedules: Finals
+
+Saturday, 4 July 2020:
+
+| Match ID | Team 1 | Team 2 | Match time (UTC+7) |
+| :-: | --: | :-- | :-- |
+| L12 | Tim Ayam | Em1ruBigDumb | **18:30** |
+| W7 | awan fanclub | terserah | **20:00** |
+| L11 | Press 3 Fs to pay respects | WHOMEGALUL | **21:00** |
+
+Sunday, 5 July 2020:
+
+| Match ID | Team 1 | Team 2 | Match time (UTC+7) |
+| :-: | --: | :-- | :-- |
+| L13¹ | Winner of L11 | Winner of L12 | **20:00** |
+
+¹ Encounter dependent on winner of Match L11 and Match L12  
+
 ## Mappools
+
+### Finals
+
+**[Download the mappack here! (155 MB)](https://drive.google.com/file/d/1NtjzZWlGN7tHZBYbqBtaR9aI84S7HEHp/view?usp=sharing)**
+
+- NoMod
+  - [Eve - Gekka\*Midare Botan (Meg) \[Meg&Roll\_Pan's E-Xtra\]](https://osu.ppy.sh/beatmapsets/530685#osu/1124857)
+  - [HyuN - White Aura (Mirash) \[Expert\]](https://osu.ppy.sh/beatmapsets/891333#osu/1863201)
+  - [REDALiCE feat. MONICO - Breakin' Chain (Yusomi) \[Acyl & Ameth's Extra\]](https://osu.ppy.sh/beatmapsets/943867#osu/2386199)
+  - [Zekk - Libertas (Livia) \[Future\]](https://osu.ppy.sh/beatmapsets/954742#osu/1993172)
+  - [RoughSketch feat. Aikipin - Alice in Voodooland (tpz Despair Remix) (JeZag) \[Fear\]](https://osu.ppy.sh/beatmapsets/678481#osu/1434586)
+  - [SEVENTEEN - VERY NICE (Natsu) \[AJU NICE\]](https://osu.ppy.sh/beatmapsets/618500#osu/1303748)
+- Hidden
+  - [mafumafu - Kakushigoto (Vert) \[Kouhai no Koibumi.\]](https://osu.ppy.sh/beatmapsets/770023#osu/1618986)
+  - [TORIENA - RAT RACE (Acyl) \[Team :3c's Extra\]](https://osu.ppy.sh/beatmapsets/1027510#osu/2148690)
+  - [DECO\*27 - Otome Dissection feat. Hatsune Miku (YelloJello) \[SOS\]](https://osu.ppy.sh/beatmapsets/913720#osu/1908618)
+  - [bbn - Identic Conflict (Myxo) \[LMT's Another\]](https://osu.ppy.sh/beatmapsets/1020429#osu/2135438)
+- HardRock
+  - [LiSA - EGOiSTiC SHOOTER (Asphyxia) \[CRN's Extra\]](https://osu.ppy.sh/beatmapsets/253313#osu/588975)
+  - [LeaF - Evanescent (Anxient) \[Rohit's Extra\]](https://osu.ppy.sh/beatmapsets/440997#osu/958282)
+  - [F.E.L - Yours (Mir) \[XO\]](https://osu.ppy.sh/beatmapsets/805921#osu/1691606)
+  - [Kucchi vs Akki - Yakumo >>JOINT STRUGGLE (Muya) \[Another\]](https://osu.ppy.sh/beatmapsets/688877#osu/1463054)
+- DoubleTime
+  - [\*NSYNC - Bye Bye Bye (0\_o) \[0\_o\]](https://osu.ppy.sh/beatmapsets/11523#osu/53461)
+  - [Shano x 40mP - Kiritorisen (Frostmourne) \[Insane\]](https://osu.ppy.sh/beatmapsets/79307#osu/221409)
+  - [Two Door Cinema Club - Cigarettes In The Theatre (Lesjuh) \[Insane\]](https://osu.ppy.sh/beatmapsets/37461#osu/120461)
+  - [TWICE - LIKEY (ailv) \[Tatan's Insane\]](https://osu.ppy.sh/beatmapsets/814038#osu/1714760)
+- FreeMod
+  - [UNDEAD CORPORATION - Yoru Naku Usagi wa Yume o Miru (Smoothie) \[CRN's Extra\]](https://osu.ppy.sh/beatmapsets/58951#osu/178645)
+  - [Brookes Brothers feat. Georgie Allen - New Wave (Mir) \[Yusomi's Extra\]](https://osu.ppy.sh/beatmapsets/961042#osu/2043907)
+  - [Tanchiky - Sanshi Suimei (nika mika) \[Miyabi\]](https://osu.ppy.sh/beatmapsets/811685#osu/1702581)
+  - [David Hasselhoff - True Survivor (Crimmi) \[Extra Survivors\]](https://osu.ppy.sh/beatmapsets/321460#osu/738978)
+- Tiebreaker
+  - **[USAO - USAO ULTIMATE HYPER MEGA MIX (Realazy) \[REAL x ALHEAK'S ULTIMATE HYPER MEGA COLLAB\]](https://osu.ppy.sh/beatmapsets/943354#osu/1970040)**
+
+### Semifinals
+
+**[Download the mappack here! (129 MB)](https://drive.google.com/file/d/1zUjGZ202wRVbnsi5JEO0AnJUlTf_H_ma/view?usp=sharing)**
+
+- NoMod
+  - [Twin-Tails - Twintail Dreamer! (Minorsonek) \[diuS' Expert\]](https://osu.ppy.sh/beatmapsets/773026#osu/1680262)
+  - [xi - Solar Storm (sdafsf) \[Eruption\]](https://osu.ppy.sh/beatmapsets/566408#osu/1226904)
+  - [USAO - Boss Rush (Lavender) \[Moecho's Blitz Surge Extra\]](https://osu.ppy.sh/beatmapsets/619807#osu/1306399)
+  - [Shikata Akiko - Ta ga Tame no Sekai (miIk) \[Extra\]](https://osu.ppy.sh/beatmapsets/999727#osu/2404820)
+  - [Igorrr - Houmous (Hobbes2) \[LMT's Extra\]](https://osu.ppy.sh/beatmapsets/703568#osu/1647345)
+  - [The Flashbulb - DIDJ PVC (Irreversible) \[Polka's EX I\]](https://osu.ppy.sh/beatmapsets/966078#osu/2061428)
+- Hidden
+  - [Minamotoya feat. Kuroa\* - Hana Kagerou (404 AimNotFound) \[Petals\]](https://osu.ppy.sh/beatmapsets/929130#osu/1963382)
+  - [P\*Light - TRIGGER*HAPPY (MineC24) \[EXHAUST\]](https://osu.ppy.sh/beatmapsets/74671#osu/211903)
+  - [isubokuro - Aun no Beats (Beren) \[buhei's Extra\]](https://osu.ppy.sh/beatmapsets/1153984#osu/2425703)
+- HardRock
+  - [The Eden Project - Lost (Bearizm) \[Escapism\]](https://osu.ppy.sh/beatmapsets/247747#osu/835941)
+  - [The Chainsmokers & Bebe Rexha - Call You Mine (Hibell Remix) (Asphyxia) \[Away\]](https://osu.ppy.sh/beatmapsets/1059539#osu/2218778)
+  - [Eoin O' Broin - Oblivion (DoKoLP) \[Insane\]](https://osu.ppy.sh/beatmapsets/37222#osu/119853)
+- DoubleTime
+  - [Last Note. feat.GUMI - Osanana Blue (-Kamikaze-) \[51 Days\]](https://osu.ppy.sh/beatmapsets/283155#osu/640211)
+  - [Lon - Mischievous Function (gowww) \[Insane\]](https://osu.ppy.sh/beatmapsets/27441#osu/92037)
+  - [Harutya - Furaregaigirl (Rieri) \[cruelty\]](https://osu.ppy.sh/beatmapsets/934838#osu/1951646)
+  - [Memme - Chinese Restaurant (M o k o r i) \[Hyper\]](https://osu.ppy.sh/beatmapsets/256467#osu/645355)
+- FreeMod
+  - [Suzumu - Kakumeisei ousama densenbyou (tutuhaha) \[AngelHoney's Extra\]](https://osu.ppy.sh/beatmapsets/307686#osu/701528)
+  - [UNDEAD CORPORATION - Kasha no Sakebu Yoru ni (Xexxar) \[Extra\]](https://osu.ppy.sh/beatmapsets/673713#osu/2143901)
+  - [A.SAKA - Nanatsu Issenzakura (yf\_bmp) \[Ayaya's Expert\]](https://osu.ppy.sh/beatmapsets/513731#osu/1493332)
+- Tiebreaker
+  - **[Traktion - Gid V (EphemeralFetish) \[Fragment Collab\]](https://osu.ppy.sh/beatmapsets/879767#osu/1839789)**
 
 ### Quarterfinals
 
@@ -148,6 +231,61 @@ The Ulat Bulu Cup 2020 is run by various community members.
   - **[aran - Moonbound feat. Yukacco (USAO Remix) (z1085684963) \[PENDULUMs\]](https://osu.ppy.sh/beatmapsets/986982#osu/2064636)**
 
 ## Match results
+
+### Semifinals
+
+Friday, 26 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| retards united | 1 | **7** | **(; ･`д･´)** | [#1](https://osu.ppy.sh/community/matches/63395189) |
+| Kowok Gamers | 4 | **7** | **Em1ruBigDumb** | [#1](https://osu.ppy.sh/community/matches/63395615) |
+| **terserah** | **7** | 0 | Tim Ayam | [#1](https://osu.ppy.sh/community/matches/63397339) |
+
+Sunday, 28 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **awan fanclub** | **7** | 5 | Press 3 Fs to pay respects | [#1](https://osu.ppy.sh/community/matches/63463514) |
+| **Em1ruBigDumb** | **7** | 3 | (; ･`д･´) | [#1](https://osu.ppy.sh/community/matches/63471446) |
+| A B B C | 2 | **7** | **WHOMEGALUL** | [#1](https://osu.ppy.sh/community/matches/63471646) |
+| **DARAWET ANJENG** | **7** | 4 | pemain\_osu2020 | [#1](https://osu.ppy.sh/community/matches/63473835) |
+
+Monday, 29 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| DARAWET ANJENG | 2 | **7** | **WHOMEGALUL** | [#1](https://osu.ppy.sh/community/matches/63511528) |
+
+### Quarterfinals
+
+Friday, 19 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **terserah** | **7** | 1 | A B B C | [#1](https://osu.ppy.sh/community/matches/63121410) |
+
+Saturday, 20 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| host toxic ccd | -1 | **0** | **pemain\_osu2020** | *win by default* |
+| **awan fanclub** | **7** | 2 | Kowok Gamers | [#1](https://osu.ppy.sh/community/matches/63163586) |
+
+Sunday, 21 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Em1ruBigDumb** | **0** | -1 | AutisNgopi4Hed | *win by default* |
+| **Tim Ayam** | **7** | 1 | DARAWET ANJENG | [#1](https://osu.ppy.sh/community/matches/63196936) |
+| retards united | 0 | **7** | **Press 3 Fs to pay respects** | [#1](https://osu.ppy.sh/community/matches/63202131) |
+| Sumippe's Simp | 3 | **7** | **(; ･`д･´)** | [#1](https://osu.ppy.sh/community/matches/63204230) |
+
+Monday, 22 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **WHOMEGALUL** | **7** | 1 | Eleftharia | [#1](https://osu.ppy.sh/community/matches/63238230) |
 
 ### Group Stage
 

@@ -55,7 +55,7 @@ jobs:
               else
                   echo "::debug::File ${file} is ok."
               fi
-          done < <(git diff --numstat ${{ github.sha }}^ ${{ github.sha }} | grep -Po "\-\t\-\t\K.+$")
+          done < <(git diff --numstat --no-renames --diff-filter=d ${{ github.sha }}^ ${{ github.sha }} | grep -Poe '-\t-\t\K.+')
           # git diff --numstat will output -<TAB>-<TAB>$filename for blobs
 
           exit ${EXIT}
@@ -71,4 +71,4 @@ jobs:
 
       - name: run remark on changed files
         # stdout is discarded (remark prints files being checked there)
-        run: git diff ${{ github.sha }}^ ${{ github.sha }} --name-only '*.md' | xargs npx remark -qf --no-stdout --silently-ignore --report=vfile-reporter-position --color
+        run: git diff --diff-filter=d --name-only ${{ github.sha }}^ ${{ github.sha }} '*.md' | xargs npx remark -qf --no-stdout --silently-ignore --report=vfile-reporter-position --color

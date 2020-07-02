@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Éléments d'une beatmap
 
 Il existe trois principaux **objets** sur osu!, qui constituent l'intégralité du gameplay. Les cercles et les sliders sont très fréquents tandis que les spinners sont plus rares.

@@ -129,6 +129,59 @@ The Intermediate Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
+### Semifinals
+
+**[Download the map pack here! (81 MB)](https://mega.nz/file/upklnJhQ#-YfhkCE1xBeGXxZ4c2CyahuKkxN1l-QfRl1N_v_m2OU)**
+
+- NoMod
+  - [cosMo@bousouP - Nee, Kowareta Ningyou wa Doko e Suterareru no? (Rhytoly) \[Oni?\]](https://osu.ppy.sh/beatmapsets/854011#taiko/1785798)
+  - [Eve - Heart Forecast (Raphalge) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1175679#taiko/2452133)
+  - [t+pazolite - Magical Higan Tour 2009 (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/838744#taiko/1757104)
+  - [Machine Girl - Cloud99 (As Above Mix) (Genjuro) \[Oni\]](https://osu.ppy.sh/beatmapsets/1127497#taiko/2357465)
+  - [NICODE - Nyanya no Uta (Faputa) \[Oni\]](https://osu.ppy.sh/beatmapsets/918651#taiko/1920409)
+  - [Wowkie Zhang - Sunshine, Rainbow, White pony (Cychloryn) \[Sunshine, Rainbow, White oni\]](https://osu.ppy.sh/beatmapsets/1202461#taiko/2504229)
+- Hidden
+  - [SHK - Super Fantasy (aabc271) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/541523#taiko/1148213)
+  - [Culprate - Yellow (A Second Glimpse) (Ulqui) \[Oni\]](https://osu.ppy.sh/beatmapsets/589814#taiko/1761603)
+- HardRock
+  - [Shiron - Deadly Dolly Dance (Bedwyr Aorta) \[komasy's Oni (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/1202631#taiko/2504548)
+  - [DECO\*27 - Ghost Rule feat. Hatsune Miku (Bedwyr Aorta) \[mintong89's Taiko Oni (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/1202626#taiko/2504540)
+- DoubleTime
+  - [meganeko - Computer Blues (Axer) \[Vulkin's Muzukashii\]](https://osu.ppy.sh/beatmapsets/1147128#taiko/2434870)
+  - [Sorry about my face - 161914 (vrnl) \[muzukashii\]](https://osu.ppy.sh/beatmapsets/832971#taiko/1746027)
+- FreeMod
+  - [IOSYS - Sai wa Nagerareta (yea) \[jyake's Oni\]](https://osu.ppy.sh/beatmapsets/932724#taiko/1957538)
+  - [Eagle - Hypersonik (Michiru) \[Oni\]](https://osu.ppy.sh/beatmapsets/985854#taiko/2106170)
+  - [James Landino & Kabuki - Birdsong (Nifty) \[Oni\]](https://osu.ppy.sh/beatmapsets/1010367#taiko/2115067)
+- Tiebreaker
+  - **[WAiKURO - Androgynos (Raytoly) \[Note\]](https://osu.ppy.sh/beatmapsets/666397#taiko/1504541)**
+
+### Quarterfinals
+
+**[Download the map pack here! (76 MB)](https://mega.nz/file/vokwSC5Y#H6k-EQHlw9xV-GRayCpPTrSDTe0lym5oggSAAxym9CM)**
+
+- NoMod
+  - [sky\_delta - Grenade (Nerova Riuz GX) \[Oni\]](https://osu.ppy.sh/beatmapsets/920666#taiko/1937208)
+  - [sasakure.UK - SAMPLING MONSTER feat. Hatsune Miku (tasuke912) \[nass's Oni\]](https://osu.ppy.sh/beatmapsets/740600#taiko/1569534)
+  - [Zou Tian Heng - No.1127 (-OvO-) \[Oni\]](https://osu.ppy.sh/beatmapsets/969775#taiko/2028875)
+  - [ziki\_7 - Leviathan (yassu-) \[Oni\]](https://osu.ppy.sh/beatmapsets/1013884#taiko/2188042)
+  - [kyou1110 vs. Takuya Namba - "Alice in Wonderland" : crazy apple could not live in real life (-Kazu-) \[Oni\]](https://osu.ppy.sh/beatmapsets/742005#taiko/1974557)
+- Hidden
+  - [Xceon - Fuyutsubaki feat. Kanae Asaba (Charlotte) \[Vulkin's Oni\]](https://osu.ppy.sh/beatmapsets/827227#taiko/2260330)
+  - [Camellia - Ultimate Ascension (\_DUSK\_) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/760523#taiko/1957589)
+- HardRock
+  - [M2U feat. NICODE - Breach (\_DUSK\_) \[Oni\]](https://osu.ppy.sh/beatmapsets/957893#taiko/2006052)
+  - [REDALiCE vs USAO - SAIKYO STRONGER (MMzz) \[Chromoxx' Muzukashii\]](https://osu.ppy.sh/beatmapsets/1145432#taiko/2409492)
+- DoubleTime
+  - [KNOWER - Overtime (Zetera) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/927890#taiko/2168075)
+  - [JIN feat. Yoshida Takumi (phatmans after school) - Kuusou Forest (Zhuosh) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1131091#taiko/2364202)
+- FreeMod
+  - [FELT - Oblivion (sendol) \[Oni\]](https://osu.ppy.sh/beatmapsets/897333#taiko/1970355)
+  - [kanone feat. Senzai - Hana to, Yuki to, Drum'n'bass. (Bedwyr Aorta) \[Blackener's Oni (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/1197720#taiko/2494749)
+  - [Sakuzyo - Eater Merry (eiri-) \[Oni\]](https://osu.ppy.sh/beatmapsets/1097688#taiko/2293612)
+- Tiebreaker
+  - **[Camellia - Beyond the Geostationary Orbit Level (Axer) \[2199's Oni\]](https://osu.ppy.sh/beatmapsets/975512#taiko/2042400)**
+
 ### Round of 16
 
 **[Download the map pack here! (93 MB)](https://mega.nz/file/T1tVVbyZ#Cn-uhZgtCiCwQ67HMly9AA9pQQfFxXRiySnPqkr4ikc)**
@@ -195,6 +248,49 @@ The Intermediate Global Taiko Showdown 2020 is run by various community members.
   - [Ayu Ting Ting - Sambalado (Volta) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/542425#taiko/1630672)
 
 ## Match results
+
+### Quarterfinals
+
+Saturday, 27 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| South Korea ![][flag_KR] | 0 | **6** | ![][flag_US] **United States A** | [#1](https://osu.ppy.sh/community/matches/63421179) |
+| Colombia ![][flag_CO] | 1 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/63422713) |
+| United Kingdom ![][flag_GB] | 4 | **6** | ![][flag_CN] **China** | [#1](https://osu.ppy.sh/community/matches/63432343) | Germany B ![][flag_DE] | 0 | **6** | ![][flag_JP] **Japan A** | [#1](https://osu.ppy.sh/community/matches/63437646) |
+| Malaysia A ![][flag_MY] | 1 | **6** | ![][flag_AR] **Argentina A** | [#1](https://osu.ppy.sh/community/matches/63437627) |
+| France A ![][flag_FR] | 4 | **6** | ![][flag_ES] **Spain** | [#1](https://osu.ppy.sh/community/matches/63439535) |
+| **Netherlands** ![][flag_NL] | **6** | 3 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/63443275) |
+
+Sunday, 28 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Singapore** ![][flag_SG] | **6** | 4 | ![][flag_US] United States B | [#1](https://osu.ppy.sh/community/matches/63458873) |
+| **United States B** ![][flag_US] | **6** | 3 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/63460527) |
+| **Germany B** ![][flag_DE] | **6** | 3 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/63473000) |
+| **South Korea** ![][flag_KR] | **6** | 3 | ![][flag_AR] Argentina A | [#1](https://osu.ppy.sh/community/matches/63475724) |
+| **Poland** ![][flag_PL] | **6** | 2 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/63476783) |
+
+### Round of 16
+
+Saturday, 20 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Japan A** ![][flag_JP] | **6** | 4 | ![][flag_AR] Argentina A | [#1](https://osu.ppy.sh/community/matches/63147053) |
+| **United States A** ![][flag_US] | **6** | 1 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/63148472) |
+| **Singapore** ![][flag_SG] | **6** | 0 | ![][flag_FR] France A | [#1](https://osu.ppy.sh/community/matches/63161885) |
+
+Sunday, 21 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States B** ![][flag_US] | **6** | 5 | ![][flag_ES] Spain | [#1](https://osu.ppy.sh/community/matches/63195717) |
+| **Poland** ![][flag_PL] | **6** | 2 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/63198016) |
+| **Germany B** ![][flag_DE] | **6** | 2 | ![][flag_MY] Malaysia A | [#1](https://osu.ppy.sh/community/matches/63202358) |
+| **Netherlands** ![][flag_NL] | **6** | 1 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/63206000) |
+| **South Korea** ![][flag_KR] | **6** | 2 | ![][flag_CO] Colombia | [#1](https://osu.ppy.sh/community/matches/63208390) |
 
 ### Group Stage
 
