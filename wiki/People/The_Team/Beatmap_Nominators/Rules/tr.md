@@ -2,7 +2,7 @@
 
 Burada listelenen kurallar [Beatmap Aday Göstericilerin](/wiki/People/Beatmap_Nominators) beatmapleri aday gösterirken neler yapıp neler yapamayacağını etkiler, aynı zamanda onlardan beklenen genel davranış şeklini belirler. Bu kurallar [Aday Gösterme Denetleme Takımı](/wiki/People/Nomination_Assessment_Team) içerisindeki müzakerelerin bir sonucudur ve Beatmap Aday Göstericilerin geri bildirimleri de göz önüne alınarak oluşturulmuştur.
 
-Beatmap Aday Göstericiler beatmapleri aday göstermek ve resmi listelere eklenmek üzere yeni içeriklerin oluşturulmasını destekleyerek osu!'nun dünyasını şekillendirmek için gerekli yetkileri bulundururlar, bu nedenle her zaman için kurallara uymalıdırlar. Bunlardan herhangi birinin ihlali ilgili Beatmap Aday Göstericinin Beatmap Aday Göstericilerden kaldırılmasına neden olabilir. Bu kuralların ihlali Aday Gösterme Denetleme Takımının bir üyesine doğrudan bildirilebilir.
+Beatmap Aday Göstericiler beatmapleri resmi listelere eklenmek üzere aday göstererek yeni içeriklerin oluşturulmasını destekleyerek osu!'nun dünyasını şekillendirme yetkisine sahiptirler, bu nedenle her zaman kurallara uymalıdırlar. Bu kurallardan herhangi birinin ihlali ilgili Beatmap Aday Göstericinin Beatmap Aday Göstericilerden kaldırılmasına neden olabilir. Bu kuralların ihlali Aday Gösterme Denetleme Takımının bir üyesine doğrudan bildirilebilir.
 
 ## Davranış
 
@@ -29,7 +29,7 @@ Her modun aylık aktivite için kendi asgari gereksinimleri vardır.
 
 ## Aday gösterme
 
-- **Derecelendirilemeyecek sorunları bulunan beatmapleri aday göstermeyin.** Genel Derecelendirme Kriterleri ve ek olarak tüm moda özel Derecelendirme Kriterleri mod-spesifik zorluğu olan tüm setler için geçerlidir.
+- **Derecelendirilemeyecek sorunları olan beatmapleri aday göstermeyin.** Genel Derecelendirme Kriterlerine ek olarak tüm moda özel Derecelendirme Kriterleri, moda özel zorluğu olan tüm setler için geçerlidir.
 - **Katkıda bulunduğunuz beatmap setlerini aday göstermeyin.** Bu sizin kendi beatmapleriniz, birisiyle birlikte yaptığınız zorluklar aynı zamanda storyboard yaptığınız veya vuruş seslendirme yaptığınız beatmapler için de geçerlidir.
 - **Beatmap setinin tüm zorluklarını kendiniz düzgünce kontrol etmeden beatmapi aday göstermeyin.** Eğer bazı zorlukların maplenmiş olduğu oyun moduna yabancıysanız, başka Beatmap Aday Göstericilerden yardım isteyin. Aday göstermeden önce sadece bir modlama aracı çalıştırmak ya da hatta beatmapi bile indirmemek hatalı kontrol sayılır.
 - **Eğer herhangi bir şeyden emin değilseniz beatmapi aday göstermeyin.** Bu gibi durumlarda, acele bir karar vermeden önce başka aday göstericilerden yardım isteyin. Bu, iyi bilinmeyen oyun modlarını, gri alanda bulunan/derecelendirilemez olabilecek şüpheli sorunları, kalite sorunları ya da karmaşık zamanlamaları da içerir.
