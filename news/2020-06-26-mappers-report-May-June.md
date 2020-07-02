@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Mappers' Report: May/June"
-date: 2020-07-02 12:00:00 +0000
+date: 2020-07-02 04:00:00 +0000
 ---
 
 Did you miss us? I bet you did! Sorry for the wait, but here we are again, the fourth and fifth issue of the Mappers' Report in one post! Packed with news and happenings all over the mapping community in osu!. Did your favorite mapper win a contest? Or did the long awaited Ranking Criteria change finally happen? Jump right in and find out!
@@ -75,7 +75,7 @@ Do you want to see your own name on this list? Do you like modding and helping o
 ### BN Resignations
 
 - **osu!:** [Affirmation](https://osu.ppy.sh/users/6186628)
-- **osu!taiko:** [Cynplytholowazy](https://osu.ppy.sh/users/3901754) & [Gamelan4](https://osu.ppy.sh/users/9856910)
+- **osu!taiko:** [Cynplytholowazy](https://osu.ppy.sh/users/3901754)
 - **osu!catch:** [-Luminate](https://osu.ppy.sh/users/4778689)
 - **osu!mania:** [\_Kobii](https://osu.ppy.sh/users/6209713) & [Unpredictable](https://osu.ppy.sh/users/7560872)
 
