@@ -37,14 +37,14 @@ osu!tourney 客户端只支持已经提交的谱面。
    这可能需要一段时间，请耐心等待。
    它将会自动生成 `tournament.cfg` 文件的内容，它将包含以下行：
    
-  ```
-  TeamSize = 4
-  privateserver =
-  acronym = Your tournament name
-  BufferTotalTime = 3000
-  BufferDangerTime = 1000
-  BufferTimeoutTime = 20000
-  ```
+   ```
+   TeamSize = 4
+   privateserver =
+   acronym = Your tournament name
+   BufferTotalTime = 3000
+   BufferDangerTime = 1000
+   BufferTimeoutTime = 20000
+   ```
 
 关闭 osu! 然后编辑或添加您的比赛所需选项，下面列出了全部选项。如果没有明确说明，时间均以毫秒为单位：
 

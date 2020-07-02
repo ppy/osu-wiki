@@ -366,12 +366,12 @@ The osu!mania 4K World Cup 2015 is run by various community members by distribut
 
 1. The osu!mania 4K World Cup is a country-based team tournament, played on the osu!mania game mode on 4-key specific beatmaps.
 2. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
-    - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
-    - All maps are in a FreeMod bracket.
+   - One map will be given as a tiebreaker map. This map will only be played in case of a tie.
+   - All maps are in a FreeMod bracket.
 3. Match schedule will be settled by the Tournament Management (see below).
 4. If no staff or referee is available, the match will be postponed.
 5. Failed players' scores do not get added to the team score.
-    - Reviving and surviving during a map gets considered as passing it.
+   - Reviving and surviving during a map gets considered as passing it.
 6. Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
 7. If the game ends in a draw, the game will be nullified.
 8. If a player disconnects, they get treated as if they failed the map.
@@ -386,29 +386,29 @@ The osu!mania 4K World Cup 2015 is run by various community members by distribut
 ### Tournament Registration
 
 1. Every user interested in joining their country's team signs up individually.
-    - Tournament Management will create a list of potential candidates for a country's team.
-    - Tournament Management declares one candidate to the captain of the country's team, albeit temporarily.
-    - The declared captain can form their team from the candidate list of their country.
+   - Tournament Management will create a list of potential candidates for a country's team.
+   - Tournament Management declares one candidate to the captain of the country's team, albeit temporarily.
+   - The declared captain can form their team from the candidate list of their country.
 2. To ensure valid and serious registrations, every registered user will be checked by the Tournament Management.
-    - Every registered user will be assigned to their respective country's candidate list.
-    - To be successfully accepted on the list, you have to ensure that your global osu!mania performace ranking is above \#5000.
-    - To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
+   - Every registered user will be assigned to their respective country's candidate list.
+   - To be successfully accepted on the list, you have to ensure that your global osu!mania performace ranking is above \#5000.
+   - To be successfully accepted on the list, you have to ensure that you did not violate the [osu! community rules](/wiki/Rules) within the last 12 months.
 3. All successfully formed teams will be published after the Registration Phase.
 4. Mapset selectors may not participate as a player in this tournament.
 
 ### Stage Instructions
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
-    - This may change according to the final amount of formed teams.
+   - This may change according to the final amount of formed teams.
 2. All the teams from each group will face each other.
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
-    - Most matches won.
-    - Have higher `{(the number of maps won) - (the number of maps defeated)}`.
-    - Most maps won.
-    - Have higher `∑{(total score difference) / (maximum score)}`.
-    - Winner of the rematch.
+   - Most matches won.
+   - Have higher `{(the number of maps won) - (the number of maps defeated)}`.
+   - Most maps won.
+   - Have higher `∑{(total score difference) / (maximum score)}`.
+   - Winner of the rematch.
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
-    - This may change with the actual Group Stage setup.
+   - This may change with the actual Group Stage setup.
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
 
@@ -421,38 +421,38 @@ The osu!mania 4K World Cup 2015 is run by various community members by distribut
 | Grand Finals | P, Q |
 
 7. The **Winning conditions** for each stage will be:
-    - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
-    - In the Round of 16 and the Quarterfinals, you need to win 5 maps to win a match. (Best-of-9)
-    - In Semifinals and Finals, you need to win 6 maps to win a match. (Best-of-11)
-    - In Grand Finals, you need to win 7 maps to win the match. (Best-of-13)
+   - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
+   - In the Round of 16 and the Quarterfinals, you need to win 5 maps to win a match. (Best-of-9)
+   - In Semifinals and Finals, you need to win 6 maps to win a match. (Best-of-11)
+   - In Grand Finals, you need to win 7 maps to win the match. (Best-of-13)
 
 ### Match Instructions
 
 1. A referee will create a multiplayer room 15 minutes in advance. Players must gather during this period.
-    - Room settings are osu!mania, Team-Vs., Win Condition: 'Score'. Room name must be "MWC 4K 2015: (TeamBlue) vs (TeamRed)".
-    - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
+   - Room settings are osu!mania, Team-Vs., Win Condition: 'Score'. Room name must be "MWC 4K 2015: (TeamBlue) vs (TeamRed)".
+   - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
 2. Players are free to select up to two warm-up maps. Using beatmaps with questionable content is prohibited. All maps must be 4K-specific osu!mania maps.
 3. Each captain can ban two beatmaps to be selected from the pool. These beatmaps are not allowed to be picked by any team in the entire match.
-    - Both vetos must always be used.
+   - Both vetos must always be used.
 4. Beatmap selection will alternate between each captain selecting a beatmap out of the map pool.
 5. Each captain must use "!roll" once in \#multiplayer.
-    - The winner of the !roll starts picking the first beatmap of the match.
-    - The loser of the !roll starts banning two beatmaps.
+   - The winner of the !roll starts picking the first beatmap of the match.
+   - The loser of the !roll starts banning two beatmaps.
 6. Captains may pick freely from any bracket.
-    - In case of a tie, the tiebreaker map must be played.
+   - In case of a tie, the tiebreaker map must be played.
 7. Results will be published via Statistics site.
 
 ### Mappool Instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for Round 16, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals.
-    - Finals & Grand Finals use the same mappool.
+   - Finals & Grand Finals use the same mappool.
 2. Mappool size varies depending on the stage.
-    - 12 FreeMod maps in Group Stage.
-    - 14 FreeMod maps in Round of 16 and Quarterfinals, respectively.
-    - 16 FreeMod maps in Semifinals and Finals, respectively.
+   - 12 FreeMod maps in Group Stage.
+   - 14 FreeMod maps in Round of 16 and Quarterfinals, respectively.
+   - 16 FreeMod maps in Semifinals and Finals, respectively.
 3. Each mappool has one tiebreaker.
 4. All maps, including the tiebreaker, will be played on FreeMod condition.
-    - Every individual player can pick [Hidden](/wiki/Game_Modifiers), [FadeIn](/wiki/Game_Modifiers) and [Flashlight](/wiki/Game_Modifiers) or no mode at all.
+   - Every individual player can pick [Hidden](/wiki/Game_Modifiers), [FadeIn](/wiki/Game_Modifiers) and [Flashlight](/wiki/Game_Modifiers) or no mode at all.
 
 ### Scheduling Instructions
 

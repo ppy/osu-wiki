@@ -500,11 +500,11 @@ This competition has come to an end and resulted in the following podium:
 
 1. The osu!mania World Cup is a country-based 2v2 team tournament, separated in a 7-keys bracket and a 4-keys bracket
 2. The maps for each round will be announced by the mapset selector in advance on the Sunday before the actual matches take place. Only these will be used during the respective matches.
-    - One map will be given as tiebreaker map. This map will only be played in case of a tie.
+   - One map will be given as tiebreaker map. This map will only be played in case of a tie.
 3. Match schedule will be settled by Tournament Management (see below).
 4. If no staff or referee is available, the match will be postponed.
 5. Failed player's score do not get added to the team score.
-    - Reviving and surviving during a map gets considered as passing it.
+   - Reviving and surviving during a map gets considered as passing it.
 6. Use of the [Visual Settings](/wiki/Game_Modifiers) options are allowed.
 7. If the game ends in a draw, the game will be nullified.
 8. If a player disconnects, they get treated as if they failed the map.
@@ -520,20 +520,20 @@ This competition has come to an end and resulted in the following podium:
 ### Tournament Registration
 
 1. Your team needs **at least 2 players** to participate.
-    - The maximum team size is 4.
-    - You must specify a captain who will represent the team.
-    - You can sign-up your team for both brackets, if you want. You need to run through the registration process twice then
-      - When signing up for both brackets, both rosters do not need to be identical.
-      - If your country signs up for the 4K Bracket, it does not need to form a 7K bracket and vica versa.
+   - The maximum team size is 4.
+   - You must specify a captain who will represent the team.
+   - You can sign-up your team for both brackets, if you want. You need to run through the registration process twice then
+     - When signing up for both brackets, both rosters do not need to be identical.
+     - If your country signs up for the 4K Bracket, it does not need to form a 7K bracket and vica versa.
 2. Each team represents a nation. You must form a team with players from the same country and therefore with the same flags on the user profiles.
 3. For team sign ups, [fill out this form](https://docs.google.com/forms/d/1mNcRLbrD7dN9ZbToFiBdFqPcdW4_T8aotASGPOXJjZY). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “MWC Registration”
-    - Captains may change their setup by [notifying the management](https://osu.ppy.sh/home/messages/users/71366).
-    - You get a confirmation reply in case your registration successfully arrived. Your registration is in pending then.
+   - Captains may change their setup by [notifying the management](https://osu.ppy.sh/home/messages/users/71366).
+   - You get a confirmation reply in case your registration successfully arrived. Your registration is in pending then.
 4. To ensure valid and serious registrations, any registration and change will be checked by the Tournament Management.
 5. The total amount of teams is 32 per bracket.
-    - Depending on the amount of registrations, the total amount might change.
+   - Depending on the amount of registrations, the total amount might change.
 6. All successfully registered teams will be published after Registration Phase.
-    - Captains will get notified in case their roster has been accepted or rejected.
+   - Captains will get notified in case their roster has been accepted or rejected.
 7. Mapset selectors may not participate as a player in this tournament.
 
 ### Stage Instructions
@@ -541,28 +541,28 @@ This competition has come to an end and resulted in the following podium:
 1. In the first stage (Group Stage), the teams will be divided into 4 groups of 5 teams.
 2. All the teams from each group will face each other.
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
-    - Most matches won.
-    - Have higher `{(the number of maps won) - (the number of maps defeated)}`.
-    - Most maps won.
-    - Have higher `∑{(total score difference) / (maximum score)}`.
-    - Winner of the rematch.
+   - Most matches won.
+   - Have higher `{(the number of maps won) - (the number of maps defeated)}`.
+   - Most maps won.
+   - Have higher `∑{(total score difference) / (maximum score)}`.
+   - Winner of the rematch.
 4. The top 4 teams of each group will move on to the Knock-Out Stages.
 5. Following stages are Knock-Out Stages. This means that the winner moves to the next stage and the losing team gets kicked out of the tournament.
 6. The **Winning conditions** for each stage will be:
-    - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
-    - In the Round of 16 and the Quarterfinals, you need to win 5 maps to win a match. (Best-of-9)
-    - In Semifinals and Finals, you need to win 6 maps to win a match. (Best-of-11)
+   - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
+   - In the Round of 16 and the Quarterfinals, you need to win 5 maps to win a match. (Best-of-9)
+   - In Semifinals and Finals, you need to win 6 maps to win a match. (Best-of-11)
 
 ### Match Instructions
 
 1. A referee will create a multiplayer room 20 minutes in advance. Players must gather during this period.
-    - The room will be locked. The password and multiplayer invite will be sent to the two captains as soon as possible.
-    - Room settings are osu!mania, Team-Vs., Win Condition: 'Score'. Room name must be "MWC 2014: TeamBlue vs TeamRed"
-    - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
+   - The room will be locked. The password and multiplayer invite will be sent to the two captains as soon as possible.
+   - Room settings are osu!mania, Team-Vs., Win Condition: 'Score'. Room name must be "MWC 2014: TeamBlue vs TeamRed"
+   - The team mentioned first in the room name must be the blue team, the team mentioned second in the room name must be the red team.
 2. Players are free to select up to two warm-up maps.
 3. Map selection will alternate between each captain selecting a map out of the map pool. Each captain must use "!roll" once in \#multiplayer to determine which team selects first.
-    - The captains may select maps out of the FreeMod bracket freely.
-    - In case of a tie, the tiebreaker map must be played.
+   - The captains may select maps out of the FreeMod bracket freely.
+   - In case of a tie, the tiebreaker map must be played.
 4. Results will be published on the wiki and via the Statistics website.
 
 ### Mappool Instructions
@@ -575,9 +575,9 @@ This competition has come to an end and resulted in the following podium:
 6. The FreeMod bracket will have FreeMod activated. Every individual player can pick [Hidden](/wiki/Game_Modifiers), [FadeIn](/wiki/Game_Modifiers) and [Flashlight](/wiki/Game_Modifiers) or no mode at all.
 7. The tiebreaker will be played under FreeMod conditions.
 8. The size of the FreeMod bracket will be:
-    - 9 in Group Stage
-    - 11 in Round of 16 & Quarterfinals
-    - 13 in Semifinals & Finals
+   - 9 in Group Stage
+   - 11 in Round of 16 & Quarterfinals
+   - 13 in Semifinals & Finals
 
 ### Scheduling Instructions
 

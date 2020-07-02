@@ -64,7 +64,7 @@ States during **playtime** ("draining time", when the player is expected to clic
   - In [Taiko](/wiki/Game_Modes/osu!taiko), Fail State if the player missed the last note, Pass State otherwise.
   - In [Catch the Beat](/wiki/Game_Modes/osu!catch), this is always the state that the previous break was. The first playable section will always be Pass State.
 
- States during **break time** (between playtime segments)
+States during **break time** (between playtime segments)
 
 - Pass State if the HP bar ended above half in the last playtime section (i.e., the "O" symbol appears).
 - Fail State otherwise (i.e., the "X" symbol appears).
@@ -72,12 +72,12 @@ States during **playtime** ("draining time", when the player is expected to clic
     - Example A: Get an 96.5% accuracy while HP bar still 40%, gives Pass instead Fail.
     - Example B: Get too much 100s in about 30 notes and gives you D while your HP bar still around 30%, gives Fail instead Pass (in this case, referred to [this map](https://osu.ppy.sh/beatmaps/69556&m=1)).
 
- States after last playtime, if the map had at least one break
+States after last playtime, if the map had at least one break
 
 - Pass State if at least half of the breaks occurred in the Pass State.
 - Fail State otherwise.
 
- States after last playtime, if the map had no breaks
+States after last playtime, if the map had no breaks
 
 - Same as during break time.
 
