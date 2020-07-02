@@ -73,7 +73,7 @@ jobs:
         # stdout is discarded (remark prints files being checked there)
         run: git diff --diff-filter=d --name-only ${{ github.sha }}^ ${{ github.sha }} '*.md' | xargs npx remark -qf --no-stdout --silently-ignore --report=vfile-reporter-position --color
 
-      - name: YAML Lint
+      - name: run yamllint on all yaml files
         uses: ibiqlik/action-yamllint@v1.0.0
         with:
           config_file: .yamllint.yaml
