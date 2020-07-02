@@ -43,9 +43,9 @@ Most of this last month's news and developments centered the discussion and outc
 The flash-meeting was held in order to follow up on the somewhat unfinished topics of our [public August meeting](https://osu.ppy.sh/community/forums/topics/792022), covering both these and new issues that required our attention.
 
 The most notable discussed topic was the making of a *feature requests listing*, directed at the osu! developers. We brainstormed many quality-of-life implementations that we believe would make our job as QATs a smoother and more productive experience, some of which are listed below:
-+ Creating a list for a Beatmap Nominators' nominations that were **reset or disqualified**. This would be useful to better monitor and judge each Nominator’s proficiency.
-+ Ability for QATs and Global Moderators to **edit posts in beatmap discussions**. This would allow the removal of harmful or off-topic content from discussion posts, whilst retaining useful components.
-+ Prevent mappers from being able to **resolve discussions when their beatmaps are in a Qualified state**, as this makes it unnecessarily difficult to keep track of post-qualification modding.
+- Creating a list for a Beatmap Nominators' nominations that were **reset or disqualified**. This would be useful to better monitor and judge each Nominator’s proficiency.
+- Ability for QATs and Global Moderators to **edit posts in beatmap discussions**. This would allow the removal of harmful or off-topic content from discussion posts, whilst retaining useful components.
+- Prevent mappers from being able to **resolve discussions when their beatmaps are in a Qualified state**, as this makes it unnecessarily difficult to keep track of post-qualification modding.
 
 Once these proposals are properly discussed and finalised, we will work with osu!'s developers to determine what aspects can realistically be implemented and how the modding discussions system can improved further still.
 

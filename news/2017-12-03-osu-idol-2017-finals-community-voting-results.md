@@ -13,9 +13,9 @@ Another year of osu!idol to an end. With a spectacular 12281 votes in total, thi
 **Congratulations to this year's osu!idol - [Renril](https://osu.ppy.sh/users/4955122)!** Their performance of **Mafumafu - Rinne Tensei** has gathered a total of 7207 votes which places them in first place! **In second place we have [Will Stetson](https://osu.ppy.sh/users/4909088)**'s performance of **Kaai Yuki - Ikanaide** accumulating 3344 votes! **Third place goes to [Thievley](https://osu.ppy.sh/users/4717672)** with their performance of **Flyleaf - All around me** netting 1730 votes! Applause for the outstanding talent from our winners.
 
 Here are the MP3s to the performances.
-* [Renril - Rinne Tensei](https://assets.ppy.sh/contests/57/entries/Renril_-_Rinne_Tensei.mp3)
-* [Will Stetson - Ikanaide](https://assets.ppy.sh/contests/57/entries/Will_Stetson_-_Ikanaide.mp3)
-* [Thievley - All around me](https://assets.ppy.sh/contests/57/entries/Thievley_-_All_Around_Me.mp3)
+- [Renril - Rinne Tensei](https://assets.ppy.sh/contests/57/entries/Renril_-_Rinne_Tensei.mp3)
+- [Will Stetson - Ikanaide](https://assets.ppy.sh/contests/57/entries/Will_Stetson_-_Ikanaide.mp3)
+- [Thievley - All around me](https://assets.ppy.sh/contests/57/entries/Thievley_-_All_Around_Me.mp3)
 
 ### Conclusion
 
