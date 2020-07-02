@@ -34,6 +34,3 @@ The **Spun Out** mod is a [game modifier](/wiki/Game_Modifiers) that is aims to 
 The spinner(s) will be disabled and the player cannot spin to increase the SPM value.
 
 [o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
-[o!m]: /wiki/shared/mode/mania.png "osu!mania"
