@@ -43,7 +43,4 @@ The fading size only stops when a 500x combo milestone is reached (at which poin
 
 - If a beatmap is passedwith an S or SS grade with the Fade-in mod enabled, said beatmap will award the silver variant of the grade instead. 
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
