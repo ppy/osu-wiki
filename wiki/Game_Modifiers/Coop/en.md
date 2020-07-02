@@ -51,7 +51,4 @@ A detailed explanation about the second playfield can be found in the [osu!mania
 
 - The Co-op mod was introduced on [March 5, 2015](https://osu.ppy.sh/home/changelog)
 
-[o!s]: /wiki/shared/mode/osu.png "osu!standard"
-[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
-[o!c]: /wiki/shared/mode/catch.png "osu!catch"
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
