@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Mappers' Report: May/June"
-date: 2020-07-02 04:00:00 +0000
+date: 2020-07-02 02:00:00 +0000
 ---
 
 Did you miss us? I bet you did! Sorry for the wait, but here we are again, the fourth and fifth issue of the Mappers' Report in one post! Packed with news and happenings all over the mapping community in osu!. Did your favorite mapper win a contest? Or did the long awaited Ranking Criteria change finally happen? Jump right in and find out!
@@ -23,7 +23,7 @@ As every month we keep you up to date with the changes in the Ranking Criteria. 
 
 ### All Modes
 
-- **[Remove glossaries from RC pages](https://osu.ppy.sh/community/forums/topics/1064466)**: The content of the glossaries will be put into seperate wiki articles! This has already happened for the general Ranking Criteria and the osu! Ranking Criteria. The others will follow soon!
+- **[Remove glossaries from RC pages](https://osu.ppy.sh/community/forums/topics/1064466)**: The content of the glossaries will be put into separate wiki articles! This has already happened for the general Ranking Criteria and the osu! Ranking Criteria. The others will follow soon!
 - **[Allow .ogg files as a main audio source](https://osu.ppy.sh/community/forums/topics/1021547)**: Always struggle with getting your map uploaded, because of too large file size? Then we have good news! You can now use .ogg audio files to save some space! Note that they still have to follow the regular kbit/s rules!
 
 ### osu!
@@ -34,7 +34,7 @@ As every month we keep you up to date with the changes in the Ranking Criteria. 
 
 ### osu!catch
 
-- **[Dashes and higher-snapped dashes on Rain's](https://osu.ppy.sh/community/forums/topics/1033696):** This RC change defines the allowed snap for dashes on Rain difficulties. It also clarifies the definition of a higher-snapped dashes which was a problem for almost half a year.
+- **[Dashes and higher-snapped dashes on Rain difficulties](https://osu.ppy.sh/community/forums/topics/1033696):** This RC change defines the allowed snap for dashes on Rain difficulties. It also clarifies the definition of a higher-snapped dashes which was a problem for almost half a year.
 
 ### osu!mania
 
@@ -47,16 +47,15 @@ There are various open Ranking Criteria proposals in the [forum](https://osu.ppy
 For all modes:
 
 - **[Discussion to fix Vetoes](https://osu.ppy.sh/community/forums/topics/1068618)**
-- **[Increase average bitrate limitation from 192kbs to 320kbs](https://osu.ppy.sh/community/forums/topics/1072965)**
-- **[Spoiler in maps](https://osu.ppy.sh/community/forums/topics/1083667)**
+- **[Spoiler warning option in maps](https://osu.ppy.sh/community/forums/topics/1083667)**
 
 For osu!:
 
-- **[Make a limit for longest combo in osu!std&CTB map](https://osu.ppy.sh/community/forums/topics/1071402)**
+- **[Limit per-combo maximum in osu! to fix issues with osu!catch converts](https://osu.ppy.sh/community/forums/topics/1071402)**
 
 For osu!mania:
 
-- **[change chord guidelines in 4k normal/hard diffs](https://osu.ppy.sh/community/forums/topics/1067554)**
+- **[Change chord guidelines in 4k normal/hard diffs](https://osu.ppy.sh/community/forums/topics/1067554)**
 - **[Redefine the "stream" terminology in mania RC](https://osu.ppy.sh/community/forums/topics/1079647)**
 
 ## <a id="within-bn-nat"></a>Within the Beatmap Nominators and NAT
@@ -70,7 +69,9 @@ The Beatmap Nominators never rest, the Beatmap Nominators never sleep. Just kidd
 - **osu!catch:** [Baron](https://osu.ppy.sh/users/10286499), [Secre](https://osu.ppy.sh/users/2306637) & [Bastian](https://osu.ppy.sh/users/6345176)
 - **osu!mania:** [Kyousukee](https://osu.ppy.sh/users/8842107), [Shima Rin](https://osu.ppy.sh/users/6089608), [Garalulu](https://osu.ppy.sh/users/757783) & [Muse Dash](https://osu.ppy.sh/users/13695676)
 
-Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of those questions is "yes", then you can also become a Beatmap Nominator! The applications are always open. Head over to the [Beatmap Nominator website](https://bn.mappersguild.com/) and apply today!
+Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of those questions is "yes", then you can also become a Beatmap Nominator! The applications are always open. 
+
+Head over to the [Beatmap Nominator website](https://bn.mappersguild.com/) and apply today!
 
 ### BN Resignations
 
@@ -81,7 +82,11 @@ Do you want to see your own name on this list? Do you like modding and helping o
 
 ### BN and QAT/NAT Badges
 
-Recently a new wave of badges acknowledging the time which group members have put into beatmap management teams! Those who are on this list have been contributing to the community in so many ways during their time on osu!, and fully deserve this acknowledgement. We are thankful for all their contributions and hope to see much more in the future! Here is the list of the awarded users:
+Recently, a new wave of badges acknowledging the time which group members have put into beatmap management teams! Those who are on this list have been contributing to the community in so many ways during their time on osu!, and fully deserve this acknowledgement. 
+
+We are thankful for all their contributions and hope to see much more in the future! 
+
+Here is the list of everyone who received a badge this past session:
 
 - **BN 1 Year Badge:** [incandescence](https://osu.ppy.sh/users/6256027), [Kaitjuh](https://osu.ppy.sh/users/2225327), [Unpredictable](https://osu.ppy.sh/users/7560872), [Nuvolina](https://osu.ppy.sh/users/10974170) & [Dored](https://osu.ppy.sh/users/10284894)
 - **BN 2 Year Badge:** [JBHyperion](https://osu.ppy.sh/users/4879508), [Nevo](https://osu.ppy.sh/users/7451883), [Mordred](https://osu.ppy.sh/users/7265097), [bossandy](https://osu.ppy.sh/users/360437) & [Namki](https://osu.ppy.sh/users/5248582)
@@ -93,16 +98,19 @@ Recently a new wave of badges acknowledging the time which group members have pu
 
 ## <a id="mappers-showcase"></a>Mappers' Showcase
 
-The Mappers' Showcase presents lesser-known mappers from every game mode. Since we bundled two issues in one post, this month we will feature two game modes. 
+The Mappers' Showcase presents lesser-known mappers from every game mode. Since we bundled two issues in one post, this month we will feature two game modes.
+
 Thanks to [Jemzuu](https://osu.ppy.sh/users/7890134) for the osu!catch selections and [Scotty](https://osu.ppy.sh/users/11085809) & [Unpredictable](https://osu.ppy.sh/users/7560872) for the osu!mania selections!
 
 ### Phob (osu!catch)
 
-Having recently entered their way in the gates of the ranked section, **[Phob](https://osu.ppy.sh/users/6069462)** is a new mapper that is currently having a decent breakout year so far! Although he's more known for being a skilled Hidden player, his mapping definitely deserves more recognition! He crafts his maps with brilliant relevance to the music showing such coherence in patterning, proving he clearly knows what he's doing!
+Having recently entered their way in the gates of the ranked section, **[Phob](https://osu.ppy.sh/users/6069462)** is a new mapper that is currently having a decent breakout year so far. Although he's more known for being a skilled Hidden player, his mapping definitely deserves more recognition! He crafts his maps with brilliant relevance to the music showing such coherence in patterning, proving he clearly knows what he's doing!
 
-His take on [Feint - Snake Eyes (feat. CoMa)](https://osu.ppy.sh/beatmapsets/1034056#fruits/2162020) exemplifies the mapping spirit of clean and consistency-based maps, as throughout his difficulties, they were made of superb quality. For a relatively new mapper, this set is surely impressive! Moreover, his breakcore map, [Lolipusher - why as soon as we become so close, we have to say goodbye?](https://osu.ppy.sh/beatmapsets/1135515#fruits/2437918) manifests that Phob can still stand out regardless of song's complexity and genre, while still maintaining players' interest through solid patterning!
+His take on [Feint - Snake Eyes (feat. CoMa)](https://osu.ppy.sh/beatmapsets/1034056#fruits/2162020) exemplifies the mapping spirit of clean and consistency-based maps, as throughout his difficulties, they were made of superb quality. For a relatively new mapper, this set is surely impressive!
 
-Phob also tends to favor mapping lower difficulties, especially Salads, so he is certainly a mapper in good shape! We are definitely going to look forward to his future works, as he is a very promising mapper! If novice mappers are looking for an inspiration, Phob is definitely a great example!
+Moreover, his breakcore map, [Lolipusher - why as soon as we become so close, we have to say goodbye?](https://osu.ppy.sh/beatmapsets/1135515#fruits/2437918) manifests that Phob can still stand out regardless of song's complexity and genre, while still maintaining players' interest through solid patterning.
+
+Phob also tends to favor mapping lower difficulties, especially Salads, so he is certainly a mapper with promise for the future. If any novice mappers are reading this and looking for inspiration, Phob is a great person to be looking at!
 
 ### dika312 (osu!catch)
 
@@ -114,21 +122,29 @@ Another of his great works that is worth mentioning would be his take on [KikuoH
 
 ### BringoBrango (osu!mania)
 
-**[BringoBrango](https://osu.ppy.sh/users/10274043)** is a Canadian mapper who's been within the mapping community for about 2-3 years now and has really made a name for himself within late 2019 to now for his creative innovations and unique takes on the songs he chooses, with his most popular mapset being [Iglooghost - Bug Thief](https://osu.ppy.sh/beatmapsets/887787#mania/2033667) being ranked late last year and his map, [PSYQUI - Multitalents](https://osu.ppy.sh/beatmapsets/1024323#mania/2142612) being used in last year's MWC.
+**[BringoBrango](https://osu.ppy.sh/users/10274043)** is a Canadian mapper who's been in the mapping community for about 2-3 years now and has really made a name for himself since late 2019 with his creative innovations and unique takes on the songs he maps. His most popular mapset so far is [Iglooghost - Bug Thief](https://osu.ppy.sh/beatmapsets/887787#mania/2033667), with his later creation set to [PSYQUI - Multitalents](https://osu.ppy.sh/beatmapsets/1024323#mania/2142612) being used in last year's osu!mania World Cup.
 
-However, some of his other maps that haven't got much of a spotlight unlike the other two, such as [acloudyskye - Alignment](https://osu.ppy.sh/beatmapsets/1031818#mania/2157673), which perfectly showcase what he's capable of and how to utilize certain aspects to a song to their advantage. The map showcases everything that BringoBrango learned over the course of his mapping career, which turned out excellently as it features LN layering schemes, jacks, heavy use of repetition, utilizing 1/6 and 1/8 flams, and especially the amount of SVs that adds a lot more to the map than it originally had such as stutters, slowjams, speedups, and so much more that perfectly craft this map together into a complex, yet mesmerizing map for anyone that should give it a try.
+However, some of his other maps that haven't got much of a spotlight unlike the other two, such as [acloudyskye - Alignment](https://osu.ppy.sh/beatmapsets/1031818#mania/2157673), which perfectly showcase what he's capable of and how to utilize certain aspects to a song to their advantage. The map showcases everything that BringoBrango learned over the course of his mapping career, which turned out excellently as it features LN layering schemes, jacks, heavy use of repetition, utilizing 1/6 and 1/8 flams, and especially the amount of SVs that adds a lot more to the map than it originally had such as stutters, slowjams, speedups, and so much more that perfectly craft this map together into a complex, yet mesmerizing map for anyone that dares to give it a try.
 
-Other maps of his that definitely deserve more of a spotlight are [cYsmix - Classic Pursuit](https://osu.ppy.sh/beatmapsets/730295#mania/2235782), which features more LN layering schemes, SVs, inverses, and jacks, to which these hold up the map together beautifully and another map of his, [Husky - Sleepy Boi](https://osu.ppy.sh/beatmapsets/807991#mania/1695651) which mainly focuses on jacks and SVs with how repetitious the song that really makes the map much more of a challenge and also throws back to an older mapping style of his to where a lot of his mapping were typically jack-oriented. We hope to see more of his maps in the future as he's definitely quite the anomaly in the mapping scene and perhaps see his maps ranked in the future sometime soon!
+Other maps of his that definitely deserve more of a spotlight are [cYsmix - Classic Pursuit](https://osu.ppy.sh/beatmapsets/730295#mania/2235782), which features more LN layering schemes, SVs, inverses, and jacks, all of which hold up the map together beautifully.
+
+Another map of his, [Husky - Sleepy Boi](https://osu.ppy.sh/beatmapsets/807991#mania/1695651) mainly focuses on jacks and SVs while emphasizing the song's focus on repetition to create a formidable challenge, providing a throwback to his older jacks-oriented mapping style in the process. 
+
+We hope to see more of his work in the future as he's definitely quite the anomaly in the mapping scene!
 
 ### Ticle (osu!mania)
 
-Despite not being around for long, **[Ticle](https://osu.ppy.sh/users/11602148)** has been able to develop an explosive style of LN mapping. Their takes on electronic tracks are heavily expressive and intuitive yet come with a particular level of detail and rigidity. The result is highly addictive LN maps for both players and mappers alike! Recently, they have been able to gain attention with their debut in the loved section [tomatoism – UMP9](https://osu.ppy.sh/beatmapsets/970727#mania/2032725). However we believe they have a lot more maps that are worthy of a spotlight.
+Despite not being around for long, **[Ticle](https://osu.ppy.sh/users/11602148)** has been able to develop an explosive style of LN mapping. Their takes on electronic tracks are heavily expressive and intuitive, yet come with a particular level of detail and rigidity. The end results are highly addictive LN maps for both players and mappers alike! Recently, they have been able to gain attention with their debut in the loved section [tomatoism – UMP9](https://osu.ppy.sh/beatmapsets/970727#mania/2032725). However, we believe that is just the beginning of their showcase-worthy mapping career.
 
-An example of a map which culminates this is their rendition of [Sta - 99 Glooms](https://osu.ppy.sh/beatmapsets/961775#mania/2013908). Its liberal usage of flams and more detailed interpretation of the track's various piano and synth are what make this map really shine. Another notable works of theirs is, [sasakure.UK - Jack-the-Ripper](https://osu.ppy.sh/beatmapsets/1130177#mania/2360897), a map featuring complex timing and even more complex representation of the track's guitar sounds. We hope to see Ticle's maps gain more traction as they are definitely worth a shot for any LN enthusiast!
+An example of a map which demonstrates this is their rendition of [Sta - 99 Glooms](https://osu.ppy.sh/beatmapsets/961775#mania/2013908). Its liberal usage of flams and more detailed interpretation of the track's various piano and synth are what really take it a step above the rest. Another notable work of theirs is [sasakure.UK - Jack-the-Ripper](https://osu.ppy.sh/beatmapsets/1130177#mania/2360897), a map featuring complex timing and even more complex representation of the track's guitar sounds. 
+
+We hope to see Ticle's maps gain more traction as they are definitely worth a shot for any LN enthusiast!
 
 ## <a id="mapping-contests"></a>Mapping Contests
 
-Get your editor ready. The mapping contests are here! Whether you are a veteran or making your first steps in mapping, contests are for everyone! In this section you can see what contests were held in May and June or are ongoing!
+Get your editor ready. The mapping contests are here! Whether you are a veteran or making your first steps in mapping, contests are for everyone! 
+
+In this section you can see what contests were held in May and June or are ongoing:
 
 ### Monthly Beatmapping Contests
 
@@ -136,7 +152,7 @@ The [Monthly Beatmapping Contests](https://osu.ppy.sh/help/wiki/Contests/Monthly
 
 The April's contest results are out and we congratulate [hypercyte](https://osu.ppy.sh/users/9155377) for winning and getting his Tier 2 badge! Good job to [fanzhen0019](https://osu.ppy.sh/users/418699) as well for being the community vote runner-up and [Acylica](https://osu.ppy.sh/users/1943309) for being the screening crew favorite!
 
-The May and June Montly Beatmapping Contests both have their submission phases concluded and we hope to see the results soon. Once they are out, we'll be sure to let you know!
+The May and June Monthly Beatmapping Contests both have their submission phases concluded and we hope to see the results soon. Once they are out, we'll be sure to let you know!
 
 ### osu! Mapping Olympiad #7: osu!mania
 
