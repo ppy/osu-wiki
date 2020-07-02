@@ -214,27 +214,35 @@ Head over to the [forum post](https://osu.ppy.sh/community/forums/topics/1027590
 
 ### New Review System in Beatmap Discussion
 
-Modders, listen. We have great news for you! As some may have already noticed, modding system got an update! The review system which was announced a while ago got finally added to the Beatmap Discussions! What is it you ask?
+Modders, listen. We have great news for you! As some may have already noticed, modding system got an update and the review system teased many months ago is now finally live.
 
-Some may remember the old modding system which worked through the forum. People posted mods in mappers' beatmap forum threads. The difference to the current modding system is that modder could bundle everything in one, huge post if they liked. A lot of modders liked it and would still prefer to have a similar format while modding.
+Some of the mapping boomers among us may remember the old modding system which worked through the forum, fondly titled at times as 'moddingv1'. People would post mods as responses to individual beatmap forum threads, outlining all their issues and improvements at once in big blocks. This was very different from the way that the more modern beatmap discussion system handled things, with it favoring highlighting single issues or improvements at a time.
 
-Now they finally do! You can now bundle your mods in one, big post! To access it, go into the beatmap discussion of any beatmap you like to mod and then go to the "Review" tab. That's all! Now you can mod in a format that lets you control what order the mod is read in, which is very useful for reoccurring or bigger issues in maps. Be sure to check out all the features which the current modding system offers to you!
+A lot of modders both old and new favored the older way at times for more in-depth modding, and the big news this time around is that you can now have your cake and eat it too! The beatmap review system now allows you to bundle your individual mods into one big post, reaping the benefits of both worlds.
+
+To access this fancy new wizardry, go into the beatmap discussion of any beatmap you like to mod and then go to the "Review" tab. That's it!
+
+Now you can mod in a format that lets you control what order the mod is read in, which is very useful for reoccurring or bigger issues in maps. Be sure to check out all the features which the current modding system offers to you!
 
 Do you think it could be better or something is still missing? Or did you find a bug in it? The developers would love to hear your feedback! Come join the [osu!dev Discord server](https://discord.gg/ppy) and join the discussion about the review system in the #modding channel! 
 
-### The osu!wiki is hiring
+### The osu!wiki needs you!
 
-Okay, hiring is maybe the wrong word for it. But on a serious note, the osu!wiki is a huge knowledge base which features articles all about osu!, Not only mapping or modding related content such as the entire Ranking Criteria, but also all kinds of information, such as the osu! team, various gameplay guides, contests and tournaments and much more.
+The osu!wiki is a huge, community-maintained knowledge base for all things osu!. This includes mapping, modding and gameplay oriented articles, on things ranging from individual map settings to the entire Ranking Criteria, who's on the osu!team, current tournaments, contests and so much more.
 
-But sadly it's run by only a few people and a lot of wiki entries are outdated. But good news: anyone can help! And the people behind the osu!wiki will be surely happy to see more helping hands to update everything and provide the latest information all around osu!.
+This giant compendium of osu! lore is run by a handful of intrepid individuals known to the world as 'wikifriends', and we're always in need of more of them!
 
-Contributing is not even that hard and you can get all help you need to get started in the #osu-wiki channel on the [osu!dev Discord server](https://discord.gg/ppy). Do not hesitate to ask there, they won't bite you!
+If you'd like to help out by reviewing articles, writing them, or translating them into your native language, head on over to the #osu-wiki channel on the [osu!dev Discord server](https://discord.gg/ppy) and say hello.
+
+The world needs you!
 
 <a id="conclusion"></a>
 
 ---
 
-Phew, that was a bit of a read, right? We're happy that you made it until here! Once again sorry for the long wait. We will work on our schedule to make sure future issues of the Mappers' Report get released in time. You can expect us in the future at the end of every month. Should really not that much happen in osu!, we will probably make again one bigger news post, but we try to keep these on a minimum! And please don't forget, should you have anything interesting and mapping or modding related for us to mention, make sure to contact [Feerum](https://osu.ppy.sh/users/4815717) or [Noffy](https://osu.ppy.sh/users/1541323)!
+Phew, that was a bit of a read, right? We're happy that you made it until here! Once again, we're sorry for the long wait with this month's double-issue. We will work on our schedule to make sure future issues of the Mappers' Report get released in time.
+
+And please, don't forget, should you have anything interesting and mapping or modding related for us to mention, make sure to contact [Feerum](https://osu.ppy.sh/users/4815717) or [Noffy](https://osu.ppy.sh/users/1541323) with all the details.
 
 Until then, thank you for reading and stay safe and healthy!
 
