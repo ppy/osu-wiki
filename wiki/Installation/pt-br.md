@@ -27,7 +27,6 @@ Se você está usando Windows 7 64-bit, você pode ter dificuldade instalando os
 
 
 ---
-
 **Se ocorrer algum erro ao instalar o jogo, você pode tentar algumas coisas:**
 
 - Tente reinstalar a última versão do .NET Framework. [Baixe aqui](https://dotnet.microsoft.com/download).
