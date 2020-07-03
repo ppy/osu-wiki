@@ -14,7 +14,7 @@ AiMod typically completes its beatmap analysis in under a minute and subsequentl
 - **Cannot detect a large number of issues** that are considered unrankable by the [Ranking Criteria](/wiki/Ranking_Criteria), such as; potentially missnapped objects, delayed hitsounds and background filesize above 2.5MB etc.
 - **May warn you of non-issues**, such as; the mapset needing 2 standard diffs on a marathon map and Kiai time being toggled on for less than 15 seconds.
 - **If "Check distance snap" is enabled, it will not check the distance snap between new combos.**
-- **If there are multiple MP3 files in the beatmap folder, AiMod will warn you of multiple song files** however MP3 files can also be used for things such as applause files.
+- **If there are multiple MP3 files in the beatmap folder, AiMod may warn you of multiple song files** however MP3 files can also be used for things such as applause files.
 
 It is recommended to use other programs such as [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier/releases) by ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) in addition to AiMod if you are looking to get your beatmapset ranked. This program is more up-to-date with the current [Ranking Criteria](/wiki/Ranking_Criteria) and can detect many more issues than AiMod. However, do not completely ignore AiMod as some rules in the Ranking Criteria rely on it.
 
