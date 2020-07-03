@@ -7,7 +7,7 @@ tags:
 
 *Not to be confused with [Combo (comboset)](/wiki/Beatmapping/Combo).*
 
-**Combo** refers to the number of [objects](/wiki/Hit_Objects) a player has hit consecutively without missing or sliderbreaking once. This number is displayed in various places during gameplay:
+**Combo** refers to the number of [hit objects](/wiki/Hit_Objects) a player has hit consecutively without missing or [sliderbreaking](/wiki/Glossary#sliderbreak) once. This number is displayed in various places during gameplay:
 
 - Bottom-left in [osu!standard](/wiki/Game_Modes/osu!).
 - On the drums in [osu!taiko](/wiki/Game_Modes/osu!taiko).

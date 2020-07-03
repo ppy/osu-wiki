@@ -15,7 +15,9 @@ tags:
 
 ## osu!standard
 
-In [osu!standard](/wiki/Game_Modes/osu!), each hit object in a combo has its own combo number, in addition to a combo colour. New combos start at 1 and count up, and spinners also force the next object to start a new combo. More health is recovered with [Geki and Katu](/wiki/Score#osu!) hit scores, which can be given from the last hit object in a combo. Grouping of combos in osu!standard is most commonly done according to verses, measures, melodies, or visual patterns.
+In [osu!standard](/wiki/Game_Modes/osu!), each hit object in a combo has its own combo number, in addition to a combo colour. New combos start at 1 and count up. More health is recovered with [Geki and Katu](/wiki/Score#osu!) hit scores, which can be given from the last hit object in a combo. Grouping of combos in osu!standard is most commonly done according to verses, measures, melodies, or visual patterns.
+
+*Note: Spinners also force the next object to start a new combo.*
 
 ## osu!catch
 
