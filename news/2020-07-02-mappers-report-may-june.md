@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Mappers' Report: May/June"
-date: 2020-07-02 02:00:00 +0000
+date: 2020-07-03 01:00:00 +0000
 ---
 
 Did you miss us? I bet you did! Sorry for the wait, but here we are again, the fourth and fifth issue of the Mappers' Report in one post! Packed with news and happenings from all over the mapping community in osu!. Did your favorite mapper win a contest? Or did the long awaited Ranking Criteria change finally happen? Jump right in and find out!
@@ -172,7 +172,7 @@ Out of all submissions, 9 unique categories were created with each having 5 hand
 
 You can find the categories, links to the voting pages and downloads in the [Aspire V - Category Stage Voting](https://osu.ppy.sh/home/news/2020-06-22-aspire-v-category-stage-voting) newspost.
 
-Voting closes in less than 5 days from the date of this post, so get in quick!
+Voting closes in less than 4 days from the date of this post, so get in quick!
 
 ### 2020 osu!catch Mapping World Cup
 
