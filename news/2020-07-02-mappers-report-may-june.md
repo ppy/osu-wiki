@@ -4,11 +4,11 @@ title: "The Mappers' Report: May/June"
 date: 2020-07-02 02:00:00 +0000
 ---
 
-Did you miss us? I bet you did! Sorry for the wait, but here we are again, the fourth and fifth issue of the Mappers' Report in one post! Packed with news and happenings all over the mapping community in osu!. Did your favorite mapper win a contest? Or did the long awaited Ranking Criteria change finally happen? Jump right in and find out!
+Did you miss us? I bet you did! Sorry for the wait, but here we are again, the fourth and fifth issue of the Mappers' Report in one post! Packed with news and happenings from all over the mapping community in osu!. Did your favorite mapper win a contest? Or did the long awaited Ranking Criteria change finally happen? Jump right in and find out!
 
 ![](/wiki/shared/news/banners/the-mappers-report.jpg)
 
-This month's issue of the Mappers' Report contains following topics:
+This month's issue of the Mappers' Report contains the following topics:
 
 - **[Ranking Criteria Changes](#rc-changes)**
 - **[Within the Beatmap Nominators and NAT](#within-bn-nat)**
@@ -19,22 +19,22 @@ This month's issue of the Mappers' Report contains following topics:
 
 ## <a id="rc-changes"></a>Ranking Criteria Changes
 
-As every month we keep you up to date with the changes in the Ranking Criteria. All rule and guideline changes are listed below and in addition you can see open proposals to give your feedback!
+As every month we keep you up to date with the changes to the Ranking Criteria. All rule and guideline changes are listed below and in addition you can see open proposals to give your feedback!
 
 ### All Modes
 
 - **[Remove glossaries from RC pages](https://osu.ppy.sh/community/forums/topics/1064466)**: The content of the glossaries will be put into separate wiki articles! This has already happened for the general Ranking Criteria and the osu! Ranking Criteria. The others will follow soon!
-- **[Allow .ogg files as a main audio source](https://osu.ppy.sh/community/forums/topics/1021547)**: Always struggle with getting your map uploaded, because of too large file size? Then we have good news! You can now use .ogg audio files to save some space! Note that they still have to follow the regular kbit/s rules!
+- **[Allow .ogg files as a main audio source](https://osu.ppy.sh/community/forums/topics/1021547)**: Always struggle with getting your map uploaded because of too large file size? Then we have good news! You can now use .ogg audio files to save some space! Note that they still have to follow the regular kbit/s rules!
 
 ### osu!
 
 - **[Intuitive Reverse Arrow Movement](https://osu.ppy.sh/community/forums/topics/1033709?start=unread):** Reverse Arrows now have to point into the direction in which the slider ball moves after hitting it.
-- **[Restrictions on "accelerating" sliders](https://osu.ppy.sh/community/forums/topics/1060629?n=1):** A small clarification that the slider path has to be always visible.
+- **[Restrictions on "accelerating" sliders](https://osu.ppy.sh/community/forums/topics/1060629?n=1):**  A small clarification that the slider path has to be visible at all times.
 - **[Circle size](https://osu.ppy.sh/community/forums/topics/1082308):** You asked for it and here it is! It's been a long time since there was a ranked map with a circle size higher than 7. Now we will hopefully see some more coming soon! 
 
 ### osu!catch
 
-- **[Dashes and higher-snapped dashes on Rain difficulties](https://osu.ppy.sh/community/forums/topics/1033696):** This RC change defines the allowed snap for dashes on Rain difficulties. It also clarifies the definition of a higher-snapped dashes which was a problem for almost half a year.
+- **[Dashes and higher-snapped dashes on Rain difficulties](https://osu.ppy.sh/community/forums/topics/1033696):** This RC change defines the allowed snap for dashes on Rain difficulties. It also clarifies the definition of higher-snapped dashes which was a problem for almost half a year.
 
 ### osu!mania
 
@@ -60,7 +60,7 @@ For osu!mania:
 
 ## <a id="within-bn-nat"></a>Within the Beatmap Nominators and NAT
 
-The Beatmap Nominators never rest, the Beatmap Nominators never sleep. Just kidding, of course they do, they are humans too. However, the group line-up is always changing! New people are coming, old are going away. This month was no exception!
+The Beatmap Nominators never rest, the Beatmap Nominators never sleep. Just kidding, of course they do, they are humans, too. However, the group line-up is always changing! New people are coming, old are going away. This month was no exception!
 
 ### BN Additions
 
@@ -69,7 +69,7 @@ The Beatmap Nominators never rest, the Beatmap Nominators never sleep. Just kidd
 - **osu!catch:** [Baron](https://osu.ppy.sh/users/10286499), [Secre](https://osu.ppy.sh/users/2306637) & [Bastian](https://osu.ppy.sh/users/6345176)
 - **osu!mania:** [Kyousukee](https://osu.ppy.sh/users/8842107), [Shima Rin](https://osu.ppy.sh/users/6089608), [Garalulu](https://osu.ppy.sh/users/757783) & [Muse Dash](https://osu.ppy.sh/users/13695676)
 
-Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of those questions is "yes", then you can also become a Beatmap Nominator! The applications are always open. 
+Do you want to see your own name on this list? Do you like modding and helping other people with their beatmaps? If your answer to both of these questions is "yes", then you can also become a Beatmap Nominator! The applications are always open. 
 
 Head over to the [Beatmap Nominator website](https://bn.mappersguild.com/) and apply today!
 
@@ -82,7 +82,7 @@ Head over to the [Beatmap Nominator website](https://bn.mappersguild.com/) and a
 
 ### BN and QAT/NAT Badges
 
-Recently, a new wave of badges acknowledging the time which group members have put into beatmap management teams! Those who are on this list have been contributing to the community in so many ways during their time on osu!, and fully deserve this acknowledgement. 
+Recently, a new wave of badges acknowledging the time which group members have put into beatmap management teams arrived! Those who are on this list have been contributing to the community in so many ways during their time on osu!, and fully deserve this acknowledgement. 
 
 We are thankful for all their contributions and hope to see much more in the future! 
 
@@ -98,19 +98,19 @@ Here is the list of everyone who received a badge this past session:
 
 ## <a id="mappers-showcase"></a>Mappers' Showcase
 
-The Mappers' Showcase presents lesser-known mappers from every game mode. Since we bundled two issues in one post, this month we will feature two game modes.
+The Mappers' Showcase presents lesser-known mappers from every game mode. Since we bundled two issues in one post, we will feature two game modes this month.
 
 Thanks to [Jemzuu](https://osu.ppy.sh/users/7890134) for the osu!catch selections and [Scotty](https://osu.ppy.sh/users/11085809) & [Unpredictable](https://osu.ppy.sh/users/7560872) for the osu!mania selections!
 
 ### Phob (osu!catch)
 
-Having recently entered their way in the gates of the ranked section, **[Phob](https://osu.ppy.sh/users/6069462)** is a new mapper that is currently having a decent breakout year so far. Although he's more known for being a skilled Hidden player, his mapping definitely deserves more recognition! He crafts his maps with brilliant relevance to the music showing such coherence in patterning, proving he clearly knows what he's doing!
+Having recently breached the gates of the ranked section, **[Phob](https://osu.ppy.sh/users/6069462)** is a new mapper that is currently having a decent breakout year so far. Although he's more known for being a skilled Hidden player, his mapping definitely deserves more recognition! He crafts his maps with brilliant relevance to the music showing such coherence in patterning, proving he clearly knows what he's doing!
 
 His take on [Feint - Snake Eyes (feat. CoMa)](https://osu.ppy.sh/beatmapsets/1034056#fruits/2162020) exemplifies the mapping spirit of clean and consistency-based maps, as throughout his difficulties, they were made of superb quality. For a relatively new mapper, this set is surely impressive!
 
-Moreover, his breakcore map, [Lolipusher - why as soon as we become so close, we have to say goodbye?](https://osu.ppy.sh/beatmapsets/1135515#fruits/2437918) manifests that Phob can still stand out regardless of song's complexity and genre, while still maintaining players' interest through solid patterning.
+Moreover, his breakcore map, [Lolipusher - why as soon as we become so close, we have to say goodbye?](https://osu.ppy.sh/beatmapsets/1135515#fruits/2437918) manifests that Phob can still stand out regardless of the song's complexity and genre, while still maintaining players' interest through solid patterning.
 
-Phob also tends to favor mapping lower difficulties, especially Salads, so he is certainly a mapper with promise for the future. If any novice mappers are reading this and looking for inspiration, Phob is a great person to be looking at!
+Phob also tends to favour mapping lower difficulties, especially Salads, so he is certainly a mapper with promise for the future. If any novice mappers are reading this and looking for inspiration, Phob is a great person to be looking at!
 
 ### dika312 (osu!catch)
 
@@ -124,7 +124,7 @@ Another of his great works that is worth mentioning would be his take on [KikuoH
 
 **[BringoBrango](https://osu.ppy.sh/users/10274043)** is a Canadian mapper who's been in the mapping community for about 2-3 years now and has really made a name for himself since late 2019 with his creative innovations and unique takes on the songs he maps. His most popular mapset so far is [Iglooghost - Bug Thief](https://osu.ppy.sh/beatmapsets/887787#mania/2033667), with his later creation set to [PSYQUI - Multitalents](https://osu.ppy.sh/beatmapsets/1024323#mania/2142612) being used in last year's osu!mania World Cup.
 
-However, some of his other maps that haven't got much of a spotlight unlike the other two, such as [acloudyskye - Alignment](https://osu.ppy.sh/beatmapsets/1031818#mania/2157673), which perfectly showcase what he's capable of and how to utilize certain aspects to a song to their advantage. The map showcases everything that BringoBrango learned over the course of his mapping career, which turned out excellently as it features LN layering schemes, jacks, heavy use of repetition, utilizing 1/6 and 1/8 flams, and especially the amount of SVs that adds a lot more to the map than it originally had such as stutters, slowjams, speedups, and so much more that perfectly craft this map together into a complex, yet mesmerizing map for anyone that dares to give it a try.
+However, some of his other maps that haven't taken the spotlight unlike the other two, such as [acloudyskye - Alignment](https://osu.ppy.sh/beatmapsets/1031818#mania/2157673), which perfectly showcases what he's capable of and how to utilize certain aspects of a song to their advantage. The map showcases everything that BringoBrango learnt over the course of his mapping career, which turned out excellently as it features LN layering schemes, jacks, heavy use of repetition, utilizing 1/6 and 1/8 flams, and especially the amount of SVs that adds a lot more to the map than it originally had such as stutters, slowjams, speedups, and so much more that perfectly craft this map together into a complex, yet mesmerizing map for anyone that dares to give it a try.
 
 Other maps of his that definitely deserve more of a spotlight are [cYsmix - Classic Pursuit](https://osu.ppy.sh/beatmapsets/730295#mania/2235782), which features more LN layering schemes, SVs, inverses, and jacks, all of which hold up the map together beautifully.
 
@@ -158,15 +158,15 @@ The May and June Monthly Beatmapping Contests both have their submission phases 
 
 Keyboard mashers, rise up! It's your time to shine!
 
-The [osu! Mapping Olympiad](https://osu.ppy.sh/home/news/2020-06-06-osu-mapping-olympiad-7-mania) is a returning mapping contest which features a different game mode in every instalment. This time only for the osu!mania mappers out there!
+The [osu! Mapping Olympiad](https://osu.ppy.sh/home/news/2020-06-06-osu-mapping-olympiad-7-mania) is a returning mapping contest which features a different game mode in every installment. This time only for the osu!mania mappers out there!
 
-Luring all mappers out there with Olympiad points for the top 3, which awards the Mapping Olympiad badge, and for the winner an unique user title, the "Elite Mapper"!
+Luring all mappers out there with Olympiad points for the top 3, which awards the Mapping Olympiad badge, and for the winner a unique user title, the "Elite Mapper"!
 
 Do you have what it takes to become the next "Elite Mapper"? Then jump right into it, grab one of the pre-timed .osz and start mapping! We're excited to see all your maps!
 
 ### Aspire V
 
-The Category Stage Voting for the newest iteration on the game's oldest freeform mapping contest is is currently open.
+The Category Stage Voting for the newest iteration on the game's oldest freeform mapping contest is currently open.
 
 Out of all submissions, 9 unique categories were created with each having 5 hand picked entries. Make sure to check all of them out and vote for your favourites!
 
@@ -200,9 +200,9 @@ Be sure to check it out!
 
 Third time's the charm! The [lululu Mapping Cup](https://osu.ppy.sh/community/forums/topics/1086878) has returned with its third edition.
 
-This is a mapping contest for the osu! game mode only, featuring a specific song theme in every instalment, with this year's one being "Swing Beat".
+This is a mapping contest for the osu! game mode only, featuring a specific song theme in every installment, with this year's one being "Swing Beat".
 
-So what are you waiting for, grab the pre-timed .osz and join in! You could win osu!supporter or even a profile badge for for your efforts, so why not give it a try?
+So what are you waiting for, grab the pre-timed .osz and join in! You could win osu!supporter or even a profile badge for your efforts, so why not give it a try?
 
 ---
 
@@ -214,7 +214,7 @@ Head over to the [forum post](https://osu.ppy.sh/community/forums/topics/1027590
 
 ### New Review System in Beatmap Discussion
 
-Modders, listen. We have great news for you! As some may have already noticed, modding system got an update and the review system teased many months ago is now finally live.
+Modders, listen. We have great news for you! As some may have already noticed, the modding system got an update and the review system teased many months ago is now finally live.
 
 Some of the mapping boomers among us may remember the old modding system which worked through the forum, fondly titled at times as 'moddingv1'. People would post mods as responses to individual beatmap forum threads, outlining all their issues and improvements at once in big blocks. This was very different from the way that the more modern beatmap discussion system handled things, with it favoring highlighting single issues or improvements at a time.
 
@@ -240,7 +240,7 @@ The world needs you!
 
 ---
 
-Phew, that was a bit of a read, right? We're happy that you made it until here! Once again, we're sorry for the long wait with this month's double-issue. We will work on our schedule to make sure future issues of the Mappers' Report get released in time.
+Phew, that was a bit of a read, right? We're happy that you made it all the way 'til the end! Once again, we're sorry for the long wait with this month's double-issue. We will work on our schedule to make sure future issues of the Mappers' Report get released on time.
 
 And please, don't forget, should you have anything interesting and mapping or modding related for us to mention, make sure to contact [Feerum](https://osu.ppy.sh/users/4815717) or [Noffy](https://osu.ppy.sh/users/1541323) with all the details.
 
