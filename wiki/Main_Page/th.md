@@ -30,7 +30,7 @@ layout: main_page
 
 # [เครื่องมือแก้ไขบีทแมพ](/wiki/Beatmap_Editor)
 
-หมวดต่างๆ: ([เรียบเรียง](/wiki/Beatmap_Editor/Compose) • [ออกแบบ](/wiki/Beatmap_Editor/Design) • [การควบคุมจังหวะ](/wiki/Beatmap_Editor/Timing) • [ตั้งค่าข้อมูลเพลง](/wiki/Beatmap_Editor/Song_Setup)) • ส่วนประกอบต่างๆ: ([ความถี่ของบีท](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [ระยะห่างข งวัตถุ](/wiki/Beatmap_Editor/Distance_Snap)) • [การทำบีทแมพ](/wiki/Beatmapping) • [ระดับความยาก](/wiki/Difficulties) • [วัตถุที่ต้องกระทำ](/wiki/Hit_Objects) • [เทคนิคการทำแมพ](/wiki/Mapping_Techniques) • [การเขียนสตอรี่บอร์ด](/wiki/Storyboarding)
+หมวดต่างๆ: ([เรียบเรียง](/wiki/Beatmap_Editor/Compose) • [ออกแบบ](/wiki/Beatmap_Editor/Design) • [การควบคุมจังหวะ](/wiki/Beatmap_Editor/Timing) • [ตั้งค่าข้อมูลเพลง](/wiki/Beatmap_Editor/Song_Setup)) • ส่วนประกอบต่างๆ: ([ความถี่ของบีท](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [ระยะห่างของวัตถุ](/wiki/Beatmap_Editor/Distance_Snap)) • [การทำบีทแมพ](/wiki/Beatmapping) • [ระดับความยาก](/wiki/Difficulties) • [วัตถุที่ต้องกระทำ](/wiki/Hit_Objects) • [เทคนิคการทำแมพ](/wiki/Mapping_Techniques) • [การเขียนสตอรี่บอร์ด](/wiki/Storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">
