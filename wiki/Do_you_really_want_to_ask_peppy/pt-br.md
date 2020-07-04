@@ -1,6 +1,6 @@
 # Você realmente quer perguntar para o peppy?
 
-Olá! peppy entende seu desejo de contactá-lo pessoalmente, mas ele pede para que primeiro entenda que este **não** é o lugar para pedir ajuda ou suporte para ele. Ele mantém o suporte do osu! separado de suas mensagens pessoas e também acha que responder PMs no fórum é difícil de manter. Por esse motivo, ele pede que você utilize uma das seguintes opções:
+Olá! peppy entende seu desejo de contatá-lo pessoalmente, mas ele pede para que primeiro entenda que este **não** é o lugar para pedir ajuda ou suporte para ele. Ele mantém o suporte do osu! separado de suas mensagens pessoais e também acha que responder PMs no fórum é difícil de se acompanhar. Por esse motivo, ele pede que você utilize uma das seguintes opções:
 
 ## Suporte técnico
 
