@@ -4,7 +4,7 @@ Selamlar! peppy sizin onunla derhal iletişime geçme isteğinizi anlıyor, anca
 
 ## Teknik Destek
 
-Pek çok teknik sorun [Yardım forumunda](https://osu.ppy.sh/community/forums/5) arama yaparak veya gönderi oluşturarak çözülebilir. Orada size sorunlarınızda yardımcı olabilecek bir sürü insan var, dolayısıyla onunla iletişime geçmekten çok daha hızlı bir şekilde çözüm bulabilirsiniz.
+Çoğu teknik sorun [Yardım forumunda](https://osu.ppy.sh/community/forums/5) arama yaparak veya gönderi oluşturarak çözülebilir. Orada size sorunlarınızda yardımcı olabilecek bir sürü insan var, dolayısıyla onunla iletişime geçmekten çok daha hızlı bir şekilde çözüm bulabilirsiniz.
 
 ## Genel osu! desteği
 
@@ -12,4 +12,4 @@ Hesap sorunları, ödeme problemleri, ban takipleri, turnuvalar hakkındaki sorg
 
 ## peppy'e ulaşmak
 
-Eğer osu! ile alakalı olmayan sebeplerden dolayı peppy ile kişisel olarak iletişime geçmek istiyorsanız, [pe@ppy.sh](mailto:pe@ppy.sh) adresinden ulaşabilirsiniz. Bu e-posta adresine gönderilen hesap ile ilgili ya da destek konulu bütün taleplerin spam olarak işaretleneceğini biliniz.
+Eğer osu! ile alakalı olmayan sebeplerden dolayı peppy ile kişisel olarak iletişime geçmek istiyorsanız, ona [pe@ppy.sh](mailto:pe@ppy.sh) adresinden ulaşabilirsiniz. Bu e-posta adresine gönderilen destek taleplerinin ve osu! hesaplarıyla ilgili e-postaların spam olarak işaretleneceğini lütfen aklınızda bulundurunuz.
