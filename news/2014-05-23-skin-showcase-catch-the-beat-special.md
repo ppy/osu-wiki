@@ -7,10 +7,10 @@ tumblr_url: http://osunews.tumblr.com/post/86623206423/skin-showcase-catch-the-b
 
 With the Catch the Beat World Cup well underway, I've decided to showcase 4 different skins looking solely at Catch the Beat
 
-1.  HD Neon by winotu and Tiensei ([thread link](https://osu.ppy.sh/community/forums/topics/171731))
-2.  Popcorn by Liiraye ([thread link](https://osu.ppy.sh/community/forums/topics/114226))
-3.  Yami Shoujo by Minky ([thread link](https://osu.ppy.sh/community/forums/topics/143111))
-4.  Zechrome by Zeprommer [(thread link](https://osu.ppy.sh/community/forums/topics/127275))
+1. HD Neon by winotu and Tiensei ([thread link](https://osu.ppy.sh/community/forums/topics/171731))
+2. Popcorn by Liiraye ([thread link](https://osu.ppy.sh/community/forums/topics/114226))
+3. Yami Shoujo by Minky ([thread link](https://osu.ppy.sh/community/forums/topics/143111))
+4. Zechrome by Zeprommer [(thread link](https://osu.ppy.sh/community/forums/topics/127275))
 
 Also for those of you who are unfamiliar with the Catch the Beat World Cup, you can follow one of the below links to find out more.
 

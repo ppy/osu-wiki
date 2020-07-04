@@ -7,11 +7,11 @@ tumblr_url: http://osunews.tumblr.com/post/75252397877/skin-showcase-taiko-speci
 
 With the Taiko World Cup now underway, I've decided to showcase 5 different skins looking solely at Taiko.
 
-1.  Frank's Taiko skin by Frank7654321 ([thread link](https://osu.ppy.sh/community/forums/topics/48424))
-2.  IIDX 13 by crystalsuicune ([thread link](https://osu.ppy.sh/community/forums/topics/151549))
-3.  Xi-Style G2 by Xiao ([thread link](https://osu.ppy.sh/community/forums/topics/59787))
-4.  NeOsu 3 by OsuMe65 [(thread link](https://osu.ppy.sh/community/forums/topics/132898))
-5.  X.OZ1 by \_Gezo\_ [(thread link)](https://osu.ppy.sh/community/forums/topics/161718)
+1. Frank's Taiko skin by Frank7654321 ([thread link](https://osu.ppy.sh/community/forums/topics/48424))
+2. IIDX 13 by crystalsuicune ([thread link](https://osu.ppy.sh/community/forums/topics/151549))
+3. Xi-Style G2 by Xiao ([thread link](https://osu.ppy.sh/community/forums/topics/59787))
+4. NeOsu 3 by OsuMe65 [(thread link](https://osu.ppy.sh/community/forums/topics/132898))
+5. X.OZ1 by \_Gezo\_ [(thread link)](https://osu.ppy.sh/community/forums/topics/161718)
 
 Also for those of you who are unfamiliar with the Taiko World Cup, you can follow one of the bellow links to find out more.
 
