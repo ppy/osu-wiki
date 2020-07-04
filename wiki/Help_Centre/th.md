@@ -4,23 +4,23 @@ needs_cleanup: true
 
 <!-- TODO: same deal as FAQ. this should be split up into appropriate articles and only written as guides where necessary. right now this page is only useful for people linking directly to sections of it -->
 
-# Help centre
+# ศูนย์ช่วยเหลือ
 
-Having trouble with something? We're here to help! Check out some solutions to common issues in the sidebar to the left of your screen.
+มีปัญหากับบางสิ่งอย่างงั้นเหรอฮะ? เราพร้อมให้ความช่วยเหลือคุณนะฮะ! ลองดูวิธีแก้ไขปัญหาทั่วไปในแถบด้านข้างทางด้านซ้ายของหน้าจอสิฮะ
 
-## Account
+## บัญชี
 
-### Supporter
+### ผู้สนับสนุน
 
-#### I've paid for a supporter tag, but still have not received it!
+#### ฉันจ่ายเงินสำหรับแท็กผู้สนับสนุนแล้ว แต่ฉันยังไม่ได้รับมันเลยง่ะ!
 
-**Depending on what payment service you used (Paypal or Xsolla), there may be a slight delay in the processing of your payment before it reaches us.**
+**ขึ้นอยู่กับบริการการชำระเงินที่คุณใช้นะฮะ (Paypal หรือ Xsolla) อาจมีความล่าช้าเล็กน้อยในการประมวลผลการชำระเงินของคุณก่อนที่จะถึงเราฮะ**
 
-Usually, these issues resolve themselves within a few hours, and our systems will automatically apply your tag to your account.
+โดยปกติแล้วปัญหาเหล่านี้จะแก้ไขตัวเองภายในไม่กี่ชั่วโมงฮะ และระบบของเราจะนำแท็กของคุณไปใช้กับบัญชีของคุณโดยอัตโนมัตินะฮะ
 
-If it has been over 24 hours and you still do not have your supporter tag, please email [support@ppy.sh](mailto:support@ppy.sh) and let us know about your problem.
+หากเกิน 24 ชั่วโมงและคุณยังไม่มีแท็กผู้สนับสนุนโปรดส่งอีเมลไปที่ [support@ppy.sh](mailto:support@ppy.sh) และแจ้งให้เราทราบเกี่ยวกับปัญหาของคุณได้เลยฮะ
 
-Make sure to include any receipts that you received during the process (paypal transaction IDs, Xsolla receipts, etc) - these help us a lot in tracking down what happened to your payment!
+ตรวจสอบให้แน่ใจว่าได้รวมใบเสร็จรับเงินที่คุณได้รับในระหว่างการชำระเงินนะฮะ (รหัสธุรกรรม PayPal, ใบเสร็จรับเงิน Xsolla ฯลฯ) - สิ่งเหล่านี้ช่วยเราได้มากในการติดตามปัญหาการชำระเงินของคุณนะฮะ!
 
 ### Restriction
 
