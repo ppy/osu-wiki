@@ -17,10 +17,10 @@ The new ranking processor determines a _difficulty value_ for every beatmap and 
 
 Currently the processor only features sensible ranks for the standard mode. Other modes will soon go live with a temporary solution, based on star difficulty. Note the _temporary_. Over the next few weeks I will collect feedback and suggestions for **all** modes so I can add reasonable calculations for Catch the Beat, Taiko and osu!mania as well. Please leave your feedback below or in the respective forum thread.
 
--   [Standard feedback and suggestions](https://osu.ppy.sh/community/forums/topics/181850)
--   [Catch the Beat feedback and suggestions](https://osu.ppy.sh/community/forums/topics/181851)
--   [Taiko feedback and suggestions](https://osu.ppy.sh/community/forums/topics/181852)
--   [osu!mania feedback and suggestions](https://osu.ppy.sh/community/forums/topics/181853)
+- [Standard feedback and suggestions](https://osu.ppy.sh/community/forums/topics/181850)
+- [Catch the Beat feedback and suggestions](https://osu.ppy.sh/community/forums/topics/181851)
+- [Taiko feedback and suggestions](https://osu.ppy.sh/community/forums/topics/181852)
+- [osu!mania feedback and suggestions](https://osu.ppy.sh/community/forums/topics/181853)
 
 I'll read through everything and I will try to answer as much as possible. We can't possibly make a good ranking system without the community's help; every opinion counts!
 

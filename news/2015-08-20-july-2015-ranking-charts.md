@@ -16,7 +16,7 @@ The charts have previously been created by letting four dedicated community memb
 
 For osu!, we decided to let **[monstrata](https://osu.ppy.sh/users/2706438)** pick their favourite maps.
 
--  **[Ceui - Hana ni Natta Shounen no Shinwa](https://osu.ppy.sh/beatmapsets/296952) by [Narcissu](https://osu.ppy.sh/users/1826598)**
+- **[Ceui - Hana ni Natta Shounen no Shinwa](https://osu.ppy.sh/beatmapsets/296952) by [Narcissu](https://osu.ppy.sh/users/1826598)**
 
 Despite its 10 minutes of drain time, this is one of the few maps that make you feel like you've only spent 3 minutes playing it. The map itself is very well designed. It showcases variety of visually appealing patterns that are not always structurally based. Furthermore, the map is very well hitsounded, with custom sets that really complement the various instruments in the song. Most importantly, however, this map demonstrates something that is often overlooked by new mappers: rhythm choice. Narcissu's choice of rhythms do not simply follow the music, but rather, they complement it, blending in both Ceui's voice with the various instruments in the background that are already supported through thoughtful hitsounding. The song is elevated to new heights as players are able to better appreciate the entirety of this musical masterpiece, and not simply the vocals or a single instrument. The result is a playing experience that leaves you wondering just how ten minutes flew by so quickly.
 

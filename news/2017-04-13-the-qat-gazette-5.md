@@ -21,11 +21,11 @@ To that effect, I'll be bringing you a rundown of some of the recent happenings 
 
 **Lastly, a quick peek at some upcoming discussion articles on our blog:**
 
--   You can find out more more information about the osu!standard BN Tier split and how it will affect the mapping scene in osu! by following the link mentioned previously, but for those wanting to dig a little deeper, you can expect a review on the test design and results courtesy of one of the creators, **Mao**, very soon!
+- You can find out more more information about the osu!standard BN Tier split and how it will affect the mapping scene in osu! by following the link mentioned previously, but for those wanting to dig a little deeper, you can expect a review on the test design and results courtesy of one of the creators, **Mao**, very soon!
 
--   Are you a rice lover or a noodle fanatic? If you're an osu!mania player, mapper or modder, chances are you have an opinion on long notes. Our resident ET **Blocko** will be giving us his thoughts on how they are used in the current meta of osu!mania mapping, comparing their execution with respect to both visuals and playability.
+- Are you a rice lover or a noodle fanatic? If you're an osu!mania player, mapper or modder, chances are you have an opinion on long notes. Our resident ET **Blocko** will be giving us his thoughts on how they are used in the current meta of osu!mania mapping, comparing their execution with respect to both visuals and playability.
 
--   Have you ever asked for a few suggestions on your map and received a textwall instead? Hopefully you received a lot of useful criticism to help you improve, but maybe you weren't so lucky… What if the modder didn't understand what you intended to do at all and is suggesting a remap? Or maybe you just received a hundred new combo suggestions? **Feerum** will be presenting his take on understanding the mapper's style when modding, and why long mods are not necessarily better ones.
+- Have you ever asked for a few suggestions on your map and received a textwall instead? Hopefully you received a lot of useful criticism to help you improve, but maybe you weren't so lucky… What if the modder didn't understand what you intended to do at all and is suggesting a remap? Or maybe you just received a hundred new combo suggestions? **Feerum** will be presenting his take on understanding the mapper's style when modding, and why long mods are not necessarily better ones.
 
 If you want to find out about all the lovely people who will be contributing to this blog, as well as remain in the loop with upcoming articles, keep an eye on our [**Announcement Page**](https://osu.ppy.sh/community/forums/topics/578437).
 

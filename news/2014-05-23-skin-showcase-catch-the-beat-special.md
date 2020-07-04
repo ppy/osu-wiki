@@ -14,8 +14,8 @@ With the Catch the Beat World Cup well underway, I've decided to showcase 4 diff
 
 Also for those of you who are unfamiliar with the Catch the Beat World Cup, you can follow one of the below links to find out more.
 
--   ([Wiki page](https://osu.ppy.sh/community/forums/topics/127275))
--   ([Thread discussion](https://osu.ppy.sh/community/forums/topics/200185))
--   ([Previous Catch the Beat World Cup](https://osu.ppy.sh/community/forums/topics/106684))
+- ([Wiki page](https://osu.ppy.sh/community/forums/topics/127275))
+- ([Thread discussion](https://osu.ppy.sh/community/forums/topics/200185))
+- ([Previous Catch the Beat World Cup](https://osu.ppy.sh/community/forums/topics/106684))
 
 —deadbeat
