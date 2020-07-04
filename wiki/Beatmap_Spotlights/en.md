@@ -69,6 +69,44 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
 - ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098)
 - ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767)
 
+## Playlists
+
+### osu!
+
+- Playlist A
+  - [Kurenainagi Tabibito - Beloved Tomboyish Girl (Glass) \[Extended\]](https://osu.ppy.sh/beatmapsets/21678#osu/153246)
+  - [Krewella - Ghost (Sulfur) \[Sulfur's Hard\]](https://osu.ppy.sh/beatmapsets/1060866#osu/2329519)
+  - [nana(Sevencolours) - Chameleon (L\_P) \[Chameleon\]](https://osu.ppy.sh/beatmapsets/53632#osu/180969)
+  - [Tove Styrke - Changed My Mind (Mint) \[Expert\]](https://osu.ppy.sh/beatmapsets/982452#osu/2056844)
+  - [Britney Spears - Toxic (schoolboy) \[In The Zone\]](https://osu.ppy.sh/beatmapsets/1061947#osu/2223745)
+
+### osu!taiko
+
+- Playlist A
+  - [Zekk - Feelsleft0ut (komasy) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/1143253#taiko/2393341)
+  - [t+pazolite - Shiny Kung-fu Revival (DakeDekaane) \[Muzukashii\]](https://osu.ppy.sh/beatmapsets/352991#taiko/777798)
+  - [Hoshio Yuka - Tabidachi no Shuen (lolcubes) \[Oni\]](https://osu.ppy.sh/beatmapsets/119729#taiko/307304)
+  - [Mary - Artificial Rose (Urushi38) \[TK'S Oni\]](https://osu.ppy.sh/beatmapsets/99434#taiko/281675)
+  - [Nippon Gakuon Noise Kyoukai - Igomoyos=Omul no Thema ni yoru Buyobuyo Sketch no Kokoromi (uone) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/690019#taiko/1460471)
+
+### osu!catch
+
+- Playlist A
+  - [Virtual Self - Angel Voices (Sinnoh) \[Platter\]](https://osu.ppy.sh/beatmapsets/939437#fruits/2060158)
+  - [IOSYS - Endless Tewi-ma Park (Kurosanyan) \[Drafura's Rain\]](https://osu.ppy.sh/beatmapsets/48874#fruits/181233)
+  - [cYsmix - Breeze (wonjae) \[Rocma's Rain\]](https://osu.ppy.sh/beatmapsets/840964#fruits/1761864)
+  - [DECO*27 feat. marina - Aimai Elegy (val0108) \[Red Light ~CtB~\]](https://osu.ppy.sh/beatmapsets/43248#fruits/155227)
+  - [HyuN - Grin (Absolute Zero) \[Collab Overdose\]](https://osu.ppy.sh/beatmapsets/1065368#fruits/2230881)
+
+### osu!mania
+
+- Playlist A
+  - [An - ExaVid (Abraxos) \[at\_the\_threshold\]](https://osu.ppy.sh/beatmapsets/649306#mania/1589629)
+  - [Camellia - Artificial Snow (Dergo) \[ash's hard\]](https://osu.ppy.sh/beatmapsets/1026319#mania/2147852)
+  - [Culprate - Finger VIP (Parachor) \[Trigger Finger\]](https://osu.ppy.sh/beatmapsets/508572#mania/1081560)
+  - [Chroma - lost memory (Youwhang) \[a light received from you.\]](https://osu.ppy.sh/beatmapsets/961321)
+  - [bbn - Identic Conflict (pporse) \[Birdcage\]](https://osu.ppy.sh/beatmapsets/246853#mania/568463)  
+
 ## Spotlights Seasons
 
 The Beatmap Spotlights project is organised in pre-defined seasons. Each season consists of a pool of curated beatmaps and a competitive seasonal league for the whole community.
@@ -84,13 +122,14 @@ The Beatmap Spotlights project is organised in pre-defined seasons. Each season 
 
 ### Schedule
 
-This schedule shows the availability of the timeshift lobbies of the upcoming season. **THIS FIRST SCHEDULE IS NOT FINALIZED AND CAN CHANGE ANYTIME**
+This schedule shows the availability of the timeshift lobbies of the upcoming season.
 
 | Event | Time |
 | --: | :-- |
 | Season Start | 2020-07-06 |
 | Timeshift Lobby: Playlist A | 2020-07-10 - 2020-07-12 |
 | Timeshift Lobby: Playlist B | 2020-07-17 - 2020-07-19 |
+| Initial Profile Badge Distribution | 2020-07-21 - 2020-07-23 |
 | Timeshift Lobby: Playlist C | 2020-07-24 - 2020-07-26 |
 | Timeshift Lobby: Playlist D | 2020-07-31 - 2020-08-02 |
 | Timeshift Lobby: Playlist A | 2020-08-07 - 2020-08-09 |
@@ -99,7 +138,7 @@ This schedule shows the availability of the timeshift lobbies of the upcoming se
 | Timeshift Lobby: Playlist D | 2020-08-28 - 2020-08-30 |
 | Timeshift Lobby: Playlist A,B | 2020-09-04 - 2020-09-06 |
 | Timeshift Lobby: Playlist C,D | 2020-09-11 - 2020-09-13 |
-| Season End | 2020-09-13 |
+| Season Conclusion | 2020-09-14 - 2020-09-18 |
 
 ### Weekly Multiplayer Lobbies
 
@@ -130,16 +169,16 @@ The Seasonal Leaderboard sums up the weekly Ranked Score results of every partic
    - The bracket is assigned based on the placement within the leaderboard. Participants will be assigned the highest bracket they are eligible for.
 4. The assigned bracket will be revealed once the 2nd week of a season has concluded.
 
-| Bracket Tier | Placement |
-| --: | :-- |
-| Rhythm Incarnates | Top 50 |
-| Diamond | Top 51 - 3% |
-| Platinum | 3% - 10% |
-| Gold | 10% - 25% |
-| Silver | 25% - 50% |
-| Bronze | 50% - 70% |
-| Copper | 70% - 95% |
-| Iron |  95% - 100% |
+| Badges | Bracket Tier | Placement |
+| :--: | --: | :-- |
+| | Rhythm Incarnates | Top 50 |
+| | Diamond | Top 51 - 3% |
+| | Platinum | 3% - 10% |
+| | Gold | 10% - 25% |
+| | Silver | 25% - 50% |
+| | Bronze | 50% - 70% |
+| | Copper | 70% - 95% |
+| | Iron |  95% - 100% |
 
 ### Rewards
 
