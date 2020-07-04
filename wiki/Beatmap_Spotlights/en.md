@@ -69,7 +69,7 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
 - ![][flag_FR] [Madeline](https://osu.ppy.sh/users/2812098)
 - ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767)
 
-## Playlists
+## Playlists (Summer 2020)
 
 ### osu!
 
