@@ -632,7 +632,7 @@ JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
 | Aiko | 1 - 6 | **Alisa** | 4.2 |
 | Ryūta | 3 - 4 | **Yuzu** | 5.1 |
 | **Taikonator** | 7 - 0 | Tama | 13.37 |
-| Maria | 没有进行比赛 | Mocha |  |
+| Maria | 没有进行比赛 | Mocha | |
 ```
 
 ### 引用
@@ -949,14 +949,14 @@ October 25, 2016 (11:45 UTC)
 
 你可以参照以下表格对部分单词或短语进行翻译。
 
-| 英文         | 中文             |
-|:------------ |:---------------- |
-| e.g.         | 例如             |
-| For example: | 例如：           |
-| Examples:    | 例如：           |
-| See also:    | 参见：/ 另见：   |
+| 英文 | 中文 |
+| :-- | :-- |
+| e.g. | 例如 |
+| For example: | 例如： |
+| Examples: | 例如： |
+| See also: | 参见：/ 另见： |
 | For..., see: | 关于……，请参见： |
-| Note:        | 小提示：         |
-| Notice:      | 请注意：         |
-| Caution:     | 请小心：         |
-| Warning:     | 警告：           |
+| Note: | 小提示： |
+| Notice: | 请注意： |
+| Caution: | 请小心： |
+| Warning: | 警告： |
