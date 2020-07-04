@@ -7,7 +7,7 @@ El [Internet Relay Chat](https://en.wikipedia.org/wiki/Internet_Relay_Chat), tam
 
 osu!Bancho ofrece una puerta de enlace que permite acesso IRC (Chat in-game). Puedes conectarte con tu propio cliente y charlar con otras personas sin tener que usar el cliente de juego. Ten en cuenta que este protocolo IRC es una modificación, por tanto, no esperes que las funciones de tu cliente funcionen.
 
-**Nota [HexChat](https://hexchat.github.io/) tiene problemas conocidos con el IRC de osu. [Reporte de error en el GitHub de HexChat](https://github.com/hexchat/hexchat/issues/818)), si esto te molesta, considera usar otro cliente.
+**Nota [HexChat](https://hexchat.github.io/) tiene problemas conocidos con el IRC de osu. [Reporte de error en el GitHub de HexChat](https://github.com/hexchat/hexchat/issues/818)), si esto te molesta, considera usar otro cliente.**
 
 ## Como conectar
 
