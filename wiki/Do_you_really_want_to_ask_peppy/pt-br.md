@@ -4,7 +4,7 @@ Olá! peppy entende seu desejo de contatá-lo pessoalmente, mas ele pede para qu
 
 ## Suporte técnico
 
-A maioria dos problemas técnicos podem ser resolvidos procurando ou postando no [Fórum de ajuda](https://osu.ppy.sh/community/forums/5). Existem várias pessoas lá prontos para te ajudar, assim você encontrará uma solução mais rápido do que contactando ele.
+A maioria dos problemas técnicos podem ser resolvidos procurando ou postando no [Fórum de ajuda](https://osu.ppy.sh/community/forums/5). Existem várias pessoas lá prontas para te ajudar, assim você encontrará uma solução mais rápido do que contatando ele.
 
 ## Suporte geral do osu!
 
