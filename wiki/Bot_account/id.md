@@ -5,13 +5,14 @@ tags:
   - chat bots
   - IRC bot
   - IRC bots
+no_native_review: true
 ---
 
 # Akun bot
 
 **Akun bot** adalah jenis akun osu! yang dijalankan oleh layanan otomatis dan bukan orang sungguhan. Jika diperiksa lewat situs web, akun - akun ini memiliki lencana berlabel putih dan bertuliskan `BOT`, dan hanya bagian `me!` saja yang terlihat di profil mereka. Akun bot paling sering digunakan untuk meng-host "chat bots" yang menawarkan berbagai fungsi kepada komunitas melalui channel lobi [multiplayer](/wiki/Multi) atau melalui pesan pribadi.
 
-Akun bot hanya dapat dibuat melalui [proses pengajuan](#mendaftarkan-akun-bot). Upaya untuk mendaftarkan akun bot dengan mendaftarkan akun osu! seperti biasa akan dianggap memiliki akun ganda dan merupakan pelanggaran terhadap [peraturan osu!](/wiki/Rules#community-rules).
+Akun bot hanya dapat dibuat melalui [proses pengajuan](#mendaftarkan-akun-bot). Upaya untuk mendaftarkan akun bot dengan mendaftarkan akun osu! seperti biasa akan dianggap memiliki akun ganda dan merupakan pelanggaran terhadap [peraturan osu!](/wiki/Rules#peraturan-komunitas).
 
 ## Keuntungan akun bot
 
@@ -52,8 +53,6 @@ Isi daripada email tersebut harus meliputi hal - hal berikut:
 - Ringkasan singkat mengenai apa yang bot tersebut bisa lakukan
 
 Setelah pengajuan dikirim kami akan meninjaunya. Jika pengajuan kamu ditolak, kami akan memberi tahu kepada kamu alasannya. Jika pengajuan kamu diterima, tim dukungan akun osu! akan membuatkan akun bot untukmu dan memberi instruksi lebih lanjut mengenai cara penggunaannya.
-
-<!-- TODO: history section would be nice, talking about LogBot, BanchoBot, the phpbb crawler accounts, the first user-run bots, Quality Assurance Team, osu!team, ... -->
 
 ## Trivia
 
