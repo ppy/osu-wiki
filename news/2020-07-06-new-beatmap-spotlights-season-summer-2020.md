@@ -4,7 +4,7 @@ title: "New Beatmap Spotlights Season: Summer 2020"
 date: 2020-07-06 07:00:00 +0000
 ---
 
-For the first time since our initial announcement, the Renewed Beatmap Spotlights boot off with its first Summer Season and a plethora of rewards for everybody joining the brand-new competitive, seasonal League.
+For the first time since our initial announcement, the renewed Beatmap Spotlights boot off with its first Summer Season and a plethora of rewards for everybody joining the brand-new competitive Seasonal League.
 
 ![](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
