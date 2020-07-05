@@ -1,6 +1,7 @@
 ---
 outdated: true
 ---
+
 # Momento Kiai
 
 ![Las estrellas bañan la pantalla indicando que el Momento Kiai ha comenzado.](img/Kiai_Time_test.jpg "Las estrellas bañan la pantalla indicando que el Tiempo Kiai ha comenzado.")

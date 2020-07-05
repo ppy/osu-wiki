@@ -15,7 +15,7 @@ While kiai time is active all [hit objects](/wiki/Hit_Objects) will flash at the
 
 Kiai time is most commonly used for the "strongest part of a song" which usually is the chorus. Since kiai sections are the strongest part of a song it makes sense that they are slightly more challenging than the rest of the mapset to follow the song.
 
-# osu!taiko
+## osu!taiko
 
 On [osu!taiko](/wiki/Game_Modes/osu!taiko) maps kiai sections give 20% more [score](/wiki/Score).
 
