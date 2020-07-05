@@ -1,11 +1,8 @@
 ---
 tags:
   - ds
----
-
-```yaml
 needs_cleanup: true
-```
+---
 
 # Distance snap
 
