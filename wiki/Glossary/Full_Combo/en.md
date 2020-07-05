@@ -10,3 +10,7 @@ tags:
 Due to the combo multiplier effect, full combos will award the most score in the [osu!standard](/wiki/Game_Modes/osu!), [osu!taiko](/wiki/Game_Modes/osu!taiko), and [osu!catch](/wiki/Game_Modes/osu!catch) game modes. See the below comparison for an example of the score difference between a full combo and a broken combo.
 
 ![Score comparison between full and broken combos](../img/CombosCanHurt.png "The score on the top has a full combo, while the one on the bottom has a broken combo.")
+
+<!-- TODO: Add links-->
+
+<!-- This is a stub -->
