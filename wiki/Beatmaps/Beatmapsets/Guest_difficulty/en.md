@@ -10,9 +10,7 @@ tags:
 
 *For regulations surrounding guest difficulties, see: [Ranking Criteria](/wiki/Ranking_Criteria/)*
 
-*See also: [Collaborative difficulty](/wiki/Beatmaps/Beatmap_collaborations)*
-
-A **guest difficulty** or *GD* is a [beatmap](/wiki/Beatmaps) of a [beatmapset](/wiki/Beatmaps/Beatmapsets) that is not created by the [beatmapset host](/wiki/Beatmaps/Beatmapsets/Beatmapset_host). Guest difficulties usually use the creator's username in the difficulty's name.
+A **guest difficulty** or *GD* is a [beatmap](/wiki/Beatmaps) of a [beatmapset](/wiki/Beatmaps/Beatmapsets) that is not created by the [beatmapset host](/wiki/Beatmaps/Beatmapsets/Beatmapset_host). A beatmap featuring multiple mappers is also known as a [collaborative difficulty](/wiki/Beatmaps/Beatmap_collaborations). Guest difficulties usually use the creator's username in the difficulty's name.
 
 There are many reasons for guest difficulties to exist:
 
