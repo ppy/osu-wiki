@@ -169,17 +169,6 @@ The Seasonal Leaderboard sums up the weekly Ranked Score results of every partic
    - The bracket is assigned based on the placement within the leaderboard. Participants will be assigned the highest bracket they are eligible for.
 4. The assigned bracket will be revealed once the 2nd week of a season has concluded.
 
-| Badges | Bracket Tier | Placement |
-| :--: | --: | :-- |
-| | Rhythm Incarnates | Top 50 |
-| | Diamond | Top 51 - 3% |
-| | Platinum | 3% - 10% |
-| | Gold | 10% - 25% |
-| | Silver | 25% - 50% |
-| | Bronze | 50% - 70% |
-| | Copper | 70% - 95% |
-| | Iron |  95% - 100% |
-
 ### Rewards
 
 Rewards are distributed to weekly timeshift lobby winners, creators of curated beatmaps and every participant present on the seasonal leaderboard.
@@ -189,6 +178,17 @@ Rewards are distributed to weekly timeshift lobby winners, creators of curated b
 3. At the end of each season, every participant is awarded a permanent medal representing their final bracket placement.
    - This feature is currently not implemented on the osu! website. A listing of earned medals per user will be provided elsewhere for the time being.
 4. At the end of each season, a new unlockable medal will be added. Players need to complete every beatmap of this season once to obtain it.
+
+| Badges | Bracket Tier | Placement |
+| :--: | :--: | :--: |
+| ![](img/badges/summer_2020/ri_1.png) ![](img/badges/summer_2020/ri_2.png) ![](img/badges/summer_2020/ri_3.png) | Rhythm Incarnates | Top 50 |
+| ![](img/badges/summer_2020/diamond_1.png) ![](img/badges/summer_2020/diamond_2.png) ![](img/badges/summer_2020/diamond_3.png) | Diamond | Top 51 - 3% |
+| ![](img/badges/summer_2020/platinum_1.png) ![](img/badges/summer_2020/platinum_2.png) ![](img/badges/summer_2020/platinum_3.png) | Platinum | 3% - 10% |
+| ![](img/badges/summer_2020/gold_1.png) ![](img/badges/summer_2020/gold_2.png) ![](img/badges/summer_2020/gold_3.png) | Gold | 10% - 25% |
+| ![](img/badges/summer_2020/silver_1.png) ![](img/badges/summer_2020/silver_2.png) ![](img/badges/summer_2020/silver_3.png) | Silver | 25% - 50% |
+| ![](img/badges/summer_2020/bronze_1.png) ![](img/badges/summer_2020/bronze_2.png) ![](img/badges/summer_2020/bronze_3.png) | Bronze | 50% - 70% |
+| ![](img/badges/summer_2020/copper_1.png) ![](img/badges/summer_2020/copper_2.png) ![](img/badges/summer_2020/copper_3.png) | Copper | 70% - 95% |
+| ![](img/badges/summer_2020/iron_1.png) ![](img/badges/summer_2020/iron_2.png) ![](img/badges/summer_2020/iron_3.png) | Iron |  95% - 100% |
 
 ### Curation System
 
@@ -217,7 +217,7 @@ The curation system involves the process of curators selecting the beatmaps bein
 
 ### Becoming a curator
 
-Everyone can apply to become a curator by filling this [application form](https://spotlights.team/app).
+Everyone can apply to become a curator by filling this [application form](https://spotlights.team/app). Applications open up between the seasons and are closed during an ongoing season.
 
 All applicants are reviewed by project management and team leaders and assessed based on their proficiency as a player, mapper, modder and tournament mappool selector for their respective game mode. Applicants do not need to be proficient in all of these things to be selected, but having a broad skill set certainly helps. The roster of curators is based on a healthy mix and match of various skill levels, experiences and proficiencies. The number of curators is being purposefully kept small and limited at the moment as the project develops.
 

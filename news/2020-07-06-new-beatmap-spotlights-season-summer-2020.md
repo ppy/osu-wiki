@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Renewed Beatmap Spotlights: Summer 2020"
+title: "New Beatmap Spotlights Season: Summer 2020"
 date: 2020-07-06 07:00:00 +0000
 ---
 
@@ -43,16 +43,16 @@ With that being said, the Summer 2020 season has been fully prepared and is read
 
 Depending on your position on the Seasonal Ranking, you will be awarded with a unique profile badge. Your exact position will only be known to you when you are in the Top 50. Additionally, the Top 10 players of every timeshift lobby will be awareded with 1 week of supporter tag.
 
-| Badge | Bracket Tier | Placement |
-| :--: | --: | :-- |
-| ![](/wiki/Beatmap_Spotlights/img/Rhythm_Incarnate.jpg) | Rhythm Incarnates | Top 50 |
-| ![](/wiki/Beatmap_Spotlights/img/Diamond.jpg) | Diamond | Top 51 - 3% |
-| ![](/wiki/Beatmap_Spotlights/img/Platinum.jpg) | Platinum | 3% - 10% |
-| ![](/wiki/Beatmap_Spotlights/img/Gold.jpg) | Gold | 10% - 25% |
-| ![](/wiki/Beatmap_Spotlights/img/Silver.jpg) | Silver | 25% - 50% |
-| ![](/wiki/Beatmap_Spotlights/img/Bronze.jpg) | Bronze | 50% - 70% |
-| ![](/wiki/Beatmap_Spotlights/img/Copper.jpg) | Copper | 70% - 95% |
-| ![](/wiki/Beatmap_Spotlights/img/Iron.jpg) | Iron |  95% - 100% |
+| Badges | Bracket Tier | Placement |
+| :--: | :--: | :--: |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_3.png) | Rhythm Incarnates | Top 50 |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/diamond_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/diamond_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/diamond_3.png) | Diamond | Top 51 - 3% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/platinum_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/platinum_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/platinum_3.png) | Platinum | 3% - 10% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/gold_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/gold_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/gold_3.png) | Gold | 10% - 25% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/silver_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/silver_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/silver_3.png) | Silver | 25% - 50% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/bronze_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/bronze_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/bronze_3.png) | Bronze | 50% - 70% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/copper_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/copper_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/copper_3.png) | Copper | 70% - 95% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/iron_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/iron_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/iron_3.png) | Iron |  95% - 100% |
 
 ## Winter Spotlights results
 
