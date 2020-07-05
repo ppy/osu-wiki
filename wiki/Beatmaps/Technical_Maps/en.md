@@ -40,7 +40,7 @@ Due to the broad nature of the term "tech map," there are many different aspects
 
 ![Non-generic beatmap pattern (Nhelv)](https://osu.ppy.sh/ss/15172997/dd24 "Non-generic beatmap pattern")
 
-![Hard flow (Densetsu no Matsuri)](https://osu.ppy.sh/ss/15173062/34ac "Beatmap pattern with hard "flow")
+![Hard flow (Densetsu no Matsuri)](https://osu.ppy.sh/ss/15173062/34ac "Beatmap pattern with hard "flow"")
 
 Good examples of tech maps that fit this definition are [Silentroom - Nhelv](https://osu.ppy.sh/beatmapsets/917915#osu/2009432) and [RUMI - Densetsu no Matsuri](https://osu.ppy.sh/beatmapsets/781683#osu/1641637).
 
