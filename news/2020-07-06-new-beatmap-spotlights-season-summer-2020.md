@@ -21,7 +21,7 @@ Of course each game mode will have their own leaderboard and playlists. If you a
 
 ## Season Schedule
 
-With that being said, the Summer 2020 season has been fully prepared and is ready for deployment. Therefore, the first timeshift lobby will open **this Friday** already. The first Playlist A can be found on the [Beatmap Spotlights wiki page](/wiki/Beatmap_Spotlights) already.
+With that being said, the Summer 2020 season has been fully prepared and is ready for deployment. Therefore, the first timeshift lobby will open **this Friday** already. The first Playlist A can be found on the [Beatmap Spotlights wiki page](/wiki/Beatmap_Spotlights) now.
 
 | Event | Time |
 | --: | :-- |
@@ -56,7 +56,7 @@ Depending on your position on the Seasonal Ranking, you will be awarded with a u
 
 ## Winter Spotlights results
 
-We did not forgot the winners of the Winter Beatmap Spotlights 2020. Congratulations to the winners! They will receive 3, 2, and 1 month of osu!supporter for 1st, 2nd, and 3rd place respectively for their efforts!
+We did not forgot the winners of the Winter Beatmap Spotlights 2020. Congratulations to every single one of them! They will receive 3, 2, and 1 month of osu!supporter for 1st, 2nd, and 3rd place respectively for their efforts!
 
 - **osu!:** [Kingling](https://osu.ppy.sh/users/7010761), [Lkxemmeji](https://osu.ppy.sh/users/7947034), and [Karmagyre](https://osu.ppy.sh/users/8221504)
 - **osu!taiko:** [syaron105](https://osu.ppy.sh/users/8741695), [AlvaroYL](https://osu.ppy.sh/users/6333166), and [\[Zeth\]](https://osu.ppy.sh/users/9912966)
