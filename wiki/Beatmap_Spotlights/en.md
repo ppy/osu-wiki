@@ -190,6 +190,8 @@ Rewards are distributed to weekly timeshift lobby winners, creators of curated b
 | ![](img/badges/summer_2020/copper_1.png) ![](img/badges/summer_2020/copper_2.png) ![](img/badges/summer_2020/copper_3.png) | Copper | 70% - 95% |
 | ![](img/badges/summer_2020/iron_1.png) ![](img/badges/summer_2020/iron_2.png) ![](img/badges/summer_2020/iron_3.png) | Iron |  95% - 100% |
 
+This table only shows one of four badge versions. Each game mode has an own badge version.
+
 ### Curation System
 
 The curation system involves the process of curators selecting the beatmaps being put into the Beatmap Spotlights for each season.

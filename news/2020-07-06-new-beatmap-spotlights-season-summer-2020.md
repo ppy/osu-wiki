@@ -54,6 +54,8 @@ Depending on your position on the Seasonal Ranking, you will be awarded with a u
 | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/copper_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/copper_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/copper_3.png) | Copper | 70% - 95% |
 | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/iron_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/iron_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/iron_3.png) | Iron |  95% - 100% |
 
+This table only shows one of four badge versions. Each game mode has an own badge version.
+
 ## Winter Spotlights results
 
 We did not forgot the winners of the Winter Beatmap Spotlights 2020. Congratulations to every single one of them! They will receive 3, 2, and 1 month of osu!supporter for 1st, 2nd, and 3rd place respectively for their efforts!
