@@ -18,13 +18,13 @@ The choices are almost all yours! Go wild, but stick to the rules outlined below
 
 ## Rules
 
-* The chief theme for this contest is **twins**.
+- The chief theme for this contest is **twins**.
     - **The twins must be a brother-sister pairing. No sister-sister, no brother-brother.** This means that one is male, one is female.
-* Your entry must contain two designs for two characters.
-    * Each character can share similarities with the other, but they must be visually distinct and identifiable from one another.
-    * Characters must be humanoid. No anthropomorphic creatures.
-* All designs must be appropriate for an all-ages audience. Children do play this game, remember, and mascots are the "face" of their given gamemode.
-* Do not use features, themes or concepts from other intellectual properties. All entries must be unique and solely the creation of their authors. Plagiarisers will be exterminated with extreme prejudice.
+- Your entry must contain two designs for two characters.
+    - Each character can share similarities with the other, but they must be visually distinct and identifiable from one another.
+    - Characters must be humanoid. No anthropomorphic creatures.
+- All designs must be appropriate for an all-ages audience. Children do play this game, remember, and mascots are the "face" of their given gamemode.
+- Do not use features, themes or concepts from other intellectual properties. All entries must be unique and solely the creation of their authors. Plagiarisers will be exterminated with extreme prejudice.
 
 The top 3 entries as voted by the public will receive **6 months, 3 months, and 2 months** of osu!supporter respectively. 
 

@@ -26,7 +26,7 @@ Each main development discussed in the server has its own channel:
 | [osu!taiko](/wiki/Game_Modes/osu!taiko) star rating and performance points | `#difficulty-taiko` |
 | [osu!catch](/wiki/Game_Modes/osu!catch) star rating and performance points | `#difficulty-catch` |
 | [osu!mania](/wiki/Game_Modes/osu!mania) star rating and performance points | `#difficulty-mania` |
-| [Beatmap Spotlights](https://osu.ppy.sh/rankings/osu/charts)<!-- TODO: link to a wiki article when it exists --> | `#osu-spotlights` |
+| [Beatmap Spotlights](/wiki/Beatmap_Spotlights) | `#osu-spotlights` |
 | [osu! wiki](https://github.com/ppy/osu-wiki "ppy/osu-wiki on GitHub") | `#osu-wiki` |
 | [Project Loved](/wiki/Project_Loved) | `#osu-loved` |
 | [Modding](/wiki/Modding) discussion and [NAT meetings](/wiki/Modding/NAT_meetings) | `#modding` |

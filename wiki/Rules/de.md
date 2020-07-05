@@ -54,10 +54,10 @@ Solltest du dich nicht an die Regeln halten, passieren schlechte Dinge.
 
 Diese schlechten Dinge umfassen unter anderem (nicht nur):
 
-* Der zeitbegrenzte Ausschluss aus dem Chat im Spiel (auch bekannt als Silence).
-* Das Entfernen der regelwidrigen Inhalte von deiner Userpage, deinem Profil oder deiner Beatmap.
-* Der Verlust deiner Privilegien, deine Userpage zu bearbeiten oder zu verändern.
-* Der Verlust deines Privilegs, an offiziellen Turnieren teilzunehmen.
+- Der zeitbegrenzte Ausschluss aus dem Chat im Spiel (auch bekannt als Silence).
+- Das Entfernen der regelwidrigen Inhalte von deiner Userpage, deinem Profil oder deiner Beatmap.
+- Der Verlust deiner Privilegien, deine Userpage zu bearbeiten oder zu verändern.
+- Der Verlust deines Privilegs, an offiziellen Turnieren teilzunehmen.
 
 Silences und andere Maßnahmen gegen Verstöße nehmen **automatisch** exponentiell an Länge mit jedem Verstoß zu. Moderatoren kontrollieren nicht die Länge dieser Maßnahmen - zahlreiche Verstöße führen also zu immer längeren Strafen.
 
