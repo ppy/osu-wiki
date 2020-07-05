@@ -15,7 +15,7 @@ Everybody in our new team of curators worked hard to bring forth the most excell
 - The results of the weekly timeshift lobby will be collated into a big **Seasonal Ranking**. Depending your position on the Seasonal Ranking, you can earn yourself a **unique and permanent profile badge**. The profile badges will already be awarded after the 2nd week of this season and will be updated every week, reflecting your current position in the Seasonal Ranking.
 - There will be **four playlists in total, each consisting of 5 beatmaps** and each being played three times during the season. This gives you plenty of opportunities to revisit your weekly scores as only your best total score on a playlist will be considered for your position on the Seasonal Ranking.
 - On top of that **the Top 10 people of each timeshift lobby will be awarded with 1 week of supporter tag**.
-- At the end of the season, we will **elect the best mapper of this season** and provide a **new unlockable medal** for those who want to play through the Seasonal Beatmaps once the season has concluded.
+- At the end of the season, we will provide a **new unlockable medal** for those who want to play through the Seasonal Beatmaps once the season has concluded and **the best mapper of this season will be elected**. More information about that will follow at a later point.
 
 Of course each game mode will have their own leaderboard and playlists. If you are interested in the full details of this system, you can visit the [Beatmap Spotlights wiki page](/wiki/Beatmap_Spotlights) to learn more.
 
