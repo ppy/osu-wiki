@@ -255,13 +255,13 @@ Generous donations from ![][flag_US] [Nambulance](https://osu.ppy.sh/users/13034
 
 ### Semifinals
 
-Thursday 25 June 2020:
+Thursday, 25 June 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Click the Cricles to the Beat | 2 | **6** | **Alek & Friends** | [#1](https://osu.ppy.sh/community/matches/63364297) |
 
-Saturday 27 June 2020:
+Saturday, 27 June 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
@@ -269,7 +269,7 @@ Saturday 27 June 2020:
 | **G Nome** | **6** | 3 | Bats from Wuhan | [#1](https://osu.ppy.sh/community/matches/63439568) |
 | Peko Peko | 2 | **6** | **Chuchichäschtli** | [#1](https://osu.ppy.sh/community/matches/63449255) |
 
-Sunday 28 June 2020:
+Sunday, 28 June 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
