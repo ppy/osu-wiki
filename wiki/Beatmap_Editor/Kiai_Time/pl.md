@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Czas Kiai
 
 ![Fontanna gwiazd oznaczająca początek Czasu Kiai.](img/Kiai_Time_test.jpg "Fontanna gwiazd oznaczająca początek Czasu Kiai.")
