@@ -25,7 +25,7 @@ With that being said, the Summer 2020 season has been fully prepared and is read
 
 | Event | Time |
 | --: | :-- |
-| Season Start | Jul 7th 2020 |
+| Season Start | Jul 6th 2020 |
 | Timeshift Lobby: Playlist A | Jul 10th - Jul 12th 2020 |
 | Timeshift Lobby: Playlist B | Jul 17th - Jul 19th 2020 |
 | Initial Profile Badge Distribution | Jul 21st - Jul 23rd 2020 |
