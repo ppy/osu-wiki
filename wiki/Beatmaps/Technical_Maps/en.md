@@ -29,31 +29,33 @@ Due to the broad nature of the term "tech map," there are many different aspects
 
 *Notice: the "broadest" definition only requires one or two of the aspects listed to be present in order to define a beatmap as tech.*
 
-- Non-generic or difficult-to-read beatmap patterns
-- A hard "flow" to the beatmap
+- Non-generic or difficult-to-read beatmap patterns (example shown below)
+  - A hard "flow" to the beatmap
 - SV sliders
-- Slider art
-- Dense in object count (excluding [streams](/wiki/Beatmaps/Pattern/Stream))
+  - These may contain slider art
 - Irregular slider shapes
 - Quick and sharp changes in slider speed
 - Overall high intensity
+  - Extremely dense in object count throughout large parts of the map (excluding [streams](/wiki/Beatmaps/Pattern/Stream))
 
-<!-- images need to be added here -->
+![Non-generic beatmap pattern](https://osu.ppy.sh/ss/15172997/dd24 "Non-generic beatmap pattern")
 
-Good examples of tech maps that fit this definition are <!--PLACEHOLDER--> and <!--PLACEHOLDER-->.
+Good examples of tech maps that fit this definition are [Silentroom - Nhelv](https://osu.ppy.sh/beatmapsets/917915#osu/2009432) and [Halozy - Kikoku Doukoku Jigokuraku](https://osu.ppy.sh/beatmapsets/437683#osu/942356).
 
 ### Most restrictive/most specific
 
-*Notice: the most "restricted/specific" definition requires **all** all of the aspects listed to be present in order to define a beatmap as tech.*
+*Notice: the "most restrictive/specific" definition requires **all** all of the aspects listed to be present in order to define a beatmap as tech.*
 
 - Irregular slider shapes
 - Quick and sharp changes in slider speed
 - SV sliders
-- Difficult-to-read beatmap patterns (these often have a hard "flow")
+- Difficult-to-read beatmap patterns (often described as having a hard "flow") (example shown below)
 
-<!-- images need to be added here -->
+![Difficult-to-read-pattern](https://osu.ppy.sh/ss/15173062/34ac "Difficult-to-read-pattern")
 
-Good examples of tech maps that fit this definition are <!--PLACEHOLDER--> and <!--PLACEHOLDER-->.
+![Irregular slider shape](https://osu.ppy.sh/ss/15173034/cf62 "Irregular slider shape (SV slider)")
+
+Good examples of tech maps that fit this definition are [Camelia - Exit This Earth's Atomosphere (Camellia's "PLANETARY//200STEP" Remix)](https://osu.ppy.sh/beatmapsets/855677#osu/1787848) and [RUMI - Densetsu no Matsuri](https://osu.ppy.sh/beatmapsets/781683#osu/1641637).
 
 ### Mapper's definition
 
@@ -63,5 +65,5 @@ Good examples of tech maps that fit this definition are <!--PLACEHOLDER--> and <
 
 <!--Other definitions like a "Player's definition" or something like that *could* be written, but I think this is enough for now-->
 
-<!--Some other sections that'd be cool to add:
-- A "History" section would be pretty cool. But idk how feasible this would be -->
+<!--Some other sections that would be cool to add:
+- A "History" section would be pretty cool. But idk how feasible this would be. -->
