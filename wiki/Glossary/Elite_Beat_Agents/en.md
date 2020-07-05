@@ -12,4 +12,5 @@ tags:
 EBA is one of the [DS games](/wiki/Glossary/DS_Games) that the [osu!standard](/wiki/Game_Modes/osu!) gamemode is based on.
 
 <!--TODO: Insert lots of links-->
+
 <!-- this is a stub -->
