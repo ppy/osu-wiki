@@ -11,4 +11,5 @@ tags:
 To ensure time-distance equality on a [beatmap](/wiki/Beatmaps) the `Distance Snap` button on the right-hand side of the [editor](/wiki/Beatmap_Editor) can be turned on. You can change distance snapping values by holding down `Alt` and sliding the selector at the top-right or by scrolling the mousewheel. Note that higher values will have the player move their mouse farther.
 
 <!-- This is a stub -->
+
 <!-- TODO: Insert images and links -->
