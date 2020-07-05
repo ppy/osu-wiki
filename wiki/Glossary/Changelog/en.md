@@ -10,4 +10,5 @@ The [changelog](https://osu.ppy.sh/home/changelog) is a page where peppy and the
 *Note: the changelog was originally a series of forum posts in 2007 before becoming the official page it is today.*
 
 <!-- This is a stub -->
+
 <!--TODO: Add images and links-->
