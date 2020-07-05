@@ -6,15 +6,17 @@ tags:
 
 # Hitsound
 
-*See also: [How to add custom hitsounds](/wiki/Guides/Adding_Custom_Hitsounds)*
+*See also: [Adding custom hitsounds](/wiki/Guides/Adding_Custom_Hitsounds)*
 
 <!-- TODO: could make more articles about each part of hitsounds, and also one focused more on gameplay than mapping -->
 
-A **hitsound** is a sound effect played when a [hit object](/wiki/Hit_Objects) is clicked. Hitsound feedback consists of a default sample called a "hit normal", and any combination of whistle, finish, or clap sample additions. Each sample has one of three "sample sets" that change its style: `Normal`, `Soft`, or `Drum`.
+**Hitsounds** are the sounds that osu! plays in response to user input when interacting with [hit objects](/wiki/Hit_Objects) in a [game mode](/wiki/Game_Modes/). Hitsounds are used to give auditory feedback to the player to help them judge their [accuracy](/wiki/Accuracy/) in relation to the song.
 
-[Spinners](/wiki/Hit_Objects/Spinner) and [sliders](/wiki/Hit_Objects/Slider) have additional spinner spin, spinner bonus, slider slide, and slider tick hitsounds.
+Hitsound feedback consists of a default sample called a "hit normal", and any combination of whistle, finish, or clap sample additions. Each sample has one of three "sample sets" that change its style: `Normal`, `Soft`, or `Drum`.
 
 Beatmappers can replace any default sound samples with custom samples using a [beatmapset](/wiki/Beatmaps/Beatmapsets)'s folder. A player's [skin](/wiki/Skinning) can also replace default hitsounds on all beatmaps. Details on hitsound samples can be found in the [hitsound skinning](/wiki/Skinning/Sounds#hitsounds) article.
+
+[Spinners](/wiki/Hit_Objects/Spinner) and [sliders](/wiki/Hit_Objects/Slider) have additional spinner spin, spinner bonus, slider slide, and slider tick hitsounds.
 
 ## Active hitsound
 
@@ -28,7 +30,7 @@ Hitsounds can be added through storyboarding, but because they don't correlate t
 
 ## Keysound
 
-A keysound is a hitsound sample that is extremely similar or directly taken from the song and is used to replicate the pitch of the song's notes. This method of hitsounding usually provides low feedback to the player, but can be interesting and make sections of maps stand out when applied well.
+A keysound is a hitsound sample that is extremely similar or directly taken from the song and is used to replicate the pitch of the song's notes. This method of hitsounding usually provides low feedback to the player, but can be interesting and make sections of a map stand out when applied well.
 
 ## In osu!taiko
 
