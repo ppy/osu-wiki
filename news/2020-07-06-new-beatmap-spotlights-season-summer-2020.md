@@ -21,7 +21,7 @@ Of course each game mode will have their own leaderboard and playlists. If you a
 
 ## Season Schedule
 
-With that being said, the Summer 2020 season has been fully prepared and is ready for deployment. Therefore, the first timeshift lobby will open **this Friday** already. The first Playlist A can be found on the [Beatmap Spotlights wiki page](/wiki/Beatmap_Spotlights) now.
+With that being said, the Summer 2020 season has been fully prepared and is ready for deployment. Therefore, the first timeshift lobby will open **this Friday** already. The first Playlist A can be found on the [Beatmap Spotlights wiki page](/wiki/Beatmap_Spotlights) now. Remember that your badge will update every week once they have been initially distributed.
 
 | Event | Time |
 | --: | :-- |
