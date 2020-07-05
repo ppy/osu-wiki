@@ -10,7 +10,7 @@ Having trouble with something? We're here to help! Check out some solutions to c
 
 #### I've paid for a supporter tag, but still have not received it!
 
-**Depending on what payment service you used (Paypal or Xsolla), there may be a slight delay in the processing of your payment before it reaches us.**
+**Depending on what payment service you used (PayPal or Xsolla), there may be a slight delay in the processing of your payment before it reaches us.**
 
 Usually these issues resolve themselves within a few hours, and our systems will automatically apply the tag to your account.
 
@@ -30,7 +30,7 @@ In situations where we are absolutely assured that foul play or wrongdoing has t
 
 Please refer to *[Account Restrictions](/wiki/Help_Centre/Account_Restrictions)* for more information on account restrictions and the appeal process.
 
-### Sign-in
+### Sign in
 
 #### I've forgotten my username and password!
 
@@ -53,6 +53,8 @@ If this succeeds, you will be able to reset your own password without the assist
 
 If this does not work for you, please send us a support ticket as soon as possible to [accounts@ppy.sh](mailto:accounts@ppy.sh) with as much identifying information as you can gather in order to help us establish you as the owner of your account.
 
+*Notice: Please do not include replay or score data in your ticket; we cannot use this to verify your ownership of the account.*
+
 Emailing from your registration address is a huge bonus here, as well as any other information you can provide that only the holder of the account would know. Such as…
 
 - The name of the email address that you registered the account on (or any other email the account has been associated with since)
@@ -60,15 +62,13 @@ Emailing from your registration address is a huge bonus here, as well as any oth
 - The last date you can remember being able to access your account normally
 - Any other identifying information that you think could be helpful
 
-*Notice: Please do not include replay or score data in your ticket; we cannot use this to verify your ownership of the account.*
-
-#### The website is telling me that I've tried to sign-in too many times!
+#### The website is telling me that I've tried to sign in too many times!
 
 **This is a temporary protection measure after repeated failures to access your account.**
 
-If this happens to you, simply wait for awhile and try to sign-in after 10–20 minutes.
+If this happens to you, simply wait for awhile and try to sign in after 10–20 minutes.
 
-A couple of hours at the absolute maximum will clear the status for most people and allow them to sign-in again.
+A couple of hours at the absolute maximum will clear the status for most people and allow them to sign in again.
 
 #### I didn't receive any emails from osu!/I forgot my email address!
 
@@ -76,7 +76,7 @@ A couple of hours at the absolute maximum will clear the status for most people 
 
 If you remember your account's attached email address, try visiting the Email section in [account settings](https://osu.ppy.sh/home/account/edit) page to change your email address. Fill out the necessary fields and click `Update` when you're done.
 
-If you have lost your account's password and are not receiving any password recovery emails, or you really cannot remember what email address you were using, please contact us at [accounts@ppy.sh](mailto:accounts@ppy.sh). Any information you have about your account (e.g., your username, any screenshots that show you signed-in to the client, past transactions through the store or supporter payments, etc.) will be helpful!
+If you have lost your account's password and are not receiving any password recovery emails, or you really cannot remember what email address you were using, please contact us at [accounts@ppy.sh](mailto:accounts@ppy.sh). Any information you have about your account (e.g., your username, any screenshots that show you signed in to the client, past transactions through the store or supporter payments, etc.) will be helpful!
 
 Lastly, please keep in-mind that some providers do not accept automated emails from us. If you are using any of these providers, please contact us by physical mail and we'll change your email address for you:
 
@@ -106,7 +106,7 @@ If you are only after minor capitalization or grammar/spelling changes, you can 
 
 **Yes, but only under certain circumstances.**
 
-If a player has not signed-in for at least six months and has no plays, their username may be reclaimed via the [osu!store player name change page](https://osu.ppy.sh/store/products/32) for a standard fee associated with username changes.
+If a player has not signed in for at least six months and has no plays, their username may be reclaimed via the [osu!store player name change page](https://osu.ppy.sh/store/products/32) for a standard fee associated with username changes.
 
 If that player does have any plays across all game modes, a [non-linear function](https://www.desmos.com/calculator/b89siyv9j8 "Desmos graph") is used to calculate how much extra time is added to those six months. This is to prevent people from stealing the usernames of active or recently retired players.
 
@@ -146,7 +146,7 @@ For example, if you create an account while on holiday in the United States, you
 
 The support team can and will happily change your account's country upon request, **but only if you are actively living within that country at the time.**
 
-To confirm this, the team will ask for proof of residency; be it the appropriate passport, drivers license for your country, or some other form of ID. This must be displayed in a picture next to your monitor with the osu! client open and signed-in to your account.
+To confirm this, the team will ask for proof of residency; be it the appropriate passport, drivers license for your country, or some other form of ID. This must be displayed in a picture next to your monitor with the osu! client open and signed in to your account.
 
 We will never display this information to anyone else, and we encourage you to blank out any personal information (that will not otherwise make it impossible for us to determine what country the document is for!) if you are concerned about your privacy.
 
@@ -174,7 +174,7 @@ This does not mean that you can make a new account to do the same thing, either!
 
 **Yes, absolutely. This includes shared PCs like netcafes or PC bangs. Just so long as…**
 
-Just so long as you are playing on only your own account; you can play osu! anywhere, you just have to sign-in
+Just so long as you are playing on only your own account; you can play osu! anywhere, you just have to sign in
 
 If you are playing from a public place, make sure to keep a close eye on your account security; shared computers are often prime targets for malicious software.
 
@@ -222,7 +222,7 @@ To check, try the following steps (under Windows 8 and above): <!-- I assume "un
 3. If you see a menu entry titled `Default app settings`, click it. If you do not, expand your search to include `default app settings`.
 4. Scroll down to the `Web browser` heading and check to make sure that a browser which you have installed is properly set.
 
-#### My game will not update properly!
+#### My game won't update properly!
 
 **This is usually due to issues with your PC, but can very rarely be caused by new updates.**
 
@@ -475,7 +475,7 @@ Tor (The Onion Router) or networks associated with the Tor relay will not connec
 
 ### Online Features
 
-#### I can't sign-in or connect to osu! at all!
+#### I can't sign in or connect to osu! at all!
 
 **Ensure that osu! can properly access the Internet through any firewall or anti-virus suites you have installed on your computer.**
 
@@ -929,7 +929,7 @@ If you encounter any issues with this process, please send an email to [store@pp
 
 ## Troubleshooting
 
-### Common Issues
+### Common issues
 
 #### What are 'log files' and how do I make them?
 
