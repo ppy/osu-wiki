@@ -70,6 +70,27 @@ The osu!mania LN Tournament 2 is run by various community members.
 
 ## Mappools
 
+### Quarterfinals
+
+**[Download the mappack here! (159 MB)](https://mega.nz/file/SYl3xSQA#qXm6cZmbjbJTADTRv_8FDSig6YXkqe-XBI4H1sAfQN8)**
+
+- FreeMod
+  - [OISHII - ONIGIRI FREEWAY (Mentholzzz) \[Unagi Onigiri "UHD"\]](https://osu.ppy.sh/beatmapsets/663098#mania/1505212)
+  - [Etia. - On And On!! (Club Extended) [feat. Jenga] (eZmmR) \[Raveille & eZmmR's LN Party!!\]](https://osu.ppy.sh/beatmapsets/989038#mania/2068796)
+  - [Kanae Asaba - Endless Starlight \~Inochi no Kirameki\~ (Raveille) \[Kibo\]](https://osu.ppy.sh/beatmapsets/629366#mania/1328717)
+  - [IOSYS - Ringo's Tea Party (TheToaphster) \[Spooked\]](https://osu.ppy.sh/beatmapsets/638838#mania/1355027)
+  - [PLINI X KENDRICK LAMAR - POETIC JUSTICE // AWAY (Razzy) \[Desire\]](https://osu.ppy.sh/beatmapsets/955714#mania/1996491)
+  - [Nekomata Master - Funny shuffle (Hydria) \[Groove\]](https://osu.ppy.sh/beatmapsets/472442#mania/1009536)
+  - [Shawn Wasabi & YDG feat. Yung GEMMY - Burnt Rice ( Aiobahn & Jh-Anu Remix) (AuraahDono) \[Burnt Noodles\]](https://osu.ppy.sh/beatmapsets/1004372#mania/2102092)
+  - [white crystal - sensitive -KOTOKO vocal mix- (\_underjoy) \[Fragile Mind\]](https://osu.ppy.sh/beatmapsets/955173#mania/1994734)
+  - [Zekk - Duplication (Dergo) \[replication\]](https://osu.ppy.sh/beatmapsets/1046301#mania/2187286)
+  - [sun3 - Morgenglut 2012 (\_underjoy) \[Dawn\]](https://osu.ppy.sh/beatmapsets/463897#mania/993347)
+  - [sky\_delta - DIABLOSIS::Naga (PiraTom) \[LNAVITY\]](https://osu.ppy.sh/beatmapsets/510291#mania/1084990)
+  - [Various Artists - Masteriosl's LN Converts Pack 1 (Masteriosl) \[Gojou Kai & Nakamura Meiko - fragment of tears \[Another (Seiryuu) \[Full LN\]\]\]](https://osu.ppy.sh/beatmapsets/1030265#mania/2154461)
+  - [void - Valedict (TLQ\_Yoshii) \[Valedict's LN Departure\]](https://osu.ppy.sh/beatmapsets/1208263#mania/2515932)
+- Tiebreaker
+  - **[SOUND HOLIC vs. dj TAKA feat. YURiCa - TIEFSEE (-Rem-) \[Twilight\]](https://osu.ppy.sh/beatmapsets/953297#mania/1990431)**
+
 ### Round of 16
 
 - FreeMod
