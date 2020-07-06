@@ -96,6 +96,36 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
 
 ## Mappools
 
+### Finals
+
+**[Download the map pack here! (114 MB)](https://mega.nz/file/wMQgSAqR#wC-Vu9lT-2IBHaCbQARRNg6Ie8UqfWnMSE_QtBFkS98)**
+
+- NoMod
+  - [Disarmonia Mundi - Clay of Hate (Mew104) \[Defiance\]](https://osu.ppy.sh/beatmapsets/426802#taiko/921457)
+  - [xi remixed by BACO feat. Emyuu - Halcyon -MY INTERPRETATION- (Wilben\_Chan) \[Wilben alive\]](https://osu.ppy.sh/beatmapsets/1129452#taiko/2359500)
+  - [easynam - silly 300bpm thing (7\_7) \[why\]](https://osu.ppy.sh/beatmapsets/793594#taiko/1666549)
+  - [2go Aniki - Cutting the music (nyanmi-1828) \[ka\]](https://osu.ppy.sh/beatmapsets/756214#taiko/1592330)
+  - [lapix feat. Renko from ORANGEJAM - Concept Of Reality (janitoreihil) \[Alternate ReOnity\]](https://osu.ppy.sh/beatmapsets/948200#taiko/1980366)
+  - [LSD - Stimulant Beatmaps (maziari1105) \[KatHarSis\]](https://osu.ppy.sh/beatmapsets/597075#taiko/1262365)
+- Hidden
+  - [SENTIVE - Kaze no Yukue -2nd- (tasuke912) \[Wind\]](https://osu.ppy.sh/beatmapsets/970490#taiko/2031381)
+  - [Igorrr - Cheval (DukeDukeDura) \[DukeDukeDura's Oni\]](https://osu.ppy.sh/beatmapsets/624683#taiko/1318435)
+  - [Camellia - KillerBeast (Capu) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/1069639#taiko/2239078)
+- HardRock
+  - [455-38B - gengaozo\_foon (applerss) \[Inner oni\]](https://osu.ppy.sh/beatmapsets/465321#taiko/996160)
+  - [RVFS - hatsu miku time (7\_7) \[bitch\]](https://osu.ppy.sh/beatmapsets/1140583#taiko/2382371)
+  - [BilliumMoto - 1xMISS (rubies87) \[99.92% (Ura Oni)\]](https://osu.ppy.sh/beatmapsets/1079811#taiko/2259190)
+- DoubleTime
+  - [xi feat. Sta - Tiferet (yea) \[Master\]](https://osu.ppy.sh/beatmapsets/1073757#taiko/2247312)
+  - [Avalanch - Torquemada (Hanjamon) \[Inner Oni\]](https://osu.ppy.sh/beatmapsets/648914#taiko/1374716)
+  - [t+pazolite - Angelic Jelly (komasy) \[Angelic Oni\]](https://osu.ppy.sh/beatmapsets/690516#taiko/1461399)
+- FreeMod
+  - [Erehamonika remixed by kors k - Der Wald (Kors K Remix) (Nofool) \[Insane Oni\]](https://osu.ppy.sh/beatmapsets/432406#taiko/1302635)
+  - [Run Girls, Run! - Share the light (TV Size) (realy0\_) \[Luminous Oni\]](https://osu.ppy.sh/beatmapsets/1128443#taiko/2357606)
+  - [Subheroine - 8tp46UgZ (applerss) \[6me21OzA\]](https://osu.ppy.sh/beatmapsets/1118042#taiko/2335417)
+- Tiebreaker
+  - **[Xenoglossy - Kaihai no Northbridge (tasuke912) \[TAIKO-HOLIC\]](https://osu.ppy.sh/beatmapsets/868552#taiko/1815417)**
+
 ### Semifinals
 
 **[Download the map pack here! (146 MB)](https://mega.nz/file/tkUHQAjR#2k1H5DMRaY4cwsSDrMX1zM3MjxV0ZU9m-_J2sf-6f-I)**
@@ -242,6 +272,24 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
   - [DJ Fresh - Gold Dust (Vyiuri) \[Oni\]](https://osu.ppy.sh/beatmapsets/981799#taiko/2054840)
 
 ## Match results
+
+### Semifinals
+
+Saturday, 4 July 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **janitore** ![][flag_CA] | **7** | 5 | ![][flag_JP] nekomusya1234 | [#1](https://osu.ppy.sh/community/matches/63684101) |
+| ekumea1123 ![][flag_JP] | 3 | **7** | ![][flag_CL] **Ulqui** | [#1](https://osu.ppy.sh/community/matches/63686178) |
+| **nananass** ![][flag_JP] | **7** | 4 | ![][flag_JP] uone | [#1](https://osu.ppy.sh/community/matches/63690713) |
+| **iceOC** ![][flag_JP] | **7** | 1 | ![][flag_ES] AlvaroYL | [#1](https://osu.ppy.sh/community/matches/63694464) |
+
+Sunday, 5 July 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| nekomusya1234 ![][flag_JP] | 2 | **7** | ![][flag_CL] **Ulqui** | [#1](https://osu.ppy.sh/community/matches/63724583) |
+| **uone** ![][flag_JP] | **7** | 2 | ![][flag_JP] iceOC | [#1](https://osu.ppy.sh/community/matches/63735706) |
 
 ### Quarterfinals
 
