@@ -93,6 +93,16 @@ The Hidden Only Tournament was run by various community members.
 | **what** | ![][flag_SG] **[Heresy](https://osu.ppy.sh/users/8876938)**, ![][flag_SG] [\_gt](https://osu.ppy.sh/users/8301957), ![][flag_ID] [Takaichi](https://osu.ppy.sh/users/909745), ![][flag_SG] [Hecatia](https://osu.ppy.sh/users/8244635) |
 | **잉여여신** | ![][flag_US] **[Kamayami](https://osu.ppy.sh/users/13380270)**, ![][flag_US] [Tennoji Rina](https://osu.ppy.sh/users/7661503), ![][flag_CA] [edouard48](https://osu.ppy.sh/users/10199258) |
 
+## Podium
+
+This competition has come to an end and resulted in the following podium:
+
+| Placing | Team |
+| :-: | :-- |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **:rooGya:** (![][flag_US] [Akamatsu](https://osu.ppy.sh/users/8607968), ![][flag_US] [Leotic](https://osu.ppy.sh/users/4263943), ![][flag_US] [vekt0r](https://osu.ppy.sh/users/8484892), ![][flag_CA] [ktgster](https://osu.ppy.sh/users/53378)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **Pocket Galaxy** (![][flag_US] [M I L E S](https://osu.ppy.sh/users/6036351), ![][flag_GB] [Malteser](https://osu.ppy.sh/users/5218178), ![][flag_BE] [5joshi](https://osu.ppy.sh/users/4279650), ![][flag_FR] [VROUM CV VITE](https://osu.ppy.sh/users/7630971)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **Phrygian Friends** (![][flag_US] [Will Stetson](https://osu.ppy.sh/users/4909088), ![][flag_US] [Vertarix](https://osu.ppy.sh/users/7315668), ![][flag_US] [ruyunata](https://osu.ppy.sh/users/8880920), ![][flag_US] [Leftoverss](https://osu.ppy.sh/users/4665746)) |
+
 ## Mappools
 
 ### Grand Finals
