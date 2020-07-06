@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: 2a53f4edb06a6521b8f6db07dc442660fa9861d3
+---
+
 # AiMod
 
 AiMod est un outil de modding intégré a l'[éditeur de Beatmaps](/wiki/Beatmap_Editor). Pour ouvrir AiMod, pressez `Control` + `Shift` + `A` ou naviguez via les options du menu, **File** » **Ouvrir AiMod** une fois qu'une beatmap est ouverte dans l'éditeur de beatmap.
