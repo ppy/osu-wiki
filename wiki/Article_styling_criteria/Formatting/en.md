@@ -281,7 +281,9 @@ Italics should be used only when naming a video game or the name of a work. osu!
 
 ## Headings
 
-All headings must use sentence case. They must use the [ATX (hash) style](https://github.github.com/gfm/#atx-headings "GitHub") and must have an empty line before and after the heading, with an exception for the title heading when it is on the first line.
+All headings must use sentence case.
+
+Headings must use the [ATX (hash) style](https://github.github.com/gfm/#atx-headings "GitHub") and must have an empty line before and after the heading. The title heading is an exception when it is on the first line. If this is the case, there only needs to be an empty line after the title heading.
 
 Headings must not exceed a heading level of 5 and must not be used to style or format text.
 
