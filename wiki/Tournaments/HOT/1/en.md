@@ -7,7 +7,7 @@ tags:
 
 ![HOT logo](img/logo.jpg)
 
-The **Hidden Only Tournament** (***HOT***) is a worldwide double-elimination 2v2 osu! tournament hosted by ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_CN] [real MikeL](https://osu.ppy.sh/users/10732897), and ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214). Tournaments where maps will be played under Hidden and Hidden/DoubleTime mod only. This is the first installment of the Hidden Only Tournament.
+The **Hidden Only Tournament** (***HOT***) was a worldwide double-elimination 2v2 osu! tournament hosted by ![][flag_TR] [112servis](https://osu.ppy.sh/users/3953470), ![][flag_CN] [real MikeL](https://osu.ppy.sh/users/10732897), and ![][flag_TH] [Seaweed](https://osu.ppy.sh/users/5151214). Tournament where maps was played under Hidden and Hidden/DoubleTime mod only. This was the first installment of the Hidden Only Tournament.
 
 ## Tournament schedule
 
@@ -31,7 +31,7 @@ The **Hidden Only Tournament** (***HOT***) is a worldwide double-elimination 2v2
 
 ## Organisation
 
-The Hidden Only Tournament is run by various community members.
+The Hidden Only Tournament was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -400,7 +400,7 @@ Monday, 25 May 2020:
 | #36 | 잉여여신 | 36 |
 
 - More detailed qualifiers result can be accessed via the statistics sheet inside [links section](#links).
-- Average rank is determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
+- Average rank was determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
 
 ## Ruleset
 
