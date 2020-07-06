@@ -1,12 +1,12 @@
 # AiMod
 
-**AiMod** is a modding tool built into the [Beatmap Editor](/wiki/Beatmap_Editor). To open AiMod, press `Control` + `Shift` + `A` or navigate via menu options **File** » **Open AiMod** once a beatmap is open in the Beatmap Editor.
+![](AiMod.jpg "The AiMod window lists warnings and errors about a beatmap.")
 
-AiMod aims to help mappers "mod" their beatmaps. The limitation of AiMod lies with its basic design which causes it to sometimes overlook issues such as bad mapping patterns and incorrect timing. Finding a [modder](/wiki/Glossary) to mod your beatmap is strongly recommended.
+**AiMod** is a tool built into the [beatmap editor](/wiki/Beatmap_Editor) that detects problems in a [beatmap](/wiki/Beatmaps). It can be opened via the menu option `File` > `Open AiMod` or the [shortcut keys](/wiki/Shortcut_key_reference) `Ctrl` + `Shift` + `A`.
 
-![AiMod](AiMod.jpg "This is the AiMod window")
+While AiMod can be useful for catching basic issues in a map, it is not a replacement for [modding](/wiki/Modding) done by real people. AiMod cannot evalutate the quality of a map or pick out complex issues such as poor [patterning](/wiki/Beatmaps/Pattern) or [timing](/wiki/Beatmap_Editor/Timing)<!-- TODO: probably not the best place to link. this is talking about the concept of timing, not the editor -->. When creating a map<!-- TODO: link! -->, it is recommended to fix AiMod's warnings first, then ask for other [modders](/wiki/Glossary#modder)' help.
 
-AiMod typically completes its beatmap analysis in under a minute and subsequently displays warnings and errors. If no problems were found in your beatmap, then congratulations! The beatmap passed the AiMod analysis, but it still requires modding from the community. The modders can find other issues that AiMod failed to detect.
+Development of AiMod usually lags behind the standards held by the mapping community and [ranking criteria](/wiki/Ranking_Criteria), and as a result, [some of its output is considered incorrect](#flaws).
 
 ## Flaws
 
