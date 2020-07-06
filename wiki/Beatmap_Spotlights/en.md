@@ -11,6 +11,10 @@ tags:
 
 The **Beatmap Spotlights** (also known as: *Spotlights* or *Ranking Charts*) is a recurring curation program for recommending and highlighting user created beatmaps for their excellent and unique design and gameplay. It is accompanied by a seasonal league that yields awards for all participating players.
 
+ **The current iteration of this program is still under development and many features are still pending implementation.** Specifics of this system, such as rewards, seasonal rankings or gameplay features, can change anytime.
+
+The current season is the Summer 2020 season. It is considered to be the first test run of the new Beatmap Spotlights system.
+
 ## Organisation
 
 The Beatmap Spotlights project is run by various community members across all game modes, led on by a dedicated project lead.
@@ -109,7 +113,7 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
 
 ## Spotlights Seasons
 
-The Beatmap Spotlights project is organised in pre-defined seasons. Each season consists of a pool of curated beatmaps and a competitive seasonal league for the whole community.
+The Beatmap Spotlights project is currently organised in pre-defined seasons. Each season consists of a pool of curated beatmaps and a competitive seasonal league for the whole community.
 
 1. A single season lasts 10 weeks.
 2. Seasons are fully prepared before they start.
@@ -120,9 +124,9 @@ The Beatmap Spotlights project is organised in pre-defined seasons. Each season 
    - Weeks cycle through the entire season and repeat twice. The final 2 weeks will have the previous playlists grouped into 2 combined playlists.
 4. Once a season finishes, there will be a break of 3 weeks before a new season begins. During that time, readjustments to the project can be made.
 
-### Schedule
+### Schedule (Summer 2020)
 
-This schedule shows the availability of the timeshift lobbies of the upcoming season.
+This schedule shows the availability of the timeshift lobbies of the current season.
 
 | Event | Time |
 | --: | :-- |
@@ -158,7 +162,9 @@ As of now, joining the weekly multiplayer lobbies requires participants to downl
 
 ### Seasonal Leaderboard
 
-The Seasonal Leaderboard sums up the weekly Ranked Score results of every participant. Based on the Seasonal Leaderboard, the league bracket of every participant is defined and awarded.
+*This feature is pending implementation. Parts of it are to be added as the season goes on. Because of that, this section can change anytime.*
+
+The Seasonal Leaderboard sums up the weekly Ranked Score results of every participant. Based on the Seasonal Leaderboard, every participant is assigned to a league bracket reflecting their relative placement within the leaderboard.
 
 1. Seasonal leaderboard score is a weighed sum of all Weekly Ranked Scores attained in the timeshift lobbies.
 2. Participants can only possess one Weekly Ranked Score per playlist.
@@ -170,24 +176,29 @@ The Seasonal Leaderboard sums up the weekly Ranked Score results of every partic
 
 ### Rewards
 
+*Parts of these rewards are pending implementation. They are to be added as the season goes on. Because of that, this section can change anytime.*
+
 Rewards are distributed to weekly timeshift lobby winners, creators of curated beatmaps and every participant present on the seasonal leaderboard.
 
 1. The top 10 of each weekly timeshift lobby will be awarded with 1 week of osu! supporter tags.
-2. At the end of each season, the best beatmap creator, as decided by the curators, will be awarded with 1 month of supporter tag.
-3. At the end of each season, every participant is awarded a permanent medal representing their final bracket placement.
-   - This feature is currently not implemented on the osu! website. A listing of earned medals per user will be provided elsewhere for the time being.
+2. During the season, every participant is assigned to a league bracket, which is reflected by a unique profile badge on their profile that lasts for the duration of the season.
+   - The badge will be updated every week after the 2nd week of a season.
+   - The best players of a season may be able to keep their profile badge permanently. Details about that are yet to be decided.
+3. At the end of each season, the best beatmap creator, as decided by the curators, will be awarded with 1 month of supporter tag.
 4. At the end of each season, a new unlockable medal will be added. Players need to complete every beatmap of this season once to obtain it.
 
-| Bracket Tier | Placement |
-| :--: | :--: |
-| Rhythm Incarnate | Top 50 |
-| Diamond | Top 51 - 3% |
-| Platinum | 3% - 10% |
-| Gold | 10% - 25% |
-| Silver | 25% - 50% |
-| Bronze | 50% - 70% |
-| Copper | 70% - 95% |
-| Iron |  95% - 100% |
+| Badges | Bracket Tier | Placement |
+| :--: | :--: | :--: |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_3.png) | Rhythm Incarnate | Top 50 |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/diamond_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/diamond_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/diamond_3.png) | Diamond | Top 51 - 3% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/platinum_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/platinum_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/platinum_3.png) | Platinum | 3% - 10% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/gold_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/gold_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/gold_3.png) | Gold | 10% - 25% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/silver_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/silver_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/silver_3.png) | Silver | 25% - 50% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/bronze_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/bronze_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/bronze_3.png) | Bronze | 50% - 70% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/copper_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/copper_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/copper_3.png) | Copper | 70% - 95% |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/iron_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/iron_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/iron_3.png) | Iron |  95% - 100% |
+
+This table only shows one of four badge versions. Each game mode has its own badge version.
 
 ### Curation System
 
@@ -213,6 +224,14 @@ The curation system involves the process of curators selecting the beatmaps bein
    - At most 25% of the selected beatmaps can have such an involvement of curators themselves.
 8. Every curated beatmap must be selected before the season begins. Once a season has started, beatmaps can not be exchanged anymore.
 9. Curated beatmaps are being revealed incrementally during the season. The whole roster of selected beatmaps must be kept secret until every subset of the season has been unveiled.
+
+### Feedback
+
+The current implementation of the Beatmap Spotlights is highly experimental and can change anytime depending on how players respond to it. Because of that, it is important to collect as much feedback and criticism as possible to improve furtherly on the direction and implementation of this system. Players are encouraged to leave their thoughts and feedback here:
+
+- [Forum thread]()
+- [Community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H)
+- `osu-spotlights` in [osu!dev](https://discord.gg/ppy)
 
 ### Becoming a curator
 
