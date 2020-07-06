@@ -8,11 +8,11 @@ Changes to the ranking process are nigh! With recent discussions about [changes 
 
 ![](/wiki/shared/news/banners/beatmap-management.jpg)
 
-+ The QAT is gone and has been replaced by the new [Nomination Assessment Team](https://osu.ppy.sh/groups/7) (NAT). This will be a smaller, highly focused group whose name should be more representative of their responsibilities.
-+ The Beatmap Nominators (BN) are responsible for disqualifying beatmaps and mediating vetoes from now on, in addition to their task of pushing beatmaps towards the ranked category.
-+ Beatmaps that have been vetoed will be mediated by a random jury made up of members of the BN and NAT. This change should make quality assurance decisions more accessible to the general community.
-+ The Global Moderation Team (GMT) will now handle beatmap moderation, and as such will also have access to the disqualify button. The GMT will only disqualify beatmaps in cases where they contain inappropriate content.
-+ A new usergroup has been added for [probationary Beatmap Nominators](https://osu.ppy.sh/groups/32).
+- The QAT is gone and has been replaced by the new [Nomination Assessment Team](https://osu.ppy.sh/groups/7) (NAT). This will be a smaller, highly focused group whose name should be more representative of their responsibilities.
+- The Beatmap Nominators (BN) are responsible for disqualifying beatmaps and mediating vetoes from now on, in addition to their task of pushing beatmaps towards the ranked category.
+- Beatmaps that have been vetoed will be mediated by a random jury made up of members of the BN and NAT. This change should make quality assurance decisions more accessible to the general community.
+- The Global Moderation Team (GMT) will now handle beatmap moderation, and as such will also have access to the disqualify button. The GMT will only disqualify beatmaps in cases where they contain inappropriate content.
+- A new usergroup has been added for [probationary Beatmap Nominators](https://osu.ppy.sh/groups/32).
 
 The Nomination Assessment Team are the moderators of the Beatmap Nominators. They are responsible for handling 
 BN Applications, creating tests for the applicants, and evaluating the current BN members. They will still have their moderation privileges although it is not their primary focus. They may continue to do the same work as the BNs, however their opinions will not be considered above a regular BN's. They will also be the overseers of beatmap veto mediation if they are not part of the mediating jury.

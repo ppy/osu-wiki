@@ -1,6 +1,6 @@
 # Distance Snap
 
-**Distance Snap** — фиксированный миножитель расстояния между нотами.
+**Distance Snap** — фиксированный множитель расстояния между нотами.
 
 ![Пример того, как используется Distance Snap.](img/Beatspacing-RU.jpg "Пример того, как используется Distance Snap.")
 

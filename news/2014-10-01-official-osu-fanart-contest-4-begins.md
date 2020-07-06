@@ -17,19 +17,19 @@ Once again a [full one year supporter tag](https://osu.ppy.sh/p/support) is up f
 
 ## Rules
 
-*   Artwork must fit theme. In this case, it must be **Halloween-themed** osu! artwork.
-*   Everything in your image must be your own work! Don't steal anyone's art, and please don't "trace" anything either. Make your own pose.
-*   Don't include any copyrighted characters from outside of osu! Including your own original characters alongside osu! characters is fine. Also, I know we only used Pippi examples in the banner, but we hope to see Yuzu and perhaps Pippidon represented this time around.
-*   Images must be G-rated and safe-for-work.
-*   Images must meet the size requirements.
-*   **Deadline for entries is October 27th, 2014.**
+-   Artwork must fit theme. In this case, it must be **Halloween-themed** osu! artwork.
+-   Everything in your image must be your own work! Don't steal anyone's art, and please don't "trace" anything either. Make your own pose.
+-   Don't include any copyrighted characters from outside of osu! Including your own original characters alongside osu! characters is fine. Also, I know we only used Pippi examples in the banner, but we hope to see Yuzu and perhaps Pippidon represented this time around.
+-   Images must be G-rated and safe-for-work.
+-   Images must meet the size requirements.
+-   **Deadline for entries is October 27th, 2014.**
 
 ## How to Enter
 
-*   Post a web-friendly (370px wide by 320px maximum) image in [the official contest thread](https://osu.ppy.sh/community/forums/topics/247101)
-*   Link to a much larger print-friendly image (at least 1200x1200, preferably higher, or vector, if possible) for possible printing.
-*   You can upload the images on [https://up.ppy.sh/](https://up.ppy.sh) or [https://puush.me/](https://puush.me)
-*   You may enter more than one image, but you can only win one grand prize. If you have more than one entries, please keep them all in a **single forum post**.
+-   Post a web-friendly (370px wide by 320px maximum) image in [the official contest thread](https://osu.ppy.sh/community/forums/topics/247101)
+-   Link to a much larger print-friendly image (at least 1200x1200, preferably higher, or vector, if possible) for possible printing.
+-   You can upload the images on [https://up.ppy.sh/](https://up.ppy.sh) or [https://puush.me/](https://puush.me)
+-   You may enter more than one image, but you can only win one grand prize. If you have more than one entries, please keep them all in a **single forum post**.
 
 By entering, you agree to let us use your art on the osu! website, social media accounts, and merchandise. We'll hopefully be using many of these entries in various web formats, and if we use your art in an official capacity you'll get a one-month supporter tag.
 
