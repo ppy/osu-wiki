@@ -19,8 +19,8 @@ The **Hidden Only Tournament** (***HOT***) was a worldwide double-elimination 2v
 | Round of 16 | 2020-05-29/2020-06-01 |
 | Quarterfinals | 2020-06-06/2020-06-08 |
 | Semifinals | 2020-06-13/2020-06-14 |
-| Finals | 2020-06-20/2020-06-21 |
-| Grand Finals | 2020-06-27/2020-06-28 |
+| Finals | 2020-06-20/2020-06-28 |
+| Grand Finals | 2020-07-04/2020-07-05 |
 
 ## Prizes
 
@@ -228,6 +228,33 @@ The Hidden Only Tournament was run by various community members.
   - [Sharlo - Ifuudoudou (Chaoslitz) \[Ifuuidol\]](https://osu.ppy.sh/beatmapsets/445251#osu/956456)
 
 ## Match results
+
+### Finals
+
+Saturday, 20 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Koppepan Gaming** | **7** | 4 | newton is gey | [#1](https://osu.ppy.sh/community/matches/63161870) |
+| comet | -1 | **0** | **Pocket Galaxy** | *nullified* |
+
+Sunday, 21 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Koppepan Gaming** | **0** | -1 | comet | *nullified* |
+
+Monday, 22 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **:rooGya:** | **7** | 5 | Phrygian Friends | [#1](https://osu.ppy.sh/community/matches/63225503) |
+
+Sunday, 28 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Koppepan Gaming | -1 | **0** | **Pocket Galaxy** | *win by default* |
 
 ### Semifinals
 
