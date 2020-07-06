@@ -64,7 +64,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 
 | Message | Explantation | Solution |
 | :-- | :-- | :-- |
-| All timing sections have a volume below 5%. |  |  | 
+| All timing sections have a volume below 5%. |  |  |
 
 #### Meta
 
@@ -75,7 +75,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 ### Warnings
 
 #### Compose
- 
+
 | Message | Explantation | Solution |
 | :-- | :-- | :-- |
 | <!-- Not sure how to test this one -->This slider moves in an abnormal way. |  |  |
@@ -110,10 +110,10 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | <!-- Same as above -->Audio bitrate is lower than 128kbps. Consider finding a better quality source. |  |  |
 | Kiai time is toggled on for less than 15 seconds. |  |  |
 | The mp3 you are using is a lot longer than the part which is mapped. Consider cropping it to reduce filesize. |  |  |
-| Kiai needs an end time point. |   |  |
+| Kiai needs an end time point. |  |  |
 | A preview point for this map is not set. Consider setting one from the Timing menu. |  |  |
 | Two timing points exist at the same time! |  |  |
-| {0} out of {1} timing sections have a volume below 5%. |  |  | 
+| {0} out of {1} timing sections have a volume below 5%. |  |  |
 | More than 1/3 of the map is Kiai time. Consider reducing this. |  |  |
 | More than 1/2 of the TV Size map is Kiai time. Consider reducing this. |  |  |
 | Kiai isn't snapped! |  |  |
