@@ -100,7 +100,7 @@ Sunday, 12 July 2020:
 | GF1¹ | awan fanclub | Winner of LF | **19:00** |
 | GF2² | Winner of LF | awan fanclub |  |
 
-¹ Encounter dependent on winner of Match LF  
+¹ Encounter dependent on winner of Match LF\
 ² Match will take place right after Match GF1 and if Team 2 wins Match GF1
 
 ## Mappools
