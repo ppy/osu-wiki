@@ -78,7 +78,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
  
 | Message | Explantation | Solution |
 | :-- | :-- | :-- |
-| This slider moves in an abnormal way. |  |  | <!-- Not sure how to test this one -->
+| <!-- Not sure how to test this one -->This slider moves in an abnormal way. |  |  |
 | Slider has an absurdly large amount of points! |  |  |
 | This combo is very long. Consider splitting it up. | The length of combos can affect the difficulty of the map, as well as the amount of fruits that will be stacked on the catcher's plate. | Go to the offending combos and decide where to start the new combo. (It is prefered that length of combos are, at most, 15-18) |
 | Object's end is offscreen! | Objects that are offscreen may not be seen in osu!clients running in 4:3 ratios. This may not always be accurate, so do check using a 4:3 aspect ratio resolution. | Remove or move the object's end |
@@ -87,7 +87,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | This object is too far from the previous object. | "Check distance snap" must be checked. |  |
 | This spinner is too short. Auto must achieve at least 1000 bonus points on spinners. | The specified spinner is too short; this will make it impossible to obtain a SS. | Find the spinner and remove it or make the spinner a bit longer about 3 whole beats. Length can vary depending on the BPM of the song. |
 | Spinners must have a new combo. |  |  |
-| Object isn't snapped! | The specified object isn't snapped onto the timeline. | Check the timing, if you made a change to it, you may need to resnap all the notes (you can do this manually or click Timing » Resnap all notes (if you do this, you will need to check to see if any notes were placed in the wrong spot!)). | <!-- Potential removal? Wasn't able to make an actual object (not including slider ends) go offscreen as editor forced it back in again -->
+| <!-- Potential removal? Wasn't able to make an actual object (not including slider ends) go offscreen as editor forced it back in again -->Object isn't snapped! | The specified object isn't snapped onto the timeline. | Check the timing, if you made a change to it, you may need to resnap all the notes (you can do this manually or click Timing » Resnap all notes (if you do this, you will need to check to see if any notes were placed in the wrong spot!)). |
 | Object's end is not snapped! | The specified object's end isn't snapped onto the timeline. | Check the timing, if you made a change to it, you may need to resnap all the notes (you can do this manually or click Timing » Resnap all notes (if you do this, you will need to check to see if any notes were placed in the wrong spot!)). |
 
 #### Design
@@ -96,7 +96,7 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | :-- | :-- | :-- |
 | Background image is larger than 2560x1440. |  |  |
 | This map may need an epilepsy warning, as it contains frequently toggled storyboards. |  |  |
-| {0}'s dimensions must be {1}x{1} |  |  | <!-- Not sure how to test this one -->
+| <!-- Not sure how to test this one -->{0}'s dimensions must be {1}x{1} |  |  |
 | Your video's dimensions must not exceed 1024x768 for the 4:3 format. |  |  |
 | Your video's dimensions must not exceed 1280x720 for the 16:9 format. |  |  |
 
@@ -106,8 +106,8 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | :-- | :-- | :-- |
 | This beatmap is over 6 minutes long. Consider shortening it if it's not a marathon-style map. |  |  |
 | Your beatmap is shorter than 45 seconds. Consider making it longer. |  |  |
-| Audio bitrate is higher than 192kbps. Consider recompressing to CBR 192kbps or VBR ~1.0. |  |  | <!-- Potential removal? Not sure if this is broken, but AiMod doesn't seem to detect an issue when I use a 320Kbps audio file -->
-| Audio bitrate is lower than 128kbps. Consider finding a better quality source. |  |  | <!-- Same as above -->
+| <!-- Potential removal? Not sure if this is broken, but AiMod doesn't seem to detect an issue when I use a 320Kbps audio file -->Audio bitrate is higher than 192kbps. Consider recompressing to CBR 192kbps or VBR ~1.0. |  |  |
+| <!-- Same as above -->Audio bitrate is lower than 128kbps. Consider finding a better quality source. |  |  |
 | Kiai time is toggled on for less than 15 seconds. |  |  |
 | The mp3 you are using is a lot longer than the part which is mapped. Consider cropping it to reduce filesize. |  |  |
 | Kiai needs an end time point. |   |  |
@@ -119,23 +119,23 @@ Development of AiMod usually lags behind the standards held by the mapping commu
 | Kiai isn't snapped! |  |  |
 | Kiai's end isn't snapped! |  |  |
 | Breaktime is not suggested for mania maps. | osu!mania maps only! |  |
-| Easy/Normal diff contains too many speed changes. |  |  | <!-- Can't confirm -->
-| Kiai is toggled very frequently! |  |  | <!-- Can't confirm -->
+| <!-- Can't confirm -->Easy/Normal diff contains too many speed changes. |  |  |
+| <!-- Can't confirm -->Kiai is toggled very frequently! |  |  |
 
 #### Meta
 
 | Message | Explantation | Solution |
 | :-- | :-- | :-- |
 | Stack leniency is larger than 0.9 or smaller than 0.3. |  |  |
-| Romanised artist contains unicode. |  |  | <!-- editor removes any unicode automatically, but this warning probably still exists -->
-| Romanised title contains unicode. |  |  | <!-- editor removes any unicode automatically, but this warning probably still exists -->
+| <!-- editor removes any unicode automatically, but this warning probably still exists -->Romanised artist contains unicode. |  |  |
+| <!-- editor removes any unicode automatically, but this warning probably still exists -->Romanised title contains unicode. |  |  |
 | Countdown is not allowed in mania mode. | osu!mania maps only! | Go to Song Settings and disable Countdown in the "Design" tab |
 | Letterboxing is not allowed in mania mode. | osu!mania maps only! |  |
 | OD rate is suggested to be at least 5. | osu!mania maps only! | Go to Song Settings and set OD rate to 5 or higher |
 | OD rate for maps with very few sliders is suggested to be at least 7. | osu!mania maps only! |  |
-| OD rate for maps with very few sliders is suggested to be at least 8. | osu!mania maps only! |  | <!-- Both seem to occur, not sure what changes the value -->
-| Countdown is not allowed in taiko mode. | osu!taiko maps only! |  | <!-- potential removal? tried using countdown on taiko maps, and aimod does not complain -->
-| Epilepsy warning is not allowed in taiko mode. | osu!taiko maps only! |  | <!-- same as above -->
+| <!-- Both seem to occur, not sure what changes the value -->OD rate for maps with very few sliders is suggested to be at least 8. | osu!mania maps only! |  |
+| <!-- potential removal? tried using countdown on taiko maps, and aimod does not complain -->Countdown is not allowed in taiko mode. | osu!taiko maps only! |  |
+| <!-- same as above -->Epilepsy warning is not allowed in taiko mode. | osu!taiko maps only! |  |
 | Letterboxing is not allowed in taiko mode. | osu!taiko maps only! |  |
 
 #### Mapset
