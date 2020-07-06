@@ -232,6 +232,27 @@ Sunday, 12 July 2020:
 
 ## Match results
 
+### Finals
+
+Friday, 3 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Press 3 Fs to pay respects** | **8** | 3 | WHOMEGALUL | [#1](https://osu.ppy.sh/community/matches/63659623) |
+
+Saturday, 4 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **awan fanclub** | **8** | 7 | terserah | [#1](https://osu.ppy.sh/community/matches/63699937) |
+
+Sunday, 5 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Press 3 Fs to pay respects** | **8** | 1 | Em1ruBigDumb | [#1](https://osu.ppy.sh/community/matches/63735581) |
+| Tim Ayam | 2 | **8** | **Em1ruBigDumb** | [#1](https://osu.ppy.sh/community/matches/63732636) |
+
 ### Semifinals
 
 Friday, 26 June 2020:
