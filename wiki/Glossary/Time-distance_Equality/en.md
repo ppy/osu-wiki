@@ -6,9 +6,9 @@ tags:
 
 # Time-distance equality
 
-*Time-distance equality* is the idea that spacing between [hit objects](/wiki/Hit_Objects) is proportional to the duration of time between them. Also known as using a **constant distance spacing**. This idea is especially useful for lower difficulties like Easy and Normals where variable spacing may throw off players.
+**Time-distance equality** is the [beatmapping](/wiki/Beatmapping/) idea that spacing between [hit objects](/wiki/Hit_Objects) should be proportional to the duration of time between them. Beatmaps that use this idea are said to use **constant distance spacing**. It is especially useful for lower difficulties such as 'Easy' and 'Normal' where variable spacing may throw players off.
 
-To ensure time-distance equality on a [beatmap](/wiki/Beatmaps) the `Distance Snap` button on the right-hand side of the [editor](/wiki/Beatmap_Editor) can be turned on. You can change distance snapping values by holding down `Alt` and sliding the selector at the top-right or by scrolling the mousewheel. Note that higher values will have the player move their mouse farther.
+To ensure time-distance equality on a [beatmap](/wiki/Beatmaps) the `Distance Snap` button on the right-hand side of the [editor](/wiki/Beatmap_Editor) can be turned on. To change distance snapping values, hold down `Alt` and slide the selector at the top-right of the screen or scroll the mouse wheel. Note that higher values will have players move their mouse farther increasing the beatmap's difficulty.
 
 <!-- This is a stub -->
 
