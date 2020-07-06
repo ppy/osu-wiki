@@ -2,7 +2,7 @@
 
 [Beatmaps](/wiki/Beatmaps) kunnen ingezonden worden naar de osu! website via de  [in-game editor](/wiki/Beatmap_Editor). Door een beatmap in te zenden kan deze aandacht krijgen van andere gebruikers en eventueel de [Ranked](/wiki/Beatmaps#ranked)- of [Loved](/wiki/Beatmaps#loved)-categorieën betreden.
 
-![](img/bss_warning.png "Beatmap Submission System screen")
+![](img/bss_warning.png "Beatmap Submission System scherm")
 
 Door `Upload Beatmap...` vanuit het `Bestand`-uitklapmenu in de editor te selecteren (sneltoetsen: `Ctrl` + `Shift` + `U`), zal het **Beatmap Submission System** (***BSS***)-venster geopend worden. Dit venster geeft in eerste instantie info om gebruikers te helpen bij het stellen van mappen-gerelateerde vragen, het vinden van feedback voor hun beatmaps, en om ervoor te zorgen dat hun maps geschikt zijn om Ranked te worden. Als je problemen ondervindt bij het gebruiken van het BSS, bekijk dan de [BSS Problemen](/wiki/Guides/BSS_Issues)-gids.
 
@@ -10,17 +10,13 @@ Als de beatmap die een gebruiker wilt uploaden nog niet op de osu! website staat
 
 ## Inzendingsopties
 
-![](img/bss_submitting.png "Beatmap Submission System uploading screen")
+![](img/bss_submitting.png "Beatmap Submission System uploadscherm")
 
 Door op de `Upload NIEUWE Beatmap!` of `Update Beatmap!`-knop te klikken zal een gebruiker de keuze krijgen om de beatmap naar de `Work In Progress (In Uitvoering)/Help` of `Pending (In Afwachting)`-categorie te uploaden. WIP beatmaps (beatmaps in uitvoering) kunnen niet genomineerd worden om Ranked te worden, terwijl Pending beatmaps (beatmaps in afwachting) dat wel kunnen.
 
-<!-- The translations surrounded by grave marks starting here might be wrong since I cannot verify them in BSS without uploading a map. -->
-
 De `Woorden van de maker`-sectie laat het toe om een kort bericht van de gebruiker weer te geven naast de beamap listing pagina op de website. [BBCode](/wiki/BBCode)-formatteren wordt hier ondersteund.
 
-Twee keuzevakjes verschijnen aan de onderkant van het venster. Het eerste is `Ontvang e-mailnotificatie bij een antwoord`, dit voegt de beatmap toe aan de [modden volglijst](https://osu.ppy.sh/beatmapsets/watches) van de gebruiker. Het tweede is `Open in browser na inzending`, dit zal de beatmap listing pagina openen in jouw standaardbrowser.
-
-<!-- End of comment -->
+Twee keuzevakjes verschijnen aan de onderkant van het venster. Het eerste is `Ontvang email notificatie bij een reactie`, dit voegt de beatmap toe aan de [modden volglijst](https://osu.ppy.sh/beatmapsets/watches) van de gebruiker. Het tweede is `Laad in browser na insturen`, dit zal de beatmap listing pagina openen in jouw standaardbrowser.
 
 ## Limitaties
 
