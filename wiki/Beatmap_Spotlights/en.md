@@ -95,7 +95,7 @@ Each Beatmap Spotlights release is assembled by a dedicated curator team and ind
   - [Virtual Self - Angel Voices (Sinnoh) \[Platter\]](https://osu.ppy.sh/beatmapsets/939437#fruits/2060158)
   - [IOSYS - Endless Tewi-ma Park (Kurosanyan) \[Drafura's Rain\]](https://osu.ppy.sh/beatmapsets/48874#fruits/181233)
   - [cYsmix - Breeze (wonjae) \[Rocma's Rain\]](https://osu.ppy.sh/beatmapsets/840964#fruits/1761864)
-  - [DECO*27 feat. marina - Aimai Elegy (val0108) \[Red Light ~CtB~\]](https://osu.ppy.sh/beatmapsets/43248#fruits/155227)
+  - [DECO*27 feat. marina - Aimai Elegy (val0108) \[Red Light \~CtB\~\]](https://osu.ppy.sh/beatmapsets/43248#fruits/155227)
   - [HyuN - Grin (Absolute Zero) \[Collab Overdose\]](https://osu.ppy.sh/beatmapsets/1065368#fruits/2230881)
 
 ### osu!mania
@@ -190,7 +190,7 @@ Rewards are distributed to weekly timeshift lobby winners, creators of curated b
 | ![](img/badges/summer_2020/copper_1.png) ![](img/badges/summer_2020/copper_2.png) ![](img/badges/summer_2020/copper_3.png) | Copper | 70% - 95% |
 | ![](img/badges/summer_2020/iron_1.png) ![](img/badges/summer_2020/iron_2.png) ![](img/badges/summer_2020/iron_3.png) | Iron |  95% - 100% |
 
-This table only shows one of four badge versions. Each game mode has an own badge version.
+This table only shows one of four badge versions. Each game mode has its own badge version.
 
 ### Curation System
 
@@ -219,7 +219,7 @@ The curation system involves the process of curators selecting the beatmaps bein
 
 ### Becoming a curator
 
-Everyone can apply to become a curator by filling this [application form](https://spotlights.team/app). Applications open up between the seasons and are closed during an ongoing season.
+Anyone can apply to become a curator by filling this [application form](https://spotlights.team/app). Applications open up between the seasons and are closed during an ongoing season.
 
 All applicants are reviewed by project management and team leaders and assessed based on their proficiency as a player, mapper, modder and tournament mappool selector for their respective game mode. Applicants do not need to be proficient in all of these things to be selected, but having a broad skill set certainly helps. The roster of curators is based on a healthy mix and match of various skill levels, experiences and proficiencies. The number of curators is being purposefully kept small and limited at the moment as the project develops.
 
