@@ -21,5 +21,5 @@ Bağlantı sözdizimi: `osu://edit/zamandamgası`
 
 Bir mapin baştan 12'nci saniyesi 34'üncü milisaniyesindeki 5 ve 6 objelerini belirtmek için:
 
-Zaman damgası: `00:12:034 (5,6)`  
+Zaman damgası: `00:12:034 (5,6)`
 Bağlantı: `osu://edit/00:12:034 (5,6)`
