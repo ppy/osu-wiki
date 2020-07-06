@@ -27,6 +27,7 @@ Bir mapin derecelendirme sürecinden geçerken geliştiğinin göstergesi olan a
 **Bu, sizin derecelndirme sürecindeki bir beatmapin ilerlemesini sıfırlamanızı sağlar.** Eğer bir beatmap henüz aday gösterilmiş ya da nitelikli olmuş ise, bir aday gösterici olarak size Sorun damgası yerleştirerek beatmapin aday gösterimini/gösterimlerini sıfırlama yeteneği verilmiştir. Eğer beatmap nitelikli ise, sadece bir asil Beatmap Aday Gösterici tarafından diskalifiye edilebilir. Bu seçenekler genellikle beatmapte derecelendirme için göz önünde bulundurulmadan önce değinilmesi gereken büyük çaplı ya da derecelendirilmez bir sorun olduğunda kullanılır.
 
 Bir Beatmap setini Diskalifiye ederken atılması gereken adımlar:
+
 - Doğru set için beatmap tartışmasında olduğunuzdan emin olun.
 - Metin kısmı içerisine diskalifiye etme nedeninizi yazın. Tartışma sayfasının en üstünde gösterileceği için ilk satırın diskalifikasyonu kısaca özetlediğinden emin olun.
 - Eğer diskalifikasyon bir rapor ile bağlantılıysa, alakalı beatmap tartışma gönderisini/gönderilerini linkleyin.
