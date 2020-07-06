@@ -85,7 +85,7 @@ The Ulat Bulu Cup 2020 is run by various community members.
 | **C** | Tim Ayam | (; ･`д･´) | Press 3 Fs to pay respects | Hulat | host toxic ccd |
 | **D** | terserah | Kowok Gamers | WHOMEGALUL | AutisNgopi4Hed | ABC Team |
 
-## Match schedules: Grand Finals
+## Match schedule: Grand Finals
 
 Saturday, 11 July 2020:
 
