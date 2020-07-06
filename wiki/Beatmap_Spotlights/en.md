@@ -129,7 +129,6 @@ This schedule shows the availability of the timeshift lobbies of the upcoming se
 | Season Start | 2020-07-06 |
 | Timeshift Lobby: Playlist A | 2020-07-10 - 2020-07-12 |
 | Timeshift Lobby: Playlist B | 2020-07-17 - 2020-07-19 |
-| Initial Profile Badge Distribution | 2020-07-21 - 2020-07-23 |
 | Timeshift Lobby: Playlist C | 2020-07-24 - 2020-07-26 |
 | Timeshift Lobby: Playlist D | 2020-07-31 - 2020-08-02 |
 | Timeshift Lobby: Playlist A | 2020-08-07 - 2020-08-09 |
@@ -179,18 +178,16 @@ Rewards are distributed to weekly timeshift lobby winners, creators of curated b
    - This feature is currently not implemented on the osu! website. A listing of earned medals per user will be provided elsewhere for the time being.
 4. At the end of each season, a new unlockable medal will be added. Players need to complete every beatmap of this season once to obtain it.
 
-| Badges | Bracket Tier | Placement |
-| :--: | :--: | :--: |
-| ![](img/badges/summer_2020/ri_1.png) ![](img/badges/summer_2020/ri_2.png) ![](img/badges/summer_2020/ri_3.png) | Rhythm Incarnates | Top 50 |
-| ![](img/badges/summer_2020/diamond_1.png) ![](img/badges/summer_2020/diamond_2.png) ![](img/badges/summer_2020/diamond_3.png) | Diamond | Top 51 - 3% |
-| ![](img/badges/summer_2020/platinum_1.png) ![](img/badges/summer_2020/platinum_2.png) ![](img/badges/summer_2020/platinum_3.png) | Platinum | 3% - 10% |
-| ![](img/badges/summer_2020/gold_1.png) ![](img/badges/summer_2020/gold_2.png) ![](img/badges/summer_2020/gold_3.png) | Gold | 10% - 25% |
-| ![](img/badges/summer_2020/silver_1.png) ![](img/badges/summer_2020/silver_2.png) ![](img/badges/summer_2020/silver_3.png) | Silver | 25% - 50% |
-| ![](img/badges/summer_2020/bronze_1.png) ![](img/badges/summer_2020/bronze_2.png) ![](img/badges/summer_2020/bronze_3.png) | Bronze | 50% - 70% |
-| ![](img/badges/summer_2020/copper_1.png) ![](img/badges/summer_2020/copper_2.png) ![](img/badges/summer_2020/copper_3.png) | Copper | 70% - 95% |
-| ![](img/badges/summer_2020/iron_1.png) ![](img/badges/summer_2020/iron_2.png) ![](img/badges/summer_2020/iron_3.png) | Iron |  95% - 100% |
-
-This table only shows one of four badge versions. Each game mode has its own badge version.
+| Bracket Tier | Placement |
+| :--: | :--: |
+| Rhythm Incarnate | Top 50 |
+| Diamond | Top 51 - 3% |
+| Platinum | 3% - 10% |
+| Gold | 10% - 25% |
+| Silver | 25% - 50% |
+| Bronze | 50% - 70% |
+| Copper | 70% - 95% |
+| Iron |  95% - 100% |
 
 ### Curation System
 
