@@ -59,7 +59,7 @@ Intermediate Global Taiko Showdown 2019 fue realizado por varios miembros de la 
 - [IGTS Servidor de Discord](https://discord.gg/a6PzzFz)
 - [Livestream](https://www.twitch.tv/igtsosu)
 - [Challonge brackets](https://challonge.com/dqq46siu)
-- [Página de Pick'em](https://pickem.hwchr.com/tournaments/8)
+- [Página de Pick'em](https://pickem.hwc.hr/tournaments/8)
 - **[Hoja de Estadísticas](https://docs.google.com/spreadsheets/d/1B_upGgX4mSHpWkvWLrfFRAakPKP77Wm_fDsoU1y3kyY/edit?usp=sharing)**
 
 ---
