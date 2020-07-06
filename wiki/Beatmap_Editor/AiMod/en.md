@@ -8,16 +8,6 @@ While AiMod can be useful for catching basic issues in a map, it is not a replac
 
 Development of AiMod usually lags behind the standards held by the mapping community and [ranking criteria](/wiki/Ranking_Criteria), and as a result, [some of its output is considered incorrect](#flaws).
 
-## Flaws
-
-<!-- TO DO: I'm sure there are more flaws, just can't think of any more off the top of my head -->
-- **Cannot detect a large number of issues** that are considered unrankable by the [Ranking Criteria](/wiki/Ranking_Criteria), such as; potentially missnapped objects, delayed hitsounds and background filesize above 2.5MB etc.
-- **May warn you of non-issues**, such as; the mapset needing 2 standard diffs on a marathon map and Kiai time being toggled on for less than 15 seconds.
-- **If "Check distance snap" is enabled, it will not check the distance snap between new combos.**
-- **If there are multiple MP3 files in the beatmap folder, AiMod may warn you of multiple song files** however MP3 files can also be used for things such as applause files.
-
-It is recommended to use other programs such as [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier/releases) by ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) in addition to AiMod if you are looking to get your beatmapset ranked. This program is more up-to-date with the current [Ranking Criteria](/wiki/Ranking_Criteria) and can detect many more issues than AiMod. However, do not completely ignore AiMod as some rules in the Ranking Criteria rely on it.
-
 ## Tabs
 
 - **All:** Gathers the items from the other tabs.
@@ -173,5 +163,16 @@ It is recommended to use other programs such as [Mapset Verifier](https://github
 | This mapset needs at least 2 standard diffs. | Standard maps only! |  |
 | This mapset needs at least 2 osu!taiko diffs. | osu!taiko maps only! |  |
 | Uninherited timing points conflict with {0} diff. |  |  |
+
+## Flaws
+
+<!-- TODO: I'm sure there are more flaws, just can't think of any more off the top of my head -->
+
+- **AiMod cannot detect a large number of issues** that are considered unrankable by the [ranking criteria](/wiki/Ranking_Criteria), such as potentially missnapped objects, delayed hitsounds, background filesize above 2.5MB, etc.
+- **AiMod may warn you of non-issues**, such as the mapset needing two standard difficulties on a [marathon](/wiki/Glossary#marathon) map and [kiai time](/wiki/Beatmap_Editor/Kiai_Time) being toggled on for less than 15 seconds.
+- **If `Check distance snap` is enabled, AiMod will not check the distance snap between combos.**
+- **If there are multiple MP3 files in the beatmap folder, AiMod may warn you of multiple song files**, however MP3 files can also be used for sound effects such as applause.
+
+It is recommended to use other programs such as [Mapset Verifier](https://github.com/Naxesss/MapsetVerifier/releases) by ![][flag_SE] [Naxess](https://osu.ppy.sh/users/8129817) in addition to AiMod if you are looking to get your beatmapset [ranked](/wiki/Beatmaps#ranked). Other programs are more up-to-date with the current ranking criteria and can detect many more issues than AiMod. However, do not completely ignore AiMod as some rules in the ranking criteria rely on it.
 
 [flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
