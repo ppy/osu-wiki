@@ -4,24 +4,29 @@ title: "New Beatmap Spotlights Season: Summer 2020"
 date: 2020-07-06 07:00:00 +0000
 ---
 
-For the first time since our initial announcement, the renewed Beatmap Spotlights boot off with its first Summer Season and a plethora of rewards for everybody joining the brand-new competitive Seasonal League.
+The new future of the Beatmap Spotlights is here, and kicking off this very week! Check out the Summer Season map pool and read on to discover a plethora of new rewards for everybody who dares to compete in one of osu!'s newest competitive modes.
 
 ![](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
-Everybody in our new team of curators worked hard to bring forth the most excellent maps osu! has to offer. With the start of this new season, we introduce a new competitive league for everybody to enjoy the curators' selections. While the first ideas have been kept vague in our first announcement, below are some details on how this new system works:
+The new-and-improved Beatmap Spotlights are formed around the work of our freshly selected team of curators who have been working flat out over the past few months to bring you a selection of maps that showcases some of the best beatmapping osu! has to offer. While we were a little vague in our first announcement, the gloves are now well and truly off - check out how this new system works below:
 
-- **Every weekend in this season, we will be hosting a weekly timeshift lobby using a playlist created from the pool of curated beatmaps using osu!lazer.** Therefore, you have to join the timeshift lobbies on osu!lazer in order to participate in the competitive league. If you have never heard of timeshift multiplayer lobbies before, [you can learn more here](https://blog.ppy.sh/enjoying-osu-with-others/), or just [get osu!lazer yourself and try it out now](https://github.com/ppy/osu/releases).
-- Every Monday, the week's playlist will be unveiled on the [Beatmap Spotlights wiki page](/wiki/Beatmap_Spotlights). This means that **beatmaps being played in the Spotlights league lobbies will change every week**. For future seasons, we plan to unveil these maps in a livestream as a beatmap showcase.
-- The results of the weekly timeshift lobby will be collated into a big **Seasonal Ranking**. Depending on your position in the Seasonal Ranking, you can earn yourself a **unique and permanent profile badge**. The profile badges will already be awarded after the 2nd week of this season and will be updated every week, reflecting your current position in the Seasonal Ranking.
-- There will be **four playlists in total, each consisting of 5 beatmaps** and each being played three times during the season. This gives you plenty of opportunities to revisit your weekly scores as only your best total score on a playlist will be considered for your position on the Seasonal Ranking.
-- On top of that **the Top 10 people of each timeshift lobby will be awarded with 1 week of supporter tag**.
-- At the end of the season,  **the best mapper of this season will be elected**, and we will provide a **new unlockable medal** for those who want to play through the Seasonal Beatmaps once the season has concluded. More information about this will follow at a later point.
+- **Every weekend in this season, we will be hosting a weekly timeshift lobby using a playlist created from the pool of curated beatmaps using osu!lazer.** To participate, you'll need to [download the latest release of osu!lazer](https://github.com/ppy/osu/releases), log in to your account, and check out the multiplayer section. Timeshift lobbies are basically persistent multiplayer rooms with their own scoreboards across a variety of maps, making them perfect for the Beatmap Spotlights. You can [read more about them on peppy's blog]((https://blog.ppy.sh/enjoying-osu-with-others/), if you're interested in setting up your own later on.
+- **Each game mode will have their own leaderboards and Beatmap Spotlights playlists.** If you beat drums for a living or have a fixation on fruit or keyboards, you're not going to be left out from all the fun.
+- **Every Monday, the playlist of beatmaps for the week will change, and the new ones will be unveiled on the [Beatmap Spotlights wiki page](/wiki/Beatmap_Spotlights)**. In the future, we hope to do weekly streams showcasing each week's maps similar to the World Cup mappool showcases.
+- **Your performance in each of the Beatmap Spotlights timeshift lobbies will be collated and calculated into a Seasonal Ranking that determines your place among the leaderboards.** Depending on how you perform, you could earn a unique, permanent profile badage chronicling your success. Badges will be awarded starting from the 2nd week of the season, and will be updated every week to reflect your new position in the rankings.
+- **There will be four playlists in total, each consisting of 5 beatmaps, and each playlist will be played three times throughout the season.** This gives you plenty of opportunities to revisit your weekly scores as only your best total score on a playlist will be considered for your position on the Seasonal Ranking.
+- **The Top 10 people of each timeshift lobby will be awarded with 1 week of supporter tag**.
+- At the end of the season, **the best mapper of the season will be elected and given a special prize**, and the Beatmap Spotlights mappool will be folded into a new beatmap pack with an accompanying medal that anyone can earn at any time once the season has concluded. We'll give you more details about the mmapper prize as they develop.
 
-Of course, each game mode will have their own leaderboard and playlists. If you are interested in the full details of this system, you can visit the [Beatmap Spotlights wiki page](/wiki/Beatmap_Spotlights) to learn more.
+If you are interested in the full details of this system, you can visit the [Beatmap Spotlights wiki page](/wiki/Beatmap_Spotlights) to learn more.
 
 ## Season Schedule
 
-With that being said, the Summer 2020 season has been fully prepared and is ready for deployment. Therefore, the first timeshift lobby will open **this Friday** already. Playlist A can be found on the [Beatmap Spotlights wiki page](/wiki/Beatmap_Spotlights) now. Remember that your badge will update every week once they have been initially distributed.
+With that being said, the Summer 2020 season has been fully prepared and is ready to go.
+
+The first timeshift lobby will open **this Friday on the 10th of July**, so be prepared! 
+
+Playlist A can be found on the [Beatmap Spotlights wiki page](/wiki/Beatmap_Spotlights). Remember that your badge will update every week once they've been given out.
 
 | Event | Time |
 | --: | :-- |
@@ -41,7 +46,9 @@ With that being said, the Summer 2020 season has been fully prepared and is read
 
 ## Rewards
 
-Depending on your position on the Seasonal Ranking, you will be awarded with a unique profile badge. Your exact position will only be known to you when you are in the Top 50. Additionally, the Top 10 players of every timeshift lobby will be awarded with 1 week of supporter tag.
+Depending on how you perform among the Seasonal Ranking, you may be awarded with a unique profile badge. You'll only know your exact position when you're among the Top 50 of a given gamemode, but otherwise you'll be given a specific bracket tier to reflect your achievement. If you're familiar with the ranking systems of League of Legends or Apex Legends, this will not be particularly new to you.
+
+In addition, the Top 10 players for each mode at the end of each week will be given 1 week of osu!supporter.
 
 | Badges | Bracket Tier | Placement |
 | :--: | :--: | :--: |
