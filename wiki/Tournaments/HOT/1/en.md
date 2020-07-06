@@ -20,7 +20,7 @@ The **Hidden Only Tournament** (***HOT***) was a worldwide double-elimination 2v
 | Quarterfinals | 2020-06-06/2020-06-08 |
 | Semifinals | 2020-06-13/2020-06-14 |
 | Finals | 2020-06-20/2020-06-28 |
-| Grand Finals | 2020-07-04/2020-07-05 |
+| Grand Finals | 2020-07-04 |
 
 ## Prizes
 
@@ -228,6 +228,16 @@ The Hidden Only Tournament was run by various community members.
   - [Sharlo - Ifuudoudou (Chaoslitz) \[Ifuuidol\]](https://osu.ppy.sh/beatmapsets/445251#osu/956456)
 
 ## Match results
+
+### Grand Finals
+
+Saturday, 4 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Pocket Galaxy** | **7** | 4 | Phrygian Friends | [#1](https://osu.ppy.sh/community/matches/63707647) |
+| :rooGya: | 6 | **7** | **Pocket Galaxy** | [#1](https://osu.ppy.sh/community/matches/63711581) |
+| Pocket Galaxy | 6 | **7** | **:rooGya:** | [#1](https://osu.ppy.sh/community/matches/63716159) |
 
 ### Finals
 
