@@ -20,4 +20,4 @@ If you have any suggestions regarding the article styling criteria, [open an iss
 The article styling criteria is split up into two documents:
 
 - [Formatting](Formatting) - includes Markdown and other formatting rules
-- [Writting](Writting) - includes writing practices and other grammar rules
+- [Writing](Writing) - includes writing practices and other grammar rules
