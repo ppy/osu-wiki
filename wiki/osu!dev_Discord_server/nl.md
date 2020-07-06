@@ -5,7 +5,7 @@ tags:
 
 # osu!dev Discord server
 
-**osu!dev** is de officiële [Discord](https://discordapp.com "Discord's website") server voor het werken aan osu!'s open source en community projecten. Dit is de voornaamste plaats om bij te dragen aan de ontwikkeling van osu! en om in contact te komen met het [osu!team](/wiki/People/The_Team).
+**osu!dev** is de officiële [Discord](https://discordapp.com "Website van Discord") server voor het werken aan osu!'s open source en community projecten. Dit is de voornaamste plaats om bij te dragen aan de ontwikkeling van osu! en om in contact te komen met het [osu!team](/wiki/People/The_Team).
 
 De permanente uitnodigingslink is <https://discord.gg/ppy>.
 
@@ -19,15 +19,15 @@ De belangrijkste ontwikkelingen die in de server besproken worden hebben hun eig
 
 | Project | Kanaal |
 | :-- | :-- |
-| [osu!lazer](https://github.com/ppy/osu "ppy/osu on GitHub") | `#osu-lazer` |
-| [osu!framework](https://github.com/ppy/osu-framework "ppy/osu-framework on GitHub") | `#osu-framework` |
-| [osu!web](https://github.com/ppy/osu-web "ppy/osu-web on GitHub") | `#osu-web` |
+| [osu!lazer](https://github.com/ppy/osu "ppy/osu op GitHub") | `#osu-lazer` |
+| [osu!framework](https://github.com/ppy/osu-framework "ppy/osu-framework op GitHub") | `#osu-framework` |
+| [osu!web](https://github.com/ppy/osu-web "ppy/osu-web op GitHub") | `#osu-web` |
 | [osu!standard](/wiki/Game_Modes/osu!) [star rating](/wiki/Beatmapping/Star_rating) en [prestatiepunten](/wiki/Performance_Points) | `#difficulty-osu` |
 | [osu!taiko](/wiki/Game_Modes/osu!taiko) star rating en prestatiepunten | `#difficulty-taiko` |
 | [osu!catch](/wiki/Game_Modes/osu!catch) star rating en prestatiepunten | `#difficulty-catch` |
 | [osu!mania](/wiki/Game_Modes/osu!mania) star rating en prestatiepunten | `#difficulty-mania` |
-| [Beatmaps in de schijnwerpers](https://osu.ppy.sh/rankings/osu/charts)<!-- TODO: link to a wiki article when it exists --> | `#osu-spotlights` |
-| [osu! wiki](https://github.com/ppy/osu-wiki "ppy/osu-wiki on GitHub") | `#osu-wiki` |
+| [Beatmaps in de schijnwerpers](https://osu.ppy.sh/rankings/osu/charts) | `#osu-spotlights` |
+| [osu! wiki](https://github.com/ppy/osu-wiki "ppy/osu-wiki op GitHub") | `#osu-wiki` |
 | [Project Loved](/wiki/Project_Loved) | `#osu-loved` |
 | [Modding](/wiki/Modding) discussie en [NAT-meetings](/wiki/Modding/NAT_meetings) | `#modding` |
 | [Mappers' Gilde](/wiki/Mappers_Guild) | `#mappers-guild` |
