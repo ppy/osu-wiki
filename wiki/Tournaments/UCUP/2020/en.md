@@ -105,6 +105,40 @@ Sunday, 12 July 2020:
 
 ## Mappools
 
+### Grand Finals
+
+**[Download the mappack here! (138 MB)](https://drive.google.com/file/d/1qaDnq14jxa9DRYFmlmhluLLSuM296DI8/view?usp=sharing)**
+
+- NoMod
+  - [Kurosaki Maon - Gravitation (Yudragen) \[Opposing Fates\]](https://osu.ppy.sh/beatmapsets/996445#osu/2084319)
+  - [Ryu\* vs. L.E.D.-G vs. ZUN - PARADISE GHOST (Leader) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/1074982#osu/2249464)
+  - [Silentroom - Nhelv (Nyxa) \[Himekawa's indignitas\]](https://osu.ppy.sh/beatmapsets/917915#osu/2011188)
+  - [Hoshimachi Suisei - Tenkyuu, Suisei wa Yoru o Mataide (captin1) \[Comet\]](https://osu.ppy.sh/beatmapsets/1193099#osu/2486052)
+  - [Noah - End to end (Realazy) \[GRAVITY\]](https://osu.ppy.sh/beatmapsets/835241#osu/1749360)
+  - [ak+q - Excelsia (Sotarks) \[Irre's Extra\]](https://osu.ppy.sh/beatmapsets/694200#osu/1468736)
+- Hidden
+  - [Disasterpeace - Jump Error (Bonsai) \[Map Error\]](https://osu.ppy.sh/beatmapsets/426652#osu/925613)
+  - [Powerless feat. Sennzai - Lost Desire (Pentori) \[Future\]](https://osu.ppy.sh/beatmapsets/1187717#osu/2476527)
+  - [Feryquitous feat. Aitsuki Nakuru - Kairikou (Ryuusei Aika) \[Extra\]](https://osu.ppy.sh/beatmapsets/740862#osu/1562891)
+  - [LeaF - Poison AND/OR Affection (Flask) \[Regou's osu! Extra\]](https://osu.ppy.sh/beatmapsets/1130436#osu/2374098)
+- HardRock
+  - [nano - Nevereverland (jas) \[Relentless\]](https://osu.ppy.sh/beatmapsets/1023428#osu/2140939)
+  - [Sakuzyo - Imprinting (eiri-) \[Dementation's Extra\]](https://osu.ppy.sh/beatmapsets/1090887#osu/2340914)
+  - [Makai Toshi Niigata - Ukiyo-e Yokochou (DeviousPanda) \[Frakturehawkens' Extra\]](https://osu.ppy.sh/beatmapsets/921808#osu/1943166)
+  - [MY FIRST STORY - Itazura Fiction (Saut) \[pishi's Insane\]](https://osu.ppy.sh/beatmapsets/477343#osu/1025587)
+- DoubleTime
+  - [Usada Pekora - Discommunication Alien (Nana Abe) \[amateurre's insane peko.\]](https://osu.ppy.sh/beatmapsets/1153393#osu/2414453)
+  - [-45 - Midorigo Queen Bee (Luscent) \[Dada's Insane\]](https://osu.ppy.sh/beatmapsets/1055780#osu/2277700)
+  - [Zektbach - L'avide (eXseeD) \[gowww\]](https://osu.ppy.sh/beatmapsets/29496#osu/103403)
+  - [Kuribayashi Minami - Super\*Affection (Thite) \[Insane\]](https://osu.ppy.sh/beatmapsets/41244#osu/130418)
+- FreeMod
+  - [Kairiki bear - Shippaisaku Shoujo (RLC) \[X\]](https://osu.ppy.sh/beatmapsets/1088005#osu/2275111)
+  - [Sound Souler - Bubble Flower (Sylas) \[Effervescence\]](https://osu.ppy.sh/beatmapsets/1152182#osu/2404833)
+  - [Rohi - Kakuzetsu Thanatos (NatsumeRin) \[Skystar\]](https://osu.ppy.sh/beatmapsets/76396#osu/215906)
+  - [Kurahashi Yoeko - Tomodachi no Uta (Shirasaka Koume) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/845272#osu/1768093)
+- Tiebreaker
+  - **[Camellia feat. Nanahira - Toureika (jonathanlfj) \[captin's Extra\]](https://osu.ppy.sh/beatmapsets/1022167#osu/2176591)**
+
 ### Finals
 
 **[Download the mappack here! (155 MB)](https://drive.google.com/file/d/1NtjzZWlGN7tHZBYbqBtaR9aI84S7HEHp/view?usp=sharing)**
