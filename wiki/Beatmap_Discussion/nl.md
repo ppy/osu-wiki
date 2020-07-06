@@ -87,7 +87,7 @@ De hype trein volgt hoeveel [hypes](/wiki/Beatmaps/Hype) een beatmapset ontvange
 
 ### Nominatiestatus
 
-De nominatiestatusbalk volgt het aantal nominaties van een beatmap. Wanneer een beatmap twee nominaties heeft ontvangen zal ze gekwalificeerd worden. <!--TODO: Insert 'Qualified' link-->
+De nominatiestatusbalk volgt het aantal nominaties van een beatmap. Wanneer een beatmap twee nominaties heeft ontvangen zal ze gekwalificeerd worden.
 
 ### Algemene info
 
@@ -158,5 +158,3 @@ De auter(s) van een post op een discussiepagina kunnen formatteringshulpmiddelen
 `Edit` geeft gebruikers de mogelijkheid om hun inzeding aan te passen in het geval van fouten. Het is niet de bedoeling dat deze functie gebruikt wordt om op berichten te antwoorden. Maak in plaats daarvan een nieuw antwoord aan.
 
 `Delete` staat gebruikers toe om hun inzending te verwijderen als er serieuze fouten in staan. Deze functie is uitgeschakeld voor posts met veel discussie om het verwijderen van posts door verhitte discussie te voorkomen.
-
-<!--TODO: insert lots of links-->
