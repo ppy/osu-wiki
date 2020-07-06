@@ -70,6 +70,25 @@ The osu!mania LN Tournament 2 is run by various community members.
 
 ## Mappools
 
+### Round of 16
+
+- FreeMod
+  - [Umeri - paranoia (Raveille) \[who are you\]](https://osu.ppy.sh/beatmapsets/997300#mania/2086120)
+  - [IU - You & I (moni) \[You\]](https://osu.ppy.sh/beatmapsets/376826#mania/842496)
+  - [Y0c1e - Heiju (Hydria) \[Insane\]](https://osu.ppy.sh/beatmapsets/620190#mania/1307119)
+  - [USAO - Boss Rush (PiraTom) \[LN Rush\]](https://osu.ppy.sh/beatmapsets/595680#mania/1259719)
+  - [Pyramyth - Dolphin Talk (TheToaphster) \[Echoes\]](https://osu.ppy.sh/beatmapsets/718149#mania/1516908)
+  - [BlackY - Mirrorwall (-Ziel-) \[LNpai's MAXIMUM\]](https://osu.ppy.sh/beatmapsets/1026824#mania/2177469)
+  - [Function Phantom - Euclid (juankristal) \[Collab\]](https://osu.ppy.sh/beatmapsets/658097#mania/1393891)
+  - [F-777 - Ultimate (andreymc) \[Stage 3: Twilight\]](https://osu.ppy.sh/beatmapsets/1161668#mania/2423502)
+  - [M2U - Mare Maris (Raveille) \[LNpai's MASTER\]](https://osu.ppy.sh/beatmapsets/917906#mania/2416459)
+  - [M2U - H.O.W.Ling (Toaph Daddy) \[Sylph\]](https://osu.ppy.sh/beatmapsets/972698#mania/2036472)
+  - [toby fox - Battle Against a True Hero (Mipha-) \[Howling (165bpm)\]](https://osu.ppy.sh/beatmapsets/1093396#mania/2285299)
+  - [ZYTOKINE - DESIRE DREAM feat. itori - FELT Remix (\_underjoy) \[Melancholia\]](https://osu.ppy.sh/beatmapsets/836634#mania/1751934)
+  - [iMaiden - Outer (riunosk) \[Adventure\]](https://osu.ppy.sh/beatmapsets/873462#mania/1825805)
+- Tiebreaker
+  - **[Camellia - flower of wilderness (-mint-) \[lily\]](https://osu.ppy.sh/beatmapsets/1131426#mania/2363309)**
+
 ### Round of 32
 
 **[Download the mappack here! (76 MB)](https://mega.nz/file/qygXgKRS#W9kxyHs8dlAL5J8VvxGeWDlfw8GS8EYcRguDvOQ2dCA)**
