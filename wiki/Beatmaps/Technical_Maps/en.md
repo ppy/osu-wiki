@@ -7,8 +7,6 @@ tags:
   - term
 ---
 
-<!-- This article is a stub -->
-
 # Technical maps
 
 <!-- Line to be added eventually: *Not to be confused with [Slider Art](link) or [Taikosu maps](link) -->
@@ -57,15 +55,9 @@ Good examples of tech maps that fit this definition are [Silentroom - Nhelv](htt
 
 ![Irregular slider shape (MARENOL)](/wiki/Beatmaps/Technical_Maps/img/irregular_slider.jpeg "Irregular slider shape (SV slider)")
 
-Good examples of tech maps that fit this definition are [Camelia - Exit This Earth's Atomosphere (Camellia's "PLANETARY//200STEP" Remix)](https://osu.ppy.sh/beatmapsets/855677#osu/1787848) and [LeaF - MARENOL](https://osu.ppy.sh/beatmapsets/1136149#osu/2404722).
+Good examples of tech maps that fit this definition are [Camelia - Exit This Earth's Atomosphere (Camellia's "PLANETARY//200STEP" Remix)](https://osu.ppy.sh/beatmapsets/855677#osu/1787848) and [LeaF - MARENOL](https://osu.ppy.sh/beatmapsets/1136149#osu/2404722).=
 
-### Mapper's definition
-
-*Notice: the "mapper's definition" is a list conjured up from the perspective of a typical osu!standard mapper.*
-
-<!--PLACEHOLDER--> <!--I'm not a mapper, so I'll be leaving this list to be written by a respected mapper-->
-
-<!--Other definitions like a "Player's definition" or something like that *could* be written, but I think this is enough for now-->
+<!-- this is a stub -->
 
 <!--Some other sections that would be cool to add:
 - A "History" section would be pretty cool. But idk how feasible this would be. -->
