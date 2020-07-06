@@ -6,7 +6,7 @@ De nauwkeurigheid is een meting van de consistentie van een speler. Er zijn drie
 
 ### ![](/wiki/shared/mode/osu.png) osu!standard
 
-![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 300 \* number of 300s) / 300(number of 0s + number of 50s + number of 100s + number of 300s)](img/accuracy_standard.png "Accuracy formula for osu!standard")
+![Nauwkeurigheid = (50 \* aantal 50s + 100 \* aantal 100s + 300 \* aantal 300s) / 300(aantal 0s + aantal 50s + aantal 100s + aantal 300s)](img/accuracy_standard.png "Nauwkeurigheidsformule voor osu!standard")
 
 In osu!standard wordt nauwkeurigheid berekend door de beoordeling van elk hitobject te wegen en dan te delen door de hoogst mogelijke waarde die behaald kan worden voor dat object.
 
@@ -19,27 +19,27 @@ In osu!standard wordt nauwkeurigheid berekend door de beoordeling van elk hitobj
 
 ### ![](/wiki/shared/mode/taiko.png) osu!taiko
 
-![Accuracy = 0.5(number of GOOD + number of GREAT) / (number of BAD + number of GOOD + number of GREAT)](img/accuracy_taiko.png "Accuracy formula for osu!taiko")
+![Nauwkeurigheid = 0.5(aantal GOODs + aantal GREATs) / (aantal BADs + aantal GOODs + aantal GREATs)](img/accuracy_taiko.png "Nauwkeurigheidsformule voor osu!taiko")
 
 In osu!taiko wordt nauwkeurigheid berekend door de som van de precisie van de noten te delen door het totaal aantal noten. De nauwkeurigheid van de noten is als volgt: een GREAT (良) telt als 100%, GOOD (可) als 50% (half), en MISS/BAD (不可) als 0% (dit verbreekt ook jouw combo). Drum rolls en spinners beïnvloeden de nauwkeurigheid niet.
 
 ### ![](/wiki/shared/mode/catch.png) osu!catch
 
-![Accuracy = (number of droplets + number of drops + number of fruits) / (number of missed droplets + number of missed drops + number of missed fruits + number of droplets + number of drops + number of fruits)](img/accuracy_catch.png "Accuracy formula for osu!catch")
+![Nauwkeurigheid = (aantal droplets + aantal drops + aantal fruits) / (aantal gemiste droplets + aantal gemiste drops + aantal gemiste fruits + aantal droplets + aantal drops + aantal fruits)](img/accuracy_catch.png "Nauwkeurigheidsformule voor osu!catch")
 
 In osu!catch wordt nauwkeurigheid berekend door de totale score van de niet-spinner hitobjecten te nemen en die te delen door het totaal aantal niet-spinner objecten. Alle hitobjecten hebben dezelfde waarde, behalve bananen, want zij maken deel uit van de spinner objecten.
 
-*Opmerking voor API-gebruikers: Om de nauwkeurigheid in osu!catch te berekenen noemt het aantal druppeltjes `count50` en het aantal gemiste druppeltjes `countkatu`.*
+*Opmerking voor API-gebruikers: Om de nauwkeurigheid in osu!catch te berekenen noemt het aantal droplets `count50` en het aantal gemiste droplets `countkatu`.*
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania
 
-![Accuracy = (50 \* number of 50s + 100 \* number of 100s + 200 \* number of 200s + 300 \* number of 300s + 300 \* number of MAXs) / 300(number of 0s + number of 50s + number of 100s + number of 200s + number of 300s + number of MAXs)](img/accuracy_mania.png "Accuracy formula for osu!mania")
+![Nauwkeurigheid = (50 \* aantal 50s + 100 \* aantal 100s + 200 \* aantal 200s + 300 \* aantal 300s + 300 \* aantal MAXs) / 300(aantal 0s + aantal 50s + aantal 100s + aantal 200s + aantal 300s + aantal MAXs)](img/accuracy_mania.png "Nauwkeurigheidsformule voor osu!mania")
 
 Nauwkeurigheid in osu!mania wordt op dezelfde manier berekend als in [osu!standard](#-osu!standard).
 
 ## Prestatiegrafiek
 
-![Performance graph](img/performance_graph.jpg "Performance graph")
+![Prestatiegrafiek](img/performance_graph.jpg "Prestatiegrafiek")
 
 De prestatiegrafiek is een grafiek die de prestaties van een speler (gebaseerd op hun HP-balk) in de loop van het spel (tijd) weergeeft. Meer info kan worden getoond door de in-game cursor eroverheen te zetten.
 
