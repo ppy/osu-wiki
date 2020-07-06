@@ -249,6 +249,24 @@ The Intermediate Global Taiko Showdown 2020 is run by various community members.
 
 ## Match results
 
+### Semifinals
+
+Saturday, 4 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **South Korea** ![][flag_KR] | **7** | 6 | ![][flag_PL] | [#1](https://osu.ppy.sh/community/matches/63700000) |
+| **Japan A** ![][flag_JP] | **7** | 5 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/63701864) |
+| United States B ![][flag_US] | 5 | **7** | ![][flag_DE] **Germany B** | [#1](https://osu.ppy.sh/community/matches/63705467) |
+| Netherlands ![][flag_NL] | 1 | **7** | ![][flag_US] **United States A** | [#1](https://osu.ppy.sh/community/matches/63713731) |
+
+Sunday, 5 July 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Singapore** ![][flag_SG] | **7** | 2 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/63730684) |
+| **Netherlands** ![][flag_NL] | **7** | 4 | ![][flag_DE] Germany B | [#1](https://osu.ppy.sh/community/matches/63745065) |
+
 ### Quarterfinals
 
 Saturday, 27 June 2020:
