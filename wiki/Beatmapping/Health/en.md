@@ -8,7 +8,7 @@ tags:
 
 # Health
 
-**Health**, or *HP*, is the value that determines if a player has passed or failed a [beatmap](/wiki/Beatmaps). Health can be seen in the health bar,<!-- TODO: link --> which updates as gameplay progresses. The [HP drain rate](/wiki/Beatmapping/HP_drain_rate) difficulty setting determines how difficult it is to keep a high health value.
+**Health** or *HP*, is the value that determines if a player has passed or failed a [beatmap](/wiki/Beatmaps). Health can be seen in the [health bar](/wiki/Glossary/Health_Bar/en.md), which updates as gameplay progresses. The [HP drain rate](/wiki/Beatmapping/HP_drain_rate) difficulty setting determines how difficult it is to keep a high health value.
 
 ## osu!standard
 
