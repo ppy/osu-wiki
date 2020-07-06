@@ -229,7 +229,7 @@ The curation system involves the process of curators selecting the beatmaps bein
 
 The current implementation of the Beatmap Spotlights is highly experimental and can change anytime depending on how players respond to it. Because of that, it is important to collect as much feedback and criticism as possible to improve furtherly on the direction and implementation of this system. Players are encouraged to leave their thoughts and feedback here:
 
-- [Forum thread]()
+- [Feedback forum thread](https://osu.ppy.sh/community/forums/topics/1101170)
 - [Community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H)
 - `osu-spotlights` in [osu!dev](https://discord.gg/ppy)
 
