@@ -38,13 +38,13 @@ Due to the broad nature of the term "tech map," there are many different aspects
 - Overall high intensity
   - Extremely dense in object count throughout large parts of the map (excluding [streams](/wiki/Beatmaps/Pattern/Stream))
 
-![Non-generic beatmap pattern (Nhelv)](https://osu.ppy.sh/ss/15172997/dd24 "Non-generic beatmap pattern")
+![Non-generic beatmap pattern (Nhelv)](/wiki/Beatmaps/Technical_Maps/img/nongeneric_beatmap_pattern.jpeg "Non-generic beatmap pattern")
 
-![Hard flow (Densetsu no Matsuri)](https://osu.ppy.sh/ss/15173062/34ac "Beatmap pattern with hard "flow"")
+![Hard flow (Densetsu no Matsuri)](/wiki/Beatmaps/Technical_Maps/img/beatmap_hard_flow.jpeg "Beatmap pattern with a hard flow")
 
 Good examples of tech maps that fit this definition are [Silentroom - Nhelv](https://osu.ppy.sh/beatmapsets/917915#osu/2009432) and [RUMI - Densetsu no Matsuri](https://osu.ppy.sh/beatmapsets/781683#osu/1641637).
 
-### Most restrictive/most specific
+### Most restrictive/most specific definition
 
 *Notice: the "most restrictive/specific" definition requires **all** all of the aspects listed to be present in order to define a beatmap as tech.*
 
@@ -53,9 +53,9 @@ Good examples of tech maps that fit this definition are [Silentroom - Nhelv](htt
 - SV sliders
 - Difficult-to-read beatmap patterns (often described as having a hard "flow") (example shown below)
 
-![Difficult-to-read-pattern (Camelia)](https://osu.ppy.sh/ss/15173062/34ac "Difficult-to-read-pattern")
+![Difficult-to-read-pattern (Camelia)](/wiki/Beatmaps/Technical_Maps/img/difficult_to_read_beatmap.jpeg "Difficult-to-read pattern")
 
-![Irregular slider shape (MARENOL)](http://osu.ppy.sh/ss/15173026/02d6 "Irregular slider shape (SV slider)")
+![Irregular slider shape (MARENOL)](/wiki/Beatmaps/Technical_Maps/img/irregular_slider.jpeg "Irregular slider shape (SV slider)")
 
 Good examples of tech maps that fit this definition are [Camelia - Exit This Earth's Atomosphere (Camellia's "PLANETARY//200STEP" Remix)](https://osu.ppy.sh/beatmapsets/855677#osu/1787848) and [LeaF - MARENOL](https://osu.ppy.sh/beatmapsets/1136149#osu/2404722).
 
