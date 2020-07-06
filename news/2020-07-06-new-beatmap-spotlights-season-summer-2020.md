@@ -18,7 +18,7 @@ The new-and-improved Beatmap Spotlights are formed around the work of our freshl
 - **The Top 10 people of each timeshift lobby will be awarded with 1 week of supporter tag**.
 - At the end of the season, **the best mapper of the season will be elected and given a special prize**, and the Beatmap Spotlights mappool will be folded into a new beatmap pack with an accompanying medal that anyone can earn at any time once the season has concluded. We'll give you more details about the mmapper prize as they develop.
 
-If you are interested in the full details of this system, you can visit the [Beatmap Spotlights wiki page](/wiki/Beatmap_Spotlights) to learn more.
+**To see the new mappools for the debut week of the Beatmap Spotlights, you can visit the [Beatmap Spotlights wiki page](/wiki/Beatmap_Spotlights) and follow the "Playlist" links in the sidebar.** There's also a lot more information about the system in full there too, so make sure to check it out!
 
 ## Season Schedule
 
