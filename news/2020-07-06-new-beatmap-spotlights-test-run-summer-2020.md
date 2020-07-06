@@ -4,7 +4,7 @@ title: "Beatmap Spotlights Test Run: Summer 2020"
 date: 2020-07-06 07:00:00 +0000
 ---
 
-The new future of the Beatmap Spotlights is here with its very first test run, kicking off this very week! Check out the Summer Season map pool and read on to discover a plethora of new planned rewards for everybody who dares to compete in one of osu!'s newest competitive modes.
+The new future of the Beatmap Spotlights is here with its very first test run, kicking off this very week! Check out the Summer Season map pool and read on to discover a plethora of new planned rewards and features for everybody who dares to compete in one of osu!'s newest competitive modes.
 
 ![](/wiki/shared/news/banners/beatmap-spotlights.jpg)
 
