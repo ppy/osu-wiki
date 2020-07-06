@@ -52,7 +52,7 @@ In addition, the Top 10 players for each mode at the end of each week will be gi
 
 | Badges | Bracket Tier | Placement |
 | :--: | :--: | :--: |
-| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_3.png) | Rhythm Incarnates | Top 50 |
+| ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/ri_3.png) | Rhythm Incarnate | Top 50 |
 | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/diamond_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/diamond_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/diamond_3.png) | Diamond | Top 51 - 3% |
 | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/platinum_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/platinum_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/platinum_3.png) | Platinum | 3% - 10% |
 | ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/gold_1.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/gold_2.png) ![](/wiki/Beatmap_Spotlights/img/badges/summer_2020/gold_3.png) | Gold | 10% - 25% |
