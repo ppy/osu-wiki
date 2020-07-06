@@ -95,6 +95,33 @@ The Hidden Only Tournament was run by various community members.
 
 ## Mappools
 
+### Grand Finals
+
+**[Download the mappack here! (105 MB)](https://drive.google.com/file/d/1Gpq8foPrKJECKJ65C7i45UgOGr4pBrgI/view?usp=sharing?usp=sharing)**
+
+- Hidden
+  - [nano - Nevereverland (jas) \[Relentless\]](https://osu.ppy.sh/beatmapsets/1023428#osu/2140939)
+  - [xi - Ascension to Heaven (-Tynamo) \[FINAL DIMENSION\]](https://osu.ppy.sh/beatmapsets/968656#osu/2026805)
+  - [ZUTOMAYO - Humanoid (xLolicore-) \[impurity\]](https://osu.ppy.sh/beatmapsets/1077583#osu/2254959)
+  - [Endorfin. vs Feryquitous - Sincuvate (Nokris) \[Nokris. vs NeilPerry\]](https://osu.ppy.sh/beatmapsets/739011#osu/1559554)
+  - [Niko - Made of Fire (lesjuh) \[Oni\]](https://osu.ppy.sh/beatmapsets/10112#osu/40017)
+  - [Nanamori-chu \* Goraku-bu - Happy Time wa Owaranai (deadcode) \[Expert\]](https://osu.ppy.sh/beatmapsets/935707#osu/1954858)
+  - [Luschka - unravel (Mirash) \[NeilPerry's Extra\]](https://osu.ppy.sh/beatmapsets/731933#osu/1603296)
+  - [Hatsune Miku - Atama no Taisou (val0108) \[0108\]](https://osu.ppy.sh/beatmapsets/40344#osu/131286)
+  - [An - Catanoph (Ryuusei Aika) \[Extra\]](https://osu.ppy.sh/beatmapsets/775846#osu/1630244)
+  - [Ochiai Yurika - Koibumi2000 (arken1015) \[Oni(Futsuu)\]](https://osu.ppy.sh/beatmapsets/10539#osu/46298)
+  - [sakuraburst - SHA (handsome) \[Master\]](https://osu.ppy.sh/beatmapsets/716390#osu/1513541)
+  - [BVDLVD - (DON'T) LOOK AT ME \[PROD. PULSE\] (Tommy Phelps) \[LUNATIC OTW\]](https://osu.ppy.sh/beatmapsets/1157018#osu/2414418)
+- Hidden+DoubleTime
+  - [Mei Ayakura - Romantic Fall (felys) \[Longing thoughts dyed in crimson\]](https://osu.ppy.sh/beatmapsets/637934#osu/1353352)
+  - [zts - miragecoordinator (Mirash) \[Insane\]](https://osu.ppy.sh/beatmapsets/652668#osu/1383875)
+  - [Tatsh feat. Tsukiko - Floating Darkness (Natteke) \[Collab\]](https://osu.ppy.sh/beatmapsets/22173#osu/76612)
+  - [t+pazolite - Luv-Lab-Poison 22ate! (Xgor) \[Lethal\]](https://osu.ppy.sh/beatmapsets/9029#osu/38423)
+- Tiebreaker
+  - **[Kodin & Billain - Exobiota (lcfc) \[Extraterrestrial\]](https://osu.ppy.sh/beatmapsets/586935#osu/1242895)**
+  - **[Daisuke Ishiwatari - One Dawn (Natteke desu) \[Gamma Ray\]](https://osu.ppy.sh/beatmapsets/562302#osu/1188847)**
+  - **[DragonForce - Through The Fire And Flames (Lesjuh) \[Legend\]](https://osu.ppy.sh/beatmapsets/20237#osu/70760)**
+
 ### Finals
 
 **[Download the mappack here! (178 MB)](https://drive.google.com/file/d/11urnyvwRjKDDcRevC2a-cWEQS0b4vjHi/view?usp=sharing)**
