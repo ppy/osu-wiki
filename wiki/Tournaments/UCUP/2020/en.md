@@ -85,23 +85,23 @@ The Ulat Bulu Cup 2020 is run by various community members.
 | **C** | Tim Ayam | (; ･`д･´) | Press 3 Fs to pay respects | Hulat | host toxic ccd |
 | **D** | terserah | Kowok Gamers | WHOMEGALUL | AutisNgopi4Hed | ABC Team |
 
-## Match schedules: Finals
+## Match schedules: Grand Finals
 
-Saturday, 4 July 2020:
-
-| Match ID | Team 1 | Team 2 | Match time (UTC+7) |
-| :-: | --: | :-- | :-- |
-| L12 | Tim Ayam | Em1ruBigDumb | **18:30** |
-| W7 | awan fanclub | terserah | **20:00** |
-| L11 | Press 3 Fs to pay respects | WHOMEGALUL | **21:00** |
-
-Sunday, 5 July 2020:
+Saturday, 11 July 2020:
 
 | Match ID | Team 1 | Team 2 | Match time (UTC+7) |
 | :-: | --: | :-- | :-- |
-| L13¹ | Winner of L11 | Winner of L12 | **20:00** |
+| LF | terserah | Em1ruBigDumb | **19:00** |
 
-¹ Encounter dependent on winner of Match L11 and Match L12  
+Sunday, 12 July 2020:
+
+| Match ID | Team 1 | Team 2 | Match time (UTC+7) |
+| :-: | --: | :-- | :-- |
+| GF1¹ | awan fanclub | Winner of LF | **19:00** |
+| GF2² | Winner of LF | awan fanclub |  |
+
+¹ Encounter dependent on winner of Match LF  
+² Match will take place right after Match GF1 and if Team 2 wins Match GF1
 
 ## Mappools
 
