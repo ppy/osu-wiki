@@ -19,7 +19,7 @@ The **osu!mania LN Tournament 2** (***o!mLN2***) is a worldwide double-eliminati
 | Live drawings | 2020-06-07 (16:00 UTC) |
 | Qualifiers | 2020-06-13/2020-06-14 |
 | Round of 64 | 2020-06-19/2020-06-21 |
-| Round of 32 | 2020-06-27/2020-06-28 |
+| Round of 32 | 2020-06-26/2020-06-28 |
 | Round of 16 | 2020-07-04/2020-07-05 |
 | Quarterfinals | 2020-07-11/2020-07-12 |
 | Semifinals | 2020-07-18/2020-07-19 |
@@ -114,6 +114,52 @@ The osu!mania LN Tournament 2 is run by various community members.
   - [Kurubukko vs yukitani - Minamichita EVOLVED (juankristal) \[Stage 3-3: Heaven\]](https://osu.ppy.sh/beatmapsets/1187874#mania/2475458)
 
 ## Match results
+
+### Round of 32
+
+Friday, 26 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **cheewee10** ![][flag_MY] | **4** | 0 | ![][flag_VN] MashedPotato | [#1](https://osu.ppy.sh/community/matches/63387695) |
+
+Saturday, 27 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Onta\_Bekasi** ![][flag_ID] | **4** | 2 | ![][flag_US] BaniiYanii | [#1](https://osu.ppy.sh/community/matches/63425329) |
+| **yipyapyop** ![][flag_GB] | **4** | 0 | ![][flag_KR] pieerre | [#1](https://osu.ppy.sh/community/matches/63430073) |
+| HD\_AdreNaline ![][flag_AU] | 0 | **4** | ![][flag_NZ] **Sparxe** | [#1](https://osu.ppy.sh/community/matches/63430065) |
+| DarkistDeci ![][flag_AU] | -1 | **0** | ![][flag_RU] **FoXCHANNEL** | *win by default* |
+| Rekon ![][flag_PL] | -1 | **0** | ![][flag_MY] **Blethz** | *win by default* |
+| \_underjoy ![][flag_PL] | -1 | **0** | ![][flag_FR] **DragonSonic** | *win by default* |
+| **Eon Musk** ![][flag_PH] | **4** | 1 | ![][flag_PL] Hlimak | [#1](https://osu.ppy.sh/community/matches/63434149) |
+| GoDJI\_KunG ![][flag_TH] | 0 | **4** | ![][flag_SG] **AdamAckerville** | [#1](https://osu.ppy.sh/community/matches/63434002) |
+| shokoha ![][flag_TH] | 0 | **4** | ![][flag_RU] **fegasaren0133** | [#1](https://osu.ppy.sh/community/matches/63434144) |
+| **VrChatGamer** ![][flag_KR] | **0** | -1 | ![][flag_PL] szuncoll | *win by default* |
+| **HowToPlayLN** ![][flag_TH] | **4** | 0 | ![][flag_NL] 2fast4you98 | [#1](https://osu.ppy.sh/community/matches/63435796) |
+| **Bentai Bosmic** ![][flag_PH] | **0** | -1 | ![][flag_MX] \[Crz\]Crystalize | *win by default* |
+| **Percyqaz** ![][flag_GB] | **0** | -1 | ![][flag_RU] gdfgdfgd | *win by default* |
+| -Rain ![][flag_GB] | 1 | **4** | ![][flag_PL] **Mr\_adamello** | [#1](https://osu.ppy.sh/community/matches/63437525) |
+| **Unholy** ![][flag_US] | **4** | 1 | ![][flag_GB] SoFast | [#1](https://osu.ppy.sh/community/matches/63447002) |
+| Sinaeb ![][flag_CA] | 0 | 4 | ![][flag_US] **\[GS\]Ery** | [#1](https://osu.ppy.sh/community/matches/63451118) |
+
+Sunday, 28 June 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **Logan636** ![][flag_US] | **4** | 0 | ![][flag_KR] JhleeDreamTree | [#1](https://osu.ppy.sh/community/matches/63463975) |
+| **MyZterioN-** ![][flag_TH] | **4** | 0 | ![][flag_KR] NKEYBOARD | [#1](https://osu.ppy.sh/community/matches/63468762) |
+| **SuddenDeath** ![][flag_KR] | **4** | 1 | ![][flag_FR] ZayyKen | [#1](https://osu.ppy.sh/community/matches/63473237) |
+| X\_Devil ![][flag_RU] | 1 | **4** | ![][flag_TH] **basicmaime** | [#1](https://osu.ppy.sh/community/matches/63473213) |
+| **DaZeRo5** ![][flag_PE] | **0** | -1 | ![][flag_ID] Reyi | *win by default* |
+| **bhop\_fury** ![][flag_KR] | **4** | 2 | ![][flag_MX] Ghoul- | [#1](https://osu.ppy.sh/community/matches/63474931) |
+| **Amascite** ![][flag_GB] | **4** | 1 | ![][flag_GB] xSnaggles | [#1](https://osu.ppy.sh/community/matches/63476695) |
+| **Chuck** ![][flag_PH] | **4** | 2 | ![][flag_FI] -Oreo- | [#1](https://osu.ppy.sh/community/matches/63476701) |
+| **-Hellscythe-** ![][flag_MX] | **4** | 0 | ![][flag_PL] paprotkaaaa | [#1](https://osu.ppy.sh/community/matches/63482373) |
+| **XxNewson1234xX** ![][flag_GB] | **0** | -1 | ![][flag_US] \[GS\]Antunder | *win by default* |
+| **andreymc** ![][flag_BR] | **4** | 2 | ![][flag_BR] Gabi Kamui | [#1](https://osu.ppy.sh/community/matches/63490238) |
+| HeZeus ![][flag_US] | 0 | **4** | ![][flag_AR] **aluuu** | [#1](https://osu.ppy.sh/community/matches/63491826) |
 
 ### Round of 64
 
