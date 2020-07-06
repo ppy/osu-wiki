@@ -1,6 +1,6 @@
 # Apa kamu benar-benar ingin bertanya kepada peppy?
 
-Hai! peppy paham keinginan kamu untuk menghubunginya secara pribadi, tetapi dia meminta kamu untuk memahami terlebih dahulu bahwa ini **bukan** tempat yang kamu inginkan untuk meminta bantuan atau layanan dukungan padanya. Dia memisahkan keperluan layanan dukungan osu! dari pesan pribadi dan bahwa menjawab pesan pribadi dari forum cukup sulit untuk diikuti baginya. Karena itu ia memintamu untuk melakukan salah satu optsi berikut untuk menghubunginya:
+Hai! peppy paham keinginan kamu untuk menghubunginya secara pribadi, tetapi dia meminta kamu untuk memahami terlebih dahulu bahwa ini **bukan** tempat yang kamu inginkan untuk meminta bantuan atau layanan dukungan padanya. Dia memisahkan keperluan layanan dukungan osu! dari pesan pribadi dan bahwa menjawab pesan pribadi dari forum cukup sulit untuk diikuti baginya. Karena itu ia memintamu untuk melakukan salah satu opsi berikut untuk menghubunginya:
 
 ## Layanan dukungan teknis
 
