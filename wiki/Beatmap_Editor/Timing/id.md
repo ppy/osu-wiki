@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Timing
 
 Timing untuk sebuah beatmap terdiri dari offset lagu dan BPM(Beats Per Minute, atau ketukan per menit). BPM lagu menunjukkan seberapa cepat sebuah lagu. Offset adalah jumlah waktu di antara awal dari file mp3 dan pembukaan lagu dalam sebuah lagu.

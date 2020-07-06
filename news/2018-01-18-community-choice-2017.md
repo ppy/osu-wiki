@@ -18,10 +18,10 @@ The top 10 maps for each mode will also grant their mappers **1 month of osu!sup
 
 How do you vote? Easy! Head to the [contest listing](https://osu.ppy.sh/community/contests) and click the *Community Choice* panels, or follow the links below:
 
-* [osu!](https://osu.ppy.sh/community/contests/59)
-* [osu!taiko](https://osu.ppy.sh/community/contests/60)
-* [osu!catch](https://osu.ppy.sh/community/contests/61)
-* [osu!mania](https://osu.ppy.sh/community/contests/62)
+- [osu!](https://osu.ppy.sh/community/contests/59)
+- [osu!taiko](https://osu.ppy.sh/community/contests/60)
+- [osu!catch](https://osu.ppy.sh/community/contests/61)
+- [osu!mania](https://osu.ppy.sh/community/contests/62)
 
 The voting will run for **14 days** from the date of this post, so get cracking, and make sure to tell all your friends!
 

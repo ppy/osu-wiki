@@ -1,8 +1,6 @@
----
-needs_cleanup: true
----
+<!-- TODO: mention lazer tournament client -->
 
-# Setup
+# osu!tourney setup
 
 **Note:** An active supporter tag is currently required to use the osu!tourney client.
 

@@ -1,6 +1,5 @@
 ---
 layout: main_page
-needs_cleanup: true
 ---
 
 <!-- Do not add any empty lines inside this div. -->
@@ -15,7 +14,7 @@ Welcome to the osu! wiki, a project containing a wide range of osu! related info
 
 # Getting Started
 
-[Welcome](/wiki/Welcome) • [Registration](/wiki/Registration) • [Installation](/wiki/Installation) • [Game Interface](/wiki/Interface) • [Game Options](/wiki/Options) • [Shortcut Key Reference](/wiki/Shortcut_Key_Reference) • [Sitemap](/wiki/Sitemap) • [Guides](/wiki/Guides) • [Help Centre](/wiki/Help_Centre)
+[Welcome](/wiki/Welcome) • [Registration](/wiki/Registration) • [Installation](/wiki/Installation) • [Game Interface](/wiki/Interface) • [Game Options](/wiki/Options) • [Shortcut key reference](/wiki/Shortcut_key_reference) • [Sitemap](/wiki/Sitemap) • [Guides](/wiki/Guides) • [Help Centre](/wiki/Help_Centre)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -39,7 +38,7 @@ Sections: ([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Ed
 
 # Online Editing and Ranking
 
-[Submission](/wiki/Submission) • [Beatmap Approval](/wiki/Submission/Beatmap_Ranking_Procedure) • [Modding](/wiki/Modding) • [Ranking Criteria](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
+[Submission](/wiki/Submission) • [Beatmap Approval](/wiki/Beatmap_ranking_procedure) • [Modding](/wiki/Modding) • [Ranking Criteria](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">

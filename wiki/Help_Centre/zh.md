@@ -54,10 +54,10 @@ outdated: true
 
 邮件中最好包括以下信息：
 
-* 你注册账号时所使用的邮箱地址，或者其他与该账号相关的邮箱地址。
-* supporter 或 osu! 商店中其他的商品的订单。
-* 你能记得的最后一次正常使用账号的日期。
-* 其他任何你认为可能有帮助的证明信息（除了成绩或者回放）。
+- 你注册账号时所使用的邮箱地址，或者其他与该账号相关的邮箱地址。
+- supporter 或 osu! 商店中其他的商品的订单。
+- 你能记得的最后一次正常使用账号的日期。
+- 其他任何你认为可能有帮助的证明信息（除了成绩或者回放）。
 
 #### 我的账号被盜了！
 
@@ -88,6 +88,7 @@ outdated: true
 如果你忘记了你账号的密码，并且你没有收到任何密码找回确认邮件，或者你确实忘记了你所绑定的邮箱，那么请联系支持团队 [accounts@ppy.sh](mailto:accounts@ppy.sh) 。关于你的信息（如你的用户名，你登录游戏时的截屏，你所有的 osu!store 订单等等）越多，你求助的成功率越高。
 
 还有，我们知道一些邮件服务并不接受我们的自动发送邮件。如果你在使用以下所列出的邮件服务之一，请立即联系我们帮你更换绑定的邮箱地址：
+
 - `att.net`
 - `bellsouth.net`
 - `free.fr`
@@ -190,7 +191,7 @@ outdated: true
 
 但不幸的是，我们无法跟踪用户所有下载过的谱面，所以你无法获取到它们。最补救的办法就是用上面的分类选项查询你所有玩过的谱面。
 
-----------------------------------------------------------------------------
+---
 
 ## 客户端
 
@@ -264,13 +265,13 @@ osu! 通常可以自动更新，但有时也会出现错误。
 
 这里有一些常用字体，可以在不同版本的 Windows 中使用，以下的链接会对你有所帮助：
 
-- [Microsoft 网页核心字体](http://web.nickshanks.com/fonts/microsoft-core-web-fonts) （ 包含 Arial ，Times New Roman ，Trebuchet MS 和 Verdana ）
-- [Tahoma](http://www.boldfonts.com/fonts/Tahoma/)
-- [Windows Live Essentials](http://explore.live.com/windows-live-essentials?os=other) （ Segoe UI ）
+- [Microsoft 网页核心字体](https://web.archive.org/web/20020124085641/http://www.microsoft.com/typography/fontpack/default.htm) （ 包含 Arial ，Times New Roman ，Trebuchet MS 和 Verdana ）
+- [Tahoma](https://freefontsfamily.com/tahoma-font-free)
+- [Windows Live Essentials](https://support.microsoft.com/en-us/help/2434419/windows-live-essentials-2011) （ Segoe UI ）
 - [Powerpoint 2007 Viewer](http://www.microsoft.com/downloads/en/details.aspx?FamilyID=048dc840-14e1-467d-8dca-19d2a8fd7485&displaylang=en&pf=true) （ 这里包含着大多数 ClearType 字体 —— Calibri ，Consolas ，Corbel ... 你的系统和 osu! 基本上不需要这些字体，但这些字体都很棒！赶快下载试试吧！）
 - [Microsoft 正黑体 / Microsoft 正黑體](http://www.microsoft.com/download/en/details.aspx?DisplayLang=en&id=12072) （ 正体中文界面字体 ）
 
-[这里](http://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a)有一些的具体建议和找回字体的其他方法。
+[这里](https://answers.microsoft.com/en-us/windows/forum/windows_vista-windows_programs/font-tahoma-does-not-support-style-regular/80ad7a97-230f-41d4-9101-107a0bfa986a)有一些的具体建议和找回字体的其他方法。
 
 #### 我的一些谱面消失了！
 
@@ -386,7 +387,7 @@ osu! 会自动保存你的所有成绩在 osu! 安装目录的 `/Data/r` 文件�
 
 对于大部分人而言，默认设置就足够了。如果你发现默认设置不合适，你可以通过以下步骤修改它：
 
-- 进入 `Options` 菜单，在 `偏移量（OFFSET）调节 ` 中找到 `全局 Offset` 滑块。默认设置是 0 ，你可以按照自己的需要修改。
+- 进入 `Options` 菜单，在 `偏移量（OFFSET）调节` 中找到 `全局 Offset` 滑块。默认设置是 0 ，你可以按照自己的需要修改。
 - 如果默认值（ 0 ）不合适，试着使用 `偏移向导` 来将它设置为一个新的值。
 - 如果没有效果，你可以尝试更新的声卡和主板音频驱动。
 
@@ -494,8 +495,8 @@ osu! 会自动保存你的所有成绩在 osu! 安装目录的 `/Data/r` 文件�
 
 如果你仍然无法连接游戏服务器，请通过发送一封电子邮件给 [accounts@ppy.sh](mailto:accounts@ppy.sh) 的方式向我们寻求帮助。以下信息可以帮我们快速解决你的问题：
 
-* 对服务器 `cho.ppy.sh`、`osu.ppy.sh` 和 `m1.ppy.sh` 使用 `tracert` 命令，得到的路由追踪日志。（介绍见下方）
-* osu! 安装目录下，`Logs` 文件夹中的 `network.log` 文件。
+- 对服务器 `cho.ppy.sh`、`osu.ppy.sh` 和 `m1.ppy.sh` 使用 `tracert` 命令，得到的路由追踪日志。（介绍见下方）
+- osu! 安装目录下，`Logs` 文件夹中的 `network.log` 文件。
 
 ##### 运行路由追踪来诊断连接问题
 
@@ -530,6 +531,8 @@ osu! 会自动保存你的所有成绩在 osu! 安装目录的 `/Data/r` 文件�
 这可以帮助区分你和其他玩家的聊天消息，现在没有办法修改它。
 
 ### 性能
+
+#### Common issues
 
 ##### 如果电脑过热，我应该如何使 osu! 正常运行？
 
@@ -577,7 +580,7 @@ osu! 会自动保存你的所有成绩在 osu! 安装目录的 `/Data/r` 文件�
 
 大多数新键盘可以同时按键的上限是 6 个，键盘上任意的 6 个键。
 
-你可以通过[微软的键盘按键冲突检测工具](http://www.microsoft.com/appliedsciences/content/projects/AntiGhostingExplained.aspx)来测试你的键盘的键盘按键冲突情况。
+你可以通过[微软的键盘按键冲突检测工具](https://drakeirving.github.io/MultiKeyDisplay)来测试你的键盘的键盘按键冲突情况。
 
 尽管 osu!mania 限制谱面中同时按下的键不能超过 6 个，通过这样的办法来缓解键盘按键冲突问题，你也应当考虑你的键盘是否太老旧了。
 
@@ -610,7 +613,7 @@ osu! 会自动保存你的所有成绩在 osu! 安装目录的 `/Data/r` 文件�
 
 **你可以通过为数位板设置更小的映射区域来解决这个问题。**
 
-大多数 Wacom 数位板，可以在 `Wacom 数位板属性` 程序中的 `映射`标签页中修改映射。这里有一个[例子](/wiki/Help_Centre/Tabarea.png)。
+大多数 Wacom 数位板，可以在 `Wacom 数位板属性` 程序中的 `映射`标签页中修改映射。这里有一个[例子](img/Tabarea.png)。
 
 你需要咨询你的数位板制造厂商来了解如何为你的数位板设置映射区域。
 
@@ -630,13 +633,15 @@ osu! 会自动保存你的所有成绩在 osu! 安装目录的 `/Data/r` 文件�
 
 **你需要将文件解压到你的 Songs 目录中。**
 
-大部分谱面包是 `.rar` 格式，意味着它们是谱面文件的压缩集合。你需要使用解压工具（ 推荐 [7-Zip](http://www.7-zip.org/) ）将它们解压到 Songs 目录中。
+大部分谱面包是 `.rar` 格式，意味着它们是谱面文件的压缩集合。你需要使用解压工具（ 推荐 [7-Zip](https://7-zip.org) ）将它们解压到 Songs 目录中。
 
 所有 `.osz` 文件都在歌曲目录中后，在歌曲选择界面按下 `F5`，会刷新游戏的谱面缓存并将你的新歌加载到游戏中。
 
-----------------------------------------------------------------------------
+---
 
 ## 网站
+
+### Common issues
 
 #### 离我发送求助邮件已经过去两周，我还没有收到回复！
 
@@ -655,7 +660,6 @@ osu! 会自动保存你的所有成绩在 osu! 安装目录的 `/Data/r` 文件�
 大部分时候，你会再次被允许编辑你的用户页面，但是屡教不改的用户将会永远无法编辑用户页面，因此请留意。
 
 如果你感到疑问，不清楚某些东西是否适合放在主页上，你可以把这些内容发消息给任何一名[社区管理团队](/wiki/People/Global_Moderation_Team)的成员，他们会告诉你是否合适。
-
 
 #### 我可以屏蔽某人与我聊天么？
 
@@ -739,7 +743,7 @@ osu! 会自动保存你的所有成绩在 osu! 安装目录的 `/Data/r` 文件�
 
 如果你很长时间没有玩过而导致统计数据错误，只需要玩几张图，数据会再次正常显示。不活跃的玩家的成绩会被隐藏，以保持排行榜的活力。
 
-----------------------------------------------------------------------------
+---
 
 ## 安装和注册
 
@@ -749,7 +753,7 @@ osu! 会自动保存你的所有成绩在 osu! 安装目录的 `/Data/r` 文件�
 
 **只需在 [osu! 官方网站](https://osu.ppy.sh/home)上顶部的导航栏中点击 `Download` 。**
 
-或者，点击[这里](https://osu.ppy.sh/p/download)直接访问下载页面。
+或者，点击[这里](https://osu.ppy.sh/home/download)直接访问下载页面。
 
 #### 游戏安装程序蹦出错误提示！
 
@@ -762,7 +766,7 @@ osu! 会自动保存你的所有成绩在 osu! 安装目录的 `/Data/r` 文件�
 
 **试着安装 64 位的微软 .NET 框架。**
 
-osu! 安装程序自带有 .NET 框架，为了以防万一，你可以[在这里下载它](http://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe)。
+osu! 安装程序自带有 .NET 框架，为了以防万一，你可以[在这里下载它](https://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe)。
 
 ### 注册
 
@@ -786,9 +790,11 @@ osu! 安装程序自带有 .NET 框架，为了以防万一，你可以[在这�
 
 大部分洋葱网络（Tor）或者其他与它有关的网络无法连接游戏服务器。这是为了避免恶意使用。
 
-----------------------------------------------------------------------------
+---
 
 ## 谱面制作与编辑
+
+### Common issues
 
 #### 如何上传/更新我的谱面？
 
@@ -822,7 +828,7 @@ osu! 安装程序自带有 .NET 框架，为了以防万一，你可以[在这�
 
 一旦你的谱面进入 Graveyard 状态，你通过在网页上点击谱面链接右边的 `删除` 按钮来删除它。
 
-----------------------------------------------------------------------------
+---
 
 ## osu! 商店和商品
 
@@ -942,8 +948,7 @@ osu! 安装程序自带有 .NET 框架，为了以防万一，你可以[在这�
 
 **你可能需要为它重新分区。**
 
-请参考[这个指南](https://tails.boum.org/doc/first_steps/reset/windows/index.en.html)，了解具体应该怎么做。
-
+请参考[这个指南](https://tails.boum.org/doc/first_steps/reset/windows/index.zh.html)，了解具体应该怎么做。
 
 #### 我重新格式化了 osu!go U 盘，现在它在磁盘管理中显示了。
 
@@ -955,10 +960,11 @@ osu! 安装程序自带有 .NET 框架，为了以防万一，你可以[在这�
 
 如果你在过程中有任何问题，请发邮件给 [store@ppy.sh](mailto:store@ppy.sh)，我们很乐意帮助你。
 
-
-----------------------------------------------------------------------------
+---
 
 ## 诊断问题
+
+### Common issues
 
 #### 什么是“日志文件”，我应该如何使用他们？
 

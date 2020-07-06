@@ -2,6 +2,7 @@
 needs_cleanup: true
 outdated: true
 ---
+<!-- TODO: outdated because the image is out of date and we need to check if some of these tags are even functional on the new website. -->
 
 # BBCode
 
@@ -23,8 +24,8 @@ Tags can be combined for richer formatting. The order and nesting of the tags **
 
 For example (pay attention to the order of the code):
 
-- `[centre]` `[b]` _text_ `[/b]` `[/centre]` is correct, but
-- `[b]` `[centre]` _text_ `[/b]` `[/centre]` is wrong.
+- `[centre]` `[b]` *text* `[/b]` `[/centre]` is correct, but
+- `[b]` `[centre]` *text* `[/b]` `[/centre]` is wrong.
 
 ## List of BBCode tags
 
@@ -36,9 +37,10 @@ For example (pay attention to the order of the code):
 - Notes:
   - Use sparingly. Overuse may create discomfort and make the post harder to read.
 - Syntax:
-```
-[b] ... [/b]
-```
+
+  ```
+  [b] ... [/b]
+  ```
 
 ### Italic
 
@@ -48,9 +50,10 @@ For example (pay attention to the order of the code):
 - Notes:
   - Use sparingly. Overuse will weaken the effectiveness of the emphasize.
 - Syntax:
-```
-[i] ... [/i]
-```
+
+  ```
+  [i] ... [/i]
+  ```
 
 ### Underline
 
@@ -60,13 +63,14 @@ For example (pay attention to the order of the code):
 - Notes:
   - Use sparingly. Overuse may create discomfort and make the post harder to read.
 - Syntax:
-```
-[u] ... [/u]
-```
+
+  ```
+  [u] ... [/u]
+  ```
 
 ### Strike
 
-_Also known as **strikethrough**._
+*Also known as **strikethrough**.*
 
 **Draws a horizontal line through the middle** of the word(s) or an entire paragraph.
 
@@ -74,13 +78,14 @@ _Also known as **strikethrough**._
 - Notes:
   - Use sparingly. Overuse may create discomfort and make the post harder to read.
 - Syntax:
-```
-[strike] ... [/strike]
-```
+
+  ```
+  [strike] ... [/strike]
+  ```
 
 ### Colour
 
-_BBCode calls this "Color"._
+*BBCode calls this "Color".*
 
 **Adds colour** to some text.
 
@@ -94,9 +99,10 @@ _BBCode calls this "Color"._
   - Where `HEXCODE` is a colour in hexadecimal or colour name.
     - For hexadecimal, it must start with `#`, followed by 6 hexadecimal (0 - 9, A - F) characters.
     - For colour name, it must be a valid html colour.
-```
-[color=HEXCODE] ... [/color]
-```
+
+  ```
+  [color=HEXCODE] ... [/color]
+  ```
 
 For a list of colour names, see [X11 color names](https://en.wikipedia.org/wiki/X11_color_names#Color_name_chart).
 
@@ -116,13 +122,14 @@ Relatively adjusts the text size.
   - The `NUMBER` argument should not use quotation marks.
 - Syntax:
   - Where `NUMBER` is one of the listed sizes (`50`, `85`, `100`, or `150`).
-```
-[size=NUMBER] ... [/size]
-```
+
+  ```
+  [size=NUMBER] ... [/size]
+  ```
 
 ### Spoiler
 
-_Not to be confused with [Spoilerbox](#spoilerbox)._
+*Not to be confused with [Spoilerbox](#spoilerbox).*
 
 **Covers text** with a black background.
 
@@ -132,13 +139,14 @@ This can be useful if you are talking about a critical scene in a TV show, movie
 - Notes:
   - If you use the [colour](#colour) tag along with this, the colour will be used with a black background.
 - Syntax:
-```
-[spoiler] ... [/spoiler]
-```
+
+  ```
+  [spoiler] ... [/spoiler]
+  ```
 
 ### Spoilerbox
 
-_Not to be confused with [Box](#box) or [Spoiler](#spoiler)._
+*Not to be confused with [Box](#box) or [Spoiler](#spoiler).*
 
 **Hides a paragraph** inside an prenamed box from the reader's view. The reader, however, can still read the paragraph by clicking on the spoilerbox to toggle the hidden paragraph.
 
@@ -146,15 +154,16 @@ _Not to be confused with [Box](#box) or [Spoiler](#spoiler)._
 - Notes:
   - This will create a [Box](#box) with the heading text of `collapsed text`.
 - Syntax:
-```
-[spoilerbox]
-...
-[/spoilerbox]
-```
+
+  ```
+  [spoilerbox]
+  ...
+  [/spoilerbox]
+  ```
 
 ### Box
 
-_Not to be confused with [Spoilerbox](#spoilerbox)._
+*Not to be confused with [Spoilerbox](#spoilerbox).*
 
 **Hides a paragraph** inside a nameable box from the reader's view. The reader, however, can still read the paragraph by clicking on the box to toggle the hidden paragraph.
 
@@ -168,11 +177,12 @@ These are commonly used to hide large images or a large amount of images.
   - The `NAME` argument can contain spaces.
 - Syntax:
   - Where `NAME` is a name for the box.
-```
-[box=NAME]
-...
-[/box]
-```
+
+  ```
+  [box=NAME]
+  ...
+  [/box]
+  ```
 
 ### Quote
 
@@ -186,11 +196,12 @@ Quote formatting for the given word/paragraph.
     - If you did this, the post (when you click `Post`) will be posted in the current thread.
 - Syntax:
   - Where `NAME` is a name for the box (**must** be wrapped in quotation marks).
-```
-[quote=NAME]
-...
-[/quote]
-```
+
+  ```
+  [quote=NAME]
+  ...
+  [/quote]
+  ```
 
 ### Code
 
@@ -201,11 +212,12 @@ Format text with a monospaced font-family and place it inside a gray box. This i
   - This will preserve white spacing, this means that none of the lines will break unless you break it.
   - Overflowing text lines will enable a horizontal scroll box.
 - Syntax:
-```
-[code]
-...
-[/code]
-```
+
+  ```
+  [code]
+  ...
+  [/code]
+  ```
 
 ### Centre
 
@@ -215,11 +227,12 @@ Centre align a paragraph; this is typically used for titles or headings.
 - Notes:
   - The tags **must** be spelt as `centre` not `center` (note the last two letters).
 - Syntax:
-```
-[centre]
-...
-[/centre]
-```
+
+  ```
+  [centre]
+  ...
+  [/centre]
+  ```
 
 ### URL
 
@@ -233,9 +246,10 @@ You do not need to use this tag if you do not want to use link text. The osu!for
 - Syntax:
   - Where `LINK` is the url.
   - Where `TEXT` is the link text.
-```
-[url=LINK]TEXT[/url]
-```
+
+  ```
+  [url=LINK]TEXT[/url]
+  ```
 
 ### Profile
 
@@ -251,9 +265,10 @@ It is recommended to use [URL](#url) instead (using the user's id number).
   - The `USER` argument has to be defined.
 - Syntax:
   - Where `USER` is the name of the user.
-```
-[profile]USER[/profile]
-```
+
+  ```
+  [profile]USER[/profile]
+  ```
 
 ### Google
 
@@ -264,9 +279,10 @@ Automatically links to a Google Search query using the provided text.
   - Know that this will not give everyone the same results.
     - Some search results are hidden due to language/location.
 - Syntax:
-```
-[google]...[/google]
-```
+
+  ```
+  [google]...[/google]
+  ```
 
 ### Lucky
 
@@ -277,9 +293,10 @@ Automatically links to a Google Search query using the provided text.
   - Know that this will not give everyone the same results.
     - Some search results are hidden due to language/location.
 - Syntax:
-```
-[lucky]...[/lucky]
-```
+
+  ```
+  [lucky]...[/lucky]
+  ```
 
 ### List
 
@@ -306,11 +323,12 @@ In BBCode, there are two parts for making the list: the wrapper and the bullets.
 - Syntax:
   - Where `TYPE` is one of the listed types above.
   - If `TYPE` is not defined, bullets will be used instead.
-```
-[list=TYPE]
-[*]...
-[/list]
-```
+
+  ```
+  [list=TYPE]
+  [*]...
+  [/list]
+  ```
 
 ### Image
 
@@ -320,16 +338,17 @@ The images can be sourced from anywhere, as long as the image exists from the gi
 
 **Do not link the image directly from a local filepath!** Using `C:\Users\Name\Pictures\image.jpg` will **not work**.
 
-Please upload the image to reputable image sharing sites like [imgur](https://imgur.com/ "imgur") or [puush](https://puush.me/ "puush"). Once the image is uploaded successfully, copy and paste the direct link provided in-between the image tags. Also note that some websites don't appreciate direct links to their images (otherwise known as _hotlinks_). Image sharing sites, like the ones listed above, are most likely okay with direct links since they are image sharing sites.
+Please upload the image to reputable image sharing sites like [imgur](https://imgur.com). Once the image is uploaded successfully, copy and paste the direct link provided in-between the image tags. Also note that some websites don't appreciate direct links to their images (otherwise known as *hotlinks*). Image sharing sites, like the ones listed above, are most likely okay with direct links since they are image sharing sites.
 
 - Dedicated button: ![Image button](img/image.png)
 - Notes:
   - If you have many images or large images, it is recommended to put them inside a [Box](#box).
 - Syntax:
   - Where `LINK` is a direct link to an image.
-```
-[img]LINK[/img]
-```
+
+  ```
+  [img]LINK[/img]
+  ```
 
 ### YouTube
 
@@ -341,9 +360,28 @@ Embeds a YouTube video in your post.
 - Syntax:
   - Where `VIDEO_ID` is the YouTube video ID (11 characters long), **not** the whole url!
     - The YouTube video ID is located after the `?v=` url parameter.
-```
-[youtube]VIDEO_ID[/youtube]
-```
+
+  ```
+  [youtube]VIDEO_ID[/youtube]
+  ```
+
+### Audio
+
+**Shows an HTML5 audio player from an online audio source**.
+
+The audio files can be sourced from anywhere, as long as the audio exists from the given url.
+
+**Do not link the audio directly from a local filepath!** Using `C:\Users\Name\Music\audio.mp3` will **not work**.
+
+Please upload the audio file to reputable file sharing sites. Once the audio file is uploaded successfully, copy and paste the direct link provided in-between the audio tags. Also note that some websites don't appreciate direct links to their audio files (otherwise known as *hotlinks*).  Please beware that not all file sharing services might be okay with audio files, due to music piracy concerns. File sharing sites listed here should be okay.
+
+- Dedicated button: N/A
+- Syntax:
+  - Where `URL` is the the direct link to an audio track.
+
+  ```
+  [audio]URL[/audio]
+  ```
 
 ### Heading (v1)
 
@@ -354,9 +392,10 @@ This is usually used to denote a new section in your post.
 - Notes:
   - You must type the syntax yourself.
 - Syntax:
-```
-[heading]...[/heading]
-```
+
+  ```
+  [heading]...[/heading]
+  ```
 
 ### Heading (v2)
 
@@ -368,9 +407,10 @@ Adds a big fancy purple heading with a horizontal line. This is usually used to 
   - This only appears after posting, not in preview.
   - You must type the syntax yourself.
 - Syntax:
-```
-[...]
-```
+
+  ```
+  [...]
+  ```
 
 ### Notice
 
@@ -380,11 +420,12 @@ Places the paragraph inside a white box.
 - Notes:
   - You must type the syntax yourself.
 - Syntax:
-```
-[notice]
-...
-[/notice]
-```
+
+  ```
+  [notice]
+  ...
+  [/notice]
+  ```
 
 ## Trivia
 

@@ -1,12 +1,16 @@
+---
+outdated: true
+---
+
 # Installation
 
-*Siehe auch: [Installation/macOS](/wiki/Installation/macOS)* <!-- und [Installation/Linux](/wiki/Installation/Linux)* -->
+*Siehe auch: [Installation/macOS](/wiki/Installation/macOS)*
 
-Auf dieser Seite erfährst du, wie du das Spiel auf deinem Windows-Gerät zum Laufen bekommst. Die [osu!academy](/wiki/osu!academy) hat auch ein englisches [Videotutorial](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ) zu diesem Thema.
+Auf dieser Seite erfährst du, wie du das Spiel auf deinem Windows-Gerät zum Laufen bekommst. Die [osu!academy](/wiki/osu!academy) hat auch ein englisches [Videotutorial](https://www.youtube.com/watch?v=0V5GwzmMhpU) zu diesem Thema.
 
 ## Mindestanforderungen
 
-- .NET Framework 4 oder höher (das Installationsprogramm sollte dich auffordern, es zu installieren, ansonsten kann man es auch [hier](https://www.microsoft.com/en-us/download/details.aspx?id=48130) finden).
+- .NET Framework 4 oder höher (das Installationsprogramm sollte dich auffordern, es zu installieren, ansonsten kann man es auch [hier](https://www.microsoft.com/de-de/download/details.aspx?id=48130) finden).
 - Eine vernünftige Grafikkarte.
 
 ## Die Installation
@@ -23,7 +27,7 @@ Auf dieser Seite erfährst du, wie du das Spiel auf deinem Windows-Gerät zum La
 
 ## Beatmapsets hinzufügen
 
-*Siehe auch: [Beatmaps](/wiki/Beatmaps) und [Beatmapsets](/wiki/Beatmapsets)*
+*Siehe auch: [Beatmaps](/wiki/Beatmaps) und [Beatmapsets](/wiki/Glossary#beatmapset)*
 
 Es gibt zwei Arten, Beatmaps zu installieren: Über die Webseite oder durch osu!direct (benötigt [osu!supporter](/wiki/osu!supporter)).
 
@@ -50,7 +54,7 @@ Es gibt zwei Arten, Beatmaps zu installieren: Über die Webseite oder durch osu!
 
 ## Skins hinzufügen
 
-*Siehe auch: [Skins](/wiki/Skins) und [Skinning](/wiki/Skinning)*
+*Siehe auch: [Skins](/wiki/Glossary#skin) und [Skinning](/wiki/Skinning)*
 
 1. Begib dich in das [Skinning Subforum](https://osu.ppy.sh/community/forums/15) und such' dir einen schönen Skin aus.
 2. Wenn du einen Skin gefunden hast, lade ihn dir herunter.

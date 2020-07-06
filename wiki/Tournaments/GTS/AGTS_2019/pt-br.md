@@ -1,7 +1,9 @@
 ---
 tags:
-- AGTS 2019
-- AGTS2019
+  - AGTS 2019
+  - AGTS
+  - GTS
+outdated: true
 ---
 
 # Advanced Global Taiko Showdown 2019
@@ -27,9 +29,9 @@ O **Advanced Global Taiko Showdown 2019** (***AGTS 2019***) foi um torneio 2 vs 
 
 | Colocação | Prêmio(s) |
 | :-: | :-- |
-| ![Coroa de ouro](/wiki/shared/GCrown.png "1º colocado") | Badge único do perfil, banner exclusivo do time |
-| ![Coroa de prata](/wiki/shared/SCrown.png "2º colocado") | Banner exclusivo do time |
-| ![Coroa de bronze](/wiki/shared/BCrown.png "3º colocado") | Banner exclusivo do time |
+| ![Coroa de ouro](/wiki/shared/crown-gold.png "1º colocado") | Badge único do perfil, banner exclusivo do time |
+| ![Coroa de prata](/wiki/shared/crown-silver.png "2º colocado") | Banner exclusivo do time |
+| ![Coroa de bronze](/wiki/shared/crown-bronze.png "3º colocado") | Banner exclusivo do time |
 
 ![Badge dos Vencedores do AGTS 2019](img/badge.png)
 
@@ -79,7 +81,7 @@ O Advanced Global Taiko Showdown 2019 foi realizado por vários membros da comun
 | ![][flag_US] | **Estados Unidos A** | **[Backfire](https://osu.ppy.sh/users/263110)**, [ChurroChef](https://osu.ppy.sh/users/9258564), [CaptainEChan](https://osu.ppy.sh/users/9536977), [dragonworm](https://osu.ppy.sh/users/11464752) |
 | ![][flag_US] | **Estados Unidos B** | **[driodx](https://osu.ppy.sh/users/9709548)**, [Shindamama](https://osu.ppy.sh/users/12780046), [R J](https://osu.ppy.sh/users/6490509), [DiggyDogg](https://osu.ppy.sh/users/5014664) |
 | ![][flag_PH] | **Filipinas** | **[yuki\_momoiro722](https://osu.ppy.sh/users/7186791)**, [Niro-](https://osu.ppy.sh/users/6443899), [A i r](https://osu.ppy.sh/users/10363380), [Yron8](https://osu.ppy.sh/users/1537747) |
-| ![][flag_FR] | **França** | **[maximaxiU](https://osu.ppy.sh/users/4069690)**, [Chernobog](https://osu.ppy.sh/users/3317042), [Gintoki8](https://osu.ppy.sh/users/2239411), [ALISTAR033009](https:/osu.ppy.sh/users/9819975), [ZeddaStake](https://osu.ppy.sh/users/8801844) |
+| ![][flag_FR] | **França** | **[maximaxiU](https://osu.ppy.sh/users/4069690)**, [Chernobog](https://osu.ppy.sh/users/3317042), [Gintoki8](https://osu.ppy.sh/users/2239411), [ALISTAR033009](https://osu.ppy.sh/users/9819975), [ZeddaStake](https://osu.ppy.sh/users/8801844) |
 | ![][flag_HK] | **Hong Kong** | **[Brown918](https://osu.ppy.sh/users/9805760)**, [Cynplytholowazy](https://osu.ppy.sh/users/3901754), [\[\_isolated\_\]](https://osu.ppy.sh/users/6187838) |
 | ![][flag_ID] | **Indonésia A** | **[Mikurio](https://osu.ppy.sh/users/10734140)**, [misaki_tk](https://osu.ppy.sh/users/3866964), [steven1](https://osu.ppy.sh/users/3090416), [Volta](https://osu.ppy.sh/users/4154071) |
 | ![][flag_ID] | **Indonésia B** | **[Viewland](https://osu.ppy.sh/users/6250135)**, [Shirai-](https://osu.ppy.sh/users/4221845), [Alwaysyukaz](https://osu.ppy.sh/users/4999506), [ImChro](https://osu.ppy.sh/users/7280717), [Ahmad Haris](https://osu.ppy.sh/users/6048245) |
@@ -103,7 +105,7 @@ O Advanced Global Taiko Showdown 2019 foi realizado por vários membros da comun
 | **B** | ![][flag_JP] Japão | ![][flag_AR] Argentina | ![][flag_HK] Hong Kong | ![][flag_CL] Chile |
 | **C** | ![][flag_NL] Países Baixos | ![][flag_FR] França | ![][flag_MX] México | ![][flag_TW] Taiwan |
 | **D** | ![][flag_US] Estados Unidos A | ![][flag_RU] Rússia A | ![][flag_US] Estados Unidos B | ![][flag_BR] Brasil |
-| **E** | ![][flag_KR] Coreia do Sul | ![][flag_DE] Alemanha A | ![][flag_DK] ![][flag_NO] ![][flag_SE] Scandinavia | ![][flag_VE] Venezuela
+| **E** | ![][flag_KR] Coreia do Sul | ![][flag_DE] Alemanha A | ![][flag_DK] ![][flag_NO] ![][flag_SE] Scandinavia | ![][flag_VE] Venezuela |
 | **F** | ![][flag_CA] Canadá | ![][flag_GB] ![][flag_PT] Reino Unido/Portugal | ![][flag_ID] Indonésia A | ![][flag_ID] Indonésia B |
 
 ---
@@ -114,9 +116,9 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 
 | Colocação | País |
 | :-: | :-- |
-| ![Coroa de ouro](/wiki/shared/GCrown.png "1º colocado") | ![][flag_JP] Japão |
-| ![Coroa de prata](/wiki/shared/SCrown.png "2º colocado") | ![][flag_CA] Canadá |
-| ![Coroa de bronze](/wiki/shared/BCrown.png "3º colocado") | ![][flag_RU] Rússia A |
+| ![Coroa de ouro](/wiki/shared/crown-gold.png "1º colocado") | ![][flag_JP] Japão |
+| ![Coroa de prata](/wiki/shared/crown-silver.png "2º colocado") | ![][flag_CA] Canadá |
+| ![Coroa de bronze](/wiki/shared/crown-bronze.png "3º colocado") | ![][flag_RU] Rússia A |
 
 ---
 
@@ -316,7 +318,7 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 | --: | :-: | :-: | :-- | :-- |
 | Taiwan ![][flag_TW] | 1 | **7** | ![][flag_CA] **Canadá** | [#1](https://osu.ppy.sh/community/matches/54521624) |
 | Países Baixos ![][flag_NL] | 6 | **7** | ![][flag_KR] **Coreia do Sul** | [#1](https://osu.ppy.sh/community/matches/54530786) |
-| Indonésia A ![][flag_ID] | 3 | **7** | ![][flag_KR] **Coreia do Sul** | [#1](https://osu.ppy.sh/community/matches/54533409)
+| Indonésia A ![][flag_ID] | 3 | **7** | ![][flag_KR] **Coreia do Sul** | [#1](https://osu.ppy.sh/community/matches/54533409) |
 
 ### Quartas de final
 
@@ -327,7 +329,8 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 | **Japão** ![][flag_JP] | **6** | 0 | ![][flag_BR] Brasil | [#1](https://osu.ppy.sh/community/matches/54317042) |
 | **Rússia A** ![][flag_RU] | **6** | 2 | ![][flag_RU] Rússia B | [#1](https://osu.ppy.sh/community/matches/54317274) |
 | Canadá ![][flag_CA] | 4 | **6** | ![][flag_JP] **Japão** | [#1](https://osu.ppy.sh/community/matches/54318662) |
-| Polónia ![][flag_PL] | 1 | **6** | ![][flag_ID] **Indonésia A** | [#1](https://osu.ppy.sh/community/matches/54320532) | **Canadá** ![][flag_CA] | **6** | 1 | ![][flag_RU] Rússia B | [#1](https://osu.ppy.sh/community/matches/54322599) |
+| Polónia ![][flag_PL] | 1 | **6** | ![][flag_ID] **Indonésia A** | [#1](https://osu.ppy.sh/community/matches/54320532) |
+| **Canadá** ![][flag_CA] | **6** | 1 | ![][flag_RU] Rússia B | [#1](https://osu.ppy.sh/community/matches/54322599) |
 
 | Domingo, 2019-08-25 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
@@ -447,7 +450,7 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 7. A modalidade EX será jogada sem nenhum mod ativado e é a versão mais difícil do NoMod, contém beatmaps com técnicas de mapping complicadas, mudanças de velocidade, etc.
 8. A mappool de FreeMod é jogada com FreeMod ativado. Cada jogador individual poderá escolher **Hidden, HardRock ou ambos. Pelo menos um jogador de cada time deve ter pelo menos um mod ativado.**
 9. O Tiebraker é jogado sob as mesmas condições do FreeMod, mas não é necessário que pelo menos um jogador tenha no mínimo um mod ativado.
-9. A mappool de cada fase será exibida uma semana anterior as partidas.
+10. A mappool de cada fase será exibida uma semana anterior as partidas.
 
 ### Instruções para agendamento
 

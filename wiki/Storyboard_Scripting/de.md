@@ -1,6 +1,6 @@
 # Storyboard Scripting
 
-![Ein Bespiel eines Skriptes im .osb.](SBS_Base.jpg "Ein Bespiel eines Skriptes im .osb.")
+![Ein Bespiel eines Skriptes im .osb.](img/SBS_Base.jpg "Ein Bespiel eines Skriptes im .osb.")
 
 Als Zusatz zur Benutzung des [Storyboard Editors](/wiki/Beatmap_Editor/Design), um [Storyboards](/wiki/Storyboards) für Maps zu erstellen, können Sie auch ein Textdokument (oder den [Notepad++](http://www.notepad-plus-plus.org/)) dazu verwenden. Dies wird als ***Storyboarding durchs Skripten*** (SBS) bezeichnet und erlaubt es Ihnen präziser (in Pixeln und Millisekunden) mit Sprites/Objekten arbeiten zu lassen. |
 
@@ -10,7 +10,7 @@ Als Zusatz zur Benutzung des [Storyboard Editors](/wiki/Beatmap_Editor/Design), 
 
 ## Vollständige Beschreibung
 
-Es basiert grundsätzlich auf [die offizielen Spezifikationen](https://osu.ppy.sh/forum/viewtopic.php?p=12468#p12468) und Erfahrungen, bei der Erstellung von langen Storyboards. Dies hier ist **kein Schritt-für-Schritt Anleitung**, jedoch sind einfache Beispiele vorhanden. Dies dient dazu osu! genau zu beschreiben, wie der SBS in Aktionen übersetzt werden soll.
+Es basiert grundsätzlich auf [die offizielen Spezifikationen](https://osu.ppy.sh/community/forums/topics/1869) und Erfahrungen, bei der Erstellung von langen Storyboards. Dies hier ist **kein Schritt-für-Schritt Anleitung**, jedoch sind einfache Beispiele vorhanden. Dies dient dazu osu! genau zu beschreiben, wie der SBS in Aktionen übersetzt werden soll.
 
 [Lies dir bitte erst die Regeln durch, bevor du mit dem SBS anfängst.](/wiki/Storyboard_Scripting/General_Rules) Klicke [hier](/wiki/Storyboard_Scripting/Objects) für Sprite/Objekt spezifische Elemente und [hier](/wiki/Storyboard_Scripting/Commands) für Befehle, um deren Bewegungabläufe festlegen zu können.
 

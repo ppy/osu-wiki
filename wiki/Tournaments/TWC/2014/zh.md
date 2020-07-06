@@ -13,32 +13,32 @@ outdated: true
 
 ## 比赛流程
 
-| Event             | Timestamp                               |
-|-------------------|-----------------------------------------|
-| 注册阶段              | 2014年 1月 15日 至 26日                      |
+| Event | Timestamp |
+| :-- | :-- |
+| 注册阶段 | 2014年 1月 15日 至 26日 |
 | 现场抽签 (决定小组赛的队伍排位) | 2014年 2月 1日 13.00 (UTC+0) (即中国时间 21.00) |
-| 小组赛               | 2014年 2月 7日 至 9日                        |
-| 16 强赛             | 2014年 2月 15日 至 16日                      |
-| 8 强赛              | 2014年 2月 22日 至 23日                      |
-| 准决赛               | 2014年 3月 1日 至 2日                        |
-| 决赛 / 季军赛          | 2014年 3月 8日 至 9日                        |
+| 小组赛 | 2014年 2月 7日 至 9日 |
+| 16 强赛 | 2014年 2月 15日 至 16日 |
+| 8 强赛 | 2014年 2月 22日 至 23日 |
+| 准决赛 | 2014年 3月 1日 至 2日 |
+| 决赛 / 季军赛 | 2014年 3月 8日 至 9日 |
 
 ## 奖品
 
-| Placing                                                    | Country                         |
-|------------------------------------------------------------|---------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 个月 supporter 标签，个人页面徽章，TWC 奖杯 |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 个月 supporter 标签               |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 个月 supporter 标签               |
+| Placing | Country |
+| :-- | :-- |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 6 个月 supporter 标签，个人页面徽章，TWC 奖杯 |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 个月 supporter 标签 |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 个月 supporter 标签 |
 
 ## 主办方
 
-| Job    | Person(s)                                                                                                                                                                                                                                                                                     |
-|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 赛事管理   | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703)                                                                                                                                                                  |
-| 比赛地图选择 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128)                                                                                                                                                                                                                           |
+| Job | Person(s) |
+| :-- | :-- |
+| 赛事管理 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) |
+| 比赛地图选择 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
 | 比赛直播旁述 | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) // ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) // ![][flag_US] ztrot // ![][flag_NO] Dolphin |
-| 赛果统计   | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665)                                                                                                                                                                                                                                |
+| 赛果统计 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
 ------------------------------------------------------------------------
 
@@ -83,8 +83,8 @@ outdated: true
     2.  You must specify a captain who will represent the team.
 
 2.  Each team represents a nation. You must form a team with players from the same country.
-3.  For team sign ups, [fill out this form](https://docs.google.com/forms/d/1C58_JWKBVVUrJr5so9LBBsqp6LqZktJjGVSZ4pbRhEo/viewform). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) titled “TWC Registration”
-    -   Captains may change their setup by [notifying the management](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366).
+3.  For team sign ups, [fill out this form](https://docs.google.com/forms/d/1C58_JWKBVVUrJr5so9LBBsqp6LqZktJjGVSZ4pbRhEo/viewform). Then, verify your registration by [sending a PM to Loctav](https://osu.ppy.sh/home/messages/users/71366) titled “TWC Registration”
+    -   Captains may change their setup by [notifying the management](https://osu.ppy.sh/home/messages/users/71366).
     -   You get a confirmation reply in case your registration successfully arrived. Your registration is in pending then.
 
 4.  To ensure valid and serious registrations, any registration and change will be checked by the Tournament Management.

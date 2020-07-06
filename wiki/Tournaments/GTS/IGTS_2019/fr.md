@@ -1,8 +1,9 @@
 ---
 tags:
-- Intermediate Global Taiko Showdown 2019
-- IGTS 2019
-- IGTS2019
+  - IGTS 2019
+  - IGTS
+  - GTS
+outdated: true
 ---
 
 # Intermediate Global Taiko Showdown 2019
@@ -29,9 +30,9 @@ L'**Intermediate Global Taiko Showdown 2019** (***IGTS 2019***) était un tourno
 
 | Place | Prix |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | Badge de profil unique, bannière d'équipe exclusive |
-| ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | bannière d'équipe exclusive |
-| ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | bannière d'équipe exclusive |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | Badge de profil unique, bannière d'équipe exclusive |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | bannière d'équipe exclusive |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | bannière d'équipe exclusive |
 
 [Badge des gagnants de l'IGTS 2019](img/badge.png)
 
@@ -58,7 +59,7 @@ L'Intermediate Global Taiko Showdown 2019 était organisé par différents membr
 - [Serveur Discord de l'IGTS](https://discord.gg/a6PzzFz)
 - [Livestream](https://www.twitch.tv/igtsosu)
 - [Tableaux Challonge](https://challonge.com/dqq46siu)
-- [Site de Pick'em](https://pickem.hwchr.com/tournaments/8)
+- [Site de Pick'em](https://pickem.hwc.hr/tournaments/8)
 - **[Sheet de statistiques](https://docs.google.com/spreadsheets/d/1B_upGgX4mSHpWkvWLrfFRAakPKP77Wm_fDsoU1y3kyY/edit?usp=sharing)**
 
 ---
@@ -121,9 +122,9 @@ Cette compétition s'est terminée et a donné le podium ci-dessous:
 
 | Classement | Équipe |
 | :-: | :-- |
-| ![Couronne d'or](/wiki/shared/GCrown.png "1ère place") | ![][flag_HK] Hong Kong |
-| ![Couronne d'argent](/wiki/shared/SCrown.png "2ème place") | ![][flag_US] États-Unis A |
-| ![Couronne de bronze](/wiki/shared/BCrown.png "3ème place") | ![][flag_CL] Chili |
+| ![Couronne d'or](/wiki/shared/crown-gold.png "1ère place") | ![][flag_HK] Hong Kong |
+| ![Couronne d'argent](/wiki/shared/crown-silver.png "2ème place") | ![][flag_US] États-Unis A |
+| ![Couronne de bronze](/wiki/shared/crown-bronze.png "3ème place") | ![][flag_CL] Chili |
 
 ---
 

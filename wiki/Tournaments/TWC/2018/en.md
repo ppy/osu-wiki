@@ -27,9 +27,9 @@ The **osu!taiko World Cup 2018** (***TWC 2018***) was a country-based osu!taiko 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $150 per team member, unique profile badge, "osu!taiko Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $80 per team member, unique profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $40 per team member, unique profile badge |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | $150 per team member, unique profile badge, "osu!taiko Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, unique profile badge |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, unique profile badge |
 
 ![TWC 2018 Winner Badge](img/badge.jpg) ![TWC 2018 2nd Place Badge](img/badge2.jpg) ![TWC 2018 3rd Place Badge](img/badge3.jpg)
 
@@ -71,7 +71,7 @@ The osu!taiko World Cup 2018 was run by various community members by distributin
 | ![][flag_JP] | **Japan** | **[tasuke912](https://osu.ppy.sh/users/2774767)**, [uone](https://osu.ppy.sh/users/5321719), [zkane2](https://osu.ppy.sh/users/6359835), [iceOC](https://osu.ppy.sh/users/5482401), [\_Rise](https://osu.ppy.sh/users/5217107) |
 | ![][flag_MY] | **Malaysia** | **[Xeltic Rival](https://osu.ppy.sh/users/7500364)**, [ZethZ161](https://osu.ppy.sh/users/9912966), [Dakry](https://osu.ppy.sh/users/1994145), [cdhsausageboy](https://osu.ppy.sh/users/2403621), [Jerry](https://osu.ppy.sh/users/605973) |
 | ![][flag_NL] | **Netherlands** | **[n0ah](https://osu.ppy.sh/users/3086393)**, [Pheon](https://osu.ppy.sh/users/292295), [Halzyn](https://osu.ppy.sh/users/156349), [jackylam5](https://osu.ppy.sh/users/1540807) |
-| ![][flag_PL] | **Poland** |  **[Acrith](https://osu.ppy.sh/users/389880)**, [DarkStoorM](https://osu.ppy.sh/users/174347), [CreepyDuck](https://osu.ppy.sh/users/2435013), [Tetsurio](https://osu.ppy.sh/users/2044810) |
+| ![][flag_PL] | **Poland** | **[Acrith](https://osu.ppy.sh/users/389880)**, [DarkStoorM](https://osu.ppy.sh/users/174347), [CreepyDuck](https://osu.ppy.sh/users/2435013), [Tetsurio](https://osu.ppy.sh/users/2044810) |
 | ![][flag_PT] | **Portugal** | **[babysnakes](https://osu.ppy.sh/users/4669728)**, [Shinzui](https://osu.ppy.sh/users/2505011), [MeovvCAT](https://osu.ppy.sh/users/5905091), [hi im costarino](https://osu.ppy.sh/users/9209430), [BlackPet](https://osu.ppy.sh/users/3795067) |
 | ![][flag_RU] | **Russian Federation** | **[Alt](https://osu.ppy.sh/users/736496)**, [DayzeekFeed](https://osu.ppy.sh/users/5009970), [artemean](https://osu.ppy.sh/users/8650631), [Naninub](https://osu.ppy.sh/users/8188876), [greenyoyo](https://osu.ppy.sh/users/1581472) |
 | ![][flag_KR] | **South Korea** | **[Konpaku Sariel](https://osu.ppy.sh/users/533502)**, [L y s](https://osu.ppy.sh/users/211825), [\_Asriel](https://osu.ppy.sh/users/566276), [MetalStream](https://osu.ppy.sh/users/165027) |
@@ -102,7 +102,7 @@ The osu!taiko World Cup 2018 was run by various community members by distributin
   - [Kaneko Chiharu - iLLness LiLin (ll-oscar) \[ll-taiko Sp.\]](https://osu.ppy.sh/beatmapsets/587489#taiko/1244054)
   - [ARM - Primula (tasuke912) \[TAIKO-HOLiC\]](https://osu.ppy.sh/beatmapsets/638476#taiko/1354418)
   - [Igorrr - Pavor Nocturnus (XK2238) \[Clamatis\]](https://osu.ppy.sh/beatmapsets/150705#taiko/371761)
-  - [Nanoka - Tsukimade Todoke, Fushi no Kemuri (JhowM) \[Extra (Special Edition)\]](https://osu.ppy.sh/beatmapsets/763774/#taiko/1605963)
+  - [Nanoka - Tsukimade Todoke, Fushi no Kemuri (JhowM) \[Extra (Special Edition)\]](https://osu.ppy.sh/beatmapsets/763774#taiko/1605963)
   - [Lily - Scarlet Rose (ll-oscar) \[ll-taiko Sp.\]](https://osu.ppy.sh/beatmapsets/195238#taiko/463330)
   - [cranky - R176 \[Short Edit\] (Nwolf) \[Kugessi\]](https://osu.ppy.sh/beatmapsets/514514#taiko/1623411)
 - Hidden
@@ -398,7 +398,7 @@ The osu!taiko World Cup 2018 was run by various community members by distributin
 
 | Stage | Match ID |
 | --: | :-- |
-| Round of 16 |  A, B, C, D, E, F, G, H |
+| Round of 16 | A, B, C, D, E, F, G, H |
 | Quarterfinals | I, J, K, L & R, S, T, U |
 | Semifinals | M, N & V, W, X, Y, Z, AA |
 | Finals | O & AB, AC, AD |

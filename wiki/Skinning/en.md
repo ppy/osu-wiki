@@ -1,7 +1,3 @@
----
-needs_cleanup: true
----
-
 # Skinning
 
 Skinning is one of the key features of osu!. It enables players to derive from the original skinning elements to create their own! Skins can vary from being for-fun, themed, PRO, or be nigh impossible to play with.

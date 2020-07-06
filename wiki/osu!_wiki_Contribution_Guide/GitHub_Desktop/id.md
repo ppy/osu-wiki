@@ -60,7 +60,7 @@
 
 *Perhatian: Jika anda akan membuat file artikel menggunakan Windows Explorer, pastikan opsi `File name extensions` diaktifkan.* Lihat [Bagaimana cara menampilkan atau menyembunyikan ekstensi nama file di Windows Explorer](https://support.microsoft.com/en-us/help/865219/how-to-show-or-hide-file-name-extensions-in-windows-explorer) untuk instruksi lebih lanjut.
 
-1\. Gunakan Windows Explorer, editor gambar favorit anda, dan/atau editor teks favorit anda untuk membuat file baru. Jika anda membuat artikel atau terjemahan baru, ganti nama file mengikuti [Locales dalam Kriteria Penyusunan Artikel](/wiki/ASC/#locales).
+1\. Gunakan Windows Explorer, editor gambar favorit anda, dan/atau editor teks favorit anda untuk membuat file baru. Jika anda membuat artikel atau terjemahan baru, ganti nama file mengikuti [Locales dalam Kriteria Penyusunan Artikel](/wiki/ASC#locales).
 
 2\. Lanjutkan [Meng-Commit dan push](#committing-and-pushing).
 
@@ -80,7 +80,7 @@
 
 3\. Untuk commit "besar", lebih baik dipisahkan menjadi commit tersendiri.
 
-Misalnya, seperti yang digambarkan di atas, [pippi](/wiki/Mascots/#pippi) telah menambahkan file gambar, mengubah file `en.md` untuk menambahkan judul dan tautan ke gambar, dan menandai terjemahan sebagai versi lama. Dari sini, kita telah memiliki dua commit, satu untuk perubahan yang mempengaruhi file `en.md` dan satu lagi untuk menandai terjemahan sebagai versi lama.
+Misalnya, seperti yang digambarkan di atas, [pippi](/wiki/Mascots#pippi) telah menambahkan file gambar, mengubah file `en.md` untuk menambahkan judul dan tautan ke gambar, dan menandai terjemahan sebagai versi lama. Dari sini, kita telah memiliki dua commit, satu untuk perubahan yang mempengaruhi file `en.md` dan satu lagi untuk menandai terjemahan sebagai versi lama.
 
 4\. Pilih file yang akan dicommit.
 
@@ -102,4 +102,4 @@ Misalnya, seperti yang digambarkan di atas, [pippi](/wiki/Mascots/#pippi) telah 
 
 ## Penyelesaian
 
-Anda sekarang dapat kembali ke [Panduan Kontribusi osu! wiki](/wiki/owcg/#finishing) untuk bagian terakhir informasi mengenai pull request dan perubahan anda.
+Anda sekarang dapat kembali ke [Panduan Kontribusi osu! wiki](/wiki/owcg#finishing) untuk bagian terakhir informasi mengenai pull request dan perubahan anda.

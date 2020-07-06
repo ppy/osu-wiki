@@ -1,0 +1,11 @@
+outdated: true # missing entries
+separator: ", "
+gmt:
+  areas:
+    beatmap: Moderasi beatmap
+    chat: Moderasi chat
+    forum: Moderasi forum
+    player: Bantuan pemain
+    support: Dukungan teknis
+    tournaments: Turnamen
+    wiki: Administrasi wiki

@@ -1,8 +1,9 @@
 ---
 tags:
-- Intermediate Global Taiko Showdown 2019
-- IGTS 2019
-- IGTS2019
+  - IGTS 2019
+  - IGTS
+  - GTS
+outdated: true
 ---
 
 # Intermediate Global Taiko Showdown 2019
@@ -29,9 +30,9 @@ O **Intermediate Global Taiko Showdown 2019** (***IGTS 2019***) foi um torneio 2
 
 | Colocação | Prêmio(s) |
 | :-: | :-- |
-| ![Coroa de ouro](/wiki/shared/GCrown.png "1º colocado") | Badge único do perfil, banner exclusivo do time |
-| ![Coroa de prata](/wiki/shared/SCrown.png "2º colocado") | banner exclusivo do time |
-| ![Coroa de bronze](/wiki/shared/BCrown.png "3º colocado") | banner exclusivo do time |
+| ![Coroa de ouro](/wiki/shared/crown-gold.png "1º colocado") | Badge único do perfil, banner exclusivo do time |
+| ![Coroa de prata](/wiki/shared/crown-silver.png "2º colocado") | banner exclusivo do time |
+| ![Coroa de bronze](/wiki/shared/crown-bronze.png "3º colocado") | banner exclusivo do time |
 
 ![Badge dos Vencedores do IGTS 2019](img/badge.png)
 
@@ -57,7 +58,7 @@ O Intermediate Global Taiko Showdown 2019 foi realizado por vários membros da c
 - [Página de discussão](https://osu.ppy.sh/community/forums/topics/906298)
 - [Server do Discord do IGTS](https://discord.gg/a6PzzFz)
 - [Canal de transmissão](https://www.twitch.tv/igtsosu)
-- [Website do Pick'em](https://pickem.hwchr.com/tournaments/8)
+- [Website do Pick'em](https://pickem.hwc.hr/tournaments/8)
 - [Suportes do Challonge](https://challonge.com/dqq46siu)
 - **[Página de estatísticas](https://docs.google.com/spreadsheets/d/1B_upGgX4mSHpWkvWLrfFRAakPKP77Wm_fDsoU1y3kyY/edit?usp=sharing)**
 
@@ -121,9 +122,9 @@ Essa competição chegou ao fim e resultou no seguinte pódio:
 
 | Colocação | Time |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_HK] Hong Kong |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_US] Estados Unidos A |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_CL] Chile |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_HK] Hong Kong |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] Estados Unidos A |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CL] Chile |
 
 ---
 

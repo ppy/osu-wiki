@@ -14,7 +14,7 @@ You can discuss this event and follow the most important changes in the **[offic
 ## Tournament Schedule
 
 | Event | Timestamp |
-| ---: | :--- |
+| --: | :-- |
 | Registration Phase | May 29th - June 11th |
 | Drawings | June 22nd (14:00 UTC) |
 | Group Stage | June 29th & June 30th |
@@ -27,16 +27,16 @@ You can discuss this event and follow the most important changes in the **[offic
 ## Prizes
 
 | Placing | Prize(s) |
-| --- | :--- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | $150 per team member, profile badge, "osu!catch Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | $80 per team member, profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | $40 per team member, profile badge |
+| :-- | :-- |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | $150 per team member, profile badge, "osu!catch Champion" user title for one year |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | $80 per team member, profile badge |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | $40 per team member, profile badge |
 
 ## How do I register?
 
-+ **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/20)**
-+ Do not create teams in advance! Teams will be formed by the country's team captain after the registration phase has concluded.
-+ Ensure you submit your registration before the **11th of June**!
+- **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/20)**
+- Do not create teams in advance! Teams will be formed by the country's team captain after the registration phase has concluded.
+- Ensure you submit your registration before the **11th of June**!
 
 Please note - you may only participate if your **osu!catch global ranking is #5000 or higher, and have not violated the [osu! community rules](/wiki/Rules) in the past 12 months**.
 

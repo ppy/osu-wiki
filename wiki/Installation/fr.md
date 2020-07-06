@@ -1,12 +1,16 @@
+---
+outdated: true
+---
+
 # Installation
 
-*Voir également: [Installation/macOS](/wiki/Installation/macOS)* <!-- et [Installation/Linux](/wiki/Installation/Linux)* -->
+*Voir également: [Installation/macOS](/wiki/Installation/macOS)*
 
-Cette page vous dira approximativement comment installer osu! sur votre appareil Windows pour qu'il fonctionne. [osu!academy](/wiki/osu!academy) possède un [tutoriel vidéo](https://www.youtube.com/watch?list=PLmWVQsxi34bMYwAawZtzuptfMmszUa_tl&v=cz522ZAs5aQ) qui va vous expliquer comment installer osu! sous Windows.
+Cette page vous dira approximativement comment installer osu! sur votre appareil Windows pour qu'il fonctionne. [osu!academy](/wiki/osu!academy) possède un [tutoriel vidéo](https://www.youtube.com/watch?v=0V5GwzmMhpU) qui va vous expliquer comment installer osu! sous Windows.
 
 ## Configuration minimale requise
 
-- .NET framework 4+ (le programme d’installation devrait vous demander de le télécharger, sinon, vous pouvez [le trouver ici](https://www.microsoft.com/en-us/download/details.aspx?id=48130))
+- .NET framework 4+ (le programme d’installation devrait vous demander de le télécharger, sinon, vous pouvez [le trouver ici](https://www.microsoft.com/fr-fr/download/details.aspx?id=48130))
 - Une carte graphique récente ou à jour.
 
 ## Installer osu!
@@ -23,7 +27,7 @@ Cette page vous dira approximativement comment installer osu! sur votre appareil
 
 ## Ajouter des beatmapsets
 
-*Voir également: [Beatmaps](/wiki/Beatmaps) et [Beatmapsets](/wiki/Beatmapsets)*
+*Voir également: [Beatmaps](/wiki/Beatmaps) et [Beatmapsets](/wiki/Glossary#beatmapset)*
 
 Il existe deux manières d'ajouter des beatmaps, via le site Web ou osu!direct (nécessite [osu!supporter](/wiki/osu!supporter)).
 
@@ -35,7 +39,7 @@ Il existe deux manières d'ajouter des beatmaps, via le site Web ou osu!direct (
 4. Recherchez et ouvrez le fichier beatmapset, il possède l'extension `.osz` (normalement présent dans votre dossier "Téléchargement").
     - Vous pouvez également placer le fichier beatmapset dans le dossier `Songs` du dossier osu! (qui se situe dans votre dossier "AppData\Local" par défaut si vous n'aviez pas changé le dossier au début de l'installation).
 5. osu! se chargera automatiquement du reste et chargera la beatmap.
-    - Si, pour une raison quelconque, vous ne les voyez pas, pressez `F5` en [Mode Solo](/wiki/Solo_mode) pour re-traiter vos beatmaps. *Ce processus prendra du temps si vous avez beaucoup de beatmaps.*
+    - Si, pour une raison quelconque, vous ne les voyez pas, pressez `F5` en [Mode Solo](/wiki/Interface#song-selection-screen) pour re-traiter vos beatmaps. *Ce processus prendra du temps si vous avez beaucoup de beatmaps.*
 
 ### osu!direct
 
@@ -45,14 +49,14 @@ Il existe deux manières d'ajouter des beatmaps, via le site Web ou osu!direct (
 2. Trouvez une chanson que vous aimeriez.
 3. Double-cliquez sur la chanson dans la liste ou cliquez sur `Télécharger` à droite pour la télécharger.
     - Si vous ne souhaitez pas télécharger la vidéo, cliquez sur `DL NoVideo` en jeu.
-4. Quand osu! a fini le téléchargement du beatmapset, il sera automatiquement chargé si vous êtes en mode solo, à l'écran [Song Selection](/wiki/Song_Selection).
-    - Si, pour une raison quelconque, vous ne les voyez pas, pressez `F5` en [Mode Solo](/wiki/Solo_mode) pour re-traiter vos beatmaps. *Ce processus prendra du temps si vous avez beaucoup de beatmaps.*
-  
+4. Quand osu! a fini le téléchargement du beatmapset, il sera automatiquement chargé si vous êtes en mode solo, à l'écran [Song Selection](/wiki/Interface#song-selection-screen).
+    - Si, pour une raison quelconque, vous ne les voyez pas, pressez `F5` en [Mode Solo](/wiki/Interface#song-selection-screen) pour re-traiter vos beatmaps. *Ce processus prendra du temps si vous avez beaucoup de beatmaps.*
+
 ## Ajout de skins
 
-*Voir également: [Skins](/wiki/Skins) et [Skinning](/wiki/Skinning)*
+*Voir également: [Skins](/wiki/Glossary#skin) et [Skinning](/wiki/Skinning)*
 
-1. Rendez-vous sur le [sous forum Skinning ](https://osu.ppy.sh/community/forums/15) et cherchez un skin qui vous plait.
+1. Rendez-vous sur le [sous forum Skinning](https://osu.ppy.sh/community/forums/15) et cherchez un skin qui vous plait.
 2. Une fois que vous avez trouvé un skin, téléchargez-le.
 3. Selon la façon dont le skinner a emballé son skin, vous aurez peut-être à effectuer des manipulations différentes..
     - Si le skin utilise l'extension `.osk` :

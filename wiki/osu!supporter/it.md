@@ -22,7 +22,7 @@ Nota bene: le donazioni servono per sostenere tutti i costi di osu! nel compless
   - Nello specifico, `menu-background.jpg` (per il menù principale); `matchsetup-background.png` (per il multiplayer); `search-background.png` (per osu!direct)
 - [Feature Requests](https://osu.ppy.sh/community/forums/4): Voti extra per le Feature Requests (solitamente c'è solo 1 voto al mese mentre con il supporter sono 2).
 - [Selezione delle mappe](/wiki/Interface): con il supporter puoi vedere le classifiche nazionali/degli amici/con delle mod specifiche in-game.
-- Il tuo profilo: <https://osu.ppy.sh/users/>
+- Il tuo profilo: `https://osu.ppy.sh/users/`
   - Puoi aggiungere una pagina sopra le tue statistiche sul tuo profilo.
     - La tua pagina non sarà eliminata quando l'osu!supporter scade.
   - L'abilità di cambiare il tuo nome (possibile solo una volta. Non puoi cambiare di nuovo il nickname dopo la prima volta).

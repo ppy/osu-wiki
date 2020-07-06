@@ -1,4 +1,4 @@
-# How to use the Offset Wizard
+# How to use the offset wizard
 
 To make the offset wizard easier to use, you will need to get the following beatmap: [peppy - Offset Wizard (peppy)](https://osu.ppy.sh/beatmapsets/4659).
 After downloading, load it up in osu! then follow these instructions:
@@ -19,5 +19,5 @@ After downloading, load it up in osu! then follow these instructions:
 ## Notes
 
 - Using fullscreen mode and windowed mode may require recalibration since fullscreen mode can lower input latency.
-- The effects volume should be zero when doing this because the hit sound can confuse you while doing this.
+- The effects volume should be zero when doing this because the hitsound can confuse you while doing this.
 - Using other game modes may require extensive recalibration.

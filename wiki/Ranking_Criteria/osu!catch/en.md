@@ -1,4 +1,4 @@
-# osu!catch Ranking Criteria
+# osu!catch ranking criteria
 
 The **osu!catch Ranking Criteria** are rules and guidelines that apply to the creation of osu!catch-specific difficulties. In order to get a osu!catch-specific difficulty ranked, it is mandatory the creation obeys to the listed criteria. While **all rules must be followed in any circumstance**, guidelines may be ignored under exceptional circumstances. These exceptional circumstances must be justified by an exhaustive explanation as of why the guideline has been ignored and why not ignoring it will interfere with the overall quality of the creation.
 
@@ -8,7 +8,7 @@ These terms frequently appear when getting in touch with osu!catch difficulties 
 
 ### Difficulty names
 
-*Main article: [Difficulty Naming](../Difficulty_Naming)*
+*Main article: [Difficulty Naming](/wiki/Ranking_Criteria/Difficulty_Naming)*
 
 - ![](/wiki/shared/diff/easy-c.png) Cup
 - ![](/wiki/shared/diff/normal-c.png) Salad
@@ -56,7 +56,6 @@ Overall rules and guidelines apply to every kind of osu!catch difficulty. Rhythm
 - **Use the same slider tick rate on every difficulty** as it is a property of the music rather than the mapping. However, lower difficulties may use lower tick rates to reduce accuracy requirements for newer players, providing they still follow the rhythm of the song. Using high tick rates purely to increase score/combo/difficulty is senseless.
 - **Avoid using combo colours with ~50 luminosity or lower.** Dark colours impact readability of fruits with low background dim.
 - **Avoid using combo colours with ~220 luminosity or higher if Kiai time is used.** Light colours create bright pulses during Kiai time, which can be unpleasant to the eyes.
-- **Avoid replacing the hit finish in soft/normal samplesets with frequently used custom hit sound samples.** This can sound obnoxious for anyone disabling beatmap hit sounds. Replacing hit whistles/claps is recommended because those samples are used more often.
 
 ### Skinning
 
@@ -88,9 +87,9 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Difficulty setting guidelines
 
-- Approach Rate / Overall Difficulty should be between 4-6
-- HP Drain Rate should be 4 or less
-- Circle Size should be between 2-3
+- Approach Rate / Overall Difficulty should be between 4 and 6.
+- HP Drain Rate should be between 2 and 3.
+- Circle Size should be between 2 and 3.
 
 ### ![](/wiki/shared/diff/normal-c.png) Salad
 
@@ -112,9 +111,9 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Difficulty setting guidelines
 
-- Approach Rate / Overall Difficulty should be between 6-7
-- HP Drain Rate should be between 4-5
-- Circle Size should be between 2.5-3.5
+- Approach Rate / Overall Difficulty should be between 6 and 7.
+- HP Drain Rate should be between 3 and 4.
+- Circle Size should be between 2.5 and 3.5.
 
 ### ![](/wiki/shared/diff/hard-c.png) Platter
 
@@ -141,15 +140,15 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Difficulty setting guidelines
 
-- Approach Rate / Overall Difficulty should be between 7-8.5
-- HP Drain Rate should be between 5-6
-- Circle Size should be between 3-4
+- Approach Rate / Overall Difficulty should be between 7 and 8.5.
+- HP Drain Rate should be between 4 and 5.
+- Circle Size should be between 3 and 4.
 
 ### ![](/wiki/shared/diff/insane-c.png) Rain
 
 #### Rules
 
-- **Hyperdashes may be used if the time between the ticks of the desired snapping is 62 ms or higher.** As an example, 1/6 hyperdashes would be allowed at 160 BPM and below, whereas 1/8 hyperdashes would be allowed at 120 BPM and below.
+- **Hyperdashes and dashes may be used if the time between the ticks of the desired snapping is 62 ms or higher.** As an example, 1/6 hyperdashes and dashes would be allowed at 160 BPM and below, whereas 1/8 hyperdashes and dashes would be allowed at 120 BPM and below.
 - **Basic hyperdashes must not be used more than four times between consecutive fruits.** If higher-snapped hyperdashes are used, they must not be used in conjunction with other hyperdashes or higher-snapped dashes.
 - **At least 125 ms must be left between objects and the start and end of spinners to ensure readability.** As an example, a 1/4 gap would be required at 120 BPM, whereas a 1/3 gap would be required at 160 BPM.
 
@@ -163,9 +162,9 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Difficulty setting guidelines
 
-- Approach Rate / Overall Difficulty should be between 7-9
-- HP Drain Rate should be between 6-7
-- Circle Size should be between 3-5
+- Approach Rate / Overall Difficulty should be between 7 and 9.
+- HP Drain Rate should be between 5 and 6.
+- Circle Size should be between 3 and 5.
 
 ### ![](/wiki/shared/diff/expert-c.png) Overdose
 
@@ -184,6 +183,6 @@ Difficulty-specific rules and guidelines do only apply to the difficulty level t
 
 #### Difficulty setting guidelines
 
-- Approach Rate / Overall Difficulty should be between 8-10
-- HP Drain Rate should be between 6-8
-- Circle Size should be between 3-6
+- Approach Rate / Overall Difficulty should be between 8 and 10.
+- HP Drain Rate should be between 6 and 7.
+- Circle Size should be between 3 and 6.

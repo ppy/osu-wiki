@@ -1,0 +1,61 @@
+separator: ", "
+alumni:
+  roles:
+    academy: osu!academy Founder
+    admin: Administration
+    chat: Chat Moderator
+    dev: osu!dev
+    media: osu!media creation
+    support: Support Team
+    tournaments: Tournaments
+gmt:
+  all_mods: All moderators
+  areas:
+    beatmap: Beatmap moderation
+    chat: Chat moderation
+    forum: Forum moderation
+    team: Official team presence
+    dev: osu! development
+    osu_idol: osu!idol hosting
+    player: Player support
+    support: Technical support
+    tournaments: Tournaments
+    wiki: Wiki administration
+nat:
+  areas:
+    communication: Communication
+    evaluation: Evaluation
+    moderation: Moderation
+    structural: Structural
+languages:
+  partial: Some <language>
+  ar: Arabic
+  bg: Bulgarian
+  bn: Bengali
+  ca: Catalan
+  de: German
+  el: Greek
+  es: Spanish
+  et: Estonian
+  fi: Finnish
+  fil: Filipino
+  fr: French
+  hr: Croatian
+  hu: Hungarian
+  id: Indonesian
+  it: Italian
+  ja: Japanese
+  ko: Korean
+  ms: Malay
+  nl: Dutch
+  pl: Polish
+  pt: Portuguese
+  ru: Russian
+  sr: Serbian
+  sv: Swedish
+  th: Thai
+  tr: Turkish
+  ur: Urdu
+  vi: Vietnamese
+  yue: Cantonese
+  zh: Chinese

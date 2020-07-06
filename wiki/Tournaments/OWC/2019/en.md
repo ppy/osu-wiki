@@ -1,14 +1,14 @@
 ---
 tags:
-- OWC 2019
-- OWC2019
+  - OWC 2019
+  - OWC2019
 ---
 
 # osu! World Cup 2019
 
-![OWC 2019 Logo](img/logo.jpg)
+![OWC 2019 logo](img/logo.jpg)
 
-The **osu! World Cup 2019** (***OWC 2019***) is a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It is the 10th installment of the osu! World Cup.
+The **osu! World Cup 2019** (***OWC 2019***) was a country-based osu! tournament hosted by the [osu!team](/wiki/People/The_Team). It was the 10th installment of the osu! World Cup.
 
 ## Tournament schedule
 
@@ -28,19 +28,21 @@ The **osu! World Cup 2019** (***OWC 2019***) is a country-based osu! tournament 
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | US$300 per team member, exclusive single-run merch, profile badge, "osu! Champion" user title for one year |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | US$160 per team member, exclusive single-run merch , profile badge |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | US$80 per team member, exclusive single-run merch, profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | US$300 per team member, exclusive single-run merch, profile badge, "osu! Champion" user title for one year |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | US$160 per team member, exclusive single-run merch, profile badge |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | US$80 per team member, exclusive single-run merch, profile badge |
+
+![OWC 2019 winner badge](img/badge.png) ![OWC 2019 2nd place badge](img/badge2.png) ![OWC 2019 3rd place badge](img/badge3.png)
 
 ## Organisation
 
-The osu! World Cup 2019 is run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The osu! World Cup 2019 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416) |
 | Mappool selector | ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943), ![][flag_IL] [Xilver15](https://osu.ppy.sh/users/3099689) |
-| Commentator | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189), ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689), ![][flag_US] [Will Stetson](https://osu.ppy.sh/users/4909088) |
+| Commentator | ![][flag_CA] [Azer](https://osu.ppy.sh/users/2155578), ![][flag_GB] [Bae-](https://osu.ppy.sh/users/6576972), ![][flag_US] [BeasttrollMC](https://osu.ppy.sh/users/3171691), ![][flag_GB] [Bubbleman](https://osu.ppy.sh/users/5182050), ![][flag_US] [Dohland](https://osu.ppy.sh/users/5220511), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_AU] [Kano](https://osu.ppy.sh/users/3036203), ![][flag_US] [Monko2k](https://osu.ppy.sh/users/4852013), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943), ![][flag_US] [this1neguy](https://osu.ppy.sh/users/1797189), ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689), ![][flag_US] [Will Stetson](https://osu.ppy.sh/users/4909088) |
 | Referee | ![][flag_PL] [Benzopirene](https://osu.ppy.sh/users/1887068), ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_CH] [Icerite](https://osu.ppy.sh/users/7226287), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102) ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_US] [tigereyes144](https://osu.ppy.sh/users/6499811), ![][flag_CL] [WalterToro](https://osu.ppy.sh/users/5281416), ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) |
 | Statistician | ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
@@ -48,11 +50,9 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/973724)
 - [Livestream](https://www.twitch.tv/osulive)
-- [Pick'ems page](https://pickem.hwchr.com/tournaments/19)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/19) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Challonge bracket](https://challonge.com/OWC2019)
 - [Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vREamImW3yN-q3rio2XIFX497uoIoPprEuSqykuPPP9D9WcMfMJQj0bXcBl1ZGxIcm_tPIuoZPk_GFk/pubhtml)
-
----
 
 ## Participants
 
@@ -104,30 +104,40 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 
 ---
 
-## Match schedule: Finals
+![OWC 2019 podium](img/podium.png)
 
-### Saturday, 14 December 2019
-
-| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Russian Federation | ![][flag_RU] | ![][flag_KR] | South Korea | **14:00 UTC** | 17:00 UTC+03 | 23:00 UTC+09 | ² |
-| Germany | ![][flag_DE] | ![][flag_CA] | Canada | **19:00 UTC** | 20:00 UTC+01 | 14:00 UTC-05 | ² |
-
-### Sunday, 15 December 2019
-
-| Team A |  |  | Team B | Match time | Local time A | Local time B |  |
-| --: | --: | :-- | :-- | :-: | :-: | :-: | :-: |
-| Canada | ![][flag_CA] | ![][flag_KR] | South Korea | **04:00 UTC** | 23:00 (Sat.) UTC-05 | 13:00 UTC+09 | ³ |
-| Germany | ![][flag_DE] | ![][flag_RU] | Russian Federation | **13:00 UTC** | 14:00 UTC+01 | 16:00 UTC+03 | ³ |
-| Germany | ![][flag_DE] | ![][flag_KR] | South Korea | **13:00 UTC** | 14:00 UTC+01 | 22:00 UTC+09 | ³ |
-| Canada | ![][flag_CA] | ![][flag_RU] | Russian Federation | **18:00 UTC** | 13:00 UTC-05 | 21:00 UTC+03 | ³ |
-| United States | ![][flag_US] | ![][flag_GB] | United Kingdom | **20:00 UTC** | 14:00 UTC-06 | 20:00 UTC | ¹ |
-
-¹ Winner bracket encounter  
-² Loser bracket encounter  
-³ Encounter dependent on results of ²Loser bracket encounter
+---
 
 ## Mappools
+
+### Grand Finals
+
+- NoMod
+  - [wowaka - Unhappy Refrain (BarkingMadDog) \[EX Extreme\]](https://osu.ppy.sh/beatmapsets/1075607#osu/2250670)
+  - [ARForest - Metheus (FrenZ396) \[Finale\]](https://osu.ppy.sh/beatmapsets/1078954#osu/2257502)
+  - [T.M.Generation - X-DEN (Realazy) \[Chuuden\]](https://osu.ppy.sh/beatmapsets/961061#osu/2012009)
+  - [Emiru no Aishita Tsukiyo ni Dai San Gensou Kyoku wo - ito (Lasse) \[Petal\]](https://osu.ppy.sh/beatmapsets/1077982#osu/2255709)
+  - [Cattle Decapitation - Your Disposal (Chanci) \[Eradication\]](https://osu.ppy.sh/beatmapsets/988109#osu/2207855)
+  - [SHO - Plain Asia ~ Guardian of the Village (Jenny) \[Unmodified Girlfriend\]](https://osu.ppy.sh/beatmapsets/299884#osu/2255738)
+- Hidden
+  - [James Landino - Hide And Seek (Mirash) \[Expert\]](https://osu.ppy.sh/beatmapsets/972932#osu/2036903)
+  - [Hikutsu-P - Dance of Many (IOException) \[Expert\]](https://osu.ppy.sh/beatmapsets/1078746#osu/2257140)
+  - [xi - Mirage Garden (P o M u T a) \[Exitra\]](https://osu.ppy.sh/beatmapsets/319940#osu/712015)
+- HardRock
+  - [ZAQ - Seven Doors (SkyFlame) \[Trinity Soul\]](https://osu.ppy.sh/beatmapsets/1078911#osu/2257421)
+  - [Negentropy (a.k.a. Team Grimoire) - ouroVoros (Suzuki_1112) \[Regou's Extra\]](https://osu.ppy.sh/beatmapsets/707164#osu/1512325)
+  - [otetsu - Yokuatsu Sakuran Girl (ZZHBOY) \[HW's Expert\]](https://osu.ppy.sh/beatmapsets/195582#osu/499839)
+- DoubleTime
+  - [Aki - star river (ShirohaMyMommy) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/908990#osu/1896891)
+  - [-45 - Midorigo Queen Bee (Luscent) \[Collapse\]](https://osu.ppy.sh/beatmapsets/1055780#osu/2206544)
+  - [TOKINE - Soko ni Aru Mono (Patchouli) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/70137#osu/434536)
+  - [Andromedik - Invasion (Mirash) \[NeilBot's Insane\]](https://osu.ppy.sh/beatmapsets/789544#osu/1656914)
+- FreeMod
+  - [SHK - Imagination (ktgster) \[SHD\]](https://osu.ppy.sh/beatmapsets/1078340#osu/2256378)
+  - [paraoka - boot (Natteke desu) \[difficulty\]](https://osu.ppy.sh/beatmapsets/913680#osu/1908543)
+  - [S.S.H. - Holy Orders (Deif) \[LKs\]](https://osu.ppy.sh/beatmapsets/31750#osu/104842)
+- Tiebreaker
+  - **[Falcom Sound Team jdk - GENS D'ARMES (jonathanlfj) \[CONQUEROR\]](https://osu.ppy.sh/beatmapsets/1078344#osu/2256387)**
 
 ### Finals
 
@@ -281,30 +291,64 @@ The osu! World Cup 2019 is run by various community members by distributing the 
   - [senya - Shounen yo, Tokkou no Sakigake to Nare (-Mo-) \[Narcissu's Insane\]](https://osu.ppy.sh/beatmapsets/562169#osu/1188553)
   - [Yellow Zebra - Melody! (wcx19911123) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/45450#osu/142099)
 
----
-
 ## Match results
+
+### Grand Finals
+
+Saturday, 21 December 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| United Kingdom ![][flag_GB] | 6 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/57136609) |
+
+Sunday, 22 December 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **United States** ![][flag_US] | **7** | 0 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/57155016) |
+
+### Finals
+
+Saturday, 14 December 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Russian Federation ![][flag_RU] | 5 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/56966806) |
+| **Germany** ![][flag_DE] | **7** | 0 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/56976278) |
+
+Sunday, 15 December 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Germany ![][flag_DE] | 4 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/56997003) |
+| **United States** ![][flag_US] | **7** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/57007868) |
 
 ### Semifinals
 
-| Saturday, 2019-12-07 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+Saturday, 7 December 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
 | Australia ![][flag_AU] | 3 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/56794699) |
 | Taiwan ![][flag_TW] | 4 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/56796751) |
 | **United States** ![][flag_US] | **6** | 0 | ![][flag_RU] Russian Federation | [#1](https://osu.ppy.sh/community/matches/56805726) |
 | Romania ![][flag_RO] | 4 | **6** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/56805696) |
 | **Canada** ![][flag_CA] | **6** | 3 | ![][flag_PL] Poland | [#1](https://osu.ppy.sh/community/matches/56812733) |
 
-| Sunday, 2019-12-08 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+Sunday, 8 December 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
 | **Canada** ![][flag_CA] | **6** | 2 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/56819778) |
 | Brazil ![][flag_BR] | 1 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/56829847) |
 | **United Kingdom** ![][flag_GB] | **6** | 4 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/56832071) |
 
 ### Quarterfinals
 
-| Saturday, 2019-11-30 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+Saturday, 30 November 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
 | **Poland** ![][flag_PL] | **6** | 1 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/56626592) |
 | **South Korea** ![][flag_KR] | **6** | 2 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/56627888) |
 | **Hong Kong** ![][flag_HK] | **6** | 5 | ![][flag_AT] Austria | [#1](https://osu.ppy.sh/community/matches/56629467) |
@@ -314,8 +358,10 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 | **France** ![][flag_FR] | **6** | 1 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/56642089) |
 | **Brazil** ![][flag_BR] | **6** | 1 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/56644815) |
 
-| Sunday, 2019-12-01 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+Sunday, 1 December 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
 | **United States** ![][flag_US] | **6** | 1 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/56652543) |
 | **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/56660231) |
 | **Brazil** ![][flag_BR] | **6** | 4 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/56662222) |
@@ -327,8 +373,10 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 
 ### Round of 16
 
-| Saturday, 2019-11-23 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+Saturday, 23 November 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
 | **Germany** ![][flag_DE] | **5** | 1 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/56466754) |
 | Denmark ![][flag_DK] | 2 | **5** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/56467513) |
 | **Taiwan** ![][flag_TW] | **5** | 1 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/56471138) |
@@ -337,8 +385,10 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 | **United States** ![][flag_US] | **5** | 1 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/56476625) |
 | **Chile** ![][flag_CL] | **5** | 3 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/56478465) |
 
-| Sunday, 2019-11-24 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+Sunday, 24 November 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
 | **Canada** ![][flag_CA] | **5** | 0 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/56487811) |
 | **Finland** ![][flag_FI] | 3 | **5** | ![][flag_NZ] **New Zealand** | [#1](https://osu.ppy.sh/community/matches/56492906) |
 | **Australia** ![][flag_AU] | **5** | 2 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/56493770) |
@@ -351,8 +401,10 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 
 ### Round of 32
 
-| Saturday, 2019-11-16 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+Saturday, 16 November 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
 | **Australia** ![][flag_AU] | **5** | 0 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/56299664) |
 | **Hong Kong** ![][flag_HK] | **5** | 2 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/56300777) |
 | **Indonesia** ![][flag_ID] | **5** | 3 | ![][flag_IT] Italy | [#1](https://osu.ppy.sh/community/matches/56303550) |
@@ -362,8 +414,10 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 | **United States** ![][flag_US] | **5** | 1 | ![][flag_TR] Turkey | [#1](https://osu.ppy.sh/community/matches/56310902) |
 | **Brazil** ![][flag_BR] | **5** | 1 | ![][flag_BE] Belgium | [#1](https://osu.ppy.sh/community/matches/56312743) |
 
-| Sunday, 2019-11-17 | | | | |
-| --: | :-: | :-: | :-- | :-: |
+Sunday, 17 November 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
 | **China** ![][flag_CN] | **5** | 2 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/56323868) |
 | **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/56324669) |
 | **Taiwan** ![][flag_TW] | **5** | 1 | ![][flag_DK] Denmark | [#1](https://osu.ppy.sh/community/matches/56331948) |
@@ -372,8 +426,6 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 | **United Kingdom** ![][flag_GB] | **5** | 0 | ![][flag_LV] Latvia | [#1](https://osu.ppy.sh/community/matches/56337461) |
 | **Germany** ![][flag_DE] | **5** | 0 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/56339048) |
 | **Canada** ![][flag_CA] | **5** | 0 | ![][flag_CZ] Czech Republic | [#1](https://osu.ppy.sh/community/matches/56340649) |
-
----
 
 ## Ruleset
 
@@ -519,7 +571,6 @@ The osu! World Cup 2019 is run by various community members by distributing the 
 [flag_SE]: /wiki/shared/flag/SE.gif
 [flag_SG]: /wiki/shared/flag/SG.gif
 [flag_SK]: /wiki/shared/flag/SK.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_US]: /wiki/shared/flag/US.gif

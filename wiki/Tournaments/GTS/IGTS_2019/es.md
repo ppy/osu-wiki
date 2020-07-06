@@ -1,8 +1,9 @@
 ---
 tags:
-- Intermediate Global Taiko Showdown 2019
-- IGTS 2019
-- IGTS2019
+  - IGTS 2019
+  - IGTS
+  - GTS
+outdated: true
 ---
 
 # Intermediate Global Taiko Showdown 2019
@@ -29,9 +30,9 @@ tags:
 
 | Puestos | Premio(s) |
 | :-: | :-- |
-| ![Corona de Oro](/wiki/shared/GCrown.png "1er lugar") | Medalla única de perfil, banner de equipo exclusivo |
-| ![Corona de Plata](/wiki/shared/SCrown.png "2ndo lugar") | banner de equipo exclusivo |
-| ![Corona de Bronce](/wiki/shared/BCrown.png "3er lugar") | banner de equipo exclusivo |
+| ![Corona de Oro](/wiki/shared/crown-gold.png "1er lugar") | Medalla única de perfil, banner de equipo exclusivo |
+| ![Corona de Plata](/wiki/shared/crown-silver.png "2ndo lugar") | banner de equipo exclusivo |
+| ![Corona de Bronce](/wiki/shared/crown-bronze.png "3er lugar") | banner de equipo exclusivo |
 
 ![Medalla para el ganador de IGTS 2019](img/badge.png)
 
@@ -58,7 +59,7 @@ Intermediate Global Taiko Showdown 2019 fue realizado por varios miembros de la 
 - [IGTS Servidor de Discord](https://discord.gg/a6PzzFz)
 - [Livestream](https://www.twitch.tv/igtsosu)
 - [Challonge brackets](https://challonge.com/dqq46siu)
-- [Página de Pick'em](https://pickem.hwchr.com/tournaments/8)
+- [Página de Pick'em](https://pickem.hwc.hr/tournaments/8)
 - **[Hoja de Estadísticas](https://docs.google.com/spreadsheets/d/1B_upGgX4mSHpWkvWLrfFRAakPKP77Wm_fDsoU1y3kyY/edit?usp=sharing)**
 
 ---
@@ -121,9 +122,9 @@ Este competencia ha llegado a su fin y los resultados se demuestran en ese podio
 
 | Lugar | Equipo |
 | :-: | :-- |
-| ![Corona de Oro](/wiki/shared/GCrown.png "1er lugar") | ![][flag_HK] Hong Kong |
-| ![Corona de Plata](/wiki/shared/SCrown.png "2do lugar") | ![][flag_US] Estados Unidos A |
-| ![Corona de Bronce](/wiki/shared/BCrown.png "3er lugar") | ![][flag_CL] Chile |
+| ![Corona de Oro](/wiki/shared/crown-gold.png "1er lugar") | ![][flag_HK] Hong Kong |
+| ![Corona de Plata](/wiki/shared/crown-silver.png "2do lugar") | ![][flag_US] Estados Unidos A |
+| ![Corona de Bronce](/wiki/shared/crown-bronze.png "3er lugar") | ![][flag_CL] Chile |
 
 ---
 

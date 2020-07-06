@@ -1,5 +1,6 @@
 ---
 layout: main_page
+no_native_review: true
 ---
 
 <div class="wiki-main-page__blurb">
@@ -13,7 +14,7 @@ layout: main_page
 
 # Начало работы
 
-[Добро пожаловать](/wiki/Welcome) • [Регистрация](/wiki/Registration) • [Установка](/wiki/Installation) • [Интерфейс](/wiki/Interface) • [Опции](/wiki/Options) • [Горячие клавиши](/wiki/Shortcut_Key_Reference) • [Карта сайта](/wiki/Sitemap) • [Руководства](/wiki/Guides) • [Центр помощи](/wiki/Help_Centre)
+[Добро пожаловать](/wiki/Welcome) • [Регистрация](/wiki/Registration) • [Установка](/wiki/Installation) • [Интерфейс](/wiki/Interface) • [Опции](/wiki/Options) • [Горячие клавиши](/wiki/Shortcut_key_reference) • [Карта сайта](/wiki/Sitemap) • [Руководства](/wiki/Guides) • [Центр помощи](/wiki/Help_Centre)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -37,7 +38,7 @@ layout: main_page
 
 # Онлайн-редактирование и рейтинг
 
-[Загрузка материалов](/wiki/Submission) • [Утверждение карт](/wiki/Submission/Beatmap_Ranking_Procedure) • [Модерация](/wiki/Modding) • [Критерии для получения рейтинга](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
+[Загрузка материалов](/wiki/Submission) • [Утверждение карт](/wiki/Beatmap_ranking_procedure) • [Модерация](/wiki/Modding) • [Критерии для получения рейтинга](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">

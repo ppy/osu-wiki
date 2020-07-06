@@ -19,16 +19,16 @@ The prizes are handed out in the form of **points**; every 48 points can be rede
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 96 points, profile badge |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 48 points |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 24 points |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 96 points, profile badge |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 48 points |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 24 points |
 | *4th place* | 12 points |
 
 ## Organisation
 
 | Position | Member(s) |
 | :-- | :-- |
-| Host  | ![][flag_SI] [Redavor](https://osu.ppy.sh/users/3328606 "Redavor") |
+| Host | ![][flag_SI] [Redavor](https://osu.ppy.sh/users/3328606 "Redavor") |
 | Admin | ![][flag_SI] [DomenBzo](https://osu.ppy.sh/users/3450825 "DomenBzo"), ![][flag_SI] [kristi71111](https://osu.ppy.sh/users/3826105 "kristi71111"), ![][flag_TR] [oralekin](https://osu.ppy.sh/users/7631823 "oralekin") |
 | Moderator | ![][flag_NL] [Godot](https://osu.ppy.sh/users/6466477 "Godot"), ![][flag_DE] [Niegth](https://osu.ppy.sh/users/1991114 "Niegth"), ![][flag_US] [You Watanabe](https://osu.ppy.sh/users/3188911 "You Watanabe") |
 | Map Selector | ![][flag_TH] [GuChangeDeWorld](https://osu.ppy.sh/users/7125579 "GuChangeDeWorld"), ![][flag_US] [Joezapy](https://osu.ppy.sh/users/6725659 "Joezapy"), ![][flag_CA] [Meow-Mix](https://osu.ppy.sh/users/3021634 "Meow Mix") |
@@ -43,9 +43,9 @@ Anyone was allowed to predict the outcome of the tournament until the starting d
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | 24 points |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 12 Points |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 6 Points |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 24 points |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 12 Points |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 6 Points |
 | *4th place* | 3 Points |
 
 ![][flag_GB] [Olii](https://osu.ppy.sh/users/7683305 "Olii") won the predictions, with ![][flag_SI] [Redavor](https://osu.ppy.sh/users/3328606 "Redavor") in second place, and ![][flag_PL] [Malson](https://osu.ppy.sh/users/6047395 "Malson") in third place.
@@ -95,9 +95,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Participant |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_US] [Prosdokies](https://osu.ppy.sh/users/3852436) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_RU] [Essi](https://osu.ppy.sh//users/8660244) |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_RU] [KoloMl](https://osu.ppy.sh/users/6544403)  |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_US] [Prosdokies](https://osu.ppy.sh/users/3852436) |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_RU] [Essi](https://osu.ppy.sh//users/8660244) |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_RU] [KoloMl](https://osu.ppy.sh/users/6544403) |
 
 ------------------------
 

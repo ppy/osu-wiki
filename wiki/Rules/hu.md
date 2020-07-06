@@ -53,10 +53,10 @@ Ha a közösség rossz oldalán találod magad, rossz dolgok fognak történni.
 
 Ezek a rossz dolgok lehetnek (*de nincsenek korlátozva*):
 
-* A játékon belüli beszélgetési lehetőség megvonása egy adott időre (ismertebb nevén némítás)
-* Bármilyen sértő tartalom eltávolítása a felhasználói oldaladról, profilodról vagy a feltöltött beatmap-jeidről
-* A felhasználói oldalad, illetve a profilod részleteinek jövőbeli szerkesztési lehetőségének a megvonása
-* A hivatalos bajnokságok bejutására - illetve részvételére való jogosultságod megvonása
+- A játékon belüli beszélgetési lehetőség megvonása egy adott időre (ismertebb nevén némítás)
+- Bármilyen sértő tartalom eltávolítása a felhasználói oldaladról, profilodról vagy a feltöltött beatmap-jeidről
+- A felhasználói oldalad, illetve a profilod részleteinek jövőbeli szerkesztési lehetőségének a megvonása
+- A hivatalos bajnokságok bejutására - illetve részvételére való jogosultságod megvonása
 
 A némítások és egyéb áthágások időtartama **automatikusan**, majdnem exponenciálisan növekszik minden újabb megszegéssel. A moderátorok nem befolyásolják az adott sértésért járó némítás időtartamát - többszörös szabálysértők igen hosszú elvonásban részesülnek.
 

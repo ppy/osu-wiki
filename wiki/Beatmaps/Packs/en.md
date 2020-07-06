@@ -1,10 +1,10 @@
 ---
 needs_cleanup: true
+outdated: true
 ---
-
-# Packs
-
 <!-- TODO: new pack types, new mirrors -->
+
+# Beatmap packs
 
 A beatmaps pack is a `.zip` file containing beatmaps. The name of the pack is based on what they contain (e.g. `Approved Beatmap Pack #7` would only contain [approved](/wiki/approved) beatmaps).
 
@@ -18,7 +18,7 @@ It is worth noting that the most packs are:
 Beatmaps packs are split into 4 categories:
 
 | Category | Beatmap types |
-| -------- | ------------- |
+| :-- | :-- |
 | Standard | Ranked or Approved songs |
 | Chart | Fortnightly Chart challenge songs |
 | Theme | General theme of the songs |

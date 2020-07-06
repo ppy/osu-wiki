@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Modding (Español)
 
 **Modding** es cuando alguien revisa el Beatmap de otra persona y hace sugerencias. Las sugerencias pueden ser para solucionar errores o simplemente para hacer el Beatmap mejor de lo que es. La persona haciendo el modding es llamado “[modder](/wiki/Glossary)”, y la persona que hace el Beatmap es llamado “[mapper](/wiki/Glossary)”. Si tu mapeas, es altamente recomendado que des mod por tres grandes razones:

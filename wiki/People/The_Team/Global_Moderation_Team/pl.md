@@ -21,21 +21,21 @@ Zespół GMT monitoruje i utrzymuje porządek w interakcjach wśród społeczno�
 | Pseudonim | Języki | Główny obszar działania |
 | :-- | :-- | :-- |
 | ![][flag_DE] [- Felix](https://osu.ppy.sh/users/8503985) | Niemiecki | Moderacja czatu |
-| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) | | Moderacja czatu |
+| ![][flag_US] [Chaos](https://osu.ppy.sh/users/2628870) |  | Moderacja czatu |
 | ![][flag_DE] [Clobohne](https://osu.ppy.sh/users/499343) | Niemiecki | Moderacja czatu |
 | ![][flag_AR] [Darksonic](https://osu.ppy.sh/users/570042) | Hiszpański | Moderacja czatu oraz Forum |
-| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) | | Moderacja czatu, Pomoc techniczna |
+| ![][flag_US] [Death](https://osu.ppy.sh/users/3242450) |  | Moderacja czatu, Pomoc techniczna |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | Hiszpański | Organizacja turniejów, Moderacja Beatmap |
-| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) | | Pomoc techniczna |
+| ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  | Pomoc techniczna |
 | ![][flag_BR] [Edward](https://osu.ppy.sh/users/5618109) | Portugalski, Japoński | Moderacja czatu |
-| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) | | Pomoc techniczna |
+| ![][flag_AU] [Ephemeral](https://osu.ppy.sh/users/102335) |  | Pomoc techniczna |
 | ![][flag_BG] [Flanster](https://osu.ppy.sh/users/447818) | Bułgarski | Organizacja osu!idol, Moderacja Forum |
 | ![][flag_CN] [Fycho](https://osu.ppy.sh/users/1876867) | Chiński | Moderacja czatu oraz Forum |
 | ![][flag_CA] [Gabe](https://osu.ppy.sh/users/654108) | Francuski | Moderacja Forum, czatu oraz Beatmap |
 | ![][flag_PL] [Galkan](https://osu.ppy.sh/users/169570) | Polski | Moderacja czatu |
 | ![][flag_TR] [heyronii](https://osu.ppy.sh/users/5642779) | Turecki | Moderacja czatu |
 | ![][flag_ID] [Hinsvar](https://osu.ppy.sh/users/1249323) | Indonezyjski | Moderacja czatu oraz Beatmap |
-| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) | | Moderacja czatu oraz Beatmap |
+| ![][flag_GB] [JBHyperion](https://osu.ppy.sh/users/4879508) |  | Moderacja czatu oraz Beatmap |
 | ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656) | Hiszpański | Organizacja turniejów |
 | ![][flag_RU] [Kobold84](https://osu.ppy.sh/users/3227533) | Rosyjski | Moderacja czatu |
 | ![][flag_FR] [Kurai](https://osu.ppy.sh/users/77089) | Francuski, Rosyjski | Moderacja czatu |
@@ -47,10 +47,10 @@ Zespół GMT monitoruje i utrzymuje porządek w interakcjach wśród społeczno�
 | ![][flag_NL] [n0ah](https://osu.ppy.sh/users/3086393) | Holenderski | Moderacja Forum oraz czatu |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | Filipiński | Moderacja czatu oraz forum, Pomoc techniczna |
 | ![][flag_FR] [Neil Watts](https://osu.ppy.sh/users/3048059) | Francuski | Moderacja czatu |
-| ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) | | osu! development, Mappers' Guild organisation |
-| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Niemiecki | Ranking Criteria, Moderacja Forum oraz czatu |
+| ![][flag_US] [Nyquill](https://osu.ppy.sh/users/682935) |  | osu! development, Mappers' Guild organisation |
+| ![][flag_DE] [Okoratu](https://osu.ppy.sh/users/1623405) | Niemiecki | Moderacja Forum oraz czatu |
 | ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) | Niemiecki | Organizacja turniejów |
-| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) | | Moderacja czatu, Pomoc techniczna |
+| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) |  | Moderacja czatu, Pomoc techniczna |
 | ![][flag_PT] [Pereira006](https://osu.ppy.sh/users/537344) | Portugalski | Moderacja czatu |
 | ![][flag_ES] [Raiden](https://osu.ppy.sh/users/2239480) | Hiszpański, Kataloński | Moderacja czatu |
 | ![][flag_MX] [Repflez](https://osu.ppy.sh/users/201392) | Hiszpański | Moderacja czatu, zarządzanie osu!wiki |

@@ -1,3 +1,8 @@
+---
+outdated: true
+outdated_since: f90e775380f1c7041a62f3d7f5e3e29ba4326dee
+---
+
 # osu!api
 
 osu!api dapat digunakan oleh siapapun selama mereka memiliki akun osu!, berbeda dengan perizinan API pada sebelumnnya yang hanya dapat digunakan sesuai dengan permintaan kerena bersifat tertutup.

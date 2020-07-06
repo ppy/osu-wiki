@@ -4,7 +4,7 @@ outdated: true
 
 # Beatmaps
 
-Beatmaps são os "níveis" dos jogos no [osu!](/wiki/osu!_glossary), assim como os estágios nos [DS games](/wiki/Glossary/#ds-games). Basicamente, um beatmap tem uma música e vários [hit objects](/wiki/hit_objects) posicionados de acordo com o ritmo do som. Eles também podem ter uma imagem de fundo, vídeo ou [storyboard](/wiki/storyboard).
+Beatmaps são os "níveis" dos jogos no [osu!](/wiki/osu!_glossary), assim como os estágios nos [DS games](/wiki/Glossary#ds-games). Basicamente, um beatmap tem uma música e vários [hit objects](/wiki/hit_objects) posicionados de acordo com o ritmo do som. Eles também podem ter uma imagem de fundo, vídeo ou [storyboard](/wiki/storyboard).
 
 Beatmaps podem ser enviados pelo [BSS](/wiki/BSS) (Beatmap Submission System, ou Sistema de Submissão de Beatmaps), onde serão então avaliados através de um processo chamado [modding](/wiki/modding). Isso é feito para que se mantenha um alto padrão de qualidade na jogabilidade.
 
@@ -44,7 +44,7 @@ Durante a duração dessa semana, porém, é permitido que os [QATs](/wiki/QAT) 
 
 Os beatmaps amados aparecem com o ícone do coração (![Heart icon](/wiki/shared/status/loved.png)) na tela de seleção de músicas.
 
-Esses beatmaps podem não ter atendido aos [critérios de ranqueamento](/wiki/ranking_criteria), mas ainda assim são _amados_ pela comunidade, sendo assim regularmente rotacionados com base nos votos da comunidade. Antes que eles comecem, uma caixa de diálogo será mostrada alertando sobre o status do beatmap com as seguintes informações:
+Esses beatmaps podem não ter atendido aos [critérios de ranqueamento](/wiki/ranking_criteria), mas ainda assim são *amados* pela comunidade, sendo assim regularmente rotacionados com base nos votos da comunidade. Antes que eles comecem, uma caixa de diálogo será mostrada alertando sobre o status do beatmap com as seguintes informações:
 
 - Nenhum [pp](/wiki/pp) será ganho.
 - Todos as pontuações serão excluídas quando o criador atualizar o beatmap.
@@ -55,7 +55,7 @@ Para tentar tornar um beatmap **Amado**, confira a postagem no fórum: [Get your
 
 ### Pendente
 
-*Veja também: [Procedimento de Ranqueamento de Beatmaps](/wiki/Beatmap_Ranking_Procedure)*
+*Veja também: [Procedimento de Ranqueamento de Beatmaps](/wiki/Beatmap_ranking_procedure)*
 
 Beatmaps pendentes aparecem com o ícone da interrogação (![Question mark icon](/wiki/shared/status/pending.png)) na tela de seleção de músicas.
 

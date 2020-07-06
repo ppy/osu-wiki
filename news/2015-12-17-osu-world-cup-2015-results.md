@@ -15,9 +15,9 @@ If you didn't catch it live, we highly recommended you check out the recording o
 
 <iframe width="760" height="430" src="https://www.youtube.com/embed/JlLTbsG7NQw" frameborder="0" allowfullscreen></iframe>
 
-+ Team United States wins $320 for each player ($2,600 in total), a profile badge and the user title "osu! champion!" for 1 year.
-+ Team China is awarded with $240 for each player ($1,900 in total) and a profile badge!
-+ Team Poland receives $80 for each player ($640 in total) and a profile badge.
+- Team United States wins $320 for each player ($2,600 in total), a profile badge and the user title "osu! champion!" for 1 year.
+- Team China is awarded with $240 for each player ($1,900 in total) and a profile badge!
+- Team Poland receives $80 for each player ($640 in total) and a profile badge.
 
 All participants from the top three teams will also receive and [a set of limited edition badges](/wiki/shared/news/2015-12-14-osuweekly-39/PC130098.jpg) and an osu! world cup mug (still in production)!
 

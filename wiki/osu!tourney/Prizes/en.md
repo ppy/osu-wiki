@@ -1,10 +1,6 @@
----
-needs_cleanup: true
----
-
 <!-- TODO: this article is in the wrong place -->
 
-# Prizes
+# Tournament prizes
 
 ## Profile Badges
 
@@ -50,7 +46,7 @@ Profile badges are expected to adhere to a few minimum standards before they are
 Please read these carefully - if your proposed badge violates any of these, it may be refused!
 
 - The badge image file MUST be either PNG or JPG/JPEG in format.
-    + If the badge design contains any transparency, it MUST be in PNG format instead.
+    - If the badge design contains any transparency, it MUST be in PNG format instead.
 - The dimensions of the badge image file MUST NOT exceed 86x40, or 86x34 at the absolute minimum. (*86x40 is the preferred format for all badges and you will be questioned for using 86x34, and outright refused for anything smaller.*)
 - The badge image file MUST be below 50kb in size. (*We suggest using [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) if you're having trouble with this.*)
 - The badge MUST clearly display the logo or name of your tournament. (*You may substitute this for a visual motif or a theme so long as it is obvious enough.*)

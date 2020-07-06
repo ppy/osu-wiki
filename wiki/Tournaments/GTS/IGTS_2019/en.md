@@ -1,22 +1,22 @@
 ---
 tags:
-- Intermediate Global Taiko Showdown 2019
-- IGTS 2019
-- IGTS2019
+  - IGTS 2019
+  - IGTS
+  - GTS
 ---
 
 # Intermediate Global Taiko Showdown 2019
 
-![IGTS 2019 Logo](img/logo.png)
+![IGTS 2019 logo](img/logo.jpg)
 
-The **Intermediate Global Taiko Showdown 2019** (***IGTS 2019***) was a worldwide country-based double-elimination two-on-two osu!taiko tournament hosted by ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172) and ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the second installment of the Intermediate Global Taiko Showdown.
+The **Intermediate Global Taiko Showdown 2019** (***IGTS 2019***) was a worldwide country-based double-elimination 2v2 osu!taiko tournament hosted by ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172) and ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263). It was the second installment of the Intermediate Global Taiko Showdown and part of the Global Taiko Showdown series.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-05-11/2019-05-25 |
-| Live Drawings | 2019-06-02 (14:00 UTC) |
+| Registration phase | 2019-05-11/2019-05-25 |
+| Live drawings | 2019-06-02 (14:00 UTC) |
 | Group Stage | 2019-06-08/2019-06-09 |
 | Round of 16 | 2019-06-15/2019-06-22 |
 | Quarterfinals | 2019-06-22/2019-06-23 |
@@ -29,39 +29,39 @@ The **Intermediate Global Taiko Showdown 2019** (***IGTS 2019***) was a worldwid
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Unique profile badge, exclusive team banner |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | exclusive team banner |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | exclusive team banner |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, exclusive team banner |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | exclusive team banner |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | exclusive team banner |
 
-![IGTS 2019 Winner Badge](img/badge.png)
+![](img/badge.png "IGTS 2019 winner badge")
 
 ## Organisation
 
-The Intermediate Global Taiko Showdown 2019 was run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The Intermediate Global Taiko Showdown 2019 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263) |
-| Map Selector | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015), ![][flag_ID] [Poii](https://osu.ppy.sh/users/7924938) |
+| Map selector | ![][flag_MY] [Bedwyr Aorta](https://osu.ppy.sh/users/10875855), ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015), ![][flag_ID] [Poii](https://osu.ppy.sh/users/7924938) |
 | Referee | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_AR] [BossPlays](https://osu.ppy.sh/users/7341471), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015), ![][flag_US] [cheese salad](https://osu.ppy.sh/users/6349821), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_DE] [HiddenDenki](https://osu.ppy.sh/users/6868059), ![][flag_NL] [Krekker](https://osu.ppy.sh/users/8265940), ![][flag_BR] [Lolligerjoj](https://osu.ppy.sh/users/9053338), ![][flag_FR] [Mirthille](https://osu.ppy.sh/users/7548517), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_SG] [Rycy](https://osu.ppy.sh/users/7394522), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715), ![][flag_NL] [SpectreSan](https://osu.ppy.sh/users/11310442) |
 | Streamer | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_NL] [Krekker](https://osu.ppy.sh/users/8265940), ![][flag_US] [Obvious](https://osu.ppy.sh/users/8770622) |
 | Commentator | ![][flag_NL] [-omicron](https://osu.ppy.sh/users/11043157), ![][flag_ID] [AnimesLover123](https://osu.ppy.sh/users/7280717), ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_AU] [Beat43210](https://osu.ppy.sh/users/5664171), ![][flag_US] [Binsu](https://osu.ppy.sh/users/6236911), ![][flag_US] [CaptainEChan](https://osu.ppy.sh/users/9536977), ![][flag_US] [Edgar\_Figaro](https://osu.ppy.sh/users/6508754), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_US] [MyAngelManasa](https://osu.ppy.sh/users/6666316), ![][flag_DE] [QEpicAce](https://osu.ppy.sh/users/9489153), ![][flag_US] [Rukairi](https://osu.ppy.sh/users/6642597), ![][flag_SG] [Rycy](https://osu.ppy.sh/users/7394522), ![][flag_SG] [uchuuj1n](https://osu.ppy.sh/users/9140302) |
 | Designer | ![][flag_DE] [Celektus](https://osu.ppy.sh/users/4294993), ![][flag_NL] [Krekker](https://osu.ppy.sh/users/8265940), ![][flag_US] [MyAngelManasa](https://osu.ppy.sh/users/6666316) |
 | Statistician | ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_CA] [Leadenginger](https://osu.ppy.sh/users/3799991), ![][flag_GB] [Lno](https://osu.ppy.sh/users/1900787), ![][flag_MY] [Minisora](https://osu.ppy.sh/users/9627666) |
 | Translator | ![][flag_BR] [AnonX32](https://osu.ppy.sh/users/2730270), ![][flag_KR] [BamgoeSN](https://osu.ppy.sh/users/1152851), ![][flag_JP] [Briesmas](https://osu.ppy.sh/users/2865172), ![][flag_DE] [Capu](https://osu.ppy.sh/users/2474015), ![][flag_EC] [Gamelan4](https://osu.ppy.sh/users/9856910), ![][flag_JP] [Noko\_BSF](https://osu.ppy.sh/users/3811831), ![][flag_SG] [Rycy](https://osu.ppy.sh/users/7394522), ![][flag_RU] [Starger](https://osu.ppy.sh/users/3398715), ![][flag_HK] [tkdLolly](https://osu.ppy.sh/users/9035344), ![][flag_JP] [Toorun12](https://osu.ppy.sh/users/10349712) |
-| Wiki Editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
-| Pick'em Developer | ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761) |
+| Pick'em developer | ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761) |
+| Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/906298)
 - [IGTS Discord server](https://discord.gg/a6PzzFz)
+- [GTS Discord server](https://discord.gg/3mGC3HB)
+- [GTS website](https://gtsosu.com/)
 - [Livestream](https://www.twitch.tv/igtsosu)
 - [Challonge brackets](https://challonge.com/dqq46siu)
-- [Pick'em predictions website](https://pickem.hwchr.com/tournaments/8)
+- [Pick'em predictions website](https://pickem.hwc.hr/tournaments/8) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - **[Statistics sheet](https://docs.google.com/spreadsheets/d/1B_upGgX4mSHpWkvWLrfFRAakPKP77Wm_fDsoU1y3kyY/edit?usp=sharing)**
-
----
 
 ## Participants
 
@@ -102,7 +102,7 @@ The Intermediate Global Taiko Showdown 2019 was run by various community members
 
 ## Groups
 
-| Group | Top Seed | High Seed | Low Seed | Unseeded |
+| Group | Top seed | High seed | Low seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
 | **A** | ![][flag_TW] Taiwan | ![][flag_ID] Indonesia A | ![][flag_DE] Germany | ![][flag_FI] Finland |
 | **B** | ![][flag_PL] Poland A | ![][flag_PH] Philippines | ![][flag_CH] Switzerland | ![][flag_GR] Greece |
@@ -113,19 +113,15 @@ The Intermediate Global Taiko Showdown 2019 was run by various community members
 | **G** | ![][flag_BR] Brazil | ![][flag_CL] Chile | ![][flag_ID] Indonesia B | ![][flag_PE] Peru |
 | **H** | ![][flag_HK] Hong Kong | ![][flag_PL] Poland B | ![][flag_CO] Colombia | ![][flag_IE] Ireland |
 
----
-
 ## Podium
 
 This competition has come to an end and resulted in the following podium:
 
-| Placing | Team |
+| Placing | Country |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | ![][flag_HK] Hong Kong |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | ![][flag_US] United States A |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | ![][flag_CL] Chile |
-
----
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_HK] Hong Kong |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_US] United States A |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CL] Chile |
 
 ## Mappools
 
@@ -185,7 +181,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Grand Finals
 
-**[Download the map pack here! (72 MB)](https://puu.sh/DPMoR/9704e02686.rar)**
+**[Download the map pack here! (72 MB)](https://mega.nz/file/TfpwiI6Q#FK3a6lFXIf8atqqvsD2H800GZ-c14GvdWhzjDnX6qfs)**
 
 - NoMod
   - [xi - Blue Zenith (Capu) \[Oni\]](https://osu.ppy.sh/beatmapsets/971982#taiko/2035965)
@@ -212,7 +208,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the map pack here! (91 MB)](https://puu.sh/DMtYB/f84ce587b2.rar)**
+**[Download the map pack here! (91 MB)](https://mega.nz/file/TGpm3ChC#SQjj2LqmZH9ikHdpB92av3pMq8t6JsrTlZr-9faz-y4)**
 
 - NoMod
   - [Reol - Gigantic O.T.N (snowball112) \[Oni\]](https://osu.ppy.sh/beatmapsets/434182#taiko/937232)
@@ -341,37 +337,45 @@ This competition has come to an end and resulted in the following podium:
 - Tiebreaker
   - **[USAO - Chrono Diver -PENDULUMs- (USAO remix) (QEpicAce) \[-Jordan-'s Muzukashii (IGTS ver.)\]](https://osu.ppy.sh/beatmapsets/980250#taiko/2051403)**
 
----
-
-## Match Results
+## Match results
 
 ### Grand Finals
 
-| Saturday, 2019-07-13 |  |  |  |  |
+Saturday, 13 July 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | United States A ![][flag_US] | 5 | **7** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/53299127) |
 | **Hong Kong** ![][flag_HK] | **7** | 4 | ![][flag_US] United States A | [#1](https://osu.ppy.sh/community/matches/53300693) |
 
 ### Finals
 
-| Saturday, 2019-07-06 |  |  |  |  |
+Saturday, 6 July 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Hong Kong** ![][flag_HK] | **7** | 2 | ![][flag_FR] France A | [#1](https://osu.ppy.sh/community/matches/53143747) |
 | **United States A** ![][flag_US] | **7** | 3 | ![][flag_CL] Chile | [#1](https://osu.ppy.sh/community/matches/53159685) |
 
-| Sunday, 2019-07-07 |  |  |  |  |
+Sunday, 7 July 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Chile ![][flag_CL] | 1 | **7** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/53162196) |
 
 ### Semifinals
 
-| Saturday, 2019-06-29 |  |  |  |  |
+Saturday, 29 June 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **United States A** ![][flag_US] | **7** | 4 | ![][flag_PH] Philippines | [#1](https://osu.ppy.sh/community/matches/52977372) |
 | **Chile** ![][flag_CL] | **7** | 5 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/52987753) |
 | **Hong Kong** ![][flag_HK] | **7** | 1 | ![][flag_AR] Argentina | [#1](https://osu.ppy.sh/community/matches/52987594) |
 
-| Sunday, 2019-06-30 |  |  |  |  |
+Sunday, 30 June 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **France A** ![][flag_FR] | **7** | 6 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/53005399) |
 | Philippines ![][flag_PH] | 6 | **7** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/53005654) |
@@ -379,15 +383,19 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-| Saturday, 2019-06-22 |  |  |  |  |
+Saturday, 22 June 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| Indonesia A ![][flag_ID] | 0 | **6** | ![][flag_US] **United States A** | -win by default- |
+| Indonesia A ![][flag_ID] | 0 | **6** | ![][flag_US] **United States A** | *win by default* |
 | France A ![][flag_FR] | 4 | **6** | ![][flag_PH] **Philippines** | [#1](https://osu.ppy.sh/community/matches/52814381) |
 | **China** ![][flag_CN] | **6** | 2 | ![][flag_TW] Taiwan | [#1](https://osu.ppy.sh/community/matches/52818020) |
 | **Chile** ![][flag_CL] | **6** | 1 | ![][flag_SG] Singapore | [#1](https://osu.ppy.sh/community/matches/52820880) |
 | Taiwan ![][flag_TW] | 0 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/52820731) |
 
-| Sunday, 2019-06-23 |  |  |  |  |
+Sunday, 23 June 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Indonesia A ![][flag_ID] | 2 | **6** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/52845363) |
 | Singapore ![][flag_SG] | 5 | **6** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/52848092) |
@@ -395,7 +403,9 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-| Saturday, 2019-06-15 |  |  |  |  |
+Saturday, 15 June 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **China** ![][flag_CN] | **6** | 1 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/52630781) |
 | Taiwan ![][flag_TW] | 3 | **6** | ![][flag_PL] **Poland B** | [#1](https://osu.ppy.sh/community/matches/52636109) |
@@ -406,55 +416,63 @@ This competition has come to an end and resulted in the following podium:
 | Poland A ![][flag_PL] | 0 | **6** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/52647239) |
 | **United States A** ![][flag_US] | **6** | 0 | ![][flag_EC] Ecuador | [#1](https://www.twitch.tv/videos/439630298) |
 
-| Sunday, 2019-06-16 |  |  |  |  |
+Sunday, 16 June 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Hong Kong** ![][flag_HK] | **6** | 2 | ![][flag_EC] Ecuador | [#1](https://osu.ppy.sh/community/matches/52657012) |
 | Japan ![][flag_JP] | 2 | **6** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/52661179) |
 | Poland A ![][flag_PL] | 1 | **6** | ![][flag_MX] **Mexico** | [#1](https://osu.ppy.sh/community/matches/52673843) |
 | **Argentina** ![][flag_AR] | **6** | 4 | ![][flag_BR] Brazil | [#1](https://osu.ppy.sh/community/matches/52676942) |
 
-| Saturday, 2019-06-22 |  |  |  |  |
+Saturday, 22 June 2019:
+
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Taiwan** ![][flag_TW] | **6** | 1 | ![][flag_PL] Poland B | [#1](https://osu.ppy.sh/community/matches/52815977) |
-| **Japan** ![][flag_JP] | **6** | 0 | ![][flag_PL] Poland B | -win by default- |
+| **Japan** ![][flag_JP] | **6** | 0 | ![][flag_PL] Poland B | *win by default* |
 
 ### Group Stage
 
-| Group | Saturday, 2019-06-08 |  |  |  |  |
+Saturday, 8 June 2019:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | F3 | **United States A** ![][flag_US] | **5** | 0 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/52446671) |
 | G5 | Peru ![][flag_PE] | 0 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/52446788) |
-| C6 | Ecuador ![][flag_EC] | 0 | **5** | ![][flag_JP] **Japan** | -win by default- |
+| C6 | Ecuador ![][flag_EC] | 0 | **5** | ![][flag_JP] **Japan** | *win by default* |
 | G4 | **Indonesia B** ![][flag_ID] | **5** | 4 | ![][flag_PE] Peru | [#1](https://osu.ppy.sh/community/matches/52447584) |
 | G6 | Indonesia B ![][flag_ID] | 1 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/52476732 ) |
 | D2 | Singapore ![][flag_SG] | 2 | **5** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/52453695) |
 | A3 | Taiwan ![][flag_TW] | 2 | **5** | ![][flag_ID] **Indonesia A** | [#1](https://osu.ppy.sh/community/matches/52457632) |
-| B3 | Poland A ![][flag_PL] | 0 | **5** | ![][flag_PH] **Philippines** | -win by default- |
+| B3 | Poland A ![][flag_PL] | 0 | **5** | ![][flag_PH] **Philippines** | *win by default* |
 | A2 | Finland ![][flag_FI] | 1 | **5** | ![][flag_TW] **Taiwan** | [#1](https://osu.ppy.sh/community/matches/52453686) |
 | C5 | France B ![][flag_FR] | 0 | **5** | ![][flag_AU] **Australia** | [#1](https://osu.ppy.sh/community/matches/52453715) |
 | B1 | **Philippines** ![][flag_PH] | **5** | 1 | ![][flag_CH] Switzerland | [#1](https://osu.ppy.sh/community/matches/52454819) |
 | D3 | South Korea ![][flag_KR] | 0 | **5** | ![][flag_FR] **France A** | [#1](https://osu.ppy.sh/community/matches/52454997) |
 | C2 | France B ![][flag_FR] | 0 | **5** | ![][flag_JP] **Japan** | [#1](https://osu.ppy.sh/community/matches/52455708) |
-| H2 | Ireland ![][flag_IE] | 0 | **5** | ![][flag_HK] **Hong Kong** | -win by default- |
+| H2 | Ireland ![][flag_IE] | 0 | **5** | ![][flag_HK] **Hong Kong** | *win by default* |
 | A1 | **Indonesia A** ![][flag_ID] | **5** | 1 | ![][flag_DE] Germany | [#1](https://osu.ppy.sh/community/matches/52454774) |
 | H3 | Hong Kong ![][flag_HK] | 3 | **5** | ![][flag_PL] **Poland B** | [#1](https://osu.ppy.sh/community/matches/52457430) |
 | D1 | **France A** ![][flag_FR] | **5** | 2 | ![][flag_NL] Netherlands | [#1](https://osu.ppy.sh/community/matches/52459107) |
 | B2 | Greece ![][flag_GR] | 0 | **5** | ![][flag_PL] **Poland A** | [#1](https://osu.ppy.sh/community/matches/52460776) |
-| H1 | **Poland B** ![][flag_PL] | **5** | 0 | ![][flag_CO] Colombia | -win by default- |
+| H1 | **Poland B** ![][flag_PL] | **5** | 0 | ![][flag_CO] Colombia | *win by default* |
 | E4 | **Argentina** ![][flag_AR] | **5** | 4 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/52492419) |
 | F2 | Denmark ![][flag_DK] | 0 | **5** | ![][flag_US] **United States A** | [#1](https://osu.ppy.sh/community/matches/52468990) |
 | E1 | Mexico ![][flag_MX] | 0 | **5** | ![][flag_AR] **Argentina** | [#1](https://osu.ppy.sh/community/matches/52501005) |
 | E3 | United States B ![][flag_US] | 2 | **5** | ![][flag_MX] **Mexico** | [#1](https://osu.ppy.sh/community/matches/52460665) |
 | E6 | **Argentina** ![][flag_AR] | **5** | 1 | ![][flag_US] United States B | [#1](https://osu.ppy.sh/community/matches/52498726) |
 
-| Group | Sunday, 2019-06-09 |  |  |  |  |
+Sunday, 9 June 2019:
+
+| Group | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | F6 | Canada ![][flag_CA] | 3 | **5** | ![][flag_US] **United States A** | [#1](https://osu.ppy.sh/community/matches/52474938) |
 | G3 | Brazil ![][flag_BR] | 2 | **5** | ![][flag_CL] **Chile** | [#1](https://osu.ppy.sh/community/matches/52475794) |
 | C1 | Australia ![][flag_AU] | 4 | **5** | ![][flag_EC] **Ecuador** | [#1](https://osu.ppy.sh/community/matches/52474929) |
 | G2 | Peru ![][flag_PE] | 0 | **5** | ![][flag_BR] **Brazil** | [#1](https://osu.ppy.sh/community/matches/52474822) |
 | F1 | **China** ![][flag_CN] | **5** | 4 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/52477719) |
-| H6 | Colombia ![][flag_CO] | 0 | **5** | ![][flag_HK] **Hong Kong** | -win by default- |
+| H6 | Colombia ![][flag_CO] | 0 | **5** | ![][flag_HK] **Hong Kong** | *win by default* |
 | G1 | **Chile** ![][flag_CL] | **5** | 0 | ![][flag_ID] Indonesia B | [#1](https://osu.ppy.sh/community/matches/52478417) |
 | C3 | **Japan** ![][flag_JP] | **5** | 3 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/52481439) |
 | D4 | Netherlands ![][flag_NL] | 1 | **5** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/52482358) |
@@ -469,16 +487,14 @@ This competition has come to an end and resulted in the following podium:
 | B6 | Switzerland ![][flag_CH] | 1 | **5** | ![][flag_PL] **Poland A** | [#1](https://osu.ppy.sh/community/matches/52490955) |
 | H5 | Ireland ![][flag_IE] | 1 | **5** | ![][flag_PL] **Poland B** | [#1](https://osu.ppy.sh/community/matches/52488517) |
 | C4 | **Ecuador** ![][flag_EC] | **5** | 1 | ![][flag_FR] France B | [#1](https://osu.ppy.sh/community/matches/52494321) |
-| H4 | Colombia ![][flag_CO] | 0 | **5** | ![][flag_IE] **Ireland** | -win by default- |
+| H4 | Colombia ![][flag_CO] | 0 | **5** | ![][flag_IE] **Ireland** | *win by default* |
 | E2 | **United Kingdom** ![][flag_GB] | **5** | 4 | ![][flag_US] United States B | [#1](https://osu.ppy.sh/community/matches/52496157) |
 | F4 | Canada ![][flag_CA] | 4 | **5** | ![][flag_DK] **Denmark** | [#1](https://osu.ppy.sh/community/matches/52495640) |
 | E5 | United Kingdom ![][flag_GB] | 1 | **5** | ![][flag_MX] **Mexico** | [#1](https://osu.ppy.sh/community/matches/52489459) |
 
----
-
 ## Ruleset
 
-### General Rules
+### General rules
 
 1. Intermediate Global Taiko Showdown is a **2v2 team tournament** with teams of **maximum 5 players.**
 2. The teams will first play in a **group stage** and then play in a **double-elimination bracket.**
@@ -489,14 +505,14 @@ This competition has come to an end and resulted in the following podium:
 7. All participants must stay respectful and keep a proper attitude. Not following this rule can result in a ban/blacklist from the tournament. This rule concerns all the staff as well.
 8. Any rule changes or unexpected occurrences will be announced in the thread and in the Discord server.
 
-### Rank Restrictions
+### Rank restrictions
 
 1. You must be within ranks #3,500 - #10,000 during registrations. This means that you have to be in this rank range **until the end of registrations.**
 2. You are not allowed to rank up further than **#2,500 during the tournament.** If you pass this limit you will be disqualified.
 3. You must sign up with the country flag of your profile.
 4. You must join the Discord server of the tournament.
 
-### Tournament Registration and Teams Creation
+### Tournament registration and teams creation
 
 1. In order to participate you need to meet the criteria stated in the **[rank restriction](#rank-restrictions) part.**
 2. Players sign up individually. When their registration is accepted, they will get a country role in the Discord server.
@@ -514,7 +530,7 @@ This competition has come to an end and resulted in the following podium:
    - If the players can't agree or find a captain, the highest ranked player will be chosen.
 6. The captain is going to be the one to reschedule a match if needed and will ensure that his teammates are here for the matches.
 
-### Stage Regulations
+### Stage regulations
 
 1. There are six stages in this tournament: the Group Stage, the Round of 16, the Quarterfinals, the Semifinals, the Finals, and the Grand Finals.
 2. The team will be seeded with the average of the ranks of their 2 highest ranked players in 4 seeds: Top seed, High seed, Low seed, and Unseeded.
@@ -532,7 +548,7 @@ This competition has come to an end and resulted in the following podium:
    - Round of 16 and Quarterfinals: BO11 (win 6 maps)
    - Semifinals, Finals, and Grand Finals: BO13 (win 7 maps)
 
-### Mappool Instructions
+### Mappool instructions
 
 1. There will be 1 mappool for each of the following: Group Stage, Round of 16, Quarterfinals, Semifinals, Finals, and Grand Finals. A different pool will be prepared for All-star (see All-star Rules for more details).
 2. The Loser's Bracket will play on the same pool as the Winner's bracket of the same weekend.
@@ -546,7 +562,7 @@ This competition has come to an end and resulted in the following podium:
 7. The Tiebreaker is played under FreeMod conditions but it is not necessary that at least one player has at least one mode activated.
 8. The mappool for each stage will be showcased a week before.
 
-### Scheduling Instructions
+### Scheduling instructions
 
 1. Every stage will be held **during the weekend.** (it is however allowed to schedule on another day if no good time is found during the weekend).
 2. Matches are allowed to overlap if referees are available.
@@ -554,7 +570,7 @@ This competition has come to an end and resulted in the following podium:
 4. Reschedules will only be considered if both teams agree to a time, this needs to be done and notified to the tournament staff before **Thursday at 23:59 UTC+0** in that particular week when your match takes place.
 5. Reschedules may only be requested by **the team captain.**
 
-### Match Regulations
+### Match regulations
 
 1. A private lobby will be created 10 minutes before your match by a referee. Both teams captains will be invited into the room when it's match time. Then the referees or the captains will invite the other players into the room.
 2. If no staff or referee is available, the match will be postponed.
@@ -575,7 +591,7 @@ This competition has come to an end and resulted in the following podium:
 17. If the beatmap ends in a draw, the game will be nullified and the map will be replayed.
 18. In case of a tie in points (example: 4-4 in BO9), the tiebreaker is selected.
 
-### All-star Rules
+### All-star rules
 
 All-star is a fun event which is going to take place in the same weekend as the Grand Finals! It will showcase the best players of the tournament playing against each other in two different types of match.
 
@@ -590,33 +606,33 @@ All-star is a fun event which is going to take place in the same weekend as the 
    - Exchanging players during a match is allowed without limitations.
    - Same rules as a normal match for disconnections.
 
-[flag_AR]: /wiki/shared/flag/AR.gif
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CA]: /wiki/shared/flag/CA.gif
-[flag_CH]: /wiki/shared/flag/CH.gif
-[flag_CL]: /wiki/shared/flag/CL.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_CO]: /wiki/shared/flag/CO.gif
-[flag_DK]: /wiki/shared/flag/DK.gif
-[flag_DE]: /wiki/shared/flag/DE.gif
-[flag_EC]: /wiki/shared/flag/EC.gif
-[flag_FI]: /wiki/shared/flag/FI.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[flag_GB]: /wiki/shared/flag/GB.gif
-[flag_GR]: /wiki/shared/flag/GR.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IE]: /wiki/shared/flag/IE.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_MX]: /wiki/shared/flag/MX.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NL]: /wiki/shared/flag/NL.gif
-[flag_PE]: /wiki/shared/flag/PE.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_RU]: /wiki/shared/flag/RU.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_BR]: /wiki/shared/flag/BR.gif "Brazil"
+[flag_CA]: /wiki/shared/flag/CA.gif "Canada"
+[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_CO]: /wiki/shared/flag/CO.gif "Colombia"
+[flag_DK]: /wiki/shared/flag/DK.gif "Denmark"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_EC]: /wiki/shared/flag/EC.gif "Ecuador"
+[flag_FI]: /wiki/shared/flag/FI.gif "Finland"
+[flag_FR]: /wiki/shared/flag/FR.gif "France"
+[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
+[flag_GR]: /wiki/shared/flag/GR.gif "Greece"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IE]: /wiki/shared/flag/IE.gif "Ireland"
+[flag_JP]: /wiki/shared/flag/JP.gif "Japan"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
+[flag_PE]: /wiki/shared/flag/PE.gif "Peru"
+[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
+[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_US]: /wiki/shared/flag/US.gif "United States"

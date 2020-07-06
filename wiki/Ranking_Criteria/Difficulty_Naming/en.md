@@ -1,4 +1,4 @@
-# Difficulty Naming
+# Difficulty naming
 
 The purpose of difficulty naming is to inform players how difficult a map is. This article lists common conventions as well as other alternatives that have been gathered throughout the years. However, as long as the set of difficulty names is descriptive and clearly indicates progression of difficulty, you may use any desired kind of scheme.
 
@@ -23,7 +23,7 @@ These difficulty names are the most commonly used for each game mode.
 - ![](/wiki/shared/diff/hard-t.png) Muzukashii
 - ![](/wiki/shared/diff/insane-t.png) Oni
 - ![](/wiki/shared/diff/expert-t.png) Inner/Ura Oni
-- ![](/wiki/shared/diff/expertplus-t.png) Outer/Hell Oni
+- ![](/wiki/shared/diff/expertplus-t.png) Hell Oni
 
 ### osu!catch
 

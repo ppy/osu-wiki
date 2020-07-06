@@ -13,34 +13,34 @@ Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taik
 
 ## Turnierzeitplan
 
-| Event               | Timestamp                   |
-|---------------------|-----------------------------|
-| Registrierungsphase | 12.-25. Jan. 2015           |
-| Live-Ziehungen      | 07. Feb. 2015 14:00 (UTC+0) |
-| Gruppenphase        | 14.-15. Feb. 2015           |
-| Achtelfinale        | 21.-22. Feb .2015           |
-| Viertelfinale       | 28. Feb. - 01. Mär. 2015    |
-| Halbfinale          | 07.-08. Mär. 2015           |
-| Finale - Woche 1    | 14.-15. Mär. 2015           |
-| Finale - Woche 2    | 21.-22. Mär. 2015           |
+| Event | Timestamp |
+| :-- | :-- |
+| Registrierungsphase | 12.-25. Jan. 2015 |
+| Live-Ziehungen | 07. Feb. 2015 14:00 (UTC+0) |
+| Gruppenphase | 14.-15. Feb. 2015 |
+| Achtelfinale | 21.-22. Feb .2015 |
+| Viertelfinale | 28. Feb. - 01. Mär. 2015 |
+| Halbfinale | 07.-08. Mär. 2015 |
+| Finale - Woche 1 | 14.-15. Mär. 2015 |
+| Finale - Woche 2 | 21.-22. Mär. 2015 |
 
 ## Preise
 
-| Placing                                                    | Prize(s)                                                                               |
-|------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place")   | 6 Monate Supporter Tag, Profilabzeichen, Benutzertitel als "Taiko Champion", osu! Ware |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 3 Monate Supporter Tag, Profilabzeichen                                                |
-| ![Bronze Crown](/wiki/shared/BCrown.png "3rd place") | 1 Monat Supporter Tag, Profilabzeichen                                                 |
+| Placing | Prize(s) |
+| :-- | :-- |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 6 Monate Supporter Tag, Profilabzeichen, Benutzertitel als "Taiko Champion", osu! Ware |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 3 Monate Supporter Tag, Profilabzeichen |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 Monat Supporter Tag, Profilabzeichen |
 
 ## Organisation
 
-| Job                | Person(s)                                                                                                                                                                                     |
-|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Turnier Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)  |
-| Map Wähler         | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128)                                                                                                                           |
-| Streamer           | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
-| Kommentatoren      | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347)                                                               |
-| Statistiker        | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665)                                                                                                                                |
+| Job | Person(s) |
+| :-- | :-- |
+| Turnier Management | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) |
+| Map Wähler | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) |
+| Streamer | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
+| Kommentatoren | ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
+| Statistiker | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
 ------------------------------------------------------------------------
 
@@ -81,7 +81,7 @@ Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taik
     2.  Das Turnier Management wird abhängig von den eingegangen Anmeldungen die Teams erstellen und einen Kapitän eigenständig ernennen, jedoch nur temporär.
     3.  Das zusammengestellte Team kann unter sich entscheiden, wer der Kapitän später werden soll.
 
-2.  Um sich anzumelden, [senden Sie eine PM an Loctav](https://osu.ppy.sh/forum/ucp.php?i=pm&mode=compose&u=71366) mit dem Titel “TWC Registration”.
+2.  Um sich anzumelden, [senden Sie eine PM an Loctav](https://osu.ppy.sh/home/messages/users/71366) mit dem Titel “TWC Registration”.
     1.  Fügen Sie Ihre lokale Zeitzone zum Registrierungs-PM hinzu.
     2.  Sie erhalten eine Bestätigung, dass Ihre Anmeldung erfolgreich angekommen ist. Ihre Anmeldung ist dann in Bearbeitung.
 
@@ -116,13 +116,13 @@ Das **osu! Taiko World Cup 2015** (***TWC 2015***) ist ein länderbezogenes Taik
 5.  Die folgenden Etappen sind Double-Elimination Etappen. Dies bedeutet, dass der Gewinner normal in die nächste Etappe kommt und das andere Team in die Verliereretappe kommt.
 6.  Basierend auf [dieser Grafik](https://puu.sh/bUq5V/f1066103b0.png) teilen sich die Etappen wie folgt auf:
 
-| Etappe           | Match ID                |
-|------------------|-------------------------|
-| Achtelfinale     | A, B, C, D, E, F, G, H  |
-| Viertelfinale    | I, J, K, L & R, S, T, U |
-| Halbfinale       | M, N & V, W, X, Y, Z,AA |
-| Finale - Woche 1 | O & AB, AC, AD, AE      |
-| Finale - Woche 2 | P, Q                    |
+| Etappe | Match ID |
+| :-- | :-- |
+| Achtelfinale | A, B, C, D, E, F, G, H |
+| Viertelfinale | I, J, K, L & R, S, T, U |
+| Halbfinale | M, N & V, W, X, Y, Z,AA |
+| Finale - Woche 1 | O & AB, AC, AD, AE |
+| Finale - Woche 2 | P, Q |
 
 1.  **Gewinnbedingungen:**
     -   In der Gruppenphase benötigen Sie 4 gewonnene Maps, um die Partie zu gewinnen. (Best-of-7)

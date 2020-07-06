@@ -58,7 +58,7 @@
 
 *Attention: Si vous envisagez de créer des fichiers d’article à l’aide de l’explorateur Windows, assurez-vous que l'option `Extensions de nom de fichier` est activée.* Voir [Comment afficher ou masquer les extensions de nom de fichier dans l'Explorateur Windows](https://support.microsoft.com/en-us/help/865219/how-to-show-or-hide-file-name-extensions-in-windows-explorer) pour les instructions.
 
-1\. Utilisez l'explorateur Windows, votre éditeur d'images préféré et/ou votre éditeur de texte préféré pour créer de nouveaux fichiers. Si vous créez de nouveaux articles ou traductions, renommez le fichier pour suivre les instructions des [Paramètres régionaux dans les critères de style d'article](/wiki/ASC/#locales).
+1\. Utilisez l'explorateur Windows, votre éditeur d'images préféré et/ou votre éditeur de texte préféré pour créer de nouveaux fichiers. Si vous créez de nouveaux articles ou traductions, renommez le fichier pour suivre les instructions des [Paramètres régionaux dans les critères de style d'article](/wiki/ASC#locales).
 
 2\. Continuer à [Committing and pushing](#committing-and-pushing).
 
@@ -78,7 +78,7 @@
 
 3\. Il est préférable de séparer chaque "grosse" action en un seul commit.
 
-Par exemple, comme illustré ci-dessus, [pippi](/wiki/Mascots/#pippi) avait ajouté un fichier image, modifié le fichier `en.md` pour ajouter un titre et un lien à l'image, et marquer les traductions comme obsolètes. À partir de là, nous pouvons avoir deux commits, un pour les changements qui ont affecté le fichier`en.md` et un pour marquer les traductions comme obsolètes.
+Par exemple, comme illustré ci-dessus, [pippi](/wiki/Mascots#pippi) avait ajouté un fichier image, modifié le fichier `en.md` pour ajouter un titre et un lien à l'image, et marquer les traductions comme obsolètes. À partir de là, nous pouvons avoir deux commits, un pour les changements qui ont affecté le fichier`en.md` et un pour marquer les traductions comme obsolètes.
 
 4\. Sélectionnez les fichiers à valider.
 
@@ -100,4 +100,4 @@ Par exemple, comme illustré ci-dessus, [pippi](/wiki/Mascots/#pippi) avait ajou
 
 ## Finition
 
-Vous pouvez maintenant revenir à [osu! Guide de contribution au wiki](/wiki/owcg/#finishing) pour la dernière information concernant votre demande et vos modifications.
+Vous pouvez maintenant revenir à [osu! Guide de contribution au wiki](/wiki/owcg#finishing) pour la dernière information concernant votre demande et vos modifications.
