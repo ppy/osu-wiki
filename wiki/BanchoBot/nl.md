@@ -1,8 +1,8 @@
 # BanchoBot
 
-![BanchoBot's user card](img/BanchoBot.jpg "BanchoBot's user card")
+![BanchoBot's gebruikerskaart](img/BanchoBot.jpg "BanchoBot's gebruikerskaart")
 
-BanchoBot is een bot (d.w.z. een verzameling van opdrachten met geautomatiseerde antwoorden) die mensen in de chat helpt door bepaalde informatie weer te geven en spelgerelateerde berichten aan te kondigen. Hij werd geprogrammeerd door [Echo49](https://osu.ppy.sh/users/431) en is de host van de [Bancho IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat). BanchoBot heeft ook z’n eigen [osu! profile](https://osu.ppy.sh/users/3) en [Twitter account](https://twitter.com/banchoboat)!
+BanchoBot is een bot (d.w.z. een verzameling van opdrachten met geautomatiseerde antwoorden) die mensen in de chat helpt door bepaalde informatie weer te geven en spelgerelateerde berichten aan te kondigen. Hij werd geprogrammeerd door [Echo49](https://osu.ppy.sh/users/431) en is de host van de [Bancho IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat). BanchoBot heeft ook z’n eigen [osu! profile](https://osu.ppy.sh/users/3) en [Twitteraccount](https://twitter.com/banchoboat)!
 
 ## Opdrachten
 
@@ -31,12 +31,12 @@ Geeft een lijst van de beschikbare BanchoBot-opdrachten.
 ```
 pippi: !help
 BanchoBot: Standard Commands (!COMMAND or /msg BanchoBot COMMAND):
-BanchoBot: WHERE <user>
-BanchoBot: STATS <user>
-BanchoBot: FAQ <item>|list
-BanchoBot: REPORT <reason> - call for an admin
+BanchoBot: WHERE <gebruiker>
+BanchoBot: STATS <gebruiker>
+BanchoBot: FAQ <onderwerp>|list
+BanchoBot: REPORT <reden> - call for an admin
 BanchoBot: REQUEST [list] - shows a random recent mod request
-BanchoBot: ROLL <number> - roll a dice and get random result from 1 to number(default 100)
+BanchoBot: ROLL <reden> - roll a dice and get random result from 1 to number(default 100)
 ```
 
 ### ROLL
@@ -132,7 +132,7 @@ Tama: ok
 *Opmerking: Je kan ook iemand rapporteren via hun gebruikerskaart.*
 
 ```
-!REPORT <user> <reason>
+!REPORT <gebruiker> <reden>
 ```
 
 *Voor info over wat de moeite waard is om te rapporteren, zie [Ongepast Gedrag Rapporteren](/wiki/Reporting_Bad_Behaviour).*
