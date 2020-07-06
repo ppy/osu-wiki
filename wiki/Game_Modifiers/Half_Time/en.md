@@ -6,17 +6,9 @@ tags:
   - HR
 ---
 
-<!-- this article is a stub -->
+# Half Time (mod)
 
-<!--TO-DO:
-- replace placeholders
-- add images
-- edit and revise
-- fact-check all information-->
-
-# Half-Time (mod)
-
-![HT mod icon](/wiki/shared/mods/HT.png "Half-Time (HT) mod icon")
+![HT mod icon](/wiki/shared/mods/HT.png "Half Time (HT) mod icon")
 
 *For the full list of all mods, see: [Game Modifiers](/wiki/Game_Modifiers)*
 
@@ -37,7 +29,7 @@ The **Half-Time** mod is a [game modifier](/wiki/Game_Modifiers) that decreaes t
 
 ### Trivia
 
-- When the Half-Time mod is enabled, the `Length`, `BPM`, and `Objects` values will be colored in a light blue with the new values.
+- When the Half Time mod is enabled, the `Length`, `BPM`, and `Objects` values will be colored in a light blue with the new values.
   - The `Objects` value will still be colored light blue even though no change in value is actually made.
 - The `CS`, `AR`, and `HP` values will have a superscript triangle next to their values indicate a small decrease in their values.
 
@@ -49,7 +41,7 @@ The **Half-Time** mod is a [game modifier](/wiki/Game_Modifiers) that decreaes t
 
 In [osu!taiko](/wiki/Game_Modes/osu!taiko), the slowed song and BPM causes the notes to become very dense due to the decrease in AR. However, due to the way dendens are calculated in osu!taiko, they now take more hits to clear and cause them to award a **higher total value than without the mod** because denden hits are not affected by the Score Multiplier. 
 
-As a result, using the Half-Time mod will lead to an increase in maximum possible score for maps with very low combos and many long dendens. This effect will be even more significant when [Hard Rock](/wiki/Game_Modifiers/Hard_Rock) is turned on simultaneously. 
+As a result, using the Half Time mod will lead to an increase in maximum possible score for maps with very low combos and many long dendens. This effect will be even more significant when [Hard Rock](/wiki/Game_Modifiers/Hard_Rock) is turned on simultaneously. 
 
 ## osu!catch
 
@@ -61,3 +53,11 @@ In addition to this, the leniency for hyperdashes are increases, making it much 
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
 [o!c]: /wiki/shared/mode/catch.png "osu!catch"
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
+
+<!-- this article is a stub -->
+
+<!--TO-DO:
+- replace placeholders
+- add images
+- edit and revise
+- fact-check all information-->

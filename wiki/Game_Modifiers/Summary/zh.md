@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # 摘要
 
 *主页面: [Game Modifiers](/wiki/Game_Modifiers)*

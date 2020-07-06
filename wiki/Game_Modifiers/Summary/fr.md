@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Sommaire
 
 *Note: Tous les mods changeant la difficulté sur osu!mania n'augmenteront jamais le multiplicateur de score.*

@@ -6,20 +6,15 @@ tags:
   - game modifier
 ---
 
-<!-- this article is a stub -->
-
-<!--TO-DO:
-- replace placeholders -->
-
 # Relax (mod)
 
-![RX mod icon](/wiki/shared/mods/RL.png "Relax (RX) mod icon")
+![RL mod icon](/wiki/shared/mods/RL.png "Relax (RL) mod icon")
 
 *For the full list of all mods, see: [Game Modifiers](/wiki/Game_Modifiers)*
 
 ## About
 
-- Abbreviation: RX
+- Abbreviation: RL
 - Type: Special
 - Score Multiplier: <!--placeholder (numbers may vary from game mode to game mode -->
 - Default shortcut key: `Z`
@@ -30,7 +25,7 @@ tags:
 
 *Notice: enabling the Relax mod will cause the play to be unranked and will not be saved to the local leaderboards.*
 
-The **Relax** mod is a [game modifier](/wiki/Game_Modifiers) that aims to allow a relaxing experience to players. Due to its nature, the mod is typically utilised to analyze/practice difficult [patterns](/wiki/Beatmaps/Pattern) on [beatmaps](/wiki/Beatmaps) or for when a player wants to take a breakfrom osu! without actually taking a break.
+The **Relax** mod is a [game modifier](/wiki/Game_Modifiers) that aims to allow a relaxing experience to players. Due to its nature, the mod is typically utilised to analyze/practice difficult [patterns](/wiki/Beatmaps/Pattern) on [beatmaps](/wiki/Beatmaps), or for when players want to give their tapping hands a rest.
 
 <!-- ### Trivia -->
 
@@ -48,7 +43,7 @@ In [osu!taiko](/wiki/Game_Modes/osu!taiko), the Relax mod removes colour judgeme
 
 Along with this, the Relax mod will also give more lenient timing to collect the slider ticks during drumrolls, while dendens can be cleared with any colour sequence instead of alternating the colour sequence. The animated mascot will also be removed. 
 
-Unlike osu!standard, in osu!taiko, the Relax mod *will* dispka score, combo, and misses.
+Unlike osu!standard, in osu!taiko, the Relax mod *will* display score, combo, and misses.
 
 ## osu!catch
 
@@ -57,3 +52,8 @@ In [osu!catch](/wiki/Game_Modes/osu!catch), the Relax mod allows the character t
 [o!s]: /wiki/shared/mode/osu.png "osu!standard"
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
 [o!c]: /wiki/shared/mode/catch.png "osu!catch"
+
+<!-- this article is a stub -->
+
+<!--TO-DO:
+- replace placeholders -->

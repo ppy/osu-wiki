@@ -6,11 +6,6 @@ tags:
   - game modifier
 ---
 
-<!-- this article is a stub -->
-
-<!--TO-DO:
-- replace placeholders-->
-
 # ScoreV2 (mod)
 
 ![SV2 mod icon](/wiki/shared/mods/SV2.png "ScoreV2 (SV2) mod icon")
@@ -34,11 +29,11 @@ tags:
 
 *For full information regarding the ScoreV2 scoring system, see: [ScoreV2](/wiki/Score#scorev2)*
 
-The **ScoreV2** mod is a mod that uses the prototype ScoreV2 value system instead of the current scoring system for each respective [game mode](/wiki/Game_Modes). In a nutshell, teh ScoreV2 system attemps to scale all [hit object](/wiki/Hit_object) scoring values to a hard limit of 1 million at 1.00 Score Multiplier (excluding bonus spinner values in [osu!standard](/wiki/Game_Modes/osu!), dendens in [osu!taiko](/wiki/Game_Modes/osu!taiko), and collected bananas in [osu!catch](/wiki/Game_Modes/osu!catch).
+The **ScoreV2** mod is a mod that uses the prototype ScoreV2 value system instead of the current scoring system for each respective [game mode](/wiki/Game_Modes). In a nutshell, the ScoreV2 system attemps to scale all [hit object](/wiki/Hit_object) scoring values to a hard limit of 1 million at 1.00 Score Multiplier (excluding bonus spinner values in [osu!standard](/wiki/Game_Modes/osu!), dendens in [osu!taiko](/wiki/Game_Modes/osu!taiko), and collected bananas in [osu!catch](/wiki/Game_Modes/osu!catch).
 
 This mod has the same effect across all game modes.
 
-### Trivia <!-- optional -->
+### Trivia
 
 - The ScoreV2 mod was introduced in the February 22 (2017-02-22) build [b20170222.3 (Stable)](https://osu.ppy.sh/home/changelog/stable40/20170222.3)
 
@@ -46,3 +41,8 @@ This mod has the same effect across all game modes.
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
 [o!c]: /wiki/shared/mode/catch.png "osu!catch"
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
+
+<!-- this article is a stub -->
+
+<!--TO-DO:
+- replace placeholders-->

@@ -36,7 +36,7 @@ tags:
 
 The **4K** or ***x*K** mod is a [game modifier](/wiki/Game_Modifiers) that will force all *converted* [osu!mania](/wiki/Game_Modes/osu!mania) [beatmaps](/wiki/Beatmaps) to use the selected K setting. This ignores the supposed K setting of the beatmap at the cost of decreasing the Score Multiplier, depending on the K difference. 
 
-The Score Multplier will apply as follows:
+The table below explains how the Score Multiplier will be applied across all *x*K mods:
 
 | Default/Modifier | 1k | 2k | 3k | 4k | 5k | 6k | 7k | 8k | 9k |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |

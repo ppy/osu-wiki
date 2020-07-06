@@ -29,8 +29,8 @@ Each of the following mods listed will have the compitable game modes' icon (![]
 ### Difficulty Reduction <!-- should i use headers (###) or bold? test it! -->
 
 - [Easy (EZ)](/wiki/Game_Modifiers/Easy) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-- [No-Fail (NF)](/wiki/Game_Modifiers/NoFail) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-- [Half-Time (HT)](/wiki/Game_Modifiers/HalfTime) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- [No Fail (NF)](/wiki/Game_Modifiers/No_Fail) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- [Half Time (HT)](/wiki/Game_Modifiers/Half_Time) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 
 ### Difficulty Increase
 
@@ -40,18 +40,18 @@ Each of the following mods listed will have the compitable game modes' icon (![]
 - [Double Time (DT)](/wiki/Game_Modifiers/Double_Time) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
   - [Nightcore (NC)](/wiki/Game_Modifiers/Nightcore) ![][o!s] ![][o!t] ![][o!c] ![][o!m] 
 - [Hidden (HD)](/wiki/Game_Modifiers/Hidden) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
-  - [Fade-in (FI)](/wiki/Game_Modifiers/Fadein) ![][o!m]
+  - [Fade In (FI)](/wiki/Game_Modifiers/Fadein) ![][o!m]
 - [Flashlight (FL)](/wiki/Game_Modifiers/Flashlight) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 
 ### Special
 
-- [Relax (RX)](/wiki/Game_Modifiers/Relax) ![][o!s] ![][o!t] ![][o!c]
-- [Auto Pilot (AP)](/wiki/Game_Modifiers/Auto_Pilot) ![][o!s] ![][o!t] ![][o!c]
-- [Spun Out (SO)](/wiki/Game_Modifiers/SpunOut) ![][o!s]
+- [Relax (RL)](/wiki/Game_Modifiers/Relax) ![][o!s] ![][o!t] ![][o!c]
+- [Autopilot (AP)](/wiki/Game_Modifiers/Autopilot) ![][o!s] ![][o!t] ![][o!c]
+- [Spun Out (SO)](/wiki/Game_Modifiers/Spun_Out) ![][o!s]
 - [4k (xK)](/wiki/Game_Modifiers/4k) ![][o!m]
 - [Co-op (COOP)](/wiki/Game_Modifiers/Coop) ![][o!m]
 - [Random (RD)](/wiki/Game_Modifiers/Random) ![][o!m]
-- [Auto (AT)](/wiki//Game_Modifiers/Auto) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
+- [Auto (AO)](/wiki//Game_Modifiers/Auto) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
   - [Cinema (CM)](/wiki/Game_Modifiers/Cinema) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 - [ScoreV2 (SV2)](/wiki/Game_Modifiers/ScoreV2) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
 - [Target Practice (TP)](/wiki/Game_Modifiers/Target_Practice) ![][o!s] **Cutting Edge only**

@@ -6,13 +6,6 @@ tags:
   - game modifier
 ---
 
-<!-- this article is a stub -->
-
-<!--TO-DO:
-- replace placeholders
-- add images 
-- fact-check all information-->
-
 # Easy (mod)
 
 ![EZ mod icon](/wiki/shared/mods/EZ.png "Easy (EZ) mod icon")
@@ -38,7 +31,7 @@ This refill event will be signaled to the player with the ready sound (`readysou
 
 ### Trivia
 
-- When watching a replay where an extra life is used, the health refill animation will be ignored and the replay will continue as if the player was playing with the [No-Fail](/wiki/Game_Modifiers/NoFail) mod on.
+- When watching a replay where an extra life is used, the health refill animation will be ignored and the replay will continue as if the player was playing with the [No Fail](/wiki/Game_Modifiers/No_Fail) mod on.
 - In [Multi](/wiki/Multi) mode, the effect of "lives" will not work in [Tag Co-op or Tag Team Vs.](/wiki/Multi#tag-coop-tag-team-vs) team mode.
 - The Easy mod will cancel out the [Hard Rock](/wiki/Game_Modifiers/Hard_Rock) mod, and vice-versa.
 
@@ -84,3 +77,10 @@ In [osu!mania](/wiki/Game_Modes/osu!mania), the effects are the same as in osu!t
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
 [o!c]: /wiki/shared/mode/catch.png "osu!catch"
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
+
+<!-- this article is a stub -->
+
+<!--TO-DO:
+- replace placeholders
+- add images 
+- fact-check all information-->

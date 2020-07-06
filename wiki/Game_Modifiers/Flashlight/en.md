@@ -6,10 +6,6 @@ tags:
   - game modifier
 ---
 
-<!-- this article is a stub -->
-
-<!--TO-DO: (placeholder) -->
-
 # Flashlight (mod)
 
 ![FL mod icon](/wiki/shared/mods/FL.png "Flashlight (FL) mod icon")
@@ -41,7 +37,7 @@ The **Flashlight** mod is a [game modifier](/wiki/Game_Modifiers/Flashlight) tha
 
 In [osu!standard](/wiki/Game_Modes/osu!), only a small, illuminated cricle (i.e., the visible area) surrounding the cursor is shown which will display the parts of the playfield that are contained within that circle. The size of this circle will change depending on the player's current combo.
 
-The visible area will become smaller at 100x combo and again at 200x combo. If the player's combo is broken at any point, the visible area will return to its original size. Additionally, when sliding a slider, the visible are will partially darken until the slider is completed. 
+The visible area will become smaller at 100x combo and again at 200x combo. If the player's combo is broken at any point, the visible area will return to its original size. Additionally, when sliding a [slider](/wiki/Hit_object/Slider), the visible area will partially darken until the slider is completed. 
 
 All of this adds up to an effect that looks like a virtual flashlight is being shone on the player's cursor.
 
@@ -55,7 +51,7 @@ The Flashlight mod is regarded as the hardest mod in osu!standard and scores obt
 
 In [osu!taiko](/wiki/Game_Modes/osu!taiko), the position of visible area is fixed at the hitting area. And similarly to osu!standard, the visible area shrinks as the combo increases: shrinking at 100x and 200x combo while returning to its original size if the combo breaks.
 
-When paired with the Hidden mod, the "flashlight's" visible area becomes a moot point because notes are technically "invisible:" the notes fade out completely upon reaching the visible area. This also requires complete memorization of the beatmap. 
+When paired with the Hidden mod, the "flashlight's" visible area becomes a moot point because notes are technically "invisible" because the notes fade out completely upon reaching the visible area. This also requires complete memorization of the beatmap. 
 
 ## osu!catch
 
@@ -75,3 +71,7 @@ In [osu!mania](/wiki/Game_Modes/osu!mania), the visible area is restricted to a 
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
 [o!c]: /wiki/shared/mode/catch.png "osu!catch"
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
+
+<!-- this article is a stub -->
+
+<!--TO-DO: (placeholder) -->

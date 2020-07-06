@@ -6,12 +6,6 @@ tags:
   - SD
 ---
 
-<!-- this article is a stub -->
-
-<!--TO-DO: 
-- replace placeholders
-- fact-check all information -->
-
 # Sudden Death (mod)
 
 ![SD mod icon](/wiki/shared/mods/SD.png "Sudden Death (SD) mod icon")
@@ -32,7 +26,7 @@ tags:
 
 ## Description
 
-The **Sudden Death** mod is a [game modifier](/wiki/Game_Modifiers) that causes players to fail a [beatmap](/wiki/Beatmaps) upon missing a [hit object](/wiki/Hit_Objects) or failing to collect a slider tick. This is useful for players who are going for an [full combo (FC)](/wiki/Glossary#fc), though there is some debate as to whether the use of the Sudden Death mod or the act of retrying at the first [combo break](/wiki/Glossary#combobreak) is helpul or harmful.
+The **Sudden Death** mod is a [game modifier](/wiki/Game_Modifiers) that causes players to fail a [beatmap](/wiki/Beatmaps) upon missing a [hit object](/wiki/Hit_Objects) or failing to collect a slider tick. This is useful for players who are going for an [full combo (FC)](/wiki/Glossary#fc). Although there is some debate as to whether the use of the Sudden Death mod or the act of retrying at the first [combo break](/wiki/Glossary#combobreak) is helpul or harmful for players wanting to improve quickly,
 
 To be more specific, the Sudden Death mod will only fail the beatmap if any of the following happen:
 
@@ -57,3 +51,9 @@ This mod has the same effect across all [game modes](/wiki/Game_Modes).
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
 [o!c]: /wiki/shared/mode/catch.png "osu!catch"
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
+
+<!-- this article is a stub -->
+
+<!--TO-DO: 
+- replace placeholders
+- fact-check all information -->

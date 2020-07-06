@@ -6,11 +6,6 @@ tags:
   - PF
 ---
 
-<!-- this article is a stub -->
-
-<!--TO-DO:
-- replace placeholders -->
-
 # Perfect (mod)
 
 ![PF mod icon](/wiki/shared/mods/PF.png "Perfect (PF) mod icon")
@@ -34,7 +29,7 @@ tags:
 The **Perfect** mod is a [game modifier](/wiki/Game_Modifiers) that aims to aid players who are going for an SS grade by automatically failing and retrying [beatmaps](/wiki/Beatmaps) upon missing a note or obtaining any score on a [hit object](/wiki/Hit_object) other than 300 or more.
 
 Any of the following acts will cause the Perfect mod to restart the beatmap:
-
+d
 - Missing a note
 - Obtaining a `100` or `50`
 - Failing a spinner
@@ -58,3 +53,8 @@ This mod has the same effect across all [game modes](/wiki/Game_Modes)
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
 [o!c]: /wiki/shared/mode/catch.png "osu!catch"
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
+
+<!-- this article is a stub -->
+
+<!--TO-DO:
+- replace placeholders -->

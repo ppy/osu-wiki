@@ -1,25 +1,18 @@
 ---
 tags:
   - fade in
-  - fade-in
   - FI
   - mod
   - game modifier
 ---
 
-<!-- this article is a stub -->
+# Fade In (mod)
 
-<!--TO-DO:
-- add images
-- replace placeholders -->
-
-# Fade-in (mod)
-
-![FI mod icon](/wiki/shared/mods/FI.png "Fade-in (FI) mod icon")
+![FI mod icon](/wiki/shared/mods/FI.png "Fade In (FI) mod icon")
 
 *For the full list of all mods, see: [Game Modifiers](/wiki/Game_Modifiers)*
 
-*Not to be confused with [Hidden (mod)](/wiki/Game_Modifiers/Fadein) or [Flashlight (mod)](/wiki/Game_Modifiers/Flashlight)*
+*Not to be confused with [Hidden (mod)](/wiki/Game_Modifiers/Hidden) or [Flashlight (mod)](/wiki/Game_Modifiers/Flashlight)*
 
 ## About
 
@@ -41,6 +34,12 @@ The fading size only stops when a 500x combo milestone is reached (at which poin
 
 ### Trivia
 
-- If a beatmap is passedwith an S or SS grade with the Fade-in mod enabled, said beatmap will award the silver variant of the grade instead. 
+- If a beatmap is passed with an S or SS grade with the Fade In mod enabled, said beatmap will award the silver variant of the grade instead. 
 
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
+
+<!-- this article is a stub -->
+
+<!--TO-DO:
+- add images
+- replace placeholders -->

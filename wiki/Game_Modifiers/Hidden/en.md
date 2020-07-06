@@ -6,20 +6,13 @@ tags:
   - game modifier
 ---
 
-<!-- this article is a stub -->
-
-<!--TO-DO:
-- replace placeholders
-- add images 
-- figure out whether or not HD is easy or hard or meh on osu!mania -->
-
 # Hidden (mod)
 
 ![HD mod icon](/wiki/shared/mods/HD.png "Hidden (HD) mod icon")
 
 *For the full list of all mods, see: [Game Modifiers](/wiki/Game_Modifiers)*
 
-*Not to be confused with [Fade-in (mod)](/wiki/Game_Modifiers/Fadein) or [Flashlight (mod)](/wiki/Game_Modifiers/Flashlight)*
+*Not to be confused with [Fade In (mod)](/wiki/Game_Modifiers/Fade_In) or [Flashlight (mod)](/wiki/Game_Modifiers/Flashlight)*
 
 ## About
 
@@ -41,7 +34,7 @@ The **Hidden** mod is a [game modifier](/wiki/Game_Modifiers) that increases the
 - The Hidden mod debuted in Ouendan 2, which was the second Japanese DS game in the [Osu! Tatake! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia") series (the series that osu! is based on).
 - If a beatmap is passed with an S or SS grade with the Hidden mod enabled, the beatmap will award the silver variant of the grade instead.
 - By default, in [osu!standard](/wiki/Game_Modes/osu!) the first [hit object](/wiki/Hit_object)'s [approach circle](/wiki/Hit_object/Approach_circle) will be temporarily visible at the start of a map so as to help players better gauge when to tap said hit object. This may be turned off in the Options under `Gameplay`.
-- In osu!mania, the Hidden mod is a variant of the [Fade-in](/wiki/Game_Modes/Fadein) mod.
+- In osu!mania, the Hidden mod is a variant of the [Fade In](/wiki/Game_Modes/Fade_In) mod.
 - The current version of the Hidden mod in osu!mania used to be a seperate mod called "Fade-out." 
 
 ## osu!standard
@@ -56,7 +49,7 @@ Although it should be noted that the Hidden mod is considered the easiest diffic
 
 In [osu!taiko](/wiki/Game_Modes/osu!taiko), the notes fade out at around halfway through the screen, requiring players to remember the timing and colour. However, sliders and dendens still cross the full timeline and do not fade out (with the condition that the denden has no approach circle to indicate whenit times out. 
 
-On beatmaps with high overall difficulty, the Hiddenmod is used by experienced players to increase score instead of the [Hard Rock (HR)](/wiki/Game_Modififers/Hard_Rock) because HR occasinally makes the timing window too small.
+On beatmaps with high overall difficulty, the Hidden mod is used by experienced players to increase score instead of the [Hard Rock (HR)](/wiki/Game_Modififers/Hard_Rock) mod because HR occasinally makes the timing window too small.
 
 Unlike osu!standard, the Hidden mod is typically regarded as much harder to read or "get used-to" due to requiring th eplayer to memorize which color comes next.
 
@@ -72,7 +65,7 @@ The effects on difficulty for osu!catch regarding the use of the Hidden mod vary
 
 ## osu!mania
 
-In [osu!mania](/wiki/Game_Modes/osu!mania), the Hidden mod functions as the inverse of the Fade-in mod: the notes will fade out before you are supposed to hit them. 
+In [osu!mania](/wiki/Game_Modes/osu!mania), the Hidden mod functions as the inverse of the Fade In mod as the notes will fade out before you are supposed to hit them. 
 
 <!-- is HD easy or hard on mania? -->
 
@@ -82,3 +75,10 @@ In [osu!mania](/wiki/Game_Modes/osu!mania), the Hidden mod functions as the inve
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
 [o!c]: /wiki/shared/mode/catch.png "osu!catch"
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
+
+<!-- this article is a stub -->
+
+<!--TO-DO:
+- replace placeholders
+- add images 
+- figure out whether or not HD is easy or hard or meh on osu!mania -->

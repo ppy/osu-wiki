@@ -6,20 +6,15 @@ tags:
   - game modifier
 ---
 
-<!-- this article is a stub -->
-
-<!--TO-DO:
-- replace placeholders -->
-
 # Co-op (mod)
 
-![Co-op mod icon](/wiki/shared/mods/COOP.png "Co-op mod icon")
+![Co-op mod icon](/wiki/shared/mods/COOP.png "Co-op (CO) mod icon")
 
 *For the full list of all mods, see: [Game Modifiers](/wiki/Game_Modifiers)*
 
 ## About
 
-- Abbreviation: N/A
+- Abbreviation: CO
 - Type: Special
 - Score Multiplier: <!--placeholder (numbers may vary from game mode to game mode -->
 - Default shortcut key: <!--PLACEHOLDER-->
@@ -43,12 +38,17 @@ The following table only affects beatmaps converted from [osu!standard](/wiki/Ga
 | 6k | 0.74 | 0.82 | - | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
 | 7k | 0.70 | 0.78 | 0.86 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 | 0.90 |
 
-**The Co-opmod gives no penalty on osu!mania-specific beatmaps.**
+**The Co-op mod gives no penalty on osu!mania-specific beatmaps.**
 
-A detailed explanation about the second playfield can be found in the [osu!mania page under Co-op](/wiki/Game_Modes/osu!mania#co-op).
+A detailed explanation about the second playfield can be found in the [osu!mania page under "Co-op"](/wiki/Game_Modes/osu!mania#co-op).
 
 ### Trivia
 
 - The Co-op mod was introduced on [March 5, 2015](https://osu.ppy.sh/home/changelog)
 
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
+
+<!-- this article is a stub -->
+
+<!--TO-DO:
+- replace placeholders -->

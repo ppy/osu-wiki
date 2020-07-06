@@ -6,14 +6,6 @@ tags:
   - HR
 ---
 
-<!-- this article is a stub -->
-
-<!--TO-DO:
-- add images
-- replace placeholders
-- edit and revise 
-- face-check all information-->
-
 <!-- original article says that HR is unranked in osu!mania? -->
 
 # Hard Rock (mod)
@@ -33,7 +25,7 @@ tags:
 
 ## Description
 
-The **Hard Rock** mod is a [game modifier](/wiki/Game_Modifiers) that aims to increase the difficulty over most, if not all, aspects of a [beatmap](/wiki/Beatmaps). It achieves this goal by raising the [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size) by 30%, and all other difficulty settings by 40%.
+The **Hard Rock** mod is a [game modifier](/wiki/Game_Modifiers) that aims to increase the difficulty over most (if not all) aspects of a [beatmap](/wiki/Beatmaps). It achieves this goal by raising the [circle size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size) by 30%, and all other difficulty settings by 40%.
 
 ### Trivia
 
@@ -74,3 +66,11 @@ In [osu!mania](/wiki/Game_Modes/osu!mania), only the judgement difficulty (OD) a
 [o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
 [o!c]: /wiki/shared/mode/catch.png "osu!catch"
 [o!m]: /wiki/shared/mode/mania.png "osu!mania"
+
+<!-- this article is a stub -->
+
+<!--TO-DO:
+- add images
+- replace placeholders
+- edit and revise 
+- face-check all information-->

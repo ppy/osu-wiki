@@ -7,11 +7,6 @@ tags:
   - game modifier
 ---
 
-<!-- this article is a stub -->
-
-<!--TO-DO:
-- replace placeholders -->
-
 # Spun Out (mod)
 
 ![SO mod icon](/wiki/shared/mods/SO.png "Spun Out (SO) mod icon")
@@ -34,3 +29,8 @@ The **Spun Out** mod is a [game modifier](/wiki/Game_Modifiers) that is aims to 
 The spinner(s) will be disabled and the player cannot spin to increase the SPM value.
 
 [o!s]: /wiki/shared/mode/osu.png "osu!standard"
+
+<!-- this article is a stub -->
+
+<!--TO-DO:
+- replace placeholders -->
