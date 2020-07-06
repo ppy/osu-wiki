@@ -76,7 +76,7 @@ The osu!mania LN Tournament 2 is run by various community members.
 
 - FreeMod
   - [OISHII - ONIGIRI FREEWAY (Mentholzzz) \[Unagi Onigiri "UHD"\]](https://osu.ppy.sh/beatmapsets/663098#mania/1505212)
-  - [Etia. - On And On!! (Club Extended) [feat. Jenga] (eZmmR) \[Raveille & eZmmR's LN Party!!\]](https://osu.ppy.sh/beatmapsets/989038#mania/2068796)
+  - [Etia. - On And On!! (Club Extended) \[feat. Jenga\] (eZmmR) \[Raveille & eZmmR's LN Party!!\]](https://osu.ppy.sh/beatmapsets/989038#mania/2068796)
   - [Kanae Asaba - Endless Starlight \~Inochi no Kirameki\~ (Raveille) \[Kibo\]](https://osu.ppy.sh/beatmapsets/629366#mania/1328717)
   - [IOSYS - Ringo's Tea Party (TheToaphster) \[Spooked\]](https://osu.ppy.sh/beatmapsets/638838#mania/1355027)
   - [PLINI X KENDRICK LAMAR - POETIC JUSTICE // AWAY (Razzy) \[Desire\]](https://osu.ppy.sh/beatmapsets/955714#mania/1996491)
