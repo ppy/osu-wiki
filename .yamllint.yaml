@@ -1,10 +1,8 @@
----
 extends: default
 
+ignore: node_modules/
 rules:
-  # for now we don't care about most formatting rules
-  line-length: disable
-  document-start: disable
-  indentation: disable
-  comments: disable
   colons: disable
+  comments: disable
+  document-start: disable
+  line-length: disable
