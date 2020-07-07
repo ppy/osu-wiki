@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Storyboards
 
 ![Deze scène wordt getoond terwijl je Walkie Talkie Man speelt. (geen SB)](img/Sbpassing.png "Deze scène wordt getoond terwijl je Walkie Talkie Man speelt zonder SB")

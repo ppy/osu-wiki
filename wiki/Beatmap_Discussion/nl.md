@@ -3,6 +3,7 @@ tags:
 - beatmap discussions
 - modding V2
 - MV2
+no_native_review: true
 ---
 
 # Beatmapdiscussie

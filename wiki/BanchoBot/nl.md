@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # BanchoBot
 
 ![BanchoBot's gebruikerskaart](img/BanchoBot.jpg "BanchoBot's gebruikerskaart")

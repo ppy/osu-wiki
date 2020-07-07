@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Nauwkeurigheid
 
 De nauwkeurigheid is een meting van de consistentie van een speler. Er zijn drie soorten nauwkeurigheid die een speler kan hebben. Eén daarvan is beatmap nauwkeurigheid, dit is afhankelijk van de behaalde hitscores op die bepaalde beatmap. Een andere is de algemene nauwkeurigheid van een speler, die wordt gewogen zodat betere scores harder opvallen. Tenslotte is er de [Performance Points(pp)](https://github.com/ppy/osu-wiki/blob/master/wiki/Performance_Points) nauwkeurigheid, die afhankelijk is van de precisie van alle ingezonden scores van die speler.

@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Geschiedenis van osu! 2007
 
 Het volgende is een deel van de geschiedenis van osu! sinds het begin. Met dank aan [Sinistro](https://osu.ppy.sh/users/5530) voor de hulp bij het samenstellen van de inhoud van 2007/2008.

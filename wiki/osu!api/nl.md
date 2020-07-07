@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # osu!api
 
 osu! heeft een openbare [API](https://en.wikipedia.org/wiki/API) die gebruikt kan worden door derden om het osu! platform te ondersteunen en uit te breiden. Vroeger was deze meer besloten en kon hij enkel gebruikt worden op aanvraag, maar nu kan iedereen de API gebruiken, zolang je een osu! account hebt.

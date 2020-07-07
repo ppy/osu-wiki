@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Project Loved
 
 **Project Loved** is het stemplatfrom dat beatmaps promoveert naar de [Loved](/wiki/Beatmaps#loved)-categorie. Het wordt voornamelijk beheerd door het [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team).

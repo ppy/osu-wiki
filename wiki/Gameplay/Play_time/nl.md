@@ -3,6 +3,7 @@ tags:
   - length
   - playtime
   - total length
+no_native_review: true
 ---
 
 # Speelduur

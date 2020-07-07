@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Gameplay
 
 - [Nauwkeurigheid](/wiki/Gameplay/Accuracy)

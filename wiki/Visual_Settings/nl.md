@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Visuele instellingen
 
 ![Visueel Instellingsmenu](img/VisualSettings.jpg "Visueel Instellingsmenu")

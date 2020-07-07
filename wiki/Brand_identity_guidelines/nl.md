@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Merkidentiteitsrichtlijnen
 
 De merkidentiteitsrichtlijnen zijn een aantal standaarden voor het merkgeven van osu!-gerelateerde projecten. Er is geen goedkeuring nodig voor eenderwelk gebruik.

@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Wil je het echt aan peppy vragen?
 
 Hallo daar! peppy begrijpt waarom je hem persoonlijk zou willen contacteren, maar hij vraagt eerst om er rekening mee te houden dat dit **niet** de manier is om hem om hulp of ondersteuning te vragen. Hij houdt osu! gescheiden van persoonlijke berichten, en vindt ook dat het erg moeilijk is om alle forum PMs te kunnen beantwoorden. Daarom vraagt hij je om één van deze opties te gebruiken:

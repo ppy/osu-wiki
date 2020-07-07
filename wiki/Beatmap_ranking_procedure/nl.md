@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Beatmap rankingprocedure
 
 [Beatmaps](/wiki/Beatmaps) kunnen gepromoot worden aan de community door de beatmap rankingprocedure te volgen en zo de [Ranked](/wiki/Beatmaps#ranked)-categorie te bereiken.

@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Bancho
 
 **Bancho** kan verwijzen naar:

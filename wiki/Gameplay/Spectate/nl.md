@@ -2,6 +2,7 @@
 tags:
   - spectating
   - spectator
+no_native_review: true
 ---
 
 # Spectaten
