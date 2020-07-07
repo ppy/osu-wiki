@@ -153,7 +153,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here! (110MB)](https://www.dropbox.com/s/6ocxk2bm9w8q49j/MCNC19%20%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
-- ModType
+- Freemod
   - [Jameson Hodge - pn sqnc 518\[6\] (Couil) \[sv sqnc 518\[1\]\]](https://osu.ppy.sh/beatmaps/2037752)
   - [SickStrophe - Pop Up Tha Bass (Cokiiplay) \[Jump\]](https://osu.ppy.sh/beatmaps/1298710)
   - [Fall Out Boy - Thnks Fr Th Mmrs (Razzy) \[Thnks Fr Th Ndls\]](https://osu.ppy.sh/beatmaps/1563668)
@@ -174,7 +174,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here! (82.9MB)](https://www.dropbox.com/s/k752wba6kpyyzt1/MCNC19%20RO16%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
-- ModType
+- Freemod
   - [Frums - Wavetapper (qqqant) \[Stage 1: Memory Factory\]](https://osu.ppy.sh/beatmaps/1811863)
   - [stereoberry - evangelize (blurry images) (Tidek) \[transparency (SV)\]](https://osu.ppy.sh/beatmaps/1222765)
   - [Beltaine - Rockhill (Ryu Sei) \[Hard\]](https://osu.ppy.sh/beatmaps/994291)
