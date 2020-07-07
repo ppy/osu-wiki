@@ -480,7 +480,7 @@ Sunday, 11 August 2019:
 
 | Group | Team 1 |  |  | Team 2 | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| E | 12 jobs a month | 0 | 0 | Team Smead | -nullified- |
+| E | 12 jobs a month | 0 | 0 | Team Smead | *nullified* |
 | C | **No Tryhard** | **5** | 3 | an unlikely alliance | [#1](https://osu.ppy.sh/community/matches/53991507) |
 | H | **bus girls** | **5** | 1 | Chicken Biriyani | [#1](https://osu.ppy.sh/community/matches/53993115) |
 | B | **any ideas** | **0** | -1 | No title | *win by default* |
