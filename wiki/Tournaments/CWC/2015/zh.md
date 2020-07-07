@@ -280,7 +280,7 @@ Sunday, 14\. June 2015
 | :-- | :-: | --: | :-- |
 | ![][flag_KR] **South Korea** | **6** - 2 | China ![][flag_CN] | [#1](https://osu.ppy.sh/community/matches/16799312) |
 
-### 决赛: 第一周
+### 决赛：第一周
 
 Saturday, 6\. June 2015
 
@@ -449,7 +449,7 @@ Sunday, 10\. May 2015
     2.  预选选手有 Catch the Beat 世界排名高于 \#5000 的最低资格要求。
     3.  预选选手的另一资格要求是在过去12个月之内没有违反过任何 osu! [规则](/wiki/Rules)。
 
-3.  想报名的玩家请用「CWC Registration」作为标题, 向 [Loctav](https://osu.ppy.sh/home/messages/users/71366) 发出私信。
+3.  想报名的玩家请用「CWC Registration」作为标题，向 [Loctav](https://osu.ppy.sh/home/messages/users/71366) 发出私信。
     1.  在注册成功的时候，你会收到一个确认信息，确认你的报名已经在审理中。
 
 4.  成功注册的队伍将会在注册阶段结束之后公布出来。
@@ -482,7 +482,7 @@ Sunday, 10\. May 2015
 | 决赛第一周 | O & AB, AC, AD, AE |
 | 决赛第二周 | P, Q |
 
-1.  **胜利条件:**
+1.  **胜利条件：**
     -   小组赛阶段，采用7局4胜制。
     -   16强和1/4决赛，9局5胜制。
     -   半决赛和决赛，11局6胜制。
@@ -513,7 +513,7 @@ Sunday, 10\. May 2015
 1.  小组赛、16强、四分之一决赛、半决赛和决赛分别会有一个图池。
     1.  决赛第一周和第二周使用同一个图池。
 
-2.  每个图池由四个mod的图组组成: NoMod（无mod）、[Hidden](/wiki/Game_Modifiers)、[HardRock](/wiki/Game_Modifiers) 以及 [DoubleTime](/wiki/Game_Modifiers) 。
+2.  每个图池由四个mod的图组组成：NoMod（无mod）、[Hidden](/wiki/Game_Modifiers)、[HardRock](/wiki/Game_Modifiers) 以及 [DoubleTime](/wiki/Game_Modifiers) 。
 3.  每个图池由总共19张图组成。
 4.  每个图池里都有一张决胜 (tiebreaker) 图。
 5.  NoMod图组是在无mod的情况下进行比赛的。

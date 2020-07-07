@@ -36,7 +36,7 @@ osu!tourney 客户端只支持已经提交的谱面。
 5. (重新)启动您的 osu! 客户端，osu!tourney 应该会启动。
    这可能需要一段时间，请耐心等待。
    它将会自动生成 `tournament.cfg` 文件的内容，它将包含以下行：
-   
+
   ```
   TeamSize = 4
   privateserver =
@@ -279,7 +279,7 @@ osu!tourney 只能在主显示器内运行。尝试关闭任何可用的副显�
 
 ### 如何直播我的比赛？
 
-要开始直播, 我们推荐使用 [Open Broadcaster Software](https://obsproject.com/)，但您也可以使用您喜欢的直播软件。
+要开始直播，我们推荐使用 [Open Broadcaster Software](https://obsproject.com/)，但您也可以使用您喜欢的直播软件。
 osu!tourney 顶部的分辨率可以修改，默认是 `1280x720`，请确保您的显示器分辨率大于此值。有关如何更改分辨率的信息，请阅读 **设置** 部分。
 不要忘记裁剪移除黑色控制面板！
 

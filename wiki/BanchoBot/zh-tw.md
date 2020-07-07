@@ -14,9 +14,9 @@ IRC主機 (Chat Server) - BanchoBot [osu! 聊天服務器](/wiki/Internet_Relay_
 
 ### !help (幫助)
 
-- 打開你的聊天控制台(BanchoBot 標籤)。它會告訴你,命令的列表。
-  - 如果您使用任何命令，所有的命令都會顯示在BanchoBot頻道。 （除頻道管理員）
-  - 如果您發送的命令不帶星號（“！”）當您使用/ BanchoBot而在頻道，BanchoBot仍收到同樣命令.
+- 打開你的聊天控制台(BanchoBot 標籤)。它會告訴你，命令的列表。
+  - 如果您使用任何命令，所有的命令都會顯示在BanchoBot頻道。（除頻道管理員）
+  - 如果您發送的命令不帶星號（“！”）當您使用/ BanchoBot而在頻道，BanchoBot仍收到同樣命令。
 - 您不能在非BanchoBot頻道使用星號命令。
 
 #### 基本命令(!COMMAND or /bb COMMAND)

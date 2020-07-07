@@ -97,7 +97,7 @@ outdated: true
 
 ### 审阅
 
-当你创建了 Pull Request 后，其他 osu! wiki 贡献者可能会审阅你的修改，帮助寻找一些你没有注意到的错误。 **你需要及时修正这些错误，** 否则你的 Pull Request 可能会被标记为“关闭”！如果你想要别人审阅你的 Pull Request，你可以在 [osu!dev Discord 频道](https://discord.gg/ppy)中寻求其他人的帮助，或者在 GitHub 的评论中说明。
+当你创建了 Pull Request 后，其他 osu! wiki 贡献者可能会审阅你的修改，帮助寻找一些你没有注意到的错误。**你需要及时修正这些错误**，否则你的 Pull Request 可能会被标记为“关闭”！如果你想要别人审阅你的 Pull Request，你可以在 [osu!dev Discord 频道](https://discord.gg/ppy)中寻求其他人的帮助，或者在 GitHub 的评论中说明。
 
 注：对于中文文章，你可以通过 `@osu-translate-zh` 来寻求 osu!中文翻译组织 的审阅。
 

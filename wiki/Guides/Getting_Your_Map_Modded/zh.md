@@ -1,16 +1,16 @@
 # 如何找 mod
 
-在你的谱面最终 [ranked](/wiki/Beatmaps#ranked) 之前，找 [mod](/wiki/Modding) 是必经之路。当然，如何找 mod ，也有不少方式。
+在你的谱面最终 [ranked](/wiki/Beatmaps#ranked) 之前，找 [mod](/wiki/Modding) 是必经之路。当然，如何找 mod，也有不少方式。
 
 ## \#modreqs 频道
 
-**\#modreqs** 是一个在 osu! 中为找 mod 而设置的一个频道。只需要简单的输入 /np ，然后坐和放宽即可。说不定会有 modder 甚至是 BN 过来mod 你的图。（但 mod 与否取决于对方。）
+**\#modreqs** 是一个在 osu! 中为找 mod 而设置的一个频道。只需要简单的输入 /np，然后坐和放宽即可。说不定会有 modder 甚至是 BN 过来mod 你的图。（但 mod 与否取决于对方。）
 
 [Bancho](/wiki/Glossary) 会截取在该频道中最后发布的 20 个谱面，以便 modder 找图进行 mod：
 
 - 输入 `!request` 命令，BanchoBot 会随机发一个谱面链接给你。
 - 输入 `!request list` 命令，BanchoBot 会发给你最后5个发布的图，并附上链接。
-- 访问 [special map listing](https://osu.ppy.sh/p/beatmaplist&r=8) ，将会将最后发布的20个谱面显示在这里。
+- 访问 [special map listing](https://osu.ppy.sh/p/beatmaplist&r=8)，将会将最后发布的20个谱面显示在这里。
 
 如果你在短时间内连续发布三个以上的图，将会被 bancho 忽略掉。
 

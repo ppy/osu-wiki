@@ -4,9 +4,9 @@ outdated: true
 
 # Beatmapping (中文)
 
-**做图** 就是为osu!制作[谱面](/wiki/Beatmaps)。 谱面制作过程包括选择歌曲、[计时](/wiki/Timing)，放置击打物，以及[皮肤制作和](/wiki/Skinning)[故事板](/wiki/Storyboarding)（可选择）。
+**做图** 就是为osu!制作[谱面](/wiki/Beatmaps)。谱面制作过程包括选择歌曲、[计时](/wiki/Timing)，放置击打物，以及[皮肤制作和](/wiki/Skinning)[故事板](/wiki/Storyboarding)（可选择）。
 
-制图者通常都希望自己做的谱面[上架被其他玩家玩到](/wiki/Beatmaps),而这个需要一个[谱面审核过程](/wiki/Beatmap_ranking_procedure),审核通过上架后这个谱面就会有这个谱面的计分板和线上排名,并且审核通过后将不能再对谱面进行修改
+制图者通常都希望自己做的谱面[上架被其他玩家玩到](/wiki/Beatmaps),而这个需要一个[谱面审核过程](/wiki/Beatmap_ranking_procedure),审核通过上架后这个谱面就会有这个谱面的计分板和线上排名，并且审核通过后将不能再对谱面进行修改
 
 一般来说谱面会有以下几种难度：
 

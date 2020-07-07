@@ -12,7 +12,7 @@ tags:
 > Unite the Diversity between us!
 
 **Asian Taiko Showdown 2018** (***ATS 2018***) 是由 ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) 舉辦，以雙敗淘汰制形式進行的單對單比賽。
-本比賽的前身為 [Indonesian Taiko Showdown (IDTS)](https://osu.ppy.sh/community/forums/topics/576070) ，此為其第二屆比賽，規模由印度尼西亞擴展至亞洲地區。
+本比賽的前身為 [Indonesian Taiko Showdown (IDTS)](https://osu.ppy.sh/community/forums/topics/576070)，此為其第二屆比賽，規模由印度尼西亞擴展至亞洲地區。
 
 ## 比賽賽程表
 
@@ -463,7 +463,7 @@ The Asian Taiko Showdown 2018 由各位 osu!taiko 社群成員營運。
    - 房間相關設定為：osu!taiko，Head to Head，勝利條件為＂Score V2＂。房名必為＂ATS 2018: (藍方) vs (紅方)＂。
    - 房間名字中首先出現的參賽者名稱須為藍組，其次者須為紅組。
 2. 每位參賽者可以自由選擇一張熱身譜面。禁止選擇內容不雅的譜面，或是非太鼓專用之譜面。
-3. 每位參賽者各需禁用 **一張譜面** ，於該場比賽期間不得作為可選譜面。
+3. 每位參賽者各需禁用 **一張譜面**，於該場比賽期間不得作為可選譜面。
 4. 每位參賽者輪流由圖池選擇譜面。
 5. 每位參賽者須在 #multiplayer 使用 「!roll」指令。
    - !roll 值較高者可以首先選擇比賽譜面。

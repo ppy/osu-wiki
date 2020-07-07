@@ -1,6 +1,6 @@
 # 摘要
 
-*主页面: [Game Modifiers](/wiki/Game_Modifiers)*
+*主页面：[Game Modifiers](/wiki/Game_Modifiers)*
 
 *注意：所有的Mods在osu!mania模式不会增加分数加成。*
 

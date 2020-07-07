@@ -86,7 +86,7 @@ Osu!谱面搜索引擎对于关键词采用“或”的关系进行搜索，即�
 
 典型搜索方式：百度/谷歌搜索→A/B站→视频说明中包含niconico链接→转到网页→复制标题、P主。
 
-**例** 搜索Vocaloid歌曲《千本樱》。 通过搜索找到niconico页面，可知歌曲原本标题是“千本桜”，作者是“黒うさP”，使用的歌姬是初音ミク。 因此搜索关键词应该填写：千本桜 senbonzakura 黒うさP kurousa-P 初音ミク hatsune miku [点此查看搜索结果](https://osu.ppy.sh/beatmapsets?q=%E5%8D%83%E6%9C%AC%E6%A1%9C+senbonzakura+%E9%BB%92%E3%81%86%E3%81%95p+kurousa-p+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+hatsune+miku)，可见排位在前面的所有歌曲都是我们想找的。
+**例** 搜索Vocaloid歌曲《千本樱》。通过搜索找到niconico页面，可知歌曲原本标题是“千本桜”，作者是“黒うさP”，使用的歌姬是初音ミク。因此搜索关键词应该填写：千本桜 senbonzakura 黒うさP kurousa-P 初音ミク hatsune miku [点此查看搜索结果](https://osu.ppy.sh/beatmapsets?q=%E5%8D%83%E6%9C%AC%E6%A1%9C+senbonzakura+%E9%BB%92%E3%81%86%E3%81%95p+kurousa-p+%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF+hatsune+miku)，可见排位在前面的所有歌曲都是我们想找的。
 
 ##### 专辑收录歌曲类
 

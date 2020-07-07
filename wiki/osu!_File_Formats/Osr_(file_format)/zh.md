@@ -19,7 +19,7 @@ outdated: true
 
 ## 格式
 
-由于长度可变，字节偏移不包含在此表中。 （原文：Byte offsets are not included in this table due to variable length values. ）
+由于长度可变，字节偏移不包含在此表中。（原文：Byte offsets are not included in this table due to variable length values. ）
 
 | 数据类型 | 描述 |
 | :-- | :-- |

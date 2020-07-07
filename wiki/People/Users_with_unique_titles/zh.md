@@ -119,7 +119,7 @@ osu!remix 大赛将 **osu!mixer** 作为冠军头衔。
 
 拥有 osu! 账户的 [精选艺术家](/wiki/Featured_Artists) 将会授予 **Featured Artist** 头衔来证明他们的存在。
 
-![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) 和 ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) 为 osu! 的声音设计和官方主题曲的早期贡献而被授予 **osu!musician** 头衔。 ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) 成为精选艺术家时他选择保留 **osu!mixer** 来作为自己的头衔。
+![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) 和 ![][flag_AU] [nekodex](https://osu.ppy.sh/users/102) 为 osu! 的声音设计和官方主题曲的早期贡献而被授予 **osu!musician** 头衔。![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) 成为精选艺术家时他选择保留 **osu!mixer** 来作为自己的头衔。
 
 | 用户 | 艺术家 |
 | :-- | :-- |
@@ -173,7 +173,7 @@ osu!team 为社区成员举办了艺术比赛，使他们有机会设计或重�
 | User | Title | Achievement |
 | :-- | :-- | :-- |
 | ![][flag_NO] [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | 在 [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) 上获得了第一个 NoMod FC。 |
-| ![][flag_AU] [Drum Decimator](https://osu.ppy.sh/users/4841352) | Drum Decimator | 截至 2019 年 11 月 3 日， FC 了全部 8841 张 Ranked osu!taiko 谱面。 |
+| ![][flag_AU] [Drum Decimator](https://osu.ppy.sh/users/4841352) | Drum Decimator | 截至 2019 年 11 月 3 日，FC 了全部 8841 张 Ranked osu!taiko 谱面。 |
 | ![][flag_NL] [Shirotora](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | *待补充* |
 | ![][flag_US] [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | 截至 2019 年 4 月 27 日，游玩了全部 Ranked osu!standard 谱面。 |
 | ![][flag_DE] [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) 冠军 |

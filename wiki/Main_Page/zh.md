@@ -30,7 +30,7 @@ no_native_review: true
 
 # [谱面编辑](/wiki/Beatmap_Editor)
 
-栏目: ([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Editor/Design) • [Timing](/wiki/Beatmap_Editor/Timing) • [Song Setup](/wiki/Beatmap_Editor/Song_Setup)) • 组件: ([节拍细分](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [间距控制](/wiki/Beatmap_Editor/Distance_Snap)) • [制图](/wiki/Beatmapping) • [难度](/wiki/Difficulties) • [击打部件](/wiki/Hit_Objects) • [制图技巧](/wiki/Mapping_Techniques) • [制作故事板](/wiki/Storyboarding)
+栏目：([Compose](/wiki/Beatmap_Editor/Compose) • [Design](/wiki/Beatmap_Editor/Design) • [Timing](/wiki/Beatmap_Editor/Timing) • [Song Setup](/wiki/Beatmap_Editor/Song_Setup)) • 组件：([节拍细分](/wiki/Beatmap_Editor/Beat_Snap_Divisor) • [间距控制](/wiki/Beatmap_Editor/Distance_Snap)) • [制图](/wiki/Beatmapping) • [难度](/wiki/Difficulties) • [击打部件](/wiki/Hit_Objects) • [制图技巧](/wiki/Mapping_Techniques) • [制作故事板](/wiki/Storyboarding)
 
 </div>
 <div class="wiki-main-page-panel">

@@ -98,8 +98,8 @@ no_native_review: true
 | ![][flag_DE] [OnosakiHito](https://osu.ppy.sh/users/290128) | 常年担任 BAT/QAT，并在建立 osu!taiko 社区中做出了杰出贡献 |
 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) | 在建立 osu!catch 社区，Ranking Criteria 重写及比赛事务中做出了杰出贡献 |
 | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) | 长期担任 GMT，并在比赛事务和大量的媒体计划中做出了杰出贡献 |
-| ![][flag_US] [Garven](https://osu.ppy.sh/users/244216) | 常年服务于 BAT/QAT ，并在 Ranking Criteria 重写过程中做出巨大贡献 |
-| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | 常年服务于 BAT/QAT ，在 Ranking Criteria 重写过程中做出了许多贡献，在谱面提名方面亦有贡献 |
+| ![][flag_US] [Garven](https://osu.ppy.sh/users/244216) | 常年服务于 BAT/QAT，并在 Ranking Criteria 重写过程中做出巨大贡献 |
+| ![][flag_DE] [Mao](https://osu.ppy.sh/users/2204515) | 常年服务于 BAT/QAT，在 Ranking Criteria 重写过程中做出了许多贡献，在谱面提名方面亦有贡献 |
 | ![][flag_CH] [Irreversible](https://osu.ppy.sh/users/1287964) | 多年服务于 BAT/QAT |
 | ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) | 在世界杯竞赛的数据统计与分析中投入了大量的时间 |
 | ![][flag_GB] [Yazzehh](https://osu.ppy.sh/users/7068973) | 在许多社区比赛中担任裁判，贡献突出 |
@@ -108,7 +108,7 @@ no_native_review: true
 | ![][flag_CA] [DrabWeb](https://osu.ppy.sh/users/6946022) | 对 osu!lazer 计划的杰出贡献 |
 | ![][flag_BY] [EVAST](https://osu.ppy.sh/users/8195163) | 对 osu!lazer 计划的杰出贡献（90多个PR以及上百次commits） |
 | ![][flag_CN] [huoyaoyuan](https://osu.ppy.sh/users/2428732) | 对 osu!lazer 计划的杰出贡献 |
-| ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) | 组织了 osu! ，osu! wiki ，和 osu!lazer 的中文化计划，并做出了突出贡献 |
+| ![][flag_CN] [kj415j45](https://osu.ppy.sh/users/9367540) | 组织了 osu!，osu! wiki，和 osu!lazer 的中文化计划，并做出了突出贡献 |
 | ![][flag_DE] [jorolf](https://osu.ppy.sh/users/7004641) | 对 osu!lazer 计划做出了杰出贡献，并创造了许多媒体工具 |
 | ![][flag_AU] [Syrin](https://osu.ppy.sh/users/5701575) | PerformancePlus 和 osu!chan 的创造者 |
 | ![][flag_SG] [Raveille](https://osu.ppy.sh/users/1388767) | 对 Scorewatch 计划的杰出贡献 |

@@ -1,8 +1,8 @@
 # 注册
 
-*警告: 任何时候拥有一个以上的osu!账户都违反 [osu! 规则](/wiki/Rules)!*
+*警告：任何时候拥有一个以上的osu!账户都违反 [osu! 规则](/wiki/Rules)!*
 
-1. 在 [安装osu!](/wiki/Installation) 并运行之后，osu!将提示你登入或注册。 假如你现在没有账户，请点击 `创建账户`。
+1. 在 [安装osu!](/wiki/Installation) 并运行之后，osu!将提示你登入或注册。假如你现在没有账户，请点击 `创建账户`。
 
    ![游戏内注册界面](img/ingame-registration.jpg "注册表格")
 
