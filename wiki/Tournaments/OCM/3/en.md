@@ -188,15 +188,15 @@ Saturday, 22 February 2020:
 
 | Bracket | Team A |  |  | Team B | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Winner | \[A1\] Obama's Bizarre adventures	| 5	| **6**	| **KRNS \[D2\]** | [#1](https://osu.ppy.sh/community/matches/58637682) |
-| Winner | **\[C1\]	Acelga**	| **6**	| 1	| My blood trail soplica	\[B2\] | [#1](https://osu.ppy.sh/community/matches/58643885) |
+| Winner | \[A1\] Obama's Bizarre adventures | 5 | **6** | **KRNS \[D2\]** | [#1](https://osu.ppy.sh/community/matches/58637682) |
+| Winner | **\[C1\] Acelga** | **6** | 1 | My blood trail soplica \[B2\] | [#1](https://osu.ppy.sh/community/matches/58643885) |
 
 Sunday, 23 February 2020:
 
 | Bracket | Team A |  |  | Team B | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Winner | \[B1\]	Retired Players comeback | 5 | **6** | **Smukur es colombiano	\[C2\]** | [#1](https://osu.ppy.sh/community/matches/58675218) |
-| Winner | **\[D1\]	idk lol**	| **6**	| 2	| QT DOKU	\[A2\] | [#1](https://osu.ppy.sh/community/matches/58673121) |
+| Winner | \[B1\] Retired Players comeback | 5 | **6** | **Smukur es colombiano \[C2\]** | [#1](https://osu.ppy.sh/community/matches/58675218) |
+| Winner | **\[D1\] idk lol** | **6** | 2 | QT DOKU \[A2\] | [#1](https://osu.ppy.sh/community/matches/58673121) |
 
 ### Group Stage
 
@@ -205,34 +205,34 @@ Saturday, 22 February 2020:
 | Group | Team A |  |  | Team B | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
 | D | **KNRS** | **5** | 0 | Bjirr Squad | [#1](https://osu.ppy.sh/community/matches/58461953) |
-| D | Bjirr Squad	| 4	| **5**	| **115** | [Retired at 4 - 1](https://osu.ppy.sh/community/matches/58463519) |
-| C | **Acelga**	| **5** |	2	| Smukur es colombiano | [#1](https://osu.ppy.sh/community/matches/58495679) |
-| A | **Obama's Bizarre adventures**	| **5**	| 1	| Futa Lovers | [#1](https://osu.ppy.sh/community/matches/58465839) |
-| A | **QT DOKU**	| **5**	| 0	| Iaffi | [#1](https://osu.ppy.sh/community/matches/58465846) |
-| C | **Acelga**	| **5** |	4	| IZAYOI XXX is the captain| [#1](https://osu.ppy.sh/community/matches/58469275) |
-| B | wwwww	| 0	| **5**	| **My blood trail soplica** | *win by default* |
-| B | Araganes	| 0	| **5**	| **Retired players comeback** | *win by default* |
-| C | Los Choripondios	| 0	| **5**	| **IZAYOI XXX is the captain** | *win by default* |
-| C | **Smukur es colombiano**	| **5**	| 1	| Los Choripondios | [#1](https://osu.ppy.sh/community/matches/58478035) |
-| A | **Futa Lovers**	| **5**	| 0	| Iaffi | [#1](https://osu.ppy.sh/community/matches/58479615) |
+| D | Bjirr Squad | 4 | **5** | **115** | [Retired at 4 - 1](https://osu.ppy.sh/community/matches/58463519) |
+| C | **Acelga** | **5** | 2 | Smukur es colombiano | [#1](https://osu.ppy.sh/community/matches/58495679) |
+| A | **Obama's Bizarre adventures** | **5** | 1 | Futa Lovers | [#1](https://osu.ppy.sh/community/matches/58465839) |
+| A | **QT DOKU** | **5** | 0 | Iaffi | [#1](https://osu.ppy.sh/community/matches/58465846) |
+| C | **Acelga** | **5** | 4 | IZAYOI XXX is the captain| [#1](https://osu.ppy.sh/community/matches/58469275) |
+| B | wwwww | 0 | **5** | **My blood trail soplica** | *win by default* |
+| B | Araganes | 0 | **5** | **Retired players comeback** | *win by default* |
+| C | Los Choripondios | 0 | **5** | **IZAYOI XXX is the captain** | *win by default* |
+| C | **Smukur es colombiano** | **5** | 1 | Los Choripondios | [#1](https://osu.ppy.sh/community/matches/58478035) |
+| A | **Futa Lovers** | **5** | 0 | Iaffi | [#1](https://osu.ppy.sh/community/matches/58479615) |
 
 Sunday, 16 February 2020:
 
 | Group | Team A |  |  | Team B | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| D | **idk lol** |	**5**	| 3	| Bjirr Squad | [#1](https://osu.ppy.sh/community/matches/58483470) |
-| A | **Obama's Bizarre adventures**	| **5**	| 3	| QT DOKU | [#1](https://osu.ppy.sh/community/matches/58491672) |
-| D | **KNRS**	| **5** |	0	| 115 | [#1](https://osu.ppy.sh/community/matches/58494489) |
-| B | **Retired players comeback**	| **5**	| 1	| My blood trail soplica | [#1](https://osu.ppy.sh/community/matches/58497232) |
-| A | Futa Lovers	| 2	| **5**	| **QT DOKU** | [#1](https://osu.ppy.sh/community/matches/58497075) |
-| A | **Obama's Bizarre adventures**	| **5**	| 0	| Iaffi | *win by default* |
-| B | Araganes	| 1	| **5**	| **My blood trail soplica** | [#1](https://osu.ppy.sh/community/matches/58499947) |
-| B | wwwww	| 0	| **5**	| **Retired players comeback** | [*win by default*](https://osu.ppy.sh/community/matches/58501917) |
-| C | **Smukur es colombiano**	| **5**	| 4	| IZAYOI XXX is the captain | [#1](https://osu.ppy.sh/community/matches/58501030) |
-| D | **idk lol**	| **5**	| 4	| KNRS | [#1](https://osu.ppy.sh/community/matches/58504710) |
-| B | wwwww	| 0	| **5**	| **Araganes** | *win by default* |
-| D | **idk lol**	| **5**	| 1	| 115 | [#1](https://osu.ppy.sh/community/matches/58508633) |
-| C | **Acelga**	| **5**	| 0	| Los Choripondios | *win by default* |
+| D | **idk lol** | **5** | 3 | Bjirr Squad | [#1](https://osu.ppy.sh/community/matches/58483470) |
+| A | **Obama's Bizarre adventures** | **5** | 3 | QT DOKU | [#1](https://osu.ppy.sh/community/matches/58491672) |
+| D | **KNRS** | **5** | 0 | 115 | [#1](https://osu.ppy.sh/community/matches/58494489) |
+| B | **Retired players comeback** | **5** | 1 | My blood trail soplica | [#1](https://osu.ppy.sh/community/matches/58497232) |
+| A | Futa Lovers | 2 | **5** | **QT DOKU** | [#1](https://osu.ppy.sh/community/matches/58497075) |
+| A | **Obama's Bizarre adventures** | **5** | 0 | Iaffi | *win by default* |
+| B | Araganes | 1 | **5** | **My blood trail soplica** | [#1](https://osu.ppy.sh/community/matches/58499947) |
+| B | wwwww | 0 | **5** | **Retired players comeback** | [*win by default*](https://osu.ppy.sh/community/matches/58501917) |
+| C | **Smukur es colombiano** | **5** | 4 | IZAYOI XXX is the captain | [#1](https://osu.ppy.sh/community/matches/58501030) |
+| D | **idk lol** | **5** | 4 | KNRS | [#1](https://osu.ppy.sh/community/matches/58504710) |
+| B | wwwww | 0 | **5** | **Araganes** | *win by default* |
+| D | **idk lol** | **5** | 1 | 115 | [#1](https://osu.ppy.sh/community/matches/58508633) |
+| C | **Acelga** | **5** | 0 | Los Choripondios | *win by default* |
 
 ---
 
