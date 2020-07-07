@@ -46,12 +46,11 @@ The osu! Asia Oceania Tournament 2 is run by various community members.
 
 ## Links
 
-- [Discussion thread](https://osu.ppy.sh/community/forums/topics/919600)
+- [Discussion thread](https://osu.ppy.sh/community/forums/topics/1079231)
 - [o!AOT Discord server](https://discord.gg/mZtHc5M)
 - [Livestream](https://www.twitch.tv/osuaot)
-- **[Statistics sheet](https://docs.google.com/spreadsheets/d/1mN_7WMteQKfBQi4vLbHFMI_g97oYjOnAsrz_TOT3E3w/edit)**
-
----
+- [Challonge brackets](https://challonge.com/oAOT2)
+- **[Statistics sheet](https://docs.google.com/spreadsheets/d/155vE-qSwfc9CVXGoiAeTQXBzxr4jmwBNwOrs7hYHxyI/edit)**
 
 ## Participants
 
