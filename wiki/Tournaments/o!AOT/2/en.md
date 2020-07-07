@@ -27,22 +27,22 @@ The **osu! Asia Oceania Tournament 2** (***o!AOT2***) is an Asian and Oceanian d
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
 ## Organisation
 
-The osu! Asia Oceania Tournament was run by various community members by distributing the multitude of tasks into various fields of responsibility.
+The osu! Asia Oceania Tournament 2 is run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
 | Organiser | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956) |
-| Map Selector | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608), ![][flag_MY] [Sikey](https://osu.ppy.sh/users/343057), ![][flag_MY] [ZheVulture](https://osu.ppy.sh/users/6570008) |
-| Referee | ![][flag_HK] [Cindergoat](https://osu.ppy.sh/users/10168682), ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613), ![][flag_SG] [Heresy](https://osu.ppy.sh/users/8876938), ![][flag_PL] [Houtarou Oreki](https://osu.ppy.sh/users/4185566), ![][flag_PH] [Hues](https://osu.ppy.sh/users/2367206), ![][flag_MY] [Kardshark](https://osu.ppy.sh/users/4724315), ![][flag_TH] [Koiyo](https://osu.ppy.sh/users/11373528), ![][flag_MY] [Kumaxione](https://osu.ppy.sh/users/2582531), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ![][flag_PH] [Kyoren](https://osu.ppy.sh/users/1266303), ![][flag_ID] [LeWind](https://osu.ppy.sh/users/9718235), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_CN] [M1keL](https://osu.ppy.sh/users/10732897), ![][flag_PH] [muffleberry](https://osu.ppy.sh/users/8978259), ![][flag_CN] [MyAngelJackWang](https://osu.ppy.sh/users/3665920), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608), ![][flag_MY] [PurpleSatanWeed](https://osu.ppy.sh/users/6928574), ![][flag_TH] [reset](https://osu.ppy.sh/users/212879), ![][flag_PH] [samosita](https://osu.ppy.sh/users/6090289), ![][flag_ID] [Senritsu](https://osu.ppy.sh/users/1165368), ![][flag_SG] [youi](https://osu.ppy.sh/users/7537133), ![][flag_MY] [ZheVulture](https://osu.ppy.sh/users/6570008) |
-| Streamer | ![][flag_PH] [aEverr](https://osu.ppy.sh/users/6027084), ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613), ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) |
-| Commentator | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_VN] [LMT](https://osu.ppy.sh/users/7262798), ![][flag_PH] [LohaWarpe](https://osu.ppy.sh/users/8560810), ![][flag_AU] [loveleft](https://osu.ppy.sh/users/9240047), ![][flag_SG] [Pencil-kun](https://osu.ppy.sh/users/4662795), ![][flag_ID] [Skydiver](https://osu.ppy.sh/users/4750008) |
-| Designer | ![][flag_ID] [smh](https://osu.ppy.sh/users/1629553), ![][flag_TH] [Trigonoculus](https://osu.ppy.sh/users/7627013) |
-| Statistician | ![][flag_VN] [steve\_04\_](https://osu.ppy.sh/users/10852911) |
-| Wiki Editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
+| Map selector | ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_ID] [Kuro Fuyusaki](https://osu.ppy.sh/users/2667496), ![][flag_VN] [LMT](https://osu.ppy.sh/users/7262798), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608) |
+| Referee | ![][flag_KR] [Cherry bomb](https://osu.ppy.sh/users/11584205), ![][flag_HK] [Cindergoat](https://osu.ppy.sh/users/10168682), ![][flag_ID] [Fayn](https://osu.ppy.sh/users/5390495), ![][flag_HK] [Finley On Cocoa](https://osu.ppy.sh/users/10141298), ![][flag_ID] [Fuma](https://osu.ppy.sh/users/1501956), ![][flag_DE] [GDLenny](https://osu.ppy.sh/users/8406711), ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_CN] [MyAngelJackWang](https://osu.ppy.sh/users/3665920), ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608), ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773), ![][flag_ID] [Remuru](https://osu.ppy.sh/users/3654220), ![][flag_IN] [Speshimen](https://osu.ppy.sh/users/7720204), ![][flag_US] [Suicune3](https://osu.ppy.sh/users/6895187), ![][flag_DE] [TheHunter1](https://osu.ppy.sh/users/6496016), ![][flag_MY] [Xyrelyx](https://osu.ppy.sh/users/3765632) |
+| Streamer | ![][flag_AU] [ill onion](https://osu.ppy.sh/users/8306102), ![][flag_SG] [k\_1tty](https://osu.ppy.sh/users/5407620), ![][flag_SG] [Rtzero](https://osu.ppy.sh/users/9262462), ![][flag_ID] [Victim\_Crasher](https://osu.ppy.sh/users/2084869), ![][flag_TW] [XzCraftP](https://osu.ppy.sh/users/1593180) |
+| Commentator | ![][flag_GR] [JackPaX](https://osu.ppy.sh/users/11226645), ![][flag_SG] [O-Tae](https://osu.ppy.sh/users/13430124), ![][flag_SG] [Rtzero](https://osu.ppy.sh/users/9262462), ![][flag_ID] [sumippe](https://osu.ppy.sh/users/1929336), ![][flag_ID] [xHirayuki](https://osu.ppy.sh/users/3245206) |
+| Designer | ![][flag_ID] [Shiena](https://osu.ppy.sh/users/9823378) |
+| Statistician | ![][flag_ID] [nya10](https://osu.ppy.sh/users/1372608) |
+| Wiki editor | ![][flag_ID] [fajar13k](https://osu.ppy.sh/users/7100002) |
 
 ## Links
 
@@ -537,25 +537,16 @@ This competition has come to an end and resulted in the following podium:
    - The reschedule may only be honored if a referee is able to take it under the host's permission.
 4. If any member of your opponent's team does not respond to your reschedule request within 48 hours, you may notify `@host` to reschedule without your opponent's consent.
 
-[flag_AU]: /wiki/shared/flag/AU.gif
-[flag_CN]: /wiki/shared/flag/CN.gif
-[flag_GE]: /wiki/shared/flag/GE.gif
-[flag_HK]: /wiki/shared/flag/HK.gif
-[flag_ID]: /wiki/shared/flag/ID.gif
-[flag_IL]: /wiki/shared/flag/IL.gif
-[flag_IN]: /wiki/shared/flag/IN.gif
-[flag_JP]: /wiki/shared/flag/JP.gif
-[flag_KR]: /wiki/shared/flag/KR.gif
-[flag_KW]: /wiki/shared/flag/KW.gif
-[flag_KZ]: /wiki/shared/flag/KZ.gif
-[flag_MN]: /wiki/shared/flag/MN.gif
-[flag_MY]: /wiki/shared/flag/MY.gif
-[flag_NZ]: /wiki/shared/flag/NZ.gif
-[flag_PH]: /wiki/shared/flag/PH.gif
-[flag_PL]: /wiki/shared/flag/PL.gif
-[flag_QA]: /wiki/shared/flag/QA.gif
-[flag_SG]: /wiki/shared/flag/SG.gif
-[flag_TH]: /wiki/shared/flag/TH.gif
-[flag_TW]: /wiki/shared/flag/TW.gif
-[flag_US]: /wiki/shared/flag/US.gif
-[flag_VN]: /wiki/shared/flag/VN.gif
+[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
+[flag_CN]: /wiki/shared/flag/CN.gif "China"
+[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
+[flag_GR]: /wiki/shared/flag/GR.gif "Greece"
+[flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
+[flag_ID]: /wiki/shared/flag/ID.gif "Indonesia"
+[flag_IN]: /wiki/shared/flag/IN.gif "India"
+[flag_KR]: /wiki/shared/flag/KR.gif "South Korea"
+[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
+[flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
+[flag_TW]: /wiki/shared/flag/TW.gif "Taiwan"
+[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_VN]: /wiki/shared/flag/VN.gif "Vietnam"
