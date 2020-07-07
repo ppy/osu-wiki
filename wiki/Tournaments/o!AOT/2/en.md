@@ -186,8 +186,7 @@ The osu! Asia Oceania Tournament 2 is run by various community members.
 | #37 | Better | 0 |
 
 - Only the top 32 team can proceed to the Group Stage
-- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1_jdti6hIoQPqpfP5AyYJjPEiGSpL9ObC-y-OcwoTXNw/edit)
-- Points get determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
+- More detailed qualifiers results with how the points are gathered can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1_jdti6hIoQPqpfP5AyYJjPEiGSpL9ObC-y-OcwoTXNw/edit)
 - Team seedings also get determined with their results in Qualifiers:
   - Seed #1 - #8 are Top seed teams.
   - Seed #9 - #16 are High seed teams.
@@ -197,80 +196,74 @@ The osu! Asia Oceania Tournament 2 is run by various community members.
 
 ## Ruleset
 
-### Qualifier Information
+### General rules
 
-1. Scoring will be done by using the following [formula](http://bit.ly/2HNYw7M).
-2. Every map in the qualifier mappool will have to be played once.
-3. Notify `@host` to reschedule your lobby in `#reschedule` that can be found in o!AOT's Discord server using the given format.
-4. Team placement in the qualifiers will determine seedings in group stage as follows:
-   - Seed 1 - 8 will be identified as a **top seed team.**
-   - Seed 9 - 16 will be identified as a **high seed team.**
-   - Seed 17 - 24 will be identified as a **mid seed team.**
-   - Seed 24 - 32 will be identified as a **low seed team.**
-5. Each group in group stage consists of: 1 top seed, 1 high seed, 1 mid seed, and 1 low seed team.
-6. However, for top seed team, their group will be placed as follows:
-   - Seed 1 will be placed in Group A
-   - Seed 2 will be placed in Group H
-   - Seed 3/4 will be placed in Group D/E
-   - Seed 5/6/7/8 will be placed in Group B/C/F/G
-7. A team will have **2 minutes** to switch their roster(s) between each map.
-   - After the given time expires, the referee will start the map.
-8. If a team gets a technical difficulty in the middle of a qualifier map, the following team gets a chance to replay that specific map. (only once per team in the whole qualifier playthrough)
+1. osu! Asia Oceania Tournament 2 is an osu!standard tournament.
+2. The scoring system used will be **ScoreV2** with NoFail bracket selected.
+3. Players will assemble a team between 2 - 4 players and the match format will be a 2v2.
+4. There will be **no rank restrictions**.
+5. Participation is restricted to players with flags from Asian or Oceanian countries.
+   - Follow the [following document](https://puu.sh/FNs5a.txt) for list eligible countries.
+   - If players are able to show proof of residency and citizenship to the host, they may be eligible to register (Contact "Fuma#7895" via Discord for further instructions).
+6. Joining the Discord server is mandatory for all players:
+   - Players may only leave the Discord server if they get eliminated from the tournament.
+   - Failure to do so may result in their registration to get revoked.
+7. **Where rules aren't applicable, common sense shall follow**.
 
-### Match Procedures
+### Match procedures
 
-1. Teams will use `!roll` tournament to determine the order of picking and banning beatmaps.
-2. The team that scores higher will pick the first beatmap to play and second to ban. (start picking after the second ban is mentioned)
-3. The team that scores lower will start banning the map first and picking map to play second.
-4. For Grand Finals, there will be no bracket reset. Instead, the team in winner bracket will be given a choice to win/lose the `!roll`, one point advantage and a free ban. Their pick/ban order can follow the #2 and #3 point of this section.
-5. A team will be given **2 minutes** to pick/ban a map
-6. A team will be given **2 minutes** to change their roster(s).
-7. If the team does not have their pick/ban within the given time, the pick/ban will be randomized by `!roll x` (where x is the amount of maps left, tiebreaker map is excluded).
-8. Disconnection rules (timer counts when the map begins):
-   - First 30 seconds: Rematch the map.
-   - After 30 seconds: No rematch.
-   - If any disconnection happens, the team who has disconnected member should not wait for their member. However in the case there are only 2 members in the said team, both teams should wait until 5 minutes before it is declared a loss to the disconnecting team.
-9. Each team will only be given one chance to rematch in case of a disconnection.
-10. Late tolerance are explained as follows:
-    - Qualifiers Stage: 5 minutes.
-    - Group Stage/KO Stages: 10 minutes.
+1. Pick (P) and Ban (B) order assuming team 1 wins the roll:
+   - Round of 32 and Round of 16: B2 B1 P1 P2 P1 P2 P1 P2 P1 P2 P1 P2 ... TB
+   - Quarterfinals, Semifinals, Finals, and Grand Finals: B2 B1 P1 P2 P1 P2 B2 B1 P1 P2 P1 P2 P1 P2 ... TB
+2. Timers will be given for every action.
+   - Pick/ban phase: 120 seconds, failure to comply will results in a randomised pick/ban.
+   - Ready phase: 120 seconds, failure to comply will results in a force start.
+3. Disconnections may be tolerated depending on the following scenarios.
+   - Within the first **45 seconds**: rematch.
+   - Otherwise: no rematch.
+     - If the affected player is able to provide a valid screenshot to the referee, the score may be counted.
+   - Please notify the referee immediately in case of disconnection/getting stuck in the "waiting for players" screen.
+4. Warmups may only be done **strictly** within the first 10 minutes of the match.
+   - The match will start **10 minutes after** the scheduled time whether warmups are finished or not.
+   - Maximum duration for each team's warmup is **4 minutes**. Make sure to link the warmup map to the referee at least **10 minutes** before the match time.
+5. Lateness will only be tolerated before the set timer runs out. Failure to attend will be counted as a forfeit.
+   - Qualifiers: 5 minutes.
+   - Knockout Stage: **After warmups are done**.
+6. Grand Finals advantage will be given to a team in the winners bracket bracket by giving them a bracket reset if they lose the first Grand Finals match.
 
-### Winning Requirements
+### Qualifiers procedures
 
-1. Failed scores will count.
-2. If a team fail happens, the team that failed will lose the map.
-3. However, for the last two stages, two referees will be present with NF (No Fail) mod, to prevent a team fail.
-4. Group Stage winning conditions (considerations are based on the order below):
-   1. Most matches won.
-   2. Have higher `{(the number of beatmaps won) - (the number of beatmaps defeated)}`
-   3. Most beatmaps won.
-   4. Winner of the match played previously between the tied teams.
-      - In the case of a triple tie happening, follow rule #1 to #3 again for every tied teams.
-   5. If ties still happen:
-      1. Have a higher `∑{(total score difference) / (maximum score)}.`
-      2. Winner of the rematch.
-5. If a team forfeit in a group stage match, it will be counted as 0 - 5 loss, -5.0 score difference.
-6. The top 2 teams of each group will qualify to the knockout stage.
-7. The matchup for Round of 16 and forward will be displayed in the [Challonge bracket provided above.](#links)
+1. Every map from the Qualifiers mappool will be played once, following the order of the mappool sheet.
+2. In case it isn't clear enough, only **2 players** per team are allowed to play each map.
+3. A **120 seconds** timer will commence between each map, failure to comply will result in a force start.
+4. Teams may only be given a chance to replay the map they disconnected on.
+5. Placement on the qualifiers will determine seedings of each team.
+   - Seed #1 - #8 are Top seed teams.
+   - Seed #9 - #16 are High seed teams.
+   - Seed #17 - #24 are Mid seed teams.
+   - Seed #25 - #32 are Low seed teams.
+   - Seed #33 and below teams gets eliminated from the tournament.
+6. Seed placements will determine how the brackets will play out.
+   - Randomised seed #1 - #8 will face randomised seed between seed #25 - #32.
+   - Randomised seed #9 - #16 will face randomised seed between seed #17 - #24.
 
-### Mappool Instructions
+### Mappool information
 
-1. Mappool per round will consist the following format:
-   - Qualifiers Stage: 4 NoMod, 2 Hidden, 2 HardRock, and 2 DoubleTime maps.
-   - Group Stage: 4 NoMod, 2 Hidden, 2 HardRock, 2 DoubleTime, 2 FreeMod, and 1 Tiebreaker maps.
-   - Knockout Stages: 5 NoMod, 3 Hidden, 3 HardRock, 3 DoubleTime, 3 FreeMod, and 1 Tiebreaker maps.
-2. In case of FreeMod, one player from each team are required to put on a mod.
-3. Only one or the combination of either Hidden or HardRock are allowed in FreeMod bracket.
-4. There is no restriction for picking/banning a map from the same modool.
+1. Mappool, bans, and winning conditions for each round will follow the following format:
+   - Qualifiers: 4 NoMod, 2 Hidden, 2 HardRock, 2 DoubleTime
+   - Round of 32 and Round of 16: 5 NoMod, 2 Hidden, 2 HardRock, 3 DoubleTime, 2 FreeMod, 1 Tiebreaker (1 ban, best of 11)
+   - Quarterfinals and Semifinals: 5 NoMod, 3 Hidden, 3 HardRock, 4 DoubleTime, 3 FreeMod, 1 Tiebreaker (2 bans, best of 13)
+   - Finals and Grand Finals: 6 NoMod, 3 Hidden, 3 HardRock, 4 DoubleTime, 3 FreeMod, 1 Tiebreaker (2 bans, best of 15)
+2. For FreeMod bracket, only one player is required to pick one of the following mods/mod combinations between Easy, Hidden, or Hard Rock.
+3. In the Tiebreaker, players are allowed to pick a mod of their choice.
 
-### Scheduling Informations
+### Rescheduling policy
 
-1. Notify `@host` to reschedule your lobby in `#reschedule` that can be found in o!AOT's Discord server using the given format.
-2. Rescheduling may be done prior to Thursday 23:59 UTC.
-3. In case of a late reschedule:
-   - We reserve the rights to decline the reschedule.
-   - The reschedule may only be honored if a referee is able to take it under the host's permission.
-4. If any member of your opponent's team does not respond to your reschedule request within 48 hours, you may notify `@host` to reschedule without your opponent's consent.
+1. Reschedules must be posted on the `#reschedule` text channel in the o!AOT Discord server using the provided format.
+2. Reschedules are allowed if done 24 hours before that team's match time. In case of late reschedules:
+   - Contact the referee responsible for the match.
+   - If no other referee is available, we reserve the right to decline the reschedule.
+3. If the opposing team does not reply within 48 hours since the first request, a new match time may be proposed.
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
