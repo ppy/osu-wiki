@@ -22,7 +22,6 @@ The **osu! Cup Master 3: osu!catch edition** (***OCM3***) is a a two-on-two team
 | Finals | 2020-03-07 / 2020-03-08 |
 | Grand Finals | 2020-03-14 / 2020-03-15 |
 
-
 ## Prizes
 
 | Placing | Prize(s) |
@@ -41,8 +40,8 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
 | :-: | :-- |
 | Host | ![][flag_PA] [Jafett](https://osu.ppy.sh/users/2317102), ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156) |
 | Manager | ![][flag_CL] [Metak](https://osu.ppy.sh/users/2861255) |
-| Map Selector | ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156), ![][flag_MX] [firu](https://osu.ppy.sh/users/10516547) , ![][flag_CL] [lineqtxz](https://osu.ppy.sh/users/989542)|
-| Commentator | ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166), ![][flag_CL] [lechuguin](https://osu.ppy.sh/users/2872000), ![][flag_LU] [Gae](https://osu.ppy.sh/users/7787785), ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613)|
+| Map Selector | ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156), ![][flag_MX] [firu](https://osu.ppy.sh/users/10516547) , ![][flag_CL] [lineqtxz](https://osu.ppy.sh/users/989542) |
+| Commentator | ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166), ![][flag_CL] [lechuguin](https://osu.ppy.sh/users/2872000), ![][flag_LU] [Gae](https://osu.ppy.sh/users/7787785), ![][flag_ID] [dika312](https://osu.ppy.sh/users/741613) |
 | Referee | ![][flag_CL] [Hinoshi](https://osu.ppy.sh/users/9200197), ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904), ![][flag_CL] [Danilo](https://osu.ppy.sh/users/1350613), ![][flag_CL] [Metak](https://osu.ppy.sh/users/2861255), ![][flag_UY] [Neimex23](https://osu.ppy.sh/users/7293703), ![][flag_GB] [StartAndSelect](https://osu.ppy.sh/users/8720555/osu), ![][flag_PA] [Jafett](https://osu.ppy.sh/users/2317102) |
 | Designer | ![][flag_MX] [ShadowMerry](https://osu.ppy.sh/users/3104864) |
 | Streamer | ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156), ![][flag_LU] [Gae](https://osu.ppy.sh/users/7787785) |
@@ -67,7 +66,7 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
 | ![](img/teams/bjirrsquad.png) | Bjirr Squad | ![][flag_ID] [Chiya--](https://osu.ppy.sh/users/7934854), ![][flag_ID] [ZYX_GAME](https://osu.ppy.sh/users/3770612), ![][flag_ID] [Zephirine](https://osu.ppy.sh/users/9629190) |
 | ![](img/teams/iaffi.png) | Iaffi | ![][flag_CL] [Lyna Paulina](https://osu.ppy.sh/users/10434422), ![][flag_HN] [- AnGel](https://osu.ppy.sh/users/12931440), ![][flag_HN] [[-Cris-]](https://osu.ppy.sh/users/14599677) |
 | ![](img/teams/wwwww.png) | wwwww | ![][flag_AR] [-Story-](https://osu.ppy.sh/users/8172283), ![][flag_AU] [Beerus](https://osu.ppy.sh/users/5529199), ![][flag_GB] [Matt_H](https://osu.ppy.sh/users/4067115) |
-| ![](img/teams/krns.png) | KNRS | ![][flag_FR] [Noctalium](https://osu.ppy.sh/users/6488167), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Shyeart](https://osu.ppy.sh/users/2022144), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166)|
+| ![](img/teams/krns.png) | KNRS | ![][flag_FR] [Noctalium](https://osu.ppy.sh/users/6488167), ![][flag_FR] [Kasumii-sama](https://osu.ppy.sh/users/6177263), ![][flag_FR] [Shyeart](https://osu.ppy.sh/users/2022144), ![][flag_FR] [Rougoku](https://osu.ppy.sh/users/6900166) |
 | ![](img/teams/futalovers.png) | Futa Lovers | ![][flag_BR] [BeyondArea](https://osu.ppy.sh/users/8642224), ![][flag_BR] [S a y u n](https://osu.ppy.sh/users/3770603), ![][flag_BR] [Endou-](https://osu.ppy.sh/users/10792711), ![][flag_BR] [Hanik](https://osu.ppy.sh/users/4533507) |
 | ![](img/teams/smukur.png) | Smukur es colombiano | ![][flag_CO] [Titan-](https://osu.ppy.sh/users/7855767), ![][flag_CO] [Zyonii](https://osu.ppy.sh/users/9519851), ![][flag_MX] [Cxlucha](https://osu.ppy.sh/users/5063961), ![][flag_PE] [-Boltic-](https://osu.ppy.sh/users/5297904) |
 | ![](img/teams/izayoi.png) | IZAYOI XXX is the captain | ![][flag_TW] [Timewasdeapsea](https://osu.ppy.sh/users/8682905), ![][flag_TW] [IZAYOI XXX](https://osu.ppy.sh/users/3538446), ![][flag_TW] [Psc_IceRain](https://osu.ppy.sh/users/3359485), ![][flag_TW] [qq11123334](https://osu.ppy.sh/users/11807319) |
@@ -180,6 +179,7 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
   - **[Underveil allstars - Underveil is real!!!.. and we are under.. (Chara) \[*Together as one, we stay determined!\]](https://osu.ppy.sh/beatmapsets/636920#fruits/1351241)**
 
 ---
+
 ## Match results
 
 ### Quarterfinals
@@ -209,7 +209,7 @@ Saturday, 22 February 2020:
 | C | **Acelga** | **5** | 2 | Smukur es colombiano | [#1](https://osu.ppy.sh/community/matches/58495679) |
 | A | **Obama's Bizarre adventures** | **5** | 1 | Futa Lovers | [#1](https://osu.ppy.sh/community/matches/58465839) |
 | A | **QT DOKU** | **5** | 0 | Iaffi | [#1](https://osu.ppy.sh/community/matches/58465846) |
-| C | **Acelga** | **5** | 4 | IZAYOI XXX is the captain| [#1](https://osu.ppy.sh/community/matches/58469275) |
+| C | **Acelga** | **5** | 4 | IZAYOI XXX is the captain | [#1](https://osu.ppy.sh/community/matches/58469275) |
 | B | wwwww | 0 | **5** | **My blood trail soplica** | *win by default* |
 | B | Araganes | 0 | **5** | **Retired players comeback** | *win by default* |
 | C | Los Choripondios | 0 | **5** | **IZAYOI XXX is the captain** | *win by default* |
@@ -326,7 +326,6 @@ will be Low Seed, to end the Unseed teams.
 [flag_AU]: /wiki/shared/flag/AU.gif
 [flag_FR]: /wiki/shared/flag/FR.gif
 [flag_BR]: /wiki/shared/flag/BR.gif
-[flag_CO]: /wiki/shared/flag/CO.gif
 [flag_TW]: /wiki/shared/flag/TW.gif
 [flag_HK]: /wiki/shared/flag/HK.gif
 [flag_RU]: /wiki/shared/flag/RU.gif
@@ -335,6 +334,3 @@ will be Low Seed, to end the Unseed teams.
 [flag_FI]: /wiki/shared/flag/FI.gif
 [flag_LU]: /wiki/shared/flag/LU.gif
 [flag_CO]: /wiki/shared/flag/CO.gif
-[flag_FR]: /wiki/shared/flag/FR.gif
-[GCrown]: /wiki/shared/GCrown.png
-[SCrown]: /wiki/shared/SCrown.png
