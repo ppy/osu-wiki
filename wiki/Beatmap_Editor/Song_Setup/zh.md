@@ -14,21 +14,21 @@ outdated: true
 
 ![难度设定选项卡](img/SS_Difficulty.jpg "难度设定选项卡")
 
-并非所有歌曲都需要在“Source”字段中填写内容。Source只需在歌曲“来源于”某些作品（如游戏、动画的主题曲或原声等）时才需要填写。通常的摇滚和流行歌曲可以直接将此项留空。
+并非所有歌曲都需要在 “Source” 字段中填写内容。Source 只需在歌曲“来源于”某些作品（如游戏、动画的主题曲或原声等）时才需要填写。通常的摇滚和流行歌曲可以直接将此项留空。
 
-在“Tags”字段中可以选择填写专辑名，也可选填特定的曲风等信息。
+在 “Tags” 字段中可以选择填写专辑名，也可选填特定的曲风等信息。
 
 在创建第一个难度时，就应当将这些信息填好，确保所有难度的这些信息一致。
 
-- **Artist**：**主唱乐队、歌手或创作此歌曲的艺术家。** osu!会自动从mp3文件中读取艺术家信息，但请检查一下以确保它们拼写正确。**动漫/游戏的标题或制作者不应填写在此（而应填入Tags中）。** 一般来说，可以在维基百科或其他可信来源（比如[AnimeNewsNetwork](https://www.animenewsnetwork.com/) 或 [MyAnimeList](https://myanimelist.net/)）中找到动漫/游戏歌曲的作者。非英文姓名应当按照与维基百科上表示顺序相同的方法来书写。
-- **Romanised Artist**：**罗马音（英文）化的Artist拼写。** 一般按照维基百科上的名字顺序书写。仅当你在“Artist”字段中使用了非英文信息时才需要填写。
-- **Title**：**歌曲标题。** osu!会自动从mp3文件中读取标题，但请检查一下以确保它们拼写正确，特别是对于从网上获取的mp3文件。
-- **Romanised Title**：**罗马音（英文）化的Title拼写。** 同样，仅当你在“Title”字段中使用了非英文信息时才需要填写。
-- **Beatmap Creator**：**就是你。** osu!会自动处理此项，所以你无需编辑。如果你使用了其他人制作的[guest difficulty](/wiki/Glossary)，那么应当在下面的字段中填写，而不是这里。
-- **Difficulty**：**该谱面难度名称。** 下拉列表中包含预设的几个名称：Easy, Normal, Hard, Insane。你可以选择其中之一，或者使用自定义难度名。在难度名上有新意是不错的选择，但确保玩家能够清楚地理解各个难度的确切难度。如果你邀请了其他mapper创作难度，也可以在此体现（比如 "Larto's Hard"）。
+- **Artist**：**主唱乐队、歌手或创作此歌曲的艺术家。** osu! 会自动从 mp3 文件中读取艺术家信息，但请检查一下以确保它们拼写正确。**动漫/游戏的标题或制作者不应填写在此（而应填入 Tags 中）。** 一般来说，可以在维基百科或其他可信来源（比如[AnimeNewsNetwork](https://www.animenewsnetwork.com/) 或 [MyAnimeList](https://myanimelist.net/)）中找到动漫/游戏歌曲的作者。非英文姓名应当按照与维基百科上表示顺序相同的方法来书写。
+- **Romanised Artist**：**罗马音（英文）化的 Artist 拼写。** 一般按照维基百科上的名字顺序书写。仅当你在“Artist”字段中使用了非英文信息时才需要填写。
+- **Title**：**歌曲标题。** osu! 会自动从 mp3 文件中读取标题，但请检查一下以确保它们拼写正确，特别是对于从网上获取的 mp3 文件。
+- **Romanised Title**：**罗马音（英文）化的 Title 拼写。** 同样，仅当你在 “Title” 字段中使用了非英文信息时才需要填写。
+- **Beatmap Creator**：**就是你。** osu! 会自动处理此项，所以你无需编辑。如果你使用了其他人制作的[guest difficulty](/wiki/Glossary)，那么应当在下面的字段中填写，而不是这里。
+- **Difficulty**：**该谱面难度名称。** 下拉列表中包含预设的几个名称：Easy, Normal, Hard, Insane。你可以选择其中之一，或者使用自定义难度名。在难度名上有新意是不错的选择，但确保玩家能够清楚地理解各个难度的确切难度。如果你邀请了其他 mapper 创作难度，也可以在此体现（比如 "Larto's Hard"）。
 - **Source**：**歌曲的来源。** 这个字段仅用于动漫/游戏歌曲中，有时也用于其他作品（电影、电视、网络）的歌曲当中。如果歌曲来源于某个动漫或游戏，或知名电影/电视节目，就填写这些内容。摇滚和流行歌曲应当留空此项。**这里并不用于填写专辑名等信息。**
-- **Tags**：**用于搜索的关键词。** 通常包含专辑名、guest difficulty的制作者、游戏制作者以及其他搜索此歌曲时可以填入的关键词等。如果谱面包含合作部分，合作者的名字也应填写在此。Tags的各项使用空格分隔。这并非强制的，但对于搜索歌曲大有帮助。
-  - 注：如果你的谱面中的Tas包含了"qwertyuiop"，那么在游戏中输入"qwertyuiop"即可找到此谱面。
+- **Tags**：**用于搜索的关键词。** 通常包含专辑名、guest difficulty 的制作者、游戏制作者以及其他搜索此歌曲时可以填入的关键词等。如果谱面包含合作部分，合作者的名字也应填写在此。Tags 的各项使用空格分隔。这并非强制的，但对于搜索歌曲大有帮助。
+  - 注：如果你的谱面中的 Tas 包含了 "qwertyuiop"，那么在游戏中输入 "qwertyuiop" 即可找到此谱面。
 
 再次说明，请确保以上信息（除了难度名）在每个难度中都保持相同。
 
@@ -40,9 +40,9 @@ outdated: true
 
 在编辑模式的歌曲选择界面中显示为"**HP**"。
 
-掉血率，除了在[休息时段外保持恒定](/wiki/Glossary)。miss会导致更多的扣血，通过[得分和转盘可以回血](/wiki/Score)。通过一组物件末尾的[“激”和“喝”可以回复更多血量](/wiki/Score)。
+掉血率，除了在[休息时段外保持恒定](/wiki/Glossary)。miss 会导致更多的扣血，通过[得分和转盘可以回血](/wiki/Score)。通过一组物件末尾的[“激”和“喝”可以回复更多血量](/wiki/Score)。
 
-### Note大小设定(Circle Size)
+### Note 大小设定(Circle Size)
 
 在编辑模式的歌曲选择界面中显示为"**CS**"。
 
@@ -50,59 +50,59 @@ outdated: true
 
 这一项决定圆圈和滑条的大小，取值从3到7，越小表示圆圈越大。小圈通过要求更精确的移动使得谱面难度增加。
 
-大部分的谱面使用CS3、4、5。6有时会用到，而7基本上不会被用到（大小基本上与光标大小相当）。CS7可能通过打开[Hard Rock](/wiki/Game_Modifiers) mod见到。这里有[使用CS3, 5, 6, 7](https://osu.ppy.sh/beatmapsets/2008) 和 [使用0, 1, 3, 4](https://osu.ppy.sh/beatmapsets/1208)的例子。
+大部分的谱面使用 CS3、4、5。但 6 有时会用到，而 7 基本上不会被用到（大小基本上与光标大小相当）。CS7 可能通过打开[Hard Rock](/wiki/Game_Modifiers) mod 见到。这里有[使用 CS3, 5, 6, 7](https://osu.ppy.sh/beatmapsets/2008) 和 [使用 0, 1, 3, 4](https://osu.ppy.sh/beatmapsets/1208)的例子。
 
-可以通过手动编辑`.osu`文件更改CS为0-10之间的数值，但使用3-7之外的值的图被认为是unrankable的。
+可以通过手动编辑 `.osu` 文件更改 CS 为 0-10 之间的数值，但使用 3-7 之外的值的图被认为是 unrankable 的。
 
 ### 缩圈时间(Approach Rate)
 
-![AR细节总表](/wiki/shared/ARTable.jpg "AR细节总表")
+![AR 细节总表](/wiki/shared/ARTable.jpg "AR 细节总表")
 
 在编辑模式的歌曲选择界面中显示为"**AR**"。
 
 #### 基本定义(General)
 
-Approach Rate是用来表示物件在屏幕上停留时间（从出现到点击它的正确时刻）的数值。高AR意味着物件在屏幕上停留的时间变得更少，使得玩家需要更的时间对出现的物件作出反应。反之，低AR意味着物件在屏幕上的停留时间变长，给玩家更多的时间作出反应，但会导致同时出现在屏幕上的物件增多，从而使得谱面很难读。
+Approach Rate 是用来表示物件在屏幕上停留时间（从出现到点击它的正确时刻）的数值。高 AR 意味着物件在屏幕上停留的时间变得更少，使得玩家需要更的时间对出现的物件作出反应。反之，低 AR 意味着物件在屏幕上的停留时间变长，给玩家更多的时间作出反应，但会导致同时出现在屏幕上的物件增多，从而使得谱面很难读。
 
-Approach Rate通常缩写为"**AR**"。
+Approach Rate 通常缩写为"**AR**"。
 
-每张谱面的AR设定范围是AR0到AR10。有四个mod可以更改AR，它们是：
+每张谱面的 AR 设定范围是 AR0 到 AR10。有四个 mod 可以更改 AR，它们是：
 
-- [Hard Rock](/wiki/Game_Modifiers)：AR增加40%，最多增加到AR10。
-- [Double Time](/wiki/Game_Modifiers)：AR变快50%，与HR的AR增长不同，它是以毫秒计时增长的，最多增加到AR11。
-- [Easy](/wiki/Game_Modifiers)：AR减半。
-- [Half Time](/wiki/Game_Modifiers)：AR降低33%，以毫秒计时，可以低于0。
+- [Hard Rock](/wiki/Game_Modifiers)：AR 增加40%，最多增加到 AR10。
+- [Double Time](/wiki/Game_Modifiers)：AR 变快50%，与 HR 的 AR 增长不同，它是以毫秒计时增长的，最多增加到 AR11。
+- [Easy](/wiki/Game_Modifiers)：AR 减半。
+- [Half Time](/wiki/Game_Modifiers)：AR 降低33%，以毫秒计时，可以低于0。
 
 #### 技术细节(Technical)
 
-从AR0到AR5，AR的收缩时间以120ms为步长线性增长，从AR5到AR10则为150ms。
+从 AR0 到 AR5，AR 的收缩时间以 120ms 为步长线性增长，从 AR5 到 AR10 则为 150ms。
 
-这里给出AR数值与收缩时间对应的完整表格（包括开启mod的情况）。其中ms为毫秒（1s=1000ms），用来表示物件停留在屏幕上的时间。
+这里给出 AR 数值与收缩时间对应的完整表格（包括开启 mod 的情况）。其中 ms 为毫秒（1s=1000ms），用来表示物件停留在屏幕上的时间。
 
-需要注意的是，AR10以上仅能通过使用DoubleTime来得到，AR0以下仅能通过HalfTime来得到，其中所有分数表示的AR可以通过组合mod来得到。
+需要注意的是，AR10以上仅能通过使用 DoubleTime 来得到，AR0以下仅能通过 HalfTime 来得到，其中所有分数表示的 AR 可以通过组合 mod 来得到。
 
 ### 判定标准(Overall Difficulty)
 
-在编辑模式的歌曲选择界面中显示为"**OD**"，而在谱面信息页中显示为"**Accuracy**"。
+在编辑模式的歌曲选择界面中显示为 "**OD**"，而在谱面信息页中显示为 "**Accuracy**"。
 
 #### 基本定义(General)
 
-判定标准是0到10之间的数值，表示取得高准确度的难度。由于准确度对于回复生命值至关重要，因此OD决定了pass图的难度。高OD意味着击中和取得300的判定区间都会变得更小，同时转盘也必须转得更快才能填满能量条。部分情况下，提高OD会使原来能完成的转盘变得不可完成。
+判定标准是0到10之间的数值，表示取得高准确度的难度。由于准确度对于回复生命值至关重要，因此 OD 决定了 pass 图的难度。高 OD 意味着击中和取得300的判定区间都会变得更小，同时转盘也必须转得更快才能填满能量条。部分情况下，提高 OD 会使原来能完成的转盘变得不可完成。
 
 #### 技术细节(Technical)
 
-无mod情况下，得到300评分的判定窗口从OD0的79.5ms到OD10的19.5ms间变化。
+无 mod 情况下，得到300评分的判定窗口从 OD0 的 79.5ms 到 OD10 的 19.5ms 间变化。
 
-与AR类似，同样是下列四个mod会对OD产生影响：
+与 AR 类似，同样是下列四个 mod 会对 OD 产生影响：
 
-- [Easy](/wiki/Game_Modifiers)：OD折半。
-- [Hard Rock](/wiki/Game_Modifiers)：OD值乘1.4，最大增长到OD10。
-- [Double Time](/wiki/Game_Modifiers)：增长OD值使得判定区间缩短33%。
-- [Half Time](/wiki/Game_Modifiers)：降低OD值使得判定区间增长50%。
+- [Easy](/wiki/Game_Modifiers)：OD 折半。
+- [Hard Rock](/wiki/Game_Modifiers)：OD 值乘1.4，最大增长到 OD10。
+- [Double Time](/wiki/Game_Modifiers)：增长 OD 值使得判定区间缩短33%。
+- [Half Time](/wiki/Game_Modifiers)：降低 OD 值使得判定区间增长50%。
 
-![OD细节总表](img/ODTable.png "OD细节总表")
+![OD 细节总表](img/ODTable.png "OD 细节总表")
 
-**注意：** osu! 的判定系统不允许[圆圈在其前一个物件被击打前或其判定时间结束](/wiki/Hit_Objects)（即miss该物件）前被击中。在低OD的情况下，一个圆圈的判定时间可能与其他物件重叠，因此你可能在完全正确的时间击打某个物件而由于其前面的物件判定时间未结束而导致miss。
+**注意：** osu! 的判定系统不允许[圆圈在其前一个物件被击打前或其判定时间结束](/wiki/Hit_Objects)（即 miss 该物件）前被击中。在低 OD 的情况下，一个圆圈的判定时间可能与其他物件重叠，因此你可能在完全正确的时间击打某个物件而由于其前面的物件判定时间未结束而导致 miss。
 
 ### 星数评价(Approximate Difficulty Rating)
 
@@ -120,15 +120,15 @@ Approach Rate通常缩写为"**AR**"。
 
 #### 音效选择(Sample Set Selection)
 
-你可以在这里设定适合谱面osu!自带的音效，Normal 或 Soft 或 Drum.你也可以选择开启自定义音效([自定义音效对应表](/wiki/Custom_Sample_Overrides),必须先把音效文件放在谱面所在文件夹).
+你可以在这里设定适合谱面 osu! 自带的音效，Normal 或 Soft 或 Drum.你也可以选择开启自定义音效([自定义音效对应表](/wiki/Custom_Sample_Overrides),必须先把音效文件放在谱面所在文件夹).
 
 #### 音效音量大小(Sample Set Volume)
 
-这里你可以设定音效的音量大小。在适合的时候设定适合的音效音量大小是非常重要的，(特别是osu!模式和osu!mania模式), 有时候你需要很高的音效音量大小来体现你谱面的节拍，有时候并不需要。
+这里你可以设定音效的音量大小。在适合的时候设定适合的音效音量大小是非常重要的，(特别是 osu! 模式和 osu!mania 模式), 有时候你需要很高的音效音量大小来体现你谱面的节拍，有时候并不需要。
 
 #### 测试音效设定(Test Sample Set)
 
-点击不同的按钮可以让编辑器发出不同的音效声音来测试。这些音效一般都是叠加的，比如说Whistle就是Normal音效和Whistle音效的叠加(就是同时播放)
+点击不同的按钮可以让编辑器发出不同的音效声音来测试。这些音效一般都是叠加的，比如说 Whistle 就是 Normal 音效和 Whistle 音效的叠加(就是同时播放)
 
 ## 谱面相关颜色设定(Colors)
 
@@ -136,32 +136,32 @@ Approach Rate通常缩写为"**AR**"。
 
 ### 物件颜色(Hitcircle/Slider Combos)
 
-这些选项可以直接规定某一串combo的颜色。对于一个谱面来说，combo的颜色是很重要的，一个铺面由很多滑条和圆圈组成，合适的颜色配置能提升谱面的视觉效果。在页面上点击一个Combo将会打开你电脑上的取色板，然后你就可以选择对应的颜色了，记住这个颜色要适合和你的背景图像。你最多可以选择8个自定义颜色。点击“Remove Combo Color”会移除最后一个自定义颜色。
+这些选项可以直接规定某一串 combo 的颜色。对于一个谱面来说，combo 的颜色是很重要的，一个铺面由很多滑条和圆圈组成，合适的颜色配置能提升谱面的视觉效果。在页面上点击一个 Combo 将会打开你电脑上的取色板，然后你就可以选择对应的颜色了，记住这个颜色要适合和你的背景图像。你最多可以选择8个自定义颜色。点击 “Remove Combo Color” 会移除最后一个自定义颜色。
 
 ### 谱面背景色(Playfield Background)
 
-这里可以给谱面分配一个背景色。这里一直很有争议，因为一个没有背景图像(Background)的谱面是不能被rank的。但是如果有了背景图像，这个设定的效果又会被背景图像覆盖掉，除非你使用storyboard切换背景图像是否可见。
+这里可以给谱面分配一个背景色。这里一直很有争议，因为一个没有背景图像(Background)的谱面是不能被 rank 的。但是如果有了背景图像，这个设定的效果又会被背景图像覆盖掉，除非你使用 storyboard 切换背景图像是否可见。
 
 ## 外观设计设定(Design)
 
 ![Design section](img/SS_Design.jpg "Design section")
 
- 这个选项卡(Design)中的设定，允许你设定关于你的storyboard和谱面的一些可视元素。
+ 这个选项卡(Design)中的设定，允许你设定关于你的 storyboard 和谱面的一些可视元素。
 
 ### 倒计时(Countdown)
 
-启用一个类似于 元素少女武斗祭(EBA) 和 应援团(Ouendan) 的倒计时。
+启用一个类似于 元素少女武斗祭（EBA）和 应援团（Ouendan）的倒计时。
 
-你可以更改倒计时的速度和出现倒计时的时刻(Offset).
+你可以更改倒计时的速度和出现倒计时的时刻(Offset)。
 
 ### 杂项设定(Misc.Toggles)
 
 - Widescreen Support
   - 加对宽屏的支持
 - Display storyboard in front of combo file
-  - 将storyboard显示于连击火焰(Combo Fire)的上面
+  - 将 storyboard 显示于连击火焰(Combo Fire)的上面
 - Display epilespy warning(Storyboard has quick strobing)
-  - 在开始前提示Storyboard会有令人不适的闪烁
+  - 在开始前提示 Storyboard 会有令人不适的闪烁
 - Letterbox during breaks
   - 在休息的时候用黑色边框将背景图像围起来。
 

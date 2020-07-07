@@ -2,7 +2,7 @@
 
 ![OWC 2015 logo](img/logo.jpg)
 
-**osu! World Cup 2015** (***OWC 2015*** )是一个[Tournament Management](https://osu.ppy.sh/groups/26)主办的以国家为单位的osu!比赛。这是第六次举办 osu! World Cup。
+**osu! World Cup 2015** (***OWC 2015*** )是一个[Tournament Management](https://osu.ppy.sh/groups/26)主办的以国家为单位的 osu! 比赛。这是第六次举办 osu! World Cup。
 
 ## 比赛日程
 
@@ -19,13 +19,13 @@
 
 ## 奖项
 
-我们有最少$5000现金的奖池给这次世界杯。你可以通过 **[购买Banner](https://osu.ppy.sh/store/products/38)** 来支持它。
+我们有最少$5000现金的奖池给这次世界杯。你可以通过 **[购买 Banner](https://osu.ppy.sh/store/products/38)** 来支持它。
 
 | Placing | Prizes |
 | :-- | :-- |
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 50% 奖池，profile badge, "osu! Champion" 用户标题 |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 38% 奖池，profile badge |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 12% 奖池l, profile badge |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 12% 奖池, profile badge |
 
 ## 比赛组织
 

@@ -69,7 +69,7 @@
 
 #### 需要整理帮助的文章
 
-将 `needs_cleanup` 标记添加到需要重写或格式化帮助的文章中。为此，也可以在GitHub上发布问题（issue）。
+将 `needs_cleanup` 标记添加到需要重写或格式化帮助的文章中。为此，也可以在 GitHub 上发布问题（issue）。
 
 例如：
 
@@ -501,7 +501,7 @@ JPG（或 JPEG）文件格式具有 `.jpg`（或 `.jpeg`）扩展名。
 
 ##### 其他 osu! 网页
 
-链接到其他 osu! 网页时，应使用浏览器地址栏中的URL。网址中的 `https://osu.ppy.sh` 部分必须保留。
+链接到其他 osu! 网页时，应使用浏览器地址栏中的 URL。网址中的 `https://osu.ppy.sh` 部分必须保留。
 
 ##### 个人资料
 
@@ -751,7 +751,7 @@ The `#spanish` chat channel is for those who speak Spanish.
 专有名词必须首字母大写。例如：
 
 ```markdown
-Dean Herbert（也就是 peppy）在2007年创造了osu。
+Dean Herbert（也就是 peppy）在 2007 年创造了 osu!。
 ```
 
 #### 商标

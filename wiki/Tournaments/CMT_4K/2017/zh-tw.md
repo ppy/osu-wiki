@@ -34,7 +34,7 @@
 | 圖池管理團隊 | ![][UK] [Imperial Wolf](https://osu.ppy.sh/users/9080296)、![][TW] [Spy](https://osu.ppy.sh/users/1217122)、![][CN] [hans1999](https://osu.ppy.sh/users/6679329) |
 | 直播裁判團隊 | ![][CN] [aiyulu](https://osu.ppy.sh/users/189617)、![][CN] [Rasis](https://osu.ppy.sh/users/1209363)、![][CN] [Ookura Asahi](https://osu.ppy.sh/users/4786951) |
 | 解說團隊 | ![][CN] [hans1999](https://osu.ppy.sh/users/6679329)、![][CN] [Scslag](https://osu.ppy.sh/users/6705256)、![][CN] [Rasis](https://osu.ppy.sh/users/1209363)、![][CN] [644520858](https://osu.ppy.sh/users/5507069)、![][CN] [wuhuanmin](https://osu.ppy.sh/users/935322) |
-| Wiki制作、維護 | ![][CN] [kj415j45](https://osu.ppy.sh/users/kj415j45)、 ![][CN] [Ookura Asahi](https://osu.ppy.sh/users/4786951) |
+| Wiki 制作、維護 | ![][CN] [kj415j45](https://osu.ppy.sh/users/kj415j45)、 ![][CN] [Ookura Asahi](https://osu.ppy.sh/users/4786951) |
 
 ## 比賽直播間
 
@@ -308,7 +308,7 @@ TB:
 
 ### 賽事規則
 
-1. **2017年華人 osu!mania 4K 大賽**（以下均簡寫為**CMT 4K 2017**）為華人區個人比賽，是由CMT團隊舉辦的第二屆華人 osu!mania 4K 大賽。比賽所用地圖均為 osu!mania 4K 專用譜。
+1. **2017年華人 osu!mania 4K 大賽**（以下均簡寫為**CMT 4K 2017**）為華人區個人比賽，是由 CMT 團隊舉辦的第二屆華人 osu!mania 4K 大賽。比賽所用地圖均為 osu!mania 4K 專用譜。
 2. 每場比賽的地圖庫將於比賽前一周的周末由地圖庫管理員放出，圖庫內包含若干張 Free-Mod 地圖：
      - 其中的 Tie-breaker（決勝）地圖僅用於決勝局比賽。
      - 所有地圖均在 Free-mod 池下。
@@ -415,7 +415,7 @@ TB:
      - 半決賽與決賽各有**16**張圖。
 3. 每一個圖池包括一個決勝圖（Tie-breaker）（資格賽除外）。
 4. 所有地圖，包括決勝圖，都使用 Free-mod 進行：
-     - 任何選手都可以自行選擇 Hidden (HD), Flashlight (FL), 或其他Mod。
+     - 任何選手都可以自行選擇 Hidden (HD), Flashlight (FL), 或其他 Mod。
 
 ## 日程安排
 

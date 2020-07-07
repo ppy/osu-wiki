@@ -13,7 +13,7 @@ outdated: true
 
 ## 比赛安排
 
-**注意：除非特别注明，所有时间都是基于UTC+0**
+**注意：除非特别注明，所有时间都是基于 UTC+0**
 
 | Event | Timestamp |
 | :-- | :-- |
@@ -31,16 +31,16 @@ outdated: true
 
 | Place | 奖励 |
 | :-- | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 六个月的Supporter，个人资料标签以及osu!相关礼品 |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 三个月的Supporter |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 一个月的Supporter |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 六个月的 Supporter，个人资料标签以及 osu! 相关礼品 |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 三个月的 Supporter |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 一个月的 Supporter |
 
 ## 主办方
 
 | Job | Person(s) |
 | :-- | :-- |
 | 赛事管理 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
-| beatmap选择团队 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) // ![][flag_VE] [Orihime chan](https://osu.ppy.sh/users/708258) // ![][flag_KR] [CLSW](https://osu.ppy.sh/users/531253) |
+| beatmap 选择团队 | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) // ![][flag_VE] [Orihime chan](https://osu.ppy.sh/users/708258) // ![][flag_KR] [CLSW](https://osu.ppy.sh/users/531253) |
 | 在线直播 | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 | 解说人员 | ![][flag_CA] [Tasha](https://osu.ppy.sh/users/1031958) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) // ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370) // ![][flag_DE] [Kingkevin30](https://osu.ppy.sh/users/564334) // ![][flag_US] [Zak](https://osu.ppy.sh/users/1375955) |
 | 统计 | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
@@ -421,7 +421,7 @@ Sunday, 10\. May 2015
 1.  osu! Catch the Beat World 是**基于国家/地区之间的**3v3比赛。
 2.  每场比赛的比赛用图将会在比赛日之前的一个星期日公布。比赛中只能选择公布出来的图。
     -   有一张图是专门用于决胜局。这张图只会在决胜局出现。
-    -   同样会有 [Hidden](/wiki/Game_Modifiers)、[HardRock](/wiki/Game_Modifiers)、[DoubleTime的分类比赛图](/wiki/Game_Modifiers)。
+    -   同样会有 [Hidden](/wiki/Game_Modifiers)、[HardRock](/wiki/Game_Modifiers)、[DoubleTime 的分类比赛图](/wiki/Game_Modifiers)。
 
 3.  比赛日程将会由赛事管理小组公布（暂未公布）。
 4.  如果没有工作人员或者裁判在，比赛会被延期。
@@ -474,7 +474,7 @@ Sunday, 10\. May 2015
 5.  在双淘汰赛的阶段，赢的一方将会晋级到胜组下一场的比赛，而输的一方将进入败组。
 6.  基于[此表](https://puu.sh/bUq5V/f1066103b0.png)，比赛分成下面的阶段：
 
-| 阶段 | 比赛ID |
+| 阶段 | 比赛 ID |
 | :-- | :-- |
 | 16强 | A, B, C, D, E, F, G, H |
 | 1/4决赛 | I, J, K, L & R, S, T, U |
@@ -490,8 +490,8 @@ Sunday, 10\. May 2015
 ### 比赛说明
 
 1.  裁判会提前15分钟创建一个多人游戏房间，在此期间选手必须集合。
-    1.  房间将上锁，裁判会在短时间内发送密码和MP邀请给队长。
-    2.  房间设置为Catch the Beat, Team-Vs., 胜利条件：’Score’。房间名称必须为"CWC 2015: TeamBlue vs TeamRed"。
+    1.  房间将上锁，裁判会在短时间内发送密码和 MP 邀请给队长。
+    2.  房间设置为 Catch the Beat, Team-Vs., 胜利条件：’Score’。房间名称必须为"CWC 2015: TeamBlue vs TeamRed"。
     3.  房名首先提到的是蓝队，第二个提到的是红队。
 
 2.  选手们可以随意选择最多两张热身图。使用有问题的内容的比赛图是禁止的。
@@ -499,12 +499,12 @@ Sunday, 10\. May 2015
     1.  不可放弃禁图权。
 
 4.  由两队队长轮流从图池中选图。
-5.  每队队长必须从\#multiplayer中使用一次!roll命令。
+5.  每队队长必须从 \#multiplayer 中使用一次 !roll 命令。
     1.  点数大的队伍先选图。
     2.  点数小的队伍先禁图。
 
 6.  队长可以从任何分类的图组中进行选择。
-    1.  在平局情况下，必须选择tiebreaker图。
+    1.  在平局情况下，必须选择 tiebreaker 图。
 
 7.  结果将会使用统计网站发布。
 
@@ -513,17 +513,17 @@ Sunday, 10\. May 2015
 1.  小组赛、16强、四分之一决赛、半决赛和决赛分别会有一个图池。
     1.  决赛第一周和第二周使用同一个图池。
 
-2.  每个图池由四个mod的图组组成：NoMod（无mod）、[Hidden](/wiki/Game_Modifiers)、[HardRock](/wiki/Game_Modifiers) 以及 [DoubleTime](/wiki/Game_Modifiers) 。
+2.  每个图池由四个 mod 的图组组成：NoMod（无mod）、[Hidden](/wiki/Game_Modifiers)、[HardRock](/wiki/Game_Modifiers) 以及 [DoubleTime](/wiki/Game_Modifiers) 。
 3.  每个图池由总共19张图组成。
 4.  每个图池里都有一张决胜 (tiebreaker) 图。
-5.  NoMod图组是在无mod的情况下进行比赛的。
-6.  在Hidden、HardRock和DoubleTime模式里，玩家必须打开相应的mod
-    1.  选手可以在HardRock或DoubleTime图组中另外加选Hidden mod.
+5.  NoMod 图组是在无 mod 的情况下进行比赛的。
+6.  在 Hidden、HardRock 和 DoubleTime 模式里，玩家必须打开相应的 mod
+    1.  选手可以在 HardRock 或 DoubleTime 图组中另外加选 Hidden mod.
 
-7.  决胜图 (tiebreaker) 可以使用任意mod进行比赛。
+7.  决胜图 (tiebreaker) 可以使用任意 mod 进行比赛。
     1.  在玩决胜图时，玩家可以开 [HardRock](/wiki/Game_Modifiers)、[Hidden](/wiki/Game_Modifiers) 或者两个一起开。
 
-8.  NoMod图组在每阶段的图池中会有6张图。
+8.  NoMod 图组在每阶段的图池中会有6张图。
 9.  各其他模式的图组会在每阶段的图池中各有4张。
 
 ### 赛程说明

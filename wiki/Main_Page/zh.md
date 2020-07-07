@@ -4,7 +4,7 @@ no_native_review: true
 ---
 
 <div class="wiki-main-page__blurb">
-欢迎来到osu!wiki，一个包含大量osu!相关信息的项目
+欢迎来到 osu!wiki，一个包含大量 osu! 相关信息的项目
 </div>
 
 
@@ -36,9 +36,9 @@ no_native_review: true
 <div class="wiki-main-page-panel">
 
 
-# 编辑与Rank
+# 编辑与 Rank
 
-[提交](/wiki/Submission) • [谱面批准](/wiki/Beatmap_ranking_procedure) • [摸图](/wiki/Modding) • [Ranking指南](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
+[提交](/wiki/Submission) • [谱面批准](/wiki/Beatmap_ranking_procedure) • [摸图](/wiki/Modding) • [Ranking 指南](/wiki/Ranking_Criteria): ([osu!](/wiki/Ranking_Criteria/osu!) • [osu!taiko](/wiki/Ranking_Criteria/osu!taiko) • [osu!catch](/wiki/Ranking_Criteria/osu!catch) • [osu!mania](/wiki/Ranking_Criteria/osu!mania))
 
 </div>
 <div class="wiki-main-page-panel">

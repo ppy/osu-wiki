@@ -18,7 +18,7 @@ The Project Loved 主要由每个[游戏模式](/wiki/Game_Modes)的**队长**�
 
 ## 团队成员
 
-*在官方网站上拥有一个 Project Loved 团队成员页面，ID为31，但列表并不公开。这仅用于管理作用。*
+*在官方网站上拥有一个 Project Loved 团队成员页面，ID 为 31，但列表并不公开。这仅用于管理作用。*
 
 ![][flag_US] **[Toy](https://osu.ppy.sh/users/2757689)** 负责管理 Project Loved 并帮助协调其大部分活动。
 

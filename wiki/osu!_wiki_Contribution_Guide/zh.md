@@ -53,7 +53,7 @@ outdated: true
 - [GitHub 网页](/wiki/owcg/GitHub_Web_Interface) - 在线编辑；适合单篇文章的编辑
 - [GitHub Desktop](/wiki/owcg/GitHub_Desktop) - 本地编辑；这适合于单篇或者多篇文章的编辑（包括上传，删除，移动图片和文件）
 
-*提示：你在以上两种编辑方式中任选一种。*同时，也有一些第三方软件可以做类似于 GitHub 网页和Desktop所做的事情。
+*提示：你在以上两种编辑方式中任选一种。*同时，也有一些第三方软件可以做类似于 GitHub 网页和 Desktop 所做的事情。
 
 **当你阅读完成 *GitHub 网页* 或 *GitHub Desktop*，你可以继续阅读下一章节。**
 
