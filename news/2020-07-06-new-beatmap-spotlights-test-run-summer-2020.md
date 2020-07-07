@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beatmap Spotlights Test Run: Summer 2020"
-date: 2020-07-06 07:00:00 +0000
+date: 2020-07-07 08:00:00 +0000
 ---
 
 The new future of the Beatmap Spotlights is here with its very first test run, kicking off this very week! Check out the Summer Season map pool and read on to discover a plethora of new planned rewards and features for everybody who dares to compete in one of osu!'s newest competitive modes.
@@ -10,7 +10,7 @@ The new future of the Beatmap Spotlights is here with its very first test run, k
 
 First of all, we are running **this as an experimental implementation** to get a good feel for a different way to enjoy osu! competitively. Many of the features are not implemented yet and will come online as the season goes on, so keep your eyes peeled for more exciting updates.
 
-There is no guarantee on how this system and league will play out going forward, but your feedback and participation will help us shape this system into the best it can ever be. For that, we have create a **[forum thread](https://osu.ppy.sh/community/forums/topics/1101170)** to collect feedback and criticism about the renewed Beatmap Spotlights. Alternatively, you can join us at the public [community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H), visit the `#osu-spotlights` channel of [osu!dev](https://discord.gg/ppy) or leave us a comment below this news post to help us with this project going forward!
+There is no guarantee on how this system and league will play out going forward, but your feedback and participation will help us shape this system into the best it can possibly be. For that, we have create a **[forum thread](https://osu.ppy.sh/community/forums/topics/1101170)** to collect feedback and criticism about the renewed Beatmap Spotlights. Alternatively, you can join us at the public [community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H), visit the `#osu-spotlights` channel of [osu!dev](https://discord.gg/ppy) or leave us a comment below this news post to help us with this project going forward!
 
 The new-and-improved Beatmap Spotlights are formed around the work of our freshly selected team of curators who have been working flat out over the past few months to bring you a selection of maps that showcases some of the best beatmapping osu! has to offer. While we were a little vague in our first announcement, the gloves are now well and truly off - check out how this new system is planned to work below:
 
@@ -23,6 +23,8 @@ The new-and-improved Beatmap Spotlights are formed around the work of our freshl
 - At the end of the season, **the best mapper of the season will be elected and given a special prize**, and the Beatmap Spotlights mappool will be folded into a new beatmap pack with an accompanying medal that anyone can earn at any time once the season has concluded. We'll give you more details about the mmapper prize as they develop.
 
 **To see the new mappools for the debut week of the Beatmap Spotlights, you can visit the [Beatmap Spotlights wiki page](/wiki/Beatmap_Spotlights) and follow the "Playlist" links in the sidebar.** There's also a lot more information about the planned system in full there too, so make sure to check it out!
+
+Just as an extra aside, we'd like to stress again that this is a **test run** of the new system - many things may change seemingly without warning throughout this current season, and we will be paying a lot of attention towards the feedback from those participating in it to help shape how we approach the real deal in the future.
 
 ## Season Schedule
 
