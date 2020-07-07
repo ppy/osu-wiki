@@ -1,6 +1,6 @@
 # Project Loved
 
-**Project Loved** is het stemplatfrom dat beatmaps promoveert naar de [Loved](/wiki/Beatmaps#loved)-categorie. Het wordt voornaamelijk beheerd door het [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team).
+**Project Loved** is het stemplatfrom dat beatmaps promoveert naar de [Loved](/wiki/Beatmaps#loved)-categorie. Het wordt voornamelijk beheerd door het [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team).
 
 ## Verplaatsing van een beatmap naar Loved
 
@@ -15,27 +15,23 @@ Leden van het Project Loved Team, genaamd **captains**, nomineren regelmatig bea
 
 *Opmerking: Als de toegang tot Google Forms beperkt is, kan je ook de [Project Loved Teamleden](/wiki/People/The_Team/Project_Loved_Team#team-members) contacteren om een map in te laten zenden namens jou.*
 
-Genomineerde beatmapsetes worden dan op het [Project Loved forum](https://osu.ppy.sh/community/forums/120) gepost, waar leden van de community kunnen stemmen of ze de beatmapset in de Loved categorie willen of niet. Beatmaps die een bepaalde hoeveelheid "Ja"-stemmen hebben aan het einde van de stemming zullen verplaatst worden naar de Loved-categorie.
+Genomineerde beatmapsets worden dan op het [Project Loved forum](https://osu.ppy.sh/community/forums/120) gepost, waar leden van de community kunnen stemmen of ze de beatmapset in de Loved categorie willen of niet. Beatmaps die een bepaalde hoeveelheid "Ja"-stemmen behalen aan het einde van de stemming zullen verplaatst worden naar de Loved-categorie.
 
 ### Voorwaarden
 
-Er zijn een paar kleine criteria waaraan moet worden voldaan om beatmaps te kunnen nomineren voor de Loved-categorie. Captains laten een beatmap in aanmerking komen voor de Loved-categorie als:
+Er zijn een paar criteria waaraan moet worden voldaan om beatmaps te kunnen nomineren voor de Loved-categorie. Captains laten een beatmap in aanmerking komen voor de Loved-categorie als:
 
 - De beatmap niet [Gekwalificeerd](/wiki/Beatmaps#qualified), [Ranked](/wiki/Beatmaps#ranked) of [Goedgekeurd](/wiki/Beatmaps#approved) is
 - De maker van de beatmap akkoord gaat met de Loved-nominering
 - De account van de maker niet gebanned of beperkt is
-- Minstens één moeilijkheidgraad uitgespeeld (pass) kan worden
-- De beatmap minstens 30 favoriten heeft (enkel van toepassing op osu!standard maps)
+- Minstens één moeilijkheidgraad uitgespeeld (passed) kan worden
+- De beatmap minstens 30 favorieten heeft (enkel van toepassing op osu!standard maps)
 
-Ondanks dat bijna alle beatmaps [In Afwachting (Pending) en In Uitvoering (WIP)](/wiki/Beatmaps#work-in-progress-and-pending) aan deze criteria voldoen, worden er toch weinig van hen tot in de Loved-categ
+Ondanks dat bijna alle beatmaps [In Afwachting (Pending) en In Uitvoering (WIP)](/wiki/Beatmaps#work-in-progress-and-pending) aan deze criteria voldoen, worden er toch weinig van hen tot in de Loved-categorie gestemd omdat de nominatie- en stemmingsverseisten vrij selectief zijn.
 
 ### Nominatieprioriteit
 
 Er zijn geen strikte regels over welke beatmaps een captain moet nomineren voor Loved, maar meestal zijn de genomineerde maps zeer bekend en gewaardeerd door de comminity (zoals de titel "Loved" suggereert). Soms krijgt een beatmapset ook de voorkeur als ze veel ouder is dan andere sets of als de set beatmaps met unieke en kwaliteitsvolle mappingstijlen bevat.
-
-## Meer informatie
-
-Alle organisatie en planning voor Project Loved wordt geregeld in het `#osu-loved`-kar Loved, maar meestal zijn de genomineerde maps zeer bekend en gewaardeerd door de comminity (zoals de titel "Loved" suggereert). Soms krijgt een beatmapset ook de voorkeur als ze veel ouder is dan andere sets of als de set beatmaps met unieke en kwaliteitsvolle mappingstijlen bevat.
 
 ## Meer informatie
 
