@@ -1,6 +1,6 @@
 # AiMod
 
-![](AiMod.jpg "The AiMod window lists warnings and errors about a beatmap.")
+![](img/AiMod.jpg "The AiMod window lists warnings and errors about a beatmap.")
 
 **AiMod** is a tool built into the [beatmap editor](/wiki/Beatmap_Editor) that detects problems in a [beatmap](/wiki/Beatmaps). It can be opened via the menu option `File` > `Open AiMod` or the [shortcut keys](/wiki/Shortcut_key_reference) `Ctrl` + `Shift` + `A`.
 

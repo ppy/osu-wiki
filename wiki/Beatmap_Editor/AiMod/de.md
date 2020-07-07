@@ -7,7 +7,7 @@ outdated_since: 2a53f4edb06a6521b8f6db07dc442660fa9861d3
 
 **AiMod** ist ein Hilfsmittel im Beatmap Editor. Der **AiMod** kann über den Tastenkürzel `Strg` + `Shift` + `A` oder über **File**, dann **Open AiMod** geöffnet werden.
 
-![AiMod](AiMod.jpg "AiMod ist normalerweise der erste Modder einer Beatmap")
+![AiMod](img/AiMod.jpg "AiMod ist normalerweise der erste Modder einer Beatmap")
 
 AiMod hilft neuen Mappern ihre Beatmaps zu modden, indem es grundlegende Probleme erkennt. Komplizierteres, wie das Überprüfen der Timing/BPM oder das Design der Beatmap, muss von einem [Modder](/wiki/Glossary) überprüft werden. Fehler, Probleme und Warnungen werden in Tabs kategorisiert.
 

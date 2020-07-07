@@ -9,7 +9,7 @@ AiMod est un outil de modding intégré a l'[éditeur de Beatmaps](/wiki/Beatmap
 
 AiMod vise à aider les mappers débutants à "modifier" leurs beatmaps. La limitation d'AiMod réside dans sa conception de base qui lui fait parfois ignorer des problèmes tels que les mauvais schémas de mappage, le BPM ou le timing. Trouver un [modder](/wiki/Glossary) pour moder votre beatmap est fortement recommandé.
 
-![AiMod](AiMod.jpg "AiMod est généralement votre premier modder")
+![AiMod](img/AiMod.jpg "AiMod est généralement votre premier modder")
 
 AiMod termine généralement son analyse de la beatmap en moins d'une minute et affiche ensuite les avertissements et les erreurs. Si aucun problème n'a été trouvé dans votre beatmap, alors félicitations! La beatmap a réussi l'analyse AiMod, mais elle nécessite toujours un modding de la communauté. Les modder peuvent trouver d'autres problèmes que AiMod n'a pas pu détecter.
 
