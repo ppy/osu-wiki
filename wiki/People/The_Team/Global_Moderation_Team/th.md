@@ -167,4 +167,3 @@ tags:
 [flag_TW]: /wiki/shared/flag/TW.gif "ประเทศไต้หวัน"
 [flag_US]: /wiki/shared/flag/US.gif "ประเทศสหรัฐอเมริกา"
 [flag___]: /wiki/shared/flag/__.gif
-
