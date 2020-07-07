@@ -30,6 +30,14 @@ New members of the Beatmap Nominators begin with a one month long probation peri
 
 When a Beatmap Nominator is placed on probation, they cannot be placed on probation again for the same reason. For example, if a Beatmap Nominator is placed on probation for poor behavior, they will be removed from the Beatmap Nominators if they exhibit the same poor behavior again, even if they are a full Beatmap Nominator during the second infringement.
 
+## Expectations
+
+As privileged members of the osu! community, Beatmap Nominators are expected to do their best to adhere to the [Modding & Mapping Code of Conduct](wiki/Rules/Code_of_Conduct_for_Modding_and_Mapping) at all times.
+
+In addition, Beatmap Nominators are held to a higher standard of behavior than other users, and are expected to not be openly antagonistic or inflammatory toward other members of the osu! community outside of the game's direct platform, such as on social media or well-known public (or semi-public) Discord servers.
+
+Those wishing to become a Beatmap Nominator should understand these expectations before seeking to join.
+
 ## Team members
 
 The [Beatmap Nominators](https://osu.ppy.sh/groups/28) and [Beatmap Nominators (Probationary)](https://osu.ppy.sh/groups/32) group pages list all of the team members.
