@@ -306,158 +306,59 @@ This competition has come to an end and resulted in the following podium:
   - [Ito Kanako - Skyclad no Kansokusha (Linada) \[-Tochi's Insane\]](https://osu.ppy.sh/beatmapsets/416129#osu/972844)
   - [Kuba Oms - All In All (Venix) \[Insane\]](https://osu.ppy.sh/beatmapsets/961320#osu/2012527)
 
----
-
 ## Match Results
 
-### Grand Finals
+### Qualifiers
 
-| Wednesday, 2019-09-18 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-- |
-| 과로사 | 5 | **7** | **黃建智** | [#1](https://osu.ppy.sh/community/matches/54931397) |
+| Seed | Team | Points |
+| --: | :-- | --: |
+| #1 | PUPU | 89,009 |
+| #2 | Fuk | 85,422 |
+| #3 | Ｔｈｅ　Ｂｉｇ　ＤＩＬＦＳ | 81,691 |
+| #4 | :peepolaughpoint: | 76,707 |
+| #5 | benki | 75,935 |
+| #6 | unko | 74,876 |
+| #7 | Floating up | 73,726 |
+| #8 | awwwwww ＦＯＫ | 72,563 |
+| #9 | NCout | 70,168 |
+| #10 | Walfrid is now Singaporean | 67,618 |
+| #11 | No Tryhard | 65,744 |
+| #12 | Xi bal | 64,823 |
+| #13 | best lolis | 64,685 |
+| #14 | santai aja bos | 64,594 |
+| #15 | pokis thunder thighs | 64,503 |
+| #16 | BUNKER | 60,107 |
+| #17 | Chicken Curry | 59,732 |
+| #18 | Dream Solister | 57,459 |
+| #19 | PUPUPU | 56,189 |
+| #20 | Filthy deranker and the minions | 54,993 |
+| #21 | fush n chups | 53,267 |
+| #22 | wudi tofu | 52,985 |
+| #23 | matta ne\~ | 50,590 |
+| #24 | erogemaster225 | 48,761 |
+| #25 | Just circles | 42,202 |
+| #26 | Water Sausage | 39,422 |
+| #27 | half agouka | 38,251 |
+| #28 | ppOverheat | 26,908 |
+| #29 | e | 22,769 |
+| #30 | hororaibu purodakushon | 15,833 |
+| #31 | Spugs | 15,528 |
+| #32 | Pillars | 13,584 |
+| #33 | Brawl stars gang + Poke | 13,320 |
+| #34 | our teamname | 10,964 |
+| #35 | Yuri Empire | 10,419 |
+| #36 | PAKET PHOENIXNYA KAKA | 3,366 |
+| #37 | Better | 0 |
 
-| Sunday, 2019-09-22 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-- |
-| **進撃のバブルティー** | **7** | 4 | 黃建智 | [#1](https://osu.ppy.sh/community/matches/55033460) |
-
-### Finals
-
-| Wednesday, 2019-09-04 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-- |
-| **黃建智** | **7** | 5 | babote | [#1](https://osu.ppy.sh/community/matches/54600184) |
-
-| Saturday, 2019-09-07 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-- |
-| **reyuza ganteng** | **7** | 2 | The Big Dilfs | [#1](https://osu.ppy.sh/community/matches/54674050) |
-
-| Sunday, 2019-09-08 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-- |
-| 과로사 | 3 | **7** | **進撃のバブルティー** | [#1](https://osu.ppy.sh/community/matches/54700350) |
-
-| Friday, 2019-09-13 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-- |
-| reyuza ganteng | 2 | **7** | **黃建智** | [#1](https://osu.ppy.sh/community/matches/54810712) |
-
-### Semifinals
-
-| Friday, 2019-08-30 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-- |
-| **panda is not justice** | **7** | 0 | osu attack on titan | [#1](https://osu.ppy.sh/community/matches/54471182) |
-| **Bin Boys** | **7** | 1 | Operation Bathroom | [#1](https://osu.ppy.sh/community/matches/54472737) |
-
-| Saturday, 2019-08-31 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-- |
-| **babote** | **7** | 0 | No Tryhard | [#1](https://osu.ppy.sh/community/matches/54504303) |
-| reyuza ganteng | 5 | **7** | **과로사** | [#1](https://osu.ppy.sh/community/matches/54506770) |
-| **babote** | **7** | 4 | Bin Boys | [#1](https://osu.ppy.sh/community/matches/54506789) |
-
-| Sunday, 2019-09-01 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-- |
-| **The Big Dilfs** | **7** | 3 | 모모니나 | [#1](https://osu.ppy.sh/community/matches/54527046) |
-| 黃建智 | 0 | **7** | **進撃のバブルティー** | -win by default- |
-| **The Big Dilfs** | **7** | 2 | panda is not justice | [#1](https://osu.ppy.sh/community/matches/54533335) |
-
-### Quarterfinals
-
-| Saturday, 2019-08-24 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-- |
-| **Operation Bathroom** | **6** | 0 | okguysweneedaname | -win by default- |
-| **reyuza ganteng** | **6** | 1 | Bin Boys | [#1](https://osu.ppy.sh/community/matches/54315815) |
-
-| Sunday, 2019-08-25 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-- |
-| FYP 228922 | 0 | **6** | **모모니나** | -win by default- |
-| **osu attack on titan** | **6** | 1 | bus girls | [#1](https://osu.ppy.sh/community/matches/54344319) |
-| babote | 4 | **6** | **과로사** | [#1](https://osu.ppy.sh/community/matches/54344412) |
-| The Big Dilfs | 3 | **6** | **進撃のバブルティー** | [#1](https://osu.ppy.sh/community/matches/54346837) |
-| **黃建智** | **6** | 4 | panda is not justice | [#1](https://osu.ppy.sh/community/matches/54349758) |
-| any ideas | 0 | **6** | **No Tryhard** | -win by default- |
-
-### Round of 16
-
-| Saturday, 2019-08-17 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-- |
-| 모모니나 | 4 | **6** | **Bin Boys** | [#1](https://osu.ppy.sh/community/matches/54138982) |
-| **黃建智** | **6** | 4 | any ideas | [#1](https://osu.ppy.sh/community/matches/54144951) |
-
-| Sunday, 2019-08-18 |  |  |  |  |
-| --: | :-: | :-: | :-- | :-- |
-| **과로사** | **6** | 1 | bus girls | [#1](https://osu.ppy.sh/community/matches/54166136) |
-| okguysweneedaname | 2 | **6** | **進撃のバブルティー** | [#1](https://osu.ppy.sh/community/matches/54166945) |
-| **The Big Dilfs** | **6** | 3 | Operation Bathroom | [#1](https://osu.ppy.sh/community/matches/54167855) |
-| **babote** | **6** | 1 | osu attack on titan | [#1](https://osu.ppy.sh/community/matches/54168958) |
-| No Tryhard | 1 | **6** | **panda is not justice** | [#1](https://osu.ppy.sh/community/matches/54168789) |
-| **reyuza ganteng** | **6** | 3 | FYP 228922 | [#1](https://osu.ppy.sh/community/matches/54168996) |
-
-### Group Stage
-
-| Group | Friday, 2019-08-02 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| E | **babote** | **5** | 0 | 12 jobs a month | [#1](https://osu.ppy.sh/community/matches/53777408) |
-| F | **Operation Bathroom** | **5** | 2 | osu attack on titan | [#1](https://osu.ppy.sh/community/matches/53779062) |
-| B | **FYP 228922** | **5** | 0 | matsuyoku-rotsoforce | [#1](https://osu.ppy.sh/community/matches/53780203) |
-| C | **모모니나** | **5** | 2 | No Tryhard | [#1](https://osu.ppy.sh/community/matches/53780296) |
-| G | **과로사** | **5** | 0 | okguysweneedaname | -win by default- |
-| C | **모모니나** | **5** | 1 | an unlikely alliance | [#1](https://osu.ppy.sh/community/matches/53799799) |
-
-| Group | Saturday, 2019-08-03 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| B | **FYP 228922** | **5** | 0 | No title | -win by default- |
-| E | **babote** | **5** | 1 | The Big Dilfs | [#1](https://osu.ppy.sh/community/matches/53801400) |
-| E | **The Big Dilfs** | **5** | 1 | 12 jobs a month | [#1](https://osu.ppy.sh/community/matches/53802247) |
-| D | **panda is not justice** | **5** | 0 | Neo Fantasy Online | -win by default- |
-| B | **any ideas** | **5** | 2 | FYP 228922 | [#1](https://osu.ppy.sh/community/matches/53804224) |
-| A | **黃建智** | **5** | 1 | HoChRaPi | [#1](https://osu.ppy.sh/community/matches/53805239) |
-| D | **panda is not justice** | **5** | 1 | Nov 14th | [#1](https://osu.ppy.sh/community/matches/53805394) |
-| A | **黃建智** | **5** | 0 | Sutiire | [#1](https://osu.ppy.sh/community/matches/53806415) |
-
-| Group | Sunday, 2019-08-04 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| C | **an unlikely alliance** | **5** | 0 | Simple | [#1](https://osu.ppy.sh/community/matches/53824575)
-| F | **osu attack on titan** | **5** | 0 | wat | -win by default- |
-| F | **Operation Bathroom** | **5** | 0 | wat | -win by default- |
-| E | **The Big Dilfs** | **5** | 1 | Team Smead | [#1](https://osu.ppy.sh/community/matches/53825263) |
-| H | Best Friends | 4 | **5** | **Chicken Biriyani** | [#1](https://osu.ppy.sh/community/matches/53825965) |
-| F | **Operation Bathroom** | **5** | 0 | tim jago strim | -win by default- |
-| C | **모모니나** | **5** | 0 | Simple | [#1](https://osu.ppy.sh/community/matches/53828443) |
-| A | HoChRaPi | 0 | **5** | **Sutiire** | [#1](https://osu.ppy.sh/community/matches/53830471) |
-
-| Group | Friday, 2019-08-09 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| B | **any ideas** | **5** | 0 | matsuyoku-rotsoforce | [#1](https://osu.ppy.sh/community/matches/53945342) |
-| D | **panda is not justice** | **5** | 0 | Bin Boys | [#1](https://osu.ppy.sh/community/matches/53945127) |
-| F | **osu attack on titan** | **5** | 0 | tim jago strim | -win by default- |
-| H | **進撃のバブルティー** | **5** | 0 | Chicken Biriyani | [#1](https://osu.ppy.sh/community/matches/53948031) |
-
-| Group | Saturday, 2019-08-10 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| C | **No Tryhard** | **5** | 0 | Simple | [#1](https://osu.ppy.sh/community/matches/53967598) |
-| E | **babote** | **5** | 0 | Team Smead | [#1](https://osu.ppy.sh/community/matches/53968367) |
-| F | **wat** | **5** | 0 | tim jago strim | -win by default- |
-| A | **reyuza ganteng** | **5** | 0 | HoChRaPi | [#1](https://osu.ppy.sh/community/matches/53970049) |
-| B | **matsuyoku-rotsoforce** | **5** | 0 | No title | -win by default- |
-| D | **Bin Boys** | **5** | 4 | Neo Fantasy Online | [#1](https://osu.ppy.sh/community/matches/53970100) |
-| H | **進撃のバブルティー** | **5** | 0 | Best Friends | [#1](https://osu.ppy.sh/community/matches/53971003) |
-| D | **Nov 14th** | **5** | 1 | Neo Fantasy Online | [#1](https://osu.ppy.sh/community/matches/53971009) |
-| G | **okguysweneedaname** | **5** | 0 | Hot Loli(s) | [#1](https://osu.ppy.sh/community/matches/53971921) |
-| G | **艾莉皮肤店** | **5** | 1 | Hot Loli(s) | [#1](https://osu.ppy.sh/community/matches/53973352) |
-| A | **reyuza ganteng** | **5** | 1 | Sutiire | [#1](https://osu.ppy.sh/community/matches/53976528) |
-
-| Group | Sunday, 2019-08-11 |  |  |  |  |
-| :-: | --: | :-: | :-: | :-- | :-- |
-| E | 12 jobs a month | 0 | 0 | Team Smead | -nullified- |
-| C | **No Tryhard** | **5** | 3 | an unlikely alliance | [#1](https://osu.ppy.sh/community/matches/53991507) |
-| H | **bus girls** | **5** | 1 | Chicken Biriyani | [#1](https://osu.ppy.sh/community/matches/53993115) |
-| B | **any ideas** | **5** | 0 | No title | -win by default- |
-| G | **과로사** | **5** | 0 | 艾莉皮肤店 | [#1](https://osu.ppy.sh/community/matches/53994657) |
-| H | **bus girls** | **5** | 0 | Best Friends | -win by default- |
-| D | **Bin Boys** | **5** | 3 | Nov 14th | [#1](https://osu.ppy.sh/community/matches/53995030) |
-| H | **進撃のバブルティー** | **5** | 0 | bus girls | [#1](https://osu.ppy.sh/community/matches/53995469) |
-| G | **과로사** | **5** | 1 | Hot Loli(s) | [#1](https://osu.ppy.sh/community/matches/53996389) |
-| G | **okguysweneedaname** | **5** | 2 | 艾莉皮肤店 | [#1](https://osu.ppy.sh/community/matches/53997555) |
-| A | 黃建智 | 4 | **5** | **reyuza ganteng** | [#1](https://osu.ppy.sh/community/matches/53999327) |
-
----
+- Only the top 32 team can proceed to the Group Stage
+- More detailed qualifiers result can be accessed via this [spreadsheet](https://docs.google.com/spreadsheets/d/1_jdti6hIoQPqpfP5AyYJjPEiGSpL9ObC-y-OcwoTXNw/edit)
+- Points get determined by `Σ position earned when playing the qualifiers mappool / amount of Qualifiers mappool`
+- Team seedings also get determined with their results in Qualifiers:
+  - Seed #1 - #8 are Top seed teams.
+  - Seed #9 - #16 are High seed teams.
+  - Seed #17 - #24 are Mid seed teams.
+  - Seed #25 - #32 are Low seed teams.
+  - Seed #33 and below teams gets eliminated from the tournament.
 
 ## Ruleset
 
