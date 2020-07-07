@@ -27,8 +27,8 @@ The **osu! Cup Master 3: osu!catch edition** (***OCM3***) is a a two-on-two team
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge (to be confirmed) |
-| ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter tag |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge (*to be confirmed*) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag |
 | <img src="img/mvp1.jpg" width="30" > | 1 month of osu!supporter tag |
 
 *Note: The MVP is chosen by the tournament staff after the tournament concludes.*
@@ -121,7 +121,7 @@ The osu! Cup Master 3: osu!catch edition tournament is run by various osu! commu
 - Tiebreaker
   - **[Camellia - Exit This Earth's Atomosphere (DamnEasy) \[Interspace\]](https://osu.ppy.sh/beatmapsets/866320#fruits/1811280)**
 
-### Quarter Finals
+### Quarterfinals
 
 **[Download the map pack here! (120 MB)](https://mega.nz/#!HNZVQIoZ!5iPK6FObu9KaM0XA_EUn-y_nKOz2WTITCk1h-olbvYg)**
 
