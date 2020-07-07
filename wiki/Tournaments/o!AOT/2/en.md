@@ -102,21 +102,33 @@ The osu! Asia Oceania Tournament 2 is run by various community members.
 | **G** | 과로사 | okguysweneedaname | 艾莉皮肤店 | Hot Loli(s) |
 | **H** | 進撃のバブルティー | bus girls | Best Friends | Chicken Biriyani |
 
----
-
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Team |
-| :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | 進撃のバブルティー |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 黃建智 |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 과로사 |
-
----
-
 ## Mappools
+
+### Round of 32
+
+**[Download the map pack here! (100 MB)](https://mega.nz/file/FoVWAA4Z#tmDwEObubY62m40pquWSCDX3EZKJTZyGKNaZgOlmI50)**
+
+- NoMod
+  - [aki - Clione no Akari (MiyohashiKoori) \[Flying in the Sky\]](https://osu.ppy.sh/beatmapsets/1013752#osu/2137749)
+  - [Xi - Shoujo Kisokyoku \~ Speed Battle (Fuma) \[Ekoro's Extra\]](https://osu.ppy.sh/beatmapsets/1208277#osu/2515949)
+  - [Sele-P - Scarlet Rose (Kuron-kun) \[Absence of Reality\]](https://osu.ppy.sh/beatmapsets/736484#osu/1554372)
+  - [YUC'e - Chemical Cookie (Yusomi) \[kodoku's Extra\]](https://osu.ppy.sh/beatmapsets/905119#osu/1891490)
+  - [goreshit - xenobeat (-Aqua) \[Hinsvar's Expert\]](https://osu.ppy.sh/beatmapsets/1090113#osu/2313561)
+- Hidden
+  - [BEMANI Sound Team "Nekomata Master" - Matsuri no Ato, Kimi o Omofu. (Seolv) \[DeviousPanda's Expert\]](https://osu.ppy.sh/beatmapsets/1081665#osu/2271795)
+  - [solfa feat. Shimotsuki Haruka - leap in your mind (Lasse) \[Expert\]](https://osu.ppy.sh/beatmapsets/818672#osu/1718542)
+- HardRock
+  - [Rapbit & Ritsuka - When They Cry -Rosin Remix- (Fuma) \[Expert\]](https://osu.ppy.sh/beatmapsets/1208278#osu/2515950)
+  - [04 Limited Sazabys - Squall (Gillstar) \[Loreley's Another\]](https://osu.ppy.sh/beatmapsets/1029349#osu/2165315)
+- DoubleTime
+  - [Mami Kawada - sense (Giralda) \[LC's Insane\]](https://osu.ppy.sh/beatmapsets/325638#osu/723285)
+  - [The Bellas - Toxic (Janpai) \[Intoxicated\]](https://osu.ppy.sh/beatmapsets/756893#osu/1592529)
+  - [Nekomata Master - Sayonara Heaven (deetz) \[EX\]](https://osu.ppy.sh/beatmapsets/989775#osu/2070432)
+- FreeMod
+  - [Neru feat. Kagamine Rin - Datsugoku (Ryuusei Aika) \[Rallus aquaticus\]](https://osu.ppy.sh/beatmapsets/813468#osu/1706044)
+  - [LeaF - MEPHISTO (Alumetorz) \[Extra\]](https://osu.ppy.sh/beatmapsets/106212#osu/278451)
+- Tiebreaker
+  - **[GALNERYUS - HUNTING FOR YOUR DREAM (Haruto) \[Haruto x Keitaro's FAITH\]](https://osu.ppy.sh/beatmapsets/1128855#osu/2358367)**
 
 ### Qualifiers
 
