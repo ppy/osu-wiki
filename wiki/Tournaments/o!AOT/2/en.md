@@ -3,6 +3,7 @@ tags:
   - o!AOT 2
   - AOT 2
 ---
+
 # osu! Asia Oceania Tournament 2
 
 ![o!AOT2 logo](img/logo.jpg)
