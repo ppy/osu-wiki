@@ -6,17 +6,16 @@ tags:
 
 # osu! Cup Master 3: osu!catch edition
 
-![logo](img/logo.png)
-
+![OCM3 logo](img/logo.png)
 
 The **osu! Cup Master 3: osu!catch edition** (***OCM3***) is a a two-on-two team based osu!catch tournament hosted by ![][flag_PA] [Jafett](https://osu.ppy.sh/users/2317102) and ![][flag_MX] [daxeroz](https://osu.ppy.sh/users/1170156). It is the 3rd installment of the osu! Cup Master.
 
-## Tournament Schedule
+## Tournament schedule
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase | 2019-12-14 / 2020-01-25 |
-| Live Drawings | 2020-02-09 |
+| Registration phase | 2019-12-14 / 2020-01-25 |
+| Live drawings | 2020-02-09 |
 | Group Stage | 2020-02-15 / 2020-02-16 |
 | Quarterfinals | 2020-02-22 / 2020-02-23 |
 | Semifinals | 2020-02-29 / 2020-03-01 |
@@ -27,16 +26,16 @@ The **osu! Cup Master 3: osu!catch edition** (***OCM3***) is a a two-on-two team
 ## Prizes
 
 | Placing | Prize(s) |
-| :-: | :--- |
+| :-: | :-- |
 | ![Gold Crown](/wiki/shared/GCrown.png "1st place") | Profile badge (to be confirmed) |
 | ![Silver Crown](/wiki/shared/SCrown.png "2nd place") | 1 month of osu!supporter tag |
 | <img src="img/mvp1.jpg" width="30" > | 1 month of osu!supporter tag |
 
-Note: the mvp is a single player chosen by the staff when the tournament ends
+*Note: The MVP is chosen by the tournament staff after the tournament concludes.*
 
 ## Organisation
 
-The osu! Cup Master 3: osu!catch edition Tournament is run by various osu! community members.
+The osu! Cup Master 3: osu!catch edition tournament is run by various osu! community members.
 
 | Position | Members |
 | :-: | :-- |
@@ -59,7 +58,7 @@ The osu! Cup Master 3: osu!catch edition Tournament is run by various osu! commu
 
 ## Participants
 
-| Team image | Team name | Members |
+|  | Team | Members |
 | :-: | :-: | :-- |
 | <img src="img/teams/acelga.png" width="80" > | Acelga | ![][flag_CL] [eldnl](https://osu.ppy.sh/users/285756), ![][flag_CL] [Aryssiel](https://osu.ppy.sh/users/2389481), ![][flag_CL] [NachoL](https://osu.ppy.sh/users/1250096) |
 | <img src="img/teams/mybloodtrailsoplica.png" width="80" > | My blood trail soplica | ![][flag_PL] [Phob](https://osu.ppy.sh/users/6069462), ![][flag_Pl] [Mniam](https://osu.ppy.sh/users/6050530), ![][flag_PL] [Verti](https://osu.ppy.sh/users/10674528) |
@@ -84,11 +83,10 @@ The osu! Cup Master 3: osu!catch edition Tournament is run by various osu! commu
 
 | Group | Top Seed | High Seed | Low Seed | Unseeded |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | Obama's bizarre adventures | 	Futa Lovers | 	QT DOKU | 	Iaffi |
+| **A** | Obama's bizarre adventures | Futa Lovers | QT DOKU | Iaffi |
 | **B** | wwwww | Araganes | Retired player's comeback | My blood trail soplica |
 | **C** | Acelga | Smukur es colombiano | Los Choripondios | IZAYOI XXX is the captain |
-| **D** | idk lol | 	KRNS | Bjirr Squad | 115 |
-
+| **D** | idk lol | KRNS | Bjirr Squad | 115 |
 
 ---
 
@@ -96,154 +94,153 @@ The osu! Cup Master 3: osu!catch edition Tournament is run by various osu! commu
 
 ### Semifinals
 
-**[Download the map pack here!](https://mega.nz/#!rBgjCbTQ!w6slaPCtKT-LiGk7ggZwG11PFmVMAMCxl8o1Yi6Fc4w)**
+**[Download the map pack here! (106 MB)](https://mega.nz/#!rBgjCbTQ!w6slaPCtKT-LiGk7ggZwG11PFmVMAMCxl8o1Yi6Fc4w)**
 
 - NoMod
-  - [Camellia feat. Nanahira - Kansoku Eisei \(jonathanlfj\) \[Countless\]](https://osu.ppy.sh/beatmapsets/720294#fruits/1520788)
-  - [TOTTO - Onigami \(-Ken\) \[Overdose\]](https://osu.ppy.sh/beatmapsets/622069#fruits/1311499)
-  - [ilem - Hua Er Na Ji \(F D Flourite\) \[Overdose\]](https://osu.ppy.sh/beatmapsets/598869#fruits/1265840)
+  - [Camellia feat. Nanahira - Kansoku Eisei (jonathanlfj) \[Countless\]](https://osu.ppy.sh/beatmapsets/720294#fruits/1520788)
+  - [TOTTO - Onigami (-Ken) \[Overdose\]](https://osu.ppy.sh/beatmapsets/622069#fruits/1311499)
+  - [ilem - Hua Er Na Ji (F D Flourite) \[Overdose\]](https://osu.ppy.sh/beatmapsets/598869#fruits/1265840)
 - Hidden
-  - [M2U - Marigold (feat. Guriri) \(Hareimu\) \[Deif's Overdose\]](https://osu.ppy.sh/beatmapsets/596327#fruits/1270304)
-  - [Sukuzyo - Black Lair \(Pizza Kun\) \[Fragmentation\]](https://osu.ppy.sh/beatmapsets/165616#fruits/402935)
-  - [Memme - Extreme Fantasy \(AngelHoney\) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/49459#fruits/152480)
+  - [M2U - Marigold (feat. Guriri) (Hareimu) \[Deif's Overdose\]](https://osu.ppy.sh/beatmapsets/596327#fruits/1270304)
+  - [Sukuzyo - Black Lair (Pizza Kun) \[Fragmentation\]](https://osu.ppy.sh/beatmapsets/165616#fruits/402935)
+  - [Memme - Extreme Fantasy (AngelHoney) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/49459#fruits/152480)
 - HardRock
-  - [Tsukikage - Spatto! Spy & Spyce \(TV Size\) \(Petal\) \[Ren's Extra\]](https://osu.ppy.sh/beatmapsets/968574#fruits/2028583)
-  - [An - Encryption \(HelloSCV\) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/96368#fruits/290370)
-  - [bikuko - Crayon \(Val0108\) \[Crayon\]](https://osu.ppy.sh/beatmapsets/49455#fruits/155164)
+  - [Tsukikage - Spatto! Spy & Spyce (TV Size) (Petal) \[Ren's Extra\]](https://osu.ppy.sh/beatmapsets/968574#fruits/2028583)
+  - [An - Encryption (HelloSCV) \[Spec's Overdose\]](https://osu.ppy.sh/beatmapsets/96368#fruits/290370)
+  - [bikuko - Crayon (Val0108) \[Crayon\]](https://osu.ppy.sh/beatmapsets/49455#fruits/155164)
 - DoubleTime
-  - [ChouCho - Million of Bravery \(alienflybot\) \[Triumph\]](https://osu.ppy.sh/beatmapsets/1041534#fruits/2176808)
-  - [Noisestorm - Solar \(Shiirn\) \[Another\]](https://osu.ppy.sh/beatmapsets/33483#fruits/109163)
-  - [Goose house - 18sai \(mingmichael\) \[Rain\]](https://osu.ppy.sh/beatmapsets/242856#fruits/560408)
-- FlashLight
-  - [Machigerita - Fushigi Omocha Gangaradindon \(secretgamer\) \[Insane\]](https://osu.ppy.sh/beatmapsets/85130#fruits/234105)
-  - [M2U - The Prince of Darkness \(TKiller\) \[Club Mix\]](https://osu.ppy.sh/beatmapsets/12974#fruits/48589)
+  - [ChouCho - Million of Bravery (alienflybot) \[Triumph\]](https://osu.ppy.sh/beatmapsets/1041534#fruits/2176808)
+  - [Noisestorm - Solar (Shiirn) \[Another\]](https://osu.ppy.sh/beatmapsets/33483#fruits/109163)
+  - [Goose house - 18sai (mingmichael) \[Rain\]](https://osu.ppy.sh/beatmapsets/242856#fruits/560408)
+- Flashlight
+  - [Machigerita - Fushigi Omocha Gangaradindon (secretgamer) \[Insane\]](https://osu.ppy.sh/beatmapsets/85130#fruits/234105)
+  - [M2U - The Prince of Darkness (TKiller) \[Club Mix\]](https://osu.ppy.sh/beatmapsets/12974#fruits/48589)
 - DTB
-  - [ayaponzu* - Super Nuko ni Naritai \(Jarvis Gaming\) \[Dodge The Beat (Use NF)\]](https://osu.ppy.sh/beatmapsets/998732#fruits/2088909)
-  - [Kobaryo - Tool-Assisted Speedcore (TQBF Frame Advance RMX) \(Mismagius\) \[Delete The World\]](https://osu.ppy.sh/beatmapsets/782508#fruits/1643106)
+  - [ayaponzu* - Super Nuko ni Naritai (Jarvis Gaming) \[Dodge The Beat (Use NF)\]](https://osu.ppy.sh/beatmapsets/998732#fruits/2088909)
+  - [Kobaryo - Tool-Assisted Speedcore (TQBF Frame Advance RMX) (Mismagius) \[Delete The World\]](https://osu.ppy.sh/beatmapsets/782508#fruits/1643106)
 - Tiebreaker
-  - **[Camellia - Exit This Earth's Atomosphere \(DamnEasy\) \[Interspace\]](https://osu.ppy.sh/beatmapsets/866320#fruits/1811280)**
-  
+  - **[Camellia - Exit This Earth's Atomosphere (DamnEasy) \[Interspace\]](https://osu.ppy.sh/beatmapsets/866320#fruits/1811280)**
+
 ### Quarter Finals
 
-**[Download the map pack here!](https://mega.nz/#!HNZVQIoZ!5iPK6FObu9KaM0XA_EUn-y_nKOz2WTITCk1h-olbvYg)**
+**[Download the map pack here! (120 MB)](https://mega.nz/#!HNZVQIoZ!5iPK6FObu9KaM0XA_EUn-y_nKOz2WTITCk1h-olbvYg)**
 
 - NoMod
-  - [P*light - Ninja \(Kyubey\) \[Elvis's Donatello\]](https://osu.ppy.sh/beatmapsets/195307#fruits/548376)
-  - [Hyun - Infinity Heaven \(Jemzuu\) \[Aeternum\]](https://osu.ppy.sh/beatmapsets/1074464#fruits/2248527)
-  - [DJ Nagai feat. A*ru - Benibotan \(yf_bmp\) \[Another\]](https://osu.ppy.sh/beatmapsets/548679#fruits/1161900)
+  - [P*light - Ninja (Kyubey) \[Elvis's Donatello\]](https://osu.ppy.sh/beatmapsets/195307#fruits/548376)
+  - [Hyun - Infinity Heaven (Jemzuu) \[Aeternum\]](https://osu.ppy.sh/beatmapsets/1074464#fruits/2248527)
+  - [DJ Nagai feat. A*ru - Benibotan (yf_bmp) \[Another\]](https://osu.ppy.sh/beatmapsets/548679#fruits/1161900)
 - Hidden
-  - [Cranky - Lebera me \(eiri-\) \[IOException's Insane\]](https://osu.ppy.sh/beatmapsets/757813#fruits/1596819)
-  - [556t - Kyuuen no Hana \(Kyubey\) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/484497#fruits/1033514)
-  - [Akaki Chikai - Smile Skill = Suki Skill \(TV Size\) \(Greaper\) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1070009#fruits/2239770)
+  - [Cranky - Lebera me (eiri-) \[IOException's Insane\]](https://osu.ppy.sh/beatmapsets/757813#fruits/1596819)
+  - [556t - Kyuuen no Hana (Kyubey) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/484497#fruits/1033514)
+  - [Akaki Chikai - Smile Skill = Suki Skill (TV Size) (Greaper) \[Overdose\]](https://osu.ppy.sh/beatmapsets/1070009#fruits/2239770)
 - HardRock
-  - [Ogura Yui & Tamiyasu Tomoe - LOVE LOVE WARS \(Gamu\) \[Insane\]](https://osu.ppy.sh/beatmapsets/154915#fruits/380234)
-  - [Tomohito Nishiura - Moonlight Tango \(JBHyperion\) \[Rain\]](https://osu.ppy.sh/beatmapsets/536001#fruits/1135248)
-  - [04 Limited Sazabys - Squall \(Gillstar\) \[Loreley's Another\]](https://osu.ppy.sh/beatmapsets/1029349#fruits/2165315)
+  - [Ogura Yui & Tamiyasu Tomoe - LOVE LOVE WARS (Gamu) \[Insane\]](https://osu.ppy.sh/beatmapsets/154915#fruits/380234)
+  - [Tomohito Nishiura - Moonlight Tango (JBHyperion) \[Rain\]](https://osu.ppy.sh/beatmapsets/536001#fruits/1135248)
+  - [04 Limited Sazabys - Squall (Gillstar) \[Loreley's Another\]](https://osu.ppy.sh/beatmapsets/1029349#fruits/2165315)
 - DoubleTime
-  - [-45 - Midorigo Queen Bee \(Luscent\) \[Collapse\]](https://osu.ppy.sh/beatmapsets/1055780#fruits/2206544)
-  - [Akatsuki records - Futari de Aruita Kaerimichi \(Zelq\) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1077072#fruits/2253900)
-  - [Itou Kanako - Skyclad no Kansokusha -Remix- \(Takos\) \[Taka\]](https://osu.ppy.sh/beatmapsets/33323#fruits/110628)
-- FlashLight
-  - [Kanawo - Kohaku no Yume \(Surano\) \[Volta's Platter\]](https://osu.ppy.sh/beatmapsets/411705#fruits/1296545)
-  - [Zun - Necrofantasia \(Fight69\) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/15812#fruits/70226)
+  - [-45 - Midorigo Queen Bee (Luscent) \[Collapse\]](https://osu.ppy.sh/beatmapsets/1055780#fruits/2206544)
+  - [Akatsuki records - Futari de Aruita Kaerimichi (Zelq) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/1077072#fruits/2253900)
+  - [Itou Kanako - Skyclad no Kansokusha -Remix- (Takos) \[Taka\]](https://osu.ppy.sh/beatmapsets/33323#fruits/110628)
+- Flashlight
+  - [Kanawo - Kohaku no Yume (Surano) \[Volta's Platter\]](https://osu.ppy.sh/beatmapsets/411705#fruits/1296545)
+  - [Zun - Necrofantasia (Fight69) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/15812#fruits/70226)
 - DTB
-  - [DJ Noriken - Stargazer feat. YUC'e (PSYQUI Remix) \(Hishiro Chizuru\) \[Starg-Azer isn't so great? Are you kidding me?\]](https://osu.ppy.sh/beatmapsets/718960#fruits/1522511)
-  - [Royal Republic - Getting Along \(Jarvis Gaming\) \[Dodge The Beat (Use NF)\]](https://osu.ppy.sh/beatmapsets/993372#fruits/2077276)
+  - [DJ Noriken - Stargazer feat. YUC'e (PSYQUI Remix) (Hishiro Chizuru) \[Starg-Azer isn't so great? Are you kidding me?\]](https://osu.ppy.sh/beatmapsets/718960#fruits/1522511)
+  - [Royal Republic - Getting Along (Jarvis Gaming) \[Dodge The Beat (Use NF)\]](https://osu.ppy.sh/beatmapsets/993372#fruits/2077276)
 - Tiebreaker
-  - **[Nekomata Gekidan - Envidia \(-Ken\) \[Envy\]](https://osu.ppy.sh/beatmapsets/883114#fruits/1846202)**
+  - **[Nekomata Gekidan - Envidia (-Ken) \[Envy\]](https://osu.ppy.sh/beatmapsets/883114#fruits/1846202)**
 
 ### Group Stage
 
-**[Download the map pack here!](https://mega.nz/#!bJADnIbL!QuXa-kSOKKIxCC8LcQNxOa5rEtGv4Fm8GvD1WqkISWo)**
+**[Download the map pack here! (136 MB)](https://mega.nz/#!bJADnIbL!QuXa-kSOKKIxCC8LcQNxOa5rEtGv4Fm8GvD1WqkISWo)**
 
 - NoMod
-  - [Scop - Keppekishou \(tutuhaha\) \[Dance\]](https://osu.ppy.sh/beatmapsets/70115#fruits/201731)
-  - [Blue Stahli & Nyzzy Nyce - Run The Track \(Sinnoh\) \[Rain\]](https://osu.ppy.sh/beatmapsets/1071229#fruits/2242235)
-  - [Duck Duck Pony - Shinsetsu \(wonjae\) \[wonjac's overdose\]](https://osu.ppy.sh/beatmapsets/951270#fruits/1987735)
+  - [Scop - Keppekishou (tutuhaha) \[Dance\]](https://osu.ppy.sh/beatmapsets/70115#fruits/201731)
+  - [Blue Stahli & Nyzzy Nyce - Run The Track (Sinnoh) \[Rain\]](https://osu.ppy.sh/beatmapsets/1071229#fruits/2242235)
+  - [Duck Duck Pony - Shinsetsu (wonjae) \[wonjac's overdose\]](https://osu.ppy.sh/beatmapsets/951270#fruits/1987735)
 - Hidden
-  - [Katakiri Rekka - Answer \(Jenny\) \[Rejection\]](https://osu.ppy.sh/beatmapsets/51947#fruits/159007)
-  - [Krewella & Nucleya - Good On You \(Mao\) \[Expert\]](https://osu.ppy.sh/beatmapsets/1082851#fruits/2264994)
-  - [Ryu* vs. Sota - Go Beyond!! \(Anto\) \[Nuvolina's Expert\]](https://osu.ppy.sh/beatmapsets/934522#fruits/2023961)
+  - [Katakiri Rekka - Answer (Jenny) \[Rejection\]](https://osu.ppy.sh/beatmapsets/51947#fruits/159007)
+  - [Krewella & Nucleya - Good On You (Mao) \[Expert\]](https://osu.ppy.sh/beatmapsets/1082851#fruits/2264994)
+  - [Ryu* vs. Sota - Go Beyond!! (Anto) \[Nuvolina's Expert\]](https://osu.ppy.sh/beatmapsets/934522#fruits/2023961)
 - HardRock
-  - [RURUTIA - Phronesis \(-Luminate\) \[Platter\]](https://osu.ppy.sh/beatmapsets/965320#fruits/2022514)
-  - [fourfolium - Hosshii no! \(Kisses\) \[117's hard\]](https://osu.ppy.sh/beatmapsets/586877#fruits/1485741)
-  - [guna with team kyukkyu - subconsciousness \(Snow Note\) \[Hyper\]](https://osu.ppy.sh/beatmapsets/151945#fruits/445207)
+  - [RURUTIA - Phronesis (-Luminate) \[Platter\]](https://osu.ppy.sh/beatmapsets/965320#fruits/2022514)
+  - [fourfolium - Hosshii no! (Kisses) \[117's hard\]](https://osu.ppy.sh/beatmapsets/586877#fruits/1485741)
+  - [guna with team kyukkyu - subconsciousness (Snow Note) \[Hyper\]](https://osu.ppy.sh/beatmapsets/151945#fruits/445207)
 - DoubleTime
-  - [Yellow Zebra - Melody! \(wcx19911123\) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/45450#fruits/142099)
-  - [HyuN feat. Aerial - Exodus \(Niva\) \[Insane\]](https://osu.ppy.sh/beatmapsets/1069611#fruits/2239032)
-  - [yanaginagi - Over and over \(TV Size\) \(Jemzuu\) \[Platter\]](https://osu.ppy.sh/beatmapsets/698454#fruits/2228142)
-- FlashLight
-  - [44teru-k - Yami ~ Shoujo no Yume , Kyomu no Sekai ~ \(AngelHoney\) \[Insane\]](https://osu.ppy.sh/beatmapsets/17827#fruits/63435)
-  - [Arm Cannon - Borrow mega nuke (eureka borg worm) \(awp\) \[Exeter Modem\]](https://osu.ppy.sh/beatmapsets/5317#fruits/26372)
+  - [Yellow Zebra - Melody! (wcx19911123) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/45450#fruits/142099)
+  - [HyuN feat. Aerial - Exodus (Niva) \[Insane\]](https://osu.ppy.sh/beatmapsets/1069611#fruits/2239032)
+  - [yanaginagi - Over and over (TV Size) (Jemzuu) \[Platter\]](https://osu.ppy.sh/beatmapsets/698454#fruits/2228142)
+- Flashlight
+  - [44teru-k - Yami ~ Shoujo no Yume , Kyomu no Sekai ~ (AngelHoney) \[Insane\]](https://osu.ppy.sh/beatmapsets/17827#fruits/63435)
+  - [Arm Cannon - Borrow mega nuke (eureka borg worm) (awp) \[Exeter Modem\]](https://osu.ppy.sh/beatmapsets/5317#fruits/26372)
 - DTB
-  - [Sakurano Omura (CV: Emiri Kato) - Kirai ippai x Suki ippai \(Reanter\) \[OPPAI DAME!!!\]](https://osu.ppy.sh/beatmapsets/368991#fruits/808856)
-  - [ETIA. - Knock it Off \(Maddy\) \[Hyper\]](https://osu.ppy.sh/beatmapsets/89582#fruits/247033)
+  - [Sakurano Omura (CV: Emiri Kato) - Kirai ippai x Suki ippai (Reanter) \[OPPAI DAME!!!\]](https://osu.ppy.sh/beatmapsets/368991#fruits/808856)
+  - [ETIA. - Knock it Off (Maddy) \[Hyper\]](https://osu.ppy.sh/beatmapsets/89582#fruits/247033)
 - Tiebreaker
-  - **[Underveil allstars - Underveil is real!!!.. and we are under.. \(Chara\) \[*Together as one, we stay determined!\]](https://osu.ppy.sh/beatmapsets/636920#fruits/1351241)**
+  - **[Underveil allstars - Underveil is real!!!.. and we are under.. (Chara) \[*Together as one, we stay determined!\]](https://osu.ppy.sh/beatmapsets/636920#fruits/1351241)**
 
 ---
-## Match Results
+## Match results
 
-### Quarter Finals
+### Quarterfinals
 
-#### Saturday, 2020-02-22
+Saturday, 22 February 2020:
 
-| Bracket | Red Team | V | S | Blue Team | Match History |
+| Bracket | Team A |  |  | Team B | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Winner | [A1] Obama's Bizarre adventures	| 5	| **6**	| **KRNS [D2]** | [MP](https://osu.ppy.sh/community/matches/58637682) |
-| Winner | **[C1]	Acelga**	| **6**	| 1	| My blood trail soplica	[B2] | [MP](https://osu.ppy.sh/community/matches/58643885) |
+| Winner | \[A1\] Obama's Bizarre adventures	| 5	| **6**	| **KRNS \[D2\]** | [#1](https://osu.ppy.sh/community/matches/58637682) |
+| Winner | **\[C1\]	Acelga**	| **6**	| 1	| My blood trail soplica	\[B2\] | [#1](https://osu.ppy.sh/community/matches/58643885) |
 
-#### Sunday, 2020-02-23
+Sunday, 23 February 2020:
 
-| Bracket | Red Team | V | S | Blue Team | Match History |
+| Bracket | Team A |  |  | Team B | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| Winner | [B1]	Retired Players comeback | 5 | **6** | **Smukur es colombiano	[C2]** | [MP](https://osu.ppy.sh/community/matches/58675218) |
-| Winner | **[D1]	idk lol**	| **6**	| 2	| QT DOKU	[A2] | [MP](https://osu.ppy.sh/community/matches/58673121) |
+| Winner | \[B1\]	Retired Players comeback | 5 | **6** | **Smukur es colombiano	\[C2\]** | [#1](https://osu.ppy.sh/community/matches/58675218) |
+| Winner | **\[D1\]	idk lol**	| **6**	| 2	| QT DOKU	\[A2\] | [#1](https://osu.ppy.sh/community/matches/58673121) |
 
 ### Group Stage
 
-#### Saturday, 2020-02-15
+Saturday, 22 February 2020:
 
-| Group | Red Team | V | S | Blue Team | Match History |
+| Group | Team A |  |  | Team B | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| D | **KNRS** | **5** | 0 | Bjirr Squad | [MP](https://osu.ppy.sh/community/matches/58461953) |
+| D | **KNRS** | **5** | 0 | Bjirr Squad | [#1](https://osu.ppy.sh/community/matches/58461953) |
 | D | Bjirr Squad	| 4	| **5**	| **115** | [Retired at 4 - 1](https://osu.ppy.sh/community/matches/58463519) |
-| C | **Acelga**	| **5** |	2	| Smukur es colombiano | [MP](https://osu.ppy.sh/community/matches/58495679) |
-| A | **Obama's Bizarre adventures**	| **5**	| 1	| Futa Lovers | [MP](https://osu.ppy.sh/community/matches/58465839) |
-| A | **QT DOKU**	| **5**	| 0	| Iaffi | [MP](https://osu.ppy.sh/community/matches/58465846) |
-| C | **Acelga**	| **5** |	4	| IZAYOI XXX is the captain| [MP](https://osu.ppy.sh/community/matches/58469275) |
-| B | wwwww	| 0	| **5**	| **My blood trail soplica** | -Win by Default- |
-| B | Araganes	| 0	| **5**	| **Retired players comeback** | -Win by Default- |
-| C | Los Choripondios	| 0	| **5**	| **IZAYOI XXX is the captain** | -Win by Default- |
-| C | **Smukur es colombiano**	| **5**	| 1	| Los Choripondios | [MP](https://osu.ppy.sh/community/matches/58478035) |
-| A | **Futa Lovers**	| **5**	| 0	| Iaffi | [MP](https://osu.ppy.sh/community/matches/58479615) |
+| C | **Acelga**	| **5** |	2	| Smukur es colombiano | [#1](https://osu.ppy.sh/community/matches/58495679) |
+| A | **Obama's Bizarre adventures**	| **5**	| 1	| Futa Lovers | [#1](https://osu.ppy.sh/community/matches/58465839) |
+| A | **QT DOKU**	| **5**	| 0	| Iaffi | [#1](https://osu.ppy.sh/community/matches/58465846) |
+| C | **Acelga**	| **5** |	4	| IZAYOI XXX is the captain| [#1](https://osu.ppy.sh/community/matches/58469275) |
+| B | wwwww	| 0	| **5**	| **My blood trail soplica** | *win by default* |
+| B | Araganes	| 0	| **5**	| **Retired players comeback** | *win by default* |
+| C | Los Choripondios	| 0	| **5**	| **IZAYOI XXX is the captain** | *win by default* |
+| C | **Smukur es colombiano**	| **5**	| 1	| Los Choripondios | [#1](https://osu.ppy.sh/community/matches/58478035) |
+| A | **Futa Lovers**	| **5**	| 0	| Iaffi | [#1](https://osu.ppy.sh/community/matches/58479615) |
 
-#### Sunday, 2020-02-16
+Sunday, 16 February 2020:
 
-| Group | Red Team | V | S | Blue Team | Match History |
+| Group | Team A |  |  | Team B | Match link |
 | :-: | --: | :-: | :-: | :-- | :-- |
-| D | **idk lol** |	**5**	| 3	| Bjirr Squad | [MP](https://osu.ppy.sh/community/matches/58483470) |
-| A | **Obama's Bizarre adventures**	| **5**	| 3	| QT DOKU | [MP](https://osu.ppy.sh/community/matches/58491672) |
-| D | **KNRS**	| **5** |	0	| 115 | [MP](https://osu.ppy.sh/community/matches/58494489) |
-| B | **Retired players comeback**	| **5**	| 1	| My blood trail soplica | [MP](https://osu.ppy.sh/community/matches/58497232) |
-| A | Futa Lovers	| 2	| **5**	| **QT DOKU** | [MP](https://osu.ppy.sh/community/matches/58497075) |
-| A | **Obama's Bizarre adventures**	| **5**	| 0	| Iaffi | -Win by Default- |
-| B | Araganes	| 1	| **5**	| **My blood trail soplica** | [MP](https://osu.ppy.sh/community/matches/58499947) |
-| B | wwwww	| 0	| **5**	| **Retired players comeback** | [-Win by Default-](https://osu.ppy.sh/community/matches/58501917) |
-| C | **Smukur es colombiano**	| **5**	| 4	| IZAYOI XXX is the captain | [MP](https://osu.ppy.sh/community/matches/58501030) |
-| D | **idk lol**	| **5**	| 4	| KNRS | [MP](https://osu.ppy.sh/community/matches/58504710) |
-| B | wwwww	| 0	| **5**	| **Araganes** | -Win by Default- |
-| D | **idk lol**	| **5**	| 1	| 115 | [MP](https://osu.ppy.sh/community/matches/58508633) |
-| C | **Acelga**	| **5**	| 0	| Los Choripondios | -Win by Default- |
-
+| D | **idk lol** |	**5**	| 3	| Bjirr Squad | [#1](https://osu.ppy.sh/community/matches/58483470) |
+| A | **Obama's Bizarre adventures**	| **5**	| 3	| QT DOKU | [#1](https://osu.ppy.sh/community/matches/58491672) |
+| D | **KNRS**	| **5** |	0	| 115 | [#1](https://osu.ppy.sh/community/matches/58494489) |
+| B | **Retired players comeback**	| **5**	| 1	| My blood trail soplica | [#1](https://osu.ppy.sh/community/matches/58497232) |
+| A | Futa Lovers	| 2	| **5**	| **QT DOKU** | [#1](https://osu.ppy.sh/community/matches/58497075) |
+| A | **Obama's Bizarre adventures**	| **5**	| 0	| Iaffi | *win by default* |
+| B | Araganes	| 1	| **5**	| **My blood trail soplica** | [#1](https://osu.ppy.sh/community/matches/58499947) |
+| B | wwwww	| 0	| **5**	| **Retired players comeback** | [*win by default*](https://osu.ppy.sh/community/matches/58501917) |
+| C | **Smukur es colombiano**	| **5**	| 4	| IZAYOI XXX is the captain | [#1](https://osu.ppy.sh/community/matches/58501030) |
+| D | **idk lol**	| **5**	| 4	| KNRS | [#1](https://osu.ppy.sh/community/matches/58504710) |
+| B | wwwww	| 0	| **5**	| **Araganes** | *win by default* |
+| D | **idk lol**	| **5**	| 1	| 115 | [#1](https://osu.ppy.sh/community/matches/58508633) |
+| C | **Acelga**	| **5**	| 0	| Los Choripondios | *win by default* |
 
 ---
 
 ## Ruleset
 
-### Tournament Rules
+### Tournament rules
 
-1. This version of the OCM is a team tournament, played on the osu!catch game mode. 
+1. This version of the OCM is a team tournament, played on the osu!catch game mode.
 2. This competition is a 2 versus 2 setup. The team size can be up to 4 members, with a minimum of 3 members per team.
 3. Score V2 will be used.
 4. The tournament is open to any player with a rank of at least #4000. There's no restriction of country or region.
@@ -252,14 +249,14 @@ The osu! Cup Master 3: osu!catch edition Tournament is run by various osu! commu
 6. If the beatmap ends in a draw, there will be a rematch on the same map.
 7. If a player disconnects, they will be treated as if they failed the map.
    - The map can be replayed if the disconect was about 30 seconds after the map begins. This is up to the referee's discretion.
-8. Teams have 10 minutes from the scheduled time to present at least 2 members. If a team cannot present 2 players after this time, the match will be declared a loss by default. 
+8. Teams have 10 minutes from the scheduled time to present at least 2 members. If a team cannot present 2 players after this time, the match will be declared a loss by default.
 9. Map selectors and tournament organizers are NOT allowed to play, while referees and streamers can do so without problems.
 10. We hope there is a good atmosphere between all teams, any team or player who is toxic or disrespectful to any staff member (or any team) will be immediately disqualified from the tournament.
 11. **Reschedules will only be considered if both teams agree to a time, this needs to be done and notified to the tournament staff before Wednesday at 23:59 UTC+0 in that particular week when your match takes place.**
 12. **Reschedules may only be requested by a team captain.**
-   - **Please do not ask for a reschedule unless it is absolutely needed. The tournament staff has the right to decline the request.**
+    - **Please do not ask for a reschedule unless it is absolutely needed. The tournament staff has the right to decline the request.**
 
-### Mappool Instructions
+### Mappool instructions
 
 1. There will be 1 mappool for the Group Stage, 1 mappool for the Quarterfinals, 1 mappool for the Semifinals and 1 mappool for the Finals and Grand Finals.
 2. The tournament mappool will feature: 3 Nomod, 3 HR, 3 DT, 3 HD, 2 FL, 2 DTB and the TieBreaker, for a total of 17 maps.
@@ -268,7 +265,7 @@ The osu! Cup Master 3: osu!catch edition Tournament is run by various osu! commu
 5. Mappools for Finals and Grand Finals consists of 19 maps in total. 2 Freemod will be added.
 6. For Freemod maps, one player must use HR (with HD if desired). The other player must play with no mods or HD.
 
-### Match Instructions
+### Match instructions
 
 1. Each team is free to select up to one warm-up map.
 2. Each captain has to roll a number. Both teams can ban one beatmap to be selected from the pool starting from the loser of the roll. These beatmaps are not allowed to be picked by any team in the entire match.
@@ -280,7 +277,7 @@ The osu! Cup Master 3: osu!catch edition Tournament is run by various osu! commu
 7. If a team with only 2 members present has a player banned by the opposing team, **the next map is lost by default.**
 8. In case of a tie, the tiebreaker map must be played.
 
-### Tournament Registration
+### Tournament registration
 
 1. To register your team, go to the forum publication (discussion thread) of the tournament (link above).
 2. Write down the team name and also the UTC time of each team's country. (Adding links to your team's profiles would be helpful).
@@ -288,16 +285,17 @@ The osu! Cup Master 3: osu!catch edition Tournament is run by various osu! commu
 4. Mapset selectors may not participate as a player in this tournament.
 5. The tournament will be played with 16 teams.
 
-Example:
-- Team Name :
-- Team image : Send it by discord in the corresponding section.(#💾team-images)
-- Captain : (Captain is a player)
-- Player 1 :
-- Player 2 :
-- Player 3 : (required due to player ban rule)
-- Player 4 : (The fourth player is optional)
+**Example:**
 
-### Stage Instructions
+- Team Name:
+- Team image: Send it by discord in the corresponding section.(#💾team-images)
+- Captain: (Captain is a player)
+- Player 1:
+- Player 2:
+- Player 3: (required due to player ban rule)
+- Player 4: (The fourth player is optional)
+
+### Stage instructions
 
 1. The 4 teams with the best rank will be considered as Top Seed, the next 4 will be High Seed, then the next 4.
 will be Low Seed, to end the Unseed teams.
@@ -307,11 +305,10 @@ will be Low Seed, to end the Unseed teams.
 5. If a team loses a match on the loser bracket, they are eliminated from the tourney.
 
 **Winning conditions:**
+
 - In Group Stage, you need to win 5 maps to win a match. (Best-of-9)
 - In the Quarterfinals and the Semifinals, you need to win 6 maps to win a match. (Best-of-11)
 - In the Finals and Grand Finals, you need to win 7 maps to win the match. (Best-of-13)
-
-
 
 [flag_MX]: /wiki/shared/flag/MX.gif
 [flag_CL]: /wiki/shared/flag/CL.gif
