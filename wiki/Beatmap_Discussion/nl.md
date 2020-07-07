@@ -103,7 +103,7 @@ De `Beatmappagina`-knop brengt je naar de infopagina van een beatmap. Je kan ook
 
 ## Mod-tabbladen
 
-![](img/modding-tabs.jpg "Modding tabs.")
+![](img/modding-tabs.jpg "Mod-tabbladen.")
 
 Modden gebeurt via drie tabbladen, die de verschillende types van posts opsplitst in overzichtelijke indelingen. Een vierde tabblad houdt bovendien alle veranderingen bij. Het cijfer naast elk tabblad staat voor het aantal posts hierin.
 
@@ -117,7 +117,7 @@ De `Tijdlijn` toont posts op een specifiek moment in een moeilijkheidsgraad volg
 
 ## Inzendingsveld
 
-![](img/submission-field.jpg "Where mods are written.")
+![](img/submission-field.jpg "Waar mods geschreven worden.")
 
 Het inzendingsveld is waar [mods](/wiki/Modding) geschreven worden. Ze moeten ingezonden worden naar de discussiepagina wanneer ze klaar zijn. Dit kan gedaan worden door op één van de drie types knoppen te drukken;  `Prijs`, `Suggestie` of `Probleem`.
 
@@ -127,7 +127,7 @@ Als je post in het `Tijdlijn`-tabblad, moet je een tijdsmarkering opnemen in jou
 
 ## Discussies
 
-![](img/discussions.jpg "Where the discussion takes place!")
+![](img/discussions.jpg "Waar de discussie plaatsvindt!")
 
 Discussies is waar posts uit het [inzendingsveld](#submission-field) geplaatst worden wanneer ze eenmaal zijn ingezonden. Gebruikers die een discussiepagina bezoeken kunnen alle posts zijn die door andere gebruikers werden gemaakt, en kunnen deelnemen aan de discussie. Dit kan door op de `Reageer`- of `Antwoord`-knoppen onder een post te klikken en een antwoord te schrijven.
 
