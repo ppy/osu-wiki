@@ -10,6 +10,8 @@ De nauwkeurigheid is een meting van de consistentie van een speler. Er zijn drie
 
 In osu!standard wordt nauwkeurigheid berekend door de beoordeling van elk hitobject te wegen en dan te delen door de hoogst mogelijke waarde die behaald kan worden voor dat object.
 
+Referentie voor één hitcirkel:
+
 ```
 300 -> 300 / 300 = 1   = 100.00%
 100 -> 100 / 300 = 1/3 =  33.00%
