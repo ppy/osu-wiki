@@ -1,8 +1,12 @@
+---
+outdated: true
+---
+
 # AiMod
 
 Aimod 是一个内置于 beatmap editor 中的一个工具，你可以在 “File-->Open AiMod” 或者按下 “Ctrl+Shift+A” 打开它。当你做完一张 beatmap 正在找或者打算找 modder 来看你的 beatmap 的时候，你就可以打开这个工具来看看。AiMod 可以检测出一些新人比较容易出现的问题，也可以对较简单难度的图进行一个检测。不过 AiMod 始终都带有一个 Ai，就肯定有一些检测不出来的问题，所以，除了需要使用 AiMod 进行 beatmap 检测之外，还需要一些 modder 来检测你的 beatmap。
 
-![AiMod](AiMod.jpg "通常 AiMod 都是你的第一个Modder")
+![AiMod](AiMod.jpg "通常 AiMod 都是你的第一个 Modder")
 
 ## 常见错误解释
 
