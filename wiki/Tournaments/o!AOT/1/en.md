@@ -29,7 +29,7 @@ The **osu! Asia Oceania Tournament** (***o!AOT***) was an Asian and Oceanian dou
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge, 2 months of osu!supporter tag |
-| ![Silver crown](/wiki/shared/crown-gold.png "2nd place") | 1 month of osu!supporter tag |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag |
 
 ![](img/badge.jpg "o!AOT winner badge")
 
@@ -111,9 +111,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | Team |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | **進撃のバブルティー** (![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044), ![][flag_JP] [Varvalian](https://osu.ppy.sh/users/3345902), ![][flag_KR] [Neta](https://osu.ppy.sh/users/832084), ![][flag_KR] [Aristia](https://osu.ppy.sh/users/3478883)) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | **黃建智** (![][flag_TW] [Flask](https://osu.ppy.sh/users/959763), ![][flag_TW] [Rizer](https://osu.ppy.sh/users/5155973), ![][flag_TW] [GfMRT](https://osu.ppy.sh/users/3163649), ![][flag_TW] [\_Shield](https://osu.ppy.sh/users/1860489)) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | **과로사** (![][flag_KR] [Chitogod](https://osu.ppy.sh/users/6076529), ![][flag_KR] [Nameless Player](https://osu.ppy.sh/users/4133758), ![][flag_KR] [Zeisen-](https://osu.ppy.sh/users/7892320), ![][flag_KR] [Ansol](https://osu.ppy.sh/users/7302146)) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | **進撃のバブルティー** (![][flag_AU] [Dumii](https://osu.ppy.sh/users/3068044), ![][flag_JP] [Varvalian](https://osu.ppy.sh/users/3345902), ![][flag_KR] [Neta](https://osu.ppy.sh/users/832084), ![][flag_KR] [Aristia](https://osu.ppy.sh/users/3478883)) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | **黃建智** (![][flag_TW] [Flask](https://osu.ppy.sh/users/959763), ![][flag_TW] [Rizer](https://osu.ppy.sh/users/5155973), ![][flag_TW] [GfMRT](https://osu.ppy.sh/users/3163649), ![][flag_TW] [\_Shield](https://osu.ppy.sh/users/1860489)) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | **과로사** (![][flag_KR] [Chitogod](https://osu.ppy.sh/users/6076529), ![][flag_KR] [Nameless Player](https://osu.ppy.sh/users/4133758), ![][flag_KR] [Zeisen-](https://osu.ppy.sh/users/7892320), ![][flag_KR] [Ansol](https://osu.ppy.sh/users/7302146)) |
 
 ## Mappools
 

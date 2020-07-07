@@ -15,7 +15,7 @@ The **osu! Asia Oceania Tournament 2** (***o!AOT2***) is an Asian and Oceanian d
 | Event | Timestamp |
 | --: | :-- |
 | Registration phase | 2020-05-31/2020-06-21 |
-| Players screening | 2020-06-21/2020-06-28 |
+| Player screening | 2020-06-21/2020-06-28 |
 | Qualifiers | 2020-07-03/2020-07-05 |
 | Round of 32 | 2020-07-10/2020-07-12 |
 | Round of 16 | 2020-07-18/2020-07-19 |
@@ -99,7 +99,7 @@ The osu! Asia Oceania Tournament 2 is run by various community members.
 
 ### Round of 32
 
-**[Download the map pack here! (100 MB)](https://mega.nz/file/FoVWAA4Z#tmDwEObubY62m40pquWSCDX3EZKJTZyGKNaZgOlmI50)**
+**[Download the mappack here! (100 MB)](https://mega.nz/file/FoVWAA4Z#tmDwEObubY62m40pquWSCDX3EZKJTZyGKNaZgOlmI50)**
 
 - NoMod
   - [aki - Clione no Akari (MiyohashiKoori) \[Flying in the Sky\]](https://osu.ppy.sh/beatmapsets/1013752#osu/2137749)
@@ -125,7 +125,7 @@ The osu! Asia Oceania Tournament 2 is run by various community members.
 
 ### Qualifiers
 
-**[Download the map pack here! (72 MB)](https://mega.nz/file/5w0jXLJQ#QcLhUcYP1QcRhr5CSYjargZGrxBXCEfVJkptymlQziU)**
+**[Download the mappack here! (72 MB)](https://mega.nz/file/5w0jXLJQ#QcLhUcYP1QcRhr5CSYjargZGrxBXCEfVJkptymlQziU)**
 
 - NoMod
   - [Terashima Takuma - Nameless Story (Yudragen) \[Innominate\]](https://osu.ppy.sh/beatmapsets/1036720#osu/2167561)
