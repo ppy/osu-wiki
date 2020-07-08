@@ -7,4 +7,5 @@ Disambiguation in the osu! wiki is the process of resolving conflicts that arise
 - [Bancho](Bancho)
 - [Easy](Easy)
 - [EZ](EZ)
+- [Fail](Fail)
 - [Mod](Mod)
