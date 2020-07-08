@@ -1,7 +1,8 @@
 ---
+stub: true
 tags:
-- slider speed
-- sv
+  - slider speed
+  - sv
 ---
 
 # Slider velocity
@@ -12,5 +13,4 @@ Slider velocity is measured as *hundreds of [osupixels](/wiki/Glossary#osupixel)
 
 An old mapping technique uses slider velocities which are multiples of 0.16 (for instance, 1.60, 1.76, 1.92, etc.). This has the effect of lining up the endpoint of straight sliders with osu!'s grid when sliders use 1/1 or 1/2 snapping.
 
-<!-- This is a stub-->
 <!-- TODO: Add links and images-->
