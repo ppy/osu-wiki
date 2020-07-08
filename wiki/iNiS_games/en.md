@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
   - DS
   - EBA
@@ -30,7 +31,5 @@ The games referred to are:
 ***[Elite Beat Agents](https://en.wikipedia.org/wiki/Elite_Beat_Agents "Elite Beat Agents on Wikipedia")*** is a western sequel to *Osu! Tatakae! Ouendan!* released in 2006. Some of its characters were present as osu! mascots in official artwork and skins.
 
 <!--TODO: Insert lots of links and sections for Ouendan games, talk about which game mechanics are old and new -->
-
-<!-- this is a stub -->
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
