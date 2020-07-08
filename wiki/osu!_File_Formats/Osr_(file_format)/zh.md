@@ -54,7 +54,7 @@ outdated: false
 | y | Float | 鼠标的Y坐标（从0到384） |
 | z | Integer | 鼠标、键盘按键的组合 (M1 = 1, M2 = 2, K1 = 4, K2 = 8, 烟雾 = 16) (K1总是与M1一起使用，K2总是与M2一起使用。1+4=5 2+8=10。) |
 
-在`20130319`版本或之后版本创建的回放内，用于分数的32位随机整数seed会以 `-12345|0|0|seed` 的格式编码进LZMA流末尾的附加回放帧中。（原文：the 32-bit integer RNG seed used for the score will be encoded into an additional replay frame at the end of the LZMA stream, under the format `-12345|0|0|seed` .）
+在`20130319`版本或之后版本创建的回放内，用于分数的32位随机整数seed会以 `-12345|0|0|seed` 的格式编码进LZMA流末尾的附加回放帧中。（原文：the 32-bit integer RNG seed used for the score will be encoded into an additional replay frame at the end of the LZMA stream, under the format `-12345|0|0|seed`.）
 
 ## Mods
 
