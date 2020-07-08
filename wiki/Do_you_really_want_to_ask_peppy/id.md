@@ -12,4 +12,4 @@ Untuk masalah akun dan pembayaran, pelarangan tindak lanjut, pertanyaan mengenai
 
 ## Menghubungi peppy
 
-Jika kamu ingin menghubungi peppy secara pribadi untuk kebutuhan di luar osu!, kamu dapat mengirim email kepada kepadanya di [pe@ppy.sh](mailto:pe@ppy.sh). Perlu diingat bahwa permintaan perihal layanan dukungan ataupun hal yang terkait dengan akun akan ditandai sebagai spam.
+Jika kamu ingin menghubungi peppy secara pribadi untuk kebutuhan di luar osu!, kamu dapat mengirim email kepada kepadanya di [pe@ppy.sh](mailto:pe@ppy.sh). Perlu diingat bahwa permintaan perihal layanan dukungan ataupun hal yang terkait dengan akun osu! akan ditandai sebagai spam.
