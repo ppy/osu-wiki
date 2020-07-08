@@ -6,7 +6,9 @@ tags:
 
 # osu!coin
 
-The **osu!coin** was a joke, in-game currency mimicking other free-to-play monetization schemes. It was introduced for April Fools, 2015, and allowed players to play a single [beatmap](/wiki/Beatmaps/) in exchange for an osu!coin.
+![multiple osu!coins](img/coins2x.png)![a single osu!coin](img/coin2x.png)
+
+The **osu!coin** was a joke, in-game currency mocking other free-to-play monetization schemes. It was introduced for April Fools, 2015, and allowed players to play a single [beatmap](/wiki/Beatmaps/) in exchange for an osu!coin.
 
 ## Release
 
@@ -19,20 +21,18 @@ When players would run out of osu!coins they would be unable to play any beatmap
 - 999USD = 1000 osu!coins (0.001% savings!)
 - first unborn child = infinite osu!coins (unborn child will work for osu!)
 
-
-
 The following day, peppy rolled back the implementation of osu!coins, opened a new subdomain for the osu!web redesign and ended with [this remark](https://osu.ppy.sh/home/changelog/cuttingedge/20150401).
 
 ## Reception
 
 Though the release of the osu!coin added additional graphical elements, it had no practical effect on the gameplay experience as players could keep playing past the zero coin limit. Conversely, there was no way to pay for extra osu!coins either (though the option was listed as available).
 
-The update was generally well-recevied by players as a welcome change of pace from the otherwise strict stream of news.
+The update was generally well-recevied by players as a welcome change of pace from the otherwise strict stream of [news](/news/).
 
 ## Additional Resources:
 
-- osu!academy introduces the osu!coins: [Introduction to osu!coins (April Fools' 2015)](https://www.youtube.com/watch?v=BImc5McuK1o)
-- peppy announces the osu!coins: [osu!coins!](https://osu.ppy.sh/home/news/2015-03-31-osucoins)
+- osu!academy introduces osu!coins: [Introduction to osu!coins (April Fools' 2015)](https://www.youtube.com/watch?v=BImc5McuK1o)
+- peppy announces osu!coins: [osu!coins!](https://osu.ppy.sh/home/news/2015-03-31-osucoins)
 
 [flag_AU]: /wiki/shared/flag/AU.gif "Australia"
 
