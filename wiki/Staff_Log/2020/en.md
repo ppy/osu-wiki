@@ -284,5 +284,7 @@ Abbreviations for user groups are used throughout this log:
 - 2020-07-07: Moved [Dako](https://osu.ppy.sh/users/11081858) from **Probationary BN** to **BN**
 - 2020-07-07: Moved [\_DUSK\_](https://osu.ppy.sh/users/6092181) from **Probationary BN** to **BN**
 - 2020-07-07: Moved [davidminh0111](https://osu.ppy.sh/users/9623142) from **Probationary BN** to **BN**
+- 2020-07-08: Moved [Trynna](https://osu.ppy.sh/users/2652951) from **Probationary BN** to **BN**
+- 2020-07-08: Moved [Okoratu](https://osu.ppy.sh/users/1623405) from **Probationary BN** to **BN**
 
-<!-- last update: 2020-07-07 6 UTC added bibbity bill to probation bn -->
+<!-- last update: 2020-07-08 5 UTC moved okoratu to bn -->
