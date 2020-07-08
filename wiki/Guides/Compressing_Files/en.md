@@ -28,39 +28,35 @@ This section will show you how to remove audio from videos using [Handbrake](htt
 
 1. Open Handbrake and import your video file. You can drag and drop your file into Handbrake or manually import by clicking the File option.
 
-![Importing your file into Handbrake](img/t8.png  "Importing your file into Handbrake")
+![Importing your file into Handbrake](img/import-handbrake.jpg  "Importing your file into Handbrake")
 
 2. Select Audio and remove any audio tracks in the video file. Do the same for any subtitles by going into the Subtiltes tab and removing any entries.
 
-![Removing audio tracks from file](img/t7.png  "Removing audio tracks from file")
+![Removing audio tracks from file](img/removeaudio-handbrake.jpg "Removing audio tracks from file")
 
 #### Encoding Video
 
 This section will show you how to compress the video in the file.
 
-1. Pick the preset as "Fast 720p30".
+1. Set the preset to "Fast 720p30".
 
-![Selecting Preset](img/t1.png  "Selecting Preset")
+![Selecting Preset](img/preset-handbrake.jpg  "Selecting Preset")
 
-2. Go into the Video tab and select the video codec as "H.264 (x264)".
+2. Go into the Video tab and select the video codec as "H.264 (X264)" and change the Constant Quality to something around 20 or 25. Smaller values mean smaller files but you will lose quality. Higher values on the other hand create bigger files but have higher quality.
 
-![Selecting video codec](img/t2.png  "Selecting video codec")
+![Change Video Codec & Constant Quality](img/codecquality-handbrake.jpg  "Change Video Codec & Constant Quality")
 
-3. Change the Constant Quality to something around 20 or 25. Smaller values mean smaller files but you will lose quality. Higher values on the other hand create bigger files but have higher quality.
+3. Change the Framerate to 30.
 
-![Change Constant Quality](img/t3.png  "Change Constant Quality")
+![Change Framerate](img/framerate-handbrake.jpg "Change Framerate")
 
-4. Change the Framerate to 30.
+4. To resize the image of the video file, go to Dimensions and change the Width to "1280" and change the Height to "720".
 
-![Change Framerate](img/t4.png  "Change Framerate")
+![Change image dimensions](img/dimensions-handbrake.jpg  "Change image dimensions")
 
-5. To resize the image of the video file, go to Dimensions and change the Width to "1280" and change the Height to "720".
+5. Lasty, pick the file you want to save your result to, then click Start Encode.
 
-![Change image dimensions](img/t5.png  "Change image dimensions")
-
-6. Lasty, pick the file you want to save your result to, then click start encode.
-
-![Save result](img/t6.png  "Save result")
+![Save result](img/save-handbrake.jpg  "Save result")
 
 ## Audio
 
@@ -68,9 +64,9 @@ The audio bitrate determines a lot about the size of the audio file. Anything ab
 
 1. Import the audio file into Audacity.
 
-![Importing audio into Audacity](img/t9.png  "Importing audio into Audacity")
+![Importing audio into Audacity](img/import-audacity.jpg  "Importing audio into Audacity")
 
-2. Export the audio but change the export options to help compress your file. Use Variable and select the Quality as "145-185 kbps". If you want, you can enter in the meta data in the next dialog. If you don't want to, just click OK.
+2. Export the audio as MP3. Change the export options to help compress your file. Use Preset and select the Quality as "Medium, 145-185 kbps". If you want, you can enter in the metadata in the next dialog. If you don't want to, just click OK.
 
-![Export audio](img/t10.png  "Export audio")
-![Export audio 2](img/t11.png  "Export audio 2")
+![Export as MP3](img/exportmenu-audacity.jpg  "Export as MP3")
+![Export settings](img/exportsettings-audacity.jpg  "Export settings")
