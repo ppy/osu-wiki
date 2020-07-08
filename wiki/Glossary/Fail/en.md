@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
   - miss
 ---
@@ -16,5 +17,3 @@ tags:
   - A failed [storyboard](/wiki/Storyboard_Scripting) animation will be played if available.
 
 <!-- TODO: Add links-->
-
-<!-- This is a stub -->

@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
   - lock
 ---
