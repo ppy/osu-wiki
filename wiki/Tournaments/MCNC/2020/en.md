@@ -1,6 +1,6 @@
 ---
 tags:
-  - MCNC 2020
+  - MCNC
   - MCNC2020
 ---
 
