@@ -1,26 +1,19 @@
----
-needs_cleanup: true
----
-<!-- TODO: rewrite, and recommend newer FOSS. youtube-dl is nice -->
-
-# How to download videos from YouTube
-
-*[The Painless Add Video To Beatmap Process walkthrough. by: Gilrad](https://osu.ppy.sh/community/forums/topics/639)*
+# How to download videos from YouTube to use in osu!
 
 This tutorial is intended for those who **can not** find the video elsewhere but YouTube.
 
-## How to download videos from YouTube
-
 ### YouTube
 
-[YouTube](https://youtube.com)
+[YouTube](https://youtube.com) is a very convenient resource. If the song has a music video, it will be on YouTube, and probably compressed at that golden point where the video looks decent but won't be a pain to download.
 
-- It's really an awesome resource. If the song has a music video, it will be on YouTube, and probably compressed at that golden point where the video looks decent but won't be a b\*\*\*\* to download.
+## How to download videos from YouTube using online tools
 
-#### Download the video
+[ytmp3.cc](https://ytmp3.cc) is an online YouTube converter service. Using ytmp3.cc is very straightforward. Paste the YouTube video link into the text box, select "mp4" and click "Convert". After conversion is finished, click "Download" to download the video file.
 
-[noTube](https://notube.net) (there are many, many, MANY more out there but this one is listed).
+## How to download videos from YouTube using youtube-dl
 
-### Loading video in osu!
+[youtube-dl](https://youtube-dl.org) is a command-line program to download videos from YouTube and other sites. The fastest way to download from YouTube using youtube-dl is by using the ```-f bestvideo``` option. Example:```youtube-dl.exe -f bestvideo <video link>```
 
-Open your beatmap and press `F2`, click Insert Background Video. Use the slider below to adjust the start time offset and voila, your done.
+### Loading video into your beatmap
+
+Open your beatmap in the editor and go to the "Design" tab, then click "Background Image/Video". Select your file to add it to your beatmap. Use the slider below to adjust the time offset.
