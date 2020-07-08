@@ -119,11 +119,11 @@ This competition has come to an end and resulted in the following podium:
 
 ### Finals
 
-**[Download the mappack here! (201MB)](https://www.dropbox.com/s/p4daduyfm4us6m4/MCNC20%20%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
+**[Download the mappack here! (201 MB)](https://www.dropbox.com/s/p4daduyfm4us6m4/MCNC20%20%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - Freemod
   - [Aquellex - Tachyon Beam Cannon (Plutes) Gekido-'s \[Destruction 1.1x\]](https://osu.ppy.sh/b/2476292)
-  - [Camellia - * Erm, could it be a Spatiotemporal ShockWAVE Syndrome…? (Sillyp) \[NIGHTMARE\]](https://osu.ppy.sh/b/2483411)
+  - [Camellia - \* Erm, could it be a Spatiotemporal ShockWAVE Syndrome…? (Sillyp) \[NIGHTMARE\]](https://osu.ppy.sh/b/2483411)
   - [Camellia - INSANE INFLAME (Evening) \[FINAL IGNITION \[1.1x Rate\]\]](https://osu.ppy.sh/b/2477432)
   - [Camellia - SECRET BOSS (Kamuy) \[CATASTROPHE\]](https://osu.ppy.sh/b/2302409)
   - [DJ SHARPNEL - Shihen (\[Crz\]MemoryI) \[Challenge x1.25\]](https://osu.ppy.sh/b/2476268)
@@ -142,7 +142,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Semifinals
 
-**[Download the mappack here! (189MB)](https://www.dropbox.com/s/joxo6t1cxgqakrl/MCNC20%20%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
+**[Download the mappack here! (189 MB)](https://www.dropbox.com/s/joxo6t1cxgqakrl/MCNC20%20%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - Freemod
   - [CALL - Du Bist (Sillyp) \[EXEXEX\]](https://osu.ppy.sh/b/2460233)
@@ -165,7 +165,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Quarterfinals
 
-**[Download the mappack here! (156MB)](https://www.dropbox.com/s/09beh96ojmjnkzb/MCNC20%20%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
+**[Download the mappack here! (156 MB)](https://www.dropbox.com/s/09beh96ojmjnkzb/MCNC20%20%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - Freemod
   - [Dyako/UsadaPekora - usadapekora (\[Crz\]xz1z1z) \[pekopekopeko\]](https://osu.ppy.sh/b/2438605)
@@ -186,7 +186,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Round of 16
 
-**[Download the mappack here! (113MB)](https://www.dropbox.com/s/ie7xz0i9zw0d485/MCNC20%20RO16%E5%9B%BE%E5%8C%85.rar?dl=0)**
+**[Download the mappack here! (113 MB)](https://www.dropbox.com/s/ie7xz0i9zw0d485/MCNC20%20RO16%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - Freemod
   - [(G)I-DLE - WHAT'S YOUR NAME (Skochan) \[My name\]](https://osu.ppy.sh/b/1947823)
@@ -207,7 +207,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Group Stage
 
-**[Download the mappack here! (121MB)](https://www.dropbox.com/s/lqde07vuqftq579/MCNC20%20%E5%B0%8F%E7%BB%84%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
+**[Download the mappack here! (121 MB)](https://www.dropbox.com/s/lqde07vuqftq579/MCNC20%20%E5%B0%8F%E7%BB%84%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - Freemod
   - [Bring Me The Horizon - ouch (Sillyp) \[Tears\]](https://osu.ppy.sh/b/2413394)
@@ -226,7 +226,7 @@ This competition has come to an end and resulted in the following podium:
 
 ### Qualifiers
 
-**[Download the mappack here! (14.3MB)](https://www.dropbox.com/s/xwvugt6bvhy6d20/MCNC20%20%E8%B5%84%E6%A0%BC%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
+**[Download the mappack here! (14.3 MB)](https://www.dropbox.com/s/xwvugt6bvhy6d20/MCNC20%20%E8%B5%84%E6%A0%BC%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
 - Nomod
   - [DASU - 8 6 (\[Crz\]xz1z1z) \[SV\]](https://osu.ppy.sh/b/2285630)
@@ -339,8 +339,6 @@ This competition has come to an end and resulted in the following podium:
 | **\[RT\]Alleyne** | **5** | 0 | \[ Emiya \] | *Win by Default* |
 | **Hx\_032** | **5** | 0 | Kagaku | [#1](https://osu.ppy.sh/community/matches/61201441) |
 | **\[RT\]Alleyne** | **5** | 1 | CherryG | [#1](https://osu.ppy.sh/community/matches/61200581) |
-
-
 
 ## Ruleset
 
