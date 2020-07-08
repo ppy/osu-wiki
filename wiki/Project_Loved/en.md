@@ -1,6 +1,6 @@
 # Project Loved
 
-**Project Loved** is the voting platform that promotes beatmaps to the [Loved](/wiki/Beatmaps#loved) category. It is run primarily by the [Project Loved Team](/wiki/People/Project_Loved_Team).
+**Project Loved** is the voting platform that promotes beatmaps to the [Loved](/wiki/Beatmaps#loved) category. It is run primarily by the [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team).
 
 ## Moving a beatmap to Loved
 
@@ -13,7 +13,7 @@ Members of the Project Loved Team called **captains** regularly nominate beatmap
 - [osu!/osu!taiko/osu!catch listing](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit)
 - [osu!mania listing](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit)
 
-*Note: If your access to Google Forms is restricted, you may also contact any of the [Project Loved Team members](/wiki/People/Project_Loved_Team#team-members) to have a map submitted on your behalf.*
+*Note: If your access to Google Forms is restricted, you may also contact any of the [Project Loved Team members](/wiki/People/The_Team/Project_Loved_Team#team-members) to have a map submitted on your behalf.*
 
 Nominated mapsets are then posted to the [Project Loved forum](https://osu.ppy.sh/community/forums/120), where community members may vote whether they want the mapset to be Loved or not. Maps reaching a specified threshold percentage of "Yes" votes at their polls' end time will be moved to the Loved category.
 
@@ -27,7 +27,7 @@ There are some very minimal criteria that need to be met for beatmaps to be nomi
 - At least one difficulty can be passed
 - It has at least 30 favourites (only applies to osu!standard maps)
 
-However, despite nearly all [Pending and Work-in-progress](/wiki/Beatmaps#pending) maps meeting these criteria, few are voted into the Loved category due to the more selective nomination and voting requirements.
+However, despite nearly all [Pending and Work-in-progress](/wiki/Beatmaps#work-in-progress-and-pending) maps meeting these criteria, few are voted into the Loved category due to the more selective nomination and voting requirements.
 
 Beatmaps entering the Loved category are required to follow some additional rule sets:
 

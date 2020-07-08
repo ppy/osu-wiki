@@ -29,14 +29,12 @@ Support Team 主要负责:
 | ![][flag_US] [Dntm8kmeeatu](https://osu.ppy.sh/users/5428812) |  |
 | ![][flag_NO] [MillhioreF](https://osu.ppy.sh/users/941094) |  |
 | ![][flag_PH] [Nathanael](https://osu.ppy.sh/users/2295078) | 菲律宾语 |
-| ![][flag_CA] [Pawsu](https://osu.ppy.sh/users/2371454) |  |
-| ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | 瑞典语, 西班牙语 |
+| ![][flag_SE] [Saten](https://osu.ppy.sh/users/444506) | 瑞典语，西班牙语 |
 | ![][flag_AU] [smoogipoo](https://osu.ppy.sh/users/1040328) |  |
 | ![][flag_DE] [Tom94](https://osu.ppy.sh/users/1857058) | 德语 |
 | ![][flag_ES] [Trosk-](https://osu.ppy.sh/users/3469385) | 西班牙语 |
 
 [flag_AU]: /wiki/shared/flag/AU.gif "澳大利亚"
-[flag_CA]: /wiki/shared/flag/CA.gif "加拿大"
 [flag_DE]: /wiki/shared/flag/DE.gif "德国"
 [flag_ES]: /wiki/shared/flag/ES.gif "西班牙"
 [flag_NO]: /wiki/shared/flag/NO.gif "挪威"

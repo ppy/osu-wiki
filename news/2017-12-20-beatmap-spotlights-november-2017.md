@@ -14,10 +14,10 @@ The beatmap charts for the November Spotlights can be found [here](https://osu.p
 
 First of all, congratulations to the winners of the October 2017 Spotlights. They receive one month of supporter status for their efforts!
 
-+ **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
-+ **osu!taiko:** [zkane2](https://osu.ppy.sh/users/6359835)
-+ **osu!catch:** [[-naniwa-]](https://osu.ppy.sh/users/4958376)
-+ **osu!mania:** [Cryolien](https://osu.ppy.sh/users/1626983)
+- **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
+- **osu!taiko:** [zkane2](https://osu.ppy.sh/users/6359835)
+- **osu!catch:** [[-naniwa-]](https://osu.ppy.sh/users/4958376)
+- **osu!mania:** [Cryolien](https://osu.ppy.sh/users/1626983)
 
 ## Changes within the Spotlight Team
 
@@ -25,10 +25,10 @@ We're welcoming [Mao](https://osu.ppy.sh/users/2204515) and [Nardoxyribonucleic]
 
 In conjunction with the above changes, it is my pleasure to welcome our new map selectors into the team.
 
-* **osu!:** [Battle](https://osu.ppy.sh/users/4037545), [Halfslashed](https://osu.ppy.sh/users/4598899), [Delis](https://osu.ppy.sh/users/1603923), [Regou](https://osu.ppy.sh/users/419954), [Crystal](https://osu.ppy.sh/users/1646397), [Gamu](https://osu.ppy.sh/users/611174)
-* **osu!taiko:** [hikikochan](https://osu.ppy.sh/users/6512678), [Neppu](https://osu.ppy.sh/users/605973)
-* **osu!catch:** [Crystal](https://osu.ppy.sh/users/1646397)
-* **osu!mania:** [Garalulu](https://osu.ppy.sh/users/757783), [Pope Gadget](https://osu.ppy.sh/users/2288341), [Asherz007](https://osu.ppy.sh/users/9014047), [TheToaphster](https://osu.ppy.sh/users/7616811)
+- **osu!:** [Battle](https://osu.ppy.sh/users/4037545), [Halfslashed](https://osu.ppy.sh/users/4598899), [Delis](https://osu.ppy.sh/users/1603923), [Regou](https://osu.ppy.sh/users/419954), [Crystal](https://osu.ppy.sh/users/1646397), [Gamu](https://osu.ppy.sh/users/611174)
+- **osu!taiko:** [hikikochan](https://osu.ppy.sh/users/6512678), [Neppu](https://osu.ppy.sh/users/605973)
+- **osu!catch:** [Crystal](https://osu.ppy.sh/users/1646397)
+- **osu!mania:** [Garalulu](https://osu.ppy.sh/users/757783), [Pope Gadget](https://osu.ppy.sh/users/2288341), [Asherz007](https://osu.ppy.sh/users/9014047), [TheToaphster](https://osu.ppy.sh/users/7616811)
 
 # November 2017 Spotlights
 

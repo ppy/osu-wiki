@@ -16,8 +16,8 @@ The **Hidden Only Tournament** (***HOT***) is a worldwide double-elimination 2v2
 | Registration phase | 2020-04-13/2020-05-03 |
 | Qualifiers | 2020-05-15/2020-05-18 |
 | Round of 32 | 2020-05-22/2020-05-25 |
-| Round of 32 | 2020-05-30/2020-05-31 |
-| Quarterfinals | 2020-06-06/2020-06-07 |
+| Round of 16 | 2020-05-29/2020-06-01 |
+| Quarterfinals | 2020-06-06/2020-06-08 |
 | Semifinals | 2020-06-13/2020-06-14 |
 | Finals | 2020-06-20/2020-06-21 |
 | Grand Finals | 2020-06-27/2020-06-28 |
@@ -95,6 +95,81 @@ The Hidden Only Tournament is run by various community members.
 
 ## Mappools
 
+### Finals
+
+**[Download the mappack here! (178 MB)](https://drive.google.com/file/d/11urnyvwRjKDDcRevC2a-cWEQS0b4vjHi/view?usp=sharing)**
+
+- Hidden
+  - [Roselia - R (Doormat) \[Rosenlied\]](https://osu.ppy.sh/beatmapsets/820180#osu/1719416)
+  - [xi - ANiMA (\_kotachi\_) \[Words of the Ruler\]](https://osu.ppy.sh/beatmapsets/749276#osu/1578256)
+  - [Suzuki Konomi - Cyber Thunder Cider (Nattu) \[SAIBAA SANDAA SAIDAA\]](https://osu.ppy.sh/beatmapsets/539481#osu/2047528)
+  - [Zekk - Feelsleft0ut (J1\_) \[Alone\]](https://osu.ppy.sh/beatmapsets/821587#osu/1722011)
+  - [onoken - Quinine -A2D SIDE- (Matrix) \[ExtrA\]](https://osu.ppy.sh/beatmapsets/932298#osu/1946518)
+  - [GEM - Umiyuri Kaiteitan (Loreley) \[Mirash's Extra\]](https://osu.ppy.sh/beatmapsets/647452#osu/1517974)
+  - [Demetori - Faith is for the Transient People \~ Jehovah's YaHVeH (Regou) \[Extra\]](https://osu.ppy.sh/beatmapsets/43230#osu/135763)
+  - [lapix feat. Renko - Concept Of Reality (ProfessionalBox) \[eXiStEnCe\]](https://osu.ppy.sh/beatmapsets/559140#osu/1182535)
+  - [Tanchiky - Sanshi Suimei (nika mika) \[Miyabi\]](https://osu.ppy.sh/beatmapsets/811685#osu/1702581)
+  - [Eisyo-kobu - Oriental Blossom (Crystal) \[konG's Extra\]](https://osu.ppy.sh/beatmapsets/586889#osu/1243791)
+  - [Getty vs. DJ DiA - DropZ-Line- (Realazy) \[Lazy's Another\]](https://osu.ppy.sh/beatmapsets/727049#osu/1603376)
+  - [MC Lynn - EkiBEN2000 (arken1015) \[Insane\]](https://osu.ppy.sh/beatmapsets/9782#osu/42793)
+- Hidden+DoubleTime
+  - [Shihori - Bloody Night (Frostmourne) \[Lunatic\]](https://osu.ppy.sh/beatmapsets/46223#osu/143989)
+  - [zts - rotater (tokiko) \[lunatic\]](https://osu.ppy.sh/beatmapsets/905162#osu/1889238)
+  - [07th Expansion - Akai Tsukunise (soulfear) \[Souken no Tou\]](https://osu.ppy.sh/beatmapsets/14208#osu/52128)
+  - [System of a Down - Vicinity of Obscenity (Larto) \[Possible\]](https://osu.ppy.sh/beatmapsets/13768#osu/50933)
+- Tiebreaker
+  - **[Dark PHOENiX - Ryokugan no Jealousy (EvilElvis) \[Monster with Green Eyes\]](https://osu.ppy.sh/beatmapsets/382455#osu/836339)**
+  - **[Meramipop - Secret Desire - Dyes Remix - (Skystar) \[Irregular\]](https://osu.ppy.sh/beatmapsets/697895#osu/1478218)**
+  - **[Diao Ye Zong feat. Meramipop - 'Thema of Curtain Fire Shooters' -History 3/3- (Hey lululu) \[Extra Stage\]](https://osu.ppy.sh/beatmapsets/746655#osu/1573582)**
+
+### Semifinals
+
+**[Download the mappack here! (115 MB)](https://drive.google.com/file/d/1zzOjFflNIk-4qL7nAmg_DWqdc5Xnl4mh/view?usp=sharing)**
+
+- Hidden
+  - [Suzuki Konomi - Zenbu Kimi ga Ita kara Shittanda (Kalibe) \[Hope\]](https://osu.ppy.sh/beatmapsets/587616#osu/1725575)
+  - [Demetori - Natsukashiki Touhou no Chi \~ Sic World (Keada) \[Stage 3\]](https://osu.ppy.sh/beatmapsets/818642#osu/1716448)
+  - [Beatdrop - Phase 1 (rickyboi) \[SHD\]](https://osu.ppy.sh/beatmapsets/54511#osu/168031)
+  - [PSYQUI - Be There (Livia) \[Future\]](https://osu.ppy.sh/beatmapsets/826236#osu/1731655)
+  - [xi - Halcyon (gowww) \[Another\]](https://osu.ppy.sh/beatmapsets/20871#osu/73699)
+  - [Luschka - Kami no Kotoba (byfar) \[Rue's Extra\]](https://osu.ppy.sh/beatmapsets/817667#osu/1714636)
+  - [MAX MAXIMIZER vs. DJ TOTTO - Rebellio (Realazy) \[NINO'S EXTRA\]](https://osu.ppy.sh/beatmapsets/744636#osu/1593690)
+  - [Cranky - Rave 2 Rave (Sonnyc) \[Expert\]](https://osu.ppy.sh/beatmapsets/751896#osu/1582902)
+  - [DragonForce - Ashes of the Dawn (pw384) \[Extreme\]](https://osu.ppy.sh/beatmapsets/786141#osu/1713929)
+  - [FamilyMart Jingle (deepsea) \[Family Mart is Your Home\]](https://osu.ppy.sh/beatmapsets/9400#osu/37658)
+- Hidden+DoubleTime
+  - [Scatman John - Scatman (Extor) \[Insane\]](https://osu.ppy.sh/beatmapsets/18#osu/80)
+  - [senya - Youyoumu no Gotoku (Satellite) \[Satellite\]](https://osu.ppy.sh/beatmapsets/110985#osu/299041)
+  - [TORIENA - RAT RACE (Acyl) \[Team :3c's Hyper\]](https://osu.ppy.sh/beatmapsets/1027510#osu/2148691)
+- Tiebreaker
+  - **[DystopiaGround - AugoEidEs (Amamiya Yuko) \[nao\]](https://osu.ppy.sh/beatmapsets/95701#osu/300689)**
+  - **[Meramipop - Take no Hana (Crystal) \[Posthumous Romance\]](https://osu.ppy.sh/beatmapsets/421858#osu/920877)**
+  - **[Camellia - Stealth-Dash (Realazy) \[Mir's Shadow\]](https://osu.ppy.sh/beatmapsets/908451#osu/1899759)**
+
+### Quarterfinals
+
+**[Download the mappack here! (115 MB)](https://drive.google.com/file/d/1RR67F86CGZIz1Hn-cDVyR3pvOBuoGlL8/view?usp=sharing)**
+
+- Hidden
+  - [Suzuki Konomi - Blow out (Kalibe) \[Meg's Another\]](https://osu.ppy.sh/beatmapsets/617203#osu/1303641)
+  - [goreshit - fly, heart! fly! (kiri09) \[flyable\]](https://osu.ppy.sh/beatmapsets/93754#osu/252755)
+  - [Nanahoshi Kangengakudan feat.Matsushita - Dance Number o Tomo ni (pkk) \[Dance Number\]](https://osu.ppy.sh/beatmapsets/353398#osu/778603)
+  - [lapix - Nexta (Realazy) \[Ayyri's GRAVITY\]](https://osu.ppy.sh/beatmapsets/1050635#osu/2319981)
+  - [ALiCE'S EMOTiON - Lorelei (Dada) \[Vintage\]](https://osu.ppy.sh/beatmapsets/829950#osu/1738984)
+  - [Liz Triangle - Immortal Philosophy (Jounzan) \[Sisterly Love\]](https://osu.ppy.sh/beatmapsets/941212#osu/1965586)
+  - [cosMo@BousouP - The Real Disappearance of Hatsune Miku (sullywally) \[Extra\]](https://osu.ppy.sh/beatmapsets/555807#osu/1176292)
+  - [Cranky vs. MASAKI - ouroboros -twin stroke of the end- (celerih) \[Another\]](https://osu.ppy.sh/beatmapsets/1052054#osu/2209919)
+  - [verzache - night (squirrelpascals) \[moon\]](https://osu.ppy.sh/beatmapsets/780349#osu/1639261)
+  - [CommanderGwonam - I.M. Crazy (CDFA) \[Meaniepants\]](https://osu.ppy.sh/beatmapsets/12835#osu/47857)
+- Hidden+DoubleTIme
+  - [dj TAKA - Snow Storm (Alace) \[Hyper\]](https://osu.ppy.sh/beatmapsets/7190#osu/31240)
+  - [Luschka - unravel (Mirash) \[Insane\]](https://osu.ppy.sh/beatmapsets/731933#osu/1803876)
+  - [sana - Kotoba no Iranai Yakusoku (Irohas) \[Insane\]](https://osu.ppy.sh/beatmapsets/634179#osu/1345731)
+- Tiebreaker
+  - **[Demetori - Retrospective Kyoto \~ Japanese Beautiful Barrage (Crissa) \[Illusionary Dominance\]](https://osu.ppy.sh/beatmapsets/897861#osu/1875674)**
+  - **[Cranky - JULIAN (ScubDomino) \[LA PROMESSE\]](https://osu.ppy.sh/beatmapsets/1008310#osu/2110306)**
+  - **[Camellia - dreamless wanderer (deetz) \[lost\]](https://osu.ppy.sh/beatmapsets/417492#osu/904030)**
+
 ### Round of 16
 
 **[Download the mappack here! (105 MB)](https://drive.google.com/file/d/1Gpq8foPrKJECKJ65C7i45UgOGr4pBrgI/view?usp=sharing)**
@@ -153,6 +228,97 @@ The Hidden Only Tournament is run by various community members.
   - [Sharlo - Ifuudoudou (Chaoslitz) \[Ifuuidol\]](https://osu.ppy.sh/beatmapsets/445251#osu/956456)
 
 ## Match results
+
+### Semifinals
+
+Saturday, 13 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| 3山刪白狼 | 2 | **6** | **newton is gey** | [#1](https://osu.ppy.sh/community/matches/62872474) |
+| C-O-C-A-I-N-E | 0 | **6** | **Omero Kamalio** | [#1](https://osu.ppy.sh/community/matches/62876385) |
+| **butterfly** | **6** | 3 | HR Main | [#1](https://osu.ppy.sh/community/matches/62878483) |
+| ar7 | 2 | **6** | **Pocket Galaxy** | [#1](https://osu.ppy.sh/community/matches/62883171) |
+
+Sunday, 14 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Koppepan Gaming | 0 | **6** | **Phrygian Friends** | [#1](https://osu.ppy.sh/community/matches/62902963) |
+| butterfly | 1 | **6** | **Pocket Galaxy** | [#1](https://osu.ppy.sh/community/matches/62922897) |
+| comet | 2 | **6** | **:rooGya:** | [#1](https://osu.ppy.sh/community/matches/62926896) |
+| Omero Kamalio | 4 | **6** | **newton is gey** | [#1](https://osu.ppy.sh/community/matches/62955750) |
+
+### Quarterfinals
+
+Saturday, 6 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| nothing to hide | 1 | **6** | **newton is gey** | [#1](https://osu.ppy.sh/community/matches/62577804) |
+| **comet** | **6** | 2 | 3山刪白狼 | [#1](https://osu.ppy.sh/community/matches/62581279) |
+| what | 5 | **6** | **akinari** | [#1](https://osu.ppy.sh/community/matches/62584394) |
+| ar7 | 2 | **6** | **Koppepan Gaming** | [#1](https://osu.ppy.sh/community/matches/62585386) |
+| **HR Main** | **6** | 2 | ramon's nipples | [#1](https://osu.ppy.sh/community/matches/62585434) |
+| **Kärpät Oulu** | **6** | 0 | Carlos | [#1](https://osu.ppy.sh/community/matches/62587747) |
+| **Omero Kamalio** | **6** | 1 | colegas 1 | [#1](https://osu.ppy.sh/community/matches/62587757) |
+| **Eat 'Em Up** | **6** | 3 | Saxophone Bug | [#1](https://osu.ppy.sh/community/matches/62589800) |
+| **Pocket Galaxy** | **6** | 0 | bojowa wiertarka | [#1](https://osu.ppy.sh/community/matches/62593868) |
+| **sawada's team** | **6** | 2 | osuplayer111 | [#1](https://osu.ppy.sh/community/matches/62596214) |
+
+Sunday, 7 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **newton is gey** | **6** | 2 | Eat 'Em Up | [#1](https://osu.ppy.sh/community/matches/62619469) |
+| Kärpät Oulu | 2 | **6** | **Pocket Galaxy** | [#1](https://osu.ppy.sh/community/matches/62627421) |
+| akinari | 2 | **6** | **HR Main** | [#1](https://osu.ppy.sh/community/matches/62627447) |
+
+Monday, 8 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| C-O-C-A-I-N-E | 3 | **6** | **:rooGya:** | [#1](https://osu.ppy.sh/community/matches/62644294) |
+| **Phrygian Friends** | **6** | 1 | butterfly | [#1](https://osu.ppy.sh/community/matches/62645681) |
+| **Omero Kamalio** | **6** | 2 | sawada's team | [#1](https://osu.ppy.sh/community/matches/62672610) |
+
+### Round of 16
+
+Friday, 29 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **akinari** | **5** | 1 | cringe mod | [#1](https://osu.ppy.sh/community/matches/62258519) |
+
+Saturday, 30 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **3山刪白狼** | **5** | 4 | Pocket Galaxy | [#1](https://osu.ppy.sh/community/matches/62292455) |
+| what | 1 | **5** | **C-O-C-A-I-N-E** | [#1](https://osu.ppy.sh/community/matches/62294640) |
+| Heroes | 0 | **5** | **newton is gey** | [#1](https://osu.ppy.sh/community/matches/62296979) |
+| Eat 'Em Up | 3 | **5** | **Koppepan Gaming** | [#1](https://osu.ppy.sh/community/matches/62299866) |
+| **Phrygian Friends** | **5** | 0 | Omero Kamalio | [#1](https://osu.ppy.sh/community/matches/62301959) |
+| **comet** | **5** | 1 | Kärpät Oulu | [#1](https://osu.ppy.sh/community/matches/62304145) |
+| sawada's team | 2 | **5** | **butterfly** | [#1](https://osu.ppy.sh/community/matches/62306586) |
+| Stafferino | 2 | **5** | **ramon's nipples** | [#1](https://osu.ppy.sh/community/matches/62309170) |
+| **Carlos** | **5** | 3 | macachi pec | [#1](https://osu.ppy.sh/community/matches/62312792) |
+
+Sunday, 31 May 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| **ar7** | **5** | 1 | nothing to hide | [#1](https://osu.ppy.sh/community/matches/62337683) |
+| sut\_gasm | 0 | **5** | **Saxophone** Bug | [#1](https://osu.ppy.sh/community/matches/62351156) |
+| **colegas 1** | **5** | 0 | can't read HD | [#1](https://osu.ppy.sh/community/matches/62351149) |
+| sut\_son nose | 4 | **5** | **bojowa wiertarka** | [#1](https://osu.ppy.sh/community/matches/62350624) |
+| i hate osu | 0 | **5** | **osuplayer111** | [#1](https://osu.ppy.sh/community/matches/62353056) |
+
+Monday, 1 June 2020:
+
+| Team 1 |  |  | Team 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| HR Main | 3 | **5** | **:rooGya:** | [#1](https://osu.ppy.sh/community/matches/62362009) |
 
 ### Round of 32
 

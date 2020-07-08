@@ -7,6 +7,8 @@ tumblr_url: http://osunews.tumblr.com/post/152901340878/osuidol-2016-final-resul
 
 Once again, we have reached the end of another edition of osu!idol. Compared to 2015, we received a lot more contestants this year, giving us an extended amount of singers to listen and evaluate!
 
+![](http://flan.s-ul.eu/IXfP3V7O)
+
 Over the course of a couple of months, throughout 5 stages, our judges worked hard to ensure we have amazing talents lined up on the final podium! Without further ado, here are the results from the finals' voting:
 
 ![](https://i.imgur.com/5yp14zN.png)
@@ -18,9 +20,9 @@ applause to our finalists! We wish you a fantastic musical career in the future!
 
 Here are the MP3 links to the performances available for download, enjoy.
 
-* [Slyleaf - 心做し Kokoronashi](http://flan.s-ul.eu/QsrQaLFm)
-* [Daikyi - days](http://flan.s-ul.eu/WoFPI9Sn)
-* [MissTitannia - Vixx](http://flan.s-ul.eu/tYzf45Nk)
+- [Slyleaf - 心做し Kokoronashi](http://flan.s-ul.eu/QsrQaLFm)
+- [Daikyi - days](http://flan.s-ul.eu/WoFPI9Sn)
+- [MissTitannia - Vixx](http://flan.s-ul.eu/tYzf45Nk)
 
 Thank you to everyone who participated, supported and followed the event! Same goes to our judges! Great work, guys!
 

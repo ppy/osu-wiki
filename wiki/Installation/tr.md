@@ -21,6 +21,17 @@ Bu sayfa size Windows cihazınızda osu!'yu nasıl çalıştıracağınızı anl
    - Eğer halihazırda bir hesabınız varsa, giriş yapın.
    - Eğer kayıt olmanız gerekiyorsa, [Kayıt](/wiki/Registration) sayfasına göz atın.
 
+## Sorun giderme
+
+Eğer 64-bit Windows 7 kullanıyorsanız, osu!'yu doğru kurmakta sorun yaşayabilirsiniz. osu! yükleyicisi ile birlikte gelmemesi ihtimaline karşı, .NET Framework'ün 64-bit sürümünü kurmayı deneyin. [Buradan indirin](https://download.microsoft.com/download/2/0/e/20e90413-712f-438c-988e-fdaa79a8ac3d/dotnetfx35.exe)
+
+---
+
+**Eğer kurulum aşamasındayken oyun yükleyicisi hata veriyorsa, birkaç şey deneyebilirsiniz:**
+
+- .NET Framework'ün son sürümünü yeniden kurmayı deneyin. [Buradan bulabilirsiniz](https://dotnet.microsoft.com/download).
+- PC'nizi temizleyin - Anti-virüs yazılımıyla tarayın, kayıt defterini temizleyin. CCleaner genel temizlik için iyi bir programdır. Hem bilgisayarınızı hem de kayıt defterinizi tarayın. osu!'nun önceki bir kopyasından kayıt defteri girdileri hala sisteminizde bulunuyorsa yükleyici başarısız olabilir.
+
 ## Beatmap seti indirmek
 
 *Ayrıca bakınız: [Beatmapler](/wiki/Beatmaps)*
@@ -50,9 +61,9 @@ Beatmap eklemenin iki yolu vardır, web sayfası üzerinden ya da osu!direct üz
 
 ## Tema ekleme
 
-*Ayrıca bakınız: [Tema Yaratma](/wiki/Skinning)*
+*Ayrıca bakınız: [Tema yaratma](/wiki/Skinning)*
 
-1. [Tema Yaratma forumlarına](https://osu.ppy.sh/community/forums/15) gidin ve sevdiğiniz bir temayı bulun.
+1. [Tema yaratma forumlarına](https://osu.ppy.sh/community/forums/15) gidin ve sevdiğiniz bir temayı bulun.
 2. Bir tema bulduğunuzda onu indirin.
 3. Temayı oluşturanın onu nasıl paketlediğine göre farklı şeyler yapmanız gerekebilir.
    - Eğer tema `.osk` uzantılıysa:
@@ -62,5 +73,5 @@ Beatmap eklemenin iki yolu vardır, web sayfası üzerinden ya da osu!direct üz
      1. Dizine çıkarın.
      2. Çıkarılmış tema dosyasını osu! dosya konumundaki `Skins` dizinine aktarın.
      3. Eğer osu! çalışıyorsa, `Ctrl` + `Alt` + `Shift` + `S` kısayolunu kullandıktan sonra tema görüntülenecektir.
-     4. osu! içerisinde, [Ayarlara](/wiki/Options) gidin ve aramaya `Tema` yazın.
+     4. osu! içerisinde, [Seçeneklere](/wiki/Options) gidin ve aramaya `Tema` yazın.
      5. `Şimdiki Tema:` seçeneğine tıklayıp çıkan menüde indirdiğiniz temayı seçin.

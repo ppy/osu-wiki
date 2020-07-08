@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Timing
 
 谱面的计时包括计算歌曲的延迟(offset)和每分钟节拍数(beats per minute (BPM)。BPM决定了歌曲的快慢，offset则是歌曲开始到第一个重音之间的时间差。

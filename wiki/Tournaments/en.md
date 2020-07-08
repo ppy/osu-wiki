@@ -192,7 +192,13 @@ Unofficial tournaments/competitions hosted by the communities.
 | 112's Summer Tournament 2018 | 2018-06-03 | 2018-08-12 | FT RakotGaming | osu! meme team | Alemin Hızlı Delikanlıları |
 | 112's Winter Tournament 2019 | 2018-12-09 | 2019-02-02 | Beceriksizler 2.0 | Kumsal Lazanyası | Subscribe To Pewdiepie |
 | [112's Summer Tournament 2019](112/Summer_2019) | 2019-06-05 | 2019-08-22 | egemen ve aimless | KaFein | Kwk Yelleri |
-| 112's Corona Tournament | 2020-03-31 | 2020-05-23 | *TBD* | *TBD* | *TBD* |
+| [112's Corona Tournament](112/Corona_2020) | 2020-03-31 | 2020-05-30 | ali vefa fanclub | NEŞESİNE YAŞAM | SARS-CoV-3 |
+
+### ![](/wiki/shared/mode/osu.png) osu! Singapore-Indonesia-Malaysia Tournament
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [osu! Singapore-Indonesia-Malaysia Tournament](OSIM/1) | 2020-03-21 | 2020-05-17 | somaymalaycapcay | adventure timers | we will 操你妈 |
 
 ### ![](/wiki/shared/mode/osu.png) ROI PRO Tournament
 
@@ -210,8 +216,6 @@ Unofficial tournaments/competitions hosted by the communities.
 
 ### ![](/wiki/shared/mode/taiko.png) Taiko Last Man Standing
 
-<!-- TODO: needs some cleaning up: "LMS" isn't explained in the Shift articles, folder name should probably be T_LMS, LMS index page doesn't list everything here -->
-
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | Taiko World Cup: Last Man Standing | 2014-05-10 | 2014-06-15 | ![][flag_JP] Japan | ![][flag_CL] Chile | ![][flag_TW] Taiwan A |
@@ -220,8 +224,8 @@ Unofficial tournaments/competitions hosted by the communities.
 | Taiko World Cup: Last Man Standing 3 | 2016-06-11 | 2016-07-24 | ![][flag_JP] Japan A | ![][flag_TW] Taiwan A | ![][flag_JP] Japan D |
 | Taiko: Last Man Standing - Single Player Edition 2 | 2017-01-07 | 2017-02-12 | ![][flag_JP] [_yu68](https://osu.ppy.sh/users/6170507) | ![][flag_KR] [applerss](https://osu.ppy.sh/users/983349) | ![][flag_CA] [janitoreihil](https://osu.ppy.sh/users/3307897) |
 | Taiko: Last Man Standing 4 | 2017-09-23 | 2017-10-28 | Tarako Spa | Can We Go Back | easy to giveup |
-| [Taiko LMS: Shift Cup](LMS/Shift_1) | 2018-06-09 | 2018-07-15 | V E R Y S T R O N G T E A M | あ | Ｆａｓｔ ＆ Ｃｈｉｌｌ 早く |
-| [Taiko LMS: Shift Cup 2](LMS/Shift_2) | 2020-04-25 | 2020-05-31 | *TBD* | *TBD* | *TBD* |
+| [Taiko LMS: Shift Cup](T_LMS/Shift_1) | 2018-06-09 | 2018-07-15 | V E R Y S T R O N G T E A M | あ | Ｆａｓｔ ＆ Ｃｈｉｌｌ 早く |
+| [Taiko LMS: Shift Cup 2](T_LMS/Shift_2) | 2020-04-25 | 2020-05-31 | Where is JDrago1-13? | abibibubibui | EuroGamers -Jaye |
 
 ### ![](/wiki/shared/mode/taiko.png) Global Taiko Showdown
 
@@ -289,6 +293,15 @@ Unofficial tournaments/competitions hosted by the communities.
 | Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [osu!catch Convert Cup](o!cCC/1) | 2019-09-21 | 2019-11-03 | ![][flag_CN] [Dusk](https://osu.ppy.sh/users/533210) | ![][flag_IT] [Karym](https://osu.ppy.sh/users/5220794) | ![][flag_CL] [NachoL](https://osu.ppy.sh/users/1250096) |
+
+### ![](/wiki/shared/mode/catch.png) Catch French Beginner
+
+| Name | Start | End | ![Gold crown][GCrown] | ![Silver crown][SCrown] | ![Bronze crown][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| CTB Beginner | 2018-06-30 | 2018-07-01 | ![][flag_FR] [4L-Chan 3 Porte](https://osu.ppy.sh/users/7253987) | ![][flag_FR] [FlameHaze](https://osu.ppy.sh/users/870066) | ![][flag_FR] [-Yuuki\_Tsubaki-](https://osu.ppy.sh/users/11408639) |
+| Catch French Beginner #2 | 2018-11-17 | 2018-12-15 | ![][flag_FR] [Leherketa](https://osu.ppy.sh/users/1702715) | ![][flag_FR] [MindLight](https://osu.ppy.sh/users/7664694) | ![][flag_FR] [Astreachan](https://osu.ppy.sh/users/2953898) |
+| Catch French Beginner #3 | 2019-06-15 | 2019-07-20 | ![][flag_FR] [MindLight](https://osu.ppy.sh/users/7664694) | ![][flag_FR] [Ladylag](https://osu.ppy.sh/users/2812098) | ![][flag_FR] [Kaeldori](https://osu.ppy.sh/users/962519) |
+| [Catch French Beginner 4](CFB/4) | 2020-04-25 | 2020-05-30 | ![][flag_CA] [Remyria](https://osu.ppy.sh/users/1699875) | ![][flag_FR] [Hecatia15](https://osu.ppy.sh/users/3163012) | ![][flag_FR] [Trifano](https://osu.ppy.sh/users/15126172) |
 
 ### ![](/wiki/shared/mode/mania.png) Chinese osu!mania 4K Tournament
 

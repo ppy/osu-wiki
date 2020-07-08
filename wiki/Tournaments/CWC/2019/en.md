@@ -3,11 +3,12 @@ tags:
 - CWC 2019
 - CWC2019
 ---
+
 # osu!catch World Cup 2019
 
 ![CWC 2019 Logo](img/logo.jpg)
 
-The **osu!catch World Cup 2019** (**_CWC 2019_**) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the eight installment of the osu!catch World Cup.
+The **osu!catch World Cup 2019** (***CWC 2019***) was a country-based osu!catch tournament hosted by the [osu! team](/wiki/People/The_Team). It was the eight installment of the osu!catch World Cup.
 
 ## Tournament Schedule
 
@@ -48,6 +49,7 @@ The osu!catch World Cup 2019 was run by various community members by distributin
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/913952)
 - [Livestream](https://www.twitch.tv/osulive)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/9) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Statistics sheet](https://bit.ly/2Jd3RXc)
 
 ---
@@ -91,15 +93,7 @@ The osu!catch World Cup 2019 was run by various community members by distributin
 
 ---
 
-## Podium
-
-This competition has come to an end and resulted in the following podium:
-
-| Placing | Country |
-| :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] South Korea |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_CN] China |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_CL] Chile |
+![CWC 2019 Podium](img/podium.png)
 
 ---
 
@@ -480,6 +474,7 @@ This competition has come to an end and resulted in the following podium:
 | Grand Finals | AE, P, Q |
 
 **Winning conditions:**
+
    - In Group Stage, you need to win 5 maps to win a match. (Best-of-9)
    - In the Round of 16 and the Quarterfinals, you need to win 6 maps to win a match. (Best-of-11)
    - In the **Semifinals, Finals and Grand Finals**, you need to win 7 maps to win the match. (Best-of-13)

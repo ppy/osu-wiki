@@ -13,8 +13,8 @@ To vote for your favorite contestent be sure to submit your votes [to the voting
 
 ## Prize Recap
 
-+ **1st**: Profile Badge + 3 months supporter tag
-+ **2nd**: 2 months supporter tag
-+ **3rd**: 1 month supporter tag
+- **1st**: Profile Badge + 3 months supporter tag
+- **2nd**: 2 months supporter tag
+- **3rd**: 1 month supporter tag
 
 —LoliFlan

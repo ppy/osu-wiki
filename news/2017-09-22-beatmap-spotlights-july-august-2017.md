@@ -20,10 +20,10 @@ Each month, a selection of volunteers work alongside the Quality Assurance Team 
 
 First of all, congratulations to the winners of the June 2017 Spotlights. They receive one month of supporter status for their efforts!
 
-+ **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
-+ **osu!taiko:** [Maitroxsk](https://osu.ppy.sh/users/4875451)
-+ **osu!catch:** [\_Asriel](https://osu.ppy.sh/users/566276)
-+ **osu!mania:** [Cryolien](https://osu.ppy.sh/users/1626983)
+- **osu!:** [Toy](https://osu.ppy.sh/users/2757689)
+- **osu!taiko:** [Maitroxsk](https://osu.ppy.sh/users/4875451)
+- **osu!catch:** [\_Asriel](https://osu.ppy.sh/users/566276)
+- **osu!mania:** [Cryolien](https://osu.ppy.sh/users/1626983)
 
 # July 2017 Spotlight
 

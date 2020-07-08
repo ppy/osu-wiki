@@ -9,6 +9,8 @@ Good luck, good health, good cheer. We wish you a happy new year!
 
 ![](https://assets.ppy.sh/events/cny2017/cny2017.jpg)
 
+![](https://assets.ppy.sh/events/cny2017/cny2017.jpg)
+
 With the 2016 Lunar Year coming to a close and the Year of the Rooster dawning in 2017, we'd like to take a moment to wish you and your loved ones a prosperous and successful new year.
 
 神猴辭歲、金鳳迎春；雄雞唱韻、大地回春。萬戶桃符新氣象、群山霞彩富神州；聞雞起舞迎元旦、擊壤而歌頌小康。
