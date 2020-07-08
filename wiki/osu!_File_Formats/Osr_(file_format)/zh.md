@@ -1,5 +1,3 @@
-
-
 # .osr 文件
 
 **.osr** 是一种包含osu!回放信息的文件格式。想要使用它，回放所指定的地图必须存在于 "Songs"文件夹。
@@ -36,14 +34,14 @@
 | Short | 结算界面显示的最大连击数 |
 | Byte | Perfect/full combo (1 = 没有Miss和断滑条) |
 | Integer | 使用的Mods。参阅下方的Mods值列表。 |
-| String | 生命值图像：用逗号分隔的u/v组，u代表此时的时间（毫秒），v是一个Float浮点值从（从0到1）表示此时的生命值（0=空生命值条，1=满生命值条）。 |
+| String | 生命值图像：用逗号分隔的u/v组，u代表此时的时间（毫秒），v是一个Float浮点值（从0到1）表示此时的生命值（0=空生命值条，1=满生命值条）。 |
 | Long | 时间戳 ([Windows ticks](http://msdn.microsoft.com/en-us/library/system.datetime.ticks%28v=vs.110%29.aspx)) |
 | Integer | 压缩后的回放数据的长度（用 byte 表示）（原文：Length in bytes of compressed replay data） |
 | Byte 数组 | 压缩后的回放数据 |
 
 剩余的数据包括在一个 wikipedia:LZMA 流里的鼠标移动与按键的信息。
 
-解压缩之后，文本包括一些用逗号分隔的数据。每一块数据反映了一个动作，表现在4个数字在下面的表格里：`w | x | y | z.`
+解压缩之后，文本包括一些用逗号分隔的数据。每一块数据反映了一个动作，表现在在下面的表格里的4个数字：`w | x | y | z.`
 
 | 部分 | 数据类型 | 描述 |
 | :-- | :-- | :-- |
