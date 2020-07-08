@@ -72,7 +72,7 @@ outdated: false
 | DoubleTime | 64 (6) |  |
 | Relax | 128 (7) |  |
 | HalfTime | 256 (8) |  |
-| Nightcore | 512 (9) | 总是和DT一起使用 : 512 + 64 = 576 |
+| Nightcore | 512 (9) | 总是和 DT 一起使用 : 512 + 64 = 576 |
 | Flashlight | 1024 (10) |  |
 | Autoplay | 2048 (11) |  |
 | SpunOut | 4096 (12) |  |
