@@ -16,12 +16,12 @@ Le score accordé par chaque cercle et fin de Slider est calculé à l'aide de l
 
 `Score = Hit Value + (Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25))`
 
-Terme | Signification
-:-: | :--
-**Hit Value** | Le nombre de points attribués pour chaque cercle (50, 100 ou 300), ticks de Sliders et les bonus des Spinners.
-**Combo multiplier** | (Combo avant la frappe - 1) ou 0; selon la valeur la plus élevée.
-**Difficulty multiplier** | Le paramètre de difficulté de la beatmap (voir prochain titre)
-**Mod multiplier** | Le multiplicateur correspondant aux mods sélectionnés.
+| Terme | Signification |
+| :-: | :-- |
+| **Hit Value** | Le nombre de points attribués pour chaque cercle (50, 100 ou 300), ticks de Sliders et les bonus des Spinners. |
+| **Combo multiplier** | (Combo avant la frappe - 1) ou 0; selon la valeur la plus élevée. |
+| **Difficulty multiplier** | Le paramètre de difficulté de la beatmap (voir prochain titre) |
+| **Mod multiplier** | Le multiplicateur correspondant aux mods sélectionnés. |
 
 De plus, chaque point de début, de fin ou de répétition du Slider donne 30pt, chaque tick intermédiaire du Slider donne 10pt et chaque tour d'un Spinner donne 100pt.
 
@@ -29,19 +29,19 @@ Un bonus supplémentaire de 1,000pt est obtenu pour chaque tour d'un Spinner dè
 
 ### Comment déterminer le multiplicateur de difficulté
 
-Le **multiplicateur de difficulté** était calculé sur base du Star Rating de chaque map (l'ancien système, avant l'introduction des points de performance), qui tenait compte de la densité des objets, et était affecté par les paramètres de difficulté de la map comme suit.
+Le **multiplicateur de difficulté** était calculé sur base du Star Rating de chaque beatmap (l'ancien système, avant l'introduction des points de performance), qui tenait compte de la densité des objets, et était affecté par les paramètres de difficulté de la beatmap comme suit :
 
-[Circle Size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), [HP Drain (HP)](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) et [Overall Difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) augmentent chacun un compteur de _points de difficulté_ de 1 point.
+[Circle Size (CS)](/wiki/Beatmap_Editor/Song_Setup#circle-size), [HP Drain (HP)](/wiki/Beatmap_Editor/Song_Setup#hp-drain-rate) et [Overall Difficulty (OD)](/wiki/Beatmap_Editor/Song_Setup#overall-difficulty) augmentent chacun un compteur de *points de difficulté* de 1 point.
 
 La valeur finale du compteur affecte le **multiplicateur de difficulté** comme suit :-
 
-Intervalle de point de difficulté | Multiplicateur de difficulté
-:-: | :--
-**0 - 5**   | multiplicateur 2x 
-**6 - 12**  | multiplicateur 3x 
-**13 - 17** | multiplicateur 4x
-**18 - 24** | multiplicateur 5x 
-**25 - 30** | multiplicateur 6x
+| Intervalle de point de difficulté | Multiplicateur de difficulté |
+| :-: | :-- |
+| **0 - 5** | multiplicateur 2x |
+| **6 - 12** | multiplicateur 3x |
+| **13 - 17** | multiplicateur 4x |
+| **18 - 24** | multiplicateur 5x |
+| **25 - 30** | multiplicateur 6x |
 
 La limite supérieure est de 27 points de difficulté, atteignable avec CS7, OD10 et HP10.
 La limite inférieure est de 2 points de difficulté, atteignable avec CS2, OD0 et HP0.
@@ -53,44 +53,44 @@ Seule la valeur d'origine sera prise en compte.
 
 ## osu!taiko
 
-Chaque GREAT (excepté le bonus 1.2x du Kiai Time) compte pour _300 + RoundDown(Combo / 10) fois n_, jusqu'à un maximum de _300 + 10 fois n_ points, où _n_ dépend de la difficulté de la beatmap.
+Chaque GREAT (excepté le bonus 1.2x du Kiai Time) compte pour *300 + RoundDown(Combo / 10) fois n*, jusqu'à un maximum de *300 + 10 fois n* points, où *n* dépend de la difficulté de la beatmap.
 
-Chaque _GOOD_ compte pour la moitié d'un _GREAT_
+Chaque *GOOD* compte pour la moitié d'un *GREAT*
 
-Chaque _MISS/BAD_ ne donne pas de points. <!-- Hésitation sur la conjugaison de "donne" -->
+Chaque *MISS/BAD* ne donne pas de points.
 
-Un score double est accordé en cas de _frappe réussie_ d'une note large (différent de _Taiko no Tatsujin_, les tambours droit et gauche doivent être frappé simultanément avec précision pour pouvoir considérer la frappe comme réussie sur les notes larges)
+Un score double est accordé en cas de *frappe réussie* d'une note large (différent de *Taiko no Tatsujin*, les tambours droit et gauche doivent être frappés simultanément avec précision pour pouvoir considérer la frappe comme réussie sur les notes larges)
 
 Concernant les longues notes jaunes, 300 points sont accordés pour chaque frappe dans une petite, et 600 dans une large.
 
-pour les Shakers, chaque frappe donne 300 points, et la complétion du Shaker donne un score équivalent à deux GREAT, évalué au combo actuel.
+Pour les Shakers, chaque frappe donne 300 points, et la complétion du Shaker donne un score équivalent à deux GREAT, évalué au combo actuel.
 
-Une valeur typique de _n_ (4.5-5\* dans l'ancien système de difficulté à 5 étoiles) est 80, ce qui correspond à un score maximum de 1,100/2,200 à 100 de combo et plus.
-Pour une difficulté de 4\* à 4.5\*, _n_ est égal à 64, avec un score maximum par note de 940/1,880.
-Dans le cas extrême, _n_ atteint une valeur de 96, où le score maximum par note vaut 1,260/2,520.
-Il existe bien entendu des valeurs de _n_ moins élevées pour les difficultés moins élevées.
+Une valeur typique de *n* (4.5-5\* dans l'ancien système de difficulté à 5 étoiles) est 80, ce qui correspond à un score maximum de 1,100/2,200 à 100 de combo et plus.
+Pour une difficulté de 4\* à 4.5\*, *n* est égal à 64, avec un score maximum par note de 940/1,880.
+Dans le cas extrême, *n* atteint une valeur de 96, où le score maximum par note vaut 1,260/2,520.
+Il existe bien entendu des valeurs de *n* moins élevées pour les difficultés moins élevées.
 
-Contrairement à [osu!standard](/wiki/Game_Modes/osu!)/[osu!catch](/wiki/Game_Modes/osu!catch), un Miss dans osu!taiko ne causera pas une différence _radicale_ du score avec le score maximum atteignable. (dans osu!standard/osu!catch, la différence de score due à un Miss est d'autant plus large que le combo maximum, surtout si cela se produit aux alentours de la moitié du combo maximum).
-Au lieu de cela, un score constant de _n_ (décrit ci-dessus) est réduit par Miss dans une beatmap si chaque Miss est séparé par 100 de combo ou plus.
+Contrairement à [osu!standard](/wiki/Game_Modes/osu!)/[osu!catch](/wiki/Game_Modes/osu!catch), un Miss dans osu!taiko ne causera pas une différence *radicale* du score avec le score maximum atteignable. (dans osu!standard/osu!catch, la différence de score due à un Miss est d'autant plus large que le combo maximum, surtout si cela se produit aux alentours de la moitié du combo maximum).
+Au lieu de cela, un score constant de *n* (décrit ci-dessus) est réduit par Miss dans une beatmap si chaque Miss est séparé par 100 de combo ou plus.
 Avec la présence de Shakers ou de grandes notes, la perte de score sera plus grande.
 
 Par exemple, dans une difficulté typique (80), briser le combo au milieu de la beatmap, sans tenir compte des grandes notes et des Shakers, causera une perte de score maximum de 44,000 points (pour ramener le combo à 100, GREAT uniquement).
 
-À l'instar des autres modes de jeu, le Kiai Time aura un effet sur le score, en référence au _"GO-GO Time"_ de _Taiko no Tatsujin_.
+À l'instar des autres modes de jeu, le Kiai Time aura un effet sur le score, en référence au *"GO-GO Time"* de *Taiko no Tatsujin*.
 Lors du Kiai Time, le tambour dans le coin supérieur gauche change d'animation, la zone de jeu possède un fond différent, et la zone de jugement est encerclée par du feu.
 De plus, chaque note gagne un multiplicateur de score de 1.2x, longues notes jaunes (drumroll) incluses, sauf pour les coups sur un Shaker (la dernière frappe est toujours démultipliée).
 
 En bref : `Score = {ScoreValue + [min(RoundDown(Combo / 10), 10) * RoundDown(taiko score multiplier * raw mod multiplier)]} * Kiai Time`
 
-Terme | Signification
-:-: | :--
-**ScoreValue** | Score gagné avec la note (300/600, 150/300 ou 0/0)
-**Combo** | (Combo avant la frappe - 1) ou 0; selon la valeur la plus élevée
-**taiko score multiplier** | \[Dépend de la difficulté\] les valeurs possibles sont : 32, 48, 64, 80, 96
-**raw mod multiplier** | Le multiplicateur _brut_ des mods sélectionnés (les multiplicateurs affichés sont généralement arrondis au supérieur)
-**RoundDown** | Arrondi de la valeur à l'entier inférieur le plus proche, omettant ainsi la partie décimale.
-**min(x, y)** | Renvoie la valeur la plus petite entre _x_ et _y_.
-**Kiai Time** | Si le Kiai Time est actif, vaut 1.2. Sinon, vaut 1.0
+| Terme | Signification |
+| :-: | :-- |
+| **ScoreValue** | Score gagné avec la note (300/600, 150/300 ou 0/0) |
+| **Combo** | (Combo avant la frappe - 1) ou 0; selon la valeur la plus élevée. |
+| **taiko score multiplier** | \[Dépend de la difficulté\] les valeurs possibles sont : 32, 48, 64, 80, 96 |
+| **raw mod multiplier** | Le multiplicateur *brut* des mods sélectionnés (les multiplicateurs affichés sont généralement arrondis au supérieur) |
+| **RoundDown** | Arrondi de la valeur à l'entier inférieur le plus proche, omettant ainsi la partie décimale. |
+| **min(x, y)** | Renvoie la valeur la plus petite entre *x* et *y*. |
+| **Kiai Time** | Si le Kiai Time est actif, vaut 1.2. Sinon, vaut 1.0 |
 
 Exceptions :-
 
@@ -107,16 +107,16 @@ Cependant, le fruit réceptionné s'ajoute différemment au score.
 - Un Droplet (Chemin du Slider) donne un score de 10.
 - Chaque banane collectée (pendant la durée du Spinner) donne un score fixe de 1,100, indépendamment des mods et du multiplicateur de combo.
 
-Le combo ne sera pas rompu si des Droplets sont manqués (représentés en tant que _Miss Droplet_ dans les classements du site) dans ce mode, mais il en résultera une baisse de précision et de gain de score.
+Le combo ne sera pas rompu si des Droplets sont manqués (représentés en tant que *Miss Droplet* dans les classements du site) dans ce mode, mais il en résultera une baisse de précision et de gain de score.
 
 `Score = Hit Value + [Hit Value * ((Combo multiplier * Difficulty multiplier * Mod multiplier) / 25)]`
 
-Terme | Signification
-:-: | :--
-**Hit Value** | Jugement de l'objet (300, 100, 50), Slider ticks et bonus de Spinner
-**Combo multiplier** | (Combo avant la frappe - 1) ou 0; selon la valeur la plus élevée
-**Difficulty multiplier** | Le paramètre de difficulté de la beatmap
-**Mod multiplier** | Le multiplicateur correspondant aux mods sélectionnés
+| Terme | Signification |
+| :-: | :-- |
+| **Hit Value** | Jugement de l'objet (300, 100, 50), Slider ticks et bonus de Spinner |
+| **Combo multiplier** | (Combo avant la frappe - 1) ou 0; selon la valeur la plus élevée |
+| **Difficulty multiplier** | Le paramètre de difficulté de la beatmap |
+| **Mod multiplier** | Le multiplicateur correspondant aux mods sélectionnés |
 
 **Note:** Il existe des différences entre les systèmes de scoring d'osu!standard et d'osu!catch :
 
