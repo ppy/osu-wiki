@@ -8,7 +8,7 @@ We're proud to welcome **Street** aboard as our latest Featured Artist!
 
 ![](https://assets.ppy.sh/artists/89/header.jpg)
 
-Hailing from Japan, **Street** is a Japanese electronic music producer and avid rhythm game music competitor. If you've ever played *SEVEN'S CODE*, *Arcaea* or paid any attention to the *BMS OF FIGHTERS* contests before, you've likely already heard some of **Street**'s work!
+Hailing from Japan, [**Street**](https://osu.ppy.sh/beatmaps/artists/89) is a Japanese electronic music producer and avid rhythm game music competitor. If you've ever played *SEVEN'S CODE*, *Arcaea* or paid any attention to the *BMS OF FIGHTERS* contests before, you've likely already heard some of **Street**'s work!
 
 His tracks [*Sakura Fubuki*](https://osu.ppy.sh/beatmapsets/362989) and [*Maritime Police*](https://osu.ppy.sh/beatmapsets/681410) have garnered considerable fame in both bygone times and the more modern era, and we're absolutely certain that his enchanting sound will lure in more people to the creative challenge of his tracks.
 
