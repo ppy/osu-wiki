@@ -121,7 +121,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here! (201 MB)](https://www.dropbox.com/s/p4daduyfm4us6m4/MCNC20%20%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
-- Freemod
+- FreeMod
   - [Aquellex - Tachyon Beam Cannon (Plutes) Gekido-'s \[Destruction 1.1x\]](https://osu.ppy.sh/b/2476292)
   - [Camellia - \* Erm, could it be a Spatiotemporal ShockWAVE Syndrome…? (Sillyp) \[NIGHTMARE\]](https://osu.ppy.sh/b/2483411)
   - [Camellia - INSANE INFLAME (Evening) \[FINAL IGNITION \[1.1x Rate\]\]](https://osu.ppy.sh/b/2477432)
@@ -144,7 +144,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here! (189 MB)](https://www.dropbox.com/s/joxo6t1cxgqakrl/MCNC20%20%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
-- Freemod
+- FreeMod
   - [CALL - Du Bist (Sillyp) \[EXEXEX\]](https://osu.ppy.sh/b/2460233)
   - [Camellia - Ultimate Ascension (\[Crz\]MemoryI) \[owo sv\]](https://osu.ppy.sh/b/2460090)
   - [EBIMAYO - Firefly City (Short edit) (LeiN-) \[Light Swarm\]](https://osu.ppy.sh/b/1210020)
@@ -167,7 +167,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here! (156 MB)](https://www.dropbox.com/s/09beh96ojmjnkzb/MCNC20%20%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E5%86%B3%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
-- Freemod
+- FreeMod
   - [Dyako/UsadaPekora - usadapekora (\[Crz\]xz1z1z) \[pekopekopeko\]](https://osu.ppy.sh/b/2438605)
   - [Hatsune Miku&Megurine Luka - Magnet (\[Crz\]Rachel) \[1.0x \[1.15x Rate\]\]](https://osu.ppy.sh/b/2449052)
   - [iconoclasm - Zirkfied (\[Crz\]MemoryI) \[Tournament 2\]](https://osu.ppy.sh/b/2447686)
@@ -188,7 +188,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here! (113 MB)](https://www.dropbox.com/s/ie7xz0i9zw0d485/MCNC20%20RO16%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
-- Freemod
+- FreeMod
   - [(G)I-DLE - WHAT'S YOUR NAME (Skochan) \[My name\]](https://osu.ppy.sh/b/1947823)
   - [Aero Chord & Fractal - Until The End ft. Q'AILA (selaretsa) \[remind me of who I really am\]](https://osu.ppy.sh/b/1890595)
   - [ChunbaiP - Guang (\[Crz\]xz1z1z) \[Charoi's Medium 1.1x\]](https://osu.ppy.sh/b/2436144)
@@ -209,7 +209,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here! (121 MB)](https://www.dropbox.com/s/lqde07vuqftq579/MCNC20%20%E5%B0%8F%E7%BB%84%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
-- Freemod
+- FreeMod
   - [Bring Me The Horizon - ouch (Sillyp) \[Tears\]](https://osu.ppy.sh/b/2413394)
   - [ck - Carnation (ck remix) (Tamaki Iroha) \[Cyaegha\]](https://osu.ppy.sh/b/2333548)
   - [Bullet For My Valentine - Waking The Demon (Shoegazer) \[Expert\]](https://osu.ppy.sh/b/2159735)
@@ -228,7 +228,7 @@ This competition has come to an end and resulted in the following podium:
 
 **[Download the mappack here! (14.3 MB)](https://www.dropbox.com/s/xwvugt6bvhy6d20/MCNC20%20%E8%B5%84%E6%A0%BC%E8%B5%9B%E5%9B%BE%E5%8C%85.rar?dl=0)**
 
-- Nomod
+- NoMod
   - [DASU - 8 6 (\[Crz\]xz1z1z) \[SV\]](https://osu.ppy.sh/b/2285630)
   - [Falk - Mach Sigma - For Dream Dance Act 1 (shuniki) \[ShuChan!!\]](https://osu.ppy.sh/b/1996937)
   - [AKINO from bless4 - Miiro (Mat) \[Acc Meme\]](https://osu.ppy.sh/b/1759637)
