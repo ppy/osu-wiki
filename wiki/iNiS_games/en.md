@@ -15,7 +15,7 @@ tags:
 
 # iNiS games
 
-The [osu!standard](/wiki/Game_Modes/osu!) [game mode](/wiki/Game_Modes) and osu! itself were originally based on rhythm games developed by **[iNiS](https://en.wikipedia.org/wiki/INiS "iNiS on Wikipedia")** for the [Nintendo DS](https://en.wikipedia.org/wiki/Nintendo_DS "Nintendo DS on Wikipedia") in the early 2000s. ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) built osu! to be a simulator and level editor for the iNiS games, and the earliest community members were generally fans of them too. Older [beatmap](/wiki/Beatmaps) design was heavily influenced by the style of iNiS gameplay.
+The [osu!standard](/wiki/Game_Modes/osu!) [game mode](/wiki/Game_Modes) and osu! itself were originally based on rhythm games developed by **[iNiS](https://en.wikipedia.org/wiki/INiS "iNiS on Wikipedia")** for the [Nintendo DS](https://en.wikipedia.org/wiki/Nintendo_DS "Nintendo DS on Wikipedia") in the early 2000s. ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) built osu! to be a simulator and level editor for the iNiS games, and the earliest community members were generally fans of them too. Older [beatmaps](/wiki/Beatmaps) were heavily influenced by iNiS level design.
 
 The games referred to are:
 
