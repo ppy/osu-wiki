@@ -15,9 +15,9 @@ Laman ini akan memberi tahu kamu cara menjalankan osu! pada perangkat Windows mi
 2. Buka file yang baru saja diunduh dan jalankan penginstal.
 3. Saat penginstal berjalan, akan ada waktu sepuluh detik untuk memungkinkan kamu memilih lokasi pemasangan.
    - Jika kamu ingin mengubahnya, klik pada teks di bawah kata, `Hi!` dan pilih lokasi pemasangan.
-   - osu! akan dipasang berdasarkan lokasi yang kamu pilih saat waktu mundur telah selesai.
+   - osu! akan dipasang berdasarkan lokasi yang kamu pilih ketika hitung mundur telah selesai.
 4. osu! akan terbuka sesaat setelah proses pemasangan selesai. osu!direct akan digunakan untuk mengunduh beberapa beatmap pengantar untukmu.
-5. Terakhir osu! akan meminta kamu untuk masuk atau mendaftar.
+5. Terakhir, osu! akan meminta kamu untuk masuk atau mendaftar.
    - Jika kamu sudah memiliki akun, silakan masuk.
    - Jika kamu perlu mendaftar, lihat artikel [Registrasi](/wiki/Registration), lalu masuk.
 
@@ -30,7 +30,7 @@ Jika kamu menggunakan Windows 7 64-bit, kamu mungkin akan mengalami beberapa ken
 **Jika penginstal osu! memberikan kode kesalahan saat dipasang, kamu dapat mencoba beberapa hal berikut:**
 
 - Coba pasang ulang .NET Framework dan pastikan untuk menggunakan versi terbaru. [Kamu dapat mengunduhnya lewat tautan berikut](https://dotnet.microsoft.com/download)
-- Bersihkan PC kamu - Pindai dengan anti-virus, bersihkan juga registry-nya. Program yang bagus untuk melakukan pembersihan umum adalah CCleaner. Pindai file komputer dan registry kamu. Pemasang osu! bisa saja gagal dijalankan dikarenakan ada entri registry osu! dari salinan osu! yang masih ada dalam sistem kamu.
+- Bersihkan PC kamu - Pindai dengan anti-virus, bersihkan juga registry-nya. Program yang bagus untuk melakukan pembersihan umum adalah CCleaner. Pindai file komputer dan registry kamu. Penginstal osu! bisa saja gagal dijalankan dikarenakan ada entri registry osu! dari salinan osu! yang masih ada dalam sistem kamu.
 
 ## Menambahkan beatmapset
 
@@ -44,7 +44,7 @@ Ada dua cara untuk menambahkan beatmap, melalui situs web atau osu!direct (memer
 2. Cari lagu yang ingin kamu mainkan.
 3. Klik pada ikon unduh untuk menyimpan beatmapset di komputer kamu.
 4. Cari dan buka file beatmapset, file ini memiliki ekstensi `.osz`.
-   - Cara lain, kamu juga dapat menempatkan file beatmapset ke folder `Songs` pada direktori osu! kamu.
+   - Kamu juga dapat menempatkan file beatmapset ke folder `Songs` pada direktori osu! kamu.
 5. osu! secara otomatis akan menangani sisa prosesnya untukmu dan memuat beatmapset ke dalam game.
    - Jika, kamu tidak dapat melihatnya, tekan `F5` dalam Mode [Solo](/wiki/Interface#song-selection-screen) untuk memproses kembali semua beatmapmu.
 
