@@ -6,9 +6,9 @@ tags:
 
 # Graveyard
 
-The **graveyard** is a subforum for [beatmaps](/wiki/Beatmaps/) that have been abandoned. Graveyarded maps do not count towards a user's total upload limit. The owner may revive them by updating the beatmap, which sends it back to being a Work in Progress. This requires having a free pending slot.
+The **graveyard** is a subforum for [beatmapsets](/wiki/Beatmaps/Beatmapsets/) that have been abandoned by their creator(s). Graveyarded maps do not count towards a user's total upload limit. The [beatmapset host](/wiki/Beatmaps/Beatmapsets/Beatmapset_host) may "revive" a beatmapset by updating it. This requires a free pending slot and sends it back to being a Work in Progress beatmapset.
 
-Beatmaps that are not updated or receive no posts from their owner for 28 days will be automatically sent to the Graveyard.
+Beatmaps that are not updated by their creator for **28 days** will automatically be sent to the Graveyard.
 
 <!-- TODO: Add links-->
 

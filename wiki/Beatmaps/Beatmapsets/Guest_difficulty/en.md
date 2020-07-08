@@ -25,6 +25,6 @@ On the other hand, it may be the creator who wants a few guest difficulties:
 - To give the mapset a "community effort" feel.
 - The creator did not want to create the difficulties themselves
 
-Guest difficulties are often requested by private messages. Guest difficulties can also be requested in modding queues.
+Guest difficulties are often requested by private messages between creators but can also be requested in [modding queues](https://osu.ppy.sh/community/forums/60).
 
 <!-- TODO: Add links-->
