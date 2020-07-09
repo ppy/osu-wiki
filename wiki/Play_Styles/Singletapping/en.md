@@ -1,12 +1,11 @@
 ---
+stub: true
 tags:
   - keyboard
   - tap
   - single tap
   - play style
 ---
-
-<!-- This article is a stub -->
 
 # Single-tap
 

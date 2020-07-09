@@ -1,12 +1,11 @@
 ---
+stub: true
 tags:
   - keyboard
   - tap
   - hybrid
   - play style
 ---
-
-<!-- This article is a stub -->
 
 # Double tapping
 

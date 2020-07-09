@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
   - keyboard
   - tap
@@ -6,8 +7,6 @@ tags:
   - alt
   - play style
 ---
-
-<!-- This article is a stub -->
 
 # Alternating
 

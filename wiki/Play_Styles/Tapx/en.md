@@ -1,12 +1,11 @@
 ---
+stub: true
 tags:
   - tablet tap
   - tap
   - tablet
   - play style
 ---
-
-<!-- This article is a stub -->
 
 # Tapx
 
