@@ -24,8 +24,8 @@ La plupart du temps, le combo joue un rôle majeur dans le système de score, pu
 
 | Image | Nom | Effet |
 | :-: | :-: | :-- |
-| ![](/wiki/Skinning/osu!taiko/img/taiko-hit300k.png "GREAT") ![](/wiki/Skinning/osu!taiko/img/taiko-hit300g.png "GREAT") ![](/wiki/Skinning/osu!taiko/img/taiko-hit300.png "GREAT") | (良) Great | Score obtenu lorsque la note est frappée exactement dans le cercle de jugement, avec la bonne couleur. Image: [1 et 2] Grande Note [3] Petite Note |
-| ![](/wiki/Skinning/osu!taiko/img/taiko-hit100k.png "GOOD") ![](/wiki/Skinning/osu!taiko/img/taiko-hit100.png "GOOD") | (可) Good | Score obtenu lorsque la note est frappée légèrement en avance ou en retard, avec la bonne couleur. Image: [1] Grande Note [2] Petite Note. |
+| ![](/wiki/Skinning/osu!taiko/img/taiko-hit300k.png "GREAT") ![](/wiki/Skinning/osu!taiko/img/taiko-hit300g.png "GREAT") ![](/wiki/Skinning/osu!taiko/img/taiko-hit300.png "GREAT") | (良) Great | Score obtenu lorsque la note est frappée exactement dans le cercle de jugement, avec la bonne couleur. Image: (1 et 2) Grande Note (3) Petite Note |
+| ![](/wiki/Skinning/osu!taiko/img/taiko-hit100k.png "GOOD") ![](/wiki/Skinning/osu!taiko/img/taiko-hit100.png "GOOD") | (可) Good | Score obtenu lorsque la note est frappée légèrement en avance ou en retard, avec la bonne couleur. Image: (1) Grande Note (2) Petite Note. |
 | ![](/wiki/Skinning/osu!taiko/img/taiko-hit0.png "MISS") | (不可) Miss | Score obtenu lorsque la note n'est pas frappée à temps, ou avec la mauvaise couleur. |
 
 ### osu!catch
@@ -37,7 +37,7 @@ La plupart du temps, le combo joue un rôle majeur dans le système de score, pu
 | ![](img/catch-300.jpg "Fruit") | Fruit | Un Fruit est équivalent à un cercle, isolé ou composant un Slider. Le capturer est équivalent à une frappe parfaite (représenté par un 300 en multijoueur et sur l'écran de résultats) |
 | ![](img/catch-100.jpg "Juice Drop") | Juice Drops (Slider Tick) | Ces grosses gouttes représentent les ticks d'un Slider, similaires aux points (ticks) à l'intérieur des Sliders. Il est obligatoire de les capturer pour conserver le combo. Elles font deux fois la taille d'une Droplet (Chemin d'un Slider). 30pt par Drop en cas de capture (représenté par un 100 en multijoueur et sur l'écran de résultats) |
 | ![](img/catch-50.jpg "Droplet") | Droplets (Chemin d'un Slider) | Ces gouttelettes représentent le Chemin d'un Slider, et sont plus petites que les Juice Drops. 10pt par Droplet en cas de capture. Ne pas les capturer diminue la précision et fait perdre un des 50 pouvant être obtenus, mais ne brise pas le combo (représenté par un 50 en multijoueur ou sur l'écran de résultats) |
-| (None) | Miss Droplets | Droplets (Chemin de Slider) ratées. Elles ne sont pas affichées sur l'écran de résultats, mais le sont côté serveur. Le combo ne sera pas brisé, mais cela diminue la précision et fait perdre un des 50 pouvant être obtenus. Cela n'est pas considéré comme un Miss. N'est pas affiché en multijoueur ou sur l'écran de résultats, mais l'est en tant que _Droplet Miss_ dans le classement du site. |
+| (None) | Miss Droplets | Droplets (Chemin de Slider) ratées. Elles ne sont pas affichées sur l'écran de résultats, mais le sont côté serveur. Le combo ne sera pas brisé, mais cela diminue la précision et fait perdre un des 50 pouvant être obtenus. Cela n'est pas considéré comme un Miss. N'est pas affiché en multijoueur ou sur l'écran de résultats, mais l'est en tant que *Droplet Miss* dans le classement du site. |
 | ![](img/catch-banana.jpg "Banana") | Bananas | Équivalent du Spinner. Ces petites bananes rétrécissent lorsqu'elles s'approchent du Catcher. Il n'est pas obligatoire de les capturer. 1,100pt en cas de capture, ceci venant de la complétion du Spinner dans osu!standard qui offre 1000pt bonus ainsi que 100pt pour une rotation. |
 | ![](img/catch-0.jpg "Miss") | Miss | Fruit et Juice Drops ratés. Brise le combe. Obtenu lorsque la capture d'un Fruit/Juice Drops est échouée. Aucun score accordé et brise le combo. Visible uniquement sur l'écran de résultats. |
 
@@ -45,7 +45,7 @@ La plupart du temps, le combo joue un rôle majeur dans le système de score, pu
 
 | Image | Nom | Effet |
 | :-: | :-: | :-- |
-| ![](/wiki/Skinning/osu!mania/img/mania-hit300g.gif "300 Arc-en-Ciel") | 300 Arc-en-Ciel (MAX) | Frappe ou maintien parfait de la note. En comparaison avec un 300, obtenir ce score nécessite une précision hors pair. Sinon, un 300 ordinaire sera accordé. Terminer une beatmap avec ce score uniquement permet d'obtenir le score maximum de 1,000,000 (score limite de 1 million). Est équivalent au terme _Marvelous_ du jeu DDR. |
+| ![](/wiki/Skinning/osu!mania/img/mania-hit300g.gif "300 Arc-en-Ciel") | 300 Arc-en-Ciel (MAX) | Frappe ou maintien parfait de la note. En comparaison avec un 300, obtenir ce score nécessite une précision hors pair. Sinon, un 300 ordinaire sera accordé. Terminer une beatmap avec ce score uniquement permet d'obtenir le score maximum de 1,000,000 (score limite de 1 million). Est équivalent au terme *Marvelous* du jeu DDR. |
 | ![](/wiki/Skinning/osu!mania/img/mania-hit300.png "300") | 300 | Frappe ou maintien presque parfait de la note. Le score maximum ne peut être atteint si ce score est obtenu. |
 | ![](/wiki/Skinning/osu!mania/img/mania-hit200.png "200") | 200 | Frappe ou maintien de la note avec un léger délai. Les nouveaux joueurs peuvent obtenir fréquemment ce score jusqu'à ce qu'ils s'habituent aux mécanismes de défilement et de vitesse, aux touches et à la zone de jugement. |
 | ![](/wiki/Skinning/osu!mania/img/mania-hit100.png "100") | 100 | Frappe ou maintien de la note avec un délai modéré. N'affecte pas la jauge de vie. |
@@ -55,6 +55,7 @@ La plupart du temps, le combo joue un rôle majeur dans le système de score, pu
 ## Scoring
 
 <!-- Uncomment the below and delete this comment if ScoreV2 is official. -->
+
 <!-- **[Click here to visit the deprecated ScoreV1 system](ScoreV1 "ScoreV1")** -->
 
 ### ScoreV2
@@ -104,7 +105,7 @@ Un bonus supplémentaire de 1,000pt est obtenu pour chaque tour d'un Spinner dè
 La valeur finale du compteur affecte le **multiplicateur de difficulté** comme suit:-
 
 | Intervalle de point de difficulté | Multiplicateur de difficulté |
-| :-: | :-- |
+-| :-: | :-- |
 | **0 - 5** | multiplicateur 2x |
 | **6 - 12** | multiplicateur 3x |
 | **13 - 17** | multiplicateur 4x |
@@ -148,12 +149,12 @@ De plus, chaque note gagne un multiplicateur de score de 1.2x, longues notes jau
 
 En bref : `Score = {ScoreValue + [min(RoundDown(Combo / 10), 10) * RoundDown(taiko score multiplier * raw mod multiplier)]} * Kiai Time`
 
-| Terme| Signification |
+| Terme | Signification |
 | :-: | :-- |
 | **ScoreValue** | Score gagné avec la note (300/600, 150/300 ou 0/0) |
 | **Combo** | (Combo avant la frappe - 1) ou 0; selon la valeur la plus élevée |
 | **taiko score multiplier** | \[Dépend de la difficulté\] les valeurs possibles sont : 32, 48, 64, 80, 96 |
-| **raw mod multiplier** | Le multiplicateur _brut_ des mods sélectionnés (les multiplicateurs affichés sont généralement arrondis au supérieur) |
+| **raw mod multiplier** | Le multiplicateur *brut* des mods sélectionnés (les multiplicateurs affichés sont généralement arrondis au supérieur) |
 | **RoundDown** | Arrondi de la valeur à l'entier inférieur le plus proche, omettant ainsi la partie décimale. |
 | **min(x, y)** | Renvoie la valeur la plus petite entre *x* et *y*. |
 | **Kiai Time** | Si le Kiai Time est actif, vaut 1.2. Sinon, vaut 1.0. |
