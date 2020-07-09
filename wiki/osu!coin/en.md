@@ -8,7 +8,7 @@ tags:
 
 ![multiple osu!coins](img/coins2x.png)![a single osu!coin](img/coin2x.png)
 
-The **osu!coin** was a joke, in-game currency mocking other free-to-play monetization schemes. It was introduced for April Fools, 2015, and allowed players to play a single [beatmap](/wiki/Beatmaps/) in exchange for an osu!coin.
+The **osu!coin** was a joke, in-game currency mocking other free-to-play monetization schemes. It was introduced for April Fools, 2015, and allowed players to play a single [beatmap](/wiki/Beatmaps) in exchange for an osu!coin.
 
 ## Release
 
@@ -27,7 +27,7 @@ The following day, peppy rolled back the implementation of osu!coins, opened a n
 
 Though the release of the osu!coin added additional graphical elements, it had no practical effect on the gameplay experience as players could keep playing past the zero coin limit. Conversely, there was no way to pay for extra osu!coins either (though the option was listed as available).
 
-The update was generally well-recevied by players as a welcome change of pace from the otherwise strict stream of [news](/news/).
+The update was generally well-recevied by players as a welcome change of pace from the otherwise strict stream of news.
 
 ## Additional Resources
 
