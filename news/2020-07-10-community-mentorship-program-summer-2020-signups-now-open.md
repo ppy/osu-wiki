@@ -4,7 +4,7 @@ title: Community Mentorship Program Summer 2020 Signups Now Open
 date: 2020-07-10 08:00:00 +0000
 ---
 
-The 16th cycle of the Community Mentorship program is on its way! If you've ever found yourself wanting to expand your current knowledge and skills or help beginning mappers, this program will serve as a great opportunity for you!
+The 16th cycle of the Community Mentorship program is on its way! If you've ever found yourself wanting to expand your current knowledge and skills or help beginner mappers get started, this program will serve as a great opportunity for you!
 
 ![](/wiki/shared/news/banners/community-mentorship-program.jpg)
 
