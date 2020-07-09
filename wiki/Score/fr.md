@@ -107,7 +107,7 @@ La valeur finale du compteur affecte le **multiplicateur de difficulté** comme 
 | :-: | :-- |
 | **0 - 5** | multiplicateur 2x |
 | **6 - 12** | multiplicateur 3x |
-| **13 - 17** | multiplicateur 4x | 
+| **13 - 17** | multiplicateur 4x |
 | **18 - 24** | multiplicateur 5x |
 | **25 - 30** | multiplicateur 6x |
 
