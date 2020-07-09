@@ -277,6 +277,8 @@ Abbreviations for user groups are used throughout this log:
 - 2020-07-07: Added [wonjae](https://osu.ppy.sh/users/5032045) to **Probationary BN**
 - 2020-07-07: Added [-Aqua](https://osu.ppy.sh/users/7150015) to **Probationary BN**
 - 2020-07-07: Added [Bibbity Bill](https://osu.ppy.sh/users/4446810) to **Probationary BN**
+- 2020-07-09: Added [Arzenvald](https://osu.ppy.sh/users/3027421) to **Probationary BN**
+- 2020-07-09: Added [lenpai](https://osu.ppy.sh/users/5314573) to **Probationary BN**
 
 #### Moves
 
@@ -287,4 +289,4 @@ Abbreviations for user groups are used throughout this log:
 - 2020-07-08: Moved [Trynna](https://osu.ppy.sh/users/2652951) from **Probationary BN** to **BN**
 - 2020-07-08: Moved [Okoratu](https://osu.ppy.sh/users/1623405) from **Probationary BN** to **BN**
 
-<!-- last update: 2020-07-08 5 UTC moved okoratu to bn -->
+<!-- last update: 2020-07-09 5 UTC added lenpai to probationary bn -->
