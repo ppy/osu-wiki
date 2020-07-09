@@ -9,3 +9,4 @@ Disambiguation in the osu! wiki is the process of resolving conflicts that arise
 - [EZ](EZ)
 - [Mod](Mod)
 - [osu!](osu!)
+- [Ouendan](Ouendan)

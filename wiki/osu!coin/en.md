@@ -29,7 +29,7 @@ Though the release of the osu!coin added additional graphical elements, it had n
 
 The update was generally well-recevied by players as a welcome change of pace from the otherwise strict stream of [news](/news/).
 
-## Additional Resources:
+## Additional Resources
 
 - osu!academy introduces osu!coins: [Introduction to osu!coins (April Fools' 2015)](https://www.youtube.com/watch?v=BImc5McuK1o)
 - peppy announces osu!coins: [osu!coins!](https://osu.ppy.sh/home/news/2015-03-31-osucoins)

@@ -1,3 +1,7 @@
+---
+stub: true
+---
+
 # osu!
 
 **osu!** stylised with a lowercase "o" can refer to three things:
@@ -9,3 +13,5 @@
   - Close English equivalents include "Yo!" or "Hey!".
 
 *For more information about its meaning, see [Does anyone here speak/learn Japanese?](https://osu.ppy.sh/community/forums/posts/2686).*
+
+<!-- TODO: Add links -->
