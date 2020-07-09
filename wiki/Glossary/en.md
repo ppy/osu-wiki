@@ -95,7 +95,7 @@ The number of bits per second that can be transmitted along a digital network. A
 
 This means that a *higher bit rate* will generally mean *higher quality* (but bigger file size). Whereas, a *lower bit rate* will generally mean *lower quality* (but smaller file size).
 
-Bit rates typically range from 96 KBps (kilobytes per second) to 320 KBps. This is quite a wide range that music can use. However, the [ranking criteria](/wiki/Ranking_Criteria) explicitly states that all music files must range from **128 KBps - 192 KBps**.
+Bit rates typically range from 96kbps (kilobits per second) to 320kbps. This is quite a wide range that music can use. However, the [ranking criteria](/wiki/Ranking_Criteria) explicitly states that all music files must range from **128kbps - 192kbps**.
 
 You can usually check to see the audio file's bit rate by checking the file properties of that file. Another way to check is whether or not [AiMod](/wiki/Beatmap_Editor/AiMod) says that the audio file's bit rate is too big. If either appears to be true, this means that you will have to lower the bit rate. A few methods on re-encoding audio can be found at [Audio Editing](/wiki/Guides/Audio_Editing).
 
