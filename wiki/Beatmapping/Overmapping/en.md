@@ -2,7 +2,6 @@
 stub: true
 ---
 
-
 # Overmapping
 
 **Overmapping** is a term used when [hit objects](/wiki/Hit_object/) or arrangement of hit objects are done in a way that makes the [difficulty](/wiki/Difficulties/) of the map contrast the song.
