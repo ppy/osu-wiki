@@ -1,3 +1,7 @@
+---
+outdated: true
+---
+
 # Hesap kısıtlamaları
 
 Kısıtlama, anormal, şüpheli ya da kuralları çiğneyecek davranış gösteren hesaplara uygulanan bir topluluktan uzaklaştırma durumudur.
