@@ -1,5 +1,7 @@
 # osu!store and merchandise help
 
+*For a list of all Help Centre articles, see: [Help Centre](/wiki/Help_Centre)*
+
 ## osu!keyboard
 
 ### How do I configure the osu!keyboard?

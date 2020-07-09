@@ -1,5 +1,7 @@
 # Client help
 
+*For a list of all Help Centre articles, see: [Help Centre](/wiki/Help_Centre)*
+
 ## osu! freezes when I click a link or multiplayer map!
 
 **Please make sure you are not running osu! in Windows compatibility mode, and that you also have a default web browser defined in your system settings.**

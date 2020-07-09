@@ -1,4 +1,6 @@
-# Online features
+# Online features help
+
+*For a list of all Help Centre articles, see: [Help Centre](/wiki/Help_Centre)*
 
 ## I can't sign in or connect to osu! at all!
 

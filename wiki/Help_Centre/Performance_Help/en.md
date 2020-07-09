@@ -1,4 +1,6 @@
-# Performance
+# Performance help
+
+*For a list of all Help Centre articles, see: [Help Centre](/wiki/Help_Centre)*
 
 ## osu! is making my computer overheat/my computer fans are really loud when I play osu!
 

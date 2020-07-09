@@ -1,4 +1,6 @@
-# Gameplay
+# Gameplay help
+
+*For a list of all Help Centre articles, see: [Help Centre](/wiki/Help_Centre)*
 
 ## Some of my beatmaps are missing!
 

@@ -1,5 +1,7 @@
 # Troubleshooting
 
+*For a list of all Help Centre articles, see: [Help Centre](/wiki/Help_Centre)*
+
 ## What are "log files" and how do I make them?
 
 **Log files are detailed recordings of what the game client is doing at any given point in time. We can use them to help determine what's causing your issue.**
@@ -19,7 +21,7 @@ If a support team member has asked you for these logs, you can learn how to get 
 
 ## What is this "Bancho authentication error" I keep receiving?
 
-**This typically happens when there are networking issues between you and our servers.**
+**This typically happens when there are networking issues between you ssand our servers.**
 
 There are a few things you can try in order to resolve this issue.
 

@@ -1,5 +1,7 @@
 # Website help
 
+*For a list of all Help Centre articles, see: [Help Centre](/wiki/Help_Centre)*
+
 ## I haven't received a reply to my support ticket, and it's been over 2 weeks!
 
 **The vast majority of the time, this is due to a high number of tickets coming into our system at once.**

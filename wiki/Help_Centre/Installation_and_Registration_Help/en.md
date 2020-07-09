@@ -1,5 +1,7 @@
 # Installation and registration help
 
+*For a list of all Help Centre articles, see: [Help Centre](/wiki/Help_Centre)*
+
 ## Installation
 
 Main Page: [Installation](/wiki/Installation).
