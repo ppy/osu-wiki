@@ -81,7 +81,7 @@ Obviamente, no, a menos de que hayas escrito el prefijo el comando mal.
 ### ¡He reportado a un usuario accidentalmente! ¿obtendré un castigo?
 
 No.
-No te preocupes de esto, los reportes falsos serán ignorados a menos de que sean abusados.
+No te preocupes de esto, los reportes en falso serán ignorados a menos de que sean abusados.
 
 ### ¿Puedo reportar múltiples veces?
 
