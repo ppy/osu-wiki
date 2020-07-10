@@ -8,7 +8,7 @@ Gelar pengguna biasanya untuk mereka yang berada dalam [kelompok pengguna](/wiki
 
 Salah satu hadiah yang diberikan kepada pemenang [World Cup resmi](/wiki/Tournaments#official-world-cups) adalah gelar pengguna yang berlaku selama satu tahun semenjak mereka memenangkan turnamen itu.
 
-Pemenang [OWC 2019](/wiki/Tournaments/OWC/2019) dengan gelar pengguna **osu! Champion**:
+Pemenang [OWC 2019](/wiki/Tournaments/OWC/2019) dengan gelar **osu! Champion**:
 
 - ![][flag_US] [Aireu](https://osu.ppy.sh/users/1650010)
 - ![][flag_US] [Apraxia](https://osu.ppy.sh/users/4194445)
@@ -19,7 +19,7 @@ Pemenang [OWC 2019](/wiki/Tournaments/OWC/2019) dengan gelar pengguna **osu! Cha
 - ![][flag_US] [Toy](https://osu.ppy.sh/users/2757689)
 - ![][flag_US] [Vaxei](https://osu.ppy.sh/users/4787150)
 
-Pemenang [TWC 2020](/wiki/Tournaments/TWC/2020) dengan gelar pengguna **osu!taiko Champion**:
+Pemenang [TWC 2020](/wiki/Tournaments/TWC/2020) dengan gelar **osu!taiko Champion**:
 
 - ![][flag_JP] [ekumea1123](https://osu.ppy.sh/users/9119501)
 - ![][flag_JP] [iceOC](https://osu.ppy.sh/users/5482401)
@@ -27,7 +27,7 @@ Pemenang [TWC 2020](/wiki/Tournaments/TWC/2020) dengan gelar pengguna **osu!taik
 - ![][flag_JP] [Seren58](https://osu.ppy.sh/users/15252950)
 - ![][flag_JP] [uone](https://osu.ppy.sh/users/5321719)
 
-Pemenang [CWC 2020](/wiki/Tournaments/CWC/2020) dengan gelar pengguna **osu!catch Champion**:
+Pemenang [CWC 2020](/wiki/Tournaments/CWC/2020) dengan gelar **osu!catch Champion**:
 
 - ![][flag_KR] [Motion](https://osu.ppy.sh/users/3885626)
 - ![][flag_KR] [qwhj1027](https://osu.ppy.sh/users/7547506)
@@ -36,7 +36,7 @@ Pemenang [CWC 2020](/wiki/Tournaments/CWC/2020) dengan gelar pengguna **osu!catc
 - ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
 - ![][flag_KR] [T s u m i](https://osu.ppy.sh/users/4080520)
 
-Pemenang [MWC 4K 2019](/wiki/Tournaments/MWC/2019_4K) dengan gelar pengguna **osu!mania Champion**:
+Pemenang [MWC 4K 2019](/wiki/Tournaments/MWC/2019_4K) dengan gelar **osu!mania Champion**:
 
 - ![][flag_KR] [blueBloody](https://osu.ppy.sh/users/8046839)
 - ![][flag_KR] [Kalkai](https://osu.ppy.sh/users/10790649)
@@ -45,9 +45,9 @@ Pemenang [MWC 4K 2019](/wiki/Tournaments/MWC/2019_4K) dengan gelar pengguna **os
 - ![][flag_KR] [wonder5193](https://osu.ppy.sh/users/8474029)
 - ![][flag_KR] [Yeoul](https://osu.ppy.sh/users/4698728)
 
-### Pemenang kontes pemetaan umum
+### Pemenang kontes General Mapping
 
-Sebagian besar kontes mapping resmi menawarkan gelar pengguna **Elite Mapper** sebagai hadiah pertama.
+Sebagian besar kontes mapping resmi menawarkan gelar **Elite Mapper** sebagai hadiah pertama.
 
 - ![][flag_IT] [-kevincela-](https://osu.ppy.sh/users/266596)
 - ![][flag_US] [Ascendance](https://osu.ppy.sh/users/2931883)
@@ -80,7 +80,7 @@ Sebagian besar kontes mapping resmi menawarkan gelar pengguna **Elite Mapper** s
 
 ### Nominator Elit
 
-Sejak 2020, dalam mendukung sistem pemeringkatan terhadap aktivitas anggota [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) dan [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team), mereka telah dianugerahi dengan gelar pengguna **Elite Nominator**. Gelar ini diberikan pada awal setiap tahun terhadap kontribusi yang dibuat dan berlaku sekali saja ketika berada dalam tim, dan akan dihapus pada saat pengguna tersebut meninggalkan tim.
+Sejak 2020, dalam mendukung sistem pemeringkatan terhadap aktivitas anggota [Beatmap Nominator](/wiki/People/The_Team/Beatmap_Nominators) dan [Nomination Assessment Team](/wiki/People/The_Team/Nomination_Assessment_Team), mereka telah dianugerahi dengan gelar **Elite Nominator**. Gelar ini diberikan pada awal setiap tahun terhadap kontribusi yang dibuat dan berlaku sekali saja ketika berada dalam tim, dan akan dihapus pada saat pengguna tersebut meninggalkan tim.
 
 - ![][flag_TW] [bossandy](https://osu.ppy.sh/users/360437)
 - ![][flag_US] [Cheri](https://osu.ppy.sh/users/5226970)
@@ -90,7 +90,7 @@ Sejak 2020, dalam mendukung sistem pemeringkatan terhadap aktivitas anggota [Bea
 
 ### Pemenang kontes mapping Aspire
 
-Kontes mapping Aspire menawarkan variasi khusus dari gelar pengguna Elite Mapper, gelar ini dinamakan **Elite Mapper: Aspirant** sebagai bentuk pencapaian.
+Kontes mapping Aspire menawarkan variasi khusus dari gelar Elite Mapper, gelar ini dinamakan **Elite Mapper: Aspirant** sebagai bentuk pencapaian.
 
 - ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000)
 - ![][flag_CA] [Monstrata](https://osu.ppy.sh/users/2706438)
@@ -99,20 +99,20 @@ Kontes mapping Aspire menawarkan variasi khusus dari gelar pengguna Elite Mapper
 - ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598)
 - ![][flag_FR] [Supairo](https://osu.ppy.sh/users/2837231)
 
-![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) menerima gelar ini setelah sebelumnya memiliki gelar Elite Mapper, jadi tim osu! meningkatkan levelnya menjadi **Elite Mapper II: Aspirant**. ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) saat ini lebih memilih untuk menggunakan gelar pengguna **osu!catch Champion**.
+![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) menerima gelar ini setelah sebelumnya memiliki gelar Elite Mapper, jadi tim osu! meningkatkan levelnya menjadi **Elite Mapper II: Aspirant**. ![][flag_KR] [Spectator](https://osu.ppy.sh/users/702598) saat ini lebih memilih untuk menggunakan gelar **osu!catch Champion**.
 
 ### Pemenang kontes osu!remix
 
-Kontes osu!remix menghadiahkan gelar pengguna **osu!mixer** sebagai hadiah utama dari kontes tersebut.
+Kontes osu!remix menghadiahkan gelar **osu!mixer** sebagai hadiah utama dari kontes tersebut.
 
 - ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471)
 
 ### Artis unggulan
 
 [Featured Artists](/wiki/Featured_Artists) with osu! accounts are given the **Featured Artist** title to show their involvement.
-[Artis unggulan](/wiki/Featured_Artists) yang memiliki akun osu! memiliki gelar pengguna **Featured Artist** untuk menunjukkan keterlibatan mereka dalam game ini.
+[Artis unggulan](/wiki/Featured_Artists) yang memiliki akun osu! memiliki gelar **Featured Artist** untuk menunjukkan keterlibatan mereka dalam game ini.
 
-![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) dan nekodex memiliki gelar pengguna **osu!musician** atas kontribusinya di masa awal osu! dan merancang konsep musik dan tema resmi osu!, dan ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) memilih untuk menampilkan gelar **osu!mixer** miliknya ketika ia menjadi Artis Unggulan.
+![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) dan nekodex memiliki gelar **osu!musician** atas kontribusinya di masa awal osu! dan merancang konsep musik dan tema resmi osu!, dan ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) memilih untuk menampilkan gelar **osu!mixer** miliknya ketika ia menjadi Artis Unggulan.
 
 | Pengguna | Artis |
 | :-- | :-- |
@@ -141,7 +141,7 @@ osu!team mengadakan kontes seni grafis yang terbuka untuk komunitas osu! dan men
 
 ### Hall of Famer
 
-Tiga pengguna ini dianugerahi gelar pengguna **osu! Hall of Famer** atas kontribusinya telah memainkan game ini di level tertinggi dan juga berkontribusi ketika komunitas osu! masih baru.
+Tiga pengguna ini dianugerahi gelar **osu! Hall of Famer** atas kontribusinya telah memainkan game ini di level tertinggi dan juga berkontribusi ketika komunitas osu! masih baru.
 
 <!-- TODO: reasons -->
 
