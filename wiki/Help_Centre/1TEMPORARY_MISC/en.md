@@ -355,7 +355,7 @@ Performance points(pp) is a ranking metric aiming to be more contextually releva
 
 For any questions regarding pp, please refer to the [wiki page for pp first](/wiki/Performance_Points).
 
-#### Why is my profile stats different ingame? <!-- RSF | cleaned-up: false -->
+### Why is my profile stats different ingame? <!-- RSF | cleaned-up: false -->
 
 Keep in mind that osu! has four game modes so you might be looking at the wrong game mode.
 
