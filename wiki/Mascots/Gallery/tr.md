@@ -106,6 +106,6 @@ Topluluk yapımı fan tasarımı maskotlar:
 - [Fan Art 6: osu!taiko maskotu (*Fan Art 6: osu!taiko mascot*)](https://osu.ppy.sh/community/contests/2)
 - [Fan Art 7: Cadılar Bayramı! (*Fan Art 7: Halloween!*)](https://osu.ppy.sh/community/contests/5)
 - [Fan Art 8: Noel (*Fan Art 8: Christmas*)](https://osu.ppy.sh/community/contests/36)
-- [Fan Art 9: Spring](https://osu.ppy.sh/community/contests/45)
+- [Fan Art 9: İlkbahar (*Fan Art 9: Spring*)](https://osu.ppy.sh/community/contests/45)
 - [Mocha Yaz Fanart Yarışması'nda (*Mocha in Summer Fanart Contest*)](https://osu.ppy.sh/community/contests/48)
 - [Yuzu'nun yeni görünümü yarışması (*Yuzu's New Look Contest*)](https://osu.ppy.sh/community/contests/49)
