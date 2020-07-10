@@ -99,8 +99,11 @@ However, there are other unofficial ports of osu! and a single official spin-off
 
 Below is a list of a few of the noteable, unofficial osu! ports:
 
-- ![][osu! icon] opsu! \[\Windows/OS X/Linux/Android\]\: Java port of osu! chiefly done by **itdelatrisu** with **fluddokt** providing support for Android version.
-- ![][osu!taiko icon] **T-Aiko! v2** \[\Android/iOS\]\ (no longer available): osu!taiko mode ported by **low.moe (Guy-kun) team** with new daily ranked challenge and refined T-Aiko! leaderboard.
-- ![][osu! icon] **osu!stream** \[\iOS\]\: Experience the new spin-off of the osu! game mode for the iOS developed by osu! team from grounds up.
+- ![][o!s] opsu! \[\Windows/OS X/Linux/Android\]\: Java port of osu! chiefly done by **itdelatrisu** with **fluddokt** providing support for Android version.
+- ![][o!t] **T-Aiko! v2** \[\Android/iOS\]\ (no longer available): osu!taiko mode ported by **low.moe (Guy-kun) team** with new daily ranked challenge and refined T-Aiko! leaderboard.
+- ![][o!s] **osu!stream** \[\iOS\]\: Experience the new spin-off of the osu! game mode for the iOS developed by osu! team from grounds up.
 
 However, if you're not a fan of these ports, you can try downloading the [Android and iOS versions of the osu!lazer project](https://github.com/ppy/osu#running-osu)! But keep in-mind that osu!lazer is still an **ongoing work-in-progress.**
+
+[o!s]: /wiki/shared/mode/osu.png "osu!standard"
+[o!t]: /wiki/shared/mode/taiko.png "osu!taiko"
