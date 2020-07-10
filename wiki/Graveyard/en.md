@@ -11,5 +11,3 @@ The **graveyard** is a subforum for [beatmapsets](/wiki/Beatmaps/Beatmapsets) th
 Beatmaps that are not updated by their creator for **28 days** will automatically be sent to the Graveyard.
 
 <!-- TODO: Add links-->
-
-<!-- This is a stub -->

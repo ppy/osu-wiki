@@ -11,5 +11,3 @@ tags:
 From lowest to highest, the possible grades are F, C, B, A, S, Silver S, SS, and Silver SS. Silver grades are only achievable when using the Hidden, Flashlight, or Fade-in [game modifiers](/wiki/Game_Modifiers).
 
 <!-- TODO: Add links-->
-
-<!-- This is a stub -->

@@ -14,5 +14,3 @@ The base level of spacing between each sector of the grid can be adjusted by pre
 <!-- TODO: Add image of Grid Snap button location or the Grid Snap button itself -->
 
 <!-- TODO: Add links-->
-
-<!-- This is a stub -->
