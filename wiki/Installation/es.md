@@ -1,7 +1,3 @@
----
-outdated: true
----
-
 # Instalación
 
 *Ver también: [Instalación/macOS](/wiki/Installation/macOS)*
