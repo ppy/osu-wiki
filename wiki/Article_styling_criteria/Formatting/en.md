@@ -114,12 +114,12 @@ no_native_review: true
 
 *See also: [Folder names](#folder-names) and [Titles](#titles)*
 
-Article titles should be singular. See [Wikipedia's naming conventions article](https://en.wikipedia.org/wiki/Wikipedia:Naming_conventions_(plurals) "Wikipedia") for more details.
+Article titles should be singular and use sentence case. See [Wikipedia's naming conventions article](https://en.wikipedia.org/wiki/Wikipedia:Naming_conventions_(plurals) "Wikipedia") for more details.
 
-Article titles should match the folder name it is in (spaces may replace underscores (`_`) where appropriate). If the folder name changes, the article title should be changed to match it and vise versa. Some exceptions include:
+Article titles should match the folder name it is in (spaces may replace underscores (`_`) where appropriate). If the folder name changes, the article title should be changed to match it and vice versa. Listed below are some exceptions to this:
 
-- Contest articles - must use abbreviations, acronyms, or initialisms
-- Tournament articles - must use abbreviations, acronyms, or initialisms
+- Contest articles (must use abbreviations, acronyms, or initialisms)
+- Tournament articles (must use abbreviations, acronyms, or initialisms)
 
 ## Folder and file structure
 
@@ -127,22 +127,15 @@ Article titles should match the folder name it is in (spaces may replace undersc
 
 *See also: [Article naming](#article-naming)*
 
-Folder names must be in English and use sentence case. They should match their English article titles as well.
+Folder names must be in English and use sentence case.
 
 Folder names must only use these characters:
 
 - uppercase and lowercase letters
 - numbers
 - underscores (`_`)
+- hyphens (`-`)
 - exclamation marks (`!`)
-
-#### Percent encoding characters
-
-Folder names must not use characters that require percent encoding. Those characters may include, but are not limited to:
-
-- spaces
-  - all spaces must be changed to underscores (`_`)
-- apostrophes (`'`)
 
 ### Article file names
 
@@ -196,15 +189,25 @@ Escaping Markdown syntax should be used when needed.
 
 Each paragraph must be followed by one empty line.
 
-## Hatnotes
+## Hatnote
 
-Hatnotes are short notes placed at the top of an article (but under the title) or underneath a section heading to help readers navigate to related articles or inform them about related topics.
+*Not to be confused with [Notice](#notice).*
 
-Hatnotes must be italised and be placed immediately after the title or heading. If multiple hatnotes are used, they must be on separate lines, spaced out with an empty line.
+Hatnotes are short notes placed at the top of an article or section to help readers navigate to related articles or inform them about related topics.
+
+Hatnotes must be italised and be placed immediately after the heading. If multiple hatnotes are used, they must be on separate lines, spaced out with an empty line.
 
 ### Main page
 
-Main page hatnotes directs a reader to the main article of the topic. These must start with `Main page: {article}`. This hatnote should have only one link, but may use more if needed. For example:
+Main page hatnotes directs a reader to the main article of the topic. When this hatnote is used, it implies that the section it is on is a summary of what the linked page is about. This hatnote should have only one link, but may use more if needed. These must be formatted as:
+
+```markdown
+*Main page: {article}*
+
+*Main pages: {article} and {article}*
+```
+
+For example:
 
 ```markdown
 ## Modding
@@ -214,7 +217,15 @@ Main page hatnotes directs a reader to the main article of the topic. These must
 
 ### See also
 
-See also hatnotes suggests a reader other points of interest from a given article. These must be written as `See also: {article(s)}`. For example:
+See also hatnotes suggests a reader other points of interest from a given article or section. These must be formatted as:
+
+```markdown
+*See also: {article}*
+
+*See also: {article} and {article}*
+```
+
+For example:
 
 ```markdown
 ## Beatmapping
@@ -224,7 +235,15 @@ See also hatnotes suggests a reader other points of interest from a given articl
 
 ### For see
 
-For see hatnotes are similar to see also, but are generally more descriptive. They must be written as `For {description}, see: {article(s)}`. For example:
+For see hatnotes are similar to see also, but are generally more descriptive and direct. This hatnote should have only one link, but may use more if needed. These must be formatted as:
+
+```markdown
+*For {description}, see: {article}`*
+
+*For {description}, see: {article} and {article}`*
+```
+
+For example:
 
 ```markdown
 # Installation
@@ -234,7 +253,15 @@ For see hatnotes are similar to see also, but are generally more descriptive. Th
 
 ### Not to be confused with
 
-Not to be confused with hatnotes helps distinguish ambiguous article titles or sections. These must written as `Not to be confused with {article(s)}.`. For example:
+Not to be confused with hatnotes helps distinguish ambiguous or misunderstood article titles or sections. This hatnote should have only one link, but may use more if needed. These must be formatted as:
+
+```markdown
+*Not to be confused with {article}.*
+
+*Not to be confused with {article} or {article}.*
+```
+
+For example:
 
 ```markdown
 # Combo
@@ -242,9 +269,44 @@ Not to be confused with hatnotes helps distinguish ambiguous article titles or s
 *Not to be confused with [Score](/wiki/Score).*
 ```
 
+### For other uses
+
+For other uses hatnotes are similar to not to be confused with, but links directly to the disambiguation article. This hatnote must only link to the disambiguation article. These must be formatted as:
+
+```markdown
+*For other uses, see {disambiguation article}.*
+```
+
+For example:
+
+```markdown
+# osu!
+
+*For other uses, see [Disambiguation/osu!](/wiki/Disambiguation/osu!)*
+```
+
 ## Notice
 
-A notice should be placed where appropriate in a section, but must start off the paragraph and use italics. Notices may contain bolding where appropriate, but should be kept to a minimum. These must begin with "Note", "Notice", "Caution", or "Warning" followed by a colon (`:`). Notices must be written as complete sentences. Thus, unlike most [hatnotes](#hatnotes), must use a full stop (`.`) or an exclamation mark (`!`) if appropriate. Anything within the same paragraph of a notice must also be italicised. For example:
+*Not to be confused with [Hatnote](#hatnote).*
+
+A notice should be placed where appropriate in a section, but must start off the paragraph and use italics. Notices may contain bolding where appropriate, but should be kept to a minimum. Notices must be written as complete sentences. Thus, unlike most [hatnotes](#hatnotes), must use a full stop (`.`) or an exclamation mark (`!`) if appropriate. Anything within the same paragraph of a notice must also be italicised. These must be formatted as:
+
+```markdown
+*Note: {note}.*
+
+*Notice: {notice}.*
+
+*Caution: {caution}.*
+
+*Warning: {warning}.*
+```
+
+- `Note` should be used for reminders, or factual or trivial details.
+- `Notice` should be used for attention, something that the reader should be made aware of.
+- `Caution` should be used to warn the reader to avoid unintended consequences.
+- `Warning` should be used to warn the reader that action may be taken against them.
+
+For example:
 
 ```markdown
 *Note: pippi is styilised with a lowercase "p", like peppy.*
@@ -256,14 +318,21 @@ A notice should be placed where appropriate in a section, but must start off the
 *Warning: Having more than one osu! user account at any time is an infringement against the [osu! rules](/wiki/Rules)!*
 ```
 
-- `Note` should be used for trivial, factual details, or reminders.
-- `Notice` should be used for attention, something that the reader should be made aware of.
-- `Caution` should be used to warn the reader to avoid unintended consequences.
-- `Warning` should be used to warn the reader that action may be taken against them.
-
 ### Notice to
 
-Notice to are notices but target specific readers. They are formatted the same as [notices](#notice), but also include the word `to` after "Note", "Notice", "Caution", or "Warning", then followed with a brief description of the target readers. For example:
+Notice to are notices but target specific readers. They are formatted similarly as [notices](#notice), but also include the word `to` after the notice keyword, then followed with a brief description of the target readers. These must be formatted as:
+
+```markdown
+*Note to {target}: {note}.*
+
+*Notice to {target}: {notice}.*
+
+*Caution to {target}: {caution}.*
+
+*Warning to {target}: {warning}.*
+```
+
+For example:
 
 ```markdown
 *Notice to API users: In osu!catch, droplets are marked as `count50` and missed droplets as `countkatu`.*
@@ -469,15 +538,13 @@ There are two types of links: inline and reference. Inline has two styles. Examp
 
 Links must use the inline style if they are only referenced once. The inline angle brackets style should be avoided. References to reference links must be placed at the bottom of the article.
 
-The link text must not be the URL itself and should not use the word `here`.
-
 ### Internal links
 
 *Note: Internal links refer to links that stay inside the `https://osu.ppy.sh/` domain.*
 
 #### Wiki links
 
-All links that point to an osu! wiki article must start with `/wiki/` followed by the path to get to the article you are targeting. Some examples include:
+All links that point to an osu! wiki article should start with `/wiki/` followed by the path to get to the article you are targeting. Relative links may also be used. Some examples include:
 
 ```markdown
 [FAQ](/wiki/FAQ)
@@ -487,6 +554,24 @@ All links that point to an osu! wiki article must start with `/wiki/` followed b
 ---
 
 Wiki links must not use redirects.
+
+---
+
+Wiki links must not use a trailing forward slash (`/`).
+
+Bad examples:
+
+```markdown
+[Developers](/wiki/Developers/)
+[Developers](/wiki/Developers/#game-client-developers)
+```
+
+Good examples:
+
+```markdown
+[Developers](/wiki/Developers)
+[Developers](/wiki/Developers#game-client-developers)
+```
 
 ##### Section links
 
