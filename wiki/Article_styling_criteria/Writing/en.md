@@ -60,6 +60,16 @@ Game modifiers must have the word `mod` after the mod name to reduce ambiguity. 
 - `Auto` or `AT`
 - `Cinema` or `CM`
 - `Touch Device` or `TD`
+- `ScoreV2`
+
+---
+
+These game modifers are no longer being used by osu!; however, if needed, these must be spelt as seen below (letter casing and spacing must match):
+
+- `Fade Out`
+- `No Video`
+- `10K`
+- `Taiko`
 
 ---
 
@@ -149,7 +159,7 @@ Good examples:
 
 ### Date and time formatting
 
-When both date and time are used together, the date must be written first followed by the time. The time must be in between parenthesis (`(` and `)`). For example:
+When both date and time are used together, the date must be written first, followed by the time. The time must be in between parenthesis (`(` and `)`). For example:
 
 Bad examples:
 
@@ -285,21 +295,21 @@ Do:    Members of the BN (Beatmap Nominators) can nominate your beatmapset.
 
 [Articles with informal registers](#language-register) may ignore this section; however, `I` in paragraphs should be avoided.
 
-## Syntax and grammar
+## Grammar and syntax
 
-Prefer using simpler syntax and grammar.
+Prefer using simpler grammar and syntax.
 
 ### Contractions
 
 Contractions must not be used.
 
-[Articles with informal registers](#language-register) may use contractions, usage should stay consistent throughout the entire article.
+[Articles with informal registers](#language-register) may use contractions; however, usage should stay consistent throughout the entire article.
 
 ### Numbers
 
 *For number formatting, see [Wikipedia's Manual of Style on Number formatting](https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Numbers)*
 
-[Articles with informal registers](#language-register) may ignore this section, usage should stay consistent throughout the entire article.
+[Articles with informal registers](#language-register) may ignore this section; however, usage should stay consistent throughout the entire article.
 
 ### Semicolons
 
