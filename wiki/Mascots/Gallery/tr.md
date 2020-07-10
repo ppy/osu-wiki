@@ -35,8 +35,8 @@ Pippi için fan tasarımları:
 - [İlk Resmi osu! Fanart Yarışması Sonuçları! (*First Official osu! Fanart Contest Results!*)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152186520298282 "Facebook")
 - [osu! Fanart Yarışması 2! (*osu! Fanart Contest 2!*)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152291754173282 "Facebook")
 - [osu! Fanart Yarışması 3! (*osu! Fanart Contest 3!*)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152514671088282 "Facebook")
-- [Fan Art 7: Halloween!](https://osu.ppy.sh/community/contests/5)
-- [Fan Art 8: Christmas](https://osu.ppy.sh/community/contests/36)
+- [Fan Art 7: Cadılar Bayramı! (*Fan Art 7: Halloween!*)](https://osu.ppy.sh/community/contests/5)
+- [Fan Art 8: Noel (*Fan Art 8: Christmas*)](https://osu.ppy.sh/community/contests/36)
 - [Mocha Yaz Fanart Yarışması'nda (*Mocha in Summer Fanart Contest*)](https://osu.ppy.sh/community/contests/48)
 
 ### Yuzu
@@ -54,8 +54,8 @@ Pippi için fan tasarımları:
 Yuzu için fan tasarımları:
 
 - [osu! Fanart Yarışması 3! (*osu! Fanart Contest 3!*)](https://www.facebook.com/pg/osugame/photos/?tab=album&album_id=10152514671088282 "Facebook")
-- [Fan Art 7: Halloween!](https://osu.ppy.sh/community/contests/5)
-- [Fan Art 8: Christmas](https://osu.ppy.sh/community/contests/36)
+- [Fan Art 7: Cadılar Bayramı! (*Fan Art 7: Halloween!*)](https://osu.ppy.sh/community/contests/5)
+- [Fan Art 8: Noel (*Fan Art 8: Christmas*)](https://osu.ppy.sh/community/contests/36)
 - [Yuzu'nun yeni görünümü yarışması (*Yuzu's New Look Contest*)](https://osu.ppy.sh/community/contests/49)
 
 ### Maria
@@ -66,8 +66,8 @@ Yuzu için fan tasarımları:
 
 Daha fazla maria fan tasarımları:
 
-- [Fan Art 8: Christmas](https://osu.ppy.sh/community/contests/36)
-- [Fan Art 9: Spring](https://osu.ppy.sh/community/contests/45)
+- [Fan Art 8: Noel (*Fan Art 8: Christmas*)](https://osu.ppy.sh/community/contests/36)
+- [Fan Art 9: İlkbahar (*Fan Art 9: Spring*)](https://osu.ppy.sh/community/contests/45)
 
 ### Mocha
 
@@ -103,9 +103,9 @@ Cameo Maskotları için fan tasarımları:
 
 Topluluk yapımı fan tasarımı maskotlar:
 
-- [Fan Art 6: osu!taiko mascot](https://osu.ppy.sh/community/contests/2)
-- [Fan Art 7: Halloween!](https://osu.ppy.sh/community/contests/5)
-- [Fan Art 8: Christmas](https://osu.ppy.sh/community/contests/36)
+- [Fan Art 6: osu!taiko maskotu (*Fan Art 6: osu!taiko mascot*)](https://osu.ppy.sh/community/contests/2)
+- [Fan Art 7: Cadılar Bayramı! (*Fan Art 7: Halloween!*)](https://osu.ppy.sh/community/contests/5)
+- [Fan Art 8: Noel (*Fan Art 8: Christmas*)](https://osu.ppy.sh/community/contests/36)
 - [Fan Art 9: Spring](https://osu.ppy.sh/community/contests/45)
 - [Mocha Yaz Fanart Yarışması'nda (*Mocha in Summer Fanart Contest*)](https://osu.ppy.sh/community/contests/48)
 - [Yuzu'nun yeni görünümü yarışması (*Yuzu's New Look Contest*)](https://osu.ppy.sh/community/contests/49)
