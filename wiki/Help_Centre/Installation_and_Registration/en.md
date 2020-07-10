@@ -1,10 +1,10 @@
-# Installation and registration help
+# Installation and registration (help page)
 
 *For a list of all Help Centre articles, see: [Help Centre](/wiki/Help_Centre)*
 
 ## Installation
 
-Main Page: [Installation](/wiki/Installation).
+*Main Page: [Installation](/wiki/Installation).*
 
 ### How do I download osu!?
 
@@ -14,7 +14,7 @@ Alternatively, [click here](https://osu.ppy.sh/home/download) for a direct link 
 
 ## Registration
 
-Main Page: [Registration](/wiki/Registration).
+*Main Page: [Registration](/wiki/Registration).*
 
 ### Where do I register for osu!?
 

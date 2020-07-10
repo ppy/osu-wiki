@@ -1,4 +1,4 @@
-# Online features help
+# Online features (help page)
 
 *For a list of all Help Centre articles, see: [Help Centre](/wiki/Help_Centre)*
 

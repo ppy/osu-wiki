@@ -1,4 +1,4 @@
-# osu!store and merchandise help
+# osu!store (help page)
 
 *For a list of all Help Centre articles, see: [Help Centre](/wiki/Help_Centre)*
 
@@ -73,7 +73,7 @@ But you'll first need to download the package containing the osu!go default file
 
 **Follow these steps to prepare your osu!go device under Windows.**
 
-*Warning: **While in the Disk Management view, make sure to follow the instructions *VERY* closely and *ONLY* apply them to the osu!go device.** You can potentially lose data if you fiddle around in this dialog.*
+*Warning: **While in the Disk Management view, make sure to follow the instructions VERY closely and ONLY apply them to the osu!go device.** You can potentially lose data if you fiddle around in this dialog.*
 
 1. Open the Start menu.
 2. Type `disk management` into the search bar. This will bring up the `Create and manage hard disk partitions` section of the Control Panel.

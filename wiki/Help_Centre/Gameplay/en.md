@@ -1,4 +1,4 @@
-# Gameplay help
+# Gameplay (help page)
 
 *For a list of all Help Centre articles, see: [Help Centre](/wiki/Help_Centre)*
 
@@ -216,3 +216,68 @@ Try using another proxy or VPN provider. But if all else fails, send in a suppor
 If you are not using any of the above, then you will need to send in a support ticket, as your connection has likely been blacklisted in error.
 
 Tor (The Onion Router) or networks associated with the Tor relay will not connect to the game servers, for the most part. We do this to avoid malicious use, as these types of networks are typically associated with [ill-intented purposes](https://en.wikipedia.org/wiki/Tor_(anonymity_network)#Usage "Wikipedia").
+
+---
+
+## FAQ
+
+### I've never played this "Ouendan" thing, so what is it? <!-- Gameplay -->
+
+***[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")* is a rhythm game for the *Nintendo DS*.**
+
+It's the initial game that osu! is based off of! The gameplay consists of only 3 elements: tapping circles on the touchscreen, dragging a ball across a fixed path, and rotating a spinner very fast. All of these elements are timed to covers of popular Japanese songs. Below shows what the gameplay looks like.
+
+![Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS](/wiki/shared/Ouendan.jpg "Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS")
+
+The gameplay circles can be seen on the bottom screen, and the story on the top screen. Each stage is basically a self-contained story about a person in trouble. That's where the *Ouendan* (cheer squad) come in. Through the magical power of male cheerleading, the player taps on to the beat to cheer and help the people in trouble.
+
+### How do I play osu!?
+
+*Full explanation: [osu!](/wiki/Game_Modes/osu!)*
+
+**First, try paying close attention to the tutorial beatmap that should've been included with your download of osu!.**
+
+If you cannot find the tutorial beatmap, you can re-download it [here](https://osu.ppy.sh/beatmapsets/3756#osu/22538).
+
+While most players may not have a touchscreen at their disposal, osu! was made to be playable with a normal mouse, as well as any creative variations of input device usage (e.g., tablets or joysticks). You can find other common play styles in the [play styles](/wiki/Play_Styles) page. If you're new to osu! and are wondering how to play, you can play the tutorial [beatmap](/wiki/Beatmaps) or go to the [game modes](/wiki/Game_Modes) page and select your preferred game mode to learn more!
+
+### What's this Taiko/Catch/Mania thing I keep hearing about?
+
+**Taiko, Mania, and Catch the Beat are game modes available to play in osu!.**
+
+osu! actually has 4 separate [game modes](/wiki/Game_Modes): [osu!standard](/wiki/Game_Modes/osu!), [osu!taiko](/wiki/Game_Modes/osu!taiko), [osu!catch](/wiki/Game_Modes/osu!catch), and [osu!mania](/wiki/Game_Modes/osu!mania)! All 4 are based off of different types of rhythm games and they canbe accessed via the `Mode` button in the song selection screen.
+
+![Mode change interface](/wiki/shared/Interface_mode.png "Mode toolbox in Song Selection (Solo)")
+
+Click on the `Mode` button to open up a list of game modes available on osu!. Then, click on your desired game mode, and osu! will switch to that gameplay mode style, along with a relevant leaderboard change. Alternatively, you can use a shortcut to select a game mode by pressing `Ctrl` + the corresponding number. osu!standard uses the `1` key, osu!taiko use `2`, osu!catch uses `3`, and osu!mania uses `4`.
+
+### Does my Level actually do anything?
+
+**Level does absolutely nothing**
+
+There's absolutely no difference in any way when comparing a Level 100 player against a Level 1 player, except for the player's own skills and experience of the [game mode](/wiki/Game_Modes) in question. There's no handicap for lower-level players, and nor is there any advantage for the higher-level players (except maybe personal experience).
+
+### How do I change the default keyboard key input for my game mode of choice?
+
+*Full explanation: [Options](/wiki/Options)*
+
+**You can change the key inputs in the `Options` sidebar**
+
+![Options sidebar with quickicons](/wiki/shared/Options_quickicons.jpg "Options quickicons")
+
+You change the default keyboard key input from the `Input` section in the `Options` sidebar (as shown above), under the `Keyboard` section (as shown below).
+
+![Options keyboard section](/wiki/shared/Options_keyboard.jpg "Options Input icon, Keyboard section")
+
+### Game over? Where did I mess up? <!-- Gameplay -->
+
+**To analyze your failed play, you can watch a replay of that play.**
+
+*Full explanation: [Replay](/wiki/Replay)*
+
+After failing a beatmap, you can press the `F1` key to replay the currently failed play. Watching this replay may help you better understand where and why you messed up. 
+
+The replay will end when the screen darkens, with an osu!logo in the middle, rather than the game over screen. To watch the replay again, you can hold the grave/tilde (`` ` ``/`~` respectively) key or `Ctrl`+`R` (by default). You can change this key in the `Options` sidebar inside `Change keyboard bindings` as `Quick Retry (hold briefly)`).
+
+Due to the nature of the fail replay screen, use the `Esc` key to return to Song Selection. Quick retrying the play (as in, the *actual play*) of the beatmap in this state is not possible. It currently works in Solo mode only when given the game over screen. But please keep in-mind that **this replay will not be saved nor allowed to be exported.** To record the failed replay, you'll have to use an external third-party software.
+Level is be based on total score accumulated when online with an account, regardless of pass or fail on the beatmap. You can find the given formula [here](/wiki/Score).

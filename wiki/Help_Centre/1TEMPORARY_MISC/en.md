@@ -1,26 +1,4 @@
-# FAQ
-
-## osu! Introduction 
-
-### I've never played this "Ouendan" thing, so what is it? <!-- Gameplay -->
-
-***[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan "Wikipedia")* is a rhythm game for the *Nintendo DS*.**
-
-It's the initial game that osu! is based off of! The gameplay consists of only 3 elements: tapping circles on the touchscreen, dragging a ball across a fixed path, and rotating a spinner very fast. All of these elements are timed to covers of popular Japanese songs. Below shows what the gameplay looks like.
-
-![Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS](/wiki/shared/Ouendan.jpg "Gameplay example of Osu! Tatakae! Ouendan in Nintendo DS")
-
-The gameplay circles can be seen on the bottom screen, and the story on the top screen. Each stage is basically a self-contained story about a person in trouble. That's where the *Ouendan* (cheer squad) come in. Through the magical power of male cheerleading, the player taps on to the beat to cheer and help the people in trouble.
-
-### How do I play osu!? <!-- Gameplay -->
-
-*Full explanation: [osu!](/wiki/Game_Modes/osu!)*
-
-**First, try paying close attention to the tutorial beatmap that should've been included with your download of osu!.**
-
-If you cannot find the tutorial beatmap, you can re-download it [here](https://osu.ppy.sh/beatmapsets/3756#osu/22538).
-
-While most players may not have a touchscreen at their disposal, osu! was made to be playable with a normal mouse, as well as any creative variations of input device usage (e.g., tablets or joysticks). You can find other common play styles in the [play styles](/wiki/Play_Styles) page. If you're new to osu! and are wondering how to play, you can play the tutorial [beatmap](/wiki/Beatmaps) or go to the [game modes](/wiki/Game_Modes) page and select your preferred game mode to learn more!
+<!-- this file is only temporary and is meant to be either deleted or have its information be combined into other articles -->
 
 #### Gameplay Basics <!--note for milky (NFM): random shit folder (RSF) | has not been cleaned-up-->
 
@@ -91,16 +69,6 @@ If [Auto Pilot](/wiki/Game_Modifiers) game modifier was used, only the input fro
 ---
 
 ## Alternative Game Modes
-
-### What's this Taiko/Catch/Mania thing I keep hearing about?
-
-**Taiko, Mania, and Catch the Beat are game modes available to play in osu!.**
-
-osu! actually has 4 separate [game modes](/wiki/Game_Modes): [osu!standard](/wiki/Game_Modes/osu!), [osu!taiko](/wiki/Game_Modes/osu!taiko), [osu!catch](/wiki/Game_Modes/osu!catch), and [osu!mania](/wiki/Game_Modes/osu!mania)! All 4 are based off of different types of rhythm games and they canbe accessed via the `Mode` button in the song selection screen.
-
-![Mode change interface](/wiki/shared/Interface_mode.png "Mode toolbox in Song Selection (Solo)")
-
-Click on the `Mode` button to open up a list of game modes available on osu!. Then, click on your desired game mode, and osu! will switch to that gameplay mode style, along with a relevant leaderboard change. Alternatively, you can use a shortcut to select a game mode by pressing `Ctrl` + the corresponding number. osu!standard uses the `1` key, osu!taiko use `2`, osu!catch uses `3`, and osu!mania uses `4`.
 
 ### What is osu!taiko? <!-- RSF | cleaned-up: false-->
 
@@ -387,115 +355,11 @@ Performance points(pp) is a ranking metric aiming to be more contextually releva
 
 For any questions regarding pp, please refer to the [wiki page for pp first](/wiki/Performance_Points).
 
----
-
-## Common issues and questions
-
-### General
-
-#### Where can I get new beatmaps? <!-- Beatmapping -->
-
-**The Beatmap Listing is a great place to start!**
-
-*See also: [Beatmaps](/wiki/Beatmaps)*
-
-To get there and download new beatmaps, go to [`beatmaps`](https://osu.ppy.sh/beatmapsets) on the Home page. Just remember that you need to sign in in order to download beatmaps.
-
-#### Can I disable Kiai Time? <!-- Beatmapping -->
-
-**No.**
-
-You cannot disabled Kiai Time. This is because, unlike video, it's a feature integrated into the game (as a part with the [hit objects](/wiki/Hit_objects)), and thus cannot be disabled.
-
-#### The maps are too hard! Where can I find some easier maps? <!-- Beatmapping -->
-
-**Some very kind community members have compiled sets of beatmaps for beginners for each game mode.**
-
-For osu!, [Pokebis](https://osu.ppy.sh/users/8012) has compiled a set of beatmaps suitable for beginners to play. It can be found [here](https://osu.ppy.sh/community/forums/topics/5456).
-
-For osu!taiko, [OnosakiHito](https://osu.ppy.sh/users/290128) has compiled a set of beatmaps for beginners to learn osu!taiko. It can be found [here](https://osu.ppy.sh/community/forums/topics/175867).
-
-For osu!catch, [-KevinChan-](https://osu.ppy.sh/users/564334) (formerly known as "Kingkevin30") has compiled a nice list of osu!catch beatmaps and basic explanation about osu!catch. It can be found [here](https://osu.ppy.sh/community/forums/topics/131067).
-
-For osu!mania, [Entozer](https://osu.ppy.sh/users/277044) and [Drace](https://osu.ppy.sh/users/818340) (formerly known as "xxidraceixx") have compiled a decent list, sorted by relative player's difficulties, to provide experienced gameplay insight for beginners starting out in osu!mania. Their respective guides can be found [here](https://osu.ppy.sh/community/forums/topics/147552), and [here](https://osu.ppy.sh/community/forums/topics/146615).
-
-Alternatively, the website's beatmap search bar has a feature to [sort the ranked beatmap list by difficulty][sort beatmaplist difficulty]. The easiest maps are at the top of the list.
-
-Lastly, [Rivenation](https://osu.ppy.sh/users/2063554) (formerly known as "GeKKooo") did a project for [advanced beatmap searching](https://osu.ppy.sh/community/forums/topics/380485) called [osu!search](http://osusearch.com). Which not only has the same features as the official beatmap searchbar, but also has some neat features to define a specific beatmap requirement! The unofficial beatmap search bar can be found at [this link](http://osusearch.com).
-
-#### Does my Level actually do anything? <!-- idk -->
-
-**Level does absolutely nothing**
-
-There's absolutely no difference in any way when comparing a Level 100 player against a Level 1 player, except for the player's own skills and experience of the [game mode](/wiki/Game_Modes) in question. There's no handicap for lower-level players, and nor is there any advantage for the higher-level players (except maybe personal experience).
-
-Level is be based on total score accumulated when online with an account, regardless of pass or fail on the beatmap. You can find the given formula [here](/wiki/Score).
-
 #### Why is my profile stats different ingame? <!-- RSF | cleaned-up: false -->
 
 Keep in mind that osu! has four game modes so you might be looking at the wrong game mode.
 
 ![Profile_Mode_Buttons](img/Profile_mode_buttons.gif "Profile mode buttons")
-
-#### How do I change the default keyboard key input for my game mode of choice?
-
-*Full explanation: [Options](/wiki/Options)*
-
-**You can change the key inputs in the `Options` sidebar**
-
-![Options sidebar with quickicons](/wiki/shared/Options_quickicons.jpg "Options quickicons")
-
-You change the default keyboard key input from the `Input` section in the `Options` sidebar (as shown above), under the `Keyboard` section (as shown below).
-
-![Options keyboard section](/wiki/shared/Options_keyboard.jpg "Options Input icon, Keyboard section")
-
-#### Game over? Where did I mess up? <!-- Gameplay -->
-
-**To analyze your failed play, you can watch a replay of that play.**
-
-*Full explanation: [Replay](/wiki/Replay)*
-
-After failing a beatmap, you can press the `F1` key to replay the currently failed play. Watching this replay may help you better understand where and why you messed up. 
-
-The replay will end when the screen darkens, with an osu!logo in the middle, rather than the game over screen. To watch the replay again, you can hold the grave/tilde (`` ` ``/`~` respectively) key or `Ctrl`+`R` (by default). You can change this key in the `Options` sidebar inside `Change keyboard bindings` as `Quick Retry (hold briefly)`).
-
-Due to the nature of the fail replay screen, use the `Esc` key to return to Song Selection. Quick retrying the play (as in, the *actual play*) of the beatmap in this state is not possible. It currently works in Solo mode only when given the game over screen. But please keep in-mind that **this replay will not be saved nor allowed to be exported.** To record the failed replay, you'll have to use an external third-party software.
-
-#### Does osu! have keyboard shortcuts? <!-- idk -->
-
-**Yes, absolutely!**
-
-*Full list: [Shortcut key reference](/wiki/Shortcut_key_reference)*
-
-By default, pressing the `Insert` key will hide (or pause if currently playing) and mute osu! into the *Windows* sidebar. To open osu! back up again, you can find the *osu!logo* in the *Windows* sidebar and click on it to return osu!, or you can press the osu! shortcut on the taskbar/desktop. It's called the **Boss key**, and it can be modified in the`Keyboard` section under `Change keyboard bindings`, under `Options`).
-
-Another interesting shortcut is `Alt`+`Enter`. The shortcut toggles the fullscreen mode button in `Options`, but does not work during gameplay or in Multi.
-
-#### What should I backup when installing osu! on a new device?
-
-**The short answer is that you should backup whole `osu!` folder, including hidden files.**
-
-After running `osu!install.exe` and completing the osu! installation successfully, copy the backup `osu!` folder and merge to the new device's `osu!` folder. If it asks for merging `.dll` or `.exe` files, ignore it. Allow merging for everything else, including `.cfg` and `.db` files.
-
-#### Can I use osu! on my mobile device?
-
-**The short answer? Not really. The long answer? Well, read-on!**
-
-*Full list: [Game Modes under External Ports section](/wiki/Game_Modes)*
-
-Currently, osu! does not support any mobile platform.
-
-However, there are other unofficial ports of osu! and a single official spin-off game for iOS which uses their own leaderboard and account system.
-
-Below is a list of a few of the noteable, unofficial osu! ports:
-
-- ![][osu! icon] opsu! \[\Windows/OS X/Linux/Android\]\: Java port of osu! chiefly done by **itdelatrisu** with **fluddokt** providing support for Android version.
-- ![][osu!taiko icon] **T-Aiko! v2** \[\Android/iOS\]\ (no longer available): osu!taiko mode ported by **low.moe (Guy-kun) team** with new daily ranked challenge and refined T-Aiko! leaderboard.
-- ![][osu! icon] **osu!stream** \[\iOS\]\: Experience the new spin-off of the osu! game mode for the iOS developed by osu! team from grounds up.
-
-However, if you're not a fan of these ports, you can try downloading the [Android and iOS versions of the osu!lazer project](https://github.com/ppy/osu#running-osu)! But keep in-mind that osu!lazer is still an **ongoing work-in-progress.**
-
-### osu!
 
 #### Why do I not have the max possible combo when I have no misses? <!-- this article is *very lengthy* and also unneeded because a stub will do its job just fine (which i am working on atm), so I won't be changing this very much | cleaned-up: false -->
 
@@ -524,25 +388,6 @@ The button only works if a folder named `taiko` (capitalisation does not matter)
 When enabled, it will use the `taiko` folder's skin elements when playing in osu!taiko, regardless of current skin's taiko elements. If the `taiko` folder was not found, or disabled, it will use the current skin's taiko elements when available; default if all/certain taiko skin element was not found.
 
 **Ancient trivia note:** `taiko` folder used to hold *[Taiko by LuiginHann](https://osu.ppy.sh/community/forums/topics/41319)* skin, which could be downloaded from the now-deprecated `osume.exe` (an osu! updater when osu! need to update) under Skin tab. As the button does not check whether the folder contains elements from *LuigiHann's skin*, it was quickly noted by the community and used as a personal global osu!taiko skin folder.
-
-### Beatmapping
-
-#### "This beatmap you're trying to submit isn't owned by you!"
-
-*For unranked beatmaps only.*
-
-![Example of an .osu file content](/wiki/shared/Beatmap_not_owned.png "Example of an .osu file content")
-
-Please follow these steps:
-
-1. Leave the editor (or close osu!) to make sure the changes apply properly
-2. Check the name of the beatmap's folder
-   - If it starts with numbers, remove them. Otherwise, osu! will treat it as BeatmapSetID
-3. Make sure that the `.mp3` does not start with numbers. Edit the filename in the `.osu` files if it does.
-4. Open all the `.osu` files with a text editor (*Notepad* will work)
-   - Set your name as creator (and replace it in the file name as well)
-   - Set the BeatmapID to 0
-   - Set the BeatmapSetID to -1
 
 ## Credits
 
