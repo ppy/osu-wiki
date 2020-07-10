@@ -109,7 +109,6 @@ Kontes osu!remix menghadiahkan gelar **osu!mixer** sebagai hadiah utama dari kon
 
 ### Artis unggulan
 
-[Featured Artists](/wiki/Featured_Artists) with osu! accounts are given the **Featured Artist** title to show their involvement.
 [Artis unggulan](/wiki/Featured_Artists) yang memiliki akun osu! memiliki gelar **Featured Artist** untuk menunjukkan keterlibatan mereka dalam game ini.
 
 ![][flag_NO] [cYsmix](https://osu.ppy.sh/users/272870) dan nekodex memiliki gelar **osu!musician** atas kontribusinya di masa awal osu! dan merancang konsep musik dan tema resmi osu!, dan ![][flag_US] [BilliumMoto](https://osu.ppy.sh/users/3862471) memilih untuk menampilkan gelar **osu!mixer** miliknya ketika ia menjadi Artis Unggulan.
