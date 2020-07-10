@@ -28,7 +28,11 @@ By default, every user has **2 pending slots**. 1 slot is added for every Ranked
 
 ### How can I delete my map?
 
-**The team does not take requests to manually delete uploaded beatmaps.**
+**The osu! team does not take requests to manually delete uploaded beatmaps.**
+
+You can delete your beatmap yourself by waiting for it to decay to the beatmap Graveyard, which it will do so after a month without updates.
+
+Once your map is in the Graveyard, you can delete it yourself by going to it's beatmap page, clicking the `Discussion` button (which will bring you to its forum page), and then clicking the `Delete` button that appears next to the beatmap link.
 
 ---
 
@@ -60,10 +64,4 @@ For osu!catch, [-KevinChan-](https://osu.ppy.sh/users/564334) (formerly known as
 
 For osu!mania, [Entozer](https://osu.ppy.sh/users/277044) and [Drace](https://osu.ppy.sh/users/818340) (formerly known as "xxidraceixx") have compiled a decent list, sorted by relative player's difficulties, to provide experienced gameplay insight for beginners starting out in osu!mania. Their respective guides can be found [here](https://osu.ppy.sh/community/forums/topics/147552), and [here](https://osu.ppy.sh/community/forums/topics/146615).
 
-Alternatively, the website's beatmap search bar has a feature to [sort the ranked beatmap list by difficulty][sort beatmaplist difficulty]. The easiest maps are at the top of the list.
-
 Lastly, [Rivenation](https://osu.ppy.sh/users/2063554) (formerly known as "GeKKooo") did a project for [advanced beatmap searching](https://osu.ppy.sh/community/forums/topics/380485) called [osu!search](http://osusearch.com). Which not only has the same features as the official beatmap searchbar, but also has some neat features to define a specific beatmap requirement! The unofficial beatmap search bar can be found at [this link](http://osusearch.com).
-
-You can delete your beatmap yourself by waiting for it to decay to the beatmap Graveyard, which it will do so after a month without updates.
-
-Once your map is in the Graveyard, you can delete it yourself by going to it's beatmap page, clicking the `Discussion` button (which will bring you to its forum page), and then clicking the `Delete` button that appears next to the beatmap link.
