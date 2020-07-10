@@ -140,9 +140,9 @@ Tama: ok
 !REPORT <usuario> <motivo>
 ```
 
-*Para informacion acerca de lo que es reportable, ve [Reporting Bad Behaviour](/wiki/Reporting_Bad_Behaviour).*
+*Para información acerca de lo que merece ser reportado, ve [Reporting Bad Behaviour](/wiki/Reporting_Bad_Behaviour).*
 
-*Aviso: Al introducir el usuario, reemplaza los espacios con un guin bajo (`_`).´*
+*Aviso: Al introducir el usuario, reemplaza los espacios con un guion bajo (`_`).*
 
 Envía un reporte al [Equipo de Moderación Global](/wiki/Global_Moderation_Team) o a los [Moderadores de un idioma específico](/wiki/Language_Moderators).
 
