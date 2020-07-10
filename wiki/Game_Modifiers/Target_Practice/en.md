@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
   - target practice
   - TP
@@ -41,7 +42,6 @@ The mode's use is mostly for fun, but is also used to practice maintaining a con
 - The Target Practice Mod will use the [combo colours](/wiki/Beatmapping/Combo#combo-colour) that are marked in the player's current [skin.ini](/wiki/Skinning/skin.ini) folder.
 
 [o!s]: /wiki/shared/mode/osu.png "osu!standard"
-<!-- this article is a stub -->
 
 <!--TO-DO:
 - replace placeholders

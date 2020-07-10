@@ -34,6 +34,7 @@ The mod functions exactly like a [replay](/wiki/Replay), with the options for 0.
 ### Trivia
 
 <!-- - The Auto mod was introduced in ____ -->
+
 - When watching an Auto replay in osu!standard, the username displayed in the leaderboard will be "osu!."
   - For osu!taiko, the username will be "<!---->"
   - For osu!catch, the username will be "<!---->"
