@@ -258,7 +258,7 @@ This competition has come to an end and resulted in the following podium:
 | **\[Crz\]Willis** | **7** | 3 | Sakaki | [#1](https://osu.ppy.sh/community/matches/62533644) |
 | **\[Crz\]I-Night** | **7** | 4 | \[Crz\]FolAH1217 | [#1](https://osu.ppy.sh/community/matches/62528816) |
 | **Kakuko** | **7** | 2 | AW ZERO | [#1](https://osu.ppy.sh/community/matches/62447269) |
-| Rain 7 | 0 | **7** | **GanYou** | *Win by Default* |
+| Rain 7 | 0 | **7** | **GanYou** | *win by default* |
 
 
 ### Quarterfinals
@@ -294,7 +294,7 @@ This competition has come to an end and resulted in the following podium:
 | **WLYMinato** | **5** | 1 | - xiaoluoli - | [#1](https://osu.ppy.sh/community/matches/61774138) |
 | **WLYMinato** | **5** | 0 | \[Crz\]Willis | [#1](https://osu.ppy.sh/community/matches/61773028) |
 | **Sakaki** | **5** | 1 | AW ZERO | [#1](https://osu.ppy.sh/community/matches/61768100) |
-| **GanYou** | **5** | 0 | GODV14138 | *Win by Default* |
+| **GanYou** | **5** | 0 | GODV14138 | *win by default* |
 | **Rain 7** | **5** | 3 | 91sNake | [#1](https://osu.ppy.sh/community/matches/61652103) |
 | **91sNake** | **5** | 0 | RBpencil | [#1](https://osu.ppy.sh/community/matches/61568705) |
 | **Sakaki** | **5** | 0 | 3032656057 | [#1](https://osu.ppy.sh/community/matches/61527778) |
@@ -311,9 +311,9 @@ This competition has come to an end and resulted in the following podium:
 | **yuwenhao1** | **5** | 0 | Hidden is fun | [#1](https://osu.ppy.sh/community/matches/61481734) |
 | **CaOH2** | **5** | 1 | \[RT\]Alleyne | [#1](https://osu.ppy.sh/community/matches/61450678) |
 | **lxy20019xs** | **5** | 3 | Edward\_Tsui | [#1](https://osu.ppy.sh/community/matches/61448780) |
-| **CherryG** | **5** | 0 | \[ Emiya \] | *Win by Default* |
+| **CherryG** | **5** | 0 | \[ Emiya \] | *win by default* |
 | **Yana Feiya** | **5** | 1 | Hx\_032 | [#1](https://osu.ppy.sh/community/matches/61443303) |
-| Yana Feiya | 0 | **5** | **Kagaku** | *Win by Default* |
+| Yana Feiya | 0 | **5** | **Kagaku** | *win by default* |
 | **\[Crz\]FolAH1217** | **5** | 0 | Edward\_Tsui | [#1](https://osu.ppy.sh/community/matches/61408636) |
 | **CaOH2** | **5** | 0 | CherryG | [#1](https://osu.ppy.sh/community/matches/61408071) |
 | **Sakaki** | **5** | 0 | spensll | [#1](https://osu.ppy.sh/community/matches/61406411) |
@@ -336,7 +336,7 @@ This competition has come to an end and resulted in the following podium:
 | **ImmortalphoeniX** | **5** | 1 | GODV14138 | [#1](https://osu.ppy.sh/community/matches/61236550) |
 | **CaOH2** | **5** | 0 | \[ Emiya \] | [#1](https://osu.ppy.sh/community/matches/61209240) |
 | **\[Crz\]FolAH1217** | **5** | 0 | Cloud18 | [#1](https://osu.ppy.sh/community/matches/61206938) |
-| **\[RT\]Alleyne** | **5** | 0 | \[ Emiya \] | *Win by Default* |
+| **\[RT\]Alleyne** | **5** | 0 | \[ Emiya \] | *win by default* |
 | **Hx\_032** | **5** | 0 | Kagaku | [#1](https://osu.ppy.sh/community/matches/61201441) |
 | **\[RT\]Alleyne** | **5** | 1 | CherryG | [#1](https://osu.ppy.sh/community/matches/61200581) |
 
