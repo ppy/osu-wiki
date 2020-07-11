@@ -4,7 +4,7 @@
 
 ## Locales
 
-Listed below are the properly-supported locales for the osu! wiki.
+Listed below are the properly-supported locales for the wiki.
 
 | File Name | Locale Name | Native Script |
 | :-- | :-- | :-- |
@@ -544,7 +544,7 @@ Links must use the inline style if they are only referenced once. The inline ang
 
 #### Wiki links
 
-All links that point to an osu! wiki article should start with `/wiki/` followed by the path to get to the article you are targeting. Relative links may also be used. Some examples include:
+All links that point to an wiki article should start with `/wiki/` followed by the path to get to the article you are targeting. Relative links may also be used. Some examples include:
 
 ```markdown
 [FAQ](/wiki/FAQ)
@@ -573,6 +573,14 @@ Good examples:
 [Developers](/wiki/Developers#game-client-developers)
 ```
 
+##### Sub-article links
+
+Wiki links that point to a sub-article should include the parent article's folder name in its link text. For example:
+
+```markdown
+*See also: [Beatmap Editor/Design](/wiki/Beatmap_Editor/Design)*
+```
+
 ##### Section links
 
 *Notice: On the website, heading levels 4 and 5 are not given the id attribute. This means that they can not be linked to directly.*
@@ -585,7 +593,7 @@ Wiki links that point to a section of an article may use the section sign symbol
 
 #### Other osu! links
 
-The URL from the address bar in your web browser should be used when linking to other osu! web pages. The `https://osu.ppy.sh` part of the URL must be kept.
+The URL from the address bar of your web browser should be copied as it is when linking to other osu! web pages. The `https://osu.ppy.sh` part of the URL must be kept.
 
 ##### User profiles
 
@@ -599,11 +607,15 @@ The link text of the user link should be the user's current name.
 
 Whenever linking to a beatmap, use this format as the link text:
 
-```markdown
+```
 {artist} - {title} ({creator}) [{difficuty_name}]
 ```
 
-The link to a beatmap must actually link to that difficulty. Beatmap difficulty URLs must be formatted like this: `https://osu.ppy.sh/beatmapsets/{BeatmapsetID}#{mode}/{BeatmapID}`.
+The link to a beatmap must actually link to that difficulty. Beatmap difficulty URLs must be formatted as follows:
+
+```
+https://osu.ppy.sh/beatmapsets/{BeatmapsetID}#{mode}/{BeatmapID}
+```
 
 The difficulty name may be left outside of the link text, but doing so must be consistent throughout the entire article.
 
@@ -611,17 +623,21 @@ The difficulty name may be left outside of the link text, but doing so must be c
 
 Whenever linking to a beatmapset, use this format as the link text:
 
-```markdown
+```
 {artist} - {title} ({creator})
 ```
 
-All beatmapset difficulty URLs looks like this: `https://osu.ppy.sh/beatmapsets/{BeatmapSetID}`.
+All beatmapset URLs must be formatted as follows:
+
+```
+https://osu.ppy.sh/beatmapsets/{BeatmapSetID}
+```
 
 ### External links
 
-*Note: External links refers to links that go outside the `https://osu.ppy.sh/` domain.*
+*Notice: External links refers to links that go outside the `https://osu.ppy.sh/` domain.*
 
-The `https` protocol must be used, unless the site does not support it. External links must be a clean and direct link to a reputable source. The link text should be the title of the page it is linking to.
+The `https` protocol must be used, unless the site does not support it. External links must be a clean and direct link to a reputable source. The link text should be the title of the page it is linking to. The URL from the address bar of your web browser should be copied as it is when linking to other external pages.
 
 There are no visual differences between external and osu! web links. Due to this, the website name should be included in the title text. For example:
 
@@ -649,11 +665,11 @@ There are two types of image links: inline and reference. Examples:
 
 Images should use the inline linking style if they are only referenced once. References to reference links must be placed at the bottom of the article.
 
-Images must be placed in a folder named `img`, located in the article's folder. Images that are used in multiple articles must be stored in the `/wiki/shared/` folder.
+Images must be placed in a folder named `img`, located in the article's folder. Images that are used in multiple articles should be stored in the `/wiki/shared/` folder.
 
 ### Formats and quality
 
-Images used in the osu! wiki should use the JPG format at quality 8 (80 or 80%, depending on the program). If the image contains transparency or has text that must be readable, use the PNG format instead. The GIF format can be used if the image contains an animation, but should be used sparingly as these may take longer to load.
+Images should use the JPG format at quality 8 (80 or 80%, depending on the program). If the image contains transparency or has text that must be readable, use the PNG format instead. If the image contains an animation, the GIF format can be used; however, this should be used sparingly as these may take longer to load or can be bigger then the [max file size](#file-size).
 
 ### File size
 
@@ -685,7 +701,7 @@ Installing osu! is easy. First, download the installer from the download page.
 Then locate the installer and run it.
 ```
 
-It is not possible to float an image or have text wrap around it. If the image is placed inline with the text, the image will be displayed inline with the text.
+*Note: It is not possible to float an image or have text wrap around it. If the image is placed inline with the text, it will be displayed as such.*
 
 ### Alternate and title text
 
@@ -703,7 +719,7 @@ Captions are assumed via the title text, which must be in plain text. Images wit
 
 ### Max image width
 
-The website's max image width is the width of the article body. Images should be smaller than 800 pixels wide.
+The website's max image width is the width of the article body. Images should be no wider than 800 pixels.
 
 ### Annotating images
 
@@ -723,11 +739,11 @@ When translating annotated images, the localised image version must be placed in
 
 All screenshots of gameplay must be done in the stable build, unless it is for a specific feature that is unavailable in the stable build. You should use the in-game screenshot feature (`F12`).
 
-#### osu! client settings
+#### Game client settings
 
-*Note: If you do not want to change your current settings for the osu! wiki, you can move your `osu!.<ComputerUser>.cfg` out of the osu! folder and move it back later.*
+*Note: If you do not want to change your current settings for the wiki, you can move your `osu!.<ComputerUser>.cfg` out of the osu! folder and move it back later.*
 
-You must set these settings before taking a screenshot of the osu! client (settings not stated below are assumed to be at their defaults):
+You must set these settings before taking a screenshot of the game client (settings not stated below are assumed to be at their defaults):
 
 - Select language: `English`
 - Prefer metadata in original language: `Enabled`
@@ -739,11 +755,13 @@ You must set these settings before taking a screenshot of the osu! client (setti
 - Always show key overlay: `Enabled`
 - Current skin: `Default` (first option)
 
+*Notice to translators: If you are translating an article containing screenshots of the game, you may set the game client's language to the language you are translating in.*
+
 ### Image links
 
 Images must not be part of a link text.
 
-Flag icons next to user links must be separate from the user link. For example:
+Flag icons next to user links must be separate from the link text. For example:
 
 ```markdown
 ![][flag_AU] [peppy](https://osu.ppy.sh/users/2)
@@ -761,11 +779,11 @@ The flag icons use the two letter code (in all capital letters) and end with `.g
 
 Where `xx` is the [ISO 3166-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 "Wikipedia") two-lettered country code for the flag.
 
-The country code in the alternate text and the full country name in the title is optional.
+The full country name should be added in the title text. The country code in the alternate text is optional, but must be applied to all flag icons in the article.
 
 ## Tables
 
-Tables in the osu! wiki only supports headings along the first row.
+Tables in the wiki only supports headings along the first row.
 
 Tables must not be beautified. They must have a vertical bar (`|`) on the left and right sides and the text of each cell must be padded with one space on both sides. Empty cells must use a vertical bar (`|`) followed by two spaces then another vertical bar (`|`).
 
@@ -791,7 +809,7 @@ For example:
 
 ## Blockquotes
 
-Blockquotes is limited to quoting text from someone. It must not be used to format text otherwise.
+The blockquote is limited to quoting text from someone. It must not be used to format text otherwise.
 
 ## Thematic breaks
 
