@@ -42,16 +42,16 @@ Due to the broad nature of the term "tech map," there are many different aspects
 
 Good examples of tech maps that fit this definition are [Silentroom - Nhelv](https://osu.ppy.sh/beatmapsets/917915#osu/2009432) and [RUMI - Densetsu no Matsuri](https://osu.ppy.sh/beatmapsets/781683#osu/1641637).
 
-### Most restrictive/most specific definition
+### Most restrictive/specific definition
 
-*Notice: the "most restrictive/specific" definition requires **all** all of the aspects listed to be present in order to define a beatmap as tech.*
+*Notice: the "most restrictive/specific" definition requires **all** of the aspects listed to be present in order to define a beatmap as tech.*
 
 - Irregular slider shapes
 - Quick and sharp changes in slider speed
 - SV sliders
 - Difficult-to-read beatmap patterns (often described as having a hard "flow") (example shown below)
 
-![Difficult-to-read-pattern (Camelia)](/wiki/Beatmaps/Technical_Maps/img/difficult_to_read_beatmap.jpeg "Difficult-to-read pattern")
+![Difficult-to-read-pattern (Camelia)](/wiki/Beatmaps/Technical_Maps/img/difficult_to_Fix read_beatmap.jpeg "Difficult-to-read pattern")
 
 ![Irregular slider shape (MARENOL)](/wiki/Beatmaps/Technical_Maps/img/irregular_slider.jpeg "Irregular slider shape (SV slider)")
 
