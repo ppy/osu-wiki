@@ -1,6 +1,6 @@
 # osu!api
 
-osu! memiliki [API](https://en.wikipedia.org/wiki/API) publik yang dapat digunakan oleh siapa saja untuk memperluas dan mendukung platform osu!. Dulunya API ini bersifat pribadi, dan hanya boleh digunakan jika kamu mengajukan permintaan akses, tapi sekarang siapa pun dapat menggunakan API ini selama mereka memiliki akun osu!.
+osu! memiliki [API](https://id.wikipedia.org/wiki/Antarmuka_pemrograman_aplikasi) publik yang dapat digunakan oleh layanan pihak ketiga untuk memperluas dan mendukung platform osu!. Dulunya API ini bersifat pribadi, dan hanya boleh digunakan jika kamu mengajukan permintaan akses, tapi sekarang siapa pun dapat menggunakan API ini selama mereka memiliki akun osu!.
 
 Kamu dapat melihat dokumentasi osu! API melalui [wiki osu-api](https://github.com/ppy/osu-api/wiki). Versi API saat ini memerlukan token untuk mengotentikasi permintaan komunikasi. Kamu dapat mengajukan pembuatan token osu! API di [laman pengajuannya](https://osu.ppy.sh/p/api) melewati situs web osu!. Perlu dicatat bahwa dokumentasi [wiki osu!api](https://github.com/ppy/osu-api/wiki) tidak sepenuhnya lengkap, dan API itu sendiri tidak sedang dalam pengembangan yang sangat aktif.
 
