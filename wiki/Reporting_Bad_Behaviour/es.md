@@ -13,7 +13,7 @@ No esta limitado solo al interior del juego, también se usa en otros lugares co
 
 ### Usando el comando !report en el juego
 
-Uso: `´!report usuario [razón]`
+Uso: `!report usuario [razón]`
 
 Los parámetros dentro de **[** y **]** son opcionales.
 
