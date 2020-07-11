@@ -1626,6 +1626,10 @@ Notes:
 
 ![](img/ranking-C.png)
 
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | (Varies) | 34x40 |
+
 Notes:
 
 - Positioning varies:
@@ -1655,6 +1659,10 @@ Notes:
 `ranking-D.png`
 
 ![](img/ranking-D.png)
+
+| Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| All | ![No][false] | ![Yes][true] | Normal | (Varies) | 34x40 |
 
 Notes:
 
@@ -2234,7 +2242,7 @@ Notes:
 
 Notes:
 
-- Hover over `selection-mods.png` to see.
+- Hover over `selection-random.png` to see.
 - In v1.0, positioning is 87px away from the bottom.
 
 ---
