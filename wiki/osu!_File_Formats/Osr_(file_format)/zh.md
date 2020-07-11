@@ -39,7 +39,7 @@
 | Integer | 压缩后的回放数据的长度（用 byte 表示）（原文：Length in bytes of compressed replay data） |
 | Byte 数组 | 压缩后的回放数据 |
 
-剩余的数据包括在一个 wikipedia:LZMA 流里的鼠标移动与按键的信息。
+剩余的数据包括在一个 [LZMA](https://zh.wikipedia.org/wiki/LZMA) 流里的鼠标移动与按键的信息。
 
 解压缩之后，文本包括一些用逗号分隔的数据。每一块数据反映了一个动作，表现在下面的表格里的4个数字： `w | x | y | z.`
 
