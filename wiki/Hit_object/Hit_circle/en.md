@@ -1,6 +1,7 @@
 ---
+stub: true
 tags:
-- hit objects
+  - hit objects
 ---
 
 # Hit circle
@@ -12,5 +13,5 @@ In osu!standard, hit circles appear with a number on top; showing their place in
 In osu!taiko, hit circles appear from right-to-left as either red or blue notes (Don or Katu). As hit circles approach and line up with the white judgement circle the correct key(s) must be pressed to gain score.
 
 <!-- TODO: Include Skinnable Property-->
-<!-- This is a stub-->
+
 <!-- TODO: Add links and images-->
