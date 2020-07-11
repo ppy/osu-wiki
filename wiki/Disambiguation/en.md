@@ -8,3 +8,4 @@ Disambiguation in the osu! wiki is the process of resolving conflicts that arise
 - [Easy](Easy)
 - [EZ](EZ)
 - [Mod](Mod)
+- [Rank](Rank)
