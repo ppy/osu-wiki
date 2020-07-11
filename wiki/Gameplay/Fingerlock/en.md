@@ -4,6 +4,7 @@ tags:
   - wrist lock
   - finger-lock
   - finger lock
+---
 
 # Fingerlock
 
