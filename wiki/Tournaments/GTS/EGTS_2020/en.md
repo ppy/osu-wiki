@@ -273,6 +273,21 @@ The Expert Global Taiko Showdown 2020 is run by various community members.
 
 ## Match results
 
+### Finals
+
+Saturday, 11 July 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| Ulqui ![][flag_CL] | 1 | **7** | ![][flag_JP] **uone** | [#1](https://osu.ppy.sh/community/matches/63951594) |
+| nananass ![][flag_JP] | 1 | **7** | ![][flag_CA] **janitore** | [#1](https://osu.ppy.sh/community/matches/63952919) |
+
+Sunday, 12 July 2020:
+
+| Player 1 |  |  | Player 2 | Match link |
+| --: | :-: | :-: | :-- | :-- |
+| nananass ![][flag_JP] | 1 | **7** | ![][flag_JP] **uone** | [#1](https://osu.ppy.sh/community/matches/64003514) |
+
 ### Semifinals
 
 Saturday, 4 July 2020:
