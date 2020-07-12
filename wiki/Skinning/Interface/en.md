@@ -1624,7 +1624,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | (Varies) | 34x40 |
+| All | ![No][false] | ![No][false] | Normal | Centre | - |
 
 Notes:
 
@@ -1658,7 +1658,7 @@ Notes:
 
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| All | ![No][false] | ![Yes][true] | Normal | (Varies) | 34x40 |
+| All | ![No][false] | ![No][false] | Normal | Centre | - |
 
 Notes:
 
