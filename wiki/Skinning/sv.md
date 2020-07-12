@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Skinning
 
 Skinning är en av de viktigaste funktionerna i osu!. Det gör det möjligt för spelare att använda, byta ut och modifiera de ursprungliga skinelementen för att ändra spelets utseende! Skin kan variera från att vara för skojs skull, olika teman, för proffs eller för att helt enkelt vara nästan omöjliga att spela med.
