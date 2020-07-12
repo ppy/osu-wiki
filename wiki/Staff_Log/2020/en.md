@@ -288,5 +288,6 @@ Abbreviations for user groups are used throughout this log:
 - 2020-07-07: Moved [davidminh0111](https://osu.ppy.sh/users/9623142) from **Probationary BN** to **BN**
 - 2020-07-08: Moved [Trynna](https://osu.ppy.sh/users/2652951) from **Probationary BN** to **BN**
 - 2020-07-08: Moved [Okoratu](https://osu.ppy.sh/users/1623405) from **Probationary BN** to **BN**
+- 2020-07-09: Moved [JBHyperion](https://osu.ppy.sh/users/4879508) from **Probationary BN** to **BN**
 
-<!-- last update: 2020-07-09 5 UTC added lenpai to probationary bn -->
+<!-- last update: 2020-07-09 10 UTC moved jbhyperion to bn -->
