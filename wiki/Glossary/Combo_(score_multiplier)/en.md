@@ -1,9 +1,10 @@
 ---
+stub: true
 tags:
   - max combo
 ---
 
-# Combo (Score multiplier)
+# Combo (score multiplier)
 
 *Not to be confused with [Combo (comboset)](/wiki/Beatmapping/Combo).*
 
@@ -15,7 +16,5 @@ tags:
 - Centre of the stage in [osu!mania](/wiki/Game_Modes/osu!mania) (vertical height varies by skin).
 
 *Max combo* is the player's highest achieved combo throughout the play.
-
-<!-- This is a stub -->
 
 <!--TODO: Add images and links-->

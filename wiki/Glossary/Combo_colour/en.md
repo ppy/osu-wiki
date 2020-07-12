@@ -1,4 +1,5 @@
 ---
+stub: true
 tags:
   - colours
   - NC
@@ -19,7 +20,5 @@ In [osu!standard](/wiki/Game_Modes/osu!), all [combosets](/wiki/Beatmapping/Comb
 ## osu!catch
 
 In [osu!catch](/wiki/Game_Modes/osu!catch), each fruit is coloured in the order given. Droplets and end-slider fruit will always have the same colour as the start-fruit. However, bananas will always have a tint of yellow.
-
-<!-- This is a stub -->
 
 <!--TODO: Add images and links-->
