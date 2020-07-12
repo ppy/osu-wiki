@@ -290,8 +290,8 @@ Sunday, 5 July 2020:
 
 | Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
-| **Press 3 Fs to pay respects** | **8** | 1 | Em1ruBigDumb | [#1](https://osu.ppy.sh/community/matches/63735581) |
 | Tim Ayam | 2 | **8** | **Em1ruBigDumb** | [#1](https://osu.ppy.sh/community/matches/63732636) |
+| **Press 3 Fs to pay respects** | **8** | 1 | Em1ruBigDumb | [#1](https://osu.ppy.sh/community/matches/63735581) |
 
 ### Semifinals
 
