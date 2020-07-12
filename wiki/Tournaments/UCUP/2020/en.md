@@ -8,7 +8,7 @@ tags:
 
 ![UCUP 2020 logo](img/logo.jpg)
 
-The **Ulat Bulu Cup 2020** (***UCUP 2020***) is an Indonesian double-elimination 2v2 osu! tournament hosted by ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773). The tournament is restricted to Bahasa Indonesia-speaking players only. This is the third installment of the Ulat Bulu Cup.
+The **Ulat Bulu Cup 2020** (***UCUP 2020***) was an Indonesian double-elimination 2v2 osu! tournament hosted by ![][flag_ID] [PatrickFPSGamer](https://osu.ppy.sh/users/4796773). The tournament was restricted to Bahasa Indonesia-speaking players only. This was the third installment of the Ulat Bulu Cup.
 
 ## Tournament schedule
 
@@ -23,7 +23,7 @@ The **Ulat Bulu Cup 2020** (***UCUP 2020***) is an Indonesian double-elimination
 
 ## Prizes
 
-| Placing | Prizes |
+| Placing | Prize |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 
@@ -31,7 +31,7 @@ The **Ulat Bulu Cup 2020** (***UCUP 2020***) is an Indonesian double-elimination
 
 ## Organisation
 
-The Ulat Bulu Cup 2020 is run by various community members.
+The Ulat Bulu Cup 2020 was run by various community members.
 
 | Position | Member(s) |
 | :-- | :-- |
@@ -84,24 +84,6 @@ The Ulat Bulu Cup 2020 is run by various community members.
 | **B** | retards united | Sumippe's Simp | pemain\_osu2020 | DARAWET ANJENG | SotarksNoJutsu |
 | **C** | Tim Ayam | (; ･`д･´) | Press 3 Fs to pay respects | Hulat | host toxic ccd |
 | **D** | terserah | Kowok Gamers | WHOMEGALUL | AutisNgopi4Hed | ABC Team |
-
-## Match schedule: Grand Finals
-
-Saturday, 11 July 2020:
-
-| Match ID | Team 1 | Team 2 | Match time (UTC+7) |
-| :-: | --: | :-- | :-- |
-| LF | terserah | Em1ruBigDumb | **19:00** |
-
-Sunday, 12 July 2020:
-
-| Match ID | Team 1 | Team 2 | Match time (UTC+7) |
-| :-: | --: | :-- | :-- |
-| GF1¹ | awan fanclub | Winner of LF | **19:00** |
-| GF2² | Winner of LF | awan fanclub |  |
-
-¹ Encounter dependent on winner of Match LF\
-² Match will take place right after Match GF1 and if Team 2 wins Match GF1
 
 ## Mappools
 
