@@ -29,6 +29,8 @@ The **Hidden Only Tournament** (***HOT***) was a worldwide double-elimination 2v
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
 | ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 1 month of osu!supporter tag for each team member |
 
+![](img/badge.jpg "HOT winner badge")
+
 ## Organisation
 
 The Hidden Only Tournament was run by various community members.
