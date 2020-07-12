@@ -584,7 +584,6 @@ Notes:
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | All | ![Yes][true] | ![Yes][true] | Multiplicative | Bottom Right | - |
 
-
 Notes:
 
 - Animation name: `play-skip-{n}.png`
@@ -753,7 +752,6 @@ Notes:
 | 1.0 | ![No][false] | ![Yes][true] | Normal | Left | - |
 | 2.0+ | ![No][false] | ![Yes][true] | Normal | Centre | - |
 
-
 Notes:
 
 - This should either say "3" or "1".
@@ -767,7 +765,6 @@ Notes:
 | Versions | Animatable | Beatmap Skinnable | Blend Mode | Origin | Suggested SD Size |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | All | ![No][false] | ![Yes][true] | Normal | Centre | - |
-
 
 Notes:
 
@@ -1450,7 +1447,6 @@ Notes:
   - User scores: Centre
 
 ---
-
 
 `ranking-X.png`
 

@@ -475,6 +475,7 @@ Notes:
 Notes:
 
 - Cliquer sur l'icône du mod Sudden Death pour voir cette icône.
+
 ---
 
 `selection-mod-random.png`
@@ -488,6 +489,7 @@ Notes:
 Notes:
 
 - Cet élément est spécifique à [osu!mania](/wiki/osu!mania).
+
 ---
 
 `selection-mod-relax.png`
@@ -581,7 +583,6 @@ Notes:
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Toutes | ![Oui][true] | ![Oui][true] | Produit | Coin Inférieur Droit | - |
-
 
 Notes:
 
@@ -751,7 +752,6 @@ Notes:
 | 1.0 | ![Non][false] | ![Oui][true] | Normal | Gauche | - |
 | 2.0+ | ![Non][false] | ![Oui][true] | Normal | Centre | - |
 
-
 Notes:
 
 - Devrait indiquer soit "3", soit "1".
@@ -765,7 +765,6 @@ Notes:
 | Versions | Animable | Skin de Beatmap ? | Mode de fusion | Origine | Taille SD suggérée |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | Toutes | ![Non][false] | ![Oui][true] | Normal | Centre | - |
-
 
 Notes:
 
@@ -1448,7 +1447,6 @@ Notes:
   - Scores : Centre
 
 ---
-
 
 `ranking-X.png`
 
