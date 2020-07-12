@@ -4,7 +4,7 @@
 
 ## Locales
 
-Listed below are the properly-supported locales for the wiki.
+Listed below are the properly-supported locales for the osu! wiki:
 
 | File Name | Locale Name | Native Script |
 | :-- | :-- | :-- |
@@ -42,7 +42,7 @@ Listed below are the properly-supported locales for the wiki.
 
 *Note: The website will give readers their selected language's version of an article. If it is not available, the English version will be given.*
 
-If your language is not listed above, you can add `?locale={langcode}` to the URL (for example `https://osu.ppy.sh/help/wiki/Welcome?locale=zh`). You can also help translate the [osu-web via Crowdin](https://crowdin.com/project/osu-web). If you need help with translating or want to discuss translating decisions, discuss in the [osu!dev Discord](https://discord.gg/ppy) (`#osu-web` channel).
+If a language is not listed above, append `?locale={langcode}` to the URL (e.g. `https://osu.ppy.sh/help/wiki/Welcome?locale=zh`). You can also help translate the [osu-web via Crowdin](https://crowdin.com/project/osu-web). If you need help with translating or want to discuss translating decisions, discuss in the [osu!dev Discord](https://discord.gg/ppy) (`#osu-web` channel).
 
 ### Content parity
 
@@ -61,37 +61,35 @@ Front matter must be placed at the very top of the file. It is written in [YAML]
 
 ### Articles that need help
 
-The `needs_cleanup` tag may be added to articles that need rewriting or formatting help. It is also acceptable to open an issue on GitHub for this purpose.
-
-*Notice to translators: English articles with this tag should be avoided. This tag applies when the translation needs its own clean up and must not be blindly copied over from the English article.*
-
-For example:
+The `needs_cleanup` tag may be added to articles that need rewriting or formatting help. It is also acceptable to open an issue on GitHub for this purpose. This tag must be written as shown below:
 
 ```yaml
 needs_cleanup: true
 ```
 
-When marking articles with this, [comments](#comments) should accompany this to explain what needs to be cleaned.
+When adding this tag to an article, [comments](#comments) should also be added to explain what needs to be done to remove the tag.
+
+*Notice to translators: Avoid translating English articles with this tag. In addition to this, this tag should be added when the translation needs its own clean up.*
 
 ### Outdated articles
 
 *Notice to translators: Avoid translating English articles with this tag.*
 
-Translated articles that are outdated must use the `outdated` mark when the English variant is updated. English articles may also become outdated when the content they contain is misleading or no longer relevant. For example:
+Translated articles that are outdated must use the `outdated` tag when the English variant is updated. English articles may also become outdated when the content they contain is misleading or no longer relevant. This tag must be written as shown below:
 
 ```yaml
 outdated: true
 ```
 
-*Note: If the English article has this tag, all translations must have this tag as well.*
+*Notice to translators: If the English article has this tag, the translation must also have this tag.*
 
-When marking articles with this, [comments](#comments) should accompany this to explain what content is outdated.
+When adding this tag to an article, [comments](#comments) should also be added to explain what needs to be updated to remove the tag.
 
 ### Tagging articles
 
-Tags help the website's search engine query articles better. Tags should be written in the same language as the article and include the English's list of tags, and prefer lowercase letters where applicable.
+Tags help the website's search engine query articles better. Tags should be written in the same language as the article and include the English's list of tags. Tags should use lowercase letters where applicable.
 
-For example, an article called "Skinning tutorial" might include these tags:
+For example, an article called "Skinning tutorial" might include the following tags:
 
 ```yaml
 tags:
@@ -102,7 +100,7 @@ tags:
 
 ### Translations without reviews
 
-Sometimes, translations are added to the wiki without review from other native speakers of the language. In this case, the `no_native_review` mark is added to let future translators know that it may need to be checked again. For example:
+Sometimes, translations are added to the wiki without review from other native speakers of the language. In this case, the `no_native_review` mark is added to let future translators know that it may need to be checked again. This tag must be written as shown below:
 
 ```yaml
 no_native_review: true
@@ -116,10 +114,11 @@ no_native_review: true
 
 Article titles should be singular and use sentence case. See [Wikipedia's naming conventions article](https://en.wikipedia.org/wiki/Wikipedia:Naming_conventions_(plurals) "Wikipedia") for more details.
 
-Article titles should match the folder name it is in (spaces may replace underscores (`_`) where appropriate). If the folder name changes, the article title should be changed to match it and vice versa. Listed below are some exceptions to this:
+Article titles should match the folder name it is in (spaces may replace underscores (`_`) where appropriate). If the folder name changes, the article title should be changed to match it and vice versa.
 
-- Contest articles (must use abbreviations, acronyms, or initialisms)
-- Tournament articles (must use abbreviations, acronyms, or initialisms)
+---
+
+Contest and tournament articles are an exception. The folder name in this case must use abbreviations, acronyms, or initialisms. The article's title must be the full name of the contest or tournament.
 
 ## Folder and file structure
 
@@ -143,7 +142,7 @@ The file name of an article can be found in the `File Name` column of the [local
 
 ### Index articles
 
-An index article must be created if the folder is intended to only hold other articles. Index articles must contain a list articles that are inside its own folder. They may also contain other information such as a lead paragraph or descriptions of the linked articles.
+An index article must be created if the folder is intended to only hold other articles. Index articles must contain a list articles that are inside its own folder. They may also contain other information, such as a lead paragraph or descriptions of the linked articles.
 
 ### Disambiguation articles
 
@@ -153,7 +152,7 @@ Redirects must be updated to have the ambiguous keyword(s) redirect to the disam
 
 ## HTML
 
-HTML must not be used, with an exception for [comments](#comments). The structure of the article must be redone if HTML is used.
+HTML must not be used, with exception for [comments](#comments). The structure of the article must be redone if HTML is used.
 
 ### Comments
 
@@ -181,7 +180,7 @@ Markdown files must be checked in using the `LF` end of line sequence.
 
 ### Escaping
 
-*Caution: Titles are parsed as plain text. They must not be escaped.*
+*Caution: Titles are parsed as plain text and must not be escaped.*
 
 Escaping Markdown syntax should be used when needed.
 
@@ -195,7 +194,7 @@ Each paragraph must be followed by one empty line.
 
 Hatnotes are short notes placed at the top of an article or section to help readers navigate to related articles or inform them about related topics.
 
-Hatnotes must be italised and be placed immediately after the heading. If multiple hatnotes are used, they must be on separate lines, spaced out with an empty line.
+Hatnotes must be italicised and be placed immediately after the heading. If multiple hatnotes are used, they must be on separate lines, spaced out with an empty line.
 
 ### Main page
 
@@ -378,16 +377,16 @@ Section headings must not skip a heading level (i.e. do not go from a level 2 he
 
 Lists should not go over 4 levels of indentation and should not have an empty line in between each item.
 
-For nested lists, make sure that the bullets or numbers align with the item content of their parent lists.
+For nested lists, bullets or numbers must align with the item content of their parent lists.
 
-Bad example:
+The following example was done incorrectly (take note of the spacing before the bullet):
 
 ```markdown
 1. Fly a kite
   - Don't fly a kite if it's raining
 ```
 
-Good example:
+The following example was done correctly:
 
 ```markdown
 1. Fly a kite
@@ -396,7 +395,7 @@ Good example:
 
 ### Bulleted
 
-Bulleted lists must use hyphens (`-`). These must then be followed by one space. For example:
+Bulleted lists must use a hyphen (`-`). These must then be followed by one space. (Example shown below.)
 
 ```markdown
 - osu!standard
@@ -439,7 +438,7 @@ Combining both bulleted and numbered lists should be done sparingly.
 
 ## Code
 
-The markup for code is a grave mark (`` ` ``). To put grave marks in code, use double grave marks instead. If the grave mark is at the start or end, pad it with 1 space. For example:
+The markup for code is a grave mark (`` ` ``). To put grave marks in code, use double grave marks instead. If the grave mark is at the start or end, pad it with one space. (Example shown below.)
 
 ```markdown
 `` ` ``
@@ -450,7 +449,7 @@ The markup for code is a grave mark (`` ` ``). To put grave marks in code, use d
 
 *Notice: When denoting the letter itself, and not the keyboard key, use quotation marks instead.*
 
-When representing keyboard keys, use capital letters for single characters and title case for modifiers. Use the plus symbol (`+`) (without code) to represent key combinations. For example:
+When representing keyboard keys, use capital letters for single characters and title case for modifiers. Use the plus symbol (`+`) (without code) to represent key combinations. (Example shown below.)
 
 ```markdown
 pippi is spelt with a lowercase "p" like peppy.
@@ -462,7 +461,7 @@ When representing a space or the spacebar, use `` `Space` ``.
 
 ### Button and menu text
 
-When copying the text from a menu or button, the letter casing should be copied as it appears. For example:
+When copying the text from a menu or button, the letter casing should be copied as it appears. (Example shown below.)
 
 ```markdown
 The `osu!direct` button is visible in the main menu on the right side, if you have an active osu!supporter tag.
@@ -470,7 +469,7 @@ The `osu!direct` button is visible in the main menu on the right side, if you ha
 
 ### Folder and directory names
 
-When copying the name of a folder or directory, the letter casing should be copied as it appears, but prefer lowercased paths when possible. Directory paths must not be absolute (i.e. do not start the directory name from the drive letter or from the root folder). For example:
+When copying the name of a folder or directory, the letter casing should be copied as it appears, but prefer lowercased paths when possible. Directory paths must not be absolute (i.e. do not start the directory name from the drive letter or from the root folder). (Example shown below.)
 
 ```markdown
 osu! is installed in the `AppData/Local` folder by default, unless specified otherwise during installation.
@@ -478,7 +477,7 @@ osu! is installed in the `AppData/Local` folder by default, unless specified oth
 
 ### Keywords and commands
 
-When copying a keyword or command, the letter casing should be copied as it appears or as someone normally would type it as (prefer lowercase if applicable). For example:
+When copying a keyword or command, the letter casing should be copied as it appears or as someone normally would type it as (prefer lowercase if applicable). (Example shown below.)
 
 ```markdown
 As of now, the `Name` and `Author` commands in the skin configuration file (`skin.ini`) does nothing.
@@ -486,7 +485,7 @@ As of now, the `Name` and `Author` commands in the skin configuration file (`ski
 
 ### File names
 
-When copying the name of a file, the letter casing should be copied as it appears.
+When copying the name of a file, the letter casing should be copied as it appears. (Example shown below.)
 
 ```markdown
 To play osu!, double click the `osu!.exe` icon.
@@ -496,7 +495,7 @@ To play osu!, double click the `osu!.exe` icon.
 
 *Notice: File formats (not to be confused with file extensions) must be written in capital letters without the prefixed fullstop (`.`).*
 
-File extensions must be prefixed with a fullstop (`.`) and be followed by the file extension in lowercase letters. For example:
+File extensions must be prefixed with a fullstop (`.`) and be followed by the file extension in lowercase letters. (Example shown below.)
 
 ```markdown
 The JPG (or JPEG) file format has the `.jpg` (or `.jpeg`) extension.
@@ -504,7 +503,7 @@ The JPG (or JPEG) file format has the `.jpg` (or `.jpeg`) extension.
 
 ### Chat channels
 
-When copying the name of a chat channel, start it with a hash (`#`), followed by the channel name in lowercase letters. For example:
+When copying the name of a chat channel, start it with a hash (`#`), followed by the channel name in lowercase letters. (Example shown below.)
 
 ```markdown
 `#lobby` is where you can advertise your multi room.
@@ -518,9 +517,9 @@ Preformatted text (also known as code blocks) must be fenced using three grave m
 
 ## Links
 
-There are two types of links: inline and reference. Inline has two styles. Examples:
+There are two types of links: inline and reference. Inline has two styles.
 
-**Inline style:**
+The following is an example of both inline styles:
 
 ```markdown
 [Game Modifiers](/wiki/Game_Modifiers)
@@ -528,7 +527,7 @@ There are two types of links: inline and reference. Inline has two styles. Examp
 <https://osu.ppy.sh/home>
 ```
 
-**Reference style:**
+The following is an example of the reference style:
 
 ```markdown
 [Game Modifiers][game mods link]
@@ -544,7 +543,7 @@ Links must use the inline style if they are only referenced once. The inline ang
 
 #### Wiki links
 
-All links that point to an wiki article should start with `/wiki/` followed by the path to get to the article you are targeting. Relative links may also be used. Some examples include:
+All links that point to an wiki article should start with `/wiki/` followed by the path to get to the article you are targeting. Relative links may also be used. Some examples include the following:
 
 ```markdown
 [FAQ](/wiki/FAQ)
@@ -559,14 +558,14 @@ Wiki links must not use redirects.
 
 Wiki links must not use a trailing forward slash (`/`).
 
-Bad examples:
+Bad examples include the following:
 
 ```markdown
 [Developers](/wiki/Developers/)
 [Developers](/wiki/Developers/#game-client-developers)
 ```
 
-Good examples:
+Good examples include the following:
 
 ```markdown
 [Developers](/wiki/Developers)
