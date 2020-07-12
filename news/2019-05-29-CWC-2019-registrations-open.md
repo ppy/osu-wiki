@@ -34,9 +34,9 @@ You can discuss this event and follow the most important changes in the **[offic
 
 ## How do I register?
 
-+ **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/20)**
-+ Do not create teams in advance! Teams will be formed by the country's team captain after the registration phase has concluded.
-+ Ensure you submit your registration before the **11th of June**!
+- **[Click here to sign-up!](https://osu.ppy.sh/community/tournaments/20)**
+- Do not create teams in advance! Teams will be formed by the country's team captain after the registration phase has concluded.
+- Ensure you submit your registration before the **11th of June**!
 
 Please note - you may only participate if your **osu!catch global ranking is #5000 or higher, and have not violated the [osu! community rules](/wiki/Rules) in the past 12 months**.
 

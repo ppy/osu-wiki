@@ -10,34 +10,34 @@ The **Osu!mania World Cup 2014** (***MWC 2014*** ) est un tournoi d'Osu!mania or
 
 ## Calendrier
 
-| Event                   | Timestamp          |
+| Event | Timestamp |
 | :-- | :-- |
 | Inscription des équipes | 1-20 Juilletl 2014 |
-| Tirages aux sorts       | 2 Août 2014        |
-| Phase de poules (4K)    | 9-10 Août 2014     |
-| Phase de poules (7K)    | 16-17 Août 2014    |
-| Huitièmes de finale     | 23-24 Août 2014    |
-| Quarts de finale        | 31 Août            |
-| Demi-finales            | 7 Septembre 2014   |
-| Finale et petite finale | 14 Septembre 2014  |
+| Tirages aux sorts | 2 Août 2014 |
+| Phase de poules (4K) | 9-10 Août 2014 |
+| Phase de poules (7K) | 16-17 Août 2014 |
+| Huitièmes de finale | 23-24 Août 2014 |
+| Quarts de finale | 31 Août |
+| Demi-finales | 7 Septembre 2014 |
+| Finale et petite finale | 14 Septembre 2014 |
 
 ## Prix
 
-| Placing                                                    | Prize(s)                                                                                                                    |
+| Placing | Prize(s) |
 | :-- | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | Statut de supporter pendant 6 mois, un badge sur le profil, produits dérivés d'osu!, titre personalisé "osu!mania champion" |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Statut de supporter pendant 3 mois                                                                                          |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Statut de supporter pendant 1 mois                                                                                          |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Statut de supporter pendant 6 mois, un badge sur le profil, produits dérivés d'osu!, titre personalisé "osu!mania champion" |
+| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | Statut de supporter pendant 3 mois |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | Statut de supporter pendant 1 mois |
 
 ## Organisation
 
-| Job                       | Person(s)                                                                                                                                                                                                                                                                                                                                     |
+| Job | Person(s) |
 | :-- | :-- |
-| Direction                 | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565)                                                                                                                                                  |
-| Séléction des beatmaps    | ![][flag_RU] [\[Shi-Ra\]](https://osu.ppy.sh/users/2008489) // ![][flag_CL] [Agka](https://osu.ppy.sh/users/64811)                                                                                                                                                                                                            |
-| Retransmission des matchs | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257)                                                                                                                                                 |
-| Commentaires              | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) // ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_IT] [Roxas](https://osu.ppy.sh/users/1041833) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) // ![][flag_RU] [\[Shi-Ra\]](https://osu.ppy.sh/users/2008489) |
-| Statistiques              | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665)                                                                                                                                                                                                                                                                                |
+| Direction | ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366) // ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) // ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565) |
+| Séléction des beatmaps | ![][flag_RU] [\[Shi-Ra\]](https://osu.ppy.sh/users/2008489) // ![][flag_CL] [Agka](https://osu.ppy.sh/users/64811) |
+| Retransmission des matchs | ![][flag_AU] [peppy](https://osu.ppy.sh/users/2) // ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) // ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
+| Commentaires | ![][flag_US] [Charles445](https://osu.ppy.sh/users/85000) // ![][flag_FR] [Mr Color](https://osu.ppy.sh/users/116078) // ![][flag_IT] [Roxas](https://osu.ppy.sh/users/1041833) // ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) // ![][flag_RU] [\[Shi-Ra\]](https://osu.ppy.sh/users/2008489) |
+| Statistiques | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
 
 ------------------------------------------------------------------------
 

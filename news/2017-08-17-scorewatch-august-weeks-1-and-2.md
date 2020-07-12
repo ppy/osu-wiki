@@ -46,7 +46,7 @@ We may not be able to keep up with what [jehlp](https://osu.ppy.sh/users/7568542
 
 Don't underestimate this play! [ThePooN](https://osu.ppy.sh/users/718454) has just set a crazy 98.48% 13x miss 1797 combo score on the hardest 8.03* difficulty of [And Aoiyuuki - I love Flezlin](https://osu.ppy.sh/beatmapsets/525461). Note that this map has big jumps (and not only) throughout the whole map!
 
-<iframe width="100%" height="315" src="https://player.twitch.tv/?video=v165036056&autoplay=false" frameborder="0" allowfullscreen></iframe></br>
+<iframe width="100%" height="315" src="https://player.twitch.tv/?video=v165036056&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen></iframe></br>
 
 ## SCORESHOW WITH ZSEIKIMATSU
 

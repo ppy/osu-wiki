@@ -27,7 +27,7 @@ IRC主機 (Chat Server) - BanchoBot [osu! 聊天服務器](/wiki/Internet_Relay_
 | STATS (user) | 指出玩家的統計數據(根據目前的統計數據) | !stats John | Stats for John is Idle. Score:00 (#0). Plays:2 (lvl 4). Accuracy:0.00%. |
 | FAQ (L.code)(item) (list) | 各種用途 \[list\] 可用命令列表 | !faq wiki / !faq ru:wiki | The osu! Wiki - Make it awesome! / Примите участие в заполнении вики! |
 | REPORT (reason) | 呼喚管理員 | !report Thomas offending comments | Chat moderators has been alerted. Thanks for your help. |
-| REQUEST (list) | 顯示一個隨機MOD的要求。  \[list\] Shows 5 random recent mod request | !request | Seether - Fake It by \[Dellirium\] |
+| REQUEST (list) | 顯示一個隨機MOD的要求。 \[list\] Shows 5 random recent mod request | !request | Seether - Fake It by \[Dellirium\] |
 | ROLL (number) | 隨機得到數字從1到(編號) （默認100） | !roll 9000 | John rolls 1337 point(s) |
 
 ## 其他ID

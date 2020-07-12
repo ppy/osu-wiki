@@ -16,18 +16,18 @@ tags:
 
 | Event | Timestamp |
 | --: | :-- |
-| Registration Phase   | 2018-01-19/2018-02-09 |
-| Qualifiers           | 2018-02-17/2018-02-18 |
-| Playoffs - Week 1    | 2018-02-24/2018-02-25 |
-| Playoffs - Week 2    | 2018-03-03/2018-03-04 |
+| Registration Phase | 2018-01-19/2018-02-09 |
+| Qualifiers | 2018-02-17/2018-02-18 |
+| Playoffs - Week 1 | 2018-02-24/2018-02-25 |
+| Playoffs - Week 2 | 2018-03-03/2018-03-04 |
 | Group Stage - Week 1 | 2018-03-10/2018-03-11 |
 | Group Stage - Week 2 | 2018-03-17/2018-03-18 |
-| Round of 32          | 2018-03-24/2018-03-25 |
-| Round of 16          | 2018-03-31/2018-04-01 |
-| Quarterfinals        | 2018-04-07/2018-04-08 |
-| Semifinals           | 2018-04-14/2018-04-15 |
-| Finals               | 2018-04-21/2018-04-22 |
-| Grand Finals         | 2018-04-28/2018-04-29 |
+| Round of 32 | 2018-03-24/2018-03-25 |
+| Round of 16 | 2018-03-31/2018-04-01 |
+| Quarterfinals | 2018-04-07/2018-04-08 |
+| Semifinals | 2018-04-14/2018-04-15 |
+| Finals | 2018-04-21/2018-04-22 |
+| Grand Finals | 2018-04-28/2018-04-29 |
 
 ## Prizes
 
@@ -73,22 +73,22 @@ tags:
 
 | Group | Top | High | Low | Bottom |
 | :-: | :-- | :-- | :-- | :-- |
-| **A** | ![][flag_CA] Dawt         | ![][flag_US] RemiFlan       | ![][flag_PH] SurfChu85       | ![][flag_FR] Tantei B       |
-| **B** | ![][flag_GB] Pipper       | ![][flag_GB] Pope Gadget    | ![][flag_SG] Polytetral      | ![][flag_BR] SillyFangirl   |
-| **C** | ![][flag_MY] Minisora     | ![][flag_BE] yetified       | ![][flag_PH] joseee-         | ![][flag_ID] Lafreniere     |
-| **D** | ![][flag_PL] Tidek        | ![][flag_US] Chrubble       | ![][flag_FI] Camopoltergeist | ![][flag_FR] Adri           |
-| **E** | ![][flag_BR] Lothus       | ![][flag_US] HeZeus         | ![][flag_CA] CommandoBlack   | ![][flag_FR] Koiidex        |
-| **F** | ![][flag_ES] aitor98      | ![][flag_CL] WalterToro     | ![][flag_CN] pikechu         | ![][flag_FI] -Oreo-         |
-| **G** | ![][flag_SE] \[ Vento \]  | ![][flag_CL] Rythze         | ![][flag_SG] Raveille        | ![][flag_AU] PotassiumF     |
-| **H** | ![][flag_BR] andreymc     | ![][flag_US] DJKhaled       | ![][flag_TH] - \[ Yuki \] -  | ![][flag_MY] \[Xiiao\]Ray   |
-| **I** | ![][flag_ID] RemFangirl   | ![][flag_FR] Elementaires   | ![][flag_US] Neuro-          | ![][flag_AU] -Xenovia-      |
-| **J** | ![][flag_FR] Azubeur      | ![][flag_PH] MapleSyrup-    | ![][flag_PL] Arkitev         | ![][flag_DK] tailsdk        |
-| **K** | ![][flag_SE] Couil        | ![][flag_CA] Panshow        | ![][flag_US] dhn             | ![][flag_PL] Cyan\_Star     |
-| **L** | ![][flag_MX] \_Mytros\_   | ![][flag_GB] Traps Are Cute | ![][flag_CN] \[Crz\]ScSolAr  | ![][flag_PL] Miq            |
-| **M** | ![][flag_JP] inteliser    | ![][flag_PL] \_underjoy     | ![][flag_JP] AMDuskia1996    | ![][flag_PL] Moskas         |
-| **N** | ![][flag_US] TheToaphster | ![][flag_RU] Mage           | ![][flag_AU] Lusty Platypus  | ![][flag_ID] lombit         |
-| **O** | ![][flag_PL] SitekX       | ![][flag_BE] NightNarumi    | ![][flag_US] 2dw             | ![][flag_AU] AngeLItchysick |
-| **P** | ![][flag_US] -Electro-    | ![][flag_JP] 3KO3           | ![][flag_TH] floodlord       | ![][flag_CA] arpia97        |
+| **A** | ![][flag_CA] Dawt | ![][flag_US] RemiFlan | ![][flag_PH] SurfChu85 | ![][flag_FR] Tantei B |
+| **B** | ![][flag_GB] Pipper | ![][flag_GB] Pope Gadget | ![][flag_SG] Polytetral | ![][flag_BR] SillyFangirl |
+| **C** | ![][flag_MY] Minisora | ![][flag_BE] yetified | ![][flag_PH] joseee- | ![][flag_ID] Lafreniere |
+| **D** | ![][flag_PL] Tidek | ![][flag_US] Chrubble | ![][flag_FI] Camopoltergeist | ![][flag_FR] Adri |
+| **E** | ![][flag_BR] Lothus | ![][flag_US] HeZeus | ![][flag_CA] CommandoBlack | ![][flag_FR] Koiidex |
+| **F** | ![][flag_ES] aitor98 | ![][flag_CL] WalterToro | ![][flag_CN] pikechu | ![][flag_FI] -Oreo- |
+| **G** | ![][flag_SE] \[ Vento \] | ![][flag_CL] Rythze | ![][flag_SG] Raveille | ![][flag_AU] PotassiumF |
+| **H** | ![][flag_BR] andreymc | ![][flag_US] DJKhaled | ![][flag_TH] - \[ Yuki \] - | ![][flag_MY] \[Xiiao\]Ray |
+| **I** | ![][flag_ID] RemFangirl | ![][flag_FR] Elementaires | ![][flag_US] Neuro- | ![][flag_AU] -Xenovia- |
+| **J** | ![][flag_FR] Azubeur | ![][flag_PH] MapleSyrup- | ![][flag_PL] Arkitev | ![][flag_DK] tailsdk |
+| **K** | ![][flag_SE] Couil | ![][flag_CA] Panshow | ![][flag_US] dhn | ![][flag_PL] Cyan\_Star |
+| **L** | ![][flag_MX] \_Mytros\_ | ![][flag_GB] Traps Are Cute | ![][flag_CN] \[Crz\]ScSolAr | ![][flag_PL] Miq |
+| **M** | ![][flag_JP] inteliser | ![][flag_PL] \_underjoy | ![][flag_JP] AMDuskia1996 | ![][flag_PL] Moskas |
+| **N** | ![][flag_US] TheToaphster | ![][flag_RU] Mage | ![][flag_AU] Lusty Platypus | ![][flag_ID] lombit |
+| **O** | ![][flag_PL] SitekX | ![][flag_BE] NightNarumi | ![][flag_US] 2dw | ![][flag_AU] AngeLItchysick |
+| **P** | ![][flag_US] -Electro- | ![][flag_JP] 3KO3 | ![][flag_TH] floodlord | ![][flag_CA] arpia97 |
 
 ---------------------------
 
@@ -98,9 +98,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Placing | User |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place")   | ![][flag_BR] [**Lothus**](https://osu.ppy.sh/users/9530019) |
+| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_BR] [**Lothus**](https://osu.ppy.sh/users/9530019) |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_JP] [**inteliser**](https://osu.ppy.sh/users/1824775) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [**TheToaphster**](https://osu.ppy.sh/users/7616811)    |
+| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_US] [**TheToaphster**](https://osu.ppy.sh/users/7616811) |
 
 ---------------------------
 
@@ -282,328 +282,328 @@ This competition has come to an end and resulted in the following podium:
 
 Detailed results of the Grand Finals stage can be found [here](https://goo.gl/wvJcRV).
 
-| Saturday, 2018-04-28 | | | | |
+| Saturday, 2018-04-28 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
 | **Lothus** ![][flag_BR] | **7** | 1 | ![][flag_US] TheToaphster |
 
-| Sunday, 2018-04-29 | | | | |
+| Sunday, 2018-04-29 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| inteliser ![][flag_JP]  | 3 | **7** | ![][flag_BR] **Lothus** | |
-| **Lothus** ![][flag_BR] | **7** | 2 | ![][flag_JP] inteliser  | |
+| inteliser ![][flag_JP] | 3 | **7** | ![][flag_BR] **Lothus** |  |
+| **Lothus** ![][flag_BR] | **7** | 2 | ![][flag_JP] inteliser |  |
 
 ### Finals
 
 Detailed results of the Finals stage can be found [here](https://goo.gl/TQAKDv).
 
-| Saturday, 2018-04-21 | | | | |
+| Saturday, 2018-04-21 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| Lothus ![][flag_BR]  | 6 | **7** | ![][flag_JP] **inteliser** | |
-| aitor98 ![][flag_ES] | 3 | **7** | ![][flag_CA] **Dawt**      | |
+| Lothus ![][flag_BR] | 6 | **7** | ![][flag_JP] **inteliser** |  |
+| aitor98 ![][flag_ES] | 3 | **7** | ![][flag_CA] **Dawt** |  |
 
-| Sunday, 2018-04-22 | | | | |
+| Sunday, 2018-04-22 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| **TheToaphster** ![][flag_US] | **7** | 0 | ![][flag_BR] andreymc         | |
-| Dawt ![][flag_CA]             | 2 | **7** | ![][flag_US] **TheToaphster** | |
+| **TheToaphster** ![][flag_US] | **7** | 0 | ![][flag_BR] andreymc |  |
+| Dawt ![][flag_CA] | 2 | **7** | ![][flag_US] **TheToaphster** |  |
 
 ### Semifinals
 
 Detailed results of the Semifinals stage can be found [here](https://goo.gl/hmSMka).
 
-| Saturday, 2018-04-14 | | | | |
+| Saturday, 2018-04-14 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| **andreymc** ![][flag_BR] | **6** | 5 | ![][flag_JP] AMDuskia1996  | |
-| TheToaphster ![][flag_US] | 1 | **6** | ![][flag_BR] **Lothus**    | |
-| Tidek ![][flag_PL]        | 2 | **6** | ![][flag_US] **-Electro-** | |
-| **Dawt** ![][flag_CA]     | **6** | 1 | ![][flag_US] Chrubble      | |
+| **andreymc** ![][flag_BR] | **6** | 5 | ![][flag_JP] AMDuskia1996 |  |
+| TheToaphster ![][flag_US] | 1 | **6** | ![][flag_BR] **Lothus** |  |
+| Tidek ![][flag_PL] | 2 | **6** | ![][flag_US] **-Electro-** |  |
+| **Dawt** ![][flag_CA] | **6** | 1 | ![][flag_US] Chrubble |  |
 
-| Sunday, 2018-04-15 | | | | |
+| Sunday, 2018-04-15 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| **Panshow** ![][flag_CA] | **6** | 0 | ![][flag_MY] Minisora      | |
-| aitor98 ![][flag_ES]     | 0 | **6** | ![][flag_JP] **inteliser** | WBD |
-| -Electro- ![][flag_US]   | 0 | **6** | ![][flag_BR] **andreymc**  | WBD |
-| **Dawt** ![][flag_CA]    | **6** | 4 | ![][flag_CA] Panshow       | |
+| **Panshow** ![][flag_CA] | **6** | 0 | ![][flag_MY] Minisora |  |
+| aitor98 ![][flag_ES] | 0 | **6** | ![][flag_JP] **inteliser** | WBD |
+| -Electro- ![][flag_US] | 0 | **6** | ![][flag_BR] **andreymc** | WBD |
+| **Dawt** ![][flag_CA] | **6** | 4 | ![][flag_CA] Panshow |  |
 
 ### Quarterfinals
 
 Detailed results of the Quarterfinals stage can be found [here](https://goo.gl/LevsDD).
 
-| Friday, 2018-04-06 | | | | |
+| Friday, 2018-04-06 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| RemFangirl ![][flag_ID] | 2 | **6** | ![][flag_MY] **Minisora** | |
+| RemFangirl ![][flag_ID] | 2 | **6** | ![][flag_MY] **Minisora** |  |
 
-| Saturday, 2018-04-07 | | | | |
+| Saturday, 2018-04-07 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| Azubeur ![][flag_FR]    | 0 | **6** | ![][flag_GB] **Traps Are Cute** | WBD |
-| **HeZeus** ![][flag_US] | **6** | 1 | ![][flag_BE] NightNarumi        | |
-| Rythze ![][flag_CL]     | 0 | **6** | ![][flag_PL] **Arkitev**        | WBD |
-| Pipper ![][flag_GB]     | 3 | **6** | ![][flag_MX] **\_Mytros\_**     | |
-| andreymc ![][flag_BR]   | 4 | **6** | ![][flag_ES] **aitor98**        | |
-| SitekX ![][flag_PL]     | 0 | **6** | ![][flag_US] **Chrubble**       | WBD |
+| Azubeur ![][flag_FR] | 0 | **6** | ![][flag_GB] **Traps Are Cute** | WBD |
+| **HeZeus** ![][flag_US] | **6** | 1 | ![][flag_BE] NightNarumi |  |
+| Rythze ![][flag_CL] | 0 | **6** | ![][flag_PL] **Arkitev** | WBD |
+| Pipper ![][flag_GB] | 3 | **6** | ![][flag_MX] **\_Mytros\_** |  |
+| andreymc ![][flag_BR] | 4 | **6** | ![][flag_ES] **aitor98** |  |
+| SitekX ![][flag_PL] | 0 | **6** | ![][flag_US] **Chrubble** | WBD |
 
-| Sunday, 2018-04-08 | | | | |
+| Sunday, 2018-04-08 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| PotassiumF ![][flag_AU]       | 0 | **6** | ![][flag_US] **-Electro-**    | |
-| **AMDuskia1996** ![][flag_JP] | **6** | 3 | ![][flag_GB] Pope Gadget      | |
-| **Minisora** ![][flag_MY]     | **6** | 0 | ![][flag_PL] Arkitev          | |
-| \_Mytros\_ ![][flag_MX]       | 4 | **6** | ![][flag_JP] **AMDuskia1996** | |
-| **TheToaphster** ![][flag_US] | **6** | 2 | ![][flag_CA] Dawt             | |
-| Panshow ![][flag_CA]          | 3 | **6** | ![][flag_BR] **Lothus**       | |
-| **-Electro-** ![][flag_US]    | **6** | 5 | ![][flag_GB] Traps Are Cute   | |
-| **Chrubble** ![][flag_US]     | **6** | 0 | ![][flag_US] HeZeus           | |
-| Tidek ![][flag_PL]            | 0 | **6** | ![][flag_JP] **inteliser**    | WBD |
+| PotassiumF ![][flag_AU] | 0 | **6** | ![][flag_US] **-Electro-** |  |
+| **AMDuskia1996** ![][flag_JP] | **6** | 3 | ![][flag_GB] Pope Gadget |  |
+| **Minisora** ![][flag_MY] | **6** | 0 | ![][flag_PL] Arkitev |  |
+| \_Mytros\_ ![][flag_MX] | 4 | **6** | ![][flag_JP] **AMDuskia1996** |  |
+| **TheToaphster** ![][flag_US] | **6** | 2 | ![][flag_CA] Dawt |  |
+| Panshow ![][flag_CA] | 3 | **6** | ![][flag_BR] **Lothus** |  |
+| **-Electro-** ![][flag_US] | **6** | 5 | ![][flag_GB] Traps Are Cute |  |
+| **Chrubble** ![][flag_US] | **6** | 0 | ![][flag_US] HeZeus |  |
+| Tidek ![][flag_PL] | 0 | **6** | ![][flag_JP] **inteliser** | WBD |
 
 ### Round of 16
 
 Detailed results of the Round of 16 stage can be found [here](https://goo.gl/jbctVe).
 
-| Saturday, 2018-03-31 | | | | |
+| Saturday, 2018-03-31 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| arpia97 ![][flag_CA]      | 1 | **5** | ![][flag_GB] **Traps Are Cute** | |
-| Couil ![][flag_SE]        | 2 | **5** | ![][flag_MX] **\_Mytros\_**     | |
-| **Arkitev** ![][flag_PL]  | **5** | 0 | ![][flag_US] DJKhaled           | WBD |
-| **Chrubble** ![][flag_US] | **5** | 1 | ![][flag_US] Neuro-             | |
+| arpia97 ![][flag_CA] | 1 | **5** | ![][flag_GB] **Traps Are Cute** |  |
+| Couil ![][flag_SE] | 2 | **5** | ![][flag_MX] **\_Mytros\_** |  |
+| **Arkitev** ![][flag_PL] | **5** | 0 | ![][flag_US] DJKhaled | WBD |
+| **Chrubble** ![][flag_US] | **5** | 1 | ![][flag_US] Neuro- |  |
 
-| Sunday, 2018-04-01 | | | | |
+| Sunday, 2018-04-01 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| **Panshow** ![][flag_CA]      | **5** | 1 | ![][flag_AU] PotassiumF      | |
-| RemiFlan ![][flag_US]         | 0 | **5** | ![][flag_MY] **Minisora**    | |
-| joseee- ![][flag_PH]          | 0 | **5** | ![][flag_US] **-Electro-**   | WBD |
-| **Dawt** ![][flag_CA]         | **5** | 0 | ![][flag_JP] AMDuskia1996    | |
-| lombit ![][flag_ID]           | 3 | **5** | ![][flag_BE] **NightNarumi** | |
-| **inteliser** ![][flag_JP]    | **5** | 0 | ![][flag_CL] Rythze          | WBD |
-| **TheToaphster** ![][flag_US] | **5** | 0 | ![][flag_GB] Pipper          | |
-| SitekX ![][flag_PL]           | 1 | **5** | ![][flag_BR] **andreymc**    | |
-| **aitor98** ![][flag_ES]      | **5** | 0 | ![][flag_US] HeZeus          | |
-| **Pope Gadget** ![][flag_GB]  | **5** | 2 | ![][flag_CL] WalterToro      | |
-| **Lothus** ![][flag_BR]       | **5** | 0 | ![][flag_FR] Azubeur         | |
-| RemFangirl ![][flag_ID]       | 1 | **5** | ![][flag_PL] **Tidek**       | |
+| **Panshow** ![][flag_CA] | **5** | 1 | ![][flag_AU] PotassiumF |  |
+| RemiFlan ![][flag_US] | 0 | **5** | ![][flag_MY] **Minisora** |  |
+| joseee- ![][flag_PH] | 0 | **5** | ![][flag_US] **-Electro-** | WBD |
+| **Dawt** ![][flag_CA] | **5** | 0 | ![][flag_JP] AMDuskia1996 |  |
+| lombit ![][flag_ID] | 3 | **5** | ![][flag_BE] **NightNarumi** |  |
+| **inteliser** ![][flag_JP] | **5** | 0 | ![][flag_CL] Rythze | WBD |
+| **TheToaphster** ![][flag_US] | **5** | 0 | ![][flag_GB] Pipper |  |
+| SitekX ![][flag_PL] | 1 | **5** | ![][flag_BR] **andreymc** |  |
+| **aitor98** ![][flag_ES] | **5** | 0 | ![][flag_US] HeZeus |  |
+| **Pope Gadget** ![][flag_GB] | **5** | 2 | ![][flag_CL] WalterToro |  |
+| **Lothus** ![][flag_BR] | **5** | 0 | ![][flag_FR] Azubeur |  |
+| RemFangirl ![][flag_ID] | 1 | **5** | ![][flag_PL] **Tidek** |  |
 
 ### Round of 32
 
 Detailed results of the Round of 32 stage can be found [here](https://goo.gl/XUjUy4).
 
-| Saturday, 2018-03-24 | | | | |
+| Saturday, 2018-03-24 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| **inteliser** ![][flag_JP] | **5** | 0 | ![][flag_SE] Couil      | |
-| **aitor98** ![][flag_ES]   | **5** | 0 | ![][flag_PH] joseee-    | |
-| **Tidek** ![][flag_PL]     | **5** | 1 | ![][flag_CL] WalterToro | |
-| **Lothus** ![][flag_BR]    | **5** | 0 | ![][flag_US] Chrubble   | |
-| **Pipper** ![][flag_GB]    | **5** | 0 | ![][flag_US] DJKhaled   | WBD |
-| **Dawt** ![][flag_CA]      | **5** | 0 | ![][flag_US] RemiFlan   | |
-| \_Mytros\_ ![][flag_MX]    | 3 | **5** | ![][flag_CL] **Rythze** | |
+| **inteliser** ![][flag_JP] | **5** | 0 | ![][flag_SE] Couil |  |
+| **aitor98** ![][flag_ES] | **5** | 0 | ![][flag_PH] joseee- |  |
+| **Tidek** ![][flag_PL] | **5** | 1 | ![][flag_CL] WalterToro |  |
+| **Lothus** ![][flag_BR] | **5** | 0 | ![][flag_US] Chrubble |  |
+| **Pipper** ![][flag_GB] | **5** | 0 | ![][flag_US] DJKhaled | WBD |
+| **Dawt** ![][flag_CA] | **5** | 0 | ![][flag_US] RemiFlan |  |
+| \_Mytros\_ ![][flag_MX] | 3 | **5** | ![][flag_CL] **Rythze** |  |
 
-| Sunday, 2018-03-25 | | | | |
+| Sunday, 2018-03-25 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| -Electro- ![][flag_US]        | 3 | **5** | ![][flag_US] **HeZeus**       | |
-| **Panshow** ![][flag_CA]      | **5** | 0 | ![][flag_ID] lombit           | |
-| **PotassiumF** ![][flag_AU]   | **5** | 1 | ![][flag_BE] NightNarumi      | |
-| Minisora ![][flag_MY]         | 3 | **5** | ![][flag_JP] **AMDuskia1996** | |
-| **RemFangirl** ![][flag_ID]   | **5** | 2 | ![][flag_GB] Pope Gadget      | |
-| **andreymc** ![][flag_BR]     | **5** | 2 | ![][flag_GB] Traps Are Cute   | |
-| **SitekX** ![][flag_PL]       | **5** | 0 | ![][flag_CA] arpia97          | |
-| **Azubeur** ![][flag_FR]      | **5** | 0 | ![][flag_US] Neuro-           | |
-| **TheToaphster** ![][flag_US] | **5** | 0 | ![][flag_PL] Arkitev          | |
+| -Electro- ![][flag_US] | 3 | **5** | ![][flag_US] **HeZeus** |  |
+| **Panshow** ![][flag_CA] | **5** | 0 | ![][flag_ID] lombit |  |
+| **PotassiumF** ![][flag_AU] | **5** | 1 | ![][flag_BE] NightNarumi |  |
+| Minisora ![][flag_MY] | 3 | **5** | ![][flag_JP] **AMDuskia1996** |  |
+| **RemFangirl** ![][flag_ID] | **5** | 2 | ![][flag_GB] Pope Gadget |  |
+| **andreymc** ![][flag_BR] | **5** | 2 | ![][flag_GB] Traps Are Cute |  |
+| **SitekX** ![][flag_PL] | **5** | 0 | ![][flag_CA] arpia97 |  |
+| **Azubeur** ![][flag_FR] | **5** | 0 | ![][flag_US] Neuro- |  |
+| **TheToaphster** ![][flag_US] | **5** | 0 | ![][flag_PL] Arkitev |  |
 
 ### Group Stage
 
 Detailed results of the Group Stage can be found [here](https://goo.gl/FfQfZi).
 
-| Friday, 2018-03-09 | | | | |
+| Friday, 2018-03-09 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| **NightNarumi** ![][flag_BE] | **4** | 0 | ![][flag_US] 2dw | |
+| **NightNarumi** ![][flag_BE] | **4** | 0 | ![][flag_US] 2dw |  |
 
-| Saturday, 2018-03-10 | | | | |
+| Saturday, 2018-03-10 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| **2dw** ![][flag_US]             | **4** | 0 | ![][flag_AU] AngeLItchysick   | WBD |
-| **SitekX** ![][flag_PL]          | **4** | 0 | ![][flag_AU] AngeLItchysick   | |
-| **NightNarumi** ![][flag_BE]     | **4** | 0 | ![][flag_AU] AngeLItchysick   | |
-| **andreymc** ![][flag_BR]        | **4** | 0 | ![][flag_MY] \[Xiiao\]Ray     | |
-| **Polytetral** ![][flag_SG]      | **4** | 0 | ![][flag_BR] SillyFangirl     | WBD |
-| **andreymc** ![][flag_BR]        | **4** | 1 | ![][flag_TH] - \[ Yuki \] -   | |
-| **Azubeur** ![][flag_FR]         | **4** | 0 | ![][flag_PH] MapleSyrup-      | |
-| **SitekX** ![][flag_PL]          | **4** | 0 | ![][flag_BE] NightNarumi      | |
-| **Chrubble** ![][flag_US]        | **4** | 3 | ![][flag_FI] Camopoltergeist  | |
-| **SitekX** ![][flag_PL]          | **4** | 0 | ![][flag_US] 2dw              | |
-| **Camopoltergeist** ![][flag_FI] | **4** | 0 | ![][flag_FR] Adri             | |
-| **\_Mytros\_** ![][flag_MX]      | **4** | 0 | ![][flag_PL] Miq              | |
-| **Pipper** ![][flag_GB]          | **4** | 0 | ![][flag_BR] SillyFangirl     | WBD |
-| **Chrubble** ![][flag_US]        | **4** | 1 | ![][flag_FR] Adri             | |
-| **Azubeur** ![][flag_FR]         | **4** | 1 | ![][flag_PL] Arkitev          | |
-| **\_Mytros\_** ![][flag_MX]      | **4** | 3 | ![][flag_GB] Traps Are Cute   | |
-| **Dawt** ![][flag_CA]            | **4** | 1 | ![][flag_FR] Tantei B         | |
-| Pope Gadget ![][flag_GB]         | 0 | **4** | ![][flag_BR] **SillyFangirl** | WBD |
-| **RemiFlan** ![][flag_US]        | **4** | 2 | ![][flag_FR] Tantei B         | |
+| **2dw** ![][flag_US] | **4** | 0 | ![][flag_AU] AngeLItchysick | WBD |
+| **SitekX** ![][flag_PL] | **4** | 0 | ![][flag_AU] AngeLItchysick |  |
+| **NightNarumi** ![][flag_BE] | **4** | 0 | ![][flag_AU] AngeLItchysick |  |
+| **andreymc** ![][flag_BR] | **4** | 0 | ![][flag_MY] \[Xiiao\]Ray |  |
+| **Polytetral** ![][flag_SG] | **4** | 0 | ![][flag_BR] SillyFangirl | WBD |
+| **andreymc** ![][flag_BR] | **4** | 1 | ![][flag_TH] - \[ Yuki \] - |  |
+| **Azubeur** ![][flag_FR] | **4** | 0 | ![][flag_PH] MapleSyrup- |  |
+| **SitekX** ![][flag_PL] | **4** | 0 | ![][flag_BE] NightNarumi |  |
+| **Chrubble** ![][flag_US] | **4** | 3 | ![][flag_FI] Camopoltergeist |  |
+| **SitekX** ![][flag_PL] | **4** | 0 | ![][flag_US] 2dw |  |
+| **Camopoltergeist** ![][flag_FI] | **4** | 0 | ![][flag_FR] Adri |  |
+| **\_Mytros\_** ![][flag_MX] | **4** | 0 | ![][flag_PL] Miq |  |
+| **Pipper** ![][flag_GB] | **4** | 0 | ![][flag_BR] SillyFangirl | WBD |
+| **Chrubble** ![][flag_US] | **4** | 1 | ![][flag_FR] Adri |  |
+| **Azubeur** ![][flag_FR] | **4** | 1 | ![][flag_PL] Arkitev |  |
+| **\_Mytros\_** ![][flag_MX] | **4** | 3 | ![][flag_GB] Traps Are Cute |  |
+| **Dawt** ![][flag_CA] | **4** | 1 | ![][flag_FR] Tantei B |  |
+| Pope Gadget ![][flag_GB] | 0 | **4** | ![][flag_BR] **SillyFangirl** | WBD |
+| **RemiFlan** ![][flag_US] | **4** | 2 | ![][flag_FR] Tantei B |  |
 
-| Sunday, 2018-03-11 | | | | |
+| Sunday, 2018-03-11 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| **-Electro-** ![][flag_US]      | **4** | 1 | ![][flag_CA] arpia97          | |
-| **-Electro-** ![][flag_US]      | **4** | 2 | ![][flag_JP] 3KO3             | |
-| **floodlord** ![][flag_TH]      | **4** | 3 | ![][flag_CA] arpia97          | |
-| **\_Mytros\_** ![][flag_MX]     | **4** | 0 | ![][flag_CN] \[Crz\]ScSolAr   | |
-| **-Electro-** ![][flag_US]      | **4** | 0 | ![][flag_TH] floodlord        | |
-| 3KO3 ![][flag_JP]               | 0 | **4** | ![][flag_CA] **arpia97**      | |
-| **3KO3** ![][flag_JP]           | **4** | 1 | ![][flag_TH] floodlord        | |
-| - \[ Yuki \] - ![][flag_TH]     | 1 | **4** | ![][flag_MY] **\[Xiiao\]Ray** | |
-| **\[Crz\]ScSolAr** ![][flag_CN] | **4** | 3 | ![][flag_PL] Miq              | |
-| **Pope Gadget** ![][flag_GB]    | **4** | 1 | ![][flag_SG] Polytetral       | |
-| MapleSyrup- ![][flag_PH]        | 0 | **4** | ![][flag_DK] **tailsdk**      | |
-| **Traps Are Cute** ![][flag_GB] | **4** | 2 | ![][flag_CN] \[Crz\]ScSolAr   | |
-| **Pipper** ![][flag_GB]         | **4** | 1 | ![][flag_SG] Polytetral       | |
-| **MapleSyrup-** ![][flag_PH]    | **4** | 3 | ![][flag_PL] Arkitev          | |
-| Pipper ![][flag_GB]             | 3 | **4** | ![][flag_GB] **Pope Gadget**  | |
-| **Azubeur** ![][flag_FR]        | **4** | 2 | ![][flag_DK] tailsdk          | |
-| **Traps Are Cute** ![][flag_GB] | **4** | 0 | ![][flag_PL] Miq              | |
-| **Tidek** ![][flag_PL]          | **4** | 2 | ![][flag_FI] Camopoltergeist  | |
-| **Tidek** ![][flag_PL]          | **4** | 1 | ![][flag_FR] Adri             | |
-| **Arkitev** ![][flag_PL]        | **4** | 1 | ![][flag_DK] tailsdk          | |
-| **Tidek** ![][flag_PL]          | **4** | 1 | ![][flag_US] Chrubble         | |
-| **Dawt** ![][flag_CA]           | **4** | 1 | ![][flag_US] RemiFlan         | |
+| **-Electro-** ![][flag_US] | **4** | 1 | ![][flag_CA] arpia97 |  |
+| **-Electro-** ![][flag_US] | **4** | 2 | ![][flag_JP] 3KO3 |  |
+| **floodlord** ![][flag_TH] | **4** | 3 | ![][flag_CA] arpia97 |  |
+| **\_Mytros\_** ![][flag_MX] | **4** | 0 | ![][flag_CN] \[Crz\]ScSolAr |  |
+| **-Electro-** ![][flag_US] | **4** | 0 | ![][flag_TH] floodlord |  |
+| 3KO3 ![][flag_JP] | 0 | **4** | ![][flag_CA] **arpia97** |  |
+| **3KO3** ![][flag_JP] | **4** | 1 | ![][flag_TH] floodlord |  |
+| - \[ Yuki \] - ![][flag_TH] | 1 | **4** | ![][flag_MY] **\[Xiiao\]Ray** |  |
+| **\[Crz\]ScSolAr** ![][flag_CN] | **4** | 3 | ![][flag_PL] Miq |  |
+| **Pope Gadget** ![][flag_GB] | **4** | 1 | ![][flag_SG] Polytetral |  |
+| MapleSyrup- ![][flag_PH] | 0 | **4** | ![][flag_DK] **tailsdk** |  |
+| **Traps Are Cute** ![][flag_GB] | **4** | 2 | ![][flag_CN] \[Crz\]ScSolAr |  |
+| **Pipper** ![][flag_GB] | **4** | 1 | ![][flag_SG] Polytetral |  |
+| **MapleSyrup-** ![][flag_PH] | **4** | 3 | ![][flag_PL] Arkitev |  |
+| Pipper ![][flag_GB] | 3 | **4** | ![][flag_GB] **Pope Gadget** |  |
+| **Azubeur** ![][flag_FR] | **4** | 2 | ![][flag_DK] tailsdk |  |
+| **Traps Are Cute** ![][flag_GB] | **4** | 0 | ![][flag_PL] Miq |  |
+| **Tidek** ![][flag_PL] | **4** | 2 | ![][flag_FI] Camopoltergeist |  |
+| **Tidek** ![][flag_PL] | **4** | 1 | ![][flag_FR] Adri |  |
+| **Arkitev** ![][flag_PL] | **4** | 1 | ![][flag_DK] tailsdk |  |
+| **Tidek** ![][flag_PL] | **4** | 1 | ![][flag_US] Chrubble |  |
+| **Dawt** ![][flag_CA] | **4** | 1 | ![][flag_US] RemiFlan |  |
 
-| Saturday, 2018-03-17 | | | | |
+| Saturday, 2018-03-17 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| **SurfChu85** ![][flag_PH]     | **4** | 0 | ![][flag_FR] Tantei B           | WBD |
-| **Minisora** ![][flag_MY]      | **4** | 0 | ![][flag_ID] Lafreniere         | WBD |
-| **Minisora** ![][flag_MY]      | **4** | 1 | ![][flag_PH] joseee-            | |
-| \[ Vento \] ![][flag_SE]       | 0 | **4** | ![][flag_AU] **PotassiumF**     | WBD |
-| **Minisora** ![][flag_MY]      | **4** | 1 | ![][flag_BE] yetified           | |
-| \[ Vento \] ![][flag_SE]       | 0 | **4** | ![][flag_SG] **Raveille**       | WBD |
-| Lusty Platypus ![][flag_AU]    | 2 | **4** | ![][flag_ID] **lombit**         | |
-| yetified ![][flag_BE]          | 3 | **4** | ![][flag_PH] **joseee-**        | |
-| **pikechu** ![][flag_CN]       | **4** | 0 | ![][flag_FI] -Oreo-             | WBD |
-| Mage ![][flag_RU]              | 1 | **4** | ![][flag_ID] **lombit**         | |
-| **WalterToro** ![][flag_CL]    | **4** | 0 | ![][flag_CN] pikechu            | |
-| Mage ![][flag_RU]              | 0 | **4** | ![][flag_AU] **Lusty Platypus** | |
-| **RemFangirl** ![][flag_ID]    | **4** | 0 | ![][flag_FR] Elementaires       | WBD |
-| **aitor98** ![][flag_ES]       | **4** | 0 | ![][flag_FI] -Oreo-             | |
-| **TheToaphster** ![][flag_US]  | **4** | 0 | ![][flag_RU] Mage               | |
-| **WalterToro** ![][flag_CL]    | **4** | 0 | ![][flag_FI] -Oreo-             | |
-| **RemFangirl** ![][flag_ID]    | **4** | 0 | ![][flag_US] Neuro-             | |
-| **Couil** ![][flag_SE]         | **4** | 1 | ![][flag_PL] Cyan\_Star         | |
-| **aitor98** ![][flag_ES]       | **4** | 0 | ![][flag_CL] WalterToro         | |
-| **Couil** ![][flag_SE]         | **4** | 2 | ![][flag_US] dhn                | |
-| **CommandoBlack** ![][flag_CA] | **4** | 1 | ![][flag_FR] Koiidex            | |
-| Couil ![][flag_SE]             | 0 | **4** | ![][flag_CA] **Panshow**        | |
-| dhn ![][flag_US]               | 0 | **4** | ![][flag_PL] **Cyan\_Star**     | WBD |
-| **Panshow** ![][flag_CA]       | **4** | 0 | ![][flag_PL] Cyan\_Star         | |
-| **Panshow** ![][flag_CA]       | **4** | 0 | ![][flag_US] dhn                | WBD |
-| **andreymc** ![][flag_BR]      | **4** | 3 | ![][flag_US] DJKhaled           | |
-| **Lothus** ![][flag_BR]        | **4** | 1 | ![][flag_US] HeZeus             | |
-| Elementaires ![][flag_FR]      | 0 | **4** | ![][flag_AU] **-Xenovia-**      | WBD |
-| **TheToaphster** ![][flag_US]  | **4** | 0 | ![][flag_AU] Lusty Platypus     | |
+| **SurfChu85** ![][flag_PH] | **4** | 0 | ![][flag_FR] Tantei B | WBD |
+| **Minisora** ![][flag_MY] | **4** | 0 | ![][flag_ID] Lafreniere | WBD |
+| **Minisora** ![][flag_MY] | **4** | 1 | ![][flag_PH] joseee- |  |
+| \[ Vento \] ![][flag_SE] | 0 | **4** | ![][flag_AU] **PotassiumF** | WBD |
+| **Minisora** ![][flag_MY] | **4** | 1 | ![][flag_BE] yetified |  |
+| \[ Vento \] ![][flag_SE] | 0 | **4** | ![][flag_SG] **Raveille** | WBD |
+| Lusty Platypus ![][flag_AU] | 2 | **4** | ![][flag_ID] **lombit** |  |
+| yetified ![][flag_BE] | 3 | **4** | ![][flag_PH] **joseee-** |  |
+| **pikechu** ![][flag_CN] | **4** | 0 | ![][flag_FI] -Oreo- | WBD |
+| Mage ![][flag_RU] | 1 | **4** | ![][flag_ID] **lombit** |  |
+| **WalterToro** ![][flag_CL] | **4** | 0 | ![][flag_CN] pikechu |  |
+| Mage ![][flag_RU] | 0 | **4** | ![][flag_AU] **Lusty Platypus** |  |
+| **RemFangirl** ![][flag_ID] | **4** | 0 | ![][flag_FR] Elementaires | WBD |
+| **aitor98** ![][flag_ES] | **4** | 0 | ![][flag_FI] -Oreo- |  |
+| **TheToaphster** ![][flag_US] | **4** | 0 | ![][flag_RU] Mage |  |
+| **WalterToro** ![][flag_CL] | **4** | 0 | ![][flag_FI] -Oreo- |  |
+| **RemFangirl** ![][flag_ID] | **4** | 0 | ![][flag_US] Neuro- |  |
+| **Couil** ![][flag_SE] | **4** | 1 | ![][flag_PL] Cyan\_Star |  |
+| **aitor98** ![][flag_ES] | **4** | 0 | ![][flag_CL] WalterToro |  |
+| **Couil** ![][flag_SE] | **4** | 2 | ![][flag_US] dhn |  |
+| **CommandoBlack** ![][flag_CA] | **4** | 1 | ![][flag_FR] Koiidex |  |
+| Couil ![][flag_SE] | 0 | **4** | ![][flag_CA] **Panshow** |  |
+| dhn ![][flag_US] | 0 | **4** | ![][flag_PL] **Cyan\_Star** | WBD |
+| **Panshow** ![][flag_CA] | **4** | 0 | ![][flag_PL] Cyan\_Star |  |
+| **Panshow** ![][flag_CA] | **4** | 0 | ![][flag_US] dhn | WBD |
+| **andreymc** ![][flag_BR] | **4** | 3 | ![][flag_US] DJKhaled |  |
+| **Lothus** ![][flag_BR] | **4** | 1 | ![][flag_US] HeZeus |  |
+| Elementaires ![][flag_FR] | 0 | **4** | ![][flag_AU] **-Xenovia-** | WBD |
+| **TheToaphster** ![][flag_US] | **4** | 0 | ![][flag_AU] Lusty Platypus |  |
 
-| Sunday, 2018-03-18 | | | | |
+| Sunday, 2018-03-18 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| **Neuro-** ![][flag_US]       | **4** | 0 | ![][flag_AU] -Xenovia-        | |
-| **HeZeus** ![][flag_US]       | **4** | 2 | ![][flag_CA] CommandoBlack    | |
-| Rythze ![][flag_CL]           | 0 | **4** | ![][flag_AU] **PotassiumF**   | WBD |
-| **Dawt** ![][flag_CA]         | **4** | 0 | ![][flag_PH] SurfChu85        | |
-| **RemiFlan** ![][flag_US]     | **4** | 1 | ![][flag_PH] SurfChu85        | |
-| **DJKhaled** ![][flag_US]     | **4** | 1 | ![][flag_TH] - \[ Yuki \] -   | |
-| Raveille ![][flag_SG]         | 3 | **4** | ![][flag_AU] **PotassiumF**   | |
-| **DJKhaled** ![][flag_US]     | **4** | 0 | ![][flag_MY] \[Xiiao\]Ray     | WBD |
-| **RemFangirl** ![][flag_ID]   | **4** | 0 | ![][flag_AU] -Xenovia-        | |
-| **joseee-** ![][flag_PH]      | **4** | 0 | ![][flag_ID] Lafreniere       | WBD |
-| **inteliser** ![][flag_JP]    | **4** | 0 | ![][flag_PL] \_underjoy       | |
-| **inteliser** ![][flag_JP]    | **4** | 1 | ![][flag_JP] AMDuskia1996     | |
-| **yetified** ![][flag_BE]     | **4** | 0 | ![][flag_ID] Lafreniere       | WBD |
-| **aitor98** ![][flag_ES]      | **4** | 1 | ![][flag_CN] pikechu          | |
-| **inteliser** ![][flag_JP]    | **4** | 0 | ![][flag_PL] Moskas           | |
-| **Rythze** ![][flag_CL]       | **4** | 1 | ![][flag_SG] Raveille         | |
-| \_underjoy ![][flag_PL]       | 1 | **4** | ![][flag_JP] **AMDuskia1996** | |
-| **AMDuskia1996** ![][flag_JP] | **4** | 1 | ![][flag_PL] Moskas           | |
-| **TheToaphster** ![][flag_US] | **4** | 0 | ![][flag_ID] lombit           | WBD |
-| **HeZeus** ![][flag_US]       | **4** | 0 | ![][flag_FR] Koiidex          | |
-| \_underjoy ![][flag_PL]       | 3 | **4** | ![][flag_PL] **Moskas**       | |
-| **Lothus** ![][flag_BR]       | **4** | 0 | ![][flag_FR] Koiidex          | |
-| \[ Vento \] ![][flag_SE]      | 0 | **4** | ![][flag_CL] **Rythze**       | WBD |
-| **Lothus** ![][flag_BR]       | **4** | 0 | ![][flag_CA] CommandoBlack    | |
-| Elementaires ![][flag_FR]     | 0 | **4** | ![][flag_US] **Neuro-**       | WBD |
+| **Neuro-** ![][flag_US] | **4** | 0 | ![][flag_AU] -Xenovia- |  |
+| **HeZeus** ![][flag_US] | **4** | 2 | ![][flag_CA] CommandoBlack |  |
+| Rythze ![][flag_CL] | 0 | **4** | ![][flag_AU] **PotassiumF** | WBD |
+| **Dawt** ![][flag_CA] | **4** | 0 | ![][flag_PH] SurfChu85 |  |
+| **RemiFlan** ![][flag_US] | **4** | 1 | ![][flag_PH] SurfChu85 |  |
+| **DJKhaled** ![][flag_US] | **4** | 1 | ![][flag_TH] - \[ Yuki \] - |  |
+| Raveille ![][flag_SG] | 3 | **4** | ![][flag_AU] **PotassiumF** |  |
+| **DJKhaled** ![][flag_US] | **4** | 0 | ![][flag_MY] \[Xiiao\]Ray | WBD |
+| **RemFangirl** ![][flag_ID] | **4** | 0 | ![][flag_AU] -Xenovia- |  |
+| **joseee-** ![][flag_PH] | **4** | 0 | ![][flag_ID] Lafreniere | WBD |
+| **inteliser** ![][flag_JP] | **4** | 0 | ![][flag_PL] \_underjoy |  |
+| **inteliser** ![][flag_JP] | **4** | 1 | ![][flag_JP] AMDuskia1996 |  |
+| **yetified** ![][flag_BE] | **4** | 0 | ![][flag_ID] Lafreniere | WBD |
+| **aitor98** ![][flag_ES] | **4** | 1 | ![][flag_CN] pikechu |  |
+| **inteliser** ![][flag_JP] | **4** | 0 | ![][flag_PL] Moskas |  |
+| **Rythze** ![][flag_CL] | **4** | 1 | ![][flag_SG] Raveille |  |
+| \_underjoy ![][flag_PL] | 1 | **4** | ![][flag_JP] **AMDuskia1996** |  |
+| **AMDuskia1996** ![][flag_JP] | **4** | 1 | ![][flag_PL] Moskas |  |
+| **TheToaphster** ![][flag_US] | **4** | 0 | ![][flag_ID] lombit | WBD |
+| **HeZeus** ![][flag_US] | **4** | 0 | ![][flag_FR] Koiidex |  |
+| \_underjoy ![][flag_PL] | 3 | **4** | ![][flag_PL] **Moskas** |  |
+| **Lothus** ![][flag_BR] | **4** | 0 | ![][flag_FR] Koiidex |  |
+| \[ Vento \] ![][flag_SE] | 0 | **4** | ![][flag_CL] **Rythze** | WBD |
+| **Lothus** ![][flag_BR] | **4** | 0 | ![][flag_CA] CommandoBlack |  |
+| Elementaires ![][flag_FR] | 0 | **4** | ![][flag_US] **Neuro-** | WBD |
 
 ### Playoffs
 
 Detailed results of the Playoffs can be found [here](https://goo.gl/CGgypm).
 
-| Wednesday, 2018-02-21 | | | | |
+| Wednesday, 2018-02-21 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| **Arkitev** ![][flag_PL] | **4** | 1 | ![][flag_SE] YoShiZoRi | |
+| **Arkitev** ![][flag_PL] | **4** | 1 | ![][flag_SE] YoShiZoRi |  |
 
-| Saturday, 2018-02-24 | | | | |
+| Saturday, 2018-02-24 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| sleetgirl ![][flag_JP]          | 0 | **4** | ![][flag_AU] **-Xenovia-** | |
-| **pikechu** ![][flag_CN]        | **4** | 2 | ![][flag_MY] never214      | |
-| **\[Crz\]ScSolAr** ![][flag_CN] | **4** | 0 | ![][flag_FR] \_dk          | WBD |
-| **lombit** ![][flag_ID]         | **4** | 1 | ![][flag_ES] Nyanpasuuu    | |
-| **- \[ Yuki \] -** ![][flag_PH] | **4** | 0 | ![][flag_SE] Craty         | WBD |
-| **Kroly-** ![][flag_PL]         | **4** | 0 | ![][flag_PH] Kaleiodo      | WBD |
-| **joseee-** ![][flag_PH]        | **4** | 1 | ![][flag_BR] Zergh         | |
-| **bananacake304** ![][flag_PH]  | **4** | 1 | ![][flag_PL] Brunosky      | |
-| Natty2708 ![][flag_GB]          | 1 | **4** | ![][flag_IT] **Enjoy-**    | |
-| **yetified** ![][flag_BE]       | **4** | 2 | ![][flag_ZA] Cyrosu        | |
-| **CommandoBlack** ![][flag_CA]  | **4** | 1 | ![][flag_PL] ArchGMSati    | |
-| BlankPxl ![][flag_GB]           | 2 | **4** | ![][flag_AR] **BubShish**  | |
+| sleetgirl ![][flag_JP] | 0 | **4** | ![][flag_AU] **-Xenovia-** |  |
+| **pikechu** ![][flag_CN] | **4** | 2 | ![][flag_MY] never214 |  |
+| **\[Crz\]ScSolAr** ![][flag_CN] | **4** | 0 | ![][flag_FR] \_dk | WBD |
+| **lombit** ![][flag_ID] | **4** | 1 | ![][flag_ES] Nyanpasuuu |  |
+| **- \[ Yuki \] -** ![][flag_PH] | **4** | 0 | ![][flag_SE] Craty | WBD |
+| **Kroly-** ![][flag_PL] | **4** | 0 | ![][flag_PH] Kaleiodo | WBD |
+| **joseee-** ![][flag_PH] | **4** | 1 | ![][flag_BR] Zergh |  |
+| **bananacake304** ![][flag_PH] | **4** | 1 | ![][flag_PL] Brunosky |  |
+| Natty2708 ![][flag_GB] | 1 | **4** | ![][flag_IT] **Enjoy-** |  |
+| **yetified** ![][flag_BE] | **4** | 2 | ![][flag_ZA] Cyrosu |  |
+| **CommandoBlack** ![][flag_CA] | **4** | 1 | ![][flag_PL] ArchGMSati |  |
+| BlankPxl ![][flag_GB] | 2 | **4** | ![][flag_AR] **BubShish** |  |
 
-| Sunday, 2018-02-25 | | | | |
+| Sunday, 2018-02-25 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| **SurfChu85** ![][flag_PH]       | **4** | 1 | ![][flag_AR] Fisk-              | |
-| **Framps** ![][flag_AU]          | **4** | 2 | ![][flag_CA] loafusofbread      | |
-| **Shedin** ![][flag_BR]          | **4** | 0 | ![][flag_AU] Spartan-           | WBD |
-| **floodlord** ![][flag_TH]       | **4** | 0 | ![][flag_US] afrono             | |
-| **AMDuskia1996** ![][flag_JP]    | **4** | 1 | ![][flag_TH] SharpKunG1412      | |
-| Cunu ![][flag_FR]                | 0 | **4** | ![][flag_AU] **AngeLItchysick** | WBD |
-| **Elementaires** ![][flag_FR]    | **4** | 0 | ![][flag_PH] TheArge            | WBD |
-| **Lusty Platypus** ![][flag_AU]  | **4** | 0 | ![][flag_FI] princesswell       | |
-| **twistedclever** ![][flag_ID]   | **4** | 1 | ![][flag_GB] loopyloo           | |
-| **repoz** ![][flag_AR]           | **4** | 1 | ![][flag_PH] Mentai Cosmic      | |
-| **Camopoltergeist** ![][flag_FI] | **4** | 0 | ![][flag_NL] 2fast4you98        | |
-| \_Shirayukihime\_ ![][flag_PH]   | 0 | **4** | ![][flag_US] **Fizzy**          | WBD |
-| **Moskas** ![][flag_PL]          | **4** | 0 | ![][flag_PL] Jasionnn           | |
-| **tailsdk** ![][flag_DK]         | **4** | 1 | ![][flag_IT] Tantuz             | |
-| **Akeyro** ![][flag_BE]          | **4** | 3 | ![][flag_BR] StartMetal         | |
-| **Kruppol** ![][flag_PL]         | **4** | 0 | ![][flag_CL] Matiias            | WBD |
-| Open ![][flag_PL]                | 0 | **4** | ![][flag_DE] **Kaionacho**      | WBD |
-| Daybreak ![][flag_MX]            | 0 | **4** | ![][flag_AR] **JotaCe**         | WBD |
+| **SurfChu85** ![][flag_PH] | **4** | 1 | ![][flag_AR] Fisk- |  |
+| **Framps** ![][flag_AU] | **4** | 2 | ![][flag_CA] loafusofbread |  |
+| **Shedin** ![][flag_BR] | **4** | 0 | ![][flag_AU] Spartan- | WBD |
+| **floodlord** ![][flag_TH] | **4** | 0 | ![][flag_US] afrono |  |
+| **AMDuskia1996** ![][flag_JP] | **4** | 1 | ![][flag_TH] SharpKunG1412 |  |
+| Cunu ![][flag_FR] | 0 | **4** | ![][flag_AU] **AngeLItchysick** | WBD |
+| **Elementaires** ![][flag_FR] | **4** | 0 | ![][flag_PH] TheArge | WBD |
+| **Lusty Platypus** ![][flag_AU] | **4** | 0 | ![][flag_FI] princesswell |  |
+| **twistedclever** ![][flag_ID] | **4** | 1 | ![][flag_GB] loopyloo |  |
+| **repoz** ![][flag_AR] | **4** | 1 | ![][flag_PH] Mentai Cosmic |  |
+| **Camopoltergeist** ![][flag_FI] | **4** | 0 | ![][flag_NL] 2fast4you98 |  |
+| \_Shirayukihime\_ ![][flag_PH] | 0 | **4** | ![][flag_US] **Fizzy** | WBD |
+| **Moskas** ![][flag_PL] | **4** | 0 | ![][flag_PL] Jasionnn |  |
+| **tailsdk** ![][flag_DK] | **4** | 1 | ![][flag_IT] Tantuz |  |
+| **Akeyro** ![][flag_BE] | **4** | 3 | ![][flag_BR] StartMetal |  |
+| **Kruppol** ![][flag_PL] | **4** | 0 | ![][flag_CL] Matiias | WBD |
+| Open ![][flag_PL] | 0 | **4** | ![][flag_DE] **Kaionacho** | WBD |
+| Daybreak ![][flag_MX] | 0 | **4** | ![][flag_AR] **JotaCe** | WBD |
 
-| Friday, 2018-03-02 | | | | |
+| Friday, 2018-03-02 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| Hlimak ![][flag_PL] | 1 | **4** | ![][flag_FR] **Koiidex** | |
+| Hlimak ![][flag_PL] | 1 | **4** | ![][flag_FR] **Koiidex** |  |
 
-| Saturday, 2018-03-03 | | | | |
+| Saturday, 2018-03-03 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| **PotassiumF** ![][flag_AU]     | **4** | 2 | ![][flag_US] Psychodic      | |
-| **2dw** ![][flag_US]            | **4** | 2 | ![][flag_TH] TheNewBungping | |
-| Phoenix530 ![][flag_TH]         | 3 | **4** | ![][flag_FR] **Tantei B**   | |
-| **Raveille** ![][flag_SG]       | **4** | 0 | ![][flag_GB] lazer09909     | |
-| **3KO3** ![][flag_JP]           | **4** | 0 | ![][flag_PL] Kroly-         | |
-| Lenfried- ![][flag_PH]          | 2 | **4** | ![][flag_FR] Adri           | |
-| LastExceed ![][flag_DE]         | 0 | **4** | ![][flag_ID] **Lafreniere** | WBD |
-| **Mage** ![][flag_RU]           | **4** | 0 | ![][flag_DE] Kaionacho      | |
-| **MapleSyrup-** ![][flag_PH]    | **4** | 0 | ![][flag_BE] Akeyro         | WBD |
-| Kamikaze ![][flag_PL]           | 1 | **4** | ![][flag_DK] **tailsdk**    | |
-| **Neuro-** ![][flag_US]         | **4** | 1 | ![][flag_PL] Nick Wilde     | |
-| **dhn** ![][flag_US]            | **4** | 0 | ![][flag_DE] Malox          | WBD |
-| **Traps Are Cute** ![][flag_GB] | **4** | 0 | ![][flag_AR] repoz          | WBD |
-| **Panshow** ![][flag_CA]        | **4** | 0 | ![][flag_IT] Enjoy-         | |
-| **Chrubble** ![][flag_US]       | **4** | 0 | ![][flag_PL] Kruppol        | |
-| **DJKhaled** ![][flag_US]       | **4** | 0 | ![][flag_US] Fizzy          | WBD |
+| **PotassiumF** ![][flag_AU] | **4** | 2 | ![][flag_US] Psychodic |  |
+| **2dw** ![][flag_US] | **4** | 2 | ![][flag_TH] TheNewBungping |  |
+| Phoenix530 ![][flag_TH] | 3 | **4** | ![][flag_FR] **Tantei B** |  |
+| **Raveille** ![][flag_SG] | **4** | 0 | ![][flag_GB] lazer09909 |  |
+| **3KO3** ![][flag_JP] | **4** | 0 | ![][flag_PL] Kroly- |  |
+| Lenfried- ![][flag_PH] | 2 | **4** | ![][flag_FR] Adri |  |
+| LastExceed ![][flag_DE] | 0 | **4** | ![][flag_ID] **Lafreniere** | WBD |
+| **Mage** ![][flag_RU] | **4** | 0 | ![][flag_DE] Kaionacho |  |
+| **MapleSyrup-** ![][flag_PH] | **4** | 0 | ![][flag_BE] Akeyro | WBD |
+| Kamikaze ![][flag_PL] | 1 | **4** | ![][flag_DK] **tailsdk** |  |
+| **Neuro-** ![][flag_US] | **4** | 1 | ![][flag_PL] Nick Wilde |  |
+| **dhn** ![][flag_US] | **4** | 0 | ![][flag_DE] Malox | WBD |
+| **Traps Are Cute** ![][flag_GB] | **4** | 0 | ![][flag_AR] repoz | WBD |
+| **Panshow** ![][flag_CA] | **4** | 0 | ![][flag_IT] Enjoy- |  |
+| **Chrubble** ![][flag_US] | **4** | 0 | ![][flag_PL] Kruppol |  |
+| **DJKhaled** ![][flag_US] | **4** | 0 | ![][flag_US] Fizzy | WBD |
 
-| Sunday, 2018-03-04 | | | | |
+| Sunday, 2018-03-04 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-: |
-| Kengy ![][flag_CA]            | 0 | **4** | ![][flag_CA] **arpia97**    | |
-| **RemiFlan** ![][flag_US]     | **4** | 0 | ![][flag_BR] Shedin         | |
-| **HeZeus** ![][flag_US]       | **4** | 0 | ![][flag_ID] twistedclever  | WBD |
-| **WalterToro** ![][flag_CL]   | **4** | 0 | ![][flag_AU] Framps         | |
-| **-Oreo-** ![][flag_FI]       | **4** | 1 | ![][flag_MY] Kaname-san92   | |
-| DawnX ![][flag_CN]            | 3 | **4** | ![][flag_ID] **lombit**     | |
-| DemonWaves ![][flag_FR]       | 2 | **4** | ![][flag_MY] **[Xiiao]Ray** | |
-| **Polytetral** ![][flag_SG]   | **4** | 0 | ![][flag_PH] nyx-           | WBD |
-| **Pope Gadget** ![][flag_GB]  | **4** | 0 | ![][flag_PH] bananacake304  | WBD |
-| **Cyan\_Star** ![][flag_PL]   | **4** | 2 | ![][flag_ES] Userbacker     | |
-| DaDarkDragon ![][flag_PL]     | 1 | **4** | ![][flag_PL] **Miq**        | |
-| **SillyFangirl** ![][flag_BR] | **4** | 0 | ![][flag_PL] Benzopirene    | |
-| xSnaggles ![][flag_GB]        | 2 | **4** | ![][flag_PL] **Moskas**     | |
-| **\_underjoy** ![][flag_PL]   | **4** | 0 | ![][flag_GB] SleepyDarkrai  | WBD |
-| **NightNarumi** ![][flag_BE]  | **4** | 0 | ![][flag_AR] JotaCe         | WBD |
-| **Rythze** ![][flag_CL]       | **4** | 0 | ![][flag_AR] BubShish       | |
+| Kengy ![][flag_CA] | 0 | **4** | ![][flag_CA] **arpia97** |  |
+| **RemiFlan** ![][flag_US] | **4** | 0 | ![][flag_BR] Shedin |  |
+| **HeZeus** ![][flag_US] | **4** | 0 | ![][flag_ID] twistedclever | WBD |
+| **WalterToro** ![][flag_CL] | **4** | 0 | ![][flag_AU] Framps |  |
+| **-Oreo-** ![][flag_FI] | **4** | 1 | ![][flag_MY] Kaname-san92 |  |
+| DawnX ![][flag_CN] | 3 | **4** | ![][flag_ID] **lombit** |  |
+| DemonWaves ![][flag_FR] | 2 | **4** | ![][flag_MY] **[Xiiao]Ray** |  |
+| **Polytetral** ![][flag_SG] | **4** | 0 | ![][flag_PH] nyx- | WBD |
+| **Pope Gadget** ![][flag_GB] | **4** | 0 | ![][flag_PH] bananacake304 | WBD |
+| **Cyan\_Star** ![][flag_PL] | **4** | 2 | ![][flag_ES] Userbacker |  |
+| DaDarkDragon ![][flag_PL] | 1 | **4** | ![][flag_PL] **Miq** |  |
+| **SillyFangirl** ![][flag_BR] | **4** | 0 | ![][flag_PL] Benzopirene |  |
+| xSnaggles ![][flag_GB] | 2 | **4** | ![][flag_PL] **Moskas** |  |
+| **\_underjoy** ![][flag_PL] | **4** | 0 | ![][flag_GB] SleepyDarkrai | WBD |
+| **NightNarumi** ![][flag_BE] | **4** | 0 | ![][flag_AR] JotaCe | WBD |
+| **Rythze** ![][flag_CL] | **4** | 0 | ![][flag_AR] BubShish |  |
 
 ### Qualifiers
 

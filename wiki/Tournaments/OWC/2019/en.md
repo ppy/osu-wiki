@@ -50,7 +50,7 @@ The osu! World Cup 2019 was run by various community members.
 
 - [Discussion thread](https://osu.ppy.sh/community/forums/topics/973724)
 - [Livestream](https://www.twitch.tv/osulive)
-- [Pick'ems page](https://pickem.hwchr.com/tournaments/19)
+- [Pick'ems page](https://pickem.hwc.hr/tournaments/19) hosted by ![][flag_DE] [hallowatcher](https://osu.ppy.sh/users/1874761)
 - [Challonge bracket](https://challonge.com/OWC2019)
 - [Statistics sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vREamImW3yN-q3rio2XIFX497uoIoPprEuSqykuPPP9D9WcMfMJQj0bXcBl1ZGxIcm_tPIuoZPk_GFk/pubhtml)
 
@@ -297,13 +297,13 @@ The osu! World Cup 2019 was run by various community members.
 
 Saturday, 21 December 2019:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | United Kingdom ![][flag_GB] | 6 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/57136609) |
 
 Sunday, 22 December 2019:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **United States** ![][flag_US] | **7** | 0 | ![][flag_KR] South Korea | [#1](https://osu.ppy.sh/community/matches/57155016) |
 
@@ -311,14 +311,14 @@ Sunday, 22 December 2019:
 
 Saturday, 14 December 2019:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Russian Federation ![][flag_RU] | 5 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/56966806) |
 | **Germany** ![][flag_DE] | **7** | 0 | ![][flag_CA] Canada | [#1](https://osu.ppy.sh/community/matches/56976278) |
 
 Sunday, 15 December 2019:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Germany ![][flag_DE] | 4 | **7** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/56997003) |
 | **United States** ![][flag_US] | **7** | 0 | ![][flag_GB] United Kingdom | [#1](https://osu.ppy.sh/community/matches/57007868) |
@@ -327,7 +327,7 @@ Sunday, 15 December 2019:
 
 Saturday, 7 December 2019:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | Australia ![][flag_AU] | 3 | **6** | ![][flag_HK] **Hong Kong** | [#1](https://osu.ppy.sh/community/matches/56794699) |
 | Taiwan ![][flag_TW] | 4 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/56796751) |
@@ -337,7 +337,7 @@ Saturday, 7 December 2019:
 
 Sunday, 8 December 2019:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Canada** ![][flag_CA] | **6** | 2 | ![][flag_HK] Hong Kong | [#1](https://osu.ppy.sh/community/matches/56819778) |
 | Brazil ![][flag_BR] | 1 | **6** | ![][flag_KR] **South Korea** | [#1](https://osu.ppy.sh/community/matches/56829847) |
@@ -347,7 +347,7 @@ Sunday, 8 December 2019:
 
 Saturday, 30 November 2019:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Poland** ![][flag_PL] | **6** | 1 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/56626592) |
 | **South Korea** ![][flag_KR] | **6** | 2 | ![][flag_JP] Japan | [#1](https://osu.ppy.sh/community/matches/56627888) |
@@ -360,7 +360,7 @@ Saturday, 30 November 2019:
 
 Sunday, 1 December 2019:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **United States** ![][flag_US] | **6** | 1 | ![][flag_AU] Australia | [#1](https://osu.ppy.sh/community/matches/56652543) |
 | **South Korea** ![][flag_KR] | **6** | 0 | ![][flag_FR] France | [#1](https://osu.ppy.sh/community/matches/56660231) |
@@ -375,7 +375,7 @@ Sunday, 1 December 2019:
 
 Saturday, 23 November 2019:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Germany** ![][flag_DE] | **5** | 1 | ![][flag_CN] China | [#1](https://osu.ppy.sh/community/matches/56466754) |
 | Denmark ![][flag_DK] | 2 | **5** | ![][flag_SG] **Singapore** | [#1](https://osu.ppy.sh/community/matches/56467513) |
@@ -387,7 +387,7 @@ Saturday, 23 November 2019:
 
 Sunday, 24 November 2019:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Canada** ![][flag_CA] | **5** | 0 | ![][flag_ID] Indonesia | [#1](https://osu.ppy.sh/community/matches/56487811) |
 | **Finland** ![][flag_FI] | 3 | **5** | ![][flag_NZ] **New Zealand** | [#1](https://osu.ppy.sh/community/matches/56492906) |
@@ -403,7 +403,7 @@ Sunday, 24 November 2019:
 
 Saturday, 16 November 2019:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **Australia** ![][flag_AU] | **5** | 0 | ![][flag_FI] Finland | [#1](https://osu.ppy.sh/community/matches/56299664) |
 | **Hong Kong** ![][flag_HK] | **5** | 2 | ![][flag_NO] Norway | [#1](https://osu.ppy.sh/community/matches/56300777) |
@@ -416,7 +416,7 @@ Saturday, 16 November 2019:
 
 Sunday, 17 November 2019:
 
-| Team 1 | | | Team 2 | Match link |
+| Team 1 |  |  | Team 2 | Match link |
 | --: | :-: | :-: | :-- | :-- |
 | **China** ![][flag_CN] | **5** | 2 | ![][flag_MX] Mexico | [#1](https://osu.ppy.sh/community/matches/56323868) |
 | **South Korea** ![][flag_KR] | **5** | 0 | ![][flag_NZ] New Zealand | [#1](https://osu.ppy.sh/community/matches/56324669) |

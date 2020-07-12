@@ -129,7 +129,7 @@ Some commands only accept a boolean value (a `true` or a `false` value). When sk
 
 Here is a classic example:
 
-| `SliderBallFlip: 0`        | `SliderBallFlip: 1`        |
+| `SliderBallFlip: 0` | `SliderBallFlip: 1` |
 | :-: | :-: |
 | ![](img/Sliderball_flip-0.gif) | ![](img/Sliderball_flip-1.gif) |
 

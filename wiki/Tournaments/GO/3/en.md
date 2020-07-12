@@ -559,7 +559,7 @@ This competition has come to an end and resulted in the following podium:
 | Viveliam ![][flag_NL] | 3 | **4** | ![][flag_HK] **DenierNezzar** | [#1](https://osu.ppy.sh/community/matches/50466844) |
 | **WubWoofWolf** ![][flag_PL] | **4** | 0 | ![][flag_SE] Reedkatt | [#1](https://osu.ppy.sh/community/matches/50468369) |
 | **WalkingTuna** ![][flag_KR] | **4** | 1 | ![][flag_MX] Andros | [#1](https://osu.ppy.sh/community/matches/50468498) |
-| **idke** ![][flag_US] |  **4** | 1 | ![][flag_MY] Rampax | [#1](https://osu.ppy.sh/community/matches/50468362) |
+| **idke** ![][flag_US] | **4** | 1 | ![][flag_MY] Rampax | [#1](https://osu.ppy.sh/community/matches/50468362) |
 | **Varvalian** ![][flag_JP] | **4** | 2 | ![][flag_PL] AstroFP | [#1](https://osu.ppy.sh/community/matches/50470038) |
 | kablaze ![][flag_US] | 0 | 4 | ![][flag_KR] **Ansol** | -win by default- |
 | NerO ![][flag_FR] | 3 | **4** | ![][flag_PL] **Mastasz** | [#1](https://osu.ppy.sh/community/matches/50473464) |

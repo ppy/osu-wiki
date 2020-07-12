@@ -12,7 +12,7 @@ In a distinct departure from other years, the osu! World Cup (or OWC) featured i
 
 ### [United Kingdom vs Germany](https://osu.ppy.sh/community/matches/48120274)
 
-<iframe src="https://player.twitch.tv/?autoplay=false&video=v349510004&t=05m" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
+<iframe src="https://player.twitch.tv/?video=v349510004&t=05m&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
 
 The first two teams up to play were Germany and the United Kingdom.
 
@@ -28,7 +28,7 @@ In the end, Team Germany conceded defeat at 4-7. Nonetheless, this still served 
 
 ### [United States vs United Kingdom](https://osu.ppy.sh/community/matches/48146823)
 
-<iframe src="https://player.twitch.tv/?autoplay=false&video=v349980088&t=04m30s" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
+<iframe src="https://player.twitch.tv/?video=v349980088&t=04m30s&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
 
 The stage then was set for the true Grand Finals to take place on December 16th, 2018, where two-time champion Team USA squared up against Team UK in a contest for their third ever osu!Champion title. Over recent years, the United States' osu! tournament scene has seen an astronomical expansion since its advent in 2015, with new and skilled players sprouting up like mushrooms after rains in a forest.
 
@@ -58,7 +58,7 @@ Now, the match was *truly* on.
 
 ### [United States vs United Kingdom: The Bracket Reset](https://osu.ppy.sh/community/matches/48149847)
 
-<iframe src="https://player.twitch.tv/?autoplay=false&video=v349980088&t=01h53m40s" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
+<iframe src="https://player.twitch.tv/?video=v349980088&t=01h53m40s&parent=osu.ppy.sh&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="100%"></iframe>
 
 After a quick break, the teams returned for the final showdown of the year.
 

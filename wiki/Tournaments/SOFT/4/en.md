@@ -94,7 +94,7 @@ The **Springtime Osu!mania Free-for-all Tournament 4** (***SOFT 4***) was a one-
 | **M** | ![][flag_ID] -Rem- | ![][flag_SE] Couil | ![][flag_GB] SoFast | ![][flag_NL] Obligerator |
 | **N** | ![][flag_TH] RuleBlazing | ![][flag_US] Chrubble | ![][flag_US] RemiFlan | ![][flag_US] Logan636 |
 | **O** | ![][flag_ID] \[Crz\]Crysarlene | ![][flag_TH] HowToPlayLN | ![][flag_PH] windrush123 | ![][flag_CA] CommandoBlack |
-| **P** | ![][flag_PL] Tidek  | ![][flag_FR] Cunu | ![][flag_JP] \[ misa \] | ![][flag_CA] AndyTechGuy |
+| **P** | ![][flag_PL] Tidek | ![][flag_FR] Cunu | ![][flag_JP] \[ misa \] | ![][flag_CA] AndyTechGuy |
 
 ---
 
@@ -287,7 +287,7 @@ More details can be found **[here](https://docs.google.com/spreadsheets/d/e/2PAC
 | Sunday, 2019-06-09 |  |  |  |  |
 | --: | :-: | :-: | :-- | :-- |
 | **wonder5193** ![][flag_KR] | **7** | 0 | ![][flag_US] Toaph Daddy | [#1](https://osu.ppy.sh/community/matches/52486834) |
-| **MyZterioN-** ![][flag_TH] | **7** | 4  | ![][flag_BR] andreymc | [#1](https://osu.ppy.sh/community/matches/52489690) |
+| **MyZterioN-** ![][flag_TH] | **7** | 4 | ![][flag_BR] andreymc | [#1](https://osu.ppy.sh/community/matches/52489690) |
 
 ### Semifinals
 

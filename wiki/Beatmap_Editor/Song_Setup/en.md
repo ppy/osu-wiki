@@ -12,6 +12,8 @@ Song Setup is the fourth section of the [Beatmap Editor](/wiki/Beatmap_Editor). 
 
 These fields should be completed before creating a second difficulty. This is primarily to ensure that the metadata will be consistent across all difficulties in the beatmapset.
 
+Input for artist, title, and source fields should be sourced from the song's [primary metadata source](/wiki/Beatmaps/Primary_metadata_source).
+
 #### Artist
 
 **The band, singer, composer, or group that performed or created the song.** Normally, this is automatically taken from the MP3 file's metadata, but double-check for proper spelling and punctuation.
@@ -38,7 +40,7 @@ This field should prefer to the spelling of the official release sources. The ar
 
 **The beatmap creator's username.** The game client should handle this automatically and will not allow you to edit this field, that is to say, if you are the creator.
 
-*Notice: The usernames of [Guest Creators](/wiki/GD) belong to the [Difficulty](#difficulty) and/or [Tags](#tags) fields.*
+*Notice: The usernames of [Guest Creators](/wiki/Beatmaps/Beatmapsets/Guest_difficulty) belong to the [Difficulty](#difficulty) and/or [Tags](#tags) fields.*
 
 #### Difficulty
 
@@ -66,7 +68,7 @@ Tags are separated with spaces. It is not necessary to use this field as other m
 
 ![Two screenshots of the Difficulty tab. osu!mania varies from the other game modes.](img/SS_Difficulty.jpg "Difficulty section. The right section is for osu!mania-specific beatmaps.")
 
-*Notice: The game mode specific [Ranking Criterias](/wiki/Ranking_Criteria) have rankable values that should be used.*
+*Notice: The game mode-specific [Ranking Criteria](/wiki/Ranking_Criteria) have rankable values that should be used.*
 
 The beatmap's difficulty settings; each setting affects different aspects of the beatmap.
 
@@ -78,9 +80,9 @@ The common notation to represent a difficulty setting and its value is the setti
 
 HP Drain Rate, commonly abbreviated as HP, determines the rate of health recovery from good hit scores and health punishment from bad hit scores. The value ranges from 0 to 10; higher HP values will give lower health recovery with higher health punishment.
 
-In osu!standard and osu!catch, this also affects the [Passive HP](/wiki/Glossary#life-bar) (the constant rate at which HP decreases, except during the [Breaks](/wiki/Breaks).
+In osu!standard and osu!catch, this also affects the [Passive HP](/wiki/Glossary#life-bar) (the constant rate at which HP decreases, except during the [Breaks](/wiki/Glossary#break).
 
-*Note: More HP is recovered with [Geki and Katu](/wiki/Score#osu) hit scores, which can be given from the last hit object in a combo.*
+*Note: More HP is recovered with [Geki and Katu](/wiki/Score#osu!) hit scores, which can be given from the last hit object in a combo.*
 
 ### Circle Size
 
@@ -90,9 +92,9 @@ In osu!standard and osu!catch, this also affects the [Passive HP](/wiki/Glossary
 
 Circle Size, commonly abbreviated as CS, exists only in osu!standard and osu!catch. CS determines the size of hit objects or, more specifically in osu!catch, determines the size of the catcher and fruit. The values range from 2 to 7; higher CS values will make hit objects smaller. Using the highest value will make the hit objects as big as the cursor.
 
-Most beatmaps use a value of 3 or 4, while a value of 5 or 6 is sometimes used and a value of 7 is almost never used. A value of 7 onwards is likely to be seen when using the [Hard Rock](/wiki/HR) mod.
+Most beatmaps use a value of 3 or 4, while a value of 5 or 6 is sometimes used and a value of 7 is almost never used. A value of 7 onwards is likely to be seen when using the [Hard Rock](/wiki/Game_Modifiers#hard-rock) mod.
 
-It is possible to set the CS value to something less than 2 or greater than 7 by manually editing the OSU file, but this is be avoided as it is considered to be unrankable.
+Setting the CS value to something less than 2 or greater than 7 can be done by manually editing the `.osu` file.
 
 #### Key Count
 
@@ -118,10 +120,10 @@ The duration of a hit object that stays visible on the screen (without mods) ran
 
 There are four mods that alters the Approach Rate timing when activated:
 
-- [Easy](/wiki/EZ): Halves the AR value. (e.g. AR10→AR5)
-- [Hard Rock](/wiki/HR): Multiplies the AR value by 1.40, up to a maximum of AR10. (e.g. AR3→AR4.2 or AR9→AR10)
-- [Double Time](/wiki/DT): The AR value is not affected, but due to the 50% play speed increase, this causes circles to stay on screen 33% milliseconds shorter.
-- [Half Time](/wiki/HT): The AR value is not affected, but due to the 25% play speed decrease, this causes circles to stay on screen 33% milliseconds longer.
+- [Easy](/wiki/Game_Modifiers#easy): Halves the AR value. (e.g. AR10→AR5)
+- [Hard Rock](/wiki/Game_Modifiers#hard-rock): Multiplies the AR value by 1.40, up to a maximum of AR10. (e.g. AR3→AR4.2 or AR9→AR10)
+- [Double Time](/wiki/Game_Modifiers#double-time): The AR value is not affected, but due to the 50% play speed increase, this causes circles to stay on screen 33% milliseconds shorter.
+- [Half Time](/wiki/Game_Modifiers#half-time): The AR value is not affected, but due to the 25% play speed decrease, this causes circles to stay on screen 33% milliseconds longer.
 
 While Half Time and Double Time does not change the actual given AR value, the speed difference leads to an apparent AR change, as low as AR-5 or as high as AR11. In the AR chart provided, those apparent values are given to allow easy comparison between approach speeds with and without mods. Actual AR, however, is always a number between 0 and 10. Note that AR levels scale by 120ms for below AR5 and 150ms for above AR5.
 
@@ -145,10 +147,10 @@ At OD0, a player can get a hit score of 300 at less than 79.5ms away from exactl
 
 There are four mods which alter Overall Difficulty timing when activated:
 
-- [Easy](/wiki/EZ): Halves the OD value.
-- [Hard Rock](/wiki/HR): Multiplies the OD value by 1.4, up to a maximum of OD10.
-- [Double Time](/wiki/DT): The OD value is not affected, but due to the 50% play speed increase this causes hit windows to be 33% shorter.
-- [Half Time](/wiki/HT): The OD value is not affected, but due to the 25% play speed decrease, this causes hit windows to be 33% longer.
+- [Easy](/wiki/Game_Modifiers#easy): Halves the OD value.
+- [Hard Rock](/wiki/Game_Modifiers#hard-rock): Multiplies the OD value by 1.4, up to a maximum of OD10.
+- [Double Time](/wiki/Game_Modifiers#double-time): The OD value is not affected, but due to the 50% play speed increase this causes hit windows to be 33% shorter.
+- [Half Time](/wiki/Game_Modifiers#half-time): The OD value is not affected, but due to the 25% play speed decrease, this causes hit windows to be 33% longer.
 
 While Half Time and Double Time do not change the actual OD value, the speed's effect on hit windows will make the hit objects seem to have a lower or higher apparent OD, respectively. In the OD chart provided, apparent OD values are provided to allow comparison between timings with and without these mods. Note that these apparent OD values only apply to 300s on circles. Windows for 100s, 50s, and sliders (which use the 50 hit window) scale more harshly with Double Time than this apparent OD suggests and more leniently with Half Time. Again, outside of NoMod, HR, and EZ (on the left side); the OD values provided are only for comparison: the actual OD value is always a number from 0 to 10.
 
@@ -158,11 +160,11 @@ While Half Time and Double Time do not change the actual OD value, the speed's e
 
 ### Default Sample Settings
 
-Configuration for hitsounds. Using this will apply globally over the entire beatmap; however, using the [timing](/wiki/Timing) sections (`F6`), the creator can change both hitsound sets or volume individually through timing points. `Sample Set Selection` and the `Sample Set Volume` will be inaccessible if there are any timing-sensitive volume adjustments used in the beatmap. Clicking on the `Reset Settings` button will remove all the custom timing volume adjustments.
+Configuration for hitsounds. Using this will apply globally over the entire beatmap; however, using the [timing](/wiki/Beatmap_Editor/Timing) sections (`F6`), the creator can change both hitsound sets or volume individually through timing points. `Sample Set Selection` and the `Sample Set Volume` will be inaccessible if there are any timing-sensitive volume adjustments used in the beatmap. Clicking on the `Reset Settings` button will remove all the custom timing volume adjustments.
 
 #### Sample Set Selection
 
-Select to use the `Normal`, `Soft`, or `Drum` built-in sample sets globally. It is possible to [enable custom overrides](/wiki/custom_sample_overrides) to use hitsound files inside the beatmap's folder first for custom hitsounds.
+Select to use the `Normal`, `Soft`, or `Drum` built-in sample sets globally. It is possible to [enable custom overrides](/wiki/Guides/Custom_Sample_Overrides) to use hitsound files inside the beatmap's folder first for custom hitsounds.
 
 #### Sample Set Volume
 
@@ -237,7 +239,7 @@ You can, however, include the skin elements inside the beatmap folder. As most c
 
 In osu!standard, hit objects will automatically stack if they are both placed in the same spot while being close in-time. This is to help players see hit objects that overlap each other.
 
-Moving the slider towards the right will space out the "closeness" of hit objects in-time before stacking will occur. [Rules](/wiki/rc_osu!#gameplay) dictate that if `Stack Leniency` is set so that stacking no longer occurs, the creator must manually offset the hit objects. This option is best left as is to its default value of `7`.
+Moving the slider towards the right will space out the "closeness" of hit objects in-time before stacking will occur. This option is best left as is to its default value of `7`.
 
 *Notice: Stacked hit circles in osu!standard will move towards the point where the stacking occurs.*
 
