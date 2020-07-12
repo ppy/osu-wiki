@@ -1,3 +1,7 @@
+---
+no_native_review: true
+---
+
 # Regler
 
 Dessa regler är basen vi använder för att hålla osu! communityn en rolig och välkomnande plats för alla.
